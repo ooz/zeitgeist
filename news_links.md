@@ -4,341 +4,340 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
-
-* [https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit-a-7fdab681-4813-4d32-b835-6c94e9a91723#ref=rss)
-* [https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-treffen-fuer-friedensgespraeche](https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-treffen-fuer-friedensgespraeche-a-6eded423-127d-4026-a92c-3ea419f4b8c1#ref=rss)
-* [https://www.spiegel.de/stil/gaestebuch-eintrag-schreiben-tipps-vom-ghostwriter](https://www.spiegel.de/stil/gaestebuch-eintrag-schreiben-tipps-vom-ghostwriter-a-4fd10008-567c-41a1-a16d-e9388d884acd#ref=rss)
-* [https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet](https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet-a-a0a03775-5cd2-4434-953d-65fb4cc5ca81#ref=rss)
-### trump
-
-* [https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit-a-7fdab681-4813-4d32-b835-6c94e9a91723#ref=rss)
-* [https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-treffen-fuer-friedensgespraeche](https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-treffen-fuer-friedensgespraeche-a-6eded423-127d-4026-a92c-3ea419f4b8c1#ref=rss)
-* [https://www.spiegel.de/stil/gaestebuch-eintrag-schreiben-tipps-vom-ghostwriter](https://www.spiegel.de/stil/gaestebuch-eintrag-schreiben-tipps-vom-ghostwriter-a-4fd10008-567c-41a1-a16d-e9388d884acd#ref=rss)
-* [https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet](https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet-a-a0a03775-5cd2-4434-953d-65fb4cc5ca81#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-islamistischer-anschlag-auf-kirche-mindestens-43-tote](https://www.spiegel.de/ausland/demokratische-republik-kongo-islamistischer-anschlag-auf-kirche-mindestens-43-tote-a-60a0464e-79ea-41e1-b108-e413b9a2e7a1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-war-die-europameisterschaft-ein-tv-blockbuster](https://www.spiegel.de/sport/fussball/fussball-em-2025-war-die-europameisterschaft-ein-tv-blockbuster-a-7aae2b1a-3b16-4e01-97f2-8f69c6bea7ff#ref=rss)
-* [https://www.spiegel.de/ausland/friedrich-merz-dringt-auf-waffenstillstand-im-israel-gaza-krieg](https://www.spiegel.de/ausland/friedrich-merz-dringt-auf-waffenstillstand-im-israel-gaza-krieg-a-8f77d8a4-9b91-4dc7-9965-bdaa82a3ab47#ref=rss)
-* [https://www.spiegel.de/wissenschaft/brasilien-hinweise-auf-illegale-missionierung-von-unkontaktierten-voelkern](https://www.spiegel.de/wissenschaft/brasilien-hinweise-auf-illegale-missionierung-von-unkontaktierten-voelkern-a-a008f069-a649-40f3-acaa-d4860925d38e#ref=rss)
-* [https://www.spiegel.de/panorama/weisse-riese-in-duisburg-hier-fliegt-ein-63-meter-hohes-hochhaus-in-die-luft](https://www.spiegel.de/panorama/weisse-riese-in-duisburg-hier-fliegt-ein-63-meter-hohes-hochhaus-in-die-luft-a-a23bb480-6f83-42ac-a4d8-d88681b69193#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/dolomiten-mindestens-83-toedliche-unfaelle-in-italienischen-alpen-innerhalb-eines-monats](https://www.spiegel.de/panorama/dolomiten-mindestens-83-toedliche-unfaelle-in-italienischen-alpen-innerhalb-eines-monats-a-f3151782-69dd-486e-a7ff-9cac377a255e#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/die-schwestern-von-jonas-hassen-khemiri-fluch-und-leben](https://www.spiegel.de/kultur/literatur/die-schwestern-von-jonas-hassen-khemiri-fluch-und-leben-a-146255e4-275b-43c1-b321-f89d17f3c7e9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/brasilien-hinweise-auf-illegale-missionierung-von-unkontaktierten-voelkern](https://www.spiegel.de/wissenschaft/brasilien-hinweise-auf-illegale-missionierung-von-unkontaktierten-voelkern-a-a008f069-a649-40f3-acaa-d4860925d38e#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/ausland/oesterreich-deutsche-urlauber-in-tirol-zwischen-liebe-und-kritik](https://www.spiegel.de/ausland/oesterreich-deutsche-urlauber-in-tirol-zwischen-liebe-und-kritik-a-996fc326-9a3b-4f36-b244-95699b7675fb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/tunnelpanne-in-oesterreich-ice-passagiere-bekommen-tickets-erstattet](https://www.spiegel.de/wirtschaft/service/tunnelpanne-in-oesterreich-ice-passagiere-bekommen-tickets-erstattet-a-da01f10e-3edf-44fc-99d8-a218d94088fd#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg](https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg-a-8b56e0c1-394a-4173-92d9-7e4f2941269f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-war-die-europameisterschaft-ein-tv-blockbuster](https://www.spiegel.de/sport/fussball/fussball-em-2025-war-die-europameisterschaft-ein-tv-blockbuster-a-7aae2b1a-3b16-4e01-97f2-8f69c6bea7ff#ref=rss)
-### drei
-
-* [https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg](https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg-a-8b56e0c1-394a-4173-92d9-7e4f2941269f#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/die-schwestern-von-jonas-hassen-khemiri-fluch-und-leben](https://www.spiegel.de/kultur/literatur/die-schwestern-von-jonas-hassen-khemiri-fluch-und-leben-a-146255e4-275b-43c1-b321-f89d17f3c7e9#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-will-lebensmittelversorgung-fuer-drei-monate-sichern](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-will-lebensmittelversorgung-fuer-drei-monate-sichern-a-8dc38abb-55d3-4a55-a96b-73f4b07f30ff#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg](https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg-a-8b56e0c1-394a-4173-92d9-7e4f2941269f#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-deutsche-urlauber-in-tirol-zwischen-liebe-und-kritik](https://www.spiegel.de/ausland/oesterreich-deutsche-urlauber-in-tirol-zwischen-liebe-und-kritik-a-996fc326-9a3b-4f36-b244-95699b7675fb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-war-die-europameisterschaft-ein-tv-blockbuster](https://www.spiegel.de/sport/fussball/fussball-em-2025-war-die-europameisterschaft-ein-tv-blockbuster-a-7aae2b1a-3b16-4e01-97f2-8f69c6bea7ff#ref=rss)
-### zollstreit
-
-* [https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit-a-7fdab681-4813-4d32-b835-6c94e9a91723#ref=rss)
-* [https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet](https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet-a-a0a03775-5cd2-4434-953d-65fb4cc5ca81#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit-a-7fdab681-4813-4d32-b835-6c94e9a91723#ref=rss)
-* [https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-treffen-fuer-friedensgespraeche](https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-treffen-fuer-friedensgespraeche-a-6eded423-127d-4026-a92c-3ea419f4b8c1#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit-a-7fdab681-4813-4d32-b835-6c94e9a91723#ref=rss)
-* [https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-treffen-fuer-friedensgespraeche](https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-treffen-fuer-friedensgespraeche-a-6eded423-127d-4026-a92c-3ea419f4b8c1#ref=rss)
-* [https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet](https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet-a-a0a03775-5cd2-4434-953d-65fb4cc5ca81#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-islamistischer-anschlag-auf-kirche-mindestens-43-tote](https://www.spiegel.de/ausland/demokratische-republik-kongo-islamistischer-anschlag-auf-kirche-mindestens-43-tote-a-60a0464e-79ea-41e1-b108-e413b9a2e7a1#ref=rss)
-* [https://www.spiegel.de/panorama/dolomiten-mindestens-83-toedliche-unfaelle-in-italienischen-alpen-innerhalb-eines-monats](https://www.spiegel.de/panorama/dolomiten-mindestens-83-toedliche-unfaelle-in-italienischen-alpen-innerhalb-eines-monats-a-f3151782-69dd-486e-a7ff-9cac377a255e#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-islamistischer-anschlag-auf-kirche-mindestens-43-tote](https://www.spiegel.de/ausland/demokratische-republik-kongo-islamistischer-anschlag-auf-kirche-mindestens-43-tote-a-60a0464e-79ea-41e1-b108-e413b9a2e7a1#ref=rss)
-* [https://www.spiegel.de/panorama/volksfestbesucher-ruft-die-polizei-weil-ihm-die-bratwurst-zu-teuer-ist](https://www.spiegel.de/panorama/volksfestbesucher-ruft-die-polizei-weil-ihm-die-bratwurst-zu-teuer-ist-a-098d1e41-15a9-4bb9-9886-32ca57992c8a#ref=rss)
-### sprengung
-
-* [https://www.spiegel.de/panorama/duisburg-technisch-anspruchsvolle-sprengung-des-weissen-riesen](https://www.spiegel.de/panorama/duisburg-technisch-anspruchsvolle-sprengung-des-weissen-riesen-a-d618b495-a1a1-415d-b852-130d36f4654f#ref=rss)
-* [https://www.spiegel.de/panorama/weisse-riese-in-duisburg-hier-fliegt-ein-63-meter-hohes-hochhaus-in-die-luft](https://www.spiegel.de/panorama/weisse-riese-in-duisburg-hier-fliegt-ein-63-meter-hohes-hochhaus-in-die-luft-a-a23bb480-6f83-42ac-a4d8-d88681b69193#ref=rss)
-### hochhaus
-
-* [https://www.spiegel.de/panorama/duisburg-technisch-anspruchsvolle-sprengung-des-weissen-riesen](https://www.spiegel.de/panorama/duisburg-technisch-anspruchsvolle-sprengung-des-weissen-riesen-a-d618b495-a1a1-415d-b852-130d36f4654f#ref=rss)
-* [https://www.spiegel.de/panorama/weisse-riese-in-duisburg-hier-fliegt-ein-63-meter-hohes-hochhaus-in-die-luft](https://www.spiegel.de/panorama/weisse-riese-in-duisburg-hier-fliegt-ein-63-meter-hohes-hochhaus-in-die-luft-a-a23bb480-6f83-42ac-a4d8-d88681b69193#ref=rss)
-### meter
-
-* [https://www.spiegel.de/panorama/lichtenstein-pedelec-fahrer-stuerzt-15-meter-tief-in-eine-schlucht](https://www.spiegel.de/panorama/lichtenstein-pedelec-fahrer-stuerzt-15-meter-tief-in-eine-schlucht-a-7d1a03d8-371d-46f9-8656-587a7d312b04#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-den-dritten-deutschen-rekord-in-52-tagen](https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-den-dritten-deutschen-rekord-in-52-tagen-a-bfe6bd8b-5cfb-4807-b6b2-68846e74639e#ref=rss)
-* [https://www.spiegel.de/panorama/weisse-riese-in-duisburg-hier-fliegt-ein-63-meter-hohes-hochhaus-in-die-luft](https://www.spiegel.de/panorama/weisse-riese-in-duisburg-hier-fliegt-ein-63-meter-hohes-hochhaus-in-die-luft-a-a23bb480-6f83-42ac-a4d8-d88681b69193#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/ausland/oesterreich-deutsche-urlauber-in-tirol-zwischen-liebe-und-kritik](https://www.spiegel.de/ausland/oesterreich-deutsche-urlauber-in-tirol-zwischen-liebe-und-kritik-a-996fc326-9a3b-4f36-b244-95699b7675fb#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-den-dritten-deutschen-rekord-in-52-tagen](https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-den-dritten-deutschen-rekord-in-52-tagen-a-bfe6bd8b-5cfb-4807-b6b2-68846e74639e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/tunnelpanne-in-oesterreich-ice-passagiere-bekommen-tickets-erstattet](https://www.spiegel.de/wirtschaft/service/tunnelpanne-in-oesterreich-ice-passagiere-bekommen-tickets-erstattet-a-da01f10e-3edf-44fc-99d8-a218d94088fd#ref=rss)
-### merz
-
-* [https://www.spiegel.de/ausland/friedrich-merz-dringt-auf-waffenstillstand-im-israel-gaza-krieg](https://www.spiegel.de/ausland/friedrich-merz-dringt-auf-waffenstillstand-im-israel-gaza-krieg-a-8f77d8a4-9b91-4dc7-9965-bdaa82a3ab47#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-gruenenchefin-brantner-draengt-merz-zu-europaeischer-initiative](https://www.spiegel.de/ausland/gaza-krieg-gruenenchefin-brantner-draengt-merz-zu-europaeischer-initiative-a-c43cdd63-0430-47af-8089-9de126f63e4e#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/ausland/friedrich-merz-dringt-auf-waffenstillstand-im-israel-gaza-krieg](https://www.spiegel.de/ausland/friedrich-merz-dringt-auf-waffenstillstand-im-israel-gaza-krieg-a-8f77d8a4-9b91-4dc7-9965-bdaa82a3ab47#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-gruenenchefin-brantner-draengt-merz-zu-europaeischer-initiative](https://www.spiegel.de/ausland/gaza-krieg-gruenenchefin-brantner-draengt-merz-zu-europaeischer-initiative-a-c43cdd63-0430-47af-8089-9de126f63e4e#ref=rss)
-### florian
-
-* [https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg](https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg-a-8b56e0c1-394a-4173-92d9-7e4f2941269f#ref=rss)
-### lipowitz
-
-* [https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg](https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg-a-8b56e0c1-394a-4173-92d9-7e4f2941269f#ref=rss)
-### holt
-
-* [https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg](https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg-a-8b56e0c1-394a-4173-92d9-7e4f2941269f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-in-der-kritik-fuer-aussage-ueber-eintrittsalter](https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-in-der-kritik-fuer-aussage-ueber-eintrittsalter-a-af6af11e-24b9-44a2-886c-fa2abb12c2b5#ref=rss)
-### tadej
-
-* [https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg](https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg-a-8b56e0c1-394a-4173-92d9-7e4f2941269f#ref=rss)
-### pogačar
-
-* [https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg](https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg-a-8b56e0c1-394a-4173-92d9-7e4f2941269f#ref=rss)
-### dritten
-
-* [https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg](https://www.spiegel.de/sport/tour-de-france-2025-florian-lipowitz-holt-platz-drei-tadej-pogacar-den-gesamtsieg-a-8b56e0c1-394a-4173-92d9-7e4f2941269f#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-den-dritten-deutschen-rekord-in-52-tagen](https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-den-dritten-deutschen-rekord-in-52-tagen-a-bfe6bd8b-5cfb-4807-b6b2-68846e74639e#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit-a-7fdab681-4813-4d32-b835-6c94e9a91723#ref=rss)
-* [https://www.spiegel.de/ausland/afrika-kingdom-of-kush-ein-koenigreich-im-niemandsland](https://www.spiegel.de/ausland/afrika-kingdom-of-kush-ein-koenigreich-im-niemandsland-a-a825e208-dbc3-44f9-b149-e86874791e69#ref=rss)
-### ursula
-
-* [https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit-a-7fdab681-4813-4d32-b835-6c94e9a91723#ref=rss)
-* [https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet](https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet-a-a0a03775-5cd2-4434-953d-65fb4cc5ca81#ref=rss)
-### leyen
-
-* [https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit-a-7fdab681-4813-4d32-b835-6c94e9a91723#ref=rss)
-* [https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet](https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet-a-a0a03775-5cd2-4434-953d-65fb4cc5ca81#ref=rss)
-### schottland
-
-* [https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit-a-7fdab681-4813-4d32-b835-6c94e9a91723#ref=rss)
-* [https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet](https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet-a-a0a03775-5cd2-4434-953d-65fb4cc5ca81#ref=rss)
-### deal
-
-* [https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit-a-7fdab681-4813-4d32-b835-6c94e9a91723#ref=rss)
-* [https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet](https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet-a-a0a03775-5cd2-4434-953d-65fb4cc5ca81#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/usa-und-eu-einigen-sich-im-zollstreit-a-7fdab681-4813-4d32-b835-6c94e9a91723#ref=rss)
-* [https://www.spiegel.de/wissenschaft/brasilien-hinweise-auf-illegale-missionierung-von-unkontaktierten-voelkern](https://www.spiegel.de/wissenschaft/brasilien-hinweise-auf-illegale-missionierung-von-unkontaktierten-voelkern-a-a008f069-a649-40f3-acaa-d4860925d38e#ref=rss)
-### biberach
-
-* [https://www.spiegel.de/panorama/personenzug-entgleist-in-oberschwaben-rettungskraefte-suchen-nach-fahrgaesten](https://www.spiegel.de/panorama/personenzug-entgleist-in-oberschwaben-rettungskraefte-suchen-nach-fahrgaesten-a-5808f18e-1bb5-4023-a304-1f636d391d76#ref=rss)
-### entgleist
-
-* [https://www.spiegel.de/panorama/personenzug-entgleist-in-oberschwaben-rettungskraefte-suchen-nach-fahrgaesten](https://www.spiegel.de/panorama/personenzug-entgleist-in-oberschwaben-rettungskraefte-suchen-nach-fahrgaesten-a-5808f18e-1bb5-4023-a304-1f636d391d76#ref=rss)
-### anschlag
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-islamistischer-anschlag-auf-kirche-mindestens-43-tote](https://www.spiegel.de/ausland/demokratische-republik-kongo-islamistischer-anschlag-auf-kirche-mindestens-43-tote-a-60a0464e-79ea-41e1-b108-e413b9a2e7a1#ref=rss)
-### kirche
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-islamistischer-anschlag-auf-kirche-mindestens-43-tote](https://www.spiegel.de/ausland/demokratische-republik-kongo-islamistischer-anschlag-auf-kirche-mindestens-43-tote-a-60a0464e-79ea-41e1-b108-e413b9a2e7a1#ref=rss)
-### 43
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-islamistischer-anschlag-auf-kirche-mindestens-43-tote](https://www.spiegel.de/ausland/demokratische-republik-kongo-islamistischer-anschlag-auf-kirche-mindestens-43-tote-a-60a0464e-79ea-41e1-b108-e413b9a2e7a1#ref=rss)
-### erst
-
-* [https://www.spiegel.de/ausland/demokratische-republik-kongo-islamistischer-anschlag-auf-kirche-mindestens-43-tote](https://www.spiegel.de/ausland/demokratische-republik-kongo-islamistischer-anschlag-auf-kirche-mindestens-43-tote-a-60a0464e-79ea-41e1-b108-e413b9a2e7a1#ref=rss)
-* [https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet](https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet-a-a0a03775-5cd2-4434-953d-65fb4cc5ca81#ref=rss)
-### italienischen
-
-* [https://www.spiegel.de/panorama/dolomiten-mindestens-83-toedliche-unfaelle-in-italienischen-alpen-innerhalb-eines-monats](https://www.spiegel.de/panorama/dolomiten-mindestens-83-toedliche-unfaelle-in-italienischen-alpen-innerhalb-eines-monats-a-f3151782-69dd-486e-a7ff-9cac377a255e#ref=rss)
-### alpen
-
-* [https://www.spiegel.de/panorama/dolomiten-mindestens-83-toedliche-unfaelle-in-italienischen-alpen-innerhalb-eines-monats](https://www.spiegel.de/panorama/dolomiten-mindestens-83-toedliche-unfaelle-in-italienischen-alpen-innerhalb-eines-monats-a-f3151782-69dd-486e-a7ff-9cac377a255e#ref=rss)
-### heidelberg
-
-* [https://www.spiegel.de/panorama/heidelberg-hausparty-einer-15-jaehrigen-geraet-ausser-kontrolle](https://www.spiegel.de/panorama/heidelberg-hausparty-einer-15-jaehrigen-geraet-ausser-kontrolle-a-08c9e022-7082-4d91-b5bc-c5edc2b73c98#ref=rss)
-### beginn
-
-* [https://www.spiegel.de/panorama/heidelberg-hausparty-einer-15-jaehrigen-geraet-ausser-kontrolle](https://www.spiegel.de/panorama/heidelberg-hausparty-einer-15-jaehrigen-geraet-ausser-kontrolle-a-08c9e022-7082-4d91-b5bc-c5edc2b73c98#ref=rss)
-* [https://www.spiegel.de/kultur/tv/zdf-fernsehgarten-wird-wegen-gewitter-kurz-nach-beginn-geraeumt](https://www.spiegel.de/kultur/tv/zdf-fernsehgarten-wird-wegen-gewitter-kurz-nach-beginn-geraeumt-a-665335ec-5ab4-4854-a75a-d84d73237a07#ref=rss)
-### schwestern
-
-* [https://www.spiegel.de/kultur/literatur/die-schwestern-von-jonas-hassen-khemiri-fluch-und-leben](https://www.spiegel.de/kultur/literatur/die-schwestern-von-jonas-hassen-khemiri-fluch-und-leben-a-146255e4-275b-43c1-b321-f89d17f3c7e9#ref=rss)
-### jonas
-
-* [https://www.spiegel.de/kultur/literatur/die-schwestern-von-jonas-hassen-khemiri-fluch-und-leben](https://www.spiegel.de/kultur/literatur/die-schwestern-von-jonas-hassen-khemiri-fluch-und-leben-a-146255e4-275b-43c1-b321-f89d17f3c7e9#ref=rss)
-### hassen
-
-* [https://www.spiegel.de/kultur/literatur/die-schwestern-von-jonas-hassen-khemiri-fluch-und-leben](https://www.spiegel.de/kultur/literatur/die-schwestern-von-jonas-hassen-khemiri-fluch-und-leben-a-146255e4-275b-43c1-b321-f89d17f3c7e9#ref=rss)
-### khemiri
-
-* [https://www.spiegel.de/kultur/literatur/die-schwestern-von-jonas-hassen-khemiri-fluch-und-leben](https://www.spiegel.de/kultur/literatur/die-schwestern-von-jonas-hassen-khemiri-fluch-und-leben-a-146255e4-275b-43c1-b321-f89d17f3c7e9#ref=rss)
-### fluch
-
-* [https://www.spiegel.de/kultur/literatur/die-schwestern-von-jonas-hassen-khemiri-fluch-und-leben](https://www.spiegel.de/kultur/literatur/die-schwestern-von-jonas-hassen-khemiri-fluch-und-leben-a-146255e4-275b-43c1-b321-f89d17f3c7e9#ref=rss)
-### duisburg
-
-* [https://www.spiegel.de/panorama/duisburg-technisch-anspruchsvolle-sprengung-des-weissen-riesen](https://www.spiegel.de/panorama/duisburg-technisch-anspruchsvolle-sprengung-des-weissen-riesen-a-d618b495-a1a1-415d-b852-130d36f4654f#ref=rss)
-* [https://www.spiegel.de/panorama/weisse-riese-in-duisburg-hier-fliegt-ein-63-meter-hohes-hochhaus-in-die-luft](https://www.spiegel.de/panorama/weisse-riese-in-duisburg-hier-fliegt-ein-63-meter-hohes-hochhaus-in-die-luft-a-a23bb480-6f83-42ac-a4d8-d88681b69193#ref=rss)
-### mclaren
-
-* [https://www.spiegel.de/sport/formel1/mclaren-in-der-formel-1-oscar-piastri-siegt-in-spa-vor-teamkollege-lando-norris](https://www.spiegel.de/sport/formel1/mclaren-in-der-formel-1-oscar-piastri-siegt-in-spa-vor-teamkollege-lando-norris-a-15aebe48-643c-4d95-ac82-35794fbdd145#ref=rss)
-### oscar
-
-* [https://www.spiegel.de/sport/formel1/mclaren-in-der-formel-1-oscar-piastri-siegt-in-spa-vor-teamkollege-lando-norris](https://www.spiegel.de/sport/formel1/mclaren-in-der-formel-1-oscar-piastri-siegt-in-spa-vor-teamkollege-lando-norris-a-15aebe48-643c-4d95-ac82-35794fbdd145#ref=rss)
-### piastri
-
-* [https://www.spiegel.de/sport/formel1/mclaren-in-der-formel-1-oscar-piastri-siegt-in-spa-vor-teamkollege-lando-norris](https://www.spiegel.de/sport/formel1/mclaren-in-der-formel-1-oscar-piastri-siegt-in-spa-vor-teamkollege-lando-norris-a-15aebe48-643c-4d95-ac82-35794fbdd145#ref=rss)
-### spa
-
-* [https://www.spiegel.de/sport/formel1/mclaren-in-der-formel-1-oscar-piastri-siegt-in-spa-vor-teamkollege-lando-norris](https://www.spiegel.de/sport/formel1/mclaren-in-der-formel-1-oscar-piastri-siegt-in-spa-vor-teamkollege-lando-norris-a-15aebe48-643c-4d95-ac82-35794fbdd145#ref=rss)
-### mussten
-
-* [https://www.spiegel.de/sport/formel1/mclaren-in-der-formel-1-oscar-piastri-siegt-in-spa-vor-teamkollege-lando-norris](https://www.spiegel.de/sport/formel1/mclaren-in-der-formel-1-oscar-piastri-siegt-in-spa-vor-teamkollege-lando-norris-a-15aebe48-643c-4d95-ac82-35794fbdd145#ref=rss)
-* [https://www.spiegel.de/panorama/weisse-riese-in-duisburg-hier-fliegt-ein-63-meter-hohes-hochhaus-in-die-luft](https://www.spiegel.de/panorama/weisse-riese-in-duisburg-hier-fliegt-ein-63-meter-hohes-hochhaus-in-die-luft-a-a23bb480-6f83-42ac-a4d8-d88681b69193#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/ausland/oesterreich-deutsche-urlauber-in-tirol-zwischen-liebe-und-kritik](https://www.spiegel.de/ausland/oesterreich-deutsche-urlauber-in-tirol-zwischen-liebe-und-kritik-a-996fc326-9a3b-4f36-b244-95699b7675fb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-in-der-kritik-fuer-aussage-ueber-eintrittsalter](https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-in-der-kritik-fuer-aussage-ueber-eintrittsalter-a-af6af11e-24b9-44a2-886c-fa2abb12c2b5#ref=rss)
-### hilfe
-
-* [https://www.spiegel.de/ausland/oesterreich-deutsche-urlauber-in-tirol-zwischen-liebe-und-kritik](https://www.spiegel.de/ausland/oesterreich-deutsche-urlauber-in-tirol-zwischen-liebe-und-kritik-a-996fc326-9a3b-4f36-b244-95699b7675fb#ref=rss)
-* [https://www.spiegel.de/panorama/volksfestbesucher-ruft-die-polizei-weil-ihm-die-bratwurst-zu-teuer-ist](https://www.spiegel.de/panorama/volksfestbesucher-ruft-die-polizei-weil-ihm-die-bratwurst-zu-teuer-ist-a-098d1e41-15a9-4bb9-9886-32ca57992c8a#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/ausland/oesterreich-deutsche-urlauber-in-tirol-zwischen-liebe-und-kritik](https://www.spiegel.de/ausland/oesterreich-deutsche-urlauber-in-tirol-zwischen-liebe-und-kritik-a-996fc326-9a3b-4f36-b244-95699b7675fb#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-gruenenchefin-brantner-draengt-merz-zu-europaeischer-initiative](https://www.spiegel.de/ausland/gaza-krieg-gruenenchefin-brantner-draengt-merz-zu-europaeischer-initiative-a-c43cdd63-0430-47af-8089-9de126f63e4e#ref=rss)
-### illegale
-
-* [https://www.spiegel.de/ausland/oesterreich-deutsche-urlauber-in-tirol-zwischen-liebe-und-kritik](https://www.spiegel.de/ausland/oesterreich-deutsche-urlauber-in-tirol-zwischen-liebe-und-kritik-a-996fc326-9a3b-4f36-b244-95699b7675fb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/brasilien-hinweise-auf-illegale-missionierung-von-unkontaktierten-voelkern](https://www.spiegel.de/wissenschaft/brasilien-hinweise-auf-illegale-missionierung-von-unkontaktierten-voelkern-a-a008f069-a649-40f3-acaa-d4860925d38e#ref=rss)
-### thailand
-
-* [https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-treffen-fuer-friedensgespraeche](https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-treffen-fuer-friedensgespraeche-a-6eded423-127d-4026-a92c-3ea419f4b8c1#ref=rss)
-### kambodscha
-
-* [https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-treffen-fuer-friedensgespraeche](https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-treffen-fuer-friedensgespraeche-a-6eded423-127d-4026-a92c-3ea419f4b8c1#ref=rss)
-### italien
-
-* [https://www.spiegel.de/panorama/italien-kellner-erstickt-beim-verzehr-von-mozzarella](https://www.spiegel.de/panorama/italien-kellner-erstickt-beim-verzehr-von-mozzarella-a-c74d4c34-2f85-4556-a0bd-222bcad7ecb2#ref=rss)
-### kellner
-
-* [https://www.spiegel.de/panorama/italien-kellner-erstickt-beim-verzehr-von-mozzarella](https://www.spiegel.de/panorama/italien-kellner-erstickt-beim-verzehr-von-mozzarella-a-c74d4c34-2f85-4556-a0bd-222bcad7ecb2#ref=rss)
-### erstickt
-
-* [https://www.spiegel.de/panorama/italien-kellner-erstickt-beim-verzehr-von-mozzarella](https://www.spiegel.de/panorama/italien-kellner-erstickt-beim-verzehr-von-mozzarella-a-c74d4c34-2f85-4556-a0bd-222bcad7ecb2#ref=rss)
-### mozzarella
-
-* [https://www.spiegel.de/panorama/italien-kellner-erstickt-beim-verzehr-von-mozzarella](https://www.spiegel.de/panorama/italien-kellner-erstickt-beim-verzehr-von-mozzarella-a-c74d4c34-2f85-4556-a0bd-222bcad7ecb2#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/ausland/afrika-kingdom-of-kush-ein-koenigreich-im-niemandsland](https://www.spiegel.de/ausland/afrika-kingdom-of-kush-ein-koenigreich-im-niemandsland-a-a825e208-dbc3-44f9-b149-e86874791e69#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-war-die-europameisterschaft-ein-tv-blockbuster](https://www.spiegel.de/sport/fussball/fussball-em-2025-war-die-europameisterschaft-ein-tv-blockbuster-a-7aae2b1a-3b16-4e01-97f2-8f69c6bea7ff#ref=rss)
-### robert
-
-* [https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-den-dritten-deutschen-rekord-in-52-tagen](https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-den-dritten-deutschen-rekord-in-52-tagen-a-bfe6bd8b-5cfb-4807-b6b2-68846e74639e#ref=rss)
-### farken
-
-* [https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-den-dritten-deutschen-rekord-in-52-tagen](https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-den-dritten-deutschen-rekord-in-52-tagen-a-bfe6bd8b-5cfb-4807-b6b2-68846e74639e#ref=rss)
-### schafft
-
-* [https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-den-dritten-deutschen-rekord-in-52-tagen](https://www.spiegel.de/sport/leichtathletik-robert-farken-knackt-den-dritten-deutschen-rekord-in-52-tagen-a-bfe6bd8b-5cfb-4807-b6b2-68846e74639e#ref=rss)
-* [https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet](https://www.spiegel.de/ausland/zollstreit-donald-trump-in-schottland-verhandlungen-mit-der-eu-erwartet-a-a0a03775-5cd2-4434-953d-65fb4cc5ca81#ref=rss)
-### chappatte
-
-* [https://www.spiegel.de/kultur/literatur/voellig-ueberfahren-cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/voellig-ueberfahren-cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-e4d50592-fe9d-45e6-838e-2514cbce5c2d#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/kultur/literatur/voellig-ueberfahren-cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/voellig-ueberfahren-cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-e4d50592-fe9d-45e6-838e-2514cbce5c2d#ref=rss)
-### plaßmann
-
-* [https://www.spiegel.de/kultur/literatur/voellig-ueberfahren-cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/voellig-ueberfahren-cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-e4d50592-fe9d-45e6-838e-2514cbce5c2d#ref=rss)
-### klaus
-
-* [https://www.spiegel.de/kultur/literatur/voellig-ueberfahren-cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/voellig-ueberfahren-cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-e4d50592-fe9d-45e6-838e-2514cbce5c2d#ref=rss)
-### stuttmann
-
-* [https://www.spiegel.de/kultur/literatur/voellig-ueberfahren-cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/voellig-ueberfahren-cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-e4d50592-fe9d-45e6-838e-2514cbce5c2d#ref=rss)
-### fußballem
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2025-war-die-europameisterschaft-ein-tv-blockbuster](https://www.spiegel.de/sport/fussball/fussball-em-2025-war-die-europameisterschaft-ein-tv-blockbuster-a-7aae2b1a-3b16-4e01-97f2-8f69c6bea7ff#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/ausland/friedrich-merz-dringt-auf-waffenstillstand-im-israel-gaza-krieg](https://www.spiegel.de/ausland/friedrich-merz-dringt-auf-waffenstillstand-im-israel-gaza-krieg-a-8f77d8a4-9b91-4dc7-9965-bdaa82a3ab47#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-gruenenchefin-brantner-draengt-merz-zu-europaeischer-initiative](https://www.spiegel.de/ausland/gaza-krieg-gruenenchefin-brantner-draengt-merz-zu-europaeischer-initiative-a-c43cdd63-0430-47af-8089-9de126f63e4e#ref=rss)
-### waffenstillstand
-
-* [https://www.spiegel.de/ausland/friedrich-merz-dringt-auf-waffenstillstand-im-israel-gaza-krieg](https://www.spiegel.de/ausland/friedrich-merz-dringt-auf-waffenstillstand-im-israel-gaza-krieg-a-8f77d8a4-9b91-4dc7-9965-bdaa82a3ab47#ref=rss)
-### israelgazakrieg
-
-* [https://www.spiegel.de/ausland/friedrich-merz-dringt-auf-waffenstillstand-im-israel-gaza-krieg](https://www.spiegel.de/ausland/friedrich-merz-dringt-auf-waffenstillstand-im-israel-gaza-krieg-a-8f77d8a4-9b91-4dc7-9965-bdaa82a3ab47#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-will-lebensmittelversorgung-fuer-drei-monate-sichern](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-will-lebensmittelversorgung-fuer-drei-monate-sichern-a-8dc38abb-55d3-4a55-a96b-73f4b07f30ff#ref=rss)
-### unterwegs
-
-* [https://www.spiegel.de/ausland/friedrich-merz-dringt-auf-waffenstillstand-im-israel-gaza-krieg](https://www.spiegel.de/ausland/friedrich-merz-dringt-auf-waffenstillstand-im-israel-gaza-krieg-a-8f77d8a4-9b91-4dc7-9965-bdaa82a3ab47#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-will-lebensmittelversorgung-fuer-drei-monate-sichern](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-will-lebensmittelversorgung-fuer-drei-monate-sichern-a-8dc38abb-55d3-4a55-a96b-73f4b07f30ff#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-luis-diaz-vor-wechsel-zu-bayern-muenchen-fuer-75-millionen-euro](https://www.spiegel.de/sport/fussball/fussball-transfers-luis-diaz-vor-wechsel-zu-bayern-muenchen-fuer-75-millionen-euro-a-95f983cb-3368-4168-a1d1-8236bb564e8c#ref=rss)
+* [https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren](https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren-a-d0d5b2f7-082b-45b5-a330-da4eadd75305#ref=rss)
+* [https://www.spiegel.de/karriere/zwei-jobs-gleichzeitig-doppel-jobber-zwischen-finanziellen-zwaengen-und-abwechslung](https://www.spiegel.de/karriere/zwei-jobs-gleichzeitig-doppel-jobber-zwischen-finanziellen-zwaengen-und-abwechslung-a-fd93634d-34d0-485e-9c11-70916917e7a5#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-angreifer-erschiesst-fuenf-menschen-auf-markt-in-bangkok](https://www.spiegel.de/ausland/thailand-angreifer-erschiesst-fuenf-menschen-auf-markt-in-bangkok-a-b2da1c00-855a-46c7-a3a2-f0cd26902cea#ref=rss)
+* [https://www.spiegel.de/panorama/zugunglueck-in-biberach-truemmer-zeigen-ausmass-der-katastrophe](https://www.spiegel.de/panorama/zugunglueck-in-biberach-truemmer-zeigen-ausmass-der-katastrophe-a-0e526246-9655-4b8a-b029-3bc003c90ada#ref=rss)
 ### millionen
 
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-luis-diaz-vor-wechsel-zu-bayern-muenchen-fuer-75-millionen-euro](https://www.spiegel.de/sport/fussball/fussball-transfers-luis-diaz-vor-wechsel-zu-bayern-muenchen-fuer-75-millionen-euro-a-95f983cb-3368-4168-a1d1-8236bb564e8c#ref=rss)
-* [https://www.spiegel.de/sport/blatten-nach-dem-bergsturz-tourismusparadies-von-naturgewalt-getroffen](https://www.spiegel.de/sport/blatten-nach-dem-bergsturz-tourismusparadies-von-naturgewalt-getroffen-a-965eaa77-c0b0-4c73-8680-2503835f9606#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-luis-diaz-kommt-fuer-75-millionen-aber-ist-er-das-auch-wert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-luis-diaz-kommt-fuer-75-millionen-aber-ist-er-das-auch-wert-a-59fc1b68-0177-4a99-bc26-42bb2ee4b0d9#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/influencer-und-steuern-manche-haben-ploetzlich-ein-riesenpublikum-und-verdienen-100-000-euro-im-monat](https://www.spiegel.de/netzwelt/web/influencer-und-steuern-manche-haben-ploetzlich-ein-riesenpublikum-und-verdienen-100-000-euro-im-monat-a-fdc7f6f9-761c-4588-a355-2ce057c4949f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/venedig-eintrittsgeld-bringt-5-4-millionen-euro-in-54-tagen](https://www.spiegel.de/wirtschaft/venedig-eintrittsgeld-bringt-5-4-millionen-euro-in-54-tagen-a-56b198c8-c368-4b49-83a6-9159acaf092a#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-lucy-bronze-spielte-offenbar-mit-gebrochenem-schienbein](https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-lucy-bronze-spielte-offenbar-mit-gebrochenem-schienbein-a-22068165-09e9-407e-b3b8-b1465cc90083#ref=rss)
+* [https://www.spiegel.de/sport/fussball/em-2025-ann-katrin-berger-chloe-kelly-jule-brand-cristiana-girelli-die-elf-des-turniers](https://www.spiegel.de/sport/fussball/em-2025-ann-katrin-berger-chloe-kelly-jule-brand-cristiana-girelli-die-elf-des-turniers-a-7891acdd-13c0-4b11-95dd-7a2f57a2ce4b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/englands-titel-bei-der-fussball-em-die-unbezwingbare-kelly-family](https://www.spiegel.de/sport/fussball/englands-titel-bei-der-fussball-em-die-unbezwingbare-kelly-family-a-0da22790-2f1d-44cc-ae61-5ff996f54eda#ref=rss)
 ### euro
 
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-luis-diaz-vor-wechsel-zu-bayern-muenchen-fuer-75-millionen-euro](https://www.spiegel.de/sport/fussball/fussball-transfers-luis-diaz-vor-wechsel-zu-bayern-muenchen-fuer-75-millionen-euro-a-95f983cb-3368-4168-a1d1-8236bb564e8c#ref=rss)
-* [https://www.spiegel.de/panorama/volksfestbesucher-ruft-die-polizei-weil-ihm-die-bratwurst-zu-teuer-ist](https://www.spiegel.de/panorama/volksfestbesucher-ruft-die-polizei-weil-ihm-die-bratwurst-zu-teuer-ist-a-098d1e41-15a9-4bb9-9886-32ca57992c8a#ref=rss)
-### katherina
+* [https://www.spiegel.de/netzwelt/web/influencer-und-steuern-manche-haben-ploetzlich-ein-riesenpublikum-und-verdienen-100-000-euro-im-monat](https://www.spiegel.de/netzwelt/web/influencer-und-steuern-manche-haben-ploetzlich-ein-riesenpublikum-und-verdienen-100-000-euro-im-monat-a-fdc7f6f9-761c-4588-a355-2ce057c4949f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/venedig-eintrittsgeld-bringt-5-4-millionen-euro-in-54-tagen](https://www.spiegel.de/wirtschaft/venedig-eintrittsgeld-bringt-5-4-millionen-euro-in-54-tagen-a-56b198c8-c368-4b49-83a6-9159acaf092a#ref=rss)
+### horst
 
-* [https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-in-der-kritik-fuer-aussage-ueber-eintrittsalter](https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-in-der-kritik-fuer-aussage-ueber-eintrittsalter-a-af6af11e-24b9-44a2-886c-fa2abb12c2b5#ref=rss)
-### reiche
+* [https://www.spiegel.de/panorama/horst-mahler-ein-nachruf-auf-den-holocaustleugner-und-juristen](https://www.spiegel.de/panorama/horst-mahler-ein-nachruf-auf-den-holocaustleugner-und-juristen-a-c829d9e4-f38c-46e8-944d-bad859474ae6#ref=rss)
+* [https://www.spiegel.de/panorama/horst-mahler-holocaustleugner-und-neonazi-ist-tot](https://www.spiegel.de/panorama/horst-mahler-holocaustleugner-und-neonazi-ist-tot-a-8ae90beb-313b-4198-b849-a2a80a2ce3e4#ref=rss)
+### mahler
 
-* [https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-in-der-kritik-fuer-aussage-ueber-eintrittsalter](https://www.spiegel.de/politik/deutschland/rente-katherina-reiche-in-der-kritik-fuer-aussage-ueber-eintrittsalter-a-af6af11e-24b9-44a2-886c-fa2abb12c2b5#ref=rss)
-### blatten
+* [https://www.spiegel.de/panorama/horst-mahler-ein-nachruf-auf-den-holocaustleugner-und-juristen](https://www.spiegel.de/panorama/horst-mahler-ein-nachruf-auf-den-holocaustleugner-und-juristen-a-c829d9e4-f38c-46e8-944d-bad859474ae6#ref=rss)
+* [https://www.spiegel.de/panorama/horst-mahler-holocaustleugner-und-neonazi-ist-tot](https://www.spiegel.de/panorama/horst-mahler-holocaustleugner-und-neonazi-ist-tot-a-8ae90beb-313b-4198-b849-a2a80a2ce3e4#ref=rss)
+### fc
 
-* [https://www.spiegel.de/sport/blatten-nach-dem-bergsturz-tourismusparadies-von-naturgewalt-getroffen](https://www.spiegel.de/sport/blatten-nach-dem-bergsturz-tourismusparadies-von-naturgewalt-getroffen-a-965eaa77-c0b0-4c73-8680-2503835f9606#ref=rss)
-### hofer
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-luis-diaz-kommt-fuer-75-millionen-aber-ist-er-das-auch-wert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-luis-diaz-kommt-fuer-75-millionen-aber-ist-er-das-auch-wert-a-59fc1b68-0177-4a99-bc26-42bb2ee4b0d9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-hsv-razzia-gegen-hsv-fans-nach-angriff-auf-anhaenger-des-1-fc-koeln](https://www.spiegel.de/sport/fussball/hamburger-hsv-razzia-gegen-hsv-fans-nach-angriff-auf-anhaenger-des-1-fc-koeln-a-adfb23ae-e688-43e9-954a-c7e5a47209c3#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/panorama/volksfestbesucher-ruft-die-polizei-weil-ihm-die-bratwurst-zu-teuer-ist](https://www.spiegel.de/panorama/volksfestbesucher-ruft-die-polizei-weil-ihm-die-bratwurst-zu-teuer-ist-a-098d1e41-15a9-4bb9-9886-32ca57992c8a#ref=rss)
-### volksfest
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-luis-diaz-kommt-fuer-75-millionen-aber-ist-er-das-auch-wert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-luis-diaz-kommt-fuer-75-millionen-aber-ist-er-das-auch-wert-a-59fc1b68-0177-4a99-bc26-42bb2ee4b0d9#ref=rss)
+* [https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren](https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren-a-d0d5b2f7-082b-45b5-a330-da4eadd75305#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/sprachkompetenzen-manche-haengen-schon-als-kleinkinder-hinterher-neue-studie](https://www.spiegel.de/panorama/bildung/sprachkompetenzen-manche-haengen-schon-als-kleinkinder-hinterher-neue-studie-a-ad78b64d-1fe8-4acc-9138-c482d7f7c404#ref=rss)
+### alter
 
-* [https://www.spiegel.de/panorama/volksfestbesucher-ruft-die-polizei-weil-ihm-die-bratwurst-zu-teuer-ist](https://www.spiegel.de/panorama/volksfestbesucher-ruft-die-polizei-weil-ihm-die-bratwurst-zu-teuer-ist-a-098d1e41-15a9-4bb9-9886-32ca57992c8a#ref=rss)
-### bratwurst
+* [https://www.spiegel.de/kultur/musik/satire-ikone-tom-lehrer-ist-tot](https://www.spiegel.de/kultur/musik/satire-ikone-tom-lehrer-ist-tot-a-08ddd9d0-7127-481e-ae97-b8c33de19b87#ref=rss)
+* [https://www.spiegel.de/panorama/horst-mahler-ein-nachruf-auf-den-holocaustleugner-und-juristen](https://www.spiegel.de/panorama/horst-mahler-ein-nachruf-auf-den-holocaustleugner-und-juristen-a-c829d9e4-f38c-46e8-944d-bad859474ae6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cambridge-4000-jahre-alter-handabdruck-aus-dem-alten-aegypten-entdeckt](https://www.spiegel.de/wissenschaft/cambridge-4000-jahre-alter-handabdruck-aus-dem-alten-aegypten-entdeckt-a-92b8544e-9c37-4645-97c5-9a074be006a4#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/volksfestbesucher-ruft-die-polizei-weil-ihm-die-bratwurst-zu-teuer-ist](https://www.spiegel.de/panorama/volksfestbesucher-ruft-die-polizei-weil-ihm-die-bratwurst-zu-teuer-ist-a-098d1e41-15a9-4bb9-9886-32ca57992c8a#ref=rss)
-### bekommen
+* [https://www.spiegel.de/kultur/musik/satire-ikone-tom-lehrer-ist-tot](https://www.spiegel.de/kultur/musik/satire-ikone-tom-lehrer-ist-tot-a-08ddd9d0-7127-481e-ae97-b8c33de19b87#ref=rss)
+* [https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren](https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren-a-d0d5b2f7-082b-45b5-a330-da4eadd75305#ref=rss)
+* [https://www.spiegel.de/panorama/horst-mahler-ein-nachruf-auf-den-holocaustleugner-und-juristen](https://www.spiegel.de/panorama/horst-mahler-ein-nachruf-auf-den-holocaustleugner-und-juristen-a-c829d9e4-f38c-46e8-944d-bad859474ae6#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/wirtschaft/service/tunnelpanne-in-oesterreich-ice-passagiere-bekommen-tickets-erstattet](https://www.spiegel.de/wirtschaft/service/tunnelpanne-in-oesterreich-ice-passagiere-bekommen-tickets-erstattet-a-da01f10e-3edf-44fc-99d8-a218d94088fd#ref=rss)
-### tickets
+* [https://www.spiegel.de/kultur/musik/satire-ikone-tom-lehrer-ist-tot](https://www.spiegel.de/kultur/musik/satire-ikone-tom-lehrer-ist-tot-a-08ddd9d0-7127-481e-ae97-b8c33de19b87#ref=rss)
+* [https://www.spiegel.de/panorama/horst-mahler-ein-nachruf-auf-den-holocaustleugner-und-juristen](https://www.spiegel.de/panorama/horst-mahler-ein-nachruf-auf-den-holocaustleugner-und-juristen-a-c829d9e4-f38c-46e8-944d-bad859474ae6#ref=rss)
+* [https://www.spiegel.de/panorama/horst-mahler-holocaustleugner-und-neonazi-ist-tot](https://www.spiegel.de/panorama/horst-mahler-holocaustleugner-und-neonazi-ist-tot-a-8ae90beb-313b-4198-b849-a2a80a2ce3e4#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/wirtschaft/service/tunnelpanne-in-oesterreich-ice-passagiere-bekommen-tickets-erstattet](https://www.spiegel.de/wirtschaft/service/tunnelpanne-in-oesterreich-ice-passagiere-bekommen-tickets-erstattet-a-da01f10e-3edf-44fc-99d8-a218d94088fd#ref=rss)
-### erstattet
+* [https://www.spiegel.de/ausland/uno-klimabeauftragter-ermahnt-australien](https://www.spiegel.de/ausland/uno-klimabeauftragter-ermahnt-australien-a-f5f98842-893b-46f5-a601-af6d726a72cc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/bundeswehr-aufruestung-forscher-fordert-energieautarke-truppen-und-stuetzpunkte](https://www.spiegel.de/wissenschaft/bundeswehr-aufruestung-forscher-fordert-energieautarke-truppen-und-stuetzpunkte-a-ce969fa1-0a4f-490a-be70-bd48699e608d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-us-zolleinigung-deal-auf-dem-ruecken-der-stahlindustrie](https://www.spiegel.de/wirtschaft/eu-us-zolleinigung-deal-auf-dem-ruecken-der-stahlindustrie-a-8c56cfbc-6769-45e9-855b-3a63c1bbb3c7#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/service/tunnelpanne-in-oesterreich-ice-passagiere-bekommen-tickets-erstattet](https://www.spiegel.de/wirtschaft/service/tunnelpanne-in-oesterreich-ice-passagiere-bekommen-tickets-erstattet-a-da01f10e-3edf-44fc-99d8-a218d94088fd#ref=rss)
-### gazastreifen
+* [https://www.spiegel.de/ausland/uno-klimabeauftragter-ermahnt-australien](https://www.spiegel.de/ausland/uno-klimabeauftragter-ermahnt-australien-a-f5f98842-893b-46f5-a601-af6d726a72cc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-gewinn-schrumpft-um-mehr-als-ein-drittel](https://www.spiegel.de/wirtschaft/unternehmen/audi-gewinn-schrumpft-um-mehr-als-ein-drittel-a-58ca3545-1d58-4433-9754-d254eb781136#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-hsv-razzia-gegen-hsv-fans-nach-angriff-auf-anhaenger-des-1-fc-koeln](https://www.spiegel.de/sport/fussball/hamburger-hsv-razzia-gegen-hsv-fans-nach-angriff-auf-anhaenger-des-1-fc-koeln-a-adfb23ae-e688-43e9-954a-c7e5a47209c3#ref=rss)
+### englands
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-will-lebensmittelversorgung-fuer-drei-monate-sichern](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-will-lebensmittelversorgung-fuer-drei-monate-sichern-a-8dc38abb-55d3-4a55-a96b-73f4b07f30ff#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-gruenenchefin-brantner-draengt-merz-zu-europaeischer-initiative](https://www.spiegel.de/ausland/gaza-krieg-gruenenchefin-brantner-draengt-merz-zu-europaeischer-initiative-a-c43cdd63-0430-47af-8089-9de126f63e4e#ref=rss)
-### gewitter
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-lucy-bronze-spielte-offenbar-mit-gebrochenem-schienbein](https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-lucy-bronze-spielte-offenbar-mit-gebrochenem-schienbein-a-22068165-09e9-407e-b3b8-b1465cc90083#ref=rss)
+* [https://www.spiegel.de/sport/fussball/englands-titel-bei-der-fussball-em-die-unbezwingbare-kelly-family](https://www.spiegel.de/sport/fussball/englands-titel-bei-der-fussball-em-die-unbezwingbare-kelly-family-a-0da22790-2f1d-44cc-ae61-5ff996f54eda#ref=rss)
+### prozent
 
-* [https://www.spiegel.de/kultur/tv/zdf-fernsehgarten-wird-wegen-gewitter-kurz-nach-beginn-geraeumt](https://www.spiegel.de/kultur/tv/zdf-fernsehgarten-wird-wegen-gewitter-kurz-nach-beginn-geraeumt-a-665335ec-5ab4-4854-a75a-d84d73237a07#ref=rss)
-### fiel
+* [https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren](https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren-a-d0d5b2f7-082b-45b5-a330-da4eadd75305#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-us-zolleinigung-deal-auf-dem-ruecken-der-stahlindustrie](https://www.spiegel.de/wirtschaft/eu-us-zolleinigung-deal-auf-dem-ruecken-der-stahlindustrie-a-8c56cfbc-6769-45e9-855b-3a63c1bbb3c7#ref=rss)
+### 54
 
-* [https://www.spiegel.de/kultur/tv/zdf-fernsehgarten-wird-wegen-gewitter-kurz-nach-beginn-geraeumt](https://www.spiegel.de/kultur/tv/zdf-fernsehgarten-wird-wegen-gewitter-kurz-nach-beginn-geraeumt-a-665335ec-5ab4-4854-a75a-d84d73237a07#ref=rss)
-* [https://www.spiegel.de/panorama/weisse-riese-in-duisburg-hier-fliegt-ein-63-meter-hohes-hochhaus-in-die-luft](https://www.spiegel.de/panorama/weisse-riese-in-duisburg-hier-fliegt-ein-63-meter-hohes-hochhaus-in-die-luft-a-a23bb480-6f83-42ac-a4d8-d88681b69193#ref=rss)
-### verlassen
+* [https://www.spiegel.de/wirtschaft/venedig-eintrittsgeld-bringt-5-4-millionen-euro-in-54-tagen](https://www.spiegel.de/wirtschaft/venedig-eintrittsgeld-bringt-5-4-millionen-euro-in-54-tagen-a-56b198c8-c368-4b49-83a6-9159acaf092a#ref=rss)
+### stadt
 
-* [https://www.spiegel.de/kultur/tv/zdf-fernsehgarten-wird-wegen-gewitter-kurz-nach-beginn-geraeumt](https://www.spiegel.de/kultur/tv/zdf-fernsehgarten-wird-wegen-gewitter-kurz-nach-beginn-geraeumt-a-665335ec-5ab4-4854-a75a-d84d73237a07#ref=rss)
-* [https://www.spiegel.de/panorama/weisse-riese-in-duisburg-hier-fliegt-ein-63-meter-hohes-hochhaus-in-die-luft](https://www.spiegel.de/panorama/weisse-riese-in-duisburg-hier-fliegt-ein-63-meter-hohes-hochhaus-in-die-luft-a-a23bb480-6f83-42ac-a4d8-d88681b69193#ref=rss)
-### brantner
+* [https://www.spiegel.de/wirtschaft/venedig-eintrittsgeld-bringt-5-4-millionen-euro-in-54-tagen](https://www.spiegel.de/wirtschaft/venedig-eintrittsgeld-bringt-5-4-millionen-euro-in-54-tagen-a-56b198c8-c368-4b49-83a6-9159acaf092a#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kiel-schulen-muessen-kuenftig-unisex-toiletten-einrichten](https://www.spiegel.de/panorama/bildung/kiel-schulen-muessen-kuenftig-unisex-toiletten-einrichten-a-8afac41a-a731-49a9-8cba-fe0861524328#ref=rss)
+### thailand
 
-* [https://www.spiegel.de/ausland/gaza-krieg-gruenenchefin-brantner-draengt-merz-zu-europaeischer-initiative](https://www.spiegel.de/ausland/gaza-krieg-gruenenchefin-brantner-draengt-merz-zu-europaeischer-initiative-a-c43cdd63-0430-47af-8089-9de126f63e4e#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-und-kambodscha-stimmen-waffenruhe-zu](https://www.spiegel.de/ausland/thailand-und-kambodscha-stimmen-waffenruhe-zu-a-23f2a7cd-0790-4a8c-966f-3d350aab7394#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-angreifer-erschiesst-fuenf-menschen-auf-markt-in-bangkok](https://www.spiegel.de/ausland/thailand-angreifer-erschiesst-fuenf-menschen-auf-markt-in-bangkok-a-b2da1c00-855a-46c7-a3a2-f0cd26902cea#ref=rss)
+### holocaustleugner
+
+* [https://www.spiegel.de/panorama/horst-mahler-ein-nachruf-auf-den-holocaustleugner-und-juristen](https://www.spiegel.de/panorama/horst-mahler-ein-nachruf-auf-den-holocaustleugner-und-juristen-a-c829d9e4-f38c-46e8-944d-bad859474ae6#ref=rss)
+* [https://www.spiegel.de/panorama/horst-mahler-holocaustleugner-und-neonazi-ist-tot](https://www.spiegel.de/panorama/horst-mahler-holocaustleugner-und-neonazi-ist-tot-a-8ae90beb-313b-4198-b849-a2a80a2ce3e4#ref=rss)
+### chloe
+
+* [https://www.spiegel.de/sport/fussball/em-2025-ann-katrin-berger-chloe-kelly-jule-brand-cristiana-girelli-die-elf-des-turniers](https://www.spiegel.de/sport/fussball/em-2025-ann-katrin-berger-chloe-kelly-jule-brand-cristiana-girelli-die-elf-des-turniers-a-7891acdd-13c0-4b11-95dd-7a2f57a2ce4b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/englands-titel-bei-der-fussball-em-die-unbezwingbare-kelly-family](https://www.spiegel.de/sport/fussball/englands-titel-bei-der-fussball-em-die-unbezwingbare-kelly-family-a-0da22790-2f1d-44cc-ae61-5ff996f54eda#ref=rss)
+### kelly
+
+* [https://www.spiegel.de/sport/fussball/em-2025-ann-katrin-berger-chloe-kelly-jule-brand-cristiana-girelli-die-elf-des-turniers](https://www.spiegel.de/sport/fussball/em-2025-ann-katrin-berger-chloe-kelly-jule-brand-cristiana-girelli-die-elf-des-turniers-a-7891acdd-13c0-4b11-95dd-7a2f57a2ce4b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/englands-titel-bei-der-fussball-em-die-unbezwingbare-kelly-family](https://www.spiegel.de/sport/fussball/englands-titel-bei-der-fussball-em-die-unbezwingbare-kelly-family-a-0da22790-2f1d-44cc-ae61-5ff996f54eda#ref=rss)
+### eu
+
+* [https://www.spiegel.de/wirtschaft/eu-us-deal-in-der-internationalen-presse-dieser-deal-ist-einseitig](https://www.spiegel.de/wirtschaft/eu-us-deal-in-der-internationalen-presse-dieser-deal-ist-einseitig-a-48de0356-d4e1-473b-bc02-e94801a7e395#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-us-zolleinigung-deal-auf-dem-ruecken-der-stahlindustrie](https://www.spiegel.de/wirtschaft/eu-us-zolleinigung-deal-auf-dem-ruecken-der-stahlindustrie-a-8c56cfbc-6769-45e9-855b-3a63c1bbb3c7#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-luis-diaz-kommt-fuer-75-millionen-aber-ist-er-das-auch-wert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-luis-diaz-kommt-fuer-75-millionen-aber-ist-er-das-auch-wert-a-59fc1b68-0177-4a99-bc26-42bb2ee4b0d9#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-luis-diaz-kommt-fuer-75-millionen-aber-ist-er-das-auch-wert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-luis-diaz-kommt-fuer-75-millionen-aber-ist-er-das-auch-wert-a-59fc1b68-0177-4a99-bc26-42bb2ee4b0d9#ref=rss)
+### luis
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-luis-diaz-kommt-fuer-75-millionen-aber-ist-er-das-auch-wert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-luis-diaz-kommt-fuer-75-millionen-aber-ist-er-das-auch-wert-a-59fc1b68-0177-4a99-bc26-42bb2ee4b0d9#ref=rss)
+### díaz
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-luis-diaz-kommt-fuer-75-millionen-aber-ist-er-das-auch-wert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-luis-diaz-kommt-fuer-75-millionen-aber-ist-er-das-auch-wert-a-59fc1b68-0177-4a99-bc26-42bb2ee4b0d9#ref=rss)
+### angreifer
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-luis-diaz-kommt-fuer-75-millionen-aber-ist-er-das-auch-wert](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-luis-diaz-kommt-fuer-75-millionen-aber-ist-er-das-auch-wert-a-59fc1b68-0177-4a99-bc26-42bb2ee4b0d9#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-angreifer-erschiesst-fuenf-menschen-auf-markt-in-bangkok](https://www.spiegel.de/ausland/thailand-angreifer-erschiesst-fuenf-menschen-auf-markt-in-bangkok-a-b2da1c00-855a-46c7-a3a2-f0cd26902cea#ref=rss)
+### tom
+
+* [https://www.spiegel.de/kultur/musik/satire-ikone-tom-lehrer-ist-tot](https://www.spiegel.de/kultur/musik/satire-ikone-tom-lehrer-ist-tot-a-08ddd9d0-7127-481e-ae97-b8c33de19b87#ref=rss)
+### lehrer
+
+* [https://www.spiegel.de/kultur/musik/satire-ikone-tom-lehrer-ist-tot](https://www.spiegel.de/kultur/musik/satire-ikone-tom-lehrer-ist-tot-a-08ddd9d0-7127-481e-ae97-b8c33de19b87#ref=rss)
+### tot
+
+* [https://www.spiegel.de/kultur/musik/satire-ikone-tom-lehrer-ist-tot](https://www.spiegel.de/kultur/musik/satire-ikone-tom-lehrer-ist-tot-a-08ddd9d0-7127-481e-ae97-b8c33de19b87#ref=rss)
+* [https://www.spiegel.de/panorama/horst-mahler-holocaustleugner-und-neonazi-ist-tot](https://www.spiegel.de/panorama/horst-mahler-holocaustleugner-und-neonazi-ist-tot-a-8ae90beb-313b-4198-b849-a2a80a2ce3e4#ref=rss)
+### australien
+
+* [https://www.spiegel.de/ausland/uno-klimabeauftragter-ermahnt-australien](https://www.spiegel.de/ausland/uno-klimabeauftragter-ermahnt-australien-a-f5f98842-893b-46f5-a601-af6d726a72cc#ref=rss)
+### fußballem
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-lucy-bronze-spielte-offenbar-mit-gebrochenem-schienbein](https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-lucy-bronze-spielte-offenbar-mit-gebrochenem-schienbein-a-22068165-09e9-407e-b3b8-b1465cc90083#ref=rss)
+* [https://www.spiegel.de/sport/fussball/englands-titel-bei-der-fussball-em-die-unbezwingbare-kelly-family](https://www.spiegel.de/sport/fussball/englands-titel-bei-der-fussball-em-die-unbezwingbare-kelly-family-a-0da22790-2f1d-44cc-ae61-5ff996f54eda#ref=rss)
+### lucy
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-lucy-bronze-spielte-offenbar-mit-gebrochenem-schienbein](https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-lucy-bronze-spielte-offenbar-mit-gebrochenem-schienbein-a-22068165-09e9-407e-b3b8-b1465cc90083#ref=rss)
+### bronze
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-lucy-bronze-spielte-offenbar-mit-gebrochenem-schienbein](https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-lucy-bronze-spielte-offenbar-mit-gebrochenem-schienbein-a-22068165-09e9-407e-b3b8-b1465cc90083#ref=rss)
+### emtitel
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-lucy-bronze-spielte-offenbar-mit-gebrochenem-schienbein](https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-lucy-bronze-spielte-offenbar-mit-gebrochenem-schienbein-a-22068165-09e9-407e-b3b8-b1465cc90083#ref=rss)
+* [https://www.spiegel.de/sport/fussball/englands-titel-bei-der-fussball-em-die-unbezwingbare-kelly-family](https://www.spiegel.de/sport/fussball/englands-titel-bei-der-fussball-em-die-unbezwingbare-kelly-family-a-0da22790-2f1d-44cc-ae61-5ff996f54eda#ref=rss)
+### preis
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-lucy-bronze-spielte-offenbar-mit-gebrochenem-schienbein](https://www.spiegel.de/sport/fussball/fussball-em-2025-englands-lucy-bronze-spielte-offenbar-mit-gebrochenem-schienbein-a-22068165-09e9-407e-b3b8-b1465cc90083#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-us-deal-in-der-internationalen-presse-dieser-deal-ist-einseitig](https://www.spiegel.de/wirtschaft/eu-us-deal-in-der-internationalen-presse-dieser-deal-ist-einseitig-a-48de0356-d4e1-473b-bc02-e94801a7e395#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### pro
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/venedig-eintrittsgeld-bringt-5-4-millionen-euro-in-54-tagen](https://www.spiegel.de/wirtschaft/venedig-eintrittsgeld-bringt-5-4-millionen-euro-in-54-tagen-a-56b198c8-c368-4b49-83a6-9159acaf092a#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/reise/europa/recht-auf-reisen-was-tun-wenn-es-in-ihrer-urlaubsregion-brennt](https://www.spiegel.de/reise/europa/recht-auf-reisen-was-tun-wenn-es-in-ihrer-urlaubsregion-brennt-a-9131d4d6-886f-4299-90b1-68143b4582dc#ref=rss)
+### new
+
+* [https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren](https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren-a-d0d5b2f7-082b-45b5-a330-da4eadd75305#ref=rss)
+### york
+
+* [https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren](https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren-a-d0d5b2f7-082b-45b5-a330-da4eadd75305#ref=rss)
+### 15
+
+* [https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren](https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren-a-d0d5b2f7-082b-45b5-a330-da4eadd75305#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-us-zolleinigung-deal-auf-dem-ruecken-der-stahlindustrie](https://www.spiegel.de/wirtschaft/eu-us-zolleinigung-deal-auf-dem-ruecken-der-stahlindustrie-a-8c56cfbc-6769-45e9-855b-3a63c1bbb3c7#ref=rss)
+### schneller
+
+* [https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren](https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren-a-d0d5b2f7-082b-45b5-a330-da4eadd75305#ref=rss)
+### ki
+
+* [https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren](https://www.spiegel.de/auto/new-york-fussgaenger-gehen-15-prozent-schneller-als-noch-in-den-achtzigerjahren-a-d0d5b2f7-082b-45b5-a330-da4eadd75305#ref=rss)
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-verurteilt-schoenheits-ops-generationen-von-frauen-wurden-entstellt](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-verurteilt-schoenheits-ops-generationen-von-frauen-wurden-entstellt-a-a11c4f7d-95b7-4fc5-babc-1af4c7d3d911#ref=rss)
+### influencer
+
+* [https://www.spiegel.de/netzwelt/web/influencer-und-steuern-manche-haben-ploetzlich-ein-riesenpublikum-und-verdienen-100-000-euro-im-monat](https://www.spiegel.de/netzwelt/web/influencer-und-steuern-manche-haben-ploetzlich-ein-riesenpublikum-und-verdienen-100-000-euro-im-monat-a-fdc7f6f9-761c-4588-a355-2ce057c4949f#ref=rss)
+### steuern
+
+* [https://www.spiegel.de/netzwelt/web/influencer-und-steuern-manche-haben-ploetzlich-ein-riesenpublikum-und-verdienen-100-000-euro-im-monat](https://www.spiegel.de/netzwelt/web/influencer-und-steuern-manche-haben-ploetzlich-ein-riesenpublikum-und-verdienen-100-000-euro-im-monat-a-fdc7f6f9-761c-4588-a355-2ce057c4949f#ref=rss)
+### manche
+
+* [https://www.spiegel.de/netzwelt/web/influencer-und-steuern-manche-haben-ploetzlich-ein-riesenpublikum-und-verdienen-100-000-euro-im-monat](https://www.spiegel.de/netzwelt/web/influencer-und-steuern-manche-haben-ploetzlich-ein-riesenpublikum-und-verdienen-100-000-euro-im-monat-a-fdc7f6f9-761c-4588-a355-2ce057c4949f#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/sprachkompetenzen-manche-haengen-schon-als-kleinkinder-hinterher-neue-studie](https://www.spiegel.de/panorama/bildung/sprachkompetenzen-manche-haengen-schon-als-kleinkinder-hinterher-neue-studie-a-ad78b64d-1fe8-4acc-9138-c482d7f7c404#ref=rss)
+### venedig
+
+* [https://www.spiegel.de/wirtschaft/venedig-eintrittsgeld-bringt-5-4-millionen-euro-in-54-tagen](https://www.spiegel.de/wirtschaft/venedig-eintrittsgeld-bringt-5-4-millionen-euro-in-54-tagen-a-56b198c8-c368-4b49-83a6-9159acaf092a#ref=rss)
+### geld
+
+* [https://www.spiegel.de/wirtschaft/venedig-eintrittsgeld-bringt-5-4-millionen-euro-in-54-tagen](https://www.spiegel.de/wirtschaft/venedig-eintrittsgeld-bringt-5-4-millionen-euro-in-54-tagen-a-56b198c8-c368-4b49-83a6-9159acaf092a#ref=rss)
+* [https://www.spiegel.de/karriere/zwei-jobs-gleichzeitig-doppel-jobber-zwischen-finanziellen-zwaengen-und-abwechslung](https://www.spiegel.de/karriere/zwei-jobs-gleichzeitig-doppel-jobber-zwischen-finanziellen-zwaengen-und-abwechslung-a-fd93634d-34d0-485e-9c11-70916917e7a5#ref=rss)
+### marla
+
+* [https://www.spiegel.de/panorama/marla-svenja-liebich-rechtsextremistin-kuendigt-verfassungsbeschwerde-an](https://www.spiegel.de/panorama/marla-svenja-liebich-rechtsextremistin-kuendigt-verfassungsbeschwerde-an-a-5301787e-fa0d-4ee1-8f89-3929716d9146#ref=rss)
+### svenja
+
+* [https://www.spiegel.de/panorama/marla-svenja-liebich-rechtsextremistin-kuendigt-verfassungsbeschwerde-an](https://www.spiegel.de/panorama/marla-svenja-liebich-rechtsextremistin-kuendigt-verfassungsbeschwerde-an-a-5301787e-fa0d-4ee1-8f89-3929716d9146#ref=rss)
+### liebich
+
+* [https://www.spiegel.de/panorama/marla-svenja-liebich-rechtsextremistin-kuendigt-verfassungsbeschwerde-an](https://www.spiegel.de/panorama/marla-svenja-liebich-rechtsextremistin-kuendigt-verfassungsbeschwerde-an-a-5301787e-fa0d-4ee1-8f89-3929716d9146#ref=rss)
+### rechtsextremistin
+
+* [https://www.spiegel.de/panorama/marla-svenja-liebich-rechtsextremistin-kuendigt-verfassungsbeschwerde-an](https://www.spiegel.de/panorama/marla-svenja-liebich-rechtsextremistin-kuendigt-verfassungsbeschwerde-an-a-5301787e-fa0d-4ee1-8f89-3929716d9146#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/marla-svenja-liebich-rechtsextremistin-kuendigt-verfassungsbeschwerde-an](https://www.spiegel.de/panorama/marla-svenja-liebich-rechtsextremistin-kuendigt-verfassungsbeschwerde-an-a-5301787e-fa0d-4ee1-8f89-3929716d9146#ref=rss)
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-verurteilt-schoenheits-ops-generationen-von-frauen-wurden-entstellt](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-verurteilt-schoenheits-ops-generationen-von-frauen-wurden-entstellt-a-a11c4f7d-95b7-4fc5-babc-1af4c7d3d911#ref=rss)
+### kambodscha
+
+* [https://www.spiegel.de/ausland/thailand-und-kambodscha-stimmen-waffenruhe-zu](https://www.spiegel.de/ausland/thailand-und-kambodscha-stimmen-waffenruhe-zu-a-23f2a7cd-0790-4a8c-966f-3d350aab7394#ref=rss)
+### waffenruhe
+
+* [https://www.spiegel.de/ausland/thailand-und-kambodscha-stimmen-waffenruhe-zu](https://www.spiegel.de/ausland/thailand-und-kambodscha-stimmen-waffenruhe-zu-a-23f2a7cd-0790-4a8c-966f-3d350aab7394#ref=rss)
+### recht
+
+* [https://www.spiegel.de/reise/europa/recht-auf-reisen-was-tun-wenn-es-in-ihrer-urlaubsregion-brennt](https://www.spiegel.de/reise/europa/recht-auf-reisen-was-tun-wenn-es-in-ihrer-urlaubsregion-brennt-a-9131d4d6-886f-4299-90b1-68143b4582dc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-us-deal-in-der-internationalen-presse-dieser-deal-ist-einseitig](https://www.spiegel.de/wirtschaft/eu-us-deal-in-der-internationalen-presse-dieser-deal-ist-einseitig-a-48de0356-d4e1-473b-bc02-e94801a7e395#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/reise/europa/recht-auf-reisen-was-tun-wenn-es-in-ihrer-urlaubsregion-brennt](https://www.spiegel.de/reise/europa/recht-auf-reisen-was-tun-wenn-es-in-ihrer-urlaubsregion-brennt-a-9131d4d6-886f-4299-90b1-68143b4582dc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hamburger-hsv-razzia-gegen-hsv-fans-nach-angriff-auf-anhaenger-des-1-fc-koeln](https://www.spiegel.de/sport/fussball/hamburger-hsv-razzia-gegen-hsv-fans-nach-angriff-auf-anhaenger-des-1-fc-koeln-a-adfb23ae-e688-43e9-954a-c7e5a47209c3#ref=rss)
+### audi
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/audi-gewinn-schrumpft-um-mehr-als-ein-drittel](https://www.spiegel.de/wirtschaft/unternehmen/audi-gewinn-schrumpft-um-mehr-als-ein-drittel-a-58ca3545-1d58-4433-9754-d254eb781136#ref=rss)
+### em
+
+* [https://www.spiegel.de/sport/fussball/em-2025-ann-katrin-berger-chloe-kelly-jule-brand-cristiana-girelli-die-elf-des-turniers](https://www.spiegel.de/sport/fussball/em-2025-ann-katrin-berger-chloe-kelly-jule-brand-cristiana-girelli-die-elf-des-turniers-a-7891acdd-13c0-4b11-95dd-7a2f57a2ce4b#ref=rss)
+### annkatrin
+
+* [https://www.spiegel.de/sport/fussball/em-2025-ann-katrin-berger-chloe-kelly-jule-brand-cristiana-girelli-die-elf-des-turniers](https://www.spiegel.de/sport/fussball/em-2025-ann-katrin-berger-chloe-kelly-jule-brand-cristiana-girelli-die-elf-des-turniers-a-7891acdd-13c0-4b11-95dd-7a2f57a2ce4b#ref=rss)
+### berger
+
+* [https://www.spiegel.de/sport/fussball/em-2025-ann-katrin-berger-chloe-kelly-jule-brand-cristiana-girelli-die-elf-des-turniers](https://www.spiegel.de/sport/fussball/em-2025-ann-katrin-berger-chloe-kelly-jule-brand-cristiana-girelli-die-elf-des-turniers-a-7891acdd-13c0-4b11-95dd-7a2f57a2ce4b#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/karriere/zwei-jobs-gleichzeitig-doppel-jobber-zwischen-finanziellen-zwaengen-und-abwechslung](https://www.spiegel.de/karriere/zwei-jobs-gleichzeitig-doppel-jobber-zwischen-finanziellen-zwaengen-und-abwechslung-a-fd93634d-34d0-485e-9c11-70916917e7a5#ref=rss)
+### doppeljobber
+
+* [https://www.spiegel.de/karriere/zwei-jobs-gleichzeitig-doppel-jobber-zwischen-finanziellen-zwaengen-und-abwechslung](https://www.spiegel.de/karriere/zwei-jobs-gleichzeitig-doppel-jobber-zwischen-finanziellen-zwaengen-und-abwechslung-a-fd93634d-34d0-485e-9c11-70916917e7a5#ref=rss)
+### abwechslung
+
+* [https://www.spiegel.de/karriere/zwei-jobs-gleichzeitig-doppel-jobber-zwischen-finanziellen-zwaengen-und-abwechslung](https://www.spiegel.de/karriere/zwei-jobs-gleichzeitig-doppel-jobber-zwischen-finanziellen-zwaengen-und-abwechslung-a-fd93634d-34d0-485e-9c11-70916917e7a5#ref=rss)
+### andere
+
+* [https://www.spiegel.de/karriere/zwei-jobs-gleichzeitig-doppel-jobber-zwischen-finanziellen-zwaengen-und-abwechslung](https://www.spiegel.de/karriere/zwei-jobs-gleichzeitig-doppel-jobber-zwischen-finanziellen-zwaengen-und-abwechslung-a-fd93634d-34d0-485e-9c11-70916917e7a5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/englands-titel-bei-der-fussball-em-die-unbezwingbare-kelly-family](https://www.spiegel.de/sport/fussball/englands-titel-bei-der-fussball-em-die-unbezwingbare-kelly-family-a-0da22790-2f1d-44cc-ae61-5ff996f54eda#ref=rss)
+### helmut
+
+* [https://www.spiegel.de/panorama/helmut-kohls-geheimnis-vermerke-seiner-spitzengespraeche-unauffindbar](https://www.spiegel.de/panorama/helmut-kohls-geheimnis-vermerke-seiner-spitzengespraeche-unauffindbar-a-4fe27caf-a65d-4fa6-bfaf-a16a9fbb8b63#ref=rss)
+### kohls
+
+* [https://www.spiegel.de/panorama/helmut-kohls-geheimnis-vermerke-seiner-spitzengespraeche-unauffindbar](https://www.spiegel.de/panorama/helmut-kohls-geheimnis-vermerke-seiner-spitzengespraeche-unauffindbar-a-4fe27caf-a65d-4fa6-bfaf-a16a9fbb8b63#ref=rss)
+### künftig
+
+* [https://www.spiegel.de/panorama/bildung/kiel-schulen-muessen-kuenftig-unisex-toiletten-einrichten](https://www.spiegel.de/panorama/bildung/kiel-schulen-muessen-kuenftig-unisex-toiletten-einrichten-a-8afac41a-a731-49a9-8cba-fe0861524328#ref=rss)
+### schule
+
+* [https://www.spiegel.de/panorama/bildung/kiel-schulen-muessen-kuenftig-unisex-toiletten-einrichten](https://www.spiegel.de/panorama/bildung/kiel-schulen-muessen-kuenftig-unisex-toiletten-einrichten-a-8afac41a-a731-49a9-8cba-fe0861524328#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/sprachkompetenzen-manche-haengen-schon-als-kleinkinder-hinterher-neue-studie](https://www.spiegel.de/panorama/bildung/sprachkompetenzen-manche-haengen-schon-als-kleinkinder-hinterher-neue-studie-a-ad78b64d-1fe8-4acc-9138-c482d7f7c404#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/ausland/thailand-angreifer-erschiesst-fuenf-menschen-auf-markt-in-bangkok](https://www.spiegel.de/ausland/thailand-angreifer-erschiesst-fuenf-menschen-auf-markt-in-bangkok-a-b2da1c00-855a-46c7-a3a2-f0cd26902cea#ref=rss)
+### bangkok
+
+* [https://www.spiegel.de/ausland/thailand-angreifer-erschiesst-fuenf-menschen-auf-markt-in-bangkok](https://www.spiegel.de/ausland/thailand-angreifer-erschiesst-fuenf-menschen-auf-markt-in-bangkok-a-b2da1c00-855a-46c7-a3a2-f0cd26902cea#ref=rss)
+### 4000
+
+* [https://www.spiegel.de/wissenschaft/cambridge-4000-jahre-alter-handabdruck-aus-dem-alten-aegypten-entdeckt](https://www.spiegel.de/wissenschaft/cambridge-4000-jahre-alter-handabdruck-aus-dem-alten-aegypten-entdeckt-a-92b8544e-9c37-4645-97c5-9a074be006a4#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/wissenschaft/cambridge-4000-jahre-alter-handabdruck-aus-dem-alten-aegypten-entdeckt](https://www.spiegel.de/wissenschaft/cambridge-4000-jahre-alter-handabdruck-aus-dem-alten-aegypten-entdeckt-a-92b8544e-9c37-4645-97c5-9a074be006a4#ref=rss)
+### prosiebensat1
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/prosiebensat-1-berlusconi-holding-erhoeht-angebot](https://www.spiegel.de/wirtschaft/unternehmen/prosiebensat-1-berlusconi-holding-erhoeht-angebot-a-4b521bd6-98dc-4d9b-a325-e943888399cf#ref=rss)
+### neue
+
+* [https://www.spiegel.de/panorama/bildung/sprachkompetenzen-manche-haengen-schon-als-kleinkinder-hinterher-neue-studie](https://www.spiegel.de/panorama/bildung/sprachkompetenzen-manche-haengen-schon-als-kleinkinder-hinterher-neue-studie-a-ad78b64d-1fe8-4acc-9138-c482d7f7c404#ref=rss)
+### studie
+
+* [https://www.spiegel.de/panorama/bildung/sprachkompetenzen-manche-haengen-schon-als-kleinkinder-hinterher-neue-studie](https://www.spiegel.de/panorama/bildung/sprachkompetenzen-manche-haengen-schon-als-kleinkinder-hinterher-neue-studie-a-ad78b64d-1fe8-4acc-9138-c482d7f7c404#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/panorama/bildung/sprachkompetenzen-manche-haengen-schon-als-kleinkinder-hinterher-neue-studie](https://www.spiegel.de/panorama/bildung/sprachkompetenzen-manche-haengen-schon-als-kleinkinder-hinterher-neue-studie-a-ad78b64d-1fe8-4acc-9138-c482d7f7c404#ref=rss)
+* [https://www.spiegel.de/kultur/musik/wacken-open-air-traktoren-ziehen-die-ersten-wohnmobile-auf-das-schlammfeld](https://www.spiegel.de/kultur/musik/wacken-open-air-traktoren-ziehen-die-ersten-wohnmobile-auf-das-schlammfeld-a-049fdd13-ac90-4917-af5e-2d6da9aaa766#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/bildung/sprachkompetenzen-manche-haengen-schon-als-kleinkinder-hinterher-neue-studie](https://www.spiegel.de/panorama/bildung/sprachkompetenzen-manche-haengen-schon-als-kleinkinder-hinterher-neue-studie-a-ad78b64d-1fe8-4acc-9138-c482d7f7c404#ref=rss)
+### anhänger
+
+* [https://www.spiegel.de/sport/fussball/hamburger-hsv-razzia-gegen-hsv-fans-nach-angriff-auf-anhaenger-des-1-fc-koeln](https://www.spiegel.de/sport/fussball/hamburger-hsv-razzia-gegen-hsv-fans-nach-angriff-auf-anhaenger-des-1-fc-koeln-a-adfb23ae-e688-43e9-954a-c7e5a47209c3#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/fussball/hamburger-hsv-razzia-gegen-hsv-fans-nach-angriff-auf-anhaenger-des-1-fc-koeln](https://www.spiegel.de/sport/fussball/hamburger-hsv-razzia-gegen-hsv-fans-nach-angriff-auf-anhaenger-des-1-fc-koeln-a-adfb23ae-e688-43e9-954a-c7e5a47209c3#ref=rss)
+### köln
+
+* [https://www.spiegel.de/sport/fussball/hamburger-hsv-razzia-gegen-hsv-fans-nach-angriff-auf-anhaenger-des-1-fc-koeln](https://www.spiegel.de/sport/fussball/hamburger-hsv-razzia-gegen-hsv-fans-nach-angriff-auf-anhaenger-des-1-fc-koeln-a-adfb23ae-e688-43e9-954a-c7e5a47209c3#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/sport/fussball/hamburger-hsv-razzia-gegen-hsv-fans-nach-angriff-auf-anhaenger-des-1-fc-koeln](https://www.spiegel.de/sport/fussball/hamburger-hsv-razzia-gegen-hsv-fans-nach-angriff-auf-anhaenger-des-1-fc-koeln-a-adfb23ae-e688-43e9-954a-c7e5a47209c3#ref=rss)
+* [https://www.spiegel.de/panorama/zugunglueck-in-biberach-truemmer-zeigen-ausmass-der-katastrophe](https://www.spiegel.de/panorama/zugunglueck-in-biberach-truemmer-zeigen-ausmass-der-katastrophe-a-0e526246-9655-4b8a-b029-3bc003c90ada#ref=rss)
+### jamie
+
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-verurteilt-schoenheits-ops-generationen-von-frauen-wurden-entstellt](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-verurteilt-schoenheits-ops-generationen-von-frauen-wurden-entstellt-a-a11c4f7d-95b7-4fc5-babc-1af4c7d3d911#ref=rss)
+### lee
+
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-verurteilt-schoenheits-ops-generationen-von-frauen-wurden-entstellt](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-verurteilt-schoenheits-ops-generationen-von-frauen-wurden-entstellt-a-a11c4f7d-95b7-4fc5-babc-1af4c7d3d911#ref=rss)
+### curtis
+
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-verurteilt-schoenheits-ops-generationen-von-frauen-wurden-entstellt](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-verurteilt-schoenheits-ops-generationen-von-frauen-wurden-entstellt-a-a11c4f7d-95b7-4fc5-babc-1af4c7d3d911#ref=rss)
+### generationen
+
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-verurteilt-schoenheits-ops-generationen-von-frauen-wurden-entstellt](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-verurteilt-schoenheits-ops-generationen-von-frauen-wurden-entstellt-a-a11c4f7d-95b7-4fc5-babc-1af4c7d3d911#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-verurteilt-schoenheits-ops-generationen-von-frauen-wurden-entstellt](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-verurteilt-schoenheits-ops-generationen-von-frauen-wurden-entstellt-a-a11c4f7d-95b7-4fc5-babc-1af4c7d3d911#ref=rss)
+### entstellt
+
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-verurteilt-schoenheits-ops-generationen-von-frauen-wurden-entstellt](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-verurteilt-schoenheits-ops-generationen-von-frauen-wurden-entstellt-a-a11c4f7d-95b7-4fc5-babc-1af4c7d3d911#ref=rss)
+### deal
+
+* [https://www.spiegel.de/wirtschaft/eu-us-deal-in-der-internationalen-presse-dieser-deal-ist-einseitig](https://www.spiegel.de/wirtschaft/eu-us-deal-in-der-internationalen-presse-dieser-deal-ist-einseitig-a-48de0356-d4e1-473b-bc02-e94801a7e395#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-us-zolleinigung-deal-auf-dem-ruecken-der-stahlindustrie](https://www.spiegel.de/wirtschaft/eu-us-zolleinigung-deal-auf-dem-ruecken-der-stahlindustrie-a-8c56cfbc-6769-45e9-855b-3a63c1bbb3c7#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/eu-us-deal-in-der-internationalen-presse-dieser-deal-ist-einseitig](https://www.spiegel.de/wirtschaft/eu-us-deal-in-der-internationalen-presse-dieser-deal-ist-einseitig-a-48de0356-d4e1-473b-bc02-e94801a7e395#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-us-zolleinigung-deal-auf-dem-ruecken-der-stahlindustrie](https://www.spiegel.de/wirtschaft/eu-us-zolleinigung-deal-auf-dem-ruecken-der-stahlindustrie-a-8c56cfbc-6769-45e9-855b-3a63c1bbb3c7#ref=rss)
+### zugunglück
+
+* [https://www.spiegel.de/panorama/zugunglueck-in-biberach-truemmer-zeigen-ausmass-der-katastrophe](https://www.spiegel.de/panorama/zugunglueck-in-biberach-truemmer-zeigen-ausmass-der-katastrophe-a-0e526246-9655-4b8a-b029-3bc003c90ada#ref=rss)
+### england
+
+* [https://www.spiegel.de/sport/fussball/englands-titel-bei-der-fussball-em-die-unbezwingbare-kelly-family](https://www.spiegel.de/sport/fussball/englands-titel-bei-der-fussball-em-die-unbezwingbare-kelly-family-a-0da22790-2f1d-44cc-ae61-5ff996f54eda#ref=rss)
+### wacken
+
+* [https://www.spiegel.de/kultur/musik/wacken-open-air-traktoren-ziehen-die-ersten-wohnmobile-auf-das-schlammfeld](https://www.spiegel.de/kultur/musik/wacken-open-air-traktoren-ziehen-die-ersten-wohnmobile-auf-das-schlammfeld-a-049fdd13-ac90-4917-af5e-2d6da9aaa766#ref=rss)
 
