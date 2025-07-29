@@ -4,470 +4,304 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-fordert-schnelle-aussage-von-rupert-murdoch-im-epstein-verleumdungsprozess](https://www.spiegel.de/wirtschaft/donald-trump-fordert-schnelle-aussage-von-rupert-murdoch-im-epstein-verleumdungsprozess-a-5ba9a0d7-3351-4ae3-91c7-7e4a7726ac60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen-a-5d483a80-529f-4c26-a8a8-b056d1b38ba2#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben](https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben-a-38d6c2d4-8b3f-4e66-a346-647b6b6e6113#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa-a-962a3109-f60f-46d4-b401-331ea3c47022#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-fordert-schnelle-aussage-von-rupert-murdoch-im-epstein-verleumdungsprozess](https://www.spiegel.de/wirtschaft/donald-trump-fordert-schnelle-aussage-von-rupert-murdoch-im-epstein-verleumdungsprozess-a-5ba9a0d7-3351-4ae3-91c7-7e4a7726ac60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen-a-5d483a80-529f-4c26-a8a8-b056d1b38ba2#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben](https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben-a-38d6c2d4-8b3f-4e66-a346-647b6b6e6113#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa-a-962a3109-f60f-46d4-b401-331ea3c47022#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/musik/katja-krasavice-will-keine-kinder-in-die-dreckige-welt-setzen](https://www.spiegel.de/kultur/musik/katja-krasavice-will-keine-kinder-in-die-dreckige-welt-setzen-a-0b072a53-6bb4-475e-9fbd-64bb11e9a53f#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-uno-fluechtlingshilfswerk-fordert-mehr-aufmerksamkeit-fuer-krise](https://www.spiegel.de/ausland/sudan-uno-fluechtlingshilfswerk-fordert-mehr-aufmerksamkeit-fuer-krise-a-b589b091-b212-4ae8-995e-203d6c80d5df#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundeshaushalt-luecke-fuer-die-jahre-2027-bis-2029-waechst-auf-172-milliarden-euro](https://www.spiegel.de/wirtschaft/bundeshaushalt-luecke-fuer-die-jahre-2027-bis-2029-waechst-auf-172-milliarden-euro-a-27e56089-5388-49b2-a075-1feacecaf7c3#ref=rss)
-### merz
-
-* [https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden](https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden-a-136e86d6-fb35-47ca-a13e-352c34147a84#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-friedrich-merz-kuendigt-luftbruecke-fuer-gazastreifen-an](https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-friedrich-merz-kuendigt-luftbruecke-fuer-gazastreifen-an-a-a3e0eca6-af04-4f9a-9961-3a54746a5910#ref=rss)
-### einigung
-
-* [https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden](https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden-a-136e86d6-fb35-47ca-a13e-352c34147a84#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen-a-5d483a80-529f-4c26-a8a8-b056d1b38ba2#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben](https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben-a-38d6c2d4-8b3f-4e66-a346-647b6b6e6113#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa-a-962a3109-f60f-46d4-b401-331ea3c47022#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden](https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden-a-136e86d6-fb35-47ca-a13e-352c34147a84#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-mercedes-und-co-was-der-zolldeal-fuer-die-autoindustrie-bedeutet](https://www.spiegel.de/wirtschaft/unternehmen/vw-mercedes-und-co-was-der-zolldeal-fuer-die-autoindustrie-bedeutet-a-8fb4d3db-241d-4b44-96a6-ba987c4ef767#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen-a-5d483a80-529f-4c26-a8a8-b056d1b38ba2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa-a-962a3109-f60f-46d4-b401-331ea3c47022#ref=rss)
-### bookingcom
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### airbnb
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### reisen
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-uno-fluechtlingshilfswerk-fordert-mehr-aufmerksamkeit-fuer-krise](https://www.spiegel.de/ausland/sudan-uno-fluechtlingshilfswerk-fordert-mehr-aufmerksamkeit-fuer-krise-a-b589b091-b212-4ae8-995e-203d6c80d5df#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa-a-962a3109-f60f-46d4-b401-331ea3c47022#ref=rss)
-### zwölf
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben](https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben-a-38d6c2d4-8b3f-4e66-a346-647b6b6e6113#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-uno-fluechtlingshilfswerk-fordert-mehr-aufmerksamkeit-fuer-krise](https://www.spiegel.de/ausland/sudan-uno-fluechtlingshilfswerk-fordert-mehr-aufmerksamkeit-fuer-krise-a-b589b091-b212-4ae8-995e-203d6c80d5df#ref=rss)
-* [https://www.spiegel.de/sport/schwimm-wm-zwoelfjaehrige-chinesin-yu-zidi-verpasst-knapp-historische-medaille](https://www.spiegel.de/sport/schwimm-wm-zwoelfjaehrige-chinesin-yu-zidi-verpasst-knapp-historische-medaille-a-be8d0955-112b-42a1-9180-ef41627ed65f#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-fordert-schnelle-aussage-von-rupert-murdoch-im-epstein-verleumdungsprozess](https://www.spiegel.de/wirtschaft/donald-trump-fordert-schnelle-aussage-von-rupert-murdoch-im-epstein-verleumdungsprozess-a-5ba9a0d7-3351-4ae3-91c7-7e4a7726ac60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hakenkreuz-affaere-in-baden-wuerttemberg-spd-landesverband-draengt-daniel-born-zur-aufgabe-seines-mandats](https://www.spiegel.de/politik/deutschland/hakenkreuz-affaere-in-baden-wuerttemberg-spd-landesverband-draengt-daniel-born-zur-aufgabe-seines-mandats-a-005fc81d-2c00-498d-8c83-2d8e184dd7b1#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-uno-fluechtlingshilfswerk-fordert-mehr-aufmerksamkeit-fuer-krise](https://www.spiegel.de/ausland/sudan-uno-fluechtlingshilfswerk-fordert-mehr-aufmerksamkeit-fuer-krise-a-b589b091-b212-4ae8-995e-203d6c80d5df#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-fordert-schnelle-aussage-von-rupert-murdoch-im-epstein-verleumdungsprozess](https://www.spiegel.de/wirtschaft/donald-trump-fordert-schnelle-aussage-von-rupert-murdoch-im-epstein-verleumdungsprozess-a-5ba9a0d7-3351-4ae3-91c7-7e4a7726ac60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-riedlingen-horst-mahler-tot-waffenstillstand-zwischen-thailand-und-kambodscha](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-riedlingen-horst-mahler-tot-waffenstillstand-zwischen-thailand-und-kambodscha-a-923b2e81-a5d2-4206-a93b-03cb28a01331#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben](https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben-a-38d6c2d4-8b3f-4e66-a346-647b6b6e6113#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden](https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden-a-136e86d6-fb35-47ca-a13e-352c34147a84#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mallorca-deutscher-tuersteher-nach-attacke-auf-urlauber-festgenommen](https://www.spiegel.de/panorama/justiz/mallorca-deutscher-tuersteher-nach-attacke-auf-urlauber-festgenommen-a-336a3b4c-180e-46a0-b213-c74afed8fdb0#ref=rss)
-### tag
-
-* [https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden](https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden-a-136e86d6-fb35-47ca-a13e-352c34147a84#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-femmes-lorena-wiebes-holt-tagessieg-marianne-vos-das-gelbe-trikot-liane-lippert-fuenfte](https://www.spiegel.de/sport/tour-de-france-femmes-lorena-wiebes-holt-tagessieg-marianne-vos-das-gelbe-trikot-liane-lippert-fuenfte-a-06f1ad3a-3aad-4701-9f6c-1ae57fc5fab2#ref=rss)
-* [https://www.spiegel.de/panorama/zugunglueck-in-biberach-ursache-des-unfalls-scheint-klar-fragen-bleiben](https://www.spiegel.de/panorama/zugunglueck-in-biberach-ursache-des-unfalls-scheint-klar-fragen-bleiben-a-71e5dd28-331d-4c5c-b4cc-17098829d5df#ref=rss)
-### zollstreit
-
-* [https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden](https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden-a-136e86d6-fb35-47ca-a13e-352c34147a84#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen-a-5d483a80-529f-4c26-a8a8-b056d1b38ba2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa-a-962a3109-f60f-46d4-b401-331ea3c47022#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden](https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden-a-136e86d6-fb35-47ca-a13e-352c34147a84#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-mercedes-und-co-was-der-zolldeal-fuer-die-autoindustrie-bedeutet](https://www.spiegel.de/wirtschaft/unternehmen/vw-mercedes-und-co-was-der-zolldeal-fuer-die-autoindustrie-bedeutet-a-8fb4d3db-241d-4b44-96a6-ba987c4ef767#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen-a-5d483a80-529f-4c26-a8a8-b056d1b38ba2#ref=rss)
-### city
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-spricht-nach-titelloser-saison-ueber-den-umgang-mit-misserfolg](https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-spricht-nach-titelloser-saison-ueber-den-umgang-mit-misserfolg-a-d4bbc29d-668a-48ec-83d3-90da8dc1c347#ref=rss)
-### druck
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben](https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben-a-38d6c2d4-8b3f-4e66-a346-647b6b6e6113#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/politik/deutschland/igh-urteil-klimawandel-bedroht-errungenschaften-fuer-kommende-generationen](https://www.spiegel.de/politik/deutschland/igh-urteil-klimawandel-bedroht-errungenschaften-fuer-kommende-generationen-a-f4d0e1f7-4aab-4487-92fa-988834357de2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/studie-immunsystem-reagiert-offenbar-schon-auf-krank-aussehende-gesichter](https://www.spiegel.de/wissenschaft/medizin/studie-immunsystem-reagiert-offenbar-schon-auf-krank-aussehende-gesichter-a-a0632bfc-a7a3-4f6b-bd73-17ee397ea1ea#ref=rss)
-* [https://www.spiegel.de/panorama/leute/miami-lionel-messi-und-seine-frau-antonela-strahlen-in-die-coldplay-kiss-cam](https://www.spiegel.de/panorama/leute/miami-lionel-messi-und-seine-frau-antonela-strahlen-in-die-coldplay-kiss-cam-a-117e4581-4f34-4944-89d4-2360c39ece4d#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-friedrich-merz-kuendigt-luftbruecke-fuer-gazastreifen-an](https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-friedrich-merz-kuendigt-luftbruecke-fuer-gazastreifen-an-a-a3e0eca6-af04-4f9a-9961-3a54746a5910#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-erstmals-bezeichnen-israelische-ngos-das-vorgehen-im-gazastreifen-als-voelkermord](https://www.spiegel.de/ausland/israel-gaza-krieg-erstmals-bezeichnen-israelische-ngos-das-vorgehen-im-gazastreifen-als-voelkermord-a-b4b3b740-7d77-4fb0-aebe-c45b553980dc#ref=rss)
-### neue
-
-* [https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen](https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen-a-b39eb934-3105-4ba2-a066-ec3532f91787#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa-a-962a3109-f60f-46d4-b401-331ea3c47022#ref=rss)
-### zugunglück
-
-* [https://www.spiegel.de/panorama/zugunglueck-in-biberach-ursache-des-unfalls-scheint-klar-fragen-bleiben](https://www.spiegel.de/panorama/zugunglueck-in-biberach-ursache-des-unfalls-scheint-klar-fragen-bleiben-a-71e5dd28-331d-4c5c-b4cc-17098829d5df#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-riedlingen-horst-mahler-tot-waffenstillstand-zwischen-thailand-und-kambodscha](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-riedlingen-horst-mahler-tot-waffenstillstand-zwischen-thailand-und-kambodscha-a-923b2e81-a5d2-4206-a93b-03cb28a01331#ref=rss)
-### zolldeal
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-mercedes-und-co-was-der-zolldeal-fuer-die-autoindustrie-bedeutet](https://www.spiegel.de/wirtschaft/unternehmen/vw-mercedes-und-co-was-der-zolldeal-fuer-die-autoindustrie-bedeutet-a-8fb4d3db-241d-4b44-96a6-ba987c4ef767#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen-a-5d483a80-529f-4c26-a8a8-b056d1b38ba2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa-a-962a3109-f60f-46d4-b401-331ea3c47022#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-mercedes-und-co-was-der-zolldeal-fuer-die-autoindustrie-bedeutet](https://www.spiegel.de/wirtschaft/unternehmen/vw-mercedes-und-co-was-der-zolldeal-fuer-die-autoindustrie-bedeutet-a-8fb4d3db-241d-4b44-96a6-ba987c4ef767#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundeshaushalt-luecke-fuer-die-jahre-2027-bis-2029-waechst-auf-172-milliarden-euro](https://www.spiegel.de/wirtschaft/bundeshaushalt-luecke-fuer-die-jahre-2027-bis-2029-waechst-auf-172-milliarden-euro-a-27e56089-5388-49b2-a075-1feacecaf7c3#ref=rss)
-### fast
-
-* [https://www.spiegel.de/kultur/musik/katja-krasavice-will-keine-kinder-in-die-dreckige-welt-setzen](https://www.spiegel.de/kultur/musik/katja-krasavice-will-keine-kinder-in-die-dreckige-welt-setzen-a-0b072a53-6bb4-475e-9fbd-64bb11e9a53f#ref=rss)
-* [https://www.spiegel.de/panorama/nuernberg-tiergarten-muss-pavian-toetung-vorbereiten](https://www.spiegel.de/panorama/nuernberg-tiergarten-muss-pavian-toetung-vorbereiten-a-f53b5974-9737-40f6-af38-618e30b1f1bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundeshaushalt-luecke-fuer-die-jahre-2027-bis-2029-waechst-auf-172-milliarden-euro](https://www.spiegel.de/wirtschaft/bundeshaushalt-luecke-fuer-die-jahre-2027-bis-2029-waechst-auf-172-milliarden-euro-a-27e56089-5388-49b2-a075-1feacecaf7c3#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/panorama/russland-nordkorea-moskau-und-pjoengjang-trennt-nur-noch-ein-flug](https://www.spiegel.de/panorama/russland-nordkorea-moskau-und-pjoengjang-trennt-nur-noch-ein-flug-a-49098a39-5f13-4c4b-90f6-edd71a4d51d0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundeshaushalt-luecke-fuer-die-jahre-2027-bis-2029-waechst-auf-172-milliarden-euro](https://www.spiegel.de/wirtschaft/bundeshaushalt-luecke-fuer-die-jahre-2027-bis-2029-waechst-auf-172-milliarden-euro-a-27e56089-5388-49b2-a075-1feacecaf7c3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa-a-962a3109-f60f-46d4-b401-331ea3c47022#ref=rss)
-### bringt
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-fordert-schnelle-aussage-von-rupert-murdoch-im-epstein-verleumdungsprozess](https://www.spiegel.de/wirtschaft/donald-trump-fordert-schnelle-aussage-von-rupert-murdoch-im-epstein-verleumdungsprozess-a-5ba9a0d7-3351-4ae3-91c7-7e4a7726ac60#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa-a-962a3109-f60f-46d4-b401-331ea3c47022#ref=rss)
-### bundeskanzler
-
-* [https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden](https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden-a-136e86d6-fb35-47ca-a13e-352c34147a84#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden](https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden-a-136e86d6-fb35-47ca-a13e-352c34147a84#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-friedrich-merz-kuendigt-luftbruecke-fuer-gazastreifen-an](https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-friedrich-merz-kuendigt-luftbruecke-fuer-gazastreifen-an-a-a3e0eca6-af04-4f9a-9961-3a54746a5910#ref=rss)
-### manchester
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-spricht-nach-titelloser-saison-ueber-den-umgang-mit-misserfolg](https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-spricht-nach-titelloser-saison-ueber-den-umgang-mit-misserfolg-a-d4bbc29d-668a-48ec-83d3-90da8dc1c347#ref=rss)
-### pep
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-spricht-nach-titelloser-saison-ueber-den-umgang-mit-misserfolg](https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-spricht-nach-titelloser-saison-ueber-den-umgang-mit-misserfolg-a-d4bbc29d-668a-48ec-83d3-90da8dc1c347#ref=rss)
-### guardiola
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-spricht-nach-titelloser-saison-ueber-den-umgang-mit-misserfolg](https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-spricht-nach-titelloser-saison-ueber-den-umgang-mit-misserfolg-a-d4bbc29d-668a-48ec-83d3-90da8dc1c347#ref=rss)
-### umgang
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-spricht-nach-titelloser-saison-ueber-den-umgang-mit-misserfolg](https://www.spiegel.de/sport/fussball/manchester-city-pep-guardiola-spricht-nach-titelloser-saison-ueber-den-umgang-mit-misserfolg-a-d4bbc29d-668a-48ec-83d3-90da8dc1c347#ref=rss)
-### lorena
-
-* [https://www.spiegel.de/sport/tour-de-france-femmes-lorena-wiebes-holt-tagessieg-marianne-vos-das-gelbe-trikot-liane-lippert-fuenfte](https://www.spiegel.de/sport/tour-de-france-femmes-lorena-wiebes-holt-tagessieg-marianne-vos-das-gelbe-trikot-liane-lippert-fuenfte-a-06f1ad3a-3aad-4701-9f6c-1ae57fc5fab2#ref=rss)
-### wiebes
-
-* [https://www.spiegel.de/sport/tour-de-france-femmes-lorena-wiebes-holt-tagessieg-marianne-vos-das-gelbe-trikot-liane-lippert-fuenfte](https://www.spiegel.de/sport/tour-de-france-femmes-lorena-wiebes-holt-tagessieg-marianne-vos-das-gelbe-trikot-liane-lippert-fuenfte-a-06f1ad3a-3aad-4701-9f6c-1ae57fc5fab2#ref=rss)
-### marianne
-
-* [https://www.spiegel.de/sport/tour-de-france-femmes-lorena-wiebes-holt-tagessieg-marianne-vos-das-gelbe-trikot-liane-lippert-fuenfte](https://www.spiegel.de/sport/tour-de-france-femmes-lorena-wiebes-holt-tagessieg-marianne-vos-das-gelbe-trikot-liane-lippert-fuenfte-a-06f1ad3a-3aad-4701-9f6c-1ae57fc5fab2#ref=rss)
-### vos
-
-* [https://www.spiegel.de/sport/tour-de-france-femmes-lorena-wiebes-holt-tagessieg-marianne-vos-das-gelbe-trikot-liane-lippert-fuenfte](https://www.spiegel.de/sport/tour-de-france-femmes-lorena-wiebes-holt-tagessieg-marianne-vos-das-gelbe-trikot-liane-lippert-fuenfte-a-06f1ad3a-3aad-4701-9f6c-1ae57fc5fab2#ref=rss)
-### expedia
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### wir
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### buchen
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### bucht
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### landet
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### oft
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### bequem
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### mangelnde
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### transparenz
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### hohe
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### provisionen
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### spiegelredakteur
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### martin
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### u
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### müller
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### anbieter
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### geraten
-
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-podcast-a-7f84796c-bd8c-48a4-abfd-a2d4f45a63b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen](https://www.spiegel.de/wirtschaft/service/booking-com-expedia-und-airbnb-wie-wir-in-zukunft-reisen-buchen-a-50f515af-a6a2-496d-ac87-65c44657d828#ref=rss)
-### klimawandel
-
-* [https://www.spiegel.de/politik/deutschland/igh-urteil-klimawandel-bedroht-errungenschaften-fuer-kommende-generationen](https://www.spiegel.de/politik/deutschland/igh-urteil-klimawandel-bedroht-errungenschaften-fuer-kommende-generationen-a-f4d0e1f7-4aab-4487-92fa-988834357de2#ref=rss)
-### bedroht
-
-* [https://www.spiegel.de/politik/deutschland/igh-urteil-klimawandel-bedroht-errungenschaften-fuer-kommende-generationen](https://www.spiegel.de/politik/deutschland/igh-urteil-klimawandel-bedroht-errungenschaften-fuer-kommende-generationen-a-f4d0e1f7-4aab-4487-92fa-988834357de2#ref=rss)
-### leben
-
-* [https://www.spiegel.de/politik/deutschland/igh-urteil-klimawandel-bedroht-errungenschaften-fuer-kommende-generationen](https://www.spiegel.de/politik/deutschland/igh-urteil-klimawandel-bedroht-errungenschaften-fuer-kommende-generationen-a-f4d0e1f7-4aab-4487-92fa-988834357de2#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-uno-fluechtlingshilfswerk-fordert-mehr-aufmerksamkeit-fuer-krise](https://www.spiegel.de/ausland/sudan-uno-fluechtlingshilfswerk-fordert-mehr-aufmerksamkeit-fuer-krise-a-b589b091-b212-4ae8-995e-203d6c80d5df#ref=rss)
-### konsequenzen
-
-* [https://www.spiegel.de/politik/deutschland/igh-urteil-klimawandel-bedroht-errungenschaften-fuer-kommende-generationen](https://www.spiegel.de/politik/deutschland/igh-urteil-klimawandel-bedroht-errungenschaften-fuer-kommende-generationen-a-f4d0e1f7-4aab-4487-92fa-988834357de2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hakenkreuz-affaere-in-baden-wuerttemberg-spd-landesverband-draengt-daniel-born-zur-aufgabe-seines-mandats](https://www.spiegel.de/politik/deutschland/hakenkreuz-affaere-in-baden-wuerttemberg-spd-landesverband-draengt-daniel-born-zur-aufgabe-seines-mandats-a-005fc81d-2c00-498d-8c83-2d8e184dd7b1#ref=rss)
-### luftbrücke
-
-* [https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-friedrich-merz-kuendigt-luftbruecke-fuer-gazastreifen-an](https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-friedrich-merz-kuendigt-luftbruecke-fuer-gazastreifen-an-a-a3e0eca6-af04-4f9a-9961-3a54746a5910#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-friedrich-merz-kuendigt-luftbruecke-fuer-gazastreifen-an](https://www.spiegel.de/politik/deutschland/israel-gaza-krieg-friedrich-merz-kuendigt-luftbruecke-fuer-gazastreifen-an-a-a3e0eca6-af04-4f9a-9961-3a54746a5910#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen-a-5d483a80-529f-4c26-a8a8-b056d1b38ba2#ref=rss)
-### türsteher
-
-* [https://www.spiegel.de/panorama/justiz/mallorca-deutscher-tuersteher-nach-attacke-auf-urlauber-festgenommen](https://www.spiegel.de/panorama/justiz/mallorca-deutscher-tuersteher-nach-attacke-auf-urlauber-festgenommen-a-336a3b4c-180e-46a0-b213-c74afed8fdb0#ref=rss)
-### ki
-
-* [https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen](https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen-a-b39eb934-3105-4ba2-a066-ec3532f91787#ref=rss)
-### künstliche
-
-* [https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen](https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen-a-b39eb934-3105-4ba2-a066-ec3532f91787#ref=rss)
-### intelligenz
-
-* [https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen](https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen-a-b39eb934-3105-4ba2-a066-ec3532f91787#ref=rss)
-### inschriften
-
-* [https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen](https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen-a-b39eb934-3105-4ba2-a066-ec3532f91787#ref=rss)
-### entziffern
-
-* [https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen](https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen-a-b39eb934-3105-4ba2-a066-ec3532f91787#ref=rss)
-### ergänzen
-
-* [https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen](https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen-a-b39eb934-3105-4ba2-a066-ec3532f91787#ref=rss)
-### große
-
-* [https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen](https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen-a-b39eb934-3105-4ba2-a066-ec3532f91787#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen-a-5d483a80-529f-4c26-a8a8-b056d1b38ba2#ref=rss)
-### rätsel
-
-* [https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen](https://www.spiegel.de/geschichte/ki-archaeologie-und-kuenstliche-intelligenz-neue-ki-soll-roemische-inschriften-entziffern-und-ergaenzen-a-b39eb934-3105-4ba2-a066-ec3532f91787#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-und-usa-in-der-union-reden-sie-sich-den-zoll-deal-schoen-die-spd-schimpft-ueber-von-der-leyen-a-5d483a80-529f-4c26-a8a8-b056d1b38ba2#ref=rss)
-### ursache
-
-* [https://www.spiegel.de/panorama/zugunglueck-in-biberach-ursache-des-unfalls-scheint-klar-fragen-bleiben](https://www.spiegel.de/panorama/zugunglueck-in-biberach-ursache-des-unfalls-scheint-klar-fragen-bleiben-a-71e5dd28-331d-4c5c-b4cc-17098829d5df#ref=rss)
-### scheint
-
-* [https://www.spiegel.de/panorama/zugunglueck-in-biberach-ursache-des-unfalls-scheint-klar-fragen-bleiben](https://www.spiegel.de/panorama/zugunglueck-in-biberach-ursache-des-unfalls-scheint-klar-fragen-bleiben-a-71e5dd28-331d-4c5c-b4cc-17098829d5df#ref=rss)
-### klar
-
-* [https://www.spiegel.de/panorama/zugunglueck-in-biberach-ursache-des-unfalls-scheint-klar-fragen-bleiben](https://www.spiegel.de/panorama/zugunglueck-in-biberach-ursache-des-unfalls-scheint-klar-fragen-bleiben-a-71e5dd28-331d-4c5c-b4cc-17098829d5df#ref=rss)
-### bleiben
-
-* [https://www.spiegel.de/panorama/zugunglueck-in-biberach-ursache-des-unfalls-scheint-klar-fragen-bleiben](https://www.spiegel.de/panorama/zugunglueck-in-biberach-ursache-des-unfalls-scheint-klar-fragen-bleiben-a-71e5dd28-331d-4c5c-b4cc-17098829d5df#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben](https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben-a-38d6c2d4-8b3f-4e66-a346-647b6b6e6113#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/zugunglueck-in-biberach-ursache-des-unfalls-scheint-klar-fragen-bleiben](https://www.spiegel.de/panorama/zugunglueck-in-biberach-ursache-des-unfalls-scheint-klar-fragen-bleiben-a-71e5dd28-331d-4c5c-b4cc-17098829d5df#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-uno-fluechtlingshilfswerk-fordert-mehr-aufmerksamkeit-fuer-krise](https://www.spiegel.de/ausland/sudan-uno-fluechtlingshilfswerk-fordert-mehr-aufmerksamkeit-fuer-krise-a-b589b091-b212-4ae8-995e-203d6c80d5df#ref=rss)
 ### badenwürttemberg
 
-* [https://www.spiegel.de/panorama/zugunglueck-in-biberach-ursache-des-unfalls-scheint-klar-fragen-bleiben](https://www.spiegel.de/panorama/zugunglueck-in-biberach-ursache-des-unfalls-scheint-klar-fragen-bleiben-a-71e5dd28-331d-4c5c-b4cc-17098829d5df#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hakenkreuz-affaere-in-baden-wuerttemberg-spd-landesverband-draengt-daniel-born-zur-aufgabe-seines-mandats](https://www.spiegel.de/politik/deutschland/hakenkreuz-affaere-in-baden-wuerttemberg-spd-landesverband-draengt-daniel-born-zur-aufgabe-seines-mandats-a-005fc81d-2c00-498d-8c83-2d8e184dd7b1#ref=rss)
-### fans
+* [https://www.spiegel.de/netzwelt/baden-wuerttemberg-will-umstrittene-polizeisoftware-von-palantir-nutzen](https://www.spiegel.de/netzwelt/baden-wuerttemberg-will-umstrittene-polizeisoftware-von-palantir-nutzen-a-1b3fa95c-6be0-4cbb-80da-558f84521277#ref=rss)
+* [https://www.spiegel.de/panorama/dogern-in-baden-wuerttemberg-drei-menschen-durch-ameisensaeure-verletzt](https://www.spiegel.de/panorama/dogern-in-baden-wuerttemberg-drei-menschen-durch-ameisensaeure-verletzt-a-9eefff8b-fe79-4383-85a8-a300db7206c2#ref=rss)
+* [https://www.spiegel.de/auto/riedlingen-bahnunglueck-nach-hangrutsch-so-sicher-ist-zugfahren](https://www.spiegel.de/auto/riedlingen-bahnunglueck-nach-hangrutsch-so-sicher-ist-zugfahren-a-f2a79ef1-8dfb-4794-89d5-c233b78d308b#ref=rss)
+* [https://www.spiegel.de/panorama/altheim-in-baden-wuerttemberg-vater-soll-neugeborenes-versehentlich-ueberfahren-haben](https://www.spiegel.de/panorama/altheim-in-baden-wuerttemberg-vater-soll-neugeborenes-versehentlich-ueberfahren-haben-a-4972e3b7-c632-4aa0-93f0-57d1c4a05ccb#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/panorama/sendung-mit-der-maus-fans-kleben-pflaster-auf-verkohlte-figur-vor-dem-wdr](https://www.spiegel.de/panorama/sendung-mit-der-maus-fans-kleben-pflaster-auf-verkohlte-figur-vor-dem-wdr-a-eb369feb-acf2-4be9-8e68-faab8f307796#ref=rss)
-### köln
+* [https://www.spiegel.de/panorama/dogern-in-baden-wuerttemberg-drei-menschen-durch-ameisensaeure-verletzt](https://www.spiegel.de/panorama/dogern-in-baden-wuerttemberg-drei-menschen-durch-ameisensaeure-verletzt-a-9eefff8b-fe79-4383-85a8-a300db7206c2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-vier-maenner-wegen-diebstahl-eines-millionenschweren-goldschatzes-in-manching-verurteilt](https://www.spiegel.de/panorama/justiz/ingolstadt-vier-maenner-wegen-diebstahl-eines-millionenschweren-goldschatzes-in-manching-verurteilt-a-6d5a3123-0354-47e5-9041-1188429e4ac1#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/universitaet-potsdam-sieht-anfangsverdacht-bei-doktorarbeit-von-saskia-ludwig](https://www.spiegel.de/panorama/bildung/universitaet-potsdam-sieht-anfangsverdacht-bei-doktorarbeit-von-saskia-ludwig-a-cfd8664a-4a1d-45a2-947b-af6dd3f62161#ref=rss)
+* [https://www.spiegel.de/kultur/musik/beyonce-cowboy-carter-tour-ist-nun-die-umsatzstaerkste-country-tour-aller-zeiten](https://www.spiegel.de/kultur/musik/beyonce-cowboy-carter-tour-ist-nun-die-umsatzstaerkste-country-tour-aller-zeiten-a-b4d473ee-a36e-4f0a-affe-f99eac1e3449#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/sendung-mit-der-maus-fans-kleben-pflaster-auf-verkohlte-figur-vor-dem-wdr](https://www.spiegel.de/panorama/sendung-mit-der-maus-fans-kleben-pflaster-auf-verkohlte-figur-vor-dem-wdr-a-eb369feb-acf2-4be9-8e68-faab8f307796#ref=rss)
-### reagiert
+* [https://www.spiegel.de/wirtschaft/eu-und-usa-vergleich-der-handelsabkommen-mit-grossbritannien-und-japan](https://www.spiegel.de/wirtschaft/eu-und-usa-vergleich-der-handelsabkommen-mit-grossbritannien-und-japan-a-adb28d78-ba64-4df0-b805-a6c126d6d7bc#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-usa-untersagen-praesident-lai-ching-te-offenbar-zwischenstopp-in-new-york](https://www.spiegel.de/ausland/taiwan-usa-untersagen-praesident-lai-ching-te-offenbar-zwischenstopp-in-new-york-a-43ebb387-9be7-4892-9267-b188139b1c7f#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/sendung-mit-der-maus-fans-kleben-pflaster-auf-verkohlte-figur-vor-dem-wdr](https://www.spiegel.de/panorama/sendung-mit-der-maus-fans-kleben-pflaster-auf-verkohlte-figur-vor-dem-wdr-a-eb369feb-acf2-4be9-8e68-faab8f307796#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/studie-immunsystem-reagiert-offenbar-schon-auf-krank-aussehende-gesichter](https://www.spiegel.de/wissenschaft/medizin/studie-immunsystem-reagiert-offenbar-schon-auf-krank-aussehende-gesichter-a-a0632bfc-a7a3-4f6b-bd73-17ee397ea1ea#ref=rss)
-### vw
+* [https://www.spiegel.de/start/benachteiligung-bei-bewerbungen-schlechtere-chancen-auf-einen-ausbildungsplatz-mit-migrantisch-klingendem-namen](https://www.spiegel.de/start/benachteiligung-bei-bewerbungen-schlechtere-chancen-auf-einen-ausbildungsplatz-mit-migrantisch-klingendem-namen-a-08a1e8bf-9d75-4689-96be-220fb53d0f06#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutschland-pro-kopf-verschuldung-ueberschreitet-30-000-euro](https://www.spiegel.de/wirtschaft/deutschland-pro-kopf-verschuldung-ueberschreitet-30-000-euro-a-5eaf6026-682a-43ff-a7e7-2496433b9f3f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/stellenabbau-in-deutschland-verlangsamt-sich](https://www.spiegel.de/wirtschaft/stellenabbau-in-deutschland-verlangsamt-sich-a-a7e64aaf-cdd9-4917-a7f8-0abd06f61537#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-mercedes-und-co-was-der-zolldeal-fuer-die-autoindustrie-bedeutet](https://www.spiegel.de/wirtschaft/unternehmen/vw-mercedes-und-co-was-der-zolldeal-fuer-die-autoindustrie-bedeutet-a-8fb4d3db-241d-4b44-96a6-ba987c4ef767#ref=rss)
-### mercedes
+* [https://www.spiegel.de/netzwelt/web/smartphone-tarife-provider-erhoehen-das-datenvolumen-kraeftig](https://www.spiegel.de/netzwelt/web/smartphone-tarife-provider-erhoehen-das-datenvolumen-kraeftig-a-243db37b-0299-4e82-bdbc-afe864279573#ref=rss)
+* [https://www.spiegel.de/politik/joerg-meuthen-rueckkehr-in-die-akademische-welt-nach-afd-austritt](https://www.spiegel.de/politik/joerg-meuthen-rueckkehr-in-die-akademische-welt-nach-afd-austritt-a-12dd839b-a8ed-4510-a928-86423e02908c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/naturkatastrophen-richten-131-milliarden-dollar-schaden-an](https://www.spiegel.de/wirtschaft/naturkatastrophen-richten-131-milliarden-dollar-schaden-an-a-993e24da-c257-4881-8abe-a9304b77a021#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-mercedes-und-co-was-der-zolldeal-fuer-die-autoindustrie-bedeutet](https://www.spiegel.de/wirtschaft/unternehmen/vw-mercedes-und-co-was-der-zolldeal-fuer-die-autoindustrie-bedeutet-a-8fb4d3db-241d-4b44-96a6-ba987c4ef767#ref=rss)
-### bedeutet
+* [https://www.spiegel.de/sport/basketball/caitlin-clark-stalker-von-basketballstar-zu-zweieinhalb-jahren-haft-verurteilt](https://www.spiegel.de/sport/basketball/caitlin-clark-stalker-von-basketballstar-zu-zweieinhalb-jahren-haft-verurteilt-a-286b05de-f77c-44ce-ac1f-da7930105933#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-vier-maenner-wegen-diebstahl-eines-millionenschweren-goldschatzes-in-manching-verurteilt](https://www.spiegel.de/panorama/justiz/ingolstadt-vier-maenner-wegen-diebstahl-eines-millionenschweren-goldschatzes-in-manching-verurteilt-a-6d5a3123-0354-47e5-9041-1188429e4ac1#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-mercedes-und-co-was-der-zolldeal-fuer-die-autoindustrie-bedeutet](https://www.spiegel.de/wirtschaft/unternehmen/vw-mercedes-und-co-was-der-zolldeal-fuer-die-autoindustrie-bedeutet-a-8fb4d3db-241d-4b44-96a6-ba987c4ef767#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa-a-962a3109-f60f-46d4-b401-331ea3c47022#ref=rss)
-### katja
+* [https://www.spiegel.de/sport/fussball/fussball-transfer-news-fc-bayern-muenchen-verlaengert-mit-sven-ulreich](https://www.spiegel.de/sport/fussball/fussball-transfer-news-fc-bayern-muenchen-verlaengert-mit-sven-ulreich-a-08f67129-bae3-4024-8b9c-6bea580d81f4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-vier-maenner-wegen-diebstahl-eines-millionenschweren-goldschatzes-in-manching-verurteilt](https://www.spiegel.de/panorama/justiz/ingolstadt-vier-maenner-wegen-diebstahl-eines-millionenschweren-goldschatzes-in-manching-verurteilt-a-6d5a3123-0354-47e5-9041-1188429e4ac1#ref=rss)
+### wechsel
 
-* [https://www.spiegel.de/kultur/musik/katja-krasavice-will-keine-kinder-in-die-dreckige-welt-setzen](https://www.spiegel.de/kultur/musik/katja-krasavice-will-keine-kinder-in-die-dreckige-welt-setzen-a-0b072a53-6bb4-475e-9fbd-64bb11e9a53f#ref=rss)
-### krasavice
+* [https://www.spiegel.de/sport/fussball/fussball-transfer-news-fc-bayern-muenchen-verlaengert-mit-sven-ulreich](https://www.spiegel.de/sport/fussball/fussball-transfer-news-fc-bayern-muenchen-verlaengert-mit-sven-ulreich-a-08f67129-bae3-4024-8b9c-6bea580d81f4#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-wechsel-zu-mercedes-ist-vom-tisch](https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-wechsel-zu-mercedes-ist-vom-tisch-a-54680236-105a-4d4e-8795-a25084eaee14#ref=rss)
+### drei
 
-* [https://www.spiegel.de/kultur/musik/katja-krasavice-will-keine-kinder-in-die-dreckige-welt-setzen](https://www.spiegel.de/kultur/musik/katja-krasavice-will-keine-kinder-in-die-dreckige-welt-setzen-a-0b072a53-6bb4-475e-9fbd-64bb11e9a53f#ref=rss)
-### kinder
+* [https://www.spiegel.de/panorama/dogern-in-baden-wuerttemberg-drei-menschen-durch-ameisensaeure-verletzt](https://www.spiegel.de/panorama/dogern-in-baden-wuerttemberg-drei-menschen-durch-ameisensaeure-verletzt-a-9eefff8b-fe79-4383-85a8-a300db7206c2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-vier-maenner-wegen-diebstahl-eines-millionenschweren-goldschatzes-in-manching-verurteilt](https://www.spiegel.de/panorama/justiz/ingolstadt-vier-maenner-wegen-diebstahl-eines-millionenschweren-goldschatzes-in-manching-verurteilt-a-6d5a3123-0354-47e5-9041-1188429e4ac1#ref=rss)
+* [https://www.spiegel.de/auto/riedlingen-bahnunglueck-nach-hangrutsch-so-sicher-ist-zugfahren](https://www.spiegel.de/auto/riedlingen-bahnunglueck-nach-hangrutsch-so-sicher-ist-zugfahren-a-f2a79ef1-8dfb-4794-89d5-c233b78d308b#ref=rss)
+### vergleich
 
-* [https://www.spiegel.de/kultur/musik/katja-krasavice-will-keine-kinder-in-die-dreckige-welt-setzen](https://www.spiegel.de/kultur/musik/katja-krasavice-will-keine-kinder-in-die-dreckige-welt-setzen-a-0b072a53-6bb4-475e-9fbd-64bb11e9a53f#ref=rss)
-### welt
+* [https://www.spiegel.de/wirtschaft/eu-und-usa-vergleich-der-handelsabkommen-mit-grossbritannien-und-japan](https://www.spiegel.de/wirtschaft/eu-und-usa-vergleich-der-handelsabkommen-mit-grossbritannien-und-japan-a-adb28d78-ba64-4df0-b805-a6c126d6d7bc#ref=rss)
+* [https://www.spiegel.de/auto/riedlingen-bahnunglueck-nach-hangrutsch-so-sicher-ist-zugfahren](https://www.spiegel.de/auto/riedlingen-bahnunglueck-nach-hangrutsch-so-sicher-ist-zugfahren-a-f2a79ef1-8dfb-4794-89d5-c233b78d308b#ref=rss)
+### stehen
 
-* [https://www.spiegel.de/kultur/musik/katja-krasavice-will-keine-kinder-in-die-dreckige-welt-setzen](https://www.spiegel.de/kultur/musik/katja-krasavice-will-keine-kinder-in-die-dreckige-welt-setzen-a-0b072a53-6bb4-475e-9fbd-64bb11e9a53f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/england-wird-europameister-torhueterin-hannah-hampton-leidet-unter-augenkrankheit](https://www.spiegel.de/sport/fussball/england-wird-europameister-torhueterin-hannah-hampton-leidet-unter-augenkrankheit-a-0c7acc1a-b07b-40ae-b515-80b28e176779#ref=rss)
-### viele
+* [https://www.spiegel.de/wirtschaft/eu-und-usa-vergleich-der-handelsabkommen-mit-grossbritannien-und-japan](https://www.spiegel.de/wirtschaft/eu-und-usa-vergleich-der-handelsabkommen-mit-grossbritannien-und-japan-a-adb28d78-ba64-4df0-b805-a6c126d6d7bc#ref=rss)
+* [https://www.spiegel.de/panorama/jugendwort-2025-diese-zehn-begriffe-stehen-zur-abstimmung](https://www.spiegel.de/panorama/jugendwort-2025-diese-zehn-begriffe-stehen-zur-abstimmung-a-f67ca668-bb62-4dbe-a2a3-c5d07eac9a0c#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/kultur/musik/katja-krasavice-will-keine-kinder-in-die-dreckige-welt-setzen](https://www.spiegel.de/kultur/musik/katja-krasavice-will-keine-kinder-in-die-dreckige-welt-setzen-a-0b072a53-6bb4-475e-9fbd-64bb11e9a53f#ref=rss)
-* [https://www.spiegel.de/panorama/nuernberg-tiergarten-muss-pavian-toetung-vorbereiten](https://www.spiegel.de/panorama/nuernberg-tiergarten-muss-pavian-toetung-vorbereiten-a-f53b5974-9737-40f6-af38-618e30b1f1bc#ref=rss)
-### horst
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-riedlingen-horst-mahler-tot-waffenstillstand-zwischen-thailand-und-kambodscha](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-riedlingen-horst-mahler-tot-waffenstillstand-zwischen-thailand-und-kambodscha-a-923b2e81-a5d2-4206-a93b-03cb28a01331#ref=rss)
-### mahler
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-riedlingen-horst-mahler-tot-waffenstillstand-zwischen-thailand-und-kambodscha](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-riedlingen-horst-mahler-tot-waffenstillstand-zwischen-thailand-und-kambodscha-a-923b2e81-a5d2-4206-a93b-03cb28a01331#ref=rss)
-### tot
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-riedlingen-horst-mahler-tot-waffenstillstand-zwischen-thailand-und-kambodscha](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-riedlingen-horst-mahler-tot-waffenstillstand-zwischen-thailand-und-kambodscha-a-923b2e81-a5d2-4206-a93b-03cb28a01331#ref=rss)
-### thailand
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-riedlingen-horst-mahler-tot-waffenstillstand-zwischen-thailand-und-kambodscha](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-riedlingen-horst-mahler-tot-waffenstillstand-zwischen-thailand-und-kambodscha-a-923b2e81-a5d2-4206-a93b-03cb28a01331#ref=rss)
-### kambodscha
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-riedlingen-horst-mahler-tot-waffenstillstand-zwischen-thailand-und-kambodscha](https://www.spiegel.de/politik/deutschland/news-des-tages-zugunglueck-in-riedlingen-horst-mahler-tot-waffenstillstand-zwischen-thailand-und-kambodscha-a-923b2e81-a5d2-4206-a93b-03cb28a01331#ref=rss)
-### gesichter
-
-* [https://www.spiegel.de/wissenschaft/medizin/studie-immunsystem-reagiert-offenbar-schon-auf-krank-aussehende-gesichter](https://www.spiegel.de/wissenschaft/medizin/studie-immunsystem-reagiert-offenbar-schon-auf-krank-aussehende-gesichter-a-a0632bfc-a7a3-4f6b-bd73-17ee397ea1ea#ref=rss)
-* [https://www.spiegel.de/panorama/leute/miami-lionel-messi-und-seine-frau-antonela-strahlen-in-die-coldplay-kiss-cam](https://www.spiegel.de/panorama/leute/miami-lionel-messi-und-seine-frau-antonela-strahlen-in-die-coldplay-kiss-cam-a-117e4581-4f34-4944-89d4-2360c39ece4d#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-erstmals-bezeichnen-israelische-ngos-das-vorgehen-im-gazastreifen-als-voelkermord](https://www.spiegel.de/ausland/israel-gaza-krieg-erstmals-bezeichnen-israelische-ngos-das-vorgehen-im-gazastreifen-als-voelkermord-a-b4b3b740-7d77-4fb0-aebe-c45b553980dc#ref=rss)
-### beiden
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-erstmals-bezeichnen-israelische-ngos-das-vorgehen-im-gazastreifen-als-voelkermord](https://www.spiegel.de/ausland/israel-gaza-krieg-erstmals-bezeichnen-israelische-ngos-das-vorgehen-im-gazastreifen-als-voelkermord-a-b4b3b740-7d77-4fb0-aebe-c45b553980dc#ref=rss)
-* [https://www.spiegel.de/panorama/leute/miami-lionel-messi-und-seine-frau-antonela-strahlen-in-die-coldplay-kiss-cam](https://www.spiegel.de/panorama/leute/miami-lionel-messi-und-seine-frau-antonela-strahlen-in-die-coldplay-kiss-cam-a-117e4581-4f34-4944-89d4-2360c39ece4d#ref=rss)
-### nordkorea
-
-* [https://www.spiegel.de/panorama/russland-nordkorea-moskau-und-pjoengjang-trennt-nur-noch-ein-flug](https://www.spiegel.de/panorama/russland-nordkorea-moskau-und-pjoengjang-trennt-nur-noch-ein-flug-a-49098a39-5f13-4c4b-90f6-edd71a4d51d0#ref=rss)
-### moskau
-
-* [https://www.spiegel.de/panorama/russland-nordkorea-moskau-und-pjoengjang-trennt-nur-noch-ein-flug](https://www.spiegel.de/panorama/russland-nordkorea-moskau-und-pjoengjang-trennt-nur-noch-ein-flug-a-49098a39-5f13-4c4b-90f6-edd71a4d51d0#ref=rss)
-### pjöngjang
-
-* [https://www.spiegel.de/panorama/russland-nordkorea-moskau-und-pjoengjang-trennt-nur-noch-ein-flug](https://www.spiegel.de/panorama/russland-nordkorea-moskau-und-pjoengjang-trennt-nur-noch-ein-flug-a-49098a39-5f13-4c4b-90f6-edd71a4d51d0#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/politik/deutschland/hakenkreuz-affaere-in-baden-wuerttemberg-spd-landesverband-draengt-daniel-born-zur-aufgabe-seines-mandats](https://www.spiegel.de/politik/deutschland/hakenkreuz-affaere-in-baden-wuerttemberg-spd-landesverband-draengt-daniel-born-zur-aufgabe-seines-mandats-a-005fc81d-2c00-498d-8c83-2d8e184dd7b1#ref=rss)
-### born
-
-* [https://www.spiegel.de/politik/deutschland/hakenkreuz-affaere-in-baden-wuerttemberg-spd-landesverband-draengt-daniel-born-zur-aufgabe-seines-mandats](https://www.spiegel.de/politik/deutschland/hakenkreuz-affaere-in-baden-wuerttemberg-spd-landesverband-draengt-daniel-born-zur-aufgabe-seines-mandats-a-005fc81d-2c00-498d-8c83-2d8e184dd7b1#ref=rss)
-### lionel
-
-* [https://www.spiegel.de/panorama/leute/miami-lionel-messi-und-seine-frau-antonela-strahlen-in-die-coldplay-kiss-cam](https://www.spiegel.de/panorama/leute/miami-lionel-messi-und-seine-frau-antonela-strahlen-in-die-coldplay-kiss-cam-a-117e4581-4f34-4944-89d4-2360c39ece4d#ref=rss)
-### messi
-
-* [https://www.spiegel.de/panorama/leute/miami-lionel-messi-und-seine-frau-antonela-strahlen-in-die-coldplay-kiss-cam](https://www.spiegel.de/panorama/leute/miami-lionel-messi-und-seine-frau-antonela-strahlen-in-die-coldplay-kiss-cam-a-117e4581-4f34-4944-89d4-2360c39ece4d#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben](https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben-a-38d6c2d4-8b3f-4e66-a346-647b6b6e6113#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben](https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben-a-38d6c2d4-8b3f-4e66-a346-647b6b6e6113#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben](https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben-a-38d6c2d4-8b3f-4e66-a346-647b6b6e6113#ref=rss)
-### tage
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben](https://www.spiegel.de/ausland/russland-ukraine-krieg-donald-trump-will-wladimir-putin-noch-zehn-bis-zwoelf-tage-geben-a-38d6c2d4-8b3f-4e66-a346-647b6b6e6113#ref=rss)
-### hannah
-
-* [https://www.spiegel.de/sport/fussball/england-wird-europameister-torhueterin-hannah-hampton-leidet-unter-augenkrankheit](https://www.spiegel.de/sport/fussball/england-wird-europameister-torhueterin-hannah-hampton-leidet-unter-augenkrankheit-a-0c7acc1a-b07b-40ae-b515-80b28e176779#ref=rss)
-### hampton
-
-* [https://www.spiegel.de/sport/fussball/england-wird-europameister-torhueterin-hannah-hampton-leidet-unter-augenkrankheit](https://www.spiegel.de/sport/fussball/england-wird-europameister-torhueterin-hannah-hampton-leidet-unter-augenkrankheit-a-0c7acc1a-b07b-40ae-b515-80b28e176779#ref=rss)
-### yu
-
-* [https://www.spiegel.de/sport/schwimm-wm-zwoelfjaehrige-chinesin-yu-zidi-verpasst-knapp-historische-medaille](https://www.spiegel.de/sport/schwimm-wm-zwoelfjaehrige-chinesin-yu-zidi-verpasst-knapp-historische-medaille-a-be8d0955-112b-42a1-9180-ef41627ed65f#ref=rss)
-### zidi
-
-* [https://www.spiegel.de/sport/schwimm-wm-zwoelfjaehrige-chinesin-yu-zidi-verpasst-knapp-historische-medaille](https://www.spiegel.de/sport/schwimm-wm-zwoelfjaehrige-chinesin-yu-zidi-verpasst-knapp-historische-medaille-a-be8d0955-112b-42a1-9180-ef41627ed65f#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/sport/schwimm-wm-zwoelfjaehrige-chinesin-yu-zidi-verpasst-knapp-historische-medaille](https://www.spiegel.de/sport/schwimm-wm-zwoelfjaehrige-chinesin-yu-zidi-verpasst-knapp-historische-medaille-a-be8d0955-112b-42a1-9180-ef41627ed65f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundeshaushalt-luecke-fuer-die-jahre-2027-bis-2029-waechst-auf-172-milliarden-euro](https://www.spiegel.de/wirtschaft/bundeshaushalt-luecke-fuer-die-jahre-2027-bis-2029-waechst-auf-172-milliarden-euro-a-27e56089-5388-49b2-a075-1feacecaf7c3#ref=rss)
-### ziad
-
-* [https://www.spiegel.de/kultur/musik/fairouz-libanon-trauert-um-sohn-ziad-rahbani-ein-musikalisches-erbe](https://www.spiegel.de/kultur/musik/fairouz-libanon-trauert-um-sohn-ziad-rahbani-ein-musikalisches-erbe-a-1562df5c-aa12-4bb4-acae-f04ae86868ea#ref=rss)
-### rahbani
-
-* [https://www.spiegel.de/kultur/musik/fairouz-libanon-trauert-um-sohn-ziad-rahbani-ein-musikalisches-erbe](https://www.spiegel.de/kultur/musik/fairouz-libanon-trauert-um-sohn-ziad-rahbani-ein-musikalisches-erbe-a-1562df5c-aa12-4bb4-acae-f04ae86868ea#ref=rss)
-### libanon
-
-* [https://www.spiegel.de/kultur/musik/fairouz-libanon-trauert-um-sohn-ziad-rahbani-ein-musikalisches-erbe](https://www.spiegel.de/kultur/musik/fairouz-libanon-trauert-um-sohn-ziad-rahbani-ein-musikalisches-erbe-a-1562df5c-aa12-4bb4-acae-f04ae86868ea#ref=rss)
-### palestineshirt
-
-* [https://www.spiegel.de/politik/deutschland/palestine-shirt-linken-abgeordnete-cansin-koektuerk-widerspricht-julia-kloeckner](https://www.spiegel.de/politik/deutschland/palestine-shirt-linken-abgeordnete-cansin-koektuerk-widerspricht-julia-kloeckner-a-908c6dc8-b2cb-4c1d-afec-453bf331e57c#ref=rss)
-### linkenabgeordnete
-
-* [https://www.spiegel.de/politik/deutschland/palestine-shirt-linken-abgeordnete-cansin-koektuerk-widerspricht-julia-kloeckner](https://www.spiegel.de/politik/deutschland/palestine-shirt-linken-abgeordnete-cansin-koektuerk-widerspricht-julia-kloeckner-a-908c6dc8-b2cb-4c1d-afec-453bf331e57c#ref=rss)
-### cansın
-
-* [https://www.spiegel.de/politik/deutschland/palestine-shirt-linken-abgeordnete-cansin-koektuerk-widerspricht-julia-kloeckner](https://www.spiegel.de/politik/deutschland/palestine-shirt-linken-abgeordnete-cansin-koektuerk-widerspricht-julia-kloeckner-a-908c6dc8-b2cb-4c1d-afec-453bf331e57c#ref=rss)
-### köktürk
-
-* [https://www.spiegel.de/politik/deutschland/palestine-shirt-linken-abgeordnete-cansin-koektuerk-widerspricht-julia-kloeckner](https://www.spiegel.de/politik/deutschland/palestine-shirt-linken-abgeordnete-cansin-koektuerk-widerspricht-julia-kloeckner-a-908c6dc8-b2cb-4c1d-afec-453bf331e57c#ref=rss)
-### julia
-
-* [https://www.spiegel.de/politik/deutschland/palestine-shirt-linken-abgeordnete-cansin-koektuerk-widerspricht-julia-kloeckner](https://www.spiegel.de/politik/deutschland/palestine-shirt-linken-abgeordnete-cansin-koektuerk-widerspricht-julia-kloeckner-a-908c6dc8-b2cb-4c1d-afec-453bf331e57c#ref=rss)
-### klöckner
-
-* [https://www.spiegel.de/politik/deutschland/palestine-shirt-linken-abgeordnete-cansin-koektuerk-widerspricht-julia-kloeckner](https://www.spiegel.de/politik/deutschland/palestine-shirt-linken-abgeordnete-cansin-koektuerk-widerspricht-julia-kloeckner-a-908c6dc8-b2cb-4c1d-afec-453bf331e57c#ref=rss)
-### 2027
-
-* [https://www.spiegel.de/wirtschaft/bundeshaushalt-luecke-fuer-die-jahre-2027-bis-2029-waechst-auf-172-milliarden-euro](https://www.spiegel.de/wirtschaft/bundeshaushalt-luecke-fuer-die-jahre-2027-bis-2029-waechst-auf-172-milliarden-euro-a-27e56089-5388-49b2-a075-1feacecaf7c3#ref=rss)
-### 2029
-
-* [https://www.spiegel.de/wirtschaft/bundeshaushalt-luecke-fuer-die-jahre-2027-bis-2029-waechst-auf-172-milliarden-euro](https://www.spiegel.de/wirtschaft/bundeshaushalt-luecke-fuer-die-jahre-2027-bis-2029-waechst-auf-172-milliarden-euro-a-27e56089-5388-49b2-a075-1feacecaf7c3#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-wechsel-zu-mercedes-ist-vom-tisch](https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-wechsel-zu-mercedes-ist-vom-tisch-a-54680236-105a-4d4e-8795-a25084eaee14#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-usa-untersagen-praesident-lai-ching-te-offenbar-zwischenstopp-in-new-york](https://www.spiegel.de/ausland/taiwan-usa-untersagen-praesident-lai-ching-te-offenbar-zwischenstopp-in-new-york-a-43ebb387-9be7-4892-9267-b188139b1c7f#ref=rss)
 ### euro
 
-* [https://www.spiegel.de/wirtschaft/bundeshaushalt-luecke-fuer-die-jahre-2027-bis-2029-waechst-auf-172-milliarden-euro](https://www.spiegel.de/wirtschaft/bundeshaushalt-luecke-fuer-die-jahre-2027-bis-2029-waechst-auf-172-milliarden-euro-a-27e56089-5388-49b2-a075-1feacecaf7c3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutschland-pro-kopf-verschuldung-ueberschreitet-30-000-euro](https://www.spiegel.de/wirtschaft/deutschland-pro-kopf-verschuldung-ueberschreitet-30-000-euro-a-5eaf6026-682a-43ff-a7e7-2496433b9f3f#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### pro
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutschland-pro-kopf-verschuldung-ueberschreitet-30-000-euro](https://www.spiegel.de/wirtschaft/deutschland-pro-kopf-verschuldung-ueberschreitet-30-000-euro-a-5eaf6026-682a-43ff-a7e7-2496433b9f3f#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-transfer-news-fc-bayern-muenchen-verlaengert-mit-sven-ulreich](https://www.spiegel.de/sport/fussball/fussball-transfer-news-fc-bayern-muenchen-verlaengert-mit-sven-ulreich-a-08f67129-bae3-4024-8b9c-6bea580d81f4#ref=rss)
+### gracie
+
+* [https://www.spiegel.de/kultur/musik/kann-gracie-abrams-singen-interview-mit-gesangspaedagoge-sascha-wienhausen](https://www.spiegel.de/kultur/musik/kann-gracie-abrams-singen-interview-mit-gesangspaedagoge-sascha-wienhausen-a-5956970e-0526-4356-b58d-6aeedaa51547#ref=rss)
+### abrams
+
+* [https://www.spiegel.de/kultur/musik/kann-gracie-abrams-singen-interview-mit-gesangspaedagoge-sascha-wienhausen](https://www.spiegel.de/kultur/musik/kann-gracie-abrams-singen-interview-mit-gesangspaedagoge-sascha-wienhausen-a-5956970e-0526-4356-b58d-6aeedaa51547#ref=rss)
+### caitlin
+
+* [https://www.spiegel.de/sport/basketball/caitlin-clark-stalker-von-basketballstar-zu-zweieinhalb-jahren-haft-verurteilt](https://www.spiegel.de/sport/basketball/caitlin-clark-stalker-von-basketballstar-zu-zweieinhalb-jahren-haft-verurteilt-a-286b05de-f77c-44ce-ac1f-da7930105933#ref=rss)
+### clark
+
+* [https://www.spiegel.de/sport/basketball/caitlin-clark-stalker-von-basketballstar-zu-zweieinhalb-jahren-haft-verurteilt](https://www.spiegel.de/sport/basketball/caitlin-clark-stalker-von-basketballstar-zu-zweieinhalb-jahren-haft-verurteilt-a-286b05de-f77c-44ce-ac1f-da7930105933#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/sport/basketball/caitlin-clark-stalker-von-basketballstar-zu-zweieinhalb-jahren-haft-verurteilt](https://www.spiegel.de/sport/basketball/caitlin-clark-stalker-von-basketballstar-zu-zweieinhalb-jahren-haft-verurteilt-a-286b05de-f77c-44ce-ac1f-da7930105933#ref=rss)
+* [https://www.spiegel.de/politik/joerg-meuthen-rueckkehr-in-die-akademische-welt-nach-afd-austritt](https://www.spiegel.de/politik/joerg-meuthen-rueckkehr-in-die-akademische-welt-nach-afd-austritt-a-12dd839b-a8ed-4510-a928-86423e02908c#ref=rss)
+### haft
+
+* [https://www.spiegel.de/sport/basketball/caitlin-clark-stalker-von-basketballstar-zu-zweieinhalb-jahren-haft-verurteilt](https://www.spiegel.de/sport/basketball/caitlin-clark-stalker-von-basketballstar-zu-zweieinhalb-jahren-haft-verurteilt-a-286b05de-f77c-44ce-ac1f-da7930105933#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-vier-maenner-wegen-diebstahl-eines-millionenschweren-goldschatzes-in-manching-verurteilt](https://www.spiegel.de/panorama/justiz/ingolstadt-vier-maenner-wegen-diebstahl-eines-millionenschweren-goldschatzes-in-manching-verurteilt-a-6d5a3123-0354-47e5-9041-1188429e4ac1#ref=rss)
+### eindeutige
+
+* [https://www.spiegel.de/sport/basketball/caitlin-clark-stalker-von-basketballstar-zu-zweieinhalb-jahren-haft-verurteilt](https://www.spiegel.de/sport/basketball/caitlin-clark-stalker-von-basketballstar-zu-zweieinhalb-jahren-haft-verurteilt-a-286b05de-f77c-44ce-ac1f-da7930105933#ref=rss)
+* [https://www.spiegel.de/auto/riedlingen-bahnunglueck-nach-hangrutsch-so-sicher-ist-zugfahren](https://www.spiegel.de/auto/riedlingen-bahnunglueck-nach-hangrutsch-so-sicher-ist-zugfahren-a-f2a79ef1-8dfb-4794-89d5-c233b78d308b#ref=rss)
+### gefängnis
+
+* [https://www.spiegel.de/sport/basketball/caitlin-clark-stalker-von-basketballstar-zu-zweieinhalb-jahren-haft-verurteilt](https://www.spiegel.de/sport/basketball/caitlin-clark-stalker-von-basketballstar-zu-zweieinhalb-jahren-haft-verurteilt-a-286b05de-f77c-44ce-ac1f-da7930105933#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-16-tote-bei-angriff-auf-straflager-in-saporischschja](https://www.spiegel.de/ausland/russland-ukraine-krieg-16-tote-bei-angriff-auf-straflager-in-saporischschja-a-5cbc52db-71c2-4072-a426-2c935a8aa7ea#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfer-news-fc-bayern-muenchen-verlaengert-mit-sven-ulreich](https://www.spiegel.de/sport/fussball/fussball-transfer-news-fc-bayern-muenchen-verlaengert-mit-sven-ulreich-a-08f67129-bae3-4024-8b9c-6bea580d81f4#ref=rss)
+### umstrittene
+
+* [https://www.spiegel.de/netzwelt/baden-wuerttemberg-will-umstrittene-polizeisoftware-von-palantir-nutzen](https://www.spiegel.de/netzwelt/baden-wuerttemberg-will-umstrittene-polizeisoftware-von-palantir-nutzen-a-1b3fa95c-6be0-4cbb-80da-558f84521277#ref=rss)
+### palantir
+
+* [https://www.spiegel.de/netzwelt/baden-wuerttemberg-will-umstrittene-polizeisoftware-von-palantir-nutzen](https://www.spiegel.de/netzwelt/baden-wuerttemberg-will-umstrittene-polizeisoftware-von-palantir-nutzen-a-1b3fa95c-6be0-4cbb-80da-558f84521277#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/panorama/justiz/berlin-angriff-im-holocaustmahnmal-bundesanwaltschaft-erhebt-anklage-wegen-versuchten-mordes](https://www.spiegel.de/panorama/justiz/berlin-angriff-im-holocaustmahnmal-bundesanwaltschaft-erhebt-anklage-wegen-versuchten-mordes-a-ee1016cc-9d42-4706-a6b9-0232ef3ca37f#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-16-tote-bei-angriff-auf-straflager-in-saporischschja](https://www.spiegel.de/ausland/russland-ukraine-krieg-16-tote-bei-angriff-auf-straflager-in-saporischschja-a-5cbc52db-71c2-4072-a426-2c935a8aa7ea#ref=rss)
+### bundesanwaltschaft
+
+* [https://www.spiegel.de/panorama/justiz/berlin-angriff-im-holocaustmahnmal-bundesanwaltschaft-erhebt-anklage-wegen-versuchten-mordes](https://www.spiegel.de/panorama/justiz/berlin-angriff-im-holocaustmahnmal-bundesanwaltschaft-erhebt-anklage-wegen-versuchten-mordes-a-ee1016cc-9d42-4706-a6b9-0232ef3ca37f#ref=rss)
+### dogern
+
+* [https://www.spiegel.de/panorama/dogern-in-baden-wuerttemberg-drei-menschen-durch-ameisensaeure-verletzt](https://www.spiegel.de/panorama/dogern-in-baden-wuerttemberg-drei-menschen-durch-ameisensaeure-verletzt-a-9eefff8b-fe79-4383-85a8-a300db7206c2#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/dogern-in-baden-wuerttemberg-drei-menschen-durch-ameisensaeure-verletzt](https://www.spiegel.de/panorama/dogern-in-baden-wuerttemberg-drei-menschen-durch-ameisensaeure-verletzt-a-9eefff8b-fe79-4383-85a8-a300db7206c2#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sicherheitskraefte-toeten-mutmassliche-kaschmir-terroristen](https://www.spiegel.de/ausland/indien-sicherheitskraefte-toeten-mutmassliche-kaschmir-terroristen-a-7ad25824-b10e-45c6-8759-fd23f44b8992#ref=rss)
+### ameisensäure
+
+* [https://www.spiegel.de/panorama/dogern-in-baden-wuerttemberg-drei-menschen-durch-ameisensaeure-verletzt](https://www.spiegel.de/panorama/dogern-in-baden-wuerttemberg-drei-menschen-durch-ameisensaeure-verletzt-a-9eefff8b-fe79-4383-85a8-a300db7206c2#ref=rss)
+### krankenhaus
+
+* [https://www.spiegel.de/panorama/dogern-in-baden-wuerttemberg-drei-menschen-durch-ameisensaeure-verletzt](https://www.spiegel.de/panorama/dogern-in-baden-wuerttemberg-drei-menschen-durch-ameisensaeure-verletzt-a-9eefff8b-fe79-4383-85a8-a300db7206c2#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-16-tote-bei-angriff-auf-straflager-in-saporischschja](https://www.spiegel.de/ausland/russland-ukraine-krieg-16-tote-bei-angriff-auf-straflager-in-saporischschja-a-5cbc52db-71c2-4072-a426-2c935a8aa7ea#ref=rss)
+### indien
+
+* [https://www.spiegel.de/ausland/indien-sicherheitskraefte-toeten-mutmassliche-kaschmir-terroristen](https://www.spiegel.de/ausland/indien-sicherheitskraefte-toeten-mutmassliche-kaschmir-terroristen-a-7ad25824-b10e-45c6-8759-fd23f44b8992#ref=rss)
+### sicherheitskräfte
+
+* [https://www.spiegel.de/ausland/indien-sicherheitskraefte-toeten-mutmassliche-kaschmir-terroristen](https://www.spiegel.de/ausland/indien-sicherheitskraefte-toeten-mutmassliche-kaschmir-terroristen-a-7ad25824-b10e-45c6-8759-fd23f44b8992#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/wirtschaft/eu-und-usa-vergleich-der-handelsabkommen-mit-grossbritannien-und-japan](https://www.spiegel.de/wirtschaft/eu-und-usa-vergleich-der-handelsabkommen-mit-grossbritannien-und-japan-a-adb28d78-ba64-4df0-b805-a6c126d6d7bc#ref=rss)
+* [https://www.spiegel.de/kultur/musik/beyonce-cowboy-carter-tour-ist-nun-die-umsatzstaerkste-country-tour-aller-zeiten](https://www.spiegel.de/kultur/musik/beyonce-cowboy-carter-tour-ist-nun-die-umsatzstaerkste-country-tour-aller-zeiten-a-b4d473ee-a36e-4f0a-affe-f99eac1e3449#ref=rss)
 ### europa
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-zolldeal-mit-usa-bringt-neue-herausforderungen-fuer-europa-a-962a3109-f60f-46d4-b401-331ea3c47022#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-und-usa-vergleich-der-handelsabkommen-mit-grossbritannien-und-japan](https://www.spiegel.de/wirtschaft/eu-und-usa-vergleich-der-handelsabkommen-mit-grossbritannien-und-japan-a-adb28d78-ba64-4df0-b805-a6c126d6d7bc#ref=rss)
+* [https://www.spiegel.de/kultur/musik/beyonce-cowboy-carter-tour-ist-nun-die-umsatzstaerkste-country-tour-aller-zeiten](https://www.spiegel.de/kultur/musik/beyonce-cowboy-carter-tour-ist-nun-die-umsatzstaerkste-country-tour-aller-zeiten-a-b4d473ee-a36e-4f0a-affe-f99eac1e3449#ref=rss)
+### washington
+
+* [https://www.spiegel.de/wirtschaft/eu-und-usa-vergleich-der-handelsabkommen-mit-grossbritannien-und-japan](https://www.spiegel.de/wirtschaft/eu-und-usa-vergleich-der-handelsabkommen-mit-grossbritannien-und-japan-a-adb28d78-ba64-4df0-b805-a6c126d6d7bc#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-usa-untersagen-praesident-lai-ching-te-offenbar-zwischenstopp-in-new-york](https://www.spiegel.de/ausland/taiwan-usa-untersagen-praesident-lai-ching-te-offenbar-zwischenstopp-in-new-york-a-43ebb387-9be7-4892-9267-b188139b1c7f#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/wirtschaft/eu-und-usa-vergleich-der-handelsabkommen-mit-grossbritannien-und-japan](https://www.spiegel.de/wirtschaft/eu-und-usa-vergleich-der-handelsabkommen-mit-grossbritannien-und-japan-a-adb28d78-ba64-4df0-b805-a6c126d6d7bc#ref=rss)
+* [https://www.spiegel.de/auto/riedlingen-bahnunglueck-nach-hangrutsch-so-sicher-ist-zugfahren](https://www.spiegel.de/auto/riedlingen-bahnunglueck-nach-hangrutsch-so-sicher-ist-zugfahren-a-f2a79ef1-8dfb-4794-89d5-c233b78d308b#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-vier-maenner-wegen-diebstahl-eines-millionenschweren-goldschatzes-in-manching-verurteilt](https://www.spiegel.de/panorama/justiz/ingolstadt-vier-maenner-wegen-diebstahl-eines-millionenschweren-goldschatzes-in-manching-verurteilt-a-6d5a3123-0354-47e5-9041-1188429e4ac1#ref=rss)
+### manching
+
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-vier-maenner-wegen-diebstahl-eines-millionenschweren-goldschatzes-in-manching-verurteilt](https://www.spiegel.de/panorama/justiz/ingolstadt-vier-maenner-wegen-diebstahl-eines-millionenschweren-goldschatzes-in-manching-verurteilt-a-6d5a3123-0354-47e5-9041-1188429e4ac1#ref=rss)
+### chancen
+
+* [https://www.spiegel.de/start/benachteiligung-bei-bewerbungen-schlechtere-chancen-auf-einen-ausbildungsplatz-mit-migrantisch-klingendem-namen](https://www.spiegel.de/start/benachteiligung-bei-bewerbungen-schlechtere-chancen-auf-einen-ausbildungsplatz-mit-migrantisch-klingendem-namen-a-08a1e8bf-9d75-4689-96be-220fb53d0f06#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/start/benachteiligung-bei-bewerbungen-schlechtere-chancen-auf-einen-ausbildungsplatz-mit-migrantisch-klingendem-namen](https://www.spiegel.de/start/benachteiligung-bei-bewerbungen-schlechtere-chancen-auf-einen-ausbildungsplatz-mit-migrantisch-klingendem-namen-a-08a1e8bf-9d75-4689-96be-220fb53d0f06#ref=rss)
+* [https://www.spiegel.de/wirtschaft/naturkatastrophen-richten-131-milliarden-dollar-schaden-an](https://www.spiegel.de/wirtschaft/naturkatastrophen-richten-131-milliarden-dollar-schaden-an-a-993e24da-c257-4881-8abe-a9304b77a021#ref=rss)
+### tote
+
+* [https://www.spiegel.de/auto/riedlingen-bahnunglueck-nach-hangrutsch-so-sicher-ist-zugfahren](https://www.spiegel.de/auto/riedlingen-bahnunglueck-nach-hangrutsch-so-sicher-ist-zugfahren-a-f2a79ef1-8dfb-4794-89d5-c233b78d308b#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-16-tote-bei-angriff-auf-straflager-in-saporischschja](https://www.spiegel.de/ausland/russland-ukraine-krieg-16-tote-bei-angriff-auf-straflager-in-saporischschja-a-5cbc52db-71c2-4072-a426-2c935a8aa7ea#ref=rss)
+### max
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-wechsel-zu-mercedes-ist-vom-tisch](https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-wechsel-zu-mercedes-ist-vom-tisch-a-54680236-105a-4d4e-8795-a25084eaee14#ref=rss)
+### mercedes
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-wechsel-zu-mercedes-ist-vom-tisch](https://www.spiegel.de/sport/formel1/formel-1-max-verstappens-wechsel-zu-mercedes-ist-vom-tisch-a-54680236-105a-4d4e-8795-a25084eaee14#ref=rss)
+### altheim
+
+* [https://www.spiegel.de/panorama/altheim-in-baden-wuerttemberg-vater-soll-neugeborenes-versehentlich-ueberfahren-haben](https://www.spiegel.de/panorama/altheim-in-baden-wuerttemberg-vater-soll-neugeborenes-versehentlich-ueberfahren-haben-a-4972e3b7-c632-4aa0-93f0-57d1c4a05ccb#ref=rss)
+### vater
+
+* [https://www.spiegel.de/panorama/altheim-in-baden-wuerttemberg-vater-soll-neugeborenes-versehentlich-ueberfahren-haben](https://www.spiegel.de/panorama/altheim-in-baden-wuerttemberg-vater-soll-neugeborenes-versehentlich-ueberfahren-haben-a-4972e3b7-c632-4aa0-93f0-57d1c4a05ccb#ref=rss)
+### 30000
+
+* [https://www.spiegel.de/wirtschaft/deutschland-pro-kopf-verschuldung-ueberschreitet-30-000-euro](https://www.spiegel.de/wirtschaft/deutschland-pro-kopf-verschuldung-ueberschreitet-30-000-euro-a-5eaf6026-682a-43ff-a7e7-2496433b9f3f#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/wirtschaft/deutschland-pro-kopf-verschuldung-ueberschreitet-30-000-euro](https://www.spiegel.de/wirtschaft/deutschland-pro-kopf-verschuldung-ueberschreitet-30-000-euro-a-5eaf6026-682a-43ff-a7e7-2496433b9f3f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/naturkatastrophen-richten-131-milliarden-dollar-schaden-an](https://www.spiegel.de/wirtschaft/naturkatastrophen-richten-131-milliarden-dollar-schaden-an-a-993e24da-c257-4881-8abe-a9304b77a021#ref=rss)
+### jugendwort
+
+* [https://www.spiegel.de/panorama/jugendwort-2025-diese-zehn-begriffe-stehen-zur-abstimmung](https://www.spiegel.de/panorama/jugendwort-2025-diese-zehn-begriffe-stehen-zur-abstimmung-a-f67ca668-bb62-4dbe-a2a3-c5d07eac9a0c#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/panorama/jugendwort-2025-diese-zehn-begriffe-stehen-zur-abstimmung](https://www.spiegel.de/panorama/jugendwort-2025-diese-zehn-begriffe-stehen-zur-abstimmung-a-f67ca668-bb62-4dbe-a2a3-c5d07eac9a0c#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/historiker-karl-schloegel-erhaelt-friedenspreis-des-deutschen-buchhandels-2025](https://www.spiegel.de/kultur/literatur/historiker-karl-schloegel-erhaelt-friedenspreis-des-deutschen-buchhandels-2025-a-d9373d44-f85c-4644-a2bf-496d31d21909#ref=rss)
+### zehn
+
+* [https://www.spiegel.de/panorama/jugendwort-2025-diese-zehn-begriffe-stehen-zur-abstimmung](https://www.spiegel.de/panorama/jugendwort-2025-diese-zehn-begriffe-stehen-zur-abstimmung-a-f67ca668-bb62-4dbe-a2a3-c5d07eac9a0c#ref=rss)
+### historiker
+
+* [https://www.spiegel.de/kultur/literatur/historiker-karl-schloegel-erhaelt-friedenspreis-des-deutschen-buchhandels-2025](https://www.spiegel.de/kultur/literatur/historiker-karl-schloegel-erhaelt-friedenspreis-des-deutschen-buchhandels-2025-a-d9373d44-f85c-4644-a2bf-496d31d21909#ref=rss)
+### karl
+
+* [https://www.spiegel.de/kultur/literatur/historiker-karl-schloegel-erhaelt-friedenspreis-des-deutschen-buchhandels-2025](https://www.spiegel.de/kultur/literatur/historiker-karl-schloegel-erhaelt-friedenspreis-des-deutschen-buchhandels-2025-a-d9373d44-f85c-4644-a2bf-496d31d21909#ref=rss)
+### schlögel
+
+* [https://www.spiegel.de/kultur/literatur/historiker-karl-schloegel-erhaelt-friedenspreis-des-deutschen-buchhandels-2025](https://www.spiegel.de/kultur/literatur/historiker-karl-schloegel-erhaelt-friedenspreis-des-deutschen-buchhandels-2025-a-d9373d44-f85c-4644-a2bf-496d31d21909#ref=rss)
+### friedenspreis
+
+* [https://www.spiegel.de/kultur/literatur/historiker-karl-schloegel-erhaelt-friedenspreis-des-deutschen-buchhandels-2025](https://www.spiegel.de/kultur/literatur/historiker-karl-schloegel-erhaelt-friedenspreis-des-deutschen-buchhandels-2025-a-d9373d44-f85c-4644-a2bf-496d31d21909#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/kultur/literatur/historiker-karl-schloegel-erhaelt-friedenspreis-des-deutschen-buchhandels-2025](https://www.spiegel.de/kultur/literatur/historiker-karl-schloegel-erhaelt-friedenspreis-des-deutschen-buchhandels-2025-a-d9373d44-f85c-4644-a2bf-496d31d21909#ref=rss)
+* [https://www.spiegel.de/ausland/uno-bericht-weltweite-zahl-der-hungernden-leicht-gesunken](https://www.spiegel.de/ausland/uno-bericht-weltweite-zahl-der-hungernden-leicht-gesunken-a-336a77e9-16e6-4993-9749-1e6652a1dcf9#ref=rss)
+### russlands
+
+* [https://www.spiegel.de/kultur/literatur/historiker-karl-schloegel-erhaelt-friedenspreis-des-deutschen-buchhandels-2025](https://www.spiegel.de/kultur/literatur/historiker-karl-schloegel-erhaelt-friedenspreis-des-deutschen-buchhandels-2025-a-d9373d44-f85c-4644-a2bf-496d31d21909#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-16-tote-bei-angriff-auf-straflager-in-saporischschja](https://www.spiegel.de/ausland/russland-ukraine-krieg-16-tote-bei-angriff-auf-straflager-in-saporischschja-a-5cbc52db-71c2-4072-a426-2c935a8aa7ea#ref=rss)
+### heidelberger
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/heidelberger-druck-steigt-ins-ruestungsgeschaeft-ein](https://www.spiegel.de/wirtschaft/unternehmen/heidelberger-druck-steigt-ins-ruestungsgeschaeft-ein-a-62e5fb9d-0777-4e0b-8628-431b13a42abc#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/heidelberger-druck-steigt-ins-ruestungsgeschaeft-ein](https://www.spiegel.de/wirtschaft/unternehmen/heidelberger-druck-steigt-ins-ruestungsgeschaeft-ein-a-62e5fb9d-0777-4e0b-8628-431b13a42abc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/naturkatastrophen-richten-131-milliarden-dollar-schaden-an](https://www.spiegel.de/wirtschaft/naturkatastrophen-richten-131-milliarden-dollar-schaden-an-a-993e24da-c257-4881-8abe-a9304b77a021#ref=rss)
+### saporischschja
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-16-tote-bei-angriff-auf-straflager-in-saporischschja](https://www.spiegel.de/ausland/russland-ukraine-krieg-16-tote-bei-angriff-auf-straflager-in-saporischschja-a-5cbc52db-71c2-4072-a426-2c935a8aa7ea#ref=rss)
+### datenvolumen
+
+* [https://www.spiegel.de/netzwelt/web/smartphone-tarife-provider-erhoehen-das-datenvolumen-kraeftig](https://www.spiegel.de/netzwelt/web/smartphone-tarife-provider-erhoehen-das-datenvolumen-kraeftig-a-243db37b-0299-4e82-bdbc-afe864279573#ref=rss)
+### jette
+
+* [https://www.spiegel.de/politik/gruene-jugend-chefin-jette-nietzard-kandidiert-nicht-erneut](https://www.spiegel.de/politik/gruene-jugend-chefin-jette-nietzard-kandidiert-nicht-erneut-a-4901f4cb-313c-4ea4-b7b3-23e57095e821#ref=rss)
+### nietzard
+
+* [https://www.spiegel.de/politik/gruene-jugend-chefin-jette-nietzard-kandidiert-nicht-erneut](https://www.spiegel.de/politik/gruene-jugend-chefin-jette-nietzard-kandidiert-nicht-erneut-a-4901f4cb-313c-4ea4-b7b3-23e57095e821#ref=rss)
+### macht
+
+* [https://www.spiegel.de/politik/gruene-jugend-chefin-jette-nietzard-kandidiert-nicht-erneut](https://www.spiegel.de/politik/gruene-jugend-chefin-jette-nietzard-kandidiert-nicht-erneut-a-4901f4cb-313c-4ea4-b7b3-23e57095e821#ref=rss)
+* [https://www.spiegel.de/ausland/uno-bericht-weltweite-zahl-der-hungernden-leicht-gesunken](https://www.spiegel.de/ausland/uno-bericht-weltweite-zahl-der-hungernden-leicht-gesunken-a-336a77e9-16e6-4993-9749-1e6652a1dcf9#ref=rss)
+### jörg
+
+* [https://www.spiegel.de/politik/joerg-meuthen-rueckkehr-in-die-akademische-welt-nach-afd-austritt](https://www.spiegel.de/politik/joerg-meuthen-rueckkehr-in-die-akademische-welt-nach-afd-austritt-a-12dd839b-a8ed-4510-a928-86423e02908c#ref=rss)
+### meuthen
+
+* [https://www.spiegel.de/politik/joerg-meuthen-rueckkehr-in-die-akademische-welt-nach-afd-austritt](https://www.spiegel.de/politik/joerg-meuthen-rueckkehr-in-die-akademische-welt-nach-afd-austritt-a-12dd839b-a8ed-4510-a928-86423e02908c#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/joerg-meuthen-rueckkehr-in-die-akademische-welt-nach-afd-austritt](https://www.spiegel.de/politik/joerg-meuthen-rueckkehr-in-die-akademische-welt-nach-afd-austritt-a-12dd839b-a8ed-4510-a928-86423e02908c#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/taiwan-usa-untersagen-praesident-lai-ching-te-offenbar-zwischenstopp-in-new-york](https://www.spiegel.de/ausland/taiwan-usa-untersagen-praesident-lai-ching-te-offenbar-zwischenstopp-in-new-york-a-43ebb387-9be7-4892-9267-b188139b1c7f#ref=rss)
+### lai
+
+* [https://www.spiegel.de/ausland/taiwan-usa-untersagen-praesident-lai-ching-te-offenbar-zwischenstopp-in-new-york](https://www.spiegel.de/ausland/taiwan-usa-untersagen-praesident-lai-ching-te-offenbar-zwischenstopp-in-new-york-a-43ebb387-9be7-4892-9267-b188139b1c7f#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/wirtschaft/naturkatastrophen-richten-131-milliarden-dollar-schaden-an](https://www.spiegel.de/wirtschaft/naturkatastrophen-richten-131-milliarden-dollar-schaden-an-a-993e24da-c257-4881-8abe-a9304b77a021#ref=rss)
+* [https://www.spiegel.de/netzwelt/niedersaechsische-ermittler-stoppen-erpresser-software-nach-fast-200-geschaedigten](https://www.spiegel.de/netzwelt/niedersaechsische-ermittler-stoppen-erpresser-software-nach-fast-200-geschaedigten-a-577a1528-2261-4cce-9b06-d71093ee787e#ref=rss)
+### schaden
+
+* [https://www.spiegel.de/wirtschaft/naturkatastrophen-richten-131-milliarden-dollar-schaden-an](https://www.spiegel.de/wirtschaft/naturkatastrophen-richten-131-milliarden-dollar-schaden-an-a-993e24da-c257-4881-8abe-a9304b77a021#ref=rss)
+* [https://www.spiegel.de/netzwelt/niedersaechsische-ermittler-stoppen-erpresser-software-nach-fast-200-geschaedigten](https://www.spiegel.de/netzwelt/niedersaechsische-ermittler-stoppen-erpresser-software-nach-fast-200-geschaedigten-a-577a1528-2261-4cce-9b06-d71093ee787e#ref=rss)
+### niedersachsen
+
+* [https://www.spiegel.de/netzwelt/niedersaechsische-ermittler-stoppen-erpresser-software-nach-fast-200-geschaedigten](https://www.spiegel.de/netzwelt/niedersaechsische-ermittler-stoppen-erpresser-software-nach-fast-200-geschaedigten-a-577a1528-2261-4cce-9b06-d71093ee787e#ref=rss)
+### saskia
+
+* [https://www.spiegel.de/panorama/bildung/universitaet-potsdam-sieht-anfangsverdacht-bei-doktorarbeit-von-saskia-ludwig](https://www.spiegel.de/panorama/bildung/universitaet-potsdam-sieht-anfangsverdacht-bei-doktorarbeit-von-saskia-ludwig-a-cfd8664a-4a1d-45a2-947b-af6dd3f62161#ref=rss)
+### ludwig
+
+* [https://www.spiegel.de/panorama/bildung/universitaet-potsdam-sieht-anfangsverdacht-bei-doktorarbeit-von-saskia-ludwig](https://www.spiegel.de/panorama/bildung/universitaet-potsdam-sieht-anfangsverdacht-bei-doktorarbeit-von-saskia-ludwig-a-cfd8664a-4a1d-45a2-947b-af6dd3f62161#ref=rss)
+### universität
+
+* [https://www.spiegel.de/panorama/bildung/universitaet-potsdam-sieht-anfangsverdacht-bei-doktorarbeit-von-saskia-ludwig](https://www.spiegel.de/panorama/bildung/universitaet-potsdam-sieht-anfangsverdacht-bei-doktorarbeit-von-saskia-ludwig-a-cfd8664a-4a1d-45a2-947b-af6dd3f62161#ref=rss)
+### potsdam
+
+* [https://www.spiegel.de/panorama/bildung/universitaet-potsdam-sieht-anfangsverdacht-bei-doktorarbeit-von-saskia-ludwig](https://www.spiegel.de/panorama/bildung/universitaet-potsdam-sieht-anfangsverdacht-bei-doktorarbeit-von-saskia-ludwig-a-cfd8664a-4a1d-45a2-947b-af6dd3f62161#ref=rss)
+### anfangsverdacht
+
+* [https://www.spiegel.de/panorama/bildung/universitaet-potsdam-sieht-anfangsverdacht-bei-doktorarbeit-von-saskia-ludwig](https://www.spiegel.de/panorama/bildung/universitaet-potsdam-sieht-anfangsverdacht-bei-doktorarbeit-von-saskia-ludwig-a-cfd8664a-4a1d-45a2-947b-af6dd3f62161#ref=rss)
+### weltweite
+
+* [https://www.spiegel.de/ausland/uno-bericht-weltweite-zahl-der-hungernden-leicht-gesunken](https://www.spiegel.de/ausland/uno-bericht-weltweite-zahl-der-hungernden-leicht-gesunken-a-336a77e9-16e6-4993-9749-1e6652a1dcf9#ref=rss)
+### hunger
+
+* [https://www.spiegel.de/ausland/uno-bericht-weltweite-zahl-der-hungernden-leicht-gesunken](https://www.spiegel.de/ausland/uno-bericht-weltweite-zahl-der-hungernden-leicht-gesunken-a-336a77e9-16e6-4993-9749-1e6652a1dcf9#ref=rss)
+### salzpfad
+
+* [https://www.spiegel.de/reise/europa/salzpfad-in-england-ich-bin-fuenfmal-am-south-west-coast-path-gewandert-meine-highlights](https://www.spiegel.de/reise/europa/salzpfad-in-england-ich-bin-fuenfmal-am-south-west-coast-path-gewandert-meine-highlights-a-56b51297-6cc5-4c1f-8125-11e510405cfe#ref=rss)
+### coast
+
+* [https://www.spiegel.de/reise/europa/salzpfad-in-england-ich-bin-fuenfmal-am-south-west-coast-path-gewandert-meine-highlights](https://www.spiegel.de/reise/europa/salzpfad-in-england-ich-bin-fuenfmal-am-south-west-coast-path-gewandert-meine-highlights-a-56b51297-6cc5-4c1f-8125-11e510405cfe#ref=rss)
+### beyoncé
+
+* [https://www.spiegel.de/kultur/musik/beyonce-cowboy-carter-tour-ist-nun-die-umsatzstaerkste-country-tour-aller-zeiten](https://www.spiegel.de/kultur/musik/beyonce-cowboy-carter-tour-ist-nun-die-umsatzstaerkste-country-tour-aller-zeiten-a-b4d473ee-a36e-4f0a-affe-f99eac1e3449#ref=rss)
+### cowboy
+
+* [https://www.spiegel.de/kultur/musik/beyonce-cowboy-carter-tour-ist-nun-die-umsatzstaerkste-country-tour-aller-zeiten](https://www.spiegel.de/kultur/musik/beyonce-cowboy-carter-tour-ist-nun-die-umsatzstaerkste-country-tour-aller-zeiten-a-b4d473ee-a36e-4f0a-affe-f99eac1e3449#ref=rss)
 
