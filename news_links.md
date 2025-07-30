@@ -6,385 +6,318 @@ tags: __no_header__
 
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/reiche-fordert-schnelleren-ausbau-der-infrastruktur](https://www.spiegel.de/wirtschaft/reiche-fordert-schnelleren-ausbau-der-infrastruktur-a-db1cdc2b-65b8-4139-a2b1-add9d9d699c1#ref=rss)
-* [https://www.spiegel.de/auto/deutschland-verkehrsministerium-macht-weg-frei-fuer-ferngesteuerte-autos](https://www.spiegel.de/auto/deutschland-verkehrsministerium-macht-weg-frei-fuer-ferngesteuerte-autos-a-962d3af6-f23d-47ce-8b2d-9676ffe2f1a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iwf-rechnet-2025-mit-mini-wachstum-in-deutschland](https://www.spiegel.de/wirtschaft/iwf-rechnet-2025-mit-mini-wachstum-in-deutschland-a-73a9b069-30e7-41b6-8db8-3e8dd10a9f06#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/washington-us-regierung-will-einschaetzung-zu-gefahren-von-treibhausgasen-streichen](https://www.spiegel.de/ausland/washington-us-regierung-will-einschaetzung-zu-gefahren-von-treibhausgasen-streichen-a-360303fc-27b1-4ffc-b69d-37d51d62da74#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-ihr-verzicht-auf-eine-kandidatur-ist-kein-verlust-kommentar](https://www.spiegel.de/politik/deutschland/jette-nietzard-ihr-verzicht-auf-eine-kandidatur-ist-kein-verlust-kommentar-a-54b822ab-3fcb-4680-b649-b380dacdf1f0#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/nintendo-sind-mario-und-prinzessin-peach-gar-kein-paar](https://www.spiegel.de/netzwelt/games/nintendo-sind-mario-und-prinzessin-peach-gar-kein-paar-a-abac1d8f-eb8e-4499-93ba-bbaa65c1b2d6#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wissenschaft/natur/schwarzes-meer-wie-ist-die-lage-in-russland-gut-ein-halbes-jahr-nach-der-oelkatastrophe](https://www.spiegel.de/wissenschaft/natur/schwarzes-meer-wie-ist-die-lage-in-russland-gut-ein-halbes-jahr-nach-der-oelkatastrophe-a-5e62c013-966c-4f57-a8d8-a4512bbd98f2#ref=rss)
-* [https://www.spiegel.de/panorama/solingen-mann-soll-kaengurus-in-tierpark-gekoepft-haben](https://www.spiegel.de/panorama/solingen-mann-soll-kaengurus-in-tierpark-gekoepft-haben-a-e16fda4b-52d9-407f-8250-067441aa85df#ref=rss)
-* [https://www.spiegel.de/panorama/riedlingen-kinder-unter-den-verletzen-des-zugungluecks](https://www.spiegel.de/panorama/riedlingen-kinder-unter-den-verletzen-des-zugungluecks-a-bdff2103-8c01-4cef-9b21-258b06142091#ref=rss)
-* [https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto](https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto-a-2a160d5d-63ce-4c43-b8ca-f9bbf647ddc7#ref=rss)
-### schlangen
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### schildkröten
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### lage
-
-* [https://www.spiegel.de/panorama/sachsen-insassen-des-abgestuerzten-bundeswehr-hubschraubers-tot-geborgen](https://www.spiegel.de/panorama/sachsen-insassen-des-abgestuerzten-bundeswehr-hubschraubers-tot-geborgen-a-ea13dbb5-4b1f-481f-99e9-bdd0991a7cb8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schwarzes-meer-wie-ist-die-lage-in-russland-gut-ein-halbes-jahr-nach-der-oelkatastrophe](https://www.spiegel.de/wissenschaft/natur/schwarzes-meer-wie-ist-die-lage-in-russland-gut-ein-halbes-jahr-nach-der-oelkatastrophe-a-5e62c013-966c-4f57-a8d8-a4512bbd98f2#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-stellt-anerkennung-von-palaestinenserstaat-in-aussicht](https://www.spiegel.de/ausland/grossbritannien-stellt-anerkennung-von-palaestinenserstaat-in-aussicht-a-cdf6dda4-2d70-481d-8808-50a50fa823d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-ueberwachungsfirma-palantir-jette-nietzard-frau-als-hauptverdienerin](https://www.spiegel.de/politik/deutschland/news-des-tages-us-ueberwachungsfirma-palantir-jette-nietzard-frau-als-hauptverdienerin-a-c2545b9b-e493-46e4-a49a-38dfea618dd4#ref=rss)
-### jette
-
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-ihr-verzicht-auf-eine-kandidatur-ist-kein-verlust-kommentar](https://www.spiegel.de/politik/deutschland/jette-nietzard-ihr-verzicht-auf-eine-kandidatur-ist-kein-verlust-kommentar-a-54b822ab-3fcb-4680-b649-b380dacdf1f0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-ueberwachungsfirma-palantir-jette-nietzard-frau-als-hauptverdienerin](https://www.spiegel.de/politik/deutschland/news-des-tages-us-ueberwachungsfirma-palantir-jette-nietzard-frau-als-hauptverdienerin-a-c2545b9b-e493-46e4-a49a-38dfea618dd4#ref=rss)
-### nietzard
-
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-ihr-verzicht-auf-eine-kandidatur-ist-kein-verlust-kommentar](https://www.spiegel.de/politik/deutschland/jette-nietzard-ihr-verzicht-auf-eine-kandidatur-ist-kein-verlust-kommentar-a-54b822ab-3fcb-4680-b649-b380dacdf1f0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-ueberwachungsfirma-palantir-jette-nietzard-frau-als-hauptverdienerin](https://www.spiegel.de/politik/deutschland/news-des-tages-us-ueberwachungsfirma-palantir-jette-nietzard-frau-als-hauptverdienerin-a-c2545b9b-e493-46e4-a49a-38dfea618dd4#ref=rss)
-### verantwortlich
-
-* [https://www.spiegel.de/wirtschaft/reiche-fordert-schnelleren-ausbau-der-infrastruktur](https://www.spiegel.de/wirtschaft/reiche-fordert-schnelleren-ausbau-der-infrastruktur-a-db1cdc2b-65b8-4139-a2b1-add9d9d699c1#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-krieg-die-palaestinenser-hungern-und-israel-startet-eine-propagandaoffensive](https://www.spiegel.de/ausland/gaza-krieg-die-palaestinenser-hungern-und-israel-startet-eine-propagandaoffensive-a-8d5eb96a-0f80-4ef1-9f27-0a4cb5a60b8e#ref=rss)
-* [https://www.spiegel.de/panorama/solingen-mann-soll-kaengurus-in-tierpark-gekoepft-haben](https://www.spiegel.de/panorama/solingen-mann-soll-kaengurus-in-tierpark-gekoepft-haben-a-e16fda4b-52d9-407f-8250-067441aa85df#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/gaza-krieg-die-palaestinenser-hungern-und-israel-startet-eine-propagandaoffensive](https://www.spiegel.de/ausland/gaza-krieg-die-palaestinenser-hungern-und-israel-startet-eine-propagandaoffensive-a-8d5eb96a-0f80-4ef1-9f27-0a4cb5a60b8e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-stellt-anerkennung-von-palaestinenserstaat-in-aussicht](https://www.spiegel.de/ausland/grossbritannien-stellt-anerkennung-von-palaestinenserstaat-in-aussicht-a-cdf6dda4-2d70-481d-8808-50a50fa823d2#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-* [https://www.spiegel.de/sport/schwimm-wm-anna-elendt-gewinnt-sensationell-gold](https://www.spiegel.de/sport/schwimm-wm-anna-elendt-gewinnt-sensationell-gold-a-3da34677-3ba3-400f-9ce0-adc57bb5f7a4#ref=rss)
-### blick
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-* [https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet](https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet-a-3bcceab1-46cc-40df-9c86-50d428b2a38f#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-attentaeter-schrieb-briefe-an-opfer-aus-untersuchungshaft](https://www.spiegel.de/panorama/justiz/magdeburg-attentaeter-schrieb-briefe-an-opfer-aus-untersuchungshaft-a-72797bac-8b3a-4ae8-84d3-5e68195ae99e#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/berlin-kugelbomben-an-silvester-polizei-durchsucht-wohnungen](https://www.spiegel.de/panorama/berlin-kugelbomben-an-silvester-polizei-durchsucht-wohnungen-a-cf81bd9c-5714-42ef-9945-5fc61c43c5ea#ref=rss)
-* [https://www.spiegel.de/panorama/riedlingen-kinder-unter-den-verletzen-des-zugungluecks](https://www.spiegel.de/panorama/riedlingen-kinder-unter-den-verletzen-des-zugungluecks-a-bdff2103-8c01-4cef-9b21-258b06142091#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/solingen-mann-soll-kaengurus-in-tierpark-gekoepft-haben](https://www.spiegel.de/panorama/solingen-mann-soll-kaengurus-in-tierpark-gekoepft-haben-a-e16fda4b-52d9-407f-8250-067441aa85df#ref=rss)
-* [https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet](https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet-a-3bcceab1-46cc-40df-9c86-50d428b2a38f#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/riedlingen-kinder-unter-den-verletzen-des-zugungluecks](https://www.spiegel.de/panorama/riedlingen-kinder-unter-den-verletzen-des-zugungluecks-a-bdff2103-8c01-4cef-9b21-258b06142091#ref=rss)
-* [https://www.spiegel.de/sport/schwimm-wm-12-jahre-alte-yu-zidi-deutscher-schwimmchef-nennt-wm-auftritt-bedenklich](https://www.spiegel.de/sport/schwimm-wm-12-jahre-alte-yu-zidi-deutscher-schwimmchef-nennt-wm-auftritt-bedenklich-a-a2dc2c6f-dbe7-414b-a6ee-5ee85abef5e4#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/riedlingen-kinder-unter-den-verletzen-des-zugungluecks](https://www.spiegel.de/panorama/riedlingen-kinder-unter-den-verletzen-des-zugungluecks-a-bdff2103-8c01-4cef-9b21-258b06142091#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iwf-rechnet-2025-mit-mini-wachstum-in-deutschland](https://www.spiegel.de/wirtschaft/iwf-rechnet-2025-mit-mini-wachstum-in-deutschland-a-73a9b069-30e7-41b6-8db8-3e8dd10a9f06#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-ihr-verzicht-auf-eine-kandidatur-ist-kein-verlust-kommentar](https://www.spiegel.de/politik/deutschland/jette-nietzard-ihr-verzicht-auf-eine-kandidatur-ist-kein-verlust-kommentar-a-54b822ab-3fcb-4680-b649-b380dacdf1f0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-ueberwachungsfirma-palantir-jette-nietzard-frau-als-hauptverdienerin](https://www.spiegel.de/politik/deutschland/news-des-tages-us-ueberwachungsfirma-palantir-jette-nietzard-frau-als-hauptverdienerin-a-c2545b9b-e493-46e4-a49a-38dfea618dd4#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-ueberwachungsfirma-palantir-jette-nietzard-frau-als-hauptverdienerin](https://www.spiegel.de/politik/deutschland/news-des-tages-us-ueberwachungsfirma-palantir-jette-nietzard-frau-als-hauptverdienerin-a-c2545b9b-e493-46e4-a49a-38dfea618dd4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gehaelter-von-dax-vorstaenden-steigen-weiter](https://www.spiegel.de/wirtschaft/gehaelter-von-dax-vorstaenden-steigen-weiter-a-797530c1-7eec-4f66-9a31-9cc6072c9ea0#ref=rss)
-### cruise
-
-* [https://www.spiegel.de/kultur/kino/tom-cruise-besucht-oasis-konzert-obwohl-er-einst-von-den-gallaghers-beleidigt-wurde](https://www.spiegel.de/kultur/kino/tom-cruise-besucht-oasis-konzert-obwohl-er-einst-von-den-gallaghers-beleidigt-wurde-a-b2e6308b-9898-42f4-999e-b83ea2207b2d#ref=rss)
-### schwimmwm
-
-* [https://www.spiegel.de/sport/schwimm-wm-12-jahre-alte-yu-zidi-deutscher-schwimmchef-nennt-wm-auftritt-bedenklich](https://www.spiegel.de/sport/schwimm-wm-12-jahre-alte-yu-zidi-deutscher-schwimmchef-nennt-wm-auftritt-bedenklich-a-a2dc2c6f-dbe7-414b-a6ee-5ee85abef5e4#ref=rss)
-* [https://www.spiegel.de/sport/schwimm-wm-anna-elendt-gewinnt-sensationell-gold](https://www.spiegel.de/sport/schwimm-wm-anna-elendt-gewinnt-sensationell-gold-a-3da34677-3ba3-400f-9ce0-adc57bb5f7a4#ref=rss)
-### familie
-
-* [https://www.spiegel.de/panorama/gesellschaft/abschiebung-in-den-irak-jesidische-familie-wird-nicht-zurueckgeholt](https://www.spiegel.de/panorama/gesellschaft/abschiebung-in-den-irak-jesidische-familie-wird-nicht-zurueckgeholt-a-41ff3a28-7498-4211-a337-bf7be8e55886#ref=rss)
-### reiche
-
-* [https://www.spiegel.de/wirtschaft/reiche-fordert-schnelleren-ausbau-der-infrastruktur](https://www.spiegel.de/wirtschaft/reiche-fordert-schnelleren-ausbau-der-infrastruktur-a-db1cdc2b-65b8-4139-a2b1-add9d9d699c1#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/wirtschaft/reiche-fordert-schnelleren-ausbau-der-infrastruktur](https://www.spiegel.de/wirtschaft/reiche-fordert-schnelleren-ausbau-der-infrastruktur-a-db1cdc2b-65b8-4139-a2b1-add9d9d699c1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-attentaeter-schrieb-briefe-an-opfer-aus-untersuchungshaft](https://www.spiegel.de/panorama/justiz/magdeburg-attentaeter-schrieb-briefe-an-opfer-aus-untersuchungshaft-a-72797bac-8b3a-4ae8-84d3-5e68195ae99e#ref=rss)
-### ausbau
-
-* [https://www.spiegel.de/wirtschaft/reiche-fordert-schnelleren-ausbau-der-infrastruktur](https://www.spiegel.de/wirtschaft/reiche-fordert-schnelleren-ausbau-der-infrastruktur-a-db1cdc2b-65b8-4139-a2b1-add9d9d699c1#ref=rss)
-### infrastruktur
-
-* [https://www.spiegel.de/wirtschaft/reiche-fordert-schnelleren-ausbau-der-infrastruktur](https://www.spiegel.de/wirtschaft/reiche-fordert-schnelleren-ausbau-der-infrastruktur-a-db1cdc2b-65b8-4139-a2b1-add9d9d699c1#ref=rss)
-### einschätzung
-
-* [https://www.spiegel.de/ausland/washington-us-regierung-will-einschaetzung-zu-gefahren-von-treibhausgasen-streichen](https://www.spiegel.de/ausland/washington-us-regierung-will-einschaetzung-zu-gefahren-von-treibhausgasen-streichen-a-360303fc-27b1-4ffc-b69d-37d51d62da74#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iwf-rechnet-2025-mit-mini-wachstum-in-deutschland](https://www.spiegel.de/wirtschaft/iwf-rechnet-2025-mit-mini-wachstum-in-deutschland-a-73a9b069-30e7-41b6-8db8-3e8dd10a9f06#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/washington-us-regierung-will-einschaetzung-zu-gefahren-von-treibhausgasen-streichen](https://www.spiegel.de/ausland/washington-us-regierung-will-einschaetzung-zu-gefahren-von-treibhausgasen-streichen-a-360303fc-27b1-4ffc-b69d-37d51d62da74#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iwf-rechnet-2025-mit-mini-wachstum-in-deutschland](https://www.spiegel.de/wirtschaft/iwf-rechnet-2025-mit-mini-wachstum-in-deutschland-a-73a9b069-30e7-41b6-8db8-3e8dd10a9f06#ref=rss)
-### ändern
-
-* [https://www.spiegel.de/ausland/washington-us-regierung-will-einschaetzung-zu-gefahren-von-treibhausgasen-streichen](https://www.spiegel.de/ausland/washington-us-regierung-will-einschaetzung-zu-gefahren-von-treibhausgasen-streichen-a-360303fc-27b1-4ffc-b69d-37d51d62da74#ref=rss)
-* [https://www.spiegel.de/auto/deutschland-verkehrsministerium-macht-weg-frei-fuer-ferngesteuerte-autos](https://www.spiegel.de/auto/deutschland-verkehrsministerium-macht-weg-frei-fuer-ferngesteuerte-autos-a-962d3af6-f23d-47ce-8b2d-9676ffe2f1a0#ref=rss)
-### palästinenser
-
-* [https://www.spiegel.de/ausland/gaza-krieg-die-palaestinenser-hungern-und-israel-startet-eine-propagandaoffensive](https://www.spiegel.de/ausland/gaza-krieg-die-palaestinenser-hungern-und-israel-startet-eine-propagandaoffensive-a-8d5eb96a-0f80-4ef1-9f27-0a4cb5a60b8e#ref=rss)
-* [https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet](https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet-a-3bcceab1-46cc-40df-9c86-50d428b2a38f#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/ausland/gaza-krieg-die-palaestinenser-hungern-und-israel-startet-eine-propagandaoffensive](https://www.spiegel.de/ausland/gaza-krieg-die-palaestinenser-hungern-und-israel-startet-eine-propagandaoffensive-a-8d5eb96a-0f80-4ef1-9f27-0a4cb5a60b8e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-stellt-anerkennung-von-palaestinenserstaat-in-aussicht](https://www.spiegel.de/ausland/grossbritannien-stellt-anerkennung-von-palaestinenserstaat-in-aussicht-a-cdf6dda4-2d70-481d-8808-50a50fa823d2#ref=rss)
-### sugar
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### glider
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### haustiere
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### erlaubt
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### probleme
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### halten
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### hause
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### kurzkopfgleitbeutler
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### auffangstationen
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### problematisch
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### haltung
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### spiegelredakteurin
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### julia
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### koch
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### berichtet
-
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-a-66beae4a-1866-4466-af46-7a711d3e7ad5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast](https://www.spiegel.de/wissenschaft/natur/schlangen-schildkroeten-sugar-glider-sind-diese-haustiere-erlaubt-und-welche-probleme-gibt-es-podcast-a-cee3a2bc-6227-4e96-af7a-5623394e4b3f#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/berlin-kugelbomben-an-silvester-polizei-durchsucht-wohnungen](https://www.spiegel.de/panorama/berlin-kugelbomben-an-silvester-polizei-durchsucht-wohnungen-a-cf81bd9c-5714-42ef-9945-5fc61c43c5ea#ref=rss)
-### kugelbomben
-
-* [https://www.spiegel.de/panorama/berlin-kugelbomben-an-silvester-polizei-durchsucht-wohnungen](https://www.spiegel.de/panorama/berlin-kugelbomben-an-silvester-polizei-durchsucht-wohnungen-a-cf81bd9c-5714-42ef-9945-5fc61c43c5ea#ref=rss)
-### wohnungen
-
-* [https://www.spiegel.de/panorama/berlin-kugelbomben-an-silvester-polizei-durchsucht-wohnungen](https://www.spiegel.de/panorama/berlin-kugelbomben-an-silvester-polizei-durchsucht-wohnungen-a-cf81bd9c-5714-42ef-9945-5fc61c43c5ea#ref=rss)
-### autos
-
-* [https://www.spiegel.de/panorama/berlin-kugelbomben-an-silvester-polizei-durchsucht-wohnungen](https://www.spiegel.de/panorama/berlin-kugelbomben-an-silvester-polizei-durchsucht-wohnungen-a-cf81bd9c-5714-42ef-9945-5fc61c43c5ea#ref=rss)
-* [https://www.spiegel.de/auto/deutschland-verkehrsministerium-macht-weg-frei-fuer-ferngesteuerte-autos](https://www.spiegel.de/auto/deutschland-verkehrsministerium-macht-weg-frei-fuer-ferngesteuerte-autos-a-962d3af6-f23d-47ce-8b2d-9676ffe2f1a0#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/berlin-kugelbomben-an-silvester-polizei-durchsucht-wohnungen](https://www.spiegel.de/panorama/berlin-kugelbomben-an-silvester-polizei-durchsucht-wohnungen-a-cf81bd9c-5714-42ef-9945-5fc61c43c5ea#ref=rss)
-* [https://www.spiegel.de/panorama/sachsen-insassen-des-abgestuerzten-bundeswehr-hubschraubers-tot-geborgen](https://www.spiegel.de/panorama/sachsen-insassen-des-abgestuerzten-bundeswehr-hubschraubers-tot-geborgen-a-ea13dbb5-4b1f-481f-99e9-bdd0991a7cb8#ref=rss)
-### opfer
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-attentaeter-schrieb-briefe-an-opfer-aus-untersuchungshaft](https://www.spiegel.de/panorama/justiz/magdeburg-attentaeter-schrieb-briefe-an-opfer-aus-untersuchungshaft-a-72797bac-8b3a-4ae8-84d3-5e68195ae99e#ref=rss)
-### untersuchungshaft
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-attentaeter-schrieb-briefe-an-opfer-aus-untersuchungshaft](https://www.spiegel.de/panorama/justiz/magdeburg-attentaeter-schrieb-briefe-an-opfer-aus-untersuchungshaft-a-72797bac-8b3a-4ae8-84d3-5e68195ae99e#ref=rss)
-### geborgen
-
-* [https://www.spiegel.de/panorama/sachsen-insassen-des-abgestuerzten-bundeswehr-hubschraubers-tot-geborgen](https://www.spiegel.de/panorama/sachsen-insassen-des-abgestuerzten-bundeswehr-hubschraubers-tot-geborgen-a-ea13dbb5-4b1f-481f-99e9-bdd0991a7cb8#ref=rss)
-* [https://www.spiegel.de/panorama/riedlingen-kinder-unter-den-verletzen-des-zugungluecks](https://www.spiegel.de/panorama/riedlingen-kinder-unter-den-verletzen-des-zugungluecks-a-bdff2103-8c01-4cef-9b21-258b06142091#ref=rss)
-### kamen
-
-* [https://www.spiegel.de/panorama/sachsen-insassen-des-abgestuerzten-bundeswehr-hubschraubers-tot-geborgen](https://www.spiegel.de/panorama/sachsen-insassen-des-abgestuerzten-bundeswehr-hubschraubers-tot-geborgen-a-ea13dbb5-4b1f-481f-99e9-bdd0991a7cb8#ref=rss)
-* [https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto](https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto-a-2a160d5d-63ce-4c43-b8ca-f9bbf647ddc7#ref=rss)
-### ums
-
-* [https://www.spiegel.de/panorama/sachsen-insassen-des-abgestuerzten-bundeswehr-hubschraubers-tot-geborgen](https://www.spiegel.de/panorama/sachsen-insassen-des-abgestuerzten-bundeswehr-hubschraubers-tot-geborgen-a-ea13dbb5-4b1f-481f-99e9-bdd0991a7cb8#ref=rss)
-* [https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto](https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto-a-2a160d5d-63ce-4c43-b8ca-f9bbf647ddc7#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/sachsen-insassen-des-abgestuerzten-bundeswehr-hubschraubers-tot-geborgen](https://www.spiegel.de/panorama/sachsen-insassen-des-abgestuerzten-bundeswehr-hubschraubers-tot-geborgen-a-ea13dbb5-4b1f-481f-99e9-bdd0991a7cb8#ref=rss)
-* [https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto](https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto-a-2a160d5d-63ce-4c43-b8ca-f9bbf647ddc7#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/ausland/oesterreich-ein-eklat-in-salzburg-und-neuer-antisemitismus](https://www.spiegel.de/ausland/oesterreich-ein-eklat-in-salzburg-und-neuer-antisemitismus-a-2640ee73-35e3-46b4-9941-ea6265e0a179#ref=rss)
-### eklat
-
-* [https://www.spiegel.de/ausland/oesterreich-ein-eklat-in-salzburg-und-neuer-antisemitismus](https://www.spiegel.de/ausland/oesterreich-ein-eklat-in-salzburg-und-neuer-antisemitismus-a-2640ee73-35e3-46b4-9941-ea6265e0a179#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/ausland/grossbritannien-stellt-anerkennung-von-palaestinenserstaat-in-aussicht](https://www.spiegel.de/ausland/grossbritannien-stellt-anerkennung-von-palaestinenserstaat-in-aussicht-a-cdf6dda4-2d70-481d-8808-50a50fa823d2#ref=rss)
-### solingen
-
-* [https://www.spiegel.de/panorama/solingen-mann-soll-kaengurus-in-tierpark-gekoepft-haben](https://www.spiegel.de/panorama/solingen-mann-soll-kaengurus-in-tierpark-gekoepft-haben-a-e16fda4b-52d9-407f-8250-067441aa85df#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/solingen-mann-soll-kaengurus-in-tierpark-gekoepft-haben](https://www.spiegel.de/panorama/solingen-mann-soll-kaengurus-in-tierpark-gekoepft-haben-a-e16fda4b-52d9-407f-8250-067441aa85df#ref=rss)
-### kängurus
-
-* [https://www.spiegel.de/panorama/solingen-mann-soll-kaengurus-in-tierpark-gekoepft-haben](https://www.spiegel.de/panorama/solingen-mann-soll-kaengurus-in-tierpark-gekoepft-haben-a-e16fda4b-52d9-407f-8250-067441aa85df#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/panorama/solingen-mann-soll-kaengurus-in-tierpark-gekoepft-haben](https://www.spiegel.de/panorama/solingen-mann-soll-kaengurus-in-tierpark-gekoepft-haben-a-e16fda4b-52d9-407f-8250-067441aa85df#ref=rss)
-* [https://www.spiegel.de/auto/deutschland-verkehrsministerium-macht-weg-frei-fuer-ferngesteuerte-autos](https://www.spiegel.de/auto/deutschland-verkehrsministerium-macht-weg-frei-fuer-ferngesteuerte-autos-a-962d3af6-f23d-47ce-8b2d-9676ffe2f1a0#ref=rss)
-### odeh
-
-* [https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet](https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet-a-3bcceab1-46cc-40df-9c86-50d428b2a38f#ref=rss)
-### hadalin
-
-* [https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet](https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet-a-3bcceab1-46cc-40df-9c86-50d428b2a38f#ref=rss)
-### no
-
-* [https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet](https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet-a-3bcceab1-46cc-40df-9c86-50d428b2a38f#ref=rss)
-### other
-
-* [https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet](https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet-a-3bcceab1-46cc-40df-9c86-50d428b2a38f#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet](https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet-a-3bcceab1-46cc-40df-9c86-50d428b2a38f#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet](https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet-a-3bcceab1-46cc-40df-9c86-50d428b2a38f#ref=rss)
-### film
-
-* [https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet](https://www.spiegel.de/ausland/odeh-hadalin-an-no-other-land-beteiligter-palaestinenser-offenbar-getoetet-a-3bcceab1-46cc-40df-9c86-50d428b2a38f#ref=rss)
-* [https://www.spiegel.de/kultur/kino/tom-cruise-besucht-oasis-konzert-obwohl-er-einst-von-den-gallaghers-beleidigt-wurde](https://www.spiegel.de/kultur/kino/tom-cruise-besucht-oasis-konzert-obwohl-er-einst-von-den-gallaghers-beleidigt-wurde-a-b2e6308b-9898-42f4-999e-b83ea2207b2d#ref=rss)
-### bergunfall
-
-* [https://www.spiegel.de/panorama/was-wir-ueber-den-bergunfall-von-laura-dahlmeier-wissen](https://www.spiegel.de/panorama/was-wir-ueber-den-bergunfall-von-laura-dahlmeier-wissen-a-7655e4cf-ff29-4774-8af0-428247f3d635#ref=rss)
-### laura
-
-* [https://www.spiegel.de/panorama/was-wir-ueber-den-bergunfall-von-laura-dahlmeier-wissen](https://www.spiegel.de/panorama/was-wir-ueber-den-bergunfall-von-laura-dahlmeier-wissen-a-7655e4cf-ff29-4774-8af0-428247f3d635#ref=rss)
-### dahlmeier
-
-* [https://www.spiegel.de/panorama/was-wir-ueber-den-bergunfall-von-laura-dahlmeier-wissen](https://www.spiegel.de/panorama/was-wir-ueber-den-bergunfall-von-laura-dahlmeier-wissen-a-7655e4cf-ff29-4774-8af0-428247f3d635#ref=rss)
-### darunter
-
-* [https://www.spiegel.de/wissenschaft/bremen-papierkorb-im-finanzministerium-doch-keine-beute-von-nazis](https://www.spiegel.de/wissenschaft/bremen-papierkorb-im-finanzministerium-doch-keine-beute-von-nazis-a-c5b5a31d-c00a-4a42-b299-4a1cb642a13e#ref=rss)
-* [https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto](https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto-a-2a160d5d-63ce-4c43-b8ca-f9bbf647ddc7#ref=rss)
-### leicht
-
-* [https://www.spiegel.de/panorama/riedlingen-kinder-unter-den-verletzen-des-zugungluecks](https://www.spiegel.de/panorama/riedlingen-kinder-unter-den-verletzen-des-zugungluecks-a-bdff2103-8c01-4cef-9b21-258b06142091#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iwf-rechnet-2025-mit-mini-wachstum-in-deutschland](https://www.spiegel.de/wirtschaft/iwf-rechnet-2025-mit-mini-wachstum-in-deutschland-a-73a9b069-30e7-41b6-8db8-3e8dd10a9f06#ref=rss)
-### korrigiert
-
-* [https://www.spiegel.de/panorama/riedlingen-kinder-unter-den-verletzen-des-zugungluecks](https://www.spiegel.de/panorama/riedlingen-kinder-unter-den-verletzen-des-zugungluecks-a-bdff2103-8c01-4cef-9b21-258b06142091#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iwf-rechnet-2025-mit-mini-wachstum-in-deutschland](https://www.spiegel.de/wirtschaft/iwf-rechnet-2025-mit-mini-wachstum-in-deutschland-a-73a9b069-30e7-41b6-8db8-3e8dd10a9f06#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/riedlingen-kinder-unter-den-verletzen-des-zugungluecks](https://www.spiegel.de/panorama/riedlingen-kinder-unter-den-verletzen-des-zugungluecks-a-bdff2103-8c01-4cef-9b21-258b06142091#ref=rss)
-* [https://www.spiegel.de/sport/schwimm-wm-12-jahre-alte-yu-zidi-deutscher-schwimmchef-nennt-wm-auftritt-bedenklich](https://www.spiegel.de/sport/schwimm-wm-12-jahre-alte-yu-zidi-deutscher-schwimmchef-nennt-wm-auftritt-bedenklich-a-a2dc2c6f-dbe7-414b-a6ee-5ee85abef5e4#ref=rss)
-### jugend
-
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-ihr-verzicht-auf-eine-kandidatur-ist-kein-verlust-kommentar](https://www.spiegel.de/politik/deutschland/jette-nietzard-ihr-verzicht-auf-eine-kandidatur-ist-kein-verlust-kommentar-a-54b822ab-3fcb-4680-b649-b380dacdf1f0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-ueberwachungsfirma-palantir-jette-nietzard-frau-als-hauptverdienerin](https://www.spiegel.de/politik/deutschland/news-des-tages-us-ueberwachungsfirma-palantir-jette-nietzard-frau-als-hauptverdienerin-a-c2545b9b-e493-46e4-a49a-38dfea618dd4#ref=rss)
-### daraus
-
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-ihr-verzicht-auf-eine-kandidatur-ist-kein-verlust-kommentar](https://www.spiegel.de/politik/deutschland/jette-nietzard-ihr-verzicht-auf-eine-kandidatur-ist-kein-verlust-kommentar-a-54b822ab-3fcb-4680-b649-b380dacdf1f0#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/abschiebung-in-den-irak-jesidische-familie-wird-nicht-zurueckgeholt](https://www.spiegel.de/panorama/gesellschaft/abschiebung-in-den-irak-jesidische-familie-wird-nicht-zurueckgeholt-a-41ff3a28-7498-4211-a337-bf7be8e55886#ref=rss)
-### palantir
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-ueberwachungsfirma-palantir-jette-nietzard-frau-als-hauptverdienerin](https://www.spiegel.de/politik/deutschland/news-des-tages-us-ueberwachungsfirma-palantir-jette-nietzard-frau-als-hauptverdienerin-a-c2545b9b-e493-46e4-a49a-38dfea618dd4#ref=rss)
-### nintendo
-
-* [https://www.spiegel.de/netzwelt/games/nintendo-sind-mario-und-prinzessin-peach-gar-kein-paar](https://www.spiegel.de/netzwelt/games/nintendo-sind-mario-und-prinzessin-peach-gar-kein-paar-a-abac1d8f-eb8e-4499-93ba-bbaa65c1b2d6#ref=rss)
-### mario
-
-* [https://www.spiegel.de/netzwelt/games/nintendo-sind-mario-und-prinzessin-peach-gar-kein-paar](https://www.spiegel.de/netzwelt/games/nintendo-sind-mario-und-prinzessin-peach-gar-kein-paar-a-abac1d8f-eb8e-4499-93ba-bbaa65c1b2d6#ref=rss)
-### prinzessin
-
-* [https://www.spiegel.de/netzwelt/games/nintendo-sind-mario-und-prinzessin-peach-gar-kein-paar](https://www.spiegel.de/netzwelt/games/nintendo-sind-mario-und-prinzessin-peach-gar-kein-paar-a-abac1d8f-eb8e-4499-93ba-bbaa65c1b2d6#ref=rss)
-### peach
-
-* [https://www.spiegel.de/netzwelt/games/nintendo-sind-mario-und-prinzessin-peach-gar-kein-paar](https://www.spiegel.de/netzwelt/games/nintendo-sind-mario-und-prinzessin-peach-gar-kein-paar-a-abac1d8f-eb8e-4499-93ba-bbaa65c1b2d6#ref=rss)
-### tom
-
-* [https://www.spiegel.de/kultur/kino/tom-cruise-besucht-oasis-konzert-obwohl-er-einst-von-den-gallaghers-beleidigt-wurde](https://www.spiegel.de/kultur/kino/tom-cruise-besucht-oasis-konzert-obwohl-er-einst-von-den-gallaghers-beleidigt-wurde-a-b2e6308b-9898-42f4-999e-b83ea2207b2d#ref=rss)
-### obwohl
-
-* [https://www.spiegel.de/kultur/kino/tom-cruise-besucht-oasis-konzert-obwohl-er-einst-von-den-gallaghers-beleidigt-wurde](https://www.spiegel.de/kultur/kino/tom-cruise-besucht-oasis-konzert-obwohl-er-einst-von-den-gallaghers-beleidigt-wurde-a-b2e6308b-9898-42f4-999e-b83ea2207b2d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/abschiebung-in-den-irak-jesidische-familie-wird-nicht-zurueckgeholt](https://www.spiegel.de/panorama/gesellschaft/abschiebung-in-den-irak-jesidische-familie-wird-nicht-zurueckgeholt-a-41ff3a28-7498-4211-a337-bf7be8e55886#ref=rss)
-### einst
-
-* [https://www.spiegel.de/kultur/kino/tom-cruise-besucht-oasis-konzert-obwohl-er-einst-von-den-gallaghers-beleidigt-wurde](https://www.spiegel.de/kultur/kino/tom-cruise-besucht-oasis-konzert-obwohl-er-einst-von-den-gallaghers-beleidigt-wurde-a-b2e6308b-9898-42f4-999e-b83ea2207b2d#ref=rss)
-### guten
-
-* [https://www.spiegel.de/kultur/kino/tom-cruise-besucht-oasis-konzert-obwohl-er-einst-von-den-gallaghers-beleidigt-wurde](https://www.spiegel.de/kultur/kino/tom-cruise-besucht-oasis-konzert-obwohl-er-einst-von-den-gallaghers-beleidigt-wurde-a-b2e6308b-9898-42f4-999e-b83ea2207b2d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gehaelter-von-dax-vorstaenden-steigen-weiter](https://www.spiegel.de/wirtschaft/gehaelter-von-dax-vorstaenden-steigen-weiter-a-797530c1-7eec-4f66-9a31-9cc6072c9ea0#ref=rss)
-### steigen
-
-* [https://www.spiegel.de/wirtschaft/gehaelter-von-dax-vorstaenden-steigen-weiter](https://www.spiegel.de/wirtschaft/gehaelter-von-dax-vorstaenden-steigen-weiter-a-797530c1-7eec-4f66-9a31-9cc6072c9ea0#ref=rss)
-### tiergarten
-
-* [https://www.spiegel.de/panorama/nuernberg-tiergarten-toetet-zwoelf-gesunde-paviane](https://www.spiegel.de/panorama/nuernberg-tiergarten-toetet-zwoelf-gesunde-paviane-a-3aeef6c1-cb62-44e8-b173-c2f7dacf9094#ref=rss)
-### zwölf
-
-* [https://www.spiegel.de/panorama/nuernberg-tiergarten-toetet-zwoelf-gesunde-paviane](https://www.spiegel.de/panorama/nuernberg-tiergarten-toetet-zwoelf-gesunde-paviane-a-3aeef6c1-cb62-44e8-b173-c2f7dacf9094#ref=rss)
-* [https://www.spiegel.de/sport/schwimm-wm-12-jahre-alte-yu-zidi-deutscher-schwimmchef-nennt-wm-auftritt-bedenklich](https://www.spiegel.de/sport/schwimm-wm-12-jahre-alte-yu-zidi-deutscher-schwimmchef-nennt-wm-auftritt-bedenklich-a-a2dc2c6f-dbe7-414b-a6ee-5ee85abef5e4#ref=rss)
-### yu
-
-* [https://www.spiegel.de/sport/schwimm-wm-12-jahre-alte-yu-zidi-deutscher-schwimmchef-nennt-wm-auftritt-bedenklich](https://www.spiegel.de/sport/schwimm-wm-12-jahre-alte-yu-zidi-deutscher-schwimmchef-nennt-wm-auftritt-bedenklich-a-a2dc2c6f-dbe7-414b-a6ee-5ee85abef5e4#ref=rss)
-### zidi
-
-* [https://www.spiegel.de/sport/schwimm-wm-12-jahre-alte-yu-zidi-deutscher-schwimmchef-nennt-wm-auftritt-bedenklich](https://www.spiegel.de/sport/schwimm-wm-12-jahre-alte-yu-zidi-deutscher-schwimmchef-nennt-wm-auftritt-bedenklich-a-a2dc2c6f-dbe7-414b-a6ee-5ee85abef5e4#ref=rss)
-### bodensee
-
-* [https://www.spiegel.de/wissenschaft/bodensee-wasserhose-fuer-eine-stunde-zu-sehen](https://www.spiegel.de/wissenschaft/bodensee-wasserhose-fuer-eine-stunde-zu-sehen-a-0ff7db9d-e112-4413-b70e-e94e066afb56#ref=rss)
-### irak
-
-* [https://www.spiegel.de/panorama/gesellschaft/abschiebung-in-den-irak-jesidische-familie-wird-nicht-zurueckgeholt](https://www.spiegel.de/panorama/gesellschaft/abschiebung-in-den-irak-jesidische-familie-wird-nicht-zurueckgeholt-a-41ff3a28-7498-4211-a337-bf7be8e55886#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-hat-ultimatum-von-donald-trump-zur-kenntnis-genommen](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-hat-ultimatum-von-donald-trump-zur-kenntnis-genommen-a-203ef557-6981-43e9-ac48-f701ee56c50d#ref=rss)
+* [https://www.spiegel.de/panorama/hessen-marode-talbruecke-erfolgreich-gesprengt](https://www.spiegel.de/panorama/hessen-marode-talbruecke-erfolgreich-gesprengt-a-63d95463-91b7-4ca2-ae0f-ad8e1a074a03#ref=rss)
+* [https://www.spiegel.de/wissenschaft/wiesbaden-geburtenrate-sinkt-aber-kinderwunsch-bleibt-stabil](https://www.spiegel.de/wissenschaft/wiesbaden-geburtenrate-sinkt-aber-kinderwunsch-bleibt-stabil-a-14cf1872-bb44-4e30-a5e1-c68172277e5b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-schrumpft-im-zweiten-quartal-leicht](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-schrumpft-im-zweiten-quartal-leicht-a-53d5deff-f4c6-4488-9d47-b124fdd6d994#ref=rss)
+* [https://www.spiegel.de/wirtschaft/haushalt-kann-deutschland-1-000-000-000-000-euro-neue-schulden-stemmen](https://www.spiegel.de/wirtschaft/haushalt-kann-deutschland-1-000-000-000-000-euro-neue-schulden-stemmen-a-7436ef6a-9fc6-44ca-90de-480a35b3b8b3#ref=rss)
+* [https://www.spiegel.de/ausland/deutschland-blockiert-eu-sanktionen-gegen-israel](https://www.spiegel.de/ausland/deutschland-blockiert-eu-sanktionen-gegen-israel-a-89445ff8-4357-43a8-97ea-a9961fcf9f41#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-hat-ultimatum-von-donald-trump-zur-kenntnis-genommen](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-hat-ultimatum-von-donald-trump-zur-kenntnis-genommen-a-203ef557-6981-43e9-ac48-f701ee56c50d#ref=rss)
-### bleibt
+* [https://www.spiegel.de/geschichte/die-maga-bewegung-und-die-alten-roemer-die-faszination-der-trump-leute-fuer-den-diktator-caesar](https://www.spiegel.de/geschichte/die-maga-bewegung-und-die-alten-roemer-die-faszination-der-trump-leute-fuer-den-diktator-caesar-a-f5fb313e-abc4-48bf-bda8-705a66538956#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-schrumpft-im-zweiten-quartal-leicht](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-schrumpft-im-zweiten-quartal-leicht-a-53d5deff-f4c6-4488-9d47-b124fdd6d994#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-wie-ein-deutscher-mittelstaendler-mit-der-unsicherheit-umgeht](https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-wie-ein-deutscher-mittelstaendler-mit-der-unsicherheit-umgeht-a-165c224b-3f2c-4c69-886e-80370895b6f4#ref=rss)
+* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-donald-trump-unter-druck-wegen-ausbleibender-aufklaerung](https://www.spiegel.de/ausland/fall-jeffrey-epstein-donald-trump-unter-druck-wegen-ausbleibender-aufklaerung-a-e068ed68-418e-4d01-b40b-0e2620651b24#ref=rss)
+* [https://www.spiegel.de/ausland/deutschland-blockiert-eu-sanktionen-gegen-israel](https://www.spiegel.de/ausland/deutschland-blockiert-eu-sanktionen-gegen-israel-a-89445ff8-4357-43a8-97ea-a9961fcf9f41#ref=rss)
+### union
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-hat-ultimatum-von-donald-trump-zur-kenntnis-genommen](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-hat-ultimatum-von-donald-trump-zur-kenntnis-genommen-a-203ef557-6981-43e9-ac48-f701ee56c50d#ref=rss)
-* [https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto](https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto-a-2a160d5d-63ce-4c43-b8ca-f9bbf647ddc7#ref=rss)
-### bad
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-eisenbahn-union-pacific-plant-uebernahme-von-norfolk-southern](https://www.spiegel.de/wirtschaft/unternehmen/us-eisenbahn-union-pacific-plant-uebernahme-von-norfolk-southern-a-53f92ab5-bbdd-4500-a906-5225420a5b06#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-afrikanische-union-warnt-vor-anerkennung-von-parallelregierung](https://www.spiegel.de/ausland/sudan-afrikanische-union-warnt-vor-anerkennung-von-parallelregierung-a-5da100dd-8ee2-46bd-b339-23b579c6b5c9#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto](https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto-a-2a160d5d-63ce-4c43-b8ca-f9bbf647ddc7#ref=rss)
-### zwischenahn
+* [https://www.spiegel.de/geschichte/die-maga-bewegung-und-die-alten-roemer-die-faszination-der-trump-leute-fuer-den-diktator-caesar](https://www.spiegel.de/geschichte/die-maga-bewegung-und-die-alten-roemer-die-faszination-der-trump-leute-fuer-den-diktator-caesar-a-f5fb313e-abc4-48bf-bda8-705a66538956#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-schrumpft-im-zweiten-quartal-leicht](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-schrumpft-im-zweiten-quartal-leicht-a-53d5deff-f4c6-4488-9d47-b124fdd6d994#ref=rss)
+* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-donald-trump-unter-druck-wegen-ausbleibender-aufklaerung](https://www.spiegel.de/ausland/fall-jeffrey-epstein-donald-trump-unter-druck-wegen-ausbleibender-aufklaerung-a-e068ed68-418e-4d01-b40b-0e2620651b24#ref=rss)
+* [https://www.spiegel.de/ausland/deutschland-blockiert-eu-sanktionen-gegen-israel](https://www.spiegel.de/ausland/deutschland-blockiert-eu-sanktionen-gegen-israel-a-89445ff8-4357-43a8-97ea-a9961fcf9f41#ref=rss)
+### familie
 
-* [https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto](https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto-a-2a160d5d-63ce-4c43-b8ca-f9bbf647ddc7#ref=rss)
-### auto
+* [https://www.spiegel.de/panorama/leute/tom-brady-haelt-sich-fuer-einen-guten-vater-weil-er-sich-auf-seine-nfl-karriere-konzentriert-hat](https://www.spiegel.de/panorama/leute/tom-brady-haelt-sich-fuer-einen-guten-vater-weil-er-sich-auf-seine-nfl-karriere-konzentriert-hat-a-a00b4fea-7665-4193-b29f-ebedbea75d07#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/parchim-in-mecklenburg-vorpommern-vermeintlicher-polizist-soll-familie-mit-abschiebung-gedroht-haben](https://www.spiegel.de/panorama/justiz/parchim-in-mecklenburg-vorpommern-vermeintlicher-polizist-soll-familie-mit-abschiebung-gedroht-haben-a-a43ce08b-2036-40eb-abb8-cd319db0429d#ref=rss)
+### katherina
 
-* [https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto](https://www.spiegel.de/panorama/bad-zwischenahn-zwei-tote-bei-zusammenstoss-von-regionalzug-und-auto-a-2a160d5d-63ce-4c43-b8ca-f9bbf647ddc7#ref=rss)
-### anna
+* [https://www.spiegel.de/politik/arbeitszeit-die-rentenpolitik-der-regierung-grenzt-an-realitaetsverweigerung](https://www.spiegel.de/politik/arbeitszeit-die-rentenpolitik-der-regierung-grenzt-an-realitaetsverweigerung-a-579a5a2c-2ee8-4fe2-92bc-56359d48ab0d#ref=rss)
+* [https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab](https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab-a-587660b9-14d6-4ad1-93dc-fe4ac4293d64#ref=rss)
+### reiche
 
-* [https://www.spiegel.de/sport/schwimm-wm-anna-elendt-gewinnt-sensationell-gold](https://www.spiegel.de/sport/schwimm-wm-anna-elendt-gewinnt-sensationell-gold-a-3da34677-3ba3-400f-9ce0-adc57bb5f7a4#ref=rss)
-### elendt
+* [https://www.spiegel.de/politik/arbeitszeit-die-rentenpolitik-der-regierung-grenzt-an-realitaetsverweigerung](https://www.spiegel.de/politik/arbeitszeit-die-rentenpolitik-der-regierung-grenzt-an-realitaetsverweigerung-a-579a5a2c-2ee8-4fe2-92bc-56359d48ab0d#ref=rss)
+* [https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab](https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab-a-587660b9-14d6-4ad1-93dc-fe4ac4293d64#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/sport/schwimm-wm-anna-elendt-gewinnt-sensationell-gold](https://www.spiegel.de/sport/schwimm-wm-anna-elendt-gewinnt-sensationell-gold-a-3da34677-3ba3-400f-9ce0-adc57bb5f7a4#ref=rss)
+* [https://www.spiegel.de/politik/arbeitszeit-die-rentenpolitik-der-regierung-grenzt-an-realitaetsverweigerung](https://www.spiegel.de/politik/arbeitszeit-die-rentenpolitik-der-regierung-grenzt-an-realitaetsverweigerung-a-579a5a2c-2ee8-4fe2-92bc-56359d48ab0d#ref=rss)
+* [https://www.spiegel.de/ausland/verteidigung-in-europa-spaniens-ex-aussenministerin-arancha-gonzales-fordert-mehr-europaeische-souveraenitaet](https://www.spiegel.de/ausland/verteidigung-in-europa-spaniens-ex-aussenministerin-arancha-gonzales-fordert-mehr-europaeische-souveraenitaet-a-bcbd1efd-2d37-4590-98b0-88a4b87f1bdf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-wie-ein-deutscher-mittelstaendler-mit-der-unsicherheit-umgeht](https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-wie-ein-deutscher-mittelstaendler-mit-der-unsicherheit-umgeht-a-165c224b-3f2c-4c69-886e-80370895b6f4#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab](https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab-a-587660b9-14d6-4ad1-93dc-fe4ac4293d64#ref=rss)
+* [https://www.spiegel.de/ausland/verteidigung-in-europa-spaniens-ex-aussenministerin-arancha-gonzales-fordert-mehr-europaeische-souveraenitaet](https://www.spiegel.de/ausland/verteidigung-in-europa-spaniens-ex-aussenministerin-arancha-gonzales-fordert-mehr-europaeische-souveraenitaet-a-bcbd1efd-2d37-4590-98b0-88a4b87f1bdf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-und-al-nassr-reisen-wegen-zu-viel-regen-aus-oesterreich-ab](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-und-al-nassr-reisen-wegen-zu-viel-regen-aus-oesterreich-ab-a-25e8b0cf-22f8-44f6-b2ab-5882b96d4843#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab](https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab-a-587660b9-14d6-4ad1-93dc-fe4ac4293d64#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-afrikanische-union-warnt-vor-anerkennung-von-parallelregierung](https://www.spiegel.de/ausland/sudan-afrikanische-union-warnt-vor-anerkennung-von-parallelregierung-a-5da100dd-8ee2-46bd-b339-23b579c6b5c9#ref=rss)
+* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-donald-trump-unter-druck-wegen-ausbleibender-aufklaerung](https://www.spiegel.de/ausland/fall-jeffrey-epstein-donald-trump-unter-druck-wegen-ausbleibender-aufklaerung-a-e068ed68-418e-4d01-b40b-0e2620651b24#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/berlin-silvesterparty-am-brandenburger-tor-laut-veranstalter-abgesagt](https://www.spiegel.de/panorama/berlin-silvesterparty-am-brandenburger-tor-laut-veranstalter-abgesagt-a-a7e7913f-9727-4063-89dc-f8f99e386258#ref=rss)
+* [https://www.spiegel.de/wissenschaft/wiesbaden-geburtenrate-sinkt-aber-kinderwunsch-bleibt-stabil](https://www.spiegel.de/wissenschaft/wiesbaden-geburtenrate-sinkt-aber-kinderwunsch-bleibt-stabil-a-14cf1872-bb44-4e30-a5e1-c68172277e5b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-schrumpft-im-zweiten-quartal-leicht](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-schrumpft-im-zweiten-quartal-leicht-a-53d5deff-f4c6-4488-9d47-b124fdd6d994#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-schrumpft-im-zweiten-quartal-leicht](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-schrumpft-im-zweiten-quartal-leicht-a-53d5deff-f4c6-4488-9d47-b124fdd6d994#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-wie-ein-deutscher-mittelstaendler-mit-der-unsicherheit-umgeht](https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-wie-ein-deutscher-mittelstaendler-mit-der-unsicherheit-umgeht-a-165c224b-3f2c-4c69-886e-80370895b6f4#ref=rss)
+### donald
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-wie-ein-deutscher-mittelstaendler-mit-der-unsicherheit-umgeht](https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-wie-ein-deutscher-mittelstaendler-mit-der-unsicherheit-umgeht-a-165c224b-3f2c-4c69-886e-80370895b6f4#ref=rss)
+* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-donald-trump-unter-druck-wegen-ausbleibender-aufklaerung](https://www.spiegel.de/ausland/fall-jeffrey-epstein-donald-trump-unter-druck-wegen-ausbleibender-aufklaerung-a-e068ed68-418e-4d01-b40b-0e2620651b24#ref=rss)
+* [https://www.spiegel.de/ausland/deutschland-blockiert-eu-sanktionen-gegen-israel](https://www.spiegel.de/ausland/deutschland-blockiert-eu-sanktionen-gegen-israel-a-89445ff8-4357-43a8-97ea-a9961fcf9f41#ref=rss)
+### tom
+
+* [https://www.spiegel.de/panorama/leute/tom-brady-haelt-sich-fuer-einen-guten-vater-weil-er-sich-auf-seine-nfl-karriere-konzentriert-hat](https://www.spiegel.de/panorama/leute/tom-brady-haelt-sich-fuer-einen-guten-vater-weil-er-sich-auf-seine-nfl-karriere-konzentriert-hat-a-a00b4fea-7665-4193-b29f-ebedbea75d07#ref=rss)
+### brady
+
+* [https://www.spiegel.de/panorama/leute/tom-brady-haelt-sich-fuer-einen-guten-vater-weil-er-sich-auf-seine-nfl-karriere-konzentriert-hat](https://www.spiegel.de/panorama/leute/tom-brady-haelt-sich-fuer-einen-guten-vater-weil-er-sich-auf-seine-nfl-karriere-konzentriert-hat-a-a00b4fea-7665-4193-b29f-ebedbea75d07#ref=rss)
+### rewe
+
+* [https://www.spiegel.de/netzwelt/apps/rewe-bonus-rewe-app-bekommt-verpflichtende-zwei-faktor-authentifizierung](https://www.spiegel.de/netzwelt/apps/rewe-bonus-rewe-app-bekommt-verpflichtende-zwei-faktor-authentifizierung-a-172b8b05-8073-463a-bdac-39e4f616539c#ref=rss)
+### reweapp
+
+* [https://www.spiegel.de/netzwelt/apps/rewe-bonus-rewe-app-bekommt-verpflichtende-zwei-faktor-authentifizierung](https://www.spiegel.de/netzwelt/apps/rewe-bonus-rewe-app-bekommt-verpflichtende-zwei-faktor-authentifizierung-a-172b8b05-8073-463a-bdac-39e4f616539c#ref=rss)
+### zugang
+
+* [https://www.spiegel.de/netzwelt/apps/rewe-bonus-rewe-app-bekommt-verpflichtende-zwei-faktor-authentifizierung](https://www.spiegel.de/netzwelt/apps/rewe-bonus-rewe-app-bekommt-verpflichtende-zwei-faktor-authentifizierung-a-172b8b05-8073-463a-bdac-39e4f616539c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/transfer-news-fc-bayern-muenchen-verkuendet-verpflichtung-von-luis-diaz](https://www.spiegel.de/sport/fussball/transfer-news-fc-bayern-muenchen-verkuendet-verpflichtung-von-luis-diaz-a-77e7d69f-3a20-43a1-9d59-59bf2ab8711f#ref=rss)
+### eduard
+
+* [https://www.spiegel.de/ausland/eduard-lintner-csu-politiker-wegen-asarbaidschan-affaere-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/ausland/eduard-lintner-csu-politiker-wegen-asarbaidschan-affaere-zu-bewaehrungsstrafe-verurteilt-a-aa11767e-7924-4e85-b1ce-2e2486beda7a#ref=rss)
+### lintner
+
+* [https://www.spiegel.de/ausland/eduard-lintner-csu-politiker-wegen-asarbaidschan-affaere-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/ausland/eduard-lintner-csu-politiker-wegen-asarbaidschan-affaere-zu-bewaehrungsstrafe-verurteilt-a-aa11767e-7924-4e85-b1ce-2e2486beda7a#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/ausland/eduard-lintner-csu-politiker-wegen-asarbaidschan-affaere-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/ausland/eduard-lintner-csu-politiker-wegen-asarbaidschan-affaere-zu-bewaehrungsstrafe-verurteilt-a-aa11767e-7924-4e85-b1ce-2e2486beda7a#ref=rss)
+### frühere
+
+* [https://www.spiegel.de/ausland/eduard-lintner-csu-politiker-wegen-asarbaidschan-affaere-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/ausland/eduard-lintner-csu-politiker-wegen-asarbaidschan-affaere-zu-bewaehrungsstrafe-verurteilt-a-aa11767e-7924-4e85-b1ce-2e2486beda7a#ref=rss)
+* [https://www.spiegel.de/ausland/verteidigung-in-europa-spaniens-ex-aussenministerin-arancha-gonzales-fordert-mehr-europaeische-souveraenitaet](https://www.spiegel.de/ausland/verteidigung-in-europa-spaniens-ex-aussenministerin-arancha-gonzales-fordert-mehr-europaeische-souveraenitaet-a-bcbd1efd-2d37-4590-98b0-88a4b87f1bdf#ref=rss)
+### wirtschaftsministerin
+
+* [https://www.spiegel.de/politik/arbeitszeit-die-rentenpolitik-der-regierung-grenzt-an-realitaetsverweigerung](https://www.spiegel.de/politik/arbeitszeit-die-rentenpolitik-der-regierung-grenzt-an-realitaetsverweigerung-a-579a5a2c-2ee8-4fe2-92bc-56359d48ab0d#ref=rss)
+* [https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab](https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab-a-587660b9-14d6-4ad1-93dc-fe4ac4293d64#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/politik/arbeitszeit-die-rentenpolitik-der-regierung-grenzt-an-realitaetsverweigerung](https://www.spiegel.de/politik/arbeitszeit-die-rentenpolitik-der-regierung-grenzt-an-realitaetsverweigerung-a-579a5a2c-2ee8-4fe2-92bc-56359d48ab0d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-ueppige-personal-liste](https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-ueppige-personal-liste-a-531e135c-4ea8-4b36-a220-467a610cda8c#ref=rss)
+### job
+
+* [https://www.spiegel.de/politik/arbeitszeit-die-rentenpolitik-der-regierung-grenzt-an-realitaetsverweigerung](https://www.spiegel.de/politik/arbeitszeit-die-rentenpolitik-der-regierung-grenzt-an-realitaetsverweigerung-a-579a5a2c-2ee8-4fe2-92bc-56359d48ab0d#ref=rss)
+* [https://www.spiegel.de/karriere/wiedereingliederung-darf-der-arbeitgeber-sie-ablehnen](https://www.spiegel.de/karriere/wiedereingliederung-darf-der-arbeitgeber-sie-ablehnen-a-0f59c065-e1c6-47d0-a617-3b63c6cdb709#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/sadisten-netzwerk-um-white-tiger-wie-ein-fbi-agent-an-der-hamburger-polizei-verzweifelte](https://www.spiegel.de/panorama/justiz/sadisten-netzwerk-um-white-tiger-wie-ein-fbi-agent-an-der-hamburger-polizei-verzweifelte-a-1ccc1e82-ed3b-406f-9e6f-6bc5f3b3b150#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/transfer-news-fc-bayern-muenchen-verkuendet-verpflichtung-von-luis-diaz](https://www.spiegel.de/sport/fussball/transfer-news-fc-bayern-muenchen-verkuendet-verpflichtung-von-luis-diaz-a-77e7d69f-3a20-43a1-9d59-59bf2ab8711f#ref=rss)
+### pacific
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-eisenbahn-union-pacific-plant-uebernahme-von-norfolk-southern](https://www.spiegel.de/wirtschaft/unternehmen/us-eisenbahn-union-pacific-plant-uebernahme-von-norfolk-southern-a-53f92ab5-bbdd-4500-a906-5225420a5b06#ref=rss)
+### plant
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-eisenbahn-union-pacific-plant-uebernahme-von-norfolk-southern](https://www.spiegel.de/wirtschaft/unternehmen/us-eisenbahn-union-pacific-plant-uebernahme-von-norfolk-southern-a-53f92ab5-bbdd-4500-a906-5225420a5b06#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-wie-ein-deutscher-mittelstaendler-mit-der-unsicherheit-umgeht](https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-wie-ein-deutscher-mittelstaendler-mit-der-unsicherheit-umgeht-a-165c224b-3f2c-4c69-886e-80370895b6f4#ref=rss)
+### norfolk
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-eisenbahn-union-pacific-plant-uebernahme-von-norfolk-southern](https://www.spiegel.de/wirtschaft/unternehmen/us-eisenbahn-union-pacific-plant-uebernahme-von-norfolk-southern-a-53f92ab5-bbdd-4500-a906-5225420a5b06#ref=rss)
+### southern
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-eisenbahn-union-pacific-plant-uebernahme-von-norfolk-southern](https://www.spiegel.de/wirtschaft/unternehmen/us-eisenbahn-union-pacific-plant-uebernahme-von-norfolk-southern-a-53f92ab5-bbdd-4500-a906-5225420a5b06#ref=rss)
+### mario
+
+* [https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab](https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab-a-587660b9-14d6-4ad1-93dc-fe4ac4293d64#ref=rss)
+### voigt
+
+* [https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab](https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab-a-587660b9-14d6-4ad1-93dc-fe4ac4293d64#ref=rss)
+### ministerpräsident
+
+* [https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab](https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab-a-587660b9-14d6-4ad1-93dc-fe4ac4293d64#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab](https://www.spiegel.de/politik/mario-voigt-ministerpraesident-von-thueringen-lehnt-rentenplaene-von-wirtschaftsministerin-katherina-reiche-ab-a-587660b9-14d6-4ad1-93dc-fe4ac4293d64#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/zeugnisse-martina-diedrich-ueber-die-kritik-an-schulnoten-und-leistungsprinzip](https://www.spiegel.de/panorama/bildung/zeugnisse-martina-diedrich-ueber-die-kritik-an-schulnoten-und-leistungsprinzip-a-3200a16c-5624-4eaa-99db-782e119f28d9#ref=rss)
+### parchim
+
+* [https://www.spiegel.de/panorama/justiz/parchim-in-mecklenburg-vorpommern-vermeintlicher-polizist-soll-familie-mit-abschiebung-gedroht-haben](https://www.spiegel.de/panorama/justiz/parchim-in-mecklenburg-vorpommern-vermeintlicher-polizist-soll-familie-mit-abschiebung-gedroht-haben-a-a43ce08b-2036-40eb-abb8-cd319db0429d#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/parchim-in-mecklenburg-vorpommern-vermeintlicher-polizist-soll-familie-mit-abschiebung-gedroht-haben](https://www.spiegel.de/panorama/justiz/parchim-in-mecklenburg-vorpommern-vermeintlicher-polizist-soll-familie-mit-abschiebung-gedroht-haben-a-a43ce08b-2036-40eb-abb8-cd319db0429d#ref=rss)
+* [https://www.spiegel.de/panorama/bundesstrasse-3-bei-freiburg-mann-loescht-brennenden-reifen-mit-bier-und-radler](https://www.spiegel.de/panorama/bundesstrasse-3-bei-freiburg-mann-loescht-brennenden-reifen-mit-bier-und-radler-a-839e30b2-56d8-4df6-b1ce-6b245876e1e4#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/parchim-in-mecklenburg-vorpommern-vermeintlicher-polizist-soll-familie-mit-abschiebung-gedroht-haben](https://www.spiegel.de/panorama/justiz/parchim-in-mecklenburg-vorpommern-vermeintlicher-polizist-soll-familie-mit-abschiebung-gedroht-haben-a-a43ce08b-2036-40eb-abb8-cd319db0429d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/sadisten-netzwerk-um-white-tiger-wie-ein-fbi-agent-an-der-hamburger-polizei-verzweifelte](https://www.spiegel.de/panorama/justiz/sadisten-netzwerk-um-white-tiger-wie-ein-fbi-agent-an-der-hamburger-polizei-verzweifelte-a-1ccc1e82-ed3b-406f-9e6f-6bc5f3b3b150#ref=rss)
+### 3
+
+* [https://www.spiegel.de/panorama/bundesstrasse-3-bei-freiburg-mann-loescht-brennenden-reifen-mit-bier-und-radler](https://www.spiegel.de/panorama/bundesstrasse-3-bei-freiburg-mann-loescht-brennenden-reifen-mit-bier-und-radler-a-839e30b2-56d8-4df6-b1ce-6b245876e1e4#ref=rss)
+* [https://www.spiegel.de/kultur/alon-aboutboul-ist-tot-schauspieler-bekannt-aus-the-dark-knight-rises-und-rambo-3-gestorben](https://www.spiegel.de/kultur/alon-aboutboul-ist-tot-schauspieler-bekannt-aus-the-dark-knight-rises-und-rambo-3-gestorben-a-e13d2f29-d970-4435-89b6-e442af259804#ref=rss)
+### reifen
+
+* [https://www.spiegel.de/panorama/bundesstrasse-3-bei-freiburg-mann-loescht-brennenden-reifen-mit-bier-und-radler](https://www.spiegel.de/panorama/bundesstrasse-3-bei-freiburg-mann-loescht-brennenden-reifen-mit-bier-und-radler-a-839e30b2-56d8-4df6-b1ce-6b245876e1e4#ref=rss)
+### bier
+
+* [https://www.spiegel.de/panorama/bundesstrasse-3-bei-freiburg-mann-loescht-brennenden-reifen-mit-bier-und-radler](https://www.spiegel.de/panorama/bundesstrasse-3-bei-freiburg-mann-loescht-brennenden-reifen-mit-bier-und-radler-a-839e30b2-56d8-4df6-b1ce-6b245876e1e4#ref=rss)
+### radler
+
+* [https://www.spiegel.de/panorama/bundesstrasse-3-bei-freiburg-mann-loescht-brennenden-reifen-mit-bier-und-radler](https://www.spiegel.de/panorama/bundesstrasse-3-bei-freiburg-mann-loescht-brennenden-reifen-mit-bier-und-radler-a-839e30b2-56d8-4df6-b1ce-6b245876e1e4#ref=rss)
+### talbrücke
+
+* [https://www.spiegel.de/panorama/hessen-marode-talbruecke-erfolgreich-gesprengt](https://www.spiegel.de/panorama/hessen-marode-talbruecke-erfolgreich-gesprengt-a-63d95463-91b7-4ca2-ae0f-ad8e1a074a03#ref=rss)
+### viele
+
+* [https://www.spiegel.de/panorama/hessen-marode-talbruecke-erfolgreich-gesprengt](https://www.spiegel.de/panorama/hessen-marode-talbruecke-erfolgreich-gesprengt-a-63d95463-91b7-4ca2-ae0f-ad8e1a074a03#ref=rss)
+* [https://www.spiegel.de/wissenschaft/wiesbaden-geburtenrate-sinkt-aber-kinderwunsch-bleibt-stabil](https://www.spiegel.de/wissenschaft/wiesbaden-geburtenrate-sinkt-aber-kinderwunsch-bleibt-stabil-a-14cf1872-bb44-4e30-a5e1-c68172277e5b#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/berlin-silvesterparty-am-brandenburger-tor-laut-veranstalter-abgesagt](https://www.spiegel.de/panorama/berlin-silvesterparty-am-brandenburger-tor-laut-veranstalter-abgesagt-a-a7e7913f-9727-4063-89dc-f8f99e386258#ref=rss)
+### silvesterparty
+
+* [https://www.spiegel.de/panorama/berlin-silvesterparty-am-brandenburger-tor-laut-veranstalter-abgesagt](https://www.spiegel.de/panorama/berlin-silvesterparty-am-brandenburger-tor-laut-veranstalter-abgesagt-a-a7e7913f-9727-4063-89dc-f8f99e386258#ref=rss)
+### brandenburger
+
+* [https://www.spiegel.de/panorama/berlin-silvesterparty-am-brandenburger-tor-laut-veranstalter-abgesagt](https://www.spiegel.de/panorama/berlin-silvesterparty-am-brandenburger-tor-laut-veranstalter-abgesagt-a-a7e7913f-9727-4063-89dc-f8f99e386258#ref=rss)
+### tor
+
+* [https://www.spiegel.de/panorama/berlin-silvesterparty-am-brandenburger-tor-laut-veranstalter-abgesagt](https://www.spiegel.de/panorama/berlin-silvesterparty-am-brandenburger-tor-laut-veranstalter-abgesagt-a-a7e7913f-9727-4063-89dc-f8f99e386258#ref=rss)
+### vorerst
+
+* [https://www.spiegel.de/panorama/berlin-silvesterparty-am-brandenburger-tor-laut-veranstalter-abgesagt](https://www.spiegel.de/panorama/berlin-silvesterparty-am-brandenburger-tor-laut-veranstalter-abgesagt-a-a7e7913f-9727-4063-89dc-f8f99e386258#ref=rss)
+* [https://www.spiegel.de/ausland/deutschland-blockiert-eu-sanktionen-gegen-israel](https://www.spiegel.de/ausland/deutschland-blockiert-eu-sanktionen-gegen-israel-a-89445ff8-4357-43a8-97ea-a9961fcf9f41#ref=rss)
+### sudan
+
+* [https://www.spiegel.de/ausland/sudan-afrikanische-union-warnt-vor-anerkennung-von-parallelregierung](https://www.spiegel.de/ausland/sudan-afrikanische-union-warnt-vor-anerkennung-von-parallelregierung-a-5da100dd-8ee2-46bd-b339-23b579c6b5c9#ref=rss)
+### afrikanische
+
+* [https://www.spiegel.de/ausland/sudan-afrikanische-union-warnt-vor-anerkennung-von-parallelregierung](https://www.spiegel.de/ausland/sudan-afrikanische-union-warnt-vor-anerkennung-von-parallelregierung-a-5da100dd-8ee2-46bd-b339-23b579c6b5c9#ref=rss)
+### alon
+
+* [https://www.spiegel.de/kultur/alon-aboutboul-ist-tot-schauspieler-bekannt-aus-the-dark-knight-rises-und-rambo-3-gestorben](https://www.spiegel.de/kultur/alon-aboutboul-ist-tot-schauspieler-bekannt-aus-the-dark-knight-rises-und-rambo-3-gestorben-a-e13d2f29-d970-4435-89b6-e442af259804#ref=rss)
+### aboutboul
+
+* [https://www.spiegel.de/kultur/alon-aboutboul-ist-tot-schauspieler-bekannt-aus-the-dark-knight-rises-und-rambo-3-gestorben](https://www.spiegel.de/kultur/alon-aboutboul-ist-tot-schauspieler-bekannt-aus-the-dark-knight-rises-und-rambo-3-gestorben-a-e13d2f29-d970-4435-89b6-e442af259804#ref=rss)
+### verteidigung
+
+* [https://www.spiegel.de/ausland/verteidigung-in-europa-spaniens-ex-aussenministerin-arancha-gonzales-fordert-mehr-europaeische-souveraenitaet](https://www.spiegel.de/ausland/verteidigung-in-europa-spaniens-ex-aussenministerin-arancha-gonzales-fordert-mehr-europaeische-souveraenitaet-a-bcbd1efd-2d37-4590-98b0-88a4b87f1bdf#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/verteidigung-in-europa-spaniens-ex-aussenministerin-arancha-gonzales-fordert-mehr-europaeische-souveraenitaet](https://www.spiegel.de/ausland/verteidigung-in-europa-spaniens-ex-aussenministerin-arancha-gonzales-fordert-mehr-europaeische-souveraenitaet-a-bcbd1efd-2d37-4590-98b0-88a4b87f1bdf#ref=rss)
+### spaniens
+
+* [https://www.spiegel.de/ausland/verteidigung-in-europa-spaniens-ex-aussenministerin-arancha-gonzales-fordert-mehr-europaeische-souveraenitaet](https://www.spiegel.de/ausland/verteidigung-in-europa-spaniens-ex-aussenministerin-arancha-gonzales-fordert-mehr-europaeische-souveraenitaet-a-bcbd1efd-2d37-4590-98b0-88a4b87f1bdf#ref=rss)
+### herrscht
+
+* [https://www.spiegel.de/ausland/verteidigung-in-europa-spaniens-ex-aussenministerin-arancha-gonzales-fordert-mehr-europaeische-souveraenitaet](https://www.spiegel.de/ausland/verteidigung-in-europa-spaniens-ex-aussenministerin-arancha-gonzales-fordert-mehr-europaeische-souveraenitaet-a-bcbd1efd-2d37-4590-98b0-88a4b87f1bdf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-und-al-nassr-reisen-wegen-zu-viel-regen-aus-oesterreich-ab](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-und-al-nassr-reisen-wegen-zu-viel-regen-aus-oesterreich-ab-a-25e8b0cf-22f8-44f6-b2ab-5882b96d4843#ref=rss)
+### dessen
+
+* [https://www.spiegel.de/geschichte/die-maga-bewegung-und-die-alten-roemer-die-faszination-der-trump-leute-fuer-den-diktator-caesar](https://www.spiegel.de/geschichte/die-maga-bewegung-und-die-alten-roemer-die-faszination-der-trump-leute-fuer-den-diktator-caesar-a-f5fb313e-abc4-48bf-bda8-705a66538956#ref=rss)
+### geburtenrate
+
+* [https://www.spiegel.de/wissenschaft/wiesbaden-geburtenrate-sinkt-aber-kinderwunsch-bleibt-stabil](https://www.spiegel.de/wissenschaft/wiesbaden-geburtenrate-sinkt-aber-kinderwunsch-bleibt-stabil-a-14cf1872-bb44-4e30-a5e1-c68172277e5b#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wissenschaft/wiesbaden-geburtenrate-sinkt-aber-kinderwunsch-bleibt-stabil](https://www.spiegel.de/wissenschaft/wiesbaden-geburtenrate-sinkt-aber-kinderwunsch-bleibt-stabil-a-14cf1872-bb44-4e30-a5e1-c68172277e5b#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/frankreich-les-sables-dolonne-startet-kampagne-gegen-nackte-oberkoerper-in-seinen-strassen](https://www.spiegel.de/panorama/gesellschaft/frankreich-les-sables-dolonne-startet-kampagne-gegen-nackte-oberkoerper-in-seinen-strassen-a-a6198dfc-a9cd-4968-9c1c-eeafb64ad89d#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/wissenschaft/wiesbaden-geburtenrate-sinkt-aber-kinderwunsch-bleibt-stabil](https://www.spiegel.de/wissenschaft/wiesbaden-geburtenrate-sinkt-aber-kinderwunsch-bleibt-stabil-a-14cf1872-bb44-4e30-a5e1-c68172277e5b#ref=rss)
+### sinkt
+
+* [https://www.spiegel.de/wissenschaft/wiesbaden-geburtenrate-sinkt-aber-kinderwunsch-bleibt-stabil](https://www.spiegel.de/wissenschaft/wiesbaden-geburtenrate-sinkt-aber-kinderwunsch-bleibt-stabil-a-14cf1872-bb44-4e30-a5e1-c68172277e5b#ref=rss)
+### zweiten
+
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-schrumpft-im-zweiten-quartal-leicht](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-schrumpft-im-zweiten-quartal-leicht-a-53d5deff-f4c6-4488-9d47-b124fdd6d994#ref=rss)
+### quartal
+
+* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-schrumpft-im-zweiten-quartal-leicht](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-schrumpft-im-zweiten-quartal-leicht-a-53d5deff-f4c6-4488-9d47-b124fdd6d994#ref=rss)
+### cristiano
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-und-al-nassr-reisen-wegen-zu-viel-regen-aus-oesterreich-ab](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-und-al-nassr-reisen-wegen-zu-viel-regen-aus-oesterreich-ab-a-25e8b0cf-22f8-44f6-b2ab-5882b96d4843#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-und-al-nassr-reisen-wegen-zu-viel-regen-aus-oesterreich-ab](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-und-al-nassr-reisen-wegen-zu-viel-regen-aus-oesterreich-ab-a-25e8b0cf-22f8-44f6-b2ab-5882b96d4843#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/panorama/gesellschaft/frankreich-les-sables-dolonne-startet-kampagne-gegen-nackte-oberkoerper-in-seinen-strassen](https://www.spiegel.de/panorama/gesellschaft/frankreich-les-sables-dolonne-startet-kampagne-gegen-nackte-oberkoerper-in-seinen-strassen-a-a6198dfc-a9cd-4968-9c1c-eeafb64ad89d#ref=rss)
+### martina
+
+* [https://www.spiegel.de/panorama/bildung/zeugnisse-martina-diedrich-ueber-die-kritik-an-schulnoten-und-leistungsprinzip](https://www.spiegel.de/panorama/bildung/zeugnisse-martina-diedrich-ueber-die-kritik-an-schulnoten-und-leistungsprinzip-a-3200a16c-5624-4eaa-99db-782e119f28d9#ref=rss)
+### diedrich
+
+* [https://www.spiegel.de/panorama/bildung/zeugnisse-martina-diedrich-ueber-die-kritik-an-schulnoten-und-leistungsprinzip](https://www.spiegel.de/panorama/bildung/zeugnisse-martina-diedrich-ueber-die-kritik-an-schulnoten-und-leistungsprinzip-a-3200a16c-5624-4eaa-99db-782e119f28d9#ref=rss)
+### schulnoten
+
+* [https://www.spiegel.de/panorama/bildung/zeugnisse-martina-diedrich-ueber-die-kritik-an-schulnoten-und-leistungsprinzip](https://www.spiegel.de/panorama/bildung/zeugnisse-martina-diedrich-ueber-die-kritik-an-schulnoten-und-leistungsprinzip-a-3200a16c-5624-4eaa-99db-782e119f28d9#ref=rss)
+### leistungsprinzip
+
+* [https://www.spiegel.de/panorama/bildung/zeugnisse-martina-diedrich-ueber-die-kritik-an-schulnoten-und-leistungsprinzip](https://www.spiegel.de/panorama/bildung/zeugnisse-martina-diedrich-ueber-die-kritik-an-schulnoten-und-leistungsprinzip-a-3200a16c-5624-4eaa-99db-782e119f28d9#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/bildung/zeugnisse-martina-diedrich-ueber-die-kritik-an-schulnoten-und-leistungsprinzip](https://www.spiegel.de/panorama/bildung/zeugnisse-martina-diedrich-ueber-die-kritik-an-schulnoten-und-leistungsprinzip-a-3200a16c-5624-4eaa-99db-782e119f28d9#ref=rss)
+* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-donald-trump-unter-druck-wegen-ausbleibender-aufklaerung](https://www.spiegel.de/ausland/fall-jeffrey-epstein-donald-trump-unter-druck-wegen-ausbleibender-aufklaerung-a-e068ed68-418e-4d01-b40b-0e2620651b24#ref=rss)
+### mittelständler
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-wie-ein-deutscher-mittelstaendler-mit-der-unsicherheit-umgeht](https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-wie-ein-deutscher-mittelstaendler-mit-der-unsicherheit-umgeht-a-165c224b-3f2c-4c69-886e-80370895b6f4#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-wie-ein-deutscher-mittelstaendler-mit-der-unsicherheit-umgeht](https://www.spiegel.de/wirtschaft/unternehmen/donald-trumps-zoelle-wie-ein-deutscher-mittelstaendler-mit-der-unsicherheit-umgeht-a-165c224b-3f2c-4c69-886e-80370895b6f4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/kamtschatka-wie-schlimm-sind-das-erdbeben-und-der-tsunami](https://www.spiegel.de/wissenschaft/natur/kamtschatka-wie-schlimm-sind-das-erdbeben-und-der-tsunami-a-6502bc09-4b85-47e2-9cb5-609a7f8b4e9d#ref=rss)
+### haushalt
+
+* [https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-ueppige-personal-liste](https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-ueppige-personal-liste-a-531e135c-4ea8-4b36-a220-467a610cda8c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/haushalt-kann-deutschland-1-000-000-000-000-euro-neue-schulden-stemmen](https://www.spiegel.de/wirtschaft/haushalt-kann-deutschland-1-000-000-000-000-euro-neue-schulden-stemmen-a-7436ef6a-9fc6-44ca-90de-480a35b3b8b3#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-ueppige-personal-liste](https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-ueppige-personal-liste-a-531e135c-4ea8-4b36-a220-467a610cda8c#ref=rss)
+### neue
+
+* [https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-ueppige-personal-liste](https://www.spiegel.de/politik/deutschland/koalition-einigt-sich-auf-ueppige-personal-liste-a-531e135c-4ea8-4b36-a220-467a610cda8c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/haushalt-kann-deutschland-1-000-000-000-000-euro-neue-schulden-stemmen](https://www.spiegel.de/wirtschaft/haushalt-kann-deutschland-1-000-000-000-000-euro-neue-schulden-stemmen-a-7436ef6a-9fc6-44ca-90de-480a35b3b8b3#ref=rss)
+### laura
+
+* [https://www.spiegel.de/sport/wintersport/laura-dahlmeier-rettungsmission-gestaltet-sich-weiter-schwierig](https://www.spiegel.de/sport/wintersport/laura-dahlmeier-rettungsmission-gestaltet-sich-weiter-schwierig-a-6f06b643-63c8-4466-9469-9d1ac3496ee2#ref=rss)
+### dahlmeier
+
+* [https://www.spiegel.de/sport/wintersport/laura-dahlmeier-rettungsmission-gestaltet-sich-weiter-schwierig](https://www.spiegel.de/sport/wintersport/laura-dahlmeier-rettungsmission-gestaltet-sich-weiter-schwierig-a-6f06b643-63c8-4466-9469-9d1ac3496ee2#ref=rss)
+### starke
+
+* [https://www.spiegel.de/sport/wintersport/laura-dahlmeier-rettungsmission-gestaltet-sich-weiter-schwierig](https://www.spiegel.de/sport/wintersport/laura-dahlmeier-rettungsmission-gestaltet-sich-weiter-schwierig-a-6f06b643-63c8-4466-9469-9d1ac3496ee2#ref=rss)
+### winde
+
+* [https://www.spiegel.de/sport/wintersport/laura-dahlmeier-rettungsmission-gestaltet-sich-weiter-schwierig](https://www.spiegel.de/sport/wintersport/laura-dahlmeier-rettungsmission-gestaltet-sich-weiter-schwierig-a-6f06b643-63c8-4466-9469-9d1ac3496ee2#ref=rss)
+### schlechte
+
+* [https://www.spiegel.de/sport/wintersport/laura-dahlmeier-rettungsmission-gestaltet-sich-weiter-schwierig](https://www.spiegel.de/sport/wintersport/laura-dahlmeier-rettungsmission-gestaltet-sich-weiter-schwierig-a-6f06b643-63c8-4466-9469-9d1ac3496ee2#ref=rss)
+### sichtverhältnisse
+
+* [https://www.spiegel.de/sport/wintersport/laura-dahlmeier-rettungsmission-gestaltet-sich-weiter-schwierig](https://www.spiegel.de/sport/wintersport/laura-dahlmeier-rettungsmission-gestaltet-sich-weiter-schwierig-a-6f06b643-63c8-4466-9469-9d1ac3496ee2#ref=rss)
+### kamtschatka
+
+* [https://www.spiegel.de/wissenschaft/natur/kamtschatka-wie-schlimm-sind-das-erdbeben-und-der-tsunami](https://www.spiegel.de/wissenschaft/natur/kamtschatka-wie-schlimm-sind-das-erdbeben-und-der-tsunami-a-6502bc09-4b85-47e2-9cb5-609a7f8b4e9d#ref=rss)
+### hawaii
+
+* [https://www.spiegel.de/wissenschaft/natur/kamtschatka-wie-schlimm-sind-das-erdbeben-und-der-tsunami](https://www.spiegel.de/wissenschaft/natur/kamtschatka-wie-schlimm-sind-das-erdbeben-und-der-tsunami-a-6502bc09-4b85-47e2-9cb5-609a7f8b4e9d#ref=rss)
+### epstein
+
+* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-donald-trump-unter-druck-wegen-ausbleibender-aufklaerung](https://www.spiegel.de/ausland/fall-jeffrey-epstein-donald-trump-unter-druck-wegen-ausbleibender-aufklaerung-a-e068ed68-418e-4d01-b40b-0e2620651b24#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/haushalt-kann-deutschland-1-000-000-000-000-euro-neue-schulden-stemmen](https://www.spiegel.de/wirtschaft/haushalt-kann-deutschland-1-000-000-000-000-euro-neue-schulden-stemmen-a-7436ef6a-9fc6-44ca-90de-480a35b3b8b3#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/deutschland-blockiert-eu-sanktionen-gegen-israel](https://www.spiegel.de/ausland/deutschland-blockiert-eu-sanktionen-gegen-israel-a-89445ff8-4357-43a8-97ea-a9961fcf9f41#ref=rss)
 
