@@ -4,293 +4,438 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### gaza
 
-* [https://www.spiegel.de/panorama/starnberg-razzia-bei-ex-selenskyj-vertrautem-rostyslaw-schurma-in-deutschland](https://www.spiegel.de/panorama/starnberg-razzia-bei-ex-selenskyj-vertrautem-rostyslaw-schurma-in-deutschland-a-b4079915-d844-4ff6-89f3-89e56c63f227#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/zoll-deal-zwischen-eu-und-den-usa-beim-handel-gilt-jetzt-wieder-das-gesetz-des-dschungels](https://www.spiegel.de/wirtschaft/soziales/zoll-deal-zwischen-eu-und-den-usa-beim-handel-gilt-jetzt-wieder-das-gesetz-des-dschungels-a-c11562c1-5002-44f8-8b63-73b8ae134908#ref=rss)
-* [https://www.spiegel.de/politik/autobahn-haushaltsausschuss-gibt-eine-milliarde-euro-fuer-sanierungen-frei](https://www.spiegel.de/politik/autobahn-haushaltsausschuss-gibt-eine-milliarde-euro-fuer-sanierungen-frei-a-c7be5416-a4f5-499a-b51f-703eab5121b8#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-kaufen-privater-markt-fuer-elektroautos-waechst-nach-kaufbonus-wegfall](https://www.spiegel.de/auto/elektroauto-kaufen-privater-markt-fuer-elektroautos-waechst-nach-kaufbonus-wegfall-a-e5dc8c92-2a13-4d77-84be-412c5cd0ef0b#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sommerferien-debatte-kultusminister-kritisiert-spaeten-start-in-bayern-und-baden-wuerttemberg](https://www.spiegel.de/panorama/bildung/sommerferien-debatte-kultusminister-kritisiert-spaeten-start-in-bayern-und-baden-wuerttemberg-a-64dfc1a3-1992-417c-9a3e-fbca364828b2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-kratzt-an-der-drei-millionen-marke](https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-kratzt-an-der-drei-millionen-marke-a-ed621087-bcdd-49e6-88c6-b5e1ebf0e0c8#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/ausland/cory-booker-die-demokratische-partei-braucht-einen-weckruf-heisst-es-in-der-wutrede-des-us-demokraten](https://www.spiegel.de/ausland/cory-booker-die-demokratische-partei-braucht-einen-weckruf-heisst-es-in-der-wutrede-des-us-demokraten-a-817ee25e-b446-4ca2-a950-fc30a249faaa#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sommerferien-debatte-kultusminister-kritisiert-spaeten-start-in-bayern-und-baden-wuerttemberg](https://www.spiegel.de/panorama/bildung/sommerferien-debatte-kultusminister-kritisiert-spaeten-start-in-bayern-und-baden-wuerttemberg-a-64dfc1a3-1992-417c-9a3e-fbca364828b2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-ex-botschafter-kritisiert-kriegskurs-von-praesident-netanyahu](https://www.spiegel.de/politik/deutschland/israel-ex-botschafter-kritisiert-kriegskurs-von-praesident-netanyahu-a-2855a52c-53eb-4133-8846-21f29ec37ac9#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/kultur/kino/jason-momoa-rasiert-sich-fuer-dune-von-denis-villeneuve-erstmals-seit-sechs-jahren](https://www.spiegel.de/kultur/kino/jason-momoa-rasiert-sich-fuer-dune-von-denis-villeneuve-erstmals-seit-sechs-jahren-a-9a83c338-ab5d-4cee-87f4-4bec7093e26c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-kommt-bei-sanierung-kaum-voran](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-kommt-bei-sanierung-kaum-voran-a-fb0e2d19-260b-4a1a-a737-d13e72931ed0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schweiz-dollarschwaeche-sorgt-bei-notenbank-fuer-milliardenverlust](https://www.spiegel.de/wirtschaft/schweiz-dollarschwaeche-sorgt-bei-notenbank-fuer-milliardenverlust-a-ccf829fc-1c01-4873-88c9-46126be1a64b#ref=rss)
-### israel
-
-* [https://www.spiegel.de/politik/deutschland/israel-johann-wadephul-verlangt-fuer-hilfsorganisationen-sicheren-zugang-nach-gaza](https://www.spiegel.de/politik/deutschland/israel-johann-wadephul-verlangt-fuer-hilfsorganisationen-sicheren-zugang-nach-gaza-a-cc17b621-e915-4bb4-b1d2-e689e9251845#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-ex-botschafter-kritisiert-kriegskurs-von-praesident-netanyahu](https://www.spiegel.de/politik/deutschland/israel-ex-botschafter-kritisiert-kriegskurs-von-praesident-netanyahu-a-2855a52c-53eb-4133-8846-21f29ec37ac9#ref=rss)
-### unter
-
-* [https://www.spiegel.de/start/ausbildung-betriebe-kaempfen-mit-unbesetzten-ausbildungsplaetzen](https://www.spiegel.de/start/ausbildung-betriebe-kaempfen-mit-unbesetzten-ausbildungsplaetzen-a-66c1b912-585c-4934-a3f0-c6ea2cb9cd9b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-kippt-zollfreiheit-fuer-importe-unter-800-us-dollar](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-kippt-zollfreiheit-fuer-importe-unter-800-us-dollar-a-29744e4d-7003-4d46-bde7-9dc4452da12c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-kratzt-an-der-drei-millionen-marke](https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-kratzt-an-der-drei-millionen-marke-a-ed621087-bcdd-49e6-88c6-b5e1ebf0e0c8#ref=rss)
-### verlust
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-kommt-bei-sanierung-kaum-voran](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-kommt-bei-sanierung-kaum-voran-a-fb0e2d19-260b-4a1a-a737-d13e72931ed0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/zoll-deal-zwischen-eu-und-den-usa-beim-handel-gilt-jetzt-wieder-das-gesetz-des-dschungels](https://www.spiegel.de/wirtschaft/soziales/zoll-deal-zwischen-eu-und-den-usa-beim-handel-gilt-jetzt-wieder-das-gesetz-des-dschungels-a-c11562c1-5002-44f8-8b63-73b8ae134908#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schweiz-dollarschwaeche-sorgt-bei-notenbank-fuer-milliardenverlust](https://www.spiegel.de/wirtschaft/schweiz-dollarschwaeche-sorgt-bei-notenbank-fuer-milliardenverlust-a-ccf829fc-1c01-4873-88c9-46126be1a64b#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/wissenschaft/natur/tiefsee-forscher-entdecken-spektakulaeres-oekosystem-in-9000-meter-tiefe](https://www.spiegel.de/wissenschaft/natur/tiefsee-forscher-entdecken-spektakulaeres-oekosystem-in-9000-meter-tiefe-a-309a3ec0-4806-440d-8828-fbe055dec80e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-kratzt-an-der-drei-millionen-marke](https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-kratzt-an-der-drei-millionen-marke-a-ed621087-bcdd-49e6-88c6-b5e1ebf0e0c8#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das-a-d0456c57-1ad3-4916-a864-d9b7b334467d#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-gaza-kritik-an-israels-kriegsfuehrung-auch-maga-streitet-jetzt-ueber-gaza](https://www.spiegel.de/ausland/israel-und-gaza-kritik-an-israels-kriegsfuehrung-auch-maga-streitet-jetzt-ueber-gaza-a-04dbe3fb-2793-439a-aa3d-1716016c5f11#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wissenschaft/natur/tiefsee-forscher-entdecken-spektakulaeres-oekosystem-in-9000-meter-tiefe](https://www.spiegel.de/wissenschaft/natur/tiefsee-forscher-entdecken-spektakulaeres-oekosystem-in-9000-meter-tiefe-a-309a3ec0-4806-440d-8828-fbe055dec80e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sylt-goldschakal-darf-nicht-mehr-abgeschossen-werden](https://www.spiegel.de/panorama/justiz/sylt-goldschakal-darf-nicht-mehr-abgeschossen-werden-a-8e0ec1db-4034-497a-8b45-231c142fd6ed#ref=rss)
-* [https://www.spiegel.de/kultur/kino/harrison-ford-will-noch-lange-nicht-in-rente-gehen](https://www.spiegel.de/kultur/kino/harrison-ford-will-noch-lange-nicht-in-rente-gehen-a-9ca2943e-6ba2-4235-a37a-24b6667bb615#ref=rss)
-### zahlen
+* [https://www.spiegel.de/sport/laura-dahlmeier-kletterpartnerin-schildert-das-toedliche-unglueck](https://www.spiegel.de/sport/laura-dahlmeier-kletterpartnerin-schildert-das-toedliche-unglueck-a-338abb0a-7b11-445b-948e-6404f6915373#ref=rss)
+* [https://www.spiegel.de/panorama/schneiderin-am-bundesverfassungsgericht-die-frau-mit-dem-massband](https://www.spiegel.de/panorama/schneiderin-am-bundesverfassungsgericht-die-frau-mit-dem-massband-a-85a746bf-bb10-48cf-b7fb-d61c0c0d9f18#ref=rss)
+* [https://www.spiegel.de/auto/bayern-autos-sollen-bei-stau-auf-der-autobahn-bleiben-muessen](https://www.spiegel.de/auto/bayern-autos-sollen-bei-stau-auf-der-autobahn-bleiben-muessen-a-50215bd0-428c-4c54-8423-8901654f6bc3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein](https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein-a-82a6e870-0e42-4d3c-8c99-6dbc804b99d6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt](https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt-a-bd3c8a69-ea42-4bdd-9c5d-3180abd8393e#ref=rss)
+### druck
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-kippt-zollfreiheit-fuer-importe-unter-800-us-dollar](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-kippt-zollfreiheit-fuer-importe-unter-800-us-dollar-a-29744e4d-7003-4d46-bde7-9dc4452da12c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-airline-gruppe-steigert-gewinn-im-zweiten-quartal-um-27-prozent](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-airline-gruppe-steigert-gewinn-im-zweiten-quartal-um-27-prozent-a-4e849ba7-246d-485b-9cb0-ec7ae937ba6b#ref=rss)
-### philipp
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt](https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt-a-bd3c8a69-ea42-4bdd-9c5d-3180abd8393e#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/buerokratieabbau-philipp-amthors-schwierigste-aufgabe-kolumne](https://www.spiegel.de/politik/deutschland/buerokratieabbau-philipp-amthors-schwierigste-aufgabe-kolumne-a-3d683427-6484-4952-99bc-4400a4c5b6d7#ref=rss)
-### jason
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-dmitrij-medwedew-liefern-sich-schlagabtausch-in-den-sozialen-medien](https://www.spiegel.de/ausland/donald-trump-und-dmitrij-medwedew-liefern-sich-schlagabtausch-in-den-sozialen-medien-a-d8ff8d39-121f-4077-a85a-91f470030431#ref=rss)
+### hunger
 
-* [https://www.spiegel.de/kultur/kino/jason-momoa-rasiert-sich-fuer-dune-von-denis-villeneuve-erstmals-seit-sechs-jahren](https://www.spiegel.de/kultur/kino/jason-momoa-rasiert-sich-fuer-dune-von-denis-villeneuve-erstmals-seit-sechs-jahren-a-9a83c338-ab5d-4cee-87f4-4bec7093e26c#ref=rss)
-### momoa
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+### israel
 
-* [https://www.spiegel.de/kultur/kino/jason-momoa-rasiert-sich-fuer-dune-von-denis-villeneuve-erstmals-seit-sechs-jahren](https://www.spiegel.de/kultur/kino/jason-momoa-rasiert-sich-fuer-dune-von-denis-villeneuve-erstmals-seit-sechs-jahren-a-9a83c338-ab5d-4cee-87f4-4bec7093e26c#ref=rss)
-### denis
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das-a-d0456c57-1ad3-4916-a864-d9b7b334467d#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-gaza-kritik-an-israels-kriegsfuehrung-auch-maga-streitet-jetzt-ueber-gaza](https://www.spiegel.de/ausland/israel-und-gaza-kritik-an-israels-kriegsfuehrung-auch-maga-streitet-jetzt-ueber-gaza-a-04dbe3fb-2793-439a-aa3d-1716016c5f11#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/kultur/kino/jason-momoa-rasiert-sich-fuer-dune-von-denis-villeneuve-erstmals-seit-sechs-jahren](https://www.spiegel.de/kultur/kino/jason-momoa-rasiert-sich-fuer-dune-von-denis-villeneuve-erstmals-seit-sechs-jahren-a-9a83c338-ab5d-4cee-87f4-4bec7093e26c#ref=rss)
-### villeneuve
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das-a-d0456c57-1ad3-4916-a864-d9b7b334467d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt](https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt-a-bd3c8a69-ea42-4bdd-9c5d-3180abd8393e#ref=rss)
+### krise
 
-* [https://www.spiegel.de/kultur/kino/jason-momoa-rasiert-sich-fuer-dune-von-denis-villeneuve-erstmals-seit-sechs-jahren](https://www.spiegel.de/kultur/kino/jason-momoa-rasiert-sich-fuer-dune-von-denis-villeneuve-erstmals-seit-sechs-jahren-a-9a83c338-ab5d-4cee-87f4-4bec7093e26c#ref=rss)
-### erstmals
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-halbjahresbilanz-zeigt-tiefgreifende-krise-des-konzerns](https://www.spiegel.de/politik/deutschland/deutsche-bahn-halbjahresbilanz-zeigt-tiefgreifende-krise-des-konzerns-a-3532279c-a3ed-4697-a3cb-b3f36d20b8d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-in-der-krise-ist-die-handlungsfaehigkeit-der-koalition-in-gefahr](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-in-der-krise-ist-die-handlungsfaehigkeit-der-koalition-in-gefahr-a-637b0b58-1769-477b-a959-b1e4e5992a46#ref=rss)
+* [https://www.spiegel.de/kultur/filmfoerderung-reicht-die-aufstockung-um-der-branche-aus-der-krise-zu-helfen-kommentar](https://www.spiegel.de/kultur/filmfoerderung-reicht-die-aufstockung-um-der-branche-aus-der-krise-zu-helfen-kommentar-a-78e77183-9bfc-40b6-bdcd-b1288d93ad87#ref=rss)
+### ballweg
 
-* [https://www.spiegel.de/kultur/kino/jason-momoa-rasiert-sich-fuer-dune-von-denis-villeneuve-erstmals-seit-sechs-jahren](https://www.spiegel.de/kultur/kino/jason-momoa-rasiert-sich-fuer-dune-von-denis-villeneuve-erstmals-seit-sechs-jahren-a-9a83c338-ab5d-4cee-87f4-4bec7093e26c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/tiefsee-forscher-entdecken-spektakulaeres-oekosystem-in-9000-meter-tiefe](https://www.spiegel.de/wissenschaft/natur/tiefsee-forscher-entdecken-spektakulaeres-oekosystem-in-9000-meter-tiefe-a-309a3ec0-4806-440d-8828-fbe055dec80e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet](https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet-a-289423bf-5ca9-46b7-bbf3-b7f2f707a741#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das-a-d0456c57-1ad3-4916-a864-d9b7b334467d#ref=rss)
+### gefahr
+
+* [https://www.spiegel.de/ausland/russland-schraenkt-informationsfreiheit-weiter-ein](https://www.spiegel.de/ausland/russland-schraenkt-informationsfreiheit-weiter-ein-a-fc10a30a-0ff1-4839-ba55-4b76f156e217#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-in-der-krise-ist-die-handlungsfaehigkeit-der-koalition-in-gefahr](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-in-der-krise-ist-die-handlungsfaehigkeit-der-koalition-in-gefahr-a-637b0b58-1769-477b-a959-b1e4e5992a46#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/russland-schraenkt-informationsfreiheit-weiter-ein](https://www.spiegel.de/ausland/russland-schraenkt-informationsfreiheit-weiter-ein-a-fc10a30a-0ff1-4839-ba55-4b76f156e217#ref=rss)
+* [https://www.spiegel.de/ausland/was-thinktanks-fuer-europa-fordern-und-welche-massnahmen-sie-fuer-die-zukunft-empfehlen](https://www.spiegel.de/ausland/was-thinktanks-fuer-europa-fordern-und-welche-massnahmen-sie-fuer-die-zukunft-empfehlen-a-33100642-6538-461c-9642-74b6c6216284#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt](https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt-a-bd3c8a69-ea42-4bdd-9c5d-3180abd8393e#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/russland-schraenkt-informationsfreiheit-weiter-ein](https://www.spiegel.de/ausland/russland-schraenkt-informationsfreiheit-weiter-ein-a-fc10a30a-0ff1-4839-ba55-4b76f156e217#ref=rss)
+* [https://www.spiegel.de/netzwelt/microsoft-bericht-westliche-diplomaten-sind-in-moskau-ziel-von-hackerattacken](https://www.spiegel.de/netzwelt/microsoft-bericht-westliche-diplomaten-sind-in-moskau-ziel-von-hackerattacken-a-1c381fe4-40a7-4d5b-9439-ad57ad7415f6#ref=rss)
+* [https://www.spiegel.de/kultur/foo-fighters-nach-dem-rauswurf-von-josh-freese-hat-die-band-offenbar-einen-neuen-schlagzeuger](https://www.spiegel.de/kultur/foo-fighters-nach-dem-rauswurf-von-josh-freese-hat-die-band-offenbar-einen-neuen-schlagzeuger-a-b0a74ee5-4694-4def-959f-74295344060f#ref=rss)
+### merz
+
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das-a-d0456c57-1ad3-4916-a864-d9b7b334467d#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+* [https://www.spiegel.de/netzwelt/foto-hack-gestohlene-sexvideos-und-nacktbilder-im-netz-podcast-firewall](https://www.spiegel.de/netzwelt/foto-hack-gestohlene-sexvideos-und-nacktbilder-im-netz-podcast-firewall-a-f781c5ef-398a-4416-9404-2d1aabd7e0e0#ref=rss)
+### autos
+
+* [https://www.spiegel.de/auto/bayern-autos-sollen-bei-stau-auf-der-autobahn-bleiben-muessen](https://www.spiegel.de/auto/bayern-autos-sollen-bei-stau-auf-der-autobahn-bleiben-muessen-a-50215bd0-428c-4c54-8423-8901654f6bc3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein](https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein-a-82a6e870-0e42-4d3c-8c99-6dbc804b99d6#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/auto/bayern-autos-sollen-bei-stau-auf-der-autobahn-bleiben-muessen](https://www.spiegel.de/auto/bayern-autos-sollen-bei-stau-auf-der-autobahn-bleiben-muessen-a-50215bd0-428c-4c54-8423-8901654f6bc3#ref=rss)
+* [https://www.spiegel.de/kultur/filmfoerderung-reicht-die-aufstockung-um-der-branche-aus-der-krise-zu-helfen-kommentar](https://www.spiegel.de/kultur/filmfoerderung-reicht-die-aufstockung-um-der-branche-aus-der-krise-zu-helfen-kommentar-a-78e77183-9bfc-40b6-bdcd-b1288d93ad87#ref=rss)
+### microsoft
+
+* [https://www.spiegel.de/netzwelt/microsoft-bericht-westliche-diplomaten-sind-in-moskau-ziel-von-hackerattacken](https://www.spiegel.de/netzwelt/microsoft-bericht-westliche-diplomaten-sind-in-moskau-ziel-von-hackerattacken-a-1c381fe4-40a7-4d5b-9439-ad57ad7415f6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/microsoft-techkonzern-erreicht-marktkapitalisierung-von-vier-billionen-us-dollar](https://www.spiegel.de/wirtschaft/unternehmen/microsoft-techkonzern-erreicht-marktkapitalisierung-von-vier-billionen-us-dollar-a-821821c6-f0bd-4d1d-ae7e-1556f1db760e#ref=rss)
+### michael
+
+* [https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet](https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet-a-289423bf-5ca9-46b7-bbf3-b7f2f707a741#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das-a-d0456c57-1ad3-4916-a864-d9b7b334467d#ref=rss)
+### querdenkengründer
+
+* [https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet](https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet-a-289423bf-5ca9-46b7-bbf3-b7f2f707a741#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das-a-d0456c57-1ad3-4916-a864-d9b7b334467d#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein](https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein-a-82a6e870-0e42-4d3c-8c99-6dbc804b99d6#ref=rss)
+* [https://www.spiegel.de/panorama/stralsund-zwei-opfer-verlieren-500-000-euro-bei-whatsapp-anleger-betrug](https://www.spiegel.de/panorama/stralsund-zwei-opfer-verlieren-500-000-euro-bei-whatsapp-anleger-betrug-a-a9af9223-0103-4866-8da0-28dfb7dc0b24#ref=rss)
+### netz
+
+* [https://www.spiegel.de/netzwelt/foto-hack-gestohlene-sexvideos-und-nacktbilder-im-netz-podcast-firewall](https://www.spiegel.de/netzwelt/foto-hack-gestohlene-sexvideos-und-nacktbilder-im-netz-podcast-firewall-a-f781c5ef-398a-4416-9404-2d1aabd7e0e0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-dmitrij-medwedew-liefern-sich-schlagabtausch-in-den-sozialen-medien](https://www.spiegel.de/ausland/donald-trump-und-dmitrij-medwedew-liefern-sich-schlagabtausch-in-den-sozialen-medien-a-d8ff8d39-121f-4077-a85a-91f470030431#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-kyjiw-vergibt-punkte-fuer-getoetete-russen-an-seine-drohnenpiloten](https://www.spiegel.de/ausland/ukraine-kyjiw-vergibt-punkte-fuer-getoetete-russen-an-seine-drohnenpiloten-a-8a74a3db-92ab-4a77-a44c-a174cf4d43d9#ref=rss)
+* [https://www.spiegel.de/ausland/was-thinktanks-fuer-europa-fordern-und-welche-massnahmen-sie-fuer-die-zukunft-empfehlen](https://www.spiegel.de/ausland/was-thinktanks-fuer-europa-fordern-und-welche-massnahmen-sie-fuer-die-zukunft-empfehlen-a-33100642-6538-461c-9642-74b6c6216284#ref=rss)
+### punkte
+
+* [https://www.spiegel.de/ausland/ukraine-kyjiw-vergibt-punkte-fuer-getoetete-russen-an-seine-drohnenpiloten](https://www.spiegel.de/ausland/ukraine-kyjiw-vergibt-punkte-fuer-getoetete-russen-an-seine-drohnenpiloten-a-8a74a3db-92ab-4a77-a44c-a174cf4d43d9#ref=rss)
+### russen
+
+* [https://www.spiegel.de/ausland/ukraine-kyjiw-vergibt-punkte-fuer-getoetete-russen-an-seine-drohnenpiloten](https://www.spiegel.de/ausland/ukraine-kyjiw-vergibt-punkte-fuer-getoetete-russen-an-seine-drohnenpiloten-a-8a74a3db-92ab-4a77-a44c-a174cf4d43d9#ref=rss)
+### drohnenpiloten
+
+* [https://www.spiegel.de/ausland/ukraine-kyjiw-vergibt-punkte-fuer-getoetete-russen-an-seine-drohnenpiloten](https://www.spiegel.de/ausland/ukraine-kyjiw-vergibt-punkte-fuer-getoetete-russen-an-seine-drohnenpiloten-a-8a74a3db-92ab-4a77-a44c-a174cf4d43d9#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/panorama/justiz/werther-mann-hilft-seinen-eltern-gemeinsam-zu-sterben-18-monate-bewaehrungsstrafe](https://www.spiegel.de/panorama/justiz/werther-mann-hilft-seinen-eltern-gemeinsam-zu-sterben-18-monate-bewaehrungsstrafe-a-c3fa9a7b-d030-49f3-978d-fbc4d9120d44#ref=rss)
+### gemeinsam
+
+* [https://www.spiegel.de/panorama/justiz/werther-mann-hilft-seinen-eltern-gemeinsam-zu-sterben-18-monate-bewaehrungsstrafe](https://www.spiegel.de/panorama/justiz/werther-mann-hilft-seinen-eltern-gemeinsam-zu-sterben-18-monate-bewaehrungsstrafe-a-c3fa9a7b-d030-49f3-978d-fbc4d9120d44#ref=rss)
+### laura
+
+* [https://www.spiegel.de/sport/laura-dahlmeier-kletterpartnerin-schildert-das-toedliche-unglueck](https://www.spiegel.de/sport/laura-dahlmeier-kletterpartnerin-schildert-das-toedliche-unglueck-a-338abb0a-7b11-445b-948e-6404f6915373#ref=rss)
+### dahlmeier
+
+* [https://www.spiegel.de/sport/laura-dahlmeier-kletterpartnerin-schildert-das-toedliche-unglueck](https://www.spiegel.de/sport/laura-dahlmeier-kletterpartnerin-schildert-das-toedliche-unglueck-a-338abb0a-7b11-445b-948e-6404f6915373#ref=rss)
+### krauss
+
+* [https://www.spiegel.de/sport/laura-dahlmeier-kletterpartnerin-schildert-das-toedliche-unglueck](https://www.spiegel.de/sport/laura-dahlmeier-kletterpartnerin-schildert-das-toedliche-unglueck-a-338abb0a-7b11-445b-948e-6404f6915373#ref=rss)
+### helfen
+
+* [https://www.spiegel.de/sport/laura-dahlmeier-kletterpartnerin-schildert-das-toedliche-unglueck](https://www.spiegel.de/sport/laura-dahlmeier-kletterpartnerin-schildert-das-toedliche-unglueck-a-338abb0a-7b11-445b-948e-6404f6915373#ref=rss)
+* [https://www.spiegel.de/kultur/filmfoerderung-reicht-die-aufstockung-um-der-branche-aus-der-krise-zu-helfen-kommentar](https://www.spiegel.de/kultur/filmfoerderung-reicht-die-aufstockung-um-der-branche-aus-der-krise-zu-helfen-kommentar-a-78e77183-9bfc-40b6-bdcd-b1288d93ad87#ref=rss)
+### konnte
+
+* [https://www.spiegel.de/sport/laura-dahlmeier-kletterpartnerin-schildert-das-toedliche-unglueck](https://www.spiegel.de/sport/laura-dahlmeier-kletterpartnerin-schildert-das-toedliche-unglueck-a-338abb0a-7b11-445b-948e-6404f6915373#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet](https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet-a-289423bf-5ca9-46b7-bbf3-b7f2f707a741#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/russland-schraenkt-informationsfreiheit-weiter-ein](https://www.spiegel.de/ausland/russland-schraenkt-informationsfreiheit-weiter-ein-a-fc10a30a-0ff1-4839-ba55-4b76f156e217#ref=rss)
+* [https://www.spiegel.de/ausland/was-thinktanks-fuer-europa-fordern-und-welche-massnahmen-sie-fuer-die-zukunft-empfehlen](https://www.spiegel.de/ausland/was-thinktanks-fuer-europa-fordern-und-welche-massnahmen-sie-fuer-die-zukunft-empfehlen-a-33100642-6538-461c-9642-74b6c6216284#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/kultur/kino/jason-momoa-rasiert-sich-fuer-dune-von-denis-villeneuve-erstmals-seit-sechs-jahren](https://www.spiegel.de/kultur/kino/jason-momoa-rasiert-sich-fuer-dune-von-denis-villeneuve-erstmals-seit-sechs-jahren-a-9a83c338-ab5d-4cee-87f4-4bec7093e26c#ref=rss)
-* [https://www.spiegel.de/kultur/kino/harrison-ford-will-noch-lange-nicht-in-rente-gehen](https://www.spiegel.de/kultur/kino/harrison-ford-will-noch-lange-nicht-in-rente-gehen-a-9ca2943e-6ba2-4235-a37a-24b6667bb615#ref=rss)
-### teil
+* [https://www.spiegel.de/panorama/schneiderin-am-bundesverfassungsgericht-die-frau-mit-dem-massband](https://www.spiegel.de/panorama/schneiderin-am-bundesverfassungsgericht-die-frau-mit-dem-massband-a-85a746bf-bb10-48cf-b7fb-d61c0c0d9f18#ref=rss)
+* [https://www.spiegel.de/kultur/kino/gremlins-3-fuer-den-film-braucht-es-angeblich-nur-noch-ein-ja-von-steven-spielberg](https://www.spiegel.de/kultur/kino/gremlins-3-fuer-den-film-braucht-es-angeblich-nur-noch-ein-ja-von-steven-spielberg-a-a731b9b7-21ac-4729-9cb4-13fe5dbfbae7#ref=rss)
+### forró
 
-* [https://www.spiegel.de/kultur/kino/jason-momoa-rasiert-sich-fuer-dune-von-denis-villeneuve-erstmals-seit-sechs-jahren](https://www.spiegel.de/kultur/kino/jason-momoa-rasiert-sich-fuer-dune-von-denis-villeneuve-erstmals-seit-sechs-jahren-a-9a83c338-ab5d-4cee-87f4-4bec7093e26c#ref=rss)
-### ohne
+* [https://www.spiegel.de/panorama/forro-ein-brasilianischer-paartanz-bis-zum-morgengrauen](https://www.spiegel.de/panorama/forro-ein-brasilianischer-paartanz-bis-zum-morgengrauen-a-93d1fb6d-0ddd-4e52-83c4-5079bbbc5204#ref=rss)
+### morgengrauen
 
-* [https://www.spiegel.de/reise/weltreise-ohne-flugzeug-von-thor-pedersen-und-jetzt-ein-buch](https://www.spiegel.de/reise/weltreise-ohne-flugzeug-von-thor-pedersen-und-jetzt-ein-buch-a-5f024480-faaa-4e35-b1dc-e583ff509608#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/tiefsee-forscher-entdecken-spektakulaeres-oekosystem-in-9000-meter-tiefe](https://www.spiegel.de/wissenschaft/natur/tiefsee-forscher-entdecken-spektakulaeres-oekosystem-in-9000-meter-tiefe-a-309a3ec0-4806-440d-8828-fbe055dec80e#ref=rss)
-### pedersen
+* [https://www.spiegel.de/panorama/forro-ein-brasilianischer-paartanz-bis-zum-morgengrauen](https://www.spiegel.de/panorama/forro-ein-brasilianischer-paartanz-bis-zum-morgengrauen-a-93d1fb6d-0ddd-4e52-83c4-5079bbbc5204#ref=rss)
+### ganz
 
-* [https://www.spiegel.de/reise/weltreise-ohne-flugzeug-von-thor-pedersen-und-jetzt-ein-buch](https://www.spiegel.de/reise/weltreise-ohne-flugzeug-von-thor-pedersen-und-jetzt-ein-buch-a-5f024480-faaa-4e35-b1dc-e583ff509608#ref=rss)
-### buch
+* [https://www.spiegel.de/panorama/forro-ein-brasilianischer-paartanz-bis-zum-morgengrauen](https://www.spiegel.de/panorama/forro-ein-brasilianischer-paartanz-bis-zum-morgengrauen-a-93d1fb6d-0ddd-4e52-83c4-5079bbbc5204#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-bleibt-bei-red-bull-und-geht-nicht-zu-mercedes](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-bleibt-bei-red-bull-und-geht-nicht-zu-mercedes-a-33ca3a01-7401-4a79-a093-38fdcb467dbb#ref=rss)
+### macron
 
-* [https://www.spiegel.de/reise/weltreise-ohne-flugzeug-von-thor-pedersen-und-jetzt-ein-buch](https://www.spiegel.de/reise/weltreise-ohne-flugzeug-von-thor-pedersen-und-jetzt-ein-buch-a-5f024480-faaa-4e35-b1dc-e583ff509608#ref=rss)
-### wadephul
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+### stoppt
 
-* [https://www.spiegel.de/politik/deutschland/israel-johann-wadephul-verlangt-fuer-hilfsorganisationen-sicheren-zugang-nach-gaza](https://www.spiegel.de/politik/deutschland/israel-johann-wadephul-verlangt-fuer-hilfsorganisationen-sicheren-zugang-nach-gaza-a-cc17b621-e915-4bb4-b1d2-e689e9251845#ref=rss)
-### ministerpräsident
-
-* [https://www.spiegel.de/politik/deutschland/israel-johann-wadephul-verlangt-fuer-hilfsorganisationen-sicheren-zugang-nach-gaza](https://www.spiegel.de/politik/deutschland/israel-johann-wadephul-verlangt-fuer-hilfsorganisationen-sicheren-zugang-nach-gaza-a-cc17b621-e915-4bb4-b1d2-e689e9251845#ref=rss)
-* [https://www.spiegel.de/ausland/litauen-regierungschef-gintautas-paluckas-tritt-nach-korruptionsvorwuerfen-zurueck](https://www.spiegel.de/ausland/litauen-regierungschef-gintautas-paluckas-tritt-nach-korruptionsvorwuerfen-zurueck-a-55cb7ecb-7a3e-4b2c-b831-038fbf70c14f#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
 ### netanyahu
 
-* [https://www.spiegel.de/politik/deutschland/israel-johann-wadephul-verlangt-fuer-hilfsorganisationen-sicheren-zugang-nach-gaza](https://www.spiegel.de/politik/deutschland/israel-johann-wadephul-verlangt-fuer-hilfsorganisationen-sicheren-zugang-nach-gaza-a-cc17b621-e915-4bb4-b1d2-e689e9251845#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-ex-botschafter-kritisiert-kriegskurs-von-praesident-netanyahu](https://www.spiegel.de/politik/deutschland/israel-ex-botschafter-kritisiert-kriegskurs-von-praesident-netanyahu-a-2855a52c-53eb-4133-8846-21f29ec37ac9#ref=rss)
-### staates
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+### verschärft
 
-* [https://www.spiegel.de/politik/deutschland/israel-johann-wadephul-verlangt-fuer-hilfsorganisationen-sicheren-zugang-nach-gaza](https://www.spiegel.de/politik/deutschland/israel-johann-wadephul-verlangt-fuer-hilfsorganisationen-sicheren-zugang-nach-gaza-a-cc17b621-e915-4bb4-b1d2-e689e9251845#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-kommt-bei-sanierung-kaum-voran](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-kommt-bei-sanierung-kaum-voran-a-fb0e2d19-260b-4a1a-a737-d13e72931ed0#ref=rss)
-### knapp
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+### internationale
 
-* [https://www.spiegel.de/start/ausbildung-betriebe-kaempfen-mit-unbesetzten-ausbildungsplaetzen](https://www.spiegel.de/start/ausbildung-betriebe-kaempfen-mit-unbesetzten-ausbildungsplaetzen-a-66c1b912-585c-4934-a3f0-c6ea2cb9cd9b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-kratzt-an-der-drei-millionen-marke](https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-kratzt-an-der-drei-millionen-marke-a-ed621087-bcdd-49e6-88c6-b5e1ebf0e0c8#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+### wächst
+
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+### netanyahus
+
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+### antwortet
+
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+### propaganda
+
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+### rolle
+
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+### spielt
+
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+### spiegelreporterin
+
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+### juliane
+
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+### mittelstaedt
+
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+### analysiert
+
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-858d2f63-c276-42aa-a7ca-335448636513#ref=rss)
+* [https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast](https://www.spiegel.de/ausland/merz-trump-macron-stoppt-der-druck-auf-netanyahu-den-hunger-in-gaza-podcast-a-606a926c-f706-406e-a0f8-983fb172020f#ref=rss)
+### max
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-bleibt-bei-red-bull-und-geht-nicht-zu-mercedes](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-bleibt-bei-red-bull-und-geht-nicht-zu-mercedes-a-33ca3a01-7401-4a79-a093-38fdcb467dbb#ref=rss)
+### verstappen
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-bleibt-bei-red-bull-und-geht-nicht-zu-mercedes](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-bleibt-bei-red-bull-und-geht-nicht-zu-mercedes-a-33ca3a01-7401-4a79-a093-38fdcb467dbb#ref=rss)
+### red
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-bleibt-bei-red-bull-und-geht-nicht-zu-mercedes](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-bleibt-bei-red-bull-und-geht-nicht-zu-mercedes-a-33ca3a01-7401-4a79-a093-38fdcb467dbb#ref=rss)
+### bull
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-bleibt-bei-red-bull-und-geht-nicht-zu-mercedes](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-bleibt-bei-red-bull-und-geht-nicht-zu-mercedes-a-33ca3a01-7401-4a79-a093-38fdcb467dbb#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-halbjahresbilanz-zeigt-tiefgreifende-krise-des-konzerns](https://www.spiegel.de/politik/deutschland/deutsche-bahn-halbjahresbilanz-zeigt-tiefgreifende-krise-des-konzerns-a-3532279c-a3ed-4697-a3cb-b3f36d20b8d8#ref=rss)
 ### bahn
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-kommt-bei-sanierung-kaum-voran](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-kommt-bei-sanierung-kaum-voran-a-fb0e2d19-260b-4a1a-a737-d13e72931ed0#ref=rss)
-### sanierung
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-halbjahresbilanz-zeigt-tiefgreifende-krise-des-konzerns](https://www.spiegel.de/politik/deutschland/deutsche-bahn-halbjahresbilanz-zeigt-tiefgreifende-krise-des-konzerns-a-3532279c-a3ed-4697-a3cb-b3f36d20b8d8#ref=rss)
+### steckt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-kommt-bei-sanierung-kaum-voran](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-kommt-bei-sanierung-kaum-voran-a-fb0e2d19-260b-4a1a-a737-d13e72931ed0#ref=rss)
-### voran
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-halbjahresbilanz-zeigt-tiefgreifende-krise-des-konzerns](https://www.spiegel.de/politik/deutschland/deutsche-bahn-halbjahresbilanz-zeigt-tiefgreifende-krise-des-konzerns-a-3532279c-a3ed-4697-a3cb-b3f36d20b8d8#ref=rss)
+* [https://www.spiegel.de/netzwelt/foto-hack-gestohlene-sexvideos-und-nacktbilder-im-netz-podcast-firewall](https://www.spiegel.de/netzwelt/foto-hack-gestohlene-sexvideos-und-nacktbilder-im-netz-podcast-firewall-a-f781c5ef-398a-4416-9404-2d1aabd7e0e0#ref=rss)
+### tief
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-kommt-bei-sanierung-kaum-voran](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-kommt-bei-sanierung-kaum-voran-a-fb0e2d19-260b-4a1a-a737-d13e72931ed0#ref=rss)
-### halbjahr
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-halbjahresbilanz-zeigt-tiefgreifende-krise-des-konzerns](https://www.spiegel.de/politik/deutschland/deutsche-bahn-halbjahresbilanz-zeigt-tiefgreifende-krise-des-konzerns-a-3532279c-a3ed-4697-a3cb-b3f36d20b8d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-in-der-krise-ist-die-handlungsfaehigkeit-der-koalition-in-gefahr](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-in-der-krise-ist-die-handlungsfaehigkeit-der-koalition-in-gefahr-a-637b0b58-1769-477b-a959-b1e4e5992a46#ref=rss)
+### wäre
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-kommt-bei-sanierung-kaum-voran](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-kommt-bei-sanierung-kaum-voran-a-fb0e2d19-260b-4a1a-a737-d13e72931ed0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schweiz-dollarschwaeche-sorgt-bei-notenbank-fuer-milliardenverlust](https://www.spiegel.de/wirtschaft/schweiz-dollarschwaeche-sorgt-bei-notenbank-fuer-milliardenverlust-a-ccf829fc-1c01-4873-88c9-46126be1a64b#ref=rss)
-### 9000
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-halbjahresbilanz-zeigt-tiefgreifende-krise-des-konzerns](https://www.spiegel.de/politik/deutschland/deutsche-bahn-halbjahresbilanz-zeigt-tiefgreifende-krise-des-konzerns-a-3532279c-a3ed-4697-a3cb-b3f36d20b8d8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein](https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein-a-82a6e870-0e42-4d3c-8c99-6dbc804b99d6#ref=rss)
+### probleme
 
-* [https://www.spiegel.de/wissenschaft/natur/tiefsee-forscher-entdecken-spektakulaeres-oekosystem-in-9000-meter-tiefe](https://www.spiegel.de/wissenschaft/natur/tiefsee-forscher-entdecken-spektakulaeres-oekosystem-in-9000-meter-tiefe-a-309a3ec0-4806-440d-8828-fbe055dec80e#ref=rss)
-### meter
+* [https://www.spiegel.de/politik/deutschland/deutsche-bahn-halbjahresbilanz-zeigt-tiefgreifende-krise-des-konzerns](https://www.spiegel.de/politik/deutschland/deutsche-bahn-halbjahresbilanz-zeigt-tiefgreifende-krise-des-konzerns-a-3532279c-a3ed-4697-a3cb-b3f36d20b8d8#ref=rss)
+* [https://www.spiegel.de/kultur/filmfoerderung-reicht-die-aufstockung-um-der-branche-aus-der-krise-zu-helfen-kommentar](https://www.spiegel.de/kultur/filmfoerderung-reicht-die-aufstockung-um-der-branche-aus-der-krise-zu-helfen-kommentar-a-78e77183-9bfc-40b6-bdcd-b1288d93ad87#ref=rss)
+### stau
 
-* [https://www.spiegel.de/wissenschaft/natur/tiefsee-forscher-entdecken-spektakulaeres-oekosystem-in-9000-meter-tiefe](https://www.spiegel.de/wissenschaft/natur/tiefsee-forscher-entdecken-spektakulaeres-oekosystem-in-9000-meter-tiefe-a-309a3ec0-4806-440d-8828-fbe055dec80e#ref=rss)
-### tiefe
+* [https://www.spiegel.de/auto/bayern-autos-sollen-bei-stau-auf-der-autobahn-bleiben-muessen](https://www.spiegel.de/auto/bayern-autos-sollen-bei-stau-auf-der-autobahn-bleiben-muessen-a-50215bd0-428c-4c54-8423-8901654f6bc3#ref=rss)
+### autobahn
 
-* [https://www.spiegel.de/wissenschaft/natur/tiefsee-forscher-entdecken-spektakulaeres-oekosystem-in-9000-meter-tiefe](https://www.spiegel.de/wissenschaft/natur/tiefsee-forscher-entdecken-spektakulaeres-oekosystem-in-9000-meter-tiefe-a-309a3ec0-4806-440d-8828-fbe055dec80e#ref=rss)
-### fragen
+* [https://www.spiegel.de/auto/bayern-autos-sollen-bei-stau-auf-der-autobahn-bleiben-muessen](https://www.spiegel.de/auto/bayern-autos-sollen-bei-stau-auf-der-autobahn-bleiben-muessen-a-50215bd0-428c-4c54-8423-8901654f6bc3#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
+* [https://www.spiegel.de/auto/bayern-autos-sollen-bei-stau-auf-der-autobahn-bleiben-muessen](https://www.spiegel.de/auto/bayern-autos-sollen-bei-stau-auf-der-autobahn-bleiben-muessen-a-50215bd0-428c-4c54-8423-8901654f6bc3#ref=rss)
+* [https://www.spiegel.de/kultur/foo-fighters-nach-dem-rauswurf-von-josh-freese-hat-die-band-offenbar-einen-neuen-schlagzeuger](https://www.spiegel.de/kultur/foo-fighters-nach-dem-rauswurf-von-josh-freese-hat-die-band-offenbar-einen-neuen-schlagzeuger-a-b0a74ee5-4694-4def-959f-74295344060f#ref=rss)
+### moskau
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/netzwelt/microsoft-bericht-westliche-diplomaten-sind-in-moskau-ziel-von-hackerattacken](https://www.spiegel.de/netzwelt/microsoft-bericht-westliche-diplomaten-sind-in-moskau-ziel-von-hackerattacken-a-1c381fe4-40a7-4d5b-9439-ad57ad7415f6#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/netzwelt/microsoft-bericht-westliche-diplomaten-sind-in-moskau-ziel-von-hackerattacken](https://www.spiegel.de/netzwelt/microsoft-bericht-westliche-diplomaten-sind-in-moskau-ziel-von-hackerattacken-a-1c381fe4-40a7-4d5b-9439-ad57ad7415f6#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-dmitrij-medwedew-liefern-sich-schlagabtausch-in-den-sozialen-medien](https://www.spiegel.de/ausland/donald-trump-und-dmitrij-medwedew-liefern-sich-schlagabtausch-in-den-sozialen-medien-a-d8ff8d39-121f-4077-a85a-91f470030431#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/netzwelt/microsoft-bericht-westliche-diplomaten-sind-in-moskau-ziel-von-hackerattacken](https://www.spiegel.de/netzwelt/microsoft-bericht-westliche-diplomaten-sind-in-moskau-ziel-von-hackerattacken-a-1c381fe4-40a7-4d5b-9439-ad57ad7415f6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein](https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein-a-82a6e870-0e42-4d3c-8c99-6dbc804b99d6#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-in-der-krise-ist-die-handlungsfaehigkeit-der-koalition-in-gefahr](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-in-der-krise-ist-die-handlungsfaehigkeit-der-koalition-in-gefahr-a-637b0b58-1769-477b-a959-b1e4e5992a46#ref=rss)
+### handlungsfähigkeit
+
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-in-der-krise-ist-die-handlungsfaehigkeit-der-koalition-in-gefahr](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-in-der-krise-ist-die-handlungsfaehigkeit-der-koalition-in-gefahr-a-637b0b58-1769-477b-a959-b1e4e5992a46#ref=rss)
+### hatten
+
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-in-der-krise-ist-die-handlungsfaehigkeit-der-koalition-in-gefahr](https://www.spiegel.de/politik/deutschland/cdu-csu-und-spd-in-der-krise-ist-die-handlungsfaehigkeit-der-koalition-in-gefahr-a-637b0b58-1769-477b-a959-b1e4e5992a46#ref=rss)
+* [https://www.spiegel.de/kultur/foo-fighters-nach-dem-rauswurf-von-josh-freese-hat-die-band-offenbar-einen-neuen-schlagzeuger](https://www.spiegel.de/kultur/foo-fighters-nach-dem-rauswurf-von-josh-freese-hat-die-band-offenbar-einen-neuen-schlagzeuger-a-b0a74ee5-4694-4def-959f-74295344060f#ref=rss)
+### urteil
+
+* [https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet](https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet-a-289423bf-5ca9-46b7-bbf3-b7f2f707a741#ref=rss)
+### vorwurf
+
+* [https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet](https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet-a-289423bf-5ca9-46b7-bbf3-b7f2f707a741#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das-a-d0456c57-1ad3-4916-a864-d9b7b334467d#ref=rss)
+### betrugs
+
+* [https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet](https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet-a-289423bf-5ca9-46b7-bbf3-b7f2f707a741#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das-a-d0456c57-1ad3-4916-a864-d9b7b334467d#ref=rss)
+### private
+
+* [https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet](https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet-a-289423bf-5ca9-46b7-bbf3-b7f2f707a741#ref=rss)
+* [https://www.spiegel.de/netzwelt/foto-hack-gestohlene-sexvideos-und-nacktbilder-im-netz-podcast-firewall](https://www.spiegel.de/netzwelt/foto-hack-gestohlene-sexvideos-und-nacktbilder-im-netz-podcast-firewall-a-f781c5ef-398a-4416-9404-2d1aabd7e0e0#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet](https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet-a-289423bf-5ca9-46b7-bbf3-b7f2f707a741#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das-a-d0456c57-1ad3-4916-a864-d9b7b334467d#ref=rss)
+### lange
+
+* [https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet](https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet-a-289423bf-5ca9-46b7-bbf3-b7f2f707a741#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-gaza-kritik-an-israels-kriegsfuehrung-auch-maga-streitet-jetzt-ueber-gaza](https://www.spiegel.de/ausland/israel-und-gaza-kritik-an-israels-kriegsfuehrung-auch-maga-streitet-jetzt-ueber-gaza-a-04dbe3fb-2793-439a-aa3d-1716016c5f11#ref=rss)
+### überhaupt
+
+* [https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet](https://www.spiegel.de/panorama/justiz/michael-ballweg-urteil-im-prozess-gegen-querdenken-gruender-verkuendet-a-289423bf-5ca9-46b7-bbf3-b7f2f707a741#ref=rss)
+* [https://www.spiegel.de/ausland/texas-und-donald-trumps-gerrymandering-plaene-wahlkreis-nach-wunsch](https://www.spiegel.de/ausland/texas-und-donald-trumps-gerrymandering-plaene-wahlkreis-nach-wunsch-a-bfd3424e-2eea-4f0f-abe6-fff9ff18d5c1#ref=rss)
+### atmen
+
+* [https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein](https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein-a-82a6e870-0e42-4d3c-8c99-6dbc804b99d6#ref=rss)
+### täglich
+
+* [https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein](https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein-a-82a6e870-0e42-4d3c-8c99-6dbc804b99d6#ref=rss)
+### 68000
+
+* [https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein](https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein-a-82a6e870-0e42-4d3c-8c99-6dbc804b99d6#ref=rss)
+### bisher
+
+* [https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein](https://www.spiegel.de/wissenschaft/mikroplastik-menschen-atmen-taeglich-bis-zu-68-000-partikel-ein-a-82a6e870-0e42-4d3c-8c99-6dbc804b99d6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/microsoft-techkonzern-erreicht-marktkapitalisierung-von-vier-billionen-us-dollar](https://www.spiegel.de/wirtschaft/unternehmen/microsoft-techkonzern-erreicht-marktkapitalisierung-von-vier-billionen-us-dollar-a-821821c6-f0bd-4d1d-ae7e-1556f1db760e#ref=rss)
+### fordern
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das-a-d0456c57-1ad3-4916-a864-d9b7b334467d#ref=rss)
+* [https://www.spiegel.de/ausland/was-thinktanks-fuer-europa-fordern-und-welche-massnahmen-sie-fuer-die-zukunft-empfehlen](https://www.spiegel.de/ausland/was-thinktanks-fuer-europa-fordern-und-welche-massnahmen-sie-fuer-die-zukunft-empfehlen-a-33100642-6538-461c-9642-74b6c6216284#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das-a-d0456c57-1ad3-4916-a864-d9b7b334467d#ref=rss)
+### wir
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das-a-d0456c57-1ad3-4916-a864-d9b7b334467d#ref=rss)
+### schaffen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/news-des-tages-kulturschaffenden-fordern-stopp-von-waffenexporten-an-israel-michael-ballweg-10-jahre-angela-merkels-wir-schaffen-das-a-d0456c57-1ad3-4916-a864-d9b7b334467d#ref=rss)
+### gremlins
+
+* [https://www.spiegel.de/kultur/kino/gremlins-3-fuer-den-film-braucht-es-angeblich-nur-noch-ein-ja-von-steven-spielberg](https://www.spiegel.de/kultur/kino/gremlins-3-fuer-den-film-braucht-es-angeblich-nur-noch-ein-ja-von-steven-spielberg-a-a731b9b7-21ac-4729-9cb4-13fe5dbfbae7#ref=rss)
+### steven
+
+* [https://www.spiegel.de/kultur/kino/gremlins-3-fuer-den-film-braucht-es-angeblich-nur-noch-ein-ja-von-steven-spielberg](https://www.spiegel.de/kultur/kino/gremlins-3-fuer-den-film-braucht-es-angeblich-nur-noch-ein-ja-von-steven-spielberg-a-a731b9b7-21ac-4729-9cb4-13fe5dbfbae7#ref=rss)
+### spielberg
+
+* [https://www.spiegel.de/kultur/kino/gremlins-3-fuer-den-film-braucht-es-angeblich-nur-noch-ein-ja-von-steven-spielberg](https://www.spiegel.de/kultur/kino/gremlins-3-fuer-den-film-braucht-es-angeblich-nur-noch-ein-ja-von-steven-spielberg-a-a731b9b7-21ac-4729-9cb4-13fe5dbfbae7#ref=rss)
+### sexvideos
+
+* [https://www.spiegel.de/netzwelt/foto-hack-gestohlene-sexvideos-und-nacktbilder-im-netz-podcast-firewall](https://www.spiegel.de/netzwelt/foto-hack-gestohlene-sexvideos-und-nacktbilder-im-netz-podcast-firewall-a-f781c5ef-398a-4416-9404-2d1aabd7e0e0#ref=rss)
+### stralsund
+
+* [https://www.spiegel.de/panorama/stralsund-zwei-opfer-verlieren-500-000-euro-bei-whatsapp-anleger-betrug](https://www.spiegel.de/panorama/stralsund-zwei-opfer-verlieren-500-000-euro-bei-whatsapp-anleger-betrug-a-a9af9223-0103-4866-8da0-28dfb7dc0b24#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/stralsund-zwei-opfer-verlieren-500-000-euro-bei-whatsapp-anleger-betrug](https://www.spiegel.de/panorama/stralsund-zwei-opfer-verlieren-500-000-euro-bei-whatsapp-anleger-betrug-a-a9af9223-0103-4866-8da0-28dfb7dc0b24#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/panorama/stralsund-zwei-opfer-verlieren-500-000-euro-bei-whatsapp-anleger-betrug](https://www.spiegel.de/panorama/stralsund-zwei-opfer-verlieren-500-000-euro-bei-whatsapp-anleger-betrug-a-a9af9223-0103-4866-8da0-28dfb7dc0b24#ref=rss)
+### james
+
+* [https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-oder-gillian-anderson-wer-wird-der-naechste-007](https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-oder-gillian-anderson-wer-wird-der-naechste-007-a-2f1d93a1-4245-4c74-93e5-8f3cb7825a9d#ref=rss)
+### bond
+
+* [https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-oder-gillian-anderson-wer-wird-der-naechste-007](https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-oder-gillian-anderson-wer-wird-der-naechste-007-a-2f1d93a1-4245-4c74-93e5-8f3cb7825a9d#ref=rss)
+### aaron
+
+* [https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-oder-gillian-anderson-wer-wird-der-naechste-007](https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-oder-gillian-anderson-wer-wird-der-naechste-007-a-2f1d93a1-4245-4c74-93e5-8f3cb7825a9d#ref=rss)
+### taylorjohnson
+
+* [https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-oder-gillian-anderson-wer-wird-der-naechste-007](https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-oder-gillian-anderson-wer-wird-der-naechste-007-a-2f1d93a1-4245-4c74-93e5-8f3cb7825a9d#ref=rss)
+### idris
+
+* [https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-oder-gillian-anderson-wer-wird-der-naechste-007](https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-oder-gillian-anderson-wer-wird-der-naechste-007-a-2f1d93a1-4245-4c74-93e5-8f3cb7825a9d#ref=rss)
+### elba
+
+* [https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-oder-gillian-anderson-wer-wird-der-naechste-007](https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-oder-gillian-anderson-wer-wird-der-naechste-007-a-2f1d93a1-4245-4c74-93e5-8f3cb7825a9d#ref=rss)
+### 007
+
+* [https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-oder-gillian-anderson-wer-wird-der-naechste-007](https://www.spiegel.de/kultur/kino/james-bond-aaron-taylor-johnson-idris-elba-oder-gillian-anderson-wer-wird-der-naechste-007-a-2f1d93a1-4245-4c74-93e5-8f3cb7825a9d#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-und-dmitrij-medwedew-liefern-sich-schlagabtausch-in-den-sozialen-medien](https://www.spiegel.de/ausland/donald-trump-und-dmitrij-medwedew-liefern-sich-schlagabtausch-in-den-sozialen-medien-a-d8ff8d39-121f-4077-a85a-91f470030431#ref=rss)
+* [https://www.spiegel.de/ausland/texas-und-donald-trumps-gerrymandering-plaene-wahlkreis-nach-wunsch](https://www.spiegel.de/ausland/texas-und-donald-trumps-gerrymandering-plaene-wahlkreis-nach-wunsch-a-bfd3424e-2eea-4f0f-abe6-fff9ff18d5c1#ref=rss)
+### dmitrij
+
+* [https://www.spiegel.de/ausland/donald-trump-und-dmitrij-medwedew-liefern-sich-schlagabtausch-in-den-sozialen-medien](https://www.spiegel.de/ausland/donald-trump-und-dmitrij-medwedew-liefern-sich-schlagabtausch-in-den-sozialen-medien-a-d8ff8d39-121f-4077-a85a-91f470030431#ref=rss)
+### medwedew
+
+* [https://www.spiegel.de/ausland/donald-trump-und-dmitrij-medwedew-liefern-sich-schlagabtausch-in-den-sozialen-medien](https://www.spiegel.de/ausland/donald-trump-und-dmitrij-medwedew-liefern-sich-schlagabtausch-in-den-sozialen-medien-a-d8ff8d39-121f-4077-a85a-91f470030431#ref=rss)
 ### kaninchen
 
 * [https://www.spiegel.de/netzwelt/apps/kaninchen-auf-dem-trampolin-zu-cute-um-wahr-zu-sein](https://www.spiegel.de/netzwelt/apps/kaninchen-auf-dem-trampolin-zu-cute-um-wahr-zu-sein-a-bb85121e-248a-420c-9c33-1c103b720eba#ref=rss)
-### 200
+### foo
 
-* [https://www.spiegel.de/netzwelt/apps/kaninchen-auf-dem-trampolin-zu-cute-um-wahr-zu-sein](https://www.spiegel.de/netzwelt/apps/kaninchen-auf-dem-trampolin-zu-cute-um-wahr-zu-sein-a-bb85121e-248a-420c-9c33-1c103b720eba#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-kippt-zollfreiheit-fuer-importe-unter-800-us-dollar](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-kippt-zollfreiheit-fuer-importe-unter-800-us-dollar-a-29744e4d-7003-4d46-bde7-9dc4452da12c#ref=rss)
-### millionen
+* [https://www.spiegel.de/kultur/foo-fighters-nach-dem-rauswurf-von-josh-freese-hat-die-band-offenbar-einen-neuen-schlagzeuger](https://www.spiegel.de/kultur/foo-fighters-nach-dem-rauswurf-von-josh-freese-hat-die-band-offenbar-einen-neuen-schlagzeuger-a-b0a74ee5-4694-4def-959f-74295344060f#ref=rss)
+### fighters
 
-* [https://www.spiegel.de/netzwelt/apps/kaninchen-auf-dem-trampolin-zu-cute-um-wahr-zu-sein](https://www.spiegel.de/netzwelt/apps/kaninchen-auf-dem-trampolin-zu-cute-um-wahr-zu-sein-a-bb85121e-248a-420c-9c33-1c103b720eba#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-kratzt-an-der-drei-millionen-marke](https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-kratzt-an-der-drei-millionen-marke-a-ed621087-bcdd-49e6-88c6-b5e1ebf0e0c8#ref=rss)
-### offenbar
+* [https://www.spiegel.de/kultur/foo-fighters-nach-dem-rauswurf-von-josh-freese-hat-die-band-offenbar-einen-neuen-schlagzeuger](https://www.spiegel.de/kultur/foo-fighters-nach-dem-rauswurf-von-josh-freese-hat-die-band-offenbar-einen-neuen-schlagzeuger-a-b0a74ee5-4694-4def-959f-74295344060f#ref=rss)
+### josh
 
-* [https://www.spiegel.de/wirtschaft/hamburg-bau-des-elbtowers-birgt-offenbar-groessere-risiken-als-gedacht](https://www.spiegel.de/wirtschaft/hamburg-bau-des-elbtowers-birgt-offenbar-groessere-risiken-als-gedacht-a-8c8623c1-a535-4e0d-9576-b0225cac31db#ref=rss)
-### erreicht
+* [https://www.spiegel.de/kultur/foo-fighters-nach-dem-rauswurf-von-josh-freese-hat-die-band-offenbar-einen-neuen-schlagzeuger](https://www.spiegel.de/kultur/foo-fighters-nach-dem-rauswurf-von-josh-freese-hat-die-band-offenbar-einen-neuen-schlagzeuger-a-b0a74ee5-4694-4def-959f-74295344060f#ref=rss)
+### freese
 
-* [https://www.spiegel.de/wirtschaft/hamburg-bau-des-elbtowers-birgt-offenbar-groessere-risiken-als-gedacht](https://www.spiegel.de/wirtschaft/hamburg-bau-des-elbtowers-birgt-offenbar-groessere-risiken-als-gedacht-a-8c8623c1-a535-4e0d-9576-b0225cac31db#ref=rss)
-* [https://www.spiegel.de/sport/olympia/dosb-volker-bouffier-verlaesst-vorstand-interview-ueber-bilanz-seiner-amtszeit](https://www.spiegel.de/sport/olympia/dosb-volker-bouffier-verlaesst-vorstand-interview-ueber-bilanz-seiner-amtszeit-a-06a81f33-7e8b-4d6a-aeba-deef527f17f2#ref=rss)
-### senat
+* [https://www.spiegel.de/kultur/foo-fighters-nach-dem-rauswurf-von-josh-freese-hat-die-band-offenbar-einen-neuen-schlagzeuger](https://www.spiegel.de/kultur/foo-fighters-nach-dem-rauswurf-von-josh-freese-hat-die-band-offenbar-einen-neuen-schlagzeuger-a-b0a74ee5-4694-4def-959f-74295344060f#ref=rss)
+### israels
 
-* [https://www.spiegel.de/wirtschaft/hamburg-bau-des-elbtowers-birgt-offenbar-groessere-risiken-als-gedacht](https://www.spiegel.de/wirtschaft/hamburg-bau-des-elbtowers-birgt-offenbar-groessere-risiken-als-gedacht-a-8c8623c1-a535-4e0d-9576-b0225cac31db#ref=rss)
-* [https://www.spiegel.de/ausland/cory-booker-die-demokratische-partei-braucht-einen-weckruf-heisst-es-in-der-wutrede-des-us-demokraten](https://www.spiegel.de/ausland/cory-booker-die-demokratische-partei-braucht-einen-weckruf-heisst-es-in-der-wutrede-des-us-demokraten-a-817ee25e-b446-4ca2-a950-fc30a249faaa#ref=rss)
-### gintautas
+* [https://www.spiegel.de/ausland/israel-und-gaza-kritik-an-israels-kriegsfuehrung-auch-maga-streitet-jetzt-ueber-gaza](https://www.spiegel.de/ausland/israel-und-gaza-kritik-an-israels-kriegsfuehrung-auch-maga-streitet-jetzt-ueber-gaza-a-04dbe3fb-2793-439a-aa3d-1716016c5f11#ref=rss)
+### texas
 
-* [https://www.spiegel.de/ausland/litauen-regierungschef-gintautas-paluckas-tritt-nach-korruptionsvorwuerfen-zurueck](https://www.spiegel.de/ausland/litauen-regierungschef-gintautas-paluckas-tritt-nach-korruptionsvorwuerfen-zurueck-a-55cb7ecb-7a3e-4b2c-b831-038fbf70c14f#ref=rss)
-### paluckas
-
-* [https://www.spiegel.de/ausland/litauen-regierungschef-gintautas-paluckas-tritt-nach-korruptionsvorwuerfen-zurueck](https://www.spiegel.de/ausland/litauen-regierungschef-gintautas-paluckas-tritt-nach-korruptionsvorwuerfen-zurueck-a-55cb7ecb-7a3e-4b2c-b831-038fbf70c14f#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/ausland/litauen-regierungschef-gintautas-paluckas-tritt-nach-korruptionsvorwuerfen-zurueck](https://www.spiegel.de/ausland/litauen-regierungschef-gintautas-paluckas-tritt-nach-korruptionsvorwuerfen-zurueck-a-55cb7ecb-7a3e-4b2c-b831-038fbf70c14f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-airline-gruppe-steigert-gewinn-im-zweiten-quartal-um-27-prozent](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-airline-gruppe-steigert-gewinn-im-zweiten-quartal-um-27-prozent-a-4e849ba7-246d-485b-9cb0-ec7ae937ba6b#ref=rss)
-### durchsuchen
-
-* [https://www.spiegel.de/ausland/litauen-regierungschef-gintautas-paluckas-tritt-nach-korruptionsvorwuerfen-zurueck](https://www.spiegel.de/ausland/litauen-regierungschef-gintautas-paluckas-tritt-nach-korruptionsvorwuerfen-zurueck-a-55cb7ecb-7a3e-4b2c-b831-038fbf70c14f#ref=rss)
-* [https://www.spiegel.de/panorama/starnberg-razzia-bei-ex-selenskyj-vertrautem-rostyslaw-schurma-in-deutschland](https://www.spiegel.de/panorama/starnberg-razzia-bei-ex-selenskyj-vertrautem-rostyslaw-schurma-in-deutschland-a-b4079915-d844-4ff6-89f3-89e56c63f227#ref=rss)
-### sylt
-
-* [https://www.spiegel.de/panorama/justiz/sylt-goldschakal-darf-nicht-mehr-abgeschossen-werden](https://www.spiegel.de/panorama/justiz/sylt-goldschakal-darf-nicht-mehr-abgeschossen-werden-a-8e0ec1db-4034-497a-8b45-231c142fd6ed#ref=rss)
-### goldschakal
-
-* [https://www.spiegel.de/panorama/justiz/sylt-goldschakal-darf-nicht-mehr-abgeschossen-werden](https://www.spiegel.de/panorama/justiz/sylt-goldschakal-darf-nicht-mehr-abgeschossen-werden-a-8e0ec1db-4034-497a-8b45-231c142fd6ed#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/justiz/sylt-goldschakal-darf-nicht-mehr-abgeschossen-werden](https://www.spiegel.de/panorama/justiz/sylt-goldschakal-darf-nicht-mehr-abgeschossen-werden-a-8e0ec1db-4034-497a-8b45-231c142fd6ed#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-airline-gruppe-steigert-gewinn-im-zweiten-quartal-um-27-prozent](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-airline-gruppe-steigert-gewinn-im-zweiten-quartal-um-27-prozent-a-4e849ba7-246d-485b-9cb0-ec7ae937ba6b#ref=rss)
-### berufseinstieg
-
-* [https://www.spiegel.de/start/startklar-newsletter-wie-verkauft-man-sich-selbst-am-besten](https://www.spiegel.de/start/startklar-newsletter-wie-verkauft-man-sich-selbst-am-besten-a-7de99d14-22a1-43f4-b02a-bbace3a7457f#ref=rss)
-### starnberg
-
-* [https://www.spiegel.de/panorama/starnberg-razzia-bei-ex-selenskyj-vertrautem-rostyslaw-schurma-in-deutschland](https://www.spiegel.de/panorama/starnberg-razzia-bei-ex-selenskyj-vertrautem-rostyslaw-schurma-in-deutschland-a-b4079915-d844-4ff6-89f3-89e56c63f227#ref=rss)
-### rostyslaw
-
-* [https://www.spiegel.de/panorama/starnberg-razzia-bei-ex-selenskyj-vertrautem-rostyslaw-schurma-in-deutschland](https://www.spiegel.de/panorama/starnberg-razzia-bei-ex-selenskyj-vertrautem-rostyslaw-schurma-in-deutschland-a-b4079915-d844-4ff6-89f3-89e56c63f227#ref=rss)
-### schurma
-
-* [https://www.spiegel.de/panorama/starnberg-razzia-bei-ex-selenskyj-vertrautem-rostyslaw-schurma-in-deutschland](https://www.spiegel.de/panorama/starnberg-razzia-bei-ex-selenskyj-vertrautem-rostyslaw-schurma-in-deutschland-a-b4079915-d844-4ff6-89f3-89e56c63f227#ref=rss)
-### michael
-
-* [https://www.spiegel.de/panorama/justiz/michael-ballweg-querdenken-gruender-von-betrugsvorwurf-freigesprochen](https://www.spiegel.de/panorama/justiz/michael-ballweg-querdenken-gruender-von-betrugsvorwurf-freigesprochen-a-bb06314f-7782-4472-ab24-fa8844d9c163#ref=rss)
-### ballweg
-
-* [https://www.spiegel.de/panorama/justiz/michael-ballweg-querdenken-gruender-von-betrugsvorwurf-freigesprochen](https://www.spiegel.de/panorama/justiz/michael-ballweg-querdenken-gruender-von-betrugsvorwurf-freigesprochen-a-bb06314f-7782-4472-ab24-fa8844d9c163#ref=rss)
-### gesicht
-
-* [https://www.spiegel.de/panorama/justiz/michael-ballweg-querdenken-gruender-von-betrugsvorwurf-freigesprochen](https://www.spiegel.de/panorama/justiz/michael-ballweg-querdenken-gruender-von-betrugsvorwurf-freigesprochen-a-bb06314f-7782-4472-ab24-fa8844d9c163#ref=rss)
-* [https://www.spiegel.de/panorama/hyaluron-bgh-verbietet-vorher-nachher-werbung-fuer-unterspritzungen](https://www.spiegel.de/panorama/hyaluron-bgh-verbietet-vorher-nachher-werbung-fuer-unterspritzungen-a-3b213ae0-5c74-4736-9203-937892ece1b9#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/soziales/zoll-deal-zwischen-eu-und-den-usa-beim-handel-gilt-jetzt-wieder-das-gesetz-des-dschungels](https://www.spiegel.de/wirtschaft/soziales/zoll-deal-zwischen-eu-und-den-usa-beim-handel-gilt-jetzt-wieder-das-gesetz-des-dschungels-a-c11562c1-5002-44f8-8b63-73b8ae134908#ref=rss)
+* [https://www.spiegel.de/ausland/texas-und-donald-trumps-gerrymandering-plaene-wahlkreis-nach-wunsch](https://www.spiegel.de/ausland/texas-und-donald-trumps-gerrymandering-plaene-wahlkreis-nach-wunsch-a-bfd3424e-2eea-4f0f-abe6-fff9ff18d5c1#ref=rss)
 ### europa
 
-* [https://www.spiegel.de/wirtschaft/soziales/zoll-deal-zwischen-eu-und-den-usa-beim-handel-gilt-jetzt-wieder-das-gesetz-des-dschungels](https://www.spiegel.de/wirtschaft/soziales/zoll-deal-zwischen-eu-und-den-usa-beim-handel-gilt-jetzt-wieder-das-gesetz-des-dschungels-a-c11562c1-5002-44f8-8b63-73b8ae134908#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-airline-gruppe-steigert-gewinn-im-zweiten-quartal-um-27-prozent](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-airline-gruppe-steigert-gewinn-im-zweiten-quartal-um-27-prozent-a-4e849ba7-246d-485b-9cb0-ec7ae937ba6b#ref=rss)
-### cory
+* [https://www.spiegel.de/ausland/was-thinktanks-fuer-europa-fordern-und-welche-massnahmen-sie-fuer-die-zukunft-empfehlen](https://www.spiegel.de/ausland/was-thinktanks-fuer-europa-fordern-und-welche-massnahmen-sie-fuer-die-zukunft-empfehlen-a-33100642-6538-461c-9642-74b6c6216284#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/ausland/cory-booker-die-demokratische-partei-braucht-einen-weckruf-heisst-es-in-der-wutrede-des-us-demokraten](https://www.spiegel.de/ausland/cory-booker-die-demokratische-partei-braucht-einen-weckruf-heisst-es-in-der-wutrede-des-us-demokraten-a-817ee25e-b446-4ca2-a950-fc30a249faaa#ref=rss)
-### booker
+* [https://www.spiegel.de/ausland/was-thinktanks-fuer-europa-fordern-und-welche-massnahmen-sie-fuer-die-zukunft-empfehlen](https://www.spiegel.de/ausland/was-thinktanks-fuer-europa-fordern-und-welche-massnahmen-sie-fuer-die-zukunft-empfehlen-a-33100642-6538-461c-9642-74b6c6216284#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt](https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt-a-bd3c8a69-ea42-4bdd-9c5d-3180abd8393e#ref=rss)
+### katherina
 
-* [https://www.spiegel.de/ausland/cory-booker-die-demokratische-partei-braucht-einen-weckruf-heisst-es-in-der-wutrede-des-us-demokraten](https://www.spiegel.de/ausland/cory-booker-die-demokratische-partei-braucht-einen-weckruf-heisst-es-in-der-wutrede-des-us-demokraten-a-817ee25e-b446-4ca2-a950-fc30a249faaa#ref=rss)
-### partei
+* [https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt](https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt-a-bd3c8a69-ea42-4bdd-9c5d-3180abd8393e#ref=rss)
+### reiche
 
-* [https://www.spiegel.de/ausland/cory-booker-die-demokratische-partei-braucht-einen-weckruf-heisst-es-in-der-wutrede-des-us-demokraten](https://www.spiegel.de/ausland/cory-booker-die-demokratische-partei-braucht-einen-weckruf-heisst-es-in-der-wutrede-des-us-demokraten-a-817ee25e-b446-4ca2-a950-fc30a249faaa#ref=rss)
-### harrison
+* [https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt](https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt-a-bd3c8a69-ea42-4bdd-9c5d-3180abd8393e#ref=rss)
+### sozialsysteme
 
-* [https://www.spiegel.de/kultur/kino/harrison-ford-will-noch-lange-nicht-in-rente-gehen](https://www.spiegel.de/kultur/kino/harrison-ford-will-noch-lange-nicht-in-rente-gehen-a-9ca2943e-6ba2-4235-a37a-24b6667bb615#ref=rss)
-### ford
+* [https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt](https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt-a-bd3c8a69-ea42-4bdd-9c5d-3180abd8393e#ref=rss)
+### kipppunkt
 
-* [https://www.spiegel.de/kultur/kino/harrison-ford-will-noch-lange-nicht-in-rente-gehen](https://www.spiegel.de/kultur/kino/harrison-ford-will-noch-lange-nicht-in-rente-gehen-a-9ca2943e-6ba2-4235-a37a-24b6667bb615#ref=rss)
-### notenbank
+* [https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt](https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-sieht-sozialsysteme-in-deutschland-am-kipppunkt-a-bd3c8a69-ea42-4bdd-9c5d-3180abd8393e#ref=rss)
+### filmförderung
 
-* [https://www.spiegel.de/wirtschaft/schweiz-dollarschwaeche-sorgt-bei-notenbank-fuer-milliardenverlust](https://www.spiegel.de/wirtschaft/schweiz-dollarschwaeche-sorgt-bei-notenbank-fuer-milliardenverlust-a-ccf829fc-1c01-4873-88c9-46126be1a64b#ref=rss)
-### dollar
+* [https://www.spiegel.de/kultur/filmfoerderung-reicht-die-aufstockung-um-der-branche-aus-der-krise-zu-helfen-kommentar](https://www.spiegel.de/kultur/filmfoerderung-reicht-die-aufstockung-um-der-branche-aus-der-krise-zu-helfen-kommentar-a-78e77183-9bfc-40b6-bdcd-b1288d93ad87#ref=rss)
+### branche
 
-* [https://www.spiegel.de/wirtschaft/schweiz-dollarschwaeche-sorgt-bei-notenbank-fuer-milliardenverlust](https://www.spiegel.de/wirtschaft/schweiz-dollarschwaeche-sorgt-bei-notenbank-fuer-milliardenverlust-a-ccf829fc-1c01-4873-88c9-46126be1a64b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-kippt-zollfreiheit-fuer-importe-unter-800-us-dollar](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-kippt-zollfreiheit-fuer-importe-unter-800-us-dollar-a-29744e4d-7003-4d46-bde7-9dc4452da12c#ref=rss)
-### schlägt
-
-* [https://www.spiegel.de/wirtschaft/schweiz-dollarschwaeche-sorgt-bei-notenbank-fuer-milliardenverlust](https://www.spiegel.de/wirtschaft/schweiz-dollarschwaeche-sorgt-bei-notenbank-fuer-milliardenverlust-a-ccf829fc-1c01-4873-88c9-46126be1a64b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-kratzt-an-der-drei-millionen-marke](https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-kratzt-an-der-drei-millionen-marke-a-ed621087-bcdd-49e6-88c6-b5e1ebf0e0c8#ref=rss)
-### bilanz
-
-* [https://www.spiegel.de/wirtschaft/schweiz-dollarschwaeche-sorgt-bei-notenbank-fuer-milliardenverlust](https://www.spiegel.de/wirtschaft/schweiz-dollarschwaeche-sorgt-bei-notenbank-fuer-milliardenverlust-a-ccf829fc-1c01-4873-88c9-46126be1a64b#ref=rss)
-* [https://www.spiegel.de/sport/olympia/dosb-volker-bouffier-verlaesst-vorstand-interview-ueber-bilanz-seiner-amtszeit](https://www.spiegel.de/sport/olympia/dosb-volker-bouffier-verlaesst-vorstand-interview-ueber-bilanz-seiner-amtszeit-a-06a81f33-7e8b-4d6a-aeba-deef527f17f2#ref=rss)
-### dosb
-
-* [https://www.spiegel.de/sport/olympia/dosb-volker-bouffier-verlaesst-vorstand-interview-ueber-bilanz-seiner-amtszeit](https://www.spiegel.de/sport/olympia/dosb-volker-bouffier-verlaesst-vorstand-interview-ueber-bilanz-seiner-amtszeit-a-06a81f33-7e8b-4d6a-aeba-deef527f17f2#ref=rss)
-### volker
-
-* [https://www.spiegel.de/sport/olympia/dosb-volker-bouffier-verlaesst-vorstand-interview-ueber-bilanz-seiner-amtszeit](https://www.spiegel.de/sport/olympia/dosb-volker-bouffier-verlaesst-vorstand-interview-ueber-bilanz-seiner-amtszeit-a-06a81f33-7e8b-4d6a-aeba-deef527f17f2#ref=rss)
-### bouffier
-
-* [https://www.spiegel.de/sport/olympia/dosb-volker-bouffier-verlaesst-vorstand-interview-ueber-bilanz-seiner-amtszeit](https://www.spiegel.de/sport/olympia/dosb-volker-bouffier-verlaesst-vorstand-interview-ueber-bilanz-seiner-amtszeit-a-06a81f33-7e8b-4d6a-aeba-deef527f17f2#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/sport/olympia/dosb-volker-bouffier-verlaesst-vorstand-interview-ueber-bilanz-seiner-amtszeit](https://www.spiegel.de/sport/olympia/dosb-volker-bouffier-verlaesst-vorstand-interview-ueber-bilanz-seiner-amtszeit-a-06a81f33-7e8b-4d6a-aeba-deef527f17f2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-ex-botschafter-kritisiert-kriegskurs-von-praesident-netanyahu](https://www.spiegel.de/politik/deutschland/israel-ex-botschafter-kritisiert-kriegskurs-von-praesident-netanyahu-a-2855a52c-53eb-4133-8846-21f29ec37ac9#ref=rss)
-### haushaltsausschuss
-
-* [https://www.spiegel.de/politik/autobahn-haushaltsausschuss-gibt-eine-milliarde-euro-fuer-sanierungen-frei](https://www.spiegel.de/politik/autobahn-haushaltsausschuss-gibt-eine-milliarde-euro-fuer-sanierungen-frei-a-c7be5416-a4f5-499a-b51f-703eab5121b8#ref=rss)
-### wächst
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-privater-markt-fuer-elektroautos-waechst-nach-kaufbonus-wegfall](https://www.spiegel.de/auto/elektroauto-kaufen-privater-markt-fuer-elektroautos-waechst-nach-kaufbonus-wegfall-a-e5dc8c92-2a13-4d77-84be-412c5cd0ef0b#ref=rss)
-### hyaluron
-
-* [https://www.spiegel.de/panorama/hyaluron-bgh-verbietet-vorher-nachher-werbung-fuer-unterspritzungen](https://www.spiegel.de/panorama/hyaluron-bgh-verbietet-vorher-nachher-werbung-fuer-unterspritzungen-a-3b213ae0-5c74-4736-9203-937892ece1b9#ref=rss)
-### bgh
-
-* [https://www.spiegel.de/panorama/hyaluron-bgh-verbietet-vorher-nachher-werbung-fuer-unterspritzungen](https://www.spiegel.de/panorama/hyaluron-bgh-verbietet-vorher-nachher-werbung-fuer-unterspritzungen-a-3b213ae0-5c74-4736-9203-937892ece1b9#ref=rss)
-### bundesgerichtshof
-
-* [https://www.spiegel.de/netzwelt/bundesgerichtshof-cheatsoftware-ist-legal-werbeblocker-bleiben-vorerst-in-der-grauzone](https://www.spiegel.de/netzwelt/bundesgerichtshof-cheatsoftware-ist-legal-werbeblocker-bleiben-vorerst-in-der-grauzone-a-b542ef58-f80b-44c9-8764-7b7f38c6178e#ref=rss)
-### trump
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-kippt-zollfreiheit-fuer-importe-unter-800-us-dollar](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-kippt-zollfreiheit-fuer-importe-unter-800-us-dollar-a-29744e4d-7003-4d46-bde7-9dc4452da12c#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-kippt-zollfreiheit-fuer-importe-unter-800-us-dollar](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-kippt-zollfreiheit-fuer-importe-unter-800-us-dollar-a-29744e4d-7003-4d46-bde7-9dc4452da12c#ref=rss)
-### erkelenz
-
-* [https://www.spiegel.de/panorama/justiz/erkelenz-leiche-in-kofferraum-eines-ausgebrannten-autos-entdeckt](https://www.spiegel.de/panorama/justiz/erkelenz-leiche-in-kofferraum-eines-ausgebrannten-autos-entdeckt-a-355eca68-f425-41e5-ab90-a192b8ccd303#ref=rss)
-### kultusminister
-
-* [https://www.spiegel.de/panorama/bildung/sommerferien-debatte-kultusminister-kritisiert-spaeten-start-in-bayern-und-baden-wuerttemberg](https://www.spiegel.de/panorama/bildung/sommerferien-debatte-kultusminister-kritisiert-spaeten-start-in-bayern-und-baden-wuerttemberg-a-64dfc1a3-1992-417c-9a3e-fbca364828b2#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/bildung/sommerferien-debatte-kultusminister-kritisiert-spaeten-start-in-bayern-und-baden-wuerttemberg](https://www.spiegel.de/panorama/bildung/sommerferien-debatte-kultusminister-kritisiert-spaeten-start-in-bayern-und-baden-wuerttemberg-a-64dfc1a3-1992-417c-9a3e-fbca364828b2#ref=rss)
-### badenwürttemberg
-
-* [https://www.spiegel.de/panorama/bildung/sommerferien-debatte-kultusminister-kritisiert-spaeten-start-in-bayern-und-baden-wuerttemberg](https://www.spiegel.de/panorama/bildung/sommerferien-debatte-kultusminister-kritisiert-spaeten-start-in-bayern-und-baden-wuerttemberg-a-64dfc1a3-1992-417c-9a3e-fbca364828b2#ref=rss)
-### alle
-
-* [https://www.spiegel.de/panorama/bildung/sommerferien-debatte-kultusminister-kritisiert-spaeten-start-in-bayern-und-baden-wuerttemberg](https://www.spiegel.de/panorama/bildung/sommerferien-debatte-kultusminister-kritisiert-spaeten-start-in-bayern-und-baden-wuerttemberg-a-64dfc1a3-1992-417c-9a3e-fbca364828b2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-airline-gruppe-steigert-gewinn-im-zweiten-quartal-um-27-prozent](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-airline-gruppe-steigert-gewinn-im-zweiten-quartal-um-27-prozent-a-4e849ba7-246d-485b-9cb0-ec7ae937ba6b#ref=rss)
-### lufthansa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-airline-gruppe-steigert-gewinn-im-zweiten-quartal-um-27-prozent](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-airline-gruppe-steigert-gewinn-im-zweiten-quartal-um-27-prozent-a-4e849ba7-246d-485b-9cb0-ec7ae937ba6b#ref=rss)
-### arbeitslosen
-
-* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-kratzt-an-der-drei-millionen-marke](https://www.spiegel.de/wirtschaft/soziales/zahl-der-arbeitslosen-kratzt-an-der-drei-millionen-marke-a-ed621087-bcdd-49e6-88c6-b5e1ebf0e0c8#ref=rss)
+* [https://www.spiegel.de/kultur/filmfoerderung-reicht-die-aufstockung-um-der-branche-aus-der-krise-zu-helfen-kommentar](https://www.spiegel.de/kultur/filmfoerderung-reicht-die-aufstockung-um-der-branche-aus-der-krise-zu-helfen-kommentar-a-78e77183-9bfc-40b6-bdcd-b1288d93ad87#ref=rss)
 
