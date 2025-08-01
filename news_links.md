@@ -4,402 +4,381 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine-a-73738f42-9c3a-4ae9-b740-1763d0b0db74#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-gefahr-fuer-eu-annaeherung-durch-korruptionspolitik-von-selenskyj](https://www.spiegel.de/ausland/ukraine-gefahr-fuer-eu-annaeherung-durch-korruptionspolitik-von-selenskyj-a-97c1bbfe-569e-4334-9f63-bade3e4edff9#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine-a-73738f42-9c3a-4ae9-b740-1763d0b0db74#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-sinkt-auf-niedrigsten-stand-seit-2000](https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-sinkt-auf-niedrigsten-stand-seit-2000-a-ee9adb7d-be64-46f5-9c41-5ed1e37a33c1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen](https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen-a-a80b3c22-f89f-4ea2-96e6-e2d2acebb74f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/todesstrafe-in-den-usa-verurteilter-moerder-in-florida-hingerichtet](https://www.spiegel.de/panorama/justiz/todesstrafe-in-den-usa-verurteilter-moerder-in-florida-hingerichtet-a-1b3e0af3-3435-40d5-98c7-e381414d1d25#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-wirft-14-tonnen-hilfsgueter-ueber-gaza-ab](https://www.spiegel.de/politik/deutschland/bundeswehr-wirft-14-tonnen-hilfsgueter-ueber-gaza-ab-a-db5c3eb2-3adc-4ab0-9e90-5e71ce9e59ea#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine-a-73738f42-9c3a-4ae9-b740-1763d0b0db74#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen](https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen-a-a80b3c22-f89f-4ea2-96e6-e2d2acebb74f#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/sport/tod-von-laura-dahlmeier-wie-gefaehrlich-ist-der-laila-peak](https://www.spiegel.de/sport/tod-von-laura-dahlmeier-wie-gefaehrlich-ist-der-laila-peak-a-848cb266-ede0-4d02-b846-541a5879e479#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/reisen-deutsche-reisen-so-viel-wie-nie-weniger-geschaeftsreisen-als-vor-der-pandemie](https://www.spiegel.de/wirtschaft/soziales/reisen-deutsche-reisen-so-viel-wie-nie-weniger-geschaeftsreisen-als-vor-der-pandemie-a-ffedc294-9de3-42c1-9a21-b366c0153ec8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/cornetto-magnum-nogger-capri-welches-eis-ist-besonders-teuer-geworden](https://www.spiegel.de/wirtschaft/service/cornetto-magnum-nogger-capri-welches-eis-ist-besonders-teuer-geworden-a-b143a74c-ea20-429b-9905-9eba93a8650a#ref=rss)
-* [https://www.spiegel.de/auto/carsharing-frust-miles-und-co-ueberwachen-fahrer-immer-genauer](https://www.spiegel.de/auto/carsharing-frust-miles-und-co-ueberwachen-fahrer-immer-genauer-a-c449a4aa-e518-4986-a80f-a781109cd6fb#ref=rss)
-### frau
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn-a-e9bad6a8-6a9d-4992-9bd6-e4137c956f29#ref=rss)
-* [https://www.spiegel.de/panorama/japan-baer-attackiert-offenbar-frau-vor-pflegeheim](https://www.spiegel.de/panorama/japan-baer-attackiert-offenbar-frau-vor-pflegeheim-a-576f6efb-5080-4d72-b937-7483b5ee0249#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/todesstrafe-in-den-usa-verurteilter-moerder-in-florida-hingerichtet](https://www.spiegel.de/panorama/justiz/todesstrafe-in-den-usa-verurteilter-moerder-in-florida-hingerichtet-a-1b3e0af3-3435-40d5-98c7-e381414d1d25#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine-a-73738f42-9c3a-4ae9-b740-1763d0b0db74#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-sinkt-auf-niedrigsten-stand-seit-2000](https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-sinkt-auf-niedrigsten-stand-seit-2000-a-ee9adb7d-be64-46f5-9c41-5ed1e37a33c1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen](https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen-a-a80b3c22-f89f-4ea2-96e6-e2d2acebb74f#ref=rss)
-### reisen
-
-* [https://www.spiegel.de/wirtschaft/soziales/reisen-deutsche-reisen-so-viel-wie-nie-weniger-geschaeftsreisen-als-vor-der-pandemie](https://www.spiegel.de/wirtschaft/soziales/reisen-deutsche-reisen-so-viel-wie-nie-weniger-geschaeftsreisen-als-vor-der-pandemie-a-ffedc294-9de3-42c1-9a21-b366c0153ec8#ref=rss)
-* [https://www.spiegel.de/reise/sommerferien-guenstiger-reisen-aber-wie](https://www.spiegel.de/reise/sommerferien-guenstiger-reisen-aber-wie-a-c86a8d65-df1d-49c7-9010-46ac7b7141b6#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz](https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz-a-91ffeefe-b79c-4508-b148-995831cfc5e6#ref=rss)
-* [https://www.spiegel.de/kultur/flaggen-auf-halbmast-florida-ruft-den-hulk-hogan-day-in-florida-aus](https://www.spiegel.de/kultur/flaggen-auf-halbmast-florida-ruft-den-hulk-hogan-day-in-florida-aus-a-b0d863d2-60fd-485e-9bd2-18bbdfee9275#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn-a-e9bad6a8-6a9d-4992-9bd6-e4137c956f29#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bayern-thaler-aus-gold-kommt-im-herbst-und-soll-internationale-anleger-anziehen](https://www.spiegel.de/wirtschaft/bayern-thaler-aus-gold-kommt-im-herbst-und-soll-internationale-anleger-anziehen-a-e2e7db47-dcf8-4c81-b790-5db69f15816c#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn-a-e9bad6a8-6a9d-4992-9bd6-e4137c956f29#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-1860-muenchen-zwischen-investorenchaos-und-aufstiegstraum](https://www.spiegel.de/sport/fussball/fussball-1860-muenchen-zwischen-investorenchaos-und-aufstiegstraum-a-1dbcb306-1536-4035-acdd-b2d5fc8d2bd7#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/leute/manuela-schwesig-heiratet-zum-zweiten-mal-ihren-mann-stefan](https://www.spiegel.de/panorama/leute/manuela-schwesig-heiratet-zum-zweiten-mal-ihren-mann-stefan-a-de8986c4-75d5-4d94-b0d4-1947331f2ad6#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine-a-73738f42-9c3a-4ae9-b740-1763d0b0db74#ref=rss)
-### eugh
-
-* [https://www.spiegel.de/sport/eugh-sportgerichtshof-cas-verliert-an-einfluss-durch-neues-urteil](https://www.spiegel.de/sport/eugh-sportgerichtshof-cas-verliert-an-einfluss-durch-neues-urteil-a-64b6fcbd-144e-4486-af8c-9083d27eec3f#ref=rss)
-* [https://www.spiegel.de/ausland/migration-eugh-erhoeht-huerden-fuer-bestimmung-sicherer-herkunftslaender](https://www.spiegel.de/ausland/migration-eugh-erhoeht-huerden-fuer-bestimmung-sicherer-herkunftslaender-a-b867bcfc-508a-42e8-85b3-fa285fe535f8#ref=rss)
-### wahlen
-
-* [https://www.spiegel.de/ausland/myanmar-junta-will-wahlen-abhalten-kritiker-sprechen-von-farce](https://www.spiegel.de/ausland/myanmar-junta-will-wahlen-abhalten-kritiker-sprechen-von-farce-a-9537bb59-efe3-463f-bf51-ab5b1c33d83a#ref=rss)
-### patriotsysteme
-
-* [https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine-a-73738f42-9c3a-4ae9-b740-1763d0b0db74#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine-a-73738f42-9c3a-4ae9-b740-1763d0b0db74#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/blitze-rekord-in-den-usa-laengster-je-gemessener-blitz-ist-829-kilometer-lang](https://www.spiegel.de/wissenschaft/natur/blitze-rekord-in-den-usa-laengster-je-gemessener-blitz-ist-829-kilometer-lang-a-e4ad585d-f83d-4d44-b6a2-cfae32791e18#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/todesstrafe-in-den-usa-verurteilter-moerder-in-florida-hingerichtet](https://www.spiegel.de/panorama/justiz/todesstrafe-in-den-usa-verurteilter-moerder-in-florida-hingerichtet-a-1b3e0af3-3435-40d5-98c7-e381414d1d25#ref=rss)
-### florida
-
-* [https://www.spiegel.de/kultur/flaggen-auf-halbmast-florida-ruft-den-hulk-hogan-day-in-florida-aus](https://www.spiegel.de/kultur/flaggen-auf-halbmast-florida-ruft-den-hulk-hogan-day-in-florida-aus-a-b0d863d2-60fd-485e-9bd2-18bbdfee9275#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/todesstrafe-in-den-usa-verurteilter-moerder-in-florida-hingerichtet](https://www.spiegel.de/panorama/justiz/todesstrafe-in-den-usa-verurteilter-moerder-in-florida-hingerichtet-a-1b3e0af3-3435-40d5-98c7-e381414d1d25#ref=rss)
-### genauer
-
-* [https://www.spiegel.de/wissenschaft/natur/blitze-rekord-in-den-usa-laengster-je-gemessener-blitz-ist-829-kilometer-lang](https://www.spiegel.de/wissenschaft/natur/blitze-rekord-in-den-usa-laengster-je-gemessener-blitz-ist-829-kilometer-lang-a-e4ad585d-f83d-4d44-b6a2-cfae32791e18#ref=rss)
-* [https://www.spiegel.de/auto/carsharing-frust-miles-und-co-ueberwachen-fahrer-immer-genauer](https://www.spiegel.de/auto/carsharing-frust-miles-und-co-ueberwachen-fahrer-immer-genauer-a-c449a4aa-e518-4986-a80f-a781109cd6fb#ref=rss)
-### junge
-
-* [https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-sinkt-auf-niedrigsten-stand-seit-2000](https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-sinkt-auf-niedrigsten-stand-seit-2000-a-ee9adb7d-be64-46f5-9c41-5ed1e37a33c1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen](https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen-a-a80b3c22-f89f-4ea2-96e6-e2d2acebb74f#ref=rss)
-### miles
-
-* [https://www.spiegel.de/auto/carsharing-frust-miles-und-co-ueberwachen-fahrer-immer-genauer](https://www.spiegel.de/auto/carsharing-frust-miles-und-co-ueberwachen-fahrer-immer-genauer-a-c449a4aa-e518-4986-a80f-a781109cd6fb#ref=rss)
-### juli
-
-* [https://www.spiegel.de/panorama/augenblicke-die-bilder-des-tages-im-juli-2025](https://www.spiegel.de/panorama/augenblicke-die-bilder-des-tages-im-juli-2025-a-ef3312c6-90ed-4507-a764-2f479fa29fa7#ref=rss)
-* [https://www.spiegel.de/kultur/cartoons-im-juli-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/cartoons-im-juli-von-chappatte-thomas-plassmann-klaus-stuttmann-a-d825a41e-9cd2-488c-b443-d816178e2278#ref=rss)
-### tod
-
-* [https://www.spiegel.de/sport/tod-von-laura-dahlmeier-wie-gefaehrlich-ist-der-laila-peak](https://www.spiegel.de/sport/tod-von-laura-dahlmeier-wie-gefaehrlich-ist-der-laila-peak-a-848cb266-ede0-4d02-b846-541a5879e479#ref=rss)
-* [https://www.spiegel.de/kultur/flaggen-auf-halbmast-florida-ruft-den-hulk-hogan-day-in-florida-aus](https://www.spiegel.de/kultur/flaggen-auf-halbmast-florida-ruft-den-hulk-hogan-day-in-florida-aus-a-b0d863d2-60fd-485e-9bd2-18bbdfee9275#ref=rss)
-### laura
-
-* [https://www.spiegel.de/sport/tod-von-laura-dahlmeier-wie-gefaehrlich-ist-der-laila-peak](https://www.spiegel.de/sport/tod-von-laura-dahlmeier-wie-gefaehrlich-ist-der-laila-peak-a-848cb266-ede0-4d02-b846-541a5879e479#ref=rss)
-### dahlmeier
-
-* [https://www.spiegel.de/sport/tod-von-laura-dahlmeier-wie-gefaehrlich-ist-der-laila-peak](https://www.spiegel.de/sport/tod-von-laura-dahlmeier-wie-gefaehrlich-ist-der-laila-peak-a-848cb266-ede0-4d02-b846-541a5879e479#ref=rss)
-### laila
-
-* [https://www.spiegel.de/sport/tod-von-laura-dahlmeier-wie-gefaehrlich-ist-der-laila-peak](https://www.spiegel.de/sport/tod-von-laura-dahlmeier-wie-gefaehrlich-ist-der-laila-peak-a-848cb266-ede0-4d02-b846-541a5879e479#ref=rss)
-### peak
-
-* [https://www.spiegel.de/sport/tod-von-laura-dahlmeier-wie-gefaehrlich-ist-der-laila-peak](https://www.spiegel.de/sport/tod-von-laura-dahlmeier-wie-gefaehrlich-ist-der-laila-peak-a-848cb266-ede0-4d02-b846-541a5879e479#ref=rss)
-### alles
-
-* [https://www.spiegel.de/sport/tod-von-laura-dahlmeier-wie-gefaehrlich-ist-der-laila-peak](https://www.spiegel.de/sport/tod-von-laura-dahlmeier-wie-gefaehrlich-ist-der-laila-peak-a-848cb266-ede0-4d02-b846-541a5879e479#ref=rss)
-* [https://www.spiegel.de/reise/sommerferien-guenstiger-reisen-aber-wie](https://www.spiegel.de/reise/sommerferien-guenstiger-reisen-aber-wie-a-c86a8d65-df1d-49c7-9010-46ac7b7141b6#ref=rss)
-### macht
-
-* [https://www.spiegel.de/sport/tod-von-laura-dahlmeier-wie-gefaehrlich-ist-der-laila-peak](https://www.spiegel.de/sport/tod-von-laura-dahlmeier-wie-gefaehrlich-ist-der-laila-peak-a-848cb266-ede0-4d02-b846-541a5879e479#ref=rss)
-* [https://www.spiegel.de/ausland/myanmar-junta-will-wahlen-abhalten-kritiker-sprechen-von-farce](https://www.spiegel.de/ausland/myanmar-junta-will-wahlen-abhalten-kritiker-sprechen-von-farce-a-9537bb59-efe3-463f-bf51-ab5b1c33d83a#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz](https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz-a-91ffeefe-b79c-4508-b148-995831cfc5e6#ref=rss)
-* [https://www.spiegel.de/kultur/flaggen-auf-halbmast-florida-ruft-den-hulk-hogan-day-in-florida-aus](https://www.spiegel.de/kultur/flaggen-auf-halbmast-florida-ruft-den-hulk-hogan-day-in-florida-aus-a-b0d863d2-60fd-485e-9bd2-18bbdfee9275#ref=rss)
-### ökonom
-
-* [https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz](https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz-a-91ffeefe-b79c-4508-b148-995831cfc5e6#ref=rss)
-### hans
-
-* [https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz](https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz-a-91ffeefe-b79c-4508-b148-995831cfc5e6#ref=rss)
-### gersbach
-
-* [https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz](https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz-a-91ffeefe-b79c-4508-b148-995831cfc5e6#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz](https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz-a-91ffeefe-b79c-4508-b148-995831cfc5e6#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz](https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz-a-91ffeefe-b79c-4508-b148-995831cfc5e6#ref=rss)
-### droht
-
-* [https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz](https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz-a-91ffeefe-b79c-4508-b148-995831cfc5e6#ref=rss)
-* [https://www.spiegel.de/auto/carsharing-frust-miles-und-co-ueberwachen-fahrer-immer-genauer](https://www.spiegel.de/auto/carsharing-frust-miles-und-co-ueberwachen-fahrer-immer-genauer-a-c449a4aa-e518-4986-a80f-a781109cd6fb#ref=rss)
-### weltweit
-
-* [https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz](https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz-a-91ffeefe-b79c-4508-b148-995831cfc5e6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bayern-thaler-aus-gold-kommt-im-herbst-und-soll-internationale-anleger-anziehen](https://www.spiegel.de/wirtschaft/bayern-thaler-aus-gold-kommt-im-herbst-und-soll-internationale-anleger-anziehen-a-e2e7db47-dcf8-4c81-b790-5db69f15816c#ref=rss)
-### deal
-
-* [https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz](https://www.spiegel.de/wirtschaft/donald-trumps-zollplaene-oekonom-hans-gersbach-sieht-dramatische-folgen-fuer-die-schweiz-a-91ffeefe-b79c-4508-b148-995831cfc5e6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/us-militaer-plant-milliardenschwere-vertraege-mit-palantir](https://www.spiegel.de/wirtschaft/unternehmen/us-militaer-plant-milliardenschwere-vertraege-mit-palantir-a-78bb6d44-281a-4a89-9724-b5c209d6b696#ref=rss)
-### sven
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn-a-e9bad6a8-6a9d-4992-9bd6-e4137c956f29#ref=rss)
-### ulreich
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn-a-e9bad6a8-6a9d-4992-9bd6-e4137c956f29#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn-a-e9bad6a8-6a9d-4992-9bd6-e4137c956f29#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn-a-e9bad6a8-6a9d-4992-9bd6-e4137c956f29#ref=rss)
-* [https://www.spiegel.de/panorama/japan-baer-attackiert-offenbar-frau-vor-pflegeheim](https://www.spiegel.de/panorama/japan-baer-attackiert-offenbar-frau-vor-pflegeheim-a-576f6efb-5080-4d72-b937-7483b5ee0249#ref=rss)
-### alte
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn-a-e9bad6a8-6a9d-4992-9bd6-e4137c956f29#ref=rss)
-* [https://www.spiegel.de/panorama/japan-baer-attackiert-offenbar-frau-vor-pflegeheim](https://www.spiegel.de/panorama/japan-baer-attackiert-offenbar-frau-vor-pflegeheim-a-576f6efb-5080-4d72-b937-7483b5ee0249#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn-a-e9bad6a8-6a9d-4992-9bd6-e4137c956f29#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-1860-muenchen-zwischen-investorenchaos-und-aufstiegstraum](https://www.spiegel.de/sport/fussball/fussball-1860-muenchen-zwischen-investorenchaos-und-aufstiegstraum-a-1dbcb306-1536-4035-acdd-b2d5fc8d2bd7#ref=rss)
-### schritt
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-torwart-sven-ulreich-trauert-um-verstorbenen-sohn-a-e9bad6a8-6a9d-4992-9bd6-e4137c956f29#ref=rss)
-### gastronomie
-
-* [https://www.spiegel.de/kultur/max-strohe-ueber-die-gastronomie-wie-im-profisport-werden-abloesesummen-gezahlt](https://www.spiegel.de/kultur/max-strohe-ueber-die-gastronomie-wie-im-profisport-werden-abloesesummen-gezahlt-a-8459a93f-901a-412f-b5ea-294298bb2613#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/kultur/max-strohe-ueber-die-gastronomie-wie-im-profisport-werden-abloesesummen-gezahlt](https://www.spiegel.de/kultur/max-strohe-ueber-die-gastronomie-wie-im-profisport-werden-abloesesummen-gezahlt-a-8459a93f-901a-412f-b5ea-294298bb2613#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/cornetto-magnum-nogger-capri-welches-eis-ist-besonders-teuer-geworden](https://www.spiegel.de/wirtschaft/service/cornetto-magnum-nogger-capri-welches-eis-ist-besonders-teuer-geworden-a-b143a74c-ea20-429b-9905-9eba93a8650a#ref=rss)
-### manuela
-
-* [https://www.spiegel.de/panorama/leute/manuela-schwesig-heiratet-zum-zweiten-mal-ihren-mann-stefan](https://www.spiegel.de/panorama/leute/manuela-schwesig-heiratet-zum-zweiten-mal-ihren-mann-stefan-a-de8986c4-75d5-4d94-b0d4-1947331f2ad6#ref=rss)
-### schwesig
-
-* [https://www.spiegel.de/panorama/leute/manuela-schwesig-heiratet-zum-zweiten-mal-ihren-mann-stefan](https://www.spiegel.de/panorama/leute/manuela-schwesig-heiratet-zum-zweiten-mal-ihren-mann-stefan-a-de8986c4-75d5-4d94-b0d4-1947331f2ad6#ref=rss)
-### zweiten
-
-* [https://www.spiegel.de/panorama/leute/manuela-schwesig-heiratet-zum-zweiten-mal-ihren-mann-stefan](https://www.spiegel.de/panorama/leute/manuela-schwesig-heiratet-zum-zweiten-mal-ihren-mann-stefan-a-de8986c4-75d5-4d94-b0d4-1947331f2ad6#ref=rss)
-* [https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-quiz-wie-gut-kennen-sie-den-filmklassiker](https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-quiz-wie-gut-kennen-sie-den-filmklassiker-a-f898167e-066f-408d-aa93-a000fca1d63d#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/panorama/leute/manuela-schwesig-heiratet-zum-zweiten-mal-ihren-mann-stefan](https://www.spiegel.de/panorama/leute/manuela-schwesig-heiratet-zum-zweiten-mal-ihren-mann-stefan-a-de8986c4-75d5-4d94-b0d4-1947331f2ad6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-wirft-14-tonnen-hilfsgueter-ueber-gaza-ab](https://www.spiegel.de/politik/deutschland/bundeswehr-wirft-14-tonnen-hilfsgueter-ueber-gaza-ab-a-db5c3eb2-3adc-4ab0-9e90-5e71ce9e59ea#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-wirft-14-tonnen-hilfsgueter-ueber-gaza-ab](https://www.spiegel.de/politik/deutschland/bundeswehr-wirft-14-tonnen-hilfsgueter-ueber-gaza-ab-a-db5c3eb2-3adc-4ab0-9e90-5e71ce9e59ea#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-wirft-14-tonnen-hilfsgueter-ueber-gaza-ab](https://www.spiegel.de/politik/deutschland/bundeswehr-wirft-14-tonnen-hilfsgueter-ueber-gaza-ab-a-db5c3eb2-3adc-4ab0-9e90-5e71ce9e59ea#ref=rss)
-### hilfe
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-wirft-14-tonnen-hilfsgueter-ueber-gaza-ab](https://www.spiegel.de/politik/deutschland/bundeswehr-wirft-14-tonnen-hilfsgueter-ueber-gaza-ab-a-db5c3eb2-3adc-4ab0-9e90-5e71ce9e59ea#ref=rss)
-* [https://www.spiegel.de/sport/fussball/italien-andrea-stramaccioni-serie-a-coach-rettet-teenagerinnen-vor-ertrinken](https://www.spiegel.de/sport/fussball/italien-andrea-stramaccioni-serie-a-coach-rettet-teenagerinnen-vor-ertrinken-a-5c4ff134-3f46-4da7-b2ac-c0637784de31#ref=rss)
-### cas
-
-* [https://www.spiegel.de/sport/eugh-sportgerichtshof-cas-verliert-an-einfluss-durch-neues-urteil](https://www.spiegel.de/sport/eugh-sportgerichtshof-cas-verliert-an-einfluss-durch-neues-urteil-a-64b6fcbd-144e-4486-af8c-9083d27eec3f#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/sport/eugh-sportgerichtshof-cas-verliert-an-einfluss-durch-neues-urteil](https://www.spiegel.de/sport/eugh-sportgerichtshof-cas-verliert-an-einfluss-durch-neues-urteil-a-64b6fcbd-144e-4486-af8c-9083d27eec3f#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-sinkt-auf-niedrigsten-stand-seit-2000](https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-sinkt-auf-niedrigsten-stand-seit-2000-a-ee9adb7d-be64-46f5-9c41-5ed1e37a33c1#ref=rss)
-### usmilitär
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/us-militaer-plant-milliardenschwere-vertraege-mit-palantir](https://www.spiegel.de/wirtschaft/unternehmen/us-militaer-plant-milliardenschwere-vertraege-mit-palantir-a-78bb6d44-281a-4a89-9724-b5c209d6b696#ref=rss)
-### palantir
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/us-militaer-plant-milliardenschwere-vertraege-mit-palantir](https://www.spiegel.de/wirtschaft/unternehmen/us-militaer-plant-milliardenschwere-vertraege-mit-palantir-a-78bb6d44-281a-4a89-9724-b5c209d6b696#ref=rss)
-### militär
-
-* [https://www.spiegel.de/ausland/myanmar-junta-will-wahlen-abhalten-kritiker-sprechen-von-farce](https://www.spiegel.de/ausland/myanmar-junta-will-wahlen-abhalten-kritiker-sprechen-von-farce-a-9537bb59-efe3-463f-bf51-ab5b1c33d83a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen](https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen-a-a80b3c22-f89f-4ea2-96e6-e2d2acebb74f#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/ausland/myanmar-junta-will-wahlen-abhalten-kritiker-sprechen-von-farce](https://www.spiegel.de/ausland/myanmar-junta-will-wahlen-abhalten-kritiker-sprechen-von-farce-a-9537bb59-efe3-463f-bf51-ab5b1c33d83a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen](https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen-a-a80b3c22-f89f-4ea2-96e6-e2d2acebb74f#ref=rss)
-### versuch
-
-* [https://www.spiegel.de/ausland/myanmar-junta-will-wahlen-abhalten-kritiker-sprechen-von-farce](https://www.spiegel.de/ausland/myanmar-junta-will-wahlen-abhalten-kritiker-sprechen-von-farce-a-9537bb59-efe3-463f-bf51-ab5b1c33d83a#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-gefahr-fuer-eu-annaeherung-durch-korruptionspolitik-von-selenskyj](https://www.spiegel.de/ausland/ukraine-gefahr-fuer-eu-annaeherung-durch-korruptionspolitik-von-selenskyj-a-97c1bbfe-569e-4334-9f63-bade3e4edff9#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine-a-73738f42-9c3a-4ae9-b740-1763d0b0db74#ref=rss)
-* [https://www.spiegel.de/reise/sommerferien-guenstiger-reisen-aber-wie](https://www.spiegel.de/reise/sommerferien-guenstiger-reisen-aber-wie-a-c86a8d65-df1d-49c7-9010-46ac7b7141b6#ref=rss)
-### 30
-
-* [https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine-a-73738f42-9c3a-4ae9-b740-1763d0b0db74#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/todesstrafe-in-den-usa-verurteilter-moerder-in-florida-hingerichtet](https://www.spiegel.de/panorama/justiz/todesstrafe-in-den-usa-verurteilter-moerder-in-florida-hingerichtet-a-1b3e0af3-3435-40d5-98c7-e381414d1d25#ref=rss)
-### andrea
-
-* [https://www.spiegel.de/sport/fussball/italien-andrea-stramaccioni-serie-a-coach-rettet-teenagerinnen-vor-ertrinken](https://www.spiegel.de/sport/fussball/italien-andrea-stramaccioni-serie-a-coach-rettet-teenagerinnen-vor-ertrinken-a-5c4ff134-3f46-4da7-b2ac-c0637784de31#ref=rss)
-### stramaccioni
-
-* [https://www.spiegel.de/sport/fussball/italien-andrea-stramaccioni-serie-a-coach-rettet-teenagerinnen-vor-ertrinken](https://www.spiegel.de/sport/fussball/italien-andrea-stramaccioni-serie-a-coach-rettet-teenagerinnen-vor-ertrinken-a-5c4ff134-3f46-4da7-b2ac-c0637784de31#ref=rss)
-### ertrinken
-
-* [https://www.spiegel.de/sport/fussball/italien-andrea-stramaccioni-serie-a-coach-rettet-teenagerinnen-vor-ertrinken](https://www.spiegel.de/sport/fussball/italien-andrea-stramaccioni-serie-a-coach-rettet-teenagerinnen-vor-ertrinken-a-5c4ff134-3f46-4da7-b2ac-c0637784de31#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/sport/fussball/italien-andrea-stramaccioni-serie-a-coach-rettet-teenagerinnen-vor-ertrinken](https://www.spiegel.de/sport/fussball/italien-andrea-stramaccioni-serie-a-coach-rettet-teenagerinnen-vor-ertrinken-a-5c4ff134-3f46-4da7-b2ac-c0637784de31#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen](https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen-a-a80b3c22-f89f-4ea2-96e6-e2d2acebb74f#ref=rss)
-### gefahr
-
-* [https://www.spiegel.de/sport/fussball/italien-andrea-stramaccioni-serie-a-coach-rettet-teenagerinnen-vor-ertrinken](https://www.spiegel.de/sport/fussball/italien-andrea-stramaccioni-serie-a-coach-rettet-teenagerinnen-vor-ertrinken-a-5c4ff134-3f46-4da7-b2ac-c0637784de31#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-gefahr-fuer-eu-annaeherung-durch-korruptionspolitik-von-selenskyj](https://www.spiegel.de/ausland/ukraine-gefahr-fuer-eu-annaeherung-durch-korruptionspolitik-von-selenskyj-a-97c1bbfe-569e-4334-9f63-bade3e4edff9#ref=rss)
-### integrationsbeauftragte
-
-* [https://www.spiegel.de/panorama/gesellschaft/neukoellner-integrationsbeauftragte-guener-balci-ueber-die-islamisierung-ihres-viertels-ich-habe-diese-wut-in-mir](https://www.spiegel.de/panorama/gesellschaft/neukoellner-integrationsbeauftragte-guener-balci-ueber-die-islamisierung-ihres-viertels-ich-habe-diese-wut-in-mir-a-7a68963d-84c2-44ff-bf4c-7c5f24fb65d1#ref=rss)
-### güner
-
-* [https://www.spiegel.de/panorama/gesellschaft/neukoellner-integrationsbeauftragte-guener-balci-ueber-die-islamisierung-ihres-viertels-ich-habe-diese-wut-in-mir](https://www.spiegel.de/panorama/gesellschaft/neukoellner-integrationsbeauftragte-guener-balci-ueber-die-islamisierung-ihres-viertels-ich-habe-diese-wut-in-mir-a-7a68963d-84c2-44ff-bf4c-7c5f24fb65d1#ref=rss)
-### balci
-
-* [https://www.spiegel.de/panorama/gesellschaft/neukoellner-integrationsbeauftragte-guener-balci-ueber-die-islamisierung-ihres-viertels-ich-habe-diese-wut-in-mir](https://www.spiegel.de/panorama/gesellschaft/neukoellner-integrationsbeauftragte-guener-balci-ueber-die-islamisierung-ihres-viertels-ich-habe-diese-wut-in-mir-a-7a68963d-84c2-44ff-bf4c-7c5f24fb65d1#ref=rss)
-### sicherer
-
-* [https://www.spiegel.de/ausland/migration-eugh-erhoeht-huerden-fuer-bestimmung-sicherer-herkunftslaender](https://www.spiegel.de/ausland/migration-eugh-erhoeht-huerden-fuer-bestimmung-sicherer-herkunftslaender-a-b867bcfc-508a-42e8-85b3-fa285fe535f8#ref=rss)
-### herkunftsländer
-
-* [https://www.spiegel.de/ausland/migration-eugh-erhoeht-huerden-fuer-bestimmung-sicherer-herkunftslaender](https://www.spiegel.de/ausland/migration-eugh-erhoeht-huerden-fuer-bestimmung-sicherer-herkunftslaender-a-b867bcfc-508a-42e8-85b3-fa285fe535f8#ref=rss)
-### japan
-
-* [https://www.spiegel.de/panorama/japan-baer-attackiert-offenbar-frau-vor-pflegeheim](https://www.spiegel.de/panorama/japan-baer-attackiert-offenbar-frau-vor-pflegeheim-a-576f6efb-5080-4d72-b937-7483b5ee0249#ref=rss)
-### bär
-
-* [https://www.spiegel.de/panorama/japan-baer-attackiert-offenbar-frau-vor-pflegeheim](https://www.spiegel.de/panorama/japan-baer-attackiert-offenbar-frau-vor-pflegeheim-a-576f6efb-5080-4d72-b937-7483b5ee0249#ref=rss)
-### pflegeheim
-
-* [https://www.spiegel.de/panorama/japan-baer-attackiert-offenbar-frau-vor-pflegeheim](https://www.spiegel.de/panorama/japan-baer-attackiert-offenbar-frau-vor-pflegeheim-a-576f6efb-5080-4d72-b937-7483b5ee0249#ref=rss)
-### bilder
-
-* [https://www.spiegel.de/panorama/japan-baer-attackiert-offenbar-frau-vor-pflegeheim](https://www.spiegel.de/panorama/japan-baer-attackiert-offenbar-frau-vor-pflegeheim-a-576f6efb-5080-4d72-b937-7483b5ee0249#ref=rss)
-* [https://www.spiegel.de/panorama/augenblicke-die-bilder-des-tages-im-juli-2025](https://www.spiegel.de/panorama/augenblicke-die-bilder-des-tages-im-juli-2025-a-ef3312c6-90ed-4507-a764-2f479fa29fa7#ref=rss)
-### ruft
-
-* [https://www.spiegel.de/kultur/flaggen-auf-halbmast-florida-ruft-den-hulk-hogan-day-in-florida-aus](https://www.spiegel.de/kultur/flaggen-auf-halbmast-florida-ruft-den-hulk-hogan-day-in-florida-aus-a-b0d863d2-60fd-485e-9bd2-18bbdfee9275#ref=rss)
-### hulk
-
-* [https://www.spiegel.de/kultur/flaggen-auf-halbmast-florida-ruft-den-hulk-hogan-day-in-florida-aus](https://www.spiegel.de/kultur/flaggen-auf-halbmast-florida-ruft-den-hulk-hogan-day-in-florida-aus-a-b0d863d2-60fd-485e-9bd2-18bbdfee9275#ref=rss)
-### hogan
-
-* [https://www.spiegel.de/kultur/flaggen-auf-halbmast-florida-ruft-den-hulk-hogan-day-in-florida-aus](https://www.spiegel.de/kultur/flaggen-auf-halbmast-florida-ruft-den-hulk-hogan-day-in-florida-aus-a-b0d863d2-60fd-485e-9bd2-18bbdfee9275#ref=rss)
-### nie
-
-* [https://www.spiegel.de/wirtschaft/soziales/reisen-deutsche-reisen-so-viel-wie-nie-weniger-geschaeftsreisen-als-vor-der-pandemie](https://www.spiegel.de/wirtschaft/soziales/reisen-deutsche-reisen-so-viel-wie-nie-weniger-geschaeftsreisen-als-vor-der-pandemie-a-ffedc294-9de3-42c1-9a21-b366c0153ec8#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/wirtschaft/soziales/reisen-deutsche-reisen-so-viel-wie-nie-weniger-geschaeftsreisen-als-vor-der-pandemie](https://www.spiegel.de/wirtschaft/soziales/reisen-deutsche-reisen-so-viel-wie-nie-weniger-geschaeftsreisen-als-vor-der-pandemie-a-ffedc294-9de3-42c1-9a21-b366c0153ec8#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-sinkt-auf-niedrigsten-stand-seit-2000](https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-sinkt-auf-niedrigsten-stand-seit-2000-a-ee9adb7d-be64-46f5-9c41-5ed1e37a33c1#ref=rss)
-### geschäftsreisen
-
-* [https://www.spiegel.de/wirtschaft/soziales/reisen-deutsche-reisen-so-viel-wie-nie-weniger-geschaeftsreisen-als-vor-der-pandemie](https://www.spiegel.de/wirtschaft/soziales/reisen-deutsche-reisen-so-viel-wie-nie-weniger-geschaeftsreisen-als-vor-der-pandemie-a-ffedc294-9de3-42c1-9a21-b366c0153ec8#ref=rss)
-### pandemie
-
-* [https://www.spiegel.de/wirtschaft/soziales/reisen-deutsche-reisen-so-viel-wie-nie-weniger-geschaeftsreisen-als-vor-der-pandemie](https://www.spiegel.de/wirtschaft/soziales/reisen-deutsche-reisen-so-viel-wie-nie-weniger-geschaeftsreisen-als-vor-der-pandemie-a-ffedc294-9de3-42c1-9a21-b366c0153ec8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/prozess-in-augsburg-kind-schwer-misshandelt-haft-fuer-vater-und-stiefmutter](https://www.spiegel.de/panorama/justiz/prozess-in-augsburg-kind-schwer-misshandelt-haft-fuer-vater-und-stiefmutter-a-6e9df758-f9ba-4039-801e-38515652509b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/meteore-perseiden-sternschnuppen-sind-nachts-zu-sehen](https://www.spiegel.de/wissenschaft/weltall/meteore-perseiden-sternschnuppen-sind-nachts-zu-sehen-a-46f9a159-291b-492c-85d4-3fe73d2e656b#ref=rss)
+* [https://www.spiegel.de/auto/in-helsinki-stirbt-ein-jahr-lang-niemand-im-verkehr](https://www.spiegel.de/auto/in-helsinki-stirbt-ein-jahr-lang-niemand-im-verkehr-a-98114c82-40b0-4014-84a8-97e1425305f7#ref=rss)
+* [https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-drei-so-sagen-sie-ihrer-unsicherheit-hallo](https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-drei-so-sagen-sie-ihrer-unsicherheit-hallo-a-097beea3-c75c-47fe-8f98-3c4155d2af8a#ref=rss)
+* [https://www.spiegel.de/kultur/guns-n-roses-in-wacken-mehr-als-drei-stunden-live-auf-der-buehne-wacken-rekord](https://www.spiegel.de/kultur/guns-n-roses-in-wacken-mehr-als-drei-stunden-live-auf-der-buehne-wacken-rekord-a-e3ad69c0-94f9-4645-a676-b127d74bbaf8#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-entsendet-zwei-atom-u-boote-richtung-russland](https://www.spiegel.de/ausland/donald-trump-entsendet-zwei-atom-u-boote-richtung-russland-a-c57c53a2-5c28-4a9a-aa03-71c6f6de6653#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-wie-donald-trump-versucht-richter-alexandre-de-moraes-zu-erpressen](https://www.spiegel.de/ausland/brasilien-wie-donald-trump-versucht-richter-alexandre-de-moraes-zu-erpressen-a-73d376e6-a80b-4489-a0e3-1547b7bd4e42#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/justiz/prozess-in-augsburg-kind-schwer-misshandelt-haft-fuer-vater-und-stiefmutter](https://www.spiegel.de/panorama/justiz/prozess-in-augsburg-kind-schwer-misshandelt-haft-fuer-vater-und-stiefmutter-a-6e9df758-f9ba-4039-801e-38515652509b#ref=rss)
+* [https://www.spiegel.de/panorama/riedlingen-angehoerige-und-retter-trauern-um-opfer-des-zugungluecks](https://www.spiegel.de/panorama/riedlingen-angehoerige-und-retter-trauern-um-opfer-des-zugungluecks-a-42970fab-3333-466c-bac4-aa4deac9ceab#ref=rss)
+* [https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-drei-so-sagen-sie-ihrer-unsicherheit-hallo](https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-drei-so-sagen-sie-ihrer-unsicherheit-hallo-a-097beea3-c75c-47fe-8f98-3c4155d2af8a#ref=rss)
+* [https://www.spiegel.de/kultur/guns-n-roses-in-wacken-mehr-als-drei-stunden-live-auf-der-buehne-wacken-rekord](https://www.spiegel.de/kultur/guns-n-roses-in-wacken-mehr-als-drei-stunden-live-auf-der-buehne-wacken-rekord-a-e3ad69c0-94f9-4645-a676-b127d74bbaf8#ref=rss)
 ### europa
 
-* [https://www.spiegel.de/wirtschaft/soziales/reisen-deutsche-reisen-so-viel-wie-nie-weniger-geschaeftsreisen-als-vor-der-pandemie](https://www.spiegel.de/wirtschaft/soziales/reisen-deutsche-reisen-so-viel-wie-nie-weniger-geschaeftsreisen-als-vor-der-pandemie-a-ffedc294-9de3-42c1-9a21-b366c0153ec8#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-gefahr-fuer-eu-annaeherung-durch-korruptionspolitik-von-selenskyj](https://www.spiegel.de/ausland/ukraine-gefahr-fuer-eu-annaeherung-durch-korruptionspolitik-von-selenskyj-a-97c1bbfe-569e-4334-9f63-bade3e4edff9#ref=rss)
-### blitz
+* [https://www.spiegel.de/ausland/frankreich-general-thierry-burkhard-warnt-russland-koennte-in-fuenf-jahren-europa-angreifen](https://www.spiegel.de/ausland/frankreich-general-thierry-burkhard-warnt-russland-koennte-in-fuenf-jahren-europa-angreifen-a-f50b2e68-4afd-4865-85d7-09fcfb83f90c#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/digitalisierung-in-europa-wege-zur-abgrenzung-vom-toxischen-tech-nationalismus](https://www.spiegel.de/netzwelt/netzpolitik/digitalisierung-in-europa-wege-zur-abgrenzung-vom-toxischen-tech-nationalismus-a-be4e44a9-9779-4403-9747-c07956c4fa81#ref=rss)
+### rente
 
-* [https://www.spiegel.de/wissenschaft/natur/blitze-rekord-in-den-usa-laengster-je-gemessener-blitz-ist-829-kilometer-lang](https://www.spiegel.de/wissenschaft/natur/blitze-rekord-in-den-usa-laengster-je-gemessener-blitz-ist-829-kilometer-lang-a-e4ad585d-f83d-4d44-b6a2-cfae32791e18#ref=rss)
-### jahr
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wissenschaft/natur/blitze-rekord-in-den-usa-laengster-je-gemessener-blitz-ist-829-kilometer-lang](https://www.spiegel.de/wissenschaft/natur/blitze-rekord-in-den-usa-laengster-je-gemessener-blitz-ist-829-kilometer-lang-a-e4ad585d-f83d-4d44-b6a2-cfae32791e18#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen](https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen-a-a80b3c22-f89f-4ea2-96e6-e2d2acebb74f#ref=rss)
-### welt
+* [https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde](https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde-a-6c8f9cb6-0ee4-4996-b7bc-f5590089b74d#ref=rss)
+* [https://www.spiegel.de/panorama/riedlingen-angehoerige-und-retter-trauern-um-opfer-des-zugungluecks](https://www.spiegel.de/panorama/riedlingen-angehoerige-und-retter-trauern-um-opfer-des-zugungluecks-a-42970fab-3333-466c-bac4-aa4deac9ceab#ref=rss)
+* [https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-drei-so-sagen-sie-ihrer-unsicherheit-hallo](https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-drei-so-sagen-sie-ihrer-unsicherheit-hallo-a-097beea3-c75c-47fe-8f98-3c4155d2af8a#ref=rss)
+### zweiten
 
-* [https://www.spiegel.de/wissenschaft/natur/blitze-rekord-in-den-usa-laengster-je-gemessener-blitz-ist-829-kilometer-lang](https://www.spiegel.de/wissenschaft/natur/blitze-rekord-in-den-usa-laengster-je-gemessener-blitz-ist-829-kilometer-lang-a-e4ad585d-f83d-4d44-b6a2-cfae32791e18#ref=rss)
-* [https://www.spiegel.de/panorama/taylor-swift-wie-der-song-haunted-fuer-einen-fan-zur-warnung-wurde](https://www.spiegel.de/panorama/taylor-swift-wie-der-song-haunted-fuer-einen-fan-zur-warnung-wurde-a-d5462f89-5ea3-40b5-8392-45fb93ec2c4e#ref=rss)
-### bafög
+* [https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-video-neue-serien-und-filme-im-august-2025](https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-video-neue-serien-und-filme-im-august-2025-a-323e37ac-9777-4265-9702-dcbd40f7d4f0#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-femmes-maeva-squiban-holt-zweiten-etappensieg-in-folge-kim-le-court-pienaar-verteidigt-gesamtfuehrung](https://www.spiegel.de/sport/tour-de-france-femmes-maeva-squiban-holt-zweiten-etappensieg-in-folge-kim-le-court-pienaar-verteidigt-gesamtfuehrung-a-27ca9395-44ee-424d-9ead-e5717720b08f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/meteore-perseiden-sternschnuppen-sind-nachts-zu-sehen](https://www.spiegel.de/wissenschaft/weltall/meteore-perseiden-sternschnuppen-sind-nachts-zu-sehen-a-46f9a159-291b-492c-85d4-3fe73d2e656b#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-sinkt-auf-niedrigsten-stand-seit-2000](https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-sinkt-auf-niedrigsten-stand-seit-2000-a-ee9adb7d-be64-46f5-9c41-5ed1e37a33c1#ref=rss)
-### sommerferien
+* [https://www.spiegel.de/ausland/donald-trump-entsendet-zwei-atom-u-boote-richtung-russland](https://www.spiegel.de/ausland/donald-trump-entsendet-zwei-atom-u-boote-richtung-russland-a-c57c53a2-5c28-4a9a-aa03-71c6f6de6653#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-wie-donald-trump-versucht-richter-alexandre-de-moraes-zu-erpressen](https://www.spiegel.de/ausland/brasilien-wie-donald-trump-versucht-richter-alexandre-de-moraes-zu-erpressen-a-73d376e6-a80b-4489-a0e3-1547b7bd4e42#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ehemaliger-us-praesident-aeussert-sich-besorgt-ueber-die-zukunft-der-nation](https://www.spiegel.de/ausland/joe-biden-ehemaliger-us-praesident-aeussert-sich-besorgt-ueber-die-zukunft-der-nation-a-f5ca31b4-1c08-4301-b910-581a5d06d06c#ref=rss)
+### kim
 
-* [https://www.spiegel.de/reise/sommerferien-guenstiger-reisen-aber-wie](https://www.spiegel.de/reise/sommerferien-guenstiger-reisen-aber-wie-a-c86a8d65-df1d-49c7-9010-46ac7b7141b6#ref=rss)
-### günstiger
+* [https://www.spiegel.de/sport/tour-de-france-femmes-maeva-squiban-holt-zweiten-etappensieg-in-folge-kim-le-court-pienaar-verteidigt-gesamtfuehrung](https://www.spiegel.de/sport/tour-de-france-femmes-maeva-squiban-holt-zweiten-etappensieg-in-folge-kim-le-court-pienaar-verteidigt-gesamtfuehrung-a-27ca9395-44ee-424d-9ead-e5717720b08f#ref=rss)
+* [https://www.spiegel.de/kultur/anthony-hopkins-kim-kardashians-face-shapewear-inspiriert-hollywoodstar-zu-parodie-video](https://www.spiegel.de/kultur/anthony-hopkins-kim-kardashians-face-shapewear-inspiriert-hollywoodstar-zu-parodie-video-a-563b87a9-8f67-433e-809e-588ce6e80045#ref=rss)
+### besten
 
-* [https://www.spiegel.de/reise/sommerferien-guenstiger-reisen-aber-wie](https://www.spiegel.de/reise/sommerferien-guenstiger-reisen-aber-wie-a-c86a8d65-df1d-49c7-9010-46ac7b7141b6#ref=rss)
-### teuer
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/meteore-perseiden-sternschnuppen-sind-nachts-zu-sehen](https://www.spiegel.de/wissenschaft/weltall/meteore-perseiden-sternschnuppen-sind-nachts-zu-sehen-a-46f9a159-291b-492c-85d4-3fe73d2e656b#ref=rss)
+### einige
 
-* [https://www.spiegel.de/reise/sommerferien-guenstiger-reisen-aber-wie](https://www.spiegel.de/reise/sommerferien-guenstiger-reisen-aber-wie-a-c86a8d65-df1d-49c7-9010-46ac7b7141b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/cornetto-magnum-nogger-capri-welches-eis-ist-besonders-teuer-geworden](https://www.spiegel.de/wirtschaft/service/cornetto-magnum-nogger-capri-welches-eis-ist-besonders-teuer-geworden-a-b143a74c-ea20-429b-9905-9eba93a8650a#ref=rss)
-### magnum
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde](https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde-a-6c8f9cb6-0ee4-4996-b7bc-f5590089b74d#ref=rss)
+### zeit
 
-* [https://www.spiegel.de/wirtschaft/service/cornetto-magnum-nogger-capri-welches-eis-ist-besonders-teuer-geworden](https://www.spiegel.de/wirtschaft/service/cornetto-magnum-nogger-capri-welches-eis-ist-besonders-teuer-geworden-a-b143a74c-ea20-429b-9905-9eba93a8650a#ref=rss)
-### capri
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/digitalisierung-in-europa-wege-zur-abgrenzung-vom-toxischen-tech-nationalismus](https://www.spiegel.de/netzwelt/netzpolitik/digitalisierung-in-europa-wege-zur-abgrenzung-vom-toxischen-tech-nationalismus-a-be4e44a9-9779-4403-9747-c07956c4fa81#ref=rss)
+### außenminister
 
-* [https://www.spiegel.de/wirtschaft/service/cornetto-magnum-nogger-capri-welches-eis-ist-besonders-teuer-geworden](https://www.spiegel.de/wirtschaft/service/cornetto-magnum-nogger-capri-welches-eis-ist-besonders-teuer-geworden-a-b143a74c-ea20-429b-9905-9eba93a8650a#ref=rss)
-### minuten
+* [https://www.spiegel.de/politik/deutschland/reise-des-aussenministers-nach-nahost-wadephuls-worte](https://www.spiegel.de/politik/deutschland/reise-des-aussenministers-nach-nahost-wadephuls-worte-a-4fea7069-bda3-445d-8768-16651a62eeef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gaza-airdrops-buergergeld-eis-preise](https://www.spiegel.de/politik/deutschland/news-des-tages-gaza-airdrops-buergergeld-eis-preise-a-7628cf08-51a6-4991-b329-b38bf6668d52#ref=rss)
+### wadephul
 
-* [https://www.spiegel.de/wirtschaft/service/cornetto-magnum-nogger-capri-welches-eis-ist-besonders-teuer-geworden](https://www.spiegel.de/wirtschaft/service/cornetto-magnum-nogger-capri-welches-eis-ist-besonders-teuer-geworden-a-b143a74c-ea20-429b-9905-9eba93a8650a#ref=rss)
-### starten
+* [https://www.spiegel.de/politik/deutschland/reise-des-aussenministers-nach-nahost-wadephuls-worte](https://www.spiegel.de/politik/deutschland/reise-des-aussenministers-nach-nahost-wadephuls-worte-a-4fea7069-bda3-445d-8768-16651a62eeef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gaza-airdrops-buergergeld-eis-preise](https://www.spiegel.de/politik/deutschland/news-des-tages-gaza-airdrops-buergergeld-eis-preise-a-7628cf08-51a6-4991-b329-b38bf6668d52#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen](https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen-a-a80b3c22-f89f-4ea2-96e6-e2d2acebb74f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bayern-thaler-aus-gold-kommt-im-herbst-und-soll-internationale-anleger-anziehen](https://www.spiegel.de/wirtschaft/bayern-thaler-aus-gold-kommt-im-herbst-und-soll-internationale-anleger-anziehen-a-e2e7db47-dcf8-4c81-b790-5db69f15816c#ref=rss)
-### internationale
+* [https://www.spiegel.de/wissenschaft/weltall/meteore-perseiden-sternschnuppen-sind-nachts-zu-sehen](https://www.spiegel.de/wissenschaft/weltall/meteore-perseiden-sternschnuppen-sind-nachts-zu-sehen-a-46f9a159-291b-492c-85d4-3fe73d2e656b#ref=rss)
+### viele
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen](https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-junge-menschen-wollen-sich-streitkraeften-anschliessen-a-a80b3c22-f89f-4ea2-96e6-e2d2acebb74f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bayern-thaler-aus-gold-kommt-im-herbst-und-soll-internationale-anleger-anziehen](https://www.spiegel.de/wirtschaft/bayern-thaler-aus-gold-kommt-im-herbst-und-soll-internationale-anleger-anziehen-a-e2e7db47-dcf8-4c81-b790-5db69f15816c#ref=rss)
-### 1860
+* [https://www.spiegel.de/wissenschaft/weltall/meteore-perseiden-sternschnuppen-sind-nachts-zu-sehen](https://www.spiegel.de/wissenschaft/weltall/meteore-perseiden-sternschnuppen-sind-nachts-zu-sehen-a-46f9a159-291b-492c-85d4-3fe73d2e656b#ref=rss)
+* [https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-drei-so-sagen-sie-ihrer-unsicherheit-hallo](https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-drei-so-sagen-sie-ihrer-unsicherheit-hallo-a-097beea3-c75c-47fe-8f98-3c4155d2af8a#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/infektion-durch-zecken-was-sie-ueber-borreliose-wissen-muessen](https://www.spiegel.de/gesundheit/diagnose/infektion-durch-zecken-was-sie-ueber-borreliose-wissen-muessen-a-a0557c25-c5e6-4e3d-b1ff-7ae4aaebc658#ref=rss)
+### neue
 
-* [https://www.spiegel.de/sport/fussball/fussball-1860-muenchen-zwischen-investorenchaos-und-aufstiegstraum](https://www.spiegel.de/sport/fussball/fussball-1860-muenchen-zwischen-investorenchaos-und-aufstiegstraum-a-1dbcb306-1536-4035-acdd-b2d5fc8d2bd7#ref=rss)
-### taylor
+* [https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-video-neue-serien-und-filme-im-august-2025](https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-video-neue-serien-und-filme-im-august-2025-a-323e37ac-9777-4265-9702-dcbd40f7d4f0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/digitalministerium-der-aufbau-des-neuen-ressorts-laeuft-wie-die-digitalisierung-schleppend](https://www.spiegel.de/politik/deutschland/digitalministerium-der-aufbau-des-neuen-ressorts-laeuft-wie-die-digitalisierung-schleppend-a-94c27330-81ba-4561-b353-baa68d9803ee#ref=rss)
+### august
 
-* [https://www.spiegel.de/panorama/taylor-swift-wie-der-song-haunted-fuer-einen-fan-zur-warnung-wurde](https://www.spiegel.de/panorama/taylor-swift-wie-der-song-haunted-fuer-einen-fan-zur-warnung-wurde-a-d5462f89-5ea3-40b5-8392-45fb93ec2c4e#ref=rss)
-### swift
+* [https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-video-neue-serien-und-filme-im-august-2025](https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-video-neue-serien-und-filme-im-august-2025-a-323e37ac-9777-4265-9702-dcbd40f7d4f0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/meteore-perseiden-sternschnuppen-sind-nachts-zu-sehen](https://www.spiegel.de/wissenschaft/weltall/meteore-perseiden-sternschnuppen-sind-nachts-zu-sehen-a-46f9a159-291b-492c-85d4-3fe73d2e656b#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/panorama/taylor-swift-wie-der-song-haunted-fuer-einen-fan-zur-warnung-wurde](https://www.spiegel.de/panorama/taylor-swift-wie-der-song-haunted-fuer-einen-fan-zur-warnung-wurde-a-d5462f89-5ea3-40b5-8392-45fb93ec2c4e#ref=rss)
-### song
+* [https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-video-neue-serien-und-filme-im-august-2025](https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-video-neue-serien-und-filme-im-august-2025-a-323e37ac-9777-4265-9702-dcbd40f7d4f0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/digitalministerium-der-aufbau-des-neuen-ressorts-laeuft-wie-die-digitalisierung-schleppend](https://www.spiegel.de/politik/deutschland/digitalministerium-der-aufbau-des-neuen-ressorts-laeuft-wie-die-digitalisierung-schleppend-a-94c27330-81ba-4561-b353-baa68d9803ee#ref=rss)
+### diesen
 
-* [https://www.spiegel.de/panorama/taylor-swift-wie-der-song-haunted-fuer-einen-fan-zur-warnung-wurde](https://www.spiegel.de/panorama/taylor-swift-wie-der-song-haunted-fuer-einen-fan-zur-warnung-wurde-a-d5462f89-5ea3-40b5-8392-45fb93ec2c4e#ref=rss)
-### haunted
+* [https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-video-neue-serien-und-filme-im-august-2025](https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-video-neue-serien-und-filme-im-august-2025-a-323e37ac-9777-4265-9702-dcbd40f7d4f0#ref=rss)
+* [https://www.spiegel.de/stil/gartenparty-im-sommer-diese-weine-empfiehlt-unser-experte](https://www.spiegel.de/stil/gartenparty-im-sommer-diese-weine-empfiehlt-unser-experte-a-083c69a8-1f44-4a02-8625-139feb9bf64c#ref=rss)
+### eughentscheidung
 
-* [https://www.spiegel.de/panorama/taylor-swift-wie-der-song-haunted-fuer-einen-fan-zur-warnung-wurde](https://www.spiegel.de/panorama/taylor-swift-wie-der-song-haunted-fuer-einen-fan-zur-warnung-wurde-a-d5462f89-5ea3-40b5-8392-45fb93ec2c4e#ref=rss)
-### tages
+* [https://www.spiegel.de/ausland/giorgia-meloni-kritisiert-eugh-entscheidung-zu-migrationspolitik](https://www.spiegel.de/ausland/giorgia-meloni-kritisiert-eugh-entscheidung-zu-migrationspolitik-a-c57181ae-0000-4eae-a1c9-8e33cbd15e55#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/taylor-swift-wie-der-song-haunted-fuer-einen-fan-zur-warnung-wurde](https://www.spiegel.de/panorama/taylor-swift-wie-der-song-haunted-fuer-einen-fan-zur-warnung-wurde-a-d5462f89-5ea3-40b5-8392-45fb93ec2c4e#ref=rss)
-* [https://www.spiegel.de/panorama/augenblicke-die-bilder-des-tages-im-juli-2025](https://www.spiegel.de/panorama/augenblicke-die-bilder-des-tages-im-juli-2025-a-ef3312c6-90ed-4507-a764-2f479fa29fa7#ref=rss)
-### teufel
+* [https://www.spiegel.de/ausland/donald-trump-entsendet-zwei-atom-u-boote-richtung-russland](https://www.spiegel.de/ausland/donald-trump-entsendet-zwei-atom-u-boote-richtung-russland-a-c57c53a2-5c28-4a9a-aa03-71c6f6de6653#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-wie-donald-trump-versucht-richter-alexandre-de-moraes-zu-erpressen](https://www.spiegel.de/ausland/brasilien-wie-donald-trump-versucht-richter-alexandre-de-moraes-zu-erpressen-a-73d376e6-a80b-4489-a0e3-1547b7bd4e42#ref=rss)
+### russland
 
-* [https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-quiz-wie-gut-kennen-sie-den-filmklassiker](https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-quiz-wie-gut-kennen-sie-den-filmklassiker-a-f898167e-066f-408d-aa93-a000fca1d63d#ref=rss)
-### trägt
+* [https://www.spiegel.de/ausland/donald-trump-entsendet-zwei-atom-u-boote-richtung-russland](https://www.spiegel.de/ausland/donald-trump-entsendet-zwei-atom-u-boote-richtung-russland-a-c57c53a2-5c28-4a9a-aa03-71c6f6de6653#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-general-thierry-burkhard-warnt-russland-koennte-in-fuenf-jahren-europa-angreifen](https://www.spiegel.de/ausland/frankreich-general-thierry-burkhard-warnt-russland-koennte-in-fuenf-jahren-europa-angreifen-a-f50b2e68-4afd-4865-85d7-09fcfb83f90c#ref=rss)
+### expräsident
 
-* [https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-quiz-wie-gut-kennen-sie-den-filmklassiker](https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-quiz-wie-gut-kennen-sie-den-filmklassiker-a-f898167e-066f-408d-aa93-a000fca1d63d#ref=rss)
-### gold
+* [https://www.spiegel.de/ausland/donald-trump-entsendet-zwei-atom-u-boote-richtung-russland](https://www.spiegel.de/ausland/donald-trump-entsendet-zwei-atom-u-boote-richtung-russland-a-c57c53a2-5c28-4a9a-aa03-71c6f6de6653#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ehemaliger-us-praesident-aeussert-sich-besorgt-ueber-die-zukunft-der-nation](https://www.spiegel.de/ausland/joe-biden-ehemaliger-us-praesident-aeussert-sich-besorgt-ueber-die-zukunft-der-nation-a-f5ca31b4-1c08-4301-b910-581a5d06d06c#ref=rss)
+### digitalisierung
 
-* [https://www.spiegel.de/wirtschaft/bayern-thaler-aus-gold-kommt-im-herbst-und-soll-internationale-anleger-anziehen](https://www.spiegel.de/wirtschaft/bayern-thaler-aus-gold-kommt-im-herbst-und-soll-internationale-anleger-anziehen-a-e2e7db47-dcf8-4c81-b790-5db69f15816c#ref=rss)
-### herbst
+* [https://www.spiegel.de/politik/deutschland/digitalministerium-der-aufbau-des-neuen-ressorts-laeuft-wie-die-digitalisierung-schleppend](https://www.spiegel.de/politik/deutschland/digitalministerium-der-aufbau-des-neuen-ressorts-laeuft-wie-die-digitalisierung-schleppend-a-94c27330-81ba-4561-b353-baa68d9803ee#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/digitalisierung-in-europa-wege-zur-abgrenzung-vom-toxischen-tech-nationalismus](https://www.spiegel.de/netzwelt/netzpolitik/digitalisierung-in-europa-wege-zur-abgrenzung-vom-toxischen-tech-nationalismus-a-be4e44a9-9779-4403-9747-c07956c4fa81#ref=rss)
+### eigentlich
 
-* [https://www.spiegel.de/wirtschaft/bayern-thaler-aus-gold-kommt-im-herbst-und-soll-internationale-anleger-anziehen](https://www.spiegel.de/wirtschaft/bayern-thaler-aus-gold-kommt-im-herbst-und-soll-internationale-anleger-anziehen-a-e2e7db47-dcf8-4c81-b790-5db69f15816c#ref=rss)
-### anleger
+* [https://www.spiegel.de/politik/deutschland/digitalministerium-der-aufbau-des-neuen-ressorts-laeuft-wie-die-digitalisierung-schleppend](https://www.spiegel.de/politik/deutschland/digitalministerium-der-aufbau-des-neuen-ressorts-laeuft-wie-die-digitalisierung-schleppend-a-94c27330-81ba-4561-b353-baa68d9803ee#ref=rss)
+* [https://www.spiegel.de/auto/muenchen-mvg-rad-stellt-sein-staedtisches-leihrad-angebot-ein](https://www.spiegel.de/auto/muenchen-mvg-rad-stellt-sein-staedtisches-leihrad-angebot-ein-a-9600013a-851e-4240-b458-5bb7769b1847#ref=rss)
+### haus
 
-* [https://www.spiegel.de/wirtschaft/bayern-thaler-aus-gold-kommt-im-herbst-und-soll-internationale-anleger-anziehen](https://www.spiegel.de/wirtschaft/bayern-thaler-aus-gold-kommt-im-herbst-und-soll-internationale-anleger-anziehen-a-e2e7db47-dcf8-4c81-b790-5db69f15816c#ref=rss)
-### überwachen
+* [https://www.spiegel.de/politik/deutschland/digitalministerium-der-aufbau-des-neuen-ressorts-laeuft-wie-die-digitalisierung-schleppend](https://www.spiegel.de/politik/deutschland/digitalministerium-der-aufbau-des-neuen-ressorts-laeuft-wie-die-digitalisierung-schleppend-a-94c27330-81ba-4561-b353-baa68d9803ee#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ehemaliger-us-praesident-aeussert-sich-besorgt-ueber-die-zukunft-der-nation](https://www.spiegel.de/ausland/joe-biden-ehemaliger-us-praesident-aeussert-sich-besorgt-ueber-die-zukunft-der-nation-a-f5ca31b4-1c08-4301-b910-581a5d06d06c#ref=rss)
+### brasilien
 
-* [https://www.spiegel.de/auto/carsharing-frust-miles-und-co-ueberwachen-fahrer-immer-genauer](https://www.spiegel.de/auto/carsharing-frust-miles-und-co-ueberwachen-fahrer-immer-genauer-a-c449a4aa-e518-4986-a80f-a781109cd6fb#ref=rss)
-### fahrer
+* [https://www.spiegel.de/ausland/brasilien-wie-donald-trump-versucht-richter-alexandre-de-moraes-zu-erpressen](https://www.spiegel.de/ausland/brasilien-wie-donald-trump-versucht-richter-alexandre-de-moraes-zu-erpressen-a-73d376e6-a80b-4489-a0e3-1547b7bd4e42#ref=rss)
+### richter
 
-* [https://www.spiegel.de/auto/carsharing-frust-miles-und-co-ueberwachen-fahrer-immer-genauer](https://www.spiegel.de/auto/carsharing-frust-miles-und-co-ueberwachen-fahrer-immer-genauer-a-c449a4aa-e518-4986-a80f-a781109cd6fb#ref=rss)
-### cartoons
+* [https://www.spiegel.de/ausland/brasilien-wie-donald-trump-versucht-richter-alexandre-de-moraes-zu-erpressen](https://www.spiegel.de/ausland/brasilien-wie-donald-trump-versucht-richter-alexandre-de-moraes-zu-erpressen-a-73d376e6-a80b-4489-a0e3-1547b7bd4e42#ref=rss)
+### de
 
-* [https://www.spiegel.de/kultur/cartoons-im-juli-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/cartoons-im-juli-von-chappatte-thomas-plassmann-klaus-stuttmann-a-d825a41e-9cd2-488c-b443-d816178e2278#ref=rss)
-### chappatte
+* [https://www.spiegel.de/ausland/brasilien-wie-donald-trump-versucht-richter-alexandre-de-moraes-zu-erpressen](https://www.spiegel.de/ausland/brasilien-wie-donald-trump-versucht-richter-alexandre-de-moraes-zu-erpressen-a-73d376e6-a80b-4489-a0e3-1547b7bd4e42#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-femmes-maeva-squiban-holt-zweiten-etappensieg-in-folge-kim-le-court-pienaar-verteidigt-gesamtfuehrung](https://www.spiegel.de/sport/tour-de-france-femmes-maeva-squiban-holt-zweiten-etappensieg-in-folge-kim-le-court-pienaar-verteidigt-gesamtfuehrung-a-27ca9395-44ee-424d-9ead-e5717720b08f#ref=rss)
+### sanktionen
 
-* [https://www.spiegel.de/kultur/cartoons-im-juli-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/cartoons-im-juli-von-chappatte-thomas-plassmann-klaus-stuttmann-a-d825a41e-9cd2-488c-b443-d816178e2278#ref=rss)
-### thomas
+* [https://www.spiegel.de/ausland/brasilien-wie-donald-trump-versucht-richter-alexandre-de-moraes-zu-erpressen](https://www.spiegel.de/ausland/brasilien-wie-donald-trump-versucht-richter-alexandre-de-moraes-zu-erpressen-a-73d376e6-a80b-4489-a0e3-1547b7bd4e42#ref=rss)
+* [https://www.spiegel.de/ausland/julia-kloeckner-wegen-dieser-russin-verliess-die-bundestagspraesidentin-einen-konferenzsaal](https://www.spiegel.de/ausland/julia-kloeckner-wegen-dieser-russin-verliess-die-bundestagspraesidentin-einen-konferenzsaal-a-008f9e84-d37c-4dab-8bef-fa8209bceab0#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/kultur/cartoons-im-juli-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/cartoons-im-juli-von-chappatte-thomas-plassmann-klaus-stuttmann-a-d825a41e-9cd2-488c-b443-d816178e2278#ref=rss)
-### plaßmann
+* [https://www.spiegel.de/ausland/frankreich-general-thierry-burkhard-warnt-russland-koennte-in-fuenf-jahren-europa-angreifen](https://www.spiegel.de/ausland/frankreich-general-thierry-burkhard-warnt-russland-koennte-in-fuenf-jahren-europa-angreifen-a-f50b2e68-4afd-4865-85d7-09fcfb83f90c#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/kultur/cartoons-im-juli-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/cartoons-im-juli-von-chappatte-thomas-plassmann-klaus-stuttmann-a-d825a41e-9cd2-488c-b443-d816178e2278#ref=rss)
-### klaus
+* [https://www.spiegel.de/ausland/frankreich-general-thierry-burkhard-warnt-russland-koennte-in-fuenf-jahren-europa-angreifen](https://www.spiegel.de/ausland/frankreich-general-thierry-burkhard-warnt-russland-koennte-in-fuenf-jahren-europa-angreifen-a-f50b2e68-4afd-4865-85d7-09fcfb83f90c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/prozess-in-augsburg-kind-schwer-misshandelt-haft-fuer-vater-und-stiefmutter](https://www.spiegel.de/panorama/justiz/prozess-in-augsburg-kind-schwer-misshandelt-haft-fuer-vater-und-stiefmutter-a-6e9df758-f9ba-4039-801e-38515652509b#ref=rss)
+### gewinnen
 
-* [https://www.spiegel.de/kultur/cartoons-im-juli-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/cartoons-im-juli-von-chappatte-thomas-plassmann-klaus-stuttmann-a-d825a41e-9cd2-488c-b443-d816178e2278#ref=rss)
-### stuttmann
+* [https://www.spiegel.de/ausland/frankreich-general-thierry-burkhard-warnt-russland-koennte-in-fuenf-jahren-europa-angreifen](https://www.spiegel.de/ausland/frankreich-general-thierry-burkhard-warnt-russland-koennte-in-fuenf-jahren-europa-angreifen-a-f50b2e68-4afd-4865-85d7-09fcfb83f90c#ref=rss)
+* [https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-drei-so-sagen-sie-ihrer-unsicherheit-hallo](https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-drei-so-sagen-sie-ihrer-unsicherheit-hallo-a-097beea3-c75c-47fe-8f98-3c4155d2af8a#ref=rss)
+### vater
 
-* [https://www.spiegel.de/kultur/cartoons-im-juli-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/cartoons-im-juli-von-chappatte-thomas-plassmann-klaus-stuttmann-a-d825a41e-9cd2-488c-b443-d816178e2278#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/prozess-in-augsburg-kind-schwer-misshandelt-haft-fuer-vater-und-stiefmutter](https://www.spiegel.de/panorama/justiz/prozess-in-augsburg-kind-schwer-misshandelt-haft-fuer-vater-und-stiefmutter-a-6e9df758-f9ba-4039-801e-38515652509b#ref=rss)
+### stiefmutter
+
+* [https://www.spiegel.de/panorama/justiz/prozess-in-augsburg-kind-schwer-misshandelt-haft-fuer-vater-und-stiefmutter](https://www.spiegel.de/panorama/justiz/prozess-in-augsburg-kind-schwer-misshandelt-haft-fuer-vater-und-stiefmutter-a-6e9df758-f9ba-4039-801e-38515652509b#ref=rss)
+### maëva
+
+* [https://www.spiegel.de/sport/tour-de-france-femmes-maeva-squiban-holt-zweiten-etappensieg-in-folge-kim-le-court-pienaar-verteidigt-gesamtfuehrung](https://www.spiegel.de/sport/tour-de-france-femmes-maeva-squiban-holt-zweiten-etappensieg-in-folge-kim-le-court-pienaar-verteidigt-gesamtfuehrung-a-27ca9395-44ee-424d-9ead-e5717720b08f#ref=rss)
+### squiban
+
+* [https://www.spiegel.de/sport/tour-de-france-femmes-maeva-squiban-holt-zweiten-etappensieg-in-folge-kim-le-court-pienaar-verteidigt-gesamtfuehrung](https://www.spiegel.de/sport/tour-de-france-femmes-maeva-squiban-holt-zweiten-etappensieg-in-folge-kim-le-court-pienaar-verteidigt-gesamtfuehrung-a-27ca9395-44ee-424d-9ead-e5717720b08f#ref=rss)
+### bogner
+
+* [https://www.spiegel.de/wirtschaft/bogner-katjes-erwirbt-mehrheit-an-modehersteller-fuer-sportbekleidung](https://www.spiegel.de/wirtschaft/bogner-katjes-erwirbt-mehrheit-an-modehersteller-fuer-sportbekleidung-a-90fe56c3-afdc-400a-93a4-34b46fd39511#ref=rss)
+### frugalismus
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### realistisch
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### traum
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### 40
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### ausgesorgt
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### alter
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### frugalisten
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### möglichst
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### früh
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### sparfüchse
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### entscheidende
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### phase
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### realitätscheck
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### spiegelfinanzexperte
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### henning
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### jauernig
+
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-22b54f7f-26fb-44be-aca7-d385702637d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40](https://www.spiegel.de/wirtschaft/frugalismus-wie-realistisch-ist-der-traum-von-der-rente-mit-40-a-1297b584-3bdb-459d-8b2c-0ad8c9f8e08a#ref=rss)
+### anthony
+
+* [https://www.spiegel.de/kultur/anthony-hopkins-kim-kardashians-face-shapewear-inspiriert-hollywoodstar-zu-parodie-video](https://www.spiegel.de/kultur/anthony-hopkins-kim-kardashians-face-shapewear-inspiriert-hollywoodstar-zu-parodie-video-a-563b87a9-8f67-433e-809e-588ce6e80045#ref=rss)
+### hopkins
+
+* [https://www.spiegel.de/kultur/anthony-hopkins-kim-kardashians-face-shapewear-inspiriert-hollywoodstar-zu-parodie-video](https://www.spiegel.de/kultur/anthony-hopkins-kim-kardashians-face-shapewear-inspiriert-hollywoodstar-zu-parodie-video-a-563b87a9-8f67-433e-809e-588ce6e80045#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/digitalisierung-in-europa-wege-zur-abgrenzung-vom-toxischen-tech-nationalismus](https://www.spiegel.de/netzwelt/netzpolitik/digitalisierung-in-europa-wege-zur-abgrenzung-vom-toxischen-tech-nationalismus-a-be4e44a9-9779-4403-9747-c07956c4fa81#ref=rss)
+* [https://www.spiegel.de/auto/in-helsinki-stirbt-ein-jahr-lang-niemand-im-verkehr](https://www.spiegel.de/auto/in-helsinki-stirbt-ein-jahr-lang-niemand-im-verkehr-a-98114c82-40b0-4014-84a8-97e1425305f7#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/digitalisierung-in-europa-wege-zur-abgrenzung-vom-toxischen-tech-nationalismus](https://www.spiegel.de/netzwelt/netzpolitik/digitalisierung-in-europa-wege-zur-abgrenzung-vom-toxischen-tech-nationalismus-a-be4e44a9-9779-4403-9747-c07956c4fa81#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ehemaliger-us-praesident-aeussert-sich-besorgt-ueber-die-zukunft-der-nation](https://www.spiegel.de/ausland/joe-biden-ehemaliger-us-praesident-aeussert-sich-besorgt-ueber-die-zukunft-der-nation-a-f5ca31b4-1c08-4301-b910-581a5d06d06c#ref=rss)
+### new
+
+* [https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde](https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde-a-6c8f9cb6-0ee4-4996-b7bc-f5590089b74d#ref=rss)
+### york
+
+* [https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde](https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde-a-6c8f9cb6-0ee4-4996-b7bc-f5590089b74d#ref=rss)
+### city
+
+* [https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde](https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde-a-6c8f9cb6-0ee4-4996-b7bc-f5590089b74d#ref=rss)
+### überschwemmungen
+
+* [https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde](https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde-a-6c8f9cb6-0ee4-4996-b7bc-f5590089b74d#ref=rss)
+### teilen
+
+* [https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde](https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde-a-6c8f9cb6-0ee4-4996-b7bc-f5590089b74d#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde](https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde-a-6c8f9cb6-0ee4-4996-b7bc-f5590089b74d#ref=rss)
+* [https://www.spiegel.de/auto/in-helsinki-stirbt-ein-jahr-lang-niemand-im-verkehr](https://www.spiegel.de/auto/in-helsinki-stirbt-ein-jahr-lang-niemand-im-verkehr-a-98114c82-40b0-4014-84a8-97e1425305f7#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde](https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde-a-6c8f9cb6-0ee4-4996-b7bc-f5590089b74d#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde](https://www.spiegel.de/ausland/new-york-city-ueberschwemmungen-in-teilen-der-stadt-regen-bis-tief-unter-die-erde-a-6c8f9cb6-0ee4-4996-b7bc-f5590089b74d#ref=rss)
+* [https://www.spiegel.de/stil/gartenparty-im-sommer-diese-weine-empfiehlt-unser-experte](https://www.spiegel.de/stil/gartenparty-im-sommer-diese-weine-empfiehlt-unser-experte-a-083c69a8-1f44-4a02-8625-139feb9bf64c#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/joe-biden-ehemaliger-us-praesident-aeussert-sich-besorgt-ueber-die-zukunft-der-nation](https://www.spiegel.de/ausland/joe-biden-ehemaliger-us-praesident-aeussert-sich-besorgt-ueber-die-zukunft-der-nation-a-f5ca31b4-1c08-4301-b910-581a5d06d06c#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/joe-biden-ehemaliger-us-praesident-aeussert-sich-besorgt-ueber-die-zukunft-der-nation](https://www.spiegel.de/ausland/joe-biden-ehemaliger-us-praesident-aeussert-sich-besorgt-ueber-die-zukunft-der-nation-a-f5ca31b4-1c08-4301-b910-581a5d06d06c#ref=rss)
+### besorgt
+
+* [https://www.spiegel.de/ausland/joe-biden-ehemaliger-us-praesident-aeussert-sich-besorgt-ueber-die-zukunft-der-nation](https://www.spiegel.de/ausland/joe-biden-ehemaliger-us-praesident-aeussert-sich-besorgt-ueber-die-zukunft-der-nation-a-f5ca31b4-1c08-4301-b910-581a5d06d06c#ref=rss)
+### brandstelle
+
+* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-zweite-brandstelle-auf-nord-sued-strecke-zwischen-duesseldorf-und-duisburg-entdeckt](https://www.spiegel.de/panorama/justiz/deutsche-bahn-zweite-brandstelle-auf-nord-sued-strecke-zwischen-duesseldorf-und-duisburg-entdeckt-a-272d551b-8868-4668-93e2-14cf9552d075#ref=rss)
+### düsseldorf
+
+* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-zweite-brandstelle-auf-nord-sued-strecke-zwischen-duesseldorf-und-duisburg-entdeckt](https://www.spiegel.de/panorama/justiz/deutsche-bahn-zweite-brandstelle-auf-nord-sued-strecke-zwischen-duesseldorf-und-duisburg-entdeckt-a-272d551b-8868-4668-93e2-14cf9552d075#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/panorama/riedlingen-angehoerige-und-retter-trauern-um-opfer-des-zugungluecks](https://www.spiegel.de/panorama/riedlingen-angehoerige-und-retter-trauern-um-opfer-des-zugungluecks-a-42970fab-3333-466c-bac4-aa4deac9ceab#ref=rss)
+### israel
+
+* [https://www.spiegel.de/politik/deutschland/reise-des-aussenministers-nach-nahost-wadephuls-worte](https://www.spiegel.de/politik/deutschland/reise-des-aussenministers-nach-nahost-wadephuls-worte-a-4fea7069-bda3-445d-8768-16651a62eeef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gaza-airdrops-buergergeld-eis-preise](https://www.spiegel.de/politik/deutschland/news-des-tages-gaza-airdrops-buergergeld-eis-preise-a-7628cf08-51a6-4991-b329-b38bf6668d52#ref=rss)
+### johann
+
+* [https://www.spiegel.de/politik/deutschland/reise-des-aussenministers-nach-nahost-wadephuls-worte](https://www.spiegel.de/politik/deutschland/reise-des-aussenministers-nach-nahost-wadephuls-worte-a-4fea7069-bda3-445d-8768-16651a62eeef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gaza-airdrops-buergergeld-eis-preise](https://www.spiegel.de/politik/deutschland/news-des-tages-gaza-airdrops-buergergeld-eis-preise-a-7628cf08-51a6-4991-b329-b38bf6668d52#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/reise-des-aussenministers-nach-nahost-wadephuls-worte](https://www.spiegel.de/politik/deutschland/reise-des-aussenministers-nach-nahost-wadephuls-worte-a-4fea7069-bda3-445d-8768-16651a62eeef#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/infektion-durch-zecken-was-sie-ueber-borreliose-wissen-muessen](https://www.spiegel.de/gesundheit/diagnose/infektion-durch-zecken-was-sie-ueber-borreliose-wissen-muessen-a-a0557c25-c5e6-4e3d-b1ff-7ae4aaebc658#ref=rss)
+### meteore
+
+* [https://www.spiegel.de/wissenschaft/weltall/meteore-perseiden-sternschnuppen-sind-nachts-zu-sehen](https://www.spiegel.de/wissenschaft/weltall/meteore-perseiden-sternschnuppen-sind-nachts-zu-sehen-a-46f9a159-291b-492c-85d4-3fe73d2e656b#ref=rss)
+### derzeit
+
+* [https://www.spiegel.de/wissenschaft/weltall/meteore-perseiden-sternschnuppen-sind-nachts-zu-sehen](https://www.spiegel.de/wissenschaft/weltall/meteore-perseiden-sternschnuppen-sind-nachts-zu-sehen-a-46f9a159-291b-492c-85d4-3fe73d2e656b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-schwester-cheyenne-hat-ihn-auf-ihrem-bauernhof-aufgenommen](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-schwester-cheyenne-hat-ihn-auf-ihrem-bauernhof-aufgenommen-a-2450af34-eb7a-47bc-9249-8904d7e0580f#ref=rss)
+### ganzen
+
+* [https://www.spiegel.de/auto/in-helsinki-stirbt-ein-jahr-lang-niemand-im-verkehr](https://www.spiegel.de/auto/in-helsinki-stirbt-ein-jahr-lang-niemand-im-verkehr-a-98114c82-40b0-4014-84a8-97e1425305f7#ref=rss)
+* [https://www.spiegel.de/stil/gartenparty-im-sommer-diese-weine-empfiehlt-unser-experte](https://www.spiegel.de/stil/gartenparty-im-sommer-diese-weine-empfiehlt-unser-experte-a-083c69a8-1f44-4a02-8625-139feb9bf64c#ref=rss)
+### unsicherheit
+
+* [https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-drei-so-sagen-sie-ihrer-unsicherheit-hallo](https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-drei-so-sagen-sie-ihrer-unsicherheit-hallo-a-097beea3-c75c-47fe-8f98-3c4155d2af8a#ref=rss)
+### flughafen
+
+* [https://www.spiegel.de/wirtschaft/flughafen-london-heathrow-ausbauplaene-fuer-57-milliarden-euro-sorgen-fuer-kritik](https://www.spiegel.de/wirtschaft/flughafen-london-heathrow-ausbauplaene-fuer-57-milliarden-euro-sorgen-fuer-kritik-a-0cbda912-6c7f-4d87-8943-2a0c5af2f086#ref=rss)
+### london
+
+* [https://www.spiegel.de/wirtschaft/flughafen-london-heathrow-ausbauplaene-fuer-57-milliarden-euro-sorgen-fuer-kritik](https://www.spiegel.de/wirtschaft/flughafen-london-heathrow-ausbauplaene-fuer-57-milliarden-euro-sorgen-fuer-kritik-a-0cbda912-6c7f-4d87-8943-2a0c5af2f086#ref=rss)
+### heathrow
+
+* [https://www.spiegel.de/wirtschaft/flughafen-london-heathrow-ausbauplaene-fuer-57-milliarden-euro-sorgen-fuer-kritik](https://www.spiegel.de/wirtschaft/flughafen-london-heathrow-ausbauplaene-fuer-57-milliarden-euro-sorgen-fuer-kritik-a-0cbda912-6c7f-4d87-8943-2a0c5af2f086#ref=rss)
+### 57
+
+* [https://www.spiegel.de/wirtschaft/flughafen-london-heathrow-ausbauplaene-fuer-57-milliarden-euro-sorgen-fuer-kritik](https://www.spiegel.de/wirtschaft/flughafen-london-heathrow-ausbauplaene-fuer-57-milliarden-euro-sorgen-fuer-kritik-a-0cbda912-6c7f-4d87-8943-2a0c5af2f086#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/flughafen-london-heathrow-ausbauplaene-fuer-57-milliarden-euro-sorgen-fuer-kritik](https://www.spiegel.de/wirtschaft/flughafen-london-heathrow-ausbauplaene-fuer-57-milliarden-euro-sorgen-fuer-kritik-a-0cbda912-6c7f-4d87-8943-2a0c5af2f086#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/flughafen-london-heathrow-ausbauplaene-fuer-57-milliarden-euro-sorgen-fuer-kritik](https://www.spiegel.de/wirtschaft/flughafen-london-heathrow-ausbauplaene-fuer-57-milliarden-euro-sorgen-fuer-kritik-a-0cbda912-6c7f-4d87-8943-2a0c5af2f086#ref=rss)
+### jimi
+
+* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-schwester-cheyenne-hat-ihn-auf-ihrem-bauernhof-aufgenommen](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-schwester-cheyenne-hat-ihn-auf-ihrem-bauernhof-aufgenommen-a-2450af34-eb7a-47bc-9249-8904d7e0580f#ref=rss)
+### blue
+
+* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-schwester-cheyenne-hat-ihn-auf-ihrem-bauernhof-aufgenommen](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-schwester-cheyenne-hat-ihn-auf-ihrem-bauernhof-aufgenommen-a-2450af34-eb7a-47bc-9249-8904d7e0580f#ref=rss)
+### ochsenknecht
+
+* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-schwester-cheyenne-hat-ihn-auf-ihrem-bauernhof-aufgenommen](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-schwester-cheyenne-hat-ihn-auf-ihrem-bauernhof-aufgenommen-a-2450af34-eb7a-47bc-9249-8904d7e0580f#ref=rss)
+### schwester
+
+* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-schwester-cheyenne-hat-ihn-auf-ihrem-bauernhof-aufgenommen](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-schwester-cheyenne-hat-ihn-auf-ihrem-bauernhof-aufgenommen-a-2450af34-eb7a-47bc-9249-8904d7e0580f#ref=rss)
+### cheyenne
+
+* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-schwester-cheyenne-hat-ihn-auf-ihrem-bauernhof-aufgenommen](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-schwester-cheyenne-hat-ihn-auf-ihrem-bauernhof-aufgenommen-a-2450af34-eb7a-47bc-9249-8904d7e0580f#ref=rss)
+### film
+
+* [https://www.spiegel.de/kultur/ost-quote-fuer-film-und-tv-berechtigt-oder-weinerlich](https://www.spiegel.de/kultur/ost-quote-fuer-film-und-tv-berechtigt-oder-weinerlich-a-9c7a12da-a331-405d-8d5c-f851ed11c392#ref=rss)
+### berechtigt
+
+* [https://www.spiegel.de/kultur/ost-quote-fuer-film-und-tv-berechtigt-oder-weinerlich](https://www.spiegel.de/kultur/ost-quote-fuer-film-und-tv-berechtigt-oder-weinerlich-a-9c7a12da-a331-405d-8d5c-f851ed11c392#ref=rss)
+### weinerlich
+
+* [https://www.spiegel.de/kultur/ost-quote-fuer-film-und-tv-berechtigt-oder-weinerlich](https://www.spiegel.de/kultur/ost-quote-fuer-film-und-tv-berechtigt-oder-weinerlich-a-9c7a12da-a331-405d-8d5c-f851ed11c392#ref=rss)
+### guns
+
+* [https://www.spiegel.de/kultur/guns-n-roses-in-wacken-mehr-als-drei-stunden-live-auf-der-buehne-wacken-rekord](https://www.spiegel.de/kultur/guns-n-roses-in-wacken-mehr-als-drei-stunden-live-auf-der-buehne-wacken-rekord-a-e3ad69c0-94f9-4645-a676-b127d74bbaf8#ref=rss)
+### roses
+
+* [https://www.spiegel.de/kultur/guns-n-roses-in-wacken-mehr-als-drei-stunden-live-auf-der-buehne-wacken-rekord](https://www.spiegel.de/kultur/guns-n-roses-in-wacken-mehr-als-drei-stunden-live-auf-der-buehne-wacken-rekord-a-e3ad69c0-94f9-4645-a676-b127d74bbaf8#ref=rss)
+### wacken
+
+* [https://www.spiegel.de/kultur/guns-n-roses-in-wacken-mehr-als-drei-stunden-live-auf-der-buehne-wacken-rekord](https://www.spiegel.de/kultur/guns-n-roses-in-wacken-mehr-als-drei-stunden-live-auf-der-buehne-wacken-rekord-a-e3ad69c0-94f9-4645-a676-b127d74bbaf8#ref=rss)
+### stunden
+
+* [https://www.spiegel.de/kultur/guns-n-roses-in-wacken-mehr-als-drei-stunden-live-auf-der-buehne-wacken-rekord](https://www.spiegel.de/kultur/guns-n-roses-in-wacken-mehr-als-drei-stunden-live-auf-der-buehne-wacken-rekord-a-e3ad69c0-94f9-4645-a676-b127d74bbaf8#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/auto/muenchen-mvg-rad-stellt-sein-staedtisches-leihrad-angebot-ein](https://www.spiegel.de/auto/muenchen-mvg-rad-stellt-sein-staedtisches-leihrad-angebot-ein-a-9600013a-851e-4240-b458-5bb7769b1847#ref=rss)
+### gartenparty
+
+* [https://www.spiegel.de/stil/gartenparty-im-sommer-diese-weine-empfiehlt-unser-experte](https://www.spiegel.de/stil/gartenparty-im-sommer-diese-weine-empfiehlt-unser-experte-a-083c69a8-1f44-4a02-8625-139feb9bf64c#ref=rss)
+### zecken
+
+* [https://www.spiegel.de/gesundheit/diagnose/infektion-durch-zecken-was-sie-ueber-borreliose-wissen-muessen](https://www.spiegel.de/gesundheit/diagnose/infektion-durch-zecken-was-sie-ueber-borreliose-wissen-muessen-a-a0557c25-c5e6-4e3d-b1ff-7ae4aaebc658#ref=rss)
 
