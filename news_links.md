@@ -4,342 +4,302 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### jahren
-
-* [https://www.spiegel.de/geschichte/atomkrieg-und-militaerstrategien-80-jahre-nach-hiroshima-und-nagasaki](https://www.spiegel.de/geschichte/atomkrieg-und-militaerstrategien-80-jahre-nach-hiroshima-und-nagasaki-a-93edbbb2-e05b-42a6-ad40-1a4241554fcc#ref=rss)
-* [https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht](https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht-a-4019ea1a-9452-4f95-8d1b-94cf19d30bea#ref=rss)
-* [https://www.spiegel.de/sport/fussball/sportmoderator-ulrich-potofski-ist-tot](https://www.spiegel.de/sport/fussball/sportmoderator-ulrich-potofski-ist-tot-a-b15a5fbc-aea8-43e6-9561-e3311f21338b#ref=rss)
-* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall-a-5a1ebd74-d678-4520-a2f8-028abf0ba915#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jorge-costa-ist-tot-porto-legende-stirbt-mit-53-jahren](https://www.spiegel.de/sport/fussball/jorge-costa-ist-tot-porto-legende-stirbt-mit-53-jahren-a-656f30d1-1945-450c-8ff6-a5bef20583bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-geht-berkshire-aktien-sacken-ab](https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-geht-berkshire-aktien-sacken-ab-a-feaefe60-288f-43a9-935d-296362874770#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-seine-zollpolitik-europa-sucht-neue-wege](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-seine-zollpolitik-europa-sucht-neue-wege-a-14ea2f08-c302-4a4f-8f84-62325abd2dd5#ref=rss)
-* [https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk](https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk-a-25a08433-b53b-4e50-96d1-91e768b6df85#ref=rss)
-* [https://www.spiegel.de/start/gochujang-buttered-noodles-rezept-fuer-1-25-euro-pro-portion](https://www.spiegel.de/start/gochujang-buttered-noodles-rezept-fuer-1-25-euro-pro-portion-a-3f120ec9-add6-4aac-94f3-50e5f6f03f33#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/chatgpt-anbieter-openai-will-bald-500-milliarden-dollar-wert-sein](https://www.spiegel.de/wirtschaft/unternehmen/chatgpt-anbieter-openai-will-bald-500-milliarden-dollar-wert-sein-a-258e4e96-a3d2-481a-af3f-0a3bfa84d47c#ref=rss)
-### usa
-
-* [https://www.spiegel.de/geschichte/atomkrieg-und-militaerstrategien-80-jahre-nach-hiroshima-und-nagasaki](https://www.spiegel.de/geschichte/atomkrieg-und-militaerstrategien-80-jahre-nach-hiroshima-und-nagasaki-a-93edbbb2-e05b-42a6-ad40-1a4241554fcc#ref=rss)
-* [https://www.spiegel.de/wissenschaft/usa-menschen-in-abschiebegefaengnis-von-hurrikans-und-tropischen-stuermen-bedroht](https://www.spiegel.de/wissenschaft/usa-menschen-in-abschiebegefaengnis-von-hurrikans-und-tropischen-stuermen-bedroht-a-32d10060-cc8b-4fc7-9fc5-97f33b9d7855#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/brasilien-praesident-lula-will-trump-zur-uno-klimakonferenz-einladen](https://www.spiegel.de/wissenschaft/natur/brasilien-praesident-lula-will-trump-zur-uno-klimakonferenz-einladen-a-06ba3bff-cea0-4c8a-acc9-3417d4b1240d#ref=rss)
-* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall-a-5a1ebd74-d678-4520-a2f8-028abf0ba915#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-regierung-will-waffenmonopol-hisbollah-lehnt-ab](https://www.spiegel.de/ausland/libanon-regierung-will-waffenmonopol-hisbollah-lehnt-ab-a-85a4f113-1d44-45d8-ad8f-124c9a8fd6b7#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-seine-zollpolitik-europa-sucht-neue-wege](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-seine-zollpolitik-europa-sucht-neue-wege-a-14ea2f08-c302-4a4f-8f84-62325abd2dd5#ref=rss)
-* [https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk](https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk-a-25a08433-b53b-4e50-96d1-91e768b6df85#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/brasilien-praesident-lula-will-trump-zur-uno-klimakonferenz-einladen](https://www.spiegel.de/wissenschaft/natur/brasilien-praesident-lula-will-trump-zur-uno-klimakonferenz-einladen-a-06ba3bff-cea0-4c8a-acc9-3417d4b1240d#ref=rss)
-* [https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann](https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann-a-32323e8d-fd9d-4900-bfd5-be19c6fe0a6d#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk](https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk-a-25a08433-b53b-4e50-96d1-91e768b6df85#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/brasilien-praesident-lula-will-trump-zur-uno-klimakonferenz-einladen](https://www.spiegel.de/wissenschaft/natur/brasilien-praesident-lula-will-trump-zur-uno-klimakonferenz-einladen-a-06ba3bff-cea0-4c8a-acc9-3417d4b1240d#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-tote-und-verletzte-durch-russischen-bombenangriff-auf-ferienlager](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-tote-und-verletzte-durch-russischen-bombenangriff-auf-ferienlager-a-64bec791-4439-4ec5-be82-e178b15c01cb#ref=rss)
-### 80
-
-* [https://www.spiegel.de/geschichte/atomkrieg-und-militaerstrategien-80-jahre-nach-hiroshima-und-nagasaki](https://www.spiegel.de/geschichte/atomkrieg-und-militaerstrategien-80-jahre-nach-hiroshima-und-nagasaki-a-93edbbb2-e05b-42a6-ad40-1a4241554fcc#ref=rss)
-* [https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht](https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht-a-4019ea1a-9452-4f95-8d1b-94cf19d30bea#ref=rss)
-* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall-a-5a1ebd74-d678-4520-a2f8-028abf0ba915#ref=rss)
-### hiroshima
-
-* [https://www.spiegel.de/geschichte/atomkrieg-und-militaerstrategien-80-jahre-nach-hiroshima-und-nagasaki](https://www.spiegel.de/geschichte/atomkrieg-und-militaerstrategien-80-jahre-nach-hiroshima-und-nagasaki-a-93edbbb2-e05b-42a6-ad40-1a4241554fcc#ref=rss)
-* [https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht](https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht-a-4019ea1a-9452-4f95-8d1b-94cf19d30bea#ref=rss)
-* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall-a-5a1ebd74-d678-4520-a2f8-028abf0ba915#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-seine-zollpolitik-europa-sucht-neue-wege](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-seine-zollpolitik-europa-sucht-neue-wege-a-14ea2f08-c302-4a4f-8f84-62325abd2dd5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/brasilien-praesident-lula-will-trump-zur-uno-klimakonferenz-einladen](https://www.spiegel.de/wissenschaft/natur/brasilien-praesident-lula-will-trump-zur-uno-klimakonferenz-einladen-a-06ba3bff-cea0-4c8a-acc9-3417d4b1240d#ref=rss)
-### polen
+* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-brasilien-schaltet-welthandelsorganisation-wegen-us-zoellen-ein](https://www.spiegel.de/wirtschaft/donald-trump-brasilien-schaltet-welthandelsorganisation-wegen-us-zoellen-ein-a-e809b25b-cb3d-4295-b46f-8170c2ae28fe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys-a-423aa9f1-2b1a-4a67-8fc1-751c6dd09d6a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen](https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen-a-90ddc729-3024-47fc-a675-b72e83ef995a#ref=rss)
+### droht
 
-* [https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk](https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk-a-25a08433-b53b-4e50-96d1-91e768b6df85#ref=rss)
-* [https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann](https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann-a-32323e8d-fd9d-4900-bfd5-be19c6fe0a6d#ref=rss)
-### gestorben
+* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys-a-423aa9f1-2b1a-4a67-8fc1-751c6dd09d6a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen](https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen-a-90ddc729-3024-47fc-a675-b72e83ef995a#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/fussball/sportmoderator-ulrich-potofski-ist-tot](https://www.spiegel.de/sport/fussball/sportmoderator-ulrich-potofski-ist-tot-a-b15a5fbc-aea8-43e6-9561-e3311f21338b#ref=rss)
-* [https://www.spiegel.de/kultur/tv/kelley-mack-the-walking-dead-schauspielerin-ist-tot](https://www.spiegel.de/kultur/tv/kelley-mack-the-walking-dead-schauspielerin-ist-tot-a-b6617b79-810d-4af3-9e4f-c8da46b30be4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jorge-costa-ist-tot-porto-legende-stirbt-mit-53-jahren](https://www.spiegel.de/sport/fussball/jorge-costa-ist-tot-porto-legende-stirbt-mit-53-jahren-a-656f30d1-1945-450c-8ff6-a5bef20583bc#ref=rss)
-### derzeit
+* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-brasilien-schaltet-welthandelsorganisation-wegen-us-zoellen-ein](https://www.spiegel.de/wirtschaft/donald-trump-brasilien-schaltet-welthandelsorganisation-wegen-us-zoellen-ein-a-e809b25b-cb3d-4295-b46f-8170c2ae28fe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen](https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen-a-90ddc729-3024-47fc-a675-b72e83ef995a#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/leute/mariana-barutkina-influencerin-bricht-sich-rueckgrat-bei-nicki-minaj-challenge](https://www.spiegel.de/panorama/leute/mariana-barutkina-influencerin-bricht-sich-rueckgrat-bei-nicki-minaj-challenge-a-004e4a74-9367-43f8-b17a-3f6d9051610a#ref=rss)
-* [https://www.spiegel.de/sport/schwimmerin-yu-zidi-und-surferin-kelia-mehani-gallina-wann-ist-man-alt-genug-fuer-spitzensport](https://www.spiegel.de/sport/schwimmerin-yu-zidi-und-surferin-kelia-mehani-gallina-wann-ist-man-alt-genug-fuer-spitzensport-a-eec89f81-ff9f-4c9e-961a-c38bde0c3c8d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nahost-zwei-deutsche-reise-aus-dem-gazastreifen-aus](https://www.spiegel.de/politik/deutschland/nahost-zwei-deutsche-reise-aus-dem-gazastreifen-aus-a-58662538-e19c-420e-af4a-a293591a1a6e#ref=rss)
-### russischen
+* [https://www.spiegel.de/wirtschaft/booking-com-worum-es-bei-der-klage-gegen-die-plattform-wirklich-geht](https://www.spiegel.de/wirtschaft/booking-com-worum-es-bei-der-klage-gegen-die-plattform-wirklich-geht-a-a3083d50-9452-40b0-a03f-328e1820a426#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys-a-423aa9f1-2b1a-4a67-8fc1-751c6dd09d6a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen](https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen-a-3697efc1-6c84-4785-ad87-7c7e5dc8fa93#ref=rss)
+### hiroshima
 
-* [https://www.spiegel.de/panorama/leute/mariana-barutkina-influencerin-bricht-sich-rueckgrat-bei-nicki-minaj-challenge](https://www.spiegel.de/panorama/leute/mariana-barutkina-influencerin-bricht-sich-rueckgrat-bei-nicki-minaj-challenge-a-004e4a74-9367-43f8-b17a-3f6d9051610a#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-tote-und-verletzte-durch-russischen-bombenangriff-auf-ferienlager](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-tote-und-verletzte-durch-russischen-bombenangriff-auf-ferienlager-a-64bec791-4439-4ec5-be82-e178b15c01cb#ref=rss)
-### nagasaki
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys-a-423aa9f1-2b1a-4a67-8fc1-751c6dd09d6a#ref=rss)
+* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-120-laender-gedenken-der-opfer](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-120-laender-gedenken-der-opfer-a-6742a6e9-2cac-4e2d-86ae-81cf09f3ffc8#ref=rss)
+### neue
 
-* [https://www.spiegel.de/geschichte/atomkrieg-und-militaerstrategien-80-jahre-nach-hiroshima-und-nagasaki](https://www.spiegel.de/geschichte/atomkrieg-und-militaerstrategien-80-jahre-nach-hiroshima-und-nagasaki-a-93edbbb2-e05b-42a6-ad40-1a4241554fcc#ref=rss)
-* [https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht](https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht-a-4019ea1a-9452-4f95-8d1b-94cf19d30bea#ref=rss)
-### andere
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys-a-423aa9f1-2b1a-4a67-8fc1-751c6dd09d6a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben](https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben-a-e9c99871-388f-459c-845c-fac447ac05cc#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-meta-messenger-geht-mit-neuer-funktion-gegen-betruegerische-gruppenchats-vor](https://www.spiegel.de/netzwelt/apps/whatsapp-meta-messenger-geht-mit-neuer-funktion-gegen-betruegerische-gruppenchats-vor-a-e4ddd6f6-e36b-45a5-a7d1-e53c02134006#ref=rss)
+### zeigen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-seine-zollpolitik-europa-sucht-neue-wege](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-seine-zollpolitik-europa-sucht-neue-wege-a-14ea2f08-c302-4a4f-8f84-62325abd2dd5#ref=rss)
-* [https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht](https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht-a-4019ea1a-9452-4f95-8d1b-94cf19d30bea#ref=rss)
-* [https://www.spiegel.de/sport/schwimmerin-yu-zidi-und-surferin-kelia-mehani-gallina-wann-ist-man-alt-genug-fuer-spitzensport](https://www.spiegel.de/sport/schwimmerin-yu-zidi-und-surferin-kelia-mehani-gallina-wann-ist-man-alt-genug-fuer-spitzensport-a-eec89f81-ff9f-4c9e-961a-c38bde0c3c8d#ref=rss)
-### atombomben
-
-* [https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht](https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht-a-4019ea1a-9452-4f95-8d1b-94cf19d30bea#ref=rss)
-### ich
-
-* [https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht](https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht-a-4019ea1a-9452-4f95-8d1b-94cf19d30bea#ref=rss)
-* [https://www.spiegel.de/panorama/tschechien-angler-fischt-2-68-meter-langen-wels-aus-vranov-stausee-neuer-rekord](https://www.spiegel.de/panorama/tschechien-angler-fischt-2-68-meter-langen-wels-aus-vranov-stausee-neuer-rekord-a-bee638bc-0a6f-4757-8387-d6a7a14549d4#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht](https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht-a-4019ea1a-9452-4f95-8d1b-94cf19d30bea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/haushalt-so-koennte-lars-klingbeil-sein-problem-loesen](https://www.spiegel.de/wirtschaft/haushalt-so-koennte-lars-klingbeil-sein-problem-loesen-a-62e796e7-6601-4a98-b425-4b69e594b666#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-geht-berkshire-aktien-sacken-ab](https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-geht-berkshire-aktien-sacken-ab-a-feaefe60-288f-43a9-935d-296362874770#ref=rss)
-### tot
-
-* [https://www.spiegel.de/sport/fussball/sportmoderator-ulrich-potofski-ist-tot](https://www.spiegel.de/sport/fussball/sportmoderator-ulrich-potofski-ist-tot-a-b15a5fbc-aea8-43e6-9561-e3311f21338b#ref=rss)
-* [https://www.spiegel.de/kultur/tv/kelley-mack-the-walking-dead-schauspielerin-ist-tot](https://www.spiegel.de/kultur/tv/kelley-mack-the-walking-dead-schauspielerin-ist-tot-a-b6617b79-810d-4af3-9e4f-c8da46b30be4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jorge-costa-ist-tot-porto-legende-stirbt-mit-53-jahren](https://www.spiegel.de/sport/fussball/jorge-costa-ist-tot-porto-legende-stirbt-mit-53-jahren-a-656f30d1-1945-450c-8ff6-a5bef20583bc#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/fussball/sportmoderator-ulrich-potofski-ist-tot](https://www.spiegel.de/sport/fussball/sportmoderator-ulrich-potofski-ist-tot-a-b15a5fbc-aea8-43e6-9561-e3311f21338b#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-hb-ludwigsburg-der-crash-des-deutschen-handballmeisters-und-seine-folgen](https://www.spiegel.de/sport/handball/handball-hb-ludwigsburg-der-crash-des-deutschen-handballmeisters-und-seine-folgen-a-2f280be4-9de9-4d26-ba33-b794a831f9a1#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/sport/handball/handball-hb-ludwigsburg-der-crash-des-deutschen-handballmeisters-und-seine-folgen](https://www.spiegel.de/sport/handball/handball-hb-ludwigsburg-der-crash-des-deutschen-handballmeisters-und-seine-folgen-a-2f280be4-9de9-4d26-ba33-b794a831f9a1#ref=rss)
-* [https://www.spiegel.de/kultur/tv/kelley-mack-the-walking-dead-schauspielerin-ist-tot](https://www.spiegel.de/kultur/tv/kelley-mack-the-walking-dead-schauspielerin-ist-tot-a-b6617b79-810d-4af3-9e4f-c8da46b30be4#ref=rss)
-* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall-a-5a1ebd74-d678-4520-a2f8-028abf0ba915#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/paris-mann-zuendet-zigarette-an-weltkriegsdenkmal-an-und-wird-festgenommen](https://www.spiegel.de/panorama/justiz/paris-mann-zuendet-zigarette-an-weltkriegsdenkmal-an-und-wird-festgenommen-a-cb29d4ab-38ec-4209-bee7-aeec29e4c842#ref=rss)
-* [https://www.spiegel.de/ausland/iran-hinrichtung-wegen-mutmasslicher-spionage-fuer-israel](https://www.spiegel.de/ausland/iran-hinrichtung-wegen-mutmasslicher-spionage-fuer-israel-a-b86433c0-30b6-4f36-81f3-d255f9c8ea5c#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann](https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann-a-32323e8d-fd9d-4900-bfd5-be19c6fe0a6d#ref=rss)
-* [https://www.spiegel.de/kultur/wednesday-auf-netflix-einzigartige-familiendynamik](https://www.spiegel.de/kultur/wednesday-auf-netflix-einzigartige-familiendynamik-a-6fb2ced3-07e4-4367-88a6-360c2e5d3377#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-regierung-will-waffenmonopol-hisbollah-lehnt-ab](https://www.spiegel.de/ausland/libanon-regierung-will-waffenmonopol-hisbollah-lehnt-ab-a-85a4f113-1d44-45d8-ad8f-124c9a8fd6b7#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann](https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann-a-32323e8d-fd9d-4900-bfd5-be19c6fe0a6d#ref=rss)
-* [https://www.spiegel.de/kultur/wednesday-auf-netflix-einzigartige-familiendynamik](https://www.spiegel.de/kultur/wednesday-auf-netflix-einzigartige-familiendynamik-a-6fb2ced3-07e4-4367-88a6-360c2e5d3377#ref=rss)
-* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall-a-5a1ebd74-d678-4520-a2f8-028abf0ba915#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/jobcenter-erstatten-jedem-achten-buergergeld-haushalt-die-miete-nur-teils](https://www.spiegel.de/wirtschaft/soziales/jobcenter-erstatten-jedem-achten-buergergeld-haushalt-die-miete-nur-teils-a-c62f8526-e8d4-469a-a8f4-61433519c16e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch](https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch-a-7be04821-e3dd-4b3c-bb35-6b3580063c26#ref=rss)
+* [https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote](https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote-a-94257ef4-1cf8-4382-b69f-1208ac32c434#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/politik/deutschland/nahost-zwei-deutsche-reise-aus-dem-gazastreifen-aus](https://www.spiegel.de/politik/deutschland/nahost-zwei-deutsche-reise-aus-dem-gazastreifen-aus-a-58662538-e19c-420e-af4a-a293591a1a6e#ref=rss)
-### sexspielzeug
-
-* [https://www.spiegel.de/sport/basketball/wnba-sexspielzeug-in-richtung-von-basketballerin-geworfen](https://www.spiegel.de/sport/basketball/wnba-sexspielzeug-in-richtung-von-basketballerin-geworfen-a-539317e8-5f59-4dba-a447-3a5a3f60cbf8#ref=rss)
-### fast
-
-* [https://www.spiegel.de/sport/basketball/wnba-sexspielzeug-in-richtung-von-basketballerin-geworfen](https://www.spiegel.de/sport/basketball/wnba-sexspielzeug-in-richtung-von-basketballerin-geworfen-a-539317e8-5f59-4dba-a447-3a5a3f60cbf8#ref=rss)
-* [https://www.spiegel.de/panorama/tschechien-angler-fischt-2-68-meter-langen-wels-aus-vranov-stausee-neuer-rekord](https://www.spiegel.de/panorama/tschechien-angler-fischt-2-68-meter-langen-wels-aus-vranov-stausee-neuer-rekord-a-bee638bc-0a6f-4757-8387-d6a7a14549d4#ref=rss)
-### wäre
-
-* [https://www.spiegel.de/sport/basketball/wnba-sexspielzeug-in-richtung-von-basketballerin-geworfen](https://www.spiegel.de/sport/basketball/wnba-sexspielzeug-in-richtung-von-basketballerin-geworfen-a-539317e8-5f59-4dba-a447-3a5a3f60cbf8#ref=rss)
-* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall-a-5a1ebd74-d678-4520-a2f8-028abf0ba915#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/geschichte/atomkrieg-und-militaerstrategien-80-jahre-nach-hiroshima-und-nagasaki](https://www.spiegel.de/geschichte/atomkrieg-und-militaerstrategien-80-jahre-nach-hiroshima-und-nagasaki-a-93edbbb2-e05b-42a6-ad40-1a4241554fcc#ref=rss)
-* [https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht](https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht-a-4019ea1a-9452-4f95-8d1b-94cf19d30bea#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/geschichte/atomkrieg-und-militaerstrategien-80-jahre-nach-hiroshima-und-nagasaki](https://www.spiegel.de/geschichte/atomkrieg-und-militaerstrategien-80-jahre-nach-hiroshima-und-nagasaki-a-93edbbb2-e05b-42a6-ad40-1a4241554fcc#ref=rss)
-* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall-a-5a1ebd74-d678-4520-a2f8-028abf0ba915#ref=rss)
-### atombombe
-
-* [https://www.spiegel.de/geschichte/atomkrieg-und-militaerstrategien-80-jahre-nach-hiroshima-und-nagasaki](https://www.spiegel.de/geschichte/atomkrieg-und-militaerstrategien-80-jahre-nach-hiroshima-und-nagasaki-a-93edbbb2-e05b-42a6-ad40-1a4241554fcc#ref=rss)
-* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall-a-5a1ebd74-d678-4520-a2f8-028abf0ba915#ref=rss)
-### zollpolitik
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-seine-zollpolitik-europa-sucht-neue-wege](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-seine-zollpolitik-europa-sucht-neue-wege-a-14ea2f08-c302-4a4f-8f84-62325abd2dd5#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-seine-zollpolitik-europa-sucht-neue-wege](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-seine-zollpolitik-europa-sucht-neue-wege-a-14ea2f08-c302-4a4f-8f84-62325abd2dd5#ref=rss)
-* [https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann](https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann-a-32323e8d-fd9d-4900-bfd5-be19c6fe0a6d#ref=rss)
-### wege
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-seine-zollpolitik-europa-sucht-neue-wege](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-seine-zollpolitik-europa-sucht-neue-wege-a-14ea2f08-c302-4a4f-8f84-62325abd2dd5#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-seine-zollpolitik-europa-sucht-neue-wege](https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-und-seine-zollpolitik-europa-sucht-neue-wege-a-14ea2f08-c302-4a4f-8f84-62325abd2dd5#ref=rss)
-* [https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann](https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann-a-32323e8d-fd9d-4900-bfd5-be19c6fe0a6d#ref=rss)
-### hasse
-
-* [https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht](https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht-a-4019ea1a-9452-4f95-8d1b-94cf19d30bea#ref=rss)
-### 1945
-
-* [https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht](https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht-a-4019ea1a-9452-4f95-8d1b-94cf19d30bea#ref=rss)
-* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall-a-5a1ebd74-d678-4520-a2f8-028abf0ba915#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht](https://www.spiegel.de/geschichte/80-jahre-nach-den-atombomben-ueber-hiroshima-und-nagasaki-ich-hasse-atombomben-aber-die-amerikaner-hasse-ich-nicht-a-4019ea1a-9452-4f95-8d1b-94cf19d30bea#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-hb-ludwigsburg-der-crash-des-deutschen-handballmeisters-und-seine-folgen](https://www.spiegel.de/sport/handball/handball-hb-ludwigsburg-der-crash-des-deutschen-handballmeisters-und-seine-folgen-a-2f280be4-9de9-4d26-ba33-b794a831f9a1#ref=rss)
+* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
+* [https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung](https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung-a-17c3071a-564e-4cd3-b9a3-72bfe7364ffc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben](https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben-a-e9c99871-388f-459c-845c-fac447ac05cc#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/wissenschaft/usa-menschen-in-abschiebegefaengnis-von-hurrikans-und-tropischen-stuermen-bedroht](https://www.spiegel.de/wissenschaft/usa-menschen-in-abschiebegefaengnis-von-hurrikans-und-tropischen-stuermen-bedroht-a-32d10060-cc8b-4fc7-9fc5-97f33b9d7855#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-tote-und-verletzte-durch-russischen-bombenangriff-auf-ferienlager](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-tote-und-verletzte-durch-russischen-bombenangriff-auf-ferienlager-a-64bec791-4439-4ec5-be82-e178b15c01cb#ref=rss)
-### neuer
+* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
+* [https://www.spiegel.de/panorama/zoo-in-aalborg-tiergarten-nuernberg-sind-haustierspenden-und-pavian-toetungen-in-ordnung](https://www.spiegel.de/panorama/zoo-in-aalborg-tiergarten-nuernberg-sind-haustierspenden-und-pavian-toetungen-in-ordnung-a-01cd9428-6675-4dfc-8215-ca66847b17cd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen](https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen-a-3697efc1-6c84-4785-ad87-7c7e5dc8fa93#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk](https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk-a-25a08433-b53b-4e50-96d1-91e768b6df85#ref=rss)
-* [https://www.spiegel.de/panorama/tschechien-angler-fischt-2-68-meter-langen-wels-aus-vranov-stausee-neuer-rekord](https://www.spiegel.de/panorama/tschechien-angler-fischt-2-68-meter-langen-wels-aus-vranov-stausee-neuer-rekord-a-bee638bc-0a6f-4757-8387-d6a7a14549d4#ref=rss)
-### karol
+* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-nicht-alle-fleischfressenden-urzeitechsen-hatten-einen-kraeftigen-biss](https://www.spiegel.de/wissenschaft/natur/dinosaurier-nicht-alle-fleischfressenden-urzeitechsen-hatten-einen-kraeftigen-biss-a-4c22623a-c608-4cb3-af7a-c16659841346#ref=rss)
+* [https://www.spiegel.de/ausland/russland-atom-u-boot-basis-durch-seebeben-offenbar-beschaedigt](https://www.spiegel.de/ausland/russland-atom-u-boot-basis-durch-seebeben-offenbar-beschaedigt-a-409212a5-49d4-4ee0-a862-ce489fd163cf#ref=rss)
+* [https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee](https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee-a-eac87d7e-89e9-4e81-8b25-23d53bc4be76#ref=rss)
+### länder
 
-* [https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk](https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk-a-25a08433-b53b-4e50-96d1-91e768b6df85#ref=rss)
-### nawrocki
+* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-120-laender-gedenken-der-opfer](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-120-laender-gedenken-der-opfer-a-6742a6e9-2cac-4e2d-86ae-81cf09f3ffc8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch](https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch-a-7be04821-e3dd-4b3c-bb35-6b3580063c26#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk](https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk-a-25a08433-b53b-4e50-96d1-91e768b6df85#ref=rss)
-### regierung
+* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-120-laender-gedenken-der-opfer](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-120-laender-gedenken-der-opfer-a-6742a6e9-2cac-4e2d-86ae-81cf09f3ffc8#ref=rss)
+* [https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben](https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben-a-0c9a6e00-ec91-4979-84b6-80ea947a3995#ref=rss)
+### experten
 
-* [https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk](https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk-a-25a08433-b53b-4e50-96d1-91e768b6df85#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-regierung-will-waffenmonopol-hisbollah-lehnt-ab](https://www.spiegel.de/ausland/libanon-regierung-will-waffenmonopol-hisbollah-lehnt-ab-a-85a4f113-1d44-45d8-ad8f-124c9a8fd6b7#ref=rss)
-### tusk
+* [https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-ein-team-aus-ki-agenten-an-einer-corona-abwehr-forscht](https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-ein-team-aus-ki-agenten-an-einer-corona-abwehr-forscht-a-166b010b-ed94-4816-987b-531ed11d7f6a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen](https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen-a-3697efc1-6c84-4785-ad87-7c7e5dc8fa93#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk](https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk-a-25a08433-b53b-4e50-96d1-91e768b6df85#ref=rss)
-* [https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann](https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann-a-32323e8d-fd9d-4900-bfd5-be19c6fe0a6d#ref=rss)
-### weg
+* [https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-ein-team-aus-ki-agenten-an-einer-corona-abwehr-forscht](https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-ein-team-aus-ki-agenten-an-einer-corona-abwehr-forscht-a-166b010b-ed94-4816-987b-531ed11d7f6a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen](https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen-a-3697efc1-6c84-4785-ad87-7c7e5dc8fa93#ref=rss)
+### überraschend
 
-* [https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk](https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk-a-25a08433-b53b-4e50-96d1-91e768b6df85#ref=rss)
-* [https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann](https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann-a-32323e8d-fd9d-4900-bfd5-be19c6fe0a6d#ref=rss)
-### justiz
+* [https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-ein-team-aus-ki-agenten-an-einer-corona-abwehr-forscht](https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-ein-team-aus-ki-agenten-an-einer-corona-abwehr-forscht-a-166b010b-ed94-4816-987b-531ed11d7f6a#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-meta-messenger-geht-mit-neuer-funktion-gegen-betruegerische-gruppenchats-vor](https://www.spiegel.de/netzwelt/apps/whatsapp-meta-messenger-geht-mit-neuer-funktion-gegen-betruegerische-gruppenchats-vor-a-e4ddd6f6-e36b-45a5-a7d1-e53c02134006#ref=rss)
+### georgia
 
-* [https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk](https://www.spiegel.de/ausland/polen-neuer-praesident-karol-nawrocki-geht-auf-konfrontationskurs-zur-regierung-von-donald-tusk-a-25a08433-b53b-4e50-96d1-91e768b6df85#ref=rss)
-* [https://www.spiegel.de/ausland/iran-hinrichtung-wegen-mutmasslicher-spionage-fuer-israel](https://www.spiegel.de/ausland/iran-hinrichtung-wegen-mutmasslicher-spionage-fuer-israel-a-b86433c0-30b6-4f36-81f3-d255f9c8ea5c#ref=rss)
-### ulrich
+* [https://www.spiegel.de/ausland/georgia-fuenf-soldaten-bei-schuessen-auf-us-militaerstuetzpunkt-verletzt](https://www.spiegel.de/ausland/georgia-fuenf-soldaten-bei-schuessen-auf-us-militaerstuetzpunkt-verletzt-a-ac90da04-7a08-4a6a-a6d8-25e37e83e897#ref=rss)
+### fünf
 
-* [https://www.spiegel.de/sport/fussball/sportmoderator-ulrich-potofski-ist-tot](https://www.spiegel.de/sport/fussball/sportmoderator-ulrich-potofski-ist-tot-a-b15a5fbc-aea8-43e6-9561-e3311f21338b#ref=rss)
-### potofski
+* [https://www.spiegel.de/ausland/georgia-fuenf-soldaten-bei-schuessen-auf-us-militaerstuetzpunkt-verletzt](https://www.spiegel.de/ausland/georgia-fuenf-soldaten-bei-schuessen-auf-us-militaerstuetzpunkt-verletzt-a-ac90da04-7a08-4a6a-a6d8-25e37e83e897#ref=rss)
+### soldaten
 
-* [https://www.spiegel.de/sport/fussball/sportmoderator-ulrich-potofski-ist-tot](https://www.spiegel.de/sport/fussball/sportmoderator-ulrich-potofski-ist-tot-a-b15a5fbc-aea8-43e6-9561-e3311f21338b#ref=rss)
-### handball
+* [https://www.spiegel.de/ausland/georgia-fuenf-soldaten-bei-schuessen-auf-us-militaerstuetzpunkt-verletzt](https://www.spiegel.de/ausland/georgia-fuenf-soldaten-bei-schuessen-auf-us-militaerstuetzpunkt-verletzt-a-ac90da04-7a08-4a6a-a6d8-25e37e83e897#ref=rss)
+### thomas
 
-* [https://www.spiegel.de/sport/handball/handball-hb-ludwigsburg-der-crash-des-deutschen-handballmeisters-und-seine-folgen](https://www.spiegel.de/sport/handball/handball-hb-ludwigsburg-der-crash-des-deutschen-handballmeisters-und-seine-folgen-a-2f280be4-9de9-4d26-ba33-b794a831f9a1#ref=rss)
-### hb
+* [https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps](https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps-a-e950c2fa-070e-49fa-8c5e-bd79c048fe53#ref=rss)
+### müller
 
-* [https://www.spiegel.de/sport/handball/handball-hb-ludwigsburg-der-crash-des-deutschen-handballmeisters-und-seine-folgen](https://www.spiegel.de/sport/handball/handball-hb-ludwigsburg-der-crash-des-deutschen-handballmeisters-und-seine-folgen-a-2f280be4-9de9-4d26-ba33-b794a831f9a1#ref=rss)
-### ludwigsburg
+* [https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps](https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps-a-e950c2fa-070e-49fa-8c5e-bd79c048fe53#ref=rss)
+### vancouver
 
-* [https://www.spiegel.de/sport/handball/handball-hb-ludwigsburg-der-crash-des-deutschen-handballmeisters-und-seine-folgen](https://www.spiegel.de/sport/handball/handball-hb-ludwigsburg-der-crash-des-deutschen-handballmeisters-und-seine-folgen-a-2f280be4-9de9-4d26-ba33-b794a831f9a1#ref=rss)
-### geld
+* [https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps](https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps-a-e950c2fa-070e-49fa-8c5e-bd79c048fe53#ref=rss)
+### whitecaps
 
-* [https://www.spiegel.de/sport/handball/handball-hb-ludwigsburg-der-crash-des-deutschen-handballmeisters-und-seine-folgen](https://www.spiegel.de/sport/handball/handball-hb-ludwigsburg-der-crash-des-deutschen-handballmeisters-und-seine-folgen-a-2f280be4-9de9-4d26-ba33-b794a831f9a1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/haushalt-so-koennte-lars-klingbeil-sein-problem-loesen](https://www.spiegel.de/wirtschaft/haushalt-so-koennte-lars-klingbeil-sein-problem-loesen-a-62e796e7-6601-4a98-b425-4b69e594b666#ref=rss)
-### lernen
+* [https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps](https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps-a-e950c2fa-070e-49fa-8c5e-bd79c048fe53#ref=rss)
+### vertrag
 
-* [https://www.spiegel.de/start/gochujang-buttered-noodles-rezept-fuer-1-25-euro-pro-portion](https://www.spiegel.de/start/gochujang-buttered-noodles-rezept-fuer-1-25-euro-pro-portion-a-3f120ec9-add6-4aac-94f3-50e5f6f03f33#ref=rss)
-* [https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann](https://www.spiegel.de/ausland/was-europa-von-donald-tusk-lernen-kann-a-32323e8d-fd9d-4900-bfd5-be19c6fe0a6d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps](https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps-a-e950c2fa-070e-49fa-8c5e-bd79c048fe53#ref=rss)
+* [https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung](https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung-a-17c3071a-564e-4cd3-b9a3-72bfe7364ffc#ref=rss)
+### hanschristoph
+
+* [https://www.spiegel.de/politik/deutschland/golssen-wie-die-spende-des-afd-politikers-hans-christoph-berndt-das-stadtfest-aufmischt](https://www.spiegel.de/politik/deutschland/golssen-wie-die-spende-des-afd-politikers-hans-christoph-berndt-das-stadtfest-aufmischt-a-e1c14668-6a79-4bed-b0f5-74b4157b9297#ref=rss)
+### berndt
+
+* [https://www.spiegel.de/politik/deutschland/golssen-wie-die-spende-des-afd-politikers-hans-christoph-berndt-das-stadtfest-aufmischt](https://www.spiegel.de/politik/deutschland/golssen-wie-die-spende-des-afd-politikers-hans-christoph-berndt-das-stadtfest-aufmischt-a-e1c14668-6a79-4bed-b0f5-74b4157b9297#ref=rss)
+### stadtfest
+
+* [https://www.spiegel.de/politik/deutschland/golssen-wie-die-spende-des-afd-politikers-hans-christoph-berndt-das-stadtfest-aufmischt](https://www.spiegel.de/politik/deutschland/golssen-wie-die-spende-des-afd-politikers-hans-christoph-berndt-das-stadtfest-aufmischt-a-e1c14668-6a79-4bed-b0f5-74b4157b9297#ref=rss)
+### mel
+
+* [https://www.spiegel.de/kultur/mel-gibson-will-fortsetzung-von-die-passion-christi-drehen](https://www.spiegel.de/kultur/mel-gibson-will-fortsetzung-von-die-passion-christi-drehen-a-6f2208d7-928b-4d82-b3f0-b8f5e0548b7a#ref=rss)
+### gibson
+
+* [https://www.spiegel.de/kultur/mel-gibson-will-fortsetzung-von-die-passion-christi-drehen](https://www.spiegel.de/kultur/mel-gibson-will-fortsetzung-von-die-passion-christi-drehen-a-6f2208d7-928b-4d82-b3f0-b8f5e0548b7a#ref=rss)
+### jeffrey
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
+### epstein
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
+### jd
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
+### vance
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
+### fall
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-harry-aufsichtsbehoerde-spricht-ihn-von-mobbing-vorwurf-bei-sentebale-frei](https://www.spiegel.de/panorama/leute/prinz-harry-aufsichtsbehoerde-spricht-ihn-von-mobbing-vorwurf-bei-sentebale-frei-a-9ac82957-a202-4d07-8258-27d9fffd06f8#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen](https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen-a-90ddc729-3024-47fc-a675-b72e83ef995a#ref=rss)
+### schaden
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys-a-423aa9f1-2b1a-4a67-8fc1-751c6dd09d6a#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
+* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
 ### brasilien
 
-* [https://www.spiegel.de/wissenschaft/natur/brasilien-praesident-lula-will-trump-zur-uno-klimakonferenz-einladen](https://www.spiegel.de/wissenschaft/natur/brasilien-praesident-lula-will-trump-zur-uno-klimakonferenz-einladen-a-06ba3bff-cea0-4c8a-acc9-3417d4b1240d#ref=rss)
-### lula
+* [https://www.spiegel.de/wirtschaft/donald-trump-brasilien-schaltet-welthandelsorganisation-wegen-us-zoellen-ein](https://www.spiegel.de/wirtschaft/donald-trump-brasilien-schaltet-welthandelsorganisation-wegen-us-zoellen-ein-a-e809b25b-cb3d-4295-b46f-8170c2ae28fe#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wissenschaft/natur/brasilien-praesident-lula-will-trump-zur-uno-klimakonferenz-einladen](https://www.spiegel.de/wissenschaft/natur/brasilien-praesident-lula-will-trump-zur-uno-klimakonferenz-einladen-a-06ba3bff-cea0-4c8a-acc9-3417d4b1240d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-brasilien-schaltet-welthandelsorganisation-wegen-us-zoellen-ein](https://www.spiegel.de/wirtschaft/donald-trump-brasilien-schaltet-welthandelsorganisation-wegen-us-zoellen-ein-a-e809b25b-cb3d-4295-b46f-8170c2ae28fe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen](https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen-a-90ddc729-3024-47fc-a675-b72e83ef995a#ref=rss)
+### indien
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys-a-423aa9f1-2b1a-4a67-8fc1-751c6dd09d6a#ref=rss)
+* [https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote](https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote-a-94257ef4-1cf8-4382-b69f-1208ac32c434#ref=rss)
+### teil
+
+* [https://www.spiegel.de/wirtschaft/soziales/jobcenter-erstatten-jedem-achten-buergergeld-haushalt-die-miete-nur-teils](https://www.spiegel.de/wirtschaft/soziales/jobcenter-erstatten-jedem-achten-buergergeld-haushalt-die-miete-nur-teils-a-c62f8526-e8d4-469a-a8f4-61433519c16e#ref=rss)
+* [https://www.spiegel.de/ausland/russland-atom-u-boot-basis-durch-seebeben-offenbar-beschaedigt](https://www.spiegel.de/ausland/russland-atom-u-boot-basis-durch-seebeben-offenbar-beschaedigt-a-409212a5-49d4-4ee0-a862-ce489fd163cf#ref=rss)
+### ghana
+
+* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
+### acht
+
+* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
+### tote
+
+* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
+* [https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote](https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote-a-94257ef4-1cf8-4382-b69f-1208ac32c434#ref=rss)
+### helikopterabsturz
+
+* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
+### darunter
+
+* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
+### landes
+
+* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
+* [https://www.spiegel.de/auto/italien-regierung-beschliesst-bruecke-zwischen-sizilien-und-festland](https://www.spiegel.de/auto/italien-regierung-beschliesst-bruecke-zwischen-sizilien-und-festland-a-1e501cad-1ff8-40b3-b0f9-7ca8026b5238#ref=rss)
+### nationalpark
+
+* [https://www.spiegel.de/panorama/norwegen-vermisster-us-journalist-im-nationalpark-folgefonna-gerettet](https://www.spiegel.de/panorama/norwegen-vermisster-us-journalist-im-nationalpark-folgefonna-gerettet-a-69ba7d51-2119-4569-8330-b50028ea0f18#ref=rss)
+### folgefonna
+
+* [https://www.spiegel.de/panorama/norwegen-vermisster-us-journalist-im-nationalpark-folgefonna-gerettet](https://www.spiegel.de/panorama/norwegen-vermisster-us-journalist-im-nationalpark-folgefonna-gerettet-a-69ba7d51-2119-4569-8330-b50028ea0f18#ref=rss)
 ### mehrere
 
-* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-tote-und-verletzte-durch-russischen-bombenangriff-auf-ferienlager](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-tote-und-verletzte-durch-russischen-bombenangriff-auf-ferienlager-a-64bec791-4439-4ec5-be82-e178b15c01cb#ref=rss)
-* [https://www.spiegel.de/sport/schwimmerin-yu-zidi-und-surferin-kelia-mehani-gallina-wann-ist-man-alt-genug-fuer-spitzensport](https://www.spiegel.de/sport/schwimmerin-yu-zidi-und-surferin-kelia-mehani-gallina-wann-ist-man-alt-genug-fuer-spitzensport-a-eec89f81-ff9f-4c9e-961a-c38bde0c3c8d#ref=rss)
-### kinder
+* [https://www.spiegel.de/panorama/norwegen-vermisster-us-journalist-im-nationalpark-folgefonna-gerettet](https://www.spiegel.de/panorama/norwegen-vermisster-us-journalist-im-nationalpark-folgefonna-gerettet-a-69ba7d51-2119-4569-8330-b50028ea0f18#ref=rss)
+* [https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee](https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee-a-eac87d7e-89e9-4e81-8b25-23d53bc4be76#ref=rss)
+### sehr
 
-* [https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-tote-und-verletzte-durch-russischen-bombenangriff-auf-ferienlager](https://www.spiegel.de/ausland/russlands-angriffskrieg-ukraine-meldet-tote-und-verletzte-durch-russischen-bombenangriff-auf-ferienlager-a-64bec791-4439-4ec5-be82-e178b15c01cb#ref=rss)
-* [https://www.spiegel.de/sport/schwimmerin-yu-zidi-und-surferin-kelia-mehani-gallina-wann-ist-man-alt-genug-fuer-spitzensport](https://www.spiegel.de/sport/schwimmerin-yu-zidi-und-surferin-kelia-mehani-gallina-wann-ist-man-alt-genug-fuer-spitzensport-a-eec89f81-ff9f-4c9e-961a-c38bde0c3c8d#ref=rss)
-### paris
+* [https://www.spiegel.de/panorama/norwegen-vermisster-us-journalist-im-nationalpark-folgefonna-gerettet](https://www.spiegel.de/panorama/norwegen-vermisster-us-journalist-im-nationalpark-folgefonna-gerettet-a-69ba7d51-2119-4569-8330-b50028ea0f18#ref=rss)
+* [https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee](https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee-a-eac87d7e-89e9-4e81-8b25-23d53bc4be76#ref=rss)
+### zoo
 
-* [https://www.spiegel.de/panorama/justiz/paris-mann-zuendet-zigarette-an-weltkriegsdenkmal-an-und-wird-festgenommen](https://www.spiegel.de/panorama/justiz/paris-mann-zuendet-zigarette-an-weltkriegsdenkmal-an-und-wird-festgenommen-a-cb29d4ab-38ec-4209-bee7-aeec29e4c842#ref=rss)
-### wels
+* [https://www.spiegel.de/panorama/zoo-in-aalborg-tiergarten-nuernberg-sind-haustierspenden-und-pavian-toetungen-in-ordnung](https://www.spiegel.de/panorama/zoo-in-aalborg-tiergarten-nuernberg-sind-haustierspenden-und-pavian-toetungen-in-ordnung-a-01cd9428-6675-4dfc-8215-ca66847b17cd#ref=rss)
+### tiergarten
 
-* [https://www.spiegel.de/panorama/tschechien-angler-fischt-2-68-meter-langen-wels-aus-vranov-stausee-neuer-rekord](https://www.spiegel.de/panorama/tschechien-angler-fischt-2-68-meter-langen-wels-aus-vranov-stausee-neuer-rekord-a-bee638bc-0a6f-4757-8387-d6a7a14549d4#ref=rss)
-### rekord
+* [https://www.spiegel.de/panorama/zoo-in-aalborg-tiergarten-nuernberg-sind-haustierspenden-und-pavian-toetungen-in-ordnung](https://www.spiegel.de/panorama/zoo-in-aalborg-tiergarten-nuernberg-sind-haustierspenden-und-pavian-toetungen-in-ordnung-a-01cd9428-6675-4dfc-8215-ca66847b17cd#ref=rss)
+### haustierspenden
 
-* [https://www.spiegel.de/panorama/tschechien-angler-fischt-2-68-meter-langen-wels-aus-vranov-stausee-neuer-rekord](https://www.spiegel.de/panorama/tschechien-angler-fischt-2-68-meter-langen-wels-aus-vranov-stausee-neuer-rekord-a-bee638bc-0a6f-4757-8387-d6a7a14549d4#ref=rss)
-### bekannt
+* [https://www.spiegel.de/panorama/zoo-in-aalborg-tiergarten-nuernberg-sind-haustierspenden-und-pavian-toetungen-in-ordnung](https://www.spiegel.de/panorama/zoo-in-aalborg-tiergarten-nuernberg-sind-haustierspenden-und-pavian-toetungen-in-ordnung-a-01cd9428-6675-4dfc-8215-ca66847b17cd#ref=rss)
+### sizilien
 
-* [https://www.spiegel.de/panorama/tschechien-angler-fischt-2-68-meter-langen-wels-aus-vranov-stausee-neuer-rekord](https://www.spiegel.de/panorama/tschechien-angler-fischt-2-68-meter-langen-wels-aus-vranov-stausee-neuer-rekord-a-bee638bc-0a6f-4757-8387-d6a7a14549d4#ref=rss)
-* [https://www.spiegel.de/kultur/tv/kelley-mack-the-walking-dead-schauspielerin-ist-tot](https://www.spiegel.de/kultur/tv/kelley-mack-the-walking-dead-schauspielerin-ist-tot-a-b6617b79-810d-4af3-9e4f-c8da46b30be4#ref=rss)
-### gender
+* [https://www.spiegel.de/auto/italien-regierung-beschliesst-bruecke-zwischen-sizilien-und-festland](https://www.spiegel.de/auto/italien-regierung-beschliesst-bruecke-zwischen-sizilien-und-festland-a-1e501cad-1ff8-40b3-b0f9-7ca8026b5238#ref=rss)
+### festland
 
-* [https://www.spiegel.de/familie/gender-foto-gap-warum-muetter-auf-familienfotos-haeufig-fehlen](https://www.spiegel.de/familie/gender-foto-gap-warum-muetter-auf-familienfotos-haeufig-fehlen-a-88626191-e77d-421e-bd45-8c0e006d5b5d#ref=rss)
-### foto
+* [https://www.spiegel.de/auto/italien-regierung-beschliesst-bruecke-zwischen-sizilien-und-festland](https://www.spiegel.de/auto/italien-regierung-beschliesst-bruecke-zwischen-sizilien-und-festland-a-1e501cad-1ff8-40b3-b0f9-7ca8026b5238#ref=rss)
+### erzbistum
 
-* [https://www.spiegel.de/familie/gender-foto-gap-warum-muetter-auf-familienfotos-haeufig-fehlen](https://www.spiegel.de/familie/gender-foto-gap-warum-muetter-auf-familienfotos-haeufig-fehlen-a-88626191-e77d-421e-bd45-8c0e006d5b5d#ref=rss)
-### gap
+* [https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung](https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung-a-17c3071a-564e-4cd3-b9a3-72bfe7364ffc#ref=rss)
+### juristen
 
-* [https://www.spiegel.de/familie/gender-foto-gap-warum-muetter-auf-familienfotos-haeufig-fehlen](https://www.spiegel.de/familie/gender-foto-gap-warum-muetter-auf-familienfotos-haeufig-fehlen-a-88626191-e77d-421e-bd45-8c0e006d5b5d#ref=rss)
-### mütter
+* [https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung](https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung-a-17c3071a-564e-4cd3-b9a3-72bfe7364ffc#ref=rss)
+### kritisieren
 
-* [https://www.spiegel.de/familie/gender-foto-gap-warum-muetter-auf-familienfotos-haeufig-fehlen](https://www.spiegel.de/familie/gender-foto-gap-warum-muetter-auf-familienfotos-haeufig-fehlen-a-88626191-e77d-421e-bd45-8c0e006d5b5d#ref=rss)
-### wednesday
+* [https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung](https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung-a-17c3071a-564e-4cd3-b9a3-72bfe7364ffc#ref=rss)
+### woelki
 
-* [https://www.spiegel.de/kultur/wednesday-auf-netflix-einzigartige-familiendynamik](https://www.spiegel.de/kultur/wednesday-auf-netflix-einzigartige-familiendynamik-a-6fb2ced3-07e4-4367-88a6-360c2e5d3377#ref=rss)
-### erste
+* [https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung](https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung-a-17c3071a-564e-4cd3-b9a3-72bfe7364ffc#ref=rss)
+### priesterausbildung
 
-* [https://www.spiegel.de/kultur/wednesday-auf-netflix-einzigartige-familiendynamik](https://www.spiegel.de/kultur/wednesday-auf-netflix-einzigartige-familiendynamik-a-6fb2ced3-07e4-4367-88a6-360c2e5d3377#ref=rss)
-* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-vor-80-jahren-der-suendenfall-a-5a1ebd74-d678-4520-a2f8-028abf0ba915#ref=rss)
-### wann
+* [https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung](https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung-a-17c3071a-564e-4cd3-b9a3-72bfe7364ffc#ref=rss)
+### 120
 
-* [https://www.spiegel.de/sport/schwimmerin-yu-zidi-und-surferin-kelia-mehani-gallina-wann-ist-man-alt-genug-fuer-spitzensport](https://www.spiegel.de/sport/schwimmerin-yu-zidi-und-surferin-kelia-mehani-gallina-wann-ist-man-alt-genug-fuer-spitzensport-a-eec89f81-ff9f-4c9e-961a-c38bde0c3c8d#ref=rss)
-### alt
+* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-120-laender-gedenken-der-opfer](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-120-laender-gedenken-der-opfer-a-6742a6e9-2cac-4e2d-86ae-81cf09f3ffc8#ref=rss)
+### seebeben
 
-* [https://www.spiegel.de/sport/schwimmerin-yu-zidi-und-surferin-kelia-mehani-gallina-wann-ist-man-alt-genug-fuer-spitzensport](https://www.spiegel.de/sport/schwimmerin-yu-zidi-und-surferin-kelia-mehani-gallina-wann-ist-man-alt-genug-fuer-spitzensport-a-eec89f81-ff9f-4c9e-961a-c38bde0c3c8d#ref=rss)
-### genug
+* [https://www.spiegel.de/ausland/russland-atom-u-boot-basis-durch-seebeben-offenbar-beschaedigt](https://www.spiegel.de/ausland/russland-atom-u-boot-basis-durch-seebeben-offenbar-beschaedigt-a-409212a5-49d4-4ee0-a862-ce489fd163cf#ref=rss)
+### nordsee
 
-* [https://www.spiegel.de/sport/schwimmerin-yu-zidi-und-surferin-kelia-mehani-gallina-wann-ist-man-alt-genug-fuer-spitzensport](https://www.spiegel.de/sport/schwimmerin-yu-zidi-und-surferin-kelia-mehani-gallina-wann-ist-man-alt-genug-fuer-spitzensport-a-eec89f81-ff9f-4c9e-961a-c38bde0c3c8d#ref=rss)
-### spitzensport
+* [https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben](https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben-a-e9c99871-388f-459c-845c-fac447ac05cc#ref=rss)
+### gebot
 
-* [https://www.spiegel.de/sport/schwimmerin-yu-zidi-und-surferin-kelia-mehani-gallina-wann-ist-man-alt-genug-fuer-spitzensport](https://www.spiegel.de/sport/schwimmerin-yu-zidi-und-surferin-kelia-mehani-gallina-wann-ist-man-alt-genug-fuer-spitzensport-a-eec89f81-ff9f-4c9e-961a-c38bde0c3c8d#ref=rss)
-### kelley
+* [https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben](https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben-a-e9c99871-388f-459c-845c-fac447ac05cc#ref=rss)
+### auktion
 
-* [https://www.spiegel.de/kultur/tv/kelley-mack-the-walking-dead-schauspielerin-ist-tot](https://www.spiegel.de/kultur/tv/kelley-mack-the-walking-dead-schauspielerin-ist-tot-a-b6617b79-810d-4af3-9e4f-c8da46b30be4#ref=rss)
-### mack
+* [https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben](https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben-a-e9c99871-388f-459c-845c-fac447ac05cc#ref=rss)
+### bremen
 
-* [https://www.spiegel.de/kultur/tv/kelley-mack-the-walking-dead-schauspielerin-ist-tot](https://www.spiegel.de/kultur/tv/kelley-mack-the-walking-dead-schauspielerin-ist-tot-a-b6617b79-810d-4af3-9e4f-c8da46b30be4#ref=rss)
-### the
+* [https://www.spiegel.de/politik/deutschland/bremen-fdp-darf-nicht-beim-csd-mitfahren](https://www.spiegel.de/politik/deutschland/bremen-fdp-darf-nicht-beim-csd-mitfahren-a-7424b0f0-28ed-43f3-8254-88855bbfd063#ref=rss)
+### fdp
 
-* [https://www.spiegel.de/kultur/tv/kelley-mack-the-walking-dead-schauspielerin-ist-tot](https://www.spiegel.de/kultur/tv/kelley-mack-the-walking-dead-schauspielerin-ist-tot-a-b6617b79-810d-4af3-9e4f-c8da46b30be4#ref=rss)
-### walking
+* [https://www.spiegel.de/politik/deutschland/bremen-fdp-darf-nicht-beim-csd-mitfahren](https://www.spiegel.de/politik/deutschland/bremen-fdp-darf-nicht-beim-csd-mitfahren-a-7424b0f0-28ed-43f3-8254-88855bbfd063#ref=rss)
+### whatsapp
 
-* [https://www.spiegel.de/kultur/tv/kelley-mack-the-walking-dead-schauspielerin-ist-tot](https://www.spiegel.de/kultur/tv/kelley-mack-the-walking-dead-schauspielerin-ist-tot-a-b6617b79-810d-4af3-9e4f-c8da46b30be4#ref=rss)
-### spionage
-
-* [https://www.spiegel.de/ausland/iran-hinrichtung-wegen-mutmasslicher-spionage-fuer-israel](https://www.spiegel.de/ausland/iran-hinrichtung-wegen-mutmasslicher-spionage-fuer-israel-a-b86433c0-30b6-4f36-81f3-d255f9c8ea5c#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-meta-messenger-geht-mit-neuer-funktion-gegen-betruegerische-gruppenchats-vor](https://www.spiegel.de/netzwelt/apps/whatsapp-meta-messenger-geht-mit-neuer-funktion-gegen-betruegerische-gruppenchats-vor-a-e4ddd6f6-e36b-45a5-a7d1-e53c02134006#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/ausland/iran-hinrichtung-wegen-mutmasslicher-spionage-fuer-israel](https://www.spiegel.de/ausland/iran-hinrichtung-wegen-mutmasslicher-spionage-fuer-israel-a-b86433c0-30b6-4f36-81f3-d255f9c8ea5c#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-regierung-will-waffenmonopol-hisbollah-lehnt-ab](https://www.spiegel.de/ausland/libanon-regierung-will-waffenmonopol-hisbollah-lehnt-ab-a-85a4f113-1d44-45d8-ad8f-124c9a8fd6b7#ref=rss)
-### iranische
+* [https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee](https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee-a-eac87d7e-89e9-4e81-8b25-23d53bc4be76#ref=rss)
+### pläne
 
-* [https://www.spiegel.de/ausland/iran-hinrichtung-wegen-mutmasslicher-spionage-fuer-israel](https://www.spiegel.de/ausland/iran-hinrichtung-wegen-mutmasslicher-spionage-fuer-israel-a-b86433c0-30b6-4f36-81f3-d255f9c8ea5c#ref=rss)
-### israelischen
+* [https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee](https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee-a-eac87d7e-89e9-4e81-8b25-23d53bc4be76#ref=rss)
+### terry
 
-* [https://www.spiegel.de/ausland/iran-hinrichtung-wegen-mutmasslicher-spionage-fuer-israel](https://www.spiegel.de/ausland/iran-hinrichtung-wegen-mutmasslicher-spionage-fuer-israel-a-b86433c0-30b6-4f36-81f3-d255f9c8ea5c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nahost-zwei-deutsche-reise-aus-dem-gazastreifen-aus](https://www.spiegel.de/politik/deutschland/nahost-zwei-deutsche-reise-aus-dem-gazastreifen-aus-a-58662538-e19c-420e-af4a-a293591a1a6e#ref=rss)
-### deutsche
+* [https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben](https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben-a-0c9a6e00-ec91-4979-84b6-80ea947a3995#ref=rss)
+### reid
 
-* [https://www.spiegel.de/politik/deutschland/nahost-zwei-deutsche-reise-aus-dem-gazastreifen-aus](https://www.spiegel.de/politik/deutschland/nahost-zwei-deutsche-reise-aus-dem-gazastreifen-aus-a-58662538-e19c-420e-af4a-a293591a1a6e#ref=rss)
-### gazastreifen
+* [https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben](https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben-a-0c9a6e00-ec91-4979-84b6-80ea947a3995#ref=rss)
+### 75
 
-* [https://www.spiegel.de/politik/deutschland/nahost-zwei-deutsche-reise-aus-dem-gazastreifen-aus](https://www.spiegel.de/politik/deutschland/nahost-zwei-deutsche-reise-aus-dem-gazastreifen-aus-a-58662538-e19c-420e-af4a-a293591a1a6e#ref=rss)
-### lehnt
+* [https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben](https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben-a-0c9a6e00-ec91-4979-84b6-80ea947a3995#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/wirtschaft/haushalt-so-koennte-lars-klingbeil-sein-problem-loesen](https://www.spiegel.de/wirtschaft/haushalt-so-koennte-lars-klingbeil-sein-problem-loesen-a-62e796e7-6601-4a98-b425-4b69e594b666#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-regierung-will-waffenmonopol-hisbollah-lehnt-ab](https://www.spiegel.de/ausland/libanon-regierung-will-waffenmonopol-hisbollah-lehnt-ab-a-85a4f113-1d44-45d8-ad8f-124c9a8fd6b7#ref=rss)
-### openai
+* [https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben](https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben-a-0c9a6e00-ec91-4979-84b6-80ea947a3995#ref=rss)
+### christina
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/chatgpt-anbieter-openai-will-bald-500-milliarden-dollar-wert-sein](https://www.spiegel.de/wirtschaft/unternehmen/chatgpt-anbieter-openai-will-bald-500-milliarden-dollar-wert-sein-a-258e4e96-a3d2-481a-af3f-0a3bfa84d47c#ref=rss)
-### frankreich
+* [https://www.spiegel.de/panorama/justiz/christina-block-will-sich-von-einem-ihrer-verteidiger-trennen](https://www.spiegel.de/panorama/justiz/christina-block-will-sich-von-einem-ihrer-verteidiger-trennen-a-c21f5351-ba1b-4eff-8319-9714e1adbc61#ref=rss)
+### block
 
-* [https://www.spiegel.de/panorama/spanien-und-frankreich-feuerwehr-kaempft-gegen-waldbraende-hotels-und-campingplaetze-evakuiert](https://www.spiegel.de/panorama/spanien-und-frankreich-feuerwehr-kaempft-gegen-waldbraende-hotels-und-campingplaetze-evakuiert-a-8157d73d-9984-43ed-8c32-42ffb20e190e#ref=rss)
-### jorge
+* [https://www.spiegel.de/panorama/justiz/christina-block-will-sich-von-einem-ihrer-verteidiger-trennen](https://www.spiegel.de/panorama/justiz/christina-block-will-sich-von-einem-ihrer-verteidiger-trennen-a-c21f5351-ba1b-4eff-8319-9714e1adbc61#ref=rss)
+### filme
 
-* [https://www.spiegel.de/sport/fussball/jorge-costa-ist-tot-porto-legende-stirbt-mit-53-jahren](https://www.spiegel.de/sport/fussball/jorge-costa-ist-tot-porto-legende-stirbt-mit-53-jahren-a-656f30d1-1945-450c-8ff6-a5bef20583bc#ref=rss)
-### costa
+* [https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch](https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch-a-7be04821-e3dd-4b3c-bb35-6b3580063c26#ref=rss)
+### verbessern
 
-* [https://www.spiegel.de/sport/fussball/jorge-costa-ist-tot-porto-legende-stirbt-mit-53-jahren](https://www.spiegel.de/sport/fussball/jorge-costa-ist-tot-porto-legende-stirbt-mit-53-jahren-a-656f30d1-1945-450c-8ff6-a5bef20583bc#ref=rss)
-### 53
+* [https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch](https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch-a-7be04821-e3dd-4b3c-bb35-6b3580063c26#ref=rss)
+### englisch
 
-* [https://www.spiegel.de/sport/fussball/jorge-costa-ist-tot-porto-legende-stirbt-mit-53-jahren](https://www.spiegel.de/sport/fussball/jorge-costa-ist-tot-porto-legende-stirbt-mit-53-jahren-a-656f30d1-1945-450c-8ff6-a5bef20583bc#ref=rss)
-### berkshire
+* [https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch](https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch-a-7be04821-e3dd-4b3c-bb35-6b3580063c26#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-geht-berkshire-aktien-sacken-ab](https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-geht-berkshire-aktien-sacken-ab-a-feaefe60-288f-43a9-935d-296362874770#ref=rss)
-### hathaway
+* [https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen](https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen-a-3697efc1-6c84-4785-ad87-7c7e5dc8fa93#ref=rss)
+### prinz
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-geht-berkshire-aktien-sacken-ab](https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-geht-berkshire-aktien-sacken-ab-a-feaefe60-288f-43a9-935d-296362874770#ref=rss)
-### aktien
+* [https://www.spiegel.de/panorama/leute/prinz-harry-aufsichtsbehoerde-spricht-ihn-von-mobbing-vorwurf-bei-sentebale-frei](https://www.spiegel.de/panorama/leute/prinz-harry-aufsichtsbehoerde-spricht-ihn-von-mobbing-vorwurf-bei-sentebale-frei-a-9ac82957-a202-4d07-8258-27d9fffd06f8#ref=rss)
+### harry
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-geht-berkshire-aktien-sacken-ab](https://www.spiegel.de/wirtschaft/unternehmen/warren-buffett-geht-berkshire-aktien-sacken-ab-a-feaefe60-288f-43a9-935d-296362874770#ref=rss)
-### hisbollah
+* [https://www.spiegel.de/panorama/leute/prinz-harry-aufsichtsbehoerde-spricht-ihn-von-mobbing-vorwurf-bei-sentebale-frei](https://www.spiegel.de/panorama/leute/prinz-harry-aufsichtsbehoerde-spricht-ihn-von-mobbing-vorwurf-bei-sentebale-frei-a-9ac82957-a202-4d07-8258-27d9fffd06f8#ref=rss)
+### labubus
 
-* [https://www.spiegel.de/ausland/libanon-regierung-will-waffenmonopol-hisbollah-lehnt-ab](https://www.spiegel.de/ausland/libanon-regierung-will-waffenmonopol-hisbollah-lehnt-ab-a-85a4f113-1d44-45d8-ad8f-124c9a8fd6b7#ref=rss)
+* [https://www.spiegel.de/kultur/labubus-nicht-plueschtiere-sind-das-problem-sondern-privatjets](https://www.spiegel.de/kultur/labubus-nicht-plueschtiere-sind-das-problem-sondern-privatjets-a-5878f4f3-45d3-400b-964a-2883bf351568#ref=rss)
+### schlammlawine
+
+* [https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote](https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote-a-94257ef4-1cf8-4382-b69f-1208ac32c434#ref=rss)
+### zerstört
+
+* [https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote](https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote-a-94257ef4-1cf8-4382-b69f-1208ac32c434#ref=rss)
+### himalaja
+
+* [https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote](https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote-a-94257ef4-1cf8-4382-b69f-1208ac32c434#ref=rss)
+### politiker
+
+* [https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen](https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen-a-90ddc729-3024-47fc-a675-b72e83ef995a#ref=rss)
 
