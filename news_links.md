@@ -4,302 +4,321 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-brasilien-schaltet-welthandelsorganisation-wegen-us-zoellen-ein](https://www.spiegel.de/wirtschaft/donald-trump-brasilien-schaltet-welthandelsorganisation-wegen-us-zoellen-ein-a-e809b25b-cb3d-4295-b46f-8170c2ae28fe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys-a-423aa9f1-2b1a-4a67-8fc1-751c6dd09d6a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen](https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen-a-90ddc729-3024-47fc-a675-b72e83ef995a#ref=rss)
-### droht
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys-a-423aa9f1-2b1a-4a67-8fc1-751c6dd09d6a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen](https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen-a-90ddc729-3024-47fc-a675-b72e83ef995a#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-brasilien-schaltet-welthandelsorganisation-wegen-us-zoellen-ein](https://www.spiegel.de/wirtschaft/donald-trump-brasilien-schaltet-welthandelsorganisation-wegen-us-zoellen-ein-a-e809b25b-cb3d-4295-b46f-8170c2ae28fe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen](https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen-a-90ddc729-3024-47fc-a675-b72e83ef995a#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/booking-com-worum-es-bei-der-klage-gegen-die-plattform-wirklich-geht](https://www.spiegel.de/wirtschaft/booking-com-worum-es-bei-der-klage-gegen-die-plattform-wirklich-geht-a-a3083d50-9452-40b0-a03f-328e1820a426#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys-a-423aa9f1-2b1a-4a67-8fc1-751c6dd09d6a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen](https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen-a-3697efc1-6c84-4785-ad87-7c7e5dc8fa93#ref=rss)
-### hiroshima
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys-a-423aa9f1-2b1a-4a67-8fc1-751c6dd09d6a#ref=rss)
-* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-120-laender-gedenken-der-opfer](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-120-laender-gedenken-der-opfer-a-6742a6e9-2cac-4e2d-86ae-81cf09f3ffc8#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys-a-423aa9f1-2b1a-4a67-8fc1-751c6dd09d6a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben](https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben-a-e9c99871-388f-459c-845c-fac447ac05cc#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/whatsapp-meta-messenger-geht-mit-neuer-funktion-gegen-betruegerische-gruppenchats-vor](https://www.spiegel.de/netzwelt/apps/whatsapp-meta-messenger-geht-mit-neuer-funktion-gegen-betruegerische-gruppenchats-vor-a-e4ddd6f6-e36b-45a5-a7d1-e53c02134006#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/wirtschaft/soziales/jobcenter-erstatten-jedem-achten-buergergeld-haushalt-die-miete-nur-teils](https://www.spiegel.de/wirtschaft/soziales/jobcenter-erstatten-jedem-achten-buergergeld-haushalt-die-miete-nur-teils-a-c62f8526-e8d4-469a-a8f4-61433519c16e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch](https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch-a-7be04821-e3dd-4b3c-bb35-6b3580063c26#ref=rss)
-* [https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote](https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote-a-94257ef4-1cf8-4382-b69f-1208ac32c434#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
-* [https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung](https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung-a-17c3071a-564e-4cd3-b9a3-72bfe7364ffc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben](https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben-a-e9c99871-388f-459c-845c-fac447ac05cc#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
-* [https://www.spiegel.de/panorama/zoo-in-aalborg-tiergarten-nuernberg-sind-haustierspenden-und-pavian-toetungen-in-ordnung](https://www.spiegel.de/panorama/zoo-in-aalborg-tiergarten-nuernberg-sind-haustierspenden-und-pavian-toetungen-in-ordnung-a-01cd9428-6675-4dfc-8215-ca66847b17cd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen](https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen-a-3697efc1-6c84-4785-ad87-7c7e5dc8fa93#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-nicht-alle-fleischfressenden-urzeitechsen-hatten-einen-kraeftigen-biss](https://www.spiegel.de/wissenschaft/natur/dinosaurier-nicht-alle-fleischfressenden-urzeitechsen-hatten-einen-kraeftigen-biss-a-4c22623a-c608-4cb3-af7a-c16659841346#ref=rss)
-* [https://www.spiegel.de/ausland/russland-atom-u-boot-basis-durch-seebeben-offenbar-beschaedigt](https://www.spiegel.de/ausland/russland-atom-u-boot-basis-durch-seebeben-offenbar-beschaedigt-a-409212a5-49d4-4ee0-a862-ce489fd163cf#ref=rss)
-* [https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee](https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee-a-eac87d7e-89e9-4e81-8b25-23d53bc4be76#ref=rss)
-### länder
-
-* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-120-laender-gedenken-der-opfer](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-120-laender-gedenken-der-opfer-a-6742a6e9-2cac-4e2d-86ae-81cf09f3ffc8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch](https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch-a-7be04821-e3dd-4b3c-bb35-6b3580063c26#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-120-laender-gedenken-der-opfer](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-120-laender-gedenken-der-opfer-a-6742a6e9-2cac-4e2d-86ae-81cf09f3ffc8#ref=rss)
-* [https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben](https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben-a-0c9a6e00-ec91-4979-84b6-80ea947a3995#ref=rss)
-### experten
-
-* [https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-ein-team-aus-ki-agenten-an-einer-corona-abwehr-forscht](https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-ein-team-aus-ki-agenten-an-einer-corona-abwehr-forscht-a-166b010b-ed94-4816-987b-531ed11d7f6a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen](https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen-a-3697efc1-6c84-4785-ad87-7c7e5dc8fa93#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-ein-team-aus-ki-agenten-an-einer-corona-abwehr-forscht](https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-ein-team-aus-ki-agenten-an-einer-corona-abwehr-forscht-a-166b010b-ed94-4816-987b-531ed11d7f6a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen](https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen-a-3697efc1-6c84-4785-ad87-7c7e5dc8fa93#ref=rss)
-### überraschend
-
-* [https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-ein-team-aus-ki-agenten-an-einer-corona-abwehr-forscht](https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-ein-team-aus-ki-agenten-an-einer-corona-abwehr-forscht-a-166b010b-ed94-4816-987b-531ed11d7f6a#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/whatsapp-meta-messenger-geht-mit-neuer-funktion-gegen-betruegerische-gruppenchats-vor](https://www.spiegel.de/netzwelt/apps/whatsapp-meta-messenger-geht-mit-neuer-funktion-gegen-betruegerische-gruppenchats-vor-a-e4ddd6f6-e36b-45a5-a7d1-e53c02134006#ref=rss)
-### georgia
-
-* [https://www.spiegel.de/ausland/georgia-fuenf-soldaten-bei-schuessen-auf-us-militaerstuetzpunkt-verletzt](https://www.spiegel.de/ausland/georgia-fuenf-soldaten-bei-schuessen-auf-us-militaerstuetzpunkt-verletzt-a-ac90da04-7a08-4a6a-a6d8-25e37e83e897#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/ausland/georgia-fuenf-soldaten-bei-schuessen-auf-us-militaerstuetzpunkt-verletzt](https://www.spiegel.de/ausland/georgia-fuenf-soldaten-bei-schuessen-auf-us-militaerstuetzpunkt-verletzt-a-ac90da04-7a08-4a6a-a6d8-25e37e83e897#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/ausland/georgia-fuenf-soldaten-bei-schuessen-auf-us-militaerstuetzpunkt-verletzt](https://www.spiegel.de/ausland/georgia-fuenf-soldaten-bei-schuessen-auf-us-militaerstuetzpunkt-verletzt-a-ac90da04-7a08-4a6a-a6d8-25e37e83e897#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps](https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps-a-e950c2fa-070e-49fa-8c5e-bd79c048fe53#ref=rss)
-### müller
-
-* [https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps](https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps-a-e950c2fa-070e-49fa-8c5e-bd79c048fe53#ref=rss)
-### vancouver
-
-* [https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps](https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps-a-e950c2fa-070e-49fa-8c5e-bd79c048fe53#ref=rss)
-### whitecaps
-
-* [https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps](https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps-a-e950c2fa-070e-49fa-8c5e-bd79c048fe53#ref=rss)
-### vertrag
-
-* [https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps](https://www.spiegel.de/sport/fussball/thomas-mueller-wechselt-zu-den-vancouver-whitecaps-a-e950c2fa-070e-49fa-8c5e-bd79c048fe53#ref=rss)
-* [https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung](https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung-a-17c3071a-564e-4cd3-b9a3-72bfe7364ffc#ref=rss)
-### hanschristoph
-
-* [https://www.spiegel.de/politik/deutschland/golssen-wie-die-spende-des-afd-politikers-hans-christoph-berndt-das-stadtfest-aufmischt](https://www.spiegel.de/politik/deutschland/golssen-wie-die-spende-des-afd-politikers-hans-christoph-berndt-das-stadtfest-aufmischt-a-e1c14668-6a79-4bed-b0f5-74b4157b9297#ref=rss)
-### berndt
-
-* [https://www.spiegel.de/politik/deutschland/golssen-wie-die-spende-des-afd-politikers-hans-christoph-berndt-das-stadtfest-aufmischt](https://www.spiegel.de/politik/deutschland/golssen-wie-die-spende-des-afd-politikers-hans-christoph-berndt-das-stadtfest-aufmischt-a-e1c14668-6a79-4bed-b0f5-74b4157b9297#ref=rss)
-### stadtfest
-
-* [https://www.spiegel.de/politik/deutschland/golssen-wie-die-spende-des-afd-politikers-hans-christoph-berndt-das-stadtfest-aufmischt](https://www.spiegel.de/politik/deutschland/golssen-wie-die-spende-des-afd-politikers-hans-christoph-berndt-das-stadtfest-aufmischt-a-e1c14668-6a79-4bed-b0f5-74b4157b9297#ref=rss)
-### mel
-
-* [https://www.spiegel.de/kultur/mel-gibson-will-fortsetzung-von-die-passion-christi-drehen](https://www.spiegel.de/kultur/mel-gibson-will-fortsetzung-von-die-passion-christi-drehen-a-6f2208d7-928b-4d82-b3f0-b8f5e0548b7a#ref=rss)
-### gibson
-
-* [https://www.spiegel.de/kultur/mel-gibson-will-fortsetzung-von-die-passion-christi-drehen](https://www.spiegel.de/kultur/mel-gibson-will-fortsetzung-von-die-passion-christi-drehen-a-6f2208d7-928b-4d82-b3f0-b8f5e0548b7a#ref=rss)
-### jeffrey
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
-### epstein
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
-### jd
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
-### vance
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
-### fall
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-harry-aufsichtsbehoerde-spricht-ihn-von-mobbing-vorwurf-bei-sentebale-frei](https://www.spiegel.de/panorama/leute/prinz-harry-aufsichtsbehoerde-spricht-ihn-von-mobbing-vorwurf-bei-sentebale-frei-a-9ac82957-a202-4d07-8258-27d9fffd06f8#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen](https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen-a-90ddc729-3024-47fc-a675-b72e83ef995a#ref=rss)
-### schaden
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys-a-423aa9f1-2b1a-4a67-8fc1-751c6dd09d6a#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten](https://www.spiegel.de/ausland/jeffrey-epstein-jd-vance-will-bei-dinner-ueber-umgang-der-us-regierung-mit-epstein-akten-beraten-a-724fe445-4973-4714-afa1-cc5e2ddb4689#ref=rss)
-* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
-### brasilien
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-brasilien-schaltet-welthandelsorganisation-wegen-us-zoellen-ein](https://www.spiegel.de/wirtschaft/donald-trump-brasilien-schaltet-welthandelsorganisation-wegen-us-zoellen-ein-a-e809b25b-cb3d-4295-b46f-8170c2ae28fe#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-brasilien-schaltet-welthandelsorganisation-wegen-us-zoellen-ein](https://www.spiegel.de/wirtschaft/donald-trump-brasilien-schaltet-welthandelsorganisation-wegen-us-zoellen-ein-a-e809b25b-cb3d-4295-b46f-8170c2ae28fe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen](https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen-a-90ddc729-3024-47fc-a675-b72e83ef995a#ref=rss)
-### indien
+* [https://www.spiegel.de/wirtschaft/siemens-rechnet-mit-zoll-belastungen-in-hoehe-von-300-millionen-euro](https://www.spiegel.de/wirtschaft/siemens-rechnet-mit-zoll-belastungen-in-hoehe-von-300-millionen-euro-a-08efb916-8ea4-4b11-9e51-ff2f4af4e733#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-donald-trump-will-nasa-missionen-zur-beobachtung-von-co-ausstoss-beenden](https://www.spiegel.de/wissenschaft/usa-donald-trump-will-nasa-missionen-zur-beobachtung-von-co-ausstoss-beenden-a-5bc20351-5496-4ee2-b24a-0a140b6ef4b1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet-a-b761047c-c72c-4413-80d4-0afe042e7579#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-exporte-steigen-trotz-handelsstreit](https://www.spiegel.de/wirtschaft/deutsche-exporte-steigen-trotz-handelsstreit-a-0ec2ff48-0210-4557-93b7-8eca5ec8b5a8#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-im-zollstreit-mit-den-usa-ein-land-hat-sich-verrechnet](https://www.spiegel.de/ausland/schweiz-im-zollstreit-mit-den-usa-ein-land-hat-sich-verrechnet-a-4edfc38e-f85d-450a-bed0-6dbc1c801272#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys](https://www.spiegel.de/politik/deutschland/news-des-tages-trump-droht-jahrestag-von-hiroshima-120-minuten-partys-a-423aa9f1-2b1a-4a67-8fc1-751c6dd09d6a#ref=rss)
-* [https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote](https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote-a-94257ef4-1cf8-4382-b69f-1208ac32c434#ref=rss)
-### teil
+* [https://www.spiegel.de/wissenschaft/usa-donald-trump-will-nasa-missionen-zur-beobachtung-von-co-ausstoss-beenden](https://www.spiegel.de/wissenschaft/usa-donald-trump-will-nasa-missionen-zur-beobachtung-von-co-ausstoss-beenden-a-5bc20351-5496-4ee2-b24a-0a140b6ef4b1#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-donald-trump-kreml-bestaetigt-anstehendes-treffen](https://www.spiegel.de/ausland/wladimir-putin-donald-trump-kreml-bestaetigt-anstehendes-treffen-a-d6286ce3-777f-4c63-8748-f14f498add0f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet-a-b761047c-c72c-4413-80d4-0afe042e7579#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-exporte-steigen-trotz-handelsstreit](https://www.spiegel.de/wirtschaft/deutsche-exporte-steigen-trotz-handelsstreit-a-0ec2ff48-0210-4557-93b7-8eca5ec8b5a8#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/soziales/jobcenter-erstatten-jedem-achten-buergergeld-haushalt-die-miete-nur-teils](https://www.spiegel.de/wirtschaft/soziales/jobcenter-erstatten-jedem-achten-buergergeld-haushalt-die-miete-nur-teils-a-c62f8526-e8d4-469a-a8f4-61433519c16e#ref=rss)
-* [https://www.spiegel.de/ausland/russland-atom-u-boot-basis-durch-seebeben-offenbar-beschaedigt](https://www.spiegel.de/ausland/russland-atom-u-boot-basis-durch-seebeben-offenbar-beschaedigt-a-409212a5-49d4-4ee0-a862-ce489fd163cf#ref=rss)
-### ghana
+* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-und-sein-gender-verbot-schluss-mit-dem-irrsinn](https://www.spiegel.de/politik/deutschland/wolfram-weimer-und-sein-gender-verbot-schluss-mit-dem-irrsinn-a-d4d48a21-738f-46cc-87ce-c44778c7cec5#ref=rss)
+* [https://www.spiegel.de/panorama/migration-neue-zahlen-des-bamf-fast-10-000-asylantraege-von-afghanischen-frauen](https://www.spiegel.de/panorama/migration-neue-zahlen-des-bamf-fast-10-000-asylantraege-von-afghanischen-frauen-a-1473fd87-7a1f-4468-86f9-0de6844a0a22#ref=rss)
+* [https://www.spiegel.de/geschichte/wehrbauten-im-mittelalter-eine-burg-ohne-steine](https://www.spiegel.de/geschichte/wehrbauten-im-mittelalter-eine-burg-ohne-steine-a-88ad7922-77e9-4be5-ada5-405a87d10dc8#ref=rss)
+* [https://www.spiegel.de/panorama/der-hobbit-seltene-erstausgabe-in-grossbritannien-fuer-fast-50-000-euro-versteigert](https://www.spiegel.de/panorama/der-hobbit-seltene-erstausgabe-in-grossbritannien-fuer-fast-50-000-euro-versteigert-a-37884cc6-1b2b-4f8a-9b8c-47a4e29ac53c#ref=rss)
+* [https://www.spiegel.de/ausland/us-einwanderungsbehoerde-nimmt-16-migranten-bei-taeuschungsmanoever-fest](https://www.spiegel.de/ausland/us-einwanderungsbehoerde-nimmt-16-migranten-bei-taeuschungsmanoever-fest-a-c2d182ec-d1e1-47d2-be90-731f4a9214d5#ref=rss)
+### ministerpräsident
 
-* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
-### acht
+* [https://www.spiegel.de/politik/deutschland/reiner-haseloff-sachsen-anhalt-ministerpraesident-tritt-nicht-erneut-an](https://www.spiegel.de/politik/deutschland/reiner-haseloff-sachsen-anhalt-ministerpraesident-tritt-nicht-erneut-an-a-c2d81b7b-9fb1-40dd-9dc2-260cdf0ccfe4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-olaf-lies-stemmt-sich-gegen-verbrenner-forderung-von-markus-soeder](https://www.spiegel.de/politik/deutschland/niedersachsen-olaf-lies-stemmt-sich-gegen-verbrenner-forderung-von-markus-soeder-a-f024473d-f493-4765-b851-645f5f92dec5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buergergeld-markus-soeder-und-die-methode-suendenbock-meinung](https://www.spiegel.de/politik/deutschland/buergergeld-markus-soeder-und-die-methode-suendenbock-meinung-a-af2c1e38-4779-44cf-95cc-f24a47897343#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
-### tote
+* [https://www.spiegel.de/wissenschaft/usa-donald-trump-will-nasa-missionen-zur-beobachtung-von-co-ausstoss-beenden](https://www.spiegel.de/wissenschaft/usa-donald-trump-will-nasa-missionen-zur-beobachtung-von-co-ausstoss-beenden-a-5bc20351-5496-4ee2-b24a-0a140b6ef4b1#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-donald-trump-kreml-bestaetigt-anstehendes-treffen](https://www.spiegel.de/ausland/wladimir-putin-donald-trump-kreml-bestaetigt-anstehendes-treffen-a-d6286ce3-777f-4c63-8748-f14f498add0f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-exporte-steigen-trotz-handelsstreit](https://www.spiegel.de/wirtschaft/deutsche-exporte-steigen-trotz-handelsstreit-a-0ec2ff48-0210-4557-93b7-8eca5ec8b5a8#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-im-zollstreit-mit-den-usa-ein-land-hat-sich-verrechnet](https://www.spiegel.de/ausland/schweiz-im-zollstreit-mit-den-usa-ein-land-hat-sich-verrechnet-a-4edfc38e-f85d-450a-bed0-6dbc1c801272#ref=rss)
+### markus
 
-* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
-* [https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote](https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote-a-94257ef4-1cf8-4382-b69f-1208ac32c434#ref=rss)
-### helikopterabsturz
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-olaf-lies-stemmt-sich-gegen-verbrenner-forderung-von-markus-soeder](https://www.spiegel.de/politik/deutschland/niedersachsen-olaf-lies-stemmt-sich-gegen-verbrenner-forderung-von-markus-soeder-a-f024473d-f493-4765-b851-645f5f92dec5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buergergeld-markus-soeder-und-die-methode-suendenbock-meinung](https://www.spiegel.de/politik/deutschland/buergergeld-markus-soeder-und-die-methode-suendenbock-meinung-a-af2c1e38-4779-44cf-95cc-f24a47897343#ref=rss)
+### söder
 
-* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
-### darunter
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-olaf-lies-stemmt-sich-gegen-verbrenner-forderung-von-markus-soeder](https://www.spiegel.de/politik/deutschland/niedersachsen-olaf-lies-stemmt-sich-gegen-verbrenner-forderung-von-markus-soeder-a-f024473d-f493-4765-b851-645f5f92dec5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buergergeld-markus-soeder-und-die-methode-suendenbock-meinung](https://www.spiegel.de/politik/deutschland/buergergeld-markus-soeder-und-die-methode-suendenbock-meinung-a-af2c1e38-4779-44cf-95cc-f24a47897343#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
+* [https://www.spiegel.de/panorama/migration-neue-zahlen-des-bamf-fast-10-000-asylantraege-von-afghanischen-frauen](https://www.spiegel.de/panorama/migration-neue-zahlen-des-bamf-fast-10-000-asylantraege-von-afghanischen-frauen-a-1473fd87-7a1f-4468-86f9-0de6844a0a22#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-geht-juristisch-gegen-plagiatssucher-stefan-weber-vor](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-geht-juristisch-gegen-plagiatssucher-stefan-weber-vor-a-770c11f0-85ff-41f4-b8fd-acccf0e088e8#ref=rss)
+* [https://www.spiegel.de/netzwelt/nachhilfe-von-openai-was-sie-ueber-den-lernmodus-von-chatgpt-wissen-muessen-und-was-daran-problematisch-ist](https://www.spiegel.de/netzwelt/nachhilfe-von-openai-was-sie-ueber-den-lernmodus-von-chatgpt-wissen-muessen-und-was-daran-problematisch-ist-a-e0cf8592-28fd-45e5-b130-35433b016527#ref=rss)
+### fast
+
+* [https://www.spiegel.de/panorama/migration-neue-zahlen-des-bamf-fast-10-000-asylantraege-von-afghanischen-frauen](https://www.spiegel.de/panorama/migration-neue-zahlen-des-bamf-fast-10-000-asylantraege-von-afghanischen-frauen-a-1473fd87-7a1f-4468-86f9-0de6844a0a22#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-waldbrand-im-sueden-des-landes-die-bilder](https://www.spiegel.de/panorama/frankreich-waldbrand-im-sueden-des-landes-die-bilder-a-1106c517-1bdb-4801-a025-b44cb12d5be9#ref=rss)
+* [https://www.spiegel.de/panorama/der-hobbit-seltene-erstausgabe-in-grossbritannien-fuer-fast-50-000-euro-versteigert](https://www.spiegel.de/panorama/der-hobbit-seltene-erstausgabe-in-grossbritannien-fuer-fast-50-000-euro-versteigert-a-37884cc6-1b2b-4f8a-9b8c-47a4e29ac53c#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/migration-neue-zahlen-des-bamf-fast-10-000-asylantraege-von-afghanischen-frauen](https://www.spiegel.de/panorama/migration-neue-zahlen-des-bamf-fast-10-000-asylantraege-von-afghanischen-frauen-a-1473fd87-7a1f-4468-86f9-0de6844a0a22#ref=rss)
+* [https://www.spiegel.de/wirtschaft/siemens-rechnet-mit-zoll-belastungen-in-hoehe-von-300-millionen-euro](https://www.spiegel.de/wirtschaft/siemens-rechnet-mit-zoll-belastungen-in-hoehe-von-300-millionen-euro-a-08efb916-8ea4-4b11-9e51-ff2f4af4e733#ref=rss)
+* [https://www.spiegel.de/panorama/der-hobbit-seltene-erstausgabe-in-grossbritannien-fuer-fast-50-000-euro-versteigert](https://www.spiegel.de/panorama/der-hobbit-seltene-erstausgabe-in-grossbritannien-fuer-fast-50-000-euro-versteigert-a-37884cc6-1b2b-4f8a-9b8c-47a4e29ac53c#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/siemens-rechnet-mit-zoll-belastungen-in-hoehe-von-300-millionen-euro](https://www.spiegel.de/wirtschaft/siemens-rechnet-mit-zoll-belastungen-in-hoehe-von-300-millionen-euro-a-08efb916-8ea4-4b11-9e51-ff2f4af4e733#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundeshaushalt-lars-klingbeil-pluendert-kleiderkammer-der-bundeswehr-fuer-haushaltsmittel](https://www.spiegel.de/wirtschaft/bundeshaushalt-lars-klingbeil-pluendert-kleiderkammer-der-bundeswehr-fuer-haushaltsmittel-a-e4e73cd1-3d06-458d-a8ac-47e9616da13f#ref=rss)
+* [https://www.spiegel.de/panorama/der-hobbit-seltene-erstausgabe-in-grossbritannien-fuer-fast-50-000-euro-versteigert](https://www.spiegel.de/panorama/der-hobbit-seltene-erstausgabe-in-grossbritannien-fuer-fast-50-000-euro-versteigert-a-37884cc6-1b2b-4f8a-9b8c-47a4e29ac53c#ref=rss)
 ### landes
 
-* [https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister](https://www.spiegel.de/panorama/ghana-acht-tote-bei-helikopterabsturz-darunter-zwei-minister-a-70f3c35b-1a4b-4892-b889-12d24c1d160e#ref=rss)
-* [https://www.spiegel.de/auto/italien-regierung-beschliesst-bruecke-zwischen-sizilien-und-festland](https://www.spiegel.de/auto/italien-regierung-beschliesst-bruecke-zwischen-sizilien-und-festland-a-1e501cad-1ff8-40b3-b0f9-7ca8026b5238#ref=rss)
-### nationalpark
+* [https://www.spiegel.de/panorama/frankreich-waldbrand-im-sueden-des-landes-die-bilder](https://www.spiegel.de/panorama/frankreich-waldbrand-im-sueden-des-landes-die-bilder-a-1106c517-1bdb-4801-a025-b44cb12d5be9#ref=rss)
+* [https://www.spiegel.de/kultur/dea-kulumbegaschwili-alles-ausser-hoffnung](https://www.spiegel.de/kultur/dea-kulumbegaschwili-alles-ausser-hoffnung-a-2ca5681a-8575-4323-9a46-e49ece1d713a#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-im-zollstreit-mit-den-usa-ein-land-hat-sich-verrechnet](https://www.spiegel.de/ausland/schweiz-im-zollstreit-mit-den-usa-ein-land-hat-sich-verrechnet-a-4edfc38e-f85d-450a-bed0-6dbc1c801272#ref=rss)
+### bilder
 
-* [https://www.spiegel.de/panorama/norwegen-vermisster-us-journalist-im-nationalpark-folgefonna-gerettet](https://www.spiegel.de/panorama/norwegen-vermisster-us-journalist-im-nationalpark-folgefonna-gerettet-a-69ba7d51-2119-4569-8330-b50028ea0f18#ref=rss)
-### folgefonna
+* [https://www.spiegel.de/panorama/frankreich-waldbrand-im-sueden-des-landes-die-bilder](https://www.spiegel.de/panorama/frankreich-waldbrand-im-sueden-des-landes-die-bilder-a-1106c517-1bdb-4801-a025-b44cb12d5be9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gazastreifen-vater-von-deutsch-israelischer-geisel-draengt-merz-zum-handeln](https://www.spiegel.de/politik/deutschland/gazastreifen-vater-von-deutsch-israelischer-geisel-draengt-merz-zum-handeln-a-a5a79aa3-6ef3-4ef3-9a82-f2c48e69f072#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/panorama/norwegen-vermisster-us-journalist-im-nationalpark-folgefonna-gerettet](https://www.spiegel.de/panorama/norwegen-vermisster-us-journalist-im-nationalpark-folgefonna-gerettet-a-69ba7d51-2119-4569-8330-b50028ea0f18#ref=rss)
-### mehrere
+* [https://www.spiegel.de/wissenschaft/usa-donald-trump-will-nasa-missionen-zur-beobachtung-von-co-ausstoss-beenden](https://www.spiegel.de/wissenschaft/usa-donald-trump-will-nasa-missionen-zur-beobachtung-von-co-ausstoss-beenden-a-5bc20351-5496-4ee2-b24a-0a140b6ef4b1#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-donald-trump-kreml-bestaetigt-anstehendes-treffen](https://www.spiegel.de/ausland/wladimir-putin-donald-trump-kreml-bestaetigt-anstehendes-treffen-a-d6286ce3-777f-4c63-8748-f14f498add0f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet-a-b761047c-c72c-4413-80d4-0afe042e7579#ref=rss)
+### bestätigt
 
-* [https://www.spiegel.de/panorama/norwegen-vermisster-us-journalist-im-nationalpark-folgefonna-gerettet](https://www.spiegel.de/panorama/norwegen-vermisster-us-journalist-im-nationalpark-folgefonna-gerettet-a-69ba7d51-2119-4569-8330-b50028ea0f18#ref=rss)
-* [https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee](https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee-a-eac87d7e-89e9-4e81-8b25-23d53bc4be76#ref=rss)
-### sehr
+* [https://www.spiegel.de/ausland/wladimir-putin-donald-trump-kreml-bestaetigt-anstehendes-treffen](https://www.spiegel.de/ausland/wladimir-putin-donald-trump-kreml-bestaetigt-anstehendes-treffen-a-d6286ce3-777f-4c63-8748-f14f498add0f#ref=rss)
+* [https://www.spiegel.de/netzwelt/bundesverfassungsgericht-erklaert-ueberwachung-mit-staatstrojaner-fuer-verfassungswidrig-rechtmaessig](https://www.spiegel.de/netzwelt/bundesverfassungsgericht-erklaert-ueberwachung-mit-staatstrojaner-fuer-verfassungswidrig-rechtmaessig-a-2018eac0-0292-40dd-8412-f1cbb49dffa6#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/panorama/norwegen-vermisster-us-journalist-im-nationalpark-folgefonna-gerettet](https://www.spiegel.de/panorama/norwegen-vermisster-us-journalist-im-nationalpark-folgefonna-gerettet-a-69ba7d51-2119-4569-8330-b50028ea0f18#ref=rss)
-* [https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee](https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee-a-eac87d7e-89e9-4e81-8b25-23d53bc4be76#ref=rss)
-### zoo
+* [https://www.spiegel.de/politik/deutschland/gaza-krieg-friedrich-merz-und-die-israel-politik-abwurf-ins-grauen](https://www.spiegel.de/politik/deutschland/gaza-krieg-friedrich-merz-und-die-israel-politik-abwurf-ins-grauen-a-0e570dcc-3ae4-4e2a-95c0-c19d2e2648d3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gazastreifen-vater-von-deutsch-israelischer-geisel-draengt-merz-zum-handeln](https://www.spiegel.de/politik/deutschland/gazastreifen-vater-von-deutsch-israelischer-geisel-draengt-merz-zum-handeln-a-a5a79aa3-6ef3-4ef3-9a82-f2c48e69f072#ref=rss)
+### merz
 
-* [https://www.spiegel.de/panorama/zoo-in-aalborg-tiergarten-nuernberg-sind-haustierspenden-und-pavian-toetungen-in-ordnung](https://www.spiegel.de/panorama/zoo-in-aalborg-tiergarten-nuernberg-sind-haustierspenden-und-pavian-toetungen-in-ordnung-a-01cd9428-6675-4dfc-8215-ca66847b17cd#ref=rss)
-### tiergarten
-
-* [https://www.spiegel.de/panorama/zoo-in-aalborg-tiergarten-nuernberg-sind-haustierspenden-und-pavian-toetungen-in-ordnung](https://www.spiegel.de/panorama/zoo-in-aalborg-tiergarten-nuernberg-sind-haustierspenden-und-pavian-toetungen-in-ordnung-a-01cd9428-6675-4dfc-8215-ca66847b17cd#ref=rss)
-### haustierspenden
-
-* [https://www.spiegel.de/panorama/zoo-in-aalborg-tiergarten-nuernberg-sind-haustierspenden-und-pavian-toetungen-in-ordnung](https://www.spiegel.de/panorama/zoo-in-aalborg-tiergarten-nuernberg-sind-haustierspenden-und-pavian-toetungen-in-ordnung-a-01cd9428-6675-4dfc-8215-ca66847b17cd#ref=rss)
-### sizilien
-
-* [https://www.spiegel.de/auto/italien-regierung-beschliesst-bruecke-zwischen-sizilien-und-festland](https://www.spiegel.de/auto/italien-regierung-beschliesst-bruecke-zwischen-sizilien-und-festland-a-1e501cad-1ff8-40b3-b0f9-7ca8026b5238#ref=rss)
-### festland
-
-* [https://www.spiegel.de/auto/italien-regierung-beschliesst-bruecke-zwischen-sizilien-und-festland](https://www.spiegel.de/auto/italien-regierung-beschliesst-bruecke-zwischen-sizilien-und-festland-a-1e501cad-1ff8-40b3-b0f9-7ca8026b5238#ref=rss)
-### erzbistum
-
-* [https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung](https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung-a-17c3071a-564e-4cd3-b9a3-72bfe7364ffc#ref=rss)
-### juristen
-
-* [https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung](https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung-a-17c3071a-564e-4cd3-b9a3-72bfe7364ffc#ref=rss)
-### kritisieren
-
-* [https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung](https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung-a-17c3071a-564e-4cd3-b9a3-72bfe7364ffc#ref=rss)
-### woelki
-
-* [https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung](https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung-a-17c3071a-564e-4cd3-b9a3-72bfe7364ffc#ref=rss)
-### priesterausbildung
-
-* [https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung](https://www.spiegel.de/panorama/erzbistum-koeln-juristen-kritisieren-woelki-wegen-priesterausbildung-a-17c3071a-564e-4cd3-b9a3-72bfe7364ffc#ref=rss)
-### 120
-
-* [https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-120-laender-gedenken-der-opfer](https://www.spiegel.de/geschichte/atombombenabwurf-auf-hiroshima-120-laender-gedenken-der-opfer-a-6742a6e9-2cac-4e2d-86ae-81cf09f3ffc8#ref=rss)
-### seebeben
-
-* [https://www.spiegel.de/ausland/russland-atom-u-boot-basis-durch-seebeben-offenbar-beschaedigt](https://www.spiegel.de/ausland/russland-atom-u-boot-basis-durch-seebeben-offenbar-beschaedigt-a-409212a5-49d4-4ee0-a862-ce489fd163cf#ref=rss)
-### nordsee
-
-* [https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben](https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben-a-e9c99871-388f-459c-845c-fac447ac05cc#ref=rss)
-### gebot
-
-* [https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben](https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben-a-e9c99871-388f-459c-845c-fac447ac05cc#ref=rss)
-### auktion
-
-* [https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben](https://www.spiegel.de/wirtschaft/windpark-in-der-nordsee-kein-einziges-gebot-bei-auktion-abgegeben-a-e9c99871-388f-459c-845c-fac447ac05cc#ref=rss)
-### bremen
-
-* [https://www.spiegel.de/politik/deutschland/bremen-fdp-darf-nicht-beim-csd-mitfahren](https://www.spiegel.de/politik/deutschland/bremen-fdp-darf-nicht-beim-csd-mitfahren-a-7424b0f0-28ed-43f3-8254-88855bbfd063#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/deutschland/bremen-fdp-darf-nicht-beim-csd-mitfahren](https://www.spiegel.de/politik/deutschland/bremen-fdp-darf-nicht-beim-csd-mitfahren-a-7424b0f0-28ed-43f3-8254-88855bbfd063#ref=rss)
-### whatsapp
-
-* [https://www.spiegel.de/netzwelt/apps/whatsapp-meta-messenger-geht-mit-neuer-funktion-gegen-betruegerische-gruppenchats-vor](https://www.spiegel.de/netzwelt/apps/whatsapp-meta-messenger-geht-mit-neuer-funktion-gegen-betruegerische-gruppenchats-vor-a-e4ddd6f6-e36b-45a5-a7d1-e53c02134006#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee](https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee-a-eac87d7e-89e9-4e81-8b25-23d53bc4be76#ref=rss)
-### pläne
-
-* [https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee](https://www.spiegel.de/ausland/israel-opposition-kritisiert-plaene-zur-gaza-einnahme-als-sehr-schlechte-idee-a-eac87d7e-89e9-4e81-8b25-23d53bc4be76#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gaza-krieg-friedrich-merz-und-die-israel-politik-abwurf-ins-grauen](https://www.spiegel.de/politik/deutschland/gaza-krieg-friedrich-merz-und-die-israel-politik-abwurf-ins-grauen-a-0e570dcc-3ae4-4e2a-95c0-c19d2e2648d3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gazastreifen-vater-von-deutsch-israelischer-geisel-draengt-merz-zum-handeln](https://www.spiegel.de/politik/deutschland/gazastreifen-vater-von-deutsch-israelischer-geisel-draengt-merz-zum-handeln-a-a5a79aa3-6ef3-4ef3-9a82-f2c48e69f072#ref=rss)
 ### terry
 
-* [https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben](https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben-a-0c9a6e00-ec91-4979-84b6-80ea947a3995#ref=rss)
+* [https://www.spiegel.de/kultur/zum-tod-von-terry-reid-der-ewige-insidertipp](https://www.spiegel.de/kultur/zum-tod-von-terry-reid-der-ewige-insidertipp-a-8841b2b0-893c-4f58-a0ad-b932440df615#ref=rss)
 ### reid
 
-* [https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben](https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben-a-0c9a6e00-ec91-4979-84b6-80ea947a3995#ref=rss)
-### 75
+* [https://www.spiegel.de/kultur/zum-tod-von-terry-reid-der-ewige-insidertipp](https://www.spiegel.de/kultur/zum-tod-von-terry-reid-der-ewige-insidertipp-a-8841b2b0-893c-4f58-a0ad-b932440df615#ref=rss)
+### berühmt
 
-* [https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben](https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben-a-0c9a6e00-ec91-4979-84b6-80ea947a3995#ref=rss)
-### gestorben
+* [https://www.spiegel.de/kultur/zum-tod-von-terry-reid-der-ewige-insidertipp](https://www.spiegel.de/kultur/zum-tod-von-terry-reid-der-ewige-insidertipp-a-8841b2b0-893c-4f58-a0ad-b932440df615#ref=rss)
+### wolfram
 
-* [https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben](https://www.spiegel.de/kultur/musik/terry-reid-rocksaenger-und-gitarrist-mit-75-jahren-gestorben-a-0c9a6e00-ec91-4979-84b6-80ea947a3995#ref=rss)
-### christina
+* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-und-sein-gender-verbot-schluss-mit-dem-irrsinn](https://www.spiegel.de/politik/deutschland/wolfram-weimer-und-sein-gender-verbot-schluss-mit-dem-irrsinn-a-d4d48a21-738f-46cc-87ce-c44778c7cec5#ref=rss)
+### weimer
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-will-sich-von-einem-ihrer-verteidiger-trennen](https://www.spiegel.de/panorama/justiz/christina-block-will-sich-von-einem-ihrer-verteidiger-trennen-a-c21f5351-ba1b-4eff-8319-9714e1adbc61#ref=rss)
-### block
+* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-und-sein-gender-verbot-schluss-mit-dem-irrsinn](https://www.spiegel.de/politik/deutschland/wolfram-weimer-und-sein-gender-verbot-schluss-mit-dem-irrsinn-a-d4d48a21-738f-46cc-87ce-c44778c7cec5#ref=rss)
+### schluss
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-will-sich-von-einem-ihrer-verteidiger-trennen](https://www.spiegel.de/panorama/justiz/christina-block-will-sich-von-einem-ihrer-verteidiger-trennen-a-c21f5351-ba1b-4eff-8319-9714e1adbc61#ref=rss)
-### filme
+* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-und-sein-gender-verbot-schluss-mit-dem-irrsinn](https://www.spiegel.de/politik/deutschland/wolfram-weimer-und-sein-gender-verbot-schluss-mit-dem-irrsinn-a-d4d48a21-738f-46cc-87ce-c44778c7cec5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/reiner-haseloff-sachsen-anhalt-ministerpraesident-tritt-nicht-erneut-an](https://www.spiegel.de/politik/deutschland/reiner-haseloff-sachsen-anhalt-ministerpraesident-tritt-nicht-erneut-an-a-c2d81b7b-9fb1-40dd-9dc2-260cdf0ccfe4#ref=rss)
+### zoë
 
-* [https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch](https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch-a-7be04821-e3dd-4b3c-bb35-6b3580063c26#ref=rss)
-### verbessern
+* [https://www.spiegel.de/sport/leichtathletik-niederlaendische-sprinterin-zoe-sedney-spricht-ueber-intime-aufnahmen-und-kritisiert-den-verband](https://www.spiegel.de/sport/leichtathletik-niederlaendische-sprinterin-zoe-sedney-spricht-ueber-intime-aufnahmen-und-kritisiert-den-verband-a-d92d7fd6-c434-4045-a239-d9b692c7c154#ref=rss)
+### sedney
 
-* [https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch](https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch-a-7be04821-e3dd-4b3c-bb35-6b3580063c26#ref=rss)
-### englisch
+* [https://www.spiegel.de/sport/leichtathletik-niederlaendische-sprinterin-zoe-sedney-spricht-ueber-intime-aufnahmen-und-kritisiert-den-verband](https://www.spiegel.de/sport/leichtathletik-niederlaendische-sprinterin-zoe-sedney-spricht-ueber-intime-aufnahmen-und-kritisiert-den-verband-a-d92d7fd6-c434-4045-a239-d9b692c7c154#ref=rss)
+### aufnahmen
 
-* [https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch](https://www.spiegel.de/wissenschaft/mensch/sprache-filme-in-originalsprache-verbessern-das-englisch-a-7be04821-e3dd-4b3c-bb35-6b3580063c26#ref=rss)
-### folgen
+* [https://www.spiegel.de/sport/leichtathletik-niederlaendische-sprinterin-zoe-sedney-spricht-ueber-intime-aufnahmen-und-kritisiert-den-verband](https://www.spiegel.de/sport/leichtathletik-niederlaendische-sprinterin-zoe-sedney-spricht-ueber-intime-aufnahmen-und-kritisiert-den-verband-a-d92d7fd6-c434-4045-a239-d9b692c7c154#ref=rss)
+### verband
 
-* [https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen](https://www.spiegel.de/wirtschaft/windkraft-experten-warnen-vor-folgen-der-neuen-offshore-regelungen-a-3697efc1-6c84-4785-ad87-7c7e5dc8fa93#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik-niederlaendische-sprinterin-zoe-sedney-spricht-ueber-intime-aufnahmen-und-kritisiert-den-verband](https://www.spiegel.de/sport/leichtathletik-niederlaendische-sprinterin-zoe-sedney-spricht-ueber-intime-aufnahmen-und-kritisiert-den-verband-a-d92d7fd6-c434-4045-a239-d9b692c7c154#ref=rss)
+### mutmaßlicher
+
+* [https://www.spiegel.de/panorama/westerwald-mutmasslicher-dreifachmoerder-ist-tot](https://www.spiegel.de/panorama/westerwald-mutmasslicher-dreifachmoerder-ist-tot-a-5920c37c-277c-4fff-b086-985ef73a36cf#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-drei-mutmassliche-mitglieder-der-reichsbuerger-gruppe-festgenommen](https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-drei-mutmassliche-mitglieder-der-reichsbuerger-gruppe-festgenommen-a-e61b97db-6501-49ce-a8a5-eec6c305ee96#ref=rss)
+### reiner
+
+* [https://www.spiegel.de/politik/deutschland/reiner-haseloff-sachsen-anhalt-ministerpraesident-tritt-nicht-erneut-an](https://www.spiegel.de/politik/deutschland/reiner-haseloff-sachsen-anhalt-ministerpraesident-tritt-nicht-erneut-an-a-c2d81b7b-9fb1-40dd-9dc2-260cdf0ccfe4#ref=rss)
+### haseloff
+
+* [https://www.spiegel.de/politik/deutschland/reiner-haseloff-sachsen-anhalt-ministerpraesident-tritt-nicht-erneut-an](https://www.spiegel.de/politik/deutschland/reiner-haseloff-sachsen-anhalt-ministerpraesident-tritt-nicht-erneut-an-a-c2d81b7b-9fb1-40dd-9dc2-260cdf0ccfe4#ref=rss)
+### lies
+
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-olaf-lies-stemmt-sich-gegen-verbrenner-forderung-von-markus-soeder](https://www.spiegel.de/politik/deutschland/niedersachsen-olaf-lies-stemmt-sich-gegen-verbrenner-forderung-von-markus-soeder-a-f024473d-f493-4765-b851-645f5f92dec5#ref=rss)
+### bayerns
+
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-olaf-lies-stemmt-sich-gegen-verbrenner-forderung-von-markus-soeder](https://www.spiegel.de/politik/deutschland/niedersachsen-olaf-lies-stemmt-sich-gegen-verbrenner-forderung-von-markus-soeder-a-f024473d-f493-4765-b851-645f5f92dec5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buergergeld-markus-soeder-und-die-methode-suendenbock-meinung](https://www.spiegel.de/politik/deutschland/buergergeld-markus-soeder-und-die-methode-suendenbock-meinung-a-af2c1e38-4779-44cf-95cc-f24a47897343#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-olaf-lies-stemmt-sich-gegen-verbrenner-forderung-von-markus-soeder](https://www.spiegel.de/politik/deutschland/niedersachsen-olaf-lies-stemmt-sich-gegen-verbrenner-forderung-von-markus-soeder-a-f024473d-f493-4765-b851-645f5f92dec5#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-waldbrand-im-sueden-des-landes-die-bilder](https://www.spiegel.de/panorama/frankreich-waldbrand-im-sueden-des-landes-die-bilder-a-1106c517-1bdb-4801-a025-b44cb12d5be9#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/netzwelt/nachhilfe-von-openai-was-sie-ueber-den-lernmodus-von-chatgpt-wissen-muessen-und-was-daran-problematisch-ist](https://www.spiegel.de/netzwelt/nachhilfe-von-openai-was-sie-ueber-den-lernmodus-von-chatgpt-wissen-muessen-und-was-daran-problematisch-ist-a-e0cf8592-28fd-45e5-b130-35433b016527#ref=rss)
+### christian
+
+* [https://www.spiegel.de/sport/handball/handball-christian-koehle-verteidigt-insolvente-hc-ludwigsburg-nach-kritik-gegen-haltlose-unterstellungen](https://www.spiegel.de/sport/handball/handball-christian-koehle-verteidigt-insolvente-hc-ludwigsburg-nach-kritik-gegen-haltlose-unterstellungen-a-76929d99-0a6c-41fd-a4cf-b4b0ee6860d2#ref=rss)
+### köhle
+
+* [https://www.spiegel.de/sport/handball/handball-christian-koehle-verteidigt-insolvente-hc-ludwigsburg-nach-kritik-gegen-haltlose-unterstellungen](https://www.spiegel.de/sport/handball/handball-christian-koehle-verteidigt-insolvente-hc-ludwigsburg-nach-kritik-gegen-haltlose-unterstellungen-a-76929d99-0a6c-41fd-a4cf-b4b0ee6860d2#ref=rss)
+### hc
+
+* [https://www.spiegel.de/sport/handball/handball-christian-koehle-verteidigt-insolvente-hc-ludwigsburg-nach-kritik-gegen-haltlose-unterstellungen](https://www.spiegel.de/sport/handball/handball-christian-koehle-verteidigt-insolvente-hc-ludwigsburg-nach-kritik-gegen-haltlose-unterstellungen-a-76929d99-0a6c-41fd-a4cf-b4b0ee6860d2#ref=rss)
+### migration
+
+* [https://www.spiegel.de/panorama/migration-neue-zahlen-des-bamf-fast-10-000-asylantraege-von-afghanischen-frauen](https://www.spiegel.de/panorama/migration-neue-zahlen-des-bamf-fast-10-000-asylantraege-von-afghanischen-frauen-a-1473fd87-7a1f-4468-86f9-0de6844a0a22#ref=rss)
+* [https://www.spiegel.de/kultur/kino/dean-cain-ehemaliger-superman-will-bei-trumps-massenabschiebungen-helfen](https://www.spiegel.de/kultur/kino/dean-cain-ehemaliger-superman-will-bei-trumps-massenabschiebungen-helfen-a-ba614b8a-3e2e-4983-bced-789cfb6a2163#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/migration-neue-zahlen-des-bamf-fast-10-000-asylantraege-von-afghanischen-frauen](https://www.spiegel.de/panorama/migration-neue-zahlen-des-bamf-fast-10-000-asylantraege-von-afghanischen-frauen-a-1473fd87-7a1f-4468-86f9-0de6844a0a22#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet-a-b761047c-c72c-4413-80d4-0afe042e7579#ref=rss)
+### leben
+
+* [https://www.spiegel.de/panorama/migration-neue-zahlen-des-bamf-fast-10-000-asylantraege-von-afghanischen-frauen](https://www.spiegel.de/panorama/migration-neue-zahlen-des-bamf-fast-10-000-asylantraege-von-afghanischen-frauen-a-1473fd87-7a1f-4468-86f9-0de6844a0a22#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-waldbrand-im-sueden-des-landes-die-bilder](https://www.spiegel.de/panorama/frankreich-waldbrand-im-sueden-des-landes-die-bilder-a-1106c517-1bdb-4801-a025-b44cb12d5be9#ref=rss)
+### rechnet
+
+* [https://www.spiegel.de/wirtschaft/siemens-rechnet-mit-zoll-belastungen-in-hoehe-von-300-millionen-euro](https://www.spiegel.de/wirtschaft/siemens-rechnet-mit-zoll-belastungen-in-hoehe-von-300-millionen-euro-a-08efb916-8ea4-4b11-9e51-ff2f4af4e733#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/wirtschaft/siemens-rechnet-mit-zoll-belastungen-in-hoehe-von-300-millionen-euro](https://www.spiegel.de/wirtschaft/siemens-rechnet-mit-zoll-belastungen-in-hoehe-von-300-millionen-euro-a-08efb916-8ea4-4b11-9e51-ff2f4af4e733#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundeshaushalt-lars-klingbeil-pluendert-kleiderkammer-der-bundeswehr-fuer-haushaltsmittel](https://www.spiegel.de/wirtschaft/bundeshaushalt-lars-klingbeil-pluendert-kleiderkammer-der-bundeswehr-fuer-haushaltsmittel-a-e4e73cd1-3d06-458d-a8ac-47e9616da13f#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/wirtschaft/siemens-rechnet-mit-zoll-belastungen-in-hoehe-von-300-millionen-euro](https://www.spiegel.de/wirtschaft/siemens-rechnet-mit-zoll-belastungen-in-hoehe-von-300-millionen-euro-a-08efb916-8ea4-4b11-9e51-ff2f4af4e733#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rheinmetall-ruestungskonzern-expandiert-mit-drohnenentwicklung-in-braunschweig](https://www.spiegel.de/wirtschaft/rheinmetall-ruestungskonzern-expandiert-mit-drohnenentwicklung-in-braunschweig-a-a7b80817-bb60-4bd5-9705-f6abe34f9333#ref=rss)
+### frauke
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-geht-juristisch-gegen-plagiatssucher-stefan-weber-vor](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-geht-juristisch-gegen-plagiatssucher-stefan-weber-vor-a-770c11f0-85ff-41f4-b8fd-acccf0e088e8#ref=rss)
+### brosiusgersdorf
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-geht-juristisch-gegen-plagiatssucher-stefan-weber-vor](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-geht-juristisch-gegen-plagiatssucher-stefan-weber-vor-a-770c11f0-85ff-41f4-b8fd-acccf0e088e8#ref=rss)
+### plagiatssucher
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-geht-juristisch-gegen-plagiatssucher-stefan-weber-vor](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-geht-juristisch-gegen-plagiatssucher-stefan-weber-vor-a-770c11f0-85ff-41f4-b8fd-acccf0e088e8#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-geht-juristisch-gegen-plagiatssucher-stefan-weber-vor](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-geht-juristisch-gegen-plagiatssucher-stefan-weber-vor-a-770c11f0-85ff-41f4-b8fd-acccf0e088e8#ref=rss)
+### weber
+
+* [https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-geht-juristisch-gegen-plagiatssucher-stefan-weber-vor](https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-geht-juristisch-gegen-plagiatssucher-stefan-weber-vor-a-770c11f0-85ff-41f4-b8fd-acccf0e088e8#ref=rss)
+### land
+
+* [https://www.spiegel.de/panorama/frankreich-waldbrand-im-sueden-des-landes-die-bilder](https://www.spiegel.de/panorama/frankreich-waldbrand-im-sueden-des-landes-die-bilder-a-1106c517-1bdb-4801-a025-b44cb12d5be9#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-im-zollstreit-mit-den-usa-ein-land-hat-sich-verrechnet](https://www.spiegel.de/ausland/schweiz-im-zollstreit-mit-den-usa-ein-land-hat-sich-verrechnet-a-4edfc38e-f85d-450a-bed0-6dbc1c801272#ref=rss)
+### kam
+
+* [https://www.spiegel.de/panorama/frankreich-waldbrand-im-sueden-des-landes-die-bilder](https://www.spiegel.de/panorama/frankreich-waldbrand-im-sueden-des-landes-die-bilder-a-1106c517-1bdb-4801-a025-b44cb12d5be9#ref=rss)
+* [https://www.spiegel.de/kultur/dea-kulumbegaschwili-alles-ausser-hoffnung](https://www.spiegel.de/kultur/dea-kulumbegaschwili-alles-ausser-hoffnung-a-2ca5681a-8575-4323-9a46-e49ece1d713a#ref=rss)
+### nasamissionen
+
+* [https://www.spiegel.de/wissenschaft/usa-donald-trump-will-nasa-missionen-zur-beobachtung-von-co-ausstoss-beenden](https://www.spiegel.de/wissenschaft/usa-donald-trump-will-nasa-missionen-zur-beobachtung-von-co-ausstoss-beenden-a-5bc20351-5496-4ee2-b24a-0a140b6ef4b1#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/wissenschaft/usa-donald-trump-will-nasa-missionen-zur-beobachtung-von-co-ausstoss-beenden](https://www.spiegel.de/wissenschaft/usa-donald-trump-will-nasa-missionen-zur-beobachtung-von-co-ausstoss-beenden-a-5bc20351-5496-4ee2-b24a-0a140b6ef4b1#ref=rss)
+* [https://www.spiegel.de/kultur/dea-kulumbegaschwili-alles-ausser-hoffnung](https://www.spiegel.de/kultur/dea-kulumbegaschwili-alles-ausser-hoffnung-a-2ca5681a-8575-4323-9a46-e49ece1d713a#ref=rss)
+### openai
+
+* [https://www.spiegel.de/netzwelt/nachhilfe-von-openai-was-sie-ueber-den-lernmodus-von-chatgpt-wissen-muessen-und-was-daran-problematisch-ist](https://www.spiegel.de/netzwelt/nachhilfe-von-openai-was-sie-ueber-den-lernmodus-von-chatgpt-wissen-muessen-und-was-daran-problematisch-ist-a-e0cf8592-28fd-45e5-b130-35433b016527#ref=rss)
+### lernmodus
+
+* [https://www.spiegel.de/netzwelt/nachhilfe-von-openai-was-sie-ueber-den-lernmodus-von-chatgpt-wissen-muessen-und-was-daran-problematisch-ist](https://www.spiegel.de/netzwelt/nachhilfe-von-openai-was-sie-ueber-den-lernmodus-von-chatgpt-wissen-muessen-und-was-daran-problematisch-ist-a-e0cf8592-28fd-45e5-b130-35433b016527#ref=rss)
+### macht
+
+* [https://www.spiegel.de/netzwelt/nachhilfe-von-openai-was-sie-ueber-den-lernmodus-von-chatgpt-wissen-muessen-und-was-daran-problematisch-ist](https://www.spiegel.de/netzwelt/nachhilfe-von-openai-was-sie-ueber-den-lernmodus-von-chatgpt-wissen-muessen-und-was-daran-problematisch-ist-a-e0cf8592-28fd-45e5-b130-35433b016527#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-exporte-steigen-trotz-handelsstreit](https://www.spiegel.de/wirtschaft/deutsche-exporte-steigen-trotz-handelsstreit-a-0ec2ff48-0210-4557-93b7-8eca5ec8b5a8#ref=rss)
+### besser
+
+* [https://www.spiegel.de/netzwelt/nachhilfe-von-openai-was-sie-ueber-den-lernmodus-von-chatgpt-wissen-muessen-und-was-daran-problematisch-ist](https://www.spiegel.de/netzwelt/nachhilfe-von-openai-was-sie-ueber-den-lernmodus-von-chatgpt-wissen-muessen-und-was-daran-problematisch-ist-a-e0cf8592-28fd-45e5-b130-35433b016527#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet-a-b761047c-c72c-4413-80d4-0afe042e7579#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/wladimir-putin-donald-trump-kreml-bestaetigt-anstehendes-treffen](https://www.spiegel.de/ausland/wladimir-putin-donald-trump-kreml-bestaetigt-anstehendes-treffen-a-d6286ce3-777f-4c63-8748-f14f498add0f#ref=rss)
+### kreml
+
+* [https://www.spiegel.de/ausland/wladimir-putin-donald-trump-kreml-bestaetigt-anstehendes-treffen](https://www.spiegel.de/ausland/wladimir-putin-donald-trump-kreml-bestaetigt-anstehendes-treffen-a-d6286ce3-777f-4c63-8748-f14f498add0f#ref=rss)
+### exporte
+
+* [https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet-a-b761047c-c72c-4413-80d4-0afe042e7579#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-exporte-steigen-trotz-handelsstreit](https://www.spiegel.de/wirtschaft/deutsche-exporte-steigen-trotz-handelsstreit-a-0ec2ff48-0210-4557-93b7-8eca5ec8b5a8#ref=rss)
+### steigen
+
+* [https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet-a-b761047c-c72c-4413-80d4-0afe042e7579#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-exporte-steigen-trotz-handelsstreit](https://www.spiegel.de/wirtschaft/deutsche-exporte-steigen-trotz-handelsstreit-a-0ec2ff48-0210-4557-93b7-8eca5ec8b5a8#ref=rss)
+### handelskrieg
+
+* [https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet-a-b761047c-c72c-4413-80d4-0afe042e7579#ref=rss)
+### erwartet
+
+* [https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/china-exporte-steigen-trotz-handelskrieg-mit-den-usa-staerker-als-erwartet-a-b761047c-c72c-4413-80d4-0afe042e7579#ref=rss)
+* [https://www.spiegel.de/panorama/der-hobbit-seltene-erstausgabe-in-grossbritannien-fuer-fast-50-000-euro-versteigert](https://www.spiegel.de/panorama/der-hobbit-seltene-erstausgabe-in-grossbritannien-fuer-fast-50-000-euro-versteigert-a-37884cc6-1b2b-4f8a-9b8c-47a4e29ac53c#ref=rss)
+### rheinmetall
+
+* [https://www.spiegel.de/wirtschaft/rheinmetall-ruestungskonzern-expandiert-mit-drohnenentwicklung-in-braunschweig](https://www.spiegel.de/wirtschaft/rheinmetall-ruestungskonzern-expandiert-mit-drohnenentwicklung-in-braunschweig-a-a7b80817-bb60-4bd5-9705-f6abe34f9333#ref=rss)
+### rüstungskonzern
+
+* [https://www.spiegel.de/wirtschaft/rheinmetall-ruestungskonzern-expandiert-mit-drohnenentwicklung-in-braunschweig](https://www.spiegel.de/wirtschaft/rheinmetall-ruestungskonzern-expandiert-mit-drohnenentwicklung-in-braunschweig-a-a7b80817-bb60-4bd5-9705-f6abe34f9333#ref=rss)
+### lars
+
+* [https://www.spiegel.de/wirtschaft/bundeshaushalt-lars-klingbeil-pluendert-kleiderkammer-der-bundeswehr-fuer-haushaltsmittel](https://www.spiegel.de/wirtschaft/bundeshaushalt-lars-klingbeil-pluendert-kleiderkammer-der-bundeswehr-fuer-haushaltsmittel-a-e4e73cd1-3d06-458d-a8ac-47e9616da13f#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/wirtschaft/bundeshaushalt-lars-klingbeil-pluendert-kleiderkammer-der-bundeswehr-fuer-haushaltsmittel](https://www.spiegel.de/wirtschaft/bundeshaushalt-lars-klingbeil-pluendert-kleiderkammer-der-bundeswehr-fuer-haushaltsmittel-a-e4e73cd1-3d06-458d-a8ac-47e9616da13f#ref=rss)
+### weiß
+
+* [https://www.spiegel.de/geschichte/wehrbauten-im-mittelalter-eine-burg-ohne-steine](https://www.spiegel.de/geschichte/wehrbauten-im-mittelalter-eine-burg-ohne-steine-a-88ad7922-77e9-4be5-ada5-405a87d10dc8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gaza-krieg-friedrich-merz-und-die-israel-politik-abwurf-ins-grauen](https://www.spiegel.de/politik/deutschland/gaza-krieg-friedrich-merz-und-die-israel-politik-abwurf-ins-grauen-a-0e570dcc-3ae4-4e2a-95c0-c19d2e2648d3#ref=rss)
+### kamen
+
+* [https://www.spiegel.de/geschichte/wehrbauten-im-mittelalter-eine-burg-ohne-steine](https://www.spiegel.de/geschichte/wehrbauten-im-mittelalter-eine-burg-ohne-steine-a-88ad7922-77e9-4be5-ada5-405a87d10dc8#ref=rss)
+* [https://www.spiegel.de/ausland/us-einwanderungsbehoerde-nimmt-16-migranten-bei-taeuschungsmanoever-fest](https://www.spiegel.de/ausland/us-einwanderungsbehoerde-nimmt-16-migranten-bei-taeuschungsmanoever-fest-a-c2d182ec-d1e1-47d2-be90-731f4a9214d5#ref=rss)
+### dea
+
+* [https://www.spiegel.de/kultur/dea-kulumbegaschwili-alles-ausser-hoffnung](https://www.spiegel.de/kultur/dea-kulumbegaschwili-alles-ausser-hoffnung-a-2ca5681a-8575-4323-9a46-e49ece1d713a#ref=rss)
+### kulumbegaschwili
+
+* [https://www.spiegel.de/kultur/dea-kulumbegaschwili-alles-ausser-hoffnung](https://www.spiegel.de/kultur/dea-kulumbegaschwili-alles-ausser-hoffnung-a-2ca5681a-8575-4323-9a46-e49ece1d713a#ref=rss)
+### bürgergeld
+
+* [https://www.spiegel.de/politik/deutschland/buergergeld-markus-soeder-und-die-methode-suendenbock-meinung](https://www.spiegel.de/politik/deutschland/buergergeld-markus-soeder-und-die-methode-suendenbock-meinung-a-af2c1e38-4779-44cf-95cc-f24a47897343#ref=rss)
+### dean
+
+* [https://www.spiegel.de/kultur/kino/dean-cain-ehemaliger-superman-will-bei-trumps-massenabschiebungen-helfen](https://www.spiegel.de/kultur/kino/dean-cain-ehemaliger-superman-will-bei-trumps-massenabschiebungen-helfen-a-ba614b8a-3e2e-4983-bced-789cfb6a2163#ref=rss)
+### cain
+
+* [https://www.spiegel.de/kultur/kino/dean-cain-ehemaliger-superman-will-bei-trumps-massenabschiebungen-helfen](https://www.spiegel.de/kultur/kino/dean-cain-ehemaliger-superman-will-bei-trumps-massenabschiebungen-helfen-a-ba614b8a-3e2e-4983-bced-789cfb6a2163#ref=rss)
+### superman
+
+* [https://www.spiegel.de/kultur/kino/dean-cain-ehemaliger-superman-will-bei-trumps-massenabschiebungen-helfen](https://www.spiegel.de/kultur/kino/dean-cain-ehemaliger-superman-will-bei-trumps-massenabschiebungen-helfen-a-ba614b8a-3e2e-4983-bced-789cfb6a2163#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/kultur/kino/dean-cain-ehemaliger-superman-will-bei-trumps-massenabschiebungen-helfen](https://www.spiegel.de/kultur/kino/dean-cain-ehemaliger-superman-will-bei-trumps-massenabschiebungen-helfen-a-ba614b8a-3e2e-4983-bced-789cfb6a2163#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-im-zollstreit-mit-den-usa-ein-land-hat-sich-verrechnet](https://www.spiegel.de/ausland/schweiz-im-zollstreit-mit-den-usa-ein-land-hat-sich-verrechnet-a-4edfc38e-f85d-450a-bed0-6dbc1c801272#ref=rss)
+### bundesverfassungsgericht
+
+* [https://www.spiegel.de/netzwelt/bundesverfassungsgericht-erklaert-ueberwachung-mit-staatstrojaner-fuer-verfassungswidrig-rechtmaessig](https://www.spiegel.de/netzwelt/bundesverfassungsgericht-erklaert-ueberwachung-mit-staatstrojaner-fuer-verfassungswidrig-rechtmaessig-a-2018eac0-0292-40dd-8412-f1cbb49dffa6#ref=rss)
 ### prinz
 
-* [https://www.spiegel.de/panorama/leute/prinz-harry-aufsichtsbehoerde-spricht-ihn-von-mobbing-vorwurf-bei-sentebale-frei](https://www.spiegel.de/panorama/leute/prinz-harry-aufsichtsbehoerde-spricht-ihn-von-mobbing-vorwurf-bei-sentebale-frei-a-9ac82957-a202-4d07-8258-27d9fffd06f8#ref=rss)
-### harry
+* [https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-drei-mutmassliche-mitglieder-der-reichsbuerger-gruppe-festgenommen](https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-drei-mutmassliche-mitglieder-der-reichsbuerger-gruppe-festgenommen-a-e61b97db-6501-49ce-a8a5-eec6c305ee96#ref=rss)
+### reuß
 
-* [https://www.spiegel.de/panorama/leute/prinz-harry-aufsichtsbehoerde-spricht-ihn-von-mobbing-vorwurf-bei-sentebale-frei](https://www.spiegel.de/panorama/leute/prinz-harry-aufsichtsbehoerde-spricht-ihn-von-mobbing-vorwurf-bei-sentebale-frei-a-9ac82957-a202-4d07-8258-27d9fffd06f8#ref=rss)
-### labubus
+* [https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-drei-mutmassliche-mitglieder-der-reichsbuerger-gruppe-festgenommen](https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-drei-mutmassliche-mitglieder-der-reichsbuerger-gruppe-festgenommen-a-e61b97db-6501-49ce-a8a5-eec6c305ee96#ref=rss)
+### drei
 
-* [https://www.spiegel.de/kultur/labubus-nicht-plueschtiere-sind-das-problem-sondern-privatjets](https://www.spiegel.de/kultur/labubus-nicht-plueschtiere-sind-das-problem-sondern-privatjets-a-5878f4f3-45d3-400b-964a-2883bf351568#ref=rss)
-### schlammlawine
+* [https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-drei-mutmassliche-mitglieder-der-reichsbuerger-gruppe-festgenommen](https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-drei-mutmassliche-mitglieder-der-reichsbuerger-gruppe-festgenommen-a-e61b97db-6501-49ce-a8a5-eec6c305ee96#ref=rss)
+### festgenommen
 
-* [https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote](https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote-a-94257ef4-1cf8-4382-b69f-1208ac32c434#ref=rss)
-### zerstört
+* [https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-drei-mutmassliche-mitglieder-der-reichsbuerger-gruppe-festgenommen](https://www.spiegel.de/panorama/justiz/heinrich-xiii-prinz-reuss-drei-mutmassliche-mitglieder-der-reichsbuerger-gruppe-festgenommen-a-e61b97db-6501-49ce-a8a5-eec6c305ee96#ref=rss)
+* [https://www.spiegel.de/ausland/us-einwanderungsbehoerde-nimmt-16-migranten-bei-taeuschungsmanoever-fest](https://www.spiegel.de/ausland/us-einwanderungsbehoerde-nimmt-16-migranten-bei-taeuschungsmanoever-fest-a-c2d182ec-d1e1-47d2-be90-731f4a9214d5#ref=rss)
+### schweiz
 
-* [https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote](https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote-a-94257ef4-1cf8-4382-b69f-1208ac32c434#ref=rss)
-### himalaja
+* [https://www.spiegel.de/ausland/schweiz-im-zollstreit-mit-den-usa-ein-land-hat-sich-verrechnet](https://www.spiegel.de/ausland/schweiz-im-zollstreit-mit-den-usa-ein-land-hat-sich-verrechnet-a-4edfc38e-f85d-450a-bed0-6dbc1c801272#ref=rss)
+### hobbit
 
-* [https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote](https://www.spiegel.de/panorama/indien-schlammlawine-zerstoert-dorf-im-himalaja-mindestens-vier-tote-a-94257ef4-1cf8-4382-b69f-1208ac32c434#ref=rss)
-### politiker
+* [https://www.spiegel.de/panorama/der-hobbit-seltene-erstausgabe-in-grossbritannien-fuer-fast-50-000-euro-versteigert](https://www.spiegel.de/panorama/der-hobbit-seltene-erstausgabe-in-grossbritannien-fuer-fast-50-000-euro-versteigert-a-37884cc6-1b2b-4f8a-9b8c-47a4e29ac53c#ref=rss)
+### erstausgabe
 
-* [https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen](https://www.spiegel.de/politik/deutschland/zollstreit-mit-den-usa-deutsche-politiker-empoert-ueber-trumps-geschenk-aeusserungen-a-90ddc729-3024-47fc-a675-b72e83ef995a#ref=rss)
+* [https://www.spiegel.de/panorama/der-hobbit-seltene-erstausgabe-in-grossbritannien-fuer-fast-50-000-euro-versteigert](https://www.spiegel.de/panorama/der-hobbit-seltene-erstausgabe-in-grossbritannien-fuer-fast-50-000-euro-versteigert-a-37884cc6-1b2b-4f8a-9b8c-47a4e29ac53c#ref=rss)
+### vater
+
+* [https://www.spiegel.de/politik/deutschland/gazastreifen-vater-von-deutsch-israelischer-geisel-draengt-merz-zum-handeln](https://www.spiegel.de/politik/deutschland/gazastreifen-vater-von-deutsch-israelischer-geisel-draengt-merz-zum-handeln-a-a5a79aa3-6ef3-4ef3-9a82-f2c48e69f072#ref=rss)
+### migranten
+
+* [https://www.spiegel.de/ausland/us-einwanderungsbehoerde-nimmt-16-migranten-bei-taeuschungsmanoever-fest](https://www.spiegel.de/ausland/us-einwanderungsbehoerde-nimmt-16-migranten-bei-taeuschungsmanoever-fest-a-c2d182ec-d1e1-47d2-be90-731f4a9214d5#ref=rss)
 
