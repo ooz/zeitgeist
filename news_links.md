@@ -4,357 +4,364 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### israel
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-und-israel-schulschwaenzer-alpen-tourismus](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-und-israel-schulschwaenzer-alpen-tourismus-a-a41ec1f2-9602-4491-a00d-79708e512535#ref=rss)
-* [https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet](https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet-a-c5476211-d606-4583-99d9-1ebd150ed6a7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reaktion-auf-israels-gaza-plaene-merz-setzt-auf-symbolische-sanktion](https://www.spiegel.de/politik/deutschland/reaktion-auf-israels-gaza-plaene-merz-setzt-auf-symbolische-sanktion-a-2ccaef66-950d-4f8b-b94e-1367bd62d971#ref=rss)
-* [https://www.spiegel.de/politik/israel-klingbeil-unterstuetzt-ruestungsstopp-deutsch-israelische-gesellschaft-kritisiert-ihn-scharf](https://www.spiegel.de/politik/israel-klingbeil-unterstuetzt-ruestungsstopp-deutsch-israelische-gesellschaft-kritisiert-ihn-scharf-a-89378e91-33a3-430e-b879-be087b9e1da1#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska-a-0c2e68bf-1af4-45c6-a638-f415c8d97ed1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis-a-455c908d-50b4-43e8-b08a-9c2394e30d8b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder-a-ed5b201a-bc51-4918-98f1-30fa38095526#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-notenbank-donald-trumps-kandidatenliste-fuer-den-top-job-bei-der-fed-wird-offenbar-laenger](https://www.spiegel.de/wirtschaft/us-notenbank-donald-trumps-kandidatenliste-fuer-den-top-job-bei-der-fed-wird-offenbar-laenger-a-5dcfb370-47a2-47b3-8f64-4f063f25f0db#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august](https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august-a-64f08dfa-6f0f-4a31-86e7-a0cdbd6cc129#ref=rss)
+* [https://www.spiegel.de/ausland/armenien-und-aserbaidschan-nach-us-praesident-donald-trump-benannte-transitroute-soll-frieden-bringen](https://www.spiegel.de/ausland/armenien-und-aserbaidschan-nach-us-praesident-donald-trump-benannte-transitroute-soll-frieden-bringen-a-c7ff1cec-8a64-40b7-a6e8-0c5ccdd77eda#ref=rss)
+### trump
 
-* [https://www.spiegel.de/start/arbeiten-in-der-ruestungsindustrie-wie-sich-der-ruf-bei-jungen-menschen-veraendert-hat](https://www.spiegel.de/start/arbeiten-in-der-ruestungsindustrie-wie-sich-der-ruf-bei-jungen-menschen-veraendert-hat-a-69039220-69ec-4a09-80ba-6dfc0c235358#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/3i-atlas-nasa-veroeffentlicht-bislang-bestes-foto-von-fremdem-kometen-in-unserem-sonnensystem](https://www.spiegel.de/wissenschaft/weltall/3i-atlas-nasa-veroeffentlicht-bislang-bestes-foto-von-fremdem-kometen-in-unserem-sonnensystem-a-69699661-3a26-4c14-ad0d-e738135d0688#ref=rss)
-* [https://www.spiegel.de/wissenschaft/abnehmpille-orforglipron-von-eli-lilly-soll-fuer-12-prozent-gewichtsverlust-sorgen](https://www.spiegel.de/wissenschaft/abnehmpille-orforglipron-von-eli-lilly-soll-fuer-12-prozent-gewichtsverlust-sorgen-a-6c0faa70-6183-42f5-b40f-88439f8fb370#ref=rss)
-* [https://www.spiegel.de/kultur/heute-show-extra-next-stop-koester-im-zdf-soeders-soss-an-kloss-manier](https://www.spiegel.de/kultur/heute-show-extra-next-stop-koester-im-zdf-soeders-soss-an-kloss-manier-a-b0a362ce-38a7-492e-b34c-0905b7b8b0b3#ref=rss)
-### jahr
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska-a-0c2e68bf-1af4-45c6-a638-f415c8d97ed1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis-a-455c908d-50b4-43e8-b08a-9c2394e30d8b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder-a-ed5b201a-bc51-4918-98f1-30fa38095526#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-notenbank-donald-trumps-kandidatenliste-fuer-den-top-job-bei-der-fed-wird-offenbar-laenger](https://www.spiegel.de/wirtschaft/us-notenbank-donald-trumps-kandidatenliste-fuer-den-top-job-bei-der-fed-wird-offenbar-laenger-a-5dcfb370-47a2-47b3-8f64-4f063f25f0db#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august](https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august-a-64f08dfa-6f0f-4a31-86e7-a0cdbd6cc129#ref=rss)
+* [https://www.spiegel.de/ausland/armenien-und-aserbaidschan-nach-us-praesident-donald-trump-benannte-transitroute-soll-frieden-bringen](https://www.spiegel.de/ausland/armenien-und-aserbaidschan-nach-us-praesident-donald-trump-benannte-transitroute-soll-frieden-bringen-a-c7ff1cec-8a64-40b7-a6e8-0c5ccdd77eda#ref=rss)
+### putin
 
-* [https://www.spiegel.de/panorama/taylor-swift-ein-jahr-nach-terroralarm-versammeln-sich-fans-der-saengerin-in-wien](https://www.spiegel.de/panorama/taylor-swift-ein-jahr-nach-terroralarm-versammeln-sich-fans-der-saengerin-in-wien-a-2cb5f97f-70a6-4eb4-a65b-af21c9f65461#ref=rss)
-### clooney
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska-a-0c2e68bf-1af4-45c6-a638-f415c8d97ed1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis-a-455c908d-50b4-43e8-b08a-9c2394e30d8b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder-a-ed5b201a-bc51-4918-98f1-30fa38095526#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august](https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august-a-64f08dfa-6f0f-4a31-86e7-a0cdbd6cc129#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/panorama/leute/amal-clooney-und-george-clooney-oeffnen-villa-oleandra-am-comer-see](https://www.spiegel.de/panorama/leute/amal-clooney-und-george-clooney-oeffnen-villa-oleandra-am-comer-see-a-a47ac180-83b9-417b-98cf-4b9016f07f9e#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-und-israel-schulschwaenzer-alpen-tourismus](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-und-israel-schulschwaenzer-alpen-tourismus-a-a41ec1f2-9602-4491-a00d-79708e512535#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reaktion-auf-israels-gaza-plaene-merz-setzt-auf-symbolische-sanktion](https://www.spiegel.de/politik/deutschland/reaktion-auf-israels-gaza-plaene-merz-setzt-auf-symbolische-sanktion-a-2ccaef66-950d-4f8b-b94e-1367bd62d971#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska-a-0c2e68bf-1af4-45c6-a638-f415c8d97ed1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis-a-455c908d-50b4-43e8-b08a-9c2394e30d8b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder-a-ed5b201a-bc51-4918-98f1-30fa38095526#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august](https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august-a-64f08dfa-6f0f-4a31-86e7-a0cdbd6cc129#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-und-israel-schulschwaenzer-alpen-tourismus](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-und-israel-schulschwaenzer-alpen-tourismus-a-a41ec1f2-9602-4491-a00d-79708e512535#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reaktion-auf-israels-gaza-plaene-merz-setzt-auf-symbolische-sanktion](https://www.spiegel.de/politik/deutschland/reaktion-auf-israels-gaza-plaene-merz-setzt-auf-symbolische-sanktion-a-2ccaef66-950d-4f8b-b94e-1367bd62d971#ref=rss)
-### rüstungsgüter
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-und-israel-schulschwaenzer-alpen-tourismus](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-und-israel-schulschwaenzer-alpen-tourismus-a-a41ec1f2-9602-4491-a00d-79708e512535#ref=rss)
-* [https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet](https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet-a-c5476211-d606-4583-99d9-1ebd150ed6a7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reaktion-auf-israels-gaza-plaene-merz-setzt-auf-symbolische-sanktion](https://www.spiegel.de/politik/deutschland/reaktion-auf-israels-gaza-plaene-merz-setzt-auf-symbolische-sanktion-a-2ccaef66-950d-4f8b-b94e-1367bd62d971#ref=rss)
-### arbeiten
-
-* [https://www.spiegel.de/start/arbeiten-in-der-ruestungsindustrie-wie-sich-der-ruf-bei-jungen-menschen-veraendert-hat](https://www.spiegel.de/start/arbeiten-in-der-ruestungsindustrie-wie-sich-der-ruf-bei-jungen-menschen-veraendert-hat-a-69039220-69ec-4a09-80ba-6dfc0c235358#ref=rss)
-* [https://www.spiegel.de/wissenschaft/abnehmpille-orforglipron-von-eli-lilly-soll-fuer-12-prozent-gewichtsverlust-sorgen](https://www.spiegel.de/wissenschaft/abnehmpille-orforglipron-von-eli-lilly-soll-fuer-12-prozent-gewichtsverlust-sorgen-a-6c0faa70-6183-42f5-b40f-88439f8fb370#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-gericht-stoppt-bauarbeiten-an-alligator-alcatraz](https://www.spiegel.de/ausland/usa-donald-trump-gericht-stoppt-bauarbeiten-an-alligator-alcatraz-a-f5247f0d-b5bf-4a63-ae38-6ae5b0bb7122#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-ruanda-klub-beendet-sponsoring-aber-nicht-die-partnerschaft](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-ruanda-klub-beendet-sponsoring-aber-nicht-die-partnerschaft-a-0b36da4c-0a12-42cb-ad3d-db5aecf5b94e#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-ruanda-klub-beendet-sponsoring-aber-nicht-die-partnerschaft](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-ruanda-klub-beendet-sponsoring-aber-nicht-die-partnerschaft-a-0b36da4c-0a12-42cb-ad3d-db5aecf5b94e#ref=rss)
-* [https://www.spiegel.de/politik/israel-klingbeil-unterstuetzt-ruestungsstopp-deutsch-israelische-gesellschaft-kritisiert-ihn-scharf](https://www.spiegel.de/politik/israel-klingbeil-unterstuetzt-ruestungsstopp-deutsch-israelische-gesellschaft-kritisiert-ihn-scharf-a-89378e91-33a3-430e-b879-be087b9e1da1#ref=rss)
-### entschieden
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-tkms-aktionaere-beschliessen-boersengang-von-marinetochter](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-tkms-aktionaere-beschliessen-boersengang-von-marinetochter-a-0b7b2f38-3909-4973-8fa8-d8dbaf2a2fd5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/lippstadt-chefarzt-scheitert-mit-klage-gegen-abtreibungsverbot](https://www.spiegel.de/panorama/justiz/lippstadt-chefarzt-scheitert-mit-klage-gegen-abtreibungsverbot-a-f1f75cca-ec5f-4cd8-8e8f-0bbc2dae2185#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/dresden-gericht-haelt-taegliche-s-bahn-fahrt-fuer-zweitklaessler-fuer-zumutbar](https://www.spiegel.de/panorama/bildung/dresden-gericht-haelt-taegliche-s-bahn-fahrt-fuer-zweitklaessler-fuer-zumutbar-a-a43fe9b9-4e85-4244-8624-510f7e7dd848#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/korruption-in-der-ukraine-wolodymyr-selenskyj-gegen-das-volk](https://www.spiegel.de/ausland/korruption-in-der-ukraine-wolodymyr-selenskyj-gegen-das-volk-a-cb5ef6b6-036b-4300-93d6-7c6189559c16#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg](https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg-a-2405e514-99c8-44ad-ae6b-34f8f39152c8#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/korruption-in-der-ukraine-wolodymyr-selenskyj-gegen-das-volk](https://www.spiegel.de/ausland/korruption-in-der-ukraine-wolodymyr-selenskyj-gegen-das-volk-a-cb5ef6b6-036b-4300-93d6-7c6189559c16#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg](https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg-a-2405e514-99c8-44ad-ae6b-34f8f39152c8#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/dresden-gericht-haelt-taegliche-s-bahn-fahrt-fuer-zweitklaessler-fuer-zumutbar](https://www.spiegel.de/panorama/bildung/dresden-gericht-haelt-taegliche-s-bahn-fahrt-fuer-zweitklaessler-fuer-zumutbar-a-a43fe9b9-4e85-4244-8624-510f7e7dd848#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/panorama/taylor-swift-ein-jahr-nach-terroralarm-versammeln-sich-fans-der-saengerin-in-wien](https://www.spiegel.de/panorama/taylor-swift-ein-jahr-nach-terroralarm-versammeln-sich-fans-der-saengerin-in-wien-a-2cb5f97f-70a6-4eb4-a65b-af21c9f65461#ref=rss)
-### swift
-
-* [https://www.spiegel.de/panorama/taylor-swift-ein-jahr-nach-terroralarm-versammeln-sich-fans-der-saengerin-in-wien](https://www.spiegel.de/panorama/taylor-swift-ein-jahr-nach-terroralarm-versammeln-sich-fans-der-saengerin-in-wien-a-2cb5f97f-70a6-4eb4-a65b-af21c9f65461#ref=rss)
-### fans
-
-* [https://www.spiegel.de/panorama/taylor-swift-ein-jahr-nach-terroralarm-versammeln-sich-fans-der-saengerin-in-wien](https://www.spiegel.de/panorama/taylor-swift-ein-jahr-nach-terroralarm-versammeln-sich-fans-der-saengerin-in-wien-a-2cb5f97f-70a6-4eb4-a65b-af21c9f65461#ref=rss)
-### sängerin
-
-* [https://www.spiegel.de/panorama/taylor-swift-ein-jahr-nach-terroralarm-versammeln-sich-fans-der-saengerin-in-wien](https://www.spiegel.de/panorama/taylor-swift-ein-jahr-nach-terroralarm-versammeln-sich-fans-der-saengerin-in-wien-a-2cb5f97f-70a6-4eb4-a65b-af21c9f65461#ref=rss)
-### wien
-
-* [https://www.spiegel.de/panorama/taylor-swift-ein-jahr-nach-terroralarm-versammeln-sich-fans-der-saengerin-in-wien](https://www.spiegel.de/panorama/taylor-swift-ein-jahr-nach-terroralarm-versammeln-sich-fans-der-saengerin-in-wien-a-2cb5f97f-70a6-4eb4-a65b-af21c9f65461#ref=rss)
-### ludwigshafen
-
-* [https://www.spiegel.de/politik/deutschland/ludwigshafen-afd-kandidat-wehrt-sich-gegen-ausschluss-von-ob-wahl](https://www.spiegel.de/politik/deutschland/ludwigshafen-afd-kandidat-wehrt-sich-gegen-ausschluss-von-ob-wahl-a-97d349ae-f62c-4fb2-9811-a725dd2689da#ref=rss)
-### wehrt
-
-* [https://www.spiegel.de/politik/deutschland/ludwigshafen-afd-kandidat-wehrt-sich-gegen-ausschluss-von-ob-wahl](https://www.spiegel.de/politik/deutschland/ludwigshafen-afd-kandidat-wehrt-sich-gegen-ausschluss-von-ob-wahl-a-97d349ae-f62c-4fb2-9811-a725dd2689da#ref=rss)
-### obwahl
-
-* [https://www.spiegel.de/politik/deutschland/ludwigshafen-afd-kandidat-wehrt-sich-gegen-ausschluss-von-ob-wahl](https://www.spiegel.de/politik/deutschland/ludwigshafen-afd-kandidat-wehrt-sich-gegen-ausschluss-von-ob-wahl-a-97d349ae-f62c-4fb2-9811-a725dd2689da#ref=rss)
-### entscheidung
-
-* [https://www.spiegel.de/politik/deutschland/ludwigshafen-afd-kandidat-wehrt-sich-gegen-ausschluss-von-ob-wahl](https://www.spiegel.de/politik/deutschland/ludwigshafen-afd-kandidat-wehrt-sich-gegen-ausschluss-von-ob-wahl-a-97d349ae-f62c-4fb2-9811-a725dd2689da#ref=rss)
-* [https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet](https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet-a-c5476211-d606-4583-99d9-1ebd150ed6a7#ref=rss)
-### schlaflabor
-
-* [https://www.spiegel.de/deinspiegel/im-schlaflabor-verkabelt-durch-die-nacht](https://www.spiegel.de/deinspiegel/im-schlaflabor-verkabelt-durch-die-nacht-a-2836f8d5-2eac-4d30-8e02-38433dd62ff0#ref=rss)
-### nacht
-
-* [https://www.spiegel.de/deinspiegel/im-schlaflabor-verkabelt-durch-die-nacht](https://www.spiegel.de/deinspiegel/im-schlaflabor-verkabelt-durch-die-nacht-a-2836f8d5-2eac-4d30-8e02-38433dd62ff0#ref=rss)
-### betrug
-
-* [https://www.spiegel.de/wissenschaft/mensch/betrug-in-der-wissenschaft-wie-gross-ist-das-problem](https://www.spiegel.de/wissenschaft/mensch/betrug-in-der-wissenschaft-wie-gross-ist-das-problem-a-101f5cf6-8c12-4f3e-bd2e-6af140517b5e#ref=rss)
-### wissenschaft
-
-* [https://www.spiegel.de/wissenschaft/mensch/betrug-in-der-wissenschaft-wie-gross-ist-das-problem](https://www.spiegel.de/wissenschaft/mensch/betrug-in-der-wissenschaft-wie-gross-ist-das-problem-a-101f5cf6-8c12-4f3e-bd2e-6af140517b5e#ref=rss)
-### problem
-
-* [https://www.spiegel.de/wissenschaft/mensch/betrug-in-der-wissenschaft-wie-gross-ist-das-problem](https://www.spiegel.de/wissenschaft/mensch/betrug-in-der-wissenschaft-wie-gross-ist-das-problem-a-101f5cf6-8c12-4f3e-bd2e-6af140517b5e#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/wissenschaft/mensch/betrug-in-der-wissenschaft-wie-gross-ist-das-problem](https://www.spiegel.de/wissenschaft/mensch/betrug-in-der-wissenschaft-wie-gross-ist-das-problem-a-101f5cf6-8c12-4f3e-bd2e-6af140517b5e#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/wissenschaft/mensch/betrug-in-der-wissenschaft-wie-gross-ist-das-problem](https://www.spiegel.de/wissenschaft/mensch/betrug-in-der-wissenschaft-wie-gross-ist-das-problem-a-101f5cf6-8c12-4f3e-bd2e-6af140517b5e#ref=rss)
-* [https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet](https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet-a-c5476211-d606-4583-99d9-1ebd150ed6a7#ref=rss)
-### sondern
-
-* [https://www.spiegel.de/wissenschaft/mensch/betrug-in-der-wissenschaft-wie-gross-ist-das-problem](https://www.spiegel.de/wissenschaft/mensch/betrug-in-der-wissenschaft-wie-gross-ist-das-problem-a-101f5cf6-8c12-4f3e-bd2e-6af140517b5e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/abnehmpille-orforglipron-von-eli-lilly-soll-fuer-12-prozent-gewichtsverlust-sorgen](https://www.spiegel.de/wissenschaft/abnehmpille-orforglipron-von-eli-lilly-soll-fuer-12-prozent-gewichtsverlust-sorgen-a-6c0faa70-6183-42f5-b40f-88439f8fb370#ref=rss)
-### teuerste
-
-* [https://www.spiegel.de/auto/deutschlands-teuerste-autobahn-spaltet-die-hauptstadt](https://www.spiegel.de/auto/deutschlands-teuerste-autobahn-spaltet-die-hauptstadt-a-6b0658f1-64be-4d2c-afeb-d138899e157a#ref=rss)
-### spaltet
-
-* [https://www.spiegel.de/auto/deutschlands-teuerste-autobahn-spaltet-die-hauptstadt](https://www.spiegel.de/auto/deutschlands-teuerste-autobahn-spaltet-die-hauptstadt-a-6b0658f1-64be-4d2c-afeb-d138899e157a#ref=rss)
-* [https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet](https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet-a-c5476211-d606-4583-99d9-1ebd150ed6a7#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/auto/deutschlands-teuerste-autobahn-spaltet-die-hauptstadt](https://www.spiegel.de/auto/deutschlands-teuerste-autobahn-spaltet-die-hauptstadt-a-6b0658f1-64be-4d2c-afeb-d138899e157a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-und-israel-schulschwaenzer-alpen-tourismus](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-und-israel-schulschwaenzer-alpen-tourismus-a-a41ec1f2-9602-4491-a00d-79708e512535#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/auto/deutschlands-teuerste-autobahn-spaltet-die-hauptstadt](https://www.spiegel.de/auto/deutschlands-teuerste-autobahn-spaltet-die-hauptstadt-a-6b0658f1-64be-4d2c-afeb-d138899e157a#ref=rss)
-* [https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet](https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet-a-c5476211-d606-4583-99d9-1ebd150ed6a7#ref=rss)
-### villa
-
-* [https://www.spiegel.de/panorama/leute/amal-clooney-und-george-clooney-oeffnen-villa-oleandra-am-comer-see](https://www.spiegel.de/panorama/leute/amal-clooney-und-george-clooney-oeffnen-villa-oleandra-am-comer-see-a-a47ac180-83b9-417b-98cf-4b9016f07f9e#ref=rss)
-### comer
-
-* [https://www.spiegel.de/panorama/leute/amal-clooney-und-george-clooney-oeffnen-villa-oleandra-am-comer-see](https://www.spiegel.de/panorama/leute/amal-clooney-und-george-clooney-oeffnen-villa-oleandra-am-comer-see-a-a47ac180-83b9-417b-98cf-4b9016f07f9e#ref=rss)
-### see
-
-* [https://www.spiegel.de/panorama/leute/amal-clooney-und-george-clooney-oeffnen-villa-oleandra-am-comer-see](https://www.spiegel.de/panorama/leute/amal-clooney-und-george-clooney-oeffnen-villa-oleandra-am-comer-see-a-a47ac180-83b9-417b-98cf-4b9016f07f9e#ref=rss)
-### allerdings
-
-* [https://www.spiegel.de/panorama/leute/amal-clooney-und-george-clooney-oeffnen-villa-oleandra-am-comer-see](https://www.spiegel.de/panorama/leute/amal-clooney-und-george-clooney-oeffnen-villa-oleandra-am-comer-see-a-a47ac180-83b9-417b-98cf-4b9016f07f9e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/abnehmpille-orforglipron-von-eli-lilly-soll-fuer-12-prozent-gewichtsverlust-sorgen](https://www.spiegel.de/wissenschaft/abnehmpille-orforglipron-von-eli-lilly-soll-fuer-12-prozent-gewichtsverlust-sorgen-a-6c0faa70-6183-42f5-b40f-88439f8fb370#ref=rss)
-### geld
-
-* [https://www.spiegel.de/panorama/leute/amal-clooney-und-george-clooney-oeffnen-villa-oleandra-am-comer-see](https://www.spiegel.de/panorama/leute/amal-clooney-und-george-clooney-oeffnen-villa-oleandra-am-comer-see-a-a47ac180-83b9-417b-98cf-4b9016f07f9e#ref=rss)
-* [https://www.spiegel.de/start/arbeiten-in-der-ruestungsindustrie-wie-sich-der-ruf-bei-jungen-menschen-veraendert-hat](https://www.spiegel.de/start/arbeiten-in-der-ruestungsindustrie-wie-sich-der-ruf-bei-jungen-menschen-veraendert-hat-a-69039220-69ec-4a09-80ba-6dfc0c235358#ref=rss)
-### cacio
-
-* [https://www.spiegel.de/panorama/gesellschaft/cacio-e-pepe-italiener-entsetzt-ueber-britisches-rezept-fuer-nudel-klassiker](https://www.spiegel.de/panorama/gesellschaft/cacio-e-pepe-italiener-entsetzt-ueber-britisches-rezept-fuer-nudel-klassiker-a-9ea8bb59-d80f-48c6-96f3-4b5669a70bc1#ref=rss)
-### e
-
-* [https://www.spiegel.de/panorama/gesellschaft/cacio-e-pepe-italiener-entsetzt-ueber-britisches-rezept-fuer-nudel-klassiker](https://www.spiegel.de/panorama/gesellschaft/cacio-e-pepe-italiener-entsetzt-ueber-britisches-rezept-fuer-nudel-klassiker-a-9ea8bb59-d80f-48c6-96f3-4b5669a70bc1#ref=rss)
-### pepe
-
-* [https://www.spiegel.de/panorama/gesellschaft/cacio-e-pepe-italiener-entsetzt-ueber-britisches-rezept-fuer-nudel-klassiker](https://www.spiegel.de/panorama/gesellschaft/cacio-e-pepe-italiener-entsetzt-ueber-britisches-rezept-fuer-nudel-klassiker-a-9ea8bb59-d80f-48c6-96f3-4b5669a70bc1#ref=rss)
-### italiener
-
-* [https://www.spiegel.de/panorama/gesellschaft/cacio-e-pepe-italiener-entsetzt-ueber-britisches-rezept-fuer-nudel-klassiker](https://www.spiegel.de/panorama/gesellschaft/cacio-e-pepe-italiener-entsetzt-ueber-britisches-rezept-fuer-nudel-klassiker-a-9ea8bb59-d80f-48c6-96f3-4b5669a70bc1#ref=rss)
-### rezept
-
-* [https://www.spiegel.de/panorama/gesellschaft/cacio-e-pepe-italiener-entsetzt-ueber-britisches-rezept-fuer-nudel-klassiker](https://www.spiegel.de/panorama/gesellschaft/cacio-e-pepe-italiener-entsetzt-ueber-britisches-rezept-fuer-nudel-klassiker-a-9ea8bb59-d80f-48c6-96f3-4b5669a70bc1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/e-rezepte-apotheker-kritisieren-haeufige-systemausfaelle](https://www.spiegel.de/wirtschaft/service/e-rezepte-apotheker-kritisieren-haeufige-systemausfaelle-a-ee37fe3e-a485-4962-a071-f9ac4632feae#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/gesellschaft/cacio-e-pepe-italiener-entsetzt-ueber-britisches-rezept-fuer-nudel-klassiker](https://www.spiegel.de/panorama/gesellschaft/cacio-e-pepe-italiener-entsetzt-ueber-britisches-rezept-fuer-nudel-klassiker-a-9ea8bb59-d80f-48c6-96f3-4b5669a70bc1#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg](https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg-a-2405e514-99c8-44ad-ae6b-34f8f39152c8#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-und-israel-schulschwaenzer-alpen-tourismus](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-und-israel-schulschwaenzer-alpen-tourismus-a-a41ec1f2-9602-4491-a00d-79708e512535#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reaktion-auf-israels-gaza-plaene-merz-setzt-auf-symbolische-sanktion](https://www.spiegel.de/politik/deutschland/reaktion-auf-israels-gaza-plaene-merz-setzt-auf-symbolische-sanktion-a-2ccaef66-950d-4f8b-b94e-1367bd62d971#ref=rss)
-### lieferstopp
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-und-israel-schulschwaenzer-alpen-tourismus](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-und-israel-schulschwaenzer-alpen-tourismus-a-a41ec1f2-9602-4491-a00d-79708e512535#ref=rss)
-* [https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet](https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet-a-c5476211-d606-4583-99d9-1ebd150ed6a7#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet](https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet-a-c5476211-d606-4583-99d9-1ebd150ed6a7#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet](https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet-a-c5476211-d606-4583-99d9-1ebd150ed6a7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg](https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg-a-2405e514-99c8-44ad-ae6b-34f8f39152c8#ref=rss)
-### kritisieren
-
-* [https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet](https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet-a-c5476211-d606-4583-99d9-1ebd150ed6a7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/e-rezepte-apotheker-kritisieren-haeufige-systemausfaelle](https://www.spiegel.de/wirtschaft/service/e-rezepte-apotheker-kritisieren-haeufige-systemausfaelle-a-ee37fe3e-a485-4962-a071-f9ac4632feae#ref=rss)
-### israels
-
-* [https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet](https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet-a-c5476211-d606-4583-99d9-1ebd150ed6a7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reaktion-auf-israels-gaza-plaene-merz-setzt-auf-symbolische-sanktion](https://www.spiegel.de/politik/deutschland/reaktion-auf-israels-gaza-plaene-merz-setzt-auf-symbolische-sanktion-a-2ccaef66-950d-4f8b-b94e-1367bd62d971#ref=rss)
-### premier
-
-* [https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet](https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet-a-c5476211-d606-4583-99d9-1ebd150ed6a7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg](https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg-a-2405e514-99c8-44ad-ae6b-34f8f39152c8#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet](https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet-a-c5476211-d606-4583-99d9-1ebd150ed6a7#ref=rss)
-* [https://www.spiegel.de/politik/israel-klingbeil-unterstuetzt-ruestungsstopp-deutsch-israelische-gesellschaft-kritisiert-ihn-scharf](https://www.spiegel.de/politik/israel-klingbeil-unterstuetzt-ruestungsstopp-deutsch-israelische-gesellschaft-kritisiert-ihn-scharf-a-89378e91-33a3-430e-b879-be087b9e1da1#ref=rss)
-### konsequenzen
-
-* [https://www.spiegel.de/wirtschaft/service/e-rezepte-apotheker-kritisieren-haeufige-systemausfaelle](https://www.spiegel.de/wirtschaft/service/e-rezepte-apotheker-kritisieren-haeufige-systemausfaelle-a-ee37fe3e-a485-4962-a071-f9ac4632feae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reaktion-auf-israels-gaza-plaene-merz-setzt-auf-symbolische-sanktion](https://www.spiegel.de/politik/deutschland/reaktion-auf-israels-gaza-plaene-merz-setzt-auf-symbolische-sanktion-a-2ccaef66-950d-4f8b-b94e-1367bd62d971#ref=rss)
-### arbeitsplatz
-
-* [https://www.spiegel.de/karriere/sexismus-am-arbeitsplatz-wir-maenner-muessen-uns-endlich-mit-den-frauen-verbuenden](https://www.spiegel.de/karriere/sexismus-am-arbeitsplatz-wir-maenner-muessen-uns-endlich-mit-den-frauen-verbuenden-a-ca4ed10b-4b02-4d50-8d4f-79ca1df63846#ref=rss)
-### wir
-
-* [https://www.spiegel.de/karriere/sexismus-am-arbeitsplatz-wir-maenner-muessen-uns-endlich-mit-den-frauen-verbuenden](https://www.spiegel.de/karriere/sexismus-am-arbeitsplatz-wir-maenner-muessen-uns-endlich-mit-den-frauen-verbuenden-a-ca4ed10b-4b02-4d50-8d4f-79ca1df63846#ref=rss)
-### männer
-
-* [https://www.spiegel.de/karriere/sexismus-am-arbeitsplatz-wir-maenner-muessen-uns-endlich-mit-den-frauen-verbuenden](https://www.spiegel.de/karriere/sexismus-am-arbeitsplatz-wir-maenner-muessen-uns-endlich-mit-den-frauen-verbuenden-a-ca4ed10b-4b02-4d50-8d4f-79ca1df63846#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/karriere/sexismus-am-arbeitsplatz-wir-maenner-muessen-uns-endlich-mit-den-frauen-verbuenden](https://www.spiegel.de/karriere/sexismus-am-arbeitsplatz-wir-maenner-muessen-uns-endlich-mit-den-frauen-verbuenden-a-ca4ed10b-4b02-4d50-8d4f-79ca1df63846#ref=rss)
-* [https://www.spiegel.de/kultur/kino/elena-uhlig-fuer-ein-gutes-leben-braucht-die-schauspielerin-vor-allem-andere-frauen](https://www.spiegel.de/kultur/kino/elena-uhlig-fuer-ein-gutes-leben-braucht-die-schauspielerin-vor-allem-andere-frauen-a-e7a001e4-d06e-40b5-9aaf-1304ad158d02#ref=rss)
-### teil
-
-* [https://www.spiegel.de/karriere/sexismus-am-arbeitsplatz-wir-maenner-muessen-uns-endlich-mit-den-frauen-verbuenden](https://www.spiegel.de/karriere/sexismus-am-arbeitsplatz-wir-maenner-muessen-uns-endlich-mit-den-frauen-verbuenden-a-ca4ed10b-4b02-4d50-8d4f-79ca1df63846#ref=rss)
-### existiert
-
-* [https://www.spiegel.de/karriere/sexismus-am-arbeitsplatz-wir-maenner-muessen-uns-endlich-mit-den-frauen-verbuenden](https://www.spiegel.de/karriere/sexismus-am-arbeitsplatz-wir-maenner-muessen-uns-endlich-mit-den-frauen-verbuenden-a-ca4ed10b-4b02-4d50-8d4f-79ca1df63846#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/3i-atlas-nasa-veroeffentlicht-bislang-bestes-foto-von-fremdem-kometen-in-unserem-sonnensystem](https://www.spiegel.de/wissenschaft/weltall/3i-atlas-nasa-veroeffentlicht-bislang-bestes-foto-von-fremdem-kometen-in-unserem-sonnensystem-a-69699661-3a26-4c14-ad0d-e738135d0688#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/us-politik-warum-europas-schwindende-macht-besorgniserregend-ist](https://www.spiegel.de/ausland/us-politik-warum-europas-schwindende-macht-besorgniserregend-ist-a-b4e45896-7f8f-44d9-b303-132b69775bba#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/us-politik-warum-europas-schwindende-macht-besorgniserregend-ist](https://www.spiegel.de/ausland/us-politik-warum-europas-schwindende-macht-besorgniserregend-ist-a-b4e45896-7f8f-44d9-b303-132b69775bba#ref=rss)
-* [https://www.spiegel.de/panorama/usa-pathfinder-ranches-in-wyoming-stehen-zum-verkauf-leben-ohne-nachbarn](https://www.spiegel.de/panorama/usa-pathfinder-ranches-in-wyoming-stehen-zum-verkauf-leben-ohne-nachbarn-a-6692520b-f0ee-4bde-838a-51454f5c0a8f#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/ausland/us-politik-warum-europas-schwindende-macht-besorgniserregend-ist](https://www.spiegel.de/ausland/us-politik-warum-europas-schwindende-macht-besorgniserregend-ist-a-b4e45896-7f8f-44d9-b303-132b69775bba#ref=rss)
-* [https://www.spiegel.de/wissenschaft/abnehmpille-orforglipron-von-eli-lilly-soll-fuer-12-prozent-gewichtsverlust-sorgen](https://www.spiegel.de/wissenschaft/abnehmpille-orforglipron-von-eli-lilly-soll-fuer-12-prozent-gewichtsverlust-sorgen-a-6c0faa70-6183-42f5-b40f-88439f8fb370#ref=rss)
-### ruf
-
-* [https://www.spiegel.de/start/arbeiten-in-der-ruestungsindustrie-wie-sich-der-ruf-bei-jungen-menschen-veraendert-hat](https://www.spiegel.de/start/arbeiten-in-der-ruestungsindustrie-wie-sich-der-ruf-bei-jungen-menschen-veraendert-hat-a-69039220-69ec-4a09-80ba-6dfc0c235358#ref=rss)
-### jungen
-
-* [https://www.spiegel.de/start/arbeiten-in-der-ruestungsindustrie-wie-sich-der-ruf-bei-jungen-menschen-veraendert-hat](https://www.spiegel.de/start/arbeiten-in-der-ruestungsindustrie-wie-sich-der-ruf-bei-jungen-menschen-veraendert-hat-a-69039220-69ec-4a09-80ba-6dfc0c235358#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/dresden-gericht-haelt-taegliche-s-bahn-fahrt-fuer-zweitklaessler-fuer-zumutbar](https://www.spiegel.de/panorama/bildung/dresden-gericht-haelt-taegliche-s-bahn-fahrt-fuer-zweitklaessler-fuer-zumutbar-a-a43fe9b9-4e85-4244-8624-510f7e7dd848#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/start/arbeiten-in-der-ruestungsindustrie-wie-sich-der-ruf-bei-jungen-menschen-veraendert-hat](https://www.spiegel.de/start/arbeiten-in-der-ruestungsindustrie-wie-sich-der-ruf-bei-jungen-menschen-veraendert-hat-a-69039220-69ec-4a09-80ba-6dfc0c235358#ref=rss)
-### land
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-ruanda-klub-beendet-sponsoring-aber-nicht-die-partnerschaft](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-und-ruanda-klub-beendet-sponsoring-aber-nicht-die-partnerschaft-a-0b36da4c-0a12-42cb-ad3d-db5aecf5b94e#ref=rss)
-* [https://www.spiegel.de/ausland/korruption-in-der-ukraine-wolodymyr-selenskyj-gegen-das-volk](https://www.spiegel.de/ausland/korruption-in-der-ukraine-wolodymyr-selenskyj-gegen-das-volk-a-cb5ef6b6-036b-4300-93d6-7c6189559c16#ref=rss)
-### tkms
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-tkms-aktionaere-beschliessen-boersengang-von-marinetochter](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-tkms-aktionaere-beschliessen-boersengang-von-marinetochter-a-0b7b2f38-3909-4973-8fa8-d8dbaf2a2fd5#ref=rss)
-### aktionäre
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-tkms-aktionaere-beschliessen-boersengang-von-marinetochter](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-tkms-aktionaere-beschliessen-boersengang-von-marinetochter-a-0b7b2f38-3909-4973-8fa8-d8dbaf2a2fd5#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/wirtschaft/usa-zollstreit-schweiz-goldbarren-zoelle-koennten-milliarden-kosten](https://www.spiegel.de/wirtschaft/usa-zollstreit-schweiz-goldbarren-zoelle-koennten-milliarden-kosten-a-64b65329-0f08-4000-b526-40893b692133#ref=rss)
-### kosten
-
-* [https://www.spiegel.de/wirtschaft/usa-zollstreit-schweiz-goldbarren-zoelle-koennten-milliarden-kosten](https://www.spiegel.de/wirtschaft/usa-zollstreit-schweiz-goldbarren-zoelle-koennten-milliarden-kosten-a-64b65329-0f08-4000-b526-40893b692133#ref=rss)
+* [https://www.spiegel.de/ausland/friedrich-merz-und-der-gazakrieg-besser-spaet-als-nie](https://www.spiegel.de/ausland/friedrich-merz-und-der-gazakrieg-besser-spaet-als-nie-a-7e9457ea-4cb1-4c18-b5b3-d7e4cf8fdc17#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder-a-ed5b201a-bc51-4918-98f1-30fa38095526#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-waffenstopp-fuer-israel-ueberrascht-und-spaltet-die-union](https://www.spiegel.de/politik/deutschland/friedrich-merz-waffenstopp-fuer-israel-ueberrascht-und-spaltet-die-union-a-b177e2e8-a0a2-4462-b49c-117569c20e6e#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska-a-0c2e68bf-1af4-45c6-a638-f415c8d97ed1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis-a-455c908d-50b4-43e8-b08a-9c2394e30d8b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august](https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august-a-64f08dfa-6f0f-4a31-86e7-a0cdbd6cc129#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/ausland/friedrich-merz-und-der-gazakrieg-besser-spaet-als-nie](https://www.spiegel.de/ausland/friedrich-merz-und-der-gazakrieg-besser-spaet-als-nie-a-7e9457ea-4cb1-4c18-b5b3-d7e4cf8fdc17#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder-a-ed5b201a-bc51-4918-98f1-30fa38095526#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-waffenstopp-fuer-israel-ueberrascht-und-spaltet-die-union](https://www.spiegel.de/politik/deutschland/friedrich-merz-waffenstopp-fuer-israel-ueberrascht-und-spaltet-die-union-a-b177e2e8-a0a2-4462-b49c-117569c20e6e#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/wirtschaft/usa-zollstreit-schweiz-goldbarren-zoelle-koennten-milliarden-kosten](https://www.spiegel.de/wirtschaft/usa-zollstreit-schweiz-goldbarren-zoelle-koennten-milliarden-kosten-a-64b65329-0f08-4000-b526-40893b692133#ref=rss)
-* [https://www.spiegel.de/wissenschaft/abnehmpille-orforglipron-von-eli-lilly-soll-fuer-12-prozent-gewichtsverlust-sorgen](https://www.spiegel.de/wissenschaft/abnehmpille-orforglipron-von-eli-lilly-soll-fuer-12-prozent-gewichtsverlust-sorgen-a-6c0faa70-6183-42f5-b40f-88439f8fb370#ref=rss)
-### 3i/atlas
+* [https://www.spiegel.de/wirtschaft/steuern-rueckgang-der-steuerpruefungen-in-deutschland-festgestellt](https://www.spiegel.de/wirtschaft/steuern-rueckgang-der-steuerpruefungen-in-deutschland-festgestellt-a-6f38e5eb-ba2c-4e77-8bd3-e27439547a0a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-notenbank-donald-trumps-kandidatenliste-fuer-den-top-job-bei-der-fed-wird-offenbar-laenger](https://www.spiegel.de/wirtschaft/us-notenbank-donald-trumps-kandidatenliste-fuer-den-top-job-bei-der-fed-wird-offenbar-laenger-a-5dcfb370-47a2-47b3-8f64-4f063f25f0db#ref=rss)
+* [https://www.spiegel.de/panorama/cordoba-brand-verursacht-schaeden-an-bedeutender-kathedrale-in-spanien](https://www.spiegel.de/panorama/cordoba-brand-verursacht-schaeden-an-bedeutender-kathedrale-in-spanien-a-e3ec7ab5-7e2f-4249-8534-e48329edb189#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august](https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august-a-64f08dfa-6f0f-4a31-86e7-a0cdbd6cc129#ref=rss)
+* [https://www.spiegel.de/panorama/sankt-peter-ording-unbekannte-scheitern-bei-skrupellosem-waschbaer-diebstahl-in-tierpark](https://www.spiegel.de/panorama/sankt-peter-ording-unbekannte-scheitern-bei-skrupellosem-waschbaer-diebstahl-in-tierpark-a-e6d4736d-e0ef-45dc-88ba-4a2738b42077#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/wissenschaft/weltall/3i-atlas-nasa-veroeffentlicht-bislang-bestes-foto-von-fremdem-kometen-in-unserem-sonnensystem](https://www.spiegel.de/wissenschaft/weltall/3i-atlas-nasa-veroeffentlicht-bislang-bestes-foto-von-fremdem-kometen-in-unserem-sonnensystem-a-69699661-3a26-4c14-ad0d-e738135d0688#ref=rss)
-### pro
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska-a-0c2e68bf-1af4-45c6-a638-f415c8d97ed1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis-a-455c908d-50b4-43e8-b08a-9c2394e30d8b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder-a-ed5b201a-bc51-4918-98f1-30fa38095526#ref=rss)
+### alaska
 
-* [https://www.spiegel.de/wissenschaft/weltall/3i-atlas-nasa-veroeffentlicht-bislang-bestes-foto-von-fremdem-kometen-in-unserem-sonnensystem](https://www.spiegel.de/wissenschaft/weltall/3i-atlas-nasa-veroeffentlicht-bislang-bestes-foto-von-fremdem-kometen-in-unserem-sonnensystem-a-69699661-3a26-4c14-ad0d-e738135d0688#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### drohnen
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska-a-0c2e68bf-1af4-45c6-a638-f415c8d97ed1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis-a-455c908d-50b4-43e8-b08a-9c2394e30d8b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august](https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august-a-64f08dfa-6f0f-4a31-86e7-a0cdbd6cc129#ref=rss)
+### israel
 
-* [https://www.spiegel.de/panorama/justiz/vertraulicher-bka-bericht-polizei-zaehlt-536-verdaechtige-drohnen-binnen-drei-monaten](https://www.spiegel.de/panorama/justiz/vertraulicher-bka-bericht-polizei-zaehlt-536-verdaechtige-drohnen-binnen-drei-monaten-a-c420681d-6ef7-4add-85d8-fb0bb33403ef#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/panorama/justiz/vertraulicher-bka-bericht-polizei-zaehlt-536-verdaechtige-drohnen-binnen-drei-monaten](https://www.spiegel.de/panorama/justiz/vertraulicher-bka-bericht-polizei-zaehlt-536-verdaechtige-drohnen-binnen-drei-monaten-a-c420681d-6ef7-4add-85d8-fb0bb33403ef#ref=rss)
-* [https://www.spiegel.de/kultur/heute-show-extra-next-stop-koester-im-zdf-soeders-soss-an-kloss-manier](https://www.spiegel.de/kultur/heute-show-extra-next-stop-koester-im-zdf-soeders-soss-an-kloss-manier-a-b0a362ce-38a7-492e-b34c-0905b7b8b0b3#ref=rss)
-### wyoming
-
-* [https://www.spiegel.de/panorama/usa-pathfinder-ranches-in-wyoming-stehen-zum-verkauf-leben-ohne-nachbarn](https://www.spiegel.de/panorama/usa-pathfinder-ranches-in-wyoming-stehen-zum-verkauf-leben-ohne-nachbarn-a-6692520b-f0ee-4bde-838a-51454f5c0a8f#ref=rss)
-### verkauf
-
-* [https://www.spiegel.de/panorama/usa-pathfinder-ranches-in-wyoming-stehen-zum-verkauf-leben-ohne-nachbarn](https://www.spiegel.de/panorama/usa-pathfinder-ranches-in-wyoming-stehen-zum-verkauf-leben-ohne-nachbarn-a-6692520b-f0ee-4bde-838a-51454f5c0a8f#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/usa-pathfinder-ranches-in-wyoming-stehen-zum-verkauf-leben-ohne-nachbarn](https://www.spiegel.de/panorama/usa-pathfinder-ranches-in-wyoming-stehen-zum-verkauf-leben-ohne-nachbarn-a-6692520b-f0ee-4bde-838a-51454f5c0a8f#ref=rss)
-* [https://www.spiegel.de/kultur/kino/elena-uhlig-fuer-ein-gutes-leben-braucht-die-schauspielerin-vor-allem-andere-frauen](https://www.spiegel.de/kultur/kino/elena-uhlig-fuer-ein-gutes-leben-braucht-die-schauspielerin-vor-allem-andere-frauen-a-e7a001e4-d06e-40b5-9aaf-1304ad158d02#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/panorama/usa-pathfinder-ranches-in-wyoming-stehen-zum-verkauf-leben-ohne-nachbarn](https://www.spiegel.de/panorama/usa-pathfinder-ranches-in-wyoming-stehen-zum-verkauf-leben-ohne-nachbarn-a-6692520b-f0ee-4bde-838a-51454f5c0a8f#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### wolodymyr
-
-* [https://www.spiegel.de/ausland/korruption-in-der-ukraine-wolodymyr-selenskyj-gegen-das-volk](https://www.spiegel.de/ausland/korruption-in-der-ukraine-wolodymyr-selenskyj-gegen-das-volk-a-cb5ef6b6-036b-4300-93d6-7c6189559c16#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg](https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg-a-2405e514-99c8-44ad-ae6b-34f8f39152c8#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/korruption-in-der-ukraine-wolodymyr-selenskyj-gegen-das-volk](https://www.spiegel.de/ausland/korruption-in-der-ukraine-wolodymyr-selenskyj-gegen-das-volk-a-cb5ef6b6-036b-4300-93d6-7c6189559c16#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg](https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg-a-2405e514-99c8-44ad-ae6b-34f8f39152c8#ref=rss)
-### elena
-
-* [https://www.spiegel.de/kultur/kino/elena-uhlig-fuer-ein-gutes-leben-braucht-die-schauspielerin-vor-allem-andere-frauen](https://www.spiegel.de/kultur/kino/elena-uhlig-fuer-ein-gutes-leben-braucht-die-schauspielerin-vor-allem-andere-frauen-a-e7a001e4-d06e-40b5-9aaf-1304ad158d02#ref=rss)
-### uhlig
-
-* [https://www.spiegel.de/kultur/kino/elena-uhlig-fuer-ein-gutes-leben-braucht-die-schauspielerin-vor-allem-andere-frauen](https://www.spiegel.de/kultur/kino/elena-uhlig-fuer-ein-gutes-leben-braucht-die-schauspielerin-vor-allem-andere-frauen-a-e7a001e4-d06e-40b5-9aaf-1304ad158d02#ref=rss)
-### schauspielerin
-
-* [https://www.spiegel.de/kultur/kino/elena-uhlig-fuer-ein-gutes-leben-braucht-die-schauspielerin-vor-allem-andere-frauen](https://www.spiegel.de/kultur/kino/elena-uhlig-fuer-ein-gutes-leben-braucht-die-schauspielerin-vor-allem-andere-frauen-a-e7a001e4-d06e-40b5-9aaf-1304ad158d02#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/kultur/kino/elena-uhlig-fuer-ein-gutes-leben-braucht-die-schauspielerin-vor-allem-andere-frauen](https://www.spiegel.de/kultur/kino/elena-uhlig-fuer-ein-gutes-leben-braucht-die-schauspielerin-vor-allem-andere-frauen-a-e7a001e4-d06e-40b5-9aaf-1304ad158d02#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg](https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg-a-2405e514-99c8-44ad-ae6b-34f8f39152c8#ref=rss)
+* [https://www.spiegel.de/ausland/friedrich-merz-und-der-gazakrieg-besser-spaet-als-nie](https://www.spiegel.de/ausland/friedrich-merz-und-der-gazakrieg-besser-spaet-als-nie-a-7e9457ea-4cb1-4c18-b5b3-d7e4cf8fdc17#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-deutschland-warnt-mit-verbuendeten-vor-israels-gaza-plan](https://www.spiegel.de/ausland/israel-gaza-krieg-deutschland-warnt-mit-verbuendeten-vor-israels-gaza-plan-a-aacea85a-1107-4069-a85c-c3b7796f78ac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-waffenstopp-fuer-israel-ueberrascht-und-spaltet-die-union](https://www.spiegel.de/politik/deutschland/friedrich-merz-waffenstopp-fuer-israel-ueberrascht-und-spaltet-die-union-a-b177e2e8-a0a2-4462-b49c-117569c20e6e#ref=rss)
 ### markus
 
-* [https://www.spiegel.de/kultur/heute-show-extra-next-stop-koester-im-zdf-soeders-soss-an-kloss-manier](https://www.spiegel.de/kultur/heute-show-extra-next-stop-koester-im-zdf-soeders-soss-an-kloss-manier-a-b0a362ce-38a7-492e-b34c-0905b7b8b0b3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-und-social-media-ihm-schmeckts](https://www.spiegel.de/politik/deutschland/markus-soeder-und-social-media-ihm-schmeckts-a-a6ef22d6-09f0-4b5e-99fe-f932a50df8f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder-a-ed5b201a-bc51-4918-98f1-30fa38095526#ref=rss)
 ### söder
 
-* [https://www.spiegel.de/kultur/heute-show-extra-next-stop-koester-im-zdf-soeders-soss-an-kloss-manier](https://www.spiegel.de/kultur/heute-show-extra-next-stop-koester-im-zdf-soeders-soss-an-kloss-manier-a-b0a362ce-38a7-492e-b34c-0905b7b8b0b3#ref=rss)
-### fabian
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-und-social-media-ihm-schmeckts](https://www.spiegel.de/politik/deutschland/markus-soeder-und-social-media-ihm-schmeckts-a-a6ef22d6-09f0-4b5e-99fe-f932a50df8f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder-a-ed5b201a-bc51-4918-98f1-30fa38095526#ref=rss)
+### selenskyj
 
-* [https://www.spiegel.de/kultur/heute-show-extra-next-stop-koester-im-zdf-soeders-soss-an-kloss-manier](https://www.spiegel.de/kultur/heute-show-extra-next-stop-koester-im-zdf-soeders-soss-an-kloss-manier-a-b0a362ce-38a7-492e-b34c-0905b7b8b0b3#ref=rss)
-### köster
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska-a-0c2e68bf-1af4-45c6-a638-f415c8d97ed1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august](https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august-a-64f08dfa-6f0f-4a31-86e7-a0cdbd6cc129#ref=rss)
+### woche
 
-* [https://www.spiegel.de/kultur/heute-show-extra-next-stop-koester-im-zdf-soeders-soss-an-kloss-manier](https://www.spiegel.de/kultur/heute-show-extra-next-stop-koester-im-zdf-soeders-soss-an-kloss-manier-a-b0a362ce-38a7-492e-b34c-0905b7b8b0b3#ref=rss)
+* [https://www.spiegel.de/ausland/yoga-gegen-das-altern-und-radioaktive-nashoerner-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/yoga-gegen-das-altern-und-radioaktive-nashoerner-die-guten-nachrichten-der-woche-a-f1a26185-b71e-412c-9b51-443ca3ed8130#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august](https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august-a-64f08dfa-6f0f-4a31-86e7-a0cdbd6cc129#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/wirtschaft/hitze-beschwerden-anstieg-der-krankmeldungen-im-suedwesten-deutschlands](https://www.spiegel.de/wirtschaft/hitze-beschwerden-anstieg-der-krankmeldungen-im-suedwesten-deutschlands-a-84590ffb-fb04-4dc7-90ae-6d3f16ff3686#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ariane-kari-haette-als-tierschutzbeauftragte-viel-zu-tun-leider-verliert-sie-ihren-job-meinung](https://www.spiegel.de/politik/deutschland/ariane-kari-haette-als-tierschutzbeauftragte-viel-zu-tun-leider-verliert-sie-ihren-job-meinung-a-08668853-f95f-4b96-aefc-4d05c04fc218#ref=rss)
+### ländern
+
+* [https://www.spiegel.de/ausland/japan-nagasaki-gedenkt-der-opfer-der-atombombe](https://www.spiegel.de/ausland/japan-nagasaki-gedenkt-der-opfer-der-atombombe-a-925cd937-052f-47c2-b3fa-7c21f6ad4e29#ref=rss)
+* [https://www.spiegel.de/ausland/cholera-in-afrika-epidemie-breitet-sich-in-23-laendern-aus](https://www.spiegel.de/ausland/cholera-in-afrika-epidemie-breitet-sich-in-23-laendern-aus-a-c9efd727-e6e3-455a-a38f-6cbd21779bd4#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis-a-455c908d-50b4-43e8-b08a-9c2394e30d8b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder-a-ed5b201a-bc51-4918-98f1-30fa38095526#ref=rss)
+* [https://www.spiegel.de/ausland/armenien-und-aserbaidschan-nach-us-praesident-donald-trump-benannte-transitroute-soll-frieden-bringen](https://www.spiegel.de/ausland/armenien-und-aserbaidschan-nach-us-praesident-donald-trump-benannte-transitroute-soll-frieden-bringen-a-c7ff1cec-8a64-40b7-a6e8-0c5ccdd77eda#ref=rss)
+### armenien
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis-a-455c908d-50b4-43e8-b08a-9c2394e30d8b#ref=rss)
+* [https://www.spiegel.de/ausland/armenien-und-aserbaidschan-nach-us-praesident-donald-trump-benannte-transitroute-soll-frieden-bringen](https://www.spiegel.de/ausland/armenien-und-aserbaidschan-nach-us-praesident-donald-trump-benannte-transitroute-soll-frieden-bringen-a-c7ff1cec-8a64-40b7-a6e8-0c5ccdd77eda#ref=rss)
+### aserbaidschan
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis-a-455c908d-50b4-43e8-b08a-9c2394e30d8b#ref=rss)
+* [https://www.spiegel.de/ausland/armenien-und-aserbaidschan-nach-us-praesident-donald-trump-benannte-transitroute-soll-frieden-bringen](https://www.spiegel.de/ausland/armenien-und-aserbaidschan-nach-us-praesident-donald-trump-benannte-transitroute-soll-frieden-bringen-a-c7ff1cec-8a64-40b7-a6e8-0c5ccdd77eda#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-ukraine-gaza-friedrich-merz-markus-soeder-a-ed5b201a-bc51-4918-98f1-30fa38095526#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-waffenstopp-fuer-israel-ueberrascht-und-spaltet-die-union](https://www.spiegel.de/politik/deutschland/friedrich-merz-waffenstopp-fuer-israel-ueberrascht-und-spaltet-die-union-a-b177e2e8-a0a2-4462-b49c-117569c20e6e#ref=rss)
+### feuerwehr
+
+* [https://www.spiegel.de/panorama/usa-feuerwehr-meldet-erfolge-im-kampf-gegen-canyon-fire](https://www.spiegel.de/panorama/usa-feuerwehr-meldet-erfolge-im-kampf-gegen-canyon-fire-a-6e30deb6-3316-4b9f-83c4-29d495923fe1#ref=rss)
+* [https://www.spiegel.de/panorama/cordoba-brand-verursacht-schaeden-an-bedeutender-kathedrale-in-spanien](https://www.spiegel.de/panorama/cordoba-brand-verursacht-schaeden-an-bedeutender-kathedrale-in-spanien-a-e3ec7ab5-7e2f-4249-8534-e48329edb189#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-spanien-steht-laengste-hitzewelle-seit-jahren-bevor-tuerkei-schliesst-dardanellen-meerenge](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-spanien-steht-laengste-hitzewelle-seit-jahren-bevor-tuerkei-schliesst-dardanellen-meerenge-a-bce0babf-8538-4a88-8fa2-4353648a9a4c#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/leute/apollo-13-kommandant-james-lovell-im-alter-von-97-jahren-gestorben](https://www.spiegel.de/panorama/leute/apollo-13-kommandant-james-lovell-im-alter-von-97-jahren-gestorben-a-764ce826-b132-4421-9152-cd065ad02cc0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-spanien-steht-laengste-hitzewelle-seit-jahren-bevor-tuerkei-schliesst-dardanellen-meerenge](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-spanien-steht-laengste-hitzewelle-seit-jahren-bevor-tuerkei-schliesst-dardanellen-meerenge-a-bce0babf-8538-4a88-8fa2-4353648a9a4c#ref=rss)
+### mensch
+
+* [https://www.spiegel.de/politik/geoengineering-der-mensch-als-choreograph-der-oekosysteme](https://www.spiegel.de/politik/geoengineering-der-mensch-als-choreograph-der-oekosysteme-a-22fc63b2-1f30-4347-ae66-c8c810825cb3#ref=rss)
+### ökosysteme
+
+* [https://www.spiegel.de/politik/geoengineering-der-mensch-als-choreograph-der-oekosysteme](https://www.spiegel.de/politik/geoengineering-der-mensch-als-choreograph-der-oekosysteme-a-22fc63b2-1f30-4347-ae66-c8c810825cb3#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/politik/geoengineering-der-mensch-als-choreograph-der-oekosysteme](https://www.spiegel.de/politik/geoengineering-der-mensch-als-choreograph-der-oekosysteme-a-22fc63b2-1f30-4347-ae66-c8c810825cb3#ref=rss)
+* [https://www.spiegel.de/panorama/usa-feuerwehr-meldet-erfolge-im-kampf-gegen-canyon-fire](https://www.spiegel.de/panorama/usa-feuerwehr-meldet-erfolge-im-kampf-gegen-canyon-fire-a-6e30deb6-3316-4b9f-83c4-29d495923fe1#ref=rss)
+### rasch
+
+* [https://www.spiegel.de/politik/geoengineering-der-mensch-als-choreograph-der-oekosysteme](https://www.spiegel.de/politik/geoengineering-der-mensch-als-choreograph-der-oekosysteme-a-22fc63b2-1f30-4347-ae66-c8c810825cb3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/christina-block-warum-bezahlt-der-staat-einer-millionaerin-einen-anwalt](https://www.spiegel.de/panorama/justiz/christina-block-warum-bezahlt-der-staat-einer-millionaerin-einen-anwalt-a-999c39aa-d37c-4a56-9b7e-8e5da98d4519#ref=rss)
+### gebiete
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska-a-0c2e68bf-1af4-45c6-a638-f415c8d97ed1#ref=rss)
+* [https://www.spiegel.de/panorama/francesca-albanese-antisemitin-oder-heldin-ein-blick-auf-die-uno-beauftragte-fuer-palaestina](https://www.spiegel.de/panorama/francesca-albanese-antisemitin-oder-heldin-ein-blick-auf-die-uno-beauftragte-fuer-palaestina-a-a8fbba47-c1e6-4bc1-9760-adfb91c1b664#ref=rss)
+### kremlchef
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska-a-0c2e68bf-1af4-45c6-a638-f415c8d97ed1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august](https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august-a-64f08dfa-6f0f-4a31-86e7-a0cdbd6cc129#ref=rss)
+### wolodymyr
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska-a-0c2e68bf-1af4-45c6-a638-f415c8d97ed1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august](https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august-a-64f08dfa-6f0f-4a31-86e7-a0cdbd6cc129#ref=rss)
+### überblick
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-treffen-sich-zu-gespraechen-ueber-die-ukraine-ausgerechnet-alaska-a-0c2e68bf-1af4-45c6-a638-f415c8d97ed1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/christina-block-warum-bezahlt-der-staat-einer-millionaerin-einen-anwalt](https://www.spiegel.de/panorama/justiz/christina-block-warum-bezahlt-der-staat-einer-millionaerin-einen-anwalt-a-999c39aa-d37c-4a56-9b7e-8e5da98d4519#ref=rss)
+### benjamin
+
+* [https://www.spiegel.de/sport/fussball/transfer-news-benjamin-sesko-wechselt-fuer-rund-80-millionen-euro-zu-manchester-united](https://www.spiegel.de/sport/fussball/transfer-news-benjamin-sesko-wechselt-fuer-rund-80-millionen-euro-zu-manchester-united-a-5109b08e-1992-4bc6-9283-cbf5ef72d07c#ref=rss)
+### šeško
+
+* [https://www.spiegel.de/sport/fussball/transfer-news-benjamin-sesko-wechselt-fuer-rund-80-millionen-euro-zu-manchester-united](https://www.spiegel.de/sport/fussball/transfer-news-benjamin-sesko-wechselt-fuer-rund-80-millionen-euro-zu-manchester-united-a-5109b08e-1992-4bc6-9283-cbf5ef72d07c#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/sport/fussball/transfer-news-benjamin-sesko-wechselt-fuer-rund-80-millionen-euro-zu-manchester-united](https://www.spiegel.de/sport/fussball/transfer-news-benjamin-sesko-wechselt-fuer-rund-80-millionen-euro-zu-manchester-united-a-5109b08e-1992-4bc6-9283-cbf5ef72d07c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-und-social-media-ihm-schmeckts](https://www.spiegel.de/politik/deutschland/markus-soeder-und-social-media-ihm-schmeckts-a-a6ef22d6-09f0-4b5e-99fe-f932a50df8f8#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/transfer-news-benjamin-sesko-wechselt-fuer-rund-80-millionen-euro-zu-manchester-united](https://www.spiegel.de/sport/fussball/transfer-news-benjamin-sesko-wechselt-fuer-rund-80-millionen-euro-zu-manchester-united-a-5109b08e-1992-4bc6-9283-cbf5ef72d07c#ref=rss)
+### united
+
+* [https://www.spiegel.de/sport/fussball/transfer-news-benjamin-sesko-wechselt-fuer-rund-80-millionen-euro-zu-manchester-united](https://www.spiegel.de/sport/fussball/transfer-news-benjamin-sesko-wechselt-fuer-rund-80-millionen-euro-zu-manchester-united-a-5109b08e-1992-4bc6-9283-cbf5ef72d07c#ref=rss)
 ### fragen
 
 * [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### jeden
+### tag
 
 * [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/dresden-gericht-haelt-taegliche-s-bahn-fahrt-fuer-zweitklaessler-fuer-zumutbar](https://www.spiegel.de/panorama/bildung/dresden-gericht-haelt-taegliche-s-bahn-fahrt-fuer-zweitklaessler-fuer-zumutbar-a-a43fe9b9-4e85-4244-8624-510f7e7dd848#ref=rss)
-### dresden
+### wichtigsten
 
-* [https://www.spiegel.de/panorama/bildung/dresden-gericht-haelt-taegliche-s-bahn-fahrt-fuer-zweitklaessler-fuer-zumutbar](https://www.spiegel.de/panorama/bildung/dresden-gericht-haelt-taegliche-s-bahn-fahrt-fuer-zweitklaessler-fuer-zumutbar-a-a43fe9b9-4e85-4244-8624-510f7e7dd848#ref=rss)
-### gericht
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/christina-block-warum-bezahlt-der-staat-einer-millionaerin-einen-anwalt](https://www.spiegel.de/panorama/justiz/christina-block-warum-bezahlt-der-staat-einer-millionaerin-einen-anwalt-a-999c39aa-d37c-4a56-9b7e-8e5da98d4519#ref=rss)
+### yoga
 
-* [https://www.spiegel.de/panorama/bildung/dresden-gericht-haelt-taegliche-s-bahn-fahrt-fuer-zweitklaessler-fuer-zumutbar](https://www.spiegel.de/panorama/bildung/dresden-gericht-haelt-taegliche-s-bahn-fahrt-fuer-zweitklaessler-fuer-zumutbar-a-a43fe9b9-4e85-4244-8624-510f7e7dd848#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-gericht-stoppt-bauarbeiten-an-alligator-alcatraz](https://www.spiegel.de/ausland/usa-donald-trump-gericht-stoppt-bauarbeiten-an-alligator-alcatraz-a-f5247f0d-b5bf-4a63-ae38-6ae5b0bb7122#ref=rss)
-### donald
+* [https://www.spiegel.de/ausland/yoga-gegen-das-altern-und-radioaktive-nashoerner-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/yoga-gegen-das-altern-und-radioaktive-nashoerner-die-guten-nachrichten-der-woche-a-f1a26185-b71e-412c-9b51-443ca3ed8130#ref=rss)
+### nashörner
 
-* [https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg](https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg-a-2405e514-99c8-44ad-ae6b-34f8f39152c8#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-gericht-stoppt-bauarbeiten-an-alligator-alcatraz](https://www.spiegel.de/ausland/usa-donald-trump-gericht-stoppt-bauarbeiten-an-alligator-alcatraz-a-f5247f0d-b5bf-4a63-ae38-6ae5b0bb7122#ref=rss)
-### tusk
+* [https://www.spiegel.de/ausland/yoga-gegen-das-altern-und-radioaktive-nashoerner-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/yoga-gegen-das-altern-und-radioaktive-nashoerner-die-guten-nachrichten-der-woche-a-f1a26185-b71e-412c-9b51-443ca3ed8130#ref=rss)
+### guten
 
-* [https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg](https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg-a-2405e514-99c8-44ad-ae6b-34f8f39152c8#ref=rss)
-### treffen
+* [https://www.spiegel.de/ausland/yoga-gegen-das-altern-und-radioaktive-nashoerner-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/yoga-gegen-das-altern-und-radioaktive-nashoerner-die-guten-nachrichten-der-woche-a-f1a26185-b71e-412c-9b51-443ca3ed8130#ref=rss)
+### nachrichten
 
-* [https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg](https://www.spiegel.de/ausland/ukraine-donald-tusk-sieht-nach-treffen-mit-wolodymyr-selenskyj-chancen-auf-pause-im-krieg-a-2405e514-99c8-44ad-ae6b-34f8f39152c8#ref=rss)
-### alligator
+* [https://www.spiegel.de/ausland/yoga-gegen-das-altern-und-radioaktive-nashoerner-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/yoga-gegen-das-altern-und-radioaktive-nashoerner-die-guten-nachrichten-der-woche-a-f1a26185-b71e-412c-9b51-443ca3ed8130#ref=rss)
+### inneren
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-gericht-stoppt-bauarbeiten-an-alligator-alcatraz](https://www.spiegel.de/ausland/usa-donald-trump-gericht-stoppt-bauarbeiten-an-alligator-alcatraz-a-f5247f0d-b5bf-4a63-ae38-6ae5b0bb7122#ref=rss)
-### alcatraz
+* [https://www.spiegel.de/ausland/yoga-gegen-das-altern-und-radioaktive-nashoerner-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/yoga-gegen-das-altern-und-radioaktive-nashoerner-die-guten-nachrichten-der-woche-a-f1a26185-b71e-412c-9b51-443ca3ed8130#ref=rss)
+* [https://www.spiegel.de/panorama/cordoba-brand-verursacht-schaeden-an-bedeutender-kathedrale-in-spanien](https://www.spiegel.de/panorama/cordoba-brand-verursacht-schaeden-an-bedeutender-kathedrale-in-spanien-a-e3ec7ab5-7e2f-4249-8534-e48329edb189#ref=rss)
+### frieden
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-gericht-stoppt-bauarbeiten-an-alligator-alcatraz](https://www.spiegel.de/ausland/usa-donald-trump-gericht-stoppt-bauarbeiten-an-alligator-alcatraz-a-f5247f0d-b5bf-4a63-ae38-6ae5b0bb7122#ref=rss)
+* [https://www.spiegel.de/ausland/yoga-gegen-das-altern-und-radioaktive-nashoerner-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/yoga-gegen-das-altern-und-radioaktive-nashoerner-die-guten-nachrichten-der-woche-a-f1a26185-b71e-412c-9b51-443ca3ed8130#ref=rss)
+* [https://www.spiegel.de/ausland/armenien-und-aserbaidschan-nach-us-praesident-donald-trump-benannte-transitroute-soll-frieden-bringen](https://www.spiegel.de/ausland/armenien-und-aserbaidschan-nach-us-praesident-donald-trump-benannte-transitroute-soll-frieden-bringen-a-c7ff1cec-8a64-40b7-a6e8-0c5ccdd77eda#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/ausland/friedrich-merz-und-der-gazakrieg-besser-spaet-als-nie](https://www.spiegel.de/ausland/friedrich-merz-und-der-gazakrieg-besser-spaet-als-nie-a-7e9457ea-4cb1-4c18-b5b3-d7e4cf8fdc17#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-waffenstopp-fuer-israel-ueberrascht-und-spaltet-die-union](https://www.spiegel.de/politik/deutschland/friedrich-merz-waffenstopp-fuer-israel-ueberrascht-und-spaltet-die-union-a-b177e2e8-a0a2-4462-b49c-117569c20e6e#ref=rss)
+### lange
+
+* [https://www.spiegel.de/ausland/friedrich-merz-und-der-gazakrieg-besser-spaet-als-nie](https://www.spiegel.de/ausland/friedrich-merz-und-der-gazakrieg-besser-spaet-als-nie-a-7e9457ea-4cb1-4c18-b5b3-d7e4cf8fdc17#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-waffenstopp-fuer-israel-ueberrascht-und-spaltet-die-union](https://www.spiegel.de/politik/deutschland/friedrich-merz-waffenstopp-fuer-israel-ueberrascht-und-spaltet-die-union-a-b177e2e8-a0a2-4462-b49c-117569c20e6e#ref=rss)
+### tom
+
+* [https://www.spiegel.de/sport/american-football/statuen-von-sportlern-tom-brady-erhaelt-monumentale-bronzestatue](https://www.spiegel.de/sport/american-football/statuen-von-sportlern-tom-brady-erhaelt-monumentale-bronzestatue-a-c90a3d81-f0fa-4c16-8d34-a16a2af1827b#ref=rss)
+### brady
+
+* [https://www.spiegel.de/sport/american-football/statuen-von-sportlern-tom-brady-erhaelt-monumentale-bronzestatue](https://www.spiegel.de/sport/american-football/statuen-von-sportlern-tom-brady-erhaelt-monumentale-bronzestatue-a-c90a3d81-f0fa-4c16-8d34-a16a2af1827b#ref=rss)
+### anstieg
+
+* [https://www.spiegel.de/wirtschaft/hitze-beschwerden-anstieg-der-krankmeldungen-im-suedwesten-deutschlands](https://www.spiegel.de/wirtschaft/hitze-beschwerden-anstieg-der-krankmeldungen-im-suedwesten-deutschlands-a-84590ffb-fb04-4dc7-90ae-6d3f16ff3686#ref=rss)
+* [https://www.spiegel.de/ausland/cholera-in-afrika-epidemie-breitet-sich-in-23-laendern-aus](https://www.spiegel.de/ausland/cholera-in-afrika-epidemie-breitet-sich-in-23-laendern-aus-a-c9efd727-e6e3-455a-a38f-6cbd21779bd4#ref=rss)
+### krankmeldungen
+
+* [https://www.spiegel.de/wirtschaft/hitze-beschwerden-anstieg-der-krankmeldungen-im-suedwesten-deutschlands](https://www.spiegel.de/wirtschaft/hitze-beschwerden-anstieg-der-krankmeldungen-im-suedwesten-deutschlands-a-84590ffb-fb04-4dc7-90ae-6d3f16ff3686#ref=rss)
+### südwesten
+
+* [https://www.spiegel.de/wirtschaft/hitze-beschwerden-anstieg-der-krankmeldungen-im-suedwesten-deutschlands](https://www.spiegel.de/wirtschaft/hitze-beschwerden-anstieg-der-krankmeldungen-im-suedwesten-deutschlands-a-84590ffb-fb04-4dc7-90ae-6d3f16ff3686#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/hitze-beschwerden-anstieg-der-krankmeldungen-im-suedwesten-deutschlands](https://www.spiegel.de/wirtschaft/hitze-beschwerden-anstieg-der-krankmeldungen-im-suedwesten-deutschlands-a-84590ffb-fb04-4dc7-90ae-6d3f16ff3686#ref=rss)
+* [https://www.spiegel.de/ausland/cholera-in-afrika-epidemie-breitet-sich-in-23-laendern-aus](https://www.spiegel.de/ausland/cholera-in-afrika-epidemie-breitet-sich-in-23-laendern-aus-a-c9efd727-e6e3-455a-a38f-6cbd21779bd4#ref=rss)
+### fälle
+
+* [https://www.spiegel.de/wirtschaft/hitze-beschwerden-anstieg-der-krankmeldungen-im-suedwesten-deutschlands](https://www.spiegel.de/wirtschaft/hitze-beschwerden-anstieg-der-krankmeldungen-im-suedwesten-deutschlands-a-84590ffb-fb04-4dc7-90ae-6d3f16ff3686#ref=rss)
+* [https://www.spiegel.de/ausland/cholera-in-afrika-epidemie-breitet-sich-in-23-laendern-aus](https://www.spiegel.de/ausland/cholera-in-afrika-epidemie-breitet-sich-in-23-laendern-aus-a-c9efd727-e6e3-455a-a38f-6cbd21779bd4#ref=rss)
+### nagasaki
+
+* [https://www.spiegel.de/ausland/japan-nagasaki-gedenkt-der-opfer-der-atombombe](https://www.spiegel.de/ausland/japan-nagasaki-gedenkt-der-opfer-der-atombombe-a-925cd937-052f-47c2-b3fa-7c21f6ad4e29#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-und-social-media-ihm-schmeckts](https://www.spiegel.de/politik/deutschland/markus-soeder-und-social-media-ihm-schmeckts-a-a6ef22d6-09f0-4b5e-99fe-f932a50df8f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-waffenstopp-fuer-israel-ueberrascht-und-spaltet-die-union](https://www.spiegel.de/politik/deutschland/friedrich-merz-waffenstopp-fuer-israel-ueberrascht-und-spaltet-die-union-a-b177e2e8-a0a2-4462-b49c-117569c20e6e#ref=rss)
+### tierschutzbeauftragte
+
+* [https://www.spiegel.de/politik/deutschland/ariane-kari-haette-als-tierschutzbeauftragte-viel-zu-tun-leider-verliert-sie-ihren-job-meinung](https://www.spiegel.de/politik/deutschland/ariane-kari-haette-als-tierschutzbeauftragte-viel-zu-tun-leider-verliert-sie-ihren-job-meinung-a-08668853-f95f-4b96-aefc-4d05c04fc218#ref=rss)
+### leider
+
+* [https://www.spiegel.de/politik/deutschland/ariane-kari-haette-als-tierschutzbeauftragte-viel-zu-tun-leider-verliert-sie-ihren-job-meinung](https://www.spiegel.de/politik/deutschland/ariane-kari-haette-als-tierschutzbeauftragte-viel-zu-tun-leider-verliert-sie-ihren-job-meinung-a-08668853-f95f-4b96-aefc-4d05c04fc218#ref=rss)
+### verliert
+
+* [https://www.spiegel.de/politik/deutschland/ariane-kari-haette-als-tierschutzbeauftragte-viel-zu-tun-leider-verliert-sie-ihren-job-meinung](https://www.spiegel.de/politik/deutschland/ariane-kari-haette-als-tierschutzbeauftragte-viel-zu-tun-leider-verliert-sie-ihren-job-meinung-a-08668853-f95f-4b96-aefc-4d05c04fc218#ref=rss)
+### job
+
+* [https://www.spiegel.de/politik/deutschland/ariane-kari-haette-als-tierschutzbeauftragte-viel-zu-tun-leider-verliert-sie-ihren-job-meinung](https://www.spiegel.de/politik/deutschland/ariane-kari-haette-als-tierschutzbeauftragte-viel-zu-tun-leider-verliert-sie-ihren-job-meinung-a-08668853-f95f-4b96-aefc-4d05c04fc218#ref=rss)
+### christina
+
+* [https://www.spiegel.de/panorama/justiz/christina-block-warum-bezahlt-der-staat-einer-millionaerin-einen-anwalt](https://www.spiegel.de/panorama/justiz/christina-block-warum-bezahlt-der-staat-einer-millionaerin-einen-anwalt-a-999c39aa-d37c-4a56-9b7e-8e5da98d4519#ref=rss)
+### block
+
+* [https://www.spiegel.de/panorama/justiz/christina-block-warum-bezahlt-der-staat-einer-millionaerin-einen-anwalt](https://www.spiegel.de/panorama/justiz/christina-block-warum-bezahlt-der-staat-einer-millionaerin-einen-anwalt-a-999c39aa-d37c-4a56-9b7e-8e5da98d4519#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/steuern-rueckgang-der-steuerpruefungen-in-deutschland-festgestellt](https://www.spiegel.de/wirtschaft/steuern-rueckgang-der-steuerpruefungen-in-deutschland-festgestellt-a-6f38e5eb-ba2c-4e77-8bd3-e27439547a0a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-deutschland-warnt-mit-verbuendeten-vor-israels-gaza-plan](https://www.spiegel.de/ausland/israel-gaza-krieg-deutschland-warnt-mit-verbuendeten-vor-israels-gaza-plan-a-aacea85a-1107-4069-a85c-c3b7796f78ac#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/steuern-rueckgang-der-steuerpruefungen-in-deutschland-festgestellt](https://www.spiegel.de/wirtschaft/steuern-rueckgang-der-steuerpruefungen-in-deutschland-festgestellt-a-6f38e5eb-ba2c-4e77-8bd3-e27439547a0a#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/wirtschaft/steuern-rueckgang-der-steuerpruefungen-in-deutschland-festgestellt](https://www.spiegel.de/wirtschaft/steuern-rueckgang-der-steuerpruefungen-in-deutschland-festgestellt-a-6f38e5eb-ba2c-4e77-8bd3-e27439547a0a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-notenbank-donald-trumps-kandidatenliste-fuer-den-top-job-bei-der-fed-wird-offenbar-laenger](https://www.spiegel.de/wirtschaft/us-notenbank-donald-trumps-kandidatenliste-fuer-den-top-job-bei-der-fed-wird-offenbar-laenger-a-5dcfb370-47a2-47b3-8f64-4f063f25f0db#ref=rss)
+### friedensnobelpreis
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis-a-455c908d-50b4-43e8-b08a-9c2394e30d8b#ref=rss)
+### direkt
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-ein-treffen-in-alaska-und-die-hoffnung-auf-den-friedensnobelpreis-a-455c908d-50b4-43e8-b08a-9c2394e30d8b#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-amy-schweinhouse-und-keiler-minogue-logieren-jetzt-am-tegelsee](https://www.spiegel.de/panorama/berlin-amy-schweinhouse-und-keiler-minogue-logieren-jetzt-am-tegelsee-a-5668441b-2a3e-4143-ab92-0ae6a4f11bfe#ref=rss)
+### francesca
+
+* [https://www.spiegel.de/panorama/francesca-albanese-antisemitin-oder-heldin-ein-blick-auf-die-uno-beauftragte-fuer-palaestina](https://www.spiegel.de/panorama/francesca-albanese-antisemitin-oder-heldin-ein-blick-auf-die-uno-beauftragte-fuer-palaestina-a-a8fbba47-c1e6-4bc1-9760-adfb91c1b664#ref=rss)
+### albanese
+
+* [https://www.spiegel.de/panorama/francesca-albanese-antisemitin-oder-heldin-ein-blick-auf-die-uno-beauftragte-fuer-palaestina](https://www.spiegel.de/panorama/francesca-albanese-antisemitin-oder-heldin-ein-blick-auf-die-uno-beauftragte-fuer-palaestina-a-a8fbba47-c1e6-4bc1-9760-adfb91c1b664#ref=rss)
+### usnotenbank
+
+* [https://www.spiegel.de/wirtschaft/us-notenbank-donald-trumps-kandidatenliste-fuer-den-top-job-bei-der-fed-wird-offenbar-laenger](https://www.spiegel.de/wirtschaft/us-notenbank-donald-trumps-kandidatenliste-fuer-den-top-job-bei-der-fed-wird-offenbar-laenger-a-5dcfb370-47a2-47b3-8f64-4f063f25f0db#ref=rss)
+### kampf
+
+* [https://www.spiegel.de/panorama/usa-feuerwehr-meldet-erfolge-im-kampf-gegen-canyon-fire](https://www.spiegel.de/panorama/usa-feuerwehr-meldet-erfolge-im-kampf-gegen-canyon-fire-a-6e30deb6-3316-4b9f-83c4-29d495923fe1#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-deutschland-warnt-mit-verbuendeten-vor-israels-gaza-plan](https://www.spiegel.de/ausland/israel-gaza-krieg-deutschland-warnt-mit-verbuendeten-vor-israels-gaza-plan-a-aacea85a-1107-4069-a85c-c3b7796f78ac#ref=rss)
+### feuer
+
+* [https://www.spiegel.de/panorama/usa-feuerwehr-meldet-erfolge-im-kampf-gegen-canyon-fire](https://www.spiegel.de/panorama/usa-feuerwehr-meldet-erfolge-im-kampf-gegen-canyon-fire-a-6e30deb6-3316-4b9f-83c4-29d495923fe1#ref=rss)
+* [https://www.spiegel.de/panorama/cordoba-brand-verursacht-schaeden-an-bedeutender-kathedrale-in-spanien](https://www.spiegel.de/panorama/cordoba-brand-verursacht-schaeden-an-bedeutender-kathedrale-in-spanien-a-e3ec7ab5-7e2f-4249-8534-e48329edb189#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-deutschland-warnt-mit-verbuendeten-vor-israels-gaza-plan](https://www.spiegel.de/ausland/israel-gaza-krieg-deutschland-warnt-mit-verbuendeten-vor-israels-gaza-plan-a-aacea85a-1107-4069-a85c-c3b7796f78ac#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-amy-schweinhouse-und-keiler-minogue-logieren-jetzt-am-tegelsee](https://www.spiegel.de/panorama/berlin-amy-schweinhouse-und-keiler-minogue-logieren-jetzt-am-tegelsee-a-5668441b-2a3e-4143-ab92-0ae6a4f11bfe#ref=rss)
+### marcandré
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ist-wieder-kapitaen-bei-barca](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ist-wieder-kapitaen-bei-barca-a-0e497547-7595-4af3-af34-271efb357688#ref=rss)
+### ter
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ist-wieder-kapitaen-bei-barca](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ist-wieder-kapitaen-bei-barca-a-0e497547-7595-4af3-af34-271efb357688#ref=rss)
+### stegen
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ist-wieder-kapitaen-bei-barca](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ist-wieder-kapitaen-bei-barca-a-0e497547-7595-4af3-af34-271efb357688#ref=rss)
+### kathedrale
+
+* [https://www.spiegel.de/panorama/cordoba-brand-verursacht-schaeden-an-bedeutender-kathedrale-in-spanien](https://www.spiegel.de/panorama/cordoba-brand-verursacht-schaeden-an-bedeutender-kathedrale-in-spanien-a-e3ec7ab5-7e2f-4249-8534-e48329edb189#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/panorama/cordoba-brand-verursacht-schaeden-an-bedeutender-kathedrale-in-spanien](https://www.spiegel.de/panorama/cordoba-brand-verursacht-schaeden-an-bedeutender-kathedrale-in-spanien-a-e3ec7ab5-7e2f-4249-8534-e48329edb189#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-spanien-steht-laengste-hitzewelle-seit-jahren-bevor-tuerkei-schliesst-dardanellen-meerenge](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-spanien-steht-laengste-hitzewelle-seit-jahren-bevor-tuerkei-schliesst-dardanellen-meerenge-a-bce0babf-8538-4a88-8fa2-4353648a9a4c#ref=rss)
+### lehnt
+
+* [https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august](https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august-a-64f08dfa-6f0f-4a31-86e7-a0cdbd6cc129#ref=rss)
+### gebietsabtretungen
+
+* [https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august](https://www.spiegel.de/ausland/donald-trump-verkuendet-treffen-mit-wladimir-putin-am-15-august-a-64f08dfa-6f0f-4a31-86e7-a0cdbd6cc129#ref=rss)
+### emma
+
+* [https://www.spiegel.de/panorama/leute/emma-thompson-schauspielerin-trotzt-eisiger-kaelte-bei-dreharbeiten](https://www.spiegel.de/panorama/leute/emma-thompson-schauspielerin-trotzt-eisiger-kaelte-bei-dreharbeiten-a-9bd1d468-b005-417f-990a-e551d5c35261#ref=rss)
+### thompson
+
+* [https://www.spiegel.de/panorama/leute/emma-thompson-schauspielerin-trotzt-eisiger-kaelte-bei-dreharbeiten](https://www.spiegel.de/panorama/leute/emma-thompson-schauspielerin-trotzt-eisiger-kaelte-bei-dreharbeiten-a-9bd1d468-b005-417f-990a-e551d5c35261#ref=rss)
+### kälte
+
+* [https://www.spiegel.de/panorama/leute/emma-thompson-schauspielerin-trotzt-eisiger-kaelte-bei-dreharbeiten](https://www.spiegel.de/panorama/leute/emma-thompson-schauspielerin-trotzt-eisiger-kaelte-bei-dreharbeiten-a-9bd1d468-b005-417f-990a-e551d5c35261#ref=rss)
+### dreharbeiten
+
+* [https://www.spiegel.de/panorama/leute/emma-thompson-schauspielerin-trotzt-eisiger-kaelte-bei-dreharbeiten](https://www.spiegel.de/panorama/leute/emma-thompson-schauspielerin-trotzt-eisiger-kaelte-bei-dreharbeiten-a-9bd1d468-b005-417f-990a-e551d5c35261#ref=rss)
+### apollo
+
+* [https://www.spiegel.de/panorama/leute/apollo-13-kommandant-james-lovell-im-alter-von-97-jahren-gestorben](https://www.spiegel.de/panorama/leute/apollo-13-kommandant-james-lovell-im-alter-von-97-jahren-gestorben-a-764ce826-b132-4421-9152-cd065ad02cc0#ref=rss)
+### 13
+
+* [https://www.spiegel.de/panorama/leute/apollo-13-kommandant-james-lovell-im-alter-von-97-jahren-gestorben](https://www.spiegel.de/panorama/leute/apollo-13-kommandant-james-lovell-im-alter-von-97-jahren-gestorben-a-764ce826-b132-4421-9152-cd065ad02cc0#ref=rss)
+### james
+
+* [https://www.spiegel.de/panorama/leute/apollo-13-kommandant-james-lovell-im-alter-von-97-jahren-gestorben](https://www.spiegel.de/panorama/leute/apollo-13-kommandant-james-lovell-im-alter-von-97-jahren-gestorben-a-764ce826-b132-4421-9152-cd065ad02cc0#ref=rss)
+### lovell
+
+* [https://www.spiegel.de/panorama/leute/apollo-13-kommandant-james-lovell-im-alter-von-97-jahren-gestorben](https://www.spiegel.de/panorama/leute/apollo-13-kommandant-james-lovell-im-alter-von-97-jahren-gestorben-a-764ce826-b132-4421-9152-cd065ad02cc0#ref=rss)
+### alter
+
+* [https://www.spiegel.de/panorama/leute/apollo-13-kommandant-james-lovell-im-alter-von-97-jahren-gestorben](https://www.spiegel.de/panorama/leute/apollo-13-kommandant-james-lovell-im-alter-von-97-jahren-gestorben-a-764ce826-b132-4421-9152-cd065ad02cc0#ref=rss)
+### 97
+
+* [https://www.spiegel.de/panorama/leute/apollo-13-kommandant-james-lovell-im-alter-von-97-jahren-gestorben](https://www.spiegel.de/panorama/leute/apollo-13-kommandant-james-lovell-im-alter-von-97-jahren-gestorben-a-764ce826-b132-4421-9152-cd065ad02cc0#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/panorama/leute/apollo-13-kommandant-james-lovell-im-alter-von-97-jahren-gestorben](https://www.spiegel.de/panorama/leute/apollo-13-kommandant-james-lovell-im-alter-von-97-jahren-gestorben-a-764ce826-b132-4421-9152-cd065ad02cc0#ref=rss)
+### amy
+
+* [https://www.spiegel.de/panorama/berlin-amy-schweinhouse-und-keiler-minogue-logieren-jetzt-am-tegelsee](https://www.spiegel.de/panorama/berlin-amy-schweinhouse-und-keiler-minogue-logieren-jetzt-am-tegelsee-a-5668441b-2a3e-4143-ab92-0ae6a4f11bfe#ref=rss)
+### sankt
+
+* [https://www.spiegel.de/panorama/sankt-peter-ording-unbekannte-scheitern-bei-skrupellosem-waschbaer-diebstahl-in-tierpark](https://www.spiegel.de/panorama/sankt-peter-ording-unbekannte-scheitern-bei-skrupellosem-waschbaer-diebstahl-in-tierpark-a-e6d4736d-e0ef-45dc-88ba-4a2738b42077#ref=rss)
+### peterording
+
+* [https://www.spiegel.de/panorama/sankt-peter-ording-unbekannte-scheitern-bei-skrupellosem-waschbaer-diebstahl-in-tierpark](https://www.spiegel.de/panorama/sankt-peter-ording-unbekannte-scheitern-bei-skrupellosem-waschbaer-diebstahl-in-tierpark-a-e6d4736d-e0ef-45dc-88ba-4a2738b42077#ref=rss)
+### unbekannte
+
+* [https://www.spiegel.de/panorama/sankt-peter-ording-unbekannte-scheitern-bei-skrupellosem-waschbaer-diebstahl-in-tierpark](https://www.spiegel.de/panorama/sankt-peter-ording-unbekannte-scheitern-bei-skrupellosem-waschbaer-diebstahl-in-tierpark-a-e6d4736d-e0ef-45dc-88ba-4a2738b42077#ref=rss)
+### tierpark
+
+* [https://www.spiegel.de/panorama/sankt-peter-ording-unbekannte-scheitern-bei-skrupellosem-waschbaer-diebstahl-in-tierpark](https://www.spiegel.de/panorama/sankt-peter-ording-unbekannte-scheitern-bei-skrupellosem-waschbaer-diebstahl-in-tierpark-a-e6d4736d-e0ef-45dc-88ba-4a2738b42077#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-spanien-steht-laengste-hitzewelle-seit-jahren-bevor-tuerkei-schliesst-dardanellen-meerenge](https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-spanien-steht-laengste-hitzewelle-seit-jahren-bevor-tuerkei-schliesst-dardanellen-meerenge-a-bce0babf-8538-4a88-8fa2-4353648a9a4c#ref=rss)
 
