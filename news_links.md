@@ -4,318 +4,374 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-china-draengt-auf-lockerung-der-us-chipkontrollen-vor-gipfel](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-china-draengt-auf-lockerung-der-us-chipkontrollen-vor-gipfel-a-e6712ff2-1a07-4810-bd89-c294d01a88a0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-seine-beste-eigenschaft](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-seine-beste-eigenschaft-a-c670a533-57ec-4363-9caf-41dcd9999b00#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-gegen-ucla-praesident-reicht-milliardenklage-gegen-universitaet-ein](https://www.spiegel.de/ausland/donald-trump-gegen-ucla-praesident-reicht-milliardenklage-gegen-universitaet-ein-a-aca61ee1-b6cb-4423-bf28-353aecb01427#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-offenbar-bereit-fuer-dreier-gipfel-mit-wladimir-putin-und-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-donald-trump-offenbar-bereit-fuer-dreier-gipfel-mit-wladimir-putin-und-wolodymyr-selenskyj-a-a08e346f-6d0c-477a-a752-345e7ed73e23#ref=rss)
-* [https://www.spiegel.de/wirtschaft/trump-regierung-krypto-berater-bo-hines-kuendigt-ruecktritt-an](https://www.spiegel.de/wirtschaft/trump-regierung-krypto-berater-bo-hines-kuendigt-ruecktritt-an-a-2349426f-993c-4511-bbb6-f5c45f64b17e#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-europaeische-unterstuetzung-fuer-kyjiw-vor-trump-putin-treffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-europaeische-unterstuetzung-fuer-kyjiw-vor-trump-putin-treffen-a-5d8dfd68-9a91-46ff-9c12-bd4637006b65#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-china-draengt-auf-lockerung-der-us-chipkontrollen-vor-gipfel](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-china-draengt-auf-lockerung-der-us-chipkontrollen-vor-gipfel-a-e6712ff2-1a07-4810-bd89-c294d01a88a0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-seine-beste-eigenschaft](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-seine-beste-eigenschaft-a-c670a533-57ec-4363-9caf-41dcd9999b00#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-gegen-ucla-praesident-reicht-milliardenklage-gegen-universitaet-ein](https://www.spiegel.de/ausland/donald-trump-gegen-ucla-praesident-reicht-milliardenklage-gegen-universitaet-ein-a-aca61ee1-b6cb-4423-bf28-353aecb01427#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-offenbar-bereit-fuer-dreier-gipfel-mit-wladimir-putin-und-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-donald-trump-offenbar-bereit-fuer-dreier-gipfel-mit-wladimir-putin-und-wolodymyr-selenskyj-a-a08e346f-6d0c-477a-a752-345e7ed73e23#ref=rss)
-* [https://www.spiegel.de/wirtschaft/trump-regierung-krypto-berater-bo-hines-kuendigt-ruecktritt-an](https://www.spiegel.de/wirtschaft/trump-regierung-krypto-berater-bo-hines-kuendigt-ruecktritt-an-a-2349426f-993c-4511-bbb6-f5c45f64b17e#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-europaeische-unterstuetzung-fuer-kyjiw-vor-trump-putin-treffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-europaeische-unterstuetzung-fuer-kyjiw-vor-trump-putin-treffen-a-5d8dfd68-9a91-46ff-9c12-bd4637006b65#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/israel-familien-von-geiseln-rufen-zum-generalstreik-wegen-gaza-plaenen-auf](https://www.spiegel.de/ausland/israel-familien-von-geiseln-rufen-zum-generalstreik-wegen-gaza-plaenen-auf-a-a9a8a5ac-d996-4a5b-a832-e1d8d9efe15e#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-15-eritreer-aus-kuehltransporter-im-departement-pas-de-calais-gerettet](https://www.spiegel.de/ausland/frankreich-15-eritreer-aus-kuehltransporter-im-departement-pas-de-calais-gerettet-a-975de021-907d-47ac-84a3-cfa80ee52575#ref=rss)
-* [https://www.spiegel.de/partnerschaft/spontane-lust-vs-responsive-lust-welcher-typ-sind-sie-beim-sex](https://www.spiegel.de/partnerschaft/spontane-lust-vs-responsive-lust-welcher-typ-sind-sie-beim-sex-a-81d3aba2-30f1-4552-a358-abb3b7f2be91#ref=rss)
-* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/kino/scream-7-schauspielerin-alison-brie-wuenscht-sich-mehr-tote-in-scream](https://www.spiegel.de/kultur/kino/scream-7-schauspielerin-alison-brie-wuenscht-sich-mehr-tote-in-scream-a-5b08a3f4-c7e6-49dc-a59c-901d5af4f66d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gorillas-und-geschlechterrollen-berggorillas-zeigen-das-kraft-nicht-alles-ist](https://www.spiegel.de/wissenschaft/gorillas-und-geschlechterrollen-berggorillas-zeigen-das-kraft-nicht-alles-ist-a-af6b8469-86a1-445d-b8a6-c11d85174ad9#ref=rss)
-* [https://www.spiegel.de/tests/brettspiele/spiele-tipps-fuer-den-urlaub-so-passen-noch-mehr-spiele-in-den-koffer](https://www.spiegel.de/tests/brettspiele/spiele-tipps-fuer-den-urlaub-so-passen-noch-mehr-spiele-in-den-koffer-a-1ad94f35-08bc-4ad6-ab55-cc801fd9dc98#ref=rss)
-* [https://www.spiegel.de/ausland/haiti-verhaengt-ausnahmezustand-wegen-bandengewalt](https://www.spiegel.de/ausland/haiti-verhaengt-ausnahmezustand-wegen-bandengewalt-a-4e5d7549-f16e-427b-aff9-52131b4d9157#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-offenbar-bereit-fuer-dreier-gipfel-mit-wladimir-putin-und-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-donald-trump-offenbar-bereit-fuer-dreier-gipfel-mit-wladimir-putin-und-wolodymyr-selenskyj-a-a08e346f-6d0c-477a-a752-345e7ed73e23#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-europaeische-unterstuetzung-fuer-kyjiw-vor-trump-putin-treffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-europaeische-unterstuetzung-fuer-kyjiw-vor-trump-putin-treffen-a-5d8dfd68-9a91-46ff-9c12-bd4637006b65#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine-a-e1ad5a32-f364-4662-8ac0-dc45919442b0#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-offenbar-bereit-fuer-dreier-gipfel-mit-wladimir-putin-und-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-donald-trump-offenbar-bereit-fuer-dreier-gipfel-mit-wladimir-putin-und-wolodymyr-selenskyj-a-a08e346f-6d0c-477a-a752-345e7ed73e23#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-europaeische-unterstuetzung-fuer-kyjiw-vor-trump-putin-treffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-europaeische-unterstuetzung-fuer-kyjiw-vor-trump-putin-treffen-a-5d8dfd68-9a91-46ff-9c12-bd4637006b65#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine-a-e1ad5a32-f364-4662-8ac0-dc45919442b0#ref=rss)
-### fußballer
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-zum-fussballer-des-jahres-gewaehlt-ann-katrin-berger-und-giulia-gwinn-siegen-bei-den-frauen](https://www.spiegel.de/sport/fussball/florian-wirtz-zum-fussballer-des-jahres-gewaehlt-ann-katrin-berger-und-giulia-gwinn-siegen-bei-den-frauen-a-a074a1df-bba8-44ef-9614-0a121b691530#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gaza-konflikt-salah-kritisiert-uefa-fuer-umgang-mit-tod-von-fussballer](https://www.spiegel.de/sport/fussball/gaza-konflikt-salah-kritisiert-uefa-fuer-umgang-mit-tod-von-fussballer-a-91488475-7676-4598-9f42-130da045451e#ref=rss)
-### 15
-
-* [https://www.spiegel.de/ausland/frankreich-15-eritreer-aus-kuehltransporter-im-departement-pas-de-calais-gerettet](https://www.spiegel.de/ausland/frankreich-15-eritreer-aus-kuehltransporter-im-departement-pas-de-calais-gerettet-a-975de021-907d-47ac-84a3-cfa80ee52575#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-offenbar-bereit-fuer-dreier-gipfel-mit-wladimir-putin-und-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-donald-trump-offenbar-bereit-fuer-dreier-gipfel-mit-wladimir-putin-und-wolodymyr-selenskyj-a-a08e346f-6d0c-477a-a752-345e7ed73e23#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/frankreich-15-eritreer-aus-kuehltransporter-im-departement-pas-de-calais-gerettet](https://www.spiegel.de/ausland/frankreich-15-eritreer-aus-kuehltransporter-im-departement-pas-de-calais-gerettet-a-975de021-907d-47ac-84a3-cfa80ee52575#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-china-draengt-auf-lockerung-der-us-chipkontrollen-vor-gipfel](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-china-draengt-auf-lockerung-der-us-chipkontrollen-vor-gipfel-a-e6712ff2-1a07-4810-bd89-c294d01a88a0#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-offenbar-bereit-fuer-dreier-gipfel-mit-wladimir-putin-und-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-donald-trump-offenbar-bereit-fuer-dreier-gipfel-mit-wladimir-putin-und-wolodymyr-selenskyj-a-a08e346f-6d0c-477a-a752-345e7ed73e23#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
-### boxer
-
-* [https://www.spiegel.de/sport/japan-zwei-boxer-erliegen-hirnverletzungen-nach-veranstaltung-in-tokio](https://www.spiegel.de/sport/japan-zwei-boxer-erliegen-hirnverletzungen-nach-veranstaltung-in-tokio-a-c217904b-98bf-4c35-9f75-9d4c0ce7e4ba#ref=rss)
-* [https://www.spiegel.de/sport/mike-tyson-sein-biograf-sagt-der-boxer-hat-angst-zu-einer-waffe-gemacht](https://www.spiegel.de/sport/mike-tyson-sein-biograf-sagt-der-boxer-hat-angst-zu-einer-waffe-gemacht-a-a7aae13f-7de0-4f6b-b899-a7afa68aadd8#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-seine-beste-eigenschaft](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-seine-beste-eigenschaft-a-c670a533-57ec-4363-9caf-41dcd9999b00#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-gegen-ucla-praesident-reicht-milliardenklage-gegen-universitaet-ein](https://www.spiegel.de/ausland/donald-trump-gegen-ucla-praesident-reicht-milliardenklage-gegen-universitaet-ein-a-aca61ee1-b6cb-4423-bf28-353aecb01427#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-europaeische-unterstuetzung-fuer-kyjiw-vor-trump-putin-treffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-europaeische-unterstuetzung-fuer-kyjiw-vor-trump-putin-treffen-a-5d8dfd68-9a91-46ff-9c12-bd4637006b65#ref=rss)
-### lust
-
-* [https://www.spiegel.de/partnerschaft/spontane-lust-vs-responsive-lust-welcher-typ-sind-sie-beim-sex](https://www.spiegel.de/partnerschaft/spontane-lust-vs-responsive-lust-welcher-typ-sind-sie-beim-sex-a-81d3aba2-30f1-4552-a358-abb3b7f2be91#ref=rss)
-* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
-### sex
-
-* [https://www.spiegel.de/partnerschaft/spontane-lust-vs-responsive-lust-welcher-typ-sind-sie-beim-sex](https://www.spiegel.de/partnerschaft/spontane-lust-vs-responsive-lust-welcher-typ-sind-sie-beim-sex-a-81d3aba2-30f1-4552-a358-abb3b7f2be91#ref=rss)
-* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
-### ‒
-
-* [https://www.spiegel.de/partnerschaft/spontane-lust-vs-responsive-lust-welcher-typ-sind-sie-beim-sex](https://www.spiegel.de/partnerschaft/spontane-lust-vs-responsive-lust-welcher-typ-sind-sie-beim-sex-a-81d3aba2-30f1-4552-a358-abb3b7f2be91#ref=rss)
-* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
-### kyjiw
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-europaeische-unterstuetzung-fuer-kyjiw-vor-trump-putin-treffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-europaeische-unterstuetzung-fuer-kyjiw-vor-trump-putin-treffen-a-5d8dfd68-9a91-46ff-9c12-bd4637006b65#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine-a-e1ad5a32-f364-4662-8ac0-dc45919442b0#ref=rss)
-### sonntag
-
-* [https://www.spiegel.de/ausland/israel-familien-von-geiseln-rufen-zum-generalstreik-wegen-gaza-plaenen-auf](https://www.spiegel.de/ausland/israel-familien-von-geiseln-rufen-zum-generalstreik-wegen-gaza-plaenen-auf-a-a9a8a5ac-d996-4a5b-a832-e1d8d9efe15e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-seine-beste-eigenschaft](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-seine-beste-eigenschaft-a-c670a533-57ec-4363-9caf-41dcd9999b00#ref=rss)
-### aline
-
-* [https://www.spiegel.de/kultur/aline-abboud-ard-moderatorin-wechselt-in-die-politik](https://www.spiegel.de/kultur/aline-abboud-ard-moderatorin-wechselt-in-die-politik-a-0bf374d7-ffd6-42ba-a474-50e643adb1c0#ref=rss)
-### abboud
-
-* [https://www.spiegel.de/kultur/aline-abboud-ard-moderatorin-wechselt-in-die-politik](https://www.spiegel.de/kultur/aline-abboud-ard-moderatorin-wechselt-in-die-politik-a-0bf374d7-ffd6-42ba-a474-50e643adb1c0#ref=rss)
-### job
-
-* [https://www.spiegel.de/kultur/aline-abboud-ard-moderatorin-wechselt-in-die-politik](https://www.spiegel.de/kultur/aline-abboud-ard-moderatorin-wechselt-in-die-politik-a-0bf374d7-ffd6-42ba-a474-50e643adb1c0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/trump-regierung-krypto-berater-bo-hines-kuendigt-ruecktritt-an](https://www.spiegel.de/wirtschaft/trump-regierung-krypto-berater-bo-hines-kuendigt-ruecktritt-an-a-2349426f-993c-4511-bbb6-f5c45f64b17e#ref=rss)
-### jahres
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-zum-fussballer-des-jahres-gewaehlt-ann-katrin-berger-und-giulia-gwinn-siegen-bei-den-frauen](https://www.spiegel.de/sport/fussball/florian-wirtz-zum-fussballer-des-jahres-gewaehlt-ann-katrin-berger-und-giulia-gwinn-siegen-bei-den-frauen-a-a074a1df-bba8-44ef-9614-0a121b691530#ref=rss)
-### gewählt
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-zum-fussballer-des-jahres-gewaehlt-ann-katrin-berger-und-giulia-gwinn-siegen-bei-den-frauen](https://www.spiegel.de/sport/fussball/florian-wirtz-zum-fussballer-des-jahres-gewaehlt-ann-katrin-berger-und-giulia-gwinn-siegen-bei-den-frauen-a-a074a1df-bba8-44ef-9614-0a121b691530#ref=rss)
-* [https://www.spiegel.de/ausland/haiti-verhaengt-ausnahmezustand-wegen-bandengewalt](https://www.spiegel.de/ausland/haiti-verhaengt-ausnahmezustand-wegen-bandengewalt-a-4e5d7549-f16e-427b-aff9-52131b4d9157#ref=rss)
-### annkatrin
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-zum-fussballer-des-jahres-gewaehlt-ann-katrin-berger-und-giulia-gwinn-siegen-bei-den-frauen](https://www.spiegel.de/sport/fussball/florian-wirtz-zum-fussballer-des-jahres-gewaehlt-ann-katrin-berger-und-giulia-gwinn-siegen-bei-den-frauen-a-a074a1df-bba8-44ef-9614-0a121b691530#ref=rss)
-### berger
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-zum-fussballer-des-jahres-gewaehlt-ann-katrin-berger-und-giulia-gwinn-siegen-bei-den-frauen](https://www.spiegel.de/sport/fussball/florian-wirtz-zum-fussballer-des-jahres-gewaehlt-ann-katrin-berger-und-giulia-gwinn-siegen-bei-den-frauen-a-a074a1df-bba8-44ef-9614-0a121b691530#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-zum-fussballer-des-jahres-gewaehlt-ann-katrin-berger-und-giulia-gwinn-siegen-bei-den-frauen](https://www.spiegel.de/sport/fussball/florian-wirtz-zum-fussballer-des-jahres-gewaehlt-ann-katrin-berger-und-giulia-gwinn-siegen-bei-den-frauen-a-a074a1df-bba8-44ef-9614-0a121b691530#ref=rss)
-* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-teilt-video-mit-inhalten-gegen-frauenwahlrecht](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-teilt-video-mit-inhalten-gegen-frauenwahlrecht-a-bd87f51d-8d11-4115-acf7-5be7438ef78d#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-15-eritreer-aus-kuehltransporter-im-departement-pas-de-calais-gerettet](https://www.spiegel.de/ausland/frankreich-15-eritreer-aus-kuehltransporter-im-departement-pas-de-calais-gerettet-a-975de021-907d-47ac-84a3-cfa80ee52575#ref=rss)
-### kühltransporter
-
-* [https://www.spiegel.de/ausland/frankreich-15-eritreer-aus-kuehltransporter-im-departement-pas-de-calais-gerettet](https://www.spiegel.de/ausland/frankreich-15-eritreer-aus-kuehltransporter-im-departement-pas-de-calais-gerettet-a-975de021-907d-47ac-84a3-cfa80ee52575#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### salah
-
-* [https://www.spiegel.de/sport/fussball/gaza-konflikt-salah-kritisiert-uefa-fuer-umgang-mit-tod-von-fussballer](https://www.spiegel.de/sport/fussball/gaza-konflikt-salah-kritisiert-uefa-fuer-umgang-mit-tod-von-fussballer-a-91488475-7676-4598-9f42-130da045451e#ref=rss)
-### uefa
-
-* [https://www.spiegel.de/sport/fussball/gaza-konflikt-salah-kritisiert-uefa-fuer-umgang-mit-tod-von-fussballer](https://www.spiegel.de/sport/fussball/gaza-konflikt-salah-kritisiert-uefa-fuer-umgang-mit-tod-von-fussballer-a-91488475-7676-4598-9f42-130da045451e#ref=rss)
-### laut
-
-* [https://www.spiegel.de/sport/fussball/gaza-konflikt-salah-kritisiert-uefa-fuer-umgang-mit-tod-von-fussballer](https://www.spiegel.de/sport/fussball/gaza-konflikt-salah-kritisiert-uefa-fuer-umgang-mit-tod-von-fussballer-a-91488475-7676-4598-9f42-130da045451e#ref=rss)
-* [https://www.spiegel.de/politik/israel-gaza-krieg-mehrheit-der-deutschen-laut-umfrage-fuer-anerkennung-palaestinas-als-staat](https://www.spiegel.de/politik/israel-gaza-krieg-mehrheit-der-deutschen-laut-umfrage-fuer-anerkennung-palaestinas-als-staat-a-b44b7850-e81b-4452-9339-5c500690d809#ref=rss)
-### verband
-
-* [https://www.spiegel.de/sport/fussball/gaza-konflikt-salah-kritisiert-uefa-fuer-umgang-mit-tod-von-fussballer](https://www.spiegel.de/sport/fussball/gaza-konflikt-salah-kritisiert-uefa-fuer-umgang-mit-tod-von-fussballer-a-91488475-7676-4598-9f42-130da045451e#ref=rss)
-* [https://www.spiegel.de/sport/japan-zwei-boxer-erliegen-hirnverletzungen-nach-veranstaltung-in-tokio](https://www.spiegel.de/sport/japan-zwei-boxer-erliegen-hirnverletzungen-nach-veranstaltung-in-tokio-a-c217904b-98bf-4c35-9f75-9d4c0ce7e4ba#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/sport/fussball/gaza-konflikt-salah-kritisiert-uefa-fuer-umgang-mit-tod-von-fussballer](https://www.spiegel.de/sport/fussball/gaza-konflikt-salah-kritisiert-uefa-fuer-umgang-mit-tod-von-fussballer-a-91488475-7676-4598-9f42-130da045451e#ref=rss)
-* [https://www.spiegel.de/politik/israel-gaza-krieg-mehrheit-der-deutschen-laut-umfrage-fuer-anerkennung-palaestinas-als-staat](https://www.spiegel.de/politik/israel-gaza-krieg-mehrheit-der-deutschen-laut-umfrage-fuer-anerkennung-palaestinas-als-staat-a-b44b7850-e81b-4452-9339-5c500690d809#ref=rss)
-### intelligenz
-
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-china-draengt-auf-lockerung-der-us-chipkontrollen-vor-gipfel](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-china-draengt-auf-lockerung-der-us-chipkontrollen-vor-gipfel-a-e6712ff2-1a07-4810-bd89-c294d01a88a0#ref=rss)
-### lockerung
-
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-china-draengt-auf-lockerung-der-us-chipkontrollen-vor-gipfel](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-china-draengt-auf-lockerung-der-us-chipkontrollen-vor-gipfel-a-e6712ff2-1a07-4810-bd89-c294d01a88a0#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-china-draengt-auf-lockerung-der-us-chipkontrollen-vor-gipfel](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-china-draengt-auf-lockerung-der-us-chipkontrollen-vor-gipfel-a-e6712ff2-1a07-4810-bd89-c294d01a88a0#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine-a-e1ad5a32-f364-4662-8ac0-dc45919442b0#ref=rss)
-### wildschweine
-
-* [https://www.spiegel.de/wissenschaft/medizin/wildschweine-sie-machen-sich-in-wohngebieten-breit-und-verschrecken-anwohner](https://www.spiegel.de/wissenschaft/medizin/wildschweine-sie-machen-sich-in-wohngebieten-breit-und-verschrecken-anwohner-a-6c50b67e-79e6-43d7-a0dd-fd5cc6266f03#ref=rss)
-### psychiatrie
-
-* [https://www.spiegel.de/geschichte/londons-beruehmte-psychiatrie-bethlem-europas-tollhaus](https://www.spiegel.de/geschichte/londons-beruehmte-psychiatrie-bethlem-europas-tollhaus-a-bdbb7dc6-4513-48b1-a3a5-dd572ad134f4#ref=rss)
-### bethlem
-
-* [https://www.spiegel.de/geschichte/londons-beruehmte-psychiatrie-bethlem-europas-tollhaus](https://www.spiegel.de/geschichte/londons-beruehmte-psychiatrie-bethlem-europas-tollhaus-a-bdbb7dc6-4513-48b1-a3a5-dd572ad134f4#ref=rss)
-### dessen
-
-* [https://www.spiegel.de/geschichte/londons-beruehmte-psychiatrie-bethlem-europas-tollhaus](https://www.spiegel.de/geschichte/londons-beruehmte-psychiatrie-bethlem-europas-tollhaus-a-bdbb7dc6-4513-48b1-a3a5-dd572ad134f4#ref=rss)
-* [https://www.spiegel.de/sport/mike-tyson-sein-biograf-sagt-der-boxer-hat-angst-zu-einer-waffe-gemacht](https://www.spiegel.de/sport/mike-tyson-sein-biograf-sagt-der-boxer-hat-angst-zu-einer-waffe-gemacht-a-a7aae13f-7de0-4f6b-b899-a7afa68aadd8#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/japan-zwei-boxer-erliegen-hirnverletzungen-nach-veranstaltung-in-tokio](https://www.spiegel.de/sport/japan-zwei-boxer-erliegen-hirnverletzungen-nach-veranstaltung-in-tokio-a-c217904b-98bf-4c35-9f75-9d4c0ce7e4ba#ref=rss)
-### hirnverletzungen
-
-* [https://www.spiegel.de/sport/japan-zwei-boxer-erliegen-hirnverletzungen-nach-veranstaltung-in-tokio](https://www.spiegel.de/sport/japan-zwei-boxer-erliegen-hirnverletzungen-nach-veranstaltung-in-tokio-a-c217904b-98bf-4c35-9f75-9d4c0ce7e4ba#ref=rss)
-### tokio
-
-* [https://www.spiegel.de/sport/japan-zwei-boxer-erliegen-hirnverletzungen-nach-veranstaltung-in-tokio](https://www.spiegel.de/sport/japan-zwei-boxer-erliegen-hirnverletzungen-nach-veranstaltung-in-tokio-a-c217904b-98bf-4c35-9f75-9d4c0ce7e4ba#ref=rss)
-### dörfer
-
-* [https://www.spiegel.de/panorama/edersee-in-hessen-tauchen-versunkene-doerfer-wieder-auf](https://www.spiegel.de/panorama/edersee-in-hessen-tauchen-versunkene-doerfer-wieder-auf-a-3f94b5d1-abc3-4a4c-9e98-32f810db733c#ref=rss)
-### grund
-
-* [https://www.spiegel.de/panorama/edersee-in-hessen-tauchen-versunkene-doerfer-wieder-auf](https://www.spiegel.de/panorama/edersee-in-hessen-tauchen-versunkene-doerfer-wieder-auf-a-3f94b5d1-abc3-4a4c-9e98-32f810db733c#ref=rss)
-### alison
-
-* [https://www.spiegel.de/kultur/kino/scream-7-schauspielerin-alison-brie-wuenscht-sich-mehr-tote-in-scream](https://www.spiegel.de/kultur/kino/scream-7-schauspielerin-alison-brie-wuenscht-sich-mehr-tote-in-scream-a-5b08a3f4-c7e6-49dc-a59c-901d5af4f66d#ref=rss)
-### brie
-
-* [https://www.spiegel.de/kultur/kino/scream-7-schauspielerin-alison-brie-wuenscht-sich-mehr-tote-in-scream](https://www.spiegel.de/kultur/kino/scream-7-schauspielerin-alison-brie-wuenscht-sich-mehr-tote-in-scream-a-5b08a3f4-c7e6-49dc-a59c-901d5af4f66d#ref=rss)
-### scream
-
-* [https://www.spiegel.de/kultur/kino/scream-7-schauspielerin-alison-brie-wuenscht-sich-mehr-tote-in-scream](https://www.spiegel.de/kultur/kino/scream-7-schauspielerin-alison-brie-wuenscht-sich-mehr-tote-in-scream-a-5b08a3f4-c7e6-49dc-a59c-901d5af4f66d#ref=rss)
-### solle
-
-* [https://www.spiegel.de/kultur/kino/scream-7-schauspielerin-alison-brie-wuenscht-sich-mehr-tote-in-scream](https://www.spiegel.de/kultur/kino/scream-7-schauspielerin-alison-brie-wuenscht-sich-mehr-tote-in-scream-a-5b08a3f4-c7e6-49dc-a59c-901d5af4f66d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine-a-e1ad5a32-f364-4662-8ac0-dc45919442b0#ref=rss)
-### hegseth
-
-* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-teilt-video-mit-inhalten-gegen-frauenwahlrecht](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-teilt-video-mit-inhalten-gegen-frauenwahlrecht-a-bd87f51d-8d11-4115-acf7-5be7438ef78d#ref=rss)
-### usverteidigungsminister
-
-* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-teilt-video-mit-inhalten-gegen-frauenwahlrecht](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-teilt-video-mit-inhalten-gegen-frauenwahlrecht-a-bd87f51d-8d11-4115-acf7-5be7438ef78d#ref=rss)
-### video
-
-* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-teilt-video-mit-inhalten-gegen-frauenwahlrecht](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-teilt-video-mit-inhalten-gegen-frauenwahlrecht-a-bd87f51d-8d11-4115-acf7-5be7438ef78d#ref=rss)
-### chappatte
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-654a057f-feeb-48d4-80d0-c66a07d0e763#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-654a057f-feeb-48d4-80d0-c66a07d0e763#ref=rss)
-### plaßmann
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-654a057f-feeb-48d4-80d0-c66a07d0e763#ref=rss)
-### klaus
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-654a057f-feeb-48d4-80d0-c66a07d0e763#ref=rss)
-### stuttmann
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-654a057f-feeb-48d4-80d0-c66a07d0e763#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-654a057f-feeb-48d4-80d0-c66a07d0e763#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine-a-e1ad5a32-f364-4662-8ac0-dc45919442b0#ref=rss)
-### fall
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-654a057f-feeb-48d4-80d0-c66a07d0e763#ref=rss)
-* [https://www.spiegel.de/sport/mike-tyson-sein-biograf-sagt-der-boxer-hat-angst-zu-einer-waffe-gemacht](https://www.spiegel.de/sport/mike-tyson-sein-biograf-sagt-der-boxer-hat-angst-zu-einer-waffe-gemacht-a-a7aae13f-7de0-4f6b-b899-a7afa68aadd8#ref=rss)
-### europa
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-654a057f-feeb-48d4-80d0-c66a07d0e763#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine-a-e1ad5a32-f364-4662-8ac0-dc45919442b0#ref=rss)
-### mehrheit
-
-* [https://www.spiegel.de/politik/israel-gaza-krieg-mehrheit-der-deutschen-laut-umfrage-fuer-anerkennung-palaestinas-als-staat](https://www.spiegel.de/politik/israel-gaza-krieg-mehrheit-der-deutschen-laut-umfrage-fuer-anerkennung-palaestinas-als-staat-a-b44b7850-e81b-4452-9339-5c500690d809#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/politik/israel-gaza-krieg-mehrheit-der-deutschen-laut-umfrage-fuer-anerkennung-palaestinas-als-staat](https://www.spiegel.de/politik/israel-gaza-krieg-mehrheit-der-deutschen-laut-umfrage-fuer-anerkennung-palaestinas-als-staat-a-b44b7850-e81b-4452-9339-5c500690d809#ref=rss)
-### umfrage
-
-* [https://www.spiegel.de/politik/israel-gaza-krieg-mehrheit-der-deutschen-laut-umfrage-fuer-anerkennung-palaestinas-als-staat](https://www.spiegel.de/politik/israel-gaza-krieg-mehrheit-der-deutschen-laut-umfrage-fuer-anerkennung-palaestinas-als-staat-a-b44b7850-e81b-4452-9339-5c500690d809#ref=rss)
-### frieden
-
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-seine-beste-eigenschaft](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-seine-beste-eigenschaft-a-c670a533-57ec-4363-9caf-41dcd9999b00#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-europaeische-unterstuetzung-fuer-kyjiw-vor-trump-putin-treffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-europaeische-unterstuetzung-fuer-kyjiw-vor-trump-putin-treffen-a-5d8dfd68-9a91-46ff-9c12-bd4637006b65#ref=rss)
-### berggorillas
-
-* [https://www.spiegel.de/wissenschaft/gorillas-und-geschlechterrollen-berggorillas-zeigen-das-kraft-nicht-alles-ist](https://www.spiegel.de/wissenschaft/gorillas-und-geschlechterrollen-berggorillas-zeigen-das-kraft-nicht-alles-ist-a-af6b8469-86a1-445d-b8a6-c11d85174ad9#ref=rss)
-### kraft
-
-* [https://www.spiegel.de/wissenschaft/gorillas-und-geschlechterrollen-berggorillas-zeigen-das-kraft-nicht-alles-ist](https://www.spiegel.de/wissenschaft/gorillas-und-geschlechterrollen-berggorillas-zeigen-das-kraft-nicht-alles-ist-a-af6b8469-86a1-445d-b8a6-c11d85174ad9#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/wissenschaft/gorillas-und-geschlechterrollen-berggorillas-zeigen-das-kraft-nicht-alles-ist](https://www.spiegel.de/wissenschaft/gorillas-und-geschlechterrollen-berggorillas-zeigen-das-kraft-nicht-alles-ist-a-af6b8469-86a1-445d-b8a6-c11d85174ad9#ref=rss)
-* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
-### braucht
-
-* [https://www.spiegel.de/wissenschaft/gorillas-und-geschlechterrollen-berggorillas-zeigen-das-kraft-nicht-alles-ist](https://www.spiegel.de/wissenschaft/gorillas-und-geschlechterrollen-berggorillas-zeigen-das-kraft-nicht-alles-ist-a-af6b8469-86a1-445d-b8a6-c11d85174ad9#ref=rss)
-* [https://www.spiegel.de/tests/brettspiele/spiele-tipps-fuer-den-urlaub-so-passen-noch-mehr-spiele-in-den-koffer](https://www.spiegel.de/tests/brettspiele/spiele-tipps-fuer-den-urlaub-so-passen-noch-mehr-spiele-in-den-koffer-a-1ad94f35-08bc-4ad6-ab55-cc801fd9dc98#ref=rss)
-### lernen
-
-* [https://www.spiegel.de/wissenschaft/gorillas-und-geschlechterrollen-berggorillas-zeigen-das-kraft-nicht-alles-ist](https://www.spiegel.de/wissenschaft/gorillas-und-geschlechterrollen-berggorillas-zeigen-das-kraft-nicht-alles-ist-a-af6b8469-86a1-445d-b8a6-c11d85174ad9#ref=rss)
-* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
-### ucla
-
-* [https://www.spiegel.de/ausland/donald-trump-gegen-ucla-praesident-reicht-milliardenklage-gegen-universitaet-ein](https://www.spiegel.de/ausland/donald-trump-gegen-ucla-praesident-reicht-milliardenklage-gegen-universitaet-ein-a-aca61ee1-b6cb-4423-bf28-353aecb01427#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/donald-trump-gegen-ucla-praesident-reicht-milliardenklage-gegen-universitaet-ein](https://www.spiegel.de/ausland/donald-trump-gegen-ucla-praesident-reicht-milliardenklage-gegen-universitaet-ein-a-aca61ee1-b6cb-4423-bf28-353aecb01427#ref=rss)
-* [https://www.spiegel.de/ausland/kolumbien-praesidentschaftskandidat-miguel-uribe-nach-anschlag-in-lebensgefahr](https://www.spiegel.de/ausland/kolumbien-praesidentschaftskandidat-miguel-uribe-nach-anschlag-in-lebensgefahr-a-d6641775-6188-4628-9b6e-52227644c9a4#ref=rss)
-### reicht
-
-* [https://www.spiegel.de/ausland/donald-trump-gegen-ucla-praesident-reicht-milliardenklage-gegen-universitaet-ein](https://www.spiegel.de/ausland/donald-trump-gegen-ucla-praesident-reicht-milliardenklage-gegen-universitaet-ein-a-aca61ee1-b6cb-4423-bf28-353aecb01427#ref=rss)
-### milliardenklage
-
-* [https://www.spiegel.de/ausland/donald-trump-gegen-ucla-praesident-reicht-milliardenklage-gegen-universitaet-ein](https://www.spiegel.de/ausland/donald-trump-gegen-ucla-praesident-reicht-milliardenklage-gegen-universitaet-ein-a-aca61ee1-b6cb-4423-bf28-353aecb01427#ref=rss)
-### miguel
-
-* [https://www.spiegel.de/ausland/kolumbien-praesidentschaftskandidat-miguel-uribe-nach-anschlag-in-lebensgefahr](https://www.spiegel.de/ausland/kolumbien-praesidentschaftskandidat-miguel-uribe-nach-anschlag-in-lebensgefahr-a-d6641775-6188-4628-9b6e-52227644c9a4#ref=rss)
-### uribe
-
-* [https://www.spiegel.de/ausland/kolumbien-praesidentschaftskandidat-miguel-uribe-nach-anschlag-in-lebensgefahr](https://www.spiegel.de/ausland/kolumbien-praesidentschaftskandidat-miguel-uribe-nach-anschlag-in-lebensgefahr-a-d6641775-6188-4628-9b6e-52227644c9a4#ref=rss)
-### urlaub
-
-* [https://www.spiegel.de/tests/brettspiele/spiele-tipps-fuer-den-urlaub-so-passen-noch-mehr-spiele-in-den-koffer](https://www.spiegel.de/tests/brettspiele/spiele-tipps-fuer-den-urlaub-so-passen-noch-mehr-spiele-in-den-koffer-a-1ad94f35-08bc-4ad6-ab55-cc801fd9dc98#ref=rss)
-### koffer
-
-* [https://www.spiegel.de/tests/brettspiele/spiele-tipps-fuer-den-urlaub-so-passen-noch-mehr-spiele-in-den-koffer](https://www.spiegel.de/tests/brettspiele/spiele-tipps-fuer-den-urlaub-so-passen-noch-mehr-spiele-in-den-koffer-a-1ad94f35-08bc-4ad6-ab55-cc801fd9dc98#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/sport/mike-tyson-sein-biograf-sagt-der-boxer-hat-angst-zu-einer-waffe-gemacht](https://www.spiegel.de/sport/mike-tyson-sein-biograf-sagt-der-boxer-hat-angst-zu-einer-waffe-gemacht-a-a7aae13f-7de0-4f6b-b899-a7afa68aadd8#ref=rss)
-* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-offenbar-bereit-fuer-dreier-gipfel-mit-wladimir-putin-und-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-donald-trump-offenbar-bereit-fuer-dreier-gipfel-mit-wladimir-putin-und-wolodymyr-selenskyj-a-a08e346f-6d0c-477a-a752-345e7ed73e23#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/ukraine-donald-trump-offenbar-bereit-fuer-dreier-gipfel-mit-wladimir-putin-und-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-donald-trump-offenbar-bereit-fuer-dreier-gipfel-mit-wladimir-putin-und-wolodymyr-selenskyj-a-a08e346f-6d0c-477a-a752-345e7ed73e23#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine-a-e1ad5a32-f364-4662-8ac0-dc45919442b0#ref=rss)
+### israels
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-sicherheitsrat-kritisiert-israels-besetzungsplaene-fuer-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-sicherheitsrat-kritisiert-israels-besetzungsplaene-fuer-gaza-a-1bb32c71-b401-43e7-9083-0bb588aefc7f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-will-einnahme-von-gaza-stadt-trotz-kritik-vorantreiben](https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-will-einnahme-von-gaza-stadt-trotz-kritik-vorantreiben-a-891346af-c74b-491c-83ec-9cbf1a8f3466#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-versuch-der-schadensbegrenzung-nach-dem-stopp-von-waffenlieferungen-an-israel](https://www.spiegel.de/politik/deutschland/friedrich-merz-versuch-der-schadensbegrenzung-nach-dem-stopp-von-waffenlieferungen-an-israel-a-516c2ed6-140f-4698-9511-aeddc136d9d7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels](https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels-a-74047ebc-e6e4-46ba-8ca8-fd09abcff89a#ref=rss)
 ### ich
 
-* [https://www.spiegel.de/partnerschaft/spontane-lust-vs-responsive-lust-welcher-typ-sind-sie-beim-sex](https://www.spiegel.de/partnerschaft/spontane-lust-vs-responsive-lust-welcher-typ-sind-sie-beim-sex-a-81d3aba2-30f1-4552-a358-abb3b7f2be91#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/regenbogenflagge-frauke-brosius-gersdorf-kulturkaempfer-das-sind-immer-die-anderen](https://www.spiegel.de/politik/deutschland/regenbogenflagge-frauke-brosius-gersdorf-kulturkaempfer-das-sind-immer-die-anderen-a-1274fe41-9849-4a30-8447-eb0911f15a3b#ref=rss)
+* [https://www.spiegel.de/panorama/oasis-reunion-kurz-mal-nicht-die-welt-retten](https://www.spiegel.de/panorama/oasis-reunion-kurz-mal-nicht-die-welt-retten-a-7dfcba3f-52ce-46bf-ae4a-c80d4736129f#ref=rss)
+* [https://www.spiegel.de/panorama/jfk-wie-ich-fuer-ein-foto-von-kennedy-durch-ganz-berlin-fuhr](https://www.spiegel.de/panorama/jfk-wie-ich-fuer-ein-foto-von-kennedy-durch-ganz-berlin-fuhr-a-0fce2471-6daa-4e32-831b-62f7f44dfd4c#ref=rss)
 * [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
-### kryptoberater
+### israel
 
-* [https://www.spiegel.de/wirtschaft/trump-regierung-krypto-berater-bo-hines-kuendigt-ruecktritt-an](https://www.spiegel.de/wirtschaft/trump-regierung-krypto-berater-bo-hines-kuendigt-ruecktritt-an-a-2349426f-993c-4511-bbb6-f5c45f64b17e#ref=rss)
-### bo
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-sicherheitsrat-kritisiert-israels-besetzungsplaene-fuer-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-sicherheitsrat-kritisiert-israels-besetzungsplaene-fuer-gaza-a-1bb32c71-b401-43e7-9083-0bb588aefc7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-versuch-der-schadensbegrenzung-nach-dem-stopp-von-waffenlieferungen-an-israel](https://www.spiegel.de/politik/deutschland/friedrich-merz-versuch-der-schadensbegrenzung-nach-dem-stopp-von-waffenlieferungen-an-israel-a-516c2ed6-140f-4698-9511-aeddc136d9d7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels](https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels-a-74047ebc-e6e4-46ba-8ca8-fd09abcff89a#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-riviera-im-sommer-der-strand-als-einziger-zufluchtsort-im-krieg](https://www.spiegel.de/ausland/gaza-riviera-im-sommer-der-strand-als-einziger-zufluchtsort-im-krieg-a-1c4f0c56-070c-4948-874d-cf6d300a3ade#ref=rss)
+### strauss
 
-* [https://www.spiegel.de/wirtschaft/trump-regierung-krypto-berater-bo-hines-kuendigt-ruecktritt-an](https://www.spiegel.de/wirtschaft/trump-regierung-krypto-berater-bo-hines-kuendigt-ruecktritt-an-a-2349426f-993c-4511-bbb6-f5c45f64b17e#ref=rss)
-### hines
+* [https://www.spiegel.de/wirtschaft/unternehmen/engelbert-strauss-workwear-henning-strauss-ueber-blaumaenner-windraeder-und-europa](https://www.spiegel.de/wirtschaft/unternehmen/engelbert-strauss-workwear-henning-strauss-ueber-blaumaenner-windraeder-und-europa-a-74421034-2ff8-4ad0-bec8-624b5cf403f9#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/trump-regierung-krypto-berater-bo-hines-kuendigt-ruecktritt-an](https://www.spiegel.de/wirtschaft/trump-regierung-krypto-berater-bo-hines-kuendigt-ruecktritt-an-a-2349426f-993c-4511-bbb6-f5c45f64b17e#ref=rss)
-### europäische
+* [https://www.spiegel.de/kultur/chat-gpt-im-alltag-ich-erwische-mich-bei-dem-gedanken-dass-ich-der-ki-keine-gegenleistung-schuldig-bin](https://www.spiegel.de/kultur/chat-gpt-im-alltag-ich-erwische-mich-bei-dem-gedanken-dass-ich-der-ki-keine-gegenleistung-schuldig-bin-a-89962da7-0d77-4dce-84cf-44ad4f43b170#ref=rss)
+* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-riviera-im-sommer-der-strand-als-einziger-zufluchtsort-im-krieg](https://www.spiegel.de/ausland/gaza-riviera-im-sommer-der-strand-als-einziger-zufluchtsort-im-krieg-a-1c4f0c56-070c-4948-874d-cf6d300a3ade#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/geldern-mann-bei-streit-in-kneipe-getoetet-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/geldern-mann-bei-streit-in-kneipe-getoetet-verdaechtiger-festgenommen-a-c858d370-5d3e-4179-8f38-3f91ace8c604#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-europaeische-unterstuetzung-fuer-kyjiw-vor-trump-putin-treffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-europaeische-unterstuetzung-fuer-kyjiw-vor-trump-putin-treffen-a-5d8dfd68-9a91-46ff-9c12-bd4637006b65#ref=rss)
-### ausnahmezustand
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-sicherheitsrat-kritisiert-israels-besetzungsplaene-fuer-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-sicherheitsrat-kritisiert-israels-besetzungsplaene-fuer-gaza-a-1bb32c71-b401-43e7-9083-0bb588aefc7f#ref=rss)
+* [https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen](https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen-a-fae3d133-8185-4098-9e05-384b82b0e235#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-riviera-im-sommer-der-strand-als-einziger-zufluchtsort-im-krieg](https://www.spiegel.de/ausland/gaza-riviera-im-sommer-der-strand-als-einziger-zufluchtsort-im-krieg-a-1c4f0c56-070c-4948-874d-cf6d300a3ade#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/ausland/haiti-verhaengt-ausnahmezustand-wegen-bandengewalt](https://www.spiegel.de/ausland/haiti-verhaengt-ausnahmezustand-wegen-bandengewalt-a-4e5d7549-f16e-427b-aff9-52131b4d9157#ref=rss)
-### verhandlungen
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-sicherheitsrat-kritisiert-israels-besetzungsplaene-fuer-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-sicherheitsrat-kritisiert-israels-besetzungsplaene-fuer-gaza-a-1bb32c71-b401-43e7-9083-0bb588aefc7f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-will-einnahme-von-gaza-stadt-trotz-kritik-vorantreiben](https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-will-einnahme-von-gaza-stadt-trotz-kritik-vorantreiben-a-891346af-c74b-491c-83ec-9cbf1a8f3466#ref=rss)
+### europa
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-selenskyj-pocht-auf-verhandlungen-nur-gemeinsam-mit-der-ukraine-a-e1ad5a32-f364-4662-8ac0-dc45919442b0#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-sicherheitsrat-kritisiert-israels-besetzungsplaene-fuer-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-sicherheitsrat-kritisiert-israels-besetzungsplaene-fuer-gaza-a-1bb32c71-b401-43e7-9083-0bb588aefc7f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/engelbert-strauss-workwear-henning-strauss-ueber-blaumaenner-windraeder-und-europa](https://www.spiegel.de/wirtschaft/unternehmen/engelbert-strauss-workwear-henning-strauss-ueber-blaumaenner-windraeder-und-europa-a-74421034-2ff8-4ad0-bec8-624b5cf403f9#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/regenbogenflagge-frauke-brosius-gersdorf-kulturkaempfer-das-sind-immer-die-anderen](https://www.spiegel.de/politik/deutschland/regenbogenflagge-frauke-brosius-gersdorf-kulturkaempfer-das-sind-immer-die-anderen-a-1274fe41-9849-4a30-8447-eb0911f15a3b#ref=rss)
+* [https://www.spiegel.de/panorama/fuehrerschein-machen-warum-ist-die-fahrschule-so-teuer-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/fuehrerschein-machen-warum-ist-die-fahrschule-so-teuer-spiegel-tv-fuer-arte-re-a-97a0d638-a450-48cb-aee5-f272830851a5#ref=rss)
+* [https://www.spiegel.de/sport/formel1/nuerburgring-tankstelle-trotzt-dem-trend-zu-tempolimit-und-e-mobilitaet](https://www.spiegel.de/sport/formel1/nuerburgring-tankstelle-trotzt-dem-trend-zu-tempolimit-und-e-mobilitaet-a-72ae85fb-62a0-4dd9-9526-f82ea730ac4c#ref=rss)
+### welt
+
+* [https://www.spiegel.de/panorama/oasis-reunion-kurz-mal-nicht-die-welt-retten](https://www.spiegel.de/panorama/oasis-reunion-kurz-mal-nicht-die-welt-retten-a-7dfcba3f-52ce-46bf-ae4a-c80d4736129f#ref=rss)
+* [https://www.spiegel.de/geschichte/medien-ali-akbar-der-beruf-des-zeitungsjungen-im-wandel-der-zeit](https://www.spiegel.de/geschichte/medien-ali-akbar-der-beruf-des-zeitungsjungen-im-wandel-der-zeit-a-30f7ecac-fac4-42d2-97c5-dc27406c166c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/q-day-der-tag-an-dem-die-sicherheit-der-welt-zusammenbricht](https://www.spiegel.de/wissenschaft/technik/q-day-der-tag-an-dem-die-sicherheit-der-welt-zusammenbricht-a-820802af-c3de-44a6-87ba-925c3dcc57dd#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen](https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen-a-fae3d133-8185-4098-9e05-384b82b0e235#ref=rss)
+* [https://www.spiegel.de/familie/elternschaft-nach-missbrauch-in-der-kindheit-welche-unterstuetzung-den-betroffenen-hilft](https://www.spiegel.de/familie/elternschaft-nach-missbrauch-in-der-kindheit-welche-unterstuetzung-den-betroffenen-hilft-a-177b29ce-70d9-4d94-91fd-467772f996b2#ref=rss)
+### ort
+
+* [https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen](https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen-a-fae3d133-8185-4098-9e05-384b82b0e235#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-riviera-im-sommer-der-strand-als-einziger-zufluchtsort-im-krieg](https://www.spiegel.de/ausland/gaza-riviera-im-sommer-der-strand-als-einziger-zufluchtsort-im-krieg-a-1c4f0c56-070c-4948-874d-cf6d300a3ade#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/geldern-mann-bei-streit-in-kneipe-getoetet-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/geldern-mann-bei-streit-in-kneipe-getoetet-verdaechtiger-festgenommen-a-c858d370-5d3e-4179-8f38-3f91ace8c604#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/jfk-wie-ich-fuer-ein-foto-von-kennedy-durch-ganz-berlin-fuhr](https://www.spiegel.de/panorama/jfk-wie-ich-fuer-ein-foto-von-kennedy-durch-ganz-berlin-fuhr-a-0fce2471-6daa-4e32-831b-62f7f44dfd4c#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/ukraine-gipfel-in-alaska-europas-sorge-vor-trumps-alleingang](https://www.spiegel.de/ausland/ukraine-gipfel-in-alaska-europas-sorge-vor-trumps-alleingang-a-8a62c48f-cc5d-4320-b9fe-074846152ce3#ref=rss)
+* [https://www.spiegel.de/panorama/emma-thompson-donald-trump-soll-sie-um-ein-date-gebeten-haben](https://www.spiegel.de/panorama/emma-thompson-donald-trump-soll-sie-um-ein-date-gebeten-haben-a-d8f86d67-a219-406a-bd09-cf1ffb1027ab#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-versuch-der-schadensbegrenzung-nach-dem-stopp-von-waffenlieferungen-an-israel](https://www.spiegel.de/politik/deutschland/friedrich-merz-versuch-der-schadensbegrenzung-nach-dem-stopp-von-waffenlieferungen-an-israel-a-516c2ed6-140f-4698-9511-aeddc136d9d7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels](https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels-a-74047ebc-e6e4-46ba-8ca8-fd09abcff89a#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-versuch-der-schadensbegrenzung-nach-dem-stopp-von-waffenlieferungen-an-israel](https://www.spiegel.de/politik/deutschland/friedrich-merz-versuch-der-schadensbegrenzung-nach-dem-stopp-von-waffenlieferungen-an-israel-a-516c2ed6-140f-4698-9511-aeddc136d9d7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels](https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels-a-74047ebc-e6e4-46ba-8ca8-fd09abcff89a#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/engelbert-strauss-workwear-henning-strauss-ueber-blaumaenner-windraeder-und-europa](https://www.spiegel.de/wirtschaft/unternehmen/engelbert-strauss-workwear-henning-strauss-ueber-blaumaenner-windraeder-und-europa-a-74421034-2ff8-4ad0-bec8-624b5cf403f9#ref=rss)
+* [https://www.spiegel.de/familie/elternschaft-nach-missbrauch-in-der-kindheit-welche-unterstuetzung-den-betroffenen-hilft](https://www.spiegel.de/familie/elternschaft-nach-missbrauch-in-der-kindheit-welche-unterstuetzung-den-betroffenen-hilft-a-177b29ce-70d9-4d94-91fd-467772f996b2#ref=rss)
+* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
+### alle
+
+* [https://www.spiegel.de/wissenschaft/technik/q-day-der-tag-an-dem-die-sicherheit-der-welt-zusammenbricht](https://www.spiegel.de/wissenschaft/technik/q-day-der-tag-an-dem-die-sicherheit-der-welt-zusammenbricht-a-820802af-c3de-44a6-87ba-925c3dcc57dd#ref=rss)
+* [https://www.spiegel.de/sport/formel1/nuerburgring-tankstelle-trotzt-dem-trend-zu-tempolimit-und-e-mobilitaet](https://www.spiegel.de/sport/formel1/nuerburgring-tankstelle-trotzt-dem-trend-zu-tempolimit-und-e-mobilitaet-a-72ae85fb-62a0-4dd9-9526-f82ea730ac4c#ref=rss)
+### hilft
+
+* [https://www.spiegel.de/familie/elternschaft-nach-missbrauch-in-der-kindheit-welche-unterstuetzung-den-betroffenen-hilft](https://www.spiegel.de/familie/elternschaft-nach-missbrauch-in-der-kindheit-welche-unterstuetzung-den-betroffenen-hilft-a-177b29ce-70d9-4d94-91fd-467772f996b2#ref=rss)
+* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/sport/formel1/nuerburgring-tankstelle-trotzt-dem-trend-zu-tempolimit-und-e-mobilitaet](https://www.spiegel.de/sport/formel1/nuerburgring-tankstelle-trotzt-dem-trend-zu-tempolimit-und-e-mobilitaet-a-72ae85fb-62a0-4dd9-9526-f82ea730ac4c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dorsten-19-jaehriger-bastelt-offenbar-sprengsatz-und-verletzt-sich-schwer](https://www.spiegel.de/panorama/justiz/dorsten-19-jaehriger-bastelt-offenbar-sprengsatz-und-verletzt-sich-schwer-a-2550897d-a9a7-43b8-9f49-3e9cfae50195#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/justiz/dorsten-19-jaehriger-bastelt-offenbar-sprengsatz-und-verletzt-sich-schwer](https://www.spiegel.de/panorama/justiz/dorsten-19-jaehriger-bastelt-offenbar-sprengsatz-und-verletzt-sich-schwer-a-2550897d-a9a7-43b8-9f49-3e9cfae50195#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/geldern-mann-bei-streit-in-kneipe-getoetet-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/geldern-mann-bei-streit-in-kneipe-getoetet-verdaechtiger-festgenommen-a-c858d370-5d3e-4179-8f38-3f91ace8c604#ref=rss)
+### israelgazakrieg
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-sicherheitsrat-kritisiert-israels-besetzungsplaene-fuer-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-sicherheitsrat-kritisiert-israels-besetzungsplaene-fuer-gaza-a-1bb32c71-b401-43e7-9083-0bb588aefc7f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-will-einnahme-von-gaza-stadt-trotz-kritik-vorantreiben](https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-will-einnahme-von-gaza-stadt-trotz-kritik-vorantreiben-a-891346af-c74b-491c-83ec-9cbf1a8f3466#ref=rss)
+### unosicherheitsrat
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-sicherheitsrat-kritisiert-israels-besetzungsplaene-fuer-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-sicherheitsrat-kritisiert-israels-besetzungsplaene-fuer-gaza-a-1bb32c71-b401-43e7-9083-0bb588aefc7f#ref=rss)
+### gazastreifen
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-sicherheitsrat-kritisiert-israels-besetzungsplaene-fuer-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-sicherheitsrat-kritisiert-israels-besetzungsplaene-fuer-gaza-a-1bb32c71-b401-43e7-9083-0bb588aefc7f#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-riviera-im-sommer-der-strand-als-einziger-zufluchtsort-im-krieg](https://www.spiegel.de/ausland/gaza-riviera-im-sommer-der-strand-als-einziger-zufluchtsort-im-krieg-a-1c4f0c56-070c-4948-874d-cf6d300a3ade#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/politik/deutschland/regenbogenflagge-frauke-brosius-gersdorf-kulturkaempfer-das-sind-immer-die-anderen](https://www.spiegel.de/politik/deutschland/regenbogenflagge-frauke-brosius-gersdorf-kulturkaempfer-das-sind-immer-die-anderen-a-1274fe41-9849-4a30-8447-eb0911f15a3b#ref=rss)
+* [https://www.spiegel.de/geschichte/medien-ali-akbar-der-beruf-des-zeitungsjungen-im-wandel-der-zeit](https://www.spiegel.de/geschichte/medien-ali-akbar-der-beruf-des-zeitungsjungen-im-wandel-der-zeit-a-30f7ecac-fac4-42d2-97c5-dc27406c166c#ref=rss)
+### lernen
+
+* [https://www.spiegel.de/politik/deutschland/regenbogenflagge-frauke-brosius-gersdorf-kulturkaempfer-das-sind-immer-die-anderen](https://www.spiegel.de/politik/deutschland/regenbogenflagge-frauke-brosius-gersdorf-kulturkaempfer-das-sind-immer-die-anderen-a-1274fe41-9849-4a30-8447-eb0911f15a3b#ref=rss)
+* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/panorama/oasis-reunion-kurz-mal-nicht-die-welt-retten](https://www.spiegel.de/panorama/oasis-reunion-kurz-mal-nicht-die-welt-retten-a-7dfcba3f-52ce-46bf-ae4a-c80d4736129f#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-riviera-im-sommer-der-strand-als-einziger-zufluchtsort-im-krieg](https://www.spiegel.de/ausland/gaza-riviera-im-sommer-der-strand-als-einziger-zufluchtsort-im-krieg-a-1c4f0c56-070c-4948-874d-cf6d300a3ade#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/panorama/oasis-reunion-kurz-mal-nicht-die-welt-retten](https://www.spiegel.de/panorama/oasis-reunion-kurz-mal-nicht-die-welt-retten-a-7dfcba3f-52ce-46bf-ae4a-c80d4736129f#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels](https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels-a-74047ebc-e6e4-46ba-8ca8-fd09abcff89a#ref=rss)
+### fahrschule
+
+* [https://www.spiegel.de/panorama/fuehrerschein-machen-warum-ist-die-fahrschule-so-teuer-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/fuehrerschein-machen-warum-ist-die-fahrschule-so-teuer-spiegel-tv-fuer-arte-re-a-97a0d638-a450-48cb-aee5-f272830851a5#ref=rss)
+### teuer
+
+* [https://www.spiegel.de/panorama/fuehrerschein-machen-warum-ist-die-fahrschule-so-teuer-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/fuehrerschein-machen-warum-ist-die-fahrschule-so-teuer-spiegel-tv-fuer-arte-re-a-97a0d638-a450-48cb-aee5-f272830851a5#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/panorama/fuehrerschein-machen-warum-ist-die-fahrschule-so-teuer-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/fuehrerschein-machen-warum-ist-die-fahrschule-so-teuer-spiegel-tv-fuer-arte-re-a-97a0d638-a450-48cb-aee5-f272830851a5#ref=rss)
+### tv
+
+* [https://www.spiegel.de/panorama/fuehrerschein-machen-warum-ist-die-fahrschule-so-teuer-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/fuehrerschein-machen-warum-ist-die-fahrschule-so-teuer-spiegel-tv-fuer-arte-re-a-97a0d638-a450-48cb-aee5-f272830851a5#ref=rss)
+### arte
+
+* [https://www.spiegel.de/panorama/fuehrerschein-machen-warum-ist-die-fahrschule-so-teuer-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/fuehrerschein-machen-warum-ist-die-fahrschule-so-teuer-spiegel-tv-fuer-arte-re-a-97a0d638-a450-48cb-aee5-f272830851a5#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/cdu-caroline-bosbach-unabhaengiger-pruefer-soll-beweise-sichten](https://www.spiegel.de/politik/deutschland/cdu-caroline-bosbach-unabhaengiger-pruefer-soll-beweise-sichten-a-924c08cc-6855-4006-b3a6-249726b67470#ref=rss)
+### caroline
+
+* [https://www.spiegel.de/politik/deutschland/cdu-caroline-bosbach-unabhaengiger-pruefer-soll-beweise-sichten](https://www.spiegel.de/politik/deutschland/cdu-caroline-bosbach-unabhaengiger-pruefer-soll-beweise-sichten-a-924c08cc-6855-4006-b3a6-249726b67470#ref=rss)
+### bosbach
+
+* [https://www.spiegel.de/politik/deutschland/cdu-caroline-bosbach-unabhaengiger-pruefer-soll-beweise-sichten](https://www.spiegel.de/politik/deutschland/cdu-caroline-bosbach-unabhaengiger-pruefer-soll-beweise-sichten-a-924c08cc-6855-4006-b3a6-249726b67470#ref=rss)
+### druck
+
+* [https://www.spiegel.de/politik/deutschland/cdu-caroline-bosbach-unabhaengiger-pruefer-soll-beweise-sichten](https://www.spiegel.de/politik/deutschland/cdu-caroline-bosbach-unabhaengiger-pruefer-soll-beweise-sichten-a-924c08cc-6855-4006-b3a6-249726b67470#ref=rss)
+* [https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen](https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen-a-fae3d133-8185-4098-9e05-384b82b0e235#ref=rss)
+### reisesendung
+
+* [https://www.spiegel.de/panorama/leute/reisesendung-judith-rakers-ueber-gleitschirmunfall-bei-dreharbeiten-zu-wunderschoen](https://www.spiegel.de/panorama/leute/reisesendung-judith-rakers-ueber-gleitschirmunfall-bei-dreharbeiten-zu-wunderschoen-a-6c90daea-388e-4097-8728-e8a1b7eabe59#ref=rss)
+### judith
+
+* [https://www.spiegel.de/panorama/leute/reisesendung-judith-rakers-ueber-gleitschirmunfall-bei-dreharbeiten-zu-wunderschoen](https://www.spiegel.de/panorama/leute/reisesendung-judith-rakers-ueber-gleitschirmunfall-bei-dreharbeiten-zu-wunderschoen-a-6c90daea-388e-4097-8728-e8a1b7eabe59#ref=rss)
+### rakers
+
+* [https://www.spiegel.de/panorama/leute/reisesendung-judith-rakers-ueber-gleitschirmunfall-bei-dreharbeiten-zu-wunderschoen](https://www.spiegel.de/panorama/leute/reisesendung-judith-rakers-ueber-gleitschirmunfall-bei-dreharbeiten-zu-wunderschoen-a-6c90daea-388e-4097-8728-e8a1b7eabe59#ref=rss)
+### wunderschön
+
+* [https://www.spiegel.de/panorama/leute/reisesendung-judith-rakers-ueber-gleitschirmunfall-bei-dreharbeiten-zu-wunderschoen](https://www.spiegel.de/panorama/leute/reisesendung-judith-rakers-ueber-gleitschirmunfall-bei-dreharbeiten-zu-wunderschoen-a-6c90daea-388e-4097-8728-e8a1b7eabe59#ref=rss)
+### matteo
+
+* [https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen](https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen-a-fae3d133-8185-4098-9e05-384b82b0e235#ref=rss)
+### zuppi
+
+* [https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen](https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen-a-fae3d133-8185-4098-9e05-384b82b0e235#ref=rss)
+### kardinal
+
+* [https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen](https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen-a-fae3d133-8185-4098-9e05-384b82b0e235#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen](https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen-a-fae3d133-8185-4098-9e05-384b82b0e235#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-versuch-der-schadensbegrenzung-nach-dem-stopp-von-waffenlieferungen-an-israel](https://www.spiegel.de/politik/deutschland/friedrich-merz-versuch-der-schadensbegrenzung-nach-dem-stopp-von-waffenlieferungen-an-israel-a-516c2ed6-140f-4698-9511-aeddc136d9d7#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen](https://www.spiegel.de/ausland/matteo-zuppi-italienischer-kardinal-will-namen-der-toten-kinder-von-gaza-vorlesen-a-fae3d133-8185-4098-9e05-384b82b0e235#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-will-einnahme-von-gaza-stadt-trotz-kritik-vorantreiben](https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-will-einnahme-von-gaza-stadt-trotz-kritik-vorantreiben-a-891346af-c74b-491c-83ec-9cbf1a8f3466#ref=rss)
+### foto
+
+* [https://www.spiegel.de/panorama/jfk-wie-ich-fuer-ein-foto-von-kennedy-durch-ganz-berlin-fuhr](https://www.spiegel.de/panorama/jfk-wie-ich-fuer-ein-foto-von-kennedy-durch-ganz-berlin-fuhr-a-0fce2471-6daa-4e32-831b-62f7f44dfd4c#ref=rss)
+### kennedy
+
+* [https://www.spiegel.de/panorama/jfk-wie-ich-fuer-ein-foto-von-kennedy-durch-ganz-berlin-fuhr](https://www.spiegel.de/panorama/jfk-wie-ich-fuer-ein-foto-von-kennedy-durch-ganz-berlin-fuhr-a-0fce2471-6daa-4e32-831b-62f7f44dfd4c#ref=rss)
+### liverpool
+
+* [https://www.spiegel.de/sport/fussball/fc-liverpool-florian-wirtz-verpasst-bei-debuet-seinen-ersten-titel](https://www.spiegel.de/sport/fussball/fc-liverpool-florian-wirtz-verpasst-bei-debuet-seinen-ersten-titel-a-542cf018-06a8-4b49-b46e-d32b04401f4b#ref=rss)
+### florian
+
+* [https://www.spiegel.de/sport/fussball/fc-liverpool-florian-wirtz-verpasst-bei-debuet-seinen-ersten-titel](https://www.spiegel.de/sport/fussball/fc-liverpool-florian-wirtz-verpasst-bei-debuet-seinen-ersten-titel-a-542cf018-06a8-4b49-b46e-d32b04401f4b#ref=rss)
+### wirtz
+
+* [https://www.spiegel.de/sport/fussball/fc-liverpool-florian-wirtz-verpasst-bei-debuet-seinen-ersten-titel](https://www.spiegel.de/sport/fussball/fc-liverpool-florian-wirtz-verpasst-bei-debuet-seinen-ersten-titel-a-542cf018-06a8-4b49-b46e-d32b04401f4b#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/sport/fussball/fc-liverpool-florian-wirtz-verpasst-bei-debuet-seinen-ersten-titel](https://www.spiegel.de/sport/fussball/fc-liverpool-florian-wirtz-verpasst-bei-debuet-seinen-ersten-titel-a-542cf018-06a8-4b49-b46e-d32b04401f4b#ref=rss)
+### erste
+
+* [https://www.spiegel.de/sport/fussball/fc-liverpool-florian-wirtz-verpasst-bei-debuet-seinen-ersten-titel](https://www.spiegel.de/sport/fussball/fc-liverpool-florian-wirtz-verpasst-bei-debuet-seinen-ersten-titel-a-542cf018-06a8-4b49-b46e-d32b04401f4b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/q-day-der-tag-an-dem-die-sicherheit-der-welt-zusammenbricht](https://www.spiegel.de/wissenschaft/technik/q-day-der-tag-an-dem-die-sicherheit-der-welt-zusammenbricht-a-820802af-c3de-44a6-87ba-925c3dcc57dd#ref=rss)
+### gut
+
+* [https://www.spiegel.de/sport/fussball/fc-liverpool-florian-wirtz-verpasst-bei-debuet-seinen-ersten-titel](https://www.spiegel.de/sport/fussball/fc-liverpool-florian-wirtz-verpasst-bei-debuet-seinen-ersten-titel-a-542cf018-06a8-4b49-b46e-d32b04401f4b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-versuch-der-schadensbegrenzung-nach-dem-stopp-von-waffenlieferungen-an-israel](https://www.spiegel.de/politik/deutschland/friedrich-merz-versuch-der-schadensbegrenzung-nach-dem-stopp-von-waffenlieferungen-an-israel-a-516c2ed6-140f-4698-9511-aeddc136d9d7#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/ukraine-gipfel-in-alaska-europas-sorge-vor-trumps-alleingang](https://www.spiegel.de/ausland/ukraine-gipfel-in-alaska-europas-sorge-vor-trumps-alleingang-a-8a62c48f-cc5d-4320-b9fe-074846152ce3#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels](https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels-a-74047ebc-e6e4-46ba-8ca8-fd09abcff89a#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-gipfel-in-alaska-europas-sorge-vor-trumps-alleingang](https://www.spiegel.de/ausland/ukraine-gipfel-in-alaska-europas-sorge-vor-trumps-alleingang-a-8a62c48f-cc5d-4320-b9fe-074846152ce3#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels](https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels-a-74047ebc-e6e4-46ba-8ca8-fd09abcff89a#ref=rss)
+### solingen
+
+* [https://www.spiegel.de/panorama/solingen-applaus-bei-andenken-konzert-fuer-anschlagsopfer](https://www.spiegel.de/panorama/solingen-applaus-bei-andenken-konzert-fuer-anschlagsopfer-a-d60e3935-8799-43fa-81f9-6d2e9ea342cf#ref=rss)
+### einnahme
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-will-einnahme-von-gaza-stadt-trotz-kritik-vorantreiben](https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-will-einnahme-von-gaza-stadt-trotz-kritik-vorantreiben-a-891346af-c74b-491c-83ec-9cbf1a8f3466#ref=rss)
+### gazastadt
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-will-einnahme-von-gaza-stadt-trotz-kritik-vorantreiben](https://www.spiegel.de/ausland/israel-gaza-krieg-netanyahu-will-einnahme-von-gaza-stadt-trotz-kritik-vorantreiben-a-891346af-c74b-491c-83ec-9cbf1a8f3466#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-versuch-der-schadensbegrenzung-nach-dem-stopp-von-waffenlieferungen-an-israel](https://www.spiegel.de/politik/deutschland/friedrich-merz-versuch-der-schadensbegrenzung-nach-dem-stopp-von-waffenlieferungen-an-israel-a-516c2ed6-140f-4698-9511-aeddc136d9d7#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels](https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels-a-74047ebc-e6e4-46ba-8ca8-fd09abcff89a#ref=rss)
+### ali
+
+* [https://www.spiegel.de/geschichte/medien-ali-akbar-der-beruf-des-zeitungsjungen-im-wandel-der-zeit](https://www.spiegel.de/geschichte/medien-ali-akbar-der-beruf-des-zeitungsjungen-im-wandel-der-zeit-a-30f7ecac-fac4-42d2-97c5-dc27406c166c#ref=rss)
+### akbar
+
+* [https://www.spiegel.de/geschichte/medien-ali-akbar-der-beruf-des-zeitungsjungen-im-wandel-der-zeit](https://www.spiegel.de/geschichte/medien-ali-akbar-der-beruf-des-zeitungsjungen-im-wandel-der-zeit-a-30f7ecac-fac4-42d2-97c5-dc27406c166c#ref=rss)
+### beruf
+
+* [https://www.spiegel.de/geschichte/medien-ali-akbar-der-beruf-des-zeitungsjungen-im-wandel-der-zeit](https://www.spiegel.de/geschichte/medien-ali-akbar-der-beruf-des-zeitungsjungen-im-wandel-der-zeit-a-30f7ecac-fac4-42d2-97c5-dc27406c166c#ref=rss)
+### zeitungsjungen
+
+* [https://www.spiegel.de/geschichte/medien-ali-akbar-der-beruf-des-zeitungsjungen-im-wandel-der-zeit](https://www.spiegel.de/geschichte/medien-ali-akbar-der-beruf-des-zeitungsjungen-im-wandel-der-zeit-a-30f7ecac-fac4-42d2-97c5-dc27406c166c#ref=rss)
+### henning
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/engelbert-strauss-workwear-henning-strauss-ueber-blaumaenner-windraeder-und-europa](https://www.spiegel.de/wirtschaft/unternehmen/engelbert-strauss-workwear-henning-strauss-ueber-blaumaenner-windraeder-und-europa-a-74421034-2ff8-4ad0-bec8-624b5cf403f9#ref=rss)
+### blaumänner
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/engelbert-strauss-workwear-henning-strauss-ueber-blaumaenner-windraeder-und-europa](https://www.spiegel.de/wirtschaft/unternehmen/engelbert-strauss-workwear-henning-strauss-ueber-blaumaenner-windraeder-und-europa-a-74421034-2ff8-4ad0-bec8-624b5cf403f9#ref=rss)
+### windräder
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/engelbert-strauss-workwear-henning-strauss-ueber-blaumaenner-windraeder-und-europa](https://www.spiegel.de/wirtschaft/unternehmen/engelbert-strauss-workwear-henning-strauss-ueber-blaumaenner-windraeder-und-europa-a-74421034-2ff8-4ad0-bec8-624b5cf403f9#ref=rss)
+### tag
+
+* [https://www.spiegel.de/wissenschaft/technik/q-day-der-tag-an-dem-die-sicherheit-der-welt-zusammenbricht](https://www.spiegel.de/wissenschaft/technik/q-day-der-tag-an-dem-die-sicherheit-der-welt-zusammenbricht-a-820802af-c3de-44a6-87ba-925c3dcc57dd#ref=rss)
+* [https://www.spiegel.de/panorama/emma-thompson-donald-trump-soll-sie-um-ein-date-gebeten-haben](https://www.spiegel.de/panorama/emma-thompson-donald-trump-soll-sie-um-ein-date-gebeten-haben-a-d8f86d67-a219-406a-bd09-cf1ffb1027ab#ref=rss)
+### sicherheit
+
+* [https://www.spiegel.de/wissenschaft/technik/q-day-der-tag-an-dem-die-sicherheit-der-welt-zusammenbricht](https://www.spiegel.de/wissenschaft/technik/q-day-der-tag-an-dem-die-sicherheit-der-welt-zusammenbricht-a-820802af-c3de-44a6-87ba-925c3dcc57dd#ref=rss)
+* [https://www.spiegel.de/familie/elternschaft-nach-missbrauch-in-der-kindheit-welche-unterstuetzung-den-betroffenen-hilft](https://www.spiegel.de/familie/elternschaft-nach-missbrauch-in-der-kindheit-welche-unterstuetzung-den-betroffenen-hilft-a-177b29ce-70d9-4d94-91fd-467772f996b2#ref=rss)
+### unterstützung
+
+* [https://www.spiegel.de/familie/elternschaft-nach-missbrauch-in-der-kindheit-welche-unterstuetzung-den-betroffenen-hilft](https://www.spiegel.de/familie/elternschaft-nach-missbrauch-in-der-kindheit-welche-unterstuetzung-den-betroffenen-hilft-a-177b29ce-70d9-4d94-91fd-467772f996b2#ref=rss)
+### betroffenen
+
+* [https://www.spiegel.de/familie/elternschaft-nach-missbrauch-in-der-kindheit-welche-unterstuetzung-den-betroffenen-hilft](https://www.spiegel.de/familie/elternschaft-nach-missbrauch-in-der-kindheit-welche-unterstuetzung-den-betroffenen-hilft-a-177b29ce-70d9-4d94-91fd-467772f996b2#ref=rss)
+### fehlt
+
+* [https://www.spiegel.de/familie/elternschaft-nach-missbrauch-in-der-kindheit-welche-unterstuetzung-den-betroffenen-hilft](https://www.spiegel.de/familie/elternschaft-nach-missbrauch-in-der-kindheit-welche-unterstuetzung-den-betroffenen-hilft-a-177b29ce-70d9-4d94-91fd-467772f996b2#ref=rss)
+* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
+### nürburgring
+
+* [https://www.spiegel.de/sport/formel1/nuerburgring-tankstelle-trotzt-dem-trend-zu-tempolimit-und-e-mobilitaet](https://www.spiegel.de/sport/formel1/nuerburgring-tankstelle-trotzt-dem-trend-zu-tempolimit-und-e-mobilitaet-a-72ae85fb-62a0-4dd9-9526-f82ea730ac4c#ref=rss)
+### tankstelle
+
+* [https://www.spiegel.de/sport/formel1/nuerburgring-tankstelle-trotzt-dem-trend-zu-tempolimit-und-e-mobilitaet](https://www.spiegel.de/sport/formel1/nuerburgring-tankstelle-trotzt-dem-trend-zu-tempolimit-und-e-mobilitaet-a-72ae85fb-62a0-4dd9-9526-f82ea730ac4c#ref=rss)
+### tempolimit
+
+* [https://www.spiegel.de/sport/formel1/nuerburgring-tankstelle-trotzt-dem-trend-zu-tempolimit-und-e-mobilitaet](https://www.spiegel.de/sport/formel1/nuerburgring-tankstelle-trotzt-dem-trend-zu-tempolimit-und-e-mobilitaet-a-72ae85fb-62a0-4dd9-9526-f82ea730ac4c#ref=rss)
+### emobilität
+
+* [https://www.spiegel.de/sport/formel1/nuerburgring-tankstelle-trotzt-dem-trend-zu-tempolimit-und-e-mobilitaet](https://www.spiegel.de/sport/formel1/nuerburgring-tankstelle-trotzt-dem-trend-zu-tempolimit-und-e-mobilitaet-a-72ae85fb-62a0-4dd9-9526-f82ea730ac4c#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels](https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels-a-74047ebc-e6e4-46ba-8ca8-fd09abcff89a#ref=rss)
+* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels](https://www.spiegel.de/politik/friedrich-merz-stehen-ohne-zweifel-an-der-seite-israels-a-74047ebc-e6e4-46ba-8ca8-fd09abcff89a#ref=rss)
+* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/justiz/dorsten-19-jaehriger-bastelt-offenbar-sprengsatz-und-verletzt-sich-schwer](https://www.spiegel.de/panorama/justiz/dorsten-19-jaehriger-bastelt-offenbar-sprengsatz-und-verletzt-sich-schwer-a-2550897d-a9a7-43b8-9f49-3e9cfae50195#ref=rss)
+* [https://www.spiegel.de/panorama/emma-thompson-donald-trump-soll-sie-um-ein-date-gebeten-haben](https://www.spiegel.de/panorama/emma-thompson-donald-trump-soll-sie-um-ein-date-gebeten-haben-a-d8f86d67-a219-406a-bd09-cf1ffb1027ab#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/dorsten-19-jaehriger-bastelt-offenbar-sprengsatz-und-verletzt-sich-schwer](https://www.spiegel.de/panorama/justiz/dorsten-19-jaehriger-bastelt-offenbar-sprengsatz-und-verletzt-sich-schwer-a-2550897d-a9a7-43b8-9f49-3e9cfae50195#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/geldern-mann-bei-streit-in-kneipe-getoetet-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/geldern-mann-bei-streit-in-kneipe-getoetet-verdaechtiger-festgenommen-a-c858d370-5d3e-4179-8f38-3f91ace8c604#ref=rss)
+### meerwasser
+
+* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-ist-meerwasser-salzig](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-ist-meerwasser-salzig-a-9b26b7f4-92f8-4659-82ef-8bb11d65a605#ref=rss)
+### salz
+
+* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-ist-meerwasser-salzig](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-ist-meerwasser-salzig-a-9b26b7f4-92f8-4659-82ef-8bb11d65a605#ref=rss)
+### viele
+
+* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-ist-meerwasser-salzig](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-ist-meerwasser-salzig-a-9b26b7f4-92f8-4659-82ef-8bb11d65a605#ref=rss)
+* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
+### marko
+
+* [https://www.spiegel.de/ausland/em-2024-marko-arnautovic-oesterreichs-rebellischster-fussballer-podcast-best-of](https://www.spiegel.de/ausland/em-2024-marko-arnautovic-oesterreichs-rebellischster-fussballer-podcast-best-of-a-c6cd8446-767d-43e5-9189-b0d3691385c0#ref=rss)
+### österreichs
+
+* [https://www.spiegel.de/ausland/em-2024-marko-arnautovic-oesterreichs-rebellischster-fussballer-podcast-best-of](https://www.spiegel.de/ausland/em-2024-marko-arnautovic-oesterreichs-rebellischster-fussballer-podcast-best-of-a-c6cd8446-767d-43e5-9189-b0d3691385c0#ref=rss)
+### fußballer
+
+* [https://www.spiegel.de/ausland/em-2024-marko-arnautovic-oesterreichs-rebellischster-fussballer-podcast-best-of](https://www.spiegel.de/ausland/em-2024-marko-arnautovic-oesterreichs-rebellischster-fussballer-podcast-best-of-a-c6cd8446-767d-43e5-9189-b0d3691385c0#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/ausland/em-2024-marko-arnautovic-oesterreichs-rebellischster-fussballer-podcast-best-of](https://www.spiegel.de/ausland/em-2024-marko-arnautovic-oesterreichs-rebellischster-fussballer-podcast-best-of-a-c6cd8446-767d-43e5-9189-b0d3691385c0#ref=rss)
+* [https://www.spiegel.de/kultur/david-justice-ex-mann-von-halle-berry-sinniert-in-podcast-ueber-scheidungsgruende](https://www.spiegel.de/kultur/david-justice-ex-mann-von-halle-berry-sinniert-in-podcast-ueber-scheidungsgruende-a-f1abb88b-a1f8-4d3d-8121-a3e0f6475734#ref=rss)
+### arminia
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-arminia-bielefeld-schlaegt-kiel-und-beeindruckt-mit-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-arminia-bielefeld-schlaegt-kiel-und-beeindruckt-mit-tabellenfuehrung-a-42511f01-6886-4a0f-ad65-6bf65f4f8b13#ref=rss)
+### bielefeld
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-arminia-bielefeld-schlaegt-kiel-und-beeindruckt-mit-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-arminia-bielefeld-schlaegt-kiel-und-beeindruckt-mit-tabellenfuehrung-a-42511f01-6886-4a0f-ad65-6bf65f4f8b13#ref=rss)
+### kiel
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-arminia-bielefeld-schlaegt-kiel-und-beeindruckt-mit-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-arminia-bielefeld-schlaegt-kiel-und-beeindruckt-mit-tabellenfuehrung-a-42511f01-6886-4a0f-ad65-6bf65f4f8b13#ref=rss)
+### beeindruckt
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-arminia-bielefeld-schlaegt-kiel-und-beeindruckt-mit-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-arminia-bielefeld-schlaegt-kiel-und-beeindruckt-mit-tabellenfuehrung-a-42511f01-6886-4a0f-ad65-6bf65f4f8b13#ref=rss)
+### tabellenführung
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-arminia-bielefeld-schlaegt-kiel-und-beeindruckt-mit-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-arminia-bielefeld-schlaegt-kiel-und-beeindruckt-mit-tabellenfuehrung-a-42511f01-6886-4a0f-ad65-6bf65f4f8b13#ref=rss)
+### ‒
+
+* [https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft](https://www.spiegel.de/partnerschaft/libido-wenn-die-lust-fehlt-was-bei-unterschiedlichen-sexuellen-beduerfnissen-hilft-a-589f5a8f-fd64-48af-8737-6cb47784ffc7#ref=rss)
+### emma
+
+* [https://www.spiegel.de/panorama/emma-thompson-donald-trump-soll-sie-um-ein-date-gebeten-haben](https://www.spiegel.de/panorama/emma-thompson-donald-trump-soll-sie-um-ein-date-gebeten-haben-a-d8f86d67-a219-406a-bd09-cf1ffb1027ab#ref=rss)
+### thompson
+
+* [https://www.spiegel.de/panorama/emma-thompson-donald-trump-soll-sie-um-ein-date-gebeten-haben](https://www.spiegel.de/panorama/emma-thompson-donald-trump-soll-sie-um-ein-date-gebeten-haben-a-d8f86d67-a219-406a-bd09-cf1ffb1027ab#ref=rss)
+### donald
+
+* [https://www.spiegel.de/panorama/emma-thompson-donald-trump-soll-sie-um-ein-date-gebeten-haben](https://www.spiegel.de/panorama/emma-thompson-donald-trump-soll-sie-um-ein-date-gebeten-haben-a-d8f86d67-a219-406a-bd09-cf1ffb1027ab#ref=rss)
+### halle
+
+* [https://www.spiegel.de/kultur/david-justice-ex-mann-von-halle-berry-sinniert-in-podcast-ueber-scheidungsgruende](https://www.spiegel.de/kultur/david-justice-ex-mann-von-halle-berry-sinniert-in-podcast-ueber-scheidungsgruende-a-f1abb88b-a1f8-4d3d-8121-a3e0f6475734#ref=rss)
+### berry
+
+* [https://www.spiegel.de/kultur/david-justice-ex-mann-von-halle-berry-sinniert-in-podcast-ueber-scheidungsgruende](https://www.spiegel.de/kultur/david-justice-ex-mann-von-halle-berry-sinniert-in-podcast-ueber-scheidungsgruende-a-f1abb88b-a1f8-4d3d-8121-a3e0f6475734#ref=rss)
+### david
+
+* [https://www.spiegel.de/kultur/david-justice-ex-mann-von-halle-berry-sinniert-in-podcast-ueber-scheidungsgruende](https://www.spiegel.de/kultur/david-justice-ex-mann-von-halle-berry-sinniert-in-podcast-ueber-scheidungsgruende-a-f1abb88b-a1f8-4d3d-8121-a3e0f6475734#ref=rss)
+### justice
+
+* [https://www.spiegel.de/kultur/david-justice-ex-mann-von-halle-berry-sinniert-in-podcast-ueber-scheidungsgruende](https://www.spiegel.de/kultur/david-justice-ex-mann-von-halle-berry-sinniert-in-podcast-ueber-scheidungsgruende-a-f1abb88b-a1f8-4d3d-8121-a3e0f6475734#ref=rss)
+### prominente
+
+* [https://www.spiegel.de/kultur/david-justice-ex-mann-von-halle-berry-sinniert-in-podcast-ueber-scheidungsgruende](https://www.spiegel.de/kultur/david-justice-ex-mann-von-halle-berry-sinniert-in-podcast-ueber-scheidungsgruende-a-f1abb88b-a1f8-4d3d-8121-a3e0f6475734#ref=rss)
+### strand
+
+* [https://www.spiegel.de/ausland/gaza-riviera-im-sommer-der-strand-als-einziger-zufluchtsort-im-krieg](https://www.spiegel.de/ausland/gaza-riviera-im-sommer-der-strand-als-einziger-zufluchtsort-im-krieg-a-1c4f0c56-070c-4948-874d-cf6d300a3ade#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/gaza-riviera-im-sommer-der-strand-als-einziger-zufluchtsort-im-krieg](https://www.spiegel.de/ausland/gaza-riviera-im-sommer-der-strand-als-einziger-zufluchtsort-im-krieg-a-1c4f0c56-070c-4948-874d-cf6d300a3ade#ref=rss)
+### mähdrescher
+
+* [https://www.spiegel.de/panorama/bad-ueberkingen-zehn-tonnen-schwerer-maehdrescher-crasht-gartenparty](https://www.spiegel.de/panorama/bad-ueberkingen-zehn-tonnen-schwerer-maehdrescher-crasht-gartenparty-a-7ee71548-7cc3-4fab-990d-cd1f528e6bc0#ref=rss)
+### geldern
+
+* [https://www.spiegel.de/panorama/justiz/geldern-mann-bei-streit-in-kneipe-getoetet-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/geldern-mann-bei-streit-in-kneipe-getoetet-verdaechtiger-festgenommen-a-c858d370-5d3e-4179-8f38-3f91ace8c604#ref=rss)
 
