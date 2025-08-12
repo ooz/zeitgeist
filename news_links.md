@@ -4,314 +4,326 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen-a-1ac784aa-d2ff-4572-981e-16fcdfd6d5a8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wie-friedrich-merz-donald-trump-von-einem-schnellen-deal-abbringen-will](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wie-friedrich-merz-donald-trump-von-einem-schnellen-deal-abbringen-will-a-2b9cd58e-0a84-404a-8374-da2b81cd8e94#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland](https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland-a-a09db22f-dd7e-4ebf-9353-759c3658fbc1#ref=rss)
-* [https://www.spiegel.de/ausland/washington-d-c-donald-trump-plant-einsatz-der-nationalgarde](https://www.spiegel.de/ausland/washington-d-c-donald-trump-plant-einsatz-der-nationalgarde-a-099bcb19-dbe3-4f14-83cf-3b98a63b99a4#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten](https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten-a-6de1b88a-813f-44a9-bc7b-a12069b95054#ref=rss)
-* [https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin](https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin-a-a47e7195-f458-4110-b703-e780dc190378#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen-a-1ac784aa-d2ff-4572-981e-16fcdfd6d5a8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wie-friedrich-merz-donald-trump-von-einem-schnellen-deal-abbringen-will](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wie-friedrich-merz-donald-trump-von-einem-schnellen-deal-abbringen-will-a-2b9cd58e-0a84-404a-8374-da2b81cd8e94#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland](https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland-a-a09db22f-dd7e-4ebf-9353-759c3658fbc1#ref=rss)
-* [https://www.spiegel.de/ausland/washington-d-c-donald-trump-plant-einsatz-der-nationalgarde](https://www.spiegel.de/ausland/washington-d-c-donald-trump-plant-einsatz-der-nationalgarde-a-099bcb19-dbe3-4f14-83cf-3b98a63b99a4#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten](https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten-a-6de1b88a-813f-44a9-bc7b-a12069b95054#ref=rss)
-* [https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin](https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin-a-a47e7195-f458-4110-b703-e780dc190378#ref=rss)
-### putin
+* [https://www.spiegel.de/ausland/brasilien-umweltministerin-marina-silva-glaubt-trotz-donald-trump-an-erfolg-der-klimakonferenz](https://www.spiegel.de/ausland/brasilien-umweltministerin-marina-silva-glaubt-trotz-donald-trump-an-erfolg-der-klimakonferenz-a-2a26c27f-3071-409c-8f2b-095e71f4ff46#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-verzichtet-auf-zoelle-auf-goldimporte](https://www.spiegel.de/wirtschaft/usa-donald-trump-verzichtet-auf-zoelle-auf-goldimporte-a-85d9b309-08f2-47aa-a4f1-7c7d156e25f5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-gipfel-mit-wladimir-putin-in-alaska-nicht-in-europas-namen-kommentar](https://www.spiegel.de/ausland/donald-trump-gipfel-mit-wladimir-putin-in-alaska-nicht-in-europas-namen-kommentar-a-3aa14ff4-67a0-4310-ba1e-690f1ff1aa86#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen-a-1ac784aa-d2ff-4572-981e-16fcdfd6d5a8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wie-friedrich-merz-donald-trump-von-einem-schnellen-deal-abbringen-will](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wie-friedrich-merz-donald-trump-von-einem-schnellen-deal-abbringen-will-a-2b9cd58e-0a84-404a-8374-da2b81cd8e94#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland](https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland-a-a09db22f-dd7e-4ebf-9353-759c3658fbc1#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten](https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten-a-6de1b88a-813f-44a9-bc7b-a12069b95054#ref=rss)
-* [https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin](https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin-a-a47e7195-f458-4110-b703-e780dc190378#ref=rss)
-### merz
+* [https://www.spiegel.de/ausland/brasilien-umweltministerin-marina-silva-glaubt-trotz-donald-trump-an-erfolg-der-klimakonferenz](https://www.spiegel.de/ausland/brasilien-umweltministerin-marina-silva-glaubt-trotz-donald-trump-an-erfolg-der-klimakonferenz-a-2a26c27f-3071-409c-8f2b-095e71f4ff46#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-verzichtet-auf-zoelle-auf-goldimporte](https://www.spiegel.de/wirtschaft/usa-donald-trump-verzichtet-auf-zoelle-auf-goldimporte-a-85d9b309-08f2-47aa-a4f1-7c7d156e25f5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-gipfel-mit-wladimir-putin-in-alaska-nicht-in-europas-namen-kommentar](https://www.spiegel.de/ausland/donald-trump-gipfel-mit-wladimir-putin-in-alaska-nicht-in-europas-namen-kommentar-a-3aa14ff4-67a0-4310-ba1e-690f1ff1aa86#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wie-friedrich-merz-donald-trump-von-einem-schnellen-deal-abbringen-will](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wie-friedrich-merz-donald-trump-von-einem-schnellen-deal-abbringen-will-a-2b9cd58e-0a84-404a-8374-da2b81cd8e94#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen](https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen-a-99fa8145-6bb7-4b00-bd4a-db83b39600d2#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten](https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten-a-6de1b88a-813f-44a9-bc7b-a12069b95054#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-jens-spahn-verteidigt-friedrich-merz-gegen-kritik-an-teilstopp-von-waffenexporten](https://www.spiegel.de/politik/deutschland/israel-jens-spahn-verteidigt-friedrich-merz-gegen-kritik-an-teilstopp-von-waffenexporten-a-506422dd-ddd6-43d3-a046-2219edb8c4ed#ref=rss)
-### gipfel
+* [https://www.spiegel.de/wirtschaft/service/deutschland-klimaanlagen-gefragt-wie-nie-produktion-steigt-um-92-prozent](https://www.spiegel.de/wirtschaft/service/deutschland-klimaanlagen-gefragt-wie-nie-produktion-steigt-um-92-prozent-a-e60a421c-617f-4211-bb3c-cef4b91d3c14#ref=rss)
+* [https://www.spiegel.de/panorama/hitzewelle-so-heiss-wird-es-diese-woche-in-deutschland](https://www.spiegel.de/panorama/hitzewelle-so-heiss-wird-es-diese-woche-in-deutschland-a-8a4e0921-c54d-455d-bf36-00ebff73a45b#ref=rss)
+### männer
 
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen-a-1ac784aa-d2ff-4572-981e-16fcdfd6d5a8#ref=rss)
-* [https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin](https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin-a-a47e7195-f458-4110-b703-e780dc190378#ref=rss)
-### alaska
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen-a-1ac784aa-d2ff-4572-981e-16fcdfd6d5a8#ref=rss)
-* [https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin](https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin-a-a47e7195-f458-4110-b703-e780dc190378#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen-a-1ac784aa-d2ff-4572-981e-16fcdfd6d5a8#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland](https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland-a-a09db22f-dd7e-4ebf-9353-759c3658fbc1#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten](https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten-a-6de1b88a-813f-44a9-bc7b-a12069b95054#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wie-friedrich-merz-donald-trump-von-einem-schnellen-deal-abbringen-will](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wie-friedrich-merz-donald-trump-von-einem-schnellen-deal-abbringen-will-a-2b9cd58e-0a84-404a-8374-da2b81cd8e94#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen](https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen-a-99fa8145-6bb7-4b00-bd4a-db83b39600d2#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten](https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten-a-6de1b88a-813f-44a9-bc7b-a12069b95054#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-jens-spahn-verteidigt-friedrich-merz-gegen-kritik-an-teilstopp-von-waffenexporten](https://www.spiegel.de/politik/deutschland/israel-jens-spahn-verteidigt-friedrich-merz-gegen-kritik-an-teilstopp-von-waffenexporten-a-506422dd-ddd6-43d3-a046-2219edb8c4ed#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/ausland/washington-d-c-donald-trump-plant-einsatz-der-nationalgarde](https://www.spiegel.de/ausland/washington-d-c-donald-trump-plant-einsatz-der-nationalgarde-a-099bcb19-dbe3-4f14-83cf-3b98a63b99a4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/naturschutzgebiet-vor-la-gomera-wo-wale-von-schnellfaehren-zerteilt-werden](https://www.spiegel.de/wissenschaft/natur/naturschutzgebiet-vor-la-gomera-wo-wale-von-schnellfaehren-zerteilt-werden-a-48427dfa-a1e8-4617-a96e-5e5b0a76443f#ref=rss)
-* [https://www.spiegel.de/ausland/pakistan-mindestens-sieben-tote-bei-erdrutsch-in-gilgit-baltistan](https://www.spiegel.de/ausland/pakistan-mindestens-sieben-tote-bei-erdrutsch-in-gilgit-baltistan-a-bbd2868b-643c-4243-88ec-c330e25ae5cb#ref=rss)
-### julia
-
-* [https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-sind-ein-paar-von-wem-sie-lernen-koennen](https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-sind-ein-paar-von-wem-sie-lernen-koennen-a-5eb5a3b7-c2b9-49eb-ad46-553355a8ff1a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/joerg-pilawa-und-julia-kloeckner-sind-ein-paar](https://www.spiegel.de/panorama/leute/joerg-pilawa-und-julia-kloeckner-sind-ein-paar-a-391d0a84-e942-466c-9c22-ce7b6f9b5ffe#ref=rss)
-### klöckner
-
-* [https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-sind-ein-paar-von-wem-sie-lernen-koennen](https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-sind-ein-paar-von-wem-sie-lernen-koennen-a-5eb5a3b7-c2b9-49eb-ad46-553355a8ff1a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/joerg-pilawa-und-julia-kloeckner-sind-ein-paar](https://www.spiegel.de/panorama/leute/joerg-pilawa-und-julia-kloeckner-sind-ein-paar-a-391d0a84-e942-466c-9c22-ce7b6f9b5ffe#ref=rss)
-### jörg
-
-* [https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-sind-ein-paar-von-wem-sie-lernen-koennen](https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-sind-ein-paar-von-wem-sie-lernen-koennen-a-5eb5a3b7-c2b9-49eb-ad46-553355a8ff1a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/joerg-pilawa-und-julia-kloeckner-sind-ein-paar](https://www.spiegel.de/panorama/leute/joerg-pilawa-und-julia-kloeckner-sind-ein-paar-a-391d0a84-e942-466c-9c22-ce7b6f9b5ffe#ref=rss)
-### pilawa
-
-* [https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-sind-ein-paar-von-wem-sie-lernen-koennen](https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-sind-ein-paar-von-wem-sie-lernen-koennen-a-5eb5a3b7-c2b9-49eb-ad46-553355a8ff1a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/joerg-pilawa-und-julia-kloeckner-sind-ein-paar](https://www.spiegel.de/panorama/leute/joerg-pilawa-und-julia-kloeckner-sind-ein-paar-a-391d0a84-e942-466c-9c22-ce7b6f9b5ffe#ref=rss)
-### israel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen](https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen-a-99fa8145-6bb7-4b00-bd4a-db83b39600d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/israel-jens-spahn-verteidigt-friedrich-merz-gegen-kritik-an-teilstopp-von-waffenexporten](https://www.spiegel.de/politik/deutschland/israel-jens-spahn-verteidigt-friedrich-merz-gegen-kritik-an-teilstopp-von-waffenexporten-a-506422dd-ddd6-43d3-a046-2219edb8c4ed#ref=rss)
-* [https://www.spiegel.de/ausland/anas-al-sharif-uno-und-journalistenverbaende-verurteilen-toetung-von-journalisten-im-gazastreifen](https://www.spiegel.de/ausland/anas-al-sharif-uno-und-journalistenverbaende-verurteilen-toetung-von-journalisten-im-gazastreifen-a-d94e2326-ee6b-45be-ab9a-a48e5850a7b5#ref=rss)
-### justiz
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen](https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen-a-99fa8145-6bb7-4b00-bd4a-db83b39600d2#ref=rss)
-* [https://www.spiegel.de/panorama/italien-illegale-muellentsorger-koennen-kuenftig-im-gefaengnis-landen-neue-verordnung](https://www.spiegel.de/panorama/italien-illegale-muellentsorger-koennen-kuenftig-im-gefaengnis-landen-neue-verordnung-a-23987e5f-8a5d-4c3e-8f13-93b33c75dc6a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/justiz-ueberlastung-fuehrt-zu-verzoegerten-strafverfahren-zahlen-und-fakten](https://www.spiegel.de/panorama/justiz/justiz-ueberlastung-fuehrt-zu-verzoegerten-strafverfahren-zahlen-und-fakten-a-97f3f2b2-62dc-4ac9-81db-dd830f90f4b1#ref=rss)
-### geplanten
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen-a-1ac784aa-d2ff-4572-981e-16fcdfd6d5a8#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland](https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland-a-a09db22f-dd7e-4ebf-9353-759c3658fbc1#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten](https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten-a-6de1b88a-813f-44a9-bc7b-a12069b95054#ref=rss)
-### geben
-
-* [https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland](https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland-a-a09db22f-dd7e-4ebf-9353-759c3658fbc1#ref=rss)
-* [https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin](https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin-a-a47e7195-f458-4110-b703-e780dc190378#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland](https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland-a-a09db22f-dd7e-4ebf-9353-759c3658fbc1#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten](https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten-a-6de1b88a-813f-44a9-bc7b-a12069b95054#ref=rss)
-* [https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin](https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin-a-a47e7195-f458-4110-b703-e780dc190378#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-fuenf-maenner-nach-mutmasslichen-dating-app-fallen-gefasst](https://www.spiegel.de/panorama/justiz/hamburg-fuenf-maenner-nach-mutmasslichen-dating-app-fallen-gefasst-a-95dcbe30-4a1b-4f4b-ad02-aeea709804ef#ref=rss)
+* [https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand](https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand-a-0ce3e055-4216-4493-b49e-0fab1d1c1923#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/ausland/washington-d-c-donald-trump-plant-einsatz-der-nationalgarde](https://www.spiegel.de/ausland/washington-d-c-donald-trump-plant-einsatz-der-nationalgarde-a-099bcb19-dbe3-4f14-83cf-3b98a63b99a4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen](https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen-a-99fa8145-6bb7-4b00-bd4a-db83b39600d2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/antarktis-ueberreste-von-forscher-nach-ueber-65-jahren-gefunden](https://www.spiegel.de/wissenschaft/antarktis-ueberreste-von-forscher-nach-ueber-65-jahren-gefunden-a-2af7cc5f-fcdf-42b1-9978-7cddfb6774cb#ref=rss)
-### strafverfahren
+* [https://www.spiegel.de/panorama/justiz/hamburg-fuenf-maenner-nach-mutmasslichen-dating-app-fallen-gefasst](https://www.spiegel.de/panorama/justiz/hamburg-fuenf-maenner-nach-mutmasslichen-dating-app-fallen-gefasst-a-95dcbe30-4a1b-4f4b-ad02-aeea709804ef#ref=rss)
+* [https://www.spiegel.de/panorama/england-umweltbehoerde-warnt-vor-wasserknapptheit](https://www.spiegel.de/panorama/england-umweltbehoerde-warnt-vor-wasserknapptheit-a-b462dcbd-fe06-4580-808f-02b7e7937eb7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/korallenbleiche-in-australien-ningaloo-riff-vor-westaustralien-von-rekordbleiche-betroffen](https://www.spiegel.de/wissenschaft/korallenbleiche-in-australien-ningaloo-riff-vor-westaustralien-von-rekordbleiche-betroffen-a-0be8c16d-e3ff-46e3-b93d-730668b22a2c#ref=rss)
+* [https://www.spiegel.de/kultur/jackie-chan-kritisiert-hollywood-momentan-sind-viele-grosse-studios-keine-filmemacher-sondern-geschaeftsleute](https://www.spiegel.de/kultur/jackie-chan-kritisiert-hollywood-momentan-sind-viele-grosse-studios-keine-filmemacher-sondern-geschaeftsleute-a-c6b59a11-c564-4997-9940-7f1a1fa7e8b6#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/justiz/jeffrey-epstein-affaire-geschworenenprotokolle-zu-ghislaine-maxwell-sollen-nicht-offengelegt-werden](https://www.spiegel.de/panorama/justiz/jeffrey-epstein-affaire-geschworenenprotokolle-zu-ghislaine-maxwell-sollen-nicht-offengelegt-werden-a-a5dccb77-ea7c-44e4-b745-be67559ee49c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/justiz-ueberlastung-fuehrt-zu-verzoegerten-strafverfahren-zahlen-und-fakten](https://www.spiegel.de/panorama/justiz/justiz-ueberlastung-fuehrt-zu-verzoegerten-strafverfahren-zahlen-und-fakten-a-97f3f2b2-62dc-4ac9-81db-dd830f90f4b1#ref=rss)
-### deutschen
+* [https://www.spiegel.de/ausland/russland-bbc-recherche-deckt-sklavenaehnliche-bedingungen-fuer-nordkoreanische-arbeiter-auf](https://www.spiegel.de/ausland/russland-bbc-recherche-deckt-sklavenaehnliche-bedingungen-fuer-nordkoreanische-arbeiter-auf-a-4ace8858-220c-404d-945d-b8d7d72a6d29#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/deutschland-klimaanlagen-gefragt-wie-nie-produktion-steigt-um-92-prozent](https://www.spiegel.de/wirtschaft/service/deutschland-klimaanlagen-gefragt-wie-nie-produktion-steigt-um-92-prozent-a-e60a421c-617f-4211-bb3c-cef4b91d3c14#ref=rss)
+### verursacht
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen](https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen-a-99fa8145-6bb7-4b00-bd4a-db83b39600d2#ref=rss)
-* [https://www.spiegel.de/gesundheit/fruchtfliegen-in-der-kueche-wie-werde-ich-die-laestigen-insekten-wieder-los](https://www.spiegel.de/gesundheit/fruchtfliegen-in-der-kueche-wie-werde-ich-die-laestigen-insekten-wieder-los-a-9b7b335a-376a-437d-a636-acb10885ca5e#ref=rss)
-### gefängnis
+* [https://www.spiegel.de/panorama/goehl-in-schleswig-holstein-falsche-strassenseite-benutzt-brite-verursacht-unfall](https://www.spiegel.de/panorama/goehl-in-schleswig-holstein-falsche-strassenseite-benutzt-brite-verursacht-unfall-a-30440d77-6ad0-4ad2-b5cc-08d036667fff#ref=rss)
+* [https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand](https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand-a-0ce3e055-4216-4493-b49e-0fab1d1c1923#ref=rss)
+* [https://www.spiegel.de/panorama/sachsen-anhalt-traktorbrand-verursacht-400-000-euro-schaden](https://www.spiegel.de/panorama/sachsen-anhalt-traktorbrand-verursacht-400-000-euro-schaden-a-cedd8923-43f0-4afc-94a2-f3d7acfaa1a0#ref=rss)
+### unfall
 
-* [https://www.spiegel.de/panorama/italien-illegale-muellentsorger-koennen-kuenftig-im-gefaengnis-landen-neue-verordnung](https://www.spiegel.de/panorama/italien-illegale-muellentsorger-koennen-kuenftig-im-gefaengnis-landen-neue-verordnung-a-23987e5f-8a5d-4c3e-8f13-93b33c75dc6a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jva-ottweiler-suizid-eines-jugendlichen-im-gefaengnis-beschaeftigt-saar-landtag](https://www.spiegel.de/panorama/justiz/jva-ottweiler-suizid-eines-jugendlichen-im-gefaengnis-beschaeftigt-saar-landtag-a-2f1bd1df-8cbd-435c-80c7-cadfd3688f38#ref=rss)
-### erfurt
+* [https://www.spiegel.de/panorama/goehl-in-schleswig-holstein-falsche-strassenseite-benutzt-brite-verursacht-unfall](https://www.spiegel.de/panorama/goehl-in-schleswig-holstein-falsche-strassenseite-benutzt-brite-verursacht-unfall-a-30440d77-6ad0-4ad2-b5cc-08d036667fff#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hof-bei-salzburg-oevp-buergermeister-tritt-nach-unfall-mit-1-3-promille-zurueck](https://www.spiegel.de/panorama/justiz/hof-bei-salzburg-oevp-buergermeister-tritt-nach-unfall-mit-1-3-promille-zurueck-a-1baa7121-14b4-4e8a-93d4-836fd9fa6867#ref=rss)
+### kind
 
-* [https://www.spiegel.de/geschichte/erfurt-gegen-regensburg-muss-die-geschichte-der-bratwurst-neu-geschrieben-werden](https://www.spiegel.de/geschichte/erfurt-gegen-regensburg-muss-die-geschichte-der-bratwurst-neu-geschrieben-werden-a-37f17089-420d-4728-a860-b4857d4a6549#ref=rss)
-### gefunden
+* [https://www.spiegel.de/panorama/maluma-saenger-unterbricht-konzert-wegen-kind-ohne-gehoerschutz](https://www.spiegel.de/panorama/maluma-saenger-unterbricht-konzert-wegen-kind-ohne-gehoerschutz-a-a4cb5688-362a-443a-9360-4584938bde10#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-beschwert-sich-gegen-aryna-sabalenka-ueber-weinendes-kind](https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-beschwert-sich-gegen-aryna-sabalenka-ueber-weinendes-kind-a-29b2e539-7afa-4346-b240-0467242e2997#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/geschichte/erfurt-gegen-regensburg-muss-die-geschichte-der-bratwurst-neu-geschrieben-werden](https://www.spiegel.de/geschichte/erfurt-gegen-regensburg-muss-die-geschichte-der-bratwurst-neu-geschrieben-werden-a-37f17089-420d-4728-a860-b4857d4a6549#ref=rss)
-* [https://www.spiegel.de/wissenschaft/antarktis-ueberreste-von-forscher-nach-ueber-65-jahren-gefunden](https://www.spiegel.de/wissenschaft/antarktis-ueberreste-von-forscher-nach-ueber-65-jahren-gefunden-a-2af7cc5f-fcdf-42b1-9978-7cddfb6774cb#ref=rss)
-### jahr
+* [https://www.spiegel.de/panorama/justiz/hamburg-zivilfahnder-an-tankstelle-bestohlen](https://www.spiegel.de/panorama/justiz/hamburg-zivilfahnder-an-tankstelle-bestohlen-a-e41b5170-1368-4c7a-9478-b588b57d7657#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-fuenf-maenner-nach-mutmasslichen-dating-app-fallen-gefasst](https://www.spiegel.de/panorama/justiz/hamburg-fuenf-maenner-nach-mutmasslichen-dating-app-fallen-gefasst-a-95dcbe30-4a1b-4f4b-ad02-aeea709804ef#ref=rss)
+### fast
 
-* [https://www.spiegel.de/geschichte/erfurt-gegen-regensburg-muss-die-geschichte-der-bratwurst-neu-geschrieben-werden](https://www.spiegel.de/geschichte/erfurt-gegen-regensburg-muss-die-geschichte-der-bratwurst-neu-geschrieben-werden-a-37f17089-420d-4728-a860-b4857d4a6549#ref=rss)
-* [https://www.spiegel.de/ausland/migration-10-jahre-wir-schaffen-das-von-der-aufnahme-zur-abschottung](https://www.spiegel.de/ausland/migration-10-jahre-wir-schaffen-das-von-der-aufnahme-zur-abschottung-a-7dfb8976-ee2b-4a16-b342-78f236716690#ref=rss)
-### wir
+* [https://www.spiegel.de/wirtschaft/service/deutschland-klimaanlagen-gefragt-wie-nie-produktion-steigt-um-92-prozent](https://www.spiegel.de/wirtschaft/service/deutschland-klimaanlagen-gefragt-wie-nie-produktion-steigt-um-92-prozent-a-e60a421c-617f-4211-bb3c-cef4b91d3c14#ref=rss)
+* [https://www.spiegel.de/panorama/england-umweltbehoerde-warnt-vor-wasserknapptheit](https://www.spiegel.de/panorama/england-umweltbehoerde-warnt-vor-wasserknapptheit-a-b462dcbd-fe06-4580-808f-02b7e7937eb7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mode-und-fast-fashion-jaehrlich-landet-kleidung-in-der-menge-von-200-gefuellten-fussballstadien-im-muell](https://www.spiegel.de/wirtschaft/mode-und-fast-fashion-jaehrlich-landet-kleidung-in-der-menge-von-200-gefuellten-fussballstadien-im-muell-a-25b1559b-4781-4523-9c91-bb451d731b0b#ref=rss)
+### cincinnati
 
-* [https://www.spiegel.de/panorama/duerre-an-elbe-und-am-edersee-eigentlich-braeuchten-wir-noch-zwei-monate-regen-interview](https://www.spiegel.de/panorama/duerre-an-elbe-und-am-edersee-eigentlich-braeuchten-wir-noch-zwei-monate-regen-interview-a-dd029303-4bba-454e-a9bc-49822e70576f#ref=rss)
-* [https://www.spiegel.de/ausland/migration-10-jahre-wir-schaffen-das-von-der-aufnahme-zur-abschottung](https://www.spiegel.de/ausland/migration-10-jahre-wir-schaffen-das-von-der-aufnahme-zur-abschottung-a-7dfb8976-ee2b-4a16-b342-78f236716690#ref=rss)
-### sagt
+* [https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-beschwert-sich-gegen-aryna-sabalenka-ueber-weinendes-kind](https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-beschwert-sich-gegen-aryna-sabalenka-ueber-weinendes-kind-a-29b2e539-7afa-4346-b240-0467242e2997#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-in-cincinnati-stromausfall-laesst-jannik-sinner-und-co-warten](https://www.spiegel.de/sport/tennis/tennis-in-cincinnati-stromausfall-laesst-jannik-sinner-und-co-warten-a-188ff8a9-367e-4e55-9063-ca3f0866482f#ref=rss)
+### schweiz
 
-* [https://www.spiegel.de/panorama/duerre-an-elbe-und-am-edersee-eigentlich-braeuchten-wir-noch-zwei-monate-regen-interview](https://www.spiegel.de/panorama/duerre-an-elbe-und-am-edersee-eigentlich-braeuchten-wir-noch-zwei-monate-regen-interview-a-dd029303-4bba-454e-a9bc-49822e70576f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/northvolt-pleite-so-gereizt-reagiert-guenthers-staatskanzlei-auf-fragen-zum-northvolt-debakel](https://www.spiegel.de/politik/deutschland/northvolt-pleite-so-gereizt-reagiert-guenthers-staatskanzlei-auf-fragen-zum-northvolt-debakel-a-baaba9af-90a9-4e81-913a-098f402229f4#ref=rss)
-### northvoltpleite
-
-* [https://www.spiegel.de/politik/deutschland/northvolt-pleite-so-gereizt-reagiert-guenthers-staatskanzlei-auf-fragen-zum-northvolt-debakel](https://www.spiegel.de/politik/deutschland/northvolt-pleite-so-gereizt-reagiert-guenthers-staatskanzlei-auf-fragen-zum-northvolt-debakel-a-baaba9af-90a9-4e81-913a-098f402229f4#ref=rss)
-### 300
-
-* [https://www.spiegel.de/politik/deutschland/northvolt-pleite-so-gereizt-reagiert-guenthers-staatskanzlei-auf-fragen-zum-northvolt-debakel](https://www.spiegel.de/politik/deutschland/northvolt-pleite-so-gereizt-reagiert-guenthers-staatskanzlei-auf-fragen-zum-northvolt-debakel-a-baaba9af-90a9-4e81-913a-098f402229f4#ref=rss)
-* [https://www.spiegel.de/ausland/pakistan-mindestens-sieben-tote-bei-erdrutsch-in-gilgit-baltistan](https://www.spiegel.de/ausland/pakistan-mindestens-sieben-tote-bei-erdrutsch-in-gilgit-baltistan-a-bbd2868b-643c-4243-88ec-c330e25ae5cb#ref=rss)
-### euro
-
-* [https://www.spiegel.de/politik/deutschland/northvolt-pleite-so-gereizt-reagiert-guenthers-staatskanzlei-auf-fragen-zum-northvolt-debakel](https://www.spiegel.de/politik/deutschland/northvolt-pleite-so-gereizt-reagiert-guenthers-staatskanzlei-auf-fragen-zum-northvolt-debakel-a-baaba9af-90a9-4e81-913a-098f402229f4#ref=rss)
-* [https://www.spiegel.de/panorama/italien-illegale-muellentsorger-koennen-kuenftig-im-gefaengnis-landen-neue-verordnung](https://www.spiegel.de/panorama/italien-illegale-muellentsorger-koennen-kuenftig-im-gefaengnis-landen-neue-verordnung-a-23987e5f-8a5d-4c3e-8f13-93b33c75dc6a#ref=rss)
-### klagt
-
-* [https://www.spiegel.de/politik/deutschland/northvolt-pleite-so-gereizt-reagiert-guenthers-staatskanzlei-auf-fragen-zum-northvolt-debakel](https://www.spiegel.de/politik/deutschland/northvolt-pleite-so-gereizt-reagiert-guenthers-staatskanzlei-auf-fragen-zum-northvolt-debakel-a-baaba9af-90a9-4e81-913a-098f402229f4#ref=rss)
-* [https://www.spiegel.de/ausland/finnland-klagt-crewmitglieder-der-eagle-s-an-sabotage-verdacht-in-der-ostsee](https://www.spiegel.de/ausland/finnland-klagt-crewmitglieder-der-eagle-s-an-sabotage-verdacht-in-der-ostsee-a-e7cbf2a4-1051-4e07-9fb4-6ad1c5034f8c#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen-a-1ac784aa-d2ff-4572-981e-16fcdfd6d5a8#ref=rss)
-* [https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin](https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin-a-a47e7195-f458-4110-b703-e780dc190378#ref=rss)
-### ukrainer
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen-a-1ac784aa-d2ff-4572-981e-16fcdfd6d5a8#ref=rss)
-### sagen
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen-a-1ac784aa-d2ff-4572-981e-16fcdfd6d5a8#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen-a-1ac784aa-d2ff-4572-981e-16fcdfd6d5a8#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten](https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten-a-6de1b88a-813f-44a9-bc7b-a12069b95054#ref=rss)
-### wolodymyr
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen-a-1ac784aa-d2ff-4572-981e-16fcdfd6d5a8#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten](https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten-a-6de1b88a-813f-44a9-bc7b-a12069b95054#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen-a-1ac784aa-d2ff-4572-981e-16fcdfd6d5a8#ref=rss)
-* [https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin](https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin-a-a47e7195-f458-4110-b703-e780dc190378#ref=rss)
-### frieden
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-gipfel-in-alaska-was-ukrainer-dazu-sagen-a-1ac784aa-d2ff-4572-981e-16fcdfd6d5a8#ref=rss)
-* [https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin](https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin-a-a47e7195-f458-4110-b703-e780dc190378#ref=rss)
-### europäer
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wie-friedrich-merz-donald-trump-von-einem-schnellen-deal-abbringen-will](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wie-friedrich-merz-donald-trump-von-einem-schnellen-deal-abbringen-will-a-2b9cd58e-0a84-404a-8374-da2b81cd8e94#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten](https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten-a-6de1b88a-813f-44a9-bc7b-a12069b95054#ref=rss)
-### mittwoch
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-wie-friedrich-merz-donald-trump-von-einem-schnellen-deal-abbringen-will](https://www.spiegel.de/politik/deutschland/ukraine-krieg-wie-friedrich-merz-donald-trump-von-einem-schnellen-deal-abbringen-will-a-2b9cd58e-0a84-404a-8374-da2b81cd8e94#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten](https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten-a-6de1b88a-813f-44a9-bc7b-a12069b95054#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland](https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland-a-a09db22f-dd7e-4ebf-9353-759c3658fbc1#ref=rss)
-* [https://www.spiegel.de/ausland/anas-al-sharif-uno-und-journalistenverbaende-verurteilen-toetung-von-journalisten-im-gazastreifen](https://www.spiegel.de/ausland/anas-al-sharif-uno-und-journalistenverbaende-verurteilen-toetung-von-journalisten-im-gazastreifen-a-d94e2326-ee6b-45be-ab9a-a48e5850a7b5#ref=rss)
-### gebietstausch
-
-* [https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland](https://www.spiegel.de/ausland/donald-trump-kritisiert-wolodomyr-selenskyj-wegen-verweigerung-von-gebietstausch-mit-russland-a-a09db22f-dd7e-4ebf-9353-759c3658fbc1#ref=rss)
-### quallen
-
-* [https://www.spiegel.de/ausland/frankreich-quallen-legen-groesstes-atomkraftwerk-gravelines-lahm](https://www.spiegel.de/ausland/frankreich-quallen-legen-groesstes-atomkraftwerk-gravelines-lahm-a-6ec274cf-9c59-4649-b569-d352cc4ba562#ref=rss)
-### gravelines
-
-* [https://www.spiegel.de/ausland/frankreich-quallen-legen-groesstes-atomkraftwerk-gravelines-lahm](https://www.spiegel.de/ausland/frankreich-quallen-legen-groesstes-atomkraftwerk-gravelines-lahm-a-6ec274cf-9c59-4649-b569-d352cc4ba562#ref=rss)
-### tiere
-
-* [https://www.spiegel.de/ausland/frankreich-quallen-legen-groesstes-atomkraftwerk-gravelines-lahm](https://www.spiegel.de/ausland/frankreich-quallen-legen-groesstes-atomkraftwerk-gravelines-lahm-a-6ec274cf-9c59-4649-b569-d352cc4ba562#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/naturschutzgebiet-vor-la-gomera-wo-wale-von-schnellfaehren-zerteilt-werden](https://www.spiegel.de/wissenschaft/natur/naturschutzgebiet-vor-la-gomera-wo-wale-von-schnellfaehren-zerteilt-werden-a-48427dfa-a1e8-4617-a96e-5e5b0a76443f#ref=rss)
-### migration
-
-* [https://www.spiegel.de/ausland/migration-10-jahre-wir-schaffen-das-von-der-aufnahme-zur-abschottung](https://www.spiegel.de/ausland/migration-10-jahre-wir-schaffen-das-von-der-aufnahme-zur-abschottung-a-7dfb8976-ee2b-4a16-b342-78f236716690#ref=rss)
-### abschottung
-
-* [https://www.spiegel.de/ausland/migration-10-jahre-wir-schaffen-das-von-der-aufnahme-zur-abschottung](https://www.spiegel.de/ausland/migration-10-jahre-wir-schaffen-das-von-der-aufnahme-zur-abschottung-a-7dfb8976-ee2b-4a16-b342-78f236716690#ref=rss)
-### politik
-
-* [https://www.spiegel.de/ausland/migration-10-jahre-wir-schaffen-das-von-der-aufnahme-zur-abschottung](https://www.spiegel.de/ausland/migration-10-jahre-wir-schaffen-das-von-der-aufnahme-zur-abschottung-a-7dfb8976-ee2b-4a16-b342-78f236716690#ref=rss)
-* [https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-sind-ein-paar-von-wem-sie-lernen-koennen](https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-sind-ein-paar-von-wem-sie-lernen-koennen-a-5eb5a3b7-c2b9-49eb-ad46-553355a8ff1a#ref=rss)
-### gefährlicher
-
-* [https://www.spiegel.de/ausland/migration-10-jahre-wir-schaffen-das-von-der-aufnahme-zur-abschottung](https://www.spiegel.de/ausland/migration-10-jahre-wir-schaffen-das-von-der-aufnahme-zur-abschottung-a-7dfb8976-ee2b-4a16-b342-78f236716690#ref=rss)
-* [https://www.spiegel.de/ausland/washington-d-c-donald-trump-plant-einsatz-der-nationalgarde](https://www.spiegel.de/ausland/washington-d-c-donald-trump-plant-einsatz-der-nationalgarde-a-099bcb19-dbe3-4f14-83cf-3b98a63b99a4#ref=rss)
-### weißenfels
-
-* [https://www.spiegel.de/panorama/justiz/weissenfels-in-sachsen-anhalt-frau-mutmasslich-von-partner-angezuendet](https://www.spiegel.de/panorama/justiz/weissenfels-in-sachsen-anhalt-frau-mutmasslich-von-partner-angezuendet-a-c669eb9d-7066-4af0-ab75-56d5060f28e4#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/justiz/weissenfels-in-sachsen-anhalt-frau-mutmasslich-von-partner-angezuendet](https://www.spiegel.de/panorama/justiz/weissenfels-in-sachsen-anhalt-frau-mutmasslich-von-partner-angezuendet-a-c669eb9d-7066-4af0-ab75-56d5060f28e4#ref=rss)
-### partner
-
-* [https://www.spiegel.de/panorama/justiz/weissenfels-in-sachsen-anhalt-frau-mutmasslich-von-partner-angezuendet](https://www.spiegel.de/panorama/justiz/weissenfels-in-sachsen-anhalt-frau-mutmasslich-von-partner-angezuendet-a-c669eb9d-7066-4af0-ab75-56d5060f28e4#ref=rss)
-### washington
-
-* [https://www.spiegel.de/ausland/washington-d-c-donald-trump-plant-einsatz-der-nationalgarde](https://www.spiegel.de/ausland/washington-d-c-donald-trump-plant-einsatz-der-nationalgarde-a-099bcb19-dbe3-4f14-83cf-3b98a63b99a4#ref=rss)
-### nationalgarde
-
-* [https://www.spiegel.de/ausland/washington-d-c-donald-trump-plant-einsatz-der-nationalgarde](https://www.spiegel.de/ausland/washington-d-c-donald-trump-plant-einsatz-der-nationalgarde-a-099bcb19-dbe3-4f14-83cf-3b98a63b99a4#ref=rss)
-### paar
-
-* [https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-sind-ein-paar-von-wem-sie-lernen-koennen](https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-sind-ein-paar-von-wem-sie-lernen-koennen-a-5eb5a3b7-c2b9-49eb-ad46-553355a8ff1a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/joerg-pilawa-und-julia-kloeckner-sind-ein-paar](https://www.spiegel.de/panorama/leute/joerg-pilawa-und-julia-kloeckner-sind-ein-paar-a-391d0a84-e942-466c-9c22-ce7b6f9b5ffe#ref=rss)
-### wem
-
-* [https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-sind-ein-paar-von-wem-sie-lernen-koennen](https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-sind-ein-paar-von-wem-sie-lernen-koennen-a-5eb5a3b7-c2b9-49eb-ad46-553355a8ff1a#ref=rss)
-### wo
-
-* [https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-sind-ein-paar-von-wem-sie-lernen-koennen](https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-sind-ein-paar-von-wem-sie-lernen-koennen-a-5eb5a3b7-c2b9-49eb-ad46-553355a8ff1a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/naturschutzgebiet-vor-la-gomera-wo-wale-von-schnellfaehren-zerteilt-werden](https://www.spiegel.de/wissenschaft/natur/naturschutzgebiet-vor-la-gomera-wo-wale-von-schnellfaehren-zerteilt-werden-a-48427dfa-a1e8-4617-a96e-5e5b0a76443f#ref=rss)
-### wale
-
-* [https://www.spiegel.de/wissenschaft/natur/naturschutzgebiet-vor-la-gomera-wo-wale-von-schnellfaehren-zerteilt-werden](https://www.spiegel.de/wissenschaft/natur/naturschutzgebiet-vor-la-gomera-wo-wale-von-schnellfaehren-zerteilt-werden-a-48427dfa-a1e8-4617-a96e-5e5b0a76443f#ref=rss)
-### russische
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen](https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen-a-99fa8145-6bb7-4b00-bd4a-db83b39600d2#ref=rss)
-### flugzeuge
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen](https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen-a-99fa8145-6bb7-4b00-bd4a-db83b39600d2#ref=rss)
-### flughäfen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen](https://www.spiegel.de/politik/deutschland/news-des-tages-unionspolitiker-kritisieren-merz-israel-entscheidung-ueberlastete-justiz-russische-flugzeuge-auf-deutschen-flughaefen-a-99fa8145-6bb7-4b00-bd4a-db83b39600d2#ref=rss)
-### nackt
-
-* [https://www.spiegel.de/panorama/easyjet-pilot-nackt-und-betrunken-an-der-bar-nach-naechtlichem-ausflug-freigestellt](https://www.spiegel.de/panorama/easyjet-pilot-nackt-und-betrunken-an-der-bar-nach-naechtlichem-ausflug-freigestellt-a-d6dcfb1f-f79d-4b09-82b8-42d94614ee4e#ref=rss)
-### überreste
-
-* [https://www.spiegel.de/wissenschaft/antarktis-ueberreste-von-forscher-nach-ueber-65-jahren-gefunden](https://www.spiegel.de/wissenschaft/antarktis-ueberreste-von-forscher-nach-ueber-65-jahren-gefunden-a-2af7cc5f-fcdf-42b1-9978-7cddfb6774cb#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/wissenschaft/antarktis-ueberreste-von-forscher-nach-ueber-65-jahren-gefunden](https://www.spiegel.de/wissenschaft/antarktis-ueberreste-von-forscher-nach-ueber-65-jahren-gefunden-a-2af7cc5f-fcdf-42b1-9978-7cddfb6774cb#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten](https://www.spiegel.de/ausland/ukraine-friedrich-merz-will-mit-donald-trump-und-wolodymyr-selenskyj-beraten-a-6de1b88a-813f-44a9-bc7b-a12069b95054#ref=rss)
-* [https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin](https://www.spiegel.de/ausland/gipfel-von-donald-trump-und-wladimir-putin-in-alaska-trump-tanzt-nach-der-pfeife-von-putin-a-a47e7195-f458-4110-b703-e780dc190378#ref=rss)
-### spahn
-
-* [https://www.spiegel.de/politik/deutschland/israel-jens-spahn-verteidigt-friedrich-merz-gegen-kritik-an-teilstopp-von-waffenexporten](https://www.spiegel.de/politik/deutschland/israel-jens-spahn-verteidigt-friedrich-merz-gegen-kritik-an-teilstopp-von-waffenexporten-a-506422dd-ddd6-43d3-a046-2219edb8c4ed#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/politik/deutschland/israel-jens-spahn-verteidigt-friedrich-merz-gegen-kritik-an-teilstopp-von-waffenexporten](https://www.spiegel.de/politik/deutschland/israel-jens-spahn-verteidigt-friedrich-merz-gegen-kritik-an-teilstopp-von-waffenexporten-a-506422dd-ddd6-43d3-a046-2219edb8c4ed#ref=rss)
-### gilgitbaltistan
-
-* [https://www.spiegel.de/ausland/pakistan-mindestens-sieben-tote-bei-erdrutsch-in-gilgit-baltistan](https://www.spiegel.de/ausland/pakistan-mindestens-sieben-tote-bei-erdrutsch-in-gilgit-baltistan-a-bbd2868b-643c-4243-88ec-c330e25ae5cb#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/ausland/pakistan-mindestens-sieben-tote-bei-erdrutsch-in-gilgit-baltistan](https://www.spiegel.de/ausland/pakistan-mindestens-sieben-tote-bei-erdrutsch-in-gilgit-baltistan-a-bbd2868b-643c-4243-88ec-c330e25ae5cb#ref=rss)
-* [https://www.spiegel.de/gesundheit/fruchtfliegen-in-der-kueche-wie-werde-ich-die-laestigen-insekten-wieder-los](https://www.spiegel.de/gesundheit/fruchtfliegen-in-der-kueche-wie-werde-ich-die-laestigen-insekten-wieder-los-a-9b7b335a-376a-437d-a636-acb10885ca5e#ref=rss)
-### tötung
-
-* [https://www.spiegel.de/ausland/anas-al-sharif-uno-und-journalistenverbaende-verurteilen-toetung-von-journalisten-im-gazastreifen](https://www.spiegel.de/ausland/anas-al-sharif-uno-und-journalistenverbaende-verurteilen-toetung-von-journalisten-im-gazastreifen-a-d94e2326-ee6b-45be-ab9a-a48e5850a7b5#ref=rss)
-### journalisten
-
-* [https://www.spiegel.de/ausland/anas-al-sharif-uno-und-journalistenverbaende-verurteilen-toetung-von-journalisten-im-gazastreifen](https://www.spiegel.de/ausland/anas-al-sharif-uno-und-journalistenverbaende-verurteilen-toetung-von-journalisten-im-gazastreifen-a-d94e2326-ee6b-45be-ab9a-a48e5850a7b5#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/anas-al-sharif-uno-und-journalistenverbaende-verurteilen-toetung-von-journalisten-im-gazastreifen](https://www.spiegel.de/ausland/anas-al-sharif-uno-und-journalistenverbaende-verurteilen-toetung-von-journalisten-im-gazastreifen-a-d94e2326-ee6b-45be-ab9a-a48e5850a7b5#ref=rss)
-### ottweiler
-
-* [https://www.spiegel.de/panorama/justiz/jva-ottweiler-suizid-eines-jugendlichen-im-gefaengnis-beschaeftigt-saar-landtag](https://www.spiegel.de/panorama/justiz/jva-ottweiler-suizid-eines-jugendlichen-im-gefaengnis-beschaeftigt-saar-landtag-a-2f1bd1df-8cbd-435c-80c7-cadfd3688f38#ref=rss)
-### suizid
-
-* [https://www.spiegel.de/panorama/justiz/jva-ottweiler-suizid-eines-jugendlichen-im-gefaengnis-beschaeftigt-saar-landtag](https://www.spiegel.de/panorama/justiz/jva-ottweiler-suizid-eines-jugendlichen-im-gefaengnis-beschaeftigt-saar-landtag-a-2f1bd1df-8cbd-435c-80c7-cadfd3688f38#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/panorama/justiz/jva-ottweiler-suizid-eines-jugendlichen-im-gefaengnis-beschaeftigt-saar-landtag](https://www.spiegel.de/panorama/justiz/jva-ottweiler-suizid-eines-jugendlichen-im-gefaengnis-beschaeftigt-saar-landtag-a-2f1bd1df-8cbd-435c-80c7-cadfd3688f38#ref=rss)
-* [https://www.spiegel.de/panorama/heilbronn-gift-im-kaffee-der-kollegen-sanitaeterin-bestreitet-mordversuch-vor-gericht](https://www.spiegel.de/panorama/heilbronn-gift-im-kaffee-der-kollegen-sanitaeterin-bestreitet-mordversuch-vor-gericht-a-a6777ea4-1c23-4b6c-befe-714501a46277#ref=rss)
-### finnland
-
-* [https://www.spiegel.de/ausland/finnland-klagt-crewmitglieder-der-eagle-s-an-sabotage-verdacht-in-der-ostsee](https://www.spiegel.de/ausland/finnland-klagt-crewmitglieder-der-eagle-s-an-sabotage-verdacht-in-der-ostsee-a-e7cbf2a4-1051-4e07-9fb4-6ad1c5034f8c#ref=rss)
-### eagle
-
-* [https://www.spiegel.de/ausland/finnland-klagt-crewmitglieder-der-eagle-s-an-sabotage-verdacht-in-der-ostsee](https://www.spiegel.de/ausland/finnland-klagt-crewmitglieder-der-eagle-s-an-sabotage-verdacht-in-der-ostsee-a-e7cbf2a4-1051-4e07-9fb4-6ad1c5034f8c#ref=rss)
-### s
-
-* [https://www.spiegel.de/ausland/finnland-klagt-crewmitglieder-der-eagle-s-an-sabotage-verdacht-in-der-ostsee](https://www.spiegel.de/ausland/finnland-klagt-crewmitglieder-der-eagle-s-an-sabotage-verdacht-in-der-ostsee-a-e7cbf2a4-1051-4e07-9fb4-6ad1c5034f8c#ref=rss)
-### heilbronn
-
-* [https://www.spiegel.de/panorama/heilbronn-gift-im-kaffee-der-kollegen-sanitaeterin-bestreitet-mordversuch-vor-gericht](https://www.spiegel.de/panorama/heilbronn-gift-im-kaffee-der-kollegen-sanitaeterin-bestreitet-mordversuch-vor-gericht-a-a6777ea4-1c23-4b6c-befe-714501a46277#ref=rss)
-### bestreitet
-
-* [https://www.spiegel.de/panorama/heilbronn-gift-im-kaffee-der-kollegen-sanitaeterin-bestreitet-mordversuch-vor-gericht](https://www.spiegel.de/panorama/heilbronn-gift-im-kaffee-der-kollegen-sanitaeterin-bestreitet-mordversuch-vor-gericht-a-a6777ea4-1c23-4b6c-befe-714501a46277#ref=rss)
+* [https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand](https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand-a-0ce3e055-4216-4493-b49e-0fab1d1c1923#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-verzichtet-auf-zoelle-auf-goldimporte](https://www.spiegel.de/wirtschaft/usa-donald-trump-verzichtet-auf-zoelle-auf-goldimporte-a-85d9b309-08f2-47aa-a4f1-7c7d156e25f5#ref=rss)
 ### gericht
 
-* [https://www.spiegel.de/panorama/heilbronn-gift-im-kaffee-der-kollegen-sanitaeterin-bestreitet-mordversuch-vor-gericht](https://www.spiegel.de/panorama/heilbronn-gift-im-kaffee-der-kollegen-sanitaeterin-bestreitet-mordversuch-vor-gericht-a-a6777ea4-1c23-4b6c-befe-714501a46277#ref=rss)
+* [https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand](https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand-a-0ce3e055-4216-4493-b49e-0fab1d1c1923#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-nrw-streit-ueber-wahlplakate-stadt-dortmund-zieht-gegen-afd-vor-gericht](https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-nrw-streit-ueber-wahlplakate-stadt-dortmund-zieht-gegen-afd-vor-gericht-a-9b8dacd4-0d02-45fa-976b-e6c0f346dcec#ref=rss)
+### ankündigung
+
+* [https://www.spiegel.de/kultur/taylor-swift-kuendigt-ueberraschend-neues-album-an-im-podcast-mit-travis-kelce](https://www.spiegel.de/kultur/taylor-swift-kuendigt-ueberraschend-neues-album-an-im-podcast-mit-travis-kelce-a-90e3e2fc-5cb2-420a-926d-279788ada68c#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-bbc-recherche-deckt-sklavenaehnliche-bedingungen-fuer-nordkoreanische-arbeiter-auf](https://www.spiegel.de/ausland/russland-bbc-recherche-deckt-sklavenaehnliche-bedingungen-fuer-nordkoreanische-arbeiter-auf-a-4ace8858-220c-404d-945d-b8d7d72a6d29#ref=rss)
+### bedingungen
+
+* [https://www.spiegel.de/ausland/russland-bbc-recherche-deckt-sklavenaehnliche-bedingungen-fuer-nordkoreanische-arbeiter-auf](https://www.spiegel.de/ausland/russland-bbc-recherche-deckt-sklavenaehnliche-bedingungen-fuer-nordkoreanische-arbeiter-auf-a-4ace8858-220c-404d-945d-b8d7d72a6d29#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schulen-willkommensklassen-verzoegern-spracherwerb-gefluechteter-jugendlicher](https://www.spiegel.de/panorama/bildung/schulen-willkommensklassen-verzoegern-spracherwerb-gefluechteter-jugendlicher-a-5ce6e0c6-dd93-479a-8df7-cf60491ce8a8#ref=rss)
+### arbeiter
+
+* [https://www.spiegel.de/ausland/russland-bbc-recherche-deckt-sklavenaehnliche-bedingungen-fuer-nordkoreanische-arbeiter-auf](https://www.spiegel.de/ausland/russland-bbc-recherche-deckt-sklavenaehnliche-bedingungen-fuer-nordkoreanische-arbeiter-auf-a-4ace8858-220c-404d-945d-b8d7d72a6d29#ref=rss)
+### falsche
+
+* [https://www.spiegel.de/panorama/goehl-in-schleswig-holstein-falsche-strassenseite-benutzt-brite-verursacht-unfall](https://www.spiegel.de/panorama/goehl-in-schleswig-holstein-falsche-strassenseite-benutzt-brite-verursacht-unfall-a-30440d77-6ad0-4ad2-b5cc-08d036667fff#ref=rss)
+### benutzt
+
+* [https://www.spiegel.de/panorama/goehl-in-schleswig-holstein-falsche-strassenseite-benutzt-brite-verursacht-unfall](https://www.spiegel.de/panorama/goehl-in-schleswig-holstein-falsche-strassenseite-benutzt-brite-verursacht-unfall-a-30440d77-6ad0-4ad2-b5cc-08d036667fff#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/panorama/goehl-in-schleswig-holstein-falsche-strassenseite-benutzt-brite-verursacht-unfall](https://www.spiegel.de/panorama/goehl-in-schleswig-holstein-falsche-strassenseite-benutzt-brite-verursacht-unfall-a-30440d77-6ad0-4ad2-b5cc-08d036667fff#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hof-bei-salzburg-oevp-buergermeister-tritt-nach-unfall-mit-1-3-promille-zurueck](https://www.spiegel.de/panorama/justiz/hof-bei-salzburg-oevp-buergermeister-tritt-nach-unfall-mit-1-3-promille-zurueck-a-1baa7121-14b4-4e8a-93d4-836fd9fa6867#ref=rss)
+### maluma
+
+* [https://www.spiegel.de/panorama/maluma-saenger-unterbricht-konzert-wegen-kind-ohne-gehoerschutz](https://www.spiegel.de/panorama/maluma-saenger-unterbricht-konzert-wegen-kind-ohne-gehoerschutz-a-a4cb5688-362a-443a-9360-4584938bde10#ref=rss)
+### sänger
+
+* [https://www.spiegel.de/panorama/maluma-saenger-unterbricht-konzert-wegen-kind-ohne-gehoerschutz](https://www.spiegel.de/panorama/maluma-saenger-unterbricht-konzert-wegen-kind-ohne-gehoerschutz-a-a4cb5688-362a-443a-9360-4584938bde10#ref=rss)
+### konzert
+
+* [https://www.spiegel.de/panorama/maluma-saenger-unterbricht-konzert-wegen-kind-ohne-gehoerschutz](https://www.spiegel.de/panorama/maluma-saenger-unterbricht-konzert-wegen-kind-ohne-gehoerschutz-a-a4cb5688-362a-443a-9360-4584938bde10#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/panorama/maluma-saenger-unterbricht-konzert-wegen-kind-ohne-gehoerschutz](https://www.spiegel.de/panorama/maluma-saenger-unterbricht-konzert-wegen-kind-ohne-gehoerschutz-a-a4cb5688-362a-443a-9360-4584938bde10#ref=rss)
+### gehörschutz
+
+* [https://www.spiegel.de/panorama/maluma-saenger-unterbricht-konzert-wegen-kind-ohne-gehoerschutz](https://www.spiegel.de/panorama/maluma-saenger-unterbricht-konzert-wegen-kind-ohne-gehoerschutz-a-a4cb5688-362a-443a-9360-4584938bde10#ref=rss)
+### vfb
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-vfb-stuttgart-setzt-fc-bayern-ultimatum-im-woltemade-poker](https://www.spiegel.de/sport/fussball/fussball-transfers-vfb-stuttgart-setzt-fc-bayern-ultimatum-im-woltemade-poker-a-378083db-c673-4068-ae20-4294c67d8d90#ref=rss)
+### stuttgart
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-vfb-stuttgart-setzt-fc-bayern-ultimatum-im-woltemade-poker](https://www.spiegel.de/sport/fussball/fussball-transfers-vfb-stuttgart-setzt-fc-bayern-ultimatum-im-woltemade-poker-a-378083db-c673-4068-ae20-4294c67d8d90#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-vfb-stuttgart-setzt-fc-bayern-ultimatum-im-woltemade-poker](https://www.spiegel.de/sport/fussball/fussball-transfers-vfb-stuttgart-setzt-fc-bayern-ultimatum-im-woltemade-poker-a-378083db-c673-4068-ae20-4294c67d8d90#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-vfb-stuttgart-setzt-fc-bayern-ultimatum-im-woltemade-poker](https://www.spiegel.de/sport/fussball/fussball-transfers-vfb-stuttgart-setzt-fc-bayern-ultimatum-im-woltemade-poker-a-378083db-c673-4068-ae20-4294c67d8d90#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-vfb-stuttgart-setzt-fc-bayern-ultimatum-im-woltemade-poker](https://www.spiegel.de/sport/fussball/fussball-transfers-vfb-stuttgart-setzt-fc-bayern-ultimatum-im-woltemade-poker-a-378083db-c673-4068-ae20-4294c67d8d90#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hof-bei-salzburg-oevp-buergermeister-tritt-nach-unfall-mit-1-3-promille-zurueck](https://www.spiegel.de/panorama/justiz/hof-bei-salzburg-oevp-buergermeister-tritt-nach-unfall-mit-1-3-promille-zurueck-a-1baa7121-14b4-4e8a-93d4-836fd9fa6867#ref=rss)
+### tankstelle
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-zivilfahnder-an-tankstelle-bestohlen](https://www.spiegel.de/panorama/justiz/hamburg-zivilfahnder-an-tankstelle-bestohlen-a-e41b5170-1368-4c7a-9478-b588b57d7657#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-zivilfahnder-an-tankstelle-bestohlen](https://www.spiegel.de/panorama/justiz/hamburg-zivilfahnder-an-tankstelle-bestohlen-a-e41b5170-1368-4c7a-9478-b588b57d7657#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-fuenf-maenner-nach-mutmasslichen-dating-app-fallen-gefasst](https://www.spiegel.de/panorama/justiz/hamburg-fuenf-maenner-nach-mutmasslichen-dating-app-fallen-gefasst-a-95dcbe30-4a1b-4f4b-ad02-aeea709804ef#ref=rss)
+### klimaanlagen
+
+* [https://www.spiegel.de/wirtschaft/service/deutschland-klimaanlagen-gefragt-wie-nie-produktion-steigt-um-92-prozent](https://www.spiegel.de/wirtschaft/service/deutschland-klimaanlagen-gefragt-wie-nie-produktion-steigt-um-92-prozent-a-e60a421c-617f-4211-bb3c-cef4b91d3c14#ref=rss)
+### produktion
+
+* [https://www.spiegel.de/wirtschaft/service/deutschland-klimaanlagen-gefragt-wie-nie-produktion-steigt-um-92-prozent](https://www.spiegel.de/wirtschaft/service/deutschland-klimaanlagen-gefragt-wie-nie-produktion-steigt-um-92-prozent-a-e60a421c-617f-4211-bb3c-cef4b91d3c14#ref=rss)
+### grad
+
+* [https://www.spiegel.de/wirtschaft/service/deutschland-klimaanlagen-gefragt-wie-nie-produktion-steigt-um-92-prozent](https://www.spiegel.de/wirtschaft/service/deutschland-klimaanlagen-gefragt-wie-nie-produktion-steigt-um-92-prozent-a-e60a421c-617f-4211-bb3c-cef4b91d3c14#ref=rss)
+* [https://www.spiegel.de/panorama/hitzewelle-so-heiss-wird-es-diese-woche-in-deutschland](https://www.spiegel.de/panorama/hitzewelle-so-heiss-wird-es-diese-woche-in-deutschland-a-8a4e0921-c54d-455d-bf36-00ebff73a45b#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/service/deutschland-klimaanlagen-gefragt-wie-nie-produktion-steigt-um-92-prozent](https://www.spiegel.de/wirtschaft/service/deutschland-klimaanlagen-gefragt-wie-nie-produktion-steigt-um-92-prozent-a-e60a421c-617f-4211-bb3c-cef4b91d3c14#ref=rss)
+* [https://www.spiegel.de/panorama/hitzewelle-so-heiss-wird-es-diese-woche-in-deutschland](https://www.spiegel.de/panorama/hitzewelle-so-heiss-wird-es-diese-woche-in-deutschland-a-8a4e0921-c54d-455d-bf36-00ebff73a45b#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-fuenf-maenner-nach-mutmasslichen-dating-app-fallen-gefasst](https://www.spiegel.de/panorama/justiz/hamburg-fuenf-maenner-nach-mutmasslichen-dating-app-fallen-gefasst-a-95dcbe30-4a1b-4f4b-ad02-aeea709804ef#ref=rss)
+### umweltministerin
+
+* [https://www.spiegel.de/ausland/brasilien-umweltministerin-marina-silva-glaubt-trotz-donald-trump-an-erfolg-der-klimakonferenz](https://www.spiegel.de/ausland/brasilien-umweltministerin-marina-silva-glaubt-trotz-donald-trump-an-erfolg-der-klimakonferenz-a-2a26c27f-3071-409c-8f2b-095e71f4ff46#ref=rss)
+### marina
+
+* [https://www.spiegel.de/ausland/brasilien-umweltministerin-marina-silva-glaubt-trotz-donald-trump-an-erfolg-der-klimakonferenz](https://www.spiegel.de/ausland/brasilien-umweltministerin-marina-silva-glaubt-trotz-donald-trump-an-erfolg-der-klimakonferenz-a-2a26c27f-3071-409c-8f2b-095e71f4ff46#ref=rss)
+### silva
+
+* [https://www.spiegel.de/ausland/brasilien-umweltministerin-marina-silva-glaubt-trotz-donald-trump-an-erfolg-der-klimakonferenz](https://www.spiegel.de/ausland/brasilien-umweltministerin-marina-silva-glaubt-trotz-donald-trump-an-erfolg-der-klimakonferenz-a-2a26c27f-3071-409c-8f2b-095e71f4ff46#ref=rss)
+### glaubt
+
+* [https://www.spiegel.de/ausland/brasilien-umweltministerin-marina-silva-glaubt-trotz-donald-trump-an-erfolg-der-klimakonferenz](https://www.spiegel.de/ausland/brasilien-umweltministerin-marina-silva-glaubt-trotz-donald-trump-an-erfolg-der-klimakonferenz-a-2a26c27f-3071-409c-8f2b-095e71f4ff46#ref=rss)
+### erfolg
+
+* [https://www.spiegel.de/ausland/brasilien-umweltministerin-marina-silva-glaubt-trotz-donald-trump-an-erfolg-der-klimakonferenz](https://www.spiegel.de/ausland/brasilien-umweltministerin-marina-silva-glaubt-trotz-donald-trump-an-erfolg-der-klimakonferenz-a-2a26c27f-3071-409c-8f2b-095e71f4ff46#ref=rss)
+### wehrt
+
+* [https://www.spiegel.de/ausland/brasilien-umweltministerin-marina-silva-glaubt-trotz-donald-trump-an-erfolg-der-klimakonferenz](https://www.spiegel.de/ausland/brasilien-umweltministerin-marina-silva-glaubt-trotz-donald-trump-an-erfolg-der-klimakonferenz-a-2a26c27f-3071-409c-8f2b-095e71f4ff46#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-und-brigitte-macron-setzte-privatermittler-auf-us-influencerin-candace-owens-an](https://www.spiegel.de/ausland/frankreich-emmanuel-und-brigitte-macron-setzte-privatermittler-auf-us-influencerin-candace-owens-an-a-b1baabae-5030-4b16-95f9-d68f818aa8a7#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/bildung/schulen-willkommensklassen-verzoegern-spracherwerb-gefluechteter-jugendlicher](https://www.spiegel.de/panorama/bildung/schulen-willkommensklassen-verzoegern-spracherwerb-gefluechteter-jugendlicher-a-5ce6e0c6-dd93-479a-8df7-cf60491ce8a8#ref=rss)
+* [https://www.spiegel.de/geschichte/familiennetzwerke-im-mittelalter-ware-frund-sollt-ihr-sein](https://www.spiegel.de/geschichte/familiennetzwerke-im-mittelalter-ware-frund-sollt-ihr-sein-a-968e4901-68c3-4957-8ef4-eb49a171279d#ref=rss)
+### schnell
+
+* [https://www.spiegel.de/panorama/bildung/schulen-willkommensklassen-verzoegern-spracherwerb-gefluechteter-jugendlicher](https://www.spiegel.de/panorama/bildung/schulen-willkommensklassen-verzoegern-spracherwerb-gefluechteter-jugendlicher-a-5ce6e0c6-dd93-479a-8df7-cf60491ce8a8#ref=rss)
+* [https://www.spiegel.de/kultur/taylor-swift-kuendigt-ueberraschend-neues-album-an-im-podcast-mit-travis-kelce](https://www.spiegel.de/kultur/taylor-swift-kuendigt-ueberraschend-neues-album-an-im-podcast-mit-travis-kelce-a-90e3e2fc-5cb2-420a-926d-279788ada68c#ref=rss)
+### elon
+
+* [https://www.spiegel.de/netzwelt/apps/chatgpt-vor-grok-elon-musk-droht-apple-mit-klage](https://www.spiegel.de/netzwelt/apps/chatgpt-vor-grok-elon-musk-droht-apple-mit-klage-a-1c9caebf-187d-4b21-8ebc-73f48bc95155#ref=rss)
+### musk
+
+* [https://www.spiegel.de/netzwelt/apps/chatgpt-vor-grok-elon-musk-droht-apple-mit-klage](https://www.spiegel.de/netzwelt/apps/chatgpt-vor-grok-elon-musk-droht-apple-mit-klage-a-1c9caebf-187d-4b21-8ebc-73f48bc95155#ref=rss)
+### apple
+
+* [https://www.spiegel.de/netzwelt/apps/chatgpt-vor-grok-elon-musk-droht-apple-mit-klage](https://www.spiegel.de/netzwelt/apps/chatgpt-vor-grok-elon-musk-droht-apple-mit-klage-a-1c9caebf-187d-4b21-8ebc-73f48bc95155#ref=rss)
+### apps
+
+* [https://www.spiegel.de/netzwelt/apps/chatgpt-vor-grok-elon-musk-droht-apple-mit-klage](https://www.spiegel.de/netzwelt/apps/chatgpt-vor-grok-elon-musk-droht-apple-mit-klage-a-1c9caebf-187d-4b21-8ebc-73f48bc95155#ref=rss)
+### fitnessarmband
+
+* [https://www.spiegel.de/fitness/smartwatch-oder-fitness-armband-welcher-wearable-typ-sind-sie](https://www.spiegel.de/fitness/smartwatch-oder-fitness-armband-welcher-wearable-typ-sind-sie-a-6ca1b97e-c532-4fcc-86f5-fd0bf9ceb0fd#ref=rss)
+### besser
+
+* [https://www.spiegel.de/fitness/smartwatch-oder-fitness-armband-welcher-wearable-typ-sind-sie](https://www.spiegel.de/fitness/smartwatch-oder-fitness-armband-welcher-wearable-typ-sind-sie-a-6ca1b97e-c532-4fcc-86f5-fd0bf9ceb0fd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/korallenbleiche-in-australien-ningaloo-riff-vor-westaustralien-von-rekordbleiche-betroffen](https://www.spiegel.de/wissenschaft/korallenbleiche-in-australien-ningaloo-riff-vor-westaustralien-von-rekordbleiche-betroffen-a-0be8c16d-e3ff-46e3-b93d-730668b22a2c#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/panorama/england-umweltbehoerde-warnt-vor-wasserknapptheit](https://www.spiegel.de/panorama/england-umweltbehoerde-warnt-vor-wasserknapptheit-a-b462dcbd-fe06-4580-808f-02b7e7937eb7#ref=rss)
+* [https://www.spiegel.de/panorama/hitzewelle-so-heiss-wird-es-diese-woche-in-deutschland](https://www.spiegel.de/panorama/hitzewelle-so-heiss-wird-es-diese-woche-in-deutschland-a-8a4e0921-c54d-455d-bf36-00ebff73a45b#ref=rss)
+### viele
+
+* [https://www.spiegel.de/geschichte/familiennetzwerke-im-mittelalter-ware-frund-sollt-ihr-sein](https://www.spiegel.de/geschichte/familiennetzwerke-im-mittelalter-ware-frund-sollt-ihr-sein-a-968e4901-68c3-4957-8ef4-eb49a171279d#ref=rss)
+* [https://www.spiegel.de/kultur/jackie-chan-kritisiert-hollywood-momentan-sind-viele-grosse-studios-keine-filmemacher-sondern-geschaeftsleute](https://www.spiegel.de/kultur/jackie-chan-kritisiert-hollywood-momentan-sind-viele-grosse-studios-keine-filmemacher-sondern-geschaeftsleute-a-c6b59a11-c564-4997-9940-7f1a1fa7e8b6#ref=rss)
+### gemeinsam
+
+* [https://www.spiegel.de/geschichte/familiennetzwerke-im-mittelalter-ware-frund-sollt-ihr-sein](https://www.spiegel.de/geschichte/familiennetzwerke-im-mittelalter-ware-frund-sollt-ihr-sein-a-968e4901-68c3-4957-8ef4-eb49a171279d#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-und-brigitte-macron-setzte-privatermittler-auf-us-influencerin-candace-owens-an](https://www.spiegel.de/ausland/frankreich-emmanuel-und-brigitte-macron-setzte-privatermittler-auf-us-influencerin-candace-owens-an-a-b1baabae-5030-4b16-95f9-d68f818aa8a7#ref=rss)
+### nichts
+
+* [https://www.spiegel.de/geschichte/familiennetzwerke-im-mittelalter-ware-frund-sollt-ihr-sein](https://www.spiegel.de/geschichte/familiennetzwerke-im-mittelalter-ware-frund-sollt-ihr-sein-a-968e4901-68c3-4957-8ef4-eb49a171279d#ref=rss)
+* [https://www.spiegel.de/kultur/taylor-swift-kuendigt-ueberraschend-neues-album-an-im-podcast-mit-travis-kelce](https://www.spiegel.de/kultur/taylor-swift-kuendigt-ueberraschend-neues-album-an-im-podcast-mit-travis-kelce-a-90e3e2fc-5cb2-420a-926d-279788ada68c#ref=rss)
+### tennis
+
+* [https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-beschwert-sich-gegen-aryna-sabalenka-ueber-weinendes-kind](https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-beschwert-sich-gegen-aryna-sabalenka-ueber-weinendes-kind-a-29b2e539-7afa-4346-b240-0467242e2997#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-in-cincinnati-stromausfall-laesst-jannik-sinner-und-co-warten](https://www.spiegel.de/sport/tennis/tennis-in-cincinnati-stromausfall-laesst-jannik-sinner-und-co-warten-a-188ff8a9-367e-4e55-9063-ca3f0866482f#ref=rss)
+### emma
+
+* [https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-beschwert-sich-gegen-aryna-sabalenka-ueber-weinendes-kind](https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-beschwert-sich-gegen-aryna-sabalenka-ueber-weinendes-kind-a-29b2e539-7afa-4346-b240-0467242e2997#ref=rss)
+### raducanu
+
+* [https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-beschwert-sich-gegen-aryna-sabalenka-ueber-weinendes-kind](https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-beschwert-sich-gegen-aryna-sabalenka-ueber-weinendes-kind-a-29b2e539-7afa-4346-b240-0467242e2997#ref=rss)
+### aryna
+
+* [https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-beschwert-sich-gegen-aryna-sabalenka-ueber-weinendes-kind](https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-beschwert-sich-gegen-aryna-sabalenka-ueber-weinendes-kind-a-29b2e539-7afa-4346-b240-0467242e2997#ref=rss)
+### sabalenka
+
+* [https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-beschwert-sich-gegen-aryna-sabalenka-ueber-weinendes-kind](https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-beschwert-sich-gegen-aryna-sabalenka-ueber-weinendes-kind-a-29b2e539-7afa-4346-b240-0467242e2997#ref=rss)
+### weinendes
+
+* [https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-beschwert-sich-gegen-aryna-sabalenka-ueber-weinendes-kind](https://www.spiegel.de/sport/tennis/tennis-emma-raducanu-beschwert-sich-gegen-aryna-sabalenka-ueber-weinendes-kind-a-29b2e539-7afa-4346-b240-0467242e2997#ref=rss)
+### sächsische
+
+* [https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand](https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand-a-0ce3e055-4216-4493-b49e-0fab1d1c1923#ref=rss)
+### bewährungsstrafen
+
+* [https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand](https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand-a-0ce3e055-4216-4493-b49e-0fab1d1c1923#ref=rss)
+### vier
+
+* [https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand](https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand-a-0ce3e055-4216-4493-b49e-0fab1d1c1923#ref=rss)
+### waldbrand
+
+* [https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand](https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand-a-0ce3e055-4216-4493-b49e-0fab1d1c1923#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand](https://www.spiegel.de/panorama/saechsische-schweiz-bewaehrungsstrafen-fuer-vier-maenner-nach-waldbrand-a-0ce3e055-4216-4493-b49e-0fab1d1c1923#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-verzichtet-auf-zoelle-auf-goldimporte](https://www.spiegel.de/wirtschaft/usa-donald-trump-verzichtet-auf-zoelle-auf-goldimporte-a-85d9b309-08f2-47aa-a4f1-7c7d156e25f5#ref=rss)
+### kommunalwahlen
+
+* [https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-nrw-streit-ueber-wahlplakate-stadt-dortmund-zieht-gegen-afd-vor-gericht](https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-nrw-streit-ueber-wahlplakate-stadt-dortmund-zieht-gegen-afd-vor-gericht-a-9b8dacd4-0d02-45fa-976b-e6c0f346dcec#ref=rss)
+### streit
+
+* [https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-nrw-streit-ueber-wahlplakate-stadt-dortmund-zieht-gegen-afd-vor-gericht](https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-nrw-streit-ueber-wahlplakate-stadt-dortmund-zieht-gegen-afd-vor-gericht-a-9b8dacd4-0d02-45fa-976b-e6c0f346dcec#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-nrw-streit-ueber-wahlplakate-stadt-dortmund-zieht-gegen-afd-vor-gericht](https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-nrw-streit-ueber-wahlplakate-stadt-dortmund-zieht-gegen-afd-vor-gericht-a-9b8dacd4-0d02-45fa-976b-e6c0f346dcec#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-nrw-streit-ueber-wahlplakate-stadt-dortmund-zieht-gegen-afd-vor-gericht](https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-nrw-streit-ueber-wahlplakate-stadt-dortmund-zieht-gegen-afd-vor-gericht-a-9b8dacd4-0d02-45fa-976b-e6c0f346dcec#ref=rss)
+### kommenden
+
+* [https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-nrw-streit-ueber-wahlplakate-stadt-dortmund-zieht-gegen-afd-vor-gericht](https://www.spiegel.de/politik/deutschland/kommunalwahlen-in-nrw-streit-ueber-wahlplakate-stadt-dortmund-zieht-gegen-afd-vor-gericht-a-9b8dacd4-0d02-45fa-976b-e6c0f346dcec#ref=rss)
+* [https://www.spiegel.de/panorama/hitzewelle-so-heiss-wird-es-diese-woche-in-deutschland](https://www.spiegel.de/panorama/hitzewelle-so-heiss-wird-es-diese-woche-in-deutschland-a-8a4e0921-c54d-455d-bf36-00ebff73a45b#ref=rss)
+### erst
+
+* [https://www.spiegel.de/wissenschaft/korallenbleiche-in-australien-ningaloo-riff-vor-westaustralien-von-rekordbleiche-betroffen](https://www.spiegel.de/wissenschaft/korallenbleiche-in-australien-ningaloo-riff-vor-westaustralien-von-rekordbleiche-betroffen-a-0be8c16d-e3ff-46e3-b93d-730668b22a2c#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-in-cincinnati-stromausfall-laesst-jannik-sinner-und-co-warten](https://www.spiegel.de/sport/tennis/tennis-in-cincinnati-stromausfall-laesst-jannik-sinner-und-co-warten-a-188ff8a9-367e-4e55-9063-ca3f0866482f#ref=rss)
+### heiß
+
+* [https://www.spiegel.de/panorama/hitzewelle-so-heiss-wird-es-diese-woche-in-deutschland](https://www.spiegel.de/panorama/hitzewelle-so-heiss-wird-es-diese-woche-in-deutschland-a-8a4e0921-c54d-455d-bf36-00ebff73a45b#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/panorama/hitzewelle-so-heiss-wird-es-diese-woche-in-deutschland](https://www.spiegel.de/panorama/hitzewelle-so-heiss-wird-es-diese-woche-in-deutschland-a-8a4e0921-c54d-455d-bf36-00ebff73a45b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-verzichtet-auf-zoelle-auf-goldimporte](https://www.spiegel.de/wirtschaft/usa-donald-trump-verzichtet-auf-zoelle-auf-goldimporte-a-85d9b309-08f2-47aa-a4f1-7c7d156e25f5#ref=rss)
+### goldimporte
+
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-verzichtet-auf-zoelle-auf-goldimporte](https://www.spiegel.de/wirtschaft/usa-donald-trump-verzichtet-auf-zoelle-auf-goldimporte-a-85d9b309-08f2-47aa-a4f1-7c7d156e25f5#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-verzichtet-auf-zoelle-auf-goldimporte](https://www.spiegel.de/wirtschaft/usa-donald-trump-verzichtet-auf-zoelle-auf-goldimporte-a-85d9b309-08f2-47aa-a4f1-7c7d156e25f5#ref=rss)
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-kaempfe-im-osten-flammen-offenbar-wieder-auf](https://www.spiegel.de/ausland/demokratische-republik-kongo-kaempfe-im-osten-flammen-offenbar-wieder-auf-a-ca3bb0f2-a7f1-4247-a698-8bfe5bf9842e#ref=rss)
+### jackie
+
+* [https://www.spiegel.de/kultur/jackie-chan-kritisiert-hollywood-momentan-sind-viele-grosse-studios-keine-filmemacher-sondern-geschaeftsleute](https://www.spiegel.de/kultur/jackie-chan-kritisiert-hollywood-momentan-sind-viele-grosse-studios-keine-filmemacher-sondern-geschaeftsleute-a-c6b59a11-c564-4997-9940-7f1a1fa7e8b6#ref=rss)
+### chan
+
+* [https://www.spiegel.de/kultur/jackie-chan-kritisiert-hollywood-momentan-sind-viele-grosse-studios-keine-filmemacher-sondern-geschaeftsleute](https://www.spiegel.de/kultur/jackie-chan-kritisiert-hollywood-momentan-sind-viele-grosse-studios-keine-filmemacher-sondern-geschaeftsleute-a-c6b59a11-c564-4997-9940-7f1a1fa7e8b6#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/kultur/jackie-chan-kritisiert-hollywood-momentan-sind-viele-grosse-studios-keine-filmemacher-sondern-geschaeftsleute](https://www.spiegel.de/kultur/jackie-chan-kritisiert-hollywood-momentan-sind-viele-grosse-studios-keine-filmemacher-sondern-geschaeftsleute-a-c6b59a11-c564-4997-9940-7f1a1fa7e8b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mode-und-fast-fashion-jaehrlich-landet-kleidung-in-der-menge-von-200-gefuellten-fussballstadien-im-muell](https://www.spiegel.de/wirtschaft/mode-und-fast-fashion-jaehrlich-landet-kleidung-in-der-menge-von-200-gefuellten-fussballstadien-im-muell-a-25b1559b-4781-4523-9c91-bb451d731b0b#ref=rss)
+### brigitte
+
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-und-brigitte-macron-setzte-privatermittler-auf-us-influencerin-candace-owens-an](https://www.spiegel.de/ausland/frankreich-emmanuel-und-brigitte-macron-setzte-privatermittler-auf-us-influencerin-candace-owens-an-a-b1baabae-5030-4b16-95f9-d68f818aa8a7#ref=rss)
+### macron
+
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-und-brigitte-macron-setzte-privatermittler-auf-us-influencerin-candace-owens-an](https://www.spiegel.de/ausland/frankreich-emmanuel-und-brigitte-macron-setzte-privatermittler-auf-us-influencerin-candace-owens-an-a-b1baabae-5030-4b16-95f9-d68f818aa8a7#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-und-brigitte-macron-setzte-privatermittler-auf-us-influencerin-candace-owens-an](https://www.spiegel.de/ausland/frankreich-emmanuel-und-brigitte-macron-setzte-privatermittler-auf-us-influencerin-candace-owens-an-a-b1baabae-5030-4b16-95f9-d68f818aa8a7#ref=rss)
+* [https://www.spiegel.de/kultur/taylor-swift-kuendigt-ueberraschend-neues-album-an-im-podcast-mit-travis-kelce](https://www.spiegel.de/kultur/taylor-swift-kuendigt-ueberraschend-neues-album-an-im-podcast-mit-travis-kelce-a-90e3e2fc-5cb2-420a-926d-279788ada68c#ref=rss)
+### schaden
+
+* [https://www.spiegel.de/panorama/sachsen-anhalt-traktorbrand-verursacht-400-000-euro-schaden](https://www.spiegel.de/panorama/sachsen-anhalt-traktorbrand-verursacht-400-000-euro-schaden-a-cedd8923-43f0-4afc-94a2-f3d7acfaa1a0#ref=rss)
+### flammen
+
+* [https://www.spiegel.de/panorama/sachsen-anhalt-traktorbrand-verursacht-400-000-euro-schaden](https://www.spiegel.de/panorama/sachsen-anhalt-traktorbrand-verursacht-400-000-euro-schaden-a-cedd8923-43f0-4afc-94a2-f3d7acfaa1a0#ref=rss)
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-kaempfe-im-osten-flammen-offenbar-wieder-auf](https://www.spiegel.de/ausland/demokratische-republik-kongo-kaempfe-im-osten-flammen-offenbar-wieder-auf-a-ca3bb0f2-a7f1-4247-a698-8bfe5bf9842e#ref=rss)
+### jannik
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-cincinnati-stromausfall-laesst-jannik-sinner-und-co-warten](https://www.spiegel.de/sport/tennis/tennis-in-cincinnati-stromausfall-laesst-jannik-sinner-und-co-warten-a-188ff8a9-367e-4e55-9063-ca3f0866482f#ref=rss)
+### sinner
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-cincinnati-stromausfall-laesst-jannik-sinner-und-co-warten](https://www.spiegel.de/sport/tennis/tennis-in-cincinnati-stromausfall-laesst-jannik-sinner-und-co-warten-a-188ff8a9-367e-4e55-9063-ca3f0866482f#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/kultur/taylor-swift-kuendigt-ueberraschend-neues-album-an-im-podcast-mit-travis-kelce](https://www.spiegel.de/kultur/taylor-swift-kuendigt-ueberraschend-neues-album-an-im-podcast-mit-travis-kelce-a-90e3e2fc-5cb2-420a-926d-279788ada68c#ref=rss)
+### swift
+
+* [https://www.spiegel.de/kultur/taylor-swift-kuendigt-ueberraschend-neues-album-an-im-podcast-mit-travis-kelce](https://www.spiegel.de/kultur/taylor-swift-kuendigt-ueberraschend-neues-album-an-im-podcast-mit-travis-kelce-a-90e3e2fc-5cb2-420a-926d-279788ada68c#ref=rss)
+### neues
+
+* [https://www.spiegel.de/kultur/taylor-swift-kuendigt-ueberraschend-neues-album-an-im-podcast-mit-travis-kelce](https://www.spiegel.de/kultur/taylor-swift-kuendigt-ueberraschend-neues-album-an-im-podcast-mit-travis-kelce-a-90e3e2fc-5cb2-420a-926d-279788ada68c#ref=rss)
+### album
+
+* [https://www.spiegel.de/kultur/taylor-swift-kuendigt-ueberraschend-neues-album-an-im-podcast-mit-travis-kelce](https://www.spiegel.de/kultur/taylor-swift-kuendigt-ueberraschend-neues-album-an-im-podcast-mit-travis-kelce-a-90e3e2fc-5cb2-420a-926d-279788ada68c#ref=rss)
+### republik
+
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-kaempfe-im-osten-flammen-offenbar-wieder-auf](https://www.spiegel.de/ausland/demokratische-republik-kongo-kaempfe-im-osten-flammen-offenbar-wieder-auf-a-ca3bb0f2-a7f1-4247-a698-8bfe5bf9842e#ref=rss)
+### kongo
+
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-kaempfe-im-osten-flammen-offenbar-wieder-auf](https://www.spiegel.de/ausland/demokratische-republik-kongo-kaempfe-im-osten-flammen-offenbar-wieder-auf-a-ca3bb0f2-a7f1-4247-a698-8bfe5bf9842e#ref=rss)
 
