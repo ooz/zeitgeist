@@ -6,327 +6,350 @@ tags: __no_header__
 
 ### trump
 
-* [https://www.spiegel.de/geschichte/donald-trump-trifft-wladimir-putin-erinnerungen-an-fruehere-usa-russland-gipfel](https://www.spiegel.de/geschichte/donald-trump-trifft-wladimir-putin-erinnerungen-an-fruehere-usa-russland-gipfel-a-a26cc649-d690-4434-9020-1fc0d8b6577b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-knickt-im-zoll-streit-mit-china-ein-sicherheitsexperten-sind-entsetzt](https://www.spiegel.de/wirtschaft/donald-trump-knickt-im-zoll-streit-mit-china-ein-sicherheitsexperten-sind-entsetzt-a-f38cb59d-d603-4a31-90a7-157a24066b71#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-europa-unterstuetzt-das-land-staerker-als-die-usa-ifw-analyse](https://www.spiegel.de/ausland/ukraine-europa-unterstuetzt-das-land-staerker-als-die-usa-ifw-analyse-a-f34cc7ac-7f8a-495b-952b-f80074e66069#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-stoesst-im-donbass-vor-die-front-broeckelt](https://www.spiegel.de/ausland/ukraine-krieg-russland-stoesst-im-donbass-vor-die-front-broeckelt-a-2eda6220-7e33-4fb7-862e-0455d38f3142#ref=rss)
-* [https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch](https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch-a-91faa3b3-aae8-45af-953b-54f2732aa120#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/kolumbien-attentat-auf-miguel-uribe-schuesse-die-das-land-ins-mark-treffen](https://www.spiegel.de/ausland/kolumbien-attentat-auf-miguel-uribe-schuesse-die-das-land-ins-mark-treffen-a-e4818442-0926-4144-bdbe-b98cb6849ac3#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-europa-unterstuetzt-das-land-staerker-als-die-usa-ifw-analyse](https://www.spiegel.de/ausland/ukraine-europa-unterstuetzt-das-land-staerker-als-die-usa-ifw-analyse-a-f34cc7ac-7f8a-495b-952b-f80074e66069#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-litauen-will-zivilisten-an-drohnen-ausbilden-auch-schulkinder](https://www.spiegel.de/ausland/russland-ukraine-krieg-litauen-will-zivilisten-an-drohnen-ausbilden-auch-schulkinder-a-469720f8-7498-4423-83cf-543cf61d783e#ref=rss)
-* [https://www.spiegel.de/panorama/hitze-in-europa-gefaehrliche-temperaturen-ueber-40-grad-der-ueberblick](https://www.spiegel.de/panorama/hitze-in-europa-gefaehrliche-temperaturen-ueber-40-grad-der-ueberblick-a-1362469f-3dec-443a-ab8d-36cd999fa07f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/alleinerziehende-staat-zahlt-mehr-als-drei-milliarden-unterhaltsvorschuss](https://www.spiegel.de/wirtschaft/soziales/alleinerziehende-staat-zahlt-mehr-als-drei-milliarden-unterhaltsvorschuss-a-a91d16eb-591f-4ce0-b4e1-5fbc4427922e#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-europa-unterstuetzt-das-land-staerker-als-die-usa-ifw-analyse](https://www.spiegel.de/ausland/ukraine-europa-unterstuetzt-das-land-staerker-als-die-usa-ifw-analyse-a-f34cc7ac-7f8a-495b-952b-f80074e66069#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-litauen-will-zivilisten-an-drohnen-ausbilden-auch-schulkinder](https://www.spiegel.de/ausland/russland-ukraine-krieg-litauen-will-zivilisten-an-drohnen-ausbilden-auch-schulkinder-a-469720f8-7498-4423-83cf-543cf61d783e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/hitze-in-der-wohnung-wann-sie-eine-mietminderung-erreichen-koennen](https://www.spiegel.de/wirtschaft/service/hitze-in-der-wohnung-wann-sie-eine-mietminderung-erreichen-koennen-a-9a6cfc45-c57b-45bb-8f54-e657d50e5a1d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/stuttgart-beim-sex-erwuergt-lange-haftstrafe-wegen-totschlags-an-freundin](https://www.spiegel.de/panorama/justiz/stuttgart-beim-sex-erwuergt-lange-haftstrafe-wegen-totschlags-an-freundin-a-d3255080-259b-4557-bfcc-5ebbe4786f44#ref=rss)
-* [https://www.spiegel.de/sport/tennis/monica-seles-ex-tennisstar-leidet-unter-schwerer-muskelschwaeche](https://www.spiegel.de/sport/tennis/monica-seles-ex-tennisstar-leidet-unter-schwerer-muskelschwaeche-a-6bde7ef3-04a5-4162-a336-d83a7cf41187#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-praesident-donald-trump-attackiert-goldman-sachs-wegen-zollanalyse](https://www.spiegel.de/wirtschaft/unternehmen/us-praesident-donald-trump-attackiert-goldman-sachs-wegen-zollanalyse-a-33059db9-8d81-4559-a40f-20876fe146da#ref=rss)
+* [https://www.spiegel.de/ausland/gipfel-in-alaska-so-stemmt-sich-wolodymyr-selenskyj-gegen-einen-trump-putin-pakt](https://www.spiegel.de/ausland/gipfel-in-alaska-so-stemmt-sich-wolodymyr-selenskyj-gegen-einen-trump-putin-pakt-a-40e22720-3429-41b8-978e-e3d5c74b90eb#ref=rss)
+* [https://www.spiegel.de/kultur/jimmy-kimmel-comedian-ist-wegen-donald-trump-jetzt-auch-italiener](https://www.spiegel.de/kultur/jimmy-kimmel-comedian-ist-wegen-donald-trump-jetzt-auch-italiener-a-a36a4012-2012-45e5-b480-9fa49bb876a1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-drogenpolitik-feuert-er-bald-raketen-auf-mexiko](https://www.spiegel.de/ausland/donald-trumps-drogenpolitik-feuert-er-bald-raketen-auf-mexiko-a-2d775741-34af-4c4a-9d30-208344a3f4eb#ref=rss)
+* [https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin](https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin-a-2a2a4bb7-e343-4ec3-8f28-59adfdb4dee1#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/geschichte/donald-trump-trifft-wladimir-putin-erinnerungen-an-fruehere-usa-russland-gipfel](https://www.spiegel.de/geschichte/donald-trump-trifft-wladimir-putin-erinnerungen-an-fruehere-usa-russland-gipfel-a-a26cc649-d690-4434-9020-1fc0d8b6577b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-knickt-im-zoll-streit-mit-china-ein-sicherheitsexperten-sind-entsetzt](https://www.spiegel.de/wirtschaft/donald-trump-knickt-im-zoll-streit-mit-china-ein-sicherheitsexperten-sind-entsetzt-a-f38cb59d-d603-4a31-90a7-157a24066b71#ref=rss)
-* [https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch](https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch-a-91faa3b3-aae8-45af-953b-54f2732aa120#ref=rss)
-### putin
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-praesident-donald-trump-attackiert-goldman-sachs-wegen-zollanalyse](https://www.spiegel.de/wirtschaft/unternehmen/us-praesident-donald-trump-attackiert-goldman-sachs-wegen-zollanalyse-a-33059db9-8d81-4559-a40f-20876fe146da#ref=rss)
+* [https://www.spiegel.de/kultur/jimmy-kimmel-comedian-ist-wegen-donald-trump-jetzt-auch-italiener](https://www.spiegel.de/kultur/jimmy-kimmel-comedian-ist-wegen-donald-trump-jetzt-auch-italiener-a-a36a4012-2012-45e5-b480-9fa49bb876a1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-drogenpolitik-feuert-er-bald-raketen-auf-mexiko](https://www.spiegel.de/ausland/donald-trumps-drogenpolitik-feuert-er-bald-raketen-auf-mexiko-a-2d775741-34af-4c4a-9d30-208344a3f4eb#ref=rss)
+* [https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin](https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin-a-2a2a4bb7-e343-4ec3-8f28-59adfdb4dee1#ref=rss)
+### merz
 
-* [https://www.spiegel.de/geschichte/donald-trump-trifft-wladimir-putin-erinnerungen-an-fruehere-usa-russland-gipfel](https://www.spiegel.de/geschichte/donald-trump-trifft-wladimir-putin-erinnerungen-an-fruehere-usa-russland-gipfel-a-a26cc649-d690-4434-9020-1fc0d8b6577b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cem-oezdemir-brigitte-macron-wladimir-putin-und-nordkorea](https://www.spiegel.de/politik/deutschland/news-des-tages-cem-oezdemir-brigitte-macron-wladimir-putin-und-nordkorea-a-3e2882dc-be9f-44ad-9806-d11ff0f2b662#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-stoesst-im-donbass-vor-die-front-broeckelt](https://www.spiegel.de/ausland/ukraine-krieg-russland-stoesst-im-donbass-vor-die-front-broeckelt-a-2eda6220-7e33-4fb7-862e-0455d38f3142#ref=rss)
-* [https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch](https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch-a-91faa3b3-aae8-45af-953b-54f2732aa120#ref=rss)
-### andere
+* [https://www.spiegel.de/ausland/gipfel-in-alaska-so-stemmt-sich-wolodymyr-selenskyj-gegen-einen-trump-putin-pakt](https://www.spiegel.de/ausland/gipfel-in-alaska-so-stemmt-sich-wolodymyr-selenskyj-gegen-einen-trump-putin-pakt-a-40e22720-3429-41b8-978e-e3d5c74b90eb#ref=rss)
+* [https://www.spiegel.de/politik/100-tage-friedrich-merz-und-seine-koalition-wo-steht-schwarz-rot-jetzt](https://www.spiegel.de/politik/100-tage-friedrich-merz-und-seine-koalition-wo-steht-schwarz-rot-jetzt-a-bdcfef67-6d86-4607-8ea5-dcd173a569b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung](https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung-a-202f9859-38b1-43ff-8ebd-e33c5b03c021#ref=rss)
+* [https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin](https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin-a-2a2a4bb7-e343-4ec3-8f28-59adfdb4dee1#ref=rss)
+### 100
 
-* [https://www.spiegel.de/panorama/brandenburg-will-abschuss-von-mindestens-150-woelfen-jaehrlich-ermoeglichen](https://www.spiegel.de/panorama/brandenburg-will-abschuss-von-mindestens-150-woelfen-jaehrlich-ermoeglichen-a-7f0c2de1-3c0b-401b-9e6a-febd5e0f1eb6#ref=rss)
-* [https://www.spiegel.de/gesundheit/sonnencreme-das-ist-dran-an-den-tiktok-mythen](https://www.spiegel.de/gesundheit/sonnencreme-das-ist-dran-an-den-tiktok-mythen-a-ac3b7b3f-45c7-47f6-96f4-3c4c6c54cf8f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/alleinerziehende-staat-zahlt-mehr-als-drei-milliarden-unterhaltsvorschuss](https://www.spiegel.de/wirtschaft/soziales/alleinerziehende-staat-zahlt-mehr-als-drei-milliarden-unterhaltsvorschuss-a-a91d16eb-591f-4ce0-b4e1-5fbc4427922e#ref=rss)
-* [https://www.spiegel.de/panorama/sandra-bullock-und-jennifer-aniston-wie-sie-mit-ihrer-freundschaft-hollywood-trotzten](https://www.spiegel.de/panorama/sandra-bullock-und-jennifer-aniston-wie-sie-mit-ihrer-freundschaft-hollywood-trotzten-a-e73b7be9-b0bc-4cf5-a853-c8eabcadf8e4#ref=rss)
-### europa
+* [https://www.spiegel.de/politik/deutschland/quiz-zu-100-tage-schwarz-rot-wer-hats-gesagt](https://www.spiegel.de/politik/deutschland/quiz-zu-100-tage-schwarz-rot-wer-hats-gesagt-a-6a66484e-2749-4c53-bd2b-6e447043701d#ref=rss)
+* [https://www.spiegel.de/politik/100-tage-friedrich-merz-und-seine-koalition-wo-steht-schwarz-rot-jetzt](https://www.spiegel.de/politik/100-tage-friedrich-merz-und-seine-koalition-wo-steht-schwarz-rot-jetzt-a-bdcfef67-6d86-4607-8ea5-dcd173a569b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung](https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung-a-202f9859-38b1-43ff-8ebd-e33c5b03c021#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/hitze-in-europa-gefaehrliche-temperaturen-ueber-40-grad-der-ueberblick](https://www.spiegel.de/panorama/hitze-in-europa-gefaehrliche-temperaturen-ueber-40-grad-der-ueberblick-a-1362469f-3dec-443a-ab8d-36cd999fa07f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-europa-unterstuetzt-das-land-staerker-als-die-usa-ifw-analyse](https://www.spiegel.de/ausland/ukraine-europa-unterstuetzt-das-land-staerker-als-die-usa-ifw-analyse-a-f34cc7ac-7f8a-495b-952b-f80074e66069#ref=rss)
-### uribe
+* [https://www.spiegel.de/wirtschaft/unternehmen/schweiz-im-zollstreit-mit-den-usa-mitten-im-globalen-wirtschaftspowerplay](https://www.spiegel.de/wirtschaft/unternehmen/schweiz-im-zollstreit-mit-den-usa-mitten-im-globalen-wirtschaftspowerplay-a-8d269d5f-684b-4687-8cdf-1ba21e912d60#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-und-mobiles-arbeiten-was-firmen-schaetzen](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-und-mobiles-arbeiten-was-firmen-schaetzen-a-1659e8be-8c83-436e-920d-8698c27217c4#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent](https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent-a-f8d00a6b-2dda-435b-b2e5-54a9bd798f6c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/fuer-kodak-koennte-komplett-schluss-sein-nach-mehr-als-130-jahren](https://www.spiegel.de/wirtschaft/unternehmen/fuer-kodak-koennte-komplett-schluss-sein-nach-mehr-als-130-jahren-a-d50c9d4d-c75b-4201-bf60-9bdc0750f323#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/ausland/kolumbien-attentat-auf-miguel-uribe-schuesse-die-das-land-ins-mark-treffen](https://www.spiegel.de/ausland/kolumbien-attentat-auf-miguel-uribe-schuesse-die-das-land-ins-mark-treffen-a-e4818442-0926-4144-bdbe-b98cb6849ac3#ref=rss)
-### treffen
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-praesident-donald-trump-attackiert-goldman-sachs-wegen-zollanalyse](https://www.spiegel.de/wirtschaft/unternehmen/us-praesident-donald-trump-attackiert-goldman-sachs-wegen-zollanalyse-a-33059db9-8d81-4559-a40f-20876fe146da#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-drogenpolitik-feuert-er-bald-raketen-auf-mexiko](https://www.spiegel.de/ausland/donald-trumps-drogenpolitik-feuert-er-bald-raketen-auf-mexiko-a-2d775741-34af-4c4a-9d30-208344a3f4eb#ref=rss)
+* [https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin](https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin-a-2a2a4bb7-e343-4ec3-8f28-59adfdb4dee1#ref=rss)
+### selenskyj
 
-* [https://www.spiegel.de/ausland/kolumbien-attentat-auf-miguel-uribe-schuesse-die-das-land-ins-mark-treffen](https://www.spiegel.de/ausland/kolumbien-attentat-auf-miguel-uribe-schuesse-die-das-land-ins-mark-treffen-a-e4818442-0926-4144-bdbe-b98cb6849ac3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wale-und-delfine-spielen-miteinander](https://www.spiegel.de/wissenschaft/natur/wale-und-delfine-spielen-miteinander-a-3d641227-48cc-44b1-b3ff-5888f9da70d0#ref=rss)
-* [https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch](https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch-a-91faa3b3-aae8-45af-953b-54f2732aa120#ref=rss)
+* [https://www.spiegel.de/ausland/gipfel-in-alaska-so-stemmt-sich-wolodymyr-selenskyj-gegen-einen-trump-putin-pakt](https://www.spiegel.de/ausland/gipfel-in-alaska-so-stemmt-sich-wolodymyr-selenskyj-gegen-einen-trump-putin-pakt-a-40e22720-3429-41b8-978e-e3d5c74b90eb#ref=rss)
+* [https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin](https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin-a-2a2a4bb7-e343-4ec3-8f28-59adfdb4dee1#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-und-mobiles-arbeiten-was-firmen-schaetzen](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-und-mobiles-arbeiten-was-firmen-schaetzen-a-1659e8be-8c83-436e-920d-8698c27217c4#ref=rss)
+* [https://www.spiegel.de/ausland/inflation-in-oesterreich-gefangen-in-der-teuerungsfalle](https://www.spiegel.de/ausland/inflation-in-oesterreich-gefangen-in-der-teuerungsfalle-a-fee87822-540a-4f70-a94a-60b87eaff735#ref=rss)
+* [https://www.spiegel.de/politik/iran-deutschland-frankreich-und-grossbritannien-drohen-mit-sanktionen-bei-atomgespraechen](https://www.spiegel.de/politik/iran-deutschland-frankreich-und-grossbritannien-drohen-mit-sanktionen-bei-atomgespraechen-a-0f7dedab-7b3c-4db3-be68-7eac874723bc#ref=rss)
+### tage
+
+* [https://www.spiegel.de/sport/world-games-in-china-orientierungslaeufer-mattia-debertolis-stirbt-bei-wettkampf](https://www.spiegel.de/sport/world-games-in-china-orientierungslaeufer-mattia-debertolis-stirbt-bei-wettkampf-a-3bcc560a-b55d-48e3-b76b-92a319f07e40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/quiz-zu-100-tage-schwarz-rot-wer-hats-gesagt](https://www.spiegel.de/politik/deutschland/quiz-zu-100-tage-schwarz-rot-wer-hats-gesagt-a-6a66484e-2749-4c53-bd2b-6e447043701d#ref=rss)
+* [https://www.spiegel.de/politik/100-tage-friedrich-merz-und-seine-koalition-wo-steht-schwarz-rot-jetzt](https://www.spiegel.de/politik/100-tage-friedrich-merz-und-seine-koalition-wo-steht-schwarz-rot-jetzt-a-bdcfef67-6d86-4607-8ea5-dcd173a569b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung](https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung-a-202f9859-38b1-43ff-8ebd-e33c5b03c021#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/100-tage-friedrich-merz-und-seine-koalition-wo-steht-schwarz-rot-jetzt](https://www.spiegel.de/politik/100-tage-friedrich-merz-und-seine-koalition-wo-steht-schwarz-rot-jetzt-a-bdcfef67-6d86-4607-8ea5-dcd173a569b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung](https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung-a-202f9859-38b1-43ff-8ebd-e33c5b03c021#ref=rss)
+* [https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin](https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin-a-2a2a4bb7-e343-4ec3-8f28-59adfdb4dee1#ref=rss)
+### land
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/schweiz-im-zollstreit-mit-den-usa-mitten-im-globalen-wirtschaftspowerplay](https://www.spiegel.de/wirtschaft/unternehmen/schweiz-im-zollstreit-mit-den-usa-mitten-im-globalen-wirtschaftspowerplay-a-8d269d5f-684b-4687-8cdf-1ba21e912d60#ref=rss)
+* [https://www.spiegel.de/ausland/gipfel-in-alaska-so-stemmt-sich-wolodymyr-selenskyj-gegen-einen-trump-putin-pakt](https://www.spiegel.de/ausland/gipfel-in-alaska-so-stemmt-sich-wolodymyr-selenskyj-gegen-einen-trump-putin-pakt-a-40e22720-3429-41b8-978e-e3d5c74b90eb#ref=rss)
+* [https://www.spiegel.de/kultur/jimmy-kimmel-comedian-ist-wegen-donald-trump-jetzt-auch-italiener](https://www.spiegel.de/kultur/jimmy-kimmel-comedian-ist-wegen-donald-trump-jetzt-auch-italiener-a-a36a4012-2012-45e5-b480-9fa49bb876a1#ref=rss)
+### wolodymyr
+
+* [https://www.spiegel.de/ausland/gipfel-in-alaska-so-stemmt-sich-wolodymyr-selenskyj-gegen-einen-trump-putin-pakt](https://www.spiegel.de/ausland/gipfel-in-alaska-so-stemmt-sich-wolodymyr-selenskyj-gegen-einen-trump-putin-pakt-a-40e22720-3429-41b8-978e-e3d5c74b90eb#ref=rss)
+* [https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin](https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin-a-2a2a4bb7-e343-4ec3-8f28-59adfdb4dee1#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/gipfel-in-alaska-so-stemmt-sich-wolodymyr-selenskyj-gegen-einen-trump-putin-pakt](https://www.spiegel.de/ausland/gipfel-in-alaska-so-stemmt-sich-wolodymyr-selenskyj-gegen-einen-trump-putin-pakt-a-40e22720-3429-41b8-978e-e3d5c74b90eb#ref=rss)
+* [https://www.spiegel.de/kultur/jimmy-kimmel-comedian-ist-wegen-donald-trump-jetzt-auch-italiener](https://www.spiegel.de/kultur/jimmy-kimmel-comedian-ist-wegen-donald-trump-jetzt-auch-italiener-a-a36a4012-2012-45e5-b480-9fa49bb876a1#ref=rss)
+* [https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin](https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin-a-2a2a4bb7-e343-4ec3-8f28-59adfdb4dee1#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/ausland/gipfel-in-alaska-so-stemmt-sich-wolodymyr-selenskyj-gegen-einen-trump-putin-pakt](https://www.spiegel.de/ausland/gipfel-in-alaska-so-stemmt-sich-wolodymyr-selenskyj-gegen-einen-trump-putin-pakt-a-40e22720-3429-41b8-978e-e3d5c74b90eb#ref=rss)
+* [https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin](https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin-a-2a2a4bb7-e343-4ec3-8f28-59adfdb4dee1#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wirtschaft/mcdonalds-in-japan-stoppt-pokemon-aktion-im-happy-meal-nach-berichten-ueber-lebensmittelverschwendung](https://www.spiegel.de/wirtschaft/mcdonalds-in-japan-stoppt-pokemon-aktion-im-happy-meal-nach-berichten-ueber-lebensmittelverschwendung-a-13fec9c7-1987-40ef-9e10-aa8e3cf14a69#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung](https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung-a-202f9859-38b1-43ff-8ebd-e33c5b03c021#ref=rss)
+* [https://www.spiegel.de/kultur/mariah-carey-ist-zurueck-die-diva-empfaengt-im-pyjama](https://www.spiegel.de/kultur/mariah-carey-ist-zurueck-die-diva-empfaengt-im-pyjama-a-bc005627-8665-490b-a2db-ce78ebafe427#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/panorama/leute/ulli-potofski-verstorbener-sportmoderator-hoffte-bis-zum-tod-auf-knochenmarkspende](https://www.spiegel.de/panorama/leute/ulli-potofski-verstorbener-sportmoderator-hoffte-bis-zum-tod-auf-knochenmarkspende-a-acc0cc70-0eb9-40a6-ba3b-9d8846832ddb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-neubauprojekte-wegen-geldmangel-auf-der-kippe](https://www.spiegel.de/wirtschaft/deutsche-bahn-neubauprojekte-wegen-geldmangel-auf-der-kippe-a-8bde0d0e-681c-4496-98bb-c3077a4b18fc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung](https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung-a-202f9859-38b1-43ff-8ebd-e33c5b03c021#ref=rss)
+### schwarzrot
+
+* [https://www.spiegel.de/politik/deutschland/quiz-zu-100-tage-schwarz-rot-wer-hats-gesagt](https://www.spiegel.de/politik/deutschland/quiz-zu-100-tage-schwarz-rot-wer-hats-gesagt-a-6a66484e-2749-4c53-bd2b-6e447043701d#ref=rss)
+* [https://www.spiegel.de/politik/100-tage-friedrich-merz-und-seine-koalition-wo-steht-schwarz-rot-jetzt](https://www.spiegel.de/politik/100-tage-friedrich-merz-und-seine-koalition-wo-steht-schwarz-rot-jetzt-a-bdcfef67-6d86-4607-8ea5-dcd173a569b5#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/geschichte/antike-klimaanlagen-wie-perser-araber-aegypter-und-roemer-ihre-haeuser-kuehlten](https://www.spiegel.de/geschichte/antike-klimaanlagen-wie-perser-araber-aegypter-und-roemer-ihre-haeuser-kuehlten-a-84e6a8ee-1fe1-40af-b572-4cafbabb4099#ref=rss)
+* [https://www.spiegel.de/panorama/meldestelle-fuer-antifeminismus-verzeichnet-2024-ueber-500-vorfaelle](https://www.spiegel.de/panorama/meldestelle-fuer-antifeminismus-verzeichnet-2024-ueber-500-vorfaelle-a-b2d805a5-caad-4e88-8c5f-adbf80d48f71#ref=rss)
+* [https://www.spiegel.de/panorama/uvalde-in-texas-neue-videos-und-audios-belegen-planlosigkeit-der-polizei](https://www.spiegel.de/panorama/uvalde-in-texas-neue-videos-und-audios-belegen-planlosigkeit-der-polizei-a-a21a6a0d-d2bc-4e29-916e-10ce87c23ac9#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/100-tage-friedrich-merz-und-seine-koalition-wo-steht-schwarz-rot-jetzt](https://www.spiegel.de/politik/100-tage-friedrich-merz-und-seine-koalition-wo-steht-schwarz-rot-jetzt-a-bdcfef67-6d86-4607-8ea5-dcd173a569b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung](https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung-a-202f9859-38b1-43ff-8ebd-e33c5b03c021#ref=rss)
+### italien
+
+* [https://www.spiegel.de/netzwelt/italien-hacker-stehlen-ausweisdaten-von-zehntausenden-hotelgaesten](https://www.spiegel.de/netzwelt/italien-hacker-stehlen-ausweisdaten-von-zehntausenden-hotelgaesten-a-99d5ca25-5b07-40f8-ae15-cafcede747fd#ref=rss)
+### ausweisdaten
+
+* [https://www.spiegel.de/netzwelt/italien-hacker-stehlen-ausweisdaten-von-zehntausenden-hotelgaesten](https://www.spiegel.de/netzwelt/italien-hacker-stehlen-ausweisdaten-von-zehntausenden-hotelgaesten-a-99d5ca25-5b07-40f8-ae15-cafcede747fd#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lyten-northvolt-investor-will-offenbar-weitere-steuergelder-fuer-insolventen-batteriezellhersteller](https://www.spiegel.de/wirtschaft/unternehmen/lyten-northvolt-investor-will-offenbar-weitere-steuergelder-fuer-insolventen-batteriezellhersteller-a-6656eed4-d5a6-4098-b843-0d0bd89f30c4#ref=rss)
-* [https://www.spiegel.de/ausland/usa-pentagon-plant-offenbar-schnelle-eingreiftruppe-im-inland](https://www.spiegel.de/ausland/usa-pentagon-plant-offenbar-schnelle-eingreiftruppe-im-inland-a-55abf016-ca38-4a86-9fd1-857e581fc768#ref=rss)
-* [https://www.spiegel.de/panorama/a8-bei-holzkirchen-eltern-vergessen-zehnjaehrigen-sohn-an-tankstelle-bei-urlaubsfahrt](https://www.spiegel.de/panorama/a8-bei-holzkirchen-eltern-vergessen-zehnjaehrigen-sohn-an-tankstelle-bei-urlaubsfahrt-a-909260e5-893a-43ae-bad2-21f17e1310df#ref=rss)
-### plant
+* [https://www.spiegel.de/netzwelt/italien-hacker-stehlen-ausweisdaten-von-zehntausenden-hotelgaesten](https://www.spiegel.de/netzwelt/italien-hacker-stehlen-ausweisdaten-von-zehntausenden-hotelgaesten-a-99d5ca25-5b07-40f8-ae15-cafcede747fd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mcdonalds-in-japan-stoppt-pokemon-aktion-im-happy-meal-nach-berichten-ueber-lebensmittelverschwendung](https://www.spiegel.de/wirtschaft/mcdonalds-in-japan-stoppt-pokemon-aktion-im-happy-meal-nach-berichten-ueber-lebensmittelverschwendung-a-13fec9c7-1987-40ef-9e10-aa8e3cf14a69#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lyten-northvolt-investor-will-offenbar-weitere-steuergelder-fuer-insolventen-batteriezellhersteller](https://www.spiegel.de/wirtschaft/unternehmen/lyten-northvolt-investor-will-offenbar-weitere-steuergelder-fuer-insolventen-batteriezellhersteller-a-6656eed4-d5a6-4098-b843-0d0bd89f30c4#ref=rss)
-* [https://www.spiegel.de/panorama/brandenburg-will-abschuss-von-mindestens-150-woelfen-jaehrlich-ermoeglichen](https://www.spiegel.de/panorama/brandenburg-will-abschuss-von-mindestens-150-woelfen-jaehrlich-ermoeglichen-a-7f0c2de1-3c0b-401b-9e6a-febd5e0f1eb6#ref=rss)
-* [https://www.spiegel.de/ausland/usa-pentagon-plant-offenbar-schnelle-eingreiftruppe-im-inland](https://www.spiegel.de/ausland/usa-pentagon-plant-offenbar-schnelle-eingreiftruppe-im-inland-a-55abf016-ca38-4a86-9fd1-857e581fc768#ref=rss)
-### wladimir
+* [https://www.spiegel.de/netzwelt/italien-hacker-stehlen-ausweisdaten-von-zehntausenden-hotelgaesten](https://www.spiegel.de/netzwelt/italien-hacker-stehlen-ausweisdaten-von-zehntausenden-hotelgaesten-a-99d5ca25-5b07-40f8-ae15-cafcede747fd#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketballerin-leonie-fiebich-sextoy-wuerfe-in-der-wnba-einfach-ein-bisschen-dumm](https://www.spiegel.de/sport/basketball/basketballerin-leonie-fiebich-sextoy-wuerfe-in-der-wnba-einfach-ein-bisschen-dumm-a-de27cd53-68e9-4dea-9332-8740128ca7e2#ref=rss)
+### estland
 
-* [https://www.spiegel.de/geschichte/donald-trump-trifft-wladimir-putin-erinnerungen-an-fruehere-usa-russland-gipfel](https://www.spiegel.de/geschichte/donald-trump-trifft-wladimir-putin-erinnerungen-an-fruehere-usa-russland-gipfel-a-a26cc649-d690-4434-9020-1fc0d8b6577b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cem-oezdemir-brigitte-macron-wladimir-putin-und-nordkorea](https://www.spiegel.de/politik/deutschland/news-des-tages-cem-oezdemir-brigitte-macron-wladimir-putin-und-nordkorea-a-3e2882dc-be9f-44ad-9806-d11ff0f2b662#ref=rss)
-* [https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch](https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch-a-91faa3b3-aae8-45af-953b-54f2732aa120#ref=rss)
-### fragen
+* [https://www.spiegel.de/ausland/estland-weist-hohen-russischen-diplomaten-aus](https://www.spiegel.de/ausland/estland-weist-hohen-russischen-diplomaten-aus-a-802961d3-7b58-4df0-964a-8ba6f48d30aa#ref=rss)
+### schweiz
 
-* [https://www.spiegel.de/kultur/julia-kloeckner-und-joerg-pilawa-sind-das-die-deutschen-pamela-anderson-und-liam-neeson](https://www.spiegel.de/kultur/julia-kloeckner-und-joerg-pilawa-sind-das-die-deutschen-pamela-anderson-und-liam-neeson-a-6c5c8c5c-f801-4f9f-b0cb-a93aa84a2f7c#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### brandenburg
+* [https://www.spiegel.de/wirtschaft/unternehmen/schweiz-im-zollstreit-mit-den-usa-mitten-im-globalen-wirtschaftspowerplay](https://www.spiegel.de/wirtschaft/unternehmen/schweiz-im-zollstreit-mit-den-usa-mitten-im-globalen-wirtschaftspowerplay-a-8d269d5f-684b-4687-8cdf-1ba21e912d60#ref=rss)
+### goldman
 
-* [https://www.spiegel.de/panorama/brandenburg-will-abschuss-von-mindestens-150-woelfen-jaehrlich-ermoeglichen](https://www.spiegel.de/panorama/brandenburg-will-abschuss-von-mindestens-150-woelfen-jaehrlich-ermoeglichen-a-7f0c2de1-3c0b-401b-9e6a-febd5e0f1eb6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/brandenburg-vermisste-22-jaehrige-aus-luckenwalde-tot-im-wald-entdeckt](https://www.spiegel.de/panorama/justiz/brandenburg-vermisste-22-jaehrige-aus-luckenwalde-tot-im-wald-entdeckt-a-b38a2f9d-b6e9-4e5c-bc98-4df7f1ec252b#ref=rss)
-### temperaturen
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-praesident-donald-trump-attackiert-goldman-sachs-wegen-zollanalyse](https://www.spiegel.de/wirtschaft/unternehmen/us-praesident-donald-trump-attackiert-goldman-sachs-wegen-zollanalyse-a-33059db9-8d81-4559-a40f-20876fe146da#ref=rss)
+### sachs
 
-* [https://www.spiegel.de/wirtschaft/service/hitze-in-der-wohnung-wann-sie-eine-mietminderung-erreichen-koennen](https://www.spiegel.de/wirtschaft/service/hitze-in-der-wohnung-wann-sie-eine-mietminderung-erreichen-koennen-a-9a6cfc45-c57b-45bb-8f54-e657d50e5a1d#ref=rss)
-* [https://www.spiegel.de/panorama/hitze-in-europa-gefaehrliche-temperaturen-ueber-40-grad-der-ueberblick](https://www.spiegel.de/panorama/hitze-in-europa-gefaehrliche-temperaturen-ueber-40-grad-der-ueberblick-a-1362469f-3dec-443a-ab8d-36cd999fa07f#ref=rss)
-### grad
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-praesident-donald-trump-attackiert-goldman-sachs-wegen-zollanalyse](https://www.spiegel.de/wirtschaft/unternehmen/us-praesident-donald-trump-attackiert-goldman-sachs-wegen-zollanalyse-a-33059db9-8d81-4559-a40f-20876fe146da#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/wirtschaft/service/hitze-in-der-wohnung-wann-sie-eine-mietminderung-erreichen-koennen](https://www.spiegel.de/wirtschaft/service/hitze-in-der-wohnung-wann-sie-eine-mietminderung-erreichen-koennen-a-9a6cfc45-c57b-45bb-8f54-e657d50e5a1d#ref=rss)
-* [https://www.spiegel.de/panorama/hitze-in-europa-gefaehrliche-temperaturen-ueber-40-grad-der-ueberblick](https://www.spiegel.de/panorama/hitze-in-europa-gefaehrliche-temperaturen-ueber-40-grad-der-ueberblick-a-1362469f-3dec-443a-ab8d-36cd999fa07f#ref=rss)
-### forscher
+* [https://www.spiegel.de/wirtschaft/unternehmen/us-praesident-donald-trump-attackiert-goldman-sachs-wegen-zollanalyse](https://www.spiegel.de/wirtschaft/unternehmen/us-praesident-donald-trump-attackiert-goldman-sachs-wegen-zollanalyse-a-33059db9-8d81-4559-a40f-20876fe146da#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-neubauprojekte-wegen-geldmangel-auf-der-kippe](https://www.spiegel.de/wirtschaft/deutsche-bahn-neubauprojekte-wegen-geldmangel-auf-der-kippe-a-8bde0d0e-681c-4496-98bb-c3077a4b18fc#ref=rss)
+### netanyahu
 
-* [https://www.spiegel.de/wissenschaft/klimawandel-und-artenvielfalt-hitzewellen-setzen-tropischen-voegeln-zu](https://www.spiegel.de/wissenschaft/klimawandel-und-artenvielfalt-hitzewellen-setzen-tropischen-voegeln-zu-a-0d102af6-5900-44b9-b888-91cd4c8aaaba#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wale-und-delfine-spielen-miteinander](https://www.spiegel.de/wissenschaft/natur/wale-und-delfine-spielen-miteinander-a-3d641227-48cc-44b1-b3ff-5888f9da70d0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ein-asteroiden-einschlag-ist-wahrscheinlicher-als-vom-blitz-getroffen-zu-werden](https://www.spiegel.de/wissenschaft/ein-asteroiden-einschlag-ist-wahrscheinlicher-als-vom-blitz-getroffen-zu-werden-a-b104c199-e201-44a9-a696-dd317cfda4f7#ref=rss)
-### zahlt
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-neuseelands-premier-meint-israels-regierungschef-habe-den-verstand-verloren](https://www.spiegel.de/ausland/benjamin-netanyahu-neuseelands-premier-meint-israels-regierungschef-habe-den-verstand-verloren-a-f5c18702-3c75-4532-84d8-af0a8d852fb1#ref=rss)
+### neuseelands
 
-* [https://www.spiegel.de/wirtschaft/soziales/alleinerziehende-staat-zahlt-mehr-als-drei-milliarden-unterhaltsvorschuss](https://www.spiegel.de/wirtschaft/soziales/alleinerziehende-staat-zahlt-mehr-als-drei-milliarden-unterhaltsvorschuss-a-a91d16eb-591f-4ce0-b4e1-5fbc4427922e#ref=rss)
-### miguel
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-neuseelands-premier-meint-israels-regierungschef-habe-den-verstand-verloren](https://www.spiegel.de/ausland/benjamin-netanyahu-neuseelands-premier-meint-israels-regierungschef-habe-den-verstand-verloren-a-f5c18702-3c75-4532-84d8-af0a8d852fb1#ref=rss)
+### israels
 
-* [https://www.spiegel.de/ausland/kolumbien-attentat-auf-miguel-uribe-schuesse-die-das-land-ins-mark-treffen](https://www.spiegel.de/ausland/kolumbien-attentat-auf-miguel-uribe-schuesse-die-das-land-ins-mark-treffen-a-e4818442-0926-4144-bdbe-b98cb6849ac3#ref=rss)
-### anfang
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-neuseelands-premier-meint-israels-regierungschef-habe-den-verstand-verloren](https://www.spiegel.de/ausland/benjamin-netanyahu-neuseelands-premier-meint-israels-regierungschef-habe-den-verstand-verloren-a-f5c18702-3c75-4532-84d8-af0a8d852fb1#ref=rss)
+### verstand
 
-* [https://www.spiegel.de/ausland/kolumbien-attentat-auf-miguel-uribe-schuesse-die-das-land-ins-mark-treffen](https://www.spiegel.de/ausland/kolumbien-attentat-auf-miguel-uribe-schuesse-die-das-land-ins-mark-treffen-a-e4818442-0926-4144-bdbe-b98cb6849ac3#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-litauen-will-zivilisten-an-drohnen-ausbilden-auch-schulkinder](https://www.spiegel.de/ausland/russland-ukraine-krieg-litauen-will-zivilisten-an-drohnen-ausbilden-auch-schulkinder-a-469720f8-7498-4423-83cf-543cf61d783e#ref=rss)
-### lyten
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-neuseelands-premier-meint-israels-regierungschef-habe-den-verstand-verloren](https://www.spiegel.de/ausland/benjamin-netanyahu-neuseelands-premier-meint-israels-regierungschef-habe-den-verstand-verloren-a-f5c18702-3c75-4532-84d8-af0a8d852fb1#ref=rss)
+### verloren
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lyten-northvolt-investor-will-offenbar-weitere-steuergelder-fuer-insolventen-batteriezellhersteller](https://www.spiegel.de/wirtschaft/unternehmen/lyten-northvolt-investor-will-offenbar-weitere-steuergelder-fuer-insolventen-batteriezellhersteller-a-6656eed4-d5a6-4098-b843-0d0bd89f30c4#ref=rss)
-### drohnen
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-neuseelands-premier-meint-israels-regierungschef-habe-den-verstand-verloren](https://www.spiegel.de/ausland/benjamin-netanyahu-neuseelands-premier-meint-israels-regierungschef-habe-den-verstand-verloren-a-f5c18702-3c75-4532-84d8-af0a8d852fb1#ref=rss)
+### ministerpräsident
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-litauen-will-zivilisten-an-drohnen-ausbilden-auch-schulkinder](https://www.spiegel.de/ausland/russland-ukraine-krieg-litauen-will-zivilisten-an-drohnen-ausbilden-auch-schulkinder-a-469720f8-7498-4423-83cf-543cf61d783e#ref=rss)
-### rund
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-neuseelands-premier-meint-israels-regierungschef-habe-den-verstand-verloren](https://www.spiegel.de/ausland/benjamin-netanyahu-neuseelands-premier-meint-israels-regierungschef-habe-den-verstand-verloren-a-f5c18702-3c75-4532-84d8-af0a8d852fb1#ref=rss)
+### taleb
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-litauen-will-zivilisten-an-drohnen-ausbilden-auch-schulkinder](https://www.spiegel.de/ausland/russland-ukraine-krieg-litauen-will-zivilisten-an-drohnen-ausbilden-auch-schulkinder-a-469720f8-7498-4423-83cf-543cf61d783e#ref=rss)
-* [https://www.spiegel.de/ausland/usa-pentagon-plant-offenbar-schnelle-eingreiftruppe-im-inland](https://www.spiegel.de/ausland/usa-pentagon-plant-offenbar-schnelle-eingreiftruppe-im-inland-a-55abf016-ca38-4a86-9fd1-857e581fc768#ref=rss)
-### 7000
+* [https://www.spiegel.de/panorama/justiz/magdeburg-attentaeter-taleb-al-abdulmohsen-wendet-sich-an-medien](https://www.spiegel.de/panorama/justiz/magdeburg-attentaeter-taleb-al-abdulmohsen-wendet-sich-an-medien-a-8327a8d6-a195-4b5e-9fed-c3dd5f3a183c#ref=rss)
+### al
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-litauen-will-zivilisten-an-drohnen-ausbilden-auch-schulkinder](https://www.spiegel.de/ausland/russland-ukraine-krieg-litauen-will-zivilisten-an-drohnen-ausbilden-auch-schulkinder-a-469720f8-7498-4423-83cf-543cf61d783e#ref=rss)
-* [https://www.spiegel.de/start/rottenburg-am-neckar-abistreich-kostet-gymnasiasten-7000-euro](https://www.spiegel.de/start/rottenburg-am-neckar-abistreich-kostet-gymnasiasten-7000-euro-a-1dacced9-dc69-4c20-8d10-7a758eb4b6c7#ref=rss)
-### kinder
+* [https://www.spiegel.de/panorama/justiz/magdeburg-attentaeter-taleb-al-abdulmohsen-wendet-sich-an-medien](https://www.spiegel.de/panorama/justiz/magdeburg-attentaeter-taleb-al-abdulmohsen-wendet-sich-an-medien-a-8327a8d6-a195-4b5e-9fed-c3dd5f3a183c#ref=rss)
+### abdulmohsen
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-litauen-will-zivilisten-an-drohnen-ausbilden-auch-schulkinder](https://www.spiegel.de/ausland/russland-ukraine-krieg-litauen-will-zivilisten-an-drohnen-ausbilden-auch-schulkinder-a-469720f8-7498-4423-83cf-543cf61d783e#ref=rss)
-* [https://www.spiegel.de/panorama/dresden-aerger-um-gesperrten-selbstgemalten-zebrastreifen](https://www.spiegel.de/panorama/dresden-aerger-um-gesperrten-selbstgemalten-zebrastreifen-a-58c7517c-5711-48c6-b901-e7bbc91cb4c6#ref=rss)
-### erst
+* [https://www.spiegel.de/panorama/justiz/magdeburg-attentaeter-taleb-al-abdulmohsen-wendet-sich-an-medien](https://www.spiegel.de/panorama/justiz/magdeburg-attentaeter-taleb-al-abdulmohsen-wendet-sich-an-medien-a-8327a8d6-a195-4b5e-9fed-c3dd5f3a183c#ref=rss)
+### wochen
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-litauen-will-zivilisten-an-drohnen-ausbilden-auch-schulkinder](https://www.spiegel.de/ausland/russland-ukraine-krieg-litauen-will-zivilisten-an-drohnen-ausbilden-auch-schulkinder-a-469720f8-7498-4423-83cf-543cf61d783e#ref=rss)
-* [https://www.spiegel.de/panorama/a8-bei-holzkirchen-eltern-vergessen-zehnjaehrigen-sohn-an-tankstelle-bei-urlaubsfahrt](https://www.spiegel.de/panorama/a8-bei-holzkirchen-eltern-vergessen-zehnjaehrigen-sohn-an-tankstelle-bei-urlaubsfahrt-a-909260e5-893a-43ae-bad2-21f17e1310df#ref=rss)
-### anna
+* [https://www.spiegel.de/panorama/justiz/magdeburg-attentaeter-taleb-al-abdulmohsen-wendet-sich-an-medien](https://www.spiegel.de/panorama/justiz/magdeburg-attentaeter-taleb-al-abdulmohsen-wendet-sich-an-medien-a-8327a8d6-a195-4b5e-9fed-c3dd5f3a183c#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketballerin-leonie-fiebich-sextoy-wuerfe-in-der-wnba-einfach-ein-bisschen-dumm](https://www.spiegel.de/sport/basketball/basketballerin-leonie-fiebich-sextoy-wuerfe-in-der-wnba-einfach-ein-bisschen-dumm-a-de27cd53-68e9-4dea-9332-8740128ca7e2#ref=rss)
+### neues
 
-* [https://www.spiegel.de/panorama/anna-sorokin-hochstaplerin-in-kaninchen-skandal-verwickelt](https://www.spiegel.de/panorama/anna-sorokin-hochstaplerin-in-kaninchen-skandal-verwickelt-a-8f18ea83-58fb-4579-abb1-82eb1e6f5124#ref=rss)
-### sorokin
+* [https://www.spiegel.de/auto/neues-verkehrszeichen-in-hessen-schilder-warnen-vor-tieffliegenden-stoerchen](https://www.spiegel.de/auto/neues-verkehrszeichen-in-hessen-schilder-warnen-vor-tieffliegenden-stoerchen-a-2bb40a9f-a91a-4013-8cc8-bce355964cf8#ref=rss)
+* [https://www.spiegel.de/panorama/uvalde-in-texas-neue-videos-und-audios-belegen-planlosigkeit-der-polizei](https://www.spiegel.de/panorama/uvalde-in-texas-neue-videos-und-audios-belegen-planlosigkeit-der-polizei-a-a21a6a0d-d2bc-4e29-916e-10ce87c23ac9#ref=rss)
+### warnen
 
-* [https://www.spiegel.de/panorama/anna-sorokin-hochstaplerin-in-kaninchen-skandal-verwickelt](https://www.spiegel.de/panorama/anna-sorokin-hochstaplerin-in-kaninchen-skandal-verwickelt-a-8f18ea83-58fb-4579-abb1-82eb1e6f5124#ref=rss)
-### verwickelt
+* [https://www.spiegel.de/auto/neues-verkehrszeichen-in-hessen-schilder-warnen-vor-tieffliegenden-stoerchen](https://www.spiegel.de/auto/neues-verkehrszeichen-in-hessen-schilder-warnen-vor-tieffliegenden-stoerchen-a-2bb40a9f-a91a-4013-8cc8-bce355964cf8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-neubauprojekte-wegen-geldmangel-auf-der-kippe](https://www.spiegel.de/wirtschaft/deutsche-bahn-neubauprojekte-wegen-geldmangel-auf-der-kippe-a-8bde0d0e-681c-4496-98bb-c3077a4b18fc#ref=rss)
+### störchen
 
-* [https://www.spiegel.de/panorama/anna-sorokin-hochstaplerin-in-kaninchen-skandal-verwickelt](https://www.spiegel.de/panorama/anna-sorokin-hochstaplerin-in-kaninchen-skandal-verwickelt-a-8f18ea83-58fb-4579-abb1-82eb1e6f5124#ref=rss)
+* [https://www.spiegel.de/auto/neues-verkehrszeichen-in-hessen-schilder-warnen-vor-tieffliegenden-stoerchen](https://www.spiegel.de/auto/neues-verkehrszeichen-in-hessen-schilder-warnen-vor-tieffliegenden-stoerchen-a-2bb40a9f-a91a-4013-8cc8-bce355964cf8#ref=rss)
+### ukrainische
+
+* [https://www.spiegel.de/ausland/gipfel-in-alaska-so-stemmt-sich-wolodymyr-selenskyj-gegen-einen-trump-putin-pakt](https://www.spiegel.de/ausland/gipfel-in-alaska-so-stemmt-sich-wolodymyr-selenskyj-gegen-einen-trump-putin-pakt-a-40e22720-3429-41b8-978e-e3d5c74b90eb#ref=rss)
+* [https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin](https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin-a-2a2a4bb7-e343-4ec3-8f28-59adfdb4dee1#ref=rss)
+### japan
+
+* [https://www.spiegel.de/wirtschaft/mcdonalds-in-japan-stoppt-pokemon-aktion-im-happy-meal-nach-berichten-ueber-lebensmittelverschwendung](https://www.spiegel.de/wirtschaft/mcdonalds-in-japan-stoppt-pokemon-aktion-im-happy-meal-nach-berichten-ueber-lebensmittelverschwendung-a-13fec9c7-1987-40ef-9e10-aa8e3cf14a69#ref=rss)
+### ulli
+
+* [https://www.spiegel.de/panorama/leute/ulli-potofski-verstorbener-sportmoderator-hoffte-bis-zum-tod-auf-knochenmarkspende](https://www.spiegel.de/panorama/leute/ulli-potofski-verstorbener-sportmoderator-hoffte-bis-zum-tod-auf-knochenmarkspende-a-acc0cc70-0eb9-40a6-ba3b-9d8846832ddb#ref=rss)
+### potofski
+
+* [https://www.spiegel.de/panorama/leute/ulli-potofski-verstorbener-sportmoderator-hoffte-bis-zum-tod-auf-knochenmarkspende](https://www.spiegel.de/panorama/leute/ulli-potofski-verstorbener-sportmoderator-hoffte-bis-zum-tod-auf-knochenmarkspende-a-acc0cc70-0eb9-40a6-ba3b-9d8846832ddb#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/panorama/leute/ulli-potofski-verstorbener-sportmoderator-hoffte-bis-zum-tod-auf-knochenmarkspende](https://www.spiegel.de/panorama/leute/ulli-potofski-verstorbener-sportmoderator-hoffte-bis-zum-tod-auf-knochenmarkspende-a-acc0cc70-0eb9-40a6-ba3b-9d8846832ddb#ref=rss)
+* [https://www.spiegel.de/panorama/uvalde-in-texas-neue-videos-und-audios-belegen-planlosigkeit-der-polizei](https://www.spiegel.de/panorama/uvalde-in-texas-neue-videos-und-audios-belegen-planlosigkeit-der-polizei-a-a21a6a0d-d2bc-4e29-916e-10ce87c23ac9#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/panorama/leute/ulli-potofski-verstorbener-sportmoderator-hoffte-bis-zum-tod-auf-knochenmarkspende](https://www.spiegel.de/panorama/leute/ulli-potofski-verstorbener-sportmoderator-hoffte-bis-zum-tod-auf-knochenmarkspende-a-acc0cc70-0eb9-40a6-ba3b-9d8846832ddb#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-drogenpolitik-feuert-er-bald-raketen-auf-mexiko](https://www.spiegel.de/ausland/donald-trumps-drogenpolitik-feuert-er-bald-raketen-auf-mexiko-a-2d775741-34af-4c4a-9d30-208344a3f4eb#ref=rss)
+### homeoffice
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-und-mobiles-arbeiten-was-firmen-schaetzen](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-und-mobiles-arbeiten-was-firmen-schaetzen-a-1659e8be-8c83-436e-920d-8698c27217c4#ref=rss)
+### ende
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-und-mobiles-arbeiten-was-firmen-schaetzen](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-und-mobiles-arbeiten-was-firmen-schaetzen-a-1659e8be-8c83-436e-920d-8698c27217c4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/fuer-kodak-koennte-komplett-schluss-sein-nach-mehr-als-130-jahren](https://www.spiegel.de/wirtschaft/unternehmen/fuer-kodak-koennte-komplett-schluss-sein-nach-mehr-als-130-jahren-a-d50c9d4d-c75b-4201-bf60-9bdc0750f323#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/ausland/inflation-in-oesterreich-gefangen-in-der-teuerungsfalle](https://www.spiegel.de/ausland/inflation-in-oesterreich-gefangen-in-der-teuerungsfalle-a-fee87822-540a-4f70-a94a-60b87eaff735#ref=rss)
+### world
+
+* [https://www.spiegel.de/sport/world-games-in-china-orientierungslaeufer-mattia-debertolis-stirbt-bei-wettkampf](https://www.spiegel.de/sport/world-games-in-china-orientierungslaeufer-mattia-debertolis-stirbt-bei-wettkampf-a-3bcc560a-b55d-48e3-b76b-92a319f07e40#ref=rss)
+### games
+
+* [https://www.spiegel.de/sport/world-games-in-china-orientierungslaeufer-mattia-debertolis-stirbt-bei-wettkampf](https://www.spiegel.de/sport/world-games-in-china-orientierungslaeufer-mattia-debertolis-stirbt-bei-wettkampf-a-3bcc560a-b55d-48e3-b76b-92a319f07e40#ref=rss)
+### orientierungsläufer
+
+* [https://www.spiegel.de/sport/world-games-in-china-orientierungslaeufer-mattia-debertolis-stirbt-bei-wettkampf](https://www.spiegel.de/sport/world-games-in-china-orientierungslaeufer-mattia-debertolis-stirbt-bei-wettkampf-a-3bcc560a-b55d-48e3-b76b-92a319f07e40#ref=rss)
+### mattia
+
+* [https://www.spiegel.de/sport/world-games-in-china-orientierungslaeufer-mattia-debertolis-stirbt-bei-wettkampf](https://www.spiegel.de/sport/world-games-in-china-orientierungslaeufer-mattia-debertolis-stirbt-bei-wettkampf-a-3bcc560a-b55d-48e3-b76b-92a319f07e40#ref=rss)
+### debertolis
+
+* [https://www.spiegel.de/sport/world-games-in-china-orientierungslaeufer-mattia-debertolis-stirbt-bei-wettkampf](https://www.spiegel.de/sport/world-games-in-china-orientierungslaeufer-mattia-debertolis-stirbt-bei-wettkampf-a-3bcc560a-b55d-48e3-b76b-92a319f07e40#ref=rss)
+### neue
+
+* [https://www.spiegel.de/politik/deutschland/quiz-zu-100-tage-schwarz-rot-wer-hats-gesagt](https://www.spiegel.de/politik/deutschland/quiz-zu-100-tage-schwarz-rot-wer-hats-gesagt-a-6a66484e-2749-4c53-bd2b-6e447043701d#ref=rss)
+* [https://www.spiegel.de/panorama/uvalde-in-texas-neue-videos-und-audios-belegen-planlosigkeit-der-polizei](https://www.spiegel.de/panorama/uvalde-in-texas-neue-videos-und-audios-belegen-planlosigkeit-der-polizei-a-a21a6a0d-d2bc-4e29-916e-10ce87c23ac9#ref=rss)
+### perser
+
+* [https://www.spiegel.de/geschichte/antike-klimaanlagen-wie-perser-araber-aegypter-und-roemer-ihre-haeuser-kuehlten](https://www.spiegel.de/geschichte/antike-klimaanlagen-wie-perser-araber-aegypter-und-roemer-ihre-haeuser-kuehlten-a-84e6a8ee-1fe1-40af-b572-4cafbabb4099#ref=rss)
+### araber
+
+* [https://www.spiegel.de/geschichte/antike-klimaanlagen-wie-perser-araber-aegypter-und-roemer-ihre-haeuser-kuehlten](https://www.spiegel.de/geschichte/antike-klimaanlagen-wie-perser-araber-aegypter-und-roemer-ihre-haeuser-kuehlten-a-84e6a8ee-1fe1-40af-b572-4cafbabb4099#ref=rss)
+### ägypter
+
+* [https://www.spiegel.de/geschichte/antike-klimaanlagen-wie-perser-araber-aegypter-und-roemer-ihre-haeuser-kuehlten](https://www.spiegel.de/geschichte/antike-klimaanlagen-wie-perser-araber-aegypter-und-roemer-ihre-haeuser-kuehlten-a-84e6a8ee-1fe1-40af-b572-4cafbabb4099#ref=rss)
+### römer
+
+* [https://www.spiegel.de/geschichte/antike-klimaanlagen-wie-perser-araber-aegypter-und-roemer-ihre-haeuser-kuehlten](https://www.spiegel.de/geschichte/antike-klimaanlagen-wie-perser-araber-aegypter-und-roemer-ihre-haeuser-kuehlten-a-84e6a8ee-1fe1-40af-b572-4cafbabb4099#ref=rss)
+### häuser
+
+* [https://www.spiegel.de/geschichte/antike-klimaanlagen-wie-perser-araber-aegypter-und-roemer-ihre-haeuser-kuehlten](https://www.spiegel.de/geschichte/antike-klimaanlagen-wie-perser-araber-aegypter-und-roemer-ihre-haeuser-kuehlten-a-84e6a8ee-1fe1-40af-b572-4cafbabb4099#ref=rss)
+### kühlten
+
+* [https://www.spiegel.de/geschichte/antike-klimaanlagen-wie-perser-araber-aegypter-und-roemer-ihre-haeuser-kuehlten](https://www.spiegel.de/geschichte/antike-klimaanlagen-wie-perser-araber-aegypter-und-roemer-ihre-haeuser-kuehlten-a-84e6a8ee-1fe1-40af-b572-4cafbabb4099#ref=rss)
+### teilzeitquote
+
+* [https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent](https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent-a-f8d00a6b-2dda-435b-b2e5-54a9bd798f6c#ref=rss)
+### lehrkräften
+
+* [https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent](https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent-a-f8d00a6b-2dda-435b-b2e5-54a9bd798f6c#ref=rss)
+### 43
+
+* [https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent](https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent-a-f8d00a6b-2dda-435b-b2e5-54a9bd798f6c#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent](https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent-a-f8d00a6b-2dda-435b-b2e5-54a9bd798f6c#ref=rss)
 ### neuen
 
-* [https://www.spiegel.de/panorama/anna-sorokin-hochstaplerin-in-kaninchen-skandal-verwickelt](https://www.spiegel.de/panorama/anna-sorokin-hochstaplerin-in-kaninchen-skandal-verwickelt-a-8f18ea83-58fb-4579-abb1-82eb1e6f5124#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-stoesst-im-donbass-vor-die-front-broeckelt](https://www.spiegel.de/ausland/ukraine-krieg-russland-stoesst-im-donbass-vor-die-front-broeckelt-a-2eda6220-7e33-4fb7-862e-0455d38f3142#ref=rss)
-### geld
+* [https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent](https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent-a-f8d00a6b-2dda-435b-b2e5-54a9bd798f6c#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/anna-sorokin-hochstaplerin-in-kaninchen-skandal-verwickelt](https://www.spiegel.de/panorama/anna-sorokin-hochstaplerin-in-kaninchen-skandal-verwickelt-a-8f18ea83-58fb-4579-abb1-82eb1e6f5124#ref=rss)
-* [https://www.spiegel.de/start/rottenburg-am-neckar-abistreich-kostet-gymnasiasten-7000-euro](https://www.spiegel.de/start/rottenburg-am-neckar-abistreich-kostet-gymnasiasten-7000-euro-a-1dacced9-dc69-4c20-8d10-7a758eb4b6c7#ref=rss)
-### dresden
+* [https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent](https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent-a-f8d00a6b-2dda-435b-b2e5-54a9bd798f6c#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketballerin-leonie-fiebich-sextoy-wuerfe-in-der-wnba-einfach-ein-bisschen-dumm](https://www.spiegel.de/sport/basketball/basketballerin-leonie-fiebich-sextoy-wuerfe-in-der-wnba-einfach-ein-bisschen-dumm-a-de27cd53-68e9-4dea-9332-8740128ca7e2#ref=rss)
+### erfolge
 
-* [https://www.spiegel.de/panorama/dresden-aerger-um-gesperrten-selbstgemalten-zebrastreifen](https://www.spiegel.de/panorama/dresden-aerger-um-gesperrten-selbstgemalten-zebrastreifen-a-58c7517c-5711-48c6-b901-e7bbc91cb4c6#ref=rss)
-### zebrastreifen
+* [https://www.spiegel.de/politik/100-tage-friedrich-merz-und-seine-koalition-wo-steht-schwarz-rot-jetzt](https://www.spiegel.de/politik/100-tage-friedrich-merz-und-seine-koalition-wo-steht-schwarz-rot-jetzt-a-bdcfef67-6d86-4607-8ea5-dcd173a569b5#ref=rss)
+### tagen
 
-* [https://www.spiegel.de/panorama/dresden-aerger-um-gesperrten-selbstgemalten-zebrastreifen](https://www.spiegel.de/panorama/dresden-aerger-um-gesperrten-selbstgemalten-zebrastreifen-a-58c7517c-5711-48c6-b901-e7bbc91cb4c6#ref=rss)
-### stadt
+* [https://www.spiegel.de/politik/100-tage-friedrich-merz-und-seine-koalition-wo-steht-schwarz-rot-jetzt](https://www.spiegel.de/politik/100-tage-friedrich-merz-und-seine-koalition-wo-steht-schwarz-rot-jetzt-a-bdcfef67-6d86-4607-8ea5-dcd173a569b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung](https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung-a-202f9859-38b1-43ff-8ebd-e33c5b03c021#ref=rss)
+### jimmy
 
-* [https://www.spiegel.de/panorama/dresden-aerger-um-gesperrten-selbstgemalten-zebrastreifen](https://www.spiegel.de/panorama/dresden-aerger-um-gesperrten-selbstgemalten-zebrastreifen-a-58c7517c-5711-48c6-b901-e7bbc91cb4c6#ref=rss)
-* [https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch](https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch-a-91faa3b3-aae8-45af-953b-54f2732aa120#ref=rss)
-### ron
+* [https://www.spiegel.de/kultur/jimmy-kimmel-comedian-ist-wegen-donald-trump-jetzt-auch-italiener](https://www.spiegel.de/kultur/jimmy-kimmel-comedian-ist-wegen-donald-trump-jetzt-auch-italiener-a-a36a4012-2012-45e5-b480-9fa49bb876a1#ref=rss)
+### kimmel
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-israel-botschafter-ron-prosor-nennt-beschraenkung-der-waffenlieferungen-ein-fest-fuer-hamas](https://www.spiegel.de/politik/deutschland/friedrich-merz-israel-botschafter-ron-prosor-nennt-beschraenkung-der-waffenlieferungen-ein-fest-fuer-hamas-a-83e26838-c837-4d08-b79f-b904adad092c#ref=rss)
-### prosor
+* [https://www.spiegel.de/kultur/jimmy-kimmel-comedian-ist-wegen-donald-trump-jetzt-auch-italiener](https://www.spiegel.de/kultur/jimmy-kimmel-comedian-ist-wegen-donald-trump-jetzt-auch-italiener-a-a36a4012-2012-45e5-b480-9fa49bb876a1#ref=rss)
+### viele
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-israel-botschafter-ron-prosor-nennt-beschraenkung-der-waffenlieferungen-ein-fest-fuer-hamas](https://www.spiegel.de/politik/deutschland/friedrich-merz-israel-botschafter-ron-prosor-nennt-beschraenkung-der-waffenlieferungen-ein-fest-fuer-hamas-a-83e26838-c837-4d08-b79f-b904adad092c#ref=rss)
-### beschränkung
+* [https://www.spiegel.de/kultur/jimmy-kimmel-comedian-ist-wegen-donald-trump-jetzt-auch-italiener](https://www.spiegel.de/kultur/jimmy-kimmel-comedian-ist-wegen-donald-trump-jetzt-auch-italiener-a-a36a4012-2012-45e5-b480-9fa49bb876a1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-drogenpolitik-feuert-er-bald-raketen-auf-mexiko](https://www.spiegel.de/ausland/donald-trumps-drogenpolitik-feuert-er-bald-raketen-auf-mexiko-a-2d775741-34af-4c4a-9d30-208344a3f4eb#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-israel-botschafter-ron-prosor-nennt-beschraenkung-der-waffenlieferungen-ein-fest-fuer-hamas](https://www.spiegel.de/politik/deutschland/friedrich-merz-israel-botschafter-ron-prosor-nennt-beschraenkung-der-waffenlieferungen-ein-fest-fuer-hamas-a-83e26838-c837-4d08-b79f-b904adad092c#ref=rss)
-### waffenlieferungen
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-neubauprojekte-wegen-geldmangel-auf-der-kippe](https://www.spiegel.de/wirtschaft/deutsche-bahn-neubauprojekte-wegen-geldmangel-auf-der-kippe-a-8bde0d0e-681c-4496-98bb-c3077a4b18fc#ref=rss)
+### antifeminismus
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-israel-botschafter-ron-prosor-nennt-beschraenkung-der-waffenlieferungen-ein-fest-fuer-hamas](https://www.spiegel.de/politik/deutschland/friedrich-merz-israel-botschafter-ron-prosor-nennt-beschraenkung-der-waffenlieferungen-ein-fest-fuer-hamas-a-83e26838-c837-4d08-b79f-b904adad092c#ref=rss)
-### trifft
+* [https://www.spiegel.de/panorama/meldestelle-fuer-antifeminismus-verzeichnet-2024-ueber-500-vorfaelle](https://www.spiegel.de/panorama/meldestelle-fuer-antifeminismus-verzeichnet-2024-ueber-500-vorfaelle-a-b2d805a5-caad-4e88-8c5f-adbf80d48f71#ref=rss)
+### meldestelle
 
-* [https://www.spiegel.de/geschichte/donald-trump-trifft-wladimir-putin-erinnerungen-an-fruehere-usa-russland-gipfel](https://www.spiegel.de/geschichte/donald-trump-trifft-wladimir-putin-erinnerungen-an-fruehere-usa-russland-gipfel-a-a26cc649-d690-4434-9020-1fc0d8b6577b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ein-asteroiden-einschlag-ist-wahrscheinlicher-als-vom-blitz-getroffen-zu-werden](https://www.spiegel.de/wissenschaft/ein-asteroiden-einschlag-ist-wahrscheinlicher-als-vom-blitz-getroffen-zu-werden-a-b104c199-e201-44a9-a696-dd317cfda4f7#ref=rss)
-### china
+* [https://www.spiegel.de/panorama/meldestelle-fuer-antifeminismus-verzeichnet-2024-ueber-500-vorfaelle](https://www.spiegel.de/panorama/meldestelle-fuer-antifeminismus-verzeichnet-2024-ueber-500-vorfaelle-a-b2d805a5-caad-4e88-8c5f-adbf80d48f71#ref=rss)
+### meinung
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-knickt-im-zoll-streit-mit-china-ein-sicherheitsexperten-sind-entsetzt](https://www.spiegel.de/wirtschaft/donald-trump-knickt-im-zoll-streit-mit-china-ein-sicherheitsexperten-sind-entsetzt-a-f38cb59d-d603-4a31-90a7-157a24066b71#ref=rss)
-### sicherheitsexperten
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung](https://www.spiegel.de/politik/deutschland/friedrich-merz-100-tage-im-amt-merz-hat-ein-fuehrungsproblem-meinung-a-202f9859-38b1-43ff-8ebd-e33c5b03c021#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketballerin-leonie-fiebich-sextoy-wuerfe-in-der-wnba-einfach-ein-bisschen-dumm](https://www.spiegel.de/sport/basketball/basketballerin-leonie-fiebich-sextoy-wuerfe-in-der-wnba-einfach-ein-bisschen-dumm-a-de27cd53-68e9-4dea-9332-8740128ca7e2#ref=rss)
+### bald
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-knickt-im-zoll-streit-mit-china-ein-sicherheitsexperten-sind-entsetzt](https://www.spiegel.de/wirtschaft/donald-trump-knickt-im-zoll-streit-mit-china-ein-sicherheitsexperten-sind-entsetzt-a-f38cb59d-d603-4a31-90a7-157a24066b71#ref=rss)
-### entsetzt
+* [https://www.spiegel.de/ausland/donald-trumps-drogenpolitik-feuert-er-bald-raketen-auf-mexiko](https://www.spiegel.de/ausland/donald-trumps-drogenpolitik-feuert-er-bald-raketen-auf-mexiko-a-2d775741-34af-4c4a-9d30-208344a3f4eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/strompreise-norddeutsche-regierungschefs-gemeinsam-fuer-unterschiedliche-zonen](https://www.spiegel.de/wirtschaft/unternehmen/strompreise-norddeutsche-regierungschefs-gemeinsam-fuer-unterschiedliche-zonen-a-11712dd5-4b91-4557-9894-06f7f56c3768#ref=rss)
+### mexiko
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-knickt-im-zoll-streit-mit-china-ein-sicherheitsexperten-sind-entsetzt](https://www.spiegel.de/wirtschaft/donald-trump-knickt-im-zoll-streit-mit-china-ein-sicherheitsexperten-sind-entsetzt-a-f38cb59d-d603-4a31-90a7-157a24066b71#ref=rss)
-### usregierung
+* [https://www.spiegel.de/ausland/donald-trumps-drogenpolitik-feuert-er-bald-raketen-auf-mexiko](https://www.spiegel.de/ausland/donald-trumps-drogenpolitik-feuert-er-bald-raketen-auf-mexiko-a-2d775741-34af-4c4a-9d30-208344a3f4eb#ref=rss)
+### regierungschefs
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-knickt-im-zoll-streit-mit-china-ein-sicherheitsexperten-sind-entsetzt](https://www.spiegel.de/wirtschaft/donald-trump-knickt-im-zoll-streit-mit-china-ein-sicherheitsexperten-sind-entsetzt-a-f38cb59d-d603-4a31-90a7-157a24066b71#ref=rss)
-* [https://www.spiegel.de/ausland/usa-pentagon-plant-offenbar-schnelle-eingreiftruppe-im-inland](https://www.spiegel.de/ausland/usa-pentagon-plant-offenbar-schnelle-eingreiftruppe-im-inland-a-55abf016-ca38-4a86-9fd1-857e581fc768#ref=rss)
-### brigitte
+* [https://www.spiegel.de/wirtschaft/unternehmen/strompreise-norddeutsche-regierungschefs-gemeinsam-fuer-unterschiedliche-zonen](https://www.spiegel.de/wirtschaft/unternehmen/strompreise-norddeutsche-regierungschefs-gemeinsam-fuer-unterschiedliche-zonen-a-11712dd5-4b91-4557-9894-06f7f56c3768#ref=rss)
+### gemeinsam
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cem-oezdemir-brigitte-macron-wladimir-putin-und-nordkorea](https://www.spiegel.de/politik/deutschland/news-des-tages-cem-oezdemir-brigitte-macron-wladimir-putin-und-nordkorea-a-3e2882dc-be9f-44ad-9806-d11ff0f2b662#ref=rss)
-### macron
+* [https://www.spiegel.de/wirtschaft/unternehmen/strompreise-norddeutsche-regierungschefs-gemeinsam-fuer-unterschiedliche-zonen](https://www.spiegel.de/wirtschaft/unternehmen/strompreise-norddeutsche-regierungschefs-gemeinsam-fuer-unterschiedliche-zonen-a-11712dd5-4b91-4557-9894-06f7f56c3768#ref=rss)
+* [https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin](https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin-a-2a2a4bb7-e343-4ec3-8f28-59adfdb4dee1#ref=rss)
+### videoschalte
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cem-oezdemir-brigitte-macron-wladimir-putin-und-nordkorea](https://www.spiegel.de/politik/deutschland/news-des-tages-cem-oezdemir-brigitte-macron-wladimir-putin-und-nordkorea-a-3e2882dc-be9f-44ad-9806-d11ff0f2b662#ref=rss)
-### russland
+* [https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin](https://www.spiegel.de/politik/ukrainischer-praesident-wolodymyr-selenskyj-reist-fuer-videoschalte-mit-donald-trump-nach-berlin-a-2a2a4bb7-e343-4ec3-8f28-59adfdb4dee1#ref=rss)
+### wnba
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cem-oezdemir-brigitte-macron-wladimir-putin-und-nordkorea](https://www.spiegel.de/politik/deutschland/news-des-tages-cem-oezdemir-brigitte-macron-wladimir-putin-und-nordkorea-a-3e2882dc-be9f-44ad-9806-d11ff0f2b662#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-stoesst-im-donbass-vor-die-front-broeckelt](https://www.spiegel.de/ausland/ukraine-krieg-russland-stoesst-im-donbass-vor-die-front-broeckelt-a-2eda6220-7e33-4fb7-862e-0455d38f3142#ref=rss)
-### usa
+* [https://www.spiegel.de/sport/basketball/basketballerin-leonie-fiebich-sextoy-wuerfe-in-der-wnba-einfach-ein-bisschen-dumm](https://www.spiegel.de/sport/basketball/basketballerin-leonie-fiebich-sextoy-wuerfe-in-der-wnba-einfach-ein-bisschen-dumm-a-de27cd53-68e9-4dea-9332-8740128ca7e2#ref=rss)
+### leonie
 
-* [https://www.spiegel.de/ausland/usa-pentagon-plant-offenbar-schnelle-eingreiftruppe-im-inland](https://www.spiegel.de/ausland/usa-pentagon-plant-offenbar-schnelle-eingreiftruppe-im-inland-a-55abf016-ca38-4a86-9fd1-857e581fc768#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-europa-unterstuetzt-das-land-staerker-als-die-usa-ifw-analyse](https://www.spiegel.de/ausland/ukraine-europa-unterstuetzt-das-land-staerker-als-die-usa-ifw-analyse-a-f34cc7ac-7f8a-495b-952b-f80074e66069#ref=rss)
-### hitze
+* [https://www.spiegel.de/sport/basketball/basketballerin-leonie-fiebich-sextoy-wuerfe-in-der-wnba-einfach-ein-bisschen-dumm](https://www.spiegel.de/sport/basketball/basketballerin-leonie-fiebich-sextoy-wuerfe-in-der-wnba-einfach-ein-bisschen-dumm-a-de27cd53-68e9-4dea-9332-8740128ca7e2#ref=rss)
+### fiebich
 
-* [https://www.spiegel.de/wirtschaft/service/hitze-in-der-wohnung-wann-sie-eine-mietminderung-erreichen-koennen](https://www.spiegel.de/wirtschaft/service/hitze-in-der-wohnung-wann-sie-eine-mietminderung-erreichen-koennen-a-9a6cfc45-c57b-45bb-8f54-e657d50e5a1d#ref=rss)
-* [https://www.spiegel.de/panorama/hitze-in-europa-gefaehrliche-temperaturen-ueber-40-grad-der-ueberblick](https://www.spiegel.de/panorama/hitze-in-europa-gefaehrliche-temperaturen-ueber-40-grad-der-ueberblick-a-1362469f-3dec-443a-ab8d-36cd999fa07f#ref=rss)
-### wohnung
+* [https://www.spiegel.de/sport/basketball/basketballerin-leonie-fiebich-sextoy-wuerfe-in-der-wnba-einfach-ein-bisschen-dumm](https://www.spiegel.de/sport/basketball/basketballerin-leonie-fiebich-sextoy-wuerfe-in-der-wnba-einfach-ein-bisschen-dumm-a-de27cd53-68e9-4dea-9332-8740128ca7e2#ref=rss)
+### texas
 
-* [https://www.spiegel.de/wirtschaft/service/hitze-in-der-wohnung-wann-sie-eine-mietminderung-erreichen-koennen](https://www.spiegel.de/wirtschaft/service/hitze-in-der-wohnung-wann-sie-eine-mietminderung-erreichen-koennen-a-9a6cfc45-c57b-45bb-8f54-e657d50e5a1d#ref=rss)
-### mietminderung
+* [https://www.spiegel.de/panorama/uvalde-in-texas-neue-videos-und-audios-belegen-planlosigkeit-der-polizei](https://www.spiegel.de/panorama/uvalde-in-texas-neue-videos-und-audios-belegen-planlosigkeit-der-polizei-a-a21a6a0d-d2bc-4e29-916e-10ce87c23ac9#ref=rss)
+### schulmassaker
 
-* [https://www.spiegel.de/wirtschaft/service/hitze-in-der-wohnung-wann-sie-eine-mietminderung-erreichen-koennen](https://www.spiegel.de/wirtschaft/service/hitze-in-der-wohnung-wann-sie-eine-mietminderung-erreichen-koennen-a-9a6cfc45-c57b-45bb-8f54-e657d50e5a1d#ref=rss)
-### vergangenen
+* [https://www.spiegel.de/panorama/uvalde-in-texas-neue-videos-und-audios-belegen-planlosigkeit-der-polizei](https://www.spiegel.de/panorama/uvalde-in-texas-neue-videos-und-audios-belegen-planlosigkeit-der-polizei-a-a21a6a0d-d2bc-4e29-916e-10ce87c23ac9#ref=rss)
+### iran
 
-* [https://www.spiegel.de/wissenschaft/klimawandel-und-artenvielfalt-hitzewellen-setzen-tropischen-voegeln-zu](https://www.spiegel.de/wissenschaft/klimawandel-und-artenvielfalt-hitzewellen-setzen-tropischen-voegeln-zu-a-0d102af6-5900-44b9-b888-91cd4c8aaaba#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/alleinerziehende-staat-zahlt-mehr-als-drei-milliarden-unterhaltsvorschuss](https://www.spiegel.de/wirtschaft/soziales/alleinerziehende-staat-zahlt-mehr-als-drei-milliarden-unterhaltsvorschuss-a-a91d16eb-591f-4ce0-b4e1-5fbc4427922e#ref=rss)
-### sonnencreme
+* [https://www.spiegel.de/politik/iran-deutschland-frankreich-und-grossbritannien-drohen-mit-sanktionen-bei-atomgespraechen](https://www.spiegel.de/politik/iran-deutschland-frankreich-und-grossbritannien-drohen-mit-sanktionen-bei-atomgespraechen-a-0f7dedab-7b3c-4db3-be68-7eac874723bc#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/gesundheit/sonnencreme-das-ist-dran-an-den-tiktok-mythen](https://www.spiegel.de/gesundheit/sonnencreme-das-ist-dran-an-den-tiktok-mythen-a-ac3b7b3f-45c7-47f6-96f4-3c4c6c54cf8f#ref=rss)
-### aussagen
+* [https://www.spiegel.de/politik/iran-deutschland-frankreich-und-grossbritannien-drohen-mit-sanktionen-bei-atomgespraechen](https://www.spiegel.de/politik/iran-deutschland-frankreich-und-grossbritannien-drohen-mit-sanktionen-bei-atomgespraechen-a-0f7dedab-7b3c-4db3-be68-7eac874723bc#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/gesundheit/sonnencreme-das-ist-dran-an-den-tiktok-mythen](https://www.spiegel.de/gesundheit/sonnencreme-das-ist-dran-an-den-tiktok-mythen-a-ac3b7b3f-45c7-47f6-96f4-3c4c6c54cf8f#ref=rss)
-* [https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch](https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch-a-91faa3b3-aae8-45af-953b-54f2732aa120#ref=rss)
-### größten
+* [https://www.spiegel.de/politik/iran-deutschland-frankreich-und-grossbritannien-drohen-mit-sanktionen-bei-atomgespraechen](https://www.spiegel.de/politik/iran-deutschland-frankreich-und-grossbritannien-drohen-mit-sanktionen-bei-atomgespraechen-a-0f7dedab-7b3c-4db3-be68-7eac874723bc#ref=rss)
+### drohen
 
-* [https://www.spiegel.de/gesundheit/sonnencreme-das-ist-dran-an-den-tiktok-mythen](https://www.spiegel.de/gesundheit/sonnencreme-das-ist-dran-an-den-tiktok-mythen-a-ac3b7b3f-45c7-47f6-96f4-3c4c6c54cf8f#ref=rss)
-* [https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch](https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch-a-91faa3b3-aae8-45af-953b-54f2732aa120#ref=rss)
-### stuttgart
+* [https://www.spiegel.de/politik/iran-deutschland-frankreich-und-grossbritannien-drohen-mit-sanktionen-bei-atomgespraechen](https://www.spiegel.de/politik/iran-deutschland-frankreich-und-grossbritannien-drohen-mit-sanktionen-bei-atomgespraechen-a-0f7dedab-7b3c-4db3-be68-7eac874723bc#ref=rss)
+### kodak
 
-* [https://www.spiegel.de/panorama/justiz/stuttgart-beim-sex-erwuergt-lange-haftstrafe-wegen-totschlags-an-freundin](https://www.spiegel.de/panorama/justiz/stuttgart-beim-sex-erwuergt-lange-haftstrafe-wegen-totschlags-an-freundin-a-d3255080-259b-4557-bfcc-5ebbe4786f44#ref=rss)
-### sex
+* [https://www.spiegel.de/wirtschaft/unternehmen/fuer-kodak-koennte-komplett-schluss-sein-nach-mehr-als-130-jahren](https://www.spiegel.de/wirtschaft/unternehmen/fuer-kodak-koennte-komplett-schluss-sein-nach-mehr-als-130-jahren-a-d50c9d4d-c75b-4201-bf60-9bdc0750f323#ref=rss)
+### traditionsunternehmen
 
-* [https://www.spiegel.de/panorama/justiz/stuttgart-beim-sex-erwuergt-lange-haftstrafe-wegen-totschlags-an-freundin](https://www.spiegel.de/panorama/justiz/stuttgart-beim-sex-erwuergt-lange-haftstrafe-wegen-totschlags-an-freundin-a-d3255080-259b-4557-bfcc-5ebbe4786f44#ref=rss)
-### freundin
+* [https://www.spiegel.de/wirtschaft/unternehmen/fuer-kodak-koennte-komplett-schluss-sein-nach-mehr-als-130-jahren](https://www.spiegel.de/wirtschaft/unternehmen/fuer-kodak-koennte-komplett-schluss-sein-nach-mehr-als-130-jahren-a-d50c9d4d-c75b-4201-bf60-9bdc0750f323#ref=rss)
+### gilt
 
-* [https://www.spiegel.de/panorama/justiz/stuttgart-beim-sex-erwuergt-lange-haftstrafe-wegen-totschlags-an-freundin](https://www.spiegel.de/panorama/justiz/stuttgart-beim-sex-erwuergt-lange-haftstrafe-wegen-totschlags-an-freundin-a-d3255080-259b-4557-bfcc-5ebbe4786f44#ref=rss)
-### frauen
+* [https://www.spiegel.de/wirtschaft/unternehmen/fuer-kodak-koennte-komplett-schluss-sein-nach-mehr-als-130-jahren](https://www.spiegel.de/wirtschaft/unternehmen/fuer-kodak-koennte-komplett-schluss-sein-nach-mehr-als-130-jahren-a-d50c9d4d-c75b-4201-bf60-9bdc0750f323#ref=rss)
+* [https://www.spiegel.de/kultur/mariah-carey-ist-zurueck-die-diva-empfaengt-im-pyjama](https://www.spiegel.de/kultur/mariah-carey-ist-zurueck-die-diva-empfaengt-im-pyjama-a-bc005627-8665-490b-a2db-ce78ebafe427#ref=rss)
+### mariah
 
-* [https://www.spiegel.de/panorama/justiz/stuttgart-beim-sex-erwuergt-lange-haftstrafe-wegen-totschlags-an-freundin](https://www.spiegel.de/panorama/justiz/stuttgart-beim-sex-erwuergt-lange-haftstrafe-wegen-totschlags-an-freundin-a-d3255080-259b-4557-bfcc-5ebbe4786f44#ref=rss)
-* [https://www.spiegel.de/panorama/sandra-bullock-und-jennifer-aniston-wie-sie-mit-ihrer-freundschaft-hollywood-trotzten](https://www.spiegel.de/panorama/sandra-bullock-und-jennifer-aniston-wie-sie-mit-ihrer-freundschaft-hollywood-trotzten-a-e73b7be9-b0bc-4cf5-a853-c8eabcadf8e4#ref=rss)
-### deutlich
+* [https://www.spiegel.de/kultur/mariah-carey-ist-zurueck-die-diva-empfaengt-im-pyjama](https://www.spiegel.de/kultur/mariah-carey-ist-zurueck-die-diva-empfaengt-im-pyjama-a-bc005627-8665-490b-a2db-ce78ebafe427#ref=rss)
+### carey
 
-* [https://www.spiegel.de/panorama/justiz/stuttgart-beim-sex-erwuergt-lange-haftstrafe-wegen-totschlags-an-freundin](https://www.spiegel.de/panorama/justiz/stuttgart-beim-sex-erwuergt-lange-haftstrafe-wegen-totschlags-an-freundin-a-d3255080-259b-4557-bfcc-5ebbe4786f44#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/alleinerziehende-staat-zahlt-mehr-als-drei-milliarden-unterhaltsvorschuss](https://www.spiegel.de/wirtschaft/soziales/alleinerziehende-staat-zahlt-mehr-als-drei-milliarden-unterhaltsvorschuss-a-a91d16eb-591f-4ce0-b4e1-5fbc4427922e#ref=rss)
-### ozeane
+* [https://www.spiegel.de/kultur/mariah-carey-ist-zurueck-die-diva-empfaengt-im-pyjama](https://www.spiegel.de/kultur/mariah-carey-ist-zurueck-die-diva-empfaengt-im-pyjama-a-bc005627-8665-490b-a2db-ce78ebafe427#ref=rss)
+### je
 
-* [https://www.spiegel.de/wissenschaft/natur/wale-und-delfine-spielen-miteinander](https://www.spiegel.de/wissenschaft/natur/wale-und-delfine-spielen-miteinander-a-3d641227-48cc-44b1-b3ff-5888f9da70d0#ref=rss)
-### wale
-
-* [https://www.spiegel.de/wissenschaft/natur/wale-und-delfine-spielen-miteinander](https://www.spiegel.de/wissenschaft/natur/wale-und-delfine-spielen-miteinander-a-3d641227-48cc-44b1-b3ff-5888f9da70d0#ref=rss)
-### delfine
-
-* [https://www.spiegel.de/wissenschaft/natur/wale-und-delfine-spielen-miteinander](https://www.spiegel.de/wissenschaft/natur/wale-und-delfine-spielen-miteinander-a-3d641227-48cc-44b1-b3ff-5888f9da70d0#ref=rss)
-### 40
-
-* [https://www.spiegel.de/panorama/hitze-in-europa-gefaehrliche-temperaturen-ueber-40-grad-der-ueberblick](https://www.spiegel.de/panorama/hitze-in-europa-gefaehrliche-temperaturen-ueber-40-grad-der-ueberblick-a-1362469f-3dec-443a-ab8d-36cd999fa07f#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/panorama/hitze-in-europa-gefaehrliche-temperaturen-ueber-40-grad-der-ueberblick](https://www.spiegel.de/panorama/hitze-in-europa-gefaehrliche-temperaturen-ueber-40-grad-der-ueberblick-a-1362469f-3dec-443a-ab8d-36cd999fa07f#ref=rss)
-### rottenburg
-
-* [https://www.spiegel.de/start/rottenburg-am-neckar-abistreich-kostet-gymnasiasten-7000-euro](https://www.spiegel.de/start/rottenburg-am-neckar-abistreich-kostet-gymnasiasten-7000-euro-a-1dacced9-dc69-4c20-8d10-7a758eb4b6c7#ref=rss)
-### kostet
-
-* [https://www.spiegel.de/start/rottenburg-am-neckar-abistreich-kostet-gymnasiasten-7000-euro](https://www.spiegel.de/start/rottenburg-am-neckar-abistreich-kostet-gymnasiasten-7000-euro-a-1dacced9-dc69-4c20-8d10-7a758eb4b6c7#ref=rss)
-### gymnasiasten
-
-* [https://www.spiegel.de/start/rottenburg-am-neckar-abistreich-kostet-gymnasiasten-7000-euro](https://www.spiegel.de/start/rottenburg-am-neckar-abistreich-kostet-gymnasiasten-7000-euro-a-1dacced9-dc69-4c20-8d10-7a758eb4b6c7#ref=rss)
-### euro
-
-* [https://www.spiegel.de/start/rottenburg-am-neckar-abistreich-kostet-gymnasiasten-7000-euro](https://www.spiegel.de/start/rottenburg-am-neckar-abistreich-kostet-gymnasiasten-7000-euro-a-1dacced9-dc69-4c20-8d10-7a758eb4b6c7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/brandenburg-vermisste-22-jaehrige-aus-luckenwalde-tot-im-wald-entdeckt](https://www.spiegel.de/panorama/justiz/brandenburg-vermisste-22-jaehrige-aus-luckenwalde-tot-im-wald-entdeckt-a-b38a2f9d-b6e9-4e5c-bc98-4df7f1ec252b#ref=rss)
-### 22jährige
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-vermisste-22-jaehrige-aus-luckenwalde-tot-im-wald-entdeckt](https://www.spiegel.de/panorama/justiz/brandenburg-vermisste-22-jaehrige-aus-luckenwalde-tot-im-wald-entdeckt-a-b38a2f9d-b6e9-4e5c-bc98-4df7f1ec252b#ref=rss)
-### tot
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-vermisste-22-jaehrige-aus-luckenwalde-tot-im-wald-entdeckt](https://www.spiegel.de/panorama/justiz/brandenburg-vermisste-22-jaehrige-aus-luckenwalde-tot-im-wald-entdeckt-a-b38a2f9d-b6e9-4e5c-bc98-4df7f1ec252b#ref=rss)
-### wald
-
-* [https://www.spiegel.de/panorama/justiz/brandenburg-vermisste-22-jaehrige-aus-luckenwalde-tot-im-wald-entdeckt](https://www.spiegel.de/panorama/justiz/brandenburg-vermisste-22-jaehrige-aus-luckenwalde-tot-im-wald-entdeckt-a-b38a2f9d-b6e9-4e5c-bc98-4df7f1ec252b#ref=rss)
-### staat
-
-* [https://www.spiegel.de/wirtschaft/soziales/alleinerziehende-staat-zahlt-mehr-als-drei-milliarden-unterhaltsvorschuss](https://www.spiegel.de/wirtschaft/soziales/alleinerziehende-staat-zahlt-mehr-als-drei-milliarden-unterhaltsvorschuss-a-a91d16eb-591f-4ce0-b4e1-5fbc4427922e#ref=rss)
-### unterhaltsvorschuss
-
-* [https://www.spiegel.de/wirtschaft/soziales/alleinerziehende-staat-zahlt-mehr-als-drei-milliarden-unterhaltsvorschuss](https://www.spiegel.de/wirtschaft/soziales/alleinerziehende-staat-zahlt-mehr-als-drei-milliarden-unterhaltsvorschuss-a-a91d16eb-591f-4ce0-b4e1-5fbc4427922e#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-europa-unterstuetzt-das-land-staerker-als-die-usa-ifw-analyse](https://www.spiegel.de/ausland/ukraine-europa-unterstuetzt-das-land-staerker-als-die-usa-ifw-analyse-a-f34cc7ac-7f8a-495b-952b-f80074e66069#ref=rss)
-### russlands
-
-* [https://www.spiegel.de/ausland/ukraine-europa-unterstuetzt-das-land-staerker-als-die-usa-ifw-analyse](https://www.spiegel.de/ausland/ukraine-europa-unterstuetzt-das-land-staerker-als-die-usa-ifw-analyse-a-f34cc7ac-7f8a-495b-952b-f80074e66069#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-stoesst-im-donbass-vor-die-front-broeckelt](https://www.spiegel.de/ausland/ukraine-krieg-russland-stoesst-im-donbass-vor-die-front-broeckelt-a-2eda6220-7e33-4fb7-862e-0455d38f3142#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### donbass
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-stoesst-im-donbass-vor-die-front-broeckelt](https://www.spiegel.de/ausland/ukraine-krieg-russland-stoesst-im-donbass-vor-die-front-broeckelt-a-2eda6220-7e33-4fb7-862e-0455d38f3142#ref=rss)
-### gipfel
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-stoesst-im-donbass-vor-die-front-broeckelt](https://www.spiegel.de/ausland/ukraine-krieg-russland-stoesst-im-donbass-vor-die-front-broeckelt-a-2eda6220-7e33-4fb7-862e-0455d38f3142#ref=rss)
-* [https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch](https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch-a-91faa3b3-aae8-45af-953b-54f2732aa120#ref=rss)
-### monica
-
-* [https://www.spiegel.de/sport/tennis/monica-seles-ex-tennisstar-leidet-unter-schwerer-muskelschwaeche](https://www.spiegel.de/sport/tennis/monica-seles-ex-tennisstar-leidet-unter-schwerer-muskelschwaeche-a-6bde7ef3-04a5-4162-a336-d83a7cf41187#ref=rss)
-### seles
-
-* [https://www.spiegel.de/sport/tennis/monica-seles-ex-tennisstar-leidet-unter-schwerer-muskelschwaeche](https://www.spiegel.de/sport/tennis/monica-seles-ex-tennisstar-leidet-unter-schwerer-muskelschwaeche-a-6bde7ef3-04a5-4162-a336-d83a7cf41187#ref=rss)
-### sandra
-
-* [https://www.spiegel.de/panorama/sandra-bullock-und-jennifer-aniston-wie-sie-mit-ihrer-freundschaft-hollywood-trotzten](https://www.spiegel.de/panorama/sandra-bullock-und-jennifer-aniston-wie-sie-mit-ihrer-freundschaft-hollywood-trotzten-a-e73b7be9-b0bc-4cf5-a853-c8eabcadf8e4#ref=rss)
-### bullock
-
-* [https://www.spiegel.de/panorama/sandra-bullock-und-jennifer-aniston-wie-sie-mit-ihrer-freundschaft-hollywood-trotzten](https://www.spiegel.de/panorama/sandra-bullock-und-jennifer-aniston-wie-sie-mit-ihrer-freundschaft-hollywood-trotzten-a-e73b7be9-b0bc-4cf5-a853-c8eabcadf8e4#ref=rss)
-### jennifer
-
-* [https://www.spiegel.de/panorama/sandra-bullock-und-jennifer-aniston-wie-sie-mit-ihrer-freundschaft-hollywood-trotzten](https://www.spiegel.de/panorama/sandra-bullock-und-jennifer-aniston-wie-sie-mit-ihrer-freundschaft-hollywood-trotzten-a-e73b7be9-b0bc-4cf5-a853-c8eabcadf8e4#ref=rss)
-### aniston
-
-* [https://www.spiegel.de/panorama/sandra-bullock-und-jennifer-aniston-wie-sie-mit-ihrer-freundschaft-hollywood-trotzten](https://www.spiegel.de/panorama/sandra-bullock-und-jennifer-aniston-wie-sie-mit-ihrer-freundschaft-hollywood-trotzten-a-e73b7be9-b0bc-4cf5-a853-c8eabcadf8e4#ref=rss)
-### alaska
-
-* [https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch](https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch-a-91faa3b3-aae8-45af-953b-54f2732aa120#ref=rss)
-### landtausch
-
-* [https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch](https://www.spiegel.de/ausland/alaska-vor-treffen-von-donald-trump-und-wladimir-putin-verschwoerungstheorien-zum-landtausch-a-91faa3b3-aae8-45af-953b-54f2732aa120#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/panorama/a8-bei-holzkirchen-eltern-vergessen-zehnjaehrigen-sohn-an-tankstelle-bei-urlaubsfahrt](https://www.spiegel.de/panorama/a8-bei-holzkirchen-eltern-vergessen-zehnjaehrigen-sohn-an-tankstelle-bei-urlaubsfahrt-a-909260e5-893a-43ae-bad2-21f17e1310df#ref=rss)
-### vergessen
-
-* [https://www.spiegel.de/panorama/a8-bei-holzkirchen-eltern-vergessen-zehnjaehrigen-sohn-an-tankstelle-bei-urlaubsfahrt](https://www.spiegel.de/panorama/a8-bei-holzkirchen-eltern-vergessen-zehnjaehrigen-sohn-an-tankstelle-bei-urlaubsfahrt-a-909260e5-893a-43ae-bad2-21f17e1310df#ref=rss)
-### tankstelle
-
-* [https://www.spiegel.de/panorama/a8-bei-holzkirchen-eltern-vergessen-zehnjaehrigen-sohn-an-tankstelle-bei-urlaubsfahrt](https://www.spiegel.de/panorama/a8-bei-holzkirchen-eltern-vergessen-zehnjaehrigen-sohn-an-tankstelle-bei-urlaubsfahrt-a-909260e5-893a-43ae-bad2-21f17e1310df#ref=rss)
+* [https://www.spiegel.de/kultur/mariah-carey-ist-zurueck-die-diva-empfaengt-im-pyjama](https://www.spiegel.de/kultur/mariah-carey-ist-zurueck-die-diva-empfaengt-im-pyjama-a-bc005627-8665-490b-a2db-ce78ebafe427#ref=rss)
 
