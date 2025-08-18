@@ -4,343 +4,301 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/ausland/wladimir-putin-warum-russlands-machthaber-mit-dem-alaska-gipfel-laengst-nicht-am-ziel-ist](https://www.spiegel.de/ausland/wladimir-putin-warum-russlands-machthaber-mit-dem-alaska-gipfel-laengst-nicht-am-ziel-ist-a-62615488-193d-44c1-8152-45d1f24568f3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente-a-37ff6df4-c73a-4ca6-8b30-906c7a787e1e#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-friedrich-merz-in-washington-die-strategie-der-europaeer](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-friedrich-merz-in-washington-die-strategie-der-europaeer-a-eb85a67a-cdb1-45fe-91c9-33dd2a2117c6#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-so-stellt-sich-wladimir-putin-einen-frieden-vor](https://www.spiegel.de/ausland/russland-ukraine-krieg-so-stellt-sich-wladimir-putin-einen-frieden-vor-a-57693089-83ee-481d-a5a9-f4bcba943e94#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei](https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei-a-ada55392-fe17-45be-b381-bc7b8ab1d398#ref=rss)
-### drei
-
-* [https://www.spiegel.de/familie/mutter-tochter-beziehung-drei-frauen-erzaehlen-wie-sich-ihr-verhaeltnis-verbessert-hat](https://www.spiegel.de/familie/mutter-tochter-beziehung-drei-frauen-erzaehlen-wie-sich-ihr-verhaeltnis-verbessert-hat-a-767b191e-4bf0-4b20-8f99-a862530a0b0c#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden](https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden-a-5b8cb341-e019-4d56-8e7d-532bffc7c995#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-city-drei-tote-nach-massenschiesserei-in-bar](https://www.spiegel.de/ausland/new-york-city-drei-tote-nach-massenschiesserei-in-bar-a-1a041835-c8f2-4077-800e-bc6690ef7eed#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/familie/mutter-tochter-beziehung-drei-frauen-erzaehlen-wie-sich-ihr-verhaeltnis-verbessert-hat](https://www.spiegel.de/familie/mutter-tochter-beziehung-drei-frauen-erzaehlen-wie-sich-ihr-verhaeltnis-verbessert-hat-a-767b191e-4bf0-4b20-8f99-a862530a0b0c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/andie-macdowell-sollte-bill-murray-daten-findet-ihre-tochter](https://www.spiegel.de/panorama/leute/andie-macdowell-sollte-bill-murray-daten-findet-ihre-tochter-a-9376b892-25b1-4c87-a001-2f4e132e8cbe#ref=rss)
-* [https://www.spiegel.de/panorama/leute/emma-stone-erzaehlt-wie-ihre-mutter-mal-angelina-jolie-ausfragte](https://www.spiegel.de/panorama/leute/emma-stone-erzaehlt-wie-ihre-mutter-mal-angelina-jolie-ausfragte-a-6932b789-64e0-40b7-ab81-f17efe1755df#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/wladimir-putin-warum-russlands-machthaber-mit-dem-alaska-gipfel-laengst-nicht-am-ziel-ist](https://www.spiegel.de/ausland/wladimir-putin-warum-russlands-machthaber-mit-dem-alaska-gipfel-laengst-nicht-am-ziel-ist-a-62615488-193d-44c1-8152-45d1f24568f3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente-a-37ff6df4-c73a-4ca6-8b30-906c7a787e1e#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-so-stellt-sich-wladimir-putin-einen-frieden-vor](https://www.spiegel.de/ausland/russland-ukraine-krieg-so-stellt-sich-wladimir-putin-einen-frieden-vor-a-57693089-83ee-481d-a5a9-f4bcba943e94#ref=rss)
-### schalke
-
-* [https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-aeussert-sich-zu-mutmasslich-rassistischen-vorfaellen-in-leipzig](https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-aeussert-sich-zu-mutmasslich-rassistischen-vorfaellen-in-leipzig-a-b57eff2c-8e58-47ea-a47c-d04af725bcef#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-koeln-siegt-in-regensburg-schalke-mit-muehe-gegen-lok-leipzig](https://www.spiegel.de/sport/fussball/dfb-pokal-koeln-siegt-in-regensburg-schalke-mit-muehe-gegen-lok-leipzig-a-db32ef2e-9562-4048-94a9-82ffc24eb3c8#ref=rss)
-### leipzig
-
-* [https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-aeussert-sich-zu-mutmasslich-rassistischen-vorfaellen-in-leipzig](https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-aeussert-sich-zu-mutmasslich-rassistischen-vorfaellen-in-leipzig-a-b57eff2c-8e58-47ea-a47c-d04af725bcef#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-koeln-siegt-in-regensburg-schalke-mit-muehe-gegen-lok-leipzig](https://www.spiegel.de/sport/fussball/dfb-pokal-koeln-siegt-in-regensburg-schalke-mit-muehe-gegen-lok-leipzig-a-db32ef2e-9562-4048-94a9-82ffc24eb3c8#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/hockey-em-deutsche-frauen-unterliegen-niederlande-im-spannenden-finale](https://www.spiegel.de/sport/hockey-em-deutsche-frauen-unterliegen-niederlande-im-spannenden-finale-a-b2f88713-b8bf-493e-8d47-998f2ebfa82d#ref=rss)
-* [https://www.spiegel.de/kultur/schoener-schreiben-georg-hermann-und-das-farbenfrohe-irrewerden-an-berlin](https://www.spiegel.de/kultur/schoener-schreiben-georg-hermann-und-das-farbenfrohe-irrewerden-an-berlin-a-07a9426e-1233-49df-945a-7ece2e1ae220#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden](https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden-a-5b8cb341-e019-4d56-8e7d-532bffc7c995#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/wladimir-putin-warum-russlands-machthaber-mit-dem-alaska-gipfel-laengst-nicht-am-ziel-ist](https://www.spiegel.de/ausland/wladimir-putin-warum-russlands-machthaber-mit-dem-alaska-gipfel-laengst-nicht-am-ziel-ist-a-62615488-193d-44c1-8152-45d1f24568f3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente-a-37ff6df4-c73a-4ca6-8b30-906c7a787e1e#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-so-stellt-sich-wladimir-putin-einen-frieden-vor](https://www.spiegel.de/ausland/russland-ukraine-krieg-so-stellt-sich-wladimir-putin-einen-frieden-vor-a-57693089-83ee-481d-a5a9-f4bcba943e94#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/serbien-neue-dynamik-der-gewalt-bei-protesten-gegen-regierung](https://www.spiegel.de/ausland/serbien-neue-dynamik-der-gewalt-bei-protesten-gegen-regierung-a-2473896a-a0ac-4cd3-9d6b-3a87d278d4df#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden](https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden-a-5b8cb341-e019-4d56-8e7d-532bffc7c995#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-city-drei-tote-nach-massenschiesserei-in-bar](https://www.spiegel.de/ausland/new-york-city-drei-tote-nach-massenschiesserei-in-bar-a-1a041835-c8f2-4077-800e-bc6690ef7eed#ref=rss)
-* [https://www.spiegel.de/start/heimatbesuch-bei-den-eltern-psychologin-gibt-tipps-wie-man-alte-muster-durchbricht](https://www.spiegel.de/start/heimatbesuch-bei-den-eltern-psychologin-gibt-tipps-wie-man-alte-muster-durchbricht-a-f152e94d-6448-4656-88bc-79de64f15929#ref=rss)
-### lok
-
-* [https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-aeussert-sich-zu-mutmasslich-rassistischen-vorfaellen-in-leipzig](https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-aeussert-sich-zu-mutmasslich-rassistischen-vorfaellen-in-leipzig-a-b57eff2c-8e58-47ea-a47c-d04af725bcef#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-koeln-siegt-in-regensburg-schalke-mit-muehe-gegen-lok-leipzig](https://www.spiegel.de/sport/fussball/dfb-pokal-koeln-siegt-in-regensburg-schalke-mit-muehe-gegen-lok-leipzig-a-db32ef2e-9562-4048-94a9-82ffc24eb3c8#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/familie/mutter-tochter-beziehung-drei-frauen-erzaehlen-wie-sich-ihr-verhaeltnis-verbessert-hat](https://www.spiegel.de/familie/mutter-tochter-beziehung-drei-frauen-erzaehlen-wie-sich-ihr-verhaeltnis-verbessert-hat-a-767b191e-4bf0-4b20-8f99-a862530a0b0c#ref=rss)
-* [https://www.spiegel.de/sport/hockey-em-deutsche-frauen-unterliegen-niederlande-im-spannenden-finale](https://www.spiegel.de/sport/hockey-em-deutsche-frauen-unterliegen-niederlande-im-spannenden-finale-a-b2f88713-b8bf-493e-8d47-998f2ebfa82d#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/wladimir-putin-warum-russlands-machthaber-mit-dem-alaska-gipfel-laengst-nicht-am-ziel-ist](https://www.spiegel.de/ausland/wladimir-putin-warum-russlands-machthaber-mit-dem-alaska-gipfel-laengst-nicht-am-ziel-ist-a-62615488-193d-44c1-8152-45d1f24568f3#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-so-stellt-sich-wladimir-putin-einen-frieden-vor](https://www.spiegel.de/ausland/russland-ukraine-krieg-so-stellt-sich-wladimir-putin-einen-frieden-vor-a-57693089-83ee-481d-a5a9-f4bcba943e94#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei](https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei-a-ada55392-fe17-45be-b381-bc7b8ab1d398#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente-a-37ff6df4-c73a-4ca6-8b30-906c7a787e1e#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-friedrich-merz-in-washington-die-strategie-der-europaeer](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-friedrich-merz-in-washington-die-strategie-der-europaeer-a-eb85a67a-cdb1-45fe-91c9-33dd2a2117c6#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei](https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei-a-ada55392-fe17-45be-b381-bc7b8ab1d398#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-friedrich-merz-in-washington-die-strategie-der-europaeer](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-friedrich-merz-in-washington-die-strategie-der-europaeer-a-eb85a67a-cdb1-45fe-91c9-33dd2a2117c6#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei](https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei-a-ada55392-fe17-45be-b381-bc7b8ab1d398#ref=rss)
-### merz
-
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-friedrich-merz-in-washington-die-strategie-der-europaeer](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-friedrich-merz-in-washington-die-strategie-der-europaeer-a-eb85a67a-cdb1-45fe-91c9-33dd2a2117c6#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei](https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei-a-ada55392-fe17-45be-b381-bc7b8ab1d398#ref=rss)
-### europäer
-
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-friedrich-merz-in-washington-die-strategie-der-europaeer](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-friedrich-merz-in-washington-die-strategie-der-europaeer-a-eb85a67a-cdb1-45fe-91c9-33dd2a2117c6#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei](https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei-a-ada55392-fe17-45be-b381-bc7b8ab1d398#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/panorama/leute/emma-stone-erzaehlt-wie-ihre-mutter-mal-angelina-jolie-ausfragte](https://www.spiegel.de/panorama/leute/emma-stone-erzaehlt-wie-ihre-mutter-mal-angelina-jolie-ausfragte-a-6932b789-64e0-40b7-ab81-f17efe1755df#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### 04
-
-* [https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-aeussert-sich-zu-mutmasslich-rassistischen-vorfaellen-in-leipzig](https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-aeussert-sich-zu-mutmasslich-rassistischen-vorfaellen-in-leipzig-a-b57eff2c-8e58-47ea-a47c-d04af725bcef#ref=rss)
-### christopher
-
-* [https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-aeussert-sich-zu-mutmasslich-rassistischen-vorfaellen-in-leipzig](https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-aeussert-sich-zu-mutmasslich-rassistischen-vorfaellen-in-leipzig-a-b57eff2c-8e58-47ea-a47c-d04af725bcef#ref=rss)
-### antwiadjei
-
-* [https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-aeussert-sich-zu-mutmasslich-rassistischen-vorfaellen-in-leipzig](https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-aeussert-sich-zu-mutmasslich-rassistischen-vorfaellen-in-leipzig-a-b57eff2c-8e58-47ea-a47c-d04af725bcef#ref=rss)
-### mutmaßlich
-
-* [https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-aeussert-sich-zu-mutmasslich-rassistischen-vorfaellen-in-leipzig](https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-aeussert-sich-zu-mutmasslich-rassistischen-vorfaellen-in-leipzig-a-b57eff2c-8e58-47ea-a47c-d04af725bcef#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-koeln-siegt-in-regensburg-schalke-mit-muehe-gegen-lok-leipzig](https://www.spiegel.de/sport/fussball/dfb-pokal-koeln-siegt-in-regensburg-schalke-mit-muehe-gegen-lok-leipzig-a-db32ef2e-9562-4048-94a9-82ffc24eb3c8#ref=rss)
-### spiel
-
-* [https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-aeussert-sich-zu-mutmasslich-rassistischen-vorfaellen-in-leipzig](https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-aeussert-sich-zu-mutmasslich-rassistischen-vorfaellen-in-leipzig-a-b57eff2c-8e58-47ea-a47c-d04af725bcef#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-koeln-siegt-in-regensburg-schalke-mit-muehe-gegen-lok-leipzig](https://www.spiegel.de/sport/fussball/dfb-pokal-koeln-siegt-in-regensburg-schalke-mit-muehe-gegen-lok-leipzig-a-db32ef2e-9562-4048-94a9-82ffc24eb3c8#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/kultur/superman-boesewicht-zod-schauspieler-terence-stamp-ist-tot](https://www.spiegel.de/kultur/superman-boesewicht-zod-schauspieler-terence-stamp-ist-tot-a-936254cc-d523-4720-ad17-f525ce12bdf6#ref=rss)
-### terence
-
-* [https://www.spiegel.de/kultur/superman-boesewicht-zod-schauspieler-terence-stamp-ist-tot](https://www.spiegel.de/kultur/superman-boesewicht-zod-schauspieler-terence-stamp-ist-tot-a-936254cc-d523-4720-ad17-f525ce12bdf6#ref=rss)
-### stamp
-
-* [https://www.spiegel.de/kultur/superman-boesewicht-zod-schauspieler-terence-stamp-ist-tot](https://www.spiegel.de/kultur/superman-boesewicht-zod-schauspieler-terence-stamp-ist-tot-a-936254cc-d523-4720-ad17-f525ce12bdf6#ref=rss)
-### großen
-
-* [https://www.spiegel.de/kultur/superman-boesewicht-zod-schauspieler-terence-stamp-ist-tot](https://www.spiegel.de/kultur/superman-boesewicht-zod-schauspieler-terence-stamp-ist-tot-a-936254cc-d523-4720-ad17-f525ce12bdf6#ref=rss)
-* [https://www.spiegel.de/sport/hockey-em-deutsche-frauen-unterliegen-niederlande-im-spannenden-finale](https://www.spiegel.de/sport/hockey-em-deutsche-frauen-unterliegen-niederlande-im-spannenden-finale-a-b2f88713-b8bf-493e-8d47-998f2ebfa82d#ref=rss)
-### sonntag
-
-* [https://www.spiegel.de/kultur/superman-boesewicht-zod-schauspieler-terence-stamp-ist-tot](https://www.spiegel.de/kultur/superman-boesewicht-zod-schauspieler-terence-stamp-ist-tot-a-936254cc-d523-4720-ad17-f525ce12bdf6#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-city-drei-tote-nach-massenschiesserei-in-bar](https://www.spiegel.de/ausland/new-york-city-drei-tote-nach-massenschiesserei-in-bar-a-1a041835-c8f2-4077-800e-bc6690ef7eed#ref=rss)
-### sally
-
-* [https://www.spiegel.de/kultur/literatur/sally-rooney-will-aktivistengruppe-palestine-action-trotz-verbots-weiterhin-unterstuetzen](https://www.spiegel.de/kultur/literatur/sally-rooney-will-aktivistengruppe-palestine-action-trotz-verbots-weiterhin-unterstuetzen-a-f9c51418-49de-47e8-bbe1-b58e35b91cac#ref=rss)
-### rooney
-
-* [https://www.spiegel.de/kultur/literatur/sally-rooney-will-aktivistengruppe-palestine-action-trotz-verbots-weiterhin-unterstuetzen](https://www.spiegel.de/kultur/literatur/sally-rooney-will-aktivistengruppe-palestine-action-trotz-verbots-weiterhin-unterstuetzen-a-f9c51418-49de-47e8-bbe1-b58e35b91cac#ref=rss)
-### palestine
-
-* [https://www.spiegel.de/kultur/literatur/sally-rooney-will-aktivistengruppe-palestine-action-trotz-verbots-weiterhin-unterstuetzen](https://www.spiegel.de/kultur/literatur/sally-rooney-will-aktivistengruppe-palestine-action-trotz-verbots-weiterhin-unterstuetzen-a-f9c51418-49de-47e8-bbe1-b58e35b91cac#ref=rss)
-### action
-
-* [https://www.spiegel.de/kultur/literatur/sally-rooney-will-aktivistengruppe-palestine-action-trotz-verbots-weiterhin-unterstuetzen](https://www.spiegel.de/kultur/literatur/sally-rooney-will-aktivistengruppe-palestine-action-trotz-verbots-weiterhin-unterstuetzen-a-f9c51418-49de-47e8-bbe1-b58e35b91cac#ref=rss)
-### unterstützen
-
-* [https://www.spiegel.de/kultur/literatur/sally-rooney-will-aktivistengruppe-palestine-action-trotz-verbots-weiterhin-unterstuetzen](https://www.spiegel.de/kultur/literatur/sally-rooney-will-aktivistengruppe-palestine-action-trotz-verbots-weiterhin-unterstuetzen-a-f9c51418-49de-47e8-bbe1-b58e35b91cac#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden](https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden-a-5b8cb341-e019-4d56-8e7d-532bffc7c995#ref=rss)
-### erzählen
-
-* [https://www.spiegel.de/familie/mutter-tochter-beziehung-drei-frauen-erzaehlen-wie-sich-ihr-verhaeltnis-verbessert-hat](https://www.spiegel.de/familie/mutter-tochter-beziehung-drei-frauen-erzaehlen-wie-sich-ihr-verhaeltnis-verbessert-hat-a-767b191e-4bf0-4b20-8f99-a862530a0b0c#ref=rss)
-### verhältnis
-
-* [https://www.spiegel.de/familie/mutter-tochter-beziehung-drei-frauen-erzaehlen-wie-sich-ihr-verhaeltnis-verbessert-hat](https://www.spiegel.de/familie/mutter-tochter-beziehung-drei-frauen-erzaehlen-wie-sich-ihr-verhaeltnis-verbessert-hat-a-767b191e-4bf0-4b20-8f99-a862530a0b0c#ref=rss)
-### niederlande
-
-* [https://www.spiegel.de/sport/hockey-em-deutsche-frauen-unterliegen-niederlande-im-spannenden-finale](https://www.spiegel.de/sport/hockey-em-deutsche-frauen-unterliegen-niederlande-im-spannenden-finale-a-b2f88713-b8bf-493e-8d47-998f2ebfa82d#ref=rss)
-### finale
-
-* [https://www.spiegel.de/sport/hockey-em-deutsche-frauen-unterliegen-niederlande-im-spannenden-finale](https://www.spiegel.de/sport/hockey-em-deutsche-frauen-unterliegen-niederlande-im-spannenden-finale-a-b2f88713-b8bf-493e-8d47-998f2ebfa82d#ref=rss)
-### dennoch
-
-* [https://www.spiegel.de/sport/hockey-em-deutsche-frauen-unterliegen-niederlande-im-spannenden-finale](https://www.spiegel.de/sport/hockey-em-deutsche-frauen-unterliegen-niederlande-im-spannenden-finale-a-b2f88713-b8bf-493e-8d47-998f2ebfa82d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/paderborn-13-jaehrige-terrorverdaechtige-soll-in-klinik-auf-betreuerin-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paderborn-13-jaehrige-terrorverdaechtige-soll-in-klinik-auf-betreuerin-eingestochen-haben-a-6c5bb092-2e7e-4de2-a294-5982e15aeb2e#ref=rss)
-### köln
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-koeln-siegt-in-regensburg-schalke-mit-muehe-gegen-lok-leipzig](https://www.spiegel.de/sport/fussball/dfb-pokal-koeln-siegt-in-regensburg-schalke-mit-muehe-gegen-lok-leipzig-a-db32ef2e-9562-4048-94a9-82ffc24eb3c8#ref=rss)
-### regensburg
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-koeln-siegt-in-regensburg-schalke-mit-muehe-gegen-lok-leipzig](https://www.spiegel.de/sport/fussball/dfb-pokal-koeln-siegt-in-regensburg-schalke-mit-muehe-gegen-lok-leipzig-a-db32ef2e-9562-4048-94a9-82ffc24eb3c8#ref=rss)
-### georg
-
-* [https://www.spiegel.de/kultur/schoener-schreiben-georg-hermann-und-das-farbenfrohe-irrewerden-an-berlin](https://www.spiegel.de/kultur/schoener-schreiben-georg-hermann-und-das-farbenfrohe-irrewerden-an-berlin-a-07a9426e-1233-49df-945a-7ece2e1ae220#ref=rss)
-### hermann
-
-* [https://www.spiegel.de/kultur/schoener-schreiben-georg-hermann-und-das-farbenfrohe-irrewerden-an-berlin](https://www.spiegel.de/kultur/schoener-schreiben-georg-hermann-und-das-farbenfrohe-irrewerden-an-berlin-a-07a9426e-1233-49df-945a-7ece2e1ae220#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/kultur/schoener-schreiben-georg-hermann-und-das-farbenfrohe-irrewerden-an-berlin](https://www.spiegel.de/kultur/schoener-schreiben-georg-hermann-und-das-farbenfrohe-irrewerden-an-berlin-a-07a9426e-1233-49df-945a-7ece2e1ae220#ref=rss)
-* [https://www.spiegel.de/netzwelt/tiktoks-loescharbeiter-sie-haben-die-ki-mittrainiert-nun-will-tiktok-sie-loswerden](https://www.spiegel.de/netzwelt/tiktoks-loescharbeiter-sie-haben-die-ki-mittrainiert-nun-will-tiktok-sie-loswerden-a-617ba5fe-383d-4d4f-8b4a-8913efd81476#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/kultur/schoener-schreiben-georg-hermann-und-das-farbenfrohe-irrewerden-an-berlin](https://www.spiegel.de/kultur/schoener-schreiben-georg-hermann-und-das-farbenfrohe-irrewerden-an-berlin-a-07a9426e-1233-49df-945a-7ece2e1ae220#ref=rss)
-* [https://www.spiegel.de/kultur/salzburger-festspiele-science-fiction-groteske-der-schneesturm-begeistert-publikum](https://www.spiegel.de/kultur/salzburger-festspiele-science-fiction-groteske-der-schneesturm-begeistert-publikum-a-40b734d6-297d-4286-8524-559e80cc3468#ref=rss)
-### machthaber
-
-* [https://www.spiegel.de/ausland/wladimir-putin-warum-russlands-machthaber-mit-dem-alaska-gipfel-laengst-nicht-am-ziel-ist](https://www.spiegel.de/ausland/wladimir-putin-warum-russlands-machthaber-mit-dem-alaska-gipfel-laengst-nicht-am-ziel-ist-a-62615488-193d-44c1-8152-45d1f24568f3#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/ausland/wladimir-putin-warum-russlands-machthaber-mit-dem-alaska-gipfel-laengst-nicht-am-ziel-ist](https://www.spiegel.de/ausland/wladimir-putin-warum-russlands-machthaber-mit-dem-alaska-gipfel-laengst-nicht-am-ziel-ist-a-62615488-193d-44c1-8152-45d1f24568f3#ref=rss)
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-frau-bleibt-auf-dem-weg-zur-geburt-im-aufzug-stecken](https://www.spiegel.de/panorama/nordrhein-westfalen-frau-bleibt-auf-dem-weg-zur-geburt-im-aufzug-stecken-a-8b8cbf7d-86f7-45f4-9113-1edce5faf649#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/ausland/serbien-neue-dynamik-der-gewalt-bei-protesten-gegen-regierung](https://www.spiegel.de/ausland/serbien-neue-dynamik-der-gewalt-bei-protesten-gegen-regierung-a-2473896a-a0ac-4cd3-9d6b-3a87d278d4df#ref=rss)
-* [https://www.spiegel.de/netzwelt/tiktoks-loescharbeiter-sie-haben-die-ki-mittrainiert-nun-will-tiktok-sie-loswerden](https://www.spiegel.de/netzwelt/tiktoks-loescharbeiter-sie-haben-die-ki-mittrainiert-nun-will-tiktok-sie-loswerden-a-617ba5fe-383d-4d4f-8b4a-8913efd81476#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/serbien-neue-dynamik-der-gewalt-bei-protesten-gegen-regierung](https://www.spiegel.de/ausland/serbien-neue-dynamik-der-gewalt-bei-protesten-gegen-regierung-a-2473896a-a0ac-4cd3-9d6b-3a87d278d4df#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei](https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei-a-ada55392-fe17-45be-b381-bc7b8ab1d398#ref=rss)
-### jahres
-
-* [https://www.spiegel.de/panorama/vogtlaendisches-wort-des-jahres-2025-hiedroochbrettl](https://www.spiegel.de/panorama/vogtlaendisches-wort-des-jahres-2025-hiedroochbrettl-a-9f83a3cd-b621-46f1-a38b-0c5704a5dc2a#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-frau-bleibt-auf-dem-weg-zur-geburt-im-aufzug-stecken](https://www.spiegel.de/panorama/nordrhein-westfalen-frau-bleibt-auf-dem-weg-zur-geburt-im-aufzug-stecken-a-8b8cbf7d-86f7-45f4-9113-1edce5faf649#ref=rss)
-### weg
-
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-frau-bleibt-auf-dem-weg-zur-geburt-im-aufzug-stecken](https://www.spiegel.de/panorama/nordrhein-westfalen-frau-bleibt-auf-dem-weg-zur-geburt-im-aufzug-stecken-a-8b8cbf7d-86f7-45f4-9113-1edce5faf649#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden](https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden-a-5b8cb341-e019-4d56-8e7d-532bffc7c995#ref=rss)
-### geburt
-
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-frau-bleibt-auf-dem-weg-zur-geburt-im-aufzug-stecken](https://www.spiegel.de/panorama/nordrhein-westfalen-frau-bleibt-auf-dem-weg-zur-geburt-im-aufzug-stecken-a-8b8cbf7d-86f7-45f4-9113-1edce5faf649#ref=rss)
-### stecken
-
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-frau-bleibt-auf-dem-weg-zur-geburt-im-aufzug-stecken](https://www.spiegel.de/panorama/nordrhein-westfalen-frau-bleibt-auf-dem-weg-zur-geburt-im-aufzug-stecken-a-8b8cbf7d-86f7-45f4-9113-1edce5faf649#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-frau-bleibt-auf-dem-weg-zur-geburt-im-aufzug-stecken](https://www.spiegel.de/panorama/nordrhein-westfalen-frau-bleibt-auf-dem-weg-zur-geburt-im-aufzug-stecken-a-8b8cbf7d-86f7-45f4-9113-1edce5faf649#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente-a-37ff6df4-c73a-4ca6-8b30-906c7a787e1e#ref=rss)
-### paar
-
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-frau-bleibt-auf-dem-weg-zur-geburt-im-aufzug-stecken](https://www.spiegel.de/panorama/nordrhein-westfalen-frau-bleibt-auf-dem-weg-zur-geburt-im-aufzug-stecken-a-8b8cbf7d-86f7-45f4-9113-1edce5faf649#ref=rss)
-* [https://www.spiegel.de/panorama/leute/emma-stone-erzaehlt-wie-ihre-mutter-mal-angelina-jolie-ausfragte](https://www.spiegel.de/panorama/leute/emma-stone-erzaehlt-wie-ihre-mutter-mal-angelina-jolie-ausfragte-a-6932b789-64e0-40b7-ab81-f17efe1755df#ref=rss)
-### alaska
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente-a-37ff6df4-c73a-4ca6-8b30-906c7a787e1e#ref=rss)
-### versehentlich
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente-a-37ff6df4-c73a-4ca6-8b30-906c7a787e1e#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente-a-37ff6df4-c73a-4ca6-8b30-906c7a787e1e#ref=rss)
-* [https://www.spiegel.de/start/heimatbesuch-bei-den-eltern-psychologin-gibt-tipps-wie-man-alte-muster-durchbricht](https://www.spiegel.de/start/heimatbesuch-bei-den-eltern-psychologin-gibt-tipps-wie-man-alte-muster-durchbricht-a-f152e94d-6448-4656-88bc-79de64f15929#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-in-alaska-versehentlich-zurueckgelassene-us-dokumente-a-37ff6df4-c73a-4ca6-8b30-906c7a787e1e#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### salzburger
-
-* [https://www.spiegel.de/kultur/salzburger-festspiele-science-fiction-groteske-der-schneesturm-begeistert-publikum](https://www.spiegel.de/kultur/salzburger-festspiele-science-fiction-groteske-der-schneesturm-begeistert-publikum-a-40b734d6-297d-4286-8524-559e80cc3468#ref=rss)
-### schneesturm
-
-* [https://www.spiegel.de/kultur/salzburger-festspiele-science-fiction-groteske-der-schneesturm-begeistert-publikum](https://www.spiegel.de/kultur/salzburger-festspiele-science-fiction-groteske-der-schneesturm-begeistert-publikum-a-40b734d6-297d-4286-8524-559e80cc3468#ref=rss)
-### beiden
-
-* [https://www.spiegel.de/kultur/salzburger-festspiele-science-fiction-groteske-der-schneesturm-begeistert-publikum](https://www.spiegel.de/kultur/salzburger-festspiele-science-fiction-groteske-der-schneesturm-begeistert-publikum-a-40b734d6-297d-4286-8524-559e80cc3468#ref=rss)
-* [https://www.spiegel.de/panorama/leute/andie-macdowell-sollte-bill-murray-daten-findet-ihre-tochter](https://www.spiegel.de/panorama/leute/andie-macdowell-sollte-bill-murray-daten-findet-ihre-tochter-a-9376b892-25b1-4c87-a001-2f4e132e8cbe#ref=rss)
-### gal
-
-* [https://www.spiegel.de/kultur/gal-gadot-hollywood-schauspielerin-troestet-geiselangehoerige-in-tel-aviv](https://www.spiegel.de/kultur/gal-gadot-hollywood-schauspielerin-troestet-geiselangehoerige-in-tel-aviv-a-f4576a59-0991-47a8-a548-027045bda710#ref=rss)
-### gadot
-
-* [https://www.spiegel.de/kultur/gal-gadot-hollywood-schauspielerin-troestet-geiselangehoerige-in-tel-aviv](https://www.spiegel.de/kultur/gal-gadot-hollywood-schauspielerin-troestet-geiselangehoerige-in-tel-aviv-a-f4576a59-0991-47a8-a548-027045bda710#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden](https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden-a-5b8cb341-e019-4d56-8e7d-532bffc7c995#ref=rss)
-### spezialkräfte
-
-* [https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden](https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden-a-5b8cb341-e019-4d56-8e7d-532bffc7c995#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden](https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden-a-5b8cb341-e019-4d56-8e7d-532bffc7c995#ref=rss)
-* [https://www.spiegel.de/partnerschaft/nein-sagen-wie-sie-es-schaffen-beim-streiten-in-der-liebe-und-beim-sex-abzulehnen](https://www.spiegel.de/partnerschaft/nein-sagen-wie-sie-es-schaffen-beim-streiten-in-der-liebe-und-beim-sex-abzulehnen-a-781bcbe8-7c93-4c5c-b562-2b41f4205cbf#ref=rss)
-### feuerwehr
-
-* [https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden](https://www.spiegel.de/panorama/spanien-deutsche-spezialkraefte-unterstuetzen-bei-waldbraenden-a-5b8cb341-e019-4d56-8e7d-532bffc7c995#ref=rss)
-* [https://www.spiegel.de/panorama/ungewoehnliche-polizeieinsaetze-wenn-ein-nasenbaer-eine-reise-tut](https://www.spiegel.de/panorama/ungewoehnliche-polizeieinsaetze-wenn-ein-nasenbaer-eine-reise-tut-a-fbadc23f-a27f-4be9-94cb-57bde7758794#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/panorama/leute/andie-macdowell-sollte-bill-murray-daten-findet-ihre-tochter](https://www.spiegel.de/panorama/leute/andie-macdowell-sollte-bill-murray-daten-findet-ihre-tochter-a-9376b892-25b1-4c87-a001-2f4e132e8cbe#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wo-sollte-man-auf-dem-flughafen-rennen](https://www.spiegel.de/karriere/raetsel-der-woche-wo-sollte-man-auf-dem-flughafen-rennen-a-6dae6613-2a85-4d72-b054-2c70571c4299#ref=rss)
-### besuch
-
-* [https://www.spiegel.de/reise/europa/hotel-im-leuchtturm-auf-ischia-das-grosse-leuchten](https://www.spiegel.de/reise/europa/hotel-im-leuchtturm-auf-ischia-das-grosse-leuchten-a-f375228f-e4db-4df2-bece-d14bccfa2ac0#ref=rss)
-* [https://www.spiegel.de/start/heimatbesuch-bei-den-eltern-psychologin-gibt-tipps-wie-man-alte-muster-durchbricht](https://www.spiegel.de/start/heimatbesuch-bei-den-eltern-psychologin-gibt-tipps-wie-man-alte-muster-durchbricht-a-f152e94d-6448-4656-88bc-79de64f15929#ref=rss)
-### new
-
-* [https://www.spiegel.de/ausland/new-york-city-drei-tote-nach-massenschiesserei-in-bar](https://www.spiegel.de/ausland/new-york-city-drei-tote-nach-massenschiesserei-in-bar-a-1a041835-c8f2-4077-800e-bc6690ef7eed#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/new-york-city-drei-tote-nach-massenschiesserei-in-bar](https://www.spiegel.de/ausland/new-york-city-drei-tote-nach-massenschiesserei-in-bar-a-1a041835-c8f2-4077-800e-bc6690ef7eed#ref=rss)
-* [https://www.spiegel.de/panorama/ungewoehnliche-polizeieinsaetze-wenn-ein-nasenbaer-eine-reise-tut](https://www.spiegel.de/panorama/ungewoehnliche-polizeieinsaetze-wenn-ein-nasenbaer-eine-reise-tut-a-fbadc23f-a27f-4be9-94cb-57bde7758794#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/start/heimatbesuch-bei-den-eltern-psychologin-gibt-tipps-wie-man-alte-muster-durchbricht](https://www.spiegel.de/start/heimatbesuch-bei-den-eltern-psychologin-gibt-tipps-wie-man-alte-muster-durchbricht-a-f152e94d-6448-4656-88bc-79de64f15929#ref=rss)
-### psychologin
-
-* [https://www.spiegel.de/start/heimatbesuch-bei-den-eltern-psychologin-gibt-tipps-wie-man-alte-muster-durchbricht](https://www.spiegel.de/start/heimatbesuch-bei-den-eltern-psychologin-gibt-tipps-wie-man-alte-muster-durchbricht-a-f152e94d-6448-4656-88bc-79de64f15929#ref=rss)
-### alte
-
-* [https://www.spiegel.de/start/heimatbesuch-bei-den-eltern-psychologin-gibt-tipps-wie-man-alte-muster-durchbricht](https://www.spiegel.de/start/heimatbesuch-bei-den-eltern-psychologin-gibt-tipps-wie-man-alte-muster-durchbricht-a-f152e94d-6448-4656-88bc-79de64f15929#ref=rss)
-### sagen
-
-* [https://www.spiegel.de/partnerschaft/nein-sagen-wie-sie-es-schaffen-beim-streiten-in-der-liebe-und-beim-sex-abzulehnen](https://www.spiegel.de/partnerschaft/nein-sagen-wie-sie-es-schaffen-beim-streiten-in-der-liebe-und-beim-sex-abzulehnen-a-781bcbe8-7c93-4c5c-b562-2b41f4205cbf#ref=rss)
-### schaffen
-
-* [https://www.spiegel.de/partnerschaft/nein-sagen-wie-sie-es-schaffen-beim-streiten-in-der-liebe-und-beim-sex-abzulehnen](https://www.spiegel.de/partnerschaft/nein-sagen-wie-sie-es-schaffen-beim-streiten-in-der-liebe-und-beim-sex-abzulehnen-a-781bcbe8-7c93-4c5c-b562-2b41f4205cbf#ref=rss)
-### streiten
-
-* [https://www.spiegel.de/partnerschaft/nein-sagen-wie-sie-es-schaffen-beim-streiten-in-der-liebe-und-beim-sex-abzulehnen](https://www.spiegel.de/partnerschaft/nein-sagen-wie-sie-es-schaffen-beim-streiten-in-der-liebe-und-beim-sex-abzulehnen-a-781bcbe8-7c93-4c5c-b562-2b41f4205cbf#ref=rss)
-### sex
-
-* [https://www.spiegel.de/partnerschaft/nein-sagen-wie-sie-es-schaffen-beim-streiten-in-der-liebe-und-beim-sex-abzulehnen](https://www.spiegel.de/partnerschaft/nein-sagen-wie-sie-es-schaffen-beim-streiten-in-der-liebe-und-beim-sex-abzulehnen-a-781bcbe8-7c93-4c5c-b562-2b41f4205cbf#ref=rss)
-### wolodymyr
-
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-friedrich-merz-in-washington-die-strategie-der-europaeer](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-friedrich-merz-in-washington-die-strategie-der-europaeer-a-eb85a67a-cdb1-45fe-91c9-33dd2a2117c6#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei](https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei-a-ada55392-fe17-45be-b381-bc7b8ab1d398#ref=rss)
 ### friedrich
 
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-friedrich-merz-in-washington-die-strategie-der-europaeer](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-friedrich-merz-in-washington-die-strategie-der-europaeer-a-eb85a67a-cdb1-45fe-91c9-33dd2a2117c6#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei](https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei-a-ada55392-fe17-45be-b381-bc7b8ab1d398#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen](https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen-a-855d36f9-ed22-40f2-b379-71c16a9a3eda#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office](https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office-a-147e3786-5c5c-4251-ad68-04a0b1f4e634#ref=rss)
+* [https://www.spiegel.de/politik/cdu-sozialfluegel-lob-fuer-aussenpolitik-kritik-an-innenpolitischen-ergebnissen](https://www.spiegel.de/politik/cdu-sozialfluegel-lob-fuer-aussenpolitik-kritik-an-innenpolitischen-ergebnissen-a-418fe72f-c3e4-4f58-a6bb-245af928148a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-friedrich-merz-und-die-debatte-um-putins-friedensangebot](https://www.spiegel.de/politik/deutschland/ukraine-friedrich-merz-und-die-debatte-um-putins-friedensangebot-a-b6a917b9-d6d0-4c9a-bd72-07f28bc59951#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen](https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen-a-855d36f9-ed22-40f2-b379-71c16a9a3eda#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office](https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office-a-147e3786-5c5c-4251-ad68-04a0b1f4e634#ref=rss)
+* [https://www.spiegel.de/politik/cdu-sozialfluegel-lob-fuer-aussenpolitik-kritik-an-innenpolitischen-ergebnissen](https://www.spiegel.de/politik/cdu-sozialfluegel-lob-fuer-aussenpolitik-kritik-an-innenpolitischen-ergebnissen-a-418fe72f-c3e4-4f58-a6bb-245af928148a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-friedrich-merz-und-die-debatte-um-putins-friedensangebot](https://www.spiegel.de/politik/deutschland/ukraine-friedrich-merz-und-die-debatte-um-putins-friedensangebot-a-b6a917b9-d6d0-4c9a-bd72-07f28bc59951#ref=rss)
+### trump
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen](https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen-a-855d36f9-ed22-40f2-b379-71c16a9a3eda#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-gespraech-mit-alexander-lukaschenko-vor-alaska-gipfel](https://www.spiegel.de/ausland/donald-trump-gespraech-mit-alexander-lukaschenko-vor-alaska-gipfel-a-c12d3a10-971c-4cd9-99b4-17cbfd048e6d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office](https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office-a-147e3786-5c5c-4251-ad68-04a0b1f4e634#ref=rss)
+### donald
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen](https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen-a-855d36f9-ed22-40f2-b379-71c16a9a3eda#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-gespraech-mit-alexander-lukaschenko-vor-alaska-gipfel](https://www.spiegel.de/ausland/donald-trump-gespraech-mit-alexander-lukaschenko-vor-alaska-gipfel-a-c12d3a10-971c-4cd9-99b4-17cbfd048e6d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office](https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office-a-147e3786-5c5c-4251-ad68-04a0b1f4e634#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-friedrich-merz-in-washington-die-strategie-der-europaeer](https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-friedrich-merz-in-washington-die-strategie-der-europaeer-a-eb85a67a-cdb1-45fe-91c9-33dd2a2117c6#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-so-stellt-sich-wladimir-putin-einen-frieden-vor](https://www.spiegel.de/ausland/russland-ukraine-krieg-so-stellt-sich-wladimir-putin-einen-frieden-vor-a-57693089-83ee-481d-a5a9-f4bcba943e94#ref=rss)
-### tiktoks
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen](https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen-a-855d36f9-ed22-40f2-b379-71c16a9a3eda#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office](https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office-a-147e3786-5c5c-4251-ad68-04a0b1f4e634#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-friedrich-merz-und-die-debatte-um-putins-friedensangebot](https://www.spiegel.de/politik/deutschland/ukraine-friedrich-merz-und-die-debatte-um-putins-friedensangebot-a-b6a917b9-d6d0-4c9a-bd72-07f28bc59951#ref=rss)
+### israel
 
-* [https://www.spiegel.de/netzwelt/tiktoks-loescharbeiter-sie-haben-die-ki-mittrainiert-nun-will-tiktok-sie-loswerden](https://www.spiegel.de/netzwelt/tiktoks-loescharbeiter-sie-haben-die-ki-mittrainiert-nun-will-tiktok-sie-loswerden-a-617ba5fe-383d-4d4f-8b4a-8913efd81476#ref=rss)
-### löscharbeiter
+* [https://www.spiegel.de/ausland/israel-menschenrechtsorganisation-begruesst-deutschen-lieferstopp](https://www.spiegel.de/ausland/israel-menschenrechtsorganisation-begruesst-deutschen-lieferstopp-a-90bd7e19-07e0-4396-8851-664f5dc202e6#ref=rss)
+* [https://www.spiegel.de/ausland/israel-protest-zur-freilassung-der-hamas-geiseln-in-gaza-beendet-den-krieg-jetzt](https://www.spiegel.de/ausland/israel-protest-zur-freilassung-der-hamas-geiseln-in-gaza-beendet-den-krieg-jetzt-a-f2c9603d-e382-4f77-ba34-27205da1c7a1#ref=rss)
+### eu
 
-* [https://www.spiegel.de/netzwelt/tiktoks-loescharbeiter-sie-haben-die-ki-mittrainiert-nun-will-tiktok-sie-loswerden](https://www.spiegel.de/netzwelt/tiktoks-loescharbeiter-sie-haben-die-ki-mittrainiert-nun-will-tiktok-sie-loswerden-a-617ba5fe-383d-4d4f-8b4a-8913efd81476#ref=rss)
-### ki
+* [https://www.spiegel.de/wirtschaft/eu-importiert-fluessiggas-im-wert-von-4-5-milliarden-euro-aus-russland](https://www.spiegel.de/wirtschaft/eu-importiert-fluessiggas-im-wert-von-4-5-milliarden-euro-aus-russland-a-8f012c44-9c8d-4463-af71-b43327521125#ref=rss)
+### russland
 
-* [https://www.spiegel.de/netzwelt/tiktoks-loescharbeiter-sie-haben-die-ki-mittrainiert-nun-will-tiktok-sie-loswerden](https://www.spiegel.de/netzwelt/tiktoks-loescharbeiter-sie-haben-die-ki-mittrainiert-nun-will-tiktok-sie-loswerden-a-617ba5fe-383d-4d4f-8b4a-8913efd81476#ref=rss)
-### marco
+* [https://www.spiegel.de/wirtschaft/eu-importiert-fluessiggas-im-wert-von-4-5-milliarden-euro-aus-russland](https://www.spiegel.de/wirtschaft/eu-importiert-fluessiggas-im-wert-von-4-5-milliarden-euro-aus-russland-a-8f012c44-9c8d-4463-af71-b43327521125#ref=rss)
+* [https://www.spiegel.de/wirtschaft/trump-putin-gipfel-russen-boten-offensichtlich-barzahlung-fuer-betankung-ihrer-flugzeuge-an](https://www.spiegel.de/wirtschaft/trump-putin-gipfel-russen-boten-offensichtlich-barzahlung-fuer-betankung-ihrer-flugzeuge-an-a-fdd9303c-546a-43aa-89dd-4f746b8e9df3#ref=rss)
+### maschine
 
-* [https://www.spiegel.de/kultur/musik/marco-wanda-ueber-rock-und-rausch-man-glaubt-man-feiert-das-leben-aber-man-richtet-sich-hin](https://www.spiegel.de/kultur/musik/marco-wanda-ueber-rock-und-rausch-man-glaubt-man-feiert-das-leben-aber-man-richtet-sich-hin-a-12b6249c-26b1-48e7-9274-8a9280fe43eb#ref=rss)
-### wanda
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen](https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen-a-855d36f9-ed22-40f2-b379-71c16a9a3eda#ref=rss)
+* [https://www.spiegel.de/panorama/egelsbach-im-landkreis-offenbach-fluglehrer-muss-kleinflugzeug-auf-acker-notlanden](https://www.spiegel.de/panorama/egelsbach-im-landkreis-offenbach-fluglehrer-muss-kleinflugzeug-auf-acker-notlanden-a-7ab6947a-bd2f-49d0-82d9-787a353e6be9#ref=rss)
+### ich
 
-* [https://www.spiegel.de/kultur/musik/marco-wanda-ueber-rock-und-rausch-man-glaubt-man-feiert-das-leben-aber-man-richtet-sich-hin](https://www.spiegel.de/kultur/musik/marco-wanda-ueber-rock-und-rausch-man-glaubt-man-feiert-das-leben-aber-man-richtet-sich-hin-a-12b6249c-26b1-48e7-9274-8a9280fe43eb#ref=rss)
+* [https://www.spiegel.de/karriere/gehalt-als-partner-in-einer-kanzlei-fuer-120-000-euro-im-jahr-wuerde-ich-den-job-nicht-machen](https://www.spiegel.de/karriere/gehalt-als-partner-in-einer-kanzlei-fuer-120-000-euro-im-jahr-wuerde-ich-den-job-nicht-machen-a-c85d10cf-6b5f-4b57-8059-a3c3b463b69f#ref=rss)
+* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-sich-urlaub-anfuehlt-wenn-man-sich-zu-dick-fuehlt](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-sich-urlaub-anfuehlt-wenn-man-sich-zu-dick-fuehlt-a-496f9ff2-a3f2-49c5-9ea0-8ff1941a3273#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/wirtschaft/rassismusvorwuerfe-swatch-stoppt-kampagne-nach-kritik-aus-china](https://www.spiegel.de/wirtschaft/rassismusvorwuerfe-swatch-stoppt-kampagne-nach-kritik-aus-china-a-68b58c40-29d8-4979-9697-994c53ba1a5e#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-militaerjunta-plant-wahlen-im-dezember-opposition-boykottiert](https://www.spiegel.de/ausland/myanmar-militaerjunta-plant-wahlen-im-dezember-opposition-boykottiert-a-d73dca06-384f-4ce8-ac73-387e7c88ce60#ref=rss)
+* [https://www.spiegel.de/politik/cdu-sozialfluegel-lob-fuer-aussenpolitik-kritik-an-innenpolitischen-ergebnissen](https://www.spiegel.de/politik/cdu-sozialfluegel-lob-fuer-aussenpolitik-kritik-an-innenpolitischen-ergebnissen-a-418fe72f-c3e4-4f58-a6bb-245af928148a#ref=rss)
+### prosiebensat1
+
+* [https://www.spiegel.de/wirtschaft/prosiebensat-1-berlusconi-konzern-verliert-bieterschlacht-um-prosiebensat-1](https://www.spiegel.de/wirtschaft/prosiebensat-1-berlusconi-konzern-verliert-bieterschlacht-um-prosiebensat-1-a-d7cf8613-dd28-4aff-b43b-129aada4bc1f#ref=rss)
+### opposition
+
+* [https://www.spiegel.de/ausland/belarus-fuenf-jahre-nach-der-revolution-ist-die-demokratie-bewegung-verstummt](https://www.spiegel.de/ausland/belarus-fuenf-jahre-nach-der-revolution-ist-die-demokratie-bewegung-verstummt-a-849a327c-c14f-4308-89bf-53a7a3b6e430#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-militaerjunta-plant-wahlen-im-dezember-opposition-boykottiert](https://www.spiegel.de/ausland/myanmar-militaerjunta-plant-wahlen-im-dezember-opposition-boykottiert-a-d73dca06-384f-4ce8-ac73-387e7c88ce60#ref=rss)
+### sozialhilfe
+
+* [https://www.spiegel.de/wirtschaft/soziales/sozialhilfe-deutschland-hat-2024-deutlich-mehr-geld-fuer-sozialhilfe-ausgegeben](https://www.spiegel.de/wirtschaft/soziales/sozialhilfe-deutschland-hat-2024-deutlich-mehr-geld-fuer-sozialhilfe-ausgegeben-a-ec16df3b-3035-4c89-bc90-46177285e2a3#ref=rss)
+### sam
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/chatgpt-hersteller-sam-altman-erhaelt-auszeichnung-von-axel-springer](https://www.spiegel.de/netzwelt/netzpolitik/chatgpt-hersteller-sam-altman-erhaelt-auszeichnung-von-axel-springer-a-a95ad454-8721-43f0-9c34-cfbd8b02ac90#ref=rss)
+### altman
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/chatgpt-hersteller-sam-altman-erhaelt-auszeichnung-von-axel-springer](https://www.spiegel.de/netzwelt/netzpolitik/chatgpt-hersteller-sam-altman-erhaelt-auszeichnung-von-axel-springer-a-a95ad454-8721-43f0-9c34-cfbd8b02ac90#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/eu-importiert-fluessiggas-im-wert-von-4-5-milliarden-euro-aus-russland](https://www.spiegel.de/wirtschaft/eu-importiert-fluessiggas-im-wert-von-4-5-milliarden-euro-aus-russland-a-8f012c44-9c8d-4463-af71-b43327521125#ref=rss)
+* [https://www.spiegel.de/karriere/gehalt-als-partner-in-einer-kanzlei-fuer-120-000-euro-im-jahr-wuerde-ich-den-job-nicht-machen](https://www.spiegel.de/karriere/gehalt-als-partner-in-einer-kanzlei-fuer-120-000-euro-im-jahr-wuerde-ich-den-job-nicht-machen-a-c85d10cf-6b5f-4b57-8059-a3c3b463b69f#ref=rss)
+### gas
+
+* [https://www.spiegel.de/wirtschaft/eu-importiert-fluessiggas-im-wert-von-4-5-milliarden-euro-aus-russland](https://www.spiegel.de/wirtschaft/eu-importiert-fluessiggas-im-wert-von-4-5-milliarden-euro-aus-russland-a-8f012c44-9c8d-4463-af71-b43327521125#ref=rss)
+### sanktionen
+
+* [https://www.spiegel.de/wirtschaft/eu-importiert-fluessiggas-im-wert-von-4-5-milliarden-euro-aus-russland](https://www.spiegel.de/wirtschaft/eu-importiert-fluessiggas-im-wert-von-4-5-milliarden-euro-aus-russland-a-8f012c44-9c8d-4463-af71-b43327521125#ref=rss)
+* [https://www.spiegel.de/wirtschaft/trump-putin-gipfel-russen-boten-offensichtlich-barzahlung-fuer-betankung-ihrer-flugzeuge-an](https://www.spiegel.de/wirtschaft/trump-putin-gipfel-russen-boten-offensichtlich-barzahlung-fuer-betankung-ihrer-flugzeuge-an-a-fdd9303c-546a-43aa-89dd-4f746b8e9df3#ref=rss)
+### weißen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen](https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen-a-855d36f9-ed22-40f2-b379-71c16a9a3eda#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office](https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office-a-147e3786-5c5c-4251-ad68-04a0b1f4e634#ref=rss)
+### haus
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen](https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen-a-855d36f9-ed22-40f2-b379-71c16a9a3eda#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office](https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office-a-147e3786-5c5c-4251-ad68-04a0b1f4e634#ref=rss)
+### deal
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen](https://www.spiegel.de/politik/deutschland/friedrich-merz-auf-dem-weg-zu-trump-der-kanzler-muss-die-kleine-maschine-nehmen-a-855d36f9-ed22-40f2-b379-71c16a9a3eda#ref=rss)
+* [https://www.spiegel.de/wirtschaft/green-deal-zukunft-des-projekts-von-ursula-von-der-leyen-ist-ungewiss](https://www.spiegel.de/wirtschaft/green-deal-zukunft-des-projekts-von-ursula-von-der-leyen-ist-ungewiss-a-77e24cd0-ba90-4fd1-94e5-973b4186d32d#ref=rss)
+### jugendsprache
+
+* [https://www.spiegel.de/panorama/jugendsprache-cambridge-dictionary-nimmt-woerter-wie-tradwife-und-delulu-auf](https://www.spiegel.de/panorama/jugendsprache-cambridge-dictionary-nimmt-woerter-wie-tradwife-und-delulu-auf-a-09715c09-a36d-4ebe-8cda-22be9f2e0a9d#ref=rss)
+### cambridge
+
+* [https://www.spiegel.de/panorama/jugendsprache-cambridge-dictionary-nimmt-woerter-wie-tradwife-und-delulu-auf](https://www.spiegel.de/panorama/jugendsprache-cambridge-dictionary-nimmt-woerter-wie-tradwife-und-delulu-auf-a-09715c09-a36d-4ebe-8cda-22be9f2e0a9d#ref=rss)
+### dictionary
+
+* [https://www.spiegel.de/panorama/jugendsprache-cambridge-dictionary-nimmt-woerter-wie-tradwife-und-delulu-auf](https://www.spiegel.de/panorama/jugendsprache-cambridge-dictionary-nimmt-woerter-wie-tradwife-und-delulu-auf-a-09715c09-a36d-4ebe-8cda-22be9f2e0a9d#ref=rss)
+### co
+
+* [https://www.spiegel.de/panorama/jugendsprache-cambridge-dictionary-nimmt-woerter-wie-tradwife-und-delulu-auf](https://www.spiegel.de/panorama/jugendsprache-cambridge-dictionary-nimmt-woerter-wie-tradwife-und-delulu-auf-a-09715c09-a36d-4ebe-8cda-22be9f2e0a9d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office](https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office-a-147e3786-5c5c-4251-ad68-04a0b1f4e634#ref=rss)
+### eigenheim
+
+* [https://www.spiegel.de/wirtschaft/das-eigenheim-ist-als-sparziel-immer-weniger-gefragt](https://www.spiegel.de/wirtschaft/das-eigenheim-ist-als-sparziel-immer-weniger-gefragt-a-15c93776-bb57-4376-ad45-4f3426668a72#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/das-eigenheim-ist-als-sparziel-immer-weniger-gefragt](https://www.spiegel.de/wirtschaft/das-eigenheim-ist-als-sparziel-immer-weniger-gefragt-a-15c93776-bb57-4376-ad45-4f3426668a72#ref=rss)
+* [https://www.spiegel.de/politik/cdu-sozialfluegel-lob-fuer-aussenpolitik-kritik-an-innenpolitischen-ergebnissen](https://www.spiegel.de/politik/cdu-sozialfluegel-lob-fuer-aussenpolitik-kritik-an-innenpolitischen-ergebnissen-a-418fe72f-c3e4-4f58-a6bb-245af928148a#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/wirtschaft/das-eigenheim-ist-als-sparziel-immer-weniger-gefragt](https://www.spiegel.de/wirtschaft/das-eigenheim-ist-als-sparziel-immer-weniger-gefragt-a-15c93776-bb57-4376-ad45-4f3426668a72#ref=rss)
+* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-sich-urlaub-anfuehlt-wenn-man-sich-zu-dick-fuehlt](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-sich-urlaub-anfuehlt-wenn-man-sich-zu-dick-fuehlt-a-496f9ff2-a3f2-49c5-9ea0-8ff1941a3273#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/israel-menschenrechtsorganisation-begruesst-deutschen-lieferstopp](https://www.spiegel.de/ausland/israel-menschenrechtsorganisation-begruesst-deutschen-lieferstopp-a-90bd7e19-07e0-4396-8851-664f5dc202e6#ref=rss)
+* [https://www.spiegel.de/ausland/israel-protest-zur-freilassung-der-hamas-geiseln-in-gaza-beendet-den-krieg-jetzt](https://www.spiegel.de/ausland/israel-protest-zur-freilassung-der-hamas-geiseln-in-gaza-beendet-den-krieg-jetzt-a-f2c9603d-e382-4f77-ba34-27205da1c7a1#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/ausland/israel-menschenrechtsorganisation-begruesst-deutschen-lieferstopp](https://www.spiegel.de/ausland/israel-menschenrechtsorganisation-begruesst-deutschen-lieferstopp-a-90bd7e19-07e0-4396-8851-664f5dc202e6#ref=rss)
+* [https://www.spiegel.de/ausland/israel-protest-zur-freilassung-der-hamas-geiseln-in-gaza-beendet-den-krieg-jetzt](https://www.spiegel.de/ausland/israel-protest-zur-freilassung-der-hamas-geiseln-in-gaza-beendet-den-krieg-jetzt-a-f2c9603d-e382-4f77-ba34-27205da1c7a1#ref=rss)
+### gesamten
+
+* [https://www.spiegel.de/ausland/israel-menschenrechtsorganisation-begruesst-deutschen-lieferstopp](https://www.spiegel.de/ausland/israel-menschenrechtsorganisation-begruesst-deutschen-lieferstopp-a-90bd7e19-07e0-4396-8851-664f5dc202e6#ref=rss)
+* [https://www.spiegel.de/karriere/gehalt-als-partner-in-einer-kanzlei-fuer-120-000-euro-im-jahr-wuerde-ich-den-job-nicht-machen](https://www.spiegel.de/karriere/gehalt-als-partner-in-einer-kanzlei-fuer-120-000-euro-im-jahr-wuerde-ich-den-job-nicht-machen-a-c85d10cf-6b5f-4b57-8059-a3c3b463b69f#ref=rss)
+### partner
+
+* [https://www.spiegel.de/karriere/gehalt-als-partner-in-einer-kanzlei-fuer-120-000-euro-im-jahr-wuerde-ich-den-job-nicht-machen](https://www.spiegel.de/karriere/gehalt-als-partner-in-einer-kanzlei-fuer-120-000-euro-im-jahr-wuerde-ich-den-job-nicht-machen-a-c85d10cf-6b5f-4b57-8059-a3c3b463b69f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/bella-thorne-schauspielerin-macht-ihrem-partner-einen-heiratsantrag](https://www.spiegel.de/panorama/leute/bella-thorne-schauspielerin-macht-ihrem-partner-einen-heiratsantrag-a-4e554c92-c84a-423a-bd7d-b76e826c4fe2#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/karriere/gehalt-als-partner-in-einer-kanzlei-fuer-120-000-euro-im-jahr-wuerde-ich-den-job-nicht-machen](https://www.spiegel.de/karriere/gehalt-als-partner-in-einer-kanzlei-fuer-120-000-euro-im-jahr-wuerde-ich-den-job-nicht-machen-a-c85d10cf-6b5f-4b57-8059-a3c3b463b69f#ref=rss)
+### fast
+
+* [https://www.spiegel.de/karriere/gehalt-als-partner-in-einer-kanzlei-fuer-120-000-euro-im-jahr-wuerde-ich-den-job-nicht-machen](https://www.spiegel.de/karriere/gehalt-als-partner-in-einer-kanzlei-fuer-120-000-euro-im-jahr-wuerde-ich-den-job-nicht-machen-a-c85d10cf-6b5f-4b57-8059-a3c3b463b69f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/sozialhilfe-deutschland-hat-2024-deutlich-mehr-geld-fuer-sozialhilfe-ausgegeben](https://www.spiegel.de/wirtschaft/soziales/sozialhilfe-deutschland-hat-2024-deutlich-mehr-geld-fuer-sozialhilfe-ausgegeben-a-ec16df3b-3035-4c89-bc90-46177285e2a3#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/auto/deutsche-bahn-hamburg-hannover-anlieger-fordern-stopp-der-bahn-neubauplaene-fuer-die-strecke](https://www.spiegel.de/auto/deutsche-bahn-hamburg-hannover-anlieger-fordern-stopp-der-bahn-neubauplaene-fuer-die-strecke-a-62c0c3a8-7799-4833-9bf0-c7c7d2916eda#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/auto/deutsche-bahn-hamburg-hannover-anlieger-fordern-stopp-der-bahn-neubauplaene-fuer-die-strecke](https://www.spiegel.de/auto/deutsche-bahn-hamburg-hannover-anlieger-fordern-stopp-der-bahn-neubauplaene-fuer-die-strecke-a-62c0c3a8-7799-4833-9bf0-c7c7d2916eda#ref=rss)
+### strecke
+
+* [https://www.spiegel.de/auto/deutsche-bahn-hamburg-hannover-anlieger-fordern-stopp-der-bahn-neubauplaene-fuer-die-strecke](https://www.spiegel.de/auto/deutsche-bahn-hamburg-hannover-anlieger-fordern-stopp-der-bahn-neubauplaene-fuer-die-strecke-a-62c0c3a8-7799-4833-9bf0-c7c7d2916eda#ref=rss)
+### überhaupt
+
+* [https://www.spiegel.de/wirtschaft/trump-putin-gipfel-russen-boten-offensichtlich-barzahlung-fuer-betankung-ihrer-flugzeuge-an](https://www.spiegel.de/wirtschaft/trump-putin-gipfel-russen-boten-offensichtlich-barzahlung-fuer-betankung-ihrer-flugzeuge-an-a-fdd9303c-546a-43aa-89dd-4f746b8e9df3#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office](https://www.spiegel.de/ausland/donald-trump-empfaengt-friedrich-merz-und-co-kuscheln-und-kuschen-im-oval-office-a-147e3786-5c5c-4251-ad68-04a0b1f4e634#ref=rss)
+### swatch
+
+* [https://www.spiegel.de/wirtschaft/rassismusvorwuerfe-swatch-stoppt-kampagne-nach-kritik-aus-china](https://www.spiegel.de/wirtschaft/rassismusvorwuerfe-swatch-stoppt-kampagne-nach-kritik-aus-china-a-68b58c40-29d8-4979-9697-994c53ba1a5e#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/rassismusvorwuerfe-swatch-stoppt-kampagne-nach-kritik-aus-china](https://www.spiegel.de/wirtschaft/rassismusvorwuerfe-swatch-stoppt-kampagne-nach-kritik-aus-china-a-68b58c40-29d8-4979-9697-994c53ba1a5e#ref=rss)
+### schnell
+
+* [https://www.spiegel.de/wirtschaft/rassismusvorwuerfe-swatch-stoppt-kampagne-nach-kritik-aus-china](https://www.spiegel.de/wirtschaft/rassismusvorwuerfe-swatch-stoppt-kampagne-nach-kritik-aus-china-a-68b58c40-29d8-4979-9697-994c53ba1a5e#ref=rss)
+* [https://www.spiegel.de/panorama/egelsbach-im-landkreis-offenbach-fluglehrer-muss-kleinflugzeug-auf-acker-notlanden](https://www.spiegel.de/panorama/egelsbach-im-landkreis-offenbach-fluglehrer-muss-kleinflugzeug-auf-acker-notlanden-a-7ab6947a-bd2f-49d0-82d9-787a353e6be9#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/ausland/belarus-fuenf-jahre-nach-der-revolution-ist-die-demokratie-bewegung-verstummt](https://www.spiegel.de/ausland/belarus-fuenf-jahre-nach-der-revolution-ist-die-demokratie-bewegung-verstummt-a-849a327c-c14f-4308-89bf-53a7a3b6e430#ref=rss)
+* [https://www.spiegel.de/panorama/leute/bella-thorne-schauspielerin-macht-ihrem-partner-einen-heiratsantrag](https://www.spiegel.de/panorama/leute/bella-thorne-schauspielerin-macht-ihrem-partner-einen-heiratsantrag-a-4e554c92-c84a-423a-bd7d-b76e826c4fe2#ref=rss)
+### hunderttausende
+
+* [https://www.spiegel.de/ausland/belarus-fuenf-jahre-nach-der-revolution-ist-die-demokratie-bewegung-verstummt](https://www.spiegel.de/ausland/belarus-fuenf-jahre-nach-der-revolution-ist-die-demokratie-bewegung-verstummt-a-849a327c-c14f-4308-89bf-53a7a3b6e430#ref=rss)
+* [https://www.spiegel.de/ausland/israel-protest-zur-freilassung-der-hamas-geiseln-in-gaza-beendet-den-krieg-jetzt](https://www.spiegel.de/ausland/israel-protest-zur-freilassung-der-hamas-geiseln-in-gaza-beendet-den-krieg-jetzt-a-f2c9603d-e382-4f77-ba34-27205da1c7a1#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/ausland/donald-trump-gespraech-mit-alexander-lukaschenko-vor-alaska-gipfel](https://www.spiegel.de/ausland/donald-trump-gespraech-mit-alexander-lukaschenko-vor-alaska-gipfel-a-c12d3a10-971c-4cd9-99b4-17cbfd048e6d#ref=rss)
+### lukaschenko
+
+* [https://www.spiegel.de/ausland/donald-trump-gespraech-mit-alexander-lukaschenko-vor-alaska-gipfel](https://www.spiegel.de/ausland/donald-trump-gespraech-mit-alexander-lukaschenko-vor-alaska-gipfel-a-c12d3a10-971c-4cd9-99b4-17cbfd048e6d#ref=rss)
+### alaskagipfel
+
+* [https://www.spiegel.de/ausland/donald-trump-gespraech-mit-alexander-lukaschenko-vor-alaska-gipfel](https://www.spiegel.de/ausland/donald-trump-gespraech-mit-alexander-lukaschenko-vor-alaska-gipfel-a-c12d3a10-971c-4cd9-99b4-17cbfd048e6d#ref=rss)
+### bella
+
+* [https://www.spiegel.de/panorama/leute/bella-thorne-schauspielerin-macht-ihrem-partner-einen-heiratsantrag](https://www.spiegel.de/panorama/leute/bella-thorne-schauspielerin-macht-ihrem-partner-einen-heiratsantrag-a-4e554c92-c84a-423a-bd7d-b76e826c4fe2#ref=rss)
+### thorne
+
+* [https://www.spiegel.de/panorama/leute/bella-thorne-schauspielerin-macht-ihrem-partner-einen-heiratsantrag](https://www.spiegel.de/panorama/leute/bella-thorne-schauspielerin-macht-ihrem-partner-einen-heiratsantrag-a-4e554c92-c84a-423a-bd7d-b76e826c4fe2#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/panorama/leute/bella-thorne-schauspielerin-macht-ihrem-partner-einen-heiratsantrag](https://www.spiegel.de/panorama/leute/bella-thorne-schauspielerin-macht-ihrem-partner-einen-heiratsantrag-a-4e554c92-c84a-423a-bd7d-b76e826c4fe2#ref=rss)
+* [https://www.spiegel.de/kultur/kino/renee-zellweger-spuerte-eine-natuerliche-berufung-fuer-ihr-regiedebuet](https://www.spiegel.de/kultur/kino/renee-zellweger-spuerte-eine-natuerliche-berufung-fuer-ihr-regiedebuet-a-58327cdc-8451-4148-a432-06e8b98f0be7#ref=rss)
+### macht
+
+* [https://www.spiegel.de/panorama/leute/bella-thorne-schauspielerin-macht-ihrem-partner-einen-heiratsantrag](https://www.spiegel.de/panorama/leute/bella-thorne-schauspielerin-macht-ihrem-partner-einen-heiratsantrag-a-4e554c92-c84a-423a-bd7d-b76e826c4fe2#ref=rss)
+* [https://www.spiegel.de/ausland/israel-protest-zur-freilassung-der-hamas-geiseln-in-gaza-beendet-den-krieg-jetzt](https://www.spiegel.de/ausland/israel-protest-zur-freilassung-der-hamas-geiseln-in-gaza-beendet-den-krieg-jetzt-a-f2c9603d-e382-4f77-ba34-27205da1c7a1#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/leute/bella-thorne-schauspielerin-macht-ihrem-partner-einen-heiratsantrag](https://www.spiegel.de/panorama/leute/bella-thorne-schauspielerin-macht-ihrem-partner-einen-heiratsantrag-a-4e554c92-c84a-423a-bd7d-b76e826c4fe2#ref=rss)
+* [https://www.spiegel.de/kultur/hedwig-richter-ueber-familienbilder-der-heterosexuelle-mann-die-willige-frau-das-gehorsame-kind](https://www.spiegel.de/kultur/hedwig-richter-ueber-familienbilder-der-heterosexuelle-mann-die-willige-frau-das-gehorsame-kind-a-eb50c41d-43dc-4efc-957d-31f6db2c1bc0#ref=rss)
+### freilassung
+
+* [https://www.spiegel.de/ausland/israel-protest-zur-freilassung-der-hamas-geiseln-in-gaza-beendet-den-krieg-jetzt](https://www.spiegel.de/ausland/israel-protest-zur-freilassung-der-hamas-geiseln-in-gaza-beendet-den-krieg-jetzt-a-f2c9603d-e382-4f77-ba34-27205da1c7a1#ref=rss)
+### hamasgeiseln
+
+* [https://www.spiegel.de/ausland/israel-protest-zur-freilassung-der-hamas-geiseln-in-gaza-beendet-den-krieg-jetzt](https://www.spiegel.de/ausland/israel-protest-zur-freilassung-der-hamas-geiseln-in-gaza-beendet-den-krieg-jetzt-a-f2c9603d-e382-4f77-ba34-27205da1c7a1#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/ausland/israel-protest-zur-freilassung-der-hamas-geiseln-in-gaza-beendet-den-krieg-jetzt](https://www.spiegel.de/ausland/israel-protest-zur-freilassung-der-hamas-geiseln-in-gaza-beendet-den-krieg-jetzt-a-f2c9603d-e382-4f77-ba34-27205da1c7a1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-erstattet-anzeige-wegen-rassistischer-beleidigung-in-leipzig](https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-erstattet-anzeige-wegen-rassistischer-beleidigung-in-leipzig-a-b8e84cf9-0f3d-4b14-bccd-19b1017fada6#ref=rss)
+### urlaub
+
+* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-sich-urlaub-anfuehlt-wenn-man-sich-zu-dick-fuehlt](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-sich-urlaub-anfuehlt-wenn-man-sich-zu-dick-fuehlt-a-496f9ff2-a3f2-49c5-9ea0-8ff1941a3273#ref=rss)
+### alle
+
+* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-sich-urlaub-anfuehlt-wenn-man-sich-zu-dick-fuehlt](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-sich-urlaub-anfuehlt-wenn-man-sich-zu-dick-fuehlt-a-496f9ff2-a3f2-49c5-9ea0-8ff1941a3273#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/sozialhilfe-deutschland-hat-2024-deutlich-mehr-geld-fuer-sozialhilfe-ausgegeben](https://www.spiegel.de/wirtschaft/soziales/sozialhilfe-deutschland-hat-2024-deutlich-mehr-geld-fuer-sozialhilfe-ausgegeben-a-ec16df3b-3035-4c89-bc90-46177285e2a3#ref=rss)
+### leichter
+
+* [https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-sich-urlaub-anfuehlt-wenn-man-sich-zu-dick-fuehlt](https://www.spiegel.de/psychologie/leben-mit-adipositas-wie-sich-urlaub-anfuehlt-wenn-man-sich-zu-dick-fuehlt-a-496f9ff2-a3f2-49c5-9ea0-8ff1941a3273#ref=rss)
+### blutgefäße
+
+* [https://www.spiegel.de/gesundheit/neue-studie-covid-koennte-blutgefaesse-schneller-altern-lassen](https://www.spiegel.de/gesundheit/neue-studie-covid-koennte-blutgefaesse-schneller-altern-lassen-a-38d01832-10c5-48fd-a9e5-c05e8dffd4b2#ref=rss)
+### schneller
+
+* [https://www.spiegel.de/gesundheit/neue-studie-covid-koennte-blutgefaesse-schneller-altern-lassen](https://www.spiegel.de/gesundheit/neue-studie-covid-koennte-blutgefaesse-schneller-altern-lassen-a-38d01832-10c5-48fd-a9e5-c05e8dffd4b2#ref=rss)
+### neue
+
+* [https://www.spiegel.de/gesundheit/neue-studie-covid-koennte-blutgefaesse-schneller-altern-lassen](https://www.spiegel.de/gesundheit/neue-studie-covid-koennte-blutgefaesse-schneller-altern-lassen-a-38d01832-10c5-48fd-a9e5-c05e8dffd4b2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/paderborn-wachmann-war-bei-messerangriff-in-psychiatrie-kueche-abwesend](https://www.spiegel.de/panorama/justiz/paderborn-wachmann-war-bei-messerangriff-in-psychiatrie-kueche-abwesend-a-7e13fb9f-6b3f-4478-be48-d8d737762e59#ref=rss)
+### ergebnisse
+
+* [https://www.spiegel.de/gesundheit/neue-studie-covid-koennte-blutgefaesse-schneller-altern-lassen](https://www.spiegel.de/gesundheit/neue-studie-covid-koennte-blutgefaesse-schneller-altern-lassen-a-38d01832-10c5-48fd-a9e5-c05e8dffd4b2#ref=rss)
+* [https://www.spiegel.de/politik/cdu-sozialfluegel-lob-fuer-aussenpolitik-kritik-an-innenpolitischen-ergebnissen](https://www.spiegel.de/politik/cdu-sozialfluegel-lob-fuer-aussenpolitik-kritik-an-innenpolitischen-ergebnissen-a-418fe72f-c3e4-4f58-a6bb-245af928148a#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/gesundheit/neue-studie-covid-koennte-blutgefaesse-schneller-altern-lassen](https://www.spiegel.de/gesundheit/neue-studie-covid-koennte-blutgefaesse-schneller-altern-lassen-a-38d01832-10c5-48fd-a9e5-c05e8dffd4b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/qantas-muss-millionenstrafe-wegen-massenentlassungen-zahlen](https://www.spiegel.de/wirtschaft/qantas-muss-millionenstrafe-wegen-massenentlassungen-zahlen-a-96883e5a-9a49-4bee-899d-8f45c67de7f1#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/soziales/sozialhilfe-deutschland-hat-2024-deutlich-mehr-geld-fuer-sozialhilfe-ausgegeben](https://www.spiegel.de/wirtschaft/soziales/sozialhilfe-deutschland-hat-2024-deutlich-mehr-geld-fuer-sozialhilfe-ausgegeben-a-ec16df3b-3035-4c89-bc90-46177285e2a3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-steigen-im-ersten-halbjahr](https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-steigen-im-ersten-halbjahr-a-d70cb648-fa77-4ae4-a339-9386dc34fa4b#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/wirtschaft/soziales/sozialhilfe-deutschland-hat-2024-deutlich-mehr-geld-fuer-sozialhilfe-ausgegeben](https://www.spiegel.de/wirtschaft/soziales/sozialhilfe-deutschland-hat-2024-deutlich-mehr-geld-fuer-sozialhilfe-ausgegeben-a-ec16df3b-3035-4c89-bc90-46177285e2a3#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/soziales/sozialhilfe-deutschland-hat-2024-deutlich-mehr-geld-fuer-sozialhilfe-ausgegeben](https://www.spiegel.de/wirtschaft/soziales/sozialhilfe-deutschland-hat-2024-deutlich-mehr-geld-fuer-sozialhilfe-ausgegeben-a-ec16df3b-3035-4c89-bc90-46177285e2a3#ref=rss)
+* [https://www.spiegel.de/politik/cdu-sozialfluegel-lob-fuer-aussenpolitik-kritik-an-innenpolitischen-ergebnissen](https://www.spiegel.de/politik/cdu-sozialfluegel-lob-fuer-aussenpolitik-kritik-an-innenpolitischen-ergebnissen-a-418fe72f-c3e4-4f58-a6bb-245af928148a#ref=rss)
+### myanmar
+
+* [https://www.spiegel.de/ausland/myanmar-militaerjunta-plant-wahlen-im-dezember-opposition-boykottiert](https://www.spiegel.de/ausland/myanmar-militaerjunta-plant-wahlen-im-dezember-opposition-boykottiert-a-d73dca06-384f-4ce8-ac73-387e7c88ce60#ref=rss)
+### christopher
+
+* [https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-erstattet-anzeige-wegen-rassistischer-beleidigung-in-leipzig](https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-erstattet-anzeige-wegen-rassistischer-beleidigung-in-leipzig-a-b8e84cf9-0f3d-4b14-bccd-19b1017fada6#ref=rss)
+### antwiadjei
+
+* [https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-erstattet-anzeige-wegen-rassistischer-beleidigung-in-leipzig](https://www.spiegel.de/sport/fussball/schalke-04-christopher-antwi-adjei-erstattet-anzeige-wegen-rassistischer-beleidigung-in-leipzig-a-b8e84cf9-0f3d-4b14-bccd-19b1017fada6#ref=rss)
+### qantas
+
+* [https://www.spiegel.de/wirtschaft/qantas-muss-millionenstrafe-wegen-massenentlassungen-zahlen](https://www.spiegel.de/wirtschaft/qantas-muss-millionenstrafe-wegen-massenentlassungen-zahlen-a-96883e5a-9a49-4bee-899d-8f45c67de7f1#ref=rss)
 ### paderborn
 
-* [https://www.spiegel.de/panorama/justiz/paderborn-13-jaehrige-terrorverdaechtige-soll-in-klinik-auf-betreuerin-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paderborn-13-jaehrige-terrorverdaechtige-soll-in-klinik-auf-betreuerin-eingestochen-haben-a-6c5bb092-2e7e-4de2-a294-5982e15aeb2e#ref=rss)
-### betreuerin
+* [https://www.spiegel.de/panorama/justiz/paderborn-wachmann-war-bei-messerangriff-in-psychiatrie-kueche-abwesend](https://www.spiegel.de/panorama/justiz/paderborn-wachmann-war-bei-messerangriff-in-psychiatrie-kueche-abwesend-a-7e13fb9f-6b3f-4478-be48-d8d737762e59#ref=rss)
+### kurz
 
-* [https://www.spiegel.de/panorama/justiz/paderborn-13-jaehrige-terrorverdaechtige-soll-in-klinik-auf-betreuerin-eingestochen-haben](https://www.spiegel.de/panorama/justiz/paderborn-13-jaehrige-terrorverdaechtige-soll-in-klinik-auf-betreuerin-eingestochen-haben-a-6c5bb092-2e7e-4de2-a294-5982e15aeb2e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/paderborn-wachmann-war-bei-messerangriff-in-psychiatrie-kueche-abwesend](https://www.spiegel.de/panorama/justiz/paderborn-wachmann-war-bei-messerangriff-in-psychiatrie-kueche-abwesend-a-7e13fb9f-6b3f-4478-be48-d8d737762e59#ref=rss)
+* [https://www.spiegel.de/panorama/egelsbach-im-landkreis-offenbach-fluglehrer-muss-kleinflugzeug-auf-acker-notlanden](https://www.spiegel.de/panorama/egelsbach-im-landkreis-offenbach-fluglehrer-muss-kleinflugzeug-auf-acker-notlanden-a-7ab6947a-bd2f-49d0-82d9-787a353e6be9#ref=rss)
+### putins
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-friedrich-merz-und-die-debatte-um-putins-friedensangebot](https://www.spiegel.de/politik/deutschland/ukraine-friedrich-merz-und-die-debatte-um-putins-friedensangebot-a-b6a917b9-d6d0-4c9a-bd72-07f28bc59951#ref=rss)
+### friedensangebot
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-friedrich-merz-und-die-debatte-um-putins-friedensangebot](https://www.spiegel.de/politik/deutschland/ukraine-friedrich-merz-und-die-debatte-um-putins-friedensangebot-a-b6a917b9-d6d0-4c9a-bd72-07f28bc59951#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/wirtschaft/green-deal-zukunft-des-projekts-von-ursula-von-der-leyen-ist-ungewiss](https://www.spiegel.de/wirtschaft/green-deal-zukunft-des-projekts-von-ursula-von-der-leyen-ist-ungewiss-a-77e24cd0-ba90-4fd1-94e5-973b4186d32d#ref=rss)
+### projekts
+
+* [https://www.spiegel.de/wirtschaft/green-deal-zukunft-des-projekts-von-ursula-von-der-leyen-ist-ungewiss](https://www.spiegel.de/wirtschaft/green-deal-zukunft-des-projekts-von-ursula-von-der-leyen-ist-ungewiss-a-77e24cd0-ba90-4fd1-94e5-973b4186d32d#ref=rss)
+### ursula
+
+* [https://www.spiegel.de/wirtschaft/green-deal-zukunft-des-projekts-von-ursula-von-der-leyen-ist-ungewiss](https://www.spiegel.de/wirtschaft/green-deal-zukunft-des-projekts-von-ursula-von-der-leyen-ist-ungewiss-a-77e24cd0-ba90-4fd1-94e5-973b4186d32d#ref=rss)
 ### leyen
 
-* [https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei](https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei-a-ada55392-fe17-45be-b381-bc7b8ab1d398#ref=rss)
-### treffen
+* [https://www.spiegel.de/wirtschaft/green-deal-zukunft-des-projekts-von-ursula-von-der-leyen-ist-ungewiss](https://www.spiegel.de/wirtschaft/green-deal-zukunft-des-projekts-von-ursula-von-der-leyen-ist-ungewiss-a-77e24cd0-ba90-4fd1-94e5-973b4186d32d#ref=rss)
+### renée
 
-* [https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei](https://www.spiegel.de/politik/friedrich-merz-und-ursula-von-der-leyen-bei-treffen-von-donald-trump-und-wolodymyr-selenskyj-dabei-a-ada55392-fe17-45be-b381-bc7b8ab1d398#ref=rss)
-### emma
+* [https://www.spiegel.de/kultur/kino/renee-zellweger-spuerte-eine-natuerliche-berufung-fuer-ihr-regiedebuet](https://www.spiegel.de/kultur/kino/renee-zellweger-spuerte-eine-natuerliche-berufung-fuer-ihr-regiedebuet-a-58327cdc-8451-4148-a432-06e8b98f0be7#ref=rss)
+### zellweger
 
-* [https://www.spiegel.de/panorama/leute/emma-stone-erzaehlt-wie-ihre-mutter-mal-angelina-jolie-ausfragte](https://www.spiegel.de/panorama/leute/emma-stone-erzaehlt-wie-ihre-mutter-mal-angelina-jolie-ausfragte-a-6932b789-64e0-40b7-ab81-f17efe1755df#ref=rss)
-### stone
+* [https://www.spiegel.de/kultur/kino/renee-zellweger-spuerte-eine-natuerliche-berufung-fuer-ihr-regiedebuet](https://www.spiegel.de/kultur/kino/renee-zellweger-spuerte-eine-natuerliche-berufung-fuer-ihr-regiedebuet-a-58327cdc-8451-4148-a432-06e8b98f0be7#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/panorama/leute/emma-stone-erzaehlt-wie-ihre-mutter-mal-angelina-jolie-ausfragte](https://www.spiegel.de/panorama/leute/emma-stone-erzaehlt-wie-ihre-mutter-mal-angelina-jolie-ausfragte-a-6932b789-64e0-40b7-ab81-f17efe1755df#ref=rss)
-### angelina
+* [https://www.spiegel.de/kultur/kino/renee-zellweger-spuerte-eine-natuerliche-berufung-fuer-ihr-regiedebuet](https://www.spiegel.de/kultur/kino/renee-zellweger-spuerte-eine-natuerliche-berufung-fuer-ihr-regiedebuet-a-58327cdc-8451-4148-a432-06e8b98f0be7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-steigen-im-ersten-halbjahr](https://www.spiegel.de/wirtschaft/immobilien-baugenehmigungen-fuer-wohnungen-steigen-im-ersten-halbjahr-a-d70cb648-fa77-4ae4-a339-9386dc34fa4b#ref=rss)
+### fluglehrer
 
-* [https://www.spiegel.de/panorama/leute/emma-stone-erzaehlt-wie-ihre-mutter-mal-angelina-jolie-ausfragte](https://www.spiegel.de/panorama/leute/emma-stone-erzaehlt-wie-ihre-mutter-mal-angelina-jolie-ausfragte-a-6932b789-64e0-40b7-ab81-f17efe1755df#ref=rss)
-### jolie
+* [https://www.spiegel.de/panorama/egelsbach-im-landkreis-offenbach-fluglehrer-muss-kleinflugzeug-auf-acker-notlanden](https://www.spiegel.de/panorama/egelsbach-im-landkreis-offenbach-fluglehrer-muss-kleinflugzeug-auf-acker-notlanden-a-7ab6947a-bd2f-49d0-82d9-787a353e6be9#ref=rss)
+### acker
 
-* [https://www.spiegel.de/panorama/leute/emma-stone-erzaehlt-wie-ihre-mutter-mal-angelina-jolie-ausfragte](https://www.spiegel.de/panorama/leute/emma-stone-erzaehlt-wie-ihre-mutter-mal-angelina-jolie-ausfragte-a-6932b789-64e0-40b7-ab81-f17efe1755df#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/egelsbach-im-landkreis-offenbach-fluglehrer-muss-kleinflugzeug-auf-acker-notlanden](https://www.spiegel.de/panorama/egelsbach-im-landkreis-offenbach-fluglehrer-muss-kleinflugzeug-auf-acker-notlanden-a-7ab6947a-bd2f-49d0-82d9-787a353e6be9#ref=rss)
 
