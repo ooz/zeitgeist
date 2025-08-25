@@ -4,323 +4,344 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ich
+### jahren
 
-* [https://www.spiegel.de/deinspiegel/nba-star-dennis-schroeder-im-kinder-interview-frueher-war-ich-ein-ziemlicher-hitzkopf](https://www.spiegel.de/deinspiegel/nba-star-dennis-schroeder-im-kinder-interview-frueher-war-ich-ein-ziemlicher-hitzkopf-a-e585c79a-f2da-4c8f-bf43-5ddbb291f2b2#ref=rss)
-* [https://www.spiegel.de/panorama/30-werden-warum-eine-zahl-nicht-die-deadline-fuer-ein-gutes-leben-ist](https://www.spiegel.de/panorama/30-werden-warum-eine-zahl-nicht-die-deadline-fuer-ein-gutes-leben-ist-a-cf417d10-b9ee-400e-bee8-dc858e431ec7#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/sohn-ueber-sebastian-haffner-eine-seite-meines-vaters-die-ich-nicht-gekannt-habe](https://www.spiegel.de/kultur/literatur/sohn-ueber-sebastian-haffner-eine-seite-meines-vaters-die-ich-nicht-gekannt-habe-a-36c77d6a-7188-41d6-9092-9f13004d4976#ref=rss)
-### jahre
+* [https://www.spiegel.de/sport/olympia/biko-botowamungu-ist-tot-nachruf-auf-den-muhammad-ali-von-wien](https://www.spiegel.de/sport/olympia/biko-botowamungu-ist-tot-nachruf-auf-den-muhammad-ali-von-wien-a-e9536706-3dec-430e-84de-1b44e36912b0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt](https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt-a-d2816790-2bf6-42e2-95cb-22138cbf52af#ref=rss)
+* [https://www.spiegel.de/wirtschaft/chinas-krisen-baukonzern-evergrande-fliegt-aus-der-boerse](https://www.spiegel.de/wirtschaft/chinas-krisen-baukonzern-evergrande-fliegt-aus-der-boerse-a-80d049e4-ea93-4793-886e-9d1b57cb5256#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-ist-angeblich-offen-fuer-zugestaendnisse-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-russland-ist-angeblich-offen-fuer-zugestaendnisse-an-die-ukraine-a-62c9dc9a-33bf-45a3-a11f-a5987259f662#ref=rss)
+* [https://www.spiegel.de/wirtschaft/handwerksverband-warnt-vor-wut-auf-die-regierung](https://www.spiegel.de/wirtschaft/handwerksverband-warnt-vor-wut-auf-die-regierung-a-e0351cd3-781e-4b4d-ada4-fa4a922b3c8e#ref=rss)
+### wo
 
-* [https://www.spiegel.de/deinspiegel/nba-star-dennis-schroeder-im-kinder-interview-frueher-war-ich-ein-ziemlicher-hitzkopf](https://www.spiegel.de/deinspiegel/nba-star-dennis-schroeder-im-kinder-interview-frueher-war-ich-ein-ziemlicher-hitzkopf-a-e585c79a-f2da-4c8f-bf43-5ddbb291f2b2#ref=rss)
-* [https://www.spiegel.de/panorama/lehrerin-16-jahre-krankgeschrieben-schulleiter-soll-ihren-namen-noch-nie-gehoert-haben](https://www.spiegel.de/panorama/lehrerin-16-jahre-krankgeschrieben-schulleiter-soll-ihren-namen-noch-nie-gehoert-haben-a-a20d2b80-ce10-4bfc-a682-ad2653225e9a#ref=rss)
-* [https://www.spiegel.de/kultur/tv/jerry-adler-schauspieler-aus-die-sopranos-ist-tot](https://www.spiegel.de/kultur/tv/jerry-adler-schauspieler-aus-die-sopranos-ist-tot-a-29c751fe-6175-4b05-93c5-7f28c8af538a#ref=rss)
-### junge
+* [https://www.spiegel.de/wissenschaft/plastik-so-sehen-die-globalen-abfallstroeme-und-ihre-lokalen-folgen-aus](https://www.spiegel.de/wissenschaft/plastik-so-sehen-die-globalen-abfallstroeme-und-ihre-lokalen-folgen-aus-a-5cee6a05-87aa-45e8-a74c-b191cf300b48#ref=rss)
+* [https://www.spiegel.de/auto/leipzig-frankfurt-muenchen-wo-die-wege-zu-einkauf-arzt-schule-oder-sport-kurz-sind](https://www.spiegel.de/auto/leipzig-frankfurt-muenchen-wo-die-wege-zu-einkauf-arzt-schule-oder-sport-kurz-sind-a-9ebd533a-17c7-4869-b6b4-66531840465c#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-welche-bundeslaender-smartphones-verbannen](https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-welche-bundeslaender-smartphones-verbannen-a-9ef1d632-78f4-47a6-9901-fdfd5da82c35#ref=rss)
+### us
 
-* [https://www.spiegel.de/panorama/justiz/tod-von-simon-b-hunderttausende-euro-fuer-familie-von-getoetetem-polizisten-gesammelt](https://www.spiegel.de/panorama/justiz/tod-von-simon-b-hunderttausende-euro-fuer-familie-von-getoetetem-polizisten-gesammelt-a-161e1c6d-8ac1-44b0-bbdc-3e19c113c638#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dresden-mann-verletzt-us-buerger-in-strassenbahn-mit-messer](https://www.spiegel.de/panorama/justiz/dresden-mann-verletzt-us-buerger-in-strassenbahn-mit-messer-a-cac1721e-2695-4b6d-a85c-aa24f2b77994#ref=rss)
-* [https://www.spiegel.de/ausland/fall-lucy-letby-grossbritannien-streitet-fall-der-verurteilten-krankenschwester](https://www.spiegel.de/ausland/fall-lucy-letby-grossbritannien-streitet-fall-der-verurteilten-krankenschwester-a-f7f65e07-f2d7-42f4-a39a-1427b4394aba#ref=rss)
-* [https://www.spiegel.de/panorama/aegypten-mehrere-studenten-ertrunken](https://www.spiegel.de/panorama/aegypten-mehrere-studenten-ertrunken-a-0919df79-35bb-4910-8f8f-bebdbd2d519b#ref=rss)
-### fall
+* [https://www.spiegel.de/sport/tennis/us-open-daniil-medwedew-verliert-erstrundenmatch-nach-kuriosem-zwichenfall](https://www.spiegel.de/sport/tennis/us-open-daniil-medwedew-verliert-erstrundenmatch-nach-kuriosem-zwichenfall-a-7d62f4c3-1420-46d9-8706-d5881f9e92ac#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-novak-djokovic-mueht-sich-zum-sieg-ueber-learner-tien-in-der-1-runde](https://www.spiegel.de/sport/tennis/us-open-novak-djokovic-mueht-sich-zum-sieg-ueber-learner-tien-in-der-1-runde-a-f17a1bd4-632b-47ca-bfdb-2f18d5fa854c#ref=rss)
+### open
 
-* [https://www.spiegel.de/politik/deutschland/fall-liebich-dobrindt-will-selbstbestimmungsrecht-vor-missbrauch-schuetzen](https://www.spiegel.de/politik/deutschland/fall-liebich-dobrindt-will-selbstbestimmungsrecht-vor-missbrauch-schuetzen-a-c8408758-e487-4262-91e4-5fba016b71e9#ref=rss)
-* [https://www.spiegel.de/ausland/fall-lucy-letby-grossbritannien-streitet-fall-der-verurteilten-krankenschwester](https://www.spiegel.de/ausland/fall-lucy-letby-grossbritannien-streitet-fall-der-verurteilten-krankenschwester-a-f7f65e07-f2d7-42f4-a39a-1427b4394aba#ref=rss)
-### sebastian
+* [https://www.spiegel.de/sport/tennis/us-open-daniil-medwedew-verliert-erstrundenmatch-nach-kuriosem-zwichenfall](https://www.spiegel.de/sport/tennis/us-open-daniil-medwedew-verliert-erstrundenmatch-nach-kuriosem-zwichenfall-a-7d62f4c3-1420-46d9-8706-d5881f9e92ac#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-novak-djokovic-mueht-sich-zum-sieg-ueber-learner-tien-in-der-1-runde](https://www.spiegel.de/sport/tennis/us-open-novak-djokovic-mueht-sich-zum-sieg-ueber-learner-tien-in-der-1-runde-a-f17a1bd4-632b-47ca-bfdb-2f18d5fa854c#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastian-kehl-weist-bellingham-entourage-zurecht](https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastian-kehl-weist-bellingham-entourage-zurecht-a-20843697-fa25-4f76-a752-566e00d0ccb3#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/sohn-ueber-sebastian-haffner-eine-seite-meines-vaters-die-ich-nicht-gekannt-habe](https://www.spiegel.de/kultur/literatur/sohn-ueber-sebastian-haffner-eine-seite-meines-vaters-die-ich-nicht-gekannt-habe-a-36c77d6a-7188-41d6-9092-9f13004d4976#ref=rss)
-### borussia
+* [https://www.spiegel.de/wissenschaft/technik/china-nimmt-wieder-mehr-kohlekraft-ans-netz](https://www.spiegel.de/wissenschaft/technik/china-nimmt-wieder-mehr-kohlekraft-ans-netz-a-36688f01-7c4b-457b-ad79-6278592b24b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bauindustrie-sammelt-mehr-auftraege-ein](https://www.spiegel.de/wirtschaft/bauindustrie-sammelt-mehr-auftraege-ein-a-44f3b958-cbf8-4585-8c7d-5aa45bc843fe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaftsweise-monika-schnitzer-fordert-grundlegende-reformen-der-sozialsysteme](https://www.spiegel.de/wirtschaft/wirtschaftsweise-monika-schnitzer-fordert-grundlegende-reformen-der-sozialsysteme-a-f12bccbe-4c45-4be0-b4e9-46f2b5c9d1d2#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-punktet-bei-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-punktet-bei-borussia-moenchengladbach-a-ed8fd86c-6103-4f57-81e1-9b720c88e6fc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastian-kehl-weist-bellingham-entourage-zurecht](https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastian-kehl-weist-bellingham-entourage-zurecht-a-20843697-fa25-4f76-a752-566e00d0ccb3#ref=rss)
-### jahr
+* [https://www.spiegel.de/wissenschaft/plastik-so-sehen-die-globalen-abfallstroeme-und-ihre-lokalen-folgen-aus](https://www.spiegel.de/wissenschaft/plastik-so-sehen-die-globalen-abfallstroeme-und-ihre-lokalen-folgen-aus-a-5cee6a05-87aa-45e8-a74c-b191cf300b48#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bauindustrie-sammelt-mehr-auftraege-ein](https://www.spiegel.de/wirtschaft/bauindustrie-sammelt-mehr-auftraege-ein-a-44f3b958-cbf8-4585-8c7d-5aa45bc843fe#ref=rss)
+* [https://www.spiegel.de/auto/leipzig-frankfurt-muenchen-wo-die-wege-zu-einkauf-arzt-schule-oder-sport-kurz-sind](https://www.spiegel.de/auto/leipzig-frankfurt-muenchen-wo-die-wege-zu-einkauf-arzt-schule-oder-sport-kurz-sind-a-9ebd533a-17c7-4869-b6b4-66531840465c#ref=rss)
+### schulen
 
-* [https://www.spiegel.de/wissenschaft/gesundheitsschaeden-durch-oel-und-gas-91-000-vorzeitige-todesfaelle-pro-jahr-in-den-usa](https://www.spiegel.de/wissenschaft/gesundheitsschaeden-durch-oel-und-gas-91-000-vorzeitige-todesfaelle-pro-jahr-in-den-usa-a-b499daef-3fd3-4010-85f3-3178d2162f88#ref=rss)
-* [https://www.spiegel.de/ausland/fall-lucy-letby-grossbritannien-streitet-fall-der-verurteilten-krankenschwester](https://www.spiegel.de/ausland/fall-lucy-letby-grossbritannien-streitet-fall-der-verurteilten-krankenschwester-a-f7f65e07-f2d7-42f4-a39a-1427b4394aba#ref=rss)
-* [https://www.spiegel.de/ausland/daenemark-groenlaendischer-mutter-wurde-baby-nach-elternkompetenztest-entzogen](https://www.spiegel.de/ausland/daenemark-groenlaendischer-mutter-wurde-baby-nach-elternkompetenztest-entzogen-a-f3e2f22f-3d81-4793-8b24-13447578a33d#ref=rss)
-### usa
+* [https://www.spiegel.de/panorama/vietnam-taifun-kajiki-naehert-sich-bereits-schaeden-auf-hainan](https://www.spiegel.de/panorama/vietnam-taifun-kajiki-naehert-sich-bereits-schaeden-auf-hainan-a-c460d906-1457-436e-aa7b-4a9af9a56910#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-welche-bundeslaender-smartphones-verbannen](https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-welche-bundeslaender-smartphones-verbannen-a-9ef1d632-78f4-47a6-9901-fdfd5da82c35#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/wissenschaft/gesundheitsschaeden-durch-oel-und-gas-91-000-vorzeitige-todesfaelle-pro-jahr-in-den-usa](https://www.spiegel.de/wissenschaft/gesundheitsschaeden-durch-oel-und-gas-91-000-vorzeitige-todesfaelle-pro-jahr-in-den-usa-a-b499daef-3fd3-4010-85f3-3178d2162f88#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-brauchen-die-amerikaner-nicht-fuer-angriffe-in-russland](https://www.spiegel.de/ausland/wolodymyr-selenskyj-brauchen-die-amerikaner-nicht-fuer-angriffe-in-russland-a-5fa3eafa-21c9-4362-9f40-b77be4b18d90#ref=rss)
-### laut
+* [https://www.spiegel.de/ausland/gaza-zahlreiche-tote-bei-israelischem-luftangriff-auf-nasser-krankenhaus-auch-journalisten](https://www.spiegel.de/ausland/gaza-zahlreiche-tote-bei-israelischem-luftangriff-auf-nasser-krankenhaus-auch-journalisten-a-fb5da9a5-f0f0-4212-b7fc-1417d9dfde56#ref=rss)
+* [https://www.spiegel.de/ausland/israel-ejal-zamir-widerspricht-israel-katz-bei-angriff-auf-gaza-stadt](https://www.spiegel.de/ausland/israel-ejal-zamir-widerspricht-israel-katz-bei-angriff-auf-gaza-stadt-a-f6ecc791-df6c-4ee9-a207-214b1b42a578#ref=rss)
+### alles
 
-* [https://www.spiegel.de/panorama/lehrerin-16-jahre-krankgeschrieben-schulleiter-soll-ihren-namen-noch-nie-gehoert-haben](https://www.spiegel.de/panorama/lehrerin-16-jahre-krankgeschrieben-schulleiter-soll-ihren-namen-noch-nie-gehoert-haben-a-a20d2b80-ce10-4bfc-a682-ad2653225e9a#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-brauchen-die-amerikaner-nicht-fuer-angriffe-in-russland](https://www.spiegel.de/ausland/wolodymyr-selenskyj-brauchen-die-amerikaner-nicht-fuer-angriffe-in-russland-a-5fa3eafa-21c9-4362-9f40-b77be4b18d90#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dresden-mann-verletzt-us-buerger-in-strassenbahn-mit-messer](https://www.spiegel.de/panorama/justiz/dresden-mann-verletzt-us-buerger-in-strassenbahn-mit-messer-a-cac1721e-2695-4b6d-a85c-aa24f2b77994#ref=rss)
-### aly
+* [https://www.spiegel.de/panorama/leute/lola-weippert-meningitis-zwangspause-im-krankenhaus](https://www.spiegel.de/panorama/leute/lola-weippert-meningitis-zwangspause-im-krankenhaus-a-704f2283-4921-495d-b3c7-8725fdc9a12c#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-em-2025-spielplan-gruppen-ergebnisse](https://www.spiegel.de/sport/basketball/basketball-em-2025-spielplan-gruppen-ergebnisse-a-7feabe70-955b-427b-90b5-2dac126c5e75#ref=rss)
+* [https://www.spiegel.de/auto/leipzig-frankfurt-muenchen-wo-die-wege-zu-einkauf-arzt-schule-oder-sport-kurz-sind](https://www.spiegel.de/auto/leipzig-frankfurt-muenchen-wo-die-wege-zu-einkauf-arzt-schule-oder-sport-kurz-sind-a-9ebd533a-17c7-4869-b6b4-66531840465c#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/goetz-aly-kann-noch-einmal-geschehen-was-1933-geschah-herr-aly](https://www.spiegel.de/politik/deutschland/goetz-aly-kann-noch-einmal-geschehen-was-1933-geschah-herr-aly-a-7cc9b993-a268-45c0-b922-1a6aca0e20e1#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/wirtschaft/unicredit-stockt-direkte-beteiligung-an-commerzbank-weiter-auf](https://www.spiegel.de/wirtschaft/unicredit-stockt-direkte-beteiligung-an-commerzbank-weiter-auf-a-964c8c4c-fdd4-4f84-8b9e-b0ade22426ff#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-em-2025-spielplan-gruppen-ergebnisse](https://www.spiegel.de/sport/basketball/basketball-em-2025-spielplan-gruppen-ergebnisse-a-7feabe70-955b-427b-90b5-2dac126c5e75#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-sieht-rueckkehr-zur-wehrpflicht-als-unabwendbar](https://www.spiegel.de/politik/deutschland/markus-soeder-sieht-rueckkehr-zur-wehrpflicht-als-unabwendbar-a-dd70b326-8854-455c-b18c-9fa95b2b4c8f#ref=rss)
+### welt
 
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-brauchen-die-amerikaner-nicht-fuer-angriffe-in-russland](https://www.spiegel.de/ausland/wolodymyr-selenskyj-brauchen-die-amerikaner-nicht-fuer-angriffe-in-russland-a-5fa3eafa-21c9-4362-9f40-b77be4b18d90#ref=rss)
-* [https://www.spiegel.de/ausland/jahrestag-der-unabhaengigkeit-die-ukraine-ist-kein-opfer-sie-ist-eine-kaempferin](https://www.spiegel.de/ausland/jahrestag-der-unabhaengigkeit-die-ukraine-ist-kein-opfer-sie-ist-eine-kaempferin-a-cb03084d-aaca-469d-b9cc-20ef2529a62a#ref=rss)
-### ukraine
+* [https://www.spiegel.de/wissenschaft/technik/china-nimmt-wieder-mehr-kohlekraft-ans-netz](https://www.spiegel.de/wissenschaft/technik/china-nimmt-wieder-mehr-kohlekraft-ans-netz-a-36688f01-7c4b-457b-ad79-6278592b24b2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/plastik-so-sehen-die-globalen-abfallstroeme-und-ihre-lokalen-folgen-aus](https://www.spiegel.de/wissenschaft/plastik-so-sehen-die-globalen-abfallstroeme-und-ihre-lokalen-folgen-aus-a-5cee6a05-87aa-45e8-a74c-b191cf300b48#ref=rss)
+### gilt
 
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-brauchen-die-amerikaner-nicht-fuer-angriffe-in-russland](https://www.spiegel.de/ausland/wolodymyr-selenskyj-brauchen-die-amerikaner-nicht-fuer-angriffe-in-russland-a-5fa3eafa-21c9-4362-9f40-b77be4b18d90#ref=rss)
-* [https://www.spiegel.de/ausland/jahrestag-der-unabhaengigkeit-die-ukraine-ist-kein-opfer-sie-ist-eine-kaempferin](https://www.spiegel.de/ausland/jahrestag-der-unabhaengigkeit-die-ukraine-ist-kein-opfer-sie-ist-eine-kaempferin-a-cb03084d-aaca-469d-b9cc-20ef2529a62a#ref=rss)
-### fc
+* [https://www.spiegel.de/wissenschaft/technik/china-nimmt-wieder-mehr-kohlekraft-ans-netz](https://www.spiegel.de/wissenschaft/technik/china-nimmt-wieder-mehr-kohlekraft-ans-netz-a-36688f01-7c4b-457b-ad79-6278592b24b2#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-welche-bundeslaender-smartphones-verbannen](https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-welche-bundeslaender-smartphones-verbannen-a-9ef1d632-78f4-47a6-9901-fdfd5da82c35#ref=rss)
+### kampf
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-unterliegt-dem-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-unterliegt-dem-1-fc-koeln-a-6a640943-28cf-4aeb-88a1-134458028eb4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastian-kehl-weist-bellingham-entourage-zurecht](https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastian-kehl-weist-bellingham-entourage-zurecht-a-20843697-fa25-4f76-a752-566e00d0ccb3#ref=rss)
-### wohl
+* [https://www.spiegel.de/wissenschaft/technik/china-nimmt-wieder-mehr-kohlekraft-ans-netz](https://www.spiegel.de/wissenschaft/technik/china-nimmt-wieder-mehr-kohlekraft-ans-netz-a-36688f01-7c4b-457b-ad79-6278592b24b2#ref=rss)
+* [https://www.spiegel.de/ausland/israel-ejal-zamir-widerspricht-israel-katz-bei-angriff-auf-gaza-stadt](https://www.spiegel.de/ausland/israel-ejal-zamir-widerspricht-israel-katz-bei-angriff-auf-gaza-stadt-a-f6ecc791-df6c-4ee9-a207-214b1b42a578#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/ausland/israel-jemen-krieg-huthi-miliz-setzt-wohl-erstmals-streumunition-ein](https://www.spiegel.de/ausland/israel-jemen-krieg-huthi-miliz-setzt-wohl-erstmals-streumunition-ein-a-ddb6f096-5793-46d9-a35a-29abfcd97b04#ref=rss)
-* [https://www.spiegel.de/kultur/j-k-rowling-duolingo-entschuldigt-sich-fuer-umstrittene-aussage](https://www.spiegel.de/kultur/j-k-rowling-duolingo-entschuldigt-sich-fuer-umstrittene-aussage-a-27cbf1ae-a7da-4f36-bf58-ea28102628ff#ref=rss)
-### behörden
+* [https://www.spiegel.de/wissenschaft/plastik-so-sehen-die-globalen-abfallstroeme-und-ihre-lokalen-folgen-aus](https://www.spiegel.de/wissenschaft/plastik-so-sehen-die-globalen-abfallstroeme-und-ihre-lokalen-folgen-aus-a-5cee6a05-87aa-45e8-a74c-b191cf300b48#ref=rss)
+* [https://www.spiegel.de/auto/leipzig-frankfurt-muenchen-wo-die-wege-zu-einkauf-arzt-schule-oder-sport-kurz-sind](https://www.spiegel.de/auto/leipzig-frankfurt-muenchen-wo-die-wege-zu-einkauf-arzt-schule-oder-sport-kurz-sind-a-9ebd533a-17c7-4869-b6b4-66531840465c#ref=rss)
+### globalen
 
-* [https://www.spiegel.de/kultur/campino-wirft-cdu-landrat-naehe-zu-afd-vor-der-will-aussagen-pruefen-lassen](https://www.spiegel.de/kultur/campino-wirft-cdu-landrat-naehe-zu-afd-vor-der-will-aussagen-pruefen-lassen-a-70fca11d-90a1-4495-b2df-f4965b05350c#ref=rss)
-* [https://www.spiegel.de/ausland/daenemark-groenlaendischer-mutter-wurde-baby-nach-elternkompetenztest-entzogen](https://www.spiegel.de/ausland/daenemark-groenlaendischer-mutter-wurde-baby-nach-elternkompetenztest-entzogen-a-f3e2f22f-3d81-4793-8b24-13447578a33d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/verdacht-auf-toetungsdelikt-passanten-entdecken-leiche-am-silbersee](https://www.spiegel.de/panorama/justiz/verdacht-auf-toetungsdelikt-passanten-entdecken-leiche-am-silbersee-a-75ba0a6a-f295-4024-8094-fa950b389ccb#ref=rss)
-### fußballbundesliga
+* [https://www.spiegel.de/wissenschaft/plastik-so-sehen-die-globalen-abfallstroeme-und-ihre-lokalen-folgen-aus](https://www.spiegel.de/wissenschaft/plastik-so-sehen-die-globalen-abfallstroeme-und-ihre-lokalen-folgen-aus-a-5cee6a05-87aa-45e8-a74c-b191cf300b48#ref=rss)
+### lokalen
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-punktet-bei-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-punktet-bei-borussia-moenchengladbach-a-ed8fd86c-6103-4f57-81e1-9b720c88e6fc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-unterliegt-dem-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-unterliegt-dem-1-fc-koeln-a-6a640943-28cf-4aeb-88a1-134458028eb4#ref=rss)
-### mönchengladbach
+* [https://www.spiegel.de/wissenschaft/plastik-so-sehen-die-globalen-abfallstroeme-und-ihre-lokalen-folgen-aus](https://www.spiegel.de/wissenschaft/plastik-so-sehen-die-globalen-abfallstroeme-und-ihre-lokalen-folgen-aus-a-5cee6a05-87aa-45e8-a74c-b191cf300b48#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-punktet-bei-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-punktet-bei-borussia-moenchengladbach-a-ed8fd86c-6103-4f57-81e1-9b720c88e6fc#ref=rss)
-### rätsel
+* [https://www.spiegel.de/wissenschaft/plastik-so-sehen-die-globalen-abfallstroeme-und-ihre-lokalen-folgen-aus](https://www.spiegel.de/wissenschaft/plastik-so-sehen-die-globalen-abfallstroeme-und-ihre-lokalen-folgen-aus-a-5cee6a05-87aa-45e8-a74c-b191cf300b48#ref=rss)
+### biko
 
-* [https://www.spiegel.de/karriere/raetsel-wie-gross-ist-das-quadrat-raetsel-der-woche](https://www.spiegel.de/karriere/raetsel-wie-gross-ist-das-quadrat-raetsel-der-woche-a-7e942b8a-9978-4adb-83fd-74a8394dbd37#ref=rss)
-### quadrat
+* [https://www.spiegel.de/sport/olympia/biko-botowamungu-ist-tot-nachruf-auf-den-muhammad-ali-von-wien](https://www.spiegel.de/sport/olympia/biko-botowamungu-ist-tot-nachruf-auf-den-muhammad-ali-von-wien-a-e9536706-3dec-430e-84de-1b44e36912b0#ref=rss)
+### botowamungu
 
-* [https://www.spiegel.de/karriere/raetsel-wie-gross-ist-das-quadrat-raetsel-der-woche](https://www.spiegel.de/karriere/raetsel-wie-gross-ist-das-quadrat-raetsel-der-woche-a-7e942b8a-9978-4adb-83fd-74a8394dbd37#ref=rss)
-### 13
+* [https://www.spiegel.de/sport/olympia/biko-botowamungu-ist-tot-nachruf-auf-den-muhammad-ali-von-wien](https://www.spiegel.de/sport/olympia/biko-botowamungu-ist-tot-nachruf-auf-den-muhammad-ali-von-wien-a-e9536706-3dec-430e-84de-1b44e36912b0#ref=rss)
+### vietnam
 
-* [https://www.spiegel.de/karriere/raetsel-wie-gross-ist-das-quadrat-raetsel-der-woche](https://www.spiegel.de/karriere/raetsel-wie-gross-ist-das-quadrat-raetsel-der-woche-a-7e942b8a-9978-4adb-83fd-74a8394dbd37#ref=rss)
-* [https://www.spiegel.de/deinspiegel/nba-star-dennis-schroeder-im-kinder-interview-frueher-war-ich-ein-ziemlicher-hitzkopf](https://www.spiegel.de/deinspiegel/nba-star-dennis-schroeder-im-kinder-interview-frueher-war-ich-ein-ziemlicher-hitzkopf-a-e585c79a-f2da-4c8f-bf43-5ddbb291f2b2#ref=rss)
-### hosenbänder
+* [https://www.spiegel.de/panorama/vietnam-taifun-kajiki-naehert-sich-bereits-schaeden-auf-hainan](https://www.spiegel.de/panorama/vietnam-taifun-kajiki-naehert-sich-bereits-schaeden-auf-hainan-a-c460d906-1457-436e-aa7b-4a9af9a56910#ref=rss)
+### taifun
 
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/hosenbaender-und-hosenklammern-von-zefal-vaude-deuter-brooks-und-decathlon-im-test](https://www.spiegel.de/tests/fahrrad-zubehoer/hosenbaender-und-hosenklammern-von-zefal-vaude-deuter-brooks-und-decathlon-im-test-a-b38df05f-04dc-4aed-9786-3ebdeb544579#ref=rss)
-### wir
+* [https://www.spiegel.de/panorama/vietnam-taifun-kajiki-naehert-sich-bereits-schaeden-auf-hainan](https://www.spiegel.de/panorama/vietnam-taifun-kajiki-naehert-sich-bereits-schaeden-auf-hainan-a-c460d906-1457-436e-aa7b-4a9af9a56910#ref=rss)
+### kajiki
 
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/hosenbaender-und-hosenklammern-von-zefal-vaude-deuter-brooks-und-decathlon-im-test](https://www.spiegel.de/tests/fahrrad-zubehoer/hosenbaender-und-hosenklammern-von-zefal-vaude-deuter-brooks-und-decathlon-im-test-a-b38df05f-04dc-4aed-9786-3ebdeb544579#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/goetz-aly-kann-noch-einmal-geschehen-was-1933-geschah-herr-aly](https://www.spiegel.de/politik/deutschland/goetz-aly-kann-noch-einmal-geschehen-was-1933-geschah-herr-aly-a-7cc9b993-a268-45c0-b922-1a6aca0e20e1#ref=rss)
-### dennis
+* [https://www.spiegel.de/panorama/vietnam-taifun-kajiki-naehert-sich-bereits-schaeden-auf-hainan](https://www.spiegel.de/panorama/vietnam-taifun-kajiki-naehert-sich-bereits-schaeden-auf-hainan-a-c460d906-1457-436e-aa7b-4a9af9a56910#ref=rss)
+### hainan
 
-* [https://www.spiegel.de/deinspiegel/nba-star-dennis-schroeder-im-kinder-interview-frueher-war-ich-ein-ziemlicher-hitzkopf](https://www.spiegel.de/deinspiegel/nba-star-dennis-schroeder-im-kinder-interview-frueher-war-ich-ein-ziemlicher-hitzkopf-a-e585c79a-f2da-4c8f-bf43-5ddbb291f2b2#ref=rss)
-### schröder
-
-* [https://www.spiegel.de/deinspiegel/nba-star-dennis-schroeder-im-kinder-interview-frueher-war-ich-ein-ziemlicher-hitzkopf](https://www.spiegel.de/deinspiegel/nba-star-dennis-schroeder-im-kinder-interview-frueher-war-ich-ein-ziemlicher-hitzkopf-a-e585c79a-f2da-4c8f-bf43-5ddbb291f2b2#ref=rss)
-### simon
-
-* [https://www.spiegel.de/panorama/justiz/tod-von-simon-b-hunderttausende-euro-fuer-familie-von-getoetetem-polizisten-gesammelt](https://www.spiegel.de/panorama/justiz/tod-von-simon-b-hunderttausende-euro-fuer-familie-von-getoetetem-polizisten-gesammelt-a-161e1c6d-8ac1-44b0-bbdc-3e19c113c638#ref=rss)
-### b
-
-* [https://www.spiegel.de/panorama/justiz/tod-von-simon-b-hunderttausende-euro-fuer-familie-von-getoetetem-polizisten-gesammelt](https://www.spiegel.de/panorama/justiz/tod-von-simon-b-hunderttausende-euro-fuer-familie-von-getoetetem-polizisten-gesammelt-a-161e1c6d-8ac1-44b0-bbdc-3e19c113c638#ref=rss)
-### liebich
-
-* [https://www.spiegel.de/politik/deutschland/fall-liebich-dobrindt-will-selbstbestimmungsrecht-vor-missbrauch-schuetzen](https://www.spiegel.de/politik/deutschland/fall-liebich-dobrindt-will-selbstbestimmungsrecht-vor-missbrauch-schuetzen-a-c8408758-e487-4262-91e4-5fba016b71e9#ref=rss)
-### dobrindt
-
-* [https://www.spiegel.de/politik/deutschland/fall-liebich-dobrindt-will-selbstbestimmungsrecht-vor-missbrauch-schuetzen](https://www.spiegel.de/politik/deutschland/fall-liebich-dobrindt-will-selbstbestimmungsrecht-vor-missbrauch-schuetzen-a-c8408758-e487-4262-91e4-5fba016b71e9#ref=rss)
-### andere
-
-* [https://www.spiegel.de/wissenschaft/gesundheitsschaeden-durch-oel-und-gas-91-000-vorzeitige-todesfaelle-pro-jahr-in-den-usa](https://www.spiegel.de/wissenschaft/gesundheitsschaeden-durch-oel-und-gas-91-000-vorzeitige-todesfaelle-pro-jahr-in-den-usa-a-b499daef-3fd3-4010-85f3-3178d2162f88#ref=rss)
-* [https://www.spiegel.de/sport/rugby-ex-profi-alix-popham-verklagt-verbaende-wegen-gehirnerkrankung](https://www.spiegel.de/sport/rugby-ex-profi-alix-popham-verklagt-verbaende-wegen-gehirnerkrankung-a-b54b863a-133b-4fb4-8d75-0285680ab75d#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wissenschaft/gesundheitsschaeden-durch-oel-und-gas-91-000-vorzeitige-todesfaelle-pro-jahr-in-den-usa](https://www.spiegel.de/wissenschaft/gesundheitsschaeden-durch-oel-und-gas-91-000-vorzeitige-todesfaelle-pro-jahr-in-den-usa-a-b499daef-3fd3-4010-85f3-3178d2162f88#ref=rss)
-* [https://www.spiegel.de/sport/rugby-ex-profi-alix-popham-verklagt-verbaende-wegen-gehirnerkrankung](https://www.spiegel.de/sport/rugby-ex-profi-alix-popham-verklagt-verbaende-wegen-gehirnerkrankung-a-b54b863a-133b-4fb4-8d75-0285680ab75d#ref=rss)
+* [https://www.spiegel.de/panorama/vietnam-taifun-kajiki-naehert-sich-bereits-schaeden-auf-hainan](https://www.spiegel.de/panorama/vietnam-taifun-kajiki-naehert-sich-bereits-schaeden-auf-hainan-a-c460d906-1457-436e-aa7b-4a9af9a56910#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/wissenschaft/gesundheitsschaeden-durch-oel-und-gas-91-000-vorzeitige-todesfaelle-pro-jahr-in-den-usa](https://www.spiegel.de/wissenschaft/gesundheitsschaeden-durch-oel-und-gas-91-000-vorzeitige-todesfaelle-pro-jahr-in-den-usa-a-b499daef-3fd3-4010-85f3-3178d2162f88#ref=rss)
-* [https://www.spiegel.de/ausland/daenemark-groenlaendischer-mutter-wurde-baby-nach-elternkompetenztest-entzogen](https://www.spiegel.de/ausland/daenemark-groenlaendischer-mutter-wurde-baby-nach-elternkompetenztest-entzogen-a-f3e2f22f-3d81-4793-8b24-13447578a33d#ref=rss)
-### lehrerin
+* [https://www.spiegel.de/panorama/vietnam-taifun-kajiki-naehert-sich-bereits-schaeden-auf-hainan](https://www.spiegel.de/panorama/vietnam-taifun-kajiki-naehert-sich-bereits-schaeden-auf-hainan-a-c460d906-1457-436e-aa7b-4a9af9a56910#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-zahlreiche-tote-bei-israelischem-luftangriff-auf-nasser-krankenhaus-auch-journalisten](https://www.spiegel.de/ausland/gaza-zahlreiche-tote-bei-israelischem-luftangriff-auf-nasser-krankenhaus-auch-journalisten-a-fb5da9a5-f0f0-4212-b7fc-1417d9dfde56#ref=rss)
+### zuvor
 
-* [https://www.spiegel.de/panorama/lehrerin-16-jahre-krankgeschrieben-schulleiter-soll-ihren-namen-noch-nie-gehoert-haben](https://www.spiegel.de/panorama/lehrerin-16-jahre-krankgeschrieben-schulleiter-soll-ihren-namen-noch-nie-gehoert-haben-a-a20d2b80-ce10-4bfc-a682-ad2653225e9a#ref=rss)
-### 16
+* [https://www.spiegel.de/panorama/vietnam-taifun-kajiki-naehert-sich-bereits-schaeden-auf-hainan](https://www.spiegel.de/panorama/vietnam-taifun-kajiki-naehert-sich-bereits-schaeden-auf-hainan-a-c460d906-1457-436e-aa7b-4a9af9a56910#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-was-wird-aus-der-gigafactory-in-gruenheide](https://www.spiegel.de/wirtschaft/unternehmen/tesla-was-wird-aus-der-gigafactory-in-gruenheide-a-9ebc06ad-9d05-474f-bd18-54edbe56ecca#ref=rss)
+### journalisten
 
-* [https://www.spiegel.de/panorama/lehrerin-16-jahre-krankgeschrieben-schulleiter-soll-ihren-namen-noch-nie-gehoert-haben](https://www.spiegel.de/panorama/lehrerin-16-jahre-krankgeschrieben-schulleiter-soll-ihren-namen-noch-nie-gehoert-haben-a-a20d2b80-ce10-4bfc-a682-ad2653225e9a#ref=rss)
-### krankgeschrieben
+* [https://www.spiegel.de/ausland/gaza-zahlreiche-tote-bei-israelischem-luftangriff-auf-nasser-krankenhaus-auch-journalisten](https://www.spiegel.de/ausland/gaza-zahlreiche-tote-bei-israelischem-luftangriff-auf-nasser-krankenhaus-auch-journalisten-a-fb5da9a5-f0f0-4212-b7fc-1417d9dfde56#ref=rss)
+### krankenhaus
 
-* [https://www.spiegel.de/panorama/lehrerin-16-jahre-krankgeschrieben-schulleiter-soll-ihren-namen-noch-nie-gehoert-haben](https://www.spiegel.de/panorama/lehrerin-16-jahre-krankgeschrieben-schulleiter-soll-ihren-namen-noch-nie-gehoert-haben-a-a20d2b80-ce10-4bfc-a682-ad2653225e9a#ref=rss)
-### schulleiter
+* [https://www.spiegel.de/ausland/gaza-zahlreiche-tote-bei-israelischem-luftangriff-auf-nasser-krankenhaus-auch-journalisten](https://www.spiegel.de/ausland/gaza-zahlreiche-tote-bei-israelischem-luftangriff-auf-nasser-krankenhaus-auch-journalisten-a-fb5da9a5-f0f0-4212-b7fc-1417d9dfde56#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lola-weippert-meningitis-zwangspause-im-krankenhaus](https://www.spiegel.de/panorama/leute/lola-weippert-meningitis-zwangspause-im-krankenhaus-a-704f2283-4921-495d-b3c7-8725fdc9a12c#ref=rss)
+### 15
 
-* [https://www.spiegel.de/panorama/lehrerin-16-jahre-krankgeschrieben-schulleiter-soll-ihren-namen-noch-nie-gehoert-haben](https://www.spiegel.de/panorama/lehrerin-16-jahre-krankgeschrieben-schulleiter-soll-ihren-namen-noch-nie-gehoert-haben-a-a20d2b80-ce10-4bfc-a682-ad2653225e9a#ref=rss)
-### frau
+* [https://www.spiegel.de/ausland/gaza-zahlreiche-tote-bei-israelischem-luftangriff-auf-nasser-krankenhaus-auch-journalisten](https://www.spiegel.de/ausland/gaza-zahlreiche-tote-bei-israelischem-luftangriff-auf-nasser-krankenhaus-auch-journalisten-a-fb5da9a5-f0f0-4212-b7fc-1417d9dfde56#ref=rss)
+* [https://www.spiegel.de/wirtschaft/chinas-krisen-baukonzern-evergrande-fliegt-aus-der-boerse](https://www.spiegel.de/wirtschaft/chinas-krisen-baukonzern-evergrande-fliegt-aus-der-boerse-a-80d049e4-ea93-4793-886e-9d1b57cb5256#ref=rss)
+### zweiten
 
-* [https://www.spiegel.de/panorama/lehrerin-16-jahre-krankgeschrieben-schulleiter-soll-ihren-namen-noch-nie-gehoert-haben](https://www.spiegel.de/panorama/lehrerin-16-jahre-krankgeschrieben-schulleiter-soll-ihren-namen-noch-nie-gehoert-haben-a-a20d2b80-ce10-4bfc-a682-ad2653225e9a#ref=rss)
-* [https://www.spiegel.de/panorama/aegypten-mehrere-studenten-ertrunken](https://www.spiegel.de/panorama/aegypten-mehrere-studenten-ertrunken-a-0919df79-35bb-4910-8f8f-bebdbd2d519b#ref=rss)
-### götz
+* [https://www.spiegel.de/ausland/gaza-zahlreiche-tote-bei-israelischem-luftangriff-auf-nasser-krankenhaus-auch-journalisten](https://www.spiegel.de/ausland/gaza-zahlreiche-tote-bei-israelischem-luftangriff-auf-nasser-krankenhaus-auch-journalisten-a-fb5da9a5-f0f0-4212-b7fc-1417d9dfde56#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-em-2025-spielplan-gruppen-ergebnisse](https://www.spiegel.de/sport/basketball/basketball-em-2025-spielplan-gruppen-ergebnisse-a-7feabe70-955b-427b-90b5-2dac126c5e75#ref=rss)
+### katee
 
-* [https://www.spiegel.de/politik/deutschland/goetz-aly-kann-noch-einmal-geschehen-was-1933-geschah-herr-aly](https://www.spiegel.de/politik/deutschland/goetz-aly-kann-noch-einmal-geschehen-was-1933-geschah-herr-aly-a-7cc9b993-a268-45c0-b922-1a6aca0e20e1#ref=rss)
-### einmal
+* [https://www.spiegel.de/kultur/tv/star-wars-katee-sackhoff-hat-mit-ihrer-rolle-in-the-mandalorian-zu-kaempfen](https://www.spiegel.de/kultur/tv/star-wars-katee-sackhoff-hat-mit-ihrer-rolle-in-the-mandalorian-zu-kaempfen-a-2f144f27-1509-42d3-bac3-8011d5d44b67#ref=rss)
+### sackhoff
 
-* [https://www.spiegel.de/politik/deutschland/goetz-aly-kann-noch-einmal-geschehen-was-1933-geschah-herr-aly](https://www.spiegel.de/politik/deutschland/goetz-aly-kann-noch-einmal-geschehen-was-1933-geschah-herr-aly-a-7cc9b993-a268-45c0-b922-1a6aca0e20e1#ref=rss)
-### geschehen
+* [https://www.spiegel.de/kultur/tv/star-wars-katee-sackhoff-hat-mit-ihrer-rolle-in-the-mandalorian-zu-kaempfen](https://www.spiegel.de/kultur/tv/star-wars-katee-sackhoff-hat-mit-ihrer-rolle-in-the-mandalorian-zu-kaempfen-a-2f144f27-1509-42d3-bac3-8011d5d44b67#ref=rss)
+### rolle
 
-* [https://www.spiegel.de/politik/deutschland/goetz-aly-kann-noch-einmal-geschehen-was-1933-geschah-herr-aly](https://www.spiegel.de/politik/deutschland/goetz-aly-kann-noch-einmal-geschehen-was-1933-geschah-herr-aly-a-7cc9b993-a268-45c0-b922-1a6aca0e20e1#ref=rss)
-### geschah
+* [https://www.spiegel.de/kultur/tv/star-wars-katee-sackhoff-hat-mit-ihrer-rolle-in-the-mandalorian-zu-kaempfen](https://www.spiegel.de/kultur/tv/star-wars-katee-sackhoff-hat-mit-ihrer-rolle-in-the-mandalorian-zu-kaempfen-a-2f144f27-1509-42d3-bac3-8011d5d44b67#ref=rss)
+* [https://www.spiegel.de/kultur/tv/stefanie-reinsperger-gibt-tatort-rolle-rosa-herzog-fuers-burgtheater-auf](https://www.spiegel.de/kultur/tv/stefanie-reinsperger-gibt-tatort-rolle-rosa-herzog-fuers-burgtheater-auf-a-d5708025-8d0d-401a-b53d-9a12a5fc22d7#ref=rss)
+### the
 
-* [https://www.spiegel.de/politik/deutschland/goetz-aly-kann-noch-einmal-geschehen-was-1933-geschah-herr-aly](https://www.spiegel.de/politik/deutschland/goetz-aly-kann-noch-einmal-geschehen-was-1933-geschah-herr-aly-a-7cc9b993-a268-45c0-b922-1a6aca0e20e1#ref=rss)
-### gefragt
+* [https://www.spiegel.de/kultur/tv/star-wars-katee-sackhoff-hat-mit-ihrer-rolle-in-the-mandalorian-zu-kaempfen](https://www.spiegel.de/kultur/tv/star-wars-katee-sackhoff-hat-mit-ihrer-rolle-in-the-mandalorian-zu-kaempfen-a-2f144f27-1509-42d3-bac3-8011d5d44b67#ref=rss)
+### mandalorian
 
-* [https://www.spiegel.de/politik/deutschland/goetz-aly-kann-noch-einmal-geschehen-was-1933-geschah-herr-aly](https://www.spiegel.de/politik/deutschland/goetz-aly-kann-noch-einmal-geschehen-was-1933-geschah-herr-aly-a-7cc9b993-a268-45c0-b922-1a6aca0e20e1#ref=rss)
-* [https://www.spiegel.de/kultur/musik/saengerin-ciara-was-passiert-wenn-die-kinder-mit-auf-tour-gehen](https://www.spiegel.de/kultur/musik/saengerin-ciara-was-passiert-wenn-die-kinder-mit-auf-tour-gehen-a-7b75b56d-c092-44f7-969a-bb64ea5ee500#ref=rss)
-### präsident
+* [https://www.spiegel.de/kultur/tv/star-wars-katee-sackhoff-hat-mit-ihrer-rolle-in-the-mandalorian-zu-kaempfen](https://www.spiegel.de/kultur/tv/star-wars-katee-sackhoff-hat-mit-ihrer-rolle-in-the-mandalorian-zu-kaempfen-a-2f144f27-1509-42d3-bac3-8011d5d44b67#ref=rss)
+### kämpfen
 
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-brauchen-die-amerikaner-nicht-fuer-angriffe-in-russland](https://www.spiegel.de/ausland/wolodymyr-selenskyj-brauchen-die-amerikaner-nicht-fuer-angriffe-in-russland-a-5fa3eafa-21c9-4362-9f40-b77be4b18d90#ref=rss)
-* [https://www.spiegel.de/ausland/jahrestag-der-unabhaengigkeit-die-ukraine-ist-kein-opfer-sie-ist-eine-kaempferin](https://www.spiegel.de/ausland/jahrestag-der-unabhaengigkeit-die-ukraine-ist-kein-opfer-sie-ist-eine-kaempferin-a-cb03084d-aaca-469d-b9cc-20ef2529a62a#ref=rss)
-### reagiert
+* [https://www.spiegel.de/kultur/tv/star-wars-katee-sackhoff-hat-mit-ihrer-rolle-in-the-mandalorian-zu-kaempfen](https://www.spiegel.de/kultur/tv/star-wars-katee-sackhoff-hat-mit-ihrer-rolle-in-the-mandalorian-zu-kaempfen-a-2f144f27-1509-42d3-bac3-8011d5d44b67#ref=rss)
+* [https://www.spiegel.de/wirtschaft/handwerksverband-warnt-vor-wut-auf-die-regierung](https://www.spiegel.de/wirtschaft/handwerksverband-warnt-vor-wut-auf-die-regierung-a-e0351cd3-781e-4b4d-ada4-fa4a922b3c8e#ref=rss)
+### schauspielerin
 
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-brauchen-die-amerikaner-nicht-fuer-angriffe-in-russland](https://www.spiegel.de/ausland/wolodymyr-selenskyj-brauchen-die-amerikaner-nicht-fuer-angriffe-in-russland-a-5fa3eafa-21c9-4362-9f40-b77be4b18d90#ref=rss)
-* [https://www.spiegel.de/kultur/campino-wirft-cdu-landrat-naehe-zu-afd-vor-der-will-aussagen-pruefen-lassen](https://www.spiegel.de/kultur/campino-wirft-cdu-landrat-naehe-zu-afd-vor-der-will-aussagen-pruefen-lassen-a-70fca11d-90a1-4495-b2df-f4965b05350c#ref=rss)
-### johann
+* [https://www.spiegel.de/kultur/tv/star-wars-katee-sackhoff-hat-mit-ihrer-rolle-in-the-mandalorian-zu-kaempfen](https://www.spiegel.de/kultur/tv/star-wars-katee-sackhoff-hat-mit-ihrer-rolle-in-the-mandalorian-zu-kaempfen-a-2f144f27-1509-42d3-bac3-8011d5d44b67#ref=rss)
+* [https://www.spiegel.de/kultur/tv/stefanie-reinsperger-gibt-tatort-rolle-rosa-herzog-fuers-burgtheater-auf](https://www.spiegel.de/kultur/tv/stefanie-reinsperger-gibt-tatort-rolle-rosa-herzog-fuers-burgtheater-auf-a-d5708025-8d0d-401a-b53d-9a12a5fc22d7#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/politik/deutschland/gaza-aktivisten-kapern-buergerdialog-mit-johann-wadephul-im-auswaertigen-amt](https://www.spiegel.de/politik/deutschland/gaza-aktivisten-kapern-buergerdialog-mit-johann-wadephul-im-auswaertigen-amt-a-d91a55bc-e3a1-49f5-8230-eb370c4533ad#ref=rss)
+* [https://www.spiegel.de/kultur/tv/star-wars-katee-sackhoff-hat-mit-ihrer-rolle-in-the-mandalorian-zu-kaempfen](https://www.spiegel.de/kultur/tv/star-wars-katee-sackhoff-hat-mit-ihrer-rolle-in-the-mandalorian-zu-kaempfen-a-2f144f27-1509-42d3-bac3-8011d5d44b67#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-ist-angeblich-offen-fuer-zugestaendnisse-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-russland-ist-angeblich-offen-fuer-zugestaendnisse-an-die-ukraine-a-62c9dc9a-33bf-45a3-a11f-a5987259f662#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-ejal-zamir-widerspricht-israel-katz-bei-angriff-auf-gaza-stadt](https://www.spiegel.de/ausland/israel-ejal-zamir-widerspricht-israel-katz-bei-angriff-auf-gaza-stadt-a-f6ecc791-df6c-4ee9-a207-214b1b42a578#ref=rss)
+### zamir
+
+* [https://www.spiegel.de/ausland/israel-ejal-zamir-widerspricht-israel-katz-bei-angriff-auf-gaza-stadt](https://www.spiegel.de/ausland/israel-ejal-zamir-widerspricht-israel-katz-bei-angriff-auf-gaza-stadt-a-f6ecc791-df6c-4ee9-a207-214b1b42a578#ref=rss)
+### gazastadt
+
+* [https://www.spiegel.de/ausland/israel-ejal-zamir-widerspricht-israel-katz-bei-angriff-auf-gaza-stadt](https://www.spiegel.de/ausland/israel-ejal-zamir-widerspricht-israel-katz-bei-angriff-auf-gaza-stadt-a-f6ecc791-df6c-4ee9-a207-214b1b42a578#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/israel-ejal-zamir-widerspricht-israel-katz-bei-angriff-auf-gaza-stadt](https://www.spiegel.de/ausland/israel-ejal-zamir-widerspricht-israel-katz-bei-angriff-auf-gaza-stadt-a-f6ecc791-df6c-4ee9-a207-214b1b42a578#ref=rss)
+* [https://www.spiegel.de/wirtschaft/handwerksverband-warnt-vor-wut-auf-die-regierung](https://www.spiegel.de/wirtschaft/handwerksverband-warnt-vor-wut-auf-die-regierung-a-e0351cd3-781e-4b4d-ada4-fa4a922b3c8e#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/wirtschaft/ifo-geschaeftsklima-hellt-sich-etwas-auf](https://www.spiegel.de/wirtschaft/ifo-geschaeftsklima-hellt-sich-etwas-auf-a-50d1f08a-a7ec-4e40-81a4-0901e03789ef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt](https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt-a-d2816790-2bf6-42e2-95cb-22138cbf52af#ref=rss)
+### august
+
+* [https://www.spiegel.de/wirtschaft/ifo-geschaeftsklima-hellt-sich-etwas-auf](https://www.spiegel.de/wirtschaft/ifo-geschaeftsklima-hellt-sich-etwas-auf-a-50d1f08a-a7ec-4e40-81a4-0901e03789ef#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-em-2025-spielplan-gruppen-ergebnisse](https://www.spiegel.de/sport/basketball/basketball-em-2025-spielplan-gruppen-ergebnisse-a-7feabe70-955b-427b-90b5-2dac126c5e75#ref=rss)
+### lola
+
+* [https://www.spiegel.de/panorama/leute/lola-weippert-meningitis-zwangspause-im-krankenhaus](https://www.spiegel.de/panorama/leute/lola-weippert-meningitis-zwangspause-im-krankenhaus-a-704f2283-4921-495d-b3c7-8725fdc9a12c#ref=rss)
+### weippert
+
+* [https://www.spiegel.de/panorama/leute/lola-weippert-meningitis-zwangspause-im-krankenhaus](https://www.spiegel.de/panorama/leute/lola-weippert-meningitis-zwangspause-im-krankenhaus-a-704f2283-4921-495d-b3c7-8725fdc9a12c#ref=rss)
+### hendrik
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/hendrik-streeck-drogenbeauftragter-ist-fuer-altersvorgaben-aber-gegen-handyverbote](https://www.spiegel.de/netzwelt/netzpolitik/hendrik-streeck-drogenbeauftragter-ist-fuer-altersvorgaben-aber-gegen-handyverbote-a-6dc9cc3c-21c7-4d9a-a8b5-ea33b5a2bd34#ref=rss)
+### streeck
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/hendrik-streeck-drogenbeauftragter-ist-fuer-altersvorgaben-aber-gegen-handyverbote](https://www.spiegel.de/netzwelt/netzpolitik/hendrik-streeck-drogenbeauftragter-ist-fuer-altersvorgaben-aber-gegen-handyverbote-a-6dc9cc3c-21c7-4d9a-a8b5-ea33b5a2bd34#ref=rss)
+### gigafactory
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-was-wird-aus-der-gigafactory-in-gruenheide](https://www.spiegel.de/wirtschaft/unternehmen/tesla-was-wird-aus-der-gigafactory-in-gruenheide-a-9ebc06ad-9d05-474f-bd18-54edbe56ecca#ref=rss)
+### grünheide
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-was-wird-aus-der-gigafactory-in-gruenheide](https://www.spiegel.de/wirtschaft/unternehmen/tesla-was-wird-aus-der-gigafactory-in-gruenheide-a-9ebc06ad-9d05-474f-bd18-54edbe56ecca#ref=rss)
+### commerzbank
+
+* [https://www.spiegel.de/wirtschaft/unicredit-stockt-direkte-beteiligung-an-commerzbank-weiter-auf](https://www.spiegel.de/wirtschaft/unicredit-stockt-direkte-beteiligung-an-commerzbank-weiter-auf-a-964c8c4c-fdd4-4f84-8b9e-b0ade22426ff#ref=rss)
+### zählt
+
+* [https://www.spiegel.de/sport/basketball/basketball-em-2025-spielplan-gruppen-ergebnisse](https://www.spiegel.de/sport/basketball/basketball-em-2025-spielplan-gruppen-ergebnisse-a-7feabe70-955b-427b-90b5-2dac126c5e75#ref=rss)
+* [https://www.spiegel.de/auto/leipzig-frankfurt-muenchen-wo-die-wege-zu-einkauf-arzt-schule-oder-sport-kurz-sind](https://www.spiegel.de/auto/leipzig-frankfurt-muenchen-wo-die-wege-zu-einkauf-arzt-schule-oder-sport-kurz-sind-a-9ebd533a-17c7-4869-b6b4-66531840465c#ref=rss)
+### wichtige
+
+* [https://www.spiegel.de/sport/basketball/basketball-em-2025-spielplan-gruppen-ergebnisse](https://www.spiegel.de/sport/basketball/basketball-em-2025-spielplan-gruppen-ergebnisse-a-7feabe70-955b-427b-90b5-2dac126c5e75#ref=rss)
+* [https://www.spiegel.de/auto/leipzig-frankfurt-muenchen-wo-die-wege-zu-einkauf-arzt-schule-oder-sport-kurz-sind](https://www.spiegel.de/auto/leipzig-frankfurt-muenchen-wo-die-wege-zu-einkauf-arzt-schule-oder-sport-kurz-sind-a-9ebd533a-17c7-4869-b6b4-66531840465c#ref=rss)
 ### wadephul
 
-* [https://www.spiegel.de/politik/deutschland/gaza-aktivisten-kapern-buergerdialog-mit-johann-wadephul-im-auswaertigen-amt](https://www.spiegel.de/politik/deutschland/gaza-aktivisten-kapern-buergerdialog-mit-johann-wadephul-im-auswaertigen-amt-a-d91a55bc-e3a1-49f5-8230-eb370c4533ad#ref=rss)
-### tag
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-aktivisten-besetzen-buero-aus-solidaritaet-mit-maja-t](https://www.spiegel.de/politik/deutschland/johann-wadephul-aktivisten-besetzen-buero-aus-solidaritaet-mit-maja-t-a-9628e07b-beca-4b67-b8fc-930c48e8073e#ref=rss)
+### maja
 
-* [https://www.spiegel.de/politik/deutschland/gaza-aktivisten-kapern-buergerdialog-mit-johann-wadephul-im-auswaertigen-amt](https://www.spiegel.de/politik/deutschland/gaza-aktivisten-kapern-buergerdialog-mit-johann-wadephul-im-auswaertigen-amt-a-d91a55bc-e3a1-49f5-8230-eb370c4533ad#ref=rss)
-* [https://www.spiegel.de/panorama/30-werden-warum-eine-zahl-nicht-die-deadline-fuer-ein-gutes-leben-ist](https://www.spiegel.de/panorama/30-werden-warum-eine-zahl-nicht-die-deadline-fuer-ein-gutes-leben-ist-a-cf417d10-b9ee-400e-bee8-dc858e431ec7#ref=rss)
-### kommen
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-aktivisten-besetzen-buero-aus-solidaritaet-mit-maja-t](https://www.spiegel.de/politik/deutschland/johann-wadephul-aktivisten-besetzen-buero-aus-solidaritaet-mit-maja-t-a-9628e07b-beca-4b67-b8fc-930c48e8073e#ref=rss)
+### t
 
-* [https://www.spiegel.de/politik/deutschland/gaza-aktivisten-kapern-buergerdialog-mit-johann-wadephul-im-auswaertigen-amt](https://www.spiegel.de/politik/deutschland/gaza-aktivisten-kapern-buergerdialog-mit-johann-wadephul-im-auswaertigen-amt-a-d91a55bc-e3a1-49f5-8230-eb370c4533ad#ref=rss)
-* [https://www.spiegel.de/panorama/ard-sommerinterview-mit-markus-soeder-stoeren-aber-kommen-zu-spaet](https://www.spiegel.de/panorama/ard-sommerinterview-mit-markus-soeder-stoeren-aber-kommen-zu-spaet-a-9a55a8f5-1aed-445d-8531-0e58d3f7d175#ref=rss)
-### 1
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-aktivisten-besetzen-buero-aus-solidaritaet-mit-maja-t](https://www.spiegel.de/politik/deutschland/johann-wadephul-aktivisten-besetzen-buero-aus-solidaritaet-mit-maja-t-a-9628e07b-beca-4b67-b8fc-930c48e8073e#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-unterliegt-dem-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-unterliegt-dem-1-fc-koeln-a-6a640943-28cf-4aeb-88a1-134458028eb4#ref=rss)
-### köln
+* [https://www.spiegel.de/wirtschaft/bauindustrie-sammelt-mehr-auftraege-ein](https://www.spiegel.de/wirtschaft/bauindustrie-sammelt-mehr-auftraege-ein-a-44f3b958-cbf8-4585-8c7d-5aa45bc843fe#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-novak-djokovic-mueht-sich-zum-sieg-ueber-learner-tien-in-der-1-runde](https://www.spiegel.de/sport/tennis/us-open-novak-djokovic-mueht-sich-zum-sieg-ueber-learner-tien-in-der-1-runde-a-f17a1bd4-632b-47ca-bfdb-2f18d5fa854c#ref=rss)
+### angela
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-unterliegt-dem-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-unterliegt-dem-1-fc-koeln-a-6a640943-28cf-4aeb-88a1-134458028eb4#ref=rss)
-### ardsommerinterview
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt](https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt-a-d2816790-2bf6-42e2-95cb-22138cbf52af#ref=rss)
+### merkel
 
-* [https://www.spiegel.de/panorama/ard-sommerinterview-mit-markus-soeder-stoeren-aber-kommen-zu-spaet](https://www.spiegel.de/panorama/ard-sommerinterview-mit-markus-soeder-stoeren-aber-kommen-zu-spaet-a-9a55a8f5-1aed-445d-8531-0e58d3f7d175#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt](https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt-a-d2816790-2bf6-42e2-95cb-22138cbf52af#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt](https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt-a-d2816790-2bf6-42e2-95cb-22138cbf52af#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-sieht-rueckkehr-zur-wehrpflicht-als-unabwendbar](https://www.spiegel.de/politik/deutschland/markus-soeder-sieht-rueckkehr-zur-wehrpflicht-als-unabwendbar-a-dd70b326-8854-455c-b18c-9fa95b2b4c8f#ref=rss)
+### wir
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt](https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt-a-d2816790-2bf6-42e2-95cb-22138cbf52af#ref=rss)
+### schaffen
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt](https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt-a-d2816790-2bf6-42e2-95cb-22138cbf52af#ref=rss)
+### andere
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt](https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt-a-d2816790-2bf6-42e2-95cb-22138cbf52af#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-welche-bundeslaender-smartphones-verbannen](https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-welche-bundeslaender-smartphones-verbannen-a-9ef1d632-78f4-47a6-9901-fdfd5da82c35#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/kultur/tv/stefanie-reinsperger-gibt-tatort-rolle-rosa-herzog-fuers-burgtheater-auf](https://www.spiegel.de/kultur/tv/stefanie-reinsperger-gibt-tatort-rolle-rosa-herzog-fuers-burgtheater-auf-a-d5708025-8d0d-401a-b53d-9a12a5fc22d7#ref=rss)
+### stefanie
+
+* [https://www.spiegel.de/kultur/tv/stefanie-reinsperger-gibt-tatort-rolle-rosa-herzog-fuers-burgtheater-auf](https://www.spiegel.de/kultur/tv/stefanie-reinsperger-gibt-tatort-rolle-rosa-herzog-fuers-burgtheater-auf-a-d5708025-8d0d-401a-b53d-9a12a5fc22d7#ref=rss)
+### reinsperger
+
+* [https://www.spiegel.de/kultur/tv/stefanie-reinsperger-gibt-tatort-rolle-rosa-herzog-fuers-burgtheater-auf](https://www.spiegel.de/kultur/tv/stefanie-reinsperger-gibt-tatort-rolle-rosa-herzog-fuers-burgtheater-auf-a-d5708025-8d0d-401a-b53d-9a12a5fc22d7#ref=rss)
+### rosa
+
+* [https://www.spiegel.de/kultur/tv/stefanie-reinsperger-gibt-tatort-rolle-rosa-herzog-fuers-burgtheater-auf](https://www.spiegel.de/kultur/tv/stefanie-reinsperger-gibt-tatort-rolle-rosa-herzog-fuers-burgtheater-auf-a-d5708025-8d0d-401a-b53d-9a12a5fc22d7#ref=rss)
+### herzog
+
+* [https://www.spiegel.de/kultur/tv/stefanie-reinsperger-gibt-tatort-rolle-rosa-herzog-fuers-burgtheater-auf](https://www.spiegel.de/kultur/tv/stefanie-reinsperger-gibt-tatort-rolle-rosa-herzog-fuers-burgtheater-auf-a-d5708025-8d0d-401a-b53d-9a12a5fc22d7#ref=rss)
+### burgtheater
+
+* [https://www.spiegel.de/kultur/tv/stefanie-reinsperger-gibt-tatort-rolle-rosa-herzog-fuers-burgtheater-auf](https://www.spiegel.de/kultur/tv/stefanie-reinsperger-gibt-tatort-rolle-rosa-herzog-fuers-burgtheater-auf-a-d5708025-8d0d-401a-b53d-9a12a5fc22d7#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/abgeordnetenwahl-2026-in-berlin-spd-will-steffen-krach-als-spitzenkandidat-aufstellen](https://www.spiegel.de/politik/deutschland/abgeordnetenwahl-2026-in-berlin-spd-will-steffen-krach-als-spitzenkandidat-aufstellen-a-67332315-0cdc-40af-8202-764bf607d880#ref=rss)
+### steffen
+
+* [https://www.spiegel.de/politik/deutschland/abgeordnetenwahl-2026-in-berlin-spd-will-steffen-krach-als-spitzenkandidat-aufstellen](https://www.spiegel.de/politik/deutschland/abgeordnetenwahl-2026-in-berlin-spd-will-steffen-krach-als-spitzenkandidat-aufstellen-a-67332315-0cdc-40af-8202-764bf607d880#ref=rss)
+### krach
+
+* [https://www.spiegel.de/politik/deutschland/abgeordnetenwahl-2026-in-berlin-spd-will-steffen-krach-als-spitzenkandidat-aufstellen](https://www.spiegel.de/politik/deutschland/abgeordnetenwahl-2026-in-berlin-spd-will-steffen-krach-als-spitzenkandidat-aufstellen-a-67332315-0cdc-40af-8202-764bf607d880#ref=rss)
+### evergrande
+
+* [https://www.spiegel.de/wirtschaft/chinas-krisen-baukonzern-evergrande-fliegt-aus-der-boerse](https://www.spiegel.de/wirtschaft/chinas-krisen-baukonzern-evergrande-fliegt-aus-der-boerse-a-80d049e4-ea93-4793-886e-9d1b57cb5256#ref=rss)
+### chinas
+
+* [https://www.spiegel.de/wirtschaft/chinas-krisen-baukonzern-evergrande-fliegt-aus-der-boerse](https://www.spiegel.de/wirtschaft/chinas-krisen-baukonzern-evergrande-fliegt-aus-der-boerse-a-80d049e4-ea93-4793-886e-9d1b57cb5256#ref=rss)
+### börse
+
+* [https://www.spiegel.de/wirtschaft/chinas-krisen-baukonzern-evergrande-fliegt-aus-der-boerse](https://www.spiegel.de/wirtschaft/chinas-krisen-baukonzern-evergrande-fliegt-aus-der-boerse-a-80d049e4-ea93-4793-886e-9d1b57cb5256#ref=rss)
+### daniil
+
+* [https://www.spiegel.de/sport/tennis/us-open-daniil-medwedew-verliert-erstrundenmatch-nach-kuriosem-zwichenfall](https://www.spiegel.de/sport/tennis/us-open-daniil-medwedew-verliert-erstrundenmatch-nach-kuriosem-zwichenfall-a-7d62f4c3-1420-46d9-8706-d5881f9e92ac#ref=rss)
+### medwedew
+
+* [https://www.spiegel.de/sport/tennis/us-open-daniil-medwedew-verliert-erstrundenmatch-nach-kuriosem-zwichenfall](https://www.spiegel.de/sport/tennis/us-open-daniil-medwedew-verliert-erstrundenmatch-nach-kuriosem-zwichenfall-a-7d62f4c3-1420-46d9-8706-d5881f9e92ac#ref=rss)
+### memoiren
+
+* [https://www.spiegel.de/panorama/leute/jeffrey-epstein-skandal-virginia-giuffre-veroeffentlicht-memoiren-posthum](https://www.spiegel.de/panorama/leute/jeffrey-epstein-skandal-virginia-giuffre-veroeffentlicht-memoiren-posthum-a-5a621306-72b2-496b-ba6c-98ebcf724391#ref=rss)
+### virginia
+
+* [https://www.spiegel.de/panorama/leute/jeffrey-epstein-skandal-virginia-giuffre-veroeffentlicht-memoiren-posthum](https://www.spiegel.de/panorama/leute/jeffrey-epstein-skandal-virginia-giuffre-veroeffentlicht-memoiren-posthum-a-5a621306-72b2-496b-ba6c-98ebcf724391#ref=rss)
+### giuffre
+
+* [https://www.spiegel.de/panorama/leute/jeffrey-epstein-skandal-virginia-giuffre-veroeffentlicht-memoiren-posthum](https://www.spiegel.de/panorama/leute/jeffrey-epstein-skandal-virginia-giuffre-veroeffentlicht-memoiren-posthum-a-5a621306-72b2-496b-ba6c-98ebcf724391#ref=rss)
+### erscheinen
+
+* [https://www.spiegel.de/panorama/leute/jeffrey-epstein-skandal-virginia-giuffre-veroeffentlicht-memoiren-posthum](https://www.spiegel.de/panorama/leute/jeffrey-epstein-skandal-virginia-giuffre-veroeffentlicht-memoiren-posthum-a-5a621306-72b2-496b-ba6c-98ebcf724391#ref=rss)
+### handyverbot
+
+* [https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-welche-bundeslaender-smartphones-verbannen](https://www.spiegel.de/panorama/bildung/handyverbot-an-schulen-welche-bundeslaender-smartphones-verbannen-a-9ef1d632-78f4-47a6-9901-fdfd5da82c35#ref=rss)
+### monika
+
+* [https://www.spiegel.de/wirtschaft/wirtschaftsweise-monika-schnitzer-fordert-grundlegende-reformen-der-sozialsysteme](https://www.spiegel.de/wirtschaft/wirtschaftsweise-monika-schnitzer-fordert-grundlegende-reformen-der-sozialsysteme-a-f12bccbe-4c45-4be0-b4e9-46f2b5c9d1d2#ref=rss)
+### schnitzer
+
+* [https://www.spiegel.de/wirtschaft/wirtschaftsweise-monika-schnitzer-fordert-grundlegende-reformen-der-sozialsysteme](https://www.spiegel.de/wirtschaft/wirtschaftsweise-monika-schnitzer-fordert-grundlegende-reformen-der-sozialsysteme-a-f12bccbe-4c45-4be0-b4e9-46f2b5c9d1d2#ref=rss)
+### reformen
+
+* [https://www.spiegel.de/wirtschaft/wirtschaftsweise-monika-schnitzer-fordert-grundlegende-reformen-der-sozialsysteme](https://www.spiegel.de/wirtschaft/wirtschaftsweise-monika-schnitzer-fordert-grundlegende-reformen-der-sozialsysteme-a-f12bccbe-4c45-4be0-b4e9-46f2b5c9d1d2#ref=rss)
+### novak
+
+* [https://www.spiegel.de/sport/tennis/us-open-novak-djokovic-mueht-sich-zum-sieg-ueber-learner-tien-in-der-1-runde](https://www.spiegel.de/sport/tennis/us-open-novak-djokovic-mueht-sich-zum-sieg-ueber-learner-tien-in-der-1-runde-a-f17a1bd4-632b-47ca-bfdb-2f18d5fa854c#ref=rss)
+### djokovic
+
+* [https://www.spiegel.de/sport/tennis/us-open-novak-djokovic-mueht-sich-zum-sieg-ueber-learner-tien-in-der-1-runde](https://www.spiegel.de/sport/tennis/us-open-novak-djokovic-mueht-sich-zum-sieg-ueber-learner-tien-in-der-1-runde-a-f17a1bd4-632b-47ca-bfdb-2f18d5fa854c#ref=rss)
+### sieg
+
+* [https://www.spiegel.de/sport/tennis/us-open-novak-djokovic-mueht-sich-zum-sieg-ueber-learner-tien-in-der-1-runde](https://www.spiegel.de/sport/tennis/us-open-novak-djokovic-mueht-sich-zum-sieg-ueber-learner-tien-in-der-1-runde-a-f17a1bd4-632b-47ca-bfdb-2f18d5fa854c#ref=rss)
 ### söder
 
-* [https://www.spiegel.de/panorama/ard-sommerinterview-mit-markus-soeder-stoeren-aber-kommen-zu-spaet](https://www.spiegel.de/panorama/ard-sommerinterview-mit-markus-soeder-stoeren-aber-kommen-zu-spaet-a-9a55a8f5-1aed-445d-8531-0e58d3f7d175#ref=rss)
-### rechtsextreme
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-sieht-rueckkehr-zur-wehrpflicht-als-unabwendbar](https://www.spiegel.de/politik/deutschland/markus-soeder-sieht-rueckkehr-zur-wehrpflicht-als-unabwendbar-a-dd70b326-8854-455c-b18c-9fa95b2b4c8f#ref=rss)
+### freiburg
 
-* [https://www.spiegel.de/panorama/ard-sommerinterview-mit-markus-soeder-stoeren-aber-kommen-zu-spaet](https://www.spiegel.de/panorama/ard-sommerinterview-mit-markus-soeder-stoeren-aber-kommen-zu-spaet-a-9a55a8f5-1aed-445d-8531-0e58d3f7d175#ref=rss)
-### sängerin
+* [https://www.spiegel.de/start/studieren-in-freiburg-im-breisgau-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-freiburg-im-breisgau-campus-wohnviertel-wg-zimmer-preise-kneipen-a-5a690d7f-5313-4d91-92a9-931c79f67f69#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/kultur/musik/saengerin-ciara-was-passiert-wenn-die-kinder-mit-auf-tour-gehen](https://www.spiegel.de/kultur/musik/saengerin-ciara-was-passiert-wenn-die-kinder-mit-auf-tour-gehen-a-7b75b56d-c092-44f7-969a-bb64ea5ee500#ref=rss)
-### ciara
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-ist-angeblich-offen-fuer-zugestaendnisse-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-russland-ist-angeblich-offen-fuer-zugestaendnisse-an-die-ukraine-a-62c9dc9a-33bf-45a3-a11f-a5987259f662#ref=rss)
+### russland
 
-* [https://www.spiegel.de/kultur/musik/saengerin-ciara-was-passiert-wenn-die-kinder-mit-auf-tour-gehen](https://www.spiegel.de/kultur/musik/saengerin-ciara-was-passiert-wenn-die-kinder-mit-auf-tour-gehen-a-7b75b56d-c092-44f7-969a-bb64ea5ee500#ref=rss)
-### kinder
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-ist-angeblich-offen-fuer-zugestaendnisse-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-russland-ist-angeblich-offen-fuer-zugestaendnisse-an-die-ukraine-a-62c9dc9a-33bf-45a3-a11f-a5987259f662#ref=rss)
+### usvize
 
-* [https://www.spiegel.de/kultur/musik/saengerin-ciara-was-passiert-wenn-die-kinder-mit-auf-tour-gehen](https://www.spiegel.de/kultur/musik/saengerin-ciara-was-passiert-wenn-die-kinder-mit-auf-tour-gehen-a-7b75b56d-c092-44f7-969a-bb64ea5ee500#ref=rss)
-* [https://www.spiegel.de/ausland/fall-lucy-letby-grossbritannien-streitet-fall-der-verurteilten-krankenschwester](https://www.spiegel.de/ausland/fall-lucy-letby-grossbritannien-streitet-fall-der-verurteilten-krankenschwester-a-f7f65e07-f2d7-42f4-a39a-1427b4394aba#ref=rss)
-### mutter
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-ist-angeblich-offen-fuer-zugestaendnisse-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-russland-ist-angeblich-offen-fuer-zugestaendnisse-an-die-ukraine-a-62c9dc9a-33bf-45a3-a11f-a5987259f662#ref=rss)
+### vance
 
-* [https://www.spiegel.de/kultur/musik/saengerin-ciara-was-passiert-wenn-die-kinder-mit-auf-tour-gehen](https://www.spiegel.de/kultur/musik/saengerin-ciara-was-passiert-wenn-die-kinder-mit-auf-tour-gehen-a-7b75b56d-c092-44f7-969a-bb64ea5ee500#ref=rss)
-* [https://www.spiegel.de/ausland/daenemark-groenlaendischer-mutter-wurde-baby-nach-elternkompetenztest-entzogen](https://www.spiegel.de/ausland/daenemark-groenlaendischer-mutter-wurde-baby-nach-elternkompetenztest-entzogen-a-f3e2f22f-3d81-4793-8b24-13447578a33d#ref=rss)
-### huthimiliz
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-ist-angeblich-offen-fuer-zugestaendnisse-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-russland-ist-angeblich-offen-fuer-zugestaendnisse-an-die-ukraine-a-62c9dc9a-33bf-45a3-a11f-a5987259f662#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/israel-jemen-krieg-huthi-miliz-setzt-wohl-erstmals-streumunition-ein](https://www.spiegel.de/ausland/israel-jemen-krieg-huthi-miliz-setzt-wohl-erstmals-streumunition-ein-a-ddb6f096-5793-46d9-a35a-29abfcd97b04#ref=rss)
-### erstmals
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-ist-angeblich-offen-fuer-zugestaendnisse-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-russland-ist-angeblich-offen-fuer-zugestaendnisse-an-die-ukraine-a-62c9dc9a-33bf-45a3-a11f-a5987259f662#ref=rss)
+* [https://www.spiegel.de/panorama/leute/anna-maria-muehe-und-lucas-gregorowicz-haben-geheiratet](https://www.spiegel.de/panorama/leute/anna-maria-muehe-und-lucas-gregorowicz-haben-geheiratet-a-9fb2fac1-4a02-43bc-86fe-284289831192#ref=rss)
+### handwerk
 
-* [https://www.spiegel.de/ausland/israel-jemen-krieg-huthi-miliz-setzt-wohl-erstmals-streumunition-ein](https://www.spiegel.de/ausland/israel-jemen-krieg-huthi-miliz-setzt-wohl-erstmals-streumunition-ein-a-ddb6f096-5793-46d9-a35a-29abfcd97b04#ref=rss)
-### streumunition
+* [https://www.spiegel.de/wirtschaft/handwerksverband-warnt-vor-wut-auf-die-regierung](https://www.spiegel.de/wirtschaft/handwerksverband-warnt-vor-wut-auf-die-regierung-a-e0351cd3-781e-4b4d-ada4-fa4a922b3c8e#ref=rss)
+### anna
 
-* [https://www.spiegel.de/ausland/israel-jemen-krieg-huthi-miliz-setzt-wohl-erstmals-streumunition-ein](https://www.spiegel.de/ausland/israel-jemen-krieg-huthi-miliz-setzt-wohl-erstmals-streumunition-ein-a-ddb6f096-5793-46d9-a35a-29abfcd97b04#ref=rss)
-### verletzt
+* [https://www.spiegel.de/panorama/leute/anna-maria-muehe-und-lucas-gregorowicz-haben-geheiratet](https://www.spiegel.de/panorama/leute/anna-maria-muehe-und-lucas-gregorowicz-haben-geheiratet-a-9fb2fac1-4a02-43bc-86fe-284289831192#ref=rss)
+### maria
 
-* [https://www.spiegel.de/ausland/israel-jemen-krieg-huthi-miliz-setzt-wohl-erstmals-streumunition-ein](https://www.spiegel.de/ausland/israel-jemen-krieg-huthi-miliz-setzt-wohl-erstmals-streumunition-ein-a-ddb6f096-5793-46d9-a35a-29abfcd97b04#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dresden-mann-verletzt-us-buerger-in-strassenbahn-mit-messer](https://www.spiegel.de/panorama/justiz/dresden-mann-verletzt-us-buerger-in-strassenbahn-mit-messer-a-cac1721e-2695-4b6d-a85c-aa24f2b77994#ref=rss)
-### 30
+* [https://www.spiegel.de/panorama/leute/anna-maria-muehe-und-lucas-gregorowicz-haben-geheiratet](https://www.spiegel.de/panorama/leute/anna-maria-muehe-und-lucas-gregorowicz-haben-geheiratet-a-9fb2fac1-4a02-43bc-86fe-284289831192#ref=rss)
+### mühe
 
-* [https://www.spiegel.de/panorama/30-werden-warum-eine-zahl-nicht-die-deadline-fuer-ein-gutes-leben-ist](https://www.spiegel.de/panorama/30-werden-warum-eine-zahl-nicht-die-deadline-fuer-ein-gutes-leben-ist-a-cf417d10-b9ee-400e-bee8-dc858e431ec7#ref=rss)
-### alix
+* [https://www.spiegel.de/panorama/leute/anna-maria-muehe-und-lucas-gregorowicz-haben-geheiratet](https://www.spiegel.de/panorama/leute/anna-maria-muehe-und-lucas-gregorowicz-haben-geheiratet-a-9fb2fac1-4a02-43bc-86fe-284289831192#ref=rss)
+### lucas
 
-* [https://www.spiegel.de/sport/rugby-ex-profi-alix-popham-verklagt-verbaende-wegen-gehirnerkrankung](https://www.spiegel.de/sport/rugby-ex-profi-alix-popham-verklagt-verbaende-wegen-gehirnerkrankung-a-b54b863a-133b-4fb4-8d75-0285680ab75d#ref=rss)
-### popham
+* [https://www.spiegel.de/panorama/leute/anna-maria-muehe-und-lucas-gregorowicz-haben-geheiratet](https://www.spiegel.de/panorama/leute/anna-maria-muehe-und-lucas-gregorowicz-haben-geheiratet-a-9fb2fac1-4a02-43bc-86fe-284289831192#ref=rss)
+### gregorowicz
 
-* [https://www.spiegel.de/sport/rugby-ex-profi-alix-popham-verklagt-verbaende-wegen-gehirnerkrankung](https://www.spiegel.de/sport/rugby-ex-profi-alix-popham-verklagt-verbaende-wegen-gehirnerkrankung-a-b54b863a-133b-4fb4-8d75-0285680ab75d#ref=rss)
-### rund
-
-* [https://www.spiegel.de/sport/rugby-ex-profi-alix-popham-verklagt-verbaende-wegen-gehirnerkrankung](https://www.spiegel.de/sport/rugby-ex-profi-alix-popham-verklagt-verbaende-wegen-gehirnerkrankung-a-b54b863a-133b-4fb4-8d75-0285680ab75d#ref=rss)
-* [https://www.spiegel.de/panorama/italien-unwetter-rund-um-rimini](https://www.spiegel.de/panorama/italien-unwetter-rund-um-rimini-a-1bb69f71-6ff0-46e3-9b05-4fd184273f6a#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/sport/rugby-ex-profi-alix-popham-verklagt-verbaende-wegen-gehirnerkrankung](https://www.spiegel.de/sport/rugby-ex-profi-alix-popham-verklagt-verbaende-wegen-gehirnerkrankung-a-b54b863a-133b-4fb4-8d75-0285680ab75d#ref=rss)
-* [https://www.spiegel.de/panorama/aegypten-mehrere-studenten-ertrunken](https://www.spiegel.de/panorama/aegypten-mehrere-studenten-ertrunken-a-0919df79-35bb-4910-8f8f-bebdbd2d519b#ref=rss)
-### arschlochpfad
-
-* [https://www.spiegel.de/panorama/gesellschaft/arschlochpfad-an-der-ostsee-wo-trump-und-lenin-sich-im-wald-begegnen](https://www.spiegel.de/panorama/gesellschaft/arschlochpfad-an-der-ostsee-wo-trump-und-lenin-sich-im-wald-begegnen-a-bc7e2d8b-aa60-4017-b5de-fa98ff11dff7#ref=rss)
-### wald
-
-* [https://www.spiegel.de/panorama/gesellschaft/arschlochpfad-an-der-ostsee-wo-trump-und-lenin-sich-im-wald-begegnen](https://www.spiegel.de/panorama/gesellschaft/arschlochpfad-an-der-ostsee-wo-trump-und-lenin-sich-im-wald-begegnen-a-bc7e2d8b-aa60-4017-b5de-fa98ff11dff7#ref=rss)
-### kehl
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastian-kehl-weist-bellingham-entourage-zurecht](https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastian-kehl-weist-bellingham-entourage-zurecht-a-20843697-fa25-4f76-a752-566e00d0ccb3#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/dresden-mann-verletzt-us-buerger-in-strassenbahn-mit-messer](https://www.spiegel.de/panorama/justiz/dresden-mann-verletzt-us-buerger-in-strassenbahn-mit-messer-a-cac1721e-2695-4b6d-a85c-aa24f2b77994#ref=rss)
-### usbürger
-
-* [https://www.spiegel.de/panorama/justiz/dresden-mann-verletzt-us-buerger-in-strassenbahn-mit-messer](https://www.spiegel.de/panorama/justiz/dresden-mann-verletzt-us-buerger-in-strassenbahn-mit-messer-a-cac1721e-2695-4b6d-a85c-aa24f2b77994#ref=rss)
-### straßenbahn
-
-* [https://www.spiegel.de/panorama/justiz/dresden-mann-verletzt-us-buerger-in-strassenbahn-mit-messer](https://www.spiegel.de/panorama/justiz/dresden-mann-verletzt-us-buerger-in-strassenbahn-mit-messer-a-cac1721e-2695-4b6d-a85c-aa24f2b77994#ref=rss)
-### jerry
-
-* [https://www.spiegel.de/kultur/tv/jerry-adler-schauspieler-aus-die-sopranos-ist-tot](https://www.spiegel.de/kultur/tv/jerry-adler-schauspieler-aus-die-sopranos-ist-tot-a-29c751fe-6175-4b05-93c5-7f28c8af538a#ref=rss)
-### adler
-
-* [https://www.spiegel.de/kultur/tv/jerry-adler-schauspieler-aus-die-sopranos-ist-tot](https://www.spiegel.de/kultur/tv/jerry-adler-schauspieler-aus-die-sopranos-ist-tot-a-29c751fe-6175-4b05-93c5-7f28c8af538a#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/kultur/tv/jerry-adler-schauspieler-aus-die-sopranos-ist-tot](https://www.spiegel.de/kultur/tv/jerry-adler-schauspieler-aus-die-sopranos-ist-tot-a-29c751fe-6175-4b05-93c5-7f28c8af538a#ref=rss)
-### sopranos
-
-* [https://www.spiegel.de/kultur/tv/jerry-adler-schauspieler-aus-die-sopranos-ist-tot](https://www.spiegel.de/kultur/tv/jerry-adler-schauspieler-aus-die-sopranos-ist-tot-a-29c751fe-6175-4b05-93c5-7f28c8af538a#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/tv/jerry-adler-schauspieler-aus-die-sopranos-ist-tot](https://www.spiegel.de/kultur/tv/jerry-adler-schauspieler-aus-die-sopranos-ist-tot-a-29c751fe-6175-4b05-93c5-7f28c8af538a#ref=rss)
-* [https://www.spiegel.de/panorama/aegypten-mehrere-studenten-ertrunken](https://www.spiegel.de/panorama/aegypten-mehrere-studenten-ertrunken-a-0919df79-35bb-4910-8f8f-bebdbd2d519b#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/jahrestag-der-unabhaengigkeit-die-ukraine-ist-kein-opfer-sie-ist-eine-kaempferin](https://www.spiegel.de/ausland/jahrestag-der-unabhaengigkeit-die-ukraine-ist-kein-opfer-sie-ist-eine-kaempferin-a-cb03084d-aaca-469d-b9cc-20ef2529a62a#ref=rss)
-* [https://www.spiegel.de/ausland/fall-lucy-letby-grossbritannien-streitet-fall-der-verurteilten-krankenschwester](https://www.spiegel.de/ausland/fall-lucy-letby-grossbritannien-streitet-fall-der-verurteilten-krankenschwester-a-f7f65e07-f2d7-42f4-a39a-1427b4394aba#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/kultur/literatur/sohn-ueber-sebastian-haffner-eine-seite-meines-vaters-die-ich-nicht-gekannt-habe](https://www.spiegel.de/kultur/literatur/sohn-ueber-sebastian-haffner-eine-seite-meines-vaters-die-ich-nicht-gekannt-habe-a-36c77d6a-7188-41d6-9092-9f13004d4976#ref=rss)
-### haffner
-
-* [https://www.spiegel.de/kultur/literatur/sohn-ueber-sebastian-haffner-eine-seite-meines-vaters-die-ich-nicht-gekannt-habe](https://www.spiegel.de/kultur/literatur/sohn-ueber-sebastian-haffner-eine-seite-meines-vaters-die-ich-nicht-gekannt-habe-a-36c77d6a-7188-41d6-9092-9f13004d4976#ref=rss)
-### rechten
-
-* [https://www.spiegel.de/kultur/literatur/sohn-ueber-sebastian-haffner-eine-seite-meines-vaters-die-ich-nicht-gekannt-habe](https://www.spiegel.de/kultur/literatur/sohn-ueber-sebastian-haffner-eine-seite-meines-vaters-die-ich-nicht-gekannt-habe-a-36c77d6a-7188-41d6-9092-9f13004d4976#ref=rss)
-* [https://www.spiegel.de/kultur/j-k-rowling-duolingo-entschuldigt-sich-fuer-umstrittene-aussage](https://www.spiegel.de/kultur/j-k-rowling-duolingo-entschuldigt-sich-fuer-umstrittene-aussage-a-27cbf1ae-a7da-4f36-bf58-ea28102628ff#ref=rss)
-### streitet
-
-* [https://www.spiegel.de/ausland/fall-lucy-letby-grossbritannien-streitet-fall-der-verurteilten-krankenschwester](https://www.spiegel.de/ausland/fall-lucy-letby-grossbritannien-streitet-fall-der-verurteilten-krankenschwester-a-f7f65e07-f2d7-42f4-a39a-1427b4394aba#ref=rss)
-### krankenschwester
-
-* [https://www.spiegel.de/ausland/fall-lucy-letby-grossbritannien-streitet-fall-der-verurteilten-krankenschwester](https://www.spiegel.de/ausland/fall-lucy-letby-grossbritannien-streitet-fall-der-verurteilten-krankenschwester-a-f7f65e07-f2d7-42f4-a39a-1427b4394aba#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/ausland/fall-lucy-letby-grossbritannien-streitet-fall-der-verurteilten-krankenschwester](https://www.spiegel.de/ausland/fall-lucy-letby-grossbritannien-streitet-fall-der-verurteilten-krankenschwester-a-f7f65e07-f2d7-42f4-a39a-1427b4394aba#ref=rss)
-* [https://www.spiegel.de/panorama/aegypten-mehrere-studenten-ertrunken](https://www.spiegel.de/panorama/aegypten-mehrere-studenten-ertrunken-a-0919df79-35bb-4910-8f8f-bebdbd2d519b#ref=rss)
-### unwetter
-
-* [https://www.spiegel.de/panorama/italien-unwetter-rund-um-rimini](https://www.spiegel.de/panorama/italien-unwetter-rund-um-rimini-a-1bb69f71-6ff0-46e3-9b05-4fd184273f6a#ref=rss)
-### rimini
-
-* [https://www.spiegel.de/panorama/italien-unwetter-rund-um-rimini](https://www.spiegel.de/panorama/italien-unwetter-rund-um-rimini-a-1bb69f71-6ff0-46e3-9b05-4fd184273f6a#ref=rss)
-### dänemark
-
-* [https://www.spiegel.de/ausland/daenemark-groenlaendischer-mutter-wurde-baby-nach-elternkompetenztest-entzogen](https://www.spiegel.de/ausland/daenemark-groenlaendischer-mutter-wurde-baby-nach-elternkompetenztest-entzogen-a-f3e2f22f-3d81-4793-8b24-13447578a33d#ref=rss)
-### hintergrund
-
-* [https://www.spiegel.de/ausland/daenemark-groenlaendischer-mutter-wurde-baby-nach-elternkompetenztest-entzogen](https://www.spiegel.de/ausland/daenemark-groenlaendischer-mutter-wurde-baby-nach-elternkompetenztest-entzogen-a-f3e2f22f-3d81-4793-8b24-13447578a33d#ref=rss)
-* [https://www.spiegel.de/kultur/j-k-rowling-duolingo-entschuldigt-sich-fuer-umstrittene-aussage](https://www.spiegel.de/kultur/j-k-rowling-duolingo-entschuldigt-sich-fuer-umstrittene-aussage-a-27cbf1ae-a7da-4f36-bf58-ea28102628ff#ref=rss)
-### tötungsdelikt
-
-* [https://www.spiegel.de/panorama/justiz/verdacht-auf-toetungsdelikt-passanten-entdecken-leiche-am-silbersee](https://www.spiegel.de/panorama/justiz/verdacht-auf-toetungsdelikt-passanten-entdecken-leiche-am-silbersee-a-75ba0a6a-f295-4024-8094-fa950b389ccb#ref=rss)
-### silbersee
-
-* [https://www.spiegel.de/panorama/justiz/verdacht-auf-toetungsdelikt-passanten-entdecken-leiche-am-silbersee](https://www.spiegel.de/panorama/justiz/verdacht-auf-toetungsdelikt-passanten-entdecken-leiche-am-silbersee-a-75ba0a6a-f295-4024-8094-fa950b389ccb#ref=rss)
-### jk
-
-* [https://www.spiegel.de/kultur/j-k-rowling-duolingo-entschuldigt-sich-fuer-umstrittene-aussage](https://www.spiegel.de/kultur/j-k-rowling-duolingo-entschuldigt-sich-fuer-umstrittene-aussage-a-27cbf1ae-a7da-4f36-bf58-ea28102628ff#ref=rss)
-### rowling
-
-* [https://www.spiegel.de/kultur/j-k-rowling-duolingo-entschuldigt-sich-fuer-umstrittene-aussage](https://www.spiegel.de/kultur/j-k-rowling-duolingo-entschuldigt-sich-fuer-umstrittene-aussage-a-27cbf1ae-a7da-4f36-bf58-ea28102628ff#ref=rss)
-### duolingo
-
-* [https://www.spiegel.de/kultur/j-k-rowling-duolingo-entschuldigt-sich-fuer-umstrittene-aussage](https://www.spiegel.de/kultur/j-k-rowling-duolingo-entschuldigt-sich-fuer-umstrittene-aussage-a-27cbf1ae-a7da-4f36-bf58-ea28102628ff#ref=rss)
+* [https://www.spiegel.de/panorama/leute/anna-maria-muehe-und-lucas-gregorowicz-haben-geheiratet](https://www.spiegel.de/panorama/leute/anna-maria-muehe-und-lucas-gregorowicz-haben-geheiratet-a-9fb2fac1-4a02-43bc-86fe-284289831192#ref=rss)
 
