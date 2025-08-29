@@ -4,310 +4,285 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/habecks-abschied-die-gruenen-muessen-populistischer-werden-um-erfolgreich-zu-sein](https://www.spiegel.de/politik/deutschland/habecks-abschied-die-gruenen-muessen-populistischer-werden-um-erfolgreich-zu-sein-a-dfb69656-4c24-4e59-8ad4-1247553fe9bf#ref=rss)
-* [https://www.spiegel.de/ausland/japan-regierung-plant-militaerausgaben-in-rekordhoehe](https://www.spiegel.de/ausland/japan-regierung-plant-militaerausgaben-in-rekordhoehe-a-ef161126-1a20-451d-9799-514393249aef#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jose-mourinho-bei-fenerbahce-istanbul-traineramt-endet-nach-einem-jahr](https://www.spiegel.de/sport/fussball/jose-mourinho-bei-fenerbahce-istanbul-traineramt-endet-nach-einem-jahr-a-466ade46-eed7-4249-b41d-7186003f50f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015](https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015-a-e9f00276-5e9b-43b7-a990-3db0e0b21c1c#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahlen-wo-deutschlands-industriejobs-broeckeln](https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahlen-wo-deutschlands-industriejobs-broeckeln-a-8ca5482a-e8ae-4334-a86a-87f99aa9395c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bremen-salafistischer-hassprediger-darf-ausgewiesen-werden](https://www.spiegel.de/panorama/justiz/bremen-salafistischer-hassprediger-darf-ausgewiesen-werden-a-5c60ce23-4627-4e9f-b60a-b2426915a30f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/regenwald-bundesregierung-prueft-beteiligung-an-tropenwald-fonds](https://www.spiegel.de/wirtschaft/regenwald-bundesregierung-prueft-beteiligung-an-tropenwald-fonds-a-db1783af-7e46-458a-b974-83bad9757225#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015](https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015-a-e9f00276-5e9b-43b7-a990-3db0e0b21c1c#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/justiz/bremen-salafistischer-hassprediger-darf-ausgewiesen-werden](https://www.spiegel.de/panorama/justiz/bremen-salafistischer-hassprediger-darf-ausgewiesen-werden-a-5c60ce23-4627-4e9f-b60a-b2426915a30f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/regenwald-bundesregierung-prueft-beteiligung-an-tropenwald-fonds](https://www.spiegel.de/wirtschaft/regenwald-bundesregierung-prueft-beteiligung-an-tropenwald-fonds-a-db1783af-7e46-458a-b974-83bad9757225#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015](https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015-a-e9f00276-5e9b-43b7-a990-3db0e0b21c1c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/einkommen-in-deutschland-kaufkraft-der-arbeitnehmer-erneut-gestiegen](https://www.spiegel.de/wirtschaft/soziales/einkommen-in-deutschland-kaufkraft-der-arbeitnehmer-erneut-gestiegen-a-9de6262b-05f4-4411-ac83-a5f4fa98a9fc#ref=rss)
-### israels
-
-* [https://www.spiegel.de/ausland/israels-militaer-erklaert-gaza-stadt-zur-gefaehrlichen-kampfzone](https://www.spiegel.de/ausland/israels-militaer-erklaert-gaza-stadt-zur-gefaehrlichen-kampfzone-a-c7953518-70ce-432b-a468-fcb3b2fb8c1a#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-schliesst-israelische-regierungsvertreter-von-ruestungsmesse-aus](https://www.spiegel.de/ausland/grossbritannien-schliesst-israelische-regierungsvertreter-von-ruestungsmesse-aus-a-0db262a2-562c-4862-8a21-ba4a9e920bf5#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/israels-militaer-erklaert-gaza-stadt-zur-gefaehrlichen-kampfzone](https://www.spiegel.de/ausland/israels-militaer-erklaert-gaza-stadt-zur-gefaehrlichen-kampfzone-a-c7953518-70ce-432b-a468-fcb3b2fb8c1a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015](https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015-a-e9f00276-5e9b-43b7-a990-3db0e0b21c1c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/filderstadt-leiche-in-koffer-am-stadtrand-gefunden](https://www.spiegel.de/panorama/justiz/filderstadt-leiche-in-koffer-am-stadtrand-gefunden-a-1886b784-f86a-4154-aabe-5b5ac2cde6d7#ref=rss)
-### serie
-
-* [https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie](https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie-a-f63729e9-0b0c-41bf-bfc6-a89f41d222bc#ref=rss)
-* [https://www.spiegel.de/stil/zucchini-mit-joghurt-das-fruehstueck-das-auch-am-abend-schmeckt](https://www.spiegel.de/stil/zucchini-mit-joghurt-das-fruehstueck-das-auch-am-abend-schmeckt-a-7ae3ecab-7a4e-4c6a-bcc1-6ab34e7a1fdb#ref=rss)
-* [https://www.spiegel.de/panorama/leute/mark-ruffalo-isst-philly-cheesesteak-sandwiches-fuer-seine-rolle-als-fbi-agent](https://www.spiegel.de/panorama/leute/mark-ruffalo-isst-philly-cheesesteak-sandwiches-fuer-seine-rolle-als-fbi-agent-a-0dc13af9-870c-42cf-8f6d-141b1dbba5a2#ref=rss)
-### drei
-
-* [https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie](https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie-a-f63729e9-0b0c-41bf-bfc6-a89f41d222bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015](https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015-a-e9f00276-5e9b-43b7-a990-3db0e0b21c1c#ref=rss)
-* [https://www.spiegel.de/kultur/kino/orlando-bloom-lebte-drei-wochen-nur-von-gurken-und-thunfisch](https://www.spiegel.de/kultur/kino/orlando-bloom-lebte-drei-wochen-nur-von-gurken-und-thunfisch-a-37112d6e-aeec-41a2-b232-c0e68317fccf#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/wirtschaft/service/eigenheimfoerderung-geringe-nachfrage-fuer-jung-kauft-alt-programm](https://www.spiegel.de/wirtschaft/service/eigenheimfoerderung-geringe-nachfrage-fuer-jung-kauft-alt-programm-a-0cc2ebe2-d8be-4eea-8256-03448d197ee4#ref=rss)
-* [https://www.spiegel.de/ausland/japan-regierung-plant-militaerausgaben-in-rekordhoehe](https://www.spiegel.de/ausland/japan-regierung-plant-militaerausgaben-in-rekordhoehe-a-ef161126-1a20-451d-9799-514393249aef#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-schliesst-israelische-regierungsvertreter-von-ruestungsmesse-aus](https://www.spiegel.de/ausland/grossbritannien-schliesst-israelische-regierungsvertreter-von-ruestungsmesse-aus-a-0db262a2-562c-4862-8a21-ba4a9e920bf5#ref=rss)
-### fall
-
-* [https://www.spiegel.de/panorama/justiz/bremen-salafistischer-hassprediger-darf-ausgewiesen-werden](https://www.spiegel.de/panorama/justiz/bremen-salafistischer-hassprediger-darf-ausgewiesen-werden-a-5c60ce23-4627-4e9f-b60a-b2426915a30f#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/influencer-und-ihre-cutter-mein-learning-alles-schriftlich-festhalten-auch-bei-homies](https://www.spiegel.de/netzwelt/web/influencer-und-ihre-cutter-mein-learning-alles-schriftlich-festhalten-auch-bei-homies-a-b4b6f843-fe5a-497c-a0e1-87dadaa71e19#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/filderstadt-leiche-in-koffer-am-stadtrand-gefunden](https://www.spiegel.de/panorama/justiz/filderstadt-leiche-in-koffer-am-stadtrand-gefunden-a-1886b784-f86a-4154-aabe-5b5ac2cde6d7#ref=rss)
-### politiker
-
-* [https://www.spiegel.de/wirtschaft/regenwald-bundesregierung-prueft-beteiligung-an-tropenwald-fonds](https://www.spiegel.de/wirtschaft/regenwald-bundesregierung-prueft-beteiligung-an-tropenwald-fonds-a-db1783af-7e46-458a-b974-83bad9757225#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/paypal-forderung-nach-weniger-abhaengigkeit-von-us-zahlungsdienstleister](https://www.spiegel.de/wirtschaft/service/paypal-forderung-nach-weniger-abhaengigkeit-von-us-zahlungsdienstleister-a-2eb5bfbd-6050-4f1b-bb9b-a8f6e3cc0000#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/politik/deutschland/karin-prien-bundesfamilienministerin-lehnt-soziales-pflichtjahr-fuer-rentner-ab](https://www.spiegel.de/politik/deutschland/karin-prien-bundesfamilienministerin-lehnt-soziales-pflichtjahr-fuer-rentner-ab-a-7017baf8-1999-4e53-8f5e-1086404965be#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jose-mourinho-bei-fenerbahce-istanbul-traineramt-endet-nach-einem-jahr](https://www.spiegel.de/sport/fussball/jose-mourinho-bei-fenerbahce-istanbul-traineramt-endet-nach-einem-jahr-a-466ade46-eed7-4249-b41d-7186003f50f9#ref=rss)
-### debatte
-
-* [https://www.spiegel.de/politik/deutschland/karin-prien-bundesfamilienministerin-lehnt-soziales-pflichtjahr-fuer-rentner-ab](https://www.spiegel.de/politik/deutschland/karin-prien-bundesfamilienministerin-lehnt-soziales-pflichtjahr-fuer-rentner-ab-a-7017baf8-1999-4e53-8f5e-1086404965be#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/influencer-und-ihre-cutter-mein-learning-alles-schriftlich-festhalten-auch-bei-homies](https://www.spiegel.de/netzwelt/web/influencer-und-ihre-cutter-mein-learning-alles-schriftlich-festhalten-auch-bei-homies-a-b4b6f843-fe5a-497c-a0e1-87dadaa71e19#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/handyverbot-an-schulen-das-wichtigste-was-kinder-lernen-muessen-abschalten](https://www.spiegel.de/politik/deutschland/handyverbot-an-schulen-das-wichtigste-was-kinder-lernen-muessen-abschalten-a-082d3869-2d1e-4167-9b1b-391c83489508#ref=rss)
-### rolle
-
-* [https://www.spiegel.de/kultur/kino/orlando-bloom-lebte-drei-wochen-nur-von-gurken-und-thunfisch](https://www.spiegel.de/kultur/kino/orlando-bloom-lebte-drei-wochen-nur-von-gurken-und-thunfisch-a-37112d6e-aeec-41a2-b232-c0e68317fccf#ref=rss)
-* [https://www.spiegel.de/panorama/leute/mark-ruffalo-isst-philly-cheesesteak-sandwiches-fuer-seine-rolle-als-fbi-agent](https://www.spiegel.de/panorama/leute/mark-ruffalo-isst-philly-cheesesteak-sandwiches-fuer-seine-rolle-als-fbi-agent-a-0dc13af9-870c-42cf-8f6d-141b1dbba5a2#ref=rss)
-### iran
-
-* [https://www.spiegel.de/politik/iran-parlament-plant-austritt-aus-atomwaffensperrvertrag](https://www.spiegel.de/politik/iran-parlament-plant-austritt-aus-atomwaffensperrvertrag-a-2beb0318-e495-4d96-a8fa-940b58de0024#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/politik/iran-parlament-plant-austritt-aus-atomwaffensperrvertrag](https://www.spiegel.de/politik/iran-parlament-plant-austritt-aus-atomwaffensperrvertrag-a-2beb0318-e495-4d96-a8fa-940b58de0024#ref=rss)
-### plant
-
-* [https://www.spiegel.de/politik/iran-parlament-plant-austritt-aus-atomwaffensperrvertrag](https://www.spiegel.de/politik/iran-parlament-plant-austritt-aus-atomwaffensperrvertrag-a-2beb0318-e495-4d96-a8fa-940b58de0024#ref=rss)
-* [https://www.spiegel.de/ausland/japan-regierung-plant-militaerausgaben-in-rekordhoehe](https://www.spiegel.de/ausland/japan-regierung-plant-militaerausgaben-in-rekordhoehe-a-ef161126-1a20-451d-9799-514393249aef#ref=rss)
-### austritt
-
-* [https://www.spiegel.de/politik/iran-parlament-plant-austritt-aus-atomwaffensperrvertrag](https://www.spiegel.de/politik/iran-parlament-plant-austritt-aus-atomwaffensperrvertrag-a-2beb0318-e495-4d96-a8fa-940b58de0024#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/politik/iran-parlament-plant-austritt-aus-atomwaffensperrvertrag](https://www.spiegel.de/politik/iran-parlament-plant-austritt-aus-atomwaffensperrvertrag-a-2beb0318-e495-4d96-a8fa-940b58de0024#ref=rss)
-* [https://www.spiegel.de/kultur/kino/orlando-bloom-lebte-drei-wochen-nur-von-gurken-und-thunfisch](https://www.spiegel.de/kultur/kino/orlando-bloom-lebte-drei-wochen-nur-von-gurken-und-thunfisch-a-37112d6e-aeec-41a2-b232-c0e68317fccf#ref=rss)
-### derweil
-
-* [https://www.spiegel.de/politik/iran-parlament-plant-austritt-aus-atomwaffensperrvertrag](https://www.spiegel.de/politik/iran-parlament-plant-austritt-aus-atomwaffensperrvertrag-a-2beb0318-e495-4d96-a8fa-940b58de0024#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/eigenheimfoerderung-geringe-nachfrage-fuer-jung-kauft-alt-programm](https://www.spiegel.de/wirtschaft/service/eigenheimfoerderung-geringe-nachfrage-fuer-jung-kauft-alt-programm-a-0cc2ebe2-d8be-4eea-8256-03448d197ee4#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/ausland/israels-militaer-erklaert-gaza-stadt-zur-gefaehrlichen-kampfzone](https://www.spiegel.de/ausland/israels-militaer-erklaert-gaza-stadt-zur-gefaehrlichen-kampfzone-a-c7953518-70ce-432b-a468-fcb3b2fb8c1a#ref=rss)
-### gazastadt
-
-* [https://www.spiegel.de/ausland/israels-militaer-erklaert-gaza-stadt-zur-gefaehrlichen-kampfzone](https://www.spiegel.de/ausland/israels-militaer-erklaert-gaza-stadt-zur-gefaehrlichen-kampfzone-a-c7953518-70ce-432b-a468-fcb3b2fb8c1a#ref=rss)
-### kampfzone
-
-* [https://www.spiegel.de/ausland/israels-militaer-erklaert-gaza-stadt-zur-gefaehrlichen-kampfzone](https://www.spiegel.de/ausland/israels-militaer-erklaert-gaza-stadt-zur-gefaehrlichen-kampfzone-a-c7953518-70ce-432b-a468-fcb3b2fb8c1a#ref=rss)
-### habecks
-
-* [https://www.spiegel.de/politik/deutschland/habecks-abschied-die-gruenen-muessen-populistischer-werden-um-erfolgreich-zu-sein](https://www.spiegel.de/politik/deutschland/habecks-abschied-die-gruenen-muessen-populistischer-werden-um-erfolgreich-zu-sein-a-dfb69656-4c24-4e59-8ad4-1247553fe9bf#ref=rss)
-### abschied
-
-* [https://www.spiegel.de/politik/deutschland/habecks-abschied-die-gruenen-muessen-populistischer-werden-um-erfolgreich-zu-sein](https://www.spiegel.de/politik/deutschland/habecks-abschied-die-gruenen-muessen-populistischer-werden-um-erfolgreich-zu-sein-a-dfb69656-4c24-4e59-8ad4-1247553fe9bf#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/habecks-abschied-die-gruenen-muessen-populistischer-werden-um-erfolgreich-zu-sein](https://www.spiegel.de/politik/deutschland/habecks-abschied-die-gruenen-muessen-populistischer-werden-um-erfolgreich-zu-sein-a-dfb69656-4c24-4e59-8ad4-1247553fe9bf#ref=rss)
-### nick
-
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-wechselt-zu-newcastle-united-fussballer-sind-aktien](https://www.spiegel.de/sport/fussball/nick-woltemade-wechselt-zu-newcastle-united-fussballer-sind-aktien-a-98e14b8a-de59-4a20-895a-eca2d98c1a0f#ref=rss)
-### woltemade
-
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-wechselt-zu-newcastle-united-fussballer-sind-aktien](https://www.spiegel.de/sport/fussball/nick-woltemade-wechselt-zu-newcastle-united-fussballer-sind-aktien-a-98e14b8a-de59-4a20-895a-eca2d98c1a0f#ref=rss)
-### newcastle
-
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-wechselt-zu-newcastle-united-fussballer-sind-aktien](https://www.spiegel.de/sport/fussball/nick-woltemade-wechselt-zu-newcastle-united-fussballer-sind-aktien-a-98e14b8a-de59-4a20-895a-eca2d98c1a0f#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-wechselt-zu-newcastle-united-fussballer-sind-aktien](https://www.spiegel.de/sport/fussball/nick-woltemade-wechselt-zu-newcastle-united-fussballer-sind-aktien-a-98e14b8a-de59-4a20-895a-eca2d98c1a0f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015](https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015-a-e9f00276-5e9b-43b7-a990-3db0e0b21c1c#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahlen-wo-deutschlands-industriejobs-broeckeln](https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahlen-wo-deutschlands-industriejobs-broeckeln-a-8ca5482a-e8ae-4334-a86a-87f99aa9395c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/einkommen-in-deutschland-kaufkraft-der-arbeitnehmer-erneut-gestiegen](https://www.spiegel.de/wirtschaft/soziales/einkommen-in-deutschland-kaufkraft-der-arbeitnehmer-erneut-gestiegen-a-9de6262b-05f4-4411-ac83-a5f4fa98a9fc#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahlen-wo-deutschlands-industriejobs-broeckeln](https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahlen-wo-deutschlands-industriejobs-broeckeln-a-8ca5482a-e8ae-4334-a86a-87f99aa9395c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015](https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015-a-e9f00276-5e9b-43b7-a990-3db0e0b21c1c#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahlen-wo-deutschlands-industriejobs-broeckeln](https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahlen-wo-deutschlands-industriejobs-broeckeln-a-8ca5482a-e8ae-4334-a86a-87f99aa9395c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015](https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015-a-e9f00276-5e9b-43b7-a990-3db0e0b21c1c#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahlen-wo-deutschlands-industriejobs-broeckeln](https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahlen-wo-deutschlands-industriejobs-broeckeln-a-8ca5482a-e8ae-4334-a86a-87f99aa9395c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015](https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015-a-e9f00276-5e9b-43b7-a990-3db0e0b21c1c#ref=rss)
-### dreimillionenmarke
-
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahlen-wo-deutschlands-industriejobs-broeckeln](https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahlen-wo-deutschlands-industriejobs-broeckeln-a-8ca5482a-e8ae-4334-a86a-87f99aa9395c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015](https://www.spiegel.de/wirtschaft/soziales/arbeitslosenzahl-uebersteigt-drei-millionen-marke-zum-ersten-mal-seit-2015-a-e9f00276-5e9b-43b7-a990-3db0e0b21c1c#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie](https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie-a-f63729e9-0b0c-41bf-bfc6-a89f41d222bc#ref=rss)
-### last
-
-* [https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie](https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie-a-f63729e9-0b0c-41bf-bfc6-a89f41d222bc#ref=rss)
-### of
-
-* [https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie](https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie-a-f63729e9-0b0c-41bf-bfc6-a89f41d222bc#ref=rss)
-### us
-
-* [https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie](https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie-a-f63729e9-0b0c-41bf-bfc6-a89f41d222bc#ref=rss)
-### bella
-
-* [https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie](https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie-a-f63729e9-0b0c-41bf-bfc6-a89f41d222bc#ref=rss)
-### ramsey
-
-* [https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie](https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie-a-f63729e9-0b0c-41bf-bfc6-a89f41d222bc#ref=rss)
-### kritiker
-
-* [https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie](https://www.spiegel.de/kultur/tv/the-last-of-us-bella-ramsey-hat-einen-tipp-fuer-kritiker-der-serie-a-f63729e9-0b0c-41bf-bfc6-a89f41d222bc#ref=rss)
-### zucchini
-
-* [https://www.spiegel.de/stil/zucchini-mit-joghurt-das-fruehstueck-das-auch-am-abend-schmeckt](https://www.spiegel.de/stil/zucchini-mit-joghurt-das-fruehstueck-das-auch-am-abend-schmeckt-a-7ae3ecab-7a4e-4c6a-bcc1-6ab34e7a1fdb#ref=rss)
-### joghurt
-
-* [https://www.spiegel.de/stil/zucchini-mit-joghurt-das-fruehstueck-das-auch-am-abend-schmeckt](https://www.spiegel.de/stil/zucchini-mit-joghurt-das-fruehstueck-das-auch-am-abend-schmeckt-a-7ae3ecab-7a4e-4c6a-bcc1-6ab34e7a1fdb#ref=rss)
-### einkommen
-
-* [https://www.spiegel.de/wirtschaft/service/eigenheimfoerderung-geringe-nachfrage-fuer-jung-kauft-alt-programm](https://www.spiegel.de/wirtschaft/service/eigenheimfoerderung-geringe-nachfrage-fuer-jung-kauft-alt-programm-a-0cc2ebe2-d8be-4eea-8256-03448d197ee4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/einkommen-in-deutschland-kaufkraft-der-arbeitnehmer-erneut-gestiegen](https://www.spiegel.de/wirtschaft/soziales/einkommen-in-deutschland-kaufkraft-der-arbeitnehmer-erneut-gestiegen-a-9de6262b-05f4-4411-ac83-a5f4fa98a9fc#ref=rss)
-### bremen
-
-* [https://www.spiegel.de/panorama/justiz/bremen-salafistischer-hassprediger-darf-ausgewiesen-werden](https://www.spiegel.de/panorama/justiz/bremen-salafistischer-hassprediger-darf-ausgewiesen-werden-a-5c60ce23-4627-4e9f-b60a-b2426915a30f#ref=rss)
-### ausgewiesen
-
-* [https://www.spiegel.de/panorama/justiz/bremen-salafistischer-hassprediger-darf-ausgewiesen-werden](https://www.spiegel.de/panorama/justiz/bremen-salafistischer-hassprediger-darf-ausgewiesen-werden-a-5c60ce23-4627-4e9f-b60a-b2426915a30f#ref=rss)
-### regenwald
-
-* [https://www.spiegel.de/wirtschaft/regenwald-bundesregierung-prueft-beteiligung-an-tropenwald-fonds](https://www.spiegel.de/wirtschaft/regenwald-bundesregierung-prueft-beteiligung-an-tropenwald-fonds-a-db1783af-7e46-458a-b974-83bad9757225#ref=rss)
-### prüft
-
-* [https://www.spiegel.de/wirtschaft/regenwald-bundesregierung-prueft-beteiligung-an-tropenwald-fonds](https://www.spiegel.de/wirtschaft/regenwald-bundesregierung-prueft-beteiligung-an-tropenwald-fonds-a-db1783af-7e46-458a-b974-83bad9757225#ref=rss)
-### japan
-
-* [https://www.spiegel.de/ausland/japan-regierung-plant-militaerausgaben-in-rekordhoehe](https://www.spiegel.de/ausland/japan-regierung-plant-militaerausgaben-in-rekordhoehe-a-ef161126-1a20-451d-9799-514393249aef#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/japan-regierung-plant-militaerausgaben-in-rekordhoehe](https://www.spiegel.de/ausland/japan-regierung-plant-militaerausgaben-in-rekordhoehe-a-ef161126-1a20-451d-9799-514393249aef#ref=rss)
-* [https://www.spiegel.de/geschichte/silvio-berlusconi-der-aufstieg-des-tv-populisten-popos-statt-politik](https://www.spiegel.de/geschichte/silvio-berlusconi-der-aufstieg-des-tv-populisten-popos-statt-politik-a-fd71b8d6-4026-41fd-8d1b-9db8bbcaa733#ref=rss)
-### zweiten
-
-* [https://www.spiegel.de/ausland/japan-regierung-plant-militaerausgaben-in-rekordhoehe](https://www.spiegel.de/ausland/japan-regierung-plant-militaerausgaben-in-rekordhoehe-a-ef161126-1a20-451d-9799-514393249aef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/einkommen-in-deutschland-kaufkraft-der-arbeitnehmer-erneut-gestiegen](https://www.spiegel.de/wirtschaft/soziales/einkommen-in-deutschland-kaufkraft-der-arbeitnehmer-erneut-gestiegen-a-9de6262b-05f4-4411-ac83-a5f4fa98a9fc#ref=rss)
-### star
-
-* [https://www.spiegel.de/kultur/kino/star-wars-starfighter-amy-adams-spielt-neben-ryan-gosling-drehstart-in-grossbritannien](https://www.spiegel.de/kultur/kino/star-wars-starfighter-amy-adams-spielt-neben-ryan-gosling-drehstart-in-grossbritannien-a-2967c194-eef8-4704-9ce8-832fcdae040f#ref=rss)
-### starfighter
-
-* [https://www.spiegel.de/kultur/kino/star-wars-starfighter-amy-adams-spielt-neben-ryan-gosling-drehstart-in-grossbritannien](https://www.spiegel.de/kultur/kino/star-wars-starfighter-amy-adams-spielt-neben-ryan-gosling-drehstart-in-grossbritannien-a-2967c194-eef8-4704-9ce8-832fcdae040f#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/kultur/kino/star-wars-starfighter-amy-adams-spielt-neben-ryan-gosling-drehstart-in-grossbritannien](https://www.spiegel.de/kultur/kino/star-wars-starfighter-amy-adams-spielt-neben-ryan-gosling-drehstart-in-grossbritannien-a-2967c194-eef8-4704-9ce8-832fcdae040f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/mark-ruffalo-isst-philly-cheesesteak-sandwiches-fuer-seine-rolle-als-fbi-agent](https://www.spiegel.de/panorama/leute/mark-ruffalo-isst-philly-cheesesteak-sandwiches-fuer-seine-rolle-als-fbi-agent-a-0dc13af9-870c-42cf-8f6d-141b1dbba5a2#ref=rss)
-### enthebt
-
-* [https://www.spiegel.de/ausland/thailand-verfassungsgericht-enthebt-ministerpraesidentin-ihres-amtes](https://www.spiegel.de/ausland/thailand-verfassungsgericht-enthebt-ministerpraesidentin-ihres-amtes-a-89438ebf-58b4-4f39-b708-67bc9ad0c521#ref=rss)
-### amtes
-
-* [https://www.spiegel.de/ausland/thailand-verfassungsgericht-enthebt-ministerpraesidentin-ihres-amtes](https://www.spiegel.de/ausland/thailand-verfassungsgericht-enthebt-ministerpraesidentin-ihres-amtes-a-89438ebf-58b4-4f39-b708-67bc9ad0c521#ref=rss)
-### prien
-
-* [https://www.spiegel.de/politik/deutschland/karin-prien-bundesfamilienministerin-lehnt-soziales-pflichtjahr-fuer-rentner-ab](https://www.spiegel.de/politik/deutschland/karin-prien-bundesfamilienministerin-lehnt-soziales-pflichtjahr-fuer-rentner-ab-a-7017baf8-1999-4e53-8f5e-1086404965be#ref=rss)
-### soziales
-
-* [https://www.spiegel.de/politik/deutschland/karin-prien-bundesfamilienministerin-lehnt-soziales-pflichtjahr-fuer-rentner-ab](https://www.spiegel.de/politik/deutschland/karin-prien-bundesfamilienministerin-lehnt-soziales-pflichtjahr-fuer-rentner-ab-a-7017baf8-1999-4e53-8f5e-1086404965be#ref=rss)
-### rentner
-
-* [https://www.spiegel.de/politik/deutschland/karin-prien-bundesfamilienministerin-lehnt-soziales-pflichtjahr-fuer-rentner-ab](https://www.spiegel.de/politik/deutschland/karin-prien-bundesfamilienministerin-lehnt-soziales-pflichtjahr-fuer-rentner-ab-a-7017baf8-1999-4e53-8f5e-1086404965be#ref=rss)
-### cutter
-
-* [https://www.spiegel.de/netzwelt/web/influencer-und-ihre-cutter-mein-learning-alles-schriftlich-festhalten-auch-bei-homies](https://www.spiegel.de/netzwelt/web/influencer-und-ihre-cutter-mein-learning-alles-schriftlich-festhalten-auch-bei-homies-a-b4b6f843-fe5a-497c-a0e1-87dadaa71e19#ref=rss)
-### branche
-
-* [https://www.spiegel.de/netzwelt/web/influencer-und-ihre-cutter-mein-learning-alles-schriftlich-festhalten-auch-bei-homies](https://www.spiegel.de/netzwelt/web/influencer-und-ihre-cutter-mein-learning-alles-schriftlich-festhalten-auch-bei-homies-a-b4b6f843-fe5a-497c-a0e1-87dadaa71e19#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/einkommen-in-deutschland-kaufkraft-der-arbeitnehmer-erneut-gestiegen](https://www.spiegel.de/wirtschaft/soziales/einkommen-in-deutschland-kaufkraft-der-arbeitnehmer-erneut-gestiegen-a-9de6262b-05f4-4411-ac83-a5f4fa98a9fc#ref=rss)
-### rüstungsmesse
-
-* [https://www.spiegel.de/ausland/grossbritannien-schliesst-israelische-regierungsvertreter-von-ruestungsmesse-aus](https://www.spiegel.de/ausland/grossbritannien-schliesst-israelische-regierungsvertreter-von-ruestungsmesse-aus-a-0db262a2-562c-4862-8a21-ba4a9e920bf5#ref=rss)
-### minnesota
-
-* [https://www.spiegel.de/ausland/minnesota-fox-news-moderator-trey-gowdy-fordert-live-im-tv-strengere-waffengesetze](https://www.spiegel.de/ausland/minnesota-fox-news-moderator-trey-gowdy-fordert-live-im-tv-strengere-waffengesetze-a-c5e2dbd9-51be-48de-a6e7-fcc366462fc4#ref=rss)
-### foxnewsmoderator
-
-* [https://www.spiegel.de/ausland/minnesota-fox-news-moderator-trey-gowdy-fordert-live-im-tv-strengere-waffengesetze](https://www.spiegel.de/ausland/minnesota-fox-news-moderator-trey-gowdy-fordert-live-im-tv-strengere-waffengesetze-a-c5e2dbd9-51be-48de-a6e7-fcc366462fc4#ref=rss)
-### trey
-
-* [https://www.spiegel.de/ausland/minnesota-fox-news-moderator-trey-gowdy-fordert-live-im-tv-strengere-waffengesetze](https://www.spiegel.de/ausland/minnesota-fox-news-moderator-trey-gowdy-fordert-live-im-tv-strengere-waffengesetze-a-c5e2dbd9-51be-48de-a6e7-fcc366462fc4#ref=rss)
-### gowdy
-
-* [https://www.spiegel.de/ausland/minnesota-fox-news-moderator-trey-gowdy-fordert-live-im-tv-strengere-waffengesetze](https://www.spiegel.de/ausland/minnesota-fox-news-moderator-trey-gowdy-fordert-live-im-tv-strengere-waffengesetze-a-c5e2dbd9-51be-48de-a6e7-fcc366462fc4#ref=rss)
-### berlusconi
-
-* [https://www.spiegel.de/geschichte/silvio-berlusconi-der-aufstieg-des-tv-populisten-popos-statt-politik](https://www.spiegel.de/geschichte/silvio-berlusconi-der-aufstieg-des-tv-populisten-popos-statt-politik-a-fd71b8d6-4026-41fd-8d1b-9db8bbcaa733#ref=rss)
-### dresden
-
-* [https://www.spiegel.de/panorama/justiz/dresden-polizei-fahndet-oeffentlich-nach-mutmasslichem-angreifer](https://www.spiegel.de/panorama/justiz/dresden-polizei-fahndet-oeffentlich-nach-mutmasslichem-angreifer-a-1a91d2f5-b011-463e-ab84-4d5eb1c743f7#ref=rss)
+### usa
+
+* [https://www.spiegel.de/panorama/utah-us-familie-soll-fuer-verpfuschte-geburt-813-millionen-euro-schadensersatz-erhalten](https://www.spiegel.de/panorama/utah-us-familie-soll-fuer-verpfuschte-geburt-813-millionen-euro-schadensersatz-erhalten-a-38c694fa-0830-43e2-b46b-231b8f482a39#ref=rss)
+* [https://www.spiegel.de/wirtschaft/samsung-sk-hynix-und-intel-usa-erschweren-globalen-chipherstellern-die-produktion-in-china](https://www.spiegel.de/wirtschaft/samsung-sk-hynix-und-intel-usa-erschweren-globalen-chipherstellern-die-produktion-in-china-a-c51400a1-d035-4c5e-aae6-98129dcd494c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno](https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno-a-a4ed728c-f763-4f1f-9345-f4525bdb2e18#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/samsung-sk-hynix-und-intel-usa-erschweren-globalen-chipherstellern-die-produktion-in-china](https://www.spiegel.de/wirtschaft/samsung-sk-hynix-und-intel-usa-erschweren-globalen-chipherstellern-die-produktion-in-china-a-c51400a1-d035-4c5e-aae6-98129dcd494c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/nordostpassage-china-laesst-frachtschiffe-in-nur-18-tagen-nach-europa-fahren](https://www.spiegel.de/wissenschaft/technik/nordostpassage-china-laesst-frachtschiffe-in-nur-18-tagen-nach-europa-fahren-a-5e6aa224-7a76-4747-bf21-9374ee72d1b3#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel](https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel-a-9fa7c243-853c-418e-9e73-8b8624a72bfc#ref=rss)
+* [https://www.spiegel.de/politik/israel-benjamin-netanyahu-und-die-dunkle-seite-des-zionismus](https://www.spiegel.de/politik/israel-benjamin-netanyahu-und-die-dunkle-seite-des-zionismus-a-0411ff14-7b6c-457f-b923-c3d23676e59d#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/justiz/dresden-polizei-fahndet-oeffentlich-nach-mutmasslichem-angreifer](https://www.spiegel.de/panorama/justiz/dresden-polizei-fahndet-oeffentlich-nach-mutmasslichem-angreifer-a-1a91d2f5-b011-463e-ab84-4d5eb1c743f7#ref=rss)
-### fahndet
+* [https://www.spiegel.de/panorama/suedkorea-polizei-ermittelt-gegen-k-pop-star-psy](https://www.spiegel.de/panorama/suedkorea-polizei-ermittelt-gegen-k-pop-star-psy-a-3125d89e-0d19-4d28-8066-42d6e98ec5cd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby-a-18608e93-2f4b-436f-8e89-37cd9dd63be5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich](https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich-a-2a33cec4-9d22-4cf7-9212-85e4c61fd4b7#ref=rss)
+### fall
 
-* [https://www.spiegel.de/panorama/justiz/dresden-polizei-fahndet-oeffentlich-nach-mutmasslichem-angreifer](https://www.spiegel.de/panorama/justiz/dresden-polizei-fahndet-oeffentlich-nach-mutmasslichem-angreifer-a-1a91d2f5-b011-463e-ab84-4d5eb1c743f7#ref=rss)
-### öffentlich
+* [https://www.spiegel.de/kultur/kino/filmfestival-in-venedig-wie-man-julia-roberts-spektakulaer-fehlbesetzt](https://www.spiegel.de/kultur/kino/filmfestival-in-venedig-wie-man-julia-roberts-spektakulaer-fehlbesetzt-a-79327515-4fe8-450a-8888-fec876663e31#ref=rss)
+* [https://www.spiegel.de/sport/kirgisistan-bergdrama-um-natalja-nagowizina-zeigt-grenzen-moderner-rettungstechnik](https://www.spiegel.de/sport/kirgisistan-bergdrama-um-natalja-nagowizina-zeigt-grenzen-moderner-rettungstechnik-a-12d32d86-4397-452f-b4fa-d9e18d760a9a#ref=rss)
+* [https://www.spiegel.de/panorama/friedland-mann-der-maedchen-gegen-zug-geschubst-haben-soll-muss-in-psychatrie](https://www.spiegel.de/panorama/friedland-mann-der-maedchen-gegen-zug-geschubst-haben-soll-muss-in-psychatrie-a-c7e20ff2-7f40-4808-99e4-03dc738bb350#ref=rss)
+### macht
 
-* [https://www.spiegel.de/panorama/justiz/dresden-polizei-fahndet-oeffentlich-nach-mutmasslichem-angreifer](https://www.spiegel.de/panorama/justiz/dresden-polizei-fahndet-oeffentlich-nach-mutmasslichem-angreifer-a-1a91d2f5-b011-463e-ab84-4d5eb1c743f7#ref=rss)
-### josé
+* [https://www.spiegel.de/kultur/kino/filmfestival-in-venedig-wie-man-julia-roberts-spektakulaer-fehlbesetzt](https://www.spiegel.de/kultur/kino/filmfestival-in-venedig-wie-man-julia-roberts-spektakulaer-fehlbesetzt-a-79327515-4fe8-450a-8888-fec876663e31#ref=rss)
+* [https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz](https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz-a-75471caf-e425-48b1-83e6-c64878b8bd02#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons](https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons-a-f522acca-640a-490e-82b0-05e90a04b3fd#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/fussball/jose-mourinho-bei-fenerbahce-istanbul-traineramt-endet-nach-einem-jahr](https://www.spiegel.de/sport/fussball/jose-mourinho-bei-fenerbahce-istanbul-traineramt-endet-nach-einem-jahr-a-466ade46-eed7-4249-b41d-7186003f50f9#ref=rss)
-### mourinho
+* [https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz](https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz-a-75471caf-e425-48b1-83e6-c64878b8bd02#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-hebt-personenschutz-von-kamala-harris-offenbar-auf](https://www.spiegel.de/ausland/donald-trump-hebt-personenschutz-von-kamala-harris-offenbar-auf-a-8538dfa3-b68a-4642-a666-13806e51f550#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/fussball/jose-mourinho-bei-fenerbahce-istanbul-traineramt-endet-nach-einem-jahr](https://www.spiegel.de/sport/fussball/jose-mourinho-bei-fenerbahce-istanbul-traineramt-endet-nach-einem-jahr-a-466ade46-eed7-4249-b41d-7186003f50f9#ref=rss)
-### fenerbahçe
+* [https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz](https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz-a-75471caf-e425-48b1-83e6-c64878b8bd02#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-hebt-personenschutz-von-kamala-harris-offenbar-auf](https://www.spiegel.de/ausland/donald-trump-hebt-personenschutz-von-kamala-harris-offenbar-auf-a-8538dfa3-b68a-4642-a666-13806e51f550#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/sport/fussball/jose-mourinho-bei-fenerbahce-istanbul-traineramt-endet-nach-einem-jahr](https://www.spiegel.de/sport/fussball/jose-mourinho-bei-fenerbahce-istanbul-traineramt-endet-nach-einem-jahr-a-466ade46-eed7-4249-b41d-7186003f50f9#ref=rss)
-### istanbul
+* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht-a-5a31497a-79c2-4b60-8455-b3d73b843324#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an](https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an-a-88c32555-f06a-4748-89b2-524c93bd1089#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neuseeland-seit-2021-untergetauchter-vater-angeblich-in-ueberwachungsvideo-gesichtet](https://www.spiegel.de/panorama/justiz/neuseeland-seit-2021-untergetauchter-vater-angeblich-in-ueberwachungsvideo-gesichtet-a-9bced924-2d91-4887-a37a-23f3fd98cb68#ref=rss)
+### vier
 
-* [https://www.spiegel.de/sport/fussball/jose-mourinho-bei-fenerbahce-istanbul-traineramt-endet-nach-einem-jahr](https://www.spiegel.de/sport/fussball/jose-mourinho-bei-fenerbahce-istanbul-traineramt-endet-nach-einem-jahr-a-466ade46-eed7-4249-b41d-7186003f50f9#ref=rss)
-### böttcher
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons](https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons-a-f522acca-640a-490e-82b0-05e90a04b3fd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/texas-beschraenkt-immobilienbesitz-fuer-chinesen-und-russen-drastisch](https://www.spiegel.de/wirtschaft/texas-beschraenkt-immobilienbesitz-fuer-chinesen-und-russen-drastisch-a-049f2c08-f401-4123-9f39-e4d18e5943af#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neuseeland-seit-2021-untergetauchter-vater-angeblich-in-ueberwachungsvideo-gesichtet](https://www.spiegel.de/panorama/justiz/neuseeland-seit-2021-untergetauchter-vater-angeblich-in-ueberwachungsvideo-gesichtet-a-9bced924-2d91-4887-a37a-23f3fd98cb68#ref=rss)
+### hamburger
 
-* [https://www.spiegel.de/panorama/mitarbeitende-sollen-boettcher-ag-im-netz-verteidigen](https://www.spiegel.de/panorama/mitarbeitende-sollen-boettcher-ag-im-netz-verteidigen-a-ae2bdc99-a35d-463a-9f0c-13a2eb3cbb36#ref=rss)
-### orlando
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons](https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons-a-f522acca-640a-490e-82b0-05e90a04b3fd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby-a-18608e93-2f4b-436f-8e89-37cd9dd63be5#ref=rss)
+### sv
 
-* [https://www.spiegel.de/kultur/kino/orlando-bloom-lebte-drei-wochen-nur-von-gurken-und-thunfisch](https://www.spiegel.de/kultur/kino/orlando-bloom-lebte-drei-wochen-nur-von-gurken-und-thunfisch-a-37112d6e-aeec-41a2-b232-c0e68317fccf#ref=rss)
-### bloom
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons](https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons-a-f522acca-640a-490e-82b0-05e90a04b3fd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby-a-18608e93-2f4b-436f-8e89-37cd9dd63be5#ref=rss)
+### st
 
-* [https://www.spiegel.de/kultur/kino/orlando-bloom-lebte-drei-wochen-nur-von-gurken-und-thunfisch](https://www.spiegel.de/kultur/kino/orlando-bloom-lebte-drei-wochen-nur-von-gurken-und-thunfisch-a-37112d6e-aeec-41a2-b232-c0e68317fccf#ref=rss)
-### kaufkraft
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby-a-18608e93-2f4b-436f-8e89-37cd9dd63be5#ref=rss)
+### pauli
 
-* [https://www.spiegel.de/wirtschaft/soziales/einkommen-in-deutschland-kaufkraft-der-arbeitnehmer-erneut-gestiegen](https://www.spiegel.de/wirtschaft/soziales/einkommen-in-deutschland-kaufkraft-der-arbeitnehmer-erneut-gestiegen-a-9de6262b-05f4-4411-ac83-a5f4fa98a9fc#ref=rss)
-### arbeitnehmer
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby-a-18608e93-2f4b-436f-8e89-37cd9dd63be5#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/soziales/einkommen-in-deutschland-kaufkraft-der-arbeitnehmer-erneut-gestiegen](https://www.spiegel.de/wirtschaft/soziales/einkommen-in-deutschland-kaufkraft-der-arbeitnehmer-erneut-gestiegen-a-9de6262b-05f4-4411-ac83-a5f4fa98a9fc#ref=rss)
-### gestiegen
+* [https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an](https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an-a-88c32555-f06a-4748-89b2-524c93bd1089#ref=rss)
+* [https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno](https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno-a-a4ed728c-f763-4f1f-9345-f4525bdb2e18#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden](https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden-a-61d4680b-59a2-43ee-be27-d4999eeb07f8#ref=rss)
+### emmanuel
 
-* [https://www.spiegel.de/wirtschaft/soziales/einkommen-in-deutschland-kaufkraft-der-arbeitnehmer-erneut-gestiegen](https://www.spiegel.de/wirtschaft/soziales/einkommen-in-deutschland-kaufkraft-der-arbeitnehmer-erneut-gestiegen-a-9de6262b-05f4-4411-ac83-a5f4fa98a9fc#ref=rss)
-### rodion
+* [https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt](https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt-a-64713bc1-77c4-4f85-bf3c-72a43be255d2#ref=rss)
+### macron
 
-* [https://www.spiegel.de/kultur/musik/rodion-schtschedrin-gestorben-bolschoi-theater-meldet-tod-des-komponisten](https://www.spiegel.de/kultur/musik/rodion-schtschedrin-gestorben-bolschoi-theater-meldet-tod-des-komponisten-a-eb8dcfcd-2341-4e0b-b477-56dff1483db5#ref=rss)
-### schtschedrin
+* [https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt](https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt-a-64713bc1-77c4-4f85-bf3c-72a43be255d2#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/kultur/musik/rodion-schtschedrin-gestorben-bolschoi-theater-meldet-tod-des-komponisten](https://www.spiegel.de/kultur/musik/rodion-schtschedrin-gestorben-bolschoi-theater-meldet-tod-des-komponisten-a-eb8dcfcd-2341-4e0b-b477-56dff1483db5#ref=rss)
-### russischen
+* [https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt](https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt-a-64713bc1-77c4-4f85-bf3c-72a43be255d2#ref=rss)
+### merz
 
-* [https://www.spiegel.de/kultur/musik/rodion-schtschedrin-gestorben-bolschoi-theater-meldet-tod-des-komponisten](https://www.spiegel.de/kultur/musik/rodion-schtschedrin-gestorben-bolschoi-theater-meldet-tod-des-komponisten-a-eb8dcfcd-2341-4e0b-b477-56dff1483db5#ref=rss)
-### phillycheesesteaksandwiches
+* [https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt](https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt-a-64713bc1-77c4-4f85-bf3c-72a43be255d2#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/panorama/leute/mark-ruffalo-isst-philly-cheesesteak-sandwiches-fuer-seine-rolle-als-fbi-agent](https://www.spiegel.de/panorama/leute/mark-ruffalo-isst-philly-cheesesteak-sandwiches-fuer-seine-rolle-als-fbi-agent-a-0dc13af9-870c-42cf-8f6d-141b1dbba5a2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt](https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt-a-64713bc1-77c4-4f85-bf3c-72a43be255d2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-warnt-vor-bis-zu-100-000-russischen-soldaten-vor-pokrowsk](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-warnt-vor-bis-zu-100-000-russischen-soldaten-vor-pokrowsk-a-7b3560d3-7ba4-43f2-b25d-ac3094e506f8#ref=rss)
+### utah
+
+* [https://www.spiegel.de/panorama/utah-us-familie-soll-fuer-verpfuschte-geburt-813-millionen-euro-schadensersatz-erhalten](https://www.spiegel.de/panorama/utah-us-familie-soll-fuer-verpfuschte-geburt-813-millionen-euro-schadensersatz-erhalten-a-38c694fa-0830-43e2-b46b-231b8f482a39#ref=rss)
+### geburt
+
+* [https://www.spiegel.de/panorama/utah-us-familie-soll-fuer-verpfuschte-geburt-813-millionen-euro-schadensersatz-erhalten](https://www.spiegel.de/panorama/utah-us-familie-soll-fuer-verpfuschte-geburt-813-millionen-euro-schadensersatz-erhalten-a-38c694fa-0830-43e2-b46b-231b8f482a39#ref=rss)
+### schadensersatz
+
+* [https://www.spiegel.de/panorama/utah-us-familie-soll-fuer-verpfuschte-geburt-813-millionen-euro-schadensersatz-erhalten](https://www.spiegel.de/panorama/utah-us-familie-soll-fuer-verpfuschte-geburt-813-millionen-euro-schadensersatz-erhalten-a-38c694fa-0830-43e2-b46b-231b8f482a39#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel](https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel-a-9fa7c243-853c-418e-9e73-8b8624a72bfc#ref=rss)
+### ende
+
+* [https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel](https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel-a-9fa7c243-853c-418e-9e73-8b8624a72bfc#ref=rss)
+* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht-a-5a31497a-79c2-4b60-8455-b3d73b843324#ref=rss)
+### handelsbeziehungen
+
+* [https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel](https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel-a-9fa7c243-853c-418e-9e73-8b8624a72bfc#ref=rss)
+### alle
+
+* [https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel](https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel-a-9fa7c243-853c-418e-9e73-8b8624a72bfc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kriminalitaet-niedersachsens-innenministerin-gegen-erfassung-aller-nationalitaeten-von-tatverdaechtigen](https://www.spiegel.de/panorama/justiz/kriminalitaet-niedersachsens-innenministerin-gegen-erfassung-aller-nationalitaeten-von-tatverdaechtigen-a-c28b4954-5345-40a2-8551-d49afff24c1b#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel](https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel-a-9fa7c243-853c-418e-9e73-8b8624a72bfc#ref=rss)
+* [https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno](https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno-a-a4ed728c-f763-4f1f-9345-f4525bdb2e18#ref=rss)
+### südkorea
+
+* [https://www.spiegel.de/panorama/suedkorea-polizei-ermittelt-gegen-k-pop-star-psy](https://www.spiegel.de/panorama/suedkorea-polizei-ermittelt-gegen-k-pop-star-psy-a-3125d89e-0d19-4d28-8066-42d6e98ec5cd#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/panorama/suedkorea-polizei-ermittelt-gegen-k-pop-star-psy](https://www.spiegel.de/panorama/suedkorea-polizei-ermittelt-gegen-k-pop-star-psy-a-3125d89e-0d19-4d28-8066-42d6e98ec5cd#ref=rss)
+### psy
+
+* [https://www.spiegel.de/panorama/suedkorea-polizei-ermittelt-gegen-k-pop-star-psy](https://www.spiegel.de/panorama/suedkorea-polizei-ermittelt-gegen-k-pop-star-psy-a-3125d89e-0d19-4d28-8066-42d6e98ec5cd#ref=rss)
+### venedig
+
+* [https://www.spiegel.de/kultur/kino/filmfestival-in-venedig-wie-man-julia-roberts-spektakulaer-fehlbesetzt](https://www.spiegel.de/kultur/kino/filmfestival-in-venedig-wie-man-julia-roberts-spektakulaer-fehlbesetzt-a-79327515-4fe8-450a-8888-fec876663e31#ref=rss)
+### gavin
+
+* [https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz](https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz-a-75471caf-e425-48b1-83e6-c64878b8bd02#ref=rss)
+### newsom
+
+* [https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz](https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz-a-75471caf-e425-48b1-83e6-c64878b8bd02#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-warnt-vor-bis-zu-100-000-russischen-soldaten-vor-pokrowsk](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-warnt-vor-bis-zu-100-000-russischen-soldaten-vor-pokrowsk-a-7b3560d3-7ba4-43f2-b25d-ac3094e506f8#ref=rss)
+### intensiviert
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-warnt-vor-bis-zu-100-000-russischen-soldaten-vor-pokrowsk](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-warnt-vor-bis-zu-100-000-russischen-soldaten-vor-pokrowsk-a-7b3560d3-7ba4-43f2-b25d-ac3094e506f8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich](https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich-a-2a33cec4-9d22-4cf7-9212-85e4c61fd4b7#ref=rss)
+### schwarzrote
+
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-fraktionsklausur-in-wuerzburg-beziehungstherapie-bei-fraenkischem-wein](https://www.spiegel.de/politik/deutschland/schwarz-rote-fraktionsklausur-in-wuerzburg-beziehungstherapie-bei-fraenkischem-wein-a-078bbe9d-cc7a-4f99-a52f-8f5df83e8fd4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden](https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden-a-61d4680b-59a2-43ee-be27-d4999eeb07f8#ref=rss)
+### würzburg
+
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-fraktionsklausur-in-wuerzburg-beziehungstherapie-bei-fraenkischem-wein](https://www.spiegel.de/politik/deutschland/schwarz-rote-fraktionsklausur-in-wuerzburg-beziehungstherapie-bei-fraenkischem-wein-a-078bbe9d-cc7a-4f99-a52f-8f5df83e8fd4#ref=rss)
+### geben
+
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-fraktionsklausur-in-wuerzburg-beziehungstherapie-bei-fraenkischem-wein](https://www.spiegel.de/politik/deutschland/schwarz-rote-fraktionsklausur-in-wuerzburg-beziehungstherapie-bei-fraenkischem-wein-a-078bbe9d-cc7a-4f99-a52f-8f5df83e8fd4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden](https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden-a-61d4680b-59a2-43ee-be27-d4999eeb07f8#ref=rss)
+### fortan
+
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-fraktionsklausur-in-wuerzburg-beziehungstherapie-bei-fraenkischem-wein](https://www.spiegel.de/politik/deutschland/schwarz-rote-fraktionsklausur-in-wuerzburg-beziehungstherapie-bei-fraenkischem-wein-a-078bbe9d-cc7a-4f99-a52f-8f5df83e8fd4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/texas-beschraenkt-immobilienbesitz-fuer-chinesen-und-russen-drastisch](https://www.spiegel.de/wirtschaft/texas-beschraenkt-immobilienbesitz-fuer-chinesen-und-russen-drastisch-a-049f2c08-f401-4123-9f39-e4d18e5943af#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht-a-5a31497a-79c2-4b60-8455-b3d73b843324#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht-a-5a31497a-79c2-4b60-8455-b3d73b843324#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden](https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden-a-61d4680b-59a2-43ee-be27-d4999eeb07f8#ref=rss)
+### grenzen
+
+* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht-a-5a31497a-79c2-4b60-8455-b3d73b843324#ref=rss)
+* [https://www.spiegel.de/sport/kirgisistan-bergdrama-um-natalja-nagowizina-zeigt-grenzen-moderner-rettungstechnik](https://www.spiegel.de/sport/kirgisistan-bergdrama-um-natalja-nagowizina-zeigt-grenzen-moderner-rettungstechnik-a-12d32d86-4397-452f-b4fa-d9e18d760a9a#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons](https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons-a-f522acca-640a-490e-82b0-05e90a04b3fd#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### spieler
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons](https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons-a-f522acca-640a-490e-82b0-05e90a04b3fd#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-schweden-trotz-feueralarm-und-trainer-ausfall](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-schweden-trotz-feueralarm-und-trainer-ausfall-a-e5cdd7b8-61fd-49f1-8793-c2b9cbb455f9#ref=rss)
+### tagen
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons](https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons-a-f522acca-640a-490e-82b0-05e90a04b3fd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/nordostpassage-china-laesst-frachtschiffe-in-nur-18-tagen-nach-europa-fahren](https://www.spiegel.de/wissenschaft/technik/nordostpassage-china-laesst-frachtschiffe-in-nur-18-tagen-nach-europa-fahren-a-5e6aa224-7a76-4747-bf21-9374ee72d1b3#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/sport/kirgisistan-bergdrama-um-natalja-nagowizina-zeigt-grenzen-moderner-rettungstechnik](https://www.spiegel.de/sport/kirgisistan-bergdrama-um-natalja-nagowizina-zeigt-grenzen-moderner-rettungstechnik-a-12d32d86-4397-452f-b4fa-d9e18d760a9a#ref=rss)
+### bodo
+
+* [https://www.spiegel.de/politik/deutschland/nationalhymne-bodo-ramelows-hymnen-vorschlag-schriftliche-schnappatmerei](https://www.spiegel.de/politik/deutschland/nationalhymne-bodo-ramelows-hymnen-vorschlag-schriftliche-schnappatmerei-a-e9208d7a-57a3-4a56-bd23-99844372df17#ref=rss)
+### mädchen
+
+* [https://www.spiegel.de/panorama/friedland-mann-der-maedchen-gegen-zug-geschubst-haben-soll-muss-in-psychatrie](https://www.spiegel.de/panorama/friedland-mann-der-maedchen-gegen-zug-geschubst-haben-soll-muss-in-psychatrie-a-c7e20ff2-7f40-4808-99e4-03dc738bb350#ref=rss)
+### sorgt
+
+* [https://www.spiegel.de/panorama/friedland-mann-der-maedchen-gegen-zug-geschubst-haben-soll-muss-in-psychatrie](https://www.spiegel.de/panorama/friedland-mann-der-maedchen-gegen-zug-geschubst-haben-soll-muss-in-psychatrie-a-c7e20ff2-7f40-4808-99e4-03dc738bb350#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kuendigung-per-e-mail-bank-entschuldigt-sich-bei-mitarbeitern-fuer-panne](https://www.spiegel.de/wirtschaft/unternehmen/kuendigung-per-e-mail-bank-entschuldigt-sich-bei-mitarbeitern-fuer-panne-a-3e0b8981-79f2-4fae-b670-d0708bd38c23#ref=rss)
+### grönland
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitslosenzahlen-groenland-deutsche-bahn](https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitslosenzahlen-groenland-deutsche-bahn-a-839aa3b0-2592-40a1-8a18-ec8ebf1512df#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitslosenzahlen-groenland-deutsche-bahn](https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitslosenzahlen-groenland-deutsche-bahn-a-839aa3b0-2592-40a1-8a18-ec8ebf1512df#ref=rss)
+* [https://www.spiegel.de/politik/israel-benjamin-netanyahu-und-die-dunkle-seite-des-zionismus](https://www.spiegel.de/politik/israel-benjamin-netanyahu-und-die-dunkle-seite-des-zionismus-a-0411ff14-7b6c-457f-b923-c3d23676e59d#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitslosenzahlen-groenland-deutsche-bahn](https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitslosenzahlen-groenland-deutsche-bahn-a-839aa3b0-2592-40a1-8a18-ec8ebf1512df#ref=rss)
+* [https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno](https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno-a-a4ed728c-f763-4f1f-9345-f4525bdb2e18#ref=rss)
+### lernen
+
+* [https://www.spiegel.de/sport/schach-so-lernen-sie-eine-partie-im-endspiel-zu-gewinnen](https://www.spiegel.de/sport/schach-so-lernen-sie-eine-partie-im-endspiel-zu-gewinnen-a-b4dfb48a-797f-4ab3-ad24-008e3dd09cdb#ref=rss)
+### endspiel
+
+* [https://www.spiegel.de/sport/schach-so-lernen-sie-eine-partie-im-endspiel-zu-gewinnen](https://www.spiegel.de/sport/schach-so-lernen-sie-eine-partie-im-endspiel-zu-gewinnen-a-b4dfb48a-797f-4ab3-ad24-008e3dd09cdb#ref=rss)
+### messerattacke
+
+* [https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich](https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich-a-2a33cec4-9d22-4cf7-9212-85e4c61fd4b7#ref=rss)
+### dresden
+
+* [https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich](https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich-a-2a33cec4-9d22-4cf7-9212-85e4c61fd4b7#ref=rss)
+### zweiter
+
+* [https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich](https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich-a-2a33cec4-9d22-4cf7-9212-85e4c61fd4b7#ref=rss)
+### tatverdächtiger
+
+* [https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich](https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich-a-2a33cec4-9d22-4cf7-9212-85e4c61fd4b7#ref=rss)
+### texas
+
+* [https://www.spiegel.de/wirtschaft/texas-beschraenkt-immobilienbesitz-fuer-chinesen-und-russen-drastisch](https://www.spiegel.de/wirtschaft/texas-beschraenkt-immobilienbesitz-fuer-chinesen-und-russen-drastisch-a-049f2c08-f401-4123-9f39-e4d18e5943af#ref=rss)
+### angeblich
+
+* [https://www.spiegel.de/wirtschaft/texas-beschraenkt-immobilienbesitz-fuer-chinesen-und-russen-drastisch](https://www.spiegel.de/wirtschaft/texas-beschraenkt-immobilienbesitz-fuer-chinesen-und-russen-drastisch-a-049f2c08-f401-4123-9f39-e4d18e5943af#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neuseeland-seit-2021-untergetauchter-vater-angeblich-in-ueberwachungsvideo-gesichtet](https://www.spiegel.de/panorama/justiz/neuseeland-seit-2021-untergetauchter-vater-angeblich-in-ueberwachungsvideo-gesichtet-a-9bced924-2d91-4887-a37a-23f3fd98cb68#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an](https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an-a-88c32555-f06a-4748-89b2-524c93bd1089#ref=rss)
 ### schulen
 
-* [https://www.spiegel.de/politik/deutschland/handyverbot-an-schulen-das-wichtigste-was-kinder-lernen-muessen-abschalten](https://www.spiegel.de/politik/deutschland/handyverbot-an-schulen-das-wichtigste-was-kinder-lernen-muessen-abschalten-a-082d3869-2d1e-4167-9b1b-391c83489508#ref=rss)
-### koffer
+* [https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an](https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an-a-88c32555-f06a-4748-89b2-524c93bd1089#ref=rss)
+### zahl
 
-* [https://www.spiegel.de/panorama/justiz/filderstadt-leiche-in-koffer-am-stadtrand-gefunden](https://www.spiegel.de/panorama/justiz/filderstadt-leiche-in-koffer-am-stadtrand-gefunden-a-1886b784-f86a-4154-aabe-5b5ac2cde6d7#ref=rss)
-### paypal
+* [https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an](https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an-a-88c32555-f06a-4748-89b2-524c93bd1089#ref=rss)
+### niedersachsens
 
-* [https://www.spiegel.de/wirtschaft/service/paypal-forderung-nach-weniger-abhaengigkeit-von-us-zahlungsdienstleister](https://www.spiegel.de/wirtschaft/service/paypal-forderung-nach-weniger-abhaengigkeit-von-us-zahlungsdienstleister-a-2eb5bfbd-6050-4f1b-bb9b-a8f6e3cc0000#ref=rss)
-### fordern
+* [https://www.spiegel.de/panorama/justiz/kriminalitaet-niedersachsens-innenministerin-gegen-erfassung-aller-nationalitaeten-von-tatverdaechtigen](https://www.spiegel.de/panorama/justiz/kriminalitaet-niedersachsens-innenministerin-gegen-erfassung-aller-nationalitaeten-von-tatverdaechtigen-a-c28b4954-5345-40a2-8551-d49afff24c1b#ref=rss)
+### innenministerin
 
-* [https://www.spiegel.de/wirtschaft/service/paypal-forderung-nach-weniger-abhaengigkeit-von-us-zahlungsdienstleister](https://www.spiegel.de/wirtschaft/service/paypal-forderung-nach-weniger-abhaengigkeit-von-us-zahlungsdienstleister-a-2eb5bfbd-6050-4f1b-bb9b-a8f6e3cc0000#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kriminalitaet-niedersachsens-innenministerin-gegen-erfassung-aller-nationalitaeten-von-tatverdaechtigen](https://www.spiegel.de/panorama/justiz/kriminalitaet-niedersachsens-innenministerin-gegen-erfassung-aller-nationalitaeten-von-tatverdaechtigen-a-c28b4954-5345-40a2-8551-d49afff24c1b#ref=rss)
+### uno
+
+* [https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno](https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno-a-a4ed728c-f763-4f1f-9345-f4525bdb2e18#ref=rss)
+### fahren
+
+* [https://www.spiegel.de/wissenschaft/technik/nordostpassage-china-laesst-frachtschiffe-in-nur-18-tagen-nach-europa-fahren](https://www.spiegel.de/wissenschaft/technik/nordostpassage-china-laesst-frachtschiffe-in-nur-18-tagen-nach-europa-fahren-a-5e6aa224-7a76-4747-bf21-9374ee72d1b3#ref=rss)
+### kündigung
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kuendigung-per-e-mail-bank-entschuldigt-sich-bei-mitarbeitern-fuer-panne](https://www.spiegel.de/wirtschaft/unternehmen/kuendigung-per-e-mail-bank-entschuldigt-sich-bei-mitarbeitern-fuer-panne-a-3e0b8981-79f2-4fae-b670-d0708bd38c23#ref=rss)
+### email
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kuendigung-per-e-mail-bank-entschuldigt-sich-bei-mitarbeitern-fuer-panne](https://www.spiegel.de/wirtschaft/unternehmen/kuendigung-per-e-mail-bank-entschuldigt-sich-bei-mitarbeitern-fuer-panne-a-3e0b8981-79f2-4fae-b670-d0708bd38c23#ref=rss)
+### bank
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kuendigung-per-e-mail-bank-entschuldigt-sich-bei-mitarbeitern-fuer-panne](https://www.spiegel.de/wirtschaft/unternehmen/kuendigung-per-e-mail-bank-entschuldigt-sich-bei-mitarbeitern-fuer-panne-a-3e0b8981-79f2-4fae-b670-d0708bd38c23#ref=rss)
+### vater
+
+* [https://www.spiegel.de/panorama/justiz/neuseeland-seit-2021-untergetauchter-vater-angeblich-in-ueberwachungsvideo-gesichtet](https://www.spiegel.de/panorama/justiz/neuseeland-seit-2021-untergetauchter-vater-angeblich-in-ueberwachungsvideo-gesichtet-a-9bced924-2d91-4887-a37a-23f3fd98cb68#ref=rss)
+### kamala
+
+* [https://www.spiegel.de/ausland/donald-trump-hebt-personenschutz-von-kamala-harris-offenbar-auf](https://www.spiegel.de/ausland/donald-trump-hebt-personenschutz-von-kamala-harris-offenbar-auf-a-8538dfa3-b68a-4642-a666-13806e51f550#ref=rss)
+### harris
+
+* [https://www.spiegel.de/ausland/donald-trump-hebt-personenschutz-von-kamala-harris-offenbar-auf](https://www.spiegel.de/ausland/donald-trump-hebt-personenschutz-von-kamala-harris-offenbar-auf-a-8538dfa3-b68a-4642-a666-13806e51f550#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-schweden-trotz-feueralarm-und-trainer-ausfall](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-schweden-trotz-feueralarm-und-trainer-ausfall-a-e5cdd7b8-61fd-49f1-8793-c2b9cbb455f9#ref=rss)
+### schweden
+
+* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-schweden-trotz-feueralarm-und-trainer-ausfall](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-schweden-trotz-feueralarm-und-trainer-ausfall-a-e5cdd7b8-61fd-49f1-8793-c2b9cbb455f9#ref=rss)
+### benjamin
+
+* [https://www.spiegel.de/politik/israel-benjamin-netanyahu-und-die-dunkle-seite-des-zionismus](https://www.spiegel.de/politik/israel-benjamin-netanyahu-und-die-dunkle-seite-des-zionismus-a-0411ff14-7b6c-457f-b923-c3d23676e59d#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/politik/israel-benjamin-netanyahu-und-die-dunkle-seite-des-zionismus](https://www.spiegel.de/politik/israel-benjamin-netanyahu-und-die-dunkle-seite-des-zionismus-a-0411ff14-7b6c-457f-b923-c3d23676e59d#ref=rss)
+### lieferkettengesetz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden](https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden-a-61d4680b-59a2-43ee-be27-d4999eeb07f8#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
 
