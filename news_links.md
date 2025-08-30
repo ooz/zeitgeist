@@ -4,285 +4,352 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
+### millionen
 
-* [https://www.spiegel.de/panorama/utah-us-familie-soll-fuer-verpfuschte-geburt-813-millionen-euro-schadensersatz-erhalten](https://www.spiegel.de/panorama/utah-us-familie-soll-fuer-verpfuschte-geburt-813-millionen-euro-schadensersatz-erhalten-a-38c694fa-0830-43e2-b46b-231b8f482a39#ref=rss)
-* [https://www.spiegel.de/wirtschaft/samsung-sk-hynix-und-intel-usa-erschweren-globalen-chipherstellern-die-produktion-in-china](https://www.spiegel.de/wirtschaft/samsung-sk-hynix-und-intel-usa-erschweren-globalen-chipherstellern-die-produktion-in-china-a-c51400a1-d035-4c5e-aae6-98129dcd494c#ref=rss)
-* [https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno](https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno-a-a4ed728c-f763-4f1f-9345-f4525bdb2e18#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/samsung-sk-hynix-und-intel-usa-erschweren-globalen-chipherstellern-die-produktion-in-china](https://www.spiegel.de/wirtschaft/samsung-sk-hynix-und-intel-usa-erschweren-globalen-chipherstellern-die-produktion-in-china-a-c51400a1-d035-4c5e-aae6-98129dcd494c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/nordostpassage-china-laesst-frachtschiffe-in-nur-18-tagen-nach-europa-fahren](https://www.spiegel.de/wissenschaft/technik/nordostpassage-china-laesst-frachtschiffe-in-nur-18-tagen-nach-europa-fahren-a-5e6aa224-7a76-4747-bf21-9374ee72d1b3#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel](https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel-a-9fa7c243-853c-418e-9e73-8b8624a72bfc#ref=rss)
-* [https://www.spiegel.de/politik/israel-benjamin-netanyahu-und-die-dunkle-seite-des-zionismus](https://www.spiegel.de/politik/israel-benjamin-netanyahu-und-die-dunkle-seite-des-zionismus-a-0411ff14-7b6c-457f-b923-c3d23676e59d#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/suedkorea-polizei-ermittelt-gegen-k-pop-star-psy](https://www.spiegel.de/panorama/suedkorea-polizei-ermittelt-gegen-k-pop-star-psy-a-3125d89e-0d19-4d28-8066-42d6e98ec5cd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby-a-18608e93-2f4b-436f-8e89-37cd9dd63be5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich](https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich-a-2a33cec4-9d22-4cf7-9212-85e4c61fd4b7#ref=rss)
-### fall
-
-* [https://www.spiegel.de/kultur/kino/filmfestival-in-venedig-wie-man-julia-roberts-spektakulaer-fehlbesetzt](https://www.spiegel.de/kultur/kino/filmfestival-in-venedig-wie-man-julia-roberts-spektakulaer-fehlbesetzt-a-79327515-4fe8-450a-8888-fec876663e31#ref=rss)
-* [https://www.spiegel.de/sport/kirgisistan-bergdrama-um-natalja-nagowizina-zeigt-grenzen-moderner-rettungstechnik](https://www.spiegel.de/sport/kirgisistan-bergdrama-um-natalja-nagowizina-zeigt-grenzen-moderner-rettungstechnik-a-12d32d86-4397-452f-b4fa-d9e18d760a9a#ref=rss)
-* [https://www.spiegel.de/panorama/friedland-mann-der-maedchen-gegen-zug-geschubst-haben-soll-muss-in-psychatrie](https://www.spiegel.de/panorama/friedland-mann-der-maedchen-gegen-zug-geschubst-haben-soll-muss-in-psychatrie-a-c7e20ff2-7f40-4808-99e4-03dc738bb350#ref=rss)
-### macht
-
-* [https://www.spiegel.de/kultur/kino/filmfestival-in-venedig-wie-man-julia-roberts-spektakulaer-fehlbesetzt](https://www.spiegel.de/kultur/kino/filmfestival-in-venedig-wie-man-julia-roberts-spektakulaer-fehlbesetzt-a-79327515-4fe8-450a-8888-fec876663e31#ref=rss)
-* [https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz](https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz-a-75471caf-e425-48b1-83e6-c64878b8bd02#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons](https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons-a-f522acca-640a-490e-82b0-05e90a04b3fd#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz](https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz-a-75471caf-e425-48b1-83e6-c64878b8bd02#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-hebt-personenschutz-von-kamala-harris-offenbar-auf](https://www.spiegel.de/ausland/donald-trump-hebt-personenschutz-von-kamala-harris-offenbar-auf-a-8538dfa3-b68a-4642-a666-13806e51f550#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz](https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz-a-75471caf-e425-48b1-83e6-c64878b8bd02#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-hebt-personenschutz-von-kamala-harris-offenbar-auf](https://www.spiegel.de/ausland/donald-trump-hebt-personenschutz-von-kamala-harris-offenbar-auf-a-8538dfa3-b68a-4642-a666-13806e51f550#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht-a-5a31497a-79c2-4b60-8455-b3d73b843324#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an](https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an-a-88c32555-f06a-4748-89b2-524c93bd1089#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/neuseeland-seit-2021-untergetauchter-vater-angeblich-in-ueberwachungsvideo-gesichtet](https://www.spiegel.de/panorama/justiz/neuseeland-seit-2021-untergetauchter-vater-angeblich-in-ueberwachungsvideo-gesichtet-a-9bced924-2d91-4887-a37a-23f3fd98cb68#ref=rss)
-### vier
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons](https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons-a-f522acca-640a-490e-82b0-05e90a04b3fd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/texas-beschraenkt-immobilienbesitz-fuer-chinesen-und-russen-drastisch](https://www.spiegel.de/wirtschaft/texas-beschraenkt-immobilienbesitz-fuer-chinesen-und-russen-drastisch-a-049f2c08-f401-4123-9f39-e4d18e5943af#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/neuseeland-seit-2021-untergetauchter-vater-angeblich-in-ueberwachungsvideo-gesichtet](https://www.spiegel.de/panorama/justiz/neuseeland-seit-2021-untergetauchter-vater-angeblich-in-ueberwachungsvideo-gesichtet-a-9bced924-2d91-4887-a37a-23f3fd98cb68#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons](https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons-a-f522acca-640a-490e-82b0-05e90a04b3fd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby-a-18608e93-2f4b-436f-8e89-37cd9dd63be5#ref=rss)
-### sv
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons](https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons-a-f522acca-640a-490e-82b0-05e90a04b3fd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby-a-18608e93-2f4b-436f-8e89-37cd9dd63be5#ref=rss)
-### st
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby-a-18608e93-2f4b-436f-8e89-37cd9dd63be5#ref=rss)
-### pauli
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hamburger-sv-und-fc-st-pauli-mit-fanmaerschen-vor-dem-stadtderby-a-18608e93-2f4b-436f-8e89-37cd9dd63be5#ref=rss)
+* [https://www.spiegel.de/sport/newcastle-united-verpflichtet-nick-woltemade-fc-bayern-vor-leihe-von-chelseas-nicolas-jackson](https://www.spiegel.de/sport/newcastle-united-verpflichtet-nick-woltemade-fc-bayern-vor-leihe-von-chelseas-nicolas-jackson-a-7221254d-753f-4b2f-a6a4-3bdf25d9b45f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-musste-1-1-millionen-euro-zahlen-verstoesse-gegen-parteiengesetz](https://www.spiegel.de/politik/deutschland/afd-musste-1-1-millionen-euro-zahlen-verstoesse-gegen-parteiengesetz-a-6d0a4fa6-56c0-4db5-b283-073c410666f8#ref=rss)
+* [https://www.spiegel.de/ausland/dieser-prinz-verschenkt-einen-schatz-und-tier-funkeln-bunt-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/dieser-prinz-verschenkt-einen-schatz-und-tier-funkeln-bunt-die-guten-nachrichten-der-woche-a-7a8b1c06-d00b-478d-9f77-210c5128455a#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an](https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an-a-88c32555-f06a-4748-89b2-524c93bd1089#ref=rss)
-* [https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno](https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno-a-a4ed728c-f763-4f1f-9345-f4525bdb2e18#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden](https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden-a-61d4680b-59a2-43ee-be27-d4999eeb07f8#ref=rss)
-### emmanuel
+* [https://www.spiegel.de/kultur/musik/konstantin-wecker-kann-nicht-mehr-klavier-spielen-und-ist-trocken](https://www.spiegel.de/kultur/musik/konstantin-wecker-kann-nicht-mehr-klavier-spielen-und-ist-trocken-a-711bd02c-910a-4180-a9cd-5ae9252844a8#ref=rss)
+* [https://www.spiegel.de/gesundheit/leqembi-was-sie-ueber-das-nun-verfuegbare-alzheimer-medikament-wissen-muessen](https://www.spiegel.de/gesundheit/leqembi-was-sie-ueber-das-nun-verfuegbare-alzheimer-medikament-wissen-muessen-a-3f238dbc-050d-4e4d-84bc-2321c17944c4#ref=rss)
+* [https://www.spiegel.de/reise/reisen-trotz-klimakrise-stefan-goessling-ueber-das-ende-des-urlaubs](https://www.spiegel.de/reise/reisen-trotz-klimakrise-stefan-goessling-ueber-das-ende-des-urlaubs-a-df50cba9-34b0-4ccd-9e13-78ed21746980#ref=rss)
+### euro
 
-* [https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt](https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt-a-64713bc1-77c4-4f85-bf3c-72a43be255d2#ref=rss)
-### macron
+* [https://www.spiegel.de/sport/newcastle-united-verpflichtet-nick-woltemade-fc-bayern-vor-leihe-von-chelseas-nicolas-jackson](https://www.spiegel.de/sport/newcastle-united-verpflichtet-nick-woltemade-fc-bayern-vor-leihe-von-chelseas-nicolas-jackson-a-7221254d-753f-4b2f-a6a4-3bdf25d9b45f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-musste-1-1-millionen-euro-zahlen-verstoesse-gegen-parteiengesetz](https://www.spiegel.de/politik/deutschland/afd-musste-1-1-millionen-euro-zahlen-verstoesse-gegen-parteiengesetz-a-6d0a4fa6-56c0-4db5-b283-073c410666f8#ref=rss)
+* [https://www.spiegel.de/ausland/dieser-prinz-verschenkt-einen-schatz-und-tier-funkeln-bunt-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/dieser-prinz-verschenkt-einen-schatz-und-tier-funkeln-bunt-die-guten-nachrichten-der-woche-a-7a8b1c06-d00b-478d-9f77-210c5128455a#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt](https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt-a-64713bc1-77c4-4f85-bf3c-72a43be255d2#ref=rss)
-### friedrich
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-in-brasilien-gericht-verurteilt-vokswagen-wegen-sklavenaehnlicher-arbeitsbedingungen](https://www.spiegel.de/wirtschaft/unternehmen/vw-in-brasilien-gericht-verurteilt-vokswagen-wegen-sklavenaehnlicher-arbeitsbedingungen-a-0fbce586-bdb4-4d6a-9349-faf07a146c19#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-person-faehrt-mit-auto-in-menschengruppe-mindestens-eine-person-stirbt](https://www.spiegel.de/panorama/justiz/frankreich-person-faehrt-mit-auto-in-menschengruppe-mindestens-eine-person-stirbt-a-1ba06bb6-f506-4710-9bcd-d44bca01c095#ref=rss)
+* [https://www.spiegel.de/panorama/westafrika-mindestens-70-menschen-sterben-bei-bootsunglueck-vor-westafrikanischer-kueste](https://www.spiegel.de/panorama/westafrika-mindestens-70-menschen-sterben-bei-bootsunglueck-vor-westafrikanischer-kueste-a-072f0634-f193-4822-8a8e-c08cafd23f42#ref=rss)
+### person
 
-* [https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt](https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt-a-64713bc1-77c4-4f85-bf3c-72a43be255d2#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt](https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt-a-64713bc1-77c4-4f85-bf3c-72a43be255d2#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt](https://www.spiegel.de/politik/deutschland/emmanuel-macron-und-friedrich-merz-wenn-frankreichs-praesident-den-kanzler-unter-pinien-verwoehnt-a-64713bc1-77c4-4f85-bf3c-72a43be255d2#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-warnt-vor-bis-zu-100-000-russischen-soldaten-vor-pokrowsk](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-warnt-vor-bis-zu-100-000-russischen-soldaten-vor-pokrowsk-a-7b3560d3-7ba4-43f2-b25d-ac3094e506f8#ref=rss)
-### utah
-
-* [https://www.spiegel.de/panorama/utah-us-familie-soll-fuer-verpfuschte-geburt-813-millionen-euro-schadensersatz-erhalten](https://www.spiegel.de/panorama/utah-us-familie-soll-fuer-verpfuschte-geburt-813-millionen-euro-schadensersatz-erhalten-a-38c694fa-0830-43e2-b46b-231b8f482a39#ref=rss)
-### geburt
-
-* [https://www.spiegel.de/panorama/utah-us-familie-soll-fuer-verpfuschte-geburt-813-millionen-euro-schadensersatz-erhalten](https://www.spiegel.de/panorama/utah-us-familie-soll-fuer-verpfuschte-geburt-813-millionen-euro-schadensersatz-erhalten-a-38c694fa-0830-43e2-b46b-231b8f482a39#ref=rss)
-### schadensersatz
-
-* [https://www.spiegel.de/panorama/utah-us-familie-soll-fuer-verpfuschte-geburt-813-millionen-euro-schadensersatz-erhalten](https://www.spiegel.de/panorama/utah-us-familie-soll-fuer-verpfuschte-geburt-813-millionen-euro-schadensersatz-erhalten-a-38c694fa-0830-43e2-b46b-231b8f482a39#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel](https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel-a-9fa7c243-853c-418e-9e73-8b8624a72bfc#ref=rss)
-### ende
-
-* [https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel](https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel-a-9fa7c243-853c-418e-9e73-8b8624a72bfc#ref=rss)
-* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht-a-5a31497a-79c2-4b60-8455-b3d73b843324#ref=rss)
-### handelsbeziehungen
-
-* [https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel](https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel-a-9fa7c243-853c-418e-9e73-8b8624a72bfc#ref=rss)
-### alle
-
-* [https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel](https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel-a-9fa7c243-853c-418e-9e73-8b8624a72bfc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kriminalitaet-niedersachsens-innenministerin-gegen-erfassung-aller-nationalitaeten-von-tatverdaechtigen](https://www.spiegel.de/panorama/justiz/kriminalitaet-niedersachsens-innenministerin-gegen-erfassung-aller-nationalitaeten-von-tatverdaechtigen-a-c28b4954-5345-40a2-8551-d49afff24c1b#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel](https://www.spiegel.de/ausland/tuerkei-aussenminister-hakan-fidan-verkuendet-ende-der-handelsbeziehungen-zu-israel-a-9fa7c243-853c-418e-9e73-8b8624a72bfc#ref=rss)
-* [https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno](https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno-a-a4ed728c-f763-4f1f-9345-f4525bdb2e18#ref=rss)
-### südkorea
-
-* [https://www.spiegel.de/panorama/suedkorea-polizei-ermittelt-gegen-k-pop-star-psy](https://www.spiegel.de/panorama/suedkorea-polizei-ermittelt-gegen-k-pop-star-psy-a-3125d89e-0d19-4d28-8066-42d6e98ec5cd#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/panorama/suedkorea-polizei-ermittelt-gegen-k-pop-star-psy](https://www.spiegel.de/panorama/suedkorea-polizei-ermittelt-gegen-k-pop-star-psy-a-3125d89e-0d19-4d28-8066-42d6e98ec5cd#ref=rss)
-### psy
-
-* [https://www.spiegel.de/panorama/suedkorea-polizei-ermittelt-gegen-k-pop-star-psy](https://www.spiegel.de/panorama/suedkorea-polizei-ermittelt-gegen-k-pop-star-psy-a-3125d89e-0d19-4d28-8066-42d6e98ec5cd#ref=rss)
-### venedig
-
-* [https://www.spiegel.de/kultur/kino/filmfestival-in-venedig-wie-man-julia-roberts-spektakulaer-fehlbesetzt](https://www.spiegel.de/kultur/kino/filmfestival-in-venedig-wie-man-julia-roberts-spektakulaer-fehlbesetzt-a-79327515-4fe8-450a-8888-fec876663e31#ref=rss)
-### gavin
-
-* [https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz](https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz-a-75471caf-e425-48b1-83e6-c64878b8bd02#ref=rss)
-### newsom
-
-* [https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz](https://www.spiegel.de/ausland/gavin-newsom-kontert-trumps-nationalgarden-offensive-auf-pressekonferenz-a-75471caf-e425-48b1-83e6-c64878b8bd02#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-warnt-vor-bis-zu-100-000-russischen-soldaten-vor-pokrowsk](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-warnt-vor-bis-zu-100-000-russischen-soldaten-vor-pokrowsk-a-7b3560d3-7ba4-43f2-b25d-ac3094e506f8#ref=rss)
-### intensiviert
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-warnt-vor-bis-zu-100-000-russischen-soldaten-vor-pokrowsk](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-warnt-vor-bis-zu-100-000-russischen-soldaten-vor-pokrowsk-a-7b3560d3-7ba4-43f2-b25d-ac3094e506f8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich](https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich-a-2a33cec4-9d22-4cf7-9212-85e4c61fd4b7#ref=rss)
-### schwarzrote
-
-* [https://www.spiegel.de/politik/deutschland/schwarz-rote-fraktionsklausur-in-wuerzburg-beziehungstherapie-bei-fraenkischem-wein](https://www.spiegel.de/politik/deutschland/schwarz-rote-fraktionsklausur-in-wuerzburg-beziehungstherapie-bei-fraenkischem-wein-a-078bbe9d-cc7a-4f99-a52f-8f5df83e8fd4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden](https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden-a-61d4680b-59a2-43ee-be27-d4999eeb07f8#ref=rss)
-### würzburg
-
-* [https://www.spiegel.de/politik/deutschland/schwarz-rote-fraktionsklausur-in-wuerzburg-beziehungstherapie-bei-fraenkischem-wein](https://www.spiegel.de/politik/deutschland/schwarz-rote-fraktionsklausur-in-wuerzburg-beziehungstherapie-bei-fraenkischem-wein-a-078bbe9d-cc7a-4f99-a52f-8f5df83e8fd4#ref=rss)
-### geben
-
-* [https://www.spiegel.de/politik/deutschland/schwarz-rote-fraktionsklausur-in-wuerzburg-beziehungstherapie-bei-fraenkischem-wein](https://www.spiegel.de/politik/deutschland/schwarz-rote-fraktionsklausur-in-wuerzburg-beziehungstherapie-bei-fraenkischem-wein-a-078bbe9d-cc7a-4f99-a52f-8f5df83e8fd4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden](https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden-a-61d4680b-59a2-43ee-be27-d4999eeb07f8#ref=rss)
-### fortan
-
-* [https://www.spiegel.de/politik/deutschland/schwarz-rote-fraktionsklausur-in-wuerzburg-beziehungstherapie-bei-fraenkischem-wein](https://www.spiegel.de/politik/deutschland/schwarz-rote-fraktionsklausur-in-wuerzburg-beziehungstherapie-bei-fraenkischem-wein-a-078bbe9d-cc7a-4f99-a52f-8f5df83e8fd4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/texas-beschraenkt-immobilienbesitz-fuer-chinesen-und-russen-drastisch](https://www.spiegel.de/wirtschaft/texas-beschraenkt-immobilienbesitz-fuer-chinesen-und-russen-drastisch-a-049f2c08-f401-4123-9f39-e4d18e5943af#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht-a-5a31497a-79c2-4b60-8455-b3d73b843324#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht-a-5a31497a-79c2-4b60-8455-b3d73b843324#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden](https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden-a-61d4680b-59a2-43ee-be27-d4999eeb07f8#ref=rss)
-### grenzen
-
-* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-kahlschlag-aus-einsicht-a-5a31497a-79c2-4b60-8455-b3d73b843324#ref=rss)
-* [https://www.spiegel.de/sport/kirgisistan-bergdrama-um-natalja-nagowizina-zeigt-grenzen-moderner-rettungstechnik](https://www.spiegel.de/sport/kirgisistan-bergdrama-um-natalja-nagowizina-zeigt-grenzen-moderner-rettungstechnik-a-12d32d86-4397-452f-b4fa-d9e18d760a9a#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons](https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons-a-f522acca-640a-490e-82b0-05e90a04b3fd#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### spieler
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons](https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons-a-f522acca-640a-490e-82b0-05e90a04b3fd#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-schweden-trotz-feueralarm-und-trainer-ausfall](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-schweden-trotz-feueralarm-und-trainer-ausfall-a-e5cdd7b8-61fd-49f1-8793-c2b9cbb455f9#ref=rss)
-### tagen
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons](https://www.spiegel.de/sport/fussball/fussball-transfers-borussia-dortmund-holt-stuermer-fabio-silva-tottenham-hotspurs-verpflichten-xavi-simons-a-f522acca-640a-490e-82b0-05e90a04b3fd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/nordostpassage-china-laesst-frachtschiffe-in-nur-18-tagen-nach-europa-fahren](https://www.spiegel.de/wissenschaft/technik/nordostpassage-china-laesst-frachtschiffe-in-nur-18-tagen-nach-europa-fahren-a-5e6aa224-7a76-4747-bf21-9374ee72d1b3#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/sport/kirgisistan-bergdrama-um-natalja-nagowizina-zeigt-grenzen-moderner-rettungstechnik](https://www.spiegel.de/sport/kirgisistan-bergdrama-um-natalja-nagowizina-zeigt-grenzen-moderner-rettungstechnik-a-12d32d86-4397-452f-b4fa-d9e18d760a9a#ref=rss)
-### bodo
-
-* [https://www.spiegel.de/politik/deutschland/nationalhymne-bodo-ramelows-hymnen-vorschlag-schriftliche-schnappatmerei](https://www.spiegel.de/politik/deutschland/nationalhymne-bodo-ramelows-hymnen-vorschlag-schriftliche-schnappatmerei-a-e9208d7a-57a3-4a56-bd23-99844372df17#ref=rss)
-### mädchen
-
-* [https://www.spiegel.de/panorama/friedland-mann-der-maedchen-gegen-zug-geschubst-haben-soll-muss-in-psychatrie](https://www.spiegel.de/panorama/friedland-mann-der-maedchen-gegen-zug-geschubst-haben-soll-muss-in-psychatrie-a-c7e20ff2-7f40-4808-99e4-03dc738bb350#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/panorama/friedland-mann-der-maedchen-gegen-zug-geschubst-haben-soll-muss-in-psychatrie](https://www.spiegel.de/panorama/friedland-mann-der-maedchen-gegen-zug-geschubst-haben-soll-muss-in-psychatrie-a-c7e20ff2-7f40-4808-99e4-03dc738bb350#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kuendigung-per-e-mail-bank-entschuldigt-sich-bei-mitarbeitern-fuer-panne](https://www.spiegel.de/wirtschaft/unternehmen/kuendigung-per-e-mail-bank-entschuldigt-sich-bei-mitarbeitern-fuer-panne-a-3e0b8981-79f2-4fae-b670-d0708bd38c23#ref=rss)
-### grönland
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitslosenzahlen-groenland-deutsche-bahn](https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitslosenzahlen-groenland-deutsche-bahn-a-839aa3b0-2592-40a1-8a18-ec8ebf1512df#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitslosenzahlen-groenland-deutsche-bahn](https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitslosenzahlen-groenland-deutsche-bahn-a-839aa3b0-2592-40a1-8a18-ec8ebf1512df#ref=rss)
-* [https://www.spiegel.de/politik/israel-benjamin-netanyahu-und-die-dunkle-seite-des-zionismus](https://www.spiegel.de/politik/israel-benjamin-netanyahu-und-die-dunkle-seite-des-zionismus-a-0411ff14-7b6c-457f-b923-c3d23676e59d#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitslosenzahlen-groenland-deutsche-bahn](https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitslosenzahlen-groenland-deutsche-bahn-a-839aa3b0-2592-40a1-8a18-ec8ebf1512df#ref=rss)
-* [https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno](https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno-a-a4ed728c-f763-4f1f-9345-f4525bdb2e18#ref=rss)
-### lernen
-
-* [https://www.spiegel.de/sport/schach-so-lernen-sie-eine-partie-im-endspiel-zu-gewinnen](https://www.spiegel.de/sport/schach-so-lernen-sie-eine-partie-im-endspiel-zu-gewinnen-a-b4dfb48a-797f-4ab3-ad24-008e3dd09cdb#ref=rss)
-### endspiel
-
-* [https://www.spiegel.de/sport/schach-so-lernen-sie-eine-partie-im-endspiel-zu-gewinnen](https://www.spiegel.de/sport/schach-so-lernen-sie-eine-partie-im-endspiel-zu-gewinnen-a-b4dfb48a-797f-4ab3-ad24-008e3dd09cdb#ref=rss)
-### messerattacke
-
-* [https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich](https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich-a-2a33cec4-9d22-4cf7-9212-85e4c61fd4b7#ref=rss)
-### dresden
-
-* [https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich](https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich-a-2a33cec4-9d22-4cf7-9212-85e4c61fd4b7#ref=rss)
-### zweiter
-
-* [https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich](https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich-a-2a33cec4-9d22-4cf7-9212-85e4c61fd4b7#ref=rss)
-### tatverdächtiger
-
-* [https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich](https://www.spiegel.de/panorama/justiz/messerattacke-in-dresden-zweiter-tatverdaechtiger-stellt-sich-a-2a33cec4-9d22-4cf7-9212-85e4c61fd4b7#ref=rss)
-### texas
-
-* [https://www.spiegel.de/wirtschaft/texas-beschraenkt-immobilienbesitz-fuer-chinesen-und-russen-drastisch](https://www.spiegel.de/wirtschaft/texas-beschraenkt-immobilienbesitz-fuer-chinesen-und-russen-drastisch-a-049f2c08-f401-4123-9f39-e4d18e5943af#ref=rss)
-### angeblich
-
-* [https://www.spiegel.de/wirtschaft/texas-beschraenkt-immobilienbesitz-fuer-chinesen-und-russen-drastisch](https://www.spiegel.de/wirtschaft/texas-beschraenkt-immobilienbesitz-fuer-chinesen-und-russen-drastisch-a-049f2c08-f401-4123-9f39-e4d18e5943af#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/neuseeland-seit-2021-untergetauchter-vater-angeblich-in-ueberwachungsvideo-gesichtet](https://www.spiegel.de/panorama/justiz/neuseeland-seit-2021-untergetauchter-vater-angeblich-in-ueberwachungsvideo-gesichtet-a-9bced924-2d91-4887-a37a-23f3fd98cb68#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an](https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an-a-88c32555-f06a-4748-89b2-524c93bd1089#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an](https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an-a-88c32555-f06a-4748-89b2-524c93bd1089#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an](https://www.spiegel.de/panorama/bildung/berlin-immer-mehr-schulen-bieten-russisch-unterricht-an-a-88c32555-f06a-4748-89b2-524c93bd1089#ref=rss)
-### niedersachsens
-
-* [https://www.spiegel.de/panorama/justiz/kriminalitaet-niedersachsens-innenministerin-gegen-erfassung-aller-nationalitaeten-von-tatverdaechtigen](https://www.spiegel.de/panorama/justiz/kriminalitaet-niedersachsens-innenministerin-gegen-erfassung-aller-nationalitaeten-von-tatverdaechtigen-a-c28b4954-5345-40a2-8551-d49afff24c1b#ref=rss)
-### innenministerin
-
-* [https://www.spiegel.de/panorama/justiz/kriminalitaet-niedersachsens-innenministerin-gegen-erfassung-aller-nationalitaeten-von-tatverdaechtigen](https://www.spiegel.de/panorama/justiz/kriminalitaet-niedersachsens-innenministerin-gegen-erfassung-aller-nationalitaeten-von-tatverdaechtigen-a-c28b4954-5345-40a2-8551-d49afff24c1b#ref=rss)
-### uno
-
-* [https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno](https://www.spiegel.de/ausland/usa-verweigern-ueberpruefung-ihrer-menschenrechtslage-durch-die-uno-a-a4ed728c-f763-4f1f-9345-f4525bdb2e18#ref=rss)
-### fahren
-
-* [https://www.spiegel.de/wissenschaft/technik/nordostpassage-china-laesst-frachtschiffe-in-nur-18-tagen-nach-europa-fahren](https://www.spiegel.de/wissenschaft/technik/nordostpassage-china-laesst-frachtschiffe-in-nur-18-tagen-nach-europa-fahren-a-5e6aa224-7a76-4747-bf21-9374ee72d1b3#ref=rss)
-### kündigung
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kuendigung-per-e-mail-bank-entschuldigt-sich-bei-mitarbeitern-fuer-panne](https://www.spiegel.de/wirtschaft/unternehmen/kuendigung-per-e-mail-bank-entschuldigt-sich-bei-mitarbeitern-fuer-panne-a-3e0b8981-79f2-4fae-b670-d0708bd38c23#ref=rss)
-### email
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kuendigung-per-e-mail-bank-entschuldigt-sich-bei-mitarbeitern-fuer-panne](https://www.spiegel.de/wirtschaft/unternehmen/kuendigung-per-e-mail-bank-entschuldigt-sich-bei-mitarbeitern-fuer-panne-a-3e0b8981-79f2-4fae-b670-d0708bd38c23#ref=rss)
-### bank
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kuendigung-per-e-mail-bank-entschuldigt-sich-bei-mitarbeitern-fuer-panne](https://www.spiegel.de/wirtschaft/unternehmen/kuendigung-per-e-mail-bank-entschuldigt-sich-bei-mitarbeitern-fuer-panne-a-3e0b8981-79f2-4fae-b670-d0708bd38c23#ref=rss)
-### vater
-
-* [https://www.spiegel.de/panorama/justiz/neuseeland-seit-2021-untergetauchter-vater-angeblich-in-ueberwachungsvideo-gesichtet](https://www.spiegel.de/panorama/justiz/neuseeland-seit-2021-untergetauchter-vater-angeblich-in-ueberwachungsvideo-gesichtet-a-9bced924-2d91-4887-a37a-23f3fd98cb68#ref=rss)
-### kamala
-
-* [https://www.spiegel.de/ausland/donald-trump-hebt-personenschutz-von-kamala-harris-offenbar-auf](https://www.spiegel.de/ausland/donald-trump-hebt-personenschutz-von-kamala-harris-offenbar-auf-a-8538dfa3-b68a-4642-a666-13806e51f550#ref=rss)
-### harris
-
-* [https://www.spiegel.de/ausland/donald-trump-hebt-personenschutz-von-kamala-harris-offenbar-auf](https://www.spiegel.de/ausland/donald-trump-hebt-personenschutz-von-kamala-harris-offenbar-auf-a-8538dfa3-b68a-4642-a666-13806e51f550#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-person-faehrt-mit-auto-in-menschengruppe-mindestens-eine-person-stirbt](https://www.spiegel.de/panorama/justiz/frankreich-person-faehrt-mit-auto-in-menschengruppe-mindestens-eine-person-stirbt-a-1ba06bb6-f506-4710-9bcd-d44bca01c095#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-opfer-und-schaeden-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-meldet-opfer-und-schaeden-nach-russischen-angriffen-a-72c6b936-6a64-4ac4-95ba-e3985eebc9e1#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-schweden-trotz-feueralarm-und-trainer-ausfall](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-schweden-trotz-feueralarm-und-trainer-ausfall-a-e5cdd7b8-61fd-49f1-8793-c2b9cbb455f9#ref=rss)
-### schweden
+* [https://www.spiegel.de/panorama/freibaeder-in-deutschland-lorettobad-in-freiburg-ist-das-einzige-frauenfreibad-noch-zeitgemaess](https://www.spiegel.de/panorama/freibaeder-in-deutschland-lorettobad-in-freiburg-ist-das-einzige-frauenfreibad-noch-zeitgemaess-a-b0473fcb-8728-4e21-992d-2631fc771134#ref=rss)
+* [https://www.spiegel.de/ausland/deutschland-will-israel-sanktionen-der-eu-nicht-zustimmen](https://www.spiegel.de/ausland/deutschland-will-israel-sanktionen-der-eu-nicht-zustimmen-a-8c4851a5-d1f1-4d94-ae93-0d3ab57e2867#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wasserknappheit-in-deutschland-wenig-puffer-fuer-extreme-wetterlagen](https://www.spiegel.de/wirtschaft/wasserknappheit-in-deutschland-wenig-puffer-fuer-extreme-wetterlagen-a-03ef59ef-5515-4d2c-8695-c3a2202cc41d#ref=rss)
+### fc
 
-* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-schweden-trotz-feueralarm-und-trainer-ausfall](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-schweden-trotz-feueralarm-und-trainer-ausfall-a-e5cdd7b8-61fd-49f1-8793-c2b9cbb455f9#ref=rss)
-### benjamin
+* [https://www.spiegel.de/sport/newcastle-united-verpflichtet-nick-woltemade-fc-bayern-vor-leihe-von-chelseas-nicolas-jackson](https://www.spiegel.de/sport/newcastle-united-verpflichtet-nick-woltemade-fc-bayern-vor-leihe-von-chelseas-nicolas-jackson-a-7221254d-753f-4b2f-a6a4-3bdf25d9b45f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-erlebt-lehrstueck-gegen-fc-st-pauli-beim-comeback](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-erlebt-lehrstueck-gegen-fc-st-pauli-beim-comeback-a-d0b5876f-da74-4295-809d-562ee9c63749#ref=rss)
+### unter
 
-* [https://www.spiegel.de/politik/israel-benjamin-netanyahu-und-die-dunkle-seite-des-zionismus](https://www.spiegel.de/politik/israel-benjamin-netanyahu-und-die-dunkle-seite-des-zionismus-a-0411ff14-7b6c-457f-b923-c3d23676e59d#ref=rss)
-### netanyahu
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-in-brasilien-gericht-verurteilt-vokswagen-wegen-sklavenaehnlicher-arbeitsbedingungen](https://www.spiegel.de/wirtschaft/unternehmen/vw-in-brasilien-gericht-verurteilt-vokswagen-wegen-sklavenaehnlicher-arbeitsbedingungen-a-0fbce586-bdb4-4d6a-9349-faf07a146c19#ref=rss)
+* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-und-joe-laschet-machen-bei-deutschlands-duemmster-promi-mit](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-und-joe-laschet-machen-bei-deutschlands-duemmster-promi-mit-a-2bc36bfd-d5da-4403-a295-f3f84b20af17#ref=rss)
+### wir
 
-* [https://www.spiegel.de/politik/israel-benjamin-netanyahu-und-die-dunkle-seite-des-zionismus](https://www.spiegel.de/politik/israel-benjamin-netanyahu-und-die-dunkle-seite-des-zionismus-a-0411ff14-7b6c-457f-b923-c3d23676e59d#ref=rss)
-### lieferkettengesetz
+* [https://www.spiegel.de/wissenschaft/mensch/freundschaft-wie-gute-beziehungen-gelingen](https://www.spiegel.de/wissenschaft/mensch/freundschaft-wie-gute-beziehungen-gelingen-a-d2cf24d2-486b-48b1-bd4c-7a6c80f89dbe#ref=rss)
+* [https://www.spiegel.de/psychologie/liebe-beziehungskrisen-vorbeugen-und-rechtzeitig-erkennen-podcast-mit-eric-hegmann](https://www.spiegel.de/psychologie/liebe-beziehungskrisen-vorbeugen-und-rechtzeitig-erkennen-podcast-mit-eric-hegmann-a-417beab4-ac53-456f-91c9-5a96dc77e6ef#ref=rss)
+* [https://www.spiegel.de/reise/reisen-trotz-klimakrise-stefan-goessling-ueber-das-ende-des-urlaubs](https://www.spiegel.de/reise/reisen-trotz-klimakrise-stefan-goessling-ueber-das-ende-des-urlaubs-a-df50cba9-34b0-4ccd-9e13-78ed21746980#ref=rss)
+### liebe
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden](https://www.spiegel.de/wirtschaft/unternehmen/lieferkettengesetz-regeln-sollen-schon-bald-vereinfacht-werden-a-61d4680b-59a2-43ee-be27-d4999eeb07f8#ref=rss)
-### fragen
+* [https://www.spiegel.de/wissenschaft/mensch/freundschaft-wie-gute-beziehungen-gelingen](https://www.spiegel.de/wissenschaft/mensch/freundschaft-wie-gute-beziehungen-gelingen-a-d2cf24d2-486b-48b1-bd4c-7a6c80f89dbe#ref=rss)
+* [https://www.spiegel.de/psychologie/liebe-beziehungskrisen-vorbeugen-und-rechtzeitig-erkennen-podcast-mit-eric-hegmann](https://www.spiegel.de/psychologie/liebe-beziehungskrisen-vorbeugen-und-rechtzeitig-erkennen-podcast-mit-eric-hegmann-a-417beab4-ac53-456f-91c9-5a96dc77e6ef#ref=rss)
+### mindestens
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
+* [https://www.spiegel.de/panorama/justiz/frankreich-person-faehrt-mit-auto-in-menschengruppe-mindestens-eine-person-stirbt](https://www.spiegel.de/panorama/justiz/frankreich-person-faehrt-mit-auto-in-menschengruppe-mindestens-eine-person-stirbt-a-1ba06bb6-f506-4710-9bcd-d44bca01c095#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-opfer-und-schaeden-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-meldet-opfer-und-schaeden-nach-russischen-angriffen-a-72c6b936-6a64-4ac4-95ba-e3985eebc9e1#ref=rss)
+* [https://www.spiegel.de/panorama/westafrika-mindestens-70-menschen-sterben-bei-bootsunglueck-vor-westafrikanischer-kueste](https://www.spiegel.de/panorama/westafrika-mindestens-70-menschen-sterben-bei-bootsunglueck-vor-westafrikanischer-kueste-a-072f0634-f193-4822-8a8e-c08cafd23f42#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wegen-ehec-gefahr-hersteller-ruft-zwiebelmettwurst-zurueck](https://www.spiegel.de/wirtschaft/service/wegen-ehec-gefahr-hersteller-ruft-zwiebelmettwurst-zurueck-a-1713647d-6a5f-41ad-9358-1b5b1d02efcc#ref=rss)
+* [https://www.spiegel.de/panorama/wolfenbuettel-polizei-sucht-mit-grossaufgebot-nach-zehnjaehrigem](https://www.spiegel.de/panorama/wolfenbuettel-polizei-sucht-mit-grossaufgebot-nach-zehnjaehrigem-a-09a96798-58e7-4ab7-823b-dc685cdcda05#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/panorama/freibaeder-in-deutschland-lorettobad-in-freiburg-ist-das-einzige-frauenfreibad-noch-zeitgemaess](https://www.spiegel.de/panorama/freibaeder-in-deutschland-lorettobad-in-freiburg-ist-das-einzige-frauenfreibad-noch-zeitgemaess-a-b0473fcb-8728-4e21-992d-2631fc771134#ref=rss)
+* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-und-joe-laschet-machen-bei-deutschlands-duemmster-promi-mit](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-und-joe-laschet-machen-bei-deutschlands-duemmster-promi-mit-a-2bc36bfd-d5da-4403-a295-f3f84b20af17#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/ausland/gavin-newsom-trump-parodie-und-kritik-an-der-eigenen-partei-als-strategie](https://www.spiegel.de/ausland/gavin-newsom-trump-parodie-und-kritik-an-der-eigenen-partei-als-strategie-a-5df0019b-59bb-40a1-92df-e468c744d239#ref=rss)
+* [https://www.spiegel.de/ausland/israel-veroeffentlicht-video-von-attacke-des-7-oktober](https://www.spiegel.de/ausland/israel-veroeffentlicht-video-von-attacke-des-7-oktober-a-362fff21-c3f2-4997-b5a6-562b7ac972e6#ref=rss)
+### laschet
+
+* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-und-joe-laschet-machen-bei-deutschlands-duemmster-promi-mit](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-und-joe-laschet-machen-bei-deutschlands-duemmster-promi-mit-a-2bc36bfd-d5da-4403-a295-f3f84b20af17#ref=rss)
+### nick
+
+* [https://www.spiegel.de/sport/newcastle-united-verpflichtet-nick-woltemade-fc-bayern-vor-leihe-von-chelseas-nicolas-jackson](https://www.spiegel.de/sport/newcastle-united-verpflichtet-nick-woltemade-fc-bayern-vor-leihe-von-chelseas-nicolas-jackson-a-7221254d-753f-4b2f-a6a4-3bdf25d9b45f#ref=rss)
+### woltemade
+
+* [https://www.spiegel.de/sport/newcastle-united-verpflichtet-nick-woltemade-fc-bayern-vor-leihe-von-chelseas-nicolas-jackson](https://www.spiegel.de/sport/newcastle-united-verpflichtet-nick-woltemade-fc-bayern-vor-leihe-von-chelseas-nicolas-jackson-a-7221254d-753f-4b2f-a6a4-3bdf25d9b45f#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/newcastle-united-verpflichtet-nick-woltemade-fc-bayern-vor-leihe-von-chelseas-nicolas-jackson](https://www.spiegel.de/sport/newcastle-united-verpflichtet-nick-woltemade-fc-bayern-vor-leihe-von-chelseas-nicolas-jackson-a-7221254d-753f-4b2f-a6a4-3bdf25d9b45f#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/sport/newcastle-united-verpflichtet-nick-woltemade-fc-bayern-vor-leihe-von-chelseas-nicolas-jackson](https://www.spiegel.de/sport/newcastle-united-verpflichtet-nick-woltemade-fc-bayern-vor-leihe-von-chelseas-nicolas-jackson-a-7221254d-753f-4b2f-a6a4-3bdf25d9b45f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/aktivrente-soll-wohl-zum-jahreswechsel-an-den-start-gehen](https://www.spiegel.de/wirtschaft/soziales/aktivrente-soll-wohl-zum-jahreswechsel-an-den-start-gehen-a-025c1bcd-16bd-47be-91d8-2d2877e16375#ref=rss)
+### konstantin
+
+* [https://www.spiegel.de/kultur/musik/konstantin-wecker-kann-nicht-mehr-klavier-spielen-und-ist-trocken](https://www.spiegel.de/kultur/musik/konstantin-wecker-kann-nicht-mehr-klavier-spielen-und-ist-trocken-a-711bd02c-910a-4180-a9cd-5ae9252844a8#ref=rss)
+### wecker
+
+* [https://www.spiegel.de/kultur/musik/konstantin-wecker-kann-nicht-mehr-klavier-spielen-und-ist-trocken](https://www.spiegel.de/kultur/musik/konstantin-wecker-kann-nicht-mehr-klavier-spielen-und-ist-trocken-a-711bd02c-910a-4180-a9cd-5ae9252844a8#ref=rss)
+### spielen
+
+* [https://www.spiegel.de/kultur/musik/konstantin-wecker-kann-nicht-mehr-klavier-spielen-und-ist-trocken](https://www.spiegel.de/kultur/musik/konstantin-wecker-kann-nicht-mehr-klavier-spielen-und-ist-trocken-a-711bd02c-910a-4180-a9cd-5ae9252844a8#ref=rss)
+### lage
+
+* [https://www.spiegel.de/kultur/musik/konstantin-wecker-kann-nicht-mehr-klavier-spielen-und-ist-trocken](https://www.spiegel.de/kultur/musik/konstantin-wecker-kann-nicht-mehr-klavier-spielen-und-ist-trocken-a-711bd02c-910a-4180-a9cd-5ae9252844a8#ref=rss)
+* [https://www.spiegel.de/ausland/deutschland-will-israel-sanktionen-der-eu-nicht-zustimmen](https://www.spiegel.de/ausland/deutschland-will-israel-sanktionen-der-eu-nicht-zustimmen-a-8c4851a5-d1f1-4d94-ae93-0d3ab57e2867#ref=rss)
+### andrij
+
+* [https://www.spiegel.de/ausland/andrij-parubij-ukrainischer-ex-parlamentschef-in-lwiw-getoetet](https://www.spiegel.de/ausland/andrij-parubij-ukrainischer-ex-parlamentschef-in-lwiw-getoetet-a-8dde9992-4308-477e-b476-d88e34557200#ref=rss)
+### parubij
+
+* [https://www.spiegel.de/ausland/andrij-parubij-ukrainischer-ex-parlamentschef-in-lwiw-getoetet](https://www.spiegel.de/ausland/andrij-parubij-ukrainischer-ex-parlamentschef-in-lwiw-getoetet-a-8dde9992-4308-477e-b476-d88e34557200#ref=rss)
+### wolfenbüttel
+
+* [https://www.spiegel.de/panorama/wolfenbuettel-zehnjaehriger-nach-stundenlanger-suche-wieder-aufgetaucht](https://www.spiegel.de/panorama/wolfenbuettel-zehnjaehriger-nach-stundenlanger-suche-wieder-aufgetaucht-a-d28a3c15-d2ec-44f3-8b3e-c91cf93f7036#ref=rss)
+* [https://www.spiegel.de/panorama/wolfenbuettel-polizei-sucht-mit-grossaufgebot-nach-zehnjaehrigem](https://www.spiegel.de/panorama/wolfenbuettel-polizei-sucht-mit-grossaufgebot-nach-zehnjaehrigem-a-09a96798-58e7-4ab7-823b-dc685cdcda05#ref=rss)
+### suche
+
+* [https://www.spiegel.de/panorama/wolfenbuettel-zehnjaehriger-nach-stundenlanger-suche-wieder-aufgetaucht](https://www.spiegel.de/panorama/wolfenbuettel-zehnjaehriger-nach-stundenlanger-suche-wieder-aufgetaucht-a-d28a3c15-d2ec-44f3-8b3e-c91cf93f7036#ref=rss)
+* [https://www.spiegel.de/panorama/wolfenbuettel-polizei-sucht-mit-grossaufgebot-nach-zehnjaehrigem](https://www.spiegel.de/panorama/wolfenbuettel-polizei-sucht-mit-grossaufgebot-nach-zehnjaehrigem-a-09a96798-58e7-4ab7-823b-dc685cdcda05#ref=rss)
+### aufgetaucht
+
+* [https://www.spiegel.de/panorama/wolfenbuettel-zehnjaehriger-nach-stundenlanger-suche-wieder-aufgetaucht](https://www.spiegel.de/panorama/wolfenbuettel-zehnjaehriger-nach-stundenlanger-suche-wieder-aufgetaucht-a-d28a3c15-d2ec-44f3-8b3e-c91cf93f7036#ref=rss)
+### großaufgebot
+
+* [https://www.spiegel.de/panorama/wolfenbuettel-zehnjaehriger-nach-stundenlanger-suche-wieder-aufgetaucht](https://www.spiegel.de/panorama/wolfenbuettel-zehnjaehriger-nach-stundenlanger-suche-wieder-aufgetaucht-a-d28a3c15-d2ec-44f3-8b3e-c91cf93f7036#ref=rss)
+* [https://www.spiegel.de/panorama/wolfenbuettel-polizei-sucht-mit-grossaufgebot-nach-zehnjaehrigem](https://www.spiegel.de/panorama/wolfenbuettel-polizei-sucht-mit-grossaufgebot-nach-zehnjaehrigem-a-09a96798-58e7-4ab7-823b-dc685cdcda05#ref=rss)
+### niedersachsen
+
+* [https://www.spiegel.de/panorama/wolfenbuettel-zehnjaehriger-nach-stundenlanger-suche-wieder-aufgetaucht](https://www.spiegel.de/panorama/wolfenbuettel-zehnjaehriger-nach-stundenlanger-suche-wieder-aufgetaucht-a-d28a3c15-d2ec-44f3-8b3e-c91cf93f7036#ref=rss)
+* [https://www.spiegel.de/panorama/wolfenbuettel-polizei-sucht-mit-grossaufgebot-nach-zehnjaehrigem](https://www.spiegel.de/panorama/wolfenbuettel-polizei-sucht-mit-grossaufgebot-nach-zehnjaehrigem-a-09a96798-58e7-4ab7-823b-dc685cdcda05#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-bundesrichterin-blockiert-trumps-beschleunigte-abschiebepolitik](https://www.spiegel.de/ausland/usa-bundesrichterin-blockiert-trumps-beschleunigte-abschiebepolitik-a-95f42989-6c99-4a65-8573-b531c6754232#ref=rss)
+* [https://www.spiegel.de/gesundheit/leqembi-was-sie-ueber-das-nun-verfuegbare-alzheimer-medikament-wissen-muessen](https://www.spiegel.de/gesundheit/leqembi-was-sie-ueber-das-nun-verfuegbare-alzheimer-medikament-wissen-muessen-a-3f238dbc-050d-4e4d-84bc-2321c17944c4#ref=rss)
+### bundesrichterin
+
+* [https://www.spiegel.de/ausland/usa-bundesrichterin-blockiert-trumps-beschleunigte-abschiebepolitik](https://www.spiegel.de/ausland/usa-bundesrichterin-blockiert-trumps-beschleunigte-abschiebepolitik-a-95f42989-6c99-4a65-8573-b531c6754232#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/usa-bundesrichterin-blockiert-trumps-beschleunigte-abschiebepolitik](https://www.spiegel.de/ausland/usa-bundesrichterin-blockiert-trumps-beschleunigte-abschiebepolitik-a-95f42989-6c99-4a65-8573-b531c6754232#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-in-brasilien-gericht-verurteilt-vokswagen-wegen-sklavenaehnlicher-arbeitsbedingungen](https://www.spiegel.de/wirtschaft/unternehmen/vw-in-brasilien-gericht-verurteilt-vokswagen-wegen-sklavenaehnlicher-arbeitsbedingungen-a-0fbce586-bdb4-4d6a-9349-faf07a146c19#ref=rss)
+### migranten
+
+* [https://www.spiegel.de/ausland/usa-bundesrichterin-blockiert-trumps-beschleunigte-abschiebepolitik](https://www.spiegel.de/ausland/usa-bundesrichterin-blockiert-trumps-beschleunigte-abschiebepolitik-a-95f42989-6c99-4a65-8573-b531c6754232#ref=rss)
+* [https://www.spiegel.de/panorama/westafrika-mindestens-70-menschen-sterben-bei-bootsunglueck-vor-westafrikanischer-kueste](https://www.spiegel.de/panorama/westafrika-mindestens-70-menschen-sterben-bei-bootsunglueck-vor-westafrikanischer-kueste-a-072f0634-f193-4822-8a8e-c08cafd23f42#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-in-brasilien-gericht-verurteilt-vokswagen-wegen-sklavenaehnlicher-arbeitsbedingungen](https://www.spiegel.de/wirtschaft/unternehmen/vw-in-brasilien-gericht-verurteilt-vokswagen-wegen-sklavenaehnlicher-arbeitsbedingungen-a-0fbce586-bdb4-4d6a-9349-faf07a146c19#ref=rss)
+### volkswagen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-in-brasilien-gericht-verurteilt-vokswagen-wegen-sklavenaehnlicher-arbeitsbedingungen](https://www.spiegel.de/wirtschaft/unternehmen/vw-in-brasilien-gericht-verurteilt-vokswagen-wegen-sklavenaehnlicher-arbeitsbedingungen-a-0fbce586-bdb4-4d6a-9349-faf07a146c19#ref=rss)
+### leqembi
+
+* [https://www.spiegel.de/gesundheit/leqembi-was-sie-ueber-das-nun-verfuegbare-alzheimer-medikament-wissen-muessen](https://www.spiegel.de/gesundheit/leqembi-was-sie-ueber-das-nun-verfuegbare-alzheimer-medikament-wissen-muessen-a-3f238dbc-050d-4e4d-84bc-2321c17944c4#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/gesundheit/leqembi-was-sie-ueber-das-nun-verfuegbare-alzheimer-medikament-wissen-muessen](https://www.spiegel.de/gesundheit/leqembi-was-sie-ueber-das-nun-verfuegbare-alzheimer-medikament-wissen-muessen-a-3f238dbc-050d-4e4d-84bc-2321c17944c4#ref=rss)
+* [https://www.spiegel.de/reise/reisen-trotz-klimakrise-stefan-goessling-ueber-das-ende-des-urlaubs](https://www.spiegel.de/reise/reisen-trotz-klimakrise-stefan-goessling-ueber-das-ende-des-urlaubs-a-df50cba9-34b0-4ccd-9e13-78ed21746980#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/gesundheit/leqembi-was-sie-ueber-das-nun-verfuegbare-alzheimer-medikament-wissen-muessen](https://www.spiegel.de/gesundheit/leqembi-was-sie-ueber-das-nun-verfuegbare-alzheimer-medikament-wissen-muessen-a-3f238dbc-050d-4e4d-84bc-2321c17944c4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/marineinspekteur-kaack-warnt-vor-gesteigerter-aggressivitaet-russischer-einheiten](https://www.spiegel.de/politik/deutschland/marineinspekteur-kaack-warnt-vor-gesteigerter-aggressivitaet-russischer-einheiten-a-b72177b8-7b7c-49c3-9d8a-0127738e61bd#ref=rss)
+### freundschaft
+
+* [https://www.spiegel.de/wissenschaft/mensch/freundschaft-wie-gute-beziehungen-gelingen](https://www.spiegel.de/wissenschaft/mensch/freundschaft-wie-gute-beziehungen-gelingen-a-d2cf24d2-486b-48b1-bd4c-7a6c80f89dbe#ref=rss)
+### uns
+
+* [https://www.spiegel.de/wissenschaft/mensch/freundschaft-wie-gute-beziehungen-gelingen](https://www.spiegel.de/wissenschaft/mensch/freundschaft-wie-gute-beziehungen-gelingen-a-d2cf24d2-486b-48b1-bd4c-7a6c80f89dbe#ref=rss)
+### kämpfen
+
+* [https://www.spiegel.de/wissenschaft/mensch/freundschaft-wie-gute-beziehungen-gelingen](https://www.spiegel.de/wissenschaft/mensch/freundschaft-wie-gute-beziehungen-gelingen-a-d2cf24d2-486b-48b1-bd4c-7a6c80f89dbe#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-jetzt-spielt-jan-lennard-struff-gegen-rekord-grand-slam-gewinner-djokovic](https://www.spiegel.de/sport/tennis/us-open-jetzt-spielt-jan-lennard-struff-gegen-rekord-grand-slam-gewinner-djokovic-a-68d97a8b-70ae-47cb-b9b0-707ba338e7c4#ref=rss)
+### lernen
+
+* [https://www.spiegel.de/wissenschaft/mensch/freundschaft-wie-gute-beziehungen-gelingen](https://www.spiegel.de/wissenschaft/mensch/freundschaft-wie-gute-beziehungen-gelingen-a-d2cf24d2-486b-48b1-bd4c-7a6c80f89dbe#ref=rss)
+* [https://www.spiegel.de/psychologie/liebe-beziehungskrisen-vorbeugen-und-rechtzeitig-erkennen-podcast-mit-eric-hegmann](https://www.spiegel.de/psychologie/liebe-beziehungskrisen-vorbeugen-und-rechtzeitig-erkennen-podcast-mit-eric-hegmann-a-417beab4-ac53-456f-91c9-5a96dc77e6ef#ref=rss)
+### weltrekord
+
+* [https://www.spiegel.de/panorama/neuer-weltrekord-im-rudern-schotten-ueberqueren-den-pazifik-in-139-tagen](https://www.spiegel.de/panorama/neuer-weltrekord-im-rudern-schotten-ueberqueren-den-pazifik-in-139-tagen-a-10f3bf1d-1497-40ec-9841-f4b5409346d4#ref=rss)
+### pazifik
+
+* [https://www.spiegel.de/panorama/neuer-weltrekord-im-rudern-schotten-ueberqueren-den-pazifik-in-139-tagen](https://www.spiegel.de/panorama/neuer-weltrekord-im-rudern-schotten-ueberqueren-den-pazifik-in-139-tagen-a-10f3bf1d-1497-40ec-9841-f4b5409346d4#ref=rss)
+### spenden
+
+* [https://www.spiegel.de/panorama/neuer-weltrekord-im-rudern-schotten-ueberqueren-den-pazifik-in-139-tagen](https://www.spiegel.de/panorama/neuer-weltrekord-im-rudern-schotten-ueberqueren-den-pazifik-in-139-tagen-a-10f3bf1d-1497-40ec-9841-f4b5409346d4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-musste-1-1-millionen-euro-zahlen-verstoesse-gegen-parteiengesetz](https://www.spiegel.de/politik/deutschland/afd-musste-1-1-millionen-euro-zahlen-verstoesse-gegen-parteiengesetz-a-6d0a4fa6-56c0-4db5-b283-073c410666f8#ref=rss)
+### stirbt
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-person-faehrt-mit-auto-in-menschengruppe-mindestens-eine-person-stirbt](https://www.spiegel.de/panorama/justiz/frankreich-person-faehrt-mit-auto-in-menschengruppe-mindestens-eine-person-stirbt-a-1ba06bb6-f506-4710-9bcd-d44bca01c095#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-meldet-opfer-und-schaeden-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-meldet-opfer-und-schaeden-nach-russischen-angriffen-a-72c6b936-6a64-4ac4-95ba-e3985eebc9e1#ref=rss)
+### erkennen
+
+* [https://www.spiegel.de/psychologie/liebe-beziehungskrisen-vorbeugen-und-rechtzeitig-erkennen-podcast-mit-eric-hegmann](https://www.spiegel.de/psychologie/liebe-beziehungskrisen-vorbeugen-und-rechtzeitig-erkennen-podcast-mit-eric-hegmann-a-417beab4-ac53-456f-91c9-5a96dc77e6ef#ref=rss)
+### eric
+
+* [https://www.spiegel.de/psychologie/liebe-beziehungskrisen-vorbeugen-und-rechtzeitig-erkennen-podcast-mit-eric-hegmann](https://www.spiegel.de/psychologie/liebe-beziehungskrisen-vorbeugen-und-rechtzeitig-erkennen-podcast-mit-eric-hegmann-a-417beab4-ac53-456f-91c9-5a96dc77e6ef#ref=rss)
+### hegmann
+
+* [https://www.spiegel.de/psychologie/liebe-beziehungskrisen-vorbeugen-und-rechtzeitig-erkennen-podcast-mit-eric-hegmann](https://www.spiegel.de/psychologie/liebe-beziehungskrisen-vorbeugen-und-rechtzeitig-erkennen-podcast-mit-eric-hegmann-a-417beab4-ac53-456f-91c9-5a96dc77e6ef#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/psychologie/liebe-beziehungskrisen-vorbeugen-und-rechtzeitig-erkennen-podcast-mit-eric-hegmann](https://www.spiegel.de/psychologie/liebe-beziehungskrisen-vorbeugen-und-rechtzeitig-erkennen-podcast-mit-eric-hegmann-a-417beab4-ac53-456f-91c9-5a96dc77e6ef#ref=rss)
+* [https://www.spiegel.de/ausland/israel-veroeffentlicht-video-von-attacke-des-7-oktober](https://www.spiegel.de/ausland/israel-veroeffentlicht-video-von-attacke-des-7-oktober-a-362fff21-c3f2-4997-b5a6-562b7ac972e6#ref=rss)
+### hersteller
+
+* [https://www.spiegel.de/wirtschaft/service/wegen-ehec-gefahr-hersteller-ruft-zwiebelmettwurst-zurueck](https://www.spiegel.de/wirtschaft/service/wegen-ehec-gefahr-hersteller-ruft-zwiebelmettwurst-zurueck-a-1713647d-6a5f-41ad-9358-1b5b1d02efcc#ref=rss)
+### ruft
+
+* [https://www.spiegel.de/wirtschaft/service/wegen-ehec-gefahr-hersteller-ruft-zwiebelmettwurst-zurueck](https://www.spiegel.de/wirtschaft/service/wegen-ehec-gefahr-hersteller-ruft-zwiebelmettwurst-zurueck-a-1713647d-6a5f-41ad-9358-1b5b1d02efcc#ref=rss)
+### zwiebelmettwurst
+
+* [https://www.spiegel.de/wirtschaft/service/wegen-ehec-gefahr-hersteller-ruft-zwiebelmettwurst-zurueck](https://www.spiegel.de/wirtschaft/service/wegen-ehec-gefahr-hersteller-ruft-zwiebelmettwurst-zurueck-a-1713647d-6a5f-41ad-9358-1b5b1d02efcc#ref=rss)
+### lorettobad
+
+* [https://www.spiegel.de/panorama/freibaeder-in-deutschland-lorettobad-in-freiburg-ist-das-einzige-frauenfreibad-noch-zeitgemaess](https://www.spiegel.de/panorama/freibaeder-in-deutschland-lorettobad-in-freiburg-ist-das-einzige-frauenfreibad-noch-zeitgemaess-a-b0473fcb-8728-4e21-992d-2631fc771134#ref=rss)
+### frauenfreibad
+
+* [https://www.spiegel.de/panorama/freibaeder-in-deutschland-lorettobad-in-freiburg-ist-das-einzige-frauenfreibad-noch-zeitgemaess](https://www.spiegel.de/panorama/freibaeder-in-deutschland-lorettobad-in-freiburg-ist-das-einzige-frauenfreibad-noch-zeitgemaess-a-b0473fcb-8728-4e21-992d-2631fc771134#ref=rss)
+### zeitgemäß
+
+* [https://www.spiegel.de/panorama/freibaeder-in-deutschland-lorettobad-in-freiburg-ist-das-einzige-frauenfreibad-noch-zeitgemaess](https://www.spiegel.de/panorama/freibaeder-in-deutschland-lorettobad-in-freiburg-ist-das-einzige-frauenfreibad-noch-zeitgemaess-a-b0473fcb-8728-4e21-992d-2631fc771134#ref=rss)
+### zustimmen
+
+* [https://www.spiegel.de/ausland/deutschland-will-israel-sanktionen-der-eu-nicht-zustimmen](https://www.spiegel.de/ausland/deutschland-will-israel-sanktionen-der-eu-nicht-zustimmen-a-8c4851a5-d1f1-4d94-ae93-0d3ab57e2867#ref=rss)
+### israels
+
+* [https://www.spiegel.de/ausland/deutschland-will-israel-sanktionen-der-eu-nicht-zustimmen](https://www.spiegel.de/ausland/deutschland-will-israel-sanktionen-der-eu-nicht-zustimmen-a-8c4851a5-d1f1-4d94-ae93-0d3ab57e2867#ref=rss)
+* [https://www.spiegel.de/ausland/israel-veroeffentlicht-video-von-attacke-des-7-oktober](https://www.spiegel.de/ausland/israel-veroeffentlicht-video-von-attacke-des-7-oktober-a-362fff21-c3f2-4997-b5a6-562b7ac972e6#ref=rss)
+### gavin
+
+* [https://www.spiegel.de/ausland/gavin-newsom-trump-parodie-und-kritik-an-der-eigenen-partei-als-strategie](https://www.spiegel.de/ausland/gavin-newsom-trump-parodie-und-kritik-an-der-eigenen-partei-als-strategie-a-5df0019b-59bb-40a1-92df-e468c744d239#ref=rss)
+### newsom
+
+* [https://www.spiegel.de/ausland/gavin-newsom-trump-parodie-und-kritik-an-der-eigenen-partei-als-strategie](https://www.spiegel.de/ausland/gavin-newsom-trump-parodie-und-kritik-an-der-eigenen-partei-als-strategie-a-5df0019b-59bb-40a1-92df-e468c744d239#ref=rss)
+### trumpparodie
+
+* [https://www.spiegel.de/ausland/gavin-newsom-trump-parodie-und-kritik-an-der-eigenen-partei-als-strategie](https://www.spiegel.de/ausland/gavin-newsom-trump-parodie-und-kritik-an-der-eigenen-partei-als-strategie-a-5df0019b-59bb-40a1-92df-e468c744d239#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/ausland/gavin-newsom-trump-parodie-und-kritik-an-der-eigenen-partei-als-strategie](https://www.spiegel.de/ausland/gavin-newsom-trump-parodie-und-kritik-an-der-eigenen-partei-als-strategie-a-5df0019b-59bb-40a1-92df-e468c744d239#ref=rss)
+### partei
+
+* [https://www.spiegel.de/ausland/gavin-newsom-trump-parodie-und-kritik-an-der-eigenen-partei-als-strategie](https://www.spiegel.de/ausland/gavin-newsom-trump-parodie-und-kritik-an-der-eigenen-partei-als-strategie-a-5df0019b-59bb-40a1-92df-e468c744d239#ref=rss)
+### nacht
+
+* [https://www.spiegel.de/ausland/ukraine-meldet-opfer-und-schaeden-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-meldet-opfer-und-schaeden-nach-russischen-angriffen-a-72c6b936-6a64-4ac4-95ba-e3985eebc9e1#ref=rss)
+* [https://www.spiegel.de/panorama/wolfenbuettel-polizei-sucht-mit-grossaufgebot-nach-zehnjaehrigem](https://www.spiegel.de/panorama/wolfenbuettel-polizei-sucht-mit-grossaufgebot-nach-zehnjaehrigem-a-09a96798-58e7-4ab7-823b-dc685cdcda05#ref=rss)
+### dutzende
+
+* [https://www.spiegel.de/ausland/ukraine-meldet-opfer-und-schaeden-nach-russischen-angriffen](https://www.spiegel.de/ausland/ukraine-meldet-opfer-und-schaeden-nach-russischen-angriffen-a-72c6b936-6a64-4ac4-95ba-e3985eebc9e1#ref=rss)
+* [https://www.spiegel.de/panorama/westafrika-mindestens-70-menschen-sterben-bei-bootsunglueck-vor-westafrikanischer-kueste](https://www.spiegel.de/panorama/westafrika-mindestens-70-menschen-sterben-bei-bootsunglueck-vor-westafrikanischer-kueste-a-072f0634-f193-4822-8a8e-c08cafd23f42#ref=rss)
+### beamte
+
+* [https://www.spiegel.de/wirtschaft/soziales/beamte-bekommen-bessere-kredite-als-angestellte](https://www.spiegel.de/wirtschaft/soziales/beamte-bekommen-bessere-kredite-als-angestellte-a-ba3e8a6d-7936-4ad5-b895-09415c37c6c6#ref=rss)
+### bekommen
+
+* [https://www.spiegel.de/wirtschaft/soziales/beamte-bekommen-bessere-kredite-als-angestellte](https://www.spiegel.de/wirtschaft/soziales/beamte-bekommen-bessere-kredite-als-angestellte-a-ba3e8a6d-7936-4ad5-b895-09415c37c6c6#ref=rss)
+### bessere
+
+* [https://www.spiegel.de/wirtschaft/soziales/beamte-bekommen-bessere-kredite-als-angestellte](https://www.spiegel.de/wirtschaft/soziales/beamte-bekommen-bessere-kredite-als-angestellte-a-ba3e8a6d-7936-4ad5-b895-09415c37c6c6#ref=rss)
+### angestellte
+
+* [https://www.spiegel.de/wirtschaft/soziales/beamte-bekommen-bessere-kredite-als-angestellte](https://www.spiegel.de/wirtschaft/soziales/beamte-bekommen-bessere-kredite-als-angestellte-a-ba3e8a6d-7936-4ad5-b895-09415c37c6c6#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/afd-musste-1-1-millionen-euro-zahlen-verstoesse-gegen-parteiengesetz](https://www.spiegel.de/politik/deutschland/afd-musste-1-1-millionen-euro-zahlen-verstoesse-gegen-parteiengesetz-a-6d0a4fa6-56c0-4db5-b283-073c410666f8#ref=rss)
+### 11
+
+* [https://www.spiegel.de/politik/deutschland/afd-musste-1-1-millionen-euro-zahlen-verstoesse-gegen-parteiengesetz](https://www.spiegel.de/politik/deutschland/afd-musste-1-1-millionen-euro-zahlen-verstoesse-gegen-parteiengesetz-a-6d0a4fa6-56c0-4db5-b283-073c410666f8#ref=rss)
+### zahlen
+
+* [https://www.spiegel.de/politik/deutschland/afd-musste-1-1-millionen-euro-zahlen-verstoesse-gegen-parteiengesetz](https://www.spiegel.de/politik/deutschland/afd-musste-1-1-millionen-euro-zahlen-verstoesse-gegen-parteiengesetz-a-6d0a4fa6-56c0-4db5-b283-073c410666f8#ref=rss)
+### parteiengesetz
+
+* [https://www.spiegel.de/politik/deutschland/afd-musste-1-1-millionen-euro-zahlen-verstoesse-gegen-parteiengesetz](https://www.spiegel.de/politik/deutschland/afd-musste-1-1-millionen-euro-zahlen-verstoesse-gegen-parteiengesetz-a-6d0a4fa6-56c0-4db5-b283-073c410666f8#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/wasserknappheit-in-deutschland-wenig-puffer-fuer-extreme-wetterlagen](https://www.spiegel.de/wirtschaft/wasserknappheit-in-deutschland-wenig-puffer-fuer-extreme-wetterlagen-a-03ef59ef-5515-4d2c-8695-c3a2202cc41d#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-jetzt-spielt-jan-lennard-struff-gegen-rekord-grand-slam-gewinner-djokovic](https://www.spiegel.de/sport/tennis/us-open-jetzt-spielt-jan-lennard-struff-gegen-rekord-grand-slam-gewinner-djokovic-a-68d97a8b-70ae-47cb-b9b0-707ba338e7c4#ref=rss)
+### aktivrente
+
+* [https://www.spiegel.de/wirtschaft/soziales/aktivrente-soll-wohl-zum-jahreswechsel-an-den-start-gehen](https://www.spiegel.de/wirtschaft/soziales/aktivrente-soll-wohl-zum-jahreswechsel-an-den-start-gehen-a-025c1bcd-16bd-47be-91d8-2d2877e16375#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/wolfenbuettel-polizei-sucht-mit-grossaufgebot-nach-zehnjaehrigem](https://www.spiegel.de/panorama/wolfenbuettel-polizei-sucht-mit-grossaufgebot-nach-zehnjaehrigem-a-09a96798-58e7-4ab7-823b-dc685cdcda05#ref=rss)
+### hsv
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-erlebt-lehrstueck-gegen-fc-st-pauli-beim-comeback](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-erlebt-lehrstueck-gegen-fc-st-pauli-beim-comeback-a-d0b5876f-da74-4295-809d-562ee9c63749#ref=rss)
+### erlebt
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-erlebt-lehrstueck-gegen-fc-st-pauli-beim-comeback](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-erlebt-lehrstueck-gegen-fc-st-pauli-beim-comeback-a-d0b5876f-da74-4295-809d-562ee9c63749#ref=rss)
+### lehrstück
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-erlebt-lehrstueck-gegen-fc-st-pauli-beim-comeback](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-erlebt-lehrstueck-gegen-fc-st-pauli-beim-comeback-a-d0b5876f-da74-4295-809d-562ee9c63749#ref=rss)
+### st
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-erlebt-lehrstueck-gegen-fc-st-pauli-beim-comeback](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-erlebt-lehrstueck-gegen-fc-st-pauli-beim-comeback-a-d0b5876f-da74-4295-809d-562ee9c63749#ref=rss)
+### pauli
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-erlebt-lehrstueck-gegen-fc-st-pauli-beim-comeback](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-erlebt-lehrstueck-gegen-fc-st-pauli-beim-comeback-a-d0b5876f-da74-4295-809d-562ee9c63749#ref=rss)
+### reisen
+
+* [https://www.spiegel.de/reise/reisen-trotz-klimakrise-stefan-goessling-ueber-das-ende-des-urlaubs](https://www.spiegel.de/reise/reisen-trotz-klimakrise-stefan-goessling-ueber-das-ende-des-urlaubs-a-df50cba9-34b0-4ccd-9e13-78ed21746980#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/reise/reisen-trotz-klimakrise-stefan-goessling-ueber-das-ende-des-urlaubs](https://www.spiegel.de/reise/reisen-trotz-klimakrise-stefan-goessling-ueber-das-ende-des-urlaubs-a-df50cba9-34b0-4ccd-9e13-78ed21746980#ref=rss)
+### gössling
+
+* [https://www.spiegel.de/reise/reisen-trotz-klimakrise-stefan-goessling-ueber-das-ende-des-urlaubs](https://www.spiegel.de/reise/reisen-trotz-klimakrise-stefan-goessling-ueber-das-ende-des-urlaubs-a-df50cba9-34b0-4ccd-9e13-78ed21746980#ref=rss)
+### welt
+
+* [https://www.spiegel.de/reise/reisen-trotz-klimakrise-stefan-goessling-ueber-das-ende-des-urlaubs](https://www.spiegel.de/reise/reisen-trotz-klimakrise-stefan-goessling-ueber-das-ende-des-urlaubs-a-df50cba9-34b0-4ccd-9e13-78ed21746980#ref=rss)
+* [https://www.spiegel.de/ausland/dieser-prinz-verschenkt-einen-schatz-und-tier-funkeln-bunt-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/dieser-prinz-verschenkt-einen-schatz-und-tier-funkeln-bunt-die-guten-nachrichten-der-woche-a-7a8b1c06-d00b-478d-9f77-210c5128455a#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-veroeffentlicht-video-von-attacke-des-7-oktober](https://www.spiegel.de/ausland/israel-veroeffentlicht-video-von-attacke-des-7-oktober-a-362fff21-c3f2-4997-b5a6-562b7ac972e6#ref=rss)
+### veröffentlicht
+
+* [https://www.spiegel.de/ausland/israel-veroeffentlicht-video-von-attacke-des-7-oktober](https://www.spiegel.de/ausland/israel-veroeffentlicht-video-von-attacke-des-7-oktober-a-362fff21-c3f2-4997-b5a6-562b7ac972e6#ref=rss)
+### video
+
+* [https://www.spiegel.de/ausland/israel-veroeffentlicht-video-von-attacke-des-7-oktober](https://www.spiegel.de/ausland/israel-veroeffentlicht-video-von-attacke-des-7-oktober-a-362fff21-c3f2-4997-b5a6-562b7ac972e6#ref=rss)
+### prinz
+
+* [https://www.spiegel.de/ausland/dieser-prinz-verschenkt-einen-schatz-und-tier-funkeln-bunt-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/dieser-prinz-verschenkt-einen-schatz-und-tier-funkeln-bunt-die-guten-nachrichten-der-woche-a-7a8b1c06-d00b-478d-9f77-210c5128455a#ref=rss)
+### tiere
+
+* [https://www.spiegel.de/ausland/dieser-prinz-verschenkt-einen-schatz-und-tier-funkeln-bunt-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/dieser-prinz-verschenkt-einen-schatz-und-tier-funkeln-bunt-die-guten-nachrichten-der-woche-a-7a8b1c06-d00b-478d-9f77-210c5128455a#ref=rss)
+### guten
+
+* [https://www.spiegel.de/ausland/dieser-prinz-verschenkt-einen-schatz-und-tier-funkeln-bunt-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/dieser-prinz-verschenkt-einen-schatz-und-tier-funkeln-bunt-die-guten-nachrichten-der-woche-a-7a8b1c06-d00b-478d-9f77-210c5128455a#ref=rss)
+### nachrichten
+
+* [https://www.spiegel.de/ausland/dieser-prinz-verschenkt-einen-schatz-und-tier-funkeln-bunt-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/dieser-prinz-verschenkt-einen-schatz-und-tier-funkeln-bunt-die-guten-nachrichten-der-woche-a-7a8b1c06-d00b-478d-9f77-210c5128455a#ref=rss)
+### woche
+
+* [https://www.spiegel.de/ausland/dieser-prinz-verschenkt-einen-schatz-und-tier-funkeln-bunt-die-guten-nachrichten-der-woche](https://www.spiegel.de/ausland/dieser-prinz-verschenkt-einen-schatz-und-tier-funkeln-bunt-die-guten-nachrichten-der-woche-a-7a8b1c06-d00b-478d-9f77-210c5128455a#ref=rss)
+### gloriasophie
+
+* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-und-joe-laschet-machen-bei-deutschlands-duemmster-promi-mit](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-und-joe-laschet-machen-bei-deutschlands-duemmster-promi-mit-a-2bc36bfd-d5da-4403-a295-f3f84b20af17#ref=rss)
+### burkandt
+
+* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-und-joe-laschet-machen-bei-deutschlands-duemmster-promi-mit](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-und-joe-laschet-machen-bei-deutschlands-duemmster-promi-mit-a-2bc36bfd-d5da-4403-a295-f3f84b20af17#ref=rss)
+### joe
+
+* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-und-joe-laschet-machen-bei-deutschlands-duemmster-promi-mit](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-und-joe-laschet-machen-bei-deutschlands-duemmster-promi-mit-a-2bc36bfd-d5da-4403-a295-f3f84b20af17#ref=rss)
+### dümmster
+
+* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-und-joe-laschet-machen-bei-deutschlands-duemmster-promi-mit](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-und-joe-laschet-machen-bei-deutschlands-duemmster-promi-mit-a-2bc36bfd-d5da-4403-a295-f3f84b20af17#ref=rss)
+### promi
+
+* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-und-joe-laschet-machen-bei-deutschlands-duemmster-promi-mit](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-und-joe-laschet-machen-bei-deutschlands-duemmster-promi-mit-a-2bc36bfd-d5da-4403-a295-f3f84b20af17#ref=rss)
+### janlennard
+
+* [https://www.spiegel.de/sport/tennis/us-open-jetzt-spielt-jan-lennard-struff-gegen-rekord-grand-slam-gewinner-djokovic](https://www.spiegel.de/sport/tennis/us-open-jetzt-spielt-jan-lennard-struff-gegen-rekord-grand-slam-gewinner-djokovic-a-68d97a8b-70ae-47cb-b9b0-707ba338e7c4#ref=rss)
+### struff
+
+* [https://www.spiegel.de/sport/tennis/us-open-jetzt-spielt-jan-lennard-struff-gegen-rekord-grand-slam-gewinner-djokovic](https://www.spiegel.de/sport/tennis/us-open-jetzt-spielt-jan-lennard-struff-gegen-rekord-grand-slam-gewinner-djokovic-a-68d97a8b-70ae-47cb-b9b0-707ba338e7c4#ref=rss)
+### djokovic
+
+* [https://www.spiegel.de/sport/tennis/us-open-jetzt-spielt-jan-lennard-struff-gegen-rekord-grand-slam-gewinner-djokovic](https://www.spiegel.de/sport/tennis/us-open-jetzt-spielt-jan-lennard-struff-gegen-rekord-grand-slam-gewinner-djokovic-a-68d97a8b-70ae-47cb-b9b0-707ba338e7c4#ref=rss)
 
