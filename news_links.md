@@ -4,400 +4,402 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzler-merz-hendrik-wuest-harmonie-bei-besuch-in-nrw-westfaelische-friedensshow](https://www.spiegel.de/politik/deutschland/kanzler-merz-hendrik-wuest-harmonie-bei-besuch-in-nrw-westfaelische-friedensshow-a-77e23562-9b47-4f89-9d7a-1ca08f93a7f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/erbschaftssteuer-friedrich-merz-lehnt-reformidee-von-markus-soeder-ab](https://www.spiegel.de/politik/deutschland/erbschaftssteuer-friedrich-merz-lehnt-reformidee-von-markus-soeder-ab-a-e9d9414f-b47a-4ee9-8d41-ee07b3087c8a#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzler-merz-hendrik-wuest-harmonie-bei-besuch-in-nrw-westfaelische-friedensshow](https://www.spiegel.de/politik/deutschland/kanzler-merz-hendrik-wuest-harmonie-bei-besuch-in-nrw-westfaelische-friedensshow-a-77e23562-9b47-4f89-9d7a-1ca08f93a7f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/erbschaftssteuer-friedrich-merz-lehnt-reformidee-von-markus-soeder-ab](https://www.spiegel.de/politik/deutschland/erbschaftssteuer-friedrich-merz-lehnt-reformidee-von-markus-soeder-ab-a-e9d9414f-b47a-4ee9-8d41-ee07b3087c8a#ref=rss)
-### schaffen
-
-* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-feiert-rekordsieg-gegen-grossbritannien](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-feiert-rekordsieg-gegen-grossbritannien-a-6f07d2fa-19ac-433e-ac21-f852e8235111#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/friedland-nach-toedlichem-vorfall-an-bahnsteig-warum-starb-liana-k](https://www.spiegel.de/panorama/justiz/friedland-nach-toedlichem-vorfall-an-bahnsteig-warum-starb-liana-k-a-d718ce59-7b69-430e-9a64-72ad25eba38b#ref=rss)
-### wir
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/erbschaftssteuer-friedrich-merz-lehnt-reformidee-von-markus-soeder-ab](https://www.spiegel.de/politik/deutschland/erbschaftssteuer-friedrich-merz-lehnt-reformidee-von-markus-soeder-ab-a-e9d9414f-b47a-4ee9-8d41-ee07b3087c8a#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzler-merz-hendrik-wuest-harmonie-bei-besuch-in-nrw-westfaelische-friedensshow](https://www.spiegel.de/politik/deutschland/kanzler-merz-hendrik-wuest-harmonie-bei-besuch-in-nrw-westfaelische-friedensshow-a-77e23562-9b47-4f89-9d7a-1ca08f93a7f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/erbschaftssteuer-friedrich-merz-lehnt-reformidee-von-markus-soeder-ab](https://www.spiegel.de/politik/deutschland/erbschaftssteuer-friedrich-merz-lehnt-reformidee-von-markus-soeder-ab-a-e9d9414f-b47a-4ee9-8d41-ee07b3087c8a#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/filmfestival-in-venedig-dwayne-johnson-als-zart-besaiteter-held-in-the-smashing-machine](https://www.spiegel.de/kultur/filmfestival-in-venedig-dwayne-johnson-als-zart-besaiteter-held-in-the-smashing-machine-a-015db939-e3f8-4750-aef3-9d12cf0cfe41#ref=rss)
-* [https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-video-neue-filme-und-serien-im-september-2025](https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-video-neue-filme-und-serien-im-september-2025-a-b390d69d-1b2b-4b7e-b6e6-98f4cc6f044f#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-feiert-rekordsieg-gegen-grossbritannien](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-feiert-rekordsieg-gegen-grossbritannien-a-6f07d2fa-19ac-433e-ac21-f852e8235111#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-trennt-sich-von-erik-ten-hag-die-zwei-spiele-aera](https://www.spiegel.de/sport/fussball/bayer-leverkusen-trennt-sich-von-erik-ten-hag-die-zwei-spiele-aera-a-731d3c47-14f1-4f33-8802-feef0836e350#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-im-stadtrat-in-chemnitz-gibt-es-jetzt-zwei-afd-fraktionen](https://www.spiegel.de/politik/deutschland/sachsen-im-stadtrat-in-chemnitz-gibt-es-jetzt-zwei-afd-fraktionen-a-7a923b63-06c0-41c1-b75c-ce0dd684f7b0#ref=rss)
-* [https://www.spiegel.de/panorama/oesterreich-wanderer-stirbt-nach-zusammenprall-mit-aufgeschreckten-kuehen](https://www.spiegel.de/panorama/oesterreich-wanderer-stirbt-nach-zusammenprall-mit-aufgeschreckten-kuehen-a-801a19dc-1579-4e9f-859d-5c6f95630fb7#ref=rss)
-### angela
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-### bessere
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-### migrationspolitik
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-### johnson
-
-* [https://www.spiegel.de/kultur/filmfestival-in-venedig-dwayne-johnson-als-zart-besaiteter-held-in-the-smashing-machine](https://www.spiegel.de/kultur/filmfestival-in-venedig-dwayne-johnson-als-zart-besaiteter-held-in-the-smashing-machine-a-015db939-e3f8-4750-aef3-9d12cf0cfe41#ref=rss)
-* [https://www.spiegel.de/panorama/leute/koenigin-camilla-wehrte-als-jugendliche-offenbar-einen-angreifer-mit-ihrem-schuh-ab](https://www.spiegel.de/panorama/leute/koenigin-camilla-wehrte-als-jugendliche-offenbar-einen-angreifer-mit-ihrem-schuh-ab-a-0bd54edb-f9ae-48bf-8434-b9541a722136#ref=rss)
-### sondern
-
-* [https://www.spiegel.de/gesundheit/krebs-fast-jede-fuenfte-diagnose-auf-rauchen-zurueckzufuehren](https://www.spiegel.de/gesundheit/krebs-fast-jede-fuenfte-diagnose-auf-rauchen-zurueckzufuehren-a-2efdbc78-fb4c-4f71-b738-f57bf89fdcb5#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/rechtspopulisten-und-analphabetismus-bewusste-spaltung-im-bildungssystem](https://www.spiegel.de/panorama/bildung/rechtspopulisten-und-analphabetismus-bewusste-spaltung-im-bildungssystem-a-b8494419-13e7-4004-83ac-831605d00ea4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/medizin-herzerkrankungen-koennen-mit-ki-stethoskop-offenbar-besser-erkannt-werden](https://www.spiegel.de/wissenschaft/technik/medizin-herzerkrankungen-koennen-mit-ki-stethoskop-offenbar-besser-erkannt-werden-a-45a95abd-28d2-476f-855c-82e4ec06da23#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/bildung/rechtspopulisten-und-analphabetismus-bewusste-spaltung-im-bildungssystem](https://www.spiegel.de/panorama/bildung/rechtspopulisten-und-analphabetismus-bewusste-spaltung-im-bildungssystem-a-b8494419-13e7-4004-83ac-831605d00ea4#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-feiert-rekordsieg-gegen-grossbritannien](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-feiert-rekordsieg-gegen-grossbritannien-a-6f07d2fa-19ac-433e-ac21-f852e8235111#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-xi-jinping-und-wladimir-putin-ursula-von-der-leyen-wohnungsmarkt](https://www.spiegel.de/politik/deutschland/news-des-tages-xi-jinping-und-wladimir-putin-ursula-von-der-leyen-wohnungsmarkt-a-ba66d9f7-29b2-435c-b8d9-4b6bfac9686f#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/panorama/leute/grossbritannien-pete-doherty-geht-wieder-mit-babyshambles-auf-tour](https://www.spiegel.de/panorama/leute/grossbritannien-pete-doherty-geht-wieder-mit-babyshambles-auf-tour-a-7afc7156-fa71-4d00-a908-1aa366f047a3#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-feiert-rekordsieg-gegen-grossbritannien](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-feiert-rekordsieg-gegen-grossbritannien-a-6f07d2fa-19ac-433e-ac21-f852e8235111#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/panorama/leute/grossbritannien-pete-doherty-geht-wieder-mit-babyshambles-auf-tour](https://www.spiegel.de/panorama/leute/grossbritannien-pete-doherty-geht-wieder-mit-babyshambles-auf-tour-a-7afc7156-fa71-4d00-a908-1aa366f047a3#ref=rss)
-* [https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche](https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche-a-b0505280-442a-46cf-bc8e-4340990daab0#ref=rss)
-### besser
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/medizin-herzerkrankungen-koennen-mit-ki-stethoskop-offenbar-besser-erkannt-werden](https://www.spiegel.de/wissenschaft/technik/medizin-herzerkrankungen-koennen-mit-ki-stethoskop-offenbar-besser-erkannt-werden-a-45a95abd-28d2-476f-855c-82e4ec06da23#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/friedland-nach-toedlichem-vorfall-an-bahnsteig-warum-starb-liana-k](https://www.spiegel.de/panorama/justiz/friedland-nach-toedlichem-vorfall-an-bahnsteig-warum-starb-liana-k-a-d718ce59-7b69-430e-9a64-72ad25eba38b#ref=rss)
-* [https://www.spiegel.de/panorama/oesterreich-wanderer-stirbt-nach-zusammenprall-mit-aufgeschreckten-kuehen](https://www.spiegel.de/panorama/oesterreich-wanderer-stirbt-nach-zusammenprall-mit-aufgeschreckten-kuehen-a-801a19dc-1579-4e9f-859d-5c6f95630fb7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/koenigin-camilla-wehrte-als-jugendliche-offenbar-einen-angreifer-mit-ihrem-schuh-ab](https://www.spiegel.de/panorama/leute/koenigin-camilla-wehrte-als-jugendliche-offenbar-einen-angreifer-mit-ihrem-schuh-ab-a-0bd54edb-f9ae-48bf-8434-b9541a722136#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wissenschaft/technik/medizin-herzerkrankungen-koennen-mit-ki-stethoskop-offenbar-besser-erkannt-werden](https://www.spiegel.de/wissenschaft/technik/medizin-herzerkrankungen-koennen-mit-ki-stethoskop-offenbar-besser-erkannt-werden-a-45a95abd-28d2-476f-855c-82e4ec06da23#ref=rss)
-* [https://www.spiegel.de/panorama/oesterreich-wanderer-stirbt-nach-zusammenprall-mit-aufgeschreckten-kuehen](https://www.spiegel.de/panorama/oesterreich-wanderer-stirbt-nach-zusammenprall-mit-aufgeschreckten-kuehen-a-801a19dc-1579-4e9f-859d-5c6f95630fb7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/koenigin-camilla-wehrte-als-jugendliche-offenbar-einen-angreifer-mit-ihrem-schuh-ab](https://www.spiegel.de/panorama/leute/koenigin-camilla-wehrte-als-jugendliche-offenbar-einen-angreifer-mit-ihrem-schuh-ab-a-0bd54edb-f9ae-48bf-8434-b9541a722136#ref=rss)
-### iphone
-
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-12-apple-will-mit-update-strahlungswerte-senken](https://www.spiegel.de/netzwelt/gadgets/iphone-12-apple-will-mit-update-strahlungswerte-senken-a-0871f62f-bc89-4cc9-938d-3c447b9bfac1#ref=rss)
-### 12
-
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-12-apple-will-mit-update-strahlungswerte-senken](https://www.spiegel.de/netzwelt/gadgets/iphone-12-apple-will-mit-update-strahlungswerte-senken-a-0871f62f-bc89-4cc9-938d-3c447b9bfac1#ref=rss)
-### apple
-
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-12-apple-will-mit-update-strahlungswerte-senken](https://www.spiegel.de/netzwelt/gadgets/iphone-12-apple-will-mit-update-strahlungswerte-senken-a-0871f62f-bc89-4cc9-938d-3c447b9bfac1#ref=rss)
-### dwayne
-
-* [https://www.spiegel.de/kultur/filmfestival-in-venedig-dwayne-johnson-als-zart-besaiteter-held-in-the-smashing-machine](https://www.spiegel.de/kultur/filmfestival-in-venedig-dwayne-johnson-als-zart-besaiteter-held-in-the-smashing-machine-a-015db939-e3f8-4750-aef3-9d12cf0cfe41#ref=rss)
-### zart
-
-* [https://www.spiegel.de/kultur/filmfestival-in-venedig-dwayne-johnson-als-zart-besaiteter-held-in-the-smashing-machine](https://www.spiegel.de/kultur/filmfestival-in-venedig-dwayne-johnson-als-zart-besaiteter-held-in-the-smashing-machine-a-015db939-e3f8-4750-aef3-9d12cf0cfe41#ref=rss)
-### held
-
-* [https://www.spiegel.de/kultur/filmfestival-in-venedig-dwayne-johnson-als-zart-besaiteter-held-in-the-smashing-machine](https://www.spiegel.de/kultur/filmfestival-in-venedig-dwayne-johnson-als-zart-besaiteter-held-in-the-smashing-machine-a-015db939-e3f8-4750-aef3-9d12cf0cfe41#ref=rss)
-### smashing
-
-* [https://www.spiegel.de/kultur/filmfestival-in-venedig-dwayne-johnson-als-zart-besaiteter-held-in-the-smashing-machine](https://www.spiegel.de/kultur/filmfestival-in-venedig-dwayne-johnson-als-zart-besaiteter-held-in-the-smashing-machine-a-015db939-e3f8-4750-aef3-9d12cf0cfe41#ref=rss)
-### machine
-
-* [https://www.spiegel.de/kultur/filmfestival-in-venedig-dwayne-johnson-als-zart-besaiteter-held-in-the-smashing-machine](https://www.spiegel.de/kultur/filmfestival-in-venedig-dwayne-johnson-als-zart-besaiteter-held-in-the-smashing-machine-a-015db939-e3f8-4750-aef3-9d12cf0cfe41#ref=rss)
-### große
-
-* [https://www.spiegel.de/kultur/filmfestival-in-venedig-dwayne-johnson-als-zart-besaiteter-held-in-the-smashing-machine](https://www.spiegel.de/kultur/filmfestival-in-venedig-dwayne-johnson-als-zart-besaiteter-held-in-the-smashing-machine-a-015db939-e3f8-4750-aef3-9d12cf0cfe41#ref=rss)
-* [https://www.spiegel.de/ausland/irak-vom-is-zerstoerte-moschee-in-mossul-wiedereroeffnet](https://www.spiegel.de/ausland/irak-vom-is-zerstoerte-moschee-in-mossul-wiedereroeffnet-a-e2a2bd2f-f03b-46f7-8cfc-88b274cf04c9#ref=rss)
-### rauchen
-
-* [https://www.spiegel.de/gesundheit/krebs-fast-jede-fuenfte-diagnose-auf-rauchen-zurueckzufuehren](https://www.spiegel.de/gesundheit/krebs-fast-jede-fuenfte-diagnose-auf-rauchen-zurueckzufuehren-a-2efdbc78-fb4c-4f71-b738-f57bf89fdcb5#ref=rss)
-### neue
-
-* [https://www.spiegel.de/gesundheit/krebs-fast-jede-fuenfte-diagnose-auf-rauchen-zurueckzufuehren](https://www.spiegel.de/gesundheit/krebs-fast-jede-fuenfte-diagnose-auf-rauchen-zurueckzufuehren-a-2efdbc78-fb4c-4f71-b738-f57bf89fdcb5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-video-neue-filme-und-serien-im-september-2025](https://www.spiegel.de/kultur/tv/netflix-disney-amazon-prime-video-neue-filme-und-serien-im-september-2025-a-b390d69d-1b2b-4b7e-b6e6-98f4cc6f044f#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/gesundheit/krebs-fast-jede-fuenfte-diagnose-auf-rauchen-zurueckzufuehren](https://www.spiegel.de/gesundheit/krebs-fast-jede-fuenfte-diagnose-auf-rauchen-zurueckzufuehren-a-2efdbc78-fb4c-4f71-b738-f57bf89fdcb5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzler-merz-hendrik-wuest-harmonie-bei-besuch-in-nrw-westfaelische-friedensshow](https://www.spiegel.de/politik/deutschland/kanzler-merz-hendrik-wuest-harmonie-bei-besuch-in-nrw-westfaelische-friedensshow-a-77e23562-9b47-4f89-9d7a-1ca08f93a7f3#ref=rss)
-### 16
-
-* [https://www.spiegel.de/gesundheit/krebs-fast-jede-fuenfte-diagnose-auf-rauchen-zurueckzufuehren](https://www.spiegel.de/gesundheit/krebs-fast-jede-fuenfte-diagnose-auf-rauchen-zurueckzufuehren-a-2efdbc78-fb4c-4f71-b738-f57bf89fdcb5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/friedland-nach-toedlichem-vorfall-an-bahnsteig-warum-starb-liana-k](https://www.spiegel.de/panorama/justiz/friedland-nach-toedlichem-vorfall-an-bahnsteig-warum-starb-liana-k-a-d718ce59-7b69-430e-9a64-72ad25eba38b#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/gesundheit/krebs-fast-jede-fuenfte-diagnose-auf-rauchen-zurueckzufuehren](https://www.spiegel.de/gesundheit/krebs-fast-jede-fuenfte-diagnose-auf-rauchen-zurueckzufuehren-a-2efdbc78-fb4c-4f71-b738-f57bf89fdcb5#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-feiert-rekordsieg-gegen-grossbritannien](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-feiert-rekordsieg-gegen-grossbritannien-a-6f07d2fa-19ac-433e-ac21-f852e8235111#ref=rss)
-### betroffen
-
-* [https://www.spiegel.de/gesundheit/krebs-fast-jede-fuenfte-diagnose-auf-rauchen-zurueckzufuehren](https://www.spiegel.de/gesundheit/krebs-fast-jede-fuenfte-diagnose-auf-rauchen-zurueckzufuehren-a-2efdbc78-fb4c-4f71-b738-f57bf89fdcb5#ref=rss)
-* [https://www.spiegel.de/start/berlin-charite-plant-stellenabbau-und-weniger-studienplaetze](https://www.spiegel.de/start/berlin-charite-plant-stellenabbau-und-weniger-studienplaetze-a-49b77980-e0bb-4dbb-a79a-645132a223e7#ref=rss)
-### männer
-
-* [https://www.spiegel.de/gesundheit/krebs-fast-jede-fuenfte-diagnose-auf-rauchen-zurueckzufuehren](https://www.spiegel.de/gesundheit/krebs-fast-jede-fuenfte-diagnose-auf-rauchen-zurueckzufuehren-a-2efdbc78-fb4c-4f71-b738-f57bf89fdcb5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tod-von-afd-politikern-in-nrw-keine-hinweise-auf-fremdverschulden](https://www.spiegel.de/politik/deutschland/tod-von-afd-politikern-in-nrw-keine-hinweise-auf-fremdverschulden-a-425c42de-4524-43d0-8c5b-662b46ffe6ce#ref=rss)
-### problem
-
-* [https://www.spiegel.de/panorama/bildung/rechtspopulisten-und-analphabetismus-bewusste-spaltung-im-bildungssystem](https://www.spiegel.de/panorama/bildung/rechtspopulisten-und-analphabetismus-bewusste-spaltung-im-bildungssystem-a-b8494419-13e7-4004-83ac-831605d00ea4#ref=rss)
-* [https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche](https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche-a-b0505280-442a-46cf-bc8e-4340990daab0#ref=rss)
-### pete
-
-* [https://www.spiegel.de/panorama/leute/grossbritannien-pete-doherty-geht-wieder-mit-babyshambles-auf-tour](https://www.spiegel.de/panorama/leute/grossbritannien-pete-doherty-geht-wieder-mit-babyshambles-auf-tour-a-7afc7156-fa71-4d00-a908-1aa366f047a3#ref=rss)
-### doherty
-
-* [https://www.spiegel.de/panorama/leute/grossbritannien-pete-doherty-geht-wieder-mit-babyshambles-auf-tour](https://www.spiegel.de/panorama/leute/grossbritannien-pete-doherty-geht-wieder-mit-babyshambles-auf-tour-a-7afc7156-fa71-4d00-a908-1aa366f047a3#ref=rss)
-### babyshambles
-
-* [https://www.spiegel.de/panorama/leute/grossbritannien-pete-doherty-geht-wieder-mit-babyshambles-auf-tour](https://www.spiegel.de/panorama/leute/grossbritannien-pete-doherty-geht-wieder-mit-babyshambles-auf-tour-a-7afc7156-fa71-4d00-a908-1aa366f047a3#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/leute/grossbritannien-pete-doherty-geht-wieder-mit-babyshambles-auf-tour](https://www.spiegel.de/panorama/leute/grossbritannien-pete-doherty-geht-wieder-mit-babyshambles-auf-tour-a-7afc7156-fa71-4d00-a908-1aa366f047a3#ref=rss)
-* [https://www.spiegel.de/sport/boxen/boxen-frueherer-ali-herausforderer-und-schauspieler-joe-bugner-ist-tot](https://www.spiegel.de/sport/boxen/boxen-frueherer-ali-herausforderer-und-schauspieler-joe-bugner-ist-tot-a-db72bf79-4ce7-4e1e-8338-4692457de0c5#ref=rss)
-### team
-
-* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-feiert-rekordsieg-gegen-grossbritannien](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-feiert-rekordsieg-gegen-grossbritannien-a-6f07d2fa-19ac-433e-ac21-f852e8235111#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzler-merz-hendrik-wuest-harmonie-bei-besuch-in-nrw-westfaelische-friedensshow](https://www.spiegel.de/politik/deutschland/kanzler-merz-hendrik-wuest-harmonie-bei-besuch-in-nrw-westfaelische-friedensshow-a-77e23562-9b47-4f89-9d7a-1ca08f93a7f3#ref=rss)
-### boxen
-
-* [https://www.spiegel.de/sport/boxen/boxen-imane-khelif-zieht-wegen-geschlechtstests-vor-den-sportgerichtshof](https://www.spiegel.de/sport/boxen/boxen-imane-khelif-zieht-wegen-geschlechtstests-vor-den-sportgerichtshof-a-5d321532-1b94-4692-a10e-2fe093bb3558#ref=rss)
-* [https://www.spiegel.de/sport/boxen/boxen-frueherer-ali-herausforderer-und-schauspieler-joe-bugner-ist-tot](https://www.spiegel.de/sport/boxen/boxen-frueherer-ali-herausforderer-und-schauspieler-joe-bugner-ist-tot-a-db72bf79-4ce7-4e1e-8338-4692457de0c5#ref=rss)
-### imane
-
-* [https://www.spiegel.de/sport/boxen/boxen-imane-khelif-zieht-wegen-geschlechtstests-vor-den-sportgerichtshof](https://www.spiegel.de/sport/boxen/boxen-imane-khelif-zieht-wegen-geschlechtstests-vor-den-sportgerichtshof-a-5d321532-1b94-4692-a10e-2fe093bb3558#ref=rss)
-### khelif
-
-* [https://www.spiegel.de/sport/boxen/boxen-imane-khelif-zieht-wegen-geschlechtstests-vor-den-sportgerichtshof](https://www.spiegel.de/sport/boxen/boxen-imane-khelif-zieht-wegen-geschlechtstests-vor-den-sportgerichtshof-a-5d321532-1b94-4692-a10e-2fe093bb3558#ref=rss)
-### vs
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-### gegenspieler
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-### wusste
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-### vieles
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-### beweisen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-### macht
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-podcast-a-9951e0ff-3df9-48cb-bdce-6111642367af#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das](https://www.spiegel.de/politik/deutschland/friedrich-merz-vs-angela-merkel-bessere-migrationspolitik-zehn-jahre-nach-wir-schaffen-das-a-f2e9e37a-6db6-4c62-831b-ef0173f7a423#ref=rss)
-### bayer
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-trennt-sich-von-erik-ten-hag-die-zwei-spiele-aera](https://www.spiegel.de/sport/fussball/bayer-leverkusen-trennt-sich-von-erik-ten-hag-die-zwei-spiele-aera-a-731d3c47-14f1-4f33-8802-feef0836e350#ref=rss)
-### leverkusen
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-trennt-sich-von-erik-ten-hag-die-zwei-spiele-aera](https://www.spiegel.de/sport/fussball/bayer-leverkusen-trennt-sich-von-erik-ten-hag-die-zwei-spiele-aera-a-731d3c47-14f1-4f33-8802-feef0836e350#ref=rss)
-### erik
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-trennt-sich-von-erik-ten-hag-die-zwei-spiele-aera](https://www.spiegel.de/sport/fussball/bayer-leverkusen-trennt-sich-von-erik-ten-hag-die-zwei-spiele-aera-a-731d3c47-14f1-4f33-8802-feef0836e350#ref=rss)
-### ten
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-trennt-sich-von-erik-ten-hag-die-zwei-spiele-aera](https://www.spiegel.de/sport/fussball/bayer-leverkusen-trennt-sich-von-erik-ten-hag-die-zwei-spiele-aera-a-731d3c47-14f1-4f33-8802-feef0836e350#ref=rss)
-### hag
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-trennt-sich-von-erik-ten-hag-die-zwei-spiele-aera](https://www.spiegel.de/sport/fussball/bayer-leverkusen-trennt-sich-von-erik-ten-hag-die-zwei-spiele-aera-a-731d3c47-14f1-4f33-8802-feef0836e350#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-trennt-sich-von-erik-ten-hag-die-zwei-spiele-aera](https://www.spiegel.de/sport/fussball/bayer-leverkusen-trennt-sich-von-erik-ten-hag-die-zwei-spiele-aera-a-731d3c47-14f1-4f33-8802-feef0836e350#ref=rss)
-* [https://www.spiegel.de/panorama/leute/koenigin-camilla-wehrte-als-jugendliche-offenbar-einen-angreifer-mit-ihrem-schuh-ab](https://www.spiegel.de/panorama/leute/koenigin-camilla-wehrte-als-jugendliche-offenbar-einen-angreifer-mit-ihrem-schuh-ab-a-0bd54edb-f9ae-48bf-8434-b9541a722136#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/usa-wie-donald-trump-die-kunst-und-meinungsfreiheit-beschneidet](https://www.spiegel.de/ausland/usa-wie-donald-trump-die-kunst-und-meinungsfreiheit-beschneidet-a-02a60b35-3725-46c8-87d8-a57ae9199c61#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/usa-wie-donald-trump-die-kunst-und-meinungsfreiheit-beschneidet](https://www.spiegel.de/ausland/usa-wie-donald-trump-die-kunst-und-meinungsfreiheit-beschneidet-a-02a60b35-3725-46c8-87d8-a57ae9199c61#ref=rss)
-### kunst
-
-* [https://www.spiegel.de/ausland/usa-wie-donald-trump-die-kunst-und-meinungsfreiheit-beschneidet](https://www.spiegel.de/ausland/usa-wie-donald-trump-die-kunst-und-meinungsfreiheit-beschneidet-a-02a60b35-3725-46c8-87d8-a57ae9199c61#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/ausland/usa-wie-donald-trump-die-kunst-und-meinungsfreiheit-beschneidet](https://www.spiegel.de/ausland/usa-wie-donald-trump-die-kunst-und-meinungsfreiheit-beschneidet-a-02a60b35-3725-46c8-87d8-a57ae9199c61#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/erbschaftssteuer-friedrich-merz-lehnt-reformidee-von-markus-soeder-ab](https://www.spiegel.de/politik/deutschland/erbschaftssteuer-friedrich-merz-lehnt-reformidee-von-markus-soeder-ab-a-e9d9414f-b47a-4ee9-8d41-ee07b3087c8a#ref=rss)
-### joe
-
-* [https://www.spiegel.de/sport/boxen/boxen-frueherer-ali-herausforderer-und-schauspieler-joe-bugner-ist-tot](https://www.spiegel.de/sport/boxen/boxen-frueherer-ali-herausforderer-und-schauspieler-joe-bugner-ist-tot-a-db72bf79-4ce7-4e1e-8338-4692457de0c5#ref=rss)
-### bugner
-
-* [https://www.spiegel.de/sport/boxen/boxen-frueherer-ali-herausforderer-und-schauspieler-joe-bugner-ist-tot](https://www.spiegel.de/sport/boxen/boxen-frueherer-ali-herausforderer-und-schauspieler-joe-bugner-ist-tot-a-db72bf79-4ce7-4e1e-8338-4692457de0c5#ref=rss)
-### friedland
-
-* [https://www.spiegel.de/panorama/justiz/friedland-nach-toedlichem-vorfall-an-bahnsteig-warum-starb-liana-k](https://www.spiegel.de/panorama/justiz/friedland-nach-toedlichem-vorfall-an-bahnsteig-warum-starb-liana-k-a-d718ce59-7b69-430e-9a64-72ad25eba38b#ref=rss)
-### stadtrat
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-im-stadtrat-in-chemnitz-gibt-es-jetzt-zwei-afd-fraktionen](https://www.spiegel.de/politik/deutschland/sachsen-im-stadtrat-in-chemnitz-gibt-es-jetzt-zwei-afd-fraktionen-a-7a923b63-06c0-41c1-b75c-ce0dd684f7b0#ref=rss)
-### chemnitz
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-im-stadtrat-in-chemnitz-gibt-es-jetzt-zwei-afd-fraktionen](https://www.spiegel.de/politik/deutschland/sachsen-im-stadtrat-in-chemnitz-gibt-es-jetzt-zwei-afd-fraktionen-a-7a923b63-06c0-41c1-b75c-ce0dd684f7b0#ref=rss)
-### fraktion
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-im-stadtrat-in-chemnitz-gibt-es-jetzt-zwei-afd-fraktionen](https://www.spiegel.de/politik/deutschland/sachsen-im-stadtrat-in-chemnitz-gibt-es-jetzt-zwei-afd-fraktionen-a-7a923b63-06c0-41c1-b75c-ce0dd684f7b0#ref=rss)
-### tod
-
-* [https://www.spiegel.de/politik/deutschland/tod-von-afd-politikern-in-nrw-keine-hinweise-auf-fremdverschulden](https://www.spiegel.de/politik/deutschland/tod-von-afd-politikern-in-nrw-keine-hinweise-auf-fremdverschulden-a-425c42de-4524-43d0-8c5b-662b46ffe6ce#ref=rss)
-### afdpolitikern
-
-* [https://www.spiegel.de/politik/deutschland/tod-von-afd-politikern-in-nrw-keine-hinweise-auf-fremdverschulden](https://www.spiegel.de/politik/deutschland/tod-von-afd-politikern-in-nrw-keine-hinweise-auf-fremdverschulden-a-425c42de-4524-43d0-8c5b-662b46ffe6ce#ref=rss)
-### nrw
-
-* [https://www.spiegel.de/politik/deutschland/tod-von-afd-politikern-in-nrw-keine-hinweise-auf-fremdverschulden](https://www.spiegel.de/politik/deutschland/tod-von-afd-politikern-in-nrw-keine-hinweise-auf-fremdverschulden-a-425c42de-4524-43d0-8c5b-662b46ffe6ce#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kanzler-merz-hendrik-wuest-harmonie-bei-besuch-in-nrw-westfaelische-friedensshow](https://www.spiegel.de/politik/deutschland/kanzler-merz-hendrik-wuest-harmonie-bei-besuch-in-nrw-westfaelische-friedensshow-a-77e23562-9b47-4f89-9d7a-1ca08f93a7f3#ref=rss)
-### oft
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-xi-jinping-und-wladimir-putin-ursula-von-der-leyen-wohnungsmarkt](https://www.spiegel.de/politik/deutschland/news-des-tages-xi-jinping-und-wladimir-putin-ursula-von-der-leyen-wohnungsmarkt-a-ba66d9f7-29b2-435c-b8d9-4b6bfac9686f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/eckhard-cordes-warum-der-manager-bei-lufthansa-nicht-mitfliegen-durfte](https://www.spiegel.de/wirtschaft/unternehmen/eckhard-cordes-warum-der-manager-bei-lufthansa-nicht-mitfliegen-durfte-a-4cc01c65-58b3-4878-9821-c9356411c3aa#ref=rss)
-### hendrik
-
-* [https://www.spiegel.de/politik/deutschland/kanzler-merz-hendrik-wuest-harmonie-bei-besuch-in-nrw-westfaelische-friedensshow](https://www.spiegel.de/politik/deutschland/kanzler-merz-hendrik-wuest-harmonie-bei-besuch-in-nrw-westfaelische-friedensshow-a-77e23562-9b47-4f89-9d7a-1ca08f93a7f3#ref=rss)
-### wüst
-
-* [https://www.spiegel.de/politik/deutschland/kanzler-merz-hendrik-wuest-harmonie-bei-besuch-in-nrw-westfaelische-friedensshow](https://www.spiegel.de/politik/deutschland/kanzler-merz-hendrik-wuest-harmonie-bei-besuch-in-nrw-westfaelische-friedensshow-a-77e23562-9b47-4f89-9d7a-1ca08f93a7f3#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/promi-hochzeiten-diese-paare-haben-mehrfach-geheiratet](https://www.spiegel.de/panorama/promi-hochzeiten-diese-paare-haben-mehrfach-geheiratet-a-ccab3ad6-82e0-477d-928c-ccf52dc390b0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bus-und-bahn-ohne-ticket-initiative-kauft-101-schwarzfahrer-aus-dem-gefaengnis-frei](https://www.spiegel.de/panorama/justiz/bus-und-bahn-ohne-ticket-initiative-kauft-101-schwarzfahrer-aus-dem-gefaengnis-frei-a-e6efb793-661f-4b7a-92e6-df3f158ff94b#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/promi-hochzeiten-diese-paare-haben-mehrfach-geheiratet](https://www.spiegel.de/panorama/promi-hochzeiten-diese-paare-haben-mehrfach-geheiratet-a-ccab3ad6-82e0-477d-928c-ccf52dc390b0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/medizin-herzerkrankungen-koennen-mit-ki-stethoskop-offenbar-besser-erkannt-werden](https://www.spiegel.de/wissenschaft/technik/medizin-herzerkrankungen-koennen-mit-ki-stethoskop-offenbar-besser-erkannt-werden-a-45a95abd-28d2-476f-855c-82e4ec06da23#ref=rss)
-### jedes
-
-* [https://www.spiegel.de/panorama/promi-hochzeiten-diese-paare-haben-mehrfach-geheiratet](https://www.spiegel.de/panorama/promi-hochzeiten-diese-paare-haben-mehrfach-geheiratet-a-ccab3ad6-82e0-477d-928c-ccf52dc390b0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/erbschaftssteuer-friedrich-merz-lehnt-reformidee-von-markus-soeder-ab](https://www.spiegel.de/politik/deutschland/erbschaftssteuer-friedrich-merz-lehnt-reformidee-von-markus-soeder-ab-a-e9d9414f-b47a-4ee9-8d41-ee07b3087c8a#ref=rss)
-### irak
-
-* [https://www.spiegel.de/ausland/irak-vom-is-zerstoerte-moschee-in-mossul-wiedereroeffnet](https://www.spiegel.de/ausland/irak-vom-is-zerstoerte-moschee-in-mossul-wiedereroeffnet-a-e2a2bd2f-f03b-46f7-8cfc-88b274cf04c9#ref=rss)
-### is
-
-* [https://www.spiegel.de/ausland/irak-vom-is-zerstoerte-moschee-in-mossul-wiedereroeffnet](https://www.spiegel.de/ausland/irak-vom-is-zerstoerte-moschee-in-mossul-wiedereroeffnet-a-e2a2bd2f-f03b-46f7-8cfc-88b274cf04c9#ref=rss)
-### zerstörte
-
-* [https://www.spiegel.de/ausland/irak-vom-is-zerstoerte-moschee-in-mossul-wiedereroeffnet](https://www.spiegel.de/ausland/irak-vom-is-zerstoerte-moschee-in-mossul-wiedereroeffnet-a-e2a2bd2f-f03b-46f7-8cfc-88b274cf04c9#ref=rss)
-### moschee
-
-* [https://www.spiegel.de/ausland/irak-vom-is-zerstoerte-moschee-in-mossul-wiedereroeffnet](https://www.spiegel.de/ausland/irak-vom-is-zerstoerte-moschee-in-mossul-wiedereroeffnet-a-e2a2bd2f-f03b-46f7-8cfc-88b274cf04c9#ref=rss)
-### mossul
-
-* [https://www.spiegel.de/ausland/irak-vom-is-zerstoerte-moschee-in-mossul-wiedereroeffnet](https://www.spiegel.de/ausland/irak-vom-is-zerstoerte-moschee-in-mossul-wiedereroeffnet-a-e2a2bd2f-f03b-46f7-8cfc-88b274cf04c9#ref=rss)
-### javier
-
-* [https://www.spiegel.de/ausland/argentinien-warum-javier-mileis-wirtschaftsmodell-scheitern-wird](https://www.spiegel.de/ausland/argentinien-warum-javier-mileis-wirtschaftsmodell-scheitern-wird-a-987ad22f-9774-4b35-b42e-f4259993d6e0#ref=rss)
-### scheitern
-
-* [https://www.spiegel.de/ausland/argentinien-warum-javier-mileis-wirtschaftsmodell-scheitern-wird](https://www.spiegel.de/ausland/argentinien-warum-javier-mileis-wirtschaftsmodell-scheitern-wird-a-987ad22f-9774-4b35-b42e-f4259993d6e0#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/ausland/argentinien-warum-javier-mileis-wirtschaftsmodell-scheitern-wird](https://www.spiegel.de/ausland/argentinien-warum-javier-mileis-wirtschaftsmodell-scheitern-wird-a-987ad22f-9774-4b35-b42e-f4259993d6e0#ref=rss)
-* [https://www.spiegel.de/panorama/oesterreich-wanderer-stirbt-nach-zusammenprall-mit-aufgeschreckten-kuehen](https://www.spiegel.de/panorama/oesterreich-wanderer-stirbt-nach-zusammenprall-mit-aufgeschreckten-kuehen-a-801a19dc-1579-4e9f-859d-5c6f95630fb7#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wissenschaft/technik/medizin-herzerkrankungen-koennen-mit-ki-stethoskop-offenbar-besser-erkannt-werden](https://www.spiegel.de/wissenschaft/technik/medizin-herzerkrankungen-koennen-mit-ki-stethoskop-offenbar-besser-erkannt-werden-a-45a95abd-28d2-476f-855c-82e4ec06da23#ref=rss)
-### ohne
+* [https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus](https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus-a-dfe3295a-1e5c-46a8-8483-1341457924fc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant](https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant-a-a4307e3f-136f-491d-bf54-922072c3ebca#ref=rss)
+* [https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel](https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel-a-10a3bd5b-fd64-49dc-b196-cfd2be3ae32f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-hat-3-8-millionen-mehr-einwohner-als-1990](https://www.spiegel.de/panorama/gesellschaft/deutschland-hat-3-8-millionen-mehr-einwohner-als-1990-a-e12c0b7b-4448-4ef1-a754-11d6af054b22#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik](https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik-a-7cc7aa23-e2a0-4305-b324-d2d699f6b786#ref=rss)
+* [https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken](https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken-a-f65db9a7-8eaf-46cd-9632-03aeac4ffab1#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/justiz/bus-und-bahn-ohne-ticket-initiative-kauft-101-schwarzfahrer-aus-dem-gefaengnis-frei](https://www.spiegel.de/panorama/justiz/bus-und-bahn-ohne-ticket-initiative-kauft-101-schwarzfahrer-aus-dem-gefaengnis-frei-a-e6efb793-661f-4b7a-92e6-df3f158ff94b#ref=rss)
-### ticket
+* [https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik](https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik-a-1970b170-36b3-47c5-94d6-7ab117bb49ac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus](https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus-a-f39c3253-3fca-43fa-8619-bbedc4e4690d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
+* [https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie](https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie-a-439e529f-4a44-4375-b88b-c7d7cd382d97#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/justiz/bus-und-bahn-ohne-ticket-initiative-kauft-101-schwarzfahrer-aus-dem-gefaengnis-frei](https://www.spiegel.de/panorama/justiz/bus-und-bahn-ohne-ticket-initiative-kauft-101-schwarzfahrer-aus-dem-gefaengnis-frei-a-e6efb793-661f-4b7a-92e6-df3f158ff94b#ref=rss)
-### gefängnis
+* [https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus](https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus-a-f39c3253-3fca-43fa-8619-bbedc4e4690d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
+* [https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie](https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie-a-439e529f-4a44-4375-b88b-c7d7cd382d97#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen](https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen-a-be998718-6005-4c54-bccd-ace4f873d6ba#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/justiz/bus-und-bahn-ohne-ticket-initiative-kauft-101-schwarzfahrer-aus-dem-gefaengnis-frei](https://www.spiegel.de/panorama/justiz/bus-und-bahn-ohne-ticket-initiative-kauft-101-schwarzfahrer-aus-dem-gefaengnis-frei-a-e6efb793-661f-4b7a-92e6-df3f158ff94b#ref=rss)
-### warwick
+* [https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule](https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule-a-e9fcde3c-f8e6-410a-83a9-ec63376e04e5#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
+* [https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung](https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung-a-e3f24095-ae5e-4453-9f4d-68a42c6909c8#ref=rss)
+* [https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt](https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt-a-92411c4f-82bf-446f-bf2f-f6bcb02d005f#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/kultur/tv/harry-potter-serie-warwick-davis-kehrt-als-professor-flitwick-zurueck](https://www.spiegel.de/kultur/tv/harry-potter-serie-warwick-davis-kehrt-als-professor-flitwick-zurueck-a-9f590629-a80c-4246-81d3-d81c0c1fe0b2#ref=rss)
-### davis
+* [https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik](https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik-a-1970b170-36b3-47c5-94d6-7ab117bb49ac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus](https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus-a-f39c3253-3fca-43fa-8619-bbedc4e4690d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen](https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen-a-be998718-6005-4c54-bccd-ace4f873d6ba#ref=rss)
+### du
 
-* [https://www.spiegel.de/kultur/tv/harry-potter-serie-warwick-davis-kehrt-als-professor-flitwick-zurueck](https://www.spiegel.de/kultur/tv/harry-potter-serie-warwick-davis-kehrt-als-professor-flitwick-zurueck-a-9f590629-a80c-4246-81d3-d81c0c1fe0b2#ref=rss)
-### professor
+* [https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus](https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus-a-dfe3295a-1e5c-46a8-8483-1341457924fc#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
+### schauspieler
 
-* [https://www.spiegel.de/kultur/tv/harry-potter-serie-warwick-davis-kehrt-als-professor-flitwick-zurueck](https://www.spiegel.de/kultur/tv/harry-potter-serie-warwick-davis-kehrt-als-professor-flitwick-zurueck-a-9f590629-a80c-4246-81d3-d81c0c1fe0b2#ref=rss)
-### flitwick
+* [https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus](https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus-a-dfe3295a-1e5c-46a8-8483-1341457924fc#ref=rss)
+* [https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt](https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt-a-92411c4f-82bf-446f-bf2f-f6bcb02d005f#ref=rss)
+### bürgermeister
 
-* [https://www.spiegel.de/kultur/tv/harry-potter-serie-warwick-davis-kehrt-als-professor-flitwick-zurueck](https://www.spiegel.de/kultur/tv/harry-potter-serie-warwick-davis-kehrt-als-professor-flitwick-zurueck-a-9f590629-a80c-4246-81d3-d81c0c1fe0b2#ref=rss)
+* [https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest](https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest-a-47b92601-8079-49e5-86e3-df071a007e4c#ref=rss)
+* [https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik](https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik-a-1970b170-36b3-47c5-94d6-7ab117bb49ac#ref=rss)
+### spd
+
+* [https://www.spiegel.de/wirtschaft/rente-wie-die-spd-rentenpolitik-ausgerechnet-die-arbeiter-benachteiligt-meinung](https://www.spiegel.de/wirtschaft/rente-wie-die-spd-rentenpolitik-ausgerechnet-die-arbeiter-benachteiligt-meinung-a-30f47f02-6c62-47f3-8a66-fe53146a0706#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen-a-c2f0f365-458a-4a6d-9238-a3d5bc6b0c6d#ref=rss)
+### finden
+
+* [https://www.spiegel.de/backstage/spielen-sie-viererkette-connections-auf-deutsch](https://www.spiegel.de/backstage/spielen-sie-viererkette-connections-auf-deutsch-a-42ec7f76-b1d9-4a49-950d-932471bd9423#ref=rss)
+* [https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung](https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung-a-e3f24095-ae5e-4453-9f4d-68a42c6909c8#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/google-deutsches-ehepaar-klagt-wegen-verbreitung-geklauter-nacktbilder](https://www.spiegel.de/netzwelt/web/google-deutsches-ehepaar-klagt-wegen-verbreitung-geklauter-nacktbilder-a-7e5f648d-da53-4c3c-bbf0-71d7d29a88a5#ref=rss)
+### frau
+
+* [https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen-a-c2f0f365-458a-4a6d-9238-a3d5bc6b0c6d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja](https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja-a-2165c253-bb93-4e26-a517-1490bdee9e88#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/eldena-mann-soll-bei-indian-spirit-festival-mehrfach-auf-polizistin-eingeschlagen-haben](https://www.spiegel.de/panorama/justiz/eldena-mann-soll-bei-indian-spirit-festival-mehrfach-auf-polizistin-eingeschlagen-haben-a-f0996a4d-760f-4704-9711-f30af962dd79#ref=rss)
+### partei
+
+* [https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja](https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja-a-2165c253-bb93-4e26-a517-1490bdee9e88#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-in-nordrhein-westfalen-bestaetigt-zwei-weitere-todesfaelle-von-politikern-vor-kommunalwahl](https://www.spiegel.de/politik/deutschland/afd-in-nordrhein-westfalen-bestaetigt-zwei-weitere-todesfaelle-von-politikern-vor-kommunalwahl-a-408b417a-f112-4a82-83f7-6b5d9c0072c6#ref=rss)
+### einwohner
+
+* [https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik](https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik-a-1970b170-36b3-47c5-94d6-7ab117bb49ac#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-hat-3-8-millionen-mehr-einwohner-als-1990](https://www.spiegel.de/panorama/gesellschaft/deutschland-hat-3-8-millionen-mehr-einwohner-als-1990-a-e12c0b7b-4448-4ef1-a754-11d6af054b22#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus](https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus-a-f39c3253-3fca-43fa-8619-bbedc4e4690d#ref=rss)
+* [https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung](https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung-a-e3f24095-ae5e-4453-9f4d-68a42c6909c8#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-hat-3-8-millionen-mehr-einwohner-als-1990](https://www.spiegel.de/panorama/gesellschaft/deutschland-hat-3-8-millionen-mehr-einwohner-als-1990-a-e12c0b7b-4448-4ef1-a754-11d6af054b22#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik](https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik-a-7cc7aa23-e2a0-4305-b324-d2d699f6b786#ref=rss)
+* [https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie](https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie-a-439e529f-4a44-4375-b88b-c7d7cd382d97#ref=rss)
+### allem
+
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-hat-3-8-millionen-mehr-einwohner-als-1990](https://www.spiegel.de/panorama/gesellschaft/deutschland-hat-3-8-millionen-mehr-einwohner-als-1990-a-e12c0b7b-4448-4ef1-a754-11d6af054b22#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
+* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht-a-4801fd58-6b5f-47ae-8b64-ec14e31e62eb#ref=rss)
+### panama
+
+* [https://www.spiegel.de/wissenschaft/natur/golf-von-panama-meeresstroemung-erstmals-fast-voellig-ausgefallen](https://www.spiegel.de/wissenschaft/natur/golf-von-panama-meeresstroemung-erstmals-fast-voellig-ausgefallen-a-43310733-81d4-4ae3-95c2-42085439a4f2#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/wissenschaft/natur/golf-von-panama-meeresstroemung-erstmals-fast-voellig-ausgefallen](https://www.spiegel.de/wissenschaft/natur/golf-von-panama-meeresstroemung-erstmals-fast-voellig-ausgefallen-a-43310733-81d4-4ae3-95c2-42085439a4f2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
+### sky
+
+* [https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus](https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus-a-dfe3295a-1e5c-46a8-8483-1341457924fc#ref=rss)
+### mont
+
+* [https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus](https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus-a-dfe3295a-1e5c-46a8-8483-1341457924fc#ref=rss)
+### möchte
+
+* [https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus](https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus-a-dfe3295a-1e5c-46a8-8483-1341457924fc#ref=rss)
+### hebron
+
+* [https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest](https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest-a-47b92601-8079-49e5-86e3-df071a007e4c#ref=rss)
+### israelische
+
+* [https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest](https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest-a-47b92601-8079-49e5-86e3-df071a007e4c#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen](https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen-a-be998718-6005-4c54-bccd-ace4f873d6ba#ref=rss)
+### westjordanland
+
+* [https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest](https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest-a-47b92601-8079-49e5-86e3-df071a007e4c#ref=rss)
+### nächsten
+
+* [https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest](https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest-a-47b92601-8079-49e5-86e3-df071a007e4c#ref=rss)
+* [https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule](https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule-a-e9fcde3c-f8e6-410a-83a9-ec63376e04e5#ref=rss)
+### schritt
+
+* [https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest](https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest-a-47b92601-8079-49e5-86e3-df071a007e4c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united](https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united-a-d9a5b4d4-074e-45d2-98d3-51eb666d2e45#ref=rss)
+### meinung
+
+* [https://www.spiegel.de/wirtschaft/rente-wie-die-spd-rentenpolitik-ausgerechnet-die-arbeiter-benachteiligt-meinung](https://www.spiegel.de/wirtschaft/rente-wie-die-spd-rentenpolitik-ausgerechnet-die-arbeiter-benachteiligt-meinung-a-30f47f02-6c62-47f3-8a66-fe53146a0706#ref=rss)
+* [https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung](https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung-a-e3f24095-ae5e-4453-9f4d-68a42c6909c8#ref=rss)
+### längere
+
+* [https://www.spiegel.de/wirtschaft/rente-wie-die-spd-rentenpolitik-ausgerechnet-die-arbeiter-benachteiligt-meinung](https://www.spiegel.de/wirtschaft/rente-wie-die-spd-rentenpolitik-ausgerechnet-die-arbeiter-benachteiligt-meinung-a-30f47f02-6c62-47f3-8a66-fe53146a0706#ref=rss)
+* [https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule](https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule-a-e9fcde3c-f8e6-410a-83a9-ec63376e04e5#ref=rss)
+### studierende
+
+* [https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule](https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule-a-e9fcde3c-f8e6-410a-83a9-ec63376e04e5#ref=rss)
+### stunde
+
+* [https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule](https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule-a-e9fcde3c-f8e6-410a-83a9-ec63376e04e5#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule](https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule-a-e9fcde3c-f8e6-410a-83a9-ec63376e04e5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gerhard-delling-christina-block-partner-weist-vorwuerfe-in-prozess-zurueck](https://www.spiegel.de/panorama/justiz/gerhard-delling-christina-block-partner-weist-vorwuerfe-in-prozess-zurueck-a-ac8dd030-67e4-4d6a-bf9b-2069eb3a21d2#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant](https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant-a-a4307e3f-136f-491d-bf54-922072c3ebca#ref=rss)
+### russland
+
+* [https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant](https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant-a-a4307e3f-136f-491d-bf54-922072c3ebca#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant](https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant-a-a4307e3f-136f-491d-bf54-922072c3ebca#ref=rss)
+### pipeline
+
+* [https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant](https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant-a-a4307e3f-136f-491d-bf54-922072c3ebca#ref=rss)
+### dazu
+
+* [https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant](https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant-a-a4307e3f-136f-491d-bf54-922072c3ebca#ref=rss)
+* [https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie](https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie-a-439e529f-4a44-4375-b88b-c7d7cd382d97#ref=rss)
+### viererkette
+
+* [https://www.spiegel.de/backstage/spielen-sie-viererkette-connections-auf-deutsch](https://www.spiegel.de/backstage/spielen-sie-viererkette-connections-auf-deutsch-a-42ec7f76-b1d9-4a49-950d-932471bd9423#ref=rss)
+### prüft
+
+* [https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor](https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor-a-044db9f1-d7b7-47e9-85da-7d7ed1cbedca#ref=rss)
+### verkauf
+
+* [https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor](https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor-a-044db9f1-d7b7-47e9-85da-7d7ed1cbedca#ref=rss)
+### chinesischen
+
+* [https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor](https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor-a-044db9f1-d7b7-47e9-85da-7d7ed1cbedca#ref=rss)
+### investor
+
+* [https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor](https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor-a-044db9f1-d7b7-47e9-85da-7d7ed1cbedca#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor](https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor-a-044db9f1-d7b7-47e9-85da-7d7ed1cbedca#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen](https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen-a-be998718-6005-4c54-bccd-ace4f873d6ba#ref=rss)
+### gerhard
+
+* [https://www.spiegel.de/panorama/justiz/gerhard-delling-christina-block-partner-weist-vorwuerfe-in-prozess-zurueck](https://www.spiegel.de/panorama/justiz/gerhard-delling-christina-block-partner-weist-vorwuerfe-in-prozess-zurueck-a-ac8dd030-67e4-4d6a-bf9b-2069eb3a21d2#ref=rss)
+### delling
+
+* [https://www.spiegel.de/panorama/justiz/gerhard-delling-christina-block-partner-weist-vorwuerfe-in-prozess-zurueck](https://www.spiegel.de/panorama/justiz/gerhard-delling-christina-block-partner-weist-vorwuerfe-in-prozess-zurueck-a-ac8dd030-67e4-4d6a-bf9b-2069eb3a21d2#ref=rss)
+### bergisch
+
+* [https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen-a-c2f0f365-458a-4a6d-9238-a3d5bc6b0c6d#ref=rss)
+### gladbach
+
+* [https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen-a-c2f0f365-458a-4a6d-9238-a3d5bc6b0c6d#ref=rss)
+### fraktionsbüros
+
+* [https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen-a-c2f0f365-458a-4a6d-9238-a3d5bc6b0c6d#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen-a-c2f0f365-458a-4a6d-9238-a3d5bc6b0c6d#ref=rss)
+### angegriffen
+
+* [https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen-a-c2f0f365-458a-4a6d-9238-a3d5bc6b0c6d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/eldena-mann-soll-bei-indian-spirit-festival-mehrfach-auf-polizistin-eingeschlagen-haben](https://www.spiegel.de/panorama/justiz/eldena-mann-soll-bei-indian-spirit-festival-mehrfach-auf-polizistin-eingeschlagen-haben-a-f0996a4d-760f-4704-9711-f30af962dd79#ref=rss)
+### dawid
+
+* [https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja](https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja-a-2165c253-bb93-4e26-a517-1490bdee9e88#ref=rss)
+### szóstak
+
+* [https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja](https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja-a-2165c253-bb93-4e26-a517-1490bdee9e88#ref=rss)
+### politiker
+
+* [https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja](https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja-a-2165c253-bb93-4e26-a517-1490bdee9e88#ref=rss)
+### polen
+
+* [https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja](https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja-a-2165c253-bb93-4e26-a517-1490bdee9e88#ref=rss)
+### konfederacja
+
+* [https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja](https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja-a-2165c253-bb93-4e26-a517-1490bdee9e88#ref=rss)
+### junge
+
+* [https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja](https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja-a-2165c253-bb93-4e26-a517-1490bdee9e88#ref=rss)
+* [https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung](https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung-a-e3f24095-ae5e-4453-9f4d-68a42c6909c8#ref=rss)
+### wien
+
+* [https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel](https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel-a-10a3bd5b-fd64-49dc-b196-cfd2be3ae32f#ref=rss)
+### drittel
+
+* [https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel](https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel-a-10a3bd5b-fd64-49dc-b196-cfd2be3ae32f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik](https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik-a-7cc7aa23-e2a0-4305-b324-d2d699f6b786#ref=rss)
+### eigentlich
+
+* [https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel](https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel-a-10a3bd5b-fd64-49dc-b196-cfd2be3ae32f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united](https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united-a-d9a5b4d4-074e-45d2-98d3-51eb666d2e45#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel](https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel-a-10a3bd5b-fd64-49dc-b196-cfd2be3ae32f#ref=rss)
+* [https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik](https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik-a-1970b170-36b3-47c5-94d6-7ab117bb49ac#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel](https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel-a-10a3bd5b-fd64-49dc-b196-cfd2be3ae32f#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
+### chicago
+
+* [https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik](https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik-a-1970b170-36b3-47c5-94d6-7ab117bb49ac#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik](https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik-a-1970b170-36b3-47c5-94d6-7ab117bb49ac#ref=rss)
+### politik
+
+* [https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik](https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik-a-1970b170-36b3-47c5-94d6-7ab117bb49ac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik](https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik-a-7cc7aa23-e2a0-4305-b324-d2d699f6b786#ref=rss)
+### hedgefondsmanager
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus](https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus-a-f39c3253-3fca-43fa-8619-bbedc4e4690d#ref=rss)
+### ray
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus](https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus-a-f39c3253-3fca-43fa-8619-bbedc4e4690d#ref=rss)
+### dalio
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus](https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus-a-f39c3253-3fca-43fa-8619-bbedc4e4690d#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus](https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus-a-f39c3253-3fca-43fa-8619-bbedc4e4690d#ref=rss)
+* [https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie](https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie-a-439e529f-4a44-4375-b88b-c7d7cd382d97#ref=rss)
+### finnove
+
+* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
+### putensen
+
+* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
+### talissa
+
+* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
+### hackbarth
+
+* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
+### 33000
+
+* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
+### meilen
+
+* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
+### meer
+
+* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
+### davon
+
+* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken](https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken-a-f65db9a7-8eaf-46cd-9632-03aeac4ffab1#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung](https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung-a-e3f24095-ae5e-4453-9f4d-68a42c6909c8#ref=rss)
+### eigene
+
+* [https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung](https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung-a-e3f24095-ae5e-4453-9f4d-68a42c6909c8#ref=rss)
+### graham
+
+* [https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt](https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt-a-92411c4f-82bf-446f-bf2f-f6bcb02d005f#ref=rss)
+### greene
+
+* [https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt](https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt-a-92411c4f-82bf-446f-bf2f-f6bcb02d005f#ref=rss)
+### wolf
+
+* [https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt](https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt-a-92411c4f-82bf-446f-bf2f-f6bcb02d005f#ref=rss)
+### tanzt
+
+* [https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt](https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt-a-92411c4f-82bf-446f-bf2f-f6bcb02d005f#ref=rss)
+### 73
+
+* [https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt](https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt-a-92411c4f-82bf-446f-bf2f-f6bcb02d005f#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/afd-in-nordrhein-westfalen-bestaetigt-zwei-weitere-todesfaelle-von-politikern-vor-kommunalwahl](https://www.spiegel.de/politik/deutschland/afd-in-nordrhein-westfalen-bestaetigt-zwei-weitere-todesfaelle-von-politikern-vor-kommunalwahl-a-408b417a-f112-4a82-83f7-6b5d9c0072c6#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/politik/deutschland/afd-in-nordrhein-westfalen-bestaetigt-zwei-weitere-todesfaelle-von-politikern-vor-kommunalwahl](https://www.spiegel.de/politik/deutschland/afd-in-nordrhein-westfalen-bestaetigt-zwei-weitere-todesfaelle-von-politikern-vor-kommunalwahl-a-408b417a-f112-4a82-83f7-6b5d9c0072c6#ref=rss)
+### todesfälle
+
+* [https://www.spiegel.de/politik/deutschland/afd-in-nordrhein-westfalen-bestaetigt-zwei-weitere-todesfaelle-von-politikern-vor-kommunalwahl](https://www.spiegel.de/politik/deutschland/afd-in-nordrhein-westfalen-bestaetigt-zwei-weitere-todesfaelle-von-politikern-vor-kommunalwahl-a-408b417a-f112-4a82-83f7-6b5d9c0072c6#ref=rss)
+### gefährlichen
+
+* [https://www.spiegel.de/gesundheit/diagnose/ehec-mecklenburg-vorpommern-meldet-fuenf-weitere-faelle-der-gefaehrlichen-keime](https://www.spiegel.de/gesundheit/diagnose/ehec-mecklenburg-vorpommern-meldet-fuenf-weitere-faelle-der-gefaehrlichen-keime-a-f4f6a1ff-3d35-4ad8-a128-058c06942b96#ref=rss)
+* [https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken](https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken-a-f65db9a7-8eaf-46cd-9632-03aeac4ffab1#ref=rss)
+### robert
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik](https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik-a-7cc7aa23-e2a0-4305-b324-d2d699f6b786#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik](https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik-a-7cc7aa23-e2a0-4305-b324-d2d699f6b786#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik](https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik-a-7cc7aa23-e2a0-4305-b324-d2d699f6b786#ref=rss)
+### world
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
+### liberty
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
+### token
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
+### handelstag
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
+### gut
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
 ### us
 
-* [https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche](https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche-a-b0505280-442a-46cf-bc8e-4340990daab0#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
 ### open
 
-* [https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche](https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche-a-b0505280-442a-46cf-bc8e-4340990daab0#ref=rss)
-### coco
+* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
+### jannik
 
-* [https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche](https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche-a-b0505280-442a-46cf-bc8e-4340990daab0#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
+### sinner
+
+* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
 ### alexander
 
-* [https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche](https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche-a-b0505280-442a-46cf-bc8e-4340990daab0#ref=rss)
-### fünf
+* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
+### bublik
 
-* [https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche](https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche-a-b0505280-442a-46cf-bc8e-4340990daab0#ref=rss)
-### erkenntnisse
+* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
+### kredit
 
-* [https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche](https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche-a-b0505280-442a-46cf-bc8e-4340990daab0#ref=rss)
-### woche
+* [https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken](https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken-a-f65db9a7-8eaf-46cd-9632-03aeac4ffab1#ref=rss)
+### internet
 
-* [https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche](https://www.spiegel.de/sport/tennis/us-open-coco-gauffs-aufschlag-und-alexander-zverevs-krise-fuenf-erkenntnisse-aus-der-ersten-woche-a-b0505280-442a-46cf-bc8e-4340990daab0#ref=rss)
-### charité
+* [https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken](https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken-a-f65db9a7-8eaf-46cd-9632-03aeac4ffab1#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/google-deutsches-ehepaar-klagt-wegen-verbreitung-geklauter-nacktbilder](https://www.spiegel.de/netzwelt/web/google-deutsches-ehepaar-klagt-wegen-verbreitung-geklauter-nacktbilder-a-7e5f648d-da53-4c3c-bbf0-71d7d29a88a5#ref=rss)
+### nick
 
-* [https://www.spiegel.de/start/berlin-charite-plant-stellenabbau-und-weniger-studienplaetze](https://www.spiegel.de/start/berlin-charite-plant-stellenabbau-und-weniger-studienplaetze-a-49b77980-e0bb-4dbb-a79a-645132a223e7#ref=rss)
-### plant
+* [https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united](https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united-a-d9a5b4d4-074e-45d2-98d3-51eb666d2e45#ref=rss)
+### woltemade
 
-* [https://www.spiegel.de/start/berlin-charite-plant-stellenabbau-und-weniger-studienplaetze](https://www.spiegel.de/start/berlin-charite-plant-stellenabbau-und-weniger-studienplaetze-a-49b77980-e0bb-4dbb-a79a-645132a223e7#ref=rss)
-### weniger
+* [https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united](https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united-a-d9a5b4d4-074e-45d2-98d3-51eb666d2e45#ref=rss)
+### vfb
 
-* [https://www.spiegel.de/start/berlin-charite-plant-stellenabbau-und-weniger-studienplaetze](https://www.spiegel.de/start/berlin-charite-plant-stellenabbau-und-weniger-studienplaetze-a-49b77980-e0bb-4dbb-a79a-645132a223e7#ref=rss)
-### studienplätze
+* [https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united](https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united-a-d9a5b4d4-074e-45d2-98d3-51eb666d2e45#ref=rss)
+### stuttgart
 
-* [https://www.spiegel.de/start/berlin-charite-plant-stellenabbau-und-weniger-studienplaetze](https://www.spiegel.de/start/berlin-charite-plant-stellenabbau-und-weniger-studienplaetze-a-49b77980-e0bb-4dbb-a79a-645132a223e7#ref=rss)
-### berliner
+* [https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united](https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united-a-d9a5b4d4-074e-45d2-98d3-51eb666d2e45#ref=rss)
+### newcastle
 
-* [https://www.spiegel.de/start/berlin-charite-plant-stellenabbau-und-weniger-studienplaetze](https://www.spiegel.de/start/berlin-charite-plant-stellenabbau-und-weniger-studienplaetze-a-49b77980-e0bb-4dbb-a79a-645132a223e7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/eckhard-cordes-warum-der-manager-bei-lufthansa-nicht-mitfliegen-durfte](https://www.spiegel.de/wirtschaft/unternehmen/eckhard-cordes-warum-der-manager-bei-lufthansa-nicht-mitfliegen-durfte-a-4cc01c65-58b3-4878-9821-c9356411c3aa#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united](https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united-a-d9a5b4d4-074e-45d2-98d3-51eb666d2e45#ref=rss)
+### united
+
+* [https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united](https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united-a-d9a5b4d4-074e-45d2-98d3-51eb666d2e45#ref=rss)
+### belgien
+
+* [https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen](https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen-a-be998718-6005-4c54-bccd-ace4f873d6ba#ref=rss)
+### gloriasophie
+
+* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht-a-4801fd58-6b5f-47ae-8b64-ec14e31e62eb#ref=rss)
+### burkandt
+
+* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht-a-4801fd58-6b5f-47ae-8b64-ec14e31e62eb#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht-a-4801fd58-6b5f-47ae-8b64-ec14e31e62eb#ref=rss)
+### markus
+
+* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht-a-4801fd58-6b5f-47ae-8b64-ec14e31e62eb#ref=rss)
 ### söder
 
-* [https://www.spiegel.de/politik/deutschland/erbschaftssteuer-friedrich-merz-lehnt-reformidee-von-markus-soeder-ab](https://www.spiegel.de/politik/deutschland/erbschaftssteuer-friedrich-merz-lehnt-reformidee-von-markus-soeder-ab-a-e9d9414f-b47a-4ee9-8d41-ee07b3087c8a#ref=rss)
-### wanderer
+* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht-a-4801fd58-6b5f-47ae-8b64-ec14e31e62eb#ref=rss)
+### google
 
-* [https://www.spiegel.de/panorama/oesterreich-wanderer-stirbt-nach-zusammenprall-mit-aufgeschreckten-kuehen](https://www.spiegel.de/panorama/oesterreich-wanderer-stirbt-nach-zusammenprall-mit-aufgeschreckten-kuehen-a-801a19dc-1579-4e9f-859d-5c6f95630fb7#ref=rss)
-### eckhard
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/eckhard-cordes-warum-der-manager-bei-lufthansa-nicht-mitfliegen-durfte](https://www.spiegel.de/wirtschaft/unternehmen/eckhard-cordes-warum-der-manager-bei-lufthansa-nicht-mitfliegen-durfte-a-4cc01c65-58b3-4878-9821-c9356411c3aa#ref=rss)
-### cordes
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/eckhard-cordes-warum-der-manager-bei-lufthansa-nicht-mitfliegen-durfte](https://www.spiegel.de/wirtschaft/unternehmen/eckhard-cordes-warum-der-manager-bei-lufthansa-nicht-mitfliegen-durfte-a-4cc01c65-58b3-4878-9821-c9356411c3aa#ref=rss)
-### camilla
-
-* [https://www.spiegel.de/panorama/leute/koenigin-camilla-wehrte-als-jugendliche-offenbar-einen-angreifer-mit-ihrem-schuh-ab](https://www.spiegel.de/panorama/leute/koenigin-camilla-wehrte-als-jugendliche-offenbar-einen-angreifer-mit-ihrem-schuh-ab-a-0bd54edb-f9ae-48bf-8434-b9541a722136#ref=rss)
-### schuh
-
-* [https://www.spiegel.de/panorama/leute/koenigin-camilla-wehrte-als-jugendliche-offenbar-einen-angreifer-mit-ihrem-schuh-ab](https://www.spiegel.de/panorama/leute/koenigin-camilla-wehrte-als-jugendliche-offenbar-einen-angreifer-mit-ihrem-schuh-ab-a-0bd54edb-f9ae-48bf-8434-b9541a722136#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/google-deutsches-ehepaar-klagt-wegen-verbreitung-geklauter-nacktbilder](https://www.spiegel.de/netzwelt/web/google-deutsches-ehepaar-klagt-wegen-verbreitung-geklauter-nacktbilder-a-7e5f648d-da53-4c3c-bbf0-71d7d29a88a5#ref=rss)
 
