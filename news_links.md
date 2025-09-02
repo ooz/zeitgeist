@@ -4,402 +4,393 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus](https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus-a-dfe3295a-1e5c-46a8-8483-1341457924fc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant](https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant-a-a4307e3f-136f-491d-bf54-922072c3ebca#ref=rss)
-* [https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel](https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel-a-10a3bd5b-fd64-49dc-b196-cfd2be3ae32f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-hat-3-8-millionen-mehr-einwohner-als-1990](https://www.spiegel.de/panorama/gesellschaft/deutschland-hat-3-8-millionen-mehr-einwohner-als-1990-a-e12c0b7b-4448-4ef1-a754-11d6af054b22#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik](https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik-a-7cc7aa23-e2a0-4305-b324-d2d699f6b786#ref=rss)
-* [https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken](https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken-a-f65db9a7-8eaf-46cd-9632-03aeac4ffab1#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik](https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik-a-1970b170-36b3-47c5-94d6-7ab117bb49ac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus](https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus-a-f39c3253-3fca-43fa-8619-bbedc4e4690d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
-* [https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie](https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie-a-439e529f-4a44-4375-b88b-c7d7cd382d97#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-europas-zoll-deal-mit-der-us-regierung-wackelt](https://www.spiegel.de/wirtschaft/donald-trump-europas-zoll-deal-mit-der-us-regierung-wackelt-a-4892df2a-b452-4889-b1c2-5acbf45265df#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-strafzoelle-der-regierung-von-donald-trump-droht-eine-rueckzahlung-von-100-milliarden-dollar](https://www.spiegel.de/wirtschaft/us-strafzoelle-der-regierung-von-donald-trump-droht-eine-rueckzahlung-von-100-milliarden-dollar-a-d739073a-eed1-48f7-a843-5a4359b96fce#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast-a-4f8c38ed-e30e-430a-b884-2dfd15bace23#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-a-944979f6-8613-4563-9e9f-97878e5516d1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-einsatz-der-nationalgarde-in-los-angeles-ist-illegal-urteilt-ein-us-richter](https://www.spiegel.de/ausland/donald-trump-einsatz-der-nationalgarde-in-los-angeles-ist-illegal-urteilt-ein-us-richter-a-3625430f-5567-4b62-9f2d-814547659455#ref=rss)
+* [https://www.spiegel.de/kultur/kino/woody-allen-lobt-donald-trump-wenn-schauspieler-politik-machen-und-andersrum](https://www.spiegel.de/kultur/kino/woody-allen-lobt-donald-trump-wenn-schauspieler-politik-machen-und-andersrum-a-0152afec-af9e-4721-b0c6-c6bc5ee343ec#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus](https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus-a-f39c3253-3fca-43fa-8619-bbedc4e4690d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
-* [https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie](https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie-a-439e529f-4a44-4375-b88b-c7d7cd382d97#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen](https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen-a-be998718-6005-4c54-bccd-ace4f873d6ba#ref=rss)
-### viele
-
-* [https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule](https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule-a-e9fcde3c-f8e6-410a-83a9-ec63376e04e5#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
-* [https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung](https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung-a-e3f24095-ae5e-4453-9f4d-68a42c6909c8#ref=rss)
-* [https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt](https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt-a-92411c4f-82bf-446f-bf2f-f6bcb02d005f#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik](https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik-a-1970b170-36b3-47c5-94d6-7ab117bb49ac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus](https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus-a-f39c3253-3fca-43fa-8619-bbedc4e4690d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen](https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen-a-be998718-6005-4c54-bccd-ace4f873d6ba#ref=rss)
-### du
-
-* [https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus](https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus-a-dfe3295a-1e5c-46a8-8483-1341457924fc#ref=rss)
-* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus](https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus-a-dfe3295a-1e5c-46a8-8483-1341457924fc#ref=rss)
-* [https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt](https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt-a-92411c4f-82bf-446f-bf2f-f6bcb02d005f#ref=rss)
-### bürgermeister
-
-* [https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest](https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest-a-47b92601-8079-49e5-86e3-df071a007e4c#ref=rss)
-* [https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik](https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik-a-1970b170-36b3-47c5-94d6-7ab117bb49ac#ref=rss)
-### spd
-
-* [https://www.spiegel.de/wirtschaft/rente-wie-die-spd-rentenpolitik-ausgerechnet-die-arbeiter-benachteiligt-meinung](https://www.spiegel.de/wirtschaft/rente-wie-die-spd-rentenpolitik-ausgerechnet-die-arbeiter-benachteiligt-meinung-a-30f47f02-6c62-47f3-8a66-fe53146a0706#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen-a-c2f0f365-458a-4a6d-9238-a3d5bc6b0c6d#ref=rss)
-### finden
-
-* [https://www.spiegel.de/backstage/spielen-sie-viererkette-connections-auf-deutsch](https://www.spiegel.de/backstage/spielen-sie-viererkette-connections-auf-deutsch-a-42ec7f76-b1d9-4a49-950d-932471bd9423#ref=rss)
-* [https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung](https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung-a-e3f24095-ae5e-4453-9f4d-68a42c6909c8#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/google-deutsches-ehepaar-klagt-wegen-verbreitung-geklauter-nacktbilder](https://www.spiegel.de/netzwelt/web/google-deutsches-ehepaar-klagt-wegen-verbreitung-geklauter-nacktbilder-a-7e5f648d-da53-4c3c-bbf0-71d7d29a88a5#ref=rss)
-### frau
-
-* [https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen-a-c2f0f365-458a-4a6d-9238-a3d5bc6b0c6d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja](https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja-a-2165c253-bb93-4e26-a517-1490bdee9e88#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/eldena-mann-soll-bei-indian-spirit-festival-mehrfach-auf-polizistin-eingeschlagen-haben](https://www.spiegel.de/panorama/justiz/eldena-mann-soll-bei-indian-spirit-festival-mehrfach-auf-polizistin-eingeschlagen-haben-a-f0996a4d-760f-4704-9711-f30af962dd79#ref=rss)
-### partei
-
-* [https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja](https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja-a-2165c253-bb93-4e26-a517-1490bdee9e88#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-in-nordrhein-westfalen-bestaetigt-zwei-weitere-todesfaelle-von-politikern-vor-kommunalwahl](https://www.spiegel.de/politik/deutschland/afd-in-nordrhein-westfalen-bestaetigt-zwei-weitere-todesfaelle-von-politikern-vor-kommunalwahl-a-408b417a-f112-4a82-83f7-6b5d9c0072c6#ref=rss)
-### einwohner
-
-* [https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik](https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik-a-1970b170-36b3-47c5-94d6-7ab117bb49ac#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-hat-3-8-millionen-mehr-einwohner-als-1990](https://www.spiegel.de/panorama/gesellschaft/deutschland-hat-3-8-millionen-mehr-einwohner-als-1990-a-e12c0b7b-4448-4ef1-a754-11d6af054b22#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus](https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus-a-f39c3253-3fca-43fa-8619-bbedc4e4690d#ref=rss)
-* [https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung](https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung-a-e3f24095-ae5e-4453-9f4d-68a42c6909c8#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-hat-3-8-millionen-mehr-einwohner-als-1990](https://www.spiegel.de/panorama/gesellschaft/deutschland-hat-3-8-millionen-mehr-einwohner-als-1990-a-e12c0b7b-4448-4ef1-a754-11d6af054b22#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik](https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik-a-7cc7aa23-e2a0-4305-b324-d2d699f6b786#ref=rss)
-* [https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie](https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie-a-439e529f-4a44-4375-b88b-c7d7cd382d97#ref=rss)
-### allem
-
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-hat-3-8-millionen-mehr-einwohner-als-1990](https://www.spiegel.de/panorama/gesellschaft/deutschland-hat-3-8-millionen-mehr-einwohner-als-1990-a-e12c0b7b-4448-4ef1-a754-11d6af054b22#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht-a-4801fd58-6b5f-47ae-8b64-ec14e31e62eb#ref=rss)
-### panama
-
-* [https://www.spiegel.de/wissenschaft/natur/golf-von-panama-meeresstroemung-erstmals-fast-voellig-ausgefallen](https://www.spiegel.de/wissenschaft/natur/golf-von-panama-meeresstroemung-erstmals-fast-voellig-ausgefallen-a-43310733-81d4-4ae3-95c2-42085439a4f2#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/wissenschaft/natur/golf-von-panama-meeresstroemung-erstmals-fast-voellig-ausgefallen](https://www.spiegel.de/wissenschaft/natur/golf-von-panama-meeresstroemung-erstmals-fast-voellig-ausgefallen-a-43310733-81d4-4ae3-95c2-42085439a4f2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
-### sky
-
-* [https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus](https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus-a-dfe3295a-1e5c-46a8-8483-1341457924fc#ref=rss)
-### mont
-
-* [https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus](https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus-a-dfe3295a-1e5c-46a8-8483-1341457924fc#ref=rss)
-### möchte
-
-* [https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus](https://www.spiegel.de/kultur/tv/sky-du-mont-spricht-sich-fuer-sterbehilfe-aus-a-dfe3295a-1e5c-46a8-8483-1341457924fc#ref=rss)
-### hebron
-
-* [https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest](https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest-a-47b92601-8079-49e5-86e3-df071a007e4c#ref=rss)
-### israelische
-
-* [https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest](https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest-a-47b92601-8079-49e5-86e3-df071a007e4c#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen](https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen-a-be998718-6005-4c54-bccd-ace4f873d6ba#ref=rss)
-### westjordanland
-
-* [https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest](https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest-a-47b92601-8079-49e5-86e3-df071a007e4c#ref=rss)
-### nächsten
-
-* [https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest](https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest-a-47b92601-8079-49e5-86e3-df071a007e4c#ref=rss)
-* [https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule](https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule-a-e9fcde3c-f8e6-410a-83a9-ec63376e04e5#ref=rss)
-### schritt
-
-* [https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest](https://www.spiegel.de/ausland/hebron-israelische-soldaten-nehmen-buergermeister-im-westjordanland-fest-a-47b92601-8079-49e5-86e3-df071a007e4c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united](https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united-a-d9a5b4d4-074e-45d2-98d3-51eb666d2e45#ref=rss)
-### meinung
-
-* [https://www.spiegel.de/wirtschaft/rente-wie-die-spd-rentenpolitik-ausgerechnet-die-arbeiter-benachteiligt-meinung](https://www.spiegel.de/wirtschaft/rente-wie-die-spd-rentenpolitik-ausgerechnet-die-arbeiter-benachteiligt-meinung-a-30f47f02-6c62-47f3-8a66-fe53146a0706#ref=rss)
-* [https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung](https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung-a-e3f24095-ae5e-4453-9f4d-68a42c6909c8#ref=rss)
-### längere
-
-* [https://www.spiegel.de/wirtschaft/rente-wie-die-spd-rentenpolitik-ausgerechnet-die-arbeiter-benachteiligt-meinung](https://www.spiegel.de/wirtschaft/rente-wie-die-spd-rentenpolitik-ausgerechnet-die-arbeiter-benachteiligt-meinung-a-30f47f02-6c62-47f3-8a66-fe53146a0706#ref=rss)
-* [https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule](https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule-a-e9fcde3c-f8e6-410a-83a9-ec63376e04e5#ref=rss)
-### studierende
-
-* [https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule](https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule-a-e9fcde3c-f8e6-410a-83a9-ec63376e04e5#ref=rss)
-### stunde
-
-* [https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule](https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule-a-e9fcde3c-f8e6-410a-83a9-ec63376e04e5#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule](https://www.spiegel.de/start/wohnungsnot-viele-studierende-brauchen-eine-stunde-oder-laenger-zur-hochschule-a-e9fcde3c-f8e6-410a-83a9-ec63376e04e5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gerhard-delling-christina-block-partner-weist-vorwuerfe-in-prozess-zurueck](https://www.spiegel.de/panorama/justiz/gerhard-delling-christina-block-partner-weist-vorwuerfe-in-prozess-zurueck-a-ac8dd030-67e4-4d6a-bf9b-2069eb3a21d2#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant](https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant-a-a4307e3f-136f-491d-bf54-922072c3ebca#ref=rss)
-### russland
-
-* [https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant](https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant-a-a4307e3f-136f-491d-bf54-922072c3ebca#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant](https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant-a-a4307e3f-136f-491d-bf54-922072c3ebca#ref=rss)
-### pipeline
-
-* [https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant](https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant-a-a4307e3f-136f-491d-bf54-922072c3ebca#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant](https://www.spiegel.de/wirtschaft/china-will-mehr-gas-aus-russland-kaufen-neue-pipeline-geplant-a-a4307e3f-136f-491d-bf54-922072c3ebca#ref=rss)
-* [https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie](https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie-a-439e529f-4a44-4375-b88b-c7d7cd382d97#ref=rss)
-### viererkette
-
-* [https://www.spiegel.de/backstage/spielen-sie-viererkette-connections-auf-deutsch](https://www.spiegel.de/backstage/spielen-sie-viererkette-connections-auf-deutsch-a-42ec7f76-b1d9-4a49-950d-932471bd9423#ref=rss)
-### prüft
-
-* [https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor](https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor-a-044db9f1-d7b7-47e9-85da-7d7ed1cbedca#ref=rss)
-### verkauf
-
-* [https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor](https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor-a-044db9f1-d7b7-47e9-85da-7d7ed1cbedca#ref=rss)
-### chinesischen
-
-* [https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor](https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor-a-044db9f1-d7b7-47e9-85da-7d7ed1cbedca#ref=rss)
-### investor
-
-* [https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor](https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor-a-044db9f1-d7b7-47e9-85da-7d7ed1cbedca#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor](https://www.spiegel.de/wirtschaft/mediamarktsaturn-bundesregierung-prueft-kauf-von-ceconomy-ag-an-chinesischen-investor-a-044db9f1-d7b7-47e9-85da-7d7ed1cbedca#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen](https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen-a-be998718-6005-4c54-bccd-ace4f873d6ba#ref=rss)
-### gerhard
-
-* [https://www.spiegel.de/panorama/justiz/gerhard-delling-christina-block-partner-weist-vorwuerfe-in-prozess-zurueck](https://www.spiegel.de/panorama/justiz/gerhard-delling-christina-block-partner-weist-vorwuerfe-in-prozess-zurueck-a-ac8dd030-67e4-4d6a-bf9b-2069eb3a21d2#ref=rss)
-### delling
-
-* [https://www.spiegel.de/panorama/justiz/gerhard-delling-christina-block-partner-weist-vorwuerfe-in-prozess-zurueck](https://www.spiegel.de/panorama/justiz/gerhard-delling-christina-block-partner-weist-vorwuerfe-in-prozess-zurueck-a-ac8dd030-67e4-4d6a-bf9b-2069eb3a21d2#ref=rss)
-### bergisch
-
-* [https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen-a-c2f0f365-458a-4a6d-9238-a3d5bc6b0c6d#ref=rss)
-### gladbach
-
-* [https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen-a-c2f0f365-458a-4a6d-9238-a3d5bc6b0c6d#ref=rss)
-### fraktionsbüros
-
-* [https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen-a-c2f0f365-458a-4a6d-9238-a3d5bc6b0c6d#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen-a-c2f0f365-458a-4a6d-9238-a3d5bc6b0c6d#ref=rss)
-### angegriffen
-
-* [https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/bergisch-gladbach-angriffe-auf-fraktionsbueros-von-spd-und-gruenen-a-c2f0f365-458a-4a6d-9238-a3d5bc6b0c6d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/eldena-mann-soll-bei-indian-spirit-festival-mehrfach-auf-polizistin-eingeschlagen-haben](https://www.spiegel.de/panorama/justiz/eldena-mann-soll-bei-indian-spirit-festival-mehrfach-auf-polizistin-eingeschlagen-haben-a-f0996a4d-760f-4704-9711-f30af962dd79#ref=rss)
-### dawid
-
-* [https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja](https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja-a-2165c253-bb93-4e26-a517-1490bdee9e88#ref=rss)
-### szóstak
-
-* [https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja](https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja-a-2165c253-bb93-4e26-a517-1490bdee9e88#ref=rss)
-### politiker
-
-* [https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja](https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja-a-2165c253-bb93-4e26-a517-1490bdee9e88#ref=rss)
-### polen
-
-* [https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja](https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja-a-2165c253-bb93-4e26-a517-1490bdee9e88#ref=rss)
-### konfederacja
-
-* [https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja](https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja-a-2165c253-bb93-4e26-a517-1490bdee9e88#ref=rss)
-### junge
-
-* [https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja](https://www.spiegel.de/panorama/leute/dawid-szostak-politiker-aus-polen-liebt-intergeschlechtliche-frau-und-verlaesst-rechtsextreme-partei-konfederacja-a-2165c253-bb93-4e26-a517-1490bdee9e88#ref=rss)
-* [https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung](https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung-a-e3f24095-ae5e-4453-9f4d-68a42c6909c8#ref=rss)
-### wien
-
-* [https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel](https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel-a-10a3bd5b-fd64-49dc-b196-cfd2be3ae32f#ref=rss)
-### drittel
-
-* [https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel](https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel-a-10a3bd5b-fd64-49dc-b196-cfd2be3ae32f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik](https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik-a-7cc7aa23-e2a0-4305-b324-d2d699f6b786#ref=rss)
-### eigentlich
-
-* [https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel](https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel-a-10a3bd5b-fd64-49dc-b196-cfd2be3ae32f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united](https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united-a-d9a5b4d4-074e-45d2-98d3-51eb666d2e45#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel](https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel-a-10a3bd5b-fd64-49dc-b196-cfd2be3ae32f#ref=rss)
-* [https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik](https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik-a-1970b170-36b3-47c5-94d6-7ab117bb49ac#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel](https://www.spiegel.de/auto/wien-verteuert-oepnv-tickets-um-nahezu-ein-drittel-a-10a3bd5b-fd64-49dc-b196-cfd2be3ae32f#ref=rss)
-* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
-### chicago
-
-* [https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik](https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik-a-1970b170-36b3-47c5-94d6-7ab117bb49ac#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik](https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik-a-1970b170-36b3-47c5-94d6-7ab117bb49ac#ref=rss)
-### politik
-
-* [https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik](https://www.spiegel.de/ausland/chicago-tausende-demonstrieren-gegen-donald-trumps-politik-a-1970b170-36b3-47c5-94d6-7ab117bb49ac#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik](https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik-a-7cc7aa23-e2a0-4305-b324-d2d699f6b786#ref=rss)
-### hedgefondsmanager
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus](https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus-a-f39c3253-3fca-43fa-8619-bbedc4e4690d#ref=rss)
-### ray
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus](https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus-a-f39c3253-3fca-43fa-8619-bbedc4e4690d#ref=rss)
-### dalio
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus](https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus-a-f39c3253-3fca-43fa-8619-bbedc4e4690d#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus](https://www.spiegel.de/wirtschaft/donald-trump-hedgefonds-manager-ray-dalio-sagt-den-usa-eine-finanzkrise-voraus-a-f39c3253-3fca-43fa-8619-bbedc4e4690d#ref=rss)
-* [https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie](https://www.spiegel.de/ausland/usa-angriff-auf-die-briefwahl-donald-trump-saegt-an-grundpfeilern-der-us-demokratie-a-439e529f-4a44-4375-b88b-c7d7cd382d97#ref=rss)
-### finnove
-
-* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
-### putensen
-
-* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
-### talissa
-
-* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
-### hackbarth
-
-* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
-### 33000
-
-* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
-### meilen
-
-* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
-### meer
-
-* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
-### davon
-
-* [https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer](https://www.spiegel.de/reise/fernweh/weltumsegler-paar-finn-ove-putensen-und-talissa-hackbarth-33-000-meilen-ueber-das-meer-a-11529134-fca0-4911-9298-e145356291e9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken](https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken-a-f65db9a7-8eaf-46cd-9632-03aeac4ffab1#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung](https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung-a-e3f24095-ae5e-4453-9f4d-68a42c6909c8#ref=rss)
-### eigene
-
-* [https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung](https://www.spiegel.de/start/berufseinstieg-unternehmen-ruinieren-die-zukunft-junger-leute-und-damit-auch-ihre-eigene-meinung-a-e3f24095-ae5e-4453-9f4d-68a42c6909c8#ref=rss)
-### graham
-
-* [https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt](https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt-a-92411c4f-82bf-446f-bf2f-f6bcb02d005f#ref=rss)
-### greene
-
-* [https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt](https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt-a-92411c4f-82bf-446f-bf2f-f6bcb02d005f#ref=rss)
-### wolf
-
-* [https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt](https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt-a-92411c4f-82bf-446f-bf2f-f6bcb02d005f#ref=rss)
-### tanzt
-
-* [https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt](https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt-a-92411c4f-82bf-446f-bf2f-f6bcb02d005f#ref=rss)
-### 73
-
-* [https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt](https://www.spiegel.de/kultur/kino/graham-greene-ist-tot-schauspieler-aus-der-mit-dem-wolf-tanzt-wurde-73-jahre-alt-a-92411c4f-82bf-446f-bf2f-f6bcb02d005f#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-in-nordrhein-westfalen-bestaetigt-zwei-weitere-todesfaelle-von-politikern-vor-kommunalwahl](https://www.spiegel.de/politik/deutschland/afd-in-nordrhein-westfalen-bestaetigt-zwei-weitere-todesfaelle-von-politikern-vor-kommunalwahl-a-408b417a-f112-4a82-83f7-6b5d9c0072c6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-europas-zoll-deal-mit-der-us-regierung-wackelt](https://www.spiegel.de/wirtschaft/donald-trump-europas-zoll-deal-mit-der-us-regierung-wackelt-a-4892df2a-b452-4889-b1c2-5acbf45265df#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-strafzoelle-der-regierung-von-donald-trump-droht-eine-rueckzahlung-von-100-milliarden-dollar](https://www.spiegel.de/wirtschaft/us-strafzoelle-der-regierung-von-donald-trump-droht-eine-rueckzahlung-von-100-milliarden-dollar-a-d739073a-eed1-48f7-a843-5a4359b96fce#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast-a-4f8c38ed-e30e-430a-b884-2dfd15bace23#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-a-944979f6-8613-4563-9e9f-97878e5516d1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-einsatz-der-nationalgarde-in-los-angeles-ist-illegal-urteilt-ein-us-richter](https://www.spiegel.de/ausland/donald-trump-einsatz-der-nationalgarde-in-los-angeles-ist-illegal-urteilt-ein-us-richter-a-3625430f-5567-4b62-9f2d-814547659455#ref=rss)
+* [https://www.spiegel.de/kultur/kino/woody-allen-lobt-donald-trump-wenn-schauspieler-politik-machen-und-andersrum](https://www.spiegel.de/kultur/kino/woody-allen-lobt-donald-trump-wenn-schauspieler-politik-machen-und-andersrum-a-0152afec-af9e-4721-b0c6-c6bc5ee343ec#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/politik/deutschland/afd-in-nordrhein-westfalen-bestaetigt-zwei-weitere-todesfaelle-von-politikern-vor-kommunalwahl](https://www.spiegel.de/politik/deutschland/afd-in-nordrhein-westfalen-bestaetigt-zwei-weitere-todesfaelle-von-politikern-vor-kommunalwahl-a-408b417a-f112-4a82-83f7-6b5d9c0072c6#ref=rss)
-### todesfälle
+* [https://www.spiegel.de/sport/jessica-pegula-zieht-ins-halbfinale-der-us-open-ein](https://www.spiegel.de/sport/jessica-pegula-zieht-ins-halbfinale-der-us-open-ein-a-434669a0-b02a-4f82-ac78-23cc8e4c63d5#ref=rss)
+* [https://www.spiegel.de/panorama/jena-in-thueringen-zwei-autofahrer-stoppen-falschfahrer-auf-a4](https://www.spiegel.de/panorama/jena-in-thueringen-zwei-autofahrer-stoppen-falschfahrer-auf-a4-a-0f61d96a-5766-4fe0-8f13-cdc624aa0dcc#ref=rss)
+* [https://www.spiegel.de/kultur/kino/gerard-depardieu-muss-erneut-vor-gericht-dieses-mal-wegen-vergewaltigung](https://www.spiegel.de/kultur/kino/gerard-depardieu-muss-erneut-vor-gericht-dieses-mal-wegen-vergewaltigung-a-ff846cff-0efb-4152-8b6e-71a5978aef95#ref=rss)
+### afghanistan
 
-* [https://www.spiegel.de/politik/deutschland/afd-in-nordrhein-westfalen-bestaetigt-zwei-weitere-todesfaelle-von-politikern-vor-kommunalwahl](https://www.spiegel.de/politik/deutschland/afd-in-nordrhein-westfalen-bestaetigt-zwei-weitere-todesfaelle-von-politikern-vor-kommunalwahl-a-408b417a-f112-4a82-83f7-6b5d9c0072c6#ref=rss)
-### gefährlichen
+* [https://www.spiegel.de/ausland/afghanistan-erdbeben-ueberrascht-menschen-im-schlaf-arzt-berichtet-aus-der-krisenregion](https://www.spiegel.de/ausland/afghanistan-erdbeben-ueberrascht-menschen-im-schlaf-arzt-berichtet-aus-der-krisenregion-a-8f1c5f95-2a9e-419d-a919-2b420161d437#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-alexander-dobrindt-ehrt-bundespolizisten-fuer-rettungsaktion-in-kabul](https://www.spiegel.de/politik/deutschland/afghanistan-alexander-dobrindt-ehrt-bundespolizisten-fuer-rettungsaktion-in-kabul-a-3945e7e0-d5a5-4da5-be6e-e41627123640#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bolsonaro-vor-gericht-hilferuf-aus-afghanistan-koalitionsstreit-ueber-deutschen-sozialstaat](https://www.spiegel.de/politik/deutschland/news-des-tages-bolsonaro-vor-gericht-hilferuf-aus-afghanistan-koalitionsstreit-ueber-deutschen-sozialstaat-a-c64d4e29-e8c7-4ff5-985c-a12d9dfc72f4#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/gesundheit/diagnose/ehec-mecklenburg-vorpommern-meldet-fuenf-weitere-faelle-der-gefaehrlichen-keime](https://www.spiegel.de/gesundheit/diagnose/ehec-mecklenburg-vorpommern-meldet-fuenf-weitere-faelle-der-gefaehrlichen-keime-a-f4f6a1ff-3d35-4ad8-a128-058c06942b96#ref=rss)
-* [https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken](https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken-a-f65db9a7-8eaf-46cd-9632-03aeac4ffab1#ref=rss)
-### robert
+* [https://www.spiegel.de/wirtschaft/us-strafzoelle-der-regierung-von-donald-trump-droht-eine-rueckzahlung-von-100-milliarden-dollar](https://www.spiegel.de/wirtschaft/us-strafzoelle-der-regierung-von-donald-trump-droht-eine-rueckzahlung-von-100-milliarden-dollar-a-d739073a-eed1-48f7-a843-5a4359b96fce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bolsonaro-vor-gericht-hilferuf-aus-afghanistan-koalitionsstreit-ueber-deutschen-sozialstaat](https://www.spiegel.de/politik/deutschland/news-des-tages-bolsonaro-vor-gericht-hilferuf-aus-afghanistan-koalitionsstreit-ueber-deutschen-sozialstaat-a-c64d4e29-e8c7-4ff5-985c-a12d9dfc72f4#ref=rss)
+* [https://www.spiegel.de/kultur/kino/gerard-depardieu-muss-erneut-vor-gericht-dieses-mal-wegen-vergewaltigung](https://www.spiegel.de/kultur/kino/gerard-depardieu-muss-erneut-vor-gericht-dieses-mal-wegen-vergewaltigung-a-ff846cff-0efb-4152-8b6e-71a5978aef95#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik](https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik-a-7cc7aa23-e2a0-4305-b324-d2d699f6b786#ref=rss)
-### habeck
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast-a-4f8c38ed-e30e-430a-b884-2dfd15bace23#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-a-944979f6-8613-4563-9e9f-97878e5516d1#ref=rss)
+### putin
 
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik](https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik-a-7cc7aa23-e2a0-4305-b324-d2d699f6b786#ref=rss)
-### deutschen
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast-a-4f8c38ed-e30e-430a-b884-2dfd15bace23#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-a-944979f6-8613-4563-9e9f-97878e5516d1#ref=rss)
+### widersprüchliche
 
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik](https://www.spiegel.de/politik/deutschland/robert-habeck-mehr-als-ein-drittel-der-deutschen-wuenscht-sich-comeback-in-die-politik-a-7cc7aa23-e2a0-4305-b324-d2d699f6b786#ref=rss)
-### world
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast-a-4f8c38ed-e30e-430a-b884-2dfd15bace23#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-a-944979f6-8613-4563-9e9f-97878e5516d1#ref=rss)
+### beziehung
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
-### liberty
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast-a-4f8c38ed-e30e-430a-b884-2dfd15bace23#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-a-944979f6-8613-4563-9e9f-97878e5516d1#ref=rss)
+### pegula
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
-### token
+* [https://www.spiegel.de/sport/jessica-pegula-zieht-ins-halbfinale-der-us-open-ein](https://www.spiegel.de/sport/jessica-pegula-zieht-ins-halbfinale-der-us-open-ein-a-434669a0-b02a-4f82-ac78-23cc8e4c63d5#ref=rss)
+### berichtet
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
-### handelstag
+* [https://www.spiegel.de/ausland/israels-armee-beruft-weitere-reservisten-fuer-krieg-in-gaza-ein](https://www.spiegel.de/ausland/israels-armee-beruft-weitere-reservisten-fuer-krieg-in-gaza-ein-a-da3b51d3-5e76-4e4c-83fe-888f5e88d0ce#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-erdbeben-ueberrascht-menschen-im-schlaf-arzt-berichtet-aus-der-krisenregion](https://www.spiegel.de/ausland/afghanistan-erdbeben-ueberrascht-menschen-im-schlaf-arzt-berichtet-aus-der-krisenregion-a-8f1c5f95-2a9e-419d-a919-2b420161d437#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
-### gut
+* [https://www.spiegel.de/kultur/a-house-of-dynamite-fuerchterlich-ueberfordert-und-erschuetternd-hilflos](https://www.spiegel.de/kultur/a-house-of-dynamite-fuerchterlich-ueberfordert-und-erschuetternd-hilflos-a-7f9ac1b2-7c36-4064-8193-f8ecae3eec28#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-europas-zoll-deal-mit-der-us-regierung-wackelt](https://www.spiegel.de/wirtschaft/donald-trump-europas-zoll-deal-mit-der-us-regierung-wackelt-a-4892df2a-b452-4889-b1c2-5acbf45265df#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-strafzoelle-der-regierung-von-donald-trump-droht-eine-rueckzahlung-von-100-milliarden-dollar](https://www.spiegel.de/wirtschaft/us-strafzoelle-der-regierung-von-donald-trump-droht-eine-rueckzahlung-von-100-milliarden-dollar-a-d739073a-eed1-48f7-a843-5a4359b96fce#ref=rss)
+### land
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag](https://www.spiegel.de/wirtschaft/donald-trump-und-sein-world-liberty-token-verluste-am-ersten-handelstag-a-c46136e1-24dd-41a3-a955-acbec18666d6#ref=rss)
-* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jaguar-land-rover-hackerangriff-stoert-produktion-und-verkauf](https://www.spiegel.de/wirtschaft/jaguar-land-rover-hackerangriff-stoert-produktion-und-verkauf-a-24981d0f-f327-4900-ba4c-afe5e9419a42#ref=rss)
+* [https://www.spiegel.de/ausland/machtkampf-im-suedchinesischen-meer-wie-china-inseln-in-besitz-nimmt](https://www.spiegel.de/ausland/machtkampf-im-suedchinesischen-meer-wie-china-inseln-in-besitz-nimmt-a-4b543cb4-a099-49c0-b5d4-196f914a9320#ref=rss)
+### sozialstaat
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bolsonaro-vor-gericht-hilferuf-aus-afghanistan-koalitionsstreit-ueber-deutschen-sozialstaat](https://www.spiegel.de/politik/deutschland/news-des-tages-bolsonaro-vor-gericht-hilferuf-aus-afghanistan-koalitionsstreit-ueber-deutschen-sozialstaat-a-c64d4e29-e8c7-4ff5-985c-a12d9dfc72f4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-wie-die-sozialleistung-zum-schlachtfeld-der-ideologen-wurde](https://www.spiegel.de/wirtschaft/soziales/buergergeld-wie-die-sozialleistung-zum-schlachtfeld-der-ideologen-wurde-a-45f13c73-4241-4746-9938-dc1d96f42731#ref=rss)
+### deutz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutz-motorenbauer-kauft-drohnen-zulieferer-sobek](https://www.spiegel.de/wirtschaft/unternehmen/deutz-motorenbauer-kauft-drohnen-zulieferer-sobek-a-d66fb8d3-e6ee-4ad8-b8b6-826fbf2ddbb2#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast-a-4f8c38ed-e30e-430a-b884-2dfd15bace23#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-a-944979f6-8613-4563-9e9f-97878e5516d1#ref=rss)
+* [https://www.spiegel.de/auto/berlin-senat-schafft-einige-tempo-30-zonen-wieder-ab-weil-die-luft-dort-jetzt-sauber-genug-ist](https://www.spiegel.de/auto/berlin-senat-schafft-einige-tempo-30-zonen-wieder-ab-weil-die-luft-dort-jetzt-sauber-genug-ist-a-e8adc198-4a17-4a83-9a0b-a89c6e2c40d5#ref=rss)
+### jessica
+
+* [https://www.spiegel.de/sport/jessica-pegula-zieht-ins-halbfinale-der-us-open-ein](https://www.spiegel.de/sport/jessica-pegula-zieht-ins-halbfinale-der-us-open-ein-a-434669a0-b02a-4f82-ac78-23cc8e4c63d5#ref=rss)
 ### us
 
-* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
+* [https://www.spiegel.de/sport/jessica-pegula-zieht-ins-halbfinale-der-us-open-ein](https://www.spiegel.de/sport/jessica-pegula-zieht-ins-halbfinale-der-us-open-ein-a-434669a0-b02a-4f82-ac78-23cc8e4c63d5#ref=rss)
 ### open
 
-* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
-### jannik
+* [https://www.spiegel.de/sport/jessica-pegula-zieht-ins-halbfinale-der-us-open-ein](https://www.spiegel.de/sport/jessica-pegula-zieht-ins-halbfinale-der-us-open-ein-a-434669a0-b02a-4f82-ac78-23cc8e4c63d5#ref=rss)
+### erste
 
-* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
-### sinner
+* [https://www.spiegel.de/sport/jessica-pegula-zieht-ins-halbfinale-der-us-open-ein](https://www.spiegel.de/sport/jessica-pegula-zieht-ins-halbfinale-der-us-open-ein-a-434669a0-b02a-4f82-ac78-23cc8e4c63d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jaguar-land-rover-hackerangriff-stoert-produktion-und-verkauf](https://www.spiegel.de/wirtschaft/jaguar-land-rover-hackerangriff-stoert-produktion-und-verkauf-a-24981d0f-f327-4900-ba4c-afe5e9419a42#ref=rss)
+### fest
 
-* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
-### alexander
+* [https://www.spiegel.de/sport/jessica-pegula-zieht-ins-halbfinale-der-us-open-ein](https://www.spiegel.de/sport/jessica-pegula-zieht-ins-halbfinale-der-us-open-ein-a-434669a0-b02a-4f82-ac78-23cc8e4c63d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/berliner-zeitung-chefredakteur-tomasz-kurianowicz-geht-holger-friedrich-hat-bereits-neuen-chef](https://www.spiegel.de/wirtschaft/berliner-zeitung-chefredakteur-tomasz-kurianowicz-geht-holger-friedrich-hat-bereits-neuen-chef-a-319223b2-e0c7-4746-aa87-d388b8aa8191#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
-### bublik
+* [https://www.spiegel.de/ausland/israels-armee-beruft-weitere-reservisten-fuer-krieg-in-gaza-ein](https://www.spiegel.de/ausland/israels-armee-beruft-weitere-reservisten-fuer-krieg-in-gaza-ein-a-da3b51d3-5e76-4e4c-83fe-888f5e88d0ce#ref=rss)
+### wochen
 
-* [https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik](https://www.spiegel.de/sport/tennis/us-open-jannik-sinner-deutlich-ueberlegen-gegen-alexander-bublik-a-22c1b23a-b93d-4894-973f-0c642abe8db6#ref=rss)
-### kredit
+* [https://www.spiegel.de/ausland/israels-armee-beruft-weitere-reservisten-fuer-krieg-in-gaza-ein](https://www.spiegel.de/ausland/israels-armee-beruft-weitere-reservisten-fuer-krieg-in-gaza-ein-a-da3b51d3-5e76-4e4c-83fe-888f5e88d0ce#ref=rss)
+* [https://www.spiegel.de/panorama/jena-in-thueringen-zwei-autofahrer-stoppen-falschfahrer-auf-a4](https://www.spiegel.de/panorama/jena-in-thueringen-zwei-autofahrer-stoppen-falschfahrer-auf-a4-a-0f61d96a-5766-4fe0-8f13-cdc624aa0dcc#ref=rss)
+### auszuweiten
 
-* [https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken](https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken-a-f65db9a7-8eaf-46cd-9632-03aeac4ffab1#ref=rss)
-### internet
+* [https://www.spiegel.de/ausland/israels-armee-beruft-weitere-reservisten-fuer-krieg-in-gaza-ein](https://www.spiegel.de/ausland/israels-armee-beruft-weitere-reservisten-fuer-krieg-in-gaza-ein-a-da3b51d3-5e76-4e4c-83fe-888f5e88d0ce#ref=rss)
+* [https://www.spiegel.de/ausland/machtkampf-im-suedchinesischen-meer-wie-china-inseln-in-besitz-nimmt](https://www.spiegel.de/ausland/machtkampf-im-suedchinesischen-meer-wie-china-inseln-in-besitz-nimmt-a-4b543cb4-a099-49c0-b5d4-196f914a9320#ref=rss)
+### wir
 
-* [https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken](https://www.spiegel.de/wirtschaft/onlineshopping-ratenkauf-auf-kredit-wird-immer-beliebter-und-birgt-risiken-a-f65db9a7-8eaf-46cd-9632-03aeac4ffab1#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/google-deutsches-ehepaar-klagt-wegen-verbreitung-geklauter-nacktbilder](https://www.spiegel.de/netzwelt/web/google-deutsches-ehepaar-klagt-wegen-verbreitung-geklauter-nacktbilder-a-7e5f648d-da53-4c3c-bbf0-71d7d29a88a5#ref=rss)
-### nick
+* [https://www.spiegel.de/ausland/israels-armee-beruft-weitere-reservisten-fuer-krieg-in-gaza-ein](https://www.spiegel.de/ausland/israels-armee-beruft-weitere-reservisten-fuer-krieg-in-gaza-ein-a-da3b51d3-5e76-4e4c-83fe-888f5e88d0ce#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united](https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united-a-d9a5b4d4-074e-45d2-98d3-51eb666d2e45#ref=rss)
-### woltemade
+* [https://www.spiegel.de/ausland/israels-armee-beruft-weitere-reservisten-fuer-krieg-in-gaza-ein](https://www.spiegel.de/ausland/israels-armee-beruft-weitere-reservisten-fuer-krieg-in-gaza-ein-a-da3b51d3-5e76-4e4c-83fe-888f5e88d0ce#ref=rss)
+* [https://www.spiegel.de/wirtschaft/jaguar-land-rover-hackerangriff-stoert-produktion-und-verkauf](https://www.spiegel.de/wirtschaft/jaguar-land-rover-hackerangriff-stoert-produktion-und-verkauf-a-24981d0f-f327-4900-ba4c-afe5e9419a42#ref=rss)
+### model
 
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united](https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united-a-d9a5b4d4-074e-45d2-98d3-51eb666d2e45#ref=rss)
-### vfb
+* [https://www.spiegel.de/auto/tesla-absatzflaute-in-europa-model-y-vom-bestseller-zum-ladenhueter](https://www.spiegel.de/auto/tesla-absatzflaute-in-europa-model-y-vom-bestseller-zum-ladenhueter-a-8e3224aa-9695-454f-bde4-17a1d2a64ff1#ref=rss)
+### y
 
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united](https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united-a-d9a5b4d4-074e-45d2-98d3-51eb666d2e45#ref=rss)
-### stuttgart
+* [https://www.spiegel.de/auto/tesla-absatzflaute-in-europa-model-y-vom-bestseller-zum-ladenhueter](https://www.spiegel.de/auto/tesla-absatzflaute-in-europa-model-y-vom-bestseller-zum-ladenhueter-a-8e3224aa-9695-454f-bde4-17a1d2a64ff1#ref=rss)
+### neue
 
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united](https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united-a-d9a5b4d4-074e-45d2-98d3-51eb666d2e45#ref=rss)
-### newcastle
+* [https://www.spiegel.de/auto/tesla-absatzflaute-in-europa-model-y-vom-bestseller-zum-ladenhueter](https://www.spiegel.de/auto/tesla-absatzflaute-in-europa-model-y-vom-bestseller-zum-ladenhueter-a-8e3224aa-9695-454f-bde4-17a1d2a64ff1#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/chatgpt-soll-akute-notlagen-wie-suizidgefahr-bald-besser-erkennen](https://www.spiegel.de/netzwelt/apps/chatgpt-soll-akute-notlagen-wie-suizidgefahr-bald-besser-erkennen-a-e13718b4-6fc9-450c-b338-0acf0ed4a87f#ref=rss)
+### bringt
 
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united](https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united-a-d9a5b4d4-074e-45d2-98d3-51eb666d2e45#ref=rss)
-### united
+* [https://www.spiegel.de/auto/tesla-absatzflaute-in-europa-model-y-vom-bestseller-zum-ladenhueter](https://www.spiegel.de/auto/tesla-absatzflaute-in-europa-model-y-vom-bestseller-zum-ladenhueter-a-8e3224aa-9695-454f-bde4-17a1d2a64ff1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-strafzoelle-der-regierung-von-donald-trump-droht-eine-rueckzahlung-von-100-milliarden-dollar](https://www.spiegel.de/wirtschaft/us-strafzoelle-der-regierung-von-donald-trump-droht-eine-rueckzahlung-von-100-milliarden-dollar-a-d739073a-eed1-48f7-a843-5a4359b96fce#ref=rss)
+### tesla
 
-* [https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united](https://www.spiegel.de/sport/fussball/nick-woltemade-aeussert-sich-zu-seinem-wechsel-vom-vfb-stuttgart-zu-newcastle-united-a-d9a5b4d4-074e-45d2-98d3-51eb666d2e45#ref=rss)
-### belgien
+* [https://www.spiegel.de/auto/tesla-absatzflaute-in-europa-model-y-vom-bestseller-zum-ladenhueter](https://www.spiegel.de/auto/tesla-absatzflaute-in-europa-model-y-vom-bestseller-zum-ladenhueter-a-8e3224aa-9695-454f-bde4-17a1d2a64ff1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/brandenburg-landesregierung-untersagt-steinbach-beraterjob-bei-anwaltskanzlei](https://www.spiegel.de/wirtschaft/brandenburg-landesregierung-untersagt-steinbach-beraterjob-bei-anwaltskanzlei-a-c63a855c-f070-467d-ab0c-0168567485b8#ref=rss)
+### vielen
 
-* [https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen](https://www.spiegel.de/ausland/gaza-belgien-will-palaestinenserstaat-anerkennen-a-be998718-6005-4c54-bccd-ace4f873d6ba#ref=rss)
-### gloriasophie
+* [https://www.spiegel.de/auto/tesla-absatzflaute-in-europa-model-y-vom-bestseller-zum-ladenhueter](https://www.spiegel.de/auto/tesla-absatzflaute-in-europa-model-y-vom-bestseller-zum-ladenhueter-a-8e3224aa-9695-454f-bde4-17a1d2a64ff1#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/chatgpt-soll-akute-notlagen-wie-suizidgefahr-bald-besser-erkennen](https://www.spiegel.de/netzwelt/apps/chatgpt-soll-akute-notlagen-wie-suizidgefahr-bald-besser-erkennen-a-e13718b4-6fc9-450c-b338-0acf0ed4a87f#ref=rss)
+### house
 
-* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht-a-4801fd58-6b5f-47ae-8b64-ec14e31e62eb#ref=rss)
-### burkandt
+* [https://www.spiegel.de/kultur/a-house-of-dynamite-fuerchterlich-ueberfordert-und-erschuetternd-hilflos](https://www.spiegel.de/kultur/a-house-of-dynamite-fuerchterlich-ueberfordert-und-erschuetternd-hilflos-a-7f9ac1b2-7c36-4064-8193-f8ecae3eec28#ref=rss)
+### of
 
-* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht-a-4801fd58-6b5f-47ae-8b64-ec14e31e62eb#ref=rss)
+* [https://www.spiegel.de/kultur/a-house-of-dynamite-fuerchterlich-ueberfordert-und-erschuetternd-hilflos](https://www.spiegel.de/kultur/a-house-of-dynamite-fuerchterlich-ueberfordert-und-erschuetternd-hilflos-a-7f9ac1b2-7c36-4064-8193-f8ecae3eec28#ref=rss)
+### dynamite
+
+* [https://www.spiegel.de/kultur/a-house-of-dynamite-fuerchterlich-ueberfordert-und-erschuetternd-hilflos](https://www.spiegel.de/kultur/a-house-of-dynamite-fuerchterlich-ueberfordert-und-erschuetternd-hilflos-a-7f9ac1b2-7c36-4064-8193-f8ecae3eec28#ref=rss)
+### jaguar
+
+* [https://www.spiegel.de/wirtschaft/jaguar-land-rover-hackerangriff-stoert-produktion-und-verkauf](https://www.spiegel.de/wirtschaft/jaguar-land-rover-hackerangriff-stoert-produktion-und-verkauf-a-24981d0f-f327-4900-ba4c-afe5e9419a42#ref=rss)
+### rover
+
+* [https://www.spiegel.de/wirtschaft/jaguar-land-rover-hackerangriff-stoert-produktion-und-verkauf](https://www.spiegel.de/wirtschaft/jaguar-land-rover-hackerangriff-stoert-produktion-und-verkauf-a-24981d0f-f327-4900-ba4c-afe5e9419a42#ref=rss)
+### produktion
+
+* [https://www.spiegel.de/wirtschaft/jaguar-land-rover-hackerangriff-stoert-produktion-und-verkauf](https://www.spiegel.de/wirtschaft/jaguar-land-rover-hackerangriff-stoert-produktion-und-verkauf-a-24981d0f-f327-4900-ba4c-afe5e9419a42#ref=rss)
+### verkauf
+
+* [https://www.spiegel.de/wirtschaft/jaguar-land-rover-hackerangriff-stoert-produktion-und-verkauf](https://www.spiegel.de/wirtschaft/jaguar-land-rover-hackerangriff-stoert-produktion-und-verkauf-a-24981d0f-f327-4900-ba4c-afe5e9419a42#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/wirtschaft/brandenburg-landesregierung-untersagt-steinbach-beraterjob-bei-anwaltskanzlei](https://www.spiegel.de/wirtschaft/brandenburg-landesregierung-untersagt-steinbach-beraterjob-bei-anwaltskanzlei-a-c63a855c-f070-467d-ab0c-0168567485b8#ref=rss)
+### steinbach
+
+* [https://www.spiegel.de/wirtschaft/brandenburg-landesregierung-untersagt-steinbach-beraterjob-bei-anwaltskanzlei](https://www.spiegel.de/wirtschaft/brandenburg-landesregierung-untersagt-steinbach-beraterjob-bei-anwaltskanzlei-a-c63a855c-f070-467d-ab0c-0168567485b8#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/wirtschaft/brandenburg-landesregierung-untersagt-steinbach-beraterjob-bei-anwaltskanzlei](https://www.spiegel.de/wirtschaft/brandenburg-landesregierung-untersagt-steinbach-beraterjob-bei-anwaltskanzlei-a-c63a855c-f070-467d-ab0c-0168567485b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-alexander-dobrindt-ehrt-bundespolizisten-fuer-rettungsaktion-in-kabul](https://www.spiegel.de/politik/deutschland/afghanistan-alexander-dobrindt-ehrt-bundespolizisten-fuer-rettungsaktion-in-kabul-a-3945e7e0-d5a5-4da5-be6e-e41627123640#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/afghanistan-erdbeben-ueberrascht-menschen-im-schlaf-arzt-berichtet-aus-der-krisenregion](https://www.spiegel.de/ausland/afghanistan-erdbeben-ueberrascht-menschen-im-schlaf-arzt-berichtet-aus-der-krisenregion-a-8f1c5f95-2a9e-419d-a919-2b420161d437#ref=rss)
+* [https://www.spiegel.de/panorama/dieter-hallervorden-sohn-johannes-kritisiert-komiker-kurz-vor-dessen-90-geburtstag](https://www.spiegel.de/panorama/dieter-hallervorden-sohn-johannes-kritisiert-komiker-kurz-vor-dessen-90-geburtstag-a-b8b647af-497a-42f2-ace5-fa8cea121fc8#ref=rss)
+### arzt
+
+* [https://www.spiegel.de/ausland/afghanistan-erdbeben-ueberrascht-menschen-im-schlaf-arzt-berichtet-aus-der-krisenregion](https://www.spiegel.de/ausland/afghanistan-erdbeben-ueberrascht-menschen-im-schlaf-arzt-berichtet-aus-der-krisenregion-a-8f1c5f95-2a9e-419d-a919-2b420161d437#ref=rss)
+### steigt
+
+* [https://www.spiegel.de/ausland/afghanistan-erdbeben-ueberrascht-menschen-im-schlaf-arzt-berichtet-aus-der-krisenregion](https://www.spiegel.de/ausland/afghanistan-erdbeben-ueberrascht-menschen-im-schlaf-arzt-berichtet-aus-der-krisenregion-a-8f1c5f95-2a9e-419d-a919-2b420161d437#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutz-motorenbauer-kauft-drohnen-zulieferer-sobek](https://www.spiegel.de/wirtschaft/unternehmen/deutz-motorenbauer-kauft-drohnen-zulieferer-sobek-a-d66fb8d3-e6ee-4ad8-b8b6-826fbf2ddbb2#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/ausland/afghanistan-erdbeben-ueberrascht-menschen-im-schlaf-arzt-berichtet-aus-der-krisenregion](https://www.spiegel.de/ausland/afghanistan-erdbeben-ueberrascht-menschen-im-schlaf-arzt-berichtet-aus-der-krisenregion-a-8f1c5f95-2a9e-419d-a919-2b420161d437#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bolsonaro-vor-gericht-hilferuf-aus-afghanistan-koalitionsstreit-ueber-deutschen-sozialstaat](https://www.spiegel.de/politik/deutschland/news-des-tages-bolsonaro-vor-gericht-hilferuf-aus-afghanistan-koalitionsstreit-ueber-deutschen-sozialstaat-a-c64d4e29-e8c7-4ff5-985c-a12d9dfc72f4#ref=rss)
+### dobrindt
+
+* [https://www.spiegel.de/politik/deutschland/afghanistan-alexander-dobrindt-ehrt-bundespolizisten-fuer-rettungsaktion-in-kabul](https://www.spiegel.de/politik/deutschland/afghanistan-alexander-dobrindt-ehrt-bundespolizisten-fuer-rettungsaktion-in-kabul-a-3945e7e0-d5a5-4da5-be6e-e41627123640#ref=rss)
+### bundespolizisten
+
+* [https://www.spiegel.de/politik/deutschland/afghanistan-alexander-dobrindt-ehrt-bundespolizisten-fuer-rettungsaktion-in-kabul](https://www.spiegel.de/politik/deutschland/afghanistan-alexander-dobrindt-ehrt-bundespolizisten-fuer-rettungsaktion-in-kabul-a-3945e7e0-d5a5-4da5-be6e-e41627123640#ref=rss)
+### kabul
+
+* [https://www.spiegel.de/politik/deutschland/afghanistan-alexander-dobrindt-ehrt-bundespolizisten-fuer-rettungsaktion-in-kabul](https://www.spiegel.de/politik/deutschland/afghanistan-alexander-dobrindt-ehrt-bundespolizisten-fuer-rettungsaktion-in-kabul-a-3945e7e0-d5a5-4da5-be6e-e41627123640#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/politik/deutschland/afghanistan-alexander-dobrindt-ehrt-bundespolizisten-fuer-rettungsaktion-in-kabul](https://www.spiegel.de/politik/deutschland/afghanistan-alexander-dobrindt-ehrt-bundespolizisten-fuer-rettungsaktion-in-kabul-a-3945e7e0-d5a5-4da5-be6e-e41627123640#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-wie-die-sozialleistung-zum-schlachtfeld-der-ideologen-wurde](https://www.spiegel.de/wirtschaft/soziales/buergergeld-wie-die-sozialleistung-zum-schlachtfeld-der-ideologen-wurde-a-45f13c73-4241-4746-9938-dc1d96f42731#ref=rss)
+### afghanen
+
+* [https://www.spiegel.de/politik/deutschland/afghanistan-alexander-dobrindt-ehrt-bundespolizisten-fuer-rettungsaktion-in-kabul](https://www.spiegel.de/politik/deutschland/afghanistan-alexander-dobrindt-ehrt-bundespolizisten-fuer-rettungsaktion-in-kabul-a-3945e7e0-d5a5-4da5-be6e-e41627123640#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bolsonaro-vor-gericht-hilferuf-aus-afghanistan-koalitionsstreit-ueber-deutschen-sozialstaat](https://www.spiegel.de/politik/deutschland/news-des-tages-bolsonaro-vor-gericht-hilferuf-aus-afghanistan-koalitionsstreit-ueber-deutschen-sozialstaat-a-c64d4e29-e8c7-4ff5-985c-a12d9dfc72f4#ref=rss)
+### inseln
+
+* [https://www.spiegel.de/ausland/machtkampf-im-suedchinesischen-meer-wie-china-inseln-in-besitz-nimmt](https://www.spiegel.de/ausland/machtkampf-im-suedchinesischen-meer-wie-china-inseln-in-besitz-nimmt-a-4b543cb4-a099-49c0-b5d4-196f914a9320#ref=rss)
 ### tochter
 
-* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht-a-4801fd58-6b5f-47ae-8b64-ec14e31e62eb#ref=rss)
-### markus
-
-* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht-a-4801fd58-6b5f-47ae-8b64-ec14e31e62eb#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tochter-von-markus-soeder-gloria-sophie-burkandt-mein-vater-hat-nicht-mit-mir-geschimpft](https://www.spiegel.de/panorama/leute/tochter-von-markus-soeder-gloria-sophie-burkandt-mein-vater-hat-nicht-mit-mir-geschimpft-a-7343ddde-4fc7-486a-b4f4-20d63e5e95f3#ref=rss)
 ### söder
 
-* [https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht](https://www.spiegel.de/panorama/leute/gloria-sophie-burkandt-tochter-von-markus-soeder-erkennt-helmut-kohl-nicht-a-4801fd58-6b5f-47ae-8b64-ec14e31e62eb#ref=rss)
-### google
+* [https://www.spiegel.de/panorama/leute/tochter-von-markus-soeder-gloria-sophie-burkandt-mein-vater-hat-nicht-mit-mir-geschimpft](https://www.spiegel.de/panorama/leute/tochter-von-markus-soeder-gloria-sophie-burkandt-mein-vater-hat-nicht-mit-mir-geschimpft-a-7343ddde-4fc7-486a-b4f4-20d63e5e95f3#ref=rss)
+### gloriasophie
 
-* [https://www.spiegel.de/netzwelt/web/google-deutsches-ehepaar-klagt-wegen-verbreitung-geklauter-nacktbilder](https://www.spiegel.de/netzwelt/web/google-deutsches-ehepaar-klagt-wegen-verbreitung-geklauter-nacktbilder-a-7e5f648d-da53-4c3c-bbf0-71d7d29a88a5#ref=rss)
+* [https://www.spiegel.de/panorama/leute/tochter-von-markus-soeder-gloria-sophie-burkandt-mein-vater-hat-nicht-mit-mir-geschimpft](https://www.spiegel.de/panorama/leute/tochter-von-markus-soeder-gloria-sophie-burkandt-mein-vater-hat-nicht-mit-mir-geschimpft-a-7343ddde-4fc7-486a-b4f4-20d63e5e95f3#ref=rss)
+### burkandt
+
+* [https://www.spiegel.de/panorama/leute/tochter-von-markus-soeder-gloria-sophie-burkandt-mein-vater-hat-nicht-mit-mir-geschimpft](https://www.spiegel.de/panorama/leute/tochter-von-markus-soeder-gloria-sophie-burkandt-mein-vater-hat-nicht-mit-mir-geschimpft-a-7343ddde-4fc7-486a-b4f4-20d63e5e95f3#ref=rss)
+### iphone
+
+* [https://www.spiegel.de/netzwelt/gadgets/was-sie-zum-strahlungsschutz-update-beim-iphone-12-wissen-sollten](https://www.spiegel.de/netzwelt/gadgets/was-sie-zum-strahlungsschutz-update-beim-iphone-12-wissen-sollten-a-cccb2a2c-5a59-40b4-8b7b-ee2836911ed6#ref=rss)
+### 12
+
+* [https://www.spiegel.de/netzwelt/gadgets/was-sie-zum-strahlungsschutz-update-beim-iphone-12-wissen-sollten](https://www.spiegel.de/netzwelt/gadgets/was-sie-zum-strahlungsschutz-update-beim-iphone-12-wissen-sollten-a-cccb2a2c-5a59-40b4-8b7b-ee2836911ed6#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-holt-nicolas-jackson-und-verhindert-damit-den-kader-gau](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-holt-nicolas-jackson-und-verhindert-damit-den-kader-gau-a-53a83bda-8e03-4784-8de4-47aace05bcd0#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-holt-nicolas-jackson-und-verhindert-damit-den-kader-gau](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-holt-nicolas-jackson-und-verhindert-damit-den-kader-gau-a-53a83bda-8e03-4784-8de4-47aace05bcd0#ref=rss)
+### nicolas
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-holt-nicolas-jackson-und-verhindert-damit-den-kader-gau](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-holt-nicolas-jackson-und-verhindert-damit-den-kader-gau-a-53a83bda-8e03-4784-8de4-47aace05bcd0#ref=rss)
+### jackson
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-holt-nicolas-jackson-und-verhindert-damit-den-kader-gau](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-holt-nicolas-jackson-und-verhindert-damit-den-kader-gau-a-53a83bda-8e03-4784-8de4-47aace05bcd0#ref=rss)
+### eberl
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-holt-nicolas-jackson-und-verhindert-damit-den-kader-gau](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-holt-nicolas-jackson-und-verhindert-damit-den-kader-gau-a-53a83bda-8e03-4784-8de4-47aace05bcd0#ref=rss)
+### mönchengladbach
+
+* [https://www.spiegel.de/panorama/justiz/viersen-moenchengladbach-ex-kommunalpolitiker-hinterzog-steuern-in-hoehe-von-38-millionen-euro](https://www.spiegel.de/panorama/justiz/viersen-moenchengladbach-ex-kommunalpolitiker-hinterzog-steuern-in-hoehe-von-38-millionen-euro-a-f60ad462-e0ee-4cb4-964b-145727597e18#ref=rss)
+### steuern
+
+* [https://www.spiegel.de/panorama/justiz/viersen-moenchengladbach-ex-kommunalpolitiker-hinterzog-steuern-in-hoehe-von-38-millionen-euro](https://www.spiegel.de/panorama/justiz/viersen-moenchengladbach-ex-kommunalpolitiker-hinterzog-steuern-in-hoehe-von-38-millionen-euro-a-f60ad462-e0ee-4cb4-964b-145727597e18#ref=rss)
+### usregierung
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-europas-zoll-deal-mit-der-us-regierung-wackelt](https://www.spiegel.de/wirtschaft/donald-trump-europas-zoll-deal-mit-der-us-regierung-wackelt-a-4892df2a-b452-4889-b1c2-5acbf45265df#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-einsatz-der-nationalgarde-in-los-angeles-ist-illegal-urteilt-ein-us-richter](https://www.spiegel.de/ausland/donald-trump-einsatz-der-nationalgarde-in-los-angeles-ist-illegal-urteilt-ein-us-richter-a-3625430f-5567-4b62-9f2d-814547659455#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/wirtschaft/us-strafzoelle-der-regierung-von-donald-trump-droht-eine-rueckzahlung-von-100-milliarden-dollar](https://www.spiegel.de/wirtschaft/us-strafzoelle-der-regierung-von-donald-trump-droht-eine-rueckzahlung-von-100-milliarden-dollar-a-d739073a-eed1-48f7-a843-5a4359b96fce#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-wie-die-sozialleistung-zum-schlachtfeld-der-ideologen-wurde](https://www.spiegel.de/wirtschaft/soziales/buergergeld-wie-die-sozialleistung-zum-schlachtfeld-der-ideologen-wurde-a-45f13c73-4241-4746-9938-dc1d96f42731#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/wirtschaft/berliner-zeitung-chefredakteur-tomasz-kurianowicz-geht-holger-friedrich-hat-bereits-neuen-chef](https://www.spiegel.de/wirtschaft/berliner-zeitung-chefredakteur-tomasz-kurianowicz-geht-holger-friedrich-hat-bereits-neuen-chef-a-319223b2-e0c7-4746-aa87-d388b8aa8191#ref=rss)
+### zeitung
+
+* [https://www.spiegel.de/wirtschaft/berliner-zeitung-chefredakteur-tomasz-kurianowicz-geht-holger-friedrich-hat-bereits-neuen-chef](https://www.spiegel.de/wirtschaft/berliner-zeitung-chefredakteur-tomasz-kurianowicz-geht-holger-friedrich-hat-bereits-neuen-chef-a-319223b2-e0c7-4746-aa87-d388b8aa8191#ref=rss)
+### chefredakteur
+
+* [https://www.spiegel.de/wirtschaft/berliner-zeitung-chefredakteur-tomasz-kurianowicz-geht-holger-friedrich-hat-bereits-neuen-chef](https://www.spiegel.de/wirtschaft/berliner-zeitung-chefredakteur-tomasz-kurianowicz-geht-holger-friedrich-hat-bereits-neuen-chef-a-319223b2-e0c7-4746-aa87-d388b8aa8191#ref=rss)
+### tomasz
+
+* [https://www.spiegel.de/wirtschaft/berliner-zeitung-chefredakteur-tomasz-kurianowicz-geht-holger-friedrich-hat-bereits-neuen-chef](https://www.spiegel.de/wirtschaft/berliner-zeitung-chefredakteur-tomasz-kurianowicz-geht-holger-friedrich-hat-bereits-neuen-chef-a-319223b2-e0c7-4746-aa87-d388b8aa8191#ref=rss)
+### kurianowicz
+
+* [https://www.spiegel.de/wirtschaft/berliner-zeitung-chefredakteur-tomasz-kurianowicz-geht-holger-friedrich-hat-bereits-neuen-chef](https://www.spiegel.de/wirtschaft/berliner-zeitung-chefredakteur-tomasz-kurianowicz-geht-holger-friedrich-hat-bereits-neuen-chef-a-319223b2-e0c7-4746-aa87-d388b8aa8191#ref=rss)
+### bolsonaro
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bolsonaro-vor-gericht-hilferuf-aus-afghanistan-koalitionsstreit-ueber-deutschen-sozialstaat](https://www.spiegel.de/politik/deutschland/news-des-tages-bolsonaro-vor-gericht-hilferuf-aus-afghanistan-koalitionsstreit-ueber-deutschen-sozialstaat-a-c64d4e29-e8c7-4ff5-985c-a12d9dfc72f4#ref=rss)
+### tupperware
+
+* [https://www.spiegel.de/wirtschaft/tupperware-kommt-in-fuenf-laendern-zurueck](https://www.spiegel.de/wirtschaft/tupperware-kommt-in-fuenf-laendern-zurueck-a-efe00c34-8052-439b-91bc-5a0c09750588#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/wirtschaft/tupperware-kommt-in-fuenf-laendern-zurueck](https://www.spiegel.de/wirtschaft/tupperware-kommt-in-fuenf-laendern-zurueck-a-efe00c34-8052-439b-91bc-5a0c09750588#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/tupperware-kommt-in-fuenf-laendern-zurueck](https://www.spiegel.de/wirtschaft/tupperware-kommt-in-fuenf-laendern-zurueck-a-efe00c34-8052-439b-91bc-5a0c09750588#ref=rss)
+* [https://www.spiegel.de/kultur/kino/gerard-depardieu-muss-erneut-vor-gericht-dieses-mal-wegen-vergewaltigung](https://www.spiegel.de/kultur/kino/gerard-depardieu-muss-erneut-vor-gericht-dieses-mal-wegen-vergewaltigung-a-ff846cff-0efb-4152-8b6e-71a5978aef95#ref=rss)
+### dieter
+
+* [https://www.spiegel.de/panorama/dieter-hallervorden-sohn-johannes-kritisiert-komiker-kurz-vor-dessen-90-geburtstag](https://www.spiegel.de/panorama/dieter-hallervorden-sohn-johannes-kritisiert-komiker-kurz-vor-dessen-90-geburtstag-a-b8b647af-497a-42f2-ace5-fa8cea121fc8#ref=rss)
+### hallervorden
+
+* [https://www.spiegel.de/panorama/dieter-hallervorden-sohn-johannes-kritisiert-komiker-kurz-vor-dessen-90-geburtstag](https://www.spiegel.de/panorama/dieter-hallervorden-sohn-johannes-kritisiert-komiker-kurz-vor-dessen-90-geburtstag-a-b8b647af-497a-42f2-ace5-fa8cea121fc8#ref=rss)
+### schlagzeilen
+
+* [https://www.spiegel.de/panorama/dieter-hallervorden-sohn-johannes-kritisiert-komiker-kurz-vor-dessen-90-geburtstag](https://www.spiegel.de/panorama/dieter-hallervorden-sohn-johannes-kritisiert-komiker-kurz-vor-dessen-90-geburtstag-a-b8b647af-497a-42f2-ace5-fa8cea121fc8#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/chatgpt-soll-akute-notlagen-wie-suizidgefahr-bald-besser-erkennen](https://www.spiegel.de/netzwelt/apps/chatgpt-soll-akute-notlagen-wie-suizidgefahr-bald-besser-erkennen-a-e13718b4-6fc9-450c-b338-0acf0ed4a87f#ref=rss)
+### sobek
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutz-motorenbauer-kauft-drohnen-zulieferer-sobek](https://www.spiegel.de/wirtschaft/unternehmen/deutz-motorenbauer-kauft-drohnen-zulieferer-sobek-a-d66fb8d3-e6ee-4ad8-b8b6-826fbf2ddbb2#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast-a-4f8c38ed-e30e-430a-b884-2dfd15bace23#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-a-944979f6-8613-4563-9e9f-97878e5516d1#ref=rss)
+### bewundert
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast-a-4f8c38ed-e30e-430a-b884-2dfd15bace23#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-a-944979f6-8613-4563-9e9f-97878e5516d1#ref=rss)
+### scheint
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast-a-4f8c38ed-e30e-430a-b884-2dfd15bace23#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-a-944979f6-8613-4563-9e9f-97878e5516d1#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast-a-4f8c38ed-e30e-430a-b884-2dfd15bace23#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-a-944979f6-8613-4563-9e9f-97878e5516d1#ref=rss)
+### machthaber
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast-a-4f8c38ed-e30e-430a-b884-2dfd15bace23#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-a-944979f6-8613-4563-9e9f-97878e5516d1#ref=rss)
+### zunehmend
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast-a-4f8c38ed-e30e-430a-b884-2dfd15bace23#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-a-944979f6-8613-4563-9e9f-97878e5516d1#ref=rss)
+### enttäuschen
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast-a-4f8c38ed-e30e-430a-b884-2dfd15bace23#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-a-944979f6-8613-4563-9e9f-97878e5516d1#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-podcast-a-4f8c38ed-e30e-430a-b884-2dfd15bace23#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-die-widerspruechliche-beziehung-erklaert-a-944979f6-8613-4563-9e9f-97878e5516d1#ref=rss)
+### los
+
+* [https://www.spiegel.de/ausland/donald-trump-einsatz-der-nationalgarde-in-los-angeles-ist-illegal-urteilt-ein-us-richter](https://www.spiegel.de/ausland/donald-trump-einsatz-der-nationalgarde-in-los-angeles-ist-illegal-urteilt-ein-us-richter-a-3625430f-5567-4b62-9f2d-814547659455#ref=rss)
+### angeles
+
+* [https://www.spiegel.de/ausland/donald-trump-einsatz-der-nationalgarde-in-los-angeles-ist-illegal-urteilt-ein-us-richter](https://www.spiegel.de/ausland/donald-trump-einsatz-der-nationalgarde-in-los-angeles-ist-illegal-urteilt-ein-us-richter-a-3625430f-5567-4b62-9f2d-814547659455#ref=rss)
+### bekommen
+
+* [https://www.spiegel.de/ausland/donald-trump-einsatz-der-nationalgarde-in-los-angeles-ist-illegal-urteilt-ein-us-richter](https://www.spiegel.de/ausland/donald-trump-einsatz-der-nationalgarde-in-los-angeles-ist-illegal-urteilt-ein-us-richter-a-3625430f-5567-4b62-9f2d-814547659455#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/chatgpt-soll-akute-notlagen-wie-suizidgefahr-bald-besser-erkennen](https://www.spiegel.de/netzwelt/apps/chatgpt-soll-akute-notlagen-wie-suizidgefahr-bald-besser-erkennen-a-e13718b4-6fc9-450c-b338-0acf0ed4a87f#ref=rss)
+### düsseldorf
+
+* [https://www.spiegel.de/karriere/duesseldorf-polizeianwaerterin-verliert-job-wegen-uniform-auf-mottoparty](https://www.spiegel.de/karriere/duesseldorf-polizeianwaerterin-verliert-job-wegen-uniform-auf-mottoparty-a-be3099b2-fd42-4e60-81ec-6cc11c43b407#ref=rss)
+### polizeianwärterin
+
+* [https://www.spiegel.de/karriere/duesseldorf-polizeianwaerterin-verliert-job-wegen-uniform-auf-mottoparty](https://www.spiegel.de/karriere/duesseldorf-polizeianwaerterin-verliert-job-wegen-uniform-auf-mottoparty-a-be3099b2-fd42-4e60-81ec-6cc11c43b407#ref=rss)
+### job
+
+* [https://www.spiegel.de/karriere/duesseldorf-polizeianwaerterin-verliert-job-wegen-uniform-auf-mottoparty](https://www.spiegel.de/karriere/duesseldorf-polizeianwaerterin-verliert-job-wegen-uniform-auf-mottoparty-a-be3099b2-fd42-4e60-81ec-6cc11c43b407#ref=rss)
+### uniform
+
+* [https://www.spiegel.de/karriere/duesseldorf-polizeianwaerterin-verliert-job-wegen-uniform-auf-mottoparty](https://www.spiegel.de/karriere/duesseldorf-polizeianwaerterin-verliert-job-wegen-uniform-auf-mottoparty-a-be3099b2-fd42-4e60-81ec-6cc11c43b407#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/auto/berlin-senat-schafft-einige-tempo-30-zonen-wieder-ab-weil-die-luft-dort-jetzt-sauber-genug-ist](https://www.spiegel.de/auto/berlin-senat-schafft-einige-tempo-30-zonen-wieder-ab-weil-die-luft-dort-jetzt-sauber-genug-ist-a-e8adc198-4a17-4a83-9a0b-a89c6e2c40d5#ref=rss)
+### luft
+
+* [https://www.spiegel.de/auto/berlin-senat-schafft-einige-tempo-30-zonen-wieder-ab-weil-die-luft-dort-jetzt-sauber-genug-ist](https://www.spiegel.de/auto/berlin-senat-schafft-einige-tempo-30-zonen-wieder-ab-weil-die-luft-dort-jetzt-sauber-genug-ist-a-e8adc198-4a17-4a83-9a0b-a89c6e2c40d5#ref=rss)
+### bald
+
+* [https://www.spiegel.de/auto/berlin-senat-schafft-einige-tempo-30-zonen-wieder-ab-weil-die-luft-dort-jetzt-sauber-genug-ist](https://www.spiegel.de/auto/berlin-senat-schafft-einige-tempo-30-zonen-wieder-ab-weil-die-luft-dort-jetzt-sauber-genug-ist-a-e8adc198-4a17-4a83-9a0b-a89c6e2c40d5#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/chatgpt-soll-akute-notlagen-wie-suizidgefahr-bald-besser-erkennen](https://www.spiegel.de/netzwelt/apps/chatgpt-soll-akute-notlagen-wie-suizidgefahr-bald-besser-erkennen-a-e13718b4-6fc9-450c-b338-0acf0ed4a87f#ref=rss)
+### tempo
+
+* [https://www.spiegel.de/auto/berlin-senat-schafft-einige-tempo-30-zonen-wieder-ab-weil-die-luft-dort-jetzt-sauber-genug-ist](https://www.spiegel.de/auto/berlin-senat-schafft-einige-tempo-30-zonen-wieder-ab-weil-die-luft-dort-jetzt-sauber-genug-ist-a-e8adc198-4a17-4a83-9a0b-a89c6e2c40d5#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/auto/berlin-senat-schafft-einige-tempo-30-zonen-wieder-ab-weil-die-luft-dort-jetzt-sauber-genug-ist](https://www.spiegel.de/auto/berlin-senat-schafft-einige-tempo-30-zonen-wieder-ab-weil-die-luft-dort-jetzt-sauber-genug-ist-a-e8adc198-4a17-4a83-9a0b-a89c6e2c40d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-wie-die-sozialleistung-zum-schlachtfeld-der-ideologen-wurde](https://www.spiegel.de/wirtschaft/soziales/buergergeld-wie-die-sozialleistung-zum-schlachtfeld-der-ideologen-wurde-a-45f13c73-4241-4746-9938-dc1d96f42731#ref=rss)
+### thüringen
+
+* [https://www.spiegel.de/panorama/jena-in-thueringen-zwei-autofahrer-stoppen-falschfahrer-auf-a4](https://www.spiegel.de/panorama/jena-in-thueringen-zwei-autofahrer-stoppen-falschfahrer-auf-a4-a-0f61d96a-5766-4fe0-8f13-cdc624aa0dcc#ref=rss)
+### falschfahrer
+
+* [https://www.spiegel.de/panorama/jena-in-thueringen-zwei-autofahrer-stoppen-falschfahrer-auf-a4](https://www.spiegel.de/panorama/jena-in-thueringen-zwei-autofahrer-stoppen-falschfahrer-auf-a4-a-0f61d96a-5766-4fe0-8f13-cdc624aa0dcc#ref=rss)
+### lobt
+
+* [https://www.spiegel.de/panorama/jena-in-thueringen-zwei-autofahrer-stoppen-falschfahrer-auf-a4](https://www.spiegel.de/panorama/jena-in-thueringen-zwei-autofahrer-stoppen-falschfahrer-auf-a4-a-0f61d96a-5766-4fe0-8f13-cdc624aa0dcc#ref=rss)
+* [https://www.spiegel.de/kultur/kino/woody-allen-lobt-donald-trump-wenn-schauspieler-politik-machen-und-andersrum](https://www.spiegel.de/kultur/kino/woody-allen-lobt-donald-trump-wenn-schauspieler-politik-machen-und-andersrum-a-0152afec-af9e-4721-b0c6-c6bc5ee343ec#ref=rss)
+### chatgpt
+
+* [https://www.spiegel.de/netzwelt/apps/chatgpt-soll-akute-notlagen-wie-suizidgefahr-bald-besser-erkennen](https://www.spiegel.de/netzwelt/apps/chatgpt-soll-akute-notlagen-wie-suizidgefahr-bald-besser-erkennen-a-e13718b4-6fc9-450c-b338-0acf0ed4a87f#ref=rss)
+### woody
+
+* [https://www.spiegel.de/kultur/kino/woody-allen-lobt-donald-trump-wenn-schauspieler-politik-machen-und-andersrum](https://www.spiegel.de/kultur/kino/woody-allen-lobt-donald-trump-wenn-schauspieler-politik-machen-und-andersrum-a-0152afec-af9e-4721-b0c6-c6bc5ee343ec#ref=rss)
+### allen
+
+* [https://www.spiegel.de/kultur/kino/woody-allen-lobt-donald-trump-wenn-schauspieler-politik-machen-und-andersrum](https://www.spiegel.de/kultur/kino/woody-allen-lobt-donald-trump-wenn-schauspieler-politik-machen-und-andersrum-a-0152afec-af9e-4721-b0c6-c6bc5ee343ec#ref=rss)
+### schauspieler
+
+* [https://www.spiegel.de/kultur/kino/woody-allen-lobt-donald-trump-wenn-schauspieler-politik-machen-und-andersrum](https://www.spiegel.de/kultur/kino/woody-allen-lobt-donald-trump-wenn-schauspieler-politik-machen-und-andersrum-a-0152afec-af9e-4721-b0c6-c6bc5ee343ec#ref=rss)
+* [https://www.spiegel.de/kultur/kino/gerard-depardieu-muss-erneut-vor-gericht-dieses-mal-wegen-vergewaltigung](https://www.spiegel.de/kultur/kino/gerard-depardieu-muss-erneut-vor-gericht-dieses-mal-wegen-vergewaltigung-a-ff846cff-0efb-4152-8b6e-71a5978aef95#ref=rss)
+### politik
+
+* [https://www.spiegel.de/kultur/kino/woody-allen-lobt-donald-trump-wenn-schauspieler-politik-machen-und-andersrum](https://www.spiegel.de/kultur/kino/woody-allen-lobt-donald-trump-wenn-schauspieler-politik-machen-und-andersrum-a-0152afec-af9e-4721-b0c6-c6bc5ee343ec#ref=rss)
+### gérard
+
+* [https://www.spiegel.de/kultur/kino/gerard-depardieu-muss-erneut-vor-gericht-dieses-mal-wegen-vergewaltigung](https://www.spiegel.de/kultur/kino/gerard-depardieu-muss-erneut-vor-gericht-dieses-mal-wegen-vergewaltigung-a-ff846cff-0efb-4152-8b6e-71a5978aef95#ref=rss)
+### depardieu
+
+* [https://www.spiegel.de/kultur/kino/gerard-depardieu-muss-erneut-vor-gericht-dieses-mal-wegen-vergewaltigung](https://www.spiegel.de/kultur/kino/gerard-depardieu-muss-erneut-vor-gericht-dieses-mal-wegen-vergewaltigung-a-ff846cff-0efb-4152-8b6e-71a5978aef95#ref=rss)
 
