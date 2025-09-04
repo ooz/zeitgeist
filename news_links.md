@@ -4,291 +4,350 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### euro
-
-* [https://www.spiegel.de/wirtschaft/meissen-whatsapp-scam-angebot-frau-verliert-mehr-als-30-000-euro-durch-job-betrug](https://www.spiegel.de/wirtschaft/meissen-whatsapp-scam-angebot-frau-verliert-mehr-als-30-000-euro-durch-job-betrug-a-9dc3709b-6232-477e-bae2-621c474fe06b#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/google-425-millionen-dollar-strafe-wegen-verletzung-der-privatsphaere-der-user](https://www.spiegel.de/netzwelt/web/google-425-millionen-dollar-strafe-wegen-verletzung-der-privatsphaere-der-user-a-30133a41-5421-4476-97c5-5adfb7ac4a6b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-braucht-10-milliarden-euro-fuer-neue-uniformen](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-braucht-10-milliarden-euro-fuer-neue-uniformen-a-710eaee6-6406-43e5-a31a-1e42f4ac513b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-pkw-maut-kostet-steuerzahler-weitere-27-millionen-euro](https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-pkw-maut-kostet-steuerzahler-weitere-27-millionen-euro-a-96b69237-3a56-4ee3-b424-edcf038e616f#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/netzwelt/web/google-425-millionen-dollar-strafe-wegen-verletzung-der-privatsphaere-der-user](https://www.spiegel.de/netzwelt/web/google-425-millionen-dollar-strafe-wegen-verletzung-der-privatsphaere-der-user-a-30133a41-5421-4476-97c5-5adfb7ac4a6b#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss](https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss-a-e4d3d333-9cc6-416c-ac8c-ed878ba01b87#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-pkw-maut-kostet-steuerzahler-weitere-27-millionen-euro](https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-pkw-maut-kostet-steuerzahler-weitere-27-millionen-euro-a-96b69237-3a56-4ee3-b424-edcf038e616f#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas](https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas-a-ee80db7d-0395-42c2-a621-722b80e586b4#ref=rss)
-* [https://www.spiegel.de/panorama/lissabon-zahl-der-todesopfer-des-standseilbahn-ungluecks-steigt-auf-17](https://www.spiegel.de/panorama/lissabon-zahl-der-todesopfer-des-standseilbahn-ungluecks-steigt-auf-17-a-84a87663-000f-4ffd-a51e-f6673146e5cd#ref=rss)
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-demokratieabbau-und-die-stille-resignation](https://www.spiegel.de/ausland/usa-unter-donald-trump-demokratieabbau-und-die-stille-resignation-a-60d20c7b-4bb9-45fc-b884-d41825dfa545#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/basketball/basketball-em-2025-so-wichtig-ist-daniel-theis-fuer-das-deutsche-team](https://www.spiegel.de/sport/basketball/basketball-em-2025-so-wichtig-ist-daniel-theis-fuer-das-deutsche-team-a-d1092f91-0b79-4225-a74c-e08e4ddba500#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mfe-berlusconi-konzern-erhaelt-volle-kontrolle-bei-prosiebensat-1](https://www.spiegel.de/wirtschaft/unternehmen/mfe-berlusconi-konzern-erhaelt-volle-kontrolle-bei-prosiebensat-1-a-a2ec01b2-d1dc-47e4-97bc-16e82dcc70d5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/meissen-whatsapp-scam-angebot-frau-verliert-mehr-als-30-000-euro-durch-job-betrug](https://www.spiegel.de/wirtschaft/meissen-whatsapp-scam-angebot-frau-verliert-mehr-als-30-000-euro-durch-job-betrug-a-9dc3709b-6232-477e-bae2-621c474fe06b#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss](https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss-a-e4d3d333-9cc6-416c-ac8c-ed878ba01b87#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/gesellschaft/rentenreform-welche-generation-bescheissen-wir-am-meisten](https://www.spiegel.de/panorama/gesellschaft/rentenreform-welche-generation-bescheissen-wir-am-meisten-a-05f20c2c-7eb5-470e-b818-fc4ccdffda1c#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas](https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas-a-ee80db7d-0395-42c2-a621-722b80e586b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-braucht-10-milliarden-euro-fuer-neue-uniformen](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-braucht-10-milliarden-euro-fuer-neue-uniformen-a-710eaee6-6406-43e5-a31a-1e42f4ac513b#ref=rss)
-* [https://www.spiegel.de/ausland/china-wie-korruption-im-militaer-an-pekings-kriegstuechtigkeit-nagt](https://www.spiegel.de/ausland/china-wie-korruption-im-militaer-an-pekings-kriegstuechtigkeit-nagt-a-207c4516-465f-45cd-8707-11c66592b10a#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas](https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas-a-ee80db7d-0395-42c2-a621-722b80e586b4#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-em-2025-so-wichtig-ist-daniel-theis-fuer-das-deutsche-team](https://www.spiegel.de/sport/basketball/basketball-em-2025-so-wichtig-ist-daniel-theis-fuer-das-deutsche-team-a-d1092f91-0b79-4225-a74c-e08e4ddba500#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/sydney-sweeney-american-eagle-zeigt-sich-begeistert-von-umstrittener-werbekampagne](https://www.spiegel.de/wirtschaft/unternehmen/sydney-sweeney-american-eagle-zeigt-sich-begeistert-von-umstrittener-werbekampagne-a-dcca9b2a-ae3d-4c43-98f7-433181235113#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/basketball/basketball-em-2025-so-wichtig-ist-daniel-theis-fuer-das-deutsche-team](https://www.spiegel.de/sport/basketball/basketball-em-2025-so-wichtig-ist-daniel-theis-fuer-das-deutsche-team-a-d1092f91-0b79-4225-a74c-e08e4ddba500#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-und-ifw-fuehrende-wirtschaftsforscher-senken-wachstumsprognosen](https://www.spiegel.de/wirtschaft/unternehmen/ifo-und-ifw-fuehrende-wirtschaftsforscher-senken-wachstumsprognosen-a-770c9d51-501f-4639-a66d-a3a0fd090e83#ref=rss)
-* [https://www.spiegel.de/panorama/lissabon-zahl-der-todesopfer-des-standseilbahn-ungluecks-steigt-auf-17](https://www.spiegel.de/panorama/lissabon-zahl-der-todesopfer-des-standseilbahn-ungluecks-steigt-auf-17-a-84a87663-000f-4ffd-a51e-f6673146e5cd#ref=rss)
 ### lissabon
 
-* [https://www.spiegel.de/panorama/lissabon-zahl-der-todesopfer-des-standseilbahn-ungluecks-steigt-auf-17](https://www.spiegel.de/panorama/lissabon-zahl-der-todesopfer-des-standseilbahn-ungluecks-steigt-auf-17-a-84a87663-000f-4ffd-a51e-f6673146e5cd#ref=rss)
-* [https://www.spiegel.de/ausland/lissabon-mindestens-15-tote-bei-seilbahnunglueck-an-touristenattraktion](https://www.spiegel.de/ausland/lissabon-mindestens-15-tote-bei-seilbahnunglueck-an-touristenattraktion-a-661c85a5-3dbd-41e4-8146-8c24bfd49ac3#ref=rss)
-### 17
-
-* [https://www.spiegel.de/panorama/lissabon-zahl-der-todesopfer-des-standseilbahn-ungluecks-steigt-auf-17](https://www.spiegel.de/panorama/lissabon-zahl-der-todesopfer-des-standseilbahn-ungluecks-steigt-auf-17-a-84a87663-000f-4ffd-a51e-f6673146e5cd#ref=rss)
-* [https://www.spiegel.de/ausland/lissabon-mindestens-15-tote-bei-seilbahnunglueck-an-touristenattraktion](https://www.spiegel.de/ausland/lissabon-mindestens-15-tote-bei-seilbahnunglueck-an-touristenattraktion-a-661c85a5-3dbd-41e4-8146-8c24bfd49ac3#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/ueberschwemmung-in-pakistan-300-000-menschen-wegen-drohender-flut-evakuiert](https://www.spiegel.de/panorama/ueberschwemmung-in-pakistan-300-000-menschen-wegen-drohender-flut-evakuiert-a-5e2dc875-8ae8-49b6-93b1-3a4157416087#ref=rss)
-* [https://www.spiegel.de/ausland/lissabon-mindestens-15-tote-bei-seilbahnunglueck-an-touristenattraktion](https://www.spiegel.de/ausland/lissabon-mindestens-15-tote-bei-seilbahnunglueck-an-touristenattraktion-a-661c85a5-3dbd-41e4-8146-8c24bfd49ac3#ref=rss)
-### kostet
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-braucht-10-milliarden-euro-fuer-neue-uniformen](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-braucht-10-milliarden-euro-fuer-neue-uniformen-a-710eaee6-6406-43e5-a31a-1e42f4ac513b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-pkw-maut-kostet-steuerzahler-weitere-27-millionen-euro](https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-pkw-maut-kostet-steuerzahler-weitere-27-millionen-euro-a-96b69237-3a56-4ee3-b424-edcf038e616f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-bewerbungsphase-fuer-tickets-startet-am-mittwoch](https://www.spiegel.de/sport/fussball/fussball-wm-2026-bewerbungsphase-fuer-tickets-startet-am-mittwoch-a-df5e9a55-3ca8-4910-be1f-687f3a500181#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/kino/graham-greene-gestorben-kaempfer-gegen-klischees](https://www.spiegel.de/kultur/kino/graham-greene-gestorben-kaempfer-gegen-klischees-a-8b563f62-61d3-44d3-b4f7-25156cc3d81b#ref=rss)
-* [https://www.spiegel.de/ausland/lissabon-mindestens-15-tote-bei-seilbahnunglueck-an-touristenattraktion](https://www.spiegel.de/ausland/lissabon-mindestens-15-tote-bei-seilbahnunglueck-an-touristenattraktion-a-661c85a5-3dbd-41e4-8146-8c24bfd49ac3#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/kino/graham-greene-gestorben-kaempfer-gegen-klischees](https://www.spiegel.de/kultur/kino/graham-greene-gestorben-kaempfer-gegen-klischees-a-8b563f62-61d3-44d3-b4f7-25156cc3d81b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-braucht-10-milliarden-euro-fuer-neue-uniformen](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-braucht-10-milliarden-euro-fuer-neue-uniformen-a-710eaee6-6406-43e5-a31a-1e42f4ac513b#ref=rss)
-### staat
-
-* [https://www.spiegel.de/panorama/gesellschaft/rentenreform-welche-generation-bescheissen-wir-am-meisten](https://www.spiegel.de/panorama/gesellschaft/rentenreform-welche-generation-bescheissen-wir-am-meisten-a-05f20c2c-7eb5-470e-b818-fc4ccdffda1c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-pkw-maut-kostet-steuerzahler-weitere-27-millionen-euro](https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-pkw-maut-kostet-steuerzahler-weitere-27-millionen-euro-a-96b69237-3a56-4ee3-b424-edcf038e616f#ref=rss)
-### channing
-
-* [https://www.spiegel.de/panorama/channing-tatum-scheiterte-beim-vorsprechen-fuer-rolle-als-superheld-thor](https://www.spiegel.de/panorama/channing-tatum-scheiterte-beim-vorsprechen-fuer-rolle-als-superheld-thor-a-76ec9900-dcb5-4449-a9b9-9426f1ccb7a7#ref=rss)
-### tatum
-
-* [https://www.spiegel.de/panorama/channing-tatum-scheiterte-beim-vorsprechen-fuer-rolle-als-superheld-thor](https://www.spiegel.de/panorama/channing-tatum-scheiterte-beim-vorsprechen-fuer-rolle-als-superheld-thor-a-76ec9900-dcb5-4449-a9b9-9426f1ccb7a7#ref=rss)
-### thor
-
-* [https://www.spiegel.de/panorama/channing-tatum-scheiterte-beim-vorsprechen-fuer-rolle-als-superheld-thor](https://www.spiegel.de/panorama/channing-tatum-scheiterte-beim-vorsprechen-fuer-rolle-als-superheld-thor-a-76ec9900-dcb5-4449-a9b9-9426f1ccb7a7#ref=rss)
-### ende
-
-* [https://www.spiegel.de/kultur/tv/nach-ende-von-rtl-direkt-pinar-atalay-bekommt-neues-talk-format-bei-n-tv](https://www.spiegel.de/kultur/tv/nach-ende-von-rtl-direkt-pinar-atalay-bekommt-neues-talk-format-bei-n-tv-a-059be947-4e7a-4a86-b007-a73d20efc93d#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas](https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas-a-ee80db7d-0395-42c2-a621-722b80e586b4#ref=rss)
-### rtl
-
-* [https://www.spiegel.de/kultur/tv/nach-ende-von-rtl-direkt-pinar-atalay-bekommt-neues-talk-format-bei-n-tv](https://www.spiegel.de/kultur/tv/nach-ende-von-rtl-direkt-pinar-atalay-bekommt-neues-talk-format-bei-n-tv-a-059be947-4e7a-4a86-b007-a73d20efc93d#ref=rss)
-### pinar
-
-* [https://www.spiegel.de/kultur/tv/nach-ende-von-rtl-direkt-pinar-atalay-bekommt-neues-talk-format-bei-n-tv](https://www.spiegel.de/kultur/tv/nach-ende-von-rtl-direkt-pinar-atalay-bekommt-neues-talk-format-bei-n-tv-a-059be947-4e7a-4a86-b007-a73d20efc93d#ref=rss)
-### atalay
-
-* [https://www.spiegel.de/kultur/tv/nach-ende-von-rtl-direkt-pinar-atalay-bekommt-neues-talk-format-bei-n-tv](https://www.spiegel.de/kultur/tv/nach-ende-von-rtl-direkt-pinar-atalay-bekommt-neues-talk-format-bei-n-tv-a-059be947-4e7a-4a86-b007-a73d20efc93d#ref=rss)
-### bekommt
-
-* [https://www.spiegel.de/kultur/tv/nach-ende-von-rtl-direkt-pinar-atalay-bekommt-neues-talk-format-bei-n-tv](https://www.spiegel.de/kultur/tv/nach-ende-von-rtl-direkt-pinar-atalay-bekommt-neues-talk-format-bei-n-tv-a-059be947-4e7a-4a86-b007-a73d20efc93d#ref=rss)
-* [https://www.spiegel.de/panorama/flut-im-ahrtal-ex-landrat-bekommt-ein-drittel-weniger-pension-und-soll-bezuege-ganz-verlieren](https://www.spiegel.de/panorama/flut-im-ahrtal-ex-landrat-bekommt-ein-drittel-weniger-pension-und-soll-bezuege-ganz-verlieren-a-570376cd-911b-4ee7-bbd8-657bdad5ee50#ref=rss)
-### ntv
-
-* [https://www.spiegel.de/kultur/tv/nach-ende-von-rtl-direkt-pinar-atalay-bekommt-neues-talk-format-bei-n-tv](https://www.spiegel.de/kultur/tv/nach-ende-von-rtl-direkt-pinar-atalay-bekommt-neues-talk-format-bei-n-tv-a-059be947-4e7a-4a86-b007-a73d20efc93d#ref=rss)
-### düsseldorf
-
-* [https://www.spiegel.de/panorama/duesseldorf-ermittlungen-gegen-polizisten-wegen-diebstahls-und-drogenbesitz](https://www.spiegel.de/panorama/duesseldorf-ermittlungen-gegen-polizisten-wegen-diebstahls-und-drogenbesitz-a-996e9998-0e0b-4aa0-b24b-8b891716be3c#ref=rss)
-### ermittlungen
-
-* [https://www.spiegel.de/panorama/duesseldorf-ermittlungen-gegen-polizisten-wegen-diebstahls-und-drogenbesitz](https://www.spiegel.de/panorama/duesseldorf-ermittlungen-gegen-polizisten-wegen-diebstahls-und-drogenbesitz-a-996e9998-0e0b-4aa0-b24b-8b891716be3c#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss](https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss-a-e4d3d333-9cc6-416c-ac8c-ed878ba01b87#ref=rss)
-### polizisten
-
-* [https://www.spiegel.de/panorama/duesseldorf-ermittlungen-gegen-polizisten-wegen-diebstahls-und-drogenbesitz](https://www.spiegel.de/panorama/duesseldorf-ermittlungen-gegen-polizisten-wegen-diebstahls-und-drogenbesitz-a-996e9998-0e0b-4aa0-b24b-8b891716be3c#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/duesseldorf-ermittlungen-gegen-polizisten-wegen-diebstahls-und-drogenbesitz](https://www.spiegel.de/panorama/duesseldorf-ermittlungen-gegen-polizisten-wegen-diebstahls-und-drogenbesitz-a-996e9998-0e0b-4aa0-b24b-8b891716be3c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-bewerbungsphase-fuer-tickets-startet-am-mittwoch](https://www.spiegel.de/sport/fussball/fussball-wm-2026-bewerbungsphase-fuer-tickets-startet-am-mittwoch-a-df5e9a55-3ca8-4910-be1f-687f3a500181#ref=rss)
-### spiegelinformationen
-
-* [https://www.spiegel.de/panorama/duesseldorf-ermittlungen-gegen-polizisten-wegen-diebstahls-und-drogenbesitz](https://www.spiegel.de/panorama/duesseldorf-ermittlungen-gegen-polizisten-wegen-diebstahls-und-drogenbesitz-a-996e9998-0e0b-4aa0-b24b-8b891716be3c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-afd-fraktionsmitarbeiter-wegen-rassistischem-angriff-auf-fluechtlinge-vorbestraft](https://www.spiegel.de/politik/deutschland/bundestag-afd-fraktionsmitarbeiter-wegen-rassistischem-angriff-auf-fluechtlinge-vorbestraft-a-b9274228-a13e-4e6e-b997-4d9ffc750bab#ref=rss)
-### geld
-
-* [https://www.spiegel.de/panorama/duesseldorf-ermittlungen-gegen-polizisten-wegen-diebstahls-und-drogenbesitz](https://www.spiegel.de/panorama/duesseldorf-ermittlungen-gegen-polizisten-wegen-diebstahls-und-drogenbesitz-a-996e9998-0e0b-4aa0-b24b-8b891716be3c#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss](https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss-a-e4d3d333-9cc6-416c-ac8c-ed878ba01b87#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas](https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas-a-ee80db7d-0395-42c2-a621-722b80e586b4#ref=rss)
-### mehrheit
-
-* [https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas](https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas-a-ee80db7d-0395-42c2-a621-722b80e586b4#ref=rss)
-### israelis
-
-* [https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas](https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas-a-ee80db7d-0395-42c2-a621-722b80e586b4#ref=rss)
-### deal
-
-* [https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas](https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas-a-ee80db7d-0395-42c2-a621-722b80e586b4#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas](https://www.spiegel.de/ausland/krieg-in-gaza-mehrheit-der-israelis-fuer-deal-mit-der-hamas-a-ee80db7d-0395-42c2-a621-722b80e586b4#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/kultur/schweden-ikea-statt-abba-schweden-streitet-ueber-kulturelles-erbe](https://www.spiegel.de/kultur/schweden-ikea-statt-abba-schweden-streitet-ueber-kulturelles-erbe-a-9ede2945-1c2f-48b5-be37-126486071eae#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/sport/basketball/basketball-em-2025-so-wichtig-ist-daniel-theis-fuer-das-deutsche-team](https://www.spiegel.de/sport/basketball/basketball-em-2025-so-wichtig-ist-daniel-theis-fuer-das-deutsche-team-a-d1092f91-0b79-4225-a74c-e08e4ddba500#ref=rss)
-### theis
-
-* [https://www.spiegel.de/sport/basketball/basketball-em-2025-so-wichtig-ist-daniel-theis-fuer-das-deutsche-team](https://www.spiegel.de/sport/basketball/basketball-em-2025-so-wichtig-ist-daniel-theis-fuer-das-deutsche-team-a-d1092f91-0b79-4225-a74c-e08e4ddba500#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/basketball/basketball-em-2025-so-wichtig-ist-daniel-theis-fuer-das-deutsche-team](https://www.spiegel.de/sport/basketball/basketball-em-2025-so-wichtig-ist-daniel-theis-fuer-das-deutsche-team-a-d1092f91-0b79-4225-a74c-e08e4ddba500#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mfe-berlusconi-konzern-erhaelt-volle-kontrolle-bei-prosiebensat-1](https://www.spiegel.de/wirtschaft/unternehmen/mfe-berlusconi-konzern-erhaelt-volle-kontrolle-bei-prosiebensat-1-a-a2ec01b2-d1dc-47e4-97bc-16e82dcc70d5#ref=rss)
-### verletzung
-
-* [https://www.spiegel.de/sport/basketball/basketball-em-2025-so-wichtig-ist-daniel-theis-fuer-das-deutsche-team](https://www.spiegel.de/sport/basketball/basketball-em-2025-so-wichtig-ist-daniel-theis-fuer-das-deutsche-team-a-d1092f91-0b79-4225-a74c-e08e4ddba500#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/google-425-millionen-dollar-strafe-wegen-verletzung-der-privatsphaere-der-user](https://www.spiegel.de/netzwelt/web/google-425-millionen-dollar-strafe-wegen-verletzung-der-privatsphaere-der-user-a-30133a41-5421-4476-97c5-5adfb7ac4a6b#ref=rss)
-### hart
-
-* [https://www.spiegel.de/sport/basketball/basketball-em-2025-so-wichtig-ist-daniel-theis-fuer-das-deutsche-team](https://www.spiegel.de/sport/basketball/basketball-em-2025-so-wichtig-ist-daniel-theis-fuer-das-deutsche-team-a-d1092f91-0b79-4225-a74c-e08e4ddba500#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-und-ifw-fuehrende-wirtschaftsforscher-senken-wachstumsprognosen](https://www.spiegel.de/wirtschaft/unternehmen/ifo-und-ifw-fuehrende-wirtschaftsforscher-senken-wachstumsprognosen-a-770c9d51-501f-4639-a66d-a3a0fd090e83#ref=rss)
-### ifo
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-und-ifw-fuehrende-wirtschaftsforscher-senken-wachstumsprognosen](https://www.spiegel.de/wirtschaft/unternehmen/ifo-und-ifw-fuehrende-wirtschaftsforscher-senken-wachstumsprognosen-a-770c9d51-501f-4639-a66d-a3a0fd090e83#ref=rss)
-### ifw
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-und-ifw-fuehrende-wirtschaftsforscher-senken-wachstumsprognosen](https://www.spiegel.de/wirtschaft/unternehmen/ifo-und-ifw-fuehrende-wirtschaftsforscher-senken-wachstumsprognosen-a-770c9d51-501f-4639-a66d-a3a0fd090e83#ref=rss)
-### wachstumsprognosen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-und-ifw-fuehrende-wirtschaftsforscher-senken-wachstumsprognosen](https://www.spiegel.de/wirtschaft/unternehmen/ifo-und-ifw-fuehrende-wirtschaftsforscher-senken-wachstumsprognosen-a-770c9d51-501f-4639-a66d-a3a0fd090e83#ref=rss)
-### exlandrat
-
-* [https://www.spiegel.de/panorama/flut-im-ahrtal-ex-landrat-bekommt-ein-drittel-weniger-pension-und-soll-bezuege-ganz-verlieren](https://www.spiegel.de/panorama/flut-im-ahrtal-ex-landrat-bekommt-ein-drittel-weniger-pension-und-soll-bezuege-ganz-verlieren-a-570376cd-911b-4ee7-bbd8-657bdad5ee50#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/panorama/flut-im-ahrtal-ex-landrat-bekommt-ein-drittel-weniger-pension-und-soll-bezuege-ganz-verlieren](https://www.spiegel.de/panorama/flut-im-ahrtal-ex-landrat-bekommt-ein-drittel-weniger-pension-und-soll-bezuege-ganz-verlieren-a-570376cd-911b-4ee7-bbd8-657bdad5ee50#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-bewerbungsphase-fuer-tickets-startet-am-mittwoch](https://www.spiegel.de/sport/fussball/fussball-wm-2026-bewerbungsphase-fuer-tickets-startet-am-mittwoch-a-df5e9a55-3ca8-4910-be1f-687f3a500181#ref=rss)
-### prosiebensat1
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/mfe-berlusconi-konzern-erhaelt-volle-kontrolle-bei-prosiebensat-1](https://www.spiegel.de/wirtschaft/unternehmen/mfe-berlusconi-konzern-erhaelt-volle-kontrolle-bei-prosiebensat-1-a-a2ec01b2-d1dc-47e4-97bc-16e82dcc70d5#ref=rss)
-### droht
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/mfe-berlusconi-konzern-erhaelt-volle-kontrolle-bei-prosiebensat-1](https://www.spiegel.de/wirtschaft/unternehmen/mfe-berlusconi-konzern-erhaelt-volle-kontrolle-bei-prosiebensat-1-a-a2ec01b2-d1dc-47e4-97bc-16e82dcc70d5#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-verteidigungsminister-droht-huthis-mit-angriffen-biblischen-ausmasses](https://www.spiegel.de/ausland/jemen-verteidigungsminister-droht-huthis-mit-angriffen-biblischen-ausmasses-a-593583ca-8219-4cf7-82de-d3ebf6eaa0cf#ref=rss)
-### meißen
-
-* [https://www.spiegel.de/wirtschaft/meissen-whatsapp-scam-angebot-frau-verliert-mehr-als-30-000-euro-durch-job-betrug](https://www.spiegel.de/wirtschaft/meissen-whatsapp-scam-angebot-frau-verliert-mehr-als-30-000-euro-durch-job-betrug-a-9dc3709b-6232-477e-bae2-621c474fe06b#ref=rss)
-### frau
-
-* [https://www.spiegel.de/wirtschaft/meissen-whatsapp-scam-angebot-frau-verliert-mehr-als-30-000-euro-durch-job-betrug](https://www.spiegel.de/wirtschaft/meissen-whatsapp-scam-angebot-frau-verliert-mehr-als-30-000-euro-durch-job-betrug-a-9dc3709b-6232-477e-bae2-621c474fe06b#ref=rss)
-### sydney
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sydney-sweeney-american-eagle-zeigt-sich-begeistert-von-umstrittener-werbekampagne](https://www.spiegel.de/wirtschaft/unternehmen/sydney-sweeney-american-eagle-zeigt-sich-begeistert-von-umstrittener-werbekampagne-a-dcca9b2a-ae3d-4c43-98f7-433181235113#ref=rss)
-### sweeney
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sydney-sweeney-american-eagle-zeigt-sich-begeistert-von-umstrittener-werbekampagne](https://www.spiegel.de/wirtschaft/unternehmen/sydney-sweeney-american-eagle-zeigt-sich-begeistert-von-umstrittener-werbekampagne-a-dcca9b2a-ae3d-4c43-98f7-433181235113#ref=rss)
-### american
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sydney-sweeney-american-eagle-zeigt-sich-begeistert-von-umstrittener-werbekampagne](https://www.spiegel.de/wirtschaft/unternehmen/sydney-sweeney-american-eagle-zeigt-sich-begeistert-von-umstrittener-werbekampagne-a-dcca9b2a-ae3d-4c43-98f7-433181235113#ref=rss)
-### eagle
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sydney-sweeney-american-eagle-zeigt-sich-begeistert-von-umstrittener-werbekampagne](https://www.spiegel.de/wirtschaft/unternehmen/sydney-sweeney-american-eagle-zeigt-sich-begeistert-von-umstrittener-werbekampagne-a-dcca9b2a-ae3d-4c43-98f7-433181235113#ref=rss)
-### werbekampagne
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sydney-sweeney-american-eagle-zeigt-sich-begeistert-von-umstrittener-werbekampagne](https://www.spiegel.de/wirtschaft/unternehmen/sydney-sweeney-american-eagle-zeigt-sich-begeistert-von-umstrittener-werbekampagne-a-dcca9b2a-ae3d-4c43-98f7-433181235113#ref=rss)
-### stephen
-
-* [https://www.spiegel.de/kultur/kino/stephen-king-us-autor-findet-superheldenfilme-nicht-blutig-genug](https://www.spiegel.de/kultur/kino/stephen-king-us-autor-findet-superheldenfilme-nicht-blutig-genug-a-309a23b8-be14-47e0-b2de-0ebc2d7ba8fd#ref=rss)
-### king
-
-* [https://www.spiegel.de/kultur/kino/stephen-king-us-autor-findet-superheldenfilme-nicht-blutig-genug](https://www.spiegel.de/kultur/kino/stephen-king-us-autor-findet-superheldenfilme-nicht-blutig-genug-a-309a23b8-be14-47e0-b2de-0ebc2d7ba8fd#ref=rss)
-### meinung
-
-* [https://www.spiegel.de/kultur/kino/stephen-king-us-autor-findet-superheldenfilme-nicht-blutig-genug](https://www.spiegel.de/kultur/kino/stephen-king-us-autor-findet-superheldenfilme-nicht-blutig-genug-a-309a23b8-be14-47e0-b2de-0ebc2d7ba8fd#ref=rss)
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-demokratieabbau-und-die-stille-resignation](https://www.spiegel.de/ausland/usa-unter-donald-trump-demokratieabbau-und-die-stille-resignation-a-60d20c7b-4bb9-45fc-b884-d41825dfa545#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-afd-fraktionsmitarbeiter-wegen-rassistischem-angriff-auf-fluechtlinge-vorbestraft](https://www.spiegel.de/politik/deutschland/bundestag-afd-fraktionsmitarbeiter-wegen-rassistischem-angriff-auf-fluechtlinge-vorbestraft-a-b9274228-a13e-4e6e-b997-4d9ffc750bab#ref=rss)
-### vuelta
-
-* [https://www.spiegel.de/sport/radsport/vuelta-israel-premier-tech-pro-palaestinensische-proteste-und-morddrohungen-gegen-radteam](https://www.spiegel.de/sport/radsport/vuelta-israel-premier-tech-pro-palaestinensische-proteste-und-morddrohungen-gegen-radteam-a-29394c1a-d064-4e06-a9f9-bacadbb13c03#ref=rss)
-### israelpremier
-
-* [https://www.spiegel.de/sport/radsport/vuelta-israel-premier-tech-pro-palaestinensische-proteste-und-morddrohungen-gegen-radteam](https://www.spiegel.de/sport/radsport/vuelta-israel-premier-tech-pro-palaestinensische-proteste-und-morddrohungen-gegen-radteam-a-29394c1a-d064-4e06-a9f9-bacadbb13c03#ref=rss)
-### tech
-
-* [https://www.spiegel.de/sport/radsport/vuelta-israel-premier-tech-pro-palaestinensische-proteste-und-morddrohungen-gegen-radteam](https://www.spiegel.de/sport/radsport/vuelta-israel-premier-tech-pro-palaestinensische-proteste-und-morddrohungen-gegen-radteam-a-29394c1a-d064-4e06-a9f9-bacadbb13c03#ref=rss)
-### morddrohungen
-
-* [https://www.spiegel.de/sport/radsport/vuelta-israel-premier-tech-pro-palaestinensische-proteste-und-morddrohungen-gegen-radteam](https://www.spiegel.de/sport/radsport/vuelta-israel-premier-tech-pro-palaestinensische-proteste-und-morddrohungen-gegen-radteam-a-29394c1a-d064-4e06-a9f9-bacadbb13c03#ref=rss)
-### google
-
-* [https://www.spiegel.de/netzwelt/web/google-425-millionen-dollar-strafe-wegen-verletzung-der-privatsphaere-der-user](https://www.spiegel.de/netzwelt/web/google-425-millionen-dollar-strafe-wegen-verletzung-der-privatsphaere-der-user-a-30133a41-5421-4476-97c5-5adfb7ac4a6b#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/netzwelt/web/google-425-millionen-dollar-strafe-wegen-verletzung-der-privatsphaere-der-user](https://www.spiegel.de/netzwelt/web/google-425-millionen-dollar-strafe-wegen-verletzung-der-privatsphaere-der-user-a-30133a41-5421-4476-97c5-5adfb7ac4a6b#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss](https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss-a-e4d3d333-9cc6-416c-ac8c-ed878ba01b87#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/netzwelt/web/google-425-millionen-dollar-strafe-wegen-verletzung-der-privatsphaere-der-user](https://www.spiegel.de/netzwelt/web/google-425-millionen-dollar-strafe-wegen-verletzung-der-privatsphaere-der-user-a-30133a41-5421-4476-97c5-5adfb7ac4a6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-pkw-maut-kostet-steuerzahler-weitere-27-millionen-euro](https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-pkw-maut-kostet-steuerzahler-weitere-27-millionen-euro-a-96b69237-3a56-4ee3-b424-edcf038e616f#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-braucht-10-milliarden-euro-fuer-neue-uniformen](https://www.spiegel.de/politik/deutschland/bundeswehr-boris-pistorius-braucht-10-milliarden-euro-fuer-neue-uniformen-a-710eaee6-6406-43e5-a31a-1e42f4ac513b#ref=rss)
-### nba
-
-* [https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss](https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss-a-e4d3d333-9cc6-416c-ac8c-ed878ba01b87#ref=rss)
-### los
-
-* [https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss](https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss-a-e4d3d333-9cc6-416c-ac8c-ed878ba01b87#ref=rss)
-### angeles
-
-* [https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss](https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss-a-e4d3d333-9cc6-416c-ac8c-ed878ba01b87#ref=rss)
-### clippers
-
-* [https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss](https://www.spiegel.de/sport/basketball/nba-ermittlungen-gegen-los-angeles-clippers-wegen-gehaltsobergrenze-verstoss-a-e4d3d333-9cc6-416c-ac8c-ed878ba01b87#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/lissabon-augenzeugen-berichten-ueber-seilbahn-unglueck-an-der-avenida-da-liberdade](https://www.spiegel.de/panorama/gesellschaft/lissabon-augenzeugen-berichten-ueber-seilbahn-unglueck-an-der-avenida-da-liberdade-a-dddee4bb-99e8-43cc-ab66-0804fbd1855e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausruestung-fuer-die-bundeswehr-lehrermangel-seilbahnunglueck-in-lissabon](https://www.spiegel.de/politik/deutschland/news-des-tages-ausruestung-fuer-die-bundeswehr-lehrermangel-seilbahnunglueck-in-lissabon-a-85e26fa6-d5ab-4a1c-a733-b621013e79f5#ref=rss)
+* [https://www.spiegel.de/panorama/lissabon-premierminister-korrigiert-todeszahl-nach-standseilbahn-unglueck](https://www.spiegel.de/panorama/lissabon-premierminister-korrigiert-todeszahl-nach-standseilbahn-unglueck-a-ca7f2bf7-e1f2-4627-8c2e-a950f907f373#ref=rss)
+* [https://www.spiegel.de/ausland/lissabon-was-ueber-den-unfall-der-standseilbahn-bekannt-ist](https://www.spiegel.de/ausland/lissabon-was-ueber-den-unfall-der-standseilbahn-bekannt-ist-a-08080dc7-abdb-4894-914d-123e5dac1e83#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-demokratieabbau-und-die-stille-resignation](https://www.spiegel.de/ausland/usa-unter-donald-trump-demokratieabbau-und-die-stille-resignation-a-60d20c7b-4bb9-45fc-b884-d41825dfa545#ref=rss)
+* [https://www.spiegel.de/ausland/us-hauptstadt-washington-verklagt-trump-regierung-wegen-einsatz-der-nationalgarde](https://www.spiegel.de/ausland/us-hauptstadt-washington-verklagt-trump-regierung-wegen-einsatz-der-nationalgarde-a-ac785444-8d98-4ad7-b18d-5728d4fe6c39#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-trotz-donald-trumps-zollpolitik-waechst-das-aussenhandelsdefizit-stark](https://www.spiegel.de/wirtschaft/usa-trotz-donald-trumps-zollpolitik-waechst-das-aussenhandelsdefizit-stark-a-a1926835-d2d6-4001-91f0-5f9d4c0ba1c6#ref=rss)
+* [https://www.spiegel.de/ausland/usa-was-will-donald-trump-mit-der-nationalgarde-in-washington-oder-chicago-podcast](https://www.spiegel.de/ausland/usa-was-will-donald-trump-mit-der-nationalgarde-in-washington-oder-chicago-podcast-a-f4377f43-596a-4fad-b889-e36ccf97ee2a#ref=rss)
+### neue
+
+* [https://www.spiegel.de/sport/american-football-lesen-sie-diesen-text-um-zum-nfl-saisonstart-mitreden-zu-koennen](https://www.spiegel.de/sport/american-football-lesen-sie-diesen-text-um-zum-nfl-saisonstart-mitreden-zu-koennen-a-447e5753-fc9b-4f7c-84f3-fcc04a6fe229#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen](https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen-a-bd1aed37-b72c-4727-97c8-7c7070ce7b65#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausruestung-fuer-die-bundeswehr-lehrermangel-seilbahnunglueck-in-lissabon](https://www.spiegel.de/politik/deutschland/news-des-tages-ausruestung-fuer-die-bundeswehr-lehrermangel-seilbahnunglueck-in-lissabon-a-85e26fa6-d5ab-4a1c-a733-b621013e79f5#ref=rss)
+* [https://www.spiegel.de/kultur/musik/the-smiths-morrissey-plant-verkauf-seiner-rechte-an-der-band](https://www.spiegel.de/kultur/musik/the-smiths-morrissey-plant-verkauf-seiner-rechte-an-der-band-a-59cfd4ae-f002-4962-893f-ddf9f47bbf08#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sydney-sweeney-und-scooter-braun-das-ist-vielleicht-ein-match](https://www.spiegel.de/panorama/leute/sydney-sweeney-und-scooter-braun-das-ist-vielleicht-ein-match-a-7935e7cf-1298-41e7-9209-d4ba020e928f#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-demokratieabbau-und-die-stille-resignation](https://www.spiegel.de/ausland/usa-unter-donald-trump-demokratieabbau-und-die-stille-resignation-a-60d20c7b-4bb9-45fc-b884-d41825dfa545#ref=rss)
-### resignation
+* [https://www.spiegel.de/ausland/us-hauptstadt-washington-verklagt-trump-regierung-wegen-einsatz-der-nationalgarde](https://www.spiegel.de/ausland/us-hauptstadt-washington-verklagt-trump-regierung-wegen-einsatz-der-nationalgarde-a-ac785444-8d98-4ad7-b18d-5728d4fe6c39#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-trotz-donald-trumps-zollpolitik-waechst-das-aussenhandelsdefizit-stark](https://www.spiegel.de/wirtschaft/usa-trotz-donald-trumps-zollpolitik-waechst-das-aussenhandelsdefizit-stark-a-a1926835-d2d6-4001-91f0-5f9d4c0ba1c6#ref=rss)
+* [https://www.spiegel.de/ausland/usa-was-will-donald-trump-mit-der-nationalgarde-in-washington-oder-chicago-podcast](https://www.spiegel.de/ausland/usa-was-will-donald-trump-mit-der-nationalgarde-in-washington-oder-chicago-podcast-a-f4377f43-596a-4fad-b889-e36ccf97ee2a#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-demokratieabbau-und-die-stille-resignation](https://www.spiegel.de/ausland/usa-unter-donald-trump-demokratieabbau-und-die-stille-resignation-a-60d20c7b-4bb9-45fc-b884-d41825dfa545#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/russlands-krieg-gegen-die-ukraine-gipfel-in-paris-koalition-der-wolkigen-ankuendigungen](https://www.spiegel.de/politik/deutschland/russlands-krieg-gegen-die-ukraine-gipfel-in-paris-koalition-der-wolkigen-ankuendigungen-a-96a826f7-da3b-4355-b3c1-6d5950a0352e#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen](https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen-a-bd1aed37-b72c-4727-97c8-7c7070ce7b65#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/wissenschaft/natur/nordpol-expedition-der-polarstern-forscher-befuerchten-oekokollaps-im-eismeer](https://www.spiegel.de/wissenschaft/natur/nordpol-expedition-der-polarstern-forscher-befuerchten-oekokollaps-im-eismeer-a-99681242-0ad3-4393-a555-b238968ff248#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bundesverwaltungsgericht-haelt-zusaetzliche-unterrichtsstunde-in-sachsen-anhalt-fuer-rechtswidrig](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bundesverwaltungsgericht-haelt-zusaetzliche-unterrichtsstunde-in-sachsen-anhalt-fuer-rechtswidrig-a-4d0cb323-c847-4269-95f3-3516e0950ec8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-porzellan-im-wert-von-millionen-aus-museum-gestohlen](https://www.spiegel.de/panorama/justiz/frankreich-porzellan-im-wert-von-millionen-aus-museum-gestohlen-a-349ed2fb-dc8a-4e73-b739-b666d490f23a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland](https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland-a-f7cce673-0886-4247-81f9-5f4441dccd9e#ref=rss)
+### washington
+
+* [https://www.spiegel.de/ausland/us-hauptstadt-washington-verklagt-trump-regierung-wegen-einsatz-der-nationalgarde](https://www.spiegel.de/ausland/us-hauptstadt-washington-verklagt-trump-regierung-wegen-einsatz-der-nationalgarde-a-ac785444-8d98-4ad7-b18d-5728d4fe6c39#ref=rss)
+* [https://www.spiegel.de/ausland/usa-was-will-donald-trump-mit-der-nationalgarde-in-washington-oder-chicago-podcast](https://www.spiegel.de/ausland/usa-was-will-donald-trump-mit-der-nationalgarde-in-washington-oder-chicago-podcast-a-f4377f43-596a-4fad-b889-e36ccf97ee2a#ref=rss)
+### nationalgarde
+
+* [https://www.spiegel.de/ausland/us-hauptstadt-washington-verklagt-trump-regierung-wegen-einsatz-der-nationalgarde](https://www.spiegel.de/ausland/us-hauptstadt-washington-verklagt-trump-regierung-wegen-einsatz-der-nationalgarde-a-ac785444-8d98-4ad7-b18d-5728d4fe6c39#ref=rss)
+* [https://www.spiegel.de/ausland/usa-was-will-donald-trump-mit-der-nationalgarde-in-washington-oder-chicago-podcast](https://www.spiegel.de/ausland/usa-was-will-donald-trump-mit-der-nationalgarde-in-washington-oder-chicago-podcast-a-f4377f43-596a-4fad-b889-e36ccf97ee2a#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/justiz/stetten-am-kalten-markt-trio-klaut-bus-von-der-haltestelle](https://www.spiegel.de/panorama/justiz/stetten-am-kalten-markt-trio-klaut-bus-von-der-haltestelle-a-bd1a8191-b088-46ce-9e21-0d272be7bd69#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-fuechse-berlin-stefan-kretzschmar-und-jaron-siewert-freigestellt](https://www.spiegel.de/sport/handball/handball-fuechse-berlin-stefan-kretzschmar-und-jaron-siewert-freigestellt-a-6801077c-83bc-49a3-ba07-81157ac8339b#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/ifa-neuheiten-drei-weltweit-erste-dampfschubladen](https://www.spiegel.de/netzwelt/gadgets/ifa-neuheiten-drei-weltweit-erste-dampfschubladen-a-4f281eec-790e-474f-80ef-28810d1ae8c9#ref=rss)
+### giorgio
+
+* [https://www.spiegel.de/stil/giorgio-armani-ist-tot-der-letzte-kaiser-der-mode-nachruf](https://www.spiegel.de/stil/giorgio-armani-ist-tot-der-letzte-kaiser-der-mode-nachruf-a-1d6e2fc2-40aa-462c-9495-2d15e29bc7e8#ref=rss)
+* [https://www.spiegel.de/stil/italienischer-stardesigner-giorgio-armani-ist-tot](https://www.spiegel.de/stil/italienischer-stardesigner-giorgio-armani-ist-tot-a-c2276faa-ab2d-49f6-8a1e-2ae89178f6e9#ref=rss)
+### armani
+
+* [https://www.spiegel.de/stil/giorgio-armani-ist-tot-der-letzte-kaiser-der-mode-nachruf](https://www.spiegel.de/stil/giorgio-armani-ist-tot-der-letzte-kaiser-der-mode-nachruf-a-1d6e2fc2-40aa-462c-9495-2d15e29bc7e8#ref=rss)
+* [https://www.spiegel.de/stil/italienischer-stardesigner-giorgio-armani-ist-tot](https://www.spiegel.de/stil/italienischer-stardesigner-giorgio-armani-ist-tot-a-c2276faa-ab2d-49f6-8a1e-2ae89178f6e9#ref=rss)
+### seilbahnunglück
+
+* [https://www.spiegel.de/panorama/gesellschaft/lissabon-augenzeugen-berichten-ueber-seilbahn-unglueck-an-der-avenida-da-liberdade](https://www.spiegel.de/panorama/gesellschaft/lissabon-augenzeugen-berichten-ueber-seilbahn-unglueck-an-der-avenida-da-liberdade-a-dddee4bb-99e8-43cc-ab66-0804fbd1855e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausruestung-fuer-die-bundeswehr-lehrermangel-seilbahnunglueck-in-lissabon](https://www.spiegel.de/politik/deutschland/news-des-tages-ausruestung-fuer-die-bundeswehr-lehrermangel-seilbahnunglueck-in-lissabon-a-85e26fa6-d5ab-4a1c-a733-b621013e79f5#ref=rss)
+### sachsenanhalt
+
+* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bundesverwaltungsgericht-haelt-zusaetzliche-unterrichtsstunde-in-sachsen-anhalt-fuer-rechtswidrig](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bundesverwaltungsgericht-haelt-zusaetzliche-unterrichtsstunde-in-sachsen-anhalt-fuer-rechtswidrig-a-4d0cb323-c847-4269-95f3-3516e0950ec8#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen](https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen-a-bd1aed37-b72c-4727-97c8-7c7070ce7b65#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/ifa-neuheiten-drei-weltweit-erste-dampfschubladen](https://www.spiegel.de/netzwelt/gadgets/ifa-neuheiten-drei-weltweit-erste-dampfschubladen-a-4f281eec-790e-474f-80ef-28810d1ae8c9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland](https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland-a-f7cce673-0886-4247-81f9-5f4441dccd9e#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/ausland/erdbeben-in-afghanistan-zahl-der-toten-steigt-auf-mehr-als-2200](https://www.spiegel.de/ausland/erdbeben-in-afghanistan-zahl-der-toten-steigt-auf-mehr-als-2200-a-e81adb6e-fc38-4085-b711-186303ca718b#ref=rss)
+* [https://www.spiegel.de/panorama/lissabon-premierminister-korrigiert-todeszahl-nach-standseilbahn-unglueck](https://www.spiegel.de/panorama/lissabon-premierminister-korrigiert-todeszahl-nach-standseilbahn-unglueck-a-ca7f2bf7-e1f2-4627-8c2e-a950f907f373#ref=rss)
+### benko
+
+* [https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-vertrauter-verbandelte-ihn-wohl-gegen-geld-mit-rene-benko](https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-vertrauter-verbandelte-ihn-wohl-gegen-geld-mit-rene-benko-a-9406a1ec-86a6-45db-8b5a-b320287a7ccd#ref=rss)
+### energy
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bornholm-siemens-energy-gewinnt-milliardenauftrag-bei-ostsee-projekt](https://www.spiegel.de/wirtschaft/unternehmen/bornholm-siemens-energy-gewinnt-milliardenauftrag-bei-ostsee-projekt-a-ffd0fa5f-d356-43c6-98d9-fd7c666d237b#ref=rss)
+### 26
+
+* [https://www.spiegel.de/politik/deutschland/russlands-krieg-gegen-die-ukraine-gipfel-in-paris-koalition-der-wolkigen-ankuendigungen](https://www.spiegel.de/politik/deutschland/russlands-krieg-gegen-die-ukraine-gipfel-in-paris-koalition-der-wolkigen-ankuendigungen-a-96a826f7-da3b-4355-b3c1-6d5950a0352e#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen](https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen-a-bd1aed37-b72c-4727-97c8-7c7070ce7b65#ref=rss)
+### staaten
+
+* [https://www.spiegel.de/politik/deutschland/russlands-krieg-gegen-die-ukraine-gipfel-in-paris-koalition-der-wolkigen-ankuendigungen](https://www.spiegel.de/politik/deutschland/russlands-krieg-gegen-die-ukraine-gipfel-in-paris-koalition-der-wolkigen-ankuendigungen-a-96a826f7-da3b-4355-b3c1-6d5950a0352e#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen](https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen-a-bd1aed37-b72c-4727-97c8-7c7070ce7b65#ref=rss)
+### beteiligen
+
+* [https://www.spiegel.de/politik/deutschland/russlands-krieg-gegen-die-ukraine-gipfel-in-paris-koalition-der-wolkigen-ankuendigungen](https://www.spiegel.de/politik/deutschland/russlands-krieg-gegen-die-ukraine-gipfel-in-paris-koalition-der-wolkigen-ankuendigungen-a-96a826f7-da3b-4355-b3c1-6d5950a0352e#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen](https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen-a-bd1aed37-b72c-4727-97c8-7c7070ce7b65#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/politik/deutschland/russlands-krieg-gegen-die-ukraine-gipfel-in-paris-koalition-der-wolkigen-ankuendigungen](https://www.spiegel.de/politik/deutschland/russlands-krieg-gegen-die-ukraine-gipfel-in-paris-koalition-der-wolkigen-ankuendigungen-a-96a826f7-da3b-4355-b3c1-6d5950a0352e#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen](https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen-a-bd1aed37-b72c-4727-97c8-7c7070ce7b65#ref=rss)
+### unklar
+
+* [https://www.spiegel.de/politik/deutschland/russlands-krieg-gegen-die-ukraine-gipfel-in-paris-koalition-der-wolkigen-ankuendigungen](https://www.spiegel.de/politik/deutschland/russlands-krieg-gegen-die-ukraine-gipfel-in-paris-koalition-der-wolkigen-ankuendigungen-a-96a826f7-da3b-4355-b3c1-6d5950a0352e#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen](https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen-a-bd1aed37-b72c-4727-97c8-7c7070ce7b65#ref=rss)
+### uspräsidenten
+
+* [https://www.spiegel.de/politik/deutschland/russlands-krieg-gegen-die-ukraine-gipfel-in-paris-koalition-der-wolkigen-ankuendigungen](https://www.spiegel.de/politik/deutschland/russlands-krieg-gegen-die-ukraine-gipfel-in-paris-koalition-der-wolkigen-ankuendigungen-a-96a826f7-da3b-4355-b3c1-6d5950a0352e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-trotz-donald-trumps-zollpolitik-waechst-das-aussenhandelsdefizit-stark](https://www.spiegel.de/wirtschaft/usa-trotz-donald-trumps-zollpolitik-waechst-das-aussenhandelsdefizit-stark-a-a1926835-d2d6-4001-91f0-5f9d4c0ba1c6#ref=rss)
+### augenzeugen
+
+* [https://www.spiegel.de/panorama/gesellschaft/lissabon-augenzeugen-berichten-ueber-seilbahn-unglueck-an-der-avenida-da-liberdade](https://www.spiegel.de/panorama/gesellschaft/lissabon-augenzeugen-berichten-ueber-seilbahn-unglueck-an-der-avenida-da-liberdade-a-dddee4bb-99e8-43cc-ab66-0804fbd1855e#ref=rss)
+### berichten
+
+* [https://www.spiegel.de/panorama/gesellschaft/lissabon-augenzeugen-berichten-ueber-seilbahn-unglueck-an-der-avenida-da-liberdade](https://www.spiegel.de/panorama/gesellschaft/lissabon-augenzeugen-berichten-ueber-seilbahn-unglueck-an-der-avenida-da-liberdade-a-dddee4bb-99e8-43cc-ab66-0804fbd1855e#ref=rss)
+### salzburg
+
+* [https://www.spiegel.de/panorama/salzburg-genehmigt-wolfgang-porsches-500-meter-privat-tunnel](https://www.spiegel.de/panorama/salzburg-genehmigt-wolfgang-porsches-500-meter-privat-tunnel-a-1c4cc55a-30f5-45de-b9a8-0a6d5779d35b#ref=rss)
+### wolfgang
+
+* [https://www.spiegel.de/panorama/salzburg-genehmigt-wolfgang-porsches-500-meter-privat-tunnel](https://www.spiegel.de/panorama/salzburg-genehmigt-wolfgang-porsches-500-meter-privat-tunnel-a-1c4cc55a-30f5-45de-b9a8-0a6d5779d35b#ref=rss)
+### bringt
+
+* [https://www.spiegel.de/panorama/salzburg-genehmigt-wolfgang-porsches-500-meter-privat-tunnel](https://www.spiegel.de/panorama/salzburg-genehmigt-wolfgang-porsches-500-meter-privat-tunnel-a-1c4cc55a-30f5-45de-b9a8-0a6d5779d35b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland](https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland-a-f7cce673-0886-4247-81f9-5f4441dccd9e#ref=rss)
+### polarstern
+
+* [https://www.spiegel.de/wissenschaft/natur/nordpol-expedition-der-polarstern-forscher-befuerchten-oekokollaps-im-eismeer](https://www.spiegel.de/wissenschaft/natur/nordpol-expedition-der-polarstern-forscher-befuerchten-oekokollaps-im-eismeer-a-99681242-0ad3-4393-a555-b238968ff248#ref=rss)
+### monate
+
+* [https://www.spiegel.de/wissenschaft/natur/nordpol-expedition-der-polarstern-forscher-befuerchten-oekokollaps-im-eismeer](https://www.spiegel.de/wissenschaft/natur/nordpol-expedition-der-polarstern-forscher-befuerchten-oekokollaps-im-eismeer-a-99681242-0ad3-4393-a555-b238968ff248#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-fuechse-berlin-stefan-kretzschmar-und-jaron-siewert-freigestellt](https://www.spiegel.de/sport/handball/handball-fuechse-berlin-stefan-kretzschmar-und-jaron-siewert-freigestellt-a-6801077c-83bc-49a3-ba07-81157ac8339b#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/karriere/spanien-beamter-behaelt-pension-trotz-lebenslanger-haft-wegen-mordes](https://www.spiegel.de/karriere/spanien-beamter-behaelt-pension-trotz-lebenslanger-haft-wegen-mordes-a-85eb811f-b382-4650-ab4d-64525be673c2#ref=rss)
+### beamter
+
+* [https://www.spiegel.de/karriere/spanien-beamter-behaelt-pension-trotz-lebenslanger-haft-wegen-mordes](https://www.spiegel.de/karriere/spanien-beamter-behaelt-pension-trotz-lebenslanger-haft-wegen-mordes-a-85eb811f-b382-4650-ab4d-64525be673c2#ref=rss)
+### lebenslanger
+
+* [https://www.spiegel.de/karriere/spanien-beamter-behaelt-pension-trotz-lebenslanger-haft-wegen-mordes](https://www.spiegel.de/karriere/spanien-beamter-behaelt-pension-trotz-lebenslanger-haft-wegen-mordes-a-85eb811f-b382-4650-ab4d-64525be673c2#ref=rss)
+### haft
+
+* [https://www.spiegel.de/karriere/spanien-beamter-behaelt-pension-trotz-lebenslanger-haft-wegen-mordes](https://www.spiegel.de/karriere/spanien-beamter-behaelt-pension-trotz-lebenslanger-haft-wegen-mordes-a-85eb811f-b382-4650-ab4d-64525be673c2#ref=rss)
+### deutscher
+
+* [https://www.spiegel.de/karriere/spanien-beamter-behaelt-pension-trotz-lebenslanger-haft-wegen-mordes](https://www.spiegel.de/karriere/spanien-beamter-behaelt-pension-trotz-lebenslanger-haft-wegen-mordes-a-85eb811f-b382-4650-ab4d-64525be673c2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/christina-block-israelische-firma-dementiert-vorwuerfe-in-entfuehrungsfall](https://www.spiegel.de/panorama/justiz/christina-block-israelische-firma-dementiert-vorwuerfe-in-entfuehrungsfall-a-520193b2-1614-4223-8fa0-73db361f821b#ref=rss)
+### bundesverwaltungsgericht
+
+* [https://www.spiegel.de/karriere/spanien-beamter-behaelt-pension-trotz-lebenslanger-haft-wegen-mordes](https://www.spiegel.de/karriere/spanien-beamter-behaelt-pension-trotz-lebenslanger-haft-wegen-mordes-a-85eb811f-b382-4650-ab4d-64525be673c2#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bundesverwaltungsgericht-haelt-zusaetzliche-unterrichtsstunde-in-sachsen-anhalt-fuer-rechtswidrig](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bundesverwaltungsgericht-haelt-zusaetzliche-unterrichtsstunde-in-sachsen-anhalt-fuer-rechtswidrig-a-4d0cb323-c847-4269-95f3-3516e0950ec8#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bundesverwaltungsgericht-haelt-zusaetzliche-unterrichtsstunde-in-sachsen-anhalt-fuer-rechtswidrig](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bundesverwaltungsgericht-haelt-zusaetzliche-unterrichtsstunde-in-sachsen-anhalt-fuer-rechtswidrig-a-4d0cb323-c847-4269-95f3-3516e0950ec8#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-afghanistan-zahl-der-toten-steigt-auf-mehr-als-2200](https://www.spiegel.de/ausland/erdbeben-in-afghanistan-zahl-der-toten-steigt-auf-mehr-als-2200-a-e81adb6e-fc38-4085-b711-186303ca718b#ref=rss)
+### lehrermangel
+
+* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bundesverwaltungsgericht-haelt-zusaetzliche-unterrichtsstunde-in-sachsen-anhalt-fuer-rechtswidrig](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-bundesverwaltungsgericht-haelt-zusaetzliche-unterrichtsstunde-in-sachsen-anhalt-fuer-rechtswidrig-a-4d0cb323-c847-4269-95f3-3516e0950ec8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausruestung-fuer-die-bundeswehr-lehrermangel-seilbahnunglueck-in-lissabon](https://www.spiegel.de/politik/deutschland/news-des-tages-ausruestung-fuer-die-bundeswehr-lehrermangel-seilbahnunglueck-in-lissabon-a-85e26fa6-d5ab-4a1c-a733-b621013e79f5#ref=rss)
+### macron
+
+* [https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen](https://www.spiegel.de/politik/ukraine-26-laender-wollen-sich-laut-emmanuel-macron-an-sicherheitstruppe-beteiligen-a-bd1aed37-b72c-4727-97c8-7c7070ce7b65#ref=rss)
+### einsatz
+
+* [https://www.spiegel.de/ausland/us-hauptstadt-washington-verklagt-trump-regierung-wegen-einsatz-der-nationalgarde](https://www.spiegel.de/ausland/us-hauptstadt-washington-verklagt-trump-regierung-wegen-einsatz-der-nationalgarde-a-ac785444-8d98-4ad7-b18d-5728d4fe6c39#ref=rss)
+* [https://www.spiegel.de/ausland/usa-was-will-donald-trump-mit-der-nationalgarde-in-washington-oder-chicago-podcast](https://www.spiegel.de/ausland/usa-was-will-donald-trump-mit-der-nationalgarde-in-washington-oder-chicago-podcast-a-f4377f43-596a-4fad-b889-e36ccf97ee2a#ref=rss)
+### hauptstadt
+
+* [https://www.spiegel.de/ausland/us-hauptstadt-washington-verklagt-trump-regierung-wegen-einsatz-der-nationalgarde](https://www.spiegel.de/ausland/us-hauptstadt-washington-verklagt-trump-regierung-wegen-einsatz-der-nationalgarde-a-ac785444-8d98-4ad7-b18d-5728d4fe6c39#ref=rss)
+* [https://www.spiegel.de/ausland/lissabon-was-ueber-den-unfall-der-standseilbahn-bekannt-ist](https://www.spiegel.de/ausland/lissabon-was-ueber-den-unfall-der-standseilbahn-bekannt-ist-a-08080dc7-abdb-4894-914d-123e5dac1e83#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausruestung-fuer-die-bundeswehr-lehrermangel-seilbahnunglueck-in-lissabon](https://www.spiegel.de/politik/deutschland/news-des-tages-ausruestung-fuer-die-bundeswehr-lehrermangel-seilbahnunglueck-in-lissabon-a-85e26fa6-d5ab-4a1c-a733-b621013e79f5#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausruestung-fuer-die-bundeswehr-lehrermangel-seilbahnunglueck-in-lissabon](https://www.spiegel.de/politik/deutschland/news-des-tages-ausruestung-fuer-die-bundeswehr-lehrermangel-seilbahnunglueck-in-lissabon-a-85e26fa6-d5ab-4a1c-a733-b621013e79f5#ref=rss)
+* [https://www.spiegel.de/ausland/lissabon-was-ueber-den-unfall-der-standseilbahn-bekannt-ist](https://www.spiegel.de/ausland/lissabon-was-ueber-den-unfall-der-standseilbahn-bekannt-ist-a-08080dc7-abdb-4894-914d-123e5dac1e83#ref=rss)
+### antworten
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausruestung-fuer-die-bundeswehr-lehrermangel-seilbahnunglueck-in-lissabon](https://www.spiegel.de/politik/deutschland/news-des-tages-ausruestung-fuer-die-bundeswehr-lehrermangel-seilbahnunglueck-in-lissabon-a-85e26fa6-d5ab-4a1c-a733-b621013e79f5#ref=rss)
+* [https://www.spiegel.de/ausland/lissabon-was-ueber-den-unfall-der-standseilbahn-bekannt-ist](https://www.spiegel.de/ausland/lissabon-was-ueber-den-unfall-der-standseilbahn-bekannt-ist-a-08080dc7-abdb-4894-914d-123e5dac1e83#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-porzellan-im-wert-von-millionen-aus-museum-gestohlen](https://www.spiegel.de/panorama/justiz/frankreich-porzellan-im-wert-von-millionen-aus-museum-gestohlen-a-349ed2fb-dc8a-4e73-b739-b666d490f23a#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-porzellan-im-wert-von-millionen-aus-museum-gestohlen](https://www.spiegel.de/panorama/justiz/frankreich-porzellan-im-wert-von-millionen-aus-museum-gestohlen-a-349ed2fb-dc8a-4e73-b739-b666d490f23a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-trotz-donald-trumps-zollpolitik-waechst-das-aussenhandelsdefizit-stark](https://www.spiegel.de/wirtschaft/usa-trotz-donald-trumps-zollpolitik-waechst-das-aussenhandelsdefizit-stark-a-a1926835-d2d6-4001-91f0-5f9d4c0ba1c6#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/musik/the-smiths-morrissey-plant-verkauf-seiner-rechte-an-der-band](https://www.spiegel.de/kultur/musik/the-smiths-morrissey-plant-verkauf-seiner-rechte-an-der-band-a-59cfd4ae-f002-4962-893f-ddf9f47bbf08#ref=rss)
+### smiths
+
+* [https://www.spiegel.de/kultur/musik/the-smiths-morrissey-plant-verkauf-seiner-rechte-an-der-band](https://www.spiegel.de/kultur/musik/the-smiths-morrissey-plant-verkauf-seiner-rechte-an-der-band-a-59cfd4ae-f002-4962-893f-ddf9f47bbf08#ref=rss)
+### morrissey
+
+* [https://www.spiegel.de/kultur/musik/the-smiths-morrissey-plant-verkauf-seiner-rechte-an-der-band](https://www.spiegel.de/kultur/musik/the-smiths-morrissey-plant-verkauf-seiner-rechte-an-der-band-a-59cfd4ae-f002-4962-893f-ddf9f47bbf08#ref=rss)
+### bus
+
+* [https://www.spiegel.de/panorama/justiz/stetten-am-kalten-markt-trio-klaut-bus-von-der-haltestelle](https://www.spiegel.de/panorama/justiz/stetten-am-kalten-markt-trio-klaut-bus-von-der-haltestelle-a-bd1a8191-b088-46ce-9e21-0d272be7bd69#ref=rss)
+### eigentlich
+
+* [https://www.spiegel.de/panorama/justiz/stetten-am-kalten-markt-trio-klaut-bus-von-der-haltestelle](https://www.spiegel.de/panorama/justiz/stetten-am-kalten-markt-trio-klaut-bus-von-der-haltestelle-a-bd1a8191-b088-46ce-9e21-0d272be7bd69#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bornholm-siemens-energy-gewinnt-milliardenauftrag-bei-ostsee-projekt](https://www.spiegel.de/wirtschaft/unternehmen/bornholm-siemens-energy-gewinnt-milliardenauftrag-bei-ostsee-projekt-a-ffd0fa5f-d356-43c6-98d9-fd7c666d237b#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/usa-trotz-donald-trumps-zollpolitik-waechst-das-aussenhandelsdefizit-stark](https://www.spiegel.de/wirtschaft/usa-trotz-donald-trumps-zollpolitik-waechst-das-aussenhandelsdefizit-stark-a-a1926835-d2d6-4001-91f0-5f9d4c0ba1c6#ref=rss)
+* [https://www.spiegel.de/ausland/usa-was-will-donald-trump-mit-der-nationalgarde-in-washington-oder-chicago-podcast](https://www.spiegel.de/ausland/usa-was-will-donald-trump-mit-der-nationalgarde-in-washington-oder-chicago-podcast-a-f4377f43-596a-4fad-b889-e36ccf97ee2a#ref=rss)
+### stark
+
+* [https://www.spiegel.de/wirtschaft/usa-trotz-donald-trumps-zollpolitik-waechst-das-aussenhandelsdefizit-stark](https://www.spiegel.de/wirtschaft/usa-trotz-donald-trumps-zollpolitik-waechst-das-aussenhandelsdefizit-stark-a-a1926835-d2d6-4001-91f0-5f9d4c0ba1c6#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-afghanistan-zahl-der-toten-steigt-auf-mehr-als-2200](https://www.spiegel.de/ausland/erdbeben-in-afghanistan-zahl-der-toten-steigt-auf-mehr-als-2200-a-e81adb6e-fc38-4085-b711-186303ca718b#ref=rss)
+### erdbeben
+
+* [https://www.spiegel.de/ausland/erdbeben-in-afghanistan-zahl-der-toten-steigt-auf-mehr-als-2200](https://www.spiegel.de/ausland/erdbeben-in-afghanistan-zahl-der-toten-steigt-auf-mehr-als-2200-a-e81adb6e-fc38-4085-b711-186303ca718b#ref=rss)
+### toten
+
+* [https://www.spiegel.de/ausland/erdbeben-in-afghanistan-zahl-der-toten-steigt-auf-mehr-als-2200](https://www.spiegel.de/ausland/erdbeben-in-afghanistan-zahl-der-toten-steigt-auf-mehr-als-2200-a-e81adb6e-fc38-4085-b711-186303ca718b#ref=rss)
+### geschichte
+
+* [https://www.spiegel.de/ausland/erdbeben-in-afghanistan-zahl-der-toten-steigt-auf-mehr-als-2200](https://www.spiegel.de/ausland/erdbeben-in-afghanistan-zahl-der-toten-steigt-auf-mehr-als-2200-a-e81adb6e-fc38-4085-b711-186303ca718b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/christina-block-israelische-firma-dementiert-vorwuerfe-in-entfuehrungsfall](https://www.spiegel.de/panorama/justiz/christina-block-israelische-firma-dementiert-vorwuerfe-in-entfuehrungsfall-a-520193b2-1614-4223-8fa0-73db361f821b#ref=rss)
+### korrigiert
+
+* [https://www.spiegel.de/ausland/erdbeben-in-afghanistan-zahl-der-toten-steigt-auf-mehr-als-2200](https://www.spiegel.de/ausland/erdbeben-in-afghanistan-zahl-der-toten-steigt-auf-mehr-als-2200-a-e81adb6e-fc38-4085-b711-186303ca718b#ref=rss)
+* [https://www.spiegel.de/panorama/lissabon-premierminister-korrigiert-todeszahl-nach-standseilbahn-unglueck](https://www.spiegel.de/panorama/lissabon-premierminister-korrigiert-todeszahl-nach-standseilbahn-unglueck-a-ca7f2bf7-e1f2-4627-8c2e-a950f907f373#ref=rss)
+### füchse
+
+* [https://www.spiegel.de/sport/handball/handball-fuechse-berlin-stefan-kretzschmar-und-jaron-siewert-freigestellt](https://www.spiegel.de/sport/handball/handball-fuechse-berlin-stefan-kretzschmar-und-jaron-siewert-freigestellt-a-6801077c-83bc-49a3-ba07-81157ac8339b#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/sport/handball/handball-fuechse-berlin-stefan-kretzschmar-und-jaron-siewert-freigestellt](https://www.spiegel.de/sport/handball/handball-fuechse-berlin-stefan-kretzschmar-und-jaron-siewert-freigestellt-a-6801077c-83bc-49a3-ba07-81157ac8339b#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/sport/handball/handball-fuechse-berlin-stefan-kretzschmar-und-jaron-siewert-freigestellt](https://www.spiegel.de/sport/handball/handball-fuechse-berlin-stefan-kretzschmar-und-jaron-siewert-freigestellt-a-6801077c-83bc-49a3-ba07-81157ac8339b#ref=rss)
+### kretzschmar
+
+* [https://www.spiegel.de/sport/handball/handball-fuechse-berlin-stefan-kretzschmar-und-jaron-siewert-freigestellt](https://www.spiegel.de/sport/handball/handball-fuechse-berlin-stefan-kretzschmar-und-jaron-siewert-freigestellt-a-6801077c-83bc-49a3-ba07-81157ac8339b#ref=rss)
+### jaron
+
+* [https://www.spiegel.de/sport/handball/handball-fuechse-berlin-stefan-kretzschmar-und-jaron-siewert-freigestellt](https://www.spiegel.de/sport/handball/handball-fuechse-berlin-stefan-kretzschmar-und-jaron-siewert-freigestellt-a-6801077c-83bc-49a3-ba07-81157ac8339b#ref=rss)
+### siewert
+
+* [https://www.spiegel.de/sport/handball/handball-fuechse-berlin-stefan-kretzschmar-und-jaron-siewert-freigestellt](https://www.spiegel.de/sport/handball/handball-fuechse-berlin-stefan-kretzschmar-und-jaron-siewert-freigestellt-a-6801077c-83bc-49a3-ba07-81157ac8339b#ref=rss)
+### chicago
+
+* [https://www.spiegel.de/ausland/usa-was-will-donald-trump-mit-der-nationalgarde-in-washington-oder-chicago-podcast](https://www.spiegel.de/ausland/usa-was-will-donald-trump-mit-der-nationalgarde-in-washington-oder-chicago-podcast-a-f4377f43-596a-4fad-b889-e36ccf97ee2a#ref=rss)
+### standseilbahnunglück
+
+* [https://www.spiegel.de/panorama/lissabon-premierminister-korrigiert-todeszahl-nach-standseilbahn-unglueck](https://www.spiegel.de/panorama/lissabon-premierminister-korrigiert-todeszahl-nach-standseilbahn-unglueck-a-ca7f2bf7-e1f2-4627-8c2e-a950f907f373#ref=rss)
+### portugals
+
+* [https://www.spiegel.de/panorama/lissabon-premierminister-korrigiert-todeszahl-nach-standseilbahn-unglueck](https://www.spiegel.de/panorama/lissabon-premierminister-korrigiert-todeszahl-nach-standseilbahn-unglueck-a-ca7f2bf7-e1f2-4627-8c2e-a950f907f373#ref=rss)
+* [https://www.spiegel.de/ausland/lissabon-was-ueber-den-unfall-der-standseilbahn-bekannt-ist](https://www.spiegel.de/ausland/lissabon-was-ueber-den-unfall-der-standseilbahn-bekannt-ist-a-08080dc7-abdb-4894-914d-123e5dac1e83#ref=rss)
 ### mindestens
 
-* [https://www.spiegel.de/ausland/lissabon-mindestens-15-tote-bei-seilbahnunglueck-an-touristenattraktion](https://www.spiegel.de/ausland/lissabon-mindestens-15-tote-bei-seilbahnunglueck-an-touristenattraktion-a-661c85a5-3dbd-41e4-8146-8c24bfd49ac3#ref=rss)
-### pkwmaut
+* [https://www.spiegel.de/panorama/lissabon-premierminister-korrigiert-todeszahl-nach-standseilbahn-unglueck](https://www.spiegel.de/panorama/lissabon-premierminister-korrigiert-todeszahl-nach-standseilbahn-unglueck-a-ca7f2bf7-e1f2-4627-8c2e-a950f907f373#ref=rss)
+* [https://www.spiegel.de/ausland/lissabon-was-ueber-den-unfall-der-standseilbahn-bekannt-ist](https://www.spiegel.de/ausland/lissabon-was-ueber-den-unfall-der-standseilbahn-bekannt-ist-a-08080dc7-abdb-4894-914d-123e5dac1e83#ref=rss)
+### 16
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-pkw-maut-kostet-steuerzahler-weitere-27-millionen-euro](https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-pkw-maut-kostet-steuerzahler-weitere-27-millionen-euro-a-96b69237-3a56-4ee3-b424-edcf038e616f#ref=rss)
-### jemen
+* [https://www.spiegel.de/panorama/lissabon-premierminister-korrigiert-todeszahl-nach-standseilbahn-unglueck](https://www.spiegel.de/panorama/lissabon-premierminister-korrigiert-todeszahl-nach-standseilbahn-unglueck-a-ca7f2bf7-e1f2-4627-8c2e-a950f907f373#ref=rss)
+* [https://www.spiegel.de/ausland/lissabon-was-ueber-den-unfall-der-standseilbahn-bekannt-ist](https://www.spiegel.de/ausland/lissabon-was-ueber-den-unfall-der-standseilbahn-bekannt-ist-a-08080dc7-abdb-4894-914d-123e5dac1e83#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/jemen-verteidigungsminister-droht-huthis-mit-angriffen-biblischen-ausmasses](https://www.spiegel.de/ausland/jemen-verteidigungsminister-droht-huthis-mit-angriffen-biblischen-ausmasses-a-593583ca-8219-4cf7-82de-d3ebf6eaa0cf#ref=rss)
-### verteidigungsminister
+* [https://www.spiegel.de/panorama/lissabon-premierminister-korrigiert-todeszahl-nach-standseilbahn-unglueck](https://www.spiegel.de/panorama/lissabon-premierminister-korrigiert-todeszahl-nach-standseilbahn-unglueck-a-ca7f2bf7-e1f2-4627-8c2e-a950f907f373#ref=rss)
+* [https://www.spiegel.de/ausland/lissabon-was-ueber-den-unfall-der-standseilbahn-bekannt-ist](https://www.spiegel.de/ausland/lissabon-was-ueber-den-unfall-der-standseilbahn-bekannt-ist-a-08080dc7-abdb-4894-914d-123e5dac1e83#ref=rss)
+### klausmichael
 
-* [https://www.spiegel.de/ausland/jemen-verteidigungsminister-droht-huthis-mit-angriffen-biblischen-ausmasses](https://www.spiegel.de/ausland/jemen-verteidigungsminister-droht-huthis-mit-angriffen-biblischen-ausmasses-a-593583ca-8219-4cf7-82de-d3ebf6eaa0cf#ref=rss)
-### angriffen
+* [https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-vertrauter-verbandelte-ihn-wohl-gegen-geld-mit-rene-benko](https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-vertrauter-verbandelte-ihn-wohl-gegen-geld-mit-rene-benko-a-9406a1ec-86a6-45db-8b5a-b320287a7ccd#ref=rss)
+### kühne
 
-* [https://www.spiegel.de/ausland/jemen-verteidigungsminister-droht-huthis-mit-angriffen-biblischen-ausmasses](https://www.spiegel.de/ausland/jemen-verteidigungsminister-droht-huthis-mit-angriffen-biblischen-ausmasses-a-593583ca-8219-4cf7-82de-d3ebf6eaa0cf#ref=rss)
-### matthew
+* [https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-vertrauter-verbandelte-ihn-wohl-gegen-geld-mit-rene-benko](https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-vertrauter-verbandelte-ihn-wohl-gegen-geld-mit-rene-benko-a-9406a1ec-86a6-45db-8b5a-b320287a7ccd#ref=rss)
+### rené
 
-* [https://www.spiegel.de/panorama/leute/nach-tod-von-matthew-perry-ketamin-koenigin-bekennt-sich-schuldig](https://www.spiegel.de/panorama/leute/nach-tod-von-matthew-perry-ketamin-koenigin-bekennt-sich-schuldig-a-7b6ff4f5-ca23-4c26-b31e-201dedfa614a#ref=rss)
-### perry
+* [https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-vertrauter-verbandelte-ihn-wohl-gegen-geld-mit-rene-benko](https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-vertrauter-verbandelte-ihn-wohl-gegen-geld-mit-rene-benko-a-9406a1ec-86a6-45db-8b5a-b320287a7ccd#ref=rss)
+### mode
 
-* [https://www.spiegel.de/panorama/leute/nach-tod-von-matthew-perry-ketamin-koenigin-bekennt-sich-schuldig](https://www.spiegel.de/panorama/leute/nach-tod-von-matthew-perry-ketamin-koenigin-bekennt-sich-schuldig-a-7b6ff4f5-ca23-4c26-b31e-201dedfa614a#ref=rss)
-### bekennt
+* [https://www.spiegel.de/stil/giorgio-armani-ist-tot-der-letzte-kaiser-der-mode-nachruf](https://www.spiegel.de/stil/giorgio-armani-ist-tot-der-letzte-kaiser-der-mode-nachruf-a-1d6e2fc2-40aa-462c-9495-2d15e29bc7e8#ref=rss)
+### franz
 
-* [https://www.spiegel.de/panorama/leute/nach-tod-von-matthew-perry-ketamin-koenigin-bekennt-sich-schuldig](https://www.spiegel.de/panorama/leute/nach-tod-von-matthew-perry-ketamin-koenigin-bekennt-sich-schuldig-a-7b6ff4f5-ca23-4c26-b31e-201dedfa614a#ref=rss)
-### schuldig
+* [https://www.spiegel.de/panorama/us-geheimakten-cdu-csu-kanzlerkandidat-franz-josef-strauss-bot-sich-als-informant-an](https://www.spiegel.de/panorama/us-geheimakten-cdu-csu-kanzlerkandidat-franz-josef-strauss-bot-sich-als-informant-an-a-7de565ae-c08d-4d97-b499-f4dc394f3177#ref=rss)
+### josef
 
-* [https://www.spiegel.de/panorama/leute/nach-tod-von-matthew-perry-ketamin-koenigin-bekennt-sich-schuldig](https://www.spiegel.de/panorama/leute/nach-tod-von-matthew-perry-ketamin-koenigin-bekennt-sich-schuldig-a-7b6ff4f5-ca23-4c26-b31e-201dedfa614a#ref=rss)
+* [https://www.spiegel.de/panorama/us-geheimakten-cdu-csu-kanzlerkandidat-franz-josef-strauss-bot-sich-als-informant-an](https://www.spiegel.de/panorama/us-geheimakten-cdu-csu-kanzlerkandidat-franz-josef-strauss-bot-sich-als-informant-an-a-7de565ae-c08d-4d97-b499-f4dc394f3177#ref=rss)
+### strauß
+
+* [https://www.spiegel.de/panorama/us-geheimakten-cdu-csu-kanzlerkandidat-franz-josef-strauss-bot-sich-als-informant-an](https://www.spiegel.de/panorama/us-geheimakten-cdu-csu-kanzlerkandidat-franz-josef-strauss-bot-sich-als-informant-an-a-7de565ae-c08d-4d97-b499-f4dc394f3177#ref=rss)
+### cdu/csukanzlerkandidat
+
+* [https://www.spiegel.de/panorama/us-geheimakten-cdu-csu-kanzlerkandidat-franz-josef-strauss-bot-sich-als-informant-an](https://www.spiegel.de/panorama/us-geheimakten-cdu-csu-kanzlerkandidat-franz-josef-strauss-bot-sich-als-informant-an-a-7de565ae-c08d-4d97-b499-f4dc394f3177#ref=rss)
+### wahlkampf
+
+* [https://www.spiegel.de/panorama/us-geheimakten-cdu-csu-kanzlerkandidat-franz-josef-strauss-bot-sich-als-informant-an](https://www.spiegel.de/panorama/us-geheimakten-cdu-csu-kanzlerkandidat-franz-josef-strauss-bot-sich-als-informant-an-a-7de565ae-c08d-4d97-b499-f4dc394f3177#ref=rss)
+### erste
+
+* [https://www.spiegel.de/netzwelt/gadgets/ifa-neuheiten-drei-weltweit-erste-dampfschubladen](https://www.spiegel.de/netzwelt/gadgets/ifa-neuheiten-drei-weltweit-erste-dampfschubladen-a-4f281eec-790e-474f-80ef-28810d1ae8c9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland](https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland-a-f7cce673-0886-4247-81f9-5f4441dccd9e#ref=rss)
+### firma
+
+* [https://www.spiegel.de/panorama/justiz/christina-block-israelische-firma-dementiert-vorwuerfe-in-entfuehrungsfall](https://www.spiegel.de/panorama/justiz/christina-block-israelische-firma-dementiert-vorwuerfe-in-entfuehrungsfall-a-520193b2-1614-4223-8fa0-73db361f821b#ref=rss)
+### alter
+
+* [https://www.spiegel.de/stil/italienischer-stardesigner-giorgio-armani-ist-tot](https://www.spiegel.de/stil/italienischer-stardesigner-giorgio-armani-ist-tot-a-c2276faa-ab2d-49f6-8a1e-2ae89178f6e9#ref=rss)
+### 91
+
+* [https://www.spiegel.de/stil/italienischer-stardesigner-giorgio-armani-ist-tot](https://www.spiegel.de/stil/italienischer-stardesigner-giorgio-armani-ist-tot-a-c2276faa-ab2d-49f6-8a1e-2ae89178f6e9#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/stil/italienischer-stardesigner-giorgio-armani-ist-tot](https://www.spiegel.de/stil/italienischer-stardesigner-giorgio-armani-ist-tot-a-c2276faa-ab2d-49f6-8a1e-2ae89178f6e9#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/stil/italienischer-stardesigner-giorgio-armani-ist-tot](https://www.spiegel.de/stil/italienischer-stardesigner-giorgio-armani-ist-tot-a-c2276faa-ab2d-49f6-8a1e-2ae89178f6e9#ref=rss)
+### sydney
+
+* [https://www.spiegel.de/panorama/leute/sydney-sweeney-und-scooter-braun-das-ist-vielleicht-ein-match](https://www.spiegel.de/panorama/leute/sydney-sweeney-und-scooter-braun-das-ist-vielleicht-ein-match-a-7935e7cf-1298-41e7-9209-d4ba020e928f#ref=rss)
+### sweeney
+
+* [https://www.spiegel.de/panorama/leute/sydney-sweeney-und-scooter-braun-das-ist-vielleicht-ein-match](https://www.spiegel.de/panorama/leute/sydney-sweeney-und-scooter-braun-das-ist-vielleicht-ein-match-a-7935e7cf-1298-41e7-9209-d4ba020e928f#ref=rss)
+### scooter
+
+* [https://www.spiegel.de/panorama/leute/sydney-sweeney-und-scooter-braun-das-ist-vielleicht-ein-match](https://www.spiegel.de/panorama/leute/sydney-sweeney-und-scooter-braun-das-ist-vielleicht-ein-match-a-7935e7cf-1298-41e7-9209-d4ba020e928f#ref=rss)
+### braun
+
+* [https://www.spiegel.de/panorama/leute/sydney-sweeney-und-scooter-braun-das-ist-vielleicht-ein-match](https://www.spiegel.de/panorama/leute/sydney-sweeney-und-scooter-braun-das-ist-vielleicht-ein-match-a-7935e7cf-1298-41e7-9209-d4ba020e928f#ref=rss)
+### a23a
+
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-groesster-eisberg-der-welt-a23a-zerbricht-in-einzelne-brocken](https://www.spiegel.de/wissenschaft/natur/antarktis-groesster-eisberg-der-welt-a23a-zerbricht-in-einzelne-brocken-a-ad14b6e0-d7dd-4975-83f1-1760b0b95ac8#ref=rss)
+### eisberg
+
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-groesster-eisberg-der-welt-a23a-zerbricht-in-einzelne-brocken](https://www.spiegel.de/wissenschaft/natur/antarktis-groesster-eisberg-der-welt-a23a-zerbricht-in-einzelne-brocken-a-ad14b6e0-d7dd-4975-83f1-1760b0b95ac8#ref=rss)
+### einzelne
+
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-groesster-eisberg-der-welt-a23a-zerbricht-in-einzelne-brocken](https://www.spiegel.de/wissenschaft/natur/antarktis-groesster-eisberg-der-welt-a23a-zerbricht-in-einzelne-brocken-a-ad14b6e0-d7dd-4975-83f1-1760b0b95ac8#ref=rss)
+### brocken
+
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-groesster-eisberg-der-welt-a23a-zerbricht-in-einzelne-brocken](https://www.spiegel.de/wissenschaft/natur/antarktis-groesster-eisberg-der-welt-a23a-zerbricht-in-einzelne-brocken-a-ad14b6e0-d7dd-4975-83f1-1760b0b95ac8#ref=rss)
+### hornisse
+
+* [https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland](https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland-a-f7cce673-0886-4247-81f9-5f4441dccd9e#ref=rss)
+### meldeaktion
+
+* [https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland](https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland-a-f7cce673-0886-4247-81f9-5f4441dccd9e#ref=rss)
+### nabu
+
+* [https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland](https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland-a-f7cce673-0886-4247-81f9-5f4441dccd9e#ref=rss)
+### verbreitung
+
+* [https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland](https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland-a-f7cce673-0886-4247-81f9-5f4441dccd9e#ref=rss)
+### bornholm
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bornholm-siemens-energy-gewinnt-milliardenauftrag-bei-ostsee-projekt](https://www.spiegel.de/wirtschaft/unternehmen/bornholm-siemens-energy-gewinnt-milliardenauftrag-bei-ostsee-projekt-a-ffd0fa5f-d356-43c6-98d9-fd7c666d237b#ref=rss)
+### siemens
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bornholm-siemens-energy-gewinnt-milliardenauftrag-bei-ostsee-projekt](https://www.spiegel.de/wirtschaft/unternehmen/bornholm-siemens-energy-gewinnt-milliardenauftrag-bei-ostsee-projekt-a-ffd0fa5f-d356-43c6-98d9-fd7c666d237b#ref=rss)
 
