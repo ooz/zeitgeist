@@ -4,325 +4,368 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
+### offenbar
 
-* [https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-acht-so-verabschieden-sie-sich-vom-inneren-maulwurf](https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-acht-so-verabschieden-sie-sich-vom-inneren-maulwurf-a-5f69c442-b914-4c18-8f04-5adda8c62a06#ref=rss)
-* [https://www.spiegel.de/ausland/gps-stoerungen-im-luftraum-schweden-meldet-massiven-anstieg](https://www.spiegel.de/ausland/gps-stoerungen-im-luftraum-schweden-meldet-massiven-anstieg-a-f6e2b898-6828-4dd1-88a9-354d657960bd#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/ifa-2025-mit-chef-leif-lindner-die-leute-achten-mehr-auf-sich-und-ihre-gesundheit](https://www.spiegel.de/netzwelt/gadgets/ifa-2025-mit-chef-leif-lindner-die-leute-achten-mehr-auf-sich-und-ihre-gesundheit-a-d0561b91-ceb3-4384-80d4-d0636a16ca08#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/florida-75-jaehrige-wegen-auftragsmord-an-ihrem-ex-schwiegersohn-verurteilt](https://www.spiegel.de/panorama/justiz/florida-75-jaehrige-wegen-auftragsmord-an-ihrem-ex-schwiegersohn-verurteilt-a-2ce300fb-8cc5-4059-b6c1-0034d2c7d393#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-dfb-elf-verliert-in-der-slowakei-nagelsmanns-niederlage](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-dfb-elf-verliert-in-der-slowakei-nagelsmanns-niederlage-a-0cb71775-db19-443a-8db1-d57a1f4ebd53#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilienkredite-deutsche-baukredite-trotz-guter-bonitaet-nur-mittelmass](https://www.spiegel.de/wirtschaft/immobilienkredite-deutsche-baukredite-trotz-guter-bonitaet-nur-mittelmass-a-792695b7-6f87-4151-aea4-78ed03892cc5#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-zoll-erwischt-mann-mit-waranfleisch-am-flughafen](https://www.spiegel.de/panorama/justiz/muenchen-zoll-erwischt-mann-mit-waranfleisch-am-flughafen-a-30640c17-93d8-4ba7-8617-27085266f613#ref=rss)
-* [https://www.spiegel.de/wirtschaft/diw-prognose-deutschland-wird-ab-2026-wirtschaftlichen-aufschwung-erleben](https://www.spiegel.de/wirtschaft/diw-prognose-deutschland-wird-ab-2026-wirtschaftlichen-aufschwung-erleben-a-8ee637ae-95bb-4dff-b4fa-a2550e37d77b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-gegen-die-slowakei-deutschland-was-fuer-ein-desaster-pressestimmen](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-gegen-die-slowakei-deutschland-was-fuer-ein-desaster-pressestimmen-a-a49b1d4f-70c2-457c-8126-137e70e84abb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/mondfinsternis-am-sonntagabend-das-muessen-sie-wissen](https://www.spiegel.de/wissenschaft/natur/mondfinsternis-am-sonntagabend-das-muessen-sie-wissen-a-01e44ca8-48cc-4714-bfd7-fffe4dce8716#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilienkredite-deutsche-baukredite-trotz-guter-bonitaet-nur-mittelmass](https://www.spiegel.de/wirtschaft/immobilienkredite-deutsche-baukredite-trotz-guter-bonitaet-nur-mittelmass-a-792695b7-6f87-4151-aea4-78ed03892cc5#ref=rss)
-### sylt
-
-* [https://www.spiegel.de/wissenschaft/natur/sylt-wie-oft-sterben-wale-auf-deutschen-inseln](https://www.spiegel.de/wissenschaft/natur/sylt-wie-oft-sterben-wale-auf-deutschen-inseln-a-fa98ceeb-12d3-45e5-af82-6ebb2b6b8485#ref=rss)
-* [https://www.spiegel.de/panorama/sylt-abgemagerter-wal-war-offenbar-jungtier](https://www.spiegel.de/panorama/sylt-abgemagerter-wal-war-offenbar-jungtier-a-ad7714ee-1a6b-4e80-b0ed-0b6b8acd300d#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-acht-so-verabschieden-sie-sich-vom-inneren-maulwurf](https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-acht-so-verabschieden-sie-sich-vom-inneren-maulwurf-a-5f69c442-b914-4c18-8f04-5adda8c62a06#ref=rss)
-* [https://www.spiegel.de/start/ausbildung-ohne-hochschulabschluss-in-diesen-jobs-verdienen-sie-ohne-studium-das-meiste-geld](https://www.spiegel.de/start/ausbildung-ohne-hochschulabschluss-in-diesen-jobs-verdienen-sie-ohne-studium-das-meiste-geld-a-de5f31e2-1b04-4e9d-acc5-7bf97449ff44#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/rechtsextremismus-neues-gutachten-zu-professor-der-bundespolizeiakademie-luebeck](https://www.spiegel.de/panorama/rechtsextremismus-neues-gutachten-zu-professor-der-bundespolizeiakademie-luebeck-a-6bba1197-314a-4559-a652-fb0aacc1e957#ref=rss)
-* [https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi-a-c647e378-61bc-4cf0-89d6-7873a4f847ae#ref=rss)
-* [https://www.spiegel.de/sport/boxen/boxen-mike-tyson-plant-showkampf-gegen-floyd-mayweather-jr](https://www.spiegel.de/sport/boxen/boxen-mike-tyson-plant-showkampf-gegen-floyd-mayweather-jr-a-26af5bff-55ee-42cd-b062-2557be139267#ref=rss)
-* [https://www.spiegel.de/geschichte/igor-gusenko-der-geist-der-den-kalten-krieg-brachte](https://www.spiegel.de/geschichte/igor-gusenko-der-geist-der-den-kalten-krieg-brachte-a-a02de249-2011-4fa6-94a0-1b0640870f87#ref=rss)
-### slowakei
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-gegen-die-slowakei-deutschland-was-fuer-ein-desaster-pressestimmen](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-gegen-die-slowakei-deutschland-was-fuer-ein-desaster-pressestimmen-a-a49b1d4f-70c2-457c-8126-137e70e84abb#ref=rss)
-* [https://www.spiegel.de/ausland/trump-wirft-europa-vor-putins-krieg-zu-finanzieren](https://www.spiegel.de/ausland/trump-wirft-europa-vor-putins-krieg-zu-finanzieren-a-8c1dbf63-4701-476f-bd32-3e20a4468997#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-dfb-elf-verliert-in-der-slowakei-nagelsmanns-niederlage](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-dfb-elf-verliert-in-der-slowakei-nagelsmanns-niederlage-a-0cb71775-db19-443a-8db1-d57a1f4ebd53#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wissenschaft/natur/sylt-wie-oft-sterben-wale-auf-deutschen-inseln](https://www.spiegel.de/wissenschaft/natur/sylt-wie-oft-sterben-wale-auf-deutschen-inseln-a-fa98ceeb-12d3-45e5-af82-6ebb2b6b8485#ref=rss)
-* [https://www.spiegel.de/panorama/portugal-standseilbahn-unglueck-von-lissabon-laut-auswaertigem-amt-keine-deutschen-unter-den-todesopfern](https://www.spiegel.de/panorama/portugal-standseilbahn-unglueck-von-lissabon-laut-auswaertigem-amt-keine-deutschen-unter-den-todesopfern-a-a21ae1cb-c69b-49d0-91e4-5a64baf20c78#ref=rss)
-### wal
-
-* [https://www.spiegel.de/wissenschaft/natur/sylt-wie-oft-sterben-wale-auf-deutschen-inseln](https://www.spiegel.de/wissenschaft/natur/sylt-wie-oft-sterben-wale-auf-deutschen-inseln-a-fa98ceeb-12d3-45e5-af82-6ebb2b6b8485#ref=rss)
-* [https://www.spiegel.de/panorama/sylt-abgemagerter-wal-war-offenbar-jungtier](https://www.spiegel.de/panorama/sylt-abgemagerter-wal-war-offenbar-jungtier-a-ad7714ee-1a6b-4e80-b0ed-0b6b8acd300d#ref=rss)
-### versucht
-
-* [https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-acht-so-verabschieden-sie-sich-vom-inneren-maulwurf](https://www.spiegel.de/psychologie/coaching-mehr-sicherheit-gewinnen-schritt-acht-so-verabschieden-sie-sich-vom-inneren-maulwurf-a-5f69c442-b914-4c18-8f04-5adda8c62a06#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-zoll-erwischt-mann-mit-waranfleisch-am-flughafen](https://www.spiegel.de/panorama/justiz/muenchen-zoll-erwischt-mann-mit-waranfleisch-am-flughafen-a-30640c17-93d8-4ba7-8617-27085266f613#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/cop30-warum-die-uno-klimakonferenz-in-belem-zum-desaster-werden-koennte](https://www.spiegel.de/wissenschaft/mensch/cop30-warum-die-uno-klimakonferenz-in-belem-zum-desaster-werden-koennte-a-01d57e11-151a-4097-a485-fec8fa68a713#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-trotz-warnung-seines-ministers-nichts-von-wirtschaftsproblemen-wissen](https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-trotz-warnung-seines-ministers-nichts-von-wirtschaftsproblemen-wissen-a-1434d28c-37fe-488a-a605-181c10a1d354#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/mondfinsternis-am-sonntagabend-das-muessen-sie-wissen](https://www.spiegel.de/wissenschaft/natur/mondfinsternis-am-sonntagabend-das-muessen-sie-wissen-a-01e44ca8-48cc-4714-bfd7-fffe4dce8716#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/diw-prognose-deutschland-wird-ab-2026-wirtschaftlichen-aufschwung-erleben](https://www.spiegel.de/wirtschaft/diw-prognose-deutschland-wird-ab-2026-wirtschaftlichen-aufschwung-erleben-a-8ee637ae-95bb-4dff-b4fa-a2550e37d77b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-gegen-die-slowakei-deutschland-was-fuer-ein-desaster-pressestimmen](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-gegen-die-slowakei-deutschland-was-fuer-ein-desaster-pressestimmen-a-a49b1d4f-70c2-457c-8126-137e70e84abb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilienkredite-deutsche-baukredite-trotz-guter-bonitaet-nur-mittelmass](https://www.spiegel.de/wirtschaft/immobilienkredite-deutsche-baukredite-trotz-guter-bonitaet-nur-mittelmass-a-792695b7-6f87-4151-aea4-78ed03892cc5#ref=rss)
-### dfbelf
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-gegen-die-slowakei-deutschland-was-fuer-ein-desaster-pressestimmen](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-gegen-die-slowakei-deutschland-was-fuer-ein-desaster-pressestimmen-a-a49b1d4f-70c2-457c-8126-137e70e84abb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-dfb-elf-verliert-in-der-slowakei-nagelsmanns-niederlage](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-dfb-elf-verliert-in-der-slowakei-nagelsmanns-niederlage-a-0cb71775-db19-443a-8db1-d57a1f4ebd53#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-apple-meta-ai-applaus-aus-dem-silicon-valley-fuer-den-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-apple-meta-ai-applaus-aus-dem-silicon-valley-fuer-den-us-praesidenten-a-c5c7ef8f-fef2-4afb-b008-e936acf507bb#ref=rss)
-* [https://www.spiegel.de/ausland/trump-wirft-europa-vor-putins-krieg-zu-finanzieren](https://www.spiegel.de/ausland/trump-wirft-europa-vor-putins-krieg-zu-finanzieren-a-8c1dbf63-4701-476f-bd32-3e20a4468997#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-apple-meta-ai-applaus-aus-dem-silicon-valley-fuer-den-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-apple-meta-ai-applaus-aus-dem-silicon-valley-fuer-den-us-praesidenten-a-c5c7ef8f-fef2-4afb-b008-e936acf507bb#ref=rss)
-* [https://www.spiegel.de/ausland/trump-wirft-europa-vor-putins-krieg-zu-finanzieren](https://www.spiegel.de/ausland/trump-wirft-europa-vor-putins-krieg-zu-finanzieren-a-8c1dbf63-4701-476f-bd32-3e20a4468997#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-in-der-regierungskrise-wie-emmanuel-macron-opfer-seines-egos-wurde](https://www.spiegel.de/ausland/frankreich-in-der-regierungskrise-wie-emmanuel-macron-opfer-seines-egos-wurde-a-28ee4457-95d2-41b3-815d-62902cd0b64e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/immobilienkredite-deutsche-baukredite-trotz-guter-bonitaet-nur-mittelmass](https://www.spiegel.de/wirtschaft/immobilienkredite-deutsche-baukredite-trotz-guter-bonitaet-nur-mittelmass-a-792695b7-6f87-4151-aea4-78ed03892cc5#ref=rss)
-### aryna
-
-* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-will-gegen-nick-kyrgios-antreten](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-will-gegen-nick-kyrgios-antreten-a-1f8d47dd-c292-4abf-8850-faa9af949a4b#ref=rss)
-### sabalenka
-
-* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-will-gegen-nick-kyrgios-antreten](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-will-gegen-nick-kyrgios-antreten-a-1f8d47dd-c292-4abf-8850-faa9af949a4b#ref=rss)
-### nick
-
-* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-will-gegen-nick-kyrgios-antreten](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-will-gegen-nick-kyrgios-antreten-a-1f8d47dd-c292-4abf-8850-faa9af949a4b#ref=rss)
-### kyrgios
-
-* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-will-gegen-nick-kyrgios-antreten](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-will-gegen-nick-kyrgios-antreten-a-1f8d47dd-c292-4abf-8850-faa9af949a4b#ref=rss)
-### antreten
-
-* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-will-gegen-nick-kyrgios-antreten](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-will-gegen-nick-kyrgios-antreten-a-1f8d47dd-c292-4abf-8850-faa9af949a4b#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-will-gegen-nick-kyrgios-antreten](https://www.spiegel.de/sport/tennis/tennis-aryna-sabalenka-will-gegen-nick-kyrgios-antreten-a-1f8d47dd-c292-4abf-8850-faa9af949a4b#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-jalen-carter-spuckt-gegenspieler-an-und-wird-disqualifiziert](https://www.spiegel.de/sport/american-football/nfl-jalen-carter-spuckt-gegenspieler-an-und-wird-disqualifiziert-a-30f50cab-f3a8-4955-90d0-63c686a63223#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wissenschaft/natur/sylt-wie-oft-sterben-wale-auf-deutschen-inseln](https://www.spiegel.de/wissenschaft/natur/sylt-wie-oft-sterben-wale-auf-deutschen-inseln-a-fa98ceeb-12d3-45e5-af82-6ebb2b6b8485#ref=rss)
-* [https://www.spiegel.de/wirtschaft/diw-prognose-deutschland-wird-ab-2026-wirtschaftlichen-aufschwung-erleben](https://www.spiegel.de/wirtschaft/diw-prognose-deutschland-wird-ab-2026-wirtschaftlichen-aufschwung-erleben-a-8ee637ae-95bb-4dff-b4fa-a2550e37d77b#ref=rss)
-### experten
-
-* [https://www.spiegel.de/wissenschaft/natur/sylt-wie-oft-sterben-wale-auf-deutschen-inseln](https://www.spiegel.de/wissenschaft/natur/sylt-wie-oft-sterben-wale-auf-deutschen-inseln-a-fa98ceeb-12d3-45e5-af82-6ebb2b6b8485#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-trotz-warnung-seines-ministers-nichts-von-wirtschaftsproblemen-wissen](https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-trotz-warnung-seines-ministers-nichts-von-wirtschaftsproblemen-wissen-a-1434d28c-37fe-488a-a605-181c10a1d354#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/wissenschaft/natur/sylt-wie-oft-sterben-wale-auf-deutschen-inseln](https://www.spiegel.de/wissenschaft/natur/sylt-wie-oft-sterben-wale-auf-deutschen-inseln-a-fa98ceeb-12d3-45e5-af82-6ebb2b6b8485#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/mondfinsternis-am-sonntagabend-das-muessen-sie-wissen](https://www.spiegel.de/wissenschaft/natur/mondfinsternis-am-sonntagabend-das-muessen-sie-wissen-a-01e44ca8-48cc-4714-bfd7-fffe4dce8716#ref=rss)
-### antonio
-
-* [https://www.spiegel.de/sport/fussball/dfb-innenverteidiger-antonio-ruediger-und-jonathan-tah-rueckfall-in-schlimmste-zeiten](https://www.spiegel.de/sport/fussball/dfb-innenverteidiger-antonio-ruediger-und-jonathan-tah-rueckfall-in-schlimmste-zeiten-a-d63d9b32-53dd-4155-842c-88ee9c8e7144#ref=rss)
-### rüdiger
-
-* [https://www.spiegel.de/sport/fussball/dfb-innenverteidiger-antonio-ruediger-und-jonathan-tah-rueckfall-in-schlimmste-zeiten](https://www.spiegel.de/sport/fussball/dfb-innenverteidiger-antonio-ruediger-und-jonathan-tah-rueckfall-in-schlimmste-zeiten-a-d63d9b32-53dd-4155-842c-88ee9c8e7144#ref=rss)
-### jonathan
-
-* [https://www.spiegel.de/sport/fussball/dfb-innenverteidiger-antonio-ruediger-und-jonathan-tah-rueckfall-in-schlimmste-zeiten](https://www.spiegel.de/sport/fussball/dfb-innenverteidiger-antonio-ruediger-und-jonathan-tah-rueckfall-in-schlimmste-zeiten-a-d63d9b32-53dd-4155-842c-88ee9c8e7144#ref=rss)
-### tah
-
-* [https://www.spiegel.de/sport/fussball/dfb-innenverteidiger-antonio-ruediger-und-jonathan-tah-rueckfall-in-schlimmste-zeiten](https://www.spiegel.de/sport/fussball/dfb-innenverteidiger-antonio-ruediger-und-jonathan-tah-rueckfall-in-schlimmste-zeiten-a-d63d9b32-53dd-4155-842c-88ee9c8e7144#ref=rss)
-### nationalelf
-
-* [https://www.spiegel.de/sport/fussball/dfb-innenverteidiger-antonio-ruediger-und-jonathan-tah-rueckfall-in-schlimmste-zeiten](https://www.spiegel.de/sport/fussball/dfb-innenverteidiger-antonio-ruediger-und-jonathan-tah-rueckfall-in-schlimmste-zeiten-a-d63d9b32-53dd-4155-842c-88ee9c8e7144#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-gegen-die-slowakei-deutschland-was-fuer-ein-desaster-pressestimmen](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-gegen-die-slowakei-deutschland-was-fuer-ein-desaster-pressestimmen-a-a49b1d4f-70c2-457c-8126-137e70e84abb#ref=rss)
-### bratislava
-
-* [https://www.spiegel.de/sport/fussball/dfb-innenverteidiger-antonio-ruediger-und-jonathan-tah-rueckfall-in-schlimmste-zeiten](https://www.spiegel.de/sport/fussball/dfb-innenverteidiger-antonio-ruediger-und-jonathan-tah-rueckfall-in-schlimmste-zeiten-a-d63d9b32-53dd-4155-842c-88ee9c8e7144#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-gegen-die-slowakei-deutschland-was-fuer-ein-desaster-pressestimmen](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-gegen-die-slowakei-deutschland-was-fuer-ein-desaster-pressestimmen-a-a49b1d4f-70c2-457c-8126-137e70e84abb#ref=rss)
-### zweifel
-
-* [https://www.spiegel.de/sport/fussball/dfb-innenverteidiger-antonio-ruediger-und-jonathan-tah-rueckfall-in-schlimmste-zeiten](https://www.spiegel.de/sport/fussball/dfb-innenverteidiger-antonio-ruediger-und-jonathan-tah-rueckfall-in-schlimmste-zeiten-a-d63d9b32-53dd-4155-842c-88ee9c8e7144#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-dfb-elf-verliert-in-der-slowakei-nagelsmanns-niederlage](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-dfb-elf-verliert-in-der-slowakei-nagelsmanns-niederlage-a-0cb71775-db19-443a-8db1-d57a1f4ebd53#ref=rss)
-### russland
-
-* [https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-trotz-warnung-seines-ministers-nichts-von-wirtschaftsproblemen-wissen](https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-trotz-warnung-seines-ministers-nichts-von-wirtschaftsproblemen-wissen-a-1434d28c-37fe-488a-a605-181c10a1d354#ref=rss)
-* [https://www.spiegel.de/ausland/trump-wirft-europa-vor-putins-krieg-zu-finanzieren](https://www.spiegel.de/ausland/trump-wirft-europa-vor-putins-krieg-zu-finanzieren-a-8c1dbf63-4701-476f-bd32-3e20a4468997#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-trotz-warnung-seines-ministers-nichts-von-wirtschaftsproblemen-wissen](https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-trotz-warnung-seines-ministers-nichts-von-wirtschaftsproblemen-wissen-a-1434d28c-37fe-488a-a605-181c10a1d354#ref=rss)
-* [https://www.spiegel.de/ausland/trump-wirft-europa-vor-putins-krieg-zu-finanzieren](https://www.spiegel.de/ausland/trump-wirft-europa-vor-putins-krieg-zu-finanzieren-a-8c1dbf63-4701-476f-bd32-3e20a4468997#ref=rss)
-### putin
-
-* [https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-trotz-warnung-seines-ministers-nichts-von-wirtschaftsproblemen-wissen](https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-trotz-warnung-seines-ministers-nichts-von-wirtschaftsproblemen-wissen-a-1434d28c-37fe-488a-a605-181c10a1d354#ref=rss)
-### seines
-
-* [https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-trotz-warnung-seines-ministers-nichts-von-wirtschaftsproblemen-wissen](https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-trotz-warnung-seines-ministers-nichts-von-wirtschaftsproblemen-wissen-a-1434d28c-37fe-488a-a605-181c10a1d354#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-in-der-regierungskrise-wie-emmanuel-macron-opfer-seines-egos-wurde](https://www.spiegel.de/ausland/frankreich-in-der-regierungskrise-wie-emmanuel-macron-opfer-seines-egos-wurde-a-28ee4457-95d2-41b3-815d-62902cd0b64e#ref=rss)
-### russische
-
-* [https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-trotz-warnung-seines-ministers-nichts-von-wirtschaftsproblemen-wissen](https://www.spiegel.de/wirtschaft/russland-wladimir-putin-will-trotz-warnung-seines-ministers-nichts-von-wirtschaftsproblemen-wissen-a-1434d28c-37fe-488a-a605-181c10a1d354#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/ausland/gps-stoerungen-im-luftraum-schweden-meldet-massiven-anstieg](https://www.spiegel.de/ausland/gps-stoerungen-im-luftraum-schweden-meldet-massiven-anstieg-a-f6e2b898-6828-4dd1-88a9-354d657960bd#ref=rss)
-### hochschulabschluss
-
-* [https://www.spiegel.de/start/ausbildung-ohne-hochschulabschluss-in-diesen-jobs-verdienen-sie-ohne-studium-das-meiste-geld](https://www.spiegel.de/start/ausbildung-ohne-hochschulabschluss-in-diesen-jobs-verdienen-sie-ohne-studium-das-meiste-geld-a-de5f31e2-1b04-4e9d-acc5-7bf97449ff44#ref=rss)
-### studium
-
-* [https://www.spiegel.de/start/ausbildung-ohne-hochschulabschluss-in-diesen-jobs-verdienen-sie-ohne-studium-das-meiste-geld](https://www.spiegel.de/start/ausbildung-ohne-hochschulabschluss-in-diesen-jobs-verdienen-sie-ohne-studium-das-meiste-geld-a-de5f31e2-1b04-4e9d-acc5-7bf97449ff44#ref=rss)
-### inka
-
-* [https://www.spiegel.de/panorama/leute/schlagersaengerin-inka-bause-sagt-tour-ab](https://www.spiegel.de/panorama/leute/schlagersaengerin-inka-bause-sagt-tour-ab-a-0d6e0f63-e1ff-4bb0-ba0f-90f6f5428ef6#ref=rss)
-### bause
-
-* [https://www.spiegel.de/panorama/leute/schlagersaengerin-inka-bause-sagt-tour-ab](https://www.spiegel.de/panorama/leute/schlagersaengerin-inka-bause-sagt-tour-ab-a-0d6e0f63-e1ff-4bb0-ba0f-90f6f5428ef6#ref=rss)
-### afd
-
-* [https://www.spiegel.de/panorama/leute/schlagersaengerin-inka-bause-sagt-tour-ab](https://www.spiegel.de/panorama/leute/schlagersaengerin-inka-bause-sagt-tour-ab-a-0d6e0f63-e1ff-4bb0-ba0f-90f6f5428ef6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-verfassungsgericht-weist-afd-klage-gegen-andy-grote-ab](https://www.spiegel.de/panorama/justiz/hamburg-verfassungsgericht-weist-afd-klage-gegen-andy-grote-ab-a-aa1dd3cb-bc07-4479-9fcb-337a83429cf1#ref=rss)
+* [https://www.spiegel.de/ausland/georgia-us-behoerden-nehmen-auf-hyundai-werksgelaende-hunderte-menschen-fest](https://www.spiegel.de/ausland/georgia-us-behoerden-nehmen-auf-hyundai-werksgelaende-hunderte-menschen-fest-a-56e6179a-bedf-4747-93c2-58b6e635eee2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wolfenbuettel-kleinkind-nach-schlucken-von-auf-spielplatz-zurueckgelassenen-drogen-schwer-verletzt](https://www.spiegel.de/panorama/justiz/wolfenbuettel-kleinkind-nach-schlucken-von-auf-spielplatz-zurueckgelassenen-drogen-schwer-verletzt-a-4834d380-23d4-455c-ba9f-7212e7efdde0#ref=rss)
+* [https://www.spiegel.de/ausland/litauen-und-estland-bestaetigen-kuerzungen-von-us-militaerhilfe-fuer-nato-staaten-an-der-grenze-zu-russland](https://www.spiegel.de/ausland/litauen-und-estland-bestaetigen-kuerzungen-von-us-militaerhilfe-fuer-nato-staaten-an-der-grenze-zu-russland-a-b8fd7c6f-136d-4aa0-85f0-65d991bdbd28#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-konflikt-usa-senden-offenbar-kampfjets-nach-puerto-rico](https://www.spiegel.de/ausland/venezuela-konflikt-usa-senden-offenbar-kampfjets-nach-puerto-rico-a-a09b5728-3ca3-4624-b578-b6a7c756db61#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/nrw-disziplinarverfahren-gegen-dauerkranke-lehrerin-eingeleitet](https://www.spiegel.de/panorama/bildung/nrw-disziplinarverfahren-gegen-dauerkranke-lehrerin-eingeleitet-a-b4f0bf23-9796-491c-992a-1084aa00404c#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-streifen-hamas-veroeffentlicht-weiteres-geiselvideo](https://www.spiegel.de/ausland/gaza-streifen-hamas-veroeffentlicht-weiteres-geiselvideo-a-35b0a62a-6ad9-4897-ad9f-c3b1a016d548#ref=rss)
 ### lissabon
 
-* [https://www.spiegel.de/panorama/portugal-standseilbahn-unglueck-von-lissabon-laut-auswaertigem-amt-keine-deutschen-unter-den-todesopfern](https://www.spiegel.de/panorama/portugal-standseilbahn-unglueck-von-lissabon-laut-auswaertigem-amt-keine-deutschen-unter-den-todesopfern-a-a21ae1cb-c69b-49d0-91e4-5a64baf20c78#ref=rss)
-### amt
+* [https://www.spiegel.de/panorama/lissabon-seilbahnunglueck-eltern-finden-tot-geglaubten-sohn-im-krankenhaus](https://www.spiegel.de/panorama/lissabon-seilbahnunglueck-eltern-finden-tot-geglaubten-sohn-im-krankenhaus-a-eb44eb13-400f-475f-a95b-195e06c4b3f3#ref=rss)
+* [https://www.spiegel.de/ausland/lissabon-truemmer-der-gloria-bahn-nach-unfall-geborgen](https://www.spiegel.de/ausland/lissabon-truemmer-der-gloria-bahn-nach-unfall-geborgen-a-11fefeb3-d568-40b6-88a9-d42384e6dacf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/seilbahn-unglueck-in-lissabon-sorry-dafuer-ist-es-nicht-gebaut](https://www.spiegel.de/wissenschaft/technik/seilbahn-unglueck-in-lissabon-sorry-dafuer-ist-es-nicht-gebaut-a-bb10f8fd-61d7-420a-afb6-abc0d4a7f18d#ref=rss)
+### china
 
-* [https://www.spiegel.de/panorama/portugal-standseilbahn-unglueck-von-lissabon-laut-auswaertigem-amt-keine-deutschen-unter-den-todesopfern](https://www.spiegel.de/panorama/portugal-standseilbahn-unglueck-von-lissabon-laut-auswaertigem-amt-keine-deutschen-unter-den-todesopfern-a-a21ae1cb-c69b-49d0-91e4-5a64baf20c78#ref=rss)
-### krankenhaus
+* [https://www.spiegel.de/ausland/china-verhaengt-zoelle-auf-schweinefleisch-aus-der-eu](https://www.spiegel.de/ausland/china-verhaengt-zoelle-auf-schweinefleisch-aus-der-eu-a-cd8227e0-d216-42c3-86b5-70e9f32addeb#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/venedig-der-loewe-vom-markusplatz-stammt-eigentlich-aus-china](https://www.spiegel.de/wissenschaft/venedig-der-loewe-vom-markusplatz-stammt-eigentlich-aus-china-a-75bba9e3-3abc-4b6f-8657-8893027502c2#ref=rss)
+### angela
 
-* [https://www.spiegel.de/panorama/portugal-standseilbahn-unglueck-von-lissabon-laut-auswaertigem-amt-keine-deutschen-unter-den-todesopfern](https://www.spiegel.de/panorama/portugal-standseilbahn-unglueck-von-lissabon-laut-auswaertigem-amt-keine-deutschen-unter-den-todesopfern-a-a21ae1cb-c69b-49d0-91e4-5a64baf20c78#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/essen-lehrkraft-an-berufskolleg-angegriffen-polizei-sucht-nach-fluechtigem-taeter](https://www.spiegel.de/panorama/justiz/essen-lehrkraft-an-berufskolleg-angegriffen-polizei-sucht-nach-fluechtigem-taeter-a-59bb2d8d-68d0-48fd-a4f8-30b48e14aa66#ref=rss)
-### neues
+* [https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss](https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss-a-379f2b9a-f980-4073-abcb-f9150b72275a#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-aussenminister-david-lammy-wird-nach-ruecktritt-von-angela-rayner-neuer-vizepremier](https://www.spiegel.de/ausland/grossbritannien-aussenminister-david-lammy-wird-nach-ruecktritt-von-angela-rayner-neuer-vizepremier-a-f8136c39-060a-4190-bd51-1ff51754d59b#ref=rss)
+### rayner
 
-* [https://www.spiegel.de/panorama/rechtsextremismus-neues-gutachten-zu-professor-der-bundespolizeiakademie-luebeck](https://www.spiegel.de/panorama/rechtsextremismus-neues-gutachten-zu-professor-der-bundespolizeiakademie-luebeck-a-6bba1197-314a-4559-a652-fb0aacc1e957#ref=rss)
-### gutachten
+* [https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss](https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss-a-379f2b9a-f980-4073-abcb-f9150b72275a#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-aussenminister-david-lammy-wird-nach-ruecktritt-von-angela-rayner-neuer-vizepremier](https://www.spiegel.de/ausland/grossbritannien-aussenminister-david-lammy-wird-nach-ruecktritt-von-angela-rayner-neuer-vizepremier-a-f8136c39-060a-4190-bd51-1ff51754d59b#ref=rss)
+### verhängt
 
-* [https://www.spiegel.de/panorama/rechtsextremismus-neues-gutachten-zu-professor-der-bundespolizeiakademie-luebeck](https://www.spiegel.de/panorama/rechtsextremismus-neues-gutachten-zu-professor-der-bundespolizeiakademie-luebeck-a-6bba1197-314a-4559-a652-fb0aacc1e957#ref=rss)
-### professor
+* [https://www.spiegel.de/ausland/china-verhaengt-zoelle-auf-schweinefleisch-aus-der-eu](https://www.spiegel.de/ausland/china-verhaengt-zoelle-auf-schweinefleisch-aus-der-eu-a-cd8227e0-d216-42c3-86b5-70e9f32addeb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/google-eu-verhaengt-milliardenstrafe](https://www.spiegel.de/wirtschaft/unternehmen/google-eu-verhaengt-milliardenstrafe-a-72e16391-8291-4b19-bc61-b0f5c2623a2c#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/rechtsextremismus-neues-gutachten-zu-professor-der-bundespolizeiakademie-luebeck](https://www.spiegel.de/panorama/rechtsextremismus-neues-gutachten-zu-professor-der-bundespolizeiakademie-luebeck-a-6bba1197-314a-4559-a652-fb0aacc1e957#ref=rss)
-### bundespolizeiakademie
+* [https://www.spiegel.de/ausland/litauen-und-estland-bestaetigen-kuerzungen-von-us-militaerhilfe-fuer-nato-staaten-an-der-grenze-zu-russland](https://www.spiegel.de/ausland/litauen-und-estland-bestaetigen-kuerzungen-von-us-militaerhilfe-fuer-nato-staaten-an-der-grenze-zu-russland-a-b8fd7c6f-136d-4aa0-85f0-65d991bdbd28#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-konflikt-usa-senden-offenbar-kampfjets-nach-puerto-rico](https://www.spiegel.de/ausland/venezuela-konflikt-usa-senden-offenbar-kampfjets-nach-puerto-rico-a-a09b5728-3ca3-4624-b578-b6a7c756db61#ref=rss)
+### nähe
 
-* [https://www.spiegel.de/panorama/rechtsextremismus-neues-gutachten-zu-professor-der-bundespolizeiakademie-luebeck](https://www.spiegel.de/panorama/rechtsextremismus-neues-gutachten-zu-professor-der-bundespolizeiakademie-luebeck-a-6bba1197-314a-4559-a652-fb0aacc1e957#ref=rss)
-### lübeck
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### westen
 
-* [https://www.spiegel.de/panorama/rechtsextremismus-neues-gutachten-zu-professor-der-bundespolizeiakademie-luebeck](https://www.spiegel.de/panorama/rechtsextremismus-neues-gutachten-zu-professor-der-bundespolizeiakademie-luebeck-a-6bba1197-314a-4559-a652-fb0aacc1e957#ref=rss)
-### wirft
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/rechtsextremismus-neues-gutachten-zu-professor-der-bundespolizeiakademie-luebeck](https://www.spiegel.de/panorama/rechtsextremismus-neues-gutachten-zu-professor-der-bundespolizeiakademie-luebeck-a-6bba1197-314a-4559-a652-fb0aacc1e957#ref=rss)
-* [https://www.spiegel.de/ausland/trump-wirft-europa-vor-putins-krieg-zu-finanzieren](https://www.spiegel.de/ausland/trump-wirft-europa-vor-putins-krieg-zu-finanzieren-a-8c1dbf63-4701-476f-bd32-3e20a4468997#ref=rss)
-### nfl
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+* [https://www.spiegel.de/netzwelt/polymarket-und-kalshi-gesellschaftswetten-sind-in-deutschland-illegal](https://www.spiegel.de/netzwelt/polymarket-und-kalshi-gesellschaftswetten-sind-in-deutschland-illegal-a-00cdf873-28ae-40a5-bb0c-179f561679f9#ref=rss)
+### reagiert
 
-* [https://www.spiegel.de/sport/american-football/nfl-jalen-carter-spuckt-gegenspieler-an-und-wird-disqualifiziert](https://www.spiegel.de/sport/american-football/nfl-jalen-carter-spuckt-gegenspieler-an-und-wird-disqualifiziert-a-30f50cab-f3a8-4955-90d0-63c686a63223#ref=rss)
-### desaster
+* [https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss](https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss-a-379f2b9a-f980-4073-abcb-f9150b72275a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter](https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter-a-c8101fff-3eba-4041-9313-9c0bc11480bb#ref=rss)
+* [https://www.spiegel.de/ausland/georgia-us-behoerden-nehmen-auf-hyundai-werksgelaende-hunderte-menschen-fest](https://www.spiegel.de/ausland/georgia-us-behoerden-nehmen-auf-hyundai-werksgelaende-hunderte-menschen-fest-a-56e6179a-bedf-4747-93c2-58b6e635eee2#ref=rss)
+### premier
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-gegen-die-slowakei-deutschland-was-fuer-ein-desaster-pressestimmen](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-gegen-die-slowakei-deutschland-was-fuer-ein-desaster-pressestimmen-a-a49b1d4f-70c2-457c-8126-137e70e84abb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/cop30-warum-die-uno-klimakonferenz-in-belem-zum-desaster-werden-koennte](https://www.spiegel.de/wissenschaft/mensch/cop30-warum-die-uno-klimakonferenz-in-belem-zum-desaster-werden-koennte-a-01d57e11-151a-4097-a485-fec8fa68a713#ref=rss)
-### mondfinsternis
+* [https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss](https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss-a-379f2b9a-f980-4073-abcb-f9150b72275a#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### weiteres
 
-* [https://www.spiegel.de/wissenschaft/natur/mondfinsternis-am-sonntagabend-das-muessen-sie-wissen](https://www.spiegel.de/wissenschaft/natur/mondfinsternis-am-sonntagabend-das-muessen-sie-wissen-a-01e44ca8-48cc-4714-bfd7-fffe4dce8716#ref=rss)
-### los
+* [https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss](https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss-a-379f2b9a-f980-4073-abcb-f9150b72275a#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-streifen-hamas-veroeffentlicht-weiteres-geiselvideo](https://www.spiegel.de/ausland/gaza-streifen-hamas-veroeffentlicht-weiteres-geiselvideo-a-35b0a62a-6ad9-4897-ad9f-c3b1a016d548#ref=rss)
+* [https://www.spiegel.de/geschichte/nazi-raubkunst-fall-in-argentinien-weiteres-raubkunst-gemaelde-gesichtet](https://www.spiegel.de/geschichte/nazi-raubkunst-fall-in-argentinien-weiteres-raubkunst-gemaelde-gesichtet-a-789a0250-54a2-4ce2-9566-c69efeaedba6#ref=rss)
+### eu
 
-* [https://www.spiegel.de/wissenschaft/natur/mondfinsternis-am-sonntagabend-das-muessen-sie-wissen](https://www.spiegel.de/wissenschaft/natur/mondfinsternis-am-sonntagabend-das-muessen-sie-wissen-a-01e44ca8-48cc-4714-bfd7-fffe4dce8716#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/ifa-2025-mit-chef-leif-lindner-die-leute-achten-mehr-auf-sich-und-ihre-gesundheit](https://www.spiegel.de/netzwelt/gadgets/ifa-2025-mit-chef-leif-lindner-die-leute-achten-mehr-auf-sich-und-ihre-gesundheit-a-d0561b91-ceb3-4384-80d4-d0636a16ca08#ref=rss)
-### alles
+* [https://www.spiegel.de/ausland/china-verhaengt-zoelle-auf-schweinefleisch-aus-der-eu](https://www.spiegel.de/ausland/china-verhaengt-zoelle-auf-schweinefleisch-aus-der-eu-a-cd8227e0-d216-42c3-86b5-70e9f32addeb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/google-eu-verhaengt-milliardenstrafe](https://www.spiegel.de/wirtschaft/unternehmen/google-eu-verhaengt-milliardenstrafe-a-72e16391-8291-4b19-bc61-b0f5c2623a2c#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wissenschaft/natur/mondfinsternis-am-sonntagabend-das-muessen-sie-wissen](https://www.spiegel.de/wissenschaft/natur/mondfinsternis-am-sonntagabend-das-muessen-sie-wissen-a-01e44ca8-48cc-4714-bfd7-fffe4dce8716#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-dfb-elf-verliert-in-der-slowakei-nagelsmanns-niederlage](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-dfb-elf-verliert-in-der-slowakei-nagelsmanns-niederlage-a-0cb71775-db19-443a-8db1-d57a1f4ebd53#ref=rss)
-### sohn
+* [https://www.spiegel.de/ausland/china-verhaengt-zoelle-auf-schweinefleisch-aus-der-eu](https://www.spiegel.de/ausland/china-verhaengt-zoelle-auf-schweinefleisch-aus-der-eu-a-cd8227e0-d216-42c3-86b5-70e9f32addeb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-start-fuer-die-fussballerinnen-das-sind-die-fuenf-spannendsten-themen-der-neuen-saison](https://www.spiegel.de/sport/fussball/bundesliga-start-fuer-die-fussballerinnen-das-sind-die-fuenf-spannendsten-themen-der-neuen-saison-a-42072ddc-e41c-4043-8035-67ba06d898d3#ref=rss)
+### hunderte
 
-* [https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi-a-c647e378-61bc-4cf0-89d6-7873a4f847ae#ref=rss)
-### sorgt
+* [https://www.spiegel.de/ausland/georgia-us-behoerden-nehmen-auf-hyundai-werksgelaende-hunderte-menschen-fest](https://www.spiegel.de/ausland/georgia-us-behoerden-nehmen-auf-hyundai-werksgelaende-hunderte-menschen-fest-a-56e6179a-bedf-4747-93c2-58b6e635eee2#ref=rss)
+* [https://www.spiegel.de/ausland/litauen-und-estland-bestaetigen-kuerzungen-von-us-militaerhilfe-fuer-nato-staaten-an-der-grenze-zu-russland](https://www.spiegel.de/ausland/litauen-und-estland-bestaetigen-kuerzungen-von-us-militaerhilfe-fuer-nato-staaten-an-der-grenze-zu-russland-a-b8fd7c6f-136d-4aa0-85f0-65d991bdbd28#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/saarbruecken-kollegen-und-politiker-gedenken-bei-tankstellenraub-erschossenen-polizisten](https://www.spiegel.de/panorama/justiz/saarbruecken-kollegen-und-politiker-gedenken-bei-tankstellenraub-erschossenen-polizisten-a-c0da5333-8e12-41c0-92c7-33d819e69ae7#ref=rss)
+### schwer
 
-* [https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi-a-c647e378-61bc-4cf0-89d6-7873a4f847ae#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/cop30-warum-die-uno-klimakonferenz-in-belem-zum-desaster-werden-koennte](https://www.spiegel.de/wissenschaft/mensch/cop30-warum-die-uno-klimakonferenz-in-belem-zum-desaster-werden-koennte-a-01d57e11-151a-4097-a485-fec8fa68a713#ref=rss)
-### gesundheit
+* [https://www.spiegel.de/panorama/justiz/wolfenbuettel-kleinkind-nach-schlucken-von-auf-spielplatz-zurueckgelassenen-drogen-schwer-verletzt](https://www.spiegel.de/panorama/justiz/wolfenbuettel-kleinkind-nach-schlucken-von-auf-spielplatz-zurueckgelassenen-drogen-schwer-verletzt-a-4834d380-23d4-455c-ba9f-7212e7efdde0#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### russland
 
-* [https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi-a-c647e378-61bc-4cf0-89d6-7873a4f847ae#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/ifa-2025-mit-chef-leif-lindner-die-leute-achten-mehr-auf-sich-und-ihre-gesundheit](https://www.spiegel.de/netzwelt/gadgets/ifa-2025-mit-chef-leif-lindner-die-leute-achten-mehr-auf-sich-und-ihre-gesundheit-a-d0561b91-ceb3-4384-80d4-d0636a16ca08#ref=rss)
-### friedensnobelpreisträgerin
+* [https://www.spiegel.de/ausland/litauen-und-estland-bestaetigen-kuerzungen-von-us-militaerhilfe-fuer-nato-staaten-an-der-grenze-zu-russland](https://www.spiegel.de/ausland/litauen-und-estland-bestaetigen-kuerzungen-von-us-militaerhilfe-fuer-nato-staaten-an-der-grenze-zu-russland-a-b8fd7c6f-136d-4aa0-85f0-65d991bdbd28#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### land
 
-* [https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi-a-c647e378-61bc-4cf0-89d6-7873a4f847ae#ref=rss)
-### aung
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+* [https://www.spiegel.de/ausland/lissabon-truemmer-der-gloria-bahn-nach-unfall-geborgen](https://www.spiegel.de/ausland/lissabon-truemmer-der-gloria-bahn-nach-unfall-geborgen-a-11fefeb3-d568-40b6-88a9-d42384e6dacf#ref=rss)
+### rolle
 
-* [https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi-a-c647e378-61bc-4cf0-89d6-7873a4f847ae#ref=rss)
-### san
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-gazakrieg-fussball-wm](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-gazakrieg-fussball-wm-a-916bc4ce-4832-473e-bb2f-3c322b0808b7#ref=rss)
+### spielt
 
-* [https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi-a-c647e378-61bc-4cf0-89d6-7873a4f847ae#ref=rss)
-### suu
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-gazakrieg-fussball-wm](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-gazakrieg-fussball-wm-a-916bc4ce-4832-473e-bb2f-3c322b0808b7#ref=rss)
+### jackson
 
-* [https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi-a-c647e378-61bc-4cf0-89d6-7873a4f847ae#ref=rss)
-### kyi
+* [https://www.spiegel.de/kultur/kino/paris-jackson-kritik-am-biopic-ueber-ihren-vater](https://www.spiegel.de/kultur/kino/paris-jackson-kritik-am-biopic-ueber-ihren-vater-a-d374a31f-f34d-4285-ad30-b56c1e156b89#ref=rss)
+### forscher
 
-* [https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-sohn-sorgt-sich-um-gesundheit-von-friedensnobelpreistraegerin-aung-san-suu-kyi-a-c647e378-61bc-4cf0-89d6-7873a4f847ae#ref=rss)
-### essen
+* [https://www.spiegel.de/wissenschaft/medizin/adhs-symptome-bei-hunden-forscher-entwickeln-diagnostik](https://www.spiegel.de/wissenschaft/medizin/adhs-symptome-bei-hunden-forscher-entwickeln-diagnostik-a-cdc89e2d-67ff-4dae-8a09-3a934b8c8624#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/saarlaendische-forscher-widersprechen-gaengiger-eisglaette-theorie](https://www.spiegel.de/wissenschaft/mensch/saarlaendische-forscher-widersprechen-gaengiger-eisglaette-theorie-a-7e16183a-38c0-4c03-976a-1c1c47209070#ref=rss)
+### allerdings
 
-* [https://www.spiegel.de/panorama/justiz/essen-lehrkraft-an-berufskolleg-angegriffen-polizei-sucht-nach-fluechtigem-taeter](https://www.spiegel.de/panorama/justiz/essen-lehrkraft-an-berufskolleg-angegriffen-polizei-sucht-nach-fluechtigem-taeter-a-59bb2d8d-68d0-48fd-a4f8-30b48e14aa66#ref=rss)
-### berufskolleg
+* [https://www.spiegel.de/netzwelt/polymarket-und-kalshi-gesellschaftswetten-sind-in-deutschland-illegal](https://www.spiegel.de/netzwelt/polymarket-und-kalshi-gesellschaftswetten-sind-in-deutschland-illegal-a-00cdf873-28ae-40a5-bb0c-179f561679f9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-start-fuer-die-fussballerinnen-das-sind-die-fuenf-spannendsten-themen-der-neuen-saison](https://www.spiegel.de/sport/fussball/bundesliga-start-fuer-die-fussballerinnen-das-sind-die-fuenf-spannendsten-themen-der-neuen-saison-a-42072ddc-e41c-4043-8035-67ba06d898d3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elon-musk-tesla-will-ceo-bis-zu-einer-billion-dollar-zahlen](https://www.spiegel.de/wirtschaft/elon-musk-tesla-will-ceo-bis-zu-einer-billion-dollar-zahlen-a-d148e25e-fb51-4679-9ebc-af3be52585cf#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/panorama/justiz/essen-lehrkraft-an-berufskolleg-angegriffen-polizei-sucht-nach-fluechtigem-taeter](https://www.spiegel.de/panorama/justiz/essen-lehrkraft-an-berufskolleg-angegriffen-polizei-sucht-nach-fluechtigem-taeter-a-59bb2d8d-68d0-48fd-a4f8-30b48e14aa66#ref=rss)
-### polizei
+* [https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss](https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss-a-379f2b9a-f980-4073-abcb-f9150b72275a#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-aussenminister-david-lammy-wird-nach-ruecktritt-von-angela-rayner-neuer-vizepremier](https://www.spiegel.de/ausland/grossbritannien-aussenminister-david-lammy-wird-nach-ruecktritt-von-angela-rayner-neuer-vizepremier-a-f8136c39-060a-4190-bd51-1ff51754d59b#ref=rss)
+### vizepremier
 
-* [https://www.spiegel.de/panorama/justiz/essen-lehrkraft-an-berufskolleg-angegriffen-polizei-sucht-nach-fluechtigem-taeter](https://www.spiegel.de/panorama/justiz/essen-lehrkraft-an-berufskolleg-angegriffen-polizei-sucht-nach-fluechtigem-taeter-a-59bb2d8d-68d0-48fd-a4f8-30b48e14aa66#ref=rss)
-### mutmaßlichen
+* [https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss](https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss-a-379f2b9a-f980-4073-abcb-f9150b72275a#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-aussenminister-david-lammy-wird-nach-ruecktritt-von-angela-rayner-neuer-vizepremier](https://www.spiegel.de/ausland/grossbritannien-aussenminister-david-lammy-wird-nach-ruecktritt-von-angela-rayner-neuer-vizepremier-a-f8136c39-060a-4190-bd51-1ff51754d59b#ref=rss)
+### starmer
 
-* [https://www.spiegel.de/panorama/justiz/essen-lehrkraft-an-berufskolleg-angegriffen-polizei-sucht-nach-fluechtigem-taeter](https://www.spiegel.de/panorama/justiz/essen-lehrkraft-an-berufskolleg-angegriffen-polizei-sucht-nach-fluechtigem-taeter-a-59bb2d8d-68d0-48fd-a4f8-30b48e14aa66#ref=rss)
-### täter
+* [https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss](https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss-a-379f2b9a-f980-4073-abcb-f9150b72275a#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-aussenminister-david-lammy-wird-nach-ruecktritt-von-angela-rayner-neuer-vizepremier](https://www.spiegel.de/ausland/grossbritannien-aussenminister-david-lammy-wird-nach-ruecktritt-von-angela-rayner-neuer-vizepremier-a-f8136c39-060a-4190-bd51-1ff51754d59b#ref=rss)
+### droht
 
-* [https://www.spiegel.de/panorama/justiz/essen-lehrkraft-an-berufskolleg-angegriffen-polizei-sucht-nach-fluechtigem-taeter](https://www.spiegel.de/panorama/justiz/essen-lehrkraft-an-berufskolleg-angegriffen-polizei-sucht-nach-fluechtigem-taeter-a-59bb2d8d-68d0-48fd-a4f8-30b48e14aa66#ref=rss)
-### andy
+* [https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss](https://www.spiegel.de/ausland/grossbritannien-warum-vize-premier-angela-rayner-gehen-muss-a-379f2b9a-f980-4073-abcb-f9150b72275a#ref=rss)
+* [https://www.spiegel.de/ausland/china-verhaengt-zoelle-auf-schweinefleisch-aus-der-eu](https://www.spiegel.de/ausland/china-verhaengt-zoelle-auf-schweinefleisch-aus-der-eu-a-cd8227e0-d216-42c3-86b5-70e9f32addeb#ref=rss)
+### antonio
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-verfassungsgericht-weist-afd-klage-gegen-andy-grote-ab](https://www.spiegel.de/panorama/justiz/hamburg-verfassungsgericht-weist-afd-klage-gegen-andy-grote-ab-a-aa1dd3cb-bc07-4479-9fcb-337a83429cf1#ref=rss)
-### grote
+* [https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter](https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter-a-c8101fff-3eba-4041-9313-9c0bc11480bb#ref=rss)
+### rüdiger
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-verfassungsgericht-weist-afd-klage-gegen-andy-grote-ab](https://www.spiegel.de/panorama/justiz/hamburg-verfassungsgericht-weist-afd-klage-gegen-andy-grote-ab-a-aa1dd3cb-bc07-4479-9fcb-337a83429cf1#ref=rss)
-### ifa
+* [https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter](https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter-a-c8101fff-3eba-4041-9313-9c0bc11480bb#ref=rss)
+### jonathan
 
-* [https://www.spiegel.de/netzwelt/gadgets/ifa-2025-mit-chef-leif-lindner-die-leute-achten-mehr-auf-sich-und-ihre-gesundheit](https://www.spiegel.de/netzwelt/gadgets/ifa-2025-mit-chef-leif-lindner-die-leute-achten-mehr-auf-sich-und-ihre-gesundheit-a-d0561b91-ceb3-4384-80d4-d0636a16ca08#ref=rss)
-### leif
+* [https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter](https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter-a-c8101fff-3eba-4041-9313-9c0bc11480bb#ref=rss)
+### tah
 
-* [https://www.spiegel.de/netzwelt/gadgets/ifa-2025-mit-chef-leif-lindner-die-leute-achten-mehr-auf-sich-und-ihre-gesundheit](https://www.spiegel.de/netzwelt/gadgets/ifa-2025-mit-chef-leif-lindner-die-leute-achten-mehr-auf-sich-und-ihre-gesundheit-a-d0561b91-ceb3-4384-80d4-d0636a16ca08#ref=rss)
-### lindner
+* [https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter](https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter-a-c8101fff-3eba-4041-9313-9c0bc11480bb#ref=rss)
+### nnamdi
 
-* [https://www.spiegel.de/netzwelt/gadgets/ifa-2025-mit-chef-leif-lindner-die-leute-achten-mehr-auf-sich-und-ihre-gesundheit](https://www.spiegel.de/netzwelt/gadgets/ifa-2025-mit-chef-leif-lindner-die-leute-achten-mehr-auf-sich-und-ihre-gesundheit-a-d0561b91-ceb3-4384-80d4-d0636a16ca08#ref=rss)
-### apple
+* [https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter](https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter-a-c8101fff-3eba-4041-9313-9c0bc11480bb#ref=rss)
+### collins
 
-* [https://www.spiegel.de/ausland/donald-trump-apple-meta-ai-applaus-aus-dem-silicon-valley-fuer-den-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-apple-meta-ai-applaus-aus-dem-silicon-valley-fuer-den-us-praesidenten-a-c5c7ef8f-fef2-4afb-b008-e936acf507bb#ref=rss)
-### meta
+* [https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter](https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter-a-c8101fff-3eba-4041-9313-9c0bc11480bb#ref=rss)
+### dfb
 
-* [https://www.spiegel.de/ausland/donald-trump-apple-meta-ai-applaus-aus-dem-silicon-valley-fuer-den-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-apple-meta-ai-applaus-aus-dem-silicon-valley-fuer-den-us-praesidenten-a-c5c7ef8f-fef2-4afb-b008-e936acf507bb#ref=rss)
-### uspräsidenten
+* [https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter](https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter-a-c8101fff-3eba-4041-9313-9c0bc11480bb#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/ausland/donald-trump-apple-meta-ai-applaus-aus-dem-silicon-valley-fuer-den-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-apple-meta-ai-applaus-aus-dem-silicon-valley-fuer-den-us-praesidenten-a-c5c7ef8f-fef2-4afb-b008-e936acf507bb#ref=rss)
-### emmanuel
+* [https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter](https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter-a-c8101fff-3eba-4041-9313-9c0bc11480bb#ref=rss)
+* [https://www.spiegel.de/panorama/lissabon-seilbahnunglueck-eltern-finden-tot-geglaubten-sohn-im-krankenhaus](https://www.spiegel.de/panorama/lissabon-seilbahnunglueck-eltern-finden-tot-geglaubten-sohn-im-krankenhaus-a-eb44eb13-400f-475f-a95b-195e06c4b3f3#ref=rss)
+### rande
 
-* [https://www.spiegel.de/ausland/frankreich-in-der-regierungskrise-wie-emmanuel-macron-opfer-seines-egos-wurde](https://www.spiegel.de/ausland/frankreich-in-der-regierungskrise-wie-emmanuel-macron-opfer-seines-egos-wurde-a-28ee4457-95d2-41b3-815d-62902cd0b64e#ref=rss)
-### macron
+* [https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter](https://www.spiegel.de/sport/fussball/anfeindungen-gegen-antonio-ruediger-jonathan-tah-und-nnamdi-collins-dfb-leitet-hasskommentare-an-justiz-weiter-a-c8101fff-3eba-4041-9313-9c0bc11480bb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-gazakrieg-fussball-wm](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-verbot-gazakrieg-fussball-wm-a-916bc4ce-4832-473e-bb2f-3c322b0808b7#ref=rss)
+### zölle
 
-* [https://www.spiegel.de/ausland/frankreich-in-der-regierungskrise-wie-emmanuel-macron-opfer-seines-egos-wurde](https://www.spiegel.de/ausland/frankreich-in-der-regierungskrise-wie-emmanuel-macron-opfer-seines-egos-wurde-a-28ee4457-95d2-41b3-815d-62902cd0b64e#ref=rss)
-### mike
+* [https://www.spiegel.de/ausland/china-verhaengt-zoelle-auf-schweinefleisch-aus-der-eu](https://www.spiegel.de/ausland/china-verhaengt-zoelle-auf-schweinefleisch-aus-der-eu-a-cd8227e0-d216-42c3-86b5-70e9f32addeb#ref=rss)
+### schweinefleisch
 
-* [https://www.spiegel.de/sport/boxen/boxen-mike-tyson-plant-showkampf-gegen-floyd-mayweather-jr](https://www.spiegel.de/sport/boxen/boxen-mike-tyson-plant-showkampf-gegen-floyd-mayweather-jr-a-26af5bff-55ee-42cd-b062-2557be139267#ref=rss)
-### tyson
+* [https://www.spiegel.de/ausland/china-verhaengt-zoelle-auf-schweinefleisch-aus-der-eu](https://www.spiegel.de/ausland/china-verhaengt-zoelle-auf-schweinefleisch-aus-der-eu-a-cd8227e0-d216-42c3-86b5-70e9f32addeb#ref=rss)
+### seilbahnunglück
 
-* [https://www.spiegel.de/sport/boxen/boxen-mike-tyson-plant-showkampf-gegen-floyd-mayweather-jr](https://www.spiegel.de/sport/boxen/boxen-mike-tyson-plant-showkampf-gegen-floyd-mayweather-jr-a-26af5bff-55ee-42cd-b062-2557be139267#ref=rss)
-### plant
+* [https://www.spiegel.de/panorama/lissabon-seilbahnunglueck-eltern-finden-tot-geglaubten-sohn-im-krankenhaus](https://www.spiegel.de/panorama/lissabon-seilbahnunglueck-eltern-finden-tot-geglaubten-sohn-im-krankenhaus-a-eb44eb13-400f-475f-a95b-195e06c4b3f3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/seilbahn-unglueck-in-lissabon-sorry-dafuer-ist-es-nicht-gebaut](https://www.spiegel.de/wissenschaft/technik/seilbahn-unglueck-in-lissabon-sorry-dafuer-ist-es-nicht-gebaut-a-bb10f8fd-61d7-420a-afb6-abc0d4a7f18d#ref=rss)
+### georgia
 
-* [https://www.spiegel.de/sport/boxen/boxen-mike-tyson-plant-showkampf-gegen-floyd-mayweather-jr](https://www.spiegel.de/sport/boxen/boxen-mike-tyson-plant-showkampf-gegen-floyd-mayweather-jr-a-26af5bff-55ee-42cd-b062-2557be139267#ref=rss)
-### ehemalige
+* [https://www.spiegel.de/ausland/georgia-us-behoerden-nehmen-auf-hyundai-werksgelaende-hunderte-menschen-fest](https://www.spiegel.de/ausland/georgia-us-behoerden-nehmen-auf-hyundai-werksgelaende-hunderte-menschen-fest-a-56e6179a-bedf-4747-93c2-58b6e635eee2#ref=rss)
+### usbehörden
 
-* [https://www.spiegel.de/sport/boxen/boxen-mike-tyson-plant-showkampf-gegen-floyd-mayweather-jr](https://www.spiegel.de/sport/boxen/boxen-mike-tyson-plant-showkampf-gegen-floyd-mayweather-jr-a-26af5bff-55ee-42cd-b062-2557be139267#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/florida-75-jaehrige-wegen-auftragsmord-an-ihrem-ex-schwiegersohn-verurteilt](https://www.spiegel.de/panorama/justiz/florida-75-jaehrige-wegen-auftragsmord-an-ihrem-ex-schwiegersohn-verurteilt-a-2ce300fb-8cc5-4059-b6c1-0034d2c7d393#ref=rss)
-### krieg
+* [https://www.spiegel.de/ausland/georgia-us-behoerden-nehmen-auf-hyundai-werksgelaende-hunderte-menschen-fest](https://www.spiegel.de/ausland/georgia-us-behoerden-nehmen-auf-hyundai-werksgelaende-hunderte-menschen-fest-a-56e6179a-bedf-4747-93c2-58b6e635eee2#ref=rss)
+### hyundaiwerksgelände
 
-* [https://www.spiegel.de/ausland/trump-wirft-europa-vor-putins-krieg-zu-finanzieren](https://www.spiegel.de/ausland/trump-wirft-europa-vor-putins-krieg-zu-finanzieren-a-8c1dbf63-4701-476f-bd32-3e20a4468997#ref=rss)
-* [https://www.spiegel.de/geschichte/igor-gusenko-der-geist-der-den-kalten-krieg-brachte](https://www.spiegel.de/geschichte/igor-gusenko-der-geist-der-den-kalten-krieg-brachte-a-a02de249-2011-4fa6-94a0-1b0640870f87#ref=rss)
-### florida
+* [https://www.spiegel.de/ausland/georgia-us-behoerden-nehmen-auf-hyundai-werksgelaende-hunderte-menschen-fest](https://www.spiegel.de/ausland/georgia-us-behoerden-nehmen-auf-hyundai-werksgelaende-hunderte-menschen-fest-a-56e6179a-bedf-4747-93c2-58b6e635eee2#ref=rss)
+### kleinkind
 
-* [https://www.spiegel.de/panorama/justiz/florida-75-jaehrige-wegen-auftragsmord-an-ihrem-ex-schwiegersohn-verurteilt](https://www.spiegel.de/panorama/justiz/florida-75-jaehrige-wegen-auftragsmord-an-ihrem-ex-schwiegersohn-verurteilt-a-2ce300fb-8cc5-4059-b6c1-0034d2c7d393#ref=rss)
-### erste
+* [https://www.spiegel.de/panorama/justiz/wolfenbuettel-kleinkind-nach-schlucken-von-auf-spielplatz-zurueckgelassenen-drogen-schwer-verletzt](https://www.spiegel.de/panorama/justiz/wolfenbuettel-kleinkind-nach-schlucken-von-auf-spielplatz-zurueckgelassenen-drogen-schwer-verletzt-a-4834d380-23d4-455c-ba9f-7212e7efdde0#ref=rss)
+### spielplatz
 
-* [https://www.spiegel.de/panorama/justiz/florida-75-jaehrige-wegen-auftragsmord-an-ihrem-ex-schwiegersohn-verurteilt](https://www.spiegel.de/panorama/justiz/florida-75-jaehrige-wegen-auftragsmord-an-ihrem-ex-schwiegersohn-verurteilt-a-2ce300fb-8cc5-4059-b6c1-0034d2c7d393#ref=rss)
-* [https://www.spiegel.de/panorama/sylt-abgemagerter-wal-war-offenbar-jungtier](https://www.spiegel.de/panorama/sylt-abgemagerter-wal-war-offenbar-jungtier-a-ad7714ee-1a6b-4e80-b0ed-0b6b8acd300d#ref=rss)
-### igor
+* [https://www.spiegel.de/panorama/justiz/wolfenbuettel-kleinkind-nach-schlucken-von-auf-spielplatz-zurueckgelassenen-drogen-schwer-verletzt](https://www.spiegel.de/panorama/justiz/wolfenbuettel-kleinkind-nach-schlucken-von-auf-spielplatz-zurueckgelassenen-drogen-schwer-verletzt-a-4834d380-23d4-455c-ba9f-7212e7efdde0#ref=rss)
+### bestätigen
 
-* [https://www.spiegel.de/geschichte/igor-gusenko-der-geist-der-den-kalten-krieg-brachte](https://www.spiegel.de/geschichte/igor-gusenko-der-geist-der-den-kalten-krieg-brachte-a-a02de249-2011-4fa6-94a0-1b0640870f87#ref=rss)
-### gusenko
+* [https://www.spiegel.de/ausland/litauen-und-estland-bestaetigen-kuerzungen-von-us-militaerhilfe-fuer-nato-staaten-an-der-grenze-zu-russland](https://www.spiegel.de/ausland/litauen-und-estland-bestaetigen-kuerzungen-von-us-militaerhilfe-fuer-nato-staaten-an-der-grenze-zu-russland-a-b8fd7c6f-136d-4aa0-85f0-65d991bdbd28#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/geschichte/igor-gusenko-der-geist-der-den-kalten-krieg-brachte](https://www.spiegel.de/geschichte/igor-gusenko-der-geist-der-den-kalten-krieg-brachte-a-a02de249-2011-4fa6-94a0-1b0640870f87#ref=rss)
-### gaza
+* [https://www.spiegel.de/ausland/litauen-und-estland-bestaetigen-kuerzungen-von-us-militaerhilfe-fuer-nato-staaten-an-der-grenze-zu-russland](https://www.spiegel.de/ausland/litauen-und-estland-bestaetigen-kuerzungen-von-us-militaerhilfe-fuer-nato-staaten-an-der-grenze-zu-russland-a-b8fd7c6f-136d-4aa0-85f0-65d991bdbd28#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-streifen-hamas-veroeffentlicht-weiteres-geiselvideo](https://www.spiegel.de/ausland/gaza-streifen-hamas-veroeffentlicht-weiteres-geiselvideo-a-35b0a62a-6ad9-4897-ad9f-c3b1a016d548#ref=rss)
+### euro
 
-* [https://www.spiegel.de/ausland/gaza-eu-vizepraesidentin-spricht-erstmals-von-genozid-israelische-armee-weiter-offensive-aus](https://www.spiegel.de/ausland/gaza-eu-vizepraesidentin-spricht-erstmals-von-genozid-israelische-armee-weiter-offensive-aus-a-b86a8788-c020-4093-a865-6f395f88a8e8#ref=rss)
-### euvizepräsidentin
+* [https://www.spiegel.de/ausland/litauen-und-estland-bestaetigen-kuerzungen-von-us-militaerhilfe-fuer-nato-staaten-an-der-grenze-zu-russland](https://www.spiegel.de/ausland/litauen-und-estland-bestaetigen-kuerzungen-von-us-militaerhilfe-fuer-nato-staaten-an-der-grenze-zu-russland-a-b8fd7c6f-136d-4aa0-85f0-65d991bdbd28#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/google-eu-verhaengt-milliardenstrafe](https://www.spiegel.de/wirtschaft/unternehmen/google-eu-verhaengt-milliardenstrafe-a-72e16391-8291-4b19-bc61-b0f5c2623a2c#ref=rss)
+### tankstellenraub
 
-* [https://www.spiegel.de/ausland/gaza-eu-vizepraesidentin-spricht-erstmals-von-genozid-israelische-armee-weiter-offensive-aus](https://www.spiegel.de/ausland/gaza-eu-vizepraesidentin-spricht-erstmals-von-genozid-israelische-armee-weiter-offensive-aus-a-b86a8788-c020-4093-a865-6f395f88a8e8#ref=rss)
-### jungtier
+* [https://www.spiegel.de/panorama/justiz/saarbruecken-kollegen-und-politiker-gedenken-bei-tankstellenraub-erschossenen-polizisten](https://www.spiegel.de/panorama/justiz/saarbruecken-kollegen-und-politiker-gedenken-bei-tankstellenraub-erschossenen-polizisten-a-c0da5333-8e12-41c0-92c7-33d819e69ae7#ref=rss)
+### polizisten
 
-* [https://www.spiegel.de/panorama/sylt-abgemagerter-wal-war-offenbar-jungtier](https://www.spiegel.de/panorama/sylt-abgemagerter-wal-war-offenbar-jungtier-a-ad7714ee-1a6b-4e80-b0ed-0b6b8acd300d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/saarbruecken-kollegen-und-politiker-gedenken-bei-tankstellenraub-erschossenen-polizisten](https://www.spiegel.de/panorama/justiz/saarbruecken-kollegen-und-politiker-gedenken-bei-tankstellenraub-erschossenen-polizisten-a-c0da5333-8e12-41c0-92c7-33d819e69ae7#ref=rss)
+### kündigte
+
+* [https://www.spiegel.de/panorama/justiz/saarbruecken-kollegen-und-politiker-gedenken-bei-tankstellenraub-erschossenen-polizisten](https://www.spiegel.de/panorama/justiz/saarbruecken-kollegen-und-politiker-gedenken-bei-tankstellenraub-erschossenen-polizisten-a-c0da5333-8e12-41c0-92c7-33d819e69ae7#ref=rss)
+* [https://www.spiegel.de/ausland/lissabon-truemmer-der-gloria-bahn-nach-unfall-geborgen](https://www.spiegel.de/ausland/lissabon-truemmer-der-gloria-bahn-nach-unfall-geborgen-a-11fefeb3-d568-40b6-88a9-d42384e6dacf#ref=rss)
+### indien
+
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### sucht
+
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### xi
+
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### jinping
+
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### abkehr
+
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### indiens
+
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### demonstriert
+
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### machthabern
+
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### verhältnis
+
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### beschädigt
+
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### wendet
+
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-podcast-a-797035e5-915e-45b9-99c8-b82f12a3c903#ref=rss)
+* [https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen](https://www.spiegel.de/ausland/indien-sucht-die-naehe-von-wladimir-putin-und-xi-jinping-abkehr-vom-westen-a-41d2269e-42a7-4bf0-920e-f73e2095315d#ref=rss)
+### puerto
+
+* [https://www.spiegel.de/ausland/venezuela-konflikt-usa-senden-offenbar-kampfjets-nach-puerto-rico](https://www.spiegel.de/ausland/venezuela-konflikt-usa-senden-offenbar-kampfjets-nach-puerto-rico-a-a09b5728-3ca3-4624-b578-b6a7c756db61#ref=rss)
+### rico
+
+* [https://www.spiegel.de/ausland/venezuela-konflikt-usa-senden-offenbar-kampfjets-nach-puerto-rico](https://www.spiegel.de/ausland/venezuela-konflikt-usa-senden-offenbar-kampfjets-nach-puerto-rico-a-a09b5728-3ca3-4624-b578-b6a7c756db61#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/venezuela-konflikt-usa-senden-offenbar-kampfjets-nach-puerto-rico](https://www.spiegel.de/ausland/venezuela-konflikt-usa-senden-offenbar-kampfjets-nach-puerto-rico-a-a09b5728-3ca3-4624-b578-b6a7c756db61#ref=rss)
+* [https://www.spiegel.de/ausland/lissabon-truemmer-der-gloria-bahn-nach-unfall-geborgen](https://www.spiegel.de/ausland/lissabon-truemmer-der-gloria-bahn-nach-unfall-geborgen-a-11fefeb3-d568-40b6-88a9-d42384e6dacf#ref=rss)
+### paris
+
+* [https://www.spiegel.de/kultur/kino/paris-jackson-kritik-am-biopic-ueber-ihren-vater](https://www.spiegel.de/kultur/kino/paris-jackson-kritik-am-biopic-ueber-ihren-vater-a-d374a31f-f34d-4285-ad30-b56c1e156b89#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/kultur/kino/paris-jackson-kritik-am-biopic-ueber-ihren-vater](https://www.spiegel.de/kultur/kino/paris-jackson-kritik-am-biopic-ueber-ihren-vater-a-d374a31f-f34d-4285-ad30-b56c1e156b89#ref=rss)
+### biopic
+
+* [https://www.spiegel.de/kultur/kino/paris-jackson-kritik-am-biopic-ueber-ihren-vater](https://www.spiegel.de/kultur/kino/paris-jackson-kritik-am-biopic-ueber-ihren-vater-a-d374a31f-f34d-4285-ad30-b56c1e156b89#ref=rss)
+### vater
+
+* [https://www.spiegel.de/kultur/kino/paris-jackson-kritik-am-biopic-ueber-ihren-vater](https://www.spiegel.de/kultur/kino/paris-jackson-kritik-am-biopic-ueber-ihren-vater-a-d374a31f-f34d-4285-ad30-b56c1e156b89#ref=rss)
+* [https://www.spiegel.de/wissenschaft/venedig-der-loewe-vom-markusplatz-stammt-eigentlich-aus-china](https://www.spiegel.de/wissenschaft/venedig-der-loewe-vom-markusplatz-stammt-eigentlich-aus-china-a-75bba9e3-3abc-4b6f-8657-8893027502c2#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/kultur/kino/paris-jackson-kritik-am-biopic-ueber-ihren-vater](https://www.spiegel.de/kultur/kino/paris-jackson-kritik-am-biopic-ueber-ihren-vater-a-d374a31f-f34d-4285-ad30-b56c1e156b89#ref=rss)
+* [https://www.spiegel.de/geschichte/nazi-raubkunst-fall-in-argentinien-weiteres-raubkunst-gemaelde-gesichtet](https://www.spiegel.de/geschichte/nazi-raubkunst-fall-in-argentinien-weiteres-raubkunst-gemaelde-gesichtet-a-789a0250-54a2-4ce2-9566-c69efeaedba6#ref=rss)
+### ganz
+
+* [https://www.spiegel.de/kultur/kino/paris-jackson-kritik-am-biopic-ueber-ihren-vater](https://www.spiegel.de/kultur/kino/paris-jackson-kritik-am-biopic-ueber-ihren-vater-a-d374a31f-f34d-4285-ad30-b56c1e156b89#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/juelich-europas-schnellster-supercomputer-jupiter-eingeweiht](https://www.spiegel.de/wissenschaft/technik/juelich-europas-schnellster-supercomputer-jupiter-eingeweiht-a-a0a3bd8e-3dba-417a-bcc7-e7e96679cb87#ref=rss)
+### adhssymptome
+
+* [https://www.spiegel.de/wissenschaft/medizin/adhs-symptome-bei-hunden-forscher-entwickeln-diagnostik](https://www.spiegel.de/wissenschaft/medizin/adhs-symptome-bei-hunden-forscher-entwickeln-diagnostik-a-cdc89e2d-67ff-4dae-8a09-3a934b8c8624#ref=rss)
+### unfall
+
+* [https://www.spiegel.de/ausland/lissabon-truemmer-der-gloria-bahn-nach-unfall-geborgen](https://www.spiegel.de/ausland/lissabon-truemmer-der-gloria-bahn-nach-unfall-geborgen-a-11fefeb3-d568-40b6-88a9-d42384e6dacf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/seilbahn-unglueck-in-lissabon-sorry-dafuer-ist-es-nicht-gebaut](https://www.spiegel.de/wissenschaft/technik/seilbahn-unglueck-in-lissabon-sorry-dafuer-ist-es-nicht-gebaut-a-bb10f8fd-61d7-420a-afb6-abc0d4a7f18d#ref=rss)
+### glória
+
+* [https://www.spiegel.de/ausland/lissabon-truemmer-der-gloria-bahn-nach-unfall-geborgen](https://www.spiegel.de/ausland/lissabon-truemmer-der-gloria-bahn-nach-unfall-geborgen-a-11fefeb3-d568-40b6-88a9-d42384e6dacf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/seilbahn-unglueck-in-lissabon-sorry-dafuer-ist-es-nicht-gebaut](https://www.spiegel.de/wissenschaft/technik/seilbahn-unglueck-in-lissabon-sorry-dafuer-ist-es-nicht-gebaut-a-bb10f8fd-61d7-420a-afb6-abc0d4a7f18d#ref=rss)
+### google
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/google-eu-verhaengt-milliardenstrafe](https://www.spiegel.de/wirtschaft/unternehmen/google-eu-verhaengt-milliardenstrafe-a-72e16391-8291-4b19-bc61-b0f5c2623a2c#ref=rss)
+### polymarket
+
+* [https://www.spiegel.de/netzwelt/polymarket-und-kalshi-gesellschaftswetten-sind-in-deutschland-illegal](https://www.spiegel.de/netzwelt/polymarket-und-kalshi-gesellschaftswetten-sind-in-deutschland-illegal-a-00cdf873-28ae-40a5-bb0c-179f561679f9#ref=rss)
+### gesellschaftswetten
+
+* [https://www.spiegel.de/netzwelt/polymarket-und-kalshi-gesellschaftswetten-sind-in-deutschland-illegal](https://www.spiegel.de/netzwelt/polymarket-und-kalshi-gesellschaftswetten-sind-in-deutschland-illegal-a-00cdf873-28ae-40a5-bb0c-179f561679f9#ref=rss)
+### nrw
+
+* [https://www.spiegel.de/panorama/bildung/nrw-disziplinarverfahren-gegen-dauerkranke-lehrerin-eingeleitet](https://www.spiegel.de/panorama/bildung/nrw-disziplinarverfahren-gegen-dauerkranke-lehrerin-eingeleitet-a-b4f0bf23-9796-491c-992a-1084aa00404c#ref=rss)
+### lehrerin
+
+* [https://www.spiegel.de/panorama/bildung/nrw-disziplinarverfahren-gegen-dauerkranke-lehrerin-eingeleitet](https://www.spiegel.de/panorama/bildung/nrw-disziplinarverfahren-gegen-dauerkranke-lehrerin-eingeleitet-a-b4f0bf23-9796-491c-992a-1084aa00404c#ref=rss)
+### prozess
+
+* [https://www.spiegel.de/panorama/justiz/niebuell-mann-faehrt-im-suv-zu-prozess-wegen-fahrt-ohne-fahrerlaubnis](https://www.spiegel.de/panorama/justiz/niebuell-mann-faehrt-im-suv-zu-prozess-wegen-fahrt-ohne-fahrerlaubnis-a-120a6b7a-556b-4aa3-8479-3df8b056ec18#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/panorama/justiz/niebuell-mann-faehrt-im-suv-zu-prozess-wegen-fahrt-ohne-fahrerlaubnis](https://www.spiegel.de/panorama/justiz/niebuell-mann-faehrt-im-suv-zu-prozess-wegen-fahrt-ohne-fahrerlaubnis-a-120a6b7a-556b-4aa3-8479-3df8b056ec18#ref=rss)
+### fahrerlaubnis
+
+* [https://www.spiegel.de/panorama/justiz/niebuell-mann-faehrt-im-suv-zu-prozess-wegen-fahrt-ohne-fahrerlaubnis](https://www.spiegel.de/panorama/justiz/niebuell-mann-faehrt-im-suv-zu-prozess-wegen-fahrt-ohne-fahrerlaubnis-a-120a6b7a-556b-4aa3-8479-3df8b056ec18#ref=rss)
+### widersprechen
+
+* [https://www.spiegel.de/wissenschaft/mensch/saarlaendische-forscher-widersprechen-gaengiger-eisglaette-theorie](https://www.spiegel.de/wissenschaft/mensch/saarlaendische-forscher-widersprechen-gaengiger-eisglaette-theorie-a-7e16183a-38c0-4c03-976a-1c1c47209070#ref=rss)
+### davon
+
+* [https://www.spiegel.de/wissenschaft/mensch/saarlaendische-forscher-widersprechen-gaengiger-eisglaette-theorie](https://www.spiegel.de/wissenschaft/mensch/saarlaendische-forscher-widersprechen-gaengiger-eisglaette-theorie-a-7e16183a-38c0-4c03-976a-1c1c47209070#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/juelich-europas-schnellster-supercomputer-jupiter-eingeweiht](https://www.spiegel.de/wissenschaft/technik/juelich-europas-schnellster-supercomputer-jupiter-eingeweiht-a-a0a3bd8e-3dba-417a-bcc7-e7e96679cb87#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/wirtschaft/soziales/haushalt-2025-warum-die-einigung-nur-ein-etappensieg-ist](https://www.spiegel.de/wirtschaft/soziales/haushalt-2025-warum-die-einigung-nur-ein-etappensieg-ist-a-be5557c7-53b1-41c3-9b89-8e9b7f84b661#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/ausland/gaza-streifen-hamas-veroeffentlicht-weiteres-geiselvideo](https://www.spiegel.de/ausland/gaza-streifen-hamas-veroeffentlicht-weiteres-geiselvideo-a-35b0a62a-6ad9-4897-ad9f-c3b1a016d548#ref=rss)
+### venedig
+
+* [https://www.spiegel.de/wissenschaft/venedig-der-loewe-vom-markusplatz-stammt-eigentlich-aus-china](https://www.spiegel.de/wissenschaft/venedig-der-loewe-vom-markusplatz-stammt-eigentlich-aus-china-a-75bba9e3-3abc-4b6f-8657-8893027502c2#ref=rss)
+### löwe
+
+* [https://www.spiegel.de/wissenschaft/venedig-der-loewe-vom-markusplatz-stammt-eigentlich-aus-china](https://www.spiegel.de/wissenschaft/venedig-der-loewe-vom-markusplatz-stammt-eigentlich-aus-china-a-75bba9e3-3abc-4b6f-8657-8893027502c2#ref=rss)
+### markusplatz
+
+* [https://www.spiegel.de/wissenschaft/venedig-der-loewe-vom-markusplatz-stammt-eigentlich-aus-china](https://www.spiegel.de/wissenschaft/venedig-der-loewe-vom-markusplatz-stammt-eigentlich-aus-china-a-75bba9e3-3abc-4b6f-8657-8893027502c2#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wirtschaft/elon-musk-tesla-will-ceo-bis-zu-einer-billion-dollar-zahlen](https://www.spiegel.de/wirtschaft/elon-musk-tesla-will-ceo-bis-zu-einer-billion-dollar-zahlen-a-d148e25e-fb51-4679-9ebc-af3be52585cf#ref=rss)
+### musk
+
+* [https://www.spiegel.de/wirtschaft/elon-musk-tesla-will-ceo-bis-zu-einer-billion-dollar-zahlen](https://www.spiegel.de/wirtschaft/elon-musk-tesla-will-ceo-bis-zu-einer-billion-dollar-zahlen-a-d148e25e-fb51-4679-9ebc-af3be52585cf#ref=rss)
+### tesla
+
+* [https://www.spiegel.de/wirtschaft/elon-musk-tesla-will-ceo-bis-zu-einer-billion-dollar-zahlen](https://www.spiegel.de/wirtschaft/elon-musk-tesla-will-ceo-bis-zu-einer-billion-dollar-zahlen-a-d148e25e-fb51-4679-9ebc-af3be52585cf#ref=rss)
+### jülich
+
+* [https://www.spiegel.de/wissenschaft/technik/juelich-europas-schnellster-supercomputer-jupiter-eingeweiht](https://www.spiegel.de/wissenschaft/technik/juelich-europas-schnellster-supercomputer-jupiter-eingeweiht-a-a0a3bd8e-3dba-417a-bcc7-e7e96679cb87#ref=rss)
+### supercomputer
+
+* [https://www.spiegel.de/wissenschaft/technik/juelich-europas-schnellster-supercomputer-jupiter-eingeweiht](https://www.spiegel.de/wissenschaft/technik/juelich-europas-schnellster-supercomputer-jupiter-eingeweiht-a-a0a3bd8e-3dba-417a-bcc7-e7e96679cb87#ref=rss)
+### jupiter
+
+* [https://www.spiegel.de/wissenschaft/technik/juelich-europas-schnellster-supercomputer-jupiter-eingeweiht](https://www.spiegel.de/wissenschaft/technik/juelich-europas-schnellster-supercomputer-jupiter-eingeweiht-a-a0a3bd8e-3dba-417a-bcc7-e7e96679cb87#ref=rss)
 
