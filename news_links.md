@@ -4,399 +4,305 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### frankreich
+### zwei
 
-* [https://www.spiegel.de/ausland/frankreich-premier-francois-bayrou-abgewaehlt-politische-krise-verschaerft-sich](https://www.spiegel.de/ausland/frankreich-premier-francois-bayrou-abgewaehlt-politische-krise-verschaerft-sich-a-314e7058-4b56-4837-8ec4-3c13c70bfc8b#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-premierminister-francois-bayrou-verliert-vertrauensabstimmung](https://www.spiegel.de/ausland/frankreich-premierminister-francois-bayrou-verliert-vertrauensabstimmung-a-e661d2bf-c4b3-48b0-b7e7-69fee8651ded#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-felssturz-in-der-franzoesischen-alpengemeinde-sixt-fer-a-cheval](https://www.spiegel.de/panorama/frankreich-felssturz-in-der-franzoesischen-alpengemeinde-sixt-fer-a-cheval-a-0da39835-b211-409e-9dfa-d3a152977d56#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankreich-zwoelf-patienten-getoetet-angeklagter-arzt-weist-schuld-zurueck](https://www.spiegel.de/panorama/justiz/frankreich-zwoelf-patienten-getoetet-angeklagter-arzt-weist-schuld-zurueck-a-06e60a42-f696-4fe5-8c69-59ab902c9445#ref=rss)
-### deutsche
+* [https://www.spiegel.de/panorama/justiz/neuseeland-hier-versteckte-sich-der-untergetauchte-vater-mit-seinen-kindern](https://www.spiegel.de/panorama/justiz/neuseeland-hier-versteckte-sich-der-untergetauchte-vater-mit-seinen-kindern-a-07a1c06d-cca9-46a9-8d45-c3696a37c2ee#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-feuer-an-zwei-strommasten-zehntausende-menschen-in-berlin-ohne-strom](https://www.spiegel.de/panorama/justiz/berlin-feuer-an-zwei-strommasten-zehntausende-menschen-in-berlin-ohne-strom-a-4c919a60-05c9-497b-b6bd-48eaacc0332b#ref=rss)
+* [https://www.spiegel.de/geschichte/25-jahre-nsu-morde-als-das-komplettversagen-der-ermittler-seinen-anfang-nahm](https://www.spiegel.de/geschichte/25-jahre-nsu-morde-als-das-komplettversagen-der-ermittler-seinen-anfang-nahm-a-692b7007-298d-47a9-b3b9-442b8f44e845#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-italien-gewinnt-gegen-israel-in-einem-neun-tore-spektakel](https://www.spiegel.de/sport/fussball/wm-qualifikation-italien-gewinnt-gegen-israel-in-einem-neun-tore-spektakel-a-b037b212-224b-45d1-b3e0-d184a5d6b72d#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-em-deutsche-mannschaft-stellt-sich-hinter-trainer-alex-mumbru](https://www.spiegel.de/sport/basketball/basketball-em-deutsche-mannschaft-stellt-sich-hinter-trainer-alex-mumbru-a-8a667703-4db8-4ad4-9323-4b2fb5afa794#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-von-deutschen-diplomaten-opferbereitschaft](https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-von-deutschen-diplomaten-opferbereitschaft-a-6ea4fb35-280d-4b12-8e34-878a8c1a3a79#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-wirtschaftspolitik-pflegende-angehoerigen-deutsche-autoindustrie-setzt-auf-nostalgie](https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-wirtschaftspolitik-pflegende-angehoerigen-deutsche-autoindustrie-setzt-auf-nostalgie-a-cc60e8ef-cb63-477a-8eeb-2381c75018ad#ref=rss)
-### laut
+* [https://www.spiegel.de/panorama/bildung/lehrergehaelter-im-internationalen-vergleich-ziemlich-gut-bezahlt](https://www.spiegel.de/panorama/bildung/lehrergehaelter-im-internationalen-vergleich-ziemlich-gut-bezahlt-a-23d9f31e-362f-4fb5-b477-cd72ce3c0862#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/social-media-mehrheit-in-deutschland-will-mindestalter-auch-viele-jugendliche-dafuer](https://www.spiegel.de/panorama/bildung/social-media-mehrheit-in-deutschland-will-mindestalter-auch-viele-jugendliche-dafuer-a-901ee60a-dce5-42d3-8755-8bdeaf492d4e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/diabetes-fast-die-haelfte-aller-betroffenen-wissen-nicht-dass-sie-krank-sind](https://www.spiegel.de/wissenschaft/medizin/diabetes-fast-die-haelfte-aller-betroffenen-wissen-nicht-dass-sie-krank-sind-a-8ae2ffcf-edf9-452f-975d-5e13e1b9d8dd#ref=rss)
+### gefeiert
 
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-* [https://www.spiegel.de/ausland/fuenf-tote-bei-israelischem-luftangriff-gegen-hisbollah-im-libanon](https://www.spiegel.de/ausland/fuenf-tote-bei-israelischem-luftangriff-gegen-hisbollah-im-libanon-a-565e4c50-63d0-4adb-a36a-2e96f2524d04#ref=rss)
-* [https://www.spiegel.de/ausland/israel-festnahme-und-durchsuchungen-nach-anschlag-in-jerusalem](https://www.spiegel.de/ausland/israel-festnahme-und-durchsuchungen-nach-anschlag-in-jerusalem-a-fd67dc98-1695-4a99-8bdb-22711cd55d73#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankreich-zwoelf-patienten-getoetet-angeklagter-arzt-weist-schuld-zurueck](https://www.spiegel.de/panorama/justiz/frankreich-zwoelf-patienten-getoetet-angeklagter-arzt-weist-schuld-zurueck-a-06e60a42-f696-4fe5-8c69-59ab902c9445#ref=rss)
-### trump
+* [https://www.spiegel.de/kultur/ayo-edebiri-filmstar-wird-fuer-reaktion-auf-irritierende-interviewfrage-gefeiert](https://www.spiegel.de/kultur/ayo-edebiri-filmstar-wird-fuer-reaktion-auf-irritierende-interviewfrage-gefeiert-a-44067225-8aa8-4864-bbcb-22af35817785#ref=rss)
+* [https://www.spiegel.de/sport/schach/schach-16-jaehriger-abhimanyu-mishra-besiegt-weltmeister-dommaraju-gukesh-rekord](https://www.spiegel.de/sport/schach/schach-16-jaehriger-abhimanyu-mishra-besiegt-weltmeister-dommaraju-gukesh-rekord-a-9fd08244-10d6-48e7-8fc6-65bdf0880ce6#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/ausland/donald-trump-us-gericht-bestaetigt-dass-us-praesident-83-millionen-dollar-schadensersatz-zahlen-muss](https://www.spiegel.de/ausland/donald-trump-us-gericht-bestaetigt-dass-us-praesident-83-millionen-dollar-schadensersatz-zahlen-muss-a-ec6b8c52-cb31-4e78-90d2-baf0b32d6312#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-zieht-wegen-kuerzung-von-auslandshilfe-vor-den-obersten-gerichtshof](https://www.spiegel.de/ausland/usa-donald-trump-zieht-wegen-kuerzung-von-auslandshilfe-vor-den-obersten-gerichtshof-a-d7e9a587-640b-4475-aed5-51d9be1f9e48#ref=rss)
-### bahn
+* [https://www.spiegel.de/ausland/italien-giorgia-meloni-steht-wegen-new-york-trips-mit-tochter-in-kritik](https://www.spiegel.de/ausland/italien-giorgia-meloni-steht-wegen-new-york-trips-mit-tochter-in-kritik-a-868ede1d-2e97-4402-bff1-0af5098f35c3#ref=rss)
+* [https://www.spiegel.de/ausland/nepal-premierminister-erklaert-seinen-ruecktritt](https://www.spiegel.de/ausland/nepal-premierminister-erklaert-seinen-ruecktritt-a-44e20fcb-248c-4b5a-bcd7-a0efd87ffff9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektro-und-digitalindustrie-verzeichnet-deutlichen-auftragsrueckgang](https://www.spiegel.de/wirtschaft/elektro-und-digitalindustrie-verzeichnet-deutlichen-auftragsrueckgang-a-08955c1c-8723-48f5-a810-ffea45b7953f#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### unglück
+* [https://www.spiegel.de/sport/leichtathletik/missbrauchsvorwuerfe-im-sport-leichtathletinnen-berichten-von-sexuell-uebergriffigen-trainern](https://www.spiegel.de/sport/leichtathletik/missbrauchsvorwuerfe-im-sport-leichtathletinnen-berichten-von-sexuell-uebergriffigen-trainern-a-21099e3e-ba33-4a59-b829-3da19cfc6ddd#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/armut-wie-sehr-die-chance-auf-einen-kitaplatz-vom-geldbeutel-der-eltern-abhaengt](https://www.spiegel.de/panorama/bildung/armut-wie-sehr-die-chance-auf-einen-kitaplatz-vom-geldbeutel-der-eltern-abhaengt-a-bf96f387-c8fb-4aa6-b1cb-d68a871a07d5#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/lehrergehaelter-im-internationalen-vergleich-ziemlich-gut-bezahlt](https://www.spiegel.de/panorama/bildung/lehrergehaelter-im-internationalen-vergleich-ziemlich-gut-bezahlt-a-23d9f31e-362f-4fb5-b477-cd72ce3c0862#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-* [https://www.spiegel.de/panorama/schwerte-e-auto-prallt-gegen-baum-und-geht-in-flammen-auf-drei-tote](https://www.spiegel.de/panorama/schwerte-e-auto-prallt-gegen-baum-und-geht-in-flammen-auf-drei-tote-a-2e64f17c-e780-4a78-bce2-c007fc9d3ee6#ref=rss)
-* [https://www.spiegel.de/ausland/israel-festnahme-und-durchsuchungen-nach-anschlag-in-jerusalem](https://www.spiegel.de/ausland/israel-festnahme-und-durchsuchungen-nach-anschlag-in-jerusalem-a-fd67dc98-1695-4a99-8bdb-22711cd55d73#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-* [https://www.spiegel.de/karriere/karrierewechsel-mit-52-neu-orientieren-ratschlaege-vom-karrierecoach](https://www.spiegel.de/karriere/karrierewechsel-mit-52-neu-orientieren-ratschlaege-vom-karrierecoach-a-9b8d99a7-6ccd-4275-82c9-c50102f084a0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-festnahme-und-durchsuchungen-nach-anschlag-in-jerusalem](https://www.spiegel.de/ausland/israel-festnahme-und-durchsuchungen-nach-anschlag-in-jerusalem-a-fd67dc98-1695-4a99-8bdb-22711cd55d73#ref=rss)
-### françois
-
-* [https://www.spiegel.de/ausland/frankreich-premier-francois-bayrou-abgewaehlt-politische-krise-verschaerft-sich](https://www.spiegel.de/ausland/frankreich-premier-francois-bayrou-abgewaehlt-politische-krise-verschaerft-sich-a-314e7058-4b56-4837-8ec4-3c13c70bfc8b#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-premierminister-francois-bayrou-verliert-vertrauensabstimmung](https://www.spiegel.de/ausland/frankreich-premierminister-francois-bayrou-verliert-vertrauensabstimmung-a-e661d2bf-c4b3-48b0-b7e7-69fee8651ded#ref=rss)
-### bayrou
-
-* [https://www.spiegel.de/ausland/frankreich-premier-francois-bayrou-abgewaehlt-politische-krise-verschaerft-sich](https://www.spiegel.de/ausland/frankreich-premier-francois-bayrou-abgewaehlt-politische-krise-verschaerft-sich-a-314e7058-4b56-4837-8ec4-3c13c70bfc8b#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-premierminister-francois-bayrou-verliert-vertrauensabstimmung](https://www.spiegel.de/ausland/frankreich-premierminister-francois-bayrou-verliert-vertrauensabstimmung-a-e661d2bf-c4b3-48b0-b7e7-69fee8651ded#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/polen-praesident-karol-nawrocki-will-bei-deutschland-besuch-reparationen-fordern](https://www.spiegel.de/politik/polen-praesident-karol-nawrocki-will-bei-deutschland-besuch-reparationen-fordern-a-789800d1-40ad-4aeb-80ea-41b551f91bc3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-auf-dem-gillamoos-volksfest-lieber-leberwurst-als-darth-vader](https://www.spiegel.de/politik/deutschland/markus-soeder-auf-dem-gillamoos-volksfest-lieber-leberwurst-als-darth-vader-a-edd51c9b-33d6-44e3-aeeb-c648b32d4120#ref=rss)
-* [https://www.spiegel.de/auto/berlin-bvg-bekommt-milliardenteure-u-bahn-zuege-ohne-klimaanlage](https://www.spiegel.de/auto/berlin-bvg-bekommt-milliardenteure-u-bahn-zuege-ohne-klimaanlage-a-a2bacea5-6380-4399-8a32-ba86a9ae4656#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-us-gericht-bestaetigt-dass-us-praesident-83-millionen-dollar-schadensersatz-zahlen-muss](https://www.spiegel.de/ausland/donald-trump-us-gericht-bestaetigt-dass-us-praesident-83-millionen-dollar-schadensersatz-zahlen-muss-a-ec6b8c52-cb31-4e78-90d2-baf0b32d6312#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-zieht-wegen-kuerzung-von-auslandshilfe-vor-den-obersten-gerichtshof](https://www.spiegel.de/ausland/usa-donald-trump-zieht-wegen-kuerzung-von-auslandshilfe-vor-den-obersten-gerichtshof-a-d7e9a587-640b-4475-aed5-51d9be1f9e48#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-* [https://www.spiegel.de/ausland/fuenf-tote-bei-israelischem-luftangriff-gegen-hisbollah-im-libanon](https://www.spiegel.de/ausland/fuenf-tote-bei-israelischem-luftangriff-gegen-hisbollah-im-libanon-a-565e4c50-63d0-4adb-a36a-2e96f2524d04#ref=rss)
-### starben
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-* [https://www.spiegel.de/ausland/fuenf-tote-bei-israelischem-luftangriff-gegen-hisbollah-im-libanon](https://www.spiegel.de/ausland/fuenf-tote-bei-israelischem-luftangriff-gegen-hisbollah-im-libanon-a-565e4c50-63d0-4adb-a36a-2e96f2524d04#ref=rss)
-### sicherheit
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-* [https://www.spiegel.de/politik/polen-praesident-karol-nawrocki-will-bei-deutschland-besuch-reparationen-fordern](https://www.spiegel.de/politik/polen-praesident-karol-nawrocki-will-bei-deutschland-besuch-reparationen-fordern-a-789800d1-40ad-4aeb-80ea-41b551f91bc3#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/ausland/frankreich-premier-francois-bayrou-abgewaehlt-politische-krise-verschaerft-sich](https://www.spiegel.de/ausland/frankreich-premier-francois-bayrou-abgewaehlt-politische-krise-verschaerft-sich-a-314e7058-4b56-4837-8ec4-3c13c70bfc8b#ref=rss)
-* [https://www.spiegel.de/panorama/leute/queen-latifah-rapperin-war-von-menopause-schockiert](https://www.spiegel.de/panorama/leute/queen-latifah-rapperin-war-von-menopause-schockiert-a-16443e96-d092-4a7e-84cf-db46b18ab2dc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/klimaschutz-katharina-droege-beharrt-nun-doch-auf-verbrenner-aus-2035](https://www.spiegel.de/wirtschaft/klimaschutz-katharina-droege-beharrt-nun-doch-auf-verbrenner-aus-2035-a-4c39d69c-37a3-4072-9bf8-c576aae2f740#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/fuenf-tote-bei-israelischem-luftangriff-gegen-hisbollah-im-libanon](https://www.spiegel.de/ausland/fuenf-tote-bei-israelischem-luftangriff-gegen-hisbollah-im-libanon-a-565e4c50-63d0-4adb-a36a-2e96f2524d04#ref=rss)
-* [https://www.spiegel.de/panorama/schwerte-e-auto-prallt-gegen-baum-und-geht-in-flammen-auf-drei-tote](https://www.spiegel.de/panorama/schwerte-e-auto-prallt-gegen-baum-und-geht-in-flammen-auf-drei-tote-a-2e64f17c-e780-4a78-bce2-c007fc9d3ee6#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/nepal-mindestens-zehn-tote-bei-protesten-gegen-internetzensur](https://www.spiegel.de/netzwelt/netzpolitik/nepal-mindestens-zehn-tote-bei-protesten-gegen-internetzensur-a-d104da2d-95b4-4b72-9c08-9f738efb6f61#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/ausland/fuenf-tote-bei-israelischem-luftangriff-gegen-hisbollah-im-libanon](https://www.spiegel.de/ausland/fuenf-tote-bei-israelischem-luftangriff-gegen-hisbollah-im-libanon-a-565e4c50-63d0-4adb-a36a-2e96f2524d04#ref=rss)
-* [https://www.spiegel.de/ausland/israel-festnahme-und-durchsuchungen-nach-anschlag-in-jerusalem](https://www.spiegel.de/ausland/israel-festnahme-und-durchsuchungen-nach-anschlag-in-jerusalem-a-fd67dc98-1695-4a99-8bdb-22711cd55d73#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/nepal-mindestens-zehn-tote-bei-protesten-gegen-internetzensur](https://www.spiegel.de/netzwelt/netzpolitik/nepal-mindestens-zehn-tote-bei-protesten-gegen-internetzensur-a-d104da2d-95b4-4b72-9c08-9f738efb6f61#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/knds-ruestungskonzern-bereitet-sich-auf-boersengang-vor](https://www.spiegel.de/wirtschaft/unternehmen/knds-ruestungskonzern-bereitet-sich-auf-boersengang-vor-a-d9b726b6-fd71-4f67-9992-3ee01e307c4d#ref=rss)
-* [https://www.spiegel.de/auto/berlin-bvg-bekommt-milliardenteure-u-bahn-zuege-ohne-klimaanlage](https://www.spiegel.de/auto/berlin-bvg-bekommt-milliardenteure-u-bahn-zuege-ohne-klimaanlage-a-a2bacea5-6380-4399-8a32-ba86a9ae4656#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/donald-trump-us-gericht-bestaetigt-dass-us-praesident-83-millionen-dollar-schadensersatz-zahlen-muss](https://www.spiegel.de/ausland/donald-trump-us-gericht-bestaetigt-dass-us-praesident-83-millionen-dollar-schadensersatz-zahlen-muss-a-ec6b8c52-cb31-4e78-90d2-baf0b32d6312#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-zieht-wegen-kuerzung-von-auslandshilfe-vor-den-obersten-gerichtshof](https://www.spiegel.de/ausland/usa-donald-trump-zieht-wegen-kuerzung-von-auslandshilfe-vor-den-obersten-gerichtshof-a-d7e9a587-640b-4475-aed5-51d9be1f9e48#ref=rss)
-### garmisch
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### sicher
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### bahnfahren
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### zug
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### verunglückte
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### garmischpartenkirchen
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### internen
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### bericht
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### hätte
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### verhindert
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### aktuell
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### investiert
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### massiv
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### bringt
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-podcast-a-42bb6c71-e96d-486c-94c8-c8cb12d2d81f#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute](https://www.spiegel.de/panorama/deutsche-bahn-unglueck-von-garmisch-2022-wie-sicher-ist-bahnfahren-heute-a-3a5e59a8-4638-42e2-bcf2-f3bfbf0720ee#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogans-juristischer-putsch-gegen-die-opposition](https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogans-juristischer-putsch-gegen-die-opposition-a-82e56289-5833-4cdb-a5f4-b6c3f48e574e#ref=rss)
-* [https://www.spiegel.de/politik/polen-praesident-karol-nawrocki-will-bei-deutschland-besuch-reparationen-fordern](https://www.spiegel.de/politik/polen-praesident-karol-nawrocki-will-bei-deutschland-besuch-reparationen-fordern-a-789800d1-40ad-4aeb-80ea-41b551f91bc3#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogans-juristischer-putsch-gegen-die-opposition](https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogans-juristischer-putsch-gegen-die-opposition-a-82e56289-5833-4cdb-a5f4-b6c3f48e574e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-auf-dem-gillamoos-volksfest-lieber-leberwurst-als-darth-vader](https://www.spiegel.de/politik/deutschland/markus-soeder-auf-dem-gillamoos-volksfest-lieber-leberwurst-als-darth-vader-a-edd51c9b-33d6-44e3-aeeb-c648b32d4120#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-aktivistengruppe-berichtet-ueber-drohnenangriff-auf-gaza-hilfsflotte](https://www.spiegel.de/ausland/israel-gaza-krieg-aktivistengruppe-berichtet-ueber-drohnenangriff-auf-gaza-hilfsflotte-a-65cc46d3-4f77-4b3d-959c-5c071ebbad2c#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-israel-sprengt-30-hochhaeuser-und-will-die-stadt-gaza-komplett-evakuieren](https://www.spiegel.de/ausland/krieg-in-nahost-israel-sprengt-30-hochhaeuser-und-will-die-stadt-gaza-komplett-evakuieren-a-fe05d0ad-b12d-4086-a230-3cfa4d7de261#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogans-juristischer-putsch-gegen-die-opposition](https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogans-juristischer-putsch-gegen-die-opposition-a-82e56289-5833-4cdb-a5f4-b6c3f48e574e#ref=rss)
-* [https://www.spiegel.de/panorama/schwerte-e-auto-prallt-gegen-baum-und-geht-in-flammen-auf-drei-tote](https://www.spiegel.de/panorama/schwerte-e-auto-prallt-gegen-baum-und-geht-in-flammen-auf-drei-tote-a-2e64f17c-e780-4a78-bce2-c007fc9d3ee6#ref=rss)
-### premier
+* [https://www.spiegel.de/panorama/bildung/social-media-mehrheit-in-deutschland-will-mindestalter-auch-viele-jugendliche-dafuer](https://www.spiegel.de/panorama/bildung/social-media-mehrheit-in-deutschland-will-mindestalter-auch-viele-jugendliche-dafuer-a-901ee60a-dce5-42d3-8755-8bdeaf492d4e#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-armin-laschet-sieht-paris-vor-teufelskreis-und-wirtschaftskrise](https://www.spiegel.de/ausland/frankreich-armin-laschet-sieht-paris-vor-teufelskreis-und-wirtschaftskrise-a-f74917dd-f71c-4831-aae5-a5baa0bb19b1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-justizministerin-will-verbale-sexuelle-belaestigung-unter-strafe-stellen](https://www.spiegel.de/politik/deutschland/stefanie-hubig-justizministerin-will-verbale-sexuelle-belaestigung-unter-strafe-stellen-a-8921029b-6c1a-4ed3-ac6b-46c5eccdd9f3#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/ausland/frankreich-premier-francois-bayrou-abgewaehlt-politische-krise-verschaerft-sich](https://www.spiegel.de/ausland/frankreich-premier-francois-bayrou-abgewaehlt-politische-krise-verschaerft-sich-a-314e7058-4b56-4837-8ec4-3c13c70bfc8b#ref=rss)
-### politische
+* [https://www.spiegel.de/panorama/justiz/berlin-feuer-an-zwei-strommasten-zehntausende-menschen-in-berlin-ohne-strom](https://www.spiegel.de/panorama/justiz/berlin-feuer-an-zwei-strommasten-zehntausende-menschen-in-berlin-ohne-strom-a-4c919a60-05c9-497b-b6bd-48eaacc0332b#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/frankreich-premier-francois-bayrou-abgewaehlt-politische-krise-verschaerft-sich](https://www.spiegel.de/ausland/frankreich-premier-francois-bayrou-abgewaehlt-politische-krise-verschaerft-sich-a-314e7058-4b56-4837-8ec4-3c13c70bfc8b#ref=rss)
-### premierminister
+* [https://www.spiegel.de/panorama/justiz/berlin-feuer-an-zwei-strommasten-zehntausende-menschen-in-berlin-ohne-strom](https://www.spiegel.de/panorama/justiz/berlin-feuer-an-zwei-strommasten-zehntausende-menschen-in-berlin-ohne-strom-a-4c919a60-05c9-497b-b6bd-48eaacc0332b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/diabetes-fast-die-haelfte-aller-betroffenen-wissen-nicht-dass-sie-krank-sind](https://www.spiegel.de/wissenschaft/medizin/diabetes-fast-die-haelfte-aller-betroffenen-wissen-nicht-dass-sie-krank-sind-a-8ae2ffcf-edf9-452f-975d-5e13e1b9d8dd#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-israel-sprengt-30-hochhaeuser-und-will-die-stadt-gaza-komplett-evakuieren](https://www.spiegel.de/ausland/krieg-in-nahost-israel-sprengt-30-hochhaeuser-und-will-die-stadt-gaza-komplett-evakuieren-a-fe05d0ad-b12d-4086-a230-3cfa4d7de261#ref=rss)
+### leben
 
-* [https://www.spiegel.de/ausland/frankreich-premierminister-francois-bayrou-verliert-vertrauensabstimmung](https://www.spiegel.de/ausland/frankreich-premierminister-francois-bayrou-verliert-vertrauensabstimmung-a-e661d2bf-c4b3-48b0-b7e7-69fee8651ded#ref=rss)
-### bevor
+* [https://www.spiegel.de/kultur/literatur/dan-brown-beteuert-glauben-an-leben-nach-dem-tod](https://www.spiegel.de/kultur/literatur/dan-brown-beteuert-glauben-an-leben-nach-dem-tod-a-1b1d0fbc-56d9-4d87-a58e-ff0f33de6e4d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/diabetes-fast-die-haelfte-aller-betroffenen-wissen-nicht-dass-sie-krank-sind](https://www.spiegel.de/wissenschaft/medizin/diabetes-fast-die-haelfte-aller-betroffenen-wissen-nicht-dass-sie-krank-sind-a-8ae2ffcf-edf9-452f-975d-5e13e1b9d8dd#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-israel-sprengt-30-hochhaeuser-und-will-die-stadt-gaza-komplett-evakuieren](https://www.spiegel.de/ausland/krieg-in-nahost-israel-sprengt-30-hochhaeuser-und-will-die-stadt-gaza-komplett-evakuieren-a-fe05d0ad-b12d-4086-a230-3cfa4d7de261#ref=rss)
+### israel
 
-* [https://www.spiegel.de/ausland/frankreich-premierminister-francois-bayrou-verliert-vertrauensabstimmung](https://www.spiegel.de/ausland/frankreich-premierminister-francois-bayrou-verliert-vertrauensabstimmung-a-e661d2bf-c4b3-48b0-b7e7-69fee8651ded#ref=rss)
-* [https://www.spiegel.de/kultur/norman-foster-stararchitekt-verraet-sein-lieblingsbauwerk](https://www.spiegel.de/kultur/norman-foster-stararchitekt-verraet-sein-lieblingsbauwerk-a-822077a8-f332-439d-b2e2-f2b897d57b64#ref=rss)
-### karol
+* [https://www.spiegel.de/ausland/krieg-in-nahost-israel-sprengt-30-hochhaeuser-und-will-die-stadt-gaza-komplett-evakuieren](https://www.spiegel.de/ausland/krieg-in-nahost-israel-sprengt-30-hochhaeuser-und-will-die-stadt-gaza-komplett-evakuieren-a-fe05d0ad-b12d-4086-a230-3cfa4d7de261#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-italien-gewinnt-gegen-israel-in-einem-neun-tore-spektakel](https://www.spiegel.de/sport/fussball/wm-qualifikation-italien-gewinnt-gegen-israel-in-einem-neun-tore-spektakel-a-b037b212-224b-45d1-b3e0-d184a5d6b72d#ref=rss)
+### ayo
 
-* [https://www.spiegel.de/politik/polen-praesident-karol-nawrocki-will-bei-deutschland-besuch-reparationen-fordern](https://www.spiegel.de/politik/polen-praesident-karol-nawrocki-will-bei-deutschland-besuch-reparationen-fordern-a-789800d1-40ad-4aeb-80ea-41b551f91bc3#ref=rss)
-### nawrocki
+* [https://www.spiegel.de/kultur/ayo-edebiri-filmstar-wird-fuer-reaktion-auf-irritierende-interviewfrage-gefeiert](https://www.spiegel.de/kultur/ayo-edebiri-filmstar-wird-fuer-reaktion-auf-irritierende-interviewfrage-gefeiert-a-44067225-8aa8-4864-bbcb-22af35817785#ref=rss)
+### edebiri
 
-* [https://www.spiegel.de/politik/polen-praesident-karol-nawrocki-will-bei-deutschland-besuch-reparationen-fordern](https://www.spiegel.de/politik/polen-praesident-karol-nawrocki-will-bei-deutschland-besuch-reparationen-fordern-a-789800d1-40ad-4aeb-80ea-41b551f91bc3#ref=rss)
-### thema
+* [https://www.spiegel.de/kultur/ayo-edebiri-filmstar-wird-fuer-reaktion-auf-irritierende-interviewfrage-gefeiert](https://www.spiegel.de/kultur/ayo-edebiri-filmstar-wird-fuer-reaktion-auf-irritierende-interviewfrage-gefeiert-a-44067225-8aa8-4864-bbcb-22af35817785#ref=rss)
+### reaktion
 
-* [https://www.spiegel.de/politik/polen-praesident-karol-nawrocki-will-bei-deutschland-besuch-reparationen-fordern](https://www.spiegel.de/politik/polen-praesident-karol-nawrocki-will-bei-deutschland-besuch-reparationen-fordern-a-789800d1-40ad-4aeb-80ea-41b551f91bc3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-von-deutschen-diplomaten-opferbereitschaft](https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-von-deutschen-diplomaten-opferbereitschaft-a-6ea4fb35-280d-4b12-8e34-878a8c1a3a79#ref=rss)
-### libanon
+* [https://www.spiegel.de/kultur/ayo-edebiri-filmstar-wird-fuer-reaktion-auf-irritierende-interviewfrage-gefeiert](https://www.spiegel.de/kultur/ayo-edebiri-filmstar-wird-fuer-reaktion-auf-irritierende-interviewfrage-gefeiert-a-44067225-8aa8-4864-bbcb-22af35817785#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-offenbar-mehr-als-20-zivilisten-bei-russischem-angriff-in-donezk-getoetet](https://www.spiegel.de/ausland/ukraine-offenbar-mehr-als-20-zivilisten-bei-russischem-angriff-in-donezk-getoetet-a-bed815eb-c5d0-427d-b293-3358669ff66f#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/fuenf-tote-bei-israelischem-luftangriff-gegen-hisbollah-im-libanon](https://www.spiegel.de/ausland/fuenf-tote-bei-israelischem-luftangriff-gegen-hisbollah-im-libanon-a-565e4c50-63d0-4adb-a36a-2e96f2524d04#ref=rss)
-### israelische
+* [https://www.spiegel.de/ausland/ukraine-offenbar-mehr-als-20-zivilisten-bei-russischem-angriff-in-donezk-getoetet](https://www.spiegel.de/ausland/ukraine-offenbar-mehr-als-20-zivilisten-bei-russischem-angriff-in-donezk-getoetet-a-bed815eb-c5d0-427d-b293-3358669ff66f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-feuer-an-zwei-strommasten-zehntausende-menschen-in-berlin-ohne-strom](https://www.spiegel.de/panorama/justiz/berlin-feuer-an-zwei-strommasten-zehntausende-menschen-in-berlin-ohne-strom-a-4c919a60-05c9-497b-b6bd-48eaacc0332b#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/fuenf-tote-bei-israelischem-luftangriff-gegen-hisbollah-im-libanon](https://www.spiegel.de/ausland/fuenf-tote-bei-israelischem-luftangriff-gegen-hisbollah-im-libanon-a-565e4c50-63d0-4adb-a36a-2e96f2524d04#ref=rss)
-* [https://www.spiegel.de/kultur/kino/gazakrieg-filmschaffende-wollen-israelische-institutionen-boykottieren](https://www.spiegel.de/kultur/kino/gazakrieg-filmschaffende-wollen-israelische-institutionen-boykottieren-a-0aad7052-584e-4174-975c-b5bc160ddff9#ref=rss)
-### markus
+* [https://www.spiegel.de/ausland/ukraine-offenbar-mehr-als-20-zivilisten-bei-russischem-angriff-in-donezk-getoetet](https://www.spiegel.de/ausland/ukraine-offenbar-mehr-als-20-zivilisten-bei-russischem-angriff-in-donezk-getoetet-a-bed815eb-c5d0-427d-b293-3358669ff66f#ref=rss)
+### 20
 
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-auf-dem-gillamoos-volksfest-lieber-leberwurst-als-darth-vader](https://www.spiegel.de/politik/deutschland/markus-soeder-auf-dem-gillamoos-volksfest-lieber-leberwurst-als-darth-vader-a-edd51c9b-33d6-44e3-aeeb-c648b32d4120#ref=rss)
-### söder
+* [https://www.spiegel.de/ausland/ukraine-offenbar-mehr-als-20-zivilisten-bei-russischem-angriff-in-donezk-getoetet](https://www.spiegel.de/ausland/ukraine-offenbar-mehr-als-20-zivilisten-bei-russischem-angriff-in-donezk-getoetet-a-bed815eb-c5d0-427d-b293-3358669ff66f#ref=rss)
+### zivilisten
 
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-auf-dem-gillamoos-volksfest-lieber-leberwurst-als-darth-vader](https://www.spiegel.de/politik/deutschland/markus-soeder-auf-dem-gillamoos-volksfest-lieber-leberwurst-als-darth-vader-a-edd51c9b-33d6-44e3-aeeb-c648b32d4120#ref=rss)
-### gillamoosvolksfest
+* [https://www.spiegel.de/ausland/ukraine-offenbar-mehr-als-20-zivilisten-bei-russischem-angriff-in-donezk-getoetet](https://www.spiegel.de/ausland/ukraine-offenbar-mehr-als-20-zivilisten-bei-russischem-angriff-in-donezk-getoetet-a-bed815eb-c5d0-427d-b293-3358669ff66f#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-auf-dem-gillamoos-volksfest-lieber-leberwurst-als-darth-vader](https://www.spiegel.de/politik/deutschland/markus-soeder-auf-dem-gillamoos-volksfest-lieber-leberwurst-als-darth-vader-a-edd51c9b-33d6-44e3-aeeb-c648b32d4120#ref=rss)
-### basketballem
-
-* [https://www.spiegel.de/sport/basketball/basketball-em-deutsche-mannschaft-stellt-sich-hinter-trainer-alex-mumbru](https://www.spiegel.de/sport/basketball/basketball-em-deutsche-mannschaft-stellt-sich-hinter-trainer-alex-mumbru-a-8a667703-4db8-4ad4-9323-4b2fb5afa794#ref=rss)
-### mannschaft
-
-* [https://www.spiegel.de/sport/basketball/basketball-em-deutsche-mannschaft-stellt-sich-hinter-trainer-alex-mumbru](https://www.spiegel.de/sport/basketball/basketball-em-deutsche-mannschaft-stellt-sich-hinter-trainer-alex-mumbru-a-8a667703-4db8-4ad4-9323-4b2fb5afa794#ref=rss)
-### álex
-
-* [https://www.spiegel.de/sport/basketball/basketball-em-deutsche-mannschaft-stellt-sich-hinter-trainer-alex-mumbru](https://www.spiegel.de/sport/basketball/basketball-em-deutsche-mannschaft-stellt-sich-hinter-trainer-alex-mumbru-a-8a667703-4db8-4ad4-9323-4b2fb5afa794#ref=rss)
-### mumbrú
-
-* [https://www.spiegel.de/sport/basketball/basketball-em-deutsche-mannschaft-stellt-sich-hinter-trainer-alex-mumbru](https://www.spiegel.de/sport/basketball/basketball-em-deutsche-mannschaft-stellt-sich-hinter-trainer-alex-mumbru-a-8a667703-4db8-4ad4-9323-4b2fb5afa794#ref=rss)
-### frachter
-
-* [https://www.spiegel.de/panorama/justiz/hafen-kiel-spezialkraefte-durchsuchen-frachter-wegen-verdacht-auf-agententaetigkeit](https://www.spiegel.de/panorama/justiz/hafen-kiel-spezialkraefte-durchsuchen-frachter-wegen-verdacht-auf-agententaetigkeit-a-5bb24242-66b7-48de-af69-4fa8ac18f3ee#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-von-deutschen-diplomaten-opferbereitschaft](https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-von-deutschen-diplomaten-opferbereitschaft-a-6ea4fb35-280d-4b12-8e34-878a8c1a3a79#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-von-deutschen-diplomaten-opferbereitschaft](https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-von-deutschen-diplomaten-opferbereitschaft-a-6ea4fb35-280d-4b12-8e34-878a8c1a3a79#ref=rss)
-### knds
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/knds-ruestungskonzern-bereitet-sich-auf-boersengang-vor](https://www.spiegel.de/wirtschaft/unternehmen/knds-ruestungskonzern-bereitet-sich-auf-boersengang-vor-a-d9b726b6-fd71-4f67-9992-3ee01e307c4d#ref=rss)
-### sucht
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/knds-ruestungskonzern-bereitet-sich-auf-boersengang-vor](https://www.spiegel.de/wirtschaft/unternehmen/knds-ruestungskonzern-bereitet-sich-auf-boersengang-vor-a-d9b726b6-fd71-4f67-9992-3ee01e307c4d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-wirtschaftspolitik-pflegende-angehoerigen-deutsche-autoindustrie-setzt-auf-nostalgie](https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-wirtschaftspolitik-pflegende-angehoerigen-deutsche-autoindustrie-setzt-auf-nostalgie-a-cc60e8ef-cb63-477a-8eeb-2381c75018ad#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/ausland/donald-trump-us-gericht-bestaetigt-dass-us-praesident-83-millionen-dollar-schadensersatz-zahlen-muss](https://www.spiegel.de/ausland/donald-trump-us-gericht-bestaetigt-dass-us-praesident-83-millionen-dollar-schadensersatz-zahlen-muss-a-ec6b8c52-cb31-4e78-90d2-baf0b32d6312#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/ausland/donald-trump-us-gericht-bestaetigt-dass-us-praesident-83-millionen-dollar-schadensersatz-zahlen-muss](https://www.spiegel.de/ausland/donald-trump-us-gericht-bestaetigt-dass-us-praesident-83-millionen-dollar-schadensersatz-zahlen-muss-a-ec6b8c52-cb31-4e78-90d2-baf0b32d6312#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/ausland/donald-trump-us-gericht-bestaetigt-dass-us-praesident-83-millionen-dollar-schadensersatz-zahlen-muss](https://www.spiegel.de/ausland/donald-trump-us-gericht-bestaetigt-dass-us-praesident-83-millionen-dollar-schadensersatz-zahlen-muss-a-ec6b8c52-cb31-4e78-90d2-baf0b32d6312#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-zieht-wegen-kuerzung-von-auslandshilfe-vor-den-obersten-gerichtshof](https://www.spiegel.de/ausland/usa-donald-trump-zieht-wegen-kuerzung-von-auslandshilfe-vor-den-obersten-gerichtshof-a-d7e9a587-640b-4475-aed5-51d9be1f9e48#ref=rss)
-### kürzung
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-zieht-wegen-kuerzung-von-auslandshilfe-vor-den-obersten-gerichtshof](https://www.spiegel.de/ausland/usa-donald-trump-zieht-wegen-kuerzung-von-auslandshilfe-vor-den-obersten-gerichtshof-a-d7e9a587-640b-4475-aed5-51d9be1f9e48#ref=rss)
-### früher
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-zieht-wegen-kuerzung-von-auslandshilfe-vor-den-obersten-gerichtshof](https://www.spiegel.de/ausland/usa-donald-trump-zieht-wegen-kuerzung-von-auslandshilfe-vor-den-obersten-gerichtshof-a-d7e9a587-640b-4475-aed5-51d9be1f9e48#ref=rss)
-* [https://www.spiegel.de/wirtschaft/klimaschutz-katharina-droege-beharrt-nun-doch-auf-verbrenner-aus-2035](https://www.spiegel.de/wirtschaft/klimaschutz-katharina-droege-beharrt-nun-doch-auf-verbrenner-aus-2035-a-4c39d69c-37a3-4072-9bf8-c576aae2f740#ref=rss)
-### karrierecoach
-
-* [https://www.spiegel.de/karriere/karrierewechsel-mit-52-neu-orientieren-ratschlaege-vom-karrierecoach](https://www.spiegel.de/karriere/karrierewechsel-mit-52-neu-orientieren-ratschlaege-vom-karrierecoach-a-9b8d99a7-6ccd-4275-82c9-c50102f084a0#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/karriere/karrierewechsel-mit-52-neu-orientieren-ratschlaege-vom-karrierecoach](https://www.spiegel.de/karriere/karrierewechsel-mit-52-neu-orientieren-ratschlaege-vom-karrierecoach-a-9b8d99a7-6ccd-4275-82c9-c50102f084a0#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/nepal-mindestens-zehn-tote-bei-protesten-gegen-internetzensur](https://www.spiegel.de/netzwelt/netzpolitik/nepal-mindestens-zehn-tote-bei-protesten-gegen-internetzensur-a-d104da2d-95b4-4b72-9c08-9f738efb6f61#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-wirtschaftspolitik-pflegende-angehoerigen-deutsche-autoindustrie-setzt-auf-nostalgie](https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-wirtschaftspolitik-pflegende-angehoerigen-deutsche-autoindustrie-setzt-auf-nostalgie-a-cc60e8ef-cb63-477a-8eeb-2381c75018ad#ref=rss)
-### wirtschaftspolitik
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-wirtschaftspolitik-pflegende-angehoerigen-deutsche-autoindustrie-setzt-auf-nostalgie](https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-wirtschaftspolitik-pflegende-angehoerigen-deutsche-autoindustrie-setzt-auf-nostalgie-a-cc60e8ef-cb63-477a-8eeb-2381c75018ad#ref=rss)
-### autoindustrie
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-wirtschaftspolitik-pflegende-angehoerigen-deutsche-autoindustrie-setzt-auf-nostalgie](https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-wirtschaftspolitik-pflegende-angehoerigen-deutsche-autoindustrie-setzt-auf-nostalgie-a-cc60e8ef-cb63-477a-8eeb-2381c75018ad#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-wirtschaftspolitik-pflegende-angehoerigen-deutsche-autoindustrie-setzt-auf-nostalgie](https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-wirtschaftspolitik-pflegende-angehoerigen-deutsche-autoindustrie-setzt-auf-nostalgie-a-cc60e8ef-cb63-477a-8eeb-2381c75018ad#ref=rss)
-* [https://www.spiegel.de/kultur/musik/olaf-der-flipper-und-vincent-gross-tausende-briten-feiern-drinking-wine-feeling-fine-auf-festival](https://www.spiegel.de/kultur/musik/olaf-der-flipper-und-vincent-gross-tausende-briten-feiern-drinking-wine-feeling-fine-auf-festival-a-fec16361-f65f-4949-8892-f990717f7a5a#ref=rss)
-### queen
-
-* [https://www.spiegel.de/panorama/leute/queen-latifah-rapperin-war-von-menopause-schockiert](https://www.spiegel.de/panorama/leute/queen-latifah-rapperin-war-von-menopause-schockiert-a-16443e96-d092-4a7e-84cf-db46b18ab2dc#ref=rss)
-### latifah
-
-* [https://www.spiegel.de/panorama/leute/queen-latifah-rapperin-war-von-menopause-schockiert](https://www.spiegel.de/panorama/leute/queen-latifah-rapperin-war-von-menopause-schockiert-a-16443e96-d092-4a7e-84cf-db46b18ab2dc#ref=rss)
-### rapperin
-
-* [https://www.spiegel.de/panorama/leute/queen-latifah-rapperin-war-von-menopause-schockiert](https://www.spiegel.de/panorama/leute/queen-latifah-rapperin-war-von-menopause-schockiert-a-16443e96-d092-4a7e-84cf-db46b18ab2dc#ref=rss)
-### anders
-
-* [https://www.spiegel.de/panorama/leute/queen-latifah-rapperin-war-von-menopause-schockiert](https://www.spiegel.de/panorama/leute/queen-latifah-rapperin-war-von-menopause-schockiert-a-16443e96-d092-4a7e-84cf-db46b18ab2dc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/klimaschutz-katharina-droege-beharrt-nun-doch-auf-verbrenner-aus-2035](https://www.spiegel.de/wirtschaft/klimaschutz-katharina-droege-beharrt-nun-doch-auf-verbrenner-aus-2035-a-4c39d69c-37a3-4072-9bf8-c576aae2f740#ref=rss)
-### kulturen
-
-* [https://www.spiegel.de/kultur/kulturen-cambridge-professorin-nennt-den-westen-eine-illusion-und-plaediert-fuer-offene-grenzen](https://www.spiegel.de/kultur/kulturen-cambridge-professorin-nennt-den-westen-eine-illusion-und-plaediert-fuer-offene-grenzen-a-ee6edde7-792c-4cea-a6ee-bba24b92431b#ref=rss)
-### westen
-
-* [https://www.spiegel.de/kultur/kulturen-cambridge-professorin-nennt-den-westen-eine-illusion-und-plaediert-fuer-offene-grenzen](https://www.spiegel.de/kultur/kulturen-cambridge-professorin-nennt-den-westen-eine-illusion-und-plaediert-fuer-offene-grenzen-a-ee6edde7-792c-4cea-a6ee-bba24b92431b#ref=rss)
-### illusion
-
-* [https://www.spiegel.de/kultur/kulturen-cambridge-professorin-nennt-den-westen-eine-illusion-und-plaediert-fuer-offene-grenzen](https://www.spiegel.de/kultur/kulturen-cambridge-professorin-nennt-den-westen-eine-illusion-und-plaediert-fuer-offene-grenzen-a-ee6edde7-792c-4cea-a6ee-bba24b92431b#ref=rss)
-### plädiert
-
-* [https://www.spiegel.de/kultur/kulturen-cambridge-professorin-nennt-den-westen-eine-illusion-und-plaediert-fuer-offene-grenzen](https://www.spiegel.de/kultur/kulturen-cambridge-professorin-nennt-den-westen-eine-illusion-und-plaediert-fuer-offene-grenzen-a-ee6edde7-792c-4cea-a6ee-bba24b92431b#ref=rss)
-### offene
-
-* [https://www.spiegel.de/kultur/kulturen-cambridge-professorin-nennt-den-westen-eine-illusion-und-plaediert-fuer-offene-grenzen](https://www.spiegel.de/kultur/kulturen-cambridge-professorin-nennt-den-westen-eine-illusion-und-plaediert-fuer-offene-grenzen-a-ee6edde7-792c-4cea-a6ee-bba24b92431b#ref=rss)
-### grenzen
-
-* [https://www.spiegel.de/kultur/kulturen-cambridge-professorin-nennt-den-westen-eine-illusion-und-plaediert-fuer-offene-grenzen](https://www.spiegel.de/kultur/kulturen-cambridge-professorin-nennt-den-westen-eine-illusion-und-plaediert-fuer-offene-grenzen-a-ee6edde7-792c-4cea-a6ee-bba24b92431b#ref=rss)
-### prochlorococcus
-
-* [https://www.spiegel.de/wissenschaft/natur/prochlorococcus-winzigem-meeresbakterium-droht-extremer-schwund](https://www.spiegel.de/wissenschaft/natur/prochlorococcus-winzigem-meeresbakterium-droht-extremer-schwund-a-7bcfa88c-2a1e-44af-8079-d5a59549639d#ref=rss)
-### meeresbakterium
-
-* [https://www.spiegel.de/wissenschaft/natur/prochlorococcus-winzigem-meeresbakterium-droht-extremer-schwund](https://www.spiegel.de/wissenschaft/natur/prochlorococcus-winzigem-meeresbakterium-droht-extremer-schwund-a-7bcfa88c-2a1e-44af-8079-d5a59549639d#ref=rss)
-### droht
-
-* [https://www.spiegel.de/wissenschaft/natur/prochlorococcus-winzigem-meeresbakterium-droht-extremer-schwund](https://www.spiegel.de/wissenschaft/natur/prochlorococcus-winzigem-meeresbakterium-droht-extremer-schwund-a-7bcfa88c-2a1e-44af-8079-d5a59549639d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankreich-zwoelf-patienten-getoetet-angeklagter-arzt-weist-schuld-zurueck](https://www.spiegel.de/panorama/justiz/frankreich-zwoelf-patienten-getoetet-angeklagter-arzt-weist-schuld-zurueck-a-06e60a42-f696-4fe5-8c69-59ab902c9445#ref=rss)
-### gazakrieg
-
-* [https://www.spiegel.de/kultur/kino/gazakrieg-filmschaffende-wollen-israelische-institutionen-boykottieren](https://www.spiegel.de/kultur/kino/gazakrieg-filmschaffende-wollen-israelische-institutionen-boykottieren-a-0aad7052-584e-4174-975c-b5bc160ddff9#ref=rss)
-### norman
-
-* [https://www.spiegel.de/kultur/norman-foster-stararchitekt-verraet-sein-lieblingsbauwerk](https://www.spiegel.de/kultur/norman-foster-stararchitekt-verraet-sein-lieblingsbauwerk-a-822077a8-f332-439d-b2e2-f2b897d57b64#ref=rss)
-### foster
-
-* [https://www.spiegel.de/kultur/norman-foster-stararchitekt-verraet-sein-lieblingsbauwerk](https://www.spiegel.de/kultur/norman-foster-stararchitekt-verraet-sein-lieblingsbauwerk-a-822077a8-f332-439d-b2e2-f2b897d57b64#ref=rss)
-### dröge
-
-* [https://www.spiegel.de/wirtschaft/klimaschutz-katharina-droege-beharrt-nun-doch-auf-verbrenner-aus-2035](https://www.spiegel.de/wirtschaft/klimaschutz-katharina-droege-beharrt-nun-doch-auf-verbrenner-aus-2035-a-4c39d69c-37a3-4072-9bf8-c576aae2f740#ref=rss)
-### verbrenneraus
-
-* [https://www.spiegel.de/wirtschaft/klimaschutz-katharina-droege-beharrt-nun-doch-auf-verbrenner-aus-2035](https://www.spiegel.de/wirtschaft/klimaschutz-katharina-droege-beharrt-nun-doch-auf-verbrenner-aus-2035-a-4c39d69c-37a3-4072-9bf8-c576aae2f740#ref=rss)
-### 2035
-
-* [https://www.spiegel.de/wirtschaft/klimaschutz-katharina-droege-beharrt-nun-doch-auf-verbrenner-aus-2035](https://www.spiegel.de/wirtschaft/klimaschutz-katharina-droege-beharrt-nun-doch-auf-verbrenner-aus-2035-a-4c39d69c-37a3-4072-9bf8-c576aae2f740#ref=rss)
-### schwerte
-
-* [https://www.spiegel.de/panorama/schwerte-e-auto-prallt-gegen-baum-und-geht-in-flammen-auf-drei-tote](https://www.spiegel.de/panorama/schwerte-e-auto-prallt-gegen-baum-und-geht-in-flammen-auf-drei-tote-a-2e64f17c-e780-4a78-bce2-c007fc9d3ee6#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/schwerte-e-auto-prallt-gegen-baum-und-geht-in-flammen-auf-drei-tote](https://www.spiegel.de/panorama/schwerte-e-auto-prallt-gegen-baum-und-geht-in-flammen-auf-drei-tote-a-2e64f17c-e780-4a78-bce2-c007fc9d3ee6#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/kultur/musik/olaf-der-flipper-und-vincent-gross-tausende-briten-feiern-drinking-wine-feeling-fine-auf-festival](https://www.spiegel.de/kultur/musik/olaf-der-flipper-und-vincent-gross-tausende-briten-feiern-drinking-wine-feeling-fine-auf-festival-a-fec16361-f65f-4949-8892-f990717f7a5a#ref=rss)
-### flipper
-
-* [https://www.spiegel.de/kultur/musik/olaf-der-flipper-und-vincent-gross-tausende-briten-feiern-drinking-wine-feeling-fine-auf-festival](https://www.spiegel.de/kultur/musik/olaf-der-flipper-und-vincent-gross-tausende-briten-feiern-drinking-wine-feeling-fine-auf-festival-a-fec16361-f65f-4949-8892-f990717f7a5a#ref=rss)
-### vincent
-
-* [https://www.spiegel.de/kultur/musik/olaf-der-flipper-und-vincent-gross-tausende-briten-feiern-drinking-wine-feeling-fine-auf-festival](https://www.spiegel.de/kultur/musik/olaf-der-flipper-und-vincent-gross-tausende-briten-feiern-drinking-wine-feeling-fine-auf-festival-a-fec16361-f65f-4949-8892-f990717f7a5a#ref=rss)
-### gross
-
-* [https://www.spiegel.de/kultur/musik/olaf-der-flipper-und-vincent-gross-tausende-briten-feiern-drinking-wine-feeling-fine-auf-festival](https://www.spiegel.de/kultur/musik/olaf-der-flipper-und-vincent-gross-tausende-briten-feiern-drinking-wine-feeling-fine-auf-festival-a-fec16361-f65f-4949-8892-f990717f7a5a#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/kultur/musik/olaf-der-flipper-und-vincent-gross-tausende-briten-feiern-drinking-wine-feeling-fine-auf-festival](https://www.spiegel.de/kultur/musik/olaf-der-flipper-und-vincent-gross-tausende-briten-feiern-drinking-wine-feeling-fine-auf-festival-a-fec16361-f65f-4949-8892-f990717f7a5a#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/nepal-mindestens-zehn-tote-bei-protesten-gegen-internetzensur](https://www.spiegel.de/netzwelt/netzpolitik/nepal-mindestens-zehn-tote-bei-protesten-gegen-internetzensur-a-d104da2d-95b4-4b72-9c08-9f738efb6f61#ref=rss)
-### kam
-
-* [https://www.spiegel.de/kultur/musik/olaf-der-flipper-und-vincent-gross-tausende-briten-feiern-drinking-wine-feeling-fine-auf-festival](https://www.spiegel.de/kultur/musik/olaf-der-flipper-und-vincent-gross-tausende-briten-feiern-drinking-wine-feeling-fine-auf-festival-a-fec16361-f65f-4949-8892-f990717f7a5a#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/nepal-mindestens-zehn-tote-bei-protesten-gegen-internetzensur](https://www.spiegel.de/netzwelt/netzpolitik/nepal-mindestens-zehn-tote-bei-protesten-gegen-internetzensur-a-d104da2d-95b4-4b72-9c08-9f738efb6f61#ref=rss)
-### französischen
-
-* [https://www.spiegel.de/panorama/frankreich-felssturz-in-der-franzoesischen-alpengemeinde-sixt-fer-a-cheval](https://www.spiegel.de/panorama/frankreich-felssturz-in-der-franzoesischen-alpengemeinde-sixt-fer-a-cheval-a-0da39835-b211-409e-9dfa-d3a152977d56#ref=rss)
-### jerusalem
-
-* [https://www.spiegel.de/ausland/israel-festnahme-und-durchsuchungen-nach-anschlag-in-jerusalem](https://www.spiegel.de/ausland/israel-festnahme-und-durchsuchungen-nach-anschlag-in-jerusalem-a-fd67dc98-1695-4a99-8bdb-22711cd55d73#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-offenbar-mehr-als-20-zivilisten-bei-russischem-angriff-in-donezk-getoetet](https://www.spiegel.de/ausland/ukraine-offenbar-mehr-als-20-zivilisten-bei-russischem-angriff-in-donezk-getoetet-a-bed815eb-c5d0-427d-b293-3358669ff66f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-aktivistengruppe-berichtet-ueber-drohnenangriff-auf-gaza-hilfsflotte](https://www.spiegel.de/ausland/israel-gaza-krieg-aktivistengruppe-berichtet-ueber-drohnenangriff-auf-gaza-hilfsflotte-a-65cc46d3-4f77-4b3d-959c-5c071ebbad2c#ref=rss)
 ### getötet
 
-* [https://www.spiegel.de/ausland/israel-festnahme-und-durchsuchungen-nach-anschlag-in-jerusalem](https://www.spiegel.de/ausland/israel-festnahme-und-durchsuchungen-nach-anschlag-in-jerusalem-a-fd67dc98-1695-4a99-8bdb-22711cd55d73#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankreich-zwoelf-patienten-getoetet-angeklagter-arzt-weist-schuld-zurueck](https://www.spiegel.de/panorama/justiz/frankreich-zwoelf-patienten-getoetet-angeklagter-arzt-weist-schuld-zurueck-a-06e60a42-f696-4fe5-8c69-59ab902c9445#ref=rss)
-### klimaanlage
+* [https://www.spiegel.de/ausland/ukraine-offenbar-mehr-als-20-zivilisten-bei-russischem-angriff-in-donezk-getoetet](https://www.spiegel.de/ausland/ukraine-offenbar-mehr-als-20-zivilisten-bei-russischem-angriff-in-donezk-getoetet-a-bed815eb-c5d0-427d-b293-3358669ff66f#ref=rss)
+### laut
 
-* [https://www.spiegel.de/auto/berlin-bvg-bekommt-milliardenteure-u-bahn-zuege-ohne-klimaanlage](https://www.spiegel.de/auto/berlin-bvg-bekommt-milliardenteure-u-bahn-zuege-ohne-klimaanlage-a-a2bacea5-6380-4399-8a32-ba86a9ae4656#ref=rss)
-### patienten
+* [https://www.spiegel.de/ausland/ukraine-offenbar-mehr-als-20-zivilisten-bei-russischem-angriff-in-donezk-getoetet](https://www.spiegel.de/ausland/ukraine-offenbar-mehr-als-20-zivilisten-bei-russischem-angriff-in-donezk-getoetet-a-bed815eb-c5d0-427d-b293-3358669ff66f#ref=rss)
+* [https://www.spiegel.de/ausland/italien-giorgia-meloni-steht-wegen-new-york-trips-mit-tochter-in-kritik](https://www.spiegel.de/ausland/italien-giorgia-meloni-steht-wegen-new-york-trips-mit-tochter-in-kritik-a-868ede1d-2e97-4402-bff1-0af5098f35c3#ref=rss)
+### italien
 
-* [https://www.spiegel.de/panorama/justiz/frankreich-zwoelf-patienten-getoetet-angeklagter-arzt-weist-schuld-zurueck](https://www.spiegel.de/panorama/justiz/frankreich-zwoelf-patienten-getoetet-angeklagter-arzt-weist-schuld-zurueck-a-06e60a42-f696-4fe5-8c69-59ab902c9445#ref=rss)
-### michael
+* [https://www.spiegel.de/ausland/italien-giorgia-meloni-steht-wegen-new-york-trips-mit-tochter-in-kritik](https://www.spiegel.de/ausland/italien-giorgia-meloni-steht-wegen-new-york-trips-mit-tochter-in-kritik-a-868ede1d-2e97-4402-bff1-0af5098f35c3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-italien-gewinnt-gegen-israel-in-einem-neun-tore-spektakel](https://www.spiegel.de/sport/fussball/wm-qualifikation-italien-gewinnt-gegen-israel-in-einem-neun-tore-spektakel-a-b037b212-224b-45d1-b3e0-d184a5d6b72d#ref=rss)
+### giorgia
 
-* [https://www.spiegel.de/sport/fussball/owen-oder-rooney-wer-war-der-groessere-wunderknabe](https://www.spiegel.de/sport/fussball/owen-oder-rooney-wer-war-der-groessere-wunderknabe-a-a25b6d13-7194-431e-91e7-2625121288f0#ref=rss)
-### owen
+* [https://www.spiegel.de/ausland/italien-giorgia-meloni-steht-wegen-new-york-trips-mit-tochter-in-kritik](https://www.spiegel.de/ausland/italien-giorgia-meloni-steht-wegen-new-york-trips-mit-tochter-in-kritik-a-868ede1d-2e97-4402-bff1-0af5098f35c3#ref=rss)
+### meloni
 
-* [https://www.spiegel.de/sport/fussball/owen-oder-rooney-wer-war-der-groessere-wunderknabe](https://www.spiegel.de/sport/fussball/owen-oder-rooney-wer-war-der-groessere-wunderknabe-a-a25b6d13-7194-431e-91e7-2625121288f0#ref=rss)
-### wayne
+* [https://www.spiegel.de/ausland/italien-giorgia-meloni-steht-wegen-new-york-trips-mit-tochter-in-kritik](https://www.spiegel.de/ausland/italien-giorgia-meloni-steht-wegen-new-york-trips-mit-tochter-in-kritik-a-868ede1d-2e97-4402-bff1-0af5098f35c3#ref=rss)
+### tochter
 
-* [https://www.spiegel.de/sport/fussball/owen-oder-rooney-wer-war-der-groessere-wunderknabe](https://www.spiegel.de/sport/fussball/owen-oder-rooney-wer-war-der-groessere-wunderknabe-a-a25b6d13-7194-431e-91e7-2625121288f0#ref=rss)
-### rooney
+* [https://www.spiegel.de/ausland/italien-giorgia-meloni-steht-wegen-new-york-trips-mit-tochter-in-kritik](https://www.spiegel.de/ausland/italien-giorgia-meloni-steht-wegen-new-york-trips-mit-tochter-in-kritik-a-868ede1d-2e97-4402-bff1-0af5098f35c3#ref=rss)
+### sport
 
-* [https://www.spiegel.de/sport/fussball/owen-oder-rooney-wer-war-der-groessere-wunderknabe](https://www.spiegel.de/sport/fussball/owen-oder-rooney-wer-war-der-groessere-wunderknabe-a-a25b6d13-7194-431e-91e7-2625121288f0#ref=rss)
-### england
+* [https://www.spiegel.de/sport/leichtathletik/missbrauchsvorwuerfe-im-sport-leichtathletinnen-berichten-von-sexuell-uebergriffigen-trainern](https://www.spiegel.de/sport/leichtathletik/missbrauchsvorwuerfe-im-sport-leichtathletinnen-berichten-von-sexuell-uebergriffigen-trainern-a-21099e3e-ba33-4a59-b829-3da19cfc6ddd#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-lebron-james-veroeffentlicht-artikel-in-chinesischer-staatszeitung](https://www.spiegel.de/sport/basketball/basketball-lebron-james-veroeffentlicht-artikel-in-chinesischer-staatszeitung-a-1159e341-ac29-413c-96ac-4d5fd0252e22#ref=rss)
+### sexuell
 
-* [https://www.spiegel.de/sport/fussball/owen-oder-rooney-wer-war-der-groessere-wunderknabe](https://www.spiegel.de/sport/fussball/owen-oder-rooney-wer-war-der-groessere-wunderknabe-a-a25b6d13-7194-431e-91e7-2625121288f0#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/missbrauchsvorwuerfe-im-sport-leichtathletinnen-berichten-von-sexuell-uebergriffigen-trainern](https://www.spiegel.de/sport/leichtathletik/missbrauchsvorwuerfe-im-sport-leichtathletinnen-berichten-von-sexuell-uebergriffigen-trainern-a-21099e3e-ba33-4a59-b829-3da19cfc6ddd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-justizministerin-will-verbale-sexuelle-belaestigung-unter-strafe-stellen](https://www.spiegel.de/politik/deutschland/stefanie-hubig-justizministerin-will-verbale-sexuelle-belaestigung-unter-strafe-stellen-a-8921029b-6c1a-4ed3-ac6b-46c5eccdd9f3#ref=rss)
+### kindern
+
+* [https://www.spiegel.de/panorama/justiz/neuseeland-hier-versteckte-sich-der-untergetauchte-vater-mit-seinen-kindern](https://www.spiegel.de/panorama/justiz/neuseeland-hier-versteckte-sich-der-untergetauchte-vater-mit-seinen-kindern-a-07a1c06d-cca9-46a9-8d45-c3696a37c2ee#ref=rss)
+### behörden
+
+* [https://www.spiegel.de/panorama/justiz/neuseeland-hier-versteckte-sich-der-untergetauchte-vater-mit-seinen-kindern](https://www.spiegel.de/panorama/justiz/neuseeland-hier-versteckte-sich-der-untergetauchte-vater-mit-seinen-kindern-a-07a1c06d-cca9-46a9-8d45-c3696a37c2ee#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-aktivistengruppe-berichtet-ueber-drohnenangriff-auf-gaza-hilfsflotte](https://www.spiegel.de/ausland/israel-gaza-krieg-aktivistengruppe-berichtet-ueber-drohnenangriff-auf-gaza-hilfsflotte-a-65cc46d3-4f77-4b3d-959c-5c071ebbad2c#ref=rss)
+### tod
+
+* [https://www.spiegel.de/panorama/justiz/neuseeland-hier-versteckte-sich-der-untergetauchte-vater-mit-seinen-kindern](https://www.spiegel.de/panorama/justiz/neuseeland-hier-versteckte-sich-der-untergetauchte-vater-mit-seinen-kindern-a-07a1c06d-cca9-46a9-8d45-c3696a37c2ee#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/dan-brown-beteuert-glauben-an-leben-nach-dem-tod](https://www.spiegel.de/kultur/literatur/dan-brown-beteuert-glauben-an-leben-nach-dem-tod-a-1b1d0fbc-56d9-4d87-a58e-ff0f33de6e4d#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/justiz/neuseeland-hier-versteckte-sich-der-untergetauchte-vater-mit-seinen-kindern](https://www.spiegel.de/panorama/justiz/neuseeland-hier-versteckte-sich-der-untergetauchte-vater-mit-seinen-kindern-a-07a1c06d-cca9-46a9-8d45-c3696a37c2ee#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/armut-wie-sehr-die-chance-auf-einen-kitaplatz-vom-geldbeutel-der-eltern-abhaengt](https://www.spiegel.de/panorama/bildung/armut-wie-sehr-die-chance-auf-einen-kitaplatz-vom-geldbeutel-der-eltern-abhaengt-a-bf96f387-c8fb-4aa6-b1cb-d68a871a07d5#ref=rss)
+### ziemlich
+
+* [https://www.spiegel.de/panorama/bildung/armut-wie-sehr-die-chance-auf-einen-kitaplatz-vom-geldbeutel-der-eltern-abhaengt](https://www.spiegel.de/panorama/bildung/armut-wie-sehr-die-chance-auf-einen-kitaplatz-vom-geldbeutel-der-eltern-abhaengt-a-bf96f387-c8fb-4aa6-b1cb-d68a871a07d5#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/lehrergehaelter-im-internationalen-vergleich-ziemlich-gut-bezahlt](https://www.spiegel.de/panorama/bildung/lehrergehaelter-im-internationalen-vergleich-ziemlich-gut-bezahlt-a-23d9f31e-362f-4fb5-b477-cd72ce3c0862#ref=rss)
+### abhimanyu
+
+* [https://www.spiegel.de/sport/schach/schach-16-jaehriger-abhimanyu-mishra-besiegt-weltmeister-dommaraju-gukesh-rekord](https://www.spiegel.de/sport/schach/schach-16-jaehriger-abhimanyu-mishra-besiegt-weltmeister-dommaraju-gukesh-rekord-a-9fd08244-10d6-48e7-8fc6-65bdf0880ce6#ref=rss)
+### mishra
+
+* [https://www.spiegel.de/sport/schach/schach-16-jaehriger-abhimanyu-mishra-besiegt-weltmeister-dommaraju-gukesh-rekord](https://www.spiegel.de/sport/schach/schach-16-jaehriger-abhimanyu-mishra-besiegt-weltmeister-dommaraju-gukesh-rekord-a-9fd08244-10d6-48e7-8fc6-65bdf0880ce6#ref=rss)
+### weltmeister
+
+* [https://www.spiegel.de/sport/schach/schach-16-jaehriger-abhimanyu-mishra-besiegt-weltmeister-dommaraju-gukesh-rekord](https://www.spiegel.de/sport/schach/schach-16-jaehriger-abhimanyu-mishra-besiegt-weltmeister-dommaraju-gukesh-rekord-a-9fd08244-10d6-48e7-8fc6-65bdf0880ce6#ref=rss)
+### gesetzentwurf
+
+* [https://www.spiegel.de/wirtschaft/rechnungshof-zerpflueckt-gesetzentwurf-der-bundesregierung](https://www.spiegel.de/wirtschaft/rechnungshof-zerpflueckt-gesetzentwurf-der-bundesregierung-a-34897ad6-8a79-47e7-b4c6-92483ff8c7ce#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/wirtschaft/rechnungshof-zerpflueckt-gesetzentwurf-der-bundesregierung](https://www.spiegel.de/wirtschaft/rechnungshof-zerpflueckt-gesetzentwurf-der-bundesregierung-a-34897ad6-8a79-47e7-b4c6-92483ff8c7ce#ref=rss)
+### länder
+
+* [https://www.spiegel.de/wirtschaft/rechnungshof-zerpflueckt-gesetzentwurf-der-bundesregierung](https://www.spiegel.de/wirtschaft/rechnungshof-zerpflueckt-gesetzentwurf-der-bundesregierung-a-34897ad6-8a79-47e7-b4c6-92483ff8c7ce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-justizministerin-will-verbale-sexuelle-belaestigung-unter-strafe-stellen](https://www.spiegel.de/politik/deutschland/stefanie-hubig-justizministerin-will-verbale-sexuelle-belaestigung-unter-strafe-stellen-a-8921029b-6c1a-4ed3-ac6b-46c5eccdd9f3#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/wirtschaft/rechnungshof-zerpflueckt-gesetzentwurf-der-bundesregierung](https://www.spiegel.de/wirtschaft/rechnungshof-zerpflueckt-gesetzentwurf-der-bundesregierung-a-34897ad6-8a79-47e7-b4c6-92483ff8c7ce#ref=rss)
+* [https://www.spiegel.de/kultur/banksy-kritisiert-mit-neuem-kunstwerk-umgang-mit-palaestina-protesten-in-london](https://www.spiegel.de/kultur/banksy-kritisiert-mit-neuem-kunstwerk-umgang-mit-palaestina-protesten-in-london-a-57bd1a34-36e7-4f9f-929d-34139dd411c1#ref=rss)
+### nepal
+
+* [https://www.spiegel.de/ausland/nepal-premierminister-erklaert-seinen-ruecktritt](https://www.spiegel.de/ausland/nepal-premierminister-erklaert-seinen-ruecktritt-a-44e20fcb-248c-4b5a-bcd7-a0efd87ffff9#ref=rss)
+### premierminister
+
+* [https://www.spiegel.de/ausland/nepal-premierminister-erklaert-seinen-ruecktritt](https://www.spiegel.de/ausland/nepal-premierminister-erklaert-seinen-ruecktritt-a-44e20fcb-248c-4b5a-bcd7-a0efd87ffff9#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/ausland/nepal-premierminister-erklaert-seinen-ruecktritt](https://www.spiegel.de/ausland/nepal-premierminister-erklaert-seinen-ruecktritt-a-44e20fcb-248c-4b5a-bcd7-a0efd87ffff9#ref=rss)
+* [https://www.spiegel.de/ausland/soziologe-gerald-bronner-emmanuel-macron-traegt-eine-grosse-verantwortung-fuer-das-was-wir-gerade-erleben](https://www.spiegel.de/ausland/soziologe-gerald-bronner-emmanuel-macron-traegt-eine-grosse-verantwortung-fuer-das-was-wir-gerade-erleben-a-8528d15f-c4fa-4902-8c3e-9d03d19f4858#ref=rss)
+### verbot
+
+* [https://www.spiegel.de/ausland/nepal-premierminister-erklaert-seinen-ruecktritt](https://www.spiegel.de/ausland/nepal-premierminister-erklaert-seinen-ruecktritt-a-44e20fcb-248c-4b5a-bcd7-a0efd87ffff9#ref=rss)
+* [https://www.spiegel.de/kultur/banksy-kritisiert-mit-neuem-kunstwerk-umgang-mit-palaestina-protesten-in-london](https://www.spiegel.de/kultur/banksy-kritisiert-mit-neuem-kunstwerk-umgang-mit-palaestina-protesten-in-london-a-57bd1a34-36e7-4f9f-929d-34139dd411c1#ref=rss)
+### medien
+
+* [https://www.spiegel.de/ausland/nepal-premierminister-erklaert-seinen-ruecktritt](https://www.spiegel.de/ausland/nepal-premierminister-erklaert-seinen-ruecktritt-a-44e20fcb-248c-4b5a-bcd7-a0efd87ffff9#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/social-media-mehrheit-in-deutschland-will-mindestalter-auch-viele-jugendliche-dafuer](https://www.spiegel.de/panorama/bildung/social-media-mehrheit-in-deutschland-will-mindestalter-auch-viele-jugendliche-dafuer-a-901ee60a-dce5-42d3-8755-8bdeaf492d4e#ref=rss)
+### unterwasserbarrieren
+
+* [https://www.spiegel.de/wissenschaft/technik/geoengineering-unterwasser-barrieren-und-partikel-koennten-polareis-nicht-retten](https://www.spiegel.de/wissenschaft/technik/geoengineering-unterwasser-barrieren-und-partikel-koennten-polareis-nicht-retten-a-d8dad890-6179-484b-9e08-20fadcd8fc96#ref=rss)
+### verlassen
+
+* [https://www.spiegel.de/wissenschaft/technik/geoengineering-unterwasser-barrieren-und-partikel-koennten-polareis-nicht-retten](https://www.spiegel.de/wissenschaft/technik/geoengineering-unterwasser-barrieren-und-partikel-koennten-polareis-nicht-retten-a-d8dad890-6179-484b-9e08-20fadcd8fc96#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-israel-sprengt-30-hochhaeuser-und-will-die-stadt-gaza-komplett-evakuieren](https://www.spiegel.de/ausland/krieg-in-nahost-israel-sprengt-30-hochhaeuser-und-will-die-stadt-gaza-komplett-evakuieren-a-fe05d0ad-b12d-4086-a230-3cfa4d7de261#ref=rss)
+### internationalen
+
+* [https://www.spiegel.de/panorama/bildung/lehrergehaelter-im-internationalen-vergleich-ziemlich-gut-bezahlt](https://www.spiegel.de/panorama/bildung/lehrergehaelter-im-internationalen-vergleich-ziemlich-gut-bezahlt-a-23d9f31e-362f-4fb5-b477-cd72ce3c0862#ref=rss)
+### vergleich
+
+* [https://www.spiegel.de/panorama/bildung/lehrergehaelter-im-internationalen-vergleich-ziemlich-gut-bezahlt](https://www.spiegel.de/panorama/bildung/lehrergehaelter-im-internationalen-vergleich-ziemlich-gut-bezahlt-a-23d9f31e-362f-4fb5-b477-cd72ce3c0862#ref=rss)
+### gut
+
+* [https://www.spiegel.de/panorama/bildung/lehrergehaelter-im-internationalen-vergleich-ziemlich-gut-bezahlt](https://www.spiegel.de/panorama/bildung/lehrergehaelter-im-internationalen-vergleich-ziemlich-gut-bezahlt-a-23d9f31e-362f-4fb5-b477-cd72ce3c0862#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/social-media-mehrheit-in-deutschland-will-mindestalter-auch-viele-jugendliche-dafuer](https://www.spiegel.de/panorama/bildung/social-media-mehrheit-in-deutschland-will-mindestalter-auch-viele-jugendliche-dafuer-a-901ee60a-dce5-42d3-8755-8bdeaf492d4e#ref=rss)
+### zehntausende
+
+* [https://www.spiegel.de/panorama/bildung/lehrergehaelter-im-internationalen-vergleich-ziemlich-gut-bezahlt](https://www.spiegel.de/panorama/bildung/lehrergehaelter-im-internationalen-vergleich-ziemlich-gut-bezahlt-a-23d9f31e-362f-4fb5-b477-cd72ce3c0862#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-feuer-an-zwei-strommasten-zehntausende-menschen-in-berlin-ohne-strom](https://www.spiegel.de/panorama/justiz/berlin-feuer-an-zwei-strommasten-zehntausende-menschen-in-berlin-ohne-strom-a-4c919a60-05c9-497b-b6bd-48eaacc0332b#ref=rss)
+### banksy
+
+* [https://www.spiegel.de/kultur/banksy-kritisiert-mit-neuem-kunstwerk-umgang-mit-palaestina-protesten-in-london](https://www.spiegel.de/kultur/banksy-kritisiert-mit-neuem-kunstwerk-umgang-mit-palaestina-protesten-in-london-a-57bd1a34-36e7-4f9f-929d-34139dd411c1#ref=rss)
+### attackiert
+
+* [https://www.spiegel.de/kultur/banksy-kritisiert-mit-neuem-kunstwerk-umgang-mit-palaestina-protesten-in-london](https://www.spiegel.de/kultur/banksy-kritisiert-mit-neuem-kunstwerk-umgang-mit-palaestina-protesten-in-london-a-57bd1a34-36e7-4f9f-929d-34139dd411c1#ref=rss)
+* [https://www.spiegel.de/geschichte/25-jahre-nsu-morde-als-das-komplettversagen-der-ermittler-seinen-anfang-nahm](https://www.spiegel.de/geschichte/25-jahre-nsu-morde-als-das-komplettversagen-der-ermittler-seinen-anfang-nahm-a-692b7007-298d-47a9-b3b9-442b8f44e845#ref=rss)
+### aktivistengruppe
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-aktivistengruppe-berichtet-ueber-drohnenangriff-auf-gaza-hilfsflotte](https://www.spiegel.de/ausland/israel-gaza-krieg-aktivistengruppe-berichtet-ueber-drohnenangriff-auf-gaza-hilfsflotte-a-65cc46d3-4f77-4b3d-959c-5c071ebbad2c#ref=rss)
+### mehrheit
+
+* [https://www.spiegel.de/panorama/bildung/social-media-mehrheit-in-deutschland-will-mindestalter-auch-viele-jugendliche-dafuer](https://www.spiegel.de/panorama/bildung/social-media-mehrheit-in-deutschland-will-mindestalter-auch-viele-jugendliche-dafuer-a-901ee60a-dce5-42d3-8755-8bdeaf492d4e#ref=rss)
+### viele
+
+* [https://www.spiegel.de/panorama/bildung/social-media-mehrheit-in-deutschland-will-mindestalter-auch-viele-jugendliche-dafuer](https://www.spiegel.de/panorama/bildung/social-media-mehrheit-in-deutschland-will-mindestalter-auch-viele-jugendliche-dafuer-a-901ee60a-dce5-42d3-8755-8bdeaf492d4e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/diabetes-fast-die-haelfte-aller-betroffenen-wissen-nicht-dass-sie-krank-sind](https://www.spiegel.de/wissenschaft/medizin/diabetes-fast-die-haelfte-aller-betroffenen-wissen-nicht-dass-sie-krank-sind-a-8ae2ffcf-edf9-452f-975d-5e13e1b9d8dd#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/panorama/bildung/social-media-mehrheit-in-deutschland-will-mindestalter-auch-viele-jugendliche-dafuer](https://www.spiegel.de/panorama/bildung/social-media-mehrheit-in-deutschland-will-mindestalter-auch-viele-jugendliche-dafuer-a-901ee60a-dce5-42d3-8755-8bdeaf492d4e#ref=rss)
+* [https://www.spiegel.de/ausland/soziologe-gerald-bronner-emmanuel-macron-traegt-eine-grosse-verantwortung-fuer-das-was-wir-gerade-erleben](https://www.spiegel.de/ausland/soziologe-gerald-bronner-emmanuel-macron-traegt-eine-grosse-verantwortung-fuer-das-was-wir-gerade-erleben-a-8528d15f-c4fa-4902-8c3e-9d03d19f4858#ref=rss)
+### feuer
+
+* [https://www.spiegel.de/panorama/justiz/berlin-feuer-an-zwei-strommasten-zehntausende-menschen-in-berlin-ohne-strom](https://www.spiegel.de/panorama/justiz/berlin-feuer-an-zwei-strommasten-zehntausende-menschen-in-berlin-ohne-strom-a-4c919a60-05c9-497b-b6bd-48eaacc0332b#ref=rss)
+### strommasten
+
+* [https://www.spiegel.de/panorama/justiz/berlin-feuer-an-zwei-strommasten-zehntausende-menschen-in-berlin-ohne-strom](https://www.spiegel.de/panorama/justiz/berlin-feuer-an-zwei-strommasten-zehntausende-menschen-in-berlin-ohne-strom-a-4c919a60-05c9-497b-b6bd-48eaacc0332b#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/panorama/justiz/berlin-feuer-an-zwei-strommasten-zehntausende-menschen-in-berlin-ohne-strom](https://www.spiegel.de/panorama/justiz/berlin-feuer-an-zwei-strommasten-zehntausende-menschen-in-berlin-ohne-strom-a-4c919a60-05c9-497b-b6bd-48eaacc0332b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/diabetes-fast-die-haelfte-aller-betroffenen-wissen-nicht-dass-sie-krank-sind](https://www.spiegel.de/wissenschaft/medizin/diabetes-fast-die-haelfte-aller-betroffenen-wissen-nicht-dass-sie-krank-sind-a-8ae2ffcf-edf9-452f-975d-5e13e1b9d8dd#ref=rss)
+### dan
+
+* [https://www.spiegel.de/kultur/literatur/dan-brown-beteuert-glauben-an-leben-nach-dem-tod](https://www.spiegel.de/kultur/literatur/dan-brown-beteuert-glauben-an-leben-nach-dem-tod-a-1b1d0fbc-56d9-4d87-a58e-ff0f33de6e4d#ref=rss)
+### brown
+
+* [https://www.spiegel.de/kultur/literatur/dan-brown-beteuert-glauben-an-leben-nach-dem-tod](https://www.spiegel.de/kultur/literatur/dan-brown-beteuert-glauben-an-leben-nach-dem-tod-a-1b1d0fbc-56d9-4d87-a58e-ff0f33de6e4d#ref=rss)
+### wir
+
+* [https://www.spiegel.de/kultur/literatur/dan-brown-beteuert-glauben-an-leben-nach-dem-tod](https://www.spiegel.de/kultur/literatur/dan-brown-beteuert-glauben-an-leben-nach-dem-tod-a-1b1d0fbc-56d9-4d87-a58e-ff0f33de6e4d#ref=rss)
+* [https://www.spiegel.de/ausland/soziologe-gerald-bronner-emmanuel-macron-traegt-eine-grosse-verantwortung-fuer-das-was-wir-gerade-erleben](https://www.spiegel.de/ausland/soziologe-gerald-bronner-emmanuel-macron-traegt-eine-grosse-verantwortung-fuer-das-was-wir-gerade-erleben-a-8528d15f-c4fa-4902-8c3e-9d03d19f4858#ref=rss)
+### elektro
+
+* [https://www.spiegel.de/wirtschaft/elektro-und-digitalindustrie-verzeichnet-deutlichen-auftragsrueckgang](https://www.spiegel.de/wirtschaft/elektro-und-digitalindustrie-verzeichnet-deutlichen-auftragsrueckgang-a-08955c1c-8723-48f5-a810-ffea45b7953f#ref=rss)
+### digitalindustrie
+
+* [https://www.spiegel.de/wirtschaft/elektro-und-digitalindustrie-verzeichnet-deutlichen-auftragsrueckgang](https://www.spiegel.de/wirtschaft/elektro-und-digitalindustrie-verzeichnet-deutlichen-auftragsrueckgang-a-08955c1c-8723-48f5-a810-ffea45b7953f#ref=rss)
+### diabetes
+
+* [https://www.spiegel.de/wissenschaft/medizin/diabetes-fast-die-haelfte-aller-betroffenen-wissen-nicht-dass-sie-krank-sind](https://www.spiegel.de/wissenschaft/medizin/diabetes-fast-die-haelfte-aller-betroffenen-wissen-nicht-dass-sie-krank-sind-a-8ae2ffcf-edf9-452f-975d-5e13e1b9d8dd#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/ausland/frankreich-armin-laschet-sieht-paris-vor-teufelskreis-und-wirtschaftskrise](https://www.spiegel.de/ausland/frankreich-armin-laschet-sieht-paris-vor-teufelskreis-und-wirtschaftskrise-a-f74917dd-f71c-4831-aae5-a5baa0bb19b1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/regierungskrise-oekonomen-bescheinigen-frankreich-reformunfaehigkeit](https://www.spiegel.de/wirtschaft/regierungskrise-oekonomen-bescheinigen-frankreich-reformunfaehigkeit-a-b6f207e3-9678-4f57-a55b-3d838e989d29#ref=rss)
+### armin
+
+* [https://www.spiegel.de/ausland/frankreich-armin-laschet-sieht-paris-vor-teufelskreis-und-wirtschaftskrise](https://www.spiegel.de/ausland/frankreich-armin-laschet-sieht-paris-vor-teufelskreis-und-wirtschaftskrise-a-f74917dd-f71c-4831-aae5-a5baa0bb19b1#ref=rss)
+### laschet
+
+* [https://www.spiegel.de/ausland/frankreich-armin-laschet-sieht-paris-vor-teufelskreis-und-wirtschaftskrise](https://www.spiegel.de/ausland/frankreich-armin-laschet-sieht-paris-vor-teufelskreis-und-wirtschaftskrise-a-f74917dd-f71c-4831-aae5-a5baa0bb19b1#ref=rss)
+### paris
+
+* [https://www.spiegel.de/ausland/frankreich-armin-laschet-sieht-paris-vor-teufelskreis-und-wirtschaftskrise](https://www.spiegel.de/ausland/frankreich-armin-laschet-sieht-paris-vor-teufelskreis-und-wirtschaftskrise-a-f74917dd-f71c-4831-aae5-a5baa0bb19b1#ref=rss)
+* [https://www.spiegel.de/ausland/soziologe-gerald-bronner-emmanuel-macron-traegt-eine-grosse-verantwortung-fuer-das-was-wir-gerade-erleben](https://www.spiegel.de/ausland/soziologe-gerald-bronner-emmanuel-macron-traegt-eine-grosse-verantwortung-fuer-das-was-wir-gerade-erleben-a-8528d15f-c4fa-4902-8c3e-9d03d19f4858#ref=rss)
+### bayrou
+
+* [https://www.spiegel.de/ausland/frankreich-armin-laschet-sieht-paris-vor-teufelskreis-und-wirtschaftskrise](https://www.spiegel.de/ausland/frankreich-armin-laschet-sieht-paris-vor-teufelskreis-und-wirtschaftskrise-a-f74917dd-f71c-4831-aae5-a5baa0bb19b1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/regierungskrise-oekonomen-bescheinigen-frankreich-reformunfaehigkeit](https://www.spiegel.de/wirtschaft/regierungskrise-oekonomen-bescheinigen-frankreich-reformunfaehigkeit-a-b6f207e3-9678-4f57-a55b-3d838e989d29#ref=rss)
+### stefanie
+
+* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-justizministerin-will-verbale-sexuelle-belaestigung-unter-strafe-stellen](https://www.spiegel.de/politik/deutschland/stefanie-hubig-justizministerin-will-verbale-sexuelle-belaestigung-unter-strafe-stellen-a-8921029b-6c1a-4ed3-ac6b-46c5eccdd9f3#ref=rss)
+### hubig
+
+* [https://www.spiegel.de/politik/deutschland/stefanie-hubig-justizministerin-will-verbale-sexuelle-belaestigung-unter-strafe-stellen](https://www.spiegel.de/politik/deutschland/stefanie-hubig-justizministerin-will-verbale-sexuelle-belaestigung-unter-strafe-stellen-a-8921029b-6c1a-4ed3-ac6b-46c5eccdd9f3#ref=rss)
+### soziologe
+
+* [https://www.spiegel.de/ausland/soziologe-gerald-bronner-emmanuel-macron-traegt-eine-grosse-verantwortung-fuer-das-was-wir-gerade-erleben](https://www.spiegel.de/ausland/soziologe-gerald-bronner-emmanuel-macron-traegt-eine-grosse-verantwortung-fuer-das-was-wir-gerade-erleben-a-8528d15f-c4fa-4902-8c3e-9d03d19f4858#ref=rss)
+### gérald
+
+* [https://www.spiegel.de/ausland/soziologe-gerald-bronner-emmanuel-macron-traegt-eine-grosse-verantwortung-fuer-das-was-wir-gerade-erleben](https://www.spiegel.de/ausland/soziologe-gerald-bronner-emmanuel-macron-traegt-eine-grosse-verantwortung-fuer-das-was-wir-gerade-erleben-a-8528d15f-c4fa-4902-8c3e-9d03d19f4858#ref=rss)
+### bronner
+
+* [https://www.spiegel.de/ausland/soziologe-gerald-bronner-emmanuel-macron-traegt-eine-grosse-verantwortung-fuer-das-was-wir-gerade-erleben](https://www.spiegel.de/ausland/soziologe-gerald-bronner-emmanuel-macron-traegt-eine-grosse-verantwortung-fuer-das-was-wir-gerade-erleben-a-8528d15f-c4fa-4902-8c3e-9d03d19f4858#ref=rss)
+### macron
+
+* [https://www.spiegel.de/ausland/soziologe-gerald-bronner-emmanuel-macron-traegt-eine-grosse-verantwortung-fuer-das-was-wir-gerade-erleben](https://www.spiegel.de/ausland/soziologe-gerald-bronner-emmanuel-macron-traegt-eine-grosse-verantwortung-fuer-das-was-wir-gerade-erleben-a-8528d15f-c4fa-4902-8c3e-9d03d19f4858#ref=rss)
+### basketball
+
+* [https://www.spiegel.de/sport/basketball/basketball-lebron-james-veroeffentlicht-artikel-in-chinesischer-staatszeitung](https://www.spiegel.de/sport/basketball/basketball-lebron-james-veroeffentlicht-artikel-in-chinesischer-staatszeitung-a-1159e341-ac29-413c-96ac-4d5fd0252e22#ref=rss)
+### lebron
+
+* [https://www.spiegel.de/sport/basketball/basketball-lebron-james-veroeffentlicht-artikel-in-chinesischer-staatszeitung](https://www.spiegel.de/sport/basketball/basketball-lebron-james-veroeffentlicht-artikel-in-chinesischer-staatszeitung-a-1159e341-ac29-413c-96ac-4d5fd0252e22#ref=rss)
+### james
+
+* [https://www.spiegel.de/sport/basketball/basketball-lebron-james-veroeffentlicht-artikel-in-chinesischer-staatszeitung](https://www.spiegel.de/sport/basketball/basketball-lebron-james-veroeffentlicht-artikel-in-chinesischer-staatszeitung-a-1159e341-ac29-413c-96ac-4d5fd0252e22#ref=rss)
+### alle
+
+* [https://www.spiegel.de/sport/basketball/basketball-lebron-james-veroeffentlicht-artikel-in-chinesischer-staatszeitung](https://www.spiegel.de/sport/basketball/basketball-lebron-james-veroeffentlicht-artikel-in-chinesischer-staatszeitung-a-1159e341-ac29-413c-96ac-4d5fd0252e22#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-nahost-israel-sprengt-30-hochhaeuser-und-will-die-stadt-gaza-komplett-evakuieren](https://www.spiegel.de/ausland/krieg-in-nahost-israel-sprengt-30-hochhaeuser-und-will-die-stadt-gaza-komplett-evakuieren-a-fe05d0ad-b12d-4086-a230-3cfa4d7de261#ref=rss)
+### manuel
+
+* [https://www.spiegel.de/politik/manuel-hagel-cdu-landeschef-von-baden-wuerttemberg-draengt-friedrich-merz-zu-kurswechsel-bei-verbrenner-aus](https://www.spiegel.de/politik/manuel-hagel-cdu-landeschef-von-baden-wuerttemberg-draengt-friedrich-merz-zu-kurswechsel-bei-verbrenner-aus-a-8af8b586-88e1-413b-bb93-b59e9a4bab46#ref=rss)
+### hagel
+
+* [https://www.spiegel.de/politik/manuel-hagel-cdu-landeschef-von-baden-wuerttemberg-draengt-friedrich-merz-zu-kurswechsel-bei-verbrenner-aus](https://www.spiegel.de/politik/manuel-hagel-cdu-landeschef-von-baden-wuerttemberg-draengt-friedrich-merz-zu-kurswechsel-bei-verbrenner-aus-a-8af8b586-88e1-413b-bb93-b59e9a4bab46#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/ausland/krieg-in-nahost-israel-sprengt-30-hochhaeuser-und-will-die-stadt-gaza-komplett-evakuieren](https://www.spiegel.de/ausland/krieg-in-nahost-israel-sprengt-30-hochhaeuser-und-will-die-stadt-gaza-komplett-evakuieren-a-fe05d0ad-b12d-4086-a230-3cfa4d7de261#ref=rss)
+### ökonomen
+
+* [https://www.spiegel.de/wirtschaft/regierungskrise-oekonomen-bescheinigen-frankreich-reformunfaehigkeit](https://www.spiegel.de/wirtschaft/regierungskrise-oekonomen-bescheinigen-frankreich-reformunfaehigkeit-a-b6f207e3-9678-4f57-a55b-3d838e989d29#ref=rss)
+### neuntorespektakel
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-italien-gewinnt-gegen-israel-in-einem-neun-tore-spektakel](https://www.spiegel.de/sport/fussball/wm-qualifikation-italien-gewinnt-gegen-israel-in-einem-neun-tore-spektakel-a-b037b212-224b-45d1-b3e0-d184a5d6b72d#ref=rss)
 
