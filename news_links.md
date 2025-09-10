@@ -4,418 +4,288 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump-a-2479459c-b3e4-49eb-b61b-7c0f497b5df5#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trumps-frauenzeichnung-und-jeffrey-epstein-in-wahrheit-ein-drohbrief](https://www.spiegel.de/kultur/donald-trumps-frauenzeichnung-und-jeffrey-epstein-in-wahrheit-ein-drohbrief-a-ed086a04-bc0c-46fb-80be-3f491b9b9938#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-baut-eine-oligarchen-herrschaft-wladimir-putin-als-vorbild](https://www.spiegel.de/wirtschaft/donald-trump-baut-eine-oligarchen-herrschaft-wladimir-putin-als-vorbild-a-a04c36ef-3b1b-4725-b914-84be22f7547d#ref=rss)
-### donald
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump-a-2479459c-b3e4-49eb-b61b-7c0f497b5df5#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trumps-frauenzeichnung-und-jeffrey-epstein-in-wahrheit-ein-drohbrief](https://www.spiegel.de/kultur/donald-trumps-frauenzeichnung-und-jeffrey-epstein-in-wahrheit-ein-drohbrief-a-ed086a04-bc0c-46fb-80be-3f491b9b9938#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-baut-eine-oligarchen-herrschaft-wladimir-putin-als-vorbild](https://www.spiegel.de/wirtschaft/donald-trump-baut-eine-oligarchen-herrschaft-wladimir-putin-als-vorbild-a-a04c36ef-3b1b-4725-b914-84be22f7547d#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump-a-2479459c-b3e4-49eb-b61b-7c0f497b5df5#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-waermebildkamera-videos-und-ein-ungewolltes-gestaendnis](https://www.spiegel.de/ausland/der-sniper-von-gaza-waermebildkamera-videos-und-ein-ungewolltes-gestaendnis-a-e6ad1dc3-e468-4bc3-85e7-7d0421dbd211#ref=rss)
-* [https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte](https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte-a-bd457d7b-12ac-4ffa-ad2d-32929546d4ec#ref=rss)
-* [https://www.spiegel.de/ausland/mutmassliche-kriegsverbrechen-in-gaza-was-sie-ueber-den-scharfschuetzen-aus-bayern-wissen-muessen](https://www.spiegel.de/ausland/mutmassliche-kriegsverbrechen-in-gaza-was-sie-ueber-den-scharfschuetzen-aus-bayern-wissen-muessen-a-f58196ba-8245-4b9e-b4d1-9e9df5952adc#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben](https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben-a-bc9d61d8-4169-40cb-8d48-075befce0a06#ref=rss)
-### epstein
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump-a-2479459c-b3e4-49eb-b61b-7c0f497b5df5#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trumps-frauenzeichnung-und-jeffrey-epstein-in-wahrheit-ein-drohbrief](https://www.spiegel.de/kultur/donald-trumps-frauenzeichnung-und-jeffrey-epstein-in-wahrheit-ein-drohbrief-a-ed086a04-bc0c-46fb-80be-3f491b9b9938#ref=rss)
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel](https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel-a-0b6d6243-e3a0-4c07-a357-ab9ddaca4e29#ref=rss)
-### jeffrey
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump-a-2479459c-b3e4-49eb-b61b-7c0f497b5df5#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trumps-frauenzeichnung-und-jeffrey-epstein-in-wahrheit-ein-drohbrief](https://www.spiegel.de/kultur/donald-trumps-frauenzeichnung-und-jeffrey-epstein-in-wahrheit-ein-drohbrief-a-ed086a04-bc0c-46fb-80be-3f491b9b9938#ref=rss)
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel](https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel-a-0b6d6243-e3a0-4c07-a357-ab9ddaca4e29#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/kultur/streit-ueber-industrie-vergleich-lieber-eine-dame-ohne-unterleib-als-markus-soeder-mit-wurst-kommentar](https://www.spiegel.de/kultur/streit-ueber-industrie-vergleich-lieber-eine-dame-ohne-unterleib-als-markus-soeder-mit-wurst-kommentar-a-f7c5a5b1-61f7-4336-84cd-2b4cf04a7ea3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-fraktion-will-wehrpflicht-wiedereinfuehren](https://www.spiegel.de/politik/deutschland/afd-fraktion-will-wehrpflicht-wiedereinfuehren-a-fdcc5d47-a995-4862-8fa5-cc2543864186#ref=rss)
-### nepal
-
-* [https://www.spiegel.de/ausland/nepal-gen-z-fordert-wandel-wut-ueber-elite-und-korruption](https://www.spiegel.de/ausland/nepal-gen-z-fordert-wandel-wut-ueber-elite-und-korruption-a-5de86c69-cce6-4643-9b3c-59312dbfa502#ref=rss)
-* [https://www.spiegel.de/ausland/nepal-eskalation-der-gewalt-politiker-anwesen-von-demonstranten-angegriffen](https://www.spiegel.de/ausland/nepal-eskalation-der-gewalt-politiker-anwesen-von-demonstranten-angegriffen-a-ee74bf2b-00f0-4e8d-b5f4-337000d109c6#ref=rss)
-### doha
-
-* [https://www.spiegel.de/ausland/israels-luftangriff-auf-hamas-anfuehrer-in-doha-katar-wird-das-nicht-auf-die-leichte-schulter-nehmen](https://www.spiegel.de/ausland/israels-luftangriff-auf-hamas-anfuehrer-in-doha-katar-wird-das-nicht-auf-die-leichte-schulter-nehmen-a-62a21570-4495-4463-aae3-9ea1ca253624#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump-a-2479459c-b3e4-49eb-b61b-7c0f497b5df5#ref=rss)
-* [https://www.spiegel.de/ausland/reaktionen-auf-israels-attacke-in-doha-israel-will-nicht-frieden-sondern-den-krieg-fortsetzen](https://www.spiegel.de/ausland/reaktionen-auf-israels-attacke-in-doha-israel-will-nicht-frieden-sondern-den-krieg-fortsetzen-a-df9d5670-3864-43fa-bf71-a17de69757a3#ref=rss)
-### israel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump-a-2479459c-b3e4-49eb-b61b-7c0f497b5df5#ref=rss)
-* [https://www.spiegel.de/ausland/reaktionen-auf-israels-attacke-in-doha-israel-will-nicht-frieden-sondern-den-krieg-fortsetzen](https://www.spiegel.de/ausland/reaktionen-auf-israels-attacke-in-doha-israel-will-nicht-frieden-sondern-den-krieg-fortsetzen-a-df9d5670-3864-43fa-bf71-a17de69757a3#ref=rss)
-### kriegsverbrechen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump-a-2479459c-b3e4-49eb-b61b-7c0f497b5df5#ref=rss)
-* [https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte](https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte-a-bd457d7b-12ac-4ffa-ad2d-32929546d4ec#ref=rss)
-* [https://www.spiegel.de/ausland/mutmassliche-kriegsverbrechen-in-gaza-was-sie-ueber-den-scharfschuetzen-aus-bayern-wissen-muessen](https://www.spiegel.de/ausland/mutmassliche-kriegsverbrechen-in-gaza-was-sie-ueber-den-scharfschuetzen-aus-bayern-wissen-muessen-a-f58196ba-8245-4b9e-b4d1-9e9df5952adc#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben](https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben-a-bc9d61d8-4169-40cb-8d48-075befce0a06#ref=rss)
-### eu
-
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
-### sanktionen
-
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
-### russland
-
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
-* [https://www.spiegel.de/politik/propaganda-aus-russland-und-china-usa-kuendigen-kooperation-bei-bekaempfung-von-desinformation](https://www.spiegel.de/politik/propaganda-aus-russland-und-china-usa-kuendigen-kooperation-bei-bekaempfung-von-desinformation-a-c1178990-4ddf-4849-bd18-37d929c0f864#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-baut-eine-oligarchen-herrschaft-wladimir-putin-als-vorbild](https://www.spiegel.de/wirtschaft/donald-trump-baut-eine-oligarchen-herrschaft-wladimir-putin-als-vorbild-a-a04c36ef-3b1b-4725-b914-84be22f7547d#ref=rss)
-### scharfschützen
-
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-waermebildkamera-videos-und-ein-ungewolltes-gestaendnis](https://www.spiegel.de/ausland/der-sniper-von-gaza-waermebildkamera-videos-und-ein-ungewolltes-gestaendnis-a-e6ad1dc3-e468-4bc3-85e7-7d0421dbd211#ref=rss)
-* [https://www.spiegel.de/ausland/mutmassliche-kriegsverbrechen-in-gaza-was-sie-ueber-den-scharfschuetzen-aus-bayern-wissen-muessen](https://www.spiegel.de/ausland/mutmassliche-kriegsverbrechen-in-gaza-was-sie-ueber-den-scharfschuetzen-aus-bayern-wissen-muessen-a-f58196ba-8245-4b9e-b4d1-9e9df5952adc#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben](https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben-a-bc9d61d8-4169-40cb-8d48-075befce0a06#ref=rss)
-### spielt
-
-* [https://www.spiegel.de/sport/fussball/thomas-tuchel-in-england-zwischen-schwer-zu-ertragen-und-ein-guter-schritt](https://www.spiegel.de/sport/fussball/thomas-tuchel-in-england-zwischen-schwer-zu-ertragen-und-ein-guter-schritt-a-8727c8bd-c8a5-4a2c-8a4e-f38fbeb3ed9f#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/kultur/streit-ueber-industrie-vergleich-lieber-eine-dame-ohne-unterleib-als-markus-soeder-mit-wurst-kommentar](https://www.spiegel.de/kultur/streit-ueber-industrie-vergleich-lieber-eine-dame-ohne-unterleib-als-markus-soeder-mit-wurst-kommentar-a-f7c5a5b1-61f7-4336-84cd-2b4cf04a7ea3#ref=rss)
-* [https://www.spiegel.de/politik/propaganda-aus-russland-und-china-usa-kuendigen-kooperation-bei-bekaempfung-von-desinformation](https://www.spiegel.de/politik/propaganda-aus-russland-und-china-usa-kuendigen-kooperation-bei-bekaempfung-von-desinformation-a-c1178990-4ddf-4849-bd18-37d929c0f864#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-wirtschaftsministerin-katherina-reiche-bekraeftigt-forderung-nach-hoeherem-rentenalter](https://www.spiegel.de/wirtschaft/rente-wirtschaftsministerin-katherina-reiche-bekraeftigt-forderung-nach-hoeherem-rentenalter-a-5f4d80e0-12d2-43df-9ccc-5230eab46c8c#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-em-wie-deutschland-sloweniens-superstar-luka-doncic-stoppen-kann](https://www.spiegel.de/sport/basketball/basketball-em-wie-deutschland-sloweniens-superstar-luka-doncic-stoppen-kann-a-43b7792e-af0a-4693-bef6-7c67294fb459#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/asyl-zahl-der-empfaenger-von-staatlichen-leistungen-geht-zurueck](https://www.spiegel.de/politik/deutschland/asyl-zahl-der-empfaenger-von-staatlichen-leistungen-geht-zurueck-a-60c01b11-8e4a-432d-bccd-efcbf93469c1#ref=rss)
+* [https://www.spiegel.de/ausland/gezielte-toetungen-in-gaza-vieles-deutet-auf-kriegsverbrechen-hin](https://www.spiegel.de/ausland/gezielte-toetungen-in-gaza-vieles-deutet-auf-kriegsverbrechen-hin-a-4abe76b1-a14a-454c-b5d8-b7f467fc6379#ref=rss)
+* [https://www.spiegel.de/start/studium-im-ausland-deutschland-auf-platz-vier-der-beliebtesten-laender-oecd-bericht](https://www.spiegel.de/start/studium-im-ausland-deutschland-auf-platz-vier-der-beliebtesten-laender-oecd-bericht-a-bb026e73-01ed-4fe1-a9db-c560cb295bef#ref=rss)
+### polen
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-minister-aeussert-sich-zu-drohnenabschuss-ueber-polen-livestream](https://www.spiegel.de/politik/deutschland/boris-pistorius-minister-aeussert-sich-zu-drohnenabschuss-ueber-polen-livestream-a-84906d25-e3ca-4a76-a706-75b53685a1f6#ref=rss)
+* [https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen](https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen-a-6b064f75-bd74-4249-8ee0-c01e500a1866#ref=rss)
+* [https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen](https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen-a-667b20d1-caf2-4351-82dc-1652384665e7#ref=rss)
+* [https://www.spiegel.de/politik/tusk-bereitet-sich-auf-verschiedene-szenarien-vor-kallas-schliesst-absicht-russlands-nicht-aus](https://www.spiegel.de/politik/tusk-bereitet-sich-auf-verschiedene-szenarien-vor-kallas-schliesst-absicht-russlands-nicht-aus-a-4ea73cbc-4a42-465d-a44d-9a1bee416c4a#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-minister-aeussert-sich-zu-drohnenabschuss-ueber-polen-livestream](https://www.spiegel.de/politik/deutschland/boris-pistorius-minister-aeussert-sich-zu-drohnenabschuss-ueber-polen-livestream-a-84906d25-e3ca-4a76-a706-75b53685a1f6#ref=rss)
+* [https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen](https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen-a-6b064f75-bd74-4249-8ee0-c01e500a1866#ref=rss)
+* [https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen](https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen-a-667b20d1-caf2-4351-82dc-1652384665e7#ref=rss)
+* [https://www.spiegel.de/politik/tusk-bereitet-sich-auf-verschiedene-szenarien-vor-kallas-schliesst-absicht-russlands-nicht-aus](https://www.spiegel.de/politik/tusk-bereitet-sich-auf-verschiedene-szenarien-vor-kallas-schliesst-absicht-russlands-nicht-aus-a-4ea73cbc-4a42-465d-a44d-9a1bee416c4a#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/karriere/arbeiten-am-limit-ueberstunden-druck-erschoepfung](https://www.spiegel.de/karriere/arbeiten-am-limit-ueberstunden-druck-erschoepfung-a-b1969629-0ac5-441b-9f5b-c9cc13339123#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/ehec-was-den-ausbruch-in-mecklenburg-vorpommern-so-besonders-macht](https://www.spiegel.de/gesundheit/diagnose/ehec-was-den-ausbruch-in-mecklenburg-vorpommern-so-besonders-macht-a-3c7bcf42-0a78-425c-91e6-39da770a869f#ref=rss)
+* [https://www.spiegel.de/panorama/bayern-eiskapelle-als-folge-des-klimawandels-eingestuerzt](https://www.spiegel.de/panorama/bayern-eiskapelle-als-folge-des-klimawandels-eingestuerzt-a-125aa933-22dd-44af-893d-d63ee36921c1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/toedliche-koala-krankheit-australien-laesst-impfstoff-gegen-chlamydien-zu](https://www.spiegel.de/wissenschaft/natur/toedliche-koala-krankheit-australien-laesst-impfstoff-gegen-chlamydien-zu-a-bdad6d30-0bdd-4f7f-9c91-b122a5ffe66d#ref=rss)
+### ursula
+
+* [https://www.spiegel.de/politik/europaeische-union-ursula-von-der-leyen-fordert-europaeische-unabhaengigkeit-in-neuer-weltordnung](https://www.spiegel.de/politik/europaeische-union-ursula-von-der-leyen-fordert-europaeische-unabhaengigkeit-in-neuer-weltordnung-a-81ae8879-d3c6-4d15-a419-d14fe6829941#ref=rss)
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel](https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel-a-9b7438db-b369-4647-8f95-96b2ec8e26cf#ref=rss)
+### leyen
+
+* [https://www.spiegel.de/politik/europaeische-union-ursula-von-der-leyen-fordert-europaeische-unabhaengigkeit-in-neuer-weltordnung](https://www.spiegel.de/politik/europaeische-union-ursula-von-der-leyen-fordert-europaeische-unabhaengigkeit-in-neuer-weltordnung-a-81ae8879-d3c6-4d15-a419-d14fe6829941#ref=rss)
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel](https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel-a-9b7438db-b369-4647-8f95-96b2ec8e26cf#ref=rss)
+### eu
+
+* [https://www.spiegel.de/politik/europaeische-union-ursula-von-der-leyen-fordert-europaeische-unabhaengigkeit-in-neuer-weltordnung](https://www.spiegel.de/politik/europaeische-union-ursula-von-der-leyen-fordert-europaeische-unabhaengigkeit-in-neuer-weltordnung-a-81ae8879-d3c6-4d15-a419-d14fe6829941#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/asyl-zahl-der-empfaenger-von-staatlichen-leistungen-geht-zurueck](https://www.spiegel.de/politik/deutschland/asyl-zahl-der-empfaenger-von-staatlichen-leistungen-geht-zurueck-a-60c01b11-8e4a-432d-bccd-efcbf93469c1#ref=rss)
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel](https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel-a-9b7438db-b369-4647-8f95-96b2ec8e26cf#ref=rss)
+### stoppen
+
+* [https://www.spiegel.de/sport/basketball/basketball-em-wie-deutschland-sloweniens-superstar-luka-doncic-stoppen-kann](https://www.spiegel.de/sport/basketball/basketball-em-wie-deutschland-sloweniens-superstar-luka-doncic-stoppen-kann-a-43b7792e-af0a-4693-bef6-7c67294fb459#ref=rss)
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel](https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel-a-9b7438db-b369-4647-8f95-96b2ec8e26cf#ref=rss)
+### beantragt
+
+* [https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen](https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen-a-6b064f75-bd74-4249-8ee0-c01e500a1866#ref=rss)
+* [https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen](https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen-a-667b20d1-caf2-4351-82dc-1652384665e7#ref=rss)
+### europa
+
+* [https://www.spiegel.de/wissenschaft/natur/studie-vom-aussterben-bedrohte-haiarten-als-lebensmittel-verkauft](https://www.spiegel.de/wissenschaft/natur/studie-vom-aussterben-bedrohte-haiarten-als-lebensmittel-verkauft-a-dc891fc7-8e77-495a-bf2c-79ce2655dc6c#ref=rss)
+* [https://www.spiegel.de/politik/europaeische-union-ursula-von-der-leyen-fordert-europaeische-unabhaengigkeit-in-neuer-weltordnung](https://www.spiegel.de/politik/europaeische-union-ursula-von-der-leyen-fordert-europaeische-unabhaengigkeit-in-neuer-weltordnung-a-81ae8879-d3c6-4d15-a419-d14fe6829941#ref=rss)
+* [https://www.spiegel.de/wirtschaft/abnehmspritze-wegovy-pharmakonzern-novo-nordisk-streicht-9000-stellen](https://www.spiegel.de/wirtschaft/abnehmspritze-wegovy-pharmakonzern-novo-nordisk-streicht-9000-stellen-a-d8bfabeb-7cb7-412c-bca1-ee1f9a5cfdcc#ref=rss)
+### einige
+
+* [https://www.spiegel.de/panorama/niedersachsen-busfahrer-laesst-schueler-nicht-aussteigen-und-loest-polizeieinsatz-aus](https://www.spiegel.de/panorama/niedersachsen-busfahrer-laesst-schueler-nicht-aussteigen-und-loest-polizeieinsatz-aus-a-4f10fae6-1e73-492a-a35d-776927751fcb#ref=rss)
+* [https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen](https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen-a-667b20d1-caf2-4351-82dc-1652384665e7#ref=rss)
+* [https://www.spiegel.de/panorama/reggio-calabria-illegaler-transport-von-2200-voegeln-in-sueditalien-von-polizei-gestoppt](https://www.spiegel.de/panorama/reggio-calabria-illegaler-transport-von-2200-voegeln-in-sueditalien-von-polizei-gestoppt-a-4729c92f-2d81-4232-ab8c-acf74e41725d#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/niedersachsen-busfahrer-laesst-schueler-nicht-aussteigen-und-loest-polizeieinsatz-aus](https://www.spiegel.de/panorama/niedersachsen-busfahrer-laesst-schueler-nicht-aussteigen-und-loest-polizeieinsatz-aus-a-4f10fae6-1e73-492a-a35d-776927751fcb#ref=rss)
+* [https://www.spiegel.de/panorama/reggio-calabria-illegaler-transport-von-2200-voegeln-in-sueditalien-von-polizei-gestoppt](https://www.spiegel.de/panorama/reggio-calabria-illegaler-transport-von-2200-voegeln-in-sueditalien-von-polizei-gestoppt-a-4729c92f-2d81-4232-ab8c-acf74e41725d#ref=rss)
+### hafen
+
+* [https://www.spiegel.de/panorama/usa-dutzende-container-stuerzen-von-frachtschiff-im-hafen-von-long-beach](https://www.spiegel.de/panorama/usa-dutzende-container-stuerzen-von-frachtschiff-im-hafen-von-long-beach-a-692a1222-1a87-4a5b-9131-d3f371b1aaab#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-staatsanwaltschaft-ermittelt-nach-grossbrand-im-hafen-gegen-44-jaehrigen](https://www.spiegel.de/panorama/justiz/hamburg-staatsanwaltschaft-ermittelt-nach-grossbrand-im-hafen-gegen-44-jaehrigen-a-2adc56be-5fb9-44ca-a576-167530cc8c51#ref=rss)
+### fast
+
+* [https://www.spiegel.de/panorama/usa-dutzende-container-stuerzen-von-frachtschiff-im-hafen-von-long-beach](https://www.spiegel.de/panorama/usa-dutzende-container-stuerzen-von-frachtschiff-im-hafen-von-long-beach-a-692a1222-1a87-4a5b-9131-d3f371b1aaab#ref=rss)
+* [https://www.spiegel.de/karriere/arbeiten-am-limit-ueberstunden-druck-erschoepfung](https://www.spiegel.de/karriere/arbeiten-am-limit-ueberstunden-druck-erschoepfung-a-b1969629-0ac5-441b-9f5b-c9cc13339123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/larry-ellison-oracle-gruender-ist-jetzt-fast-so-reich-wie-elon-musk](https://www.spiegel.de/wirtschaft/larry-ellison-oracle-gruender-ist-jetzt-fast-so-reich-wie-elon-musk-a-ec4d0eb7-9fb0-4eea-8f88-c981eff8558d#ref=rss)
+### laut
+
+* [https://www.spiegel.de/karriere/arbeiten-am-limit-ueberstunden-druck-erschoepfung](https://www.spiegel.de/karriere/arbeiten-am-limit-ueberstunden-druck-erschoepfung-a-b1969629-0ac5-441b-9f5b-c9cc13339123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/mehrwegflaschen-im-muell-schueren-debatte-ueber-hoehere-pfandbetraege](https://www.spiegel.de/wirtschaft/service/mehrwegflaschen-im-muell-schueren-debatte-ueber-hoehere-pfandbetraege-a-81810c08-31a6-4c80-9080-b6bedae3d6c0#ref=rss)
+* [https://www.spiegel.de/start/studium-im-ausland-deutschland-auf-platz-vier-der-beliebtesten-laender-oecd-bericht](https://www.spiegel.de/start/studium-im-ausland-deutschland-auf-platz-vier-der-beliebtesten-laender-oecd-bericht-a-bb026e73-01ed-4fe1-a9db-c560cb295bef#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/politik/deutschland/asyl-zahl-der-empfaenger-von-staatlichen-leistungen-geht-zurueck](https://www.spiegel.de/politik/deutschland/asyl-zahl-der-empfaenger-von-staatlichen-leistungen-geht-zurueck-a-60c01b11-8e4a-432d-bccd-efcbf93469c1#ref=rss)
+* [https://www.spiegel.de/panorama/bali-ueberschwemmungen-auf-urlaubsinsel-in-indonesien-fordern-mindestens-sechs-todesopfer](https://www.spiegel.de/panorama/bali-ueberschwemmungen-auf-urlaubsinsel-in-indonesien-fordern-mindestens-sechs-todesopfer-a-836c1867-3c59-4a36-8558-f7bfd057551b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/solingen-attentaeter-oberlandesgericht-duesseldorf-verhaengt-die-hoechststrafe](https://www.spiegel.de/panorama/justiz/solingen-attentaeter-oberlandesgericht-duesseldorf-verhaengt-die-hoechststrafe-a-e47022de-bf84-473f-bbc3-f23fab6e19f5#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen](https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen-a-667b20d1-caf2-4351-82dc-1652384665e7#ref=rss)
+* [https://www.spiegel.de/start/studium-im-ausland-deutschland-auf-platz-vier-der-beliebtesten-laender-oecd-bericht](https://www.spiegel.de/start/studium-im-ausland-deutschland-auf-platz-vier-der-beliebtesten-laender-oecd-bericht-a-bb026e73-01ed-4fe1-a9db-c560cb295bef#ref=rss)
+### boris
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-minister-aeussert-sich-zu-drohnenabschuss-ueber-polen-livestream](https://www.spiegel.de/politik/deutschland/boris-pistorius-minister-aeussert-sich-zu-drohnenabschuss-ueber-polen-livestream-a-84906d25-e3ca-4a76-a706-75b53685a1f6#ref=rss)
+### pistorius
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-minister-aeussert-sich-zu-drohnenabschuss-ueber-polen-livestream](https://www.spiegel.de/politik/deutschland/boris-pistorius-minister-aeussert-sich-zu-drohnenabschuss-ueber-polen-livestream-a-84906d25-e3ca-4a76-a706-75b53685a1f6#ref=rss)
+### minister
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-minister-aeussert-sich-zu-drohnenabschuss-ueber-polen-livestream](https://www.spiegel.de/politik/deutschland/boris-pistorius-minister-aeussert-sich-zu-drohnenabschuss-ueber-polen-livestream-a-84906d25-e3ca-4a76-a706-75b53685a1f6#ref=rss)
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel](https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel-a-9b7438db-b369-4647-8f95-96b2ec8e26cf#ref=rss)
+### drohnenabschuss
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-minister-aeussert-sich-zu-drohnenabschuss-ueber-polen-livestream](https://www.spiegel.de/politik/deutschland/boris-pistorius-minister-aeussert-sich-zu-drohnenabschuss-ueber-polen-livestream-a-84906d25-e3ca-4a76-a706-75b53685a1f6#ref=rss)
+* [https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen](https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen-a-667b20d1-caf2-4351-82dc-1652384665e7#ref=rss)
+### livestream
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-minister-aeussert-sich-zu-drohnenabschuss-ueber-polen-livestream](https://www.spiegel.de/politik/deutschland/boris-pistorius-minister-aeussert-sich-zu-drohnenabschuss-ueber-polen-livestream-a-84906d25-e3ca-4a76-a706-75b53685a1f6#ref=rss)
+### luka
+
+* [https://www.spiegel.de/sport/basketball/basketball-em-wie-deutschland-sloweniens-superstar-luka-doncic-stoppen-kann](https://www.spiegel.de/sport/basketball/basketball-em-wie-deutschland-sloweniens-superstar-luka-doncic-stoppen-kann-a-43b7792e-af0a-4693-bef6-7c67294fb459#ref=rss)
+### dončić
+
+* [https://www.spiegel.de/sport/basketball/basketball-em-wie-deutschland-sloweniens-superstar-luka-doncic-stoppen-kann](https://www.spiegel.de/sport/basketball/basketball-em-wie-deutschland-sloweniens-superstar-luka-doncic-stoppen-kann-a-43b7792e-af0a-4693-bef6-7c67294fb459#ref=rss)
+### machte
+
+* [https://www.spiegel.de/sport/basketball/basketball-em-wie-deutschland-sloweniens-superstar-luka-doncic-stoppen-kann](https://www.spiegel.de/sport/basketball/basketball-em-wie-deutschland-sloweniens-superstar-luka-doncic-stoppen-kann-a-43b7792e-af0a-4693-bef6-7c67294fb459#ref=rss)
+* [https://www.spiegel.de/wirtschaft/larry-ellison-oracle-gruender-ist-jetzt-fast-so-reich-wie-elon-musk](https://www.spiegel.de/wirtschaft/larry-ellison-oracle-gruender-ist-jetzt-fast-so-reich-wie-elon-musk-a-ec4d0eb7-9fb0-4eea-8f88-c981eff8558d#ref=rss)
+### bestreitet
+
+* [https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen](https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen-a-6b064f75-bd74-4249-8ee0-c01e500a1866#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen](https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen-a-6b064f75-bd74-4249-8ee0-c01e500a1866#ref=rss)
+* [https://www.spiegel.de/politik/tusk-bereitet-sich-auf-verschiedene-szenarien-vor-kallas-schliesst-absicht-russlands-nicht-aus](https://www.spiegel.de/politik/tusk-bereitet-sich-auf-verschiedene-szenarien-vor-kallas-schliesst-absicht-russlands-nicht-aus-a-4ea73cbc-4a42-465d-a44d-9a1bee416c4a#ref=rss)
+### natoartikel
+
+* [https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen](https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen-a-6b064f75-bd74-4249-8ee0-c01e500a1866#ref=rss)
+* [https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen](https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen-a-667b20d1-caf2-4351-82dc-1652384665e7#ref=rss)
+### 4
+
+* [https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen](https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen-a-6b064f75-bd74-4249-8ee0-c01e500a1866#ref=rss)
+* [https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen](https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen-a-667b20d1-caf2-4351-82dc-1652384665e7#ref=rss)
+### gebiet
+
+* [https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen](https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen-a-6b064f75-bd74-4249-8ee0-c01e500a1866#ref=rss)
+* [https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen](https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen-a-667b20d1-caf2-4351-82dc-1652384665e7#ref=rss)
+### alle
+
+* [https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen](https://www.spiegel.de/ausland/russischer-diplomat-bestreitet-russische-herkunft-der-drohnen-ueber-polen-a-6b064f75-bd74-4249-8ee0-c01e500a1866#ref=rss)
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel](https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel-a-9b7438db-b369-4647-8f95-96b2ec8e26cf#ref=rss)
+### schüler
+
+* [https://www.spiegel.de/panorama/niedersachsen-busfahrer-laesst-schueler-nicht-aussteigen-und-loest-polizeieinsatz-aus](https://www.spiegel.de/panorama/niedersachsen-busfahrer-laesst-schueler-nicht-aussteigen-und-loest-polizeieinsatz-aus-a-4f10fae6-1e73-492a-a35d-776927751fcb#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/nepal-gen-z-fordert-wandel-wut-ueber-elite-und-korruption](https://www.spiegel.de/ausland/nepal-gen-z-fordert-wandel-wut-ueber-elite-und-korruption-a-5de86c69-cce6-4643-9b3c-59312dbfa502#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-nach-jette-nietzard-wirft-auch-jakob-blasel-hin](https://www.spiegel.de/politik/deutschland/gruene-jugend-nach-jette-nietzard-wirft-auch-jakob-blasel-hin-a-627684aa-86ef-47d4-90d7-e0f3f8169787#ref=rss)
-* [https://www.spiegel.de/kultur/hollywood-star-ist-an-demenz-erkrankt-emma-heming-willis-veroeffentlicht-buch-ueber-die-pflege-von-bruce-willis](https://www.spiegel.de/kultur/hollywood-star-ist-an-demenz-erkrankt-emma-heming-willis-veroeffentlicht-buch-ueber-die-pflege-von-bruce-willis-a-a3321131-7a7e-446b-8d75-af98a9d28e2f#ref=rss)
-### zeigen
+* [https://www.spiegel.de/panorama/niedersachsen-busfahrer-laesst-schueler-nicht-aussteigen-und-loest-polizeieinsatz-aus](https://www.spiegel.de/panorama/niedersachsen-busfahrer-laesst-schueler-nicht-aussteigen-und-loest-polizeieinsatz-aus-a-4f10fae6-1e73-492a-a35d-776927751fcb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/asyl-zahl-der-empfaenger-von-staatlichen-leistungen-geht-zurueck](https://www.spiegel.de/politik/deutschland/asyl-zahl-der-empfaenger-von-staatlichen-leistungen-geht-zurueck-a-60c01b11-8e4a-432d-bccd-efcbf93469c1#ref=rss)
+### container
 
-* [https://www.spiegel.de/ausland/nepal-eskalation-der-gewalt-politiker-anwesen-von-demonstranten-angegriffen](https://www.spiegel.de/ausland/nepal-eskalation-der-gewalt-politiker-anwesen-von-demonstranten-angegriffen-a-ee74bf2b-00f0-4e8d-b5f4-337000d109c6#ref=rss)
-* [https://www.spiegel.de/ausland/israels-luftangriff-auf-hamas-anfuehrer-in-doha-katar-wird-das-nicht-auf-die-leichte-schulter-nehmen](https://www.spiegel.de/ausland/israels-luftangriff-auf-hamas-anfuehrer-in-doha-katar-wird-das-nicht-auf-die-leichte-schulter-nehmen-a-62a21570-4495-4463-aae3-9ea1ca253624#ref=rss)
-* [https://www.spiegel.de/auto/mercedes-chef-bekommt-mercedes-kofferraum-nicht-auf](https://www.spiegel.de/auto/mercedes-chef-bekommt-mercedes-kofferraum-nicht-auf-a-1f51d226-5334-4ab7-845f-e23a1de6f01a#ref=rss)
-### israels
+* [https://www.spiegel.de/panorama/usa-dutzende-container-stuerzen-von-frachtschiff-im-hafen-von-long-beach](https://www.spiegel.de/panorama/usa-dutzende-container-stuerzen-von-frachtschiff-im-hafen-von-long-beach-a-692a1222-1a87-4a5b-9131-d3f371b1aaab#ref=rss)
+### atomkraft
 
-* [https://www.spiegel.de/ausland/israels-luftangriff-auf-hamas-anfuehrer-in-doha-katar-wird-das-nicht-auf-die-leichte-schulter-nehmen](https://www.spiegel.de/ausland/israels-luftangriff-auf-hamas-anfuehrer-in-doha-katar-wird-das-nicht-auf-die-leichte-schulter-nehmen-a-62a21570-4495-4463-aae3-9ea1ca253624#ref=rss)
-* [https://www.spiegel.de/ausland/reaktionen-auf-israels-attacke-in-doha-israel-will-nicht-frieden-sondern-den-krieg-fortsetzen](https://www.spiegel.de/ausland/reaktionen-auf-israels-attacke-in-doha-israel-will-nicht-frieden-sondern-den-krieg-fortsetzen-a-df9d5670-3864-43fa-bf71-a17de69757a3#ref=rss)
-### attacke
+* [https://www.spiegel.de/wirtschaft/service/eu-gericht-erlaubt-klimasiegel-fuer-atomkraft-und-erdgas](https://www.spiegel.de/wirtschaft/service/eu-gericht-erlaubt-klimasiegel-fuer-atomkraft-und-erdgas-a-25d82a2f-b8d5-4934-bd38-6a636638a8da#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/ausland/israels-luftangriff-auf-hamas-anfuehrer-in-doha-katar-wird-das-nicht-auf-die-leichte-schulter-nehmen](https://www.spiegel.de/ausland/israels-luftangriff-auf-hamas-anfuehrer-in-doha-katar-wird-das-nicht-auf-die-leichte-schulter-nehmen-a-62a21570-4495-4463-aae3-9ea1ca253624#ref=rss)
-* [https://www.spiegel.de/ausland/reaktionen-auf-israels-attacke-in-doha-israel-will-nicht-frieden-sondern-den-krieg-fortsetzen](https://www.spiegel.de/ausland/reaktionen-auf-israels-attacke-in-doha-israel-will-nicht-frieden-sondern-den-krieg-fortsetzen-a-df9d5670-3864-43fa-bf71-a17de69757a3#ref=rss)
-### jahr
+* [https://www.spiegel.de/wirtschaft/service/eu-gericht-erlaubt-klimasiegel-fuer-atomkraft-und-erdgas](https://www.spiegel.de/wirtschaft/service/eu-gericht-erlaubt-klimasiegel-fuer-atomkraft-und-erdgas-a-25d82a2f-b8d5-4934-bd38-6a636638a8da#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gesundheitsministerium-schlaegt-basistarife-fuer-kassenpatienten-vor](https://www.spiegel.de/wirtschaft/soziales/gesundheitsministerium-schlaegt-basistarife-fuer-kassenpatienten-vor-a-1d27ea24-1996-46e7-a463-544b06342691#ref=rss)
+### europäische
 
-* [https://www.spiegel.de/sport/radsport/vuelta-16-etappe-wegen-propalaestinensischer-proteste-um-acht-kilometer-verkuerzt](https://www.spiegel.de/sport/radsport/vuelta-16-etappe-wegen-propalaestinensischer-proteste-um-acht-kilometer-verkuerzt-a-4f286b11-8c9b-4956-a5a8-4a5132926dc9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-nach-jette-nietzard-wirft-auch-jakob-blasel-hin](https://www.spiegel.de/politik/deutschland/gruene-jugend-nach-jette-nietzard-wirft-auch-jakob-blasel-hin-a-627684aa-86ef-47d4-90d7-e0f3f8169787#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/pilz-vergiftung-das-passiert-bei-einem-verdacht](https://www.spiegel.de/wissenschaft/natur/pilz-vergiftung-das-passiert-bei-einem-verdacht-a-f1cd3c63-ce21-497e-ab21-c1d8ffa095ef#ref=rss)
-### sniper
+* [https://www.spiegel.de/politik/europaeische-union-ursula-von-der-leyen-fordert-europaeische-unabhaengigkeit-in-neuer-weltordnung](https://www.spiegel.de/politik/europaeische-union-ursula-von-der-leyen-fordert-europaeische-unabhaengigkeit-in-neuer-weltordnung-a-81ae8879-d3c6-4d15-a419-d14fe6829941#ref=rss)
+### rede
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump-a-2479459c-b3e4-49eb-b61b-7c0f497b5df5#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-waermebildkamera-videos-und-ein-ungewolltes-gestaendnis](https://www.spiegel.de/ausland/der-sniper-von-gaza-waermebildkamera-videos-und-ein-ungewolltes-gestaendnis-a-e6ad1dc3-e468-4bc3-85e7-7d0421dbd211#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben](https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben-a-bc9d61d8-4169-40cb-8d48-075befce0a06#ref=rss)
-### fall
+* [https://www.spiegel.de/politik/europaeische-union-ursula-von-der-leyen-fordert-europaeische-unabhaengigkeit-in-neuer-weltordnung](https://www.spiegel.de/politik/europaeische-union-ursula-von-der-leyen-fordert-europaeische-unabhaengigkeit-in-neuer-weltordnung-a-81ae8879-d3c6-4d15-a419-d14fe6829941#ref=rss)
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel](https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel-a-9b7438db-b369-4647-8f95-96b2ec8e26cf#ref=rss)
+### lage
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump-a-2479459c-b3e4-49eb-b61b-7c0f497b5df5#ref=rss)
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel](https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel-a-0b6d6243-e3a0-4c07-a357-ab9ddaca4e29#ref=rss)
-* [https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte](https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte-a-bd457d7b-12ac-4ffa-ad2d-32929546d4ec#ref=rss)
-### putin
+* [https://www.spiegel.de/politik/europaeische-union-ursula-von-der-leyen-fordert-europaeische-unabhaengigkeit-in-neuer-weltordnung](https://www.spiegel.de/politik/europaeische-union-ursula-von-der-leyen-fordert-europaeische-unabhaengigkeit-in-neuer-weltordnung-a-81ae8879-d3c6-4d15-a419-d14fe6829941#ref=rss)
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel](https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel-a-9b7438db-b369-4647-8f95-96b2ec8e26cf#ref=rss)
+### ausbruch
 
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-baut-eine-oligarchen-herrschaft-wladimir-putin-als-vorbild](https://www.spiegel.de/wirtschaft/donald-trump-baut-eine-oligarchen-herrschaft-wladimir-putin-als-vorbild-a-a04c36ef-3b1b-4725-b914-84be22f7547d#ref=rss)
-### unbewaffnete
+* [https://www.spiegel.de/gesundheit/diagnose/ehec-was-den-ausbruch-in-mecklenburg-vorpommern-so-besonders-macht](https://www.spiegel.de/gesundheit/diagnose/ehec-was-den-ausbruch-in-mecklenburg-vorpommern-so-besonders-macht-a-3c7bcf42-0a78-425c-91e6-39da770a869f#ref=rss)
+### mecklenburgvorpommern
 
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-waermebildkamera-videos-und-ein-ungewolltes-gestaendnis](https://www.spiegel.de/ausland/der-sniper-von-gaza-waermebildkamera-videos-und-ein-ungewolltes-gestaendnis-a-e6ad1dc3-e468-4bc3-85e7-7d0421dbd211#ref=rss)
-* [https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte](https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte-a-bd457d7b-12ac-4ffa-ad2d-32929546d4ec#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben](https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben-a-bc9d61d8-4169-40cb-8d48-075befce0a06#ref=rss)
-### israelischen
-
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-waermebildkamera-videos-und-ein-ungewolltes-gestaendnis](https://www.spiegel.de/ausland/der-sniper-von-gaza-waermebildkamera-videos-und-ein-ungewolltes-gestaendnis-a-e6ad1dc3-e468-4bc3-85e7-7d0421dbd211#ref=rss)
-* [https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte](https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte-a-bd457d7b-12ac-4ffa-ad2d-32929546d4ec#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben](https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben-a-bc9d61d8-4169-40cb-8d48-075befce0a06#ref=rss)
-### erschossen
-
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-waermebildkamera-videos-und-ein-ungewolltes-gestaendnis](https://www.spiegel.de/ausland/der-sniper-von-gaza-waermebildkamera-videos-und-ein-ungewolltes-gestaendnis-a-e6ad1dc3-e468-4bc3-85e7-7d0421dbd211#ref=rss)
-* [https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte](https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte-a-bd457d7b-12ac-4ffa-ad2d-32929546d4ec#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben](https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben-a-bc9d61d8-4169-40cb-8d48-075befce0a06#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wissenschaft/medizin/seuchenschutzbehoerde-warnt-vor-ausbreitung-der-chagas-krankheit](https://www.spiegel.de/wissenschaft/medizin/seuchenschutzbehoerde-warnt-vor-ausbreitung-der-chagas-krankheit-a-c5e46267-1a7a-4048-9753-28f079d1afcd#ref=rss)
-* [https://www.spiegel.de/politik/propaganda-aus-russland-und-china-usa-kuendigen-kooperation-bei-bekaempfung-von-desinformation](https://www.spiegel.de/politik/propaganda-aus-russland-und-china-usa-kuendigen-kooperation-bei-bekaempfung-von-desinformation-a-c1178990-4ddf-4849-bd18-37d929c0f864#ref=rss)
-### willis
-
-* [https://www.spiegel.de/kultur/hollywood-star-ist-an-demenz-erkrankt-emma-heming-willis-veroeffentlicht-buch-ueber-die-pflege-von-bruce-willis](https://www.spiegel.de/kultur/hollywood-star-ist-an-demenz-erkrankt-emma-heming-willis-veroeffentlicht-buch-ueber-die-pflege-von-bruce-willis-a-a3321131-7a7e-446b-8d75-af98a9d28e2f#ref=rss)
-### reiche
-
-* [https://www.spiegel.de/wirtschaft/rente-wirtschaftsministerin-katherina-reiche-bekraeftigt-forderung-nach-hoeherem-rentenalter](https://www.spiegel.de/wirtschaft/rente-wirtschaftsministerin-katherina-reiche-bekraeftigt-forderung-nach-hoeherem-rentenalter-a-5f4d80e0-12d2-43df-9ccc-5230eab46c8c#ref=rss)
-### frank
-
-* [https://www.spiegel.de/sport/basketball/frank-buschmann-ich-bin-ruhiger-geworden-auch-wenn-mir-das-manche-nicht-glauben](https://www.spiegel.de/sport/basketball/frank-buschmann-ich-bin-ruhiger-geworden-auch-wenn-mir-das-manche-nicht-glauben-a-32b3320e-62b9-4356-ae51-9f4b0b447f91#ref=rss)
-### buschmann
-
-* [https://www.spiegel.de/sport/basketball/frank-buschmann-ich-bin-ruhiger-geworden-auch-wenn-mir-das-manche-nicht-glauben](https://www.spiegel.de/sport/basketball/frank-buschmann-ich-bin-ruhiger-geworden-auch-wenn-mir-das-manche-nicht-glauben-a-32b3320e-62b9-4356-ae51-9f4b0b447f91#ref=rss)
-### manche
-
-* [https://www.spiegel.de/sport/basketball/frank-buschmann-ich-bin-ruhiger-geworden-auch-wenn-mir-das-manche-nicht-glauben](https://www.spiegel.de/sport/basketball/frank-buschmann-ich-bin-ruhiger-geworden-auch-wenn-mir-das-manche-nicht-glauben-a-32b3320e-62b9-4356-ae51-9f4b0b447f91#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/pilz-vergiftung-das-passiert-bei-einem-verdacht](https://www.spiegel.de/wissenschaft/natur/pilz-vergiftung-das-passiert-bei-einem-verdacht-a-f1cd3c63-ce21-497e-ab21-c1d8ffa095ef#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/ehec-was-den-ausbruch-in-mecklenburg-vorpommern-so-besonders-macht](https://www.spiegel.de/gesundheit/diagnose/ehec-was-den-ausbruch-in-mecklenburg-vorpommern-so-besonders-macht-a-3c7bcf42-0a78-425c-91e6-39da770a869f#ref=rss)
 ### macht
 
-* [https://www.spiegel.de/sport/basketball/frank-buschmann-ich-bin-ruhiger-geworden-auch-wenn-mir-das-manche-nicht-glauben](https://www.spiegel.de/sport/basketball/frank-buschmann-ich-bin-ruhiger-geworden-auch-wenn-mir-das-manche-nicht-glauben-a-32b3320e-62b9-4356-ae51-9f4b0b447f91#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-baut-eine-oligarchen-herrschaft-wladimir-putin-als-vorbild](https://www.spiegel.de/wirtschaft/donald-trump-baut-eine-oligarchen-herrschaft-wladimir-putin-als-vorbild-a-a04c36ef-3b1b-4725-b914-84be22f7547d#ref=rss)
-### thomas
+* [https://www.spiegel.de/gesundheit/diagnose/ehec-was-den-ausbruch-in-mecklenburg-vorpommern-so-besonders-macht](https://www.spiegel.de/gesundheit/diagnose/ehec-was-den-ausbruch-in-mecklenburg-vorpommern-so-besonders-macht-a-3c7bcf42-0a78-425c-91e6-39da770a869f#ref=rss)
+* [https://www.spiegel.de/familie/eltern-trennungen-was-das-mit-den-kindern-macht](https://www.spiegel.de/familie/eltern-trennungen-was-das-mit-den-kindern-macht-a-b0cb6d26-c86c-47a2-a0fc-793fa3d73bde#ref=rss)
+### larry
 
-* [https://www.spiegel.de/sport/fussball/thomas-tuchel-in-england-zwischen-schwer-zu-ertragen-und-ein-guter-schritt](https://www.spiegel.de/sport/fussball/thomas-tuchel-in-england-zwischen-schwer-zu-ertragen-und-ein-guter-schritt-a-8727c8bd-c8a5-4a2c-8a4e-f38fbeb3ed9f#ref=rss)
-### tuchel
+* [https://www.spiegel.de/wirtschaft/larry-ellison-oracle-gruender-ist-jetzt-fast-so-reich-wie-elon-musk](https://www.spiegel.de/wirtschaft/larry-ellison-oracle-gruender-ist-jetzt-fast-so-reich-wie-elon-musk-a-ec4d0eb7-9fb0-4eea-8f88-c981eff8558d#ref=rss)
+### ellison
 
-* [https://www.spiegel.de/sport/fussball/thomas-tuchel-in-england-zwischen-schwer-zu-ertragen-und-ein-guter-schritt](https://www.spiegel.de/sport/fussball/thomas-tuchel-in-england-zwischen-schwer-zu-ertragen-und-ein-guter-schritt-a-8727c8bd-c8a5-4a2c-8a4e-f38fbeb3ed9f#ref=rss)
-### genau
+* [https://www.spiegel.de/wirtschaft/larry-ellison-oracle-gruender-ist-jetzt-fast-so-reich-wie-elon-musk](https://www.spiegel.de/wirtschaft/larry-ellison-oracle-gruender-ist-jetzt-fast-so-reich-wie-elon-musk-a-ec4d0eb7-9fb0-4eea-8f88-c981eff8558d#ref=rss)
+### elon
 
-* [https://www.spiegel.de/sport/fussball/thomas-tuchel-in-england-zwischen-schwer-zu-ertragen-und-ein-guter-schritt](https://www.spiegel.de/sport/fussball/thomas-tuchel-in-england-zwischen-schwer-zu-ertragen-und-ein-guter-schritt-a-8727c8bd-c8a5-4a2c-8a4e-f38fbeb3ed9f#ref=rss)
-* [https://www.spiegel.de/ausland/mutmassliche-kriegsverbrechen-in-gaza-was-sie-ueber-den-scharfschuetzen-aus-bayern-wissen-muessen](https://www.spiegel.de/ausland/mutmassliche-kriegsverbrechen-in-gaza-was-sie-ueber-den-scharfschuetzen-aus-bayern-wissen-muessen-a-f58196ba-8245-4b9e-b4d1-9e9df5952adc#ref=rss)
-### dame
+* [https://www.spiegel.de/wirtschaft/larry-ellison-oracle-gruender-ist-jetzt-fast-so-reich-wie-elon-musk](https://www.spiegel.de/wirtschaft/larry-ellison-oracle-gruender-ist-jetzt-fast-so-reich-wie-elon-musk-a-ec4d0eb7-9fb0-4eea-8f88-c981eff8558d#ref=rss)
+### musk
 
-* [https://www.spiegel.de/kultur/streit-ueber-industrie-vergleich-lieber-eine-dame-ohne-unterleib-als-markus-soeder-mit-wurst-kommentar](https://www.spiegel.de/kultur/streit-ueber-industrie-vergleich-lieber-eine-dame-ohne-unterleib-als-markus-soeder-mit-wurst-kommentar-a-f7c5a5b1-61f7-4336-84cd-2b4cf04a7ea3#ref=rss)
-### unterleib
+* [https://www.spiegel.de/wirtschaft/larry-ellison-oracle-gruender-ist-jetzt-fast-so-reich-wie-elon-musk](https://www.spiegel.de/wirtschaft/larry-ellison-oracle-gruender-ist-jetzt-fast-so-reich-wie-elon-musk-a-ec4d0eb7-9fb0-4eea-8f88-c981eff8558d#ref=rss)
+### eiskapelle
 
-* [https://www.spiegel.de/kultur/streit-ueber-industrie-vergleich-lieber-eine-dame-ohne-unterleib-als-markus-soeder-mit-wurst-kommentar](https://www.spiegel.de/kultur/streit-ueber-industrie-vergleich-lieber-eine-dame-ohne-unterleib-als-markus-soeder-mit-wurst-kommentar-a-f7c5a5b1-61f7-4336-84cd-2b4cf04a7ea3#ref=rss)
-### markus
+* [https://www.spiegel.de/panorama/bayern-eiskapelle-als-folge-des-klimawandels-eingestuerzt](https://www.spiegel.de/panorama/bayern-eiskapelle-als-folge-des-klimawandels-eingestuerzt-a-125aa933-22dd-44af-893d-d63ee36921c1#ref=rss)
+### eingestürzt
 
-* [https://www.spiegel.de/kultur/streit-ueber-industrie-vergleich-lieber-eine-dame-ohne-unterleib-als-markus-soeder-mit-wurst-kommentar](https://www.spiegel.de/kultur/streit-ueber-industrie-vergleich-lieber-eine-dame-ohne-unterleib-als-markus-soeder-mit-wurst-kommentar-a-f7c5a5b1-61f7-4336-84cd-2b4cf04a7ea3#ref=rss)
-### söder
+* [https://www.spiegel.de/panorama/bayern-eiskapelle-als-folge-des-klimawandels-eingestuerzt](https://www.spiegel.de/panorama/bayern-eiskapelle-als-folge-des-klimawandels-eingestuerzt-a-125aa933-22dd-44af-893d-d63ee36921c1#ref=rss)
+### zusätzliche
 
-* [https://www.spiegel.de/kultur/streit-ueber-industrie-vergleich-lieber-eine-dame-ohne-unterleib-als-markus-soeder-mit-wurst-kommentar](https://www.spiegel.de/kultur/streit-ueber-industrie-vergleich-lieber-eine-dame-ohne-unterleib-als-markus-soeder-mit-wurst-kommentar-a-f7c5a5b1-61f7-4336-84cd-2b4cf04a7ea3#ref=rss)
-### greift
+* [https://www.spiegel.de/panorama/bayern-eiskapelle-als-folge-des-klimawandels-eingestuerzt](https://www.spiegel.de/panorama/bayern-eiskapelle-als-folge-des-klimawandels-eingestuerzt-a-125aa933-22dd-44af-893d-d63ee36921c1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gesundheitsministerium-schlaegt-basistarife-fuer-kassenpatienten-vor](https://www.spiegel.de/wirtschaft/soziales/gesundheitsministerium-schlaegt-basistarife-fuer-kassenpatienten-vor-a-1d27ea24-1996-46e7-a463-544b06342691#ref=rss)
+### müll
 
-* [https://www.spiegel.de/kultur/streit-ueber-industrie-vergleich-lieber-eine-dame-ohne-unterleib-als-markus-soeder-mit-wurst-kommentar](https://www.spiegel.de/kultur/streit-ueber-industrie-vergleich-lieber-eine-dame-ohne-unterleib-als-markus-soeder-mit-wurst-kommentar-a-f7c5a5b1-61f7-4336-84cd-2b4cf04a7ea3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump-a-2479459c-b3e4-49eb-b61b-7c0f497b5df5#ref=rss)
-### sondern
+* [https://www.spiegel.de/wirtschaft/service/mehrwegflaschen-im-muell-schueren-debatte-ueber-hoehere-pfandbetraege](https://www.spiegel.de/wirtschaft/service/mehrwegflaschen-im-muell-schueren-debatte-ueber-hoehere-pfandbetraege-a-81810c08-31a6-4c80-9080-b6bedae3d6c0#ref=rss)
+### leistungen
 
-* [https://www.spiegel.de/kultur/streit-ueber-industrie-vergleich-lieber-eine-dame-ohne-unterleib-als-markus-soeder-mit-wurst-kommentar](https://www.spiegel.de/kultur/streit-ueber-industrie-vergleich-lieber-eine-dame-ohne-unterleib-als-markus-soeder-mit-wurst-kommentar-a-f7c5a5b1-61f7-4336-84cd-2b4cf04a7ea3#ref=rss)
-* [https://www.spiegel.de/ausland/reaktionen-auf-israels-attacke-in-doha-israel-will-nicht-frieden-sondern-den-krieg-fortsetzen](https://www.spiegel.de/ausland/reaktionen-auf-israels-attacke-in-doha-israel-will-nicht-frieden-sondern-den-krieg-fortsetzen-a-df9d5670-3864-43fa-bf71-a17de69757a3#ref=rss)
-### wut
+* [https://www.spiegel.de/politik/deutschland/asyl-zahl-der-empfaenger-von-staatlichen-leistungen-geht-zurueck](https://www.spiegel.de/politik/deutschland/asyl-zahl-der-empfaenger-von-staatlichen-leistungen-geht-zurueck-a-60c01b11-8e4a-432d-bccd-efcbf93469c1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gesundheitsministerium-schlaegt-basistarife-fuer-kassenpatienten-vor](https://www.spiegel.de/wirtschaft/soziales/gesundheitsministerium-schlaegt-basistarife-fuer-kassenpatienten-vor-a-1d27ea24-1996-46e7-a463-544b06342691#ref=rss)
+### christina
 
-* [https://www.spiegel.de/ausland/nepal-gen-z-fordert-wandel-wut-ueber-elite-und-korruption](https://www.spiegel.de/ausland/nepal-gen-z-fordert-wandel-wut-ueber-elite-und-korruption-a-5de86c69-cce6-4643-9b3c-59312dbfa502#ref=rss)
-### elite
+* [https://www.spiegel.de/panorama/justiz/christina-block-engagiert-ex-sprecher-von-gerhard-schroeder](https://www.spiegel.de/panorama/justiz/christina-block-engagiert-ex-sprecher-von-gerhard-schroeder-a-018a9bbd-5bfa-4fe8-9441-143aac5c9330#ref=rss)
+### block
 
-* [https://www.spiegel.de/ausland/nepal-gen-z-fordert-wandel-wut-ueber-elite-und-korruption](https://www.spiegel.de/ausland/nepal-gen-z-fordert-wandel-wut-ueber-elite-und-korruption-a-5de86c69-cce6-4643-9b3c-59312dbfa502#ref=rss)
-### mann
+* [https://www.spiegel.de/panorama/justiz/christina-block-engagiert-ex-sprecher-von-gerhard-schroeder](https://www.spiegel.de/panorama/justiz/christina-block-engagiert-ex-sprecher-von-gerhard-schroeder-a-018a9bbd-5bfa-4fe8-9441-143aac5c9330#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/panorama/london-festnahme-nach-evakuierung-am-flughafen-heathrow](https://www.spiegel.de/panorama/london-festnahme-nach-evakuierung-am-flughafen-heathrow-a-d2b63296-8fcb-4077-a983-4107e0de38b2#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben](https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben-a-bc9d61d8-4169-40cb-8d48-075befce0a06#ref=rss)
-### offenbar
+* [https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen](https://www.spiegel.de/ausland/polen-beantragt-wegen-drohnenabschuss-nato-konsultationen-a-667b20d1-caf2-4351-82dc-1652384665e7#ref=rss)
+* [https://www.spiegel.de/ausland/gezielte-toetungen-in-gaza-vieles-deutet-auf-kriegsverbrechen-hin](https://www.spiegel.de/ausland/gezielte-toetungen-in-gaza-vieles-deutet-auf-kriegsverbrechen-hin-a-4abe76b1-a14a-454c-b5d8-b7f467fc6379#ref=rss)
+### novo
 
-* [https://www.spiegel.de/panorama/london-festnahme-nach-evakuierung-am-flughafen-heathrow](https://www.spiegel.de/panorama/london-festnahme-nach-evakuierung-am-flughafen-heathrow-a-d2b63296-8fcb-4077-a983-4107e0de38b2#ref=rss)
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel](https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel-a-0b6d6243-e3a0-4c07-a357-ab9ddaca4e29#ref=rss)
-### wehrpflicht
+* [https://www.spiegel.de/wirtschaft/abnehmspritze-wegovy-pharmakonzern-novo-nordisk-streicht-9000-stellen](https://www.spiegel.de/wirtschaft/abnehmspritze-wegovy-pharmakonzern-novo-nordisk-streicht-9000-stellen-a-d8bfabeb-7cb7-412c-bca1-ee1f9a5cfdcc#ref=rss)
+### nordisk
 
-* [https://www.spiegel.de/politik/deutschland/afd-fraktion-will-wehrpflicht-wiedereinfuehren](https://www.spiegel.de/politik/deutschland/afd-fraktion-will-wehrpflicht-wiedereinfuehren-a-fdcc5d47-a995-4862-8fa5-cc2543864186#ref=rss)
-### gewalt
+* [https://www.spiegel.de/wirtschaft/abnehmspritze-wegovy-pharmakonzern-novo-nordisk-streicht-9000-stellen](https://www.spiegel.de/wirtschaft/abnehmspritze-wegovy-pharmakonzern-novo-nordisk-streicht-9000-stellen-a-d8bfabeb-7cb7-412c-bca1-ee1f9a5cfdcc#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/ausland/nepal-eskalation-der-gewalt-politiker-anwesen-von-demonstranten-angegriffen](https://www.spiegel.de/ausland/nepal-eskalation-der-gewalt-politiker-anwesen-von-demonstranten-angegriffen-a-ee74bf2b-00f0-4e8d-b5f4-337000d109c6#ref=rss)
-### demonstranten
+* [https://www.spiegel.de/wirtschaft/abnehmspritze-wegovy-pharmakonzern-novo-nordisk-streicht-9000-stellen](https://www.spiegel.de/wirtschaft/abnehmspritze-wegovy-pharmakonzern-novo-nordisk-streicht-9000-stellen-a-d8bfabeb-7cb7-412c-bca1-ee1f9a5cfdcc#ref=rss)
+### zieht
 
-* [https://www.spiegel.de/ausland/nepal-eskalation-der-gewalt-politiker-anwesen-von-demonstranten-angegriffen](https://www.spiegel.de/ausland/nepal-eskalation-der-gewalt-politiker-anwesen-von-demonstranten-angegriffen-a-ee74bf2b-00f0-4e8d-b5f4-337000d109c6#ref=rss)
-### katar
+* [https://www.spiegel.de/wirtschaft/abnehmspritze-wegovy-pharmakonzern-novo-nordisk-streicht-9000-stellen](https://www.spiegel.de/wirtschaft/abnehmspritze-wegovy-pharmakonzern-novo-nordisk-streicht-9000-stellen-a-d8bfabeb-7cb7-412c-bca1-ee1f9a5cfdcc#ref=rss)
+* [https://www.spiegel.de/start/studium-im-ausland-deutschland-auf-platz-vier-der-beliebtesten-laender-oecd-bericht](https://www.spiegel.de/start/studium-im-ausland-deutschland-auf-platz-vier-der-beliebtesten-laender-oecd-bericht-a-bb026e73-01ed-4fe1-a9db-c560cb295bef#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/ausland/israels-luftangriff-auf-hamas-anfuehrer-in-doha-katar-wird-das-nicht-auf-die-leichte-schulter-nehmen](https://www.spiegel.de/ausland/israels-luftangriff-auf-hamas-anfuehrer-in-doha-katar-wird-das-nicht-auf-die-leichte-schulter-nehmen-a-62a21570-4495-4463-aae3-9ea1ca253624#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump-a-2479459c-b3e4-49eb-b61b-7c0f497b5df5#ref=rss)
-### videoaufnahmen
+* [https://www.spiegel.de/ausland/gezielte-toetungen-in-gaza-vieles-deutet-auf-kriegsverbrechen-hin](https://www.spiegel.de/ausland/gezielte-toetungen-in-gaza-vieles-deutet-auf-kriegsverbrechen-hin-a-4abe76b1-a14a-454c-b5d8-b7f467fc6379#ref=rss)
+### iphone
 
-* [https://www.spiegel.de/ausland/israels-luftangriff-auf-hamas-anfuehrer-in-doha-katar-wird-das-nicht-auf-die-leichte-schulter-nehmen](https://www.spiegel.de/ausland/israels-luftangriff-auf-hamas-anfuehrer-in-doha-katar-wird-das-nicht-auf-die-leichte-schulter-nehmen-a-62a21570-4495-4463-aae3-9ea1ca253624#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben](https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben-a-bc9d61d8-4169-40cb-8d48-075befce0a06#ref=rss)
-### vuelta
+* [https://www.spiegel.de/netzwelt/gadgets/iphone-air-so-viel-revolution-steckt-wirklich-im-duennen-apple-handy](https://www.spiegel.de/netzwelt/gadgets/iphone-air-so-viel-revolution-steckt-wirklich-im-duennen-apple-handy-a-311efccd-ad79-4db4-979d-e1689425dfdd#ref=rss)
+### air
 
-* [https://www.spiegel.de/sport/radsport/vuelta-16-etappe-wegen-propalaestinensischer-proteste-um-acht-kilometer-verkuerzt](https://www.spiegel.de/sport/radsport/vuelta-16-etappe-wegen-propalaestinensischer-proteste-um-acht-kilometer-verkuerzt-a-4f286b11-8c9b-4956-a5a8-4a5132926dc9#ref=rss)
-### 16
+* [https://www.spiegel.de/netzwelt/gadgets/iphone-air-so-viel-revolution-steckt-wirklich-im-duennen-apple-handy](https://www.spiegel.de/netzwelt/gadgets/iphone-air-so-viel-revolution-steckt-wirklich-im-duennen-apple-handy-a-311efccd-ad79-4db4-979d-e1689425dfdd#ref=rss)
+### bali
 
-* [https://www.spiegel.de/sport/radsport/vuelta-16-etappe-wegen-propalaestinensischer-proteste-um-acht-kilometer-verkuerzt](https://www.spiegel.de/sport/radsport/vuelta-16-etappe-wegen-propalaestinensischer-proteste-um-acht-kilometer-verkuerzt-a-4f286b11-8c9b-4956-a5a8-4a5132926dc9#ref=rss)
-### etappe
+* [https://www.spiegel.de/panorama/bali-ueberschwemmungen-auf-urlaubsinsel-in-indonesien-fordern-mindestens-sechs-todesopfer](https://www.spiegel.de/panorama/bali-ueberschwemmungen-auf-urlaubsinsel-in-indonesien-fordern-mindestens-sechs-todesopfer-a-836c1867-3c59-4a36-8558-f7bfd057551b#ref=rss)
+### mindestens
 
-* [https://www.spiegel.de/sport/radsport/vuelta-16-etappe-wegen-propalaestinensischer-proteste-um-acht-kilometer-verkuerzt](https://www.spiegel.de/sport/radsport/vuelta-16-etappe-wegen-propalaestinensischer-proteste-um-acht-kilometer-verkuerzt-a-4f286b11-8c9b-4956-a5a8-4a5132926dc9#ref=rss)
-### proteste
+* [https://www.spiegel.de/panorama/bali-ueberschwemmungen-auf-urlaubsinsel-in-indonesien-fordern-mindestens-sechs-todesopfer](https://www.spiegel.de/panorama/bali-ueberschwemmungen-auf-urlaubsinsel-in-indonesien-fordern-mindestens-sechs-todesopfer-a-836c1867-3c59-4a36-8558-f7bfd057551b#ref=rss)
+### sechs
 
-* [https://www.spiegel.de/sport/radsport/vuelta-16-etappe-wegen-propalaestinensischer-proteste-um-acht-kilometer-verkuerzt](https://www.spiegel.de/sport/radsport/vuelta-16-etappe-wegen-propalaestinensischer-proteste-um-acht-kilometer-verkuerzt-a-4f286b11-8c9b-4956-a5a8-4a5132926dc9#ref=rss)
-### hamas
+* [https://www.spiegel.de/panorama/bali-ueberschwemmungen-auf-urlaubsinsel-in-indonesien-fordern-mindestens-sechs-todesopfer](https://www.spiegel.de/panorama/bali-ueberschwemmungen-auf-urlaubsinsel-in-indonesien-fordern-mindestens-sechs-todesopfer-a-836c1867-3c59-4a36-8558-f7bfd057551b#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump-a-2479459c-b3e4-49eb-b61b-7c0f497b5df5#ref=rss)
-* [https://www.spiegel.de/ausland/reaktionen-auf-israels-attacke-in-doha-israel-will-nicht-frieden-sondern-den-krieg-fortsetzen](https://www.spiegel.de/ausland/reaktionen-auf-israels-attacke-in-doha-israel-will-nicht-frieden-sondern-den-krieg-fortsetzen-a-df9d5670-3864-43fa-bf71-a17de69757a3#ref=rss)
-### münchen
+* [https://www.spiegel.de/panorama/bali-ueberschwemmungen-auf-urlaubsinsel-in-indonesien-fordern-mindestens-sechs-todesopfer](https://www.spiegel.de/panorama/bali-ueberschwemmungen-auf-urlaubsinsel-in-indonesien-fordern-mindestens-sechs-todesopfer-a-836c1867-3c59-4a36-8558-f7bfd057551b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/selena-gomez-spricht-ueber-ihre-lupus-krankheit](https://www.spiegel.de/panorama/leute/selena-gomez-spricht-ueber-ihre-lupus-krankheit-a-02cea451-1c91-440f-bd00-0703a37e39dc#ref=rss)
+### hunderte
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump-a-2479459c-b3e4-49eb-b61b-7c0f497b5df5#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben](https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben-a-bc9d61d8-4169-40cb-8d48-075befce0a06#ref=rss)
-### keinen
+* [https://www.spiegel.de/panorama/bali-ueberschwemmungen-auf-urlaubsinsel-in-indonesien-fordern-mindestens-sechs-todesopfer](https://www.spiegel.de/panorama/bali-ueberschwemmungen-auf-urlaubsinsel-in-indonesien-fordern-mindestens-sechs-todesopfer-a-836c1867-3c59-4a36-8558-f7bfd057551b#ref=rss)
+* [https://www.spiegel.de/panorama/reggio-calabria-illegaler-transport-von-2200-voegeln-in-sueditalien-von-polizei-gestoppt](https://www.spiegel.de/panorama/reggio-calabria-illegaler-transport-von-2200-voegeln-in-sueditalien-von-polizei-gestoppt-a-4729c92f-2d81-4232-ab8c-acf74e41725d#ref=rss)
+### ausland
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump-a-2479459c-b3e4-49eb-b61b-7c0f497b5df5#ref=rss)
-### gar
+* [https://www.spiegel.de/start/studium-im-ausland-deutschland-auf-platz-vier-der-beliebtesten-laender-oecd-bericht](https://www.spiegel.de/start/studium-im-ausland-deutschland-auf-platz-vier-der-beliebtesten-laender-oecd-bericht-a-bb026e73-01ed-4fe1-a9db-c560cb295bef#ref=rss)
+### oecdbericht
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump](https://www.spiegel.de/politik/deutschland/news-des-tages-doha-israel-hamas-kriegsverbrechen-in-gaza-jeffrey-epstein-und-donald-trump-a-2479459c-b3e4-49eb-b61b-7c0f497b5df5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitbegruender-draengen-auf-trennung-von-unilever-vor-boersengang](https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitbegruender-draengen-auf-trennung-von-unilever-vor-boersengang-a-c5f648e3-deaa-46ac-bb45-537c5b2aa33e#ref=rss)
-### trumps
+* [https://www.spiegel.de/start/studium-im-ausland-deutschland-auf-platz-vier-der-beliebtesten-laender-oecd-bericht](https://www.spiegel.de/start/studium-im-ausland-deutschland-auf-platz-vier-der-beliebtesten-laender-oecd-bericht-a-bb026e73-01ed-4fe1-a9db-c560cb295bef#ref=rss)
+### impfstoff
 
-* [https://www.spiegel.de/kultur/donald-trumps-frauenzeichnung-und-jeffrey-epstein-in-wahrheit-ein-drohbrief](https://www.spiegel.de/kultur/donald-trumps-frauenzeichnung-und-jeffrey-epstein-in-wahrheit-ein-drohbrief-a-ed086a04-bc0c-46fb-80be-3f491b9b9938#ref=rss)
-* [https://www.spiegel.de/politik/propaganda-aus-russland-und-china-usa-kuendigen-kooperation-bei-bekaempfung-von-desinformation](https://www.spiegel.de/politik/propaganda-aus-russland-und-china-usa-kuendigen-kooperation-bei-bekaempfung-von-desinformation-a-c1178990-4ddf-4849-bd18-37d929c0f864#ref=rss)
-### bringen
+* [https://www.spiegel.de/wissenschaft/natur/toedliche-koala-krankheit-australien-laesst-impfstoff-gegen-chlamydien-zu](https://www.spiegel.de/wissenschaft/natur/toedliche-koala-krankheit-australien-laesst-impfstoff-gegen-chlamydien-zu-a-bdad6d30-0bdd-4f7f-9c91-b122a5ffe66d#ref=rss)
+### chlamydien
 
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
-### attackiert
+* [https://www.spiegel.de/wissenschaft/natur/toedliche-koala-krankheit-australien-laesst-impfstoff-gegen-chlamydien-zu](https://www.spiegel.de/wissenschaft/natur/toedliche-koala-krankheit-australien-laesst-impfstoff-gegen-chlamydien-zu-a-bdad6d30-0bdd-4f7f-9c91-b122a5ffe66d#ref=rss)
+### oberlandesgericht
 
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
-### massiv
+* [https://www.spiegel.de/panorama/justiz/solingen-attentaeter-oberlandesgericht-duesseldorf-verhaengt-die-hoechststrafe](https://www.spiegel.de/panorama/justiz/solingen-attentaeter-oberlandesgericht-duesseldorf-verhaengt-die-hoechststrafe-a-e47022de-bf84-473f-bbc3-f23fab6e19f5#ref=rss)
+### düsseldorf
 
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
-### nie
+* [https://www.spiegel.de/panorama/justiz/solingen-attentaeter-oberlandesgericht-duesseldorf-verhaengt-die-hoechststrafe](https://www.spiegel.de/panorama/justiz/solingen-attentaeter-oberlandesgericht-duesseldorf-verhaengt-die-hoechststrafe-a-e47022de-bf84-473f-bbc3-f23fab6e19f5#ref=rss)
+### zahlungen
 
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
-### blockiert
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel](https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel-a-9b7438db-b369-4647-8f95-96b2ec8e26cf#ref=rss)
+### israel
 
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
-### nimmt
+* [https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel](https://www.spiegel.de/politik/ursula-von-der-leyen-eu-stoppt-zahlungen-an-israel-a-9b7438db-b369-4647-8f95-96b2ec8e26cf#ref=rss)
+### selena
 
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
-### pflicht
+* [https://www.spiegel.de/panorama/leute/selena-gomez-spricht-ueber-ihre-lupus-krankheit](https://www.spiegel.de/panorama/leute/selena-gomez-spricht-ueber-ihre-lupus-krankheit-a-02cea451-1c91-440f-bd00-0703a37e39dc#ref=rss)
+### gomez
 
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
-### spiel
+* [https://www.spiegel.de/panorama/leute/selena-gomez-spricht-ueber-ihre-lupus-krankheit](https://www.spiegel.de/panorama/leute/selena-gomez-spricht-ueber-ihre-lupus-krankheit-a-02cea451-1c91-440f-bd00-0703a37e39dc#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/politik/tusk-bereitet-sich-auf-verschiedene-szenarien-vor-kallas-schliesst-absicht-russlands-nicht-aus](https://www.spiegel.de/politik/tusk-bereitet-sich-auf-verschiedene-szenarien-vor-kallas-schliesst-absicht-russlands-nicht-aus-a-4ea73cbc-4a42-465d-a44d-9a1bee416c4a#ref=rss)
+### tusk
 
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-a-e5507bb9-3cfc-4943-8f03-03441acaaff6#ref=rss)
-* [https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast](https://www.spiegel.de/politik/trump-putin-eu-und-die-ukraine-was-bringen-sanktionen-podcast-a-3ae21e78-7d96-480c-9484-a0af86e41d41#ref=rss)
-### britney
-
-* [https://www.spiegel.de/kultur/musik/britney-spears-anonyme-vorwuerfe-aus-der-familie](https://www.spiegel.de/kultur/musik/britney-spears-anonyme-vorwuerfe-aus-der-familie-a-4bca2309-9cbf-4a63-936e-6fe330b4055d#ref=rss)
-### spears
-
-* [https://www.spiegel.de/kultur/musik/britney-spears-anonyme-vorwuerfe-aus-der-familie](https://www.spiegel.de/kultur/musik/britney-spears-anonyme-vorwuerfe-aus-der-familie-a-4bca2309-9cbf-4a63-936e-6fe330b4055d#ref=rss)
-### familie
-
-* [https://www.spiegel.de/kultur/musik/britney-spears-anonyme-vorwuerfe-aus-der-familie](https://www.spiegel.de/kultur/musik/britney-spears-anonyme-vorwuerfe-aus-der-familie-a-4bca2309-9cbf-4a63-936e-6fe330b4055d#ref=rss)
-* [https://www.spiegel.de/kultur/hollywood-star-ist-an-demenz-erkrankt-emma-heming-willis-veroeffentlicht-buch-ueber-die-pflege-von-bruce-willis](https://www.spiegel.de/kultur/hollywood-star-ist-an-demenz-erkrankt-emma-heming-willis-veroeffentlicht-buch-ueber-die-pflege-von-bruce-willis-a-a3321131-7a7e-446b-8d75-af98a9d28e2f#ref=rss)
-### jugend
-
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-nach-jette-nietzard-wirft-auch-jakob-blasel-hin](https://www.spiegel.de/politik/deutschland/gruene-jugend-nach-jette-nietzard-wirft-auch-jakob-blasel-hin-a-627684aa-86ef-47d4-90d7-e0f3f8169787#ref=rss)
-### jette
-
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-nach-jette-nietzard-wirft-auch-jakob-blasel-hin](https://www.spiegel.de/politik/deutschland/gruene-jugend-nach-jette-nietzard-wirft-auch-jakob-blasel-hin-a-627684aa-86ef-47d4-90d7-e0f3f8169787#ref=rss)
-### nietzard
-
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-nach-jette-nietzard-wirft-auch-jakob-blasel-hin](https://www.spiegel.de/politik/deutschland/gruene-jugend-nach-jette-nietzard-wirft-auch-jakob-blasel-hin-a-627684aa-86ef-47d4-90d7-e0f3f8169787#ref=rss)
-### jakob
-
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-nach-jette-nietzard-wirft-auch-jakob-blasel-hin](https://www.spiegel.de/politik/deutschland/gruene-jugend-nach-jette-nietzard-wirft-auch-jakob-blasel-hin-a-627684aa-86ef-47d4-90d7-e0f3f8169787#ref=rss)
-### blasel
-
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-nach-jette-nietzard-wirft-auch-jakob-blasel-hin](https://www.spiegel.de/politik/deutschland/gruene-jugend-nach-jette-nietzard-wirft-auch-jakob-blasel-hin-a-627684aa-86ef-47d4-90d7-e0f3f8169787#ref=rss)
-### spiegelinformationen
-
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-nach-jette-nietzard-wirft-auch-jakob-blasel-hin](https://www.spiegel.de/politik/deutschland/gruene-jugend-nach-jette-nietzard-wirft-auch-jakob-blasel-hin-a-627684aa-86ef-47d4-90d7-e0f3f8169787#ref=rss)
-* [https://www.spiegel.de/politik/propaganda-aus-russland-und-china-usa-kuendigen-kooperation-bei-bekaempfung-von-desinformation](https://www.spiegel.de/politik/propaganda-aus-russland-und-china-usa-kuendigen-kooperation-bei-bekaempfung-von-desinformation-a-c1178990-4ddf-4849-bd18-37d929c0f864#ref=rss)
-### passiert
-
-* [https://www.spiegel.de/wissenschaft/natur/pilz-vergiftung-das-passiert-bei-einem-verdacht](https://www.spiegel.de/wissenschaft/natur/pilz-vergiftung-das-passiert-bei-einem-verdacht-a-f1cd3c63-ce21-497e-ab21-c1d8ffa095ef#ref=rss)
-### botschafter
-
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel](https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel-a-0b6d6243-e3a0-4c07-a357-ab9ddaca4e29#ref=rss)
-### peter
-
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel](https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel-a-0b6d6243-e3a0-4c07-a357-ab9ddaca4e29#ref=rss)
-### mandelson
-
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel](https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel-a-0b6d6243-e3a0-4c07-a357-ab9ddaca4e29#ref=rss)
-### brief
-
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel](https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel-a-0b6d6243-e3a0-4c07-a357-ab9ddaca4e29#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitbegruender-draengen-auf-trennung-von-unilever-vor-boersengang](https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitbegruender-draengen-auf-trennung-von-unilever-vor-boersengang-a-c5f648e3-deaa-46ac-bb45-537c5b2aa33e#ref=rss)
-### bekommt
-
-* [https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel](https://www.spiegel.de/ausland/fall-jeffrey-epstein-britischer-botschafter-peter-mandelson-bezeichnete-epstein-offenbar-als-besten-kumpel-a-0b6d6243-e3a0-4c07-a357-ab9ddaca4e29#ref=rss)
-* [https://www.spiegel.de/auto/mercedes-chef-bekommt-mercedes-kofferraum-nicht-auf](https://www.spiegel.de/auto/mercedes-chef-bekommt-mercedes-kofferraum-nicht-auf-a-1f51d226-5334-4ab7-845f-e23a1de6f01a#ref=rss)
-### belasten
-
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-waermebildkamera-videos-und-ein-ungewolltes-gestaendnis](https://www.spiegel.de/ausland/der-sniper-von-gaza-waermebildkamera-videos-und-ein-ungewolltes-gestaendnis-a-e6ad1dc3-e468-4bc3-85e7-7d0421dbd211#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben](https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben-a-bc9d61d8-4169-40cb-8d48-075befce0a06#ref=rss)
-### chagaskrankheit
-
-* [https://www.spiegel.de/wissenschaft/medizin/seuchenschutzbehoerde-warnt-vor-ausbreitung-der-chagas-krankheit](https://www.spiegel.de/wissenschaft/medizin/seuchenschutzbehoerde-warnt-vor-ausbreitung-der-chagas-krankheit-a-c5e46267-1a7a-4048-9753-28f079d1afcd#ref=rss)
-### krankheit
-
-* [https://www.spiegel.de/wissenschaft/medizin/seuchenschutzbehoerde-warnt-vor-ausbreitung-der-chagas-krankheit](https://www.spiegel.de/wissenschaft/medizin/seuchenschutzbehoerde-warnt-vor-ausbreitung-der-chagas-krankheit-a-c5e46267-1a7a-4048-9753-28f079d1afcd#ref=rss)
-* [https://www.spiegel.de/kultur/hollywood-star-ist-an-demenz-erkrankt-emma-heming-willis-veroeffentlicht-buch-ueber-die-pflege-von-bruce-willis](https://www.spiegel.de/kultur/hollywood-star-ist-an-demenz-erkrankt-emma-heming-willis-veroeffentlicht-buch-ueber-die-pflege-von-bruce-willis-a-a3321131-7a7e-446b-8d75-af98a9d28e2f#ref=rss)
-### ben
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitbegruender-draengen-auf-trennung-von-unilever-vor-boersengang](https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitbegruender-draengen-auf-trennung-von-unilever-vor-boersengang-a-c5f648e3-deaa-46ac-bb45-537c5b2aa33e#ref=rss)
-### unilever
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitbegruender-draengen-auf-trennung-von-unilever-vor-boersengang](https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitbegruender-draengen-auf-trennung-von-unilever-vor-boersengang-a-c5f648e3-deaa-46ac-bb45-537c5b2aa33e#ref=rss)
-### börsengang
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitbegruender-draengen-auf-trennung-von-unilever-vor-boersengang](https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitbegruender-draengen-auf-trennung-von-unilever-vor-boersengang-a-c5f648e3-deaa-46ac-bb45-537c5b2aa33e#ref=rss)
-### fordern
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitbegruender-draengen-auf-trennung-von-unilever-vor-boersengang](https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitbegruender-draengen-auf-trennung-von-unilever-vor-boersengang-a-c5f648e3-deaa-46ac-bb45-537c5b2aa33e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-wirtschaftsministerin-katherina-reiche-bekraeftigt-forderung-nach-hoeherem-rentenalter](https://www.spiegel.de/wirtschaft/rente-wirtschaftsministerin-katherina-reiche-bekraeftigt-forderung-nach-hoeherem-rentenalter-a-5f4d80e0-12d2-43df-9ccc-5230eab46c8c#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte](https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte-a-bd457d7b-12ac-4ffa-ad2d-32929546d4ec#ref=rss)
-### soldat
-
-* [https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte](https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte-a-bd457d7b-12ac-4ffa-ad2d-32929546d4ec#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben](https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben-a-bc9d61d8-4169-40cb-8d48-075befce0a06#ref=rss)
-### armee
-
-* [https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte](https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte-a-bd457d7b-12ac-4ffa-ad2d-32929546d4ec#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben](https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben-a-bc9d61d8-4169-40cb-8d48-075befce0a06#ref=rss)
-### begangen
-
-* [https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte](https://www.spiegel.de/ausland/wie-der-spiegel-einen-mutmasslichen-kriegsverbrecher-aufspuerte-a-bd457d7b-12ac-4ffa-ad2d-32929546d4ec#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben](https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben-a-bc9d61d8-4169-40cb-8d48-075befce0a06#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/ausland/mutmassliche-kriegsverbrechen-in-gaza-was-sie-ueber-den-scharfschuetzen-aus-bayern-wissen-muessen](https://www.spiegel.de/ausland/mutmassliche-kriegsverbrechen-in-gaza-was-sie-ueber-den-scharfschuetzen-aus-bayern-wissen-muessen-a-f58196ba-8245-4b9e-b4d1-9e9df5952adc#ref=rss)
-* [https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben](https://www.spiegel.de/ausland/der-sniper-von-gaza-israelischer-soldat-aus-muenchen-soll-unbewaffnete-erschossen-haben-a-bc9d61d8-4169-40cb-8d48-075befce0a06#ref=rss)
-### demenz
-
-* [https://www.spiegel.de/kultur/hollywood-star-ist-an-demenz-erkrankt-emma-heming-willis-veroeffentlicht-buch-ueber-die-pflege-von-bruce-willis](https://www.spiegel.de/kultur/hollywood-star-ist-an-demenz-erkrankt-emma-heming-willis-veroeffentlicht-buch-ueber-die-pflege-von-bruce-willis-a-a3321131-7a7e-446b-8d75-af98a9d28e2f#ref=rss)
-### erkrankt
-
-* [https://www.spiegel.de/kultur/hollywood-star-ist-an-demenz-erkrankt-emma-heming-willis-veroeffentlicht-buch-ueber-die-pflege-von-bruce-willis](https://www.spiegel.de/kultur/hollywood-star-ist-an-demenz-erkrankt-emma-heming-willis-veroeffentlicht-buch-ueber-die-pflege-von-bruce-willis-a-a3321131-7a7e-446b-8d75-af98a9d28e2f#ref=rss)
-### bruce
-
-* [https://www.spiegel.de/kultur/hollywood-star-ist-an-demenz-erkrankt-emma-heming-willis-veroeffentlicht-buch-ueber-die-pflege-von-bruce-willis](https://www.spiegel.de/kultur/hollywood-star-ist-an-demenz-erkrankt-emma-heming-willis-veroeffentlicht-buch-ueber-die-pflege-von-bruce-willis-a-a3321131-7a7e-446b-8d75-af98a9d28e2f#ref=rss)
-### wirtschaftsministerin
-
-* [https://www.spiegel.de/wirtschaft/rente-wirtschaftsministerin-katherina-reiche-bekraeftigt-forderung-nach-hoeherem-rentenalter](https://www.spiegel.de/wirtschaft/rente-wirtschaftsministerin-katherina-reiche-bekraeftigt-forderung-nach-hoeherem-rentenalter-a-5f4d80e0-12d2-43df-9ccc-5230eab46c8c#ref=rss)
-### katherina
-
-* [https://www.spiegel.de/wirtschaft/rente-wirtschaftsministerin-katherina-reiche-bekraeftigt-forderung-nach-hoeherem-rentenalter](https://www.spiegel.de/wirtschaft/rente-wirtschaftsministerin-katherina-reiche-bekraeftigt-forderung-nach-hoeherem-rentenalter-a-5f4d80e0-12d2-43df-9ccc-5230eab46c8c#ref=rss)
-### anastacia
-
-* [https://www.spiegel.de/panorama/leute/anastacia-arnold-schwarzenegger-wuenschte-sich-whatta-man-zwoelfmal](https://www.spiegel.de/panorama/leute/anastacia-arnold-schwarzenegger-wuenschte-sich-whatta-man-zwoelfmal-a-9cd0369b-39d0-4984-a112-74fc737a487f#ref=rss)
-### arnold
-
-* [https://www.spiegel.de/panorama/leute/anastacia-arnold-schwarzenegger-wuenschte-sich-whatta-man-zwoelfmal](https://www.spiegel.de/panorama/leute/anastacia-arnold-schwarzenegger-wuenschte-sich-whatta-man-zwoelfmal-a-9cd0369b-39d0-4984-a112-74fc737a487f#ref=rss)
-### schwarzenegger
-
-* [https://www.spiegel.de/panorama/leute/anastacia-arnold-schwarzenegger-wuenschte-sich-whatta-man-zwoelfmal](https://www.spiegel.de/panorama/leute/anastacia-arnold-schwarzenegger-wuenschte-sich-whatta-man-zwoelfmal-a-9cd0369b-39d0-4984-a112-74fc737a487f#ref=rss)
-### whatta
-
-* [https://www.spiegel.de/panorama/leute/anastacia-arnold-schwarzenegger-wuenschte-sich-whatta-man-zwoelfmal](https://www.spiegel.de/panorama/leute/anastacia-arnold-schwarzenegger-wuenschte-sich-whatta-man-zwoelfmal-a-9cd0369b-39d0-4984-a112-74fc737a487f#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-baut-eine-oligarchen-herrschaft-wladimir-putin-als-vorbild](https://www.spiegel.de/wirtschaft/donald-trump-baut-eine-oligarchen-herrschaft-wladimir-putin-als-vorbild-a-a04c36ef-3b1b-4725-b914-84be22f7547d#ref=rss)
+* [https://www.spiegel.de/politik/tusk-bereitet-sich-auf-verschiedene-szenarien-vor-kallas-schliesst-absicht-russlands-nicht-aus](https://www.spiegel.de/politik/tusk-bereitet-sich-auf-verschiedene-szenarien-vor-kallas-schliesst-absicht-russlands-nicht-aus-a-4ea73cbc-4a42-465d-a44d-9a1bee416c4a#ref=rss)
 
