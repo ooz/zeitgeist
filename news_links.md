@@ -4,321 +4,361 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### zeigt
+### drohnen
 
-* [https://www.spiegel.de/auto/iaa-autodesign-zeigt-wieder-klare-linien-und-soll-vertrauen-schaffen](https://www.spiegel.de/auto/iaa-autodesign-zeigt-wieder-klare-linien-und-soll-vertrauen-schaffen-a-dbbce927-3a58-4195-8f8c-289c09012936#ref=rss)
-* [https://www.spiegel.de/wissenschaft/herne-phallus-in-frauenkloster-entdeckt-ausstellung-zeigt-skurriles-geschirr](https://www.spiegel.de/wissenschaft/herne-phallus-in-frauenkloster-entdeckt-ausstellung-zeigt-skurriles-geschirr-a-cef90a47-c4e9-4957-b4da-0bd8dfa8e5b6#ref=rss)
-* [https://www.spiegel.de/start/altersvorsorge-generation-z-sorgt-selbst-fuer-das-alter-vor-und-misstraut-gesetzlicher-rente](https://www.spiegel.de/start/altersvorsorge-generation-z-sorgt-selbst-fuer-das-alter-vor-und-misstraut-gesetzlicher-rente-a-077fe436-4361-4530-a76f-2638770a66a0#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-em-franz-wagner-ist-der-mann-der-das-deutsche-team-jetzt-traegt](https://www.spiegel.de/sport/basketball/basketball-em-franz-wagner-ist-der-mann-der-das-deutsche-team-jetzt-traegt-a-69b20f1c-6597-4b7a-abe7-f30dddc9a763#ref=rss)
-* [https://www.spiegel.de/wirtschaft/altersarmut-und-grundsicherung-42-prozent-der-rentner-bekommen-weniger-als-1000-euro-im-monat](https://www.spiegel.de/wirtschaft/altersarmut-und-grundsicherung-42-prozent-der-rentner-bekommen-weniger-als-1000-euro-im-monat-a-97574bd7-52fc-4eb7-ac76-702c8ed4fe1a#ref=rss)
-### ausbau
-
-* [https://www.spiegel.de/auto/a100-in-berlin-der-ausbau-ist-fertig-die-anwohner-sind-wuetend-und-wehren-sich](https://www.spiegel.de/auto/a100-in-berlin-der-ausbau-ist-fertig-die-anwohner-sind-wuetend-und-wehren-sich-a-16610550-2721-4d09-b83f-3bdb11f52f05#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-deutet-langsameres-tempo-beim-ausbau-erneuerbarer-energien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-deutet-langsameres-tempo-beim-ausbau-erneuerbarer-energien-an-a-1066165e-91fc-4004-881c-e10e3241afd7#ref=rss)
-### neue
-
-* [https://www.spiegel.de/auto/a100-in-berlin-der-ausbau-ist-fertig-die-anwohner-sind-wuetend-und-wehren-sich](https://www.spiegel.de/auto/a100-in-berlin-der-ausbau-ist-fertig-die-anwohner-sind-wuetend-und-wehren-sich-a-16610550-2721-4d09-b83f-3bdb11f52f05#ref=rss)
-* [https://www.spiegel.de/panorama/rheinland-pfalz-ermoeglicht-neue-formen-der-bestattung](https://www.spiegel.de/panorama/rheinland-pfalz-ermoeglicht-neue-formen-der-bestattung-a-6d6e18e9-3ef5-4f82-92d2-d84e9fc70fc8#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-em-franz-wagner-ist-der-mann-der-das-deutsche-team-jetzt-traegt](https://www.spiegel.de/sport/basketball/basketball-em-franz-wagner-ist-der-mann-der-das-deutsche-team-jetzt-traegt-a-69b20f1c-6597-4b7a-abe7-f30dddc9a763#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/mexiko-will-zoelle-fuer-autos-aus-china-drastisch-erhoehen](https://www.spiegel.de/wirtschaft/mexiko-will-zoelle-fuer-autos-aus-china-drastisch-erhoehen-a-69896b8a-ca47-4c7d-bca3-e731603bc9a6#ref=rss)
-* [https://www.spiegel.de/ausland/britischer-botschafter-peter-mandelson-in-den-usa-wegen-schreiben-an-epstein-abgesetzt](https://www.spiegel.de/ausland/britischer-botschafter-peter-mandelson-in-den-usa-wegen-schreiben-an-epstein-abgesetzt-a-b5c0f487-9864-40da-8bd6-175b620cb3d1#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/panorama/rheinland-pfalz-ermoeglicht-neue-formen-der-bestattung](https://www.spiegel.de/panorama/rheinland-pfalz-ermoeglicht-neue-formen-der-bestattung-a-6d6e18e9-3ef5-4f82-92d2-d84e9fc70fc8#ref=rss)
-* [https://www.spiegel.de/start/startklar-newsletter-in-welchen-jobs-verdiene-ich-ohne-studium-das-meiste-geld](https://www.spiegel.de/start/startklar-newsletter-in-welchen-jobs-verdiene-ich-ohne-studium-das-meiste-geld-a-bb05605e-33af-409a-b00d-f8d02745d2ad#ref=rss)
-### rente
-
-* [https://www.spiegel.de/start/altersvorsorge-generation-z-sorgt-selbst-fuer-das-alter-vor-und-misstraut-gesetzlicher-rente](https://www.spiegel.de/start/altersvorsorge-generation-z-sorgt-selbst-fuer-das-alter-vor-und-misstraut-gesetzlicher-rente-a-077fe436-4361-4530-a76f-2638770a66a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/altersarmut-und-grundsicherung-42-prozent-der-rentner-bekommen-weniger-als-1000-euro-im-monat](https://www.spiegel.de/wirtschaft/altersarmut-und-grundsicherung-42-prozent-der-rentner-bekommen-weniger-als-1000-euro-im-monat-a-97574bd7-52fc-4eb7-ac76-702c8ed4fe1a#ref=rss)
-### team
-
-* [https://www.spiegel.de/sport/fussball/paul-kalkbrenner-berliner-fuenftligist-benennt-stadion-nach-techno-dj](https://www.spiegel.de/sport/fussball/paul-kalkbrenner-berliner-fuenftligist-benennt-stadion-nach-techno-dj-a-4964bfbf-60c7-46cd-a16b-c1326317f3ba#ref=rss)
-* [https://www.spiegel.de/sport/radsport/vuelta-proteste-gegen-israelisches-radteam-bei-der-spanienrundfahrt](https://www.spiegel.de/sport/radsport/vuelta-proteste-gegen-israelisches-radteam-bei-der-spanienrundfahrt-a-a689d622-7072-44f9-bc24-a65dbb9574f2#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-em-franz-wagner-ist-der-mann-der-das-deutsche-team-jetzt-traegt](https://www.spiegel.de/sport/basketball/basketball-em-franz-wagner-ist-der-mann-der-das-deutsche-team-jetzt-traegt-a-69b20f1c-6597-4b7a-abe7-f30dddc9a763#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-deutet-langsameres-tempo-beim-ausbau-erneuerbarer-energien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-deutet-langsameres-tempo-beim-ausbau-erneuerbarer-energien-an-a-1066165e-91fc-4004-881c-e10e3241afd7#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-em-franz-wagner-ist-der-mann-der-das-deutsche-team-jetzt-traegt](https://www.spiegel.de/sport/basketball/basketball-em-franz-wagner-ist-der-mann-der-das-deutsche-team-jetzt-traegt-a-69b20f1c-6597-4b7a-abe7-f30dddc9a763#ref=rss)
-* [https://www.spiegel.de/wissenschaft/candidozyma-auris-infektioeser-pilz-breitet-sich-in-europa-aus-wie-gefaehrlich-ist-das](https://www.spiegel.de/wissenschaft/candidozyma-auris-infektioeser-pilz-breitet-sich-in-europa-aus-wie-gefaehrlich-ist-das-a-351870a8-6541-482c-b410-eaec8c51777f#ref=rss)
-### schwimmen
-
-* [https://www.spiegel.de/panorama/rom-im-tiber-soll-man-wieder-schwimmen-koennen](https://www.spiegel.de/panorama/rom-im-tiber-soll-man-wieder-schwimmen-koennen-a-c3e2d0e8-5784-4f71-be28-d393c87d6a79#ref=rss)
-* [https://www.spiegel.de/sport/enhanced-games-britischer-schwimmer-ben-proud-kuendigt-teilnahme-an](https://www.spiegel.de/sport/enhanced-games-britischer-schwimmer-ben-proud-kuendigt-teilnahme-an-a-ae1b3069-4075-4df3-babb-39f5c2bb05b3#ref=rss)
-### studium
-
-* [https://www.spiegel.de/start/startklar-newsletter-in-welchen-jobs-verdiene-ich-ohne-studium-das-meiste-geld](https://www.spiegel.de/start/startklar-newsletter-in-welchen-jobs-verdiene-ich-ohne-studium-das-meiste-geld-a-bb05605e-33af-409a-b00d-f8d02745d2ad#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/polen-richtet-flugverbotszone-im-osten-des-landes-ein](https://www.spiegel.de/ausland/polen-richtet-flugverbotszone-im-osten-des-landes-ein-a-482c5155-65d2-4c83-9e9d-80e3e2a24aa2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/candidozyma-auris-infektioeser-pilz-breitet-sich-in-europa-aus-wie-gefaehrlich-ist-das](https://www.spiegel.de/wissenschaft/candidozyma-auris-infektioeser-pilz-breitet-sich-in-europa-aus-wie-gefaehrlich-ist-das-a-351870a8-6541-482c-b410-eaec8c51777f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/firmenpleiten-zahl-der-insolvenzen-steigt-weiter-an](https://www.spiegel.de/wirtschaft/firmenpleiten-zahl-der-insolvenzen-steigt-weiter-an-a-5b255d23-3bbd-4cef-9461-b539f5691932#ref=rss)
-### krah
-
-* [https://www.spiegel.de/politik/maximilian-krah-bundestag-hebt-immunitaet-des-afd-politikers-auf](https://www.spiegel.de/politik/maximilian-krah-bundestag-hebt-immunitaet-des-afd-politikers-auf-a-d36f20f5-2fa8-42ab-955a-2e345367190c#ref=rss)
-### a100
-
-* [https://www.spiegel.de/auto/a100-in-berlin-der-ausbau-ist-fertig-die-anwohner-sind-wuetend-und-wehren-sich](https://www.spiegel.de/auto/a100-in-berlin-der-ausbau-ist-fertig-die-anwohner-sind-wuetend-und-wehren-sich-a-16610550-2721-4d09-b83f-3bdb11f52f05#ref=rss)
-### wütend
-
-* [https://www.spiegel.de/auto/a100-in-berlin-der-ausbau-ist-fertig-die-anwohner-sind-wuetend-und-wehren-sich](https://www.spiegel.de/auto/a100-in-berlin-der-ausbau-ist-fertig-die-anwohner-sind-wuetend-und-wehren-sich-a-16610550-2721-4d09-b83f-3bdb11f52f05#ref=rss)
-### wehren
-
-* [https://www.spiegel.de/auto/a100-in-berlin-der-ausbau-ist-fertig-die-anwohner-sind-wuetend-und-wehren-sich](https://www.spiegel.de/auto/a100-in-berlin-der-ausbau-ist-fertig-die-anwohner-sind-wuetend-und-wehren-sich-a-16610550-2721-4d09-b83f-3bdb11f52f05#ref=rss)
-### klare
-
-* [https://www.spiegel.de/auto/iaa-autodesign-zeigt-wieder-klare-linien-und-soll-vertrauen-schaffen](https://www.spiegel.de/auto/iaa-autodesign-zeigt-wieder-klare-linien-und-soll-vertrauen-schaffen-a-dbbce927-3a58-4195-8f8c-289c09012936#ref=rss)
-### linien
-
-* [https://www.spiegel.de/auto/iaa-autodesign-zeigt-wieder-klare-linien-und-soll-vertrauen-schaffen](https://www.spiegel.de/auto/iaa-autodesign-zeigt-wieder-klare-linien-und-soll-vertrauen-schaffen-a-dbbce927-3a58-4195-8f8c-289c09012936#ref=rss)
-### vertrauen
-
-* [https://www.spiegel.de/auto/iaa-autodesign-zeigt-wieder-klare-linien-und-soll-vertrauen-schaffen](https://www.spiegel.de/auto/iaa-autodesign-zeigt-wieder-klare-linien-und-soll-vertrauen-schaffen-a-dbbce927-3a58-4195-8f8c-289c09012936#ref=rss)
-### formen
-
-* [https://www.spiegel.de/auto/iaa-autodesign-zeigt-wieder-klare-linien-und-soll-vertrauen-schaffen](https://www.spiegel.de/auto/iaa-autodesign-zeigt-wieder-klare-linien-und-soll-vertrauen-schaffen-a-dbbce927-3a58-4195-8f8c-289c09012936#ref=rss)
-* [https://www.spiegel.de/panorama/rheinland-pfalz-ermoeglicht-neue-formen-der-bestattung](https://www.spiegel.de/panorama/rheinland-pfalz-ermoeglicht-neue-formen-der-bestattung-a-6d6e18e9-3ef5-4f82-92d2-d84e9fc70fc8#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/gesundheit/diagnose/adipositas-bei-kindern-wie-verhindert-man-dass-kinder-dick-werden](https://www.spiegel.de/gesundheit/diagnose/adipositas-bei-kindern-wie-verhindert-man-dass-kinder-dick-werden-a-bbcb0895-4940-4ac5-9fdb-3a2b2744dc98#ref=rss)
-### weltweit
-
-* [https://www.spiegel.de/gesundheit/diagnose/adipositas-bei-kindern-wie-verhindert-man-dass-kinder-dick-werden](https://www.spiegel.de/gesundheit/diagnose/adipositas-bei-kindern-wie-verhindert-man-dass-kinder-dick-werden-a-bbcb0895-4940-4ac5-9fdb-3a2b2744dc98#ref=rss)
-* [https://www.spiegel.de/sport/fussball/paul-kalkbrenner-berliner-fuenftligist-benennt-stadion-nach-techno-dj](https://www.spiegel.de/sport/fussball/paul-kalkbrenner-berliner-fuenftligist-benennt-stadion-nach-techno-dj-a-4964bfbf-60c7-46cd-a16b-c1326317f3ba#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/mexiko-will-zoelle-fuer-autos-aus-china-drastisch-erhoehen](https://www.spiegel.de/wirtschaft/mexiko-will-zoelle-fuer-autos-aus-china-drastisch-erhoehen-a-69896b8a-ca47-4c7d-bca3-e731603bc9a6#ref=rss)
-* [https://www.spiegel.de/politik/maximilian-krah-bundestag-hebt-immunitaet-des-afd-politikers-auf](https://www.spiegel.de/politik/maximilian-krah-bundestag-hebt-immunitaet-des-afd-politikers-auf-a-d36f20f5-2fa8-42ab-955a-2e345367190c#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/mexiko-will-zoelle-fuer-autos-aus-china-drastisch-erhoehen](https://www.spiegel.de/wirtschaft/mexiko-will-zoelle-fuer-autos-aus-china-drastisch-erhoehen-a-69896b8a-ca47-4c7d-bca3-e731603bc9a6#ref=rss)
-* [https://www.spiegel.de/ausland/britischer-botschafter-peter-mandelson-in-den-usa-wegen-schreiben-an-epstein-abgesetzt](https://www.spiegel.de/ausland/britischer-botschafter-peter-mandelson-in-den-usa-wegen-schreiben-an-epstein-abgesetzt-a-b5c0f487-9864-40da-8bd6-175b620cb3d1#ref=rss)
-### plant
-
-* [https://www.spiegel.de/wirtschaft/mexiko-will-zoelle-fuer-autos-aus-china-drastisch-erhoehen](https://www.spiegel.de/wirtschaft/mexiko-will-zoelle-fuer-autos-aus-china-drastisch-erhoehen-a-69896b8a-ca47-4c7d-bca3-e731603bc9a6#ref=rss)
-* [https://www.spiegel.de/ausland/11-september-2001-donald-trump-plant-verstaatlichung-der-new-yorker-gedenkstaette-9-11](https://www.spiegel.de/ausland/11-september-2001-donald-trump-plant-verstaatlichung-der-new-yorker-gedenkstaette-9-11-a-d796916e-1e33-483f-8ce5-cbfa01495537#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/wirtschaft/mexiko-will-zoelle-fuer-autos-aus-china-drastisch-erhoehen](https://www.spiegel.de/wirtschaft/mexiko-will-zoelle-fuer-autos-aus-china-drastisch-erhoehen-a-69896b8a-ca47-4c7d-bca3-e731603bc9a6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ruestungsprojekte-griechenland-lockt-ruestungsindustrie-mit-null-steuern](https://www.spiegel.de/wirtschaft/ruestungsprojekte-griechenland-lockt-ruestungsindustrie-mit-null-steuern-a-e6a4f292-7fce-49cb-b08c-cb37ed8062f2#ref=rss)
-### rheinlandpfalz
-
-* [https://www.spiegel.de/panorama/rheinland-pfalz-ermoeglicht-neue-formen-der-bestattung](https://www.spiegel.de/panorama/rheinland-pfalz-ermoeglicht-neue-formen-der-bestattung-a-6d6e18e9-3ef5-4f82-92d2-d84e9fc70fc8#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/panorama/rheinland-pfalz-ermoeglicht-neue-formen-der-bestattung](https://www.spiegel.de/panorama/rheinland-pfalz-ermoeglicht-neue-formen-der-bestattung-a-6d6e18e9-3ef5-4f82-92d2-d84e9fc70fc8#ref=rss)
-* [https://www.spiegel.de/start/startklar-newsletter-in-welchen-jobs-verdiene-ich-ohne-studium-das-meiste-geld](https://www.spiegel.de/start/startklar-newsletter-in-welchen-jobs-verdiene-ich-ohne-studium-das-meiste-geld-a-bb05605e-33af-409a-b00d-f8d02745d2ad#ref=rss)
-### britischer
-
-* [https://www.spiegel.de/ausland/britischer-botschafter-peter-mandelson-in-den-usa-wegen-schreiben-an-epstein-abgesetzt](https://www.spiegel.de/ausland/britischer-botschafter-peter-mandelson-in-den-usa-wegen-schreiben-an-epstein-abgesetzt-a-b5c0f487-9864-40da-8bd6-175b620cb3d1#ref=rss)
-* [https://www.spiegel.de/sport/enhanced-games-britischer-schwimmer-ben-proud-kuendigt-teilnahme-an](https://www.spiegel.de/sport/enhanced-games-britischer-schwimmer-ben-proud-kuendigt-teilnahme-an-a-ae1b3069-4075-4df3-babb-39f5c2bb05b3#ref=rss)
-### botschafter
-
-* [https://www.spiegel.de/ausland/britischer-botschafter-peter-mandelson-in-den-usa-wegen-schreiben-an-epstein-abgesetzt](https://www.spiegel.de/ausland/britischer-botschafter-peter-mandelson-in-den-usa-wegen-schreiben-an-epstein-abgesetzt-a-b5c0f487-9864-40da-8bd6-175b620cb3d1#ref=rss)
-### peter
-
-* [https://www.spiegel.de/ausland/britischer-botschafter-peter-mandelson-in-den-usa-wegen-schreiben-an-epstein-abgesetzt](https://www.spiegel.de/ausland/britischer-botschafter-peter-mandelson-in-den-usa-wegen-schreiben-an-epstein-abgesetzt-a-b5c0f487-9864-40da-8bd6-175b620cb3d1#ref=rss)
-### mandelson
-
-* [https://www.spiegel.de/ausland/britischer-botschafter-peter-mandelson-in-den-usa-wegen-schreiben-an-epstein-abgesetzt](https://www.spiegel.de/ausland/britischer-botschafter-peter-mandelson-in-den-usa-wegen-schreiben-an-epstein-abgesetzt-a-b5c0f487-9864-40da-8bd6-175b620cb3d1#ref=rss)
-### epstein
-
-* [https://www.spiegel.de/ausland/britischer-botschafter-peter-mandelson-in-den-usa-wegen-schreiben-an-epstein-abgesetzt](https://www.spiegel.de/ausland/britischer-botschafter-peter-mandelson-in-den-usa-wegen-schreiben-an-epstein-abgesetzt-a-b5c0f487-9864-40da-8bd6-175b620cb3d1#ref=rss)
-### britische
-
-* [https://www.spiegel.de/ausland/britischer-botschafter-peter-mandelson-in-den-usa-wegen-schreiben-an-epstein-abgesetzt](https://www.spiegel.de/ausland/britischer-botschafter-peter-mandelson-in-den-usa-wegen-schreiben-an-epstein-abgesetzt-a-b5c0f487-9864-40da-8bd6-175b620cb3d1#ref=rss)
-* [https://www.spiegel.de/sport/enhanced-games-britischer-schwimmer-ben-proud-kuendigt-teilnahme-an](https://www.spiegel.de/sport/enhanced-games-britischer-schwimmer-ben-proud-kuendigt-teilnahme-an-a-ae1b3069-4075-4df3-babb-39f5c2bb05b3#ref=rss)
-### ausstellung
-
-* [https://www.spiegel.de/wissenschaft/herne-phallus-in-frauenkloster-entdeckt-ausstellung-zeigt-skurriles-geschirr](https://www.spiegel.de/wissenschaft/herne-phallus-in-frauenkloster-entdeckt-ausstellung-zeigt-skurriles-geschirr-a-cef90a47-c4e9-4957-b4da-0bd8dfa8e5b6#ref=rss)
-### geschirr
-
-* [https://www.spiegel.de/wissenschaft/herne-phallus-in-frauenkloster-entdeckt-ausstellung-zeigt-skurriles-geschirr](https://www.spiegel.de/wissenschaft/herne-phallus-in-frauenkloster-entdeckt-ausstellung-zeigt-skurriles-geschirr-a-cef90a47-c4e9-4957-b4da-0bd8dfa8e5b6#ref=rss)
-### charlie
-
-* [https://www.spiegel.de/ausland/charlie-kirk-us-ermittler-fahnden-in-utah-weiter-nach-attentaeter](https://www.spiegel.de/ausland/charlie-kirk-us-ermittler-fahnden-in-utah-weiter-nach-attentaeter-a-bbac3614-3029-4a8c-afd8-8c02a4478753#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+* [https://www.spiegel.de/ausland/drohnen-aus-russland-ueber-polen-wir-sollten-uns-nicht-duemmer-stellen-als-wir-sind](https://www.spiegel.de/ausland/drohnen-aus-russland-ueber-polen-wir-sollten-uns-nicht-duemmer-stellen-als-wir-sind-a-984d7c57-75d1-4152-ab9d-ec614c352dbc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen](https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen-a-930ed372-c6bc-44aa-b697-6761a059ef4a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-deutschland-will-engagement-an-nato-ostgrenze-verstaerken](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-deutschland-will-engagement-an-nato-ostgrenze-verstaerken-a-ac8ee672-8160-4177-b41d-598e65ed6509#ref=rss)
 ### kirk
 
-* [https://www.spiegel.de/ausland/charlie-kirk-us-ermittler-fahnden-in-utah-weiter-nach-attentaeter](https://www.spiegel.de/ausland/charlie-kirk-us-ermittler-fahnden-in-utah-weiter-nach-attentaeter-a-bbac3614-3029-4a8c-afd8-8c02a4478753#ref=rss)
-### altersvorsorge
+* [https://www.spiegel.de/ausland/charlie-kirk-alles-deutet-auf-einen-professionell-geplanten-mord-hin](https://www.spiegel.de/ausland/charlie-kirk-alles-deutet-auf-einen-professionell-geplanten-mord-hin-a-ad7b60ae-be69-42cc-b8c7-4f31f82d7812#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-ermittler-melden-fund-der-tatwaffe-donald-trump-will-kirk-medaille-verleihen](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-ermittler-melden-fund-der-tatwaffe-donald-trump-will-kirk-medaille-verleihen-a-c52d30ac-b287-41dd-883d-e1f0f4523639#ref=rss)
+### polen
 
-* [https://www.spiegel.de/start/altersvorsorge-generation-z-sorgt-selbst-fuer-das-alter-vor-und-misstraut-gesetzlicher-rente](https://www.spiegel.de/start/altersvorsorge-generation-z-sorgt-selbst-fuer-das-alter-vor-und-misstraut-gesetzlicher-rente-a-077fe436-4361-4530-a76f-2638770a66a0#ref=rss)
-### leben
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+* [https://www.spiegel.de/ausland/drohnen-aus-russland-ueber-polen-wir-sollten-uns-nicht-duemmer-stellen-als-wir-sind](https://www.spiegel.de/ausland/drohnen-aus-russland-ueber-polen-wir-sollten-uns-nicht-duemmer-stellen-als-wir-sind-a-984d7c57-75d1-4152-ab9d-ec614c352dbc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-deutschland-will-engagement-an-nato-ostgrenze-verstaerken](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-deutschland-will-engagement-an-nato-ostgrenze-verstaerken-a-ac8ee672-8160-4177-b41d-598e65ed6509#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/start/altersvorsorge-generation-z-sorgt-selbst-fuer-das-alter-vor-und-misstraut-gesetzlicher-rente](https://www.spiegel.de/start/altersvorsorge-generation-z-sorgt-selbst-fuer-das-alter-vor-und-misstraut-gesetzlicher-rente-a-077fe436-4361-4530-a76f-2638770a66a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/buergergeld-krankenkassen-planen-milliardenklage-gegen-den-bund](https://www.spiegel.de/wirtschaft/buergergeld-krankenkassen-planen-milliardenklage-gegen-den-bund-a-991b80c3-dd3d-4c7e-a7b1-6b61c0bb96c4#ref=rss)
-### altersarmut
+* [https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-will-dass-seine-zukuenftigen-kinder-sich-vom-fussball-fernhalten](https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-will-dass-seine-zukuenftigen-kinder-sich-vom-fussball-fernhalten-a-2e589d6d-7ae4-4517-85f6-281e59e0ae39#ref=rss)
+* [https://www.spiegel.de/deinspiegel/tod-des-haustiers-wie-kinder-und-familien-mit-dem-verlust-umgehen-koennen](https://www.spiegel.de/deinspiegel/tod-des-haustiers-wie-kinder-und-familien-mit-dem-verlust-umgehen-koennen-a-6d5ac1fd-1678-4fe0-a1a7-c55ded873f7d#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-kinder-als-geiseln-im-assad-regime-versteckt-in-waisenhaeusern](https://www.spiegel.de/ausland/syrien-kinder-als-geiseln-im-assad-regime-versteckt-in-waisenhaeusern-a-cda0b9a2-558c-470d-b882-8c1d9a79d9cc#ref=rss)
+### neue
 
-* [https://www.spiegel.de/start/altersvorsorge-generation-z-sorgt-selbst-fuer-das-alter-vor-und-misstraut-gesetzlicher-rente](https://www.spiegel.de/start/altersvorsorge-generation-z-sorgt-selbst-fuer-das-alter-vor-und-misstraut-gesetzlicher-rente-a-077fe436-4361-4530-a76f-2638770a66a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/altersarmut-und-grundsicherung-42-prozent-der-rentner-bekommen-weniger-als-1000-euro-im-monat](https://www.spiegel.de/wirtschaft/altersarmut-und-grundsicherung-42-prozent-der-rentner-bekommen-weniger-als-1000-euro-im-monat-a-97574bd7-52fc-4eb7-ac76-702c8ed4fe1a#ref=rss)
-### viele
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-warum-die-koalition-auch-mit-dieser-richterwahl-ins-risiko-geht](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-warum-die-koalition-auch-mit-dieser-richterwahl-ins-risiko-geht-a-4d1174a6-0c70-4c63-b9f4-861b8c85cdd3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-neue-vorwuerfe-wegen-unbezahlter-rechnungen-in-oesterreich](https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-neue-vorwuerfe-wegen-unbezahlter-rechnungen-in-oesterreich-a-59460418-0791-4531-a173-78035833055a#ref=rss)
+* [https://www.spiegel.de/ausland/slowakei-stellt-bedingungen-fuer-neue-eu-sanktionen-gegen-russland](https://www.spiegel.de/ausland/slowakei-stellt-bedingungen-fuer-neue-eu-sanktionen-gegen-russland-a-36329757-1b50-4221-964d-74f5a13361a6#ref=rss)
+* [https://www.spiegel.de/politik/trotz-kritik-vom-bauernverband-agrarminister-alois-rainer-csu-streicht-programm-fuer-den-umbau-von-schweinestaellen](https://www.spiegel.de/politik/trotz-kritik-vom-bauernverband-agrarminister-alois-rainer-csu-streicht-programm-fuer-den-umbau-von-schweinestaellen-a-3514c5bf-e7ce-4612-a928-20267c235e25#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/start/altersvorsorge-generation-z-sorgt-selbst-fuer-das-alter-vor-und-misstraut-gesetzlicher-rente](https://www.spiegel.de/start/altersvorsorge-generation-z-sorgt-selbst-fuer-das-alter-vor-und-misstraut-gesetzlicher-rente-a-077fe436-4361-4530-a76f-2638770a66a0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/triggerwarnungen-ein-psychologe-erklaert-warum-sie-nicht-immer-sinnvoll-sind](https://www.spiegel.de/wissenschaft/mensch/triggerwarnungen-ein-psychologe-erklaert-warum-sie-nicht-immer-sinnvoll-sind-a-54ed5c29-17b6-4b2e-a9fa-569125e37ee2#ref=rss)
-### griechenland
+* [https://www.spiegel.de/panorama/leute/zdf-serie-traumschiff-collien-fernandes-darf-bald-flirten](https://www.spiegel.de/panorama/leute/zdf-serie-traumschiff-collien-fernandes-darf-bald-flirten-a-c08fa1cf-8d82-475c-b8c7-0a64063cfb24#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-neue-vorwuerfe-wegen-unbezahlter-rechnungen-in-oesterreich](https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-neue-vorwuerfe-wegen-unbezahlter-rechnungen-in-oesterreich-a-59460418-0791-4531-a173-78035833055a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rosenheim-frau-kotet-polizist-ans-bein](https://www.spiegel.de/panorama/justiz/rosenheim-frau-kotet-polizist-ans-bein-a-16d71275-8d3f-443e-8213-feb2ea8d98e3#ref=rss)
+* [https://www.spiegel.de/panorama/jens-spahn-kpmg-bericht-wirft-bund-schwere-versaeumnisse-bei-maskenbeschaffung-vor](https://www.spiegel.de/panorama/jens-spahn-kpmg-bericht-wirft-bund-schwere-versaeumnisse-bei-maskenbeschaffung-vor-a-6a4dfa26-f7c5-42e7-8d42-4069ebc7b0e2#ref=rss)
+### charlie
 
-* [https://www.spiegel.de/wirtschaft/ruestungsprojekte-griechenland-lockt-ruestungsindustrie-mit-null-steuern](https://www.spiegel.de/wirtschaft/ruestungsprojekte-griechenland-lockt-ruestungsindustrie-mit-null-steuern-a-e6a4f292-7fce-49cb-b08c-cb37ed8062f2#ref=rss)
-### berliner
+* [https://www.spiegel.de/ausland/charlie-kirk-alles-deutet-auf-einen-professionell-geplanten-mord-hin](https://www.spiegel.de/ausland/charlie-kirk-alles-deutet-auf-einen-professionell-geplanten-mord-hin-a-ad7b60ae-be69-42cc-b8c7-4f31f82d7812#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-ermittler-melden-fund-der-tatwaffe-donald-trump-will-kirk-medaille-verleihen](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-ermittler-melden-fund-der-tatwaffe-donald-trump-will-kirk-medaille-verleihen-a-c52d30ac-b287-41dd-883d-e1f0f4523639#ref=rss)
+### gut
 
-* [https://www.spiegel.de/sport/fussball/paul-kalkbrenner-berliner-fuenftligist-benennt-stadion-nach-techno-dj](https://www.spiegel.de/sport/fussball/paul-kalkbrenner-berliner-fuenftligist-benennt-stadion-nach-techno-dj-a-4964bfbf-60c7-46cd-a16b-c1326317f3ba#ref=rss)
-### technodj
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/fussball/paul-kalkbrenner-berliner-fuenftligist-benennt-stadion-nach-techno-dj](https://www.spiegel.de/sport/fussball/paul-kalkbrenner-berliner-fuenftligist-benennt-stadion-nach-techno-dj-a-4964bfbf-60c7-46cd-a16b-c1326317f3ba#ref=rss)
-### bald
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-deutschland-will-engagement-an-nato-ostgrenze-verstaerken](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-deutschland-will-engagement-an-nato-ostgrenze-verstaerken-a-ac8ee672-8160-4177-b41d-598e65ed6509#ref=rss)
+### nato
 
-* [https://www.spiegel.de/sport/fussball/paul-kalkbrenner-berliner-fuenftligist-benennt-stadion-nach-techno-dj](https://www.spiegel.de/sport/fussball/paul-kalkbrenner-berliner-fuenftligist-benennt-stadion-nach-techno-dj-a-4964bfbf-60c7-46cd-a16b-c1326317f3ba#ref=rss)
-* [https://www.spiegel.de/wirtschaft/buergergeld-krankenkassen-planen-milliardenklage-gegen-den-bund](https://www.spiegel.de/wirtschaft/buergergeld-krankenkassen-planen-milliardenklage-gegen-den-bund-a-991b80c3-dd3d-4c7e-a7b1-6b61c0bb96c4#ref=rss)
-### friedrich
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+### usa
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-deutet-langsameres-tempo-beim-ausbau-erneuerbarer-energien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-deutet-langsameres-tempo-beim-ausbau-erneuerbarer-energien-an-a-1066165e-91fc-4004-881c-e10e3241afd7#ref=rss)
-### merz
+* [https://www.spiegel.de/ausland/israels-schlag-gegen-die-hamas-in-doha-die-folgen-fuer-katar-und-die-region](https://www.spiegel.de/ausland/israels-schlag-gegen-die-hamas-in-doha-die-folgen-fuer-katar-und-die-region-a-77a64c27-83d5-49b5-8820-43c2c46af40c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen](https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen-a-930ed372-c6bc-44aa-b697-6761a059ef4a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-arbeitslosenzahlen-in-den-usa-auf-hoechstem-stand-seit-vier-jahren](https://www.spiegel.de/wirtschaft/usa-arbeitslosenzahlen-in-den-usa-auf-hoechstem-stand-seit-vier-jahren-a-e42d5080-25ad-4697-a9cc-e196a405d06a#ref=rss)
+### russland
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-deutet-langsameres-tempo-beim-ausbau-erneuerbarer-energien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-deutet-langsameres-tempo-beim-ausbau-erneuerbarer-energien-an-a-1066165e-91fc-4004-881c-e10e3241afd7#ref=rss)
-### etwas
+* [https://www.spiegel.de/ausland/drohnen-aus-russland-ueber-polen-wir-sollten-uns-nicht-duemmer-stellen-als-wir-sind](https://www.spiegel.de/ausland/drohnen-aus-russland-ueber-polen-wir-sollten-uns-nicht-duemmer-stellen-als-wir-sind-a-984d7c57-75d1-4152-ab9d-ec614c352dbc#ref=rss)
+* [https://www.spiegel.de/ausland/slowakei-stellt-bedingungen-fuer-neue-eu-sanktionen-gegen-russland](https://www.spiegel.de/ausland/slowakei-stellt-bedingungen-fuer-neue-eu-sanktionen-gegen-russland-a-36329757-1b50-4221-964d-74f5a13361a6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen](https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen-a-930ed372-c6bc-44aa-b697-6761a059ef4a#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-deutet-langsameres-tempo-beim-ausbau-erneuerbarer-energien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-deutet-langsameres-tempo-beim-ausbau-erneuerbarer-energien-an-a-1066165e-91fc-4004-881c-e10e3241afd7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-will-aus-seiner-zeit-im-gefaengnis-gelernt-haben](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-will-aus-seiner-zeit-im-gefaengnis-gelernt-haben-a-7ba3d330-a47b-4613-b074-88f20e2f7c61#ref=rss)
-### weniger
+* [https://www.spiegel.de/kultur/lyx-buchladen-in-muenster-wie-das-lesezimmer-einer-fee-die-zu-ikea-geht](https://www.spiegel.de/kultur/lyx-buchladen-in-muenster-wie-das-lesezimmer-einer-fee-die-zu-ikea-geht-a-8ebf1600-26dd-46f0-819d-b0730fbef688#ref=rss)
+* [https://www.spiegel.de/ausland/israels-schlag-gegen-die-hamas-in-doha-die-folgen-fuer-katar-und-die-region](https://www.spiegel.de/ausland/israels-schlag-gegen-die-hamas-in-doha-die-folgen-fuer-katar-und-die-region-a-77a64c27-83d5-49b5-8820-43c2c46af40c#ref=rss)
+* [https://www.spiegel.de/ausland/drohnen-aus-russland-ueber-polen-wir-sollten-uns-nicht-duemmer-stellen-als-wir-sind](https://www.spiegel.de/ausland/drohnen-aus-russland-ueber-polen-wir-sollten-uns-nicht-duemmer-stellen-als-wir-sind-a-984d7c57-75d1-4152-ab9d-ec614c352dbc#ref=rss)
+### russische
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-deutet-langsameres-tempo-beim-ausbau-erneuerbarer-energien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-deutet-langsameres-tempo-beim-ausbau-erneuerbarer-energien-an-a-1066165e-91fc-4004-881c-e10e3241afd7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/altersarmut-und-grundsicherung-42-prozent-der-rentner-bekommen-weniger-als-1000-euro-im-monat](https://www.spiegel.de/wirtschaft/altersarmut-und-grundsicherung-42-prozent-der-rentner-bekommen-weniger-als-1000-euro-im-monat-a-97574bd7-52fc-4eb7-ac76-702c8ed4fe1a#ref=rss)
-### woche
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen](https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen-a-930ed372-c6bc-44aa-b697-6761a059ef4a#ref=rss)
+### luftraum
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-deutet-langsameres-tempo-beim-ausbau-erneuerbarer-energien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-deutet-langsameres-tempo-beim-ausbau-erneuerbarer-energien-an-a-1066165e-91fc-4004-881c-e10e3241afd7#ref=rss)
-* [https://www.spiegel.de/start/startklar-newsletter-in-welchen-jobs-verdiene-ich-ohne-studium-das-meiste-geld](https://www.spiegel.de/start/startklar-newsletter-in-welchen-jobs-verdiene-ich-ohne-studium-das-meiste-geld-a-bb05605e-33af-409a-b00d-f8d02745d2ad#ref=rss)
-### tiber
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen](https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen-a-930ed372-c6bc-44aa-b697-6761a059ef4a#ref=rss)
+### wirft
 
-* [https://www.spiegel.de/panorama/rom-im-tiber-soll-man-wieder-schwimmen-koennen](https://www.spiegel.de/panorama/rom-im-tiber-soll-man-wieder-schwimmen-koennen-a-c3e2d0e8-5784-4f71-be28-d393c87d6a79#ref=rss)
-### ich
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+* [https://www.spiegel.de/panorama/jens-spahn-kpmg-bericht-wirft-bund-schwere-versaeumnisse-bei-maskenbeschaffung-vor](https://www.spiegel.de/panorama/jens-spahn-kpmg-bericht-wirft-bund-schwere-versaeumnisse-bei-maskenbeschaffung-vor-a-6a4dfa26-f7c5-42e7-8d42-4069ebc7b0e2#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/start/startklar-newsletter-in-welchen-jobs-verdiene-ich-ohne-studium-das-meiste-geld](https://www.spiegel.de/start/startklar-newsletter-in-welchen-jobs-verdiene-ich-ohne-studium-das-meiste-geld-a-bb05605e-33af-409a-b00d-f8d02745d2ad#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-will-aus-seiner-zeit-im-gefaengnis-gelernt-haben](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-will-aus-seiner-zeit-im-gefaengnis-gelernt-haben-a-7ba3d330-a47b-4613-b074-88f20e2f7c61#ref=rss)
-### proteste
+* [https://www.spiegel.de/netzwelt/web/cybergrooming-das-sollten-eltern-ueber-das-gefaehrliche-netzphaenomen-wissen](https://www.spiegel.de/netzwelt/web/cybergrooming-das-sollten-eltern-ueber-das-gefaehrliche-netzphaenomen-wissen-a-d1e13af7-ee34-4de6-a7ca-dd5842554dfe#ref=rss)
+* [https://www.spiegel.de/politik/trotz-kritik-vom-bauernverband-agrarminister-alois-rainer-csu-streicht-programm-fuer-den-umbau-von-schweinestaellen](https://www.spiegel.de/politik/trotz-kritik-vom-bauernverband-agrarminister-alois-rainer-csu-streicht-programm-fuer-den-umbau-von-schweinestaellen-a-3514c5bf-e7ce-4612-a928-20267c235e25#ref=rss)
+### wir
 
-* [https://www.spiegel.de/sport/radsport/vuelta-proteste-gegen-israelisches-radteam-bei-der-spanienrundfahrt](https://www.spiegel.de/sport/radsport/vuelta-proteste-gegen-israelisches-radteam-bei-der-spanienrundfahrt-a-a689d622-7072-44f9-bc24-a65dbb9574f2#ref=rss)
-### spanienrundfahrt
-
-* [https://www.spiegel.de/sport/radsport/vuelta-proteste-gegen-israelisches-radteam-bei-der-spanienrundfahrt](https://www.spiegel.de/sport/radsport/vuelta-proteste-gegen-israelisches-radteam-bei-der-spanienrundfahrt-a-a689d622-7072-44f9-bc24-a65dbb9574f2#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/11-september-2001-donald-trump-plant-verstaatlichung-der-new-yorker-gedenkstaette-9-11](https://www.spiegel.de/ausland/11-september-2001-donald-trump-plant-verstaatlichung-der-new-yorker-gedenkstaette-9-11-a-d796916e-1e33-483f-8ce5-cbfa01495537#ref=rss)
+* [https://www.spiegel.de/ausland/drohnen-aus-russland-ueber-polen-wir-sollten-uns-nicht-duemmer-stellen-als-wir-sind](https://www.spiegel.de/ausland/drohnen-aus-russland-ueber-polen-wir-sollten-uns-nicht-duemmer-stellen-als-wir-sind-a-984d7c57-75d1-4152-ab9d-ec614c352dbc#ref=rss)
+* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-2026-irland-will-nicht-teilnehmen-wenn-israel-dabei-ist](https://www.spiegel.de/kultur/tv/eurovision-song-contest-2026-irland-will-nicht-teilnehmen-wenn-israel-dabei-ist-a-39e7726c-203a-4563-8114-51cf924b6fdf#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/11-september-2001-donald-trump-plant-verstaatlichung-der-new-yorker-gedenkstaette-9-11](https://www.spiegel.de/ausland/11-september-2001-donald-trump-plant-verstaatlichung-der-new-yorker-gedenkstaette-9-11-a-d796916e-1e33-483f-8ce5-cbfa01495537#ref=rss)
-### new
+* [https://www.spiegel.de/wirtschaft/usa-arbeitslosenzahlen-in-den-usa-auf-hoechstem-stand-seit-vier-jahren](https://www.spiegel.de/wirtschaft/usa-arbeitslosenzahlen-in-den-usa-auf-hoechstem-stand-seit-vier-jahren-a-e42d5080-25ad-4697-a9cc-e196a405d06a#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-ermittler-melden-fund-der-tatwaffe-donald-trump-will-kirk-medaille-verleihen](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-ermittler-melden-fund-der-tatwaffe-donald-trump-will-kirk-medaille-verleihen-a-c52d30ac-b287-41dd-883d-e1f0f4523639#ref=rss)
+### irakli
 
-* [https://www.spiegel.de/ausland/11-september-2001-donald-trump-plant-verstaatlichung-der-new-yorker-gedenkstaette-9-11](https://www.spiegel.de/ausland/11-september-2001-donald-trump-plant-verstaatlichung-der-new-yorker-gedenkstaette-9-11-a-d796916e-1e33-483f-8ce5-cbfa01495537#ref=rss)
-### yorker
+* [https://www.spiegel.de/ausland/georgien-irakli-kobachidse-sinniert-ueber-ausweisung-des-deutschen-botschafters-peter-fischer](https://www.spiegel.de/ausland/georgien-irakli-kobachidse-sinniert-ueber-ausweisung-des-deutschen-botschafters-peter-fischer-a-1c68cbd1-f83a-49de-b258-b5d56ef9c4ee#ref=rss)
+### kobachidse
 
-* [https://www.spiegel.de/ausland/11-september-2001-donald-trump-plant-verstaatlichung-der-new-yorker-gedenkstaette-9-11](https://www.spiegel.de/ausland/11-september-2001-donald-trump-plant-verstaatlichung-der-new-yorker-gedenkstaette-9-11-a-d796916e-1e33-483f-8ce5-cbfa01495537#ref=rss)
-### gedenkstätte
+* [https://www.spiegel.de/ausland/georgien-irakli-kobachidse-sinniert-ueber-ausweisung-des-deutschen-botschafters-peter-fischer](https://www.spiegel.de/ausland/georgien-irakli-kobachidse-sinniert-ueber-ausweisung-des-deutschen-botschafters-peter-fischer-a-1c68cbd1-f83a-49de-b258-b5d56ef9c4ee#ref=rss)
+### ausweisung
 
-* [https://www.spiegel.de/ausland/11-september-2001-donald-trump-plant-verstaatlichung-der-new-yorker-gedenkstaette-9-11](https://www.spiegel.de/ausland/11-september-2001-donald-trump-plant-verstaatlichung-der-new-yorker-gedenkstaette-9-11-a-d796916e-1e33-483f-8ce5-cbfa01495537#ref=rss)
-### 9/11
+* [https://www.spiegel.de/ausland/georgien-irakli-kobachidse-sinniert-ueber-ausweisung-des-deutschen-botschafters-peter-fischer](https://www.spiegel.de/ausland/georgien-irakli-kobachidse-sinniert-ueber-ausweisung-des-deutschen-botschafters-peter-fischer-a-1c68cbd1-f83a-49de-b258-b5d56ef9c4ee#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/ausland/11-september-2001-donald-trump-plant-verstaatlichung-der-new-yorker-gedenkstaette-9-11](https://www.spiegel.de/ausland/11-september-2001-donald-trump-plant-verstaatlichung-der-new-yorker-gedenkstaette-9-11-a-d796916e-1e33-483f-8ce5-cbfa01495537#ref=rss)
-### daniel
+* [https://www.spiegel.de/ausland/georgien-irakli-kobachidse-sinniert-ueber-ausweisung-des-deutschen-botschafters-peter-fischer](https://www.spiegel.de/ausland/georgien-irakli-kobachidse-sinniert-ueber-ausweisung-des-deutschen-botschafters-peter-fischer-a-1c68cbd1-f83a-49de-b258-b5d56ef9c4ee#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-kinder-als-geiseln-im-assad-regime-versteckt-in-waisenhaeusern](https://www.spiegel.de/ausland/syrien-kinder-als-geiseln-im-assad-regime-versteckt-in-waisenhaeusern-a-cda0b9a2-558c-470d-b882-8c1d9a79d9cc#ref=rss)
+### peter
 
-* [https://www.spiegel.de/panorama/leute/daniel-day-lewis-und-der-rueckzug-vom-rueckzug](https://www.spiegel.de/panorama/leute/daniel-day-lewis-und-der-rueckzug-vom-rueckzug-a-9046300b-b757-46ad-a9e6-e8d568b6d9c8#ref=rss)
-### daylewis
+* [https://www.spiegel.de/ausland/georgien-irakli-kobachidse-sinniert-ueber-ausweisung-des-deutschen-botschafters-peter-fischer](https://www.spiegel.de/ausland/georgien-irakli-kobachidse-sinniert-ueber-ausweisung-des-deutschen-botschafters-peter-fischer-a-1c68cbd1-f83a-49de-b258-b5d56ef9c4ee#ref=rss)
+### fischer
 
-* [https://www.spiegel.de/panorama/leute/daniel-day-lewis-und-der-rueckzug-vom-rueckzug](https://www.spiegel.de/panorama/leute/daniel-day-lewis-und-der-rueckzug-vom-rueckzug-a-9046300b-b757-46ad-a9e6-e8d568b6d9c8#ref=rss)
-### idee
+* [https://www.spiegel.de/ausland/georgien-irakli-kobachidse-sinniert-ueber-ausweisung-des-deutschen-botschafters-peter-fischer](https://www.spiegel.de/ausland/georgien-irakli-kobachidse-sinniert-ueber-ausweisung-des-deutschen-botschafters-peter-fischer-a-1c68cbd1-f83a-49de-b258-b5d56ef9c4ee#ref=rss)
+### wenig
 
-* [https://www.spiegel.de/panorama/leute/daniel-day-lewis-und-der-rueckzug-vom-rueckzug](https://www.spiegel.de/panorama/leute/daniel-day-lewis-und-der-rueckzug-vom-rueckzug-a-9046300b-b757-46ad-a9e6-e8d568b6d9c8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gesetzliche-krankenversicherung-stiftung-patientenschutz-warnt-vor-basistarif-und-buerokratiemonster](https://www.spiegel.de/wirtschaft/gesetzliche-krankenversicherung-stiftung-patientenschutz-warnt-vor-basistarif-und-buerokratiemonster-a-c75d1f47-e072-4f7f-bc1b-9357a44bf5a0#ref=rss)
-### bürgergeld
+* [https://www.spiegel.de/ausland/georgien-irakli-kobachidse-sinniert-ueber-ausweisung-des-deutschen-botschafters-peter-fischer](https://www.spiegel.de/ausland/georgien-irakli-kobachidse-sinniert-ueber-ausweisung-des-deutschen-botschafters-peter-fischer-a-1c68cbd1-f83a-49de-b258-b5d56ef9c4ee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-arbeitslosenzahlen-in-den-usa-auf-hoechstem-stand-seit-vier-jahren](https://www.spiegel.de/wirtschaft/usa-arbeitslosenzahlen-in-den-usa-auf-hoechstem-stand-seit-vier-jahren-a-e42d5080-25ad-4697-a9cc-e196a405d06a#ref=rss)
+### fernandes
 
-* [https://www.spiegel.de/wirtschaft/buergergeld-krankenkassen-planen-milliardenklage-gegen-den-bund](https://www.spiegel.de/wirtschaft/buergergeld-krankenkassen-planen-milliardenklage-gegen-den-bund-a-991b80c3-dd3d-4c7e-a7b1-6b61c0bb96c4#ref=rss)
-### wohl
+* [https://www.spiegel.de/panorama/leute/zdf-serie-traumschiff-collien-fernandes-darf-bald-flirten](https://www.spiegel.de/panorama/leute/zdf-serie-traumschiff-collien-fernandes-darf-bald-flirten-a-c08fa1cf-8d82-475c-b8c7-0a64063cfb24#ref=rss)
+### bald
 
-* [https://www.spiegel.de/wirtschaft/buergergeld-krankenkassen-planen-milliardenklage-gegen-den-bund](https://www.spiegel.de/wirtschaft/buergergeld-krankenkassen-planen-milliardenklage-gegen-den-bund-a-991b80c3-dd3d-4c7e-a7b1-6b61c0bb96c4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/firmenpleiten-zahl-der-insolvenzen-steigt-weiter-an](https://www.spiegel.de/wirtschaft/firmenpleiten-zahl-der-insolvenzen-steigt-weiter-an-a-5b255d23-3bbd-4cef-9461-b539f5691932#ref=rss)
-### warnt
+* [https://www.spiegel.de/panorama/leute/zdf-serie-traumschiff-collien-fernandes-darf-bald-flirten](https://www.spiegel.de/panorama/leute/zdf-serie-traumschiff-collien-fernandes-darf-bald-flirten-a-c08fa1cf-8d82-475c-b8c7-0a64063cfb24#ref=rss)
+* [https://www.spiegel.de/ausland/charlie-kirk-alles-deutet-auf-einen-professionell-geplanten-mord-hin](https://www.spiegel.de/ausland/charlie-kirk-alles-deutet-auf-einen-professionell-geplanten-mord-hin-a-ad7b60ae-be69-42cc-b8c7-4f31f82d7812#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/gesetzliche-krankenversicherung-stiftung-patientenschutz-warnt-vor-basistarif-und-buerokratiemonster](https://www.spiegel.de/wirtschaft/gesetzliche-krankenversicherung-stiftung-patientenschutz-warnt-vor-basistarif-und-buerokratiemonster-a-c75d1f47-e072-4f7f-bc1b-9357a44bf5a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/altersarmut-und-grundsicherung-42-prozent-der-rentner-bekommen-weniger-als-1000-euro-im-monat](https://www.spiegel.de/wirtschaft/altersarmut-und-grundsicherung-42-prozent-der-rentner-bekommen-weniger-als-1000-euro-im-monat-a-97574bd7-52fc-4eb7-ac76-702c8ed4fe1a#ref=rss)
-### basistarif
-
-* [https://www.spiegel.de/wirtschaft/gesetzliche-krankenversicherung-stiftung-patientenschutz-warnt-vor-basistarif-und-buerokratiemonster](https://www.spiegel.de/wirtschaft/gesetzliche-krankenversicherung-stiftung-patientenschutz-warnt-vor-basistarif-und-buerokratiemonster-a-c75d1f47-e072-4f7f-bc1b-9357a44bf5a0#ref=rss)
-### thailand
-
-* [https://www.spiegel.de/panorama/bangkok-in-thailand-loewen-toeten-tierpfleger-in-safari-world](https://www.spiegel.de/panorama/bangkok-in-thailand-loewen-toeten-tierpfleger-in-safari-world-a-14331192-ee85-4f77-bb45-714825fbea78#ref=rss)
+* [https://www.spiegel.de/panorama/leute/zdf-serie-traumschiff-collien-fernandes-darf-bald-flirten](https://www.spiegel.de/panorama/leute/zdf-serie-traumschiff-collien-fernandes-darf-bald-flirten-a-c08fa1cf-8d82-475c-b8c7-0a64063cfb24#ref=rss)
+* [https://www.spiegel.de/ausland/israels-schlag-gegen-die-hamas-in-doha-die-folgen-fuer-katar-und-die-region](https://www.spiegel.de/ausland/israels-schlag-gegen-die-hamas-in-doha-die-folgen-fuer-katar-und-die-region-a-77a64c27-83d5-49b5-8820-43c2c46af40c#ref=rss)
 ### jimi
 
-* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-will-aus-seiner-zeit-im-gefaengnis-gelernt-haben](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-will-aus-seiner-zeit-im-gefaengnis-gelernt-haben-a-7ba3d330-a47b-4613-b074-88f20e2f7c61#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-neue-vorwuerfe-wegen-unbezahlter-rechnungen-in-oesterreich](https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-neue-vorwuerfe-wegen-unbezahlter-rechnungen-in-oesterreich-a-59460418-0791-4531-a173-78035833055a#ref=rss)
 ### blue
 
-* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-will-aus-seiner-zeit-im-gefaengnis-gelernt-haben](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-will-aus-seiner-zeit-im-gefaengnis-gelernt-haben-a-7ba3d330-a47b-4613-b074-88f20e2f7c61#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-neue-vorwuerfe-wegen-unbezahlter-rechnungen-in-oesterreich](https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-neue-vorwuerfe-wegen-unbezahlter-rechnungen-in-oesterreich-a-59460418-0791-4531-a173-78035833055a#ref=rss)
 ### ochsenknecht
 
-* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-will-aus-seiner-zeit-im-gefaengnis-gelernt-haben](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-will-aus-seiner-zeit-im-gefaengnis-gelernt-haben-a-7ba3d330-a47b-4613-b074-88f20e2f7c61#ref=rss)
-### zeit
+* [https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-neue-vorwuerfe-wegen-unbezahlter-rechnungen-in-oesterreich](https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-neue-vorwuerfe-wegen-unbezahlter-rechnungen-in-oesterreich-a-59460418-0791-4531-a173-78035833055a#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-will-aus-seiner-zeit-im-gefaengnis-gelernt-haben](https://www.spiegel.de/panorama/leute/jimi-blue-ochsenknecht-will-aus-seiner-zeit-im-gefaengnis-gelernt-haben-a-7ba3d330-a47b-4613-b074-88f20e2f7c61#ref=rss)
-### ben
+* [https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-neue-vorwuerfe-wegen-unbezahlter-rechnungen-in-oesterreich](https://www.spiegel.de/panorama/justiz/jimi-blue-ochsenknecht-neue-vorwuerfe-wegen-unbezahlter-rechnungen-in-oesterreich-a-59460418-0791-4531-a173-78035833055a#ref=rss)
+* [https://www.spiegel.de/kultur/kino/instagram-werner-herzog-hat-jetzt-einen-account-folgt-aber-niemandem](https://www.spiegel.de/kultur/kino/instagram-werner-herzog-hat-jetzt-einen-account-folgt-aber-niemandem-a-30bf4aeb-9cb2-4350-bd4e-35b4e5429b87#ref=rss)
+### kaplan
 
-* [https://www.spiegel.de/sport/enhanced-games-britischer-schwimmer-ben-proud-kuendigt-teilnahme-an](https://www.spiegel.de/sport/enhanced-games-britischer-schwimmer-ben-proud-kuendigt-teilnahme-an-a-ae1b3069-4075-4df3-babb-39f5c2bb05b3#ref=rss)
-### proud
+* [https://www.spiegel.de/ausland/charlie-kirk-alles-deutet-auf-einen-professionell-geplanten-mord-hin](https://www.spiegel.de/ausland/charlie-kirk-alles-deutet-auf-einen-professionell-geplanten-mord-hin-a-ad7b60ae-be69-42cc-b8c7-4f31f82d7812#ref=rss)
+### attentat
 
-* [https://www.spiegel.de/sport/enhanced-games-britischer-schwimmer-ben-proud-kuendigt-teilnahme-an](https://www.spiegel.de/sport/enhanced-games-britischer-schwimmer-ben-proud-kuendigt-teilnahme-an-a-ae1b3069-4075-4df3-babb-39f5c2bb05b3#ref=rss)
-### schwer
+* [https://www.spiegel.de/ausland/charlie-kirk-alles-deutet-auf-einen-professionell-geplanten-mord-hin](https://www.spiegel.de/ausland/charlie-kirk-alles-deutet-auf-einen-professionell-geplanten-mord-hin-a-ad7b60ae-be69-42cc-b8c7-4f31f82d7812#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-ermittler-melden-fund-der-tatwaffe-donald-trump-will-kirk-medaille-verleihen](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-ermittler-melden-fund-der-tatwaffe-donald-trump-will-kirk-medaille-verleihen-a-c52d30ac-b287-41dd-883d-e1f0f4523639#ref=rss)
+### münster
 
-* [https://www.spiegel.de/kultur/kindererziehung-warum-es-so-schwer-ist-soehne-zu-solidaritaet-und-gerechtigkeit-zu-erziehen](https://www.spiegel.de/kultur/kindererziehung-warum-es-so-schwer-ist-soehne-zu-solidaritaet-und-gerechtigkeit-zu-erziehen-a-e70c3d8e-0bab-4bd3-b73c-b04bff2c271d#ref=rss)
-### söhne
+* [https://www.spiegel.de/kultur/lyx-buchladen-in-muenster-wie-das-lesezimmer-einer-fee-die-zu-ikea-geht](https://www.spiegel.de/kultur/lyx-buchladen-in-muenster-wie-das-lesezimmer-einer-fee-die-zu-ikea-geht-a-8ebf1600-26dd-46f0-819d-b0730fbef688#ref=rss)
+### russlands
 
-* [https://www.spiegel.de/kultur/kindererziehung-warum-es-so-schwer-ist-soehne-zu-solidaritaet-und-gerechtigkeit-zu-erziehen](https://www.spiegel.de/kultur/kindererziehung-warum-es-so-schwer-ist-soehne-zu-solidaritaet-und-gerechtigkeit-zu-erziehen-a-e70c3d8e-0bab-4bd3-b73c-b04bff2c271d#ref=rss)
-### solidarität
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+### vorbereitet
 
-* [https://www.spiegel.de/kultur/kindererziehung-warum-es-so-schwer-ist-soehne-zu-solidaritaet-und-gerechtigkeit-zu-erziehen](https://www.spiegel.de/kultur/kindererziehung-warum-es-so-schwer-ist-soehne-zu-solidaritaet-und-gerechtigkeit-zu-erziehen-a-e70c3d8e-0bab-4bd3-b73c-b04bff2c271d#ref=rss)
-### gerechtigkeit
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+### polnischen
 
-* [https://www.spiegel.de/kultur/kindererziehung-warum-es-so-schwer-ist-soehne-zu-solidaritaet-und-gerechtigkeit-zu-erziehen](https://www.spiegel.de/kultur/kindererziehung-warum-es-so-schwer-ist-soehne-zu-solidaritaet-und-gerechtigkeit-zu-erziehen-a-e70c3d8e-0bab-4bd3-b73c-b04bff2c271d#ref=rss)
-### erziehen
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+### provokation
 
-* [https://www.spiegel.de/kultur/kindererziehung-warum-es-so-schwer-ist-soehne-zu-solidaritaet-und-gerechtigkeit-zu-erziehen](https://www.spiegel.de/kultur/kindererziehung-warum-es-so-schwer-ist-soehne-zu-solidaritaet-und-gerechtigkeit-zu-erziehen-a-e70c3d8e-0bab-4bd3-b73c-b04bff2c271d#ref=rss)
-### franz
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+### versetzt
 
-* [https://www.spiegel.de/sport/basketball/basketball-em-franz-wagner-ist-der-mann-der-das-deutsche-team-jetzt-traegt](https://www.spiegel.de/sport/basketball/basketball-em-franz-wagner-ist-der-mann-der-das-deutsche-team-jetzt-traegt-a-69b20f1c-6597-4b7a-abe7-f30dddc9a763#ref=rss)
-### wagner
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+### alarmbereitschaft
 
-* [https://www.spiegel.de/sport/basketball/basketball-em-franz-wagner-ist-der-mann-der-das-deutsche-team-jetzt-traegt](https://www.spiegel.de/sport/basketball/basketball-em-franz-wagner-ist-der-mann-der-das-deutsche-team-jetzt-traegt-a-69b20f1c-6597-4b7a-abe7-f30dddc9a763#ref=rss)
-### deutsche
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+### frage
 
-* [https://www.spiegel.de/sport/basketball/basketball-em-franz-wagner-ist-der-mann-der-das-deutsche-team-jetzt-traegt](https://www.spiegel.de/sport/basketball/basketball-em-franz-wagner-ist-der-mann-der-das-deutsche-team-jetzt-traegt-a-69b20f1c-6597-4b7a-abe7-f30dddc9a763#ref=rss)
-* [https://www.spiegel.de/wirtschaft/altersarmut-und-grundsicherung-42-prozent-der-rentner-bekommen-weniger-als-1000-euro-im-monat](https://www.spiegel.de/wirtschaft/altersarmut-und-grundsicherung-42-prozent-der-rentner-bekommen-weniger-als-1000-euro-im-monat-a-97574bd7-52fc-4eb7-ac76-702c8ed4fe1a#ref=rss)
-### psychologe
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+### westen
 
-* [https://www.spiegel.de/wissenschaft/mensch/triggerwarnungen-ein-psychologe-erklaert-warum-sie-nicht-immer-sinnvoll-sind](https://www.spiegel.de/wissenschaft/mensch/triggerwarnungen-ein-psychologe-erklaert-warum-sie-nicht-immer-sinnvoll-sind-a-54ed5c29-17b6-4b2e-a9fa-569125e37ee2#ref=rss)
-### erklärt
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+### putins
 
-* [https://www.spiegel.de/wissenschaft/mensch/triggerwarnungen-ein-psychologe-erklaert-warum-sie-nicht-immer-sinnvoll-sind](https://www.spiegel.de/wissenschaft/mensch/triggerwarnungen-ein-psychologe-erklaert-warum-sie-nicht-immer-sinnvoll-sind-a-54ed5c29-17b6-4b2e-a9fa-569125e37ee2#ref=rss)
-### candidozyma
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+### billigwaffen
 
-* [https://www.spiegel.de/wissenschaft/candidozyma-auris-infektioeser-pilz-breitet-sich-in-europa-aus-wie-gefaehrlich-ist-das](https://www.spiegel.de/wissenschaft/candidozyma-auris-infektioeser-pilz-breitet-sich-in-europa-aus-wie-gefaehrlich-ist-das-a-351870a8-6541-482c-b410-eaec8c51777f#ref=rss)
-### auris
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+### kontern
 
-* [https://www.spiegel.de/wissenschaft/candidozyma-auris-infektioeser-pilz-breitet-sich-in-europa-aus-wie-gefaehrlich-ist-das](https://www.spiegel.de/wissenschaft/candidozyma-auris-infektioeser-pilz-breitet-sich-in-europa-aus-wie-gefaehrlich-ist-das-a-351870a8-6541-482c-b410-eaec8c51777f#ref=rss)
-### gefährlich
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-podcast-a-a482a979-2f70-46c1-8bbd-95b11dd3b2ca#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet](https://www.spiegel.de/ausland/russlands-drohnen-in-polen-wie-gut-sind-deutschland-und-die-nato-vorbereitet-a-b7f5ec4d-d3f7-41b9-a25b-7a6af950aeb3#ref=rss)
+### israels
 
-* [https://www.spiegel.de/wissenschaft/candidozyma-auris-infektioeser-pilz-breitet-sich-in-europa-aus-wie-gefaehrlich-ist-das](https://www.spiegel.de/wissenschaft/candidozyma-auris-infektioeser-pilz-breitet-sich-in-europa-aus-wie-gefaehrlich-ist-das-a-351870a8-6541-482c-b410-eaec8c51777f#ref=rss)
-### mensch
+* [https://www.spiegel.de/ausland/israels-schlag-gegen-die-hamas-in-doha-die-folgen-fuer-katar-und-die-region](https://www.spiegel.de/ausland/israels-schlag-gegen-die-hamas-in-doha-die-folgen-fuer-katar-und-die-region-a-77a64c27-83d5-49b5-8820-43c2c46af40c#ref=rss)
+### doha
 
-* [https://www.spiegel.de/wissenschaft/candidozyma-auris-infektioeser-pilz-breitet-sich-in-europa-aus-wie-gefaehrlich-ist-das](https://www.spiegel.de/wissenschaft/candidozyma-auris-infektioeser-pilz-breitet-sich-in-europa-aus-wie-gefaehrlich-ist-das-a-351870a8-6541-482c-b410-eaec8c51777f#ref=rss)
-### maximilian
+* [https://www.spiegel.de/ausland/israels-schlag-gegen-die-hamas-in-doha-die-folgen-fuer-katar-und-die-region](https://www.spiegel.de/ausland/israels-schlag-gegen-die-hamas-in-doha-die-folgen-fuer-katar-und-die-region-a-77a64c27-83d5-49b5-8820-43c2c46af40c#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/politik/maximilian-krah-bundestag-hebt-immunitaet-des-afd-politikers-auf](https://www.spiegel.de/politik/maximilian-krah-bundestag-hebt-immunitaet-des-afd-politikers-auf-a-d36f20f5-2fa8-42ab-955a-2e345367190c#ref=rss)
-### bundestag
+* [https://www.spiegel.de/ausland/israels-schlag-gegen-die-hamas-in-doha-die-folgen-fuer-katar-und-die-region](https://www.spiegel.de/ausland/israels-schlag-gegen-die-hamas-in-doha-die-folgen-fuer-katar-und-die-region-a-77a64c27-83d5-49b5-8820-43c2c46af40c#ref=rss)
+* [https://www.spiegel.de/ausland/drohnen-aus-russland-ueber-polen-wir-sollten-uns-nicht-duemmer-stellen-als-wir-sind](https://www.spiegel.de/ausland/drohnen-aus-russland-ueber-polen-wir-sollten-uns-nicht-duemmer-stellen-als-wir-sind-a-984d7c57-75d1-4152-ab9d-ec614c352dbc#ref=rss)
+### cybergrooming
 
-* [https://www.spiegel.de/politik/maximilian-krah-bundestag-hebt-immunitaet-des-afd-politikers-auf](https://www.spiegel.de/politik/maximilian-krah-bundestag-hebt-immunitaet-des-afd-politikers-auf-a-d36f20f5-2fa8-42ab-955a-2e345367190c#ref=rss)
-### immunität
+* [https://www.spiegel.de/netzwelt/web/cybergrooming-das-sollten-eltern-ueber-das-gefaehrliche-netzphaenomen-wissen](https://www.spiegel.de/netzwelt/web/cybergrooming-das-sollten-eltern-ueber-das-gefaehrliche-netzphaenomen-wissen-a-d1e13af7-ee34-4de6-a7ca-dd5842554dfe#ref=rss)
+### sollten
 
-* [https://www.spiegel.de/politik/maximilian-krah-bundestag-hebt-immunitaet-des-afd-politikers-auf](https://www.spiegel.de/politik/maximilian-krah-bundestag-hebt-immunitaet-des-afd-politikers-auf-a-d36f20f5-2fa8-42ab-955a-2e345367190c#ref=rss)
-### grundsicherung
+* [https://www.spiegel.de/netzwelt/web/cybergrooming-das-sollten-eltern-ueber-das-gefaehrliche-netzphaenomen-wissen](https://www.spiegel.de/netzwelt/web/cybergrooming-das-sollten-eltern-ueber-das-gefaehrliche-netzphaenomen-wissen-a-d1e13af7-ee34-4de6-a7ca-dd5842554dfe#ref=rss)
+* [https://www.spiegel.de/ausland/drohnen-aus-russland-ueber-polen-wir-sollten-uns-nicht-duemmer-stellen-als-wir-sind](https://www.spiegel.de/ausland/drohnen-aus-russland-ueber-polen-wir-sollten-uns-nicht-duemmer-stellen-als-wir-sind-a-984d7c57-75d1-4152-ab9d-ec614c352dbc#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/wirtschaft/altersarmut-und-grundsicherung-42-prozent-der-rentner-bekommen-weniger-als-1000-euro-im-monat](https://www.spiegel.de/wirtschaft/altersarmut-und-grundsicherung-42-prozent-der-rentner-bekommen-weniger-als-1000-euro-im-monat-a-97574bd7-52fc-4eb7-ac76-702c8ed4fe1a#ref=rss)
-### bekommen
+* [https://www.spiegel.de/netzwelt/web/cybergrooming-das-sollten-eltern-ueber-das-gefaehrliche-netzphaenomen-wissen](https://www.spiegel.de/netzwelt/web/cybergrooming-das-sollten-eltern-ueber-das-gefaehrliche-netzphaenomen-wissen-a-d1e13af7-ee34-4de6-a7ca-dd5842554dfe#ref=rss)
+* [https://www.spiegel.de/panorama/jens-spahn-kpmg-bericht-wirft-bund-schwere-versaeumnisse-bei-maskenbeschaffung-vor](https://www.spiegel.de/panorama/jens-spahn-kpmg-bericht-wirft-bund-schwere-versaeumnisse-bei-maskenbeschaffung-vor-a-6a4dfa26-f7c5-42e7-8d42-4069ebc7b0e2#ref=rss)
+### viele
 
-* [https://www.spiegel.de/wirtschaft/altersarmut-und-grundsicherung-42-prozent-der-rentner-bekommen-weniger-als-1000-euro-im-monat](https://www.spiegel.de/wirtschaft/altersarmut-und-grundsicherung-42-prozent-der-rentner-bekommen-weniger-als-1000-euro-im-monat-a-97574bd7-52fc-4eb7-ac76-702c8ed4fe1a#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/cybergrooming-das-sollten-eltern-ueber-das-gefaehrliche-netzphaenomen-wissen](https://www.spiegel.de/netzwelt/web/cybergrooming-das-sollten-eltern-ueber-das-gefaehrliche-netzphaenomen-wissen-a-d1e13af7-ee34-4de6-a7ca-dd5842554dfe#ref=rss)
+* [https://www.spiegel.de/deinspiegel/tod-des-haustiers-wie-kinder-und-familien-mit-dem-verlust-umgehen-koennen](https://www.spiegel.de/deinspiegel/tod-des-haustiers-wie-kinder-und-familien-mit-dem-verlust-umgehen-koennen-a-6d5ac1fd-1678-4fe0-a1a7-c55ded873f7d#ref=rss)
+### lange
+
+* [https://www.spiegel.de/ausland/drohnen-aus-russland-ueber-polen-wir-sollten-uns-nicht-duemmer-stellen-als-wir-sind](https://www.spiegel.de/ausland/drohnen-aus-russland-ueber-polen-wir-sollten-uns-nicht-duemmer-stellen-als-wir-sind-a-984d7c57-75d1-4152-ab9d-ec614c352dbc#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-kinder-als-geiseln-im-assad-regime-versteckt-in-waisenhaeusern](https://www.spiegel.de/ausland/syrien-kinder-als-geiseln-im-assad-regime-versteckt-in-waisenhaeusern-a-cda0b9a2-558c-470d-b882-8c1d9a79d9cc#ref=rss)
+### instagram
+
+* [https://www.spiegel.de/kultur/kino/instagram-werner-herzog-hat-jetzt-einen-account-folgt-aber-niemandem](https://www.spiegel.de/kultur/kino/instagram-werner-herzog-hat-jetzt-einen-account-folgt-aber-niemandem-a-30bf4aeb-9cb2-4350-bd4e-35b4e5429b87#ref=rss)
+### werner
+
+* [https://www.spiegel.de/kultur/kino/instagram-werner-herzog-hat-jetzt-einen-account-folgt-aber-niemandem](https://www.spiegel.de/kultur/kino/instagram-werner-herzog-hat-jetzt-einen-account-folgt-aber-niemandem-a-30bf4aeb-9cb2-4350-bd4e-35b4e5429b87#ref=rss)
+### herzog
+
+* [https://www.spiegel.de/kultur/kino/instagram-werner-herzog-hat-jetzt-einen-account-folgt-aber-niemandem](https://www.spiegel.de/kultur/kino/instagram-werner-herzog-hat-jetzt-einen-account-folgt-aber-niemandem-a-30bf4aeb-9cb2-4350-bd4e-35b4e5429b87#ref=rss)
+### rosenheim
+
+* [https://www.spiegel.de/panorama/justiz/rosenheim-frau-kotet-polizist-ans-bein](https://www.spiegel.de/panorama/justiz/rosenheim-frau-kotet-polizist-ans-bein-a-16d71275-8d3f-443e-8213-feb2ea8d98e3#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/rosenheim-frau-kotet-polizist-ans-bein](https://www.spiegel.de/panorama/justiz/rosenheim-frau-kotet-polizist-ans-bein-a-16d71275-8d3f-443e-8213-feb2ea8d98e3#ref=rss)
+### polizist
+
+* [https://www.spiegel.de/panorama/justiz/rosenheim-frau-kotet-polizist-ans-bein](https://www.spiegel.de/panorama/justiz/rosenheim-frau-kotet-polizist-ans-bein-a-16d71275-8d3f-443e-8213-feb2ea8d98e3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/menden-polizei-prueft-disziplinarverfahren-gegen-befangenen-kriminalhauptkommissar](https://www.spiegel.de/panorama/justiz/menden-polizei-prueft-disziplinarverfahren-gegen-befangenen-kriminalhauptkommissar-a-ec96ca12-0da6-44af-94be-20a0ca361cc9#ref=rss)
+### real
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-will-dass-seine-zukuenftigen-kinder-sich-vom-fussball-fernhalten](https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-will-dass-seine-zukuenftigen-kinder-sich-vom-fussball-fernhalten-a-2e589d6d-7ae4-4517-85f6-281e59e0ae39#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-will-dass-seine-zukuenftigen-kinder-sich-vom-fussball-fernhalten](https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-will-dass-seine-zukuenftigen-kinder-sich-vom-fussball-fernhalten-a-2e589d6d-7ae4-4517-85f6-281e59e0ae39#ref=rss)
+### kylian
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-will-dass-seine-zukuenftigen-kinder-sich-vom-fussball-fernhalten](https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-will-dass-seine-zukuenftigen-kinder-sich-vom-fussball-fernhalten-a-2e589d6d-7ae4-4517-85f6-281e59e0ae39#ref=rss)
+### mbappé
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-will-dass-seine-zukuenftigen-kinder-sich-vom-fussball-fernhalten](https://www.spiegel.de/sport/fussball/real-madrid-kylian-mbappe-will-dass-seine-zukuenftigen-kinder-sich-vom-fussball-fernhalten-a-2e589d6d-7ae4-4517-85f6-281e59e0ae39#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/menden-polizei-prueft-disziplinarverfahren-gegen-befangenen-kriminalhauptkommissar](https://www.spiegel.de/panorama/justiz/menden-polizei-prueft-disziplinarverfahren-gegen-befangenen-kriminalhauptkommissar-a-ec96ca12-0da6-44af-94be-20a0ca361cc9#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/schriftsteller-alan-hollinghurst-dieser-mann-ist-der-chronist-der-verlogenheit](https://www.spiegel.de/kultur/literatur/schriftsteller-alan-hollinghurst-dieser-mann-ist-der-chronist-der-verlogenheit-a-ebea7931-2b95-4cf3-ad67-88b509109ca0#ref=rss)
+### slowakei
+
+* [https://www.spiegel.de/ausland/slowakei-stellt-bedingungen-fuer-neue-eu-sanktionen-gegen-russland](https://www.spiegel.de/ausland/slowakei-stellt-bedingungen-fuer-neue-eu-sanktionen-gegen-russland-a-36329757-1b50-4221-964d-74f5a13361a6#ref=rss)
+### eusanktionen
+
+* [https://www.spiegel.de/ausland/slowakei-stellt-bedingungen-fuer-neue-eu-sanktionen-gegen-russland](https://www.spiegel.de/ausland/slowakei-stellt-bedingungen-fuer-neue-eu-sanktionen-gegen-russland-a-36329757-1b50-4221-964d-74f5a13361a6#ref=rss)
+### attentäter
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen](https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen-a-930ed372-c6bc-44aa-b697-6761a059ef4a#ref=rss)
+### lettland
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen](https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen-a-930ed372-c6bc-44aa-b697-6761a059ef4a#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen](https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen-a-930ed372-c6bc-44aa-b697-6761a059ef4a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-deutschland-will-engagement-an-nato-ostgrenze-verstaerken](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-deutschland-will-engagement-an-nato-ostgrenze-verstaerken-a-ac8ee672-8160-4177-b41d-598e65ed6509#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen](https://www.spiegel.de/politik/deutschland/news-des-tages-abloesung-des-brititschen-us-botschafters-jagd-auf-den-attentaeter-in-den-usa-lettland-reagiert-auf-russische-drohnen-a-930ed372-c6bc-44aa-b697-6761a059ef4a#ref=rss)
+* [https://www.spiegel.de/auto/bahn-neubaustrecke-hamburg-hannover-ein-pinkfarbener-strich-spaltet-die-heide](https://www.spiegel.de/auto/bahn-neubaustrecke-hamburg-hannover-ein-pinkfarbener-strich-spaltet-die-heide-a-e3658cd3-6ad7-4287-bd8a-da023014d731#ref=rss)
+### alan
+
+* [https://www.spiegel.de/kultur/literatur/schriftsteller-alan-hollinghurst-dieser-mann-ist-der-chronist-der-verlogenheit](https://www.spiegel.de/kultur/literatur/schriftsteller-alan-hollinghurst-dieser-mann-ist-der-chronist-der-verlogenheit-a-ebea7931-2b95-4cf3-ad67-88b509109ca0#ref=rss)
+### thema
+
+* [https://www.spiegel.de/kultur/literatur/schriftsteller-alan-hollinghurst-dieser-mann-ist-der-chronist-der-verlogenheit](https://www.spiegel.de/kultur/literatur/schriftsteller-alan-hollinghurst-dieser-mann-ist-der-chronist-der-verlogenheit-a-ebea7931-2b95-4cf3-ad67-88b509109ca0#ref=rss)
+* [https://www.spiegel.de/deinspiegel/tod-des-haustiers-wie-kinder-und-familien-mit-dem-verlust-umgehen-koennen](https://www.spiegel.de/deinspiegel/tod-des-haustiers-wie-kinder-und-familien-mit-dem-verlust-umgehen-koennen-a-6d5ac1fd-1678-4fe0-a1a7-c55ded873f7d#ref=rss)
+### tod
+
+* [https://www.spiegel.de/deinspiegel/tod-des-haustiers-wie-kinder-und-familien-mit-dem-verlust-umgehen-koennen](https://www.spiegel.de/deinspiegel/tod-des-haustiers-wie-kinder-und-familien-mit-dem-verlust-umgehen-koennen-a-6d5ac1fd-1678-4fe0-a1a7-c55ded873f7d#ref=rss)
+### verlust
+
+* [https://www.spiegel.de/deinspiegel/tod-des-haustiers-wie-kinder-und-familien-mit-dem-verlust-umgehen-koennen](https://www.spiegel.de/deinspiegel/tod-des-haustiers-wie-kinder-und-familien-mit-dem-verlust-umgehen-koennen-a-6d5ac1fd-1678-4fe0-a1a7-c55ded873f7d#ref=rss)
+### führer
+
+* [https://www.spiegel.de/geschichte/adolf-hitler-begeisterung-fuer-den-fuehrer-im-nazi-reich-wie-charismatisch-war-er](https://www.spiegel.de/geschichte/adolf-hitler-begeisterung-fuer-den-fuehrer-im-nazi-reich-wie-charismatisch-war-er-a-4248f09e-88aa-4b84-b37b-342cb5a7c73c#ref=rss)
+### umbau
+
+* [https://www.spiegel.de/politik/trotz-kritik-vom-bauernverband-agrarminister-alois-rainer-csu-streicht-programm-fuer-den-umbau-von-schweinestaellen](https://www.spiegel.de/politik/trotz-kritik-vom-bauernverband-agrarminister-alois-rainer-csu-streicht-programm-fuer-den-umbau-von-schweinestaellen-a-3514c5bf-e7ce-4612-a928-20267c235e25#ref=rss)
+### schweineställen
+
+* [https://www.spiegel.de/politik/trotz-kritik-vom-bauernverband-agrarminister-alois-rainer-csu-streicht-programm-fuer-den-umbau-von-schweinestaellen](https://www.spiegel.de/politik/trotz-kritik-vom-bauernverband-agrarminister-alois-rainer-csu-streicht-programm-fuer-den-umbau-von-schweinestaellen-a-3514c5bf-e7ce-4612-a928-20267c235e25#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/auto/bahn-neubaustrecke-hamburg-hannover-ein-pinkfarbener-strich-spaltet-die-heide](https://www.spiegel.de/auto/bahn-neubaustrecke-hamburg-hannover-ein-pinkfarbener-strich-spaltet-die-heide-a-e3658cd3-6ad7-4287-bd8a-da023014d731#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/politik/deutschland/machtkampf-in-der-bundesregierung-ministerien-rangeln-um-kompetenzen](https://www.spiegel.de/politik/deutschland/machtkampf-in-der-bundesregierung-ministerien-rangeln-um-kompetenzen-a-ac7f6545-0b7e-4753-912d-2affd4dc5546#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-deutschland-will-engagement-an-nato-ostgrenze-verstaerken](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-deutschland-will-engagement-an-nato-ostgrenze-verstaerken-a-ac8ee672-8160-4177-b41d-598e65ed6509#ref=rss)
+### ministerien
+
+* [https://www.spiegel.de/politik/deutschland/machtkampf-in-der-bundesregierung-ministerien-rangeln-um-kompetenzen](https://www.spiegel.de/politik/deutschland/machtkampf-in-der-bundesregierung-ministerien-rangeln-um-kompetenzen-a-ac7f6545-0b7e-4753-912d-2affd4dc5546#ref=rss)
+### assadregime
+
+* [https://www.spiegel.de/ausland/syrien-kinder-als-geiseln-im-assad-regime-versteckt-in-waisenhaeusern](https://www.spiegel.de/ausland/syrien-kinder-als-geiseln-im-assad-regime-versteckt-in-waisenhaeusern-a-cda0b9a2-558c-470d-b882-8c1d9a79d9cc#ref=rss)
+### versteckt
+
+* [https://www.spiegel.de/ausland/syrien-kinder-als-geiseln-im-assad-regime-versteckt-in-waisenhaeusern](https://www.spiegel.de/ausland/syrien-kinder-als-geiseln-im-assad-regime-versteckt-in-waisenhaeusern-a-cda0b9a2-558c-470d-b882-8c1d9a79d9cc#ref=rss)
+### waisenhäusern
+
+* [https://www.spiegel.de/ausland/syrien-kinder-als-geiseln-im-assad-regime-versteckt-in-waisenhaeusern](https://www.spiegel.de/ausland/syrien-kinder-als-geiseln-im-assad-regime-versteckt-in-waisenhaeusern-a-cda0b9a2-558c-470d-b882-8c1d9a79d9cc#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/berlin-stromausfall-nach-60-stunden-behoben](https://www.spiegel.de/panorama/berlin-stromausfall-nach-60-stunden-behoben-a-d4c13d97-6b9e-47f6-ba19-6f1272e26177#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-deutschland-will-engagement-an-nato-ostgrenze-verstaerken](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-deutschland-will-engagement-an-nato-ostgrenze-verstaerken-a-ac8ee672-8160-4177-b41d-598e65ed6509#ref=rss)
+### stromausfall
+
+* [https://www.spiegel.de/panorama/berlin-stromausfall-nach-60-stunden-behoben](https://www.spiegel.de/panorama/berlin-stromausfall-nach-60-stunden-behoben-a-d4c13d97-6b9e-47f6-ba19-6f1272e26177#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/berlin-stromausfall-nach-60-stunden-behoben](https://www.spiegel.de/panorama/berlin-stromausfall-nach-60-stunden-behoben-a-d4c13d97-6b9e-47f6-ba19-6f1272e26177#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-arbeitslosenzahlen-in-den-usa-auf-hoechstem-stand-seit-vier-jahren](https://www.spiegel.de/wirtschaft/usa-arbeitslosenzahlen-in-den-usa-auf-hoechstem-stand-seit-vier-jahren-a-e42d5080-25ad-4697-a9cc-e196a405d06a#ref=rss)
+### stand
+
+* [https://www.spiegel.de/wirtschaft/usa-arbeitslosenzahlen-in-den-usa-auf-hoechstem-stand-seit-vier-jahren](https://www.spiegel.de/wirtschaft/usa-arbeitslosenzahlen-in-den-usa-auf-hoechstem-stand-seit-vier-jahren-a-e42d5080-25ad-4697-a9cc-e196a405d06a#ref=rss)
+### eurovision
+
+* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-2026-irland-will-nicht-teilnehmen-wenn-israel-dabei-ist](https://www.spiegel.de/kultur/tv/eurovision-song-contest-2026-irland-will-nicht-teilnehmen-wenn-israel-dabei-ist-a-39e7726c-203a-4563-8114-51cf924b6fdf#ref=rss)
+### song
+
+* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-2026-irland-will-nicht-teilnehmen-wenn-israel-dabei-ist](https://www.spiegel.de/kultur/tv/eurovision-song-contest-2026-irland-will-nicht-teilnehmen-wenn-israel-dabei-ist-a-39e7726c-203a-4563-8114-51cf924b6fdf#ref=rss)
+### contest
+
+* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-2026-irland-will-nicht-teilnehmen-wenn-israel-dabei-ist](https://www.spiegel.de/kultur/tv/eurovision-song-contest-2026-irland-will-nicht-teilnehmen-wenn-israel-dabei-ist-a-39e7726c-203a-4563-8114-51cf924b6fdf#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-2026-irland-will-nicht-teilnehmen-wenn-israel-dabei-ist](https://www.spiegel.de/kultur/tv/eurovision-song-contest-2026-irland-will-nicht-teilnehmen-wenn-israel-dabei-ist-a-39e7726c-203a-4563-8114-51cf924b6fdf#ref=rss)
+### irland
+
+* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-2026-irland-will-nicht-teilnehmen-wenn-israel-dabei-ist](https://www.spiegel.de/kultur/tv/eurovision-song-contest-2026-irland-will-nicht-teilnehmen-wenn-israel-dabei-ist-a-39e7726c-203a-4563-8114-51cf924b6fdf#ref=rss)
+### israel
+
+* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-2026-irland-will-nicht-teilnehmen-wenn-israel-dabei-ist](https://www.spiegel.de/kultur/tv/eurovision-song-contest-2026-irland-will-nicht-teilnehmen-wenn-israel-dabei-ist-a-39e7726c-203a-4563-8114-51cf924b6fdf#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-ermittler-melden-fund-der-tatwaffe-donald-trump-will-kirk-medaille-verleihen](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-ermittler-melden-fund-der-tatwaffe-donald-trump-will-kirk-medaille-verleihen-a-c52d30ac-b287-41dd-883d-e1f0f4523639#ref=rss)
+### verleihen
+
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-ermittler-melden-fund-der-tatwaffe-donald-trump-will-kirk-medaille-verleihen](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-ermittler-melden-fund-der-tatwaffe-donald-trump-will-kirk-medaille-verleihen-a-c52d30ac-b287-41dd-883d-e1f0f4523639#ref=rss)
 
