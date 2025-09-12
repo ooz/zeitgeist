@@ -4,338 +4,421 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### jahren
-
-* [https://www.spiegel.de/ausland/jair-bolsonaro-was-das-urteil-gegen-brasiliens-ex-praesident-bedeutet](https://www.spiegel.de/ausland/jair-bolsonaro-was-das-urteil-gegen-brasiliens-ex-praesident-bedeutet-a-38666e9f-b123-40b6-87b9-bfcea07c98b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/giorgio-armani-modehaus-soll-schrittweise-verkauft-werden](https://www.spiegel.de/wirtschaft/giorgio-armani-modehaus-soll-schrittweise-verkauft-werden-a-a3c934c7-7ea2-4f50-a137-6c3096a8dada#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/thomas-kemmerich-thueringens-ex-ministerpraesident-verlaesst-die-fdp](https://www.spiegel.de/politik/deutschland/thomas-kemmerich-thueringens-ex-ministerpraesident-verlaesst-die-fdp-a-a86a5761-9dc5-447e-b130-391b0097f830#ref=rss)
-* [https://www.spiegel.de/ausland/sapad-2025-wie-gefaehrlich-ist-russlands-grosse-militaeruebung-in-belarus](https://www.spiegel.de/ausland/sapad-2025-wie-gefaehrlich-ist-russlands-grosse-militaeruebung-in-belarus-a-fea06906-bb54-4657-9a81-22f686ab7684#ref=rss)
-* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-die-letzten-puritaner](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-die-letzten-puritaner-a-e9450e27-5664-468f-a6e7-f7468f05f628#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/ausland/jair-bolsonaro-was-das-urteil-gegen-brasiliens-ex-praesident-bedeutet](https://www.spiegel.de/ausland/jair-bolsonaro-was-das-urteil-gegen-brasiliens-ex-praesident-bedeutet-a-38666e9f-b123-40b6-87b9-bfcea07c98b6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-amokfahrt-auf-weihnachtsmarkt-opfer-und-angehoerige-treffen-sich-vor-prozessbeginn](https://www.spiegel.de/panorama/justiz/magdeburg-amokfahrt-auf-weihnachtsmarkt-opfer-und-angehoerige-treffen-sich-vor-prozessbeginn-a-159600ee-7a22-4ab6-9360-62d4ca23d788#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-istanbuls-oberbuergermeister-ekrem-imamoglu-erneut-vor-gericht](https://www.spiegel.de/ausland/tuerkei-istanbuls-oberbuergermeister-ekrem-imamoglu-erneut-vor-gericht-a-47a6143c-1287-4f4b-9f5b-56156b243db1#ref=rss)
-### charlie
-
-* [https://www.spiegel.de/ausland/ermordung-von-charlie-kirk-schock-im-happy-valley](https://www.spiegel.de/ausland/ermordung-von-charlie-kirk-schock-im-happy-valley-a-e76dbe26-fc00-479c-9394-207a0de94cb0#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-fbi-setzt-belohnung-aus-attentaeter-fluechtet-ueber-dach](https://www.spiegel.de/ausland/charlie-kirk-fbi-setzt-belohnung-aus-attentaeter-fluechtet-ueber-dach-a-09f4531e-def2-495f-b0b5-fe327944a49d#ref=rss)
-### zoo
-
-* [https://www.spiegel.de/panorama/justiz/bremerhaven-veterinaeramt-untersucht-toetung-von-affenbaby-durch-zoo](https://www.spiegel.de/panorama/justiz/bremerhaven-veterinaeramt-untersucht-toetung-von-affenbaby-durch-zoo-a-5f9a296f-18af-4179-9d22-86eff46c6910#ref=rss)
-### lange
-
-* [https://www.spiegel.de/panorama/justiz/bremerhaven-veterinaeramt-untersucht-toetung-von-affenbaby-durch-zoo](https://www.spiegel.de/panorama/justiz/bremerhaven-veterinaeramt-untersucht-toetung-von-affenbaby-durch-zoo-a-5f9a296f-18af-4179-9d22-86eff46c6910#ref=rss)
-* [https://www.spiegel.de/wirtschaft/giorgio-armani-modehaus-soll-schrittweise-verkauft-werden](https://www.spiegel.de/wirtschaft/giorgio-armani-modehaus-soll-schrittweise-verkauft-werden-a-a3c934c7-7ea2-4f50-a137-6c3096a8dada#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-istanbuls-oberbuergermeister-ekrem-imamoglu-erneut-vor-gericht](https://www.spiegel.de/ausland/tuerkei-istanbuls-oberbuergermeister-ekrem-imamoglu-erneut-vor-gericht-a-47a6143c-1287-4f4b-9f5b-56156b243db1#ref=rss)
-### bevor
-
-* [https://www.spiegel.de/ausland/jair-bolsonaro-was-das-urteil-gegen-brasiliens-ex-praesident-bedeutet](https://www.spiegel.de/ausland/jair-bolsonaro-was-das-urteil-gegen-brasiliens-ex-praesident-bedeutet-a-38666e9f-b123-40b6-87b9-bfcea07c98b6#ref=rss)
-* [https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor](https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor-a-db9a13fa-87d9-4e59-adbd-18a089808420#ref=rss)
 ### kirk
 
-* [https://www.spiegel.de/ausland/ermordung-von-charlie-kirk-schock-im-happy-valley](https://www.spiegel.de/ausland/ermordung-von-charlie-kirk-schock-im-happy-valley-a-e76dbe26-fc00-479c-9394-207a0de94cb0#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-fbi-setzt-belohnung-aus-attentaeter-fluechtet-ueber-dach](https://www.spiegel.de/ausland/charlie-kirk-fbi-setzt-belohnung-aus-attentaeter-fluechtet-ueber-dach-a-09f4531e-def2-495f-b0b5-fe327944a49d#ref=rss)
-### zeigt
+* [https://www.spiegel.de/ausland/22-jaehriger-aus-utah-soll-charlie-kirk-getoetet-haben](https://www.spiegel.de/ausland/22-jaehriger-aus-utah-soll-charlie-kirk-getoetet-haben-a-d50afe29-3e44-4588-8aae-47d5b3f3c947#ref=rss)
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### charlie
 
-* [https://www.spiegel.de/reise/deutschland/deutsche-bahn-wie-eine-app-fahrten-billiger-machen-soll](https://www.spiegel.de/reise/deutschland/deutsche-bahn-wie-eine-app-fahrten-billiger-machen-soll-a-dc19ac59-2472-4858-912c-b6fdf31d3054#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/kraken-haben-lieblingsarme-zeigt-eine-studie](https://www.spiegel.de/wissenschaft/natur/kraken-haben-lieblingsarme-zeigt-eine-studie-a-c8e3f4d6-55b9-4161-b998-74a45e89ba91#ref=rss)
-### armani
+* [https://www.spiegel.de/ausland/22-jaehriger-aus-utah-soll-charlie-kirk-getoetet-haben](https://www.spiegel.de/ausland/22-jaehriger-aus-utah-soll-charlie-kirk-getoetet-haben-a-d50afe29-3e44-4588-8aae-47d5b3f3c947#ref=rss)
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### emfinale
 
-* [https://www.spiegel.de/wirtschaft/giorgio-armani-modehaus-soll-schrittweise-verkauft-werden](https://www.spiegel.de/wirtschaft/giorgio-armani-modehaus-soll-schrittweise-verkauft-werden-a-a3c934c7-7ea2-4f50-a137-6c3096a8dada#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale-a-756fdd09-f8fa-4ee4-b513-0e337f3a9da6#ref=rss)
+* [https://www.spiegel.de/sport/basketball/dbb-team-will-sich-gegen-finnland-den-traum-vom-finale-erfuellen](https://www.spiegel.de/sport/basketball/dbb-team-will-sich-gegen-finnland-den-traum-vom-finale-erfuellen-a-ea2da737-a851-426d-b5db-88622670ab9f#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale-a-756fdd09-f8fa-4ee4-b513-0e337f3a9da6#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bundesjugendspiele-kultusminister-armin-schwarz-aus-hessen-im-interview-ich-moechte-dass-jede-sekunde-und-jeder-zentimeter-zaehlen](https://www.spiegel.de/panorama/bildung/bundesjugendspiele-kultusminister-armin-schwarz-aus-hessen-im-interview-ich-moechte-dass-jede-sekunde-und-jeder-zentimeter-zaehlen-a-5ccfd0dd-b30b-4b3a-b637-335ce929f44c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rosenheim-in-oberbayern-rentner-zerstoert-seit-jahren-biberdaemme](https://www.spiegel.de/panorama/justiz/rosenheim-in-oberbayern-rentner-zerstoert-seit-jahren-biberdaemme-a-f70dc1aa-0ab0-42ad-93f4-69ed10bb245f#ref=rss)
+### block
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht-a-3263069d-d6d1-43b2-aa55-75e354c2e1ed#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-christina-block-der-ex-agent-und-seine-kampfsportfreunde](https://www.spiegel.de/panorama/justiz/fall-christina-block-der-ex-agent-und-seine-kampfsportfreunde-a-c3b7534e-23b3-488f-8a6d-ac813921580e#ref=rss)
+### becker
+
+* [https://www.spiegel.de/panorama/leute/boris-becker-lilly-becker-moechte-unterhalt-von-boris-becker-erstreiten](https://www.spiegel.de/panorama/leute/boris-becker-lilly-becker-moechte-unterhalt-von-boris-becker-erstreiten-a-197b7c8e-03be-484e-851f-b6c97775b289#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/kultur/musik/lahav-shani-ausgeladener-dirigent-und-muenchner-philharmoniker-kurzfristig-zum-musikfest-in-berlin-eingeladen](https://www.spiegel.de/kultur/musik/lahav-shani-ausgeladener-dirigent-und-muenchner-philharmoniker-kurzfristig-zum-musikfest-in-berlin-eingeladen-a-7b03ecb6-ffa8-4511-b76a-b84967b8b252#ref=rss)
+* [https://www.spiegel.de/kultur/call-my-agent-berlin-bei-disney-weshalb-moritz-bleibtreu-mal-besser-botox-gespritzt-haette](https://www.spiegel.de/kultur/call-my-agent-berlin-bei-disney-weshalb-moritz-bleibtreu-mal-besser-botox-gespritzt-haette-a-8c80dc3e-a61b-4d71-b2c8-9415c4216df7#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/ausland/ukraine-israel-taiwan-wie-drohnen-die-kriegsfuehrung-revolutionieren](https://www.spiegel.de/ausland/ukraine-israel-taiwan-wie-drohnen-die-kriegsfuehrung-revolutionieren-a-79710f6e-e309-44b5-8b2d-0dc34bb9a4ac#ref=rss)
+* [https://www.spiegel.de/ausland/russische-drohnen-ueber-polen-nato-plant-mission-zur-luftraumverteidigung-an-der-ostflanke](https://www.spiegel.de/ausland/russische-drohnen-ueber-polen-nato-plant-mission-zur-luftraumverteidigung-an-der-ostflanke-a-10cf6e02-f582-4e91-9cad-0831e78669db#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/kultur/tv/oliver-kalkofe-comedian-findet-tv-humor-heute-weniger-minderheitenfeindlich](https://www.spiegel.de/kultur/tv/oliver-kalkofe-comedian-findet-tv-humor-heute-weniger-minderheitenfeindlich-a-db81c7a8-de55-4c33-8537-38857733c8ab#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/niedernhall-in-baden-wuerttemberg-18-jaehriger-soll-kind-angefahren-und-toedlich-verletzt-haben](https://www.spiegel.de/panorama/justiz/niedernhall-in-baden-wuerttemberg-18-jaehriger-soll-kind-angefahren-und-toedlich-verletzt-haben-a-3dd99dd3-a439-42e6-9ec9-bc043a09f35e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/kraken-haben-lieblingsarme-zeigt-eine-studie](https://www.spiegel.de/wissenschaft/natur/kraken-haben-lieblingsarme-zeigt-eine-studie-a-c8e3f4d6-55b9-4161-b998-74a45e89ba91#ref=rss)
-### ukraine
+* [https://www.spiegel.de/ausland/ukraine-israel-taiwan-wie-drohnen-die-kriegsfuehrung-revolutionieren](https://www.spiegel.de/ausland/ukraine-israel-taiwan-wie-drohnen-die-kriegsfuehrung-revolutionieren-a-79710f6e-e309-44b5-8b2d-0dc34bb9a4ac#ref=rss)
+* [https://www.spiegel.de/kultur/pride-am-staatstheater-hannover-heiterer-queerness-grundkurs-fuers-abopublikum](https://www.spiegel.de/kultur/pride-am-staatstheater-hannover-heiterer-queerness-grundkurs-fuers-abopublikum-a-5829331b-e6d1-4c8a-92b7-81ea53ed851b#ref=rss)
+* [https://www.spiegel.de/ausland/migration-irregulaere-grenzuebertritte-in-die-eu-sinken-um-ein-fuenftel](https://www.spiegel.de/ausland/migration-irregulaere-grenzuebertritte-in-die-eu-sinken-um-ein-fuenftel-a-82ca932b-0f11-4311-81b7-b28c697600eb#ref=rss)
+### franz
 
-* [https://www.spiegel.de/panorama/leute/ukraine-prinz-harry-ueberraschend-in-kyjiw-eingetroffen](https://www.spiegel.de/panorama/leute/ukraine-prinz-harry-ueberraschend-in-kyjiw-eingetroffen-a-a8a72833-3228-4ce5-88a5-b577665af73f#ref=rss)
-* [https://www.spiegel.de/ausland/sapad-2025-wie-gefaehrlich-ist-russlands-grosse-militaeruebung-in-belarus](https://www.spiegel.de/ausland/sapad-2025-wie-gefaehrlich-ist-russlands-grosse-militaeruebung-in-belarus-a-fea06906-bb54-4657-9a81-22f686ab7684#ref=rss)
-### behörden
+* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-ist-jetzt-auch-offiziell-ein-denkmal](https://www.spiegel.de/sport/fussball/franz-beckenbauer-ist-jetzt-auch-offiziell-ein-denkmal-a-4d7247e7-b254-46ab-b790-c8eb8ef00d97#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale-a-756fdd09-f8fa-4ee4-b513-0e337f3a9da6#ref=rss)
+### münchner
 
-* [https://www.spiegel.de/panorama/justiz/bremerhaven-veterinaeramt-untersucht-toetung-von-affenbaby-durch-zoo](https://www.spiegel.de/panorama/justiz/bremerhaven-veterinaeramt-untersucht-toetung-von-affenbaby-durch-zoo-a-5f9a296f-18af-4179-9d22-86eff46c6910#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-fbi-setzt-belohnung-aus-attentaeter-fluechtet-ueber-dach](https://www.spiegel.de/ausland/charlie-kirk-fbi-setzt-belohnung-aus-attentaeter-fluechtet-ueber-dach-a-09f4531e-def2-495f-b0b5-fe327944a49d#ref=rss)
-### adrien
+* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-ist-jetzt-auch-offiziell-ein-denkmal](https://www.spiegel.de/sport/fussball/franz-beckenbauer-ist-jetzt-auch-offiziell-ein-denkmal-a-4d7247e7-b254-46ab-b790-c8eb8ef00d97#ref=rss)
+* [https://www.spiegel.de/kultur/musik/lahav-shani-ausgeladener-dirigent-und-muenchner-philharmoniker-kurzfristig-zum-musikfest-in-berlin-eingeladen](https://www.spiegel.de/kultur/musik/lahav-shani-ausgeladener-dirigent-und-muenchner-philharmoniker-kurzfristig-zum-musikfest-in-berlin-eingeladen-a-7b03ecb6-ffa8-4511-b76a-b84967b8b252#ref=rss)
+### stehen
 
-* [https://www.spiegel.de/sport/fussball/fussball-adrien-rabiot-und-jonathan-rowe-koennten-nach-kabineneklat-in-serie-a-wieder-aufeinandertreffen](https://www.spiegel.de/sport/fussball/fussball-adrien-rabiot-und-jonathan-rowe-koennten-nach-kabineneklat-in-serie-a-wieder-aufeinandertreffen-a-26e16128-da45-455c-9c1c-630c95d3ebe6#ref=rss)
-### rabiot
+* [https://www.spiegel.de/ausland/afghanistan-militaer-blockiert-viele-uno-hilfszentren-fuer-helferinnen](https://www.spiegel.de/ausland/afghanistan-militaer-blockiert-viele-uno-hilfszentren-fuer-helferinnen-a-300ba2e5-2590-46d4-bbd2-e08c6c3067af#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale-a-756fdd09-f8fa-4ee4-b513-0e337f3a9da6#ref=rss)
+* [https://www.spiegel.de/sport/basketball/dbb-team-will-sich-gegen-finnland-den-traum-vom-finale-erfuellen](https://www.spiegel.de/sport/basketball/dbb-team-will-sich-gegen-finnland-den-traum-vom-finale-erfuellen-a-ea2da737-a851-426d-b5db-88622670ab9f#ref=rss)
+### finnland
 
-* [https://www.spiegel.de/sport/fussball/fussball-adrien-rabiot-und-jonathan-rowe-koennten-nach-kabineneklat-in-serie-a-wieder-aufeinandertreffen](https://www.spiegel.de/sport/fussball/fussball-adrien-rabiot-und-jonathan-rowe-koennten-nach-kabineneklat-in-serie-a-wieder-aufeinandertreffen-a-26e16128-da45-455c-9c1c-630c95d3ebe6#ref=rss)
-### jonathan
+* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale-a-756fdd09-f8fa-4ee4-b513-0e337f3a9da6#ref=rss)
+* [https://www.spiegel.de/sport/basketball/dbb-team-will-sich-gegen-finnland-den-traum-vom-finale-erfuellen](https://www.spiegel.de/sport/basketball/dbb-team-will-sich-gegen-finnland-den-traum-vom-finale-erfuellen-a-ea2da737-a851-426d-b5db-88622670ab9f#ref=rss)
+### christina
 
-* [https://www.spiegel.de/sport/fussball/fussball-adrien-rabiot-und-jonathan-rowe-koennten-nach-kabineneklat-in-serie-a-wieder-aufeinandertreffen](https://www.spiegel.de/sport/fussball/fussball-adrien-rabiot-und-jonathan-rowe-koennten-nach-kabineneklat-in-serie-a-wieder-aufeinandertreffen-a-26e16128-da45-455c-9c1c-630c95d3ebe6#ref=rss)
-### rowe
-
-* [https://www.spiegel.de/sport/fussball/fussball-adrien-rabiot-und-jonathan-rowe-koennten-nach-kabineneklat-in-serie-a-wieder-aufeinandertreffen](https://www.spiegel.de/sport/fussball/fussball-adrien-rabiot-und-jonathan-rowe-koennten-nach-kabineneklat-in-serie-a-wieder-aufeinandertreffen-a-26e16128-da45-455c-9c1c-630c95d3ebe6#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-apple-watch-und-airpods-zehn-dinge-die-bei-apples-keynote-untergingen](https://www.spiegel.de/netzwelt/gadgets/iphone-apple-watch-und-airpods-zehn-dinge-die-bei-apples-keynote-untergingen-a-5b232fce-5ac3-41e7-b23b-c018e0d3c171#ref=rss)
-* [https://www.spiegel.de/reise/deutschland/deutsche-bahn-wie-eine-app-fahrten-billiger-machen-soll](https://www.spiegel.de/reise/deutschland/deutsche-bahn-wie-eine-app-fahrten-billiger-machen-soll-a-dc19ac59-2472-4858-912c-b6fdf31d3054#ref=rss)
-### andere
-
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-apple-watch-und-airpods-zehn-dinge-die-bei-apples-keynote-untergingen](https://www.spiegel.de/netzwelt/gadgets/iphone-apple-watch-und-airpods-zehn-dinge-die-bei-apples-keynote-untergingen-a-5b232fce-5ac3-41e7-b23b-c018e0d3c171#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/kraken-haben-lieblingsarme-zeigt-eine-studie](https://www.spiegel.de/wissenschaft/natur/kraken-haben-lieblingsarme-zeigt-eine-studie-a-c8e3f4d6-55b9-4161-b998-74a45e89ba91#ref=rss)
-### gernot
-
-* [https://www.spiegel.de/auto/audi-chef-gernot-doellner-kritisiert-debatte-um-verbrenner-als-kontraproduktiv](https://www.spiegel.de/auto/audi-chef-gernot-doellner-kritisiert-debatte-um-verbrenner-als-kontraproduktiv-a-9e90ead9-bdf1-490d-ad2f-de7c8751357f#ref=rss)
-### döllner
-
-* [https://www.spiegel.de/auto/audi-chef-gernot-doellner-kritisiert-debatte-um-verbrenner-als-kontraproduktiv](https://www.spiegel.de/auto/audi-chef-gernot-doellner-kritisiert-debatte-um-verbrenner-als-kontraproduktiv-a-9e90ead9-bdf1-490d-ad2f-de7c8751357f#ref=rss)
-### jair
-
-* [https://www.spiegel.de/ausland/jair-bolsonaro-was-das-urteil-gegen-brasiliens-ex-praesident-bedeutet](https://www.spiegel.de/ausland/jair-bolsonaro-was-das-urteil-gegen-brasiliens-ex-praesident-bedeutet-a-38666e9f-b123-40b6-87b9-bfcea07c98b6#ref=rss)
-### bolsonaro
-
-* [https://www.spiegel.de/ausland/jair-bolsonaro-was-das-urteil-gegen-brasiliens-ex-praesident-bedeutet](https://www.spiegel.de/ausland/jair-bolsonaro-was-das-urteil-gegen-brasiliens-ex-praesident-bedeutet-a-38666e9f-b123-40b6-87b9-bfcea07c98b6#ref=rss)
-### brasiliens
-
-* [https://www.spiegel.de/ausland/jair-bolsonaro-was-das-urteil-gegen-brasiliens-ex-praesident-bedeutet](https://www.spiegel.de/ausland/jair-bolsonaro-was-das-urteil-gegen-brasiliens-ex-praesident-bedeutet-a-38666e9f-b123-40b6-87b9-bfcea07c98b6#ref=rss)
-### 27
-
-* [https://www.spiegel.de/ausland/jair-bolsonaro-was-das-urteil-gegen-brasiliens-ex-praesident-bedeutet](https://www.spiegel.de/ausland/jair-bolsonaro-was-das-urteil-gegen-brasiliens-ex-praesident-bedeutet-a-38666e9f-b123-40b6-87b9-bfcea07c98b6#ref=rss)
-* [https://www.spiegel.de/kultur/musik/eunike-tanzil-ich-dachte-immer-komponisten-seien-alt-und-maennlich-und-die-meisten-tot](https://www.spiegel.de/kultur/musik/eunike-tanzil-ich-dachte-immer-komponisten-seien-alt-und-maennlich-und-die-meisten-tot-a-9e609f93-fc7f-45f3-9a2b-5d6f6cc4e825#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/jair-bolsonaro-was-das-urteil-gegen-brasiliens-ex-praesident-bedeutet](https://www.spiegel.de/ausland/jair-bolsonaro-was-das-urteil-gegen-brasiliens-ex-praesident-bedeutet-a-38666e9f-b123-40b6-87b9-bfcea07c98b6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/ukraine-prinz-harry-ueberraschend-in-kyjiw-eingetroffen](https://www.spiegel.de/panorama/leute/ukraine-prinz-harry-ueberraschend-in-kyjiw-eingetroffen-a-a8a72833-3228-4ce5-88a5-b577665af73f#ref=rss)
-### ermordung
-
-* [https://www.spiegel.de/ausland/ermordung-von-charlie-kirk-schock-im-happy-valley](https://www.spiegel.de/ausland/ermordung-von-charlie-kirk-schock-im-happy-valley-a-e76dbe26-fc00-479c-9394-207a0de94cb0#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/ausland/ermordung-von-charlie-kirk-schock-im-happy-valley](https://www.spiegel.de/ausland/ermordung-von-charlie-kirk-schock-im-happy-valley-a-e76dbe26-fc00-479c-9394-207a0de94cb0#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-fbi-setzt-belohnung-aus-attentaeter-fluechtet-ueber-dach](https://www.spiegel.de/ausland/charlie-kirk-fbi-setzt-belohnung-aus-attentaeter-fluechtet-ueber-dach-a-09f4531e-def2-495f-b0b5-fe327944a49d#ref=rss)
-### besuch
-
-* [https://www.spiegel.de/ausland/ermordung-von-charlie-kirk-schock-im-happy-valley](https://www.spiegel.de/ausland/ermordung-von-charlie-kirk-schock-im-happy-valley-a-e76dbe26-fc00-479c-9394-207a0de94cb0#ref=rss)
-* [https://www.spiegel.de/panorama/leute/ukraine-prinz-harry-ueberraschend-in-kyjiw-eingetroffen](https://www.spiegel.de/panorama/leute/ukraine-prinz-harry-ueberraschend-in-kyjiw-eingetroffen-a-a8a72833-3228-4ce5-88a5-b577665af73f#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/reise/deutschland/deutsche-bahn-wie-eine-app-fahrten-billiger-machen-soll](https://www.spiegel.de/reise/deutschland/deutsche-bahn-wie-eine-app-fahrten-billiger-machen-soll-a-dc19ac59-2472-4858-912c-b6fdf31d3054#ref=rss)
-### app
-
-* [https://www.spiegel.de/reise/deutschland/deutsche-bahn-wie-eine-app-fahrten-billiger-machen-soll](https://www.spiegel.de/reise/deutschland/deutsche-bahn-wie-eine-app-fahrten-billiger-machen-soll-a-dc19ac59-2472-4858-912c-b6fdf31d3054#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/reise/deutschland/deutsche-bahn-wie-eine-app-fahrten-billiger-machen-soll](https://www.spiegel.de/reise/deutschland/deutsche-bahn-wie-eine-app-fahrten-billiger-machen-soll-a-dc19ac59-2472-4858-912c-b6fdf31d3054#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-em-die-eltern-von-tristan-und-oscar-da-silva-im-interview](https://www.spiegel.de/sport/basketball/basketball-em-die-eltern-von-tristan-und-oscar-da-silva-im-interview-a-f7d24231-c65d-46fd-aba8-7088c4c1307b#ref=rss)
-### konzern
-
-* [https://www.spiegel.de/reise/deutschland/deutsche-bahn-wie-eine-app-fahrten-billiger-machen-soll](https://www.spiegel.de/reise/deutschland/deutsche-bahn-wie-eine-app-fahrten-billiger-machen-soll-a-dc19ac59-2472-4858-912c-b6fdf31d3054#ref=rss)
-* [https://www.spiegel.de/wirtschaft/microsoft-vermeidet-kartellstrafe-wegen-teams](https://www.spiegel.de/wirtschaft/microsoft-vermeidet-kartellstrafe-wegen-teams-a-b99f1f9f-a51e-41c7-9889-773fdc806ae5#ref=rss)
-### allerdings
-
-* [https://www.spiegel.de/reise/deutschland/deutsche-bahn-wie-eine-app-fahrten-billiger-machen-soll](https://www.spiegel.de/reise/deutschland/deutsche-bahn-wie-eine-app-fahrten-billiger-machen-soll-a-dc19ac59-2472-4858-912c-b6fdf31d3054#ref=rss)
-* [https://www.spiegel.de/kultur/tv/oliver-kalkofe-comedian-findet-tv-humor-heute-weniger-minderheitenfeindlich](https://www.spiegel.de/kultur/tv/oliver-kalkofe-comedian-findet-tv-humor-heute-weniger-minderheitenfeindlich-a-db81c7a8-de55-4c33-8537-38857733c8ab#ref=rss)
-### giorgio
-
-* [https://www.spiegel.de/wirtschaft/giorgio-armani-modehaus-soll-schrittweise-verkauft-werden](https://www.spiegel.de/wirtschaft/giorgio-armani-modehaus-soll-schrittweise-verkauft-werden-a-a3c934c7-7ea2-4f50-a137-6c3096a8dada#ref=rss)
-### verkauft
-
-* [https://www.spiegel.de/wirtschaft/giorgio-armani-modehaus-soll-schrittweise-verkauft-werden](https://www.spiegel.de/wirtschaft/giorgio-armani-modehaus-soll-schrittweise-verkauft-werden-a-a3c934c7-7ea2-4f50-a137-6c3096a8dada#ref=rss)
-### de
-
-* [https://www.spiegel.de/kultur/musik/flandern-festival-bart-de-wever-nennt-ausladung-von-lahav-shani-unverantwortlich](https://www.spiegel.de/kultur/musik/flandern-festival-bart-de-wever-nennt-ausladung-von-lahav-shani-unverantwortlich-a-5d185ab0-723c-44d1-995c-a64193f732f3#ref=rss)
-### wever
-
-* [https://www.spiegel.de/kultur/musik/flandern-festival-bart-de-wever-nennt-ausladung-von-lahav-shani-unverantwortlich](https://www.spiegel.de/kultur/musik/flandern-festival-bart-de-wever-nennt-ausladung-von-lahav-shani-unverantwortlich-a-5d185ab0-723c-44d1-995c-a64193f732f3#ref=rss)
-### gleich
-
-* [https://www.spiegel.de/kultur/musik/flandern-festival-bart-de-wever-nennt-ausladung-von-lahav-shani-unverantwortlich](https://www.spiegel.de/kultur/musik/flandern-festival-bart-de-wever-nennt-ausladung-von-lahav-shani-unverantwortlich-a-5d185ab0-723c-44d1-995c-a64193f732f3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/kraken-haben-lieblingsarme-zeigt-eine-studie](https://www.spiegel.de/wissenschaft/natur/kraken-haben-lieblingsarme-zeigt-eine-studie-a-c8e3f4d6-55b9-4161-b998-74a45e89ba91#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-suedkoreanische-arbeiter-kehren-nach-festnahme-in-die-heimat-zurueck](https://www.spiegel.de/ausland/usa-suedkoreanische-arbeiter-kehren-nach-festnahme-in-die-heimat-zurueck-a-60590077-3934-498e-8bff-9ca5d06db9bf#ref=rss)
-* [https://www.spiegel.de/panorama/leute/bad-bunny-weltstar-tritt-aus-sorge-vor-abschiebungen-nicht-in-den-usa-auf](https://www.spiegel.de/panorama/leute/bad-bunny-weltstar-tritt-aus-sorge-vor-abschiebungen-nicht-in-den-usa-auf-a-d7b119fa-e87d-410e-ba3e-ca12ad69addc#ref=rss)
-### arbeiter
-
-* [https://www.spiegel.de/ausland/usa-suedkoreanische-arbeiter-kehren-nach-festnahme-in-die-heimat-zurueck](https://www.spiegel.de/ausland/usa-suedkoreanische-arbeiter-kehren-nach-festnahme-in-die-heimat-zurueck-a-60590077-3934-498e-8bff-9ca5d06db9bf#ref=rss)
-### useinwanderungsbehörde
-
-* [https://www.spiegel.de/ausland/usa-suedkoreanische-arbeiter-kehren-nach-festnahme-in-die-heimat-zurueck](https://www.spiegel.de/ausland/usa-suedkoreanische-arbeiter-kehren-nach-festnahme-in-die-heimat-zurueck-a-60590077-3934-498e-8bff-9ca5d06db9bf#ref=rss)
-* [https://www.spiegel.de/panorama/leute/bad-bunny-weltstar-tritt-aus-sorge-vor-abschiebungen-nicht-in-den-usa-auf](https://www.spiegel.de/panorama/leute/bad-bunny-weltstar-tritt-aus-sorge-vor-abschiebungen-nicht-in-den-usa-auf-a-d7b119fa-e87d-410e-ba3e-ca12ad69addc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht-a-3263069d-d6d1-43b2-aa55-75e354c2e1ed#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-christina-block-der-ex-agent-und-seine-kampfsportfreunde](https://www.spiegel.de/panorama/justiz/fall-christina-block-der-ex-agent-und-seine-kampfsportfreunde-a-c3b7534e-23b3-488f-8a6d-ac813921580e#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/usa-suedkoreanische-arbeiter-kehren-nach-festnahme-in-die-heimat-zurueck](https://www.spiegel.de/ausland/usa-suedkoreanische-arbeiter-kehren-nach-festnahme-in-die-heimat-zurueck-a-60590077-3934-498e-8bff-9ca5d06db9bf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/thomas-kemmerich-thueringens-ex-ministerpraesident-verlaesst-die-fdp](https://www.spiegel.de/politik/deutschland/thomas-kemmerich-thueringens-ex-ministerpraesident-verlaesst-die-fdp-a-a86a5761-9dc5-447e-b130-391b0097f830#ref=rss)
-### startup
+* [https://www.spiegel.de/kultur/tv/tatort-aus-franken-kommissar-voss-ermittelt-jetzt-solo-ich-seh-dich-mit-fabian-hinrichs](https://www.spiegel.de/kultur/tv/tatort-aus-franken-kommissar-voss-ermittelt-jetzt-solo-ich-seh-dich-mit-fabian-hinrichs-a-688718ee-425f-49fa-abca-09d26e471d71#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bundesjugendspiele-kultusminister-armin-schwarz-aus-hessen-im-interview-ich-moechte-dass-jede-sekunde-und-jeder-zentimeter-zaehlen](https://www.spiegel.de/panorama/bildung/bundesjugendspiele-kultusminister-armin-schwarz-aus-hessen-im-interview-ich-moechte-dass-jede-sekunde-und-jeder-zentimeter-zaehlen-a-5ccfd0dd-b30b-4b3a-b637-335ce929f44c#ref=rss)
+### wichtig
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/start-up-lap-coffee-der-kampf-um-den-billigkaffee](https://www.spiegel.de/wirtschaft/unternehmen/start-up-lap-coffee-der-kampf-um-den-billigkaffee-a-0318e8e1-f63f-4439-9cf4-651303e51137#ref=rss)
-### lap
+* [https://www.spiegel.de/panorama/bildung/bundesjugendspiele-kultusminister-armin-schwarz-aus-hessen-im-interview-ich-moechte-dass-jede-sekunde-und-jeder-zentimeter-zaehlen](https://www.spiegel.de/panorama/bildung/bundesjugendspiele-kultusminister-armin-schwarz-aus-hessen-im-interview-ich-moechte-dass-jede-sekunde-und-jeder-zentimeter-zaehlen-a-5ccfd0dd-b30b-4b3a-b637-335ce929f44c#ref=rss)
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### boris
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/start-up-lap-coffee-der-kampf-um-den-billigkaffee](https://www.spiegel.de/wirtschaft/unternehmen/start-up-lap-coffee-der-kampf-um-den-billigkaffee-a-0318e8e1-f63f-4439-9cf4-651303e51137#ref=rss)
-### coffee
+* [https://www.spiegel.de/panorama/leute/boris-becker-lilly-becker-moechte-unterhalt-von-boris-becker-erstreiten](https://www.spiegel.de/panorama/leute/boris-becker-lilly-becker-moechte-unterhalt-von-boris-becker-erstreiten-a-197b7c8e-03be-484e-851f-b6c97775b289#ref=rss)
+### unterhalt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/start-up-lap-coffee-der-kampf-um-den-billigkaffee](https://www.spiegel.de/wirtschaft/unternehmen/start-up-lap-coffee-der-kampf-um-den-billigkaffee-a-0318e8e1-f63f-4439-9cf4-651303e51137#ref=rss)
-### eltern
+* [https://www.spiegel.de/panorama/leute/boris-becker-lilly-becker-moechte-unterhalt-von-boris-becker-erstreiten](https://www.spiegel.de/panorama/leute/boris-becker-lilly-becker-moechte-unterhalt-von-boris-becker-erstreiten-a-197b7c8e-03be-484e-851f-b6c97775b289#ref=rss)
+### mann
 
-* [https://www.spiegel.de/sport/basketball/basketball-em-die-eltern-von-tristan-und-oscar-da-silva-im-interview](https://www.spiegel.de/sport/basketball/basketball-em-die-eltern-von-tristan-und-oscar-da-silva-im-interview-a-f7d24231-c65d-46fd-aba8-7088c4c1307b#ref=rss)
-### tristan
+* [https://www.spiegel.de/panorama/usa-walmart-verbietet-kunden-das-einkaufen-mit-seinem-alligator](https://www.spiegel.de/panorama/usa-walmart-verbietet-kunden-das-einkaufen-mit-seinem-alligator-a-811d97a9-6a5a-482c-833b-5c4bf9a43a36#ref=rss)
+* [https://www.spiegel.de/ausland/22-jaehriger-aus-utah-soll-charlie-kirk-getoetet-haben](https://www.spiegel.de/ausland/22-jaehriger-aus-utah-soll-charlie-kirk-getoetet-haben-a-d50afe29-3e44-4588-8aae-47d5b3f3c947#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rosenheim-in-oberbayern-rentner-zerstoert-seit-jahren-biberdaemme](https://www.spiegel.de/panorama/justiz/rosenheim-in-oberbayern-rentner-zerstoert-seit-jahren-biberdaemme-a-f70dc1aa-0ab0-42ad-93f4-69ed10bb245f#ref=rss)
+### macht
 
-* [https://www.spiegel.de/sport/basketball/basketball-em-die-eltern-von-tristan-und-oscar-da-silva-im-interview](https://www.spiegel.de/sport/basketball/basketball-em-die-eltern-von-tristan-und-oscar-da-silva-im-interview-a-f7d24231-c65d-46fd-aba8-7088c4c1307b#ref=rss)
-### oscar
+* [https://www.spiegel.de/panorama/usa-walmart-verbietet-kunden-das-einkaufen-mit-seinem-alligator](https://www.spiegel.de/panorama/usa-walmart-verbietet-kunden-das-einkaufen-mit-seinem-alligator-a-811d97a9-6a5a-482c-833b-5c4bf9a43a36#ref=rss)
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/basketball/basketball-em-die-eltern-von-tristan-und-oscar-da-silva-im-interview](https://www.spiegel.de/sport/basketball/basketball-em-die-eltern-von-tristan-und-oscar-da-silva-im-interview-a-f7d24231-c65d-46fd-aba8-7088c4c1307b#ref=rss)
-### silva
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-nationalgarde-nach-memphis-schicken](https://www.spiegel.de/ausland/donald-trump-will-nationalgarde-nach-memphis-schicken-a-9edd042b-1ab2-4c13-98ef-1a6ae3fa2eab#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/basketball/basketball-em-die-eltern-von-tristan-und-oscar-da-silva-im-interview](https://www.spiegel.de/sport/basketball/basketball-em-die-eltern-von-tristan-und-oscar-da-silva-im-interview-a-f7d24231-c65d-46fd-aba8-7088c4c1307b#ref=rss)
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-nationalgarde-nach-memphis-schicken](https://www.spiegel.de/ausland/donald-trump-will-nationalgarde-nach-memphis-schicken-a-9edd042b-1ab2-4c13-98ef-1a6ae3fa2eab#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/ukraine-israel-taiwan-wie-drohnen-die-kriegsfuehrung-revolutionieren](https://www.spiegel.de/ausland/ukraine-israel-taiwan-wie-drohnen-die-kriegsfuehrung-revolutionieren-a-79710f6e-e309-44b5-8b2d-0dc34bb9a4ac#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-christina-block-der-ex-agent-und-seine-kampfsportfreunde](https://www.spiegel.de/panorama/justiz/fall-christina-block-der-ex-agent-und-seine-kampfsportfreunde-a-c3b7534e-23b3-488f-8a6d-ac813921580e#ref=rss)
+### kriegsführung
+
+* [https://www.spiegel.de/ausland/ukraine-israel-taiwan-wie-drohnen-die-kriegsfuehrung-revolutionieren](https://www.spiegel.de/ausland/ukraine-israel-taiwan-wie-drohnen-die-kriegsfuehrung-revolutionieren-a-79710f6e-e309-44b5-8b2d-0dc34bb9a4ac#ref=rss)
+### nikolaj
+
+* [https://www.spiegel.de/ausland/belarus-oppositioneller-nikolaj-statkewitsch-nach-freilassung-vermisst](https://www.spiegel.de/ausland/belarus-oppositioneller-nikolaj-statkewitsch-nach-freilassung-vermisst-a-32e718c6-6cce-43d1-ba02-d6b5d878c0a9#ref=rss)
+### statkewitsch
+
+* [https://www.spiegel.de/ausland/belarus-oppositioneller-nikolaj-statkewitsch-nach-freilassung-vermisst](https://www.spiegel.de/ausland/belarus-oppositioneller-nikolaj-statkewitsch-nach-freilassung-vermisst-a-32e718c6-6cce-43d1-ba02-d6b5d878c0a9#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/belarus-oppositioneller-nikolaj-statkewitsch-nach-freilassung-vermisst](https://www.spiegel.de/ausland/belarus-oppositioneller-nikolaj-statkewitsch-nach-freilassung-vermisst-a-32e718c6-6cce-43d1-ba02-d6b5d878c0a9#ref=rss)
+* [https://www.spiegel.de/ausland/22-jaehriger-aus-utah-soll-charlie-kirk-getoetet-haben](https://www.spiegel.de/ausland/22-jaehriger-aus-utah-soll-charlie-kirk-getoetet-haben-a-d50afe29-3e44-4588-8aae-47d5b3f3c947#ref=rss)
+### sushila
+
+* [https://www.spiegel.de/ausland/nepal-sushila-karki-uebernimmt-nach-protesten-die-regierung](https://www.spiegel.de/ausland/nepal-sushila-karki-uebernimmt-nach-protesten-die-regierung-a-5ed4fc95-a96d-496b-a9dd-b762a469459a#ref=rss)
+### karki
+
+* [https://www.spiegel.de/ausland/nepal-sushila-karki-uebernimmt-nach-protesten-die-regierung](https://www.spiegel.de/ausland/nepal-sushila-karki-uebernimmt-nach-protesten-die-regierung-a-5ed4fc95-a96d-496b-a9dd-b762a469459a#ref=rss)
+### protesten
+
+* [https://www.spiegel.de/ausland/nepal-sushila-karki-uebernimmt-nach-protesten-die-regierung](https://www.spiegel.de/ausland/nepal-sushila-karki-uebernimmt-nach-protesten-die-regierung-a-5ed4fc95-a96d-496b-a9dd-b762a469459a#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/ausland/nepal-sushila-karki-uebernimmt-nach-protesten-die-regierung](https://www.spiegel.de/ausland/nepal-sushila-karki-uebernimmt-nach-protesten-die-regierung-a-5ed4fc95-a96d-496b-a9dd-b762a469459a#ref=rss)
+* [https://www.spiegel.de/ausland/migration-irregulaere-grenzuebertritte-in-die-eu-sinken-um-ein-fuenftel](https://www.spiegel.de/ausland/migration-irregulaere-grenzuebertritte-in-die-eu-sinken-um-ein-fuenftel-a-82ca932b-0f11-4311-81b7-b28c697600eb#ref=rss)
+### erste
+
+* [https://www.spiegel.de/ausland/nepal-sushila-karki-uebernimmt-nach-protesten-die-regierung](https://www.spiegel.de/ausland/nepal-sushila-karki-uebernimmt-nach-protesten-die-regierung-a-5ed4fc95-a96d-496b-a9dd-b762a469459a#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-militaer-blockiert-viele-uno-hilfszentren-fuer-helferinnen](https://www.spiegel.de/ausland/afghanistan-militaer-blockiert-viele-uno-hilfszentren-fuer-helferinnen-a-300ba2e5-2590-46d4-bbd2-e08c6c3067af#ref=rss)
+### beckenbauer
+
+* [https://www.spiegel.de/sport/fussball/franz-beckenbauer-ist-jetzt-auch-offiziell-ein-denkmal](https://www.spiegel.de/sport/fussball/franz-beckenbauer-ist-jetzt-auch-offiziell-ein-denkmal-a-4d7247e7-b254-46ab-b790-c8eb8ef00d97#ref=rss)
+### afghanistan
+
+* [https://www.spiegel.de/ausland/afghanistan-militaer-blockiert-viele-uno-hilfszentren-fuer-helferinnen](https://www.spiegel.de/ausland/afghanistan-militaer-blockiert-viele-uno-hilfszentren-fuer-helferinnen-a-300ba2e5-2590-46d4-bbd2-e08c6c3067af#ref=rss)
+* [https://www.spiegel.de/politik/auswaertiges-amt-bundesverdienstkreuz-fuer-rettungsaktion-in-afghanistan](https://www.spiegel.de/politik/auswaertiges-amt-bundesverdienstkreuz-fuer-rettungsaktion-in-afghanistan-a-40cd82a8-7f9d-4737-bb5f-69812b4a51f9#ref=rss)
+### unohilfszentren
+
+* [https://www.spiegel.de/ausland/afghanistan-militaer-blockiert-viele-uno-hilfszentren-fuer-helferinnen](https://www.spiegel.de/ausland/afghanistan-militaer-blockiert-viele-uno-hilfszentren-fuer-helferinnen-a-300ba2e5-2590-46d4-bbd2-e08c6c3067af#ref=rss)
+### co
+
+* [https://www.spiegel.de/politik/social-media-wie-sich-friedrich-merz-und-co-in-den-sozialen-netzwerken-inszenieren](https://www.spiegel.de/politik/social-media-wie-sich-friedrich-merz-und-co-in-den-sozialen-netzwerken-inszenieren-a-4bbb85ab-5b86-4804-b813-b0e93a447064#ref=rss)
+### außenminister
+
+* [https://www.spiegel.de/politik/social-media-wie-sich-friedrich-merz-und-co-in-den-sozialen-netzwerken-inszenieren](https://www.spiegel.de/politik/social-media-wie-sich-friedrich-merz-und-co-in-den-sozialen-netzwerken-inszenieren-a-4bbb85ab-5b86-4804-b813-b0e93a447064#ref=rss)
+* [https://www.spiegel.de/politik/auswaertiges-amt-bundesverdienstkreuz-fuer-rettungsaktion-in-afghanistan](https://www.spiegel.de/politik/auswaertiges-amt-bundesverdienstkreuz-fuer-rettungsaktion-in-afghanistan-a-40cd82a8-7f9d-4737-bb5f-69812b4a51f9#ref=rss)
+### neue
+
+* [https://www.spiegel.de/politik/social-media-wie-sich-friedrich-merz-und-co-in-den-sozialen-netzwerken-inszenieren](https://www.spiegel.de/politik/social-media-wie-sich-friedrich-merz-und-co-in-den-sozialen-netzwerken-inszenieren-a-4bbb85ab-5b86-4804-b813-b0e93a447064#ref=rss)
+* [https://www.spiegel.de/kultur/pride-am-staatstheater-hannover-heiterer-queerness-grundkurs-fuers-abopublikum](https://www.spiegel.de/kultur/pride-am-staatstheater-hannover-heiterer-queerness-grundkurs-fuers-abopublikum-a-5829331b-e6d1-4c8a-92b7-81ea53ed851b#ref=rss)
+### stärker
+
+* [https://www.spiegel.de/politik/social-media-wie-sich-friedrich-merz-und-co-in-den-sozialen-netzwerken-inszenieren](https://www.spiegel.de/politik/social-media-wie-sich-friedrich-merz-und-co-in-den-sozialen-netzwerken-inszenieren-a-4bbb85ab-5b86-4804-b813-b0e93a447064#ref=rss)
+* [https://www.spiegel.de/ausland/russische-drohnen-ueber-polen-nato-plant-mission-zur-luftraumverteidigung-an-der-ostflanke](https://www.spiegel.de/ausland/russische-drohnen-ueber-polen-nato-plant-mission-zur-luftraumverteidigung-an-der-ostflanke-a-10cf6e02-f582-4e91-9cad-0831e78669db#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale-a-756fdd09-f8fa-4ee4-b513-0e337f3a9da6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/eu-klimaziel-2040-streit-um-klimaziel-gefaehrdet-europas-vorreiterrolle](https://www.spiegel.de/wissenschaft/mensch/eu-klimaziel-2040-streit-um-klimaziel-gefaehrdet-europas-vorreiterrolle-a-263c21f4-70f5-48d9-9718-7c31c4e01543#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale-a-756fdd09-f8fa-4ee4-b513-0e337f3a9da6#ref=rss)
+* [https://www.spiegel.de/sport/basketball/dbb-team-will-sich-gegen-finnland-den-traum-vom-finale-erfuellen](https://www.spiegel.de/sport/basketball/dbb-team-will-sich-gegen-finnland-den-traum-vom-finale-erfuellen-a-ea2da737-a851-426d-b5db-88622670ab9f#ref=rss)
+### basketballer
+
+* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale-a-756fdd09-f8fa-4ee4-b513-0e337f3a9da6#ref=rss)
+* [https://www.spiegel.de/sport/basketball/dbb-team-will-sich-gegen-finnland-den-traum-vom-finale-erfuellen](https://www.spiegel.de/sport/basketball/dbb-team-will-sich-gegen-finnland-den-traum-vom-finale-erfuellen-a-ea2da737-a851-426d-b5db-88622670ab9f#ref=rss)
+### leistung
+
+* [https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale](https://www.spiegel.de/sport/basketball/basketball-em-deutschland-besiegt-finnland-und-steht-im-em-finale-a-756fdd09-f8fa-4ee4-b513-0e337f3a9da6#ref=rss)
+* [https://www.spiegel.de/sport/basketball/dbb-team-will-sich-gegen-finnland-den-traum-vom-finale-erfuellen](https://www.spiegel.de/sport/basketball/dbb-team-will-sich-gegen-finnland-den-traum-vom-finale-erfuellen-a-ea2da737-a851-426d-b5db-88622670ab9f#ref=rss)
+### nato
+
+* [https://www.spiegel.de/ausland/russische-drohnen-ueber-polen-nato-plant-mission-zur-luftraumverteidigung-an-der-ostflanke](https://www.spiegel.de/ausland/russische-drohnen-ueber-polen-nato-plant-mission-zur-luftraumverteidigung-an-der-ostflanke-a-10cf6e02-f582-4e91-9cad-0831e78669db#ref=rss)
+### ostflanke
+
+* [https://www.spiegel.de/ausland/russische-drohnen-ueber-polen-nato-plant-mission-zur-luftraumverteidigung-an-der-ostflanke](https://www.spiegel.de/ausland/russische-drohnen-ueber-polen-nato-plant-mission-zur-luftraumverteidigung-an-der-ostflanke-a-10cf6e02-f582-4e91-9cad-0831e78669db#ref=rss)
+### drei
+
+* [https://www.spiegel.de/politik/auswaertiges-amt-bundesverdienstkreuz-fuer-rettungsaktion-in-afghanistan](https://www.spiegel.de/politik/auswaertiges-amt-bundesverdienstkreuz-fuer-rettungsaktion-in-afghanistan-a-40cd82a8-7f9d-4737-bb5f-69812b4a51f9#ref=rss)
+* [https://www.spiegel.de/netzwelt/darknet-drogenhandel-ermittler-decken-millionenschweren-handel-auf](https://www.spiegel.de/netzwelt/darknet-drogenhandel-ermittler-decken-millionenschweren-handel-auf-a-0bb2219b-92fb-40eb-8183-458972c0d85d#ref=rss)
+### laut
+
+* [https://www.spiegel.de/politik/auswaertiges-amt-bundesverdienstkreuz-fuer-rettungsaktion-in-afghanistan](https://www.spiegel.de/politik/auswaertiges-amt-bundesverdienstkreuz-fuer-rettungsaktion-in-afghanistan-a-40cd82a8-7f9d-4737-bb5f-69812b4a51f9#ref=rss)
+* [https://www.spiegel.de/ausland/migration-irregulaere-grenzuebertritte-in-die-eu-sinken-um-ein-fuenftel](https://www.spiegel.de/ausland/migration-irregulaere-grenzuebertritte-in-die-eu-sinken-um-ein-fuenftel-a-82ca932b-0f11-4311-81b7-b28c697600eb#ref=rss)
+### todesfahrt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht-a-3263069d-d6d1-43b2-aa55-75e354c2e1ed#ref=rss)
 ### magdeburg
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-amokfahrt-auf-weihnachtsmarkt-opfer-und-angehoerige-treffen-sich-vor-prozessbeginn](https://www.spiegel.de/panorama/justiz/magdeburg-amokfahrt-auf-weihnachtsmarkt-opfer-und-angehoerige-treffen-sich-vor-prozessbeginn-a-159600ee-7a22-4ab6-9360-62d4ca23d788#ref=rss)
-### treffen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht-a-3263069d-d6d1-43b2-aa55-75e354c2e1ed#ref=rss)
+### sahra
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-amokfahrt-auf-weihnachtsmarkt-opfer-und-angehoerige-treffen-sich-vor-prozessbeginn](https://www.spiegel.de/panorama/justiz/magdeburg-amokfahrt-auf-weihnachtsmarkt-opfer-und-angehoerige-treffen-sich-vor-prozessbeginn-a-159600ee-7a22-4ab6-9360-62d4ca23d788#ref=rss)
-### spiegel
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht-a-3263069d-d6d1-43b2-aa55-75e354c2e1ed#ref=rss)
+### wagenknecht
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-amokfahrt-auf-weihnachtsmarkt-opfer-und-angehoerige-treffen-sich-vor-prozessbeginn](https://www.spiegel.de/panorama/justiz/magdeburg-amokfahrt-auf-weihnachtsmarkt-opfer-und-angehoerige-treffen-sich-vor-prozessbeginn-a-159600ee-7a22-4ab6-9360-62d4ca23d788#ref=rss)
-* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-die-letzten-puritaner](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-die-letzten-puritaner-a-e9450e27-5664-468f-a6e7-f7468f05f628#ref=rss)
-### helmut
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht-a-3263069d-d6d1-43b2-aa55-75e354c2e1ed#ref=rss)
+### verdächtigen
 
-* [https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor](https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor-a-db9a13fa-87d9-4e59-adbd-18a089808420#ref=rss)
-### schmidt
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht-a-3263069d-d6d1-43b2-aa55-75e354c2e1ed#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-christina-block-der-ex-agent-und-seine-kampfsportfreunde](https://www.spiegel.de/panorama/justiz/fall-christina-block-der-ex-agent-und-seine-kampfsportfreunde-a-c3b7534e-23b3-488f-8a6d-ac813921580e#ref=rss)
+### fall
 
-* [https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor](https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor-a-db9a13fa-87d9-4e59-adbd-18a089808420#ref=rss)
-### glaubte
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht-a-3263069d-d6d1-43b2-aa55-75e354c2e1ed#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-christina-block-der-ex-agent-und-seine-kampfsportfreunde](https://www.spiegel.de/panorama/justiz/fall-christina-block-der-ex-agent-und-seine-kampfsportfreunde-a-c3b7534e-23b3-488f-8a6d-ac813921580e#ref=rss)
+### ausgeliefert
 
-* [https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor](https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor-a-db9a13fa-87d9-4e59-adbd-18a089808420#ref=rss)
-### 1980
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht](https://www.spiegel.de/politik/deutschland/news-des-tages-todesfahrt-von-magdeburg-christina-block-sahra-wagenknecht-a-3263069d-d6d1-43b2-aa55-75e354c2e1ed#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-christina-block-der-ex-agent-und-seine-kampfsportfreunde](https://www.spiegel.de/panorama/justiz/fall-christina-block-der-ex-agent-und-seine-kampfsportfreunde-a-c3b7534e-23b3-488f-8a6d-ac813921580e#ref=rss)
+### pride
 
-* [https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor](https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor-a-db9a13fa-87d9-4e59-adbd-18a089808420#ref=rss)
-### weltkrieg
+* [https://www.spiegel.de/kultur/pride-am-staatstheater-hannover-heiterer-queerness-grundkurs-fuers-abopublikum](https://www.spiegel.de/kultur/pride-am-staatstheater-hannover-heiterer-queerness-grundkurs-fuers-abopublikum-a-5829331b-e6d1-4c8a-92b7-81ea53ed851b#ref=rss)
+### hannover
 
-* [https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor](https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor-a-db9a13fa-87d9-4e59-adbd-18a089808420#ref=rss)
-* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-die-letzten-puritaner](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-die-letzten-puritaner-a-e9450e27-5664-468f-a6e7-f7468f05f628#ref=rss)
-### stehe
+* [https://www.spiegel.de/kultur/pride-am-staatstheater-hannover-heiterer-queerness-grundkurs-fuers-abopublikum](https://www.spiegel.de/kultur/pride-am-staatstheater-hannover-heiterer-queerness-grundkurs-fuers-abopublikum-a-5829331b-e6d1-4c8a-92b7-81ea53ed851b#ref=rss)
+### kommissar
 
-* [https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor](https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor-a-db9a13fa-87d9-4e59-adbd-18a089808420#ref=rss)
-### moskau
+* [https://www.spiegel.de/kultur/tv/tatort-aus-franken-kommissar-voss-ermittelt-jetzt-solo-ich-seh-dich-mit-fabian-hinrichs](https://www.spiegel.de/kultur/tv/tatort-aus-franken-kommissar-voss-ermittelt-jetzt-solo-ich-seh-dich-mit-fabian-hinrichs-a-688718ee-425f-49fa-abca-09d26e471d71#ref=rss)
+### voss
 
-* [https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor](https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor-a-db9a13fa-87d9-4e59-adbd-18a089808420#ref=rss)
-* [https://www.spiegel.de/ausland/sapad-2025-wie-gefaehrlich-ist-russlands-grosse-militaeruebung-in-belarus](https://www.spiegel.de/ausland/sapad-2025-wie-gefaehrlich-ist-russlands-grosse-militaeruebung-in-belarus-a-fea06906-bb54-4657-9a81-22f686ab7684#ref=rss)
-### unter
+* [https://www.spiegel.de/kultur/tv/tatort-aus-franken-kommissar-voss-ermittelt-jetzt-solo-ich-seh-dich-mit-fabian-hinrichs](https://www.spiegel.de/kultur/tv/tatort-aus-franken-kommissar-voss-ermittelt-jetzt-solo-ich-seh-dich-mit-fabian-hinrichs-a-688718ee-425f-49fa-abca-09d26e471d71#ref=rss)
+### ermittelt
 
-* [https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor](https://www.spiegel.de/panorama/kalter-krieg-helmut-schmidt-glaubte-1980-der-dritte-weltkrieg-stehe-bevor-a-db9a13fa-87d9-4e59-adbd-18a089808420#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-fbi-setzt-belohnung-aus-attentaeter-fluechtet-ueber-dach](https://www.spiegel.de/ausland/charlie-kirk-fbi-setzt-belohnung-aus-attentaeter-fluechtet-ueber-dach-a-09f4531e-def2-495f-b0b5-fe327944a49d#ref=rss)
-### microsoft
+* [https://www.spiegel.de/kultur/tv/tatort-aus-franken-kommissar-voss-ermittelt-jetzt-solo-ich-seh-dich-mit-fabian-hinrichs](https://www.spiegel.de/kultur/tv/tatort-aus-franken-kommissar-voss-ermittelt-jetzt-solo-ich-seh-dich-mit-fabian-hinrichs-a-688718ee-425f-49fa-abca-09d26e471d71#ref=rss)
+### solo
 
-* [https://www.spiegel.de/wirtschaft/microsoft-vermeidet-kartellstrafe-wegen-teams](https://www.spiegel.de/wirtschaft/microsoft-vermeidet-kartellstrafe-wegen-teams-a-b99f1f9f-a51e-41c7-9889-773fdc806ae5#ref=rss)
-### nina
+* [https://www.spiegel.de/kultur/tv/tatort-aus-franken-kommissar-voss-ermittelt-jetzt-solo-ich-seh-dich-mit-fabian-hinrichs](https://www.spiegel.de/kultur/tv/tatort-aus-franken-kommissar-voss-ermittelt-jetzt-solo-ich-seh-dich-mit-fabian-hinrichs-a-688718ee-425f-49fa-abca-09d26e471d71#ref=rss)
+### ich
 
-* [https://www.spiegel.de/wirtschaft/gesundheit-nina-warken-schliesst-leistungskuerzungen-der-krankenkassen-nicht-aus](https://www.spiegel.de/wirtschaft/gesundheit-nina-warken-schliesst-leistungskuerzungen-der-krankenkassen-nicht-aus-a-6e82bd65-466d-448b-802d-217f05790cf8#ref=rss)
-### warken
+* [https://www.spiegel.de/kultur/tv/tatort-aus-franken-kommissar-voss-ermittelt-jetzt-solo-ich-seh-dich-mit-fabian-hinrichs](https://www.spiegel.de/kultur/tv/tatort-aus-franken-kommissar-voss-ermittelt-jetzt-solo-ich-seh-dich-mit-fabian-hinrichs-a-688718ee-425f-49fa-abca-09d26e471d71#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bundesjugendspiele-kultusminister-armin-schwarz-aus-hessen-im-interview-ich-moechte-dass-jede-sekunde-und-jeder-zentimeter-zaehlen](https://www.spiegel.de/panorama/bildung/bundesjugendspiele-kultusminister-armin-schwarz-aus-hessen-im-interview-ich-moechte-dass-jede-sekunde-und-jeder-zentimeter-zaehlen-a-5ccfd0dd-b30b-4b3a-b637-335ce929f44c#ref=rss)
+### kultusminister
 
-* [https://www.spiegel.de/wirtschaft/gesundheit-nina-warken-schliesst-leistungskuerzungen-der-krankenkassen-nicht-aus](https://www.spiegel.de/wirtschaft/gesundheit-nina-warken-schliesst-leistungskuerzungen-der-krankenkassen-nicht-aus-a-6e82bd65-466d-448b-802d-217f05790cf8#ref=rss)
-### krankenkassen
+* [https://www.spiegel.de/panorama/bildung/bundesjugendspiele-kultusminister-armin-schwarz-aus-hessen-im-interview-ich-moechte-dass-jede-sekunde-und-jeder-zentimeter-zaehlen](https://www.spiegel.de/panorama/bildung/bundesjugendspiele-kultusminister-armin-schwarz-aus-hessen-im-interview-ich-moechte-dass-jede-sekunde-und-jeder-zentimeter-zaehlen-a-5ccfd0dd-b30b-4b3a-b637-335ce929f44c#ref=rss)
+### armin
 
-* [https://www.spiegel.de/wirtschaft/gesundheit-nina-warken-schliesst-leistungskuerzungen-der-krankenkassen-nicht-aus](https://www.spiegel.de/wirtschaft/gesundheit-nina-warken-schliesst-leistungskuerzungen-der-krankenkassen-nicht-aus-a-6e82bd65-466d-448b-802d-217f05790cf8#ref=rss)
-### oliver
+* [https://www.spiegel.de/panorama/bildung/bundesjugendspiele-kultusminister-armin-schwarz-aus-hessen-im-interview-ich-moechte-dass-jede-sekunde-und-jeder-zentimeter-zaehlen](https://www.spiegel.de/panorama/bildung/bundesjugendspiele-kultusminister-armin-schwarz-aus-hessen-im-interview-ich-moechte-dass-jede-sekunde-und-jeder-zentimeter-zaehlen-a-5ccfd0dd-b30b-4b3a-b637-335ce929f44c#ref=rss)
+### schwarz
 
-* [https://www.spiegel.de/kultur/tv/oliver-kalkofe-comedian-findet-tv-humor-heute-weniger-minderheitenfeindlich](https://www.spiegel.de/kultur/tv/oliver-kalkofe-comedian-findet-tv-humor-heute-weniger-minderheitenfeindlich-a-db81c7a8-de55-4c33-8537-38857733c8ab#ref=rss)
-### kalkofe
+* [https://www.spiegel.de/panorama/bildung/bundesjugendspiele-kultusminister-armin-schwarz-aus-hessen-im-interview-ich-moechte-dass-jede-sekunde-und-jeder-zentimeter-zaehlen](https://www.spiegel.de/panorama/bildung/bundesjugendspiele-kultusminister-armin-schwarz-aus-hessen-im-interview-ich-moechte-dass-jede-sekunde-und-jeder-zentimeter-zaehlen-a-5ccfd0dd-b30b-4b3a-b637-335ce929f44c#ref=rss)
+### möchte
 
-* [https://www.spiegel.de/kultur/tv/oliver-kalkofe-comedian-findet-tv-humor-heute-weniger-minderheitenfeindlich](https://www.spiegel.de/kultur/tv/oliver-kalkofe-comedian-findet-tv-humor-heute-weniger-minderheitenfeindlich-a-db81c7a8-de55-4c33-8537-38857733c8ab#ref=rss)
-### comedian
+* [https://www.spiegel.de/panorama/bildung/bundesjugendspiele-kultusminister-armin-schwarz-aus-hessen-im-interview-ich-moechte-dass-jede-sekunde-und-jeder-zentimeter-zaehlen](https://www.spiegel.de/panorama/bildung/bundesjugendspiele-kultusminister-armin-schwarz-aus-hessen-im-interview-ich-moechte-dass-jede-sekunde-und-jeder-zentimeter-zaehlen-a-5ccfd0dd-b30b-4b3a-b637-335ce929f44c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/boris-becker-lilly-becker-moechte-unterhalt-von-boris-becker-erstreiten](https://www.spiegel.de/panorama/leute/boris-becker-lilly-becker-moechte-unterhalt-von-boris-becker-erstreiten-a-197b7c8e-03be-484e-851f-b6c97775b289#ref=rss)
+### manon
 
-* [https://www.spiegel.de/kultur/tv/oliver-kalkofe-comedian-findet-tv-humor-heute-weniger-minderheitenfeindlich](https://www.spiegel.de/kultur/tv/oliver-kalkofe-comedian-findet-tv-humor-heute-weniger-minderheitenfeindlich-a-db81c7a8-de55-4c33-8537-38857733c8ab#ref=rss)
-### findet
+* [https://www.spiegel.de/kultur/philosophin-manon-garcia-ueber-toxische-maennlichkeit-ist-es-wirklich-liebe-den-anderen-zu-verzehren](https://www.spiegel.de/kultur/philosophin-manon-garcia-ueber-toxische-maennlichkeit-ist-es-wirklich-liebe-den-anderen-zu-verzehren-a-8daa2757-be27-4c15-b0ff-b9352fe347cf#ref=rss)
+### garcia
 
-* [https://www.spiegel.de/kultur/tv/oliver-kalkofe-comedian-findet-tv-humor-heute-weniger-minderheitenfeindlich](https://www.spiegel.de/kultur/tv/oliver-kalkofe-comedian-findet-tv-humor-heute-weniger-minderheitenfeindlich-a-db81c7a8-de55-4c33-8537-38857733c8ab#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-wm-2025-in-tokio-zeitplan-entscheidungen-medaillenspiegel](https://www.spiegel.de/sport/leichtathletik-wm-2025-in-tokio-zeitplan-entscheidungen-medaillenspiegel-a-9fbeb6d9-6c14-4ae9-b145-78823c5002ec#ref=rss)
-### niedernhall
+* [https://www.spiegel.de/kultur/philosophin-manon-garcia-ueber-toxische-maennlichkeit-ist-es-wirklich-liebe-den-anderen-zu-verzehren](https://www.spiegel.de/kultur/philosophin-manon-garcia-ueber-toxische-maennlichkeit-ist-es-wirklich-liebe-den-anderen-zu-verzehren-a-8daa2757-be27-4c15-b0ff-b9352fe347cf#ref=rss)
+### anderen
 
-* [https://www.spiegel.de/panorama/justiz/niedernhall-in-baden-wuerttemberg-18-jaehriger-soll-kind-angefahren-und-toedlich-verletzt-haben](https://www.spiegel.de/panorama/justiz/niedernhall-in-baden-wuerttemberg-18-jaehriger-soll-kind-angefahren-und-toedlich-verletzt-haben-a-3dd99dd3-a439-42e6-9ec9-bc043a09f35e#ref=rss)
-### 18jähriger
+* [https://www.spiegel.de/kultur/philosophin-manon-garcia-ueber-toxische-maennlichkeit-ist-es-wirklich-liebe-den-anderen-zu-verzehren](https://www.spiegel.de/kultur/philosophin-manon-garcia-ueber-toxische-maennlichkeit-ist-es-wirklich-liebe-den-anderen-zu-verzehren-a-8daa2757-be27-4c15-b0ff-b9352fe347cf#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-nationalgarde-nach-memphis-schicken](https://www.spiegel.de/ausland/donald-trump-will-nationalgarde-nach-memphis-schicken-a-9edd042b-1ab2-4c13-98ef-1a6ae3fa2eab#ref=rss)
+### buch
 
-* [https://www.spiegel.de/panorama/justiz/niedernhall-in-baden-wuerttemberg-18-jaehriger-soll-kind-angefahren-und-toedlich-verletzt-haben](https://www.spiegel.de/panorama/justiz/niedernhall-in-baden-wuerttemberg-18-jaehriger-soll-kind-angefahren-und-toedlich-verletzt-haben-a-3dd99dd3-a439-42e6-9ec9-bc043a09f35e#ref=rss)
-### kind
+* [https://www.spiegel.de/kultur/philosophin-manon-garcia-ueber-toxische-maennlichkeit-ist-es-wirklich-liebe-den-anderen-zu-verzehren](https://www.spiegel.de/kultur/philosophin-manon-garcia-ueber-toxische-maennlichkeit-ist-es-wirklich-liebe-den-anderen-zu-verzehren-a-8daa2757-be27-4c15-b0ff-b9352fe347cf#ref=rss)
+* [https://www.spiegel.de/panorama/leute/boris-becker-lilly-becker-moechte-unterhalt-von-boris-becker-erstreiten](https://www.spiegel.de/panorama/leute/boris-becker-lilly-becker-moechte-unterhalt-von-boris-becker-erstreiten-a-197b7c8e-03be-484e-851f-b6c97775b289#ref=rss)
+### lilly
 
-* [https://www.spiegel.de/panorama/justiz/niedernhall-in-baden-wuerttemberg-18-jaehriger-soll-kind-angefahren-und-toedlich-verletzt-haben](https://www.spiegel.de/panorama/justiz/niedernhall-in-baden-wuerttemberg-18-jaehriger-soll-kind-angefahren-und-toedlich-verletzt-haben-a-3dd99dd3-a439-42e6-9ec9-bc043a09f35e#ref=rss)
-### fbi
+* [https://www.spiegel.de/panorama/leute/boris-becker-lilly-becker-moechte-unterhalt-von-boris-becker-erstreiten](https://www.spiegel.de/panorama/leute/boris-becker-lilly-becker-moechte-unterhalt-von-boris-becker-erstreiten-a-197b7c8e-03be-484e-851f-b6c97775b289#ref=rss)
+### neues
 
-* [https://www.spiegel.de/ausland/charlie-kirk-fbi-setzt-belohnung-aus-attentaeter-fluechtet-ueber-dach](https://www.spiegel.de/ausland/charlie-kirk-fbi-setzt-belohnung-aus-attentaeter-fluechtet-ueber-dach-a-09f4531e-def2-495f-b0b5-fe327944a49d#ref=rss)
-### belohnung
+* [https://www.spiegel.de/panorama/leute/boris-becker-lilly-becker-moechte-unterhalt-von-boris-becker-erstreiten](https://www.spiegel.de/panorama/leute/boris-becker-lilly-becker-moechte-unterhalt-von-boris-becker-erstreiten-a-197b7c8e-03be-484e-851f-b6c97775b289#ref=rss)
+* [https://www.spiegel.de/kultur/musik/ellis-bextor-ho99o9-king-princess-baxter-dury-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ellis-bextor-ho99o9-king-princess-baxter-dury-abgehoert-album-der-woche-a-72d8e85d-70c1-4d5d-8361-930c316296a2#ref=rss)
+### euklimaziel
 
-* [https://www.spiegel.de/ausland/charlie-kirk-fbi-setzt-belohnung-aus-attentaeter-fluechtet-ueber-dach](https://www.spiegel.de/ausland/charlie-kirk-fbi-setzt-belohnung-aus-attentaeter-fluechtet-ueber-dach-a-09f4531e-def2-495f-b0b5-fe327944a49d#ref=rss)
-### bad
+* [https://www.spiegel.de/wissenschaft/mensch/eu-klimaziel-2040-streit-um-klimaziel-gefaehrdet-europas-vorreiterrolle](https://www.spiegel.de/wissenschaft/mensch/eu-klimaziel-2040-streit-um-klimaziel-gefaehrdet-europas-vorreiterrolle-a-263c21f4-70f5-48d9-9718-7c31c4e01543#ref=rss)
+### 2040
 
-* [https://www.spiegel.de/panorama/leute/bad-bunny-weltstar-tritt-aus-sorge-vor-abschiebungen-nicht-in-den-usa-auf](https://www.spiegel.de/panorama/leute/bad-bunny-weltstar-tritt-aus-sorge-vor-abschiebungen-nicht-in-den-usa-auf-a-d7b119fa-e87d-410e-ba3e-ca12ad69addc#ref=rss)
-### bunny
+* [https://www.spiegel.de/wissenschaft/mensch/eu-klimaziel-2040-streit-um-klimaziel-gefaehrdet-europas-vorreiterrolle](https://www.spiegel.de/wissenschaft/mensch/eu-klimaziel-2040-streit-um-klimaziel-gefaehrdet-europas-vorreiterrolle-a-263c21f4-70f5-48d9-9718-7c31c4e01543#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/leute/bad-bunny-weltstar-tritt-aus-sorge-vor-abschiebungen-nicht-in-den-usa-auf](https://www.spiegel.de/panorama/leute/bad-bunny-weltstar-tritt-aus-sorge-vor-abschiebungen-nicht-in-den-usa-auf-a-d7b119fa-e87d-410e-ba3e-ca12ad69addc#ref=rss)
-### welt
+* [https://www.spiegel.de/panorama/usa-walmart-verbietet-kunden-das-einkaufen-mit-seinem-alligator](https://www.spiegel.de/panorama/usa-walmart-verbietet-kunden-das-einkaufen-mit-seinem-alligator-a-811d97a9-6a5a-482c-833b-5c4bf9a43a36#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### walmart
 
-* [https://www.spiegel.de/panorama/leute/bad-bunny-weltstar-tritt-aus-sorge-vor-abschiebungen-nicht-in-den-usa-auf](https://www.spiegel.de/panorama/leute/bad-bunny-weltstar-tritt-aus-sorge-vor-abschiebungen-nicht-in-den-usa-auf-a-d7b119fa-e87d-410e-ba3e-ca12ad69addc#ref=rss)
-* [https://www.spiegel.de/kultur/musik/eunike-tanzil-ich-dachte-immer-komponisten-seien-alt-und-maennlich-und-die-meisten-tot](https://www.spiegel.de/kultur/musik/eunike-tanzil-ich-dachte-immer-komponisten-seien-alt-und-maennlich-und-die-meisten-tot-a-9e609f93-fc7f-45f3-9a2b-5d6f6cc4e825#ref=rss)
-### thomas
+* [https://www.spiegel.de/panorama/usa-walmart-verbietet-kunden-das-einkaufen-mit-seinem-alligator](https://www.spiegel.de/panorama/usa-walmart-verbietet-kunden-das-einkaufen-mit-seinem-alligator-a-811d97a9-6a5a-482c-833b-5c4bf9a43a36#ref=rss)
+### alligator
 
-* [https://www.spiegel.de/politik/deutschland/thomas-kemmerich-thueringens-ex-ministerpraesident-verlaesst-die-fdp](https://www.spiegel.de/politik/deutschland/thomas-kemmerich-thueringens-ex-ministerpraesident-verlaesst-die-fdp-a-a86a5761-9dc5-447e-b130-391b0097f830#ref=rss)
-### kemmerich
+* [https://www.spiegel.de/panorama/usa-walmart-verbietet-kunden-das-einkaufen-mit-seinem-alligator](https://www.spiegel.de/panorama/usa-walmart-verbietet-kunden-das-einkaufen-mit-seinem-alligator-a-811d97a9-6a5a-482c-833b-5c4bf9a43a36#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/politik/deutschland/thomas-kemmerich-thueringens-ex-ministerpraesident-verlaesst-die-fdp](https://www.spiegel.de/politik/deutschland/thomas-kemmerich-thueringens-ex-ministerpraesident-verlaesst-die-fdp-a-a86a5761-9dc5-447e-b130-391b0097f830#ref=rss)
-### thüringens
+* [https://www.spiegel.de/panorama/usa-walmart-verbietet-kunden-das-einkaufen-mit-seinem-alligator](https://www.spiegel.de/panorama/usa-walmart-verbietet-kunden-das-einkaufen-mit-seinem-alligator-a-811d97a9-6a5a-482c-833b-5c4bf9a43a36#ref=rss)
+* [https://www.spiegel.de/ausland/migration-irregulaere-grenzuebertritte-in-die-eu-sinken-um-ein-fuenftel](https://www.spiegel.de/ausland/migration-irregulaere-grenzuebertritte-in-die-eu-sinken-um-ein-fuenftel-a-82ca932b-0f11-4311-81b7-b28c697600eb#ref=rss)
+### ellisbextor
 
-* [https://www.spiegel.de/politik/deutschland/thomas-kemmerich-thueringens-ex-ministerpraesident-verlaesst-die-fdp](https://www.spiegel.de/politik/deutschland/thomas-kemmerich-thueringens-ex-ministerpraesident-verlaesst-die-fdp-a-a86a5761-9dc5-447e-b130-391b0097f830#ref=rss)
-### fdp
+* [https://www.spiegel.de/kultur/musik/ellis-bextor-ho99o9-king-princess-baxter-dury-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ellis-bextor-ho99o9-king-princess-baxter-dury-abgehoert-album-der-woche-a-72d8e85d-70c1-4d5d-8361-930c316296a2#ref=rss)
+### ho99o9
 
-* [https://www.spiegel.de/politik/deutschland/thomas-kemmerich-thueringens-ex-ministerpraesident-verlaesst-die-fdp](https://www.spiegel.de/politik/deutschland/thomas-kemmerich-thueringens-ex-ministerpraesident-verlaesst-die-fdp-a-a86a5761-9dc5-447e-b130-391b0097f830#ref=rss)
-### partei
+* [https://www.spiegel.de/kultur/musik/ellis-bextor-ho99o9-king-princess-baxter-dury-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ellis-bextor-ho99o9-king-princess-baxter-dury-abgehoert-album-der-woche-a-72d8e85d-70c1-4d5d-8361-930c316296a2#ref=rss)
+### king
 
-* [https://www.spiegel.de/politik/deutschland/thomas-kemmerich-thueringens-ex-ministerpraesident-verlaesst-die-fdp](https://www.spiegel.de/politik/deutschland/thomas-kemmerich-thueringens-ex-ministerpraesident-verlaesst-die-fdp-a-a86a5761-9dc5-447e-b130-391b0097f830#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-istanbuls-oberbuergermeister-ekrem-imamoglu-erneut-vor-gericht](https://www.spiegel.de/ausland/tuerkei-istanbuls-oberbuergermeister-ekrem-imamoglu-erneut-vor-gericht-a-47a6143c-1287-4f4b-9f5b-56156b243db1#ref=rss)
-### prinz
+* [https://www.spiegel.de/kultur/musik/ellis-bextor-ho99o9-king-princess-baxter-dury-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ellis-bextor-ho99o9-king-princess-baxter-dury-abgehoert-album-der-woche-a-72d8e85d-70c1-4d5d-8361-930c316296a2#ref=rss)
+### princess
 
-* [https://www.spiegel.de/panorama/leute/ukraine-prinz-harry-ueberraschend-in-kyjiw-eingetroffen](https://www.spiegel.de/panorama/leute/ukraine-prinz-harry-ueberraschend-in-kyjiw-eingetroffen-a-a8a72833-3228-4ce5-88a5-b577665af73f#ref=rss)
-### harry
-
-* [https://www.spiegel.de/panorama/leute/ukraine-prinz-harry-ueberraschend-in-kyjiw-eingetroffen](https://www.spiegel.de/panorama/leute/ukraine-prinz-harry-ueberraschend-in-kyjiw-eingetroffen-a-a8a72833-3228-4ce5-88a5-b577665af73f#ref=rss)
-### leichtathletikwm
-
-* [https://www.spiegel.de/sport/leichtathletik-wm-2025-in-tokio-zeitplan-entscheidungen-medaillenspiegel](https://www.spiegel.de/sport/leichtathletik-wm-2025-in-tokio-zeitplan-entscheidungen-medaillenspiegel-a-9fbeb6d9-6c14-4ae9-b145-78823c5002ec#ref=rss)
-### tokio
-
-* [https://www.spiegel.de/sport/leichtathletik-wm-2025-in-tokio-zeitplan-entscheidungen-medaillenspiegel](https://www.spiegel.de/sport/leichtathletik-wm-2025-in-tokio-zeitplan-entscheidungen-medaillenspiegel-a-9fbeb6d9-6c14-4ae9-b145-78823c5002ec#ref=rss)
-### zeitplan
-
-* [https://www.spiegel.de/sport/leichtathletik-wm-2025-in-tokio-zeitplan-entscheidungen-medaillenspiegel](https://www.spiegel.de/sport/leichtathletik-wm-2025-in-tokio-zeitplan-entscheidungen-medaillenspiegel-a-9fbeb6d9-6c14-4ae9-b145-78823c5002ec#ref=rss)
-### entscheidungen
-
-* [https://www.spiegel.de/sport/leichtathletik-wm-2025-in-tokio-zeitplan-entscheidungen-medaillenspiegel](https://www.spiegel.de/sport/leichtathletik-wm-2025-in-tokio-zeitplan-entscheidungen-medaillenspiegel-a-9fbeb6d9-6c14-4ae9-b145-78823c5002ec#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/ausland/sapad-2025-wie-gefaehrlich-ist-russlands-grosse-militaeruebung-in-belarus](https://www.spiegel.de/ausland/sapad-2025-wie-gefaehrlich-ist-russlands-grosse-militaeruebung-in-belarus-a-fea06906-bb54-4657-9a81-22f686ab7684#ref=rss)
-* [https://www.spiegel.de/kultur/musik/eunike-tanzil-ich-dachte-immer-komponisten-seien-alt-und-maennlich-und-die-meisten-tot](https://www.spiegel.de/kultur/musik/eunike-tanzil-ich-dachte-immer-komponisten-seien-alt-und-maennlich-und-die-meisten-tot-a-9e609f93-fc7f-45f3-9a2b-5d6f6cc4e825#ref=rss)
-### eunike
-
-* [https://www.spiegel.de/kultur/musik/eunike-tanzil-ich-dachte-immer-komponisten-seien-alt-und-maennlich-und-die-meisten-tot](https://www.spiegel.de/kultur/musik/eunike-tanzil-ich-dachte-immer-komponisten-seien-alt-und-maennlich-und-die-meisten-tot-a-9e609f93-fc7f-45f3-9a2b-5d6f6cc4e825#ref=rss)
-### tanzil
-
-* [https://www.spiegel.de/kultur/musik/eunike-tanzil-ich-dachte-immer-komponisten-seien-alt-und-maennlich-und-die-meisten-tot](https://www.spiegel.de/kultur/musik/eunike-tanzil-ich-dachte-immer-komponisten-seien-alt-und-maennlich-und-die-meisten-tot-a-9e609f93-fc7f-45f3-9a2b-5d6f6cc4e825#ref=rss)
-### alt
-
-* [https://www.spiegel.de/kultur/musik/eunike-tanzil-ich-dachte-immer-komponisten-seien-alt-und-maennlich-und-die-meisten-tot](https://www.spiegel.de/kultur/musik/eunike-tanzil-ich-dachte-immer-komponisten-seien-alt-und-maennlich-und-die-meisten-tot-a-9e609f93-fc7f-45f3-9a2b-5d6f6cc4e825#ref=rss)
-### eichhörnchen
-
-* [https://www.spiegel.de/panorama/alpen-am-niederrhein-feuerwehr-befreit-stecken-gebliebenes-eichhoernchen](https://www.spiegel.de/panorama/alpen-am-niederrhein-feuerwehr-befreit-stecken-gebliebenes-eichhoernchen-a-be8fa998-c5f6-4090-8973-0514c6d377c4#ref=rss)
-### manuela
-
-* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-politikerin-will-ministerpraesidentin-von-mecklenburg-vorpommern-bleiben](https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-politikerin-will-ministerpraesidentin-von-mecklenburg-vorpommern-bleiben-a-d692f4cd-2810-488f-b718-b55a56a717aa#ref=rss)
-### schwesig
-
-* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-politikerin-will-ministerpraesidentin-von-mecklenburg-vorpommern-bleiben](https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-politikerin-will-ministerpraesidentin-von-mecklenburg-vorpommern-bleiben-a-d692f4cd-2810-488f-b718-b55a56a717aa#ref=rss)
-### ministerpräsidentin
-
-* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-politikerin-will-ministerpraesidentin-von-mecklenburg-vorpommern-bleiben](https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-politikerin-will-ministerpraesidentin-von-mecklenburg-vorpommern-bleiben-a-d692f4cd-2810-488f-b718-b55a56a717aa#ref=rss)
-### mecklenburgvorpommern
-
-* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-politikerin-will-ministerpraesidentin-von-mecklenburg-vorpommern-bleiben](https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-politikerin-will-ministerpraesidentin-von-mecklenburg-vorpommern-bleiben-a-d692f4cd-2810-488f-b718-b55a56a717aa#ref=rss)
-### bleiben
-
-* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-politikerin-will-ministerpraesidentin-von-mecklenburg-vorpommern-bleiben](https://www.spiegel.de/politik/deutschland/manuela-schwesig-spd-politikerin-will-ministerpraesidentin-von-mecklenburg-vorpommern-bleiben-a-d692f4cd-2810-488f-b718-b55a56a717aa#ref=rss)
-### ekrem
-
-* [https://www.spiegel.de/ausland/tuerkei-istanbuls-oberbuergermeister-ekrem-imamoglu-erneut-vor-gericht](https://www.spiegel.de/ausland/tuerkei-istanbuls-oberbuergermeister-ekrem-imamoglu-erneut-vor-gericht-a-47a6143c-1287-4f4b-9f5b-56156b243db1#ref=rss)
+* [https://www.spiegel.de/kultur/musik/ellis-bextor-ho99o9-king-princess-baxter-dury-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/ellis-bextor-ho99o9-king-princess-baxter-dury-abgehoert-album-der-woche-a-72d8e85d-70c1-4d5d-8361-930c316296a2#ref=rss)
 ### i̇mamoğlu
 
-* [https://www.spiegel.de/ausland/tuerkei-istanbuls-oberbuergermeister-ekrem-imamoglu-erneut-vor-gericht](https://www.spiegel.de/ausland/tuerkei-istanbuls-oberbuergermeister-ekrem-imamoglu-erneut-vor-gericht-a-47a6143c-1287-4f4b-9f5b-56156b243db1#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-ekrem-imamoglu-erhebt-bei-prozessauftakt-vorwuerfe-gegen-recep-tayyip-erdogan](https://www.spiegel.de/ausland/tuerkei-ekrem-imamoglu-erhebt-bei-prozessauftakt-vorwuerfe-gegen-recep-tayyip-erdogan-a-dc8c71d5-d139-42fa-9d4b-f88e8d15d816#ref=rss)
+### erdoğan
+
+* [https://www.spiegel.de/ausland/tuerkei-ekrem-imamoglu-erhebt-bei-prozessauftakt-vorwuerfe-gegen-recep-tayyip-erdogan](https://www.spiegel.de/ausland/tuerkei-ekrem-imamoglu-erhebt-bei-prozessauftakt-vorwuerfe-gegen-recep-tayyip-erdogan-a-dc8c71d5-d139-42fa-9d4b-f88e8d15d816#ref=rss)
+### ultrarechten
+
+* [https://www.spiegel.de/ausland/22-jaehriger-aus-utah-soll-charlie-kirk-getoetet-haben](https://www.spiegel.de/ausland/22-jaehriger-aus-utah-soll-charlie-kirk-getoetet-haben-a-d50afe29-3e44-4588-8aae-47d5b3f3c947#ref=rss)
+### aktivisten
+
+* [https://www.spiegel.de/ausland/22-jaehriger-aus-utah-soll-charlie-kirk-getoetet-haben](https://www.spiegel.de/ausland/22-jaehriger-aus-utah-soll-charlie-kirk-getoetet-haben-a-d50afe29-3e44-4588-8aae-47d5b3f3c947#ref=rss)
+### lahav
+
+* [https://www.spiegel.de/kultur/musik/lahav-shani-ausgeladener-dirigent-und-muenchner-philharmoniker-kurzfristig-zum-musikfest-in-berlin-eingeladen](https://www.spiegel.de/kultur/musik/lahav-shani-ausgeladener-dirigent-und-muenchner-philharmoniker-kurzfristig-zum-musikfest-in-berlin-eingeladen-a-7b03ecb6-ffa8-4511-b76a-b84967b8b252#ref=rss)
+### shani
+
+* [https://www.spiegel.de/kultur/musik/lahav-shani-ausgeladener-dirigent-und-muenchner-philharmoniker-kurzfristig-zum-musikfest-in-berlin-eingeladen](https://www.spiegel.de/kultur/musik/lahav-shani-ausgeladener-dirigent-und-muenchner-philharmoniker-kurzfristig-zum-musikfest-in-berlin-eingeladen-a-7b03ecb6-ffa8-4511-b76a-b84967b8b252#ref=rss)
+### dirigent
+
+* [https://www.spiegel.de/kultur/musik/lahav-shani-ausgeladener-dirigent-und-muenchner-philharmoniker-kurzfristig-zum-musikfest-in-berlin-eingeladen](https://www.spiegel.de/kultur/musik/lahav-shani-ausgeladener-dirigent-und-muenchner-philharmoniker-kurzfristig-zum-musikfest-in-berlin-eingeladen-a-7b03ecb6-ffa8-4511-b76a-b84967b8b252#ref=rss)
+### philharmoniker
+
+* [https://www.spiegel.de/kultur/musik/lahav-shani-ausgeladener-dirigent-und-muenchner-philharmoniker-kurzfristig-zum-musikfest-in-berlin-eingeladen](https://www.spiegel.de/kultur/musik/lahav-shani-ausgeladener-dirigent-und-muenchner-philharmoniker-kurzfristig-zum-musikfest-in-berlin-eingeladen-a-7b03ecb6-ffa8-4511-b76a-b84967b8b252#ref=rss)
+### musikfest
+
+* [https://www.spiegel.de/kultur/musik/lahav-shani-ausgeladener-dirigent-und-muenchner-philharmoniker-kurzfristig-zum-musikfest-in-berlin-eingeladen](https://www.spiegel.de/kultur/musik/lahav-shani-ausgeladener-dirigent-und-muenchner-philharmoniker-kurzfristig-zum-musikfest-in-berlin-eingeladen-a-7b03ecb6-ffa8-4511-b76a-b84967b8b252#ref=rss)
+### eingeladen
+
+* [https://www.spiegel.de/kultur/musik/lahav-shani-ausgeladener-dirigent-und-muenchner-philharmoniker-kurzfristig-zum-musikfest-in-berlin-eingeladen](https://www.spiegel.de/kultur/musik/lahav-shani-ausgeladener-dirigent-und-muenchner-philharmoniker-kurzfristig-zum-musikfest-in-berlin-eingeladen-a-7b03ecb6-ffa8-4511-b76a-b84967b8b252#ref=rss)
+### rosenheim
+
+* [https://www.spiegel.de/panorama/justiz/rosenheim-in-oberbayern-rentner-zerstoert-seit-jahren-biberdaemme](https://www.spiegel.de/panorama/justiz/rosenheim-in-oberbayern-rentner-zerstoert-seit-jahren-biberdaemme-a-f70dc1aa-0ab0-42ad-93f4-69ed10bb245f#ref=rss)
+### zerstört
+
+* [https://www.spiegel.de/panorama/justiz/rosenheim-in-oberbayern-rentner-zerstoert-seit-jahren-biberdaemme](https://www.spiegel.de/panorama/justiz/rosenheim-in-oberbayern-rentner-zerstoert-seit-jahren-biberdaemme-a-f70dc1aa-0ab0-42ad-93f4-69ed10bb245f#ref=rss)
+### biberdämme
+
+* [https://www.spiegel.de/panorama/justiz/rosenheim-in-oberbayern-rentner-zerstoert-seit-jahren-biberdaemme](https://www.spiegel.de/panorama/justiz/rosenheim-in-oberbayern-rentner-zerstoert-seit-jahren-biberdaemme-a-f70dc1aa-0ab0-42ad-93f4-69ed10bb245f#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/ausland/migration-irregulaere-grenzuebertritte-in-die-eu-sinken-um-ein-fuenftel](https://www.spiegel.de/ausland/migration-irregulaere-grenzuebertritte-in-die-eu-sinken-um-ein-fuenftel-a-82ca932b-0f11-4311-81b7-b28c697600eb#ref=rss)
+### versuchen
+
+* [https://www.spiegel.de/ausland/migration-irregulaere-grenzuebertritte-in-die-eu-sinken-um-ein-fuenftel](https://www.spiegel.de/ausland/migration-irregulaere-grenzuebertritte-in-die-eu-sinken-um-ein-fuenftel-a-82ca932b-0f11-4311-81b7-b28c697600eb#ref=rss)
+* [https://www.spiegel.de/kultur/call-my-agent-berlin-bei-disney-weshalb-moritz-bleibtreu-mal-besser-botox-gespritzt-haette](https://www.spiegel.de/kultur/call-my-agent-berlin-bei-disney-weshalb-moritz-bleibtreu-mal-besser-botox-gespritzt-haette-a-8c80dc3e-a61b-4d71-b2c8-9415c4216df7#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/sport/basketball/dbb-team-will-sich-gegen-finnland-den-traum-vom-finale-erfuellen](https://www.spiegel.de/sport/basketball/dbb-team-will-sich-gegen-finnland-den-traum-vom-finale-erfuellen-a-ea2da737-a851-426d-b5db-88622670ab9f#ref=rss)
+* [https://www.spiegel.de/netzwelt/darknet-drogenhandel-ermittler-decken-millionenschweren-handel-auf](https://www.spiegel.de/netzwelt/darknet-drogenhandel-ermittler-decken-millionenschweren-handel-auf-a-0bb2219b-92fb-40eb-8183-458972c0d85d#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### trumpwelt
+
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### rechter
+
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### aktivist
+
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### mobilisierte
+
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### allem
+
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### junge
+
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### amerikaner
+
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### ermordung
+
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### überbieten
+
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### magaanhänger
+
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### großen
+
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### worten
+
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### bewegung
+
+* [https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast](https://www.spiegel.de/ausland/charlie-kirk-als-maga-maertyrer-die-folgen-fuer-die-trump-welt-podcast-a-af901682-04fc-407c-ba8b-a4e4e2874409#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa](https://www.spiegel.de/ausland/attentat-auf-charlie-kirk-in-utah-die-folgen-fuer-die-trump-welt-und-die-usa-a-0cbc2b43-a3c9-440d-a345-889e6cce23b9#ref=rss)
+### nationalgarde
+
+* [https://www.spiegel.de/ausland/donald-trump-will-nationalgarde-nach-memphis-schicken](https://www.spiegel.de/ausland/donald-trump-will-nationalgarde-nach-memphis-schicken-a-9edd042b-1ab2-4c13-98ef-1a6ae3fa2eab#ref=rss)
+### schicken
+
+* [https://www.spiegel.de/ausland/donald-trump-will-nationalgarde-nach-memphis-schicken](https://www.spiegel.de/ausland/donald-trump-will-nationalgarde-nach-memphis-schicken-a-9edd042b-1ab2-4c13-98ef-1a6ae3fa2eab#ref=rss)
+### call
+
+* [https://www.spiegel.de/kultur/call-my-agent-berlin-bei-disney-weshalb-moritz-bleibtreu-mal-besser-botox-gespritzt-haette](https://www.spiegel.de/kultur/call-my-agent-berlin-bei-disney-weshalb-moritz-bleibtreu-mal-besser-botox-gespritzt-haette-a-8c80dc3e-a61b-4d71-b2c8-9415c4216df7#ref=rss)
+### my
+
+* [https://www.spiegel.de/kultur/call-my-agent-berlin-bei-disney-weshalb-moritz-bleibtreu-mal-besser-botox-gespritzt-haette](https://www.spiegel.de/kultur/call-my-agent-berlin-bei-disney-weshalb-moritz-bleibtreu-mal-besser-botox-gespritzt-haette-a-8c80dc3e-a61b-4d71-b2c8-9415c4216df7#ref=rss)
+### agent
+
+* [https://www.spiegel.de/kultur/call-my-agent-berlin-bei-disney-weshalb-moritz-bleibtreu-mal-besser-botox-gespritzt-haette](https://www.spiegel.de/kultur/call-my-agent-berlin-bei-disney-weshalb-moritz-bleibtreu-mal-besser-botox-gespritzt-haette-a-8c80dc3e-a61b-4d71-b2c8-9415c4216df7#ref=rss)
 
