@@ -4,317 +4,351 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschen
+### robert
 
-* [https://www.spiegel.de/kultur/literatur/christine-wunnicke-und-kaleb-erdmann-stehen-auf-der-shortlist-zum-deutschen-buchpreis](https://www.spiegel.de/kultur/literatur/christine-wunnicke-und-kaleb-erdmann-stehen-auf-der-shortlist-zum-deutschen-buchpreis-a-b92a68b4-3b37-42c6-afeb-22b9b5d587b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bosch-zulieferer-plant-stellenabbau-wegen-autohersteller-krise](https://www.spiegel.de/wirtschaft/bosch-zulieferer-plant-stellenabbau-wegen-autohersteller-krise-a-86e3b890-7313-457e-a68e-9aea514b45e9#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung](https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung-a-c1545392-f2c7-4eff-a798-e331ab847316#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-2025-2026-spielplan-und-ergebnisse](https://www.spiegel.de/sport/fussball/champions-league-2025-2026-spielplan-und-ergebnisse-a-d413a76b-cb94-462f-9d7a-0489860c1eda#ref=rss)
-* [https://www.spiegel.de/ausland/polen-praesident-karol-nawrocki-auf-antrittsbesuch-in-berlin-zu-gast-beim-boesen-nachbarn](https://www.spiegel.de/ausland/polen-praesident-karol-nawrocki-auf-antrittsbesuch-in-berlin-zu-gast-beim-boesen-nachbarn-a-3f8ee8e7-5a56-4fb1-a35d-5eff07b93897#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ](https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ-a-cf522613-4f06-476f-aa26-c35896bf88e3#ref=rss)
-### deutschland
+* [https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost](https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost-a-5a7b18de-b6d2-4cf3-b6a3-efa1bec5c6b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
+* [https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern](https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern-a-0cfc4798-6b1c-45d0-86d6-ef82b6db3c73#ref=rss)
+* [https://www.spiegel.de/kultur/robert-redford-ist-tot-nachruf-der-gute-amerikaner](https://www.spiegel.de/kultur/robert-redford-ist-tot-nachruf-der-gute-amerikaner-a-435dc65a-55ea-416c-8204-aee638cccd4e#ref=rss)
+### redford
 
-* [https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-nord-stream-saboteur-soll-nach-deutschland-ausgeliefert-werden](https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-nord-stream-saboteur-soll-nach-deutschland-ausgeliefert-werden-a-6e307570-184e-4520-a4c6-8f3393fec33a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strom-und-gas-millionen-haushalte-haben-probleme-mit-der-energierechnung](https://www.spiegel.de/wirtschaft/strom-und-gas-millionen-haushalte-haben-probleme-mit-der-energierechnung-a-15efb870-44b8-416c-8364-9e8d9ca19f3f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende](https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende-a-4e595c36-8bba-42ef-9233-a3677788b6f3#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-erster-herbststurm-wirbelt-faehrenfahrplaene-durcheinander](https://www.spiegel.de/panorama/wetter-in-deutschland-erster-herbststurm-wirbelt-faehrenfahrplaene-durcheinander-a-aec0eb71-549f-40a8-91a2-cdbcd46872e3#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen](https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen-a-81b9bbf9-2188-4840-bf15-e0db3f3da3e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strom-und-gas-millionen-haushalte-haben-probleme-mit-der-energierechnung](https://www.spiegel.de/wirtschaft/strom-und-gas-millionen-haushalte-haben-probleme-mit-der-energierechnung-a-15efb870-44b8-416c-8364-9e8d9ca19f3f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive](https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive-a-6ad47ad9-94fd-4e7d-9373-129ed42766fa#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
-### mannheim
-
-* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
-### sulaiman
-
-* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
-### ataee
-
-* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-nord-stream-saboteur-soll-nach-deutschland-ausgeliefert-werden](https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-nord-stream-saboteur-soll-nach-deutschland-ausgeliefert-werden-a-6e307570-184e-4520-a4c6-8f3393fec33a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen](https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen-a-0223f0e5-3027-4687-9371-0f9eda3b8ef4#ref=rss)
-### teils
-
-* [https://www.spiegel.de/wirtschaft/strom-und-gas-millionen-haushalte-haben-probleme-mit-der-energierechnung](https://www.spiegel.de/wirtschaft/strom-und-gas-millionen-haushalte-haben-probleme-mit-der-energierechnung-a-15efb870-44b8-416c-8364-9e8d9ca19f3f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid-a-be12b619-588a-4f30-9fb6-3436a5965bd7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-2025-2026-spielplan-und-ergebnisse](https://www.spiegel.de/sport/fussball/champions-league-2025-2026-spielplan-und-ergebnisse-a-d413a76b-cb94-462f-9d7a-0489860c1eda#ref=rss)
-### oberlandesgericht
-
-* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
-* [https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende](https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende-a-4e595c36-8bba-42ef-9233-a3677788b6f3#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/wirtschaft/bosch-zulieferer-plant-stellenabbau-wegen-autohersteller-krise](https://www.spiegel.de/wirtschaft/bosch-zulieferer-plant-stellenabbau-wegen-autohersteller-krise-a-86e3b890-7313-457e-a68e-9aea514b45e9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/mietspiegel-rechner-zahlen-sie-zu-viel-miete](https://www.spiegel.de/wirtschaft/service/mietspiegel-rechner-zahlen-sie-zu-viel-miete-a-17126383-523a-411c-aab0-06dbfef8658f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-seine-zoll-falle-europa-soll-fuer-russlandsanktionen-zahlen](https://www.spiegel.de/wirtschaft/donald-trump-und-seine-zoll-falle-europa-soll-fuer-russlandsanktionen-zahlen-a-ae303a2c-35e0-4a3b-b934-19c824d48c4a#ref=rss)
+* [https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost](https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost-a-5a7b18de-b6d2-4cf3-b6a3-efa1bec5c6b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
+* [https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern](https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern-a-0cfc4798-6b1c-45d0-86d6-ef82b6db3c73#ref=rss)
+* [https://www.spiegel.de/kultur/robert-redford-ist-tot-nachruf-der-gute-amerikaner](https://www.spiegel.de/kultur/robert-redford-ist-tot-nachruf-der-gute-amerikaner-a-435dc65a-55ea-416c-8204-aee638cccd4e#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung](https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung-a-c1545392-f2c7-4eff-a798-e331ab847316#ref=rss)
-### lufthansa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-kabinengewerkschaft-ufo-meldet-gescheiterte-gespraeche](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-kabinengewerkschaft-ufo-meldet-gescheiterte-gespraeche-a-384dbb59-6d80-44ea-b407-e6aae3988750#ref=rss)
-### ufo
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-kabinengewerkschaft-ufo-meldet-gescheiterte-gespraeche](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-kabinengewerkschaft-ufo-meldet-gescheiterte-gespraeche-a-384dbb59-6d80-44ea-b407-e6aae3988750#ref=rss)
-### gespräche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-kabinengewerkschaft-ufo-meldet-gescheiterte-gespraeche](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-kabinengewerkschaft-ufo-meldet-gescheiterte-gespraeche-a-384dbb59-6d80-44ea-b407-e6aae3988750#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-nord-stream-saboteur-soll-nach-deutschland-ausgeliefert-werden](https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-nord-stream-saboteur-soll-nach-deutschland-ausgeliefert-werden-a-6e307570-184e-4520-a4c6-8f3393fec33a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
-### august
-
-* [https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-nord-stream-saboteur-soll-nach-deutschland-ausgeliefert-werden](https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-nord-stream-saboteur-soll-nach-deutschland-ausgeliefert-werden-a-6e307570-184e-4520-a4c6-8f3393fec33a#ref=rss)
-* [https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor](https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor-a-86450dc8-17be-49df-ab46-4f725df1cae2#ref=rss)
-### dunja
-
-* [https://www.spiegel.de/kultur/dunja-hayali-macht-nach-shitstorm-online-pause](https://www.spiegel.de/kultur/dunja-hayali-macht-nach-shitstorm-online-pause-a-3a937a9a-7c34-477b-80ac-e24fb28f2c2e#ref=rss)
-### hayali
-
-* [https://www.spiegel.de/kultur/dunja-hayali-macht-nach-shitstorm-online-pause](https://www.spiegel.de/kultur/dunja-hayali-macht-nach-shitstorm-online-pause-a-3a937a9a-7c34-477b-80ac-e24fb28f2c2e#ref=rss)
-### macht
-
-* [https://www.spiegel.de/kultur/dunja-hayali-macht-nach-shitstorm-online-pause](https://www.spiegel.de/kultur/dunja-hayali-macht-nach-shitstorm-online-pause-a-3a937a9a-7c34-477b-80ac-e24fb28f2c2e#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung](https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung-a-c1545392-f2c7-4eff-a798-e331ab847316#ref=rss)
-### onlinepause
-
-* [https://www.spiegel.de/kultur/dunja-hayali-macht-nach-shitstorm-online-pause](https://www.spiegel.de/kultur/dunja-hayali-macht-nach-shitstorm-online-pause-a-3a937a9a-7c34-477b-80ac-e24fb28f2c2e#ref=rss)
-### zuwanderung
-
-* [https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen](https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen-a-81b9bbf9-2188-4840-bf15-e0db3f3da3e1#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung](https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung-a-c1545392-f2c7-4eff-a798-e331ab847316#ref=rss)
-### hagen
-
-* [https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen](https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen-a-81b9bbf9-2188-4840-bf15-e0db3f3da3e1#ref=rss)
-### afd
-
-* [https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen](https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen-a-81b9bbf9-2188-4840-bf15-e0db3f3da3e1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende](https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende-a-4e595c36-8bba-42ef-9233-a3677788b6f3#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen](https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen-a-81b9bbf9-2188-4840-bf15-e0db3f3da3e1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive](https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive-a-6ad47ad9-94fd-4e7d-9373-129ed42766fa#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen](https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen-a-81b9bbf9-2188-4840-bf15-e0db3f3da3e1#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid-a-be12b619-588a-4f30-9fb6-3436a5965bd7#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen](https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen-a-81b9bbf9-2188-4840-bf15-e0db3f3da3e1#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen](https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen-a-7d3eec4d-422a-4028-874b-5dc1f439fda2#ref=rss)
-### shimon
-
-* [https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen](https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen-a-0223f0e5-3027-4687-9371-0f9eda3b8ef4#ref=rss)
-### hayut
-
-* [https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen](https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen-a-0223f0e5-3027-4687-9371-0f9eda3b8ef4#ref=rss)
-### tinderschwindler
-
-* [https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen](https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen-a-0223f0e5-3027-4687-9371-0f9eda3b8ef4#ref=rss)
-### flughafen
-
-* [https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen](https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen-a-0223f0e5-3027-4687-9371-0f9eda3b8ef4#ref=rss)
-### probleme
-
-* [https://www.spiegel.de/wirtschaft/strom-und-gas-millionen-haushalte-haben-probleme-mit-der-energierechnung](https://www.spiegel.de/wirtschaft/strom-und-gas-millionen-haushalte-haben-probleme-mit-der-energierechnung-a-15efb870-44b8-416c-8364-9e8d9ca19f3f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bosch-zulieferer-plant-stellenabbau-wegen-autohersteller-krise](https://www.spiegel.de/wirtschaft/bosch-zulieferer-plant-stellenabbau-wegen-autohersteller-krise-a-86e3b890-7313-457e-a68e-9aea514b45e9#ref=rss)
-### rechtsradikale
-
-* [https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern](https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern-a-b8d09459-f56e-4def-a1ed-9114e79e9efb#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern](https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern-a-b8d09459-f56e-4def-a1ed-9114e79e9efb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive](https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive-a-6ad47ad9-94fd-4e7d-9373-129ed42766fa#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern](https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern-a-b8d09459-f56e-4def-a1ed-9114e79e9efb#ref=rss)
-* [https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor](https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor-a-86450dc8-17be-49df-ab46-4f725df1cae2#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern](https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern-a-b8d09459-f56e-4def-a1ed-9114e79e9efb#ref=rss)
-* [https://www.spiegel.de/panorama/lemwerder-auto-rollt-in-hafenbecken-mann-schwimmt-hinterher-und-ertrinkt](https://www.spiegel.de/panorama/lemwerder-auto-rollt-in-hafenbecken-mann-schwimmt-hinterher-und-ertrinkt-a-0616fd14-6cf7-4cb2-a9d2-834b1852ef89#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern](https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern-a-b8d09459-f56e-4def-a1ed-9114e79e9efb#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen](https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen-a-7d3eec4d-422a-4028-874b-5dc1f439fda2#ref=rss)
-### shortlist
-
-* [https://www.spiegel.de/kultur/literatur/christine-wunnicke-und-kaleb-erdmann-stehen-auf-der-shortlist-zum-deutschen-buchpreis](https://www.spiegel.de/kultur/literatur/christine-wunnicke-und-kaleb-erdmann-stehen-auf-der-shortlist-zum-deutschen-buchpreis-a-b92a68b4-3b37-42c6-afeb-22b9b5d587b6#ref=rss)
-### buch
-
-* [https://www.spiegel.de/kultur/literatur/christine-wunnicke-und-kaleb-erdmann-stehen-auf-der-shortlist-zum-deutschen-buchpreis](https://www.spiegel.de/kultur/literatur/christine-wunnicke-und-kaleb-erdmann-stehen-auf-der-shortlist-zum-deutschen-buchpreis-a-b92a68b4-3b37-42c6-afeb-22b9b5d587b6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/naomi-watts-ueber-die-wechseljahre-jetzt-schon](https://www.spiegel.de/panorama/leute/naomi-watts-ueber-die-wechseljahre-jetzt-schon-a-34415991-02de-4ccb-a441-410d5b03f83f#ref=rss)
-### 1500
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-erinnerung-an-doping-skandalrennen-ueber-1500-meter-das-dreckige-finale](https://www.spiegel.de/sport/leichtathletik/leichtathletik-erinnerung-an-doping-skandalrennen-ueber-1500-meter-das-dreckige-finale-a-4c569e29-ffaa-4827-a4ab-c66d0a1e0536#ref=rss)
-### meter
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-erinnerung-an-doping-skandalrennen-ueber-1500-meter-das-dreckige-finale](https://www.spiegel.de/sport/leichtathletik/leichtathletik-erinnerung-an-doping-skandalrennen-ueber-1500-meter-das-dreckige-finale-a-4c569e29-ffaa-4827-a4ab-c66d0a1e0536#ref=rss)
-### finale
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-erinnerung-an-doping-skandalrennen-ueber-1500-meter-das-dreckige-finale](https://www.spiegel.de/sport/leichtathletik/leichtathletik-erinnerung-an-doping-skandalrennen-ueber-1500-meter-das-dreckige-finale-a-4c569e29-ffaa-4827-a4ab-c66d0a1e0536#ref=rss)
-### tokio
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-erinnerung-an-doping-skandalrennen-ueber-1500-meter-das-dreckige-finale](https://www.spiegel.de/sport/leichtathletik/leichtathletik-erinnerung-an-doping-skandalrennen-ueber-1500-meter-das-dreckige-finale-a-4c569e29-ffaa-4827-a4ab-c66d0a1e0536#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ](https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ-a-cf522613-4f06-476f-aa26-c35896bf88e3#ref=rss)
-### krank
-
-* [https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive](https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive-a-6ad47ad9-94fd-4e7d-9373-129ed42766fa#ref=rss)
-### betroffene
-
-* [https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive](https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive-a-6ad47ad9-94fd-4e7d-9373-129ed42766fa#ref=rss)
-### gut
-
-* [https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive](https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive-a-6ad47ad9-94fd-4e7d-9373-129ed42766fa#ref=rss)
-* [https://www.spiegel.de/start/rezept-fuer-touflaki-griechisch-inspirierte-spiesse-als-fleischersatz-fuer-1-60-euro](https://www.spiegel.de/start/rezept-fuer-touflaki-griechisch-inspirierte-spiesse-als-fleischersatz-fuer-1-60-euro-a-5c3890fe-307a-4136-adab-31c5d69398dd#ref=rss)
-### berichten
-
-* [https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive](https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive-a-6ad47ad9-94fd-4e7d-9373-129ed42766fa#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen](https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen-a-7d3eec4d-422a-4028-874b-5dc1f439fda2#ref=rss)
-### südostasien
-
-* [https://www.spiegel.de/wissenschaft/mensch/suedostasien-die-aeltesten-mumien-der-welt-wurden-ueber-dem-feuer-geraeuchert](https://www.spiegel.de/wissenschaft/mensch/suedostasien-die-aeltesten-mumien-der-welt-wurden-ueber-dem-feuer-geraeuchert-a-42dbc4ee-0f2d-4a3f-9308-4e26ebb278f0#ref=rss)
-### ältesten
-
-* [https://www.spiegel.de/wissenschaft/mensch/suedostasien-die-aeltesten-mumien-der-welt-wurden-ueber-dem-feuer-geraeuchert](https://www.spiegel.de/wissenschaft/mensch/suedostasien-die-aeltesten-mumien-der-welt-wurden-ueber-dem-feuer-geraeuchert-a-42dbc4ee-0f2d-4a3f-9308-4e26ebb278f0#ref=rss)
-### mumien
-
-* [https://www.spiegel.de/wissenschaft/mensch/suedostasien-die-aeltesten-mumien-der-welt-wurden-ueber-dem-feuer-geraeuchert](https://www.spiegel.de/wissenschaft/mensch/suedostasien-die-aeltesten-mumien-der-welt-wurden-ueber-dem-feuer-geraeuchert-a-42dbc4ee-0f2d-4a3f-9308-4e26ebb278f0#ref=rss)
-### welt
-
-* [https://www.spiegel.de/wissenschaft/mensch/suedostasien-die-aeltesten-mumien-der-welt-wurden-ueber-dem-feuer-geraeuchert](https://www.spiegel.de/wissenschaft/mensch/suedostasien-die-aeltesten-mumien-der-welt-wurden-ueber-dem-feuer-geraeuchert-a-42dbc4ee-0f2d-4a3f-9308-4e26ebb278f0#ref=rss)
-### ford
-
-* [https://www.spiegel.de/wirtschaft/ford-verschaerft-sparkurs-in-koeln](https://www.spiegel.de/wirtschaft/ford-verschaerft-sparkurs-in-koeln-a-4b2da487-4f42-4548-a017-7417628a64fb#ref=rss)
-### köln
-
-* [https://www.spiegel.de/wirtschaft/ford-verschaerft-sparkurs-in-koeln](https://www.spiegel.de/wirtschaft/ford-verschaerft-sparkurs-in-koeln-a-4b2da487-4f42-4548-a017-7417628a64fb#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
-### lebenslanger
-
-* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
-### polizisten
-
-* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
-### fall
-
-* [https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor](https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor-a-86450dc8-17be-49df-ab46-4f725df1cae2#ref=rss)
-### block
-
-* [https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor](https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor-a-86450dc8-17be-49df-ab46-4f725df1cae2#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor](https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor-a-86450dc8-17be-49df-ab46-4f725df1cae2#ref=rss)
-### hanning
-
-* [https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor](https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor-a-86450dc8-17be-49df-ab46-4f725df1cae2#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor](https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor-a-86450dc8-17be-49df-ab46-4f725df1cae2#ref=rss)
-### israelgazakrieg
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid-a-be12b619-588a-4f30-9fb6-3436a5965bd7#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen](https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen-a-7d3eec4d-422a-4028-874b-5dc1f439fda2#ref=rss)
-### unokommission
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid-a-be12b619-588a-4f30-9fb6-3436a5965bd7#ref=rss)
-### heftig
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid-a-be12b619-588a-4f30-9fb6-3436a5965bd7#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-erster-herbststurm-wirbelt-faehrenfahrplaene-durcheinander](https://www.spiegel.de/panorama/wetter-in-deutschland-erster-herbststurm-wirbelt-faehrenfahrplaene-durcheinander-a-aec0eb71-549f-40a8-91a2-cdbcd46872e3#ref=rss)
-### zulieferer
-
-* [https://www.spiegel.de/wirtschaft/bosch-zulieferer-plant-stellenabbau-wegen-autohersteller-krise](https://www.spiegel.de/wirtschaft/bosch-zulieferer-plant-stellenabbau-wegen-autohersteller-krise-a-86e3b890-7313-457e-a68e-9aea514b45e9#ref=rss)
+* [https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung](https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung-a-a5fb7646-7f06-4c42-b523-d1985604b42c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein-a-4bb95f90-0b10-411b-baee-a434573f7887#ref=rss)
+* [https://www.spiegel.de/kultur/merz-in-der-reichenbach-synagoge-die-traenen-des-kanzlers](https://www.spiegel.de/kultur/merz-in-der-reichenbach-synagoge-die-traenen-des-kanzlers-a-7ecdce82-e369-42cc-a416-5b85e0d68431#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab-a-baaf3299-ce94-4239-b09a-21b0c684f8db#ref=rss)
 ### friedrich
 
-* [https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung](https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung-a-c1545392-f2c7-4eff-a798-e331ab847316#ref=rss)
-### antisemitismus
+* [https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung](https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung-a-a5fb7646-7f06-4c42-b523-d1985604b42c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein-a-4bb95f90-0b10-411b-baee-a434573f7887#ref=rss)
+* [https://www.spiegel.de/kultur/merz-in-der-reichenbach-synagoge-die-traenen-des-kanzlers](https://www.spiegel.de/kultur/merz-in-der-reichenbach-synagoge-die-traenen-des-kanzlers-a-7ecdce82-e369-42cc-a416-5b85e0d68431#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab-a-baaf3299-ce94-4239-b09a-21b0c684f8db#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung](https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung-a-c1545392-f2c7-4eff-a798-e331ab847316#ref=rss)
-### rollt
+* [https://www.spiegel.de/auto/muenchner-oktoberfest-bahn-wappnet-sich-gegen-wiesn-ansturm](https://www.spiegel.de/auto/muenchner-oktoberfest-bahn-wappnet-sich-gegen-wiesn-ansturm-a-960d23d6-9dcc-47d6-8d45-0705aa4e6f8e#ref=rss)
+* [https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern](https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern-a-0cfc4798-6b1c-45d0-86d6-ef82b6db3c73#ref=rss)
+* [https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen](https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen-a-f0d60f6e-ce0b-43a1-a01f-e4d88e286da4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben-a-c5ab172c-8723-478e-95f8-4d93a15c1216#ref=rss)
+### fall
 
-* [https://www.spiegel.de/panorama/lemwerder-auto-rollt-in-hafenbecken-mann-schwimmt-hinterher-und-ertrinkt](https://www.spiegel.de/panorama/lemwerder-auto-rollt-in-hafenbecken-mann-schwimmt-hinterher-und-ertrinkt-a-0616fd14-6cf7-4cb2-a9d2-834b1852ef89#ref=rss)
-### mann
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-block-wie-ex-bnd-chef-august-hanning-darin-verstrickt-sein-soll](https://www.spiegel.de/panorama/justiz/fall-block-wie-ex-bnd-chef-august-hanning-darin-verstrickt-sein-soll-a-8f292c89-50bf-4ad3-b624-bde2b115d2b6#ref=rss)
+### jan
 
-* [https://www.spiegel.de/panorama/lemwerder-auto-rollt-in-hafenbecken-mann-schwimmt-hinterher-und-ertrinkt](https://www.spiegel.de/panorama/lemwerder-auto-rollt-in-hafenbecken-mann-schwimmt-hinterher-und-ertrinkt-a-0616fd14-6cf7-4cb2-a9d2-834b1852ef89#ref=rss)
-### mordes
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
+* [https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast](https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast-a-6c5e6158-217c-42ca-bc27-781f373a34c1#ref=rss)
+### marsalek
 
-* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
-### schuldig
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
+* [https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast](https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast-a-6c5e6158-217c-42ca-bc27-781f373a34c1#ref=rss)
+### fünf
 
-* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
-### mai
+* [https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung](https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung-a-a5fb7646-7f06-4c42-b523-d1985604b42c#ref=rss)
+* [https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost](https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost-a-5a7b18de-b6d2-4cf3-b6a3-efa1bec5c6b8#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ](https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ-a-cf522613-4f06-476f-aa26-c35896bf88e3#ref=rss)
-### marco
+* [https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung](https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung-a-a5fb7646-7f06-4c42-b523-d1985604b42c#ref=rss)
+* [https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach](https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach-a-25781ccb-3f53-40b6-98da-f60a94cfa399#ref=rss)
+* [https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen](https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen-a-f0d60f6e-ce0b-43a1-a01f-e4d88e286da4#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen](https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen-a-7d3eec4d-422a-4028-874b-5dc1f439fda2#ref=rss)
-### rubio
+* [https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung](https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung-a-a5fb7646-7f06-4c42-b523-d1985604b42c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/haushalt-staedte-und-gemeinden-beklagen-ausufernde-pflegekosten](https://www.spiegel.de/wirtschaft/haushalt-staedte-und-gemeinden-beklagen-ausufernde-pflegekosten-a-3374c33b-606b-4fb7-88f9-2f9c65d551c7#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-merlin-hummel-pulverisiert-seine-bestleistung-und-holt-hammerwurf-silber](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-merlin-hummel-pulverisiert-seine-bestleistung-und-holt-hammerwurf-silber-a-1b56c715-d173-40a4-98d9-e5661dce547d#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen](https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen-a-7d3eec4d-422a-4028-874b-5dc1f439fda2#ref=rss)
-### katar
+* [https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen](https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen-a-a9951d94-fb5b-4546-9318-6dd7efba4a5d#ref=rss)
+* [https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost](https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost-a-5a7b18de-b6d2-4cf3-b6a3-efa1bec5c6b8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/paypal-rivale-was-taugt-wero-als-europaeische-antwort-auf-den-us-riesen](https://www.spiegel.de/wirtschaft/paypal-rivale-was-taugt-wero-als-europaeische-antwort-auf-den-us-riesen-a-4a600c40-b204-4323-9faf-3b70de3c7a29#ref=rss)
+### mord
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen](https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen-a-7d3eec4d-422a-4028-874b-5dc1f439fda2#ref=rss)
-### donald
+* [https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen](https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen-a-a9951d94-fb5b-4546-9318-6dd7efba4a5d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt-a-c3617a02-8bb1-4e93-a5c3-10875de02581#ref=rss)
+### münchner
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-seine-zoll-falle-europa-soll-fuer-russlandsanktionen-zahlen](https://www.spiegel.de/wirtschaft/donald-trump-und-seine-zoll-falle-europa-soll-fuer-russlandsanktionen-zahlen-a-ae303a2c-35e0-4a3b-b934-19c824d48c4a#ref=rss)
-### petra
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein-a-4bb95f90-0b10-411b-baee-a434573f7887#ref=rss)
+* [https://www.spiegel.de/auto/muenchner-oktoberfest-bahn-wappnet-sich-gegen-wiesn-ansturm](https://www.spiegel.de/auto/muenchner-oktoberfest-bahn-wappnet-sich-gegen-wiesn-ansturm-a-960d23d6-9dcc-47d6-8d45-0705aa4e6f8e#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende](https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende-a-4e595c36-8bba-42ef-9233-a3677788b6f3#ref=rss)
-### olschowski
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein-a-4bb95f90-0b10-411b-baee-a434573f7887#ref=rss)
+* [https://www.spiegel.de/panorama/leute/nick-cannon-erklaert-warum-er-zwoelf-kinder-hat](https://www.spiegel.de/panorama/leute/nick-cannon-erklaert-warum-er-zwoelf-kinder-hat-a-7b35164a-e414-4083-bce4-dd0f8a039643#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-aussichten-nochmal-hochsommer-statt-herbst-so-wird-das-wochenende](https://www.spiegel.de/panorama/wetter-aussichten-nochmal-hochsommer-statt-herbst-so-wird-das-wochenende-a-8f54b338-2faa-4bab-b858-763816752811#ref=rss)
+### haft
 
-* [https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende](https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende-a-4e595c36-8bba-42ef-9233-a3677788b6f3#ref=rss)
-### champions
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt-a-c3617a02-8bb1-4e93-a5c3-10875de02581#ref=rss)
+### tod
 
-* [https://www.spiegel.de/sport/fussball/champions-league-2025-2026-spielplan-und-ergebnisse](https://www.spiegel.de/sport/fussball/champions-league-2025-2026-spielplan-und-ergebnisse-a-d413a76b-cb94-462f-9d7a-0489860c1eda#ref=rss)
-### league
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
+* [https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach](https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach-a-25781ccb-3f53-40b6-98da-f60a94cfa399#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/sport/fussball/champions-league-2025-2026-spielplan-und-ergebnisse](https://www.spiegel.de/sport/fussball/champions-league-2025-2026-spielplan-und-ergebnisse-a-d413a76b-cb94-462f-9d7a-0489860c1eda#ref=rss)
-### naomi
+* [https://www.spiegel.de/kultur/merz-in-der-reichenbach-synagoge-die-traenen-des-kanzlers](https://www.spiegel.de/kultur/merz-in-der-reichenbach-synagoge-die-traenen-des-kanzlers-a-7ecdce82-e369-42cc-a416-5b85e0d68431#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-aussichten-nochmal-hochsommer-statt-herbst-so-wird-das-wochenende](https://www.spiegel.de/panorama/wetter-aussichten-nochmal-hochsommer-statt-herbst-so-wird-das-wochenende-a-8f54b338-2faa-4bab-b858-763816752811#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-indischer-konzern-jindal-will-stahlsparte-kaufen](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-indischer-konzern-jindal-will-stahlsparte-kaufen-a-13b6ab86-0116-4025-aa58-82ade0a404d2#ref=rss)
+### medienhäuser
 
-* [https://www.spiegel.de/panorama/leute/naomi-watts-ueber-die-wechseljahre-jetzt-schon](https://www.spiegel.de/panorama/leute/naomi-watts-ueber-die-wechseljahre-jetzt-schon-a-34415991-02de-4ccb-a441-410d5b03f83f#ref=rss)
-### watts
+* [https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung](https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung-a-a5fb7646-7f06-4c42-b523-d1985604b42c#ref=rss)
+### bundeskanzler
 
-* [https://www.spiegel.de/panorama/leute/naomi-watts-ueber-die-wechseljahre-jetzt-schon](https://www.spiegel.de/panorama/leute/naomi-watts-ueber-die-wechseljahre-jetzt-schon-a-34415991-02de-4ccb-a441-410d5b03f83f#ref=rss)
-### wechseljahre
+* [https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung](https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung-a-a5fb7646-7f06-4c42-b523-d1985604b42c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab-a-baaf3299-ce94-4239-b09a-21b0c684f8db#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/leute/naomi-watts-ueber-die-wechseljahre-jetzt-schon](https://www.spiegel.de/panorama/leute/naomi-watts-ueber-die-wechseljahre-jetzt-schon-a-34415991-02de-4ccb-a441-410d5b03f83f#ref=rss)
-### berlin
+* [https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung](https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung-a-a5fb7646-7f06-4c42-b523-d1985604b42c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/paypal-rivale-was-taugt-wero-als-europaeische-antwort-auf-den-us-riesen](https://www.spiegel.de/wirtschaft/paypal-rivale-was-taugt-wero-als-europaeische-antwort-auf-den-us-riesen-a-4a600c40-b204-4323-9faf-3b70de3c7a29#ref=rss)
+### sowjetführer
 
-* [https://www.spiegel.de/ausland/polen-praesident-karol-nawrocki-auf-antrittsbesuch-in-berlin-zu-gast-beim-boesen-nachbarn](https://www.spiegel.de/ausland/polen-praesident-karol-nawrocki-auf-antrittsbesuch-in-berlin-zu-gast-beim-boesen-nachbarn-a-3f8ee8e7-5a56-4fb1-a35d-5eff07b93897#ref=rss)
-### gast
+* [https://www.spiegel.de/geschichte/sowjetfuehrer-wladimir-iljitsch-lenin-lieber-zu-viel-terror-als-zu-wenig](https://www.spiegel.de/geschichte/sowjetfuehrer-wladimir-iljitsch-lenin-lieber-zu-viel-terror-als-zu-wenig-a-2fa7660f-0db8-4de5-b4fe-de461c46f496#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/ausland/polen-praesident-karol-nawrocki-auf-antrittsbesuch-in-berlin-zu-gast-beim-boesen-nachbarn](https://www.spiegel.de/ausland/polen-praesident-karol-nawrocki-auf-antrittsbesuch-in-berlin-zu-gast-beim-boesen-nachbarn-a-3f8ee8e7-5a56-4fb1-a35d-5eff07b93897#ref=rss)
+* [https://www.spiegel.de/geschichte/sowjetfuehrer-wladimir-iljitsch-lenin-lieber-zu-viel-terror-als-zu-wenig](https://www.spiegel.de/geschichte/sowjetfuehrer-wladimir-iljitsch-lenin-lieber-zu-viel-terror-als-zu-wenig-a-2fa7660f-0db8-4de5-b4fe-de461c46f496#ref=rss)
+### iljitsch
+
+* [https://www.spiegel.de/geschichte/sowjetfuehrer-wladimir-iljitsch-lenin-lieber-zu-viel-terror-als-zu-wenig](https://www.spiegel.de/geschichte/sowjetfuehrer-wladimir-iljitsch-lenin-lieber-zu-viel-terror-als-zu-wenig-a-2fa7660f-0db8-4de5-b4fe-de461c46f496#ref=rss)
+### lenin
+
+* [https://www.spiegel.de/geschichte/sowjetfuehrer-wladimir-iljitsch-lenin-lieber-zu-viel-terror-als-zu-wenig](https://www.spiegel.de/geschichte/sowjetfuehrer-wladimir-iljitsch-lenin-lieber-zu-viel-terror-als-zu-wenig-a-2fa7660f-0db8-4de5-b4fe-de461c46f496#ref=rss)
+### luigi
+
+* [https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen](https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen-a-a9951d94-fb5b-4546-9318-6dd7efba4a5d#ref=rss)
+### m
+
+* [https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen](https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen-a-a9951d94-fb5b-4546-9318-6dd7efba4a5d#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen](https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen-a-a9951d94-fb5b-4546-9318-6dd7efba4a5d#ref=rss)
+### anklagepunkte
+
+* [https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen](https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen-a-a9951d94-fb5b-4546-9318-6dd7efba4a5d#ref=rss)
+### fallen
+
+* [https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen](https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen-a-a9951d94-fb5b-4546-9318-6dd7efba4a5d#ref=rss)
+### synagoge
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein-a-4bb95f90-0b10-411b-baee-a434573f7887#ref=rss)
+### politik
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein-a-4bb95f90-0b10-411b-baee-a434573f7887#ref=rss)
+### tränen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein-a-4bb95f90-0b10-411b-baee-a434573f7887#ref=rss)
+* [https://www.spiegel.de/kultur/merz-in-der-reichenbach-synagoge-die-traenen-des-kanzlers](https://www.spiegel.de/kultur/merz-in-der-reichenbach-synagoge-die-traenen-des-kanzlers-a-7ecdce82-e369-42cc-a416-5b85e0d68431#ref=rss)
+### madeleine
+
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
+### mccann
+
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
+### christian
+
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
+### b
+
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
+### entlassen
+
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe](https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe-a-8873474a-fe29-4231-b0a9-88e37ee99d87#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste](https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste-a-5b9f960f-7e80-4ea4-8222-1a5d4c4bb71f#ref=rss)
+### karriere
+
+* [https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost](https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost-a-5a7b18de-b6d2-4cf3-b6a3-efa1bec5c6b8#ref=rss)
+* [https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern](https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern-a-0cfc4798-6b1c-45d0-86d6-ef82b6db3c73#ref=rss)
+### antwort
+
+* [https://www.spiegel.de/wirtschaft/paypal-rivale-was-taugt-wero-als-europaeische-antwort-auf-den-us-riesen](https://www.spiegel.de/wirtschaft/paypal-rivale-was-taugt-wero-als-europaeische-antwort-auf-den-us-riesen-a-4a600c40-b204-4323-9faf-3b70de3c7a29#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab-a-baaf3299-ce94-4239-b09a-21b0c684f8db#ref=rss)
+### nick
+
+* [https://www.spiegel.de/panorama/leute/nick-cannon-erklaert-warum-er-zwoelf-kinder-hat](https://www.spiegel.de/panorama/leute/nick-cannon-erklaert-warum-er-zwoelf-kinder-hat-a-7b35164a-e414-4083-bce4-dd0f8a039643#ref=rss)
+### cannon
+
+* [https://www.spiegel.de/panorama/leute/nick-cannon-erklaert-warum-er-zwoelf-kinder-hat](https://www.spiegel.de/panorama/leute/nick-cannon-erklaert-warum-er-zwoelf-kinder-hat-a-7b35164a-e414-4083-bce4-dd0f8a039643#ref=rss)
+### schauspieler
+
+* [https://www.spiegel.de/panorama/leute/nick-cannon-erklaert-warum-er-zwoelf-kinder-hat](https://www.spiegel.de/panorama/leute/nick-cannon-erklaert-warum-er-zwoelf-kinder-hat-a-7b35164a-e414-4083-bce4-dd0f8a039643#ref=rss)
+* [https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern](https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern-a-0cfc4798-6b1c-45d0-86d6-ef82b6db3c73#ref=rss)
+### gazastadt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
+### leben
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
+* [https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern](https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern-a-0cfc4798-6b1c-45d0-86d6-ef82b6db3c73#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
+* [https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast](https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast-a-6c5e6158-217c-42ca-bc27-781f373a34c1#ref=rss)
+### israel
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-israelische-luftangriffe-auf-huthi-infrastruktur-in-hudaida](https://www.spiegel.de/ausland/jemen-israelische-luftangriffe-auf-huthi-infrastruktur-in-hudaida-a-18c4859a-a9e2-45f1-87b9-caaf56932878#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe](https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe-a-8873474a-fe29-4231-b0a9-88e37ee99d87#ref=rss)
+### mutmaßlich
+
+* [https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe](https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe-a-8873474a-fe29-4231-b0a9-88e37ee99d87#ref=rss)
+### gruppe
+
+* [https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe](https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe-a-8873474a-fe29-4231-b0a9-88e37ee99d87#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe](https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe-a-8873474a-fe29-4231-b0a9-88e37ee99d87#ref=rss)
+### luftangriffe
+
+* [https://www.spiegel.de/ausland/jemen-israelische-luftangriffe-auf-huthi-infrastruktur-in-hudaida](https://www.spiegel.de/ausland/jemen-israelische-luftangriffe-auf-huthi-infrastruktur-in-hudaida-a-18c4859a-a9e2-45f1-87b9-caaf56932878#ref=rss)
+### hudaida
+
+* [https://www.spiegel.de/ausland/jemen-israelische-luftangriffe-auf-huthi-infrastruktur-in-hudaida](https://www.spiegel.de/ausland/jemen-israelische-luftangriffe-auf-huthi-infrastruktur-in-hudaida-a-18c4859a-a9e2-45f1-87b9-caaf56932878#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/jemen-israelische-luftangriffe-auf-huthi-infrastruktur-in-hudaida](https://www.spiegel.de/ausland/jemen-israelische-luftangriffe-auf-huthi-infrastruktur-in-hudaida-a-18c4859a-a9e2-45f1-87b9-caaf56932878#ref=rss)
+* [https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast](https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast-a-6c5e6158-217c-42ca-bc27-781f373a34c1#ref=rss)
+### wotan
+
+* [https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner](https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner-a-2247f704-eb9c-443f-824d-fa4928628215#ref=rss)
+### wilke
+
+* [https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner](https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner-a-2247f704-eb9c-443f-824d-fa4928628215#ref=rss)
+### möhring
+
+* [https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner](https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner-a-2247f704-eb9c-443f-824d-fa4928628215#ref=rss)
+### bekommt
+
+* [https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner](https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner-a-2247f704-eb9c-443f-824d-fa4928628215#ref=rss)
+* [https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach](https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach-a-25781ccb-3f53-40b6-98da-f60a94cfa399#ref=rss)
+### denis
+
+* [https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner](https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner-a-2247f704-eb9c-443f-824d-fa4928628215#ref=rss)
+### moschitto
+
+* [https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner](https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner-a-2247f704-eb9c-443f-824d-fa4928628215#ref=rss)
+### verspricht
+
+* [https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner](https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner-a-2247f704-eb9c-443f-824d-fa4928628215#ref=rss)
+* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben-a-c5ab172c-8723-478e-95f8-4d93a15c1216#ref=rss)
+### städte
+
+* [https://www.spiegel.de/wirtschaft/haushalt-staedte-und-gemeinden-beklagen-ausufernde-pflegekosten](https://www.spiegel.de/wirtschaft/haushalt-staedte-und-gemeinden-beklagen-ausufernde-pflegekosten-a-3374c33b-606b-4fb7-88f9-2f9c65d551c7#ref=rss)
+### gemeinden
+
+* [https://www.spiegel.de/wirtschaft/haushalt-staedte-und-gemeinden-beklagen-ausufernde-pflegekosten](https://www.spiegel.de/wirtschaft/haushalt-staedte-und-gemeinden-beklagen-ausufernde-pflegekosten-a-3374c33b-606b-4fb7-88f9-2f9c65d551c7#ref=rss)
+### oktoberfest
+
+* [https://www.spiegel.de/auto/muenchner-oktoberfest-bahn-wappnet-sich-gegen-wiesn-ansturm](https://www.spiegel.de/auto/muenchner-oktoberfest-bahn-wappnet-sich-gegen-wiesn-ansturm-a-960d23d6-9dcc-47d6-8d45-0705aa4e6f8e#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/auto/muenchner-oktoberfest-bahn-wappnet-sich-gegen-wiesn-ansturm](https://www.spiegel.de/auto/muenchner-oktoberfest-bahn-wappnet-sich-gegen-wiesn-ansturm-a-960d23d6-9dcc-47d6-8d45-0705aa4e6f8e#ref=rss)
+### jina
+
+* [https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach](https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach-a-25781ccb-3f53-40b6-98da-f60a94cfa399#ref=rss)
+### mahsa
+
+* [https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach](https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach-a-25781ccb-3f53-40b6-98da-f60a94cfa399#ref=rss)
+### amini
+
+* [https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach](https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach-a-25781ccb-3f53-40b6-98da-f60a94cfa399#ref=rss)
+### regime
+
+* [https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach](https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach-a-25781ccb-3f53-40b6-98da-f60a94cfa399#ref=rss)
+### größten
+
+* [https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach](https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach-a-25781ccb-3f53-40b6-98da-f60a94cfa399#ref=rss)
+* [https://www.spiegel.de/kultur/robert-redford-ist-tot-nachruf-der-gute-amerikaner](https://www.spiegel.de/kultur/robert-redford-ist-tot-nachruf-der-gute-amerikaner-a-435dc65a-55ea-416c-8204-aee638cccd4e#ref=rss)
+### filmemacher
+
+* [https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern](https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern-a-0cfc4798-6b1c-45d0-86d6-ef82b6db3c73#ref=rss)
+* [https://www.spiegel.de/kultur/robert-redford-ist-tot-nachruf-der-gute-amerikaner](https://www.spiegel.de/kultur/robert-redford-ist-tot-nachruf-der-gute-amerikaner-a-435dc65a-55ea-416c-8204-aee638cccd4e#ref=rss)
+### statt
+
+* [https://www.spiegel.de/panorama/wetter-aussichten-nochmal-hochsommer-statt-herbst-so-wird-das-wochenende](https://www.spiegel.de/panorama/wetter-aussichten-nochmal-hochsommer-statt-herbst-so-wird-das-wochenende-a-8f54b338-2faa-4bab-b858-763816752811#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste](https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste-a-5b9f960f-7e80-4ea4-8222-1a5d4c4bb71f#ref=rss)
+### usain
+
+* [https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste](https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste-a-5b9f960f-7e80-4ea4-8222-1a5d4c4bb71f#ref=rss)
+### bolt
+
+* [https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste](https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste-a-5b9f960f-7e80-4ea4-8222-1a5d4c4bb71f#ref=rss)
+### 100
+
+* [https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste](https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste-a-5b9f960f-7e80-4ea4-8222-1a5d4c4bb71f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen](https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen-a-f0d60f6e-ce0b-43a1-a01f-e4d88e286da4#ref=rss)
+### meter
+
+* [https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste](https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste-a-5b9f960f-7e80-4ea4-8222-1a5d4c4bb71f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen](https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen-a-f0d60f6e-ce0b-43a1-a01f-e4d88e286da4#ref=rss)
+### lebt
+
+* [https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste](https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste-a-5b9f960f-7e80-4ea4-8222-1a5d4c4bb71f#ref=rss)
+* [https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast](https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast-a-6c5e6158-217c-42ca-bc27-781f373a34c1#ref=rss)
+### steinmeier
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab-a-baaf3299-ce94-4239-b09a-21b0c684f8db#ref=rss)
+### reparationen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab-a-baaf3299-ce94-4239-b09a-21b0c684f8db#ref=rss)
+### britannic
+
+* [https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen](https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen-a-f0d60f6e-ce0b-43a1-a01f-e4d88e286da4#ref=rss)
+### objekte
+
+* [https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen](https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen-a-f0d60f6e-ce0b-43a1-a01f-e4d88e286da4#ref=rss)
+### darmstadt
+
+* [https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt-a-c3617a02-8bb1-4e93-a5c3-10875de02581#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt-a-c3617a02-8bb1-4e93-a5c3-10875de02581#ref=rss)
+### lebenslanger
+
+* [https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt-a-c3617a02-8bb1-4e93-a5c3-10875de02581#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt-a-c3617a02-8bb1-4e93-a5c3-10875de02581#ref=rss)
+### thyssenkrupp
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-indischer-konzern-jindal-will-stahlsparte-kaufen](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-indischer-konzern-jindal-will-stahlsparte-kaufen-a-13b6ab86-0116-4025-aa58-82ade0a404d2#ref=rss)
+### stahlsparte
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-indischer-konzern-jindal-will-stahlsparte-kaufen](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-indischer-konzern-jindal-will-stahlsparte-kaufen-a-13b6ab86-0116-4025-aa58-82ade0a404d2#ref=rss)
+### premier
+
+* [https://www.spiegel.de/ausland/frankreich-sebastien-lecornu-premier-streicht-dienstwagenprivilegien-seiner-vorgaenger](https://www.spiegel.de/ausland/frankreich-sebastien-lecornu-premier-streicht-dienstwagenprivilegien-seiner-vorgaenger-a-9d25aec2-8fb7-4014-a00a-20902b015cab#ref=rss)
+### leichtathletikwm
+
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-merlin-hummel-pulverisiert-seine-bestleistung-und-holt-hammerwurf-silber](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-merlin-hummel-pulverisiert-seine-bestleistung-und-holt-hammerwurf-silber-a-1b56c715-d173-40a4-98d9-e5661dce547d#ref=rss)
 ### merlin
 
-* [https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ](https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ-a-cf522613-4f06-476f-aa26-c35896bf88e3#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-merlin-hummel-pulverisiert-seine-bestleistung-und-holt-hammerwurf-silber](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-merlin-hummel-pulverisiert-seine-bestleistung-und-holt-hammerwurf-silber-a-1b56c715-d173-40a4-98d9-e5661dce547d#ref=rss)
 ### hummel
 
-* [https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ](https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ-a-cf522613-4f06-476f-aa26-c35896bf88e3#ref=rss)
-### percival
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-merlin-hummel-pulverisiert-seine-bestleistung-und-holt-hammerwurf-silber](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-merlin-hummel-pulverisiert-seine-bestleistung-und-holt-hammerwurf-silber-a-1b56c715-d173-40a4-98d9-e5661dce547d#ref=rss)
+### kash
 
-* [https://www.spiegel.de/kultur/literatur/percival-everett-der-unzuverlaessige-erzaehler](https://www.spiegel.de/kultur/literatur/percival-everett-der-unzuverlaessige-erzaehler-a-75dd47c7-66e4-48d2-a185-bc0d2ef64315#ref=rss)
-### everett
+* [https://www.spiegel.de/ausland/fbi-senatsbefragung-von-kash-patel-im-livestream](https://www.spiegel.de/ausland/fbi-senatsbefragung-von-kash-patel-im-livestream-a-d122ab7d-a9a6-4ad6-ac5f-cad6c6f7d497#ref=rss)
+### patel
 
-* [https://www.spiegel.de/kultur/literatur/percival-everett-der-unzuverlaessige-erzaehler](https://www.spiegel.de/kultur/literatur/percival-everett-der-unzuverlaessige-erzaehler-a-75dd47c7-66e4-48d2-a185-bc0d2ef64315#ref=rss)
+* [https://www.spiegel.de/ausland/fbi-senatsbefragung-von-kash-patel-im-livestream](https://www.spiegel.de/ausland/fbi-senatsbefragung-von-kash-patel-im-livestream-a-d122ab7d-a9a6-4ad6-ac5f-cad6c6f7d497#ref=rss)
+### argentinien
+
+* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben-a-c5ab172c-8723-478e-95f8-4d93a15c1216#ref=rss)
+### javier
+
+* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben-a-c5ab172c-8723-478e-95f8-4d93a15c1216#ref=rss)
+### milei
+
+* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben-a-c5ab172c-8723-478e-95f8-4d93a15c1216#ref=rss)
 
