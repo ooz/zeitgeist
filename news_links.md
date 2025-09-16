@@ -4,417 +4,317 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### deutschen
+
+* [https://www.spiegel.de/kultur/literatur/christine-wunnicke-und-kaleb-erdmann-stehen-auf-der-shortlist-zum-deutschen-buchpreis](https://www.spiegel.de/kultur/literatur/christine-wunnicke-und-kaleb-erdmann-stehen-auf-der-shortlist-zum-deutschen-buchpreis-a-b92a68b4-3b37-42c6-afeb-22b9b5d587b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bosch-zulieferer-plant-stellenabbau-wegen-autohersteller-krise](https://www.spiegel.de/wirtschaft/bosch-zulieferer-plant-stellenabbau-wegen-autohersteller-krise-a-86e3b890-7313-457e-a68e-9aea514b45e9#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung](https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung-a-c1545392-f2c7-4eff-a798-e331ab847316#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-2025-2026-spielplan-und-ergebnisse](https://www.spiegel.de/sport/fussball/champions-league-2025-2026-spielplan-und-ergebnisse-a-d413a76b-cb94-462f-9d7a-0489860c1eda#ref=rss)
+* [https://www.spiegel.de/ausland/polen-praesident-karol-nawrocki-auf-antrittsbesuch-in-berlin-zu-gast-beim-boesen-nachbarn](https://www.spiegel.de/ausland/polen-praesident-karol-nawrocki-auf-antrittsbesuch-in-berlin-zu-gast-beim-boesen-nachbarn-a-3f8ee8e7-5a56-4fb1-a35d-5eff07b93897#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ](https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ-a-cf522613-4f06-476f-aa26-c35896bf88e3#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-nord-stream-saboteur-soll-nach-deutschland-ausgeliefert-werden](https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-nord-stream-saboteur-soll-nach-deutschland-ausgeliefert-werden-a-6e307570-184e-4520-a4c6-8f3393fec33a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strom-und-gas-millionen-haushalte-haben-probleme-mit-der-energierechnung](https://www.spiegel.de/wirtschaft/strom-und-gas-millionen-haushalte-haben-probleme-mit-der-energierechnung-a-15efb870-44b8-416c-8364-9e8d9ca19f3f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende](https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende-a-4e595c36-8bba-42ef-9233-a3677788b6f3#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-erster-herbststurm-wirbelt-faehrenfahrplaene-durcheinander](https://www.spiegel.de/panorama/wetter-in-deutschland-erster-herbststurm-wirbelt-faehrenfahrplaene-durcheinander-a-aec0eb71-549f-40a8-91a2-cdbcd46872e3#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/politik/kommunalwahl-nrw-2025-spd-verliert-weiter-afd-feiert-erfolge](https://www.spiegel.de/politik/kommunalwahl-nrw-2025-spd-verliert-weiter-afd-feiert-erfolge-a-5ba8ff97-ceed-4990-a2aa-3a3aed441d7f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nordirland-konflikt-ex-soldat-mehr-als-50-jahre-nach-bloody-sunday-vor-gericht](https://www.spiegel.de/panorama/justiz/nordirland-konflikt-ex-soldat-mehr-als-50-jahre-nach-bloody-sunday-vor-gericht-a-a13e01e0-f56d-418a-8b3c-9a6bf968360a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-211d8742-0c08-464a-8d8d-ff01bdf33a38#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson](https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson-a-fcef30da-fc4a-48ce-a196-4d326fff0362#ref=rss)
-### regierung
+* [https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen](https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen-a-81b9bbf9-2188-4840-bf15-e0db3f3da3e1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strom-und-gas-millionen-haushalte-haben-probleme-mit-der-energierechnung](https://www.spiegel.de/wirtschaft/strom-und-gas-millionen-haushalte-haben-probleme-mit-der-energierechnung-a-15efb870-44b8-416c-8364-9e8d9ca19f3f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive](https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive-a-6ad47ad9-94fd-4e7d-9373-129ed42766fa#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
+### mannheim
 
-* [https://www.spiegel.de/ausland/sapad-2025-us-soldaten-besuchen-militaermanoever-in-belarus](https://www.spiegel.de/ausland/sapad-2025-us-soldaten-besuchen-militaermanoever-in-belarus-a-d15a83c7-89c5-45d6-ab70-157bbd0edeed#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-streit-mit-usa-daenemark-will-neue-ueberwachungsflugzeuge-kaufen](https://www.spiegel.de/ausland/groenland-streit-mit-usa-daenemark-will-neue-ueberwachungsflugzeuge-kaufen-a-b14a8493-cec7-47fc-a237-1f6654980d32#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson](https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson-a-fcef30da-fc4a-48ce-a196-4d326fff0362#ref=rss)
-### mehr
+* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
+### sulaiman
 
-* [https://www.spiegel.de/panorama/justiz/nordirland-konflikt-ex-soldat-mehr-als-50-jahre-nach-bloody-sunday-vor-gericht](https://www.spiegel.de/panorama/justiz/nordirland-konflikt-ex-soldat-mehr-als-50-jahre-nach-bloody-sunday-vor-gericht-a-a13e01e0-f56d-418a-8b3c-9a6bf968360a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-moenchengladbach-trennt-sich-nach-nur-drei-spieltagen-von-trainer-gerardo-seoane](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-moenchengladbach-trennt-sich-nach-nur-drei-spieltagen-von-trainer-gerardo-seoane-a-36994acc-73be-464d-a793-e85dd6009445#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-211d8742-0c08-464a-8d8d-ff01bdf33a38#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson](https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson-a-fcef30da-fc4a-48ce-a196-4d326fff0362#ref=rss)
-### 2025
+* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
+### ataee
 
-* [https://www.spiegel.de/politik/kommunalwahl-nrw-2025-spd-verliert-weiter-afd-feiert-erfolge](https://www.spiegel.de/politik/kommunalwahl-nrw-2025-spd-verliert-weiter-afd-feiert-erfolge-a-5ba8ff97-ceed-4990-a2aa-3a3aed441d7f#ref=rss)
-* [https://www.spiegel.de/ausland/sapad-2025-us-soldaten-besuchen-militaermanoever-in-belarus](https://www.spiegel.de/ausland/sapad-2025-us-soldaten-besuchen-militaermanoever-in-belarus-a-d15a83c7-89c5-45d6-ab70-157bbd0edeed#ref=rss)
-* [https://www.spiegel.de/politik/nrw-kommunalwahl-2025-afd-erfolge-und-rueckschlaege-bei-den-kommunalwahlen](https://www.spiegel.de/politik/nrw-kommunalwahl-2025-afd-erfolge-und-rueckschlaege-bei-den-kommunalwahlen-a-c677fa96-c453-43af-95bf-4eb0c70ef7e7#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-frederik-rupperts-medaillentraum-platzt-mondo-duplantis-siegt-mit-weltrekord](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-frederik-rupperts-medaillentraum-platzt-mondo-duplantis-siegt-mit-weltrekord-a-bbc6e54a-55a2-40fb-8882-41946f9891ac#ref=rss)
-### charlie
+* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
+### festgenommen
 
-* [https://www.spiegel.de/ausland/charlie-kirk-dna-spuren-an-einer-waffe-sollen-laut-fbi-auf-verdaechtigen-passen](https://www.spiegel.de/ausland/charlie-kirk-dna-spuren-an-einer-waffe-sollen-laut-fbi-auf-verdaechtigen-passen-a-738a0673-2f67-4bc7-864a-592a8143201a#ref=rss)
-* [https://www.spiegel.de/geschichte/charlie-kirk-warum-man-die-meme-kultur-verstehen-muss-um-das-attentat-einordnen-zu-koennen](https://www.spiegel.de/geschichte/charlie-kirk-warum-man-die-meme-kultur-verstehen-muss-um-das-attentat-einordnen-zu-koennen-a-cbee6584-0f55-4e60-ae9e-a2149dea3236#ref=rss)
-### kirk
+* [https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-nord-stream-saboteur-soll-nach-deutschland-ausgeliefert-werden](https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-nord-stream-saboteur-soll-nach-deutschland-ausgeliefert-werden-a-6e307570-184e-4520-a4c6-8f3393fec33a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen](https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen-a-0223f0e5-3027-4687-9371-0f9eda3b8ef4#ref=rss)
+### teils
 
-* [https://www.spiegel.de/ausland/charlie-kirk-dna-spuren-an-einer-waffe-sollen-laut-fbi-auf-verdaechtigen-passen](https://www.spiegel.de/ausland/charlie-kirk-dna-spuren-an-einer-waffe-sollen-laut-fbi-auf-verdaechtigen-passen-a-738a0673-2f67-4bc7-864a-592a8143201a#ref=rss)
-* [https://www.spiegel.de/geschichte/charlie-kirk-warum-man-die-meme-kultur-verstehen-muss-um-das-attentat-einordnen-zu-koennen](https://www.spiegel.de/geschichte/charlie-kirk-warum-man-die-meme-kultur-verstehen-muss-um-das-attentat-einordnen-zu-koennen-a-cbee6584-0f55-4e60-ae9e-a2149dea3236#ref=rss)
-### faire
+* [https://www.spiegel.de/wirtschaft/strom-und-gas-millionen-haushalte-haben-probleme-mit-der-energierechnung](https://www.spiegel.de/wirtschaft/strom-und-gas-millionen-haushalte-haben-probleme-mit-der-energierechnung-a-15efb870-44b8-416c-8364-9e8d9ca19f3f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid-a-be12b619-588a-4f30-9fb6-3436a5965bd7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-2025-2026-spielplan-und-ergebnisse](https://www.spiegel.de/sport/fussball/champions-league-2025-2026-spielplan-und-ergebnisse-a-d413a76b-cb94-462f-9d7a-0489860c1eda#ref=rss)
+### oberlandesgericht
 
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-### ideen
+* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
+### stuttgart
 
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-### reform
+* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
+* [https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende](https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende-a-4e595c36-8bba-42ef-9233-a3677788b6f3#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-### deutsche
+* [https://www.spiegel.de/wirtschaft/bosch-zulieferer-plant-stellenabbau-wegen-autohersteller-krise](https://www.spiegel.de/wirtschaft/bosch-zulieferer-plant-stellenabbau-wegen-autohersteller-krise-a-86e3b890-7313-457e-a68e-9aea514b45e9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/mietspiegel-rechner-zahlen-sie-zu-viel-miete](https://www.spiegel.de/wirtschaft/service/mietspiegel-rechner-zahlen-sie-zu-viel-miete-a-17126383-523a-411c-aab0-06dbfef8658f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-seine-zoll-falle-europa-soll-fuer-russlandsanktionen-zahlen](https://www.spiegel.de/wirtschaft/donald-trump-und-seine-zoll-falle-europa-soll-fuer-russlandsanktionen-zahlen-a-ae303a2c-35e0-4a3b-b934-19c824d48c4a#ref=rss)
+### merz
 
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-* [https://www.spiegel.de/politik/toleranz-und-vielfalt-deutsche-sind-laut-studie-weniger-tolerant-als-noch-2019](https://www.spiegel.de/politik/toleranz-und-vielfalt-deutsche-sind-laut-studie-weniger-tolerant-als-noch-2019-a-7beb9b6d-f7b9-4443-872f-a6fa7c741049#ref=rss)
-* [https://www.spiegel.de/kultur/kino/iris-berben-und-moritz-bleibtreu-ueber-schauspiel-honorare](https://www.spiegel.de/kultur/kino/iris-berben-und-moritz-bleibtreu-ueber-schauspiel-honorare-a-3129f733-b3d4-4261-bafd-8b0938143107#ref=rss)
-### elon
+* [https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung](https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung-a-c1545392-f2c7-4eff-a798-e331ab847316#ref=rss)
+### lufthansa
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-kauft-tesla-aktien-im-wert-von-einer-milliarde-dollar](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-kauft-tesla-aktien-im-wert-von-einer-milliarde-dollar-a-74fa58d0-2a57-4b36-957d-ebc934214366#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson](https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson-a-fcef30da-fc4a-48ce-a196-4d326fff0362#ref=rss)
-### musk
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-kabinengewerkschaft-ufo-meldet-gescheiterte-gespraeche](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-kabinengewerkschaft-ufo-meldet-gescheiterte-gespraeche-a-384dbb59-6d80-44ea-b407-e6aae3988750#ref=rss)
+### ufo
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-kauft-tesla-aktien-im-wert-von-einer-milliarde-dollar](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-kauft-tesla-aktien-im-wert-von-einer-milliarde-dollar-a-74fa58d0-2a57-4b36-957d-ebc934214366#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson](https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson-a-fcef30da-fc4a-48ce-a196-4d326fff0362#ref=rss)
-### nrw
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-kabinengewerkschaft-ufo-meldet-gescheiterte-gespraeche](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-kabinengewerkschaft-ufo-meldet-gescheiterte-gespraeche-a-384dbb59-6d80-44ea-b407-e6aae3988750#ref=rss)
+### gespräche
 
-* [https://www.spiegel.de/politik/kommunalwahl-nrw-2025-spd-verliert-weiter-afd-feiert-erfolge](https://www.spiegel.de/politik/kommunalwahl-nrw-2025-spd-verliert-weiter-afd-feiert-erfolge-a-5ba8ff97-ceed-4990-a2aa-3a3aed441d7f#ref=rss)
-* [https://www.spiegel.de/politik/nrw-kommunalwahl-2025-afd-erfolge-und-rueckschlaege-bei-den-kommunalwahlen](https://www.spiegel.de/politik/nrw-kommunalwahl-2025-afd-erfolge-und-rueckschlaege-bei-den-kommunalwahlen-a-c677fa96-c453-43af-95bf-4eb0c70ef7e7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-211d8742-0c08-464a-8d8d-ff01bdf33a38#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/kommunalwahl-nrw-2025-spd-verliert-weiter-afd-feiert-erfolge](https://www.spiegel.de/politik/kommunalwahl-nrw-2025-spd-verliert-weiter-afd-feiert-erfolge-a-5ba8ff97-ceed-4990-a2aa-3a3aed441d7f#ref=rss)
-* [https://www.spiegel.de/politik/nrw-kommunalwahl-2025-afd-erfolge-und-rueckschlaege-bei-den-kommunalwahlen](https://www.spiegel.de/politik/nrw-kommunalwahl-2025-afd-erfolge-und-rueckschlaege-bei-den-kommunalwahlen-a-c677fa96-c453-43af-95bf-4eb0c70ef7e7#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/fall-marvin-s-in-berlin-straftat-nicht-erkannt-interne-ermittlungen-gegen-polizisten](https://www.spiegel.de/panorama/fall-marvin-s-in-berlin-straftat-nicht-erkannt-interne-ermittlungen-gegen-polizisten-a-a8357ec8-94f1-40bd-9904-c3e3c6967fde#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/alsdorf-aachen-polizei-stoppt-autofahrerin-mit-weissem-pony-im-kofferraum](https://www.spiegel.de/panorama/justiz/alsdorf-aachen-polizei-stoppt-autofahrerin-mit-weissem-pony-im-kofferraum-a-9462f7b8-c42f-45a5-8355-3849876519f8#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/charlie-kirk-dna-spuren-an-einer-waffe-sollen-laut-fbi-auf-verdaechtigen-passen](https://www.spiegel.de/ausland/charlie-kirk-dna-spuren-an-einer-waffe-sollen-laut-fbi-auf-verdaechtigen-passen-a-738a0673-2f67-4bc7-864a-592a8143201a#ref=rss)
-* [https://www.spiegel.de/politik/toleranz-und-vielfalt-deutsche-sind-laut-studie-weniger-tolerant-als-noch-2019](https://www.spiegel.de/politik/toleranz-und-vielfalt-deutsche-sind-laut-studie-weniger-tolerant-als-noch-2019-a-7beb9b6d-f7b9-4443-872f-a6fa7c741049#ref=rss)
-### attentat
-
-* [https://www.spiegel.de/ausland/charlie-kirk-dna-spuren-an-einer-waffe-sollen-laut-fbi-auf-verdaechtigen-passen](https://www.spiegel.de/ausland/charlie-kirk-dna-spuren-an-einer-waffe-sollen-laut-fbi-auf-verdaechtigen-passen-a-738a0673-2f67-4bc7-864a-592a8143201a#ref=rss)
-* [https://www.spiegel.de/geschichte/charlie-kirk-warum-man-die-meme-kultur-verstehen-muss-um-das-attentat-einordnen-zu-koennen](https://www.spiegel.de/geschichte/charlie-kirk-warum-man-die-meme-kultur-verstehen-muss-um-das-attentat-einordnen-zu-koennen-a-cbee6584-0f55-4e60-ae9e-a2149dea3236#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/groenland-streit-mit-usa-daenemark-will-neue-ueberwachungsflugzeuge-kaufen](https://www.spiegel.de/ausland/groenland-streit-mit-usa-daenemark-will-neue-ueberwachungsflugzeuge-kaufen-a-b14a8493-cec7-47fc-a237-1f6654980d32#ref=rss)
-* [https://www.spiegel.de/netzwelt/usa-verkuenden-verkuenden-tiktok-einigung-mit-china-nennen-aber-keine-details](https://www.spiegel.de/netzwelt/usa-verkuenden-verkuenden-tiktok-einigung-mit-china-nennen-aber-keine-details-a-3c56c892-12be-48fd-913d-528aac22beb3#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/groenland-streit-mit-usa-daenemark-will-neue-ueberwachungsflugzeuge-kaufen](https://www.spiegel.de/ausland/groenland-streit-mit-usa-daenemark-will-neue-ueberwachungsflugzeuge-kaufen-a-b14a8493-cec7-47fc-a237-1f6654980d32#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/asterix-in-lusitanien-im-41-band-zieht-es-die-gallier-ins-heutige-portugal](https://www.spiegel.de/kultur/literatur/asterix-in-lusitanien-im-41-band-zieht-es-die-gallier-ins-heutige-portugal-a-834641aa-dcd2-427d-8389-5fe352c54555#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-moenchengladbach-trennt-sich-nach-nur-drei-spieltagen-von-trainer-gerardo-seoane](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-moenchengladbach-trennt-sich-nach-nur-drei-spieltagen-von-trainer-gerardo-seoane-a-36994acc-73be-464d-a793-e85dd6009445#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-* [https://www.spiegel.de/panorama/oberhausen-hamburg-luftballons-von-siebenjaehrigem-landet-bei-bundespolizei](https://www.spiegel.de/panorama/oberhausen-hamburg-luftballons-von-siebenjaehrigem-landet-bei-bundespolizei-a-dbab0456-367f-4088-90bc-3e6174e36c7f#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-kauft-tesla-aktien-im-wert-von-einer-milliarde-dollar](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-kauft-tesla-aktien-im-wert-von-einer-milliarde-dollar-a-74fa58d0-2a57-4b36-957d-ebc934214366#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-211d8742-0c08-464a-8d8d-ff01bdf33a38#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson](https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson-a-fcef30da-fc4a-48ce-a196-4d326fff0362#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/ausland/grossbritannien-regierungsmitarbeiter-paul-ovenden-tritt-wegen-sexistischer-aeusserungen-zurueck](https://www.spiegel.de/ausland/grossbritannien-regierungsmitarbeiter-paul-ovenden-tritt-wegen-sexistischer-aeusserungen-zurueck-a-4b446d5d-d713-4534-824a-9658a7d8732b#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson](https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson-a-fcef30da-fc4a-48ce-a196-4d326fff0362#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/grossbritannien-regierungsmitarbeiter-paul-ovenden-tritt-wegen-sexistischer-aeusserungen-zurueck](https://www.spiegel.de/ausland/grossbritannien-regierungsmitarbeiter-paul-ovenden-tritt-wegen-sexistischer-aeusserungen-zurueck-a-4b446d5d-d713-4534-824a-9658a7d8732b#ref=rss)
-* [https://www.spiegel.de/politik/nrw-kommunalwahl-2025-afd-erfolge-und-rueckschlaege-bei-den-kommunalwahlen](https://www.spiegel.de/politik/nrw-kommunalwahl-2025-afd-erfolge-und-rueckschlaege-bei-den-kommunalwahlen-a-c677fa96-c453-43af-95bf-4eb0c70ef7e7#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-warum-der-klub-immer-noch-nicht-in-seinem-stadion-camp-nou-spielen-kann](https://www.spiegel.de/sport/fussball/fc-barcelona-warum-der-klub-immer-noch-nicht-in-seinem-stadion-camp-nou-spielen-kann-a-4080c542-da35-4ae5-a586-07801a9f3f9e#ref=rss)
-### barcelona
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-warum-der-klub-immer-noch-nicht-in-seinem-stadion-camp-nou-spielen-kann](https://www.spiegel.de/sport/fussball/fc-barcelona-warum-der-klub-immer-noch-nicht-in-seinem-stadion-camp-nou-spielen-kann-a-4080c542-da35-4ae5-a586-07801a9f3f9e#ref=rss)
-### stadion
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-warum-der-klub-immer-noch-nicht-in-seinem-stadion-camp-nou-spielen-kann](https://www.spiegel.de/sport/fussball/fc-barcelona-warum-der-klub-immer-noch-nicht-in-seinem-stadion-camp-nou-spielen-kann-a-4080c542-da35-4ae5-a586-07801a9f3f9e#ref=rss)
-### camp
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-warum-der-klub-immer-noch-nicht-in-seinem-stadion-camp-nou-spielen-kann](https://www.spiegel.de/sport/fussball/fc-barcelona-warum-der-klub-immer-noch-nicht-in-seinem-stadion-camp-nou-spielen-kann-a-4080c542-da35-4ae5-a586-07801a9f3f9e#ref=rss)
-### nou
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-warum-der-klub-immer-noch-nicht-in-seinem-stadion-camp-nou-spielen-kann](https://www.spiegel.de/sport/fussball/fc-barcelona-warum-der-klub-immer-noch-nicht-in-seinem-stadion-camp-nou-spielen-kann-a-4080c542-da35-4ae5-a586-07801a9f3f9e#ref=rss)
-### wäre
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-warum-der-klub-immer-noch-nicht-in-seinem-stadion-camp-nou-spielen-kann](https://www.spiegel.de/sport/fussball/fc-barcelona-warum-der-klub-immer-noch-nicht-in-seinem-stadion-camp-nou-spielen-kann-a-4080c542-da35-4ae5-a586-07801a9f3f9e#ref=rss)
-* [https://www.spiegel.de/stil/landshut-entfuehrung-1977-ein-palaestinensischer-terrorist-wollte-ihn-erschiessen-wegen-seiner-uhr](https://www.spiegel.de/stil/landshut-entfuehrung-1977-ein-palaestinensischer-terrorist-wollte-ihn-erschiessen-wegen-seiner-uhr-a-5a5bfddf-19d7-4dea-8c04-c86c161de5ba#ref=rss)
-### 1977
-
-* [https://www.spiegel.de/stil/landshut-entfuehrung-1977-ein-palaestinensischer-terrorist-wollte-ihn-erschiessen-wegen-seiner-uhr](https://www.spiegel.de/stil/landshut-entfuehrung-1977-ein-palaestinensischer-terrorist-wollte-ihn-erschiessen-wegen-seiner-uhr-a-5a5bfddf-19d7-4dea-8c04-c86c161de5ba#ref=rss)
-### vietor
-
-* [https://www.spiegel.de/stil/landshut-entfuehrung-1977-ein-palaestinensischer-terrorist-wollte-ihn-erschiessen-wegen-seiner-uhr](https://www.spiegel.de/stil/landshut-entfuehrung-1977-ein-palaestinensischer-terrorist-wollte-ihn-erschiessen-wegen-seiner-uhr-a-5a5bfddf-19d7-4dea-8c04-c86c161de5ba#ref=rss)
-### kommunalwahl
-
-* [https://www.spiegel.de/politik/kommunalwahl-nrw-2025-spd-verliert-weiter-afd-feiert-erfolge](https://www.spiegel.de/politik/kommunalwahl-nrw-2025-spd-verliert-weiter-afd-feiert-erfolge-a-5ba8ff97-ceed-4990-a2aa-3a3aed441d7f#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/kommunalwahl-nrw-2025-spd-verliert-weiter-afd-feiert-erfolge](https://www.spiegel.de/politik/kommunalwahl-nrw-2025-spd-verliert-weiter-afd-feiert-erfolge-a-5ba8ff97-ceed-4990-a2aa-3a3aed441d7f#ref=rss)
-### nordrheinwestfalen
-
-* [https://www.spiegel.de/politik/kommunalwahl-nrw-2025-spd-verliert-weiter-afd-feiert-erfolge](https://www.spiegel.de/politik/kommunalwahl-nrw-2025-spd-verliert-weiter-afd-feiert-erfolge-a-5ba8ff97-ceed-4990-a2aa-3a3aed441d7f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/alsdorf-aachen-polizei-stoppt-autofahrerin-mit-weissem-pony-im-kofferraum](https://www.spiegel.de/panorama/justiz/alsdorf-aachen-polizei-stoppt-autofahrerin-mit-weissem-pony-im-kofferraum-a-9462f7b8-c42f-45a5-8355-3849876519f8#ref=rss)
-### marvin
-
-* [https://www.spiegel.de/panorama/fall-marvin-s-in-berlin-straftat-nicht-erkannt-interne-ermittlungen-gegen-polizisten](https://www.spiegel.de/panorama/fall-marvin-s-in-berlin-straftat-nicht-erkannt-interne-ermittlungen-gegen-polizisten-a-a8357ec8-94f1-40bd-9904-c3e3c6967fde#ref=rss)
-### s
-
-* [https://www.spiegel.de/panorama/fall-marvin-s-in-berlin-straftat-nicht-erkannt-interne-ermittlungen-gegen-polizisten](https://www.spiegel.de/panorama/fall-marvin-s-in-berlin-straftat-nicht-erkannt-interne-ermittlungen-gegen-polizisten-a-a8357ec8-94f1-40bd-9904-c3e3c6967fde#ref=rss)
-### straftat
-
-* [https://www.spiegel.de/panorama/fall-marvin-s-in-berlin-straftat-nicht-erkannt-interne-ermittlungen-gegen-polizisten](https://www.spiegel.de/panorama/fall-marvin-s-in-berlin-straftat-nicht-erkannt-interne-ermittlungen-gegen-polizisten-a-a8357ec8-94f1-40bd-9904-c3e3c6967fde#ref=rss)
-### ermittlungen
-
-* [https://www.spiegel.de/panorama/fall-marvin-s-in-berlin-straftat-nicht-erkannt-interne-ermittlungen-gegen-polizisten](https://www.spiegel.de/panorama/fall-marvin-s-in-berlin-straftat-nicht-erkannt-interne-ermittlungen-gegen-polizisten-a-a8357ec8-94f1-40bd-9904-c3e3c6967fde#ref=rss)
-### beamten
-
-* [https://www.spiegel.de/panorama/fall-marvin-s-in-berlin-straftat-nicht-erkannt-interne-ermittlungen-gegen-polizisten](https://www.spiegel.de/panorama/fall-marvin-s-in-berlin-straftat-nicht-erkannt-interne-ermittlungen-gegen-polizisten-a-a8357ec8-94f1-40bd-9904-c3e3c6967fde#ref=rss)
-* [https://www.spiegel.de/panorama/oberhausen-hamburg-luftballons-von-siebenjaehrigem-landet-bei-bundespolizei](https://www.spiegel.de/panorama/oberhausen-hamburg-luftballons-von-siebenjaehrigem-landet-bei-bundespolizei-a-dbab0456-367f-4088-90bc-3e6174e36c7f#ref=rss)
-### katherina
-
-* [https://www.spiegel.de/wirtschaft/soziales/kommentar-katherina-reiche-will-erneuerbare-energien-ausbremsen](https://www.spiegel.de/wirtschaft/soziales/kommentar-katherina-reiche-will-erneuerbare-energien-ausbremsen-a-0e6871c3-2606-437f-9f61-53b11a808adc#ref=rss)
-### reiche
-
-* [https://www.spiegel.de/wirtschaft/soziales/kommentar-katherina-reiche-will-erneuerbare-energien-ausbremsen](https://www.spiegel.de/wirtschaft/soziales/kommentar-katherina-reiche-will-erneuerbare-energien-ausbremsen-a-0e6871c3-2606-437f-9f61-53b11a808adc#ref=rss)
-### guten
-
-* [https://www.spiegel.de/wirtschaft/soziales/kommentar-katherina-reiche-will-erneuerbare-energien-ausbremsen](https://www.spiegel.de/wirtschaft/soziales/kommentar-katherina-reiche-will-erneuerbare-energien-ausbremsen-a-0e6871c3-2606-437f-9f61-53b11a808adc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-kauft-tesla-aktien-im-wert-von-einer-milliarde-dollar](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-kauft-tesla-aktien-im-wert-von-einer-milliarde-dollar-a-74fa58d0-2a57-4b36-957d-ebc934214366#ref=rss)
-### gefallen
-
-* [https://www.spiegel.de/wirtschaft/soziales/kommentar-katherina-reiche-will-erneuerbare-energien-ausbremsen](https://www.spiegel.de/wirtschaft/soziales/kommentar-katherina-reiche-will-erneuerbare-energien-ausbremsen-a-0e6871c3-2606-437f-9f61-53b11a808adc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-moenchengladbach-trennt-sich-nach-nur-drei-spieltagen-von-trainer-gerardo-seoane](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-moenchengladbach-trennt-sich-nach-nur-drei-spieltagen-von-trainer-gerardo-seoane-a-36994acc-73be-464d-a793-e85dd6009445#ref=rss)
-### ussoldaten
-
-* [https://www.spiegel.de/ausland/sapad-2025-us-soldaten-besuchen-militaermanoever-in-belarus](https://www.spiegel.de/ausland/sapad-2025-us-soldaten-besuchen-militaermanoever-in-belarus-a-d15a83c7-89c5-45d6-ab70-157bbd0edeed#ref=rss)
-### belarus
-
-* [https://www.spiegel.de/ausland/sapad-2025-us-soldaten-besuchen-militaermanoever-in-belarus](https://www.spiegel.de/ausland/sapad-2025-us-soldaten-besuchen-militaermanoever-in-belarus-a-d15a83c7-89c5-45d6-ab70-157bbd0edeed#ref=rss)
-### groß
-
-* [https://www.spiegel.de/ausland/sapad-2025-us-soldaten-besuchen-militaermanoever-in-belarus](https://www.spiegel.de/ausland/sapad-2025-us-soldaten-besuchen-militaermanoever-in-belarus-a-d15a83c7-89c5-45d6-ab70-157bbd0edeed#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-streit-mit-usa-daenemark-will-neue-ueberwachungsflugzeuge-kaufen](https://www.spiegel.de/ausland/groenland-streit-mit-usa-daenemark-will-neue-ueberwachungsflugzeuge-kaufen-a-b14a8493-cec7-47fc-a237-1f6654980d32#ref=rss)
-### robinson
-
-* [https://www.spiegel.de/ausland/charlie-kirk-dna-spuren-an-einer-waffe-sollen-laut-fbi-auf-verdaechtigen-passen](https://www.spiegel.de/ausland/charlie-kirk-dna-spuren-an-einer-waffe-sollen-laut-fbi-auf-verdaechtigen-passen-a-738a0673-2f67-4bc7-864a-592a8143201a#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson](https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson-a-fcef30da-fc4a-48ce-a196-4d326fff0362#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/ausland/charlie-kirk-dna-spuren-an-einer-waffe-sollen-laut-fbi-auf-verdaechtigen-passen](https://www.spiegel.de/ausland/charlie-kirk-dna-spuren-an-einer-waffe-sollen-laut-fbi-auf-verdaechtigen-passen-a-738a0673-2f67-4bc7-864a-592a8143201a#ref=rss)
-* [https://www.spiegel.de/geschichte/charlie-kirk-warum-man-die-meme-kultur-verstehen-muss-um-das-attentat-einordnen-zu-koennen](https://www.spiegel.de/geschichte/charlie-kirk-warum-man-die-meme-kultur-verstehen-muss-um-das-attentat-einordnen-zu-koennen-a-cbee6584-0f55-4e60-ae9e-a2149dea3236#ref=rss)
-### kaufen
-
-* [https://www.spiegel.de/ausland/groenland-streit-mit-usa-daenemark-will-neue-ueberwachungsflugzeuge-kaufen](https://www.spiegel.de/ausland/groenland-streit-mit-usa-daenemark-will-neue-ueberwachungsflugzeuge-kaufen-a-b14a8493-cec7-47fc-a237-1f6654980d32#ref=rss)
-### nordirlandkonflikt
-
-* [https://www.spiegel.de/panorama/justiz/nordirland-konflikt-ex-soldat-mehr-als-50-jahre-nach-bloody-sunday-vor-gericht](https://www.spiegel.de/panorama/justiz/nordirland-konflikt-ex-soldat-mehr-als-50-jahre-nach-bloody-sunday-vor-gericht-a-a13e01e0-f56d-418a-8b3c-9a6bf968360a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-kabinengewerkschaft-ufo-meldet-gescheiterte-gespraeche](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-kabinengewerkschaft-ufo-meldet-gescheiterte-gespraeche-a-384dbb59-6d80-44ea-b407-e6aae3988750#ref=rss)
 ### gericht
 
-* [https://www.spiegel.de/panorama/justiz/nordirland-konflikt-ex-soldat-mehr-als-50-jahre-nach-bloody-sunday-vor-gericht](https://www.spiegel.de/panorama/justiz/nordirland-konflikt-ex-soldat-mehr-als-50-jahre-nach-bloody-sunday-vor-gericht-a-a13e01e0-f56d-418a-8b3c-9a6bf968360a#ref=rss)
-### britische
+* [https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-nord-stream-saboteur-soll-nach-deutschland-ausgeliefert-werden](https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-nord-stream-saboteur-soll-nach-deutschland-ausgeliefert-werden-a-6e307570-184e-4520-a4c6-8f3393fec33a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
+### august
 
-* [https://www.spiegel.de/panorama/justiz/nordirland-konflikt-ex-soldat-mehr-als-50-jahre-nach-bloody-sunday-vor-gericht](https://www.spiegel.de/panorama/justiz/nordirland-konflikt-ex-soldat-mehr-als-50-jahre-nach-bloody-sunday-vor-gericht-a-a13e01e0-f56d-418a-8b3c-9a6bf968360a#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson](https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson-a-fcef30da-fc4a-48ce-a196-4d326fff0362#ref=rss)
-### vuelta
+* [https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-nord-stream-saboteur-soll-nach-deutschland-ausgeliefert-werden](https://www.spiegel.de/panorama/justiz/italien-mutmasslicher-nord-stream-saboteur-soll-nach-deutschland-ausgeliefert-werden-a-6e307570-184e-4520-a4c6-8f3393fec33a#ref=rss)
+* [https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor](https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor-a-86450dc8-17be-49df-ab46-4f725df1cae2#ref=rss)
+### dunja
 
-* [https://www.spiegel.de/sport/radsport/vuelta-proteste-bei-der-spanien-rundfahrt-beim-naechsten-mal-wird-es-noch-schlimmer](https://www.spiegel.de/sport/radsport/vuelta-proteste-bei-der-spanien-rundfahrt-beim-naechsten-mal-wird-es-noch-schlimmer-a-3b15fb0d-c9ee-4461-8509-86329b4f78c9#ref=rss)
-### proteste
+* [https://www.spiegel.de/kultur/dunja-hayali-macht-nach-shitstorm-online-pause](https://www.spiegel.de/kultur/dunja-hayali-macht-nach-shitstorm-online-pause-a-3a937a9a-7c34-477b-80ac-e24fb28f2c2e#ref=rss)
+### hayali
 
-* [https://www.spiegel.de/sport/radsport/vuelta-proteste-bei-der-spanien-rundfahrt-beim-naechsten-mal-wird-es-noch-schlimmer](https://www.spiegel.de/sport/radsport/vuelta-proteste-bei-der-spanien-rundfahrt-beim-naechsten-mal-wird-es-noch-schlimmer-a-3b15fb0d-c9ee-4461-8509-86329b4f78c9#ref=rss)
-### spanienrundfahrt
+* [https://www.spiegel.de/kultur/dunja-hayali-macht-nach-shitstorm-online-pause](https://www.spiegel.de/kultur/dunja-hayali-macht-nach-shitstorm-online-pause-a-3a937a9a-7c34-477b-80ac-e24fb28f2c2e#ref=rss)
+### macht
 
-* [https://www.spiegel.de/sport/radsport/vuelta-proteste-bei-der-spanien-rundfahrt-beim-naechsten-mal-wird-es-noch-schlimmer](https://www.spiegel.de/sport/radsport/vuelta-proteste-bei-der-spanien-rundfahrt-beim-naechsten-mal-wird-es-noch-schlimmer-a-3b15fb0d-c9ee-4461-8509-86329b4f78c9#ref=rss)
-### bekommen
+* [https://www.spiegel.de/kultur/dunja-hayali-macht-nach-shitstorm-online-pause](https://www.spiegel.de/kultur/dunja-hayali-macht-nach-shitstorm-online-pause-a-3a937a9a-7c34-477b-80ac-e24fb28f2c2e#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung](https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung-a-c1545392-f2c7-4eff-a798-e331ab847316#ref=rss)
+### onlinepause
 
-* [https://www.spiegel.de/sport/radsport/vuelta-proteste-bei-der-spanien-rundfahrt-beim-naechsten-mal-wird-es-noch-schlimmer](https://www.spiegel.de/sport/radsport/vuelta-proteste-bei-der-spanien-rundfahrt-beim-naechsten-mal-wird-es-noch-schlimmer-a-3b15fb0d-c9ee-4461-8509-86329b4f78c9#ref=rss)
-* [https://www.spiegel.de/kultur/kino/iris-berben-und-moritz-bleibtreu-ueber-schauspiel-honorare](https://www.spiegel.de/kultur/kino/iris-berben-und-moritz-bleibtreu-ueber-schauspiel-honorare-a-3129f733-b3d4-4261-bafd-8b0938143107#ref=rss)
-### schützen
+* [https://www.spiegel.de/kultur/dunja-hayali-macht-nach-shitstorm-online-pause](https://www.spiegel.de/kultur/dunja-hayali-macht-nach-shitstorm-online-pause-a-3a937a9a-7c34-477b-80ac-e24fb28f2c2e#ref=rss)
+### zuwanderung
 
-* [https://www.spiegel.de/sport/radsport/vuelta-proteste-bei-der-spanien-rundfahrt-beim-naechsten-mal-wird-es-noch-schlimmer](https://www.spiegel.de/sport/radsport/vuelta-proteste-bei-der-spanien-rundfahrt-beim-naechsten-mal-wird-es-noch-schlimmer-a-3b15fb0d-c9ee-4461-8509-86329b4f78c9#ref=rss)
-* [https://www.spiegel.de/kultur/tobias-moretti-alltag-ist-fuer-schauspieler-eine-sau](https://www.spiegel.de/kultur/tobias-moretti-alltag-ist-fuer-schauspieler-eine-sau-a-82ddb79b-3c05-40cb-85a4-3699df27c9ed#ref=rss)
-### rente
+* [https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen](https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen-a-81b9bbf9-2188-4840-bf15-e0db3f3da3e1#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung](https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung-a-c1545392-f2c7-4eff-a798-e331ab847316#ref=rss)
+### hagen
 
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-### später
+* [https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen](https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen-a-81b9bbf9-2188-4840-bf15-e0db3f3da3e1#ref=rss)
+### afd
 
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-### ruhestand
+* [https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen](https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen-a-81b9bbf9-2188-4840-bf15-e0db3f3da3e1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende](https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende-a-4e595c36-8bba-42ef-9233-a3677788b6f3#ref=rss)
+### leben
 
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-### arbeit
+* [https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen](https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen-a-81b9bbf9-2188-4840-bf15-e0db3f3da3e1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive](https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive-a-6ad47ad9-94fd-4e7d-9373-129ed42766fa#ref=rss)
+### viele
 
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-### baldige
+* [https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen](https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen-a-81b9bbf9-2188-4840-bf15-e0db3f3da3e1#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid-a-be12b619-588a-4f30-9fb6-3436a5965bd7#ref=rss)
+### stadt
 
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-### rentensystem
+* [https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen](https://www.spiegel.de/panorama/kommunalwahl-in-nrw-zuwanderung-und-armut-praegen-hohenlimburg-in-hagen-a-81b9bbf9-2188-4840-bf15-e0db3f3da3e1#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen](https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen-a-7d3eec4d-422a-4028-874b-5dc1f439fda2#ref=rss)
+### shimon
 
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-### zumutung
+* [https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen](https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen-a-0223f0e5-3027-4687-9371-0f9eda3b8ef4#ref=rss)
+### hayut
 
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-### junge
+* [https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen](https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen-a-0223f0e5-3027-4687-9371-0f9eda3b8ef4#ref=rss)
+### tinderschwindler
 
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-### längst
+* [https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen](https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen-a-0223f0e5-3027-4687-9371-0f9eda3b8ef4#ref=rss)
+### flughafen
 
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-### erprobte
+* [https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen](https://www.spiegel.de/panorama/justiz/shimon-hayut-tinder-schwindler-an-flughafen-in-georgien-festgenommen-a-0223f0e5-3027-4687-9371-0f9eda3b8ef4#ref=rss)
+### probleme
 
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-### umsetzung
+* [https://www.spiegel.de/wirtschaft/strom-und-gas-millionen-haushalte-haben-probleme-mit-der-energierechnung](https://www.spiegel.de/wirtschaft/strom-und-gas-millionen-haushalte-haben-probleme-mit-der-energierechnung-a-15efb870-44b8-416c-8364-9e8d9ca19f3f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bosch-zulieferer-plant-stellenabbau-wegen-autohersteller-krise](https://www.spiegel.de/wirtschaft/bosch-zulieferer-plant-stellenabbau-wegen-autohersteller-krise-a-86e3b890-7313-457e-a68e-9aea514b45e9#ref=rss)
+### rechtsradikale
 
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-### trauen
+* [https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern](https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern-a-b8d09459-f56e-4def-a1ed-9114e79e9efb#ref=rss)
+### drei
 
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-5ba0aea4-2a6e-4a3f-9857-a8ca01b0f9e1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform](https://www.spiegel.de/wirtschaft/rente-spaeter-in-den-ruhestand-mehr-arbeit-drei-faire-ideen-fuer-die-reform-a-128ee3a2-34bc-4980-9ea7-eb523918672a#ref=rss)
-### vielfalt
+* [https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern](https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern-a-b8d09459-f56e-4def-a1ed-9114e79e9efb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive](https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive-a-6ad47ad9-94fd-4e7d-9373-129ed42766fa#ref=rss)
+### ermittler
 
-* [https://www.spiegel.de/politik/toleranz-und-vielfalt-deutsche-sind-laut-studie-weniger-tolerant-als-noch-2019](https://www.spiegel.de/politik/toleranz-und-vielfalt-deutsche-sind-laut-studie-weniger-tolerant-als-noch-2019-a-7beb9b6d-f7b9-4443-872f-a6fa7c741049#ref=rss)
-### weniger
+* [https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern](https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern-a-b8d09459-f56e-4def-a1ed-9114e79e9efb#ref=rss)
+* [https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor](https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor-a-86450dc8-17be-49df-ab46-4f725df1cae2#ref=rss)
+### unter
 
-* [https://www.spiegel.de/politik/toleranz-und-vielfalt-deutsche-sind-laut-studie-weniger-tolerant-als-noch-2019](https://www.spiegel.de/politik/toleranz-und-vielfalt-deutsche-sind-laut-studie-weniger-tolerant-als-noch-2019-a-7beb9b6d-f7b9-4443-872f-a6fa7c741049#ref=rss)
-### jahren
+* [https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern](https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern-a-b8d09459-f56e-4def-a1ed-9114e79e9efb#ref=rss)
+* [https://www.spiegel.de/panorama/lemwerder-auto-rollt-in-hafenbecken-mann-schwimmt-hinterher-und-ertrinkt](https://www.spiegel.de/panorama/lemwerder-auto-rollt-in-hafenbecken-mann-schwimmt-hinterher-und-ertrinkt-a-0616fd14-6cf7-4cb2-a9d2-834b1852ef89#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/politik/toleranz-und-vielfalt-deutsche-sind-laut-studie-weniger-tolerant-als-noch-2019](https://www.spiegel.de/politik/toleranz-und-vielfalt-deutsche-sind-laut-studie-weniger-tolerant-als-noch-2019-a-7beb9b6d-f7b9-4443-872f-a6fa7c741049#ref=rss)
-* [https://www.spiegel.de/sport/schach/schach-matthias-bluebaum-qualifiziert-sich-sensationell-fuer-wm-kandidatenturnier](https://www.spiegel.de/sport/schach/schach-matthias-bluebaum-qualifiziert-sich-sensationell-fuer-wm-kandidatenturnier-a-63715dfa-600d-42d5-88f0-9cdaa6fb210a#ref=rss)
-### andere
+* [https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern](https://www.spiegel.de/panorama/justiz/celle-rechtsradikale-gruppe-razzia-in-drei-bundeslaendern-a-b8d09459-f56e-4def-a1ed-9114e79e9efb#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen](https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen-a-7d3eec4d-422a-4028-874b-5dc1f439fda2#ref=rss)
+### shortlist
 
-* [https://www.spiegel.de/politik/toleranz-und-vielfalt-deutsche-sind-laut-studie-weniger-tolerant-als-noch-2019](https://www.spiegel.de/politik/toleranz-und-vielfalt-deutsche-sind-laut-studie-weniger-tolerant-als-noch-2019-a-7beb9b6d-f7b9-4443-872f-a6fa7c741049#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/alsdorf-aachen-polizei-stoppt-autofahrerin-mit-weissem-pony-im-kofferraum](https://www.spiegel.de/panorama/justiz/alsdorf-aachen-polizei-stoppt-autofahrerin-mit-weissem-pony-im-kofferraum-a-9462f7b8-c42f-45a5-8355-3849876519f8#ref=rss)
-### nrwkommunalwahl
+* [https://www.spiegel.de/kultur/literatur/christine-wunnicke-und-kaleb-erdmann-stehen-auf-der-shortlist-zum-deutschen-buchpreis](https://www.spiegel.de/kultur/literatur/christine-wunnicke-und-kaleb-erdmann-stehen-auf-der-shortlist-zum-deutschen-buchpreis-a-b92a68b4-3b37-42c6-afeb-22b9b5d587b6#ref=rss)
+### buch
 
-* [https://www.spiegel.de/politik/nrw-kommunalwahl-2025-afd-erfolge-und-rueckschlaege-bei-den-kommunalwahlen](https://www.spiegel.de/politik/nrw-kommunalwahl-2025-afd-erfolge-und-rueckschlaege-bei-den-kommunalwahlen-a-c677fa96-c453-43af-95bf-4eb0c70ef7e7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-211d8742-0c08-464a-8d8d-ff01bdf33a38#ref=rss)
-### kommunalwahlen
+* [https://www.spiegel.de/kultur/literatur/christine-wunnicke-und-kaleb-erdmann-stehen-auf-der-shortlist-zum-deutschen-buchpreis](https://www.spiegel.de/kultur/literatur/christine-wunnicke-und-kaleb-erdmann-stehen-auf-der-shortlist-zum-deutschen-buchpreis-a-b92a68b4-3b37-42c6-afeb-22b9b5d587b6#ref=rss)
+* [https://www.spiegel.de/panorama/leute/naomi-watts-ueber-die-wechseljahre-jetzt-schon](https://www.spiegel.de/panorama/leute/naomi-watts-ueber-die-wechseljahre-jetzt-schon-a-34415991-02de-4ccb-a441-410d5b03f83f#ref=rss)
+### 1500
 
-* [https://www.spiegel.de/politik/nrw-kommunalwahl-2025-afd-erfolge-und-rueckschlaege-bei-den-kommunalwahlen](https://www.spiegel.de/politik/nrw-kommunalwahl-2025-afd-erfolge-und-rueckschlaege-bei-den-kommunalwahlen-a-c677fa96-c453-43af-95bf-4eb0c70ef7e7#ref=rss)
-### wo
-
-* [https://www.spiegel.de/politik/nrw-kommunalwahl-2025-afd-erfolge-und-rueckschlaege-bei-den-kommunalwahlen](https://www.spiegel.de/politik/nrw-kommunalwahl-2025-afd-erfolge-und-rueckschlaege-bei-den-kommunalwahlen-a-c677fa96-c453-43af-95bf-4eb0c70ef7e7#ref=rss)
-### halle
-
-* [https://www.spiegel.de/panorama/leute/halle-berry-erinnerungen-an-karriereflop-catwoman-durch-katzenadoption](https://www.spiegel.de/panorama/leute/halle-berry-erinnerungen-an-karriereflop-catwoman-durch-katzenadoption-a-08fdc092-2b0e-471e-9e3f-938e80a74f4a#ref=rss)
-### berry
-
-* [https://www.spiegel.de/panorama/leute/halle-berry-erinnerungen-an-karriereflop-catwoman-durch-katzenadoption](https://www.spiegel.de/panorama/leute/halle-berry-erinnerungen-an-karriereflop-catwoman-durch-katzenadoption-a-08fdc092-2b0e-471e-9e3f-938e80a74f4a#ref=rss)
-### erinnerungen
-
-* [https://www.spiegel.de/panorama/leute/halle-berry-erinnerungen-an-karriereflop-catwoman-durch-katzenadoption](https://www.spiegel.de/panorama/leute/halle-berry-erinnerungen-an-karriereflop-catwoman-durch-katzenadoption-a-08fdc092-2b0e-471e-9e3f-938e80a74f4a#ref=rss)
-### karriereflop
-
-* [https://www.spiegel.de/panorama/leute/halle-berry-erinnerungen-an-karriereflop-catwoman-durch-katzenadoption](https://www.spiegel.de/panorama/leute/halle-berry-erinnerungen-an-karriereflop-catwoman-durch-katzenadoption-a-08fdc092-2b0e-471e-9e3f-938e80a74f4a#ref=rss)
-### iris
-
-* [https://www.spiegel.de/kultur/kino/iris-berben-und-moritz-bleibtreu-ueber-schauspiel-honorare](https://www.spiegel.de/kultur/kino/iris-berben-und-moritz-bleibtreu-ueber-schauspiel-honorare-a-3129f733-b3d4-4261-bafd-8b0938143107#ref=rss)
-### berben
-
-* [https://www.spiegel.de/kultur/kino/iris-berben-und-moritz-bleibtreu-ueber-schauspiel-honorare](https://www.spiegel.de/kultur/kino/iris-berben-und-moritz-bleibtreu-ueber-schauspiel-honorare-a-3129f733-b3d4-4261-bafd-8b0938143107#ref=rss)
-### moritz
-
-* [https://www.spiegel.de/kultur/kino/iris-berben-und-moritz-bleibtreu-ueber-schauspiel-honorare](https://www.spiegel.de/kultur/kino/iris-berben-und-moritz-bleibtreu-ueber-schauspiel-honorare-a-3129f733-b3d4-4261-bafd-8b0938143107#ref=rss)
-### bleibtreu
-
-* [https://www.spiegel.de/kultur/kino/iris-berben-und-moritz-bleibtreu-ueber-schauspiel-honorare](https://www.spiegel.de/kultur/kino/iris-berben-und-moritz-bleibtreu-ueber-schauspiel-honorare-a-3129f733-b3d4-4261-bafd-8b0938143107#ref=rss)
-### dürfte
-
-* [https://www.spiegel.de/kultur/kino/iris-berben-und-moritz-bleibtreu-ueber-schauspiel-honorare](https://www.spiegel.de/kultur/kino/iris-berben-und-moritz-bleibtreu-ueber-schauspiel-honorare-a-3129f733-b3d4-4261-bafd-8b0938143107#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-kauft-tesla-aktien-im-wert-von-einer-milliarde-dollar](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-kauft-tesla-aktien-im-wert-von-einer-milliarde-dollar-a-74fa58d0-2a57-4b36-957d-ebc934214366#ref=rss)
-### gerardo
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-moenchengladbach-trennt-sich-nach-nur-drei-spieltagen-von-trainer-gerardo-seoane](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-moenchengladbach-trennt-sich-nach-nur-drei-spieltagen-von-trainer-gerardo-seoane-a-36994acc-73be-464d-a793-e85dd6009445#ref=rss)
-### seoane
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-moenchengladbach-trennt-sich-nach-nur-drei-spieltagen-von-trainer-gerardo-seoane](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-moenchengladbach-trennt-sich-nach-nur-drei-spieltagen-von-trainer-gerardo-seoane-a-36994acc-73be-464d-a793-e85dd6009445#ref=rss)
-### asterix
-
-* [https://www.spiegel.de/kultur/literatur/asterix-in-lusitanien-im-41-band-zieht-es-die-gallier-ins-heutige-portugal](https://www.spiegel.de/kultur/literatur/asterix-in-lusitanien-im-41-band-zieht-es-die-gallier-ins-heutige-portugal-a-834641aa-dcd2-427d-8389-5fe352c54555#ref=rss)
-### lusitanien
-
-* [https://www.spiegel.de/kultur/literatur/asterix-in-lusitanien-im-41-band-zieht-es-die-gallier-ins-heutige-portugal](https://www.spiegel.de/kultur/literatur/asterix-in-lusitanien-im-41-band-zieht-es-die-gallier-ins-heutige-portugal-a-834641aa-dcd2-427d-8389-5fe352c54555#ref=rss)
-### 41
-
-* [https://www.spiegel.de/kultur/literatur/asterix-in-lusitanien-im-41-band-zieht-es-die-gallier-ins-heutige-portugal](https://www.spiegel.de/kultur/literatur/asterix-in-lusitanien-im-41-band-zieht-es-die-gallier-ins-heutige-portugal-a-834641aa-dcd2-427d-8389-5fe352c54555#ref=rss)
-### band
-
-* [https://www.spiegel.de/kultur/literatur/asterix-in-lusitanien-im-41-band-zieht-es-die-gallier-ins-heutige-portugal](https://www.spiegel.de/kultur/literatur/asterix-in-lusitanien-im-41-band-zieht-es-die-gallier-ins-heutige-portugal-a-834641aa-dcd2-427d-8389-5fe352c54555#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/kultur/literatur/asterix-in-lusitanien-im-41-band-zieht-es-die-gallier-ins-heutige-portugal](https://www.spiegel.de/kultur/literatur/asterix-in-lusitanien-im-41-band-zieht-es-die-gallier-ins-heutige-portugal-a-834641aa-dcd2-427d-8389-5fe352c54555#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-211d8742-0c08-464a-8d8d-ff01bdf33a38#ref=rss)
-### aller
-
-* [https://www.spiegel.de/kultur/literatur/asterix-in-lusitanien-im-41-band-zieht-es-die-gallier-ins-heutige-portugal](https://www.spiegel.de/kultur/literatur/asterix-in-lusitanien-im-41-band-zieht-es-die-gallier-ins-heutige-portugal-a-834641aa-dcd2-427d-8389-5fe352c54555#ref=rss)
-* [https://www.spiegel.de/kultur/tobias-moretti-alltag-ist-fuer-schauspieler-eine-sau](https://www.spiegel.de/kultur/tobias-moretti-alltag-ist-fuer-schauspieler-eine-sau-a-82ddb79b-3c05-40cb-85a4-3699df27c9ed#ref=rss)
-### allerdings
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-kauft-tesla-aktien-im-wert-von-einer-milliarde-dollar](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-kauft-tesla-aktien-im-wert-von-einer-milliarde-dollar-a-74fa58d0-2a57-4b36-957d-ebc934214366#ref=rss)
-* [https://www.spiegel.de/kultur/tobias-moretti-alltag-ist-fuer-schauspieler-eine-sau](https://www.spiegel.de/kultur/tobias-moretti-alltag-ist-fuer-schauspieler-eine-sau-a-82ddb79b-3c05-40cb-85a4-3699df27c9ed#ref=rss)
-### schreibschrift
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-211d8742-0c08-464a-8d8d-ff01bdf33a38#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-211d8742-0c08-464a-8d8d-ff01bdf33a38#ref=rss)
-### tobias
-
-* [https://www.spiegel.de/kultur/tobias-moretti-alltag-ist-fuer-schauspieler-eine-sau](https://www.spiegel.de/kultur/tobias-moretti-alltag-ist-fuer-schauspieler-eine-sau-a-82ddb79b-3c05-40cb-85a4-3699df27c9ed#ref=rss)
-### moretti
-
-* [https://www.spiegel.de/kultur/tobias-moretti-alltag-ist-fuer-schauspieler-eine-sau](https://www.spiegel.de/kultur/tobias-moretti-alltag-ist-fuer-schauspieler-eine-sau-a-82ddb79b-3c05-40cb-85a4-3699df27c9ed#ref=rss)
-### alltag
-
-* [https://www.spiegel.de/kultur/tobias-moretti-alltag-ist-fuer-schauspieler-eine-sau](https://www.spiegel.de/kultur/tobias-moretti-alltag-ist-fuer-schauspieler-eine-sau-a-82ddb79b-3c05-40cb-85a4-3699df27c9ed#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/kultur/tobias-moretti-alltag-ist-fuer-schauspieler-eine-sau](https://www.spiegel.de/kultur/tobias-moretti-alltag-ist-fuer-schauspieler-eine-sau-a-82ddb79b-3c05-40cb-85a4-3699df27c9ed#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/alsdorf-aachen-polizei-stoppt-autofahrerin-mit-weissem-pony-im-kofferraum](https://www.spiegel.de/panorama/justiz/alsdorf-aachen-polizei-stoppt-autofahrerin-mit-weissem-pony-im-kofferraum-a-9462f7b8-c42f-45a5-8355-3849876519f8#ref=rss)
-### bundespolizei
-
-* [https://www.spiegel.de/panorama/oberhausen-hamburg-luftballons-von-siebenjaehrigem-landet-bei-bundespolizei](https://www.spiegel.de/panorama/oberhausen-hamburg-luftballons-von-siebenjaehrigem-landet-bei-bundespolizei-a-dbab0456-367f-4088-90bc-3e6174e36c7f#ref=rss)
-### matthias
-
-* [https://www.spiegel.de/sport/schach/schach-matthias-bluebaum-qualifiziert-sich-sensationell-fuer-wm-kandidatenturnier](https://www.spiegel.de/sport/schach/schach-matthias-bluebaum-qualifiziert-sich-sensationell-fuer-wm-kandidatenturnier-a-63715dfa-600d-42d5-88f0-9cdaa6fb210a#ref=rss)
-### blübaum
-
-* [https://www.spiegel.de/sport/schach/schach-matthias-bluebaum-qualifiziert-sich-sensationell-fuer-wm-kandidatenturnier](https://www.spiegel.de/sport/schach/schach-matthias-bluebaum-qualifiziert-sich-sensationell-fuer-wm-kandidatenturnier-a-63715dfa-600d-42d5-88f0-9cdaa6fb210a#ref=rss)
-### tokio
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-frederik-rupperts-medaillentraum-platzt-mondo-duplantis-siegt-mit-weltrekord](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-frederik-rupperts-medaillentraum-platzt-mondo-duplantis-siegt-mit-weltrekord-a-bbc6e54a-55a2-40fb-8882-41946f9891ac#ref=rss)
-### mondo
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-frederik-rupperts-medaillentraum-platzt-mondo-duplantis-siegt-mit-weltrekord](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-frederik-rupperts-medaillentraum-platzt-mondo-duplantis-siegt-mit-weltrekord-a-bbc6e54a-55a2-40fb-8882-41946f9891ac#ref=rss)
-### duplantis
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-frederik-rupperts-medaillentraum-platzt-mondo-duplantis-siegt-mit-weltrekord](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-frederik-rupperts-medaillentraum-platzt-mondo-duplantis-siegt-mit-weltrekord-a-bbc6e54a-55a2-40fb-8882-41946f9891ac#ref=rss)
-### weltrekord
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-frederik-rupperts-medaillentraum-platzt-mondo-duplantis-siegt-mit-weltrekord](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-frederik-rupperts-medaillentraum-platzt-mondo-duplantis-siegt-mit-weltrekord-a-bbc6e54a-55a2-40fb-8882-41946f9891ac#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-erinnerung-an-doping-skandalrennen-ueber-1500-meter-das-dreckige-finale](https://www.spiegel.de/sport/leichtathletik/leichtathletik-erinnerung-an-doping-skandalrennen-ueber-1500-meter-das-dreckige-finale-a-4c569e29-ffaa-4827-a4ab-c66d0a1e0536#ref=rss)
 ### meter
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-frederik-rupperts-medaillentraum-platzt-mondo-duplantis-siegt-mit-weltrekord](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-frederik-rupperts-medaillentraum-platzt-mondo-duplantis-siegt-mit-weltrekord-a-bbc6e54a-55a2-40fb-8882-41946f9891ac#ref=rss)
-### verkünden
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-erinnerung-an-doping-skandalrennen-ueber-1500-meter-das-dreckige-finale](https://www.spiegel.de/sport/leichtathletik/leichtathletik-erinnerung-an-doping-skandalrennen-ueber-1500-meter-das-dreckige-finale-a-4c569e29-ffaa-4827-a4ab-c66d0a1e0536#ref=rss)
+### finale
 
-* [https://www.spiegel.de/netzwelt/usa-verkuenden-verkuenden-tiktok-einigung-mit-china-nennen-aber-keine-details](https://www.spiegel.de/netzwelt/usa-verkuenden-verkuenden-tiktok-einigung-mit-china-nennen-aber-keine-details-a-3c56c892-12be-48fd-913d-528aac22beb3#ref=rss)
-### autofahrerin
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-erinnerung-an-doping-skandalrennen-ueber-1500-meter-das-dreckige-finale](https://www.spiegel.de/sport/leichtathletik/leichtathletik-erinnerung-an-doping-skandalrennen-ueber-1500-meter-das-dreckige-finale-a-4c569e29-ffaa-4827-a4ab-c66d0a1e0536#ref=rss)
+### tokio
 
-* [https://www.spiegel.de/panorama/justiz/alsdorf-aachen-polizei-stoppt-autofahrerin-mit-weissem-pony-im-kofferraum](https://www.spiegel.de/panorama/justiz/alsdorf-aachen-polizei-stoppt-autofahrerin-mit-weissem-pony-im-kofferraum-a-9462f7b8-c42f-45a5-8355-3849876519f8#ref=rss)
-### pony
+* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-erinnerung-an-doping-skandalrennen-ueber-1500-meter-das-dreckige-finale](https://www.spiegel.de/sport/leichtathletik/leichtathletik-erinnerung-an-doping-skandalrennen-ueber-1500-meter-das-dreckige-finale-a-4c569e29-ffaa-4827-a4ab-c66d0a1e0536#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ](https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ-a-cf522613-4f06-476f-aa26-c35896bf88e3#ref=rss)
+### krank
 
-* [https://www.spiegel.de/panorama/justiz/alsdorf-aachen-polizei-stoppt-autofahrerin-mit-weissem-pony-im-kofferraum](https://www.spiegel.de/panorama/justiz/alsdorf-aachen-polizei-stoppt-autofahrerin-mit-weissem-pony-im-kofferraum-a-9462f7b8-c42f-45a5-8355-3849876519f8#ref=rss)
-### aussagen
+* [https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive](https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive-a-6ad47ad9-94fd-4e7d-9373-129ed42766fa#ref=rss)
+### betroffene
 
-* [https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson](https://www.spiegel.de/ausland/grossbritannien-regierung-ruegt-elon-musk-fuer-aussagen-auf-demo-von-tommy-robinson-a-fcef30da-fc4a-48ce-a196-4d326fff0362#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive](https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive-a-6ad47ad9-94fd-4e7d-9373-129ed42766fa#ref=rss)
+### gut
+
+* [https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive](https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive-a-6ad47ad9-94fd-4e7d-9373-129ed42766fa#ref=rss)
+* [https://www.spiegel.de/start/rezept-fuer-touflaki-griechisch-inspirierte-spiesse-als-fleischersatz-fuer-1-60-euro](https://www.spiegel.de/start/rezept-fuer-touflaki-griechisch-inspirierte-spiesse-als-fleischersatz-fuer-1-60-euro-a-5c3890fe-307a-4136-adab-31c5d69398dd#ref=rss)
+### berichten
+
+* [https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive](https://www.spiegel.de/wissenschaft/mensch/psychisch-krank-wie-leben-betroffene-als-hochfunktionale-depressive-a-6ad47ad9-94fd-4e7d-9373-129ed42766fa#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen](https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen-a-7d3eec4d-422a-4028-874b-5dc1f439fda2#ref=rss)
+### südostasien
+
+* [https://www.spiegel.de/wissenschaft/mensch/suedostasien-die-aeltesten-mumien-der-welt-wurden-ueber-dem-feuer-geraeuchert](https://www.spiegel.de/wissenschaft/mensch/suedostasien-die-aeltesten-mumien-der-welt-wurden-ueber-dem-feuer-geraeuchert-a-42dbc4ee-0f2d-4a3f-9308-4e26ebb278f0#ref=rss)
+### ältesten
+
+* [https://www.spiegel.de/wissenschaft/mensch/suedostasien-die-aeltesten-mumien-der-welt-wurden-ueber-dem-feuer-geraeuchert](https://www.spiegel.de/wissenschaft/mensch/suedostasien-die-aeltesten-mumien-der-welt-wurden-ueber-dem-feuer-geraeuchert-a-42dbc4ee-0f2d-4a3f-9308-4e26ebb278f0#ref=rss)
+### mumien
+
+* [https://www.spiegel.de/wissenschaft/mensch/suedostasien-die-aeltesten-mumien-der-welt-wurden-ueber-dem-feuer-geraeuchert](https://www.spiegel.de/wissenschaft/mensch/suedostasien-die-aeltesten-mumien-der-welt-wurden-ueber-dem-feuer-geraeuchert-a-42dbc4ee-0f2d-4a3f-9308-4e26ebb278f0#ref=rss)
+### welt
+
+* [https://www.spiegel.de/wissenschaft/mensch/suedostasien-die-aeltesten-mumien-der-welt-wurden-ueber-dem-feuer-geraeuchert](https://www.spiegel.de/wissenschaft/mensch/suedostasien-die-aeltesten-mumien-der-welt-wurden-ueber-dem-feuer-geraeuchert-a-42dbc4ee-0f2d-4a3f-9308-4e26ebb278f0#ref=rss)
+### ford
+
+* [https://www.spiegel.de/wirtschaft/ford-verschaerft-sparkurs-in-koeln](https://www.spiegel.de/wirtschaft/ford-verschaerft-sparkurs-in-koeln-a-4b2da487-4f42-4548-a017-7417628a64fb#ref=rss)
+### köln
+
+* [https://www.spiegel.de/wirtschaft/ford-verschaerft-sparkurs-in-koeln](https://www.spiegel.de/wirtschaft/ford-verschaerft-sparkurs-in-koeln-a-4b2da487-4f42-4548-a017-7417628a64fb#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
+### lebenslanger
+
+* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
+### haft
+
+* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft](https://www.spiegel.de/panorama/justiz/prozess-in-mannheim-gericht-verurteilt-sulaiman-ataee-zu-lebenslanger-haft-a-4d3ad987-181e-4798-9d61-70dc38a128c2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
+### fall
+
+* [https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor](https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor-a-86450dc8-17be-49df-ab46-4f725df1cae2#ref=rss)
+### block
+
+* [https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor](https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor-a-86450dc8-17be-49df-ab46-4f725df1cae2#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor](https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor-a-86450dc8-17be-49df-ab46-4f725df1cae2#ref=rss)
+### hanning
+
+* [https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor](https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor-a-86450dc8-17be-49df-ab46-4f725df1cae2#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor](https://www.spiegel.de/panorama/fall-christina-block-hamburger-ermittler-gehen-gegen-ex-bnd-chef-hanning-vor-a-86450dc8-17be-49df-ab46-4f725df1cae2#ref=rss)
+### israelgazakrieg
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid-a-be12b619-588a-4f30-9fb6-3436a5965bd7#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen](https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen-a-7d3eec4d-422a-4028-874b-5dc1f439fda2#ref=rss)
+### unokommission
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid-a-be12b619-588a-4f30-9fb6-3436a5965bd7#ref=rss)
+### heftig
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid](https://www.spiegel.de/ausland/israel-gaza-krieg-uno-kommission-spricht-von-genozid-a-be12b619-588a-4f30-9fb6-3436a5965bd7#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-erster-herbststurm-wirbelt-faehrenfahrplaene-durcheinander](https://www.spiegel.de/panorama/wetter-in-deutschland-erster-herbststurm-wirbelt-faehrenfahrplaene-durcheinander-a-aec0eb71-549f-40a8-91a2-cdbcd46872e3#ref=rss)
+### zulieferer
+
+* [https://www.spiegel.de/wirtschaft/bosch-zulieferer-plant-stellenabbau-wegen-autohersteller-krise](https://www.spiegel.de/wirtschaft/bosch-zulieferer-plant-stellenabbau-wegen-autohersteller-krise-a-86e3b890-7313-457e-a68e-9aea514b45e9#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung](https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung-a-c1545392-f2c7-4eff-a798-e331ab847316#ref=rss)
+### antisemitismus
+
+* [https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung](https://www.spiegel.de/politik/friedrich-merz-und-antisemitismus-kritik-an-zuwanderung-bei-synagogeneroeffnung-a-c1545392-f2c7-4eff-a798-e331ab847316#ref=rss)
+### rollt
+
+* [https://www.spiegel.de/panorama/lemwerder-auto-rollt-in-hafenbecken-mann-schwimmt-hinterher-und-ertrinkt](https://www.spiegel.de/panorama/lemwerder-auto-rollt-in-hafenbecken-mann-schwimmt-hinterher-und-ertrinkt-a-0616fd14-6cf7-4cb2-a9d2-834b1852ef89#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/lemwerder-auto-rollt-in-hafenbecken-mann-schwimmt-hinterher-und-ertrinkt](https://www.spiegel.de/panorama/lemwerder-auto-rollt-in-hafenbecken-mann-schwimmt-hinterher-und-ertrinkt-a-0616fd14-6cf7-4cb2-a9d2-834b1852ef89#ref=rss)
+### mordes
+
+* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
+### schuldig
+
+* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
+### mai
+
+* [https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig](https://www.spiegel.de/panorama/justiz/mannheim-oberlandesgericht-spricht-sulaiman-ataee-des-mordes-schuldig-a-62d102d9-9b1c-40c1-9d9a-a0f17e8a5112#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ](https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ-a-cf522613-4f06-476f-aa26-c35896bf88e3#ref=rss)
+### marco
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen](https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen-a-7d3eec4d-422a-4028-874b-5dc1f439fda2#ref=rss)
+### rubio
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen](https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen-a-7d3eec4d-422a-4028-874b-5dc1f439fda2#ref=rss)
+### katar
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen](https://www.spiegel.de/ausland/israel-gaza-krieg-marco-rubio-ruft-katar-auf-vermittlerrolle-fortzusetzen-a-7d3eec4d-422a-4028-874b-5dc1f439fda2#ref=rss)
+### donald
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-und-seine-zoll-falle-europa-soll-fuer-russlandsanktionen-zahlen](https://www.spiegel.de/wirtschaft/donald-trump-und-seine-zoll-falle-europa-soll-fuer-russlandsanktionen-zahlen-a-ae303a2c-35e0-4a3b-b934-19c824d48c4a#ref=rss)
+### petra
+
+* [https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende](https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende-a-4e595c36-8bba-42ef-9233-a3677788b6f3#ref=rss)
+### olschowski
+
+* [https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende](https://www.spiegel.de/wissenschaft/petra-olschowski-fuerchtet-abschreckende-wirkung-der-afd-auf-internationale-forschende-a-4e595c36-8bba-42ef-9233-a3677788b6f3#ref=rss)
+### champions
+
+* [https://www.spiegel.de/sport/fussball/champions-league-2025-2026-spielplan-und-ergebnisse](https://www.spiegel.de/sport/fussball/champions-league-2025-2026-spielplan-und-ergebnisse-a-d413a76b-cb94-462f-9d7a-0489860c1eda#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/champions-league-2025-2026-spielplan-und-ergebnisse](https://www.spiegel.de/sport/fussball/champions-league-2025-2026-spielplan-und-ergebnisse-a-d413a76b-cb94-462f-9d7a-0489860c1eda#ref=rss)
+### naomi
+
+* [https://www.spiegel.de/panorama/leute/naomi-watts-ueber-die-wechseljahre-jetzt-schon](https://www.spiegel.de/panorama/leute/naomi-watts-ueber-die-wechseljahre-jetzt-schon-a-34415991-02de-4ccb-a441-410d5b03f83f#ref=rss)
+### watts
+
+* [https://www.spiegel.de/panorama/leute/naomi-watts-ueber-die-wechseljahre-jetzt-schon](https://www.spiegel.de/panorama/leute/naomi-watts-ueber-die-wechseljahre-jetzt-schon-a-34415991-02de-4ccb-a441-410d5b03f83f#ref=rss)
+### wechseljahre
+
+* [https://www.spiegel.de/panorama/leute/naomi-watts-ueber-die-wechseljahre-jetzt-schon](https://www.spiegel.de/panorama/leute/naomi-watts-ueber-die-wechseljahre-jetzt-schon-a-34415991-02de-4ccb-a441-410d5b03f83f#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/ausland/polen-praesident-karol-nawrocki-auf-antrittsbesuch-in-berlin-zu-gast-beim-boesen-nachbarn](https://www.spiegel.de/ausland/polen-praesident-karol-nawrocki-auf-antrittsbesuch-in-berlin-zu-gast-beim-boesen-nachbarn-a-3f8ee8e7-5a56-4fb1-a35d-5eff07b93897#ref=rss)
+### gast
+
+* [https://www.spiegel.de/ausland/polen-praesident-karol-nawrocki-auf-antrittsbesuch-in-berlin-zu-gast-beim-boesen-nachbarn](https://www.spiegel.de/ausland/polen-praesident-karol-nawrocki-auf-antrittsbesuch-in-berlin-zu-gast-beim-boesen-nachbarn-a-3f8ee8e7-5a56-4fb1-a35d-5eff07b93897#ref=rss)
+### merlin
+
+* [https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ](https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ-a-cf522613-4f06-476f-aa26-c35896bf88e3#ref=rss)
+### hummel
+
+* [https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ](https://www.spiegel.de/sport/leichtathletik-hoffnung-merlin-hummel-hammer-typ-a-cf522613-4f06-476f-aa26-c35896bf88e3#ref=rss)
+### percival
+
+* [https://www.spiegel.de/kultur/literatur/percival-everett-der-unzuverlaessige-erzaehler](https://www.spiegel.de/kultur/literatur/percival-everett-der-unzuverlaessige-erzaehler-a-75dd47c7-66e4-48d2-a185-bc0d2ef64315#ref=rss)
+### everett
+
+* [https://www.spiegel.de/kultur/literatur/percival-everett-der-unzuverlaessige-erzaehler](https://www.spiegel.de/kultur/literatur/percival-everett-der-unzuverlaessige-erzaehler-a-75dd47c7-66e4-48d2-a185-bc0d2ef64315#ref=rss)
 
