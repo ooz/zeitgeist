@@ -4,351 +4,368 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### robert
+### bundestag
 
-* [https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost](https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost-a-5a7b18de-b6d2-4cf3-b6a3-efa1bec5c6b8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
-* [https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern](https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern-a-0cfc4798-6b1c-45d0-86d6-ef82b6db3c73#ref=rss)
-* [https://www.spiegel.de/kultur/robert-redford-ist-tot-nachruf-der-gute-amerikaner](https://www.spiegel.de/kultur/robert-redford-ist-tot-nachruf-der-gute-amerikaner-a-435dc65a-55ea-416c-8204-aee638cccd4e#ref=rss)
-### redford
-
-* [https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost](https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost-a-5a7b18de-b6d2-4cf3-b6a3-efa1bec5c6b8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
-* [https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern](https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern-a-0cfc4798-6b1c-45d0-86d6-ef82b6db3c73#ref=rss)
-* [https://www.spiegel.de/kultur/robert-redford-ist-tot-nachruf-der-gute-amerikaner](https://www.spiegel.de/kultur/robert-redford-ist-tot-nachruf-der-gute-amerikaner-a-435dc65a-55ea-416c-8204-aee638cccd4e#ref=rss)
-### merz
-
-* [https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung](https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung-a-a5fb7646-7f06-4c42-b523-d1985604b42c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein-a-4bb95f90-0b10-411b-baee-a434573f7887#ref=rss)
-* [https://www.spiegel.de/kultur/merz-in-der-reichenbach-synagoge-die-traenen-des-kanzlers](https://www.spiegel.de/kultur/merz-in-der-reichenbach-synagoge-die-traenen-des-kanzlers-a-7ecdce82-e369-42cc-a416-5b85e0d68431#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab-a-baaf3299-ce94-4239-b09a-21b0c684f8db#ref=rss)
+* [https://www.spiegel.de/politik/gruenen-werfen-dem-kanzler-etat-tricksereien-vor-linke-nennen-reformen-grausam-die-reaktionen-der-opposition](https://www.spiegel.de/politik/gruenen-werfen-dem-kanzler-etat-tricksereien-vor-linke-nennen-reformen-grausam-die-reaktionen-der-opposition-a-80c49b35-09a6-4cfe-864d-f4abdd597a2e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein](https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein-a-a3bf26b3-7049-4306-ab66-ae874e2be38b#ref=rss)
 ### friedrich
 
-* [https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung](https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung-a-a5fb7646-7f06-4c42-b523-d1985604b42c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein-a-4bb95f90-0b10-411b-baee-a434573f7887#ref=rss)
-* [https://www.spiegel.de/kultur/merz-in-der-reichenbach-synagoge-die-traenen-des-kanzlers](https://www.spiegel.de/kultur/merz-in-der-reichenbach-synagoge-die-traenen-des-kanzlers-a-7ecdce82-e369-42cc-a416-5b85e0d68431#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab-a-baaf3299-ce94-4239-b09a-21b0c684f8db#ref=rss)
-### mehr
+* [https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein](https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein-a-a3bf26b3-7049-4306-ab66-ae874e2be38b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-des-kanzlers-und-generaldebatte-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-des-kanzlers-und-generaldebatte-livestream-a-9fa12149-57ac-4e8a-9ec6-c942c6f7fe59#ref=rss)
+### merz
 
-* [https://www.spiegel.de/auto/muenchner-oktoberfest-bahn-wappnet-sich-gegen-wiesn-ansturm](https://www.spiegel.de/auto/muenchner-oktoberfest-bahn-wappnet-sich-gegen-wiesn-ansturm-a-960d23d6-9dcc-47d6-8d45-0705aa4e6f8e#ref=rss)
-* [https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern](https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern-a-0cfc4798-6b1c-45d0-86d6-ef82b6db3c73#ref=rss)
-* [https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen](https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen-a-f0d60f6e-ce0b-43a1-a01f-e4d88e286da4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben-a-c5ab172c-8723-478e-95f8-4d93a15c1216#ref=rss)
-### fall
+* [https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein](https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein-a-a3bf26b3-7049-4306-ab66-ae874e2be38b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-des-kanzlers-und-generaldebatte-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-des-kanzlers-und-generaldebatte-livestream-a-9fa12149-57ac-4e8a-9ec6-c942c6f7fe59#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fall-block-wie-ex-bnd-chef-august-hanning-darin-verstrickt-sein-soll](https://www.spiegel.de/panorama/justiz/fall-block-wie-ex-bnd-chef-august-hanning-darin-verstrickt-sein-soll-a-8f292c89-50bf-4ad3-b624-bde2b115d2b6#ref=rss)
-### jan
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verbuendete-von-donald-trump-sollen-offenbar-app-in-den-usa-mit-uebernehmen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verbuendete-von-donald-trump-sollen-offenbar-app-in-den-usa-mit-uebernehmen-a-f479b279-8eae-4088-9d38-9c066f816b36#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-auf-staatsbesuch-in-london-aktivisten-projizieren-epstein-bilder-auf-schloss-windsor](https://www.spiegel.de/ausland/donald-trump-auf-staatsbesuch-in-london-aktivisten-projizieren-epstein-bilder-auf-schloss-windsor-a-b60c554d-6ab6-4f88-91c5-1c9492bae918#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
-* [https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast](https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast-a-6c5e6158-217c-42ca-bc27-781f373a34c1#ref=rss)
-### marsalek
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
-* [https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast](https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast-a-6c5e6158-217c-42ca-bc27-781f373a34c1#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung](https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung-a-a5fb7646-7f06-4c42-b523-d1985604b42c#ref=rss)
-* [https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost](https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost-a-5a7b18de-b6d2-4cf3-b6a3-efa1bec5c6b8#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung](https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung-a-a5fb7646-7f06-4c42-b523-d1985604b42c#ref=rss)
-* [https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach](https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach-a-25781ccb-3f53-40b6-98da-f60a94cfa399#ref=rss)
-* [https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen](https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen-a-f0d60f6e-ce0b-43a1-a01f-e4d88e286da4#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung](https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung-a-a5fb7646-7f06-4c42-b523-d1985604b42c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/haushalt-staedte-und-gemeinden-beklagen-ausufernde-pflegekosten](https://www.spiegel.de/wirtschaft/haushalt-staedte-und-gemeinden-beklagen-ausufernde-pflegekosten-a-3374c33b-606b-4fb7-88f9-2f9c65d551c7#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-merlin-hummel-pulverisiert-seine-bestleistung-und-holt-hammerwurf-silber](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-merlin-hummel-pulverisiert-seine-bestleistung-und-holt-hammerwurf-silber-a-1b56c715-d173-40a4-98d9-e5661dce547d#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen](https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen-a-a9951d94-fb5b-4546-9318-6dd7efba4a5d#ref=rss)
-* [https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost](https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost-a-5a7b18de-b6d2-4cf3-b6a3-efa1bec5c6b8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/paypal-rivale-was-taugt-wero-als-europaeische-antwort-auf-den-us-riesen](https://www.spiegel.de/wirtschaft/paypal-rivale-was-taugt-wero-als-europaeische-antwort-auf-den-us-riesen-a-4a600c40-b204-4323-9faf-3b70de3c7a29#ref=rss)
-### mord
-
-* [https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen](https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen-a-a9951d94-fb5b-4546-9318-6dd7efba4a5d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt-a-c3617a02-8bb1-4e93-a5c3-10875de02581#ref=rss)
-### münchner
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein-a-4bb95f90-0b10-411b-baee-a434573f7887#ref=rss)
-* [https://www.spiegel.de/auto/muenchner-oktoberfest-bahn-wappnet-sich-gegen-wiesn-ansturm](https://www.spiegel.de/auto/muenchner-oktoberfest-bahn-wappnet-sich-gegen-wiesn-ansturm-a-960d23d6-9dcc-47d6-8d45-0705aa4e6f8e#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein-a-4bb95f90-0b10-411b-baee-a434573f7887#ref=rss)
-* [https://www.spiegel.de/panorama/leute/nick-cannon-erklaert-warum-er-zwoelf-kinder-hat](https://www.spiegel.de/panorama/leute/nick-cannon-erklaert-warum-er-zwoelf-kinder-hat-a-7b35164a-e414-4083-bce4-dd0f8a039643#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-aussichten-nochmal-hochsommer-statt-herbst-so-wird-das-wochenende](https://www.spiegel.de/panorama/wetter-aussichten-nochmal-hochsommer-statt-herbst-so-wird-das-wochenende-a-8f54b338-2faa-4bab-b858-763816752811#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt-a-c3617a02-8bb1-4e93-a5c3-10875de02581#ref=rss)
-### tod
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
-* [https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach](https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach-a-25781ccb-3f53-40b6-98da-f60a94cfa399#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/kultur/merz-in-der-reichenbach-synagoge-die-traenen-des-kanzlers](https://www.spiegel.de/kultur/merz-in-der-reichenbach-synagoge-die-traenen-des-kanzlers-a-7ecdce82-e369-42cc-a416-5b85e0d68431#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-aussichten-nochmal-hochsommer-statt-herbst-so-wird-das-wochenende](https://www.spiegel.de/panorama/wetter-aussichten-nochmal-hochsommer-statt-herbst-so-wird-das-wochenende-a-8f54b338-2faa-4bab-b858-763816752811#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-indischer-konzern-jindal-will-stahlsparte-kaufen](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-indischer-konzern-jindal-will-stahlsparte-kaufen-a-13b6ab86-0116-4025-aa58-82ade0a404d2#ref=rss)
-### medienhäuser
-
-* [https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung](https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung-a-a5fb7646-7f06-4c42-b523-d1985604b42c#ref=rss)
-### bundeskanzler
-
-* [https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung](https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung-a-a5fb7646-7f06-4c42-b523-d1985604b42c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab-a-baaf3299-ce94-4239-b09a-21b0c684f8db#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verbuendete-von-donald-trump-sollen-offenbar-app-in-den-usa-mit-uebernehmen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verbuendete-von-donald-trump-sollen-offenbar-app-in-den-usa-mit-uebernehmen-a-f479b279-8eae-4088-9d38-9c066f816b36#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-auf-staatsbesuch-in-london-aktivisten-projizieren-epstein-bilder-auf-schloss-windsor](https://www.spiegel.de/ausland/donald-trump-auf-staatsbesuch-in-london-aktivisten-projizieren-epstein-bilder-auf-schloss-windsor-a-b60c554d-6ab6-4f88-91c5-1c9492bae918#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung](https://www.spiegel.de/ausland/medienhaeuser-bitten-bundeskanzler-friedrich-merz-wegen-us-journalistenvisa-um-unterstuetzung-a-a5fb7646-7f06-4c42-b523-d1985604b42c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/paypal-rivale-was-taugt-wero-als-europaeische-antwort-auf-den-us-riesen](https://www.spiegel.de/wirtschaft/paypal-rivale-was-taugt-wero-als-europaeische-antwort-auf-den-us-riesen-a-4a600c40-b204-4323-9faf-3b70de3c7a29#ref=rss)
-### sowjetführer
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verbuendete-von-donald-trump-sollen-offenbar-app-in-den-usa-mit-uebernehmen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verbuendete-von-donald-trump-sollen-offenbar-app-in-den-usa-mit-uebernehmen-a-f479b279-8eae-4088-9d38-9c066f816b36#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/meyer-burger-600-beschaeftigte-in-deutschland-gekuendigt](https://www.spiegel.de/wirtschaft/unternehmen/meyer-burger-600-beschaeftigte-in-deutschland-gekuendigt-a-4fa30000-161d-4f02-81c2-82d4e0df7045#ref=rss)
+### laut
 
-* [https://www.spiegel.de/geschichte/sowjetfuehrer-wladimir-iljitsch-lenin-lieber-zu-viel-terror-als-zu-wenig](https://www.spiegel.de/geschichte/sowjetfuehrer-wladimir-iljitsch-lenin-lieber-zu-viel-terror-als-zu-wenig-a-2fa7660f-0db8-4de5-b4fe-de461c46f496#ref=rss)
-### wladimir
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verbuendete-von-donald-trump-sollen-offenbar-app-in-den-usa-mit-uebernehmen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verbuendete-von-donald-trump-sollen-offenbar-app-in-den-usa-mit-uebernehmen-a-f479b279-8eae-4088-9d38-9c066f816b36#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/umweltschutz-142-aktivisten-2024-weltweit-getoetet-laut-global-witness](https://www.spiegel.de/wissenschaft/natur/umweltschutz-142-aktivisten-2024-weltweit-getoetet-laut-global-witness-a-dd71b725-4d62-4c96-97fe-ca5775965bc6#ref=rss)
+* [https://www.spiegel.de/netzwelt/polizei-laesst-mutmassliches-geldwaesche-netzwerk-auffliegen](https://www.spiegel.de/netzwelt/polizei-laesst-mutmassliches-geldwaesche-netzwerk-auffliegen-a-19a353f8-1113-48ad-adbc-b38c2d0b37bc#ref=rss)
+### aktivisten
 
-* [https://www.spiegel.de/geschichte/sowjetfuehrer-wladimir-iljitsch-lenin-lieber-zu-viel-terror-als-zu-wenig](https://www.spiegel.de/geschichte/sowjetfuehrer-wladimir-iljitsch-lenin-lieber-zu-viel-terror-als-zu-wenig-a-2fa7660f-0db8-4de5-b4fe-de461c46f496#ref=rss)
-### iljitsch
+* [https://www.spiegel.de/wissenschaft/natur/umweltschutz-142-aktivisten-2024-weltweit-getoetet-laut-global-witness](https://www.spiegel.de/wissenschaft/natur/umweltschutz-142-aktivisten-2024-weltweit-getoetet-laut-global-witness-a-dd71b725-4d62-4c96-97fe-ca5775965bc6#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-auf-staatsbesuch-in-london-aktivisten-projizieren-epstein-bilder-auf-schloss-windsor](https://www.spiegel.de/ausland/donald-trump-auf-staatsbesuch-in-london-aktivisten-projizieren-epstein-bilder-auf-schloss-windsor-a-b60c554d-6ab6-4f88-91c5-1c9492bae918#ref=rss)
+### deshalb
 
-* [https://www.spiegel.de/geschichte/sowjetfuehrer-wladimir-iljitsch-lenin-lieber-zu-viel-terror-als-zu-wenig](https://www.spiegel.de/geschichte/sowjetfuehrer-wladimir-iljitsch-lenin-lieber-zu-viel-terror-als-zu-wenig-a-2fa7660f-0db8-4de5-b4fe-de461c46f496#ref=rss)
-### lenin
+* [https://www.spiegel.de/panorama/bildung/lueneburg-lehrer-verliert-nach-beziehung-zu-einer-14-jaehrigen-sein-beamtenstatus](https://www.spiegel.de/panorama/bildung/lueneburg-lehrer-verliert-nach-beziehung-zu-einer-14-jaehrigen-sein-beamtenstatus-a-9d8b7aa6-f28e-4cde-b075-566dc271eb4e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/parkplatz-streit-wie-private-firmen-falschparker-ausnehmen](https://www.spiegel.de/wirtschaft/service/parkplatz-streit-wie-private-firmen-falschparker-ausnehmen-a-64f71f87-2590-4638-b07c-5ce9f6904804#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-trikot-panne-serhou-guirassys-name-fehlt](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-trikot-panne-serhou-guirassys-name-fehlt-a-504c5ce6-b4df-48d4-80cc-ed29b22812b7#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/geschichte/sowjetfuehrer-wladimir-iljitsch-lenin-lieber-zu-viel-terror-als-zu-wenig](https://www.spiegel.de/geschichte/sowjetfuehrer-wladimir-iljitsch-lenin-lieber-zu-viel-terror-als-zu-wenig-a-2fa7660f-0db8-4de5-b4fe-de461c46f496#ref=rss)
-### luigi
+* [https://www.spiegel.de/panorama/noasca-deutscher-tourist-stuerzt-in-wasserfall-und-stirbt](https://www.spiegel.de/panorama/noasca-deutscher-tourist-stuerzt-in-wasserfall-und-stirbt-a-c45c4bdb-a602-4f0a-9aaa-af6830b75574#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/meyer-burger-600-beschaeftigte-in-deutschland-gekuendigt](https://www.spiegel.de/wirtschaft/unternehmen/meyer-burger-600-beschaeftigte-in-deutschland-gekuendigt-a-4fa30000-161d-4f02-81c2-82d4e0df7045#ref=rss)
+### ndr
 
-* [https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen](https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen-a-a9951d94-fb5b-4546-9318-6dd7efba4a5d#ref=rss)
-### m
+* [https://www.spiegel.de/kultur/tv/ndr-trennt-sich-von-klar-moderatorin-julia-ruhs](https://www.spiegel.de/kultur/tv/ndr-trennt-sich-von-klar-moderatorin-julia-ruhs-a-d7dc5483-caec-4808-b2b8-db7b437dc9c5#ref=rss)
+### champions
 
-* [https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen](https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen-a-a9951d94-fb5b-4546-9318-6dd7efba4a5d#ref=rss)
-### gericht
+* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-trikot-panne-serhou-guirassys-name-fehlt](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-trikot-panne-serhou-guirassys-name-fehlt-a-504c5ce6-b4df-48d4-80cc-ed29b22812b7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-siegt-dank-kylian-mbappe-in-unterzahl-gegen-olympique-marseille](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-siegt-dank-kylian-mbappe-in-unterzahl-gegen-olympique-marseille-a-c9d750c8-c425-40b8-827f-3f7cfcc45ed8#ref=rss)
+### league
 
-* [https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen](https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen-a-a9951d94-fb5b-4546-9318-6dd7efba4a5d#ref=rss)
-### anklagepunkte
+* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-trikot-panne-serhou-guirassys-name-fehlt](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-trikot-panne-serhou-guirassys-name-fehlt-a-504c5ce6-b4df-48d4-80cc-ed29b22812b7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-siegt-dank-kylian-mbappe-in-unterzahl-gegen-olympique-marseille](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-siegt-dank-kylian-mbappe-in-unterzahl-gegen-olympique-marseille-a-c9d750c8-c425-40b8-827f-3f7cfcc45ed8#ref=rss)
+### generaldebatte
 
-* [https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen](https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen-a-a9951d94-fb5b-4546-9318-6dd7efba4a5d#ref=rss)
-### fallen
+* [https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein](https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein-a-a3bf26b3-7049-4306-ab66-ae874e2be38b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-des-kanzlers-und-generaldebatte-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-des-kanzlers-und-generaldebatte-livestream-a-9fa12149-57ac-4e8a-9ec6-c942c6f7fe59#ref=rss)
+### fall
 
-* [https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen](https://www.spiegel.de/ausland/luigi-m-gericht-laesst-zwei-anklagepunkte-gegen-mutmasslichen-united-healthcare-ceo-moerder-fallen-a-a9951d94-fb5b-4546-9318-6dd7efba4a5d#ref=rss)
-### synagoge
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-aus-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-aus-haft-entlassen-a-6dcd86f6-03e4-4e84-9ad9-9bf27f04caac#ref=rss)
+* [https://www.spiegel.de/ausland/iran-regime-laesst-mann-hinrichten-angeblich-wegen-spionage-fuer-israel](https://www.spiegel.de/ausland/iran-regime-laesst-mann-hinrichten-angeblich-wegen-spionage-fuer-israel-a-05c5a232-0165-4c2e-a94a-03cab57a54f9#ref=rss)
+### lewis
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein-a-4bb95f90-0b10-411b-baee-a434573f7887#ref=rss)
-### politik
+* [https://www.spiegel.de/sport/leichtathletik-wm-in-tokio-als-carl-lewis-und-mike-powell-das-groesste-duell-der-weitsprunggeschichte-austrugen](https://www.spiegel.de/sport/leichtathletik-wm-in-tokio-als-carl-lewis-und-mike-powell-das-groesste-duell-der-weitsprunggeschichte-austrugen-a-15be4fd6-7538-48be-8b1e-5a0a844781b0#ref=rss)
+### alexej
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein-a-4bb95f90-0b10-411b-baee-a434573f7887#ref=rss)
-### tränen
+* [https://www.spiegel.de/ausland/alexej-nawalny-untersuchung-bestaetigt-vergiftung-von-russischem-oppositionellen](https://www.spiegel.de/ausland/alexej-nawalny-untersuchung-bestaetigt-vergiftung-von-russischem-oppositionellen-a-96cc8fe9-55de-4e8f-b275-57d168c439f8#ref=rss)
+### bestätigt
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-synagoge-politik-ist-immer-emotional-sie-muss-es-sogar-sein-a-4bb95f90-0b10-411b-baee-a434573f7887#ref=rss)
-* [https://www.spiegel.de/kultur/merz-in-der-reichenbach-synagoge-die-traenen-des-kanzlers](https://www.spiegel.de/kultur/merz-in-der-reichenbach-synagoge-die-traenen-des-kanzlers-a-7ecdce82-e369-42cc-a416-5b85e0d68431#ref=rss)
+* [https://www.spiegel.de/ausland/alexej-nawalny-untersuchung-bestaetigt-vergiftung-von-russischem-oppositionellen](https://www.spiegel.de/ausland/alexej-nawalny-untersuchung-bestaetigt-vergiftung-von-russischem-oppositionellen-a-96cc8fe9-55de-4e8f-b275-57d168c439f8#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/alexej-nawalny-untersuchung-bestaetigt-vergiftung-von-russischem-oppositionellen](https://www.spiegel.de/ausland/alexej-nawalny-untersuchung-bestaetigt-vergiftung-von-russischem-oppositionellen-a-96cc8fe9-55de-4e8f-b275-57d168c439f8#ref=rss)
+* [https://www.spiegel.de/auto/xpeng-chinesische-flugtaxis-kollidieren-bei-probe-fuer-flugshow](https://www.spiegel.de/auto/xpeng-chinesische-flugtaxis-kollidieren-bei-probe-fuer-flugshow-a-ac6a10c6-3cc2-40b8-bfa9-49622dd785bb#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/ausland/alexej-nawalny-untersuchung-bestaetigt-vergiftung-von-russischem-oppositionellen](https://www.spiegel.de/ausland/alexej-nawalny-untersuchung-bestaetigt-vergiftung-von-russischem-oppositionellen-a-96cc8fe9-55de-4e8f-b275-57d168c439f8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/umweltschutz-142-aktivisten-2024-weltweit-getoetet-laut-global-witness](https://www.spiegel.de/wissenschaft/natur/umweltschutz-142-aktivisten-2024-weltweit-getoetet-laut-global-witness-a-dd71b725-4d62-4c96-97fe-ca5775965bc6#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/ausland/alexej-nawalny-untersuchung-bestaetigt-vergiftung-von-russischem-oppositionellen](https://www.spiegel.de/ausland/alexej-nawalny-untersuchung-bestaetigt-vergiftung-von-russischem-oppositionellen-a-96cc8fe9-55de-4e8f-b275-57d168c439f8#ref=rss)
+* [https://www.spiegel.de/politik/gruenen-werfen-dem-kanzler-etat-tricksereien-vor-linke-nennen-reformen-grausam-die-reaktionen-der-opposition](https://www.spiegel.de/politik/gruenen-werfen-dem-kanzler-etat-tricksereien-vor-linke-nennen-reformen-grausam-die-reaktionen-der-opposition-a-80c49b35-09a6-4cfe-864d-f4abdd597a2e#ref=rss)
+### ludwigshafen
+
+* [https://www.spiegel.de/politik/ludwigshafen-afd-politiker-joachim-paul-scheitert-mit-klage](https://www.spiegel.de/politik/ludwigshafen-afd-politiker-joachim-paul-scheitert-mit-klage-a-31508f93-5402-45f6-90ea-4c0223905e0d#ref=rss)
+### afdpolitiker
+
+* [https://www.spiegel.de/politik/ludwigshafen-afd-politiker-joachim-paul-scheitert-mit-klage](https://www.spiegel.de/politik/ludwigshafen-afd-politiker-joachim-paul-scheitert-mit-klage-a-31508f93-5402-45f6-90ea-4c0223905e0d#ref=rss)
+### joachim
+
+* [https://www.spiegel.de/politik/ludwigshafen-afd-politiker-joachim-paul-scheitert-mit-klage](https://www.spiegel.de/politik/ludwigshafen-afd-politiker-joachim-paul-scheitert-mit-klage-a-31508f93-5402-45f6-90ea-4c0223905e0d#ref=rss)
+### paul
+
+* [https://www.spiegel.de/politik/ludwigshafen-afd-politiker-joachim-paul-scheitert-mit-klage](https://www.spiegel.de/politik/ludwigshafen-afd-politiker-joachim-paul-scheitert-mit-klage-a-31508f93-5402-45f6-90ea-4c0223905e0d#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/politik/ludwigshafen-afd-politiker-joachim-paul-scheitert-mit-klage](https://www.spiegel.de/politik/ludwigshafen-afd-politiker-joachim-paul-scheitert-mit-klage-a-31508f93-5402-45f6-90ea-4c0223905e0d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/parkplatz-streit-wie-private-firmen-falschparker-ausnehmen](https://www.spiegel.de/wirtschaft/service/parkplatz-streit-wie-private-firmen-falschparker-ausnehmen-a-64f71f87-2590-4638-b07c-5ce9f6904804#ref=rss)
+### eddie
+
+* [https://www.spiegel.de/sport/eishockey/nachruf-auf-eishockey-torwart-eddie-giacomin-fuer-einen-abend-war-er-groesser-als-die-new-york-rangers](https://www.spiegel.de/sport/eishockey/nachruf-auf-eishockey-torwart-eddie-giacomin-fuer-einen-abend-war-er-groesser-als-die-new-york-rangers-a-33864055-d0a1-4e7c-9f7a-ad0e5073ce13#ref=rss)
+### giacomin
+
+* [https://www.spiegel.de/sport/eishockey/nachruf-auf-eishockey-torwart-eddie-giacomin-fuer-einen-abend-war-er-groesser-als-die-new-york-rangers](https://www.spiegel.de/sport/eishockey/nachruf-auf-eishockey-torwart-eddie-giacomin-fuer-einen-abend-war-er-groesser-als-die-new-york-rangers-a-33864055-d0a1-4e7c-9f7a-ad0e5073ce13#ref=rss)
+### new
+
+* [https://www.spiegel.de/sport/eishockey/nachruf-auf-eishockey-torwart-eddie-giacomin-fuer-einen-abend-war-er-groesser-als-die-new-york-rangers](https://www.spiegel.de/sport/eishockey/nachruf-auf-eishockey-torwart-eddie-giacomin-fuer-einen-abend-war-er-groesser-als-die-new-york-rangers-a-33864055-d0a1-4e7c-9f7a-ad0e5073ce13#ref=rss)
+### york
+
+* [https://www.spiegel.de/sport/eishockey/nachruf-auf-eishockey-torwart-eddie-giacomin-fuer-einen-abend-war-er-groesser-als-die-new-york-rangers](https://www.spiegel.de/sport/eishockey/nachruf-auf-eishockey-torwart-eddie-giacomin-fuer-einen-abend-war-er-groesser-als-die-new-york-rangers-a-33864055-d0a1-4e7c-9f7a-ad0e5073ce13#ref=rss)
+### tiktok
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verbuendete-von-donald-trump-sollen-offenbar-app-in-den-usa-mit-uebernehmen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verbuendete-von-donald-trump-sollen-offenbar-app-in-den-usa-mit-uebernehmen-a-f479b279-8eae-4088-9d38-9c066f816b36#ref=rss)
+### china
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verbuendete-von-donald-trump-sollen-offenbar-app-in-den-usa-mit-uebernehmen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-verbuendete-von-donald-trump-sollen-offenbar-app-in-den-usa-mit-uebernehmen-a-f479b279-8eae-4088-9d38-9c066f816b36#ref=rss)
+* [https://www.spiegel.de/auto/xpeng-chinesische-flugtaxis-kollidieren-bei-probe-fuer-flugshow](https://www.spiegel.de/auto/xpeng-chinesische-flugtaxis-kollidieren-bei-probe-fuer-flugshow-a-ac6a10c6-3cc2-40b8-bfa9-49622dd785bb#ref=rss)
+### finanzminister
+
+* [https://www.spiegel.de/wirtschaft/bundesrechnungshof-warnt-finanzminister-lars-klingbeil-vor-schuldenspirale](https://www.spiegel.de/wirtschaft/bundesrechnungshof-warnt-finanzminister-lars-klingbeil-vor-schuldenspirale-a-d949e5fc-7192-4707-aa5d-b761556af9d0#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/wirtschaft/bundesrechnungshof-warnt-finanzminister-lars-klingbeil-vor-schuldenspirale](https://www.spiegel.de/wirtschaft/bundesrechnungshof-warnt-finanzminister-lars-klingbeil-vor-schuldenspirale-a-d949e5fc-7192-4707-aa5d-b761556af9d0#ref=rss)
+### entfernt
+
+* [https://www.spiegel.de/wirtschaft/bundesrechnungshof-warnt-finanzminister-lars-klingbeil-vor-schuldenspirale](https://www.spiegel.de/wirtschaft/bundesrechnungshof-warnt-finanzminister-lars-klingbeil-vor-schuldenspirale-a-d949e5fc-7192-4707-aa5d-b761556af9d0#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/lueneburg-lehrer-verliert-nach-beziehung-zu-einer-14-jaehrigen-sein-beamtenstatus](https://www.spiegel.de/panorama/bildung/lueneburg-lehrer-verliert-nach-beziehung-zu-einer-14-jaehrigen-sein-beamtenstatus-a-9d8b7aa6-f28e-4cde-b075-566dc271eb4e#ref=rss)
+### wirft
+
+* [https://www.spiegel.de/wirtschaft/bundesrechnungshof-warnt-finanzminister-lars-klingbeil-vor-schuldenspirale](https://www.spiegel.de/wirtschaft/bundesrechnungshof-warnt-finanzminister-lars-klingbeil-vor-schuldenspirale-a-d949e5fc-7192-4707-aa5d-b761556af9d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitgruender-jerry-greenfield-verlaesst-unternehmen-nach-streit-mit-unilever](https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitgruender-jerry-greenfield-verlaesst-unternehmen-nach-streit-mit-unilever-a-3e529cc4-ac18-48a0-b219-c19b659ffef0#ref=rss)
+### opposition
+
+* [https://www.spiegel.de/politik/gruenen-werfen-dem-kanzler-etat-tricksereien-vor-linke-nennen-reformen-grausam-die-reaktionen-der-opposition](https://www.spiegel.de/politik/gruenen-werfen-dem-kanzler-etat-tricksereien-vor-linke-nennen-reformen-grausam-die-reaktionen-der-opposition-a-80c49b35-09a6-4cfe-864d-f4abdd597a2e#ref=rss)
+### reformen
+
+* [https://www.spiegel.de/politik/gruenen-werfen-dem-kanzler-etat-tricksereien-vor-linke-nennen-reformen-grausam-die-reaktionen-der-opposition](https://www.spiegel.de/politik/gruenen-werfen-dem-kanzler-etat-tricksereien-vor-linke-nennen-reformen-grausam-die-reaktionen-der-opposition-a-80c49b35-09a6-4cfe-864d-f4abdd597a2e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein](https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein-a-a3bf26b3-7049-4306-ab66-ae874e2be38b#ref=rss)
+### umweltschutz
+
+* [https://www.spiegel.de/wissenschaft/natur/umweltschutz-142-aktivisten-2024-weltweit-getoetet-laut-global-witness](https://www.spiegel.de/wissenschaft/natur/umweltschutz-142-aktivisten-2024-weltweit-getoetet-laut-global-witness-a-dd71b725-4d62-4c96-97fe-ca5775965bc6#ref=rss)
+### 142
+
+* [https://www.spiegel.de/wissenschaft/natur/umweltschutz-142-aktivisten-2024-weltweit-getoetet-laut-global-witness](https://www.spiegel.de/wissenschaft/natur/umweltschutz-142-aktivisten-2024-weltweit-getoetet-laut-global-witness-a-dd71b725-4d62-4c96-97fe-ca5775965bc6#ref=rss)
+### global
+
+* [https://www.spiegel.de/wissenschaft/natur/umweltschutz-142-aktivisten-2024-weltweit-getoetet-laut-global-witness](https://www.spiegel.de/wissenschaft/natur/umweltschutz-142-aktivisten-2024-weltweit-getoetet-laut-global-witness-a-dd71b725-4d62-4c96-97fe-ca5775965bc6#ref=rss)
+### witness
+
+* [https://www.spiegel.de/wissenschaft/natur/umweltschutz-142-aktivisten-2024-weltweit-getoetet-laut-global-witness](https://www.spiegel.de/wissenschaft/natur/umweltschutz-142-aktivisten-2024-weltweit-getoetet-laut-global-witness-a-dd71b725-4d62-4c96-97fe-ca5775965bc6#ref=rss)
+### xpeng
+
+* [https://www.spiegel.de/auto/xpeng-chinesische-flugtaxis-kollidieren-bei-probe-fuer-flugshow](https://www.spiegel.de/auto/xpeng-chinesische-flugtaxis-kollidieren-bei-probe-fuer-flugshow-a-ac6a10c6-3cc2-40b8-bfa9-49622dd785bb#ref=rss)
+### flugtaxis
+
+* [https://www.spiegel.de/auto/xpeng-chinesische-flugtaxis-kollidieren-bei-probe-fuer-flugshow](https://www.spiegel.de/auto/xpeng-chinesische-flugtaxis-kollidieren-bei-probe-fuer-flugshow-a-ac6a10c6-3cc2-40b8-bfa9-49622dd785bb#ref=rss)
+### rückschlag
+
+* [https://www.spiegel.de/auto/xpeng-chinesische-flugtaxis-kollidieren-bei-probe-fuer-flugshow](https://www.spiegel.de/auto/xpeng-chinesische-flugtaxis-kollidieren-bei-probe-fuer-flugshow-a-ac6a10c6-3cc2-40b8-bfa9-49622dd785bb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erik-und-lyle-menendez-richter-in-kalifornien-lehnt-antrag-auf-neues-verfahren-ab](https://www.spiegel.de/panorama/justiz/erik-und-lyle-menendez-richter-in-kalifornien-lehnt-antrag-auf-neues-verfahren-ab-a-67c10d3b-e4f1-49b4-8ffb-9fc3a006174d#ref=rss)
+### lehrer
+
+* [https://www.spiegel.de/panorama/bildung/lueneburg-lehrer-verliert-nach-beziehung-zu-einer-14-jaehrigen-sein-beamtenstatus](https://www.spiegel.de/panorama/bildung/lueneburg-lehrer-verliert-nach-beziehung-zu-einer-14-jaehrigen-sein-beamtenstatus-a-9d8b7aa6-f28e-4cde-b075-566dc271eb4e#ref=rss)
+### niedersachsen
+
+* [https://www.spiegel.de/panorama/bildung/lueneburg-lehrer-verliert-nach-beziehung-zu-einer-14-jaehrigen-sein-beamtenstatus](https://www.spiegel.de/panorama/bildung/lueneburg-lehrer-verliert-nach-beziehung-zu-einer-14-jaehrigen-sein-beamtenstatus-a-9d8b7aa6-f28e-4cde-b075-566dc271eb4e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-aus-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-aus-haft-entlassen-a-6dcd86f6-03e4-4e84-9ad9-9bf27f04caac#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/bildung/lueneburg-lehrer-verliert-nach-beziehung-zu-einer-14-jaehrigen-sein-beamtenstatus](https://www.spiegel.de/panorama/bildung/lueneburg-lehrer-verliert-nach-beziehung-zu-einer-14-jaehrigen-sein-beamtenstatus-a-9d8b7aa6-f28e-4cde-b075-566dc271eb4e#ref=rss)
+* [https://www.spiegel.de/ausland/iran-regime-laesst-mann-hinrichten-angeblich-wegen-spionage-fuer-israel](https://www.spiegel.de/ausland/iran-regime-laesst-mann-hinrichten-angeblich-wegen-spionage-fuer-israel-a-05c5a232-0165-4c2e-a94a-03cab57a54f9#ref=rss)
+### migranten
+
+* [https://www.spiegel.de/ausland/frankreich-migranten-vor-mayotte-sie-haben-uns-direkt-gerammt](https://www.spiegel.de/ausland/frankreich-migranten-vor-mayotte-sie-haben-uns-direkt-gerammt-a-b167e9bf-183b-42cb-a742-86130010171c#ref=rss)
+### mayotte
+
+* [https://www.spiegel.de/ausland/frankreich-migranten-vor-mayotte-sie-haben-uns-direkt-gerammt](https://www.spiegel.de/ausland/frankreich-migranten-vor-mayotte-sie-haben-uns-direkt-gerammt-a-b167e9bf-183b-42cb-a742-86130010171c#ref=rss)
+### noasca
+
+* [https://www.spiegel.de/panorama/noasca-deutscher-tourist-stuerzt-in-wasserfall-und-stirbt](https://www.spiegel.de/panorama/noasca-deutscher-tourist-stuerzt-in-wasserfall-und-stirbt-a-c45c4bdb-a602-4f0a-9aaa-af6830b75574#ref=rss)
+### tourist
+
+* [https://www.spiegel.de/panorama/noasca-deutscher-tourist-stuerzt-in-wasserfall-und-stirbt](https://www.spiegel.de/panorama/noasca-deutscher-tourist-stuerzt-in-wasserfall-und-stirbt-a-c45c4bdb-a602-4f0a-9aaa-af6830b75574#ref=rss)
+### wasserfall
+
+* [https://www.spiegel.de/panorama/noasca-deutscher-tourist-stuerzt-in-wasserfall-und-stirbt](https://www.spiegel.de/panorama/noasca-deutscher-tourist-stuerzt-in-wasserfall-und-stirbt-a-c45c4bdb-a602-4f0a-9aaa-af6830b75574#ref=rss)
+### starb
+
+* [https://www.spiegel.de/panorama/noasca-deutscher-tourist-stuerzt-in-wasserfall-und-stirbt](https://www.spiegel.de/panorama/noasca-deutscher-tourist-stuerzt-in-wasserfall-und-stirbt-a-c45c4bdb-a602-4f0a-9aaa-af6830b75574#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-autokonzern-vermeidet-prozess-nach-toedlichem-unfall-mit-vergleich](https://www.spiegel.de/wirtschaft/unternehmen/tesla-autokonzern-vermeidet-prozess-nach-toedlichem-unfall-mit-vergleich-a-c3b369cb-3b55-418c-a328-562e515a097a#ref=rss)
+### ruhs
+
+* [https://www.spiegel.de/kultur/tv/ndr-trennt-sich-von-klar-moderatorin-julia-ruhs](https://www.spiegel.de/kultur/tv/ndr-trennt-sich-von-klar-moderatorin-julia-ruhs-a-d7dc5483-caec-4808-b2b8-db7b437dc9c5#ref=rss)
+### antworten
+
+* [https://www.spiegel.de/kultur/tv/ndr-trennt-sich-von-klar-moderatorin-julia-ruhs](https://www.spiegel.de/kultur/tv/ndr-trennt-sich-von-klar-moderatorin-julia-ruhs-a-d7dc5483-caec-4808-b2b8-db7b437dc9c5#ref=rss)
+* [https://www.spiegel.de/start/newsletter-semester-eins-willkommen-im-studium](https://www.spiegel.de/start/newsletter-semester-eins-willkommen-im-studium-a-ccb08972-e21a-4ccb-ba79-2f1e623029d1#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/kultur/tv/ndr-trennt-sich-von-klar-moderatorin-julia-ruhs](https://www.spiegel.de/kultur/tv/ndr-trennt-sich-von-klar-moderatorin-julia-ruhs-a-d7dc5483-caec-4808-b2b8-db7b437dc9c5#ref=rss)
+* [https://www.spiegel.de/ausland/iran-regime-laesst-mann-hinrichten-angeblich-wegen-spionage-fuer-israel](https://www.spiegel.de/ausland/iran-regime-laesst-mann-hinrichten-angeblich-wegen-spionage-fuer-israel-a-05c5a232-0165-4c2e-a94a-03cab57a54f9#ref=rss)
+### newsletter
+
+* [https://www.spiegel.de/start/newsletter-semester-eins-willkommen-im-studium](https://www.spiegel.de/start/newsletter-semester-eins-willkommen-im-studium-a-ccb08972-e21a-4ccb-ba79-2f1e623029d1#ref=rss)
+### semester
+
+* [https://www.spiegel.de/start/newsletter-semester-eins-willkommen-im-studium](https://www.spiegel.de/start/newsletter-semester-eins-willkommen-im-studium-a-ccb08972-e21a-4ccb-ba79-2f1e623029d1#ref=rss)
+### eins
+
+* [https://www.spiegel.de/start/newsletter-semester-eins-willkommen-im-studium](https://www.spiegel.de/start/newsletter-semester-eins-willkommen-im-studium-a-ccb08972-e21a-4ccb-ba79-2f1e623029d1#ref=rss)
+### ich
+
+* [https://www.spiegel.de/start/newsletter-semester-eins-willkommen-im-studium](https://www.spiegel.de/start/newsletter-semester-eins-willkommen-im-studium-a-ccb08972-e21a-4ccb-ba79-2f1e623029d1#ref=rss)
+### wo
+
+* [https://www.spiegel.de/start/newsletter-semester-eins-willkommen-im-studium](https://www.spiegel.de/start/newsletter-semester-eins-willkommen-im-studium-a-ccb08972-e21a-4ccb-ba79-2f1e623029d1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/astronomie-esa-erstellt-3d-karte-der-sternenwiegen-in-der-milchstrasse](https://www.spiegel.de/wissenschaft/weltall/astronomie-esa-erstellt-3d-karte-der-sternenwiegen-in-der-milchstrasse-a-ab19bd94-e374-4709-bcf0-f39dca2d93a7#ref=rss)
+### esa
+
+* [https://www.spiegel.de/wissenschaft/weltall/astronomie-esa-erstellt-3d-karte-der-sternenwiegen-in-der-milchstrasse](https://www.spiegel.de/wissenschaft/weltall/astronomie-esa-erstellt-3d-karte-der-sternenwiegen-in-der-milchstrasse-a-ab19bd94-e374-4709-bcf0-f39dca2d93a7#ref=rss)
+### 3dkarte
+
+* [https://www.spiegel.de/wissenschaft/weltall/astronomie-esa-erstellt-3d-karte-der-sternenwiegen-in-der-milchstrasse](https://www.spiegel.de/wissenschaft/weltall/astronomie-esa-erstellt-3d-karte-der-sternenwiegen-in-der-milchstrasse-a-ab19bd94-e374-4709-bcf0-f39dca2d93a7#ref=rss)
+### sternenwiegen
+
+* [https://www.spiegel.de/wissenschaft/weltall/astronomie-esa-erstellt-3d-karte-der-sternenwiegen-in-der-milchstrasse](https://www.spiegel.de/wissenschaft/weltall/astronomie-esa-erstellt-3d-karte-der-sternenwiegen-in-der-milchstrasse-a-ab19bd94-e374-4709-bcf0-f39dca2d93a7#ref=rss)
+### sterne
+
+* [https://www.spiegel.de/wissenschaft/weltall/astronomie-esa-erstellt-3d-karte-der-sternenwiegen-in-der-milchstrasse](https://www.spiegel.de/wissenschaft/weltall/astronomie-esa-erstellt-3d-karte-der-sternenwiegen-in-der-milchstrasse-a-ab19bd94-e374-4709-bcf0-f39dca2d93a7#ref=rss)
+### 44
+
+* [https://www.spiegel.de/wissenschaft/weltall/astronomie-esa-erstellt-3d-karte-der-sternenwiegen-in-der-milchstrasse](https://www.spiegel.de/wissenschaft/weltall/astronomie-esa-erstellt-3d-karte-der-sternenwiegen-in-der-milchstrasse-a-ab19bd94-e374-4709-bcf0-f39dca2d93a7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-trikot-panne-serhou-guirassys-name-fehlt](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-trikot-panne-serhou-guirassys-name-fehlt-a-504c5ce6-b4df-48d4-80cc-ed29b22812b7#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/wissenschaft/weltall/astronomie-esa-erstellt-3d-karte-der-sternenwiegen-in-der-milchstrasse](https://www.spiegel.de/wissenschaft/weltall/astronomie-esa-erstellt-3d-karte-der-sternenwiegen-in-der-milchstrasse-a-ab19bd94-e374-4709-bcf0-f39dca2d93a7#ref=rss)
+* [https://www.spiegel.de/netzwelt/polizei-laesst-mutmassliches-geldwaesche-netzwerk-auffliegen](https://www.spiegel.de/netzwelt/polizei-laesst-mutmassliches-geldwaesche-netzwerk-auffliegen-a-19a353f8-1113-48ad-adbc-b38c2d0b37bc#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/netzwelt/polizei-laesst-mutmassliches-geldwaesche-netzwerk-auffliegen](https://www.spiegel.de/netzwelt/polizei-laesst-mutmassliches-geldwaesche-netzwerk-auffliegen-a-19a353f8-1113-48ad-adbc-b38c2d0b37bc#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/wirtschaft/service/parkplatz-streit-wie-private-firmen-falschparker-ausnehmen](https://www.spiegel.de/wirtschaft/service/parkplatz-streit-wie-private-firmen-falschparker-ausnehmen-a-64f71f87-2590-4638-b07c-5ce9f6904804#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-trikot-panne-serhou-guirassys-name-fehlt](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-trikot-panne-serhou-guirassys-name-fehlt-a-504c5ce6-b4df-48d4-80cc-ed29b22812b7#ref=rss)
+### privaten
+
+* [https://www.spiegel.de/wirtschaft/service/parkplatz-streit-wie-private-firmen-falschparker-ausnehmen](https://www.spiegel.de/wirtschaft/service/parkplatz-streit-wie-private-firmen-falschparker-ausnehmen-a-64f71f87-2590-4638-b07c-5ce9f6904804#ref=rss)
+### serhou
+
+* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-trikot-panne-serhou-guirassys-name-fehlt](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-trikot-panne-serhou-guirassys-name-fehlt-a-504c5ce6-b4df-48d4-80cc-ed29b22812b7#ref=rss)
+### guirassys
+
+* [https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-trikot-panne-serhou-guirassys-name-fehlt](https://www.spiegel.de/sport/fussball/champions-league-borussia-dortmund-trikot-panne-serhou-guirassys-name-fehlt-a-504c5ce6-b4df-48d4-80cc-ed29b22812b7#ref=rss)
+### russland
+
+* [https://www.spiegel.de/panorama/bildung/litauen-schueler-haben-erstmals-unterricht-zum-fliegen-von-drohnen](https://www.spiegel.de/panorama/bildung/litauen-schueler-haben-erstmals-unterricht-zum-fliegen-von-drohnen-a-dca98498-c336-41e5-95bd-d97ed32c7771#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein](https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein-a-a3bf26b3-7049-4306-ab66-ae874e2be38b#ref=rss)
+### rede
+
+* [https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein](https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein-a-a3bf26b3-7049-4306-ab66-ae874e2be38b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-des-kanzlers-und-generaldebatte-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-des-kanzlers-und-generaldebatte-livestream-a-9fa12149-57ac-4e8a-9ec6-c942c6f7fe59#ref=rss)
 ### madeleine
 
-* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-aus-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-aus-haft-entlassen-a-6dcd86f6-03e4-4e84-9ad9-9bf27f04caac#ref=rss)
 ### mccann
 
-* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-aus-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-aus-haft-entlassen-a-6dcd86f6-03e4-4e84-9ad9-9bf27f04caac#ref=rss)
 ### christian
 
-* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-aus-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-aus-haft-entlassen-a-6dcd86f6-03e4-4e84-9ad9-9bf27f04caac#ref=rss)
 ### b
 
-* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-aus-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-aus-haft-entlassen-a-6dcd86f6-03e4-4e84-9ad9-9bf27f04caac#ref=rss)
+### haft
+
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-aus-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-aus-haft-entlassen-a-6dcd86f6-03e4-4e84-9ad9-9bf27f04caac#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erik-und-lyle-menendez-richter-in-kalifornien-lehnt-antrag-auf-neues-verfahren-ab](https://www.spiegel.de/panorama/justiz/erik-und-lyle-menendez-richter-in-kalifornien-lehnt-antrag-auf-neues-verfahren-ab-a-67c10d3b-e4f1-49b4-8ffb-9fc3a006174d#ref=rss)
 ### entlassen
 
-* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
-### spiegelinformationen
+* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-aus-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-aus-haft-entlassen-a-6dcd86f6-03e4-4e84-9ad9-9bf27f04caac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/meyer-burger-600-beschaeftigte-in-deutschland-gekuendigt](https://www.spiegel.de/wirtschaft/unternehmen/meyer-burger-600-beschaeftigte-in-deutschland-gekuendigt-a-4fa30000-161d-4f02-81c2-82d4e0df7045#ref=rss)
+### ben
 
-* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe](https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe-a-8873474a-fe29-4231-b0a9-88e37ee99d87#ref=rss)
-### gehen
+* [https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitgruender-jerry-greenfield-verlaesst-unternehmen-nach-streit-mit-unilever](https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitgruender-jerry-greenfield-verlaesst-unternehmen-nach-streit-mit-unilever-a-3e529cc4-ac18-48a0-b219-c19b659ffef0#ref=rss)
+### jerry
 
-* [https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen](https://www.spiegel.de/panorama/justiz/fall-madeleine-mccann-verdaechtiger-christian-b-wird-mit-fussfessel-aus-der-haft-entlassen-a-32f2c53c-3cfe-43dc-88f2-173970818bb2#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste](https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste-a-5b9f960f-7e80-4ea4-8222-1a5d4c4bb71f#ref=rss)
-### karriere
+* [https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitgruender-jerry-greenfield-verlaesst-unternehmen-nach-streit-mit-unilever](https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitgruender-jerry-greenfield-verlaesst-unternehmen-nach-streit-mit-unilever-a-3e529cc4-ac18-48a0-b219-c19b659ffef0#ref=rss)
+### greenfield
 
-* [https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost](https://www.spiegel.de/kultur/kino/die-fuenf-besten-filme-von-robert-redford-von-zwei-banditen-bis-all-is-lost-a-5a7b18de-b6d2-4cf3-b6a3-efa1bec5c6b8#ref=rss)
-* [https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern](https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern-a-0cfc4798-6b1c-45d0-86d6-ef82b6db3c73#ref=rss)
-### antwort
+* [https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitgruender-jerry-greenfield-verlaesst-unternehmen-nach-streit-mit-unilever](https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitgruender-jerry-greenfield-verlaesst-unternehmen-nach-streit-mit-unilever-a-3e529cc4-ac18-48a0-b219-c19b659ffef0#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/wirtschaft/paypal-rivale-was-taugt-wero-als-europaeische-antwort-auf-den-us-riesen](https://www.spiegel.de/wirtschaft/paypal-rivale-was-taugt-wero-als-europaeische-antwort-auf-den-us-riesen-a-4a600c40-b204-4323-9faf-3b70de3c7a29#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab-a-baaf3299-ce94-4239-b09a-21b0c684f8db#ref=rss)
-### nick
+* [https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitgruender-jerry-greenfield-verlaesst-unternehmen-nach-streit-mit-unilever](https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitgruender-jerry-greenfield-verlaesst-unternehmen-nach-streit-mit-unilever-a-3e529cc4-ac18-48a0-b219-c19b659ffef0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-autokonzern-vermeidet-prozess-nach-toedlichem-unfall-mit-vergleich](https://www.spiegel.de/wirtschaft/unternehmen/tesla-autokonzern-vermeidet-prozess-nach-toedlichem-unfall-mit-vergleich-a-c3b369cb-3b55-418c-a328-562e515a097a#ref=rss)
+### unilever
 
-* [https://www.spiegel.de/panorama/leute/nick-cannon-erklaert-warum-er-zwoelf-kinder-hat](https://www.spiegel.de/panorama/leute/nick-cannon-erklaert-warum-er-zwoelf-kinder-hat-a-7b35164a-e414-4083-bce4-dd0f8a039643#ref=rss)
-### cannon
+* [https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitgruender-jerry-greenfield-verlaesst-unternehmen-nach-streit-mit-unilever](https://www.spiegel.de/wirtschaft/unternehmen/ben-jerrys-mitgruender-jerry-greenfield-verlaesst-unternehmen-nach-streit-mit-unilever-a-3e529cc4-ac18-48a0-b219-c19b659ffef0#ref=rss)
+### schloss
 
-* [https://www.spiegel.de/panorama/leute/nick-cannon-erklaert-warum-er-zwoelf-kinder-hat](https://www.spiegel.de/panorama/leute/nick-cannon-erklaert-warum-er-zwoelf-kinder-hat-a-7b35164a-e414-4083-bce4-dd0f8a039643#ref=rss)
-### schauspieler
+* [https://www.spiegel.de/ausland/donald-trump-auf-staatsbesuch-in-london-aktivisten-projizieren-epstein-bilder-auf-schloss-windsor](https://www.spiegel.de/ausland/donald-trump-auf-staatsbesuch-in-london-aktivisten-projizieren-epstein-bilder-auf-schloss-windsor-a-b60c554d-6ab6-4f88-91c5-1c9492bae918#ref=rss)
+### windsor
 
-* [https://www.spiegel.de/panorama/leute/nick-cannon-erklaert-warum-er-zwoelf-kinder-hat](https://www.spiegel.de/panorama/leute/nick-cannon-erklaert-warum-er-zwoelf-kinder-hat-a-7b35164a-e414-4083-bce4-dd0f8a039643#ref=rss)
-* [https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern](https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern-a-0cfc4798-6b1c-45d0-86d6-ef82b6db3c73#ref=rss)
-### gazastadt
+* [https://www.spiegel.de/ausland/donald-trump-auf-staatsbesuch-in-london-aktivisten-projizieren-epstein-bilder-auf-schloss-windsor](https://www.spiegel.de/ausland/donald-trump-auf-staatsbesuch-in-london-aktivisten-projizieren-epstein-bilder-auf-schloss-windsor-a-b60c554d-6ab6-4f88-91c5-1c9492bae918#ref=rss)
+### livestream
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
-### leben
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-des-kanzlers-und-generaldebatte-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-des-kanzlers-und-generaldebatte-livestream-a-9fa12149-57ac-4e8a-9ec6-c942c6f7fe59#ref=rss)
+### real
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
-* [https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern](https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern-a-0cfc4798-6b1c-45d0-86d6-ef82b6db3c73#ref=rss)
-### moskau
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-siegt-dank-kylian-mbappe-in-unterzahl-gegen-olympique-marseille](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-siegt-dank-kylian-mbappe-in-unterzahl-gegen-olympique-marseille-a-c9d750c8-c425-40b8-827f-3f7cfcc45ed8#ref=rss)
+### madrid
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
-* [https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast](https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast-a-6c5e6158-217c-42ca-bc27-781f373a34c1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-siegt-dank-kylian-mbappe-in-unterzahl-gegen-olympique-marseille](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-siegt-dank-kylian-mbappe-in-unterzahl-gegen-olympique-marseille-a-c9d750c8-c425-40b8-827f-3f7cfcc45ed8#ref=rss)
+### dank
+
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-siegt-dank-kylian-mbappe-in-unterzahl-gegen-olympique-marseille](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-siegt-dank-kylian-mbappe-in-unterzahl-gegen-olympique-marseille-a-c9d750c8-c425-40b8-827f-3f7cfcc45ed8#ref=rss)
+### kylian
+
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-siegt-dank-kylian-mbappe-in-unterzahl-gegen-olympique-marseille](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-siegt-dank-kylian-mbappe-in-unterzahl-gegen-olympique-marseille-a-c9d750c8-c425-40b8-827f-3f7cfcc45ed8#ref=rss)
+### mbappé
+
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-siegt-dank-kylian-mbappe-in-unterzahl-gegen-olympique-marseille](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-siegt-dank-kylian-mbappe-in-unterzahl-gegen-olympique-marseille-a-c9d750c8-c425-40b8-827f-3f7cfcc45ed8#ref=rss)
+### marseille
+
+* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-siegt-dank-kylian-mbappe-in-unterzahl-gegen-olympique-marseille](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-siegt-dank-kylian-mbappe-in-unterzahl-gegen-olympique-marseille-a-c9d750c8-c425-40b8-827f-3f7cfcc45ed8#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford](https://www.spiegel.de/politik/deutschland/news-des-tages-jan-marsalek-wirecard-gaza-stadt-zum-tod-von-robert-redford-a-c6c87def-0d45-45b9-84d2-8153abba6443#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-israelische-luftangriffe-auf-huthi-infrastruktur-in-hudaida](https://www.spiegel.de/ausland/jemen-israelische-luftangriffe-auf-huthi-infrastruktur-in-hudaida-a-18c4859a-a9e2-45f1-87b9-caaf56932878#ref=rss)
-### ermittler
+* [https://www.spiegel.de/ausland/iran-regime-laesst-mann-hinrichten-angeblich-wegen-spionage-fuer-israel](https://www.spiegel.de/ausland/iran-regime-laesst-mann-hinrichten-angeblich-wegen-spionage-fuer-israel-a-05c5a232-0165-4c2e-a94a-03cab57a54f9#ref=rss)
+### meyer
 
-* [https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe](https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe-a-8873474a-fe29-4231-b0a9-88e37ee99d87#ref=rss)
-### mutmaßlich
+* [https://www.spiegel.de/wirtschaft/unternehmen/meyer-burger-600-beschaeftigte-in-deutschland-gekuendigt](https://www.spiegel.de/wirtschaft/unternehmen/meyer-burger-600-beschaeftigte-in-deutschland-gekuendigt-a-4fa30000-161d-4f02-81c2-82d4e0df7045#ref=rss)
+### burger
 
-* [https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe](https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe-a-8873474a-fe29-4231-b0a9-88e37ee99d87#ref=rss)
-### gruppe
+* [https://www.spiegel.de/wirtschaft/unternehmen/meyer-burger-600-beschaeftigte-in-deutschland-gekuendigt](https://www.spiegel.de/wirtschaft/unternehmen/meyer-burger-600-beschaeftigte-in-deutschland-gekuendigt-a-4fa30000-161d-4f02-81c2-82d4e0df7045#ref=rss)
+### erik
 
-* [https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe](https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe-a-8873474a-fe29-4231-b0a9-88e37ee99d87#ref=rss)
-### unter
+* [https://www.spiegel.de/panorama/justiz/erik-und-lyle-menendez-richter-in-kalifornien-lehnt-antrag-auf-neues-verfahren-ab](https://www.spiegel.de/panorama/justiz/erik-und-lyle-menendez-richter-in-kalifornien-lehnt-antrag-auf-neues-verfahren-ab-a-67c10d3b-e4f1-49b4-8ffb-9fc3a006174d#ref=rss)
+### lyle
 
-* [https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe](https://www.spiegel.de/panorama/justiz/hannover-hildesheim-lippe-ermittler-finden-waffen-bei-mutmasslich-rechtsradikaler-gruppe-a-8873474a-fe29-4231-b0a9-88e37ee99d87#ref=rss)
-### luftangriffe
+* [https://www.spiegel.de/panorama/justiz/erik-und-lyle-menendez-richter-in-kalifornien-lehnt-antrag-auf-neues-verfahren-ab](https://www.spiegel.de/panorama/justiz/erik-und-lyle-menendez-richter-in-kalifornien-lehnt-antrag-auf-neues-verfahren-ab-a-67c10d3b-e4f1-49b4-8ffb-9fc3a006174d#ref=rss)
+### menendez
 
-* [https://www.spiegel.de/ausland/jemen-israelische-luftangriffe-auf-huthi-infrastruktur-in-hudaida](https://www.spiegel.de/ausland/jemen-israelische-luftangriffe-auf-huthi-infrastruktur-in-hudaida-a-18c4859a-a9e2-45f1-87b9-caaf56932878#ref=rss)
-### hudaida
+* [https://www.spiegel.de/panorama/justiz/erik-und-lyle-menendez-richter-in-kalifornien-lehnt-antrag-auf-neues-verfahren-ab](https://www.spiegel.de/panorama/justiz/erik-und-lyle-menendez-richter-in-kalifornien-lehnt-antrag-auf-neues-verfahren-ab-a-67c10d3b-e4f1-49b4-8ffb-9fc3a006174d#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/jemen-israelische-luftangriffe-auf-huthi-infrastruktur-in-hudaida](https://www.spiegel.de/ausland/jemen-israelische-luftangriffe-auf-huthi-infrastruktur-in-hudaida-a-18c4859a-a9e2-45f1-87b9-caaf56932878#ref=rss)
-### offenbar
+* [https://www.spiegel.de/panorama/justiz/erik-und-lyle-menendez-richter-in-kalifornien-lehnt-antrag-auf-neues-verfahren-ab](https://www.spiegel.de/panorama/justiz/erik-und-lyle-menendez-richter-in-kalifornien-lehnt-antrag-auf-neues-verfahren-ab-a-67c10d3b-e4f1-49b4-8ffb-9fc3a006174d#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik-wm-in-tokio-als-carl-lewis-und-mike-powell-das-groesste-duell-der-weitsprunggeschichte-austrugen](https://www.spiegel.de/sport/leichtathletik-wm-in-tokio-als-carl-lewis-und-mike-powell-das-groesste-duell-der-weitsprunggeschichte-austrugen-a-15be4fd6-7538-48be-8b1e-5a0a844781b0#ref=rss)
+### tokio
 
-* [https://www.spiegel.de/ausland/jemen-israelische-luftangriffe-auf-huthi-infrastruktur-in-hudaida](https://www.spiegel.de/ausland/jemen-israelische-luftangriffe-auf-huthi-infrastruktur-in-hudaida-a-18c4859a-a9e2-45f1-87b9-caaf56932878#ref=rss)
-* [https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast](https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast-a-6c5e6158-217c-42ca-bc27-781f373a34c1#ref=rss)
-### wotan
+* [https://www.spiegel.de/sport/leichtathletik-wm-in-tokio-als-carl-lewis-und-mike-powell-das-groesste-duell-der-weitsprunggeschichte-austrugen](https://www.spiegel.de/sport/leichtathletik-wm-in-tokio-als-carl-lewis-und-mike-powell-das-groesste-duell-der-weitsprunggeschichte-austrugen-a-15be4fd6-7538-48be-8b1e-5a0a844781b0#ref=rss)
+### carl
 
-* [https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner](https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner-a-2247f704-eb9c-443f-824d-fa4928628215#ref=rss)
-### wilke
+* [https://www.spiegel.de/sport/leichtathletik-wm-in-tokio-als-carl-lewis-und-mike-powell-das-groesste-duell-der-weitsprunggeschichte-austrugen](https://www.spiegel.de/sport/leichtathletik-wm-in-tokio-als-carl-lewis-und-mike-powell-das-groesste-duell-der-weitsprunggeschichte-austrugen-a-15be4fd6-7538-48be-8b1e-5a0a844781b0#ref=rss)
+### mike
 
-* [https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner](https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner-a-2247f704-eb9c-443f-824d-fa4928628215#ref=rss)
-### möhring
+* [https://www.spiegel.de/sport/leichtathletik-wm-in-tokio-als-carl-lewis-und-mike-powell-das-groesste-duell-der-weitsprunggeschichte-austrugen](https://www.spiegel.de/sport/leichtathletik-wm-in-tokio-als-carl-lewis-und-mike-powell-das-groesste-duell-der-weitsprunggeschichte-austrugen-a-15be4fd6-7538-48be-8b1e-5a0a844781b0#ref=rss)
+### powell
 
-* [https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner](https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner-a-2247f704-eb9c-443f-824d-fa4928628215#ref=rss)
-### bekommt
+* [https://www.spiegel.de/sport/leichtathletik-wm-in-tokio-als-carl-lewis-und-mike-powell-das-groesste-duell-der-weitsprunggeschichte-austrugen](https://www.spiegel.de/sport/leichtathletik-wm-in-tokio-als-carl-lewis-und-mike-powell-das-groesste-duell-der-weitsprunggeschichte-austrugen-a-15be4fd6-7538-48be-8b1e-5a0a844781b0#ref=rss)
+### tesla
 
-* [https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner](https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner-a-2247f704-eb9c-443f-824d-fa4928628215#ref=rss)
-* [https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach](https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach-a-25781ccb-3f53-40b6-98da-f60a94cfa399#ref=rss)
-### denis
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-autokonzern-vermeidet-prozess-nach-toedlichem-unfall-mit-vergleich](https://www.spiegel.de/wirtschaft/unternehmen/tesla-autokonzern-vermeidet-prozess-nach-toedlichem-unfall-mit-vergleich-a-c3b369cb-3b55-418c-a328-562e515a097a#ref=rss)
+### prozess
 
-* [https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner](https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner-a-2247f704-eb9c-443f-824d-fa4928628215#ref=rss)
-### moschitto
-
-* [https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner](https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner-a-2247f704-eb9c-443f-824d-fa4928628215#ref=rss)
-### verspricht
-
-* [https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner](https://www.spiegel.de/kultur/tv/tatort-wotan-wilke-moehring-bekommt-mit-denis-moschitto-neuen-partner-a-2247f704-eb9c-443f-824d-fa4928628215#ref=rss)
-* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben-a-c5ab172c-8723-478e-95f8-4d93a15c1216#ref=rss)
-### städte
-
-* [https://www.spiegel.de/wirtschaft/haushalt-staedte-und-gemeinden-beklagen-ausufernde-pflegekosten](https://www.spiegel.de/wirtschaft/haushalt-staedte-und-gemeinden-beklagen-ausufernde-pflegekosten-a-3374c33b-606b-4fb7-88f9-2f9c65d551c7#ref=rss)
-### gemeinden
-
-* [https://www.spiegel.de/wirtschaft/haushalt-staedte-und-gemeinden-beklagen-ausufernde-pflegekosten](https://www.spiegel.de/wirtschaft/haushalt-staedte-und-gemeinden-beklagen-ausufernde-pflegekosten-a-3374c33b-606b-4fb7-88f9-2f9c65d551c7#ref=rss)
-### oktoberfest
-
-* [https://www.spiegel.de/auto/muenchner-oktoberfest-bahn-wappnet-sich-gegen-wiesn-ansturm](https://www.spiegel.de/auto/muenchner-oktoberfest-bahn-wappnet-sich-gegen-wiesn-ansturm-a-960d23d6-9dcc-47d6-8d45-0705aa4e6f8e#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/auto/muenchner-oktoberfest-bahn-wappnet-sich-gegen-wiesn-ansturm](https://www.spiegel.de/auto/muenchner-oktoberfest-bahn-wappnet-sich-gegen-wiesn-ansturm-a-960d23d6-9dcc-47d6-8d45-0705aa4e6f8e#ref=rss)
-### jina
-
-* [https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach](https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach-a-25781ccb-3f53-40b6-98da-f60a94cfa399#ref=rss)
-### mahsa
-
-* [https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach](https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach-a-25781ccb-3f53-40b6-98da-f60a94cfa399#ref=rss)
-### amini
-
-* [https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach](https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach-a-25781ccb-3f53-40b6-98da-f60a94cfa399#ref=rss)
-### regime
-
-* [https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach](https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach-a-25781ccb-3f53-40b6-98da-f60a94cfa399#ref=rss)
-### größten
-
-* [https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach](https://www.spiegel.de/ausland/iran-drei-jahre-nach-dem-tod-von-jina-mahsa-amini-gibt-das-regime-nicht-nach-a-25781ccb-3f53-40b6-98da-f60a94cfa399#ref=rss)
-* [https://www.spiegel.de/kultur/robert-redford-ist-tot-nachruf-der-gute-amerikaner](https://www.spiegel.de/kultur/robert-redford-ist-tot-nachruf-der-gute-amerikaner-a-435dc65a-55ea-416c-8204-aee638cccd4e#ref=rss)
-### filmemacher
-
-* [https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern](https://www.spiegel.de/kultur/robert-redford-das-werk-und-leben-einer-hollywoodlegende-in-bildern-a-0cfc4798-6b1c-45d0-86d6-ef82b6db3c73#ref=rss)
-* [https://www.spiegel.de/kultur/robert-redford-ist-tot-nachruf-der-gute-amerikaner](https://www.spiegel.de/kultur/robert-redford-ist-tot-nachruf-der-gute-amerikaner-a-435dc65a-55ea-416c-8204-aee638cccd4e#ref=rss)
-### statt
-
-* [https://www.spiegel.de/panorama/wetter-aussichten-nochmal-hochsommer-statt-herbst-so-wird-das-wochenende](https://www.spiegel.de/panorama/wetter-aussichten-nochmal-hochsommer-statt-herbst-so-wird-das-wochenende-a-8f54b338-2faa-4bab-b858-763816752811#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste](https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste-a-5b9f960f-7e80-4ea4-8222-1a5d4c4bb71f#ref=rss)
-### usain
-
-* [https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste](https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste-a-5b9f960f-7e80-4ea4-8222-1a5d4c4bb71f#ref=rss)
-### bolt
-
-* [https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste](https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste-a-5b9f960f-7e80-4ea4-8222-1a5d4c4bb71f#ref=rss)
-### 100
-
-* [https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste](https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste-a-5b9f960f-7e80-4ea4-8222-1a5d4c4bb71f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen](https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen-a-f0d60f6e-ce0b-43a1-a01f-e4d88e286da4#ref=rss)
-### meter
-
-* [https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste](https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste-a-5b9f960f-7e80-4ea4-8222-1a5d4c4bb71f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen](https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen-a-f0d60f6e-ce0b-43a1-a01f-e4d88e286da4#ref=rss)
-### lebt
-
-* [https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste](https://www.spiegel.de/sport/leichtathletik/usain-bolt-ex-sprinter-kommt-beim-treppensteigen-aus-der-puste-a-5b9f960f-7e80-4ea4-8222-1a5d4c4bb71f#ref=rss)
-* [https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast](https://www.spiegel.de/ausland/jan-marsalek-nach-wirecard-flucht-so-lebt-der-russische-agent-in-moskau-podcast-a-6c5e6158-217c-42ca-bc27-781f373a34c1#ref=rss)
-### steinmeier
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab-a-baaf3299-ce94-4239-b09a-21b0c684f8db#ref=rss)
-### reparationen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-frank-walter-steinmeier-lehnen-polens-forderungen-nach-reparationen-ab-a-baaf3299-ce94-4239-b09a-21b0c684f8db#ref=rss)
-### britannic
-
-* [https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen](https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen-a-f0d60f6e-ce0b-43a1-a01f-e4d88e286da4#ref=rss)
-### objekte
-
-* [https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen](https://www.spiegel.de/wissenschaft/britannic-in-der-aegaeis-erste-objekte-von-gesunkenem-titanic-schwesterschiff-geborgen-a-f0d60f6e-ce0b-43a1-a01f-e4d88e286da4#ref=rss)
-### darmstadt
-
-* [https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt-a-c3617a02-8bb1-4e93-a5c3-10875de02581#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt-a-c3617a02-8bb1-4e93-a5c3-10875de02581#ref=rss)
-### lebenslanger
-
-* [https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt-a-c3617a02-8bb1-4e93-a5c3-10875de02581#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/darmstadt-mann-nach-mord-an-ex-frau-vor-augen-der-tochter-zu-lebenslanger-haft-verurteilt-a-c3617a02-8bb1-4e93-a5c3-10875de02581#ref=rss)
-### thyssenkrupp
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-indischer-konzern-jindal-will-stahlsparte-kaufen](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-indischer-konzern-jindal-will-stahlsparte-kaufen-a-13b6ab86-0116-4025-aa58-82ade0a404d2#ref=rss)
-### stahlsparte
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-indischer-konzern-jindal-will-stahlsparte-kaufen](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-indischer-konzern-jindal-will-stahlsparte-kaufen-a-13b6ab86-0116-4025-aa58-82ade0a404d2#ref=rss)
-### premier
-
-* [https://www.spiegel.de/ausland/frankreich-sebastien-lecornu-premier-streicht-dienstwagenprivilegien-seiner-vorgaenger](https://www.spiegel.de/ausland/frankreich-sebastien-lecornu-premier-streicht-dienstwagenprivilegien-seiner-vorgaenger-a-9d25aec2-8fb7-4014-a00a-20902b015cab#ref=rss)
-### leichtathletikwm
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-merlin-hummel-pulverisiert-seine-bestleistung-und-holt-hammerwurf-silber](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-merlin-hummel-pulverisiert-seine-bestleistung-und-holt-hammerwurf-silber-a-1b56c715-d173-40a4-98d9-e5661dce547d#ref=rss)
-### merlin
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-merlin-hummel-pulverisiert-seine-bestleistung-und-holt-hammerwurf-silber](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-merlin-hummel-pulverisiert-seine-bestleistung-und-holt-hammerwurf-silber-a-1b56c715-d173-40a4-98d9-e5661dce547d#ref=rss)
-### hummel
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-merlin-hummel-pulverisiert-seine-bestleistung-und-holt-hammerwurf-silber](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-merlin-hummel-pulverisiert-seine-bestleistung-und-holt-hammerwurf-silber-a-1b56c715-d173-40a4-98d9-e5661dce547d#ref=rss)
-### kash
-
-* [https://www.spiegel.de/ausland/fbi-senatsbefragung-von-kash-patel-im-livestream](https://www.spiegel.de/ausland/fbi-senatsbefragung-von-kash-patel-im-livestream-a-d122ab7d-a9a6-4ad6-ac5f-cad6c6f7d497#ref=rss)
-### patel
-
-* [https://www.spiegel.de/ausland/fbi-senatsbefragung-von-kash-patel-im-livestream](https://www.spiegel.de/ausland/fbi-senatsbefragung-von-kash-patel-im-livestream-a-d122ab7d-a9a6-4ad6-ac5f-cad6c6f7d497#ref=rss)
-### argentinien
-
-* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben-a-c5ab172c-8723-478e-95f8-4d93a15c1216#ref=rss)
-### javier
-
-* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben-a-c5ab172c-8723-478e-95f8-4d93a15c1216#ref=rss)
-### milei
-
-* [https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben](https://www.spiegel.de/wirtschaft/argentinien-javier-milei-verspricht-hoehere-sozialausgaben-a-c5ab172c-8723-478e-95f8-4d93a15c1216#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-autokonzern-vermeidet-prozess-nach-toedlichem-unfall-mit-vergleich](https://www.spiegel.de/wirtschaft/unternehmen/tesla-autokonzern-vermeidet-prozess-nach-toedlichem-unfall-mit-vergleich-a-c3b369cb-3b55-418c-a328-562e515a097a#ref=rss)
 
