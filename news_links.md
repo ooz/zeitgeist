@@ -4,376 +4,368 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### regierung
+
+* [https://www.spiegel.de/wirtschaft/frankreich-beschaeftigte-gehen-gegen-sparplaene-der-regierung-auf-die-strasse](https://www.spiegel.de/wirtschaft/frankreich-beschaeftigte-gehen-gegen-sparplaene-der-regierung-auf-die-strasse-a-5cfc6da1-09bc-46c7-9155-86034abe5d2f#ref=rss)
+* [https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren](https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren-a-195043f1-e9f0-4c9f-a8ed-e635ec665926#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-fuenf-tricks-der-regierung](https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-fuenf-tricks-der-regierung-a-c153ef48-9a42-4e0e-9fa7-4019719d22f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-union-die-haertere-gangart-des-kanzlers-gegenueber-der-israelischen-regierung-entzweit-die-union](https://www.spiegel.de/politik/deutschland/israel-und-die-union-die-haertere-gangart-des-kanzlers-gegenueber-der-israelischen-regierung-entzweit-die-union-a-f67d406c-3e5f-4ac5-b6e1-bfe5367db481#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/kultur/antisemitismus-in-deutschland-rafael-seligmann-fordert-normalitaet-im-umgang-mit-juden](https://www.spiegel.de/kultur/antisemitismus-in-deutschland-rafael-seligmann-fordert-normalitaet-im-umgang-mit-juden-a-7ff7567a-b2ac-49b1-877c-8ec7f7880a6a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-deutsche-verantwortung-und-die-grenzen-der-unterstuetzung](https://www.spiegel.de/politik/deutschland/israel-deutsche-verantwortung-und-die-grenzen-der-unterstuetzung-a-79204a2d-9c60-451c-8b8f-ba6948b8fe75#ref=rss)
+* [https://www.spiegel.de/start/studium-beliebteste-faechergruppe-bei-hochschulabschluessen-2024](https://www.spiegel.de/start/studium-beliebteste-faechergruppe-bei-hochschulabschluessen-2024-a-e39bcdfe-d45c-4b4a-8e85-ec693592e968#ref=rss)
+### bericht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/starbucks-mitarbeiter-klagen-offenbar-wegen-neuen-dresscodes](https://www.spiegel.de/wirtschaft/unternehmen/starbucks-mitarbeiter-klagen-offenbar-wegen-neuen-dresscodes-a-5e3e2f85-80d4-40ff-88d6-243359388d71#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/bericht-state-of-global-water-resources-der-wasserkreislauf-ist-unberechenbar-geworden](https://www.spiegel.de/wissenschaft/natur/bericht-state-of-global-water-resources-der-wasserkreislauf-ist-unberechenbar-geworden-a-f53c1f68-a00d-47bf-b2fa-1ae6d290f997#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer-a-2d75e168-1db8-421f-acbd-abbccd657907#ref=rss)
+### starmer
+
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-kaempft-gegen-skandale-und-rechtsextreme-proteste](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-kaempft-gegen-skandale-und-rechtsextreme-proteste-a-69f64a62-0de8-4bec-b75e-41f4e0aa612c#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer-a-2d75e168-1db8-421f-acbd-abbccd657907#ref=rss)
+### probleme
+
+* [https://www.spiegel.de/auto/tesla-will-nach-problemen-tuermechanismus-aendern](https://www.spiegel.de/auto/tesla-will-nach-problemen-tuermechanismus-aendern-a-953b1753-590a-4019-a17f-6b78502909d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-die-probleme-bei-db-cargo-sind-groesser-als-angenommen](https://www.spiegel.de/wirtschaft/deutsche-bahn-die-probleme-bei-db-cargo-sind-groesser-als-angenommen-a-96ea6020-5b20-4af9-abab-c1f8140fd3b4#ref=rss)
+### neue
+
+* [https://www.spiegel.de/auto/tesla-will-nach-problemen-tuermechanismus-aendern](https://www.spiegel.de/auto/tesla-will-nach-problemen-tuermechanismus-aendern-a-953b1753-590a-4019-a17f-6b78502909d2#ref=rss)
+* [https://www.spiegel.de/sport/ibiza-extremschwimmerin-nathalie-pohl-will-mittelmeerinsel-umrunden](https://www.spiegel.de/sport/ibiza-extremschwimmerin-nathalie-pohl-will-mittelmeerinsel-umrunden-a-bf481417-8352-48b4-a01e-8a14a4a79836#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/starbucks-mitarbeiter-klagen-offenbar-wegen-neuen-dresscodes](https://www.spiegel.de/wirtschaft/unternehmen/starbucks-mitarbeiter-klagen-offenbar-wegen-neuen-dresscodes-a-5e3e2f85-80d4-40ff-88d6-243359388d71#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/kultur/antisemitismus-in-deutschland-rafael-seligmann-fordert-normalitaet-im-umgang-mit-juden](https://www.spiegel.de/kultur/antisemitismus-in-deutschland-rafael-seligmann-fordert-normalitaet-im-umgang-mit-juden-a-7ff7567a-b2ac-49b1-877c-8ec7f7880a6a#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/bad-duerkheim-katastrophen-app-katwarn-fordert-7000-buerger-zum-singen-auf](https://www.spiegel.de/netzwelt/apps/bad-duerkheim-katastrophen-app-katwarn-fordert-7000-buerger-zum-singen-auf-a-8011ca61-cc44-4840-b0c6-fc52c100d1e7#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-nach-fast-40-jahren-gekuendigte-lehrerin-fordert-wiedergutmachung](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-nach-fast-40-jahren-gekuendigte-lehrerin-fordert-wiedergutmachung-a-41c3d0a2-98d0-434c-a5d0-4acc2cca6e12#ref=rss)
+### ich
+
+* [https://www.spiegel.de/wissenschaft/smartes-teleskop-im-test-lassen-sie-mich-durch-ich-bin-astronom](https://www.spiegel.de/wissenschaft/smartes-teleskop-im-test-lassen-sie-mich-durch-ich-bin-astronom-a-4dd10c3d-3b3f-4a2d-96b3-88c38f050f89#ref=rss)
+* [https://www.spiegel.de/kultur/musik/ed-sheeran-sagte-auftritt-im-weltall-ab-weil-er-schreckliche-angst-habe](https://www.spiegel.de/kultur/musik/ed-sheeran-sagte-auftritt-im-weltall-ab-weil-er-schreckliche-angst-habe-a-3bf8cd32-bdb3-42a2-85e6-7a2535215fc8#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wissenschaft/smartes-teleskop-im-test-lassen-sie-mich-durch-ich-bin-astronom](https://www.spiegel.de/wissenschaft/smartes-teleskop-im-test-lassen-sie-mich-durch-ich-bin-astronom-a-4dd10c3d-3b3f-4a2d-96b3-88c38f050f89#ref=rss)
+* [https://www.spiegel.de/start/studium-beliebteste-faechergruppe-bei-hochschulabschluessen-2024](https://www.spiegel.de/start/studium-beliebteste-faechergruppe-bei-hochschulabschluessen-2024-a-e39bcdfe-d45c-4b4a-8e85-ec693592e968#ref=rss)
+### 2024
+
+* [https://www.spiegel.de/wissenschaft/natur/bericht-state-of-global-water-resources-der-wasserkreislauf-ist-unberechenbar-geworden](https://www.spiegel.de/wissenschaft/natur/bericht-state-of-global-water-resources-der-wasserkreislauf-ist-unberechenbar-geworden-a-f53c1f68-a00d-47bf-b2fa-1ae6d290f997#ref=rss)
+* [https://www.spiegel.de/start/studium-beliebteste-faechergruppe-bei-hochschulabschluessen-2024](https://www.spiegel.de/start/studium-beliebteste-faechergruppe-bei-hochschulabschluessen-2024-a-e39bcdfe-d45c-4b4a-8e85-ec693592e968#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wirtschaft/us-notenbank-fed-senkt-leitzins-um-0-25-prozentpunkte](https://www.spiegel.de/wirtschaft/us-notenbank-fed-senkt-leitzins-um-0-25-prozentpunkte-a-d38a1e38-4bef-4103-a42e-56691c032495#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump](https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump-a-1b5e4134-53d2-4a89-9002-1113d2f03dbb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-trifft-charles-iii-friedrich-merz-reformiert-die-jahreszeiten](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-trifft-charles-iii-friedrich-merz-reformiert-die-jahreszeiten-a-dc31449e-3905-4938-9ec8-0d0698d32266#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-zu-gast-bei-koenig-charles-das-schenkten-sich-die-royals-und-die-trumps](https://www.spiegel.de/ausland/donald-trump-zu-gast-bei-koenig-charles-das-schenkten-sich-die-royals-und-die-trumps-a-7287866e-feff-43e7-85cb-1ef3039980b1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien](https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien-a-84c39b2c-ef71-41e7-9b4d-da7f425e13a3#ref=rss)
-* [https://www.spiegel.de/kultur/tv/stephen-colbert-talkmaster-der-late-show-stichelt-nach-emmy-gewinn-gegen-donald-trump](https://www.spiegel.de/kultur/tv/stephen-colbert-talkmaster-der-late-show-stichelt-nach-emmy-gewinn-gegen-donald-trump-a-e0228100-2e76-4a0f-a100-432225b102c6#ref=rss)
-### donald
+* [https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren](https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren-a-195043f1-e9f0-4c9f-a8ed-e635ec665926#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-kaempft-gegen-skandale-und-rechtsextreme-proteste](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-kaempft-gegen-skandale-und-rechtsextreme-proteste-a-69f64a62-0de8-4bec-b75e-41f4e0aa612c#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer-a-2d75e168-1db8-421f-acbd-abbccd657907#ref=rss)
+### keir
 
-* [https://www.spiegel.de/wirtschaft/us-notenbank-fed-senkt-leitzins-um-0-25-prozentpunkte](https://www.spiegel.de/wirtschaft/us-notenbank-fed-senkt-leitzins-um-0-25-prozentpunkte-a-d38a1e38-4bef-4103-a42e-56691c032495#ref=rss)
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump](https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump-a-1b5e4134-53d2-4a89-9002-1113d2f03dbb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-trifft-charles-iii-friedrich-merz-reformiert-die-jahreszeiten](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-trifft-charles-iii-friedrich-merz-reformiert-die-jahreszeiten-a-dc31449e-3905-4938-9ec8-0d0698d32266#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-zu-gast-bei-koenig-charles-das-schenkten-sich-die-royals-und-die-trumps](https://www.spiegel.de/ausland/donald-trump-zu-gast-bei-koenig-charles-das-schenkten-sich-die-royals-und-die-trumps-a-7287866e-feff-43e7-85cb-1ef3039980b1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien](https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien-a-84c39b2c-ef71-41e7-9b4d-da7f425e13a3#ref=rss)
-* [https://www.spiegel.de/kultur/tv/stephen-colbert-talkmaster-der-late-show-stichelt-nach-emmy-gewinn-gegen-donald-trump](https://www.spiegel.de/kultur/tv/stephen-colbert-talkmaster-der-late-show-stichelt-nach-emmy-gewinn-gegen-donald-trump-a-e0228100-2e76-4a0f-a100-432225b102c6#ref=rss)
-### netanyahu
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-kaempft-gegen-skandale-und-rechtsextreme-proteste](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-kaempft-gegen-skandale-und-rechtsextreme-proteste-a-69f64a62-0de8-4bec-b75e-41f4e0aa612c#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer-a-2d75e168-1db8-421f-acbd-abbccd657907#ref=rss)
+### 7
 
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump](https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump-a-1b5e4134-53d2-4a89-9002-1113d2f03dbb#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-### benjamin
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/kultur/musik/together-for-palestine-konzert-in-london-ein-konflikt-den-selbst-pop-nicht-vereinfachen-kann](https://www.spiegel.de/kultur/musik/together-for-palestine-konzert-in-london-ein-konflikt-den-selbst-pop-nicht-vereinfachen-kann-a-9e8f1cc6-80e0-4f0d-8411-aaae33a3ee55#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump](https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump-a-1b5e4134-53d2-4a89-9002-1113d2f03dbb#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### ändern
+
+* [https://www.spiegel.de/auto/tesla-will-nach-problemen-tuermechanismus-aendern](https://www.spiegel.de/auto/tesla-will-nach-problemen-tuermechanismus-aendern-a-953b1753-590a-4019-a17f-6b78502909d2#ref=rss)
+* [https://www.spiegel.de/panorama/papst-leo-xiv-will-keine-reform-der-katholischen-kirche](https://www.spiegel.de/panorama/papst-leo-xiv-will-keine-reform-der-katholischen-kirche-a-a2bf4cae-ca14-425f-9296-d1cd1414c352#ref=rss)
+### geben
+
+* [https://www.spiegel.de/auto/tesla-will-nach-problemen-tuermechanismus-aendern](https://www.spiegel.de/auto/tesla-will-nach-problemen-tuermechanismus-aendern-a-953b1753-590a-4019-a17f-6b78502909d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-die-probleme-bei-db-cargo-sind-groesser-als-angenommen](https://www.spiegel.de/wirtschaft/deutsche-bahn-die-probleme-bei-db-cargo-sind-groesser-als-angenommen-a-96ea6020-5b20-4af9-abab-c1f8140fd3b4#ref=rss)
+### beschäftigte
+
+* [https://www.spiegel.de/wirtschaft/frankreich-beschaeftigte-gehen-gegen-sparplaene-der-regierung-auf-die-strasse](https://www.spiegel.de/wirtschaft/frankreich-beschaeftigte-gehen-gegen-sparplaene-der-regierung-auf-die-strasse-a-5cfc6da1-09bc-46c7-9155-86034abe5d2f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/starbucks-mitarbeiter-klagen-offenbar-wegen-neuen-dresscodes](https://www.spiegel.de/wirtschaft/unternehmen/starbucks-mitarbeiter-klagen-offenbar-wegen-neuen-dresscodes-a-5e3e2f85-80d4-40ff-88d6-243359388d71#ref=rss)
+### hansa
+
+* [https://www.spiegel.de/sport/hansa-rostock-neunjaehriger-junge-durch-pyrotechnik-schwer-verletzt](https://www.spiegel.de/sport/hansa-rostock-neunjaehriger-junge-durch-pyrotechnik-schwer-verletzt-a-c56634d1-cf52-4401-974b-08cd1874b2f7#ref=rss)
+### rostock
+
+* [https://www.spiegel.de/sport/hansa-rostock-neunjaehriger-junge-durch-pyrotechnik-schwer-verletzt](https://www.spiegel.de/sport/hansa-rostock-neunjaehriger-junge-durch-pyrotechnik-schwer-verletzt-a-c56634d1-cf52-4401-974b-08cd1874b2f7#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/sport/hansa-rostock-neunjaehriger-junge-durch-pyrotechnik-schwer-verletzt](https://www.spiegel.de/sport/hansa-rostock-neunjaehriger-junge-durch-pyrotechnik-schwer-verletzt-a-c56634d1-cf52-4401-974b-08cd1874b2f7#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/sport/hansa-rostock-neunjaehriger-junge-durch-pyrotechnik-schwer-verletzt](https://www.spiegel.de/sport/hansa-rostock-neunjaehriger-junge-durch-pyrotechnik-schwer-verletzt-a-c56634d1-cf52-4401-974b-08cd1874b2f7#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/hansa-rostock-neunjaehriger-junge-durch-pyrotechnik-schwer-verletzt](https://www.spiegel.de/sport/hansa-rostock-neunjaehriger-junge-durch-pyrotechnik-schwer-verletzt-a-c56634d1-cf52-4401-974b-08cd1874b2f7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften-a-cd750519-1ef4-442b-a486-e2e499137836#ref=rss)
+### verabschiedet
+
+* [https://www.spiegel.de/sport/hansa-rostock-neunjaehriger-junge-durch-pyrotechnik-schwer-verletzt](https://www.spiegel.de/sport/hansa-rostock-neunjaehriger-junge-durch-pyrotechnik-schwer-verletzt-a-c56634d1-cf52-4401-974b-08cd1874b2f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-fuenf-tricks-der-regierung](https://www.spiegel.de/wirtschaft/soziales/bundeshaushalt-fuenf-tricks-der-regierung-a-c153ef48-9a42-4e0e-9fa7-4019719d22f2#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/sport/hansa-rostock-neunjaehriger-junge-durch-pyrotechnik-schwer-verletzt](https://www.spiegel.de/sport/hansa-rostock-neunjaehriger-junge-durch-pyrotechnik-schwer-verletzt-a-c56634d1-cf52-4401-974b-08cd1874b2f7#ref=rss)
+* [https://www.spiegel.de/panorama/grosser-praessnicksee-bei-friedrichswalde-polizei-sucht-nach-vermisstem-kajakfahrer](https://www.spiegel.de/panorama/grosser-praessnicksee-bei-friedrichswalde-polizei-sucht-nach-vermisstem-kajakfahrer-a-bc2f3af6-7c9e-4785-b7f1-679c508e56ff#ref=rss)
+### ibiza
+
+* [https://www.spiegel.de/sport/ibiza-extremschwimmerin-nathalie-pohl-will-mittelmeerinsel-umrunden](https://www.spiegel.de/sport/ibiza-extremschwimmerin-nathalie-pohl-will-mittelmeerinsel-umrunden-a-bf481417-8352-48b4-a01e-8a14a4a79836#ref=rss)
+### nathalie
+
+* [https://www.spiegel.de/sport/ibiza-extremschwimmerin-nathalie-pohl-will-mittelmeerinsel-umrunden](https://www.spiegel.de/sport/ibiza-extremschwimmerin-nathalie-pohl-will-mittelmeerinsel-umrunden-a-bf481417-8352-48b4-a01e-8a14a4a79836#ref=rss)
+### pohl
+
+* [https://www.spiegel.de/sport/ibiza-extremschwimmerin-nathalie-pohl-will-mittelmeerinsel-umrunden](https://www.spiegel.de/sport/ibiza-extremschwimmerin-nathalie-pohl-will-mittelmeerinsel-umrunden-a-bf481417-8352-48b4-a01e-8a14a4a79836#ref=rss)
+### rafael
+
+* [https://www.spiegel.de/kultur/antisemitismus-in-deutschland-rafael-seligmann-fordert-normalitaet-im-umgang-mit-juden](https://www.spiegel.de/kultur/antisemitismus-in-deutschland-rafael-seligmann-fordert-normalitaet-im-umgang-mit-juden-a-7ff7567a-b2ac-49b1-877c-8ec7f7880a6a#ref=rss)
+### seligmann
+
+* [https://www.spiegel.de/kultur/antisemitismus-in-deutschland-rafael-seligmann-fordert-normalitaet-im-umgang-mit-juden](https://www.spiegel.de/kultur/antisemitismus-in-deutschland-rafael-seligmann-fordert-normalitaet-im-umgang-mit-juden-a-7ff7567a-b2ac-49b1-877c-8ec7f7880a6a#ref=rss)
+### juden
+
+* [https://www.spiegel.de/kultur/antisemitismus-in-deutschland-rafael-seligmann-fordert-normalitaet-im-umgang-mit-juden](https://www.spiegel.de/kultur/antisemitismus-in-deutschland-rafael-seligmann-fordert-normalitaet-im-umgang-mit-juden-a-7ff7567a-b2ac-49b1-877c-8ec7f7880a6a#ref=rss)
+### mich
+
+* [https://www.spiegel.de/wissenschaft/smartes-teleskop-im-test-lassen-sie-mich-durch-ich-bin-astronom](https://www.spiegel.de/wissenschaft/smartes-teleskop-im-test-lassen-sie-mich-durch-ich-bin-astronom-a-4dd10c3d-3b3f-4a2d-96b3-88c38f050f89#ref=rss)
+### mediamarkt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mediamarkt-und-saturn-bundeskartellamt-billigt-uebernahme-durch-jd-com](https://www.spiegel.de/wirtschaft/unternehmen/mediamarkt-und-saturn-bundeskartellamt-billigt-uebernahme-durch-jd-com-a-5ed5444f-88a0-4eb4-8528-474aef6ea68f#ref=rss)
+### saturn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mediamarkt-und-saturn-bundeskartellamt-billigt-uebernahme-durch-jd-com](https://www.spiegel.de/wirtschaft/unternehmen/mediamarkt-und-saturn-bundeskartellamt-billigt-uebernahme-durch-jd-com-a-5ed5444f-88a0-4eb4-8528-474aef6ea68f#ref=rss)
+### bundeskartellamt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mediamarkt-und-saturn-bundeskartellamt-billigt-uebernahme-durch-jd-com](https://www.spiegel.de/wirtschaft/unternehmen/mediamarkt-und-saturn-bundeskartellamt-billigt-uebernahme-durch-jd-com-a-5ed5444f-88a0-4eb4-8528-474aef6ea68f#ref=rss)
+### jdcom
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mediamarkt-und-saturn-bundeskartellamt-billigt-uebernahme-durch-jd-com](https://www.spiegel.de/wirtschaft/unternehmen/mediamarkt-und-saturn-bundeskartellamt-billigt-uebernahme-durch-jd-com-a-5ed5444f-88a0-4eb4-8528-474aef6ea68f#ref=rss)
+### papst
+
+* [https://www.spiegel.de/panorama/papst-leo-xiv-will-keine-reform-der-katholischen-kirche](https://www.spiegel.de/panorama/papst-leo-xiv-will-keine-reform-der-katholischen-kirche-a-a2bf4cae-ca14-425f-9296-d1cd1414c352#ref=rss)
+### katholischen
+
+* [https://www.spiegel.de/panorama/papst-leo-xiv-will-keine-reform-der-katholischen-kirche](https://www.spiegel.de/panorama/papst-leo-xiv-will-keine-reform-der-katholischen-kirche-a-a2bf4cae-ca14-425f-9296-d1cd1414c352#ref=rss)
+### kirche
+
+* [https://www.spiegel.de/panorama/papst-leo-xiv-will-keine-reform-der-katholischen-kirche](https://www.spiegel.de/panorama/papst-leo-xiv-will-keine-reform-der-katholischen-kirche-a-a2bf4cae-ca14-425f-9296-d1cd1414c352#ref=rss)
+### chiemsee
+
+* [https://www.spiegel.de/panorama/chiemsee-vermisster-bootsfuehrer-tot-gefunden](https://www.spiegel.de/panorama/chiemsee-vermisster-bootsfuehrer-tot-gefunden-a-f36187c1-c3e4-40ae-a924-9573110c04e9#ref=rss)
+### gefunden
+
+* [https://www.spiegel.de/panorama/chiemsee-vermisster-bootsfuehrer-tot-gefunden](https://www.spiegel.de/panorama/chiemsee-vermisster-bootsfuehrer-tot-gefunden-a-f36187c1-c3e4-40ae-a924-9573110c04e9#ref=rss)
+### diego
+
+* [https://www.spiegel.de/sport/fussball/diego-simeone-trainer-von-atletico-madrid-sieht-rot-nach-zoff-mit-liverpool-fan](https://www.spiegel.de/sport/fussball/diego-simeone-trainer-von-atletico-madrid-sieht-rot-nach-zoff-mit-liverpool-fan-a-80732b2b-d160-4392-93c8-a061ab27f987#ref=rss)
+### simeone
+
+* [https://www.spiegel.de/sport/fussball/diego-simeone-trainer-von-atletico-madrid-sieht-rot-nach-zoff-mit-liverpool-fan](https://www.spiegel.de/sport/fussball/diego-simeone-trainer-von-atletico-madrid-sieht-rot-nach-zoff-mit-liverpool-fan-a-80732b2b-d160-4392-93c8-a061ab27f987#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/fussball/diego-simeone-trainer-von-atletico-madrid-sieht-rot-nach-zoff-mit-liverpool-fan](https://www.spiegel.de/sport/fussball/diego-simeone-trainer-von-atletico-madrid-sieht-rot-nach-zoff-mit-liverpool-fan-a-80732b2b-d160-4392-93c8-a061ab27f987#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften-a-cd750519-1ef4-442b-a486-e2e499137836#ref=rss)
+### ed
+
+* [https://www.spiegel.de/kultur/musik/ed-sheeran-sagte-auftritt-im-weltall-ab-weil-er-schreckliche-angst-habe](https://www.spiegel.de/kultur/musik/ed-sheeran-sagte-auftritt-im-weltall-ab-weil-er-schreckliche-angst-habe-a-3bf8cd32-bdb3-42a2-85e6-7a2535215fc8#ref=rss)
+### sheeran
+
+* [https://www.spiegel.de/kultur/musik/ed-sheeran-sagte-auftritt-im-weltall-ab-weil-er-schreckliche-angst-habe](https://www.spiegel.de/kultur/musik/ed-sheeran-sagte-auftritt-im-weltall-ab-weil-er-schreckliche-angst-habe-a-3bf8cd32-bdb3-42a2-85e6-7a2535215fc8#ref=rss)
+### auftritt
+
+* [https://www.spiegel.de/kultur/musik/ed-sheeran-sagte-auftritt-im-weltall-ab-weil-er-schreckliche-angst-habe](https://www.spiegel.de/kultur/musik/ed-sheeran-sagte-auftritt-im-weltall-ab-weil-er-schreckliche-angst-habe-a-3bf8cd32-bdb3-42a2-85e6-7a2535215fc8#ref=rss)
+### mann
+
+* [https://www.spiegel.de/kultur/musik/ed-sheeran-sagte-auftritt-im-weltall-ab-weil-er-schreckliche-angst-habe](https://www.spiegel.de/kultur/musik/ed-sheeran-sagte-auftritt-im-weltall-ab-weil-er-schreckliche-angst-habe-a-3bf8cd32-bdb3-42a2-85e6-7a2535215fc8#ref=rss)
+* [https://www.spiegel.de/panorama/grosser-praessnicksee-bei-friedrichswalde-polizei-sucht-nach-vermisstem-kajakfahrer](https://www.spiegel.de/panorama/grosser-praessnicksee-bei-friedrichswalde-polizei-sucht-nach-vermisstem-kajakfahrer-a-bc2f3af6-7c9e-4785-b7f1-679c508e56ff#ref=rss)
+### klagen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/starbucks-mitarbeiter-klagen-offenbar-wegen-neuen-dresscodes](https://www.spiegel.de/wirtschaft/unternehmen/starbucks-mitarbeiter-klagen-offenbar-wegen-neuen-dresscodes-a-5e3e2f85-80d4-40ff-88d6-243359388d71#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump](https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump-a-1b5e4134-53d2-4a89-9002-1113d2f03dbb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-zu-gast-bei-koenig-charles-das-schenkten-sich-die-royals-und-die-trumps](https://www.spiegel.de/ausland/donald-trump-zu-gast-bei-koenig-charles-das-schenkten-sich-die-royals-und-die-trumps-a-7287866e-feff-43e7-85cb-1ef3039980b1#ref=rss)
-* [https://www.spiegel.de/kultur/charlie-kirk-internetkultur-und-radikalisierung-was-sind-wir-alt-und-ahnungslos-kommentar](https://www.spiegel.de/kultur/charlie-kirk-internetkultur-und-radikalisierung-was-sind-wir-alt-und-ahnungslos-kommentar-a-da0cf12c-78a9-4089-b475-e0029bcee388#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nvidia-china-verbietet-laut-medienbericht-heimischen-unternehmen-kauf-von-ki-chips](https://www.spiegel.de/wirtschaft/nvidia-china-verbietet-laut-medienbericht-heimischen-unternehmen-kauf-von-ki-chips-a-c2051434-f0f8-40cf-b354-e2fdd79430e6#ref=rss)
-### truppen
+* [https://www.spiegel.de/wirtschaft/unternehmen/starbucks-mitarbeiter-klagen-offenbar-wegen-neuen-dresscodes](https://www.spiegel.de/wirtschaft/unternehmen/starbucks-mitarbeiter-klagen-offenbar-wegen-neuen-dresscodes-a-5e3e2f85-80d4-40ff-88d6-243359388d71#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer-a-2d75e168-1db8-421f-acbd-abbccd657907#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-### gazastadt
+* [https://www.spiegel.de/wirtschaft/unternehmen/starbucks-mitarbeiter-klagen-offenbar-wegen-neuen-dresscodes](https://www.spiegel.de/wirtschaft/unternehmen/starbucks-mitarbeiter-klagen-offenbar-wegen-neuen-dresscodes-a-5e3e2f85-80d4-40ff-88d6-243359388d71#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-nach-fast-40-jahren-gekuendigte-lehrerin-fordert-wiedergutmachung](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-nach-fast-40-jahren-gekuendigte-lehrerin-fordert-wiedergutmachung-a-41c3d0a2-98d0-434c-a5d0-4acc2cca6e12#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-### charles
+* [https://www.spiegel.de/wirtschaft/unternehmen/starbucks-mitarbeiter-klagen-offenbar-wegen-neuen-dresscodes](https://www.spiegel.de/wirtschaft/unternehmen/starbucks-mitarbeiter-klagen-offenbar-wegen-neuen-dresscodes-a-5e3e2f85-80d4-40ff-88d6-243359388d71#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/hamburg-flughafen-geht-das-kerosin-aus-flugausfaelle-drohen](https://www.spiegel.de/wirtschaft/unternehmen/hamburg-flughafen-geht-das-kerosin-aus-flugausfaelle-drohen-a-11fab87f-a04f-4c3a-a665-542cac5df886#ref=rss)
+### state
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-trifft-charles-iii-friedrich-merz-reformiert-die-jahreszeiten](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-trifft-charles-iii-friedrich-merz-reformiert-die-jahreszeiten-a-dc31449e-3905-4938-9ec8-0d0698d32266#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-zu-gast-bei-koenig-charles-das-schenkten-sich-die-royals-und-die-trumps](https://www.spiegel.de/ausland/donald-trump-zu-gast-bei-koenig-charles-das-schenkten-sich-die-royals-und-die-trumps-a-7287866e-feff-43e7-85cb-1ef3039980b1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien](https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien-a-84c39b2c-ef71-41e7-9b4d-da7f425e13a3#ref=rss)
-### charlie
+* [https://www.spiegel.de/wissenschaft/natur/bericht-state-of-global-water-resources-der-wasserkreislauf-ist-unberechenbar-geworden](https://www.spiegel.de/wissenschaft/natur/bericht-state-of-global-water-resources-der-wasserkreislauf-ist-unberechenbar-geworden-a-f53c1f68-a00d-47bf-b2fa-1ae6d290f997#ref=rss)
+### of
 
-* [https://www.spiegel.de/geschichte/charlie-kirk-historische-vergleiche-nach-dem-mord-fatale-tradition-des-rechtsextremismus](https://www.spiegel.de/geschichte/charlie-kirk-historische-vergleiche-nach-dem-mord-fatale-tradition-des-rechtsextremismus-a-7fcf5679-25d1-4dab-870d-1a6195417f72#ref=rss)
-* [https://www.spiegel.de/kultur/charlie-kirk-internetkultur-und-radikalisierung-was-sind-wir-alt-und-ahnungslos-kommentar](https://www.spiegel.de/kultur/charlie-kirk-internetkultur-und-radikalisierung-was-sind-wir-alt-und-ahnungslos-kommentar-a-da0cf12c-78a9-4089-b475-e0029bcee388#ref=rss)
-### kirk
+* [https://www.spiegel.de/wissenschaft/natur/bericht-state-of-global-water-resources-der-wasserkreislauf-ist-unberechenbar-geworden](https://www.spiegel.de/wissenschaft/natur/bericht-state-of-global-water-resources-der-wasserkreislauf-ist-unberechenbar-geworden-a-f53c1f68-a00d-47bf-b2fa-1ae6d290f997#ref=rss)
+### global
 
-* [https://www.spiegel.de/geschichte/charlie-kirk-historische-vergleiche-nach-dem-mord-fatale-tradition-des-rechtsextremismus](https://www.spiegel.de/geschichte/charlie-kirk-historische-vergleiche-nach-dem-mord-fatale-tradition-des-rechtsextremismus-a-7fcf5679-25d1-4dab-870d-1a6195417f72#ref=rss)
-* [https://www.spiegel.de/kultur/charlie-kirk-internetkultur-und-radikalisierung-was-sind-wir-alt-und-ahnungslos-kommentar](https://www.spiegel.de/kultur/charlie-kirk-internetkultur-und-radikalisierung-was-sind-wir-alt-und-ahnungslos-kommentar-a-da0cf12c-78a9-4089-b475-e0029bcee388#ref=rss)
-### gesa
+* [https://www.spiegel.de/wissenschaft/natur/bericht-state-of-global-water-resources-der-wasserkreislauf-ist-unberechenbar-geworden](https://www.spiegel.de/wissenschaft/natur/bericht-state-of-global-water-resources-der-wasserkreislauf-ist-unberechenbar-geworden-a-f53c1f68-a00d-47bf-b2fa-1ae6d290f997#ref=rss)
+### water
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-gesa-krause-sie-laeuft-einfach-immer-weiter](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-gesa-krause-sie-laeuft-einfach-immer-weiter-a-8d084690-24f2-4b8a-b566-3fcbe0fc615a#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-gesa-krause-siebte-bei-sturzfestival-ueber-3000-meter-hindernis](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-gesa-krause-siebte-bei-sturzfestival-ueber-3000-meter-hindernis-a-4f74ef43-70db-4db6-a30c-04895888d149#ref=rss)
-### krause
+* [https://www.spiegel.de/wissenschaft/natur/bericht-state-of-global-water-resources-der-wasserkreislauf-ist-unberechenbar-geworden](https://www.spiegel.de/wissenschaft/natur/bericht-state-of-global-water-resources-der-wasserkreislauf-ist-unberechenbar-geworden-a-f53c1f68-a00d-47bf-b2fa-1ae6d290f997#ref=rss)
+### resources
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-gesa-krause-sie-laeuft-einfach-immer-weiter](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-gesa-krause-sie-laeuft-einfach-immer-weiter-a-8d084690-24f2-4b8a-b566-3fcbe0fc615a#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-gesa-krause-siebte-bei-sturzfestival-ueber-3000-meter-hindernis](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-gesa-krause-siebte-bei-sturzfestival-ueber-3000-meter-hindernis-a-4f74ef43-70db-4db6-a30c-04895888d149#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/bericht-state-of-global-water-resources-der-wasserkreislauf-ist-unberechenbar-geworden](https://www.spiegel.de/wissenschaft/natur/bericht-state-of-global-water-resources-der-wasserkreislauf-ist-unberechenbar-geworden-a-f53c1f68-a00d-47bf-b2fa-1ae6d290f997#ref=rss)
+### wasserkreislauf
+
+* [https://www.spiegel.de/wissenschaft/natur/bericht-state-of-global-water-resources-der-wasserkreislauf-ist-unberechenbar-geworden](https://www.spiegel.de/wissenschaft/natur/bericht-state-of-global-water-resources-der-wasserkreislauf-ist-unberechenbar-geworden-a-f53c1f68-a00d-47bf-b2fa-1ae6d290f997#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/politik/deutschland/israel-deutsche-verantwortung-und-die-grenzen-der-unterstuetzung](https://www.spiegel.de/politik/deutschland/israel-deutsche-verantwortung-und-die-grenzen-der-unterstuetzung-a-79204a2d-9c60-451c-8b8f-ba6948b8fe75#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-die-probleme-bei-db-cargo-sind-groesser-als-angenommen](https://www.spiegel.de/wirtschaft/deutsche-bahn-die-probleme-bei-db-cargo-sind-groesser-als-angenommen-a-96ea6020-5b20-4af9-abab-c1f8140fd3b4#ref=rss)
+### verantwortung
+
+* [https://www.spiegel.de/politik/deutschland/israel-deutsche-verantwortung-und-die-grenzen-der-unterstuetzung](https://www.spiegel.de/politik/deutschland/israel-deutsche-verantwortung-und-die-grenzen-der-unterstuetzung-a-79204a2d-9c60-451c-8b8f-ba6948b8fe75#ref=rss)
+### jimmy
+
+* [https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren](https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren-a-195043f1-e9f0-4c9f-a8ed-e635ec665926#ref=rss)
+### kimmel
+
+* [https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren](https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren-a-195043f1-e9f0-4c9f-a8ed-e635ec665926#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren](https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren-a-195043f1-e9f0-4c9f-a8ed-e635ec665926#ref=rss)
+### abgesetzt
+
+* [https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren](https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren-a-195043f1-e9f0-4c9f-a8ed-e635ec665926#ref=rss)
+### konnte
+
+* [https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren](https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren-a-195043f1-e9f0-4c9f-a8ed-e635ec665926#ref=rss)
+* [https://www.spiegel.de/panorama/grosser-praessnicksee-bei-friedrichswalde-polizei-sucht-nach-vermisstem-kajakfahrer](https://www.spiegel.de/panorama/grosser-praessnicksee-bei-friedrichswalde-polizei-sucht-nach-vermisstem-kajakfahrer-a-bc2f3af6-7c9e-4785-b7f1-679c508e56ff#ref=rss)
+### beliebtesten
+
+* [https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren](https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren-a-195043f1-e9f0-4c9f-a8ed-e635ec665926#ref=rss)
+* [https://www.spiegel.de/start/studium-beliebteste-faechergruppe-bei-hochschulabschluessen-2024](https://www.spiegel.de/start/studium-beliebteste-faechergruppe-bei-hochschulabschluessen-2024-a-e39bcdfe-d45c-4b4a-8e85-ec693592e968#ref=rss)
 ### uspräsident
 
-* [https://www.spiegel.de/wirtschaft/us-notenbank-fed-senkt-leitzins-um-0-25-prozentpunkte](https://www.spiegel.de/wirtschaft/us-notenbank-fed-senkt-leitzins-um-0-25-prozentpunkte-a-d38a1e38-4bef-4103-a42e-56691c032495#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien](https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien-a-84c39b2c-ef71-41e7-9b4d-da7f425e13a3#ref=rss)
-* [https://www.spiegel.de/kultur/tv/stephen-colbert-talkmaster-der-late-show-stichelt-nach-emmy-gewinn-gegen-donald-trump](https://www.spiegel.de/kultur/tv/stephen-colbert-talkmaster-der-late-show-stichelt-nach-emmy-gewinn-gegen-donald-trump-a-e0228100-2e76-4a0f-a100-432225b102c6#ref=rss)
-### israels
+* [https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren](https://www.spiegel.de/ausland/jimmy-kimmel-in-den-usa-abgesetzt-wie-konnte-das-passieren-a-195043f1-e9f0-4c9f-a8ed-e635ec665926#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer-a-2d75e168-1db8-421f-acbd-abbccd657907#ref=rss)
+### flughafen
 
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump](https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump-a-1b5e4134-53d2-4a89-9002-1113d2f03dbb#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-### sagt
+* [https://www.spiegel.de/wirtschaft/unternehmen/hamburg-flughafen-geht-das-kerosin-aus-flugausfaelle-drohen](https://www.spiegel.de/wirtschaft/unternehmen/hamburg-flughafen-geht-das-kerosin-aus-flugausfaelle-drohen-a-11fab87f-a04f-4c3a-a665-542cac5df886#ref=rss)
+### kerosin
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/krebs-herzinfarkt-psychische-krankheiten-diese-ki-sagt-ihre-gesundheitliche-zukunft-voraus](https://www.spiegel.de/wissenschaft/medizin/krebs-herzinfarkt-psychische-krankheiten-diese-ki-sagt-ihre-gesundheitliche-zukunft-voraus-a-e82a6be1-6f94-4fec-81c0-fab12ad1c588#ref=rss)
-### premier
+* [https://www.spiegel.de/wirtschaft/unternehmen/hamburg-flughafen-geht-das-kerosin-aus-flugausfaelle-drohen](https://www.spiegel.de/wirtschaft/unternehmen/hamburg-flughafen-geht-das-kerosin-aus-flugausfaelle-drohen-a-11fab87f-a04f-4c3a-a665-542cac5df886#ref=rss)
+### drohen
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-* [https://www.spiegel.de/ausland/nepal-wie-die-generation-z-die-regierung-stuerzte-und-ihren-nachfolger-online-waehlte](https://www.spiegel.de/ausland/nepal-wie-die-generation-z-die-regierung-stuerzte-und-ihren-nachfolger-online-waehlte-a-b6b0b1c1-d8d3-455b-8640-438c13e77942#ref=rss)
-### groß
+* [https://www.spiegel.de/wirtschaft/unternehmen/hamburg-flughafen-geht-das-kerosin-aus-flugausfaelle-drohen](https://www.spiegel.de/wirtschaft/unternehmen/hamburg-flughafen-geht-das-kerosin-aus-flugausfaelle-drohen-a-11fab87f-a04f-4c3a-a665-542cac5df886#ref=rss)
+### bad
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/krebs-herzinfarkt-psychische-krankheiten-diese-ki-sagt-ihre-gesundheitliche-zukunft-voraus](https://www.spiegel.de/wissenschaft/medizin/krebs-herzinfarkt-psychische-krankheiten-diese-ki-sagt-ihre-gesundheitliche-zukunft-voraus-a-e82a6be1-6f94-4fec-81c0-fab12ad1c588#ref=rss)
-### selbst
+* [https://www.spiegel.de/netzwelt/apps/bad-duerkheim-katastrophen-app-katwarn-fordert-7000-buerger-zum-singen-auf](https://www.spiegel.de/netzwelt/apps/bad-duerkheim-katastrophen-app-katwarn-fordert-7000-buerger-zum-singen-auf-a-8011ca61-cc44-4840-b0c6-fc52c100d1e7#ref=rss)
+### dürkheim
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/krebs-herzinfarkt-psychische-krankheiten-diese-ki-sagt-ihre-gesundheitliche-zukunft-voraus](https://www.spiegel.de/wissenschaft/medizin/krebs-herzinfarkt-psychische-krankheiten-diese-ki-sagt-ihre-gesundheitliche-zukunft-voraus-a-e82a6be1-6f94-4fec-81c0-fab12ad1c588#ref=rss)
-### mehr
+* [https://www.spiegel.de/netzwelt/apps/bad-duerkheim-katastrophen-app-katwarn-fordert-7000-buerger-zum-singen-auf](https://www.spiegel.de/netzwelt/apps/bad-duerkheim-katastrophen-app-katwarn-fordert-7000-buerger-zum-singen-auf-a-8011ca61-cc44-4840-b0c6-fc52c100d1e7#ref=rss)
+### katwarn
 
-* [https://www.spiegel.de/panorama/leute/oesterreich-deutscher-bergsteiger-kai-mosbacher-verschollen](https://www.spiegel.de/panorama/leute/oesterreich-deutscher-bergsteiger-kai-mosbacher-verschollen-a-60fb9417-876a-4d9e-9937-91cf65e75570#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nvidia-china-verbietet-laut-medienbericht-heimischen-unternehmen-kauf-von-ki-chips](https://www.spiegel.de/wirtschaft/nvidia-china-verbietet-laut-medienbericht-heimischen-unternehmen-kauf-von-ki-chips-a-c2051434-f0f8-40cf-b354-e2fdd79430e6#ref=rss)
-* [https://www.spiegel.de/panorama/saarland-muellcontainer-sollen-kuenftig-videoueberwacht-werden](https://www.spiegel.de/panorama/saarland-muellcontainer-sollen-kuenftig-videoueberwacht-werden-a-bfa1070a-c0f0-4112-9ba9-49618aaa63f0#ref=rss)
-### euro
+* [https://www.spiegel.de/netzwelt/apps/bad-duerkheim-katastrophen-app-katwarn-fordert-7000-buerger-zum-singen-auf](https://www.spiegel.de/netzwelt/apps/bad-duerkheim-katastrophen-app-katwarn-fordert-7000-buerger-zum-singen-auf-a-8011ca61-cc44-4840-b0c6-fc52c100d1e7#ref=rss)
+### bürger
 
-* [https://www.spiegel.de/panorama/justiz/schwerin-untreueverdacht-ermittler-durchsuchen-buero-von-staatssekretaer](https://www.spiegel.de/panorama/justiz/schwerin-untreueverdacht-ermittler-durchsuchen-buero-von-staatssekretaer-a-a473d778-730a-47fa-a85d-a38310bcba37#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/china-teenager-eltern-muessen-260-000-euro-schadensersatz-fuer-hotpot-vorfall-zahlen](https://www.spiegel.de/panorama/justiz/china-teenager-eltern-muessen-260-000-euro-schadensersatz-fuer-hotpot-vorfall-zahlen-a-d8a3367e-f8a4-407f-bd6a-ff7d2845e3f4#ref=rss)
-### china
+* [https://www.spiegel.de/netzwelt/apps/bad-duerkheim-katastrophen-app-katwarn-fordert-7000-buerger-zum-singen-auf](https://www.spiegel.de/netzwelt/apps/bad-duerkheim-katastrophen-app-katwarn-fordert-7000-buerger-zum-singen-auf-a-8011ca61-cc44-4840-b0c6-fc52c100d1e7#ref=rss)
+### singen
 
-* [https://www.spiegel.de/panorama/justiz/china-teenager-eltern-muessen-260-000-euro-schadensersatz-fuer-hotpot-vorfall-zahlen](https://www.spiegel.de/panorama/justiz/china-teenager-eltern-muessen-260-000-euro-schadensersatz-fuer-hotpot-vorfall-zahlen-a-d8a3367e-f8a4-407f-bd6a-ff7d2845e3f4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nvidia-china-verbietet-laut-medienbericht-heimischen-unternehmen-kauf-von-ki-chips](https://www.spiegel.de/wirtschaft/nvidia-china-verbietet-laut-medienbericht-heimischen-unternehmen-kauf-von-ki-chips-a-c2051434-f0f8-40cf-b354-e2fdd79430e6#ref=rss)
-### leichtathletikwm
+* [https://www.spiegel.de/netzwelt/apps/bad-duerkheim-katastrophen-app-katwarn-fordert-7000-buerger-zum-singen-auf](https://www.spiegel.de/netzwelt/apps/bad-duerkheim-katastrophen-app-katwarn-fordert-7000-buerger-zum-singen-auf-a-8011ca61-cc44-4840-b0c6-fc52c100d1e7#ref=rss)
+### präßnicksee
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-gesa-krause-sie-laeuft-einfach-immer-weiter](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-gesa-krause-sie-laeuft-einfach-immer-weiter-a-8d084690-24f2-4b8a-b566-3fcbe0fc615a#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-gesa-krause-siebte-bei-sturzfestival-ueber-3000-meter-hindernis](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-gesa-krause-siebte-bei-sturzfestival-ueber-3000-meter-hindernis-a-4f74ef43-70db-4db6-a30c-04895888d149#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-gentests-fuer-sportlerinnen-vor-wm-sorgen-fuer-kontroversen](https://www.spiegel.de/sport/leichtathletik/leichtathletik-gentests-fuer-sportlerinnen-vor-wm-sorgen-fuer-kontroversen-a-363d5126-8c5a-4fb9-b036-14792ecdfb93#ref=rss)
-### hindernis
+* [https://www.spiegel.de/panorama/grosser-praessnicksee-bei-friedrichswalde-polizei-sucht-nach-vermisstem-kajakfahrer](https://www.spiegel.de/panorama/grosser-praessnicksee-bei-friedrichswalde-polizei-sucht-nach-vermisstem-kajakfahrer-a-bc2f3af6-7c9e-4785-b7f1-679c508e56ff#ref=rss)
+### fc
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-gesa-krause-sie-laeuft-einfach-immer-weiter](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-gesa-krause-sie-laeuft-einfach-immer-weiter-a-8d084690-24f2-4b8a-b566-3fcbe0fc615a#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-gesa-krause-siebte-bei-sturzfestival-ueber-3000-meter-hindernis](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-gesa-krause-siebte-bei-sturzfestival-ueber-3000-meter-hindernis-a-4f74ef43-70db-4db6-a30c-04895888d149#ref=rss)
-### presley
-
-* [https://www.spiegel.de/panorama/leute/priscilla-presley-spricht-ueber-moment-als-sie-lisa-marie-presley-gehen-lassen-musste](https://www.spiegel.de/panorama/leute/priscilla-presley-spricht-ueber-moment-als-sie-lisa-marie-presley-gehen-lassen-musste-a-5e3d5332-48b5-495f-a97f-f02d889f39d5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften-a-cd750519-1ef4-442b-a486-e2e499137836#ref=rss)
 ### bayern
 
-* [https://www.spiegel.de/panorama/bayern-ploetzlich-regnet-es-geldscheine-auf-der-bundesstrasse](https://www.spiegel.de/panorama/bayern-ploetzlich-regnet-es-geldscheine-auf-der-bundesstrasse-a-55c8cdc0-e633-4a7c-88b8-66eb5cbb254b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gazastreifen-mutmassliche-kriegsverbrechen-politik-fordert-ermittlungen-zum-gaza-sniper-aus-muenchen](https://www.spiegel.de/politik/deutschland/gazastreifen-mutmassliche-kriegsverbrechen-politik-fordert-ermittlungen-zum-gaza-sniper-aus-muenchen-a-89308990-aa19-45fa-b4c0-a1e6b3b7691c#ref=rss)
-### fed
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften-a-cd750519-1ef4-442b-a486-e2e499137836#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/wirtschaft/us-notenbank-fed-senkt-leitzins-um-0-25-prozentpunkte](https://www.spiegel.de/wirtschaft/us-notenbank-fed-senkt-leitzins-um-0-25-prozentpunkte-a-d38a1e38-4bef-4103-a42e-56691c032495#ref=rss)
-### leitzins
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften-a-cd750519-1ef4-442b-a486-e2e499137836#ref=rss)
+### jamal
 
-* [https://www.spiegel.de/wirtschaft/us-notenbank-fed-senkt-leitzins-um-0-25-prozentpunkte](https://www.spiegel.de/wirtschaft/us-notenbank-fed-senkt-leitzins-um-0-25-prozentpunkte-a-d38a1e38-4bef-4103-a42e-56691c032495#ref=rss)
-### nordrheinwestfalen
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften-a-cd750519-1ef4-442b-a486-e2e499137836#ref=rss)
+### musiala
 
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-tod-einer-elfjaehrigen-ermittler-gehen-von-deo-unfall-aus](https://www.spiegel.de/panorama/nordrhein-westfalen-tod-einer-elfjaehrigen-ermittler-gehen-von-deo-unfall-aus-a-cf440550-b14a-40fe-b979-42a07a94d43f#ref=rss)
-### tod
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften-a-cd750519-1ef4-442b-a486-e2e499137836#ref=rss)
+### problem
 
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-tod-einer-elfjaehrigen-ermittler-gehen-von-deo-unfall-aus](https://www.spiegel.de/panorama/nordrhein-westfalen-tod-einer-elfjaehrigen-ermittler-gehen-von-deo-unfall-aus-a-cf440550-b14a-40fe-b979-42a07a94d43f#ref=rss)
-### elfjährigen
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften-a-cd750519-1ef4-442b-a486-e2e499137836#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer-a-2d75e168-1db8-421f-acbd-abbccd657907#ref=rss)
+### fast
 
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-tod-einer-elfjaehrigen-ermittler-gehen-von-deo-unfall-aus](https://www.spiegel.de/panorama/nordrhein-westfalen-tod-einer-elfjaehrigen-ermittler-gehen-von-deo-unfall-aus-a-cf440550-b14a-40fe-b979-42a07a94d43f#ref=rss)
-### ermittler
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-besiegt-fc-chelsea-besser-als-sie-ohne-jamal-musiala-sein-duerften-a-cd750519-1ef4-442b-a486-e2e499137836#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-nach-fast-40-jahren-gekuendigte-lehrerin-fordert-wiedergutmachung](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-nach-fast-40-jahren-gekuendigte-lehrerin-fordert-wiedergutmachung-a-41c3d0a2-98d0-434c-a5d0-4acc2cca6e12#ref=rss)
+### sachsenanhalt
 
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-tod-einer-elfjaehrigen-ermittler-gehen-von-deo-unfall-aus](https://www.spiegel.de/panorama/nordrhein-westfalen-tod-einer-elfjaehrigen-ermittler-gehen-von-deo-unfall-aus-a-cf440550-b14a-40fe-b979-42a07a94d43f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schwerin-untreueverdacht-ermittler-durchsuchen-buero-von-staatssekretaer](https://www.spiegel.de/panorama/justiz/schwerin-untreueverdacht-ermittler-durchsuchen-buero-von-staatssekretaer-a-a473d778-730a-47fa-a85d-a38310bcba37#ref=rss)
-### gehen
+* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-nach-fast-40-jahren-gekuendigte-lehrerin-fordert-wiedergutmachung](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-nach-fast-40-jahren-gekuendigte-lehrerin-fordert-wiedergutmachung-a-41c3d0a2-98d0-434c-a5d0-4acc2cca6e12#ref=rss)
+### lehrerin
 
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-tod-einer-elfjaehrigen-ermittler-gehen-von-deo-unfall-aus](https://www.spiegel.de/panorama/nordrhein-westfalen-tod-einer-elfjaehrigen-ermittler-gehen-von-deo-unfall-aus-a-cf440550-b14a-40fe-b979-42a07a94d43f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/priscilla-presley-spricht-ueber-moment-als-sie-lisa-marie-presley-gehen-lassen-musste](https://www.spiegel.de/panorama/leute/priscilla-presley-spricht-ueber-moment-als-sie-lisa-marie-presley-gehen-lassen-musste-a-5e3d5332-48b5-495f-a97f-f02d889f39d5#ref=rss)
-### bombardements
+* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-nach-fast-40-jahren-gekuendigte-lehrerin-fordert-wiedergutmachung](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-nach-fast-40-jahren-gekuendigte-lehrerin-fordert-wiedergutmachung-a-41c3d0a2-98d0-434c-a5d0-4acc2cca6e12#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump](https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump-a-1b5e4134-53d2-4a89-9002-1113d2f03dbb#ref=rss)
-### sommer
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-kaempft-gegen-skandale-und-rechtsextreme-proteste](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-kaempft-gegen-skandale-und-rechtsextreme-proteste-a-69f64a62-0de8-4bec-b75e-41f4e0aa612c#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer-a-2d75e168-1db8-421f-acbd-abbccd657907#ref=rss)
+### skandale
 
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump](https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump-a-1b5e4134-53d2-4a89-9002-1113d2f03dbb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-trifft-charles-iii-friedrich-merz-reformiert-die-jahreszeiten](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-trifft-charles-iii-friedrich-merz-reformiert-die-jahreszeiten-a-dc31449e-3905-4938-9ec8-0d0698d32266#ref=rss)
-### besonders
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-kaempft-gegen-skandale-und-rechtsextreme-proteste](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-kaempft-gegen-skandale-und-rechtsextreme-proteste-a-69f64a62-0de8-4bec-b75e-41f4e0aa612c#ref=rss)
+### rechtsextreme
 
-* [https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump](https://www.spiegel.de/ausland/israel-iran-konflikt-netanyahus-spektakulaere-bombardements-fuer-trump-a-1b5e4134-53d2-4a89-9002-1113d2f03dbb#ref=rss)
-* [https://www.spiegel.de/start/wg-zimmer-wo-studierende-sich-das-wohnen-mit-bafoeg-noch-leisten-koennen](https://www.spiegel.de/start/wg-zimmer-wo-studierende-sich-das-wohnen-mit-bafoeg-noch-leisten-koennen-a-8e8f210d-2034-492f-9522-0481b3b8ff2c#ref=rss)
-### israel
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-kaempft-gegen-skandale-und-rechtsextreme-proteste](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-kaempft-gegen-skandale-und-rechtsextreme-proteste-a-69f64a62-0de8-4bec-b75e-41f4e0aa612c#ref=rss)
+### premier
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-### schickt
+* [https://www.spiegel.de/ausland/grossbritannien-keir-starmer-kaempft-gegen-skandale-und-rechtsextreme-proteste](https://www.spiegel.de/ausland/grossbritannien-keir-starmer-kaempft-gegen-skandale-und-rechtsextreme-proteste-a-69f64a62-0de8-4bec-b75e-41f4e0aa612c#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer-a-2d75e168-1db8-421f-acbd-abbccd657907#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-### marschieren
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-die-probleme-bei-db-cargo-sind-groesser-als-angenommen](https://www.spiegel.de/wirtschaft/deutsche-bahn-die-probleme-bei-db-cargo-sind-groesser-als-angenommen-a-96ea6020-5b20-4af9-abab-c1f8140fd3b4#ref=rss)
+### db
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-### terrororganisation
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-die-probleme-bei-db-cargo-sind-groesser-als-angenommen](https://www.spiegel.de/wirtschaft/deutsche-bahn-die-probleme-bei-db-cargo-sind-groesser-als-angenommen-a-96ea6020-5b20-4af9-abab-c1f8140fd3b4#ref=rss)
+### cargo
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-### hamas
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-die-probleme-bei-db-cargo-sind-groesser-als-angenommen](https://www.spiegel.de/wirtschaft/deutsche-bahn-die-probleme-bei-db-cargo-sind-groesser-als-angenommen-a-96ea6020-5b20-4af9-abab-c1f8140fd3b4#ref=rss)
+### größer
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-### schwächen
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-die-probleme-bei-db-cargo-sind-groesser-als-angenommen](https://www.spiegel.de/wirtschaft/deutsche-bahn-die-probleme-bei-db-cargo-sind-groesser-als-angenommen-a-96ea6020-5b20-4af9-abab-c1f8140fd3b4#ref=rss)
+### angenommen
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-### geiseln
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-die-probleme-bei-db-cargo-sind-groesser-als-angenommen](https://www.spiegel.de/wirtschaft/deutsche-bahn-die-probleme-bei-db-cargo-sind-groesser-als-angenommen-a-96ea6020-5b20-4af9-abab-c1f8140fd3b4#ref=rss)
+### fächergruppe
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-### befreien
+* [https://www.spiegel.de/start/studium-beliebteste-faechergruppe-bei-hochschulabschluessen-2024](https://www.spiegel.de/start/studium-beliebteste-faechergruppe-bei-hochschulabschluessen-2024-a-e39bcdfe-d45c-4b4a-8e85-ec693592e968#ref=rss)
+### halle
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-### kritik
+* [https://www.spiegel.de/panorama/halle-saale-unbekannte-bringen-ortsschild-aus-magdeburg-an](https://www.spiegel.de/panorama/halle-saale-unbekannte-bringen-ortsschild-aus-magdeburg-an-a-c4bfc6dc-52f0-479d-9331-fbb587ad6016#ref=rss)
+### magdeburg
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-### operation
+* [https://www.spiegel.de/panorama/halle-saale-unbekannte-bringen-ortsschild-aus-magdeburg-an](https://www.spiegel.de/panorama/halle-saale-unbekannte-bringen-ortsschild-aus-magdeburg-an-a-c4bfc6dc-52f0-479d-9331-fbb587ad6016#ref=rss)
+### palästina
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-### armeechef
+* [https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer-a-2d75e168-1db8-421f-acbd-abbccd657907#ref=rss)
+### staat
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-### warnt
+* [https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer-a-2d75e168-1db8-421f-acbd-abbccd657907#ref=rss)
+### anerkennen
 
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-podcast-a-272c8448-32c6-42f9-a8a3-ee179e23f52d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will](https://www.spiegel.de/ausland/israel-schickt-truppen-nach-gaza-stadt-was-benjamin-netanyahu-will-a-12314c1f-73c5-4802-a7ab-9d84f6339b60#ref=rss)
-### nepal
-
-* [https://www.spiegel.de/ausland/nepal-wie-die-generation-z-die-regierung-stuerzte-und-ihren-nachfolger-online-waehlte](https://www.spiegel.de/ausland/nepal-wie-die-generation-z-die-regierung-stuerzte-und-ihren-nachfolger-online-waehlte-a-b6b0b1c1-d8d3-455b-8640-438c13e77942#ref=rss)
-### online
-
-* [https://www.spiegel.de/ausland/nepal-wie-die-generation-z-die-regierung-stuerzte-und-ihren-nachfolger-online-waehlte](https://www.spiegel.de/ausland/nepal-wie-die-generation-z-die-regierung-stuerzte-und-ihren-nachfolger-online-waehlte-a-b6b0b1c1-d8d3-455b-8640-438c13e77942#ref=rss)
-### entschieden
-
-* [https://www.spiegel.de/ausland/nepal-wie-die-generation-z-die-regierung-stuerzte-und-ihren-nachfolger-online-waehlte](https://www.spiegel.de/ausland/nepal-wie-die-generation-z-die-regierung-stuerzte-und-ihren-nachfolger-online-waehlte-a-b6b0b1c1-d8d3-455b-8640-438c13e77942#ref=rss)
-* [https://www.spiegel.de/wirtschaft/urteil-kopie-von-testament-im-zweifelsfall-unwirksam](https://www.spiegel.de/wirtschaft/urteil-kopie-von-testament-im-zweifelsfall-unwirksam-a-ae9b8dab-b91d-4e08-af2e-b730a677f123#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/panorama/leute/oesterreich-deutscher-bergsteiger-kai-mosbacher-verschollen](https://www.spiegel.de/panorama/leute/oesterreich-deutscher-bergsteiger-kai-mosbacher-verschollen-a-60fb9417-876a-4d9e-9937-91cf65e75570#ref=rss)
-### bergsteiger
-
-* [https://www.spiegel.de/panorama/leute/oesterreich-deutscher-bergsteiger-kai-mosbacher-verschollen](https://www.spiegel.de/panorama/leute/oesterreich-deutscher-bergsteiger-kai-mosbacher-verschollen-a-60fb9417-876a-4d9e-9937-91cf65e75570#ref=rss)
-### kai
-
-* [https://www.spiegel.de/panorama/leute/oesterreich-deutscher-bergsteiger-kai-mosbacher-verschollen](https://www.spiegel.de/panorama/leute/oesterreich-deutscher-bergsteiger-kai-mosbacher-verschollen-a-60fb9417-876a-4d9e-9937-91cf65e75570#ref=rss)
-### mosbacher
-
-* [https://www.spiegel.de/panorama/leute/oesterreich-deutscher-bergsteiger-kai-mosbacher-verschollen](https://www.spiegel.de/panorama/leute/oesterreich-deutscher-bergsteiger-kai-mosbacher-verschollen-a-60fb9417-876a-4d9e-9937-91cf65e75570#ref=rss)
-### große
-
-* [https://www.spiegel.de/panorama/leute/oesterreich-deutscher-bergsteiger-kai-mosbacher-verschollen](https://www.spiegel.de/panorama/leute/oesterreich-deutscher-bergsteiger-kai-mosbacher-verschollen-a-60fb9417-876a-4d9e-9937-91cf65e75570#ref=rss)
-* [https://www.spiegel.de/gesundheit/schwangerschaft/zuranolon-medikament-gegen-wochenbettdepression-in-der-eu-zugelassen](https://www.spiegel.de/gesundheit/schwangerschaft/zuranolon-medikament-gegen-wochenbettdepression-in-der-eu-zugelassen-a-191ecb0e-28a0-4c5e-a7d2-61c5691107c8#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/reform-des-buergergelds-fuenf-milliarden-sind-machbar-kolumne](https://www.spiegel.de/wirtschaft/unternehmen/reform-des-buergergelds-fuenf-milliarden-sind-machbar-kolumne-a-642832f4-52a7-4418-9f95-1415119e15ed#ref=rss)
-* [https://www.spiegel.de/panorama/saarland-muellcontainer-sollen-kuenftig-videoueberwacht-werden](https://www.spiegel.de/panorama/saarland-muellcontainer-sollen-kuenftig-videoueberwacht-werden-a-bfa1070a-c0f0-4112-9ba9-49618aaa63f0#ref=rss)
-### schwerin
-
-* [https://www.spiegel.de/panorama/justiz/schwerin-untreueverdacht-ermittler-durchsuchen-buero-von-staatssekretaer](https://www.spiegel.de/panorama/justiz/schwerin-untreueverdacht-ermittler-durchsuchen-buero-von-staatssekretaer-a-a473d778-730a-47fa-a85d-a38310bcba37#ref=rss)
-### staatssekretär
-
-* [https://www.spiegel.de/panorama/justiz/schwerin-untreueverdacht-ermittler-durchsuchen-buero-von-staatssekretaer](https://www.spiegel.de/panorama/justiz/schwerin-untreueverdacht-ermittler-durchsuchen-buero-von-staatssekretaer-a-a473d778-730a-47fa-a85d-a38310bcba37#ref=rss)
-### ermittlungen
-
-* [https://www.spiegel.de/panorama/justiz/schwerin-untreueverdacht-ermittler-durchsuchen-buero-von-staatssekretaer](https://www.spiegel.de/panorama/justiz/schwerin-untreueverdacht-ermittler-durchsuchen-buero-von-staatssekretaer-a-a473d778-730a-47fa-a85d-a38310bcba37#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gazastreifen-mutmassliche-kriegsverbrechen-politik-fordert-ermittlungen-zum-gaza-sniper-aus-muenchen](https://www.spiegel.de/politik/deutschland/gazastreifen-mutmassliche-kriegsverbrechen-politik-fordert-ermittlungen-zum-gaza-sniper-aus-muenchen-a-89308990-aa19-45fa-b4c0-a1e6b3b7691c#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/panorama/justiz/schwerin-untreueverdacht-ermittler-durchsuchen-buero-von-staatssekretaer](https://www.spiegel.de/panorama/justiz/schwerin-untreueverdacht-ermittler-durchsuchen-buero-von-staatssekretaer-a-a473d778-730a-47fa-a85d-a38310bcba37#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-zu-gast-bei-koenig-charles-das-schenkten-sich-die-royals-und-die-trumps](https://www.spiegel.de/ausland/donald-trump-zu-gast-bei-koenig-charles-das-schenkten-sich-die-royals-und-die-trumps-a-7287866e-feff-43e7-85cb-1ef3039980b1#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/panorama/justiz/schwerin-untreueverdacht-ermittler-durchsuchen-buero-von-staatssekretaer](https://www.spiegel.de/panorama/justiz/schwerin-untreueverdacht-ermittler-durchsuchen-buero-von-staatssekretaer-a-a473d778-730a-47fa-a85d-a38310bcba37#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-gentests-fuer-sportlerinnen-vor-wm-sorgen-fuer-kontroversen](https://www.spiegel.de/sport/leichtathletik/leichtathletik-gentests-fuer-sportlerinnen-vor-wm-sorgen-fuer-kontroversen-a-363d5126-8c5a-4fb9-b036-14792ecdfb93#ref=rss)
-### wgzimmer
-
-* [https://www.spiegel.de/start/wg-zimmer-wo-studierende-sich-das-wohnen-mit-bafoeg-noch-leisten-koennen](https://www.spiegel.de/start/wg-zimmer-wo-studierende-sich-das-wohnen-mit-bafoeg-noch-leisten-koennen-a-8e8f210d-2034-492f-9522-0481b3b8ff2c#ref=rss)
-### wo
-
-* [https://www.spiegel.de/start/wg-zimmer-wo-studierende-sich-das-wohnen-mit-bafoeg-noch-leisten-koennen](https://www.spiegel.de/start/wg-zimmer-wo-studierende-sich-das-wohnen-mit-bafoeg-noch-leisten-koennen-a-8e8f210d-2034-492f-9522-0481b3b8ff2c#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/panorama/justiz/china-teenager-eltern-muessen-260-000-euro-schadensersatz-fuer-hotpot-vorfall-zahlen](https://www.spiegel.de/panorama/justiz/china-teenager-eltern-muessen-260-000-euro-schadensersatz-fuer-hotpot-vorfall-zahlen-a-d8a3367e-f8a4-407f-bd6a-ff7d2845e3f4#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/china-teenager-eltern-muessen-260-000-euro-schadensersatz-fuer-hotpot-vorfall-zahlen](https://www.spiegel.de/panorama/justiz/china-teenager-eltern-muessen-260-000-euro-schadensersatz-fuer-hotpot-vorfall-zahlen-a-d8a3367e-f8a4-407f-bd6a-ff7d2845e3f4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/urteil-kopie-von-testament-im-zweifelsfall-unwirksam](https://www.spiegel.de/wirtschaft/urteil-kopie-von-testament-im-zweifelsfall-unwirksam-a-ae9b8dab-b91d-4e08-af2e-b730a677f123#ref=rss)
-### trifft
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-trifft-charles-iii-friedrich-merz-reformiert-die-jahreszeiten](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-trifft-charles-iii-friedrich-merz-reformiert-die-jahreszeiten-a-dc31449e-3905-4938-9ec8-0d0698d32266#ref=rss)
-### iii
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-trifft-charles-iii-friedrich-merz-reformiert-die-jahreszeiten](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-trifft-charles-iii-friedrich-merz-reformiert-die-jahreszeiten-a-dc31449e-3905-4938-9ec8-0d0698d32266#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer](https://www.spiegel.de/ausland/grossbritannien-will-palaestina-offenbar-als-staat-anerkennen-ein-problem-fuer-keir-starmer-a-2d75e168-1db8-421f-acbd-abbccd657907#ref=rss)
 ### friedrich
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-trifft-charles-iii-friedrich-merz-reformiert-die-jahreszeiten](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-trifft-charles-iii-friedrich-merz-reformiert-die-jahreszeiten-a-dc31449e-3905-4938-9ec8-0d0698d32266#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-union-die-haertere-gangart-des-kanzlers-gegenueber-der-israelischen-regierung-entzweit-die-union](https://www.spiegel.de/politik/deutschland/israel-und-die-union-die-haertere-gangart-des-kanzlers-gegenueber-der-israelischen-regierung-entzweit-die-union-a-f67d406c-3e5f-4ac5-b6e1-bfe5367db481#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-trifft-charles-iii-friedrich-merz-reformiert-die-jahreszeiten](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-trifft-charles-iii-friedrich-merz-reformiert-die-jahreszeiten-a-dc31449e-3905-4938-9ec8-0d0698d32266#ref=rss)
-### könig
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-union-die-haertere-gangart-des-kanzlers-gegenueber-der-israelischen-regierung-entzweit-die-union](https://www.spiegel.de/politik/deutschland/israel-und-die-union-die-haertere-gangart-des-kanzlers-gegenueber-der-israelischen-regierung-entzweit-die-union-a-f67d406c-3e5f-4ac5-b6e1-bfe5367db481#ref=rss)
+### gazakrieg
 
-* [https://www.spiegel.de/ausland/donald-trump-zu-gast-bei-koenig-charles-das-schenkten-sich-die-royals-und-die-trumps](https://www.spiegel.de/ausland/donald-trump-zu-gast-bei-koenig-charles-das-schenkten-sich-die-royals-und-die-trumps-a-7287866e-feff-43e7-85cb-1ef3039980b1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien](https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien-a-84c39b2c-ef71-41e7-9b4d-da7f425e13a3#ref=rss)
-### royals
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-union-die-haertere-gangart-des-kanzlers-gegenueber-der-israelischen-regierung-entzweit-die-union](https://www.spiegel.de/politik/deutschland/israel-und-die-union-die-haertere-gangart-des-kanzlers-gegenueber-der-israelischen-regierung-entzweit-die-union-a-f67d406c-3e5f-4ac5-b6e1-bfe5367db481#ref=rss)
+* [https://www.spiegel.de/kultur/musik/together-for-palestine-konzert-in-london-ein-konflikt-den-selbst-pop-nicht-vereinfachen-kann](https://www.spiegel.de/kultur/musik/together-for-palestine-konzert-in-london-ein-konflikt-den-selbst-pop-nicht-vereinfachen-kann-a-9e8f1cc6-80e0-4f0d-8411-aaae33a3ee55#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/ausland/donald-trump-zu-gast-bei-koenig-charles-das-schenkten-sich-die-royals-und-die-trumps](https://www.spiegel.de/ausland/donald-trump-zu-gast-bei-koenig-charles-das-schenkten-sich-die-royals-und-die-trumps-a-7287866e-feff-43e7-85cb-1ef3039980b1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien](https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien-a-84c39b2c-ef71-41e7-9b4d-da7f425e13a3#ref=rss)
-### trumps
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-union-die-haertere-gangart-des-kanzlers-gegenueber-der-israelischen-regierung-entzweit-die-union](https://www.spiegel.de/politik/deutschland/israel-und-die-union-die-haertere-gangart-des-kanzlers-gegenueber-der-israelischen-regierung-entzweit-die-union-a-f67d406c-3e5f-4ac5-b6e1-bfe5367db481#ref=rss)
+### csu
 
-* [https://www.spiegel.de/ausland/donald-trump-zu-gast-bei-koenig-charles-das-schenkten-sich-die-royals-und-die-trumps](https://www.spiegel.de/ausland/donald-trump-zu-gast-bei-koenig-charles-das-schenkten-sich-die-royals-und-die-trumps-a-7287866e-feff-43e7-85cb-1ef3039980b1#ref=rss)
-### gefahren
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-union-die-haertere-gangart-des-kanzlers-gegenueber-der-israelischen-regierung-entzweit-die-union](https://www.spiegel.de/politik/deutschland/israel-und-die-union-die-haertere-gangart-des-kanzlers-gegenueber-der-israelischen-regierung-entzweit-die-union-a-f67d406c-3e5f-4ac5-b6e1-bfe5367db481#ref=rss)
+### israelfrage
 
-* [https://www.spiegel.de/geschichte/charlie-kirk-historische-vergleiche-nach-dem-mord-fatale-tradition-des-rechtsextremismus](https://www.spiegel.de/geschichte/charlie-kirk-historische-vergleiche-nach-dem-mord-fatale-tradition-des-rechtsextremismus-a-7fcf5679-25d1-4dab-870d-1a6195417f72#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-ploetzlich-regnet-es-geldscheine-auf-der-bundesstrasse](https://www.spiegel.de/panorama/bayern-ploetzlich-regnet-es-geldscheine-auf-der-bundesstrasse-a-55c8cdc0-e633-4a7c-88b8-66eb5cbb254b#ref=rss)
-### beating
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-union-die-haertere-gangart-des-kanzlers-gegenueber-der-israelischen-regierung-entzweit-die-union](https://www.spiegel.de/politik/deutschland/israel-und-die-union-die-haertere-gangart-des-kanzlers-gegenueber-der-israelischen-regierung-entzweit-die-union-a-f67d406c-3e5f-4ac5-b6e1-bfe5367db481#ref=rss)
+### gespalten
 
-* [https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien](https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien-a-84c39b2c-ef71-41e7-9b4d-da7f425e13a3#ref=rss)
-### retreat
+* [https://www.spiegel.de/politik/deutschland/israel-und-die-union-die-haertere-gangart-des-kanzlers-gegenueber-der-israelischen-regierung-entzweit-die-union](https://www.spiegel.de/politik/deutschland/israel-und-die-union-die-haertere-gangart-des-kanzlers-gegenueber-der-israelischen-regierung-entzweit-die-union-a-f67d406c-3e5f-4ac5-b6e1-bfe5367db481#ref=rss)
+### london
 
-* [https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien](https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien-a-84c39b2c-ef71-41e7-9b4d-da7f425e13a3#ref=rss)
-### art
-
-* [https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien](https://www.spiegel.de/ausland/donald-trump-bei-koenig-charles-militaershow-beating-retreat-in-grossbritannien-a-84c39b2c-ef71-41e7-9b4d-da7f425e13a3#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-ploetzlich-regnet-es-geldscheine-auf-der-bundesstrasse](https://www.spiegel.de/panorama/bayern-ploetzlich-regnet-es-geldscheine-auf-der-bundesstrasse-a-55c8cdc0-e633-4a7c-88b8-66eb5cbb254b#ref=rss)
-### internetkultur
-
-* [https://www.spiegel.de/kultur/charlie-kirk-internetkultur-und-radikalisierung-was-sind-wir-alt-und-ahnungslos-kommentar](https://www.spiegel.de/kultur/charlie-kirk-internetkultur-und-radikalisierung-was-sind-wir-alt-und-ahnungslos-kommentar-a-da0cf12c-78a9-4089-b475-e0029bcee388#ref=rss)
-### tokio
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-gesa-krause-sie-laeuft-einfach-immer-weiter](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-gesa-krause-sie-laeuft-einfach-immer-weiter-a-8d084690-24f2-4b8a-b566-3fcbe0fc615a#ref=rss)
-### wassergraben
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-gesa-krause-sie-laeuft-einfach-immer-weiter](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-gesa-krause-sie-laeuft-einfach-immer-weiter-a-8d084690-24f2-4b8a-b566-3fcbe0fc615a#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-gesa-krause-siebte-bei-sturzfestival-ueber-3000-meter-hindernis](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-gesa-krause-siebte-bei-sturzfestival-ueber-3000-meter-hindernis-a-4f74ef43-70db-4db6-a30c-04895888d149#ref=rss)
-### siebte
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-gesa-krause-sie-laeuft-einfach-immer-weiter](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-2025-in-tokio-gesa-krause-sie-laeuft-einfach-immer-weiter-a-8d084690-24f2-4b8a-b566-3fcbe0fc615a#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-gesa-krause-siebte-bei-sturzfestival-ueber-3000-meter-hindernis](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-gesa-krause-siebte-bei-sturzfestival-ueber-3000-meter-hindernis-a-4f74ef43-70db-4db6-a30c-04895888d149#ref=rss)
-### priscilla
-
-* [https://www.spiegel.de/panorama/leute/priscilla-presley-spricht-ueber-moment-als-sie-lisa-marie-presley-gehen-lassen-musste](https://www.spiegel.de/panorama/leute/priscilla-presley-spricht-ueber-moment-als-sie-lisa-marie-presley-gehen-lassen-musste-a-5e3d5332-48b5-495f-a97f-f02d889f39d5#ref=rss)
-### zuranolon
-
-* [https://www.spiegel.de/gesundheit/schwangerschaft/zuranolon-medikament-gegen-wochenbettdepression-in-der-eu-zugelassen](https://www.spiegel.de/gesundheit/schwangerschaft/zuranolon-medikament-gegen-wochenbettdepression-in-der-eu-zugelassen-a-191ecb0e-28a0-4c5e-a7d2-61c5691107c8#ref=rss)
-### eu
-
-* [https://www.spiegel.de/gesundheit/schwangerschaft/zuranolon-medikament-gegen-wochenbettdepression-in-der-eu-zugelassen](https://www.spiegel.de/gesundheit/schwangerschaft/zuranolon-medikament-gegen-wochenbettdepression-in-der-eu-zugelassen-a-191ecb0e-28a0-4c5e-a7d2-61c5691107c8#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/gesundheit/schwangerschaft/zuranolon-medikament-gegen-wochenbettdepression-in-der-eu-zugelassen](https://www.spiegel.de/gesundheit/schwangerschaft/zuranolon-medikament-gegen-wochenbettdepression-in-der-eu-zugelassen-a-191ecb0e-28a0-4c5e-a7d2-61c5691107c8#ref=rss)
-* [https://www.spiegel.de/panorama/saarland-muellcontainer-sollen-kuenftig-videoueberwacht-werden](https://www.spiegel.de/panorama/saarland-muellcontainer-sollen-kuenftig-videoueberwacht-werden-a-bfa1070a-c0f0-4112-9ba9-49618aaa63f0#ref=rss)
-### kopie
-
-* [https://www.spiegel.de/wirtschaft/urteil-kopie-von-testament-im-zweifelsfall-unwirksam](https://www.spiegel.de/wirtschaft/urteil-kopie-von-testament-im-zweifelsfall-unwirksam-a-ae9b8dab-b91d-4e08-af2e-b730a677f123#ref=rss)
-### testament
-
-* [https://www.spiegel.de/wirtschaft/urteil-kopie-von-testament-im-zweifelsfall-unwirksam](https://www.spiegel.de/wirtschaft/urteil-kopie-von-testament-im-zweifelsfall-unwirksam-a-ae9b8dab-b91d-4e08-af2e-b730a677f123#ref=rss)
-### geldscheine
-
-* [https://www.spiegel.de/panorama/bayern-ploetzlich-regnet-es-geldscheine-auf-der-bundesstrasse](https://www.spiegel.de/panorama/bayern-ploetzlich-regnet-es-geldscheine-auf-der-bundesstrasse-a-55c8cdc0-e633-4a7c-88b8-66eb5cbb254b#ref=rss)
-### 3000
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-gesa-krause-siebte-bei-sturzfestival-ueber-3000-meter-hindernis](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-gesa-krause-siebte-bei-sturzfestival-ueber-3000-meter-hindernis-a-4f74ef43-70db-4db6-a30c-04895888d149#ref=rss)
-### meter
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-gesa-krause-siebte-bei-sturzfestival-ueber-3000-meter-hindernis](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-gesa-krause-siebte-bei-sturzfestival-ueber-3000-meter-hindernis-a-4f74ef43-70db-4db6-a30c-04895888d149#ref=rss)
-### nvidia
-
-* [https://www.spiegel.de/wirtschaft/nvidia-china-verbietet-laut-medienbericht-heimischen-unternehmen-kauf-von-ki-chips](https://www.spiegel.de/wirtschaft/nvidia-china-verbietet-laut-medienbericht-heimischen-unternehmen-kauf-von-ki-chips-a-c2051434-f0f8-40cf-b354-e2fdd79430e6#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/nvidia-china-verbietet-laut-medienbericht-heimischen-unternehmen-kauf-von-ki-chips](https://www.spiegel.de/wirtschaft/nvidia-china-verbietet-laut-medienbericht-heimischen-unternehmen-kauf-von-ki-chips-a-c2051434-f0f8-40cf-b354-e2fdd79430e6#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/nvidia-china-verbietet-laut-medienbericht-heimischen-unternehmen-kauf-von-ki-chips](https://www.spiegel.de/wirtschaft/nvidia-china-verbietet-laut-medienbericht-heimischen-unternehmen-kauf-von-ki-chips-a-c2051434-f0f8-40cf-b354-e2fdd79430e6#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/politik/deutschland/gazastreifen-mutmassliche-kriegsverbrechen-politik-fordert-ermittlungen-zum-gaza-sniper-aus-muenchen](https://www.spiegel.de/politik/deutschland/gazastreifen-mutmassliche-kriegsverbrechen-politik-fordert-ermittlungen-zum-gaza-sniper-aus-muenchen-a-89308990-aa19-45fa-b4c0-a1e6b3b7691c#ref=rss)
-### sportlerinnen
-
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-gentests-fuer-sportlerinnen-vor-wm-sorgen-fuer-kontroversen](https://www.spiegel.de/sport/leichtathletik/leichtathletik-gentests-fuer-sportlerinnen-vor-wm-sorgen-fuer-kontroversen-a-363d5126-8c5a-4fb9-b036-14792ecdfb93#ref=rss)
-### stephen
-
-* [https://www.spiegel.de/kultur/tv/stephen-colbert-talkmaster-der-late-show-stichelt-nach-emmy-gewinn-gegen-donald-trump](https://www.spiegel.de/kultur/tv/stephen-colbert-talkmaster-der-late-show-stichelt-nach-emmy-gewinn-gegen-donald-trump-a-e0228100-2e76-4a0f-a100-432225b102c6#ref=rss)
-### colbert
-
-* [https://www.spiegel.de/kultur/tv/stephen-colbert-talkmaster-der-late-show-stichelt-nach-emmy-gewinn-gegen-donald-trump](https://www.spiegel.de/kultur/tv/stephen-colbert-talkmaster-der-late-show-stichelt-nach-emmy-gewinn-gegen-donald-trump-a-e0228100-2e76-4a0f-a100-432225b102c6#ref=rss)
-### late
-
-* [https://www.spiegel.de/kultur/tv/stephen-colbert-talkmaster-der-late-show-stichelt-nach-emmy-gewinn-gegen-donald-trump](https://www.spiegel.de/kultur/tv/stephen-colbert-talkmaster-der-late-show-stichelt-nach-emmy-gewinn-gegen-donald-trump-a-e0228100-2e76-4a0f-a100-432225b102c6#ref=rss)
-### show
-
-* [https://www.spiegel.de/kultur/tv/stephen-colbert-talkmaster-der-late-show-stichelt-nach-emmy-gewinn-gegen-donald-trump](https://www.spiegel.de/kultur/tv/stephen-colbert-talkmaster-der-late-show-stichelt-nach-emmy-gewinn-gegen-donald-trump-a-e0228100-2e76-4a0f-a100-432225b102c6#ref=rss)
-### saarland
-
-* [https://www.spiegel.de/panorama/saarland-muellcontainer-sollen-kuenftig-videoueberwacht-werden](https://www.spiegel.de/panorama/saarland-muellcontainer-sollen-kuenftig-videoueberwacht-werden-a-bfa1070a-c0f0-4112-9ba9-49618aaa63f0#ref=rss)
+* [https://www.spiegel.de/kultur/musik/together-for-palestine-konzert-in-london-ein-konflikt-den-selbst-pop-nicht-vereinfachen-kann](https://www.spiegel.de/kultur/musik/together-for-palestine-konzert-in-london-ein-konflikt-den-selbst-pop-nicht-vereinfachen-kann-a-9e8f1cc6-80e0-4f0d-8411-aaae33a3ee55#ref=rss)
 
