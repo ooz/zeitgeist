@@ -4,346 +4,367 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
-
-* [https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor](https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor-a-4f814e84-4cce-4392-a0c3-ad26ead3037a#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-will-bagram-basis-in-afghanistan-von-den-taliban-zurueck](https://www.spiegel.de/ausland/donald-trump-will-bagram-basis-in-afghanistan-von-den-taliban-zurueck-a-99c8925a-5af7-4ded-8605-d35ff516af0d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-sagt-wladimir-putin-toete-viele-menschen-im-ukraine-krieg](https://www.spiegel.de/ausland/donald-trump-sagt-wladimir-putin-toete-viele-menschen-im-ukraine-krieg-a-f59ba387-33e7-4cbe-8496-082a60011607#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump](https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump-a-00b7b900-a5c8-441f-b2e3-5371d356948c#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt](https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt-a-7564977b-ca57-4335-bda9-df001968b750#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor](https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor-a-4f814e84-4cce-4392-a0c3-ad26ead3037a#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-will-bagram-basis-in-afghanistan-von-den-taliban-zurueck](https://www.spiegel.de/ausland/donald-trump-will-bagram-basis-in-afghanistan-von-den-taliban-zurueck-a-99c8925a-5af7-4ded-8605-d35ff516af0d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-sagt-wladimir-putin-toete-viele-menschen-im-ukraine-krieg](https://www.spiegel.de/ausland/donald-trump-sagt-wladimir-putin-toete-viele-menschen-im-ukraine-krieg-a-f59ba387-33e7-4cbe-8496-082a60011607#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump](https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump-a-00b7b900-a5c8-441f-b2e3-5371d356948c#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt](https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt-a-7564977b-ca57-4335-bda9-df001968b750#ref=rss)
-### charlie
+* [https://www.spiegel.de/ausland/grossbritannien-wie-lange-haelt-sich-keir-starmer-noch-im-amt](https://www.spiegel.de/ausland/grossbritannien-wie-lange-haelt-sich-keir-starmer-noch-im-amt-a-bc38d104-3662-4250-b5f7-6694b24d8857#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-handel-zoelle-druecken-deutschen-export-ueberschuss](https://www.spiegel.de/wirtschaft/usa-handel-zoelle-druecken-deutschen-export-ueberschuss-a-1547bd73-c809-4ffe-8a08-36e97f48dae6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung](https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung-a-85e67d23-5045-4169-b61a-14a1a69659a4#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-taiwan-vor-telefonat-mit-xi-jinping-offenbar-militaerhilfe-verweigern](https://www.spiegel.de/ausland/donald-trump-will-taiwan-vor-telefonat-mit-xi-jinping-offenbar-militaerhilfe-verweigern-a-3c4011c2-dc20-4b30-8526-85f01e2f3cc9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-erstmals-weniger-gefluechtete-in-deutschland-seit-2011](https://www.spiegel.de/politik/deutschland/migration-erstmals-weniger-gefluechtete-in-deutschland-seit-2011-a-92fc00a6-045c-4733-8b88-cc75066c2a55#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/heidi-reichinnek-im-talk-wie-soll-ihr-sozialismus-funktionieren](https://www.spiegel.de/politik/heidi-reichinnek-im-talk-wie-soll-ihr-sozialismus-funktionieren-a-75687b0a-22a6-4e17-a9ff-62f5eded450c#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump](https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump-a-00b7b900-a5c8-441f-b2e3-5371d356948c#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt](https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt-a-7564977b-ca57-4335-bda9-df001968b750#ref=rss)
-* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-abgesetzt-abc-partner-will-gedenken-an-charlie-kirk-senden](https://www.spiegel.de/kultur/tv/jimmy-kimmel-abgesetzt-abc-partner-will-gedenken-an-charlie-kirk-senden-a-397e052f-d3d1-4007-aced-4942b0b66079#ref=rss)
-### kirk
+* [https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden](https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden-a-c455920b-cdbd-4f42-ac75-c923aa70562b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/waldbraende-in-europa-feuer-setzen-in-europa-rekordmenge-an-co2-frei](https://www.spiegel.de/wissenschaft/waldbraende-in-europa-feuer-setzen-in-europa-rekordmenge-an-co2-frei-a-07dfaac3-be69-48e6-bc67-f4cac09330c8#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/yad-vashem-holocaust-gedenkstaette-soll-aussenstelle-in-deutschland-bekommen](https://www.spiegel.de/panorama/bildung/yad-vashem-holocaust-gedenkstaette-soll-aussenstelle-in-deutschland-bekommen-a-751a3278-95db-49ed-8c62-868f3d933530#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-erstmals-weniger-gefluechtete-in-deutschland-seit-2011](https://www.spiegel.de/politik/deutschland/migration-erstmals-weniger-gefluechtete-in-deutschland-seit-2011-a-92fc00a6-045c-4733-8b88-cc75066c2a55#ref=rss)
+### autos
 
-* [https://www.spiegel.de/politik/heidi-reichinnek-im-talk-wie-soll-ihr-sozialismus-funktionieren](https://www.spiegel.de/politik/heidi-reichinnek-im-talk-wie-soll-ihr-sozialismus-funktionieren-a-75687b0a-22a6-4e17-a9ff-62f5eded450c#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump](https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump-a-00b7b900-a5c8-441f-b2e3-5371d356948c#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt](https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt-a-7564977b-ca57-4335-bda9-df001968b750#ref=rss)
-* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-abgesetzt-abc-partner-will-gedenken-an-charlie-kirk-senden](https://www.spiegel.de/kultur/tv/jimmy-kimmel-abgesetzt-abc-partner-will-gedenken-an-charlie-kirk-senden-a-397e052f-d3d1-4007-aced-4942b0b66079#ref=rss)
-### jimmy
+* [https://www.spiegel.de/sport/formel1/lewis-hamilton-formel-1-star-hat-alle-seine-autos-verkauft](https://www.spiegel.de/sport/formel1/lewis-hamilton-formel-1-star-hat-alle-seine-autos-verkauft-a-a2b77718-748c-4df1-9f50-00f3c1f25fb6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-handel-zoelle-druecken-deutschen-export-ueberschuss](https://www.spiegel.de/wirtschaft/usa-handel-zoelle-druecken-deutschen-export-ueberschuss-a-1547bd73-c809-4ffe-8a08-36e97f48dae6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-unbekannte-zerstechen-reifen-von-mehr-als-260-autos](https://www.spiegel.de/panorama/justiz/bremen-unbekannte-zerstechen-reifen-von-mehr-als-260-autos-a-404dd23b-b272-47d5-8723-fdbf3f405c27#ref=rss)
+### erstmals
 
-* [https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor](https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor-a-4f814e84-4cce-4392-a0c3-ad26ead3037a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik](https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik-a-315016fd-aecb-47a2-95fd-886f5f731fe6#ref=rss)
-* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-abgesetzt-abc-partner-will-gedenken-an-charlie-kirk-senden](https://www.spiegel.de/kultur/tv/jimmy-kimmel-abgesetzt-abc-partner-will-gedenken-an-charlie-kirk-senden-a-397e052f-d3d1-4007-aced-4942b0b66079#ref=rss)
-### kimmel
-
-* [https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor](https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor-a-4f814e84-4cce-4392-a0c3-ad26ead3037a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik](https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik-a-315016fd-aecb-47a2-95fd-886f5f731fe6#ref=rss)
-* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-abgesetzt-abc-partner-will-gedenken-an-charlie-kirk-senden](https://www.spiegel.de/kultur/tv/jimmy-kimmel-abgesetzt-abc-partner-will-gedenken-an-charlie-kirk-senden-a-397e052f-d3d1-4007-aced-4942b0b66079#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-palaestina-aktivist-mahmoud-khalil-droht-abschiebung-nach-syrien-oder-algerien](https://www.spiegel.de/ausland/usa-palaestina-aktivist-mahmoud-khalil-droht-abschiebung-nach-syrien-oder-algerien-a-c6a23b4a-ad34-4106-aa52-9eaa0b26f818#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt](https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt-a-7564977b-ca57-4335-bda9-df001968b750#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-und-israel-stehen-offenbar-unmittelbar-vor-diplomatischer-annaeherung](https://www.spiegel.de/ausland/syrien-und-israel-stehen-offenbar-unmittelbar-vor-diplomatischer-annaeherung-a-c1c172e6-ee77-4a6b-b13b-40b39c417ea1#ref=rss)
-### neues
-
-* [https://www.spiegel.de/politik/heidi-reichinnek-im-talk-wie-soll-ihr-sozialismus-funktionieren](https://www.spiegel.de/politik/heidi-reichinnek-im-talk-wie-soll-ihr-sozialismus-funktionieren-a-75687b0a-22a6-4e17-a9ff-62f5eded450c#ref=rss)
-* [https://www.spiegel.de/panorama/cardi-b-us-rapperin-bestaetigt-schwangerschaft-und-veroeffentlicht-diese-woche-neues-album](https://www.spiegel.de/panorama/cardi-b-us-rapperin-bestaetigt-schwangerschaft-und-veroeffentlicht-diese-woche-neues-album-a-e07a90ef-48dc-44c4-b5a2-1bcfb521c866#ref=rss)
-### ndr
-
-* [https://www.spiegel.de/kultur/ndr-julia-ruhs-aeussert-kritik-nach-absetzung-als-moderatorin](https://www.spiegel.de/kultur/ndr-julia-ruhs-aeussert-kritik-nach-absetzung-als-moderatorin-a-6c67fd2f-f0f0-4b0d-af22-58a8ec1db288#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik](https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik-a-315016fd-aecb-47a2-95fd-886f5f731fe6#ref=rss)
-### julia
-
-* [https://www.spiegel.de/kultur/ndr-julia-ruhs-aeussert-kritik-nach-absetzung-als-moderatorin](https://www.spiegel.de/kultur/ndr-julia-ruhs-aeussert-kritik-nach-absetzung-als-moderatorin-a-6c67fd2f-f0f0-4b0d-af22-58a8ec1db288#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik](https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik-a-315016fd-aecb-47a2-95fd-886f5f731fe6#ref=rss)
-### ruhs
-
-* [https://www.spiegel.de/kultur/ndr-julia-ruhs-aeussert-kritik-nach-absetzung-als-moderatorin](https://www.spiegel.de/kultur/ndr-julia-ruhs-aeussert-kritik-nach-absetzung-als-moderatorin-a-6c67fd2f-f0f0-4b0d-af22-58a8ec1db288#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik](https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik-a-315016fd-aecb-47a2-95fd-886f5f731fe6#ref=rss)
-### hunderttausende
-
-* [https://www.spiegel.de/ausland/katholischer-pfarrer-berichtet-von-bombardements-und-vielen-toten-in-gaza-stadt](https://www.spiegel.de/ausland/katholischer-pfarrer-berichtet-von-bombardements-und-vielen-toten-in-gaza-stadt-a-708ea81e-2c10-4686-8192-12a15a36c27f#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-gegen-sparmassnahmen](https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-gegen-sparmassnahmen-a-5c2d0845-f675-400f-91e4-7bc0c51d0d25#ref=rss)
+* [https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen](https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen-a-14155d58-8bd8-4d47-9195-768f104751c4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-erstmals-weniger-gefluechtete-in-deutschland-seit-2011](https://www.spiegel.de/politik/deutschland/migration-erstmals-weniger-gefluechtete-in-deutschland-seit-2011-a-92fc00a6-045c-4733-8b88-cc75066c2a55#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/ausland/donald-trump-will-bagram-basis-in-afghanistan-von-den-taliban-zurueck](https://www.spiegel.de/ausland/donald-trump-will-bagram-basis-in-afghanistan-von-den-taliban-zurueck-a-99c8925a-5af7-4ded-8605-d35ff516af0d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-westjordanland-zwei-tote-nach-schuessen-an-grenze-zu-jordanien](https://www.spiegel.de/ausland/israel-westjordanland-zwei-tote-nach-schuessen-an-grenze-zu-jordanien-a-07737ecc-3b05-4d7b-b77c-8a4da387030f#ref=rss)
-* [https://www.spiegel.de/panorama/kreuzfahrtschiff-in-miami-wonder-of-the-seas-dreht-nach-schlaegerei-am-kinderpool-um](https://www.spiegel.de/panorama/kreuzfahrtschiff-in-miami-wonder-of-the-seas-dreht-nach-schlaegerei-am-kinderpool-um-a-4d5d93b6-5d41-4f31-86f4-9631761c192f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/melbourne-autralien-sieben-teenager-wegen-mordes-an-zwei-jugendlichen-angeklagt](https://www.spiegel.de/panorama/justiz/melbourne-autralien-sieben-teenager-wegen-mordes-an-zwei-jugendlichen-angeklagt-a-ea1b46f0-a4cf-44c7-9035-0b13771d5d8e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/afghanistan-taliban-lassen-britisches-ehepaar-nach-vermittlung-durch-katar-frei](https://www.spiegel.de/panorama/justiz/afghanistan-taliban-lassen-britisches-ehepaar-nach-vermittlung-durch-katar-frei-a-db0b1b88-fe5b-432d-9f7c-5ac889ae55e4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/alkohol-was-unser-feierabendbier-mit-den-vorlieben-der-schimpansen-zu-tun-hat](https://www.spiegel.de/wissenschaft/natur/alkohol-was-unser-feierabendbier-mit-den-vorlieben-der-schimpansen-zu-tun-hat-a-1985c2ff-b0bf-4337-a018-c4d395402f66#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/justiz/melbourne-autralien-sieben-teenager-wegen-mordes-an-zwei-jugendlichen-angeklagt](https://www.spiegel.de/panorama/justiz/melbourne-autralien-sieben-teenager-wegen-mordes-an-zwei-jugendlichen-angeklagt-a-ea1b46f0-a4cf-44c7-9035-0b13771d5d8e#ref=rss)
+* [https://www.spiegel.de/kultur/musik/madonna-kuendigt-mit-confessions-2-ein-neues-album-an](https://www.spiegel.de/kultur/musik/madonna-kuendigt-mit-confessions-2-ein-neues-album-an-a-be0fa0d1-181b-4bdd-bb6c-1617bccc79b1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-handel-zoelle-druecken-deutschen-export-ueberschuss](https://www.spiegel.de/wirtschaft/usa-handel-zoelle-druecken-deutschen-export-ueberschuss-a-1547bd73-c809-4ffe-8a08-36e97f48dae6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-erstmals-weniger-gefluechtete-in-deutschland-seit-2011](https://www.spiegel.de/politik/deutschland/migration-erstmals-weniger-gefluechtete-in-deutschland-seit-2011-a-92fc00a6-045c-4733-8b88-cc75066c2a55#ref=rss)
+### taliban
+
+* [https://www.spiegel.de/panorama/justiz/afghanistan-taliban-lassen-britisches-ehepaar-nach-vermittlung-durch-katar-frei](https://www.spiegel.de/panorama/justiz/afghanistan-taliban-lassen-britisches-ehepaar-nach-vermittlung-durch-katar-frei-a-db0b1b88-fe5b-432d-9f7c-5ac889ae55e4#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-verbannen-offenbar-buecher-von-frauen-aus-universitaeten](https://www.spiegel.de/ausland/afghanistan-taliban-verbannen-offenbar-buecher-von-frauen-aus-universitaeten-a-5ddafeeb-99f5-4c40-af21-e966e8c08b14#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/afghanistan-taliban-verbannen-offenbar-buecher-von-frauen-aus-universitaeten](https://www.spiegel.de/ausland/afghanistan-taliban-verbannen-offenbar-buecher-von-frauen-aus-universitaeten-a-5ddafeeb-99f5-4c40-af21-e966e8c08b14#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge](https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge-a-aa940c6c-4684-4f95-bba9-8fbbcecc6048#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-taiwan-vor-telefonat-mit-xi-jinping-offenbar-militaerhilfe-verweigern](https://www.spiegel.de/ausland/donald-trump-will-taiwan-vor-telefonat-mit-xi-jinping-offenbar-militaerhilfe-verweigern-a-3c4011c2-dc20-4b30-8526-85f01e2f3cc9#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden](https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden-a-c455920b-cdbd-4f42-ac75-c923aa70562b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/intervision-so-wird-russlands-gegen-esc-in-moskau](https://www.spiegel.de/kultur/musik/intervision-so-wird-russlands-gegen-esc-in-moskau-a-88d34a58-7ba0-4c11-a658-3db51acf469f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-handel-zoelle-druecken-deutschen-export-ueberschuss](https://www.spiegel.de/wirtschaft/usa-handel-zoelle-druecken-deutschen-export-ueberschuss-a-1547bd73-c809-4ffe-8a08-36e97f48dae6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung](https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung-a-85e67d23-5045-4169-b61a-14a1a69659a4#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/usa-palaestina-aktivist-mahmoud-khalil-droht-abschiebung-nach-syrien-oder-algerien](https://www.spiegel.de/ausland/usa-palaestina-aktivist-mahmoud-khalil-droht-abschiebung-nach-syrien-oder-algerien-a-c6a23b4a-ad34-4106-aa52-9eaa0b26f818#ref=rss)
-* [https://www.spiegel.de/politik/upahl-in-mecklenburg-container-asylunterkunft-wird-geraeumt-und-abgebaut](https://www.spiegel.de/politik/upahl-in-mecklenburg-container-asylunterkunft-wird-geraeumt-und-abgebaut-a-c2fb9440-8144-4b8b-9a8e-8645fdc6141e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/ecuador-bernstein-liefert-forschern-neue-erkenntnisse-zum-leben-auf-superkontinent-gondwana](https://www.spiegel.de/wissenschaft/natur/ecuador-bernstein-liefert-forschern-neue-erkenntnisse-zum-leben-auf-superkontinent-gondwana-a-16144501-7de1-4818-bbe4-e7490a84bcdb#ref=rss)
-### wladimir
+* [https://www.spiegel.de/wirtschaft/usa-handel-zoelle-druecken-deutschen-export-ueberschuss](https://www.spiegel.de/wirtschaft/usa-handel-zoelle-druecken-deutschen-export-ueberschuss-a-1547bd73-c809-4ffe-8a08-36e97f48dae6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung](https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung-a-85e67d23-5045-4169-b61a-14a1a69659a4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-unbekannte-zerstechen-reifen-von-mehr-als-260-autos](https://www.spiegel.de/panorama/justiz/bremen-unbekannte-zerstechen-reifen-von-mehr-als-260-autos-a-404dd23b-b272-47d5-8723-fdbf3f405c27#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-erstmals-weniger-gefluechtete-in-deutschland-seit-2011](https://www.spiegel.de/politik/deutschland/migration-erstmals-weniger-gefluechtete-in-deutschland-seit-2011-a-92fc00a6-045c-4733-8b88-cc75066c2a55#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/donald-trump-sagt-wladimir-putin-toete-viele-menschen-im-ukraine-krieg](https://www.spiegel.de/ausland/donald-trump-sagt-wladimir-putin-toete-viele-menschen-im-ukraine-krieg-a-f59ba387-33e7-4cbe-8496-082a60011607#ref=rss)
-* [https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile](https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile-a-60bd6529-2032-4c6a-884e-1d1a2e533ed7#ref=rss)
-### putin
+* [https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung](https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung-a-85e67d23-5045-4169-b61a-14a1a69659a4#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-taiwan-vor-telefonat-mit-xi-jinping-offenbar-militaerhilfe-verweigern](https://www.spiegel.de/ausland/donald-trump-will-taiwan-vor-telefonat-mit-xi-jinping-offenbar-militaerhilfe-verweigern-a-3c4011c2-dc20-4b30-8526-85f01e2f3cc9#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/donald-trump-sagt-wladimir-putin-toete-viele-menschen-im-ukraine-krieg](https://www.spiegel.de/ausland/donald-trump-sagt-wladimir-putin-toete-viele-menschen-im-ukraine-krieg-a-f59ba387-33e7-4cbe-8496-082a60011607#ref=rss)
-* [https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile](https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile-a-60bd6529-2032-4c6a-884e-1d1a2e533ed7#ref=rss)
-### israel
+* [https://www.spiegel.de/panorama/berlin-tausende-menschen-muessen-wegen-weltkriegsbomben-in-mitte-und-spandau-wohnungen-verlassen](https://www.spiegel.de/panorama/berlin-tausende-menschen-muessen-wegen-weltkriegsbomben-in-mitte-und-spandau-wohnungen-verlassen-a-2e1ad83c-e147-4415-8eb0-8fc3c4b95a9a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-unbekannte-zerstechen-reifen-von-mehr-als-260-autos](https://www.spiegel.de/panorama/justiz/bremen-unbekannte-zerstechen-reifen-von-mehr-als-260-autos-a-404dd23b-b272-47d5-8723-fdbf3f405c27#ref=rss)
+* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-proteste-nach-absetzung-auf-dem-hollywood-boulevard](https://www.spiegel.de/kultur/tv/jimmy-kimmel-proteste-nach-absetzung-auf-dem-hollywood-boulevard-a-c8183fa8-c4fc-4052-95e1-574bac78e7dc#ref=rss)
+### laut
 
-* [https://www.spiegel.de/ausland/israel-westjordanland-zwei-tote-nach-schuessen-an-grenze-zu-jordanien](https://www.spiegel.de/ausland/israel-westjordanland-zwei-tote-nach-schuessen-an-grenze-zu-jordanien-a-07737ecc-3b05-4d7b-b77c-8a4da387030f#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-und-israel-stehen-offenbar-unmittelbar-vor-diplomatischer-annaeherung](https://www.spiegel.de/ausland/syrien-und-israel-stehen-offenbar-unmittelbar-vor-diplomatischer-annaeherung-a-c1c172e6-ee77-4a6b-b13b-40b39c417ea1#ref=rss)
-### westjordanland
+* [https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen](https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen-a-14155d58-8bd8-4d47-9195-768f104751c4#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-verbannen-offenbar-buecher-von-frauen-aus-universitaeten](https://www.spiegel.de/ausland/afghanistan-taliban-verbannen-offenbar-buecher-von-frauen-aus-universitaeten-a-5ddafeeb-99f5-4c40-af21-e966e8c08b14#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-taiwan-vor-telefonat-mit-xi-jinping-offenbar-militaerhilfe-verweigern](https://www.spiegel.de/ausland/donald-trump-will-taiwan-vor-telefonat-mit-xi-jinping-offenbar-militaerhilfe-verweigern-a-3c4011c2-dc20-4b30-8526-85f01e2f3cc9#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/ausland/israel-westjordanland-zwei-tote-nach-schuessen-an-grenze-zu-jordanien](https://www.spiegel.de/ausland/israel-westjordanland-zwei-tote-nach-schuessen-an-grenze-zu-jordanien-a-07737ecc-3b05-4d7b-b77c-8a4da387030f#ref=rss)
-### frau
+* [https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen](https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen-a-14155d58-8bd8-4d47-9195-768f104751c4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/alkohol-was-unser-feierabendbier-mit-den-vorlieben-der-schimpansen-zu-tun-hat](https://www.spiegel.de/wissenschaft/natur/alkohol-was-unser-feierabendbier-mit-den-vorlieben-der-schimpansen-zu-tun-hat-a-1985c2ff-b0bf-4337-a018-c4d395402f66#ref=rss)
+* [https://www.spiegel.de/kultur/im-only-f-king-myself-von-lola-young-sie-will-nur-das-eine](https://www.spiegel.de/kultur/im-only-f-king-myself-von-lola-young-sie-will-nur-das-eine-a-1036278c-e302-48ac-9e20-5c054b4ed054#ref=rss)
+### ganz
 
-* [https://www.spiegel.de/panorama/justiz/darmstadt-frau-stirbt-nach-stichverletzungen](https://www.spiegel.de/panorama/justiz/darmstadt-frau-stirbt-nach-stichverletzungen-a-cb88b2f6-de5e-42c7-8730-28a62eef10b8#ref=rss)
-* [https://www.spiegel.de/kultur/pablo-picasso-unbekanntes-gemaelde-erstmals-der-oeffentlichkeit-praesentiert](https://www.spiegel.de/kultur/pablo-picasso-unbekanntes-gemaelde-erstmals-der-oeffentlichkeit-praesentiert-a-d63e6320-c653-447e-97fb-439d147e1291#ref=rss)
-### tod
+* [https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen](https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen-a-14155d58-8bd8-4d47-9195-768f104751c4#ref=rss)
+* [https://www.spiegel.de/kultur/tv/polizeiruf-aus-magdeburg-sie-sind-unter-uns-mit-claudia-michelsen](https://www.spiegel.de/kultur/tv/polizeiruf-aus-magdeburg-sie-sind-unter-uns-mit-claudia-michelsen-a-0f4c38e8-7fee-4963-bd26-1e53ecbaef49#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge](https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge-a-aa940c6c-4684-4f95-bba9-8fbbcecc6048#ref=rss)
+### uns
 
-* [https://www.spiegel.de/panorama/justiz/xatar-ermittlungen-zum-tod-des-rappers-eingestellt](https://www.spiegel.de/panorama/justiz/xatar-ermittlungen-zum-tod-des-rappers-eingestellt-a-8a978ac7-47a0-42fa-af41-5ed4142a15d6#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt](https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt-a-7564977b-ca57-4335-bda9-df001968b750#ref=rss)
-### heidi
+* [https://www.spiegel.de/kultur/tv/polizeiruf-aus-magdeburg-sie-sind-unter-uns-mit-claudia-michelsen](https://www.spiegel.de/kultur/tv/polizeiruf-aus-magdeburg-sie-sind-unter-uns-mit-claudia-michelsen-a-0f4c38e8-7fee-4963-bd26-1e53ecbaef49#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/trappist-1-e-exoplanet-bleibt-kandidat-fuer-erdaehnliche-welt](https://www.spiegel.de/wissenschaft/weltall/trappist-1-e-exoplanet-bleibt-kandidat-fuer-erdaehnliche-welt-a-c6682620-c042-44ab-a5d4-2d72cfa263ad#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung](https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung-a-85e67d23-5045-4169-b61a-14a1a69659a4#ref=rss)
+### afghanistan
 
-* [https://www.spiegel.de/politik/heidi-reichinnek-im-talk-wie-soll-ihr-sozialismus-funktionieren](https://www.spiegel.de/politik/heidi-reichinnek-im-talk-wie-soll-ihr-sozialismus-funktionieren-a-75687b0a-22a6-4e17-a9ff-62f5eded450c#ref=rss)
-### reichinnek
+* [https://www.spiegel.de/panorama/justiz/afghanistan-taliban-lassen-britisches-ehepaar-nach-vermittlung-durch-katar-frei](https://www.spiegel.de/panorama/justiz/afghanistan-taliban-lassen-britisches-ehepaar-nach-vermittlung-durch-katar-frei-a-db0b1b88-fe5b-432d-9f7c-5ac889ae55e4#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-verbannen-offenbar-buecher-von-frauen-aus-universitaeten](https://www.spiegel.de/ausland/afghanistan-taliban-verbannen-offenbar-buecher-von-frauen-aus-universitaeten-a-5ddafeeb-99f5-4c40-af21-e966e8c08b14#ref=rss)
+### verlassen
 
-* [https://www.spiegel.de/politik/heidi-reichinnek-im-talk-wie-soll-ihr-sozialismus-funktionieren](https://www.spiegel.de/politik/heidi-reichinnek-im-talk-wie-soll-ihr-sozialismus-funktionieren-a-75687b0a-22a6-4e17-a9ff-62f5eded450c#ref=rss)
-### attentat
+* [https://www.spiegel.de/panorama/justiz/afghanistan-taliban-lassen-britisches-ehepaar-nach-vermittlung-durch-katar-frei](https://www.spiegel.de/panorama/justiz/afghanistan-taliban-lassen-britisches-ehepaar-nach-vermittlung-durch-katar-frei-a-db0b1b88-fe5b-432d-9f7c-5ac889ae55e4#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-tausende-menschen-muessen-wegen-weltkriegsbomben-in-mitte-und-spandau-wohnungen-verlassen](https://www.spiegel.de/panorama/berlin-tausende-menschen-muessen-wegen-weltkriegsbomben-in-mitte-und-spandau-wohnungen-verlassen-a-2e1ad83c-e147-4415-8eb0-8fc3c4b95a9a#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/politik/heidi-reichinnek-im-talk-wie-soll-ihr-sozialismus-funktionieren](https://www.spiegel.de/politik/heidi-reichinnek-im-talk-wie-soll-ihr-sozialismus-funktionieren-a-75687b0a-22a6-4e17-a9ff-62f5eded450c#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt](https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt-a-7564977b-ca57-4335-bda9-df001968b750#ref=rss)
-### moderatorin
+* [https://www.spiegel.de/ausland/afghanistan-taliban-verbannen-offenbar-buecher-von-frauen-aus-universitaeten](https://www.spiegel.de/ausland/afghanistan-taliban-verbannen-offenbar-buecher-von-frauen-aus-universitaeten-a-5ddafeeb-99f5-4c40-af21-e966e8c08b14#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-eintracht-frankfurt-unterliegt-real-madrid-und-ist-raus](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-eintracht-frankfurt-unterliegt-real-madrid-und-ist-raus-a-d5055c49-5a65-480d-9683-f6e100ef65bc#ref=rss)
+### viele
 
-* [https://www.spiegel.de/kultur/ndr-julia-ruhs-aeussert-kritik-nach-absetzung-als-moderatorin](https://www.spiegel.de/kultur/ndr-julia-ruhs-aeussert-kritik-nach-absetzung-als-moderatorin-a-6c67fd2f-f0f0-4b0d-af22-58a8ec1db288#ref=rss)
-### ohne
+* [https://www.spiegel.de/ausland/afghanistan-taliban-verbannen-offenbar-buecher-von-frauen-aus-universitaeten](https://www.spiegel.de/ausland/afghanistan-taliban-verbannen-offenbar-buecher-von-frauen-aus-universitaeten-a-5ddafeeb-99f5-4c40-af21-e966e8c08b14#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden](https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden-a-c455920b-cdbd-4f42-ac75-c923aa70562b#ref=rss)
+### alkohol
 
-* [https://www.spiegel.de/kultur/ndr-julia-ruhs-aeussert-kritik-nach-absetzung-als-moderatorin](https://www.spiegel.de/kultur/ndr-julia-ruhs-aeussert-kritik-nach-absetzung-als-moderatorin-a-6c67fd2f-f0f0-4b0d-af22-58a8ec1db288#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimakrise-laesst-korallenriffe-sterben](https://www.spiegel.de/wissenschaft/natur/klimakrise-laesst-korallenriffe-sterben-a-a7293ed7-b4d0-419d-b36e-f56e1307baf2#ref=rss)
-### wirft
+* [https://www.spiegel.de/wissenschaft/natur/alkohol-was-unser-feierabendbier-mit-den-vorlieben-der-schimpansen-zu-tun-hat](https://www.spiegel.de/wissenschaft/natur/alkohol-was-unser-feierabendbier-mit-den-vorlieben-der-schimpansen-zu-tun-hat-a-1985c2ff-b0bf-4337-a018-c4d395402f66#ref=rss)
+### köln
 
-* [https://www.spiegel.de/kultur/ndr-julia-ruhs-aeussert-kritik-nach-absetzung-als-moderatorin](https://www.spiegel.de/kultur/ndr-julia-ruhs-aeussert-kritik-nach-absetzung-als-moderatorin-a-6c67fd2f-f0f0-4b0d-af22-58a8ec1db288#ref=rss)
-* [https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor](https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor-a-4f814e84-4cce-4392-a0c3-ad26ead3037a#ref=rss)
-### katholischer
+* [https://www.spiegel.de/deinspiegel/luna-halle-in-koeln-trainingsanlage-fuer-raumfahrende-mal-eben-zum-mond](https://www.spiegel.de/deinspiegel/luna-halle-in-koeln-trainingsanlage-fuer-raumfahrende-mal-eben-zum-mond-a-b4100ebc-f9db-4472-806b-871bd7fd1dbe#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge](https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge-a-aa940c6c-4684-4f95-bba9-8fbbcecc6048#ref=rss)
+### übernimmt
 
-* [https://www.spiegel.de/ausland/katholischer-pfarrer-berichtet-von-bombardements-und-vielen-toten-in-gaza-stadt](https://www.spiegel.de/ausland/katholischer-pfarrer-berichtet-von-bombardements-und-vielen-toten-in-gaza-stadt-a-708ea81e-2c10-4686-8192-12a15a36c27f#ref=rss)
-### pfarrer
-
-* [https://www.spiegel.de/ausland/katholischer-pfarrer-berichtet-von-bombardements-und-vielen-toten-in-gaza-stadt](https://www.spiegel.de/ausland/katholischer-pfarrer-berichtet-von-bombardements-und-vielen-toten-in-gaza-stadt-a-708ea81e-2c10-4686-8192-12a15a36c27f#ref=rss)
-### gazastadt
-
-* [https://www.spiegel.de/ausland/katholischer-pfarrer-berichtet-von-bombardements-und-vielen-toten-in-gaza-stadt](https://www.spiegel.de/ausland/katholischer-pfarrer-berichtet-von-bombardements-und-vielen-toten-in-gaza-stadt-a-708ea81e-2c10-4686-8192-12a15a36c27f#ref=rss)
-### barack
-
-* [https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor](https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor-a-4f814e84-4cce-4392-a0c3-ad26ead3037a#ref=rss)
-### obama
-
-* [https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor](https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor-a-4f814e84-4cce-4392-a0c3-ad26ead3037a#ref=rss)
-### cancelculture
-
-* [https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor](https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor-a-4f814e84-4cce-4392-a0c3-ad26ead3037a#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor](https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor-a-4f814e84-4cce-4392-a0c3-ad26ead3037a#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump](https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump-a-00b7b900-a5c8-441f-b2e3-5371d356948c#ref=rss)
-### druck
-
-* [https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor](https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor-a-4f814e84-4cce-4392-a0c3-ad26ead3037a#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump](https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump-a-00b7b900-a5c8-441f-b2e3-5371d356948c#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor](https://www.spiegel.de/ausland/jimmy-kimmel-barack-obama-wirft-donald-trump-regierung-gefaehrliche-cancel-culture-vor-a-4f814e84-4cce-4392-a0c3-ad26ead3037a#ref=rss)
-* [https://www.spiegel.de/panorama/95-jaehrige-soll-mitbewohnerin-in-new-yorker-altersheim-zu-tode-gepruegelt-haben](https://www.spiegel.de/panorama/95-jaehrige-soll-mitbewohnerin-in-new-yorker-altersheim-zu-tode-gepruegelt-haben-a-d80d915c-5e91-441f-9099-9c6e4e5f8f12#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge](https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge-a-aa940c6c-4684-4f95-bba9-8fbbcecc6048#ref=rss)
+* [https://www.spiegel.de/sport/tennis/sabine-lisicki-uebernimmt-rolle-bei-rtl-serie-alles-was-zaehlt](https://www.spiegel.de/sport/tennis/sabine-lisicki-uebernimmt-rolle-bei-rtl-serie-alles-was-zaehlt-a-085d1034-2995-4a04-8965-3d0f550be433#ref=rss)
 ### zurück
 
-* [https://www.spiegel.de/ausland/donald-trump-will-bagram-basis-in-afghanistan-von-den-taliban-zurueck](https://www.spiegel.de/ausland/donald-trump-will-bagram-basis-in-afghanistan-von-den-taliban-zurueck-a-99c8925a-5af7-4ded-8605-d35ff516af0d#ref=rss)
-### new
+* [https://www.spiegel.de/kultur/musik/madonna-kuendigt-mit-confessions-2-ein-neues-album-an](https://www.spiegel.de/kultur/musik/madonna-kuendigt-mit-confessions-2-ein-neues-album-an-a-be0fa0d1-181b-4bdd-bb6c-1617bccc79b1#ref=rss)
+* [https://www.spiegel.de/kultur/musik/intervision-so-wird-russlands-gegen-esc-in-moskau](https://www.spiegel.de/kultur/musik/intervision-so-wird-russlands-gegen-esc-in-moskau-a-88d34a58-7ba0-4c11-a658-3db51acf469f#ref=rss)
+### europa
 
-* [https://www.spiegel.de/panorama/95-jaehrige-soll-mitbewohnerin-in-new-yorker-altersheim-zu-tode-gepruegelt-haben](https://www.spiegel.de/panorama/95-jaehrige-soll-mitbewohnerin-in-new-yorker-altersheim-zu-tode-gepruegelt-haben-a-d80d915c-5e91-441f-9099-9c6e4e5f8f12#ref=rss)
-### yorker
+* [https://www.spiegel.de/wissenschaft/waldbraende-in-europa-feuer-setzen-in-europa-rekordmenge-an-co2-frei](https://www.spiegel.de/wissenschaft/waldbraende-in-europa-feuer-setzen-in-europa-rekordmenge-an-co2-frei-a-07dfaac3-be69-48e6-bc67-f4cac09330c8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung](https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung-a-85e67d23-5045-4169-b61a-14a1a69659a4#ref=rss)
+### jimmy
 
-* [https://www.spiegel.de/panorama/95-jaehrige-soll-mitbewohnerin-in-new-yorker-altersheim-zu-tode-gepruegelt-haben](https://www.spiegel.de/panorama/95-jaehrige-soll-mitbewohnerin-in-new-yorker-altersheim-zu-tode-gepruegelt-haben-a-d80d915c-5e91-441f-9099-9c6e4e5f8f12#ref=rss)
-### altersheim
+* [https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung](https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung-a-85e67d23-5045-4169-b61a-14a1a69659a4#ref=rss)
+* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-proteste-nach-absetzung-auf-dem-hollywood-boulevard](https://www.spiegel.de/kultur/tv/jimmy-kimmel-proteste-nach-absetzung-auf-dem-hollywood-boulevard-a-c8183fa8-c4fc-4052-95e1-574bac78e7dc#ref=rss)
+### afd
 
-* [https://www.spiegel.de/panorama/95-jaehrige-soll-mitbewohnerin-in-new-yorker-altersheim-zu-tode-gepruegelt-haben](https://www.spiegel.de/panorama/95-jaehrige-soll-mitbewohnerin-in-new-yorker-altersheim-zu-tode-gepruegelt-haben-a-d80d915c-5e91-441f-9099-9c6e4e5f8f12#ref=rss)
-### mahmoud
+* [https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen](https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen-a-14155d58-8bd8-4d47-9195-768f104751c4#ref=rss)
+### zdfumfrage
 
-* [https://www.spiegel.de/ausland/usa-palaestina-aktivist-mahmoud-khalil-droht-abschiebung-nach-syrien-oder-algerien](https://www.spiegel.de/ausland/usa-palaestina-aktivist-mahmoud-khalil-droht-abschiebung-nach-syrien-oder-algerien-a-c6a23b4a-ad34-4106-aa52-9eaa0b26f818#ref=rss)
-### khalil
+* [https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen](https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen-a-14155d58-8bd8-4d47-9195-768f104751c4#ref=rss)
+### gleichauf
 
-* [https://www.spiegel.de/ausland/usa-palaestina-aktivist-mahmoud-khalil-droht-abschiebung-nach-syrien-oder-algerien](https://www.spiegel.de/ausland/usa-palaestina-aktivist-mahmoud-khalil-droht-abschiebung-nach-syrien-oder-algerien-a-c6a23b4a-ad34-4106-aa52-9eaa0b26f818#ref=rss)
-### syrien
+* [https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen](https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen-a-14155d58-8bd8-4d47-9195-768f104751c4#ref=rss)
+### anders
 
-* [https://www.spiegel.de/ausland/usa-palaestina-aktivist-mahmoud-khalil-droht-abschiebung-nach-syrien-oder-algerien](https://www.spiegel.de/ausland/usa-palaestina-aktivist-mahmoud-khalil-droht-abschiebung-nach-syrien-oder-algerien-a-c6a23b4a-ad34-4106-aa52-9eaa0b26f818#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-und-israel-stehen-offenbar-unmittelbar-vor-diplomatischer-annaeherung](https://www.spiegel.de/ausland/syrien-und-israel-stehen-offenbar-unmittelbar-vor-diplomatischer-annaeherung-a-c1c172e6-ee77-4a6b-b13b-40b39c417ea1#ref=rss)
-### sagt
+* [https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen](https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen-a-14155d58-8bd8-4d47-9195-768f104751c4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden](https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden-a-c455920b-cdbd-4f42-ac75-c923aa70562b#ref=rss)
+### polizeiruf
 
-* [https://www.spiegel.de/ausland/donald-trump-sagt-wladimir-putin-toete-viele-menschen-im-ukraine-krieg](https://www.spiegel.de/ausland/donald-trump-sagt-wladimir-putin-toete-viele-menschen-im-ukraine-krieg-a-f59ba387-33e7-4cbe-8496-082a60011607#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-und-israel-stehen-offenbar-unmittelbar-vor-diplomatischer-annaeherung](https://www.spiegel.de/ausland/syrien-und-israel-stehen-offenbar-unmittelbar-vor-diplomatischer-annaeherung-a-c1c172e6-ee77-4a6b-b13b-40b39c417ea1#ref=rss)
-### ukrainekrieg
+* [https://www.spiegel.de/kultur/tv/polizeiruf-aus-magdeburg-sie-sind-unter-uns-mit-claudia-michelsen](https://www.spiegel.de/kultur/tv/polizeiruf-aus-magdeburg-sie-sind-unter-uns-mit-claudia-michelsen-a-0f4c38e8-7fee-4963-bd26-1e53ecbaef49#ref=rss)
+### trappist1
 
-* [https://www.spiegel.de/ausland/donald-trump-sagt-wladimir-putin-toete-viele-menschen-im-ukraine-krieg](https://www.spiegel.de/ausland/donald-trump-sagt-wladimir-putin-toete-viele-menschen-im-ukraine-krieg-a-f59ba387-33e7-4cbe-8496-082a60011607#ref=rss)
-* [https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile](https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile-a-60bd6529-2032-4c6a-884e-1d1a2e533ed7#ref=rss)
-### jordanien
+* [https://www.spiegel.de/wissenschaft/weltall/trappist-1-e-exoplanet-bleibt-kandidat-fuer-erdaehnliche-welt](https://www.spiegel.de/wissenschaft/weltall/trappist-1-e-exoplanet-bleibt-kandidat-fuer-erdaehnliche-welt-a-c6682620-c042-44ab-a5d4-2d72cfa263ad#ref=rss)
+### e
 
-* [https://www.spiegel.de/ausland/israel-westjordanland-zwei-tote-nach-schuessen-an-grenze-zu-jordanien](https://www.spiegel.de/ausland/israel-westjordanland-zwei-tote-nach-schuessen-an-grenze-zu-jordanien-a-07737ecc-3b05-4d7b-b77c-8a4da387030f#ref=rss)
-### lage
+* [https://www.spiegel.de/wissenschaft/weltall/trappist-1-e-exoplanet-bleibt-kandidat-fuer-erdaehnliche-welt](https://www.spiegel.de/wissenschaft/weltall/trappist-1-e-exoplanet-bleibt-kandidat-fuer-erdaehnliche-welt-a-c6682620-c042-44ab-a5d4-2d72cfa263ad#ref=rss)
+### liegt
 
-* [https://www.spiegel.de/ausland/israel-westjordanland-zwei-tote-nach-schuessen-an-grenze-zu-jordanien](https://www.spiegel.de/ausland/israel-westjordanland-zwei-tote-nach-schuessen-an-grenze-zu-jordanien-a-07737ecc-3b05-4d7b-b77c-8a4da387030f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik](https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik-a-315016fd-aecb-47a2-95fd-886f5f731fe6#ref=rss)
-### darmstadt
+* [https://www.spiegel.de/wissenschaft/weltall/trappist-1-e-exoplanet-bleibt-kandidat-fuer-erdaehnliche-welt](https://www.spiegel.de/wissenschaft/weltall/trappist-1-e-exoplanet-bleibt-kandidat-fuer-erdaehnliche-welt-a-c6682620-c042-44ab-a5d4-2d72cfa263ad#ref=rss)
+* [https://www.spiegel.de/sport/radsport/radsport-wm-in-ruanda-das-geschaeft-der-zukunft-liegt-in-afrika](https://www.spiegel.de/sport/radsport/radsport-wm-in-ruanda-das-geschaeft-der-zukunft-liegt-in-afrika-a-c7d2950e-07e7-415b-b99f-4a553c4383d8#ref=rss)
+### erde
 
-* [https://www.spiegel.de/panorama/justiz/darmstadt-frau-stirbt-nach-stichverletzungen](https://www.spiegel.de/panorama/justiz/darmstadt-frau-stirbt-nach-stichverletzungen-a-cb88b2f6-de5e-42c7-8730-28a62eef10b8#ref=rss)
-### stichverletzungen
+* [https://www.spiegel.de/wissenschaft/weltall/trappist-1-e-exoplanet-bleibt-kandidat-fuer-erdaehnliche-welt](https://www.spiegel.de/wissenschaft/weltall/trappist-1-e-exoplanet-bleibt-kandidat-fuer-erdaehnliche-welt-a-c6682620-c042-44ab-a5d4-2d72cfa263ad#ref=rss)
+* [https://www.spiegel.de/deinspiegel/luna-halle-in-koeln-trainingsanlage-fuer-raumfahrende-mal-eben-zum-mond](https://www.spiegel.de/deinspiegel/luna-halle-in-koeln-trainingsanlage-fuer-raumfahrende-mal-eben-zum-mond-a-b4100ebc-f9db-4472-806b-871bd7fd1dbe#ref=rss)
+### blicken
 
-* [https://www.spiegel.de/panorama/justiz/darmstadt-frau-stirbt-nach-stichverletzungen](https://www.spiegel.de/panorama/justiz/darmstadt-frau-stirbt-nach-stichverletzungen-a-cb88b2f6-de5e-42c7-8730-28a62eef10b8#ref=rss)
-### behörden
+* [https://www.spiegel.de/wissenschaft/weltall/trappist-1-e-exoplanet-bleibt-kandidat-fuer-erdaehnliche-welt](https://www.spiegel.de/wissenschaft/weltall/trappist-1-e-exoplanet-bleibt-kandidat-fuer-erdaehnliche-welt-a-c6682620-c042-44ab-a5d4-2d72cfa263ad#ref=rss)
+* [https://www.spiegel.de/wissenschaft/waldbraende-in-europa-feuer-setzen-in-europa-rekordmenge-an-co2-frei](https://www.spiegel.de/wissenschaft/waldbraende-in-europa-feuer-setzen-in-europa-rekordmenge-an-co2-frei-a-07dfaac3-be69-48e6-bc67-f4cac09330c8#ref=rss)
+### melbourne
 
-* [https://www.spiegel.de/panorama/justiz/darmstadt-frau-stirbt-nach-stichverletzungen](https://www.spiegel.de/panorama/justiz/darmstadt-frau-stirbt-nach-stichverletzungen-a-cb88b2f6-de5e-42c7-8730-28a62eef10b8#ref=rss)
-* [https://www.spiegel.de/panorama/kreuzfahrtschiff-in-miami-wonder-of-the-seas-dreht-nach-schlaegerei-am-kinderpool-um](https://www.spiegel.de/panorama/kreuzfahrtschiff-in-miami-wonder-of-the-seas-dreht-nach-schlaegerei-am-kinderpool-um-a-4d5d93b6-5d41-4f31-86f4-9631761c192f#ref=rss)
-### upahl
+* [https://www.spiegel.de/panorama/justiz/melbourne-autralien-sieben-teenager-wegen-mordes-an-zwei-jugendlichen-angeklagt](https://www.spiegel.de/panorama/justiz/melbourne-autralien-sieben-teenager-wegen-mordes-an-zwei-jugendlichen-angeklagt-a-ea1b46f0-a4cf-44c7-9035-0b13771d5d8e#ref=rss)
+### sieben
 
-* [https://www.spiegel.de/politik/upahl-in-mecklenburg-container-asylunterkunft-wird-geraeumt-und-abgebaut](https://www.spiegel.de/politik/upahl-in-mecklenburg-container-asylunterkunft-wird-geraeumt-und-abgebaut-a-c2fb9440-8144-4b8b-9a8e-8645fdc6141e#ref=rss)
-### tyler
+* [https://www.spiegel.de/panorama/justiz/melbourne-autralien-sieben-teenager-wegen-mordes-an-zwei-jugendlichen-angeklagt](https://www.spiegel.de/panorama/justiz/melbourne-autralien-sieben-teenager-wegen-mordes-an-zwei-jugendlichen-angeklagt-a-ea1b46f0-a4cf-44c7-9035-0b13771d5d8e#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump](https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump-a-00b7b900-a5c8-441f-b2e3-5371d356948c#ref=rss)
-### robinson
+* [https://www.spiegel.de/panorama/justiz/melbourne-autralien-sieben-teenager-wegen-mordes-an-zwei-jugendlichen-angeklagt](https://www.spiegel.de/panorama/justiz/melbourne-autralien-sieben-teenager-wegen-mordes-an-zwei-jugendlichen-angeklagt-a-ea1b46f0-a4cf-44c7-9035-0b13771d5d8e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-unbekannte-zerstechen-reifen-von-mehr-als-260-autos](https://www.spiegel.de/panorama/justiz/bremen-unbekannte-zerstechen-reifen-von-mehr-als-260-autos-a-404dd23b-b272-47d5-8723-fdbf3f405c27#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump](https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump-a-00b7b900-a5c8-441f-b2e3-5371d356948c#ref=rss)
-### ermittlungen
+* [https://www.spiegel.de/panorama/justiz/melbourne-autralien-sieben-teenager-wegen-mordes-an-zwei-jugendlichen-angeklagt](https://www.spiegel.de/panorama/justiz/melbourne-autralien-sieben-teenager-wegen-mordes-an-zwei-jugendlichen-angeklagt-a-ea1b46f0-a4cf-44c7-9035-0b13771d5d8e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/waldbraende-in-europa-feuer-setzen-in-europa-rekordmenge-an-co2-frei](https://www.spiegel.de/wissenschaft/waldbraende-in-europa-feuer-setzen-in-europa-rekordmenge-an-co2-frei-a-07dfaac3-be69-48e6-bc67-f4cac09330c8#ref=rss)
+### frei
 
-* [https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump](https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump-a-00b7b900-a5c8-441f-b2e3-5371d356948c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/xatar-ermittlungen-zum-tod-des-rappers-eingestellt](https://www.spiegel.de/panorama/justiz/xatar-ermittlungen-zum-tod-des-rappers-eingestellt-a-8a978ac7-47a0-42fa-af41-5ed4142a15d6#ref=rss)
-### erste
+* [https://www.spiegel.de/panorama/justiz/afghanistan-taliban-lassen-britisches-ehepaar-nach-vermittlung-durch-katar-frei](https://www.spiegel.de/panorama/justiz/afghanistan-taliban-lassen-britisches-ehepaar-nach-vermittlung-durch-katar-frei-a-db0b1b88-fe5b-432d-9f7c-5ac889ae55e4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/waldbraende-in-europa-feuer-setzen-in-europa-rekordmenge-an-co2-frei](https://www.spiegel.de/wissenschaft/waldbraende-in-europa-feuer-setzen-in-europa-rekordmenge-an-co2-frei-a-07dfaac3-be69-48e6-bc67-f4cac09330c8#ref=rss)
+### waren
 
-* [https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump](https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump-a-00b7b900-a5c8-441f-b2e3-5371d356948c#ref=rss)
-* [https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile](https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile-a-60bd6529-2032-4c6a-884e-1d1a2e533ed7#ref=rss)
-### nutzen
+* [https://www.spiegel.de/panorama/justiz/afghanistan-taliban-lassen-britisches-ehepaar-nach-vermittlung-durch-katar-frei](https://www.spiegel.de/panorama/justiz/afghanistan-taliban-lassen-britisches-ehepaar-nach-vermittlung-durch-katar-frei-a-db0b1b88-fe5b-432d-9f7c-5ac889ae55e4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-handel-zoelle-druecken-deutschen-export-ueberschuss](https://www.spiegel.de/wirtschaft/usa-handel-zoelle-druecken-deutschen-export-ueberschuss-a-1547bd73-c809-4ffe-8a08-36e97f48dae6#ref=rss)
+### britische
 
-* [https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump](https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump-a-00b7b900-a5c8-441f-b2e3-5371d356948c#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt](https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt-a-7564977b-ca57-4335-bda9-df001968b750#ref=rss)
-### debatte
+* [https://www.spiegel.de/panorama/justiz/afghanistan-taliban-lassen-britisches-ehepaar-nach-vermittlung-durch-katar-frei](https://www.spiegel.de/panorama/justiz/afghanistan-taliban-lassen-britisches-ehepaar-nach-vermittlung-durch-katar-frei-a-db0b1b88-fe5b-432d-9f7c-5ac889ae55e4#ref=rss)
+* [https://www.spiegel.de/kultur/im-only-f-king-myself-von-lola-young-sie-will-nur-das-eine](https://www.spiegel.de/kultur/im-only-f-king-myself-von-lola-young-sie-will-nur-das-eine-a-1036278c-e302-48ac-9e20-5c054b4ed054#ref=rss)
+### konnten
 
-* [https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump](https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump-a-00b7b900-a5c8-441f-b2e3-5371d356948c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik](https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik-a-315016fd-aecb-47a2-95fd-886f5f731fe6#ref=rss)
-### gegner
+* [https://www.spiegel.de/panorama/justiz/afghanistan-taliban-lassen-britisches-ehepaar-nach-vermittlung-durch-katar-frei](https://www.spiegel.de/panorama/justiz/afghanistan-taliban-lassen-britisches-ehepaar-nach-vermittlung-durch-katar-frei-a-db0b1b88-fe5b-432d-9f7c-5ac889ae55e4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden](https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden-a-c455920b-cdbd-4f42-ac75-c923aa70562b#ref=rss)
+### lewis
 
-* [https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump](https://www.spiegel.de/ausland/charlie-kirk-suche-nach-dem-motiv-von-tyler-robinson-feldzug-von-donald-trump-a-00b7b900-a5c8-441f-b2e3-5371d356948c#ref=rss)
-* [https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt](https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt-a-7564977b-ca57-4335-bda9-df001968b750#ref=rss)
-### eingestellt
+* [https://www.spiegel.de/sport/formel1/lewis-hamilton-formel-1-star-hat-alle-seine-autos-verkauft](https://www.spiegel.de/sport/formel1/lewis-hamilton-formel-1-star-hat-alle-seine-autos-verkauft-a-a2b77718-748c-4df1-9f50-00f3c1f25fb6#ref=rss)
+### hamilton
 
-* [https://www.spiegel.de/panorama/justiz/xatar-ermittlungen-zum-tod-des-rappers-eingestellt](https://www.spiegel.de/panorama/justiz/xatar-ermittlungen-zum-tod-des-rappers-eingestellt-a-8a978ac7-47a0-42fa-af41-5ed4142a15d6#ref=rss)
-### deutschlands
+* [https://www.spiegel.de/sport/formel1/lewis-hamilton-formel-1-star-hat-alle-seine-autos-verkauft](https://www.spiegel.de/sport/formel1/lewis-hamilton-formel-1-star-hat-alle-seine-autos-verkauft-a-a2b77718-748c-4df1-9f50-00f3c1f25fb6#ref=rss)
+### verkauft
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik](https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik-a-315016fd-aecb-47a2-95fd-886f5f731fe6#ref=rss)
-### israelpolitik
+* [https://www.spiegel.de/sport/formel1/lewis-hamilton-formel-1-star-hat-alle-seine-autos-verkauft](https://www.spiegel.de/sport/formel1/lewis-hamilton-formel-1-star-hat-alle-seine-autos-verkauft-a-a2b77718-748c-4df1-9f50-00f3c1f25fb6#ref=rss)
+### bücher
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik](https://www.spiegel.de/politik/deutschland/news-des-tages-meinungsfreiheit-in-gefahr-streit-ueber-deutschlands-israelpolitik-a-315016fd-aecb-47a2-95fd-886f5f731fe6#ref=rss)
-### ecuador
+* [https://www.spiegel.de/ausland/afghanistan-taliban-verbannen-offenbar-buecher-von-frauen-aus-universitaeten](https://www.spiegel.de/ausland/afghanistan-taliban-verbannen-offenbar-buecher-von-frauen-aus-universitaeten-a-5ddafeeb-99f5-4c40-af21-e966e8c08b14#ref=rss)
+### eva
 
-* [https://www.spiegel.de/wissenschaft/natur/ecuador-bernstein-liefert-forschern-neue-erkenntnisse-zum-leben-auf-superkontinent-gondwana](https://www.spiegel.de/wissenschaft/natur/ecuador-bernstein-liefert-forschern-neue-erkenntnisse-zum-leben-auf-superkontinent-gondwana-a-16144501-7de1-4818-bbe4-e7490a84bcdb#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/eva-pinkelnig-skispringerin-verpasst-nach-sturz-auf-olympia-schanze-winterspiele](https://www.spiegel.de/sport/wintersport/eva-pinkelnig-skispringerin-verpasst-nach-sturz-auf-olympia-schanze-winterspiele-a-69869e47-3cc4-4fde-83cc-da037a076fd5#ref=rss)
+### pinkelnig
+
+* [https://www.spiegel.de/sport/wintersport/eva-pinkelnig-skispringerin-verpasst-nach-sturz-auf-olympia-schanze-winterspiele](https://www.spiegel.de/sport/wintersport/eva-pinkelnig-skispringerin-verpasst-nach-sturz-auf-olympia-schanze-winterspiele-a-69869e47-3cc4-4fde-83cc-da037a076fd5#ref=rss)
+### knie
+
+* [https://www.spiegel.de/sport/wintersport/eva-pinkelnig-skispringerin-verpasst-nach-sturz-auf-olympia-schanze-winterspiele](https://www.spiegel.de/sport/wintersport/eva-pinkelnig-skispringerin-verpasst-nach-sturz-auf-olympia-schanze-winterspiele-a-69869e47-3cc4-4fde-83cc-da037a076fd5#ref=rss)
+### sorge
+
+* [https://www.spiegel.de/sport/wintersport/eva-pinkelnig-skispringerin-verpasst-nach-sturz-auf-olympia-schanze-winterspiele](https://www.spiegel.de/sport/wintersport/eva-pinkelnig-skispringerin-verpasst-nach-sturz-auf-olympia-schanze-winterspiele-a-69869e47-3cc4-4fde-83cc-da037a076fd5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/waldbraende-in-europa-feuer-setzen-in-europa-rekordmenge-an-co2-frei](https://www.spiegel.de/wissenschaft/waldbraende-in-europa-feuer-setzen-in-europa-rekordmenge-an-co2-frei-a-07dfaac3-be69-48e6-bc67-f4cac09330c8#ref=rss)
+### lange
+
+* [https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden](https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden-a-c455920b-cdbd-4f42-ac75-c923aa70562b#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-wie-lange-haelt-sich-keir-starmer-noch-im-amt](https://www.spiegel.de/ausland/grossbritannien-wie-lange-haelt-sich-keir-starmer-noch-im-amt-a-bc38d104-3662-4250-b5f7-6694b24d8857#ref=rss)
+### land
+
+* [https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden](https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden-a-c455920b-cdbd-4f42-ac75-c923aa70562b#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/yad-vashem-holocaust-gedenkstaette-soll-aussenstelle-in-deutschland-bekommen](https://www.spiegel.de/panorama/bildung/yad-vashem-holocaust-gedenkstaette-soll-aussenstelle-in-deutschland-bekommen-a-751a3278-95db-49ed-8c62-868f3d933530#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/wissenschaft/natur/ecuador-bernstein-liefert-forschern-neue-erkenntnisse-zum-leben-auf-superkontinent-gondwana](https://www.spiegel.de/wissenschaft/natur/ecuador-bernstein-liefert-forschern-neue-erkenntnisse-zum-leben-auf-superkontinent-gondwana-a-16144501-7de1-4818-bbe4-e7490a84bcdb#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/chatkontrolle-darum-wird-so-erbittert-um-neue-vorschriften-fuer-whatsapp-und-co-gestritten](https://www.spiegel.de/netzwelt/netzpolitik/chatkontrolle-darum-wird-so-erbittert-um-neue-vorschriften-fuer-whatsapp-und-co-gestritten-a-a730ec88-9d58-4289-8a57-c6ebf1e36c4c#ref=rss)
-### zeit
+* [https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden](https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden-a-c455920b-cdbd-4f42-ac75-c923aa70562b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge](https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge-a-aa940c6c-4684-4f95-bba9-8fbbcecc6048#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/wissenschaft/natur/ecuador-bernstein-liefert-forschern-neue-erkenntnisse-zum-leben-auf-superkontinent-gondwana](https://www.spiegel.de/wissenschaft/natur/ecuador-bernstein-liefert-forschern-neue-erkenntnisse-zum-leben-auf-superkontinent-gondwana-a-16144501-7de1-4818-bbe4-e7490a84bcdb#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-sydney-mclaughlin-levrone-weltmeisterin-ueber-400-meter](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-sydney-mclaughlin-levrone-weltmeisterin-ueber-400-meter-a-fb579fef-1315-4c76-873d-e7542ff6ec59#ref=rss)
-### beziehung
+* [https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden](https://www.spiegel.de/wirtschaft/soziales/soziale-mobilitaet-deutschland-verliert-bei-aufstiegschancen-an-boden-a-c455920b-cdbd-4f42-ac75-c923aa70562b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/alkohol-was-unser-feierabendbier-mit-den-vorlieben-der-schimpansen-zu-tun-hat](https://www.spiegel.de/wissenschaft/natur/alkohol-was-unser-feierabendbier-mit-den-vorlieben-der-schimpansen-zu-tun-hat-a-1985c2ff-b0bf-4337-a018-c4d395402f66#ref=rss)
+### schimpansen
 
-* [https://www.spiegel.de/wissenschaft/natur/ecuador-bernstein-liefert-forschern-neue-erkenntnisse-zum-leben-auf-superkontinent-gondwana](https://www.spiegel.de/wissenschaft/natur/ecuador-bernstein-liefert-forschern-neue-erkenntnisse-zum-leben-auf-superkontinent-gondwana-a-16144501-7de1-4818-bbe4-e7490a84bcdb#ref=rss)
-* [https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile](https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile-a-60bd6529-2032-4c6a-884e-1d1a2e533ed7#ref=rss)
-### insekten
+* [https://www.spiegel.de/wissenschaft/natur/alkohol-was-unser-feierabendbier-mit-den-vorlieben-der-schimpansen-zu-tun-hat](https://www.spiegel.de/wissenschaft/natur/alkohol-was-unser-feierabendbier-mit-den-vorlieben-der-schimpansen-zu-tun-hat-a-1985c2ff-b0bf-4337-a018-c4d395402f66#ref=rss)
+### lunahalle
 
-* [https://www.spiegel.de/wissenschaft/natur/ecuador-bernstein-liefert-forschern-neue-erkenntnisse-zum-leben-auf-superkontinent-gondwana](https://www.spiegel.de/wissenschaft/natur/ecuador-bernstein-liefert-forschern-neue-erkenntnisse-zum-leben-auf-superkontinent-gondwana-a-16144501-7de1-4818-bbe4-e7490a84bcdb#ref=rss)
-### stimmung
+* [https://www.spiegel.de/deinspiegel/luna-halle-in-koeln-trainingsanlage-fuer-raumfahrende-mal-eben-zum-mond](https://www.spiegel.de/deinspiegel/luna-halle-in-koeln-trainingsanlage-fuer-raumfahrende-mal-eben-zum-mond-a-b4100ebc-f9db-4472-806b-871bd7fd1dbe#ref=rss)
+### sarah
 
-* [https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt](https://www.spiegel.de/ausland/charlie-kirk-und-die-folgen-des-attentats-wie-donald-trump-die-stimmung-anheizt-a-7564977b-ca57-4335-bda9-df001968b750#ref=rss)
-### reise
+* [https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge](https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge-a-aa940c6c-4684-4f95-bba9-8fbbcecc6048#ref=rss)
+### engels
 
-* [https://www.spiegel.de/ausland/syrien-und-israel-stehen-offenbar-unmittelbar-vor-diplomatischer-annaeherung](https://www.spiegel.de/ausland/syrien-und-israel-stehen-offenbar-unmittelbar-vor-diplomatischer-annaeherung-a-c1c172e6-ee77-4a6b-b13b-40b39c417ea1#ref=rss)
-* [https://www.spiegel.de/panorama/kreuzfahrtschiff-in-miami-wonder-of-the-seas-dreht-nach-schlaegerei-am-kinderpool-um](https://www.spiegel.de/panorama/kreuzfahrtschiff-in-miami-wonder-of-the-seas-dreht-nach-schlaegerei-am-kinderpool-um-a-4d5d93b6-5d41-4f31-86f4-9631761c192f#ref=rss)
-### leichtathletikwm
+* [https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge](https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge-a-aa940c6c-4684-4f95-bba9-8fbbcecc6048#ref=rss)
+### moulin
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-julian-webers-verpasste-medaille-ein-wettkampf-wie-ein-unausweichlicher-unfall](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-julian-webers-verpasste-medaille-ein-wettkampf-wie-ein-unausweichlicher-unfall-a-3f3ee8cc-d442-4321-b6a3-098b7ebc3a24#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-sydney-mclaughlin-levrone-weltmeisterin-ueber-400-meter](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-sydney-mclaughlin-levrone-weltmeisterin-ueber-400-meter-a-fb579fef-1315-4c76-873d-e7542ff6ec59#ref=rss)
-### julian
+* [https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge](https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge-a-aa940c6c-4684-4f95-bba9-8fbbcecc6048#ref=rss)
+### rouge
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-julian-webers-verpasste-medaille-ein-wettkampf-wie-ein-unausweichlicher-unfall](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-julian-webers-verpasste-medaille-ein-wettkampf-wie-ein-unausweichlicher-unfall-a-3f3ee8cc-d442-4321-b6a3-098b7ebc3a24#ref=rss)
-### medaille
+* [https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge](https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge-a-aa940c6c-4684-4f95-bba9-8fbbcecc6048#ref=rss)
+### spielt
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-julian-webers-verpasste-medaille-ein-wettkampf-wie-ein-unausweichlicher-unfall](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-julian-webers-verpasste-medaille-ein-wettkampf-wie-ein-unausweichlicher-unfall-a-3f3ee8cc-d442-4321-b6a3-098b7ebc3a24#ref=rss)
-### wm
+* [https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge](https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge-a-aa940c6c-4684-4f95-bba9-8fbbcecc6048#ref=rss)
+* [https://www.spiegel.de/sport/tennis/sabine-lisicki-uebernimmt-rolle-bei-rtl-serie-alles-was-zaehlt](https://www.spiegel.de/sport/tennis/sabine-lisicki-uebernimmt-rolle-bei-rtl-serie-alles-was-zaehlt-a-085d1034-2995-4a04-8965-3d0f550be433#ref=rss)
+### stehen
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-julian-webers-verpasste-medaille-ein-wettkampf-wie-ein-unausweichlicher-unfall](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-julian-webers-verpasste-medaille-ein-wettkampf-wie-ein-unausweichlicher-unfall-a-3f3ee8cc-d442-4321-b6a3-098b7ebc3a24#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-sydney-mclaughlin-levrone-weltmeisterin-ueber-400-meter](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-sydney-mclaughlin-levrone-weltmeisterin-ueber-400-meter-a-fb579fef-1315-4c76-873d-e7542ff6ec59#ref=rss)
-### tokio
+* [https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge](https://www.spiegel.de/panorama/leute/sarah-engels-uebernimmt-hauptrolle-bei-moulin-rouge-a-aa940c6c-4684-4f95-bba9-8fbbcecc6048#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/yad-vashem-holocaust-gedenkstaette-soll-aussenstelle-in-deutschland-bekommen](https://www.spiegel.de/panorama/bildung/yad-vashem-holocaust-gedenkstaette-soll-aussenstelle-in-deutschland-bekommen-a-751a3278-95db-49ed-8c62-868f3d933530#ref=rss)
+### sabine
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-julian-webers-verpasste-medaille-ein-wettkampf-wie-ein-unausweichlicher-unfall](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-julian-webers-verpasste-medaille-ein-wettkampf-wie-ein-unausweichlicher-unfall-a-3f3ee8cc-d442-4321-b6a3-098b7ebc3a24#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-sydney-mclaughlin-levrone-weltmeisterin-ueber-400-meter](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-sydney-mclaughlin-levrone-weltmeisterin-ueber-400-meter-a-fb579fef-1315-4c76-873d-e7542ff6ec59#ref=rss)
-### josé
+* [https://www.spiegel.de/sport/tennis/sabine-lisicki-uebernimmt-rolle-bei-rtl-serie-alles-was-zaehlt](https://www.spiegel.de/sport/tennis/sabine-lisicki-uebernimmt-rolle-bei-rtl-serie-alles-was-zaehlt-a-085d1034-2995-4a04-8965-3d0f550be433#ref=rss)
+### lisicki
 
-* [https://www.spiegel.de/sport/fussball/jose-mourinho-ueber-nimmt-benfica-lissabon](https://www.spiegel.de/sport/fussball/jose-mourinho-ueber-nimmt-benfica-lissabon-a-5b8b727d-70dd-474e-894a-87f516b3165c#ref=rss)
-### mourinho
+* [https://www.spiegel.de/sport/tennis/sabine-lisicki-uebernimmt-rolle-bei-rtl-serie-alles-was-zaehlt](https://www.spiegel.de/sport/tennis/sabine-lisicki-uebernimmt-rolle-bei-rtl-serie-alles-was-zaehlt-a-085d1034-2995-4a04-8965-3d0f550be433#ref=rss)
+### alles
 
-* [https://www.spiegel.de/sport/fussball/jose-mourinho-ueber-nimmt-benfica-lissabon](https://www.spiegel.de/sport/fussball/jose-mourinho-ueber-nimmt-benfica-lissabon-a-5b8b727d-70dd-474e-894a-87f516b3165c#ref=rss)
-### benfica
+* [https://www.spiegel.de/sport/tennis/sabine-lisicki-uebernimmt-rolle-bei-rtl-serie-alles-was-zaehlt](https://www.spiegel.de/sport/tennis/sabine-lisicki-uebernimmt-rolle-bei-rtl-serie-alles-was-zaehlt-a-085d1034-2995-4a04-8965-3d0f550be433#ref=rss)
+* [https://www.spiegel.de/kultur/musik/madonna-kuendigt-mit-confessions-2-ein-neues-album-an](https://www.spiegel.de/kultur/musik/madonna-kuendigt-mit-confessions-2-ein-neues-album-an-a-be0fa0d1-181b-4bdd-bb6c-1617bccc79b1#ref=rss)
+### madonna
 
-* [https://www.spiegel.de/sport/fussball/jose-mourinho-ueber-nimmt-benfica-lissabon](https://www.spiegel.de/sport/fussball/jose-mourinho-ueber-nimmt-benfica-lissabon-a-5b8b727d-70dd-474e-894a-87f516b3165c#ref=rss)
-### lissabon
+* [https://www.spiegel.de/kultur/musik/madonna-kuendigt-mit-confessions-2-ein-neues-album-an](https://www.spiegel.de/kultur/musik/madonna-kuendigt-mit-confessions-2-ein-neues-album-an-a-be0fa0d1-181b-4bdd-bb6c-1617bccc79b1#ref=rss)
+### confessions
 
-* [https://www.spiegel.de/sport/fussball/jose-mourinho-ueber-nimmt-benfica-lissabon](https://www.spiegel.de/sport/fussball/jose-mourinho-ueber-nimmt-benfica-lissabon-a-5b8b727d-70dd-474e-894a-87f516b3165c#ref=rss)
-### korallenriffe
+* [https://www.spiegel.de/kultur/musik/madonna-kuendigt-mit-confessions-2-ein-neues-album-an](https://www.spiegel.de/kultur/musik/madonna-kuendigt-mit-confessions-2-ein-neues-album-an-a-be0fa0d1-181b-4bdd-bb6c-1617bccc79b1#ref=rss)
+### 2
 
-* [https://www.spiegel.de/wissenschaft/natur/klimakrise-laesst-korallenriffe-sterben](https://www.spiegel.de/wissenschaft/natur/klimakrise-laesst-korallenriffe-sterben-a-a7293ed7-b4d0-419d-b36e-f56e1307baf2#ref=rss)
-### sparmaßnahmen
-
-* [https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-gegen-sparmassnahmen](https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-gegen-sparmassnahmen-a-5c2d0845-f675-400f-91e4-7bc0c51d0d25#ref=rss)
-### cardi
-
-* [https://www.spiegel.de/panorama/cardi-b-us-rapperin-bestaetigt-schwangerschaft-und-veroeffentlicht-diese-woche-neues-album](https://www.spiegel.de/panorama/cardi-b-us-rapperin-bestaetigt-schwangerschaft-und-veroeffentlicht-diese-woche-neues-album-a-e07a90ef-48dc-44c4-b5a2-1bcfb521c866#ref=rss)
-### b
-
-* [https://www.spiegel.de/panorama/cardi-b-us-rapperin-bestaetigt-schwangerschaft-und-veroeffentlicht-diese-woche-neues-album](https://www.spiegel.de/panorama/cardi-b-us-rapperin-bestaetigt-schwangerschaft-und-veroeffentlicht-diese-woche-neues-album-a-e07a90ef-48dc-44c4-b5a2-1bcfb521c866#ref=rss)
-### usrapperin
-
-* [https://www.spiegel.de/panorama/cardi-b-us-rapperin-bestaetigt-schwangerschaft-und-veroeffentlicht-diese-woche-neues-album](https://www.spiegel.de/panorama/cardi-b-us-rapperin-bestaetigt-schwangerschaft-und-veroeffentlicht-diese-woche-neues-album-a-e07a90ef-48dc-44c4-b5a2-1bcfb521c866#ref=rss)
-### veröffentlicht
-
-* [https://www.spiegel.de/panorama/cardi-b-us-rapperin-bestaetigt-schwangerschaft-und-veroeffentlicht-diese-woche-neues-album](https://www.spiegel.de/panorama/cardi-b-us-rapperin-bestaetigt-schwangerschaft-und-veroeffentlicht-diese-woche-neues-album-a-e07a90ef-48dc-44c4-b5a2-1bcfb521c866#ref=rss)
+* [https://www.spiegel.de/kultur/musik/madonna-kuendigt-mit-confessions-2-ein-neues-album-an](https://www.spiegel.de/kultur/musik/madonna-kuendigt-mit-confessions-2-ein-neues-album-an-a-be0fa0d1-181b-4bdd-bb6c-1617bccc79b1#ref=rss)
 ### album
 
-* [https://www.spiegel.de/panorama/cardi-b-us-rapperin-bestaetigt-schwangerschaft-und-veroeffentlicht-diese-woche-neues-album](https://www.spiegel.de/panorama/cardi-b-us-rapperin-bestaetigt-schwangerschaft-und-veroeffentlicht-diese-woche-neues-album-a-e07a90ef-48dc-44c4-b5a2-1bcfb521c866#ref=rss)
-### abgesetzt
+* [https://www.spiegel.de/kultur/musik/madonna-kuendigt-mit-confessions-2-ein-neues-album-an](https://www.spiegel.de/kultur/musik/madonna-kuendigt-mit-confessions-2-ein-neues-album-an-a-be0fa0d1-181b-4bdd-bb6c-1617bccc79b1#ref=rss)
+* [https://www.spiegel.de/kultur/im-only-f-king-myself-von-lola-young-sie-will-nur-das-eine](https://www.spiegel.de/kultur/im-only-f-king-myself-von-lola-young-sie-will-nur-das-eine-a-1036278c-e302-48ac-9e20-5c054b4ed054#ref=rss)
+### gegenesc
 
-* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-abgesetzt-abc-partner-will-gedenken-an-charlie-kirk-senden](https://www.spiegel.de/kultur/tv/jimmy-kimmel-abgesetzt-abc-partner-will-gedenken-an-charlie-kirk-senden-a-397e052f-d3d1-4007-aced-4942b0b66079#ref=rss)
-### russland
+* [https://www.spiegel.de/kultur/musik/intervision-so-wird-russlands-gegen-esc-in-moskau](https://www.spiegel.de/kultur/musik/intervision-so-wird-russlands-gegen-esc-in-moskau-a-88d34a58-7ba0-4c11-a658-3db51acf469f#ref=rss)
+### yad
 
-* [https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile](https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile-a-60bd6529-2032-4c6a-884e-1d1a2e533ed7#ref=rss)
-### nordkorea
+* [https://www.spiegel.de/panorama/bildung/yad-vashem-holocaust-gedenkstaette-soll-aussenstelle-in-deutschland-bekommen](https://www.spiegel.de/panorama/bildung/yad-vashem-holocaust-gedenkstaette-soll-aussenstelle-in-deutschland-bekommen-a-751a3278-95db-49ed-8c62-868f3d933530#ref=rss)
+### vashem
 
-* [https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile](https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile-a-60bd6529-2032-4c6a-884e-1d1a2e533ed7#ref=rss)
-### kim
+* [https://www.spiegel.de/panorama/bildung/yad-vashem-holocaust-gedenkstaette-soll-aussenstelle-in-deutschland-bekommen](https://www.spiegel.de/panorama/bildung/yad-vashem-holocaust-gedenkstaette-soll-aussenstelle-in-deutschland-bekommen-a-751a3278-95db-49ed-8c62-868f3d933530#ref=rss)
+### zölle
 
-* [https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile](https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile-a-60bd6529-2032-4c6a-884e-1d1a2e533ed7#ref=rss)
-### jong
+* [https://www.spiegel.de/wirtschaft/usa-handel-zoelle-druecken-deutschen-export-ueberschuss](https://www.spiegel.de/wirtschaft/usa-handel-zoelle-druecken-deutschen-export-ueberschuss-a-1547bd73-c809-4ffe-8a08-36e97f48dae6#ref=rss)
+### radsportwm
 
-* [https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile](https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile-a-60bd6529-2032-4c6a-884e-1d1a2e533ed7#ref=rss)
-### un
+* [https://www.spiegel.de/sport/radsport/radsport-wm-in-ruanda-das-geschaeft-der-zukunft-liegt-in-afrika](https://www.spiegel.de/sport/radsport/radsport-wm-in-ruanda-das-geschaeft-der-zukunft-liegt-in-afrika-a-c7d2950e-07e7-415b-b99f-4a553c4383d8#ref=rss)
+### ruanda
 
-* [https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile](https://www.spiegel.de/ausland/russland-und-nordkorea-kooperation-bringt-fuer-kim-jong-un-vor-allem-nachteile-a-60bd6529-2032-4c6a-884e-1d1a2e533ed7#ref=rss)
-### sydney
+* [https://www.spiegel.de/sport/radsport/radsport-wm-in-ruanda-das-geschaeft-der-zukunft-liegt-in-afrika](https://www.spiegel.de/sport/radsport/radsport-wm-in-ruanda-das-geschaeft-der-zukunft-liegt-in-afrika-a-c7d2950e-07e7-415b-b99f-4a553c4383d8#ref=rss)
+### afrika
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-sydney-mclaughlin-levrone-weltmeisterin-ueber-400-meter](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-sydney-mclaughlin-levrone-weltmeisterin-ueber-400-meter-a-fb579fef-1315-4c76-873d-e7542ff6ec59#ref=rss)
-### mclaughlinlevrone
+* [https://www.spiegel.de/sport/radsport/radsport-wm-in-ruanda-das-geschaeft-der-zukunft-liegt-in-afrika](https://www.spiegel.de/sport/radsport/radsport-wm-in-ruanda-das-geschaeft-der-zukunft-liegt-in-afrika-a-c7d2950e-07e7-415b-b99f-4a553c4383d8#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-sydney-mclaughlin-levrone-weltmeisterin-ueber-400-meter](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-sydney-mclaughlin-levrone-weltmeisterin-ueber-400-meter-a-fb579fef-1315-4c76-873d-e7542ff6ec59#ref=rss)
-### 400
+* [https://www.spiegel.de/sport/radsport/radsport-wm-in-ruanda-das-geschaeft-der-zukunft-liegt-in-afrika](https://www.spiegel.de/sport/radsport/radsport-wm-in-ruanda-das-geschaeft-der-zukunft-liegt-in-afrika-a-c7d2950e-07e7-415b-b99f-4a553c4383d8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-eintracht-frankfurt-unterliegt-real-madrid-und-ist-raus](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-eintracht-frankfurt-unterliegt-real-madrid-und-ist-raus-a-d5055c49-5a65-480d-9683-f6e100ef65bc#ref=rss)
+### kimmel
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-sydney-mclaughlin-levrone-weltmeisterin-ueber-400-meter](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-sydney-mclaughlin-levrone-weltmeisterin-ueber-400-meter-a-fb579fef-1315-4c76-873d-e7542ff6ec59#ref=rss)
-### meter
+* [https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung](https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung-a-85e67d23-5045-4169-b61a-14a1a69659a4#ref=rss)
+* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-proteste-nach-absetzung-auf-dem-hollywood-boulevard](https://www.spiegel.de/kultur/tv/jimmy-kimmel-proteste-nach-absetzung-auf-dem-hollywood-boulevard-a-c8183fa8-c4fc-4052-95e1-574bac78e7dc#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-sydney-mclaughlin-levrone-weltmeisterin-ueber-400-meter](https://www.spiegel.de/sport/leichtathletik/leichtathletik-wm-sydney-mclaughlin-levrone-weltmeisterin-ueber-400-meter-a-fb579fef-1315-4c76-873d-e7542ff6ec59#ref=rss)
-### faithless
+* [https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung](https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung-a-85e67d23-5045-4169-b61a-14a1a69659a4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-unbekannte-zerstechen-reifen-von-mehr-als-260-autos](https://www.spiegel.de/panorama/justiz/bremen-unbekannte-zerstechen-reifen-von-mehr-als-260-autos-a-404dd23b-b272-47d5-8723-fdbf3f405c27#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/kultur/tv/serie-faithless-ueber-einen-ehebruch-ein-liebesstrudel-der-alle-mit-sich-reisst](https://www.spiegel.de/kultur/tv/serie-faithless-ueber-einen-ehebruch-ein-liebesstrudel-der-alle-mit-sich-reisst-a-87574ab6-5b2d-43f5-971f-8fc92a3e6481#ref=rss)
-### whatsapp
+* [https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung](https://www.spiegel.de/politik/deutschland/jimmy-kimmel-und-donald-trump-so-ist-amerika-kein-vorbild-mehr-meinung-a-85e67d23-5045-4169-b61a-14a1a69659a4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/seltene-erden-chinas-exportkontrollen-bringen-eu-firmen-in-bedraengnis](https://www.spiegel.de/wirtschaft/seltene-erden-chinas-exportkontrollen-bringen-eu-firmen-in-bedraengnis-a-8e7b8f65-7202-4bac-a1ab-e74010d8e34d#ref=rss)
+### tausende
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/chatkontrolle-darum-wird-so-erbittert-um-neue-vorschriften-fuer-whatsapp-und-co-gestritten](https://www.spiegel.de/netzwelt/netzpolitik/chatkontrolle-darum-wird-so-erbittert-um-neue-vorschriften-fuer-whatsapp-und-co-gestritten-a-a730ec88-9d58-4289-8a57-c6ebf1e36c4c#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-tausende-menschen-muessen-wegen-weltkriegsbomben-in-mitte-und-spandau-wohnungen-verlassen](https://www.spiegel.de/panorama/berlin-tausende-menschen-muessen-wegen-weltkriegsbomben-in-mitte-und-spandau-wohnungen-verlassen-a-2e1ad83c-e147-4415-8eb0-8fc3c4b95a9a#ref=rss)
+### mitte
+
+* [https://www.spiegel.de/panorama/berlin-tausende-menschen-muessen-wegen-weltkriegsbomben-in-mitte-und-spandau-wohnungen-verlassen](https://www.spiegel.de/panorama/berlin-tausende-menschen-muessen-wegen-weltkriegsbomben-in-mitte-und-spandau-wohnungen-verlassen-a-2e1ad83c-e147-4415-8eb0-8fc3c4b95a9a#ref=rss)
+### spandau
+
+* [https://www.spiegel.de/panorama/berlin-tausende-menschen-muessen-wegen-weltkriegsbomben-in-mitte-und-spandau-wohnungen-verlassen](https://www.spiegel.de/panorama/berlin-tausende-menschen-muessen-wegen-weltkriegsbomben-in-mitte-und-spandau-wohnungen-verlassen-a-2e1ad83c-e147-4415-8eb0-8fc3c4b95a9a#ref=rss)
+### wohnungen
+
+* [https://www.spiegel.de/panorama/berlin-tausende-menschen-muessen-wegen-weltkriegsbomben-in-mitte-und-spandau-wohnungen-verlassen](https://www.spiegel.de/panorama/berlin-tausende-menschen-muessen-wegen-weltkriegsbomben-in-mitte-und-spandau-wohnungen-verlassen-a-2e1ad83c-e147-4415-8eb0-8fc3c4b95a9a#ref=rss)
+### xi
+
+* [https://www.spiegel.de/ausland/donald-trump-will-taiwan-vor-telefonat-mit-xi-jinping-offenbar-militaerhilfe-verweigern](https://www.spiegel.de/ausland/donald-trump-will-taiwan-vor-telefonat-mit-xi-jinping-offenbar-militaerhilfe-verweigern-a-3c4011c2-dc20-4b30-8526-85f01e2f3cc9#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/donald-trump-will-taiwan-vor-telefonat-mit-xi-jinping-offenbar-militaerhilfe-verweigern](https://www.spiegel.de/ausland/donald-trump-will-taiwan-vor-telefonat-mit-xi-jinping-offenbar-militaerhilfe-verweigern-a-3c4011c2-dc20-4b30-8526-85f01e2f3cc9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/migration-erstmals-weniger-gefluechtete-in-deutschland-seit-2011](https://www.spiegel.de/politik/deutschland/migration-erstmals-weniger-gefluechtete-in-deutschland-seit-2011-a-92fc00a6-045c-4733-8b88-cc75066c2a55#ref=rss)
+### chinas
+
+* [https://www.spiegel.de/ausland/donald-trump-will-taiwan-vor-telefonat-mit-xi-jinping-offenbar-militaerhilfe-verweigern](https://www.spiegel.de/ausland/donald-trump-will-taiwan-vor-telefonat-mit-xi-jinping-offenbar-militaerhilfe-verweigern-a-3c4011c2-dc20-4b30-8526-85f01e2f3cc9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/seltene-erden-chinas-exportkontrollen-bringen-eu-firmen-in-bedraengnis](https://www.spiegel.de/wirtschaft/seltene-erden-chinas-exportkontrollen-bringen-eu-firmen-in-bedraengnis-a-8e7b8f65-7202-4bac-a1ab-e74010d8e34d#ref=rss)
+### lola
+
+* [https://www.spiegel.de/kultur/im-only-f-king-myself-von-lola-young-sie-will-nur-das-eine](https://www.spiegel.de/kultur/im-only-f-king-myself-von-lola-young-sie-will-nur-das-eine-a-1036278c-e302-48ac-9e20-5c054b4ed054#ref=rss)
+### young
+
+* [https://www.spiegel.de/kultur/im-only-f-king-myself-von-lola-young-sie-will-nur-das-eine](https://www.spiegel.de/kultur/im-only-f-king-myself-von-lola-young-sie-will-nur-das-eine-a-1036278c-e302-48ac-9e20-5c054b4ed054#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/panorama/justiz/bremen-unbekannte-zerstechen-reifen-von-mehr-als-260-autos](https://www.spiegel.de/panorama/justiz/bremen-unbekannte-zerstechen-reifen-von-mehr-als-260-autos-a-404dd23b-b272-47d5-8723-fdbf3f405c27#ref=rss)
+### absetzung
+
+* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-proteste-nach-absetzung-auf-dem-hollywood-boulevard](https://www.spiegel.de/kultur/tv/jimmy-kimmel-proteste-nach-absetzung-auf-dem-hollywood-boulevard-a-c8183fa8-c4fc-4052-95e1-574bac78e7dc#ref=rss)
+### hollywood
+
+* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-proteste-nach-absetzung-auf-dem-hollywood-boulevard](https://www.spiegel.de/kultur/tv/jimmy-kimmel-proteste-nach-absetzung-auf-dem-hollywood-boulevard-a-c8183fa8-c4fc-4052-95e1-574bac78e7dc#ref=rss)
+### boulevard
+
+* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-proteste-nach-absetzung-auf-dem-hollywood-boulevard](https://www.spiegel.de/kultur/tv/jimmy-kimmel-proteste-nach-absetzung-auf-dem-hollywood-boulevard-a-c8183fa8-c4fc-4052-95e1-574bac78e7dc#ref=rss)
+### eintracht
+
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-eintracht-frankfurt-unterliegt-real-madrid-und-ist-raus](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-eintracht-frankfurt-unterliegt-real-madrid-und-ist-raus-a-d5055c49-5a65-480d-9683-f6e100ef65bc#ref=rss)
+### real
+
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-eintracht-frankfurt-unterliegt-real-madrid-und-ist-raus](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-eintracht-frankfurt-unterliegt-real-madrid-und-ist-raus-a-d5055c49-5a65-480d-9683-f6e100ef65bc#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-eintracht-frankfurt-unterliegt-real-madrid-und-ist-raus](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-eintracht-frankfurt-unterliegt-real-madrid-und-ist-raus-a-d5055c49-5a65-480d-9683-f6e100ef65bc#ref=rss)
 
