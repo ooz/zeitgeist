@@ -4,435 +4,359 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### russland
-
-* [https://www.spiegel.de/ausland/moldau-74-menschen-wegen-mutmasslich-von-russland-geplanter-unruhen-vor-parlamentswahlen-verhaftet](https://www.spiegel.de/ausland/moldau-74-menschen-wegen-mutmasslich-von-russland-geplanter-unruhen-vor-parlamentswahlen-verhaftet-a-86f7dbd5-9a8c-4a7b-a61d-b32fca0f443c#ref=rss)
-* [https://www.spiegel.de/ausland/usa-sichern-nato-nach-luftraumverletzungen-durch-russland-verteidigung-zu](https://www.spiegel.de/ausland/usa-sichern-nato-nach-luftraumverletzungen-durch-russland-verteidigung-zu-a-008a5bf8-b6b9-4f8b-86f5-3fcda83e7e79#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-schlaegt-usa-verlaengerung-von-atomwaffen-vertrag-vor](https://www.spiegel.de/ausland/russland-wladimir-putin-schlaegt-usa-verlaengerung-von-atomwaffen-vertrag-vor-a-47fcd4b2-68ab-4ecc-a1d9-264e93bb7538#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/justiz/schwerin-wie-der-polizeiskandal-innenminister-christian-pegel-belastet](https://www.spiegel.de/panorama/justiz/schwerin-wie-der-polizeiskandal-innenminister-christian-pegel-belastet-a-4495067f-6b6e-46e6-8202-824f4307022b#ref=rss)
-* [https://www.spiegel.de/gesundheit/praxis-ohne-grenzen-in-hamburg-hier-werden-menschen-behandelt-die-keine-krankenversicherung-haben](https://www.spiegel.de/gesundheit/praxis-ohne-grenzen-in-hamburg-hier-werden-menschen-behandelt-die-keine-krankenversicherung-haben-a-df33f24a-d1e3-4f5e-933d-9844c33b447e#ref=rss)
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-* [https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa](https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa-a-d37bff41-4023-4cc0-a351-1c2730fdfdd8#ref=rss)
-### drei
+* [https://www.spiegel.de/netzwelt/apps/spotify-die-schweden-dominieren-das-musikstreaming-doch-sie-wollen-mehr](https://www.spiegel.de/netzwelt/apps/spotify-die-schweden-dominieren-das-musikstreaming-doch-sie-wollen-mehr-a-6db3d828-2de8-4f4d-aa52-4dcedd1f7948#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-handelsabkommen-industrie-hofft-auf-rohstoffe](https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-handelsabkommen-industrie-hofft-auf-rohstoffe-a-4fad1011-0e47-4d1d-8136-a0783d935547#ref=rss)
+* [https://www.spiegel.de/panorama/ragasa-hongkong-bereitet-sich-auf-den-supertaifun-vor](https://www.spiegel.de/panorama/ragasa-hongkong-bereitet-sich-auf-den-supertaifun-vor-a-5e2dda9b-aa7c-4c59-837c-c66f44126d8f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jeffrey-epstein-wohltaetigkeitsorganisationen-distanzieren-sich-wegen-e-mail-an-multimillionaer-von-sarah-ferguson](https://www.spiegel.de/panorama/leute/jeffrey-epstein-wohltaetigkeitsorganisationen-distanzieren-sich-wegen-e-mail-an-multimillionaer-von-sarah-ferguson-a-1ac5d59d-ee70-4438-adf8-dbfbcfe14281#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-memoiren-107-days-enthuellen-befremden-ueber-joe-biden](https://www.spiegel.de/ausland/kamala-harris-memoiren-107-days-enthuellen-befremden-ueber-joe-biden-a-92fc1325-dbd8-4e72-a349-c0b499ae0b7b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizkosten-koennten-2025-deutlich-ansteigen](https://www.spiegel.de/wirtschaft/service/heizkosten-koennten-2025-deutlich-ansteigen-a-ecbc094a-1fc7-40ca-8bc5-8f9ac434781b#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/nonnen-rebellion-in-oesterreich-wir-haben-menschenrechte](https://www.spiegel.de/ausland/nonnen-rebellion-in-oesterreich-wir-haben-menschenrechte-a-c980feb2-5fd4-45c4-92a3-cd257b5eaaf3#ref=rss)
-* [https://www.spiegel.de/sport/harry-styles-beim-berlin-marathon-2025-auch-diese-promis-glaenzen-beim-sport](https://www.spiegel.de/sport/harry-styles-beim-berlin-marathon-2025-auch-diese-promis-glaenzen-beim-sport-a-f507ee0d-000f-4619-9095-6ed0180bb1f8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koeln-langjaehrige-haftstrafen-fuer-drei-maenner-im-drogenkrieg](https://www.spiegel.de/panorama/justiz/koeln-langjaehrige-haftstrafen-fuer-drei-maenner-im-drogenkrieg-a-a028a53a-15c0-43d6-95ce-2deb1ff39ae4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-linkenchefin-iris-schwerdtner-stellt-zustimmung-fuer-richterkandidaten-infrage](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-linkenchefin-iris-schwerdtner-stellt-zustimmung-fuer-richterkandidaten-infrage-a-ab166eca-7eae-4900-a36c-4265e6583971#ref=rss)
-### menschen
+* [https://www.spiegel.de/panorama/italien-baby-per-helikopter-aus-hochwasser-gerettet](https://www.spiegel.de/panorama/italien-baby-per-helikopter-aus-hochwasser-gerettet-a-12723b73-458c-4386-8519-65ce789d22e2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-kippt-altersgrenze-fuer-anwaltsnotare](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-kippt-altersgrenze-fuer-anwaltsnotare-a-bac5aea6-29fc-41de-ba5c-57c43f2638bf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-handelsabkommen-industrie-hofft-auf-rohstoffe](https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-handelsabkommen-industrie-hofft-auf-rohstoffe-a-4fad1011-0e47-4d1d-8136-a0783d935547#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehrsminister-schnieder-veraergert-regierungspartner-mit-mangelnder-abstimmung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehrsminister-schnieder-veraergert-regierungspartner-mit-mangelnder-abstimmung-a-672598e2-3f46-45b4-8763-5de9486d9479#ref=rss)
+* [https://www.spiegel.de/panorama/deutsche-bahn-bahnverkehr-zwischen-berlin-und-hamburg-nach-oberleitungsstoerung-bei-uelzen-wieder-angelaufen](https://www.spiegel.de/panorama/deutsche-bahn-bahnverkehr-zwischen-berlin-und-hamburg-nach-oberleitungsstoerung-bei-uelzen-wieder-angelaufen-a-b8f6437b-cac1-4fc5-8342-6cc887390178#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/gesundheit/praxis-ohne-grenzen-in-hamburg-hier-werden-menschen-behandelt-die-keine-krankenversicherung-haben](https://www.spiegel.de/gesundheit/praxis-ohne-grenzen-in-hamburg-hier-werden-menschen-behandelt-die-keine-krankenversicherung-haben-a-df33f24a-d1e3-4f5e-933d-9844c33b447e#ref=rss)
-* [https://www.spiegel.de/ausland/moldau-74-menschen-wegen-mutmasslich-von-russland-geplanter-unruhen-vor-parlamentswahlen-verhaftet](https://www.spiegel.de/ausland/moldau-74-menschen-wegen-mutmasslich-von-russland-geplanter-unruhen-vor-parlamentswahlen-verhaftet-a-86f7dbd5-9a8c-4a7b-a61d-b32fca0f443c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa](https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa-a-d37bff41-4023-4cc0-a351-1c2730fdfdd8#ref=rss)
+* [https://www.spiegel.de/sport/tennis/niki-pilic-frueherer-davis-cup-kapitaen-ist-tot](https://www.spiegel.de/sport/tennis/niki-pilic-frueherer-davis-cup-kapitaen-ist-tot-a-cf0059fc-de73-4a91-8472-044d083de346#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-kippt-altersgrenze-fuer-anwaltsnotare](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-kippt-altersgrenze-fuer-anwaltsnotare-a-bac5aea6-29fc-41de-ba5c-57c43f2638bf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-handelsabkommen-industrie-hofft-auf-rohstoffe](https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-handelsabkommen-industrie-hofft-auf-rohstoffe-a-4fad1011-0e47-4d1d-8136-a0783d935547#ref=rss)
+* [https://www.spiegel.de/geschichte/psychiatriereform-in-den-1970er-jahren-die-erfindung-der-modernen-versorgung-fuer-psychisch-kranke](https://www.spiegel.de/geschichte/psychiatriereform-in-den-1970er-jahren-die-erfindung-der-modernen-versorgung-fuer-psychisch-kranke-a-9359eb63-4756-42b1-a2d4-47752c22f525#ref=rss)
+* [https://www.spiegel.de/sport/fussballer-nils-petersen-warum-der-sc-freiburg-star-jetzt-in-der-kreisklasse-bei-oberried-kickt](https://www.spiegel.de/sport/fussballer-nils-petersen-warum-der-sc-freiburg-star-jetzt-in-der-kreisklasse-bei-oberried-kickt-a-3403d5e9-cc29-492b-8c7c-61f5d2e94c27#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/gesundheit/praxis-ohne-grenzen-in-hamburg-hier-werden-menschen-behandelt-die-keine-krankenversicherung-haben](https://www.spiegel.de/gesundheit/praxis-ohne-grenzen-in-hamburg-hier-werden-menschen-behandelt-die-keine-krankenversicherung-haben-a-df33f24a-d1e3-4f5e-933d-9844c33b447e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prozess-um-entfuehrte-block-kinder-stephan-hensel-erhebt-erneut-gewaltvorwuerfe-gegen-christina-block](https://www.spiegel.de/panorama/justiz/prozess-um-entfuehrte-block-kinder-stephan-hensel-erhebt-erneut-gewaltvorwuerfe-gegen-christina-block-a-131902ca-cf50-40a8-a68c-ce960f7af53b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa](https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa-a-d37bff41-4023-4cc0-a351-1c2730fdfdd8#ref=rss)
-### vorgehen
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-donald-trump-gibt-offenbar-plaene-fuer-direkte-regierungsbeteiligung-auf](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-donald-trump-gibt-offenbar-plaene-fuer-direkte-regierungsbeteiligung-auf-a-386f8718-3f84-41a4-900c-f4142e1c1946#ref=rss)
+* [https://www.spiegel.de/sport/tennis/niki-pilic-frueherer-davis-cup-kapitaen-ist-tot](https://www.spiegel.de/sport/tennis/niki-pilic-frueherer-davis-cup-kapitaen-ist-tot-a-cf0059fc-de73-4a91-8472-044d083de346#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/aldi-pc-kommt-ins-haus-der-geschichte](https://www.spiegel.de/wirtschaft/service/aldi-pc-kommt-ins-haus-der-geschichte-a-4fe079c0-4469-4254-9fed-9af2cb7923b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizkosten-koennten-2025-deutlich-ansteigen](https://www.spiegel.de/wirtschaft/service/heizkosten-koennten-2025-deutlich-ansteigen-a-ecbc094a-1fc7-40ca-8bc5-8f9ac434781b#ref=rss)
+### drohnen
 
-* [https://www.spiegel.de/ausland/italien-zehntausende-demonstrieren-gegen-israels-vorgehen-im-gazakrieg-krawalle-in-mailand](https://www.spiegel.de/ausland/italien-zehntausende-demonstrieren-gegen-israels-vorgehen-im-gazakrieg-krawalle-in-mailand-a-4e444b52-9acd-4041-b55f-ef004593a1d6#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-poebelnden-gemeinderaeten-drohen-kuenftig-ordnungsgelder](https://www.spiegel.de/panorama/bayern-poebelnden-gemeinderaeten-drohen-kuenftig-ordnungsgelder-a-e6de4829-dd9c-4d51-88f3-2a337f00dc0a#ref=rss)
-* [https://www.spiegel.de/ausland/russische-kampfjets-ueber-nato-territorium-donald-tusk-kuendigt-resolute-verteidigung-an](https://www.spiegel.de/ausland/russische-kampfjets-ueber-nato-territorium-donald-tusk-kuendigt-resolute-verteidigung-an-a-2d624d40-9575-466d-b5b5-af04cd63d722#ref=rss)
-### polizei
+* [https://www.spiegel.de/ausland/drohnen-ueber-kopenhagen-und-oslo-was-ueber-die-vorfaelle-an-den-flughaefen-bekannt-ist](https://www.spiegel.de/ausland/drohnen-ueber-kopenhagen-und-oslo-was-ueber-die-vorfaelle-an-den-flughaefen-bekannt-ist-a-2e3120ed-5148-49ae-b039-ab26f57f4622#ref=rss)
+* [https://www.spiegel.de/ausland/daenemarks-ministerpraesidentin-mette-frederiksen-spricht-von-anschlag](https://www.spiegel.de/ausland/daenemarks-ministerpraesidentin-mette-frederiksen-spricht-von-anschlag-a-229b525b-2a4e-4104-8914-cd97964a758d#ref=rss)
+### dänemarks
 
-* [https://www.spiegel.de/ausland/italien-zehntausende-demonstrieren-gegen-israels-vorgehen-im-gazakrieg-krawalle-in-mailand](https://www.spiegel.de/ausland/italien-zehntausende-demonstrieren-gegen-israels-vorgehen-im-gazakrieg-krawalle-in-mailand-a-4e444b52-9acd-4041-b55f-ef004593a1d6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bahnstrecke-duesseldorf-koeln-polizei-schliesst-sabotage-nicht-aus](https://www.spiegel.de/panorama/justiz/bahnstrecke-duesseldorf-koeln-polizei-schliesst-sabotage-nicht-aus-a-484f7bb3-e2a0-4874-a9e4-86ee95920bb0#ref=rss)
-* [https://www.spiegel.de/panorama/koblenz-polizei-sucht-nach-31-jahren-moerder-von-us-touristin](https://www.spiegel.de/panorama/koblenz-polizei-sucht-nach-31-jahren-moerder-von-us-touristin-a-a4495fad-90fa-4ea3-a35f-2135f6c2d19a#ref=rss)
+* [https://www.spiegel.de/ausland/drohnen-ueber-kopenhagen-und-oslo-was-ueber-die-vorfaelle-an-den-flughaefen-bekannt-ist](https://www.spiegel.de/ausland/drohnen-ueber-kopenhagen-und-oslo-was-ueber-die-vorfaelle-an-den-flughaefen-bekannt-ist-a-2e3120ed-5148-49ae-b039-ab26f57f4622#ref=rss)
+* [https://www.spiegel.de/ausland/daenemarks-ministerpraesidentin-mette-frederiksen-spricht-von-anschlag](https://www.spiegel.de/ausland/daenemarks-ministerpraesidentin-mette-frederiksen-spricht-von-anschlag-a-229b525b-2a4e-4104-8914-cd97964a758d#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/usa-sichern-nato-nach-luftraumverletzungen-durch-russland-verteidigung-zu](https://www.spiegel.de/ausland/usa-sichern-nato-nach-luftraumverletzungen-durch-russland-verteidigung-zu-a-008a5bf8-b6b9-4f8b-86f5-3fcda83e7e79#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-schlaegt-usa-verlaengerung-von-atomwaffen-vertrag-vor](https://www.spiegel.de/ausland/russland-wladimir-putin-schlaegt-usa-verlaengerung-von-atomwaffen-vertrag-vor-a-47fcd4b2-68ab-4ecc-a1d9-264e93bb7538#ref=rss)
-### mütter
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-donald-trump-gibt-offenbar-plaene-fuer-direkte-regierungsbeteiligung-auf](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-donald-trump-gibt-offenbar-plaene-fuer-direkte-regierungsbeteiligung-auf-a-386f8718-3f84-41a4-900c-f4142e1c1946#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/orsted-aktien-steigen-deutlich-nach-richterspruch-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/orsted-aktien-steigen-deutlich-nach-richterspruch-in-den-usa-a-134977b3-5058-4170-8f1d-c2a66509bf6b#ref=rss)
+* [https://www.spiegel.de/ausland/uno-generalversammlung-usa-verbieten-iranischer-delegation-luxuseinkaeufe](https://www.spiegel.de/ausland/uno-generalversammlung-usa-verbieten-iranischer-delegation-luxuseinkaeufe-a-949562a5-97fe-4245-b34f-7ac99eb74ea6#ref=rss)
+### spotify
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/spotify-die-schweden-dominieren-das-musikstreaming-doch-sie-wollen-mehr](https://www.spiegel.de/netzwelt/apps/spotify-die-schweden-dominieren-das-musikstreaming-doch-sie-wollen-mehr-a-6db3d828-2de8-4f4d-aa52-4dcedd1f7948#ref=rss)
+### indonesien
+
+* [https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-handelsabkommen-industrie-hofft-auf-rohstoffe](https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-handelsabkommen-industrie-hofft-auf-rohstoffe-a-4fad1011-0e47-4d1d-8136-a0783d935547#ref=rss)
 ### frauen
 
-* [https://www.spiegel.de/ausland/nonnen-rebellion-in-oesterreich-wir-haben-menschenrechte](https://www.spiegel.de/ausland/nonnen-rebellion-in-oesterreich-wir-haben-menschenrechte-a-c980feb2-5fd4-45c4-92a3-cd257b5eaaf3#ref=rss)
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### kommen
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-sechs-frauen-unter-zehn-neuen-astronautenkandidaten](https://www.spiegel.de/wissenschaft/weltall/nasa-sechs-frauen-unter-zehn-neuen-astronautenkandidaten-a-97c57b26-6e4b-4bd6-a2db-5ce6e93a3ef9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ludwigsburg-toedlicher-unfall-bei-mutmasslichem-illegalen-autorennen-anklage-wegen-mordes-erhoben](https://www.spiegel.de/panorama/justiz/ludwigsburg-toedlicher-unfall-bei-mutmasslichem-illegalen-autorennen-anklage-wegen-mordes-erhoben-a-a8c867d0-f59c-48bc-827b-4ce17c5d9783#ref=rss)
+### zehn
 
-* [https://www.spiegel.de/gesundheit/praxis-ohne-grenzen-in-hamburg-hier-werden-menschen-behandelt-die-keine-krankenversicherung-haben](https://www.spiegel.de/gesundheit/praxis-ohne-grenzen-in-hamburg-hier-werden-menschen-behandelt-die-keine-krankenversicherung-haben-a-df33f24a-d1e3-4f5e-933d-9844c33b447e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bahn-strategie-catcalling-martin-blessing](https://www.spiegel.de/politik/deutschland/news-des-tages-bahn-strategie-catcalling-martin-blessing-a-b14e9570-4d67-4bce-a02e-82e54c7458d4#ref=rss)
-* [https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert](https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert-a-681cbe2a-07a0-4b71-b7be-8e58fb503f4d#ref=rss)
-### palästina
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-sechs-frauen-unter-zehn-neuen-astronautenkandidaten](https://www.spiegel.de/wissenschaft/weltall/nasa-sechs-frauen-unter-zehn-neuen-astronautenkandidaten-a-97c57b26-6e4b-4bd6-a2db-5ce6e93a3ef9#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jeffrey-epstein-wohltaetigkeitsorganisationen-distanzieren-sich-wegen-e-mail-an-multimillionaer-von-sarah-ferguson](https://www.spiegel.de/panorama/leute/jeffrey-epstein-wohltaetigkeitsorganisationen-distanzieren-sich-wegen-e-mail-an-multimillionaer-von-sarah-ferguson-a-1ac5d59d-ee70-4438-adf8-dbfbcfe14281#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell](https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell-a-2a376c92-0dd0-489d-9f7a-21b65a8a146c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum](https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum-a-33acfdef-49bc-4337-8cbe-d64df9168b0f#ref=rss)
-### new
-
-* [https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell](https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell-a-2a376c92-0dd0-489d-9f7a-21b65a8a146c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum](https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum-a-33acfdef-49bc-4337-8cbe-d64df9168b0f#ref=rss)
-* [https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert](https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert-a-681cbe2a-07a0-4b71-b7be-8e58fb503f4d#ref=rss)
-### york
-
-* [https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell](https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell-a-2a376c92-0dd0-489d-9f7a-21b65a8a146c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum](https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum-a-33acfdef-49bc-4337-8cbe-d64df9168b0f#ref=rss)
-* [https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert](https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert-a-681cbe2a-07a0-4b71-b7be-8e58fb503f4d#ref=rss)
-### israels
-
-* [https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell](https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell-a-2a376c92-0dd0-489d-9f7a-21b65a8a146c#ref=rss)
-* [https://www.spiegel.de/ausland/italien-zehntausende-demonstrieren-gegen-israels-vorgehen-im-gazakrieg-krawalle-in-mailand](https://www.spiegel.de/ausland/italien-zehntausende-demonstrieren-gegen-israels-vorgehen-im-gazakrieg-krawalle-in-mailand-a-4e444b52-9acd-4041-b55f-ef004593a1d6#ref=rss)
-### köln
-
-* [https://www.spiegel.de/panorama/justiz/koeln-langjaehrige-haftstrafen-fuer-drei-maenner-im-drogenkrieg](https://www.spiegel.de/panorama/justiz/koeln-langjaehrige-haftstrafen-fuer-drei-maenner-im-drogenkrieg-a-a028a53a-15c0-43d6-95ce-2deb1ff39ae4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bahnstrecke-duesseldorf-koeln-polizei-schliesst-sabotage-nicht-aus](https://www.spiegel.de/panorama/justiz/bahnstrecke-duesseldorf-koeln-polizei-schliesst-sabotage-nicht-aus-a-484f7bb3-e2a0-4874-a9e4-86ee95920bb0#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum](https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum-a-33acfdef-49bc-4337-8cbe-d64df9168b0f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bahn-strategie-catcalling-martin-blessing](https://www.spiegel.de/politik/deutschland/news-des-tages-bahn-strategie-catcalling-martin-blessing-a-b14e9570-4d67-4bce-a02e-82e54c7458d4#ref=rss)
-### beruf
-
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fall-lilly-becker-eine-gerichtvollzieherin-erzaehlt-wie-sie-mit-schuldnern-umgeht](https://www.spiegel.de/panorama/justiz/fall-lilly-becker-eine-gerichtvollzieherin-erzaehlt-wie-sie-mit-schuldnern-umgeht-a-37e75540-6ac2-48b6-b4c1-9360aae8b391#ref=rss)
-### familie
-
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-* [https://www.spiegel.de/kultur/marion-cotillard-wuerde-auf-der-titanic-die-holzklasse-vorziehen](https://www.spiegel.de/kultur/marion-cotillard-wuerde-auf-der-titanic-die-holzklasse-vorziehen-a-629bd164-36c8-4848-ab06-fb7b6fdfee62#ref=rss)
-### ägypten
-
-* [https://www.spiegel.de/wissenschaft/mensch/kleopatra-hafen-von-taposiris-magna-vor-aegypten-gefunden](https://www.spiegel.de/wissenschaft/mensch/kleopatra-hafen-von-taposiris-magna-vor-aegypten-gefunden-a-45a93767-8934-4a16-adda-7939f67303e1#ref=rss)
-* [https://www.spiegel.de/ausland/alaa-abd-el-fattah-aegypten-entlaesst-aktivisten-aus-haft](https://www.spiegel.de/ausland/alaa-abd-el-fattah-aegypten-entlaesst-aktivisten-aus-haft-a-419c7716-d464-4b5b-a152-ecc90e7bdf3f#ref=rss)
-### jimmy
-
-* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-hollywoodstars-protestieren-gegen-absetzung-der-talkshow](https://www.spiegel.de/kultur/tv/jimmy-kimmel-hollywoodstars-protestieren-gegen-absetzung-der-talkshow-a-aada2de4-b492-4649-bb24-884b706f06fd#ref=rss)
-### kimmel
-
-* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-hollywoodstars-protestieren-gegen-absetzung-der-talkshow](https://www.spiegel.de/kultur/tv/jimmy-kimmel-hollywoodstars-protestieren-gegen-absetzung-der-talkshow-a-aada2de4-b492-4649-bb24-884b706f06fd#ref=rss)
-### hollywoodstars
-
-* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-hollywoodstars-protestieren-gegen-absetzung-der-talkshow](https://www.spiegel.de/kultur/tv/jimmy-kimmel-hollywoodstars-protestieren-gegen-absetzung-der-talkshow-a-aada2de4-b492-4649-bb24-884b706f06fd#ref=rss)
-### protestieren
-
-* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-hollywoodstars-protestieren-gegen-absetzung-der-talkshow](https://www.spiegel.de/kultur/tv/jimmy-kimmel-hollywoodstars-protestieren-gegen-absetzung-der-talkshow-a-aada2de4-b492-4649-bb24-884b706f06fd#ref=rss)
-### absetzung
-
-* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-hollywoodstars-protestieren-gegen-absetzung-der-talkshow](https://www.spiegel.de/kultur/tv/jimmy-kimmel-hollywoodstars-protestieren-gegen-absetzung-der-talkshow-a-aada2de4-b492-4649-bb24-884b706f06fd#ref=rss)
-### land
-
-* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-hollywoodstars-protestieren-gegen-absetzung-der-talkshow](https://www.spiegel.de/kultur/tv/jimmy-kimmel-hollywoodstars-protestieren-gegen-absetzung-der-talkshow-a-aada2de4-b492-4649-bb24-884b706f06fd#ref=rss)
-* [https://www.spiegel.de/ausland/moldau-74-menschen-wegen-mutmasslich-von-russland-geplanter-unruhen-vor-parlamentswahlen-verhaftet](https://www.spiegel.de/ausland/moldau-74-menschen-wegen-mutmasslich-von-russland-geplanter-unruhen-vor-parlamentswahlen-verhaftet-a-86f7dbd5-9a8c-4a7b-a61d-b32fca0f443c#ref=rss)
-### trumpregierung
-
-* [https://www.spiegel.de/kultur/tv/jimmy-kimmel-hollywoodstars-protestieren-gegen-absetzung-der-talkshow](https://www.spiegel.de/kultur/tv/jimmy-kimmel-hollywoodstars-protestieren-gegen-absetzung-der-talkshow-a-aada2de4-b492-4649-bb24-884b706f06fd#ref=rss)
-* [https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert](https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert-a-681cbe2a-07a0-4b71-b7be-8e58fb503f4d#ref=rss)
-### innenminister
-
-* [https://www.spiegel.de/panorama/justiz/schwerin-wie-der-polizeiskandal-innenminister-christian-pegel-belastet](https://www.spiegel.de/panorama/justiz/schwerin-wie-der-polizeiskandal-innenminister-christian-pegel-belastet-a-4495067f-6b6e-46e6-8202-824f4307022b#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/gesundheit/praxis-ohne-grenzen-in-hamburg-hier-werden-menschen-behandelt-die-keine-krankenversicherung-haben](https://www.spiegel.de/gesundheit/praxis-ohne-grenzen-in-hamburg-hier-werden-menschen-behandelt-die-keine-krankenversicherung-haben-a-df33f24a-d1e3-4f5e-933d-9844c33b447e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-linkenchefin-iris-schwerdtner-stellt-zustimmung-fuer-richterkandidaten-infrage](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-linkenchefin-iris-schwerdtner-stellt-zustimmung-fuer-richterkandidaten-infrage-a-ab166eca-7eae-4900-a36c-4265e6583971#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/gesundheit/praxis-ohne-grenzen-in-hamburg-hier-werden-menschen-behandelt-die-keine-krankenversicherung-haben](https://www.spiegel.de/gesundheit/praxis-ohne-grenzen-in-hamburg-hier-werden-menschen-behandelt-die-keine-krankenversicherung-haben-a-df33f24a-d1e3-4f5e-933d-9844c33b447e#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/gesundheit/praxis-ohne-grenzen-in-hamburg-hier-werden-menschen-behandelt-die-keine-krankenversicherung-haben](https://www.spiegel.de/gesundheit/praxis-ohne-grenzen-in-hamburg-hier-werden-menschen-behandelt-die-keine-krankenversicherung-haben-a-df33f24a-d1e3-4f5e-933d-9844c33b447e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa](https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa-a-d37bff41-4023-4cc0-a351-1c2730fdfdd8#ref=rss)
-### könige
-
-* [https://www.spiegel.de/sport/leichtathletik-wm-koenige-der-athleten-koenige-des-sports](https://www.spiegel.de/sport/leichtathletik-wm-koenige-der-athleten-koenige-des-sports-a-bf01206c-0d61-441c-a385-d06dfded4dc6#ref=rss)
-### harry
-
-* [https://www.spiegel.de/sport/harry-styles-beim-berlin-marathon-2025-auch-diese-promis-glaenzen-beim-sport](https://www.spiegel.de/sport/harry-styles-beim-berlin-marathon-2025-auch-diese-promis-glaenzen-beim-sport-a-f507ee0d-000f-4619-9095-6ed0180bb1f8#ref=rss)
-### styles
-
-* [https://www.spiegel.de/sport/harry-styles-beim-berlin-marathon-2025-auch-diese-promis-glaenzen-beim-sport](https://www.spiegel.de/sport/harry-styles-beim-berlin-marathon-2025-auch-diese-promis-glaenzen-beim-sport-a-f507ee0d-000f-4619-9095-6ed0180bb1f8#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/sport/harry-styles-beim-berlin-marathon-2025-auch-diese-promis-glaenzen-beim-sport](https://www.spiegel.de/sport/harry-styles-beim-berlin-marathon-2025-auch-diese-promis-glaenzen-beim-sport-a-f507ee0d-000f-4619-9095-6ed0180bb1f8#ref=rss)
-### marathon
-
-* [https://www.spiegel.de/sport/harry-styles-beim-berlin-marathon-2025-auch-diese-promis-glaenzen-beim-sport](https://www.spiegel.de/sport/harry-styles-beim-berlin-marathon-2025-auch-diese-promis-glaenzen-beim-sport-a-f507ee0d-000f-4619-9095-6ed0180bb1f8#ref=rss)
-### benjamin
-
-* [https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell](https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell-a-2a376c92-0dd0-489d-9f7a-21b65a8a146c#ref=rss)
-### netanyahu
-
-* [https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell](https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell-a-2a376c92-0dd0-489d-9f7a-21b65a8a146c#ref=rss)
-### emmanuel
-
-* [https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell](https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell-a-2a376c92-0dd0-489d-9f7a-21b65a8a146c#ref=rss)
-### macron
-
-* [https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell](https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell-a-2a376c92-0dd0-489d-9f7a-21b65a8a146c#ref=rss)
-### liefern
-
-* [https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell](https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell-a-2a376c92-0dd0-489d-9f7a-21b65a8a146c#ref=rss)
-### duell
-
-* [https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell](https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell-a-2a376c92-0dd0-489d-9f7a-21b65a8a146c#ref=rss)
-### einfluss
-
-* [https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell](https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell-a-2a376c92-0dd0-489d-9f7a-21b65a8a146c#ref=rss)
-* [https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert](https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert-a-681cbe2a-07a0-4b71-b7be-8e58fb503f4d#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell](https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell-a-2a376c92-0dd0-489d-9f7a-21b65a8a146c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/kleopatra-hafen-von-taposiris-magna-vor-aegypten-gefunden](https://www.spiegel.de/wissenschaft/mensch/kleopatra-hafen-von-taposiris-magna-vor-aegypten-gefunden-a-45a93767-8934-4a16-adda-7939f67303e1#ref=rss)
-### antworten
-
-* [https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell](https://www.spiegel.de/ausland/palaestina-benjamin-netanyahu-und-emmanuel-macron-liefern-sich-ein-hartes-duell-a-2a376c92-0dd0-489d-9f7a-21b65a8a146c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum](https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum-a-33acfdef-49bc-4337-8cbe-d64df9168b0f#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/panorama/justiz/prozess-um-entfuehrte-block-kinder-stephan-hensel-erhebt-erneut-gewaltvorwuerfe-gegen-christina-block](https://www.spiegel.de/panorama/justiz/prozess-um-entfuehrte-block-kinder-stephan-hensel-erhebt-erneut-gewaltvorwuerfe-gegen-christina-block-a-131902ca-cf50-40a8-a68c-ce960f7af53b#ref=rss)
-### christina
-
-* [https://www.spiegel.de/panorama/justiz/prozess-um-entfuehrte-block-kinder-stephan-hensel-erhebt-erneut-gewaltvorwuerfe-gegen-christina-block](https://www.spiegel.de/panorama/justiz/prozess-um-entfuehrte-block-kinder-stephan-hensel-erhebt-erneut-gewaltvorwuerfe-gegen-christina-block-a-131902ca-cf50-40a8-a68c-ce960f7af53b#ref=rss)
-### block
-
-* [https://www.spiegel.de/panorama/justiz/prozess-um-entfuehrte-block-kinder-stephan-hensel-erhebt-erneut-gewaltvorwuerfe-gegen-christina-block](https://www.spiegel.de/panorama/justiz/prozess-um-entfuehrte-block-kinder-stephan-hensel-erhebt-erneut-gewaltvorwuerfe-gegen-christina-block-a-131902ca-cf50-40a8-a68c-ce960f7af53b#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/panorama/justiz/prozess-um-entfuehrte-block-kinder-stephan-hensel-erhebt-erneut-gewaltvorwuerfe-gegen-christina-block](https://www.spiegel.de/panorama/justiz/prozess-um-entfuehrte-block-kinder-stephan-hensel-erhebt-erneut-gewaltvorwuerfe-gegen-christina-block-a-131902ca-cf50-40a8-a68c-ce960f7af53b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum](https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum-a-33acfdef-49bc-4337-8cbe-d64df9168b0f#ref=rss)
-### italien
-
-* [https://www.spiegel.de/ausland/italien-zehntausende-demonstrieren-gegen-israels-vorgehen-im-gazakrieg-krawalle-in-mailand](https://www.spiegel.de/ausland/italien-zehntausende-demonstrieren-gegen-israels-vorgehen-im-gazakrieg-krawalle-in-mailand-a-4e444b52-9acd-4041-b55f-ef004593a1d6#ref=rss)
-### zehntausende
-
-* [https://www.spiegel.de/ausland/italien-zehntausende-demonstrieren-gegen-israels-vorgehen-im-gazakrieg-krawalle-in-mailand](https://www.spiegel.de/ausland/italien-zehntausende-demonstrieren-gegen-israels-vorgehen-im-gazakrieg-krawalle-in-mailand-a-4e444b52-9acd-4041-b55f-ef004593a1d6#ref=rss)
-### demonstrieren
-
-* [https://www.spiegel.de/ausland/italien-zehntausende-demonstrieren-gegen-israels-vorgehen-im-gazakrieg-krawalle-in-mailand](https://www.spiegel.de/ausland/italien-zehntausende-demonstrieren-gegen-israels-vorgehen-im-gazakrieg-krawalle-in-mailand-a-4e444b52-9acd-4041-b55f-ef004593a1d6#ref=rss)
-### gazakrieg
-
-* [https://www.spiegel.de/ausland/italien-zehntausende-demonstrieren-gegen-israels-vorgehen-im-gazakrieg-krawalle-in-mailand](https://www.spiegel.de/ausland/italien-zehntausende-demonstrieren-gegen-israels-vorgehen-im-gazakrieg-krawalle-in-mailand-a-4e444b52-9acd-4041-b55f-ef004593a1d6#ref=rss)
-### mailand
-
-* [https://www.spiegel.de/ausland/italien-zehntausende-demonstrieren-gegen-israels-vorgehen-im-gazakrieg-krawalle-in-mailand](https://www.spiegel.de/ausland/italien-zehntausende-demonstrieren-gegen-israels-vorgehen-im-gazakrieg-krawalle-in-mailand-a-4e444b52-9acd-4041-b55f-ef004593a1d6#ref=rss)
-### moldau
-
-* [https://www.spiegel.de/ausland/moldau-74-menschen-wegen-mutmasslich-von-russland-geplanter-unruhen-vor-parlamentswahlen-verhaftet](https://www.spiegel.de/ausland/moldau-74-menschen-wegen-mutmasslich-von-russland-geplanter-unruhen-vor-parlamentswahlen-verhaftet-a-86f7dbd5-9a8c-4a7b-a61d-b32fca0f443c#ref=rss)
-### mutmaßlich
-
-* [https://www.spiegel.de/ausland/moldau-74-menschen-wegen-mutmasslich-von-russland-geplanter-unruhen-vor-parlamentswahlen-verhaftet](https://www.spiegel.de/ausland/moldau-74-menschen-wegen-mutmasslich-von-russland-geplanter-unruhen-vor-parlamentswahlen-verhaftet-a-86f7dbd5-9a8c-4a7b-a61d-b32fca0f443c#ref=rss)
-### unruhen
-
-* [https://www.spiegel.de/ausland/moldau-74-menschen-wegen-mutmasslich-von-russland-geplanter-unruhen-vor-parlamentswahlen-verhaftet](https://www.spiegel.de/ausland/moldau-74-menschen-wegen-mutmasslich-von-russland-geplanter-unruhen-vor-parlamentswahlen-verhaftet-a-86f7dbd5-9a8c-4a7b-a61d-b32fca0f443c#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/panorama/justiz/koeln-langjaehrige-haftstrafen-fuer-drei-maenner-im-drogenkrieg](https://www.spiegel.de/panorama/justiz/koeln-langjaehrige-haftstrafen-fuer-drei-maenner-im-drogenkrieg-a-a028a53a-15c0-43d6-95ce-2deb1ff39ae4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa](https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa-a-d37bff41-4023-4cc0-a351-1c2730fdfdd8#ref=rss)
-### nahostpolitik
-
-* [https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum](https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum-a-33acfdef-49bc-4337-8cbe-d64df9168b0f#ref=rss)
-### wichtige
-
-* [https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum](https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum-a-33acfdef-49bc-4337-8cbe-d64df9168b0f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bahnstrecke-duesseldorf-koeln-polizei-schliesst-sabotage-nicht-aus](https://www.spiegel.de/panorama/justiz/bahnstrecke-duesseldorf-koeln-polizei-schliesst-sabotage-nicht-aus-a-484f7bb3-e2a0-4874-a9e4-86ee95920bb0#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum](https://www.spiegel.de/politik/deutschland/nahost-politik-von-schwarz-rot-friedrich-merz-fehlt-bei-der-uno-vollversammlung-in-new-york-warum-a-33acfdef-49bc-4337-8cbe-d64df9168b0f#ref=rss)
-* [https://www.spiegel.de/ausland/russische-kampfjets-ueber-nato-territorium-donald-tusk-kuendigt-resolute-verteidigung-an](https://www.spiegel.de/ausland/russische-kampfjets-ueber-nato-territorium-donald-tusk-kuendigt-resolute-verteidigung-an-a-2d624d40-9575-466d-b5b5-af04cd63d722#ref=rss)
-### catcalling
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bahn-strategie-catcalling-martin-blessing](https://www.spiegel.de/politik/deutschland/news-des-tages-bahn-strategie-catcalling-martin-blessing-a-b14e9570-4d67-4bce-a02e-82e54c7458d4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-sechs-frauen-unter-zehn-neuen-astronautenkandidaten](https://www.spiegel.de/wissenschaft/weltall/nasa-sechs-frauen-unter-zehn-neuen-astronautenkandidaten-a-97c57b26-6e4b-4bd6-a2db-5ce6e93a3ef9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/evelyn-palla-aufsichtsrat-bestaetigt-neue-bahn-chefin](https://www.spiegel.de/wirtschaft/unternehmen/evelyn-palla-aufsichtsrat-bestaetigt-neue-bahn-chefin-a-074b626e-fffb-4a99-a5d6-73d72572dfd2#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bahn-strategie-catcalling-martin-blessing](https://www.spiegel.de/politik/deutschland/news-des-tages-bahn-strategie-catcalling-martin-blessing-a-b14e9570-4d67-4bce-a02e-82e54c7458d4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa](https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa-a-d37bff41-4023-4cc0-a351-1c2730fdfdd8#ref=rss)
-### mehrheit
+* [https://www.spiegel.de/wirtschaft/unternehmen/evelyn-palla-aufsichtsrat-bestaetigt-neue-bahn-chefin](https://www.spiegel.de/wirtschaft/unternehmen/evelyn-palla-aufsichtsrat-bestaetigt-neue-bahn-chefin-a-074b626e-fffb-4a99-a5d6-73d72572dfd2#ref=rss)
+* [https://www.spiegel.de/geschichte/psychiatriereform-in-den-1970er-jahren-die-erfindung-der-modernen-versorgung-fuer-psychisch-kranke](https://www.spiegel.de/geschichte/psychiatriereform-in-den-1970er-jahren-die-erfindung-der-modernen-versorgung-fuer-psychisch-kranke-a-9359eb63-4756-42b1-a2d4-47752c22f525#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bahn-strategie-catcalling-martin-blessing](https://www.spiegel.de/politik/deutschland/news-des-tages-bahn-strategie-catcalling-martin-blessing-a-b14e9570-4d67-4bce-a02e-82e54c7458d4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-linkenchefin-iris-schwerdtner-stellt-zustimmung-fuer-richterkandidaten-infrage](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-linkenchefin-iris-schwerdtner-stellt-zustimmung-fuer-richterkandidaten-infrage-a-ab166eca-7eae-4900-a36c-4265e6583971#ref=rss)
-### verteidigung
+* [https://www.spiegel.de/geschichte/psychiatriereform-in-den-1970er-jahren-die-erfindung-der-modernen-versorgung-fuer-psychisch-kranke](https://www.spiegel.de/geschichte/psychiatriereform-in-den-1970er-jahren-die-erfindung-der-modernen-versorgung-fuer-psychisch-kranke-a-9359eb63-4756-42b1-a2d4-47752c22f525#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/aldi-pc-kommt-ins-haus-der-geschichte](https://www.spiegel.de/wirtschaft/service/aldi-pc-kommt-ins-haus-der-geschichte-a-4fe079c0-4469-4254-9fed-9af2cb7923b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizkosten-koennten-2025-deutlich-ansteigen](https://www.spiegel.de/wirtschaft/service/heizkosten-koennten-2025-deutlich-ansteigen-a-ecbc094a-1fc7-40ca-8bc5-8f9ac434781b#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/ausland/usa-sichern-nato-nach-luftraumverletzungen-durch-russland-verteidigung-zu](https://www.spiegel.de/ausland/usa-sichern-nato-nach-luftraumverletzungen-durch-russland-verteidigung-zu-a-008a5bf8-b6b9-4f8b-86f5-3fcda83e7e79#ref=rss)
-* [https://www.spiegel.de/ausland/russische-kampfjets-ueber-nato-territorium-donald-tusk-kuendigt-resolute-verteidigung-an](https://www.spiegel.de/ausland/russische-kampfjets-ueber-nato-territorium-donald-tusk-kuendigt-resolute-verteidigung-an-a-2d624d40-9575-466d-b5b5-af04cd63d722#ref=rss)
-### kind
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehrsminister-schnieder-veraergert-regierungspartner-mit-mangelnder-abstimmung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehrsminister-schnieder-veraergert-regierungspartner-mit-mangelnder-abstimmung-a-672598e2-3f46-45b4-8763-5de9486d9479#ref=rss)
+* [https://www.spiegel.de/panorama/deutsche-bahn-bahnverkehr-zwischen-berlin-und-hamburg-nach-oberleitungsstoerung-bei-uelzen-wieder-angelaufen](https://www.spiegel.de/panorama/deutsche-bahn-bahnverkehr-zwischen-berlin-und-hamburg-nach-oberleitungsstoerung-bei-uelzen-wieder-angelaufen-a-b8f6437b-cac1-4fc5-8342-6cc887390178#ref=rss)
+### kopenhagen
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### karriere
+* [https://www.spiegel.de/ausland/drohnen-ueber-kopenhagen-und-oslo-was-ueber-die-vorfaelle-an-den-flughaefen-bekannt-ist](https://www.spiegel.de/ausland/drohnen-ueber-kopenhagen-und-oslo-was-ueber-die-vorfaelle-an-den-flughaefen-bekannt-ist-a-2e3120ed-5148-49ae-b039-ab26f57f4622#ref=rss)
+### oslo
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### kapitulation
+* [https://www.spiegel.de/ausland/drohnen-ueber-kopenhagen-und-oslo-was-ueber-die-vorfaelle-an-den-flughaefen-bekannt-ist](https://www.spiegel.de/ausland/drohnen-ueber-kopenhagen-und-oslo-was-ueber-die-vorfaelle-an-den-flughaefen-bekannt-ist-a-2e3120ed-5148-49ae-b039-ab26f57f4622#ref=rss)
+### flughäfen
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### zwiespalt
+* [https://www.spiegel.de/ausland/drohnen-ueber-kopenhagen-und-oslo-was-ueber-die-vorfaelle-an-den-flughaefen-bekannt-ist](https://www.spiegel.de/ausland/drohnen-ueber-kopenhagen-und-oslo-was-ueber-die-vorfaelle-an-den-flughaefen-bekannt-ist-a-2e3120ed-5148-49ae-b039-ab26f57f4622#ref=rss)
+### bekannt
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### leisten
+* [https://www.spiegel.de/ausland/drohnen-ueber-kopenhagen-und-oslo-was-ueber-die-vorfaelle-an-den-flughaefen-bekannt-ist](https://www.spiegel.de/ausland/drohnen-ueber-kopenhagen-und-oslo-was-ueber-die-vorfaelle-an-den-flughaefen-bekannt-ist-a-2e3120ed-5148-49ae-b039-ab26f57f4622#ref=rss)
+* [https://www.spiegel.de/kultur/talk-kollegen-reagieren-auf-die-rueckkehr-jimmy-kimmels](https://www.spiegel.de/kultur/talk-kollegen-reagieren-auf-die-rueckkehr-jimmy-kimmels-a-a83b3cb4-72fd-424f-a40a-d275619c9f4b#ref=rss)
+### mette
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### erwerbsarbeit
+* [https://www.spiegel.de/ausland/drohnen-ueber-kopenhagen-und-oslo-was-ueber-die-vorfaelle-an-den-flughaefen-bekannt-ist](https://www.spiegel.de/ausland/drohnen-ueber-kopenhagen-und-oslo-was-ueber-die-vorfaelle-an-den-flughaefen-bekannt-ist-a-2e3120ed-5148-49ae-b039-ab26f57f4622#ref=rss)
+* [https://www.spiegel.de/ausland/daenemarks-ministerpraesidentin-mette-frederiksen-spricht-von-anschlag](https://www.spiegel.de/ausland/daenemarks-ministerpraesidentin-mette-frederiksen-spricht-von-anschlag-a-229b525b-2a4e-4104-8914-cd97964a758d#ref=rss)
+### frederiksen
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### schultern
+* [https://www.spiegel.de/ausland/drohnen-ueber-kopenhagen-und-oslo-was-ueber-die-vorfaelle-an-den-flughaefen-bekannt-ist](https://www.spiegel.de/ausland/drohnen-ueber-kopenhagen-und-oslo-was-ueber-die-vorfaelle-an-den-flughaefen-bekannt-ist-a-2e3120ed-5148-49ae-b039-ab26f57f4622#ref=rss)
+* [https://www.spiegel.de/ausland/daenemarks-ministerpraesidentin-mette-frederiksen-spricht-von-anschlag](https://www.spiegel.de/ausland/daenemarks-ministerpraesidentin-mette-frederiksen-spricht-von-anschlag-a-229b525b-2a4e-4104-8914-cd97964a758d#ref=rss)
+### jimmy
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### oft
+* [https://www.spiegel.de/kultur/talk-kollegen-reagieren-auf-die-rueckkehr-jimmy-kimmels](https://www.spiegel.de/kultur/talk-kollegen-reagieren-auf-die-rueckkehr-jimmy-kimmels-a-a83b3cb4-72fd-424f-a40a-d275619c9f4b#ref=rss)
+### einzige
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### kinderbetreuung
+* [https://www.spiegel.de/kultur/talk-kollegen-reagieren-auf-die-rueckkehr-jimmy-kimmels](https://www.spiegel.de/kultur/talk-kollegen-reagieren-auf-die-rueckkehr-jimmy-kimmels-a-a83b3cb4-72fd-424f-a40a-d275619c9f4b#ref=rss)
+* [https://www.spiegel.de/ausland/kamala-harris-memoiren-107-days-enthuellen-befremden-ueber-joe-biden](https://www.spiegel.de/ausland/kamala-harris-memoiren-107-days-enthuellen-befremden-ueber-joe-biden-a-92fc1325-dbd8-4e72-a349-c0b499ae0b7b#ref=rss)
+### jaguar
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### haushalt
+* [https://www.spiegel.de/wirtschaft/unternehmen/jaguar-land-rover-verlaengert-produktionsstopp-nach-cyberattacke](https://www.spiegel.de/wirtschaft/unternehmen/jaguar-land-rover-verlaengert-produktionsstopp-nach-cyberattacke-a-30a5827a-f23e-4140-8518-b1b45f5bf47d#ref=rss)
+### land
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### andererseits
+* [https://www.spiegel.de/wirtschaft/unternehmen/jaguar-land-rover-verlaengert-produktionsstopp-nach-cyberattacke](https://www.spiegel.de/wirtschaft/unternehmen/jaguar-land-rover-verlaengert-produktionsstopp-nach-cyberattacke-a-30a5827a-f23e-4140-8518-b1b45f5bf47d#ref=rss)
+### rover
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### droht
+* [https://www.spiegel.de/wirtschaft/unternehmen/jaguar-land-rover-verlaengert-produktionsstopp-nach-cyberattacke](https://www.spiegel.de/wirtschaft/unternehmen/jaguar-land-rover-verlaengert-produktionsstopp-nach-cyberattacke-a-30a5827a-f23e-4140-8518-b1b45f5bf47d#ref=rss)
+### cyberattacke
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### teilzeitfalle
+* [https://www.spiegel.de/wirtschaft/unternehmen/jaguar-land-rover-verlaengert-produktionsstopp-nach-cyberattacke](https://www.spiegel.de/wirtschaft/unternehmen/jaguar-land-rover-verlaengert-produktionsstopp-nach-cyberattacke-a-30a5827a-f23e-4140-8518-b1b45f5bf47d#ref=rss)
+### ziel
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### unsere
+* [https://www.spiegel.de/wirtschaft/unternehmen/jaguar-land-rover-verlaengert-produktionsstopp-nach-cyberattacke](https://www.spiegel.de/wirtschaft/unternehmen/jaguar-land-rover-verlaengert-produktionsstopp-nach-cyberattacke-a-30a5827a-f23e-4140-8518-b1b45f5bf47d#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/spotify-die-schweden-dominieren-das-musikstreaming-doch-sie-wollen-mehr](https://www.spiegel.de/netzwelt/apps/spotify-die-schweden-dominieren-das-musikstreaming-doch-sie-wollen-mehr-a-6db3d828-2de8-4f4d-aa52-4dcedd1f7948#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### autorin
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-donald-trump-gibt-offenbar-plaene-fuer-direkte-regierungsbeteiligung-auf](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-donald-trump-gibt-offenbar-plaene-fuer-direkte-regierungsbeteiligung-auf-a-386f8718-3f84-41a4-900c-f4142e1c1946#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### laura
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-donald-trump-gibt-offenbar-plaene-fuer-direkte-regierungsbeteiligung-auf](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-donald-trump-gibt-offenbar-plaene-fuer-direkte-regierungsbeteiligung-auf-a-386f8718-3f84-41a4-900c-f4142e1c1946#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizkosten-koennten-2025-deutlich-ansteigen](https://www.spiegel.de/wirtschaft/service/heizkosten-koennten-2025-deutlich-ansteigen-a-ecbc094a-1fc7-40ca-8bc5-8f9ac434781b#ref=rss)
+### haus
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### backes
+* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-donald-trump-gibt-offenbar-plaene-fuer-direkte-regierungsbeteiligung-auf](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-donald-trump-gibt-offenbar-plaene-fuer-direkte-regierungsbeteiligung-auf-a-386f8718-3f84-41a4-900c-f4142e1c1946#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/aldi-pc-kommt-ins-haus-der-geschichte](https://www.spiegel.de/wirtschaft/service/aldi-pc-kommt-ins-haus-der-geschichte-a-4fe079c0-4469-4254-9fed-9af2cb7923b6#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### berichtet
+* [https://www.spiegel.de/netzwelt/apps/spotify-die-schweden-dominieren-das-musikstreaming-doch-sie-wollen-mehr](https://www.spiegel.de/netzwelt/apps/spotify-die-schweden-dominieren-das-musikstreaming-doch-sie-wollen-mehr-a-6db3d828-2de8-4f4d-aa52-4dcedd1f7948#ref=rss)
+* [https://www.spiegel.de/geschichte/psychiatriereform-in-den-1970er-jahren-die-erfindung-der-modernen-versorgung-fuer-psychisch-kranke](https://www.spiegel.de/geschichte/psychiatriereform-in-den-1970er-jahren-die-erfindung-der-modernen-versorgung-fuer-psychisch-kranke-a-9359eb63-4756-42b1-a2d4-47752c22f525#ref=rss)
+### größten
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### dilemma
+* [https://www.spiegel.de/netzwelt/apps/spotify-die-schweden-dominieren-das-musikstreaming-doch-sie-wollen-mehr](https://www.spiegel.de/netzwelt/apps/spotify-die-schweden-dominieren-das-musikstreaming-doch-sie-wollen-mehr-a-6db3d828-2de8-4f4d-aa52-4dcedd1f7948#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jeffrey-epstein-wohltaetigkeitsorganisationen-distanzieren-sich-wegen-e-mail-an-multimillionaer-von-sarah-ferguson](https://www.spiegel.de/panorama/leute/jeffrey-epstein-wohltaetigkeitsorganisationen-distanzieren-sich-wegen-e-mail-an-multimillionaer-von-sarah-ferguson-a-1ac5d59d-ee70-4438-adf8-dbfbcfe14281#ref=rss)
+### chef
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### eigener
+* [https://www.spiegel.de/netzwelt/apps/spotify-die-schweden-dominieren-das-musikstreaming-doch-sie-wollen-mehr](https://www.spiegel.de/netzwelt/apps/spotify-die-schweden-dominieren-das-musikstreaming-doch-sie-wollen-mehr-a-6db3d828-2de8-4f4d-aa52-4dcedd1f7948#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-sechs-frauen-unter-zehn-neuen-astronautenkandidaten](https://www.spiegel.de/wissenschaft/weltall/nasa-sechs-frauen-unter-zehn-neuen-astronautenkandidaten-a-97c57b26-6e4b-4bd6-a2db-5ce6e93a3ef9#ref=rss)
+### niki
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### erfahrung
+* [https://www.spiegel.de/sport/tennis/niki-pilic-frueherer-davis-cup-kapitaen-ist-tot](https://www.spiegel.de/sport/tennis/niki-pilic-frueherer-davis-cup-kapitaen-ist-tot-a-cf0059fc-de73-4a91-8472-044d083de346#ref=rss)
+### pilić
 
-* [https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie](https://www.spiegel.de/kultur/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-a-2e393906-b8c9-4eb5-a294-71712877d55b#ref=rss)
-* [https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast](https://www.spiegel.de/politik/kind-karriere-kapitulation-muetter-im-zwiespalt-zwischen-beruf-und-familie-podcast-a-de65cb93-4e6c-4cdd-8684-893fbf5ad992#ref=rss)
-### hafen
+* [https://www.spiegel.de/sport/tennis/niki-pilic-frueherer-davis-cup-kapitaen-ist-tot](https://www.spiegel.de/sport/tennis/niki-pilic-frueherer-davis-cup-kapitaen-ist-tot-a-cf0059fc-de73-4a91-8472-044d083de346#ref=rss)
+### altersgrenze
 
-* [https://www.spiegel.de/wissenschaft/mensch/kleopatra-hafen-von-taposiris-magna-vor-aegypten-gefunden](https://www.spiegel.de/wissenschaft/mensch/kleopatra-hafen-von-taposiris-magna-vor-aegypten-gefunden-a-45a93767-8934-4a16-adda-7939f67303e1#ref=rss)
-### taposiris
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-kippt-altersgrenze-fuer-anwaltsnotare](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-kippt-altersgrenze-fuer-anwaltsnotare-a-bac5aea6-29fc-41de-ba5c-57c43f2638bf#ref=rss)
+### superman
 
-* [https://www.spiegel.de/wissenschaft/mensch/kleopatra-hafen-von-taposiris-magna-vor-aegypten-gefunden](https://www.spiegel.de/wissenschaft/mensch/kleopatra-hafen-von-taposiris-magna-vor-aegypten-gefunden-a-45a93767-8934-4a16-adda-7939f67303e1#ref=rss)
-### magna
+* [https://www.spiegel.de/kultur/kino/superman-2-man-of-tomorrow-hat-regisseur-james-gunn-den-naechsten-superman-gegner-verraten](https://www.spiegel.de/kultur/kino/superman-2-man-of-tomorrow-hat-regisseur-james-gunn-den-naechsten-superman-gegner-verraten-a-01972f9e-30c8-4a3e-b5b3-5a4b0eb28604#ref=rss)
+### regisseur
 
-* [https://www.spiegel.de/wissenschaft/mensch/kleopatra-hafen-von-taposiris-magna-vor-aegypten-gefunden](https://www.spiegel.de/wissenschaft/mensch/kleopatra-hafen-von-taposiris-magna-vor-aegypten-gefunden-a-45a93767-8934-4a16-adda-7939f67303e1#ref=rss)
-### lilly
+* [https://www.spiegel.de/kultur/kino/superman-2-man-of-tomorrow-hat-regisseur-james-gunn-den-naechsten-superman-gegner-verraten](https://www.spiegel.de/kultur/kino/superman-2-man-of-tomorrow-hat-regisseur-james-gunn-den-naechsten-superman-gegner-verraten-a-01972f9e-30c8-4a3e-b5b3-5a4b0eb28604#ref=rss)
+### james
 
-* [https://www.spiegel.de/panorama/justiz/fall-lilly-becker-eine-gerichtvollzieherin-erzaehlt-wie-sie-mit-schuldnern-umgeht](https://www.spiegel.de/panorama/justiz/fall-lilly-becker-eine-gerichtvollzieherin-erzaehlt-wie-sie-mit-schuldnern-umgeht-a-37e75540-6ac2-48b6-b4c1-9360aae8b391#ref=rss)
-### becker
+* [https://www.spiegel.de/kultur/kino/superman-2-man-of-tomorrow-hat-regisseur-james-gunn-den-naechsten-superman-gegner-verraten](https://www.spiegel.de/kultur/kino/superman-2-man-of-tomorrow-hat-regisseur-james-gunn-den-naechsten-superman-gegner-verraten-a-01972f9e-30c8-4a3e-b5b3-5a4b0eb28604#ref=rss)
+### gunn
 
-* [https://www.spiegel.de/panorama/justiz/fall-lilly-becker-eine-gerichtvollzieherin-erzaehlt-wie-sie-mit-schuldnern-umgeht](https://www.spiegel.de/panorama/justiz/fall-lilly-becker-eine-gerichtvollzieherin-erzaehlt-wie-sie-mit-schuldnern-umgeht-a-37e75540-6ac2-48b6-b4c1-9360aae8b391#ref=rss)
-### michaela
+* [https://www.spiegel.de/kultur/kino/superman-2-man-of-tomorrow-hat-regisseur-james-gunn-den-naechsten-superman-gegner-verraten](https://www.spiegel.de/kultur/kino/superman-2-man-of-tomorrow-hat-regisseur-james-gunn-den-naechsten-superman-gegner-verraten-a-01972f9e-30c8-4a3e-b5b3-5a4b0eb28604#ref=rss)
+### nächsten
 
-* [https://www.spiegel.de/wissenschaft/weltall/michaela-benthaus-querschnittsgelaehmte-ingenieurin-fliegt-ins-all](https://www.spiegel.de/wissenschaft/weltall/michaela-benthaus-querschnittsgelaehmte-ingenieurin-fliegt-ins-all-a-10d9b85a-134a-40d8-ab2a-1e6998a86613#ref=rss)
-### benthaus
+* [https://www.spiegel.de/kultur/kino/superman-2-man-of-tomorrow-hat-regisseur-james-gunn-den-naechsten-superman-gegner-verraten](https://www.spiegel.de/kultur/kino/superman-2-man-of-tomorrow-hat-regisseur-james-gunn-den-naechsten-superman-gegner-verraten-a-01972f9e-30c8-4a3e-b5b3-5a4b0eb28604#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/wissenschaft/weltall/michaela-benthaus-querschnittsgelaehmte-ingenieurin-fliegt-ins-all](https://www.spiegel.de/wissenschaft/weltall/michaela-benthaus-querschnittsgelaehmte-ingenieurin-fliegt-ins-all-a-10d9b85a-134a-40d8-ab2a-1e6998a86613#ref=rss)
-### all
-
-* [https://www.spiegel.de/wissenschaft/weltall/michaela-benthaus-querschnittsgelaehmte-ingenieurin-fliegt-ins-all](https://www.spiegel.de/wissenschaft/weltall/michaela-benthaus-querschnittsgelaehmte-ingenieurin-fliegt-ins-all-a-10d9b85a-134a-40d8-ab2a-1e6998a86613#ref=rss)
-### sommer
-
-* [https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa](https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa-a-d37bff41-4023-4cc0-a351-1c2730fdfdd8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-wie-ein-jahrhundertteam-zerfiel-und-jetzt-der-neuaufbau-versucht-wird](https://www.spiegel.de/sport/fussball/bayer-leverkusen-wie-ein-jahrhundertteam-zerfiel-und-jetzt-der-neuaufbau-versucht-wird-a-c03cf121-aceb-44ef-8d31-c861f50e785f#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa](https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa-a-d37bff41-4023-4cc0-a351-1c2730fdfdd8#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa](https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa-a-d37bff41-4023-4cc0-a351-1c2730fdfdd8#ref=rss)
-* [https://www.spiegel.de/kultur/marion-cotillard-wuerde-auf-der-titanic-die-holzklasse-vorziehen](https://www.spiegel.de/kultur/marion-cotillard-wuerde-auf-der-titanic-die-holzklasse-vorziehen-a-629bd164-36c8-4848-ab06-fb7b6fdfee62#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/orsted-aktien-steigen-deutlich-nach-richterspruch-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/orsted-aktien-steigen-deutlich-nach-richterspruch-in-den-usa-a-134977b3-5058-4170-8f1d-c2a66509bf6b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizkosten-koennten-2025-deutlich-ansteigen](https://www.spiegel.de/wirtschaft/service/heizkosten-koennten-2025-deutlich-ansteigen-a-ecbc094a-1fc7-40ca-8bc5-8f9ac434781b#ref=rss)
 ### fast
 
-* [https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa](https://www.spiegel.de/wissenschaft/sommer-2024-mehr-als-60-000-todesfaelle-durch-hitzewellen-in-europa-a-d37bff41-4023-4cc0-a351-1c2730fdfdd8#ref=rss)
-* [https://www.spiegel.de/ausland/alaa-abd-el-fattah-aegypten-entlaesst-aktivisten-aus-haft](https://www.spiegel.de/ausland/alaa-abd-el-fattah-aegypten-entlaesst-aktivisten-aus-haft-a-419c7716-d464-4b5b-a152-ecc90e7bdf3f#ref=rss)
-### alaa
+* [https://www.spiegel.de/wirtschaft/unternehmen/orsted-aktien-steigen-deutlich-nach-richterspruch-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/orsted-aktien-steigen-deutlich-nach-richterspruch-in-den-usa-a-134977b3-5058-4170-8f1d-c2a66509bf6b#ref=rss)
+* [https://www.spiegel.de/auto/winterreifen-modelle-von-goodyear-michelin-und-continental-schneiden-im-adac-test-gut-ab](https://www.spiegel.de/auto/winterreifen-modelle-von-goodyear-michelin-und-continental-schneiden-im-adac-test-gut-ab-a-ecfaf27e-fec1-4d94-b013-808d808b473c#ref=rss)
+### eu
 
-* [https://www.spiegel.de/ausland/alaa-abd-el-fattah-aegypten-entlaesst-aktivisten-aus-haft](https://www.spiegel.de/ausland/alaa-abd-el-fattah-aegypten-entlaesst-aktivisten-aus-haft-a-419c7716-d464-4b5b-a152-ecc90e7bdf3f#ref=rss)
-### abd
+* [https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-handelsabkommen-industrie-hofft-auf-rohstoffe](https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-handelsabkommen-industrie-hofft-auf-rohstoffe-a-4fad1011-0e47-4d1d-8136-a0783d935547#ref=rss)
+### industrie
 
-* [https://www.spiegel.de/ausland/alaa-abd-el-fattah-aegypten-entlaesst-aktivisten-aus-haft](https://www.spiegel.de/ausland/alaa-abd-el-fattah-aegypten-entlaesst-aktivisten-aus-haft-a-419c7716-d464-4b5b-a152-ecc90e7bdf3f#ref=rss)
-### elfattah
+* [https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-handelsabkommen-industrie-hofft-auf-rohstoffe](https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-handelsabkommen-industrie-hofft-auf-rohstoffe-a-4fad1011-0e47-4d1d-8136-a0783d935547#ref=rss)
+### hofft
 
-* [https://www.spiegel.de/ausland/alaa-abd-el-fattah-aegypten-entlaesst-aktivisten-aus-haft](https://www.spiegel.de/ausland/alaa-abd-el-fattah-aegypten-entlaesst-aktivisten-aus-haft-a-419c7716-d464-4b5b-a152-ecc90e7bdf3f#ref=rss)
-### künftig
+* [https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-handelsabkommen-industrie-hofft-auf-rohstoffe](https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-handelsabkommen-industrie-hofft-auf-rohstoffe-a-4fad1011-0e47-4d1d-8136-a0783d935547#ref=rss)
+### rohstoffe
 
-* [https://www.spiegel.de/panorama/bayern-poebelnden-gemeinderaeten-drohen-kuenftig-ordnungsgelder](https://www.spiegel.de/panorama/bayern-poebelnden-gemeinderaeten-drohen-kuenftig-ordnungsgelder-a-e6de4829-dd9c-4d51-88f3-2a337f00dc0a#ref=rss)
-* [https://www.spiegel.de/ausland/russische-kampfjets-ueber-nato-territorium-donald-tusk-kuendigt-resolute-verteidigung-an](https://www.spiegel.de/ausland/russische-kampfjets-ueber-nato-territorium-donald-tusk-kuendigt-resolute-verteidigung-an-a-2d624d40-9575-466d-b5b5-af04cd63d722#ref=rss)
-### marion
+* [https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-handelsabkommen-industrie-hofft-auf-rohstoffe](https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-handelsabkommen-industrie-hofft-auf-rohstoffe-a-4fad1011-0e47-4d1d-8136-a0783d935547#ref=rss)
+### nasa
 
-* [https://www.spiegel.de/kultur/marion-cotillard-wuerde-auf-der-titanic-die-holzklasse-vorziehen](https://www.spiegel.de/kultur/marion-cotillard-wuerde-auf-der-titanic-die-holzklasse-vorziehen-a-629bd164-36c8-4848-ab06-fb7b6fdfee62#ref=rss)
-### cotillard
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-sechs-frauen-unter-zehn-neuen-astronautenkandidaten](https://www.spiegel.de/wissenschaft/weltall/nasa-sechs-frauen-unter-zehn-neuen-astronautenkandidaten-a-97c57b26-6e4b-4bd6-a2db-5ce6e93a3ef9#ref=rss)
+### sechs
 
-* [https://www.spiegel.de/kultur/marion-cotillard-wuerde-auf-der-titanic-die-holzklasse-vorziehen](https://www.spiegel.de/kultur/marion-cotillard-wuerde-auf-der-titanic-die-holzklasse-vorziehen-a-629bd164-36c8-4848-ab06-fb7b6fdfee62#ref=rss)
-### bundesverfassungsgericht
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-sechs-frauen-unter-zehn-neuen-astronautenkandidaten](https://www.spiegel.de/wissenschaft/weltall/nasa-sechs-frauen-unter-zehn-neuen-astronautenkandidaten-a-97c57b26-6e4b-4bd6-a2db-5ce6e93a3ef9#ref=rss)
+### astronautenkandidaten
 
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-linkenchefin-iris-schwerdtner-stellt-zustimmung-fuer-richterkandidaten-infrage](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-linkenchefin-iris-schwerdtner-stellt-zustimmung-fuer-richterkandidaten-infrage-a-ab166eca-7eae-4900-a36c-4265e6583971#ref=rss)
-### richterkandidaten
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-sechs-frauen-unter-zehn-neuen-astronautenkandidaten](https://www.spiegel.de/wissenschaft/weltall/nasa-sechs-frauen-unter-zehn-neuen-astronautenkandidaten-a-97c57b26-6e4b-4bd6-a2db-5ce6e93a3ef9#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-linkenchefin-iris-schwerdtner-stellt-zustimmung-fuer-richterkandidaten-infrage](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-linkenchefin-iris-schwerdtner-stellt-zustimmung-fuer-richterkandidaten-infrage-a-ab166eca-7eae-4900-a36c-4265e6583971#ref=rss)
-### koblenz
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-sechs-frauen-unter-zehn-neuen-astronautenkandidaten](https://www.spiegel.de/wissenschaft/weltall/nasa-sechs-frauen-unter-zehn-neuen-astronautenkandidaten-a-97c57b26-6e4b-4bd6-a2db-5ce6e93a3ef9#ref=rss)
+* [https://www.spiegel.de/panorama/ragasa-hongkong-bereitet-sich-auf-den-supertaifun-vor](https://www.spiegel.de/panorama/ragasa-hongkong-bereitet-sich-auf-den-supertaifun-vor-a-5e2dda9b-aa7c-4c59-837c-c66f44126d8f#ref=rss)
+### evelyn
 
-* [https://www.spiegel.de/panorama/koblenz-polizei-sucht-nach-31-jahren-moerder-von-us-touristin](https://www.spiegel.de/panorama/koblenz-polizei-sucht-nach-31-jahren-moerder-von-us-touristin-a-a4495fad-90fa-4ea3-a35f-2135f6c2d19a#ref=rss)
-### russische
+* [https://www.spiegel.de/wirtschaft/unternehmen/evelyn-palla-aufsichtsrat-bestaetigt-neue-bahn-chefin](https://www.spiegel.de/wirtschaft/unternehmen/evelyn-palla-aufsichtsrat-bestaetigt-neue-bahn-chefin-a-074b626e-fffb-4a99-a5d6-73d72572dfd2#ref=rss)
+### palla
 
-* [https://www.spiegel.de/ausland/russische-kampfjets-ueber-nato-territorium-donald-tusk-kuendigt-resolute-verteidigung-an](https://www.spiegel.de/ausland/russische-kampfjets-ueber-nato-territorium-donald-tusk-kuendigt-resolute-verteidigung-an-a-2d624d40-9575-466d-b5b5-af04cd63d722#ref=rss)
-### letzte
+* [https://www.spiegel.de/wirtschaft/unternehmen/evelyn-palla-aufsichtsrat-bestaetigt-neue-bahn-chefin](https://www.spiegel.de/wirtschaft/unternehmen/evelyn-palla-aufsichtsrat-bestaetigt-neue-bahn-chefin-a-074b626e-fffb-4a99-a5d6-73d72572dfd2#ref=rss)
+### aufsichtsrat
 
-* [https://www.spiegel.de/ausland/russische-kampfjets-ueber-nato-territorium-donald-tusk-kuendigt-resolute-verteidigung-an](https://www.spiegel.de/ausland/russische-kampfjets-ueber-nato-territorium-donald-tusk-kuendigt-resolute-verteidigung-an-a-2d624d40-9575-466d-b5b5-af04cd63d722#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-schlaegt-usa-verlaengerung-von-atomwaffen-vertrag-vor](https://www.spiegel.de/ausland/russland-wladimir-putin-schlaegt-usa-verlaengerung-von-atomwaffen-vertrag-vor-a-47fcd4b2-68ab-4ecc-a1d9-264e93bb7538#ref=rss)
-### bayer
+* [https://www.spiegel.de/wirtschaft/unternehmen/evelyn-palla-aufsichtsrat-bestaetigt-neue-bahn-chefin](https://www.spiegel.de/wirtschaft/unternehmen/evelyn-palla-aufsichtsrat-bestaetigt-neue-bahn-chefin-a-074b626e-fffb-4a99-a5d6-73d72572dfd2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehrsminister-schnieder-veraergert-regierungspartner-mit-mangelnder-abstimmung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehrsminister-schnieder-veraergert-regierungspartner-mit-mangelnder-abstimmung-a-672598e2-3f46-45b4-8763-5de9486d9479#ref=rss)
+### bestätigt
 
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-wie-ein-jahrhundertteam-zerfiel-und-jetzt-der-neuaufbau-versucht-wird](https://www.spiegel.de/sport/fussball/bayer-leverkusen-wie-ein-jahrhundertteam-zerfiel-und-jetzt-der-neuaufbau-versucht-wird-a-c03cf121-aceb-44ef-8d31-c861f50e785f#ref=rss)
-### leverkusen
+* [https://www.spiegel.de/wirtschaft/unternehmen/evelyn-palla-aufsichtsrat-bestaetigt-neue-bahn-chefin](https://www.spiegel.de/wirtschaft/unternehmen/evelyn-palla-aufsichtsrat-bestaetigt-neue-bahn-chefin-a-074b626e-fffb-4a99-a5d6-73d72572dfd2#ref=rss)
+### bahnchefin
 
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-wie-ein-jahrhundertteam-zerfiel-und-jetzt-der-neuaufbau-versucht-wird](https://www.spiegel.de/sport/fussball/bayer-leverkusen-wie-ein-jahrhundertteam-zerfiel-und-jetzt-der-neuaufbau-versucht-wird-a-c03cf121-aceb-44ef-8d31-c861f50e785f#ref=rss)
-### jahr
+* [https://www.spiegel.de/wirtschaft/unternehmen/evelyn-palla-aufsichtsrat-bestaetigt-neue-bahn-chefin](https://www.spiegel.de/wirtschaft/unternehmen/evelyn-palla-aufsichtsrat-bestaetigt-neue-bahn-chefin-a-074b626e-fffb-4a99-a5d6-73d72572dfd2#ref=rss)
+### winterreifen
 
-* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-wie-ein-jahrhundertteam-zerfiel-und-jetzt-der-neuaufbau-versucht-wird](https://www.spiegel.de/sport/fussball/bayer-leverkusen-wie-ein-jahrhundertteam-zerfiel-und-jetzt-der-neuaufbau-versucht-wird-a-c03cf121-aceb-44ef-8d31-c861f50e785f#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-schlaegt-usa-verlaengerung-von-atomwaffen-vertrag-vor](https://www.spiegel.de/ausland/russland-wladimir-putin-schlaegt-usa-verlaengerung-von-atomwaffen-vertrag-vor-a-47fcd4b2-68ab-4ecc-a1d9-264e93bb7538#ref=rss)
-### trump
+* [https://www.spiegel.de/auto/winterreifen-modelle-von-goodyear-michelin-und-continental-schneiden-im-adac-test-gut-ab](https://www.spiegel.de/auto/winterreifen-modelle-von-goodyear-michelin-und-continental-schneiden-im-adac-test-gut-ab-a-ecfaf27e-fec1-4d94-b013-808d808b473c#ref=rss)
+### adactest
 
-* [https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert](https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert-a-681cbe2a-07a0-4b71-b7be-8e58fb503f4d#ref=rss)
-### palästinenserpräsident
+* [https://www.spiegel.de/auto/winterreifen-modelle-von-goodyear-michelin-und-continental-schneiden-im-adac-test-gut-ab](https://www.spiegel.de/auto/winterreifen-modelle-von-goodyear-michelin-und-continental-schneiden-im-adac-test-gut-ab-a-ecfaf27e-fec1-4d94-b013-808d808b473c#ref=rss)
+### sicherheit
 
-* [https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert](https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert-a-681cbe2a-07a0-4b71-b7be-8e58fb503f4d#ref=rss)
-### abbas
+* [https://www.spiegel.de/auto/winterreifen-modelle-von-goodyear-michelin-und-continental-schneiden-im-adac-test-gut-ab](https://www.spiegel.de/auto/winterreifen-modelle-von-goodyear-michelin-und-continental-schneiden-im-adac-test-gut-ab-a-ecfaf27e-fec1-4d94-b013-808d808b473c#ref=rss)
+* [https://www.spiegel.de/panorama/ragasa-hongkong-bereitet-sich-auf-den-supertaifun-vor](https://www.spiegel.de/panorama/ragasa-hongkong-bereitet-sich-auf-den-supertaifun-vor-a-5e2dda9b-aa7c-4c59-837c-c66f44126d8f#ref=rss)
+### anklage
 
-* [https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert](https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert-a-681cbe2a-07a0-4b71-b7be-8e58fb503f4d#ref=rss)
-### verweigert
+* [https://www.spiegel.de/panorama/justiz/ludwigsburg-toedlicher-unfall-bei-mutmasslichem-illegalen-autorennen-anklage-wegen-mordes-erhoben](https://www.spiegel.de/panorama/justiz/ludwigsburg-toedlicher-unfall-bei-mutmasslichem-illegalen-autorennen-anklage-wegen-mordes-erhoben-a-a8c867d0-f59c-48bc-827b-4ce17c5d9783#ref=rss)
+### erhoben
 
-* [https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert](https://www.spiegel.de/ausland/uno-generaldebatte-warum-trump-dem-palaestinenserpraesident-mahmoud-abbas-die-einreise-verweigert-a-681cbe2a-07a0-4b71-b7be-8e58fb503f4d#ref=rss)
-### putin
+* [https://www.spiegel.de/panorama/justiz/ludwigsburg-toedlicher-unfall-bei-mutmasslichem-illegalen-autorennen-anklage-wegen-mordes-erhoben](https://www.spiegel.de/panorama/justiz/ludwigsburg-toedlicher-unfall-bei-mutmasslichem-illegalen-autorennen-anklage-wegen-mordes-erhoben-a-a8c867d0-f59c-48bc-827b-4ce17c5d9783#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-schlaegt-usa-verlaengerung-von-atomwaffen-vertrag-vor](https://www.spiegel.de/ausland/russland-wladimir-putin-schlaegt-usa-verlaengerung-von-atomwaffen-vertrag-vor-a-47fcd4b2-68ab-4ecc-a1d9-264e93bb7538#ref=rss)
-### schlägt
+* [https://www.spiegel.de/panorama/justiz/ludwigsburg-toedlicher-unfall-bei-mutmasslichem-illegalen-autorennen-anklage-wegen-mordes-erhoben](https://www.spiegel.de/panorama/justiz/ludwigsburg-toedlicher-unfall-bei-mutmasslichem-illegalen-autorennen-anklage-wegen-mordes-erhoben-a-a8c867d0-f59c-48bc-827b-4ce17c5d9783#ref=rss)
+* [https://www.spiegel.de/sport/fussballer-nils-petersen-warum-der-sc-freiburg-star-jetzt-in-der-kreisklasse-bei-oberried-kickt](https://www.spiegel.de/sport/fussballer-nils-petersen-warum-der-sc-freiburg-star-jetzt-in-der-kreisklasse-bei-oberried-kickt-a-3403d5e9-cc29-492b-8c7c-61f5d2e94c27#ref=rss)
+### psychisch
 
-* [https://www.spiegel.de/ausland/russland-wladimir-putin-schlaegt-usa-verlaengerung-von-atomwaffen-vertrag-vor](https://www.spiegel.de/ausland/russland-wladimir-putin-schlaegt-usa-verlaengerung-von-atomwaffen-vertrag-vor-a-47fcd4b2-68ab-4ecc-a1d9-264e93bb7538#ref=rss)
+* [https://www.spiegel.de/geschichte/psychiatriereform-in-den-1970er-jahren-die-erfindung-der-modernen-versorgung-fuer-psychisch-kranke](https://www.spiegel.de/geschichte/psychiatriereform-in-den-1970er-jahren-die-erfindung-der-modernen-versorgung-fuer-psychisch-kranke-a-9359eb63-4756-42b1-a2d4-47752c22f525#ref=rss)
+### kranke
+
+* [https://www.spiegel.de/geschichte/psychiatriereform-in-den-1970er-jahren-die-erfindung-der-modernen-versorgung-fuer-psychisch-kranke](https://www.spiegel.de/geschichte/psychiatriereform-in-den-1970er-jahren-die-erfindung-der-modernen-versorgung-fuer-psychisch-kranke-a-9359eb63-4756-42b1-a2d4-47752c22f525#ref=rss)
+### ragasa
+
+* [https://www.spiegel.de/panorama/ragasa-hongkong-bereitet-sich-auf-den-supertaifun-vor](https://www.spiegel.de/panorama/ragasa-hongkong-bereitet-sich-auf-den-supertaifun-vor-a-5e2dda9b-aa7c-4c59-837c-c66f44126d8f#ref=rss)
+### supertaifun
+
+* [https://www.spiegel.de/panorama/ragasa-hongkong-bereitet-sich-auf-den-supertaifun-vor](https://www.spiegel.de/panorama/ragasa-hongkong-bereitet-sich-auf-den-supertaifun-vor-a-5e2dda9b-aa7c-4c59-837c-c66f44126d8f#ref=rss)
+### anschlag
+
+* [https://www.spiegel.de/ausland/daenemarks-ministerpraesidentin-mette-frederiksen-spricht-von-anschlag](https://www.spiegel.de/ausland/daenemarks-ministerpraesidentin-mette-frederiksen-spricht-von-anschlag-a-229b525b-2a4e-4104-8914-cd97964a758d#ref=rss)
+### nacht
+
+* [https://www.spiegel.de/ausland/daenemarks-ministerpraesidentin-mette-frederiksen-spricht-von-anschlag](https://www.spiegel.de/ausland/daenemarks-ministerpraesidentin-mette-frederiksen-spricht-von-anschlag-a-229b525b-2a4e-4104-8914-cd97964a758d#ref=rss)
+* [https://www.spiegel.de/panorama/deutsche-bahn-bahnverkehr-zwischen-berlin-und-hamburg-nach-oberleitungsstoerung-bei-uelzen-wieder-angelaufen](https://www.spiegel.de/panorama/deutsche-bahn-bahnverkehr-zwischen-berlin-und-hamburg-nach-oberleitungsstoerung-bei-uelzen-wieder-angelaufen-a-b8f6437b-cac1-4fc5-8342-6cc887390178#ref=rss)
+### neuseeland
+
+* [https://www.spiegel.de/panorama/justiz/neuseeland-leichen-in-koffern-verwahrt-mutter-wegen-toetung-ihrer-beiden-kinder-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/neuseeland-leichen-in-koffern-verwahrt-mutter-wegen-toetung-ihrer-beiden-kinder-schuldig-gesprochen-a-9c774bab-4f00-4518-9c75-f379190fa24a#ref=rss)
+### koffern
+
+* [https://www.spiegel.de/panorama/justiz/neuseeland-leichen-in-koffern-verwahrt-mutter-wegen-toetung-ihrer-beiden-kinder-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/neuseeland-leichen-in-koffern-verwahrt-mutter-wegen-toetung-ihrer-beiden-kinder-schuldig-gesprochen-a-9c774bab-4f00-4518-9c75-f379190fa24a#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/justiz/neuseeland-leichen-in-koffern-verwahrt-mutter-wegen-toetung-ihrer-beiden-kinder-schuldig-gesprochen](https://www.spiegel.de/panorama/justiz/neuseeland-leichen-in-koffern-verwahrt-mutter-wegen-toetung-ihrer-beiden-kinder-schuldig-gesprochen-a-9c774bab-4f00-4518-9c75-f379190fa24a#ref=rss)
+### strafgerichtshof
+
+* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-burkina-faso-mali-und-niger-treten-aus-istgh-aus](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-burkina-faso-mali-und-niger-treten-aus-istgh-aus-a-10bf68ad-a828-4535-b130-ac0de7516853#ref=rss)
+### burkina
+
+* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-burkina-faso-mali-und-niger-treten-aus-istgh-aus](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-burkina-faso-mali-und-niger-treten-aus-istgh-aus-a-10bf68ad-a828-4535-b130-ac0de7516853#ref=rss)
+### faso
+
+* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-burkina-faso-mali-und-niger-treten-aus-istgh-aus](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-burkina-faso-mali-und-niger-treten-aus-istgh-aus-a-10bf68ad-a828-4535-b130-ac0de7516853#ref=rss)
+### mali
+
+* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-burkina-faso-mali-und-niger-treten-aus-istgh-aus](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-burkina-faso-mali-und-niger-treten-aus-istgh-aus-a-10bf68ad-a828-4535-b130-ac0de7516853#ref=rss)
+### niger
+
+* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-burkina-faso-mali-und-niger-treten-aus-istgh-aus](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-burkina-faso-mali-und-niger-treten-aus-istgh-aus-a-10bf68ad-a828-4535-b130-ac0de7516853#ref=rss)
+### jeffrey
+
+* [https://www.spiegel.de/panorama/leute/jeffrey-epstein-wohltaetigkeitsorganisationen-distanzieren-sich-wegen-e-mail-an-multimillionaer-von-sarah-ferguson](https://www.spiegel.de/panorama/leute/jeffrey-epstein-wohltaetigkeitsorganisationen-distanzieren-sich-wegen-e-mail-an-multimillionaer-von-sarah-ferguson-a-1ac5d59d-ee70-4438-adf8-dbfbcfe14281#ref=rss)
+### epstein
+
+* [https://www.spiegel.de/panorama/leute/jeffrey-epstein-wohltaetigkeitsorganisationen-distanzieren-sich-wegen-e-mail-an-multimillionaer-von-sarah-ferguson](https://www.spiegel.de/panorama/leute/jeffrey-epstein-wohltaetigkeitsorganisationen-distanzieren-sich-wegen-e-mail-an-multimillionaer-von-sarah-ferguson-a-1ac5d59d-ee70-4438-adf8-dbfbcfe14281#ref=rss)
+### email
+
+* [https://www.spiegel.de/panorama/leute/jeffrey-epstein-wohltaetigkeitsorganisationen-distanzieren-sich-wegen-e-mail-an-multimillionaer-von-sarah-ferguson](https://www.spiegel.de/panorama/leute/jeffrey-epstein-wohltaetigkeitsorganisationen-distanzieren-sich-wegen-e-mail-an-multimillionaer-von-sarah-ferguson-a-1ac5d59d-ee70-4438-adf8-dbfbcfe14281#ref=rss)
+### sarah
+
+* [https://www.spiegel.de/panorama/leute/jeffrey-epstein-wohltaetigkeitsorganisationen-distanzieren-sich-wegen-e-mail-an-multimillionaer-von-sarah-ferguson](https://www.spiegel.de/panorama/leute/jeffrey-epstein-wohltaetigkeitsorganisationen-distanzieren-sich-wegen-e-mail-an-multimillionaer-von-sarah-ferguson-a-1ac5d59d-ee70-4438-adf8-dbfbcfe14281#ref=rss)
+### ferguson
+
+* [https://www.spiegel.de/panorama/leute/jeffrey-epstein-wohltaetigkeitsorganisationen-distanzieren-sich-wegen-e-mail-an-multimillionaer-von-sarah-ferguson](https://www.spiegel.de/panorama/leute/jeffrey-epstein-wohltaetigkeitsorganisationen-distanzieren-sich-wegen-e-mail-an-multimillionaer-von-sarah-ferguson-a-1ac5d59d-ee70-4438-adf8-dbfbcfe14281#ref=rss)
+### kamala
+
+* [https://www.spiegel.de/ausland/kamala-harris-memoiren-107-days-enthuellen-befremden-ueber-joe-biden](https://www.spiegel.de/ausland/kamala-harris-memoiren-107-days-enthuellen-befremden-ueber-joe-biden-a-92fc1325-dbd8-4e72-a349-c0b499ae0b7b#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/kamala-harris-memoiren-107-days-enthuellen-befremden-ueber-joe-biden](https://www.spiegel.de/ausland/kamala-harris-memoiren-107-days-enthuellen-befremden-ueber-joe-biden-a-92fc1325-dbd8-4e72-a349-c0b499ae0b7b#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/kamala-harris-memoiren-107-days-enthuellen-befremden-ueber-joe-biden](https://www.spiegel.de/ausland/kamala-harris-memoiren-107-days-enthuellen-befremden-ueber-joe-biden-a-92fc1325-dbd8-4e72-a349-c0b499ae0b7b#ref=rss)
+### nato
+
+* [https://www.spiegel.de/politik/deutschland/russlands-provokationen-die-nato-sollte-kuehl-bleiben-und-abwehrbereit](https://www.spiegel.de/politik/deutschland/russlands-provokationen-die-nato-sollte-kuehl-bleiben-und-abwehrbereit-a-aae20bc8-afed-409a-83f6-94456ea347bf#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/politik/deutschland/russlands-provokationen-die-nato-sollte-kuehl-bleiben-und-abwehrbereit](https://www.spiegel.de/politik/deutschland/russlands-provokationen-die-nato-sollte-kuehl-bleiben-und-abwehrbereit-a-aae20bc8-afed-409a-83f6-94456ea347bf#ref=rss)
+### bündnis
+
+* [https://www.spiegel.de/politik/deutschland/russlands-provokationen-die-nato-sollte-kuehl-bleiben-und-abwehrbereit](https://www.spiegel.de/politik/deutschland/russlands-provokationen-die-nato-sollte-kuehl-bleiben-und-abwehrbereit-a-aae20bc8-afed-409a-83f6-94456ea347bf#ref=rss)
+### aldipc
+
+* [https://www.spiegel.de/wirtschaft/service/aldi-pc-kommt-ins-haus-der-geschichte](https://www.spiegel.de/wirtschaft/service/aldi-pc-kommt-ins-haus-der-geschichte-a-4fe079c0-4469-4254-9fed-9af2cb7923b6#ref=rss)
+### ballon
+
+* [https://www.spiegel.de/sport/fussball/fussball-ballon-dor-2025-geht-an-ousmane-dembele-und-aitana-bonmati-pressestimmen](https://www.spiegel.de/sport/fussball/fussball-ballon-dor-2025-geht-an-ousmane-dembele-und-aitana-bonmati-pressestimmen-a-0478c35e-b15b-4fbd-b4f0-562d320acafd#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/sport/fussball/fussball-ballon-dor-2025-geht-an-ousmane-dembele-und-aitana-bonmati-pressestimmen](https://www.spiegel.de/sport/fussball/fussball-ballon-dor-2025-geht-an-ousmane-dembele-und-aitana-bonmati-pressestimmen-a-0478c35e-b15b-4fbd-b4f0-562d320acafd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/heizkosten-koennten-2025-deutlich-ansteigen](https://www.spiegel.de/wirtschaft/service/heizkosten-koennten-2025-deutlich-ansteigen-a-ecbc094a-1fc7-40ca-8bc5-8f9ac434781b#ref=rss)
+### ousmane
+
+* [https://www.spiegel.de/sport/fussball/fussball-ballon-dor-2025-geht-an-ousmane-dembele-und-aitana-bonmati-pressestimmen](https://www.spiegel.de/sport/fussball/fussball-ballon-dor-2025-geht-an-ousmane-dembele-und-aitana-bonmati-pressestimmen-a-0478c35e-b15b-4fbd-b4f0-562d320acafd#ref=rss)
+### dembélé
+
+* [https://www.spiegel.de/sport/fussball/fussball-ballon-dor-2025-geht-an-ousmane-dembele-und-aitana-bonmati-pressestimmen](https://www.spiegel.de/sport/fussball/fussball-ballon-dor-2025-geht-an-ousmane-dembele-und-aitana-bonmati-pressestimmen-a-0478c35e-b15b-4fbd-b4f0-562d320acafd#ref=rss)
+### aitana
+
+* [https://www.spiegel.de/sport/fussball/fussball-ballon-dor-2025-geht-an-ousmane-dembele-und-aitana-bonmati-pressestimmen](https://www.spiegel.de/sport/fussball/fussball-ballon-dor-2025-geht-an-ousmane-dembele-und-aitana-bonmati-pressestimmen-a-0478c35e-b15b-4fbd-b4f0-562d320acafd#ref=rss)
+### pressestimmen
+
+* [https://www.spiegel.de/sport/fussball/fussball-ballon-dor-2025-geht-an-ousmane-dembele-und-aitana-bonmati-pressestimmen](https://www.spiegel.de/sport/fussball/fussball-ballon-dor-2025-geht-an-ousmane-dembele-und-aitana-bonmati-pressestimmen-a-0478c35e-b15b-4fbd-b4f0-562d320acafd#ref=rss)
+### andere
+
+* [https://www.spiegel.de/wirtschaft/service/heizkosten-koennten-2025-deutlich-ansteigen](https://www.spiegel.de/wirtschaft/service/heizkosten-koennten-2025-deutlich-ansteigen-a-ecbc094a-1fc7-40ca-8bc5-8f9ac434781b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehrsminister-schnieder-veraergert-regierungspartner-mit-mangelnder-abstimmung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehrsminister-schnieder-veraergert-regierungspartner-mit-mangelnder-abstimmung-a-672598e2-3f46-45b4-8763-5de9486d9479#ref=rss)
+### verkehrsminister
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehrsminister-schnieder-veraergert-regierungspartner-mit-mangelnder-abstimmung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehrsminister-schnieder-veraergert-regierungspartner-mit-mangelnder-abstimmung-a-672598e2-3f46-45b4-8763-5de9486d9479#ref=rss)
+### schnieder
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehrsminister-schnieder-veraergert-regierungspartner-mit-mangelnder-abstimmung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-verkehrsminister-schnieder-veraergert-regierungspartner-mit-mangelnder-abstimmung-a-672598e2-3f46-45b4-8763-5de9486d9479#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/deutsche-bahn-bahnverkehr-zwischen-berlin-und-hamburg-nach-oberleitungsstoerung-bei-uelzen-wieder-angelaufen](https://www.spiegel.de/panorama/deutsche-bahn-bahnverkehr-zwischen-berlin-und-hamburg-nach-oberleitungsstoerung-bei-uelzen-wieder-angelaufen-a-b8f6437b-cac1-4fc5-8342-6cc887390178#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/deutsche-bahn-bahnverkehr-zwischen-berlin-und-hamburg-nach-oberleitungsstoerung-bei-uelzen-wieder-angelaufen](https://www.spiegel.de/panorama/deutsche-bahn-bahnverkehr-zwischen-berlin-und-hamburg-nach-oberleitungsstoerung-bei-uelzen-wieder-angelaufen-a-b8f6437b-cac1-4fc5-8342-6cc887390178#ref=rss)
+### nils
+
+* [https://www.spiegel.de/sport/fussballer-nils-petersen-warum-der-sc-freiburg-star-jetzt-in-der-kreisklasse-bei-oberried-kickt](https://www.spiegel.de/sport/fussballer-nils-petersen-warum-der-sc-freiburg-star-jetzt-in-der-kreisklasse-bei-oberried-kickt-a-3403d5e9-cc29-492b-8c7c-61f5d2e94c27#ref=rss)
+### petersen
+
+* [https://www.spiegel.de/sport/fussballer-nils-petersen-warum-der-sc-freiburg-star-jetzt-in-der-kreisklasse-bei-oberried-kickt](https://www.spiegel.de/sport/fussballer-nils-petersen-warum-der-sc-freiburg-star-jetzt-in-der-kreisklasse-bei-oberried-kickt-a-3403d5e9-cc29-492b-8c7c-61f5d2e94c27#ref=rss)
+### kreisklasse
+
+* [https://www.spiegel.de/sport/fussballer-nils-petersen-warum-der-sc-freiburg-star-jetzt-in-der-kreisklasse-bei-oberried-kickt](https://www.spiegel.de/sport/fussballer-nils-petersen-warum-der-sc-freiburg-star-jetzt-in-der-kreisklasse-bei-oberried-kickt-a-3403d5e9-cc29-492b-8c7c-61f5d2e94c27#ref=rss)
 
