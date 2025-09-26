@@ -4,454 +4,340 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ukraine-friedrich-merz-fordert-kredit-aus-eingefrorenem-russischen-vermoegen](https://www.spiegel.de/wirtschaft/ukraine-friedrich-merz-fordert-kredit-aus-eingefrorenem-russischen-vermoegen-a-1df851c6-b11a-4bf2-a17e-e719b2f9ff0f#ref=rss)
-### donald
-
-* [https://www.spiegel.de/kultur/jimmy-kimmel-mit-der-rueckkehr-des-comedian-stellt-sich-disney-gegen-donald-trump](https://www.spiegel.de/kultur/jimmy-kimmel-mit-der-rueckkehr-des-comedian-stellt-sich-disney-gegen-donald-trump-a-31fd1f0d-f626-4f81-94e4-db2bb1ca8544#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-jagd-auf-politische-gegner-wie-der-us-praesident-das-denken-zensiert](https://www.spiegel.de/ausland/donald-trump-jagd-auf-politische-gegner-wie-der-us-praesident-das-denken-zensiert-a-e3019891-f9d7-4274-a72f-eda0010f9b67#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-draengt-recep-tayyip-erdogan-zum-verzicht-auf-russisches-oel](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-draengt-recep-tayyip-erdogan-zum-verzicht-auf-russisches-oel-a-04e1920b-38f0-494b-94f4-aae81f1c4d77#ref=rss)
-### trump
-
-* [https://www.spiegel.de/kultur/jimmy-kimmel-mit-der-rueckkehr-des-comedian-stellt-sich-disney-gegen-donald-trump](https://www.spiegel.de/kultur/jimmy-kimmel-mit-der-rueckkehr-des-comedian-stellt-sich-disney-gegen-donald-trump-a-31fd1f0d-f626-4f81-94e4-db2bb1ca8544#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-jagd-auf-politische-gegner-wie-der-us-praesident-das-denken-zensiert](https://www.spiegel.de/ausland/donald-trump-jagd-auf-politische-gegner-wie-der-us-praesident-das-denken-zensiert-a-e3019891-f9d7-4274-a72f-eda0010f9b67#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-draengt-recep-tayyip-erdogan-zum-verzicht-auf-russisches-oel](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-draengt-recep-tayyip-erdogan-zum-verzicht-auf-russisches-oel-a-04e1920b-38f0-494b-94f4-aae81f1c4d77#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ukraine-friedrich-merz-fordert-kredit-aus-eingefrorenem-russischen-vermoegen](https://www.spiegel.de/wirtschaft/ukraine-friedrich-merz-fordert-kredit-aus-eingefrorenem-russischen-vermoegen-a-1df851c6-b11a-4bf2-a17e-e719b2f9ff0f#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/schule-frau-soll-jahrelang-ohne-abschluss-als-lehrerin-gearbeitet-haben](https://www.spiegel.de/panorama/schule-frau-soll-jahrelang-ohne-abschluss-als-lehrerin-gearbeitet-haben-a-201c9cbc-284c-4860-a261-2160eb3b1a6e#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot](https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot-a-5456ed5a-6e58-4785-b9d5-7221b3b8dd06#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/wirtschaft/amazon-vergleich-ueber-2-5-milliarden-dollar-im-streit-um-prime-abos](https://www.spiegel.de/wirtschaft/amazon-vergleich-ueber-2-5-milliarden-dollar-im-streit-um-prime-abos-a-2b7944ac-1ea4-423b-8dd4-4f9b3a6ce51a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ukraine-friedrich-merz-fordert-kredit-aus-eingefrorenem-russischen-vermoegen](https://www.spiegel.de/wirtschaft/ukraine-friedrich-merz-fordert-kredit-aus-eingefrorenem-russischen-vermoegen-a-1df851c6-b11a-4bf2-a17e-e719b2f9ff0f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-kuendigt-35-milliarden-fuer-weltraumsicherheit-an](https://www.spiegel.de/politik/deutschland/boris-pistorius-kuendigt-35-milliarden-fuer-weltraumsicherheit-an-a-9b14672c-04fe-4eef-981c-733b9c7766c2#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/studie-mit-taylor-swift-mit-dem-wohnort-veraenderte-sich-ihre-aussprache](https://www.spiegel.de/wissenschaft/mensch/studie-mit-taylor-swift-mit-dem-wohnort-veraenderte-sich-ihre-aussprache-a-bf214722-555d-4fda-af5f-361c61b4cf78#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-kuendigt-35-milliarden-fuer-weltraumsicherheit-an](https://www.spiegel.de/politik/deutschland/boris-pistorius-kuendigt-35-milliarden-fuer-weltraumsicherheit-an-a-9b14672c-04fe-4eef-981c-733b9c7766c2#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/wolfram-weimer-ki-avatar-des-kulturstaatsministers-spricht-fliessend-chinesisch](https://www.spiegel.de/kultur/wolfram-weimer-ki-avatar-des-kulturstaatsministers-spricht-fliessend-chinesisch-a-0d0f2b36-7821-44d6-8c83-e854271a7269#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ukraine-friedrich-merz-fordert-kredit-aus-eingefrorenem-russischen-vermoegen](https://www.spiegel.de/wirtschaft/ukraine-friedrich-merz-fordert-kredit-aus-eingefrorenem-russischen-vermoegen-a-1df851c6-b11a-4bf2-a17e-e719b2f9ff0f#ref=rss)
-* [https://www.spiegel.de/auto/schulweg-zahl-von-unfaellen-in-erstem-halbjahr-gestiegen](https://www.spiegel.de/auto/schulweg-zahl-von-unfaellen-in-erstem-halbjahr-gestiegen-a-7db0c42c-6a47-43b3-906e-2eed520a00d6#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/kultur/jimmy-kimmel-mit-der-rueckkehr-des-comedian-stellt-sich-disney-gegen-donald-trump](https://www.spiegel.de/kultur/jimmy-kimmel-mit-der-rueckkehr-des-comedian-stellt-sich-disney-gegen-donald-trump-a-31fd1f0d-f626-4f81-94e4-db2bb1ca8544#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/helsing-markus-soeder-lobt-start-up-fuer-innovatives-kampfflugzeug](https://www.spiegel.de/politik/deutschland/helsing-markus-soeder-lobt-start-up-fuer-innovatives-kampfflugzeug-a-c05a4ead-398d-43ff-885c-716829bef844#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/wirtschaft/us-wirtschaft-bip-waechst-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/us-wirtschaft-bip-waechst-staerker-als-erwartet-a-0c73e804-387c-4552-bd9a-a35ebe4d7ca2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ein-anfang-mit-schrecken-fuer-verkehrsminister-patrick-schnieder-kommentar](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ein-anfang-mit-schrecken-fuer-verkehrsminister-patrick-schnieder-kommentar-a-7a2ef741-9749-4104-a8b1-e2bd6d283a15#ref=rss)
-* [https://www.spiegel.de/auto/schulweg-zahl-von-unfaellen-in-erstem-halbjahr-gestiegen](https://www.spiegel.de/auto/schulweg-zahl-von-unfaellen-in-erstem-halbjahr-gestiegen-a-7db0c42c-6a47-43b3-906e-2eed520a00d6#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/panorama/schule-frau-soll-jahrelang-ohne-abschluss-als-lehrerin-gearbeitet-haben](https://www.spiegel.de/panorama/schule-frau-soll-jahrelang-ohne-abschluss-als-lehrerin-gearbeitet-haben-a-201c9cbc-284c-4860-a261-2160eb3b1a6e#ref=rss)
-* [https://www.spiegel.de/sport/mount-everest-andrzej-bargiel-faehrt-ohne-flaschensauerstoff-auf-skiern-hinab](https://www.spiegel.de/sport/mount-everest-andrzej-bargiel-faehrt-ohne-flaschensauerstoff-auf-skiern-hinab-a-11f05101-8499-40ca-8ee5-ba3c10c36666#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-waehlt-drei-neue-richter-fuer-das-bundesverfassungsgericht](https://www.spiegel.de/politik/deutschland/bundestag-waehlt-drei-neue-richter-fuer-das-bundesverfassungsgericht-a-ee27e4e8-a86d-4177-8a4f-c18cec660a35#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels](https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels-a-11ad8707-fe92-4c36-a985-c277a0a3f2e6#ref=rss)
-### russische
-
-* [https://www.spiegel.de/wirtschaft/ukraine-friedrich-merz-fordert-kredit-aus-eingefrorenem-russischen-vermoegen](https://www.spiegel.de/wirtschaft/ukraine-friedrich-merz-fordert-kredit-aus-eingefrorenem-russischen-vermoegen-a-1df851c6-b11a-4bf2-a17e-e719b2f9ff0f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaschutz-nato-uebung-red-storm-bravo-und-russische-provokationen-markus-soeder-und-die-raumfahrt](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaschutz-nato-uebung-red-storm-bravo-und-russische-provokationen-markus-soeder-und-die-raumfahrt-a-5ba74c2e-8a82-480e-811f-ba6b22a52f31#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-kuendigt-35-milliarden-fuer-weltraumsicherheit-an](https://www.spiegel.de/politik/deutschland/boris-pistorius-kuendigt-35-milliarden-fuer-weltraumsicherheit-an-a-9b14672c-04fe-4eef-981c-733b9c7766c2#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-bombardiert-jemens-hauptstadt-sanaa](https://www.spiegel.de/ausland/israel-bombardiert-jemens-hauptstadt-sanaa-a-3cf153bf-e30a-4ac4-87b2-cd57aefe01c8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels](https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels-a-11ad8707-fe92-4c36-a985-c277a0a3f2e6#ref=rss)
-### markus
-
-* [https://www.spiegel.de/politik/deutschland/helsing-markus-soeder-lobt-start-up-fuer-innovatives-kampfflugzeug](https://www.spiegel.de/politik/deutschland/helsing-markus-soeder-lobt-start-up-fuer-innovatives-kampfflugzeug-a-c05a4ead-398d-43ff-885c-716829bef844#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaschutz-nato-uebung-red-storm-bravo-und-russische-provokationen-markus-soeder-und-die-raumfahrt](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaschutz-nato-uebung-red-storm-bravo-und-russische-provokationen-markus-soeder-und-die-raumfahrt-a-5ba74c2e-8a82-480e-811f-ba6b22a52f31#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/helsing-markus-soeder-lobt-start-up-fuer-innovatives-kampfflugzeug](https://www.spiegel.de/politik/deutschland/helsing-markus-soeder-lobt-start-up-fuer-innovatives-kampfflugzeug-a-c05a4ead-398d-43ff-885c-716829bef844#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaschutz-nato-uebung-red-storm-bravo-und-russische-provokationen-markus-soeder-und-die-raumfahrt](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaschutz-nato-uebung-red-storm-bravo-und-russische-provokationen-markus-soeder-und-die-raumfahrt-a-5ba74c2e-8a82-480e-811f-ba6b22a52f31#ref=rss)
-### nicolas
-
-* [https://www.spiegel.de/ausland/nicolas-sarkozy-warum-frankreichs-ex-praesident-ins-gefaengnis-muss](https://www.spiegel.de/ausland/nicolas-sarkozy-warum-frankreichs-ex-praesident-ins-gefaengnis-muss-a-c45783db-3bdb-4ab0-afe8-6c30ac100b1b#ref=rss)
-### sarkozy
-
-* [https://www.spiegel.de/ausland/nicolas-sarkozy-warum-frankreichs-ex-praesident-ins-gefaengnis-muss](https://www.spiegel.de/ausland/nicolas-sarkozy-warum-frankreichs-ex-praesident-ins-gefaengnis-muss-a-c45783db-3bdb-4ab0-afe8-6c30ac100b1b#ref=rss)
-### frankreichs
-
-* [https://www.spiegel.de/ausland/nicolas-sarkozy-warum-frankreichs-ex-praesident-ins-gefaengnis-muss](https://www.spiegel.de/ausland/nicolas-sarkozy-warum-frankreichs-ex-praesident-ins-gefaengnis-muss-a-c45783db-3bdb-4ab0-afe8-6c30ac100b1b#ref=rss)
-### expräsident
-
-* [https://www.spiegel.de/ausland/nicolas-sarkozy-warum-frankreichs-ex-praesident-ins-gefaengnis-muss](https://www.spiegel.de/ausland/nicolas-sarkozy-warum-frankreichs-ex-praesident-ins-gefaengnis-muss-a-c45783db-3bdb-4ab0-afe8-6c30ac100b1b#ref=rss)
-### teil
-
-* [https://www.spiegel.de/ausland/nicolas-sarkozy-warum-frankreichs-ex-praesident-ins-gefaengnis-muss](https://www.spiegel.de/ausland/nicolas-sarkozy-warum-frankreichs-ex-praesident-ins-gefaengnis-muss-a-c45783db-3bdb-4ab0-afe8-6c30ac100b1b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/amazon-vergleich-ueber-2-5-milliarden-dollar-im-streit-um-prime-abos](https://www.spiegel.de/wirtschaft/amazon-vergleich-ueber-2-5-milliarden-dollar-im-streit-um-prime-abos-a-2b7944ac-1ea4-423b-8dd4-4f9b3a6ce51a#ref=rss)
-### geld
-
-* [https://www.spiegel.de/ausland/nicolas-sarkozy-warum-frankreichs-ex-praesident-ins-gefaengnis-muss](https://www.spiegel.de/ausland/nicolas-sarkozy-warum-frankreichs-ex-praesident-ins-gefaengnis-muss-a-c45783db-3bdb-4ab0-afe8-6c30ac100b1b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaschutz-nato-uebung-red-storm-bravo-und-russische-provokationen-markus-soeder-und-die-raumfahrt](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaschutz-nato-uebung-red-storm-bravo-und-russische-provokationen-markus-soeder-und-die-raumfahrt-a-5ba74c2e-8a82-480e-811f-ba6b22a52f31#ref=rss)
-### davon
-
-* [https://www.spiegel.de/ausland/nicolas-sarkozy-warum-frankreichs-ex-praesident-ins-gefaengnis-muss](https://www.spiegel.de/ausland/nicolas-sarkozy-warum-frankreichs-ex-praesident-ins-gefaengnis-muss-a-c45783db-3bdb-4ab0-afe8-6c30ac100b1b#ref=rss)
-* [https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt](https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt-a-331afe75-fe12-48ec-ba60-76b5ec8412f9#ref=rss)
-### wolfram
-
-* [https://www.spiegel.de/kultur/wolfram-weimer-ki-avatar-des-kulturstaatsministers-spricht-fliessend-chinesisch](https://www.spiegel.de/kultur/wolfram-weimer-ki-avatar-des-kulturstaatsministers-spricht-fliessend-chinesisch-a-0d0f2b36-7821-44d6-8c83-e854271a7269#ref=rss)
-### weimer
-
-* [https://www.spiegel.de/kultur/wolfram-weimer-ki-avatar-des-kulturstaatsministers-spricht-fliessend-chinesisch](https://www.spiegel.de/kultur/wolfram-weimer-ki-avatar-des-kulturstaatsministers-spricht-fliessend-chinesisch-a-0d0f2b36-7821-44d6-8c83-e854271a7269#ref=rss)
-### kiavatar
-
-* [https://www.spiegel.de/kultur/wolfram-weimer-ki-avatar-des-kulturstaatsministers-spricht-fliessend-chinesisch](https://www.spiegel.de/kultur/wolfram-weimer-ki-avatar-des-kulturstaatsministers-spricht-fliessend-chinesisch-a-0d0f2b36-7821-44d6-8c83-e854271a7269#ref=rss)
-### ließ
-
-* [https://www.spiegel.de/kultur/wolfram-weimer-ki-avatar-des-kulturstaatsministers-spricht-fliessend-chinesisch](https://www.spiegel.de/kultur/wolfram-weimer-ki-avatar-des-kulturstaatsministers-spricht-fliessend-chinesisch-a-0d0f2b36-7821-44d6-8c83-e854271a7269#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/michael-kretschmer-pr-agentur-organisierte-auch-spendendinner-fuer-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/michael-kretschmer-pr-agentur-organisierte-auch-spendendinner-fuer-ministerpraesidenten-a-c0793b01-13d4-41c1-8038-eeb58e2d29e1#ref=rss)
-### jimmy
-
-* [https://www.spiegel.de/kultur/jimmy-kimmel-mit-der-rueckkehr-des-comedian-stellt-sich-disney-gegen-donald-trump](https://www.spiegel.de/kultur/jimmy-kimmel-mit-der-rueckkehr-des-comedian-stellt-sich-disney-gegen-donald-trump-a-31fd1f0d-f626-4f81-94e4-db2bb1ca8544#ref=rss)
-### disney
-
-* [https://www.spiegel.de/kultur/jimmy-kimmel-mit-der-rueckkehr-des-comedian-stellt-sich-disney-gegen-donald-trump](https://www.spiegel.de/kultur/jimmy-kimmel-mit-der-rueckkehr-des-comedian-stellt-sich-disney-gegen-donald-trump-a-31fd1f0d-f626-4f81-94e4-db2bb1ca8544#ref=rss)
-### konzern
-
-* [https://www.spiegel.de/kultur/jimmy-kimmel-mit-der-rueckkehr-des-comedian-stellt-sich-disney-gegen-donald-trump](https://www.spiegel.de/kultur/jimmy-kimmel-mit-der-rueckkehr-des-comedian-stellt-sich-disney-gegen-donald-trump-a-31fd1f0d-f626-4f81-94e4-db2bb1ca8544#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ein-anfang-mit-schrecken-fuer-verkehrsminister-patrick-schnieder-kommentar](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ein-anfang-mit-schrecken-fuer-verkehrsminister-patrick-schnieder-kommentar-a-7a2ef741-9749-4104-a8b1-e2bd6d283a15#ref=rss)
-### meinung
-
-* [https://www.spiegel.de/kultur/jimmy-kimmel-mit-der-rueckkehr-des-comedian-stellt-sich-disney-gegen-donald-trump](https://www.spiegel.de/kultur/jimmy-kimmel-mit-der-rueckkehr-des-comedian-stellt-sich-disney-gegen-donald-trump-a-31fd1f0d-f626-4f81-94e4-db2bb1ca8544#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ein-anfang-mit-schrecken-fuer-verkehrsminister-patrick-schnieder-kommentar](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ein-anfang-mit-schrecken-fuer-verkehrsminister-patrick-schnieder-kommentar-a-7a2ef741-9749-4104-a8b1-e2bd6d283a15#ref=rss)
-### uswirtschaft
-
-* [https://www.spiegel.de/wirtschaft/us-wirtschaft-bip-waechst-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/us-wirtschaft-bip-waechst-staerker-als-erwartet-a-0c73e804-387c-4552-bd9a-a35ebe4d7ca2#ref=rss)
-### wächst
-
-* [https://www.spiegel.de/wirtschaft/us-wirtschaft-bip-waechst-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/us-wirtschaft-bip-waechst-staerker-als-erwartet-a-0c73e804-387c-4552-bd9a-a35ebe4d7ca2#ref=rss)
-### importe
-
-* [https://www.spiegel.de/wirtschaft/us-wirtschaft-bip-waechst-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/us-wirtschaft-bip-waechst-staerker-als-erwartet-a-0c73e804-387c-4552-bd9a-a35ebe4d7ca2#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-draengt-recep-tayyip-erdogan-zum-verzicht-auf-russisches-oel](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-draengt-recep-tayyip-erdogan-zum-verzicht-auf-russisches-oel-a-04e1920b-38f0-494b-94f4-aae81f1c4d77#ref=rss)
-### charlie
-
-* [https://www.spiegel.de/ausland/donald-trump-jagd-auf-politische-gegner-wie-der-us-praesident-das-denken-zensiert](https://www.spiegel.de/ausland/donald-trump-jagd-auf-politische-gegner-wie-der-us-praesident-das-denken-zensiert-a-e3019891-f9d7-4274-a72f-eda0010f9b67#ref=rss)
-* [https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt](https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt-a-331afe75-fe12-48ec-ba60-76b5ec8412f9#ref=rss)
-### kirk
-
-* [https://www.spiegel.de/ausland/donald-trump-jagd-auf-politische-gegner-wie-der-us-praesident-das-denken-zensiert](https://www.spiegel.de/ausland/donald-trump-jagd-auf-politische-gegner-wie-der-us-praesident-das-denken-zensiert-a-e3019891-f9d7-4274-a72f-eda0010f9b67#ref=rss)
-* [https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt](https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt-a-331afe75-fe12-48ec-ba60-76b5ec8412f9#ref=rss)
-### lehrerin
-
-* [https://www.spiegel.de/panorama/schule-frau-soll-jahrelang-ohne-abschluss-als-lehrerin-gearbeitet-haben](https://www.spiegel.de/panorama/schule-frau-soll-jahrelang-ohne-abschluss-als-lehrerin-gearbeitet-haben-a-201c9cbc-284c-4860-a261-2160eb3b1a6e#ref=rss)
-### ausgerechnet
-
-* [https://www.spiegel.de/panorama/schule-frau-soll-jahrelang-ohne-abschluss-als-lehrerin-gearbeitet-haben](https://www.spiegel.de/panorama/schule-frau-soll-jahrelang-ohne-abschluss-als-lehrerin-gearbeitet-haben-a-201c9cbc-284c-4860-a261-2160eb3b1a6e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaschutz-nato-uebung-red-storm-bravo-und-russische-provokationen-markus-soeder-und-die-raumfahrt](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaschutz-nato-uebung-red-storm-bravo-und-russische-provokationen-markus-soeder-und-die-raumfahrt-a-5ba74c2e-8a82-480e-811f-ba6b22a52f31#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/schule-frau-soll-jahrelang-ohne-abschluss-als-lehrerin-gearbeitet-haben](https://www.spiegel.de/panorama/schule-frau-soll-jahrelang-ohne-abschluss-als-lehrerin-gearbeitet-haben-a-201c9cbc-284c-4860-a261-2160eb3b1a6e#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik/marathonlaeuferin-shewarge-alene-stirbt-im-alter-von-30-jahren](https://www.spiegel.de/sport/leichtathletik/marathonlaeuferin-shewarge-alene-stirbt-im-alter-von-30-jahren-a-ec6af94a-3c6d-4589-b472-ce6624cf6ef4#ref=rss)
-### drängt
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-draengt-recep-tayyip-erdogan-zum-verzicht-auf-russisches-oel](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-draengt-recep-tayyip-erdogan-zum-verzicht-auf-russisches-oel-a-04e1920b-38f0-494b-94f4-aae81f1c4d77#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schuldenbremse-reformvorschlaege-kommen-spaeter-als-geplant](https://www.spiegel.de/wirtschaft/schuldenbremse-reformvorschlaege-kommen-spaeter-als-geplant-a-fba3121c-89f6-494f-b5e5-24a52d2d2ffd#ref=rss)
-### erdoğan
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-draengt-recep-tayyip-erdogan-zum-verzicht-auf-russisches-oel](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-draengt-recep-tayyip-erdogan-zum-verzicht-auf-russisches-oel-a-04e1920b-38f0-494b-94f4-aae81f1c4d77#ref=rss)
-### russisches
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-draengt-recep-tayyip-erdogan-zum-verzicht-auf-russisches-oel](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-draengt-recep-tayyip-erdogan-zum-verzicht-auf-russisches-oel-a-04e1920b-38f0-494b-94f4-aae81f1c4d77#ref=rss)
-### öl
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-draengt-recep-tayyip-erdogan-zum-verzicht-auf-russisches-oel](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-draengt-recep-tayyip-erdogan-zum-verzicht-auf-russisches-oel-a-04e1920b-38f0-494b-94f4-aae81f1c4d77#ref=rss)
-### amazon
-
-* [https://www.spiegel.de/wirtschaft/amazon-vergleich-ueber-2-5-milliarden-dollar-im-streit-um-prime-abos](https://www.spiegel.de/wirtschaft/amazon-vergleich-ueber-2-5-milliarden-dollar-im-streit-um-prime-abos-a-2b7944ac-1ea4-423b-8dd4-4f9b3a6ce51a#ref=rss)
-### vergleich
-
-* [https://www.spiegel.de/wirtschaft/amazon-vergleich-ueber-2-5-milliarden-dollar-im-streit-um-prime-abos](https://www.spiegel.de/wirtschaft/amazon-vergleich-ueber-2-5-milliarden-dollar-im-streit-um-prime-abos-a-2b7944ac-1ea4-423b-8dd4-4f9b3a6ce51a#ref=rss)
-### shewarge
-
-* [https://www.spiegel.de/sport/leichtathletik/marathonlaeuferin-shewarge-alene-stirbt-im-alter-von-30-jahren](https://www.spiegel.de/sport/leichtathletik/marathonlaeuferin-shewarge-alene-stirbt-im-alter-von-30-jahren-a-ec6af94a-3c6d-4589-b472-ce6624cf6ef4#ref=rss)
-### alene
-
-* [https://www.spiegel.de/sport/leichtathletik/marathonlaeuferin-shewarge-alene-stirbt-im-alter-von-30-jahren](https://www.spiegel.de/sport/leichtathletik/marathonlaeuferin-shewarge-alene-stirbt-im-alter-von-30-jahren-a-ec6af94a-3c6d-4589-b472-ce6624cf6ef4#ref=rss)
-### 30
-
-* [https://www.spiegel.de/sport/leichtathletik/marathonlaeuferin-shewarge-alene-stirbt-im-alter-von-30-jahren](https://www.spiegel.de/sport/leichtathletik/marathonlaeuferin-shewarge-alene-stirbt-im-alter-von-30-jahren-a-ec6af94a-3c6d-4589-b472-ce6624cf6ef4#ref=rss)
-### krankenhaus
-
-* [https://www.spiegel.de/sport/leichtathletik/marathonlaeuferin-shewarge-alene-stirbt-im-alter-von-30-jahren](https://www.spiegel.de/sport/leichtathletik/marathonlaeuferin-shewarge-alene-stirbt-im-alter-von-30-jahren-a-ec6af94a-3c6d-4589-b472-ce6624cf6ef4#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot](https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot-a-5456ed5a-6e58-4785-b9d5-7221b3b8dd06#ref=rss)
-### starb
-
-* [https://www.spiegel.de/sport/leichtathletik/marathonlaeuferin-shewarge-alene-stirbt-im-alter-von-30-jahren](https://www.spiegel.de/sport/leichtathletik/marathonlaeuferin-shewarge-alene-stirbt-im-alter-von-30-jahren-a-ec6af94a-3c6d-4589-b472-ce6624cf6ef4#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot](https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot-a-5456ed5a-6e58-4785-b9d5-7221b3b8dd06#ref=rss)
-### andrzej
-
-* [https://www.spiegel.de/sport/mount-everest-andrzej-bargiel-faehrt-ohne-flaschensauerstoff-auf-skiern-hinab](https://www.spiegel.de/sport/mount-everest-andrzej-bargiel-faehrt-ohne-flaschensauerstoff-auf-skiern-hinab-a-11f05101-8499-40ca-8ee5-ba3c10c36666#ref=rss)
-### bargiel
-
-* [https://www.spiegel.de/sport/mount-everest-andrzej-bargiel-faehrt-ohne-flaschensauerstoff-auf-skiern-hinab](https://www.spiegel.de/sport/mount-everest-andrzej-bargiel-faehrt-ohne-flaschensauerstoff-auf-skiern-hinab-a-11f05101-8499-40ca-8ee5-ba3c10c36666#ref=rss)
-### rumänien
-
-* [https://www.spiegel.de/ausland/rumaenien-armee-darf-russlands-drohnen-schneller-abschiessen](https://www.spiegel.de/ausland/rumaenien-armee-darf-russlands-drohnen-schneller-abschiessen-a-a9805453-49b7-445c-83a5-d5074b1ce5c3#ref=rss)
-### drohnen
-
-* [https://www.spiegel.de/ausland/rumaenien-armee-darf-russlands-drohnen-schneller-abschiessen](https://www.spiegel.de/ausland/rumaenien-armee-darf-russlands-drohnen-schneller-abschiessen-a-a9805453-49b7-445c-83a5-d5074b1ce5c3#ref=rss)
-### nato
-
-* [https://www.spiegel.de/ausland/rumaenien-armee-darf-russlands-drohnen-schneller-abschiessen](https://www.spiegel.de/ausland/rumaenien-armee-darf-russlands-drohnen-schneller-abschiessen-a-a9805453-49b7-445c-83a5-d5074b1ce5c3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaschutz-nato-uebung-red-storm-bravo-und-russische-provokationen-markus-soeder-und-die-raumfahrt](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaschutz-nato-uebung-red-storm-bravo-und-russische-provokationen-markus-soeder-und-die-raumfahrt-a-5ba74c2e-8a82-480e-811f-ba6b22a52f31#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/ausland/rumaenien-armee-darf-russlands-drohnen-schneller-abschiessen](https://www.spiegel.de/ausland/rumaenien-armee-darf-russlands-drohnen-schneller-abschiessen-a-a9805453-49b7-445c-83a5-d5074b1ce5c3#ref=rss)
-* [https://www.spiegel.de/panorama/koeln-razzia-wegen-verdacht-auf-wahlfaelschung-bei-integrationsrat](https://www.spiegel.de/panorama/koeln-razzia-wegen-verdacht-auf-wahlfaelschung-bei-integrationsrat-a-4ca88edc-e689-4206-997a-a3fb0818384a#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-waehlt-drei-neue-richter-fuer-das-bundesverfassungsgericht](https://www.spiegel.de/politik/deutschland/bundestag-waehlt-drei-neue-richter-fuer-das-bundesverfassungsgericht-a-ee27e4e8-a86d-4177-8a4f-c18cec660a35#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-waehlt-drei-neue-richter-fuer-das-bundesverfassungsgericht](https://www.spiegel.de/politik/deutschland/bundestag-waehlt-drei-neue-richter-fuer-das-bundesverfassungsgericht-a-ee27e4e8-a86d-4177-8a4f-c18cec660a35#ref=rss)
-* [https://www.spiegel.de/panorama/koeln-razzia-wegen-verdacht-auf-wahlfaelschung-bei-integrationsrat](https://www.spiegel.de/panorama/koeln-razzia-wegen-verdacht-auf-wahlfaelschung-bei-integrationsrat-a-4ca88edc-e689-4206-997a-a3fb0818384a#ref=rss)
-### erinnerungen
-
-* [https://www.spiegel.de/wissenschaft/mensch/warum-sich-manche-erinnerungen-einbrennen-und-andere-verpuffen](https://www.spiegel.de/wissenschaft/mensch/warum-sich-manche-erinnerungen-einbrennen-und-andere-verpuffen-a-8ae1c37f-f4b6-412a-98da-180b90155534#ref=rss)
-### legt
-
-* [https://www.spiegel.de/wissenschaft/mensch/warum-sich-manche-erinnerungen-einbrennen-und-andere-verpuffen](https://www.spiegel.de/wissenschaft/mensch/warum-sich-manche-erinnerungen-einbrennen-und-andere-verpuffen-a-8ae1c37f-f4b6-412a-98da-180b90155534#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schuldenbremse-reformvorschlaege-kommen-spaeter-als-geplant](https://www.spiegel.de/wirtschaft/schuldenbremse-reformvorschlaege-kommen-spaeter-als-geplant-a-fba3121c-89f6-494f-b5e5-24a52d2d2ffd#ref=rss)
-### new
-
-* [https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot](https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot-a-5456ed5a-6e58-4785-b9d5-7221b3b8dd06#ref=rss)
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-slowenien-erklaert-israels-premierminister-zur-unerwuenschten-person](https://www.spiegel.de/ausland/benjamin-netanyahu-slowenien-erklaert-israels-premierminister-zur-unerwuenschten-person-a-292884ef-a06e-4957-b3d3-d0b2ed69b5fa#ref=rss)
-### york
-
-* [https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot](https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot-a-5456ed5a-6e58-4785-b9d5-7221b3b8dd06#ref=rss)
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-slowenien-erklaert-israels-premierminister-zur-unerwuenschten-person](https://www.spiegel.de/ausland/benjamin-netanyahu-slowenien-erklaert-israels-premierminister-zur-unerwuenschten-person-a-292884ef-a06e-4957-b3d3-d0b2ed69b5fa#ref=rss)
-### deutsches
-
-* [https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot](https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot-a-5456ed5a-6e58-4785-b9d5-7221b3b8dd06#ref=rss)
-### ehepaar
-
-* [https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot](https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot-a-5456ed5a-6e58-4785-b9d5-7221b3b8dd06#ref=rss)
-### manhattan
-
-* [https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot](https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot-a-5456ed5a-6e58-4785-b9d5-7221b3b8dd06#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot](https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot-a-5456ed5a-6e58-4785-b9d5-7221b3b8dd06#ref=rss)
-* [https://www.spiegel.de/auto/schulweg-zahl-von-unfaellen-in-erstem-halbjahr-gestiegen](https://www.spiegel.de/auto/schulweg-zahl-von-unfaellen-in-erstem-halbjahr-gestiegen-a-7db0c42c-6a47-43b3-906e-2eed520a00d6#ref=rss)
-### wenig
-
-* [https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot](https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot-a-5456ed5a-6e58-4785-b9d5-7221b3b8dd06#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/michael-kretschmer-pr-agentur-organisierte-auch-spendendinner-fuer-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/michael-kretschmer-pr-agentur-organisierte-auch-spendendinner-fuer-ministerpraesidenten-a-c0793b01-13d4-41c1-8038-eeb58e2d29e1#ref=rss)
-### später
-
-* [https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot](https://www.spiegel.de/panorama/new-york-deutsches-ehepaar-in-manhattan-angefahren-frau-tot-a-5456ed5a-6e58-4785-b9d5-7221b3b8dd06#ref=rss)
-* [https://www.spiegel.de/wirtschaft/schuldenbremse-reformvorschlaege-kommen-spaeter-als-geplant](https://www.spiegel.de/wirtschaft/schuldenbremse-reformvorschlaege-kommen-spaeter-als-geplant-a-fba3121c-89f6-494f-b5e5-24a52d2d2ffd#ref=rss)
-### unbeliebt
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### drittel
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### unzufrieden
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### koalitionsstreit
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### krisenstimmung
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### setzen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### druck
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### selbstbewusst
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### spiegelredakteur
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### florian
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### gathmann
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### fehlen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### demut
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### disziplin
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-warum-der-kanzler-so-unbeliebt-ist-podcast-a-e9022942-2a1f-4431-bbe5-144adfe2e309#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist](https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-der-wirtschaftskrise-und-sich-selbst-warum-der-kanzler-so-unbeliebt-ist-a-36cedfc1-4d5e-41f5-9e64-38bdda88e92c#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/wirtschaft/ukraine-friedrich-merz-fordert-kredit-aus-eingefrorenem-russischen-vermoegen](https://www.spiegel.de/wirtschaft/ukraine-friedrich-merz-fordert-kredit-aus-eingefrorenem-russischen-vermoegen-a-1df851c6-b11a-4bf2-a17e-e719b2f9ff0f#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/wirtschaft/ukraine-friedrich-merz-fordert-kredit-aus-eingefrorenem-russischen-vermoegen](https://www.spiegel.de/wirtschaft/ukraine-friedrich-merz-fordert-kredit-aus-eingefrorenem-russischen-vermoegen-a-1df851c6-b11a-4bf2-a17e-e719b2f9ff0f#ref=rss)
-### kredit
-
-* [https://www.spiegel.de/wirtschaft/ukraine-friedrich-merz-fordert-kredit-aus-eingefrorenem-russischen-vermoegen](https://www.spiegel.de/wirtschaft/ukraine-friedrich-merz-fordert-kredit-aus-eingefrorenem-russischen-vermoegen-a-1df851c6-b11a-4bf2-a17e-e719b2f9ff0f#ref=rss)
-### hauptstadt
-
-* [https://www.spiegel.de/ausland/israel-bombardiert-jemens-hauptstadt-sanaa](https://www.spiegel.de/ausland/israel-bombardiert-jemens-hauptstadt-sanaa-a-3cf153bf-e30a-4ac4-87b2-cd57aefe01c8#ref=rss)
-### sanaa
-
-* [https://www.spiegel.de/ausland/israel-bombardiert-jemens-hauptstadt-sanaa](https://www.spiegel.de/ausland/israel-bombardiert-jemens-hauptstadt-sanaa-a-3cf153bf-e30a-4ac4-87b2-cd57aefe01c8#ref=rss)
-### berichten
-
-* [https://www.spiegel.de/ausland/israel-bombardiert-jemens-hauptstadt-sanaa](https://www.spiegel.de/ausland/israel-bombardiert-jemens-hauptstadt-sanaa-a-3cf153bf-e30a-4ac4-87b2-cd57aefe01c8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels](https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels-a-11ad8707-fe92-4c36-a985-c277a0a3f2e6#ref=rss)
-### startup
-
-* [https://www.spiegel.de/politik/deutschland/helsing-markus-soeder-lobt-start-up-fuer-innovatives-kampfflugzeug](https://www.spiegel.de/politik/deutschland/helsing-markus-soeder-lobt-start-up-fuer-innovatives-kampfflugzeug-a-c05a4ead-398d-43ff-885c-716829bef844#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt](https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt-a-331afe75-fe12-48ec-ba60-76b5ec8412f9#ref=rss)
-### savant
-
-* [https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt](https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt-a-331afe75-fe12-48ec-ba60-76b5ec8412f9#ref=rss)
-### jessica
-
-* [https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt](https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt-a-331afe75-fe12-48ec-ba60-76b5ec8412f9#ref=rss)
-### chastain
-
-* [https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt](https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt-a-331afe75-fe12-48ec-ba60-76b5ec8412f9#ref=rss)
-### apple
-
-* [https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt](https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt-a-331afe75-fe12-48ec-ba60-76b5ec8412f9#ref=rss)
-### tv+
-
-* [https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt](https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt-a-331afe75-fe12-48ec-ba60-76b5ec8412f9#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt](https://www.spiegel.de/kultur/tv/the-savant-jessica-chastain-ist-nicht-einverstanden-dass-apple-tv-serie-verschiebt-a-331afe75-fe12-48ec-ba60-76b5ec8412f9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels](https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels-a-11ad8707-fe92-4c36-a985-c277a0a3f2e6#ref=rss)
-### köln
-
-* [https://www.spiegel.de/panorama/koeln-razzia-wegen-verdacht-auf-wahlfaelschung-bei-integrationsrat](https://www.spiegel.de/panorama/koeln-razzia-wegen-verdacht-auf-wahlfaelschung-bei-integrationsrat-a-4ca88edc-e689-4206-997a-a3fb0818384a#ref=rss)
-### integrationsrat
-
-* [https://www.spiegel.de/panorama/koeln-razzia-wegen-verdacht-auf-wahlfaelschung-bei-integrationsrat](https://www.spiegel.de/panorama/koeln-razzia-wegen-verdacht-auf-wahlfaelschung-bei-integrationsrat-a-4ca88edc-e689-4206-997a-a3fb0818384a#ref=rss)
-### provokationen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaschutz-nato-uebung-red-storm-bravo-und-russische-provokationen-markus-soeder-und-die-raumfahrt](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaschutz-nato-uebung-red-storm-bravo-und-russische-provokationen-markus-soeder-und-die-raumfahrt-a-5ba74c2e-8a82-480e-811f-ba6b22a52f31#ref=rss)
-### benjamin
-
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-slowenien-erklaert-israels-premierminister-zur-unerwuenschten-person](https://www.spiegel.de/ausland/benjamin-netanyahu-slowenien-erklaert-israels-premierminister-zur-unerwuenschten-person-a-292884ef-a06e-4957-b3d3-d0b2ed69b5fa#ref=rss)
-### netanyahu
-
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-slowenien-erklaert-israels-premierminister-zur-unerwuenschten-person](https://www.spiegel.de/ausland/benjamin-netanyahu-slowenien-erklaert-israels-premierminister-zur-unerwuenschten-person-a-292884ef-a06e-4957-b3d3-d0b2ed69b5fa#ref=rss)
-### slowenien
-
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-slowenien-erklaert-israels-premierminister-zur-unerwuenschten-person](https://www.spiegel.de/ausland/benjamin-netanyahu-slowenien-erklaert-israels-premierminister-zur-unerwuenschten-person-a-292884ef-a06e-4957-b3d3-d0b2ed69b5fa#ref=rss)
-### israels
-
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-slowenien-erklaert-israels-premierminister-zur-unerwuenschten-person](https://www.spiegel.de/ausland/benjamin-netanyahu-slowenien-erklaert-israels-premierminister-zur-unerwuenschten-person-a-292884ef-a06e-4957-b3d3-d0b2ed69b5fa#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels](https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels-a-11ad8707-fe92-4c36-a985-c277a0a3f2e6#ref=rss)
-### premierminister
-
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-slowenien-erklaert-israels-premierminister-zur-unerwuenschten-person](https://www.spiegel.de/ausland/benjamin-netanyahu-slowenien-erklaert-israels-premierminister-zur-unerwuenschten-person-a-292884ef-a06e-4957-b3d3-d0b2ed69b5fa#ref=rss)
-### israelische
-
-* [https://www.spiegel.de/ausland/benjamin-netanyahu-slowenien-erklaert-israels-premierminister-zur-unerwuenschten-person](https://www.spiegel.de/ausland/benjamin-netanyahu-slowenien-erklaert-israels-premierminister-zur-unerwuenschten-person-a-292884ef-a06e-4957-b3d3-d0b2ed69b5fa#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels](https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels-a-11ad8707-fe92-4c36-a985-c277a0a3f2e6#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ein-anfang-mit-schrecken-fuer-verkehrsminister-patrick-schnieder-kommentar](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ein-anfang-mit-schrecken-fuer-verkehrsminister-patrick-schnieder-kommentar-a-7a2ef741-9749-4104-a8b1-e2bd6d283a15#ref=rss)
-### patrick
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ein-anfang-mit-schrecken-fuer-verkehrsminister-patrick-schnieder-kommentar](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ein-anfang-mit-schrecken-fuer-verkehrsminister-patrick-schnieder-kommentar-a-7a2ef741-9749-4104-a8b1-e2bd6d283a15#ref=rss)
-### schnieder
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ein-anfang-mit-schrecken-fuer-verkehrsminister-patrick-schnieder-kommentar](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ein-anfang-mit-schrecken-fuer-verkehrsminister-patrick-schnieder-kommentar-a-7a2ef741-9749-4104-a8b1-e2bd6d283a15#ref=rss)
-### gleich
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ein-anfang-mit-schrecken-fuer-verkehrsminister-patrick-schnieder-kommentar](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-ein-anfang-mit-schrecken-fuer-verkehrsminister-patrick-schnieder-kommentar-a-7a2ef741-9749-4104-a8b1-e2bd6d283a15#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels](https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels-a-11ad8707-fe92-4c36-a985-c277a0a3f2e6#ref=rss)
-### schuldenbremse
-
-* [https://www.spiegel.de/wirtschaft/schuldenbremse-reformvorschlaege-kommen-spaeter-als-geplant](https://www.spiegel.de/wirtschaft/schuldenbremse-reformvorschlaege-kommen-spaeter-als-geplant-a-fba3121c-89f6-494f-b5e5-24a52d2d2ffd#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/afd-parteizentrale-gericht-erlaubt-afd-verbleib-bis-2026-in-berlin](https://www.spiegel.de/politik/afd-parteizentrale-gericht-erlaubt-afd-verbleib-bis-2026-in-berlin-a-da6590e7-e483-4a35-88ea-cd37385a120a#ref=rss)
+* [https://www.spiegel.de/kultur/kino/hartmut-bitomsky-regisseur-und-essayist-ist-tot](https://www.spiegel.de/kultur/kino/hartmut-bitomsky-regisseur-und-essayist-ist-tot-a-1efcbb83-77bf-44cb-809a-6ef9c4cc4150#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-muss-bundesgeschaeftsstelle-in-berlin-2026-verlassen](https://www.spiegel.de/politik/deutschland/afd-muss-bundesgeschaeftsstelle-in-berlin-2026-verlassen-a-095e4340-b80a-409c-a3a4-60bb8bde84ae#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/afd-parteizentrale-gericht-erlaubt-afd-verbleib-bis-2026-in-berlin](https://www.spiegel.de/politik/afd-parteizentrale-gericht-erlaubt-afd-verbleib-bis-2026-in-berlin-a-da6590e7-e483-4a35-88ea-cd37385a120a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-afd-bei-38-prozent-so-ist-die-lage-vor-der-landtagswahl](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-afd-bei-38-prozent-so-ist-die-lage-vor-der-landtagswahl-a-4c9b7560-256c-4505-a91a-31eccb2f2b01#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-muss-bundesgeschaeftsstelle-in-berlin-2026-verlassen](https://www.spiegel.de/politik/deutschland/afd-muss-bundesgeschaeftsstelle-in-berlin-2026-verlassen-a-095e4340-b80a-409c-a3a4-60bb8bde84ae#ref=rss)
+### bundesrat
+
+* [https://www.spiegel.de/politik/alkohol-ab-14-bundesrat-will-begleitetes-trinken-fuer-jugendliche-abschaffen](https://www.spiegel.de/politik/alkohol-ab-14-bundesrat-will-begleitetes-trinken-fuer-jugendliche-abschaffen-a-54107e5c-5e17-4477-a30b-8324b11f5647#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesrat-laesst-haushalt-2025-und-sondervermoegen-passieren](https://www.spiegel.de/wirtschaft/bundesrat-laesst-haushalt-2025-und-sondervermoegen-passieren-a-dde5b01f-4056-4834-9949-d903c856296c#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/politik/alkohol-ab-14-bundesrat-will-begleitetes-trinken-fuer-jugendliche-abschaffen](https://www.spiegel.de/politik/alkohol-ab-14-bundesrat-will-begleitetes-trinken-fuer-jugendliche-abschaffen-a-54107e5c-5e17-4477-a30b-8324b11f5647#ref=rss)
+* [https://www.spiegel.de/kultur/kino/hartmut-bitomsky-regisseur-und-essayist-ist-tot](https://www.spiegel.de/kultur/kino/hartmut-bitomsky-regisseur-und-essayist-ist-tot-a-1efcbb83-77bf-44cb-809a-6ef9c4cc4150#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bas-dost-ex-wolfsburg-star-beendet-karriere-nach-herzstillstand](https://www.spiegel.de/sport/fussball/bas-dost-ex-wolfsburg-star-beendet-karriere-nach-herzstillstand-a-0cf17418-0b70-460c-a692-73df408f250c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/sergio-busquets-verkuendet-karriereende-abschied-des-spanischen-weltmeisters](https://www.spiegel.de/sport/fussball/sergio-busquets-verkuendet-karriereende-abschied-des-spanischen-weltmeisters-a-f21b5785-9dbf-44c6-a9e5-05a3742a0f42#ref=rss)
+### bas
+
+* [https://www.spiegel.de/sport/fussball/bas-dost-ex-wolfsburg-star-beendet-karriere-nach-herzstillstand](https://www.spiegel.de/sport/fussball/bas-dost-ex-wolfsburg-star-beendet-karriere-nach-herzstillstand-a-0cf17418-0b70-460c-a692-73df408f250c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buergergeld-baerbel-bas-widerspricht-friedrich-merz-bei-reform](https://www.spiegel.de/politik/deutschland/buergergeld-baerbel-bas-widerspricht-friedrich-merz-bei-reform-a-fab3ab31-5340-441f-ae06-6849fa045650#ref=rss)
 ### 2026
 
-* [https://www.spiegel.de/wirtschaft/schuldenbremse-reformvorschlaege-kommen-spaeter-als-geplant](https://www.spiegel.de/wirtschaft/schuldenbremse-reformvorschlaege-kommen-spaeter-als-geplant-a-fba3121c-89f6-494f-b5e5-24a52d2d2ffd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels](https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels-a-11ad8707-fe92-4c36-a985-c277a0a3f2e6#ref=rss)
-### schulweg
+* [https://www.spiegel.de/politik/afd-parteizentrale-gericht-erlaubt-afd-verbleib-bis-2026-in-berlin](https://www.spiegel.de/politik/afd-parteizentrale-gericht-erlaubt-afd-verbleib-bis-2026-in-berlin-a-da6590e7-e483-4a35-88ea-cd37385a120a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-muss-bundesgeschaeftsstelle-in-berlin-2026-verlassen](https://www.spiegel.de/politik/deutschland/afd-muss-bundesgeschaeftsstelle-in-berlin-2026-verlassen-a-095e4340-b80a-409c-a3a4-60bb8bde84ae#ref=rss)
+### alles
 
-* [https://www.spiegel.de/auto/schulweg-zahl-von-unfaellen-in-erstem-halbjahr-gestiegen](https://www.spiegel.de/auto/schulweg-zahl-von-unfaellen-in-erstem-halbjahr-gestiegen-a-7db0c42c-6a47-43b3-906e-2eed520a00d6#ref=rss)
-### halbjahr
+* [https://www.spiegel.de/wissenschaft/mensch/klimapolitik-china-als-stabiler-faktor-in-der-globalen-energiewende](https://www.spiegel.de/wissenschaft/mensch/klimapolitik-china-als-stabiler-faktor-in-der-globalen-energiewende-a-ce8632ad-b1f3-4607-bfec-72993fb1a8f6#ref=rss)
+* [https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten](https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten-a-e19b9fe7-2024-4fad-bc55-5362e9f48893#ref=rss)
+* [https://www.spiegel.de/sport/golf/ryder-cup-alles-wichtige-zum-duell-zwischen-usa-und-europa](https://www.spiegel.de/sport/golf/ryder-cup-alles-wichtige-zum-duell-zwischen-usa-und-europa-a-7ba7c9a5-4ac0-4b47-afa7-deb779c28867#ref=rss)
+### stellt
 
-* [https://www.spiegel.de/auto/schulweg-zahl-von-unfaellen-in-erstem-halbjahr-gestiegen](https://www.spiegel.de/auto/schulweg-zahl-von-unfaellen-in-erstem-halbjahr-gestiegen-a-7db0c42c-6a47-43b3-906e-2eed520a00d6#ref=rss)
-### menschen
+* [https://www.spiegel.de/auto/tesla-draengt-trump-regierung-an-abgasregeln-festzuhalten](https://www.spiegel.de/auto/tesla-draengt-trump-regierung-an-abgasregeln-festzuhalten-a-d0bacdf8-6209-48c4-be74-b084b4463199#ref=rss)
+* [https://www.spiegel.de/panorama/leute/william-shatner-reagiert-humorvoll-auf-berichte-ueber-klinikaufenthalt-zu-viel-gegessen](https://www.spiegel.de/panorama/leute/william-shatner-reagiert-humorvoll-auf-berichte-ueber-klinikaufenthalt-zu-viel-gegessen-a-eac1cbf0-bf56-4890-bdee-21681f1c45bc#ref=rss)
+* [https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten](https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten-a-e19b9fe7-2024-4fad-bc55-5362e9f48893#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/auto/schulweg-zahl-von-unfaellen-in-erstem-halbjahr-gestiegen](https://www.spiegel.de/auto/schulweg-zahl-von-unfaellen-in-erstem-halbjahr-gestiegen-a-7db0c42c-6a47-43b3-906e-2eed520a00d6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/studie-mit-taylor-swift-mit-dem-wohnort-veraenderte-sich-ihre-aussprache](https://www.spiegel.de/wissenschaft/mensch/studie-mit-taylor-swift-mit-dem-wohnort-veraenderte-sich-ihre-aussprache-a-bf214722-555d-4fda-af5f-361c61b4cf78#ref=rss)
-### michael
+* [https://www.spiegel.de/kultur/kino/hartmut-bitomsky-regisseur-und-essayist-ist-tot](https://www.spiegel.de/kultur/kino/hartmut-bitomsky-regisseur-und-essayist-ist-tot-a-1efcbb83-77bf-44cb-809a-6ef9c4cc4150#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-ice-im-halbstundentakt-in-staedten-wie-kiel-dafuer-weniger-ic-verbindungen](https://www.spiegel.de/auto/deutsche-bahn-ice-im-halbstundentakt-in-staedten-wie-kiel-dafuer-weniger-ic-verbindungen-a-e062bd8b-07cb-4b63-bb37-6f886169a875#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/costa-rica-identitaet-des-getoeteten-paares-geklaert-frau-aus-oesterreich](https://www.spiegel.de/panorama/justiz/costa-rica-identitaet-des-getoeteten-paares-geklaert-frau-aus-oesterreich-a-e42536dc-5178-4e47-85c1-1a3a4bb2b913#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/michael-kretschmer-pr-agentur-organisierte-auch-spendendinner-fuer-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/michael-kretschmer-pr-agentur-organisierte-auch-spendendinner-fuer-ministerpraesidenten-a-c0793b01-13d4-41c1-8038-eeb58e2d29e1#ref=rss)
-### kretschmer
+* [https://www.spiegel.de/wirtschaft/service/gasspeicher-in-deutschland-geht-uns-im-winter-das-gas-aus](https://www.spiegel.de/wirtschaft/service/gasspeicher-in-deutschland-geht-uns-im-winter-das-gas-aus-a-78f7d6ff-7d29-471a-8537-8f3e46075dba#ref=rss)
+* [https://www.spiegel.de/auto/deutschland-autofahrer-fordern-haertere-strafen-fuer-verkehrssuender](https://www.spiegel.de/auto/deutschland-autofahrer-fordern-haertere-strafen-fuer-verkehrssuender-a-371e3947-4df2-4684-837a-2b4a386d1007#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-im-sudan-dieser-genozid-ist-uns-naeher-als-wir-denken-meinung](https://www.spiegel.de/ausland/krieg-im-sudan-dieser-genozid-ist-uns-naeher-als-wir-denken-meinung-a-490bd418-564a-48dd-ac4c-3e324c69c28b#ref=rss)
+### drei
 
-* [https://www.spiegel.de/politik/deutschland/michael-kretschmer-pr-agentur-organisierte-auch-spendendinner-fuer-ministerpraesidenten](https://www.spiegel.de/politik/deutschland/michael-kretschmer-pr-agentur-organisierte-auch-spendendinner-fuer-ministerpraesidenten-a-c0793b01-13d4-41c1-8038-eeb58e2d29e1#ref=rss)
-### aussprache
+* [https://www.spiegel.de/panorama/justiz/argentinien-taeter-uebertragen-brutalen-mord-an-drei-frauen-per-livestream](https://www.spiegel.de/panorama/justiz/argentinien-taeter-uebertragen-brutalen-mord-an-drei-frauen-per-livestream-a-4297dfc9-89f2-481e-adf4-6e6295ec63eb#ref=rss)
+* [https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten](https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten-a-e19b9fe7-2024-4fad-bc55-5362e9f48893#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/wissenschaft/mensch/studie-mit-taylor-swift-mit-dem-wohnort-veraenderte-sich-ihre-aussprache](https://www.spiegel.de/wissenschaft/mensch/studie-mit-taylor-swift-mit-dem-wohnort-veraenderte-sich-ihre-aussprache-a-bf214722-555d-4fda-af5f-361c61b4cf78#ref=rss)
-### ausschluss
+* [https://www.spiegel.de/panorama/justiz/argentinien-taeter-uebertragen-brutalen-mord-an-drei-frauen-per-livestream](https://www.spiegel.de/panorama/justiz/argentinien-taeter-uebertragen-brutalen-mord-an-drei-frauen-per-livestream-a-4297dfc9-89f2-481e-adf4-6e6295ec63eb#ref=rss)
+* [https://www.spiegel.de/auto/deutschland-autofahrer-fordern-haertere-strafen-fuer-verkehrssuender](https://www.spiegel.de/auto/deutschland-autofahrer-fordern-haertere-strafen-fuer-verkehrssuender-a-371e3947-4df2-4684-837a-2b4a386d1007#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels](https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels-a-11ad8707-fe92-4c36-a985-c277a0a3f2e6#ref=rss)
-### gazakrieg
+* [https://www.spiegel.de/sport/fussball/bas-dost-ex-wolfsburg-star-beendet-karriere-nach-herzstillstand](https://www.spiegel.de/sport/fussball/bas-dost-ex-wolfsburg-star-beendet-karriere-nach-herzstillstand-a-0cf17418-0b70-460c-a692-73df408f250c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/costa-rica-identitaet-des-getoeteten-paares-geklaert-frau-aus-oesterreich](https://www.spiegel.de/panorama/justiz/costa-rica-identitaet-des-getoeteten-paares-geklaert-frau-aus-oesterreich-a-e42536dc-5178-4e47-85c1-1a3a4bb2b913#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dortmund-unbekannte-setzen-schlaflager-von-obdachlosen-in-brand](https://www.spiegel.de/panorama/justiz/dortmund-unbekannte-setzen-schlaflager-von-obdachlosen-in-brand-a-1ea717ea-59a5-49d2-88aa-be66644e61aa#ref=rss)
+### welt
 
-* [https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels](https://www.spiegel.de/sport/fussball/fussball-uefa-mitglieder-befuerworten-offenbar-ausschluss-israels-a-11ad8707-fe92-4c36-a985-c277a0a3f2e6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/sergio-busquets-verkuendet-karriereende-abschied-des-spanischen-weltmeisters](https://www.spiegel.de/sport/fussball/sergio-busquets-verkuendet-karriereende-abschied-des-spanischen-weltmeisters-a-f21b5785-9dbf-44c6-a9e5-05a3742a0f42#ref=rss)
+* [https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten](https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten-a-e19b9fe7-2024-4fad-bc55-5362e9f48893#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-im-sudan-dieser-genozid-ist-uns-naeher-als-wir-denken-meinung](https://www.spiegel.de/ausland/krieg-im-sudan-dieser-genozid-ist-uns-naeher-als-wir-denken-meinung-a-490bd418-564a-48dd-ac4c-3e324c69c28b#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/buergergeld-baerbel-bas-widerspricht-friedrich-merz-bei-reform](https://www.spiegel.de/politik/deutschland/buergergeld-baerbel-bas-widerspricht-friedrich-merz-bei-reform-a-fab3ab31-5340-441f-ae06-6849fa045650#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/potsdam-gegen-noosha-aubel-hat-die-spd-bei-der-oberbuergermeisterwahl-bislang-kein-rezept](https://www.spiegel.de/politik/deutschland/potsdam-gegen-noosha-aubel-hat-die-spd-bei-der-oberbuergermeisterwahl-bislang-kein-rezept-a-a4158bfb-62db-41fb-917b-d9b96f5cb5a5#ref=rss)
+### tennis
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-der-ddr-zdf-dokumentation-zeigt-wie-boris-becker-mal-heimlich-einreiste](https://www.spiegel.de/sport/tennis/tennis-in-der-ddr-zdf-dokumentation-zeigt-wie-boris-becker-mal-heimlich-einreiste-a-b89fc975-3705-4a1b-82f0-921aeea79a6a#ref=rss)
+### ddr
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-der-ddr-zdf-dokumentation-zeigt-wie-boris-becker-mal-heimlich-einreiste](https://www.spiegel.de/sport/tennis/tennis-in-der-ddr-zdf-dokumentation-zeigt-wie-boris-becker-mal-heimlich-einreiste-a-b89fc975-3705-4a1b-82f0-921aeea79a6a#ref=rss)
+### zdfdokumentation
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-der-ddr-zdf-dokumentation-zeigt-wie-boris-becker-mal-heimlich-einreiste](https://www.spiegel.de/sport/tennis/tennis-in-der-ddr-zdf-dokumentation-zeigt-wie-boris-becker-mal-heimlich-einreiste-a-b89fc975-3705-4a1b-82f0-921aeea79a6a#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-der-ddr-zdf-dokumentation-zeigt-wie-boris-becker-mal-heimlich-einreiste](https://www.spiegel.de/sport/tennis/tennis-in-der-ddr-zdf-dokumentation-zeigt-wie-boris-becker-mal-heimlich-einreiste-a-b89fc975-3705-4a1b-82f0-921aeea79a6a#ref=rss)
+* [https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten](https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten-a-e19b9fe7-2024-4fad-bc55-5362e9f48893#ref=rss)
 ### boris
 
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-kuendigt-35-milliarden-fuer-weltraumsicherheit-an](https://www.spiegel.de/politik/deutschland/boris-pistorius-kuendigt-35-milliarden-fuer-weltraumsicherheit-an-a-9b14672c-04fe-4eef-981c-733b9c7766c2#ref=rss)
-### pistorius
+* [https://www.spiegel.de/sport/tennis/tennis-in-der-ddr-zdf-dokumentation-zeigt-wie-boris-becker-mal-heimlich-einreiste](https://www.spiegel.de/sport/tennis/tennis-in-der-ddr-zdf-dokumentation-zeigt-wie-boris-becker-mal-heimlich-einreiste-a-b89fc975-3705-4a1b-82f0-921aeea79a6a#ref=rss)
+### becker
 
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-kuendigt-35-milliarden-fuer-weltraumsicherheit-an](https://www.spiegel.de/politik/deutschland/boris-pistorius-kuendigt-35-milliarden-fuer-weltraumsicherheit-an-a-9b14672c-04fe-4eef-981c-733b9c7766c2#ref=rss)
-### satelliten
+* [https://www.spiegel.de/sport/tennis/tennis-in-der-ddr-zdf-dokumentation-zeigt-wie-boris-becker-mal-heimlich-einreiste](https://www.spiegel.de/sport/tennis/tennis-in-der-ddr-zdf-dokumentation-zeigt-wie-boris-becker-mal-heimlich-einreiste-a-b89fc975-3705-4a1b-82f0-921aeea79a6a#ref=rss)
+### besuch
 
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-kuendigt-35-milliarden-fuer-weltraumsicherheit-an](https://www.spiegel.de/politik/deutschland/boris-pistorius-kuendigt-35-milliarden-fuer-weltraumsicherheit-an-a-9b14672c-04fe-4eef-981c-733b9c7766c2#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-in-der-ddr-zdf-dokumentation-zeigt-wie-boris-becker-mal-heimlich-einreiste](https://www.spiegel.de/sport/tennis/tennis-in-der-ddr-zdf-dokumentation-zeigt-wie-boris-becker-mal-heimlich-einreiste-a-b89fc975-3705-4a1b-82f0-921aeea79a6a#ref=rss)
+* [https://www.spiegel.de/sport/golf/ryder-cup-alles-wichtige-zum-duell-zwischen-usa-und-europa](https://www.spiegel.de/sport/golf/ryder-cup-alles-wichtige-zum-duell-zwischen-usa-und-europa-a-7ba7c9a5-4ac0-4b47-afa7-deb779c28867#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/politik/afd-parteizentrale-gericht-erlaubt-afd-verbleib-bis-2026-in-berlin](https://www.spiegel.de/politik/afd-parteizentrale-gericht-erlaubt-afd-verbleib-bis-2026-in-berlin-a-da6590e7-e483-4a35-88ea-cd37385a120a#ref=rss)
+### rechtsextremen
+
+* [https://www.spiegel.de/politik/afd-parteizentrale-gericht-erlaubt-afd-verbleib-bis-2026-in-berlin](https://www.spiegel.de/politik/afd-parteizentrale-gericht-erlaubt-afd-verbleib-bis-2026-in-berlin-a-da6590e7-e483-4a35-88ea-cd37385a120a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-afd-bei-38-prozent-so-ist-die-lage-vor-der-landtagswahl](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-afd-bei-38-prozent-so-ist-die-lage-vor-der-landtagswahl-a-4c9b7560-256c-4505-a91a-31eccb2f2b01#ref=rss)
+### räumen
+
+* [https://www.spiegel.de/politik/afd-parteizentrale-gericht-erlaubt-afd-verbleib-bis-2026-in-berlin](https://www.spiegel.de/politik/afd-parteizentrale-gericht-erlaubt-afd-verbleib-bis-2026-in-berlin-a-da6590e7-e483-4a35-88ea-cd37385a120a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-muss-bundesgeschaeftsstelle-in-berlin-2026-verlassen](https://www.spiegel.de/politik/deutschland/afd-muss-bundesgeschaeftsstelle-in-berlin-2026-verlassen-a-095e4340-b80a-409c-a3a4-60bb8bde84ae#ref=rss)
+### anklage
+
+* [https://www.spiegel.de/ausland/anklage-gegen-ex-fbi-chef-comey-ich-bin-unschuldig](https://www.spiegel.de/ausland/anklage-gegen-ex-fbi-chef-comey-ich-bin-unschuldig-a-f710eb2c-0b48-475c-849c-139dc7ac48bc#ref=rss)
+### exfbichef
+
+* [https://www.spiegel.de/ausland/anklage-gegen-ex-fbi-chef-comey-ich-bin-unschuldig](https://www.spiegel.de/ausland/anklage-gegen-ex-fbi-chef-comey-ich-bin-unschuldig-a-f710eb2c-0b48-475c-849c-139dc7ac48bc#ref=rss)
+### comey
+
+* [https://www.spiegel.de/ausland/anklage-gegen-ex-fbi-chef-comey-ich-bin-unschuldig](https://www.spiegel.de/ausland/anklage-gegen-ex-fbi-chef-comey-ich-bin-unschuldig-a-f710eb2c-0b48-475c-849c-139dc7ac48bc#ref=rss)
+### instagram
+
+* [https://www.spiegel.de/ausland/anklage-gegen-ex-fbi-chef-comey-ich-bin-unschuldig](https://www.spiegel.de/ausland/anklage-gegen-ex-fbi-chef-comey-ich-bin-unschuldig-a-f710eb2c-0b48-475c-849c-139dc7ac48bc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/argentinien-taeter-uebertragen-brutalen-mord-an-drei-frauen-per-livestream](https://www.spiegel.de/panorama/justiz/argentinien-taeter-uebertragen-brutalen-mord-an-drei-frauen-per-livestream-a-4297dfc9-89f2-481e-adf4-6e6295ec63eb#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wissenschaft/mensch/klimapolitik-china-als-stabiler-faktor-in-der-globalen-energiewende](https://www.spiegel.de/wissenschaft/mensch/klimapolitik-china-als-stabiler-faktor-in-der-globalen-energiewende-a-ce8632ad-b1f3-4607-bfec-72993fb1a8f6#ref=rss)
+* [https://www.spiegel.de/sport/golf/ryder-cup-alles-wichtige-zum-duell-zwischen-usa-und-europa](https://www.spiegel.de/sport/golf/ryder-cup-alles-wichtige-zum-duell-zwischen-usa-und-europa-a-7ba7c9a5-4ac0-4b47-afa7-deb779c28867#ref=rss)
+### 14
+
+* [https://www.spiegel.de/politik/alkohol-ab-14-bundesrat-will-begleitetes-trinken-fuer-jugendliche-abschaffen](https://www.spiegel.de/politik/alkohol-ab-14-bundesrat-will-begleitetes-trinken-fuer-jugendliche-abschaffen-a-54107e5c-5e17-4477-a30b-8324b11f5647#ref=rss)
+### unter
+
+* [https://www.spiegel.de/politik/alkohol-ab-14-bundesrat-will-begleitetes-trinken-fuer-jugendliche-abschaffen](https://www.spiegel.de/politik/alkohol-ab-14-bundesrat-will-begleitetes-trinken-fuer-jugendliche-abschaffen-a-54107e5c-5e17-4477-a30b-8324b11f5647#ref=rss)
+* [https://www.spiegel.de/auto/deutschland-autofahrer-fordern-haertere-strafen-fuer-verkehrssuender](https://www.spiegel.de/auto/deutschland-autofahrer-fordern-haertere-strafen-fuer-verkehrssuender-a-371e3947-4df2-4684-837a-2b4a386d1007#ref=rss)
+### ausgesprochen
+
+* [https://www.spiegel.de/politik/alkohol-ab-14-bundesrat-will-begleitetes-trinken-fuer-jugendliche-abschaffen](https://www.spiegel.de/politik/alkohol-ab-14-bundesrat-will-begleitetes-trinken-fuer-jugendliche-abschaffen-a-54107e5c-5e17-4477-a30b-8324b11f5647#ref=rss)
+* [https://www.spiegel.de/auto/deutschland-autofahrer-fordern-haertere-strafen-fuer-verkehrssuender](https://www.spiegel.de/auto/deutschland-autofahrer-fordern-haertere-strafen-fuer-verkehrssuender-a-371e3947-4df2-4684-837a-2b4a386d1007#ref=rss)
+### tesla
+
+* [https://www.spiegel.de/auto/tesla-draengt-trump-regierung-an-abgasregeln-festzuhalten](https://www.spiegel.de/auto/tesla-draengt-trump-regierung-an-abgasregeln-festzuhalten-a-d0bacdf8-6209-48c4-be74-b084b4463199#ref=rss)
+### geplante
+
+* [https://www.spiegel.de/auto/tesla-draengt-trump-regierung-an-abgasregeln-festzuhalten](https://www.spiegel.de/auto/tesla-draengt-trump-regierung-an-abgasregeln-festzuhalten-a-d0bacdf8-6209-48c4-be74-b084b4463199#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buergergeld-baerbel-bas-widerspricht-friedrich-merz-bei-reform](https://www.spiegel.de/politik/deutschland/buergergeld-baerbel-bas-widerspricht-friedrich-merz-bei-reform-a-fab3ab31-5340-441f-ae06-6849fa045650#ref=rss)
+### hartmut
+
+* [https://www.spiegel.de/kultur/kino/hartmut-bitomsky-regisseur-und-essayist-ist-tot](https://www.spiegel.de/kultur/kino/hartmut-bitomsky-regisseur-und-essayist-ist-tot-a-1efcbb83-77bf-44cb-809a-6ef9c4cc4150#ref=rss)
+### bitomsky
+
+* [https://www.spiegel.de/kultur/kino/hartmut-bitomsky-regisseur-und-essayist-ist-tot](https://www.spiegel.de/kultur/kino/hartmut-bitomsky-regisseur-und-essayist-ist-tot-a-1efcbb83-77bf-44cb-809a-6ef9c4cc4150#ref=rss)
+### alter
+
+* [https://www.spiegel.de/kultur/kino/hartmut-bitomsky-regisseur-und-essayist-ist-tot](https://www.spiegel.de/kultur/kino/hartmut-bitomsky-regisseur-und-essayist-ist-tot-a-1efcbb83-77bf-44cb-809a-6ef9c4cc4150#ref=rss)
+* [https://www.spiegel.de/sport/fussball/sergio-busquets-verkuendet-karriereende-abschied-des-spanischen-weltmeisters](https://www.spiegel.de/sport/fussball/sergio-busquets-verkuendet-karriereende-abschied-des-spanischen-weltmeisters-a-f21b5785-9dbf-44c6-a9e5-05a3742a0f42#ref=rss)
+### mecklenburgvorpommern
+
+* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-afd-bei-38-prozent-so-ist-die-lage-vor-der-landtagswahl](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-afd-bei-38-prozent-so-ist-die-lage-vor-der-landtagswahl-a-4c9b7560-256c-4505-a91a-31eccb2f2b01#ref=rss)
+### landtagswahl
+
+* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-afd-bei-38-prozent-so-ist-die-lage-vor-der-landtagswahl](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-afd-bei-38-prozent-so-ist-die-lage-vor-der-landtagswahl-a-4c9b7560-256c-4505-a91a-31eccb2f2b01#ref=rss)
+### umfrage
+
+* [https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-afd-bei-38-prozent-so-ist-die-lage-vor-der-landtagswahl](https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-afd-bei-38-prozent-so-ist-die-lage-vor-der-landtagswahl-a-4c9b7560-256c-4505-a91a-31eccb2f2b01#ref=rss)
+* [https://www.spiegel.de/auto/deutschland-autofahrer-fordern-haertere-strafen-fuer-verkehrssuender](https://www.spiegel.de/auto/deutschland-autofahrer-fordern-haertere-strafen-fuer-verkehrssuender-a-371e3947-4df2-4684-837a-2b4a386d1007#ref=rss)
+### freddy
+
+* [https://www.spiegel.de/kultur/musik/freddy-quinn-saenger-hoert-kaum-noch-musik-aber-wenn-dann-peter-maffay](https://www.spiegel.de/kultur/musik/freddy-quinn-saenger-hoert-kaum-noch-musik-aber-wenn-dann-peter-maffay-a-b1ab9713-425b-4009-8a91-ee92564d22c1#ref=rss)
+### quinn
+
+* [https://www.spiegel.de/kultur/musik/freddy-quinn-saenger-hoert-kaum-noch-musik-aber-wenn-dann-peter-maffay](https://www.spiegel.de/kultur/musik/freddy-quinn-saenger-hoert-kaum-noch-musik-aber-wenn-dann-peter-maffay-a-b1ab9713-425b-4009-8a91-ee92564d22c1#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/kultur/musik/freddy-quinn-saenger-hoert-kaum-noch-musik-aber-wenn-dann-peter-maffay](https://www.spiegel.de/kultur/musik/freddy-quinn-saenger-hoert-kaum-noch-musik-aber-wenn-dann-peter-maffay-a-b1ab9713-425b-4009-8a91-ee92564d22c1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gasspeicher-in-deutschland-geht-uns-im-winter-das-gas-aus](https://www.spiegel.de/wirtschaft/service/gasspeicher-in-deutschland-geht-uns-im-winter-das-gas-aus-a-78f7d6ff-7d29-471a-8537-8f3e46075dba#ref=rss)
+### gasspeicher
+
+* [https://www.spiegel.de/wirtschaft/service/gasspeicher-in-deutschland-geht-uns-im-winter-das-gas-aus](https://www.spiegel.de/wirtschaft/service/gasspeicher-in-deutschland-geht-uns-im-winter-das-gas-aus-a-78f7d6ff-7d29-471a-8537-8f3e46075dba#ref=rss)
+### uns
+
+* [https://www.spiegel.de/wirtschaft/service/gasspeicher-in-deutschland-geht-uns-im-winter-das-gas-aus](https://www.spiegel.de/wirtschaft/service/gasspeicher-in-deutschland-geht-uns-im-winter-das-gas-aus-a-78f7d6ff-7d29-471a-8537-8f3e46075dba#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-im-sudan-dieser-genozid-ist-uns-naeher-als-wir-denken-meinung](https://www.spiegel.de/ausland/krieg-im-sudan-dieser-genozid-ist-uns-naeher-als-wir-denken-meinung-a-490bd418-564a-48dd-ac4c-3e324c69c28b#ref=rss)
+### winter
+
+* [https://www.spiegel.de/wirtschaft/service/gasspeicher-in-deutschland-geht-uns-im-winter-das-gas-aus](https://www.spiegel.de/wirtschaft/service/gasspeicher-in-deutschland-geht-uns-im-winter-das-gas-aus-a-78f7d6ff-7d29-471a-8537-8f3e46075dba#ref=rss)
+### argentinien
+
+* [https://www.spiegel.de/panorama/justiz/argentinien-taeter-uebertragen-brutalen-mord-an-drei-frauen-per-livestream](https://www.spiegel.de/panorama/justiz/argentinien-taeter-uebertragen-brutalen-mord-an-drei-frauen-per-livestream-a-4297dfc9-89f2-481e-adf4-6e6295ec63eb#ref=rss)
+### beendet
+
+* [https://www.spiegel.de/sport/fussball/bas-dost-ex-wolfsburg-star-beendet-karriere-nach-herzstillstand](https://www.spiegel.de/sport/fussball/bas-dost-ex-wolfsburg-star-beendet-karriere-nach-herzstillstand-a-0cf17418-0b70-460c-a692-73df408f250c#ref=rss)
+### karriere
+
+* [https://www.spiegel.de/sport/fussball/bas-dost-ex-wolfsburg-star-beendet-karriere-nach-herzstillstand](https://www.spiegel.de/sport/fussball/bas-dost-ex-wolfsburg-star-beendet-karriere-nach-herzstillstand-a-0cf17418-0b70-460c-a692-73df408f250c#ref=rss)
+### herzstillstand
+
+* [https://www.spiegel.de/sport/fussball/bas-dost-ex-wolfsburg-star-beendet-karriere-nach-herzstillstand](https://www.spiegel.de/sport/fussball/bas-dost-ex-wolfsburg-star-beendet-karriere-nach-herzstillstand-a-0cf17418-0b70-460c-a692-73df408f250c#ref=rss)
+### william
+
+* [https://www.spiegel.de/panorama/leute/william-shatner-reagiert-humorvoll-auf-berichte-ueber-klinikaufenthalt-zu-viel-gegessen](https://www.spiegel.de/panorama/leute/william-shatner-reagiert-humorvoll-auf-berichte-ueber-klinikaufenthalt-zu-viel-gegessen-a-eac1cbf0-bf56-4890-bdee-21681f1c45bc#ref=rss)
+### shatner
+
+* [https://www.spiegel.de/panorama/leute/william-shatner-reagiert-humorvoll-auf-berichte-ueber-klinikaufenthalt-zu-viel-gegessen](https://www.spiegel.de/panorama/leute/william-shatner-reagiert-humorvoll-auf-berichte-ueber-klinikaufenthalt-zu-viel-gegessen-a-eac1cbf0-bf56-4890-bdee-21681f1c45bc#ref=rss)
+### klinikaufenthalt
+
+* [https://www.spiegel.de/panorama/leute/william-shatner-reagiert-humorvoll-auf-berichte-ueber-klinikaufenthalt-zu-viel-gegessen](https://www.spiegel.de/panorama/leute/william-shatner-reagiert-humorvoll-auf-berichte-ueber-klinikaufenthalt-zu-viel-gegessen-a-eac1cbf0-bf56-4890-bdee-21681f1c45bc#ref=rss)
+### teil
+
+* [https://www.spiegel.de/panorama/leute/william-shatner-reagiert-humorvoll-auf-berichte-ueber-klinikaufenthalt-zu-viel-gegessen](https://www.spiegel.de/panorama/leute/william-shatner-reagiert-humorvoll-auf-berichte-ueber-klinikaufenthalt-zu-viel-gegessen-a-eac1cbf0-bf56-4890-bdee-21681f1c45bc#ref=rss)
+* [https://www.spiegel.de/panorama/aktivisten-besetzen-braunkohlebagger-im-tagebau-hambach](https://www.spiegel.de/panorama/aktivisten-besetzen-braunkohlebagger-im-tagebau-hambach-a-f6599b58-0a6f-43eb-9efe-92566cf31535#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/auto/deutsche-bahn-ice-im-halbstundentakt-in-staedten-wie-kiel-dafuer-weniger-ic-verbindungen](https://www.spiegel.de/auto/deutsche-bahn-ice-im-halbstundentakt-in-staedten-wie-kiel-dafuer-weniger-ic-verbindungen-a-e062bd8b-07cb-4b63-bb37-6f886169a875#ref=rss)
+### costa
+
+* [https://www.spiegel.de/panorama/justiz/costa-rica-identitaet-des-getoeteten-paares-geklaert-frau-aus-oesterreich](https://www.spiegel.de/panorama/justiz/costa-rica-identitaet-des-getoeteten-paares-geklaert-frau-aus-oesterreich-a-e42536dc-5178-4e47-85c1-1a3a4bb2b913#ref=rss)
+### rica
+
+* [https://www.spiegel.de/panorama/justiz/costa-rica-identitaet-des-getoeteten-paares-geklaert-frau-aus-oesterreich](https://www.spiegel.de/panorama/justiz/costa-rica-identitaet-des-getoeteten-paares-geklaert-frau-aus-oesterreich-a-e42536dc-5178-4e47-85c1-1a3a4bb2b913#ref=rss)
+### getöteten
+
+* [https://www.spiegel.de/panorama/justiz/costa-rica-identitaet-des-getoeteten-paares-geklaert-frau-aus-oesterreich](https://www.spiegel.de/panorama/justiz/costa-rica-identitaet-des-getoeteten-paares-geklaert-frau-aus-oesterreich-a-e42536dc-5178-4e47-85c1-1a3a4bb2b913#ref=rss)
+### neue
+
+* [https://www.spiegel.de/panorama/justiz/costa-rica-identitaet-des-getoeteten-paares-geklaert-frau-aus-oesterreich](https://www.spiegel.de/panorama/justiz/costa-rica-identitaet-des-getoeteten-paares-geklaert-frau-aus-oesterreich-a-e42536dc-5178-4e47-85c1-1a3a4bb2b913#ref=rss)
+* [https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten](https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten-a-e19b9fe7-2024-4fad-bc55-5362e9f48893#ref=rss)
+### lidl
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-lidl-und-supermaerkte-senken-preis-fuer-butter-um-30-cent](https://www.spiegel.de/wirtschaft/unternehmen/aldi-lidl-und-supermaerkte-senken-preis-fuer-butter-um-30-cent-a-8c50f043-3898-41f9-83a2-f0ea862c0263#ref=rss)
+### butter
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-lidl-und-supermaerkte-senken-preis-fuer-butter-um-30-cent](https://www.spiegel.de/wirtschaft/unternehmen/aldi-lidl-und-supermaerkte-senken-preis-fuer-butter-um-30-cent-a-8c50f043-3898-41f9-83a2-f0ea862c0263#ref=rss)
+### klütz
+
+* [https://www.spiegel.de/panorama/kluetz-juergen-mevius-tritt-nach-kontroverse-um-michel-friedman-als-buergermeister-zurueck](https://www.spiegel.de/panorama/kluetz-juergen-mevius-tritt-nach-kontroverse-um-michel-friedman-als-buergermeister-zurueck-a-82f607e6-1ec2-4b58-a95c-6c5d9b5d574c#ref=rss)
+### michel
+
+* [https://www.spiegel.de/panorama/kluetz-juergen-mevius-tritt-nach-kontroverse-um-michel-friedman-als-buergermeister-zurueck](https://www.spiegel.de/panorama/kluetz-juergen-mevius-tritt-nach-kontroverse-um-michel-friedman-als-buergermeister-zurueck-a-82f607e6-1ec2-4b58-a95c-6c5d9b5d574c#ref=rss)
+### friedman
+
+* [https://www.spiegel.de/panorama/kluetz-juergen-mevius-tritt-nach-kontroverse-um-michel-friedman-als-buergermeister-zurueck](https://www.spiegel.de/panorama/kluetz-juergen-mevius-tritt-nach-kontroverse-um-michel-friedman-als-buergermeister-zurueck-a-82f607e6-1ec2-4b58-a95c-6c5d9b5d574c#ref=rss)
+### bürgermeister
+
+* [https://www.spiegel.de/panorama/kluetz-juergen-mevius-tritt-nach-kontroverse-um-michel-friedman-als-buergermeister-zurueck](https://www.spiegel.de/panorama/kluetz-juergen-mevius-tritt-nach-kontroverse-um-michel-friedman-als-buergermeister-zurueck-a-82f607e6-1ec2-4b58-a95c-6c5d9b5d574c#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/panorama/kluetz-juergen-mevius-tritt-nach-kontroverse-um-michel-friedman-als-buergermeister-zurueck](https://www.spiegel.de/panorama/kluetz-juergen-mevius-tritt-nach-kontroverse-um-michel-friedman-als-buergermeister-zurueck-a-82f607e6-1ec2-4b58-a95c-6c5d9b5d574c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buergergeld-baerbel-bas-widerspricht-friedrich-merz-bei-reform](https://www.spiegel.de/politik/deutschland/buergergeld-baerbel-bas-widerspricht-friedrich-merz-bei-reform-a-fab3ab31-5340-441f-ae06-6849fa045650#ref=rss)
+### haushalt
+
+* [https://www.spiegel.de/wirtschaft/bundesrat-laesst-haushalt-2025-und-sondervermoegen-passieren](https://www.spiegel.de/wirtschaft/bundesrat-laesst-haushalt-2025-und-sondervermoegen-passieren-a-dde5b01f-4056-4834-9949-d903c856296c#ref=rss)
+### monate
+
+* [https://www.spiegel.de/wirtschaft/bundesrat-laesst-haushalt-2025-und-sondervermoegen-passieren](https://www.spiegel.de/wirtschaft/bundesrat-laesst-haushalt-2025-und-sondervermoegen-passieren-a-dde5b01f-4056-4834-9949-d903c856296c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/sergio-busquets-verkuendet-karriereende-abschied-des-spanischen-weltmeisters](https://www.spiegel.de/sport/fussball/sergio-busquets-verkuendet-karriereende-abschied-des-spanischen-weltmeisters-a-f21b5785-9dbf-44c6-a9e5-05a3742a0f42#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/panorama/justiz/dortmund-unbekannte-setzen-schlaflager-von-obdachlosen-in-brand](https://www.spiegel.de/panorama/justiz/dortmund-unbekannte-setzen-schlaflager-von-obdachlosen-in-brand-a-1ea717ea-59a5-49d2-88aa-be66644e61aa#ref=rss)
+### sergio
+
+* [https://www.spiegel.de/sport/fussball/sergio-busquets-verkuendet-karriereende-abschied-des-spanischen-weltmeisters](https://www.spiegel.de/sport/fussball/sergio-busquets-verkuendet-karriereende-abschied-des-spanischen-weltmeisters-a-f21b5785-9dbf-44c6-a9e5-05a3742a0f42#ref=rss)
+### busquets
+
+* [https://www.spiegel.de/sport/fussball/sergio-busquets-verkuendet-karriereende-abschied-des-spanischen-weltmeisters](https://www.spiegel.de/sport/fussball/sergio-busquets-verkuendet-karriereende-abschied-des-spanischen-weltmeisters-a-f21b5785-9dbf-44c6-a9e5-05a3742a0f42#ref=rss)
+### karriereende
+
+* [https://www.spiegel.de/sport/fussball/sergio-busquets-verkuendet-karriereende-abschied-des-spanischen-weltmeisters](https://www.spiegel.de/sport/fussball/sergio-busquets-verkuendet-karriereende-abschied-des-spanischen-weltmeisters-a-f21b5785-9dbf-44c6-a9e5-05a3742a0f42#ref=rss)
+### angekündigt
+
+* [https://www.spiegel.de/sport/fussball/sergio-busquets-verkuendet-karriereende-abschied-des-spanischen-weltmeisters](https://www.spiegel.de/sport/fussball/sergio-busquets-verkuendet-karriereende-abschied-des-spanischen-weltmeisters-a-f21b5785-9dbf-44c6-a9e5-05a3742a0f42#ref=rss)
+* [https://www.spiegel.de/sport/golf/ryder-cup-alles-wichtige-zum-duell-zwischen-usa-und-europa](https://www.spiegel.de/sport/golf/ryder-cup-alles-wichtige-zum-duell-zwischen-usa-und-europa-a-7ba7c9a5-4ac0-4b47-afa7-deb779c28867#ref=rss)
+### bärbel
+
+* [https://www.spiegel.de/politik/deutschland/buergergeld-baerbel-bas-widerspricht-friedrich-merz-bei-reform](https://www.spiegel.de/politik/deutschland/buergergeld-baerbel-bas-widerspricht-friedrich-merz-bei-reform-a-fab3ab31-5340-441f-ae06-6849fa045650#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/buergergeld-baerbel-bas-widerspricht-friedrich-merz-bei-reform](https://www.spiegel.de/politik/deutschland/buergergeld-baerbel-bas-widerspricht-friedrich-merz-bei-reform-a-fab3ab31-5340-441f-ae06-6849fa045650#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/buergergeld-baerbel-bas-widerspricht-friedrich-merz-bei-reform](https://www.spiegel.de/politik/deutschland/buergergeld-baerbel-bas-widerspricht-friedrich-merz-bei-reform-a-fab3ab31-5340-441f-ae06-6849fa045650#ref=rss)
+### wir
+
+* [https://www.spiegel.de/politik/deutschland/buergergeld-baerbel-bas-widerspricht-friedrich-merz-bei-reform](https://www.spiegel.de/politik/deutschland/buergergeld-baerbel-bas-widerspricht-friedrich-merz-bei-reform-a-fab3ab31-5340-441f-ae06-6849fa045650#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-im-sudan-dieser-genozid-ist-uns-naeher-als-wir-denken-meinung](https://www.spiegel.de/ausland/krieg-im-sudan-dieser-genozid-ist-uns-naeher-als-wir-denken-meinung-a-490bd418-564a-48dd-ac4c-3e324c69c28b#ref=rss)
+### italien
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/italien-kartellbehoerde-verhaengt-937-millionen-euro-strafe-gegen-tankstellen](https://www.spiegel.de/wirtschaft/unternehmen/italien-kartellbehoerde-verhaengt-937-millionen-euro-strafe-gegen-tankstellen-a-f67305b6-5e7a-4932-bd58-aaca922017d3#ref=rss)
+### kartellbehörde
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/italien-kartellbehoerde-verhaengt-937-millionen-euro-strafe-gegen-tankstellen](https://www.spiegel.de/wirtschaft/unternehmen/italien-kartellbehoerde-verhaengt-937-millionen-euro-strafe-gegen-tankstellen-a-f67305b6-5e7a-4932-bd58-aaca922017d3#ref=rss)
+### hohen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/italien-kartellbehoerde-verhaengt-937-millionen-euro-strafe-gegen-tankstellen](https://www.spiegel.de/wirtschaft/unternehmen/italien-kartellbehoerde-verhaengt-937-millionen-euro-strafe-gegen-tankstellen-a-f67305b6-5e7a-4932-bd58-aaca922017d3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muenchen-bundespolizei-fasst-mutmasslichen-millionenbetrueger-am-flughafen](https://www.spiegel.de/panorama/justiz/muenchen-bundespolizei-fasst-mutmasslichen-millionenbetrueger-am-flughafen-a-88c94699-cc8c-45b5-b095-7525e0e77323#ref=rss)
+### diebstahl
+
+* [https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten](https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten-a-e19b9fe7-2024-4fad-bc55-5362e9f48893#ref=rss)
+### abdulrazak
+
+* [https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten](https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten-a-e19b9fe7-2024-4fad-bc55-5362e9f48893#ref=rss)
+### gurnah
+
+* [https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten](https://www.spiegel.de/kultur/diebstahl-von-abdulrazak-gurnah-als-die-touristen-kamen-und-alles-veraenderten-a-e19b9fe7-2024-4fad-bc55-5362e9f48893#ref=rss)
+### noosha
+
+* [https://www.spiegel.de/politik/deutschland/potsdam-gegen-noosha-aubel-hat-die-spd-bei-der-oberbuergermeisterwahl-bislang-kein-rezept](https://www.spiegel.de/politik/deutschland/potsdam-gegen-noosha-aubel-hat-die-spd-bei-der-oberbuergermeisterwahl-bislang-kein-rezept-a-a4158bfb-62db-41fb-917b-d9b96f5cb5a5#ref=rss)
+### aubel
+
+* [https://www.spiegel.de/politik/deutschland/potsdam-gegen-noosha-aubel-hat-die-spd-bei-der-oberbuergermeisterwahl-bislang-kein-rezept](https://www.spiegel.de/politik/deutschland/potsdam-gegen-noosha-aubel-hat-die-spd-bei-der-oberbuergermeisterwahl-bislang-kein-rezept-a-a4158bfb-62db-41fb-917b-d9b96f5cb5a5#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/panorama/justiz/muenchen-bundespolizei-fasst-mutmasslichen-millionenbetrueger-am-flughafen](https://www.spiegel.de/panorama/justiz/muenchen-bundespolizei-fasst-mutmasslichen-millionenbetrueger-am-flughafen-a-88c94699-cc8c-45b5-b095-7525e0e77323#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/krieg-im-sudan-dieser-genozid-ist-uns-naeher-als-wir-denken-meinung](https://www.spiegel.de/ausland/krieg-im-sudan-dieser-genozid-ist-uns-naeher-als-wir-denken-meinung-a-490bd418-564a-48dd-ac4c-3e324c69c28b#ref=rss)
+### sudan
+
+* [https://www.spiegel.de/ausland/krieg-im-sudan-dieser-genozid-ist-uns-naeher-als-wir-denken-meinung](https://www.spiegel.de/ausland/krieg-im-sudan-dieser-genozid-ist-uns-naeher-als-wir-denken-meinung-a-490bd418-564a-48dd-ac4c-3e324c69c28b#ref=rss)
+### partei
+
+* [https://www.spiegel.de/politik/deutschland/afd-muss-bundesgeschaeftsstelle-in-berlin-2026-verlassen](https://www.spiegel.de/politik/deutschland/afd-muss-bundesgeschaeftsstelle-in-berlin-2026-verlassen-a-095e4340-b80a-409c-a3a4-60bb8bde84ae#ref=rss)
+### ryder
+
+* [https://www.spiegel.de/sport/golf/ryder-cup-alles-wichtige-zum-duell-zwischen-usa-und-europa](https://www.spiegel.de/sport/golf/ryder-cup-alles-wichtige-zum-duell-zwischen-usa-und-europa-a-7ba7c9a5-4ac0-4b47-afa7-deb779c28867#ref=rss)
+### cup
+
+* [https://www.spiegel.de/sport/golf/ryder-cup-alles-wichtige-zum-duell-zwischen-usa-und-europa](https://www.spiegel.de/sport/golf/ryder-cup-alles-wichtige-zum-duell-zwischen-usa-und-europa-a-7ba7c9a5-4ac0-4b47-afa7-deb779c28867#ref=rss)
+### usa
+
+* [https://www.spiegel.de/sport/golf/ryder-cup-alles-wichtige-zum-duell-zwischen-usa-und-europa](https://www.spiegel.de/sport/golf/ryder-cup-alles-wichtige-zum-duell-zwischen-usa-und-europa-a-7ba7c9a5-4ac0-4b47-afa7-deb779c28867#ref=rss)
+### europa
+
+* [https://www.spiegel.de/sport/golf/ryder-cup-alles-wichtige-zum-duell-zwischen-usa-und-europa](https://www.spiegel.de/sport/golf/ryder-cup-alles-wichtige-zum-duell-zwischen-usa-und-europa-a-7ba7c9a5-4ac0-4b47-afa7-deb779c28867#ref=rss)
+### hambach
+
+* [https://www.spiegel.de/panorama/aktivisten-besetzen-braunkohlebagger-im-tagebau-hambach](https://www.spiegel.de/panorama/aktivisten-besetzen-braunkohlebagger-im-tagebau-hambach-a-f6599b58-0a6f-43eb-9efe-92566cf31535#ref=rss)
+### aktivisten
+
+* [https://www.spiegel.de/panorama/aktivisten-besetzen-braunkohlebagger-im-tagebau-hambach](https://www.spiegel.de/panorama/aktivisten-besetzen-braunkohlebagger-im-tagebau-hambach-a-f6599b58-0a6f-43eb-9efe-92566cf31535#ref=rss)
+### braunkohlebagger
+
+* [https://www.spiegel.de/panorama/aktivisten-besetzen-braunkohlebagger-im-tagebau-hambach](https://www.spiegel.de/panorama/aktivisten-besetzen-braunkohlebagger-im-tagebau-hambach-a-f6599b58-0a6f-43eb-9efe-92566cf31535#ref=rss)
 
