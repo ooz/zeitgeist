@@ -4,337 +4,327 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
-
-* [https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an](https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an-a-b7fd6e52-bfa0-4c18-8a5a-902b1ca93c43#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lisa-monaco-das-ist-die-microsoft-managerin-die-donald-trump-loswerden-will](https://www.spiegel.de/wirtschaft/unternehmen/lisa-monaco-das-ist-die-microsoft-managerin-die-donald-trump-loswerden-will-a-cc9a1711-a176-4b00-93c8-f446222aeffe#ref=rss)
-* [https://www.spiegel.de/ausland/anti-donald-trump-proteste-in-los-angeles-der-widerstand-der-strasse](https://www.spiegel.de/ausland/anti-donald-trump-proteste-in-los-angeles-der-widerstand-der-strasse-a-d5471dbe-fd36-40c8-98af-13b724b9d992#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an](https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an-a-b7fd6e52-bfa0-4c18-8a5a-902b1ca93c43#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lisa-monaco-das-ist-die-microsoft-managerin-die-donald-trump-loswerden-will](https://www.spiegel.de/wirtschaft/unternehmen/lisa-monaco-das-ist-die-microsoft-managerin-die-donald-trump-loswerden-will-a-cc9a1711-a176-4b00-93c8-f446222aeffe#ref=rss)
-* [https://www.spiegel.de/ausland/anti-donald-trump-proteste-in-los-angeles-der-widerstand-der-strasse](https://www.spiegel.de/ausland/anti-donald-trump-proteste-in-los-angeles-der-widerstand-der-strasse-a-d5471dbe-fd36-40c8-98af-13b724b9d992#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/kultur/ausstellung-wohnkomplex-ueber-ddr-plattenbauten-in-potsdam-provoziert-erinnerungen](https://www.spiegel.de/kultur/ausstellung-wohnkomplex-ueber-ddr-plattenbauten-in-potsdam-provoziert-erinnerungen-a-d7cbb6c5-f493-4810-bf11-55f04f22a257#ref=rss)
-* [https://www.spiegel.de/panorama/leute/michel-friedman-ueber-demokratie-der-zeitstrahl-ist-kurz-es-wird-verdammt-ernst](https://www.spiegel.de/panorama/leute/michel-friedman-ueber-demokratie-der-zeitstrahl-ist-kurz-es-wird-verdammt-ernst-a-3dffe48c-d5e0-481e-a981-ed28864807ea#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/italien-riesige-illegale-zigarettenfabrik-in-italien-entdeckt](https://www.spiegel.de/panorama/justiz/italien-riesige-illegale-zigarettenfabrik-in-italien-entdeckt-a-06cd84d5-995b-41d3-9d39-7e1de62bf5d2#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-erlebt-schlimmste-trockenheit-seit-mehr-als-50-jahren](https://www.spiegel.de/ausland/tuerkei-erlebt-schlimmste-trockenheit-seit-mehr-als-50-jahren-a-b0b88543-0d10-4c91-a12c-25298826f064#ref=rss)
-### usa
-
-* [https://www.spiegel.de/kultur/tv/julia-ruhs-wie-die-ard-sich-selbst-zerstoert-meinung](https://www.spiegel.de/kultur/tv/julia-ruhs-wie-die-ard-sich-selbst-zerstoert-meinung-a-ce299c3e-9dca-42ac-9314-20d5fa3063e7#ref=rss)
-* [https://www.spiegel.de/ausland/pete-hegseth-beordert-weltweit-hunderte-generaele-und-admirale-in-die-usa-zurueck-um-ueber-kriegergeist-der-armee-zu-sprechen](https://www.spiegel.de/ausland/pete-hegseth-beordert-weltweit-hunderte-generaele-und-admirale-in-die-usa-zurueck-um-ueber-kriegergeist-der-armee-zu-sprechen-a-ea486d02-08a8-4fb3-ae1b-7ff17b244f89#ref=rss)
-* [https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an](https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an-a-b7fd6e52-bfa0-4c18-8a5a-902b1ca93c43#ref=rss)
-* [https://www.spiegel.de/ausland/anti-donald-trump-proteste-in-los-angeles-der-widerstand-der-strasse](https://www.spiegel.de/ausland/anti-donald-trump-proteste-in-los-angeles-der-widerstand-der-strasse-a-d5471dbe-fd36-40c8-98af-13b724b9d992#ref=rss)
+* [https://www.spiegel.de/tests/fahrrad-zubehoer/dashcam-garmin-varia-vue-und-varia-rct716-im-test-das-taugt-der-videobeweis-fuer-fahrraeder](https://www.spiegel.de/tests/fahrrad-zubehoer/dashcam-garmin-varia-vue-und-varia-rct716-im-test-das-taugt-der-videobeweis-fuer-fahrraeder-a-ea7cdc79-c017-46ac-952b-f425b525f3c0#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr](https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr-a-b35f907a-0e0e-49fa-9f45-d5923bd5ae6b#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/auto-fahrerassistenzsysteme-wenn-der-wagen-bei-200-km-h-ploetzlich-stark-bremst](https://www.spiegel.de/auto/fahrberichte/auto-fahrerassistenzsysteme-wenn-der-wagen-bei-200-km-h-ploetzlich-stark-bremst-a-27e52cf4-550b-46d8-b919-b2ec8028f416#ref=rss)
+* [https://www.spiegel.de/partnerschaft/dating-sie-finden-ihr-date-ploetzlich-ekelig-so-geht-es-auch-anderen](https://www.spiegel.de/partnerschaft/dating-sie-finden-ihr-date-ploetzlich-ekelig-so-geht-es-auch-anderen-a-2287dfdf-ff43-454d-bd73-b33f292d8ade#ref=rss)
 ### ich
 
-* [https://www.spiegel.de/panorama/lautes-glockenlaeuten-wie-ich-meinen-frieden-mit-der-kirche-schloss](https://www.spiegel.de/panorama/lautes-glockenlaeuten-wie-ich-meinen-frieden-mit-der-kirche-schloss-a-425eada1-0b46-41e7-a2f8-e7777e118c8d#ref=rss)
-### jahren
+* [https://www.spiegel.de/start/rauchen-warum-studium-und-zigaretten-so-gut-zusammenpassen](https://www.spiegel.de/start/rauchen-warum-studium-und-zigaretten-so-gut-zusammenpassen-a-8d68eebd-38c5-40db-9843-26d96291709c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vs-komiker-der-praesident-als-witzfigur](https://www.spiegel.de/ausland/donald-trump-vs-komiker-der-praesident-als-witzfigur-a-41806136-fb15-482a-8fdd-3f345d526335#ref=rss)
+* [https://www.spiegel.de/wirtschaft/matthias-prinz-ich-bin-im-glueck-losgelaufen-und-im-scheiss-gelandet](https://www.spiegel.de/wirtschaft/matthias-prinz-ich-bin-im-glueck-losgelaufen-und-im-scheiss-gelandet-a-59772c10-e8db-444b-a5a3-2a67d8456c8f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ostbeauftragte-elisabeth-kaiser-mit-dem-alter-bin-ich-immer-ostdeutscher-geworden](https://www.spiegel.de/politik/deutschland/ostbeauftragte-elisabeth-kaiser-mit-dem-alter-bin-ich-immer-ostdeutscher-geworden-a-c3210ba5-0ad2-4f88-a9bd-eff051cadc72#ref=rss)
+### trump
 
-* [https://www.spiegel.de/karriere/kenia-deutscher-auswanderer-eroeffnet-currywurstbude-in-nairobi](https://www.spiegel.de/karriere/kenia-deutscher-auswanderer-eroeffnet-currywurstbude-in-nairobi-a-0c9e4660-64b2-4790-a8c9-35523d121862#ref=rss)
-* [https://www.spiegel.de/panorama/leute/michel-friedman-ueber-demokratie-der-zeitstrahl-ist-kurz-es-wird-verdammt-ernst](https://www.spiegel.de/panorama/leute/michel-friedman-ueber-demokratie-der-zeitstrahl-ist-kurz-es-wird-verdammt-ernst-a-3dffe48c-d5e0-481e-a981-ed28864807ea#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-erlebt-schlimmste-trockenheit-seit-mehr-als-50-jahren](https://www.spiegel.de/ausland/tuerkei-erlebt-schlimmste-trockenheit-seit-mehr-als-50-jahren-a-b0b88543-0d10-4c91-a12c-25298826f064#ref=rss)
-### israelische
+* [https://www.spiegel.de/ausland/donald-trump-vs-komiker-der-praesident-als-witzfigur](https://www.spiegel.de/ausland/donald-trump-vs-komiker-der-praesident-als-witzfigur-a-41806136-fb15-482a-8fdd-3f345d526335#ref=rss)
+* [https://www.spiegel.de/ausland/usa-vergnuegungspark-von-bibelfanatikern-in-kentucky-vor-uns-die-sintflut](https://www.spiegel.de/ausland/usa-vergnuegungspark-von-bibelfanatikern-in-kentucky-vor-uns-die-sintflut-a-59c8985d-4931-408d-88ea-4f98fc8761d7#ref=rss)
+* [https://www.spiegel.de/ausland/religion-in-den-usa-so-gross-ist-der-einfluss-christlicher-nationalisten](https://www.spiegel.de/ausland/religion-in-den-usa-so-gross-ist-der-einfluss-christlicher-nationalisten-a-0a05ec6d-c9ba-409f-82ca-029bd7f488f9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-israel-gaza-krieg-antisemitismus-deutschland-neuer-spiegel-cover](https://www.spiegel.de/politik/deutschland/news-israel-gaza-krieg-antisemitismus-deutschland-neuer-spiegel-cover-a-18cd4192-33e2-4724-ba56-6b0076ea37ad#ref=rss)
+### oktoberfest
 
-* [https://www.spiegel.de/ausland/israelischer-dirigent-ilan-volkov-wir-brauchen-hilfe-um-den-wahnsinn-in-gaza-zu-stoppen](https://www.spiegel.de/ausland/israelischer-dirigent-ilan-volkov-wir-brauchen-hilfe-um-den-wahnsinn-in-gaza-zu-stoppen-a-86c9bb0c-c663-44a7-b514-27043bd0d2fe#ref=rss)
-* [https://www.spiegel.de/sport/radsport/radsport-israel-premier-tech-darf-bei-giro-dellemilia-nicht-starten](https://www.spiegel.de/sport/radsport/radsport-israel-premier-tech-darf-bei-giro-dellemilia-nicht-starten-a-0ed70689-941c-456c-9ce4-4b55141bb95e#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-meldet-erhalt-von-patriot-flugabwehrsystem-aus-israel](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-meldet-erhalt-von-patriot-flugabwehrsystem-aus-israel-a-22150543-cafc-42c4-a3fc-495c5c4ed370#ref=rss)
-### israel
+* [https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache](https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache-a-214f4b7e-cf11-4310-848d-7413ae23bf04#ref=rss)
+* [https://www.spiegel.de/partnerschaft/oktoberfest-in-muenchen-bekanntschaften-und-liebe-auf-der-wiesn](https://www.spiegel.de/partnerschaft/oktoberfest-in-muenchen-bekanntschaften-und-liebe-auf-der-wiesn-a-abdfb675-d5f5-402f-b572-2c90e89c80f3#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/israel-viel-kritik-fuer-benjamin-netanyahu-nach-uno-rede-von-geisel-angehoerigen](https://www.spiegel.de/ausland/israel-viel-kritik-fuer-benjamin-netanyahu-nach-uno-rede-von-geisel-angehoerigen-a-1a64db83-8f99-4158-877b-54ee339346e6#ref=rss)
-* [https://www.spiegel.de/ausland/israel-david-zini-wird-neuer-chef-des-inlandsgeheimdienstes-shin-beth](https://www.spiegel.de/ausland/israel-david-zini-wird-neuer-chef-des-inlandsgeheimdienstes-shin-beth-a-d5b8b48f-2ff8-449b-bbc9-7b023d0bd3f7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-meldet-erhalt-von-patriot-flugabwehrsystem-aus-israel](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-meldet-erhalt-von-patriot-flugabwehrsystem-aus-israel-a-22150543-cafc-42c4-a3fc-495c5c4ed370#ref=rss)
-### netanyahu
+* [https://www.spiegel.de/ausland/usa-vergnuegungspark-von-bibelfanatikern-in-kentucky-vor-uns-die-sintflut](https://www.spiegel.de/ausland/usa-vergnuegungspark-von-bibelfanatikern-in-kentucky-vor-uns-die-sintflut-a-59c8985d-4931-408d-88ea-4f98fc8761d7#ref=rss)
+* [https://www.spiegel.de/ausland/religion-in-den-usa-so-gross-ist-der-einfluss-christlicher-nationalisten](https://www.spiegel.de/ausland/religion-in-den-usa-so-gross-ist-der-einfluss-christlicher-nationalisten-a-0a05ec6d-c9ba-409f-82ca-029bd7f488f9#ref=rss)
+* [https://www.spiegel.de/sport/golf/golf-ryder-cup-in-den-usa-europa-dominiert-und-fordert-respekt-ein](https://www.spiegel.de/sport/golf/golf-ryder-cup-in-den-usa-europa-dominiert-und-fordert-respekt-ein-a-59595919-b5d3-4852-81eb-a1a82ff8971a#ref=rss)
+### europa
 
-* [https://www.spiegel.de/ausland/israel-viel-kritik-fuer-benjamin-netanyahu-nach-uno-rede-von-geisel-angehoerigen](https://www.spiegel.de/ausland/israel-viel-kritik-fuer-benjamin-netanyahu-nach-uno-rede-von-geisel-angehoerigen-a-1a64db83-8f99-4158-877b-54ee339346e6#ref=rss)
-* [https://www.spiegel.de/ausland/israel-david-zini-wird-neuer-chef-des-inlandsgeheimdienstes-shin-beth](https://www.spiegel.de/ausland/israel-david-zini-wird-neuer-chef-des-inlandsgeheimdienstes-shin-beth-a-d5b8b48f-2ff8-449b-bbc9-7b023d0bd3f7#ref=rss)
-### ukraine
+* [https://www.spiegel.de/sport/golf/golf-ryder-cup-in-den-usa-europa-dominiert-und-fordert-respekt-ein](https://www.spiegel.de/sport/golf/golf-ryder-cup-in-den-usa-europa-dominiert-und-fordert-respekt-ein-a-59595919-b5d3-4852-81eb-a1a82ff8971a#ref=rss)
+* [https://www.spiegel.de/ausland/drohnen-in-polen-und-daenemark-selenskyj-warnt-vor-russischem-angriff-in-europa](https://www.spiegel.de/ausland/drohnen-in-polen-und-daenemark-selenskyj-warnt-vor-russischem-angriff-in-europa-a-f810ea84-820f-49cc-a97e-a4e920c2d8de#ref=rss)
+### anderen
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-plant-laut-ukraine-anschluss-des-akw-saporischschja-an-eigenes-netz](https://www.spiegel.de/ausland/ukraine-krieg-russland-plant-laut-ukraine-anschluss-des-akw-saporischschja-an-eigenes-netz-a-33146281-2dce-4321-a30a-40e081f9e59f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-meldet-erhalt-von-patriot-flugabwehrsystem-aus-israel](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-meldet-erhalt-von-patriot-flugabwehrsystem-aus-israel-a-22150543-cafc-42c4-a3fc-495c5c4ed370#ref=rss)
-### folter
+* [https://www.spiegel.de/panorama/arbeit-auf-dem-feld-die-bauern-und-die-anderen-kolumne](https://www.spiegel.de/panorama/arbeit-auf-dem-feld-die-bauern-und-die-anderen-kolumne-a-c74ab813-f27a-46e0-be9c-e17fafc54b37#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/auto-fahrerassistenzsysteme-wenn-der-wagen-bei-200-km-h-ploetzlich-stark-bremst](https://www.spiegel.de/auto/fahrberichte/auto-fahrerassistenzsysteme-wenn-der-wagen-bei-200-km-h-ploetzlich-stark-bremst-a-27e52cf4-550b-46d8-b919-b2ec8028f416#ref=rss)
+* [https://www.spiegel.de/partnerschaft/dating-sie-finden-ihr-date-ploetzlich-ekelig-so-geht-es-auch-anderen](https://www.spiegel.de/partnerschaft/dating-sie-finden-ihr-date-ploetzlich-ekelig-so-geht-es-auch-anderen-a-2287dfdf-ff43-454d-bd73-b33f292d8ade#ref=rss)
+### test
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-ex-buergermeister-von-cherson-ueber-folter-in-russischer-gefangenschaft](https://www.spiegel.de/ausland/ukraine-krieg-ex-buergermeister-von-cherson-ueber-folter-in-russischer-gefangenschaft-a-8ee3c99d-fd8e-49ea-8e14-926627426630#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-justiz-erlaesst-haftbefehl-gegen-ex-machthaber-baschar-al-assad](https://www.spiegel.de/ausland/syrien-justiz-erlaesst-haftbefehl-gegen-ex-machthaber-baschar-al-assad-a-281bfda3-578a-4cbd-8359-f3ea150f88c7#ref=rss)
-### partei
+* [https://www.spiegel.de/tests/fahrrad-zubehoer/dashcam-garmin-varia-vue-und-varia-rct716-im-test-das-taugt-der-videobeweis-fuer-fahrraeder](https://www.spiegel.de/tests/fahrrad-zubehoer/dashcam-garmin-varia-vue-und-varia-rct716-im-test-das-taugt-der-videobeweis-fuer-fahrraeder-a-ea7cdc79-c017-46ac-952b-f425b525f3c0#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr](https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr-a-b35f907a-0e0e-49fa-9f45-d5923bd5ae6b#ref=rss)
+### nie
 
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-manuela-schwesig-als-spd-kandidatin-fuer-landtagswahlen-nominiert](https://www.spiegel.de/politik/mecklenburg-vorpommern-manuela-schwesig-als-spd-kandidatin-fuer-landtagswahlen-nominiert-a-04f27a50-9338-492f-9174-568c81114e93#ref=rss)
-* [https://www.spiegel.de/ausland/moldau-weitere-prorussische-partei-von-parlamentswahl-ausgeschlossen](https://www.spiegel.de/ausland/moldau-weitere-prorussische-partei-von-parlamentswahl-ausgeschlossen-a-51c4fc45-0012-4e36-ada5-1d4a0e867a06#ref=rss)
-### italien
+* [https://www.spiegel.de/start/rauchen-warum-studium-und-zigaretten-so-gut-zusammenpassen](https://www.spiegel.de/start/rauchen-warum-studium-und-zigaretten-so-gut-zusammenpassen-a-8d68eebd-38c5-40db-9843-26d96291709c#ref=rss)
+* [https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache](https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache-a-214f4b7e-cf11-4310-848d-7413ae23bf04#ref=rss)
+* [https://www.spiegel.de/ausland/religion-in-den-usa-so-gross-ist-der-einfluss-christlicher-nationalisten](https://www.spiegel.de/ausland/religion-in-den-usa-so-gross-ist-der-einfluss-christlicher-nationalisten-a-0a05ec6d-c9ba-409f-82ca-029bd7f488f9#ref=rss)
+### bin
 
-* [https://www.spiegel.de/panorama/justiz/italien-riesige-illegale-zigarettenfabrik-in-italien-entdeckt](https://www.spiegel.de/panorama/justiz/italien-riesige-illegale-zigarettenfabrik-in-italien-entdeckt-a-06cd84d5-995b-41d3-9d39-7e1de62bf5d2#ref=rss)
-### ausgeschlossen
+* [https://www.spiegel.de/start/rauchen-warum-studium-und-zigaretten-so-gut-zusammenpassen](https://www.spiegel.de/start/rauchen-warum-studium-und-zigaretten-so-gut-zusammenpassen-a-8d68eebd-38c5-40db-9843-26d96291709c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/matthias-prinz-ich-bin-im-glueck-losgelaufen-und-im-scheiss-gelandet](https://www.spiegel.de/wirtschaft/matthias-prinz-ich-bin-im-glueck-losgelaufen-und-im-scheiss-gelandet-a-59772c10-e8db-444b-a5a3-2a67d8456c8f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ostbeauftragte-elisabeth-kaiser-mit-dem-alter-bin-ich-immer-ostdeutscher-geworden](https://www.spiegel.de/politik/deutschland/ostbeauftragte-elisabeth-kaiser-mit-dem-alter-bin-ich-immer-ostdeutscher-geworden-a-c3210ba5-0ad2-4f88-a9bd-eff051cadc72#ref=rss)
+### neue
 
-* [https://www.spiegel.de/sport/radsport/radsport-israel-premier-tech-darf-bei-giro-dellemilia-nicht-starten](https://www.spiegel.de/sport/radsport/radsport-israel-premier-tech-darf-bei-giro-dellemilia-nicht-starten-a-0ed70689-941c-456c-9ce4-4b55141bb95e#ref=rss)
-* [https://www.spiegel.de/ausland/moldau-weitere-prorussische-partei-von-parlamentswahl-ausgeschlossen](https://www.spiegel.de/ausland/moldau-weitere-prorussische-partei-von-parlamentswahl-ausgeschlossen-a-51c4fc45-0012-4e36-ada5-1d4a0e867a06#ref=rss)
-### fc
+* [https://www.spiegel.de/kultur/charlie-sheen-erzaehlt-wie-er-in-hamburg-fast-gestorben-waere](https://www.spiegel.de/kultur/charlie-sheen-erzaehlt-wie-er-in-hamburg-fast-gestorben-waere-a-97ac2b88-c05c-4744-bf9d-743a110729f4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ostbeauftragte-elisabeth-kaiser-mit-dem-alter-bin-ich-immer-ostdeutscher-geworden](https://www.spiegel.de/politik/deutschland/ostbeauftragte-elisabeth-kaiser-mit-dem-alter-bin-ich-immer-ostdeutscher-geworden-a-c3210ba5-0ad2-4f88-a9bd-eff051cadc72#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr](https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr-a-b35f907a-0e0e-49fa-9f45-d5923bd5ae6b#ref=rss)
+### wiesn
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-kompakt-der-hype-um-sandro-wagner-beim-fc-augsburg-ist-schon-wieder-vorbei](https://www.spiegel.de/sport/fussball/fussball-bundesliga-kompakt-der-hype-um-sandro-wagner-beim-fc-augsburg-ist-schon-wieder-vorbei-a-4596073e-cc20-45b2-9774-d6e62f4f096f#ref=rss)
-### einstein
-
-* [https://www.spiegel.de/wissenschaft/albert-einstein-private-gespraeche-und-die-letzte-liebe-seines-lebens](https://www.spiegel.de/wissenschaft/albert-einstein-private-gespraeche-und-die-letzte-liebe-seines-lebens-a-8716e859-2e81-4e85-a85a-e263df741384#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/ausland/tuerkei-erlebt-schlimmste-trockenheit-seit-mehr-als-50-jahren](https://www.spiegel.de/ausland/tuerkei-erlebt-schlimmste-trockenheit-seit-mehr-als-50-jahren-a-b0b88543-0d10-4c91-a12c-25298826f064#ref=rss)
-### monaco
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lisa-monaco-das-ist-die-microsoft-managerin-die-donald-trump-loswerden-will](https://www.spiegel.de/wirtschaft/unternehmen/lisa-monaco-das-ist-die-microsoft-managerin-die-donald-trump-loswerden-will-a-cc9a1711-a176-4b00-93c8-f446222aeffe#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/panorama/lautes-glockenlaeuten-wie-ich-meinen-frieden-mit-der-kirche-schloss](https://www.spiegel.de/panorama/lautes-glockenlaeuten-wie-ich-meinen-frieden-mit-der-kirche-schloss-a-425eada1-0b46-41e7-a2f8-e7777e118c8d#ref=rss)
-* [https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an](https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an-a-b7fd6e52-bfa0-4c18-8a5a-902b1ca93c43#ref=rss)
-### hause
-
-* [https://www.spiegel.de/panorama/lautes-glockenlaeuten-wie-ich-meinen-frieden-mit-der-kirche-schloss](https://www.spiegel.de/panorama/lautes-glockenlaeuten-wie-ich-meinen-frieden-mit-der-kirche-schloss-a-425eada1-0b46-41e7-a2f8-e7777e118c8d#ref=rss)
-* [https://www.spiegel.de/ausland/israelischer-dirigent-ilan-volkov-wir-brauchen-hilfe-um-den-wahnsinn-in-gaza-zu-stoppen](https://www.spiegel.de/ausland/israelischer-dirigent-ilan-volkov-wir-brauchen-hilfe-um-den-wahnsinn-in-gaza-zu-stoppen-a-86c9bb0c-c663-44a7-b514-27043bd0d2fe#ref=rss)
-### ausstellung
-
-* [https://www.spiegel.de/kultur/ausstellung-wohnkomplex-ueber-ddr-plattenbauten-in-potsdam-provoziert-erinnerungen](https://www.spiegel.de/kultur/ausstellung-wohnkomplex-ueber-ddr-plattenbauten-in-potsdam-provoziert-erinnerungen-a-d7cbb6c5-f493-4810-bf11-55f04f22a257#ref=rss)
-### wohnkomplex
-
-* [https://www.spiegel.de/kultur/ausstellung-wohnkomplex-ueber-ddr-plattenbauten-in-potsdam-provoziert-erinnerungen](https://www.spiegel.de/kultur/ausstellung-wohnkomplex-ueber-ddr-plattenbauten-in-potsdam-provoziert-erinnerungen-a-d7cbb6c5-f493-4810-bf11-55f04f22a257#ref=rss)
-### ddrplattenbauten
-
-* [https://www.spiegel.de/kultur/ausstellung-wohnkomplex-ueber-ddr-plattenbauten-in-potsdam-provoziert-erinnerungen](https://www.spiegel.de/kultur/ausstellung-wohnkomplex-ueber-ddr-plattenbauten-in-potsdam-provoziert-erinnerungen-a-d7cbb6c5-f493-4810-bf11-55f04f22a257#ref=rss)
-### kenia
-
-* [https://www.spiegel.de/karriere/kenia-deutscher-auswanderer-eroeffnet-currywurstbude-in-nairobi](https://www.spiegel.de/karriere/kenia-deutscher-auswanderer-eroeffnet-currywurstbude-in-nairobi-a-0c9e4660-64b2-4790-a8c9-35523d121862#ref=rss)
-### currywurstbude
-
-* [https://www.spiegel.de/karriere/kenia-deutscher-auswanderer-eroeffnet-currywurstbude-in-nairobi](https://www.spiegel.de/karriere/kenia-deutscher-auswanderer-eroeffnet-currywurstbude-in-nairobi-a-0c9e4660-64b2-4790-a8c9-35523d121862#ref=rss)
-### nairobi
-
-* [https://www.spiegel.de/karriere/kenia-deutscher-auswanderer-eroeffnet-currywurstbude-in-nairobi](https://www.spiegel.de/karriere/kenia-deutscher-auswanderer-eroeffnet-currywurstbude-in-nairobi-a-0c9e4660-64b2-4790-a8c9-35523d121862#ref=rss)
-### michel
-
-* [https://www.spiegel.de/panorama/leute/michel-friedman-ueber-demokratie-der-zeitstrahl-ist-kurz-es-wird-verdammt-ernst](https://www.spiegel.de/panorama/leute/michel-friedman-ueber-demokratie-der-zeitstrahl-ist-kurz-es-wird-verdammt-ernst-a-3dffe48c-d5e0-481e-a981-ed28864807ea#ref=rss)
-### friedman
-
-* [https://www.spiegel.de/panorama/leute/michel-friedman-ueber-demokratie-der-zeitstrahl-ist-kurz-es-wird-verdammt-ernst](https://www.spiegel.de/panorama/leute/michel-friedman-ueber-demokratie-der-zeitstrahl-ist-kurz-es-wird-verdammt-ernst-a-3dffe48c-d5e0-481e-a981-ed28864807ea#ref=rss)
-### demokratie
-
-* [https://www.spiegel.de/panorama/leute/michel-friedman-ueber-demokratie-der-zeitstrahl-ist-kurz-es-wird-verdammt-ernst](https://www.spiegel.de/panorama/leute/michel-friedman-ueber-demokratie-der-zeitstrahl-ist-kurz-es-wird-verdammt-ernst-a-3dffe48c-d5e0-481e-a981-ed28864807ea#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/leute/michel-friedman-ueber-demokratie-der-zeitstrahl-ist-kurz-es-wird-verdammt-ernst](https://www.spiegel.de/panorama/leute/michel-friedman-ueber-demokratie-der-zeitstrahl-ist-kurz-es-wird-verdammt-ernst-a-3dffe48c-d5e0-481e-a981-ed28864807ea#ref=rss)
-* [https://www.spiegel.de/ausland/deutschland-und-wladimir-putins-aggression-von-polen-lernen-meinung](https://www.spiegel.de/ausland/deutschland-und-wladimir-putins-aggression-von-polen-lernen-meinung-a-1a198d15-9ce1-473d-8382-529d934017a8#ref=rss)
-### dirigent
-
-* [https://www.spiegel.de/ausland/israelischer-dirigent-ilan-volkov-wir-brauchen-hilfe-um-den-wahnsinn-in-gaza-zu-stoppen](https://www.spiegel.de/ausland/israelischer-dirigent-ilan-volkov-wir-brauchen-hilfe-um-den-wahnsinn-in-gaza-zu-stoppen-a-86c9bb0c-c663-44a7-b514-27043bd0d2fe#ref=rss)
-### ilan
-
-* [https://www.spiegel.de/ausland/israelischer-dirigent-ilan-volkov-wir-brauchen-hilfe-um-den-wahnsinn-in-gaza-zu-stoppen](https://www.spiegel.de/ausland/israelischer-dirigent-ilan-volkov-wir-brauchen-hilfe-um-den-wahnsinn-in-gaza-zu-stoppen-a-86c9bb0c-c663-44a7-b514-27043bd0d2fe#ref=rss)
-### volkov
-
-* [https://www.spiegel.de/ausland/israelischer-dirigent-ilan-volkov-wir-brauchen-hilfe-um-den-wahnsinn-in-gaza-zu-stoppen](https://www.spiegel.de/ausland/israelischer-dirigent-ilan-volkov-wir-brauchen-hilfe-um-den-wahnsinn-in-gaza-zu-stoppen-a-86c9bb0c-c663-44a7-b514-27043bd0d2fe#ref=rss)
-### unorede
-
-* [https://www.spiegel.de/ausland/israel-viel-kritik-fuer-benjamin-netanyahu-nach-uno-rede-von-geisel-angehoerigen](https://www.spiegel.de/ausland/israel-viel-kritik-fuer-benjamin-netanyahu-nach-uno-rede-von-geisel-angehoerigen-a-1a64db83-8f99-4158-877b-54ee339346e6#ref=rss)
-### werde
-
-* [https://www.spiegel.de/ausland/israel-viel-kritik-fuer-benjamin-netanyahu-nach-uno-rede-von-geisel-angehoerigen](https://www.spiegel.de/ausland/israel-viel-kritik-fuer-benjamin-netanyahu-nach-uno-rede-von-geisel-angehoerigen-a-1a64db83-8f99-4158-877b-54ee339346e6#ref=rss)
-* [https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an](https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an-a-b7fd6e52-bfa0-4c18-8a5a-902b1ca93c43#ref=rss)
-### premier
-
-* [https://www.spiegel.de/ausland/israel-viel-kritik-fuer-benjamin-netanyahu-nach-uno-rede-von-geisel-angehoerigen](https://www.spiegel.de/ausland/israel-viel-kritik-fuer-benjamin-netanyahu-nach-uno-rede-von-geisel-angehoerigen-a-1a64db83-8f99-4158-877b-54ee339346e6#ref=rss)
-* [https://www.spiegel.de/ausland/israel-david-zini-wird-neuer-chef-des-inlandsgeheimdienstes-shin-beth](https://www.spiegel.de/ausland/israel-david-zini-wird-neuer-chef-des-inlandsgeheimdienstes-shin-beth-a-d5b8b48f-2ff8-449b-bbc9-7b023d0bd3f7#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-plant-laut-ukraine-anschluss-des-akw-saporischschja-an-eigenes-netz](https://www.spiegel.de/ausland/ukraine-krieg-russland-plant-laut-ukraine-anschluss-des-akw-saporischschja-an-eigenes-netz-a-33146281-2dce-4321-a30a-40e081f9e59f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-ex-buergermeister-von-cherson-ueber-folter-in-russischer-gefangenschaft](https://www.spiegel.de/ausland/ukraine-krieg-ex-buergermeister-von-cherson-ueber-folter-in-russischer-gefangenschaft-a-8ee3c99d-fd8e-49ea-8e14-926627426630#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-plant-laut-ukraine-anschluss-des-akw-saporischschja-an-eigenes-netz](https://www.spiegel.de/ausland/ukraine-krieg-russland-plant-laut-ukraine-anschluss-des-akw-saporischschja-an-eigenes-netz-a-33146281-2dce-4321-a30a-40e081f9e59f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-meldet-erhalt-von-patriot-flugabwehrsystem-aus-israel](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-meldet-erhalt-von-patriot-flugabwehrsystem-aus-israel-a-22150543-cafc-42c4-a3fc-495c5c4ed370#ref=rss)
-### außenminister
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-plant-laut-ukraine-anschluss-des-akw-saporischschja-an-eigenes-netz](https://www.spiegel.de/ausland/ukraine-krieg-russland-plant-laut-ukraine-anschluss-des-akw-saporischschja-an-eigenes-netz-a-33146281-2dce-4321-a30a-40e081f9e59f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-meldet-erhalt-von-patriot-flugabwehrsystem-aus-israel](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-meldet-erhalt-von-patriot-flugabwehrsystem-aus-israel-a-22150543-cafc-42c4-a3fc-495c5c4ed370#ref=rss)
-### großen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-plant-laut-ukraine-anschluss-des-akw-saporischschja-an-eigenes-netz](https://www.spiegel.de/ausland/ukraine-krieg-russland-plant-laut-ukraine-anschluss-des-akw-saporischschja-an-eigenes-netz-a-33146281-2dce-4321-a30a-40e081f9e59f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/albert-einstein-private-gespraeche-und-die-letzte-liebe-seines-lebens](https://www.spiegel.de/wissenschaft/albert-einstein-private-gespraeche-und-die-letzte-liebe-seines-lebens-a-8716e859-2e81-4e85-a85a-e263df741384#ref=rss)
-### russische
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-plant-laut-ukraine-anschluss-des-akw-saporischschja-an-eigenes-netz](https://www.spiegel.de/ausland/ukraine-krieg-russland-plant-laut-ukraine-anschluss-des-akw-saporischschja-an-eigenes-netz-a-33146281-2dce-4321-a30a-40e081f9e59f#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-plant-laut-ukraine-anschluss-des-akw-saporischschja-an-eigenes-netz](https://www.spiegel.de/ausland/ukraine-krieg-russland-plant-laut-ukraine-anschluss-des-akw-saporischschja-an-eigenes-netz-a-33146281-2dce-4321-a30a-40e081f9e59f#ref=rss)
-* [https://www.spiegel.de/ausland/pete-hegseth-beordert-weltweit-hunderte-generaele-und-admirale-in-die-usa-zurueck-um-ueber-kriegergeist-der-armee-zu-sprechen](https://www.spiegel.de/ausland/pete-hegseth-beordert-weltweit-hunderte-generaele-und-admirale-in-die-usa-zurueck-um-ueber-kriegergeist-der-armee-zu-sprechen-a-ea486d02-08a8-4fb3-ae1b-7ff17b244f89#ref=rss)
-### putins
-
-* [https://www.spiegel.de/ausland/deutschland-und-wladimir-putins-aggression-von-polen-lernen-meinung](https://www.spiegel.de/ausland/deutschland-und-wladimir-putins-aggression-von-polen-lernen-meinung-a-1a198d15-9ce1-473d-8382-529d934017a8#ref=rss)
-### aggression
-
-* [https://www.spiegel.de/ausland/deutschland-und-wladimir-putins-aggression-von-polen-lernen-meinung](https://www.spiegel.de/ausland/deutschland-und-wladimir-putins-aggression-von-polen-lernen-meinung-a-1a198d15-9ce1-473d-8382-529d934017a8#ref=rss)
-### polen
-
-* [https://www.spiegel.de/ausland/deutschland-und-wladimir-putins-aggression-von-polen-lernen-meinung](https://www.spiegel.de/ausland/deutschland-und-wladimir-putins-aggression-von-polen-lernen-meinung-a-1a198d15-9ce1-473d-8382-529d934017a8#ref=rss)
-### meinung
-
-* [https://www.spiegel.de/ausland/deutschland-und-wladimir-putins-aggression-von-polen-lernen-meinung](https://www.spiegel.de/ausland/deutschland-und-wladimir-putins-aggression-von-polen-lernen-meinung-a-1a198d15-9ce1-473d-8382-529d934017a8#ref=rss)
-* [https://www.spiegel.de/kultur/tv/julia-ruhs-wie-die-ard-sich-selbst-zerstoert-meinung](https://www.spiegel.de/kultur/tv/julia-ruhs-wie-die-ard-sich-selbst-zerstoert-meinung-a-ce299c3e-9dca-42ac-9314-20d5fa3063e7#ref=rss)
-### cherson
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-ex-buergermeister-von-cherson-ueber-folter-in-russischer-gefangenschaft](https://www.spiegel.de/ausland/ukraine-krieg-ex-buergermeister-von-cherson-ueber-folter-in-russischer-gefangenschaft-a-8ee3c99d-fd8e-49ea-8e14-926627426630#ref=rss)
-### wolodymyr
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-ex-buergermeister-von-cherson-ueber-folter-in-russischer-gefangenschaft](https://www.spiegel.de/ausland/ukraine-krieg-ex-buergermeister-von-cherson-ueber-folter-in-russischer-gefangenschaft-a-8ee3c99d-fd8e-49ea-8e14-926627426630#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-meldet-erhalt-von-patriot-flugabwehrsystem-aus-israel](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-meldet-erhalt-von-patriot-flugabwehrsystem-aus-israel-a-22150543-cafc-42c4-a3fc-495c5c4ed370#ref=rss)
-### manuela
-
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-manuela-schwesig-als-spd-kandidatin-fuer-landtagswahlen-nominiert](https://www.spiegel.de/politik/mecklenburg-vorpommern-manuela-schwesig-als-spd-kandidatin-fuer-landtagswahlen-nominiert-a-04f27a50-9338-492f-9174-568c81114e93#ref=rss)
-### schwesig
-
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-manuela-schwesig-als-spd-kandidatin-fuer-landtagswahlen-nominiert](https://www.spiegel.de/politik/mecklenburg-vorpommern-manuela-schwesig-als-spd-kandidatin-fuer-landtagswahlen-nominiert-a-04f27a50-9338-492f-9174-568c81114e93#ref=rss)
-### punktet
-
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-manuela-schwesig-als-spd-kandidatin-fuer-landtagswahlen-nominiert](https://www.spiegel.de/politik/mecklenburg-vorpommern-manuela-schwesig-als-spd-kandidatin-fuer-landtagswahlen-nominiert-a-04f27a50-9338-492f-9174-568c81114e93#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-kompakt-der-hype-um-sandro-wagner-beim-fc-augsburg-ist-schon-wieder-vorbei](https://www.spiegel.de/sport/fussball/fussball-bundesliga-kompakt-der-hype-um-sandro-wagner-beim-fc-augsburg-ist-schon-wieder-vorbei-a-4596073e-cc20-45b2-9774-d6e62f4f096f#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-manuela-schwesig-als-spd-kandidatin-fuer-landtagswahlen-nominiert](https://www.spiegel.de/politik/mecklenburg-vorpommern-manuela-schwesig-als-spd-kandidatin-fuer-landtagswahlen-nominiert-a-04f27a50-9338-492f-9174-568c81114e93#ref=rss)
-* [https://www.spiegel.de/sport/radsport/radsport-israel-premier-tech-darf-bei-giro-dellemilia-nicht-starten](https://www.spiegel.de/sport/radsport/radsport-israel-premier-tech-darf-bei-giro-dellemilia-nicht-starten-a-0ed70689-941c-456c-9ce4-4b55141bb95e#ref=rss)
-### julia
-
-* [https://www.spiegel.de/kultur/tv/julia-ruhs-wie-die-ard-sich-selbst-zerstoert-meinung](https://www.spiegel.de/kultur/tv/julia-ruhs-wie-die-ard-sich-selbst-zerstoert-meinung-a-ce299c3e-9dca-42ac-9314-20d5fa3063e7#ref=rss)
-### ruhs
-
-* [https://www.spiegel.de/kultur/tv/julia-ruhs-wie-die-ard-sich-selbst-zerstoert-meinung](https://www.spiegel.de/kultur/tv/julia-ruhs-wie-die-ard-sich-selbst-zerstoert-meinung-a-ce299c3e-9dca-42ac-9314-20d5fa3063e7#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/kultur/tv/julia-ruhs-wie-die-ard-sich-selbst-zerstoert-meinung](https://www.spiegel.de/kultur/tv/julia-ruhs-wie-die-ard-sich-selbst-zerstoert-meinung-a-ce299c3e-9dca-42ac-9314-20d5fa3063e7#ref=rss)
-* [https://www.spiegel.de/ausland/israel-david-zini-wird-neuer-chef-des-inlandsgeheimdienstes-shin-beth](https://www.spiegel.de/ausland/israel-david-zini-wird-neuer-chef-des-inlandsgeheimdienstes-shin-beth-a-d5b8b48f-2ff8-449b-bbc9-7b023d0bd3f7#ref=rss)
+* [https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache](https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache-a-214f4b7e-cf11-4310-848d-7413ae23bf04#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692-a-f99b3a6e-9b69-4e56-94cd-77e779e65d77#ref=rss)
+* [https://www.spiegel.de/partnerschaft/oktoberfest-in-muenchen-bekanntschaften-und-liebe-auf-der-wiesn](https://www.spiegel.de/partnerschaft/oktoberfest-in-muenchen-bekanntschaften-und-liebe-auf-der-wiesn-a-abdfb675-d5f5-402f-b572-2c90e89c80f3#ref=rss)
 ### sehr
 
-* [https://www.spiegel.de/kultur/tv/julia-ruhs-wie-die-ard-sich-selbst-zerstoert-meinung](https://www.spiegel.de/kultur/tv/julia-ruhs-wie-die-ard-sich-selbst-zerstoert-meinung-a-ce299c3e-9dca-42ac-9314-20d5fa3063e7#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/weihnachten-was-der-lebkuchen-verkauf-im-spaetsommer-in-kunden-ausloest](https://www.spiegel.de/panorama/gesellschaft/weihnachten-was-der-lebkuchen-verkauf-im-spaetsommer-in-kunden-ausloest-a-bb3fbfe5-f484-4273-acb9-a5f27f6444f2#ref=rss)
-### sieben
+* [https://www.spiegel.de/kultur/literatur/philipp-peyman-engel-briefwechsel-buch-zum-gazakrieg-schoener-streiten-ueber-israel](https://www.spiegel.de/kultur/literatur/philipp-peyman-engel-briefwechsel-buch-zum-gazakrieg-schoener-streiten-ueber-israel-a-88bb9140-03b1-441e-a95e-60efb78b1403#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koeln-kommunalwahlen-in-nrw-wer-gewinnt-die-stichwahl-und-wird-oberbuergermeister](https://www.spiegel.de/politik/deutschland/koeln-kommunalwahlen-in-nrw-wer-gewinnt-die-stichwahl-und-wird-oberbuergermeister-a-7b97e621-8a78-414a-ba41-dc0280c20336#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692-a-f99b3a6e-9b69-4e56-94cd-77e779e65d77#ref=rss)
+### donald
 
-* [https://www.spiegel.de/tests/brettspiele/aufbauspiele-im-test-crafting-the-cosmos-atua-tower-up-snowcrest-hunted-lands](https://www.spiegel.de/tests/brettspiele/aufbauspiele-im-test-crafting-the-cosmos-atua-tower-up-snowcrest-hunted-lands-a-e0699979-f13c-4cc6-a7aa-99df2102d4cf#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/italien-riesige-illegale-zigarettenfabrik-in-italien-entdeckt](https://www.spiegel.de/panorama/justiz/italien-riesige-illegale-zigarettenfabrik-in-italien-entdeckt-a-06cd84d5-995b-41d3-9d39-7e1de62bf5d2#ref=rss)
-### david
+* [https://www.spiegel.de/ausland/donald-trump-vs-komiker-der-praesident-als-witzfigur](https://www.spiegel.de/ausland/donald-trump-vs-komiker-der-praesident-als-witzfigur-a-41806136-fb15-482a-8fdd-3f345d526335#ref=rss)
+* [https://www.spiegel.de/ausland/usa-vergnuegungspark-von-bibelfanatikern-in-kentucky-vor-uns-die-sintflut](https://www.spiegel.de/ausland/usa-vergnuegungspark-von-bibelfanatikern-in-kentucky-vor-uns-die-sintflut-a-59c8985d-4931-408d-88ea-4f98fc8761d7#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/ausland/israel-david-zini-wird-neuer-chef-des-inlandsgeheimdienstes-shin-beth](https://www.spiegel.de/ausland/israel-david-zini-wird-neuer-chef-des-inlandsgeheimdienstes-shin-beth-a-d5b8b48f-2ff8-449b-bbc9-7b023d0bd3f7#ref=rss)
-### zini
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-prueft-abschaffung-des-pflegegrads-1](https://www.spiegel.de/politik/deutschland/bundesregierung-prueft-abschaffung-des-pflegegrads-1-a-b3a179c8-1aa2-47dd-b67e-097596dc084a#ref=rss)
+* [https://www.spiegel.de/ausland/drohnen-in-polen-und-daenemark-selenskyj-warnt-vor-russischem-angriff-in-europa](https://www.spiegel.de/ausland/drohnen-in-polen-und-daenemark-selenskyj-warnt-vor-russischem-angriff-in-europa-a-f810ea84-820f-49cc-a97e-a4e920c2d8de#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-finanzmarkt-experte-ash-unterstuetzt-kredit-aus-eingefrorenem-vermoegen](https://www.spiegel.de/wirtschaft/ukraine-finanzmarkt-experte-ash-unterstuetzt-kredit-aus-eingefrorenem-vermoegen-a-df6caed5-8d72-4e60-a6aa-c94bb20ef343#ref=rss)
+### bücken
 
-* [https://www.spiegel.de/ausland/israel-david-zini-wird-neuer-chef-des-inlandsgeheimdienstes-shin-beth](https://www.spiegel.de/ausland/israel-david-zini-wird-neuer-chef-des-inlandsgeheimdienstes-shin-beth-a-d5b8b48f-2ff8-449b-bbc9-7b023d0bd3f7#ref=rss)
-### chef
+* [https://www.spiegel.de/panorama/arbeit-auf-dem-feld-die-bauern-und-die-anderen-kolumne](https://www.spiegel.de/panorama/arbeit-auf-dem-feld-die-bauern-und-die-anderen-kolumne-a-c74ab813-f27a-46e0-be9c-e17fafc54b37#ref=rss)
+### etwas
 
-* [https://www.spiegel.de/ausland/israel-david-zini-wird-neuer-chef-des-inlandsgeheimdienstes-shin-beth](https://www.spiegel.de/ausland/israel-david-zini-wird-neuer-chef-des-inlandsgeheimdienstes-shin-beth-a-d5b8b48f-2ff8-449b-bbc9-7b023d0bd3f7#ref=rss)
-### haftbefehlsstreife
+* [https://www.spiegel.de/panorama/arbeit-auf-dem-feld-die-bauern-und-die-anderen-kolumne](https://www.spiegel.de/panorama/arbeit-auf-dem-feld-die-bauern-und-die-anderen-kolumne-a-c74ab813-f27a-46e0-be9c-e17fafc54b37#ref=rss)
+* [https://www.spiegel.de/start/rauchen-warum-studium-und-zigaretten-so-gut-zusammenpassen](https://www.spiegel.de/start/rauchen-warum-studium-und-zigaretten-so-gut-zusammenpassen-a-8d68eebd-38c5-40db-9843-26d96291709c#ref=rss)
+### uns
 
-* [https://www.spiegel.de/panorama/justiz/spiegel-tv-wie-die-haftbefehlsstreife-gegen-reichsbuerger-vorgeht](https://www.spiegel.de/panorama/justiz/spiegel-tv-wie-die-haftbefehlsstreife-gegen-reichsbuerger-vorgeht-a-8d775a12-13c6-4582-b454-8294cebe5296#ref=rss)
-### reichsbürger
+* [https://www.spiegel.de/panorama/arbeit-auf-dem-feld-die-bauern-und-die-anderen-kolumne](https://www.spiegel.de/panorama/arbeit-auf-dem-feld-die-bauern-und-die-anderen-kolumne-a-c74ab813-f27a-46e0-be9c-e17fafc54b37#ref=rss)
+* [https://www.spiegel.de/ausland/usa-vergnuegungspark-von-bibelfanatikern-in-kentucky-vor-uns-die-sintflut](https://www.spiegel.de/ausland/usa-vergnuegungspark-von-bibelfanatikern-in-kentucky-vor-uns-die-sintflut-a-59c8985d-4931-408d-88ea-4f98fc8761d7#ref=rss)
+### wir
 
-* [https://www.spiegel.de/panorama/justiz/spiegel-tv-wie-die-haftbefehlsstreife-gegen-reichsbuerger-vorgeht](https://www.spiegel.de/panorama/justiz/spiegel-tv-wie-die-haftbefehlsstreife-gegen-reichsbuerger-vorgeht-a-8d775a12-13c6-4582-b454-8294cebe5296#ref=rss)
-### einsatz
+* [https://www.spiegel.de/panorama/arbeit-auf-dem-feld-die-bauern-und-die-anderen-kolumne](https://www.spiegel.de/panorama/arbeit-auf-dem-feld-die-bauern-und-die-anderen-kolumne-a-c74ab813-f27a-46e0-be9c-e17fafc54b37#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr](https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr-a-b35f907a-0e0e-49fa-9f45-d5923bd5ae6b#ref=rss)
+### garmin
 
-* [https://www.spiegel.de/panorama/justiz/spiegel-tv-wie-die-haftbefehlsstreife-gegen-reichsbuerger-vorgeht](https://www.spiegel.de/panorama/justiz/spiegel-tv-wie-die-haftbefehlsstreife-gegen-reichsbuerger-vorgeht-a-8d775a12-13c6-4582-b454-8294cebe5296#ref=rss)
-* [https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an](https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an-a-b7fd6e52-bfa0-4c18-8a5a-902b1ca93c43#ref=rss)
-### pete
+* [https://www.spiegel.de/tests/fahrrad-zubehoer/dashcam-garmin-varia-vue-und-varia-rct716-im-test-das-taugt-der-videobeweis-fuer-fahrraeder](https://www.spiegel.de/tests/fahrrad-zubehoer/dashcam-garmin-varia-vue-und-varia-rct716-im-test-das-taugt-der-videobeweis-fuer-fahrraeder-a-ea7cdc79-c017-46ac-952b-f425b525f3c0#ref=rss)
+### varia
 
-* [https://www.spiegel.de/ausland/pete-hegseth-beordert-weltweit-hunderte-generaele-und-admirale-in-die-usa-zurueck-um-ueber-kriegergeist-der-armee-zu-sprechen](https://www.spiegel.de/ausland/pete-hegseth-beordert-weltweit-hunderte-generaele-und-admirale-in-die-usa-zurueck-um-ueber-kriegergeist-der-armee-zu-sprechen-a-ea486d02-08a8-4fb3-ae1b-7ff17b244f89#ref=rss)
-### hegseth
+* [https://www.spiegel.de/tests/fahrrad-zubehoer/dashcam-garmin-varia-vue-und-varia-rct716-im-test-das-taugt-der-videobeweis-fuer-fahrraeder](https://www.spiegel.de/tests/fahrrad-zubehoer/dashcam-garmin-varia-vue-und-varia-rct716-im-test-das-taugt-der-videobeweis-fuer-fahrraeder-a-ea7cdc79-c017-46ac-952b-f425b525f3c0#ref=rss)
+### fahrräder
 
-* [https://www.spiegel.de/ausland/pete-hegseth-beordert-weltweit-hunderte-generaele-und-admirale-in-die-usa-zurueck-um-ueber-kriegergeist-der-armee-zu-sprechen](https://www.spiegel.de/ausland/pete-hegseth-beordert-weltweit-hunderte-generaele-und-admirale-in-die-usa-zurueck-um-ueber-kriegergeist-der-armee-zu-sprechen-a-ea486d02-08a8-4fb3-ae1b-7ff17b244f89#ref=rss)
-### who
+* [https://www.spiegel.de/tests/fahrrad-zubehoer/dashcam-garmin-varia-vue-und-varia-rct716-im-test-das-taugt-der-videobeweis-fuer-fahrraeder](https://www.spiegel.de/tests/fahrrad-zubehoer/dashcam-garmin-varia-vue-und-varia-rct716-im-test-das-taugt-der-videobeweis-fuer-fahrraeder-a-ea7cdc79-c017-46ac-952b-f425b525f3c0#ref=rss)
+### sicherheit
 
-* [https://www.spiegel.de/ausland/pete-hegseth-beordert-weltweit-hunderte-generaele-und-admirale-in-die-usa-zurueck-um-ueber-kriegergeist-der-armee-zu-sprechen](https://www.spiegel.de/ausland/pete-hegseth-beordert-weltweit-hunderte-generaele-und-admirale-in-die-usa-zurueck-um-ueber-kriegergeist-der-armee-zu-sprechen-a-ea486d02-08a8-4fb3-ae1b-7ff17b244f89#ref=rss)
-### grund
+* [https://www.spiegel.de/tests/fahrrad-zubehoer/dashcam-garmin-varia-vue-und-varia-rct716-im-test-das-taugt-der-videobeweis-fuer-fahrraeder](https://www.spiegel.de/tests/fahrrad-zubehoer/dashcam-garmin-varia-vue-und-varia-rct716-im-test-das-taugt-der-videobeweis-fuer-fahrraeder-a-ea7cdc79-c017-46ac-952b-f425b525f3c0#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/auto-fahrerassistenzsysteme-wenn-der-wagen-bei-200-km-h-ploetzlich-stark-bremst](https://www.spiegel.de/auto/fahrberichte/auto-fahrerassistenzsysteme-wenn-der-wagen-bei-200-km-h-ploetzlich-stark-bremst-a-27e52cf4-550b-46d8-b919-b2ec8028f416#ref=rss)
+### mussten
 
-* [https://www.spiegel.de/ausland/pete-hegseth-beordert-weltweit-hunderte-generaele-und-admirale-in-die-usa-zurueck-um-ueber-kriegergeist-der-armee-zu-sprechen](https://www.spiegel.de/ausland/pete-hegseth-beordert-weltweit-hunderte-generaele-und-admirale-in-die-usa-zurueck-um-ueber-kriegergeist-der-armee-zu-sprechen-a-ea486d02-08a8-4fb3-ae1b-7ff17b244f89#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-meldet-erhalt-von-patriot-flugabwehrsystem-aus-israel](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-meldet-erhalt-von-patriot-flugabwehrsystem-aus-israel-a-22150543-cafc-42c4-a3fc-495c5c4ed370#ref=rss)
-### giro
+* [https://www.spiegel.de/tests/fahrrad-zubehoer/dashcam-garmin-varia-vue-und-varia-rct716-im-test-das-taugt-der-videobeweis-fuer-fahrraeder](https://www.spiegel.de/tests/fahrrad-zubehoer/dashcam-garmin-varia-vue-und-varia-rct716-im-test-das-taugt-der-videobeweis-fuer-fahrraeder-a-ea7cdc79-c017-46ac-952b-f425b525f3c0#ref=rss)
+* [https://www.spiegel.de/sport/golf/golf-ryder-cup-in-den-usa-europa-dominiert-und-fordert-respekt-ein](https://www.spiegel.de/sport/golf/golf-ryder-cup-in-den-usa-europa-dominiert-und-fordert-respekt-ein-a-59595919-b5d3-4852-81eb-a1a82ff8971a#ref=rss)
+### studium
 
-* [https://www.spiegel.de/sport/radsport/radsport-israel-premier-tech-darf-bei-giro-dellemilia-nicht-starten](https://www.spiegel.de/sport/radsport/radsport-israel-premier-tech-darf-bei-giro-dellemilia-nicht-starten-a-0ed70689-941c-456c-9ce4-4b55141bb95e#ref=rss)
-### dell'emilia
+* [https://www.spiegel.de/start/rauchen-warum-studium-und-zigaretten-so-gut-zusammenpassen](https://www.spiegel.de/start/rauchen-warum-studium-und-zigaretten-so-gut-zusammenpassen-a-8d68eebd-38c5-40db-9843-26d96291709c#ref=rss)
+### charlie
 
-* [https://www.spiegel.de/sport/radsport/radsport-israel-premier-tech-darf-bei-giro-dellemilia-nicht-starten](https://www.spiegel.de/sport/radsport/radsport-israel-premier-tech-darf-bei-giro-dellemilia-nicht-starten-a-0ed70689-941c-456c-9ce4-4b55141bb95e#ref=rss)
-### deshalb
+* [https://www.spiegel.de/kultur/charlie-sheen-erzaehlt-wie-er-in-hamburg-fast-gestorben-waere](https://www.spiegel.de/kultur/charlie-sheen-erzaehlt-wie-er-in-hamburg-fast-gestorben-waere-a-97ac2b88-c05c-4744-bf9d-743a110729f4#ref=rss)
+### sheen
 
-* [https://www.spiegel.de/sport/radsport/radsport-israel-premier-tech-darf-bei-giro-dellemilia-nicht-starten](https://www.spiegel.de/sport/radsport/radsport-israel-premier-tech-darf-bei-giro-dellemilia-nicht-starten-a-0ed70689-941c-456c-9ce4-4b55141bb95e#ref=rss)
-* [https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an](https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an-a-b7fd6e52-bfa0-4c18-8a5a-902b1ca93c43#ref=rss)
+* [https://www.spiegel.de/kultur/charlie-sheen-erzaehlt-wie-er-in-hamburg-fast-gestorben-waere](https://www.spiegel.de/kultur/charlie-sheen-erzaehlt-wie-er-in-hamburg-fast-gestorben-waere-a-97ac2b88-c05c-4744-bf9d-743a110729f4#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-israel-gaza-krieg-antisemitismus-deutschland-neuer-spiegel-cover](https://www.spiegel.de/politik/deutschland/news-israel-gaza-krieg-antisemitismus-deutschland-neuer-spiegel-cover-a-18cd4192-33e2-4724-ba56-6b0076ea37ad#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache](https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache-a-214f4b7e-cf11-4310-848d-7413ae23bf04#ref=rss)
+* [https://www.spiegel.de/ausland/fbi-agenten-nach-kniefall-bei-anti-rassismus-demo-entlassen-kritik-an-kash-patel](https://www.spiegel.de/ausland/fbi-agenten-nach-kniefall-bei-anti-rassismus-demo-entlassen-kritik-an-kash-patel-a-311c474f-4898-415f-889f-6254a26eb06f#ref=rss)
+### viele
+
+* [https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache](https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache-a-214f4b7e-cf11-4310-848d-7413ae23bf04#ref=rss)
+* [https://www.spiegel.de/geschichte/jugendsprache-lateinische-woerter-die-cool-wurden](https://www.spiegel.de/geschichte/jugendsprache-lateinische-woerter-die-cool-wurden-a-82a88a97-92e8-4b7c-aa23-579234fbb8e7#ref=rss)
+### waren
+
+* [https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache](https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache-a-214f4b7e-cf11-4310-848d-7413ae23bf04#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-moenchengladbach-verliert-4-6-in-der-halbzeitpause-an-unsere-ehre-appelliert](https://www.spiegel.de/sport/fussball/bundesliga-borussia-moenchengladbach-verliert-4-6-in-der-halbzeitpause-an-unsere-ehre-appelliert-a-49d88022-9e07-4e30-a4ec-cd559e3d546c#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache](https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache-a-214f4b7e-cf11-4310-848d-7413ae23bf04#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692-a-f99b3a6e-9b69-4e56-94cd-77e779e65d77#ref=rss)
+### anders
+
+* [https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache](https://www.spiegel.de/panorama/kritik-am-sicherheitskonzept-der-wiesn-das-war-panikmache-a-214f4b7e-cf11-4310-848d-7413ae23bf04#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-muslime-duerfen-zu-ramadan-und-opferfest-kuenftig-freinehmen](https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-muslime-duerfen-zu-ramadan-und-opferfest-kuenftig-freinehmen-a-88f65ea8-9fbd-4a2b-ab4c-f787e78609d5#ref=rss)
+### philipp
+
+* [https://www.spiegel.de/kultur/literatur/philipp-peyman-engel-briefwechsel-buch-zum-gazakrieg-schoener-streiten-ueber-israel](https://www.spiegel.de/kultur/literatur/philipp-peyman-engel-briefwechsel-buch-zum-gazakrieg-schoener-streiten-ueber-israel-a-88bb9140-03b1-441e-a95e-60efb78b1403#ref=rss)
+### peyman
+
+* [https://www.spiegel.de/kultur/literatur/philipp-peyman-engel-briefwechsel-buch-zum-gazakrieg-schoener-streiten-ueber-israel](https://www.spiegel.de/kultur/literatur/philipp-peyman-engel-briefwechsel-buch-zum-gazakrieg-schoener-streiten-ueber-israel-a-88bb9140-03b1-441e-a95e-60efb78b1403#ref=rss)
+### engel
+
+* [https://www.spiegel.de/kultur/literatur/philipp-peyman-engel-briefwechsel-buch-zum-gazakrieg-schoener-streiten-ueber-israel](https://www.spiegel.de/kultur/literatur/philipp-peyman-engel-briefwechsel-buch-zum-gazakrieg-schoener-streiten-ueber-israel-a-88bb9140-03b1-441e-a95e-60efb78b1403#ref=rss)
+### gazakrieg
+
+* [https://www.spiegel.de/kultur/literatur/philipp-peyman-engel-briefwechsel-buch-zum-gazakrieg-schoener-streiten-ueber-israel](https://www.spiegel.de/kultur/literatur/philipp-peyman-engel-briefwechsel-buch-zum-gazakrieg-schoener-streiten-ueber-israel-a-88bb9140-03b1-441e-a95e-60efb78b1403#ref=rss)
+### israel
+
+* [https://www.spiegel.de/kultur/literatur/philipp-peyman-engel-briefwechsel-buch-zum-gazakrieg-schoener-streiten-ueber-israel](https://www.spiegel.de/kultur/literatur/philipp-peyman-engel-briefwechsel-buch-zum-gazakrieg-schoener-streiten-ueber-israel-a-88bb9140-03b1-441e-a95e-60efb78b1403#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-israel-gaza-krieg-antisemitismus-deutschland-neuer-spiegel-cover](https://www.spiegel.de/politik/deutschland/news-israel-gaza-krieg-antisemitismus-deutschland-neuer-spiegel-cover-a-18cd4192-33e2-4724-ba56-6b0076ea37ad#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/politik/deutschland/koeln-kommunalwahlen-in-nrw-wer-gewinnt-die-stichwahl-und-wird-oberbuergermeister](https://www.spiegel.de/politik/deutschland/koeln-kommunalwahlen-in-nrw-wer-gewinnt-die-stichwahl-und-wird-oberbuergermeister-a-7b97e621-8a78-414a-ba41-dc0280c20336#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-eine-unbekannte-zwei-potenzen](https://www.spiegel.de/karriere/raetsel-der-woche-eine-unbekannte-zwei-potenzen-a-a0f75e7e-412e-4be7-a7f2-90f3eade5b21#ref=rss)
+### gegenüber
+
+* [https://www.spiegel.de/politik/deutschland/koeln-kommunalwahlen-in-nrw-wer-gewinnt-die-stichwahl-und-wird-oberbuergermeister](https://www.spiegel.de/politik/deutschland/koeln-kommunalwahlen-in-nrw-wer-gewinnt-die-stichwahl-und-wird-oberbuergermeister-a-7b97e621-8a78-414a-ba41-dc0280c20336#ref=rss)
+* [https://www.spiegel.de/partnerschaft/dating-sie-finden-ihr-date-ploetzlich-ekelig-so-geht-es-auch-anderen](https://www.spiegel.de/partnerschaft/dating-sie-finden-ihr-date-ploetzlich-ekelig-so-geht-es-auch-anderen-a-2287dfdf-ff43-454d-bd73-b33f292d8ade#ref=rss)
+### beide
+
+* [https://www.spiegel.de/politik/deutschland/koeln-kommunalwahlen-in-nrw-wer-gewinnt-die-stichwahl-und-wird-oberbuergermeister](https://www.spiegel.de/politik/deutschland/koeln-kommunalwahlen-in-nrw-wer-gewinnt-die-stichwahl-und-wird-oberbuergermeister-a-7b97e621-8a78-414a-ba41-dc0280c20336#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr](https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr-a-b35f907a-0e0e-49fa-9f45-d5923bd5ae6b#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/donald-trump-vs-komiker-der-praesident-als-witzfigur](https://www.spiegel.de/ausland/donald-trump-vs-komiker-der-praesident-als-witzfigur-a-41806136-fb15-482a-8fdd-3f345d526335#ref=rss)
+* [https://www.spiegel.de/ausland/drohnen-in-polen-und-daenemark-selenskyj-warnt-vor-russischem-angriff-in-europa](https://www.spiegel.de/ausland/drohnen-in-polen-und-daenemark-selenskyj-warnt-vor-russischem-angriff-in-europa-a-f810ea84-820f-49cc-a97e-a4e920c2d8de#ref=rss)
+### amerikanischen
+
+* [https://www.spiegel.de/ausland/donald-trump-vs-komiker-der-praesident-als-witzfigur](https://www.spiegel.de/ausland/donald-trump-vs-komiker-der-praesident-als-witzfigur-a-41806136-fb15-482a-8fdd-3f345d526335#ref=rss)
+* [https://www.spiegel.de/sport/golf/golf-ryder-cup-in-den-usa-europa-dominiert-und-fordert-respekt-ein](https://www.spiegel.de/sport/golf/golf-ryder-cup-in-den-usa-europa-dominiert-und-fordert-respekt-ein-a-59595919-b5d3-4852-81eb-a1a82ff8971a#ref=rss)
+### kentucky
+
+* [https://www.spiegel.de/ausland/usa-vergnuegungspark-von-bibelfanatikern-in-kentucky-vor-uns-die-sintflut](https://www.spiegel.de/ausland/usa-vergnuegungspark-von-bibelfanatikern-in-kentucky-vor-uns-die-sintflut-a-59c8985d-4931-408d-88ea-4f98fc8761d7#ref=rss)
+### welt
+
+* [https://www.spiegel.de/ausland/usa-vergnuegungspark-von-bibelfanatikern-in-kentucky-vor-uns-die-sintflut](https://www.spiegel.de/ausland/usa-vergnuegungspark-von-bibelfanatikern-in-kentucky-vor-uns-die-sintflut-a-59c8985d-4931-408d-88ea-4f98fc8761d7#ref=rss)
+* [https://www.spiegel.de/panorama/china-eroeffnet-die-hoechste-bruecke-der-welt-huajiang-grand-canyon-bridge-in-der-provinz-guizhou](https://www.spiegel.de/panorama/china-eroeffnet-die-hoechste-bruecke-der-welt-huajiang-grand-canyon-bridge-in-der-provinz-guizhou-a-990e1e64-17f0-4426-bacc-f70401106257#ref=rss)
+### geld
+
+* [https://www.spiegel.de/ausland/religion-in-den-usa-so-gross-ist-der-einfluss-christlicher-nationalisten](https://www.spiegel.de/ausland/religion-in-den-usa-so-gross-ist-der-einfluss-christlicher-nationalisten-a-0a05ec6d-c9ba-409f-82ca-029bd7f488f9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-prueft-abschaffung-des-pflegegrads-1](https://www.spiegel.de/politik/deutschland/bundesregierung-prueft-abschaffung-des-pflegegrads-1-a-b3a179c8-1aa2-47dd-b67e-097596dc084a#ref=rss)
+### woche
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692-a-f99b3a6e-9b69-4e56-94cd-77e779e65d77#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-eine-unbekannte-zwei-potenzen](https://www.spiegel.de/karriere/raetsel-der-woche-eine-unbekannte-zwei-potenzen-a-a0f75e7e-412e-4be7-a7f2-90f3eade5b21#ref=rss)
+### chappatte
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692-a-f99b3a6e-9b69-4e56-94cd-77e779e65d77#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692-a-f99b3a6e-9b69-4e56-94cd-77e779e65d77#ref=rss)
+### plaßmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692-a-f99b3a6e-9b69-4e56-94cd-77e779e65d77#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692-a-f99b3a6e-9b69-4e56-94cd-77e779e65d77#ref=rss)
+### stuttmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692-a-f99b3a6e-9b69-4e56-94cd-77e779e65d77#ref=rss)
 ### drohnen
 
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-meldet-erhalt-von-patriot-flugabwehrsystem-aus-israel](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-meldet-erhalt-von-patriot-flugabwehrsystem-aus-israel-a-22150543-cafc-42c4-a3fc-495c5c4ed370#ref=rss)
-* [https://www.spiegel.de/ausland/daenemark-und-norwegen-drohnensichtungen-bei-militaerbasen](https://www.spiegel.de/ausland/daenemark-und-norwegen-drohnensichtungen-bei-militaerbasen-a-36820943-e662-44bb-8736-d8a0c96630e7#ref=rss)
-### sandro
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1759044692-a-f99b3a6e-9b69-4e56-94cd-77e779e65d77#ref=rss)
+* [https://www.spiegel.de/ausland/drohnen-in-polen-und-daenemark-selenskyj-warnt-vor-russischem-angriff-in-europa](https://www.spiegel.de/ausland/drohnen-in-polen-und-daenemark-selenskyj-warnt-vor-russischem-angriff-in-europa-a-f810ea84-820f-49cc-a97e-a4e920c2d8de#ref=rss)
+### ryder
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-kompakt-der-hype-um-sandro-wagner-beim-fc-augsburg-ist-schon-wieder-vorbei](https://www.spiegel.de/sport/fussball/fussball-bundesliga-kompakt-der-hype-um-sandro-wagner-beim-fc-augsburg-ist-schon-wieder-vorbei-a-4596073e-cc20-45b2-9774-d6e62f4f096f#ref=rss)
-### wagner
+* [https://www.spiegel.de/sport/golf/golf-ryder-cup-in-den-usa-europa-dominiert-und-fordert-respekt-ein](https://www.spiegel.de/sport/golf/golf-ryder-cup-in-den-usa-europa-dominiert-und-fordert-respekt-ein-a-59595919-b5d3-4852-81eb-a1a82ff8971a#ref=rss)
+### cup
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-kompakt-der-hype-um-sandro-wagner-beim-fc-augsburg-ist-schon-wieder-vorbei](https://www.spiegel.de/sport/fussball/fussball-bundesliga-kompakt-der-hype-um-sandro-wagner-beim-fc-augsburg-ist-schon-wieder-vorbei-a-4596073e-cc20-45b2-9774-d6e62f4f096f#ref=rss)
-### augsburg
+* [https://www.spiegel.de/sport/golf/golf-ryder-cup-in-den-usa-europa-dominiert-und-fordert-respekt-ein](https://www.spiegel.de/sport/golf/golf-ryder-cup-in-den-usa-europa-dominiert-und-fordert-respekt-ein-a-59595919-b5d3-4852-81eb-a1a82ff8971a#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-kompakt-der-hype-um-sandro-wagner-beim-fc-augsburg-ist-schon-wieder-vorbei](https://www.spiegel.de/sport/fussball/fussball-bundesliga-kompakt-der-hype-um-sandro-wagner-beim-fc-augsburg-ist-schon-wieder-vorbei-a-4596073e-cc20-45b2-9774-d6e62f4f096f#ref=rss)
-### wahl
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-prueft-abschaffung-des-pflegegrads-1](https://www.spiegel.de/politik/deutschland/bundesregierung-prueft-abschaffung-des-pflegegrads-1-a-b3a179c8-1aa2-47dd-b67e-097596dc084a#ref=rss)
+* [https://www.spiegel.de/ausland/drohnen-in-polen-und-daenemark-selenskyj-warnt-vor-russischem-angriff-in-europa](https://www.spiegel.de/ausland/drohnen-in-polen-und-daenemark-selenskyj-warnt-vor-russischem-angriff-in-europa-a-f810ea84-820f-49cc-a97e-a4e920c2d8de#ref=rss)
+### 1
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-kompakt-der-hype-um-sandro-wagner-beim-fc-augsburg-ist-schon-wieder-vorbei](https://www.spiegel.de/sport/fussball/fussball-bundesliga-kompakt-der-hype-um-sandro-wagner-beim-fc-augsburg-ist-schon-wieder-vorbei-a-4596073e-cc20-45b2-9774-d6e62f4f096f#ref=rss)
-* [https://www.spiegel.de/ausland/moldau-weitere-prorussische-partei-von-parlamentswahl-ausgeschlossen](https://www.spiegel.de/ausland/moldau-weitere-prorussische-partei-von-parlamentswahl-ausgeschlossen-a-51c4fc45-0012-4e36-ada5-1d4a0e867a06#ref=rss)
-### albert
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-prueft-abschaffung-des-pflegegrads-1](https://www.spiegel.de/politik/deutschland/bundesregierung-prueft-abschaffung-des-pflegegrads-1-a-b3a179c8-1aa2-47dd-b67e-097596dc084a#ref=rss)
+### bild
 
-* [https://www.spiegel.de/wissenschaft/albert-einstein-private-gespraeche-und-die-letzte-liebe-seines-lebens](https://www.spiegel.de/wissenschaft/albert-einstein-private-gespraeche-und-die-letzte-liebe-seines-lebens-a-8716e859-2e81-4e85-a85a-e263df741384#ref=rss)
-### letzte
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-prueft-abschaffung-des-pflegegrads-1](https://www.spiegel.de/politik/deutschland/bundesregierung-prueft-abschaffung-des-pflegegrads-1-a-b3a179c8-1aa2-47dd-b67e-097596dc084a#ref=rss)
+* [https://www.spiegel.de/ausland/fbi-agenten-nach-kniefall-bei-anti-rassismus-demo-entlassen-kritik-an-kash-patel](https://www.spiegel.de/ausland/fbi-agenten-nach-kniefall-bei-anti-rassismus-demo-entlassen-kritik-an-kash-patel-a-311c474f-4898-415f-889f-6254a26eb06f#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wissenschaft/albert-einstein-private-gespraeche-und-die-letzte-liebe-seines-lebens](https://www.spiegel.de/wissenschaft/albert-einstein-private-gespraeche-und-die-letzte-liebe-seines-lebens-a-8716e859-2e81-4e85-a85a-e263df741384#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-prueft-abschaffung-des-pflegegrads-1](https://www.spiegel.de/politik/deutschland/bundesregierung-prueft-abschaffung-des-pflegegrads-1-a-b3a179c8-1aa2-47dd-b67e-097596dc084a#ref=rss)
+* [https://www.spiegel.de/partnerschaft/oktoberfest-in-muenchen-bekanntschaften-und-liebe-auf-der-wiesn](https://www.spiegel.de/partnerschaft/oktoberfest-in-muenchen-bekanntschaften-und-liebe-auf-der-wiesn-a-abdfb675-d5f5-402f-b572-2c90e89c80f3#ref=rss)
+### künftig
+
+* [https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-muslime-duerfen-zu-ramadan-und-opferfest-kuenftig-freinehmen](https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-muslime-duerfen-zu-ramadan-und-opferfest-kuenftig-freinehmen-a-88f65ea8-9fbd-4a2b-ab4c-f787e78609d5#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-muslime-duerfen-zu-ramadan-und-opferfest-kuenftig-freinehmen](https://www.spiegel.de/panorama/gesellschaft/schleswig-holstein-muslime-duerfen-zu-ramadan-und-opferfest-kuenftig-freinehmen-a-88f65ea8-9fbd-4a2b-ab4c-f787e78609d5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-israel-gaza-krieg-antisemitismus-deutschland-neuer-spiegel-cover](https://www.spiegel.de/politik/deutschland/news-israel-gaza-krieg-antisemitismus-deutschland-neuer-spiegel-cover-a-18cd4192-33e2-4724-ba56-6b0076ea37ad#ref=rss)
+### mönchengladbach
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-moenchengladbach-verliert-4-6-in-der-halbzeitpause-an-unsere-ehre-appelliert](https://www.spiegel.de/sport/fussball/bundesliga-borussia-moenchengladbach-verliert-4-6-in-der-halbzeitpause-an-unsere-ehre-appelliert-a-49d88022-9e07-4e30-a4ec-cd559e3d546c#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-borussia-moenchengladbach-verliert-4-6-in-der-halbzeitpause-an-unsere-ehre-appelliert](https://www.spiegel.de/sport/fussball/bundesliga-borussia-moenchengladbach-verliert-4-6-in-der-halbzeitpause-an-unsere-ehre-appelliert-a-49d88022-9e07-4e30-a4ec-cd559e3d546c#ref=rss)
+* [https://www.spiegel.de/partnerschaft/dating-sie-finden-ihr-date-ploetzlich-ekelig-so-geht-es-auch-anderen](https://www.spiegel.de/partnerschaft/dating-sie-finden-ihr-date-ploetzlich-ekelig-so-geht-es-auch-anderen-a-2287dfdf-ff43-454d-bd73-b33f292d8ade#ref=rss)
+### polarlichter
+
+* [https://www.spiegel.de/wissenschaft/weltall/polarlichter-auf-himmelskoerper-simp-0136-entdeckt](https://www.spiegel.de/wissenschaft/weltall/polarlichter-auf-himmelskoerper-simp-0136-entdeckt-a-01d88565-291d-46fc-83da-d15d064433a6#ref=rss)
+### simp0136
+
+* [https://www.spiegel.de/wissenschaft/weltall/polarlichter-auf-himmelskoerper-simp-0136-entdeckt](https://www.spiegel.de/wissenschaft/weltall/polarlichter-auf-himmelskoerper-simp-0136-entdeckt-a-01d88565-291d-46fc-83da-d15d064433a6#ref=rss)
+### jugendsprache
+
+* [https://www.spiegel.de/geschichte/jugendsprache-lateinische-woerter-die-cool-wurden](https://www.spiegel.de/geschichte/jugendsprache-lateinische-woerter-die-cool-wurden-a-82a88a97-92e8-4b7c-aa23-579234fbb8e7#ref=rss)
+### matthias
+
+* [https://www.spiegel.de/wirtschaft/matthias-prinz-ich-bin-im-glueck-losgelaufen-und-im-scheiss-gelandet](https://www.spiegel.de/wirtschaft/matthias-prinz-ich-bin-im-glueck-losgelaufen-und-im-scheiss-gelandet-a-59772c10-e8db-444b-a5a3-2a67d8456c8f#ref=rss)
+### prinz
+
+* [https://www.spiegel.de/wirtschaft/matthias-prinz-ich-bin-im-glueck-losgelaufen-und-im-scheiss-gelandet](https://www.spiegel.de/wirtschaft/matthias-prinz-ich-bin-im-glueck-losgelaufen-und-im-scheiss-gelandet-a-59772c10-e8db-444b-a5a3-2a67d8456c8f#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/drohnen-in-polen-und-daenemark-selenskyj-warnt-vor-russischem-angriff-in-europa](https://www.spiegel.de/ausland/drohnen-in-polen-und-daenemark-selenskyj-warnt-vor-russischem-angriff-in-europa-a-f810ea84-820f-49cc-a97e-a4e920c2d8de#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/wirtschaft/ukraine-finanzmarkt-experte-ash-unterstuetzt-kredit-aus-eingefrorenem-vermoegen](https://www.spiegel.de/wirtschaft/ukraine-finanzmarkt-experte-ash-unterstuetzt-kredit-aus-eingefrorenem-vermoegen-a-df6caed5-8d72-4e60-a6aa-c94bb20ef343#ref=rss)
+### finanzmarktexperte
+
+* [https://www.spiegel.de/wirtschaft/ukraine-finanzmarkt-experte-ash-unterstuetzt-kredit-aus-eingefrorenem-vermoegen](https://www.spiegel.de/wirtschaft/ukraine-finanzmarkt-experte-ash-unterstuetzt-kredit-aus-eingefrorenem-vermoegen-a-df6caed5-8d72-4e60-a6aa-c94bb20ef343#ref=rss)
+### ash
+
+* [https://www.spiegel.de/wirtschaft/ukraine-finanzmarkt-experte-ash-unterstuetzt-kredit-aus-eingefrorenem-vermoegen](https://www.spiegel.de/wirtschaft/ukraine-finanzmarkt-experte-ash-unterstuetzt-kredit-aus-eingefrorenem-vermoegen-a-df6caed5-8d72-4e60-a6aa-c94bb20ef343#ref=rss)
+### vermögen
+
+* [https://www.spiegel.de/wirtschaft/ukraine-finanzmarkt-experte-ash-unterstuetzt-kredit-aus-eingefrorenem-vermoegen](https://www.spiegel.de/wirtschaft/ukraine-finanzmarkt-experte-ash-unterstuetzt-kredit-aus-eingefrorenem-vermoegen-a-df6caed5-8d72-4e60-a6aa-c94bb20ef343#ref=rss)
+### ostbeauftragte
+
+* [https://www.spiegel.de/politik/deutschland/ostbeauftragte-elisabeth-kaiser-mit-dem-alter-bin-ich-immer-ostdeutscher-geworden](https://www.spiegel.de/politik/deutschland/ostbeauftragte-elisabeth-kaiser-mit-dem-alter-bin-ich-immer-ostdeutscher-geworden-a-c3210ba5-0ad2-4f88-a9bd-eff051cadc72#ref=rss)
+### elisabeth
+
+* [https://www.spiegel.de/politik/deutschland/ostbeauftragte-elisabeth-kaiser-mit-dem-alter-bin-ich-immer-ostdeutscher-geworden](https://www.spiegel.de/politik/deutschland/ostbeauftragte-elisabeth-kaiser-mit-dem-alter-bin-ich-immer-ostdeutscher-geworden-a-c3210ba5-0ad2-4f88-a9bd-eff051cadc72#ref=rss)
+### kaiser
+
+* [https://www.spiegel.de/politik/deutschland/ostbeauftragte-elisabeth-kaiser-mit-dem-alter-bin-ich-immer-ostdeutscher-geworden](https://www.spiegel.de/politik/deutschland/ostbeauftragte-elisabeth-kaiser-mit-dem-alter-bin-ich-immer-ostdeutscher-geworden-a-c3210ba5-0ad2-4f88-a9bd-eff051cadc72#ref=rss)
+### unbekannte
+
+* [https://www.spiegel.de/karriere/raetsel-der-woche-eine-unbekannte-zwei-potenzen](https://www.spiegel.de/karriere/raetsel-der-woche-eine-unbekannte-zwei-potenzen-a-a0f75e7e-412e-4be7-a7f2-90f3eade5b21#ref=rss)
+### brücke
+
+* [https://www.spiegel.de/panorama/china-eroeffnet-die-hoechste-bruecke-der-welt-huajiang-grand-canyon-bridge-in-der-provinz-guizhou](https://www.spiegel.de/panorama/china-eroeffnet-die-hoechste-bruecke-der-welt-huajiang-grand-canyon-bridge-in-der-provinz-guizhou-a-990e1e64-17f0-4426-bacc-f70401106257#ref=rss)
+### autofahrer
+
+* [https://www.spiegel.de/panorama/china-eroeffnet-die-hoechste-bruecke-der-welt-huajiang-grand-canyon-bridge-in-der-provinz-guizhou](https://www.spiegel.de/panorama/china-eroeffnet-die-hoechste-bruecke-der-welt-huajiang-grand-canyon-bridge-in-der-provinz-guizhou-a-990e1e64-17f0-4426-bacc-f70401106257#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/auto-fahrerassistenzsysteme-wenn-der-wagen-bei-200-km-h-ploetzlich-stark-bremst](https://www.spiegel.de/auto/fahrberichte/auto-fahrerassistenzsysteme-wenn-der-wagen-bei-200-km-h-ploetzlich-stark-bremst-a-27e52cf4-550b-46d8-b919-b2ec8028f416#ref=rss)
+### toniebox
+
+* [https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr](https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr-a-b35f907a-0e0e-49fa-9f45-d5923bd5ae6b#ref=rss)
+### edurino
+
+* [https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr](https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr-a-b35f907a-0e0e-49fa-9f45-d5923bd5ae6b#ref=rss)
+### lohnt
+
+* [https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr](https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr-a-b35f907a-0e0e-49fa-9f45-d5923bd5ae6b#ref=rss)
+### zusammen
+
+* [https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr](https://www.spiegel.de/netzwelt/web/toniebox-2-und-edurino-im-test-welches-kinder-gadget-lohnt-sich-mehr-a-b35f907a-0e0e-49fa-9f45-d5923bd5ae6b#ref=rss)
+* [https://www.spiegel.de/partnerschaft/dating-sie-finden-ihr-date-ploetzlich-ekelig-so-geht-es-auch-anderen](https://www.spiegel.de/partnerschaft/dating-sie-finden-ihr-date-ploetzlich-ekelig-so-geht-es-auch-anderen-a-2287dfdf-ff43-454d-bd73-b33f292d8ade#ref=rss)
+### plötzlich
+
+* [https://www.spiegel.de/auto/fahrberichte/auto-fahrerassistenzsysteme-wenn-der-wagen-bei-200-km-h-ploetzlich-stark-bremst](https://www.spiegel.de/auto/fahrberichte/auto-fahrerassistenzsysteme-wenn-der-wagen-bei-200-km-h-ploetzlich-stark-bremst-a-27e52cf4-550b-46d8-b919-b2ec8028f416#ref=rss)
+* [https://www.spiegel.de/partnerschaft/dating-sie-finden-ihr-date-ploetzlich-ekelig-so-geht-es-auch-anderen](https://www.spiegel.de/partnerschaft/dating-sie-finden-ihr-date-ploetzlich-ekelig-so-geht-es-auch-anderen-a-2287dfdf-ff43-454d-bd73-b33f292d8ade#ref=rss)
+### wirklich
+
+* [https://www.spiegel.de/auto/fahrberichte/auto-fahrerassistenzsysteme-wenn-der-wagen-bei-200-km-h-ploetzlich-stark-bremst](https://www.spiegel.de/auto/fahrberichte/auto-fahrerassistenzsysteme-wenn-der-wagen-bei-200-km-h-ploetzlich-stark-bremst-a-27e52cf4-550b-46d8-b919-b2ec8028f416#ref=rss)
+* [https://www.spiegel.de/partnerschaft/oktoberfest-in-muenchen-bekanntschaften-und-liebe-auf-der-wiesn](https://www.spiegel.de/partnerschaft/oktoberfest-in-muenchen-bekanntschaften-und-liebe-auf-der-wiesn-a-abdfb675-d5f5-402f-b572-2c90e89c80f3#ref=rss)
 ### liebe
 
-* [https://www.spiegel.de/wissenschaft/albert-einstein-private-gespraeche-und-die-letzte-liebe-seines-lebens](https://www.spiegel.de/wissenschaft/albert-einstein-private-gespraeche-und-die-letzte-liebe-seines-lebens-a-8716e859-2e81-4e85-a85a-e263df741384#ref=rss)
-### bistum
-
-* [https://www.spiegel.de/panorama/bistum-passau-pfarrer-aus-hauzenberg-will-nach-konflikt-priesteramt-niederlegen](https://www.spiegel.de/panorama/bistum-passau-pfarrer-aus-hauzenberg-will-nach-konflikt-priesteramt-niederlegen-a-abeef391-42e6-4114-990c-aa91922ad31e#ref=rss)
-### passau
-
-* [https://www.spiegel.de/panorama/bistum-passau-pfarrer-aus-hauzenberg-will-nach-konflikt-priesteramt-niederlegen](https://www.spiegel.de/panorama/bistum-passau-pfarrer-aus-hauzenberg-will-nach-konflikt-priesteramt-niederlegen-a-abeef391-42e6-4114-990c-aa91922ad31e#ref=rss)
-### pfarrer
-
-* [https://www.spiegel.de/panorama/bistum-passau-pfarrer-aus-hauzenberg-will-nach-konflikt-priesteramt-niederlegen](https://www.spiegel.de/panorama/bistum-passau-pfarrer-aus-hauzenberg-will-nach-konflikt-priesteramt-niederlegen-a-abeef391-42e6-4114-990c-aa91922ad31e#ref=rss)
-### hauzenberg
-
-* [https://www.spiegel.de/panorama/bistum-passau-pfarrer-aus-hauzenberg-will-nach-konflikt-priesteramt-niederlegen](https://www.spiegel.de/panorama/bistum-passau-pfarrer-aus-hauzenberg-will-nach-konflikt-priesteramt-niederlegen-a-abeef391-42e6-4114-990c-aa91922ad31e#ref=rss)
-### priesteramt
-
-* [https://www.spiegel.de/panorama/bistum-passau-pfarrer-aus-hauzenberg-will-nach-konflikt-priesteramt-niederlegen](https://www.spiegel.de/panorama/bistum-passau-pfarrer-aus-hauzenberg-will-nach-konflikt-priesteramt-niederlegen-a-abeef391-42e6-4114-990c-aa91922ad31e#ref=rss)
-### portland
-
-* [https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an](https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an-a-b7fd6e52-bfa0-4c18-8a5a-902b1ca93c43#ref=rss)
-### oregon
-
-* [https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an](https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an-a-b7fd6e52-bfa0-4c18-8a5a-902b1ca93c43#ref=rss)
-### antifa
-
-* [https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an](https://www.spiegel.de/ausland/trump-ordnet-einsatz-von-militaer-in-portland-an-a-b7fd6e52-bfa0-4c18-8a5a-902b1ca93c43#ref=rss)
-* [https://www.spiegel.de/ausland/anti-donald-trump-proteste-in-los-angeles-der-widerstand-der-strasse](https://www.spiegel.de/ausland/anti-donald-trump-proteste-in-los-angeles-der-widerstand-der-strasse-a-d5471dbe-fd36-40c8-98af-13b724b9d992#ref=rss)
-### haftbefehl
-
-* [https://www.spiegel.de/ausland/syrien-justiz-erlaesst-haftbefehl-gegen-ex-machthaber-baschar-al-assad](https://www.spiegel.de/ausland/syrien-justiz-erlaesst-haftbefehl-gegen-ex-machthaber-baschar-al-assad-a-281bfda3-578a-4cbd-8359-f3ea150f88c7#ref=rss)
-### baschar
-
-* [https://www.spiegel.de/ausland/syrien-justiz-erlaesst-haftbefehl-gegen-ex-machthaber-baschar-al-assad](https://www.spiegel.de/ausland/syrien-justiz-erlaesst-haftbefehl-gegen-ex-machthaber-baschar-al-assad-a-281bfda3-578a-4cbd-8359-f3ea150f88c7#ref=rss)
-### alassad
-
-* [https://www.spiegel.de/ausland/syrien-justiz-erlaesst-haftbefehl-gegen-ex-machthaber-baschar-al-assad](https://www.spiegel.de/ausland/syrien-justiz-erlaesst-haftbefehl-gegen-ex-machthaber-baschar-al-assad-a-281bfda3-578a-4cbd-8359-f3ea150f88c7#ref=rss)
-### lisa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lisa-monaco-das-ist-die-microsoft-managerin-die-donald-trump-loswerden-will](https://www.spiegel.de/wirtschaft/unternehmen/lisa-monaco-das-ist-die-microsoft-managerin-die-donald-trump-loswerden-will-a-cc9a1711-a176-4b00-93c8-f446222aeffe#ref=rss)
-### karriere
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lisa-monaco-das-ist-die-microsoft-managerin-die-donald-trump-loswerden-will](https://www.spiegel.de/wirtschaft/unternehmen/lisa-monaco-das-ist-die-microsoft-managerin-die-donald-trump-loswerden-will-a-cc9a1711-a176-4b00-93c8-f446222aeffe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/petra-koepping-hat-die-spd-politikerin-ihre-ddr-vergangenheit-schoengefaerbt](https://www.spiegel.de/politik/deutschland/petra-koepping-hat-die-spd-politikerin-ihre-ddr-vergangenheit-schoengefaerbt-a-c6714189-d946-401e-a6b9-8e96e7542684#ref=rss)
-### los
-
-* [https://www.spiegel.de/ausland/anti-donald-trump-proteste-in-los-angeles-der-widerstand-der-strasse](https://www.spiegel.de/ausland/anti-donald-trump-proteste-in-los-angeles-der-widerstand-der-strasse-a-d5471dbe-fd36-40c8-98af-13b724b9d992#ref=rss)
-### angeles
-
-* [https://www.spiegel.de/ausland/anti-donald-trump-proteste-in-los-angeles-der-widerstand-der-strasse](https://www.spiegel.de/ausland/anti-donald-trump-proteste-in-los-angeles-der-widerstand-der-strasse-a-d5471dbe-fd36-40c8-98af-13b724b9d992#ref=rss)
-### moldau
-
-* [https://www.spiegel.de/ausland/moldau-weitere-prorussische-partei-von-parlamentswahl-ausgeschlossen](https://www.spiegel.de/ausland/moldau-weitere-prorussische-partei-von-parlamentswahl-ausgeschlossen-a-51c4fc45-0012-4e36-ada5-1d4a0e867a06#ref=rss)
-### petra
-
-* [https://www.spiegel.de/politik/deutschland/petra-koepping-hat-die-spd-politikerin-ihre-ddr-vergangenheit-schoengefaerbt](https://www.spiegel.de/politik/deutschland/petra-koepping-hat-die-spd-politikerin-ihre-ddr-vergangenheit-schoengefaerbt-a-c6714189-d946-401e-a6b9-8e96e7542684#ref=rss)
-### köpping
-
-* [https://www.spiegel.de/politik/deutschland/petra-koepping-hat-die-spd-politikerin-ihre-ddr-vergangenheit-schoengefaerbt](https://www.spiegel.de/politik/deutschland/petra-koepping-hat-die-spd-politikerin-ihre-ddr-vergangenheit-schoengefaerbt-a-c6714189-d946-401e-a6b9-8e96e7542684#ref=rss)
+* [https://www.spiegel.de/partnerschaft/oktoberfest-in-muenchen-bekanntschaften-und-liebe-auf-der-wiesn](https://www.spiegel.de/partnerschaft/oktoberfest-in-muenchen-bekanntschaften-und-liebe-auf-der-wiesn-a-abdfb675-d5f5-402f-b572-2c90e89c80f3#ref=rss)
 
