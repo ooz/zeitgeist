@@ -4,319 +4,362 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### offenbar
+### donald
 
-* [https://www.spiegel.de/auto/kein-fahrer-kein-strafzettel-polizei-in-kalifornien-erwischt-fahrerloses-auto-bei-illegalem-wendemanoever](https://www.spiegel.de/auto/kein-fahrer-kein-strafzettel-polizei-in-kalifornien-erwischt-fahrerloses-auto-bei-illegalem-wendemanoever-a-e0fe6536-75cb-4d98-8172-64a62beca0be#ref=rss)
-* [https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen](https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen-a-8fc89de9-7b31-4529-b71d-f9f81bec4f82#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildungs-und-teilhabepaket-geld-fuer-sport-und-freizeit-erreicht-nur-bruchteil-armer-familien](https://www.spiegel.de/panorama/bildung/bildungs-und-teilhabepaket-geld-fuer-sport-und-freizeit-erreicht-nur-bruchteil-armer-familien-a-222e2620-a9e2-4ad7-a549-614b1463b4e7#ref=rss)
-* [https://www.spiegel.de/ausland/migrationspolitik-unter-donald-trump-usa-schieben-offenbar-dutzende-menschen-nach-iran-ab](https://www.spiegel.de/ausland/migrationspolitik-unter-donald-trump-usa-schieben-offenbar-dutzende-menschen-nach-iran-ab-a-7f5c2adc-7a85-4ab9-8653-fa48b3aa1b33#ref=rss)
-* [https://www.spiegel.de/netzwelt/afghanistan-taliban-schalten-offenbar-internet-vollstaendig-ab](https://www.spiegel.de/netzwelt/afghanistan-taliban-schalten-offenbar-internet-vollstaendig-ab-a-dfef7b81-4feb-4e15-8815-e8cc53a16153#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/migrationspolitik-unter-donald-trump-usa-schieben-offenbar-dutzende-menschen-nach-iran-ab](https://www.spiegel.de/ausland/migrationspolitik-unter-donald-trump-usa-schieben-offenbar-dutzende-menschen-nach-iran-ab-a-7f5c2adc-7a85-4ab9-8653-fa48b3aa1b33#ref=rss)
-* [https://www.spiegel.de/kultur/musik/cat-stevens-sagt-us-buchtour-wegen-visaproblemen-ab](https://www.spiegel.de/kultur/musik/cat-stevens-sagt-us-buchtour-wegen-visaproblemen-ab-a-6202463d-a7ac-4547-a5ee-9a813267013a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america](https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america-a-41e984f2-5ec0-4988-8aff-fd59a9f5fab3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/haushaltspolitik-in-den-usa-was-ein-shutdown-bedeuten-wuerde](https://www.spiegel.de/wirtschaft/haushaltspolitik-in-den-usa-was-ein-shutdown-bedeuten-wuerde-a-e0f1b7a1-cac0-46b6-83a6-624f48341460#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutsche-einheit-loehne-im-osten-weiterhin-deutlich-geringer-als-im-westen-17-prozent-weniger](https://www.spiegel.de/wirtschaft/soziales/deutsche-einheit-loehne-im-osten-weiterhin-deutlich-geringer-als-im-westen-17-prozent-weniger-a-5eb9051a-8030-4425-8302-511e95a3cf16#ref=rss)
-* [https://www.spiegel.de/ausland/migrationspolitik-unter-donald-trump-usa-schieben-offenbar-dutzende-menschen-nach-iran-ab](https://www.spiegel.de/ausland/migrationspolitik-unter-donald-trump-usa-schieben-offenbar-dutzende-menschen-nach-iran-ab-a-7f5c2adc-7a85-4ab9-8653-fa48b3aa1b33#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-french-open-setzen-weiterhin-auf-linienrichter-statt-hawk-eye](https://www.spiegel.de/sport/tennis/tennis-french-open-setzen-weiterhin-auf-linienrichter-statt-hawk-eye-a-61f24fc5-bfd3-40c9-9833-db47cbc1367e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion](https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion-a-19fcd441-609e-4b60-ac98-028c37e7fa6b#ref=rss)
-### pflegegrad
-
-* [https://www.spiegel.de/wirtschaft/soziales/pflegeversicherung-debatte-ueber-pflegegrad-1-der-rotstift-ist-ein-mieser-ratgeber-meinung](https://www.spiegel.de/wirtschaft/soziales/pflegeversicherung-debatte-ueber-pflegegrad-1-der-rotstift-ist-ein-mieser-ratgeber-meinung-a-d57ffef2-45d6-48cd-ac99-cb656ed6a33d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion](https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion-a-19fcd441-609e-4b60-ac98-028c37e7fa6b#ref=rss)
-### 1
-
-* [https://www.spiegel.de/wirtschaft/soziales/pflegeversicherung-debatte-ueber-pflegegrad-1-der-rotstift-ist-ein-mieser-ratgeber-meinung](https://www.spiegel.de/wirtschaft/soziales/pflegeversicherung-debatte-ueber-pflegegrad-1-der-rotstift-ist-ein-mieser-ratgeber-meinung-a-d57ffef2-45d6-48cd-ac99-cb656ed6a33d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion](https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion-a-19fcd441-609e-4b60-ac98-028c37e7fa6b#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/soziales/pflegeversicherung-debatte-ueber-pflegegrad-1-der-rotstift-ist-ein-mieser-ratgeber-meinung](https://www.spiegel.de/wirtschaft/soziales/pflegeversicherung-debatte-ueber-pflegegrad-1-der-rotstift-ist-ein-mieser-ratgeber-meinung-a-d57ffef2-45d6-48cd-ac99-cb656ed6a33d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen-a-f536959e-7f02-48d8-b41d-b0e8c5c74d76#ref=rss)
-* [https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america](https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america-a-41e984f2-5ec0-4988-8aff-fd59a9f5fab3#ref=rss)
-### lufthansa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-im-groessten-luftfahrtkonzern-europas-erwartet](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-im-groessten-luftfahrtkonzern-europas-erwartet-a-f882e648-41b4-49bf-8945-37a5ae73d915#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-piloten-stimmen-fuer-streik](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-piloten-stimmen-fuer-streik-a-1ab6e778-2f38-4a34-952e-08d097f4486f#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/panorama/justiz/nord-stream-verdaechtiger-saboteur-der-ostsee-pipeline-in-polen-festgenommen](https://www.spiegel.de/panorama/justiz/nord-stream-verdaechtiger-saboteur-der-ostsee-pipeline-in-polen-festgenommen-a-97f5df77-74df-46e5-9ee3-fdcc7fdfe829#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextreme-in-berlin-festnahme-bei-razzia-in-und-um-berlin](https://www.spiegel.de/panorama/justiz/rechtsextreme-in-berlin-festnahme-bei-razzia-in-und-um-berlin-a-e91aa530-40af-493a-a33b-b332e00221ea#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/justiz/nord-stream-verdaechtiger-saboteur-der-ostsee-pipeline-in-polen-festgenommen](https://www.spiegel.de/panorama/justiz/nord-stream-verdaechtiger-saboteur-der-ostsee-pipeline-in-polen-festgenommen-a-97f5df77-74df-46e5-9ee3-fdcc7fdfe829#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/deutsche-einheit-loehne-im-osten-weiterhin-deutlich-geringer-als-im-westen-17-prozent-weniger](https://www.spiegel.de/wirtschaft/soziales/deutsche-einheit-loehne-im-osten-weiterhin-deutlich-geringer-als-im-westen-17-prozent-weniger-a-5eb9051a-8030-4425-8302-511e95a3cf16#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-in-peking-eva-lys-erstmals-im-viertelfinale-und-nun-gegen-coco-gauff](https://www.spiegel.de/sport/tennis/tennis-in-peking-eva-lys-erstmals-im-viertelfinale-und-nun-gegen-coco-gauff-a-c75ceac9-35af-493e-819d-59fed4b08c82#ref=rss)
-### rechtsextreme
-
-* [https://www.spiegel.de/ausland/gazakrieg-israelischer-minister-bezalel-smotrich-nennt-trumps-friedensplan-fehlschlag](https://www.spiegel.de/ausland/gazakrieg-israelischer-minister-bezalel-smotrich-nennt-trumps-friedensplan-fehlschlag-a-10ea7175-5d4b-46fb-978a-ed88e0b3b3d2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextreme-in-berlin-festnahme-bei-razzia-in-und-um-berlin](https://www.spiegel.de/panorama/justiz/rechtsextreme-in-berlin-festnahme-bei-razzia-in-und-um-berlin-a-e91aa530-40af-493a-a33b-b332e00221ea#ref=rss)
-### piloten
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-im-groessten-luftfahrtkonzern-europas-erwartet](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-im-groessten-luftfahrtkonzern-europas-erwartet-a-f882e648-41b4-49bf-8945-37a5ae73d915#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-piloten-stimmen-fuer-streik](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-piloten-stimmen-fuer-streik-a-1ab6e778-2f38-4a34-952e-08d097f4486f#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/rechtsextreme-in-berlin-festnahme-bei-razzia-in-und-um-berlin](https://www.spiegel.de/panorama/justiz/rechtsextreme-in-berlin-festnahme-bei-razzia-in-und-um-berlin-a-e91aa530-40af-493a-a33b-b332e00221ea#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-das-verlegte-kaenguru](https://www.spiegel.de/panorama/gesellschaft/berlin-das-verlegte-kaenguru-a-d02c6d77-8339-461e-b572-86e3a1b9b802#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen](https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen-a-8fc89de9-7b31-4529-b71d-f9f81bec4f82#ref=rss)
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion](https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion-a-19fcd441-609e-4b60-ac98-028c37e7fa6b#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/politik/deutschland/koalitionsklausur-kanzler-merz-vor-dem-treffen-livestream-aus-berlin](https://www.spiegel.de/politik/deutschland/koalitionsklausur-kanzler-merz-vor-dem-treffen-livestream-aus-berlin-a-3ef90b6b-9483-4ee9-88f8-ff438db0d4cf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion](https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion-a-19fcd441-609e-4b60-ac98-028c37e7fa6b#ref=rss)
-### verdächtiger
-
-* [https://www.spiegel.de/panorama/justiz/nord-stream-verdaechtiger-saboteur-der-ostsee-pipeline-in-polen-festgenommen](https://www.spiegel.de/panorama/justiz/nord-stream-verdaechtiger-saboteur-der-ostsee-pipeline-in-polen-festgenommen-a-97f5df77-74df-46e5-9ee3-fdcc7fdfe829#ref=rss)
-### polen
-
-* [https://www.spiegel.de/panorama/justiz/nord-stream-verdaechtiger-saboteur-der-ostsee-pipeline-in-polen-festgenommen](https://www.spiegel.de/panorama/justiz/nord-stream-verdaechtiger-saboteur-der-ostsee-pipeline-in-polen-festgenommen-a-97f5df77-74df-46e5-9ee3-fdcc7fdfe829#ref=rss)
-### ulrike
-
-* [https://www.spiegel.de/panorama/bildung/ulrike-guerot-politologin-verliert-im-kuendigungsstreit-vor-dem-landesarbeitsgericht-koeln](https://www.spiegel.de/panorama/bildung/ulrike-guerot-politologin-verliert-im-kuendigungsstreit-vor-dem-landesarbeitsgericht-koeln-a-1708ec9f-8715-4281-83a2-248de592c813#ref=rss)
-### guérot
-
-* [https://www.spiegel.de/panorama/bildung/ulrike-guerot-politologin-verliert-im-kuendigungsstreit-vor-dem-landesarbeitsgericht-koeln](https://www.spiegel.de/panorama/bildung/ulrike-guerot-politologin-verliert-im-kuendigungsstreit-vor-dem-landesarbeitsgericht-koeln-a-1708ec9f-8715-4281-83a2-248de592c813#ref=rss)
-### landesarbeitsgericht
-
-* [https://www.spiegel.de/panorama/bildung/ulrike-guerot-politologin-verliert-im-kuendigungsstreit-vor-dem-landesarbeitsgericht-koeln](https://www.spiegel.de/panorama/bildung/ulrike-guerot-politologin-verliert-im-kuendigungsstreit-vor-dem-landesarbeitsgericht-koeln-a-1708ec9f-8715-4281-83a2-248de592c813#ref=rss)
-### hoch
-
-* [https://www.spiegel.de/panorama/bildung/ulrike-guerot-politologin-verliert-im-kuendigungsstreit-vor-dem-landesarbeitsgericht-koeln](https://www.spiegel.de/panorama/bildung/ulrike-guerot-politologin-verliert-im-kuendigungsstreit-vor-dem-landesarbeitsgericht-koeln-a-1708ec9f-8715-4281-83a2-248de592c813#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen-a-f536959e-7f02-48d8-b41d-b0e8c5c74d76#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/auto/kein-fahrer-kein-strafzettel-polizei-in-kalifornien-erwischt-fahrerloses-auto-bei-illegalem-wendemanoever](https://www.spiegel.de/auto/kein-fahrer-kein-strafzettel-polizei-in-kalifornien-erwischt-fahrerloses-auto-bei-illegalem-wendemanoever-a-e0fe6536-75cb-4d98-8172-64a62beca0be#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schrobenhausen-autofahrer-erfasst-zwoelfjaehrigen-auf-fahrrad-und-fluechtet](https://www.spiegel.de/panorama/justiz/schrobenhausen-autofahrer-erfasst-zwoelfjaehrigen-auf-fahrrad-und-fluechtet-a-91e97ecc-6926-4d22-ac03-da87c90f634e#ref=rss)
-### kalifornien
-
-* [https://www.spiegel.de/auto/kein-fahrer-kein-strafzettel-polizei-in-kalifornien-erwischt-fahrerloses-auto-bei-illegalem-wendemanoever](https://www.spiegel.de/auto/kein-fahrer-kein-strafzettel-polizei-in-kalifornien-erwischt-fahrerloses-auto-bei-illegalem-wendemanoever-a-e0fe6536-75cb-4d98-8172-64a62beca0be#ref=rss)
-### fahrerloses
-
-* [https://www.spiegel.de/auto/kein-fahrer-kein-strafzettel-polizei-in-kalifornien-erwischt-fahrerloses-auto-bei-illegalem-wendemanoever](https://www.spiegel.de/auto/kein-fahrer-kein-strafzettel-polizei-in-kalifornien-erwischt-fahrerloses-auto-bei-illegalem-wendemanoever-a-e0fe6536-75cb-4d98-8172-64a62beca0be#ref=rss)
-### auto
-
-* [https://www.spiegel.de/auto/kein-fahrer-kein-strafzettel-polizei-in-kalifornien-erwischt-fahrerloses-auto-bei-illegalem-wendemanoever](https://www.spiegel.de/auto/kein-fahrer-kein-strafzettel-polizei-in-kalifornien-erwischt-fahrerloses-auto-bei-illegalem-wendemanoever-a-e0fe6536-75cb-4d98-8172-64a62beca0be#ref=rss)
-### bezalel
-
-* [https://www.spiegel.de/ausland/gazakrieg-israelischer-minister-bezalel-smotrich-nennt-trumps-friedensplan-fehlschlag](https://www.spiegel.de/ausland/gazakrieg-israelischer-minister-bezalel-smotrich-nennt-trumps-friedensplan-fehlschlag-a-10ea7175-5d4b-46fb-978a-ed88e0b3b3d2#ref=rss)
-### smotrich
-
-* [https://www.spiegel.de/ausland/gazakrieg-israelischer-minister-bezalel-smotrich-nennt-trumps-friedensplan-fehlschlag](https://www.spiegel.de/ausland/gazakrieg-israelischer-minister-bezalel-smotrich-nennt-trumps-friedensplan-fehlschlag-a-10ea7175-5d4b-46fb-978a-ed88e0b3b3d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-pharmakonzern-pfizer-senkt-auf-draengen-der-us-regierung-die-preise](https://www.spiegel.de/wirtschaft/usa-pharmakonzern-pfizer-senkt-auf-draengen-der-us-regierung-die-preise-a-391c65c0-bb67-4ce7-9e65-6c75b82be093#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-unterstuetzt-christliche-extremisten-wenn-bibelfanatiker-politik-machen-podcast](https://www.spiegel.de/ausland/donald-trump-unterstuetzt-christliche-extremisten-wenn-bibelfanatiker-politik-machen-podcast-a-0c6aab47-f59c-44e3-86c8-5177df963946#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-setzt-hamas-frist-fuer-zustimmung-zu-gaza-friedensplan](https://www.spiegel.de/ausland/donald-trump-setzt-hamas-frist-fuer-zustimmung-zu-gaza-friedensplan-a-9ec295bb-f637-488b-9f04-72c8d45e7e48#ref=rss)
+* [https://www.spiegel.de/ausland/reportage-aus-einer-zerstoerten-stadt](https://www.spiegel.de/ausland/reportage-aus-einer-zerstoerten-stadt-a-76023890-6baf-4118-8d52-59f808baece9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gaza-friedensplan-deutschland-koennte-finanzielle-und-personelle-unterstuetzung-anbieten](https://www.spiegel.de/politik/deutschland/gaza-friedensplan-deutschland-koennte-finanzielle-und-personelle-unterstuetzung-anbieten-a-ed3f74c6-0ab4-48c3-b9cc-49f1390d8967#ref=rss)
+* [https://www.spiegel.de/sport/ryder-cup-sie-singen-guckst-du-donald-trump-und-der-praesident-antwortet](https://www.spiegel.de/sport/ryder-cup-sie-singen-guckst-du-donald-trump-und-der-praesident-antwortet-a-b259ab5b-1f86-41c7-94b0-175a30cb947c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder](https://www.spiegel.de/wirtschaft/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder-a-bfc0d92d-7324-4cce-948a-2e7ed568d336#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende](https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende-a-1dc1bb79-3363-45ea-a9b3-a5d82807b899#ref=rss)
+* [https://www.spiegel.de/kultur/tv/scrubs-sarah-chalke-zach-braff-und-donald-faison-fuer-dreharbeiten-wiedervereint](https://www.spiegel.de/kultur/tv/scrubs-sarah-chalke-zach-braff-und-donald-faison-fuer-dreharbeiten-wiedervereint-a-3cc03b56-9531-4498-9a7a-2ada54a88575#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-livestream-nach-treffen-mit-spitzengeneraelen](https://www.spiegel.de/ausland/donald-trump-livestream-nach-treffen-mit-spitzengeneraelen-a-2b1ca674-7ad2-4931-9972-0ed459914d89#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/gazakrieg-israelischer-minister-bezalel-smotrich-nennt-trumps-friedensplan-fehlschlag](https://www.spiegel.de/ausland/gazakrieg-israelischer-minister-bezalel-smotrich-nennt-trumps-friedensplan-fehlschlag-a-10ea7175-5d4b-46fb-978a-ed88e0b3b3d2#ref=rss)
-* [https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america](https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america-a-41e984f2-5ec0-4988-8aff-fd59a9f5fab3#ref=rss)
-### stößt
+* [https://www.spiegel.de/wirtschaft/usa-pharmakonzern-pfizer-senkt-auf-draengen-der-us-regierung-die-preise](https://www.spiegel.de/wirtschaft/usa-pharmakonzern-pfizer-senkt-auf-draengen-der-us-regierung-die-preise-a-391c65c0-bb67-4ce7-9e65-6c75b82be093#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-unterstuetzt-christliche-extremisten-wenn-bibelfanatiker-politik-machen-podcast](https://www.spiegel.de/ausland/donald-trump-unterstuetzt-christliche-extremisten-wenn-bibelfanatiker-politik-machen-podcast-a-0c6aab47-f59c-44e3-86c8-5177df963946#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-setzt-hamas-frist-fuer-zustimmung-zu-gaza-friedensplan](https://www.spiegel.de/ausland/donald-trump-setzt-hamas-frist-fuer-zustimmung-zu-gaza-friedensplan-a-9ec295bb-f637-488b-9f04-72c8d45e7e48#ref=rss)
+* [https://www.spiegel.de/ausland/reportage-aus-einer-zerstoerten-stadt](https://www.spiegel.de/ausland/reportage-aus-einer-zerstoerten-stadt-a-76023890-6baf-4118-8d52-59f808baece9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gaza-friedensplan-deutschland-koennte-finanzielle-und-personelle-unterstuetzung-anbieten](https://www.spiegel.de/politik/deutschland/gaza-friedensplan-deutschland-koennte-finanzielle-und-personelle-unterstuetzung-anbieten-a-ed3f74c6-0ab4-48c3-b9cc-49f1390d8967#ref=rss)
+* [https://www.spiegel.de/sport/ryder-cup-sie-singen-guckst-du-donald-trump-und-der-praesident-antwortet](https://www.spiegel.de/sport/ryder-cup-sie-singen-guckst-du-donald-trump-und-der-praesident-antwortet-a-b259ab5b-1f86-41c7-94b0-175a30cb947c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder](https://www.spiegel.de/wirtschaft/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder-a-bfc0d92d-7324-4cce-948a-2e7ed568d336#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende](https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende-a-1dc1bb79-3363-45ea-a9b3-a5d82807b899#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-livestream-nach-treffen-mit-spitzengeneraelen](https://www.spiegel.de/ausland/donald-trump-livestream-nach-treffen-mit-spitzengeneraelen-a-2b1ca674-7ad2-4931-9972-0ed459914d89#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/ausland/gazakrieg-israelischer-minister-bezalel-smotrich-nennt-trumps-friedensplan-fehlschlag](https://www.spiegel.de/ausland/gazakrieg-israelischer-minister-bezalel-smotrich-nennt-trumps-friedensplan-fehlschlag-a-10ea7175-5d4b-46fb-978a-ed88e0b3b3d2#ref=rss)
-* [https://www.spiegel.de/panorama/ahaus-zug-stoesst-mit-krankenwagen-zusammen-patientin-stirbt](https://www.spiegel.de/panorama/ahaus-zug-stoesst-mit-krankenwagen-zusammen-patientin-stirbt-a-73ac874f-a19f-48dc-bcec-2dc1f94b7940#ref=rss)
-### pflegeversicherung
+* [https://www.spiegel.de/ausland/donald-trump-setzt-hamas-frist-fuer-zustimmung-zu-gaza-friedensplan](https://www.spiegel.de/ausland/donald-trump-setzt-hamas-frist-fuer-zustimmung-zu-gaza-friedensplan-a-9ec295bb-f637-488b-9f04-72c8d45e7e48#ref=rss)
+* [https://www.spiegel.de/ausland/reportage-aus-einer-zerstoerten-stadt](https://www.spiegel.de/ausland/reportage-aus-einer-zerstoerten-stadt-a-76023890-6baf-4118-8d52-59f808baece9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gaza-friedensplan-deutschland-koennte-finanzielle-und-personelle-unterstuetzung-anbieten](https://www.spiegel.de/politik/deutschland/gaza-friedensplan-deutschland-koennte-finanzielle-und-personelle-unterstuetzung-anbieten-a-ed3f74c6-0ab4-48c3-b9cc-49f1390d8967#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder](https://www.spiegel.de/wirtschaft/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder-a-bfc0d92d-7324-4cce-948a-2e7ed568d336#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende](https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende-a-1dc1bb79-3363-45ea-a9b3-a5d82807b899#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-livestream-nach-treffen-mit-spitzengeneraelen](https://www.spiegel.de/ausland/donald-trump-livestream-nach-treffen-mit-spitzengeneraelen-a-2b1ca674-7ad2-4931-9972-0ed459914d89#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/soziales/pflegeversicherung-debatte-ueber-pflegegrad-1-der-rotstift-ist-ein-mieser-ratgeber-meinung](https://www.spiegel.de/wirtschaft/soziales/pflegeversicherung-debatte-ueber-pflegegrad-1-der-rotstift-ist-ein-mieser-ratgeber-meinung-a-d57ffef2-45d6-48cd-ac99-cb656ed6a33d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion](https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion-a-19fcd441-609e-4b60-ac98-028c37e7fa6b#ref=rss)
-### statt
+* [https://www.spiegel.de/wirtschaft/usa-pharmakonzern-pfizer-senkt-auf-draengen-der-us-regierung-die-preise](https://www.spiegel.de/wirtschaft/usa-pharmakonzern-pfizer-senkt-auf-draengen-der-us-regierung-die-preise-a-391c65c0-bb67-4ce7-9e65-6c75b82be093#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-unterstuetzt-christliche-extremisten-wenn-bibelfanatiker-politik-machen-podcast](https://www.spiegel.de/ausland/donald-trump-unterstuetzt-christliche-extremisten-wenn-bibelfanatiker-politik-machen-podcast-a-0c6aab47-f59c-44e3-86c8-5177df963946#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende](https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende-a-1dc1bb79-3363-45ea-a9b3-a5d82807b899#ref=rss)
+* [https://www.spiegel.de/kultur/kino/die-simpsons-bekommen-einen-neuen-kinofilm](https://www.spiegel.de/kultur/kino/die-simpsons-bekommen-einen-neuen-kinofilm-a-5b8221f2-1928-4747-bbe7-7fa37fb9001a#ref=rss)
+### gazafriedensplan
 
-* [https://www.spiegel.de/wirtschaft/soziales/pflegeversicherung-debatte-ueber-pflegegrad-1-der-rotstift-ist-ein-mieser-ratgeber-meinung](https://www.spiegel.de/wirtschaft/soziales/pflegeversicherung-debatte-ueber-pflegegrad-1-der-rotstift-ist-ein-mieser-ratgeber-meinung-a-d57ffef2-45d6-48cd-ac99-cb656ed6a33d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-french-open-setzen-weiterhin-auf-linienrichter-statt-hawk-eye](https://www.spiegel.de/sport/tennis/tennis-french-open-setzen-weiterhin-auf-linienrichter-statt-hawk-eye-a-61f24fc5-bfd3-40c9-9833-db47cbc1367e#ref=rss)
-### erklärung
+* [https://www.spiegel.de/ausland/donald-trump-setzt-hamas-frist-fuer-zustimmung-zu-gaza-friedensplan](https://www.spiegel.de/ausland/donald-trump-setzt-hamas-frist-fuer-zustimmung-zu-gaza-friedensplan-a-9ec295bb-f637-488b-9f04-72c8d45e7e48#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gaza-friedensplan-deutschland-koennte-finanzielle-und-personelle-unterstuetzung-anbieten](https://www.spiegel.de/politik/deutschland/gaza-friedensplan-deutschland-koennte-finanzielle-und-personelle-unterstuetzung-anbieten-a-ed3f74c6-0ab4-48c3-b9cc-49f1390d8967#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streikdrohung-bei-der-lufthansa-tagung-bundeskabinett-gaza-friedensplan](https://www.spiegel.de/politik/deutschland/news-des-tages-streikdrohung-bei-der-lufthansa-tagung-bundeskabinett-gaza-friedensplan-a-8ad218ed-ad87-4c40-884b-dcea844dd15b#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/wissenschaft/natur/irrlichter-forschende-der-standford-university-finden-erklaerung-fuer-das-phaenomen](https://www.spiegel.de/wissenschaft/natur/irrlichter-forschende-der-standford-university-finden-erklaerung-fuer-das-phaenomen-a-79b17c83-48e1-4cf6-bd66-87bd8b52237a#ref=rss)
-### horst
+* [https://www.spiegel.de/kultur/literatur/michel-friedman-ausgeladen-so-war-die-pen-berlin-kundgebung-in-kluetz](https://www.spiegel.de/kultur/literatur/michel-friedman-ausgeladen-so-war-die-pen-berlin-kundgebung-in-kluetz-a-9cf8c59f-667b-4f70-8149-23819f5b0081#ref=rss)
+* [https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius](https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius-a-be2f0123-e5ce-4f57-bb71-57860f2baa46#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-bekommt-eine-helmut-kohl-allee-symbol-der-einheit-nach-35-jahren](https://www.spiegel.de/politik/deutschland/berlin-bekommt-eine-helmut-kohl-allee-symbol-der-einheit-nach-35-jahren-a-8c6406d6-c00f-402e-8b70-74c8a5d0a062#ref=rss)
+### hegseth
 
-* [https://www.spiegel.de/sport/wintersport/horst-queck-ehemaliger-vierschanzentourneesieger-der-ddr-ist-tot](https://www.spiegel.de/sport/wintersport/horst-queck-ehemaliger-vierschanzentourneesieger-der-ddr-ist-tot-a-87c5cc35-aa24-4514-9cb7-25f0f21875db#ref=rss)
-### queck
-
-* [https://www.spiegel.de/sport/wintersport/horst-queck-ehemaliger-vierschanzentourneesieger-der-ddr-ist-tot](https://www.spiegel.de/sport/wintersport/horst-queck-ehemaliger-vierschanzentourneesieger-der-ddr-ist-tot-a-87c5cc35-aa24-4514-9cb7-25f0f21875db#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/sport/wintersport/horst-queck-ehemaliger-vierschanzentourneesieger-der-ddr-ist-tot](https://www.spiegel.de/sport/wintersport/horst-queck-ehemaliger-vierschanzentourneesieger-der-ddr-ist-tot-a-87c5cc35-aa24-4514-9cb7-25f0f21875db#ref=rss)
-* [https://www.spiegel.de/ausland/kash-patel-fbi-chef-schenkt-neuseelaendischen-beamten-illegale-waffen-aus-3d-drucker](https://www.spiegel.de/ausland/kash-patel-fbi-chef-schenkt-neuseelaendischen-beamten-illegale-waffen-aus-3d-drucker-a-5053ca71-7127-4b48-ad2d-74fc8b4af42b#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/wintersport/horst-queck-ehemaliger-vierschanzentourneesieger-der-ddr-ist-tot](https://www.spiegel.de/sport/wintersport/horst-queck-ehemaliger-vierschanzentourneesieger-der-ddr-ist-tot-a-87c5cc35-aa24-4514-9cb7-25f0f21875db#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/maximilian-krah-ex-mitarbeiter-von-afd-politiker-wegen-spionage-verurteilt](https://www.spiegel.de/panorama/justiz/maximilian-krah-ex-mitarbeiter-von-afd-politiker-wegen-spionage-verurteilt-a-b9a96e7b-7324-4be1-8171-a8c05c72de48#ref=rss)
-### reiche
-
-* [https://www.spiegel.de/wirtschaft/soziales/gegensatz-zu-katherina-reiche-experten-warnen-vor-fokus-auf-gaskraftwerke](https://www.spiegel.de/wirtschaft/soziales/gegensatz-zu-katherina-reiche-experten-warnen-vor-fokus-auf-gaskraftwerke-a-b599b7b7-6445-46de-b902-d508aba9544f#ref=rss)
-### fokus
-
-* [https://www.spiegel.de/wirtschaft/soziales/gegensatz-zu-katherina-reiche-experten-warnen-vor-fokus-auf-gaskraftwerke](https://www.spiegel.de/wirtschaft/soziales/gegensatz-zu-katherina-reiche-experten-warnen-vor-fokus-auf-gaskraftwerke-a-b599b7b7-6445-46de-b902-d508aba9544f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsklausur-kanzler-merz-vor-dem-treffen-livestream-aus-berlin](https://www.spiegel.de/politik/deutschland/koalitionsklausur-kanzler-merz-vor-dem-treffen-livestream-aus-berlin-a-3ef90b6b-9483-4ee9-88f8-ff438db0d4cf#ref=rss)
-### gaskraftwerke
-
-* [https://www.spiegel.de/wirtschaft/soziales/gegensatz-zu-katherina-reiche-experten-warnen-vor-fokus-auf-gaskraftwerke](https://www.spiegel.de/wirtschaft/soziales/gegensatz-zu-katherina-reiche-experten-warnen-vor-fokus-auf-gaskraftwerke-a-b599b7b7-6445-46de-b902-d508aba9544f#ref=rss)
-### hunderte
-
-* [https://www.spiegel.de/wirtschaft/soziales/gegensatz-zu-katherina-reiche-experten-warnen-vor-fokus-auf-gaskraftwerke](https://www.spiegel.de/wirtschaft/soziales/gegensatz-zu-katherina-reiche-experten-warnen-vor-fokus-auf-gaskraftwerke-a-b599b7b7-6445-46de-b902-d508aba9544f#ref=rss)
-* [https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america](https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america-a-41e984f2-5ec0-4988-8aff-fd59a9f5fab3#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/soziales/gegensatz-zu-katherina-reiche-experten-warnen-vor-fokus-auf-gaskraftwerke](https://www.spiegel.de/wirtschaft/soziales/gegensatz-zu-katherina-reiche-experten-warnen-vor-fokus-auf-gaskraftwerke-a-b599b7b7-6445-46de-b902-d508aba9544f#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildungs-und-teilhabepaket-geld-fuer-sport-und-freizeit-erreicht-nur-bruchteil-armer-familien](https://www.spiegel.de/panorama/bildung/bildungs-und-teilhabepaket-geld-fuer-sport-und-freizeit-erreicht-nur-bruchteil-armer-familien-a-222e2620-a9e2-4ad7-a549-614b1463b4e7#ref=rss)
-### volkswagen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-bgh-erklaert-vergleichsbeschluss-in-dieselaffaere-fuer-nichtig](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-bgh-erklaert-vergleichsbeschluss-in-dieselaffaere-fuer-nichtig-a-d8800fca-9af0-4a5b-bd12-71bcf5a1c360#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-bgh-erklaert-vergleichsbeschluss-in-dieselaffaere-fuer-nichtig](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-bgh-erklaert-vergleichsbeschluss-in-dieselaffaere-fuer-nichtig-a-d8800fca-9af0-4a5b-bd12-71bcf5a1c360#ref=rss)
-### nichtig
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-bgh-erklaert-vergleichsbeschluss-in-dieselaffaere-fuer-nichtig](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-bgh-erklaert-vergleichsbeschluss-in-dieselaffaere-fuer-nichtig-a-d8800fca-9af0-4a5b-bd12-71bcf5a1c360#ref=rss)
-### los
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-bgh-erklaert-vergleichsbeschluss-in-dieselaffaere-fuer-nichtig](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-bgh-erklaert-vergleichsbeschluss-in-dieselaffaere-fuer-nichtig-a-d8800fca-9af0-4a5b-bd12-71bcf5a1c360#ref=rss)
-* [https://www.spiegel.de/ausland/kash-patel-fbi-chef-schenkt-neuseelaendischen-beamten-illegale-waffen-aus-3d-drucker](https://www.spiegel.de/ausland/kash-patel-fbi-chef-schenkt-neuseelaendischen-beamten-illegale-waffen-aus-3d-drucker-a-5053ca71-7127-4b48-ad2d-74fc8b4af42b#ref=rss)
-### betriebsrenten
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-piloten-stimmen-fuer-streik](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-piloten-stimmen-fuer-streik-a-1ab6e778-2f38-4a34-952e-08d097f4486f#ref=rss)
-### weiterhin
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutsche-einheit-loehne-im-osten-weiterhin-deutlich-geringer-als-im-westen-17-prozent-weniger](https://www.spiegel.de/wirtschaft/soziales/deutsche-einheit-loehne-im-osten-weiterhin-deutlich-geringer-als-im-westen-17-prozent-weniger-a-5eb9051a-8030-4425-8302-511e95a3cf16#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-french-open-setzen-weiterhin-auf-linienrichter-statt-hawk-eye](https://www.spiegel.de/sport/tennis/tennis-french-open-setzen-weiterhin-auf-linienrichter-statt-hawk-eye-a-61f24fc5-bfd3-40c9-9833-db47cbc1367e#ref=rss)
-### westen
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutsche-einheit-loehne-im-osten-weiterhin-deutlich-geringer-als-im-westen-17-prozent-weniger](https://www.spiegel.de/wirtschaft/soziales/deutsche-einheit-loehne-im-osten-weiterhin-deutlich-geringer-als-im-westen-17-prozent-weniger-a-5eb9051a-8030-4425-8302-511e95a3cf16#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutsche-einheit-loehne-im-osten-weiterhin-deutlich-geringer-als-im-westen-17-prozent-weniger](https://www.spiegel.de/wirtschaft/soziales/deutsche-einheit-loehne-im-osten-weiterhin-deutlich-geringer-als-im-westen-17-prozent-weniger-a-5eb9051a-8030-4425-8302-511e95a3cf16#ref=rss)
-### bundesländern
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutsche-einheit-loehne-im-osten-weiterhin-deutlich-geringer-als-im-westen-17-prozent-weniger](https://www.spiegel.de/wirtschaft/soziales/deutsche-einheit-loehne-im-osten-weiterhin-deutlich-geringer-als-im-westen-17-prozent-weniger-a-5eb9051a-8030-4425-8302-511e95a3cf16#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildungs-und-teilhabepaket-geld-fuer-sport-und-freizeit-erreicht-nur-bruchteil-armer-familien](https://www.spiegel.de/panorama/bildung/bildungs-und-teilhabepaket-geld-fuer-sport-und-freizeit-erreicht-nur-bruchteil-armer-familien-a-222e2620-a9e2-4ad7-a549-614b1463b4e7#ref=rss)
-### känguru
-
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-das-verlegte-kaenguru](https://www.spiegel.de/panorama/gesellschaft/berlin-das-verlegte-kaenguru-a-d02c6d77-8339-461e-b572-86e3a1b9b802#ref=rss)
-### paul
-
-* [https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen](https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen-a-8fc89de9-7b31-4529-b71d-f9f81bec4f82#ref=rss)
-### bettany
-
-* [https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen](https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen-a-8fc89de9-7b31-4529-b71d-f9f81bec4f82#ref=rss)
-### film
-
-* [https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen](https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen-a-8fc89de9-7b31-4529-b71d-f9f81bec4f82#ref=rss)
-### ritter
-
-* [https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen](https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen-a-8fc89de9-7b31-4529-b71d-f9f81bec4f82#ref=rss)
-### leidenschaft
-
-* [https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen](https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen-a-8fc89de9-7b31-4529-b71d-f9f81bec4f82#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen](https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen-a-8fc89de9-7b31-4529-b71d-f9f81bec4f82#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildungs-und-teilhabepaket-geld-fuer-sport-und-freizeit-erreicht-nur-bruchteil-armer-familien](https://www.spiegel.de/panorama/bildung/bildungs-und-teilhabepaket-geld-fuer-sport-und-freizeit-erreicht-nur-bruchteil-armer-familien-a-222e2620-a9e2-4ad7-a549-614b1463b4e7#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen](https://www.spiegel.de/kultur/kino/paul-bettany-vermisst-heath-ledger-film-ritter-aus-leidenschaft-nie-mehr-gesehen-a-8fc89de9-7b31-4529-b71d-f9f81bec4f82#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsklausur-kanzler-merz-vor-dem-treffen-livestream-aus-berlin](https://www.spiegel.de/politik/deutschland/koalitionsklausur-kanzler-merz-vor-dem-treffen-livestream-aus-berlin-a-3ef90b6b-9483-4ee9-88f8-ff438db0d4cf#ref=rss)
-### autofahrer
-
-* [https://www.spiegel.de/panorama/justiz/schrobenhausen-autofahrer-erfasst-zwoelfjaehrigen-auf-fahrrad-und-fluechtet](https://www.spiegel.de/panorama/justiz/schrobenhausen-autofahrer-erfasst-zwoelfjaehrigen-auf-fahrrad-und-fluechtet-a-91e97ecc-6926-4d22-ac03-da87c90f634e#ref=rss)
-### familien
-
-* [https://www.spiegel.de/panorama/bildung/bildungs-und-teilhabepaket-geld-fuer-sport-und-freizeit-erreicht-nur-bruchteil-armer-familien](https://www.spiegel.de/panorama/bildung/bildungs-und-teilhabepaket-geld-fuer-sport-und-freizeit-erreicht-nur-bruchteil-armer-familien-a-222e2620-a9e2-4ad7-a549-614b1463b4e7#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/bildung/bildungs-und-teilhabepaket-geld-fuer-sport-und-freizeit-erreicht-nur-bruchteil-armer-familien](https://www.spiegel.de/panorama/bildung/bildungs-und-teilhabepaket-geld-fuer-sport-und-freizeit-erreicht-nur-bruchteil-armer-familien-a-222e2620-a9e2-4ad7-a549-614b1463b4e7#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-in-peking-eva-lys-erstmals-im-viertelfinale-und-nun-gegen-coco-gauff](https://www.spiegel.de/sport/tennis/tennis-in-peking-eva-lys-erstmals-im-viertelfinale-und-nun-gegen-coco-gauff-a-c75ceac9-35af-493e-819d-59fed4b08c82#ref=rss)
-### tennis
-
-* [https://www.spiegel.de/sport/tennis/tennis-in-peking-eva-lys-erstmals-im-viertelfinale-und-nun-gegen-coco-gauff](https://www.spiegel.de/sport/tennis/tennis-in-peking-eva-lys-erstmals-im-viertelfinale-und-nun-gegen-coco-gauff-a-c75ceac9-35af-493e-819d-59fed4b08c82#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-french-open-setzen-weiterhin-auf-linienrichter-statt-hawk-eye](https://www.spiegel.de/sport/tennis/tennis-french-open-setzen-weiterhin-auf-linienrichter-statt-hawk-eye-a-61f24fc5-bfd3-40c9-9833-db47cbc1367e#ref=rss)
-### eva
-
-* [https://www.spiegel.de/sport/tennis/tennis-in-peking-eva-lys-erstmals-im-viertelfinale-und-nun-gegen-coco-gauff](https://www.spiegel.de/sport/tennis/tennis-in-peking-eva-lys-erstmals-im-viertelfinale-und-nun-gegen-coco-gauff-a-c75ceac9-35af-493e-819d-59fed4b08c82#ref=rss)
-### lys
-
-* [https://www.spiegel.de/sport/tennis/tennis-in-peking-eva-lys-erstmals-im-viertelfinale-und-nun-gegen-coco-gauff](https://www.spiegel.de/sport/tennis/tennis-in-peking-eva-lys-erstmals-im-viertelfinale-und-nun-gegen-coco-gauff-a-c75ceac9-35af-493e-819d-59fed4b08c82#ref=rss)
-### china
-
-* [https://www.spiegel.de/sport/tennis/tennis-in-peking-eva-lys-erstmals-im-viertelfinale-und-nun-gegen-coco-gauff](https://www.spiegel.de/sport/tennis/tennis-in-peking-eva-lys-erstmals-im-viertelfinale-und-nun-gegen-coco-gauff-a-c75ceac9-35af-493e-819d-59fed4b08c82#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/maximilian-krah-ex-mitarbeiter-von-afd-politiker-wegen-spionage-verurteilt](https://www.spiegel.de/panorama/justiz/maximilian-krah-ex-mitarbeiter-von-afd-politiker-wegen-spionage-verurteilt-a-b9a96e7b-7324-4be1-8171-a8c05c72de48#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/migrationspolitik-unter-donald-trump-usa-schieben-offenbar-dutzende-menschen-nach-iran-ab](https://www.spiegel.de/ausland/migrationspolitik-unter-donald-trump-usa-schieben-offenbar-dutzende-menschen-nach-iran-ab-a-7f5c2adc-7a85-4ab9-8653-fa48b3aa1b33#ref=rss)
-### monaten
-
-* [https://www.spiegel.de/ausland/migrationspolitik-unter-donald-trump-usa-schieben-offenbar-dutzende-menschen-nach-iran-ab](https://www.spiegel.de/ausland/migrationspolitik-unter-donald-trump-usa-schieben-offenbar-dutzende-menschen-nach-iran-ab-a-7f5c2adc-7a85-4ab9-8653-fa48b3aa1b33#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/maximilian-krah-ex-mitarbeiter-von-afd-politiker-wegen-spionage-verurteilt](https://www.spiegel.de/panorama/justiz/maximilian-krah-ex-mitarbeiter-von-afd-politiker-wegen-spionage-verurteilt-a-b9a96e7b-7324-4be1-8171-a8c05c72de48#ref=rss)
-### usregierung
-
-* [https://www.spiegel.de/ausland/migrationspolitik-unter-donald-trump-usa-schieben-offenbar-dutzende-menschen-nach-iran-ab](https://www.spiegel.de/ausland/migrationspolitik-unter-donald-trump-usa-schieben-offenbar-dutzende-menschen-nach-iran-ab-a-7f5c2adc-7a85-4ab9-8653-fa48b3aa1b33#ref=rss)
-* [https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america](https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america-a-41e984f2-5ec0-4988-8aff-fd59a9f5fab3#ref=rss)
-### cat
-
-* [https://www.spiegel.de/kultur/musik/cat-stevens-sagt-us-buchtour-wegen-visaproblemen-ab](https://www.spiegel.de/kultur/musik/cat-stevens-sagt-us-buchtour-wegen-visaproblemen-ab-a-6202463d-a7ac-4547-a5ee-9a813267013a#ref=rss)
-### stevens
-
-* [https://www.spiegel.de/kultur/musik/cat-stevens-sagt-us-buchtour-wegen-visaproblemen-ab](https://www.spiegel.de/kultur/musik/cat-stevens-sagt-us-buchtour-wegen-visaproblemen-ab-a-6202463d-a7ac-4547-a5ee-9a813267013a#ref=rss)
-### kash
-
-* [https://www.spiegel.de/ausland/kash-patel-fbi-chef-schenkt-neuseelaendischen-beamten-illegale-waffen-aus-3d-drucker](https://www.spiegel.de/ausland/kash-patel-fbi-chef-schenkt-neuseelaendischen-beamten-illegale-waffen-aus-3d-drucker-a-5053ca71-7127-4b48-ad2d-74fc8b4af42b#ref=rss)
-### patel
-
-* [https://www.spiegel.de/ausland/kash-patel-fbi-chef-schenkt-neuseelaendischen-beamten-illegale-waffen-aus-3d-drucker](https://www.spiegel.de/ausland/kash-patel-fbi-chef-schenkt-neuseelaendischen-beamten-illegale-waffen-aus-3d-drucker-a-5053ca71-7127-4b48-ad2d-74fc8b4af42b#ref=rss)
-### fbichef
-
-* [https://www.spiegel.de/ausland/kash-patel-fbi-chef-schenkt-neuseelaendischen-beamten-illegale-waffen-aus-3d-drucker](https://www.spiegel.de/ausland/kash-patel-fbi-chef-schenkt-neuseelaendischen-beamten-illegale-waffen-aus-3d-drucker-a-5053ca71-7127-4b48-ad2d-74fc8b4af42b#ref=rss)
-### maximilian
-
-* [https://www.spiegel.de/panorama/justiz/maximilian-krah-ex-mitarbeiter-von-afd-politiker-wegen-spionage-verurteilt](https://www.spiegel.de/panorama/justiz/maximilian-krah-ex-mitarbeiter-von-afd-politiker-wegen-spionage-verurteilt-a-b9a96e7b-7324-4be1-8171-a8c05c72de48#ref=rss)
-### krah
-
-* [https://www.spiegel.de/panorama/justiz/maximilian-krah-ex-mitarbeiter-von-afd-politiker-wegen-spionage-verurteilt](https://www.spiegel.de/panorama/justiz/maximilian-krah-ex-mitarbeiter-von-afd-politiker-wegen-spionage-verurteilt-a-b9a96e7b-7324-4be1-8171-a8c05c72de48#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/maximilian-krah-ex-mitarbeiter-von-afd-politiker-wegen-spionage-verurteilt](https://www.spiegel.de/panorama/justiz/maximilian-krah-ex-mitarbeiter-von-afd-politiker-wegen-spionage-verurteilt-a-b9a96e7b-7324-4be1-8171-a8c05c72de48#ref=rss)
-### afghanistan
-
-* [https://www.spiegel.de/netzwelt/afghanistan-taliban-schalten-offenbar-internet-vollstaendig-ab](https://www.spiegel.de/netzwelt/afghanistan-taliban-schalten-offenbar-internet-vollstaendig-ab-a-dfef7b81-4feb-4e15-8815-e8cc53a16153#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen-a-f536959e-7f02-48d8-b41d-b0e8c5c74d76#ref=rss)
-### arbeitslosen
-
-* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen-a-f536959e-7f02-48d8-b41d-b0e8c5c74d76#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen-a-f536959e-7f02-48d8-b41d-b0e8c5c74d76#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-zahl-der-arbeitslosen-sinkt-wieder-unter-drei-millionen-a-f536959e-7f02-48d8-b41d-b0e8c5c74d76#ref=rss)
-### voice
-
-* [https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america](https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america-a-41e984f2-5ec0-4988-8aff-fd59a9f5fab3#ref=rss)
-### of
-
-* [https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america](https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america-a-41e984f2-5ec0-4988-8aff-fd59a9f5fab3#ref=rss)
-### america
-
-* [https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america](https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america-a-41e984f2-5ec0-4988-8aff-fd59a9f5fab3#ref=rss)
-### streichen
-
-* [https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america](https://www.spiegel.de/ausland/usa-gericht-stoppt-entlassungen-bei-voice-of-america-a-41e984f2-5ec0-4988-8aff-fd59a9f5fab3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion](https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion-a-19fcd441-609e-4b60-ac98-028c37e7fa6b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende](https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende-a-1dc1bb79-3363-45ea-a9b3-a5d82807b899#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-livestream-nach-treffen-mit-spitzengeneraelen](https://www.spiegel.de/ausland/donald-trump-livestream-nach-treffen-mit-spitzengeneraelen-a-2b1ca674-7ad2-4931-9972-0ed459914d89#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/koalitionsklausur-kanzler-merz-vor-dem-treffen-livestream-aus-berlin](https://www.spiegel.de/politik/deutschland/koalitionsklausur-kanzler-merz-vor-dem-treffen-livestream-aus-berlin-a-3ef90b6b-9483-4ee9-88f8-ff438db0d4cf#ref=rss)
-### bedeuten
+* [https://www.spiegel.de/politik/spd-lars-klingbeil-ueber-ein-jahr-voller-krisen-und-emotionen](https://www.spiegel.de/politik/spd-lars-klingbeil-ueber-ein-jahr-voller-krisen-und-emotionen-a-22ae92a2-a0e1-400f-bdcd-ea6bb2b31ad9#ref=rss)
+* [https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius](https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius-a-be2f0123-e5ce-4f57-bb71-57860f2baa46#ref=rss)
+### setzt
 
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion](https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion-a-19fcd441-609e-4b60-ac98-028c37e7fa6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/haushaltspolitik-in-den-usa-was-ein-shutdown-bedeuten-wuerde](https://www.spiegel.de/wirtschaft/haushaltspolitik-in-den-usa-was-ein-shutdown-bedeuten-wuerde-a-e0f1b7a1-cac0-46b6-83a6-624f48341460#ref=rss)
-### würde
+* [https://www.spiegel.de/wirtschaft/aktivrente-als-klientelpolitik-die-rechnung-zahlen-die-jungen-kolumne](https://www.spiegel.de/wirtschaft/aktivrente-als-klientelpolitik-die-rechnung-zahlen-die-jungen-kolumne-a-a0d3326e-7e3d-4aaa-8e85-3db9ef525a36#ref=rss)
+* [https://www.spiegel.de/wirtschaft/e-mobilitaet-regierung-setzt-auf-heimisches-lithium-fuer-batterien](https://www.spiegel.de/wirtschaft/e-mobilitaet-regierung-setzt-auf-heimisches-lithium-fuer-batterien-a-705fab73-5104-45e6-a51c-9b29c89eb9fd#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-setzt-hamas-frist-fuer-zustimmung-zu-gaza-friedensplan](https://www.spiegel.de/ausland/donald-trump-setzt-hamas-frist-fuer-zustimmung-zu-gaza-friedensplan-a-9ec295bb-f637-488b-9f04-72c8d45e7e48#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion](https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion-a-19fcd441-609e-4b60-ac98-028c37e7fa6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/haushaltspolitik-in-den-usa-was-ein-shutdown-bedeuten-wuerde](https://www.spiegel.de/wirtschaft/haushaltspolitik-in-den-usa-was-ein-shutdown-bedeuten-wuerde-a-e0f1b7a1-cac0-46b6-83a6-624f48341460#ref=rss)
-### also
+* [https://www.spiegel.de/wirtschaft/aktivrente-als-klientelpolitik-die-rechnung-zahlen-die-jungen-kolumne](https://www.spiegel.de/wirtschaft/aktivrente-als-klientelpolitik-die-rechnung-zahlen-die-jungen-kolumne-a-a0d3326e-7e3d-4aaa-8e85-3db9ef525a36#ref=rss)
+* [https://www.spiegel.de/wirtschaft/e-mobilitaet-regierung-setzt-auf-heimisches-lithium-fuer-batterien](https://www.spiegel.de/wirtschaft/e-mobilitaet-regierung-setzt-auf-heimisches-lithium-fuer-batterien-a-705fab73-5104-45e6-a51c-9b29c89eb9fd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streikdrohung-bei-der-lufthansa-tagung-bundeskabinett-gaza-friedensplan](https://www.spiegel.de/politik/deutschland/news-des-tages-streikdrohung-bei-der-lufthansa-tagung-bundeskabinett-gaza-friedensplan-a-8ad218ed-ad87-4c40-884b-dcea844dd15b#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion](https://www.spiegel.de/wirtschaft/pflegeversicherung-leistungskuerzung-bei-pflegegrad-1-in-der-diskussion-a-19fcd441-609e-4b60-ac98-028c37e7fa6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/haushaltspolitik-in-den-usa-was-ein-shutdown-bedeuten-wuerde](https://www.spiegel.de/wirtschaft/haushaltspolitik-in-den-usa-was-ein-shutdown-bedeuten-wuerde-a-e0f1b7a1-cac0-46b6-83a6-624f48341460#ref=rss)
-### shutdown
+* [https://www.spiegel.de/ausland/kongo-ex-praesident-joseph-kabila-zum-tode-verurteilt](https://www.spiegel.de/ausland/kongo-ex-praesident-joseph-kabila-zum-tode-verurteilt-a-91f6b0ec-b1be-490a-b66a-eed4345265b2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-unterstuetzt-christliche-extremisten-wenn-bibelfanatiker-politik-machen-podcast](https://www.spiegel.de/ausland/donald-trump-unterstuetzt-christliche-extremisten-wenn-bibelfanatiker-politik-machen-podcast-a-0c6aab47-f59c-44e3-86c8-5177df963946#ref=rss)
+* [https://www.spiegel.de/sport/ryder-cup-sie-singen-guckst-du-donald-trump-und-der-praesident-antwortet](https://www.spiegel.de/sport/ryder-cup-sie-singen-guckst-du-donald-trump-und-der-praesident-antwortet-a-b259ab5b-1f86-41c7-94b0-175a30cb947c#ref=rss)
+### allem
 
-* [https://www.spiegel.de/wirtschaft/haushaltspolitik-in-den-usa-was-ein-shutdown-bedeuten-wuerde](https://www.spiegel.de/wirtschaft/haushaltspolitik-in-den-usa-was-ein-shutdown-bedeuten-wuerde-a-e0f1b7a1-cac0-46b6-83a6-624f48341460#ref=rss)
+* [https://www.spiegel.de/wirtschaft/e-mobilitaet-regierung-setzt-auf-heimisches-lithium-fuer-batterien](https://www.spiegel.de/wirtschaft/e-mobilitaet-regierung-setzt-auf-heimisches-lithium-fuer-batterien-a-705fab73-5104-45e6-a51c-9b29c89eb9fd#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/michel-friedman-ausgeladen-so-war-die-pen-berlin-kundgebung-in-kluetz](https://www.spiegel.de/kultur/literatur/michel-friedman-ausgeladen-so-war-die-pen-berlin-kundgebung-in-kluetz-a-9cf8c59f-667b-4f70-8149-23819f5b0081#ref=rss)
+* [https://www.spiegel.de/sport/ryder-cup-sie-singen-guckst-du-donald-trump-und-der-praesident-antwortet](https://www.spiegel.de/sport/ryder-cup-sie-singen-guckst-du-donald-trump-und-der-praesident-antwortet-a-b259ab5b-1f86-41c7-94b0-175a30cb947c#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/wirtschaft/service/ueberschuldungsreport-erkrankungen-bleiben-wichtigster-ueberschuldungsgrund](https://www.spiegel.de/wirtschaft/service/ueberschuldungsreport-erkrankungen-bleiben-wichtigster-ueberschuldungsgrund-a-8f908e65-a550-48f2-9f65-13e275ecb297#ref=rss)
+* [https://www.spiegel.de/panorama/ibiza-und-formentera-schwere-unwetter-in-spanien-treffen-balearen](https://www.spiegel.de/panorama/ibiza-und-formentera-schwere-unwetter-in-spanien-treffen-balearen-a-f70574f6-8293-4283-b436-14bf49e640b8#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/der-spiegel-legt-eigenen-literaturpreis-auf](https://www.spiegel.de/kultur/literatur/der-spiegel-legt-eigenen-literaturpreis-auf-a-6f303f20-10cf-498b-8f05-dc2d3ca51323#ref=rss)
+### bernd
+
+* [https://www.spiegel.de/kultur/marc-uwe-kling-ueber-elon-jeff-on-mars-mir-ist-klar-dass-dieser-comic-nicht-die-welt-rettet](https://www.spiegel.de/kultur/marc-uwe-kling-ueber-elon-jeff-on-mars-mir-ist-klar-dass-dieser-comic-nicht-die-welt-rettet-a-edaae1a7-63c9-46c7-824e-6e636ecf9613#ref=rss)
+* [https://www.spiegel.de/geschichte/ukraine-krieg-historiker-bernd-greiner-ueber-luftraumverletzungen-heute-und-im-kalten-krieg](https://www.spiegel.de/geschichte/ukraine-krieg-historiker-bernd-greiner-ueber-luftraumverletzungen-heute-und-im-kalten-krieg-a-a4dc72bb-3a4c-4140-b661-1d639afb75d9#ref=rss)
+### gut
+
+* [https://www.spiegel.de/ausland/keir-starmer-sagt-rechtspopulisten-bei-parteitag-den-kampf-an](https://www.spiegel.de/ausland/keir-starmer-sagt-rechtspopulisten-bei-parteitag-den-kampf-an-a-47c3b6fb-d63a-4abc-a292-47b417f4ccab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder](https://www.spiegel.de/wirtschaft/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder-a-bfc0d92d-7324-4cce-948a-2e7ed568d336#ref=rss)
+* [https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius](https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius-a-be2f0123-e5ce-4f57-bb71-57860f2baa46#ref=rss)
+### mainz
+
+* [https://www.spiegel.de/start/studieren-in-mainz-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-mainz-campus-wohnviertel-wg-zimmer-preise-kneipen-a-6db49342-cd47-4569-83cb-b7f9f9633c0a#ref=rss)
+### pete
+
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende](https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende-a-1dc1bb79-3363-45ea-a9b3-a5d82807b899#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-livestream-nach-treffen-mit-spitzengeneraelen](https://www.spiegel.de/ausland/donald-trump-livestream-nach-treffen-mit-spitzengeneraelen-a-2b1ca674-7ad2-4931-9972-0ed459914d89#ref=rss)
+### künftig
+
+* [https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius](https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius-a-be2f0123-e5ce-4f57-bb71-57860f2baa46#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/der-spiegel-legt-eigenen-literaturpreis-auf](https://www.spiegel.de/kultur/literatur/der-spiegel-legt-eigenen-literaturpreis-auf-a-6f303f20-10cf-498b-8f05-dc2d3ca51323#ref=rss)
+* [https://www.spiegel.de/wirtschaft/versace-und-prada-eu-kommission-gibt-gruenes-licht-fuer-fusion](https://www.spiegel.de/wirtschaft/versace-und-prada-eu-kommission-gibt-gruenes-licht-fuer-fusion-a-01f5cbe2-c429-45ac-91e0-d905bb215430#ref=rss)
+### lars
+
+* [https://www.spiegel.de/politik/spd-lars-klingbeil-ueber-ein-jahr-voller-krisen-und-emotionen](https://www.spiegel.de/politik/spd-lars-klingbeil-ueber-ein-jahr-voller-krisen-und-emotionen-a-22ae92a2-a0e1-400f-bdcd-ea6bb2b31ad9#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/spd-lars-klingbeil-ueber-ein-jahr-voller-krisen-und-emotionen](https://www.spiegel.de/politik/spd-lars-klingbeil-ueber-ein-jahr-voller-krisen-und-emotionen-a-22ae92a2-a0e1-400f-bdcd-ea6bb2b31ad9#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/politik/spd-lars-klingbeil-ueber-ein-jahr-voller-krisen-und-emotionen](https://www.spiegel.de/politik/spd-lars-klingbeil-ueber-ein-jahr-voller-krisen-und-emotionen-a-22ae92a2-a0e1-400f-bdcd-ea6bb2b31ad9#ref=rss)
+### voller
+
+* [https://www.spiegel.de/politik/spd-lars-klingbeil-ueber-ein-jahr-voller-krisen-und-emotionen](https://www.spiegel.de/politik/spd-lars-klingbeil-ueber-ein-jahr-voller-krisen-und-emotionen-a-22ae92a2-a0e1-400f-bdcd-ea6bb2b31ad9#ref=rss)
+### krisen
+
+* [https://www.spiegel.de/politik/spd-lars-klingbeil-ueber-ein-jahr-voller-krisen-und-emotionen](https://www.spiegel.de/politik/spd-lars-klingbeil-ueber-ein-jahr-voller-krisen-und-emotionen-a-22ae92a2-a0e1-400f-bdcd-ea6bb2b31ad9#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/spd-lars-klingbeil-ueber-ein-jahr-voller-krisen-und-emotionen](https://www.spiegel.de/politik/spd-lars-klingbeil-ueber-ein-jahr-voller-krisen-und-emotionen-a-22ae92a2-a0e1-400f-bdcd-ea6bb2b31ad9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-bekommt-eine-helmut-kohl-allee-symbol-der-einheit-nach-35-jahren](https://www.spiegel.de/politik/deutschland/berlin-bekommt-eine-helmut-kohl-allee-symbol-der-einheit-nach-35-jahren-a-8c6406d6-c00f-402e-8b70-74c8a5d0a062#ref=rss)
+### pfizer
+
+* [https://www.spiegel.de/wirtschaft/usa-pharmakonzern-pfizer-senkt-auf-draengen-der-us-regierung-die-preise](https://www.spiegel.de/wirtschaft/usa-pharmakonzern-pfizer-senkt-auf-draengen-der-us-regierung-die-preise-a-391c65c0-bb67-4ce7-9e65-6c75b82be093#ref=rss)
+### preise
+
+* [https://www.spiegel.de/wirtschaft/usa-pharmakonzern-pfizer-senkt-auf-draengen-der-us-regierung-die-preise](https://www.spiegel.de/wirtschaft/usa-pharmakonzern-pfizer-senkt-auf-draengen-der-us-regierung-die-preise-a-391c65c0-bb67-4ce7-9e65-6c75b82be093#ref=rss)
+### bereit
+
+* [https://www.spiegel.de/wirtschaft/usa-pharmakonzern-pfizer-senkt-auf-draengen-der-us-regierung-die-preise](https://www.spiegel.de/wirtschaft/usa-pharmakonzern-pfizer-senkt-auf-draengen-der-us-regierung-die-preise-a-391c65c0-bb67-4ce7-9e65-6c75b82be093#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gaza-friedensplan-deutschland-koennte-finanzielle-und-personelle-unterstuetzung-anbieten](https://www.spiegel.de/politik/deutschland/gaza-friedensplan-deutschland-koennte-finanzielle-und-personelle-unterstuetzung-anbieten-a-ed3f74c6-0ab4-48c3-b9cc-49f1390d8967#ref=rss)
+### politik
+
+* [https://www.spiegel.de/wirtschaft/aktivrente-als-klientelpolitik-die-rechnung-zahlen-die-jungen-kolumne](https://www.spiegel.de/wirtschaft/aktivrente-als-klientelpolitik-die-rechnung-zahlen-die-jungen-kolumne-a-a0d3326e-7e3d-4aaa-8e85-3db9ef525a36#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-unterstuetzt-christliche-extremisten-wenn-bibelfanatiker-politik-machen-podcast](https://www.spiegel.de/ausland/donald-trump-unterstuetzt-christliche-extremisten-wenn-bibelfanatiker-politik-machen-podcast-a-0c6aab47-f59c-44e3-86c8-5177df963946#ref=rss)
+### joseph
+
+* [https://www.spiegel.de/ausland/kongo-ex-praesident-joseph-kabila-zum-tode-verurteilt](https://www.spiegel.de/ausland/kongo-ex-praesident-joseph-kabila-zum-tode-verurteilt-a-91f6b0ec-b1be-490a-b66a-eed4345265b2#ref=rss)
+### kabila
+
+* [https://www.spiegel.de/ausland/kongo-ex-praesident-joseph-kabila-zum-tode-verurteilt](https://www.spiegel.de/ausland/kongo-ex-praesident-joseph-kabila-zum-tode-verurteilt-a-91f6b0ec-b1be-490a-b66a-eed4345265b2#ref=rss)
+### tode
+
+* [https://www.spiegel.de/ausland/kongo-ex-praesident-joseph-kabila-zum-tode-verurteilt](https://www.spiegel.de/ausland/kongo-ex-praesident-joseph-kabila-zum-tode-verurteilt-a-91f6b0ec-b1be-490a-b66a-eed4345265b2#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/ausland/kongo-ex-praesident-joseph-kabila-zum-tode-verurteilt](https://www.spiegel.de/ausland/kongo-ex-praesident-joseph-kabila-zum-tode-verurteilt-a-91f6b0ec-b1be-490a-b66a-eed4345265b2#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/kongo-ex-praesident-joseph-kabila-zum-tode-verurteilt](https://www.spiegel.de/ausland/kongo-ex-praesident-joseph-kabila-zum-tode-verurteilt-a-91f6b0ec-b1be-490a-b66a-eed4345265b2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bonn-mann-beisst-freundin-ohrmuscheln-ab](https://www.spiegel.de/panorama/justiz/bonn-mann-beisst-freundin-ohrmuscheln-ab-a-f73f4ded-ab9b-4f04-8300-bc45cd49e1fd#ref=rss)
+### unterstützt
+
+* [https://www.spiegel.de/ausland/donald-trump-unterstuetzt-christliche-extremisten-wenn-bibelfanatiker-politik-machen-podcast](https://www.spiegel.de/ausland/donald-trump-unterstuetzt-christliche-extremisten-wenn-bibelfanatiker-politik-machen-podcast-a-0c6aab47-f59c-44e3-86c8-5177df963946#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-setzt-hamas-frist-fuer-zustimmung-zu-gaza-friedensplan](https://www.spiegel.de/ausland/donald-trump-setzt-hamas-frist-fuer-zustimmung-zu-gaza-friedensplan-a-9ec295bb-f637-488b-9f04-72c8d45e7e48#ref=rss)
+### lange
+
+* [https://www.spiegel.de/ausland/donald-trump-unterstuetzt-christliche-extremisten-wenn-bibelfanatiker-politik-machen-podcast](https://www.spiegel.de/ausland/donald-trump-unterstuetzt-christliche-extremisten-wenn-bibelfanatiker-politik-machen-podcast-a-0c6aab47-f59c-44e3-86c8-5177df963946#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder](https://www.spiegel.de/wirtschaft/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder-a-bfc0d92d-7324-4cce-948a-2e7ed568d336#ref=rss)
+### politischen
+
+* [https://www.spiegel.de/ausland/donald-trump-unterstuetzt-christliche-extremisten-wenn-bibelfanatiker-politik-machen-podcast](https://www.spiegel.de/ausland/donald-trump-unterstuetzt-christliche-extremisten-wenn-bibelfanatiker-politik-machen-podcast-a-0c6aab47-f59c-44e3-86c8-5177df963946#ref=rss)
+* [https://www.spiegel.de/ausland/keir-starmer-sagt-rechtspopulisten-bei-parteitag-den-kampf-an](https://www.spiegel.de/ausland/keir-starmer-sagt-rechtspopulisten-bei-parteitag-den-kampf-an-a-47c3b6fb-d63a-4abc-a292-47b417f4ccab#ref=rss)
+### lithium
+
+* [https://www.spiegel.de/wirtschaft/e-mobilitaet-regierung-setzt-auf-heimisches-lithium-fuer-batterien](https://www.spiegel.de/wirtschaft/e-mobilitaet-regierung-setzt-auf-heimisches-lithium-fuer-batterien-a-705fab73-5104-45e6-a51c-9b29c89eb9fd#ref=rss)
+### batterien
+
+* [https://www.spiegel.de/wirtschaft/e-mobilitaet-regierung-setzt-auf-heimisches-lithium-fuer-batterien](https://www.spiegel.de/wirtschaft/e-mobilitaet-regierung-setzt-auf-heimisches-lithium-fuer-batterien-a-705fab73-5104-45e6-a51c-9b29c89eb9fd#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/wirtschaft/e-mobilitaet-regierung-setzt-auf-heimisches-lithium-fuer-batterien](https://www.spiegel.de/wirtschaft/e-mobilitaet-regierung-setzt-auf-heimisches-lithium-fuer-batterien-a-705fab73-5104-45e6-a51c-9b29c89eb9fd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-bekommt-eine-helmut-kohl-allee-symbol-der-einheit-nach-35-jahren](https://www.spiegel.de/politik/deutschland/berlin-bekommt-eine-helmut-kohl-allee-symbol-der-einheit-nach-35-jahren-a-8c6406d6-c00f-402e-8b70-74c8a5d0a062#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/wirtschaft/e-mobilitaet-regierung-setzt-auf-heimisches-lithium-fuer-batterien](https://www.spiegel.de/wirtschaft/e-mobilitaet-regierung-setzt-auf-heimisches-lithium-fuer-batterien-a-705fab73-5104-45e6-a51c-9b29c89eb9fd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gaza-friedensplan-deutschland-koennte-finanzielle-und-personelle-unterstuetzung-anbieten](https://www.spiegel.de/politik/deutschland/gaza-friedensplan-deutschland-koennte-finanzielle-und-personelle-unterstuetzung-anbieten-a-ed3f74c6-0ab4-48c3-b9cc-49f1390d8967#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/e-mobilitaet-regierung-setzt-auf-heimisches-lithium-fuer-batterien](https://www.spiegel.de/wirtschaft/e-mobilitaet-regierung-setzt-auf-heimisches-lithium-fuer-batterien-a-705fab73-5104-45e6-a51c-9b29c89eb9fd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gaza-friedensplan-deutschland-koennte-finanzielle-und-personelle-unterstuetzung-anbieten](https://www.spiegel.de/politik/deutschland/gaza-friedensplan-deutschland-koennte-finanzielle-und-personelle-unterstuetzung-anbieten-a-ed3f74c6-0ab4-48c3-b9cc-49f1390d8967#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/ausland/donald-trump-setzt-hamas-frist-fuer-zustimmung-zu-gaza-friedensplan](https://www.spiegel.de/ausland/donald-trump-setzt-hamas-frist-fuer-zustimmung-zu-gaza-friedensplan-a-9ec295bb-f637-488b-9f04-72c8d45e7e48#ref=rss)
+### bald
+
+* [https://www.spiegel.de/ausland/donald-trump-setzt-hamas-frist-fuer-zustimmung-zu-gaza-friedensplan](https://www.spiegel.de/ausland/donald-trump-setzt-hamas-frist-fuer-zustimmung-zu-gaza-friedensplan-a-9ec295bb-f637-488b-9f04-72c8d45e7e48#ref=rss)
+* [https://www.spiegel.de/kultur/kino/die-simpsons-bekommen-einen-neuen-kinofilm](https://www.spiegel.de/kultur/kino/die-simpsons-bekommen-einen-neuen-kinofilm-a-5b8221f2-1928-4747-bbe7-7fa37fb9001a#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/bonn-mann-beisst-freundin-ohrmuscheln-ab](https://www.spiegel.de/panorama/justiz/bonn-mann-beisst-freundin-ohrmuscheln-ab-a-f73f4ded-ab9b-4f04-8300-bc45cd49e1fd#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/wirtschaft/service/ueberschuldungsreport-erkrankungen-bleiben-wichtigster-ueberschuldungsgrund](https://www.spiegel.de/wirtschaft/service/ueberschuldungsreport-erkrankungen-bleiben-wichtigster-ueberschuldungsgrund-a-8f908e65-a550-48f2-9f65-13e275ecb297#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder](https://www.spiegel.de/wirtschaft/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder-a-bfc0d92d-7324-4cce-948a-2e7ed568d336#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/ausland/reportage-aus-einer-zerstoerten-stadt](https://www.spiegel.de/ausland/reportage-aus-einer-zerstoerten-stadt-a-76023890-6baf-4118-8d52-59f808baece9#ref=rss)
+* [https://www.spiegel.de/start/studieren-in-mainz-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-mainz-campus-wohnviertel-wg-zimmer-preise-kneipen-a-6db49342-cd47-4569-83cb-b7f9f9633c0a#ref=rss)
+### lage
+
+* [https://www.spiegel.de/ausland/reportage-aus-einer-zerstoerten-stadt](https://www.spiegel.de/ausland/reportage-aus-einer-zerstoerten-stadt-a-76023890-6baf-4118-8d52-59f808baece9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streikdrohung-bei-der-lufthansa-tagung-bundeskabinett-gaza-friedensplan](https://www.spiegel.de/politik/deutschland/news-des-tages-streikdrohung-bei-der-lufthansa-tagung-bundeskabinett-gaza-friedensplan-a-8ad218ed-ad87-4c40-884b-dcea844dd15b#ref=rss)
+### hunderttausende
+
+* [https://www.spiegel.de/ausland/reportage-aus-einer-zerstoerten-stadt](https://www.spiegel.de/ausland/reportage-aus-einer-zerstoerten-stadt-a-76023890-6baf-4118-8d52-59f808baece9#ref=rss)
+* [https://www.spiegel.de/panorama/oktoberfest-neue-sicherheitsmassnahmen-nach-gedraenge-auf-der-wiesn-vorgestellt](https://www.spiegel.de/panorama/oktoberfest-neue-sicherheitsmassnahmen-nach-gedraenge-auf-der-wiesn-vorgestellt-a-f0de504b-bbc0-4902-835b-ef2d57c08ea9#ref=rss)
+### kam
+
+* [https://www.spiegel.de/politik/deutschland/gaza-friedensplan-deutschland-koennte-finanzielle-und-personelle-unterstuetzung-anbieten](https://www.spiegel.de/politik/deutschland/gaza-friedensplan-deutschland-koennte-finanzielle-und-personelle-unterstuetzung-anbieten-a-ed3f74c6-0ab4-48c3-b9cc-49f1390d8967#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/michel-friedman-ausgeladen-so-war-die-pen-berlin-kundgebung-in-kluetz](https://www.spiegel.de/kultur/literatur/michel-friedman-ausgeladen-so-war-die-pen-berlin-kundgebung-in-kluetz-a-9cf8c59f-667b-4f70-8149-23819f5b0081#ref=rss)
+### michel
+
+* [https://www.spiegel.de/kultur/literatur/michel-friedman-ausgeladen-so-war-die-pen-berlin-kundgebung-in-kluetz](https://www.spiegel.de/kultur/literatur/michel-friedman-ausgeladen-so-war-die-pen-berlin-kundgebung-in-kluetz-a-9cf8c59f-667b-4f70-8149-23819f5b0081#ref=rss)
+### friedman
+
+* [https://www.spiegel.de/kultur/literatur/michel-friedman-ausgeladen-so-war-die-pen-berlin-kundgebung-in-kluetz](https://www.spiegel.de/kultur/literatur/michel-friedman-ausgeladen-so-war-die-pen-berlin-kundgebung-in-kluetz-a-9cf8c59f-667b-4f70-8149-23819f5b0081#ref=rss)
+### klütz
+
+* [https://www.spiegel.de/kultur/literatur/michel-friedman-ausgeladen-so-war-die-pen-berlin-kundgebung-in-kluetz](https://www.spiegel.de/kultur/literatur/michel-friedman-ausgeladen-so-war-die-pen-berlin-kundgebung-in-kluetz-a-9cf8c59f-667b-4f70-8149-23819f5b0081#ref=rss)
+### marcuwe
+
+* [https://www.spiegel.de/kultur/marc-uwe-kling-ueber-elon-jeff-on-mars-mir-ist-klar-dass-dieser-comic-nicht-die-welt-rettet](https://www.spiegel.de/kultur/marc-uwe-kling-ueber-elon-jeff-on-mars-mir-ist-klar-dass-dieser-comic-nicht-die-welt-rettet-a-edaae1a7-63c9-46c7-824e-6e636ecf9613#ref=rss)
+### kling
+
+* [https://www.spiegel.de/kultur/marc-uwe-kling-ueber-elon-jeff-on-mars-mir-ist-klar-dass-dieser-comic-nicht-die-welt-rettet](https://www.spiegel.de/kultur/marc-uwe-kling-ueber-elon-jeff-on-mars-mir-ist-klar-dass-dieser-comic-nicht-die-welt-rettet-a-edaae1a7-63c9-46c7-824e-6e636ecf9613#ref=rss)
+### elon
+
+* [https://www.spiegel.de/kultur/marc-uwe-kling-ueber-elon-jeff-on-mars-mir-ist-klar-dass-dieser-comic-nicht-die-welt-rettet](https://www.spiegel.de/kultur/marc-uwe-kling-ueber-elon-jeff-on-mars-mir-ist-klar-dass-dieser-comic-nicht-die-welt-rettet-a-edaae1a7-63c9-46c7-824e-6e636ecf9613#ref=rss)
+### jeff
+
+* [https://www.spiegel.de/kultur/marc-uwe-kling-ueber-elon-jeff-on-mars-mir-ist-klar-dass-dieser-comic-nicht-die-welt-rettet](https://www.spiegel.de/kultur/marc-uwe-kling-ueber-elon-jeff-on-mars-mir-ist-klar-dass-dieser-comic-nicht-die-welt-rettet-a-edaae1a7-63c9-46c7-824e-6e636ecf9613#ref=rss)
+### on
+
+* [https://www.spiegel.de/kultur/marc-uwe-kling-ueber-elon-jeff-on-mars-mir-ist-klar-dass-dieser-comic-nicht-die-welt-rettet](https://www.spiegel.de/kultur/marc-uwe-kling-ueber-elon-jeff-on-mars-mir-ist-klar-dass-dieser-comic-nicht-die-welt-rettet-a-edaae1a7-63c9-46c7-824e-6e636ecf9613#ref=rss)
+### mars
+
+* [https://www.spiegel.de/kultur/marc-uwe-kling-ueber-elon-jeff-on-mars-mir-ist-klar-dass-dieser-comic-nicht-die-welt-rettet](https://www.spiegel.de/kultur/marc-uwe-kling-ueber-elon-jeff-on-mars-mir-ist-klar-dass-dieser-comic-nicht-die-welt-rettet-a-edaae1a7-63c9-46c7-824e-6e636ecf9613#ref=rss)
+### keir
+
+* [https://www.spiegel.de/ausland/keir-starmer-sagt-rechtspopulisten-bei-parteitag-den-kampf-an](https://www.spiegel.de/ausland/keir-starmer-sagt-rechtspopulisten-bei-parteitag-den-kampf-an-a-47c3b6fb-d63a-4abc-a292-47b417f4ccab#ref=rss)
+### starmer
+
+* [https://www.spiegel.de/ausland/keir-starmer-sagt-rechtspopulisten-bei-parteitag-den-kampf-an](https://www.spiegel.de/ausland/keir-starmer-sagt-rechtspopulisten-bei-parteitag-den-kampf-an-a-47c3b6fb-d63a-4abc-a292-47b417f4ccab#ref=rss)
+### wo
+
+* [https://www.spiegel.de/ausland/keir-starmer-sagt-rechtspopulisten-bei-parteitag-den-kampf-an](https://www.spiegel.de/ausland/keir-starmer-sagt-rechtspopulisten-bei-parteitag-den-kampf-an-a-47c3b6fb-d63a-4abc-a292-47b417f4ccab#ref=rss)
+* [https://www.spiegel.de/start/studieren-in-mainz-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-mainz-campus-wohnviertel-wg-zimmer-preise-kneipen-a-6db49342-cd47-4569-83cb-b7f9f9633c0a#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/keir-starmer-sagt-rechtspopulisten-bei-parteitag-den-kampf-an](https://www.spiegel.de/ausland/keir-starmer-sagt-rechtspopulisten-bei-parteitag-den-kampf-an-a-47c3b6fb-d63a-4abc-a292-47b417f4ccab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/versace-und-prada-eu-kommission-gibt-gruenes-licht-fuer-fusion](https://www.spiegel.de/wirtschaft/versace-und-prada-eu-kommission-gibt-gruenes-licht-fuer-fusion-a-01f5cbe2-c429-45ac-91e0-d905bb215430#ref=rss)
+### neue
+
+* [https://www.spiegel.de/panorama/oktoberfest-neue-sicherheitsmassnahmen-nach-gedraenge-auf-der-wiesn-vorgestellt](https://www.spiegel.de/panorama/oktoberfest-neue-sicherheitsmassnahmen-nach-gedraenge-auf-der-wiesn-vorgestellt-a-f0de504b-bbc0-4902-835b-ef2d57c08ea9#ref=rss)
+### sicherheitsmaßnahmen
+
+* [https://www.spiegel.de/panorama/oktoberfest-neue-sicherheitsmassnahmen-nach-gedraenge-auf-der-wiesn-vorgestellt](https://www.spiegel.de/panorama/oktoberfest-neue-sicherheitsmassnahmen-nach-gedraenge-auf-der-wiesn-vorgestellt-a-f0de504b-bbc0-4902-835b-ef2d57c08ea9#ref=rss)
+### vorgestellt
+
+* [https://www.spiegel.de/panorama/oktoberfest-neue-sicherheitsmassnahmen-nach-gedraenge-auf-der-wiesn-vorgestellt](https://www.spiegel.de/panorama/oktoberfest-neue-sicherheitsmassnahmen-nach-gedraenge-auf-der-wiesn-vorgestellt-a-f0de504b-bbc0-4902-835b-ef2d57c08ea9#ref=rss)
+### ryder
+
+* [https://www.spiegel.de/sport/ryder-cup-sie-singen-guckst-du-donald-trump-und-der-praesident-antwortet](https://www.spiegel.de/sport/ryder-cup-sie-singen-guckst-du-donald-trump-und-der-praesident-antwortet-a-b259ab5b-1f86-41c7-94b0-175a30cb947c#ref=rss)
+### cup
+
+* [https://www.spiegel.de/sport/ryder-cup-sie-singen-guckst-du-donald-trump-und-der-praesident-antwortet](https://www.spiegel.de/sport/ryder-cup-sie-singen-guckst-du-donald-trump-und-der-praesident-antwortet-a-b259ab5b-1f86-41c7-94b0-175a30cb947c#ref=rss)
+### landes
+
+* [https://www.spiegel.de/sport/ryder-cup-sie-singen-guckst-du-donald-trump-und-der-praesident-antwortet](https://www.spiegel.de/sport/ryder-cup-sie-singen-guckst-du-donald-trump-und-der-praesident-antwortet-a-b259ab5b-1f86-41c7-94b0-175a30cb947c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende](https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende-a-1dc1bb79-3363-45ea-a9b3-a5d82807b899#ref=rss)
+### denen
+
+* [https://www.spiegel.de/sport/ryder-cup-sie-singen-guckst-du-donald-trump-und-der-praesident-antwortet](https://www.spiegel.de/sport/ryder-cup-sie-singen-guckst-du-donald-trump-und-der-praesident-antwortet-a-b259ab5b-1f86-41c7-94b0-175a30cb947c#ref=rss)
+* [https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius](https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius-a-be2f0123-e5ce-4f57-bb71-57860f2baa46#ref=rss)
+### campus
+
+* [https://www.spiegel.de/start/studieren-in-mainz-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-mainz-campus-wohnviertel-wg-zimmer-preise-kneipen-a-6db49342-cd47-4569-83cb-b7f9f9633c0a#ref=rss)
+### verteidigungsminister
+
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende](https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende-a-1dc1bb79-3363-45ea-a9b3-a5d82807b899#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-livestream-nach-treffen-mit-spitzengeneraelen](https://www.spiegel.de/ausland/donald-trump-livestream-nach-treffen-mit-spitzengeneraelen-a-2b1ca674-7ad2-4931-9972-0ed459914d89#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende](https://www.spiegel.de/ausland/usa-pete-hegseth-und-donald-trump-verordnen-us-armee-ideologische-kehrtwende-a-1dc1bb79-3363-45ea-a9b3-a5d82807b899#ref=rss)
+* [https://www.spiegel.de/kultur/kino/die-simpsons-bekommen-einen-neuen-kinofilm](https://www.spiegel.de/kultur/kino/die-simpsons-bekommen-einen-neuen-kinofilm-a-5b8221f2-1928-4747-bbe7-7fa37fb9001a#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/kultur/kino/die-simpsons-bekommen-einen-neuen-kinofilm](https://www.spiegel.de/kultur/kino/die-simpsons-bekommen-einen-neuen-kinofilm-a-5b8221f2-1928-4747-bbe7-7fa37fb9001a#ref=rss)
+* [https://www.spiegel.de/kultur/tv/scrubs-sarah-chalke-zach-braff-und-donald-faison-fuer-dreharbeiten-wiedervereint](https://www.spiegel.de/kultur/tv/scrubs-sarah-chalke-zach-braff-und-donald-faison-fuer-dreharbeiten-wiedervereint-a-3cc03b56-9531-4498-9a7a-2ada54a88575#ref=rss)
+### ibiza
+
+* [https://www.spiegel.de/panorama/ibiza-und-formentera-schwere-unwetter-in-spanien-treffen-balearen](https://www.spiegel.de/panorama/ibiza-und-formentera-schwere-unwetter-in-spanien-treffen-balearen-a-f70574f6-8293-4283-b436-14bf49e640b8#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/panorama/ibiza-und-formentera-schwere-unwetter-in-spanien-treffen-balearen](https://www.spiegel.de/panorama/ibiza-und-formentera-schwere-unwetter-in-spanien-treffen-balearen-a-f70574f6-8293-4283-b436-14bf49e640b8#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/panorama/ibiza-und-formentera-schwere-unwetter-in-spanien-treffen-balearen](https://www.spiegel.de/panorama/ibiza-und-formentera-schwere-unwetter-in-spanien-treffen-balearen-a-f70574f6-8293-4283-b436-14bf49e640b8#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-livestream-nach-treffen-mit-spitzengeneraelen](https://www.spiegel.de/ausland/donald-trump-livestream-nach-treffen-mit-spitzengeneraelen-a-2b1ca674-7ad2-4931-9972-0ed459914d89#ref=rss)
+### trifft
+
+* [https://www.spiegel.de/panorama/ibiza-und-formentera-schwere-unwetter-in-spanien-treffen-balearen](https://www.spiegel.de/panorama/ibiza-und-formentera-schwere-unwetter-in-spanien-treffen-balearen-a-f70574f6-8293-4283-b436-14bf49e640b8#ref=rss)
+* [https://www.spiegel.de/kultur/tv/scrubs-sarah-chalke-zach-braff-und-donald-faison-fuer-dreharbeiten-wiedervereint](https://www.spiegel.de/kultur/tv/scrubs-sarah-chalke-zach-braff-und-donald-faison-fuer-dreharbeiten-wiedervereint-a-3cc03b56-9531-4498-9a7a-2ada54a88575#ref=rss)
+### historiker
+
+* [https://www.spiegel.de/geschichte/ukraine-krieg-historiker-bernd-greiner-ueber-luftraumverletzungen-heute-und-im-kalten-krieg](https://www.spiegel.de/geschichte/ukraine-krieg-historiker-bernd-greiner-ueber-luftraumverletzungen-heute-und-im-kalten-krieg-a-a4dc72bb-3a4c-4140-b661-1d639afb75d9#ref=rss)
+### greiner
+
+* [https://www.spiegel.de/geschichte/ukraine-krieg-historiker-bernd-greiner-ueber-luftraumverletzungen-heute-und-im-kalten-krieg](https://www.spiegel.de/geschichte/ukraine-krieg-historiker-bernd-greiner-ueber-luftraumverletzungen-heute-und-im-kalten-krieg-a-a4dc72bb-3a4c-4140-b661-1d639afb75d9#ref=rss)
+### kalten
+
+* [https://www.spiegel.de/geschichte/ukraine-krieg-historiker-bernd-greiner-ueber-luftraumverletzungen-heute-und-im-kalten-krieg](https://www.spiegel.de/geschichte/ukraine-krieg-historiker-bernd-greiner-ueber-luftraumverletzungen-heute-und-im-kalten-krieg-a-a4dc72bb-3a4c-4140-b661-1d639afb75d9#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/geschichte/ukraine-krieg-historiker-bernd-greiner-ueber-luftraumverletzungen-heute-und-im-kalten-krieg](https://www.spiegel.de/geschichte/ukraine-krieg-historiker-bernd-greiner-ueber-luftraumverletzungen-heute-und-im-kalten-krieg-a-a4dc72bb-3a4c-4140-b661-1d639afb75d9#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius](https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius-a-be2f0123-e5ce-4f57-bb71-57860f2baa46#ref=rss)
+### vilnius
+
+* [https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius](https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius-a-be2f0123-e5ce-4f57-bb71-57860f2baa46#ref=rss)
+### schutz
+
+* [https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius](https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius-a-be2f0123-e5ce-4f57-bb71-57860f2baa46#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius](https://www.spiegel.de/ausland/friedrich-merz-zitat-des-bundeskanzlers-kommt-ans-rathaus-von-vilnius-a-be2f0123-e5ce-4f57-bb71-57860f2baa46#ref=rss)
+* [https://www.spiegel.de/netzwelt/bitcoin-polizei-in-london-beschlagnahmt-milliardenbeute](https://www.spiegel.de/netzwelt/bitcoin-polizei-in-london-beschlagnahmt-milliardenbeute-a-9aeb0652-24be-4c8c-a86d-a4a7c109b5a1#ref=rss)
+### einheit
+
+* [https://www.spiegel.de/politik/deutschland/berlin-bekommt-eine-helmut-kohl-allee-symbol-der-einheit-nach-35-jahren](https://www.spiegel.de/politik/deutschland/berlin-bekommt-eine-helmut-kohl-allee-symbol-der-einheit-nach-35-jahren-a-8c6406d6-c00f-402e-8b70-74c8a5d0a062#ref=rss)
+### london
+
+* [https://www.spiegel.de/netzwelt/bitcoin-polizei-in-london-beschlagnahmt-milliardenbeute](https://www.spiegel.de/netzwelt/bitcoin-polizei-in-london-beschlagnahmt-milliardenbeute-a-9aeb0652-24be-4c8c-a86d-a4a7c109b5a1#ref=rss)
+### beschlagnahmt
+
+* [https://www.spiegel.de/netzwelt/bitcoin-polizei-in-london-beschlagnahmt-milliardenbeute](https://www.spiegel.de/netzwelt/bitcoin-polizei-in-london-beschlagnahmt-milliardenbeute-a-9aeb0652-24be-4c8c-a86d-a4a7c109b5a1#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/netzwelt/bitcoin-polizei-in-london-beschlagnahmt-milliardenbeute](https://www.spiegel.de/netzwelt/bitcoin-polizei-in-london-beschlagnahmt-milliardenbeute-a-9aeb0652-24be-4c8c-a86d-a4a7c109b5a1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/versace-und-prada-eu-kommission-gibt-gruenes-licht-fuer-fusion](https://www.spiegel.de/wirtschaft/versace-und-prada-eu-kommission-gibt-gruenes-licht-fuer-fusion-a-01f5cbe2-c429-45ac-91e0-d905bb215430#ref=rss)
+### euro
+
+* [https://www.spiegel.de/netzwelt/bitcoin-polizei-in-london-beschlagnahmt-milliardenbeute](https://www.spiegel.de/netzwelt/bitcoin-polizei-in-london-beschlagnahmt-milliardenbeute-a-9aeb0652-24be-4c8c-a86d-a4a7c109b5a1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/versace-und-prada-eu-kommission-gibt-gruenes-licht-fuer-fusion](https://www.spiegel.de/wirtschaft/versace-und-prada-eu-kommission-gibt-gruenes-licht-fuer-fusion-a-01f5cbe2-c429-45ac-91e0-d905bb215430#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/kultur/literatur/der-spiegel-legt-eigenen-literaturpreis-auf](https://www.spiegel.de/kultur/literatur/der-spiegel-legt-eigenen-literaturpreis-auf-a-6f303f20-10cf-498b-8f05-dc2d3ca51323#ref=rss)
+### zusammen
+
+* [https://www.spiegel.de/ausland/donald-trump-livestream-nach-treffen-mit-spitzengeneraelen](https://www.spiegel.de/ausland/donald-trump-livestream-nach-treffen-mit-spitzengeneraelen-a-2b1ca674-7ad2-4931-9972-0ed459914d89#ref=rss)
+* [https://www.spiegel.de/wirtschaft/versace-und-prada-eu-kommission-gibt-gruenes-licht-fuer-fusion](https://www.spiegel.de/wirtschaft/versace-und-prada-eu-kommission-gibt-gruenes-licht-fuer-fusion-a-01f5cbe2-c429-45ac-91e0-d905bb215430#ref=rss)
+### versace
+
+* [https://www.spiegel.de/wirtschaft/versace-und-prada-eu-kommission-gibt-gruenes-licht-fuer-fusion](https://www.spiegel.de/wirtschaft/versace-und-prada-eu-kommission-gibt-gruenes-licht-fuer-fusion-a-01f5cbe2-c429-45ac-91e0-d905bb215430#ref=rss)
+### prada
+
+* [https://www.spiegel.de/wirtschaft/versace-und-prada-eu-kommission-gibt-gruenes-licht-fuer-fusion](https://www.spiegel.de/wirtschaft/versace-und-prada-eu-kommission-gibt-gruenes-licht-fuer-fusion-a-01f5cbe2-c429-45ac-91e0-d905bb215430#ref=rss)
 
