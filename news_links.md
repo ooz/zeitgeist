@@ -4,408 +4,339 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bombendrohung-gegen-das-oktoberfest-shutdown-in-den-usa-elektronische-patientenakte](https://www.spiegel.de/politik/deutschland/news-des-tages-bombendrohung-gegen-das-oktoberfest-shutdown-in-den-usa-elektronische-patientenakte-a-68f89220-974a-44df-94d9-20841809781d#ref=rss)
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neuen-filme-und-serien-im-oktober-2025-was-sich-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neuen-filme-und-serien-im-oktober-2025-was-sich-lohnt-a-19ea0f30-c481-4af2-9afb-72925564f231#ref=rss)
-* [https://www.spiegel.de/wirtschaft/shutdown-usa-haushaltsstreit-in-der-vergangenheit](https://www.spiegel.de/wirtschaft/shutdown-usa-haushaltsstreit-in-der-vergangenheit-a-7e2f9917-ca7c-40d7-8d67-9e88af500c57#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-katar-sicherheitsgarantien-nach-israelischem-angriff](https://www.spiegel.de/ausland/usa-und-katar-sicherheitsgarantien-nach-israelischem-angriff-a-101dbec7-0ec4-451f-9239-2dd3b5591fa8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/finanzmaerkte-goldpreis-steigt-nach-us-shutdown-auf-rekordhoch](https://www.spiegel.de/wirtschaft/finanzmaerkte-goldpreis-steigt-nach-us-shutdown-auf-rekordhoch-a-2b9ee8a0-98ef-4693-8493-aa8334a12c86#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/drohnen-ueber-schleswig-holstein-daniel-guenther-fordert-effektive-und-funktionierende-drohnenabwehr-russland-schattenflotte-unter-verdacht](https://www.spiegel.de/politik/deutschland/drohnen-ueber-schleswig-holstein-daniel-guenther-fordert-effektive-und-funktionierende-drohnenabwehr-russland-schattenflotte-unter-verdacht-a-b1da5751-87d3-46fb-8233-0492a626cfe5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-hamas-mitglieder-bei-waffenuebergabe-festgenommen](https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-hamas-mitglieder-bei-waffenuebergabe-festgenommen-a-4d21d0fd-c79f-4e8a-8cdb-e1ebc4479dc4#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/kultur/kulturkampf-streit-um-boehmermann-ausstellung-und-abgesagtes-chefket-konzert](https://www.spiegel.de/kultur/kulturkampf-streit-um-boehmermann-ausstellung-und-abgesagtes-chefket-konzert-a-9011412e-2e17-478e-927e-620d12b0a07b#ref=rss)
-* [https://www.spiegel.de/kultur/jan-boehmermann-ausstellung-in-berlin-warum-ist-es-so-still-um-dieses-werk](https://www.spiegel.de/kultur/jan-boehmermann-ausstellung-in-berlin-warum-ist-es-so-still-um-dieses-werk-a-a9d66028-3072-45e2-91f9-9f9fd8eb4bb3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-hamas-mitglieder-bei-waffenuebergabe-festgenommen](https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-hamas-mitglieder-bei-waffenuebergabe-festgenommen-a-4d21d0fd-c79f-4e8a-8cdb-e1ebc4479dc4#ref=rss)
-### vw
-
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-### bosch
-
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-### thyssenkrupp
-
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
+* [https://www.spiegel.de/ausland/crumpsall-messerangreifer-verletzt-menschen-vor-synagoge-bei-manchester](https://www.spiegel.de/ausland/crumpsall-messerangreifer-verletzt-menschen-vor-synagoge-bei-manchester-a-dc15c590-3928-4daf-aee2-adcb74ccde19#ref=rss)
+* [https://www.spiegel.de/sport/fussball/rudi-voeller-sky-doku-es-gibt-doch-nicht-nur-einen-rudi-voeller](https://www.spiegel.de/sport/fussball/rudi-voeller-sky-doku-es-gibt-doch-nicht-nur-einen-rudi-voeller-a-393fe41a-1014-4852-bfea-5fc08f0a4281#ref=rss)
+* [https://www.spiegel.de/panorama/michigan-mormonen-mitglied-startet-spendenkampagne-fuer-familie-eines-mutmasslichen-todesschuetzen](https://www.spiegel.de/panorama/michigan-mormonen-mitglied-startet-spendenkampagne-fuer-familie-eines-mutmasslichen-todesschuetzen-a-39b5982e-40ea-4913-b5b8-14e05c7513c0#ref=rss)
+* [https://www.spiegel.de/panorama/new-york-kollision-zweier-flugzeuge-auf-flughafen-laguardia](https://www.spiegel.de/panorama/new-york-kollision-zweier-flugzeuge-auf-flughafen-laguardia-a-7e6410ee-ba7e-4026-877f-f3fe7feca152#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ein-fuenftel-der-menschen-im-ruhestand-muss-mit-1400-euro-auskommen](https://www.spiegel.de/wirtschaft/ein-fuenftel-der-menschen-im-ruhestand-muss-mit-1400-euro-auskommen-a-b1248f8f-f040-4469-99a1-a72dfd75b105#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-sterben-so-viele-bienen-und-wespen-im-herbst](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-sterben-so-viele-bienen-und-wespen-im-herbst-a-cc326a5b-0b2b-4b37-8f8e-c891513177d8#ref=rss)
-### mehr
+* [https://www.spiegel.de/sport/fussball/fc-st-pauli-jackson-irvine-sorgt-mit-palaestina-shirt-und-instagram-post-fuer-unruhe](https://www.spiegel.de/sport/fussball/fc-st-pauli-jackson-irvine-sorgt-mit-palaestina-shirt-und-instagram-post-fuer-unruhe-a-ab60c883-8913-4196-b7f3-8fc5f7e0ce12#ref=rss)
+* [https://www.spiegel.de/start/sucht-warum-rauchen-so-viele-im-studium](https://www.spiegel.de/start/sucht-warum-rauchen-so-viele-im-studium-a-9b991f4a-eb81-4fc1-bcb4-e96ff6ed90ca#ref=rss)
+* [https://www.spiegel.de/auto/usa-branche-fuerchtet-einbruch-von-elektroauto-markt](https://www.spiegel.de/auto/usa-branche-fuerchtet-einbruch-von-elektroauto-markt-a-47d6b74a-f0d5-476c-9e85-d1fca816d1fe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-ostdeutschland-ist-mehr-als-seine-defizite](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-ostdeutschland-ist-mehr-als-seine-defizite-a-eccbc749-43d9-4dea-a814-d24e59604310#ref=rss)
+### studium
 
-* [https://www.spiegel.de/ausland/ibiza-schwere-ueberschwemmungen-auf-den-balearen](https://www.spiegel.de/ausland/ibiza-schwere-ueberschwemmungen-auf-den-balearen-a-b3ef0e43-feef-4320-87f5-8a1c769de5c0#ref=rss)
-* [https://www.spiegel.de/panorama/essen-ex-fussballtrainer-wegen-sexuellen-missbrauchs-verurteilt](https://www.spiegel.de/panorama/essen-ex-fussballtrainer-wegen-sexuellen-missbrauchs-verurteilt-a-1895a301-cb94-4893-bef4-274559efa3dc#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/duisburg-oberbuergermeister-soeren-link-ueber-armutsmigration-aus-suedosteuropa](https://www.spiegel.de/panorama/gesellschaft/duisburg-oberbuergermeister-soeren-link-ueber-armutsmigration-aus-suedosteuropa-a-591fcd20-9b82-4695-8a8e-714fef0eec09#ref=rss)
-### essen
+* [https://www.spiegel.de/start/sucht-warum-rauchen-so-viele-im-studium](https://www.spiegel.de/start/sucht-warum-rauchen-so-viele-im-studium-a-9b991f4a-eb81-4fc1-bcb4-e96ff6ed90ca#ref=rss)
+* [https://www.spiegel.de/wissenschaft/jane-goodall-ich-habe-einfach-meinen-traum-verfolgt](https://www.spiegel.de/wissenschaft/jane-goodall-ich-habe-einfach-meinen-traum-verfolgt-a-05917c2e-790d-42a6-8886-6eba80ed87f5#ref=rss)
+### völler
 
-* [https://www.spiegel.de/panorama/essen-ex-fussballtrainer-wegen-sexuellen-missbrauchs-verurteilt](https://www.spiegel.de/panorama/essen-ex-fussballtrainer-wegen-sexuellen-missbrauchs-verurteilt-a-1895a301-cb94-4893-bef4-274559efa3dc#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-bei-zohran-mamdani-geht-wahlkampf-durch-den-magen](https://www.spiegel.de/ausland/new-york-bei-zohran-mamdani-geht-wahlkampf-durch-den-magen-a-c7d9b046-c85c-46a1-8844-afaa366a0559#ref=rss)
-### chefket
+* [https://www.spiegel.de/sport/fussball/rudi-voeller-sky-doku-es-gibt-doch-nicht-nur-einen-rudi-voeller](https://www.spiegel.de/sport/fussball/rudi-voeller-sky-doku-es-gibt-doch-nicht-nur-einen-rudi-voeller-a-393fe41a-1014-4852-bfea-5fc08f0a4281#ref=rss)
+### sehr
 
-* [https://www.spiegel.de/kultur/kulturkampf-streit-um-boehmermann-ausstellung-und-abgesagtes-chefket-konzert](https://www.spiegel.de/kultur/kulturkampf-streit-um-boehmermann-ausstellung-und-abgesagtes-chefket-konzert-a-9011412e-2e17-478e-927e-620d12b0a07b#ref=rss)
-* [https://www.spiegel.de/kultur/musik/antisemitismus-debatte-im-deutschen-kulturbetrieb-vorwuerfe-gegen-rapper-chefket-der-ueberblick](https://www.spiegel.de/kultur/musik/antisemitismus-debatte-im-deutschen-kulturbetrieb-vorwuerfe-gegen-rapper-chefket-der-ueberblick-a-6f00314a-7c1b-4186-8ce1-f765f0be05d7#ref=rss)
-### jan
+* [https://www.spiegel.de/ausland/ukraine-krieg-belgien-kritisiert-friedrich-merz-plaene-fuer-russisches-vermoegen-scharf](https://www.spiegel.de/ausland/ukraine-krieg-belgien-kritisiert-friedrich-merz-plaene-fuer-russisches-vermoegen-scharf-a-474df64d-b7ab-4c07-902e-bc2911bac223#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history](https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history-a-11d84862-22f0-4671-bb03-8c11bbfefd89#ref=rss)
+### jackson
 
-* [https://www.spiegel.de/kultur/kulturkampf-streit-um-boehmermann-ausstellung-und-abgesagtes-chefket-konzert](https://www.spiegel.de/kultur/kulturkampf-streit-um-boehmermann-ausstellung-und-abgesagtes-chefket-konzert-a-9011412e-2e17-478e-927e-620d12b0a07b#ref=rss)
-* [https://www.spiegel.de/kultur/musik/antisemitismus-debatte-im-deutschen-kulturbetrieb-vorwuerfe-gegen-rapper-chefket-der-ueberblick](https://www.spiegel.de/kultur/musik/antisemitismus-debatte-im-deutschen-kulturbetrieb-vorwuerfe-gegen-rapper-chefket-der-ueberblick-a-6f00314a-7c1b-4186-8ce1-f765f0be05d7#ref=rss)
-* [https://www.spiegel.de/kultur/jan-boehmermann-ausstellung-in-berlin-warum-ist-es-so-still-um-dieses-werk](https://www.spiegel.de/kultur/jan-boehmermann-ausstellung-in-berlin-warum-ist-es-so-still-um-dieses-werk-a-a9d66028-3072-45e2-91f9-9f9fd8eb4bb3#ref=rss)
-### zeigt
+* [https://www.spiegel.de/sport/fussball/fc-st-pauli-jackson-irvine-sorgt-mit-palaestina-shirt-und-instagram-post-fuer-unruhe](https://www.spiegel.de/sport/fussball/fc-st-pauli-jackson-irvine-sorgt-mit-palaestina-shirt-und-instagram-post-fuer-unruhe-a-ab60c883-8913-4196-b7f3-8fc5f7e0ce12#ref=rss)
+* [https://www.spiegel.de/kultur/musik/lionel-richie-spitzname-von-michael-jacksons-spitzname-war-stinkie](https://www.spiegel.de/kultur/musik/lionel-richie-spitzname-von-michael-jacksons-spitzname-war-stinkie-a-03f2a667-6d32-4895-93a7-9c20f848a8f7#ref=rss)
+### großen
 
-* [https://www.spiegel.de/kultur/stuttgart-theaterleute-bringen-das-auschwitz-grauen-ins-parlament-und-liefern-wahlkampfstoff](https://www.spiegel.de/kultur/stuttgart-theaterleute-bringen-das-auschwitz-grauen-ins-parlament-und-liefern-wahlkampfstoff-a-3deb6c80-09be-42f7-bdc0-1d462e7d8716#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/saudi-arabien-12-000-jahre-alte-felsmalereien-entdeckt](https://www.spiegel.de/wissenschaft/mensch/saudi-arabien-12-000-jahre-alte-felsmalereien-entdeckt-a-b5e91c6e-9c09-4d1a-8b15-67dc203a3705#ref=rss)
-* [https://www.spiegel.de/wirtschaft/shutdown-usa-haushaltsstreit-in-der-vergangenheit](https://www.spiegel.de/wirtschaft/shutdown-usa-haushaltsstreit-in-der-vergangenheit-a-7e2f9917-ca7c-40d7-8d67-9e88af500c57#ref=rss)
-### wo
+* [https://www.spiegel.de/wirtschaft/basf-kriegt-langsam-wieder-die-kurve](https://www.spiegel.de/wirtschaft/basf-kriegt-langsam-wieder-die-kurve-a-59f420c6-7607-4a77-97fc-29aacfb60133#ref=rss)
+* [https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats](https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats-a-a052f8fb-d966-4862-81c6-2769da09f4bb#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history](https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history-a-11d84862-22f0-4671-bb03-8c11bbfefd89#ref=rss)
+### tag
 
-* [https://www.spiegel.de/kultur/stuttgart-theaterleute-bringen-das-auschwitz-grauen-ins-parlament-und-liefern-wahlkampfstoff](https://www.spiegel.de/kultur/stuttgart-theaterleute-bringen-das-auschwitz-grauen-ins-parlament-und-liefern-wahlkampfstoff-a-3deb6c80-09be-42f7-bdc0-1d462e7d8716#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-### regierung
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-ostdeutschland-ist-mehr-als-seine-defizite](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-ostdeutschland-ist-mehr-als-seine-defizite-a-eccbc749-43d9-4dea-a814-d24e59604310#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/shutdown-usa-haushaltsstreit-in-der-vergangenheit](https://www.spiegel.de/wirtschaft/shutdown-usa-haushaltsstreit-in-der-vergangenheit-a-7e2f9917-ca7c-40d7-8d67-9e88af500c57#ref=rss)
-### dagegen
+* [https://www.spiegel.de/auto/usa-branche-fuerchtet-einbruch-von-elektroauto-markt](https://www.spiegel.de/auto/usa-branche-fuerchtet-einbruch-von-elektroauto-markt-a-47d6b74a-f0d5-476c-9e85-d1fca816d1fe#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-verschaerft-kampf-gegen-informanten-offenbar-dutzende-luegendetektortests-geplant](https://www.spiegel.de/ausland/usa-pete-hegseth-verschaerft-kampf-gegen-informanten-offenbar-dutzende-luegendetektortests-geplant-a-73000a11-6cdb-4689-82c8-5199f7d01b4a#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/stephen-king-ist-laut-pen-der-meist-verbannte-autor-an-schulen-in-den-usa](https://www.spiegel.de/kultur/literatur/stephen-king-ist-laut-pen-der-meist-verbannte-autor-an-schulen-in-den-usa-a-da789227-8701-44fc-924e-bd7088bcb198#ref=rss)
+### rudi
 
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/emily-blunt-ki-schauspielerin-tilly-norwood-macht-ihr-angst](https://www.spiegel.de/panorama/leute/emily-blunt-ki-schauspielerin-tilly-norwood-macht-ihr-angst-a-6f095e98-ebc4-4dd5-8400-437e30ae33de#ref=rss)
-### selbst
+* [https://www.spiegel.de/sport/fussball/rudi-voeller-sky-doku-es-gibt-doch-nicht-nur-einen-rudi-voeller](https://www.spiegel.de/sport/fussball/rudi-voeller-sky-doku-es-gibt-doch-nicht-nur-einen-rudi-voeller-a-393fe41a-1014-4852-bfea-5fc08f0a4281#ref=rss)
+### leben
 
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben](https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben-a-4d2ecea4-bc83-49dd-9bee-ebf2a1ed6374#ref=rss)
-### überblick
+* [https://www.spiegel.de/sport/fussball/rudi-voeller-sky-doku-es-gibt-doch-nicht-nur-einen-rudi-voeller](https://www.spiegel.de/sport/fussball/rudi-voeller-sky-doku-es-gibt-doch-nicht-nur-einen-rudi-voeller-a-393fe41a-1014-4852-bfea-5fc08f0a4281#ref=rss)
+* [https://www.spiegel.de/wissenschaft/jane-goodall-ich-habe-einfach-meinen-traum-verfolgt](https://www.spiegel.de/wissenschaft/jane-goodall-ich-habe-einfach-meinen-traum-verfolgt-a-05917c2e-790d-42a6-8886-6eba80ed87f5#ref=rss)
+### autor
 
-* [https://www.spiegel.de/kultur/musik/antisemitismus-debatte-im-deutschen-kulturbetrieb-vorwuerfe-gegen-rapper-chefket-der-ueberblick](https://www.spiegel.de/kultur/musik/antisemitismus-debatte-im-deutschen-kulturbetrieb-vorwuerfe-gegen-rapper-chefket-der-ueberblick-a-6f00314a-7c1b-4186-8ce1-f765f0be05d7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/shutdown-usa-haushaltsstreit-in-der-vergangenheit](https://www.spiegel.de/wirtschaft/shutdown-usa-haushaltsstreit-in-der-vergangenheit-a-7e2f9917-ca7c-40d7-8d67-9e88af500c57#ref=rss)
-### shutdown
+* [https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history](https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history-a-11d84862-22f0-4671-bb03-8c11bbfefd89#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/stephen-king-ist-laut-pen-der-meist-verbannte-autor-an-schulen-in-den-usa](https://www.spiegel.de/kultur/literatur/stephen-king-ist-laut-pen-der-meist-verbannte-autor-an-schulen-in-den-usa-a-da789227-8701-44fc-924e-bd7088bcb198#ref=rss)
+### goodall
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bombendrohung-gegen-das-oktoberfest-shutdown-in-den-usa-elektronische-patientenakte](https://www.spiegel.de/politik/deutschland/news-des-tages-bombendrohung-gegen-das-oktoberfest-shutdown-in-den-usa-elektronische-patientenakte-a-68f89220-974a-44df-94d9-20841809781d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/shutdown-usa-haushaltsstreit-in-der-vergangenheit](https://www.spiegel.de/wirtschaft/shutdown-usa-haushaltsstreit-in-der-vergangenheit-a-7e2f9917-ca7c-40d7-8d67-9e88af500c57#ref=rss)
-### entdeckt
+* [https://www.spiegel.de/wissenschaft/jane-goodall-ich-habe-einfach-meinen-traum-verfolgt](https://www.spiegel.de/wissenschaft/jane-goodall-ich-habe-einfach-meinen-traum-verfolgt-a-05917c2e-790d-42a6-8886-6eba80ed87f5#ref=rss)
+### ende
 
-* [https://www.spiegel.de/reise/staedte/urlaubs-tipps-fuer-vancouver-lieblingsstadt-neu-entdeckt](https://www.spiegel.de/reise/staedte/urlaubs-tipps-fuer-vancouver-lieblingsstadt-neu-entdeckt-a-8c9d9104-fdc9-4a3b-b433-b78c71d30c3b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/saudi-arabien-12-000-jahre-alte-felsmalereien-entdeckt](https://www.spiegel.de/wissenschaft/mensch/saudi-arabien-12-000-jahre-alte-felsmalereien-entdeckt-a-b5e91c6e-9c09-4d1a-8b15-67dc203a3705#ref=rss)
-### donald
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-was-das-ende-des-patentschutzes-fuer-patienten-bedeutet](https://www.spiegel.de/wirtschaft/abnehmspritzen-was-das-ende-des-patentschutzes-fuer-patienten-bedeutet-a-a6e83314-59b4-4ba7-a1f7-6e9979194c84#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/andre-schuerrle-plant-extremlauf-bei-dem-am-ende-nur-noch-einer-uebrig-bleibt](https://www.spiegel.de/sport/leichtathletik/andre-schuerrle-plant-extremlauf-bei-dem-am-ende-nur-noch-einer-uebrig-bleibt-a-48fefa92-1ebf-4412-bf5d-d43b0385319e#ref=rss)
+### patienten
 
-* [https://www.spiegel.de/ausland/oberstes-us-gericht-stoppt-vorerst-entlassung-von-fed-vorstaendin-cook](https://www.spiegel.de/ausland/oberstes-us-gericht-stoppt-vorerst-entlassung-von-fed-vorstaendin-cook-a-c8abd2b0-1841-4e09-9fe3-bf1252f1ad70#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-katar-sicherheitsgarantien-nach-israelischem-angriff](https://www.spiegel.de/ausland/usa-und-katar-sicherheitsgarantien-nach-israelischem-angriff-a-101dbec7-0ec4-451f-9239-2dd3b5591fa8#ref=rss)
-### trump
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-was-das-ende-des-patentschutzes-fuer-patienten-bedeutet](https://www.spiegel.de/wirtschaft/abnehmspritzen-was-das-ende-des-patentschutzes-fuer-patienten-bedeutet-a-a6e83314-59b4-4ba7-a1f7-6e9979194c84#ref=rss)
+### bedeutet
 
-* [https://www.spiegel.de/ausland/oberstes-us-gericht-stoppt-vorerst-entlassung-von-fed-vorstaendin-cook](https://www.spiegel.de/ausland/oberstes-us-gericht-stoppt-vorerst-entlassung-von-fed-vorstaendin-cook-a-c8abd2b0-1841-4e09-9fe3-bf1252f1ad70#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-katar-sicherheitsgarantien-nach-israelischem-angriff](https://www.spiegel.de/ausland/usa-und-katar-sicherheitsgarantien-nach-israelischem-angriff-a-101dbec7-0ec4-451f-9239-2dd3b5591fa8#ref=rss)
-### ibiza
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-was-das-ende-des-patentschutzes-fuer-patienten-bedeutet](https://www.spiegel.de/wirtschaft/abnehmspritzen-was-das-ende-des-patentschutzes-fuer-patienten-bedeutet-a-a6e83314-59b4-4ba7-a1f7-6e9979194c84#ref=rss)
+### läuft
 
-* [https://www.spiegel.de/ausland/ibiza-schwere-ueberschwemmungen-auf-den-balearen](https://www.spiegel.de/ausland/ibiza-schwere-ueberschwemmungen-auf-den-balearen-a-b3ef0e43-feef-4320-87f5-8a1c769de5c0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-was-das-ende-des-patentschutzes-fuer-patienten-bedeutet](https://www.spiegel.de/wirtschaft/abnehmspritzen-was-das-ende-des-patentschutzes-fuer-patienten-bedeutet-a-a6e83314-59b4-4ba7-a1f7-6e9979194c84#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-flughafen-ber-rechnet-nach-cyber-angriff-mit-wartezeiten](https://www.spiegel.de/panorama/berlin-flughafen-ber-rechnet-nach-cyber-angriff-mit-wartezeiten-a-255fdba3-6a9a-4996-a5ce-3d40d5ca8fb6#ref=rss)
+### markt
+
+* [https://www.spiegel.de/wirtschaft/abnehmspritzen-was-das-ende-des-patentschutzes-fuer-patienten-bedeutet](https://www.spiegel.de/wirtschaft/abnehmspritzen-was-das-ende-des-patentschutzes-fuer-patienten-bedeutet-a-a6e83314-59b4-4ba7-a1f7-6e9979194c84#ref=rss)
+* [https://www.spiegel.de/auto/usa-branche-fuerchtet-einbruch-von-elektroauto-markt](https://www.spiegel.de/auto/usa-branche-fuerchtet-einbruch-von-elektroauto-markt-a-47d6b74a-f0d5-476c-9e85-d1fca816d1fe#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-belgien-kritisiert-friedrich-merz-plaene-fuer-russisches-vermoegen-scharf](https://www.spiegel.de/ausland/ukraine-krieg-belgien-kritisiert-friedrich-merz-plaene-fuer-russisches-vermoegen-scharf-a-474df64d-b7ab-4c07-902e-bc2911bac223#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-belgien-kritisiert-friedrich-merz-plaene-fuer-russisches-vermoegen-scharf](https://www.spiegel.de/ausland/ukraine-krieg-belgien-kritisiert-friedrich-merz-plaene-fuer-russisches-vermoegen-scharf-a-474df64d-b7ab-4c07-902e-bc2911bac223#ref=rss)
+### pläne
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-belgien-kritisiert-friedrich-merz-plaene-fuer-russisches-vermoegen-scharf](https://www.spiegel.de/ausland/ukraine-krieg-belgien-kritisiert-friedrich-merz-plaene-fuer-russisches-vermoegen-scharf-a-474df64d-b7ab-4c07-902e-bc2911bac223#ref=rss)
+### russisches
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-belgien-kritisiert-friedrich-merz-plaene-fuer-russisches-vermoegen-scharf](https://www.spiegel.de/ausland/ukraine-krieg-belgien-kritisiert-friedrich-merz-plaene-fuer-russisches-vermoegen-scharf-a-474df64d-b7ab-4c07-902e-bc2911bac223#ref=rss)
+### vermögen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-belgien-kritisiert-friedrich-merz-plaene-fuer-russisches-vermoegen-scharf](https://www.spiegel.de/ausland/ukraine-krieg-belgien-kritisiert-friedrich-merz-plaene-fuer-russisches-vermoegen-scharf-a-474df64d-b7ab-4c07-902e-bc2911bac223#ref=rss)
+### nutzen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-belgien-kritisiert-friedrich-merz-plaene-fuer-russisches-vermoegen-scharf](https://www.spiegel.de/ausland/ukraine-krieg-belgien-kritisiert-friedrich-merz-plaene-fuer-russisches-vermoegen-scharf-a-474df64d-b7ab-4c07-902e-bc2911bac223#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wladimir-putins-geheimdienste-wie-die-cyberattacke-auf-den-bundestag-gelang-podcast](https://www.spiegel.de/politik/deutschland/wladimir-putins-geheimdienste-wie-die-cyberattacke-auf-den-bundestag-gelang-podcast-a-7ac69321-7f4c-4981-9994-27e4d25bb2f5#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fc-st-pauli-jackson-irvine-sorgt-mit-palaestina-shirt-und-instagram-post-fuer-unruhe](https://www.spiegel.de/sport/fussball/fc-st-pauli-jackson-irvine-sorgt-mit-palaestina-shirt-und-instagram-post-fuer-unruhe-a-ab60c883-8913-4196-b7f3-8fc5f7e0ce12#ref=rss)
+* [https://www.spiegel.de/sport/fussball/paris-saint-germain-dominiert-beim-fc-barcelona-so-gut-dass-es-den-gegner-deprimiert](https://www.spiegel.de/sport/fussball/paris-saint-germain-dominiert-beim-fc-barcelona-so-gut-dass-es-den-gegner-deprimiert-a-9052f99e-790b-4b67-9029-571b6b2ce71c#ref=rss)
+### irvine
+
+* [https://www.spiegel.de/sport/fussball/fc-st-pauli-jackson-irvine-sorgt-mit-palaestina-shirt-und-instagram-post-fuer-unruhe](https://www.spiegel.de/sport/fussball/fc-st-pauli-jackson-irvine-sorgt-mit-palaestina-shirt-und-instagram-post-fuer-unruhe-a-ab60c883-8913-4196-b7f3-8fc5f7e0ce12#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-stoppt-teile-der-global-sumud-flotilla](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-stoppt-teile-der-global-sumud-flotilla-a-73936f31-f104-4c07-ad88-fe0ec3e912fb#ref=rss)
+### rauchen
+
+* [https://www.spiegel.de/start/sucht-warum-rauchen-so-viele-im-studium](https://www.spiegel.de/start/sucht-warum-rauchen-so-viele-im-studium-a-9b991f4a-eb81-4fc1-bcb4-e96ff6ed90ca#ref=rss)
+### verzichtet
+
+* [https://www.spiegel.de/start/sucht-warum-rauchen-so-viele-im-studium](https://www.spiegel.de/start/sucht-warum-rauchen-so-viele-im-studium-a-9b991f4a-eb81-4fc1-bcb4-e96ff6ed90ca#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-kader-zur-wm-qualifikation-julian-nagelsmann-verzichtet-auf-niclas-fuellkrug](https://www.spiegel.de/sport/fussball/dfb-kader-zur-wm-qualifikation-julian-nagelsmann-verzichtet-auf-niclas-fuellkrug-a-599ac335-042d-49ba-bf93-ba3f02356188#ref=rss)
+### findet
+
+* [https://www.spiegel.de/start/sucht-warum-rauchen-so-viele-im-studium](https://www.spiegel.de/start/sucht-warum-rauchen-so-viele-im-studium-a-9b991f4a-eb81-4fc1-bcb4-e96ff6ed90ca#ref=rss)
+* [https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats](https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats-a-a052f8fb-d966-4862-81c6-2769da09f4bb#ref=rss)
 ### zeigen
 
-* [https://www.spiegel.de/ausland/ibiza-schwere-ueberschwemmungen-auf-den-balearen](https://www.spiegel.de/ausland/ibiza-schwere-ueberschwemmungen-auf-den-balearen-a-b3ef0e43-feef-4320-87f5-8a1c769de5c0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/saudi-arabien-12-000-jahre-alte-felsmalereien-entdeckt](https://www.spiegel.de/wissenschaft/mensch/saudi-arabien-12-000-jahre-alte-felsmalereien-entdeckt-a-b5e91c6e-9c09-4d1a-8b15-67dc203a3705#ref=rss)
-### region
+* [https://www.spiegel.de/wirtschaft/basf-kriegt-langsam-wieder-die-kurve](https://www.spiegel.de/wirtschaft/basf-kriegt-langsam-wieder-die-kurve-a-59f420c6-7607-4a77-97fc-29aacfb60133#ref=rss)
+* [https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats](https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats-a-a052f8fb-d966-4862-81c6-2769da09f4bb#ref=rss)
+### vergangenen
 
-* [https://www.spiegel.de/ausland/ibiza-schwere-ueberschwemmungen-auf-den-balearen](https://www.spiegel.de/ausland/ibiza-schwere-ueberschwemmungen-auf-den-balearen-a-b3ef0e43-feef-4320-87f5-8a1c769de5c0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/saudi-arabien-12-000-jahre-alte-felsmalereien-entdeckt](https://www.spiegel.de/wissenschaft/mensch/saudi-arabien-12-000-jahre-alte-felsmalereien-entdeckt-a-b5e91c6e-9c09-4d1a-8b15-67dc203a3705#ref=rss)
-### sexuellen
+* [https://www.spiegel.de/wirtschaft/basf-kriegt-langsam-wieder-die-kurve](https://www.spiegel.de/wirtschaft/basf-kriegt-langsam-wieder-die-kurve-a-59f420c6-7607-4a77-97fc-29aacfb60133#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/stephen-king-ist-laut-pen-der-meist-verbannte-autor-an-schulen-in-den-usa](https://www.spiegel.de/kultur/literatur/stephen-king-ist-laut-pen-der-meist-verbannte-autor-an-schulen-in-den-usa-a-da789227-8701-44fc-924e-bd7088bcb198#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/panorama/essen-ex-fussballtrainer-wegen-sexuellen-missbrauchs-verurteilt](https://www.spiegel.de/panorama/essen-ex-fussballtrainer-wegen-sexuellen-missbrauchs-verurteilt-a-1895a301-cb94-4893-bef4-274559efa3dc#ref=rss)
-### missbrauchs
+* [https://www.spiegel.de/wirtschaft/basf-kriegt-langsam-wieder-die-kurve](https://www.spiegel.de/wirtschaft/basf-kriegt-langsam-wieder-die-kurve-a-59f420c6-7607-4a77-97fc-29aacfb60133#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/stephen-king-ist-laut-pen-der-meist-verbannte-autor-an-schulen-in-den-usa](https://www.spiegel.de/kultur/literatur/stephen-king-ist-laut-pen-der-meist-verbannte-autor-an-schulen-in-den-usa-a-da789227-8701-44fc-924e-bd7088bcb198#ref=rss)
+### paris
 
-* [https://www.spiegel.de/panorama/essen-ex-fussballtrainer-wegen-sexuellen-missbrauchs-verurteilt](https://www.spiegel.de/panorama/essen-ex-fussballtrainer-wegen-sexuellen-missbrauchs-verurteilt-a-1895a301-cb94-4893-bef4-274559efa3dc#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/sport/fussball/paris-saint-germain-dominiert-beim-fc-barcelona-so-gut-dass-es-den-gegner-deprimiert](https://www.spiegel.de/sport/fussball/paris-saint-germain-dominiert-beim-fc-barcelona-so-gut-dass-es-den-gegner-deprimiert-a-9052f99e-790b-4b67-9029-571b6b2ce71c#ref=rss)
+### saintgermain
 
-* [https://www.spiegel.de/panorama/essen-ex-fussballtrainer-wegen-sexuellen-missbrauchs-verurteilt](https://www.spiegel.de/panorama/essen-ex-fussballtrainer-wegen-sexuellen-missbrauchs-verurteilt-a-1895a301-cb94-4893-bef4-274559efa3dc#ref=rss)
-### schleswigholstein
+* [https://www.spiegel.de/sport/fussball/paris-saint-germain-dominiert-beim-fc-barcelona-so-gut-dass-es-den-gegner-deprimiert](https://www.spiegel.de/sport/fussball/paris-saint-germain-dominiert-beim-fc-barcelona-so-gut-dass-es-den-gegner-deprimiert-a-9052f99e-790b-4b67-9029-571b6b2ce71c#ref=rss)
+### dominiert
 
-* [https://www.spiegel.de/politik/deutschland/drohnen-ueber-schleswig-holstein-daniel-guenther-fordert-effektive-und-funktionierende-drohnenabwehr-russland-schattenflotte-unter-verdacht](https://www.spiegel.de/politik/deutschland/drohnen-ueber-schleswig-holstein-daniel-guenther-fordert-effektive-und-funktionierende-drohnenabwehr-russland-schattenflotte-unter-verdacht-a-b1da5751-87d3-46fb-8233-0492a626cfe5#ref=rss)
-### effektive
+* [https://www.spiegel.de/sport/fussball/paris-saint-germain-dominiert-beim-fc-barcelona-so-gut-dass-es-den-gegner-deprimiert](https://www.spiegel.de/sport/fussball/paris-saint-germain-dominiert-beim-fc-barcelona-so-gut-dass-es-den-gegner-deprimiert-a-9052f99e-790b-4b67-9029-571b6b2ce71c#ref=rss)
+### barcelona
 
-* [https://www.spiegel.de/politik/deutschland/drohnen-ueber-schleswig-holstein-daniel-guenther-fordert-effektive-und-funktionierende-drohnenabwehr-russland-schattenflotte-unter-verdacht](https://www.spiegel.de/politik/deutschland/drohnen-ueber-schleswig-holstein-daniel-guenther-fordert-effektive-und-funktionierende-drohnenabwehr-russland-schattenflotte-unter-verdacht-a-b1da5751-87d3-46fb-8233-0492a626cfe5#ref=rss)
-### drohnenabwehr
+* [https://www.spiegel.de/sport/fussball/paris-saint-germain-dominiert-beim-fc-barcelona-so-gut-dass-es-den-gegner-deprimiert](https://www.spiegel.de/sport/fussball/paris-saint-germain-dominiert-beim-fc-barcelona-so-gut-dass-es-den-gegner-deprimiert-a-9052f99e-790b-4b67-9029-571b6b2ce71c#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/politik/deutschland/drohnen-ueber-schleswig-holstein-daniel-guenther-fordert-effektive-und-funktionierende-drohnenabwehr-russland-schattenflotte-unter-verdacht](https://www.spiegel.de/politik/deutschland/drohnen-ueber-schleswig-holstein-daniel-guenther-fordert-effektive-und-funktionierende-drohnenabwehr-russland-schattenflotte-unter-verdacht-a-b1da5751-87d3-46fb-8233-0492a626cfe5#ref=rss)
-### schattenflotte
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### crumpsall
 
-* [https://www.spiegel.de/politik/deutschland/drohnen-ueber-schleswig-holstein-daniel-guenther-fordert-effektive-und-funktionierende-drohnenabwehr-russland-schattenflotte-unter-verdacht](https://www.spiegel.de/politik/deutschland/drohnen-ueber-schleswig-holstein-daniel-guenther-fordert-effektive-und-funktionierende-drohnenabwehr-russland-schattenflotte-unter-verdacht-a-b1da5751-87d3-46fb-8233-0492a626cfe5#ref=rss)
-### unter
+* [https://www.spiegel.de/ausland/crumpsall-messerangreifer-verletzt-menschen-vor-synagoge-bei-manchester](https://www.spiegel.de/ausland/crumpsall-messerangreifer-verletzt-menschen-vor-synagoge-bei-manchester-a-dc15c590-3928-4daf-aee2-adcb74ccde19#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/politik/deutschland/drohnen-ueber-schleswig-holstein-daniel-guenther-fordert-effektive-und-funktionierende-drohnenabwehr-russland-schattenflotte-unter-verdacht](https://www.spiegel.de/politik/deutschland/drohnen-ueber-schleswig-holstein-daniel-guenther-fordert-effektive-und-funktionierende-drohnenabwehr-russland-schattenflotte-unter-verdacht-a-b1da5751-87d3-46fb-8233-0492a626cfe5#ref=rss)
-### verdacht
+* [https://www.spiegel.de/ausland/crumpsall-messerangreifer-verletzt-menschen-vor-synagoge-bei-manchester](https://www.spiegel.de/ausland/crumpsall-messerangreifer-verletzt-menschen-vor-synagoge-bei-manchester-a-dc15c590-3928-4daf-aee2-adcb74ccde19#ref=rss)
+* [https://www.spiegel.de/panorama/new-york-kollision-zweier-flugzeuge-auf-flughafen-laguardia](https://www.spiegel.de/panorama/new-york-kollision-zweier-flugzeuge-auf-flughafen-laguardia-a-7e6410ee-ba7e-4026-877f-f3fe7feca152#ref=rss)
+### synagoge
 
-* [https://www.spiegel.de/politik/deutschland/drohnen-ueber-schleswig-holstein-daniel-guenther-fordert-effektive-und-funktionierende-drohnenabwehr-russland-schattenflotte-unter-verdacht](https://www.spiegel.de/politik/deutschland/drohnen-ueber-schleswig-holstein-daniel-guenther-fordert-effektive-und-funktionierende-drohnenabwehr-russland-schattenflotte-unter-verdacht-a-b1da5751-87d3-46fb-8233-0492a626cfe5#ref=rss)
-### charlie
+* [https://www.spiegel.de/ausland/crumpsall-messerangreifer-verletzt-menschen-vor-synagoge-bei-manchester](https://www.spiegel.de/ausland/crumpsall-messerangreifer-verletzt-menschen-vor-synagoge-bei-manchester-a-dc15c590-3928-4daf-aee2-adcb74ccde19#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/ausland/charlie-kirk-zdf-korrespondent-elmar-thevessen-entschuldigt-sich-fuer-falsche-berichterstattung](https://www.spiegel.de/ausland/charlie-kirk-zdf-korrespondent-elmar-thevessen-entschuldigt-sich-fuer-falsche-berichterstattung-a-1a927e58-a565-46ad-8872-eb068229b789#ref=rss)
-### kirk
+* [https://www.spiegel.de/ausland/crumpsall-messerangreifer-verletzt-menschen-vor-synagoge-bei-manchester](https://www.spiegel.de/ausland/crumpsall-messerangreifer-verletzt-menschen-vor-synagoge-bei-manchester-a-dc15c590-3928-4daf-aee2-adcb74ccde19#ref=rss)
+* [https://www.spiegel.de/panorama/michigan-mormonen-mitglied-startet-spendenkampagne-fuer-familie-eines-mutmasslichen-todesschuetzen](https://www.spiegel.de/panorama/michigan-mormonen-mitglied-startet-spendenkampagne-fuer-familie-eines-mutmasslichen-todesschuetzen-a-39b5982e-40ea-4913-b5b8-14e05c7513c0#ref=rss)
+### fans
 
-* [https://www.spiegel.de/ausland/charlie-kirk-zdf-korrespondent-elmar-thevessen-entschuldigt-sich-fuer-falsche-berichterstattung](https://www.spiegel.de/ausland/charlie-kirk-zdf-korrespondent-elmar-thevessen-entschuldigt-sich-fuer-falsche-berichterstattung-a-1a927e58-a565-46ad-8872-eb068229b789#ref=rss)
-### elmar
+* [https://www.spiegel.de/sport/fussball/rudi-voeller-sky-doku-es-gibt-doch-nicht-nur-einen-rudi-voeller](https://www.spiegel.de/sport/fussball/rudi-voeller-sky-doku-es-gibt-doch-nicht-nur-einen-rudi-voeller-a-393fe41a-1014-4852-bfea-5fc08f0a4281#ref=rss)
+* [https://www.spiegel.de/kultur/bill-burr-verteidigt-seinen-auftritt-bei-comedyfestival-in-riad](https://www.spiegel.de/kultur/bill-burr-verteidigt-seinen-auftritt-bei-comedyfestival-in-riad-a-94433e4b-33a0-41fd-9705-2c82a0fde565#ref=rss)
+### frau
 
-* [https://www.spiegel.de/ausland/charlie-kirk-zdf-korrespondent-elmar-thevessen-entschuldigt-sich-fuer-falsche-berichterstattung](https://www.spiegel.de/ausland/charlie-kirk-zdf-korrespondent-elmar-thevessen-entschuldigt-sich-fuer-falsche-berichterstattung-a-1a927e58-a565-46ad-8872-eb068229b789#ref=rss)
-### theveßen
+* [https://www.spiegel.de/sport/fussball/rudi-voeller-sky-doku-es-gibt-doch-nicht-nur-einen-rudi-voeller](https://www.spiegel.de/sport/fussball/rudi-voeller-sky-doku-es-gibt-doch-nicht-nur-einen-rudi-voeller-a-393fe41a-1014-4852-bfea-5fc08f0a4281#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/instagram-chef-adam-mosseri-ich-schwoere-wir-hoeren-eure-mikrofone-ncht-ab](https://www.spiegel.de/netzwelt/web/instagram-chef-adam-mosseri-ich-schwoere-wir-hoeren-eure-mikrofone-ncht-ab-a-6a4684c0-1a7b-4015-8bb2-59a54b5c958f#ref=rss)
+### union
 
-* [https://www.spiegel.de/ausland/charlie-kirk-zdf-korrespondent-elmar-thevessen-entschuldigt-sich-fuer-falsche-berichterstattung](https://www.spiegel.de/ausland/charlie-kirk-zdf-korrespondent-elmar-thevessen-entschuldigt-sich-fuer-falsche-berichterstattung-a-1a927e58-a565-46ad-8872-eb068229b789#ref=rss)
-### entschuldigt
+* [https://www.spiegel.de/wissenschaft/mensch/klimaziele-union-debattiert-ueber-klimaneutralitaet-bis-2045](https://www.spiegel.de/wissenschaft/mensch/klimaziele-union-debattiert-ueber-klimaneutralitaet-bis-2045-a-0db532f1-96e7-4eb1-a7c2-3573ded80f09#ref=rss)
+### 2045
 
-* [https://www.spiegel.de/ausland/charlie-kirk-zdf-korrespondent-elmar-thevessen-entschuldigt-sich-fuer-falsche-berichterstattung](https://www.spiegel.de/ausland/charlie-kirk-zdf-korrespondent-elmar-thevessen-entschuldigt-sich-fuer-falsche-berichterstattung-a-1a927e58-a565-46ad-8872-eb068229b789#ref=rss)
-### zog
+* [https://www.spiegel.de/wissenschaft/mensch/klimaziele-union-debattiert-ueber-klimaneutralitaet-bis-2045](https://www.spiegel.de/wissenschaft/mensch/klimaziele-union-debattiert-ueber-klimaneutralitaet-bis-2045-a-0db532f1-96e7-4eb1-a7c2-3573ded80f09#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/charlie-kirk-zdf-korrespondent-elmar-thevessen-entschuldigt-sich-fuer-falsche-berichterstattung](https://www.spiegel.de/ausland/charlie-kirk-zdf-korrespondent-elmar-thevessen-entschuldigt-sich-fuer-falsche-berichterstattung-a-1a927e58-a565-46ad-8872-eb068229b789#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-frauke-brosius-gersdorf-hadert-mit-entscheidung-ueber-rueckzug](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-frauke-brosius-gersdorf-hadert-mit-entscheidung-ueber-rueckzug-a-a202037f-23d1-4520-9cd9-02843ca69a45#ref=rss)
-### streit
+* [https://www.spiegel.de/wissenschaft/mensch/klimaziele-union-debattiert-ueber-klimaneutralitaet-bis-2045](https://www.spiegel.de/wissenschaft/mensch/klimaziele-union-debattiert-ueber-klimaneutralitaet-bis-2045-a-0db532f1-96e7-4eb1-a7c2-3573ded80f09#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ein-fuenftel-der-menschen-im-ruhestand-muss-mit-1400-euro-auskommen](https://www.spiegel.de/wirtschaft/ein-fuenftel-der-menschen-im-ruhestand-muss-mit-1400-euro-auskommen-a-b1248f8f-f040-4469-99a1-a72dfd75b105#ref=rss)
+### lionel
 
-* [https://www.spiegel.de/kultur/kulturkampf-streit-um-boehmermann-ausstellung-und-abgesagtes-chefket-konzert](https://www.spiegel.de/kultur/kulturkampf-streit-um-boehmermann-ausstellung-und-abgesagtes-chefket-konzert-a-9011412e-2e17-478e-927e-620d12b0a07b#ref=rss)
-### abgesagtes
+* [https://www.spiegel.de/kultur/musik/lionel-richie-spitzname-von-michael-jacksons-spitzname-war-stinkie](https://www.spiegel.de/kultur/musik/lionel-richie-spitzname-von-michael-jacksons-spitzname-war-stinkie-a-03f2a667-6d32-4895-93a7-9c20f848a8f7#ref=rss)
+### richie
 
-* [https://www.spiegel.de/kultur/kulturkampf-streit-um-boehmermann-ausstellung-und-abgesagtes-chefket-konzert](https://www.spiegel.de/kultur/kulturkampf-streit-um-boehmermann-ausstellung-und-abgesagtes-chefket-konzert-a-9011412e-2e17-478e-927e-620d12b0a07b#ref=rss)
-### rapper
+* [https://www.spiegel.de/kultur/musik/lionel-richie-spitzname-von-michael-jacksons-spitzname-war-stinkie](https://www.spiegel.de/kultur/musik/lionel-richie-spitzname-von-michael-jacksons-spitzname-war-stinkie-a-03f2a667-6d32-4895-93a7-9c20f848a8f7#ref=rss)
+### spitzname
 
-* [https://www.spiegel.de/kultur/kulturkampf-streit-um-boehmermann-ausstellung-und-abgesagtes-chefket-konzert](https://www.spiegel.de/kultur/kulturkampf-streit-um-boehmermann-ausstellung-und-abgesagtes-chefket-konzert-a-9011412e-2e17-478e-927e-620d12b0a07b#ref=rss)
-* [https://www.spiegel.de/kultur/musik/antisemitismus-debatte-im-deutschen-kulturbetrieb-vorwuerfe-gegen-rapper-chefket-der-ueberblick](https://www.spiegel.de/kultur/musik/antisemitismus-debatte-im-deutschen-kulturbetrieb-vorwuerfe-gegen-rapper-chefket-der-ueberblick-a-6f00314a-7c1b-4186-8ce1-f765f0be05d7#ref=rss)
-### böhmermann
+* [https://www.spiegel.de/kultur/musik/lionel-richie-spitzname-von-michael-jacksons-spitzname-war-stinkie](https://www.spiegel.de/kultur/musik/lionel-richie-spitzname-von-michael-jacksons-spitzname-war-stinkie-a-03f2a667-6d32-4895-93a7-9c20f848a8f7#ref=rss)
+### michael
 
-* [https://www.spiegel.de/kultur/kulturkampf-streit-um-boehmermann-ausstellung-und-abgesagtes-chefket-konzert](https://www.spiegel.de/kultur/kulturkampf-streit-um-boehmermann-ausstellung-und-abgesagtes-chefket-konzert-a-9011412e-2e17-478e-927e-620d12b0a07b#ref=rss)
-* [https://www.spiegel.de/kultur/jan-boehmermann-ausstellung-in-berlin-warum-ist-es-so-still-um-dieses-werk](https://www.spiegel.de/kultur/jan-boehmermann-ausstellung-in-berlin-warum-ist-es-so-still-um-dieses-werk-a-a9d66028-3072-45e2-91f9-9f9fd8eb4bb3#ref=rss)
-### bank
+* [https://www.spiegel.de/kultur/musik/lionel-richie-spitzname-von-michael-jacksons-spitzname-war-stinkie](https://www.spiegel.de/kultur/musik/lionel-richie-spitzname-von-michael-jacksons-spitzname-war-stinkie-a-03f2a667-6d32-4895-93a7-9c20f848a8f7#ref=rss)
+### cyberattacke
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-ex-manager-wollen-schadensersatz](https://www.spiegel.de/wirtschaft/deutsche-bank-ex-manager-wollen-schadensersatz-a-b8afe4c5-73b9-4627-a51c-d40fb964aeea#ref=rss)
-### schadensersatz
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-ex-manager-wollen-schadensersatz](https://www.spiegel.de/wirtschaft/deutsche-bank-ex-manager-wollen-schadensersatz-a-b8afe4c5-73b9-4627-a51c-d40fb964aeea#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-ex-manager-wollen-schadensersatz](https://www.spiegel.de/wirtschaft/deutsche-bank-ex-manager-wollen-schadensersatz-a-b8afe4c5-73b9-4627-a51c-d40fb964aeea#ref=rss)
-* [https://www.spiegel.de/kultur/musik/antisemitismus-debatte-im-deutschen-kulturbetrieb-vorwuerfe-gegen-rapper-chefket-der-ueberblick](https://www.spiegel.de/kultur/musik/antisemitismus-debatte-im-deutschen-kulturbetrieb-vorwuerfe-gegen-rapper-chefket-der-ueberblick-a-6f00314a-7c1b-4186-8ce1-f765f0be05d7#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/kultur/stuttgart-theaterleute-bringen-das-auschwitz-grauen-ins-parlament-und-liefern-wahlkampfstoff](https://www.spiegel.de/kultur/stuttgart-theaterleute-bringen-das-auschwitz-grauen-ins-parlament-und-liefern-wahlkampfstoff-a-3deb6c80-09be-42f7-bdc0-1d462e7d8716#ref=rss)
-### stellenstreichungen
-
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-### industrie
-
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-### verhindert
-
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wladimir-putins-geheimdienste-wie-die-cyberattacke-auf-den-bundestag-gelang-podcast](https://www.spiegel.de/politik/deutschland/wladimir-putins-geheimdienste-wie-die-cyberattacke-auf-den-bundestag-gelang-podcast-a-7ac69321-7f4c-4981-9994-27e4d25bb2f5#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-flughafen-ber-rechnet-nach-cyber-angriff-mit-wartezeiten](https://www.spiegel.de/panorama/berlin-flughafen-ber-rechnet-nach-cyber-angriff-mit-wartezeiten-a-255fdba3-6a9a-4996-a5ce-3d40d5ca8fb6#ref=rss)
 ### podcast
 
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-### konzerne
+* [https://www.spiegel.de/politik/deutschland/wladimir-putins-geheimdienste-wie-die-cyberattacke-auf-den-bundestag-gelang-podcast](https://www.spiegel.de/politik/deutschland/wladimir-putins-geheimdienste-wie-die-cyberattacke-auf-den-bundestag-gelang-podcast-a-7ac69321-7f4c-4981-9994-27e4d25bb2f5#ref=rss)
+### hören
 
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-### streichen
+* [https://www.spiegel.de/politik/deutschland/wladimir-putins-geheimdienste-wie-die-cyberattacke-auf-den-bundestag-gelang-podcast](https://www.spiegel.de/politik/deutschland/wladimir-putins-geheimdienste-wie-die-cyberattacke-auf-den-bundestag-gelang-podcast-a-7ac69321-7f4c-4981-9994-27e4d25bb2f5#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/instagram-chef-adam-mosseri-ich-schwoere-wir-hoeren-eure-mikrofone-ncht-ab](https://www.spiegel.de/netzwelt/web/instagram-chef-adam-mosseri-ich-schwoere-wir-hoeren-eure-mikrofone-ncht-ab-a-6a4684c0-1a7b-4015-8bb2-59a54b5c958f#ref=rss)
+### vorgehen
 
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-### zehntausende
+* [https://www.spiegel.de/politik/deutschland/wladimir-putins-geheimdienste-wie-die-cyberattacke-auf-den-bundestag-gelang-podcast](https://www.spiegel.de/politik/deutschland/wladimir-putins-geheimdienste-wie-die-cyberattacke-auf-den-bundestag-gelang-podcast-a-7ac69321-7f4c-4981-9994-27e4d25bb2f5#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-verschaerft-kampf-gegen-informanten-offenbar-dutzende-luegendetektortests-geplant](https://www.spiegel.de/ausland/usa-pete-hegseth-verschaerft-kampf-gegen-informanten-offenbar-dutzende-luegendetektortests-geplant-a-73000a11-6cdb-4689-82c8-5199f7d01b4a#ref=rss)
+### flughafen
 
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-### stellen
+* [https://www.spiegel.de/panorama/berlin-flughafen-ber-rechnet-nach-cyber-angriff-mit-wartezeiten](https://www.spiegel.de/panorama/berlin-flughafen-ber-rechnet-nach-cyber-angriff-mit-wartezeiten-a-255fdba3-6a9a-4996-a5ce-3d40d5ca8fb6#ref=rss)
+* [https://www.spiegel.de/panorama/new-york-kollision-zweier-flugzeuge-auf-flughafen-laguardia](https://www.spiegel.de/panorama/new-york-kollision-zweier-flugzeuge-auf-flughafen-laguardia-a-7e6410ee-ba7e-4026-877f-f3fe7feca152#ref=rss)
+### ber
 
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-### unternehmen
+* [https://www.spiegel.de/panorama/berlin-flughafen-ber-rechnet-nach-cyber-angriff-mit-wartezeiten](https://www.spiegel.de/panorama/berlin-flughafen-ber-rechnet-nach-cyber-angriff-mit-wartezeiten-a-255fdba3-6a9a-4996-a5ce-3d40d5ca8fb6#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-### handeln
+* [https://www.spiegel.de/panorama/berlin-flughafen-ber-rechnet-nach-cyber-angriff-mit-wartezeiten](https://www.spiegel.de/panorama/berlin-flughafen-ber-rechnet-nach-cyber-angriff-mit-wartezeiten-a-255fdba3-6a9a-4996-a5ce-3d40d5ca8fb6#ref=rss)
+* [https://www.spiegel.de/panorama/new-york-kollision-zweier-flugzeuge-auf-flughafen-laguardia](https://www.spiegel.de/panorama/new-york-kollision-zweier-flugzeuge-auf-flughafen-laguardia-a-7e6410ee-ba7e-4026-877f-f3fe7feca152#ref=rss)
+### wmqualifikation
 
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-### branche
+* [https://www.spiegel.de/sport/fussball/dfb-kader-zur-wm-qualifikation-julian-nagelsmann-verzichtet-auf-niclas-fuellkrug](https://www.spiegel.de/sport/fussball/dfb-kader-zur-wm-qualifikation-julian-nagelsmann-verzichtet-auf-niclas-fuellkrug-a-599ac335-042d-49ba-bf93-ba3f02356188#ref=rss)
+### julian
 
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-### hoffnung
+* [https://www.spiegel.de/sport/fussball/dfb-kader-zur-wm-qualifikation-julian-nagelsmann-verzichtet-auf-niclas-fuellkrug](https://www.spiegel.de/sport/fussball/dfb-kader-zur-wm-qualifikation-julian-nagelsmann-verzichtet-auf-niclas-fuellkrug-a-599ac335-042d-49ba-bf93-ba3f02356188#ref=rss)
+### nagelsmann
 
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-### gilt
+* [https://www.spiegel.de/sport/fussball/dfb-kader-zur-wm-qualifikation-julian-nagelsmann-verzichtet-auf-niclas-fuellkrug](https://www.spiegel.de/sport/fussball/dfb-kader-zur-wm-qualifikation-julian-nagelsmann-verzichtet-auf-niclas-fuellkrug-a-599ac335-042d-49ba-bf93-ba3f02356188#ref=rss)
+### niclas
 
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-4619846c-f964-4ab1-bb28-7110bee2f903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast](https://www.spiegel.de/wirtschaft/vw-bosch-thyssenkrupp-wie-koennen-stellenstreichungen-in-der-industrie-verhindert-werden-podcast-a-df35a4c4-9026-4d5a-ad6a-66088c1e542e#ref=rss)
-### stimmung
+* [https://www.spiegel.de/sport/fussball/dfb-kader-zur-wm-qualifikation-julian-nagelsmann-verzichtet-auf-niclas-fuellkrug](https://www.spiegel.de/sport/fussball/dfb-kader-zur-wm-qualifikation-julian-nagelsmann-verzichtet-auf-niclas-fuellkrug-a-599ac335-042d-49ba-bf93-ba3f02356188#ref=rss)
+### füllkrug
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-seine-minister-in-der-villa-borsig-super-stimmung-nee-wirklich-alles-ganz-toll](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-seine-minister-in-der-villa-borsig-super-stimmung-nee-wirklich-alles-ganz-toll-a-8be90f3c-545f-4852-9e7f-11e4f4326702#ref=rss)
-### frage
+* [https://www.spiegel.de/sport/fussball/dfb-kader-zur-wm-qualifikation-julian-nagelsmann-verzichtet-auf-niclas-fuellkrug](https://www.spiegel.de/sport/fussball/dfb-kader-zur-wm-qualifikation-julian-nagelsmann-verzichtet-auf-niclas-fuellkrug-a-599ac335-042d-49ba-bf93-ba3f02356188#ref=rss)
+### pete
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-seine-minister-in-der-villa-borsig-super-stimmung-nee-wirklich-alles-ganz-toll](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-seine-minister-in-der-villa-borsig-super-stimmung-nee-wirklich-alles-ganz-toll-a-8be90f3c-545f-4852-9e7f-11e4f4326702#ref=rss)
-* [https://www.spiegel.de/reise/staedte/urlaubs-tipps-fuer-vancouver-lieblingsstadt-neu-entdeckt](https://www.spiegel.de/reise/staedte/urlaubs-tipps-fuer-vancouver-lieblingsstadt-neu-entdeckt-a-8c9d9104-fdc9-4a3b-b433-b78c71d30c3b#ref=rss)
-### ausstellung
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-verschaerft-kampf-gegen-informanten-offenbar-dutzende-luegendetektortests-geplant](https://www.spiegel.de/ausland/usa-pete-hegseth-verschaerft-kampf-gegen-informanten-offenbar-dutzende-luegendetektortests-geplant-a-73000a11-6cdb-4689-82c8-5199f7d01b4a#ref=rss)
+### hegseth
 
-* [https://www.spiegel.de/kultur/musik/antisemitismus-debatte-im-deutschen-kulturbetrieb-vorwuerfe-gegen-rapper-chefket-der-ueberblick](https://www.spiegel.de/kultur/musik/antisemitismus-debatte-im-deutschen-kulturbetrieb-vorwuerfe-gegen-rapper-chefket-der-ueberblick-a-6f00314a-7c1b-4186-8ce1-f765f0be05d7#ref=rss)
-* [https://www.spiegel.de/kultur/jan-boehmermann-ausstellung-in-berlin-warum-ist-es-so-still-um-dieses-werk](https://www.spiegel.de/kultur/jan-boehmermann-ausstellung-in-berlin-warum-ist-es-so-still-um-dieses-werk-a-a9d66028-3072-45e2-91f9-9f9fd8eb4bb3#ref=rss)
-### rbb
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-verschaerft-kampf-gegen-informanten-offenbar-dutzende-luegendetektortests-geplant](https://www.spiegel.de/ausland/usa-pete-hegseth-verschaerft-kampf-gegen-informanten-offenbar-dutzende-luegendetektortests-geplant-a-73000a11-6cdb-4689-82c8-5199f7d01b4a#ref=rss)
+### verschärft
 
-* [https://www.spiegel.de/kultur/rbb-massiver-widerstand-gegen-neuen-programmdirektor](https://www.spiegel.de/kultur/rbb-massiver-widerstand-gegen-neuen-programmdirektor-a-0fa109b7-0b64-45e8-988c-5dc0c6d6717f#ref=rss)
-### neuen
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-verschaerft-kampf-gegen-informanten-offenbar-dutzende-luegendetektortests-geplant](https://www.spiegel.de/ausland/usa-pete-hegseth-verschaerft-kampf-gegen-informanten-offenbar-dutzende-luegendetektortests-geplant-a-73000a11-6cdb-4689-82c8-5199f7d01b4a#ref=rss)
+### informanten
 
-* [https://www.spiegel.de/kultur/rbb-massiver-widerstand-gegen-neuen-programmdirektor](https://www.spiegel.de/kultur/rbb-massiver-widerstand-gegen-neuen-programmdirektor-a-0fa109b7-0b64-45e8-988c-5dc0c6d6717f#ref=rss)
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neuen-filme-und-serien-im-oktober-2025-was-sich-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neuen-filme-und-serien-im-oktober-2025-was-sich-lohnt-a-19ea0f30-c481-4af2-9afb-72925564f231#ref=rss)
-### amt
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-verschaerft-kampf-gegen-informanten-offenbar-dutzende-luegendetektortests-geplant](https://www.spiegel.de/ausland/usa-pete-hegseth-verschaerft-kampf-gegen-informanten-offenbar-dutzende-luegendetektortests-geplant-a-73000a11-6cdb-4689-82c8-5199f7d01b4a#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/kultur/rbb-massiver-widerstand-gegen-neuen-programmdirektor](https://www.spiegel.de/kultur/rbb-massiver-widerstand-gegen-neuen-programmdirektor-a-0fa109b7-0b64-45e8-988c-5dc0c6d6717f#ref=rss)
-* [https://www.spiegel.de/ausland/oberstes-us-gericht-stoppt-vorerst-entlassung-von-fed-vorstaendin-cook](https://www.spiegel.de/ausland/oberstes-us-gericht-stoppt-vorerst-entlassung-von-fed-vorstaendin-cook-a-c8abd2b0-1841-4e09-9fe3-bf1252f1ad70#ref=rss)
-### oktoberfest
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-verschaerft-kampf-gegen-informanten-offenbar-dutzende-luegendetektortests-geplant](https://www.spiegel.de/ausland/usa-pete-hegseth-verschaerft-kampf-gegen-informanten-offenbar-dutzende-luegendetektortests-geplant-a-73000a11-6cdb-4689-82c8-5199f7d01b4a#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/instagram-chef-adam-mosseri-ich-schwoere-wir-hoeren-eure-mikrofone-ncht-ab](https://www.spiegel.de/netzwelt/web/instagram-chef-adam-mosseri-ich-schwoere-wir-hoeren-eure-mikrofone-ncht-ab-a-6a4684c0-1a7b-4015-8bb2-59a54b5c958f#ref=rss)
+### laut
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-bombendrohung-gegen-das-oktoberfest-shutdown-in-den-usa-elektronische-patientenakte](https://www.spiegel.de/politik/deutschland/news-des-tages-bombendrohung-gegen-das-oktoberfest-shutdown-in-den-usa-elektronische-patientenakte-a-68f89220-974a-44df-94d9-20841809781d#ref=rss)
-### zohran
+* [https://www.spiegel.de/ausland/usa-pete-hegseth-verschaerft-kampf-gegen-informanten-offenbar-dutzende-luegendetektortests-geplant](https://www.spiegel.de/ausland/usa-pete-hegseth-verschaerft-kampf-gegen-informanten-offenbar-dutzende-luegendetektortests-geplant-a-73000a11-6cdb-4689-82c8-5199f7d01b4a#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/stephen-king-ist-laut-pen-der-meist-verbannte-autor-an-schulen-in-den-usa](https://www.spiegel.de/kultur/literatur/stephen-king-ist-laut-pen-der-meist-verbannte-autor-an-schulen-in-den-usa-a-da789227-8701-44fc-924e-bd7088bcb198#ref=rss)
+### ich
 
-* [https://www.spiegel.de/ausland/new-york-bei-zohran-mamdani-geht-wahlkampf-durch-den-magen](https://www.spiegel.de/ausland/new-york-bei-zohran-mamdani-geht-wahlkampf-durch-den-magen-a-c7d9b046-c85c-46a1-8844-afaa366a0559#ref=rss)
-### mamdani
+* [https://www.spiegel.de/netzwelt/web/instagram-chef-adam-mosseri-ich-schwoere-wir-hoeren-eure-mikrofone-ncht-ab](https://www.spiegel.de/netzwelt/web/instagram-chef-adam-mosseri-ich-schwoere-wir-hoeren-eure-mikrofone-ncht-ab-a-6a4684c0-1a7b-4015-8bb2-59a54b5c958f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/jane-goodall-ich-habe-einfach-meinen-traum-verfolgt](https://www.spiegel.de/wissenschaft/jane-goodall-ich-habe-einfach-meinen-traum-verfolgt-a-05917c2e-790d-42a6-8886-6eba80ed87f5#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/ausland/new-york-bei-zohran-mamdani-geht-wahlkampf-durch-den-magen](https://www.spiegel.de/ausland/new-york-bei-zohran-mamdani-geht-wahlkampf-durch-den-magen-a-c7d9b046-c85c-46a1-8844-afaa366a0559#ref=rss)
-### wahlkampf
+* [https://www.spiegel.de/netzwelt/web/instagram-chef-adam-mosseri-ich-schwoere-wir-hoeren-eure-mikrofone-ncht-ab](https://www.spiegel.de/netzwelt/web/instagram-chef-adam-mosseri-ich-schwoere-wir-hoeren-eure-mikrofone-ncht-ab-a-6a4684c0-1a7b-4015-8bb2-59a54b5c958f#ref=rss)
+* [https://www.spiegel.de/kultur/bill-burr-verteidigt-seinen-auftritt-bei-comedyfestival-in-riad](https://www.spiegel.de/kultur/bill-burr-verteidigt-seinen-auftritt-bei-comedyfestival-in-riad-a-94433e4b-33a0-41fd-9705-2c82a0fde565#ref=rss)
+### kleine
 
-* [https://www.spiegel.de/ausland/new-york-bei-zohran-mamdani-geht-wahlkampf-durch-den-magen](https://www.spiegel.de/ausland/new-york-bei-zohran-mamdani-geht-wahlkampf-durch-den-magen-a-c7d9b046-c85c-46a1-8844-afaa366a0559#ref=rss)
-### macht
+* [https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats](https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats-a-a052f8fb-d966-4862-81c6-2769da09f4bb#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history](https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history-a-11d84862-22f0-4671-bb03-8c11bbfefd89#ref=rss)
+### geschichten
 
-* [https://www.spiegel.de/reise/staedte/urlaubs-tipps-fuer-vancouver-lieblingsstadt-neu-entdeckt](https://www.spiegel.de/reise/staedte/urlaubs-tipps-fuer-vancouver-lieblingsstadt-neu-entdeckt-a-8c9d9104-fdc9-4a3b-b433-b78c71d30c3b#ref=rss)
-* [https://www.spiegel.de/panorama/leute/emily-blunt-ki-schauspielerin-tilly-norwood-macht-ihr-angst](https://www.spiegel.de/panorama/leute/emily-blunt-ki-schauspielerin-tilly-norwood-macht-ihr-angst-a-6f095e98-ebc4-4dd5-8400-437e30ae33de#ref=rss)
-### blick
+* [https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats](https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats-a-a052f8fb-d966-4862-81c6-2769da09f4bb#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history](https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history-a-11d84862-22f0-4671-bb03-8c11bbfefd89#ref=rss)
+### städten
 
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neuen-filme-und-serien-im-oktober-2025-was-sich-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-disney-neuen-filme-und-serien-im-oktober-2025-was-sich-lohnt-a-19ea0f30-c481-4af2-9afb-72925564f231#ref=rss)
-* [https://www.spiegel.de/wirtschaft/shutdown-usa-haushaltsstreit-in-der-vergangenheit](https://www.spiegel.de/wirtschaft/shutdown-usa-haushaltsstreit-in-der-vergangenheit-a-7e2f9917-ca7c-40d7-8d67-9e88af500c57#ref=rss)
-### saudiarabien
+* [https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats](https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats-a-a052f8fb-d966-4862-81c6-2769da09f4bb#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history](https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history-a-11d84862-22f0-4671-bb03-8c11bbfefd89#ref=rss)
+### folge
 
-* [https://www.spiegel.de/wissenschaft/mensch/saudi-arabien-12-000-jahre-alte-felsmalereien-entdeckt](https://www.spiegel.de/wissenschaft/mensch/saudi-arabien-12-000-jahre-alte-felsmalereien-entdeckt-a-b5e91c6e-9c09-4d1a-8b15-67dc203a3705#ref=rss)
-### jahre
+* [https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats](https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats-a-a052f8fb-d966-4862-81c6-2769da09f4bb#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history](https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history-a-11d84862-22f0-4671-bb03-8c11bbfefd89#ref=rss)
+### unserer
 
-* [https://www.spiegel.de/wissenschaft/mensch/saudi-arabien-12-000-jahre-alte-felsmalereien-entdeckt](https://www.spiegel.de/wissenschaft/mensch/saudi-arabien-12-000-jahre-alte-felsmalereien-entdeckt-a-b5e91c6e-9c09-4d1a-8b15-67dc203a3705#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-brand-in-lerchenau-tote-person-im-haus-gefunden](https://www.spiegel.de/panorama/justiz/muenchen-brand-in-lerchenau-tote-person-im-haus-gefunden-a-e0cd426f-289e-4c5d-a8fc-06199be68ecd#ref=rss)
-### emily
+* [https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats](https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats-a-a052f8fb-d966-4862-81c6-2769da09f4bb#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history](https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history-a-11d84862-22f0-4671-bb03-8c11bbfefd89#ref=rss)
+### korrespondentenkolumne
 
-* [https://www.spiegel.de/panorama/leute/emily-blunt-ki-schauspielerin-tilly-norwood-macht-ihr-angst](https://www.spiegel.de/panorama/leute/emily-blunt-ki-schauspielerin-tilly-norwood-macht-ihr-angst-a-6f095e98-ebc4-4dd5-8400-437e30ae33de#ref=rss)
-### blunt
+* [https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats](https://www.spiegel.de/ausland/peking-china-ploetzlich-zeigen-sich-die-vorteile-des-ueberwachungsstaats-a-a052f8fb-d966-4862-81c6-2769da09f4bb#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history](https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history-a-11d84862-22f0-4671-bb03-8c11bbfefd89#ref=rss)
+### system
 
-* [https://www.spiegel.de/panorama/leute/emily-blunt-ki-schauspielerin-tilly-norwood-macht-ihr-angst](https://www.spiegel.de/panorama/leute/emily-blunt-ki-schauspielerin-tilly-norwood-macht-ihr-angst-a-6f095e98-ebc4-4dd5-8400-437e30ae33de#ref=rss)
-### tilly
+* [https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history](https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history-a-11d84862-22f0-4671-bb03-8c11bbfefd89#ref=rss)
+### credit
 
-* [https://www.spiegel.de/panorama/leute/emily-blunt-ki-schauspielerin-tilly-norwood-macht-ihr-angst](https://www.spiegel.de/panorama/leute/emily-blunt-ki-schauspielerin-tilly-norwood-macht-ihr-angst-a-6f095e98-ebc4-4dd5-8400-437e30ae33de#ref=rss)
-### norwood
+* [https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history](https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history-a-11d84862-22f0-4671-bb03-8c11bbfefd89#ref=rss)
+### history
 
-* [https://www.spiegel.de/panorama/leute/emily-blunt-ki-schauspielerin-tilly-norwood-macht-ihr-angst](https://www.spiegel.de/panorama/leute/emily-blunt-ki-schauspielerin-tilly-norwood-macht-ihr-angst-a-6f095e98-ebc4-4dd5-8400-437e30ae33de#ref=rss)
-### gehen
+* [https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history](https://www.spiegel.de/ausland/grossbritannien-london-und-das-urbritische-system-der-credit-history-a-11d84862-22f0-4671-bb03-8c11bbfefd89#ref=rss)
+### schürrle
 
-* [https://www.spiegel.de/panorama/leute/emily-blunt-ki-schauspielerin-tilly-norwood-macht-ihr-angst](https://www.spiegel.de/panorama/leute/emily-blunt-ki-schauspielerin-tilly-norwood-macht-ihr-angst-a-6f095e98-ebc4-4dd5-8400-437e30ae33de#ref=rss)
-* [https://www.spiegel.de/wirtschaft/finanzmaerkte-goldpreis-steigt-nach-us-shutdown-auf-rekordhoch](https://www.spiegel.de/wirtschaft/finanzmaerkte-goldpreis-steigt-nach-us-shutdown-auf-rekordhoch-a-2b9ee8a0-98ef-4693-8493-aa8334a12c86#ref=rss)
-### brand
+* [https://www.spiegel.de/sport/leichtathletik/andre-schuerrle-plant-extremlauf-bei-dem-am-ende-nur-noch-einer-uebrig-bleibt](https://www.spiegel.de/sport/leichtathletik/andre-schuerrle-plant-extremlauf-bei-dem-am-ende-nur-noch-einer-uebrig-bleibt-a-48fefa92-1ebf-4412-bf5d-d43b0385319e#ref=rss)
+### extremlauf
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-brand-in-lerchenau-tote-person-im-haus-gefunden](https://www.spiegel.de/panorama/justiz/muenchen-brand-in-lerchenau-tote-person-im-haus-gefunden-a-e0cd426f-289e-4c5d-a8fc-06199be68ecd#ref=rss)
-### tote
+* [https://www.spiegel.de/sport/leichtathletik/andre-schuerrle-plant-extremlauf-bei-dem-am-ende-nur-noch-einer-uebrig-bleibt](https://www.spiegel.de/sport/leichtathletik/andre-schuerrle-plant-extremlauf-bei-dem-am-ende-nur-noch-einer-uebrig-bleibt-a-48fefa92-1ebf-4412-bf5d-d43b0385319e#ref=rss)
+### michigan
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-brand-in-lerchenau-tote-person-im-haus-gefunden](https://www.spiegel.de/panorama/justiz/muenchen-brand-in-lerchenau-tote-person-im-haus-gefunden-a-e0cd426f-289e-4c5d-a8fc-06199be68ecd#ref=rss)
-### person
+* [https://www.spiegel.de/panorama/michigan-mormonen-mitglied-startet-spendenkampagne-fuer-familie-eines-mutmasslichen-todesschuetzen](https://www.spiegel.de/panorama/michigan-mormonen-mitglied-startet-spendenkampagne-fuer-familie-eines-mutmasslichen-todesschuetzen-a-39b5982e-40ea-4913-b5b8-14e05c7513c0#ref=rss)
+### dollar
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-brand-in-lerchenau-tote-person-im-haus-gefunden](https://www.spiegel.de/panorama/justiz/muenchen-brand-in-lerchenau-tote-person-im-haus-gefunden-a-e0cd426f-289e-4c5d-a8fc-06199be68ecd#ref=rss)
-### gefunden
+* [https://www.spiegel.de/panorama/michigan-mormonen-mitglied-startet-spendenkampagne-fuer-familie-eines-mutmasslichen-todesschuetzen](https://www.spiegel.de/panorama/michigan-mormonen-mitglied-startet-spendenkampagne-fuer-familie-eines-mutmasslichen-todesschuetzen-a-39b5982e-40ea-4913-b5b8-14e05c7513c0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/openai-knackt-500-milliarden-dollar-marke](https://www.spiegel.de/wirtschaft/unternehmen/openai-knackt-500-milliarden-dollar-marke-a-967cd617-1a20-4190-ae27-0e0c8b7da1e2#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-brand-in-lerchenau-tote-person-im-haus-gefunden](https://www.spiegel.de/panorama/justiz/muenchen-brand-in-lerchenau-tote-person-im-haus-gefunden-a-e0cd426f-289e-4c5d-a8fc-06199be68ecd#ref=rss)
-### lisa
+* [https://www.spiegel.de/panorama/michigan-mormonen-mitglied-startet-spendenkampagne-fuer-familie-eines-mutmasslichen-todesschuetzen](https://www.spiegel.de/panorama/michigan-mormonen-mitglied-startet-spendenkampagne-fuer-familie-eines-mutmasslichen-todesschuetzen-a-39b5982e-40ea-4913-b5b8-14e05c7513c0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/jane-goodall-ich-habe-einfach-meinen-traum-verfolgt](https://www.spiegel.de/wissenschaft/jane-goodall-ich-habe-einfach-meinen-traum-verfolgt-a-05917c2e-790d-42a6-8886-6eba80ed87f5#ref=rss)
+### kollision
 
-* [https://www.spiegel.de/ausland/oberstes-us-gericht-stoppt-vorerst-entlassung-von-fed-vorstaendin-cook](https://www.spiegel.de/ausland/oberstes-us-gericht-stoppt-vorerst-entlassung-von-fed-vorstaendin-cook-a-c8abd2b0-1841-4e09-9fe3-bf1252f1ad70#ref=rss)
-### cook
+* [https://www.spiegel.de/panorama/new-york-kollision-zweier-flugzeuge-auf-flughafen-laguardia](https://www.spiegel.de/panorama/new-york-kollision-zweier-flugzeuge-auf-flughafen-laguardia-a-7e6410ee-ba7e-4026-877f-f3fe7feca152#ref=rss)
+### zweier
 
-* [https://www.spiegel.de/ausland/oberstes-us-gericht-stoppt-vorerst-entlassung-von-fed-vorstaendin-cook](https://www.spiegel.de/ausland/oberstes-us-gericht-stoppt-vorerst-entlassung-von-fed-vorstaendin-cook-a-c8abd2b0-1841-4e09-9fe3-bf1252f1ad70#ref=rss)
-### vergangenheit
+* [https://www.spiegel.de/panorama/new-york-kollision-zweier-flugzeuge-auf-flughafen-laguardia](https://www.spiegel.de/panorama/new-york-kollision-zweier-flugzeuge-auf-flughafen-laguardia-a-7e6410ee-ba7e-4026-877f-f3fe7feca152#ref=rss)
+### flugzeuge
 
-* [https://www.spiegel.de/wirtschaft/shutdown-usa-haushaltsstreit-in-der-vergangenheit](https://www.spiegel.de/wirtschaft/shutdown-usa-haushaltsstreit-in-der-vergangenheit-a-7e2f9917-ca7c-40d7-8d67-9e88af500c57#ref=rss)
-### lange
+* [https://www.spiegel.de/panorama/new-york-kollision-zweier-flugzeuge-auf-flughafen-laguardia](https://www.spiegel.de/panorama/new-york-kollision-zweier-flugzeuge-auf-flughafen-laguardia-a-7e6410ee-ba7e-4026-877f-f3fe7feca152#ref=rss)
+### burr
 
-* [https://www.spiegel.de/wirtschaft/shutdown-usa-haushaltsstreit-in-der-vergangenheit](https://www.spiegel.de/wirtschaft/shutdown-usa-haushaltsstreit-in-der-vergangenheit-a-7e2f9917-ca7c-40d7-8d67-9e88af500c57#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/duisburg-oberbuergermeister-soeren-link-ueber-armutsmigration-aus-suedosteuropa](https://www.spiegel.de/panorama/gesellschaft/duisburg-oberbuergermeister-soeren-link-ueber-armutsmigration-aus-suedosteuropa-a-591fcd20-9b82-4695-8a8e-714fef0eec09#ref=rss)
-### katar
+* [https://www.spiegel.de/kultur/bill-burr-verteidigt-seinen-auftritt-bei-comedyfestival-in-riad](https://www.spiegel.de/kultur/bill-burr-verteidigt-seinen-auftritt-bei-comedyfestival-in-riad-a-94433e4b-33a0-41fd-9705-2c82a0fde565#ref=rss)
+### jane
 
-* [https://www.spiegel.de/ausland/usa-und-katar-sicherheitsgarantien-nach-israelischem-angriff](https://www.spiegel.de/ausland/usa-und-katar-sicherheitsgarantien-nach-israelischem-angriff-a-101dbec7-0ec4-451f-9239-2dd3b5591fa8#ref=rss)
-### angriff
+* [https://www.spiegel.de/wissenschaft/jane-goodall-ich-habe-einfach-meinen-traum-verfolgt](https://www.spiegel.de/wissenschaft/jane-goodall-ich-habe-einfach-meinen-traum-verfolgt-a-05917c2e-790d-42a6-8886-6eba80ed87f5#ref=rss)
+### bildern
 
-* [https://www.spiegel.de/ausland/usa-und-katar-sicherheitsgarantien-nach-israelischem-angriff](https://www.spiegel.de/ausland/usa-und-katar-sicherheitsgarantien-nach-israelischem-angriff-a-101dbec7-0ec4-451f-9239-2dd3b5591fa8#ref=rss)
-### erinnert
+* [https://www.spiegel.de/wissenschaft/jane-goodall-ich-habe-einfach-meinen-traum-verfolgt](https://www.spiegel.de/wissenschaft/jane-goodall-ich-habe-einfach-meinen-traum-verfolgt-a-05917c2e-790d-42a6-8886-6eba80ed87f5#ref=rss)
+### alter
 
-* [https://www.spiegel.de/ausland/usa-und-katar-sicherheitsgarantien-nach-israelischem-angriff](https://www.spiegel.de/ausland/usa-und-katar-sicherheitsgarantien-nach-israelischem-angriff-a-101dbec7-0ec4-451f-9239-2dd3b5591fa8#ref=rss)
-* [https://www.spiegel.de/kultur/jan-boehmermann-ausstellung-in-berlin-warum-ist-es-so-still-um-dieses-werk](https://www.spiegel.de/kultur/jan-boehmermann-ausstellung-in-berlin-warum-ist-es-so-still-um-dieses-werk-a-a9d66028-3072-45e2-91f9-9f9fd8eb4bb3#ref=rss)
-### mutmaßliche
+* [https://www.spiegel.de/wissenschaft/jane-goodall-ich-habe-einfach-meinen-traum-verfolgt](https://www.spiegel.de/wissenschaft/jane-goodall-ich-habe-einfach-meinen-traum-verfolgt-a-05917c2e-790d-42a6-8886-6eba80ed87f5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ein-fuenftel-der-menschen-im-ruhestand-muss-mit-1400-euro-auskommen](https://www.spiegel.de/wirtschaft/ein-fuenftel-der-menschen-im-ruhestand-muss-mit-1400-euro-auskommen-a-b1248f8f-f040-4469-99a1-a72dfd75b105#ref=rss)
+### stephen
 
-* [https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-hamas-mitglieder-bei-waffenuebergabe-festgenommen](https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-hamas-mitglieder-bei-waffenuebergabe-festgenommen-a-4d21d0fd-c79f-4e8a-8cdb-e1ebc4479dc4#ref=rss)
-### hamasmitglieder
+* [https://www.spiegel.de/kultur/literatur/stephen-king-ist-laut-pen-der-meist-verbannte-autor-an-schulen-in-den-usa](https://www.spiegel.de/kultur/literatur/stephen-king-ist-laut-pen-der-meist-verbannte-autor-an-schulen-in-den-usa-a-da789227-8701-44fc-924e-bd7088bcb198#ref=rss)
+### king
 
-* [https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-hamas-mitglieder-bei-waffenuebergabe-festgenommen](https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-hamas-mitglieder-bei-waffenuebergabe-festgenommen-a-4d21d0fd-c79f-4e8a-8cdb-e1ebc4479dc4#ref=rss)
-### festgenommen
+* [https://www.spiegel.de/kultur/literatur/stephen-king-ist-laut-pen-der-meist-verbannte-autor-an-schulen-in-den-usa](https://www.spiegel.de/kultur/literatur/stephen-king-ist-laut-pen-der-meist-verbannte-autor-an-schulen-in-den-usa-a-da789227-8701-44fc-924e-bd7088bcb198#ref=rss)
+### openai
 
-* [https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-hamas-mitglieder-bei-waffenuebergabe-festgenommen](https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-hamas-mitglieder-bei-waffenuebergabe-festgenommen-a-4d21d0fd-c79f-4e8a-8cdb-e1ebc4479dc4#ref=rss)
-### sören
-
-* [https://www.spiegel.de/panorama/gesellschaft/duisburg-oberbuergermeister-soeren-link-ueber-armutsmigration-aus-suedosteuropa](https://www.spiegel.de/panorama/gesellschaft/duisburg-oberbuergermeister-soeren-link-ueber-armutsmigration-aus-suedosteuropa-a-591fcd20-9b82-4695-8a8e-714fef0eec09#ref=rss)
-### link
-
-* [https://www.spiegel.de/panorama/gesellschaft/duisburg-oberbuergermeister-soeren-link-ueber-armutsmigration-aus-suedosteuropa](https://www.spiegel.de/panorama/gesellschaft/duisburg-oberbuergermeister-soeren-link-ueber-armutsmigration-aus-suedosteuropa-a-591fcd20-9b82-4695-8a8e-714fef0eec09#ref=rss)
-### armutsmigration
-
-* [https://www.spiegel.de/panorama/gesellschaft/duisburg-oberbuergermeister-soeren-link-ueber-armutsmigration-aus-suedosteuropa](https://www.spiegel.de/panorama/gesellschaft/duisburg-oberbuergermeister-soeren-link-ueber-armutsmigration-aus-suedosteuropa-a-591fcd20-9b82-4695-8a8e-714fef0eec09#ref=rss)
-### gehört
-
-* [https://www.spiegel.de/panorama/gesellschaft/duisburg-oberbuergermeister-soeren-link-ueber-armutsmigration-aus-suedosteuropa](https://www.spiegel.de/panorama/gesellschaft/duisburg-oberbuergermeister-soeren-link-ueber-armutsmigration-aus-suedosteuropa-a-591fcd20-9b82-4695-8a8e-714fef0eec09#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben](https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben-a-4d2ecea4-bc83-49dd-9bee-ebf2a1ed6374#ref=rss)
-### goldpreis
-
-* [https://www.spiegel.de/wirtschaft/finanzmaerkte-goldpreis-steigt-nach-us-shutdown-auf-rekordhoch](https://www.spiegel.de/wirtschaft/finanzmaerkte-goldpreis-steigt-nach-us-shutdown-auf-rekordhoch-a-2b9ee8a0-98ef-4693-8493-aa8334a12c86#ref=rss)
-### bienen
-
-* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-sterben-so-viele-bienen-und-wespen-im-herbst](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-sterben-so-viele-bienen-und-wespen-im-herbst-a-cc326a5b-0b2b-4b37-8f8e-c891513177d8#ref=rss)
-### wespen
-
-* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-sterben-so-viele-bienen-und-wespen-im-herbst](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-sterben-so-viele-bienen-und-wespen-im-herbst-a-cc326a5b-0b2b-4b37-8f8e-c891513177d8#ref=rss)
-### herbst
-
-* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-sterben-so-viele-bienen-und-wespen-im-herbst](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-sterben-so-viele-bienen-und-wespen-im-herbst-a-cc326a5b-0b2b-4b37-8f8e-c891513177d8#ref=rss)
-### reichsbürgergruppe
-
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben](https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben-a-4d2ecea4-bc83-49dd-9bee-ebf2a1ed6374#ref=rss)
-### heinrich
-
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben](https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben-a-4d2ecea4-bc83-49dd-9bee-ebf2a1ed6374#ref=rss)
-### xiii
-
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben](https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben-a-4d2ecea4-bc83-49dd-9bee-ebf2a1ed6374#ref=rss)
-### prinz
-
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben](https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben-a-4d2ecea4-bc83-49dd-9bee-ebf2a1ed6374#ref=rss)
-### reuß
-
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben](https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben-a-4d2ecea4-bc83-49dd-9bee-ebf2a1ed6374#ref=rss)
-### hildegard
-
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben](https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben-a-4d2ecea4-bc83-49dd-9bee-ebf2a1ed6374#ref=rss)
-### l
-
-* [https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben](https://www.spiegel.de/panorama/justiz/reichsbuerger-gruppe-um-heinrich-xiii-prinz-reuss-angeklagte-hildegard-l-gestorben-a-4d2ecea4-bc83-49dd-9bee-ebf2a1ed6374#ref=rss)
-### frauke
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-frauke-brosius-gersdorf-hadert-mit-entscheidung-ueber-rueckzug](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-frauke-brosius-gersdorf-hadert-mit-entscheidung-ueber-rueckzug-a-a202037f-23d1-4520-9cd9-02843ca69a45#ref=rss)
-### brosiusgersdorf
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-frauke-brosius-gersdorf-hadert-mit-entscheidung-ueber-rueckzug](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-frauke-brosius-gersdorf-hadert-mit-entscheidung-ueber-rueckzug-a-a202037f-23d1-4520-9cd9-02843ca69a45#ref=rss)
-### hadert
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-frauke-brosius-gersdorf-hadert-mit-entscheidung-ueber-rueckzug](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-frauke-brosius-gersdorf-hadert-mit-entscheidung-ueber-rueckzug-a-a202037f-23d1-4520-9cd9-02843ca69a45#ref=rss)
-### entscheidung
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-frauke-brosius-gersdorf-hadert-mit-entscheidung-ueber-rueckzug](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-frauke-brosius-gersdorf-hadert-mit-entscheidung-ueber-rueckzug-a-a202037f-23d1-4520-9cd9-02843ca69a45#ref=rss)
-### rentenbank
-
-* [https://www.spiegel.de/wirtschaft/bundesrechnungshof-zur-landwirtschaftlichen-rentenbank-schwerwiegender-complianceverstoss](https://www.spiegel.de/wirtschaft/bundesrechnungshof-zur-landwirtschaftlichen-rentenbank-schwerwiegender-complianceverstoss-a-0d61a1d4-31f6-4919-8553-20dc8a930235#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/openai-knackt-500-milliarden-dollar-marke](https://www.spiegel.de/wirtschaft/unternehmen/openai-knackt-500-milliarden-dollar-marke-a-967cd617-1a20-4190-ae27-0e0c8b7da1e2#ref=rss)
 
