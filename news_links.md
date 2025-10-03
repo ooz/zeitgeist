@@ -4,361 +4,429 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-immer-weniger-menschen-machen-bei-den-protesten-gegen-die-regierung-mit](https://www.spiegel.de/ausland/frankreich-immer-weniger-menschen-machen-bei-den-protesten-gegen-die-regierung-mit-a-19537c36-9c8f-4d6c-bf43-77ea1b26caf0#ref=rss)
-* [https://www.spiegel.de/gesundheit/bayern-erneuter-todesfall-durch-borna-virus](https://www.spiegel.de/gesundheit/bayern-erneuter-todesfall-durch-borna-virus-a-2e574626-b7b8-4508-b969-bb2e6dd90c4f#ref=rss)
-### michael
-
-* [https://www.spiegel.de/sport/atlantikueberquerung-mit-dem-sup-kieler-michael-walther-gibt-auf](https://www.spiegel.de/sport/atlantikueberquerung-mit-dem-sup-kieler-michael-walther-gibt-auf-a-2b3c1c91-80d7-4fea-80ac-28f4146a149b#ref=rss)
-* [https://www.spiegel.de/ausland/michael-milshtein-ueber-donalds-trumps-friedensplan-fuer-gaza-dieser-plan-ist-loechrig-wie-ein-schweizer-kaese](https://www.spiegel.de/ausland/michael-milshtein-ueber-donalds-trumps-friedensplan-fuer-gaza-dieser-plan-ist-loechrig-wie-ein-schweizer-kaese-a-0cec9677-5737-4a58-accb-8ba2e8ca0aff#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht](https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht-a-c36a5ccb-d7e6-4321-9447-611152d5dfd3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-fuenf-festnahmen-nach-farbattacke-auf-auswaertiges-amt](https://www.spiegel.de/politik/deutschland/berlin-fuenf-festnahmen-nach-farbattacke-auf-auswaertiges-amt-a-482741ea-0a2b-467c-909d-ac04215f7795#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-festnahmen-nach-waffenuebergabe-haftbefehle-gegen-mutmassliche-hamas-mitglieder](https://www.spiegel.de/panorama/justiz/berlin-festnahmen-nach-waffenuebergabe-haftbefehle-gegen-mutmassliche-hamas-mitglieder-a-0510eef2-6696-4ef0-b881-ecec31cdd1fc#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht](https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht-a-c36a5ccb-d7e6-4321-9447-611152d5dfd3#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-immer-weniger-menschen-machen-bei-den-protesten-gegen-die-regierung-mit](https://www.spiegel.de/ausland/frankreich-immer-weniger-menschen-machen-bei-den-protesten-gegen-die-regierung-mit-a-19537c36-9c8f-4d6c-bf43-77ea1b26caf0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-dem-weihnachtsmarkt-sein-hass-war-kein-geheimnis](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-dem-weihnachtsmarkt-sein-hass-war-kein-geheimnis-a-eb8b0eb1-c16d-45a4-b8d9-366effb874f5#ref=rss)
-* [https://www.spiegel.de/panorama/london-bbc-bericht-deckt-rassismus-und-frauenfeindlichkeit-bei-polizei-auf](https://www.spiegel.de/panorama/london-bbc-bericht-deckt-rassismus-und-frauenfeindlichkeit-bei-polizei-auf-a-dda5804c-80ad-4f56-9b20-509447325125#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/crumpsall-polizei-geht-bei-attacke-auf-synagoge-von-terrorismus-aus](https://www.spiegel.de/ausland/crumpsall-polizei-geht-bei-attacke-auf-synagoge-von-terrorismus-aus-a-bcb716ac-7572-431f-b56f-8cf76987b933#ref=rss)
-* [https://www.spiegel.de/panorama/london-bbc-bericht-deckt-rassismus-und-frauenfeindlichkeit-bei-polizei-auf](https://www.spiegel.de/panorama/london-bbc-bericht-deckt-rassismus-und-frauenfeindlichkeit-bei-polizei-auf-a-dda5804c-80ad-4f56-9b20-509447325125#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-verkaufsrekord-in-den-usa-durch-auslaufende-elektropraemie](https://www.spiegel.de/wirtschaft/unternehmen/tesla-verkaufsrekord-in-den-usa-durch-auslaufende-elektropraemie-a-917f06f6-7861-4bd7-810f-d91035aae3e6#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-die-demokraten-gehen-ins-risiko](https://www.spiegel.de/ausland/shutdown-in-den-usa-die-demokraten-gehen-ins-risiko-a-c73cb177-1ed5-4963-a217-ae941c1a4169#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht](https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht-a-c36a5ccb-d7e6-4321-9447-611152d5dfd3#ref=rss)
-* [https://www.spiegel.de/ausland/drohnen-in-daenemark-kapitaen-von-festgesetztem-tanker-muss-in-frankreich-vor-gericht](https://www.spiegel.de/ausland/drohnen-in-daenemark-kapitaen-von-festgesetztem-tanker-muss-in-frankreich-vor-gericht-a-2660e064-97b5-4cab-a51b-e02cf9eb361f#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht](https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht-a-c36a5ccb-d7e6-4321-9447-611152d5dfd3#ref=rss)
-* [https://www.spiegel.de/ausland/crumpsall-polizei-geht-bei-attacke-auf-synagoge-von-terrorismus-aus](https://www.spiegel.de/ausland/crumpsall-polizei-geht-bei-attacke-auf-synagoge-von-terrorismus-aus-a-bcb716ac-7572-431f-b56f-8cf76987b933#ref=rss)
-* [https://www.spiegel.de/gesundheit/bayern-erneuter-todesfall-durch-borna-virus](https://www.spiegel.de/gesundheit/bayern-erneuter-todesfall-durch-borna-virus-a-2e574626-b7b8-4508-b969-bb2e6dd90c4f#ref=rss)
-### droht
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-* [https://www.spiegel.de/panorama/bad-bunny-auftritt-ice-agenten-sollen-laut-trump-berater-bei-super-bowl-dabei-sein](https://www.spiegel.de/panorama/bad-bunny-auftritt-ice-agenten-sollen-laut-trump-berater-bei-super-bowl-dabei-sein-a-f56a3923-ace1-4b87-b2f1-040b5e94c2ed#ref=rss)
-### gas
-
-* [https://www.spiegel.de/wissenschaft/mensch/klimaziele-union-debattiert-ueber-klimaneutralitaet-bis-2045](https://www.spiegel.de/wissenschaft/mensch/klimaziele-union-debattiert-ueber-klimaneutralitaet-bis-2045-a-0db532f1-96e7-4eb1-a7c2-3573ded80f09#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/einzelgaenger-planet-verschlingt-sechs-milliarden-tonnen-gas-pro-sekunde](https://www.spiegel.de/wissenschaft/weltall/einzelgaenger-planet-verschlingt-sechs-milliarden-tonnen-gas-pro-sekunde-a-01d869c0-a55d-4ace-b788-c5a0046ac785#ref=rss)
-### festnahmen
-
-* [https://www.spiegel.de/politik/deutschland/berlin-fuenf-festnahmen-nach-farbattacke-auf-auswaertiges-amt](https://www.spiegel.de/politik/deutschland/berlin-fuenf-festnahmen-nach-farbattacke-auf-auswaertiges-amt-a-482741ea-0a2b-467c-909d-ac04215f7795#ref=rss)
-* [https://www.spiegel.de/ausland/crumpsall-polizei-geht-bei-attacke-auf-synagoge-von-terrorismus-aus](https://www.spiegel.de/ausland/crumpsall-polizei-geht-bei-attacke-auf-synagoge-von-terrorismus-aus-a-bcb716ac-7572-431f-b56f-8cf76987b933#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-festnahmen-nach-waffenuebergabe-haftbefehle-gegen-mutmassliche-hamas-mitglieder](https://www.spiegel.de/panorama/justiz/berlin-festnahmen-nach-waffenuebergabe-haftbefehle-gegen-mutmassliche-hamas-mitglieder-a-0510eef2-6696-4ef0-b881-ecec31cdd1fc#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/politik/deutschland/berlin-fuenf-festnahmen-nach-farbattacke-auf-auswaertiges-amt](https://www.spiegel.de/politik/deutschland/berlin-fuenf-festnahmen-nach-farbattacke-auf-auswaertiges-amt-a-482741ea-0a2b-467c-909d-ac04215f7795#ref=rss)
-* [https://www.spiegel.de/ausland/crumpsall-polizei-geht-bei-attacke-auf-synagoge-von-terrorismus-aus](https://www.spiegel.de/ausland/crumpsall-polizei-geht-bei-attacke-auf-synagoge-von-terrorismus-aus-a-bcb716ac-7572-431f-b56f-8cf76987b933#ref=rss)
-* [https://www.spiegel.de/kultur/kino/adam-sandler-traegt-jetzt-anzug-wegen-george-clooney](https://www.spiegel.de/kultur/kino/adam-sandler-traegt-jetzt-anzug-wegen-george-clooney-a-68871222-1baa-455b-b3b0-8e0a31ee4aed#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-dem-weihnachtsmarkt-sein-hass-war-kein-geheimnis](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-dem-weihnachtsmarkt-sein-hass-war-kein-geheimnis-a-eb8b0eb1-c16d-45a4-b8d9-366effb874f5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-in-not-groesstes-ruestungsprojekt-der-marine-verzoegert-sich-um-jahre](https://www.spiegel.de/politik/deutschland/boris-pistorius-in-not-groesstes-ruestungsprojekt-der-marine-verzoegert-sich-um-jahre-a-00f4018f-658f-46c5-b1f6-b3b4b2891f02#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/drohnenabwehr-durch-die-bundeswehr-damit-stoesst-alexander-dobrindt-an-verfassungsrechtliche-grenzen](https://www.spiegel.de/politik/drohnenabwehr-durch-die-bundeswehr-damit-stoesst-alexander-dobrindt-an-verfassungsrechtliche-grenzen-a-ecf2e587-b3ea-4c0c-bb72-1db46f7c4e75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-in-not-groesstes-ruestungsprojekt-der-marine-verzoegert-sich-um-jahre](https://www.spiegel.de/politik/deutschland/boris-pistorius-in-not-groesstes-ruestungsprojekt-der-marine-verzoegert-sich-um-jahre-a-00f4018f-658f-46c5-b1f6-b3b4b2891f02#ref=rss)
-### drohnen
-
-* [https://www.spiegel.de/politik/drohnenabwehr-durch-die-bundeswehr-damit-stoesst-alexander-dobrindt-an-verfassungsrechtliche-grenzen](https://www.spiegel.de/politik/drohnenabwehr-durch-die-bundeswehr-damit-stoesst-alexander-dobrindt-an-verfassungsrechtliche-grenzen-a-ecf2e587-b3ea-4c0c-bb72-1db46f7c4e75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-in-manchester-deutsche-aufruestung-guenstigere-abnehmspritzen](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-in-manchester-deutsche-aufruestung-guenstigere-abnehmspritzen-a-2ce700ac-3e40-4850-bfca-42ce320bf4af#ref=rss)
-* [https://www.spiegel.de/ausland/drohnen-in-daenemark-kapitaen-von-festgesetztem-tanker-muss-in-frankreich-vor-gericht](https://www.spiegel.de/ausland/drohnen-in-daenemark-kapitaen-von-festgesetztem-tanker-muss-in-frankreich-vor-gericht-a-2660e064-97b5-4cab-a51b-e02cf9eb361f#ref=rss)
-### synagoge
-
-* [https://www.spiegel.de/ausland/crumpsall-polizei-geht-bei-attacke-auf-synagoge-von-terrorismus-aus](https://www.spiegel.de/ausland/crumpsall-polizei-geht-bei-attacke-auf-synagoge-von-terrorismus-aus-a-bcb716ac-7572-431f-b56f-8cf76987b933#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-in-manchester-deutsche-aufruestung-guenstigere-abnehmspritzen](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-in-manchester-deutsche-aufruestung-guenstigere-abnehmspritzen-a-2ce700ac-3e40-4850-bfca-42ce320bf4af#ref=rss)
-### manchester
-
-* [https://www.spiegel.de/ausland/crumpsall-polizei-geht-bei-attacke-auf-synagoge-von-terrorismus-aus](https://www.spiegel.de/ausland/crumpsall-polizei-geht-bei-attacke-auf-synagoge-von-terrorismus-aus-a-bcb716ac-7572-431f-b56f-8cf76987b933#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-in-manchester-deutsche-aufruestung-guenstigere-abnehmspritzen](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-in-manchester-deutsche-aufruestung-guenstigere-abnehmspritzen-a-2ce700ac-3e40-4850-bfca-42ce320bf4af#ref=rss)
-### elon
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-verkaufsrekord-in-den-usa-durch-auslaufende-elektropraemie](https://www.spiegel.de/wirtschaft/unternehmen/tesla-verkaufsrekord-in-den-usa-durch-auslaufende-elektropraemie-a-917f06f6-7861-4bd7-810f-d91035aae3e6#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/elon-musk-ruft-zum-netflix-boykott-auf](https://www.spiegel.de/netzwelt/web/elon-musk-ruft-zum-netflix-boykott-auf-a-975ff1a5-a7b9-4236-ace1-4d6b527929f0#ref=rss)
-### musk
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-verkaufsrekord-in-den-usa-durch-auslaufende-elektropraemie](https://www.spiegel.de/wirtschaft/unternehmen/tesla-verkaufsrekord-in-den-usa-durch-auslaufende-elektropraemie-a-917f06f6-7861-4bd7-810f-d91035aae3e6#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/elon-musk-ruft-zum-netflix-boykott-auf](https://www.spiegel.de/netzwelt/web/elon-musk-ruft-zum-netflix-boykott-auf-a-975ff1a5-a7b9-4236-ace1-4d6b527929f0#ref=rss)
-### kieler
-
-* [https://www.spiegel.de/sport/atlantikueberquerung-mit-dem-sup-kieler-michael-walther-gibt-auf](https://www.spiegel.de/sport/atlantikueberquerung-mit-dem-sup-kieler-michael-walther-gibt-auf-a-2b3c1c91-80d7-4fea-80ac-28f4146a149b#ref=rss)
-### walther
-
-* [https://www.spiegel.de/sport/atlantikueberquerung-mit-dem-sup-kieler-michael-walther-gibt-auf](https://www.spiegel.de/sport/atlantikueberquerung-mit-dem-sup-kieler-michael-walther-gibt-auf-a-2b3c1c91-80d7-4fea-80ac-28f4146a149b#ref=rss)
-### stoppte
-
-* [https://www.spiegel.de/sport/atlantikueberquerung-mit-dem-sup-kieler-michael-walther-gibt-auf](https://www.spiegel.de/sport/atlantikueberquerung-mit-dem-sup-kieler-michael-walther-gibt-auf-a-2b3c1c91-80d7-4fea-80ac-28f4146a149b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-dem-weihnachtsmarkt-sein-hass-war-kein-geheimnis](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-dem-weihnachtsmarkt-sein-hass-war-kein-geheimnis-a-eb8b0eb1-c16d-45a4-b8d9-366effb874f5#ref=rss)
-### eukommission
-
-* [https://www.spiegel.de/politik/deutschland/eu-kommission-friedrich-merz-im-konflikt-mit-ursula-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-kommission-friedrich-merz-im-konflikt-mit-ursula-von-der-leyen-a-8e227424-d018-49e1-83eb-a50328e5bb8c#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/eu-kommission-friedrich-merz-im-konflikt-mit-ursula-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-kommission-friedrich-merz-im-konflikt-mit-ursula-von-der-leyen-a-8e227424-d018-49e1-83eb-a50328e5bb8c#ref=rss)
-### ursula
-
-* [https://www.spiegel.de/politik/deutschland/eu-kommission-friedrich-merz-im-konflikt-mit-ursula-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-kommission-friedrich-merz-im-konflikt-mit-ursula-von-der-leyen-a-8e227424-d018-49e1-83eb-a50328e5bb8c#ref=rss)
-### leyen
-
-* [https://www.spiegel.de/politik/deutschland/eu-kommission-friedrich-merz-im-konflikt-mit-ursula-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-kommission-friedrich-merz-im-konflikt-mit-ursula-von-der-leyen-a-8e227424-d018-49e1-83eb-a50328e5bb8c#ref=rss)
-### milshtein
-
-* [https://www.spiegel.de/ausland/michael-milshtein-ueber-donalds-trumps-friedensplan-fuer-gaza-dieser-plan-ist-loechrig-wie-ein-schweizer-kaese](https://www.spiegel.de/ausland/michael-milshtein-ueber-donalds-trumps-friedensplan-fuer-gaza-dieser-plan-ist-loechrig-wie-ein-schweizer-kaese-a-0cec9677-5737-4a58-accb-8ba2e8ca0aff#ref=rss)
-### friedensplan
-
-* [https://www.spiegel.de/ausland/michael-milshtein-ueber-donalds-trumps-friedensplan-fuer-gaza-dieser-plan-ist-loechrig-wie-ein-schweizer-kaese](https://www.spiegel.de/ausland/michael-milshtein-ueber-donalds-trumps-friedensplan-fuer-gaza-dieser-plan-ist-loechrig-wie-ein-schweizer-kaese-a-0cec9677-5737-4a58-accb-8ba2e8ca0aff#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/michael-milshtein-ueber-donalds-trumps-friedensplan-fuer-gaza-dieser-plan-ist-loechrig-wie-ein-schweizer-kaese](https://www.spiegel.de/ausland/michael-milshtein-ueber-donalds-trumps-friedensplan-fuer-gaza-dieser-plan-ist-loechrig-wie-ein-schweizer-kaese-a-0cec9677-5737-4a58-accb-8ba2e8ca0aff#ref=rss)
-* [https://www.spiegel.de/panorama/bad-bunny-auftritt-ice-agenten-sollen-laut-trump-berater-bei-super-bowl-dabei-sein](https://www.spiegel.de/panorama/bad-bunny-auftritt-ice-agenten-sollen-laut-trump-berater-bei-super-bowl-dabei-sein-a-f56a3923-ace1-4b87-b2f1-040b5e94c2ed#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/michael-milshtein-ueber-donalds-trumps-friedensplan-fuer-gaza-dieser-plan-ist-loechrig-wie-ein-schweizer-kaese](https://www.spiegel.de/ausland/michael-milshtein-ueber-donalds-trumps-friedensplan-fuer-gaza-dieser-plan-ist-loechrig-wie-ein-schweizer-kaese-a-0cec9677-5737-4a58-accb-8ba2e8ca0aff#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-festnahmen-nach-waffenuebergabe-haftbefehle-gegen-mutmassliche-hamas-mitglieder](https://www.spiegel.de/panorama/justiz/berlin-festnahmen-nach-waffenuebergabe-haftbefehle-gegen-mutmassliche-hamas-mitglieder-a-0510eef2-6696-4ef0-b881-ecec31cdd1fc#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/ausland/michael-milshtein-ueber-donalds-trumps-friedensplan-fuer-gaza-dieser-plan-ist-loechrig-wie-ein-schweizer-kaese](https://www.spiegel.de/ausland/michael-milshtein-ueber-donalds-trumps-friedensplan-fuer-gaza-dieser-plan-ist-loechrig-wie-ein-schweizer-kaese-a-0cec9677-5737-4a58-accb-8ba2e8ca0aff#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/patrick-schnieder-verkehrsminister-sagt-naechste-termine-nach-kreislaufkollaps-ab](https://www.spiegel.de/politik/deutschland/patrick-schnieder-verkehrsminister-sagt-naechste-termine-nach-kreislaufkollaps-ab-a-cc0566a9-ddae-4528-bae2-155d89dc7807#ref=rss)
-### geplanten
-
-* [https://www.spiegel.de/politik/deutschland/buergergeld-gruene-kritisieren-geplanten-stopp-fuer-ukraine-fluechtlinge](https://www.spiegel.de/politik/deutschland/buergergeld-gruene-kritisieren-geplanten-stopp-fuer-ukraine-fluechtlinge-a-3f59189d-72f5-4c52-a9e2-af9ccee719b4#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-immer-weniger-menschen-machen-bei-den-protesten-gegen-die-regierung-mit](https://www.spiegel.de/ausland/frankreich-immer-weniger-menschen-machen-bei-den-protesten-gegen-die-regierung-mit-a-19537c36-9c8f-4d6c-bf43-77ea1b26caf0#ref=rss)
-### zweite
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-zweite-leiche-nach-gewalttat-geborgen](https://www.spiegel.de/panorama/justiz/muenchen-zweite-leiche-nach-gewalttat-geborgen-a-1cba71e7-b41c-4895-8374-32536b6c2f51#ref=rss)
-### leiche
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-zweite-leiche-nach-gewalttat-geborgen](https://www.spiegel.de/panorama/justiz/muenchen-zweite-leiche-nach-gewalttat-geborgen-a-1cba71e7-b41c-4895-8374-32536b6c2f51#ref=rss)
-### geborgen
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-zweite-leiche-nach-gewalttat-geborgen](https://www.spiegel.de/panorama/justiz/muenchen-zweite-leiche-nach-gewalttat-geborgen-a-1cba71e7-b41c-4895-8374-32536b6c2f51#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht](https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht-a-c36a5ccb-d7e6-4321-9447-611152d5dfd3#ref=rss)
-* [https://www.spiegel.de/ausland/drohnen-in-daenemark-kapitaen-von-festgesetztem-tanker-muss-in-frankreich-vor-gericht](https://www.spiegel.de/ausland/drohnen-in-daenemark-kapitaen-von-festgesetztem-tanker-muss-in-frankreich-vor-gericht-a-2660e064-97b5-4cab-a51b-e02cf9eb361f#ref=rss)
-### vergewaltigung
-
-* [https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht](https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht-a-c36a5ccb-d7e6-4321-9447-611152d5dfd3#ref=rss)
-### marvin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht](https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht-a-c36a5ccb-d7e6-4321-9447-611152d5dfd3#ref=rss)
-### s
-
-* [https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht](https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht-a-c36a5ccb-d7e6-4321-9447-611152d5dfd3#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht](https://www.spiegel.de/panorama/justiz/berlin-prozess-wegen-mutmasslicher-vergewaltigung-marvin-s-erneut-vor-gericht-a-c36a5ccb-d7e6-4321-9447-611152d5dfd3#ref=rss)
-* [https://www.spiegel.de/panorama/london-bbc-bericht-deckt-rassismus-und-frauenfeindlichkeit-bei-polizei-auf](https://www.spiegel.de/panorama/london-bbc-bericht-deckt-rassismus-und-frauenfeindlichkeit-bei-polizei-auf-a-dda5804c-80ad-4f56-9b20-509447325125#ref=rss)
-### gefahr
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### weltall
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### stoppen
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### asteroiden
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### trifft
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### großer
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### asteroid
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### erde
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### schicksal
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### dinosaurier
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### originellen
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### methoden
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### verhindern
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### unser
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### spezial
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### festival
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### beats
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### bones
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### naturkundemuseum
-
-* [https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast](https://www.spiegel.de/wissenschaft/weltall/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-podcast-a-da816790-d341-4e7c-8e66-a7d362ee2b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden](https://www.spiegel.de/wissenschaft/gefahr-aus-dem-weltall-so-stoppen-menschen-asteroiden-a-b619fd57-376d-48d2-8431-9a0a5b1daceb#ref=rss)
-### union
-
-* [https://www.spiegel.de/wissenschaft/mensch/klimaziele-union-debattiert-ueber-klimaneutralitaet-bis-2045](https://www.spiegel.de/wissenschaft/mensch/klimaziele-union-debattiert-ueber-klimaneutralitaet-bis-2045-a-0db532f1-96e7-4eb1-a7c2-3573ded80f09#ref=rss)
-### 2045
-
-* [https://www.spiegel.de/wissenschaft/mensch/klimaziele-union-debattiert-ueber-klimaneutralitaet-bis-2045](https://www.spiegel.de/wissenschaft/mensch/klimaziele-union-debattiert-ueber-klimaneutralitaet-bis-2045-a-0db532f1-96e7-4eb1-a7c2-3573ded80f09#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/mensch/klimaziele-union-debattiert-ueber-klimaneutralitaet-bis-2045](https://www.spiegel.de/wissenschaft/mensch/klimaziele-union-debattiert-ueber-klimaneutralitaet-bis-2045-a-0db532f1-96e7-4eb1-a7c2-3573ded80f09#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-festnahmen-nach-waffenuebergabe-haftbefehle-gegen-mutmassliche-hamas-mitglieder](https://www.spiegel.de/panorama/justiz/berlin-festnahmen-nach-waffenuebergabe-haftbefehle-gegen-mutmassliche-hamas-mitglieder-a-0510eef2-6696-4ef0-b881-ecec31cdd1fc#ref=rss)
-### farbattacke
-
-* [https://www.spiegel.de/politik/deutschland/berlin-fuenf-festnahmen-nach-farbattacke-auf-auswaertiges-amt](https://www.spiegel.de/politik/deutschland/berlin-fuenf-festnahmen-nach-farbattacke-auf-auswaertiges-amt-a-482741ea-0a2b-467c-909d-ac04215f7795#ref=rss)
-### amt
-
-* [https://www.spiegel.de/politik/deutschland/berlin-fuenf-festnahmen-nach-farbattacke-auf-auswaertiges-amt](https://www.spiegel.de/politik/deutschland/berlin-fuenf-festnahmen-nach-farbattacke-auf-auswaertiges-amt-a-482741ea-0a2b-467c-909d-ac04215f7795#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-immer-weniger-menschen-machen-bei-den-protesten-gegen-die-regierung-mit](https://www.spiegel.de/ausland/frankreich-immer-weniger-menschen-machen-bei-den-protesten-gegen-die-regierung-mit-a-19537c36-9c8f-4d6c-bf43-77ea1b26caf0#ref=rss)
-* [https://www.spiegel.de/ausland/drohnen-in-daenemark-kapitaen-von-festgesetztem-tanker-muss-in-frankreich-vor-gericht](https://www.spiegel.de/ausland/drohnen-in-daenemark-kapitaen-von-festgesetztem-tanker-muss-in-frankreich-vor-gericht-a-2660e064-97b5-4cab-a51b-e02cf9eb361f#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/frankreich-immer-weniger-menschen-machen-bei-den-protesten-gegen-die-regierung-mit](https://www.spiegel.de/ausland/frankreich-immer-weniger-menschen-machen-bei-den-protesten-gegen-die-regierung-mit-a-19537c36-9c8f-4d6c-bf43-77ea1b26caf0#ref=rss)
-### patrick
-
-* [https://www.spiegel.de/politik/deutschland/patrick-schnieder-verkehrsminister-sagt-naechste-termine-nach-kreislaufkollaps-ab](https://www.spiegel.de/politik/deutschland/patrick-schnieder-verkehrsminister-sagt-naechste-termine-nach-kreislaufkollaps-ab-a-cc0566a9-ddae-4528-bae2-155d89dc7807#ref=rss)
-### schnieder
-
-* [https://www.spiegel.de/politik/deutschland/patrick-schnieder-verkehrsminister-sagt-naechste-termine-nach-kreislaufkollaps-ab](https://www.spiegel.de/politik/deutschland/patrick-schnieder-verkehrsminister-sagt-naechste-termine-nach-kreislaufkollaps-ab-a-cc0566a9-ddae-4528-bae2-155d89dc7807#ref=rss)
-### verkehrsminister
-
-* [https://www.spiegel.de/politik/deutschland/patrick-schnieder-verkehrsminister-sagt-naechste-termine-nach-kreislaufkollaps-ab](https://www.spiegel.de/politik/deutschland/patrick-schnieder-verkehrsminister-sagt-naechste-termine-nach-kreislaufkollaps-ab-a-cc0566a9-ddae-4528-bae2-155d89dc7807#ref=rss)
-### termine
-
-* [https://www.spiegel.de/politik/deutschland/patrick-schnieder-verkehrsminister-sagt-naechste-termine-nach-kreislaufkollaps-ab](https://www.spiegel.de/politik/deutschland/patrick-schnieder-verkehrsminister-sagt-naechste-termine-nach-kreislaufkollaps-ab-a-cc0566a9-ddae-4528-bae2-155d89dc7807#ref=rss)
-### seines
-
-* [https://www.spiegel.de/politik/deutschland/patrick-schnieder-verkehrsminister-sagt-naechste-termine-nach-kreislaufkollaps-ab](https://www.spiegel.de/politik/deutschland/patrick-schnieder-verkehrsminister-sagt-naechste-termine-nach-kreislaufkollaps-ab-a-cc0566a9-ddae-4528-bae2-155d89dc7807#ref=rss)
-* [https://www.spiegel.de/kultur/kino/adam-sandler-traegt-jetzt-anzug-wegen-george-clooney](https://www.spiegel.de/kultur/kino/adam-sandler-traegt-jetzt-anzug-wegen-george-clooney-a-68871222-1baa-455b-b3b0-8e0a31ee4aed#ref=rss)
-### anschlag
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-dem-weihnachtsmarkt-sein-hass-war-kein-geheimnis](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-dem-weihnachtsmarkt-sein-hass-war-kein-geheimnis-a-eb8b0eb1-c16d-45a4-b8d9-366effb874f5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-in-manchester-deutsche-aufruestung-guenstigere-abnehmspritzen](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-in-manchester-deutsche-aufruestung-guenstigere-abnehmspritzen-a-2ce700ac-3e40-4850-bfca-42ce320bf4af#ref=rss)
-### weihnachtsmarkt
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-dem-weihnachtsmarkt-sein-hass-war-kein-geheimnis](https://www.spiegel.de/panorama/justiz/magdeburg-anschlag-auf-dem-weihnachtsmarkt-sein-hass-war-kein-geheimnis-a-eb8b0eb1-c16d-45a4-b8d9-366effb874f5#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/politik/drohnenabwehr-durch-die-bundeswehr-damit-stoesst-alexander-dobrindt-an-verfassungsrechtliche-grenzen](https://www.spiegel.de/politik/drohnenabwehr-durch-die-bundeswehr-damit-stoesst-alexander-dobrindt-an-verfassungsrechtliche-grenzen-a-ecf2e587-b3ea-4c0c-bb72-1db46f7c4e75#ref=rss)
-### dobrindt
-
-* [https://www.spiegel.de/politik/drohnenabwehr-durch-die-bundeswehr-damit-stoesst-alexander-dobrindt-an-verfassungsrechtliche-grenzen](https://www.spiegel.de/politik/drohnenabwehr-durch-die-bundeswehr-damit-stoesst-alexander-dobrindt-an-verfassungsrechtliche-grenzen-a-ecf2e587-b3ea-4c0c-bb72-1db46f7c4e75#ref=rss)
+### einheit
+
+* [https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview](https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview-a-e03fa7d4-1088-41dc-bfb2-81c567b3a3f5#ref=rss)
+* [https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-und-gemeinsam-beim-einheitsfest-in-saarbruecken](https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-und-gemeinsam-beim-einheitsfest-in-saarbruecken-a-13a0ccc0-1049-4cb1-9620-6ab032df143b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist](https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist-a-fb150164-e553-4e9f-b6f5-262a49351ab6#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit-a-0b67942d-c0e6-410d-8ccf-efe105129964#ref=rss)
+* [https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar](https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar-a-d77faedb-c9a4-4d3d-b383-c519066f4767#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier](https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier-a-0a04330e-c75c-4665-a243-7433d10522c5#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe](https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe-a-68df5b09-e06c-4262-a2e5-79bc59eb665b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik](https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik-a-2956c664-4396-4f0e-9639-b27536fa4194#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-kueren-sie-ihren-lieblingssong-aus-dem-neuem-album-the-life-of-a-showgirl](https://www.spiegel.de/kultur/musik/taylor-swift-kueren-sie-ihren-lieblingssong-aus-dem-neuem-album-the-life-of-a-showgirl-a-f77cbc1a-343b-40b7-8000-b0adf1a7a847#ref=rss)
+### swift
+
+* [https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe](https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe-a-68df5b09-e06c-4262-a2e5-79bc59eb665b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik](https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik-a-2956c664-4396-4f0e-9639-b27536fa4194#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-kueren-sie-ihren-lieblingssong-aus-dem-neuem-album-the-life-of-a-showgirl](https://www.spiegel.de/kultur/musik/taylor-swift-kueren-sie-ihren-lieblingssong-aus-dem-neuem-album-the-life-of-a-showgirl-a-f77cbc1a-343b-40b7-8000-b0adf1a7a847#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-und-gemeinsam-beim-einheitsfest-in-saarbruecken](https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-und-gemeinsam-beim-einheitsfest-in-saarbruecken-a-13a0ccc0-1049-4cb1-9620-6ab032df143b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-trionda-der-ball-in-rot-gruen-und-blau-im-detail](https://www.spiegel.de/sport/fussball/wm-2026-trionda-der-ball-in-rot-gruen-und-blau-im-detail-a-6b91228c-3e42-4b0a-93ff-144dfaece0c8#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit-a-0b67942d-c0e6-410d-8ccf-efe105129964#ref=rss)
+* [https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar](https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar-a-d77faedb-c9a4-4d3d-b383-c519066f4767#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier](https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier-a-0a04330e-c75c-4665-a243-7433d10522c5#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-in-manchester-deutsche-aufruestung-guenstigere-abnehmspritzen](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-in-manchester-deutsche-aufruestung-guenstigere-abnehmspritzen-a-2ce700ac-3e40-4850-bfca-42ce320bf4af#ref=rss)
-### aufrüstung
+* [https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview](https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview-a-e03fa7d4-1088-41dc-bfb2-81c567b3a3f5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist](https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist-a-fb150164-e553-4e9f-b6f5-262a49351ab6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache-a-5dae103d-56ee-420b-a9cc-da44c4eead2f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit-a-0b67942d-c0e6-410d-8ccf-efe105129964#ref=rss)
+### ganz
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-in-manchester-deutsche-aufruestung-guenstigere-abnehmspritzen](https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-in-manchester-deutsche-aufruestung-guenstigere-abnehmspritzen-a-2ce700ac-3e40-4850-bfca-42ce320bf4af#ref=rss)
-### tesla
+* [https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview](https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview-a-e03fa7d4-1088-41dc-bfb2-81c567b3a3f5#ref=rss)
+* [https://www.spiegel.de/panorama/leute/oktoberfest-wiesn-wirt-findet-heidifest-peinlich](https://www.spiegel.de/panorama/leute/oktoberfest-wiesn-wirt-findet-heidifest-peinlich-a-a99a20ec-2d75-4ec7-ba8d-90b94818d9e7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache-a-5dae103d-56ee-420b-a9cc-da44c4eead2f#ref=rss)
+### the
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-verkaufsrekord-in-den-usa-durch-auslaufende-elektropraemie](https://www.spiegel.de/wirtschaft/unternehmen/tesla-verkaufsrekord-in-den-usa-durch-auslaufende-elektropraemie-a-917f06f6-7861-4bd7-810f-d91035aae3e6#ref=rss)
+* [https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe](https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe-a-68df5b09-e06c-4262-a2e5-79bc59eb665b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik](https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik-a-2956c664-4396-4f0e-9639-b27536fa4194#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-kueren-sie-ihren-lieblingssong-aus-dem-neuem-album-the-life-of-a-showgirl](https://www.spiegel.de/kultur/musik/taylor-swift-kueren-sie-ihren-lieblingssong-aus-dem-neuem-album-the-life-of-a-showgirl-a-f77cbc1a-343b-40b7-8000-b0adf1a7a847#ref=rss)
+### life
+
+* [https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe](https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe-a-68df5b09-e06c-4262-a2e5-79bc59eb665b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik](https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik-a-2956c664-4396-4f0e-9639-b27536fa4194#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-kueren-sie-ihren-lieblingssong-aus-dem-neuem-album-the-life-of-a-showgirl](https://www.spiegel.de/kultur/musik/taylor-swift-kueren-sie-ihren-lieblingssong-aus-dem-neuem-album-the-life-of-a-showgirl-a-f77cbc1a-343b-40b7-8000-b0adf1a7a847#ref=rss)
+### of
+
+* [https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe](https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe-a-68df5b09-e06c-4262-a2e5-79bc59eb665b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik](https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik-a-2956c664-4396-4f0e-9639-b27536fa4194#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-kueren-sie-ihren-lieblingssong-aus-dem-neuem-album-the-life-of-a-showgirl](https://www.spiegel.de/kultur/musik/taylor-swift-kueren-sie-ihren-lieblingssong-aus-dem-neuem-album-the-life-of-a-showgirl-a-f77cbc1a-343b-40b7-8000-b0adf1a7a847#ref=rss)
+### showgirl
+
+* [https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe](https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe-a-68df5b09-e06c-4262-a2e5-79bc59eb665b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik](https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik-a-2956c664-4396-4f0e-9639-b27536fa4194#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-kueren-sie-ihren-lieblingssong-aus-dem-neuem-album-the-life-of-a-showgirl](https://www.spiegel.de/kultur/musik/taylor-swift-kueren-sie-ihren-lieblingssong-aus-dem-neuem-album-the-life-of-a-showgirl-a-f77cbc1a-343b-40b7-8000-b0adf1a7a847#ref=rss)
+### album
+
+* [https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe](https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe-a-68df5b09-e06c-4262-a2e5-79bc59eb665b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik](https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik-a-2956c664-4396-4f0e-9639-b27536fa4194#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-kueren-sie-ihren-lieblingssong-aus-dem-neuem-album-the-life-of-a-showgirl](https://www.spiegel.de/kultur/musik/taylor-swift-kueren-sie-ihren-lieblingssong-aus-dem-neuem-album-the-life-of-a-showgirl-a-f77cbc1a-343b-40b7-8000-b0adf1a7a847#ref=rss)
+### synagoge
+
+* [https://www.spiegel.de/ausland/manchester-angriff-vor-synagoge-ein-opfer-starb-offenbar-durch-schuss-der-polizei](https://www.spiegel.de/ausland/manchester-angriff-vor-synagoge-ein-opfer-starb-offenbar-durch-schuss-der-polizei-a-2b56b18e-f516-468e-a3e8-535130ee0968#ref=rss)
+* [https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus](https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus-a-1b2e7921-03b9-4f4a-9485-59409f1914e5#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/manchester-angriff-vor-synagoge-ein-opfer-starb-offenbar-durch-schuss-der-polizei](https://www.spiegel.de/ausland/manchester-angriff-vor-synagoge-ein-opfer-starb-offenbar-durch-schuss-der-polizei-a-2b56b18e-f516-468e-a3e8-535130ee0968#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache-a-5dae103d-56ee-420b-a9cc-da44c4eead2f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/wer-pflegegrad-1-bekommt-datenauswertung](https://www.spiegel.de/panorama/gesellschaft/wer-pflegegrad-1-bekommt-datenauswertung-a-cf1ae361-fb57-4151-9056-0a1a886ff4fd#ref=rss)
+* [https://www.spiegel.de/netzwelt/druck-von-donald-trump-apple-nimmt-warn-app-vor-einwanderungspolizei-aus-dem-programm](https://www.spiegel.de/netzwelt/druck-von-donald-trump-apple-nimmt-warn-app-vor-einwanderungspolizei-aus-dem-programm-a-ab1704f2-b733-4f7d-80f7-383b0965b9b4#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-mit-hunderten-drohnen-und-dutzenden-raketen-an](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-mit-hunderten-drohnen-und-dutzenden-raketen-an-a-4d02c2a9-5ea6-4c42-adf7-8312fa3e15e9#ref=rss)
+* [https://www.spiegel.de/ausland/daenemark-geheimdienst-wirft-russland-hybriden-krieg-gegen-den-westen-vor](https://www.spiegel.de/ausland/daenemark-geheimdienst-wirft-russland-hybriden-krieg-gegen-den-westen-vor-a-e60f9686-7b8a-4948-ae6c-2adc9673c127#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/muenchen-flughafen-wegen-drohnen-gesperrt-viele-fluege-fallen-aus](https://www.spiegel.de/politik/deutschland/muenchen-flughafen-wegen-drohnen-gesperrt-viele-fluege-fallen-aus-a-bc8ec3ed-ced1-4304-bda7-d5fb66e74d90#ref=rss)
+### ddr
+
+* [https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview](https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview-a-e03fa7d4-1088-41dc-bfb2-81c567b3a3f5#ref=rss)
+* [https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar](https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar-a-d77faedb-c9a4-4d3d-b383-c519066f4767#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-singapur-fahrer-sollen-kuehlwesten-gegen-hitze-tragen](https://www.spiegel.de/sport/formel1/formel-1-in-singapur-fahrer-sollen-kuehlwesten-gegen-hitze-tragen-a-5fe91ead-34c2-40b5-a99a-eecddf4eb00e#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/wer-pflegegrad-1-bekommt-datenauswertung](https://www.spiegel.de/panorama/gesellschaft/wer-pflegegrad-1-bekommt-datenauswertung-a-cf1ae361-fb57-4151-9056-0a1a886ff4fd#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/ausland/manchester-angriff-vor-synagoge-ein-opfer-starb-offenbar-durch-schuss-der-polizei](https://www.spiegel.de/ausland/manchester-angriff-vor-synagoge-ein-opfer-starb-offenbar-durch-schuss-der-polizei-a-2b56b18e-f516-468e-a3e8-535130ee0968#ref=rss)
+* [https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus](https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus-a-1b2e7921-03b9-4f4a-9485-59409f1914e5#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/panorama/krefeld-neueroeffnung-des-affenhauses-nach-brandkatastrophe-manchmal-sieht-er-noch-die-schimpansenhaende](https://www.spiegel.de/panorama/krefeld-neueroeffnung-des-affenhauses-nach-brandkatastrophe-manchmal-sieht-er-noch-die-schimpansenhaende-a-2f6fec9d-de82-4305-9a45-caffd1875806#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache-a-5dae103d-56ee-420b-a9cc-da44c4eead2f#ref=rss)
+* [https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus](https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus-a-1b2e7921-03b9-4f4a-9485-59409f1914e5#ref=rss)
+### saarbrücken
+
+* [https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-und-gemeinsam-beim-einheitsfest-in-saarbruecken](https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-und-gemeinsam-beim-einheitsfest-in-saarbruecken-a-13a0ccc0-1049-4cb1-9620-6ab032df143b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier](https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier-a-0a04330e-c75c-4665-a243-7433d10522c5#ref=rss)
+### neue
+
+* [https://www.spiegel.de/panorama/leute/oktoberfest-wiesn-wirt-findet-heidifest-peinlich](https://www.spiegel.de/panorama/leute/oktoberfest-wiesn-wirt-findet-heidifest-peinlich-a-a99a20ec-2d75-4ec7-ba8d-90b94818d9e7#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik](https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik-a-2956c664-4396-4f0e-9639-b27536fa4194#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025](https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025-a-0cc39f8b-1464-4ba4-ad5b-ddfad222dccd#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-trionda-der-ball-in-rot-gruen-und-blau-im-detail](https://www.spiegel.de/sport/fussball/wm-2026-trionda-der-ball-in-rot-gruen-und-blau-im-detail-a-6b91228c-3e42-4b0a-93ff-144dfaece0c8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache-a-5dae103d-56ee-420b-a9cc-da44c4eead2f#ref=rss)
+### lange
+
+* [https://www.spiegel.de/panorama/chikungunya-virus-breitet-sich-in-italien-weiter-aus](https://www.spiegel.de/panorama/chikungunya-virus-breitet-sich-in-italien-weiter-aus-a-dd16b727-85d2-4920-9e8e-fb6d678a1873#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit-a-0b67942d-c0e6-410d-8ccf-efe105129964#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025](https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025-a-0cc39f8b-1464-4ba4-ad5b-ddfad222dccd#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist](https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist-a-fb150164-e553-4e9f-b6f5-262a49351ab6#ref=rss)
+* [https://www.spiegel.de/ausland/daenemark-geheimdienst-wirft-russland-hybriden-krieg-gegen-den-westen-vor](https://www.spiegel.de/ausland/daenemark-geheimdienst-wirft-russland-hybriden-krieg-gegen-den-westen-vor-a-e60f9686-7b8a-4948-ae6c-2adc9673c127#ref=rss)
+* [https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar](https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar-a-d77faedb-c9a4-4d3d-b383-c519066f4767#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/israel-hamas-zoegert-entscheidung-ueber-donald-trumps-friedensplan-offenbar-hinaus](https://www.spiegel.de/ausland/israel-hamas-zoegert-entscheidung-ueber-donald-trumps-friedensplan-offenbar-hinaus-a-c8c27fa8-9780-4108-b809-8b3fe1d2d1e4#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025](https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025-a-0cc39f8b-1464-4ba4-ad5b-ddfad222dccd#ref=rss)
+* [https://www.spiegel.de/netzwelt/druck-von-donald-trump-apple-nimmt-warn-app-vor-einwanderungspolizei-aus-dem-programm](https://www.spiegel.de/netzwelt/druck-von-donald-trump-apple-nimmt-warn-app-vor-einwanderungspolizei-aus-dem-programm-a-ab1704f2-b733-4f7d-80f7-383b0965b9b4#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/israel-hamas-zoegert-entscheidung-ueber-donald-trumps-friedensplan-offenbar-hinaus](https://www.spiegel.de/ausland/israel-hamas-zoegert-entscheidung-ueber-donald-trumps-friedensplan-offenbar-hinaus-a-c8c27fa8-9780-4108-b809-8b3fe1d2d1e4#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025](https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025-a-0cc39f8b-1464-4ba4-ad5b-ddfad222dccd#ref=rss)
+* [https://www.spiegel.de/netzwelt/druck-von-donald-trump-apple-nimmt-warn-app-vor-einwanderungspolizei-aus-dem-programm](https://www.spiegel.de/netzwelt/druck-von-donald-trump-apple-nimmt-warn-app-vor-einwanderungspolizei-aus-dem-programm-a-ab1704f2-b733-4f7d-80f7-383b0965b9b4#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache-a-5dae103d-56ee-420b-a9cc-da44c4eead2f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/wer-pflegegrad-1-bekommt-datenauswertung](https://www.spiegel.de/panorama/gesellschaft/wer-pflegegrad-1-bekommt-datenauswertung-a-cf1ae361-fb57-4151-9056-0a1a886ff4fd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/muenchen-flughafen-wegen-drohnen-gesperrt-viele-fluege-fallen-aus](https://www.spiegel.de/politik/deutschland/muenchen-flughafen-wegen-drohnen-gesperrt-viele-fluege-fallen-aus-a-bc8ec3ed-ced1-4304-bda7-d5fb66e74d90#ref=rss)
+### mein
+
+* [https://www.spiegel.de/kultur/max-strohe-uebers-kranksein-beim-arbeiten](https://www.spiegel.de/kultur/max-strohe-uebers-kranksein-beim-arbeiten-a-3b7e3a86-6a36-4a3f-8e55-dc6ea9e959a2#ref=rss)
+### tiktok
+
+* [https://www.spiegel.de/netzwelt/tiktok-empfiehlt-13-jaehrigen-pornos-global-witness-ueber-tests-mit-fingierten-kinderkonten](https://www.spiegel.de/netzwelt/tiktok-empfiehlt-13-jaehrigen-pornos-global-witness-ueber-tests-mit-fingierten-kinderkonten-a-9f8d8422-e284-41bb-91a7-2fa134770f0e#ref=rss)
+### bin
+
+* [https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview](https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview-a-e03fa7d4-1088-41dc-bfb2-81c567b3a3f5#ref=rss)
+* [https://www.spiegel.de/kultur/max-strohe-uebers-kranksein-beim-arbeiten](https://www.spiegel.de/kultur/max-strohe-uebers-kranksein-beim-arbeiten-a-3b7e3a86-6a36-4a3f-8e55-dc6ea9e959a2#ref=rss)
+### ich
+
+* [https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview](https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview-a-e03fa7d4-1088-41dc-bfb2-81c567b3a3f5#ref=rss)
+* [https://www.spiegel.de/kultur/max-strohe-uebers-kranksein-beim-arbeiten](https://www.spiegel.de/kultur/max-strohe-uebers-kranksein-beim-arbeiten-a-3b7e3a86-6a36-4a3f-8e55-dc6ea9e959a2#ref=rss)
+### historiker
+
+* [https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview](https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview-a-e03fa7d4-1088-41dc-bfb2-81c567b3a3f5#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview](https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview-a-e03fa7d4-1088-41dc-bfb2-81c567b3a3f5#ref=rss)
+### wolle
+
+* [https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview](https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview-a-e03fa7d4-1088-41dc-bfb2-81c567b3a3f5#ref=rss)
+### 35
+
+* [https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview](https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview-a-e03fa7d4-1088-41dc-bfb2-81c567b3a3f5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist](https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist-a-fb150164-e553-4e9f-b6f5-262a49351ab6#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview](https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview-a-e03fa7d4-1088-41dc-bfb2-81c567b3a3f5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist](https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist-a-fb150164-e553-4e9f-b6f5-262a49351ab6#ref=rss)
+### wiedervereinigung
+
+* [https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview](https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview-a-e03fa7d4-1088-41dc-bfb2-81c567b3a3f5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist](https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist-a-fb150164-e553-4e9f-b6f5-262a49351ab6#ref=rss)
+### ost
+
+* [https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview](https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview-a-e03fa7d4-1088-41dc-bfb2-81c567b3a3f5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist](https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist-a-fb150164-e553-4e9f-b6f5-262a49351ab6#ref=rss)
+### west
+
+* [https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview](https://www.spiegel.de/geschichte/deutsche-einheit-und-ddr-gegen-ostgejammer-bin-ich-ganz-radikal-historiker-stefan-wolle-im-interview-a-e03fa7d4-1088-41dc-bfb2-81c567b3a3f5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist](https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist-a-fb150164-e553-4e9f-b6f5-262a49351ab6#ref=rss)
+### singapur
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-singapur-fahrer-sollen-kuehlwesten-gegen-hitze-tragen](https://www.spiegel.de/sport/formel1/formel-1-in-singapur-fahrer-sollen-kuehlwesten-gegen-hitze-tragen-a-5fe91ead-34c2-40b5-a99a-eecddf4eb00e#ref=rss)
+### kühlwesten
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-singapur-fahrer-sollen-kuehlwesten-gegen-hitze-tragen](https://www.spiegel.de/sport/formel1/formel-1-in-singapur-fahrer-sollen-kuehlwesten-gegen-hitze-tragen-a-5fe91ead-34c2-40b5-a99a-eecddf4eb00e#ref=rss)
+### hitze
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-singapur-fahrer-sollen-kuehlwesten-gegen-hitze-tragen](https://www.spiegel.de/sport/formel1/formel-1-in-singapur-fahrer-sollen-kuehlwesten-gegen-hitze-tragen-a-5fe91ead-34c2-40b5-a99a-eecddf4eb00e#ref=rss)
+### tragen
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-singapur-fahrer-sollen-kuehlwesten-gegen-hitze-tragen](https://www.spiegel.de/sport/formel1/formel-1-in-singapur-fahrer-sollen-kuehlwesten-gegen-hitze-tragen-a-5fe91ead-34c2-40b5-a99a-eecddf4eb00e#ref=rss)
+### neues
+
+* [https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe](https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe-a-68df5b09-e06c-4262-a2e5-79bc59eb665b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik](https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik-a-2956c664-4396-4f0e-9639-b27536fa4194#ref=rss)
+### zwölftes
+
+* [https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe](https://www.spiegel.de/kultur/taylor-swift-the-life-of-a-showgirl-der-letzte-stopp-vor-der-ehe-a-68df5b09-e06c-4262-a2e5-79bc59eb665b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-kueren-sie-ihren-lieblingssong-aus-dem-neuem-album-the-life-of-a-showgirl](https://www.spiegel.de/kultur/musik/taylor-swift-kueren-sie-ihren-lieblingssong-aus-dem-neuem-album-the-life-of-a-showgirl-a-f77cbc1a-343b-40b7-8000-b0adf1a7a847#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/manchester-angriff-vor-synagoge-ein-opfer-starb-offenbar-durch-schuss-der-polizei](https://www.spiegel.de/ausland/manchester-angriff-vor-synagoge-ein-opfer-starb-offenbar-durch-schuss-der-polizei-a-2b56b18e-f516-468e-a3e8-535130ee0968#ref=rss)
+* [https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus](https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus-a-1b2e7921-03b9-4f4a-9485-59409f1914e5#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/ausland/manchester-angriff-vor-synagoge-ein-opfer-starb-offenbar-durch-schuss-der-polizei](https://www.spiegel.de/ausland/manchester-angriff-vor-synagoge-ein-opfer-starb-offenbar-durch-schuss-der-polizei-a-2b56b18e-f516-468e-a3e8-535130ee0968#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/manchester-angriff-vor-synagoge-ein-opfer-starb-offenbar-durch-schuss-der-polizei](https://www.spiegel.de/ausland/manchester-angriff-vor-synagoge-ein-opfer-starb-offenbar-durch-schuss-der-polizei-a-2b56b18e-f516-468e-a3e8-535130ee0968#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-zoegert-entscheidung-ueber-donald-trumps-friedensplan-offenbar-hinaus](https://www.spiegel.de/ausland/israel-hamas-zoegert-entscheidung-ueber-donald-trumps-friedensplan-offenbar-hinaus-a-c8c27fa8-9780-4108-b809-8b3fe1d2d1e4#ref=rss)
+### jüdischen
+
+* [https://www.spiegel.de/ausland/manchester-angriff-vor-synagoge-ein-opfer-starb-offenbar-durch-schuss-der-polizei](https://www.spiegel.de/ausland/manchester-angriff-vor-synagoge-ein-opfer-starb-offenbar-durch-schuss-der-polizei-a-2b56b18e-f516-468e-a3e8-535130ee0968#ref=rss)
+* [https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus](https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus-a-1b2e7921-03b9-4f4a-9485-59409f1914e5#ref=rss)
+### neueröffnung
+
+* [https://www.spiegel.de/panorama/krefeld-neueroeffnung-des-affenhauses-nach-brandkatastrophe-manchmal-sieht-er-noch-die-schimpansenhaende](https://www.spiegel.de/panorama/krefeld-neueroeffnung-des-affenhauses-nach-brandkatastrophe-manchmal-sieht-er-noch-die-schimpansenhaende-a-2f6fec9d-de82-4305-9a45-caffd1875806#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/krefeld-neueroeffnung-des-affenhauses-nach-brandkatastrophe-manchmal-sieht-er-noch-die-schimpansenhaende](https://www.spiegel.de/panorama/krefeld-neueroeffnung-des-affenhauses-nach-brandkatastrophe-manchmal-sieht-er-noch-die-schimpansenhaende-a-2f6fec9d-de82-4305-9a45-caffd1875806#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/wer-pflegegrad-1-bekommt-datenauswertung](https://www.spiegel.de/panorama/gesellschaft/wer-pflegegrad-1-bekommt-datenauswertung-a-cf1ae361-fb57-4151-9056-0a1a886ff4fd#ref=rss)
+### julia
+
+* [https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-und-gemeinsam-beim-einheitsfest-in-saarbruecken](https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-und-gemeinsam-beim-einheitsfest-in-saarbruecken-a-13a0ccc0-1049-4cb1-9620-6ab032df143b#ref=rss)
+### klöckner
+
+* [https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-und-gemeinsam-beim-einheitsfest-in-saarbruecken](https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-und-gemeinsam-beim-einheitsfest-in-saarbruecken-a-13a0ccc0-1049-4cb1-9620-6ab032df143b#ref=rss)
+### jörg
+
+* [https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-und-gemeinsam-beim-einheitsfest-in-saarbruecken](https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-und-gemeinsam-beim-einheitsfest-in-saarbruecken-a-13a0ccc0-1049-4cb1-9620-6ab032df143b#ref=rss)
+### pilawa
+
+* [https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-und-gemeinsam-beim-einheitsfest-in-saarbruecken](https://www.spiegel.de/panorama/leute/julia-kloeckner-und-joerg-pilawa-und-gemeinsam-beim-einheitsfest-in-saarbruecken-a-13a0ccc0-1049-4cb1-9620-6ab032df143b#ref=rss)
 ### oktoberfest
 
-* [https://www.spiegel.de/panorama/oktoberfest-wiesn-wirte-bieten-gaesten-ausgleich-oder-rueckerstattung-an](https://www.spiegel.de/panorama/oktoberfest-wiesn-wirte-bieten-gaesten-ausgleich-oder-rueckerstattung-an-a-68bceb6d-95a3-496b-8817-41898719580e#ref=rss)
-### ausgleich
+* [https://www.spiegel.de/panorama/leute/oktoberfest-wiesn-wirt-findet-heidifest-peinlich](https://www.spiegel.de/panorama/leute/oktoberfest-wiesn-wirt-findet-heidifest-peinlich-a-a99a20ec-2d75-4ec7-ba8d-90b94818d9e7#ref=rss)
+### findet
 
-* [https://www.spiegel.de/panorama/oktoberfest-wiesn-wirte-bieten-gaesten-ausgleich-oder-rueckerstattung-an](https://www.spiegel.de/panorama/oktoberfest-wiesn-wirte-bieten-gaesten-ausgleich-oder-rueckerstattung-an-a-68bceb6d-95a3-496b-8817-41898719580e#ref=rss)
-### meta
+* [https://www.spiegel.de/panorama/leute/oktoberfest-wiesn-wirt-findet-heidifest-peinlich](https://www.spiegel.de/panorama/leute/oktoberfest-wiesn-wirt-findet-heidifest-peinlich-a-a99a20ec-2d75-4ec7-ba8d-90b94818d9e7#ref=rss)
+### heidifest
 
-* [https://www.spiegel.de/netzwelt/apps/meta-verbraucherschuetzer-fordern-fuer-tausende-schadensersatz-von-us-firma](https://www.spiegel.de/netzwelt/apps/meta-verbraucherschuetzer-fordern-fuer-tausende-schadensersatz-von-us-firma-a-5faef316-6571-4a59-8ad1-47585c931e16#ref=rss)
-### tausende
+* [https://www.spiegel.de/panorama/leute/oktoberfest-wiesn-wirt-findet-heidifest-peinlich](https://www.spiegel.de/panorama/leute/oktoberfest-wiesn-wirt-findet-heidifest-peinlich-a-a99a20ec-2d75-4ec7-ba8d-90b94818d9e7#ref=rss)
+### schlechtes
 
-* [https://www.spiegel.de/netzwelt/apps/meta-verbraucherschuetzer-fordern-fuer-tausende-schadensersatz-von-us-firma](https://www.spiegel.de/netzwelt/apps/meta-verbraucherschuetzer-fordern-fuer-tausende-schadensersatz-von-us-firma-a-5faef316-6571-4a59-8ad1-47585c931e16#ref=rss)
-### bad
+* [https://www.spiegel.de/panorama/leute/oktoberfest-wiesn-wirt-findet-heidifest-peinlich](https://www.spiegel.de/panorama/leute/oktoberfest-wiesn-wirt-findet-heidifest-peinlich-a-a99a20ec-2d75-4ec7-ba8d-90b94818d9e7#ref=rss)
+* [https://www.spiegel.de/kultur/max-strohe-uebers-kranksein-beim-arbeiten](https://www.spiegel.de/kultur/max-strohe-uebers-kranksein-beim-arbeiten-a-3b7e3a86-6a36-4a3f-8e55-dc6ea9e959a2#ref=rss)
+### entwickelt
 
-* [https://www.spiegel.de/panorama/bad-bunny-auftritt-ice-agenten-sollen-laut-trump-berater-bei-super-bowl-dabei-sein](https://www.spiegel.de/panorama/bad-bunny-auftritt-ice-agenten-sollen-laut-trump-berater-bei-super-bowl-dabei-sein-a-f56a3923-ace1-4b87-b2f1-040b5e94c2ed#ref=rss)
-### bunny
+* [https://www.spiegel.de/sport/fussball/wm-2026-trionda-der-ball-in-rot-gruen-und-blau-im-detail](https://www.spiegel.de/sport/fussball/wm-2026-trionda-der-ball-in-rot-gruen-und-blau-im-detail-a-6b91228c-3e42-4b0a-93ff-144dfaece0c8#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025](https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025-a-0cc39f8b-1464-4ba4-ad5b-ddfad222dccd#ref=rss)
+### russland
 
-* [https://www.spiegel.de/panorama/bad-bunny-auftritt-ice-agenten-sollen-laut-trump-berater-bei-super-bowl-dabei-sein](https://www.spiegel.de/panorama/bad-bunny-auftritt-ice-agenten-sollen-laut-trump-berater-bei-super-bowl-dabei-sein-a-f56a3923-ace1-4b87-b2f1-040b5e94c2ed#ref=rss)
-### super
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-mit-hunderten-drohnen-und-dutzenden-raketen-an](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-mit-hunderten-drohnen-und-dutzenden-raketen-an-a-4d02c2a9-5ea6-4c42-adf7-8312fa3e15e9#ref=rss)
+* [https://www.spiegel.de/ausland/daenemark-geheimdienst-wirft-russland-hybriden-krieg-gegen-den-westen-vor](https://www.spiegel.de/ausland/daenemark-geheimdienst-wirft-russland-hybriden-krieg-gegen-den-westen-vor-a-e60f9686-7b8a-4948-ae6c-2adc9673c127#ref=rss)
+### hunderten
 
-* [https://www.spiegel.de/panorama/bad-bunny-auftritt-ice-agenten-sollen-laut-trump-berater-bei-super-bowl-dabei-sein](https://www.spiegel.de/panorama/bad-bunny-auftritt-ice-agenten-sollen-laut-trump-berater-bei-super-bowl-dabei-sein-a-f56a3923-ace1-4b87-b2f1-040b5e94c2ed#ref=rss)
-### bowl
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-mit-hunderten-drohnen-und-dutzenden-raketen-an](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-mit-hunderten-drohnen-und-dutzenden-raketen-an-a-4d02c2a9-5ea6-4c42-adf7-8312fa3e15e9#ref=rss)
+### moskau
 
-* [https://www.spiegel.de/panorama/bad-bunny-auftritt-ice-agenten-sollen-laut-trump-berater-bei-super-bowl-dabei-sein](https://www.spiegel.de/panorama/bad-bunny-auftritt-ice-agenten-sollen-laut-trump-berater-bei-super-bowl-dabei-sein-a-f56a3923-ace1-4b87-b2f1-040b5e94c2ed#ref=rss)
-### shutdown
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-mit-hunderten-drohnen-und-dutzenden-raketen-an](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-mit-hunderten-drohnen-und-dutzenden-raketen-an-a-4d02c2a9-5ea6-4c42-adf7-8312fa3e15e9#ref=rss)
+* [https://www.spiegel.de/ausland/daenemark-geheimdienst-wirft-russland-hybriden-krieg-gegen-den-westen-vor](https://www.spiegel.de/ausland/daenemark-geheimdienst-wirft-russland-hybriden-krieg-gegen-den-westen-vor-a-e60f9686-7b8a-4948-ae6c-2adc9673c127#ref=rss)
+### fsv
 
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-die-demokraten-gehen-ins-risiko](https://www.spiegel.de/ausland/shutdown-in-den-usa-die-demokraten-gehen-ins-risiko-a-c73cb177-1ed5-4963-a217-ae941c1a4169#ref=rss)
-### demokraten
+* [https://www.spiegel.de/sport/fussball/fussball-europapokal-fsv-mainz-startet-mit-sieg-in-conference-league](https://www.spiegel.de/sport/fussball/fussball-europapokal-fsv-mainz-startet-mit-sieg-in-conference-league-a-4b13111b-ec01-4424-a678-0e178eebe0e3#ref=rss)
+### mainz
 
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-die-demokraten-gehen-ins-risiko](https://www.spiegel.de/ausland/shutdown-in-den-usa-die-demokraten-gehen-ins-risiko-a-c73cb177-1ed5-4963-a217-ae941c1a4169#ref=rss)
-### waffenübergabe
+* [https://www.spiegel.de/sport/fussball/fussball-europapokal-fsv-mainz-startet-mit-sieg-in-conference-league](https://www.spiegel.de/sport/fussball/fussball-europapokal-fsv-mainz-startet-mit-sieg-in-conference-league-a-4b13111b-ec01-4424-a678-0e178eebe0e3#ref=rss)
+### sieg
 
-* [https://www.spiegel.de/panorama/justiz/berlin-festnahmen-nach-waffenuebergabe-haftbefehle-gegen-mutmassliche-hamas-mitglieder](https://www.spiegel.de/panorama/justiz/berlin-festnahmen-nach-waffenuebergabe-haftbefehle-gegen-mutmassliche-hamas-mitglieder-a-0510eef2-6696-4ef0-b881-ecec31cdd1fc#ref=rss)
-### haftbefehle
+* [https://www.spiegel.de/sport/fussball/fussball-europapokal-fsv-mainz-startet-mit-sieg-in-conference-league](https://www.spiegel.de/sport/fussball/fussball-europapokal-fsv-mainz-startet-mit-sieg-in-conference-league-a-4b13111b-ec01-4424-a678-0e178eebe0e3#ref=rss)
+### conference
 
-* [https://www.spiegel.de/panorama/justiz/berlin-festnahmen-nach-waffenuebergabe-haftbefehle-gegen-mutmassliche-hamas-mitglieder](https://www.spiegel.de/panorama/justiz/berlin-festnahmen-nach-waffenuebergabe-haftbefehle-gegen-mutmassliche-hamas-mitglieder-a-0510eef2-6696-4ef0-b881-ecec31cdd1fc#ref=rss)
-### mutmaßliche
+* [https://www.spiegel.de/sport/fussball/fussball-europapokal-fsv-mainz-startet-mit-sieg-in-conference-league](https://www.spiegel.de/sport/fussball/fussball-europapokal-fsv-mainz-startet-mit-sieg-in-conference-league-a-4b13111b-ec01-4424-a678-0e178eebe0e3#ref=rss)
+### league
 
-* [https://www.spiegel.de/panorama/justiz/berlin-festnahmen-nach-waffenuebergabe-haftbefehle-gegen-mutmassliche-hamas-mitglieder](https://www.spiegel.de/panorama/justiz/berlin-festnahmen-nach-waffenuebergabe-haftbefehle-gegen-mutmassliche-hamas-mitglieder-a-0510eef2-6696-4ef0-b881-ecec31cdd1fc#ref=rss)
-### kapitän
+* [https://www.spiegel.de/sport/fussball/fussball-europapokal-fsv-mainz-startet-mit-sieg-in-conference-league](https://www.spiegel.de/sport/fussball/fussball-europapokal-fsv-mainz-startet-mit-sieg-in-conference-league-a-4b13111b-ec01-4424-a678-0e178eebe0e3#ref=rss)
+### konnten
 
-* [https://www.spiegel.de/ausland/drohnen-in-daenemark-kapitaen-von-festgesetztem-tanker-muss-in-frankreich-vor-gericht](https://www.spiegel.de/ausland/drohnen-in-daenemark-kapitaen-von-festgesetztem-tanker-muss-in-frankreich-vor-gericht-a-2660e064-97b5-4cab-a51b-e02cf9eb361f#ref=rss)
-### pistorius
+* [https://www.spiegel.de/sport/fussball/fussball-europapokal-fsv-mainz-startet-mit-sieg-in-conference-league](https://www.spiegel.de/sport/fussball/fussball-europapokal-fsv-mainz-startet-mit-sieg-in-conference-league-a-4b13111b-ec01-4424-a678-0e178eebe0e3#ref=rss)
+* [https://www.spiegel.de/netzwelt/druck-von-donald-trump-apple-nimmt-warn-app-vor-einwanderungspolizei-aus-dem-programm](https://www.spiegel.de/netzwelt/druck-von-donald-trump-apple-nimmt-warn-app-vor-einwanderungspolizei-aus-dem-programm-a-ab1704f2-b733-4f7d-80f7-383b0965b9b4#ref=rss)
+### italien
 
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-in-not-groesstes-ruestungsprojekt-der-marine-verzoegert-sich-um-jahre](https://www.spiegel.de/politik/deutschland/boris-pistorius-in-not-groesstes-ruestungsprojekt-der-marine-verzoegert-sich-um-jahre-a-00f4018f-658f-46c5-b1f6-b3b4b2891f02#ref=rss)
-### adam
+* [https://www.spiegel.de/panorama/chikungunya-virus-breitet-sich-in-italien-weiter-aus](https://www.spiegel.de/panorama/chikungunya-virus-breitet-sich-in-italien-weiter-aus-a-dd16b727-85d2-4920-9e8e-fb6d678a1873#ref=rss)
+### besonders
 
-* [https://www.spiegel.de/kultur/kino/adam-sandler-traegt-jetzt-anzug-wegen-george-clooney](https://www.spiegel.de/kultur/kino/adam-sandler-traegt-jetzt-anzug-wegen-george-clooney-a-68871222-1baa-455b-b3b0-8e0a31ee4aed#ref=rss)
-### sandler
+* [https://www.spiegel.de/panorama/chikungunya-virus-breitet-sich-in-italien-weiter-aus](https://www.spiegel.de/panorama/chikungunya-virus-breitet-sich-in-italien-weiter-aus-a-dd16b727-85d2-4920-9e8e-fb6d678a1873#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/wer-pflegegrad-1-bekommt-datenauswertung](https://www.spiegel.de/panorama/gesellschaft/wer-pflegegrad-1-bekommt-datenauswertung-a-cf1ae361-fb57-4151-9056-0a1a886ff4fd#ref=rss)
+### geteilt
 
-* [https://www.spiegel.de/kultur/kino/adam-sandler-traegt-jetzt-anzug-wegen-george-clooney](https://www.spiegel.de/kultur/kino/adam-sandler-traegt-jetzt-anzug-wegen-george-clooney-a-68871222-1baa-455b-b3b0-8e0a31ee4aed#ref=rss)
-### george
+* [https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist](https://www.spiegel.de/wirtschaft/35-jahre-deutsche-einheit-wo-deutschland-weiterhin-geteilt-ist-a-fb150164-e553-4e9f-b6f5-262a49351ab6#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik](https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik-a-2956c664-4396-4f0e-9639-b27536fa4194#ref=rss)
+### dänemark
 
-* [https://www.spiegel.de/kultur/kino/adam-sandler-traegt-jetzt-anzug-wegen-george-clooney](https://www.spiegel.de/kultur/kino/adam-sandler-traegt-jetzt-anzug-wegen-george-clooney-a-68871222-1baa-455b-b3b0-8e0a31ee4aed#ref=rss)
-### clooney
+* [https://www.spiegel.de/ausland/daenemark-geheimdienst-wirft-russland-hybriden-krieg-gegen-den-westen-vor](https://www.spiegel.de/ausland/daenemark-geheimdienst-wirft-russland-hybriden-krieg-gegen-den-westen-vor-a-e60f9686-7b8a-4948-ae6c-2adc9673c127#ref=rss)
+### wirft
 
-* [https://www.spiegel.de/kultur/kino/adam-sandler-traegt-jetzt-anzug-wegen-george-clooney](https://www.spiegel.de/kultur/kino/adam-sandler-traegt-jetzt-anzug-wegen-george-clooney-a-68871222-1baa-455b-b3b0-8e0a31ee4aed#ref=rss)
-### bayern
+* [https://www.spiegel.de/ausland/daenemark-geheimdienst-wirft-russland-hybriden-krieg-gegen-den-westen-vor](https://www.spiegel.de/ausland/daenemark-geheimdienst-wirft-russland-hybriden-krieg-gegen-den-westen-vor-a-e60f9686-7b8a-4948-ae6c-2adc9673c127#ref=rss)
+* [https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus](https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus-a-1b2e7921-03b9-4f4a-9485-59409f1914e5#ref=rss)
+### vorfällen
 
-* [https://www.spiegel.de/gesundheit/bayern-erneuter-todesfall-durch-borna-virus](https://www.spiegel.de/gesundheit/bayern-erneuter-todesfall-durch-borna-virus-a-2e574626-b7b8-4508-b969-bb2e6dd90c4f#ref=rss)
+* [https://www.spiegel.de/ausland/daenemark-geheimdienst-wirft-russland-hybriden-krieg-gegen-den-westen-vor](https://www.spiegel.de/ausland/daenemark-geheimdienst-wirft-russland-hybriden-krieg-gegen-den-westen-vor-a-e60f9686-7b8a-4948-ae6c-2adc9673c127#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/muenchen-flughafen-wegen-drohnen-gesperrt-viele-fluege-fallen-aus](https://www.spiegel.de/politik/deutschland/muenchen-flughafen-wegen-drohnen-gesperrt-viele-fluege-fallen-aus-a-bc8ec3ed-ced1-4304-bda7-d5fb66e74d90#ref=rss)
+### andrej
+
+* [https://www.spiegel.de/ausland/andrej-babis-bei-der-tschechien-wahl-er-ist-wieder-da](https://www.spiegel.de/ausland/andrej-babis-bei-der-tschechien-wahl-er-ist-wieder-da-a-387ca317-8c7a-4e12-9d6f-11b30d6946b2#ref=rss)
+### babiš
+
+* [https://www.spiegel.de/ausland/andrej-babis-bei-der-tschechien-wahl-er-ist-wieder-da](https://www.spiegel.de/ausland/andrej-babis-bei-der-tschechien-wahl-er-ist-wieder-da-a-387ca317-8c7a-4e12-9d6f-11b30d6946b2#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-hamas-zoegert-entscheidung-ueber-donald-trumps-friedensplan-offenbar-hinaus](https://www.spiegel.de/ausland/israel-hamas-zoegert-entscheidung-ueber-donald-trumps-friedensplan-offenbar-hinaus-a-c8c27fa8-9780-4108-b809-8b3fe1d2d1e4#ref=rss)
+* [https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus](https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus-a-1b2e7921-03b9-4f4a-9485-59409f1914e5#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/ausland/israel-hamas-zoegert-entscheidung-ueber-donald-trumps-friedensplan-offenbar-hinaus](https://www.spiegel.de/ausland/israel-hamas-zoegert-entscheidung-ueber-donald-trumps-friedensplan-offenbar-hinaus-a-c8c27fa8-9780-4108-b809-8b3fe1d2d1e4#ref=rss)
+### friedensplan
+
+* [https://www.spiegel.de/ausland/israel-hamas-zoegert-entscheidung-ueber-donald-trumps-friedensplan-offenbar-hinaus](https://www.spiegel.de/ausland/israel-hamas-zoegert-entscheidung-ueber-donald-trumps-friedensplan-offenbar-hinaus-a-c8c27fa8-9780-4108-b809-8b3fe1d2d1e4#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/israel-hamas-zoegert-entscheidung-ueber-donald-trumps-friedensplan-offenbar-hinaus](https://www.spiegel.de/ausland/israel-hamas-zoegert-entscheidung-ueber-donald-trumps-friedensplan-offenbar-hinaus-a-c8c27fa8-9780-4108-b809-8b3fe1d2d1e4#ref=rss)
+* [https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025](https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025-a-0cc39f8b-1464-4ba4-ad5b-ddfad222dccd#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/ausland/israel-hamas-zoegert-entscheidung-ueber-donald-trumps-friedensplan-offenbar-hinaus](https://www.spiegel.de/ausland/israel-hamas-zoegert-entscheidung-ueber-donald-trumps-friedensplan-offenbar-hinaus-a-c8c27fa8-9780-4108-b809-8b3fe1d2d1e4#ref=rss)
+* [https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar](https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar-a-d77faedb-c9a4-4d3d-b383-c519066f4767#ref=rss)
+### künstliche
+
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache-a-5dae103d-56ee-420b-a9cc-da44c4eead2f#ref=rss)
+### intelligenz
+
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache-a-5dae103d-56ee-420b-a9cc-da44c4eead2f#ref=rss)
+### arbeitswelt
+
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache-a-5dae103d-56ee-420b-a9cc-da44c4eead2f#ref=rss)
+### gut
+
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-das-ende-der-arbeit-durch-ki-realitaet-oder-panikmache-a-5dae103d-56ee-420b-a9cc-da44c4eead2f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit-a-0b67942d-c0e6-410d-8ccf-efe105129964#ref=rss)
+### livekritik
+
+* [https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik](https://www.spiegel.de/kultur/musik/taylor-swift-so-klingt-ihr-neues-album-the-life-of-a-showgirl-livekritik-a-2956c664-4396-4f0e-9639-b27536fa4194#ref=rss)
+### pflegegrad
+
+* [https://www.spiegel.de/panorama/gesellschaft/wer-pflegegrad-1-bekommt-datenauswertung](https://www.spiegel.de/panorama/gesellschaft/wer-pflegegrad-1-bekommt-datenauswertung-a-cf1ae361-fb57-4151-9056-0a1a886ff4fd#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/panorama/gesellschaft/wer-pflegegrad-1-bekommt-datenauswertung](https://www.spiegel.de/panorama/gesellschaft/wer-pflegegrad-1-bekommt-datenauswertung-a-cf1ae361-fb57-4151-9056-0a1a886ff4fd#ref=rss)
+* [https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar](https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar-a-d77faedb-c9a4-4d3d-b383-c519066f4767#ref=rss)
+### julie
+
+* [https://www.spiegel.de/start/malerin-werden-julie-batteux-erzaehlt-von-ausbildung-einnahmen-foerderungen](https://www.spiegel.de/start/malerin-werden-julie-batteux-erzaehlt-von-ausbildung-einnahmen-foerderungen-a-22fe54ba-66f2-4e0e-8eda-689501bc088c#ref=rss)
+### batteux
+
+* [https://www.spiegel.de/start/malerin-werden-julie-batteux-erzaehlt-von-ausbildung-einnahmen-foerderungen](https://www.spiegel.de/start/malerin-werden-julie-batteux-erzaehlt-von-ausbildung-einnahmen-foerderungen-a-22fe54ba-66f2-4e0e-8eda-689501bc088c#ref=rss)
+### förderungen
+
+* [https://www.spiegel.de/start/malerin-werden-julie-batteux-erzaehlt-von-ausbildung-einnahmen-foerderungen](https://www.spiegel.de/start/malerin-werden-julie-batteux-erzaehlt-von-ausbildung-einnahmen-foerderungen-a-22fe54ba-66f2-4e0e-8eda-689501bc088c#ref=rss)
+### antisemitismus
+
+* [https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus](https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus-a-1b2e7921-03b9-4f4a-9485-59409f1914e5#ref=rss)
+### feiertag
+
+* [https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus](https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus-a-1b2e7921-03b9-4f4a-9485-59409f1914e5#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit-a-0b67942d-c0e6-410d-8ccf-efe105129964#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus](https://www.spiegel.de/ausland/manchester-anschlag-auf-synagoge-loest-debatte-ueber-antisemitismus-aus-a-1b2e7921-03b9-4f4a-9485-59409f1914e5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier](https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier-a-0a04330e-c75c-4665-a243-7433d10522c5#ref=rss)
+### quiz
+
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit-a-0b67942d-c0e6-410d-8ccf-efe105129964#ref=rss)
+### 3
+
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit-a-0b67942d-c0e6-410d-8ccf-efe105129964#ref=rss)
+* [https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar](https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar-a-d77faedb-c9a4-4d3d-b383-c519066f4767#ref=rss)
+### oktober
+
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit-a-0b67942d-c0e6-410d-8ccf-efe105129964#ref=rss)
+* [https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar](https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar-a-d77faedb-c9a4-4d3d-b383-c519066f4767#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit-a-0b67942d-c0e6-410d-8ccf-efe105129964#ref=rss)
+### mauer
+
+* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-3-oktober-wie-viel-wissen-sie-ueber-die-deutsche-einheit-a-0b67942d-c0e6-410d-8ccf-efe105129964#ref=rss)
+* [https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar](https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar-a-d77faedb-c9a4-4d3d-b383-c519066f4767#ref=rss)
+### sondern
+
+* [https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar](https://www.spiegel.de/ausland/tag-der-deutschen-einheit-das-wunder-neu-beleben-kommentar-a-d77faedb-c9a4-4d3d-b383-c519066f4767#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025](https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025-a-0cc39f8b-1464-4ba4-ad5b-ddfad222dccd#ref=rss)
+* [https://www.spiegel.de/netzwelt/druck-von-donald-trump-apple-nimmt-warn-app-vor-einwanderungspolizei-aus-dem-programm](https://www.spiegel.de/netzwelt/druck-von-donald-trump-apple-nimmt-warn-app-vor-einwanderungspolizei-aus-dem-programm-a-ab1704f2-b733-4f7d-80f7-383b0965b9b4#ref=rss)
+### project
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025](https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025-a-0cc39f8b-1464-4ba4-ad5b-ddfad222dccd#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025](https://www.spiegel.de/ausland/usa-donald-trump-distanziert-sich-nicht-laenger-von-umstrittenem-project-2025-a-0cc39f8b-1464-4ba4-ad5b-ddfad222dccd#ref=rss)
+### prinz
+
+* [https://www.spiegel.de/panorama/leute/prinz-william-britischer-thronfolger-von-familienstress-ueberfordert](https://www.spiegel.de/panorama/leute/prinz-william-britischer-thronfolger-von-familienstress-ueberfordert-a-ad618d4c-4039-4633-8546-c9a7a65b9f95#ref=rss)
+### william
+
+* [https://www.spiegel.de/panorama/leute/prinz-william-britischer-thronfolger-von-familienstress-ueberfordert](https://www.spiegel.de/panorama/leute/prinz-william-britischer-thronfolger-von-familienstress-ueberfordert-a-ad618d4c-4039-4633-8546-c9a7a65b9f95#ref=rss)
+### thronfolger
+
+* [https://www.spiegel.de/panorama/leute/prinz-william-britischer-thronfolger-von-familienstress-ueberfordert](https://www.spiegel.de/panorama/leute/prinz-william-britischer-thronfolger-von-familienstress-ueberfordert-a-ad618d4c-4039-4633-8546-c9a7a65b9f95#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/politik/deutschland/muenchen-flughafen-wegen-drohnen-gesperrt-viele-fluege-fallen-aus](https://www.spiegel.de/politik/deutschland/muenchen-flughafen-wegen-drohnen-gesperrt-viele-fluege-fallen-aus-a-bc8ec3ed-ced1-4304-bda7-d5fb66e74d90#ref=rss)
+### angela
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier](https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier-a-0a04330e-c75c-4665-a243-7433d10522c5#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier](https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier-a-0a04330e-c75c-4665-a243-7433d10522c5#ref=rss)
+### emmanuel
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier](https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier-a-0a04330e-c75c-4665-a243-7433d10522c5#ref=rss)
+### macron
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier](https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier-a-0a04330e-c75c-4665-a243-7433d10522c5#ref=rss)
+### gastredner
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier](https://www.spiegel.de/politik/deutschland/angela-merkel-kritisiert-einladung-von-emmanuel-macron-als-gastredner-zur-einheitsfeier-a-0a04330e-c75c-4665-a243-7433d10522c5#ref=rss)
+### apple
+
+* [https://www.spiegel.de/netzwelt/druck-von-donald-trump-apple-nimmt-warn-app-vor-einwanderungspolizei-aus-dem-programm](https://www.spiegel.de/netzwelt/druck-von-donald-trump-apple-nimmt-warn-app-vor-einwanderungspolizei-aus-dem-programm-a-ab1704f2-b733-4f7d-80f7-383b0965b9b4#ref=rss)
 
