@@ -4,338 +4,335 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### einheit
+### mehr
 
-* [https://www.spiegel.de/psychologie/deutsche-einheit-wendekinder-studie-fuer-manche-wurde-eben-nicht-alles-besser](https://www.spiegel.de/psychologie/deutsche-einheit-wendekinder-studie-fuer-manche-wurde-eben-nicht-alles-besser-a-85c75fb9-38ac-4c76-92a1-6ba79c3ee248#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/die-baseballschlaegerjahre-rechtsextreme-gewalt-nach-der-deutschen-einheit-spiegel-tv-dokumentation](https://www.spiegel.de/panorama/gesellschaft/die-baseballschlaegerjahre-rechtsextreme-gewalt-nach-der-deutschen-einheit-spiegel-tv-dokumentation-a-67a03170-b6bf-4208-a6af-497b746b03ac#ref=rss)
-* [https://www.spiegel.de/panorama/wiedervereinigung-feier-in-saarbruecken-macron-fordert-schutz-der-demokratie](https://www.spiegel.de/panorama/wiedervereinigung-feier-in-saarbruecken-macron-fordert-schutz-der-demokratie-a-b683313d-cd65-4d63-a0ab-4e7f49cdd70f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd-a-96a301c4-836f-4a8b-ac4d-7c2b37f18a89#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen-a-e66962d3-2d21-4f51-a7bb-d1f42fe13198#ref=rss)
-### trump
+* [https://www.spiegel.de/start/bildung-zahl-der-schulabbrecher-erreicht-hoechststand-seit-zehn-jahren](https://www.spiegel.de/start/bildung-zahl-der-schulabbrecher-erreicht-hoechststand-seit-zehn-jahren-a-1ac62e82-07ff-4e97-91dd-d3c34c3b52ed#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-us-finanzministerium-erwaegt-praegung-von-ein-dollar-muenze-mit-abbildung-des-praesidenten](https://www.spiegel.de/wirtschaft/donald-trump-us-finanzministerium-erwaegt-praegung-von-ein-dollar-muenze-mit-abbildung-des-praesidenten-a-10b07ad6-78de-4202-ab8b-4102528c4bfd#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus](https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus-a-b41682f1-df5e-4896-a9eb-2ee3d0b2feda#ref=rss)
+* [https://www.spiegel.de/ausland/iranisches-regime-laesst-sechs-menschen-hinrichten](https://www.spiegel.de/ausland/iranisches-regime-laesst-sechs-menschen-hinrichten-a-de7a1b9e-ca18-499a-a5e3-a037cfe5cd16#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wissenschaft/usa-gegen-china-petro-vs-elektro-das-energieduell-in-grafiken](https://www.spiegel.de/wissenschaft/usa-gegen-china-petro-vs-elektro-das-energieduell-in-grafiken-a-524e8f9f-41f2-40da-a11d-27164cab6799#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal](https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal-a-68425d56-8154-49a2-900a-d7bded153902#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trumps-israel-hamas-friedensplan-fuer-gaza-ein-plan-der-keiner-ist](https://www.spiegel.de/ausland/donald-trumps-israel-hamas-friedensplan-fuer-gaza-ein-plan-der-keiner-ist-a-5bd99c70-8df3-44a1-8fa2-8048210ad495#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-statue-in-washington-ist-wieder-da](https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-statue-in-washington-ist-wieder-da-a-bfac1a4f-1fd4-4704-9330-1907801623b2#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/panorama/gesellschaft/die-baseballschlaegerjahre-rechtsextreme-gewalt-nach-der-deutschen-einheit-spiegel-tv-dokumentation](https://www.spiegel.de/panorama/gesellschaft/die-baseballschlaegerjahre-rechtsextreme-gewalt-nach-der-deutschen-einheit-spiegel-tv-dokumentation-a-67a03170-b6bf-4208-a6af-497b746b03ac#ref=rss)
-* [https://www.spiegel.de/panorama/wiedervereinigung-feier-in-saarbruecken-macron-fordert-schutz-der-demokratie](https://www.spiegel.de/panorama/wiedervereinigung-feier-in-saarbruecken-macron-fordert-schutz-der-demokratie-a-b683313d-cd65-4d63-a0ab-4e7f49cdd70f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd-a-96a301c4-836f-4a8b-ac4d-7c2b37f18a89#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen-a-e66962d3-2d21-4f51-a7bb-d1f42fe13198#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gluecksspiel-wie-der-boom-der-sportwetten-junge-menschen-suechtig-macht](https://www.spiegel.de/wirtschaft/gluecksspiel-wie-der-boom-der-sportwetten-junge-menschen-suechtig-macht-a-489e53c3-574b-4abe-9336-93c2866449d2#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus](https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus-a-b41682f1-df5e-4896-a9eb-2ee3d0b2feda#ref=rss)
+* [https://www.spiegel.de/ausland/iranisches-regime-laesst-sechs-menschen-hinrichten](https://www.spiegel.de/ausland/iranisches-regime-laesst-sechs-menschen-hinrichten-a-de7a1b9e-ca18-499a-a5e3-a037cfe5cd16#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/wissenschaft/usa-gegen-china-petro-vs-elektro-das-energieduell-in-grafiken](https://www.spiegel.de/wissenschaft/usa-gegen-china-petro-vs-elektro-das-energieduell-in-grafiken-a-524e8f9f-41f2-40da-a11d-27164cab6799#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal](https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal-a-68425d56-8154-49a2-900a-d7bded153902#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trumps-israel-hamas-friedensplan-fuer-gaza-ein-plan-der-keiner-ist](https://www.spiegel.de/ausland/donald-trumps-israel-hamas-friedensplan-fuer-gaza-ein-plan-der-keiner-ist-a-5bd99c70-8df3-44a1-8fa2-8048210ad495#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-statue-in-washington-ist-wieder-da](https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-statue-in-washington-ist-wieder-da-a-bfac1a4f-1fd4-4704-9330-1907801623b2#ref=rss)
-### usa
+* [https://www.spiegel.de/wirtschaft/donald-trump-us-finanzministerium-erwaegt-praegung-von-ein-dollar-muenze-mit-abbildung-des-praesidenten](https://www.spiegel.de/wirtschaft/donald-trump-us-finanzministerium-erwaegt-praegung-von-ein-dollar-muenze-mit-abbildung-des-praesidenten-a-10b07ad6-78de-4202-ab8b-4102528c4bfd#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-stadt-bleibt-laut-israels-militaer-eine-gefaehrliche-kampfzone](https://www.spiegel.de/ausland/gaza-stadt-bleibt-laut-israels-militaer-eine-gefaehrliche-kampfzone-a-7d85d8a1-ddd0-471a-8169-66a310008364#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-sich-die-ukraine-zum-stachelschwein-ruesten-will](https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-sich-die-ukraine-zum-stachelschwein-ruesten-will-a-5f84ceb1-a539-4cd3-86c4-10405cb4b903#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-ice-razzien-eskalieren-auf-offener-strasse](https://www.spiegel.de/ausland/usa-unter-donald-trump-ice-razzien-eskalieren-auf-offener-strasse-a-2781604c-d7db-4a9f-8c0e-c8408b84c5cc#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/wissenschaft/usa-gegen-china-petro-vs-elektro-das-energieduell-in-grafiken](https://www.spiegel.de/wissenschaft/usa-gegen-china-petro-vs-elektro-das-energieduell-in-grafiken-a-524e8f9f-41f2-40da-a11d-27164cab6799#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-vier-tote-bei-erneutem-us-angriff-auf-angebliches-drogen-schiff](https://www.spiegel.de/ausland/venezuela-vier-tote-bei-erneutem-us-angriff-auf-angebliches-drogen-schiff-a-cd61421c-0902-4c98-a411-c1a550e875a8#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal](https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal-a-68425d56-8154-49a2-900a-d7bded153902#ref=rss)
-### friedrich
+* [https://www.spiegel.de/start/bildung-zahl-der-schulabbrecher-erreicht-hoechststand-seit-zehn-jahren](https://www.spiegel.de/start/bildung-zahl-der-schulabbrecher-erreicht-hoechststand-seit-zehn-jahren-a-1ac62e82-07ff-4e97-91dd-d3c34c3b52ed#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus](https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus-a-b41682f1-df5e-4896-a9eb-2ee3d0b2feda#ref=rss)
+* [https://www.spiegel.de/kultur/tv/rtl-serie-euphorie-sich-schoen-aus-der-welt-ballern](https://www.spiegel.de/kultur/tv/rtl-serie-euphorie-sich-schoen-aus-der-welt-ballern-a-b5d0f7e1-d085-4999-85e2-ef9a60ce9f70#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd-a-96a301c4-836f-4a8b-ac4d-7c2b37f18a89#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen-a-e66962d3-2d21-4f51-a7bb-d1f42fe13198#ref=rss)
-### bahn
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/israels-krieg-in-gaza-was-die-antwort-der-hamas-auf-trumps-friedensplan-bedeutet](https://www.spiegel.de/ausland/israels-krieg-in-gaza-was-die-antwort-der-hamas-auf-trumps-friedensplan-bedeutet-a-26b4bd3b-1d43-49f6-af2a-dc7101e42ec7#ref=rss)
+### sieben
 
-* [https://www.spiegel.de/auto/deutsche-bahn-puenktlichkeit-die-bahn-hat-wichtigere-aufgaben-meinung](https://www.spiegel.de/auto/deutsche-bahn-puenktlichkeit-die-bahn-hat-wichtigere-aufgaben-meinung-a-4daf4b7d-558a-4357-95f0-af6314915f4c#ref=rss)
-### deutsche
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/iranisches-regime-laesst-sechs-menschen-hinrichten](https://www.spiegel.de/ausland/iranisches-regime-laesst-sechs-menschen-hinrichten-a-de7a1b9e-ca18-499a-a5e3-a037cfe5cd16#ref=rss)
+### ersetzt
 
-* [https://www.spiegel.de/psychologie/deutsche-einheit-wendekinder-studie-fuer-manche-wurde-eben-nicht-alles-besser](https://www.spiegel.de/psychologie/deutsche-einheit-wendekinder-studie-fuer-manche-wurde-eben-nicht-alles-besser-a-85c75fb9-38ac-4c76-92a1-6ba79c3ee248#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-puenktlichkeit-die-bahn-hat-wichtigere-aufgaben-meinung](https://www.spiegel.de/auto/deutsche-bahn-puenktlichkeit-die-bahn-hat-wichtigere-aufgaben-meinung-a-4daf4b7d-558a-4357-95f0-af6314915f4c#ref=rss)
-### vier
+* [https://www.spiegel.de/karriere/gizmodo-in-spanien-journalisten-werden-durch-automatische-uebersetzungen-ersetzt](https://www.spiegel.de/karriere/gizmodo-in-spanien-journalisten-werden-durch-automatische-uebersetzungen-ersetzt-a-06ac22f3-833c-4c8d-8606-79de041b37db#ref=rss)
+* [https://www.spiegel.de/karriere/ki-ersetzt-haltestellenansagerin-cornelia-grotsch-in-30-staedten](https://www.spiegel.de/karriere/ki-ersetzt-haltestellenansagerin-cornelia-grotsch-in-30-staedten-a-bee971b7-a1e7-4270-be8a-ea3b28019fe5#ref=rss)
+### ki
 
-* [https://www.spiegel.de/ausland/venezuela-vier-tote-bei-erneutem-us-angriff-auf-angebliches-drogen-schiff](https://www.spiegel.de/ausland/venezuela-vier-tote-bei-erneutem-us-angriff-auf-angebliches-drogen-schiff-a-cd61421c-0902-4c98-a411-c1a550e875a8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/oktoberfest-polizei-ermittelt-nach-hitlergruss](https://www.spiegel.de/panorama/justiz/oktoberfest-polizei-ermittelt-nach-hitlergruss-a-3bc82092-2b69-4139-b883-490a23084f38#ref=rss)
-* [https://www.spiegel.de/kultur/das-rote-haus-am-gorki-theater-ersan-mondtag-erzaehlt-die-saga-der-stolzen-tuerkinnen-von-berlin](https://www.spiegel.de/kultur/das-rote-haus-am-gorki-theater-ersan-mondtag-erzaehlt-die-saga-der-stolzen-tuerkinnen-von-berlin-a-d8916f8b-60e4-4219-b550-175780546c3e#ref=rss)
-### plan
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-wuerde-vor-landtagswahl-2028-in-tv-duell-mit-afd-kandidaten-diskutieren](https://www.spiegel.de/politik/deutschland/markus-soeder-wuerde-vor-landtagswahl-2028-in-tv-duell-mit-afd-kandidaten-diskutieren-a-60801e87-80f4-4a49-9ac2-e5651f3eb662#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trumps-israel-hamas-friedensplan-fuer-gaza-ein-plan-der-keiner-ist](https://www.spiegel.de/ausland/donald-trumps-israel-hamas-friedensplan-fuer-gaza-ein-plan-der-keiner-ist-a-5bd99c70-8df3-44a1-8fa2-8048210ad495#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/kultur/grimme-preis-und-uncivilized-bahadir-und-yueksel-geben-ihre-auszeichnung-zurueck](https://www.spiegel.de/kultur/grimme-preis-und-uncivilized-bahadir-und-yueksel-geben-ihre-auszeichnung-zurueck-a-7f60e8c9-baa1-413d-9d37-4453c3d4eba0#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/in-berlin-entlaufenes-kaenguru-ist-zurueck](https://www.spiegel.de/panorama/gesellschaft/in-berlin-entlaufenes-kaenguru-ist-zurueck-a-f1844487-45d0-47d2-9a19-23ae3bba0cf9#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-statue-in-washington-ist-wieder-da](https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-statue-in-washington-ist-wieder-da-a-bfac1a4f-1fd4-4704-9330-1907801623b2#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/grossherzog-guillaume-luxemburg-hat-einen-neuen-royalen-staatschef-der-waere-auch-gerne-koch-geworden](https://www.spiegel.de/ausland/grossherzog-guillaume-luxemburg-hat-einen-neuen-royalen-staatschef-der-waere-auch-gerne-koch-geworden-a-500340c1-2443-4ce8-b5b5-f7036e6bdf1c#ref=rss)
-* [https://www.spiegel.de/ausland/iran-praesident-masoud-pezeshkian-draengt-auf-verlegung-von-hauptstadt-teheran](https://www.spiegel.de/ausland/iran-praesident-masoud-pezeshkian-draengt-auf-verlegung-von-hauptstadt-teheran-a-3d566f0d-aa20-4378-8360-a387726d2c28#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen-a-e66962d3-2d21-4f51-a7bb-d1f42fe13198#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/panorama/wiedervereinigung-feier-in-saarbruecken-macron-fordert-schutz-der-demokratie](https://www.spiegel.de/panorama/wiedervereinigung-feier-in-saarbruecken-macron-fordert-schutz-der-demokratie-a-b683313d-cd65-4d63-a0ab-4e7f49cdd70f#ref=rss)
-* [https://www.spiegel.de/ausland/iran-praesident-masoud-pezeshkian-draengt-auf-verlegung-von-hauptstadt-teheran](https://www.spiegel.de/ausland/iran-praesident-masoud-pezeshkian-draengt-auf-verlegung-von-hauptstadt-teheran-a-3d566f0d-aa20-4378-8360-a387726d2c28#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal](https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal-a-68425d56-8154-49a2-900a-d7bded153902#ref=rss)
-* [https://www.spiegel.de/ausland/israels-krieg-gegen-die-hamas-was-noch-vom-gazastreifen-uebrig-ist](https://www.spiegel.de/ausland/israels-krieg-gegen-die-hamas-was-noch-vom-gazastreifen-uebrig-ist-a-57cb500c-75d9-4733-9b43-d6f70114bc73#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal](https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal-a-68425d56-8154-49a2-900a-d7bded153902#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trumps-israel-hamas-friedensplan-fuer-gaza-ein-plan-der-keiner-ist](https://www.spiegel.de/ausland/donald-trumps-israel-hamas-friedensplan-fuer-gaza-ein-plan-der-keiner-ist-a-5bd99c70-8df3-44a1-8fa2-8048210ad495#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-statue-in-washington-ist-wieder-da](https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-statue-in-washington-ist-wieder-da-a-bfac1a4f-1fd4-4704-9330-1907801623b2#ref=rss)
+* [https://www.spiegel.de/karriere/ki-ersetzt-haltestellenansagerin-cornelia-grotsch-in-30-staedten](https://www.spiegel.de/karriere/ki-ersetzt-haltestellenansagerin-cornelia-grotsch-in-30-staedten-a-bee971b7-a1e7-4270-be8a-ea3b28019fe5#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/ki-und-jobverlust-tiktok-mitarbeiter-benni-berichtet](https://www.spiegel.de/netzwelt/web/ki-und-jobverlust-tiktok-mitarbeiter-benni-berichtet-a-3cc97fb2-8d36-4ecf-b32d-75c78fa9b68f#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/panorama/gesellschaft/in-berlin-entlaufenes-kaenguru-ist-zurueck](https://www.spiegel.de/panorama/gesellschaft/in-berlin-entlaufenes-kaenguru-ist-zurueck-a-f1844487-45d0-47d2-9a19-23ae3bba0cf9#ref=rss)
-* [https://www.spiegel.de/kultur/das-rote-haus-am-gorki-theater-ersan-mondtag-erzaehlt-die-saga-der-stolzen-tuerkinnen-von-berlin](https://www.spiegel.de/kultur/das-rote-haus-am-gorki-theater-ersan-mondtag-erzaehlt-die-saga-der-stolzen-tuerkinnen-von-berlin-a-d8916f8b-60e4-4219-b550-175780546c3e#ref=rss)
-### tag
+* [https://www.spiegel.de/netzwelt/web/ki-und-jobverlust-tiktok-mitarbeiter-benni-berichtet](https://www.spiegel.de/netzwelt/web/ki-und-jobverlust-tiktok-mitarbeiter-benni-berichtet-a-3cc97fb2-8d36-4ecf-b32d-75c78fa9b68f#ref=rss)
+* [https://www.spiegel.de/politik/abgeordnetenhauswahl-2026-in-berlin-linke-setzt-auf-haustuerwahlkampf](https://www.spiegel.de/politik/abgeordnetenhauswahl-2026-in-berlin-linke-setzt-auf-haustuerwahlkampf-a-66c4e945-ffa4-45e1-924b-cef4b0e7fc08#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd-a-96a301c4-836f-4a8b-ac4d-7c2b37f18a89#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen-a-e66962d3-2d21-4f51-a7bb-d1f42fe13198#ref=rss)
-* [https://www.spiegel.de/ausland/manchester-terror-in-grossbritannien-am-hoechsten-juedischen-feiertag-jom-kippur](https://www.spiegel.de/ausland/manchester-terror-in-grossbritannien-am-hoechsten-juedischen-feiertag-jom-kippur-a-642b2809-76cd-418b-a60a-54d777976084#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd-a-96a301c4-836f-4a8b-ac4d-7c2b37f18a89#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen-a-e66962d3-2d21-4f51-a7bb-d1f42fe13198#ref=rss)
-### oktober
-
-* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd-a-96a301c4-836f-4a8b-ac4d-7c2b37f18a89#ref=rss)
-* [https://www.spiegel.de/reise/urlaub-im-oktober-herrlich-herbstlich](https://www.spiegel.de/reise/urlaub-im-oktober-herrlich-herbstlich-a-3269937b-f495-4109-bd82-7bde09b33375#ref=rss)
-### theater
-
-* [https://www.spiegel.de/kultur/das-rote-haus-am-gorki-theater-ersan-mondtag-erzaehlt-die-saga-der-stolzen-tuerkinnen-von-berlin](https://www.spiegel.de/kultur/das-rote-haus-am-gorki-theater-ersan-mondtag-erzaehlt-die-saga-der-stolzen-tuerkinnen-von-berlin-a-d8916f8b-60e4-4219-b550-175780546c3e#ref=rss)
-### gut
-
-* [https://www.spiegel.de/psychologie/coaching-gut-schlafen-schritt-2-so-schliessen-sie-frieden-mit-ihrer-schlaflosigkeit](https://www.spiegel.de/psychologie/coaching-gut-schlafen-schritt-2-so-schliessen-sie-frieden-mit-ihrer-schlaflosigkeit-a-d6c47e4f-41ab-417b-a640-7ab7d16bd990#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/in-berlin-entlaufenes-kaenguru-ist-zurueck](https://www.spiegel.de/panorama/gesellschaft/in-berlin-entlaufenes-kaenguru-ist-zurueck-a-f1844487-45d0-47d2-9a19-23ae3bba0cf9#ref=rss)
-### stunden
-
-* [https://www.spiegel.de/psychologie/coaching-gut-schlafen-schritt-2-so-schliessen-sie-frieden-mit-ihrer-schlaflosigkeit](https://www.spiegel.de/psychologie/coaching-gut-schlafen-schritt-2-so-schliessen-sie-frieden-mit-ihrer-schlaflosigkeit-a-d6c47e4f-41ab-417b-a640-7ab7d16bd990#ref=rss)
-### erlebt
-
-* [https://www.spiegel.de/psychologie/coaching-gut-schlafen-schritt-2-so-schliessen-sie-frieden-mit-ihrer-schlaflosigkeit](https://www.spiegel.de/psychologie/coaching-gut-schlafen-schritt-2-so-schliessen-sie-frieden-mit-ihrer-schlaflosigkeit-a-d6c47e4f-41ab-417b-a640-7ab7d16bd990#ref=rss)
-* [https://www.spiegel.de/ausland/grossherzog-guillaume-luxemburg-hat-einen-neuen-royalen-staatschef-der-waere-auch-gerne-koch-geworden](https://www.spiegel.de/ausland/grossherzog-guillaume-luxemburg-hat-einen-neuen-royalen-staatschef-der-waere-auch-gerne-koch-geworden-a-500340c1-2443-4ce8-b5b5-f7036e6bdf1c#ref=rss)
-### endlich
-
-* [https://www.spiegel.de/psychologie/coaching-gut-schlafen-schritt-2-so-schliessen-sie-frieden-mit-ihrer-schlaflosigkeit](https://www.spiegel.de/psychologie/coaching-gut-schlafen-schritt-2-so-schliessen-sie-frieden-mit-ihrer-schlaflosigkeit-a-d6c47e4f-41ab-417b-a640-7ab7d16bd990#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-puenktlichkeit-die-bahn-hat-wichtigere-aufgaben-meinung](https://www.spiegel.de/auto/deutsche-bahn-puenktlichkeit-die-bahn-hat-wichtigere-aufgaben-meinung-a-4daf4b7d-558a-4357-95f0-af6314915f4c#ref=rss)
-### laut
-
-* [https://www.spiegel.de/psychologie/deutsche-einheit-wendekinder-studie-fuer-manche-wurde-eben-nicht-alles-besser](https://www.spiegel.de/psychologie/deutsche-einheit-wendekinder-studie-fuer-manche-wurde-eben-nicht-alles-besser-a-85c75fb9-38ac-4c76-92a1-6ba79c3ee248#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal](https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal-a-68425d56-8154-49a2-900a-d7bded153902#ref=rss)
-### wiedervereinigung
-
-* [https://www.spiegel.de/psychologie/deutsche-einheit-wendekinder-studie-fuer-manche-wurde-eben-nicht-alles-besser](https://www.spiegel.de/psychologie/deutsche-einheit-wendekinder-studie-fuer-manche-wurde-eben-nicht-alles-besser-a-85c75fb9-38ac-4c76-92a1-6ba79c3ee248#ref=rss)
-* [https://www.spiegel.de/panorama/wiedervereinigung-feier-in-saarbruecken-macron-fordert-schutz-der-demokratie](https://www.spiegel.de/panorama/wiedervereinigung-feier-in-saarbruecken-macron-fordert-schutz-der-demokratie-a-b683313d-cd65-4d63-a0ab-4e7f49cdd70f#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/psychologie/deutsche-einheit-wendekinder-studie-fuer-manche-wurde-eben-nicht-alles-besser](https://www.spiegel.de/psychologie/deutsche-einheit-wendekinder-studie-fuer-manche-wurde-eben-nicht-alles-besser-a-85c75fb9-38ac-4c76-92a1-6ba79c3ee248#ref=rss)
-* [https://www.spiegel.de/kultur/grimme-preis-und-uncivilized-bahadir-und-yueksel-geben-ihre-auszeichnung-zurueck](https://www.spiegel.de/kultur/grimme-preis-und-uncivilized-bahadir-und-yueksel-geben-ihre-auszeichnung-zurueck-a-7f60e8c9-baa1-413d-9d37-4453c3d4eba0#ref=rss)
-### rechtsextreme
-
-* [https://www.spiegel.de/panorama/gesellschaft/die-baseballschlaegerjahre-rechtsextreme-gewalt-nach-der-deutschen-einheit-spiegel-tv-dokumentation](https://www.spiegel.de/panorama/gesellschaft/die-baseballschlaegerjahre-rechtsextreme-gewalt-nach-der-deutschen-einheit-spiegel-tv-dokumentation-a-67a03170-b6bf-4208-a6af-497b746b03ac#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/panorama/gesellschaft/die-baseballschlaegerjahre-rechtsextreme-gewalt-nach-der-deutschen-einheit-spiegel-tv-dokumentation](https://www.spiegel.de/panorama/gesellschaft/die-baseballschlaegerjahre-rechtsextreme-gewalt-nach-der-deutschen-einheit-spiegel-tv-dokumentation-a-67a03170-b6bf-4208-a6af-497b746b03ac#ref=rss)
-### china
-
-* [https://www.spiegel.de/wissenschaft/usa-gegen-china-petro-vs-elektro-das-energieduell-in-grafiken](https://www.spiegel.de/wissenschaft/usa-gegen-china-petro-vs-elektro-das-energieduell-in-grafiken-a-524e8f9f-41f2-40da-a11d-27164cab6799#ref=rss)
-### venezuela
-
-* [https://www.spiegel.de/ausland/venezuela-vier-tote-bei-erneutem-us-angriff-auf-angebliches-drogen-schiff](https://www.spiegel.de/ausland/venezuela-vier-tote-bei-erneutem-us-angriff-auf-angebliches-drogen-schiff-a-cd61421c-0902-4c98-a411-c1a550e875a8#ref=rss)
-### drohne
-
-* [https://www.spiegel.de/politik/deutschland/muenchen-drohne-auch-ueber-bundeswehr-gelaende-gesichtet](https://www.spiegel.de/politik/deutschland/muenchen-drohne-auch-ueber-bundeswehr-gelaende-gesichtet-a-f41e19b2-5950-49ed-8ad7-c7d3ce9a6a50#ref=rss)
-### waren
-
-* [https://www.spiegel.de/politik/deutschland/muenchen-drohne-auch-ueber-bundeswehr-gelaende-gesichtet](https://www.spiegel.de/politik/deutschland/muenchen-drohne-auch-ueber-bundeswehr-gelaende-gesichtet-a-f41e19b2-5950-49ed-8ad7-c7d3ce9a6a50#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trumps-israel-hamas-friedensplan-fuer-gaza-ein-plan-der-keiner-ist](https://www.spiegel.de/ausland/donald-trumps-israel-hamas-friedensplan-fuer-gaza-ein-plan-der-keiner-ist-a-5bd99c70-8df3-44a1-8fa2-8048210ad495#ref=rss)
-### markus
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-wuerde-vor-landtagswahl-2028-in-tv-duell-mit-afd-kandidaten-diskutieren](https://www.spiegel.de/politik/deutschland/markus-soeder-wuerde-vor-landtagswahl-2028-in-tv-duell-mit-afd-kandidaten-diskutieren-a-60801e87-80f4-4a49-9ac2-e5651f3eb662#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-wuerde-vor-landtagswahl-2028-in-tv-duell-mit-afd-kandidaten-diskutieren](https://www.spiegel.de/politik/deutschland/markus-soeder-wuerde-vor-landtagswahl-2028-in-tv-duell-mit-afd-kandidaten-diskutieren-a-60801e87-80f4-4a49-9ac2-e5651f3eb662#ref=rss)
-### grimmepreis
-
-* [https://www.spiegel.de/kultur/grimme-preis-und-uncivilized-bahadir-und-yueksel-geben-ihre-auszeichnung-zurueck](https://www.spiegel.de/kultur/grimme-preis-und-uncivilized-bahadir-und-yueksel-geben-ihre-auszeichnung-zurueck-a-7f60e8c9-baa1-413d-9d37-4453c3d4eba0#ref=rss)
-### auszeichnung
-
-* [https://www.spiegel.de/kultur/grimme-preis-und-uncivilized-bahadir-und-yueksel-geben-ihre-auszeichnung-zurueck](https://www.spiegel.de/kultur/grimme-preis-und-uncivilized-bahadir-und-yueksel-geben-ihre-auszeichnung-zurueck-a-7f60e8c9-baa1-413d-9d37-4453c3d4eba0#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/cdu-uebernimmt-ganze-passagen-vom-lobbyverband-der-autoindustrie](https://www.spiegel.de/politik/deutschland/cdu-uebernimmt-ganze-passagen-vom-lobbyverband-der-autoindustrie-a-b2e50c86-bf61-4d5e-95bd-27db95989b40#ref=rss)
-### ganze
-
-* [https://www.spiegel.de/politik/deutschland/cdu-uebernimmt-ganze-passagen-vom-lobbyverband-der-autoindustrie](https://www.spiegel.de/politik/deutschland/cdu-uebernimmt-ganze-passagen-vom-lobbyverband-der-autoindustrie-a-b2e50c86-bf61-4d5e-95bd-27db95989b40#ref=rss)
-### passagen
-
-* [https://www.spiegel.de/politik/deutschland/cdu-uebernimmt-ganze-passagen-vom-lobbyverband-der-autoindustrie](https://www.spiegel.de/politik/deutschland/cdu-uebernimmt-ganze-passagen-vom-lobbyverband-der-autoindustrie-a-b2e50c86-bf61-4d5e-95bd-27db95989b40#ref=rss)
-### lobbyverband
-
-* [https://www.spiegel.de/politik/deutschland/cdu-uebernimmt-ganze-passagen-vom-lobbyverband-der-autoindustrie](https://www.spiegel.de/politik/deutschland/cdu-uebernimmt-ganze-passagen-vom-lobbyverband-der-autoindustrie-a-b2e50c86-bf61-4d5e-95bd-27db95989b40#ref=rss)
-### autoindustrie
-
-* [https://www.spiegel.de/politik/deutschland/cdu-uebernimmt-ganze-passagen-vom-lobbyverband-der-autoindustrie](https://www.spiegel.de/politik/deutschland/cdu-uebernimmt-ganze-passagen-vom-lobbyverband-der-autoindustrie-a-b2e50c86-bf61-4d5e-95bd-27db95989b40#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/politik/deutschland/cdu-uebernimmt-ganze-passagen-vom-lobbyverband-der-autoindustrie](https://www.spiegel.de/politik/deutschland/cdu-uebernimmt-ganze-passagen-vom-lobbyverband-der-autoindustrie-a-b2e50c86-bf61-4d5e-95bd-27db95989b40#ref=rss)
-* [https://www.spiegel.de/kultur/das-rote-haus-am-gorki-theater-ersan-mondtag-erzaehlt-die-saga-der-stolzen-tuerkinnen-von-berlin](https://www.spiegel.de/kultur/das-rote-haus-am-gorki-theater-ersan-mondtag-erzaehlt-die-saga-der-stolzen-tuerkinnen-von-berlin-a-d8916f8b-60e4-4219-b550-175780546c3e#ref=rss)
-### problem
-
-* [https://www.spiegel.de/politik/deutschland/cdu-uebernimmt-ganze-passagen-vom-lobbyverband-der-autoindustrie](https://www.spiegel.de/politik/deutschland/cdu-uebernimmt-ganze-passagen-vom-lobbyverband-der-autoindustrie-a-b2e50c86-bf61-4d5e-95bd-27db95989b40#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-statue-in-washington-ist-wieder-da](https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-statue-in-washington-ist-wieder-da-a-bfac1a4f-1fd4-4704-9330-1907801623b2#ref=rss)
-### schattenflotte
-
-* [https://www.spiegel.de/ausland/schattenflotte-von-frankreich-festgesetzter-russischer-oeltanker-setzt-fahrt-fort](https://www.spiegel.de/ausland/schattenflotte-von-frankreich-festgesetzter-russischer-oeltanker-setzt-fahrt-fort-a-62e1a188-a893-4451-b370-ae1ce3b76d82#ref=rss)
-### öltanker
-
-* [https://www.spiegel.de/ausland/schattenflotte-von-frankreich-festgesetzter-russischer-oeltanker-setzt-fahrt-fort](https://www.spiegel.de/ausland/schattenflotte-von-frankreich-festgesetzter-russischer-oeltanker-setzt-fahrt-fort-a-62e1a188-a893-4451-b370-ae1ce3b76d82#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/ausland/schattenflotte-von-frankreich-festgesetzter-russischer-oeltanker-setzt-fahrt-fort](https://www.spiegel.de/ausland/schattenflotte-von-frankreich-festgesetzter-russischer-oeltanker-setzt-fahrt-fort-a-62e1a188-a893-4451-b370-ae1ce3b76d82#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal](https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal-a-68425d56-8154-49a2-900a-d7bded153902#ref=rss)
-### guillaume
-
-* [https://www.spiegel.de/ausland/grossherzog-guillaume-luxemburg-hat-einen-neuen-royalen-staatschef-der-waere-auch-gerne-koch-geworden](https://www.spiegel.de/ausland/grossherzog-guillaume-luxemburg-hat-einen-neuen-royalen-staatschef-der-waere-auch-gerne-koch-geworden-a-500340c1-2443-4ce8-b5b5-f7036e6bdf1c#ref=rss)
-### luxemburg
-
-* [https://www.spiegel.de/ausland/grossherzog-guillaume-luxemburg-hat-einen-neuen-royalen-staatschef-der-waere-auch-gerne-koch-geworden](https://www.spiegel.de/ausland/grossherzog-guillaume-luxemburg-hat-einen-neuen-royalen-staatschef-der-waere-auch-gerne-koch-geworden-a-500340c1-2443-4ce8-b5b5-f7036e6bdf1c#ref=rss)
-### feier
-
-* [https://www.spiegel.de/ausland/grossherzog-guillaume-luxemburg-hat-einen-neuen-royalen-staatschef-der-waere-auch-gerne-koch-geworden](https://www.spiegel.de/ausland/grossherzog-guillaume-luxemburg-hat-einen-neuen-royalen-staatschef-der-waere-auch-gerne-koch-geworden-a-500340c1-2443-4ce8-b5b5-f7036e6bdf1c#ref=rss)
-* [https://www.spiegel.de/panorama/wiedervereinigung-feier-in-saarbruecken-macron-fordert-schutz-der-demokratie](https://www.spiegel.de/panorama/wiedervereinigung-feier-in-saarbruecken-macron-fordert-schutz-der-demokratie-a-b683313d-cd65-4d63-a0ab-4e7f49cdd70f#ref=rss)
-### deepfakevideos
-
-* [https://www.spiegel.de/netzwelt/deepfake-videos-millionen-sehen-bizarre-ki-videos-von-politikern-an](https://www.spiegel.de/netzwelt/deepfake-videos-millionen-sehen-bizarre-ki-videos-von-politikern-an-a-9523723f-f201-4005-88c7-98307375a4de#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/netzwelt/deepfake-videos-millionen-sehen-bizarre-ki-videos-von-politikern-an](https://www.spiegel.de/netzwelt/deepfake-videos-millionen-sehen-bizarre-ki-videos-von-politikern-an-a-9523723f-f201-4005-88c7-98307375a4de#ref=rss)
-* [https://www.spiegel.de/panorama/los-angeles-grossbrand-in-chevron-raffinerie](https://www.spiegel.de/panorama/los-angeles-grossbrand-in-chevron-raffinerie-a-c998fe1e-510b-458f-83dc-b33cee5576ae#ref=rss)
-### politikern
-
-* [https://www.spiegel.de/netzwelt/deepfake-videos-millionen-sehen-bizarre-ki-videos-von-politikern-an](https://www.spiegel.de/netzwelt/deepfake-videos-millionen-sehen-bizarre-ki-videos-von-politikern-an-a-9523723f-f201-4005-88c7-98307375a4de#ref=rss)
-### wolfgang
-
-* [https://www.spiegel.de/panorama/wolfgang-engler-der-geist-vom-prenzlauer-berg](https://www.spiegel.de/panorama/wolfgang-engler-der-geist-vom-prenzlauer-berg-a-387c658a-e37e-422b-a4a0-d5480742c78a#ref=rss)
-### engler
-
-* [https://www.spiegel.de/panorama/wolfgang-engler-der-geist-vom-prenzlauer-berg](https://www.spiegel.de/panorama/wolfgang-engler-der-geist-vom-prenzlauer-berg-a-387c658a-e37e-422b-a4a0-d5480742c78a#ref=rss)
-### gemacht
-
-* [https://www.spiegel.de/panorama/wolfgang-engler-der-geist-vom-prenzlauer-berg](https://www.spiegel.de/panorama/wolfgang-engler-der-geist-vom-prenzlauer-berg-a-387c658a-e37e-422b-a4a0-d5480742c78a#ref=rss)
-* [https://www.spiegel.de/reise/urlaub-im-oktober-herrlich-herbstlich](https://www.spiegel.de/reise/urlaub-im-oktober-herrlich-herbstlich-a-3269937b-f495-4109-bd82-7bde09b33375#ref=rss)
-### demokratie
-
-* [https://www.spiegel.de/panorama/wiedervereinigung-feier-in-saarbruecken-macron-fordert-schutz-der-demokratie](https://www.spiegel.de/panorama/wiedervereinigung-feier-in-saarbruecken-macron-fordert-schutz-der-demokratie-a-b683313d-cd65-4d63-a0ab-4e7f49cdd70f#ref=rss)
-### jahrestag
-
-* [https://www.spiegel.de/panorama/wiedervereinigung-feier-in-saarbruecken-macron-fordert-schutz-der-demokratie](https://www.spiegel.de/panorama/wiedervereinigung-feier-in-saarbruecken-macron-fordert-schutz-der-demokratie-a-b683313d-cd65-4d63-a0ab-4e7f49cdd70f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen-a-e66962d3-2d21-4f51-a7bb-d1f42fe13198#ref=rss)
-### werde
-
-* [https://www.spiegel.de/panorama/wiedervereinigung-feier-in-saarbruecken-macron-fordert-schutz-der-demokratie](https://www.spiegel.de/panorama/wiedervereinigung-feier-in-saarbruecken-macron-fordert-schutz-der-demokratie-a-b683313d-cd65-4d63-a0ab-4e7f49cdd70f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal](https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal-a-68425d56-8154-49a2-900a-d7bded153902#ref=rss)
-### sonntagabend
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal](https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal-a-68425d56-8154-49a2-900a-d7bded153902#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal](https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal-a-68425d56-8154-49a2-900a-d7bded153902#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd-a-96a301c4-836f-4a8b-ac4d-7c2b37f18a89#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal](https://www.spiegel.de/ausland/israel-gaza-krieg-und-die-usa-donald-trump-gibt-hamas-bis-sonntagabend-fuer-gaza-deal-a-68425d56-8154-49a2-900a-d7bded153902#ref=rss)
-* [https://www.spiegel.de/ausland/israels-krieg-gegen-die-hamas-was-noch-vom-gazastreifen-uebrig-ist](https://www.spiegel.de/ausland/israels-krieg-gegen-die-hamas-was-noch-vom-gazastreifen-uebrig-ist-a-57cb500c-75d9-4733-9b43-d6f70114bc73#ref=rss)
-### känguru
-
-* [https://www.spiegel.de/panorama/gesellschaft/in-berlin-entlaufenes-kaenguru-ist-zurueck](https://www.spiegel.de/panorama/gesellschaft/in-berlin-entlaufenes-kaenguru-ist-zurueck-a-f1844487-45d0-47d2-9a19-23ae3bba0cf9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-us-finanzministerium-erwaegt-praegung-von-ein-dollar-muenze-mit-abbildung-des-praesidenten](https://www.spiegel.de/wirtschaft/donald-trump-us-finanzministerium-erwaegt-praegung-von-ein-dollar-muenze-mit-abbildung-des-praesidenten-a-10b07ad6-78de-4202-ab8b-4102528c4bfd#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-stadt-bleibt-laut-israels-militaer-eine-gefaehrliche-kampfzone](https://www.spiegel.de/ausland/gaza-stadt-bleibt-laut-israels-militaer-eine-gefaehrliche-kampfzone-a-7d85d8a1-ddd0-471a-8169-66a310008364#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-ice-razzien-eskalieren-auf-offener-strasse](https://www.spiegel.de/ausland/usa-unter-donald-trump-ice-razzien-eskalieren-auf-offener-strasse-a-2781604c-d7db-4a9f-8c0e-c8408b84c5cc#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/gesellschaft/in-berlin-entlaufenes-kaenguru-ist-zurueck](https://www.spiegel.de/panorama/gesellschaft/in-berlin-entlaufenes-kaenguru-ist-zurueck-a-f1844487-45d0-47d2-9a19-23ae3bba0cf9#ref=rss)
-* [https://www.spiegel.de/ausland/iran-praesident-masoud-pezeshkian-draengt-auf-verlegung-von-hauptstadt-teheran](https://www.spiegel.de/ausland/iran-praesident-masoud-pezeshkian-draengt-auf-verlegung-von-hauptstadt-teheran-a-3d566f0d-aa20-4378-8360-a387726d2c28#ref=rss)
-### polizei
+* [https://www.spiegel.de/wirtschaft/donald-trump-us-finanzministerium-erwaegt-praegung-von-ein-dollar-muenze-mit-abbildung-des-praesidenten](https://www.spiegel.de/wirtschaft/donald-trump-us-finanzministerium-erwaegt-praegung-von-ein-dollar-muenze-mit-abbildung-des-praesidenten-a-10b07ad6-78de-4202-ab8b-4102528c4bfd#ref=rss)
+* [https://www.spiegel.de/kultur/kim-kardashian-verklagt-ihren-ex-freund-ray-j](https://www.spiegel.de/kultur/kim-kardashian-verklagt-ihren-ex-freund-ray-j-a-b63db2cb-7362-49dc-82cc-cd8af357eb30#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-will-mit-europaeischen-amtskollegen-ueber-rueckkehrzentren-reden](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-will-mit-europaeischen-amtskollegen-ueber-rueckkehrzentren-reden-a-4ebf2755-331e-4d4e-bd44-55fe91823ab9#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/panorama/justiz/oktoberfest-polizei-ermittelt-nach-hitlergruss](https://www.spiegel.de/panorama/justiz/oktoberfest-polizei-ermittelt-nach-hitlergruss-a-3bc82092-2b69-4139-b883-490a23084f38#ref=rss)
-### hitlergruß
+* [https://www.spiegel.de/ausland/burschenschaften-in-oesterreich-die-seilschaften-der-maennerbuende](https://www.spiegel.de/ausland/burschenschaften-in-oesterreich-die-seilschaften-der-maennerbuende-a-ddd64ddb-c152-499b-9ffc-1baacbb48036#ref=rss)
+* [https://www.spiegel.de/ausland/unterwandern-burschenschafter-oesterreich](https://www.spiegel.de/ausland/unterwandern-burschenschafter-oesterreich-a-ce256ecb-8565-4e5d-b532-33f44822b261#ref=rss)
+### israel
 
-* [https://www.spiegel.de/panorama/justiz/oktoberfest-polizei-ermittelt-nach-hitlergruss](https://www.spiegel.de/panorama/justiz/oktoberfest-polizei-ermittelt-nach-hitlergruss-a-3bc82092-2b69-4139-b883-490a23084f38#ref=rss)
-### schnell
+* [https://www.spiegel.de/ausland/gaza-stadt-bleibt-laut-israels-militaer-eine-gefaehrliche-kampfzone](https://www.spiegel.de/ausland/gaza-stadt-bleibt-laut-israels-militaer-eine-gefaehrliche-kampfzone-a-7d85d8a1-ddd0-471a-8169-66a310008364#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus](https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus-a-b41682f1-df5e-4896-a9eb-2ee3d0b2feda#ref=rss)
+* [https://www.spiegel.de/ausland/iranisches-regime-laesst-sechs-menschen-hinrichten](https://www.spiegel.de/ausland/iranisches-regime-laesst-sechs-menschen-hinrichten-a-de7a1b9e-ca18-499a-a5e3-a037cfe5cd16#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/panorama/justiz/oktoberfest-polizei-ermittelt-nach-hitlergruss](https://www.spiegel.de/panorama/justiz/oktoberfest-polizei-ermittelt-nach-hitlergruss-a-3bc82092-2b69-4139-b883-490a23084f38#ref=rss)
-* [https://www.spiegel.de/ausland/iran-praesident-masoud-pezeshkian-draengt-auf-verlegung-von-hauptstadt-teheran](https://www.spiegel.de/ausland/iran-praesident-masoud-pezeshkian-draengt-auf-verlegung-von-hauptstadt-teheran-a-3d566f0d-aa20-4378-8360-a387726d2c28#ref=rss)
-### rede
+* [https://www.spiegel.de/ausland/gaza-stadt-bleibt-laut-israels-militaer-eine-gefaehrliche-kampfzone](https://www.spiegel.de/ausland/gaza-stadt-bleibt-laut-israels-militaer-eine-gefaehrliche-kampfzone-a-7d85d8a1-ddd0-471a-8169-66a310008364#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus](https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus-a-b41682f1-df5e-4896-a9eb-2ee3d0b2feda#ref=rss)
+### trumps
 
-* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd-a-96a301c4-836f-4a8b-ac4d-7c2b37f18a89#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen-a-e66962d3-2d21-4f51-a7bb-d1f42fe13198#ref=rss)
-### deutschland
+* [https://www.spiegel.de/ausland/israels-krieg-in-gaza-was-die-antwort-der-hamas-auf-trumps-friedensplan-bedeutet](https://www.spiegel.de/ausland/israels-krieg-in-gaza-was-die-antwort-der-hamas-auf-trumps-friedensplan-bedeutet-a-26b4bd3b-1d43-49f6-af2a-dc7101e42ec7#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-sich-die-ukraine-zum-stachelschwein-ruesten-will](https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-sich-die-ukraine-zum-stachelschwein-ruesten-will-a-5f84ceb1-a539-4cd3-86c4-10405cb4b903#ref=rss)
+### baby
 
-* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd-a-96a301c4-836f-4a8b-ac4d-7c2b37f18a89#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen-a-e66962d3-2d21-4f51-a7bb-d1f42fe13198#ref=rss)
-### einmal
+* [https://www.spiegel.de/ausland/nur-gute-nachrichten-massgeschneiderte-medizin](https://www.spiegel.de/ausland/nur-gute-nachrichten-massgeschneiderte-medizin-a-4755a95e-6ae2-465b-b9ef-5eeba9138b95#ref=rss)
+* [https://www.spiegel.de/karriere/baby-im-buero-wann-darf-ich-mein-kind-mit-zur-arbeit-nehmen](https://www.spiegel.de/karriere/baby-im-buero-wann-darf-ich-mein-kind-mit-zur-arbeit-nehmen-a-460bbda4-b402-438f-9c17-67412fcffab4#ref=rss)
+### hansgeorg
 
-* [https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd](https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-merz-fordert-neue-einheit-meint-aber-brd-a-96a301c4-836f-4a8b-ac4d-7c2b37f18a89#ref=rss)
-* [https://www.spiegel.de/kultur/das-rote-haus-am-gorki-theater-ersan-mondtag-erzaehlt-die-saga-der-stolzen-tuerkinnen-von-berlin](https://www.spiegel.de/kultur/das-rote-haus-am-gorki-theater-ersan-mondtag-erzaehlt-die-saga-der-stolzen-tuerkinnen-von-berlin-a-d8916f8b-60e4-4219-b550-175780546c3e#ref=rss)
-### israels
+* [https://www.spiegel.de/politik/deutschland/hans-georg-maassen-erwaegt-erneute-kandidatur-als-chef-der-werteunion](https://www.spiegel.de/politik/deutschland/hans-georg-maassen-erwaegt-erneute-kandidatur-als-chef-der-werteunion-a-adde3b05-d2fa-4fea-aee9-c2cf9cd956e9#ref=rss)
+### maaßen
 
-* [https://www.spiegel.de/ausland/donald-trumps-israel-hamas-friedensplan-fuer-gaza-ein-plan-der-keiner-ist](https://www.spiegel.de/ausland/donald-trumps-israel-hamas-friedensplan-fuer-gaza-ein-plan-der-keiner-ist-a-5bd99c70-8df3-44a1-8fa2-8048210ad495#ref=rss)
-* [https://www.spiegel.de/ausland/israels-krieg-gegen-die-hamas-was-noch-vom-gazastreifen-uebrig-ist](https://www.spiegel.de/ausland/israels-krieg-gegen-die-hamas-was-noch-vom-gazastreifen-uebrig-ist-a-57cb500c-75d9-4733-9b43-d6f70114bc73#ref=rss)
-### gorki
+* [https://www.spiegel.de/politik/deutschland/hans-georg-maassen-erwaegt-erneute-kandidatur-als-chef-der-werteunion](https://www.spiegel.de/politik/deutschland/hans-georg-maassen-erwaegt-erneute-kandidatur-als-chef-der-werteunion-a-adde3b05-d2fa-4fea-aee9-c2cf9cd956e9#ref=rss)
+### erwägt
 
-* [https://www.spiegel.de/kultur/das-rote-haus-am-gorki-theater-ersan-mondtag-erzaehlt-die-saga-der-stolzen-tuerkinnen-von-berlin](https://www.spiegel.de/kultur/das-rote-haus-am-gorki-theater-ersan-mondtag-erzaehlt-die-saga-der-stolzen-tuerkinnen-von-berlin-a-d8916f8b-60e4-4219-b550-175780546c3e#ref=rss)
-### herrlich
+* [https://www.spiegel.de/politik/deutschland/hans-georg-maassen-erwaegt-erneute-kandidatur-als-chef-der-werteunion](https://www.spiegel.de/politik/deutschland/hans-georg-maassen-erwaegt-erneute-kandidatur-als-chef-der-werteunion-a-adde3b05-d2fa-4fea-aee9-c2cf9cd956e9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-us-finanzministerium-erwaegt-praegung-von-ein-dollar-muenze-mit-abbildung-des-praesidenten](https://www.spiegel.de/wirtschaft/donald-trump-us-finanzministerium-erwaegt-praegung-von-ein-dollar-muenze-mit-abbildung-des-praesidenten-a-10b07ad6-78de-4202-ab8b-4102528c4bfd#ref=rss)
+### werteunion
 
-* [https://www.spiegel.de/auto/deutsche-bahn-puenktlichkeit-die-bahn-hat-wichtigere-aufgaben-meinung](https://www.spiegel.de/auto/deutsche-bahn-puenktlichkeit-die-bahn-hat-wichtigere-aufgaben-meinung-a-4daf4b7d-558a-4357-95f0-af6314915f4c#ref=rss)
-* [https://www.spiegel.de/reise/urlaub-im-oktober-herrlich-herbstlich](https://www.spiegel.de/reise/urlaub-im-oktober-herrlich-herbstlich-a-3269937b-f495-4109-bd82-7bde09b33375#ref=rss)
-### hauptstadt
+* [https://www.spiegel.de/politik/deutschland/hans-georg-maassen-erwaegt-erneute-kandidatur-als-chef-der-werteunion](https://www.spiegel.de/politik/deutschland/hans-georg-maassen-erwaegt-erneute-kandidatur-als-chef-der-werteunion-a-adde3b05-d2fa-4fea-aee9-c2cf9cd956e9#ref=rss)
+### zehn
 
-* [https://www.spiegel.de/ausland/iran-praesident-masoud-pezeshkian-draengt-auf-verlegung-von-hauptstadt-teheran](https://www.spiegel.de/ausland/iran-praesident-masoud-pezeshkian-draengt-auf-verlegung-von-hauptstadt-teheran-a-3d566f0d-aa20-4378-8360-a387726d2c28#ref=rss)
-### teheran
+* [https://www.spiegel.de/start/bildung-zahl-der-schulabbrecher-erreicht-hoechststand-seit-zehn-jahren](https://www.spiegel.de/start/bildung-zahl-der-schulabbrecher-erreicht-hoechststand-seit-zehn-jahren-a-1ac62e82-07ff-4e97-91dd-d3c34c3b52ed#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/iran-praesident-masoud-pezeshkian-draengt-auf-verlegung-von-hauptstadt-teheran](https://www.spiegel.de/ausland/iran-praesident-masoud-pezeshkian-draengt-auf-verlegung-von-hauptstadt-teheran-a-3d566f0d-aa20-4378-8360-a387726d2c28#ref=rss)
-### los
+* [https://www.spiegel.de/start/bildung-zahl-der-schulabbrecher-erreicht-hoechststand-seit-zehn-jahren](https://www.spiegel.de/start/bildung-zahl-der-schulabbrecher-erreicht-hoechststand-seit-zehn-jahren-a-1ac62e82-07ff-4e97-91dd-d3c34c3b52ed#ref=rss)
+### sportwetten
 
-* [https://www.spiegel.de/panorama/los-angeles-grossbrand-in-chevron-raffinerie](https://www.spiegel.de/panorama/los-angeles-grossbrand-in-chevron-raffinerie-a-c998fe1e-510b-458f-83dc-b33cee5576ae#ref=rss)
-### angeles
+* [https://www.spiegel.de/wirtschaft/gluecksspiel-wie-der-boom-der-sportwetten-junge-menschen-suechtig-macht](https://www.spiegel.de/wirtschaft/gluecksspiel-wie-der-boom-der-sportwetten-junge-menschen-suechtig-macht-a-489e53c3-574b-4abe-9336-93c2866449d2#ref=rss)
+### junge
 
-* [https://www.spiegel.de/panorama/los-angeles-grossbrand-in-chevron-raffinerie](https://www.spiegel.de/panorama/los-angeles-grossbrand-in-chevron-raffinerie-a-c998fe1e-510b-458f-83dc-b33cee5576ae#ref=rss)
-### großbrand
+* [https://www.spiegel.de/wirtschaft/gluecksspiel-wie-der-boom-der-sportwetten-junge-menschen-suechtig-macht](https://www.spiegel.de/wirtschaft/gluecksspiel-wie-der-boom-der-sportwetten-junge-menschen-suechtig-macht-a-489e53c3-574b-4abe-9336-93c2866449d2#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/panorama/los-angeles-grossbrand-in-chevron-raffinerie](https://www.spiegel.de/panorama/los-angeles-grossbrand-in-chevron-raffinerie-a-c998fe1e-510b-458f-83dc-b33cee5576ae#ref=rss)
-### jeffrey
+* [https://www.spiegel.de/wirtschaft/gluecksspiel-wie-der-boom-der-sportwetten-junge-menschen-suechtig-macht](https://www.spiegel.de/wirtschaft/gluecksspiel-wie-der-boom-der-sportwetten-junge-menschen-suechtig-macht-a-489e53c3-574b-4abe-9336-93c2866449d2#ref=rss)
+* [https://www.spiegel.de/kultur/kim-kardashian-verklagt-ihren-ex-freund-ray-j](https://www.spiegel.de/kultur/kim-kardashian-verklagt-ihren-ex-freund-ray-j-a-b63db2cb-7362-49dc-82cc-cd8af357eb30#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-statue-in-washington-ist-wieder-da](https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-statue-in-washington-ist-wieder-da-a-bfac1a4f-1fd4-4704-9330-1907801623b2#ref=rss)
-### epstein
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/burschenschaften-in-oesterreich-die-seilschaften-der-maennerbuende](https://www.spiegel.de/ausland/burschenschaften-in-oesterreich-die-seilschaften-der-maennerbuende-a-ddd64ddb-c152-499b-9ffc-1baacbb48036#ref=rss)
+### tag
 
-* [https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-statue-in-washington-ist-wieder-da](https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-statue-in-washington-ist-wieder-da-a-bfac1a4f-1fd4-4704-9330-1907801623b2#ref=rss)
-### statue
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### spanien
 
-* [https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-statue-in-washington-ist-wieder-da](https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-statue-in-washington-ist-wieder-da-a-bfac1a4f-1fd4-4704-9330-1907801623b2#ref=rss)
-### bundeskanzler
+* [https://www.spiegel.de/karriere/gizmodo-in-spanien-journalisten-werden-durch-automatische-uebersetzungen-ersetzt](https://www.spiegel.de/karriere/gizmodo-in-spanien-journalisten-werden-durch-automatische-uebersetzungen-ersetzt-a-06ac22f3-833c-4c8d-8606-79de041b37db#ref=rss)
+### william
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen-a-e66962d3-2d21-4f51-a7bb-d1f42fe13198#ref=rss)
-### aufbruch
+* [https://www.spiegel.de/panorama/william-und-kate-umzug-in-villa-im-windsor-great-park-sorgt-fuer-aerger](https://www.spiegel.de/panorama/william-und-kate-umzug-in-villa-im-windsor-great-park-sorgt-fuer-aerger-a-7f331c91-3eff-4b99-ba80-c7f411f17962#ref=rss)
+### villa
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen](https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-will-am-tag-der-deutschen-einheit-aufbruch-anstossen-a-e66962d3-2d21-4f51-a7bb-d1f42fe13198#ref=rss)
-### schach
+* [https://www.spiegel.de/panorama/william-und-kate-umzug-in-villa-im-windsor-great-park-sorgt-fuer-aerger](https://www.spiegel.de/panorama/william-und-kate-umzug-in-villa-im-windsor-great-park-sorgt-fuer-aerger-a-7f331c91-3eff-4b99-ba80-c7f411f17962#ref=rss)
+### windsor
 
-* [https://www.spiegel.de/sport/schach/schach-wie-ein-96-jaehriger-einen-weltrekord-fuer-die-ewigkeit-aufstellte](https://www.spiegel.de/sport/schach/schach-wie-ein-96-jaehriger-einen-weltrekord-fuer-die-ewigkeit-aufstellte-a-6d850a1c-915d-4dd3-b6ee-7767f65b2124#ref=rss)
-### geschichte
+* [https://www.spiegel.de/panorama/william-und-kate-umzug-in-villa-im-windsor-great-park-sorgt-fuer-aerger](https://www.spiegel.de/panorama/william-und-kate-umzug-in-villa-im-windsor-great-park-sorgt-fuer-aerger-a-7f331c91-3eff-4b99-ba80-c7f411f17962#ref=rss)
+### great
 
-* [https://www.spiegel.de/sport/schach/schach-wie-ein-96-jaehriger-einen-weltrekord-fuer-die-ewigkeit-aufstellte](https://www.spiegel.de/sport/schach/schach-wie-ein-96-jaehriger-einen-weltrekord-fuer-die-ewigkeit-aufstellte-a-6d850a1c-915d-4dd3-b6ee-7767f65b2124#ref=rss)
-* [https://www.spiegel.de/panorama/sarah-mullally-erstmals-eine-frau-an-der-spitze-der-anglikanischen-kirche](https://www.spiegel.de/panorama/sarah-mullally-erstmals-eine-frau-an-der-spitze-der-anglikanischen-kirche-a-9e37f378-9beb-41f7-8113-91d220a17e0f#ref=rss)
-### sarah
+* [https://www.spiegel.de/panorama/william-und-kate-umzug-in-villa-im-windsor-great-park-sorgt-fuer-aerger](https://www.spiegel.de/panorama/william-und-kate-umzug-in-villa-im-windsor-great-park-sorgt-fuer-aerger-a-7f331c91-3eff-4b99-ba80-c7f411f17962#ref=rss)
+### park
 
-* [https://www.spiegel.de/panorama/sarah-mullally-erstmals-eine-frau-an-der-spitze-der-anglikanischen-kirche](https://www.spiegel.de/panorama/sarah-mullally-erstmals-eine-frau-an-der-spitze-der-anglikanischen-kirche-a-9e37f378-9beb-41f7-8113-91d220a17e0f#ref=rss)
-### mullally
+* [https://www.spiegel.de/panorama/william-und-kate-umzug-in-villa-im-windsor-great-park-sorgt-fuer-aerger](https://www.spiegel.de/panorama/william-und-kate-umzug-in-villa-im-windsor-great-park-sorgt-fuer-aerger-a-7f331c91-3eff-4b99-ba80-c7f411f17962#ref=rss)
+### cornelia
 
-* [https://www.spiegel.de/panorama/sarah-mullally-erstmals-eine-frau-an-der-spitze-der-anglikanischen-kirche](https://www.spiegel.de/panorama/sarah-mullally-erstmals-eine-frau-an-der-spitze-der-anglikanischen-kirche-a-9e37f378-9beb-41f7-8113-91d220a17e0f#ref=rss)
-### anglikanischen
+* [https://www.spiegel.de/karriere/ki-ersetzt-haltestellenansagerin-cornelia-grotsch-in-30-staedten](https://www.spiegel.de/karriere/ki-ersetzt-haltestellenansagerin-cornelia-grotsch-in-30-staedten-a-bee971b7-a1e7-4270-be8a-ea3b28019fe5#ref=rss)
+### grotsch
 
-* [https://www.spiegel.de/panorama/sarah-mullally-erstmals-eine-frau-an-der-spitze-der-anglikanischen-kirche](https://www.spiegel.de/panorama/sarah-mullally-erstmals-eine-frau-an-der-spitze-der-anglikanischen-kirche-a-9e37f378-9beb-41f7-8113-91d220a17e0f#ref=rss)
-### kirche
+* [https://www.spiegel.de/karriere/ki-ersetzt-haltestellenansagerin-cornelia-grotsch-in-30-staedten](https://www.spiegel.de/karriere/ki-ersetzt-haltestellenansagerin-cornelia-grotsch-in-30-staedten-a-bee971b7-a1e7-4270-be8a-ea3b28019fe5#ref=rss)
+### 30
 
-* [https://www.spiegel.de/panorama/sarah-mullally-erstmals-eine-frau-an-der-spitze-der-anglikanischen-kirche](https://www.spiegel.de/panorama/sarah-mullally-erstmals-eine-frau-an-der-spitze-der-anglikanischen-kirche-a-9e37f378-9beb-41f7-8113-91d220a17e0f#ref=rss)
-### manchester
+* [https://www.spiegel.de/karriere/ki-ersetzt-haltestellenansagerin-cornelia-grotsch-in-30-staedten](https://www.spiegel.de/karriere/ki-ersetzt-haltestellenansagerin-cornelia-grotsch-in-30-staedten-a-bee971b7-a1e7-4270-be8a-ea3b28019fe5#ref=rss)
+### städten
 
-* [https://www.spiegel.de/ausland/manchester-terror-in-grossbritannien-am-hoechsten-juedischen-feiertag-jom-kippur](https://www.spiegel.de/ausland/manchester-terror-in-grossbritannien-am-hoechsten-juedischen-feiertag-jom-kippur-a-642b2809-76cd-418b-a60a-54d777976084#ref=rss)
-### jom
+* [https://www.spiegel.de/karriere/ki-ersetzt-haltestellenansagerin-cornelia-grotsch-in-30-staedten](https://www.spiegel.de/karriere/ki-ersetzt-haltestellenansagerin-cornelia-grotsch-in-30-staedten-a-bee971b7-a1e7-4270-be8a-ea3b28019fe5#ref=rss)
+### bewohner
 
-* [https://www.spiegel.de/ausland/manchester-terror-in-grossbritannien-am-hoechsten-juedischen-feiertag-jom-kippur](https://www.spiegel.de/ausland/manchester-terror-in-grossbritannien-am-hoechsten-juedischen-feiertag-jom-kippur-a-642b2809-76cd-418b-a60a-54d777976084#ref=rss)
-### kippur
+* [https://www.spiegel.de/karriere/ki-ersetzt-haltestellenansagerin-cornelia-grotsch-in-30-staedten](https://www.spiegel.de/karriere/ki-ersetzt-haltestellenansagerin-cornelia-grotsch-in-30-staedten-a-bee971b7-a1e7-4270-be8a-ea3b28019fe5#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-stadt-bleibt-laut-israels-militaer-eine-gefaehrliche-kampfzone](https://www.spiegel.de/ausland/gaza-stadt-bleibt-laut-israels-militaer-eine-gefaehrliche-kampfzone-a-7d85d8a1-ddd0-471a-8169-66a310008364#ref=rss)
+### benni
 
-* [https://www.spiegel.de/ausland/manchester-terror-in-grossbritannien-am-hoechsten-juedischen-feiertag-jom-kippur](https://www.spiegel.de/ausland/manchester-terror-in-grossbritannien-am-hoechsten-juedischen-feiertag-jom-kippur-a-642b2809-76cd-418b-a60a-54d777976084#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/ki-und-jobverlust-tiktok-mitarbeiter-benni-berichtet](https://www.spiegel.de/netzwelt/web/ki-und-jobverlust-tiktok-mitarbeiter-benni-berichtet-a-3cc97fb2-8d36-4ecf-b32d-75c78fa9b68f#ref=rss)
+### rund
+
+* [https://www.spiegel.de/netzwelt/web/ki-und-jobverlust-tiktok-mitarbeiter-benni-berichtet](https://www.spiegel.de/netzwelt/web/ki-und-jobverlust-tiktok-mitarbeiter-benni-berichtet-a-3cc97fb2-8d36-4ecf-b32d-75c78fa9b68f#ref=rss)
+* [https://www.spiegel.de/kultur/kim-kardashian-verklagt-ihren-ex-freund-ray-j](https://www.spiegel.de/kultur/kim-kardashian-verklagt-ihren-ex-freund-ray-j-a-b63db2cb-7362-49dc-82cc-cd8af357eb30#ref=rss)
+### geschlossen
+
+* [https://www.spiegel.de/netzwelt/web/ki-und-jobverlust-tiktok-mitarbeiter-benni-berichtet](https://www.spiegel.de/netzwelt/web/ki-und-jobverlust-tiktok-mitarbeiter-benni-berichtet-a-3cc97fb2-8d36-4ecf-b32d-75c78fa9b68f#ref=rss)
+* [https://www.spiegel.de/panorama/flughafen-muenchen-betrieb-nach-drohnenalarm-wieder-aufgenommen](https://www.spiegel.de/panorama/flughafen-muenchen-betrieb-nach-drohnenalarm-wieder-aufgenommen-a-c64d0d91-3a40-42bf-99c9-5b5747bb148d#ref=rss)
+### wirklich
+
+* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-hat-der-ki-kahlschlag-wirklich-schon-begonnen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-hat-der-ki-kahlschlag-wirklich-schon-begonnen-a-d220906f-ceec-4a5d-854b-16923e6bd89f#ref=rss)
+### forscher
+
+* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-hat-der-ki-kahlschlag-wirklich-schon-begonnen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-hat-der-ki-kahlschlag-wirklich-schon-begonnen-a-d220906f-ceec-4a5d-854b-16923e6bd89f#ref=rss)
+* [https://www.spiegel.de/ausland/nur-gute-nachrichten-massgeschneiderte-medizin](https://www.spiegel.de/ausland/nur-gute-nachrichten-massgeschneiderte-medizin-a-4755a95e-6ae2-465b-b9ef-5eeba9138b95#ref=rss)
+### usfinanzministerium
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-us-finanzministerium-erwaegt-praegung-von-ein-dollar-muenze-mit-abbildung-des-praesidenten](https://www.spiegel.de/wirtschaft/donald-trump-us-finanzministerium-erwaegt-praegung-von-ein-dollar-muenze-mit-abbildung-des-praesidenten-a-10b07ad6-78de-4202-ab8b-4102528c4bfd#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-us-finanzministerium-erwaegt-praegung-von-ein-dollar-muenze-mit-abbildung-des-praesidenten](https://www.spiegel.de/wirtschaft/donald-trump-us-finanzministerium-erwaegt-praegung-von-ein-dollar-muenze-mit-abbildung-des-praesidenten-a-10b07ad6-78de-4202-ab8b-4102528c4bfd#ref=rss)
+* [https://www.spiegel.de/ausland/iranisches-regime-laesst-sechs-menschen-hinrichten](https://www.spiegel.de/ausland/iranisches-regime-laesst-sechs-menschen-hinrichten-a-de7a1b9e-ca18-499a-a5e3-a037cfe5cd16#ref=rss)
+### männerbünde
+
+* [https://www.spiegel.de/ausland/burschenschaften-in-oesterreich-die-seilschaften-der-maennerbuende](https://www.spiegel.de/ausland/burschenschaften-in-oesterreich-die-seilschaften-der-maennerbuende-a-ddd64ddb-c152-499b-9ffc-1baacbb48036#ref=rss)
+### burschenschafter
+
+* [https://www.spiegel.de/ausland/burschenschaften-in-oesterreich-die-seilschaften-der-maennerbuende](https://www.spiegel.de/ausland/burschenschaften-in-oesterreich-die-seilschaften-der-maennerbuende-a-ddd64ddb-c152-499b-9ffc-1baacbb48036#ref=rss)
+* [https://www.spiegel.de/ausland/unterwandern-burschenschafter-oesterreich](https://www.spiegel.de/ausland/unterwandern-burschenschafter-oesterreich-a-ce256ecb-8565-4e5d-b532-33f44822b261#ref=rss)
+### netzwerke
+
+* [https://www.spiegel.de/ausland/burschenschaften-in-oesterreich-die-seilschaften-der-maennerbuende](https://www.spiegel.de/ausland/burschenschaften-in-oesterreich-die-seilschaften-der-maennerbuende-a-ddd64ddb-c152-499b-9ffc-1baacbb48036#ref=rss)
+* [https://www.spiegel.de/ausland/unterwandern-burschenschafter-oesterreich](https://www.spiegel.de/ausland/unterwandern-burschenschafter-oesterreich-a-ce256ecb-8565-4e5d-b532-33f44822b261#ref=rss)
+### aussteiger
+
+* [https://www.spiegel.de/ausland/burschenschaften-in-oesterreich-die-seilschaften-der-maennerbuende](https://www.spiegel.de/ausland/burschenschaften-in-oesterreich-die-seilschaften-der-maennerbuende-a-ddd64ddb-c152-499b-9ffc-1baacbb48036#ref=rss)
+* [https://www.spiegel.de/ausland/unterwandern-burschenschafter-oesterreich](https://www.spiegel.de/ausland/unterwandern-burschenschafter-oesterreich-a-ce256ecb-8565-4e5d-b532-33f44822b261#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/ausland/burschenschaften-in-oesterreich-die-seilschaften-der-maennerbuende](https://www.spiegel.de/ausland/burschenschaften-in-oesterreich-die-seilschaften-der-maennerbuende-a-ddd64ddb-c152-499b-9ffc-1baacbb48036#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-ice-razzien-eskalieren-auf-offener-strasse](https://www.spiegel.de/ausland/usa-unter-donald-trump-ice-razzien-eskalieren-auf-offener-strasse-a-2781604c-d7db-4a9f-8c0e-c8408b84c5cc#ref=rss)
+### plan
+
+* [https://www.spiegel.de/ausland/gaza-stadt-bleibt-laut-israels-militaer-eine-gefaehrliche-kampfzone](https://www.spiegel.de/ausland/gaza-stadt-bleibt-laut-israels-militaer-eine-gefaehrliche-kampfzone-a-7d85d8a1-ddd0-471a-8169-66a310008364#ref=rss)
+* [https://www.spiegel.de/ausland/israels-krieg-in-gaza-was-die-antwort-der-hamas-auf-trumps-friedensplan-bedeutet](https://www.spiegel.de/ausland/israels-krieg-in-gaza-was-die-antwort-der-hamas-auf-trumps-friedensplan-bedeutet-a-26b4bd3b-1d43-49f6-af2a-dc7101e42ec7#ref=rss)
+### papst
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-veroeffentlicht-sein-erstes-schreiben-mit-dem-titel-ich-habe-dich-geliebt](https://www.spiegel.de/ausland/papst-leo-xiv-veroeffentlicht-sein-erstes-schreiben-mit-dem-titel-ich-habe-dich-geliebt-a-68ce141b-3a91-4420-934a-1687e5e00c2f#ref=rss)
+### leo
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-veroeffentlicht-sein-erstes-schreiben-mit-dem-titel-ich-habe-dich-geliebt](https://www.spiegel.de/ausland/papst-leo-xiv-veroeffentlicht-sein-erstes-schreiben-mit-dem-titel-ich-habe-dich-geliebt-a-68ce141b-3a91-4420-934a-1687e5e00c2f#ref=rss)
+### xiv
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-veroeffentlicht-sein-erstes-schreiben-mit-dem-titel-ich-habe-dich-geliebt](https://www.spiegel.de/ausland/papst-leo-xiv-veroeffentlicht-sein-erstes-schreiben-mit-dem-titel-ich-habe-dich-geliebt-a-68ce141b-3a91-4420-934a-1687e5e00c2f#ref=rss)
+### erstes
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-veroeffentlicht-sein-erstes-schreiben-mit-dem-titel-ich-habe-dich-geliebt](https://www.spiegel.de/ausland/papst-leo-xiv-veroeffentlicht-sein-erstes-schreiben-mit-dem-titel-ich-habe-dich-geliebt-a-68ce141b-3a91-4420-934a-1687e5e00c2f#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces](https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces-a-50b7dfe3-336a-4979-9c6e-19bb85299bf6#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/wirtschaft/soziales/merz-will-sich-fuer-investitionen-in-ostdeutschland-einsetzen](https://www.spiegel.de/wirtschaft/soziales/merz-will-sich-fuer-investitionen-in-ostdeutschland-einsetzen-a-8ca7bbe7-2e3b-4ae1-8d16-06f1a37c019f#ref=rss)
+### merz
+
+* [https://www.spiegel.de/wirtschaft/soziales/merz-will-sich-fuer-investitionen-in-ostdeutschland-einsetzen](https://www.spiegel.de/wirtschaft/soziales/merz-will-sich-fuer-investitionen-in-ostdeutschland-einsetzen-a-8ca7bbe7-2e3b-4ae1-8d16-06f1a37c019f#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/wirtschaft/soziales/merz-will-sich-fuer-investitionen-in-ostdeutschland-einsetzen](https://www.spiegel.de/wirtschaft/soziales/merz-will-sich-fuer-investitionen-in-ostdeutschland-einsetzen-a-8ca7bbe7-2e3b-4ae1-8d16-06f1a37c019f#ref=rss)
+* [https://www.spiegel.de/ausland/israels-krieg-in-gaza-was-die-antwort-der-hamas-auf-trumps-friedensplan-bedeutet](https://www.spiegel.de/ausland/israels-krieg-in-gaza-was-die-antwort-der-hamas-auf-trumps-friedensplan-bedeutet-a-26b4bd3b-1d43-49f6-af2a-dc7101e42ec7#ref=rss)
+### möchte
+
+* [https://www.spiegel.de/wirtschaft/soziales/merz-will-sich-fuer-investitionen-in-ostdeutschland-einsetzen](https://www.spiegel.de/wirtschaft/soziales/merz-will-sich-fuer-investitionen-in-ostdeutschland-einsetzen-a-8ca7bbe7-2e3b-4ae1-8d16-06f1a37c019f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-will-mit-europaeischen-amtskollegen-ueber-rueckkehrzentren-reden](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-will-mit-europaeischen-amtskollegen-ueber-rueckkehrzentren-reden-a-4ebf2755-331e-4d4e-bd44-55fe91823ab9#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/wirtschaft/soziales/merz-will-sich-fuer-investitionen-in-ostdeutschland-einsetzen](https://www.spiegel.de/wirtschaft/soziales/merz-will-sich-fuer-investitionen-in-ostdeutschland-einsetzen-a-8ca7bbe7-2e3b-4ae1-8d16-06f1a37c019f#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus](https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus-a-b41682f1-df5e-4896-a9eb-2ee3d0b2feda#ref=rss)
+### herta
+
+* [https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus](https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus-a-b41682f1-df5e-4896-a9eb-2ee3d0b2feda#ref=rss)
+### müller
+
+* [https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus](https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus-a-b41682f1-df5e-4896-a9eb-2ee3d0b2feda#ref=rss)
+### unter
+
+* [https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus](https://www.spiegel.de/kultur/literatur/herta-mueller-warnt-vor-neuer-welle-des-antisemitismus-a-b41682f1-df5e-4896-a9eb-2ee3d0b2feda#ref=rss)
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-ice-razzien-eskalieren-auf-offener-strasse](https://www.spiegel.de/ausland/usa-unter-donald-trump-ice-razzien-eskalieren-auf-offener-strasse-a-2781604c-d7db-4a9f-8c0e-c8408b84c5cc#ref=rss)
+### satou
+
+* [https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces](https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces-a-50b7dfe3-336a-4979-9c6e-19bb85299bf6#ref=rss)
+### phoenix
+
+* [https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces](https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces-a-50b7dfe3-336a-4979-9c6e-19bb85299bf6#ref=rss)
+### mercury
+
+* [https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces](https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces-a-50b7dfe3-336a-4979-9c6e-19bb85299bf6#ref=rss)
+### las
+
+* [https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces](https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces-a-50b7dfe3-336a-4979-9c6e-19bb85299bf6#ref=rss)
+### vegas
+
+* [https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces](https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces-a-50b7dfe3-336a-4979-9c6e-19bb85299bf6#ref=rss)
+### aces
+
+* [https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces](https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces-a-50b7dfe3-336a-4979-9c6e-19bb85299bf6#ref=rss)
+### auftakt
+
+* [https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces](https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces-a-50b7dfe3-336a-4979-9c6e-19bb85299bf6#ref=rss)
+* [https://www.spiegel.de/ausland/unterwandern-burschenschafter-oesterreich](https://www.spiegel.de/ausland/unterwandern-burschenschafter-oesterreich-a-ce256ecb-8565-4e5d-b532-33f44822b261#ref=rss)
+### setzte
+
+* [https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces](https://www.spiegel.de/sport/basketball/basketball-profiliga-wnba-satou-sabally-verliert-erstes-finale-mit-phoenix-mercury-gegen-las-vegas-aces-a-50b7dfe3-336a-4979-9c6e-19bb85299bf6#ref=rss)
+* [https://www.spiegel.de/ausland/sanae-takaichi-wird-wohl-japans-neue-regierungschefin](https://www.spiegel.de/ausland/sanae-takaichi-wird-wohl-japans-neue-regierungschefin-a-8ac31c23-9269-4cde-b5a6-e1850b2a0c51#ref=rss)
+### sanae
+
+* [https://www.spiegel.de/ausland/sanae-takaichi-wird-wohl-japans-neue-regierungschefin](https://www.spiegel.de/ausland/sanae-takaichi-wird-wohl-japans-neue-regierungschefin-a-8ac31c23-9269-4cde-b5a6-e1850b2a0c51#ref=rss)
+### takaichi
+
+* [https://www.spiegel.de/ausland/sanae-takaichi-wird-wohl-japans-neue-regierungschefin](https://www.spiegel.de/ausland/sanae-takaichi-wird-wohl-japans-neue-regierungschefin-a-8ac31c23-9269-4cde-b5a6-e1850b2a0c51#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/ausland/sanae-takaichi-wird-wohl-japans-neue-regierungschefin](https://www.spiegel.de/ausland/sanae-takaichi-wird-wohl-japans-neue-regierungschefin-a-8ac31c23-9269-4cde-b5a6-e1850b2a0c51#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/abgeordnetenhauswahl-2026-in-berlin-linke-setzt-auf-haustuerwahlkampf](https://www.spiegel.de/politik/abgeordnetenhauswahl-2026-in-berlin-linke-setzt-auf-haustuerwahlkampf-a-66c4e945-ffa4-45e1-924b-cef4b0e7fc08#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/politik/abgeordnetenhauswahl-2026-in-berlin-linke-setzt-auf-haustuerwahlkampf](https://www.spiegel.de/politik/abgeordnetenhauswahl-2026-in-berlin-linke-setzt-auf-haustuerwahlkampf-a-66c4e945-ffa4-45e1-924b-cef4b0e7fc08#ref=rss)
+* [https://www.spiegel.de/ausland/iranisches-regime-laesst-sechs-menschen-hinrichten](https://www.spiegel.de/ausland/iranisches-regime-laesst-sechs-menschen-hinrichten-a-de7a1b9e-ca18-499a-a5e3-a037cfe5cd16#ref=rss)
+### kim
+
+* [https://www.spiegel.de/kultur/kim-kardashian-verklagt-ihren-ex-freund-ray-j](https://www.spiegel.de/kultur/kim-kardashian-verklagt-ihren-ex-freund-ray-j-a-b63db2cb-7362-49dc-82cc-cd8af357eb30#ref=rss)
+### kardashian
+
+* [https://www.spiegel.de/kultur/kim-kardashian-verklagt-ihren-ex-freund-ray-j](https://www.spiegel.de/kultur/kim-kardashian-verklagt-ihren-ex-freund-ray-j-a-b63db2cb-7362-49dc-82cc-cd8af357eb30#ref=rss)
+### ray
+
+* [https://www.spiegel.de/kultur/kim-kardashian-verklagt-ihren-ex-freund-ray-j](https://www.spiegel.de/kultur/kim-kardashian-verklagt-ihren-ex-freund-ray-j-a-b63db2cb-7362-49dc-82cc-cd8af357eb30#ref=rss)
+### j
+
+* [https://www.spiegel.de/kultur/kim-kardashian-verklagt-ihren-ex-freund-ray-j](https://www.spiegel.de/kultur/kim-kardashian-verklagt-ihren-ex-freund-ray-j-a-b63db2cb-7362-49dc-82cc-cd8af357eb30#ref=rss)
+### paar
+
+* [https://www.spiegel.de/kultur/kim-kardashian-verklagt-ihren-ex-freund-ray-j](https://www.spiegel.de/kultur/kim-kardashian-verklagt-ihren-ex-freund-ray-j-a-b63db2cb-7362-49dc-82cc-cd8af357eb30#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-sich-die-ukraine-zum-stachelschwein-ruesten-will](https://www.spiegel.de/ausland/russland-ukraine-krieg-wie-sich-die-ukraine-zum-stachelschwein-ruesten-will-a-5f84ceb1-a539-4cd3-86c4-10405cb4b903#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iranisches-regime-laesst-sechs-menschen-hinrichten](https://www.spiegel.de/ausland/iranisches-regime-laesst-sechs-menschen-hinrichten-a-de7a1b9e-ca18-499a-a5e3-a037cfe5cd16#ref=rss)
+### nachrichten
+
+* [https://www.spiegel.de/ausland/nur-gute-nachrichten-massgeschneiderte-medizin](https://www.spiegel.de/ausland/nur-gute-nachrichten-massgeschneiderte-medizin-a-4755a95e-6ae2-465b-b9ef-5eeba9138b95#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/ausland/nur-gute-nachrichten-massgeschneiderte-medizin](https://www.spiegel.de/ausland/nur-gute-nachrichten-massgeschneiderte-medizin-a-4755a95e-6ae2-465b-b9ef-5eeba9138b95#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/bremen-spd-wirbt-fuer-drohnenabwehrzentrum](https://www.spiegel.de/politik/deutschland/bremen-spd-wirbt-fuer-drohnenabwehrzentrum-a-2daf8396-69aa-4f89-afdb-18cb4b8f4048#ref=rss)
+### drohnenabwehrzentrum
+
+* [https://www.spiegel.de/politik/deutschland/bremen-spd-wirbt-fuer-drohnenabwehrzentrum](https://www.spiegel.de/politik/deutschland/bremen-spd-wirbt-fuer-drohnenabwehrzentrum-a-2daf8396-69aa-4f89-afdb-18cb4b8f4048#ref=rss)
+### dobrindt
+
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-will-mit-europaeischen-amtskollegen-ueber-rueckkehrzentren-reden](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-will-mit-europaeischen-amtskollegen-ueber-rueckkehrzentren-reden-a-4ebf2755-331e-4d4e-bd44-55fe91823ab9#ref=rss)
+### amtskollegen
+
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-will-mit-europaeischen-amtskollegen-ueber-rueckkehrzentren-reden](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-will-mit-europaeischen-amtskollegen-ueber-rueckkehrzentren-reden-a-4ebf2755-331e-4d4e-bd44-55fe91823ab9#ref=rss)
+### rückkehrzentren
+
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-will-mit-europaeischen-amtskollegen-ueber-rueckkehrzentren-reden](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-will-mit-europaeischen-amtskollegen-ueber-rueckkehrzentren-reden-a-4ebf2755-331e-4d4e-bd44-55fe91823ab9#ref=rss)
+### flughafen
+
+* [https://www.spiegel.de/panorama/flughafen-muenchen-betrieb-nach-drohnenalarm-wieder-aufgenommen](https://www.spiegel.de/panorama/flughafen-muenchen-betrieb-nach-drohnenalarm-wieder-aufgenommen-a-c64d0d91-3a40-42bf-99c9-5b5747bb148d#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/panorama/flughafen-muenchen-betrieb-nach-drohnenalarm-wieder-aufgenommen](https://www.spiegel.de/panorama/flughafen-muenchen-betrieb-nach-drohnenalarm-wieder-aufgenommen-a-c64d0d91-3a40-42bf-99c9-5b5747bb148d#ref=rss)
+### offener
+
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-ice-razzien-eskalieren-auf-offener-strasse](https://www.spiegel.de/ausland/usa-unter-donald-trump-ice-razzien-eskalieren-auf-offener-strasse-a-2781604c-d7db-4a9f-8c0e-c8408b84c5cc#ref=rss)
+### straße
+
+* [https://www.spiegel.de/ausland/usa-unter-donald-trump-ice-razzien-eskalieren-auf-offener-strasse](https://www.spiegel.de/ausland/usa-unter-donald-trump-ice-razzien-eskalieren-auf-offener-strasse-a-2781604c-d7db-4a9f-8c0e-c8408b84c5cc#ref=rss)
+### arbeit
+
+* [https://www.spiegel.de/karriere/baby-im-buero-wann-darf-ich-mein-kind-mit-zur-arbeit-nehmen](https://www.spiegel.de/karriere/baby-im-buero-wann-darf-ich-mein-kind-mit-zur-arbeit-nehmen-a-460bbda4-b402-438f-9c17-67412fcffab4#ref=rss)
 
