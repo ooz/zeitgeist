@@ -4,359 +4,288 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
-
-* [https://www.spiegel.de/ausland/illinois-us-bundesstaat-klagt-gegen-einsatz-der-nationalgarde-in-chicago](https://www.spiegel.de/ausland/illinois-us-bundesstaat-klagt-gegen-einsatz-der-nationalgarde-in-chicago-a-52c626de-f508-42f4-bbfe-273f39e847cd#ref=rss)
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-chicago-schafft-verbotszonen-fuer-ice-einsaetze](https://www.spiegel.de/ausland/usa-unter-donald-trump-chicago-schafft-verbotszonen-fuer-ice-einsaetze-a-0439ca1a-68c5-4b9a-93d3-c7a129f28c09#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-risiken-der-kryptoexpansion-der-krypto-imperator](https://www.spiegel.de/wirtschaft/donald-trump-und-die-risiken-der-kryptoexpansion-der-krypto-imperator-a-34cb5e0d-80b5-4d0f-a6c8-8925e07b1f15#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/illinois-us-bundesstaat-klagt-gegen-einsatz-der-nationalgarde-in-chicago](https://www.spiegel.de/ausland/illinois-us-bundesstaat-klagt-gegen-einsatz-der-nationalgarde-in-chicago-a-52c626de-f508-42f4-bbfe-273f39e847cd#ref=rss)
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-chicago-schafft-verbotszonen-fuer-ice-einsaetze](https://www.spiegel.de/ausland/usa-unter-donald-trump-chicago-schafft-verbotszonen-fuer-ice-einsaetze-a-0439ca1a-68c5-4b9a-93d3-c7a129f28c09#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-risiken-der-kryptoexpansion-der-krypto-imperator](https://www.spiegel.de/wirtschaft/donald-trump-und-die-risiken-der-kryptoexpansion-der-krypto-imperator-a-34cb5e0d-80b5-4d0f-a6c8-8925e07b1f15#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/natur/umweltschutz-wie-der-verlust-des-bodens-unseren-planeten-bedroht-auszug-aus-mutter-erde](https://www.spiegel.de/wissenschaft/natur/umweltschutz-wie-der-verlust-des-bodens-unseren-planeten-bedroht-auszug-aus-mutter-erde-a-152f24ff-6605-4800-b274-d6ea55009f5e#ref=rss)
-* [https://www.spiegel.de/kultur/kino/ridley-scott-findet-neue-filme-mittelmaessig-also-schaut-er-lieber-seine-eigenen-alten](https://www.spiegel.de/kultur/kino/ridley-scott-findet-neue-filme-mittelmaessig-also-schaut-er-lieber-seine-eigenen-alten-a-94159f75-07c1-4368-a511-29b1f2b347f7#ref=rss)
-* [https://www.spiegel.de/ausland/uno-fluechtlingshilfswerk-unhcr-streicht-mehr-als-jede-vierte-stelle](https://www.spiegel.de/ausland/uno-fluechtlingshilfswerk-unhcr-streicht-mehr-als-jede-vierte-stelle-a-bc8e27c5-412b-4c92-ab9f-cddc1e1d8f3d#ref=rss)
-* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-spricht-ex-milizenchef-fuer-massaker-von-darfur-schuldig](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-spricht-ex-milizenchef-fuer-massaker-von-darfur-schuldig-a-6761b531-6e6a-42f8-b5ef-63334b43f10c#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/israel-ayelet-gundar-goshen-ueber-das-schreiben-nach-dem-7-oktober](https://www.spiegel.de/kultur/literatur/israel-ayelet-gundar-goshen-ueber-das-schreiben-nach-dem-7-oktober-a-2ccbf84a-82be-42a0-ad54-7746d00aaf1e#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-so-schwaecht-die-ukraine-die-oelwirtschaft-von-russland-mit-luftangriffen](https://www.spiegel.de/ausland/russland-so-schwaecht-die-ukraine-die-oelwirtschaft-von-russland-mit-luftangriffen-a-73ff0a10-7ba4-40b9-b67a-094393737b8b#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kyjiw-meldet-erfolgreiche-angriffe-auf-sprengstofffabrik-und-oelkomplex](https://www.spiegel.de/ausland/russland-ukraine-krieg-kyjiw-meldet-erfolgreiche-angriffe-auf-sprengstofffabrik-und-oelkomplex-a-1d92e1a2-e67a-44b0-94d1-23062b2a4e08#ref=rss)
-### chicago
-
-* [https://www.spiegel.de/ausland/illinois-us-bundesstaat-klagt-gegen-einsatz-der-nationalgarde-in-chicago](https://www.spiegel.de/ausland/illinois-us-bundesstaat-klagt-gegen-einsatz-der-nationalgarde-in-chicago-a-52c626de-f508-42f4-bbfe-273f39e847cd#ref=rss)
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-chicago-schafft-verbotszonen-fuer-ice-einsaetze](https://www.spiegel.de/ausland/usa-unter-donald-trump-chicago-schafft-verbotszonen-fuer-ice-einsaetze-a-0439ca1a-68c5-4b9a-93d3-c7a129f28c09#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/deutschland-solarworld-gruender-frank-asbeck-kauft-markenrechte-seiner-einstigen-firma-zurueck](https://www.spiegel.de/wirtschaft/deutschland-solarworld-gruender-frank-asbeck-kauft-markenrechte-seiner-einstigen-firma-zurueck-a-31209957-8fe6-4521-942e-da5e9489e075#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gazastreifen-johann-wadephul-bietet-initiative-fuer-wiederaufbaukonferenz-an](https://www.spiegel.de/politik/deutschland/gazastreifen-johann-wadephul-bietet-initiative-fuer-wiederaufbaukonferenz-an-a-553b81ee-4d2b-442d-ab5b-82fb28bc5835#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-streitet-ueber-gedenken-an-hamas-ueberfall-auf-israel](https://www.spiegel.de/politik/deutschland/bundestag-streitet-ueber-gedenken-an-hamas-ueberfall-auf-israel-a-c969070e-f5a2-4fc4-92a8-1e37a4b75ae6#ref=rss)
-* [https://www.spiegel.de/ausland/israel-schiebt-greta-thunberg-ab](https://www.spiegel.de/ausland/israel-schiebt-greta-thunberg-ab-a-71310b91-772d-4250-b307-d9e87bb130c2#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/israel-ayelet-gundar-goshen-ueber-das-schreiben-nach-dem-7-oktober](https://www.spiegel.de/kultur/literatur/israel-ayelet-gundar-goshen-ueber-das-schreiben-nach-dem-7-oktober-a-2ccbf84a-82be-42a0-ad54-7746d00aaf1e#ref=rss)
-### neue
-
-* [https://www.spiegel.de/kultur/kino/ridley-scott-findet-neue-filme-mittelmaessig-also-schaut-er-lieber-seine-eigenen-alten](https://www.spiegel.de/kultur/kino/ridley-scott-findet-neue-filme-mittelmaessig-also-schaut-er-lieber-seine-eigenen-alten-a-94159f75-07c1-4368-a511-29b1f2b347f7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-die-risiken-der-kryptoexpansion-der-krypto-imperator](https://www.spiegel.de/wirtschaft/donald-trump-und-die-risiken-der-kryptoexpansion-der-krypto-imperator-a-34cb5e0d-80b5-4d0f-a6c8-8925e07b1f15#ref=rss)
-* [https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news](https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news-a-5876523e-4ad1-4af5-8b5b-29a3875110c3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/cdu-neue-generation-protestaktion-an-parteizentrale-in-berlin-von-polizei-gestoppt](https://www.spiegel.de/panorama/justiz/cdu-neue-generation-protestaktion-an-parteizentrale-in-berlin-von-polizei-gestoppt-a-99f8c594-529b-41f7-9365-9b381d5cd1f1#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-warum-emmanuel-macron-in-der-krise-allein-dasteht](https://www.spiegel.de/ausland/frankreich-warum-emmanuel-macron-in-der-krise-allein-dasteht-a-8f2e4f13-4f95-4d8c-9463-bb5ed204e244#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-verhandlungen-ueber-gaza-krieg-regierungskrise-in-frankreich](https://www.spiegel.de/politik/deutschland/news-des-tages-verhandlungen-ueber-gaza-krieg-regierungskrise-in-frankreich-a-3baef4a6-0671-4f72-ae35-7347a4620215#ref=rss)
-### of
-
-* [https://www.spiegel.de/geschichte/faktencheck-was-ist-wahr-an-der-netflix-serie-house-of-guinness](https://www.spiegel.de/geschichte/faktencheck-was-ist-wahr-an-der-netflix-serie-house-of-guinness-a-f4fbc2af-4ac5-48ee-bcdf-74056af8a621#ref=rss)
-* [https://www.spiegel.de/kultur/taylor-swift-raeumt-auch-an-der-kinokasse-ab-und-haengt-dwayne-johnson-ab](https://www.spiegel.de/kultur/taylor-swift-raeumt-auch-an-der-kinokasse-ab-und-haengt-dwayne-johnson-ab-a-6130e6ae-0923-467a-a80f-8b6ae3e7af9b#ref=rss)
-### guinness
-
-* [https://www.spiegel.de/geschichte/faktencheck-was-ist-wahr-an-der-netflix-serie-house-of-guinness](https://www.spiegel.de/geschichte/faktencheck-was-ist-wahr-an-der-netflix-serie-house-of-guinness-a-f4fbc2af-4ac5-48ee-bcdf-74056af8a621#ref=rss)
-### wirklich
-
-* [https://www.spiegel.de/geschichte/faktencheck-was-ist-wahr-an-der-netflix-serie-house-of-guinness](https://www.spiegel.de/geschichte/faktencheck-was-ist-wahr-an-der-netflix-serie-house-of-guinness-a-f4fbc2af-4ac5-48ee-bcdf-74056af8a621#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/usa-unter-donald-trump-chicago-schafft-verbotszonen-fuer-ice-einsaetze](https://www.spiegel.de/ausland/usa-unter-donald-trump-chicago-schafft-verbotszonen-fuer-ice-einsaetze-a-0439ca1a-68c5-4b9a-93d3-c7a129f28c09#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/cdu-neue-generation-protestaktion-an-parteizentrale-in-berlin-von-polizei-gestoppt](https://www.spiegel.de/panorama/justiz/cdu-neue-generation-protestaktion-an-parteizentrale-in-berlin-von-polizei-gestoppt-a-99f8c594-529b-41f7-9365-9b381d5cd1f1#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kyjiw-meldet-erfolgreiche-angriffe-auf-sprengstofffabrik-und-oelkomplex](https://www.spiegel.de/ausland/russland-ukraine-krieg-kyjiw-meldet-erfolgreiche-angriffe-auf-sprengstofffabrik-und-oelkomplex-a-1d92e1a2-e67a-44b0-94d1-23062b2a4e08#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/auto/kindersitze-adac-crashtest-zeigt-gravierende-sicherheitsmaengel-bei-zwei-modellen](https://www.spiegel.de/auto/kindersitze-adac-crashtest-zeigt-gravierende-sicherheitsmaengel-bei-zwei-modellen-a-70c93213-fcd0-4a46-8325-95a070d25d98#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/cdu-neue-generation-protestaktion-an-parteizentrale-in-berlin-von-polizei-gestoppt](https://www.spiegel.de/panorama/justiz/cdu-neue-generation-protestaktion-an-parteizentrale-in-berlin-von-polizei-gestoppt-a-99f8c594-529b-41f7-9365-9b381d5cd1f1#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/taylor-swift-raeumt-auch-an-der-kinokasse-ab-und-haengt-dwayne-johnson-ab](https://www.spiegel.de/kultur/taylor-swift-raeumt-auch-an-der-kinokasse-ab-und-haengt-dwayne-johnson-ab-a-6130e6ae-0923-467a-a80f-8b6ae3e7af9b#ref=rss)
-* [https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news](https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news-a-5876523e-4ad1-4af5-8b5b-29a3875110c3#ref=rss)
-### news
-
-* [https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news](https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news-a-5876523e-4ad1-4af5-8b5b-29a3875110c3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-verhandlungen-ueber-gaza-krieg-regierungskrise-in-frankreich](https://www.spiegel.de/politik/deutschland/news-des-tages-verhandlungen-ueber-gaza-krieg-regierungskrise-in-frankreich-a-3baef4a6-0671-4f72-ae35-7347a4620215#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/russland-so-schwaecht-die-ukraine-die-oelwirtschaft-von-russland-mit-luftangriffen](https://www.spiegel.de/ausland/russland-so-schwaecht-die-ukraine-die-oelwirtschaft-von-russland-mit-luftangriffen-a-73ff0a10-7ba4-40b9-b67a-094393737b8b#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kyjiw-meldet-erfolgreiche-angriffe-auf-sprengstofffabrik-und-oelkomplex](https://www.spiegel.de/ausland/russland-ukraine-krieg-kyjiw-meldet-erfolgreiche-angriffe-auf-sprengstofffabrik-und-oelkomplex-a-1d92e1a2-e67a-44b0-94d1-23062b2a4e08#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-verhandlungen-ueber-gaza-krieg-regierungskrise-in-frankreich](https://www.spiegel.de/politik/deutschland/news-des-tages-verhandlungen-ueber-gaza-krieg-regierungskrise-in-frankreich-a-3baef4a6-0671-4f72-ae35-7347a4620215#ref=rss)
-* [https://www.spiegel.de/panorama/warnsignale-was-die-verschiedenen-sirenensignale-bedeuten](https://www.spiegel.de/panorama/warnsignale-was-die-verschiedenen-sirenensignale-bedeuten-a-87d36932-44d4-4aa0-95ab-95155533e4b5#ref=rss)
-### vorgehen
-
-* [https://www.spiegel.de/ausland/illinois-us-bundesstaat-klagt-gegen-einsatz-der-nationalgarde-in-chicago](https://www.spiegel.de/ausland/illinois-us-bundesstaat-klagt-gegen-einsatz-der-nationalgarde-in-chicago-a-52c626de-f508-42f4-bbfe-273f39e847cd#ref=rss)
-* [https://www.spiegel.de/sport/mount-everest-wer-rettet-die-trekking-touristen-im-himalaja](https://www.spiegel.de/sport/mount-everest-wer-rettet-die-trekking-touristen-im-himalaja-a-4aa4193a-4c47-49fc-9766-44d5253fe4a8#ref=rss)
-### kauft
-
-* [https://www.spiegel.de/wirtschaft/deutschland-solarworld-gruender-frank-asbeck-kauft-markenrechte-seiner-einstigen-firma-zurueck](https://www.spiegel.de/wirtschaft/deutschland-solarworld-gruender-frank-asbeck-kauft-markenrechte-seiner-einstigen-firma-zurueck-a-31209957-8fe6-4521-942e-da5e9489e075#ref=rss)
-* [https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news](https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news-a-5876523e-4ad1-4af5-8b5b-29a3875110c3#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wirtschaft/deutschland-solarworld-gruender-frank-asbeck-kauft-markenrechte-seiner-einstigen-firma-zurueck](https://www.spiegel.de/wirtschaft/deutschland-solarworld-gruender-frank-asbeck-kauft-markenrechte-seiner-einstigen-firma-zurueck-a-31209957-8fe6-4521-942e-da5e9489e075#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/cdu-neue-generation-protestaktion-an-parteizentrale-in-berlin-von-polizei-gestoppt](https://www.spiegel.de/panorama/justiz/cdu-neue-generation-protestaktion-an-parteizentrale-in-berlin-von-polizei-gestoppt-a-99f8c594-529b-41f7-9365-9b381d5cd1f1#ref=rss)
-### solarworld
-
-* [https://www.spiegel.de/wirtschaft/deutschland-solarworld-gruender-frank-asbeck-kauft-markenrechte-seiner-einstigen-firma-zurueck](https://www.spiegel.de/wirtschaft/deutschland-solarworld-gruender-frank-asbeck-kauft-markenrechte-seiner-einstigen-firma-zurueck-a-31209957-8fe6-4521-942e-da5e9489e075#ref=rss)
-### verlust
-
-* [https://www.spiegel.de/wissenschaft/natur/umweltschutz-wie-der-verlust-des-bodens-unseren-planeten-bedroht-auszug-aus-mutter-erde](https://www.spiegel.de/wissenschaft/natur/umweltschutz-wie-der-verlust-des-bodens-unseren-planeten-bedroht-auszug-aus-mutter-erde-a-152f24ff-6605-4800-b274-d6ea55009f5e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-berater-von-katherina-reiche-fordern-deregulierung-und-hoeheres-renteneintrittsalter](https://www.spiegel.de/wirtschaft/wirtschaft-berater-von-katherina-reiche-fordern-deregulierung-und-hoeheres-renteneintrittsalter-a-b2a21b1d-b897-4d05-b4af-c2ced5c90a7f#ref=rss)
-### wir
-
-* [https://www.spiegel.de/wissenschaft/natur/umweltschutz-wie-der-verlust-des-bodens-unseren-planeten-bedroht-auszug-aus-mutter-erde](https://www.spiegel.de/wissenschaft/natur/umweltschutz-wie-der-verlust-des-bodens-unseren-planeten-bedroht-auszug-aus-mutter-erde-a-152f24ff-6605-4800-b274-d6ea55009f5e#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-streitet-ueber-gedenken-an-hamas-ueberfall-auf-israel](https://www.spiegel.de/politik/deutschland/bundestag-streitet-ueber-gedenken-an-hamas-ueberfall-auf-israel-a-c969070e-f5a2-4fc4-92a8-1e37a4b75ae6#ref=rss)
-### hamasmassaker
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-streitet-ueber-gedenken-an-hamas-ueberfall-auf-israel](https://www.spiegel.de/politik/deutschland/bundestag-streitet-ueber-gedenken-an-hamas-ueberfall-auf-israel-a-c969070e-f5a2-4fc4-92a8-1e37a4b75ae6#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/israel-ayelet-gundar-goshen-ueber-das-schreiben-nach-dem-7-oktober](https://www.spiegel.de/kultur/literatur/israel-ayelet-gundar-goshen-ueber-das-schreiben-nach-dem-7-oktober-a-2ccbf84a-82be-42a0-ad54-7746d00aaf1e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bad-wuennenberg-scheibe-bei-juedischer-familie-mit-gedenkstein-zerstoert](https://www.spiegel.de/panorama/justiz/bad-wuennenberg-scheibe-bei-juedischer-familie-mit-gedenkstein-zerstoert-a-6608c1d7-e471-44b9-86dc-3e6825fb3905#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-der-7-oktober-ein-tag-der-nicht-endet](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-der-7-oktober-ein-tag-der-nicht-endet-a-508cf16c-2b99-4abf-90c8-77a98e8d0092#ref=rss)
+* [https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit](https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit-a-fb6b2166-292d-42b3-bd6e-696246694ac8#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gedenken-an-7-oktober-2023-schweigeminute-am-ort-des-massakers](https://www.spiegel.de/ausland/israel-gedenken-an-7-oktober-2023-schweigeminute-am-ort-des-massakers-a-e665e127-299f-434d-ab19-8aff6bb94625#ref=rss)
+* [https://www.spiegel.de/ausland/israel-wie-kinder-und-jugendliche-das-trauma-des-7-oktober-durchleben](https://www.spiegel.de/ausland/israel-wie-kinder-und-jugendliche-das-trauma-des-7-oktober-durchleben-a-af936e63-a95d-499b-97cc-d28f01002aa2#ref=rss)
 ### 7
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-streitet-ueber-gedenken-an-hamas-ueberfall-auf-israel](https://www.spiegel.de/politik/deutschland/bundestag-streitet-ueber-gedenken-an-hamas-ueberfall-auf-israel-a-c969070e-f5a2-4fc4-92a8-1e37a4b75ae6#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/israel-ayelet-gundar-goshen-ueber-das-schreiben-nach-dem-7-oktober](https://www.spiegel.de/kultur/literatur/israel-ayelet-gundar-goshen-ueber-das-schreiben-nach-dem-7-oktober-a-2ccbf84a-82be-42a0-ad54-7746d00aaf1e#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-der-7-oktober-ein-tag-der-nicht-endet](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-der-7-oktober-ein-tag-der-nicht-endet-a-508cf16c-2b99-4abf-90c8-77a98e8d0092#ref=rss)
+* [https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit](https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit-a-fb6b2166-292d-42b3-bd6e-696246694ac8#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gedenken-an-7-oktober-2023-schweigeminute-am-ort-des-massakers](https://www.spiegel.de/ausland/israel-gedenken-an-7-oktober-2023-schweigeminute-am-ort-des-massakers-a-e665e127-299f-434d-ab19-8aff6bb94625#ref=rss)
+* [https://www.spiegel.de/ausland/israel-wie-kinder-und-jugendliche-das-trauma-des-7-oktober-durchleben](https://www.spiegel.de/ausland/israel-wie-kinder-und-jugendliche-das-trauma-des-7-oktober-durchleben-a-af936e63-a95d-499b-97cc-d28f01002aa2#ref=rss)
 ### oktober
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-streitet-ueber-gedenken-an-hamas-ueberfall-auf-israel](https://www.spiegel.de/politik/deutschland/bundestag-streitet-ueber-gedenken-an-hamas-ueberfall-auf-israel-a-c969070e-f5a2-4fc4-92a8-1e37a4b75ae6#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/israel-ayelet-gundar-goshen-ueber-das-schreiben-nach-dem-7-oktober](https://www.spiegel.de/kultur/literatur/israel-ayelet-gundar-goshen-ueber-das-schreiben-nach-dem-7-oktober-a-2ccbf84a-82be-42a0-ad54-7746d00aaf1e#ref=rss)
-### johann
+* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-der-7-oktober-ein-tag-der-nicht-endet](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-der-7-oktober-ein-tag-der-nicht-endet-a-508cf16c-2b99-4abf-90c8-77a98e8d0092#ref=rss)
+* [https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit](https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit-a-fb6b2166-292d-42b3-bd6e-696246694ac8#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gedenken-an-7-oktober-2023-schweigeminute-am-ort-des-massakers](https://www.spiegel.de/ausland/israel-gedenken-an-7-oktober-2023-schweigeminute-am-ort-des-massakers-a-e665e127-299f-434d-ab19-8aff6bb94625#ref=rss)
+* [https://www.spiegel.de/ausland/israel-wie-kinder-und-jugendliche-das-trauma-des-7-oktober-durchleben](https://www.spiegel.de/ausland/israel-wie-kinder-und-jugendliche-das-trauma-des-7-oktober-durchleben-a-af936e63-a95d-499b-97cc-d28f01002aa2#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/gazastreifen-johann-wadephul-bietet-initiative-fuer-wiederaufbaukonferenz-an](https://www.spiegel.de/politik/deutschland/gazastreifen-johann-wadephul-bietet-initiative-fuer-wiederaufbaukonferenz-an-a-553b81ee-4d2b-442d-ab5b-82fb28bc5835#ref=rss)
-### wadephul
+* [https://www.spiegel.de/politik/bundestag-vorbestrafter-philipp-r-ist-nicht-mehr-laenger-mitarbeiter-der-afd-fraktion](https://www.spiegel.de/politik/bundestag-vorbestrafter-philipp-r-ist-nicht-mehr-laenger-mitarbeiter-der-afd-fraktion-a-8e263fbf-0a8c-4fd4-a072-eaec5724ba41#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/work-and-stay-agentur-baerbel-bas-will-anwerbung-auslaendischer-fachkraefte-erleichtern](https://www.spiegel.de/wirtschaft/unternehmen/work-and-stay-agentur-baerbel-bas-will-anwerbung-auslaendischer-fachkraefte-erleichtern-a-741b63c2-37d6-41cb-ad7f-d25239669b0b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-128-000-menschen-unterschreiben-fuer-comeback-der-familienreservierung](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-128-000-menschen-unterschreiben-fuer-comeback-der-familienreservierung-a-2aa95a13-8f0d-40a4-bddb-69da47c7cdd7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-ard-und-zdf-zeigen-nach-deal-mit-telekom-offenbar-mehr-als-die-haelfte-der-spiele](https://www.spiegel.de/sport/fussball/wm-2026-ard-und-zdf-zeigen-nach-deal-mit-telekom-offenbar-mehr-als-die-haelfte-der-spiele-a-c3c35618-9128-4b0d-882d-db4a56edb0f8#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/politik/deutschland/gazastreifen-johann-wadephul-bietet-initiative-fuer-wiederaufbaukonferenz-an](https://www.spiegel.de/politik/deutschland/gazastreifen-johann-wadephul-bietet-initiative-fuer-wiederaufbaukonferenz-an-a-553b81ee-4d2b-442d-ab5b-82fb28bc5835#ref=rss)
-### verhandlungen
+* [https://www.spiegel.de/politik/bundestag-vorbestrafter-philipp-r-ist-nicht-mehr-laenger-mitarbeiter-der-afd-fraktion](https://www.spiegel.de/politik/bundestag-vorbestrafter-philipp-r-ist-nicht-mehr-laenger-mitarbeiter-der-afd-fraktion-a-8e263fbf-0a8c-4fd4-a072-eaec5724ba41#ref=rss)
+* [https://www.spiegel.de/panorama/kalifornien-rettungshubschrauber-stuerzt-auf-highway](https://www.spiegel.de/panorama/kalifornien-rettungshubschrauber-stuerzt-auf-highway-a-d289f4a4-af10-4ae2-95ef-d04256d0654e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/albanien-mann-erschiesst-richter-waehrend-gerichtsverhandlung](https://www.spiegel.de/panorama/justiz/albanien-mann-erschiesst-richter-waehrend-gerichtsverhandlung-a-7b68025a-bf36-4de6-bec3-1822df28edd9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2026-ard-und-zdf-zeigen-nach-deal-mit-telekom-offenbar-mehr-als-die-haelfte-der-spiele](https://www.spiegel.de/sport/fussball/wm-2026-ard-und-zdf-zeigen-nach-deal-mit-telekom-offenbar-mehr-als-die-haelfte-der-spiele-a-c3c35618-9128-4b0d-882d-db4a56edb0f8#ref=rss)
+### familie
 
-* [https://www.spiegel.de/politik/deutschland/gazastreifen-johann-wadephul-bietet-initiative-fuer-wiederaufbaukonferenz-an](https://www.spiegel.de/politik/deutschland/gazastreifen-johann-wadephul-bietet-initiative-fuer-wiederaufbaukonferenz-an-a-553b81ee-4d2b-442d-ab5b-82fb28bc5835#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-verhandlungen-ueber-gaza-krieg-regierungskrise-in-frankreich](https://www.spiegel.de/politik/deutschland/news-des-tages-verhandlungen-ueber-gaza-krieg-regierungskrise-in-frankreich-a-3baef4a6-0671-4f72-ae35-7347a4620215#ref=rss)
-### ridley
+* [https://www.spiegel.de/panorama/justiz/bad-wuennenberg-scheibe-bei-juedischer-familie-mit-gedenkstein-zerstoert](https://www.spiegel.de/panorama/justiz/bad-wuennenberg-scheibe-bei-juedischer-familie-mit-gedenkstein-zerstoert-a-6608c1d7-e471-44b9-86dc-3e6825fb3905#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-128-000-menschen-unterschreiben-fuer-comeback-der-familienreservierung](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-128-000-menschen-unterschreiben-fuer-comeback-der-familienreservierung-a-2aa95a13-8f0d-40a4-bddb-69da47c7cdd7#ref=rss)
+### täter
 
-* [https://www.spiegel.de/kultur/kino/ridley-scott-findet-neue-filme-mittelmaessig-also-schaut-er-lieber-seine-eigenen-alten](https://www.spiegel.de/kultur/kino/ridley-scott-findet-neue-filme-mittelmaessig-also-schaut-er-lieber-seine-eigenen-alten-a-94159f75-07c1-4368-a511-29b1f2b347f7#ref=rss)
-### scott
+* [https://www.spiegel.de/panorama/justiz/bad-wuennenberg-scheibe-bei-juedischer-familie-mit-gedenkstein-zerstoert](https://www.spiegel.de/panorama/justiz/bad-wuennenberg-scheibe-bei-juedischer-familie-mit-gedenkstein-zerstoert-a-6608c1d7-e471-44b9-86dc-3e6825fb3905#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/albanien-mann-erschiesst-richter-waehrend-gerichtsverhandlung](https://www.spiegel.de/panorama/justiz/albanien-mann-erschiesst-richter-waehrend-gerichtsverhandlung-a-7b68025a-bf36-4de6-bec3-1822df28edd9#ref=rss)
+* [https://www.spiegel.de/sport/missbrauchsbeauftragte-kerstin-claus-fordert-einfuehrung-von-trainer-register](https://www.spiegel.de/sport/missbrauchsbeauftragte-kerstin-claus-fordert-einfuehrung-von-trainer-register-a-8534330f-fe0a-42ce-a7af-3b151097ef02#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/kultur/kino/ridley-scott-findet-neue-filme-mittelmaessig-also-schaut-er-lieber-seine-eigenen-alten](https://www.spiegel.de/kultur/kino/ridley-scott-findet-neue-filme-mittelmaessig-also-schaut-er-lieber-seine-eigenen-alten-a-94159f75-07c1-4368-a511-29b1f2b347f7#ref=rss)
-### eigenen
+* [https://www.spiegel.de/panorama/kalifornien-rettungshubschrauber-stuerzt-auf-highway](https://www.spiegel.de/panorama/kalifornien-rettungshubschrauber-stuerzt-auf-highway-a-d289f4a4-af10-4ae2-95ef-d04256d0654e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gedenken-an-7-oktober-2023-schweigeminute-am-ort-des-massakers](https://www.spiegel.de/ausland/israel-gedenken-an-7-oktober-2023-schweigeminute-am-ort-des-massakers-a-e665e127-299f-434d-ab19-8aff6bb94625#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-128-000-menschen-unterschreiben-fuer-comeback-der-familienreservierung](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-128-000-menschen-unterschreiben-fuer-comeback-der-familienreservierung-a-2aa95a13-8f0d-40a4-bddb-69da47c7cdd7#ref=rss)
+### sané
 
-* [https://www.spiegel.de/kultur/kino/ridley-scott-findet-neue-filme-mittelmaessig-also-schaut-er-lieber-seine-eigenen-alten](https://www.spiegel.de/kultur/kino/ridley-scott-findet-neue-filme-mittelmaessig-also-schaut-er-lieber-seine-eigenen-alten-a-94159f75-07c1-4368-a511-29b1f2b347f7#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kyjiw-meldet-erfolgreiche-angriffe-auf-sprengstofffabrik-und-oelkomplex](https://www.spiegel.de/ausland/russland-ukraine-krieg-kyjiw-meldet-erfolgreiche-angriffe-auf-sprengstofffabrik-und-oelkomplex-a-1d92e1a2-e67a-44b0-94d1-23062b2a4e08#ref=rss)
-### emmanuel
+* [https://www.spiegel.de/sport/fussball/oktoberfest-leroy-sane-geraet-auf-der-wiesn-in-rangelei](https://www.spiegel.de/sport/fussball/oktoberfest-leroy-sane-geraet-auf-der-wiesn-in-rangelei-a-efe71c97-6d4d-4dec-beb1-808c4607b352#ref=rss)
+### wagner
 
-* [https://www.spiegel.de/ausland/frankreich-warum-emmanuel-macron-in-der-krise-allein-dasteht](https://www.spiegel.de/ausland/frankreich-warum-emmanuel-macron-in-der-krise-allein-dasteht-a-8f2e4f13-4f95-4d8c-9463-bb5ed204e244#ref=rss)
-### macron
+* [https://www.spiegel.de/kultur/bild-kolumnist-franz-josef-wagner-im-alter-von-82-jahren-gestorben](https://www.spiegel.de/kultur/bild-kolumnist-franz-josef-wagner-im-alter-von-82-jahren-gestorben-a-d5a3ebbe-04ee-4cab-9009-33f47932138e#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/frankreich-warum-emmanuel-macron-in-der-krise-allein-dasteht](https://www.spiegel.de/ausland/frankreich-warum-emmanuel-macron-in-der-krise-allein-dasteht-a-8f2e4f13-4f95-4d8c-9463-bb5ed204e244#ref=rss)
-### allein
+* [https://www.spiegel.de/kultur/bild-kolumnist-franz-josef-wagner-im-alter-von-82-jahren-gestorben](https://www.spiegel.de/kultur/bild-kolumnist-franz-josef-wagner-im-alter-von-82-jahren-gestorben-a-d5a3ebbe-04ee-4cab-9009-33f47932138e#ref=rss)
+### zeekr
 
-* [https://www.spiegel.de/ausland/frankreich-warum-emmanuel-macron-in-der-krise-allein-dasteht](https://www.spiegel.de/ausland/frankreich-warum-emmanuel-macron-in-der-krise-allein-dasteht-a-8f2e4f13-4f95-4d8c-9463-bb5ed204e244#ref=rss)
-### versuch
+* [https://www.spiegel.de/auto/fahrberichte/zeekr-7x-im-test-der-sehrschnelllader](https://www.spiegel.de/auto/fahrberichte/zeekr-7x-im-test-der-sehrschnelllader-a-e73eaf1f-f5ea-4257-9b3e-6b2ac7f00d58#ref=rss)
+### 2023
 
-* [https://www.spiegel.de/ausland/frankreich-warum-emmanuel-macron-in-der-krise-allein-dasteht](https://www.spiegel.de/ausland/frankreich-warum-emmanuel-macron-in-der-krise-allein-dasteht-a-8f2e4f13-4f95-4d8c-9463-bb5ed204e244#ref=rss)
-### neuen
+* [https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit](https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit-a-fb6b2166-292d-42b3-bd6e-696246694ac8#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gedenken-an-7-oktober-2023-schweigeminute-am-ort-des-massakers](https://www.spiegel.de/ausland/israel-gedenken-an-7-oktober-2023-schweigeminute-am-ort-des-massakers-a-e665e127-299f-434d-ab19-8aff6bb94625#ref=rss)
+### madagaskar
 
-* [https://www.spiegel.de/ausland/frankreich-warum-emmanuel-macron-in-der-krise-allein-dasteht](https://www.spiegel.de/ausland/frankreich-warum-emmanuel-macron-in-der-krise-allein-dasteht-a-8f2e4f13-4f95-4d8c-9463-bb5ed204e244#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/medizin-nobelpreis-hoffnung-fuer-patienten-mit-neurodermitis-multipler-sklerose-und-krebs](https://www.spiegel.de/gesundheit/diagnose/medizin-nobelpreis-hoffnung-fuer-patienten-mit-neurodermitis-multipler-sklerose-und-krebs-a-f5222b49-1123-445e-9b2c-9125de4c3324#ref=rss)
-### house
+* [https://www.spiegel.de/ausland/madagaskar-general-ruhphin-fortunat-zafisambo-soll-als-neuer-ministerpraesident-jugendproteste-eindaemmen](https://www.spiegel.de/ausland/madagaskar-general-ruhphin-fortunat-zafisambo-soll-als-neuer-ministerpraesident-jugendproteste-eindaemmen-a-9c0703b7-ce1b-49aa-960c-14f6c10390c6#ref=rss)
+### general
 
-* [https://www.spiegel.de/geschichte/faktencheck-was-ist-wahr-an-der-netflix-serie-house-of-guinness](https://www.spiegel.de/geschichte/faktencheck-was-ist-wahr-an-der-netflix-serie-house-of-guinness-a-f4fbc2af-4ac5-48ee-bcdf-74056af8a621#ref=rss)
-### lief
+* [https://www.spiegel.de/ausland/madagaskar-general-ruhphin-fortunat-zafisambo-soll-als-neuer-ministerpraesident-jugendproteste-eindaemmen](https://www.spiegel.de/ausland/madagaskar-general-ruhphin-fortunat-zafisambo-soll-als-neuer-ministerpraesident-jugendproteste-eindaemmen-a-9c0703b7-ce1b-49aa-960c-14f6c10390c6#ref=rss)
+### ruhphin
 
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### erste
+* [https://www.spiegel.de/ausland/madagaskar-general-ruhphin-fortunat-zafisambo-soll-als-neuer-ministerpraesident-jugendproteste-eindaemmen](https://www.spiegel.de/ausland/madagaskar-general-ruhphin-fortunat-zafisambo-soll-als-neuer-ministerpraesident-jugendproteste-eindaemmen-a-9c0703b7-ce1b-49aa-960c-14f6c10390c6#ref=rss)
+### fortunat
 
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### wahl
+* [https://www.spiegel.de/ausland/madagaskar-general-ruhphin-fortunat-zafisambo-soll-als-neuer-ministerpraesident-jugendproteste-eindaemmen](https://www.spiegel.de/ausland/madagaskar-general-ruhphin-fortunat-zafisambo-soll-als-neuer-ministerpraesident-jugendproteste-eindaemmen-a-9c0703b7-ce1b-49aa-960c-14f6c10390c6#ref=rss)
+### zafisambo
 
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### regime
+* [https://www.spiegel.de/ausland/madagaskar-general-ruhphin-fortunat-zafisambo-soll-als-neuer-ministerpraesident-jugendproteste-eindaemmen](https://www.spiegel.de/ausland/madagaskar-general-ruhphin-fortunat-zafisambo-soll-als-neuer-ministerpraesident-jugendproteste-eindaemmen-a-9c0703b7-ce1b-49aa-960c-14f6c10390c6#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### baschar
+* [https://www.spiegel.de/ausland/madagaskar-general-ruhphin-fortunat-zafisambo-soll-als-neuer-ministerpraesident-jugendproteste-eindaemmen](https://www.spiegel.de/ausland/madagaskar-general-ruhphin-fortunat-zafisambo-soll-als-neuer-ministerpraesident-jugendproteste-eindaemmen-a-9c0703b7-ce1b-49aa-960c-14f6c10390c6#ref=rss)
+### politischen
 
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### alassad
+* [https://www.spiegel.de/ausland/madagaskar-general-ruhphin-fortunat-zafisambo-soll-als-neuer-ministerpraesident-jugendproteste-eindaemmen](https://www.spiegel.de/ausland/madagaskar-general-ruhphin-fortunat-zafisambo-soll-als-neuer-ministerpraesident-jugendproteste-eindaemmen-a-9c0703b7-ce1b-49aa-960c-14f6c10390c6#ref=rss)
+* [https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit](https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit-a-fb6b2166-292d-42b3-bd6e-696246694ac8#ref=rss)
+### tobias
 
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### erstmals
+* [https://www.spiegel.de/kultur/tobias-eckerlin-deutscher-regisseur-gewinnt-goldenen-studenten-oscar](https://www.spiegel.de/kultur/tobias-eckerlin-deutscher-regisseur-gewinnt-goldenen-studenten-oscar-a-f072f8cd-4f90-4745-b7e8-6e48d1094d22#ref=rss)
+### eckerlin
 
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### sturz
+* [https://www.spiegel.de/kultur/tobias-eckerlin-deutscher-regisseur-gewinnt-goldenen-studenten-oscar](https://www.spiegel.de/kultur/tobias-eckerlin-deutscher-regisseur-gewinnt-goldenen-studenten-oscar-a-f072f8cd-4f90-4745-b7e8-6e48d1094d22#ref=rss)
+### goldenen
 
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### diktator
+* [https://www.spiegel.de/kultur/tobias-eckerlin-deutscher-regisseur-gewinnt-goldenen-studenten-oscar](https://www.spiegel.de/kultur/tobias-eckerlin-deutscher-regisseur-gewinnt-goldenen-studenten-oscar-a-f072f8cd-4f90-4745-b7e8-6e48d1094d22#ref=rss)
+### studentenoscar
 
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### assad
+* [https://www.spiegel.de/kultur/tobias-eckerlin-deutscher-regisseur-gewinnt-goldenen-studenten-oscar](https://www.spiegel.de/kultur/tobias-eckerlin-deutscher-regisseur-gewinnt-goldenen-studenten-oscar-a-f072f8cd-4f90-4745-b7e8-6e48d1094d22#ref=rss)
+### erhalten
 
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### neues
+* [https://www.spiegel.de/kultur/tobias-eckerlin-deutscher-regisseur-gewinnt-goldenen-studenten-oscar](https://www.spiegel.de/kultur/tobias-eckerlin-deutscher-regisseur-gewinnt-goldenen-studenten-oscar-a-f072f8cd-4f90-4745-b7e8-6e48d1094d22#ref=rss)
+* [https://www.spiegel.de/sport/fussball/noah-atubolu-vom-sc-freiburg-mittagsschlaf-fuehrt-zu-verpasstem-dfb-anruf](https://www.spiegel.de/sport/fussball/noah-atubolu-vom-sc-freiburg-mittagsschlaf-fuehrt-zu-verpasstem-dfb-anruf-a-fa6d4115-9560-4993-b2ce-de78c6890127#ref=rss)
+### chance
 
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### gewählt
-
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### grund
-
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### feiern
-
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### auswirkungen
-
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-podcast-a-aab13a74-d406-474c-a199-c944478e9c57#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad](https://www.spiegel.de/ausland/syrien-so-lief-die-erste-wahl-nach-dem-regime-von-baschar-al-assad-a-dd618ca5-f4df-4f86-bf2c-fe67b8548b2d#ref=rss)
-### medizinnobelpreis
-
-* [https://www.spiegel.de/gesundheit/diagnose/medizin-nobelpreis-hoffnung-fuer-patienten-mit-neurodermitis-multipler-sklerose-und-krebs](https://www.spiegel.de/gesundheit/diagnose/medizin-nobelpreis-hoffnung-fuer-patienten-mit-neurodermitis-multipler-sklerose-und-krebs-a-f5222b49-1123-445e-9b2c-9125de4c3324#ref=rss)
-### greta
-
-* [https://www.spiegel.de/ausland/israel-schiebt-greta-thunberg-ab](https://www.spiegel.de/ausland/israel-schiebt-greta-thunberg-ab-a-71310b91-772d-4250-b307-d9e87bb130c2#ref=rss)
-### thunberg
-
-* [https://www.spiegel.de/ausland/israel-schiebt-greta-thunberg-ab](https://www.spiegel.de/ausland/israel-schiebt-greta-thunberg-ab-a-71310b91-772d-4250-b307-d9e87bb130c2#ref=rss)
-### aktivisten
-
-* [https://www.spiegel.de/ausland/israel-schiebt-greta-thunberg-ab](https://www.spiegel.de/ausland/israel-schiebt-greta-thunberg-ab-a-71310b91-772d-4250-b307-d9e87bb130c2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/cdu-neue-generation-protestaktion-an-parteizentrale-in-berlin-von-polizei-gestoppt](https://www.spiegel.de/panorama/justiz/cdu-neue-generation-protestaktion-an-parteizentrale-in-berlin-von-polizei-gestoppt-a-99f8c594-529b-41f7-9365-9b381d5cd1f1#ref=rss)
-### unhcr
-
-* [https://www.spiegel.de/ausland/uno-fluechtlingshilfswerk-unhcr-streicht-mehr-als-jede-vierte-stelle](https://www.spiegel.de/ausland/uno-fluechtlingshilfswerk-unhcr-streicht-mehr-als-jede-vierte-stelle-a-bc8e27c5-412b-4c92-ab9f-cddc1e1d8f3d#ref=rss)
+* [https://www.spiegel.de/kultur/tobias-eckerlin-deutscher-regisseur-gewinnt-goldenen-studenten-oscar](https://www.spiegel.de/kultur/tobias-eckerlin-deutscher-regisseur-gewinnt-goldenen-studenten-oscar-a-f072f8cd-4f90-4745-b7e8-6e48d1094d22#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-der-7-oktober-ein-tag-der-nicht-endet](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-der-7-oktober-ein-tag-der-nicht-endet-a-508cf16c-2b99-4abf-90c8-77a98e8d0092#ref=rss)
 ### taylor
 
-* [https://www.spiegel.de/kultur/taylor-swift-raeumt-auch-an-der-kinokasse-ab-und-haengt-dwayne-johnson-ab](https://www.spiegel.de/kultur/taylor-swift-raeumt-auch-an-der-kinokasse-ab-und-haengt-dwayne-johnson-ab-a-6130e6ae-0923-467a-a80f-8b6ae3e7af9b#ref=rss)
+* [https://www.spiegel.de/panorama/taylor-swift-bleibt-lieber-auf-dem-erdboden](https://www.spiegel.de/panorama/taylor-swift-bleibt-lieber-auf-dem-erdboden-a-629c9ea7-3d80-4f5e-ad5e-2c446ff1743c#ref=rss)
 ### swift
 
-* [https://www.spiegel.de/kultur/taylor-swift-raeumt-auch-an-der-kinokasse-ab-und-haengt-dwayne-johnson-ab](https://www.spiegel.de/kultur/taylor-swift-raeumt-auch-an-der-kinokasse-ab-und-haengt-dwayne-johnson-ab-a-6130e6ae-0923-467a-a80f-8b6ae3e7af9b#ref=rss)
-### dwayne
+* [https://www.spiegel.de/panorama/taylor-swift-bleibt-lieber-auf-dem-erdboden](https://www.spiegel.de/panorama/taylor-swift-bleibt-lieber-auf-dem-erdboden-a-629c9ea7-3d80-4f5e-ad5e-2c446ff1743c#ref=rss)
+### lieber
 
-* [https://www.spiegel.de/kultur/taylor-swift-raeumt-auch-an-der-kinokasse-ab-und-haengt-dwayne-johnson-ab](https://www.spiegel.de/kultur/taylor-swift-raeumt-auch-an-der-kinokasse-ab-und-haengt-dwayne-johnson-ab-a-6130e6ae-0923-467a-a80f-8b6ae3e7af9b#ref=rss)
-### johnson
+* [https://www.spiegel.de/panorama/taylor-swift-bleibt-lieber-auf-dem-erdboden](https://www.spiegel.de/panorama/taylor-swift-bleibt-lieber-auf-dem-erdboden-a-629c9ea7-3d80-4f5e-ad5e-2c446ff1743c#ref=rss)
+### test
 
-* [https://www.spiegel.de/kultur/taylor-swift-raeumt-auch-an-der-kinokasse-ab-und-haengt-dwayne-johnson-ab](https://www.spiegel.de/kultur/taylor-swift-raeumt-auch-an-der-kinokasse-ab-und-haengt-dwayne-johnson-ab-a-6130e6ae-0923-467a-a80f-8b6ae3e7af9b#ref=rss)
-### dürfte
+* [https://www.spiegel.de/netzwelt/gadgets/bose-quietcomfort-ultra-2-gen-im-test-jetzt-mach-mal-leise](https://www.spiegel.de/netzwelt/gadgets/bose-quietcomfort-ultra-2-gen-im-test-jetzt-mach-mal-leise-a-64b0d4a7-0083-42f4-bfae-30d11da09a9f#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/zeekr-7x-im-test-der-sehrschnelllader](https://www.spiegel.de/auto/fahrberichte/zeekr-7x-im-test-der-sehrschnelllader-a-e73eaf1f-f5ea-4257-9b3e-6b2ac7f00d58#ref=rss)
+### neue
 
-* [https://www.spiegel.de/kultur/taylor-swift-raeumt-auch-an-der-kinokasse-ab-und-haengt-dwayne-johnson-ab](https://www.spiegel.de/kultur/taylor-swift-raeumt-auch-an-der-kinokasse-ab-und-haengt-dwayne-johnson-ab-a-6130e6ae-0923-467a-a80f-8b6ae3e7af9b#ref=rss)
-* [https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news](https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news-a-5876523e-4ad1-4af5-8b5b-29a3875110c3#ref=rss)
-### free
+* [https://www.spiegel.de/netzwelt/gadgets/bose-quietcomfort-ultra-2-gen-im-test-jetzt-mach-mal-leise](https://www.spiegel.de/netzwelt/gadgets/bose-quietcomfort-ultra-2-gen-im-test-jetzt-mach-mal-leise-a-64b0d4a7-0083-42f4-bfae-30d11da09a9f#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/zeekr-7x-im-test-der-sehrschnelllader](https://www.spiegel.de/auto/fahrberichte/zeekr-7x-im-test-der-sehrschnelllader-a-e73eaf1f-f5ea-4257-9b3e-6b2ac7f00d58#ref=rss)
+### mount
 
-* [https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news](https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news-a-5876523e-4ad1-4af5-8b5b-29a3875110c3#ref=rss)
-### press
+* [https://www.spiegel.de/ausland/mount-everest-schneesturm-ueberrascht-hunderte-bergtouristen](https://www.spiegel.de/ausland/mount-everest-schneesturm-ueberrascht-hunderte-bergtouristen-a-8c3190db-bca3-428e-9e2e-483c10f60223#ref=rss)
+### everest
 
-* [https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news](https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news-a-5876523e-4ad1-4af5-8b5b-29a3875110c3#ref=rss)
-### bari
+* [https://www.spiegel.de/ausland/mount-everest-schneesturm-ueberrascht-hunderte-bergtouristen](https://www.spiegel.de/ausland/mount-everest-schneesturm-ueberrascht-hunderte-bergtouristen-a-8c3190db-bca3-428e-9e2e-483c10f60223#ref=rss)
+### überrascht
 
-* [https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news](https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news-a-5876523e-4ad1-4af5-8b5b-29a3875110c3#ref=rss)
-### weiss
+* [https://www.spiegel.de/ausland/mount-everest-schneesturm-ueberrascht-hunderte-bergtouristen](https://www.spiegel.de/ausland/mount-everest-schneesturm-ueberrascht-hunderte-bergtouristen-a-8c3190db-bca3-428e-9e2e-483c10f60223#ref=rss)
+### hunderte
 
-* [https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news](https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news-a-5876523e-4ad1-4af5-8b5b-29a3875110c3#ref=rss)
-### cbs
+* [https://www.spiegel.de/ausland/mount-everest-schneesturm-ueberrascht-hunderte-bergtouristen](https://www.spiegel.de/ausland/mount-everest-schneesturm-ueberrascht-hunderte-bergtouristen-a-8c3190db-bca3-428e-9e2e-483c10f60223#ref=rss)
+### bergtouristen
 
-* [https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news](https://www.spiegel.de/kultur/paramount-kauft-startup-the-free-press-umstrittene-journalistin-bari-weiss-wird-neue-chefin-von-cbs-news-a-5876523e-4ad1-4af5-8b5b-29a3875110c3#ref=rss)
-### mehreren
+* [https://www.spiegel.de/ausland/mount-everest-schneesturm-ueberrascht-hunderte-bergtouristen](https://www.spiegel.de/ausland/mount-everest-schneesturm-ueberrascht-hunderte-bergtouristen-a-8c3190db-bca3-428e-9e2e-483c10f60223#ref=rss)
+### gedenkstein
 
-* [https://www.spiegel.de/ausland/russland-so-schwaecht-die-ukraine-die-oelwirtschaft-von-russland-mit-luftangriffen](https://www.spiegel.de/ausland/russland-so-schwaecht-die-ukraine-die-oelwirtschaft-von-russland-mit-luftangriffen-a-73ff0a10-7ba4-40b9-b67a-094393737b8b#ref=rss)
-* [https://www.spiegel.de/sport/radspot-dominator-tadej-pogacar-respektlose-kapitulation](https://www.spiegel.de/sport/radspot-dominator-tadej-pogacar-respektlose-kapitulation-a-6ecf20f1-c76d-4cd6-94a7-0951e5ab4532#ref=rss)
-### kyjiw
+* [https://www.spiegel.de/panorama/justiz/bad-wuennenberg-scheibe-bei-juedischer-familie-mit-gedenkstein-zerstoert](https://www.spiegel.de/panorama/justiz/bad-wuennenberg-scheibe-bei-juedischer-familie-mit-gedenkstein-zerstoert-a-6608c1d7-e471-44b9-86dc-3e6825fb3905#ref=rss)
+### john
 
-* [https://www.spiegel.de/ausland/russland-so-schwaecht-die-ukraine-die-oelwirtschaft-von-russland-mit-luftangriffen](https://www.spiegel.de/ausland/russland-so-schwaecht-die-ukraine-die-oelwirtschaft-von-russland-mit-luftangriffen-a-73ff0a10-7ba4-40b9-b67a-094393737b8b#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kyjiw-meldet-erfolgreiche-angriffe-auf-sprengstofffabrik-und-oelkomplex](https://www.spiegel.de/ausland/russland-ukraine-krieg-kyjiw-meldet-erfolgreiche-angriffe-auf-sprengstofffabrik-und-oelkomplex-a-1d92e1a2-e67a-44b0-94d1-23062b2a4e08#ref=rss)
-### internationaler
+* [https://www.spiegel.de/wissenschaft/technik/nobelpreis-fuer-physik-geht-an-quantenforscher](https://www.spiegel.de/wissenschaft/technik/nobelpreis-fuer-physik-geht-an-quantenforscher-a-0749a73b-fff4-4d17-9804-a81fdbc84234#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-spricht-ex-milizenchef-fuer-massaker-von-darfur-schuldig](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-spricht-ex-milizenchef-fuer-massaker-von-darfur-schuldig-a-6761b531-6e6a-42f8-b5ef-63334b43f10c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-berater-von-katherina-reiche-fordern-deregulierung-und-hoeheres-renteneintrittsalter](https://www.spiegel.de/wirtschaft/wirtschaft-berater-von-katherina-reiche-fordern-deregulierung-und-hoeheres-renteneintrittsalter-a-b2a21b1d-b897-4d05-b4af-c2ced5c90a7f#ref=rss)
-### darfur
+* [https://www.spiegel.de/ausland/frankreich-berufungsprozess-im-fall-gisele-pelicot-ein-deja-vu-das-keines-ist](https://www.spiegel.de/ausland/frankreich-berufungsprozess-im-fall-gisele-pelicot-ein-deja-vu-das-keines-ist-a-4a694ef9-2d2a-4a42-8065-552d03aec042#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-die-pressestimmen-zum-ruecktritt-von-premierminister-sebastien-lecornu](https://www.spiegel.de/ausland/frankreich-die-pressestimmen-zum-ruecktritt-von-premierminister-sebastien-lecornu-a-3d9d9f13-bac2-40a8-b5af-8c190e23ed9e#ref=rss)
+### gisèle
 
-* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-spricht-ex-milizenchef-fuer-massaker-von-darfur-schuldig](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-spricht-ex-milizenchef-fuer-massaker-von-darfur-schuldig-a-6761b531-6e6a-42f8-b5ef-63334b43f10c#ref=rss)
-### jahre
+* [https://www.spiegel.de/ausland/frankreich-berufungsprozess-im-fall-gisele-pelicot-ein-deja-vu-das-keines-ist](https://www.spiegel.de/ausland/frankreich-berufungsprozess-im-fall-gisele-pelicot-ein-deja-vu-das-keines-ist-a-4a694ef9-2d2a-4a42-8065-552d03aec042#ref=rss)
+### pelicot
 
-* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-spricht-ex-milizenchef-fuer-massaker-von-darfur-schuldig](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-spricht-ex-milizenchef-fuer-massaker-von-darfur-schuldig-a-6761b531-6e6a-42f8-b5ef-63334b43f10c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/endurance-warum-shackletons-legendaeres-polarschiff-in-der-antarktis-unterging](https://www.spiegel.de/wissenschaft/mensch/endurance-warum-shackletons-legendaeres-polarschiff-in-der-antarktis-unterging-a-3a737cbc-1744-47ee-9ef5-9226f1fbc877#ref=rss)
-### ali
+* [https://www.spiegel.de/ausland/frankreich-berufungsprozess-im-fall-gisele-pelicot-ein-deja-vu-das-keines-ist](https://www.spiegel.de/ausland/frankreich-berufungsprozess-im-fall-gisele-pelicot-ein-deja-vu-das-keines-ist-a-4a694ef9-2d2a-4a42-8065-552d03aec042#ref=rss)
+### autogipfel
 
-* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-spricht-ex-milizenchef-fuer-massaker-von-darfur-schuldig](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-spricht-ex-milizenchef-fuer-massaker-von-darfur-schuldig-a-6761b531-6e6a-42f8-b5ef-63334b43f10c#ref=rss)
-### endurance
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-autogipfel-friedrich-merz-nennt-verbrenner-aus-2035-falsches-verbot](https://www.spiegel.de/wirtschaft/unternehmen/vor-autogipfel-friedrich-merz-nennt-verbrenner-aus-2035-falsches-verbot-a-715fd728-7dc5-44bd-a3a3-80cd404f92d0#ref=rss)
+### merz
 
-* [https://www.spiegel.de/wissenschaft/mensch/endurance-warum-shackletons-legendaeres-polarschiff-in-der-antarktis-unterging](https://www.spiegel.de/wissenschaft/mensch/endurance-warum-shackletons-legendaeres-polarschiff-in-der-antarktis-unterging-a-3a737cbc-1744-47ee-9ef5-9226f1fbc877#ref=rss)
-### polarschiff
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-autogipfel-friedrich-merz-nennt-verbrenner-aus-2035-falsches-verbot](https://www.spiegel.de/wirtschaft/unternehmen/vor-autogipfel-friedrich-merz-nennt-verbrenner-aus-2035-falsches-verbot-a-715fd728-7dc5-44bd-a3a3-80cd404f92d0#ref=rss)
+### 2035
 
-* [https://www.spiegel.de/wissenschaft/mensch/endurance-warum-shackletons-legendaeres-polarschiff-in-der-antarktis-unterging](https://www.spiegel.de/wissenschaft/mensch/endurance-warum-shackletons-legendaeres-polarschiff-in-der-antarktis-unterging-a-3a737cbc-1744-47ee-9ef5-9226f1fbc877#ref=rss)
-### antarktis
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-autogipfel-friedrich-merz-nennt-verbrenner-aus-2035-falsches-verbot](https://www.spiegel.de/wirtschaft/unternehmen/vor-autogipfel-friedrich-merz-nennt-verbrenner-aus-2035-falsches-verbot-a-715fd728-7dc5-44bd-a3a3-80cd404f92d0#ref=rss)
+### helfen
 
-* [https://www.spiegel.de/wissenschaft/mensch/endurance-warum-shackletons-legendaeres-polarschiff-in-der-antarktis-unterging](https://www.spiegel.de/wissenschaft/mensch/endurance-warum-shackletons-legendaeres-polarschiff-in-der-antarktis-unterging-a-3a737cbc-1744-47ee-9ef5-9226f1fbc877#ref=rss)
-### regierungskrise
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-autogipfel-friedrich-merz-nennt-verbrenner-aus-2035-falsches-verbot](https://www.spiegel.de/wirtschaft/unternehmen/vor-autogipfel-friedrich-merz-nennt-verbrenner-aus-2035-falsches-verbot-a-715fd728-7dc5-44bd-a3a3-80cd404f92d0#ref=rss)
+* [https://www.spiegel.de/sport/missbrauchsbeauftragte-kerstin-claus-fordert-einfuehrung-von-trainer-register](https://www.spiegel.de/sport/missbrauchsbeauftragte-kerstin-claus-fordert-einfuehrung-von-trainer-register-a-8534330f-fe0a-42ce-a7af-3b151097ef02#ref=rss)
+### dagegen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-verhandlungen-ueber-gaza-krieg-regierungskrise-in-frankreich](https://www.spiegel.de/politik/deutschland/news-des-tages-verhandlungen-ueber-gaza-krieg-regierungskrise-in-frankreich-a-3baef4a6-0671-4f72-ae35-7347a4620215#ref=rss)
-### cdu
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-autogipfel-friedrich-merz-nennt-verbrenner-aus-2035-falsches-verbot](https://www.spiegel.de/wirtschaft/unternehmen/vor-autogipfel-friedrich-merz-nennt-verbrenner-aus-2035-falsches-verbot-a-715fd728-7dc5-44bd-a3a3-80cd404f92d0#ref=rss)
+* [https://www.spiegel.de/sport/missbrauchsbeauftragte-kerstin-claus-fordert-einfuehrung-von-trainer-register](https://www.spiegel.de/sport/missbrauchsbeauftragte-kerstin-claus-fordert-einfuehrung-von-trainer-register-a-8534330f-fe0a-42ce-a7af-3b151097ef02#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/panorama/justiz/cdu-neue-generation-protestaktion-an-parteizentrale-in-berlin-von-polizei-gestoppt](https://www.spiegel.de/panorama/justiz/cdu-neue-generation-protestaktion-an-parteizentrale-in-berlin-von-polizei-gestoppt-a-99f8c594-529b-41f7-9365-9b381d5cd1f1#ref=rss)
-### polizei
+* [https://www.spiegel.de/politik/bundestag-vorbestrafter-philipp-r-ist-nicht-mehr-laenger-mitarbeiter-der-afd-fraktion](https://www.spiegel.de/politik/bundestag-vorbestrafter-philipp-r-ist-nicht-mehr-laenger-mitarbeiter-der-afd-fraktion-a-8e263fbf-0a8c-4fd4-a072-eaec5724ba41#ref=rss)
+### mitarbeiter
 
-* [https://www.spiegel.de/panorama/justiz/cdu-neue-generation-protestaktion-an-parteizentrale-in-berlin-von-polizei-gestoppt](https://www.spiegel.de/panorama/justiz/cdu-neue-generation-protestaktion-an-parteizentrale-in-berlin-von-polizei-gestoppt-a-99f8c594-529b-41f7-9365-9b381d5cd1f1#ref=rss)
-### tadej
+* [https://www.spiegel.de/politik/bundestag-vorbestrafter-philipp-r-ist-nicht-mehr-laenger-mitarbeiter-der-afd-fraktion](https://www.spiegel.de/politik/bundestag-vorbestrafter-philipp-r-ist-nicht-mehr-laenger-mitarbeiter-der-afd-fraktion-a-8e263fbf-0a8c-4fd4-a072-eaec5724ba41#ref=rss)
+### hamas
 
-* [https://www.spiegel.de/sport/radspot-dominator-tadej-pogacar-respektlose-kapitulation](https://www.spiegel.de/sport/radspot-dominator-tadej-pogacar-respektlose-kapitulation-a-6ecf20f1-c76d-4cd6-94a7-0951e5ab4532#ref=rss)
-### pogačar
+* [https://www.spiegel.de/ausland/hamas-und-die-zukunft-fuer-gaza-militaerisch-am-ende-politisch-nicht](https://www.spiegel.de/ausland/hamas-und-die-zukunft-fuer-gaza-militaerisch-am-ende-politisch-nicht-a-37cd0dd9-1b85-4c6c-bd81-d5d02dbc8088#ref=rss)
+### ende
 
-* [https://www.spiegel.de/sport/radspot-dominator-tadej-pogacar-respektlose-kapitulation](https://www.spiegel.de/sport/radspot-dominator-tadej-pogacar-respektlose-kapitulation-a-6ecf20f1-c76d-4cd6-94a7-0951e5ab4532#ref=rss)
-### florian
+* [https://www.spiegel.de/ausland/hamas-und-die-zukunft-fuer-gaza-militaerisch-am-ende-politisch-nicht](https://www.spiegel.de/ausland/hamas-und-die-zukunft-fuer-gaza-militaerisch-am-ende-politisch-nicht-a-37cd0dd9-1b85-4c6c-bd81-d5d02dbc8088#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-der-7-oktober-ein-tag-der-nicht-endet](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-der-7-oktober-ein-tag-der-nicht-endet-a-508cf16c-2b99-4abf-90c8-77a98e8d0092#ref=rss)
+### hunde
 
-* [https://www.spiegel.de/panorama/justiz/florian-teichtmeister-wegen-kokain-fund-auf-dem-oktoberfest-festgenommen](https://www.spiegel.de/panorama/justiz/florian-teichtmeister-wegen-kokain-fund-auf-dem-oktoberfest-festgenommen-a-9428b423-b4f6-4d28-ae51-95ffe2f66407#ref=rss)
-### teichtmeister
+* [https://www.spiegel.de/wissenschaft/hunde-wie-ihnen-schlechte-erfahrungen-als-welpe-zu-schaffen-machen](https://www.spiegel.de/wissenschaft/hunde-wie-ihnen-schlechte-erfahrungen-als-welpe-zu-schaffen-machen-a-68b37b68-2382-4e6b-a54e-dda024d0a034#ref=rss)
+### später
 
-* [https://www.spiegel.de/panorama/justiz/florian-teichtmeister-wegen-kokain-fund-auf-dem-oktoberfest-festgenommen](https://www.spiegel.de/panorama/justiz/florian-teichtmeister-wegen-kokain-fund-auf-dem-oktoberfest-festgenommen-a-9428b423-b4f6-4d28-ae51-95ffe2f66407#ref=rss)
-### oktoberfest
+* [https://www.spiegel.de/wissenschaft/hunde-wie-ihnen-schlechte-erfahrungen-als-welpe-zu-schaffen-machen](https://www.spiegel.de/wissenschaft/hunde-wie-ihnen-schlechte-erfahrungen-als-welpe-zu-schaffen-machen-a-68b37b68-2382-4e6b-a54e-dda024d0a034#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-der-7-oktober-ein-tag-der-nicht-endet](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-der-7-oktober-ein-tag-der-nicht-endet-a-508cf16c-2b99-4abf-90c8-77a98e8d0092#ref=rss)
+### alle
 
-* [https://www.spiegel.de/panorama/justiz/florian-teichtmeister-wegen-kokain-fund-auf-dem-oktoberfest-festgenommen](https://www.spiegel.de/panorama/justiz/florian-teichtmeister-wegen-kokain-fund-auf-dem-oktoberfest-festgenommen-a-9428b423-b4f6-4d28-ae51-95ffe2f66407#ref=rss)
-### katherina
+* [https://www.spiegel.de/wissenschaft/hunde-wie-ihnen-schlechte-erfahrungen-als-welpe-zu-schaffen-machen](https://www.spiegel.de/wissenschaft/hunde-wie-ihnen-schlechte-erfahrungen-als-welpe-zu-schaffen-machen-a-68b37b68-2382-4e6b-a54e-dda024d0a034#ref=rss)
+* [https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit](https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit-a-fb6b2166-292d-42b3-bd6e-696246694ac8#ref=rss)
+### rücktritt
 
-* [https://www.spiegel.de/wirtschaft/wirtschaft-berater-von-katherina-reiche-fordern-deregulierung-und-hoeheres-renteneintrittsalter](https://www.spiegel.de/wirtschaft/wirtschaft-berater-von-katherina-reiche-fordern-deregulierung-und-hoeheres-renteneintrittsalter-a-b2a21b1d-b897-4d05-b4af-c2ced5c90a7f#ref=rss)
-### reiche
+* [https://www.spiegel.de/ausland/frankreich-die-pressestimmen-zum-ruecktritt-von-premierminister-sebastien-lecornu](https://www.spiegel.de/ausland/frankreich-die-pressestimmen-zum-ruecktritt-von-premierminister-sebastien-lecornu-a-3d9d9f13-bac2-40a8-b5af-8c190e23ed9e#ref=rss)
+### premier
 
-* [https://www.spiegel.de/wirtschaft/wirtschaft-berater-von-katherina-reiche-fordern-deregulierung-und-hoeheres-renteneintrittsalter](https://www.spiegel.de/wirtschaft/wirtschaft-berater-von-katherina-reiche-fordern-deregulierung-und-hoeheres-renteneintrittsalter-a-b2a21b1d-b897-4d05-b4af-c2ced5c90a7f#ref=rss)
-### warnen
+* [https://www.spiegel.de/ausland/frankreich-die-pressestimmen-zum-ruecktritt-von-premierminister-sebastien-lecornu](https://www.spiegel.de/ausland/frankreich-die-pressestimmen-zum-ruecktritt-von-premierminister-sebastien-lecornu-a-3d9d9f13-bac2-40a8-b5af-8c190e23ed9e#ref=rss)
+* [https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit](https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit-a-fb6b2166-292d-42b3-bd6e-696246694ac8#ref=rss)
+### krankenhaus
 
-* [https://www.spiegel.de/wirtschaft/wirtschaft-berater-von-katherina-reiche-fordern-deregulierung-und-hoeheres-renteneintrittsalter](https://www.spiegel.de/wirtschaft/wirtschaft-berater-von-katherina-reiche-fordern-deregulierung-und-hoeheres-renteneintrittsalter-a-b2a21b1d-b897-4d05-b4af-c2ced5c90a7f#ref=rss)
-* [https://www.spiegel.de/panorama/warnsignale-was-die-verschiedenen-sirenensignale-bedeuten](https://www.spiegel.de/panorama/warnsignale-was-die-verschiedenen-sirenensignale-bedeuten-a-87d36932-44d4-4aa0-95ab-95155533e4b5#ref=rss)
-### sirenen
+* [https://www.spiegel.de/panorama/kalifornien-rettungshubschrauber-stuerzt-auf-highway](https://www.spiegel.de/panorama/kalifornien-rettungshubschrauber-stuerzt-auf-highway-a-d289f4a4-af10-4ae2-95ef-d04256d0654e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/albanien-mann-erschiesst-richter-waehrend-gerichtsverhandlung](https://www.spiegel.de/panorama/justiz/albanien-mann-erschiesst-richter-waehrend-gerichtsverhandlung-a-7b68025a-bf36-4de6-bec3-1822df28edd9#ref=rss)
+### leroy
 
-* [https://www.spiegel.de/panorama/warnsignale-was-die-verschiedenen-sirenensignale-bedeuten](https://www.spiegel.de/panorama/warnsignale-was-die-verschiedenen-sirenensignale-bedeuten-a-87d36932-44d4-4aa0-95ab-95155533e4b5#ref=rss)
-### ayelet
+* [https://www.spiegel.de/sport/fussball/oktoberfest-leroy-sane-geraet-auf-der-wiesn-in-rangelei](https://www.spiegel.de/sport/fussball/oktoberfest-leroy-sane-geraet-auf-der-wiesn-in-rangelei-a-efe71c97-6d4d-4dec-beb1-808c4607b352#ref=rss)
+### franz
 
-* [https://www.spiegel.de/kultur/literatur/israel-ayelet-gundar-goshen-ueber-das-schreiben-nach-dem-7-oktober](https://www.spiegel.de/kultur/literatur/israel-ayelet-gundar-goshen-ueber-das-schreiben-nach-dem-7-oktober-a-2ccbf84a-82be-42a0-ad54-7746d00aaf1e#ref=rss)
-### gundargoshen
+* [https://www.spiegel.de/kultur/bild-kolumnist-franz-josef-wagner-im-alter-von-82-jahren-gestorben](https://www.spiegel.de/kultur/bild-kolumnist-franz-josef-wagner-im-alter-von-82-jahren-gestorben-a-d5a3ebbe-04ee-4cab-9009-33f47932138e#ref=rss)
+### josef
 
-* [https://www.spiegel.de/kultur/literatur/israel-ayelet-gundar-goshen-ueber-das-schreiben-nach-dem-7-oktober](https://www.spiegel.de/kultur/literatur/israel-ayelet-gundar-goshen-ueber-das-schreiben-nach-dem-7-oktober-a-2ccbf84a-82be-42a0-ad54-7746d00aaf1e#ref=rss)
-### schreiben
+* [https://www.spiegel.de/kultur/bild-kolumnist-franz-josef-wagner-im-alter-von-82-jahren-gestorben](https://www.spiegel.de/kultur/bild-kolumnist-franz-josef-wagner-im-alter-von-82-jahren-gestorben-a-d5a3ebbe-04ee-4cab-9009-33f47932138e#ref=rss)
+### alter
 
-* [https://www.spiegel.de/kultur/literatur/israel-ayelet-gundar-goshen-ueber-das-schreiben-nach-dem-7-oktober](https://www.spiegel.de/kultur/literatur/israel-ayelet-gundar-goshen-ueber-das-schreiben-nach-dem-7-oktober-a-2ccbf84a-82be-42a0-ad54-7746d00aaf1e#ref=rss)
+* [https://www.spiegel.de/kultur/bild-kolumnist-franz-josef-wagner-im-alter-von-82-jahren-gestorben](https://www.spiegel.de/kultur/bild-kolumnist-franz-josef-wagner-im-alter-von-82-jahren-gestorben-a-d5a3ebbe-04ee-4cab-9009-33f47932138e#ref=rss)
+### 82
+
+* [https://www.spiegel.de/kultur/bild-kolumnist-franz-josef-wagner-im-alter-von-82-jahren-gestorben](https://www.spiegel.de/kultur/bild-kolumnist-franz-josef-wagner-im-alter-von-82-jahren-gestorben-a-d5a3ebbe-04ee-4cab-9009-33f47932138e#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/bild-kolumnist-franz-josef-wagner-im-alter-von-82-jahren-gestorben](https://www.spiegel.de/kultur/bild-kolumnist-franz-josef-wagner-im-alter-von-82-jahren-gestorben-a-d5a3ebbe-04ee-4cab-9009-33f47932138e#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/albanien-mann-erschiesst-richter-waehrend-gerichtsverhandlung](https://www.spiegel.de/panorama/justiz/albanien-mann-erschiesst-richter-waehrend-gerichtsverhandlung-a-7b68025a-bf36-4de6-bec3-1822df28edd9#ref=rss)
+### richter
+
+* [https://www.spiegel.de/panorama/justiz/albanien-mann-erschiesst-richter-waehrend-gerichtsverhandlung](https://www.spiegel.de/panorama/justiz/albanien-mann-erschiesst-richter-waehrend-gerichtsverhandlung-a-7b68025a-bf36-4de6-bec3-1822df28edd9#ref=rss)
+### venezuela
+
+* [https://www.spiegel.de/ausland/venezuela-vereitelte-laut-nicolas-maduro-anschlag-auf-us-botschaft](https://www.spiegel.de/ausland/venezuela-vereitelte-laut-nicolas-maduro-anschlag-auf-us-botschaft-a-84588674-9bce-470e-b3e2-c7a62d708b5c#ref=rss)
+### anschlag
+
+* [https://www.spiegel.de/ausland/venezuela-vereitelte-laut-nicolas-maduro-anschlag-auf-us-botschaft](https://www.spiegel.de/ausland/venezuela-vereitelte-laut-nicolas-maduro-anschlag-auf-us-botschaft-a-84588674-9bce-470e-b3e2-c7a62d708b5c#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/ausland/venezuela-vereitelte-laut-nicolas-maduro-anschlag-auf-us-botschaft](https://www.spiegel.de/ausland/venezuela-vereitelte-laut-nicolas-maduro-anschlag-auf-us-botschaft-a-84588674-9bce-470e-b3e2-c7a62d708b5c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/noah-atubolu-vom-sc-freiburg-mittagsschlaf-fuehrt-zu-verpasstem-dfb-anruf](https://www.spiegel.de/sport/fussball/noah-atubolu-vom-sc-freiburg-mittagsschlaf-fuehrt-zu-verpasstem-dfb-anruf-a-fa6d4115-9560-4993-b2ce-de78c6890127#ref=rss)
+### 7x
+
+* [https://www.spiegel.de/auto/fahrberichte/zeekr-7x-im-test-der-sehrschnelllader](https://www.spiegel.de/auto/fahrberichte/zeekr-7x-im-test-der-sehrschnelllader-a-e73eaf1f-f5ea-4257-9b3e-6b2ac7f00d58#ref=rss)
+### hamasüberfall
+
+* [https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-der-7-oktober-ein-tag-der-nicht-endet](https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-der-7-oktober-ein-tag-der-nicht-endet-a-508cf16c-2b99-4abf-90c8-77a98e8d0092#ref=rss)
+### eva
+
+* [https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit](https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit-a-fb6b2166-292d-42b3-bd6e-696246694ac8#ref=rss)
+### illouz
+
+* [https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit](https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit-a-fb6b2166-292d-42b3-bd6e-696246694ac8#ref=rss)
+### terror
+
+* [https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit](https://www.spiegel.de/ausland/eva-illouz-krieg-laesst-alle-verrohen-das-ist-keine-israelische-besonderheit-a-fb6b2166-292d-42b3-bd6e-696246694ac8#ref=rss)
+* [https://www.spiegel.de/ausland/israel-wie-kinder-und-jugendliche-das-trauma-des-7-oktober-durchleben](https://www.spiegel.de/ausland/israel-wie-kinder-und-jugendliche-das-trauma-des-7-oktober-durchleben-a-af936e63-a95d-499b-97cc-d28f01002aa2#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/work-and-stay-agentur-baerbel-bas-will-anwerbung-auslaendischer-fachkraefte-erleichtern](https://www.spiegel.de/wirtschaft/unternehmen/work-and-stay-agentur-baerbel-bas-will-anwerbung-auslaendischer-fachkraefte-erleichtern-a-741b63c2-37d6-41cb-ad7f-d25239669b0b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gedenken-an-7-oktober-2023-schweigeminute-am-ort-des-massakers](https://www.spiegel.de/ausland/israel-gedenken-an-7-oktober-2023-schweigeminute-am-ort-des-massakers-a-e665e127-299f-434d-ab19-8aff6bb94625#ref=rss)
+### gedenken
+
+* [https://www.spiegel.de/ausland/israel-gedenken-an-7-oktober-2023-schweigeminute-am-ort-des-massakers](https://www.spiegel.de/ausland/israel-gedenken-an-7-oktober-2023-schweigeminute-am-ort-des-massakers-a-e665e127-299f-434d-ab19-8aff6bb94625#ref=rss)
+### ort
+
+* [https://www.spiegel.de/ausland/israel-gedenken-an-7-oktober-2023-schweigeminute-am-ort-des-massakers](https://www.spiegel.de/ausland/israel-gedenken-an-7-oktober-2023-schweigeminute-am-ort-des-massakers-a-e665e127-299f-434d-ab19-8aff6bb94625#ref=rss)
+### noah
+
+* [https://www.spiegel.de/sport/fussball/noah-atubolu-vom-sc-freiburg-mittagsschlaf-fuehrt-zu-verpasstem-dfb-anruf](https://www.spiegel.de/sport/fussball/noah-atubolu-vom-sc-freiburg-mittagsschlaf-fuehrt-zu-verpasstem-dfb-anruf-a-fa6d4115-9560-4993-b2ce-de78c6890127#ref=rss)
+### atubolu
+
+* [https://www.spiegel.de/sport/fussball/noah-atubolu-vom-sc-freiburg-mittagsschlaf-fuehrt-zu-verpasstem-dfb-anruf](https://www.spiegel.de/sport/fussball/noah-atubolu-vom-sc-freiburg-mittagsschlaf-fuehrt-zu-verpasstem-dfb-anruf-a-fa6d4115-9560-4993-b2ce-de78c6890127#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-128-000-menschen-unterschreiben-fuer-comeback-der-familienreservierung](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-128-000-menschen-unterschreiben-fuer-comeback-der-familienreservierung-a-2aa95a13-8f0d-40a4-bddb-69da47c7cdd7#ref=rss)
+### familienreservierung
+
+* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-128-000-menschen-unterschreiben-fuer-comeback-der-familienreservierung](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-128-000-menschen-unterschreiben-fuer-comeback-der-familienreservierung-a-2aa95a13-8f0d-40a4-bddb-69da47c7cdd7#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/ausland/israel-wie-kinder-und-jugendliche-das-trauma-des-7-oktober-durchleben](https://www.spiegel.de/ausland/israel-wie-kinder-und-jugendliche-das-trauma-des-7-oktober-durchleben-a-af936e63-a95d-499b-97cc-d28f01002aa2#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-ard-und-zdf-zeigen-nach-deal-mit-telekom-offenbar-mehr-als-die-haelfte-der-spiele](https://www.spiegel.de/sport/fussball/wm-2026-ard-und-zdf-zeigen-nach-deal-mit-telekom-offenbar-mehr-als-die-haelfte-der-spiele-a-c3c35618-9128-4b0d-882d-db4a56edb0f8#ref=rss)
+### telekom
+
+* [https://www.spiegel.de/sport/fussball/wm-2026-ard-und-zdf-zeigen-nach-deal-mit-telekom-offenbar-mehr-als-die-haelfte-der-spiele](https://www.spiegel.de/sport/fussball/wm-2026-ard-und-zdf-zeigen-nach-deal-mit-telekom-offenbar-mehr-als-die-haelfte-der-spiele-a-c3c35618-9128-4b0d-882d-db4a56edb0f8#ref=rss)
 
