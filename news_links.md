@@ -4,382 +4,333 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/urteil-bundesregierung-muss-mehr-gegen-nitrat-im-grundwasser-tun](https://www.spiegel.de/politik/deutschland/urteil-bundesregierung-muss-mehr-gegen-nitrat-im-grundwasser-tun-a-da842392-963b-4003-a236-1e61c64bda87#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/hebel-etfs-doppelt-so-viel-gewinn-wie-der-msci-world-was-die-neuen-produkte-bringen](https://www.spiegel.de/wirtschaft/service/hebel-etfs-doppelt-so-viel-gewinn-wie-der-msci-world-was-die-neuen-produkte-bringen-a-be2c0e7d-e952-4330-8afb-58cae8b09786#ref=rss)
-* [https://www.spiegel.de/ausland/litauen-reduziert-schutz-von-swetlana-tichanowskaja](https://www.spiegel.de/ausland/litauen-reduziert-schutz-von-swetlana-tichanowskaja-a-891e6741-273e-42a2-b64b-8818f7255fa0#ref=rss)
-* [https://www.spiegel.de/auto/tesla-bietet-guenstigere-versionen-fuer-wichtigste-modelle-3-und-y-an](https://www.spiegel.de/auto/tesla-bietet-guenstigere-versionen-fuer-wichtigste-modelle-3-und-y-an-a-2e11c277-17e5-4120-ae12-273d22706214#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/keule-aus-dem-ersten-weltkrieg-warum-soldaten-im-schuetzengraben-knueppel-fertigten](https://www.spiegel.de/wissenschaft/mensch/keule-aus-dem-ersten-weltkrieg-warum-soldaten-im-schuetzengraben-knueppel-fertigten-a-55425b61-15ad-4caf-bf9f-a55a040afe51#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hundesteuer-bringt-2024-rekordeinnahmen](https://www.spiegel.de/wirtschaft/hundesteuer-bringt-2024-rekordeinnahmen-a-20802236-17dd-4ea6-b3f6-01fcdfa67d22#ref=rss)
-### neue
-
-* [https://www.spiegel.de/auto/tesla-bietet-guenstigere-versionen-fuer-wichtigste-modelle-3-und-y-an](https://www.spiegel.de/auto/tesla-bietet-guenstigere-versionen-fuer-wichtigste-modelle-3-und-y-an-a-2e11c277-17e5-4120-ae12-273d22706214#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme](https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme-a-8717d717-49e7-4295-83fb-e4909299297c#ref=rss)
-* [https://www.spiegel.de/karriere/probezeit-wenn-der-job-enttaeuscht-etwas-sagen-oder-kuendigen](https://www.spiegel.de/karriere/probezeit-wenn-der-job-enttaeuscht-etwas-sagen-oder-kuendigen-a-1529d701-8d69-46e0-a6f8-898d526a9fcc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-industrieproduktion-sinkt-deutlich-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-industrieproduktion-sinkt-deutlich-staerker-als-erwartet-a-e81716dd-f7a2-4b8a-a6fb-13bbaf088061#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/daniel-noboa-angriff-auf-autokolonne-von-praesident-ecuadors](https://www.spiegel.de/ausland/daniel-noboa-angriff-auf-autokolonne-von-praesident-ecuadors-a-a380b126-5375-4668-b2e4-f16297c40ca2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme](https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme-a-8717d717-49e7-4295-83fb-e4909299297c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/herzogenrath-nach-messerattacke-in-regionalzug-kommt-angreifer-in-psychiatrie](https://www.spiegel.de/panorama/justiz/herzogenrath-nach-messerattacke-in-regionalzug-kommt-angreifer-in-psychiatrie-a-06f34914-1c84-4988-ac46-c9a7e9f218a9#ref=rss)
-* [https://www.spiegel.de/panorama/myanmar-junta-bombardiert-mahnwache-mindestens-24-tote](https://www.spiegel.de/panorama/myanmar-junta-bombardiert-mahnwache-mindestens-24-tote-a-0f5141a5-8160-4bad-b9bd-77d0e7918fad#ref=rss)
-### ozzy
-
-* [https://www.spiegel.de/kultur/musik/ozzy-no-escape-from-now-ueber-ozzy-osbourne-tragoedie-und-triumph-eines-seltsamen-vogels](https://www.spiegel.de/kultur/musik/ozzy-no-escape-from-now-ueber-ozzy-osbourne-tragoedie-und-triumph-eines-seltsamen-vogels-a-6c330359-b1e8-4678-bb8c-fdebb4ccbe09#ref=rss)
-### ärger
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-landtagsabgeordnete-sorgen-mit-besuch-bei-putin-ehrung-fuer-aerger](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-landtagsabgeordnete-sorgen-mit-besuch-bei-putin-ehrung-fuer-aerger-a-24930379-989f-41df-991a-1611b6ab6bef#ref=rss)
-* [https://www.spiegel.de/panorama/lotto-millionaer-chico-ferrari-beschossen-in-dortmund](https://www.spiegel.de/panorama/lotto-millionaer-chico-ferrari-beschossen-in-dortmund-a-56bf7bb1-d602-468b-ab16-08c4012d1186#ref=rss)
-* [https://www.spiegel.de/karriere/probezeit-wenn-der-job-enttaeuscht-etwas-sagen-oder-kuendigen](https://www.spiegel.de/karriere/probezeit-wenn-der-job-enttaeuscht-etwas-sagen-oder-kuendigen-a-1529d701-8d69-46e0-a6f8-898d526a9fcc#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/deutschland/urteil-bundesregierung-muss-mehr-gegen-nitrat-im-grundwasser-tun](https://www.spiegel.de/politik/deutschland/urteil-bundesregierung-muss-mehr-gegen-nitrat-im-grundwasser-tun-a-da842392-963b-4003-a236-1e61c64bda87#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme](https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme-a-8717d717-49e7-4295-83fb-e4909299297c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-industrieproduktion-sinkt-deutlich-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-industrieproduktion-sinkt-deutlich-staerker-als-erwartet-a-e81716dd-f7a2-4b8a-a6fb-13bbaf088061#ref=rss)
-### post
-
-* [https://www.spiegel.de/netzwelt/maengelmelder-post-netzagentur-launcht-beschwerdestelle-fuer-postkunden](https://www.spiegel.de/netzwelt/maengelmelder-post-netzagentur-launcht-beschwerdestelle-fuer-postkunden-a-a5d3077e-b055-43cb-a5ae-428a6e65945b#ref=rss)
-* [https://www.spiegel.de/kultur/musik/dolly-parton-ihre-schwester-hat-die-ganze-nacht-fuer-sie-gebetet-will-aber-niemanden-veraengstigen](https://www.spiegel.de/kultur/musik/dolly-parton-ihre-schwester-hat-die-ganze-nacht-fuer-sie-gebetet-will-aber-niemanden-veraengstigen-a-f4d46a3b-ad82-4819-9426-024766c7b336#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/lotto-millionaer-chico-ferrari-beschossen-in-dortmund](https://www.spiegel.de/panorama/lotto-millionaer-chico-ferrari-beschossen-in-dortmund-a-56bf7bb1-d602-468b-ab16-08c4012d1186#ref=rss)
-* [https://www.spiegel.de/panorama/myanmar-junta-bombardiert-mahnwache-mindestens-24-tote](https://www.spiegel.de/panorama/myanmar-junta-bombardiert-mahnwache-mindestens-24-tote-a-0f5141a5-8160-4bad-b9bd-77d0e7918fad#ref=rss)
-* [https://www.spiegel.de/panorama/eurojackpot-gewinner-von-120-millionen-euro-meldet-sich-nach-zwei-wochen](https://www.spiegel.de/panorama/eurojackpot-gewinner-von-120-millionen-euro-meldet-sich-nach-zwei-wochen-a-e058ead2-6d97-4e0d-9f0a-3ec7f3cc0fb4#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wirtschaft/service/hebel-etfs-doppelt-so-viel-gewinn-wie-der-msci-world-was-die-neuen-produkte-bringen](https://www.spiegel.de/wirtschaft/service/hebel-etfs-doppelt-so-viel-gewinn-wie-der-msci-world-was-die-neuen-produkte-bringen-a-be2c0e7d-e952-4330-8afb-58cae8b09786#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-das-sind-die-20-nominierten-titel](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-das-sind-die-20-nominierten-titel-a-9ad12d8c-9c7e-49db-a620-67437f47be5b#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/daniel-noboa-angriff-auf-autokolonne-von-praesident-ecuadors](https://www.spiegel.de/ausland/daniel-noboa-angriff-auf-autokolonne-von-praesident-ecuadors-a-a380b126-5375-4668-b2e4-f16297c40ca2#ref=rss)
-* [https://www.spiegel.de/sport/conor-mcgregor-18-monate-sperre-fuer-kampfsport-star-nach-anti-doping-verstoessen](https://www.spiegel.de/sport/conor-mcgregor-18-monate-sperre-fuer-kampfsport-star-nach-anti-doping-verstoessen-a-71b206db-6b5e-4694-aabe-9c53b1ede216#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/myanmar-junta-bombardiert-mahnwache-mindestens-24-tote](https://www.spiegel.de/panorama/myanmar-junta-bombardiert-mahnwache-mindestens-24-tote-a-0f5141a5-8160-4bad-b9bd-77d0e7918fad#ref=rss)
-* [https://www.spiegel.de/panorama/eurojackpot-gewinner-von-120-millionen-euro-meldet-sich-nach-zwei-wochen](https://www.spiegel.de/panorama/eurojackpot-gewinner-von-120-millionen-euro-meldet-sich-nach-zwei-wochen-a-e058ead2-6d97-4e0d-9f0a-3ec7f3cc0fb4#ref=rss)
-### eigene
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-landtagsabgeordnete-sorgen-mit-besuch-bei-putin-ehrung-fuer-aerger](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-landtagsabgeordnete-sorgen-mit-besuch-bei-putin-ehrung-fuer-aerger-a-24930379-989f-41df-991a-1611b6ab6bef#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-das-sind-die-20-nominierten-titel](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-das-sind-die-20-nominierten-titel-a-9ad12d8c-9c7e-49db-a620-67437f47be5b#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-landtagsabgeordnete-sorgen-mit-besuch-bei-putin-ehrung-fuer-aerger](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-landtagsabgeordnete-sorgen-mit-besuch-bei-putin-ehrung-fuer-aerger-a-24930379-989f-41df-991a-1611b6ab6bef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hans-georg-maassen-verliert-machtkampf-gegen-ex-afd-chef-joerg-meuthen](https://www.spiegel.de/politik/deutschland/hans-georg-maassen-verliert-machtkampf-gegen-ex-afd-chef-joerg-meuthen-a-548856e5-6075-43e4-9dd1-0f32422ce687#ref=rss)
-### problem
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-landtagsabgeordnete-sorgen-mit-besuch-bei-putin-ehrung-fuer-aerger](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-landtagsabgeordnete-sorgen-mit-besuch-bei-putin-ehrung-fuer-aerger-a-24930379-989f-41df-991a-1611b6ab6bef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme](https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme-a-8717d717-49e7-4295-83fb-e4909299297c#ref=rss)
-### grundwasser
-
-* [https://www.spiegel.de/politik/deutschland/urteil-bundesregierung-muss-mehr-gegen-nitrat-im-grundwasser-tun](https://www.spiegel.de/politik/deutschland/urteil-bundesregierung-muss-mehr-gegen-nitrat-im-grundwasser-tun-a-da842392-963b-4003-a236-1e61c64bda87#ref=rss)
-### bund
-
-* [https://www.spiegel.de/politik/deutschland/urteil-bundesregierung-muss-mehr-gegen-nitrat-im-grundwasser-tun](https://www.spiegel.de/politik/deutschland/urteil-bundesregierung-muss-mehr-gegen-nitrat-im-grundwasser-tun-a-da842392-963b-4003-a236-1e61c64bda87#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/finanzminister-lars-klingbeil-kuendigt-marathon-der-reformen-an](https://www.spiegel.de/politik/deutschland/finanzminister-lars-klingbeil-kuendigt-marathon-der-reformen-an-a-9e0d22c5-5f22-40bc-8b09-e8168e2214ac#ref=rss)
-### bekommen
-
-* [https://www.spiegel.de/politik/deutschland/urteil-bundesregierung-muss-mehr-gegen-nitrat-im-grundwasser-tun](https://www.spiegel.de/politik/deutschland/urteil-bundesregierung-muss-mehr-gegen-nitrat-im-grundwasser-tun-a-da842392-963b-4003-a236-1e61c64bda87#ref=rss)
-* [https://www.spiegel.de/sport/radsport/kristina-vogel-sieben-jahre-nach-ihrem-schweren-trainingsunfall-koennte-sie-wm-silber-bekommen](https://www.spiegel.de/sport/radsport/kristina-vogel-sieben-jahre-nach-ihrem-schweren-trainingsunfall-koennte-sie-wm-silber-bekommen-a-a3728cc4-1ac7-49f9-bf43-9041a3a5a8fa#ref=rss)
-### mängelmelder
-
-* [https://www.spiegel.de/netzwelt/maengelmelder-post-netzagentur-launcht-beschwerdestelle-fuer-postkunden](https://www.spiegel.de/netzwelt/maengelmelder-post-netzagentur-launcht-beschwerdestelle-fuer-postkunden-a-a5d3077e-b055-43cb-a5ae-428a6e65945b#ref=rss)
-### netzagentur
-
-* [https://www.spiegel.de/netzwelt/maengelmelder-post-netzagentur-launcht-beschwerdestelle-fuer-postkunden](https://www.spiegel.de/netzwelt/maengelmelder-post-netzagentur-launcht-beschwerdestelle-fuer-postkunden-a-a5d3077e-b055-43cb-a5ae-428a6e65945b#ref=rss)
-### launcht
-
-* [https://www.spiegel.de/netzwelt/maengelmelder-post-netzagentur-launcht-beschwerdestelle-fuer-postkunden](https://www.spiegel.de/netzwelt/maengelmelder-post-netzagentur-launcht-beschwerdestelle-fuer-postkunden-a-a5d3077e-b055-43cb-a5ae-428a6e65945b#ref=rss)
-### postkunden
-
-* [https://www.spiegel.de/netzwelt/maengelmelder-post-netzagentur-launcht-beschwerdestelle-fuer-postkunden](https://www.spiegel.de/netzwelt/maengelmelder-post-netzagentur-launcht-beschwerdestelle-fuer-postkunden-a-a5d3077e-b055-43cb-a5ae-428a6e65945b#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/netzwelt/maengelmelder-post-netzagentur-launcht-beschwerdestelle-fuer-postkunden](https://www.spiegel.de/netzwelt/maengelmelder-post-netzagentur-launcht-beschwerdestelle-fuer-postkunden-a-a5d3077e-b055-43cb-a5ae-428a6e65945b#ref=rss)
-* [https://www.spiegel.de/ausland/litauen-reduziert-schutz-von-swetlana-tichanowskaja](https://www.spiegel.de/ausland/litauen-reduziert-schutz-von-swetlana-tichanowskaja-a-891e6741-273e-42a2-b64b-8818f7255fa0#ref=rss)
-### chico
-
-* [https://www.spiegel.de/panorama/lotto-millionaer-chico-ferrari-beschossen-in-dortmund](https://www.spiegel.de/panorama/lotto-millionaer-chico-ferrari-beschossen-in-dortmund-a-56bf7bb1-d602-468b-ab16-08c4012d1186#ref=rss)
-### ferrari
-
-* [https://www.spiegel.de/panorama/lotto-millionaer-chico-ferrari-beschossen-in-dortmund](https://www.spiegel.de/panorama/lotto-millionaer-chico-ferrari-beschossen-in-dortmund-a-56bf7bb1-d602-468b-ab16-08c4012d1186#ref=rss)
-### beschossen
-
-* [https://www.spiegel.de/panorama/lotto-millionaer-chico-ferrari-beschossen-in-dortmund](https://www.spiegel.de/panorama/lotto-millionaer-chico-ferrari-beschossen-in-dortmund-a-56bf7bb1-d602-468b-ab16-08c4012d1186#ref=rss)
-### dortmund
-
-* [https://www.spiegel.de/panorama/lotto-millionaer-chico-ferrari-beschossen-in-dortmund](https://www.spiegel.de/panorama/lotto-millionaer-chico-ferrari-beschossen-in-dortmund-a-56bf7bb1-d602-468b-ab16-08c4012d1186#ref=rss)
-### nacht
-
-* [https://www.spiegel.de/panorama/lotto-millionaer-chico-ferrari-beschossen-in-dortmund](https://www.spiegel.de/panorama/lotto-millionaer-chico-ferrari-beschossen-in-dortmund-a-56bf7bb1-d602-468b-ab16-08c4012d1186#ref=rss)
-* [https://www.spiegel.de/kultur/musik/dolly-parton-ihre-schwester-hat-die-ganze-nacht-fuer-sie-gebetet-will-aber-niemanden-veraengstigen](https://www.spiegel.de/kultur/musik/dolly-parton-ihre-schwester-hat-die-ganze-nacht-fuer-sie-gebetet-will-aber-niemanden-veraengstigen-a-f4d46a3b-ad82-4819-9426-024766c7b336#ref=rss)
-### feindliche
-
-* [https://www.spiegel.de/politik/feindliche-drohnen-abschiessen-schlicht-die-hauptaufgabe-der-bundeswehr](https://www.spiegel.de/politik/feindliche-drohnen-abschiessen-schlicht-die-hauptaufgabe-der-bundeswehr-a-7a28472b-e776-4782-9e09-a5bbc1d243a2#ref=rss)
-### drohnen
-
-* [https://www.spiegel.de/politik/feindliche-drohnen-abschiessen-schlicht-die-hauptaufgabe-der-bundeswehr](https://www.spiegel.de/politik/feindliche-drohnen-abschiessen-schlicht-die-hauptaufgabe-der-bundeswehr-a-7a28472b-e776-4782-9e09-a5bbc1d243a2#ref=rss)
-### abschießen
-
-* [https://www.spiegel.de/politik/feindliche-drohnen-abschiessen-schlicht-die-hauptaufgabe-der-bundeswehr](https://www.spiegel.de/politik/feindliche-drohnen-abschiessen-schlicht-die-hauptaufgabe-der-bundeswehr-a-7a28472b-e776-4782-9e09-a5bbc1d243a2#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/feindliche-drohnen-abschiessen-schlicht-die-hauptaufgabe-der-bundeswehr](https://www.spiegel.de/politik/feindliche-drohnen-abschiessen-schlicht-die-hauptaufgabe-der-bundeswehr-a-7a28472b-e776-4782-9e09-a5bbc1d243a2#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/politik/feindliche-drohnen-abschiessen-schlicht-die-hauptaufgabe-der-bundeswehr](https://www.spiegel.de/politik/feindliche-drohnen-abschiessen-schlicht-die-hauptaufgabe-der-bundeswehr-a-7a28472b-e776-4782-9e09-a5bbc1d243a2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/das-sagt-innenminister-dobrindt-zur-drohnen-abwehr](https://www.spiegel.de/politik/deutschland/das-sagt-innenminister-dobrindt-zur-drohnen-abwehr-a-f2102a2b-111f-4884-8d6e-bdd38b485244#ref=rss)
-### doppelt
-
-* [https://www.spiegel.de/wirtschaft/service/hebel-etfs-doppelt-so-viel-gewinn-wie-der-msci-world-was-die-neuen-produkte-bringen](https://www.spiegel.de/wirtschaft/service/hebel-etfs-doppelt-so-viel-gewinn-wie-der-msci-world-was-die-neuen-produkte-bringen-a-be2c0e7d-e952-4330-8afb-58cae8b09786#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme](https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme-a-8717d717-49e7-4295-83fb-e4909299297c#ref=rss)
-### msci
-
-* [https://www.spiegel.de/wirtschaft/service/hebel-etfs-doppelt-so-viel-gewinn-wie-der-msci-world-was-die-neuen-produkte-bringen](https://www.spiegel.de/wirtschaft/service/hebel-etfs-doppelt-so-viel-gewinn-wie-der-msci-world-was-die-neuen-produkte-bringen-a-be2c0e7d-e952-4330-8afb-58cae8b09786#ref=rss)
-### world
-
-* [https://www.spiegel.de/wirtschaft/service/hebel-etfs-doppelt-so-viel-gewinn-wie-der-msci-world-was-die-neuen-produkte-bringen](https://www.spiegel.de/wirtschaft/service/hebel-etfs-doppelt-so-viel-gewinn-wie-der-msci-world-was-die-neuen-produkte-bringen-a-be2c0e7d-e952-4330-8afb-58cae8b09786#ref=rss)
-### bringen
-
-* [https://www.spiegel.de/wirtschaft/service/hebel-etfs-doppelt-so-viel-gewinn-wie-der-msci-world-was-die-neuen-produkte-bringen](https://www.spiegel.de/wirtschaft/service/hebel-etfs-doppelt-so-viel-gewinn-wie-der-msci-world-was-die-neuen-produkte-bringen-a-be2c0e7d-e952-4330-8afb-58cae8b09786#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/jobturbo-wissenschaftler-ueber-ihre-studie-noch-nie-haben-wir-derartig-grosse-effekte-gesehen](https://www.spiegel.de/wirtschaft/soziales/jobturbo-wissenschaftler-ueber-ihre-studie-noch-nie-haben-wir-derartig-grosse-effekte-gesehen-a-4857893d-931c-48f5-a258-76b2242938e7#ref=rss)
-### zuletzt
-
-* [https://www.spiegel.de/wirtschaft/service/hebel-etfs-doppelt-so-viel-gewinn-wie-der-msci-world-was-die-neuen-produkte-bringen](https://www.spiegel.de/wirtschaft/service/hebel-etfs-doppelt-so-viel-gewinn-wie-der-msci-world-was-die-neuen-produkte-bringen-a-be2c0e7d-e952-4330-8afb-58cae8b09786#ref=rss)
-* [https://www.spiegel.de/sport/conor-mcgregor-18-monate-sperre-fuer-kampfsport-star-nach-anti-doping-verstoessen](https://www.spiegel.de/sport/conor-mcgregor-18-monate-sperre-fuer-kampfsport-star-nach-anti-doping-verstoessen-a-71b206db-6b5e-4694-aabe-9c53b1ede216#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-das-sind-die-20-nominierten-titel](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-das-sind-die-20-nominierten-titel-a-9ad12d8c-9c7e-49db-a620-67437f47be5b#ref=rss)
-### 20
-
-* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-das-sind-die-20-nominierten-titel](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-das-sind-die-20-nominierten-titel-a-9ad12d8c-9c7e-49db-a620-67437f47be5b#ref=rss)
-### öffnen
-
-* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-das-sind-die-20-nominierten-titel](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-das-sind-die-20-nominierten-titel-a-9ad12d8c-9c7e-49db-a620-67437f47be5b#ref=rss)
-* [https://www.spiegel.de/gesundheit/gegen-grippe-und-corona-impfen-bis-spaetabends](https://www.spiegel.de/gesundheit/gegen-grippe-und-corona-impfen-bis-spaetabends-a-b42f4a29-b1c1-4915-9343-e048dac1af7c#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-das-sind-die-20-nominierten-titel](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-das-sind-die-20-nominierten-titel-a-9ad12d8c-9c7e-49db-a620-67437f47be5b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/jobturbo-wissenschaftler-ueber-ihre-studie-noch-nie-haben-wir-derartig-grosse-effekte-gesehen](https://www.spiegel.de/wirtschaft/soziales/jobturbo-wissenschaftler-ueber-ihre-studie-noch-nie-haben-wir-derartig-grosse-effekte-gesehen-a-4857893d-931c-48f5-a258-76b2242938e7#ref=rss)
-### präsentiert
-
-* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-das-sind-die-20-nominierten-titel](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-das-sind-die-20-nominierten-titel-a-9ad12d8c-9c7e-49db-a620-67437f47be5b#ref=rss)
-* [https://www.spiegel.de/auto/tesla-bietet-guenstigere-versionen-fuer-wichtigste-modelle-3-und-y-an](https://www.spiegel.de/auto/tesla-bietet-guenstigere-versionen-fuer-wichtigste-modelle-3-und-y-an-a-2e11c277-17e5-4120-ae12-273d22706214#ref=rss)
-### ausgezeichnet
-
-* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-das-sind-die-20-nominierten-titel](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-das-sind-die-20-nominierten-titel-a-9ad12d8c-9c7e-49db-a620-67437f47be5b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nobelpreis-fuer-chemie-geht-an-materialforscher-susumu-kitagawa-richard-robson-und-omar-yaghi](https://www.spiegel.de/wissenschaft/nobelpreis-fuer-chemie-geht-an-materialforscher-susumu-kitagawa-richard-robson-und-omar-yaghi-a-9ad87ca3-042e-43dc-9e30-3fe9a2160004#ref=rss)
-### grippe
-
-* [https://www.spiegel.de/gesundheit/gegen-grippe-und-corona-impfen-bis-spaetabends](https://www.spiegel.de/gesundheit/gegen-grippe-und-corona-impfen-bis-spaetabends-a-b42f4a29-b1c1-4915-9343-e048dac1af7c#ref=rss)
-### viele
-
-* [https://www.spiegel.de/gesundheit/gegen-grippe-und-corona-impfen-bis-spaetabends](https://www.spiegel.de/gesundheit/gegen-grippe-und-corona-impfen-bis-spaetabends-a-b42f4a29-b1c1-4915-9343-e048dac1af7c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme](https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme-a-8717d717-49e7-4295-83fb-e4909299297c#ref=rss)
-### susumu
-
-* [https://www.spiegel.de/wissenschaft/nobelpreis-fuer-chemie-geht-an-materialforscher-susumu-kitagawa-richard-robson-und-omar-yaghi](https://www.spiegel.de/wissenschaft/nobelpreis-fuer-chemie-geht-an-materialforscher-susumu-kitagawa-richard-robson-und-omar-yaghi-a-9ad87ca3-042e-43dc-9e30-3fe9a2160004#ref=rss)
-### kitagawa
-
-* [https://www.spiegel.de/wissenschaft/nobelpreis-fuer-chemie-geht-an-materialforscher-susumu-kitagawa-richard-robson-und-omar-yaghi](https://www.spiegel.de/wissenschaft/nobelpreis-fuer-chemie-geht-an-materialforscher-susumu-kitagawa-richard-robson-und-omar-yaghi-a-9ad87ca3-042e-43dc-9e30-3fe9a2160004#ref=rss)
-### richard
-
-* [https://www.spiegel.de/wissenschaft/nobelpreis-fuer-chemie-geht-an-materialforscher-susumu-kitagawa-richard-robson-und-omar-yaghi](https://www.spiegel.de/wissenschaft/nobelpreis-fuer-chemie-geht-an-materialforscher-susumu-kitagawa-richard-robson-und-omar-yaghi-a-9ad87ca3-042e-43dc-9e30-3fe9a2160004#ref=rss)
-### robson
-
-* [https://www.spiegel.de/wissenschaft/nobelpreis-fuer-chemie-geht-an-materialforscher-susumu-kitagawa-richard-robson-und-omar-yaghi](https://www.spiegel.de/wissenschaft/nobelpreis-fuer-chemie-geht-an-materialforscher-susumu-kitagawa-richard-robson-und-omar-yaghi-a-9ad87ca3-042e-43dc-9e30-3fe9a2160004#ref=rss)
-### omar
-
-* [https://www.spiegel.de/wissenschaft/nobelpreis-fuer-chemie-geht-an-materialforscher-susumu-kitagawa-richard-robson-und-omar-yaghi](https://www.spiegel.de/wissenschaft/nobelpreis-fuer-chemie-geht-an-materialforscher-susumu-kitagawa-richard-robson-und-omar-yaghi-a-9ad87ca3-042e-43dc-9e30-3fe9a2160004#ref=rss)
-### yaghi
-
-* [https://www.spiegel.de/wissenschaft/nobelpreis-fuer-chemie-geht-an-materialforscher-susumu-kitagawa-richard-robson-und-omar-yaghi](https://www.spiegel.de/wissenschaft/nobelpreis-fuer-chemie-geht-an-materialforscher-susumu-kitagawa-richard-robson-und-omar-yaghi-a-9ad87ca3-042e-43dc-9e30-3fe9a2160004#ref=rss)
-### schutz
-
-* [https://www.spiegel.de/ausland/litauen-reduziert-schutz-von-swetlana-tichanowskaja](https://www.spiegel.de/ausland/litauen-reduziert-schutz-von-swetlana-tichanowskaja-a-891e6741-273e-42a2-b64b-8818f7255fa0#ref=rss)
-### tichanowskaja
-
-* [https://www.spiegel.de/ausland/litauen-reduziert-schutz-von-swetlana-tichanowskaja](https://www.spiegel.de/ausland/litauen-reduziert-schutz-von-swetlana-tichanowskaja-a-891e6741-273e-42a2-b64b-8818f7255fa0#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/litauen-reduziert-schutz-von-swetlana-tichanowskaja](https://www.spiegel.de/ausland/litauen-reduziert-schutz-von-swetlana-tichanowskaja-a-891e6741-273e-42a2-b64b-8818f7255fa0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/jobturbo-wissenschaftler-ueber-ihre-studie-noch-nie-haben-wir-derartig-grosse-effekte-gesehen](https://www.spiegel.de/wirtschaft/soziales/jobturbo-wissenschaftler-ueber-ihre-studie-noch-nie-haben-wir-derartig-grosse-effekte-gesehen-a-4857893d-931c-48f5-a258-76b2242938e7#ref=rss)
-### sondern
-
-* [https://www.spiegel.de/ausland/litauen-reduziert-schutz-von-swetlana-tichanowskaja](https://www.spiegel.de/ausland/litauen-reduziert-schutz-von-swetlana-tichanowskaja-a-891e6741-273e-42a2-b64b-8818f7255fa0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/merz-bei-miosga-der-kanzler-missbraucht-seinen-kinderreichtum-fuer-seitenhiebe-gegen-merkel](https://www.spiegel.de/politik/deutschland/merz-bei-miosga-der-kanzler-missbraucht-seinen-kinderreichtum-fuer-seitenhiebe-gegen-merkel-a-a0df4949-c1df-470f-8442-904cc15b8db7#ref=rss)
-### kristina
-
-* [https://www.spiegel.de/sport/radsport/kristina-vogel-sieben-jahre-nach-ihrem-schweren-trainingsunfall-koennte-sie-wm-silber-bekommen](https://www.spiegel.de/sport/radsport/kristina-vogel-sieben-jahre-nach-ihrem-schweren-trainingsunfall-koennte-sie-wm-silber-bekommen-a-a3728cc4-1ac7-49f9-bf43-9041a3a5a8fa#ref=rss)
-### vogel
-
-* [https://www.spiegel.de/sport/radsport/kristina-vogel-sieben-jahre-nach-ihrem-schweren-trainingsunfall-koennte-sie-wm-silber-bekommen](https://www.spiegel.de/sport/radsport/kristina-vogel-sieben-jahre-nach-ihrem-schweren-trainingsunfall-koennte-sie-wm-silber-bekommen-a-a3728cc4-1ac7-49f9-bf43-9041a3a5a8fa#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/auto/tesla-bietet-guenstigere-versionen-fuer-wichtigste-modelle-3-und-y-an](https://www.spiegel.de/auto/tesla-bietet-guenstigere-versionen-fuer-wichtigste-modelle-3-und-y-an-a-2e11c277-17e5-4120-ae12-273d22706214#ref=rss)
-### günstigere
-
-* [https://www.spiegel.de/auto/tesla-bietet-guenstigere-versionen-fuer-wichtigste-modelle-3-und-y-an](https://www.spiegel.de/auto/tesla-bietet-guenstigere-versionen-fuer-wichtigste-modelle-3-und-y-an-a-2e11c277-17e5-4120-ae12-273d22706214#ref=rss)
-### 3
-
-* [https://www.spiegel.de/auto/tesla-bietet-guenstigere-versionen-fuer-wichtigste-modelle-3-und-y-an](https://www.spiegel.de/auto/tesla-bietet-guenstigere-versionen-fuer-wichtigste-modelle-3-und-y-an-a-2e11c277-17e5-4120-ae12-273d22706214#ref=rss)
-### y
-
-* [https://www.spiegel.de/auto/tesla-bietet-guenstigere-versionen-fuer-wichtigste-modelle-3-und-y-an](https://www.spiegel.de/auto/tesla-bietet-guenstigere-versionen-fuer-wichtigste-modelle-3-und-y-an-a-2e11c277-17e5-4120-ae12-273d22706214#ref=rss)
-### dolly
-
-* [https://www.spiegel.de/kultur/musik/dolly-parton-ihre-schwester-hat-die-ganze-nacht-fuer-sie-gebetet-will-aber-niemanden-veraengstigen](https://www.spiegel.de/kultur/musik/dolly-parton-ihre-schwester-hat-die-ganze-nacht-fuer-sie-gebetet-will-aber-niemanden-veraengstigen-a-f4d46a3b-ad82-4819-9426-024766c7b336#ref=rss)
-### parton
-
-* [https://www.spiegel.de/kultur/musik/dolly-parton-ihre-schwester-hat-die-ganze-nacht-fuer-sie-gebetet-will-aber-niemanden-veraengstigen](https://www.spiegel.de/kultur/musik/dolly-parton-ihre-schwester-hat-die-ganze-nacht-fuer-sie-gebetet-will-aber-niemanden-veraengstigen-a-f4d46a3b-ad82-4819-9426-024766c7b336#ref=rss)
-### schwester
-
-* [https://www.spiegel.de/kultur/musik/dolly-parton-ihre-schwester-hat-die-ganze-nacht-fuer-sie-gebetet-will-aber-niemanden-veraengstigen](https://www.spiegel.de/kultur/musik/dolly-parton-ihre-schwester-hat-die-ganze-nacht-fuer-sie-gebetet-will-aber-niemanden-veraengstigen-a-f4d46a3b-ad82-4819-9426-024766c7b336#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/ausland/daniel-noboa-angriff-auf-autokolonne-von-praesident-ecuadors](https://www.spiegel.de/ausland/daniel-noboa-angriff-auf-autokolonne-von-praesident-ecuadors-a-a380b126-5375-4668-b2e4-f16297c40ca2#ref=rss)
-### noboa
-
-* [https://www.spiegel.de/ausland/daniel-noboa-angriff-auf-autokolonne-von-praesident-ecuadors](https://www.spiegel.de/ausland/daniel-noboa-angriff-auf-autokolonne-von-praesident-ecuadors-a-a380b126-5375-4668-b2e4-f16297c40ca2#ref=rss)
-### ecuadors
-
-* [https://www.spiegel.de/ausland/daniel-noboa-angriff-auf-autokolonne-von-praesident-ecuadors](https://www.spiegel.de/ausland/daniel-noboa-angriff-auf-autokolonne-von-praesident-ecuadors-a-a380b126-5375-4668-b2e4-f16297c40ca2#ref=rss)
-### erste
-
-* [https://www.spiegel.de/ausland/daniel-noboa-angriff-auf-autokolonne-von-praesident-ecuadors](https://www.spiegel.de/ausland/daniel-noboa-angriff-auf-autokolonne-von-praesident-ecuadors-a-a380b126-5375-4668-b2e4-f16297c40ca2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/merz-bei-miosga-der-kanzler-missbraucht-seinen-kinderreichtum-fuer-seitenhiebe-gegen-merkel](https://www.spiegel.de/politik/deutschland/merz-bei-miosga-der-kanzler-missbraucht-seinen-kinderreichtum-fuer-seitenhiebe-gegen-merkel-a-a0df4949-c1df-470f-8442-904cc15b8db7#ref=rss)
-### lars
-
-* [https://www.spiegel.de/politik/deutschland/finanzminister-lars-klingbeil-kuendigt-marathon-der-reformen-an](https://www.spiegel.de/politik/deutschland/finanzminister-lars-klingbeil-kuendigt-marathon-der-reformen-an-a-9e0d22c5-5f22-40bc-8b09-e8168e2214ac#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/politik/deutschland/finanzminister-lars-klingbeil-kuendigt-marathon-der-reformen-an](https://www.spiegel.de/politik/deutschland/finanzminister-lars-klingbeil-kuendigt-marathon-der-reformen-an-a-9e0d22c5-5f22-40bc-8b09-e8168e2214ac#ref=rss)
-### erwartet
-
-* [https://www.spiegel.de/politik/deutschland/finanzminister-lars-klingbeil-kuendigt-marathon-der-reformen-an](https://www.spiegel.de/politik/deutschland/finanzminister-lars-klingbeil-kuendigt-marathon-der-reformen-an-a-9e0d22c5-5f22-40bc-8b09-e8168e2214ac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-industrieproduktion-sinkt-deutlich-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-industrieproduktion-sinkt-deutlich-staerker-als-erwartet-a-e81716dd-f7a2-4b8a-a6fb-13bbaf088061#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/politik/deutschland/finanzminister-lars-klingbeil-kuendigt-marathon-der-reformen-an](https://www.spiegel.de/politik/deutschland/finanzminister-lars-klingbeil-kuendigt-marathon-der-reformen-an-a-9e0d22c5-5f22-40bc-8b09-e8168e2214ac#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/keule-aus-dem-ersten-weltkrieg-warum-soldaten-im-schuetzengraben-knueppel-fertigten](https://www.spiegel.de/wissenschaft/mensch/keule-aus-dem-ersten-weltkrieg-warum-soldaten-im-schuetzengraben-knueppel-fertigten-a-55425b61-15ad-4caf-bf9f-a55a040afe51#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/politik/deutschland/das-sagt-innenminister-dobrindt-zur-drohnen-abwehr](https://www.spiegel.de/politik/deutschland/das-sagt-innenminister-dobrindt-zur-drohnen-abwehr-a-f2102a2b-111f-4884-8d6e-bdd38b485244#ref=rss)
-### dobrindt
-
-* [https://www.spiegel.de/politik/deutschland/das-sagt-innenminister-dobrindt-zur-drohnen-abwehr](https://www.spiegel.de/politik/deutschland/das-sagt-innenminister-dobrindt-zur-drohnen-abwehr-a-f2102a2b-111f-4884-8d6e-bdd38b485244#ref=rss)
-### innenminister
-
-* [https://www.spiegel.de/politik/deutschland/das-sagt-innenminister-dobrindt-zur-drohnen-abwehr](https://www.spiegel.de/politik/deutschland/das-sagt-innenminister-dobrindt-zur-drohnen-abwehr-a-f2102a2b-111f-4884-8d6e-bdd38b485244#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/das-sagt-innenminister-dobrindt-zur-drohnen-abwehr](https://www.spiegel.de/politik/deutschland/das-sagt-innenminister-dobrindt-zur-drohnen-abwehr-a-f2102a2b-111f-4884-8d6e-bdd38b485244#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme](https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme-a-8717d717-49e7-4295-83fb-e4909299297c#ref=rss)
-### hansgeorg
-
-* [https://www.spiegel.de/politik/deutschland/hans-georg-maassen-verliert-machtkampf-gegen-ex-afd-chef-joerg-meuthen](https://www.spiegel.de/politik/deutschland/hans-georg-maassen-verliert-machtkampf-gegen-ex-afd-chef-joerg-meuthen-a-548856e5-6075-43e4-9dd1-0f32422ce687#ref=rss)
-### maaßen
-
-* [https://www.spiegel.de/politik/deutschland/hans-georg-maassen-verliert-machtkampf-gegen-ex-afd-chef-joerg-meuthen](https://www.spiegel.de/politik/deutschland/hans-georg-maassen-verliert-machtkampf-gegen-ex-afd-chef-joerg-meuthen-a-548856e5-6075-43e4-9dd1-0f32422ce687#ref=rss)
-### machtkampf
-
-* [https://www.spiegel.de/politik/deutschland/hans-georg-maassen-verliert-machtkampf-gegen-ex-afd-chef-joerg-meuthen](https://www.spiegel.de/politik/deutschland/hans-georg-maassen-verliert-machtkampf-gegen-ex-afd-chef-joerg-meuthen-a-548856e5-6075-43e4-9dd1-0f32422ce687#ref=rss)
-### keule
-
-* [https://www.spiegel.de/wissenschaft/mensch/keule-aus-dem-ersten-weltkrieg-warum-soldaten-im-schuetzengraben-knueppel-fertigten](https://www.spiegel.de/wissenschaft/mensch/keule-aus-dem-ersten-weltkrieg-warum-soldaten-im-schuetzengraben-knueppel-fertigten-a-55425b61-15ad-4caf-bf9f-a55a040afe51#ref=rss)
-### junge
-
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme](https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme-a-8717d717-49e7-4295-83fb-e4909299297c#ref=rss)
-### rechtsextreme
-
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme](https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme-a-8717d717-49e7-4295-83fb-e4909299297c#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme](https://www.spiegel.de/politik/deutschland/rechtsextremismus-in-deutschland-doppelt-so-viele-junge-rechtsextreme-a-8717d717-49e7-4295-83fb-e4909299297c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-industrieproduktion-sinkt-deutlich-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-industrieproduktion-sinkt-deutlich-staerker-als-erwartet-a-e81716dd-f7a2-4b8a-a6fb-13bbaf088061#ref=rss)
-### regionalzug
-
-* [https://www.spiegel.de/panorama/justiz/herzogenrath-nach-messerattacke-in-regionalzug-kommt-angreifer-in-psychiatrie](https://www.spiegel.de/panorama/justiz/herzogenrath-nach-messerattacke-in-regionalzug-kommt-angreifer-in-psychiatrie-a-06f34914-1c84-4988-ac46-c9a7e9f218a9#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/herzogenrath-nach-messerattacke-in-regionalzug-kommt-angreifer-in-psychiatrie](https://www.spiegel.de/panorama/justiz/herzogenrath-nach-messerattacke-in-regionalzug-kommt-angreifer-in-psychiatrie-a-06f34914-1c84-4988-ac46-c9a7e9f218a9#ref=rss)
-* [https://www.spiegel.de/panorama/eurojackpot-gewinner-von-120-millionen-euro-meldet-sich-nach-zwei-wochen](https://www.spiegel.de/panorama/eurojackpot-gewinner-von-120-millionen-euro-meldet-sich-nach-zwei-wochen-a-e058ead2-6d97-4e0d-9f0a-3ec7f3cc0fb4#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/justiz/herzogenrath-nach-messerattacke-in-regionalzug-kommt-angreifer-in-psychiatrie](https://www.spiegel.de/panorama/justiz/herzogenrath-nach-messerattacke-in-regionalzug-kommt-angreifer-in-psychiatrie-a-06f34914-1c84-4988-ac46-c9a7e9f218a9#ref=rss)
-* [https://www.spiegel.de/panorama/myanmar-junta-bombardiert-mahnwache-mindestens-24-tote](https://www.spiegel.de/panorama/myanmar-junta-bombardiert-mahnwache-mindestens-24-tote-a-0f5141a5-8160-4bad-b9bd-77d0e7918fad#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/panorama/myanmar-junta-bombardiert-mahnwache-mindestens-24-tote](https://www.spiegel.de/panorama/myanmar-junta-bombardiert-mahnwache-mindestens-24-tote-a-0f5141a5-8160-4bad-b9bd-77d0e7918fad#ref=rss)
-### 24
-
-* [https://www.spiegel.de/panorama/myanmar-junta-bombardiert-mahnwache-mindestens-24-tote](https://www.spiegel.de/panorama/myanmar-junta-bombardiert-mahnwache-mindestens-24-tote-a-0f5141a5-8160-4bad-b9bd-77d0e7918fad#ref=rss)
-### conor
-
-* [https://www.spiegel.de/sport/conor-mcgregor-18-monate-sperre-fuer-kampfsport-star-nach-anti-doping-verstoessen](https://www.spiegel.de/sport/conor-mcgregor-18-monate-sperre-fuer-kampfsport-star-nach-anti-doping-verstoessen-a-71b206db-6b5e-4694-aabe-9c53b1ede216#ref=rss)
-### mcgregor
-
-* [https://www.spiegel.de/sport/conor-mcgregor-18-monate-sperre-fuer-kampfsport-star-nach-anti-doping-verstoessen](https://www.spiegel.de/sport/conor-mcgregor-18-monate-sperre-fuer-kampfsport-star-nach-anti-doping-verstoessen-a-71b206db-6b5e-4694-aabe-9c53b1ede216#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/sport/conor-mcgregor-18-monate-sperre-fuer-kampfsport-star-nach-anti-doping-verstoessen](https://www.spiegel.de/sport/conor-mcgregor-18-monate-sperre-fuer-kampfsport-star-nach-anti-doping-verstoessen-a-71b206db-6b5e-4694-aabe-9c53b1ede216#ref=rss)
-* [https://www.spiegel.de/panorama/eurojackpot-gewinner-von-120-millionen-euro-meldet-sich-nach-zwei-wochen](https://www.spiegel.de/panorama/eurojackpot-gewinner-von-120-millionen-euro-meldet-sich-nach-zwei-wochen-a-e058ead2-6d97-4e0d-9f0a-3ec7f3cc0fb4#ref=rss)
-### hundesteuer
-
-* [https://www.spiegel.de/wirtschaft/hundesteuer-bringt-2024-rekordeinnahmen](https://www.spiegel.de/wirtschaft/hundesteuer-bringt-2024-rekordeinnahmen-a-20802236-17dd-4ea6-b3f6-01fcdfa67d22#ref=rss)
-### jobturbo
-
-* [https://www.spiegel.de/wirtschaft/soziales/jobturbo-wissenschaftler-ueber-ihre-studie-noch-nie-haben-wir-derartig-grosse-effekte-gesehen](https://www.spiegel.de/wirtschaft/soziales/jobturbo-wissenschaftler-ueber-ihre-studie-noch-nie-haben-wir-derartig-grosse-effekte-gesehen-a-4857893d-931c-48f5-a258-76b2242938e7#ref=rss)
-### studie
-
-* [https://www.spiegel.de/wirtschaft/soziales/jobturbo-wissenschaftler-ueber-ihre-studie-noch-nie-haben-wir-derartig-grosse-effekte-gesehen](https://www.spiegel.de/wirtschaft/soziales/jobturbo-wissenschaftler-ueber-ihre-studie-noch-nie-haben-wir-derartig-grosse-effekte-gesehen-a-4857893d-931c-48f5-a258-76b2242938e7#ref=rss)
-### probezeit
-
-* [https://www.spiegel.de/karriere/probezeit-wenn-der-job-enttaeuscht-etwas-sagen-oder-kuendigen](https://www.spiegel.de/karriere/probezeit-wenn-der-job-enttaeuscht-etwas-sagen-oder-kuendigen-a-1529d701-8d69-46e0-a6f8-898d526a9fcc#ref=rss)
-### etwas
-
-* [https://www.spiegel.de/karriere/probezeit-wenn-der-job-enttaeuscht-etwas-sagen-oder-kuendigen](https://www.spiegel.de/karriere/probezeit-wenn-der-job-enttaeuscht-etwas-sagen-oder-kuendigen-a-1529d701-8d69-46e0-a6f8-898d526a9fcc#ref=rss)
-### sagen
-
-* [https://www.spiegel.de/karriere/probezeit-wenn-der-job-enttaeuscht-etwas-sagen-oder-kuendigen](https://www.spiegel.de/karriere/probezeit-wenn-der-job-enttaeuscht-etwas-sagen-oder-kuendigen-a-1529d701-8d69-46e0-a6f8-898d526a9fcc#ref=rss)
-### kündigen
-
-* [https://www.spiegel.de/karriere/probezeit-wenn-der-job-enttaeuscht-etwas-sagen-oder-kuendigen](https://www.spiegel.de/karriere/probezeit-wenn-der-job-enttaeuscht-etwas-sagen-oder-kuendigen-a-1529d701-8d69-46e0-a6f8-898d526a9fcc#ref=rss)
-### no
-
-* [https://www.spiegel.de/kultur/musik/ozzy-no-escape-from-now-ueber-ozzy-osbourne-tragoedie-und-triumph-eines-seltsamen-vogels](https://www.spiegel.de/kultur/musik/ozzy-no-escape-from-now-ueber-ozzy-osbourne-tragoedie-und-triumph-eines-seltsamen-vogels-a-6c330359-b1e8-4678-bb8c-fdebb4ccbe09#ref=rss)
-### escape
-
-* [https://www.spiegel.de/kultur/musik/ozzy-no-escape-from-now-ueber-ozzy-osbourne-tragoedie-und-triumph-eines-seltsamen-vogels](https://www.spiegel.de/kultur/musik/ozzy-no-escape-from-now-ueber-ozzy-osbourne-tragoedie-und-triumph-eines-seltsamen-vogels-a-6c330359-b1e8-4678-bb8c-fdebb4ccbe09#ref=rss)
-### from
-
-* [https://www.spiegel.de/kultur/musik/ozzy-no-escape-from-now-ueber-ozzy-osbourne-tragoedie-und-triumph-eines-seltsamen-vogels](https://www.spiegel.de/kultur/musik/ozzy-no-escape-from-now-ueber-ozzy-osbourne-tragoedie-und-triumph-eines-seltsamen-vogels-a-6c330359-b1e8-4678-bb8c-fdebb4ccbe09#ref=rss)
-### now
-
-* [https://www.spiegel.de/kultur/musik/ozzy-no-escape-from-now-ueber-ozzy-osbourne-tragoedie-und-triumph-eines-seltsamen-vogels](https://www.spiegel.de/kultur/musik/ozzy-no-escape-from-now-ueber-ozzy-osbourne-tragoedie-und-triumph-eines-seltsamen-vogels-a-6c330359-b1e8-4678-bb8c-fdebb4ccbe09#ref=rss)
-### osbourne
-
-* [https://www.spiegel.de/kultur/musik/ozzy-no-escape-from-now-ueber-ozzy-osbourne-tragoedie-und-triumph-eines-seltsamen-vogels](https://www.spiegel.de/kultur/musik/ozzy-no-escape-from-now-ueber-ozzy-osbourne-tragoedie-und-triumph-eines-seltsamen-vogels-a-6c330359-b1e8-4678-bb8c-fdebb4ccbe09#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast-a-eabaeb62-7cee-43df-8713-27af97a9d843#ref=rss)
+* [https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel](https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel-a-ff4bc7b5-432f-4548-8033-ec0a58e45858#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-miosga-atalay-interview-mdr-hilft-die-medienoffensive-dem-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-miosga-atalay-interview-mdr-hilft-die-medienoffensive-dem-kanzler-a-c3b8e470-1651-4580-91d3-30f9d3b30e97#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/merz-bei-miosga-der-kanzler-missbraucht-seinen-kinderreichtum-fuer-seitenhiebe-gegen-merkel](https://www.spiegel.de/politik/deutschland/merz-bei-miosga-der-kanzler-missbraucht-seinen-kinderreichtum-fuer-seitenhiebe-gegen-merkel-a-a0df4949-c1df-470f-8442-904cc15b8db7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast-a-eabaeb62-7cee-43df-8713-27af97a9d843#ref=rss)
+* [https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel](https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel-a-ff4bc7b5-432f-4548-8033-ec0a58e45858#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-miosga-atalay-interview-mdr-hilft-die-medienoffensive-dem-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-miosga-atalay-interview-mdr-hilft-die-medienoffensive-dem-kanzler-a-c3b8e470-1651-4580-91d3-30f9d3b30e97#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-fuenfjaehriger-kommt-mit-cannabis-in-kleidung-in-grundschule](https://www.spiegel.de/panorama/justiz/frankreich-fuenfjaehriger-kommt-mit-cannabis-in-kleidung-in-grundschule-a-19f474b7-96d4-4f0a-a075-a5bbd551998e#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/tochter-mit-me-cfs-unsere-tochter-vertraegt-kein-licht-wir-pflegen-sie-deshalb-in-dunkelheit](https://www.spiegel.de/gesundheit/diagnose/tochter-mit-me-cfs-unsere-tochter-vertraegt-kein-licht-wir-pflegen-sie-deshalb-in-dunkelheit-a-890105a1-f0ef-4ba3-9d50-b291a8362c33#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vilsbiburg-eltern-lassen-elfjaehrige-taeglich-stundenlang-in-abstellraum-warten](https://www.spiegel.de/panorama/justiz/vilsbiburg-eltern-lassen-elfjaehrige-taeglich-stundenlang-in-abstellraum-warten-a-33d534b6-918d-4b0a-ab71-89153caf1f0c#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/panorama/leute/lisa-mueller-frau-von-thomas-mueller-macht-praktikum-im-bayerischen-landtag](https://www.spiegel.de/panorama/leute/lisa-mueller-frau-von-thomas-mueller-macht-praktikum-im-bayerischen-landtag-a-4ac75fd6-d4a8-45c1-8c4a-d91e87faa207#ref=rss)
+* [https://www.spiegel.de/wissenschaft/chemie-nobelpreis-fuer-metall-organische-geruestverbindungen-suche-nach-dem-superschwamm](https://www.spiegel.de/wissenschaft/chemie-nobelpreis-fuer-metall-organische-geruestverbindungen-suche-nach-dem-superschwamm-a-cbf77fe7-b03b-4999-a88d-65f77b4e57cc#ref=rss)
+* [https://www.spiegel.de/ausland/italiener-koennen-sich-ueber-neuen-13-feiertag-zu-ehren-von-franziskus-von-assisi-freuen](https://www.spiegel.de/ausland/italiener-koennen-sich-ueber-neuen-13-feiertag-zu-ehren-von-franziskus-von-assisi-freuen-a-2c83fbd7-daf1-4223-a07e-51329135ec15#ref=rss)
 ### kanzler
 
-* [https://www.spiegel.de/politik/deutschland/merz-bei-miosga-der-kanzler-missbraucht-seinen-kinderreichtum-fuer-seitenhiebe-gegen-merkel](https://www.spiegel.de/politik/deutschland/merz-bei-miosga-der-kanzler-missbraucht-seinen-kinderreichtum-fuer-seitenhiebe-gegen-merkel-a-a0df4949-c1df-470f-8442-904cc15b8db7#ref=rss)
-### merkel
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast-a-eabaeb62-7cee-43df-8713-27af97a9d843#ref=rss)
+* [https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel](https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel-a-ff4bc7b5-432f-4548-8033-ec0a58e45858#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-miosga-atalay-interview-mdr-hilft-die-medienoffensive-dem-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-miosga-atalay-interview-mdr-hilft-die-medienoffensive-dem-kanzler-a-c3b8e470-1651-4580-91d3-30f9d3b30e97#ref=rss)
+### tochter
 
-* [https://www.spiegel.de/politik/deutschland/merz-bei-miosga-der-kanzler-missbraucht-seinen-kinderreichtum-fuer-seitenhiebe-gegen-merkel](https://www.spiegel.de/politik/deutschland/merz-bei-miosga-der-kanzler-missbraucht-seinen-kinderreichtum-fuer-seitenhiebe-gegen-merkel-a-a0df4949-c1df-470f-8442-904cc15b8db7#ref=rss)
-### pam
+* [https://www.spiegel.de/gesundheit/diagnose/tochter-mit-me-cfs-unsere-tochter-vertraegt-kein-licht-wir-pflegen-sie-deshalb-in-dunkelheit](https://www.spiegel.de/gesundheit/diagnose/tochter-mit-me-cfs-unsere-tochter-vertraegt-kein-licht-wir-pflegen-sie-deshalb-in-dunkelheit-a-890105a1-f0ef-4ba3-9d50-b291a8362c33#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/designierte-buergermeisterin-von-herdecke-wurde-offenbar-von-tochter-attackiert](https://www.spiegel.de/panorama/justiz/designierte-buergermeisterin-von-herdecke-wurde-offenbar-von-tochter-attackiert-a-405f537c-c07b-469f-a6bb-25fc92fe4cc7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vilsbiburg-eltern-lassen-elfjaehrige-taeglich-stundenlang-in-abstellraum-warten](https://www.spiegel.de/panorama/justiz/vilsbiburg-eltern-lassen-elfjaehrige-taeglich-stundenlang-in-abstellraum-warten-a-33d534b6-918d-4b0a-ab71-89153caf1f0c#ref=rss)
+### voller
 
-* [https://www.spiegel.de/ausland/usa-opposition-wirft-trumps-justizministerin-pam-bondi-machtmissbrauch-vor](https://www.spiegel.de/ausland/usa-opposition-wirft-trumps-justizministerin-pam-bondi-machtmissbrauch-vor-a-629104d2-6dd9-4992-a3c3-7aaa96e76ce9#ref=rss)
-### bondi
+* [https://www.spiegel.de/panorama/justiz/aschau-neuauflage-des-eiskeller-verfahrens-zeuge-voller-widersprueche](https://www.spiegel.de/panorama/justiz/aschau-neuauflage-des-eiskeller-verfahrens-zeuge-voller-widersprueche-a-87c9a94e-a101-4fbc-9982-efd0bbc2c88f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-miosga-atalay-interview-mdr-hilft-die-medienoffensive-dem-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-miosga-atalay-interview-mdr-hilft-die-medienoffensive-dem-kanzler-a-c3b8e470-1651-4580-91d3-30f9d3b30e97#ref=rss)
+### müller
 
-* [https://www.spiegel.de/ausland/usa-opposition-wirft-trumps-justizministerin-pam-bondi-machtmissbrauch-vor](https://www.spiegel.de/ausland/usa-opposition-wirft-trumps-justizministerin-pam-bondi-machtmissbrauch-vor-a-629104d2-6dd9-4992-a3c3-7aaa96e76ce9#ref=rss)
-### bevor
+* [https://www.spiegel.de/panorama/leute/lisa-mueller-frau-von-thomas-mueller-macht-praktikum-im-bayerischen-landtag](https://www.spiegel.de/panorama/leute/lisa-mueller-frau-von-thomas-mueller-macht-praktikum-im-bayerischen-landtag-a-4ac75fd6-d4a8-45c1-8c4a-d91e87faa207#ref=rss)
+### umweltminister
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-industrieproduktion-sinkt-deutlich-staerker-als-erwartet](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-industrieproduktion-sinkt-deutlich-staerker-als-erwartet-a-e81716dd-f7a2-4b8a-a6fb-13bbaf088061#ref=rss)
-* [https://www.spiegel.de/panorama/eurojackpot-gewinner-von-120-millionen-euro-meldet-sich-nach-zwei-wochen](https://www.spiegel.de/panorama/eurojackpot-gewinner-von-120-millionen-euro-meldet-sich-nach-zwei-wochen-a-e058ead2-6d97-4e0d-9f0a-3ec7f3cc0fb4#ref=rss)
-### wochen
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast-a-eabaeb62-7cee-43df-8713-27af97a9d843#ref=rss)
+* [https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel](https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel-a-ff4bc7b5-432f-4548-8033-ec0a58e45858#ref=rss)
+### verbrenneraus
 
-* [https://www.spiegel.de/panorama/eurojackpot-gewinner-von-120-millionen-euro-meldet-sich-nach-zwei-wochen](https://www.spiegel.de/panorama/eurojackpot-gewinner-von-120-millionen-euro-meldet-sich-nach-zwei-wochen-a-e058ead2-6d97-4e0d-9f0a-3ec7f3cc0fb4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast-a-eabaeb62-7cee-43df-8713-27af97a9d843#ref=rss)
+* [https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel](https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel-a-ff4bc7b5-432f-4548-8033-ec0a58e45858#ref=rss)
+### autogipfel
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast-a-eabaeb62-7cee-43df-8713-27af97a9d843#ref=rss)
+* [https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel](https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel-a-ff4bc7b5-432f-4548-8033-ec0a58e45858#ref=rss)
+### schule
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-fuenfjaehriger-kommt-mit-cannabis-in-kleidung-in-grundschule](https://www.spiegel.de/panorama/justiz/frankreich-fuenfjaehriger-kommt-mit-cannabis-in-kleidung-in-grundschule-a-19f474b7-96d4-4f0a-a075-a5bbd551998e#ref=rss)
+* [https://www.spiegel.de/panorama/paderborn-grosseinsatz-an-schule-opfer-schwer-verletzt](https://www.spiegel.de/panorama/paderborn-grosseinsatz-an-schule-opfer-schwer-verletzt-a-18abcb2d-6251-474b-9294-b1a3910889fd#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/usa-ex-fbi-chef-james-comey-plaediert-auf-nicht-schuldig](https://www.spiegel.de/ausland/usa-ex-fbi-chef-james-comey-plaediert-auf-nicht-schuldig-a-c2eaf309-b451-4839-a825-cbec6333d966#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-fordert-gefaengnis-fuer-chicagos-buergermeister-und-illinois-gouverneur](https://www.spiegel.de/ausland/donald-trump-fordert-gefaengnis-fuer-chicagos-buergermeister-und-illinois-gouverneur-a-60f6e82f-21c4-427b-a749-75ab4e3bf66f#ref=rss)
+### neu
+
+* [https://www.spiegel.de/kultur/literatur/stephen-king-horror-elemente-in-seiner-neuinterpretation-des-maerchenklassikers-haensel-und-gretel](https://www.spiegel.de/kultur/literatur/stephen-king-horror-elemente-in-seiner-neuinterpretation-des-maerchenklassikers-haensel-und-gretel-a-d5e6dbe4-ecfc-4aab-a95f-a686fc650bbd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/designierte-buergermeisterin-von-herdecke-wurde-offenbar-von-tochter-attackiert](https://www.spiegel.de/panorama/justiz/designierte-buergermeisterin-von-herdecke-wurde-offenbar-von-tochter-attackiert-a-405f537c-c07b-469f-a6bb-25fc92fe4cc7#ref=rss)
+* [https://www.spiegel.de/auto/hamburg-bundesverwaltungsgericht-stoppt-plaene-fuer-hafenautobahn](https://www.spiegel.de/auto/hamburg-bundesverwaltungsgericht-stoppt-plaene-fuer-hafenautobahn-a-13e9c27c-7736-41ec-8890-a49e5c63d2bc#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-konjunkturprognose-2026-die-reichsten-deutschen-spiegel-buchpreis](https://www.spiegel.de/politik/deutschland/news-des-tages-konjunkturprognose-2026-die-reichsten-deutschen-spiegel-buchpreis-a-27431112-42e9-4670-b184-6ab3cb2ce12f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vorwuerfe-zu-preisvorgaben-bundeskartellamt-ermittelt-gegen-temu](https://www.spiegel.de/wirtschaft/unternehmen/vorwuerfe-zu-preisvorgaben-bundeskartellamt-ermittelt-gegen-temu-a-53903a29-ca11-47ec-ba45-3865e42d0bc0#ref=rss)
+### feiertag
+
+* [https://www.spiegel.de/ausland/italiener-koennen-sich-ueber-neuen-13-feiertag-zu-ehren-von-franziskus-von-assisi-freuen](https://www.spiegel.de/ausland/italiener-koennen-sich-ueber-neuen-13-feiertag-zu-ehren-von-franziskus-von-assisi-freuen-a-2c83fbd7-daf1-4223-a07e-51329135ec15#ref=rss)
+### neuauflage
+
+* [https://www.spiegel.de/panorama/justiz/aschau-neuauflage-des-eiskeller-verfahrens-zeuge-voller-widersprueche](https://www.spiegel.de/panorama/justiz/aschau-neuauflage-des-eiskeller-verfahrens-zeuge-voller-widersprueche-a-87c9a94e-a101-4fbc-9982-efd0bbc2c88f#ref=rss)
+### eiskellerverfahrens
+
+* [https://www.spiegel.de/panorama/justiz/aschau-neuauflage-des-eiskeller-verfahrens-zeuge-voller-widersprueche](https://www.spiegel.de/panorama/justiz/aschau-neuauflage-des-eiskeller-verfahrens-zeuge-voller-widersprueche-a-87c9a94e-a101-4fbc-9982-efd0bbc2c88f#ref=rss)
+### widersprüche
+
+* [https://www.spiegel.de/panorama/justiz/aschau-neuauflage-des-eiskeller-verfahrens-zeuge-voller-widersprueche](https://www.spiegel.de/panorama/justiz/aschau-neuauflage-des-eiskeller-verfahrens-zeuge-voller-widersprueche-a-87c9a94e-a101-4fbc-9982-efd0bbc2c88f#ref=rss)
+### verfahren
+
+* [https://www.spiegel.de/panorama/justiz/aschau-neuauflage-des-eiskeller-verfahrens-zeuge-voller-widersprueche](https://www.spiegel.de/panorama/justiz/aschau-neuauflage-des-eiskeller-verfahrens-zeuge-voller-widersprueche-a-87c9a94e-a101-4fbc-9982-efd0bbc2c88f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vorwuerfe-zu-preisvorgaben-bundeskartellamt-ermittelt-gegen-temu](https://www.spiegel.de/wirtschaft/unternehmen/vorwuerfe-zu-preisvorgaben-bundeskartellamt-ermittelt-gegen-temu-a-53903a29-ca11-47ec-ba45-3865e42d0bc0#ref=rss)
+### lisa
+
+* [https://www.spiegel.de/panorama/leute/lisa-mueller-frau-von-thomas-mueller-macht-praktikum-im-bayerischen-landtag](https://www.spiegel.de/panorama/leute/lisa-mueller-frau-von-thomas-mueller-macht-praktikum-im-bayerischen-landtag-a-4ac75fd6-d4a8-45c1-8c4a-d91e87faa207#ref=rss)
+### bald
+
+* [https://www.spiegel.de/panorama/leute/lisa-mueller-frau-von-thomas-mueller-macht-praktikum-im-bayerischen-landtag](https://www.spiegel.de/panorama/leute/lisa-mueller-frau-von-thomas-mueller-macht-praktikum-im-bayerischen-landtag-a-4ac75fd6-d4a8-45c1-8c4a-d91e87faa207#ref=rss)
+* [https://www.spiegel.de/ausland/italiener-koennen-sich-ueber-neuen-13-feiertag-zu-ehren-von-franziskus-von-assisi-freuen](https://www.spiegel.de/ausland/italiener-koennen-sich-ueber-neuen-13-feiertag-zu-ehren-von-franziskus-von-assisi-freuen-a-2c83fbd7-daf1-4223-a07e-51329135ec15#ref=rss)
+### berichten
+
+* [https://www.spiegel.de/panorama/leute/lisa-mueller-frau-von-thomas-mueller-macht-praktikum-im-bayerischen-landtag](https://www.spiegel.de/panorama/leute/lisa-mueller-frau-von-thomas-mueller-macht-praktikum-im-bayerischen-landtag-a-4ac75fd6-d4a8-45c1-8c4a-d91e87faa207#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/tochter-mit-me-cfs-unsere-tochter-vertraegt-kein-licht-wir-pflegen-sie-deshalb-in-dunkelheit](https://www.spiegel.de/gesundheit/diagnose/tochter-mit-me-cfs-unsere-tochter-vertraegt-kein-licht-wir-pflegen-sie-deshalb-in-dunkelheit-a-890105a1-f0ef-4ba3-9d50-b291a8362c33#ref=rss)
+### korrekturen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast-a-eabaeb62-7cee-43df-8713-27af97a9d843#ref=rss)
+* [https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel](https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel-a-ff4bc7b5-432f-4548-8033-ec0a58e45858#ref=rss)
+### pocht
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast-a-eabaeb62-7cee-43df-8713-27af97a9d843#ref=rss)
+* [https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel](https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel-a-ff4bc7b5-432f-4548-8033-ec0a58e45858#ref=rss)
+### 2035
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast-a-eabaeb62-7cee-43df-8713-27af97a9d843#ref=rss)
+* [https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel](https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel-a-ff4bc7b5-432f-4548-8033-ec0a58e45858#ref=rss)
+### knirscht
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast-a-eabaeb62-7cee-43df-8713-27af97a9d843#ref=rss)
+* [https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel](https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel-a-ff4bc7b5-432f-4548-8033-ec0a58e45858#ref=rss)
+### hörbar
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast-a-eabaeb62-7cee-43df-8713-27af97a9d843#ref=rss)
+* [https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel](https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel-a-ff4bc7b5-432f-4548-8033-ec0a58e45858#ref=rss)
+### getriebe
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast-a-eabaeb62-7cee-43df-8713-27af97a9d843#ref=rss)
+* [https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel](https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel-a-ff4bc7b5-432f-4548-8033-ec0a58e45858#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast-a-eabaeb62-7cee-43df-8713-27af97a9d843#ref=rss)
+* [https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel](https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel-a-ff4bc7b5-432f-4548-8033-ec0a58e45858#ref=rss)
+### klima
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-koalitionskrach-um-verbrenner-podcast-a-eabaeb62-7cee-43df-8713-27af97a9d843#ref=rss)
+* [https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel](https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel-a-ff4bc7b5-432f-4548-8033-ec0a58e45858#ref=rss)
+### uneinig
+
+* [https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel](https://www.spiegel.de/politik/verbrenner-aus-kanzler-und-umweltminister-uneinig-vor-autogipfel-a-ff4bc7b5-432f-4548-8033-ec0a58e45858#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/bundeskabinett-uneinig-ueber-eu-vorstoss-zur-chatkontrolle](https://www.spiegel.de/netzwelt/netzpolitik/bundeskabinett-uneinig-ueber-eu-vorstoss-zur-chatkontrolle-a-ee7b482a-9205-4896-8eb0-7daa175a691e#ref=rss)
+### cannabis
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-fuenfjaehriger-kommt-mit-cannabis-in-kleidung-in-grundschule](https://www.spiegel.de/panorama/justiz/frankreich-fuenfjaehriger-kommt-mit-cannabis-in-kleidung-in-grundschule-a-19f474b7-96d4-4f0a-a075-a5bbd551998e#ref=rss)
+### cristiano
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-laut-bloomberg-der-erste-fussball-milliardaer](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-laut-bloomberg-der-erste-fussball-milliardaer-a-84eef8b3-0f14-4385-854c-2cea908cc47b#ref=rss)
+### ronaldo
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-laut-bloomberg-der-erste-fussball-milliardaer](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-laut-bloomberg-der-erste-fussball-milliardaer-a-84eef8b3-0f14-4385-854c-2cea908cc47b#ref=rss)
+### laut
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-laut-bloomberg-der-erste-fussball-milliardaer](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-laut-bloomberg-der-erste-fussball-milliardaer-a-84eef8b3-0f14-4385-854c-2cea908cc47b#ref=rss)
+### bloomberg
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-laut-bloomberg-der-erste-fussball-milliardaer](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-laut-bloomberg-der-erste-fussball-milliardaer-a-84eef8b3-0f14-4385-854c-2cea908cc47b#ref=rss)
+### waren
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-laut-bloomberg-der-erste-fussball-milliardaer](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-laut-bloomberg-der-erste-fussball-milliardaer-a-84eef8b3-0f14-4385-854c-2cea908cc47b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vorwuerfe-zu-preisvorgaben-bundeskartellamt-ermittelt-gegen-temu](https://www.spiegel.de/wirtschaft/unternehmen/vorwuerfe-zu-preisvorgaben-bundeskartellamt-ermittelt-gegen-temu-a-53903a29-ca11-47ec-ba45-3865e42d0bc0#ref=rss)
+### james
+
+* [https://www.spiegel.de/ausland/usa-ex-fbi-chef-james-comey-plaediert-auf-nicht-schuldig](https://www.spiegel.de/ausland/usa-ex-fbi-chef-james-comey-plaediert-auf-nicht-schuldig-a-c2eaf309-b451-4839-a825-cbec6333d966#ref=rss)
+### comey
+
+* [https://www.spiegel.de/ausland/usa-ex-fbi-chef-james-comey-plaediert-auf-nicht-schuldig](https://www.spiegel.de/ausland/usa-ex-fbi-chef-james-comey-plaediert-auf-nicht-schuldig-a-c2eaf309-b451-4839-a825-cbec6333d966#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/ausland/usa-ex-fbi-chef-james-comey-plaediert-auf-nicht-schuldig](https://www.spiegel.de/ausland/usa-ex-fbi-chef-james-comey-plaediert-auf-nicht-schuldig-a-c2eaf309-b451-4839-a825-cbec6333d966#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vorwuerfe-zu-preisvorgaben-bundeskartellamt-ermittelt-gegen-temu](https://www.spiegel.de/wirtschaft/unternehmen/vorwuerfe-zu-preisvorgaben-bundeskartellamt-ermittelt-gegen-temu-a-53903a29-ca11-47ec-ba45-3865e42d0bc0#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/russland-unter-wladimir-putin-peter-der-grosse-zu-gast-im-kopf-des-praesidenten](https://www.spiegel.de/ausland/russland-unter-wladimir-putin-peter-der-grosse-zu-gast-im-kopf-des-praesidenten-a-fd7fa462-da75-4ca0-9193-19d2be8de587#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vorwuerfe-zu-preisvorgaben-bundeskartellamt-ermittelt-gegen-temu](https://www.spiegel.de/wirtschaft/unternehmen/vorwuerfe-zu-preisvorgaben-bundeskartellamt-ermittelt-gegen-temu-a-53903a29-ca11-47ec-ba45-3865e42d0bc0#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/russland-unter-wladimir-putin-peter-der-grosse-zu-gast-im-kopf-des-praesidenten](https://www.spiegel.de/ausland/russland-unter-wladimir-putin-peter-der-grosse-zu-gast-im-kopf-des-praesidenten-a-fd7fa462-da75-4ca0-9193-19d2be8de587#ref=rss)
+### peter
+
+* [https://www.spiegel.de/ausland/russland-unter-wladimir-putin-peter-der-grosse-zu-gast-im-kopf-des-praesidenten](https://www.spiegel.de/ausland/russland-unter-wladimir-putin-peter-der-grosse-zu-gast-im-kopf-des-praesidenten-a-fd7fa462-da75-4ca0-9193-19d2be8de587#ref=rss)
+### große
+
+* [https://www.spiegel.de/ausland/russland-unter-wladimir-putin-peter-der-grosse-zu-gast-im-kopf-des-praesidenten](https://www.spiegel.de/ausland/russland-unter-wladimir-putin-peter-der-grosse-zu-gast-im-kopf-des-praesidenten-a-fd7fa462-da75-4ca0-9193-19d2be8de587#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-miosga-atalay-interview-mdr-hilft-die-medienoffensive-dem-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-miosga-atalay-interview-mdr-hilft-die-medienoffensive-dem-kanzler-a-c3b8e470-1651-4580-91d3-30f9d3b30e97#ref=rss)
+### drei
+
+* [https://www.spiegel.de/wissenschaft/chemie-nobelpreis-fuer-metall-organische-geruestverbindungen-suche-nach-dem-superschwamm](https://www.spiegel.de/wissenschaft/chemie-nobelpreis-fuer-metall-organische-geruestverbindungen-suche-nach-dem-superschwamm-a-cbf77fe7-b03b-4999-a88d-65f77b4e57cc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-miosga-atalay-interview-mdr-hilft-die-medienoffensive-dem-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-miosga-atalay-interview-mdr-hilft-die-medienoffensive-dem-kanzler-a-c3b8e470-1651-4580-91d3-30f9d3b30e97#ref=rss)
+### klimaschutz
+
+* [https://www.spiegel.de/wissenschaft/chemie-nobelpreis-fuer-metall-organische-geruestverbindungen-suche-nach-dem-superschwamm](https://www.spiegel.de/wissenschaft/chemie-nobelpreis-fuer-metall-organische-geruestverbindungen-suche-nach-dem-superschwamm-a-cbf77fe7-b03b-4999-a88d-65f77b4e57cc#ref=rss)
+* [https://www.spiegel.de/auto/hamburg-bundesverwaltungsgericht-stoppt-plaene-fuer-hafenautobahn](https://www.spiegel.de/auto/hamburg-bundesverwaltungsgericht-stoppt-plaene-fuer-hafenautobahn-a-13e9c27c-7736-41ec-8890-a49e5c63d2bc#ref=rss)
+### julia
+
+* [https://www.spiegel.de/panorama/leute/julia-roberts-schauspielerin-ueber-mangelndes-selbstvertrauen-zu-beginn-ihrer-karriere](https://www.spiegel.de/panorama/leute/julia-roberts-schauspielerin-ueber-mangelndes-selbstvertrauen-zu-beginn-ihrer-karriere-a-c8159113-d29d-4863-8aa3-6b9c7576fa08#ref=rss)
+### roberts
+
+* [https://www.spiegel.de/panorama/leute/julia-roberts-schauspielerin-ueber-mangelndes-selbstvertrauen-zu-beginn-ihrer-karriere](https://www.spiegel.de/panorama/leute/julia-roberts-schauspielerin-ueber-mangelndes-selbstvertrauen-zu-beginn-ihrer-karriere-a-c8159113-d29d-4863-8aa3-6b9c7576fa08#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/panorama/leute/julia-roberts-schauspielerin-ueber-mangelndes-selbstvertrauen-zu-beginn-ihrer-karriere](https://www.spiegel.de/panorama/leute/julia-roberts-schauspielerin-ueber-mangelndes-selbstvertrauen-zu-beginn-ihrer-karriere-a-c8159113-d29d-4863-8aa3-6b9c7576fa08#ref=rss)
+### selbstvertrauen
+
+* [https://www.spiegel.de/panorama/leute/julia-roberts-schauspielerin-ueber-mangelndes-selbstvertrauen-zu-beginn-ihrer-karriere](https://www.spiegel.de/panorama/leute/julia-roberts-schauspielerin-ueber-mangelndes-selbstvertrauen-zu-beginn-ihrer-karriere-a-c8159113-d29d-4863-8aa3-6b9c7576fa08#ref=rss)
+### me/cfs
+
+* [https://www.spiegel.de/gesundheit/diagnose/tochter-mit-me-cfs-unsere-tochter-vertraegt-kein-licht-wir-pflegen-sie-deshalb-in-dunkelheit](https://www.spiegel.de/gesundheit/diagnose/tochter-mit-me-cfs-unsere-tochter-vertraegt-kein-licht-wir-pflegen-sie-deshalb-in-dunkelheit-a-890105a1-f0ef-4ba3-9d50-b291a8362c33#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/gesundheit/diagnose/tochter-mit-me-cfs-unsere-tochter-vertraegt-kein-licht-wir-pflegen-sie-deshalb-in-dunkelheit](https://www.spiegel.de/gesundheit/diagnose/tochter-mit-me-cfs-unsere-tochter-vertraegt-kein-licht-wir-pflegen-sie-deshalb-in-dunkelheit-a-890105a1-f0ef-4ba3-9d50-b291a8362c33#ref=rss)
+* [https://www.spiegel.de/ausland/italiener-koennen-sich-ueber-neuen-13-feiertag-zu-ehren-von-franziskus-von-assisi-freuen](https://www.spiegel.de/ausland/italiener-koennen-sich-ueber-neuen-13-feiertag-zu-ehren-von-franziskus-von-assisi-freuen-a-2c83fbd7-daf1-4223-a07e-51329135ec15#ref=rss)
+### sowjetunion
+
+* [https://www.spiegel.de/geschichte/psychiatrie-als-waffe-in-der-sowjetunion-politisch-abweichende-meinungen-schizophren](https://www.spiegel.de/geschichte/psychiatrie-als-waffe-in-der-sowjetunion-politisch-abweichende-meinungen-schizophren-a-0ad6d998-3c5b-49b5-bce6-4e51550a70a0#ref=rss)
+### hänsel
+
+* [https://www.spiegel.de/kultur/literatur/stephen-king-horror-elemente-in-seiner-neuinterpretation-des-maerchenklassikers-haensel-und-gretel](https://www.spiegel.de/kultur/literatur/stephen-king-horror-elemente-in-seiner-neuinterpretation-des-maerchenklassikers-haensel-und-gretel-a-d5e6dbe4-ecfc-4aab-a95f-a686fc650bbd#ref=rss)
+### reichsten
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-konjunkturprognose-2026-die-reichsten-deutschen-spiegel-buchpreis](https://www.spiegel.de/politik/deutschland/news-des-tages-konjunkturprognose-2026-die-reichsten-deutschen-spiegel-buchpreis-a-27431112-42e9-4670-b184-6ab3cb2ce12f#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-konjunkturprognose-2026-die-reichsten-deutschen-spiegel-buchpreis](https://www.spiegel.de/politik/deutschland/news-des-tages-konjunkturprognose-2026-die-reichsten-deutschen-spiegel-buchpreis-a-27431112-42e9-4670-b184-6ab3cb2ce12f#ref=rss)
+* [https://www.spiegel.de/politik/nahost-debatte-bundestag-diskutiert-ueber-israel-gaza-konflikt-livestream](https://www.spiegel.de/politik/nahost-debatte-bundestag-diskutiert-ueber-israel-gaza-konflikt-livestream-a-38535da9-6bf4-446c-b282-2344f439a4a5#ref=rss)
+### föhr
+
+* [https://www.spiegel.de/panorama/justiz/foehr-polizei-loest-raetsel-um-gefaelschte-2-euro-muenzen](https://www.spiegel.de/panorama/justiz/foehr-polizei-loest-raetsel-um-gefaelschte-2-euro-muenzen-a-00a1c560-9f80-4c37-9030-aeedc96c569b#ref=rss)
+### ausgemacht
+
+* [https://www.spiegel.de/panorama/justiz/foehr-polizei-loest-raetsel-um-gefaelschte-2-euro-muenzen](https://www.spiegel.de/panorama/justiz/foehr-polizei-loest-raetsel-um-gefaelschte-2-euro-muenzen-a-00a1c560-9f80-4c37-9030-aeedc96c569b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/designierte-buergermeisterin-von-herdecke-wurde-offenbar-von-tochter-attackiert](https://www.spiegel.de/panorama/justiz/designierte-buergermeisterin-von-herdecke-wurde-offenbar-von-tochter-attackiert-a-405f537c-c07b-469f-a6bb-25fc92fe4cc7#ref=rss)
+### chico
+
+* [https://www.spiegel.de/panorama/chico-kuersat-yildirim-ueber-die-neun-schuesse-auf-seinen-ferrari-in-dortmund](https://www.spiegel.de/panorama/chico-kuersat-yildirim-ueber-die-neun-schuesse-auf-seinen-ferrari-in-dortmund-a-598e4b2e-ab15-4281-87c3-6b0eae530820#ref=rss)
+### yildirim
+
+* [https://www.spiegel.de/panorama/chico-kuersat-yildirim-ueber-die-neun-schuesse-auf-seinen-ferrari-in-dortmund](https://www.spiegel.de/panorama/chico-kuersat-yildirim-ueber-die-neun-schuesse-auf-seinen-ferrari-in-dortmund-a-598e4b2e-ab15-4281-87c3-6b0eae530820#ref=rss)
+### ferrari
+
+* [https://www.spiegel.de/panorama/chico-kuersat-yildirim-ueber-die-neun-schuesse-auf-seinen-ferrari-in-dortmund](https://www.spiegel.de/panorama/chico-kuersat-yildirim-ueber-die-neun-schuesse-auf-seinen-ferrari-in-dortmund-a-598e4b2e-ab15-4281-87c3-6b0eae530820#ref=rss)
+### mond
+
+* [https://www.spiegel.de/wissenschaft/suedpol-aitken-becken-auf-dem-mond-so-entstand-der-groesste-krater-des-erdtrabanten](https://www.spiegel.de/wissenschaft/suedpol-aitken-becken-auf-dem-mond-so-entstand-der-groesste-krater-des-erdtrabanten-a-931f9dcd-02c1-4936-ad29-0a14fc29d5e4#ref=rss)
+### größte
+
+* [https://www.spiegel.de/wissenschaft/suedpol-aitken-becken-auf-dem-mond-so-entstand-der-groesste-krater-des-erdtrabanten](https://www.spiegel.de/wissenschaft/suedpol-aitken-becken-auf-dem-mond-so-entstand-der-groesste-krater-des-erdtrabanten-a-931f9dcd-02c1-4936-ad29-0a14fc29d5e4#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/wissenschaft/suedpol-aitken-becken-auf-dem-mond-so-entstand-der-groesste-krater-des-erdtrabanten](https://www.spiegel.de/wissenschaft/suedpol-aitken-becken-auf-dem-mond-so-entstand-der-groesste-krater-des-erdtrabanten-a-931f9dcd-02c1-4936-ad29-0a14fc29d5e4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/designierte-buergermeisterin-von-herdecke-wurde-offenbar-von-tochter-attackiert](https://www.spiegel.de/panorama/justiz/designierte-buergermeisterin-von-herdecke-wurde-offenbar-von-tochter-attackiert-a-405f537c-c07b-469f-a6bb-25fc92fe4cc7#ref=rss)
+### geschah
+
+* [https://www.spiegel.de/wissenschaft/suedpol-aitken-becken-auf-dem-mond-so-entstand-der-groesste-krater-des-erdtrabanten](https://www.spiegel.de/wissenschaft/suedpol-aitken-becken-auf-dem-mond-so-entstand-der-groesste-krater-des-erdtrabanten-a-931f9dcd-02c1-4936-ad29-0a14fc29d5e4#ref=rss)
+### zach
+
+* [https://www.spiegel.de/kultur/musik/zach-bryan-wegen-anti-ice-zeile-von-us-regierungssprecherinnen-zurechtgewiesen](https://www.spiegel.de/kultur/musik/zach-bryan-wegen-anti-ice-zeile-von-us-regierungssprecherinnen-zurechtgewiesen-a-58e36b99-30aa-4e0c-9638-0f4723852475#ref=rss)
+### bryan
+
+* [https://www.spiegel.de/kultur/musik/zach-bryan-wegen-anti-ice-zeile-von-us-regierungssprecherinnen-zurechtgewiesen](https://www.spiegel.de/kultur/musik/zach-bryan-wegen-anti-ice-zeile-von-us-regierungssprecherinnen-zurechtgewiesen-a-58e36b99-30aa-4e0c-9638-0f4723852475#ref=rss)
+### temu
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vorwuerfe-zu-preisvorgaben-bundeskartellamt-ermittelt-gegen-temu](https://www.spiegel.de/wirtschaft/unternehmen/vorwuerfe-zu-preisvorgaben-bundeskartellamt-ermittelt-gegen-temu-a-53903a29-ca11-47ec-ba45-3865e42d0bc0#ref=rss)
+### dürfen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vorwuerfe-zu-preisvorgaben-bundeskartellamt-ermittelt-gegen-temu](https://www.spiegel.de/wirtschaft/unternehmen/vorwuerfe-zu-preisvorgaben-bundeskartellamt-ermittelt-gegen-temu-a-53903a29-ca11-47ec-ba45-3865e42d0bc0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/veggie-burger-verbot-was-das-votum-im-eu-parlament-fuer-verbraucher-bedeutet](https://www.spiegel.de/wirtschaft/service/veggie-burger-verbot-was-das-votum-im-eu-parlament-fuer-verbraucher-bedeutet-a-f8f16ad0-f9d9-48f7-90fe-249aecbb7c79#ref=rss)
+### chatkontrolle
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/bundeskabinett-uneinig-ueber-eu-vorstoss-zur-chatkontrolle](https://www.spiegel.de/netzwelt/netzpolitik/bundeskabinett-uneinig-ueber-eu-vorstoss-zur-chatkontrolle-a-ee7b482a-9205-4896-8eb0-7daa175a691e#ref=rss)
+### herdecke
+
+* [https://www.spiegel.de/panorama/justiz/designierte-buergermeisterin-von-herdecke-wurde-offenbar-von-tochter-attackiert](https://www.spiegel.de/panorama/justiz/designierte-buergermeisterin-von-herdecke-wurde-offenbar-von-tochter-attackiert-a-405f537c-c07b-469f-a6bb-25fc92fe4cc7#ref=rss)
+### iris
+
+* [https://www.spiegel.de/panorama/justiz/designierte-buergermeisterin-von-herdecke-wurde-offenbar-von-tochter-attackiert](https://www.spiegel.de/panorama/justiz/designierte-buergermeisterin-von-herdecke-wurde-offenbar-von-tochter-attackiert-a-405f537c-c07b-469f-a6bb-25fc92fe4cc7#ref=rss)
+### stalzer
+
+* [https://www.spiegel.de/panorama/justiz/designierte-buergermeisterin-von-herdecke-wurde-offenbar-von-tochter-attackiert](https://www.spiegel.de/panorama/justiz/designierte-buergermeisterin-von-herdecke-wurde-offenbar-von-tochter-attackiert-a-405f537c-c07b-469f-a6bb-25fc92fe4cc7#ref=rss)
+### euparlament
+
+* [https://www.spiegel.de/wirtschaft/service/veggie-burger-verbot-was-das-votum-im-eu-parlament-fuer-verbraucher-bedeutet](https://www.spiegel.de/wirtschaft/service/veggie-burger-verbot-was-das-votum-im-eu-parlament-fuer-verbraucher-bedeutet-a-f8f16ad0-f9d9-48f7-90fe-249aecbb7c79#ref=rss)
+### bedeutet
+
+* [https://www.spiegel.de/wirtschaft/service/veggie-burger-verbot-was-das-votum-im-eu-parlament-fuer-verbraucher-bedeutet](https://www.spiegel.de/wirtschaft/service/veggie-burger-verbot-was-das-votum-im-eu-parlament-fuer-verbraucher-bedeutet-a-f8f16ad0-f9d9-48f7-90fe-249aecbb7c79#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sollten-sie-jetzt-ihr-altgold-verkaufen](https://www.spiegel.de/wirtschaft/service/sollten-sie-jetzt-ihr-altgold-verkaufen-a-af825d4d-1808-4022-afbb-8518a052e487#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/service/veggie-burger-verbot-was-das-votum-im-eu-parlament-fuer-verbraucher-bedeutet](https://www.spiegel.de/wirtschaft/service/veggie-burger-verbot-was-das-votum-im-eu-parlament-fuer-verbraucher-bedeutet-a-f8f16ad0-f9d9-48f7-90fe-249aecbb7c79#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sollten-sie-jetzt-ihr-altgold-verkaufen](https://www.spiegel.de/wirtschaft/service/sollten-sie-jetzt-ihr-altgold-verkaufen-a-af825d4d-1808-4022-afbb-8518a052e487#ref=rss)
+### italien
+
+* [https://www.spiegel.de/ausland/italiener-koennen-sich-ueber-neuen-13-feiertag-zu-ehren-von-franziskus-von-assisi-freuen](https://www.spiegel.de/ausland/italiener-koennen-sich-ueber-neuen-13-feiertag-zu-ehren-von-franziskus-von-assisi-freuen-a-2c83fbd7-daf1-4223-a07e-51329135ec15#ref=rss)
+### paderborn
+
+* [https://www.spiegel.de/panorama/paderborn-grosseinsatz-an-schule-opfer-schwer-verletzt](https://www.spiegel.de/panorama/paderborn-grosseinsatz-an-schule-opfer-schwer-verletzt-a-18abcb2d-6251-474b-9294-b1a3910889fd#ref=rss)
+### großeinsatz
+
+* [https://www.spiegel.de/panorama/paderborn-grosseinsatz-an-schule-opfer-schwer-verletzt](https://www.spiegel.de/panorama/paderborn-grosseinsatz-an-schule-opfer-schwer-verletzt-a-18abcb2d-6251-474b-9294-b1a3910889fd#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/panorama/paderborn-grosseinsatz-an-schule-opfer-schwer-verletzt](https://www.spiegel.de/panorama/paderborn-grosseinsatz-an-schule-opfer-schwer-verletzt-a-18abcb2d-6251-474b-9294-b1a3910889fd#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/paderborn-grosseinsatz-an-schule-opfer-schwer-verletzt](https://www.spiegel.de/panorama/paderborn-grosseinsatz-an-schule-opfer-schwer-verletzt-a-18abcb2d-6251-474b-9294-b1a3910889fd#ref=rss)
+### goldpreis
+
+* [https://www.spiegel.de/wirtschaft/service/sollten-sie-jetzt-ihr-altgold-verkaufen](https://www.spiegel.de/wirtschaft/service/sollten-sie-jetzt-ihr-altgold-verkaufen-a-af825d4d-1808-4022-afbb-8518a052e487#ref=rss)
+### steigt
+
+* [https://www.spiegel.de/wirtschaft/service/sollten-sie-jetzt-ihr-altgold-verkaufen](https://www.spiegel.de/wirtschaft/service/sollten-sie-jetzt-ihr-altgold-verkaufen-a-af825d4d-1808-4022-afbb-8518a052e487#ref=rss)
+### vilsbiburg
+
+* [https://www.spiegel.de/panorama/justiz/vilsbiburg-eltern-lassen-elfjaehrige-taeglich-stundenlang-in-abstellraum-warten](https://www.spiegel.de/panorama/justiz/vilsbiburg-eltern-lassen-elfjaehrige-taeglich-stundenlang-in-abstellraum-warten-a-33d534b6-918d-4b0a-ab71-89153caf1f0c#ref=rss)
+### stundenlang
+
+* [https://www.spiegel.de/panorama/justiz/vilsbiburg-eltern-lassen-elfjaehrige-taeglich-stundenlang-in-abstellraum-warten](https://www.spiegel.de/panorama/justiz/vilsbiburg-eltern-lassen-elfjaehrige-taeglich-stundenlang-in-abstellraum-warten-a-33d534b6-918d-4b0a-ab71-89153caf1f0c#ref=rss)
+### warten
+
+* [https://www.spiegel.de/panorama/justiz/vilsbiburg-eltern-lassen-elfjaehrige-taeglich-stundenlang-in-abstellraum-warten](https://www.spiegel.de/panorama/justiz/vilsbiburg-eltern-lassen-elfjaehrige-taeglich-stundenlang-in-abstellraum-warten-a-33d534b6-918d-4b0a-ab71-89153caf1f0c#ref=rss)
+### chicago
+
+* [https://www.spiegel.de/ausland/donald-trump-fordert-gefaengnis-fuer-chicagos-buergermeister-und-illinois-gouverneur](https://www.spiegel.de/ausland/donald-trump-fordert-gefaengnis-fuer-chicagos-buergermeister-und-illinois-gouverneur-a-60f6e82f-21c4-427b-a749-75ab4e3bf66f#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-fordert-gefaengnis-fuer-chicagos-buergermeister-und-illinois-gouverneur](https://www.spiegel.de/ausland/donald-trump-fordert-gefaengnis-fuer-chicagos-buergermeister-und-illinois-gouverneur-a-60f6e82f-21c4-427b-a749-75ab4e3bf66f#ref=rss)
+### bürgermeister
+
+* [https://www.spiegel.de/ausland/donald-trump-fordert-gefaengnis-fuer-chicagos-buergermeister-und-illinois-gouverneur](https://www.spiegel.de/ausland/donald-trump-fordert-gefaengnis-fuer-chicagos-buergermeister-und-illinois-gouverneur-a-60f6e82f-21c4-427b-a749-75ab4e3bf66f#ref=rss)
+### illinois
+
+* [https://www.spiegel.de/ausland/donald-trump-fordert-gefaengnis-fuer-chicagos-buergermeister-und-illinois-gouverneur](https://www.spiegel.de/ausland/donald-trump-fordert-gefaengnis-fuer-chicagos-buergermeister-und-illinois-gouverneur-a-60f6e82f-21c4-427b-a749-75ab4e3bf66f#ref=rss)
+### gouverneur
+
+* [https://www.spiegel.de/ausland/donald-trump-fordert-gefaengnis-fuer-chicagos-buergermeister-und-illinois-gouverneur](https://www.spiegel.de/ausland/donald-trump-fordert-gefaengnis-fuer-chicagos-buergermeister-und-illinois-gouverneur-a-60f6e82f-21c4-427b-a749-75ab4e3bf66f#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/ausland/donald-trump-fordert-gefaengnis-fuer-chicagos-buergermeister-und-illinois-gouverneur](https://www.spiegel.de/ausland/donald-trump-fordert-gefaengnis-fuer-chicagos-buergermeister-und-illinois-gouverneur-a-60f6e82f-21c4-427b-a749-75ab4e3bf66f#ref=rss)
+* [https://www.spiegel.de/politik/nahost-debatte-bundestag-diskutiert-ueber-israel-gaza-konflikt-livestream](https://www.spiegel.de/politik/nahost-debatte-bundestag-diskutiert-ueber-israel-gaza-konflikt-livestream-a-38535da9-6bf4-446c-b282-2344f439a4a5#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/nahost-debatte-bundestag-diskutiert-ueber-israel-gaza-konflikt-livestream](https://www.spiegel.de/politik/nahost-debatte-bundestag-diskutiert-ueber-israel-gaza-konflikt-livestream-a-38535da9-6bf4-446c-b282-2344f439a4a5#ref=rss)
 
