@@ -4,373 +4,384 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### of
+### israel
 
-* [https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da](https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da-a-c8433157-8c6a-4c8e-a571-e5a432a24c68#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/fahrplanwechsel-deutsche-bahn-verzichtet-auf-preiserhoehungen](https://www.spiegel.de/wirtschaft/fahrplanwechsel-deutsche-bahn-verzichtet-auf-preiserhoehungen-a-eb035df3-10be-4876-b82f-20e51aadd0c8#ref=rss)
-* [https://www.spiegel.de/politik/hamburg-altona-neuer-bahnhof-wird-erst-2029-fertig](https://www.spiegel.de/politik/hamburg-altona-neuer-bahnhof-wird-erst-2029-fertig-a-4ef21560-7374-453d-afc5-99cc11161a6d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/schwarzwald-elch-in-oberwolfach-gesichtet-wird-er-heimisch](https://www.spiegel.de/wissenschaft/schwarzwald-elch-in-oberwolfach-gesichtet-wird-er-heimisch-a-f52fd425-3641-46b0-888b-affad7262f47#ref=rss)
-* [https://www.spiegel.de/kultur/victoria-beckham-doku-auf-netflix-zwischen-posh-und-power](https://www.spiegel.de/kultur/victoria-beckham-doku-auf-netflix-zwischen-posh-und-power-a-ae8b9330-4c58-4ce6-a009-5148c07e3f78#ref=rss)
-### knight
-
-* [https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da](https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da-a-c8433157-8c6a-4c8e-a571-e5a432a24c68#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da](https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da-a-c8433157-8c6a-4c8e-a571-e5a432a24c68#ref=rss)
-### seven
-
-* [https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da](https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da-a-c8433157-8c6a-4c8e-a571-e5a432a24c68#ref=rss)
-### kingdoms
-
-* [https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da](https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da-a-c8433157-8c6a-4c8e-a571-e5a432a24c68#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da](https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da-a-c8433157-8c6a-4c8e-a571-e5a432a24c68#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fahrplanwechsel-deutsche-bahn-verzichtet-auf-preiserhoehungen](https://www.spiegel.de/wirtschaft/fahrplanwechsel-deutsche-bahn-verzichtet-auf-preiserhoehungen-a-eb035df3-10be-4876-b82f-20e51aadd0c8#ref=rss)
-* [https://www.spiegel.de/ausland/japan-regierungskrise-zerruettet-regierungskoalition-sanae-takaichi-wird-womoeglich-nicht-erste-regierungschefin](https://www.spiegel.de/ausland/japan-regierungskrise-zerruettet-regierungskoalition-sanae-takaichi-wird-womoeglich-nicht-erste-regierungschefin-a-707e57c5-43d7-417c-90e1-a4fcc6403254#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/azubis-bekommen-kuenftig-mindestens-724-euro-im-monat](https://www.spiegel.de/wirtschaft/azubis-bekommen-kuenftig-mindestens-724-euro-im-monat-a-fd76b572-cbb2-470a-b335-f96986fa7272#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/mietspiegel-rechner-zahlen-sie-zu-viel-miete](https://www.spiegel.de/wirtschaft/service/mietspiegel-rechner-zahlen-sie-zu-viel-miete-a-17126383-523a-411c-aab0-06dbfef8658f#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/azubis-bekommen-kuenftig-mindestens-724-euro-im-monat](https://www.spiegel.de/wirtschaft/azubis-bekommen-kuenftig-mindestens-724-euro-im-monat-a-fd76b572-cbb2-470a-b335-f96986fa7272#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-waffenruhe-zwischen-israel-und-der-hamas-tritt-in-kraft](https://www.spiegel.de/ausland/gaza-waffenruhe-zwischen-israel-und-der-hamas-tritt-in-kraft-a-df0f5112-8993-470c-a9b9-fddff4dacb5a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/mietspiegel-rechner-zahlen-sie-zu-viel-miete](https://www.spiegel.de/wirtschaft/service/mietspiegel-rechner-zahlen-sie-zu-viel-miete-a-17126383-523a-411c-aab0-06dbfef8658f#ref=rss)
-### wir
-
-* [https://www.spiegel.de/wirtschaft/buergergeld-beobachtungen-aus-dem-jobcenter-wir-machen-keine-regeln-wir-setzen-sie-um](https://www.spiegel.de/wirtschaft/buergergeld-beobachtungen-aus-dem-jobcenter-wir-machen-keine-regeln-wir-setzen-sie-um-a-6dc24f60-be18-42b1-9c14-f69cab7e41da#ref=rss)
-* [https://www.spiegel.de/kultur/musik/no-angels-veroeffentlichen-neuen-song](https://www.spiegel.de/kultur/musik/no-angels-veroeffentlichen-neuen-song-a-a801ad5c-48ec-4bd1-b87f-4b8b040182aa#ref=rss)
-### alltag
-
-* [https://www.spiegel.de/wirtschaft/buergergeld-beobachtungen-aus-dem-jobcenter-wir-machen-keine-regeln-wir-setzen-sie-um](https://www.spiegel.de/wirtschaft/buergergeld-beobachtungen-aus-dem-jobcenter-wir-machen-keine-regeln-wir-setzen-sie-um-a-6dc24f60-be18-42b1-9c14-f69cab7e41da#ref=rss)
-* [https://www.spiegel.de/sport/fussball/christian-streichs-probleme-mit-dem-alltag-als-fussball-rentner](https://www.spiegel.de/sport/fussball/christian-streichs-probleme-mit-dem-alltag-als-fussball-rentner-a-f60e0a36-a927-4d4b-bd8c-134e0080234d#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/buergergeld-beobachtungen-aus-dem-jobcenter-wir-machen-keine-regeln-wir-setzen-sie-um](https://www.spiegel.de/wirtschaft/buergergeld-beobachtungen-aus-dem-jobcenter-wir-machen-keine-regeln-wir-setzen-sie-um-a-6dc24f60-be18-42b1-9c14-f69cab7e41da#ref=rss)
-* [https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg](https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg-a-b611823e-eac4-470e-877a-06bc9f1b0bd8#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/netzwelt/web/fandy-internetstar-bringt-tochter-im-livestream-zur-welt](https://www.spiegel.de/netzwelt/web/fandy-internetstar-bringt-tochter-im-livestream-zur-welt-a-7600ce31-2f07-4306-9c8d-f77341aff10a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-bei-wm-qualifikation-warum-der-dfb-star-beim-fc-liverpool-viel-besser-ist-als-behauptet](https://www.spiegel.de/sport/fussball/florian-wirtz-bei-wm-qualifikation-warum-der-dfb-star-beim-fc-liverpool-viel-besser-ist-als-behauptet-a-f532c6d1-8983-48fd-b73a-31e86d74df4b#ref=rss)
-* [https://www.spiegel.de/kultur/victoria-beckham-doku-auf-netflix-zwischen-posh-und-power](https://www.spiegel.de/kultur/victoria-beckham-doku-auf-netflix-zwischen-posh-und-power-a-ae8b9330-4c58-4ce6-a009-5148c07e3f78#ref=rss)
-### waffenruhe
-
-* [https://www.spiegel.de/ausland/gaza-waffenruhe-zwischen-israel-und-der-hamas-tritt-in-kraft](https://www.spiegel.de/ausland/gaza-waffenruhe-zwischen-israel-und-der-hamas-tritt-in-kraft-a-df0f5112-8993-470c-a9b9-fddff4dacb5a#ref=rss)
-* [https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg](https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg-a-b611823e-eac4-470e-877a-06bc9f1b0bd8#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/gaza-waffenruhe-zwischen-israel-und-der-hamas-tritt-in-kraft](https://www.spiegel.de/ausland/gaza-waffenruhe-zwischen-israel-und-der-hamas-tritt-in-kraft-a-df0f5112-8993-470c-a9b9-fddff4dacb5a#ref=rss)
-* [https://www.spiegel.de/ausland/friedensnobelpreis-2025-maria-corina-machado-aus-venezuela-gewinnt](https://www.spiegel.de/ausland/friedensnobelpreis-2025-maria-corina-machado-aus-venezuela-gewinnt-a-e7b763ff-88a0-419a-9aa1-8c4533e8bbc6#ref=rss)
-* [https://www.spiegel.de/ausland/friedensnobelpreis-livestream-zur-bekanntgabe-des-preistraegers](https://www.spiegel.de/ausland/friedensnobelpreis-livestream-zur-bekanntgabe-des-preistraegers-a-9dcfc839-e630-4b73-9938-3a1004d1a8b6#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-gibt-es-jetzt-dauerhaft-frieden-interview-mit-dem-israelischen-ex-general-israel-ziv](https://www.spiegel.de/ausland/gaza-gibt-es-jetzt-dauerhaft-frieden-interview-mit-dem-israelischen-ex-general-israel-ziv-a-8b74279f-fc11-4df1-9b5b-6fdd84202dbf#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast](https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast-a-dd6a257e-9bd6-41bc-a118-e23cde430744#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-hamas-donald-trump-steht-vor-seinem-groessten-triumph](https://www.spiegel.de/ausland/israel-und-hamas-donald-trump-steht-vor-seinem-groessten-triumph-a-801ee026-e3fe-4b36-acca-daec11d3995a#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/gaza-waffenruhe-zwischen-israel-und-der-hamas-tritt-in-kraft](https://www.spiegel.de/ausland/gaza-waffenruhe-zwischen-israel-und-der-hamas-tritt-in-kraft-a-df0f5112-8993-470c-a9b9-fddff4dacb5a#ref=rss)
-* [https://www.spiegel.de/ausland/friedensnobelpreis-2025-maria-corina-machado-aus-venezuela-gewinnt](https://www.spiegel.de/ausland/friedensnobelpreis-2025-maria-corina-machado-aus-venezuela-gewinnt-a-e7b763ff-88a0-419a-9aa1-8c4533e8bbc6#ref=rss)
-* [https://www.spiegel.de/ausland/friedensnobelpreis-livestream-zur-bekanntgabe-des-preistraegers](https://www.spiegel.de/ausland/friedensnobelpreis-livestream-zur-bekanntgabe-des-preistraegers-a-9dcfc839-e630-4b73-9938-3a1004d1a8b6#ref=rss)
-### deutsche
+* [https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage](https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage-a-e4f661ca-ff04-47f7-88f1-dbc2e4346e17#ref=rss)
+* [https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet](https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet-a-2a9b6c96-e985-4701-b1b5-480b1bb12e30#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd-a-f4b3f721-ca26-48ce-b2ac-4440c1abf3b8#ref=rss)
+* [https://www.spiegel.de/ausland/maria-corina-machado-friedensnobelpreistraegerin-widmet-auszeichnung-den-venezolanern](https://www.spiegel.de/ausland/maria-corina-machado-friedensnobelpreistraegerin-widmet-auszeichnung-den-venezolanern-a-f74cbea3-2b20-410d-aa2e-f2c39314d52c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-hamas-donald-trump-steht-vor-seinem-groessten-triumph](https://www.spiegel.de/ausland/israel-und-hamas-donald-trump-steht-vor-seinem-groessten-triumph-a-801ee026-e3fe-4b36-acca-daec11d3995a#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wirtschaft/fahrplanwechsel-deutsche-bahn-verzichtet-auf-preiserhoehungen](https://www.spiegel.de/wirtschaft/fahrplanwechsel-deutsche-bahn-verzichtet-auf-preiserhoehungen-a-eb035df3-10be-4876-b82f-20e51aadd0c8#ref=rss)
-* [https://www.spiegel.de/panorama/ukraine-krieg-deutsche-militaers-wollten-bis-kurz-vor-der-krim-annexion-russen-ausbilden](https://www.spiegel.de/panorama/ukraine-krieg-deutsche-militaers-wollten-bis-kurz-vor-der-krim-annexion-russen-ausbilden-a-cafb4154-f269-47a9-8bbf-ec2a2d74610d#ref=rss)
-### neuen
+* [https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage](https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage-a-e4f661ca-ff04-47f7-88f1-dbc2e4346e17#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd-a-f4b3f721-ca26-48ce-b2ac-4440c1abf3b8#ref=rss)
+* [https://www.spiegel.de/ausland/maria-corina-machado-friedensnobelpreistraegerin-widmet-auszeichnung-den-venezolanern](https://www.spiegel.de/ausland/maria-corina-machado-friedensnobelpreistraegerin-widmet-auszeichnung-den-venezolanern-a-f74cbea3-2b20-410d-aa2e-f2c39314d52c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-hamas-donald-trump-steht-vor-seinem-groessten-triumph](https://www.spiegel.de/ausland/israel-und-hamas-donald-trump-steht-vor-seinem-groessten-triumph-a-801ee026-e3fe-4b36-acca-daec11d3995a#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-bei-wm-qualifikation-warum-der-dfb-star-beim-fc-liverpool-viel-besser-ist-als-behauptet](https://www.spiegel.de/sport/fussball/florian-wirtz-bei-wm-qualifikation-warum-der-dfb-star-beim-fc-liverpool-viel-besser-ist-als-behauptet-a-f532c6d1-8983-48fd-b73a-31e86d74df4b#ref=rss)
-* [https://www.spiegel.de/kultur/musik/no-angels-veroeffentlichen-neuen-song](https://www.spiegel.de/kultur/musik/no-angels-veroeffentlichen-neuen-song-a-a801ad5c-48ec-4bd1-b87f-4b8b040182aa#ref=rss)
-### zeigt
+* [https://www.spiegel.de/ausland/gaza-gibt-es-jetzt-dauerhaft-frieden-interview-mit-dem-israelischen-ex-general-israel-ziv](https://www.spiegel.de/ausland/gaza-gibt-es-jetzt-dauerhaft-frieden-interview-mit-dem-israelischen-ex-general-israel-ziv-a-8b74279f-fc11-4df1-9b5b-6fdd84202dbf#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast](https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast-a-dd6a257e-9bd6-41bc-a118-e23cde430744#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd-a-f4b3f721-ca26-48ce-b2ac-4440c1abf3b8#ref=rss)
+### hamas
 
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-bei-wm-qualifikation-warum-der-dfb-star-beim-fc-liverpool-viel-besser-ist-als-behauptet](https://www.spiegel.de/sport/fussball/florian-wirtz-bei-wm-qualifikation-warum-der-dfb-star-beim-fc-liverpool-viel-besser-ist-als-behauptet-a-f532c6d1-8983-48fd-b73a-31e86d74df4b#ref=rss)
-* [https://www.spiegel.de/kultur/victoria-beckham-doku-auf-netflix-zwischen-posh-und-power](https://www.spiegel.de/kultur/victoria-beckham-doku-auf-netflix-zwischen-posh-und-power-a-ae8b9330-4c58-4ce6-a009-5148c07e3f78#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-so-hat-sich-der-krieg-veraendert](https://www.spiegel.de/ausland/ukraine-so-hat-sich-der-krieg-veraendert-a-e5dc42bf-ce56-4426-bfc5-0b06db01d645#ref=rss)
-### regierungschefin
+* [https://www.spiegel.de/ausland/gaza-gibt-es-jetzt-dauerhaft-frieden-interview-mit-dem-israelischen-ex-general-israel-ziv](https://www.spiegel.de/ausland/gaza-gibt-es-jetzt-dauerhaft-frieden-interview-mit-dem-israelischen-ex-general-israel-ziv-a-8b74279f-fc11-4df1-9b5b-6fdd84202dbf#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-wie-die-angehoerige-einer-toten-geisel-auf-das-abkommen-blickt](https://www.spiegel.de/ausland/israel-hamas-deal-wie-die-angehoerige-einer-toten-geisel-auf-das-abkommen-blickt-a-641b388b-f68a-42ea-8bb3-99fe6c1d54d1#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-hamas-donald-trump-steht-vor-seinem-groessten-triumph](https://www.spiegel.de/ausland/israel-und-hamas-donald-trump-steht-vor-seinem-groessten-triumph-a-801ee026-e3fe-4b36-acca-daec11d3995a#ref=rss)
+### putin
 
-* [https://www.spiegel.de/ausland/japan-regierungskrise-zerruettet-regierungskoalition-sanae-takaichi-wird-womoeglich-nicht-erste-regierungschefin](https://www.spiegel.de/ausland/japan-regierungskrise-zerruettet-regierungskoalition-sanae-takaichi-wird-womoeglich-nicht-erste-regierungschefin-a-707e57c5-43d7-417c-90e1-a4fcc6403254#ref=rss)
-* [https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg](https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg-a-b611823e-eac4-470e-877a-06bc9f1b0bd8#ref=rss)
-### drake
+* [https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet](https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet-a-2a9b6c96-e985-4701-b1b5-480b1bb12e30#ref=rss)
+* [https://www.spiegel.de/ausland/russland-aserbaidschan-russischer-journalist-aus-haft-in-baku-entlassen](https://www.spiegel.de/ausland/russland-aserbaidschan-russischer-journalist-aus-haft-in-baku-entlassen-a-25e24d69-9403-47a0-a81f-a4f99cc557e2#ref=rss)
+### trumps
 
-* [https://www.spiegel.de/kultur/musik/not-like-us-verleumdungsklage-von-drake-wegen-kendrick-lamar-disstrack-abgewiesen](https://www.spiegel.de/kultur/musik/not-like-us-verleumdungsklage-von-drake-wegen-kendrick-lamar-disstrack-abgewiesen-a-f811cf1f-a308-4714-b9d4-38339b48d1d0#ref=rss)
-### verdacht
+* [https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast](https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast-a-dd6a257e-9bd6-41bc-a118-e23cde430744#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+### friedensplan
 
-* [https://www.spiegel.de/panorama/justiz/dorsten-24-jaehrige-tot-in-wohnung-gefunden-fahndung-nach-ehemann](https://www.spiegel.de/panorama/justiz/dorsten-24-jaehrige-tot-in-wohnung-gefunden-fahndung-nach-ehemann-a-366c5405-c37e-4cec-8f8b-ba7bb40acea5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-ermittlungen-gegen-17-polizisten-in-hessen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-ermittlungen-gegen-17-polizisten-in-hessen-a-8bb770d0-755b-4d3b-806f-57f24a39cc4a#ref=rss)
-### krieg
+* [https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast](https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast-a-dd6a257e-9bd6-41bc-a118-e23cde430744#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+### waffenruhe
 
-* [https://www.spiegel.de/ausland/ukraine-so-hat-sich-der-krieg-veraendert](https://www.spiegel.de/ausland/ukraine-so-hat-sich-der-krieg-veraendert-a-e5dc42bf-ce56-4426-bfc5-0b06db01d645#ref=rss)
-* [https://www.spiegel.de/panorama/ukraine-krieg-deutsche-militaers-wollten-bis-kurz-vor-der-krim-annexion-russen-ausbilden](https://www.spiegel.de/panorama/ukraine-krieg-deutsche-militaers-wollten-bis-kurz-vor-der-krim-annexion-russen-ausbilden-a-cafb4154-f269-47a9-8bbf-ec2a2d74610d#ref=rss)
-### trailer
+* [https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast](https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast-a-dd6a257e-9bd6-41bc-a118-e23cde430744#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd-a-f4b3f721-ca26-48ce-b2ac-4440c1abf3b8#ref=rss)
+### hamburger
 
-* [https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da](https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da-a-c8433157-8c6a-4c8e-a571-e5a432a24c68#ref=rss)
-### game
+* [https://www.spiegel.de/panorama/leute/heinz-hoenig-macht-auf-st-pauli-einen-drauf-zumindest-ein-bisschen](https://www.spiegel.de/panorama/leute/heinz-hoenig-macht-auf-st-pauli-einen-drauf-zumindest-ein-bisschen-a-3dc5e460-1004-47d6-a10d-4646c729d1e7#ref=rss)
+* [https://www.spiegel.de/stil/thomas-mueller-das-sagt-ein-hamburger-barber-zu-seinem-neuen-style](https://www.spiegel.de/stil/thomas-mueller-das-sagt-ein-hamburger-barber-zu-seinem-neuen-style-a-c4aeddff-7813-4f4b-87aa-579b38f01d73#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/closed-kartellamt-erlaubt-verkauf-von-insolventer-modemarke-aus-hamburg](https://www.spiegel.de/wirtschaft/unternehmen/closed-kartellamt-erlaubt-verkauf-von-insolventer-modemarke-aus-hamburg-a-0cf6c348-a3f8-471e-883d-28a0cad8b19d#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da](https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da-a-c8433157-8c6a-4c8e-a571-e5a432a24c68#ref=rss)
-### fans
+* [https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage](https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage-a-e4f661ca-ff04-47f7-88f1-dbc2e4346e17#ref=rss)
+* [https://www.spiegel.de/auto/verbrenner-aus-truegerische-flexibilitaet-meinung](https://www.spiegel.de/auto/verbrenner-aus-truegerische-flexibilitaet-meinung-a-4adc2bed-9ce7-4fbb-abc7-e3fb985637f6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-herdecke-warum-es-keine-u-haft-und-keine-ermittlungen-wegen-mordversuchs-gibt](https://www.spiegel.de/panorama/justiz/fall-herdecke-warum-es-keine-u-haft-und-keine-ermittlungen-wegen-mordversuchs-gibt-a-3e089cdc-0312-43dc-a144-89a77a287d55#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da](https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da-a-c8433157-8c6a-4c8e-a571-e5a432a24c68#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/fandy-internetstar-bringt-tochter-im-livestream-zur-welt](https://www.spiegel.de/netzwelt/web/fandy-internetstar-bringt-tochter-im-livestream-zur-welt-a-7600ce31-2f07-4306-9c8d-f77341aff10a#ref=rss)
-### welt
+* [https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet](https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet-a-2a9b6c96-e985-4701-b1b5-480b1bb12e30#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/eiskeller-prozess-eltern-von-hanna-w-ziehen-sich-aus-verfahren-zurueck](https://www.spiegel.de/panorama/justiz/eiskeller-prozess-eltern-von-hanna-w-ziehen-sich-aus-verfahren-zurueck-a-6dad3649-dad6-41cc-b9e8-88e9ca529b82#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-hamas-donald-trump-steht-vor-seinem-groessten-triumph](https://www.spiegel.de/ausland/israel-und-hamas-donald-trump-steht-vor-seinem-groessten-triumph-a-801ee026-e3fe-4b36-acca-daec11d3995a#ref=rss)
+### freude
 
-* [https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da](https://www.spiegel.de/kultur/tv/a-knight-of-the-seven-kingdoms-erster-trailer-fuer-game-of-thrones-spinoff-a-knight-of-the-seven-kingdoms-ist-da-a-c8433157-8c6a-4c8e-a571-e5a432a24c68#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/fandy-internetstar-bringt-tochter-im-livestream-zur-welt](https://www.spiegel.de/netzwelt/web/fandy-internetstar-bringt-tochter-im-livestream-zur-welt-a-7600ce31-2f07-4306-9c8d-f77341aff10a#ref=rss)
-### 724
+* [https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast](https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast-a-dd6a257e-9bd6-41bc-a118-e23cde430744#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-wie-die-angehoerige-einer-toten-geisel-auf-das-abkommen-blickt](https://www.spiegel.de/ausland/israel-hamas-deal-wie-die-angehoerige-einer-toten-geisel-auf-das-abkommen-blickt-a-641b388b-f68a-42ea-8bb3-99fe6c1d54d1#ref=rss)
+### geiseln
 
-* [https://www.spiegel.de/wirtschaft/azubis-bekommen-kuenftig-mindestens-724-euro-im-monat](https://www.spiegel.de/wirtschaft/azubis-bekommen-kuenftig-mindestens-724-euro-im-monat-a-fd76b572-cbb2-470a-b335-f96986fa7272#ref=rss)
-### monat
+* [https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast](https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast-a-dd6a257e-9bd6-41bc-a118-e23cde430744#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-wie-die-angehoerige-einer-toten-geisel-auf-das-abkommen-blickt](https://www.spiegel.de/ausland/israel-hamas-deal-wie-die-angehoerige-einer-toten-geisel-auf-das-abkommen-blickt-a-641b388b-f68a-42ea-8bb3-99fe6c1d54d1#ref=rss)
+### maría
 
-* [https://www.spiegel.de/wirtschaft/azubis-bekommen-kuenftig-mindestens-724-euro-im-monat](https://www.spiegel.de/wirtschaft/azubis-bekommen-kuenftig-mindestens-724-euro-im-monat-a-fd76b572-cbb2-470a-b335-f96986fa7272#ref=rss)
-### weniger
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd-a-f4b3f721-ca26-48ce-b2ac-4440c1abf3b8#ref=rss)
+* [https://www.spiegel.de/ausland/maria-corina-machado-friedensnobelpreistraegerin-widmet-auszeichnung-den-venezolanern](https://www.spiegel.de/ausland/maria-corina-machado-friedensnobelpreistraegerin-widmet-auszeichnung-den-venezolanern-a-f74cbea3-2b20-410d-aa2e-f2c39314d52c#ref=rss)
+### corina
 
-* [https://www.spiegel.de/wirtschaft/azubis-bekommen-kuenftig-mindestens-724-euro-im-monat](https://www.spiegel.de/wirtschaft/azubis-bekommen-kuenftig-mindestens-724-euro-im-monat-a-fd76b572-cbb2-470a-b335-f96986fa7272#ref=rss)
-* [https://www.spiegel.de/wissenschaft/arktis-drei-robbenart-als-staerker-gefaehrdet-eingestuft](https://www.spiegel.de/wissenschaft/arktis-drei-robbenart-als-staerker-gefaehrdet-eingestuft-a-8b19c980-226d-4b4e-b80d-70408a1de7f2#ref=rss)
-### bundestrainerin
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd-a-f4b3f721-ca26-48ce-b2ac-4440c1abf3b8#ref=rss)
+* [https://www.spiegel.de/ausland/maria-corina-machado-friedensnobelpreistraegerin-widmet-auszeichnung-den-venezolanern](https://www.spiegel.de/ausland/maria-corina-machado-friedensnobelpreistraegerin-widmet-auszeichnung-den-venezolanern-a-f74cbea3-2b20-410d-aa2e-f2c39314d52c#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/basketball/basketball-verband-trennt-sich-von-bundestrainerin-lisa-thomaidis-wegen-uni-job](https://www.spiegel.de/sport/basketball/basketball-verband-trennt-sich-von-bundestrainerin-lisa-thomaidis-wegen-uni-job-a-8083d190-4352-4e93-b828-577799461402#ref=rss)
-### lisa
+* [https://www.spiegel.de/wirtschaft/unternehmen/ki-eu-plant-sechs-neue-gigafactorys-aber-nicht-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/ki-eu-plant-sechs-neue-gigafactorys-aber-nicht-in-deutschland-a-ea481bbb-4e2f-455b-b923-c902462e3cb5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-gegner-luxemburg-warum-dann-nicht-ein-punktgewinn-gegen-deutschland](https://www.spiegel.de/sport/fussball/dfb-gegner-luxemburg-warum-dann-nicht-ein-punktgewinn-gegen-deutschland-a-32a711fe-c82b-43bb-abbe-a56c402d0045#ref=rss)
+### taylor
 
-* [https://www.spiegel.de/sport/basketball/basketball-verband-trennt-sich-von-bundestrainerin-lisa-thomaidis-wegen-uni-job](https://www.spiegel.de/sport/basketball/basketball-verband-trennt-sich-von-bundestrainerin-lisa-thomaidis-wegen-uni-job-a-8083d190-4352-4e93-b828-577799461402#ref=rss)
-### thomaidis
+* [https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts](https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts-a-7a3dae6e-41d9-4080-bd83-8271433a0121#ref=rss)
+* [https://www.spiegel.de/kultur/musik/the-life-of-a-showgirl-hat-taylor-swift-fuer-ihr-neues-album-bei-anderen-kuenstlern-geklaut](https://www.spiegel.de/kultur/musik/the-life-of-a-showgirl-hat-taylor-swift-fuer-ihr-neues-album-bei-anderen-kuenstlern-geklaut-a-9d54f813-24d8-460f-9af4-78f8914d1a1f#ref=rss)
+### swift
 
-* [https://www.spiegel.de/sport/basketball/basketball-verband-trennt-sich-von-bundestrainerin-lisa-thomaidis-wegen-uni-job](https://www.spiegel.de/sport/basketball/basketball-verband-trennt-sich-von-bundestrainerin-lisa-thomaidis-wegen-uni-job-a-8083d190-4352-4e93-b828-577799461402#ref=rss)
-### berlin
+* [https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts](https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts-a-7a3dae6e-41d9-4080-bd83-8271433a0121#ref=rss)
+* [https://www.spiegel.de/kultur/musik/the-life-of-a-showgirl-hat-taylor-swift-fuer-ihr-neues-album-bei-anderen-kuenstlern-geklaut](https://www.spiegel.de/kultur/musik/the-life-of-a-showgirl-hat-taylor-swift-fuer-ihr-neues-album-bei-anderen-kuenstlern-geklaut-a-9d54f813-24d8-460f-9af4-78f8914d1a1f#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/panorama/justiz/bushido-personenschutz-polizei-in-berlin-prueft-disziplinarverfahren-gegen-beamten](https://www.spiegel.de/panorama/justiz/bushido-personenschutz-polizei-in-berlin-prueft-disziplinarverfahren-gegen-beamten-a-4450f0fe-39bf-459d-9941-0e96d41b6103#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/mietspiegel-rechner-zahlen-sie-zu-viel-miete](https://www.spiegel.de/wirtschaft/service/mietspiegel-rechner-zahlen-sie-zu-viel-miete-a-17126383-523a-411c-aab0-06dbfef8658f#ref=rss)
-### disziplinarverfahren
+* [https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts](https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts-a-7a3dae6e-41d9-4080-bd83-8271433a0121#ref=rss)
+* [https://www.spiegel.de/sport/basketball/basketball-bundestrainer-alex-mumbru-muss-weiter-im-krankenhaus-bleiben](https://www.spiegel.de/sport/basketball/basketball-bundestrainer-alex-mumbru-muss-weiter-im-krankenhaus-bleiben-a-84056396-4a16-4189-97e0-710bb6f97694#ref=rss)
+### cannabis
 
-* [https://www.spiegel.de/panorama/justiz/bushido-personenschutz-polizei-in-berlin-prueft-disziplinarverfahren-gegen-beamten](https://www.spiegel.de/panorama/justiz/bushido-personenschutz-polizei-in-berlin-prueft-disziplinarverfahren-gegen-beamten-a-4450f0fe-39bf-459d-9941-0e96d41b6103#ref=rss)
-### rapper
+* [https://www.spiegel.de/gesundheit/cannabis-der-unsinnige-kampf-gegen-gras-auf-rezept](https://www.spiegel.de/gesundheit/cannabis-der-unsinnige-kampf-gegen-gras-auf-rezept-a-6930fe9b-6e0e-487f-a0f8-fb829d8ed03c#ref=rss)
+### kampf
 
-* [https://www.spiegel.de/panorama/justiz/bushido-personenschutz-polizei-in-berlin-prueft-disziplinarverfahren-gegen-beamten](https://www.spiegel.de/panorama/justiz/bushido-personenschutz-polizei-in-berlin-prueft-disziplinarverfahren-gegen-beamten-a-4450f0fe-39bf-459d-9941-0e96d41b6103#ref=rss)
-* [https://www.spiegel.de/kultur/musik/not-like-us-verleumdungsklage-von-drake-wegen-kendrick-lamar-disstrack-abgewiesen](https://www.spiegel.de/kultur/musik/not-like-us-verleumdungsklage-von-drake-wegen-kendrick-lamar-disstrack-abgewiesen-a-f811cf1f-a308-4714-b9d4-38339b48d1d0#ref=rss)
-### mann
+* [https://www.spiegel.de/gesundheit/cannabis-der-unsinnige-kampf-gegen-gras-auf-rezept](https://www.spiegel.de/gesundheit/cannabis-der-unsinnige-kampf-gegen-gras-auf-rezept-a-6930fe9b-6e0e-487f-a0f8-fb829d8ed03c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-wie-die-angehoerige-einer-toten-geisel-auf-das-abkommen-blickt](https://www.spiegel.de/ausland/israel-hamas-deal-wie-die-angehoerige-einer-toten-geisel-auf-das-abkommen-blickt-a-641b388b-f68a-42ea-8bb3-99fe6c1d54d1#ref=rss)
+### verhindern
 
-* [https://www.spiegel.de/panorama/justiz/bushido-personenschutz-polizei-in-berlin-prueft-disziplinarverfahren-gegen-beamten](https://www.spiegel.de/panorama/justiz/bushido-personenschutz-polizei-in-berlin-prueft-disziplinarverfahren-gegen-beamten-a-4450f0fe-39bf-459d-9941-0e96d41b6103#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dorsten-24-jaehrige-tot-in-wohnung-gefunden-fahndung-nach-ehemann](https://www.spiegel.de/panorama/justiz/dorsten-24-jaehrige-tot-in-wohnung-gefunden-fahndung-nach-ehemann-a-366c5405-c37e-4cec-8f8b-ba7bb40acea5#ref=rss)
-### arktis
+* [https://www.spiegel.de/gesundheit/cannabis-der-unsinnige-kampf-gegen-gras-auf-rezept](https://www.spiegel.de/gesundheit/cannabis-der-unsinnige-kampf-gegen-gras-auf-rezept-a-6930fe9b-6e0e-487f-a0f8-fb829d8ed03c#ref=rss)
+* [https://www.spiegel.de/panorama/tod-von-wanda-perdelwitz-so-lassen-sich-dooring-unfaelle-vermeiden](https://www.spiegel.de/panorama/tod-von-wanda-perdelwitz-so-lassen-sich-dooring-unfaelle-vermeiden-a-e4604e31-2bde-4cfa-87f9-e41e5c9e0ec4#ref=rss)
+### allem
 
-* [https://www.spiegel.de/wissenschaft/arktis-drei-robbenart-als-staerker-gefaehrdet-eingestuft](https://www.spiegel.de/wissenschaft/arktis-drei-robbenart-als-staerker-gefaehrdet-eingestuft-a-8b19c980-226d-4b4e-b80d-70408a1de7f2#ref=rss)
-### drei
+* [https://www.spiegel.de/gesundheit/cannabis-der-unsinnige-kampf-gegen-gras-auf-rezept](https://www.spiegel.de/gesundheit/cannabis-der-unsinnige-kampf-gegen-gras-auf-rezept-a-6930fe9b-6e0e-487f-a0f8-fb829d8ed03c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-bundessozialministerin-kritisiert-aussagen-der-union-zum-buergergeld](https://www.spiegel.de/politik/deutschland/baerbel-bas-bundessozialministerin-kritisiert-aussagen-der-union-zum-buergergeld-a-01e4cb19-e57d-49ec-bb03-efbc78de003a#ref=rss)
+### dauerhaft
 
-* [https://www.spiegel.de/wissenschaft/arktis-drei-robbenart-als-staerker-gefaehrdet-eingestuft](https://www.spiegel.de/wissenschaft/arktis-drei-robbenart-als-staerker-gefaehrdet-eingestuft-a-8b19c980-226d-4b4e-b80d-70408a1de7f2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dorsten-24-jaehrige-tot-in-wohnung-gefunden-fahndung-nach-ehemann](https://www.spiegel.de/panorama/justiz/dorsten-24-jaehrige-tot-in-wohnung-gefunden-fahndung-nach-ehemann-a-366c5405-c37e-4cec-8f8b-ba7bb40acea5#ref=rss)
-### gefährdet
+* [https://www.spiegel.de/ausland/gaza-gibt-es-jetzt-dauerhaft-frieden-interview-mit-dem-israelischen-ex-general-israel-ziv](https://www.spiegel.de/ausland/gaza-gibt-es-jetzt-dauerhaft-frieden-interview-mit-dem-israelischen-ex-general-israel-ziv-a-8b74279f-fc11-4df1-9b5b-6fdd84202dbf#ref=rss)
+### frieden
 
-* [https://www.spiegel.de/wissenschaft/arktis-drei-robbenart-als-staerker-gefaehrdet-eingestuft](https://www.spiegel.de/wissenschaft/arktis-drei-robbenart-als-staerker-gefaehrdet-eingestuft-a-8b19c980-226d-4b4e-b80d-70408a1de7f2#ref=rss)
-* [https://www.spiegel.de/ausland/japan-regierungskrise-zerruettet-regierungskoalition-sanae-takaichi-wird-womoeglich-nicht-erste-regierungschefin](https://www.spiegel.de/ausland/japan-regierungskrise-zerruettet-regierungskoalition-sanae-takaichi-wird-womoeglich-nicht-erste-regierungschefin-a-707e57c5-43d7-417c-90e1-a4fcc6403254#ref=rss)
-### andere
+* [https://www.spiegel.de/ausland/gaza-gibt-es-jetzt-dauerhaft-frieden-interview-mit-dem-israelischen-ex-general-israel-ziv](https://www.spiegel.de/ausland/gaza-gibt-es-jetzt-dauerhaft-frieden-interview-mit-dem-israelischen-ex-general-israel-ziv-a-8b74279f-fc11-4df1-9b5b-6fdd84202dbf#ref=rss)
+### exgeneral
 
-* [https://www.spiegel.de/wissenschaft/arktis-drei-robbenart-als-staerker-gefaehrdet-eingestuft](https://www.spiegel.de/wissenschaft/arktis-drei-robbenart-als-staerker-gefaehrdet-eingestuft-a-8b19c980-226d-4b4e-b80d-70408a1de7f2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-bundestag-hebt-immunitaet-von-abgeordneten-stephan-brandner-und-moosdorf-auf](https://www.spiegel.de/politik/deutschland/afd-bundestag-hebt-immunitaet-von-abgeordneten-stephan-brandner-und-moosdorf-auf-a-1fc07152-f833-4b1e-91b7-b04051e77ee2#ref=rss)
-### super
+* [https://www.spiegel.de/ausland/gaza-gibt-es-jetzt-dauerhaft-frieden-interview-mit-dem-israelischen-ex-general-israel-ziv](https://www.spiegel.de/ausland/gaza-gibt-es-jetzt-dauerhaft-frieden-interview-mit-dem-israelischen-ex-general-israel-ziv-a-8b74279f-fc11-4df1-9b5b-6fdd84202dbf#ref=rss)
+### ziv
 
-* [https://www.spiegel.de/panorama/super-bowl-turning-point-usa-plant-alternative-halbzeitshow](https://www.spiegel.de/panorama/super-bowl-turning-point-usa-plant-alternative-halbzeitshow-a-203bf517-24fe-4528-9e91-49b1538ecde9#ref=rss)
-### bowl
-
-* [https://www.spiegel.de/panorama/super-bowl-turning-point-usa-plant-alternative-halbzeitshow](https://www.spiegel.de/panorama/super-bowl-turning-point-usa-plant-alternative-halbzeitshow-a-203bf517-24fe-4528-9e91-49b1538ecde9#ref=rss)
-### turning
-
-* [https://www.spiegel.de/panorama/super-bowl-turning-point-usa-plant-alternative-halbzeitshow](https://www.spiegel.de/panorama/super-bowl-turning-point-usa-plant-alternative-halbzeitshow-a-203bf517-24fe-4528-9e91-49b1538ecde9#ref=rss)
-### point
-
-* [https://www.spiegel.de/panorama/super-bowl-turning-point-usa-plant-alternative-halbzeitshow](https://www.spiegel.de/panorama/super-bowl-turning-point-usa-plant-alternative-halbzeitshow-a-203bf517-24fe-4528-9e91-49b1538ecde9#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/super-bowl-turning-point-usa-plant-alternative-halbzeitshow](https://www.spiegel.de/panorama/super-bowl-turning-point-usa-plant-alternative-halbzeitshow-a-203bf517-24fe-4528-9e91-49b1538ecde9#ref=rss)
-### plant
-
-* [https://www.spiegel.de/panorama/super-bowl-turning-point-usa-plant-alternative-halbzeitshow](https://www.spiegel.de/panorama/super-bowl-turning-point-usa-plant-alternative-halbzeitshow-a-203bf517-24fe-4528-9e91-49b1538ecde9#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-bundestag-hebt-immunitaet-von-abgeordneten-stephan-brandner-und-moosdorf-auf](https://www.spiegel.de/politik/deutschland/afd-bundestag-hebt-immunitaet-von-abgeordneten-stephan-brandner-und-moosdorf-auf-a-1fc07152-f833-4b1e-91b7-b04051e77ee2#ref=rss)
-### abgeordneten
-
-* [https://www.spiegel.de/politik/deutschland/afd-bundestag-hebt-immunitaet-von-abgeordneten-stephan-brandner-und-moosdorf-auf](https://www.spiegel.de/politik/deutschland/afd-bundestag-hebt-immunitaet-von-abgeordneten-stephan-brandner-und-moosdorf-auf-a-1fc07152-f833-4b1e-91b7-b04051e77ee2#ref=rss)
-### eigentlich
-
-* [https://www.spiegel.de/wirtschaft/buergergeld-beobachtungen-aus-dem-jobcenter-wir-machen-keine-regeln-wir-setzen-sie-um](https://www.spiegel.de/wirtschaft/buergergeld-beobachtungen-aus-dem-jobcenter-wir-machen-keine-regeln-wir-setzen-sie-um-a-6dc24f60-be18-42b1-9c14-f69cab7e41da#ref=rss)
-* [https://www.spiegel.de/politik/hamburg-altona-neuer-bahnhof-wird-erst-2029-fertig](https://www.spiegel.de/politik/hamburg-altona-neuer-bahnhof-wird-erst-2029-fertig-a-4ef21560-7374-453d-afc5-99cc11161a6d#ref=rss)
-### fandy
-
-* [https://www.spiegel.de/netzwelt/web/fandy-internetstar-bringt-tochter-im-livestream-zur-welt](https://www.spiegel.de/netzwelt/web/fandy-internetstar-bringt-tochter-im-livestream-zur-welt-a-7600ce31-2f07-4306-9c8d-f77341aff10a#ref=rss)
-### bringt
-
-* [https://www.spiegel.de/netzwelt/web/fandy-internetstar-bringt-tochter-im-livestream-zur-welt](https://www.spiegel.de/netzwelt/web/fandy-internetstar-bringt-tochter-im-livestream-zur-welt-a-7600ce31-2f07-4306-9c8d-f77341aff10a#ref=rss)
-* [https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg](https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg-a-b611823e-eac4-470e-877a-06bc9f1b0bd8#ref=rss)
-### livestream
-
-* [https://www.spiegel.de/netzwelt/web/fandy-internetstar-bringt-tochter-im-livestream-zur-welt](https://www.spiegel.de/netzwelt/web/fandy-internetstar-bringt-tochter-im-livestream-zur-welt-a-7600ce31-2f07-4306-9c8d-f77341aff10a#ref=rss)
-* [https://www.spiegel.de/ausland/friedensnobelpreis-livestream-zur-bekanntgabe-des-preistraegers](https://www.spiegel.de/ausland/friedensnobelpreis-livestream-zur-bekanntgabe-des-preistraegers-a-9dcfc839-e630-4b73-9938-3a1004d1a8b6#ref=rss)
-### live
-
-* [https://www.spiegel.de/netzwelt/web/fandy-internetstar-bringt-tochter-im-livestream-zur-welt](https://www.spiegel.de/netzwelt/web/fandy-internetstar-bringt-tochter-im-livestream-zur-welt-a-7600ce31-2f07-4306-9c8d-f77341aff10a#ref=rss)
-* [https://www.spiegel.de/ausland/friedensnobelpreis-livestream-zur-bekanntgabe-des-preistraegers](https://www.spiegel.de/ausland/friedensnobelpreis-livestream-zur-bekanntgabe-des-preistraegers-a-9dcfc839-e630-4b73-9938-3a1004d1a8b6#ref=rss)
-### daran
-
-* [https://www.spiegel.de/netzwelt/web/fandy-internetstar-bringt-tochter-im-livestream-zur-welt](https://www.spiegel.de/netzwelt/web/fandy-internetstar-bringt-tochter-im-livestream-zur-welt-a-7600ce31-2f07-4306-9c8d-f77341aff10a#ref=rss)
-* [https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg](https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg-a-b611823e-eac4-470e-877a-06bc9f1b0bd8#ref=rss)
-### kraft
-
-* [https://www.spiegel.de/ausland/gaza-waffenruhe-zwischen-israel-und-der-hamas-tritt-in-kraft](https://www.spiegel.de/ausland/gaza-waffenruhe-zwischen-israel-und-der-hamas-tritt-in-kraft-a-df0f5112-8993-470c-a9b9-fddff4dacb5a#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### fahrplanwechsel
-
-* [https://www.spiegel.de/wirtschaft/fahrplanwechsel-deutsche-bahn-verzichtet-auf-preiserhoehungen](https://www.spiegel.de/wirtschaft/fahrplanwechsel-deutsche-bahn-verzichtet-auf-preiserhoehungen-a-eb035df3-10be-4876-b82f-20e51aadd0c8#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/fahrplanwechsel-deutsche-bahn-verzichtet-auf-preiserhoehungen](https://www.spiegel.de/wirtschaft/fahrplanwechsel-deutsche-bahn-verzichtet-auf-preiserhoehungen-a-eb035df3-10be-4876-b82f-20e51aadd0c8#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-gibt-es-jetzt-dauerhaft-frieden-interview-mit-dem-israelischen-ex-general-israel-ziv](https://www.spiegel.de/ausland/gaza-gibt-es-jetzt-dauerhaft-frieden-interview-mit-dem-israelischen-ex-general-israel-ziv-a-8b74279f-fc11-4df1-9b5b-6fdd84202dbf#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/wirtschaft/fahrplanwechsel-deutsche-bahn-verzichtet-auf-preiserhoehungen](https://www.spiegel.de/wirtschaft/fahrplanwechsel-deutsche-bahn-verzichtet-auf-preiserhoehungen-a-eb035df3-10be-4876-b82f-20e51aadd0c8#ref=rss)
-* [https://www.spiegel.de/kultur/musik/no-angels-veroeffentlichen-neuen-song](https://www.spiegel.de/kultur/musik/no-angels-veroeffentlichen-neuen-song-a-a801ad5c-48ec-4bd1-b87f-4b8b040182aa#ref=rss)
-### ohne
+* [https://www.spiegel.de/ausland/gaza-gibt-es-jetzt-dauerhaft-frieden-interview-mit-dem-israelischen-ex-general-israel-ziv](https://www.spiegel.de/ausland/gaza-gibt-es-jetzt-dauerhaft-frieden-interview-mit-dem-israelischen-ex-general-israel-ziv-a-8b74279f-fc11-4df1-9b5b-6fdd84202dbf#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/eiskeller-prozess-eltern-von-hanna-w-ziehen-sich-aus-verfahren-zurueck](https://www.spiegel.de/panorama/justiz/eiskeller-prozess-eltern-von-hanna-w-ziehen-sich-aus-verfahren-zurueck-a-6dad3649-dad6-41cc-b9e8-88e9ca529b82#ref=rss)
+### tod
 
-* [https://www.spiegel.de/wirtschaft/fahrplanwechsel-deutsche-bahn-verzichtet-auf-preiserhoehungen](https://www.spiegel.de/wirtschaft/fahrplanwechsel-deutsche-bahn-verzichtet-auf-preiserhoehungen-a-eb035df3-10be-4876-b82f-20e51aadd0c8#ref=rss)
-* [https://www.spiegel.de/kultur/musik/not-like-us-verleumdungsklage-von-drake-wegen-kendrick-lamar-disstrack-abgewiesen](https://www.spiegel.de/kultur/musik/not-like-us-verleumdungsklage-von-drake-wegen-kendrick-lamar-disstrack-abgewiesen-a-f811cf1f-a308-4714-b9d4-38339b48d1d0#ref=rss)
-### florian
+* [https://www.spiegel.de/panorama/tod-von-wanda-perdelwitz-so-lassen-sich-dooring-unfaelle-vermeiden](https://www.spiegel.de/panorama/tod-von-wanda-perdelwitz-so-lassen-sich-dooring-unfaelle-vermeiden-a-e4604e31-2bde-4cfa-87f9-e41e5c9e0ec4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/eiskeller-prozess-eltern-von-hanna-w-ziehen-sich-aus-verfahren-zurueck](https://www.spiegel.de/panorama/justiz/eiskeller-prozess-eltern-von-hanna-w-ziehen-sich-aus-verfahren-zurueck-a-6dad3649-dad6-41cc-b9e8-88e9ca529b82#ref=rss)
+### wanda
 
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-bei-wm-qualifikation-warum-der-dfb-star-beim-fc-liverpool-viel-besser-ist-als-behauptet](https://www.spiegel.de/sport/fussball/florian-wirtz-bei-wm-qualifikation-warum-der-dfb-star-beim-fc-liverpool-viel-besser-ist-als-behauptet-a-f532c6d1-8983-48fd-b73a-31e86d74df4b#ref=rss)
-### wirtz
+* [https://www.spiegel.de/panorama/tod-von-wanda-perdelwitz-so-lassen-sich-dooring-unfaelle-vermeiden](https://www.spiegel.de/panorama/tod-von-wanda-perdelwitz-so-lassen-sich-dooring-unfaelle-vermeiden-a-e4604e31-2bde-4cfa-87f9-e41e5c9e0ec4#ref=rss)
+### perdelwitz
 
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-bei-wm-qualifikation-warum-der-dfb-star-beim-fc-liverpool-viel-besser-ist-als-behauptet](https://www.spiegel.de/sport/fussball/florian-wirtz-bei-wm-qualifikation-warum-der-dfb-star-beim-fc-liverpool-viel-besser-ist-als-behauptet-a-f532c6d1-8983-48fd-b73a-31e86d74df4b#ref=rss)
-### fc
+* [https://www.spiegel.de/panorama/tod-von-wanda-perdelwitz-so-lassen-sich-dooring-unfaelle-vermeiden](https://www.spiegel.de/panorama/tod-von-wanda-perdelwitz-so-lassen-sich-dooring-unfaelle-vermeiden-a-e4604e31-2bde-4cfa-87f9-e41e5c9e0ec4#ref=rss)
+### dooringunfälle
 
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-bei-wm-qualifikation-warum-der-dfb-star-beim-fc-liverpool-viel-besser-ist-als-behauptet](https://www.spiegel.de/sport/fussball/florian-wirtz-bei-wm-qualifikation-warum-der-dfb-star-beim-fc-liverpool-viel-besser-ist-als-behauptet-a-f532c6d1-8983-48fd-b73a-31e86d74df4b#ref=rss)
-### liverpool
+* [https://www.spiegel.de/panorama/tod-von-wanda-perdelwitz-so-lassen-sich-dooring-unfaelle-vermeiden](https://www.spiegel.de/panorama/tod-von-wanda-perdelwitz-so-lassen-sich-dooring-unfaelle-vermeiden-a-e4604e31-2bde-4cfa-87f9-e41e5c9e0ec4#ref=rss)
+### solche
 
-* [https://www.spiegel.de/sport/fussball/florian-wirtz-bei-wm-qualifikation-warum-der-dfb-star-beim-fc-liverpool-viel-besser-ist-als-behauptet](https://www.spiegel.de/sport/fussball/florian-wirtz-bei-wm-qualifikation-warum-der-dfb-star-beim-fc-liverpool-viel-besser-ist-als-behauptet-a-f532c6d1-8983-48fd-b73a-31e86d74df4b#ref=rss)
-### hamburgaltona
+* [https://www.spiegel.de/panorama/tod-von-wanda-perdelwitz-so-lassen-sich-dooring-unfaelle-vermeiden](https://www.spiegel.de/panorama/tod-von-wanda-perdelwitz-so-lassen-sich-dooring-unfaelle-vermeiden-a-e4604e31-2bde-4cfa-87f9-e41e5c9e0ec4#ref=rss)
+* [https://www.spiegel.de/auto/e-scooter-experten-fordern-groessere-raeder-und-fahrerlaubnispflicht](https://www.spiegel.de/auto/e-scooter-experten-fordern-groessere-raeder-und-fahrerlaubnispflicht-a-c9e0d65a-91c3-4ad1-b322-aba5e59f0e82#ref=rss)
+### passieren
 
-* [https://www.spiegel.de/politik/hamburg-altona-neuer-bahnhof-wird-erst-2029-fertig](https://www.spiegel.de/politik/hamburg-altona-neuer-bahnhof-wird-erst-2029-fertig-a-4ef21560-7374-453d-afc5-99cc11161a6d#ref=rss)
-### bahnhof
+* [https://www.spiegel.de/panorama/tod-von-wanda-perdelwitz-so-lassen-sich-dooring-unfaelle-vermeiden](https://www.spiegel.de/panorama/tod-von-wanda-perdelwitz-so-lassen-sich-dooring-unfaelle-vermeiden-a-e4604e31-2bde-4cfa-87f9-e41e5c9e0ec4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/swan-und-lemmon-wie-sie-die-beiden-kometen-am-besten-beobachten](https://www.spiegel.de/wissenschaft/swan-und-lemmon-wie-sie-die-beiden-kometen-am-besten-beobachten-a-7559d237-f4f7-4b99-85d7-2f84eb5fab0d#ref=rss)
+### china
 
-* [https://www.spiegel.de/politik/hamburg-altona-neuer-bahnhof-wird-erst-2029-fertig](https://www.spiegel.de/politik/hamburg-altona-neuer-bahnhof-wird-erst-2029-fertig-a-4ef21560-7374-453d-afc5-99cc11161a6d#ref=rss)
-### christian
+* [https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage](https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage-a-e4f661ca-ff04-47f7-88f1-dbc2e4346e17#ref=rss)
+### treffen
 
-* [https://www.spiegel.de/sport/fussball/christian-streichs-probleme-mit-dem-alltag-als-fussball-rentner](https://www.spiegel.de/sport/fussball/christian-streichs-probleme-mit-dem-alltag-als-fussball-rentner-a-f60e0a36-a927-4d4b-bd8c-134e0080234d#ref=rss)
-### streich
+* [https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage](https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage-a-e4f661ca-ff04-47f7-88f1-dbc2e4346e17#ref=rss)
+### xi
 
-* [https://www.spiegel.de/sport/fussball/christian-streichs-probleme-mit-dem-alltag-als-fussball-rentner](https://www.spiegel.de/sport/fussball/christian-streichs-probleme-mit-dem-alltag-als-fussball-rentner-a-f60e0a36-a927-4d4b-bd8c-134e0080234d#ref=rss)
-### elch
+* [https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage](https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage-a-e4f661ca-ff04-47f7-88f1-dbc2e4346e17#ref=rss)
+### jinping
 
-* [https://www.spiegel.de/wissenschaft/schwarzwald-elch-in-oberwolfach-gesichtet-wird-er-heimisch](https://www.spiegel.de/wissenschaft/schwarzwald-elch-in-oberwolfach-gesichtet-wird-er-heimisch-a-f52fd425-3641-46b0-888b-affad7262f47#ref=rss)
-### heimat
+* [https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage](https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage-a-e4f661ca-ff04-47f7-88f1-dbc2e4346e17#ref=rss)
+### sehe
 
-* [https://www.spiegel.de/wissenschaft/schwarzwald-elch-in-oberwolfach-gesichtet-wird-er-heimisch](https://www.spiegel.de/wissenschaft/schwarzwald-elch-in-oberwolfach-gesichtet-wird-er-heimisch-a-f52fd425-3641-46b0-888b-affad7262f47#ref=rss)
-* [https://www.spiegel.de/ausland/friedensnobelpreis-2025-maria-corina-machado-aus-venezuela-gewinnt](https://www.spiegel.de/ausland/friedensnobelpreis-2025-maria-corina-machado-aus-venezuela-gewinnt-a-e7b763ff-88a0-419a-9aa1-8c4533e8bbc6#ref=rss)
-### sanae
+* [https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage](https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage-a-e4f661ca-ff04-47f7-88f1-dbc2e4346e17#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/ausland/japan-regierungskrise-zerruettet-regierungskoalition-sanae-takaichi-wird-womoeglich-nicht-erste-regierungschefin](https://www.spiegel.de/ausland/japan-regierungskrise-zerruettet-regierungskoalition-sanae-takaichi-wird-womoeglich-nicht-erste-regierungschefin-a-707e57c5-43d7-417c-90e1-a4fcc6403254#ref=rss)
-### takaichi
+* [https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage](https://www.spiegel.de/wirtschaft/donald-trump-droht-china-mit-massiven-zollerhoehungen-und-stellt-treffen-mit-xi-jinping-infrage-a-e4f661ca-ff04-47f7-88f1-dbc2e4346e17#ref=rss)
+* [https://www.spiegel.de/stil/thomas-mueller-das-sagt-ein-hamburger-barber-zu-seinem-neuen-style](https://www.spiegel.de/stil/thomas-mueller-das-sagt-ein-hamburger-barber-zu-seinem-neuen-style-a-c4aeddff-7813-4f4b-87aa-579b38f01d73#ref=rss)
+### melania
 
-* [https://www.spiegel.de/ausland/japan-regierungskrise-zerruettet-regierungskoalition-sanae-takaichi-wird-womoeglich-nicht-erste-regierungschefin](https://www.spiegel.de/ausland/japan-regierungskrise-zerruettet-regierungskoalition-sanae-takaichi-wird-womoeglich-nicht-erste-regierungschefin-a-707e57c5-43d7-417c-90e1-a4fcc6403254#ref=rss)
-### wenige
+* [https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet](https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet-a-2a9b6c96-e985-4701-b1b5-480b1bb12e30#ref=rss)
+### first
 
-* [https://www.spiegel.de/ausland/japan-regierungskrise-zerruettet-regierungskoalition-sanae-takaichi-wird-womoeglich-nicht-erste-regierungschefin](https://www.spiegel.de/ausland/japan-regierungskrise-zerruettet-regierungskoalition-sanae-takaichi-wird-womoeglich-nicht-erste-regierungschefin-a-707e57c5-43d7-417c-90e1-a4fcc6403254#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dorsten-24-jaehrige-tot-in-wohnung-gefunden-fahndung-nach-ehemann](https://www.spiegel.de/panorama/justiz/dorsten-24-jaehrige-tot-in-wohnung-gefunden-fahndung-nach-ehemann-a-366c5405-c37e-4cec-8f8b-ba7bb40acea5#ref=rss)
-### not
+* [https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet](https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet-a-2a9b6c96-e985-4701-b1b5-480b1bb12e30#ref=rss)
+### lady
 
-* [https://www.spiegel.de/kultur/musik/not-like-us-verleumdungsklage-von-drake-wegen-kendrick-lamar-disstrack-abgewiesen](https://www.spiegel.de/kultur/musik/not-like-us-verleumdungsklage-von-drake-wegen-kendrick-lamar-disstrack-abgewiesen-a-f811cf1f-a308-4714-b9d4-38339b48d1d0#ref=rss)
-### like
+* [https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet](https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet-a-2a9b6c96-e985-4701-b1b5-480b1bb12e30#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/kultur/musik/not-like-us-verleumdungsklage-von-drake-wegen-kendrick-lamar-disstrack-abgewiesen](https://www.spiegel.de/kultur/musik/not-like-us-verleumdungsklage-von-drake-wegen-kendrick-lamar-disstrack-abgewiesen-a-f811cf1f-a308-4714-b9d4-38339b48d1d0#ref=rss)
-### us
+* [https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet](https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet-a-2a9b6c96-e985-4701-b1b5-480b1bb12e30#ref=rss)
+* [https://www.spiegel.de/ausland/russland-aserbaidschan-russischer-journalist-aus-haft-in-baku-entlassen](https://www.spiegel.de/ausland/russland-aserbaidschan-russischer-journalist-aus-haft-in-baku-entlassen-a-25e24d69-9403-47a0-a81f-a4f99cc557e2#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/kultur/musik/not-like-us-verleumdungsklage-von-drake-wegen-kendrick-lamar-disstrack-abgewiesen](https://www.spiegel.de/kultur/musik/not-like-us-verleumdungsklage-von-drake-wegen-kendrick-lamar-disstrack-abgewiesen-a-f811cf1f-a308-4714-b9d4-38339b48d1d0#ref=rss)
-### italien
+* [https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet](https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet-a-2a9b6c96-e985-4701-b1b5-480b1bb12e30#ref=rss)
+### acht
 
-* [https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg](https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg-a-b611823e-eac4-470e-877a-06bc9f1b0bd8#ref=rss)
-### nirgendwo
+* [https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet](https://www.spiegel.de/ausland/melania-trump-putin-hat-auf-brief-der-first-lady-geantwortet-a-2a9b6c96-e985-4701-b1b5-480b1bb12e30#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts](https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts-a-7a3dae6e-41d9-4080-bd83-8271433a0121#ref=rss)
+### hoffnung
 
-* [https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg](https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg-a-b611823e-eac4-470e-877a-06bc9f1b0bd8#ref=rss)
-### europa
+* [https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast](https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast-a-dd6a257e-9bd6-41bc-a118-e23cde430744#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+### skepsis
 
-* [https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg](https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg-a-b611823e-eac4-470e-877a-06bc9f1b0bd8#ref=rss)
-### demonstrieren
+* [https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast](https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast-a-dd6a257e-9bd6-41bc-a118-e23cde430744#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+### erwartet
 
-* [https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg](https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg-a-b611823e-eac4-470e-877a-06bc9f1b0bd8#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast](https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast-a-dd6a257e-9bd6-41bc-a118-e23cde430744#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+### rückkehr
+
+* [https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast](https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast-a-dd6a257e-9bd6-41bc-a118-e23cde430744#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+### vollständige
+
+* [https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast](https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast-a-dd6a257e-9bd6-41bc-a118-e23cde430744#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg](https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg-a-b611823e-eac4-470e-877a-06bc9f1b0bd8#ref=rss)
-### gazakrieg
+* [https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast](https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast-a-dd6a257e-9bd6-41bc-a118-e23cde430744#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+### reagieren
 
-* [https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg](https://www.spiegel.de/ausland/italien-nirgendwo-in-europa-demonstrieren-so-viele-menschen-gegen-den-gaza-krieg-a-b611823e-eac4-470e-877a-06bc9f1b0bd8#ref=rss)
-### friedensnobelpreis
+* [https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast](https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast-a-dd6a257e-9bd6-41bc-a118-e23cde430744#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+### weiterhin
 
-* [https://www.spiegel.de/ausland/friedensnobelpreis-2025-maria-corina-machado-aus-venezuela-gewinnt](https://www.spiegel.de/ausland/friedensnobelpreis-2025-maria-corina-machado-aus-venezuela-gewinnt-a-e7b763ff-88a0-419a-9aa1-8c4533e8bbc6#ref=rss)
-* [https://www.spiegel.de/ausland/friedensnobelpreis-livestream-zur-bekanntgabe-des-preistraegers](https://www.spiegel.de/ausland/friedensnobelpreis-livestream-zur-bekanntgabe-des-preistraegers-a-9dcfc839-e630-4b73-9938-3a1004d1a8b6#ref=rss)
-### bekanntgabe
+* [https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast](https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast-a-dd6a257e-9bd6-41bc-a118-e23cde430744#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+### verunsichert
 
-* [https://www.spiegel.de/ausland/friedensnobelpreis-livestream-zur-bekanntgabe-des-preistraegers](https://www.spiegel.de/ausland/friedensnobelpreis-livestream-zur-bekanntgabe-des-preistraegers-a-9dcfc839-e630-4b73-9938-3a1004d1a8b6#ref=rss)
-### preisträgers
+* [https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast](https://www.spiegel.de/ausland/israel-und-gaza-reaktionen-auf-trumps-friedensplan-und-die-waffenruhe-podcast-a-dd6a257e-9bd6-41bc-a118-e23cde430744#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+### israelhamasdeal
 
-* [https://www.spiegel.de/ausland/friedensnobelpreis-livestream-zur-bekanntgabe-des-preistraegers](https://www.spiegel.de/ausland/friedensnobelpreis-livestream-zur-bekanntgabe-des-preistraegers-a-9dcfc839-e630-4b73-9938-3a1004d1a8b6#ref=rss)
-### dorsten
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-deal-wie-die-angehoerige-einer-toten-geisel-auf-das-abkommen-blickt](https://www.spiegel.de/ausland/israel-hamas-deal-wie-die-angehoerige-einer-toten-geisel-auf-das-abkommen-blickt-a-641b388b-f68a-42ea-8bb3-99fe6c1d54d1#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/panorama/justiz/dorsten-24-jaehrige-tot-in-wohnung-gefunden-fahndung-nach-ehemann](https://www.spiegel.de/panorama/justiz/dorsten-24-jaehrige-tot-in-wohnung-gefunden-fahndung-nach-ehemann-a-366c5405-c37e-4cec-8f8b-ba7bb40acea5#ref=rss)
-### 24jährige
+* [https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort](https://www.spiegel.de/ausland/israel-hamas-deal-so-zeigt-sich-donald-trumps-friedensplan-vor-ort-a-44b2aa4a-595e-482c-b5b1-6ac6a70e46eb#ref=rss)
+* [https://www.spiegel.de/ausland/maria-corina-machado-friedensnobelpreistraegerin-widmet-auszeichnung-den-venezolanern](https://www.spiegel.de/ausland/maria-corina-machado-friedensnobelpreistraegerin-widmet-auszeichnung-den-venezolanern-a-f74cbea3-2b20-410d-aa2e-f2c39314d52c#ref=rss)
+### heinz
 
-* [https://www.spiegel.de/panorama/justiz/dorsten-24-jaehrige-tot-in-wohnung-gefunden-fahndung-nach-ehemann](https://www.spiegel.de/panorama/justiz/dorsten-24-jaehrige-tot-in-wohnung-gefunden-fahndung-nach-ehemann-a-366c5405-c37e-4cec-8f8b-ba7bb40acea5#ref=rss)
-### tot
+* [https://www.spiegel.de/panorama/leute/heinz-hoenig-macht-auf-st-pauli-einen-drauf-zumindest-ein-bisschen](https://www.spiegel.de/panorama/leute/heinz-hoenig-macht-auf-st-pauli-einen-drauf-zumindest-ein-bisschen-a-3dc5e460-1004-47d6-a10d-4646c729d1e7#ref=rss)
+### hoenig
 
-* [https://www.spiegel.de/panorama/justiz/dorsten-24-jaehrige-tot-in-wohnung-gefunden-fahndung-nach-ehemann](https://www.spiegel.de/panorama/justiz/dorsten-24-jaehrige-tot-in-wohnung-gefunden-fahndung-nach-ehemann-a-366c5405-c37e-4cec-8f8b-ba7bb40acea5#ref=rss)
-### wohnung
+* [https://www.spiegel.de/panorama/leute/heinz-hoenig-macht-auf-st-pauli-einen-drauf-zumindest-ein-bisschen](https://www.spiegel.de/panorama/leute/heinz-hoenig-macht-auf-st-pauli-einen-drauf-zumindest-ein-bisschen-a-3dc5e460-1004-47d6-a10d-4646c729d1e7#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/panorama/justiz/dorsten-24-jaehrige-tot-in-wohnung-gefunden-fahndung-nach-ehemann](https://www.spiegel.de/panorama/justiz/dorsten-24-jaehrige-tot-in-wohnung-gefunden-fahndung-nach-ehemann-a-366c5405-c37e-4cec-8f8b-ba7bb40acea5#ref=rss)
-### zahlen
+* [https://www.spiegel.de/panorama/leute/heinz-hoenig-macht-auf-st-pauli-einen-drauf-zumindest-ein-bisschen](https://www.spiegel.de/panorama/leute/heinz-hoenig-macht-auf-st-pauli-einen-drauf-zumindest-ein-bisschen-a-3dc5e460-1004-47d6-a10d-4646c729d1e7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/closed-kartellamt-erlaubt-verkauf-von-insolventer-modemarke-aus-hamburg](https://www.spiegel.de/wirtschaft/unternehmen/closed-kartellamt-erlaubt-verkauf-von-insolventer-modemarke-aus-hamburg-a-0cf6c348-a3f8-471e-883d-28a0cad8b19d#ref=rss)
+### machado
 
-* [https://www.spiegel.de/wirtschaft/service/mietspiegel-rechner-zahlen-sie-zu-viel-miete](https://www.spiegel.de/wirtschaft/service/mietspiegel-rechner-zahlen-sie-zu-viel-miete-a-17126383-523a-411c-aab0-06dbfef8658f#ref=rss)
-### miete
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd-a-f4b3f721-ca26-48ce-b2ac-4440c1abf3b8#ref=rss)
+* [https://www.spiegel.de/ausland/maria-corina-machado-friedensnobelpreistraegerin-widmet-auszeichnung-den-venezolanern](https://www.spiegel.de/ausland/maria-corina-machado-friedensnobelpreistraegerin-widmet-auszeichnung-den-venezolanern-a-f74cbea3-2b20-410d-aa2e-f2c39314d52c#ref=rss)
+### friedensnobelpreises
 
-* [https://www.spiegel.de/wirtschaft/service/mietspiegel-rechner-zahlen-sie-zu-viel-miete](https://www.spiegel.de/wirtschaft/service/mietspiegel-rechner-zahlen-sie-zu-viel-miete-a-17126383-523a-411c-aab0-06dbfef8658f#ref=rss)
-### ukraine
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd-a-f4b3f721-ca26-48ce-b2ac-4440c1abf3b8#ref=rss)
+* [https://www.spiegel.de/ausland/maria-corina-machado-friedensnobelpreistraegerin-widmet-auszeichnung-den-venezolanern](https://www.spiegel.de/ausland/maria-corina-machado-friedensnobelpreistraegerin-widmet-auszeichnung-den-venezolanern-a-f74cbea3-2b20-410d-aa2e-f2c39314d52c#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/ukraine-so-hat-sich-der-krieg-veraendert](https://www.spiegel.de/ausland/ukraine-so-hat-sich-der-krieg-veraendert-a-e5dc42bf-ce56-4426-bfc5-0b06db01d645#ref=rss)
-### militärs
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd-a-f4b3f721-ca26-48ce-b2ac-4440c1abf3b8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/swan-und-lemmon-wie-sie-die-beiden-kometen-am-besten-beobachten](https://www.spiegel.de/wissenschaft/swan-und-lemmon-wie-sie-die-beiden-kometen-am-besten-beobachten-a-7559d237-f4f7-4b99-85d7-2f84eb5fab0d#ref=rss)
+### lage
 
-* [https://www.spiegel.de/panorama/ukraine-krieg-deutsche-militaers-wollten-bis-kurz-vor-der-krim-annexion-russen-ausbilden](https://www.spiegel.de/panorama/ukraine-krieg-deutsche-militaers-wollten-bis-kurz-vor-der-krim-annexion-russen-ausbilden-a-cafb4154-f269-47a9-8bbf-ec2a2d74610d#ref=rss)
-### kurz
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-friedensnobelpreis-fuer-maria-corina-machado-donald-trump-gaza-afd-a-f4b3f721-ca26-48ce-b2ac-4440c1abf3b8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/closed-kartellamt-erlaubt-verkauf-von-insolventer-modemarke-aus-hamburg](https://www.spiegel.de/wirtschaft/unternehmen/closed-kartellamt-erlaubt-verkauf-von-insolventer-modemarke-aus-hamburg-a-0cf6c348-a3f8-471e-883d-28a0cad8b19d#ref=rss)
+### thomas
 
-* [https://www.spiegel.de/panorama/ukraine-krieg-deutsche-militaers-wollten-bis-kurz-vor-der-krim-annexion-russen-ausbilden](https://www.spiegel.de/panorama/ukraine-krieg-deutsche-militaers-wollten-bis-kurz-vor-der-krim-annexion-russen-ausbilden-a-cafb4154-f269-47a9-8bbf-ec2a2d74610d#ref=rss)
-### russen
+* [https://www.spiegel.de/stil/thomas-mueller-das-sagt-ein-hamburger-barber-zu-seinem-neuen-style](https://www.spiegel.de/stil/thomas-mueller-das-sagt-ein-hamburger-barber-zu-seinem-neuen-style-a-c4aeddff-7813-4f4b-87aa-579b38f01d73#ref=rss)
+### müller
 
-* [https://www.spiegel.de/panorama/ukraine-krieg-deutsche-militaers-wollten-bis-kurz-vor-der-krim-annexion-russen-ausbilden](https://www.spiegel.de/panorama/ukraine-krieg-deutsche-militaers-wollten-bis-kurz-vor-der-krim-annexion-russen-ausbilden-a-cafb4154-f269-47a9-8bbf-ec2a2d74610d#ref=rss)
-### konnte
+* [https://www.spiegel.de/stil/thomas-mueller-das-sagt-ein-hamburger-barber-zu-seinem-neuen-style](https://www.spiegel.de/stil/thomas-mueller-das-sagt-ein-hamburger-barber-zu-seinem-neuen-style-a-c4aeddff-7813-4f4b-87aa-579b38f01d73#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/panorama/ukraine-krieg-deutsche-militaers-wollten-bis-kurz-vor-der-krim-annexion-russen-ausbilden](https://www.spiegel.de/panorama/ukraine-krieg-deutsche-militaers-wollten-bis-kurz-vor-der-krim-annexion-russen-ausbilden-a-cafb4154-f269-47a9-8bbf-ec2a2d74610d#ref=rss)
-* [https://www.spiegel.de/sport/basketball/lebron-james-la-lakers-star-verpasst-saisonstart-wegen-rueckenschmerzen](https://www.spiegel.de/sport/basketball/lebron-james-la-lakers-star-verpasst-saisonstart-wegen-rueckenschmerzen-a-fd14e7f6-1845-4104-988a-463d255479a3#ref=rss)
-### frankfurt
+* [https://www.spiegel.de/stil/thomas-mueller-das-sagt-ein-hamburger-barber-zu-seinem-neuen-style](https://www.spiegel.de/stil/thomas-mueller-das-sagt-ein-hamburger-barber-zu-seinem-neuen-style-a-c4aeddff-7813-4f4b-87aa-579b38f01d73#ref=rss)
+### barber
 
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-ermittlungen-gegen-17-polizisten-in-hessen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-ermittlungen-gegen-17-polizisten-in-hessen-a-8bb770d0-755b-4d3b-806f-57f24a39cc4a#ref=rss)
-### main
+* [https://www.spiegel.de/stil/thomas-mueller-das-sagt-ein-hamburger-barber-zu-seinem-neuen-style](https://www.spiegel.de/stil/thomas-mueller-das-sagt-ein-hamburger-barber-zu-seinem-neuen-style-a-c4aeddff-7813-4f4b-87aa-579b38f01d73#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-ermittlungen-gegen-17-polizisten-in-hessen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-ermittlungen-gegen-17-polizisten-in-hessen-a-8bb770d0-755b-4d3b-806f-57f24a39cc4a#ref=rss)
-### körperverletzung
+* [https://www.spiegel.de/wissenschaft/schwertdrache-von-dorset-neue-meeressaurier-art-identifiziert](https://www.spiegel.de/wissenschaft/schwertdrache-von-dorset-neue-meeressaurier-art-identifiziert-a-da2a10a6-2c63-48d7-bd0f-8268672b6f9b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ki-eu-plant-sechs-neue-gigafactorys-aber-nicht-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/ki-eu-plant-sechs-neue-gigafactorys-aber-nicht-in-deutschland-a-ea481bbb-4e2f-455b-b923-c902462e3cb5#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-ermittlungen-gegen-17-polizisten-in-hessen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-ermittlungen-gegen-17-polizisten-in-hessen-a-8bb770d0-755b-4d3b-806f-57f24a39cc4a#ref=rss)
-### amt
+* [https://www.spiegel.de/auto/verbrenner-aus-truegerische-flexibilitaet-meinung](https://www.spiegel.de/auto/verbrenner-aus-truegerische-flexibilitaet-meinung-a-4adc2bed-9ce7-4fbb-abc7-e3fb985637f6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-bundessozialministerin-kritisiert-aussagen-der-union-zum-buergergeld](https://www.spiegel.de/politik/deutschland/baerbel-bas-bundessozialministerin-kritisiert-aussagen-der-union-zum-buergergeld-a-01e4cb19-e57d-49ec-bb03-efbc78de003a#ref=rss)
+### druck
 
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-ermittlungen-gegen-17-polizisten-in-hessen](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-ermittlungen-gegen-17-polizisten-in-hessen-a-8bb770d0-755b-4d3b-806f-57f24a39cc4a#ref=rss)
-### lebron
+* [https://www.spiegel.de/auto/verbrenner-aus-truegerische-flexibilitaet-meinung](https://www.spiegel.de/auto/verbrenner-aus-truegerische-flexibilitaet-meinung-a-4adc2bed-9ce7-4fbb-abc7-e3fb985637f6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-bundessozialministerin-kritisiert-aussagen-der-union-zum-buergergeld](https://www.spiegel.de/politik/deutschland/baerbel-bas-bundessozialministerin-kritisiert-aussagen-der-union-zum-buergergeld-a-01e4cb19-e57d-49ec-bb03-efbc78de003a#ref=rss)
+### closed
 
-* [https://www.spiegel.de/sport/basketball/lebron-james-la-lakers-star-verpasst-saisonstart-wegen-rueckenschmerzen](https://www.spiegel.de/sport/basketball/lebron-james-la-lakers-star-verpasst-saisonstart-wegen-rueckenschmerzen-a-fd14e7f6-1845-4104-988a-463d255479a3#ref=rss)
-### james
+* [https://www.spiegel.de/wirtschaft/unternehmen/closed-kartellamt-erlaubt-verkauf-von-insolventer-modemarke-aus-hamburg](https://www.spiegel.de/wirtschaft/unternehmen/closed-kartellamt-erlaubt-verkauf-von-insolventer-modemarke-aus-hamburg-a-0cf6c348-a3f8-471e-883d-28a0cad8b19d#ref=rss)
+### swan
 
-* [https://www.spiegel.de/sport/basketball/lebron-james-la-lakers-star-verpasst-saisonstart-wegen-rueckenschmerzen](https://www.spiegel.de/sport/basketball/lebron-james-la-lakers-star-verpasst-saisonstart-wegen-rueckenschmerzen-a-fd14e7f6-1845-4104-988a-463d255479a3#ref=rss)
-### la
+* [https://www.spiegel.de/wissenschaft/swan-und-lemmon-wie-sie-die-beiden-kometen-am-besten-beobachten](https://www.spiegel.de/wissenschaft/swan-und-lemmon-wie-sie-die-beiden-kometen-am-besten-beobachten-a-7559d237-f4f7-4b99-85d7-2f84eb5fab0d#ref=rss)
+### lemmon
 
-* [https://www.spiegel.de/sport/basketball/lebron-james-la-lakers-star-verpasst-saisonstart-wegen-rueckenschmerzen](https://www.spiegel.de/sport/basketball/lebron-james-la-lakers-star-verpasst-saisonstart-wegen-rueckenschmerzen-a-fd14e7f6-1845-4104-988a-463d255479a3#ref=rss)
-### saisonstart
+* [https://www.spiegel.de/wissenschaft/swan-und-lemmon-wie-sie-die-beiden-kometen-am-besten-beobachten](https://www.spiegel.de/wissenschaft/swan-und-lemmon-wie-sie-die-beiden-kometen-am-besten-beobachten-a-7559d237-f4f7-4b99-85d7-2f84eb5fab0d#ref=rss)
+### besten
 
-* [https://www.spiegel.de/sport/basketball/lebron-james-la-lakers-star-verpasst-saisonstart-wegen-rueckenschmerzen](https://www.spiegel.de/sport/basketball/lebron-james-la-lakers-star-verpasst-saisonstart-wegen-rueckenschmerzen-a-fd14e7f6-1845-4104-988a-463d255479a3#ref=rss)
-### no
+* [https://www.spiegel.de/wissenschaft/swan-und-lemmon-wie-sie-die-beiden-kometen-am-besten-beobachten](https://www.spiegel.de/wissenschaft/swan-und-lemmon-wie-sie-die-beiden-kometen-am-besten-beobachten-a-7559d237-f4f7-4b99-85d7-2f84eb5fab0d#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/ewald-arenz-die-besten-herbsttipps-des-bestsellerautors-fuer-franken](https://www.spiegel.de/reise/deutschland/ewald-arenz-die-besten-herbsttipps-des-bestsellerautors-fuer-franken-a-0dc269f5-4c28-4fbf-99f7-9b623c7dccfd#ref=rss)
+### kifabriken
 
-* [https://www.spiegel.de/kultur/musik/no-angels-veroeffentlichen-neuen-song](https://www.spiegel.de/kultur/musik/no-angels-veroeffentlichen-neuen-song-a-a801ad5c-48ec-4bd1-b87f-4b8b040182aa#ref=rss)
-### angels
+* [https://www.spiegel.de/wirtschaft/unternehmen/ki-eu-plant-sechs-neue-gigafactorys-aber-nicht-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/ki-eu-plant-sechs-neue-gigafactorys-aber-nicht-in-deutschland-a-ea481bbb-4e2f-455b-b923-c902462e3cb5#ref=rss)
+### aktuellen
 
-* [https://www.spiegel.de/kultur/musik/no-angels-veroeffentlichen-neuen-song](https://www.spiegel.de/kultur/musik/no-angels-veroeffentlichen-neuen-song-a-a801ad5c-48ec-4bd1-b87f-4b8b040182aa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ki-eu-plant-sechs-neue-gigafactorys-aber-nicht-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/ki-eu-plant-sechs-neue-gigafactorys-aber-nicht-in-deutschland-a-ea481bbb-4e2f-455b-b923-c902462e3cb5#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts](https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts-a-7a3dae6e-41d9-4080-bd83-8271433a0121#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts](https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts-a-7a3dae6e-41d9-4080-bd83-8271433a0121#ref=rss)
+* [https://www.spiegel.de/kultur/musik/the-life-of-a-showgirl-hat-taylor-swift-fuer-ihr-neues-album-bei-anderen-kuenstlern-geklaut](https://www.spiegel.de/kultur/musik/the-life-of-a-showgirl-hat-taylor-swift-fuer-ihr-neues-album-bei-anderen-kuenstlern-geklaut-a-9d54f813-24d8-460f-9af4-78f8914d1a1f#ref=rss)
+### life
+
+* [https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts](https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts-a-7a3dae6e-41d9-4080-bd83-8271433a0121#ref=rss)
+* [https://www.spiegel.de/kultur/musik/the-life-of-a-showgirl-hat-taylor-swift-fuer-ihr-neues-album-bei-anderen-kuenstlern-geklaut](https://www.spiegel.de/kultur/musik/the-life-of-a-showgirl-hat-taylor-swift-fuer-ihr-neues-album-bei-anderen-kuenstlern-geklaut-a-9d54f813-24d8-460f-9af4-78f8914d1a1f#ref=rss)
+### of
+
+* [https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts](https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts-a-7a3dae6e-41d9-4080-bd83-8271433a0121#ref=rss)
+* [https://www.spiegel.de/kultur/musik/the-life-of-a-showgirl-hat-taylor-swift-fuer-ihr-neues-album-bei-anderen-kuenstlern-geklaut](https://www.spiegel.de/kultur/musik/the-life-of-a-showgirl-hat-taylor-swift-fuer-ihr-neues-album-bei-anderen-kuenstlern-geklaut-a-9d54f813-24d8-460f-9af4-78f8914d1a1f#ref=rss)
+### showgirl
+
+* [https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts](https://www.spiegel.de/kultur/musik/taylor-swift-acht-songs-in-den-top-ten-der-deutschen-singlecharts-a-7a3dae6e-41d9-4080-bd83-8271433a0121#ref=rss)
+* [https://www.spiegel.de/kultur/musik/the-life-of-a-showgirl-hat-taylor-swift-fuer-ihr-neues-album-bei-anderen-kuenstlern-geklaut](https://www.spiegel.de/kultur/musik/the-life-of-a-showgirl-hat-taylor-swift-fuer-ihr-neues-album-bei-anderen-kuenstlern-geklaut-a-9d54f813-24d8-460f-9af4-78f8914d1a1f#ref=rss)
+### auszeichnung
+
+* [https://www.spiegel.de/ausland/maria-corina-machado-friedensnobelpreistraegerin-widmet-auszeichnung-den-venezolanern](https://www.spiegel.de/ausland/maria-corina-machado-friedensnobelpreistraegerin-widmet-auszeichnung-den-venezolanern-a-f74cbea3-2b20-410d-aa2e-f2c39314d52c#ref=rss)
+### ewald
+
+* [https://www.spiegel.de/reise/deutschland/ewald-arenz-die-besten-herbsttipps-des-bestsellerautors-fuer-franken](https://www.spiegel.de/reise/deutschland/ewald-arenz-die-besten-herbsttipps-des-bestsellerautors-fuer-franken-a-0dc269f5-4c28-4fbf-99f7-9b623c7dccfd#ref=rss)
+### arenz
+
+* [https://www.spiegel.de/reise/deutschland/ewald-arenz-die-besten-herbsttipps-des-bestsellerautors-fuer-franken](https://www.spiegel.de/reise/deutschland/ewald-arenz-die-besten-herbsttipps-des-bestsellerautors-fuer-franken-a-0dc269f5-4c28-4fbf-99f7-9b623c7dccfd#ref=rss)
+### franken
+
+* [https://www.spiegel.de/reise/deutschland/ewald-arenz-die-besten-herbsttipps-des-bestsellerautors-fuer-franken](https://www.spiegel.de/reise/deutschland/ewald-arenz-die-besten-herbsttipps-des-bestsellerautors-fuer-franken-a-0dc269f5-4c28-4fbf-99f7-9b623c7dccfd#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/panorama/justiz/eiskeller-prozess-eltern-von-hanna-w-ziehen-sich-aus-verfahren-zurueck](https://www.spiegel.de/panorama/justiz/eiskeller-prozess-eltern-von-hanna-w-ziehen-sich-aus-verfahren-zurueck-a-6dad3649-dad6-41cc-b9e8-88e9ca529b82#ref=rss)
+### verfahren
+
+* [https://www.spiegel.de/panorama/justiz/eiskeller-prozess-eltern-von-hanna-w-ziehen-sich-aus-verfahren-zurueck](https://www.spiegel.de/panorama/justiz/eiskeller-prozess-eltern-von-hanna-w-ziehen-sich-aus-verfahren-zurueck-a-6dad3649-dad6-41cc-b9e8-88e9ca529b82#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/panorama/justiz/eiskeller-prozess-eltern-von-hanna-w-ziehen-sich-aus-verfahren-zurueck](https://www.spiegel.de/panorama/justiz/eiskeller-prozess-eltern-von-hanna-w-ziehen-sich-aus-verfahren-zurueck-a-6dad3649-dad6-41cc-b9e8-88e9ca529b82#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-herdecke-warum-es-keine-u-haft-und-keine-ermittlungen-wegen-mordversuchs-gibt](https://www.spiegel.de/panorama/justiz/fall-herdecke-warum-es-keine-u-haft-und-keine-ermittlungen-wegen-mordversuchs-gibt-a-3e089cdc-0312-43dc-a144-89a77a287d55#ref=rss)
+### bürgergeld
+
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-bundessozialministerin-kritisiert-aussagen-der-union-zum-buergergeld](https://www.spiegel.de/politik/deutschland/baerbel-bas-bundessozialministerin-kritisiert-aussagen-der-union-zum-buergergeld-a-01e4cb19-e57d-49ec-bb03-efbc78de003a#ref=rss)
+### bas
+
+* [https://www.spiegel.de/politik/deutschland/baerbel-bas-bundessozialministerin-kritisiert-aussagen-der-union-zum-buergergeld](https://www.spiegel.de/politik/deutschland/baerbel-bas-bundessozialministerin-kritisiert-aussagen-der-union-zum-buergergeld-a-01e4cb19-e57d-49ec-bb03-efbc78de003a#ref=rss)
+### luxemburg
+
+* [https://www.spiegel.de/sport/fussball/dfb-gegner-luxemburg-warum-dann-nicht-ein-punktgewinn-gegen-deutschland](https://www.spiegel.de/sport/fussball/dfb-gegner-luxemburg-warum-dann-nicht-ein-punktgewinn-gegen-deutschland-a-32a711fe-c82b-43bb-abbe-a56c402d0045#ref=rss)
+### aserbaidschan
+
+* [https://www.spiegel.de/ausland/russland-aserbaidschan-russischer-journalist-aus-haft-in-baku-entlassen](https://www.spiegel.de/ausland/russland-aserbaidschan-russischer-journalist-aus-haft-in-baku-entlassen-a-25e24d69-9403-47a0-a81f-a4f99cc557e2#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-aserbaidschan-russischer-journalist-aus-haft-in-baku-entlassen](https://www.spiegel.de/ausland/russland-aserbaidschan-russischer-journalist-aus-haft-in-baku-entlassen-a-25e24d69-9403-47a0-a81f-a4f99cc557e2#ref=rss)
+### álex
+
+* [https://www.spiegel.de/sport/basketball/basketball-bundestrainer-alex-mumbru-muss-weiter-im-krankenhaus-bleiben](https://www.spiegel.de/sport/basketball/basketball-bundestrainer-alex-mumbru-muss-weiter-im-krankenhaus-bleiben-a-84056396-4a16-4189-97e0-710bb6f97694#ref=rss)
+### mumbrú
+
+* [https://www.spiegel.de/sport/basketball/basketball-bundestrainer-alex-mumbru-muss-weiter-im-krankenhaus-bleiben](https://www.spiegel.de/sport/basketball/basketball-bundestrainer-alex-mumbru-muss-weiter-im-krankenhaus-bleiben-a-84056396-4a16-4189-97e0-710bb6f97694#ref=rss)
+### krankenhaus
+
+* [https://www.spiegel.de/sport/basketball/basketball-bundestrainer-alex-mumbru-muss-weiter-im-krankenhaus-bleiben](https://www.spiegel.de/sport/basketball/basketball-bundestrainer-alex-mumbru-muss-weiter-im-krankenhaus-bleiben-a-84056396-4a16-4189-97e0-710bb6f97694#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/kultur/musik/the-life-of-a-showgirl-hat-taylor-swift-fuer-ihr-neues-album-bei-anderen-kuenstlern-geklaut](https://www.spiegel.de/kultur/musik/the-life-of-a-showgirl-hat-taylor-swift-fuer-ihr-neues-album-bei-anderen-kuenstlern-geklaut-a-9d54f813-24d8-460f-9af4-78f8914d1a1f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-und-hamas-donald-trump-steht-vor-seinem-groessten-triumph](https://www.spiegel.de/ausland/israel-und-hamas-donald-trump-steht-vor-seinem-groessten-triumph-a-801ee026-e3fe-4b36-acca-daec11d3995a#ref=rss)
+### thurn
+
+* [https://www.spiegel.de/panorama/justiz/thurn-und-taxis-jagdschloss-abgebrannt-ermittler-pruefen-bekennerschreiben](https://www.spiegel.de/panorama/justiz/thurn-und-taxis-jagdschloss-abgebrannt-ermittler-pruefen-bekennerschreiben-a-9c14eb5d-522f-4c44-a72b-3018d4f7e397#ref=rss)
+### taxis
+
+* [https://www.spiegel.de/panorama/justiz/thurn-und-taxis-jagdschloss-abgebrannt-ermittler-pruefen-bekennerschreiben](https://www.spiegel.de/panorama/justiz/thurn-und-taxis-jagdschloss-abgebrannt-ermittler-pruefen-bekennerschreiben-a-9c14eb5d-522f-4c44-a72b-3018d4f7e397#ref=rss)
+### jagdschloss
+
+* [https://www.spiegel.de/panorama/justiz/thurn-und-taxis-jagdschloss-abgebrannt-ermittler-pruefen-bekennerschreiben](https://www.spiegel.de/panorama/justiz/thurn-und-taxis-jagdschloss-abgebrannt-ermittler-pruefen-bekennerschreiben-a-9c14eb5d-522f-4c44-a72b-3018d4f7e397#ref=rss)
+### bekennerschreiben
+
+* [https://www.spiegel.de/panorama/justiz/thurn-und-taxis-jagdschloss-abgebrannt-ermittler-pruefen-bekennerschreiben](https://www.spiegel.de/panorama/justiz/thurn-und-taxis-jagdschloss-abgebrannt-ermittler-pruefen-bekennerschreiben-a-9c14eb5d-522f-4c44-a72b-3018d4f7e397#ref=rss)
 
