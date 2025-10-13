@@ -4,321 +4,391 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### tag
-
-* [https://www.spiegel.de/sport/anne-reischmann-schwanger-beim-ironman-im-ziel-bekam-sie-einen-babystrampler](https://www.spiegel.de/sport/anne-reischmann-schwanger-beim-ironman-im-ziel-bekam-sie-einen-babystrampler-a-ddb9e9d4-7c11-4611-a6e7-e41d87d247ba#ref=rss)
-* [https://www.spiegel.de/ausland/israel-nach-der-geiselbefreiung-ein-tag-der-hoffnung-der-wunden-und-der-verantwortung](https://www.spiegel.de/ausland/israel-nach-der-geiselbefreiung-ein-tag-der-hoffnung-der-wunden-und-der-verantwortung-a-56197298-15a3-477e-8b7e-ef0a694b2c43#ref=rss)
-* [https://www.spiegel.de/panorama/leute/julianne-moore-trainiert-ihr-gehirn-mit-einem-besonderen-trick](https://www.spiegel.de/panorama/leute/julianne-moore-trainiert-ihr-gehirn-mit-einem-besonderen-trick-a-e7b7e31a-f424-485f-a871-0b28ead54060#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tanken-baden-wuerttemberg-will-preis-steigerungen-einschraenken](https://www.spiegel.de/wirtschaft/tanken-baden-wuerttemberg-will-preis-steigerungen-einschraenken-a-c7ee4fe7-2598-4793-8d35-21ac70df1c12#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/krankschreibung-ab-dem-vierten-tag-arbeitgeberverbaende-gegen-vorschlag](https://www.spiegel.de/wirtschaft/soziales/krankschreibung-ab-dem-vierten-tag-arbeitgeberverbaende-gegen-vorschlag-a-081f1a38-aecf-4105-ace2-97453c60ec58#ref=rss)
-### geiseln
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln-a-9ebb04b9-eec3-4396-8958-1ebc19f75371#ref=rss)
-* [https://www.spiegel.de/ausland/israel-nach-der-geiselbefreiung-ein-tag-der-hoffnung-der-wunden-und-der-verantwortung](https://www.spiegel.de/ausland/israel-nach-der-geiselbefreiung-ein-tag-der-hoffnung-der-wunden-und-der-verantwortung-a-56197298-15a3-477e-8b7e-ef0a694b2c43#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln-a-e80395f2-ff55-4141-9a54-9d3aec2e9dfb#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln-a-9ebb04b9-eec3-4396-8958-1ebc19f75371#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-abkommen-deutsch-israelische-zwillinge-nach-freilassung-wieder-vereint](https://www.spiegel.de/ausland/gaza-abkommen-deutsch-israelische-zwillinge-nach-freilassung-wieder-vereint-a-cc0d157c-d957-4417-9b07-bbc17e6511f0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-nach-der-geiselbefreiung-ein-tag-der-hoffnung-der-wunden-und-der-verantwortung](https://www.spiegel.de/ausland/israel-nach-der-geiselbefreiung-ein-tag-der-hoffnung-der-wunden-und-der-verantwortung-a-56197298-15a3-477e-8b7e-ef0a694b2c43#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-abkommen-us-praesident-trifft-mit-mega-entourage-in-israel-ein](https://www.spiegel.de/ausland/gaza-abkommen-us-praesident-trifft-mit-mega-entourage-in-israel-ein-a-65b4a09f-300a-4abd-97d2-df79cf19f402#ref=rss)
 ### trump
 
+* [https://www.spiegel.de/ausland/selenskyj-und-trump-werden-sich-offenbar-am-freitag-treffen](https://www.spiegel.de/ausland/selenskyj-und-trump-werden-sich-offenbar-am-freitag-treffen-a-6dbfa2aa-d587-49b6-93ce-42a7eb502e2e#ref=rss)
 * [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln-a-9ebb04b9-eec3-4396-8958-1ebc19f75371#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-der-handelskrieg-mit-den-usa-ist-wieder-voll-entflammt](https://www.spiegel.de/wirtschaft/china-der-handelskrieg-mit-den-usa-ist-wieder-voll-entflammt-a-06632895-ace4-4e37-a7af-45c4c29385b1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-aussenhandel-trotzt-den-zoellen-von-donald-trump](https://www.spiegel.de/wirtschaft/china-aussenhandel-trotzt-den-zoellen-von-donald-trump-a-25fe73e4-525b-4713-852b-adcf07ecc1b1#ref=rss)
-### freilassung
+* [https://www.spiegel.de/ausland/donald-trump-vor-dem-parlament-in-israel-die-freigelassenen-geiseln-nebensache](https://www.spiegel.de/ausland/donald-trump-vor-dem-parlament-in-israel-die-freigelassenen-geiseln-nebensache-a-27b86f1e-2396-4851-8420-588c9b3369b6#ref=rss)
+* [https://www.spiegel.de/ausland/israel-donald-trump-preist-sich-selbst-und-wirbt-fuer-begnadigung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-donald-trump-preist-sich-selbst-und-wirbt-fuer-begnadigung-von-benjamin-netanyahu-a-78c5e767-9ce6-4cd6-9e97-6d9dd0b90d3e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza-a-961b65ed-9653-41ff-9fc6-5700135c8f3d#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/gaza-abkommen-deutsch-israelische-zwillinge-nach-freilassung-wieder-vereint](https://www.spiegel.de/ausland/gaza-abkommen-deutsch-israelische-zwillinge-nach-freilassung-wieder-vereint-a-cc0d157c-d957-4417-9b07-bbc17e6511f0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln-a-e80395f2-ff55-4141-9a54-9d3aec2e9dfb#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-abkommen-us-praesident-trifft-mit-mega-entourage-in-israel-ein](https://www.spiegel.de/ausland/gaza-abkommen-us-praesident-trifft-mit-mega-entourage-in-israel-ein-a-65b4a09f-300a-4abd-97d2-df79cf19f402#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/china-der-handelskrieg-mit-den-usa-ist-wieder-voll-entflammt](https://www.spiegel.de/wirtschaft/china-der-handelskrieg-mit-den-usa-ist-wieder-voll-entflammt-a-06632895-ace4-4e37-a7af-45c4c29385b1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-aussenhandel-trotzt-den-zoellen-von-donald-trump](https://www.spiegel.de/wirtschaft/china-aussenhandel-trotzt-den-zoellen-von-donald-trump-a-25fe73e4-525b-4713-852b-adcf07ecc1b1#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wissenschaft/who-bericht-jede-sechste-bakterielle-infektion-wird-durch-antibiotikaresistente-erreger-ausgeloest](https://www.spiegel.de/wissenschaft/who-bericht-jede-sechste-bakterielle-infektion-wird-durch-antibiotikaresistente-erreger-ausgeloest-a-9a06d387-8948-4c9a-9305-c9f2aa1be2c2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wohnraumkrise-in-grossstaedten-hohe-neue-mieten-sind-laut-ifo-studie-schlecht-fuers-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/wohnraumkrise-in-grossstaedten-hohe-neue-mieten-sind-laut-ifo-studie-schlecht-fuers-wirtschaftswachstum-a-3d5ceba6-a555-4796-b3f5-55d1d27242e3#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/wissenschaft/who-bericht-jede-sechste-bakterielle-infektion-wird-durch-antibiotikaresistente-erreger-ausgeloest](https://www.spiegel.de/wissenschaft/who-bericht-jede-sechste-bakterielle-infektion-wird-durch-antibiotikaresistente-erreger-ausgeloest-a-9a06d387-8948-4c9a-9305-c9f2aa1be2c2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-manager-schauen-zunehmend-skeptisch-in-die-zukunft](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-manager-schauen-zunehmend-skeptisch-in-die-zukunft-a-e2f6045a-eb6a-4601-b68f-650167a2f1c5#ref=rss)
-### frei
-
+* [https://www.spiegel.de/ausland/selenskyj-und-trump-werden-sich-offenbar-am-freitag-treffen](https://www.spiegel.de/ausland/selenskyj-und-trump-werden-sich-offenbar-am-freitag-treffen-a-6dbfa2aa-d587-49b6-93ce-42a7eb502e2e#ref=rss)
 * [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln-a-9ebb04b9-eec3-4396-8958-1ebc19f75371#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln-a-e80395f2-ff55-4141-9a54-9d3aec2e9dfb#ref=rss)
-### hamas
+* [https://www.spiegel.de/ausland/donald-trump-vor-dem-parlament-in-israel-die-freigelassenen-geiseln-nebensache](https://www.spiegel.de/ausland/donald-trump-vor-dem-parlament-in-israel-die-freigelassenen-geiseln-nebensache-a-27b86f1e-2396-4851-8420-588c9b3369b6#ref=rss)
+* [https://www.spiegel.de/ausland/israel-donald-trump-preist-sich-selbst-und-wirbt-fuer-begnadigung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-donald-trump-preist-sich-selbst-und-wirbt-fuer-begnadigung-von-benjamin-netanyahu-a-78c5e767-9ce6-4cd6-9e97-6d9dd0b90d3e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza-a-961b65ed-9653-41ff-9fc6-5700135c8f3d#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln-a-9ebb04b9-eec3-4396-8958-1ebc19f75371#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-abkommen-deutsch-israelische-zwillinge-nach-freilassung-wieder-vereint](https://www.spiegel.de/ausland/gaza-abkommen-deutsch-israelische-zwillinge-nach-freilassung-wieder-vereint-a-cc0d157c-d957-4417-9b07-bbc17e6511f0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln-a-e80395f2-ff55-4141-9a54-9d3aec2e9dfb#ref=rss)
-### nehmen
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-2025-die-hollaenderinnen-von-dorothee-elmiger-ist-der-deutschsprachige-roman-des-jahres](https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-2025-die-hollaenderinnen-von-dorothee-elmiger-ist-der-deutschsprachige-roman-des-jahres-a-49ef7103-6bd0-4cf9-a216-d030a664ec37#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta](https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta-a-f8b3ad56-e0c0-4f34-9093-f13e3370b5e9#ref=rss)
+### israel
 
-* [https://www.spiegel.de/netzwelt/cyber-ermittler-nehmen-mehr-als-1-400-betrugs-domains-vom-netz](https://www.spiegel.de/netzwelt/cyber-ermittler-nehmen-mehr-als-1-400-betrugs-domains-vom-netz-a-2078c5ab-28ab-4b61-871f-85b69990b550#ref=rss)
-* [https://www.spiegel.de/auto/elektroautos-kabeldiebstaehle-an-ladesaeulen-nehmen-zu](https://www.spiegel.de/auto/elektroautos-kabeldiebstaehle-an-ladesaeulen-nehmen-zu-a-1cba1c4d-14b0-4bd7-bfcc-a61067dc0db1#ref=rss)
-* [https://www.spiegel.de/sport/wm-qualifikation-faeroeer-schlagen-tschechien-dritter-sieg-in-serie](https://www.spiegel.de/sport/wm-qualifikation-faeroeer-schlagen-tschechien-dritter-sieg-in-serie-a-b991829f-5801-43d0-99df-4f69fb6362ec#ref=rss)
+* [https://www.spiegel.de/ausland/israel-toechter-sehen-omri-miran-nach-738-tagen-in-geiselhaft-wieder](https://www.spiegel.de/ausland/israel-toechter-sehen-omri-miran-nach-738-tagen-in-geiselhaft-wieder-a-f680dc6a-506f-48bd-88d5-a88e0daddb7a#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-toetet-offenbar-mehr-als-30-mitglieder-einer-bande-im-gazastreifen](https://www.spiegel.de/ausland/hamas-toetet-offenbar-mehr-als-30-mitglieder-einer-bande-im-gazastreifen-a-f86ef27f-4620-45c6-a6d0-57aad02e1239#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-dem-parlament-in-israel-die-freigelassenen-geiseln-nebensache](https://www.spiegel.de/ausland/donald-trump-vor-dem-parlament-in-israel-die-freigelassenen-geiseln-nebensache-a-27b86f1e-2396-4851-8420-588c9b3369b6#ref=rss)
+* [https://www.spiegel.de/ausland/israel-donald-trump-preist-sich-selbst-und-wirbt-fuer-begnadigung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-donald-trump-preist-sich-selbst-und-wirbt-fuer-begnadigung-von-benjamin-netanyahu-a-78c5e767-9ce6-4cd6-9e97-6d9dd0b90d3e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza-a-961b65ed-9653-41ff-9fc6-5700135c8f3d#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/netzwelt/cyber-ermittler-nehmen-mehr-als-1-400-betrugs-domains-vom-netz](https://www.spiegel.de/netzwelt/cyber-ermittler-nehmen-mehr-als-1-400-betrugs-domains-vom-netz-a-2078c5ab-28ab-4b61-871f-85b69990b550#ref=rss)
-* [https://www.spiegel.de/panorama/suedafrika-42-tote-bei-unfall-mit-reisebus-nahe-makhado](https://www.spiegel.de/panorama/suedafrika-42-tote-bei-unfall-mit-reisebus-nahe-makhado-a-58afdddf-5555-4987-a579-20cad2f72c0a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/geheimdienste-cdu-will-staerkere-zusammenarbeit-gegen-russland](https://www.spiegel.de/politik/deutschland/geheimdienste-cdu-will-staerkere-zusammenarbeit-gegen-russland-a-3e4401d9-fd9a-4d44-949a-f25b30443fb5#ref=rss)
-### rund
+* [https://www.spiegel.de/panorama/mexiko-mehr-als-60-tote-bei-unwettern-in-mexiko](https://www.spiegel.de/panorama/mexiko-mehr-als-60-tote-bei-unwettern-in-mexiko-a-d21572d9-1da8-4e4e-955a-e69c57087db8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-forscher-zeigen-welche-innovationen-echten-wohlstand-schaffen](https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-forscher-zeigen-welche-innovationen-echten-wohlstand-schaffen-a-311c2ff4-ea43-4956-9c95-f20230a19d1d#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-toetet-offenbar-mehr-als-30-mitglieder-einer-bande-im-gazastreifen](https://www.spiegel.de/ausland/hamas-toetet-offenbar-mehr-als-30-mitglieder-einer-bande-im-gazastreifen-a-f86ef27f-4620-45c6-a6d0-57aad02e1239#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-dem-parlament-in-israel-die-freigelassenen-geiseln-nebensache](https://www.spiegel.de/ausland/donald-trump-vor-dem-parlament-in-israel-die-freigelassenen-geiseln-nebensache-a-27b86f1e-2396-4851-8420-588c9b3369b6#ref=rss)
+* [https://www.spiegel.de/panorama/valencia-spanischer-rentner-lag-wohl-15-jahre-tot-in-seiner-wohnung](https://www.spiegel.de/panorama/valencia-spanischer-rentner-lag-wohl-15-jahre-tot-in-seiner-wohnung-a-67d898e3-28bd-47aa-97bb-5093ee71da28#ref=rss)
+### 500
 
-* [https://www.spiegel.de/netzwelt/cyber-ermittler-nehmen-mehr-als-1-400-betrugs-domains-vom-netz](https://www.spiegel.de/netzwelt/cyber-ermittler-nehmen-mehr-als-1-400-betrugs-domains-vom-netz-a-2078c5ab-28ab-4b61-871f-85b69990b550#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wohnraumkrise-in-grossstaedten-hohe-neue-mieten-sind-laut-ifo-studie-schlecht-fuers-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/wohnraumkrise-in-grossstaedten-hohe-neue-mieten-sind-laut-ifo-studie-schlecht-fuers-wirtschaftswachstum-a-3d5ceba6-a555-4796-b3f5-55d1d27242e3#ref=rss)
-* [https://www.spiegel.de/ausland/bern-pro-palaestina-demo-eskaliert-in-der-schweiz](https://www.spiegel.de/ausland/bern-pro-palaestina-demo-eskaliert-in-der-schweiz-a-68c57815-641e-4b5b-85c9-14bafefb53ff#ref=rss)
-### erstmals
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### reichsten
 
-* [https://www.spiegel.de/auto/fahrberichte/kia-ev4-im-test-endlich-mal-kein-suv](https://www.spiegel.de/auto/fahrberichte/kia-ev4-im-test-endlich-mal-kein-suv-a-a33d5f54-ff6f-49b9-a8b5-636a215f0970#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-abkommen-deutsch-israelische-zwillinge-nach-freilassung-wieder-vereint](https://www.spiegel.de/ausland/gaza-abkommen-deutsch-israelische-zwillinge-nach-freilassung-wieder-vereint-a-cc0d157c-d957-4417-9b07-bbc17e6511f0#ref=rss)
-* [https://www.spiegel.de/sport/wm-qualifikation-faeroeer-schlagen-tschechien-dritter-sieg-in-serie](https://www.spiegel.de/sport/wm-qualifikation-faeroeer-schlagen-tschechien-dritter-sieg-in-serie-a-b991829f-5801-43d0-99df-4f69fb6362ec#ref=rss)
-### israelischen
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/israel-nach-der-geiselbefreiung-ein-tag-der-hoffnung-der-wunden-und-der-verantwortung](https://www.spiegel.de/ausland/israel-nach-der-geiselbefreiung-ein-tag-der-hoffnung-der-wunden-und-der-verantwortung-a-56197298-15a3-477e-8b7e-ef0a694b2c43#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln-a-e80395f2-ff55-4141-9a54-9d3aec2e9dfb#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/ausland/selenskyj-und-trump-werden-sich-offenbar-am-freitag-treffen](https://www.spiegel.de/ausland/selenskyj-und-trump-werden-sich-offenbar-am-freitag-treffen-a-6dbfa2aa-d587-49b6-93ce-42a7eb502e2e#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-toetet-offenbar-mehr-als-30-mitglieder-einer-bande-im-gazastreifen](https://www.spiegel.de/ausland/hamas-toetet-offenbar-mehr-als-30-mitglieder-einer-bande-im-gazastreifen-a-f86ef27f-4620-45c6-a6d0-57aad02e1239#ref=rss)
+* [https://www.spiegel.de/panorama/slowakei-viele-verletzte-nach-kollision-zweier-zuege](https://www.spiegel.de/panorama/slowakei-viele-verletzte-nach-kollision-zweier-zuege-a-3e6562e8-cb9c-46a7-aaa7-faeb75b938f1#ref=rss)
+* [https://www.spiegel.de/auto/berlin-macht-beim-anwohnerparken-offenbar-millionenverluste](https://www.spiegel.de/auto/berlin-macht-beim-anwohnerparken-offenbar-millionenverluste-a-67d272bf-b575-4d63-b2f2-4b5a8fa4adae#ref=rss)
+### podcast
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln-a-e80395f2-ff55-4141-9a54-9d3aec2e9dfb#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-abkommen-us-praesident-trifft-mit-mega-entourage-in-israel-ein](https://www.spiegel.de/ausland/gaza-abkommen-us-praesident-trifft-mit-mega-entourage-in-israel-ein-a-65b4a09f-300a-4abd-97d2-df79cf19f402#ref=rss)
-### julianne
+* [https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-ueber-die-baseballschlaegerjahre-mit-neonazi-aussteiger-ingo-hasselbach-toeten-war-teil-des-konzepts-spiegel-tv](https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-ueber-die-baseballschlaegerjahre-mit-neonazi-aussteiger-ingo-hasselbach-toeten-war-teil-des-konzepts-spiegel-tv-a-5b14ce60-ce2e-48ba-9572-b06dc3c21958#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### zufolge
 
-* [https://www.spiegel.de/panorama/leute/julianne-moore-trainiert-ihr-gehirn-mit-einem-besonderen-trick](https://www.spiegel.de/panorama/leute/julianne-moore-trainiert-ihr-gehirn-mit-einem-besonderen-trick-a-e7b7e31a-f424-485f-a871-0b28ead54060#ref=rss)
-### moore
+* [https://www.spiegel.de/ausland/frankreich-ex-praesident-nicolas-sarkozy-muss-am-21-oktober-ins-gefaengnis-in-paris](https://www.spiegel.de/ausland/frankreich-ex-praesident-nicolas-sarkozy-muss-am-21-oktober-ins-gefaengnis-in-paris-a-10d15636-df39-49c7-85e9-05875f875aaa#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-toetet-offenbar-mehr-als-30-mitglieder-einer-bande-im-gazastreifen](https://www.spiegel.de/ausland/hamas-toetet-offenbar-mehr-als-30-mitglieder-einer-bande-im-gazastreifen-a-f86ef27f-4620-45c6-a6d0-57aad02e1239#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land](https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land-a-1d802765-fb97-4764-b052-50c00326d477#ref=rss)
+### höheren
 
-* [https://www.spiegel.de/panorama/leute/julianne-moore-trainiert-ihr-gehirn-mit-einem-besonderen-trick](https://www.spiegel.de/panorama/leute/julianne-moore-trainiert-ihr-gehirn-mit-einem-besonderen-trick-a-e7b7e31a-f424-485f-a871-0b28ead54060#ref=rss)
-### sieg
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### steuern
 
-* [https://www.spiegel.de/sport/wm-qualifikation-faeroeer-schlagen-tschechien-dritter-sieg-in-serie](https://www.spiegel.de/sport/wm-qualifikation-faeroeer-schlagen-tschechien-dritter-sieg-in-serie-a-b991829f-5801-43d0-99df-4f69fb6362ec#ref=rss)
-### weltweit
-
-* [https://www.spiegel.de/wissenschaft/who-bericht-jede-sechste-bakterielle-infektion-wird-durch-antibiotikaresistente-erreger-ausgeloest](https://www.spiegel.de/wissenschaft/who-bericht-jede-sechste-bakterielle-infektion-wird-durch-antibiotikaresistente-erreger-ausgeloest-a-9a06d387-8948-4c9a-9305-c9f2aa1be2c2#ref=rss)
-* [https://www.spiegel.de/ausland/israel-nach-der-geiselbefreiung-ein-tag-der-hoffnung-der-wunden-und-der-verantwortung](https://www.spiegel.de/ausland/israel-nach-der-geiselbefreiung-ein-tag-der-hoffnung-der-wunden-und-der-verantwortung-a-56197298-15a3-477e-8b7e-ef0a694b2c43#ref=rss)
-### schlecht
-
-* [https://www.spiegel.de/wissenschaft/who-bericht-jede-sechste-bakterielle-infektion-wird-durch-antibiotikaresistente-erreger-ausgeloest](https://www.spiegel.de/wissenschaft/who-bericht-jede-sechste-bakterielle-infektion-wird-durch-antibiotikaresistente-erreger-ausgeloest-a-9a06d387-8948-4c9a-9305-c9f2aa1be2c2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wohnraumkrise-in-grossstaedten-hohe-neue-mieten-sind-laut-ifo-studie-schlecht-fuers-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/wohnraumkrise-in-grossstaedten-hohe-neue-mieten-sind-laut-ifo-studie-schlecht-fuers-wirtschaftswachstum-a-3d5ceba6-a555-4796-b3f5-55d1d27242e3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
 ### gaza
 
 * [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln-a-9ebb04b9-eec3-4396-8958-1ebc19f75371#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln-a-e80395f2-ff55-4141-9a54-9d3aec2e9dfb#ref=rss)
-### lebenden
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza-a-961b65ed-9653-41ff-9fc6-5700135c8f3d#ref=rss)
+### hamas
 
 * [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln-a-9ebb04b9-eec3-4396-8958-1ebc19f75371#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln-a-e80395f2-ff55-4141-9a54-9d3aec2e9dfb#ref=rss)
-### rückkehr
+* [https://www.spiegel.de/ausland/hamas-toetet-offenbar-mehr-als-30-mitglieder-einer-bande-im-gazastreifen](https://www.spiegel.de/ausland/hamas-toetet-offenbar-mehr-als-30-mitglieder-einer-bande-im-gazastreifen-a-f86ef27f-4620-45c6-a6d0-57aad02e1239#ref=rss)
+### mexiko
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln-a-9ebb04b9-eec3-4396-8958-1ebc19f75371#ref=rss)
-* [https://www.spiegel.de/ausland/israel-nach-der-geiselbefreiung-ein-tag-der-hoffnung-der-wunden-und-der-verantwortung](https://www.spiegel.de/ausland/israel-nach-der-geiselbefreiung-ein-tag-der-hoffnung-der-wunden-und-der-verantwortung-a-56197298-15a3-477e-8b7e-ef0a694b2c43#ref=rss)
-### hohe
+* [https://www.spiegel.de/panorama/mexiko-mehr-als-60-tote-bei-unwettern-in-mexiko](https://www.spiegel.de/panorama/mexiko-mehr-als-60-tote-bei-unwettern-in-mexiko-a-d21572d9-1da8-4e4e-955a-e69c57087db8#ref=rss)
+### geiseln
 
-* [https://www.spiegel.de/netzwelt/cyber-ermittler-nehmen-mehr-als-1-400-betrugs-domains-vom-netz](https://www.spiegel.de/netzwelt/cyber-ermittler-nehmen-mehr-als-1-400-betrugs-domains-vom-netz-a-2078c5ab-28ab-4b61-871f-85b69990b550#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wohnraumkrise-in-grossstaedten-hohe-neue-mieten-sind-laut-ifo-studie-schlecht-fuers-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/wohnraumkrise-in-grossstaedten-hohe-neue-mieten-sind-laut-ifo-studie-schlecht-fuers-wirtschaftswachstum-a-3d5ceba6-a555-4796-b3f5-55d1d27242e3#ref=rss)
-### kia
+* [https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta](https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta-a-f8b3ad56-e0c0-4f34-9093-f13e3370b5e9#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-dem-parlament-in-israel-die-freigelassenen-geiseln-nebensache](https://www.spiegel.de/ausland/donald-trump-vor-dem-parlament-in-israel-die-freigelassenen-geiseln-nebensache-a-27b86f1e-2396-4851-8420-588c9b3369b6#ref=rss)
+### bnd
 
-* [https://www.spiegel.de/auto/fahrberichte/kia-ev4-im-test-endlich-mal-kein-suv](https://www.spiegel.de/auto/fahrberichte/kia-ev4-im-test-endlich-mal-kein-suv-a-a33d5f54-ff6f-49b9-a8b5-636a215f0970#ref=rss)
-### ev4
+* [https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta](https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta-a-f8b3ad56-e0c0-4f34-9093-f13e3370b5e9#ref=rss)
+* [https://www.spiegel.de/politik/geheimdienst-chefs-warnen-im-bundestag-bedrohung-durch-russland-so-gross-wie-nie](https://www.spiegel.de/politik/geheimdienst-chefs-warnen-im-bundestag-bedrohung-durch-russland-so-gross-wie-nie-a-5f7e208c-5f41-407a-ac9b-b00d6f4d2ee8#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/auto/fahrberichte/kia-ev4-im-test-endlich-mal-kein-suv](https://www.spiegel.de/auto/fahrberichte/kia-ev4-im-test-endlich-mal-kein-suv-a-a33d5f54-ff6f-49b9-a8b5-636a215f0970#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/auto/fahrberichte/kia-ev4-im-test-endlich-mal-kein-suv](https://www.spiegel.de/auto/fahrberichte/kia-ev4-im-test-endlich-mal-kein-suv-a-a33d5f54-ff6f-49b9-a8b5-636a215f0970#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/krankschreibung-ab-dem-vierten-tag-arbeitgeberverbaende-gegen-vorschlag](https://www.spiegel.de/wirtschaft/soziales/krankschreibung-ab-dem-vierten-tag-arbeitgeberverbaende-gegen-vorschlag-a-081f1a38-aecf-4105-ace2-97453c60ec58#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/auto/fahrberichte/kia-ev4-im-test-endlich-mal-kein-suv](https://www.spiegel.de/auto/fahrberichte/kia-ev4-im-test-endlich-mal-kein-suv-a-a33d5f54-ff6f-49b9-a8b5-636a215f0970#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-aussenhandel-trotzt-den-zoellen-von-donald-trump](https://www.spiegel.de/wirtschaft/china-aussenhandel-trotzt-den-zoellen-von-donald-trump-a-25fe73e4-525b-4713-852b-adcf07ecc1b1#ref=rss)
-### südafrika
-
-* [https://www.spiegel.de/panorama/suedafrika-42-tote-bei-unfall-mit-reisebus-nahe-makhado](https://www.spiegel.de/panorama/suedafrika-42-tote-bei-unfall-mit-reisebus-nahe-makhado-a-58afdddf-5555-4987-a579-20cad2f72c0a#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/panorama/suedafrika-42-tote-bei-unfall-mit-reisebus-nahe-makhado](https://www.spiegel.de/panorama/suedafrika-42-tote-bei-unfall-mit-reisebus-nahe-makhado-a-58afdddf-5555-4987-a579-20cad2f72c0a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/wanda-perdelwitz-ermittlungen-gegen-beifahrer-nach-toedlichem-unfall](https://www.spiegel.de/panorama/justiz/wanda-perdelwitz-ermittlungen-gegen-beifahrer-nach-toedlichem-unfall-a-9802c004-215c-4a2b-91e4-4e7c584601ce#ref=rss)
-### reisebus
-
-* [https://www.spiegel.de/panorama/suedafrika-42-tote-bei-unfall-mit-reisebus-nahe-makhado](https://www.spiegel.de/panorama/suedafrika-42-tote-bei-unfall-mit-reisebus-nahe-makhado-a-58afdddf-5555-4987-a579-20cad2f72c0a#ref=rss)
-### nahe
-
-* [https://www.spiegel.de/panorama/suedafrika-42-tote-bei-unfall-mit-reisebus-nahe-makhado](https://www.spiegel.de/panorama/suedafrika-42-tote-bei-unfall-mit-reisebus-nahe-makhado-a-58afdddf-5555-4987-a579-20cad2f72c0a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-manager-schauen-zunehmend-skeptisch-in-die-zukunft](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-manager-schauen-zunehmend-skeptisch-in-die-zukunft-a-e2f6045a-eb6a-4601-b68f-650167a2f1c5#ref=rss)
-### weg
-
-* [https://www.spiegel.de/panorama/suedafrika-42-tote-bei-unfall-mit-reisebus-nahe-makhado](https://www.spiegel.de/panorama/suedafrika-42-tote-bei-unfall-mit-reisebus-nahe-makhado-a-58afdddf-5555-4987-a579-20cad2f72c0a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/geheimdienste-cdu-will-staerkere-zusammenarbeit-gegen-russland](https://www.spiegel.de/politik/deutschland/geheimdienste-cdu-will-staerkere-zusammenarbeit-gegen-russland-a-3e4401d9-fd9a-4d44-949a-f25b30443fb5#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/suedafrika-42-tote-bei-unfall-mit-reisebus-nahe-makhado](https://www.spiegel.de/panorama/suedafrika-42-tote-bei-unfall-mit-reisebus-nahe-makhado-a-58afdddf-5555-4987-a579-20cad2f72c0a#ref=rss)
-* [https://www.spiegel.de/ausland/bern-pro-palaestina-demo-eskaliert-in-der-schweiz](https://www.spiegel.de/ausland/bern-pro-palaestina-demo-eskaliert-in-der-schweiz-a-68c57815-641e-4b5b-85c9-14bafefb53ff#ref=rss)
-### wanda
-
-* [https://www.spiegel.de/panorama/justiz/wanda-perdelwitz-ermittlungen-gegen-beifahrer-nach-toedlichem-unfall](https://www.spiegel.de/panorama/justiz/wanda-perdelwitz-ermittlungen-gegen-beifahrer-nach-toedlichem-unfall-a-9802c004-215c-4a2b-91e4-4e7c584601ce#ref=rss)
-### perdelwitz
-
-* [https://www.spiegel.de/panorama/justiz/wanda-perdelwitz-ermittlungen-gegen-beifahrer-nach-toedlichem-unfall](https://www.spiegel.de/panorama/justiz/wanda-perdelwitz-ermittlungen-gegen-beifahrer-nach-toedlichem-unfall-a-9802c004-215c-4a2b-91e4-4e7c584601ce#ref=rss)
-### gazaabkommen
-
-* [https://www.spiegel.de/ausland/gaza-abkommen-deutsch-israelische-zwillinge-nach-freilassung-wieder-vereint](https://www.spiegel.de/ausland/gaza-abkommen-deutsch-israelische-zwillinge-nach-freilassung-wieder-vereint-a-cc0d157c-d957-4417-9b07-bbc17e6511f0#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-abkommen-us-praesident-trifft-mit-mega-entourage-in-israel-ein](https://www.spiegel.de/ausland/gaza-abkommen-us-praesident-trifft-mit-mega-entourage-in-israel-ein-a-65b4a09f-300a-4abd-97d2-df79cf19f402#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta](https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta-a-f8b3ad56-e0c0-4f34-9093-f13e3370b5e9#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-dem-parlament-in-israel-die-freigelassenen-geiseln-nebensache](https://www.spiegel.de/ausland/donald-trump-vor-dem-parlament-in-israel-die-freigelassenen-geiseln-nebensache-a-27b86f1e-2396-4851-8420-588c9b3369b6#ref=rss)
+* [https://www.spiegel.de/ausland/israel-donald-trump-preist-sich-selbst-und-wirbt-fuer-begnadigung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-donald-trump-preist-sich-selbst-und-wirbt-fuer-begnadigung-von-benjamin-netanyahu-a-78c5e767-9ce6-4cd6-9e97-6d9dd0b90d3e#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/ausland/gaza-abkommen-deutsch-israelische-zwillinge-nach-freilassung-wieder-vereint](https://www.spiegel.de/ausland/gaza-abkommen-deutsch-israelische-zwillinge-nach-freilassung-wieder-vereint-a-cc0d157c-d957-4417-9b07-bbc17e6511f0#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln-a-e80395f2-ff55-4141-9a54-9d3aec2e9dfb#ref=rss)
-### anne
+* [https://www.spiegel.de/panorama/slowakei-viele-verletzte-nach-kollision-zweier-zuege](https://www.spiegel.de/panorama/slowakei-viele-verletzte-nach-kollision-zweier-zuege-a-3e6562e8-cb9c-46a7-aaa7-faeb75b938f1#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza-a-961b65ed-9653-41ff-9fc6-5700135c8f3d#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/sport/anne-reischmann-schwanger-beim-ironman-im-ziel-bekam-sie-einen-babystrampler](https://www.spiegel.de/sport/anne-reischmann-schwanger-beim-ironman-im-ziel-bekam-sie-einen-babystrampler-a-ddb9e9d4-7c11-4611-a6e7-e41d87d247ba#ref=rss)
-### reischmann
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-nordirland-vs-deutschland-hype-um-nico-schlotterbeck](https://www.spiegel.de/sport/fussball/wm-qualifikation-nordirland-vs-deutschland-hype-um-nico-schlotterbeck-a-eb7f17d9-713c-48de-a53c-f3cdfca85912#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-ueber-verletzung-mental-schwieriger-als-koerperlich](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-ueber-verletzung-mental-schwieriger-als-koerperlich-a-d9a626ce-7d57-411b-9e92-11a4cafcb1ff#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/sport/anne-reischmann-schwanger-beim-ironman-im-ziel-bekam-sie-einen-babystrampler](https://www.spiegel.de/sport/anne-reischmann-schwanger-beim-ironman-im-ziel-bekam-sie-einen-babystrampler-a-ddb9e9d4-7c11-4611-a6e7-e41d87d247ba#ref=rss)
-### ironman
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza-a-961b65ed-9653-41ff-9fc6-5700135c8f3d#ref=rss)
+* [https://www.spiegel.de/panorama/valencia-spanischer-rentner-lag-wohl-15-jahre-tot-in-seiner-wohnung](https://www.spiegel.de/panorama/valencia-spanischer-rentner-lag-wohl-15-jahre-tot-in-seiner-wohnung-a-67d898e3-28bd-47aa-97bb-5093ee71da28#ref=rss)
+### ingo
 
-* [https://www.spiegel.de/sport/anne-reischmann-schwanger-beim-ironman-im-ziel-bekam-sie-einen-babystrampler](https://www.spiegel.de/sport/anne-reischmann-schwanger-beim-ironman-im-ziel-bekam-sie-einen-babystrampler-a-ddb9e9d4-7c11-4611-a6e7-e41d87d247ba#ref=rss)
-### wirtschaftsnobelpreis
+* [https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-ueber-die-baseballschlaegerjahre-mit-neonazi-aussteiger-ingo-hasselbach-toeten-war-teil-des-konzepts-spiegel-tv](https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-ueber-die-baseballschlaegerjahre-mit-neonazi-aussteiger-ingo-hasselbach-toeten-war-teil-des-konzepts-spiegel-tv-a-5b14ce60-ce2e-48ba-9572-b06dc3c21958#ref=rss)
+### hasselbach
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet](https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet-a-203cd95b-d215-41dc-bba8-8ac3c23e15fb#ref=rss)
-### joel
+* [https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-ueber-die-baseballschlaegerjahre-mit-neonazi-aussteiger-ingo-hasselbach-toeten-war-teil-des-konzepts-spiegel-tv](https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-ueber-die-baseballschlaegerjahre-mit-neonazi-aussteiger-ingo-hasselbach-toeten-war-teil-des-konzepts-spiegel-tv-a-5b14ce60-ce2e-48ba-9572-b06dc3c21958#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet](https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet-a-203cd95b-d215-41dc-bba8-8ac3c23e15fb#ref=rss)
-### mokyr
+* [https://www.spiegel.de/ausland/frankreich-ex-praesident-nicolas-sarkozy-muss-am-21-oktober-ins-gefaengnis-in-paris](https://www.spiegel.de/ausland/frankreich-ex-praesident-nicolas-sarkozy-muss-am-21-oktober-ins-gefaengnis-in-paris-a-10d15636-df39-49c7-85e9-05875f875aaa#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land](https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land-a-1d802765-fb97-4764-b052-50c00326d477#ref=rss)
+### expräsident
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet](https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet-a-203cd95b-d215-41dc-bba8-8ac3c23e15fb#ref=rss)
-### philippe
+* [https://www.spiegel.de/ausland/frankreich-ex-praesident-nicolas-sarkozy-muss-am-21-oktober-ins-gefaengnis-in-paris](https://www.spiegel.de/ausland/frankreich-ex-praesident-nicolas-sarkozy-muss-am-21-oktober-ins-gefaengnis-in-paris-a-10d15636-df39-49c7-85e9-05875f875aaa#ref=rss)
+### nicolas
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet](https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet-a-203cd95b-d215-41dc-bba8-8ac3c23e15fb#ref=rss)
-### aghion
+* [https://www.spiegel.de/ausland/frankreich-ex-praesident-nicolas-sarkozy-muss-am-21-oktober-ins-gefaengnis-in-paris](https://www.spiegel.de/ausland/frankreich-ex-praesident-nicolas-sarkozy-muss-am-21-oktober-ins-gefaengnis-in-paris-a-10d15636-df39-49c7-85e9-05875f875aaa#ref=rss)
+### gefängnis
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet](https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet-a-203cd95b-d215-41dc-bba8-8ac3c23e15fb#ref=rss)
-### peter
+* [https://www.spiegel.de/ausland/frankreich-ex-praesident-nicolas-sarkozy-muss-am-21-oktober-ins-gefaengnis-in-paris](https://www.spiegel.de/ausland/frankreich-ex-praesident-nicolas-sarkozy-muss-am-21-oktober-ins-gefaengnis-in-paris-a-10d15636-df39-49c7-85e9-05875f875aaa#ref=rss)
+### übereinstimmenden
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet](https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet-a-203cd95b-d215-41dc-bba8-8ac3c23e15fb#ref=rss)
-### howitt
+* [https://www.spiegel.de/ausland/frankreich-ex-praesident-nicolas-sarkozy-muss-am-21-oktober-ins-gefaengnis-in-paris](https://www.spiegel.de/ausland/frankreich-ex-praesident-nicolas-sarkozy-muss-am-21-oktober-ins-gefaengnis-in-paris-a-10d15636-df39-49c7-85e9-05875f875aaa#ref=rss)
+* [https://www.spiegel.de/ausland/selenskyj-und-trump-werden-sich-offenbar-am-freitag-treffen](https://www.spiegel.de/ausland/selenskyj-und-trump-werden-sich-offenbar-am-freitag-treffen-a-6dbfa2aa-d587-49b6-93ce-42a7eb502e2e#ref=rss)
+### frankreichs
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet](https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet-a-203cd95b-d215-41dc-bba8-8ac3c23e15fb#ref=rss)
-### ausgezeichnet
+* [https://www.spiegel.de/ausland/frankreich-ex-praesident-nicolas-sarkozy-muss-am-21-oktober-ins-gefaengnis-in-paris](https://www.spiegel.de/ausland/frankreich-ex-praesident-nicolas-sarkozy-muss-am-21-oktober-ins-gefaengnis-in-paris-a-10d15636-df39-49c7-85e9-05875f875aaa#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land](https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land-a-1d802765-fb97-4764-b052-50c00326d477#ref=rss)
+### reichste
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet](https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet-a-203cd95b-d215-41dc-bba8-8ac3c23e15fb#ref=rss)
-### drei
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet](https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-joel-mokyr-philippe-aghion-und-peter-howitt-ausgezeichnet-a-203cd95b-d215-41dc-bba8-8ac3c23e15fb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wohnraumkrise-in-grossstaedten-hohe-neue-mieten-sind-laut-ifo-studie-schlecht-fuers-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/wohnraumkrise-in-grossstaedten-hohe-neue-mieten-sind-laut-ifo-studie-schlecht-fuers-wirtschaftswachstum-a-3d5ceba6-a555-4796-b3f5-55d1d27242e3#ref=rss)
-### ladesäulen
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/auto/elektroautos-kabeldiebstaehle-an-ladesaeulen-nehmen-zu](https://www.spiegel.de/auto/elektroautos-kabeldiebstaehle-an-ladesaeulen-nehmen-zu-a-1cba1c4d-14b0-4bd7-bfcc-a61067dc0db1#ref=rss)
-### großstädten
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-nordirland-vs-deutschland-hype-um-nico-schlotterbeck](https://www.spiegel.de/sport/fussball/wm-qualifikation-nordirland-vs-deutschland-hype-um-nico-schlotterbeck-a-eb7f17d9-713c-48de-a53c-f3cdfca85912#ref=rss)
+### staat
 
-* [https://www.spiegel.de/wirtschaft/wohnraumkrise-in-grossstaedten-hohe-neue-mieten-sind-laut-ifo-studie-schlecht-fuers-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/wohnraumkrise-in-grossstaedten-hohe-neue-mieten-sind-laut-ifo-studie-schlecht-fuers-wirtschaftswachstum-a-3d5ceba6-a555-4796-b3f5-55d1d27242e3#ref=rss)
-### mieten
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### geld
 
-* [https://www.spiegel.de/wirtschaft/wohnraumkrise-in-grossstaedten-hohe-neue-mieten-sind-laut-ifo-studie-schlecht-fuers-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/wohnraumkrise-in-grossstaedten-hohe-neue-mieten-sind-laut-ifo-studie-schlecht-fuers-wirtschaftswachstum-a-3d5ceba6-a555-4796-b3f5-55d1d27242e3#ref=rss)
-### 48
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### wohlhabenden
 
-* [https://www.spiegel.de/wirtschaft/wohnraumkrise-in-grossstaedten-hohe-neue-mieten-sind-laut-ifo-studie-schlecht-fuers-wirtschaftswachstum](https://www.spiegel.de/wirtschaft/wohnraumkrise-in-grossstaedten-hohe-neue-mieten-sind-laut-ifo-studie-schlecht-fuers-wirtschaftswachstum-a-3d5ceba6-a555-4796-b3f5-55d1d27242e3#ref=rss)
-* [https://www.spiegel.de/sport/wm-qualifikation-faeroeer-schlagen-tschechien-dritter-sieg-in-serie](https://www.spiegel.de/sport/wm-qualifikation-faeroeer-schlagen-tschechien-dritter-sieg-in-serie-a-b991829f-5801-43d0-99df-4f69fb6362ec#ref=rss)
-### miersch
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### blendend
 
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-matthias-miersch-aeussert-sich-zu-losverfahren](https://www.spiegel.de/politik/deutschland/wehrpflicht-matthias-miersch-aeussert-sich-zu-losverfahren-a-58deded1-bd9e-4e61-a048-df7a260147c8#ref=rss)
-### äußert
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-matthias-miersch-aeussert-sich-zu-losverfahren](https://www.spiegel.de/politik/deutschland/wehrpflicht-matthias-miersch-aeussert-sich-zu-losverfahren-a-58deded1-bd9e-4e61-a048-df7a260147c8#ref=rss)
-### losverfahren
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### liste
 
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-matthias-miersch-aeussert-sich-zu-losverfahren](https://www.spiegel.de/politik/deutschland/wehrpflicht-matthias-miersch-aeussert-sich-zu-losverfahren-a-58deded1-bd9e-4e61-a048-df7a260147c8#ref=rss)
-### bern
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### manager
 
-* [https://www.spiegel.de/ausland/bern-pro-palaestina-demo-eskaliert-in-der-schweiz](https://www.spiegel.de/ausland/bern-pro-palaestina-demo-eskaliert-in-der-schweiz-a-68c57815-641e-4b5b-85c9-14bafefb53ff#ref=rss)
-### eskaliert
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### magazin
 
-* [https://www.spiegel.de/ausland/bern-pro-palaestina-demo-eskaliert-in-der-schweiz](https://www.spiegel.de/ausland/bern-pro-palaestina-demo-eskaliert-in-der-schweiz-a-68c57815-641e-4b5b-85c9-14bafefb53ff#ref=rss)
-### video
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln-a-e80395f2-ff55-4141-9a54-9d3aec2e9dfb#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-video-zeigt-freilassung-der-letzten-israelischen-geiseln-a-e80395f2-ff55-4141-9a54-9d3aec2e9dfb#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-abkommen-us-praesident-trifft-mit-mega-entourage-in-israel-ein](https://www.spiegel.de/ausland/gaza-abkommen-us-praesident-trifft-mit-mega-entourage-in-israel-ein-a-65b4a09f-300a-4abd-97d2-df79cf19f402#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
 ### ganz
 
-* [https://www.spiegel.de/panorama/leute/julianne-moore-trainiert-ihr-gehirn-mit-einem-besonderen-trick](https://www.spiegel.de/panorama/leute/julianne-moore-trainiert-ihr-gehirn-mit-einem-besonderen-trick-a-e7b7e31a-f424-485f-a871-0b28ead54060#ref=rss)
-* [https://www.spiegel.de/panorama/leute/reese-witherspoon-wollte-wegen-eltern-chirurgin-werden](https://www.spiegel.de/panorama/leute/reese-witherspoon-wollte-wegen-eltern-chirurgin-werden-a-132afcc0-47d6-4e5d-bec4-888303536dbc#ref=rss)
-### donald
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### oben
 
-* [https://www.spiegel.de/wirtschaft/china-der-handelskrieg-mit-den-usa-ist-wieder-voll-entflammt](https://www.spiegel.de/wirtschaft/china-der-handelskrieg-mit-den-usa-ist-wieder-voll-entflammt-a-06632895-ace4-4e37-a7af-45c4c29385b1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-aussenhandel-trotzt-den-zoellen-von-donald-trump](https://www.spiegel.de/wirtschaft/china-aussenhandel-trotzt-den-zoellen-von-donald-trump-a-25fe73e4-525b-4713-852b-adcf07ecc1b1#ref=rss)
-### riesenabendsegler
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### superreiche
 
-* [https://www.spiegel.de/wissenschaft/natur/europas-groesste-fledermaus-riesenabendsegler-faengt-und-frisst-voegel-in-der-luft](https://www.spiegel.de/wissenschaft/natur/europas-groesste-fledermaus-riesenabendsegler-faengt-und-frisst-voegel-in-der-luft-a-839296a2-6bf7-4a78-96a1-c7af33086ab5#ref=rss)
-### vögel
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### halten
 
-* [https://www.spiegel.de/wissenschaft/natur/europas-groesste-fledermaus-riesenabendsegler-faengt-und-frisst-voegel-in-der-luft](https://www.spiegel.de/wissenschaft/natur/europas-groesste-fledermaus-riesenabendsegler-faengt-und-frisst-voegel-in-der-luft-a-839296a2-6bf7-4a78-96a1-c7af33086ab5#ref=rss)
-### luft
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-so-viel-vermoegen-haben-die-500-reichsten-in-deutschland-podcast-a-a288607f-6605-41c4-97aa-fe0fdd018cfe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+### meinung
 
-* [https://www.spiegel.de/wissenschaft/natur/europas-groesste-fledermaus-riesenabendsegler-faengt-und-frisst-voegel-in-der-luft](https://www.spiegel.de/wissenschaft/natur/europas-groesste-fledermaus-riesenabendsegler-faengt-und-frisst-voegel-in-der-luft-a-839296a2-6bf7-4a78-96a1-c7af33086ab5#ref=rss)
-### mithilfe
+* [https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast](https://www.spiegel.de/wirtschaft/reichste-deutsche-die-500-reichsten-deutschen-und-ihre-meinung-zu-hoeheren-steuern-podcast-a-5e3c64a8-1c47-4f1c-8951-a8442d554879#ref=rss)
+* [https://www.spiegel.de/ausland/israel-donald-trump-preist-sich-selbst-und-wirbt-fuer-begnadigung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-donald-trump-preist-sich-selbst-und-wirbt-fuer-begnadigung-von-benjamin-netanyahu-a-78c5e767-9ce6-4cd6-9e97-6d9dd0b90d3e#ref=rss)
+### gelingt
 
-* [https://www.spiegel.de/wissenschaft/natur/europas-groesste-fledermaus-riesenabendsegler-faengt-und-frisst-voegel-in-der-luft](https://www.spiegel.de/wissenschaft/natur/europas-groesste-fledermaus-riesenabendsegler-faengt-und-frisst-voegel-in-der-luft-a-839296a2-6bf7-4a78-96a1-c7af33086ab5#ref=rss)
-* [https://www.spiegel.de/geschichte/heidelberger-prinzhorn-sammlung-und-die-kunst-psychisch-erkrankter-august-natterers-wunder-hirthe](https://www.spiegel.de/geschichte/heidelberger-prinzhorn-sammlung-und-die-kunst-psychisch-erkrankter-august-natterers-wunder-hirthe-a-659ea49b-4347-455f-ae08-ba7311309bba#ref=rss)
-### kurz
+* [https://www.spiegel.de/karriere/ruhestand-so-gelingt-die-abschiedsfeier](https://www.spiegel.de/karriere/ruhestand-so-gelingt-die-abschiedsfeier-a-af7a6fe5-f8ca-4e93-96ef-2184439c1db5#ref=rss)
+### allem
 
-* [https://www.spiegel.de/ausland/gaza-abkommen-us-praesident-trifft-mit-mega-entourage-in-israel-ein](https://www.spiegel.de/ausland/gaza-abkommen-us-praesident-trifft-mit-mega-entourage-in-israel-ein-a-65b4a09f-300a-4abd-97d2-df79cf19f402#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-explosion-in-der-high-deck-siedlung-viele-verletzte](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-explosion-in-der-high-deck-siedlung-viele-verletzte-a-ca86baf8-53f5-401d-8eae-f02f6fad0be0#ref=rss)
-### reese
+* [https://www.spiegel.de/karriere/ruhestand-so-gelingt-die-abschiedsfeier](https://www.spiegel.de/karriere/ruhestand-so-gelingt-die-abschiedsfeier-a-af7a6fe5-f8ca-4e93-96ef-2184439c1db5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-ueber-verletzung-mental-schwieriger-als-koerperlich](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-ueber-verletzung-mental-schwieriger-als-koerperlich-a-d9a626ce-7d57-411b-9e92-11a4cafcb1ff#ref=rss)
+### stehen
 
-* [https://www.spiegel.de/panorama/leute/reese-witherspoon-wollte-wegen-eltern-chirurgin-werden](https://www.spiegel.de/panorama/leute/reese-witherspoon-wollte-wegen-eltern-chirurgin-werden-a-132afcc0-47d6-4e5d-bec4-888303536dbc#ref=rss)
-### witherspoon
+* [https://www.spiegel.de/karriere/ruhestand-so-gelingt-die-abschiedsfeier](https://www.spiegel.de/karriere/ruhestand-so-gelingt-die-abschiedsfeier-a-af7a6fe5-f8ca-4e93-96ef-2184439c1db5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land](https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land-a-1d802765-fb97-4764-b052-50c00326d477#ref=rss)
+### hafenchef
 
-* [https://www.spiegel.de/panorama/leute/reese-witherspoon-wollte-wegen-eltern-chirurgin-werden](https://www.spiegel.de/panorama/leute/reese-witherspoon-wollte-wegen-eltern-chirurgin-werden-a-132afcc0-47d6-4e5d-bec4-888303536dbc#ref=rss)
-### anderen
+* [https://www.spiegel.de/panorama/justiz/block-prozess-der-hafenchef-und-sein-mysterioeser-kontaktmann](https://www.spiegel.de/panorama/justiz/block-prozess-der-hafenchef-und-sein-mysterioeser-kontaktmann-a-90d01132-2c2a-4977-9548-7e02c5485dfd#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/panorama/leute/reese-witherspoon-wollte-wegen-eltern-chirurgin-werden](https://www.spiegel.de/panorama/leute/reese-witherspoon-wollte-wegen-eltern-chirurgin-werden-a-132afcc0-47d6-4e5d-bec4-888303536dbc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-aussenhandel-trotzt-den-zoellen-von-donald-trump](https://www.spiegel.de/wirtschaft/china-aussenhandel-trotzt-den-zoellen-von-donald-trump-a-25fe73e4-525b-4713-852b-adcf07ecc1b1#ref=rss)
-### psychisch
+* [https://www.spiegel.de/panorama/justiz/block-prozess-der-hafenchef-und-sein-mysterioeser-kontaktmann](https://www.spiegel.de/panorama/justiz/block-prozess-der-hafenchef-und-sein-mysterioeser-kontaktmann-a-90d01132-2c2a-4977-9548-7e02c5485dfd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/flugzeughersteller-lieferkettenprobleme-kosten-airlines-milliarden-us-dollar](https://www.spiegel.de/wirtschaft/unternehmen/flugzeughersteller-lieferkettenprobleme-kosten-airlines-milliarden-us-dollar-a-58c3874f-0f71-48a7-a228-b0caa3cf2385#ref=rss)
+### buchpreis
 
-* [https://www.spiegel.de/geschichte/heidelberger-prinzhorn-sammlung-und-die-kunst-psychisch-erkrankter-august-natterers-wunder-hirthe](https://www.spiegel.de/geschichte/heidelberger-prinzhorn-sammlung-und-die-kunst-psychisch-erkrankter-august-natterers-wunder-hirthe-a-659ea49b-4347-455f-ae08-ba7311309bba#ref=rss)
-### august
+* [https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-2025-die-hollaenderinnen-von-dorothee-elmiger-ist-der-deutschsprachige-roman-des-jahres](https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-2025-die-hollaenderinnen-von-dorothee-elmiger-ist-der-deutschsprachige-roman-des-jahres-a-49ef7103-6bd0-4cf9-a216-d030a664ec37#ref=rss)
+### holländerinnen
 
-* [https://www.spiegel.de/geschichte/heidelberger-prinzhorn-sammlung-und-die-kunst-psychisch-erkrankter-august-natterers-wunder-hirthe](https://www.spiegel.de/geschichte/heidelberger-prinzhorn-sammlung-und-die-kunst-psychisch-erkrankter-august-natterers-wunder-hirthe-a-659ea49b-4347-455f-ae08-ba7311309bba#ref=rss)
-### wunderhirthe
+* [https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-2025-die-hollaenderinnen-von-dorothee-elmiger-ist-der-deutschsprachige-roman-des-jahres](https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-2025-die-hollaenderinnen-von-dorothee-elmiger-ist-der-deutschsprachige-roman-des-jahres-a-49ef7103-6bd0-4cf9-a216-d030a664ec37#ref=rss)
+### dorothee
 
-* [https://www.spiegel.de/geschichte/heidelberger-prinzhorn-sammlung-und-die-kunst-psychisch-erkrankter-august-natterers-wunder-hirthe](https://www.spiegel.de/geschichte/heidelberger-prinzhorn-sammlung-und-die-kunst-psychisch-erkrankter-august-natterers-wunder-hirthe-a-659ea49b-4347-455f-ae08-ba7311309bba#ref=rss)
-### versucht
+* [https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-2025-die-hollaenderinnen-von-dorothee-elmiger-ist-der-deutschsprachige-roman-des-jahres](https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-2025-die-hollaenderinnen-von-dorothee-elmiger-ist-der-deutschsprachige-roman-des-jahres-a-49ef7103-6bd0-4cf9-a216-d030a664ec37#ref=rss)
+### elmiger
 
-* [https://www.spiegel.de/geschichte/heidelberger-prinzhorn-sammlung-und-die-kunst-psychisch-erkrankter-august-natterers-wunder-hirthe](https://www.spiegel.de/geschichte/heidelberger-prinzhorn-sammlung-und-die-kunst-psychisch-erkrankter-august-natterers-wunder-hirthe-a-659ea49b-4347-455f-ae08-ba7311309bba#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-manager-schauen-zunehmend-skeptisch-in-die-zukunft](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-manager-schauen-zunehmend-skeptisch-in-die-zukunft-a-e2f6045a-eb6a-4601-b68f-650167a2f1c5#ref=rss)
-### badenwürttemberg
+* [https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-2025-die-hollaenderinnen-von-dorothee-elmiger-ist-der-deutschsprachige-roman-des-jahres](https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-2025-die-hollaenderinnen-von-dorothee-elmiger-ist-der-deutschsprachige-roman-des-jahres-a-49ef7103-6bd0-4cf9-a216-d030a664ec37#ref=rss)
+### roman
 
-* [https://www.spiegel.de/wirtschaft/tanken-baden-wuerttemberg-will-preis-steigerungen-einschraenken](https://www.spiegel.de/wirtschaft/tanken-baden-wuerttemberg-will-preis-steigerungen-einschraenken-a-c7ee4fe7-2598-4793-8d35-21ac70df1c12#ref=rss)
-### berlinneukölln
+* [https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-2025-die-hollaenderinnen-von-dorothee-elmiger-ist-der-deutschsprachige-roman-des-jahres](https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-2025-die-hollaenderinnen-von-dorothee-elmiger-ist-der-deutschsprachige-roman-des-jahres-a-49ef7103-6bd0-4cf9-a216-d030a664ec37#ref=rss)
+### jahres
 
-* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-explosion-in-der-high-deck-siedlung-viele-verletzte](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-explosion-in-der-high-deck-siedlung-viele-verletzte-a-ca86baf8-53f5-401d-8eae-f02f6fad0be0#ref=rss)
-### highdecksiedlung
+* [https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-2025-die-hollaenderinnen-von-dorothee-elmiger-ist-der-deutschsprachige-roman-des-jahres](https://www.spiegel.de/kultur/literatur/deutscher-buchpreis-2025-die-hollaenderinnen-von-dorothee-elmiger-ist-der-deutschsprachige-roman-des-jahres-a-49ef7103-6bd0-4cf9-a216-d030a664ec37#ref=rss)
+### selenskyj
 
-* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-explosion-in-der-high-deck-siedlung-viele-verletzte](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-explosion-in-der-high-deck-siedlung-viele-verletzte-a-ca86baf8-53f5-401d-8eae-f02f6fad0be0#ref=rss)
-### brannte
+* [https://www.spiegel.de/ausland/selenskyj-und-trump-werden-sich-offenbar-am-freitag-treffen](https://www.spiegel.de/ausland/selenskyj-und-trump-werden-sich-offenbar-am-freitag-treffen-a-6dbfa2aa-d587-49b6-93ce-42a7eb502e2e#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-explosion-in-der-high-deck-siedlung-viele-verletzte](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-explosion-in-der-high-deck-siedlung-viele-verletzte-a-ca86baf8-53f5-401d-8eae-f02f6fad0be0#ref=rss)
-* [https://www.spiegel.de/panorama/osterode-grossbrand-zerstoert-supermarkt-millionenschaden-in-niedersachsen](https://www.spiegel.de/panorama/osterode-grossbrand-zerstoert-supermarkt-millionenschaden-in-niedersachsen-a-968812c5-329e-4dec-afdf-2d77e16445de#ref=rss)
-### zusammenarbeit
+* [https://www.spiegel.de/ausland/selenskyj-und-trump-werden-sich-offenbar-am-freitag-treffen](https://www.spiegel.de/ausland/selenskyj-und-trump-werden-sich-offenbar-am-freitag-treffen-a-6dbfa2aa-d587-49b6-93ce-42a7eb502e2e#ref=rss)
+* [https://www.spiegel.de/auto/berlin-macht-beim-anwohnerparken-offenbar-millionenverluste](https://www.spiegel.de/auto/berlin-macht-beim-anwohnerparken-offenbar-millionenverluste-a-67d272bf-b575-4d63-b2f2-4b5a8fa4adae#ref=rss)
+### osten
 
-* [https://www.spiegel.de/politik/deutschland/geheimdienste-cdu-will-staerkere-zusammenarbeit-gegen-russland](https://www.spiegel.de/politik/deutschland/geheimdienste-cdu-will-staerkere-zusammenarbeit-gegen-russland-a-3e4401d9-fd9a-4d44-949a-f25b30443fb5#ref=rss)
-### russland
+* [https://www.spiegel.de/ausland/selenskyj-und-trump-werden-sich-offenbar-am-freitag-treffen](https://www.spiegel.de/ausland/selenskyj-und-trump-werden-sich-offenbar-am-freitag-treffen-a-6dbfa2aa-d587-49b6-93ce-42a7eb502e2e#ref=rss)
+* [https://www.spiegel.de/panorama/slowakei-viele-verletzte-nach-kollision-zweier-zuege](https://www.spiegel.de/panorama/slowakei-viele-verletzte-nach-kollision-zweier-zuege-a-3e6562e8-cb9c-46a7-aaa7-faeb75b938f1#ref=rss)
+### waffenruhe
 
-* [https://www.spiegel.de/politik/deutschland/geheimdienste-cdu-will-staerkere-zusammenarbeit-gegen-russland](https://www.spiegel.de/politik/deutschland/geheimdienste-cdu-will-staerkere-zusammenarbeit-gegen-russland-a-3e4401d9-fd9a-4d44-949a-f25b30443fb5#ref=rss)
-### osterode
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-israel-vorbereitet-auf-sofortige-rueckkehr-der-geiseln-a-9ebb04b9-eec3-4396-8958-1ebc19f75371#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-toetet-offenbar-mehr-als-30-mitglieder-einer-bande-im-gazastreifen](https://www.spiegel.de/ausland/hamas-toetet-offenbar-mehr-als-30-mitglieder-einer-bande-im-gazastreifen-a-f86ef27f-4620-45c6-a6d0-57aad02e1239#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/osterode-grossbrand-zerstoert-supermarkt-millionenschaden-in-niedersachsen](https://www.spiegel.de/panorama/osterode-grossbrand-zerstoert-supermarkt-millionenschaden-in-niedersachsen-a-968812c5-329e-4dec-afdf-2d77e16445de#ref=rss)
-### supermarkt
+* [https://www.spiegel.de/panorama/mexiko-mehr-als-60-tote-bei-unwettern-in-mexiko](https://www.spiegel.de/panorama/mexiko-mehr-als-60-tote-bei-unwettern-in-mexiko-a-d21572d9-1da8-4e4e-955a-e69c57087db8#ref=rss)
+* [https://www.spiegel.de/panorama/slowakei-viele-verletzte-nach-kollision-zweier-zuege](https://www.spiegel.de/panorama/slowakei-viele-verletzte-nach-kollision-zweier-zuege-a-3e6562e8-cb9c-46a7-aaa7-faeb75b938f1#ref=rss)
+### nahost
 
-* [https://www.spiegel.de/panorama/osterode-grossbrand-zerstoert-supermarkt-millionenschaden-in-niedersachsen](https://www.spiegel.de/panorama/osterode-grossbrand-zerstoert-supermarkt-millionenschaden-in-niedersachsen-a-968812c5-329e-4dec-afdf-2d77e16445de#ref=rss)
-### millionenschaden
+* [https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta](https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta-a-f8b3ad56-e0c0-4f34-9093-f13e3370b5e9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza-a-961b65ed-9653-41ff-9fc6-5700135c8f3d#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/panorama/osterode-grossbrand-zerstoert-supermarkt-millionenschaden-in-niedersachsen](https://www.spiegel.de/panorama/osterode-grossbrand-zerstoert-supermarkt-millionenschaden-in-niedersachsen-a-968812c5-329e-4dec-afdf-2d77e16445de#ref=rss)
-### vierten
+* [https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta](https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta-a-f8b3ad56-e0c0-4f34-9093-f13e3370b5e9#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/wirtschaft/soziales/krankschreibung-ab-dem-vierten-tag-arbeitgeberverbaende-gegen-vorschlag](https://www.spiegel.de/wirtschaft/soziales/krankschreibung-ab-dem-vierten-tag-arbeitgeberverbaende-gegen-vorschlag-a-081f1a38-aecf-4105-ace2-97453c60ec58#ref=rss)
-### arbeitgeberverbände
+* [https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta](https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta-a-f8b3ad56-e0c0-4f34-9093-f13e3370b5e9#ref=rss)
+### nato
 
-* [https://www.spiegel.de/wirtschaft/soziales/krankschreibung-ab-dem-vierten-tag-arbeitgeberverbaende-gegen-vorschlag](https://www.spiegel.de/wirtschaft/soziales/krankschreibung-ab-dem-vierten-tag-arbeitgeberverbaende-gegen-vorschlag-a-081f1a38-aecf-4105-ace2-97453c60ec58#ref=rss)
-### vorschlag
+* [https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta](https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta-a-f8b3ad56-e0c0-4f34-9093-f13e3370b5e9#ref=rss)
+### knesset
 
-* [https://www.spiegel.de/wirtschaft/soziales/krankschreibung-ab-dem-vierten-tag-arbeitgeberverbaende-gegen-vorschlag](https://www.spiegel.de/wirtschaft/soziales/krankschreibung-ab-dem-vierten-tag-arbeitgeberverbaende-gegen-vorschlag-a-081f1a38-aecf-4105-ace2-97453c60ec58#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta](https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta-a-f8b3ad56-e0c0-4f34-9093-f13e3370b5e9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-donald-trump-preist-sich-selbst-und-wirbt-fuer-begnadigung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-donald-trump-preist-sich-selbst-und-wirbt-fuer-begnadigung-von-benjamin-netanyahu-a-78c5e767-9ce6-4cd6-9e97-6d9dd0b90d3e#ref=rss)
+### bricht
+
+* [https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta](https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta-a-f8b3ad56-e0c0-4f34-9093-f13e3370b5e9#ref=rss)
+### machtkampf
+
+* [https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta](https://www.spiegel.de/politik/deutschland/nahost-rueckkehr-der-lebenden-geiseln-bnd-warnt-vor-russischem-angriff-auf-die-nato-gewerkschaft-fordert-rauswurf-von-bahn-vorstaendin-nikutta-a-f8b3ad56-e0c0-4f34-9093-f13e3370b5e9#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-toetet-offenbar-mehr-als-30-mitglieder-einer-bande-im-gazastreifen](https://www.spiegel.de/ausland/hamas-toetet-offenbar-mehr-als-30-mitglieder-einer-bande-im-gazastreifen-a-f86ef27f-4620-45c6-a6d0-57aad02e1239#ref=rss)
+### wirtschaftsnobelpreis
+
+* [https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-forscher-zeigen-welche-innovationen-echten-wohlstand-schaffen](https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-forscher-zeigen-welche-innovationen-echten-wohlstand-schaffen-a-311c2ff4-ea43-4956-9c95-f20230a19d1d#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-forscher-zeigen-welche-innovationen-echten-wohlstand-schaffen](https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-forscher-zeigen-welche-innovationen-echten-wohlstand-schaffen-a-311c2ff4-ea43-4956-9c95-f20230a19d1d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-nordirland-vs-deutschland-hype-um-nico-schlotterbeck](https://www.spiegel.de/sport/fussball/wm-qualifikation-nordirland-vs-deutschland-hype-um-nico-schlotterbeck-a-eb7f17d9-713c-48de-a53c-f3cdfca85912#ref=rss)
+### wohlstand
+
+* [https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-forscher-zeigen-welche-innovationen-echten-wohlstand-schaffen](https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-forscher-zeigen-welche-innovationen-echten-wohlstand-schaffen-a-311c2ff4-ea43-4956-9c95-f20230a19d1d#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-forscher-zeigen-welche-innovationen-echten-wohlstand-schaffen](https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-forscher-zeigen-welche-innovationen-echten-wohlstand-schaffen-a-311c2ff4-ea43-4956-9c95-f20230a19d1d#ref=rss)
+* [https://www.spiegel.de/auto/berlin-macht-beim-anwohnerparken-offenbar-millionenverluste](https://www.spiegel.de/auto/berlin-macht-beim-anwohnerparken-offenbar-millionenverluste-a-67d272bf-b575-4d63-b2f2-4b5a8fa4adae#ref=rss)
+### macht
+
+* [https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-forscher-zeigen-welche-innovationen-echten-wohlstand-schaffen](https://www.spiegel.de/wirtschaft/wirtschaftsnobelpreis-forscher-zeigen-welche-innovationen-echten-wohlstand-schaffen-a-311c2ff4-ea43-4956-9c95-f20230a19d1d#ref=rss)
+* [https://www.spiegel.de/auto/berlin-macht-beim-anwohnerparken-offenbar-millionenverluste](https://www.spiegel.de/auto/berlin-macht-beim-anwohnerparken-offenbar-millionenverluste-a-67d272bf-b575-4d63-b2f2-4b5a8fa4adae#ref=rss)
+### gazastreifen
+
+* [https://www.spiegel.de/ausland/hamas-toetet-offenbar-mehr-als-30-mitglieder-einer-bande-im-gazastreifen](https://www.spiegel.de/ausland/hamas-toetet-offenbar-mehr-als-30-mitglieder-einer-bande-im-gazastreifen-a-f86ef27f-4620-45c6-a6d0-57aad02e1239#ref=rss)
+### parlament
+
+* [https://www.spiegel.de/ausland/donald-trump-vor-dem-parlament-in-israel-die-freigelassenen-geiseln-nebensache](https://www.spiegel.de/ausland/donald-trump-vor-dem-parlament-in-israel-die-freigelassenen-geiseln-nebensache-a-27b86f1e-2396-4851-8420-588c9b3369b6#ref=rss)
+### israelischen
+
+* [https://www.spiegel.de/ausland/donald-trump-vor-dem-parlament-in-israel-die-freigelassenen-geiseln-nebensache](https://www.spiegel.de/ausland/donald-trump-vor-dem-parlament-in-israel-die-freigelassenen-geiseln-nebensache-a-27b86f1e-2396-4851-8420-588c9b3369b6#ref=rss)
+* [https://www.spiegel.de/ausland/israel-donald-trump-preist-sich-selbst-und-wirbt-fuer-begnadigung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-donald-trump-preist-sich-selbst-und-wirbt-fuer-begnadigung-von-benjamin-netanyahu-a-78c5e767-9ce6-4cd6-9e97-6d9dd0b90d3e#ref=rss)
+### katja
+
+* [https://www.spiegel.de/panorama/leute/katja-krasavice-ueber-hausdurchsuchung-mit-dem-rammbock-meine-penthouse-tuer-eingeschlagen](https://www.spiegel.de/panorama/leute/katja-krasavice-ueber-hausdurchsuchung-mit-dem-rammbock-meine-penthouse-tuer-eingeschlagen-a-86947eff-ea2a-4b20-9196-b98828d4f270#ref=rss)
+### krasavice
+
+* [https://www.spiegel.de/panorama/leute/katja-krasavice-ueber-hausdurchsuchung-mit-dem-rammbock-meine-penthouse-tuer-eingeschlagen](https://www.spiegel.de/panorama/leute/katja-krasavice-ueber-hausdurchsuchung-mit-dem-rammbock-meine-penthouse-tuer-eingeschlagen-a-86947eff-ea2a-4b20-9196-b98828d4f270#ref=rss)
+### slowakei
+
+* [https://www.spiegel.de/panorama/slowakei-viele-verletzte-nach-kollision-zweier-zuege](https://www.spiegel.de/panorama/slowakei-viele-verletzte-nach-kollision-zweier-zuege-a-3e6562e8-cb9c-46a7-aaa7-faeb75b938f1#ref=rss)
+### züge
+
+* [https://www.spiegel.de/panorama/slowakei-viele-verletzte-nach-kollision-zweier-zuege](https://www.spiegel.de/panorama/slowakei-viele-verletzte-nach-kollision-zweier-zuege-a-3e6562e8-cb9c-46a7-aaa7-faeb75b938f1#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/slowakei-viele-verletzte-nach-kollision-zweier-zuege](https://www.spiegel.de/panorama/slowakei-viele-verletzte-nach-kollision-zweier-zuege-a-3e6562e8-cb9c-46a7-aaa7-faeb75b938f1#ref=rss)
+* [https://www.spiegel.de/panorama/valencia-spanischer-rentner-lag-wohl-15-jahre-tot-in-seiner-wohnung](https://www.spiegel.de/panorama/valencia-spanischer-rentner-lag-wohl-15-jahre-tot-in-seiner-wohnung-a-67d898e3-28bd-47aa-97bb-5093ee71da28#ref=rss)
+### verden
+
+* [https://www.spiegel.de/panorama/justiz/verden-bewaehrungsstrafe-fuer-raf-sympathisanten-nach-geplantem-brandanschlag](https://www.spiegel.de/panorama/justiz/verden-bewaehrungsstrafe-fuer-raf-sympathisanten-nach-geplantem-brandanschlag-a-5d617339-e64a-421b-ad8b-4db84498f4a7#ref=rss)
+### wollten
+
+* [https://www.spiegel.de/panorama/justiz/verden-bewaehrungsstrafe-fuer-raf-sympathisanten-nach-geplantem-brandanschlag](https://www.spiegel.de/panorama/justiz/verden-bewaehrungsstrafe-fuer-raf-sympathisanten-nach-geplantem-brandanschlag-a-5d617339-e64a-421b-ad8b-4db84498f4a7#ref=rss)
+* [https://www.spiegel.de/panorama/valencia-spanischer-rentner-lag-wohl-15-jahre-tot-in-seiner-wohnung](https://www.spiegel.de/panorama/valencia-spanischer-rentner-lag-wohl-15-jahre-tot-in-seiner-wohnung-a-67d898e3-28bd-47aa-97bb-5093ee71da28#ref=rss)
+### tod
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land](https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land-a-1d802765-fb97-4764-b052-50c00326d477#ref=rss)
+* [https://www.spiegel.de/panorama/valencia-spanischer-rentner-lag-wohl-15-jahre-tot-in-seiner-wohnung](https://www.spiegel.de/panorama/valencia-spanischer-rentner-lag-wohl-15-jahre-tot-in-seiner-wohnung-a-67d898e3-28bd-47aa-97bb-5093ee71da28#ref=rss)
+### mädchen
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land](https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land-a-1d802765-fb97-4764-b052-50c00326d477#ref=rss)
+### land
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land](https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land-a-1d802765-fb97-4764-b052-50c00326d477#ref=rss)
+* [https://www.spiegel.de/auto/berlin-macht-beim-anwohnerparken-offenbar-millionenverluste](https://www.spiegel.de/auto/berlin-macht-beim-anwohnerparken-offenbar-millionenverluste-a-67d272bf-b575-4d63-b2f2-4b5a8fa4adae#ref=rss)
+### tot
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land](https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land-a-1d802765-fb97-4764-b052-50c00326d477#ref=rss)
+* [https://www.spiegel.de/panorama/valencia-spanischer-rentner-lag-wohl-15-jahre-tot-in-seiner-wohnung](https://www.spiegel.de/panorama/valencia-spanischer-rentner-lag-wohl-15-jahre-tot-in-seiner-wohnung-a-67d898e3-28bd-47aa-97bb-5093ee71da28#ref=rss)
+### bericht
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land](https://www.spiegel.de/panorama/justiz/frankreich-tod-von-neunjaehrigem-maedchen-schockiert-das-land-a-1d802765-fb97-4764-b052-50c00326d477#ref=rss)
+* [https://www.spiegel.de/auto/berlin-macht-beim-anwohnerparken-offenbar-millionenverluste](https://www.spiegel.de/auto/berlin-macht-beim-anwohnerparken-offenbar-millionenverluste-a-67d272bf-b575-4d63-b2f2-4b5a8fa4adae#ref=rss)
+### nico
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-nordirland-vs-deutschland-hype-um-nico-schlotterbeck](https://www.spiegel.de/sport/fussball/wm-qualifikation-nordirland-vs-deutschland-hype-um-nico-schlotterbeck-a-eb7f17d9-713c-48de-a53c-f3cdfca85912#ref=rss)
+### schlotterbeck
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-nordirland-vs-deutschland-hype-um-nico-schlotterbeck](https://www.spiegel.de/sport/fussball/wm-qualifikation-nordirland-vs-deutschland-hype-um-nico-schlotterbeck-a-eb7f17d9-713c-48de-a53c-f3cdfca85912#ref=rss)
+### ignorierte
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-nordirland-vs-deutschland-hype-um-nico-schlotterbeck](https://www.spiegel.de/sport/fussball/wm-qualifikation-nordirland-vs-deutschland-hype-um-nico-schlotterbeck-a-eb7f17d9-713c-48de-a53c-f3cdfca85912#ref=rss)
+* [https://www.spiegel.de/ausland/israel-donald-trump-preist-sich-selbst-und-wirbt-fuer-begnadigung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-donald-trump-preist-sich-selbst-und-wirbt-fuer-begnadigung-von-benjamin-netanyahu-a-78c5e767-9ce6-4cd6-9e97-6d9dd0b90d3e#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-ueber-verletzung-mental-schwieriger-als-koerperlich](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-ueber-verletzung-mental-schwieriger-als-koerperlich-a-d9a626ce-7d57-411b-9e92-11a4cafcb1ff#ref=rss)
+### alphonso
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-ueber-verletzung-mental-schwieriger-als-koerperlich](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-ueber-verletzung-mental-schwieriger-als-koerperlich-a-d9a626ce-7d57-411b-9e92-11a4cafcb1ff#ref=rss)
+### davies
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-ueber-verletzung-mental-schwieriger-als-koerperlich](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-ueber-verletzung-mental-schwieriger-als-koerperlich-a-d9a626ce-7d57-411b-9e92-11a4cafcb1ff#ref=rss)
+### fehlt
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-ueber-verletzung-mental-schwieriger-als-koerperlich](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-alphonso-davies-ueber-verletzung-mental-schwieriger-als-koerperlich-a-d9a626ce-7d57-411b-9e92-11a4cafcb1ff#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/flugzeughersteller-lieferkettenprobleme-kosten-airlines-milliarden-us-dollar](https://www.spiegel.de/wirtschaft/unternehmen/flugzeughersteller-lieferkettenprobleme-kosten-airlines-milliarden-us-dollar-a-58c3874f-0f71-48a7-a228-b0caa3cf2385#ref=rss)
+### nexperia
+
+* [https://www.spiegel.de/wirtschaft/nexperia-niederlande-haben-kontrolle-ueber-chinesischen-chiphersteller-uebernommen](https://www.spiegel.de/wirtschaft/nexperia-niederlande-haben-kontrolle-ueber-chinesischen-chiphersteller-uebernommen-a-117be42c-5649-4700-88b6-fd64e6491b9c#ref=rss)
+### übernommen
+
+* [https://www.spiegel.de/wirtschaft/nexperia-niederlande-haben-kontrolle-ueber-chinesischen-chiphersteller-uebernommen](https://www.spiegel.de/wirtschaft/nexperia-niederlande-haben-kontrolle-ueber-chinesischen-chiphersteller-uebernommen-a-117be42c-5649-4700-88b6-fd64e6491b9c#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza-a-961b65ed-9653-41ff-9fc6-5700135c8f3d#ref=rss)
+### lang
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza](https://www.spiegel.de/ausland/israel-gaza-krieg-ab-morgen-braucht-es-europa-fuer-den-wiederaufbau-von-gaza-a-961b65ed-9653-41ff-9fc6-5700135c8f3d#ref=rss)
+* [https://www.spiegel.de/panorama/valencia-spanischer-rentner-lag-wohl-15-jahre-tot-in-seiner-wohnung](https://www.spiegel.de/panorama/valencia-spanischer-rentner-lag-wohl-15-jahre-tot-in-seiner-wohnung-a-67d898e3-28bd-47aa-97bb-5093ee71da28#ref=rss)
+### 15
+
+* [https://www.spiegel.de/panorama/valencia-spanischer-rentner-lag-wohl-15-jahre-tot-in-seiner-wohnung](https://www.spiegel.de/panorama/valencia-spanischer-rentner-lag-wohl-15-jahre-tot-in-seiner-wohnung-a-67d898e3-28bd-47aa-97bb-5093ee71da28#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/geheimdienst-chefs-warnen-im-bundestag-bedrohung-durch-russland-so-gross-wie-nie](https://www.spiegel.de/politik/geheimdienst-chefs-warnen-im-bundestag-bedrohung-durch-russland-so-gross-wie-nie-a-5f7e208c-5f41-407a-ac9b-b00d6f4d2ee8#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/auto/berlin-macht-beim-anwohnerparken-offenbar-millionenverluste](https://www.spiegel.de/auto/berlin-macht-beim-anwohnerparken-offenbar-millionenverluste-a-67d272bf-b575-4d63-b2f2-4b5a8fa4adae#ref=rss)
 
