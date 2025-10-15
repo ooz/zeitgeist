@@ -4,386 +4,310 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### uspräsident
+### menschen
 
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen](https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen-a-74e8edbd-a3ff-412e-84d3-f2efc118281b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/donald-trump-stellt-tomahawk-waffen-fuer-ukraine-in-aussicht-was-koennen-die-ausrichten](https://www.spiegel.de/wissenschaft/technik/donald-trump-stellt-tomahawk-waffen-fuer-ukraine-in-aussicht-was-koennen-die-ausrichten-a-1c7b0949-0021-44a4-b468-41d6bfeff904#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/kultur/werwoelfe-im-fernsehen-bei-diesen-luegen-macht-sogar-die-ard-mit](https://www.spiegel.de/kultur/werwoelfe-im-fernsehen-bei-diesen-luegen-macht-sogar-die-ard-mit-a-e745d24e-c6a9-4ab7-848f-eb889cc08ef1#ref=rss)
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/brompton-electric-im-test-dieses-e-faltrad-klettert-auch-den-brocken-rauf](https://www.spiegel.de/tests/fahrrad-zubehoer/brompton-electric-im-test-dieses-e-faltrad-klettert-auch-den-brocken-rauf-a-ffcfffa3-cd8f-4323-a2a2-914a4c8d2d6b#ref=rss)
-* [https://www.spiegel.de/ausland/usa-pentagon-medien-lehnen-unterschrift-einer-neuen-presserichtlinie-ab](https://www.spiegel.de/ausland/usa-pentagon-medien-lehnen-unterschrift-einer-neuen-presserichtlinie-ab-a-212954d4-890f-43d4-ac53-1b425b576483#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-rouven-schroeder-wird-sportchef-bei-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/bundesliga-rouven-schroeder-wird-sportchef-bei-borussia-moenchengladbach-a-8e58dfde-46e5-4ac5-905f-82a30ff8c3db#ref=rss)
-* [https://www.spiegel.de/kultur/kylie-jenner-comeback-als-king-kylie-mit-kontroversem-knastvideo](https://www.spiegel.de/kultur/kylie-jenner-comeback-als-king-kylie-mit-kontroversem-knastvideo-a-14d38d21-d74c-4449-93d9-d8909466806b#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-entzieht-buergermeister-von-odessa-die-staatsbuergerschaft](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-entzieht-buergermeister-von-odessa-die-staatsbuergerschaft-a-a6d50377-b6c9-4ead-99c9-d88a28e001e8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/donald-trump-stellt-tomahawk-waffen-fuer-ukraine-in-aussicht-was-koennen-die-ausrichten](https://www.spiegel.de/wissenschaft/technik/donald-trump-stellt-tomahawk-waffen-fuer-ukraine-in-aussicht-was-koennen-die-ausrichten-a-1c7b0949-0021-44a4-b468-41d6bfeff904#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-### osten
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-* [https://www.spiegel.de/kultur/tv/brandenburg-rbb-laedt-afd-politiker-in-talkrunde-ein-und-erntet-dafuer-scharfe-kritik](https://www.spiegel.de/kultur/tv/brandenburg-rbb-laedt-afd-politiker-in-talkrunde-ein-und-erntet-dafuer-scharfe-kritik-a-d8ef60c8-8141-4ef7-ad52-a2ee10f02a84#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen](https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen-a-74e8edbd-a3ff-412e-84d3-f2efc118281b#ref=rss)
+* [https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs](https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs-a-54e4b8f5-52c5-4218-91ee-68ef32524307#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus](https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus-a-73072458-0b03-4db2-8623-474553a96d46#ref=rss)
+* [https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik](https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik-a-c34a054b-a084-40fd-9fa1-2962efe03255#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen](https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen-a-74e8edbd-a3ff-412e-84d3-f2efc118281b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/donald-trump-stellt-tomahawk-waffen-fuer-ukraine-in-aussicht-was-koennen-die-ausrichten](https://www.spiegel.de/wissenschaft/technik/donald-trump-stellt-tomahawk-waffen-fuer-ukraine-in-aussicht-was-koennen-die-ausrichten-a-1c7b0949-0021-44a4-b468-41d6bfeff904#ref=rss)
-### benko
+* [https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer](https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer-a-d1cba59e-9bac-418f-96e5-256b8f9508b2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus](https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus-a-73072458-0b03-4db2-8623-474553a96d46#ref=rss)
+### hamas
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-pflegestufe-1-vermisster-fabian-aus-guestrow](https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-pflegestufe-1-vermisster-fabian-aus-guestrow-a-372d50d2-760e-409e-94b4-6fe5b8d8850f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rene-benko-vor-gericht-ein-mann-der-sich-weigert-seinen-lebensstil-aufzugeben](https://www.spiegel.de/wirtschaft/rene-benko-vor-gericht-ein-mann-der-sich-weigert-seinen-lebensstil-aufzugeben-a-e111fa8e-41a3-40f4-8c17-d20b704cbd98#ref=rss)
-### kylie
+* [https://www.spiegel.de/ausland/gaza-mahmud-abbas-verurteilt-hinrichtungen-durch-hamas](https://www.spiegel.de/ausland/gaza-mahmud-abbas-verurteilt-hinrichtungen-durch-hamas-a-917e4b5e-33d6-4770-8122-498badbc2088#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-von-hamas-uebergebene-leiche-soll-keine-geisel-aus-israel-sein](https://www.spiegel.de/ausland/gaza-von-hamas-uebergebene-leiche-soll-keine-geisel-aus-israel-sein-a-c6edd003-1528-498e-b5ee-c3b54226c713#ref=rss)
+### israel
 
-* [https://www.spiegel.de/kultur/kylie-jenner-comeback-als-king-kylie-mit-kontroversem-knastvideo](https://www.spiegel.de/kultur/kylie-jenner-comeback-als-king-kylie-mit-kontroversem-knastvideo-a-14d38d21-d74c-4449-93d9-d8909466806b#ref=rss)
-### macht
+* [https://www.spiegel.de/ausland/gaza-von-hamas-uebergebene-leiche-soll-keine-geisel-aus-israel-sein](https://www.spiegel.de/ausland/gaza-von-hamas-uebergebene-leiche-soll-keine-geisel-aus-israel-sein-a-c6edd003-1528-498e-b5ee-c3b54226c713#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or](https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or-a-8d076c85-b6c7-4e03-92c7-c47334f823b7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert-a-3a631614-6f45-4446-bf93-41119b7250c0#ref=rss)
+### usa
 
-* [https://www.spiegel.de/kultur/werwoelfe-im-fernsehen-bei-diesen-luegen-macht-sogar-die-ard-mit](https://www.spiegel.de/kultur/werwoelfe-im-fernsehen-bei-diesen-luegen-macht-sogar-die-ard-mit-a-e745d24e-c6a9-4ab7-848f-eb889cc08ef1#ref=rss)
-* [https://www.spiegel.de/ausland/madagaskar-militaer-uebernimmt-macht-im-inselstaat](https://www.spiegel.de/ausland/madagaskar-militaer-uebernimmt-macht-im-inselstaat-a-018e444b-860c-4479-b10a-f9f3523f2ece#ref=rss)
-### krieg
+* [https://www.spiegel.de/panorama/maechtigste-paesse-der-welt-usa-fallen-aus-den-top-ten-ranking-der-reisefreiheit](https://www.spiegel.de/panorama/maechtigste-paesse-der-welt-usa-fallen-aus-den-top-ten-ranking-der-reisefreiheit-a-375e7eef-8ae8-410b-ab1b-fe217d1f2f55#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert-a-3a631614-6f45-4446-bf93-41119b7250c0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa-a-6b1baae2-e7c3-49f4-b0a3-dcafce2bbc45#ref=rss)
+### afd
 
-* [https://www.spiegel.de/kultur/werwoelfe-im-fernsehen-bei-diesen-luegen-macht-sogar-die-ard-mit](https://www.spiegel.de/kultur/werwoelfe-im-fernsehen-bei-diesen-luegen-macht-sogar-die-ard-mit-a-e745d24e-c6a9-4ab7-848f-eb889cc08ef1#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-### friedensgipfel
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen](https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen-a-74e8edbd-a3ff-412e-84d3-f2efc118281b#ref=rss)
-### nahen
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen](https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen-a-74e8edbd-a3ff-412e-84d3-f2efc118281b#ref=rss)
-### politik
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-* [https://www.spiegel.de/gesundheit/krebs-who-fordert-strengere-massnahmen-gegen-alkoholkonsum-in-europa](https://www.spiegel.de/gesundheit/krebs-who-fordert-strengere-massnahmen-gegen-alkoholkonsum-in-europa-a-152cb50d-f6b8-4f88-8fba-613d721d67ee#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/kultur/tv/brandenburg-rbb-laedt-afd-politiker-in-talkrunde-ein-und-erntet-dafuer-scharfe-kritik](https://www.spiegel.de/kultur/tv/brandenburg-rbb-laedt-afd-politiker-in-talkrunde-ein-und-erntet-dafuer-scharfe-kritik-a-d8ef60c8-8141-4ef7-ad52-a2ee10f02a84#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rente-friedrich-merz-zeigt-verstaendnis-fuer-ju-rebellen](https://www.spiegel.de/politik/deutschland/rente-friedrich-merz-zeigt-verstaendnis-fuer-ju-rebellen-a-d680f337-20a5-4c80-a12f-0e7276582e32#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/spionage-software-einer-ueberwachungsfirma-wie-politiker-und-journalisten-getrackt-werden](https://www.spiegel.de/wirtschaft/unternehmen/spionage-software-einer-ueberwachungsfirma-wie-politiker-und-journalisten-getrackt-werden-a-2d105f7a-4cb9-486a-a871-2fe65cc45f19#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen](https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen-a-74e8edbd-a3ff-412e-84d3-f2efc118281b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/donald-trump-stellt-tomahawk-waffen-fuer-ukraine-in-aussicht-was-koennen-die-ausrichten](https://www.spiegel.de/wissenschaft/technik/donald-trump-stellt-tomahawk-waffen-fuer-ukraine-in-aussicht-was-koennen-die-ausrichten-a-1c7b0949-0021-44a4-b468-41d6bfeff904#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/wirtschaft/elbtower-hamburg-will-fast-600-millionen-euro-steuergelder-investieren](https://www.spiegel.de/wirtschaft/elbtower-hamburg-will-fast-600-millionen-euro-steuergelder-investieren-a-f69ac89a-be77-44be-b650-82c130ae7b7d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/amateurfussball-in-hamburg-moorburger-tsv-verliert-0-66-darum-ist-der-coach-zufrieden](https://www.spiegel.de/sport/fussball/amateurfussball-in-hamburg-moorburger-tsv-verliert-0-66-darum-ist-der-coach-zufrieden-a-5124ba46-3d7d-471f-9278-9b355b08f6a0#ref=rss)
-### sozialisten
-
-* [https://www.spiegel.de/ausland/frankreich-sozialisten-wollen-neue-regierung-vorerst-nicht-stuerzen](https://www.spiegel.de/ausland/frankreich-sozialisten-wollen-neue-regierung-vorerst-nicht-stuerzen-a-65148256-229c-4245-8e36-7aeaf02a396c#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-regierungschef-sebastien-lecornu-will-umstrittene-rentenreform-aussetzen](https://www.spiegel.de/ausland/frankreich-regierungschef-sebastien-lecornu-will-umstrittene-rentenreform-aussetzen-a-722bfa05-1dad-4f20-8a98-55c2162e5af7#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/frankreich-sozialisten-wollen-neue-regierung-vorerst-nicht-stuerzen](https://www.spiegel.de/ausland/frankreich-sozialisten-wollen-neue-regierung-vorerst-nicht-stuerzen-a-65148256-229c-4245-8e36-7aeaf02a396c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-pflegestufe-1-vermisster-fabian-aus-guestrow](https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-pflegestufe-1-vermisster-fabian-aus-guestrow-a-372d50d2-760e-409e-94b4-6fe5b8d8850f#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-regierungschef-sebastien-lecornu-will-umstrittene-rentenreform-aussetzen](https://www.spiegel.de/ausland/frankreich-regierungschef-sebastien-lecornu-will-umstrittene-rentenreform-aussetzen-a-722bfa05-1dad-4f20-8a98-55c2162e5af7#ref=rss)
-### sébastien
-
-* [https://www.spiegel.de/ausland/frankreich-sozialisten-wollen-neue-regierung-vorerst-nicht-stuerzen](https://www.spiegel.de/ausland/frankreich-sozialisten-wollen-neue-regierung-vorerst-nicht-stuerzen-a-65148256-229c-4245-8e36-7aeaf02a396c#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-regierungschef-sebastien-lecornu-will-umstrittene-rentenreform-aussetzen](https://www.spiegel.de/ausland/frankreich-regierungschef-sebastien-lecornu-will-umstrittene-rentenreform-aussetzen-a-722bfa05-1dad-4f20-8a98-55c2162e5af7#ref=rss)
-### lecornu
-
-* [https://www.spiegel.de/ausland/frankreich-sozialisten-wollen-neue-regierung-vorerst-nicht-stuerzen](https://www.spiegel.de/ausland/frankreich-sozialisten-wollen-neue-regierung-vorerst-nicht-stuerzen-a-65148256-229c-4245-8e36-7aeaf02a396c#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-regierungschef-sebastien-lecornu-will-umstrittene-rentenreform-aussetzen](https://www.spiegel.de/ausland/frankreich-regierungschef-sebastien-lecornu-will-umstrittene-rentenreform-aussetzen-a-722bfa05-1dad-4f20-8a98-55c2162e5af7#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-entzieht-buergermeister-von-odessa-die-staatsbuergerschaft](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-entzieht-buergermeister-von-odessa-die-staatsbuergerschaft-a-a6d50377-b6c9-4ead-99c9-d88a28e001e8#ref=rss)
-* [https://www.spiegel.de/ausland/madagaskar-militaer-uebernimmt-macht-im-inselstaat](https://www.spiegel.de/ausland/madagaskar-militaer-uebernimmt-macht-im-inselstaat-a-018e444b-860c-4479-b10a-f9f3523f2ece#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gesamtmetall-praesident-stefan-wolf-legt-amt-mit-sofortiger-wirkung-nieder](https://www.spiegel.de/wirtschaft/gesamtmetall-praesident-stefan-wolf-legt-amt-mit-sofortiger-wirkung-nieder-a-6b406b0e-76c8-401c-a40f-04dde710b8ab#ref=rss)
-### rené
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-pflegestufe-1-vermisster-fabian-aus-guestrow](https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-pflegestufe-1-vermisster-fabian-aus-guestrow-a-372d50d2-760e-409e-94b4-6fe5b8d8850f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rene-benko-vor-gericht-ein-mann-der-sich-weigert-seinen-lebensstil-aufzugeben](https://www.spiegel.de/wirtschaft/rene-benko-vor-gericht-ein-mann-der-sich-weigert-seinen-lebensstil-aufzugeben-a-e111fa8e-41a3-40f4-8c17-d20b704cbd98#ref=rss)
-### mann
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-vor-gericht-ein-mann-der-sich-weigert-seinen-lebensstil-aufzugeben](https://www.spiegel.de/wirtschaft/rene-benko-vor-gericht-ein-mann-der-sich-weigert-seinen-lebensstil-aufzugeben-a-e111fa8e-41a3-40f4-8c17-d20b704cbd98#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/eigenbedarf-mann-darf-schwiegermutter-den-mietvertrag-kuendigen](https://www.spiegel.de/panorama/justiz/eigenbedarf-mann-darf-schwiegermutter-den-mietvertrag-kuendigen-a-fae2a3f1-2463-4498-95ab-28bc65f0e2f6#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/kultur/werwoelfe-im-fernsehen-bei-diesen-luegen-macht-sogar-die-ard-mit](https://www.spiegel.de/kultur/werwoelfe-im-fernsehen-bei-diesen-luegen-macht-sogar-die-ard-mit-a-e745d24e-c6a9-4ab7-848f-eb889cc08ef1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-warum-die-einigung-beim-wehrdienst-wackelt](https://www.spiegel.de/politik/deutschland/bundeswehr-warum-die-einigung-beim-wehrdienst-wackelt-a-b8af4a17-0e0c-40dd-b15f-1b1082fedced#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/kultur/werwoelfe-im-fernsehen-bei-diesen-luegen-macht-sogar-die-ard-mit](https://www.spiegel.de/kultur/werwoelfe-im-fernsehen-bei-diesen-luegen-macht-sogar-die-ard-mit-a-e745d24e-c6a9-4ab7-848f-eb889cc08ef1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/audi-einzige-frau-im-vorstand-des-autoherstellers-muss-gehen](https://www.spiegel.de/wirtschaft/unternehmen/audi-einzige-frau-im-vorstand-des-autoherstellers-muss-gehen-a-82c9c4da-76d9-4a73-8331-dd1657a8b4b7#ref=rss)
-### brompton
-
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/brompton-electric-im-test-dieses-e-faltrad-klettert-auch-den-brocken-rauf](https://www.spiegel.de/tests/fahrrad-zubehoer/brompton-electric-im-test-dieses-e-faltrad-klettert-auch-den-brocken-rauf-a-ffcfffa3-cd8f-4323-a2a2-914a4c8d2d6b#ref=rss)
-### brocken
-
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/brompton-electric-im-test-dieses-e-faltrad-klettert-auch-den-brocken-rauf](https://www.spiegel.de/tests/fahrrad-zubehoer/brompton-electric-im-test-dieses-e-faltrad-klettert-auch-den-brocken-rauf-a-ffcfffa3-cd8f-4323-a2a2-914a4c8d2d6b#ref=rss)
-### wir
-
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/brompton-electric-im-test-dieses-e-faltrad-klettert-auch-den-brocken-rauf](https://www.spiegel.de/tests/fahrrad-zubehoer/brompton-electric-im-test-dieses-e-faltrad-klettert-auch-den-brocken-rauf-a-ffcfffa3-cd8f-4323-a2a2-914a4c8d2d6b#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/tests/fahrrad-zubehoer/brompton-electric-im-test-dieses-e-faltrad-klettert-auch-den-brocken-rauf](https://www.spiegel.de/tests/fahrrad-zubehoer/brompton-electric-im-test-dieses-e-faltrad-klettert-auch-den-brocken-rauf-a-ffcfffa3-cd8f-4323-a2a2-914a4c8d2d6b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/amateurfussball-in-hamburg-moorburger-tsv-verliert-0-66-darum-ist-der-coach-zufrieden](https://www.spiegel.de/sport/fussball/amateurfussball-in-hamburg-moorburger-tsv-verliert-0-66-darum-ist-der-coach-zufrieden-a-5124ba46-3d7d-471f-9278-9b355b08f6a0#ref=rss)
-### waffenruhe
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-### show
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-### verkündet
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-### ewigen
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-### frieden
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-### gazaabkommen
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-### feiern
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-### bedeutet
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-### erfolg
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-### einschätzungen
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-### uskorrespondent
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-### marc
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-### pitzke
-
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-1d8ea15b-4bac-4049-bdcc-02f5771bb86b#ref=rss)
-* [https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast](https://www.spiegel.de/ausland/der-us-praesident-und-die-waffenruhe-trumps-show-zum-friedensgipfel-im-nahen-osten-podcast-a-b2179a09-f264-4c1d-ae60-39fcdb1a5226#ref=rss)
-### rbb
-
-* [https://www.spiegel.de/kultur/tv/brandenburg-rbb-laedt-afd-politiker-in-talkrunde-ein-und-erntet-dafuer-scharfe-kritik](https://www.spiegel.de/kultur/tv/brandenburg-rbb-laedt-afd-politiker-in-talkrunde-ein-und-erntet-dafuer-scharfe-kritik-a-d8ef60c8-8141-4ef7-ad52-a2ee10f02a84#ref=rss)
-### scharfe
-
-* [https://www.spiegel.de/kultur/tv/brandenburg-rbb-laedt-afd-politiker-in-talkrunde-ein-und-erntet-dafuer-scharfe-kritik](https://www.spiegel.de/kultur/tv/brandenburg-rbb-laedt-afd-politiker-in-talkrunde-ein-und-erntet-dafuer-scharfe-kritik-a-d8ef60c8-8141-4ef7-ad52-a2ee10f02a84#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/kultur/tv/brandenburg-rbb-laedt-afd-politiker-in-talkrunde-ein-und-erntet-dafuer-scharfe-kritik](https://www.spiegel.de/kultur/tv/brandenburg-rbb-laedt-afd-politiker-in-talkrunde-ein-und-erntet-dafuer-scharfe-kritik-a-d8ef60c8-8141-4ef7-ad52-a2ee10f02a84#ref=rss)
-### partei
-
-* [https://www.spiegel.de/kultur/tv/brandenburg-rbb-laedt-afd-politiker-in-talkrunde-ein-und-erntet-dafuer-scharfe-kritik](https://www.spiegel.de/kultur/tv/brandenburg-rbb-laedt-afd-politiker-in-talkrunde-ein-und-erntet-dafuer-scharfe-kritik-a-d8ef60c8-8141-4ef7-ad52-a2ee10f02a84#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-regierungschef-sebastien-lecornu-will-umstrittene-rentenreform-aussetzen](https://www.spiegel.de/ausland/frankreich-regierungschef-sebastien-lecornu-will-umstrittene-rentenreform-aussetzen-a-722bfa05-1dad-4f20-8a98-55c2162e5af7#ref=rss)
-### sender
-
-* [https://www.spiegel.de/kultur/tv/brandenburg-rbb-laedt-afd-politiker-in-talkrunde-ein-und-erntet-dafuer-scharfe-kritik](https://www.spiegel.de/kultur/tv/brandenburg-rbb-laedt-afd-politiker-in-talkrunde-ein-und-erntet-dafuer-scharfe-kritik-a-d8ef60c8-8141-4ef7-ad52-a2ee10f02a84#ref=rss)
-* [https://www.spiegel.de/ausland/usa-pentagon-medien-lehnen-unterschrift-einer-neuen-presserichtlinie-ab](https://www.spiegel.de/ausland/usa-pentagon-medien-lehnen-unterschrift-einer-neuen-presserichtlinie-ab-a-212954d4-890f-43d4-ac53-1b425b576483#ref=rss)
-### d’angelo
-
-* [https://www.spiegel.de/kultur/musik/soul-musiker-dangelo-gestorben](https://www.spiegel.de/kultur/musik/soul-musiker-dangelo-gestorben-a-46fe88b0-1186-4285-8b5e-00bceeff8e2a#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/musik/soul-musiker-dangelo-gestorben](https://www.spiegel.de/kultur/musik/soul-musiker-dangelo-gestorben-a-46fe88b0-1186-4285-8b5e-00bceeff8e2a#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/musik/soul-musiker-dangelo-gestorben](https://www.spiegel.de/kultur/musik/soul-musiker-dangelo-gestorben-a-46fe88b0-1186-4285-8b5e-00bceeff8e2a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/audi-einzige-frau-im-vorstand-des-autoherstellers-muss-gehen](https://www.spiegel.de/wirtschaft/unternehmen/audi-einzige-frau-im-vorstand-des-autoherstellers-muss-gehen-a-82c9c4da-76d9-4a73-8331-dd1657a8b4b7#ref=rss)
-### pentagon
-
-* [https://www.spiegel.de/ausland/usa-pentagon-medien-lehnen-unterschrift-einer-neuen-presserichtlinie-ab](https://www.spiegel.de/ausland/usa-pentagon-medien-lehnen-unterschrift-einer-neuen-presserichtlinie-ab-a-212954d4-890f-43d4-ac53-1b425b576483#ref=rss)
-### medien
-
-* [https://www.spiegel.de/ausland/usa-pentagon-medien-lehnen-unterschrift-einer-neuen-presserichtlinie-ab](https://www.spiegel.de/ausland/usa-pentagon-medien-lehnen-unterschrift-einer-neuen-presserichtlinie-ab-a-212954d4-890f-43d4-ac53-1b425b576483#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab](https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab-a-92ad0c21-f97e-449d-92fd-16c29e6a452e#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/ausland/usa-pentagon-medien-lehnen-unterschrift-einer-neuen-presserichtlinie-ab](https://www.spiegel.de/ausland/usa-pentagon-medien-lehnen-unterschrift-einer-neuen-presserichtlinie-ab-a-212954d4-890f-43d4-ac53-1b425b576483#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-sozialisten-wollen-neue-regierung-vorerst-nicht-stuerzen](https://www.spiegel.de/ausland/frankreich-sozialisten-wollen-neue-regierung-vorerst-nicht-stuerzen-a-65148256-229c-4245-8e36-7aeaf02a396c#ref=rss)
-### rente
+* [https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs](https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs-a-54e4b8f5-52c5-4218-91ee-68ef32524307#ref=rss)
+* [https://www.spiegel.de/panorama/guinness-rekord-dieser-mann-braucht-20-minuten-um-seinen-vollen-namen-auszusprechen](https://www.spiegel.de/panorama/guinness-rekord-dieser-mann-braucht-20-minuten-um-seinen-vollen-namen-auszusprechen-a-02ec09fc-a5ba-49e0-8fe0-192495278b03#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa-a-6b1baae2-e7c3-49f4-b0a3-dcafce2bbc45#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/rente-friedrich-merz-zeigt-verstaendnis-fuer-ju-rebellen](https://www.spiegel.de/politik/deutschland/rente-friedrich-merz-zeigt-verstaendnis-fuer-ju-rebellen-a-d680f337-20a5-4c80-a12f-0e7276582e32#ref=rss)
-### sorgt
+* [https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer](https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer-a-d1cba59e-9bac-418f-96e5-256b8f9508b2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus](https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus-a-73072458-0b03-4db2-8623-474553a96d46#ref=rss)
+### spd
 
-* [https://www.spiegel.de/politik/deutschland/rente-friedrich-merz-zeigt-verstaendnis-fuer-ju-rebellen](https://www.spiegel.de/politik/deutschland/rente-friedrich-merz-zeigt-verstaendnis-fuer-ju-rebellen-a-d680f337-20a5-4c80-a12f-0e7276582e32#ref=rss)
-* [https://www.spiegel.de/kultur/kylie-jenner-comeback-als-king-kylie-mit-kontroversem-knastvideo](https://www.spiegel.de/kultur/kylie-jenner-comeback-als-king-kylie-mit-kontroversem-knastvideo-a-14d38d21-d74c-4449-93d9-d8909466806b#ref=rss)
-### containerschiff
+* [https://www.spiegel.de/politik/deutschland/spd-und-die-linke-warum-die-spd-sich-neu-erfinden-muss](https://www.spiegel.de/politik/deutschland/spd-und-die-linke-warum-die-spd-sich-neu-erfinden-muss-a-3f51eb9d-79a2-49da-95e0-4c64de158348#ref=rss)
+### daniel
 
-* [https://www.spiegel.de/wirtschaft/nordostpassage-containerschiff-faehrt-erstmals-ueber-arktis-von-china-nach-europa](https://www.spiegel.de/wirtschaft/nordostpassage-containerschiff-faehrt-erstmals-ueber-arktis-von-china-nach-europa-a-97dbed17-3b4a-4c43-9cab-2ced6a3d0fe1#ref=rss)
-### erstmals
+* [https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab](https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab-a-92ad0c21-f97e-449d-92fd-16c29e6a452e#ref=rss)
+### günther
 
-* [https://www.spiegel.de/wirtschaft/nordostpassage-containerschiff-faehrt-erstmals-ueber-arktis-von-china-nach-europa](https://www.spiegel.de/wirtschaft/nordostpassage-containerschiff-faehrt-erstmals-ueber-arktis-von-china-nach-europa-a-97dbed17-3b4a-4c43-9cab-2ced6a3d0fe1#ref=rss)
-### arktis
+* [https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab](https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab-a-92ad0c21-f97e-449d-92fd-16c29e6a452e#ref=rss)
+### karin
 
-* [https://www.spiegel.de/wirtschaft/nordostpassage-containerschiff-faehrt-erstmals-ueber-arktis-von-china-nach-europa](https://www.spiegel.de/wirtschaft/nordostpassage-containerschiff-faehrt-erstmals-ueber-arktis-von-china-nach-europa-a-97dbed17-3b4a-4c43-9cab-2ced6a3d0fe1#ref=rss)
-### europa
+* [https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab](https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab-a-92ad0c21-f97e-449d-92fd-16c29e6a452e#ref=rss)
+### prien
 
-* [https://www.spiegel.de/wirtschaft/nordostpassage-containerschiff-faehrt-erstmals-ueber-arktis-von-china-nach-europa](https://www.spiegel.de/wirtschaft/nordostpassage-containerschiff-faehrt-erstmals-ueber-arktis-von-china-nach-europa-a-97dbed17-3b4a-4c43-9cab-2ced6a3d0fe1#ref=rss)
-* [https://www.spiegel.de/gesundheit/krebs-who-fordert-strengere-massnahmen-gegen-alkoholkonsum-in-europa](https://www.spiegel.de/gesundheit/krebs-who-fordert-strengere-massnahmen-gegen-alkoholkonsum-in-europa-a-152cb50d-f6b8-4f88-8fba-613d721d67ee#ref=rss)
-### russischen
+* [https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab](https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab-a-92ad0c21-f97e-449d-92fd-16c29e6a452e#ref=rss)
+### venezuela
 
-* [https://www.spiegel.de/wirtschaft/nordostpassage-containerschiff-faehrt-erstmals-ueber-arktis-von-china-nach-europa](https://www.spiegel.de/wirtschaft/nordostpassage-containerschiff-faehrt-erstmals-ueber-arktis-von-china-nach-europa-a-97dbed17-3b4a-4c43-9cab-2ced6a3d0fe1#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-entzieht-buergermeister-von-odessa-die-staatsbuergerschaft](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-entzieht-buergermeister-von-odessa-die-staatsbuergerschaft-a-a6d50377-b6c9-4ead-99c9-d88a28e001e8#ref=rss)
-### momente
+* [https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine](https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine-a-0181f231-3917-46c7-b6e2-bd3b662cb15e#ref=rss)
+### mindestens
 
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-so-emotional-verlief-die-heimkehr-der-geiseln](https://www.spiegel.de/ausland/israel-gaza-krieg-so-emotional-verlief-die-heimkehr-der-geiseln-a-2d19e97f-a837-49ca-ab6e-75e5121612e4#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen](https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen-a-74e8edbd-a3ff-412e-84d3-f2efc118281b#ref=rss)
-### sehr
+* [https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine](https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine-a-0181f231-3917-46c7-b6e2-bd3b662cb15e#ref=rss)
+### 14
 
-* [https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen](https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen-a-74e8edbd-a3ff-412e-84d3-f2efc118281b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/elbtower-hamburg-will-fast-600-millionen-euro-steuergelder-investieren](https://www.spiegel.de/wirtschaft/elbtower-hamburg-will-fast-600-millionen-euro-steuergelder-investieren-a-f69ac89a-be77-44be-b650-82c130ae7b7d#ref=rss)
-### gemacht
+* [https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine](https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine-a-0181f231-3917-46c7-b6e2-bd3b662cb15e#ref=rss)
+### goldmine
 
-* [https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen](https://www.spiegel.de/ausland/donald-trump-im-nahen-osten-friedensgipfel-mit-diplomatischen-stolpersteinen-a-74e8edbd-a3ff-412e-84d3-f2efc118281b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mallerbacher-kapelle-archaeologen-entdecken-kindergraeber-mit-weihwassereffekt](https://www.spiegel.de/wissenschaft/mallerbacher-kapelle-archaeologen-entdecken-kindergraeber-mit-weihwassereffekt-a-e09fc5e2-338c-4091-a85c-4a859f5ee5fe#ref=rss)
-### elbtower
+* [https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine](https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine-a-0181f231-3917-46c7-b6e2-bd3b662cb15e#ref=rss)
+### arbeiten
 
-* [https://www.spiegel.de/wirtschaft/elbtower-hamburg-will-fast-600-millionen-euro-steuergelder-investieren](https://www.spiegel.de/wirtschaft/elbtower-hamburg-will-fast-600-millionen-euro-steuergelder-investieren-a-f69ac89a-be77-44be-b650-82c130ae7b7d#ref=rss)
-### fast
+* [https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine](https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine-a-0181f231-3917-46c7-b6e2-bd3b662cb15e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/aktivrente-kabinett-beschliesst-anreize-fuer-arbeit-im-rentenalter](https://www.spiegel.de/wirtschaft/soziales/aktivrente-kabinett-beschliesst-anreize-fuer-arbeit-im-rentenalter-a-6639c119-a7cc-41e2-8644-971c7b702ca6#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/wirtschaft/elbtower-hamburg-will-fast-600-millionen-euro-steuergelder-investieren](https://www.spiegel.de/wirtschaft/elbtower-hamburg-will-fast-600-millionen-euro-steuergelder-investieren-a-f69ac89a-be77-44be-b650-82c130ae7b7d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/donald-trump-stellt-tomahawk-waffen-fuer-ukraine-in-aussicht-was-koennen-die-ausrichten](https://www.spiegel.de/wissenschaft/technik/donald-trump-stellt-tomahawk-waffen-fuer-ukraine-in-aussicht-was-koennen-die-ausrichten-a-1c7b0949-0021-44a4-b468-41d6bfeff904#ref=rss)
-### geld
+* [https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs](https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs-a-54e4b8f5-52c5-4218-91ee-68ef32524307#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/deutsche-bahn-so-buchen-sie-guenstige-bahntickets-fuer-weihnachten](https://www.spiegel.de/reise/deutschland/deutsche-bahn-so-buchen-sie-guenstige-bahntickets-fuer-weihnachten-a-f6a856d1-98e8-4210-94e0-31e5866b2461#ref=rss)
+### welle
 
-* [https://www.spiegel.de/wirtschaft/elbtower-hamburg-will-fast-600-millionen-euro-steuergelder-investieren](https://www.spiegel.de/wirtschaft/elbtower-hamburg-will-fast-600-millionen-euro-steuergelder-investieren-a-f69ac89a-be77-44be-b650-82c130ae7b7d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rene-benko-vor-gericht-ein-mann-der-sich-weigert-seinen-lebensstil-aufzugeben](https://www.spiegel.de/wirtschaft/rene-benko-vor-gericht-ein-mann-der-sich-weigert-seinen-lebensstil-aufzugeben-a-e111fa8e-41a3-40f4-8c17-d20b704cbd98#ref=rss)
-### bundeswehr
+* [https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs](https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs-a-54e4b8f5-52c5-4218-91ee-68ef32524307#ref=rss)
+### intendantin
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-warum-die-einigung-beim-wehrdienst-wackelt](https://www.spiegel.de/politik/deutschland/bundeswehr-warum-die-einigung-beim-wehrdienst-wackelt-a-b8af4a17-0e0c-40dd-b15f-1b1082fedced#ref=rss)
-### zufrieden
+* [https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs](https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs-a-54e4b8f5-52c5-4218-91ee-68ef32524307#ref=rss)
+### barbara
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-warum-die-einigung-beim-wehrdienst-wackelt](https://www.spiegel.de/politik/deutschland/bundeswehr-warum-die-einigung-beim-wehrdienst-wackelt-a-b8af4a17-0e0c-40dd-b15f-1b1082fedced#ref=rss)
-* [https://www.spiegel.de/sport/fussball/amateurfussball-in-hamburg-moorburger-tsv-verliert-0-66-darum-ist-der-coach-zufrieden](https://www.spiegel.de/sport/fussball/amateurfussball-in-hamburg-moorburger-tsv-verliert-0-66-darum-ist-der-coach-zufrieden-a-5124ba46-3d7d-471f-9278-9b355b08f6a0#ref=rss)
-### rouven
+* [https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs](https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs-a-54e4b8f5-52c5-4218-91ee-68ef32524307#ref=rss)
+### massing
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-rouven-schroeder-wird-sportchef-bei-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/bundesliga-rouven-schroeder-wird-sportchef-bei-borussia-moenchengladbach-a-8e58dfde-46e5-4ac5-905f-82a30ff8c3db#ref=rss)
-### schröder
+* [https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs](https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs-a-54e4b8f5-52c5-4218-91ee-68ef32524307#ref=rss)
+### buchen
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-rouven-schroeder-wird-sportchef-bei-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/bundesliga-rouven-schroeder-wird-sportchef-bei-borussia-moenchengladbach-a-8e58dfde-46e5-4ac5-905f-82a30ff8c3db#ref=rss)
-### sportchef
+* [https://www.spiegel.de/reise/deutschland/deutsche-bahn-so-buchen-sie-guenstige-bahntickets-fuer-weihnachten](https://www.spiegel.de/reise/deutschland/deutsche-bahn-so-buchen-sie-guenstige-bahntickets-fuer-weihnachten-a-f6a856d1-98e8-4210-94e0-31e5866b2461#ref=rss)
+### weihnachten
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-rouven-schroeder-wird-sportchef-bei-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/bundesliga-rouven-schroeder-wird-sportchef-bei-borussia-moenchengladbach-a-8e58dfde-46e5-4ac5-905f-82a30ff8c3db#ref=rss)
-### borussia
+* [https://www.spiegel.de/reise/deutschland/deutsche-bahn-so-buchen-sie-guenstige-bahntickets-fuer-weihnachten](https://www.spiegel.de/reise/deutschland/deutsche-bahn-so-buchen-sie-guenstige-bahntickets-fuer-weihnachten-a-f6a856d1-98e8-4210-94e0-31e5866b2461#ref=rss)
+### kabinett
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-rouven-schroeder-wird-sportchef-bei-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/bundesliga-rouven-schroeder-wird-sportchef-bei-borussia-moenchengladbach-a-8e58dfde-46e5-4ac5-905f-82a30ff8c3db#ref=rss)
-### mönchengladbach
+* [https://www.spiegel.de/wirtschaft/soziales/aktivrente-kabinett-beschliesst-anreize-fuer-arbeit-im-rentenalter](https://www.spiegel.de/wirtschaft/soziales/aktivrente-kabinett-beschliesst-anreize-fuer-arbeit-im-rentenalter-a-6639c119-a7cc-41e2-8644-971c7b702ca6#ref=rss)
+* [https://www.spiegel.de/auto/e-autos-kabinett-beschliesst-verlaengerung-der-kfz-steuerbefreiung-fuer-elektroautos](https://www.spiegel.de/auto/e-autos-kabinett-beschliesst-verlaengerung-der-kfz-steuerbefreiung-fuer-elektroautos-a-142142b8-221b-4be2-a971-e789949a9dc1#ref=rss)
+### beschließt
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-rouven-schroeder-wird-sportchef-bei-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/bundesliga-rouven-schroeder-wird-sportchef-bei-borussia-moenchengladbach-a-8e58dfde-46e5-4ac5-905f-82a30ff8c3db#ref=rss)
-### frankreich
+* [https://www.spiegel.de/wirtschaft/soziales/aktivrente-kabinett-beschliesst-anreize-fuer-arbeit-im-rentenalter](https://www.spiegel.de/wirtschaft/soziales/aktivrente-kabinett-beschliesst-anreize-fuer-arbeit-im-rentenalter-a-6639c119-a7cc-41e2-8644-971c7b702ca6#ref=rss)
+* [https://www.spiegel.de/auto/e-autos-kabinett-beschliesst-verlaengerung-der-kfz-steuerbefreiung-fuer-elektroautos](https://www.spiegel.de/auto/e-autos-kabinett-beschliesst-verlaengerung-der-kfz-steuerbefreiung-fuer-elektroautos-a-142142b8-221b-4be2-a971-e789949a9dc1#ref=rss)
+### rentenalter
 
-* [https://www.spiegel.de/ausland/frankreich-sozialisten-wollen-neue-regierung-vorerst-nicht-stuerzen](https://www.spiegel.de/ausland/frankreich-sozialisten-wollen-neue-regierung-vorerst-nicht-stuerzen-a-65148256-229c-4245-8e36-7aeaf02a396c#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-regierungschef-sebastien-lecornu-will-umstrittene-rentenreform-aussetzen](https://www.spiegel.de/ausland/frankreich-regierungschef-sebastien-lecornu-will-umstrittene-rentenreform-aussetzen-a-722bfa05-1dad-4f20-8a98-55c2162e5af7#ref=rss)
-### lage
+* [https://www.spiegel.de/wirtschaft/soziales/aktivrente-kabinett-beschliesst-anreize-fuer-arbeit-im-rentenalter](https://www.spiegel.de/wirtschaft/soziales/aktivrente-kabinett-beschliesst-anreize-fuer-arbeit-im-rentenalter-a-6639c119-a7cc-41e2-8644-971c7b702ca6#ref=rss)
+### fallen
 
-* [https://www.spiegel.de/ausland/frankreich-sozialisten-wollen-neue-regierung-vorerst-nicht-stuerzen](https://www.spiegel.de/ausland/frankreich-sozialisten-wollen-neue-regierung-vorerst-nicht-stuerzen-a-65148256-229c-4245-8e36-7aeaf02a396c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-pflegestufe-1-vermisster-fabian-aus-guestrow](https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-pflegestufe-1-vermisster-fabian-aus-guestrow-a-372d50d2-760e-409e-94b4-6fe5b8d8850f#ref=rss)
-### amt
+* [https://www.spiegel.de/wirtschaft/unternehmen/sympatex-angeklagte-sollen-haftstrafen-auf-bewaehrung-bekommen](https://www.spiegel.de/wirtschaft/unternehmen/sympatex-angeklagte-sollen-haftstrafen-auf-bewaehrung-bekommen-a-c60571fb-655d-46c8-90df-85435f37da06#ref=rss)
+* [https://www.spiegel.de/panorama/maechtigste-paesse-der-welt-usa-fallen-aus-den-top-ten-ranking-der-reisefreiheit](https://www.spiegel.de/panorama/maechtigste-paesse-der-welt-usa-fallen-aus-den-top-ten-ranking-der-reisefreiheit-a-375e7eef-8ae8-410b-ab1b-fe217d1f2f55#ref=rss)
+### samet
 
-* [https://www.spiegel.de/ausland/frankreich-sozialisten-wollen-neue-regierung-vorerst-nicht-stuerzen](https://www.spiegel.de/ausland/frankreich-sozialisten-wollen-neue-regierung-vorerst-nicht-stuerzen-a-65148256-229c-4245-8e36-7aeaf02a396c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gesamtmetall-praesident-stefan-wolf-legt-amt-mit-sofortiger-wirkung-nieder](https://www.spiegel.de/wirtschaft/gesamtmetall-praesident-stefan-wolf-legt-amt-mit-sofortiger-wirkung-nieder-a-6b406b0e-76c8-401c-a40f-04dde710b8ab#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/politik/deutschland/kiel-oberbuergermeister-kandidat-samet-yilmaz-verliert-posten-im-verfassungsschutz](https://www.spiegel.de/politik/deutschland/kiel-oberbuergermeister-kandidat-samet-yilmaz-verliert-posten-im-verfassungsschutz-a-3747cb22-5fa8-4d2f-955b-ee4858734ac6#ref=rss)
+### yilmaz
 
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-entzieht-buergermeister-von-odessa-die-staatsbuergerschaft](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-entzieht-buergermeister-von-odessa-die-staatsbuergerschaft-a-a6d50377-b6c9-4ead-99c9-d88a28e001e8#ref=rss)
-### bürgermeister
+* [https://www.spiegel.de/politik/deutschland/kiel-oberbuergermeister-kandidat-samet-yilmaz-verliert-posten-im-verfassungsschutz](https://www.spiegel.de/politik/deutschland/kiel-oberbuergermeister-kandidat-samet-yilmaz-verliert-posten-im-verfassungsschutz-a-3747cb22-5fa8-4d2f-955b-ee4858734ac6#ref=rss)
+### verfassungsschutz
 
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-entzieht-buergermeister-von-odessa-die-staatsbuergerschaft](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-entzieht-buergermeister-von-odessa-die-staatsbuergerschaft-a-a6d50377-b6c9-4ead-99c9-d88a28e001e8#ref=rss)
-### odessa
+* [https://www.spiegel.de/politik/deutschland/kiel-oberbuergermeister-kandidat-samet-yilmaz-verliert-posten-im-verfassungsschutz](https://www.spiegel.de/politik/deutschland/kiel-oberbuergermeister-kandidat-samet-yilmaz-verliert-posten-im-verfassungsschutz-a-3747cb22-5fa8-4d2f-955b-ee4858734ac6#ref=rss)
+### krankmeldungen
 
-* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-entzieht-buergermeister-von-odessa-die-staatsbuergerschaft](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-entzieht-buergermeister-von-odessa-die-staatsbuergerschaft-a-a6d50377-b6c9-4ead-99c9-d88a28e001e8#ref=rss)
-### pflegestufe
+* [https://www.spiegel.de/wirtschaft/krankmeldungen-im-job-nina-warken-offen-fuer-gespraeche-ueber-lockerungen](https://www.spiegel.de/wirtschaft/krankmeldungen-im-job-nina-warken-offen-fuer-gespraeche-ueber-lockerungen-a-eb6709b6-c49c-4833-9cb2-2a0eb53ca005#ref=rss)
+### nina
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-pflegestufe-1-vermisster-fabian-aus-guestrow](https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-pflegestufe-1-vermisster-fabian-aus-guestrow-a-372d50d2-760e-409e-94b4-6fe5b8d8850f#ref=rss)
-### 1
+* [https://www.spiegel.de/wirtschaft/krankmeldungen-im-job-nina-warken-offen-fuer-gespraeche-ueber-lockerungen](https://www.spiegel.de/wirtschaft/krankmeldungen-im-job-nina-warken-offen-fuer-gespraeche-ueber-lockerungen-a-eb6709b6-c49c-4833-9cb2-2a0eb53ca005#ref=rss)
+### warken
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-pflegestufe-1-vermisster-fabian-aus-guestrow](https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-pflegestufe-1-vermisster-fabian-aus-guestrow-a-372d50d2-760e-409e-94b4-6fe5b8d8850f#ref=rss)
-### fabian
+* [https://www.spiegel.de/wirtschaft/krankmeldungen-im-job-nina-warken-offen-fuer-gespraeche-ueber-lockerungen](https://www.spiegel.de/wirtschaft/krankmeldungen-im-job-nina-warken-offen-fuer-gespraeche-ueber-lockerungen-a-eb6709b6-c49c-4833-9cb2-2a0eb53ca005#ref=rss)
+### indonesien
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-pflegestufe-1-vermisster-fabian-aus-guestrow](https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-pflegestufe-1-vermisster-fabian-aus-guestrow-a-372d50d2-760e-409e-94b4-6fe5b8d8850f#ref=rss)
-### prozess
+* [https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-zehn-kilometer-hohe-aschesaeule](https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-zehn-kilometer-hohe-aschesaeule-a-e3097e5c-a08f-45f4-801b-2e6076b984ef#ref=rss)
+### vulkan
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-pflegestufe-1-vermisster-fabian-aus-guestrow](https://www.spiegel.de/politik/deutschland/news-des-tages-rene-benko-pflegestufe-1-vermisster-fabian-aus-guestrow-a-372d50d2-760e-409e-94b4-6fe5b8d8850f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rene-benko-vor-gericht-ein-mann-der-sich-weigert-seinen-lebensstil-aufzugeben](https://www.spiegel.de/wirtschaft/rene-benko-vor-gericht-ein-mann-der-sich-weigert-seinen-lebensstil-aufzugeben-a-e111fa8e-41a3-40f4-8c17-d20b704cbd98#ref=rss)
-### gericht
+* [https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-zehn-kilometer-hohe-aschesaeule](https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-zehn-kilometer-hohe-aschesaeule-a-e3097e5c-a08f-45f4-801b-2e6076b984ef#ref=rss)
+### lewotobi
 
-* [https://www.spiegel.de/wirtschaft/rene-benko-vor-gericht-ein-mann-der-sich-weigert-seinen-lebensstil-aufzugeben](https://www.spiegel.de/wirtschaft/rene-benko-vor-gericht-ein-mann-der-sich-weigert-seinen-lebensstil-aufzugeben-a-e111fa8e-41a3-40f4-8c17-d20b704cbd98#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/eigenbedarf-mann-darf-schwiegermutter-den-mietvertrag-kuendigen](https://www.spiegel.de/panorama/justiz/eigenbedarf-mann-darf-schwiegermutter-den-mietvertrag-kuendigen-a-fae2a3f1-2463-4498-95ab-28bc65f0e2f6#ref=rss)
-### schwiegermutter
+* [https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-zehn-kilometer-hohe-aschesaeule](https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-zehn-kilometer-hohe-aschesaeule-a-e3097e5c-a08f-45f4-801b-2e6076b984ef#ref=rss)
+### lakilaki
 
-* [https://www.spiegel.de/panorama/justiz/eigenbedarf-mann-darf-schwiegermutter-den-mietvertrag-kuendigen](https://www.spiegel.de/panorama/justiz/eigenbedarf-mann-darf-schwiegermutter-den-mietvertrag-kuendigen-a-fae2a3f1-2463-4498-95ab-28bc65f0e2f6#ref=rss)
-### frau
+* [https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-zehn-kilometer-hohe-aschesaeule](https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-zehn-kilometer-hohe-aschesaeule-a-e3097e5c-a08f-45f4-801b-2e6076b984ef#ref=rss)
+### charlie
 
-* [https://www.spiegel.de/panorama/justiz/eigenbedarf-mann-darf-schwiegermutter-den-mietvertrag-kuendigen](https://www.spiegel.de/panorama/justiz/eigenbedarf-mann-darf-schwiegermutter-den-mietvertrag-kuendigen-a-fae2a3f1-2463-4498-95ab-28bc65f0e2f6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/audi-einzige-frau-im-vorstand-des-autoherstellers-muss-gehen](https://www.spiegel.de/wirtschaft/unternehmen/audi-einzige-frau-im-vorstand-des-autoherstellers-muss-gehen-a-82c9c4da-76d9-4a73-8331-dd1657a8b4b7#ref=rss)
-### erste
+* [https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer](https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer-a-d1cba59e-9bac-418f-96e5-256b8f9508b2#ref=rss)
+### kirk
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/audi-einzige-frau-im-vorstand-des-autoherstellers-muss-gehen](https://www.spiegel.de/wirtschaft/unternehmen/audi-einzige-frau-im-vorstand-des-autoherstellers-muss-gehen-a-82c9c4da-76d9-4a73-8331-dd1657a8b4b7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/maulburg-totes-baby-im-muellsack-polizei-sucht-nach-hinweisen](https://www.spiegel.de/panorama/justiz/maulburg-totes-baby-im-muellsack-polizei-sucht-nach-hinweisen-a-b42cb48c-b9ff-4b46-9107-722054623c1c#ref=rss)
-### amateurfußball
+* [https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer](https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer-a-d1cba59e-9bac-418f-96e5-256b8f9508b2#ref=rss)
+### posthum
 
-* [https://www.spiegel.de/sport/fussball/amateurfussball-in-hamburg-moorburger-tsv-verliert-0-66-darum-ist-der-coach-zufrieden](https://www.spiegel.de/sport/fussball/amateurfussball-in-hamburg-moorburger-tsv-verliert-0-66-darum-ist-der-coach-zufrieden-a-5124ba46-3d7d-471f-9278-9b355b08f6a0#ref=rss)
-### moorburger
+* [https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer](https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer-a-d1cba59e-9bac-418f-96e5-256b8f9508b2#ref=rss)
+### höchste
 
-* [https://www.spiegel.de/sport/fussball/amateurfussball-in-hamburg-moorburger-tsv-verliert-0-66-darum-ist-der-coach-zufrieden](https://www.spiegel.de/sport/fussball/amateurfussball-in-hamburg-moorburger-tsv-verliert-0-66-darum-ist-der-coach-zufrieden-a-5124ba46-3d7d-471f-9278-9b355b08f6a0#ref=rss)
-### tsv
+* [https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer](https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer-a-d1cba59e-9bac-418f-96e5-256b8f9508b2#ref=rss)
+### stiftung
 
-* [https://www.spiegel.de/sport/fussball/amateurfussball-in-hamburg-moorburger-tsv-verliert-0-66-darum-ist-der-coach-zufrieden](https://www.spiegel.de/sport/fussball/amateurfussball-in-hamburg-moorburger-tsv-verliert-0-66-darum-ist-der-coach-zufrieden-a-5124ba46-3d7d-471f-9278-9b355b08f6a0#ref=rss)
-### kapelle
+* [https://www.spiegel.de/gesundheit/stiftung-warentest-husten-mittel-machen-im-test-keine-gute-figur](https://www.spiegel.de/gesundheit/stiftung-warentest-husten-mittel-machen-im-test-keine-gute-figur-a-faa282de-1748-49db-b1bb-409db6944408#ref=rss)
+### warentest
 
-* [https://www.spiegel.de/wissenschaft/mallerbacher-kapelle-archaeologen-entdecken-kindergraeber-mit-weihwassereffekt](https://www.spiegel.de/wissenschaft/mallerbacher-kapelle-archaeologen-entdecken-kindergraeber-mit-weihwassereffekt-a-e09fc5e2-338c-4091-a85c-4a859f5ee5fe#ref=rss)
-### archäologen
+* [https://www.spiegel.de/gesundheit/stiftung-warentest-husten-mittel-machen-im-test-keine-gute-figur](https://www.spiegel.de/gesundheit/stiftung-warentest-husten-mittel-machen-im-test-keine-gute-figur-a-faa282de-1748-49db-b1bb-409db6944408#ref=rss)
+### viele
 
-* [https://www.spiegel.de/wissenschaft/mallerbacher-kapelle-archaeologen-entdecken-kindergraeber-mit-weihwassereffekt](https://www.spiegel.de/wissenschaft/mallerbacher-kapelle-archaeologen-entdecken-kindergraeber-mit-weihwassereffekt-a-e09fc5e2-338c-4091-a85c-4a859f5ee5fe#ref=rss)
-### etwa
+* [https://www.spiegel.de/gesundheit/stiftung-warentest-husten-mittel-machen-im-test-keine-gute-figur](https://www.spiegel.de/gesundheit/stiftung-warentest-husten-mittel-machen-im-test-keine-gute-figur-a-faa282de-1748-49db-b1bb-409db6944408#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus](https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus-a-73072458-0b03-4db2-8623-474553a96d46#ref=rss)
+### wahl
 
-* [https://www.spiegel.de/wissenschaft/mallerbacher-kapelle-archaeologen-entdecken-kindergraeber-mit-weihwassereffekt](https://www.spiegel.de/wissenschaft/mallerbacher-kapelle-archaeologen-entdecken-kindergraeber-mit-weihwassereffekt-a-e09fc5e2-338c-4091-a85c-4a859f5ee5fe#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/donald-trump-stellt-tomahawk-waffen-fuer-ukraine-in-aussicht-was-koennen-die-ausrichten](https://www.spiegel.de/wissenschaft/technik/donald-trump-stellt-tomahawk-waffen-fuer-ukraine-in-aussicht-was-koennen-die-ausrichten-a-1c7b0949-0021-44a4-b468-41d6bfeff904#ref=rss)
-### gesamtmetall
+* [https://www.spiegel.de/gesundheit/stiftung-warentest-husten-mittel-machen-im-test-keine-gute-figur](https://www.spiegel.de/gesundheit/stiftung-warentest-husten-mittel-machen-im-test-keine-gute-figur-a-faa282de-1748-49db-b1bb-409db6944408#ref=rss)
+* [https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk](https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk-a-0bd02470-384f-4f8c-9acd-bb32d4713735#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/wirtschaft/gesamtmetall-praesident-stefan-wolf-legt-amt-mit-sofortiger-wirkung-nieder](https://www.spiegel.de/wirtschaft/gesamtmetall-praesident-stefan-wolf-legt-amt-mit-sofortiger-wirkung-nieder-a-6b406b0e-76c8-401c-a40f-04dde710b8ab#ref=rss)
-### stefan
+* [https://www.spiegel.de/ausland/gaza-mahmud-abbas-verurteilt-hinrichtungen-durch-hamas](https://www.spiegel.de/ausland/gaza-mahmud-abbas-verurteilt-hinrichtungen-durch-hamas-a-917e4b5e-33d6-4770-8122-498badbc2088#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-von-hamas-uebergebene-leiche-soll-keine-geisel-aus-israel-sein](https://www.spiegel.de/ausland/gaza-von-hamas-uebergebene-leiche-soll-keine-geisel-aus-israel-sein-a-c6edd003-1528-498e-b5ee-c3b54226c713#ref=rss)
+### abbas
 
-* [https://www.spiegel.de/wirtschaft/gesamtmetall-praesident-stefan-wolf-legt-amt-mit-sofortiger-wirkung-nieder](https://www.spiegel.de/wirtschaft/gesamtmetall-praesident-stefan-wolf-legt-amt-mit-sofortiger-wirkung-nieder-a-6b406b0e-76c8-401c-a40f-04dde710b8ab#ref=rss)
-### wolf
+* [https://www.spiegel.de/ausland/gaza-mahmud-abbas-verurteilt-hinrichtungen-durch-hamas](https://www.spiegel.de/ausland/gaza-mahmud-abbas-verurteilt-hinrichtungen-durch-hamas-a-917e4b5e-33d6-4770-8122-498badbc2088#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wirtschaft/gesamtmetall-praesident-stefan-wolf-legt-amt-mit-sofortiger-wirkung-nieder](https://www.spiegel.de/wirtschaft/gesamtmetall-praesident-stefan-wolf-legt-amt-mit-sofortiger-wirkung-nieder-a-6b406b0e-76c8-401c-a40f-04dde710b8ab#ref=rss)
-### müllsack
+* [https://www.spiegel.de/ausland/gaza-mahmud-abbas-verurteilt-hinrichtungen-durch-hamas](https://www.spiegel.de/ausland/gaza-mahmud-abbas-verurteilt-hinrichtungen-durch-hamas-a-917e4b5e-33d6-4770-8122-498badbc2088#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-und-pakistan-erneut-zusammenstoesse-zwischen-grenztruppen](https://www.spiegel.de/ausland/afghanistan-und-pakistan-erneut-zusammenstoesse-zwischen-grenztruppen-a-c0f18bc2-4185-417b-8b60-635ac2df2f68#ref=rss)
+### vier
 
-* [https://www.spiegel.de/panorama/justiz/maulburg-totes-baby-im-muellsack-polizei-sucht-nach-hinweisen](https://www.spiegel.de/panorama/justiz/maulburg-totes-baby-im-muellsack-polizei-sucht-nach-hinweisen-a-b42cb48c-b9ff-4b46-9107-722054623c1c#ref=rss)
-### polizei
+* [https://www.spiegel.de/ausland/gaza-von-hamas-uebergebene-leiche-soll-keine-geisel-aus-israel-sein](https://www.spiegel.de/ausland/gaza-von-hamas-uebergebene-leiche-soll-keine-geisel-aus-israel-sein-a-c6edd003-1528-498e-b5ee-c3b54226c713#ref=rss)
+* [https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik](https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik-a-c34a054b-a084-40fd-9fa1-2962efe03255#ref=rss)
+### los
 
-* [https://www.spiegel.de/panorama/justiz/maulburg-totes-baby-im-muellsack-polizei-sucht-nach-hinweisen](https://www.spiegel.de/panorama/justiz/maulburg-totes-baby-im-muellsack-polizei-sucht-nach-hinweisen-a-b42cb48c-b9ff-4b46-9107-722054623c1c#ref=rss)
-### sucht
+* [https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus](https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus-a-73072458-0b03-4db2-8623-474553a96d46#ref=rss)
+### angeles
 
-* [https://www.spiegel.de/panorama/justiz/maulburg-totes-baby-im-muellsack-polizei-sucht-nach-hinweisen](https://www.spiegel.de/panorama/justiz/maulburg-totes-baby-im-muellsack-polizei-sucht-nach-hinweisen-a-b42cb48c-b9ff-4b46-9107-722054623c1c#ref=rss)
-### jenner
+* [https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus](https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus-a-73072458-0b03-4db2-8623-474553a96d46#ref=rss)
+### namen
 
-* [https://www.spiegel.de/kultur/kylie-jenner-comeback-als-king-kylie-mit-kontroversem-knastvideo](https://www.spiegel.de/kultur/kylie-jenner-comeback-als-king-kylie-mit-kontroversem-knastvideo-a-14d38d21-d74c-4449-93d9-d8909466806b#ref=rss)
-### king
+* [https://www.spiegel.de/panorama/guinness-rekord-dieser-mann-braucht-20-minuten-um-seinen-vollen-namen-auszusprechen](https://www.spiegel.de/panorama/guinness-rekord-dieser-mann-braucht-20-minuten-um-seinen-vollen-namen-auszusprechen-a-02ec09fc-a5ba-49e0-8fe0-192495278b03#ref=rss)
+### fußballwm
 
-* [https://www.spiegel.de/kultur/kylie-jenner-comeback-als-king-kylie-mit-kontroversem-knastvideo](https://www.spiegel.de/kultur/kylie-jenner-comeback-als-king-kylie-mit-kontroversem-knastvideo-a-14d38d21-d74c-4449-93d9-d8909466806b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-nicaragua-empoert-ueber-polizeieinsatz-vor-wm-qualifikation](https://www.spiegel.de/sport/fussball/fussball-wm-2026-nicaragua-empoert-ueber-polizeieinsatz-vor-wm-qualifikation-a-b7d2655c-404d-4218-90f1-c3c3d99aee9d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert-a-3a631614-6f45-4446-bf93-41119b7250c0#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-nicaragua-empoert-ueber-polizeieinsatz-vor-wm-qualifikation](https://www.spiegel.de/sport/fussball/fussball-wm-2026-nicaragua-empoert-ueber-polizeieinsatz-vor-wm-qualifikation-a-b7d2655c-404d-4218-90f1-c3c3d99aee9d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert-a-3a631614-6f45-4446-bf93-41119b7250c0#ref=rss)
+### nicaragua
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-nicaragua-empoert-ueber-polizeieinsatz-vor-wm-qualifikation](https://www.spiegel.de/sport/fussball/fussball-wm-2026-nicaragua-empoert-ueber-polizeieinsatz-vor-wm-qualifikation-a-b7d2655c-404d-4218-90f1-c3c3d99aee9d#ref=rss)
+### pirmasens
+
+* [https://www.spiegel.de/panorama/pirmasens-unbekannte-werfen-gullydeckel-in-juweliergeschaeft](https://www.spiegel.de/panorama/pirmasens-unbekannte-werfen-gullydeckel-in-juweliergeschaeft-a-fac960eb-4bf5-4bba-8dc4-9e33999b94bd#ref=rss)
+### gullydeckel
+
+* [https://www.spiegel.de/panorama/pirmasens-unbekannte-werfen-gullydeckel-in-juweliergeschaeft](https://www.spiegel.de/panorama/pirmasens-unbekannte-werfen-gullydeckel-in-juweliergeschaeft-a-fac960eb-4bf5-4bba-8dc4-9e33999b94bd#ref=rss)
+### markus
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-zu-social-media-fleischteller-ja-nackte-haut-nein](https://www.spiegel.de/politik/deutschland/markus-soeder-zu-social-media-fleischteller-ja-nackte-haut-nein-a-cf8d06f9-bceb-426e-9f5a-90113ee64801#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-zu-social-media-fleischteller-ja-nackte-haut-nein](https://www.spiegel.de/politik/deutschland/markus-soeder-zu-social-media-fleischteller-ja-nackte-haut-nein-a-cf8d06f9-bceb-426e-9f5a-90113ee64801#ref=rss)
+### grenze
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-zu-social-media-fleischteller-ja-nackte-haut-nein](https://www.spiegel.de/politik/deutschland/markus-soeder-zu-social-media-fleischteller-ja-nackte-haut-nein-a-cf8d06f9-bceb-426e-9f5a-90113ee64801#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-und-pakistan-erneut-zusammenstoesse-zwischen-grenztruppen](https://www.spiegel.de/ausland/afghanistan-und-pakistan-erneut-zusammenstoesse-zwischen-grenztruppen-a-c0f18bc2-4185-417b-8b60-635ac2df2f68#ref=rss)
+### hunde
+
+* [https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet](https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet-a-c419ec96-1844-4505-bb3e-b06e58798de8#ref=rss)
+### schweine
+
+* [https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet](https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet-a-c419ec96-1844-4505-bb3e-b06e58798de8#ref=rss)
+### ratten
+
+* [https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet](https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet-a-c419ec96-1844-4505-bb3e-b06e58798de8#ref=rss)
+### ausgebildet
+
+* [https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet](https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet-a-c419ec96-1844-4505-bb3e-b06e58798de8#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet](https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet-a-c419ec96-1844-4505-bb3e-b06e58798de8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland](https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland-a-13715a5b-c4ee-4ef1-87e4-c554f847752d#ref=rss)
+### afghanistan
+
+* [https://www.spiegel.de/ausland/afghanistan-und-pakistan-erneut-zusammenstoesse-zwischen-grenztruppen](https://www.spiegel.de/ausland/afghanistan-und-pakistan-erneut-zusammenstoesse-zwischen-grenztruppen-a-c0f18bc2-4185-417b-8b60-635ac2df2f68#ref=rss)
+### pakistan
+
+* [https://www.spiegel.de/ausland/afghanistan-und-pakistan-erneut-zusammenstoesse-zwischen-grenztruppen](https://www.spiegel.de/ausland/afghanistan-und-pakistan-erneut-zusammenstoesse-zwischen-grenztruppen-a-c0f18bc2-4185-417b-8b60-635ac2df2f68#ref=rss)
+### rbb
+
+* [https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk](https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk-a-0bd02470-384f-4f8c-9acd-bb32d4713735#ref=rss)
+### robert
+
+* [https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk](https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk-a-0bd02470-384f-4f8c-9acd-bb32d4713735#ref=rss)
+### skuppin
+
+* [https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk](https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk-a-0bd02470-384f-4f8c-9acd-bb32d4713735#ref=rss)
+### ich
+
+* [https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk](https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk-a-0bd02470-384f-4f8c-9acd-bb32d4713735#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or](https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or-a-8d076c85-b6c7-4e03-92c7-c47334f823b7#ref=rss)
+### ranking
+
+* [https://www.spiegel.de/panorama/maechtigste-paesse-der-welt-usa-fallen-aus-den-top-ten-ranking-der-reisefreiheit](https://www.spiegel.de/panorama/maechtigste-paesse-der-welt-usa-fallen-aus-den-top-ten-ranking-der-reisefreiheit-a-375e7eef-8ae8-410b-ab1b-fe217d1f2f55#ref=rss)
+### reisefreiheit
+
+* [https://www.spiegel.de/panorama/maechtigste-paesse-der-welt-usa-fallen-aus-den-top-ten-ranking-der-reisefreiheit](https://www.spiegel.de/panorama/maechtigste-paesse-der-welt-usa-fallen-aus-den-top-ten-ranking-der-reisefreiheit-a-375e7eef-8ae8-410b-ab1b-fe217d1f2f55#ref=rss)
+### milliardenloch
+
+* [https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik](https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik-a-c34a054b-a084-40fd-9fa1-2962efe03255#ref=rss)
+### politik
+
+* [https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik](https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik-a-c34a054b-a084-40fd-9fa1-2962efe03255#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik](https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik-a-c34a054b-a084-40fd-9fa1-2962efe03255#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland](https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland-a-13715a5b-c4ee-4ef1-87e4-c554f847752d#ref=rss)
+### nvidiamanager
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or](https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or-a-8d076c85-b6c7-4e03-92c7-c47334f823b7#ref=rss)
+### nachricht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or](https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or-a-8d076c85-b6c7-4e03-92c7-c47334f823b7#ref=rss)
+### avinatan
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or](https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or-a-8d076c85-b6c7-4e03-92c7-c47334f823b7#ref=rss)
+### or
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or](https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or-a-8d076c85-b6c7-4e03-92c7-c47334f823b7#ref=rss)
+### gute
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or](https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or-a-8d076c85-b6c7-4e03-92c7-c47334f823b7#ref=rss)
+### großartig
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert-a-3a631614-6f45-4446-bf93-41119b7250c0#ref=rss)
+### energiepreise
+
+* [https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland](https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland-a-13715a5b-c4ee-4ef1-87e4-c554f847752d#ref=rss)
+### heizen
+
+* [https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland](https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland-a-13715a5b-c4ee-4ef1-87e4-c554f847752d#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland](https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland-a-13715a5b-c4ee-4ef1-87e4-c554f847752d#ref=rss)
+### stellantis
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa-a-6b1baae2-e7c3-49f4-b0a3-dcafce2bbc45#ref=rss)
+### 13
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa-a-6b1baae2-e7c3-49f4-b0a3-dcafce2bbc45#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa-a-6b1baae2-e7c3-49f4-b0a3-dcafce2bbc45#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa-a-6b1baae2-e7c3-49f4-b0a3-dcafce2bbc45#ref=rss)
+### werke
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa-a-6b1baae2-e7c3-49f4-b0a3-dcafce2bbc45#ref=rss)
+### verbrennerkolosse
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa-a-6b1baae2-e7c3-49f4-b0a3-dcafce2bbc45#ref=rss)
 
