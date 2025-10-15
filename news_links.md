@@ -4,310 +4,381 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
-
-* [https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs](https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs-a-54e4b8f5-52c5-4218-91ee-68ef32524307#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus](https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus-a-73072458-0b03-4db2-8623-474553a96d46#ref=rss)
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik](https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik-a-c34a054b-a084-40fd-9fa1-2962efe03255#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer](https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer-a-d1cba59e-9bac-418f-96e5-256b8f9508b2#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus](https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus-a-73072458-0b03-4db2-8623-474553a96d46#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/gaza-mahmud-abbas-verurteilt-hinrichtungen-durch-hamas](https://www.spiegel.de/ausland/gaza-mahmud-abbas-verurteilt-hinrichtungen-durch-hamas-a-917e4b5e-33d6-4770-8122-498badbc2088#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-von-hamas-uebergebene-leiche-soll-keine-geisel-aus-israel-sein](https://www.spiegel.de/ausland/gaza-von-hamas-uebergebene-leiche-soll-keine-geisel-aus-israel-sein-a-c6edd003-1528-498e-b5ee-c3b54226c713#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/gaza-von-hamas-uebergebene-leiche-soll-keine-geisel-aus-israel-sein](https://www.spiegel.de/ausland/gaza-von-hamas-uebergebene-leiche-soll-keine-geisel-aus-israel-sein-a-c6edd003-1528-498e-b5ee-c3b54226c713#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or](https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or-a-8d076c85-b6c7-4e03-92c7-c47334f823b7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert-a-3a631614-6f45-4446-bf93-41119b7250c0#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/maechtigste-paesse-der-welt-usa-fallen-aus-den-top-ten-ranking-der-reisefreiheit](https://www.spiegel.de/panorama/maechtigste-paesse-der-welt-usa-fallen-aus-den-top-ten-ranking-der-reisefreiheit-a-375e7eef-8ae8-410b-ab1b-fe217d1f2f55#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert-a-3a631614-6f45-4446-bf93-41119b7250c0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa-a-6b1baae2-e7c3-49f4-b0a3-dcafce2bbc45#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab](https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab-a-92ad0c21-f97e-449d-92fd-16c29e6a452e#ref=rss)
-### neue
-
-* [https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs](https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs-a-54e4b8f5-52c5-4218-91ee-68ef32524307#ref=rss)
-* [https://www.spiegel.de/panorama/guinness-rekord-dieser-mann-braucht-20-minuten-um-seinen-vollen-namen-auszusprechen](https://www.spiegel.de/panorama/guinness-rekord-dieser-mann-braucht-20-minuten-um-seinen-vollen-namen-auszusprechen-a-02ec09fc-a5ba-49e0-8fe0-192495278b03#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa-a-6b1baae2-e7c3-49f4-b0a3-dcafce2bbc45#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer](https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer-a-d1cba59e-9bac-418f-96e5-256b8f9508b2#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus](https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus-a-73072458-0b03-4db2-8623-474553a96d46#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/spd-und-die-linke-warum-die-spd-sich-neu-erfinden-muss](https://www.spiegel.de/politik/deutschland/spd-und-die-linke-warum-die-spd-sich-neu-erfinden-muss-a-3f51eb9d-79a2-49da-95e0-4c64de158348#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab](https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab-a-92ad0c21-f97e-449d-92fd-16c29e6a452e#ref=rss)
-### günther
-
-* [https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab](https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab-a-92ad0c21-f97e-449d-92fd-16c29e6a452e#ref=rss)
-### karin
-
-* [https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab](https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab-a-92ad0c21-f97e-449d-92fd-16c29e6a452e#ref=rss)
-### prien
-
-* [https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab](https://www.spiegel.de/politik/deutschland/daniel-guenther-und-karin-prien-lehnen-zusammenarbeit-mit-der-afd-weiter-vehement-ab-a-92ad0c21-f97e-449d-92fd-16c29e6a452e#ref=rss)
-### venezuela
-
-* [https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine](https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine-a-0181f231-3917-46c7-b6e2-bd3b662cb15e#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine](https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine-a-0181f231-3917-46c7-b6e2-bd3b662cb15e#ref=rss)
-### 14
-
-* [https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine](https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine-a-0181f231-3917-46c7-b6e2-bd3b662cb15e#ref=rss)
-### goldmine
-
-* [https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine](https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine-a-0181f231-3917-46c7-b6e2-bd3b662cb15e#ref=rss)
-### arbeiten
-
-* [https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine](https://www.spiegel.de/panorama/venezuela-mindestens-14-arbeiter-sterben-in-ueberfluteter-goldmine-a-0181f231-3917-46c7-b6e2-bd3b662cb15e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/aktivrente-kabinett-beschliesst-anreize-fuer-arbeit-im-rentenalter](https://www.spiegel.de/wirtschaft/soziales/aktivrente-kabinett-beschliesst-anreize-fuer-arbeit-im-rentenalter-a-6639c119-a7cc-41e2-8644-971c7b702ca6#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs](https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs-a-54e4b8f5-52c5-4218-91ee-68ef32524307#ref=rss)
-* [https://www.spiegel.de/reise/deutschland/deutsche-bahn-so-buchen-sie-guenstige-bahntickets-fuer-weihnachten](https://www.spiegel.de/reise/deutschland/deutsche-bahn-so-buchen-sie-guenstige-bahntickets-fuer-weihnachten-a-f6a856d1-98e8-4210-94e0-31e5866b2461#ref=rss)
-### welle
-
-* [https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs](https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs-a-54e4b8f5-52c5-4218-91ee-68ef32524307#ref=rss)
-### intendantin
-
-* [https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs](https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs-a-54e4b8f5-52c5-4218-91ee-68ef32524307#ref=rss)
-### barbara
-
-* [https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs](https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs-a-54e4b8f5-52c5-4218-91ee-68ef32524307#ref=rss)
-### massing
-
-* [https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs](https://www.spiegel.de/kultur/tv/deutsche-welle-intendantin-barbara-massing-sieht-sender-als-teil-des-informationskriegs-a-54e4b8f5-52c5-4218-91ee-68ef32524307#ref=rss)
-### buchen
-
-* [https://www.spiegel.de/reise/deutschland/deutsche-bahn-so-buchen-sie-guenstige-bahntickets-fuer-weihnachten](https://www.spiegel.de/reise/deutschland/deutsche-bahn-so-buchen-sie-guenstige-bahntickets-fuer-weihnachten-a-f6a856d1-98e8-4210-94e0-31e5866b2461#ref=rss)
-### weihnachten
-
-* [https://www.spiegel.de/reise/deutschland/deutsche-bahn-so-buchen-sie-guenstige-bahntickets-fuer-weihnachten](https://www.spiegel.de/reise/deutschland/deutsche-bahn-so-buchen-sie-guenstige-bahntickets-fuer-weihnachten-a-f6a856d1-98e8-4210-94e0-31e5866b2461#ref=rss)
-### kabinett
-
-* [https://www.spiegel.de/wirtschaft/soziales/aktivrente-kabinett-beschliesst-anreize-fuer-arbeit-im-rentenalter](https://www.spiegel.de/wirtschaft/soziales/aktivrente-kabinett-beschliesst-anreize-fuer-arbeit-im-rentenalter-a-6639c119-a7cc-41e2-8644-971c7b702ca6#ref=rss)
-* [https://www.spiegel.de/auto/e-autos-kabinett-beschliesst-verlaengerung-der-kfz-steuerbefreiung-fuer-elektroautos](https://www.spiegel.de/auto/e-autos-kabinett-beschliesst-verlaengerung-der-kfz-steuerbefreiung-fuer-elektroautos-a-142142b8-221b-4be2-a971-e789949a9dc1#ref=rss)
-### beschließt
-
-* [https://www.spiegel.de/wirtschaft/soziales/aktivrente-kabinett-beschliesst-anreize-fuer-arbeit-im-rentenalter](https://www.spiegel.de/wirtschaft/soziales/aktivrente-kabinett-beschliesst-anreize-fuer-arbeit-im-rentenalter-a-6639c119-a7cc-41e2-8644-971c7b702ca6#ref=rss)
-* [https://www.spiegel.de/auto/e-autos-kabinett-beschliesst-verlaengerung-der-kfz-steuerbefreiung-fuer-elektroautos](https://www.spiegel.de/auto/e-autos-kabinett-beschliesst-verlaengerung-der-kfz-steuerbefreiung-fuer-elektroautos-a-142142b8-221b-4be2-a971-e789949a9dc1#ref=rss)
-### rentenalter
-
-* [https://www.spiegel.de/wirtschaft/soziales/aktivrente-kabinett-beschliesst-anreize-fuer-arbeit-im-rentenalter](https://www.spiegel.de/wirtschaft/soziales/aktivrente-kabinett-beschliesst-anreize-fuer-arbeit-im-rentenalter-a-6639c119-a7cc-41e2-8644-971c7b702ca6#ref=rss)
-### fallen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sympatex-angeklagte-sollen-haftstrafen-auf-bewaehrung-bekommen](https://www.spiegel.de/wirtschaft/unternehmen/sympatex-angeklagte-sollen-haftstrafen-auf-bewaehrung-bekommen-a-c60571fb-655d-46c8-90df-85435f37da06#ref=rss)
-* [https://www.spiegel.de/panorama/maechtigste-paesse-der-welt-usa-fallen-aus-den-top-ten-ranking-der-reisefreiheit](https://www.spiegel.de/panorama/maechtigste-paesse-der-welt-usa-fallen-aus-den-top-ten-ranking-der-reisefreiheit-a-375e7eef-8ae8-410b-ab1b-fe217d1f2f55#ref=rss)
-### samet
-
-* [https://www.spiegel.de/politik/deutschland/kiel-oberbuergermeister-kandidat-samet-yilmaz-verliert-posten-im-verfassungsschutz](https://www.spiegel.de/politik/deutschland/kiel-oberbuergermeister-kandidat-samet-yilmaz-verliert-posten-im-verfassungsschutz-a-3747cb22-5fa8-4d2f-955b-ee4858734ac6#ref=rss)
-### yilmaz
-
-* [https://www.spiegel.de/politik/deutschland/kiel-oberbuergermeister-kandidat-samet-yilmaz-verliert-posten-im-verfassungsschutz](https://www.spiegel.de/politik/deutschland/kiel-oberbuergermeister-kandidat-samet-yilmaz-verliert-posten-im-verfassungsschutz-a-3747cb22-5fa8-4d2f-955b-ee4858734ac6#ref=rss)
-### verfassungsschutz
-
-* [https://www.spiegel.de/politik/deutschland/kiel-oberbuergermeister-kandidat-samet-yilmaz-verliert-posten-im-verfassungsschutz](https://www.spiegel.de/politik/deutschland/kiel-oberbuergermeister-kandidat-samet-yilmaz-verliert-posten-im-verfassungsschutz-a-3747cb22-5fa8-4d2f-955b-ee4858734ac6#ref=rss)
-### krankmeldungen
-
-* [https://www.spiegel.de/wirtschaft/krankmeldungen-im-job-nina-warken-offen-fuer-gespraeche-ueber-lockerungen](https://www.spiegel.de/wirtschaft/krankmeldungen-im-job-nina-warken-offen-fuer-gespraeche-ueber-lockerungen-a-eb6709b6-c49c-4833-9cb2-2a0eb53ca005#ref=rss)
-### nina
-
-* [https://www.spiegel.de/wirtschaft/krankmeldungen-im-job-nina-warken-offen-fuer-gespraeche-ueber-lockerungen](https://www.spiegel.de/wirtschaft/krankmeldungen-im-job-nina-warken-offen-fuer-gespraeche-ueber-lockerungen-a-eb6709b6-c49c-4833-9cb2-2a0eb53ca005#ref=rss)
-### warken
-
-* [https://www.spiegel.de/wirtschaft/krankmeldungen-im-job-nina-warken-offen-fuer-gespraeche-ueber-lockerungen](https://www.spiegel.de/wirtschaft/krankmeldungen-im-job-nina-warken-offen-fuer-gespraeche-ueber-lockerungen-a-eb6709b6-c49c-4833-9cb2-2a0eb53ca005#ref=rss)
-### indonesien
-
-* [https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-zehn-kilometer-hohe-aschesaeule](https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-zehn-kilometer-hohe-aschesaeule-a-e3097e5c-a08f-45f4-801b-2e6076b984ef#ref=rss)
-### vulkan
-
-* [https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-zehn-kilometer-hohe-aschesaeule](https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-zehn-kilometer-hohe-aschesaeule-a-e3097e5c-a08f-45f4-801b-2e6076b984ef#ref=rss)
-### lewotobi
-
-* [https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-zehn-kilometer-hohe-aschesaeule](https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-zehn-kilometer-hohe-aschesaeule-a-e3097e5c-a08f-45f4-801b-2e6076b984ef#ref=rss)
-### lakilaki
-
-* [https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-zehn-kilometer-hohe-aschesaeule](https://www.spiegel.de/panorama/indonesien-vulkan-lewotobi-laki-laki-spuckt-zehn-kilometer-hohe-aschesaeule-a-e3097e5c-a08f-45f4-801b-2e6076b984ef#ref=rss)
-### charlie
-
-* [https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer](https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer-a-d1cba59e-9bac-418f-96e5-256b8f9508b2#ref=rss)
-### kirk
-
-* [https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer](https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer-a-d1cba59e-9bac-418f-96e5-256b8f9508b2#ref=rss)
-### posthum
-
-* [https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer](https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer-a-d1cba59e-9bac-418f-96e5-256b8f9508b2#ref=rss)
-### höchste
-
-* [https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer](https://www.spiegel.de/ausland/donald-trump-verleiht-charlie-kirk-posthum-hoechste-us-auszeichnung-furchtloser-kaempfer-a-d1cba59e-9bac-418f-96e5-256b8f9508b2#ref=rss)
-### stiftung
-
-* [https://www.spiegel.de/gesundheit/stiftung-warentest-husten-mittel-machen-im-test-keine-gute-figur](https://www.spiegel.de/gesundheit/stiftung-warentest-husten-mittel-machen-im-test-keine-gute-figur-a-faa282de-1748-49db-b1bb-409db6944408#ref=rss)
-### warentest
-
-* [https://www.spiegel.de/gesundheit/stiftung-warentest-husten-mittel-machen-im-test-keine-gute-figur](https://www.spiegel.de/gesundheit/stiftung-warentest-husten-mittel-machen-im-test-keine-gute-figur-a-faa282de-1748-49db-b1bb-409db6944408#ref=rss)
-### viele
-
-* [https://www.spiegel.de/gesundheit/stiftung-warentest-husten-mittel-machen-im-test-keine-gute-figur](https://www.spiegel.de/gesundheit/stiftung-warentest-husten-mittel-machen-im-test-keine-gute-figur-a-faa282de-1748-49db-b1bb-409db6944408#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus](https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus-a-73072458-0b03-4db2-8623-474553a96d46#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/gesundheit/stiftung-warentest-husten-mittel-machen-im-test-keine-gute-figur](https://www.spiegel.de/gesundheit/stiftung-warentest-husten-mittel-machen-im-test-keine-gute-figur-a-faa282de-1748-49db-b1bb-409db6944408#ref=rss)
-* [https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk](https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk-a-0bd02470-384f-4f8c-9acd-bb32d4713735#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/ausland/gaza-mahmud-abbas-verurteilt-hinrichtungen-durch-hamas](https://www.spiegel.de/ausland/gaza-mahmud-abbas-verurteilt-hinrichtungen-durch-hamas-a-917e4b5e-33d6-4770-8122-498badbc2088#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-von-hamas-uebergebene-leiche-soll-keine-geisel-aus-israel-sein](https://www.spiegel.de/ausland/gaza-von-hamas-uebergebene-leiche-soll-keine-geisel-aus-israel-sein-a-c6edd003-1528-498e-b5ee-c3b54226c713#ref=rss)
-### abbas
-
-* [https://www.spiegel.de/ausland/gaza-mahmud-abbas-verurteilt-hinrichtungen-durch-hamas](https://www.spiegel.de/ausland/gaza-mahmud-abbas-verurteilt-hinrichtungen-durch-hamas-a-917e4b5e-33d6-4770-8122-498badbc2088#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/gaza-mahmud-abbas-verurteilt-hinrichtungen-durch-hamas](https://www.spiegel.de/ausland/gaza-mahmud-abbas-verurteilt-hinrichtungen-durch-hamas-a-917e4b5e-33d6-4770-8122-498badbc2088#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-und-pakistan-erneut-zusammenstoesse-zwischen-grenztruppen](https://www.spiegel.de/ausland/afghanistan-und-pakistan-erneut-zusammenstoesse-zwischen-grenztruppen-a-c0f18bc2-4185-417b-8b60-635ac2df2f68#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/gaza-von-hamas-uebergebene-leiche-soll-keine-geisel-aus-israel-sein](https://www.spiegel.de/ausland/gaza-von-hamas-uebergebene-leiche-soll-keine-geisel-aus-israel-sein-a-c6edd003-1528-498e-b5ee-c3b54226c713#ref=rss)
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik](https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik-a-c34a054b-a084-40fd-9fa1-2962efe03255#ref=rss)
-### los
-
-* [https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus](https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus-a-73072458-0b03-4db2-8623-474553a96d46#ref=rss)
-### angeles
-
-* [https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus](https://www.spiegel.de/ausland/donald-trump-so-wirkt-sich-die-abschiebepolitik-auf-los-angeles-aus-a-73072458-0b03-4db2-8623-474553a96d46#ref=rss)
-### namen
-
-* [https://www.spiegel.de/panorama/guinness-rekord-dieser-mann-braucht-20-minuten-um-seinen-vollen-namen-auszusprechen](https://www.spiegel.de/panorama/guinness-rekord-dieser-mann-braucht-20-minuten-um-seinen-vollen-namen-auszusprechen-a-02ec09fc-a5ba-49e0-8fe0-192495278b03#ref=rss)
-### fußballwm
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-nicaragua-empoert-ueber-polizeieinsatz-vor-wm-qualifikation](https://www.spiegel.de/sport/fussball/fussball-wm-2026-nicaragua-empoert-ueber-polizeieinsatz-vor-wm-qualifikation-a-b7d2655c-404d-4218-90f1-c3c3d99aee9d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert-a-3a631614-6f45-4446-bf93-41119b7250c0#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-nicaragua-empoert-ueber-polizeieinsatz-vor-wm-qualifikation](https://www.spiegel.de/sport/fussball/fussball-wm-2026-nicaragua-empoert-ueber-polizeieinsatz-vor-wm-qualifikation-a-b7d2655c-404d-4218-90f1-c3c3d99aee9d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert-a-3a631614-6f45-4446-bf93-41119b7250c0#ref=rss)
-### nicaragua
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-nicaragua-empoert-ueber-polizeieinsatz-vor-wm-qualifikation](https://www.spiegel.de/sport/fussball/fussball-wm-2026-nicaragua-empoert-ueber-polizeieinsatz-vor-wm-qualifikation-a-b7d2655c-404d-4218-90f1-c3c3d99aee9d#ref=rss)
-### pirmasens
-
-* [https://www.spiegel.de/panorama/pirmasens-unbekannte-werfen-gullydeckel-in-juweliergeschaeft](https://www.spiegel.de/panorama/pirmasens-unbekannte-werfen-gullydeckel-in-juweliergeschaeft-a-fac960eb-4bf5-4bba-8dc4-9e33999b94bd#ref=rss)
-### gullydeckel
-
-* [https://www.spiegel.de/panorama/pirmasens-unbekannte-werfen-gullydeckel-in-juweliergeschaeft](https://www.spiegel.de/panorama/pirmasens-unbekannte-werfen-gullydeckel-in-juweliergeschaeft-a-fac960eb-4bf5-4bba-8dc4-9e33999b94bd#ref=rss)
-### markus
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-zu-social-media-fleischteller-ja-nackte-haut-nein](https://www.spiegel.de/politik/deutschland/markus-soeder-zu-social-media-fleischteller-ja-nackte-haut-nein-a-cf8d06f9-bceb-426e-9f5a-90113ee64801#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-zu-social-media-fleischteller-ja-nackte-haut-nein](https://www.spiegel.de/politik/deutschland/markus-soeder-zu-social-media-fleischteller-ja-nackte-haut-nein-a-cf8d06f9-bceb-426e-9f5a-90113ee64801#ref=rss)
-### grenze
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-zu-social-media-fleischteller-ja-nackte-haut-nein](https://www.spiegel.de/politik/deutschland/markus-soeder-zu-social-media-fleischteller-ja-nackte-haut-nein-a-cf8d06f9-bceb-426e-9f5a-90113ee64801#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-und-pakistan-erneut-zusammenstoesse-zwischen-grenztruppen](https://www.spiegel.de/ausland/afghanistan-und-pakistan-erneut-zusammenstoesse-zwischen-grenztruppen-a-c0f18bc2-4185-417b-8b60-635ac2df2f68#ref=rss)
-### hunde
-
-* [https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet](https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet-a-c419ec96-1844-4505-bb3e-b06e58798de8#ref=rss)
-### schweine
-
-* [https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet](https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet-a-c419ec96-1844-4505-bb3e-b06e58798de8#ref=rss)
-### ratten
-
-* [https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet](https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet-a-c419ec96-1844-4505-bb3e-b06e58798de8#ref=rss)
-### ausgebildet
-
-* [https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet](https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet-a-c419ec96-1844-4505-bb3e-b06e58798de8#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft-a-955a5e47-8697-4b9e-9f3c-b25f55f070e3#ref=rss)
+* [https://www.spiegel.de/panorama/usa-zwei-maenner-mit-giftspritze-hingerichtet](https://www.spiegel.de/panorama/usa-zwei-maenner-mit-giftspritze-hingerichtet-a-5eafc4e8-aa9f-40b4-8990-d1ac510221b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-gewalt-gegen-linkenpolitiker-polizei-erhebt-ebenfalls-vorwuerfe](https://www.spiegel.de/politik/deutschland/berlin-gewalt-gegen-linkenpolitiker-polizei-erhebt-ebenfalls-vorwuerfe-a-af4be86e-a79e-47ad-8344-cd3664364f43#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hildesheim-14-jaehrige-liefern-sich-verfolgungsjagd-mit-polizei](https://www.spiegel.de/panorama/justiz/hildesheim-14-jaehrige-liefern-sich-verfolgungsjagd-mit-polizei-a-99c6a2e5-d2d7-4c47-a158-09da445849af#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet](https://www.spiegel.de/deinspiegel/filmtiere-im-training-in-dieser-schule-werden-hunde-schweine-und-ratten-ausgebildet-a-c419ec96-1844-4505-bb3e-b06e58798de8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland](https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland-a-13715a5b-c4ee-4ef1-87e4-c554f847752d#ref=rss)
-### afghanistan
+* [https://www.spiegel.de/politik/russland-und-die-nato-pistorius-plant-milliardeninvestition-in-drohnen](https://www.spiegel.de/politik/russland-und-die-nato-pistorius-plant-milliardeninvestition-in-drohnen-a-3ced1b30-82b1-4b41-89a9-79e62214f246#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/vision-pro-mit-m5-chip-apple-stellt-neue-modelle-seiner-computerbrille-macbooks-und-ipads-vor](https://www.spiegel.de/netzwelt/gadgets/vision-pro-mit-m5-chip-apple-stellt-neue-modelle-seiner-computerbrille-macbooks-und-ipads-vor-a-42137e33-a7e6-4dc5-8887-a8acdb17638d#ref=rss)
+* [https://www.spiegel.de/panorama/nord-stream-italien-liefert-nord-stream-verdaechtigen-vorerst-nicht-aus](https://www.spiegel.de/panorama/nord-stream-italien-liefert-nord-stream-verdaechtigen-vorerst-nicht-aus-a-09f9d5b9-f445-4103-bc1e-38a7457add4e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ifo-institut-konnte-wirkung-von-sozialleistungen-nicht-berechnen](https://www.spiegel.de/wirtschaft/ifo-institut-konnte-wirkung-von-sozialleistungen-nicht-berechnen-a-16461c1b-8161-4167-b5a0-038dd647b603#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrpflicht-boris-pistorius-us-reisepass-jussi-adler-olsen](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrpflicht-boris-pistorius-us-reisepass-jussi-adler-olsen-a-e2c873f1-b79b-4c9c-a164-a214fa8ea8a4#ref=rss)
+### pistorius
 
-* [https://www.spiegel.de/ausland/afghanistan-und-pakistan-erneut-zusammenstoesse-zwischen-grenztruppen](https://www.spiegel.de/ausland/afghanistan-und-pakistan-erneut-zusammenstoesse-zwischen-grenztruppen-a-c0f18bc2-4185-417b-8b60-635ac2df2f68#ref=rss)
-### pakistan
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-wie-der-streit-um-den-wehrdienst-eskalierte](https://www.spiegel.de/politik/deutschland/boris-pistorius-wie-der-streit-um-den-wehrdienst-eskalierte-a-7d6e2c5a-1751-4ff3-9eed-ffdd4b495098#ref=rss)
+* [https://www.spiegel.de/politik/russland-und-die-nato-pistorius-plant-milliardeninvestition-in-drohnen](https://www.spiegel.de/politik/russland-und-die-nato-pistorius-plant-milliardeninvestition-in-drohnen-a-3ced1b30-82b1-4b41-89a9-79e62214f246#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrpflicht-boris-pistorius-us-reisepass-jussi-adler-olsen](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrpflicht-boris-pistorius-us-reisepass-jussi-adler-olsen-a-e2c873f1-b79b-4c9c-a164-a214fa8ea8a4#ref=rss)
+### rené
 
-* [https://www.spiegel.de/ausland/afghanistan-und-pakistan-erneut-zusammenstoesse-zwischen-grenztruppen](https://www.spiegel.de/ausland/afghanistan-und-pakistan-erneut-zusammenstoesse-zwischen-grenztruppen-a-c0f18bc2-4185-417b-8b60-635ac2df2f68#ref=rss)
-### rbb
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft-a-955a5e47-8697-4b9e-9f3c-b25f55f070e3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/prozess-gegen-rene-benko-damit-abgefunden-dass-er-jemanden-schaedigen-koennte](https://www.spiegel.de/wirtschaft/prozess-gegen-rene-benko-damit-abgefunden-dass-er-jemanden-schaedigen-koennte-a-98260e7d-94bd-4ba8-9ffe-355924b4c239#ref=rss)
+### benko
 
-* [https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk](https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk-a-0bd02470-384f-4f8c-9acd-bb32d4713735#ref=rss)
-### robert
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft-a-955a5e47-8697-4b9e-9f3c-b25f55f070e3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/prozess-gegen-rene-benko-damit-abgefunden-dass-er-jemanden-schaedigen-koennte](https://www.spiegel.de/wirtschaft/prozess-gegen-rene-benko-damit-abgefunden-dass-er-jemanden-schaedigen-koennte-a-98260e7d-94bd-4ba8-9ffe-355924b4c239#ref=rss)
+### gen
 
-* [https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk](https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk-a-0bd02470-384f-4f8c-9acd-bb32d4713735#ref=rss)
-### skuppin
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+### z
 
-* [https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk](https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk-a-0bd02470-384f-4f8c-9acd-bb32d4713735#ref=rss)
-### ich
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+### junge
 
-* [https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk](https://www.spiegel.de/kultur/rbb-ulrike-demmer-ueber-freundschaft-zu-robert-skuppin-ich-betrachte-das-nicht-als-seilschaft-sondern-als-geschenk-a-0bd02470-384f-4f8c-9acd-bb32d4713735#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or](https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or-a-8d076c85-b6c7-4e03-92c7-c47334f823b7#ref=rss)
-### ranking
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+### madagaskar
 
-* [https://www.spiegel.de/panorama/maechtigste-paesse-der-welt-usa-fallen-aus-den-top-ten-ranking-der-reisefreiheit](https://www.spiegel.de/panorama/maechtigste-paesse-der-welt-usa-fallen-aus-den-top-ten-ranking-der-reisefreiheit-a-375e7eef-8ae8-410b-ab1b-fe217d1f2f55#ref=rss)
-### reisefreiheit
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+### nepal
 
-* [https://www.spiegel.de/panorama/maechtigste-paesse-der-welt-usa-fallen-aus-den-top-ten-ranking-der-reisefreiheit](https://www.spiegel.de/panorama/maechtigste-paesse-der-welt-usa-fallen-aus-den-top-ten-ranking-der-reisefreiheit-a-375e7eef-8ae8-410b-ab1b-fe217d1f2f55#ref=rss)
-### milliardenloch
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik](https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik-a-c34a054b-a084-40fd-9fa1-2962efe03255#ref=rss)
-### politik
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft-a-955a5e47-8697-4b9e-9f3c-b25f55f070e3#ref=rss)
+* [https://www.spiegel.de/politik/russland-und-die-nato-pistorius-plant-milliardeninvestition-in-drohnen](https://www.spiegel.de/politik/russland-und-die-nato-pistorius-plant-milliardeninvestition-in-drohnen-a-3ced1b30-82b1-4b41-89a9-79e62214f246#ref=rss)
+* [https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones](https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones-a-911a8883-284f-49c4-8d56-35819d27d8d3#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik](https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik-a-c34a054b-a084-40fd-9fa1-2962efe03255#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+* [https://www.spiegel.de/gesundheit/internationaler-haendewaschtag-nach-diesem-quiz-werden-sie-ihre-haende-waschen-wollen](https://www.spiegel.de/gesundheit/internationaler-haendewaschtag-nach-diesem-quiz-werden-sie-ihre-haende-waschen-wollen-a-2d842b37-cd77-4653-bcd8-22fbcbc62b55#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+* [https://www.spiegel.de/auto/schule-unsicher-zu-erreichen-ace-nennt-elterntaxi-als-risiko](https://www.spiegel.de/auto/schule-unsicher-zu-erreichen-ace-nennt-elterntaxi-als-risiko-a-d06b1878-0cb5-4837-aa1a-343006b94b80#ref=rss)
+### erreichen
+
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+* [https://www.spiegel.de/auto/schule-unsicher-zu-erreichen-ace-nennt-elterntaxi-als-risiko](https://www.spiegel.de/auto/schule-unsicher-zu-erreichen-ace-nennt-elterntaxi-als-risiko-a-d06b1878-0cb5-4837-aa1a-343006b94b80#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/panorama/justiz/block-prozess-ploetzlich-geht-es-um-deutsche-sicherheitsinteressen](https://www.spiegel.de/panorama/justiz/block-prozess-ploetzlich-geht-es-um-deutsche-sicherheitsinteressen-a-bf122a69-37cc-48dc-93da-b6e2352b3e3d#ref=rss)
+* [https://www.spiegel.de/panorama/deutsche-bahn-zugausfaelle-und-verspaetungen-in-hamburg-und-koeln](https://www.spiegel.de/panorama/deutsche-bahn-zugausfaelle-und-verspaetungen-in-hamburg-und-koeln-a-56140e80-5013-4669-8624-140281f3e4e5#ref=rss)
+* [https://www.spiegel.de/sport/orca-angriffe-auf-segelboote-der-rumpf-wirkte-regelrecht-angeknabbert](https://www.spiegel.de/sport/orca-angriffe-auf-segelboote-der-rumpf-wirkte-regelrecht-angeknabbert-a-46a6d01c-c56d-483c-b152-d03170ec49d1#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/panorama/justiz/block-prozess-ploetzlich-geht-es-um-deutsche-sicherheitsinteressen](https://www.spiegel.de/panorama/justiz/block-prozess-ploetzlich-geht-es-um-deutsche-sicherheitsinteressen-a-bf122a69-37cc-48dc-93da-b6e2352b3e3d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/teltow-in-brandenburg-schuelerpraktikum-bei-landes-afd-untersagt-schulleiter-wird-angefeindet](https://www.spiegel.de/panorama/bildung/teltow-in-brandenburg-schuelerpraktikum-bei-landes-afd-untersagt-schulleiter-wird-angefeindet-a-0adafaa9-b0ea-406e-9dec-1f9df28cbca4#ref=rss)
+* [https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones](https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones-a-911a8883-284f-49c4-8d56-35819d27d8d3#ref=rss)
+### laut
+
+* [https://www.spiegel.de/politik/russland-und-die-nato-pistorius-plant-milliardeninvestition-in-drohnen](https://www.spiegel.de/politik/russland-und-die-nato-pistorius-plant-milliardeninvestition-in-drohnen-a-3ced1b30-82b1-4b41-89a9-79e62214f246#ref=rss)
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-klagen-sind-laut-bundesverwaltungsgericht-moeglich-aber-schwierig](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-klagen-sind-laut-bundesverwaltungsgericht-moeglich-aber-schwierig-a-2c152201-5e94-41b0-b83d-17dc58e0d824#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ifo-institut-konnte-wirkung-von-sozialleistungen-nicht-berechnen](https://www.spiegel.de/wirtschaft/ifo-institut-konnte-wirkung-von-sozialleistungen-nicht-berechnen-a-16461c1b-8161-4167-b5a0-038dd647b603#ref=rss)
+### pro
+
+* [https://www.spiegel.de/netzwelt/gadgets/vision-pro-mit-m5-chip-apple-stellt-neue-modelle-seiner-computerbrille-macbooks-und-ipads-vor](https://www.spiegel.de/netzwelt/gadgets/vision-pro-mit-m5-chip-apple-stellt-neue-modelle-seiner-computerbrille-macbooks-und-ipads-vor-a-42137e33-a7e6-4dc5-8887-a8acdb17638d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hildesheim-14-jaehrige-liefern-sich-verfolgungsjagd-mit-polizei](https://www.spiegel.de/panorama/justiz/hildesheim-14-jaehrige-liefern-sich-verfolgungsjagd-mit-polizei-a-99c6a2e5-d2d7-4c47-a158-09da445849af#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/deutschland/berlin-gewalt-gegen-linkenpolitiker-polizei-erhebt-ebenfalls-vorwuerfe](https://www.spiegel.de/politik/deutschland/berlin-gewalt-gegen-linkenpolitiker-polizei-erhebt-ebenfalls-vorwuerfe-a-af4be86e-a79e-47ad-8344-cd3664364f43#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-berlin-stefan-gelbhaar-will-fuer-abgeordnetenhaus-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-berlin-stefan-gelbhaar-will-fuer-abgeordnetenhaus-kandidieren-a-b9c3614e-7c9d-4ef1-b329-33b101684133#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/politik/deutschland/berlin-gewalt-gegen-linkenpolitiker-polizei-erhebt-ebenfalls-vorwuerfe](https://www.spiegel.de/politik/deutschland/berlin-gewalt-gegen-linkenpolitiker-polizei-erhebt-ebenfalls-vorwuerfe-a-af4be86e-a79e-47ad-8344-cd3664364f43#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hildesheim-14-jaehrige-liefern-sich-verfolgungsjagd-mit-polizei](https://www.spiegel.de/panorama/justiz/hildesheim-14-jaehrige-liefern-sich-verfolgungsjagd-mit-polizei-a-99c6a2e5-d2d7-4c47-a158-09da445849af#ref=rss)
+### drew
+
+* [https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones](https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones-a-911a8883-284f-49c4-8d56-35819d27d8d3#ref=rss)
+### boris
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-wie-der-streit-um-den-wehrdienst-eskalierte](https://www.spiegel.de/politik/deutschland/boris-pistorius-wie-der-streit-um-den-wehrdienst-eskalierte-a-7d6e2c5a-1751-4ff3-9eed-ffdd4b495098#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrpflicht-boris-pistorius-us-reisepass-jussi-adler-olsen](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrpflicht-boris-pistorius-us-reisepass-jussi-adler-olsen-a-e2c873f1-b79b-4c9c-a164-a214fa8ea8a4#ref=rss)
+### wehrdienst
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-wie-der-streit-um-den-wehrdienst-eskalierte](https://www.spiegel.de/politik/deutschland/boris-pistorius-wie-der-streit-um-den-wehrdienst-eskalierte-a-7d6e2c5a-1751-4ff3-9eed-ffdd4b495098#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-wie-der-streit-um-den-wehrdienst-eskalierte](https://www.spiegel.de/politik/deutschland/boris-pistorius-wie-der-streit-um-den-wehrdienst-eskalierte-a-7d6e2c5a-1751-4ff3-9eed-ffdd4b495098#ref=rss)
+* [https://www.spiegel.de/auto/schule-unsicher-zu-erreichen-ace-nennt-elterntaxi-als-risiko](https://www.spiegel.de/auto/schule-unsicher-zu-erreichen-ace-nennt-elterntaxi-als-risiko-a-d06b1878-0cb5-4837-aa1a-343006b94b80#ref=rss)
+### erst
+
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-wie-der-streit-um-den-wehrdienst-eskalierte](https://www.spiegel.de/politik/deutschland/boris-pistorius-wie-der-streit-um-den-wehrdienst-eskalierte-a-7d6e2c5a-1751-4ff3-9eed-ffdd4b495098#ref=rss)
+* [https://www.spiegel.de/panorama/nord-stream-italien-liefert-nord-stream-verdaechtigen-vorerst-nicht-aus](https://www.spiegel.de/panorama/nord-stream-italien-liefert-nord-stream-verdaechtigen-vorerst-nicht-aus-a-09f9d5b9-f445-4103-bc1e-38a7457add4e#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik](https://www.spiegel.de/wirtschaft/pflegeversicherung-milliardenloch-und-unbezahlbare-heimkosten-im-fokus-der-politik-a-c34a054b-a084-40fd-9fa1-2962efe03255#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland](https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland-a-13715a5b-c4ee-4ef1-87e4-c554f847752d#ref=rss)
-### nvidiamanager
+* [https://www.spiegel.de/politik/deutschland/boris-pistorius-wie-der-streit-um-den-wehrdienst-eskalierte](https://www.spiegel.de/politik/deutschland/boris-pistorius-wie-der-streit-um-den-wehrdienst-eskalierte-a-7d6e2c5a-1751-4ff3-9eed-ffdd4b495098#ref=rss)
+* [https://www.spiegel.de/auto/schule-unsicher-zu-erreichen-ace-nennt-elterntaxi-als-risiko](https://www.spiegel.de/auto/schule-unsicher-zu-erreichen-ace-nennt-elterntaxi-als-risiko-a-d06b1878-0cb5-4837-aa1a-343006b94b80#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or](https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or-a-8d076c85-b6c7-4e03-92c7-c47334f823b7#ref=rss)
-### nachricht
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft-a-955a5e47-8697-4b9e-9f3c-b25f55f070e3#ref=rss)
+* [https://www.spiegel.de/panorama/nord-stream-italien-liefert-nord-stream-verdaechtigen-vorerst-nicht-aus](https://www.spiegel.de/panorama/nord-stream-italien-liefert-nord-stream-verdaechtigen-vorerst-nicht-aus-a-09f9d5b9-f445-4103-bc1e-38a7457add4e#ref=rss)
+### haft
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or](https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or-a-8d076c85-b6c7-4e03-92c7-c47334f823b7#ref=rss)
-### avinatan
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft-a-955a5e47-8697-4b9e-9f3c-b25f55f070e3#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or](https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or-a-8d076c85-b6c7-4e03-92c7-c47334f823b7#ref=rss)
-### or
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft-a-955a5e47-8697-4b9e-9f3c-b25f55f070e3#ref=rss)
+* [https://www.spiegel.de/panorama/munster-sued-niederlaendischer-soldat-stirbt-bei-uebung-in-niedersachsen](https://www.spiegel.de/panorama/munster-sued-niederlaendischer-soldat-stirbt-bei-uebung-in-niedersachsen-a-63efd6c9-470f-4524-a679-85ffbfec92bd#ref=rss)
+### prozess
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or](https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or-a-8d076c85-b6c7-4e03-92c7-c47334f823b7#ref=rss)
-### gute
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft-a-955a5e47-8697-4b9e-9f3c-b25f55f070e3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/prozess-gegen-rene-benko-damit-abgefunden-dass-er-jemanden-schaedigen-koennte](https://www.spiegel.de/wirtschaft/prozess-gegen-rene-benko-damit-abgefunden-dass-er-jemanden-schaedigen-koennte-a-98260e7d-94bd-4ba8-9ffe-355924b4c239#ref=rss)
+### innsbruck
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or](https://www.spiegel.de/wirtschaft/unternehmen/israel-nvidia-manager-mit-besonderer-nachricht-fuer-ex-hamas-geisel-avinatan-or-a-8d076c85-b6c7-4e03-92c7-c47334f823b7#ref=rss)
-### großartig
+* [https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft](https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-gericht-verurteilt-immobilienpleitier-zu-zwei-jahren-haft-a-955a5e47-8697-4b9e-9f3c-b25f55f070e3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/prozess-gegen-rene-benko-damit-abgefunden-dass-er-jemanden-schaedigen-koennte](https://www.spiegel.de/wirtschaft/prozess-gegen-rene-benko-damit-abgefunden-dass-er-jemanden-schaedigen-koennte-a-98260e7d-94bd-4ba8-9ffe-355924b4c239#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-als-erstes-europaeisches-team-qualifiziert-a-3a631614-6f45-4446-bf93-41119b7250c0#ref=rss)
-### energiepreise
+* [https://www.spiegel.de/panorama/usa-zwei-maenner-mit-giftspritze-hingerichtet](https://www.spiegel.de/panorama/usa-zwei-maenner-mit-giftspritze-hingerichtet-a-5eafc4e8-aa9f-40b4-8990-d1ac510221b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrpflicht-boris-pistorius-us-reisepass-jussi-adler-olsen](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrpflicht-boris-pistorius-us-reisepass-jussi-adler-olsen-a-e2c873f1-b79b-4c9c-a164-a214fa8ea8a4#ref=rss)
+### männer
 
-* [https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland](https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland-a-13715a5b-c4ee-4ef1-87e4-c554f847752d#ref=rss)
-### heizen
+* [https://www.spiegel.de/panorama/usa-zwei-maenner-mit-giftspritze-hingerichtet](https://www.spiegel.de/panorama/usa-zwei-maenner-mit-giftspritze-hingerichtet-a-5eafc4e8-aa9f-40b4-8990-d1ac510221b5#ref=rss)
+### the
 
-* [https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland](https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland-a-13715a5b-c4ee-4ef1-87e4-c554f847752d#ref=rss)
-### prozent
+* [https://www.spiegel.de/kultur/kinofilm-the-mastermind-tragoedie-eines-laecherlichen-mannes](https://www.spiegel.de/kultur/kinofilm-the-mastermind-tragoedie-eines-laecherlichen-mannes-a-9a025b10-46a8-4309-bfb0-2de2e32727de#ref=rss)
+### mastermind
 
-* [https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland](https://www.spiegel.de/wirtschaft/service/energiepreise-so-unterschiedlich-sind-die-kosten-fuer-heizen-und-tanken-in-deutschland-a-13715a5b-c4ee-4ef1-87e4-c554f847752d#ref=rss)
-### stellantis
+* [https://www.spiegel.de/kultur/kinofilm-the-mastermind-tragoedie-eines-laecherlichen-mannes](https://www.spiegel.de/kultur/kinofilm-the-mastermind-tragoedie-eines-laecherlichen-mannes-a-9a025b10-46a8-4309-bfb0-2de2e32727de#ref=rss)
+### proteste
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa-a-6b1baae2-e7c3-49f4-b0a3-dcafce2bbc45#ref=rss)
-### 13
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+### leute
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa-a-6b1baae2-e7c3-49f4-b0a3-dcafce2bbc45#ref=rss)
-### milliarden
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+### bangladesch
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa-a-6b1baae2-e7c3-49f4-b0a3-dcafce2bbc45#ref=rss)
-### dollar
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+### demonstrieren
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa-a-6b1baae2-e7c3-49f4-b0a3-dcafce2bbc45#ref=rss)
-### werke
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+### peru
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa-a-6b1baae2-e7c3-49f4-b0a3-dcafce2bbc45#ref=rss)
-### verbrennerkolosse
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+### fühlen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-13-milliarden-dollar-fuer-werke-und-verbrenner-kolosse-in-den-usa-a-6b1baae2-e7c3-49f4-b0a3-dcafce2bbc45#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+### betrogen
+
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+### barrikaden
+
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+### wütend
+
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+### langfristig
+
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-podcast-a-53a903a7-25d4-4097-9521-4d22e45e1cc8#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren](https://www.spiegel.de/ausland/proteste-der-gen-z-wie-junge-leute-in-madagaskar-nepal-und-bangladesch-demonstrieren-a-d5515280-e271-4091-9cdb-c58fd88e3a97#ref=rss)
+### stellte
+
+* [https://www.spiegel.de/panorama/justiz/block-prozess-ploetzlich-geht-es-um-deutsche-sicherheitsinteressen](https://www.spiegel.de/panorama/justiz/block-prozess-ploetzlich-geht-es-um-deutsche-sicherheitsinteressen-a-bf122a69-37cc-48dc-93da-b6e2352b3e3d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/fonds-sexueller-missbrauch-millionenhilfe-aufgebraucht-betroffene-enttaeuscht](https://www.spiegel.de/panorama/gesellschaft/fonds-sexueller-missbrauch-millionenhilfe-aufgebraucht-betroffene-enttaeuscht-a-0af90ca3-e6fb-4339-ab1c-54a0378db6fa#ref=rss)
+### erste
+
+* [https://www.spiegel.de/wirtschaft/prozess-gegen-rene-benko-damit-abgefunden-dass-er-jemanden-schaedigen-koennte](https://www.spiegel.de/wirtschaft/prozess-gegen-rene-benko-damit-abgefunden-dass-er-jemanden-schaedigen-koennte-a-98260e7d-94bd-4ba8-9ffe-355924b4c239#ref=rss)
+* [https://www.spiegel.de/panorama/munster-sued-niederlaendischer-soldat-stirbt-bei-uebung-in-niedersachsen](https://www.spiegel.de/panorama/munster-sued-niederlaendischer-soldat-stirbt-bei-uebung-in-niedersachsen-a-63efd6c9-470f-4524-a679-85ffbfec92bd#ref=rss)
+### hätte
+
+* [https://www.spiegel.de/wirtschaft/prozess-gegen-rene-benko-damit-abgefunden-dass-er-jemanden-schaedigen-koennte](https://www.spiegel.de/wirtschaft/prozess-gegen-rene-benko-damit-abgefunden-dass-er-jemanden-schaedigen-koennte-a-98260e7d-94bd-4ba8-9ffe-355924b4c239#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/magdeburg-arbeitgeber-berichtet-ueber-fachliche-defizite-des-attentaeters](https://www.spiegel.de/panorama/justiz/magdeburg-arbeitgeber-berichtet-ueber-fachliche-defizite-des-attentaeters-a-5d4e64f8-0493-42b2-b44c-939b2ef927b4#ref=rss)
+### viele
+
+* [https://www.spiegel.de/auto/schule-unsicher-zu-erreichen-ace-nennt-elterntaxi-als-risiko](https://www.spiegel.de/auto/schule-unsicher-zu-erreichen-ace-nennt-elterntaxi-als-risiko-a-d06b1878-0cb5-4837-aa1a-343006b94b80#ref=rss)
+* [https://www.spiegel.de/gesundheit/internationaler-haendewaschtag-nach-diesem-quiz-werden-sie-ihre-haende-waschen-wollen](https://www.spiegel.de/gesundheit/internationaler-haendewaschtag-nach-diesem-quiz-werden-sie-ihre-haende-waschen-wollen-a-2d842b37-cd77-4653-bcd8-22fbcbc62b55#ref=rss)
+### plant
+
+* [https://www.spiegel.de/politik/russland-und-die-nato-pistorius-plant-milliardeninvestition-in-drohnen](https://www.spiegel.de/politik/russland-und-die-nato-pistorius-plant-milliardeninvestition-in-drohnen-a-3ced1b30-82b1-4b41-89a9-79e62214f246#ref=rss)
+* [https://www.spiegel.de/panorama/kolosseum-antike-staette-soll-fuer-popkonzerte-genutzt-werden](https://www.spiegel.de/panorama/kolosseum-antike-staette-soll-fuer-popkonzerte-genutzt-werden-a-dedfbbbd-b641-4566-acc4-2316f652320f#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/politik/russland-und-die-nato-pistorius-plant-milliardeninvestition-in-drohnen](https://www.spiegel.de/politik/russland-und-die-nato-pistorius-plant-milliardeninvestition-in-drohnen-a-3ced1b30-82b1-4b41-89a9-79e62214f246#ref=rss)
+### euro
+
+* [https://www.spiegel.de/politik/russland-und-die-nato-pistorius-plant-milliardeninvestition-in-drohnen](https://www.spiegel.de/politik/russland-und-die-nato-pistorius-plant-milliardeninvestition-in-drohnen-a-3ced1b30-82b1-4b41-89a9-79e62214f246#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/fonds-sexueller-missbrauch-millionenhilfe-aufgebraucht-betroffene-enttaeuscht](https://www.spiegel.de/panorama/gesellschaft/fonds-sexueller-missbrauch-millionenhilfe-aufgebraucht-betroffene-enttaeuscht-a-0af90ca3-e6fb-4339-ab1c-54a0378db6fa#ref=rss)
+### vision
+
+* [https://www.spiegel.de/netzwelt/gadgets/vision-pro-mit-m5-chip-apple-stellt-neue-modelle-seiner-computerbrille-macbooks-und-ipads-vor](https://www.spiegel.de/netzwelt/gadgets/vision-pro-mit-m5-chip-apple-stellt-neue-modelle-seiner-computerbrille-macbooks-und-ipads-vor-a-42137e33-a7e6-4dc5-8887-a8acdb17638d#ref=rss)
+### neue
+
+* [https://www.spiegel.de/netzwelt/gadgets/vision-pro-mit-m5-chip-apple-stellt-neue-modelle-seiner-computerbrille-macbooks-und-ipads-vor](https://www.spiegel.de/netzwelt/gadgets/vision-pro-mit-m5-chip-apple-stellt-neue-modelle-seiner-computerbrille-macbooks-und-ipads-vor-a-42137e33-a7e6-4dc5-8887-a8acdb17638d#ref=rss)
+* [https://www.spiegel.de/panorama/kolosseum-antike-staette-soll-fuer-popkonzerte-genutzt-werden](https://www.spiegel.de/panorama/kolosseum-antike-staette-soll-fuer-popkonzerte-genutzt-werden-a-dedfbbbd-b641-4566-acc4-2316f652320f#ref=rss)
+### ipads
+
+* [https://www.spiegel.de/netzwelt/gadgets/vision-pro-mit-m5-chip-apple-stellt-neue-modelle-seiner-computerbrille-macbooks-und-ipads-vor](https://www.spiegel.de/netzwelt/gadgets/vision-pro-mit-m5-chip-apple-stellt-neue-modelle-seiner-computerbrille-macbooks-und-ipads-vor-a-42137e33-a7e6-4dc5-8887-a8acdb17638d#ref=rss)
+### chip
+
+* [https://www.spiegel.de/netzwelt/gadgets/vision-pro-mit-m5-chip-apple-stellt-neue-modelle-seiner-computerbrille-macbooks-und-ipads-vor](https://www.spiegel.de/netzwelt/gadgets/vision-pro-mit-m5-chip-apple-stellt-neue-modelle-seiner-computerbrille-macbooks-und-ipads-vor-a-42137e33-a7e6-4dc5-8887-a8acdb17638d#ref=rss)
+### einmal
+
+* [https://www.spiegel.de/panorama/nord-stream-italien-liefert-nord-stream-verdaechtigen-vorerst-nicht-aus](https://www.spiegel.de/panorama/nord-stream-italien-liefert-nord-stream-verdaechtigen-vorerst-nicht-aus-a-09f9d5b9-f445-4103-bc1e-38a7457add4e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-berlin-stefan-gelbhaar-will-fuer-abgeordnetenhaus-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-berlin-stefan-gelbhaar-will-fuer-abgeordnetenhaus-kandidieren-a-b9c3614e-7c9d-4ef1-b329-33b101684133#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/wirtschaft/service/gesetzliche-krankenversicherung-so-viel-soll-der-beitrag-2026-kosten](https://www.spiegel.de/wirtschaft/service/gesetzliche-krankenversicherung-so-viel-soll-der-beitrag-2026-kosten-a-208408de-92b4-46d0-b909-cb8397eb265b#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/fonds-sexueller-missbrauch-millionenhilfe-aufgebraucht-betroffene-enttaeuscht](https://www.spiegel.de/panorama/gesellschaft/fonds-sexueller-missbrauch-millionenhilfe-aufgebraucht-betroffene-enttaeuscht-a-0af90ca3-e6fb-4339-ab1c-54a0378db6fa#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/deutsche-bahn-zugausfaelle-und-verspaetungen-in-hamburg-und-koeln](https://www.spiegel.de/panorama/deutsche-bahn-zugausfaelle-und-verspaetungen-in-hamburg-und-koeln-a-56140e80-5013-4669-8624-140281f3e4e5#ref=rss)
+### köln
+
+* [https://www.spiegel.de/panorama/deutsche-bahn-zugausfaelle-und-verspaetungen-in-hamburg-und-koeln](https://www.spiegel.de/panorama/deutsche-bahn-zugausfaelle-und-verspaetungen-in-hamburg-und-koeln-a-56140e80-5013-4669-8624-140281f3e4e5#ref=rss)
+### fabian
+
+* [https://www.spiegel.de/panorama/fabian-aus-guestrow-vermisst-was-wir-ueber-den-leichenfund-in-mecklenburg-vorpommern-wissen](https://www.spiegel.de/panorama/fabian-aus-guestrow-vermisst-was-wir-ueber-den-leichenfund-in-mecklenburg-vorpommern-wissen-a-6c86b7a9-bbbe-40c5-a0a5-a83ac0492ab5#ref=rss)
+### güstrow
+
+* [https://www.spiegel.de/panorama/fabian-aus-guestrow-vermisst-was-wir-ueber-den-leichenfund-in-mecklenburg-vorpommern-wissen](https://www.spiegel.de/panorama/fabian-aus-guestrow-vermisst-was-wir-ueber-den-leichenfund-in-mecklenburg-vorpommern-wissen-a-6c86b7a9-bbbe-40c5-a0a5-a83ac0492ab5#ref=rss)
+### vermisst
+
+* [https://www.spiegel.de/panorama/fabian-aus-guestrow-vermisst-was-wir-ueber-den-leichenfund-in-mecklenburg-vorpommern-wissen](https://www.spiegel.de/panorama/fabian-aus-guestrow-vermisst-was-wir-ueber-den-leichenfund-in-mecklenburg-vorpommern-wissen-a-6c86b7a9-bbbe-40c5-a0a5-a83ac0492ab5#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/panorama/fabian-aus-guestrow-vermisst-was-wir-ueber-den-leichenfund-in-mecklenburg-vorpommern-wissen](https://www.spiegel.de/panorama/fabian-aus-guestrow-vermisst-was-wir-ueber-den-leichenfund-in-mecklenburg-vorpommern-wissen-a-6c86b7a9-bbbe-40c5-a0a5-a83ac0492ab5#ref=rss)
+* [https://www.spiegel.de/gesundheit/internationaler-haendewaschtag-nach-diesem-quiz-werden-sie-ihre-haende-waschen-wollen](https://www.spiegel.de/gesundheit/internationaler-haendewaschtag-nach-diesem-quiz-werden-sie-ihre-haende-waschen-wollen-a-2d842b37-cd77-4653-bcd8-22fbcbc62b55#ref=rss)
+### stark
+
+* [https://www.spiegel.de/sport/orca-angriffe-auf-segelboote-der-rumpf-wirkte-regelrecht-angeknabbert](https://www.spiegel.de/sport/orca-angriffe-auf-segelboote-der-rumpf-wirkte-regelrecht-angeknabbert-a-46a6d01c-c56d-483c-b152-d03170ec49d1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimakrise-weltwetterorganisation-meldet-staerksten-je-gemessenen-co-anstieg-in-der-atmosphaere](https://www.spiegel.de/wissenschaft/natur/klimakrise-weltwetterorganisation-meldet-staerksten-je-gemessenen-co-anstieg-in-der-atmosphaere-a-1da19be6-3a80-417f-8ceb-8838be65d015#ref=rss)
+### nie
+
+* [https://www.spiegel.de/sport/orca-angriffe-auf-segelboote-der-rumpf-wirkte-regelrecht-angeknabbert](https://www.spiegel.de/sport/orca-angriffe-auf-segelboote-der-rumpf-wirkte-regelrecht-angeknabbert-a-46a6d01c-c56d-483c-b152-d03170ec49d1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimakrise-weltwetterorganisation-meldet-staerksten-je-gemessenen-co-anstieg-in-der-atmosphaere](https://www.spiegel.de/wissenschaft/natur/klimakrise-weltwetterorganisation-meldet-staerksten-je-gemessenen-co-anstieg-in-der-atmosphaere-a-1da19be6-3a80-417f-8ceb-8838be65d015#ref=rss)
+### händewaschtag
+
+* [https://www.spiegel.de/gesundheit/internationaler-haendewaschtag-nach-diesem-quiz-werden-sie-ihre-haende-waschen-wollen](https://www.spiegel.de/gesundheit/internationaler-haendewaschtag-nach-diesem-quiz-werden-sie-ihre-haende-waschen-wollen-a-2d842b37-cd77-4653-bcd8-22fbcbc62b55#ref=rss)
+### quiz
+
+* [https://www.spiegel.de/gesundheit/internationaler-haendewaschtag-nach-diesem-quiz-werden-sie-ihre-haende-waschen-wollen](https://www.spiegel.de/gesundheit/internationaler-haendewaschtag-nach-diesem-quiz-werden-sie-ihre-haende-waschen-wollen-a-2d842b37-cd77-4653-bcd8-22fbcbc62b55#ref=rss)
+### hände
+
+* [https://www.spiegel.de/gesundheit/internationaler-haendewaschtag-nach-diesem-quiz-werden-sie-ihre-haende-waschen-wollen](https://www.spiegel.de/gesundheit/internationaler-haendewaschtag-nach-diesem-quiz-werden-sie-ihre-haende-waschen-wollen-a-2d842b37-cd77-4653-bcd8-22fbcbc62b55#ref=rss)
+### waschen
+
+* [https://www.spiegel.de/gesundheit/internationaler-haendewaschtag-nach-diesem-quiz-werden-sie-ihre-haende-waschen-wollen](https://www.spiegel.de/gesundheit/internationaler-haendewaschtag-nach-diesem-quiz-werden-sie-ihre-haende-waschen-wollen-a-2d842b37-cd77-4653-bcd8-22fbcbc62b55#ref=rss)
+### aufgebraucht
+
+* [https://www.spiegel.de/panorama/gesellschaft/fonds-sexueller-missbrauch-millionenhilfe-aufgebraucht-betroffene-enttaeuscht](https://www.spiegel.de/panorama/gesellschaft/fonds-sexueller-missbrauch-millionenhilfe-aufgebraucht-betroffene-enttaeuscht-a-0af90ca3-e6fb-4339-ab1c-54a0378db6fa#ref=rss)
+### sexuellen
+
+* [https://www.spiegel.de/panorama/gesellschaft/fonds-sexueller-missbrauch-millionenhilfe-aufgebraucht-betroffene-enttaeuscht](https://www.spiegel.de/panorama/gesellschaft/fonds-sexueller-missbrauch-millionenhilfe-aufgebraucht-betroffene-enttaeuscht-a-0af90ca3-e6fb-4339-ab1c-54a0378db6fa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-berlin-stefan-gelbhaar-will-fuer-abgeordnetenhaus-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-berlin-stefan-gelbhaar-will-fuer-abgeordnetenhaus-kandidieren-a-b9c3614e-7c9d-4ef1-b329-33b101684133#ref=rss)
+### schulleiter
+
+* [https://www.spiegel.de/panorama/bildung/teltow-in-brandenburg-schuelerpraktikum-bei-landes-afd-untersagt-schulleiter-wird-angefeindet](https://www.spiegel.de/panorama/bildung/teltow-in-brandenburg-schuelerpraktikum-bei-landes-afd-untersagt-schulleiter-wird-angefeindet-a-0adafaa9-b0ea-406e-9dec-1f9df28cbca4#ref=rss)
+### angefeindet
+
+* [https://www.spiegel.de/panorama/bildung/teltow-in-brandenburg-schuelerpraktikum-bei-landes-afd-untersagt-schulleiter-wird-angefeindet](https://www.spiegel.de/panorama/bildung/teltow-in-brandenburg-schuelerpraktikum-bei-landes-afd-untersagt-schulleiter-wird-angefeindet-a-0adafaa9-b0ea-406e-9dec-1f9df28cbca4#ref=rss)
+### praktikum
+
+* [https://www.spiegel.de/panorama/bildung/teltow-in-brandenburg-schuelerpraktikum-bei-landes-afd-untersagt-schulleiter-wird-angefeindet](https://www.spiegel.de/panorama/bildung/teltow-in-brandenburg-schuelerpraktikum-bei-landes-afd-untersagt-schulleiter-wird-angefeindet-a-0adafaa9-b0ea-406e-9dec-1f9df28cbca4#ref=rss)
+### rundfunkbeitrag
+
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-klagen-sind-laut-bundesverwaltungsgericht-moeglich-aber-schwierig](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-klagen-sind-laut-bundesverwaltungsgericht-moeglich-aber-schwierig-a-2c152201-5e94-41b0-b83d-17dc58e0d824#ref=rss)
+### klagen
+
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-klagen-sind-laut-bundesverwaltungsgericht-moeglich-aber-schwierig](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-klagen-sind-laut-bundesverwaltungsgericht-moeglich-aber-schwierig-a-2c152201-5e94-41b0-b83d-17dc58e0d824#ref=rss)
+### bundesverwaltungsgericht
+
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-klagen-sind-laut-bundesverwaltungsgericht-moeglich-aber-schwierig](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-klagen-sind-laut-bundesverwaltungsgericht-moeglich-aber-schwierig-a-2c152201-5e94-41b0-b83d-17dc58e0d824#ref=rss)
+### hildesheim
+
+* [https://www.spiegel.de/panorama/justiz/hildesheim-14-jaehrige-liefern-sich-verfolgungsjagd-mit-polizei](https://www.spiegel.de/panorama/justiz/hildesheim-14-jaehrige-liefern-sich-verfolgungsjagd-mit-polizei-a-99c6a2e5-d2d7-4c47-a158-09da445849af#ref=rss)
+### 14jährige
+
+* [https://www.spiegel.de/panorama/justiz/hildesheim-14-jaehrige-liefern-sich-verfolgungsjagd-mit-polizei](https://www.spiegel.de/panorama/justiz/hildesheim-14-jaehrige-liefern-sich-verfolgungsjagd-mit-polizei-a-99c6a2e5-d2d7-4c47-a158-09da445849af#ref=rss)
+### kolosseum
+
+* [https://www.spiegel.de/panorama/kolosseum-antike-staette-soll-fuer-popkonzerte-genutzt-werden](https://www.spiegel.de/panorama/kolosseum-antike-staette-soll-fuer-popkonzerte-genutzt-werden-a-dedfbbbd-b641-4566-acc4-2316f652320f#ref=rss)
+### rom
+
+* [https://www.spiegel.de/panorama/kolosseum-antike-staette-soll-fuer-popkonzerte-genutzt-werden](https://www.spiegel.de/panorama/kolosseum-antike-staette-soll-fuer-popkonzerte-genutzt-werden-a-dedfbbbd-b641-4566-acc4-2316f652320f#ref=rss)
+### star
+
+* [https://www.spiegel.de/panorama/kolosseum-antike-staette-soll-fuer-popkonzerte-genutzt-werden](https://www.spiegel.de/panorama/kolosseum-antike-staette-soll-fuer-popkonzerte-genutzt-werden-a-dedfbbbd-b641-4566-acc4-2316f652320f#ref=rss)
+* [https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones](https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones-a-911a8883-284f-49c4-8d56-35819d27d8d3#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/gruene-berlin-stefan-gelbhaar-will-fuer-abgeordnetenhaus-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-berlin-stefan-gelbhaar-will-fuer-abgeordnetenhaus-kandidieren-a-b9c3614e-7c9d-4ef1-b329-33b101684133#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/politik/deutschland/gruene-berlin-stefan-gelbhaar-will-fuer-abgeordnetenhaus-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-berlin-stefan-gelbhaar-will-fuer-abgeordnetenhaus-kandidieren-a-b9c3614e-7c9d-4ef1-b329-33b101684133#ref=rss)
+### gelbhaar
+
+* [https://www.spiegel.de/politik/deutschland/gruene-berlin-stefan-gelbhaar-will-fuer-abgeordnetenhaus-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-berlin-stefan-gelbhaar-will-fuer-abgeordnetenhaus-kandidieren-a-b9c3614e-7c9d-4ef1-b329-33b101684133#ref=rss)
+### wahlkreis
+
+* [https://www.spiegel.de/politik/deutschland/gruene-berlin-stefan-gelbhaar-will-fuer-abgeordnetenhaus-kandidieren](https://www.spiegel.de/politik/deutschland/gruene-berlin-stefan-gelbhaar-will-fuer-abgeordnetenhaus-kandidieren-a-b9c3614e-7c9d-4ef1-b329-33b101684133#ref=rss)
+### atmosphäre
+
+* [https://www.spiegel.de/wissenschaft/natur/klimakrise-weltwetterorganisation-meldet-staerksten-je-gemessenen-co-anstieg-in-der-atmosphaere](https://www.spiegel.de/wissenschaft/natur/klimakrise-weltwetterorganisation-meldet-staerksten-je-gemessenen-co-anstieg-in-der-atmosphaere-a-1da19be6-3a80-417f-8ceb-8838be65d015#ref=rss)
+### munster
+
+* [https://www.spiegel.de/panorama/munster-sued-niederlaendischer-soldat-stirbt-bei-uebung-in-niedersachsen](https://www.spiegel.de/panorama/munster-sued-niederlaendischer-soldat-stirbt-bei-uebung-in-niedersachsen-a-63efd6c9-470f-4524-a679-85ffbfec92bd#ref=rss)
+### süd
+
+* [https://www.spiegel.de/panorama/munster-sued-niederlaendischer-soldat-stirbt-bei-uebung-in-niedersachsen](https://www.spiegel.de/panorama/munster-sued-niederlaendischer-soldat-stirbt-bei-uebung-in-niedersachsen-a-63efd6c9-470f-4524-a679-85ffbfec92bd#ref=rss)
+### alter
+
+* [https://www.spiegel.de/panorama/munster-sued-niederlaendischer-soldat-stirbt-bei-uebung-in-niedersachsen](https://www.spiegel.de/panorama/munster-sued-niederlaendischer-soldat-stirbt-bei-uebung-in-niedersachsen-a-63efd6c9-470f-4524-a679-85ffbfec92bd#ref=rss)
+* [https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones](https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones-a-911a8883-284f-49c4-8d56-35819d27d8d3#ref=rss)
+### ifoinstitut
+
+* [https://www.spiegel.de/wirtschaft/ifo-institut-konnte-wirkung-von-sozialleistungen-nicht-berechnen](https://www.spiegel.de/wirtschaft/ifo-institut-konnte-wirkung-von-sozialleistungen-nicht-berechnen-a-16461c1b-8161-4167-b5a0-038dd647b603#ref=rss)
+### sozialleistungen
+
+* [https://www.spiegel.de/wirtschaft/ifo-institut-konnte-wirkung-von-sozialleistungen-nicht-berechnen](https://www.spiegel.de/wirtschaft/ifo-institut-konnte-wirkung-von-sozialleistungen-nicht-berechnen-a-16461c1b-8161-4167-b5a0-038dd647b603#ref=rss)
+### arbeitgeber
+
+* [https://www.spiegel.de/panorama/justiz/magdeburg-arbeitgeber-berichtet-ueber-fachliche-defizite-des-attentaeters](https://www.spiegel.de/panorama/justiz/magdeburg-arbeitgeber-berichtet-ueber-fachliche-defizite-des-attentaeters-a-5d4e64f8-0493-42b2-b44c-939b2ef927b4#ref=rss)
+### fachliche
+
+* [https://www.spiegel.de/panorama/justiz/magdeburg-arbeitgeber-berichtet-ueber-fachliche-defizite-des-attentaeters](https://www.spiegel.de/panorama/justiz/magdeburg-arbeitgeber-berichtet-ueber-fachliche-defizite-des-attentaeters-a-5d4e64f8-0493-42b2-b44c-939b2ef927b4#ref=rss)
+### defizite
+
+* [https://www.spiegel.de/panorama/justiz/magdeburg-arbeitgeber-berichtet-ueber-fachliche-defizite-des-attentaeters](https://www.spiegel.de/panorama/justiz/magdeburg-arbeitgeber-berichtet-ueber-fachliche-defizite-des-attentaeters-a-5d4e64f8-0493-42b2-b44c-939b2ef927b4#ref=rss)
+### jussi
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrpflicht-boris-pistorius-us-reisepass-jussi-adler-olsen](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrpflicht-boris-pistorius-us-reisepass-jussi-adler-olsen-a-e2c873f1-b79b-4c9c-a164-a214fa8ea8a4#ref=rss)
+### adlerolsen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrpflicht-boris-pistorius-us-reisepass-jussi-adler-olsen](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrpflicht-boris-pistorius-us-reisepass-jussi-adler-olsen-a-e2c873f1-b79b-4c9c-a164-a214fa8ea8a4#ref=rss)
+### struzan
+
+* [https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones](https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones-a-911a8883-284f-49c4-8d56-35819d27d8d3#ref=rss)
+### schuf
+
+* [https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones](https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones-a-911a8883-284f-49c4-8d56-35819d27d8d3#ref=rss)
+### indiana
+
+* [https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones](https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones-a-911a8883-284f-49c4-8d56-35819d27d8d3#ref=rss)
+### jones
+
+* [https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones](https://www.spiegel.de/kultur/kino/drew-struzan-ist-tot-hollywood-illustrator-schuf-plakate-fuer-e-t-star-wars-indiana-jones-a-911a8883-284f-49c4-8d56-35819d27d8d3#ref=rss)
 
