@@ -4,388 +4,350 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-kuendigen-treffen-in-budapest-an](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-kuendigen-treffen-in-budapest-an-a-5714bd8e-746a-4028-a42b-7ccdbb8ddf22#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-neu-delhi-schweigt-zum-verkuendeten-import-stop-von-russischem-oel](https://www.spiegel.de/wirtschaft/donald-trump-neu-delhi-schweigt-zum-verkuendeten-import-stop-von-russischem-oel-a-5c79e0fc-2525-4609-a7a8-dcab2ad2da8c#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen](https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen-a-da2728a0-b3c0-4bf1-abe2-1e8d88699a69#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-praesentiert-plaene-fuer-triumphbogen-in-washington-d-c-arc-de-trump](https://www.spiegel.de/ausland/donald-trump-praesentiert-plaene-fuer-triumphbogen-in-washington-d-c-arc-de-trump-a-1de288e2-1e2b-4d25-8089-7447cc7fd44f#ref=rss)
-* [https://www.spiegel.de/panorama/ex-nato-generalsekretaer-jens-stoltenberg-zieht-bilanz-seine-irren-erfahrungen-mit-donald-trump](https://www.spiegel.de/panorama/ex-nato-generalsekretaer-jens-stoltenberg-zieht-bilanz-seine-irren-erfahrungen-mit-donald-trump-a-384c4eb6-52f1-412b-8e2d-1ca53ccea300#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-kuendigen-treffen-in-budapest-an](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-kuendigen-treffen-in-budapest-an-a-5714bd8e-746a-4028-a42b-7ccdbb8ddf22#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-neu-delhi-schweigt-zum-verkuendeten-import-stop-von-russischem-oel](https://www.spiegel.de/wirtschaft/donald-trump-neu-delhi-schweigt-zum-verkuendeten-import-stop-von-russischem-oel-a-5c79e0fc-2525-4609-a7a8-dcab2ad2da8c#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen](https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen-a-da2728a0-b3c0-4bf1-abe2-1e8d88699a69#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-praesentiert-plaene-fuer-triumphbogen-in-washington-d-c-arc-de-trump](https://www.spiegel.de/ausland/donald-trump-praesentiert-plaene-fuer-triumphbogen-in-washington-d-c-arc-de-trump-a-1de288e2-1e2b-4d25-8089-7447cc7fd44f#ref=rss)
-* [https://www.spiegel.de/panorama/ex-nato-generalsekretaer-jens-stoltenberg-zieht-bilanz-seine-irren-erfahrungen-mit-donald-trump](https://www.spiegel.de/panorama/ex-nato-generalsekretaer-jens-stoltenberg-zieht-bilanz-seine-irren-erfahrungen-mit-donald-trump-a-384c4eb6-52f1-412b-8e2d-1ca53ccea300#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/stil/kim-kardashian-slips-mit-kuenstlichen-schamhaaren-als-neues-produkt](https://www.spiegel.de/stil/kim-kardashian-slips-mit-kuenstlichen-schamhaaren-als-neues-produkt-a-b6d4e044-c6f2-4b2d-8b22-afa5fc0f3873#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-neu-delhi-schweigt-zum-verkuendeten-import-stop-von-russischem-oel](https://www.spiegel.de/wirtschaft/donald-trump-neu-delhi-schweigt-zum-verkuendeten-import-stop-von-russischem-oel-a-5c79e0fc-2525-4609-a7a8-dcab2ad2da8c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/namensverbot-fuer-veggie-wurst-agrarminister-rainer-ist-dafuer-seine-fachleute-sind-skeptisch](https://www.spiegel.de/wirtschaft/namensverbot-fuer-veggie-wurst-agrarminister-rainer-ist-dafuer-seine-fachleute-sind-skeptisch-a-45805f34-efc3-4eff-bf5f-07829c994461#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte](https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte-a-ac66f2fd-2c12-497a-8a88-f2f9e7b8843d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/titan-u-boot-implosion-wohl-wegen-mangelhafter-konstruktion](https://www.spiegel.de/wissenschaft/technik/titan-u-boot-implosion-wohl-wegen-mangelhafter-konstruktion-a-62542d76-fdeb-4c32-88a3-208718697c42#ref=rss)
-### pistorius
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidgungsminister-offen-fuer-aenderungen-am-gesetzentwurf-zum-wehrdienst](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidgungsminister-offen-fuer-aenderungen-am-gesetzentwurf-zum-wehrdienst-a-31c5d1c4-73f6-4a8d-9548-9e462e56e7b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrdienst-boris-pistorius-zeigt-sich-kompromissbereit](https://www.spiegel.de/politik/deutschland/wehrdienst-boris-pistorius-zeigt-sich-kompromissbereit-a-982a158e-6526-4082-b288-ee9b40b8b417#ref=rss)
-### wehrdienst
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidgungsminister-offen-fuer-aenderungen-am-gesetzentwurf-zum-wehrdienst](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidgungsminister-offen-fuer-aenderungen-am-gesetzentwurf-zum-wehrdienst-a-31c5d1c4-73f6-4a8d-9548-9e462e56e7b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrdienst-boris-pistorius-zeigt-sich-kompromissbereit](https://www.spiegel.de/politik/deutschland/wehrdienst-boris-pistorius-zeigt-sich-kompromissbereit-a-982a158e-6526-4082-b288-ee9b40b8b417#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier-a-5859c7df-6877-4d16-b709-7d631d6d95d8#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-kuendigen-treffen-in-budapest-an](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-kuendigen-treffen-in-budapest-an-a-5714bd8e-746a-4028-a42b-7ccdbb8ddf22#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen](https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen-a-da2728a0-b3c0-4bf1-abe2-1e8d88699a69#ref=rss)
-### macht
-
-* [https://www.spiegel.de/panorama/leute/caroline-wahl-autorin-von-22-bahnen-hat-spass-am-polarisieren](https://www.spiegel.de/panorama/leute/caroline-wahl-autorin-von-22-bahnen-hat-spass-am-polarisieren-a-abce4b2c-d65c-469f-aa37-bf527b72f003#ref=rss)
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse](https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse-a-ecfdd5bf-5ed8-40f4-8563-ba972f4bfc7f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-praesentiert-plaene-fuer-triumphbogen-in-washington-d-c-arc-de-trump](https://www.spiegel.de/ausland/donald-trump-praesentiert-plaene-fuer-triumphbogen-in-washington-d-c-arc-de-trump-a-1de288e2-1e2b-4d25-8089-7447cc7fd44f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt](https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt-a-22fea93d-6e77-4145-ab20-b683ee0e996b#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-musiker-wegen-regierungskritischer-lieder-in-haft](https://www.spiegel.de/ausland/russland-musiker-wegen-regierungskritischer-lieder-in-haft-a-6fe6e85a-ae5b-47eb-9e7b-4dce06b47063#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-neu-delhi-schweigt-zum-verkuendeten-import-stop-von-russischem-oel](https://www.spiegel.de/wirtschaft/donald-trump-neu-delhi-schweigt-zum-verkuendeten-import-stop-von-russischem-oel-a-5c79e0fc-2525-4609-a7a8-dcab2ad2da8c#ref=rss)
-* [https://www.spiegel.de/netzwelt/cyberkriminalitaet-deutschland-ist-hauptziel-von-cyberangriffen-in-der-eu](https://www.spiegel.de/netzwelt/cyberkriminalitaet-deutschland-ist-hauptziel-von-cyberangriffen-in-der-eu-a-d33f23ee-9b54-4e15-8cc3-4f6707578b8f#ref=rss)
-* [https://www.spiegel.de/panorama/ex-nato-generalsekretaer-jens-stoltenberg-zieht-bilanz-seine-irren-erfahrungen-mit-donald-trump](https://www.spiegel.de/panorama/ex-nato-generalsekretaer-jens-stoltenberg-zieht-bilanz-seine-irren-erfahrungen-mit-donald-trump-a-384c4eb6-52f1-412b-8e2d-1ca53ccea300#ref=rss)
-### tödlichen
-
-* [https://www.spiegel.de/panorama/aschaffenburg-sicherungsverfahren-um-toedlichen-messerangriff-hat-begonnen](https://www.spiegel.de/panorama/aschaffenburg-sicherungsverfahren-um-toedlichen-messerangriff-hat-begonnen-a-7d90aff1-d5e0-4e30-8fd9-c0b8107399b2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier-a-5859c7df-6877-4d16-b709-7d631d6d95d8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/titan-u-boot-implosion-wohl-wegen-mangelhafter-konstruktion](https://www.spiegel.de/wissenschaft/technik/titan-u-boot-implosion-wohl-wegen-mangelhafter-konstruktion-a-62542d76-fdeb-4c32-88a3-208718697c42#ref=rss)
-### boris
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidgungsminister-offen-fuer-aenderungen-am-gesetzentwurf-zum-wehrdienst](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidgungsminister-offen-fuer-aenderungen-am-gesetzentwurf-zum-wehrdienst-a-31c5d1c4-73f6-4a8d-9548-9e462e56e7b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrdienst-boris-pistorius-zeigt-sich-kompromissbereit](https://www.spiegel.de/politik/deutschland/wehrdienst-boris-pistorius-zeigt-sich-kompromissbereit-a-982a158e-6526-4082-b288-ee9b40b8b417#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidgungsminister-offen-fuer-aenderungen-am-gesetzentwurf-zum-wehrdienst](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidgungsminister-offen-fuer-aenderungen-am-gesetzentwurf-zum-wehrdienst-a-31c5d1c4-73f6-4a8d-9548-9e462e56e7b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrdienst-boris-pistorius-zeigt-sich-kompromissbereit](https://www.spiegel.de/politik/deutschland/wehrdienst-boris-pistorius-zeigt-sich-kompromissbereit-a-982a158e-6526-4082-b288-ee9b40b8b417#ref=rss)
-* [https://www.spiegel.de/wirtschaft/namensverbot-fuer-veggie-wurst-agrarminister-rainer-ist-dafuer-seine-fachleute-sind-skeptisch](https://www.spiegel.de/wirtschaft/namensverbot-fuer-veggie-wurst-agrarminister-rainer-ist-dafuer-seine-fachleute-sind-skeptisch-a-45805f34-efc3-4eff-bf5f-07829c994461#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidgungsminister-offen-fuer-aenderungen-am-gesetzentwurf-zum-wehrdienst](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidgungsminister-offen-fuer-aenderungen-am-gesetzentwurf-zum-wehrdienst-a-31c5d1c4-73f6-4a8d-9548-9e462e56e7b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte](https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte-a-ac66f2fd-2c12-497a-8a88-f2f9e7b8843d#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-kuendigen-treffen-in-budapest-an](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-kuendigen-treffen-in-budapest-an-a-5714bd8e-746a-4028-a42b-7ccdbb8ddf22#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildung-neuntklaessler-schmieren-laut-iqb-studie-in-mathe-bio-physik-und-chemie-ab](https://www.spiegel.de/panorama/bildung/bildung-neuntklaessler-schmieren-laut-iqb-studie-in-mathe-bio-physik-und-chemie-ab-a-2e7fcbdd-5634-4eb6-bfb3-1dc629c368c5#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-kuendigen-treffen-in-budapest-an](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-kuendigen-treffen-in-budapest-an-a-5714bd8e-746a-4028-a42b-7ccdbb8ddf22#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen](https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen-a-da2728a0-b3c0-4bf1-abe2-1e8d88699a69#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/politik/deutschland/berlin-cdu-kai-wegner-kritisiert-friedrich-merz-fuer-stadtbild-aeusserung](https://www.spiegel.de/politik/deutschland/berlin-cdu-kai-wegner-kritisiert-friedrich-merz-fuer-stadtbild-aeusserung-a-1096f2f4-f7a0-4031-8ee1-12971b2d27fd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-ricarda-lang-ex-parteichefin-kritisiert-robert-habeck](https://www.spiegel.de/politik/deutschland/gruene-ricarda-lang-ex-parteichefin-kritisiert-robert-habeck-a-04ac93ff-703e-4a1b-a75f-666c50e64b58#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen](https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen-a-da2728a0-b3c0-4bf1-abe2-1e8d88699a69#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/berlin-cdu-kai-wegner-kritisiert-friedrich-merz-fuer-stadtbild-aeusserung](https://www.spiegel.de/politik/deutschland/berlin-cdu-kai-wegner-kritisiert-friedrich-merz-fuer-stadtbild-aeusserung-a-1096f2f4-f7a0-4031-8ee1-12971b2d27fd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse](https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse-a-ecfdd5bf-5ed8-40f4-8563-ba972f4bfc7f#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/berlin-cdu-kai-wegner-kritisiert-friedrich-merz-fuer-stadtbild-aeusserung](https://www.spiegel.de/politik/deutschland/berlin-cdu-kai-wegner-kritisiert-friedrich-merz-fuer-stadtbild-aeusserung-a-1096f2f4-f7a0-4031-8ee1-12971b2d27fd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse](https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse-a-ecfdd5bf-5ed8-40f4-8563-ba972f4bfc7f#ref=rss)
-### junge
-
-* [https://www.spiegel.de/ausland/russland-musiker-wegen-regierungskritischer-lieder-in-haft](https://www.spiegel.de/ausland/russland-musiker-wegen-regierungskritischer-lieder-in-haft-a-6fe6e85a-ae5b-47eb-9e7b-4dce06b47063#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier-a-5859c7df-6877-4d16-b709-7d631d6d95d8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte](https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte-a-ac66f2fd-2c12-497a-8a88-f2f9e7b8843d#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wissenschaft/technik/schifffahrt-warum-in-london-ein-historischer-durchbruch-fuer-den-klimaschutz-bevorsteht](https://www.spiegel.de/wissenschaft/technik/schifffahrt-warum-in-london-ein-historischer-durchbruch-fuer-den-klimaschutz-bevorsteht-a-0dad2ac4-1945-49f4-8ead-2f09dbb41023#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-neu-delhi-schweigt-zum-verkuendeten-import-stop-von-russischem-oel](https://www.spiegel.de/wirtschaft/donald-trump-neu-delhi-schweigt-zum-verkuendeten-import-stop-von-russischem-oel-a-5c79e0fc-2525-4609-a7a8-dcab2ad2da8c#ref=rss)
-* [https://www.spiegel.de/ausland/usa-dave-taylor-flagge-mit-hakenkreuz-in-republikanischem-abgeordnetenbuero-entdeckt](https://www.spiegel.de/ausland/usa-dave-taylor-flagge-mit-hakenkreuz-in-republikanischem-abgeordnetenbuero-entdeckt-a-fad9c152-06e2-4eb3-904f-f00cb373621a#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/panorama/aschaffenburg-sicherungsverfahren-um-toedlichen-messerangriff-hat-begonnen](https://www.spiegel.de/panorama/aschaffenburg-sicherungsverfahren-um-toedlichen-messerangriff-hat-begonnen-a-7d90aff1-d5e0-4e30-8fd9-c0b8107399b2#ref=rss)
-* [https://www.spiegel.de/sport/sumo-event-in-london-die-schweren-herren-der-ringe](https://www.spiegel.de/sport/sumo-event-in-london-die-schweren-herren-der-ringe-a-5d323725-178d-4d98-a30b-3963530b8a55#ref=rss)
-* [https://www.spiegel.de/ausland/usa-dave-taylor-flagge-mit-hakenkreuz-in-republikanischem-abgeordnetenbuero-entdeckt](https://www.spiegel.de/ausland/usa-dave-taylor-flagge-mit-hakenkreuz-in-republikanischem-abgeordnetenbuero-entdeckt-a-fad9c152-06e2-4eb3-904f-f00cb373621a#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/aschaffenburg-sicherungsverfahren-um-toedlichen-messerangriff-hat-begonnen](https://www.spiegel.de/panorama/aschaffenburg-sicherungsverfahren-um-toedlichen-messerangriff-hat-begonnen-a-7d90aff1-d5e0-4e30-8fd9-c0b8107399b2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier-a-5859c7df-6877-4d16-b709-7d631d6d95d8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte](https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte-a-ac66f2fd-2c12-497a-8a88-f2f9e7b8843d#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse](https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse-a-ecfdd5bf-5ed8-40f4-8563-ba972f4bfc7f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte](https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte-a-ac66f2fd-2c12-497a-8a88-f2f9e7b8843d#ref=rss)
-### sprechen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier-a-5859c7df-6877-4d16-b709-7d631d6d95d8#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen](https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen-a-da2728a0-b3c0-4bf1-abe2-1e8d88699a69#ref=rss)
-### lang
-
-* [https://www.spiegel.de/politik/deutschland/gruene-ricarda-lang-ex-parteichefin-kritisiert-robert-habeck](https://www.spiegel.de/politik/deutschland/gruene-ricarda-lang-ex-parteichefin-kritisiert-robert-habeck-a-04ac93ff-703e-4a1b-a75f-666c50e64b58#ref=rss)
-* [https://www.spiegel.de/sport/sumo-event-in-london-die-schweren-herren-der-ringe](https://www.spiegel.de/sport/sumo-event-in-london-die-schweren-herren-der-ringe-a-5d323725-178d-4d98-a30b-3963530b8a55#ref=rss)
-### washington
-
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen](https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen-a-da2728a0-b3c0-4bf1-abe2-1e8d88699a69#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-praesentiert-plaene-fuer-triumphbogen-in-washington-d-c-arc-de-trump](https://www.spiegel.de/ausland/donald-trump-praesentiert-plaene-fuer-triumphbogen-in-washington-d-c-arc-de-trump-a-1de288e2-1e2b-4d25-8089-7447cc7fd44f#ref=rss)
-### offen
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidgungsminister-offen-fuer-aenderungen-am-gesetzentwurf-zum-wehrdienst](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidgungsminister-offen-fuer-aenderungen-am-gesetzentwurf-zum-wehrdienst-a-31c5d1c4-73f6-4a8d-9548-9e462e56e7b4#ref=rss)
-### änderungen
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidgungsminister-offen-fuer-aenderungen-am-gesetzentwurf-zum-wehrdienst](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidgungsminister-offen-fuer-aenderungen-am-gesetzentwurf-zum-wehrdienst-a-31c5d1c4-73f6-4a8d-9548-9e462e56e7b4#ref=rss)
-### gesetzentwurf
-
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidgungsminister-offen-fuer-aenderungen-am-gesetzentwurf-zum-wehrdienst](https://www.spiegel.de/politik/deutschland/boris-pistorius-verteidgungsminister-offen-fuer-aenderungen-am-gesetzentwurf-zum-wehrdienst-a-31c5d1c4-73f6-4a8d-9548-9e462e56e7b4#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-kuendigen-treffen-in-budapest-an](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-kuendigen-treffen-in-budapest-an-a-5714bd8e-746a-4028-a42b-7ccdbb8ddf22#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen](https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen-a-da2728a0-b3c0-4bf1-abe2-1e8d88699a69#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-kuendigen-treffen-in-budapest-an](https://www.spiegel.de/ausland/donald-trump-und-wladimir-putin-kuendigen-treffen-in-budapest-an-a-5714bd8e-746a-4028-a42b-7ccdbb8ddf22#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen](https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen-a-da2728a0-b3c0-4bf1-abe2-1e8d88699a69#ref=rss)
-### kai
-
-* [https://www.spiegel.de/politik/deutschland/berlin-cdu-kai-wegner-kritisiert-friedrich-merz-fuer-stadtbild-aeusserung](https://www.spiegel.de/politik/deutschland/berlin-cdu-kai-wegner-kritisiert-friedrich-merz-fuer-stadtbild-aeusserung-a-1096f2f4-f7a0-4031-8ee1-12971b2d27fd#ref=rss)
-### wegner
-
-* [https://www.spiegel.de/politik/deutschland/berlin-cdu-kai-wegner-kritisiert-friedrich-merz-fuer-stadtbild-aeusserung](https://www.spiegel.de/politik/deutschland/berlin-cdu-kai-wegner-kritisiert-friedrich-merz-fuer-stadtbild-aeusserung-a-1096f2f4-f7a0-4031-8ee1-12971b2d27fd#ref=rss)
-### äußerungen
-
-* [https://www.spiegel.de/politik/deutschland/berlin-cdu-kai-wegner-kritisiert-friedrich-merz-fuer-stadtbild-aeusserung](https://www.spiegel.de/politik/deutschland/berlin-cdu-kai-wegner-kritisiert-friedrich-merz-fuer-stadtbild-aeusserung-a-1096f2f4-f7a0-4031-8ee1-12971b2d27fd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-ricarda-lang-ex-parteichefin-kritisiert-robert-habeck](https://www.spiegel.de/politik/deutschland/gruene-ricarda-lang-ex-parteichefin-kritisiert-robert-habeck-a-04ac93ff-703e-4a1b-a75f-666c50e64b58#ref=rss)
-### caroline
-
-* [https://www.spiegel.de/panorama/leute/caroline-wahl-autorin-von-22-bahnen-hat-spass-am-polarisieren](https://www.spiegel.de/panorama/leute/caroline-wahl-autorin-von-22-bahnen-hat-spass-am-polarisieren-a-abce4b2c-d65c-469f-aa37-bf527b72f003#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/panorama/leute/caroline-wahl-autorin-von-22-bahnen-hat-spass-am-polarisieren](https://www.spiegel.de/panorama/leute/caroline-wahl-autorin-von-22-bahnen-hat-spass-am-polarisieren-a-abce4b2c-d65c-469f-aa37-bf527b72f003#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/panorama/leute/caroline-wahl-autorin-von-22-bahnen-hat-spass-am-polarisieren](https://www.spiegel.de/panorama/leute/caroline-wahl-autorin-von-22-bahnen-hat-spass-am-polarisieren-a-abce4b2c-d65c-469f-aa37-bf527b72f003#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-ricarda-lang-ex-parteichefin-kritisiert-robert-habeck](https://www.spiegel.de/politik/deutschland/gruene-ricarda-lang-ex-parteichefin-kritisiert-robert-habeck-a-04ac93ff-703e-4a1b-a75f-666c50e64b58#ref=rss)
-### musiker
-
-* [https://www.spiegel.de/ausland/russland-musiker-wegen-regierungskritischer-lieder-in-haft](https://www.spiegel.de/ausland/russland-musiker-wegen-regierungskritischer-lieder-in-haft-a-6fe6e85a-ae5b-47eb-9e7b-4dce06b47063#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/russland-musiker-wegen-regierungskritischer-lieder-in-haft](https://www.spiegel.de/ausland/russland-musiker-wegen-regierungskritischer-lieder-in-haft-a-6fe6e85a-ae5b-47eb-9e7b-4dce06b47063#ref=rss)
-* [https://www.spiegel.de/netzwelt/cyberkriminalitaet-deutschland-ist-hauptziel-von-cyberangriffen-in-der-eu](https://www.spiegel.de/netzwelt/cyberkriminalitaet-deutschland-ist-hauptziel-von-cyberangriffen-in-der-eu-a-d33f23ee-9b54-4e15-8cc3-4f6707578b8f#ref=rss)
-### schleswigholstein
-
-* [https://www.spiegel.de/panorama/justiz/schleswig-holstein-ermittler-finden-waffenteile-und-chemikalien-bei-jugendlichen](https://www.spiegel.de/panorama/justiz/schleswig-holstein-ermittler-finden-waffenteile-und-chemikalien-bei-jugendlichen-a-dd03a233-b991-4e3e-8325-f7c7292f65ab#ref=rss)
-### london
-
-* [https://www.spiegel.de/wissenschaft/technik/schifffahrt-warum-in-london-ein-historischer-durchbruch-fuer-den-klimaschutz-bevorsteht](https://www.spiegel.de/wissenschaft/technik/schifffahrt-warum-in-london-ein-historischer-durchbruch-fuer-den-klimaschutz-bevorsteht-a-0dad2ac4-1945-49f4-8ead-2f09dbb41023#ref=rss)
-* [https://www.spiegel.de/sport/sumo-event-in-london-die-schweren-herren-der-ringe](https://www.spiegel.de/sport/sumo-event-in-london-die-schweren-herren-der-ringe-a-5d323725-178d-4d98-a30b-3963530b8a55#ref=rss)
-### welt
-
-* [https://www.spiegel.de/wissenschaft/technik/schifffahrt-warum-in-london-ein-historischer-durchbruch-fuer-den-klimaschutz-bevorsteht](https://www.spiegel.de/wissenschaft/technik/schifffahrt-warum-in-london-ein-historischer-durchbruch-fuer-den-klimaschutz-bevorsteht-a-0dad2ac4-1945-49f4-8ead-2f09dbb41023#ref=rss)
-* [https://www.spiegel.de/kultur/musik/der-deutsche-schlagerkoenig-der-die-ganze-welt-singen-liess](https://www.spiegel.de/kultur/musik/der-deutsche-schlagerkoenig-der-die-ganze-welt-singen-liess-a-7bc392c9-b06c-46bb-a877-2ca39cbad023#ref=rss)
-### sicht
-
-* [https://www.spiegel.de/wissenschaft/technik/schifffahrt-warum-in-london-ein-historischer-durchbruch-fuer-den-klimaschutz-bevorsteht](https://www.spiegel.de/wissenschaft/technik/schifffahrt-warum-in-london-ein-historischer-durchbruch-fuer-den-klimaschutz-bevorsteht-a-0dad2ac4-1945-49f4-8ead-2f09dbb41023#ref=rss)
-* [https://www.spiegel.de/panorama/ex-nato-generalsekretaer-jens-stoltenberg-zieht-bilanz-seine-irren-erfahrungen-mit-donald-trump](https://www.spiegel.de/panorama/ex-nato-generalsekretaer-jens-stoltenberg-zieht-bilanz-seine-irren-erfahrungen-mit-donald-trump-a-384c4eb6-52f1-412b-8e2d-1ca53ccea300#ref=rss)
-### aschaffenburg
-
-* [https://www.spiegel.de/panorama/aschaffenburg-sicherungsverfahren-um-toedlichen-messerangriff-hat-begonnen](https://www.spiegel.de/panorama/aschaffenburg-sicherungsverfahren-um-toedlichen-messerangriff-hat-begonnen-a-7d90aff1-d5e0-4e30-8fd9-c0b8107399b2#ref=rss)
-### begonnen
-
-* [https://www.spiegel.de/panorama/aschaffenburg-sicherungsverfahren-um-toedlichen-messerangriff-hat-begonnen](https://www.spiegel.de/panorama/aschaffenburg-sicherungsverfahren-um-toedlichen-messerangriff-hat-begonnen-a-7d90aff1-d5e0-4e30-8fd9-c0b8107399b2#ref=rss)
-### bundeskanzler
-
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse](https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse-a-ecfdd5bf-5ed8-40f4-8563-ba972f4bfc7f#ref=rss)
-### gemeinsame
-
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse](https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse-a-ecfdd5bf-5ed8-40f4-8563-ba972f4bfc7f#ref=rss)
-### börse
-
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse](https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse-a-ecfdd5bf-5ed8-40f4-8563-ba972f4bfc7f#ref=rss)
-### alternative
-
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse](https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse-a-ecfdd5bf-5ed8-40f4-8563-ba972f4bfc7f#ref=rss)
-* [https://www.spiegel.de/netzwelt/faktencheck-system-auf-x-wie-gut-funktionieren-die-community-notes-von-elon-musk](https://www.spiegel.de/netzwelt/faktencheck-system-auf-x-wie-gut-funktionieren-die-community-notes-von-elon-musk-a-fe5c54a7-88a0-4bb7-9e86-64a09cbda1e9#ref=rss)
-### statt
-
-* [https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse](https://www.spiegel.de/wirtschaft/friedrich-merz-bundeskanzler-will-gemeinsame-europaeische-boerse-a-ecfdd5bf-5ed8-40f4-8563-ba972f4bfc7f#ref=rss)
-* [https://www.spiegel.de/sport/sumo-event-in-london-die-schweren-herren-der-ringe](https://www.spiegel.de/sport/sumo-event-in-london-die-schweren-herren-der-ringe-a-5d323725-178d-4d98-a30b-3963530b8a55#ref=rss)
-### kim
-
-* [https://www.spiegel.de/stil/kim-kardashian-slips-mit-kuenstlichen-schamhaaren-als-neues-produkt](https://www.spiegel.de/stil/kim-kardashian-slips-mit-kuenstlichen-schamhaaren-als-neues-produkt-a-b6d4e044-c6f2-4b2d-8b22-afa5fc0f3873#ref=rss)
-### kardashian
-
-* [https://www.spiegel.de/stil/kim-kardashian-slips-mit-kuenstlichen-schamhaaren-als-neues-produkt](https://www.spiegel.de/stil/kim-kardashian-slips-mit-kuenstlichen-schamhaaren-als-neues-produkt-a-b6d4e044-c6f2-4b2d-8b22-afa5fc0f3873#ref=rss)
-### slips
-
-* [https://www.spiegel.de/stil/kim-kardashian-slips-mit-kuenstlichen-schamhaaren-als-neues-produkt](https://www.spiegel.de/stil/kim-kardashian-slips-mit-kuenstlichen-schamhaaren-als-neues-produkt-a-b6d4e044-c6f2-4b2d-8b22-afa5fc0f3873#ref=rss)
-### künstlichen
-
-* [https://www.spiegel.de/stil/kim-kardashian-slips-mit-kuenstlichen-schamhaaren-als-neues-produkt](https://www.spiegel.de/stil/kim-kardashian-slips-mit-kuenstlichen-schamhaaren-als-neues-produkt-a-b6d4e044-c6f2-4b2d-8b22-afa5fc0f3873#ref=rss)
-### schamhaaren
-
-* [https://www.spiegel.de/stil/kim-kardashian-slips-mit-kuenstlichen-schamhaaren-als-neues-produkt](https://www.spiegel.de/stil/kim-kardashian-slips-mit-kuenstlichen-schamhaaren-als-neues-produkt-a-b6d4e044-c6f2-4b2d-8b22-afa5fc0f3873#ref=rss)
-### produkt
-
-* [https://www.spiegel.de/stil/kim-kardashian-slips-mit-kuenstlichen-schamhaaren-als-neues-produkt](https://www.spiegel.de/stil/kim-kardashian-slips-mit-kuenstlichen-schamhaaren-als-neues-produkt-a-b6d4e044-c6f2-4b2d-8b22-afa5fc0f3873#ref=rss)
-### elon
-
-* [https://www.spiegel.de/netzwelt/faktencheck-system-auf-x-wie-gut-funktionieren-die-community-notes-von-elon-musk](https://www.spiegel.de/netzwelt/faktencheck-system-auf-x-wie-gut-funktionieren-die-community-notes-von-elon-musk-a-fe5c54a7-88a0-4bb7-9e86-64a09cbda1e9#ref=rss)
-### musk
-
-* [https://www.spiegel.de/netzwelt/faktencheck-system-auf-x-wie-gut-funktionieren-die-community-notes-von-elon-musk](https://www.spiegel.de/netzwelt/faktencheck-system-auf-x-wie-gut-funktionieren-die-community-notes-von-elon-musk-a-fe5c54a7-88a0-4bb7-9e86-64a09cbda1e9#ref=rss)
-### klar
-
-* [https://www.spiegel.de/politik/deutschland/wehrdienst-boris-pistorius-zeigt-sich-kompromissbereit](https://www.spiegel.de/politik/deutschland/wehrdienst-boris-pistorius-zeigt-sich-kompromissbereit-a-982a158e-6526-4082-b288-ee9b40b8b417#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt](https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt-a-22fea93d-6e77-4145-ab20-b683ee0e996b#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/wehrdienst-boris-pistorius-zeigt-sich-kompromissbereit](https://www.spiegel.de/politik/deutschland/wehrdienst-boris-pistorius-zeigt-sich-kompromissbereit-a-982a158e-6526-4082-b288-ee9b40b8b417#ref=rss)
-* [https://www.spiegel.de/netzwelt/cyberkriminalitaet-deutschland-ist-hauptziel-von-cyberangriffen-in-der-eu](https://www.spiegel.de/netzwelt/cyberkriminalitaet-deutschland-ist-hauptziel-von-cyberangriffen-in-der-eu-a-d33f23ee-9b54-4e15-8cc3-4f6707578b8f#ref=rss)
-### coronavirus
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier-a-5859c7df-6877-4d16-b709-7d631d6d95d8#ref=rss)
-### laura
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier-a-5859c7df-6877-4d16-b709-7d631d6d95d8#ref=rss)
-### wehrdienstdebatte
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier-a-5859c7df-6877-4d16-b709-7d631d6d95d8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte](https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte-a-ac66f2fd-2c12-497a-8a88-f2f9e7b8843d#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier](https://www.spiegel.de/politik/deutschland/news-des-tages-wehrdienst-coronavirus-laura-dahlmeier-a-5859c7df-6877-4d16-b709-7d631d6d95d8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/titan-u-boot-implosion-wohl-wegen-mangelhafter-konstruktion](https://www.spiegel.de/wissenschaft/technik/titan-u-boot-implosion-wohl-wegen-mangelhafter-konstruktion-a-62542d76-fdeb-4c32-88a3-208718697c42#ref=rss)
-### neudelhi
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-neu-delhi-schweigt-zum-verkuendeten-import-stop-von-russischem-oel](https://www.spiegel.de/wirtschaft/donald-trump-neu-delhi-schweigt-zum-verkuendeten-import-stop-von-russischem-oel-a-5c79e0fc-2525-4609-a7a8-dcab2ad2da8c#ref=rss)
-### öl
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-neu-delhi-schweigt-zum-verkuendeten-import-stop-von-russischem-oel](https://www.spiegel.de/wirtschaft/donald-trump-neu-delhi-schweigt-zum-verkuendeten-import-stop-von-russischem-oel-a-5c79e0fc-2525-4609-a7a8-dcab2ad2da8c#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-neu-delhi-schweigt-zum-verkuendeten-import-stop-von-russischem-oel](https://www.spiegel.de/wirtschaft/donald-trump-neu-delhi-schweigt-zum-verkuendeten-import-stop-von-russischem-oel-a-5c79e0fc-2525-4609-a7a8-dcab2ad2da8c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte](https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte-a-ac66f2fd-2c12-497a-8a88-f2f9e7b8843d#ref=rss)
-### ricarda
-
-* [https://www.spiegel.de/politik/deutschland/gruene-ricarda-lang-ex-parteichefin-kritisiert-robert-habeck](https://www.spiegel.de/politik/deutschland/gruene-ricarda-lang-ex-parteichefin-kritisiert-robert-habeck-a-04ac93ff-703e-4a1b-a75f-666c50e64b58#ref=rss)
-### robert
-
-* [https://www.spiegel.de/politik/deutschland/gruene-ricarda-lang-ex-parteichefin-kritisiert-robert-habeck](https://www.spiegel.de/politik/deutschland/gruene-ricarda-lang-ex-parteichefin-kritisiert-robert-habeck-a-04ac93ff-703e-4a1b-a75f-666c50e64b58#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/politik/deutschland/gruene-ricarda-lang-ex-parteichefin-kritisiert-robert-habeck](https://www.spiegel.de/politik/deutschland/gruene-ricarda-lang-ex-parteichefin-kritisiert-robert-habeck-a-04ac93ff-703e-4a1b-a75f-666c50e64b58#ref=rss)
-### alois
-
-* [https://www.spiegel.de/wirtschaft/namensverbot-fuer-veggie-wurst-agrarminister-rainer-ist-dafuer-seine-fachleute-sind-skeptisch](https://www.spiegel.de/wirtschaft/namensverbot-fuer-veggie-wurst-agrarminister-rainer-ist-dafuer-seine-fachleute-sind-skeptisch-a-45805f34-efc3-4eff-bf5f-07829c994461#ref=rss)
-### rainer
-
-* [https://www.spiegel.de/wirtschaft/namensverbot-fuer-veggie-wurst-agrarminister-rainer-ist-dafuer-seine-fachleute-sind-skeptisch](https://www.spiegel.de/wirtschaft/namensverbot-fuer-veggie-wurst-agrarminister-rainer-ist-dafuer-seine-fachleute-sind-skeptisch-a-45805f34-efc3-4eff-bf5f-07829c994461#ref=rss)
-### fachleute
-
-* [https://www.spiegel.de/wirtschaft/namensverbot-fuer-veggie-wurst-agrarminister-rainer-ist-dafuer-seine-fachleute-sind-skeptisch](https://www.spiegel.de/wirtschaft/namensverbot-fuer-veggie-wurst-agrarminister-rainer-ist-dafuer-seine-fachleute-sind-skeptisch-a-45805f34-efc3-4eff-bf5f-07829c994461#ref=rss)
-### führerschein
-
-* [https://www.spiegel.de/auto/fuehrerschein-so-will-verkehrsminister-patrick-schnieder-ihn-billiger-machen](https://www.spiegel.de/auto/fuehrerschein-so-will-verkehrsminister-patrick-schnieder-ihn-billiger-machen-a-7745073a-5e77-485f-9b4e-151cfcd58b4d#ref=rss)
-### verkehrsminister
-
-* [https://www.spiegel.de/auto/fuehrerschein-so-will-verkehrsminister-patrick-schnieder-ihn-billiger-machen](https://www.spiegel.de/auto/fuehrerschein-so-will-verkehrsminister-patrick-schnieder-ihn-billiger-machen-a-7745073a-5e77-485f-9b4e-151cfcd58b4d#ref=rss)
-### schnieder
-
-* [https://www.spiegel.de/auto/fuehrerschein-so-will-verkehrsminister-patrick-schnieder-ihn-billiger-machen](https://www.spiegel.de/auto/fuehrerschein-so-will-verkehrsminister-patrick-schnieder-ihn-billiger-machen-a-7745073a-5e77-485f-9b4e-151cfcd58b4d#ref=rss)
-### gemacht
-
-* [https://www.spiegel.de/auto/fuehrerschein-so-will-verkehrsminister-patrick-schnieder-ihn-billiger-machen](https://www.spiegel.de/auto/fuehrerschein-so-will-verkehrsminister-patrick-schnieder-ihn-billiger-machen-a-7745073a-5e77-485f-9b4e-151cfcd58b4d#ref=rss)
-* [https://www.spiegel.de/panorama/ex-nato-generalsekretaer-jens-stoltenberg-zieht-bilanz-seine-irren-erfahrungen-mit-donald-trump](https://www.spiegel.de/panorama/ex-nato-generalsekretaer-jens-stoltenberg-zieht-bilanz-seine-irren-erfahrungen-mit-donald-trump-a-384c4eb6-52f1-412b-8e2d-1ca53ccea300#ref=rss)
-### manuel
-
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte](https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte-a-ac66f2fd-2c12-497a-8a88-f2f9e7b8843d#ref=rss)
-### stroh
-
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte](https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte-a-ac66f2fd-2c12-497a-8a88-f2f9e7b8843d#ref=rss)
-### schüler
-
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte](https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte-a-ac66f2fd-2c12-497a-8a88-f2f9e7b8843d#ref=rss)
-### mitspracherecht
-
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte](https://www.spiegel.de/politik/deutschland/wehrpflicht-manuel-stroh-von-der-schueler-union-fordert-mitspracherecht-in-der-wehrdienstdebatte-a-ac66f2fd-2c12-497a-8a88-f2f9e7b8843d#ref=rss)
-### freitag
-
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen](https://www.spiegel.de/ausland/donald-trump-us-praesident-will-offenbar-mit-putin-sprechen-a-da2728a0-b3c0-4bf1-abe2-1e8d88699a69#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt](https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt-a-22fea93d-6e77-4145-ab20-b683ee0e996b#ref=rss)
-### pläne
-
-* [https://www.spiegel.de/ausland/donald-trump-praesentiert-plaene-fuer-triumphbogen-in-washington-d-c-arc-de-trump](https://www.spiegel.de/ausland/donald-trump-praesentiert-plaene-fuer-triumphbogen-in-washington-d-c-arc-de-trump-a-1de288e2-1e2b-4d25-8089-7447cc7fd44f#ref=rss)
-### weltweit
-
-* [https://www.spiegel.de/netzwelt/cyberkriminalitaet-deutschland-ist-hauptziel-von-cyberangriffen-in-der-eu](https://www.spiegel.de/netzwelt/cyberkriminalitaet-deutschland-ist-hauptziel-von-cyberangriffen-in-der-eu-a-d33f23ee-9b54-4e15-8cc3-4f6707578b8f#ref=rss)
-* [https://www.spiegel.de/kultur/musik/der-deutsche-schlagerkoenig-der-die-ganze-welt-singen-liess](https://www.spiegel.de/kultur/musik/der-deutsche-schlagerkoenig-der-die-ganze-welt-singen-liess-a-7bc392c9-b06c-46bb-a877-2ca39cbad023#ref=rss)
-### wangerooge
-
-* [https://www.spiegel.de/panorama/wangerooge-marinehubschrauber-rettet-schiffbruechige-aus-seenot](https://www.spiegel.de/panorama/wangerooge-marinehubschrauber-rettet-schiffbruechige-aus-seenot-a-2bc6f24c-54ef-40e5-a6c5-8de03a77904c#ref=rss)
+### mann
+
+* [https://www.spiegel.de/kultur/musik/kiss-gitarristen-ace-frehley-der-mann-aus-dem-weltraum-ein-nachruf](https://www.spiegel.de/kultur/musik/kiss-gitarristen-ace-frehley-der-mann-aus-dem-weltraum-ein-nachruf-a-c4763f63-acea-46f0-9d58-9584f282c279#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/tauberbischofsheim-polizei-erschiesst-mann-nach-zerstoerungsfahrt-mit-bagger-verfahren-eingestellt](https://www.spiegel.de/panorama/justiz/tauberbischofsheim-polizei-erschiesst-mann-nach-zerstoerungsfahrt-mit-bagger-verfahren-eingestellt-a-cc018455-8717-4d41-a6dd-8e0cda579b86#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bamberg-mordprozess-ohne-leiche-mann-zu-zwoelf-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bamberg-mordprozess-ohne-leiche-mann-zu-zwoelf-jahren-haft-verurteilt-a-30764832-2612-43af-a4b9-511f6b4e3c81#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/unfall-in-hamburg-langenhorn-radfahrer-nach-zusammenstoss-mit-auto-in-lebensgefahr](https://www.spiegel.de/panorama/unfall-in-hamburg-langenhorn-radfahrer-nach-zusammenstoss-mit-auto-in-lebensgefahr-a-75f847b6-7985-46ad-bf92-858aeb1e942d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/tauberbischofsheim-polizei-erschiesst-mann-nach-zerstoerungsfahrt-mit-bagger-verfahren-eingestellt](https://www.spiegel.de/panorama/justiz/tauberbischofsheim-polizei-erschiesst-mann-nach-zerstoerungsfahrt-mit-bagger-verfahren-eingestellt-a-cc018455-8717-4d41-a6dd-8e0cda579b86#ref=rss)
+* [https://www.spiegel.de/sport/fussball/diego-maradona-strassenhaender-in-neapel-verhuellen-wandbild-aus-protest-gegen-polizei](https://www.spiegel.de/sport/fussball/diego-maradona-strassenhaender-in-neapel-verhuellen-wandbild-aus-protest-gegen-polizei-a-1bc7398a-eaf3-4b88-9691-aef12cd2bb4a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/europa-league-maccabi-tel-aviv-darf-keine-fans-zu-aston-villa-mitbringen-sorge-vor-anti-israel-protesten](https://www.spiegel.de/sport/fussball/europa-league-maccabi-tel-aviv-darf-keine-fans-zu-aston-villa-mitbringen-sorge-vor-anti-israel-protesten-a-d91a2d6d-d05a-4266-9d95-4773e3871a5b#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/wangerooge-marinehubschrauber-rettet-schiffbruechige-aus-seenot](https://www.spiegel.de/panorama/wangerooge-marinehubschrauber-rettet-schiffbruechige-aus-seenot-a-2bc6f24c-54ef-40e5-a6c5-8de03a77904c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/titan-u-boot-implosion-wohl-wegen-mangelhafter-konstruktion](https://www.spiegel.de/wissenschaft/technik/titan-u-boot-implosion-wohl-wegen-mangelhafter-konstruktion-a-62542d76-fdeb-4c32-88a3-208718697c42#ref=rss)
-### jens
+* [https://www.spiegel.de/ausland/madagaskar-chef-von-militaerischer-eliteeinheit-als-praesident-vereidigt](https://www.spiegel.de/ausland/madagaskar-chef-von-militaerischer-eliteeinheit-als-praesident-vereidigt-a-49cbe9a1-1cbb-4740-a258-40102ed9b9c2#ref=rss)
+* [https://www.spiegel.de/netzwelt/salesforce-und-ki-training-autorinnen-verklagen-softwarehaus-wegen-urheberrechtsverletzung](https://www.spiegel.de/netzwelt/salesforce-und-ki-training-autorinnen-verklagen-softwarehaus-wegen-urheberrechtsverletzung-a-43102cbb-179a-4cb2-b22b-344e21935c04#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-hamburgs-teuerstes-klo-wird-zugeschuettet-rund-zwei-millionen-euro-sanierung](https://www.spiegel.de/panorama/hamburg-hamburgs-teuerstes-klo-wird-zugeschuettet-rund-zwei-millionen-euro-sanierung-a-a8d1ad03-6751-414e-9cab-7b1ba2563564#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/ex-nato-generalsekretaer-jens-stoltenberg-zieht-bilanz-seine-irren-erfahrungen-mit-donald-trump](https://www.spiegel.de/panorama/ex-nato-generalsekretaer-jens-stoltenberg-zieht-bilanz-seine-irren-erfahrungen-mit-donald-trump-a-384c4eb6-52f1-412b-8e2d-1ca53ccea300#ref=rss)
-### stoltenberg
+* [https://www.spiegel.de/ausland/madagaskar-chef-von-militaerischer-eliteeinheit-als-praesident-vereidigt](https://www.spiegel.de/ausland/madagaskar-chef-von-militaerischer-eliteeinheit-als-praesident-vereidigt-a-49cbe9a1-1cbb-4740-a258-40102ed9b9c2#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kiss-gitarristen-ace-frehley-der-mann-aus-dem-weltraum-ein-nachruf](https://www.spiegel.de/kultur/musik/kiss-gitarristen-ace-frehley-der-mann-aus-dem-weltraum-ein-nachruf-a-c4763f63-acea-46f0-9d58-9584f282c279#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bamberg-mordprozess-ohne-leiche-mann-zu-zwoelf-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bamberg-mordprozess-ohne-leiche-mann-zu-zwoelf-jahren-haft-verurteilt-a-30764832-2612-43af-a4b9-511f6b4e3c81#ref=rss)
+* [https://www.spiegel.de/ausland/japan-ehemaliger-premierminister-tomiichi-murayama-ist-tot](https://www.spiegel.de/ausland/japan-ehemaliger-premierminister-tomiichi-murayama-ist-tot-a-1fc0964b-c0ff-4515-9f9c-95bffb01b8ca#ref=rss)
+### auto
 
-* [https://www.spiegel.de/panorama/ex-nato-generalsekretaer-jens-stoltenberg-zieht-bilanz-seine-irren-erfahrungen-mit-donald-trump](https://www.spiegel.de/panorama/ex-nato-generalsekretaer-jens-stoltenberg-zieht-bilanz-seine-irren-erfahrungen-mit-donald-trump-a-384c4eb6-52f1-412b-8e2d-1ca53ccea300#ref=rss)
+* [https://www.spiegel.de/panorama/unfall-in-hamburg-langenhorn-radfahrer-nach-zusammenstoss-mit-auto-in-lebensgefahr](https://www.spiegel.de/panorama/unfall-in-hamburg-langenhorn-radfahrer-nach-zusammenstoss-mit-auto-in-lebensgefahr-a-75f847b6-7985-46ad-bf92-858aeb1e942d#ref=rss)
+* [https://www.spiegel.de/panorama/sigfrido-ranucci-italien-sprengstoffanschlag-auf-auto-von-investigativjournalist](https://www.spiegel.de/panorama/sigfrido-ranucci-italien-sprengstoffanschlag-auf-auto-von-investigativjournalist-a-57e8d704-4fba-4be2-a140-cb71d9b93afe#ref=rss)
+### oliver
+
+* [https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume](https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume-a-d432a263-8528-4e3b-bc61-ffa3973831d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vw-oliver-blume-gibt-chefposten-bei-porsche-auf](https://www.spiegel.de/wirtschaft/vw-oliver-blume-gibt-chefposten-bei-porsche-auf-a-4b540268-eb40-4efc-b411-f2f9241f6fd5#ref=rss)
+### blume
+
+* [https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume](https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume-a-d432a263-8528-4e3b-bc61-ffa3973831d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vw-oliver-blume-gibt-chefposten-bei-porsche-auf](https://www.spiegel.de/wirtschaft/vw-oliver-blume-gibt-chefposten-bei-porsche-auf-a-4b540268-eb40-4efc-b411-f2f9241f6fd5#ref=rss)
+### porsche
+
+* [https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume](https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume-a-d432a263-8528-4e3b-bc61-ffa3973831d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vw-oliver-blume-gibt-chefposten-bei-porsche-auf](https://www.spiegel.de/wirtschaft/vw-oliver-blume-gibt-chefposten-bei-porsche-auf-a-4b540268-eb40-4efc-b411-f2f9241f6fd5#ref=rss)
+### euro
+
+* [https://www.spiegel.de/panorama/justiz/berlin-virchowklinikum-bordellbetreiber-spenden-350-000-euro-fuer-kinderklinik](https://www.spiegel.de/panorama/justiz/berlin-virchowklinikum-bordellbetreiber-spenden-350-000-euro-fuer-kinderklinik-a-3bbbb502-f61d-49c9-9dfa-b4754e705337#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-hamburgs-teuerstes-klo-wird-zugeschuettet-rund-zwei-millionen-euro-sanierung](https://www.spiegel.de/panorama/hamburg-hamburgs-teuerstes-klo-wird-zugeschuettet-rund-zwei-millionen-euro-sanierung-a-a8d1ad03-6751-414e-9cab-7b1ba2563564#ref=rss)
+### beamte
+
+* [https://www.spiegel.de/panorama/justiz/berlin-virchowklinikum-bordellbetreiber-spenden-350-000-euro-fuer-kinderklinik](https://www.spiegel.de/panorama/justiz/berlin-virchowklinikum-bordellbetreiber-spenden-350-000-euro-fuer-kinderklinik-a-3bbbb502-f61d-49c9-9dfa-b4754e705337#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-baerbel-bas-will-beamte-in-rentenversicherung-einbeziehen-wie-sinnvoll-ist-das](https://www.spiegel.de/wirtschaft/soziales/rente-baerbel-bas-will-beamte-in-rentenversicherung-einbeziehen-wie-sinnvoll-ist-das-a-87fc566b-6c67-4fcc-a0f0-d81c58bb78b3#ref=rss)
+### michael
+
+* [https://www.spiegel.de/ausland/madagaskar-chef-von-militaerischer-eliteeinheit-als-praesident-vereidigt](https://www.spiegel.de/ausland/madagaskar-chef-von-militaerischer-eliteeinheit-als-praesident-vereidigt-a-49cbe9a1-1cbb-4740-a258-40102ed9b9c2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume](https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume-a-d432a263-8528-4e3b-bc61-ffa3973831d2#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/bank-aktien-tief-im-minus-probleme-bei-us-regionalbanken-alarmieren-europa](https://www.spiegel.de/wirtschaft/bank-aktien-tief-im-minus-probleme-bei-us-regionalbanken-alarmieren-europa-a-e785950a-e4a8-444f-ad3f-fa714a9825a0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-zahl-der-baugenehmigungen-steigt-aufwaertstrend-bei-eigenheimen](https://www.spiegel.de/wirtschaft/immobilien-zahl-der-baugenehmigungen-steigt-aufwaertstrend-bei-eigenheimen-a-840fa9d6-67f1-4972-aa33-0846522fd391#ref=rss)
+* [https://www.spiegel.de/wirtschaft/merck-beugt-sich-dem-druck-der-regierung-von-donald-trump](https://www.spiegel.de/wirtschaft/merck-beugt-sich-dem-druck-der-regierung-von-donald-trump-a-d10d6ce7-b645-413e-aebb-13a23c52f982#ref=rss)
 ### mathe
 
-* [https://www.spiegel.de/panorama/bildung/bildung-neuntklaessler-schmieren-laut-iqb-studie-in-mathe-bio-physik-und-chemie-ab](https://www.spiegel.de/panorama/bildung/bildung-neuntklaessler-schmieren-laut-iqb-studie-in-mathe-bio-physik-und-chemie-ab-a-2e7fcbdd-5634-4eb6-bfb3-1dc629c368c5#ref=rss)
-### titan
+* [https://www.spiegel.de/panorama/bildung/bildung-warum-maedchen-in-mathe-immer-noch-schlechter-abschneiden-als-jungen](https://www.spiegel.de/panorama/bildung/bildung-warum-maedchen-in-mathe-immer-noch-schlechter-abschneiden-als-jungen-a-03f41da6-7f44-414e-8b1f-0b0958450034#ref=rss)
+### chefposten
 
-* [https://www.spiegel.de/wissenschaft/technik/titan-u-boot-implosion-wohl-wegen-mangelhafter-konstruktion](https://www.spiegel.de/wissenschaft/technik/titan-u-boot-implosion-wohl-wegen-mangelhafter-konstruktion-a-62542d76-fdeb-4c32-88a3-208718697c42#ref=rss)
-### gerhard
+* [https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume](https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume-a-d432a263-8528-4e3b-bc61-ffa3973831d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vw-oliver-blume-gibt-chefposten-bei-porsche-auf](https://www.spiegel.de/wirtschaft/vw-oliver-blume-gibt-chefposten-bei-porsche-auf-a-4b540268-eb40-4efc-b411-f2f9241f6fd5#ref=rss)
+### künftig
 
-* [https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt](https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt-a-22fea93d-6e77-4145-ab20-b683ee0e996b#ref=rss)
-### schröder
+* [https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume](https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume-a-d432a263-8528-4e3b-bc61-ffa3973831d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-baerbel-bas-will-beamte-in-rentenversicherung-einbeziehen-wie-sinnvoll-ist-das](https://www.spiegel.de/wirtschaft/soziales/rente-baerbel-bas-will-beamte-in-rentenversicherung-einbeziehen-wie-sinnvoll-ist-das-a-87fc566b-6c67-4fcc-a0f0-d81c58bb78b3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/merck-beugt-sich-dem-druck-der-regierung-von-donald-trump](https://www.spiegel.de/wirtschaft/merck-beugt-sich-dem-druck-der-regierung-von-donald-trump-a-d10d6ce7-b645-413e-aebb-13a23c52f982#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt](https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt-a-22fea93d-6e77-4145-ab20-b683ee0e996b#ref=rss)
-### untersuchungsausschuss
+* [https://www.spiegel.de/ausland/ukraine-die-stunde-der-landroboter-sie-nennen-ihn-jesus-wegen-der-wiedergeburt](https://www.spiegel.de/ausland/ukraine-die-stunde-der-landroboter-sie-nennen-ihn-jesus-wegen-der-wiedergeburt-a-daca58b0-afb3-437d-96de-a2133fa6c0ae#ref=rss)
+* [https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock](https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock-a-c54af968-61dc-4fb4-8201-2583821f86c2#ref=rss)
+### maradona
 
-* [https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt](https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt-a-22fea93d-6e77-4145-ab20-b683ee0e996b#ref=rss)
-### nord
+* [https://www.spiegel.de/sport/fussball/diego-maradona-strassenhaender-in-neapel-verhuellen-wandbild-aus-protest-gegen-polizei](https://www.spiegel.de/sport/fussball/diego-maradona-strassenhaender-in-neapel-verhuellen-wandbild-aus-protest-gegen-polizei-a-1bc7398a-eaf3-4b88-9691-aef12cd2bb4a#ref=rss)
+### fans
 
-* [https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt](https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt-a-22fea93d-6e77-4145-ab20-b683ee0e996b#ref=rss)
-### stream
+* [https://www.spiegel.de/sport/fussball/diego-maradona-strassenhaender-in-neapel-verhuellen-wandbild-aus-protest-gegen-polizei](https://www.spiegel.de/sport/fussball/diego-maradona-strassenhaender-in-neapel-verhuellen-wandbild-aus-protest-gegen-polizei-a-1bc7398a-eaf3-4b88-9691-aef12cd2bb4a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/europa-league-maccabi-tel-aviv-darf-keine-fans-zu-aston-villa-mitbringen-sorge-vor-anti-israel-protesten](https://www.spiegel.de/sport/fussball/europa-league-maccabi-tel-aviv-darf-keine-fans-zu-aston-villa-mitbringen-sorge-vor-anti-israel-protesten-a-d91a2d6d-d05a-4266-9d95-4773e3871a5b#ref=rss)
+### stadtbild
 
-* [https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt](https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt-a-22fea93d-6e77-4145-ab20-b683ee0e996b#ref=rss)
-### 2
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-schuld-am-vermeintlich-problematischen-stadtbild-ist-die-regierung-selbst](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-schuld-am-vermeintlich-problematischen-stadtbild-ist-die-regierung-selbst-a-3de7bb9a-5b57-414c-96e7-00754ec644b6#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt](https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt-a-22fea93d-6e77-4145-ab20-b683ee0e996b#ref=rss)
-### unter
+* [https://www.spiegel.de/politik/ukraine-und-gaza-donald-trumps-nahost-erfolg-als-modell-fuer-umgang-mit-wladimir-putin](https://www.spiegel.de/politik/ukraine-und-gaza-donald-trumps-nahost-erfolg-als-modell-fuer-umgang-mit-wladimir-putin-a-f98fa5ac-f1d8-40f5-9aa1-2ef86488ff39#ref=rss)
+* [https://www.spiegel.de/wirtschaft/merck-beugt-sich-dem-druck-der-regierung-von-donald-trump](https://www.spiegel.de/wirtschaft/merck-beugt-sich-dem-druck-der-regierung-von-donald-trump-a-d10d6ce7-b645-413e-aebb-13a23c52f982#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt](https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt-a-22fea93d-6e77-4145-ab20-b683ee0e996b#ref=rss)
-### vorbehalt
+* [https://www.spiegel.de/panorama/justiz/guestrow-gefundene-kinderleiche-ist-der-vermisste-fabian](https://www.spiegel.de/panorama/justiz/guestrow-gefundene-kinderleiche-ist-der-vermisste-fabian-a-379e369b-0f18-4b77-9e29-5c5830f9284f#ref=rss)
+* [https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock](https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock-a-c54af968-61dc-4fb4-8201-2583821f86c2#ref=rss)
+### polizeiruf
 
-* [https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt](https://www.spiegel.de/panorama/gesellschaft/gerhard-schroeder-aussage-im-untersuchungsausschuss-zu-nord-stream-2-unter-vorbehalt-a-22fea93d-6e77-4145-ab20-b683ee0e996b#ref=rss)
-### jérôme
+* [https://www.spiegel.de/kultur/polizeiruf-aus-rostock-tu-es-mit-lina-beckmann-und-anneke-kim-sarnau](https://www.spiegel.de/kultur/polizeiruf-aus-rostock-tu-es-mit-lina-beckmann-und-anneke-kim-sarnau-a-0d6aa1e4-88cc-4e95-88b6-3fb8adb240d5#ref=rss)
+### folgt
 
-* [https://www.spiegel.de/sport/fussball/jerome-boateng-und-der-fc-bayern-ein-geaechteter-draengt-zurueck-auf-die-grosse-buehne](https://www.spiegel.de/sport/fussball/jerome-boateng-und-der-fc-bayern-ein-geaechteter-draengt-zurueck-auf-die-grosse-buehne-a-01371444-a903-4212-90ed-618b0a1e1200#ref=rss)
-### boateng
+* [https://www.spiegel.de/kultur/polizeiruf-aus-rostock-tu-es-mit-lina-beckmann-und-anneke-kim-sarnau](https://www.spiegel.de/kultur/polizeiruf-aus-rostock-tu-es-mit-lina-beckmann-und-anneke-kim-sarnau-a-0d6aa1e4-88cc-4e95-88b6-3fb8adb240d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume](https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume-a-d432a263-8528-4e3b-bc61-ffa3973831d2#ref=rss)
+### land
 
-* [https://www.spiegel.de/sport/fussball/jerome-boateng-und-der-fc-bayern-ein-geaechteter-draengt-zurueck-auf-die-grosse-buehne](https://www.spiegel.de/sport/fussball/jerome-boateng-und-der-fc-bayern-ein-geaechteter-draengt-zurueck-auf-die-grosse-buehne-a-01371444-a903-4212-90ed-618b0a1e1200#ref=rss)
-### fc
+* [https://www.spiegel.de/panorama/justiz/berlin-virchowklinikum-bordellbetreiber-spenden-350-000-euro-fuer-kinderklinik](https://www.spiegel.de/panorama/justiz/berlin-virchowklinikum-bordellbetreiber-spenden-350-000-euro-fuer-kinderklinik-a-3bbbb502-f61d-49c9-9dfa-b4754e705337#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-die-stunde-der-landroboter-sie-nennen-ihn-jesus-wegen-der-wiedergeburt](https://www.spiegel.de/ausland/ukraine-die-stunde-der-landroboter-sie-nennen-ihn-jesus-wegen-der-wiedergeburt-a-daca58b0-afb3-437d-96de-a2133fa6c0ae#ref=rss)
+### madagaskar
 
-* [https://www.spiegel.de/sport/fussball/jerome-boateng-und-der-fc-bayern-ein-geaechteter-draengt-zurueck-auf-die-grosse-buehne](https://www.spiegel.de/sport/fussball/jerome-boateng-und-der-fc-bayern-ein-geaechteter-draengt-zurueck-auf-die-grosse-buehne-a-01371444-a903-4212-90ed-618b0a1e1200#ref=rss)
-### bayern
+* [https://www.spiegel.de/ausland/madagaskar-chef-von-militaerischer-eliteeinheit-als-praesident-vereidigt](https://www.spiegel.de/ausland/madagaskar-chef-von-militaerischer-eliteeinheit-als-praesident-vereidigt-a-49cbe9a1-1cbb-4740-a258-40102ed9b9c2#ref=rss)
+### ace
 
-* [https://www.spiegel.de/sport/fussball/jerome-boateng-und-der-fc-bayern-ein-geaechteter-draengt-zurueck-auf-die-grosse-buehne](https://www.spiegel.de/sport/fussball/jerome-boateng-und-der-fc-bayern-ein-geaechteter-draengt-zurueck-auf-die-grosse-buehne-a-01371444-a903-4212-90ed-618b0a1e1200#ref=rss)
-### große
+* [https://www.spiegel.de/kultur/musik/kiss-gitarristen-ace-frehley-der-mann-aus-dem-weltraum-ein-nachruf](https://www.spiegel.de/kultur/musik/kiss-gitarristen-ace-frehley-der-mann-aus-dem-weltraum-ein-nachruf-a-c4763f63-acea-46f0-9d58-9584f282c279#ref=rss)
+### frehley
 
-* [https://www.spiegel.de/sport/fussball/jerome-boateng-und-der-fc-bayern-ein-geaechteter-draengt-zurueck-auf-die-grosse-buehne](https://www.spiegel.de/sport/fussball/jerome-boateng-und-der-fc-bayern-ein-geaechteter-draengt-zurueck-auf-die-grosse-buehne-a-01371444-a903-4212-90ed-618b0a1e1200#ref=rss)
-* [https://www.spiegel.de/kultur/musik/der-deutsche-schlagerkoenig-der-die-ganze-welt-singen-liess](https://www.spiegel.de/kultur/musik/der-deutsche-schlagerkoenig-der-die-ganze-welt-singen-liess-a-7bc392c9-b06c-46bb-a877-2ca39cbad023#ref=rss)
-### dave
+* [https://www.spiegel.de/kultur/musik/kiss-gitarristen-ace-frehley-der-mann-aus-dem-weltraum-ein-nachruf](https://www.spiegel.de/kultur/musik/kiss-gitarristen-ace-frehley-der-mann-aus-dem-weltraum-ein-nachruf-a-c4763f63-acea-46f0-9d58-9584f282c279#ref=rss)
+### alter
 
-* [https://www.spiegel.de/ausland/usa-dave-taylor-flagge-mit-hakenkreuz-in-republikanischem-abgeordnetenbuero-entdeckt](https://www.spiegel.de/ausland/usa-dave-taylor-flagge-mit-hakenkreuz-in-republikanischem-abgeordnetenbuero-entdeckt-a-fad9c152-06e2-4eb3-904f-f00cb373621a#ref=rss)
-### taylor
+* [https://www.spiegel.de/kultur/musik/kiss-gitarristen-ace-frehley-der-mann-aus-dem-weltraum-ein-nachruf](https://www.spiegel.de/kultur/musik/kiss-gitarristen-ace-frehley-der-mann-aus-dem-weltraum-ein-nachruf-a-c4763f63-acea-46f0-9d58-9584f282c279#ref=rss)
+* [https://www.spiegel.de/ausland/japan-ehemaliger-premierminister-tomiichi-murayama-ist-tot](https://www.spiegel.de/ausland/japan-ehemaliger-premierminister-tomiichi-murayama-ist-tot-a-1fc0964b-c0ff-4515-9f9c-95bffb01b8ca#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/ausland/usa-dave-taylor-flagge-mit-hakenkreuz-in-republikanischem-abgeordnetenbuero-entdeckt](https://www.spiegel.de/ausland/usa-dave-taylor-flagge-mit-hakenkreuz-in-republikanischem-abgeordnetenbuero-entdeckt-a-fad9c152-06e2-4eb3-904f-f00cb373621a#ref=rss)
-### flagge
+* [https://www.spiegel.de/kultur/musik/kiss-gitarristen-ace-frehley-der-mann-aus-dem-weltraum-ein-nachruf](https://www.spiegel.de/kultur/musik/kiss-gitarristen-ace-frehley-der-mann-aus-dem-weltraum-ein-nachruf-a-c4763f63-acea-46f0-9d58-9584f282c279#ref=rss)
+* [https://www.spiegel.de/ausland/japan-ehemaliger-premierminister-tomiichi-murayama-ist-tot](https://www.spiegel.de/ausland/japan-ehemaliger-premierminister-tomiichi-murayama-ist-tot-a-1fc0964b-c0ff-4515-9f9c-95bffb01b8ca#ref=rss)
+### probleme
 
-* [https://www.spiegel.de/ausland/usa-dave-taylor-flagge-mit-hakenkreuz-in-republikanischem-abgeordnetenbuero-entdeckt](https://www.spiegel.de/ausland/usa-dave-taylor-flagge-mit-hakenkreuz-in-republikanischem-abgeordnetenbuero-entdeckt-a-fad9c152-06e2-4eb3-904f-f00cb373621a#ref=rss)
-### hakenkreuz
+* [https://www.spiegel.de/wirtschaft/bank-aktien-tief-im-minus-probleme-bei-us-regionalbanken-alarmieren-europa](https://www.spiegel.de/wirtschaft/bank-aktien-tief-im-minus-probleme-bei-us-regionalbanken-alarmieren-europa-a-e785950a-e4a8-444f-ad3f-fa714a9825a0#ref=rss)
+### usregionalbanken
 
-* [https://www.spiegel.de/ausland/usa-dave-taylor-flagge-mit-hakenkreuz-in-republikanischem-abgeordnetenbuero-entdeckt](https://www.spiegel.de/ausland/usa-dave-taylor-flagge-mit-hakenkreuz-in-republikanischem-abgeordnetenbuero-entdeckt-a-fad9c152-06e2-4eb3-904f-f00cb373621a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bank-aktien-tief-im-minus-probleme-bei-us-regionalbanken-alarmieren-europa](https://www.spiegel.de/wirtschaft/bank-aktien-tief-im-minus-probleme-bei-us-regionalbanken-alarmieren-europa-a-e785950a-e4a8-444f-ad3f-fa714a9825a0#ref=rss)
+### europa
+
+* [https://www.spiegel.de/wirtschaft/bank-aktien-tief-im-minus-probleme-bei-us-regionalbanken-alarmieren-europa](https://www.spiegel.de/wirtschaft/bank-aktien-tief-im-minus-probleme-bei-us-regionalbanken-alarmieren-europa-a-e785950a-e4a8-444f-ad3f-fa714a9825a0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/europa-league-maccabi-tel-aviv-darf-keine-fans-zu-aston-villa-mitbringen-sorge-vor-anti-israel-protesten](https://www.spiegel.de/sport/fussball/europa-league-maccabi-tel-aviv-darf-keine-fans-zu-aston-villa-mitbringen-sorge-vor-anti-israel-protesten-a-d91a2d6d-d05a-4266-9d95-4773e3871a5b#ref=rss)
+### mädchen
+
+* [https://www.spiegel.de/panorama/bildung/bildung-warum-maedchen-in-mathe-immer-noch-schlechter-abschneiden-als-jungen](https://www.spiegel.de/panorama/bildung/bildung-warum-maedchen-in-mathe-immer-noch-schlechter-abschneiden-als-jungen-a-03f41da6-7f44-414e-8b1f-0b0958450034#ref=rss)
+### jungen
+
+* [https://www.spiegel.de/panorama/bildung/bildung-warum-maedchen-in-mathe-immer-noch-schlechter-abschneiden-als-jungen](https://www.spiegel.de/panorama/bildung/bildung-warum-maedchen-in-mathe-immer-noch-schlechter-abschneiden-als-jungen-a-03f41da6-7f44-414e-8b1f-0b0958450034#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/panorama/bildung/bildung-warum-maedchen-in-mathe-immer-noch-schlechter-abschneiden-als-jungen](https://www.spiegel.de/panorama/bildung/bildung-warum-maedchen-in-mathe-immer-noch-schlechter-abschneiden-als-jungen-a-03f41da6-7f44-414e-8b1f-0b0958450034#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-schuld-am-vermeintlich-problematischen-stadtbild-ist-die-regierung-selbst](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-schuld-am-vermeintlich-problematischen-stadtbild-ist-die-regierung-selbst-a-3de7bb9a-5b57-414c-96e7-00754ec644b6#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/bildung/bildung-warum-maedchen-in-mathe-immer-noch-schlechter-abschneiden-als-jungen](https://www.spiegel.de/panorama/bildung/bildung-warum-maedchen-in-mathe-immer-noch-schlechter-abschneiden-als-jungen-a-03f41da6-7f44-414e-8b1f-0b0958450034#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bamberg-mordprozess-ohne-leiche-mann-zu-zwoelf-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bamberg-mordprozess-ohne-leiche-mann-zu-zwoelf-jahren-haft-verurteilt-a-30764832-2612-43af-a4b9-511f6b4e3c81#ref=rss)
+### radfahrer
+
+* [https://www.spiegel.de/panorama/unfall-in-hamburg-langenhorn-radfahrer-nach-zusammenstoss-mit-auto-in-lebensgefahr](https://www.spiegel.de/panorama/unfall-in-hamburg-langenhorn-radfahrer-nach-zusammenstoss-mit-auto-in-lebensgefahr-a-75f847b6-7985-46ad-bf92-858aeb1e942d#ref=rss)
+### zusammenstoß
+
+* [https://www.spiegel.de/panorama/unfall-in-hamburg-langenhorn-radfahrer-nach-zusammenstoss-mit-auto-in-lebensgefahr](https://www.spiegel.de/panorama/unfall-in-hamburg-langenhorn-radfahrer-nach-zusammenstoss-mit-auto-in-lebensgefahr-a-75f847b6-7985-46ad-bf92-858aeb1e942d#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/panorama/unfall-in-hamburg-langenhorn-radfahrer-nach-zusammenstoss-mit-auto-in-lebensgefahr](https://www.spiegel.de/panorama/unfall-in-hamburg-langenhorn-radfahrer-nach-zusammenstoss-mit-auto-in-lebensgefahr-a-75f847b6-7985-46ad-bf92-858aeb1e942d#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-hamburgs-teuerstes-klo-wird-zugeschuettet-rund-zwei-millionen-euro-sanierung](https://www.spiegel.de/panorama/hamburg-hamburgs-teuerstes-klo-wird-zugeschuettet-rund-zwei-millionen-euro-sanierung-a-a8d1ad03-6751-414e-9cab-7b1ba2563564#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/panorama/unfall-in-hamburg-langenhorn-radfahrer-nach-zusammenstoss-mit-auto-in-lebensgefahr](https://www.spiegel.de/panorama/unfall-in-hamburg-langenhorn-radfahrer-nach-zusammenstoss-mit-auto-in-lebensgefahr-a-75f847b6-7985-46ad-bf92-858aeb1e942d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/tauberbischofsheim-polizei-erschiesst-mann-nach-zerstoerungsfahrt-mit-bagger-verfahren-eingestellt](https://www.spiegel.de/panorama/justiz/tauberbischofsheim-polizei-erschiesst-mann-nach-zerstoerungsfahrt-mit-bagger-verfahren-eingestellt-a-cc018455-8717-4d41-a6dd-8e0cda579b86#ref=rss)
+### bagger
+
+* [https://www.spiegel.de/panorama/justiz/tauberbischofsheim-polizei-erschiesst-mann-nach-zerstoerungsfahrt-mit-bagger-verfahren-eingestellt](https://www.spiegel.de/panorama/justiz/tauberbischofsheim-polizei-erschiesst-mann-nach-zerstoerungsfahrt-mit-bagger-verfahren-eingestellt-a-cc018455-8717-4d41-a6dd-8e0cda579b86#ref=rss)
+### haft
+
+* [https://www.spiegel.de/panorama/justiz/bamberg-mordprozess-ohne-leiche-mann-zu-zwoelf-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bamberg-mordprozess-ohne-leiche-mann-zu-zwoelf-jahren-haft-verurteilt-a-30764832-2612-43af-a4b9-511f6b4e3c81#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/bamberg-mordprozess-ohne-leiche-mann-zu-zwoelf-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bamberg-mordprozess-ohne-leiche-mann-zu-zwoelf-jahren-haft-verurteilt-a-30764832-2612-43af-a4b9-511f6b4e3c81#ref=rss)
+* [https://www.spiegel.de/panorama/sigfrido-ranucci-italien-sprengstoffanschlag-auf-auto-von-investigativjournalist](https://www.spiegel.de/panorama/sigfrido-ranucci-italien-sprengstoffanschlag-auf-auto-von-investigativjournalist-a-57e8d704-4fba-4be2-a140-cb71d9b93afe#ref=rss)
+### leiters
+
+* [https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume](https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume-a-d432a263-8528-4e3b-bc61-ffa3973831d2#ref=rss)
+### volkswagen
+
+* [https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume](https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume-a-d432a263-8528-4e3b-bc61-ffa3973831d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vw-oliver-blume-gibt-chefposten-bei-porsche-auf](https://www.spiegel.de/wirtschaft/vw-oliver-blume-gibt-chefposten-bei-porsche-auf-a-4b540268-eb40-4efc-b411-f2f9241f6fd5#ref=rss)
+### frühere
+
+* [https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume](https://www.spiegel.de/wirtschaft/michael-leiters-wird-porsche-vorstand-ex-mclaren-chef-folgt-oliver-blume-a-d432a263-8528-4e3b-bc61-ffa3973831d2#ref=rss)
+* [https://www.spiegel.de/ausland/japan-ehemaliger-premierminister-tomiichi-murayama-ist-tot](https://www.spiegel.de/ausland/japan-ehemaliger-premierminister-tomiichi-murayama-ist-tot-a-1fc0964b-c0ff-4515-9f9c-95bffb01b8ca#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/unter-csu-innenminister-dobrindt-bka-setzt-auf-gepanzerte-bmw-limousinen](https://www.spiegel.de/panorama/justiz/unter-csu-innenminister-dobrindt-bka-setzt-auf-gepanzerte-bmw-limousinen-a-a5207afd-1055-4d4e-afb6-a61201f10c91#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-die-stunde-der-landroboter-sie-nennen-ihn-jesus-wegen-der-wiedergeburt](https://www.spiegel.de/ausland/ukraine-die-stunde-der-landroboter-sie-nennen-ihn-jesus-wegen-der-wiedergeburt-a-daca58b0-afb3-437d-96de-a2133fa6c0ae#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-und-gaza-donald-trumps-nahost-erfolg-als-modell-fuer-umgang-mit-wladimir-putin](https://www.spiegel.de/politik/ukraine-und-gaza-donald-trumps-nahost-erfolg-als-modell-fuer-umgang-mit-wladimir-putin-a-f98fa5ac-f1d8-40f5-9aa1-2ef86488ff39#ref=rss)
+### führerschein
+
+* [https://www.spiegel.de/auto/fuehrerschein-fahrlehrerverband-fuerchtet-nach-reformvorschlaegen-um-verkehrssicherheit](https://www.spiegel.de/auto/fuehrerschein-fahrlehrerverband-fuerchtet-nach-reformvorschlaegen-um-verkehrssicherheit-a-108a701d-1471-41f1-9d82-0ab33cd32f52#ref=rss)
+### rente
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-baerbel-bas-will-beamte-in-rentenversicherung-einbeziehen-wie-sinnvoll-ist-das](https://www.spiegel.de/wirtschaft/soziales/rente-baerbel-bas-will-beamte-in-rentenversicherung-einbeziehen-wie-sinnvoll-ist-das-a-87fc566b-6c67-4fcc-a0f0-d81c58bb78b3#ref=rss)
+### philipp
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-baerbel-bas-will-beamte-in-rentenversicherung-einbeziehen-wie-sinnvoll-ist-das](https://www.spiegel.de/wirtschaft/soziales/rente-baerbel-bas-will-beamte-in-rentenversicherung-einbeziehen-wie-sinnvoll-ist-das-a-87fc566b-6c67-4fcc-a0f0-d81c58bb78b3#ref=rss)
+### türmer
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-baerbel-bas-will-beamte-in-rentenversicherung-einbeziehen-wie-sinnvoll-ist-das](https://www.spiegel.de/wirtschaft/soziales/rente-baerbel-bas-will-beamte-in-rentenversicherung-einbeziehen-wie-sinnvoll-ist-das-a-87fc566b-6c67-4fcc-a0f0-d81c58bb78b3#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-baerbel-bas-will-beamte-in-rentenversicherung-einbeziehen-wie-sinnvoll-ist-das](https://www.spiegel.de/wirtschaft/soziales/rente-baerbel-bas-will-beamte-in-rentenversicherung-einbeziehen-wie-sinnvoll-ist-das-a-87fc566b-6c67-4fcc-a0f0-d81c58bb78b3#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-hamburgs-teuerstes-klo-wird-zugeschuettet-rund-zwei-millionen-euro-sanierung](https://www.spiegel.de/panorama/hamburg-hamburgs-teuerstes-klo-wird-zugeschuettet-rund-zwei-millionen-euro-sanierung-a-a8d1ad03-6751-414e-9cab-7b1ba2563564#ref=rss)
+### freddy
+
+* [https://www.spiegel.de/kultur/kino/freddy-krueger-horror-star-bekommt-stern-auf-dem-walk-of-fame](https://www.spiegel.de/kultur/kino/freddy-krueger-horror-star-bekommt-stern-auf-dem-walk-of-fame-a-919bbd56-120b-4485-8fcb-0602db125a51#ref=rss)
+### krueger
+
+* [https://www.spiegel.de/kultur/kino/freddy-krueger-horror-star-bekommt-stern-auf-dem-walk-of-fame](https://www.spiegel.de/kultur/kino/freddy-krueger-horror-star-bekommt-stern-auf-dem-walk-of-fame-a-919bbd56-120b-4485-8fcb-0602db125a51#ref=rss)
+### stern
+
+* [https://www.spiegel.de/kultur/kino/freddy-krueger-horror-star-bekommt-stern-auf-dem-walk-of-fame](https://www.spiegel.de/kultur/kino/freddy-krueger-horror-star-bekommt-stern-auf-dem-walk-of-fame-a-919bbd56-120b-4485-8fcb-0602db125a51#ref=rss)
+### walk
+
+* [https://www.spiegel.de/kultur/kino/freddy-krueger-horror-star-bekommt-stern-auf-dem-walk-of-fame](https://www.spiegel.de/kultur/kino/freddy-krueger-horror-star-bekommt-stern-auf-dem-walk-of-fame-a-919bbd56-120b-4485-8fcb-0602db125a51#ref=rss)
+### of
+
+* [https://www.spiegel.de/kultur/kino/freddy-krueger-horror-star-bekommt-stern-auf-dem-walk-of-fame](https://www.spiegel.de/kultur/kino/freddy-krueger-horror-star-bekommt-stern-auf-dem-walk-of-fame-a-919bbd56-120b-4485-8fcb-0602db125a51#ref=rss)
+### fame
+
+* [https://www.spiegel.de/kultur/kino/freddy-krueger-horror-star-bekommt-stern-auf-dem-walk-of-fame](https://www.spiegel.de/kultur/kino/freddy-krueger-horror-star-bekommt-stern-auf-dem-walk-of-fame-a-919bbd56-120b-4485-8fcb-0602db125a51#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/kultur/kino/freddy-krueger-horror-star-bekommt-stern-auf-dem-walk-of-fame](https://www.spiegel.de/kultur/kino/freddy-krueger-horror-star-bekommt-stern-auf-dem-walk-of-fame-a-919bbd56-120b-4485-8fcb-0602db125a51#ref=rss)
+* [https://www.spiegel.de/ausland/japan-ehemaliger-premierminister-tomiichi-murayama-ist-tot](https://www.spiegel.de/ausland/japan-ehemaliger-premierminister-tomiichi-murayama-ist-tot-a-1fc0964b-c0ff-4515-9f9c-95bffb01b8ca#ref=rss)
+### diego
+
+* [https://www.spiegel.de/sport/fussball/diego-maradona-strassenhaender-in-neapel-verhuellen-wandbild-aus-protest-gegen-polizei](https://www.spiegel.de/sport/fussball/diego-maradona-strassenhaender-in-neapel-verhuellen-wandbild-aus-protest-gegen-polizei-a-1bc7398a-eaf3-4b88-9691-aef12cd2bb4a#ref=rss)
+### wandbild
+
+* [https://www.spiegel.de/sport/fussball/diego-maradona-strassenhaender-in-neapel-verhuellen-wandbild-aus-protest-gegen-polizei](https://www.spiegel.de/sport/fussball/diego-maradona-strassenhaender-in-neapel-verhuellen-wandbild-aus-protest-gegen-polizei-a-1bc7398a-eaf3-4b88-9691-aef12cd2bb4a#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-schuld-am-vermeintlich-problematischen-stadtbild-ist-die-regierung-selbst](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-schuld-am-vermeintlich-problematischen-stadtbild-ist-die-regierung-selbst-a-3de7bb9a-5b57-414c-96e7-00754ec644b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/merck-beugt-sich-dem-druck-der-regierung-von-donald-trump](https://www.spiegel.de/wirtschaft/merck-beugt-sich-dem-druck-der-regierung-von-donald-trump-a-d10d6ce7-b645-413e-aebb-13a23c52f982#ref=rss)
+### sigfrido
+
+* [https://www.spiegel.de/panorama/sigfrido-ranucci-italien-sprengstoffanschlag-auf-auto-von-investigativjournalist](https://www.spiegel.de/panorama/sigfrido-ranucci-italien-sprengstoffanschlag-auf-auto-von-investigativjournalist-a-57e8d704-4fba-4be2-a140-cb71d9b93afe#ref=rss)
+### ranucci
+
+* [https://www.spiegel.de/panorama/sigfrido-ranucci-italien-sprengstoffanschlag-auf-auto-von-investigativjournalist](https://www.spiegel.de/panorama/sigfrido-ranucci-italien-sprengstoffanschlag-auf-auto-von-investigativjournalist-a-57e8d704-4fba-4be2-a140-cb71d9b93afe#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/deutsche-post-lars-klingbeil-bremst-private-briefzusteller-zugunsten-des-marktfuehrers](https://www.spiegel.de/wirtschaft/deutsche-post-lars-klingbeil-bremst-private-briefzusteller-zugunsten-des-marktfuehrers-a-16e47b51-4c16-465a-928b-1ab2a6ff16b8#ref=rss)
+### post
+
+* [https://www.spiegel.de/wirtschaft/deutsche-post-lars-klingbeil-bremst-private-briefzusteller-zugunsten-des-marktfuehrers](https://www.spiegel.de/wirtschaft/deutsche-post-lars-klingbeil-bremst-private-briefzusteller-zugunsten-des-marktfuehrers-a-16e47b51-4c16-465a-928b-1ab2a6ff16b8#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/wirtschaft/deutsche-post-lars-klingbeil-bremst-private-briefzusteller-zugunsten-des-marktfuehrers](https://www.spiegel.de/wirtschaft/deutsche-post-lars-klingbeil-bremst-private-briefzusteller-zugunsten-des-marktfuehrers-a-16e47b51-4c16-465a-928b-1ab2a6ff16b8#ref=rss)
+### bremst
+
+* [https://www.spiegel.de/wirtschaft/deutsche-post-lars-klingbeil-bremst-private-briefzusteller-zugunsten-des-marktfuehrers](https://www.spiegel.de/wirtschaft/deutsche-post-lars-klingbeil-bremst-private-briefzusteller-zugunsten-des-marktfuehrers-a-16e47b51-4c16-465a-928b-1ab2a6ff16b8#ref=rss)
+### private
+
+* [https://www.spiegel.de/wirtschaft/deutsche-post-lars-klingbeil-bremst-private-briefzusteller-zugunsten-des-marktfuehrers](https://www.spiegel.de/wirtschaft/deutsche-post-lars-klingbeil-bremst-private-briefzusteller-zugunsten-des-marktfuehrers-a-16e47b51-4c16-465a-928b-1ab2a6ff16b8#ref=rss)
+### briefzusteller
+
+* [https://www.spiegel.de/wirtschaft/deutsche-post-lars-klingbeil-bremst-private-briefzusteller-zugunsten-des-marktfuehrers](https://www.spiegel.de/wirtschaft/deutsche-post-lars-klingbeil-bremst-private-briefzusteller-zugunsten-des-marktfuehrers-a-16e47b51-4c16-465a-928b-1ab2a6ff16b8#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/immobilien-zahl-der-baugenehmigungen-steigt-aufwaertstrend-bei-eigenheimen](https://www.spiegel.de/wirtschaft/immobilien-zahl-der-baugenehmigungen-steigt-aufwaertstrend-bei-eigenheimen-a-840fa9d6-67f1-4972-aa33-0846522fd391#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-und-gaza-donald-trumps-nahost-erfolg-als-modell-fuer-umgang-mit-wladimir-putin](https://www.spiegel.de/politik/ukraine-und-gaza-donald-trumps-nahost-erfolg-als-modell-fuer-umgang-mit-wladimir-putin-a-f98fa5ac-f1d8-40f5-9aa1-2ef86488ff39#ref=rss)
+### allem
+
+* [https://www.spiegel.de/wirtschaft/immobilien-zahl-der-baugenehmigungen-steigt-aufwaertstrend-bei-eigenheimen](https://www.spiegel.de/wirtschaft/immobilien-zahl-der-baugenehmigungen-steigt-aufwaertstrend-bei-eigenheimen-a-840fa9d6-67f1-4972-aa33-0846522fd391#ref=rss)
+* [https://www.spiegel.de/ausland/japan-ehemaliger-premierminister-tomiichi-murayama-ist-tot](https://www.spiegel.de/ausland/japan-ehemaliger-premierminister-tomiichi-murayama-ist-tot-a-1fc0964b-c0ff-4515-9f9c-95bffb01b8ca#ref=rss)
+### tomiichi
+
+* [https://www.spiegel.de/ausland/japan-ehemaliger-premierminister-tomiichi-murayama-ist-tot](https://www.spiegel.de/ausland/japan-ehemaliger-premierminister-tomiichi-murayama-ist-tot-a-1fc0964b-c0ff-4515-9f9c-95bffb01b8ca#ref=rss)
+### murayama
+
+* [https://www.spiegel.de/ausland/japan-ehemaliger-premierminister-tomiichi-murayama-ist-tot](https://www.spiegel.de/ausland/japan-ehemaliger-premierminister-tomiichi-murayama-ist-tot-a-1fc0964b-c0ff-4515-9f9c-95bffb01b8ca#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/politik/ukraine-und-gaza-donald-trumps-nahost-erfolg-als-modell-fuer-umgang-mit-wladimir-putin](https://www.spiegel.de/politik/ukraine-und-gaza-donald-trumps-nahost-erfolg-als-modell-fuer-umgang-mit-wladimir-putin-a-f98fa5ac-f1d8-40f5-9aa1-2ef86488ff39#ref=rss)
+### putin
+
+* [https://www.spiegel.de/politik/ukraine-und-gaza-donald-trumps-nahost-erfolg-als-modell-fuer-umgang-mit-wladimir-putin](https://www.spiegel.de/politik/ukraine-und-gaza-donald-trumps-nahost-erfolg-als-modell-fuer-umgang-mit-wladimir-putin-a-f98fa5ac-f1d8-40f5-9aa1-2ef86488ff39#ref=rss)
+### vorgehen
+
+* [https://www.spiegel.de/politik/ukraine-und-gaza-donald-trumps-nahost-erfolg-als-modell-fuer-umgang-mit-wladimir-putin](https://www.spiegel.de/politik/ukraine-und-gaza-donald-trumps-nahost-erfolg-als-modell-fuer-umgang-mit-wladimir-putin-a-f98fa5ac-f1d8-40f5-9aa1-2ef86488ff39#ref=rss)
+* [https://www.spiegel.de/sport/fussball/europa-league-maccabi-tel-aviv-darf-keine-fans-zu-aston-villa-mitbringen-sorge-vor-anti-israel-protesten](https://www.spiegel.de/sport/fussball/europa-league-maccabi-tel-aviv-darf-keine-fans-zu-aston-villa-mitbringen-sorge-vor-anti-israel-protesten-a-d91a2d6d-d05a-4266-9d95-4773e3871a5b#ref=rss)
+### güstrow
+
+* [https://www.spiegel.de/panorama/justiz/guestrow-gefundene-kinderleiche-ist-der-vermisste-fabian](https://www.spiegel.de/panorama/justiz/guestrow-gefundene-kinderleiche-ist-der-vermisste-fabian-a-379e369b-0f18-4b77-9e29-5c5830f9284f#ref=rss)
+### kinderleiche
+
+* [https://www.spiegel.de/panorama/justiz/guestrow-gefundene-kinderleiche-ist-der-vermisste-fabian](https://www.spiegel.de/panorama/justiz/guestrow-gefundene-kinderleiche-ist-der-vermisste-fabian-a-379e369b-0f18-4b77-9e29-5c5830f9284f#ref=rss)
+### vermisste
+
+* [https://www.spiegel.de/panorama/justiz/guestrow-gefundene-kinderleiche-ist-der-vermisste-fabian](https://www.spiegel.de/panorama/justiz/guestrow-gefundene-kinderleiche-ist-der-vermisste-fabian-a-379e369b-0f18-4b77-9e29-5c5830f9284f#ref=rss)
+### fabian
+
+* [https://www.spiegel.de/panorama/justiz/guestrow-gefundene-kinderleiche-ist-der-vermisste-fabian](https://www.spiegel.de/panorama/justiz/guestrow-gefundene-kinderleiche-ist-der-vermisste-fabian-a-379e369b-0f18-4b77-9e29-5c5830f9284f#ref=rss)
+### merck
+
+* [https://www.spiegel.de/wirtschaft/merck-beugt-sich-dem-druck-der-regierung-von-donald-trump](https://www.spiegel.de/wirtschaft/merck-beugt-sich-dem-druck-der-regierung-von-donald-trump-a-d10d6ce7-b645-413e-aebb-13a23c52f982#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wirtschaft/merck-beugt-sich-dem-druck-der-regierung-von-donald-trump](https://www.spiegel.de/wirtschaft/merck-beugt-sich-dem-druck-der-regierung-von-donald-trump-a-d10d6ce7-b645-413e-aebb-13a23c52f982#ref=rss)
+### jan
+
+* [https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock](https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock-a-c54af968-61dc-4fb4-8201-2583821f86c2#ref=rss)
+### marsalek
+
+* [https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock](https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock-a-c54af968-61dc-4fb4-8201-2583821f86c2#ref=rss)
+### hans
+
+* [https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock](https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock-a-c54af968-61dc-4fb4-8201-2583821f86c2#ref=rss)
+### maršálek
+
+* [https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock](https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock-a-c54af968-61dc-4fb4-8201-2583821f86c2#ref=rss)
+### spionierte
+
+* [https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock](https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock-a-c54af968-61dc-4fb4-8201-2583821f86c2#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock](https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock-a-c54af968-61dc-4fb4-8201-2583821f86c2#ref=rss)
+### kalten
+
+* [https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock](https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock-a-c54af968-61dc-4fb4-8201-2583821f86c2#ref=rss)
+### ostblock
+
+* [https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock](https://www.spiegel.de/ausland/jan-marsalek-grossvater-hans-marsalek-spionierte-offenbar-im-kalten-krieg-fuer-den-ostblock-a-c54af968-61dc-4fb4-8201-2583821f86c2#ref=rss)
+### tel
+
+* [https://www.spiegel.de/sport/fussball/europa-league-maccabi-tel-aviv-darf-keine-fans-zu-aston-villa-mitbringen-sorge-vor-anti-israel-protesten](https://www.spiegel.de/sport/fussball/europa-league-maccabi-tel-aviv-darf-keine-fans-zu-aston-villa-mitbringen-sorge-vor-anti-israel-protesten-a-d91a2d6d-d05a-4266-9d95-4773e3871a5b#ref=rss)
+### aviv
+
+* [https://www.spiegel.de/sport/fussball/europa-league-maccabi-tel-aviv-darf-keine-fans-zu-aston-villa-mitbringen-sorge-vor-anti-israel-protesten](https://www.spiegel.de/sport/fussball/europa-league-maccabi-tel-aviv-darf-keine-fans-zu-aston-villa-mitbringen-sorge-vor-anti-israel-protesten-a-d91a2d6d-d05a-4266-9d95-4773e3871a5b#ref=rss)
+### gepanzerte
+
+* [https://www.spiegel.de/panorama/justiz/unter-csu-innenminister-dobrindt-bka-setzt-auf-gepanzerte-bmw-limousinen](https://www.spiegel.de/panorama/justiz/unter-csu-innenminister-dobrindt-bka-setzt-auf-gepanzerte-bmw-limousinen-a-a5207afd-1055-4d4e-afb6-a61201f10c91#ref=rss)
+### salesforce
+
+* [https://www.spiegel.de/netzwelt/salesforce-und-ki-training-autorinnen-verklagen-softwarehaus-wegen-urheberrechtsverletzung](https://www.spiegel.de/netzwelt/salesforce-und-ki-training-autorinnen-verklagen-softwarehaus-wegen-urheberrechtsverletzung-a-43102cbb-179a-4cb2-b22b-344e21935c04#ref=rss)
+### autorinnen
+
+* [https://www.spiegel.de/netzwelt/salesforce-und-ki-training-autorinnen-verklagen-softwarehaus-wegen-urheberrechtsverletzung](https://www.spiegel.de/netzwelt/salesforce-und-ki-training-autorinnen-verklagen-softwarehaus-wegen-urheberrechtsverletzung-a-43102cbb-179a-4cb2-b22b-344e21935c04#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/hamburg-hamburgs-teuerstes-klo-wird-zugeschuettet-rund-zwei-millionen-euro-sanierung](https://www.spiegel.de/panorama/hamburg-hamburgs-teuerstes-klo-wird-zugeschuettet-rund-zwei-millionen-euro-sanierung-a-a8d1ad03-6751-414e-9cab-7b1ba2563564#ref=rss)
 
