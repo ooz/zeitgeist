@@ -4,366 +4,346 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### russland
+### usa
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-druck-auf-ukrainer-zur-staatsbuergerschaftsaenderung-in-russland](https://www.spiegel.de/ausland/ukraine-krieg-druck-auf-ukrainer-zur-staatsbuergerschaftsaenderung-in-russland-a-cdd96aac-1bda-4d16-81cd-9f54b32f1eb1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas](https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas-a-69ca6253-79bb-4eb0-b4f6-4a14bebef71b#ref=rss)
-* [https://www.spiegel.de/politik/russland-schattenflotte-beunruhigt-eu](https://www.spiegel.de/politik/russland-schattenflotte-beunruhigt-eu-a-53a40fee-6fed-48ab-bdcb-62a0655aaee9#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/bildung/erasmus-programm-wie-begruenderin-sofia-corradi-europas-bildung-revolutionierte](https://www.spiegel.de/panorama/bildung/erasmus-programm-wie-begruenderin-sofia-corradi-europas-bildung-revolutionierte-a-1a72f2e5-f5ca-45e2-b236-b2772257b34d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kfz-versicherung-hannover-rueck-rechnet-mit-steigenden-preisen-bei-autoversicherern](https://www.spiegel.de/wirtschaft/service/kfz-versicherung-hannover-rueck-rechnet-mit-steigenden-preisen-bei-autoversicherern-a-d0146018-e2c8-405e-bd9a-18ab038620d7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas](https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas-a-69ca6253-79bb-4eb0-b4f6-4a14bebef71b#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-im-job-es-riecht-ein-wenig-nach-angstmache](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-im-job-es-riecht-ein-wenig-nach-angstmache-a-347a352b-6c53-413a-8ace-7cadb345301a#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen](https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen-a-96507ac9-0661-4f35-b2b8-b08ee98e8f54#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kfz-versicherung-hannover-rueck-rechnet-mit-steigenden-preisen-bei-autoversicherern](https://www.spiegel.de/wirtschaft/service/kfz-versicherung-hannover-rueck-rechnet-mit-steigenden-preisen-bei-autoversicherern-a-d0146018-e2c8-405e-bd9a-18ab038620d7#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen](https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen-a-96507ac9-0661-4f35-b2b8-b08ee98e8f54#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-druck-auf-ukrainer-zur-staatsbuergerschaftsaenderung-in-russland](https://www.spiegel.de/ausland/ukraine-krieg-druck-auf-ukrainer-zur-staatsbuergerschaftsaenderung-in-russland-a-cdd96aac-1bda-4d16-81cd-9f54b32f1eb1#ref=rss)
-* [https://www.spiegel.de/geschichte/psychiatrie-im-nationalsozialismus-das-todesschloss](https://www.spiegel.de/geschichte/psychiatrie-im-nationalsozialismus-das-todesschloss-a-c70293ff-e00c-4e47-9074-497a4b311fe8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/tel-aviv-stadtderby-zwischen-hapoel-und-maccabi-nach-gewaltausbruechen-abgesagt](https://www.spiegel.de/sport/fussball/tel-aviv-stadtderby-zwischen-hapoel-und-maccabi-nach-gewaltausbruechen-abgesagt-a-fe476f6a-9400-418a-8707-2663e3f1ee73#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/cdu-friedrich-merz-bezeichnet-afd-als-hauptgegner-bei-den-kommenden-landtagswahlen](https://www.spiegel.de/politik/cdu-friedrich-merz-bezeichnet-afd-als-hauptgegner-bei-den-kommenden-landtagswahlen-a-560e5423-17c7-4303-a6ce-0f4023843676#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream-a-d41bcc49-a93c-49dd-ab3e-d7c6c4e1a345#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/cdu-friedrich-merz-bezeichnet-afd-als-hauptgegner-bei-den-kommenden-landtagswahlen](https://www.spiegel.de/politik/cdu-friedrich-merz-bezeichnet-afd-als-hauptgegner-bei-den-kommenden-landtagswahlen-a-560e5423-17c7-4303-a6ce-0f4023843676#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream-a-d41bcc49-a93c-49dd-ab3e-d7c6c4e1a345#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/cdu-friedrich-merz-bezeichnet-afd-als-hauptgegner-bei-den-kommenden-landtagswahlen](https://www.spiegel.de/politik/cdu-friedrich-merz-bezeichnet-afd-als-hauptgegner-bei-den-kommenden-landtagswahlen-a-560e5423-17c7-4303-a6ce-0f4023843676#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream-a-d41bcc49-a93c-49dd-ab3e-d7c6c4e1a345#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/netzwelt/apps/probleme-bei-signal-snapchat-roblox-stoerung-bei-amazons-cloudspeicher-sorgt-offenbar-fuer-weitreichende-netzausfaelle](https://www.spiegel.de/netzwelt/apps/probleme-bei-signal-snapchat-roblox-stoerung-bei-amazons-cloudspeicher-sorgt-offenbar-fuer-weitreichende-netzausfaelle-a-74922df9-bc67-400f-a405-a5dd605828ac#ref=rss)
-* [https://www.spiegel.de/sport/fussball/tel-aviv-stadtderby-zwischen-hapoel-und-maccabi-nach-gewaltausbruechen-abgesagt](https://www.spiegel.de/sport/fussball/tel-aviv-stadtderby-zwischen-hapoel-und-maccabi-nach-gewaltausbruechen-abgesagt-a-fe476f6a-9400-418a-8707-2663e3f1ee73#ref=rss)
-### europa
-
-* [https://www.spiegel.de/netzwelt/apps/probleme-bei-signal-snapchat-roblox-stoerung-bei-amazons-cloudspeicher-sorgt-offenbar-fuer-weitreichende-netzausfaelle](https://www.spiegel.de/netzwelt/apps/probleme-bei-signal-snapchat-roblox-stoerung-bei-amazons-cloudspeicher-sorgt-offenbar-fuer-weitreichende-netzausfaelle-a-74922df9-bc67-400f-a405-a5dd605828ac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas](https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas-a-69ca6253-79bb-4eb0-b4f6-4a14bebef71b#ref=rss)
-* [https://www.spiegel.de/politik/russland-schattenflotte-beunruhigt-eu](https://www.spiegel.de/politik/russland-schattenflotte-beunruhigt-eu-a-53a40fee-6fed-48ab-bdcb-62a0655aaee9#ref=rss)
-### lang
-
-* [https://www.spiegel.de/panorama/gesellschaft/polin-soll-27-jahre-lang-ihre-wohnung-nicht-verlassen-haben-ermittlungen](https://www.spiegel.de/panorama/gesellschaft/polin-soll-27-jahre-lang-ihre-wohnung-nicht-verlassen-haben-ermittlungen-a-aa208d12-7c7e-418b-abfa-ce41bcc604b0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream-a-d41bcc49-a93c-49dd-ab3e-d7c6c4e1a345#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/panorama/gesellschaft/polin-soll-27-jahre-lang-ihre-wohnung-nicht-verlassen-haben-ermittlungen](https://www.spiegel.de/panorama/gesellschaft/polin-soll-27-jahre-lang-ihre-wohnung-nicht-verlassen-haben-ermittlungen-a-aa208d12-7c7e-418b-abfa-ce41bcc604b0#ref=rss)
-* [https://www.spiegel.de/ausland/iran-sittenwaechter-kritik-an-ali-shamkhani-wegen-freizuegigem-hochzeitskleid-seiner-tochter](https://www.spiegel.de/ausland/iran-sittenwaechter-kritik-an-ali-shamkhani-wegen-freizuegigem-hochzeitskleid-seiner-tochter-a-531a80c5-3004-47b2-8830-34466010b173#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen](https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen-a-96507ac9-0661-4f35-b2b8-b08ee98e8f54#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimawandel-meeresspiegel-steigt-staerker-als-in-den-vergangenen-4000-jahren](https://www.spiegel.de/wissenschaft/klimawandel-meeresspiegel-steigt-staerker-als-in-den-vergangenen-4000-jahren-a-c7c4a948-efe7-44ec-a12a-14fb35a0dfc5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/loreal-kauft-kosmetikgeschaeft-von-luxuskonzern-kering-mit-parfuemmarke-creed](https://www.spiegel.de/wirtschaft/unternehmen/loreal-kauft-kosmetikgeschaeft-von-luxuskonzern-kering-mit-parfuemmarke-creed-a-c3541471-82ce-4a89-946a-2e28dea0cd12#ref=rss)
-### meer
-
-* [https://www.spiegel.de/panorama/hongkong-boeing-747-kollidiert-mit-fahrzeug-und-zerbricht-im-meer](https://www.spiegel.de/panorama/hongkong-boeing-747-kollidiert-mit-fahrzeug-und-zerbricht-im-meer-a-fc6abc44-b01a-49dc-8171-4a6c74d4b27c#ref=rss)
-### gas
-
-* [https://www.spiegel.de/wirtschaft/russisches-gas-mehrheit-der-eu-laender-stimmt-fuer-importverbot-ab-dem-jahr-2028](https://www.spiegel.de/wirtschaft/russisches-gas-mehrheit-der-eu-laender-stimmt-fuer-importverbot-ab-dem-jahr-2028-a-ed31471f-43e5-438d-a65e-1fa49d604b35#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas](https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas-a-69ca6253-79bb-4eb0-b4f6-4a14bebef71b#ref=rss)
-### importverbot
-
-* [https://www.spiegel.de/wirtschaft/russisches-gas-mehrheit-der-eu-laender-stimmt-fuer-importverbot-ab-dem-jahr-2028](https://www.spiegel.de/wirtschaft/russisches-gas-mehrheit-der-eu-laender-stimmt-fuer-importverbot-ab-dem-jahr-2028-a-ed31471f-43e5-438d-a65e-1fa49d604b35#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas](https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas-a-69ca6253-79bb-4eb0-b4f6-4a14bebef71b#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wirtschaft/russisches-gas-mehrheit-der-eu-laender-stimmt-fuer-importverbot-ab-dem-jahr-2028](https://www.spiegel.de/wirtschaft/russisches-gas-mehrheit-der-eu-laender-stimmt-fuer-importverbot-ab-dem-jahr-2028-a-ed31471f-43e5-438d-a65e-1fa49d604b35#ref=rss)
-* [https://www.spiegel.de/politik/russland-schattenflotte-beunruhigt-eu](https://www.spiegel.de/politik/russland-schattenflotte-beunruhigt-eu-a-53a40fee-6fed-48ab-bdcb-62a0655aaee9#ref=rss)
-### louvre
-
-* [https://www.spiegel.de/panorama/justiz/louvre-das-sind-die-gestohlenen-schmuckstuecke](https://www.spiegel.de/panorama/justiz/louvre-das-sind-die-gestohlenen-schmuckstuecke-a-d6468fb5-3aee-4e80-9c69-2e0ec43e7236#ref=rss)
-* [https://www.spiegel.de/ausland/louvre-nach-dem-diebstahl-setzt-in-frankreich-die-politische-instrumentalisierung-der-tat-ein](https://www.spiegel.de/ausland/louvre-nach-dem-diebstahl-setzt-in-frankreich-die-politische-instrumentalisierung-der-tat-ein-a-178c03e6-071b-4920-833b-23f6861d97e9#ref=rss)
-### schmuckstücke
-
-* [https://www.spiegel.de/panorama/justiz/louvre-das-sind-die-gestohlenen-schmuckstuecke](https://www.spiegel.de/panorama/justiz/louvre-das-sind-die-gestohlenen-schmuckstuecke-a-d6468fb5-3aee-4e80-9c69-2e0ec43e7236#ref=rss)
-* [https://www.spiegel.de/ausland/louvre-nach-dem-diebstahl-setzt-in-frankreich-die-politische-instrumentalisierung-der-tat-ein](https://www.spiegel.de/ausland/louvre-nach-dem-diebstahl-setzt-in-frankreich-die-politische-instrumentalisierung-der-tat-ein-a-178c03e6-071b-4920-833b-23f6861d97e9#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-tochter-tkms-marinewerft-startet-erfolgreich-an-der-boerse](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-tochter-tkms-marinewerft-startet-erfolgreich-an-der-boerse-a-1155c5c3-c7a1-473b-970a-eb5385424c7b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas](https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas-a-69ca6253-79bb-4eb0-b4f6-4a14bebef71b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/loreal-kauft-kosmetikgeschaeft-von-luxuskonzern-kering-mit-parfuemmarke-creed](https://www.spiegel.de/wirtschaft/unternehmen/loreal-kauft-kosmetikgeschaeft-von-luxuskonzern-kering-mit-parfuemmarke-creed-a-c3541471-82ce-4a89-946a-2e28dea0cd12#ref=rss)
-### sofia
-
-* [https://www.spiegel.de/panorama/bildung/erasmus-programm-wie-begruenderin-sofia-corradi-europas-bildung-revolutionierte](https://www.spiegel.de/panorama/bildung/erasmus-programm-wie-begruenderin-sofia-corradi-europas-bildung-revolutionierte-a-1a72f2e5-f5ca-45e2-b236-b2772257b34d#ref=rss)
-### corradi
-
-* [https://www.spiegel.de/panorama/bildung/erasmus-programm-wie-begruenderin-sofia-corradi-europas-bildung-revolutionierte](https://www.spiegel.de/panorama/bildung/erasmus-programm-wie-begruenderin-sofia-corradi-europas-bildung-revolutionierte-a-1a72f2e5-f5ca-45e2-b236-b2772257b34d#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/bildung/erasmus-programm-wie-begruenderin-sofia-corradi-europas-bildung-revolutionierte](https://www.spiegel.de/panorama/bildung/erasmus-programm-wie-begruenderin-sofia-corradi-europas-bildung-revolutionierte-a-1a72f2e5-f5ca-45e2-b236-b2772257b34d#ref=rss)
-* [https://www.spiegel.de/panorama/hongkong-boeing-747-kollidiert-mit-fahrzeug-und-zerbricht-im-meer](https://www.spiegel.de/panorama/hongkong-boeing-747-kollidiert-mit-fahrzeug-und-zerbricht-im-meer-a-fc6abc44-b01a-49dc-8171-4a6c74d4b27c#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/panorama/bildung/erasmus-programm-wie-begruenderin-sofia-corradi-europas-bildung-revolutionierte](https://www.spiegel.de/panorama/bildung/erasmus-programm-wie-begruenderin-sofia-corradi-europas-bildung-revolutionierte-a-1a72f2e5-f5ca-45e2-b236-b2772257b34d#ref=rss)
-* [https://www.spiegel.de/politik/russland-schattenflotte-beunruhigt-eu](https://www.spiegel.de/politik/russland-schattenflotte-beunruhigt-eu-a-53a40fee-6fed-48ab-bdcb-62a0655aaee9#ref=rss)
-### unser
-
-* [https://www.spiegel.de/reise/staedte/zuerich-tipps-unser-autor-gibt-zehn-insider-empfehlungen-fuer-die-stadt-und-umgebung](https://www.spiegel.de/reise/staedte/zuerich-tipps-unser-autor-gibt-zehn-insider-empfehlungen-fuer-die-stadt-und-umgebung-a-4a7c40de-0833-457a-a806-0feb7a073991#ref=rss)
-### autor
-
-* [https://www.spiegel.de/reise/staedte/zuerich-tipps-unser-autor-gibt-zehn-insider-empfehlungen-fuer-die-stadt-und-umgebung](https://www.spiegel.de/reise/staedte/zuerich-tipps-unser-autor-gibt-zehn-insider-empfehlungen-fuer-die-stadt-und-umgebung-a-4a7c40de-0833-457a-a806-0feb7a073991#ref=rss)
-### bewohner
-
-* [https://www.spiegel.de/reise/staedte/zuerich-tipps-unser-autor-gibt-zehn-insider-empfehlungen-fuer-die-stadt-und-umgebung](https://www.spiegel.de/reise/staedte/zuerich-tipps-unser-autor-gibt-zehn-insider-empfehlungen-fuer-die-stadt-und-umgebung-a-4a7c40de-0833-457a-a806-0feb7a073991#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-proteste-gegen-raeumung-von-besetzten-haeusern-in-mitte](https://www.spiegel.de/panorama/berlin-proteste-gegen-raeumung-von-besetzten-haeusern-in-mitte-a-65fe0bac-f1d9-46b8-8ce5-f39cd4869b7a#ref=rss)
-### gelten
-
-* [https://www.spiegel.de/reise/staedte/zuerich-tipps-unser-autor-gibt-zehn-insider-empfehlungen-fuer-die-stadt-und-umgebung](https://www.spiegel.de/reise/staedte/zuerich-tipps-unser-autor-gibt-zehn-insider-empfehlungen-fuer-die-stadt-und-umgebung-a-4a7c40de-0833-457a-a806-0feb7a073991#ref=rss)
-* [https://www.spiegel.de/ausland/iran-sittenwaechter-kritik-an-ali-shamkhani-wegen-freizuegigem-hochzeitskleid-seiner-tochter](https://www.spiegel.de/ausland/iran-sittenwaechter-kritik-an-ali-shamkhani-wegen-freizuegigem-hochzeitskleid-seiner-tochter-a-531a80c5-3004-47b2-8830-34466010b173#ref=rss)
-### unter
-
-* [https://www.spiegel.de/reise/staedte/zuerich-tipps-unser-autor-gibt-zehn-insider-empfehlungen-fuer-die-stadt-und-umgebung](https://www.spiegel.de/reise/staedte/zuerich-tipps-unser-autor-gibt-zehn-insider-empfehlungen-fuer-die-stadt-und-umgebung-a-4a7c40de-0833-457a-a806-0feb7a073991#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/polin-soll-27-jahre-lang-ihre-wohnung-nicht-verlassen-haben-ermittlungen](https://www.spiegel.de/panorama/gesellschaft/polin-soll-27-jahre-lang-ihre-wohnung-nicht-verlassen-haben-ermittlungen-a-aa208d12-7c7e-418b-abfa-ce41bcc604b0#ref=rss)
-### störung
-
-* [https://www.spiegel.de/netzwelt/apps/probleme-bei-signal-snapchat-roblox-stoerung-bei-amazons-cloudspeicher-sorgt-offenbar-fuer-weitreichende-netzausfaelle](https://www.spiegel.de/netzwelt/apps/probleme-bei-signal-snapchat-roblox-stoerung-bei-amazons-cloudspeicher-sorgt-offenbar-fuer-weitreichende-netzausfaelle-a-74922df9-bc67-400f-a405-a5dd605828ac#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/netzwelt/apps/probleme-bei-signal-snapchat-roblox-stoerung-bei-amazons-cloudspeicher-sorgt-offenbar-fuer-weitreichende-netzausfaelle](https://www.spiegel.de/netzwelt/apps/probleme-bei-signal-snapchat-roblox-stoerung-bei-amazons-cloudspeicher-sorgt-offenbar-fuer-weitreichende-netzausfaelle-a-74922df9-bc67-400f-a405-a5dd605828ac#ref=rss)
-* [https://www.spiegel.de/ausland/iran-sittenwaechter-kritik-an-ali-shamkhani-wegen-freizuegigem-hochzeitskleid-seiner-tochter](https://www.spiegel.de/ausland/iran-sittenwaechter-kritik-an-ali-shamkhani-wegen-freizuegigem-hochzeitskleid-seiner-tochter-a-531a80c5-3004-47b2-8830-34466010b173#ref=rss)
-### 27
-
-* [https://www.spiegel.de/panorama/gesellschaft/polin-soll-27-jahre-lang-ihre-wohnung-nicht-verlassen-haben-ermittlungen](https://www.spiegel.de/panorama/gesellschaft/polin-soll-27-jahre-lang-ihre-wohnung-nicht-verlassen-haben-ermittlungen-a-aa208d12-7c7e-418b-abfa-ce41bcc604b0#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/gesellschaft/polin-soll-27-jahre-lang-ihre-wohnung-nicht-verlassen-haben-ermittlungen](https://www.spiegel.de/panorama/gesellschaft/polin-soll-27-jahre-lang-ihre-wohnung-nicht-verlassen-haben-ermittlungen-a-aa208d12-7c7e-418b-abfa-ce41bcc604b0#ref=rss)
-### ermittlungen
-
-* [https://www.spiegel.de/panorama/gesellschaft/polin-soll-27-jahre-lang-ihre-wohnung-nicht-verlassen-haben-ermittlungen](https://www.spiegel.de/panorama/gesellschaft/polin-soll-27-jahre-lang-ihre-wohnung-nicht-verlassen-haben-ermittlungen-a-aa208d12-7c7e-418b-abfa-ce41bcc604b0#ref=rss)
-### niemand
-
-* [https://www.spiegel.de/panorama/gesellschaft/polin-soll-27-jahre-lang-ihre-wohnung-nicht-verlassen-haben-ermittlungen](https://www.spiegel.de/panorama/gesellschaft/polin-soll-27-jahre-lang-ihre-wohnung-nicht-verlassen-haben-ermittlungen-a-aa208d12-7c7e-418b-abfa-ce41bcc604b0#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-austin-pressestimmen-max-verstappen-ist-diese-mythische-kreatur-der-niemand-jemals-begegnen-moechte](https://www.spiegel.de/sport/formel1/formel-1-in-austin-pressestimmen-max-verstappen-ist-diese-mythische-kreatur-der-niemand-jemals-begegnen-moechte-a-f7b16967-e409-41c3-916f-530ba813aa10#ref=rss)
-### altenberg
-
-* [https://www.spiegel.de/panorama/altenberg-in-sachsen-staatsschutz-ermittelt-nach-angriff-auf-gymnasium](https://www.spiegel.de/panorama/altenberg-in-sachsen-staatsschutz-ermittelt-nach-angriff-auf-gymnasium-a-5b76f059-b499-41e1-bdad-32ab4e02a094#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/panorama/altenberg-in-sachsen-staatsschutz-ermittelt-nach-angriff-auf-gymnasium](https://www.spiegel.de/panorama/altenberg-in-sachsen-staatsschutz-ermittelt-nach-angriff-auf-gymnasium-a-5b76f059-b499-41e1-bdad-32ab4e02a094#ref=rss)
-* [https://www.spiegel.de/sport/basketball/italien-busfahrer-stirbt-bei-attacke-auf-basketballfans](https://www.spiegel.de/sport/basketball/italien-busfahrer-stirbt-bei-attacke-auf-basketballfans-a-cc885132-0960-4024-9574-d918f51a7220#ref=rss)
+* [https://www.spiegel.de/wissenschaft/erdnussallergie-aktualisierte-empfehlung-hat-60-000-kindern-in-den-usa-vor-allergie-bewahrt](https://www.spiegel.de/wissenschaft/erdnussallergie-aktualisierte-empfehlung-hat-60-000-kindern-in-den-usa-vor-allergie-bewahrt-a-d888e663-ac8f-45d7-a097-cb2284bf288a#ref=rss)
+* [https://www.spiegel.de/ausland/shutdown-usa-atomwaffen-sicherheitsbehoerde-nnsa-schickt-1400-mitarbeitende-in-zwangsurlaub](https://www.spiegel.de/ausland/shutdown-usa-atomwaffen-sicherheitsbehoerde-nnsa-schickt-1400-mitarbeitende-in-zwangsurlaub-a-43aa9cb5-ac12-4667-ad24-d5b72c03f024#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+* [https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen](https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen-a-ca6596df-2233-4bcb-8557-a19ec590a62e#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wissenschaft/donald-trump-will-deals-mit-universitaeten-redefreiheit-gegen-bundeszuschuesse-noch-will-keine-uni-mitmachen](https://www.spiegel.de/wissenschaft/donald-trump-will-deals-mit-universitaeten-redefreiheit-gegen-bundeszuschuesse-noch-will-keine-uni-mitmachen-a-b104590b-9f74-4004-9c5c-f16b52212127#ref=rss)
-### bundeszuschüsse
+* [https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen](https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen-a-90530fb2-8073-4c46-b4af-8220988532f9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme-a-accf2c31-364d-4a6f-8b66-254aa1c6c2e9#ref=rss)
+* [https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen](https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen-a-ca6596df-2233-4bcb-8557-a19ec590a62e#ref=rss)
+* [https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter](https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter-a-abbb0484-eff5-443c-aee4-b0353bddcab5#ref=rss)
+### merz
 
-* [https://www.spiegel.de/wissenschaft/donald-trump-will-deals-mit-universitaeten-redefreiheit-gegen-bundeszuschuesse-noch-will-keine-uni-mitmachen](https://www.spiegel.de/wissenschaft/donald-trump-will-deals-mit-universitaeten-redefreiheit-gegen-bundeszuschuesse-noch-will-keine-uni-mitmachen-a-b104590b-9f74-4004-9c5c-f16b52212127#ref=rss)
-### bisher
+* [https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-verteidigt-umstrittene-stadtbild-aeusserung](https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-verteidigt-umstrittene-stadtbild-aeusserung-a-32e7b71d-931a-48d0-92d8-94f144c0caec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
+* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/wissenschaft/donald-trump-will-deals-mit-universitaeten-redefreiheit-gegen-bundeszuschuesse-noch-will-keine-uni-mitmachen](https://www.spiegel.de/wissenschaft/donald-trump-will-deals-mit-universitaeten-redefreiheit-gegen-bundeszuschuesse-noch-will-keine-uni-mitmachen-a-b104590b-9f74-4004-9c5c-f16b52212127#ref=rss)
-* [https://www.spiegel.de/politik/cdu-friedrich-merz-bezeichnet-afd-als-hauptgegner-bei-den-kommenden-landtagswahlen](https://www.spiegel.de/politik/cdu-friedrich-merz-bezeichnet-afd-als-hauptgegner-bei-den-kommenden-landtagswahlen-a-560e5423-17c7-4303-a6ce-0f4023843676#ref=rss)
-### bürokratie
+* [https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-verteidigt-umstrittene-stadtbild-aeusserung](https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-verteidigt-umstrittene-stadtbild-aeusserung-a-32e7b71d-931a-48d0-92d8-94f144c0caec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
+* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
+### lena
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen](https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen-a-96507ac9-0661-4f35-b2b8-b08ee98e8f54#ref=rss)
-### unternehmen
+* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss](https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss-a-6b0d4642-f430-4df3-9bce-46cd909f8b21#ref=rss)
+### oberdorf
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen](https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen-a-96507ac9-0661-4f35-b2b8-b08ee98e8f54#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kfz-versicherung-hannover-rueck-rechnet-mit-steigenden-preisen-bei-autoversicherern](https://www.spiegel.de/wirtschaft/service/kfz-versicherung-hannover-rueck-rechnet-mit-steigenden-preisen-bei-autoversicherern-a-d0146018-e2c8-405e-bd9a-18ab038620d7#ref=rss)
-### umfrage
+* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss](https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss-a-6b0d4642-f430-4df3-9bce-46cd909f8b21#ref=rss)
+### louvre
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen](https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen-a-96507ac9-0661-4f35-b2b8-b08ee98e8f54#ref=rss)
-### 325000
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
+* [https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so](https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so-a-37f01940-235d-4d4f-9b7c-e993d71adfd6#ref=rss)
+### afd
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen](https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen-a-96507ac9-0661-4f35-b2b8-b08ee98e8f54#ref=rss)
-### mitarbeiter
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
+* [https://www.spiegel.de/kultur/wolfram-weimer-hat-der-kulturstaatsminister-texte-von-der-afd-geklaut](https://www.spiegel.de/kultur/wolfram-weimer-hat-der-kulturstaatsminister-texte-von-der-afd-geklaut-a-0c594796-cf2e-487a-96e7-1d71bdf83b37#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-linke-parteien-und-ihre-selbstgerechtigkeit-im-kampf-gegen-rechts](https://www.spiegel.de/politik/deutschland/afd-linke-parteien-und-ihre-selbstgerechtigkeit-im-kampf-gegen-rechts-a-37f498ca-4b73-4a0e-a4c5-3249f1254aea#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen](https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen-a-96507ac9-0661-4f35-b2b8-b08ee98e8f54#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-im-job-es-riecht-ein-wenig-nach-angstmache](https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-im-job-es-riecht-ein-wenig-nach-angstmache-a-347a352b-6c53-413a-8ace-7cadb345301a#ref=rss)
-### vergangenen
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+* [https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen](https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen-a-ca6596df-2233-4bcb-8557-a19ec590a62e#ref=rss)
+* [https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter](https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter-a-abbb0484-eff5-443c-aee4-b0353bddcab5#ref=rss)
+### putin
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen](https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen-a-96507ac9-0661-4f35-b2b8-b08ee98e8f54#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimawandel-meeresspiegel-steigt-staerker-als-in-den-vergangenen-4000-jahren](https://www.spiegel.de/wissenschaft/klimawandel-meeresspiegel-steigt-staerker-als-in-den-vergangenen-4000-jahren-a-c7c4a948-efe7-44ec-a12a-14fb35a0dfc5#ref=rss)
-### kosten
+* [https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen](https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen-a-90530fb2-8073-4c46-b4af-8220988532f9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme-a-accf2c31-364d-4a6f-8b66-254aa1c6c2e9#ref=rss)
+### kindern
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen](https://www.spiegel.de/wirtschaft/unternehmen/buerokratie-unternehmen-mussten-laut-umfrage-325-000-mitarbeiter-einstellen-a-96507ac9-0661-4f35-b2b8-b08ee98e8f54#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kfz-versicherung-hannover-rueck-rechnet-mit-steigenden-preisen-bei-autoversicherern](https://www.spiegel.de/wirtschaft/service/kfz-versicherung-hannover-rueck-rechnet-mit-steigenden-preisen-bei-autoversicherern-a-d0146018-e2c8-405e-bd9a-18ab038620d7#ref=rss)
-### iran
+* [https://www.spiegel.de/wissenschaft/erdnussallergie-aktualisierte-empfehlung-hat-60-000-kindern-in-den-usa-vor-allergie-bewahrt](https://www.spiegel.de/wissenschaft/erdnussallergie-aktualisierte-empfehlung-hat-60-000-kindern-in-den-usa-vor-allergie-bewahrt-a-d888e663-ac8f-45d7-a097-cb2284bf288a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/social-media-nutzung-bei-jugendlichen-mehr-zeit-auf-sozialen-medien-schlechtere-testergebnisse](https://www.spiegel.de/wissenschaft/social-media-nutzung-bei-jugendlichen-mehr-zeit-auf-sozialen-medien-schlechtere-testergebnisse-a-fa5ef245-aeda-4fb1-b22c-ec75256507e5#ref=rss)
+### bundeskanzler
 
-* [https://www.spiegel.de/ausland/iran-sittenwaechter-kritik-an-ali-shamkhani-wegen-freizuegigem-hochzeitskleid-seiner-tochter](https://www.spiegel.de/ausland/iran-sittenwaechter-kritik-an-ali-shamkhani-wegen-freizuegigem-hochzeitskleid-seiner-tochter-a-531a80c5-3004-47b2-8830-34466010b173#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-verteidigt-umstrittene-stadtbild-aeusserung](https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-verteidigt-umstrittene-stadtbild-aeusserung-a-32e7b71d-931a-48d0-92d8-94f144c0caec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
+### proteste
+
+* [https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-verteidigt-umstrittene-stadtbild-aeusserung](https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-verteidigt-umstrittene-stadtbild-aeusserung-a-32e7b71d-931a-48d0-92d8-94f144c0caec#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### rebecca
+
+* [https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz](https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz-a-8732f617-99e6-4eda-a9ab-7fb0942e6b57#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
+### reusch
+
+* [https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz](https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz-a-8732f617-99e6-4eda-a9ab-7fb0942e6b57#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz](https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz-a-8732f617-99e6-4eda-a9ab-7fb0942e6b57#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-zwischen-fomo-und-untergangsstimmung](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-zwischen-fomo-und-untergangsstimmung-a-cdfa58f2-2a8f-4c86-950d-599ae10e0ad4#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/madagaskar-herintsalama-rajaonarivelo-zum-neuen-premierminister-ernannt](https://www.spiegel.de/ausland/madagaskar-herintsalama-rajaonarivelo-zum-neuen-premierminister-ernannt-a-25970a38-b8a5-4d34-9e64-3252a5fbf677#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme-a-accf2c31-364d-4a6f-8b66-254aa1c6c2e9#ref=rss)
+* [https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen](https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen-a-ca6596df-2233-4bcb-8557-a19ec590a62e#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/afd-linke-parteien-und-ihre-selbstgerechtigkeit-im-kampf-gegen-rechts](https://www.spiegel.de/politik/deutschland/afd-linke-parteien-und-ihre-selbstgerechtigkeit-im-kampf-gegen-rechts-a-37f498ca-4b73-4a0e-a4c5-3249f1254aea#ref=rss)
+* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
+### südkorea
+
+* [https://www.spiegel.de/panorama/justiz/suedkorea-lehrerin-lockt-schuelerin-in-unterrichtsraum-und-ersticht-sie-lebenslange-haft](https://www.spiegel.de/panorama/justiz/suedkorea-lehrerin-lockt-schuelerin-in-unterrichtsraum-und-ersticht-sie-lebenslange-haft-a-c3016d57-ad63-48fc-9b1d-13722289d6af#ref=rss)
+### lehrerin
+
+* [https://www.spiegel.de/panorama/justiz/suedkorea-lehrerin-lockt-schuelerin-in-unterrichtsraum-und-ersticht-sie-lebenslange-haft](https://www.spiegel.de/panorama/justiz/suedkorea-lehrerin-lockt-schuelerin-in-unterrichtsraum-und-ersticht-sie-lebenslange-haft-a-c3016d57-ad63-48fc-9b1d-13722289d6af#ref=rss)
+### bulgarien
+
+* [https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen](https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen-a-90530fb2-8073-4c46-b4af-8220988532f9#ref=rss)
+### budapest
+
+* [https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen](https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen-a-90530fb2-8073-4c46-b4af-8220988532f9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme-a-accf2c31-364d-4a6f-8b66-254aa1c6c2e9#ref=rss)
+### eigentlich
+
+* [https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen](https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen-a-90530fb2-8073-4c46-b4af-8220988532f9#ref=rss)
+* [https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen](https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen-a-6fabae1a-d2a4-4a60-9f23-e3073a1bb5f6#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen](https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen-a-90530fb2-8073-4c46-b4af-8220988532f9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme-a-accf2c31-364d-4a6f-8b66-254aa1c6c2e9#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wissenschaft/erdnussallergie-aktualisierte-empfehlung-hat-60-000-kindern-in-den-usa-vor-allergie-bewahrt](https://www.spiegel.de/wissenschaft/erdnussallergie-aktualisierte-empfehlung-hat-60-000-kindern-in-den-usa-vor-allergie-bewahrt-a-d888e663-ac8f-45d7-a097-cb2284bf288a#ref=rss)
+* [https://www.spiegel.de/auto/kraftfahrt-bundesamt-e-autos-in-ostdeutschland-noch-wenig-verbreitet](https://www.spiegel.de/auto/kraftfahrt-bundesamt-e-autos-in-ostdeutschland-noch-wenig-verbreitet-a-41cb8cbb-0da2-4446-9a73-f437335c6d2d#ref=rss)
+### einsatz
+
+* [https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz](https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz-a-8732f617-99e6-4eda-a9ab-7fb0942e6b57#ref=rss)
+### grundstück
+
+* [https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz](https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz-a-8732f617-99e6-4eda-a9ab-7fb0942e6b57#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz](https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz-a-8732f617-99e6-4eda-a9ab-7fb0942e6b57#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
+### kreuzbandriss
+
+* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss](https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss-a-6b0d4642-f430-4df3-9bce-46cd909f8b21#ref=rss)
+### schock
+
+* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
+### fußball
+
+* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
+### zweiten
+
+* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss](https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss-a-6b0d4642-f430-4df3-9bce-46cd909f8b21#ref=rss)
+### kreuzband
+
+* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss](https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss-a-6b0d4642-f430-4df3-9bce-46cd909f8b21#ref=rss)
+### gerissen
+
+* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss](https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss-a-6b0d4642-f430-4df3-9bce-46cd909f8b21#ref=rss)
+### openai
+
+* [https://www.spiegel.de/netzwelt/web/openai-eine-mathe-blamage-offenbart-die-probleme-beim-ki-konzern](https://www.spiegel.de/netzwelt/web/openai-eine-mathe-blamage-offenbart-die-probleme-beim-ki-konzern-a-abd7f179-d454-42af-bd21-070ce481e3c6#ref=rss)
+### probleme
+
+* [https://www.spiegel.de/netzwelt/web/openai-eine-mathe-blamage-offenbart-die-probleme-beim-ki-konzern](https://www.spiegel.de/netzwelt/web/openai-eine-mathe-blamage-offenbart-die-probleme-beim-ki-konzern-a-abd7f179-d454-42af-bd21-070ce481e3c6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gutachten-erhoeht-druck-auf-bahnvorstaendin-nikutta](https://www.spiegel.de/wirtschaft/gutachten-erhoeht-druck-auf-bahnvorstaendin-nikutta-a-a2bbb03e-61f3-40cb-bcf3-57422bd2fe40#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/netzwelt/web/openai-eine-mathe-blamage-offenbart-die-probleme-beim-ki-konzern](https://www.spiegel.de/netzwelt/web/openai-eine-mathe-blamage-offenbart-die-probleme-beim-ki-konzern-a-abd7f179-d454-42af-bd21-070ce481e3c6#ref=rss)
+* [https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter](https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter-a-abbb0484-eff5-443c-aee4-b0353bddcab5#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
+* [https://www.spiegel.de/kultur/louvre-coup-das-sind-die-spektakulaersten-museumsueberfaelle-der-welt](https://www.spiegel.de/kultur/louvre-coup-das-sind-die-spektakulaersten-museumsueberfaelle-der-welt-a-b9e846a3-49df-4636-985f-4216ac5f23dc#ref=rss)
+### no
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### kingsdemos
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### stark
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### wirklich
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### demonstrieren
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### friedlich
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### politik
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### präsidenten
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### widerlegen
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### panikmache
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### chaos
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### usdemokraten
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### wachsenden
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### protest
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### profitieren
+
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
+* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+### madagaskar
+
+* [https://www.spiegel.de/ausland/madagaskar-herintsalama-rajaonarivelo-zum-neuen-premierminister-ernannt](https://www.spiegel.de/ausland/madagaskar-herintsalama-rajaonarivelo-zum-neuen-premierminister-ernannt-a-25970a38-b8a5-4d34-9e64-3252a5fbf677#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/ausland/madagaskar-herintsalama-rajaonarivelo-zum-neuen-premierminister-ernannt](https://www.spiegel.de/ausland/madagaskar-herintsalama-rajaonarivelo-zum-neuen-premierminister-ernannt-a-25970a38-b8a5-4d34-9e64-3252a5fbf677#ref=rss)
+### welt
+
+* [https://www.spiegel.de/kultur/louvre-coup-das-sind-die-spektakulaersten-museumsueberfaelle-der-welt](https://www.spiegel.de/kultur/louvre-coup-das-sind-die-spektakulaersten-museumsueberfaelle-der-welt-a-b9e846a3-49df-4636-985f-4216ac5f23dc#ref=rss)
+* [https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so](https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so-a-37f01940-235d-4d4f-9b7c-e993d71adfd6#ref=rss)
 ### druck
 
-* [https://www.spiegel.de/ausland/iran-sittenwaechter-kritik-an-ali-shamkhani-wegen-freizuegigem-hochzeitskleid-seiner-tochter](https://www.spiegel.de/ausland/iran-sittenwaechter-kritik-an-ali-shamkhani-wegen-freizuegigem-hochzeitskleid-seiner-tochter-a-531a80c5-3004-47b2-8830-34466010b173#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-druck-auf-ukrainer-zur-staatsbuergerschaftsaenderung-in-russland](https://www.spiegel.de/ausland/ukraine-krieg-druck-auf-ukrainer-zur-staatsbuergerschaftsaenderung-in-russland-a-cdd96aac-1bda-4d16-81cd-9f54b32f1eb1#ref=rss)
-### zeigt
+* [https://www.spiegel.de/wirtschaft/gutachten-erhoeht-druck-auf-bahnvorstaendin-nikutta](https://www.spiegel.de/wirtschaft/gutachten-erhoeht-druck-auf-bahnvorstaendin-nikutta-a-a2bbb03e-61f3-40cb-bcf3-57422bd2fe40#ref=rss)
+* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
+### stellt
 
-* [https://www.spiegel.de/ausland/iran-sittenwaechter-kritik-an-ali-shamkhani-wegen-freizuegigem-hochzeitskleid-seiner-tochter](https://www.spiegel.de/ausland/iran-sittenwaechter-kritik-an-ali-shamkhani-wegen-freizuegigem-hochzeitskleid-seiner-tochter-a-531a80c5-3004-47b2-8830-34466010b173#ref=rss)
-* [https://www.spiegel.de/kultur/musik/herbert-groenemeyer-warum-der-saenger-sich-nur-geschminkt-im-spiegel-sieht](https://www.spiegel.de/kultur/musik/herbert-groenemeyer-warum-der-saenger-sich-nur-geschminkt-im-spiegel-sieht-a-4714206e-baec-400b-87fc-9934b4e58578#ref=rss)
-### hongkong
+* [https://www.spiegel.de/wirtschaft/gutachten-erhoeht-druck-auf-bahnvorstaendin-nikutta](https://www.spiegel.de/wirtschaft/gutachten-erhoeht-druck-auf-bahnvorstaendin-nikutta-a-a2bbb03e-61f3-40cb-bcf3-57422bd2fe40#ref=rss)
+* [https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter](https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter-a-abbb0484-eff5-443c-aee4-b0353bddcab5#ref=rss)
+### 1
 
-* [https://www.spiegel.de/panorama/hongkong-boeing-747-kollidiert-mit-fahrzeug-und-zerbricht-im-meer](https://www.spiegel.de/panorama/hongkong-boeing-747-kollidiert-mit-fahrzeug-und-zerbricht-im-meer-a-fc6abc44-b01a-49dc-8171-4a6c74d4b27c#ref=rss)
-### boeing
+* [https://www.spiegel.de/sport/formel1/formel-1-in-austin-red-bull-muss-50-000-euro-strafe-zahlen-sabotageverdacht](https://www.spiegel.de/sport/formel1/formel-1-in-austin-red-bull-muss-50-000-euro-strafe-zahlen-sabotageverdacht-a-b25d9b6f-860e-40bd-8241-bab29e6261eb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss](https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss-a-6b0d4642-f430-4df3-9bce-46cd909f8b21#ref=rss)
+### selenskyj
 
-* [https://www.spiegel.de/panorama/hongkong-boeing-747-kollidiert-mit-fahrzeug-und-zerbricht-im-meer](https://www.spiegel.de/panorama/hongkong-boeing-747-kollidiert-mit-fahrzeug-und-zerbricht-im-meer-a-fc6abc44-b01a-49dc-8171-4a6c74d4b27c#ref=rss)
-### fahrzeug
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme-a-accf2c31-364d-4a6f-8b66-254aa1c6c2e9#ref=rss)
+### kulturstaatsminister
 
-* [https://www.spiegel.de/panorama/hongkong-boeing-747-kollidiert-mit-fahrzeug-und-zerbricht-im-meer](https://www.spiegel.de/panorama/hongkong-boeing-747-kollidiert-mit-fahrzeug-und-zerbricht-im-meer-a-fc6abc44-b01a-49dc-8171-4a6c74d4b27c#ref=rss)
+* [https://www.spiegel.de/kultur/wolfram-weimer-hat-der-kulturstaatsminister-texte-von-der-afd-geklaut](https://www.spiegel.de/kultur/wolfram-weimer-hat-der-kulturstaatsminister-texte-von-der-afd-geklaut-a-0c594796-cf2e-487a-96e7-1d71bdf83b37#ref=rss)
+### essen
+
+* [https://www.spiegel.de/panorama/justiz/essen-mehr-als-40-islamische-graeber-auf-friedhof-beschaedigt](https://www.spiegel.de/panorama/justiz/essen-mehr-als-40-islamische-graeber-auf-friedhof-beschaedigt-a-568b192b-df8f-4e0e-913a-8ebb64f121cb#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/justiz/essen-mehr-als-40-islamische-graeber-auf-friedhof-beschaedigt](https://www.spiegel.de/panorama/justiz/essen-mehr-als-40-islamische-graeber-auf-friedhof-beschaedigt-a-568b192b-df8f-4e0e-913a-8ebb64f121cb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/social-media-nutzung-bei-jugendlichen-mehr-zeit-auf-sozialen-medien-schlechtere-testergebnisse](https://www.spiegel.de/wissenschaft/social-media-nutzung-bei-jugendlichen-mehr-zeit-auf-sozialen-medien-schlechtere-testergebnisse-a-fa5ef245-aeda-4fb1-b22c-ec75256507e5#ref=rss)
+### islamische
+
+* [https://www.spiegel.de/panorama/justiz/essen-mehr-als-40-islamische-graeber-auf-friedhof-beschaedigt](https://www.spiegel.de/panorama/justiz/essen-mehr-als-40-islamische-graeber-auf-friedhof-beschaedigt-a-568b192b-df8f-4e0e-913a-8ebb64f121cb#ref=rss)
+### gräber
+
+* [https://www.spiegel.de/panorama/justiz/essen-mehr-als-40-islamische-graeber-auf-friedhof-beschaedigt](https://www.spiegel.de/panorama/justiz/essen-mehr-als-40-islamische-graeber-auf-friedhof-beschaedigt-a-568b192b-df8f-4e0e-913a-8ebb64f121cb#ref=rss)
+### juwelenklau
+
+* [https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so](https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so-a-37f01940-235d-4d4f-9b7c-e993d71adfd6#ref=rss)
+### unter
+
+* [https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so](https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so-a-37f01940-235d-4d4f-9b7c-e993d71adfd6#ref=rss)
+* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
+### fasziniert
+
+* [https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so](https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so-a-37f01940-235d-4d4f-9b7c-e993d71adfd6#ref=rss)
+### dessen
+
+* [https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so](https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so-a-37f01940-235d-4d4f-9b7c-e993d71adfd6#ref=rss)
+* [https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen](https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen-a-ca6596df-2233-4bcb-8557-a19ec590a62e#ref=rss)
+### angeblich
+
+* [https://www.spiegel.de/politik/deutschland/afd-linke-parteien-und-ihre-selbstgerechtigkeit-im-kampf-gegen-rechts](https://www.spiegel.de/politik/deutschland/afd-linke-parteien-und-ihre-selbstgerechtigkeit-im-kampf-gegen-rechts-a-37f498ca-4b73-4a0e-a4c5-3249f1254aea#ref=rss)
+* [https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen](https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen-a-ca6596df-2233-4bcb-8557-a19ec590a62e#ref=rss)
+### sollten
+
+* [https://www.spiegel.de/politik/deutschland/afd-linke-parteien-und-ihre-selbstgerechtigkeit-im-kampf-gegen-rechts](https://www.spiegel.de/politik/deutschland/afd-linke-parteien-und-ihre-selbstgerechtigkeit-im-kampf-gegen-rechts-a-37f498ca-4b73-4a0e-a4c5-3249f1254aea#ref=rss)
+* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
+### kolumbien
+
+* [https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen](https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen-a-ca6596df-2233-4bcb-8557-a19ec590a62e#ref=rss)
+### irans
+
+* [https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter](https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter-a-abbb0484-eff5-443c-aee4-b0353bddcab5#ref=rss)
+### gern
+
+* [https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter](https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter-a-abbb0484-eff5-443c-aee4-b0353bddcab5#ref=rss)
+* [https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen](https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen-a-6fabae1a-d2a4-4a60-9f23-e3073a1bb5f6#ref=rss)
+### werner
+
+* [https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen](https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen-a-6fabae1a-d2a4-4a60-9f23-e3073a1bb5f6#ref=rss)
+### herzog
+
+* [https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen](https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen-a-6fabae1a-d2a4-4a60-9f23-e3073a1bb5f6#ref=rss)
+### mars
+
+* [https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen](https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen-a-6fabae1a-d2a4-4a60-9f23-e3073a1bb5f6#ref=rss)
+### handelskrieg
+
+* [https://www.spiegel.de/wirtschaft/handelskrieg-china-bremst-export-seltener-erde-magneten-sorge-wegen-abhaengigkeit](https://www.spiegel.de/wirtschaft/handelskrieg-china-bremst-export-seltener-erde-magneten-sorge-wegen-abhaengigkeit-a-d4b824f9-e9ac-45c9-ba5a-40dc053a76b5#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/handelskrieg-china-bremst-export-seltener-erde-magneten-sorge-wegen-abhaengigkeit](https://www.spiegel.de/wirtschaft/handelskrieg-china-bremst-export-seltener-erde-magneten-sorge-wegen-abhaengigkeit-a-d4b824f9-e9ac-45c9-ba5a-40dc053a76b5#ref=rss)
+### sorge
+
+* [https://www.spiegel.de/wirtschaft/handelskrieg-china-bremst-export-seltener-erde-magneten-sorge-wegen-abhaengigkeit](https://www.spiegel.de/wirtschaft/handelskrieg-china-bremst-export-seltener-erde-magneten-sorge-wegen-abhaengigkeit-a-d4b824f9-e9ac-45c9-ba5a-40dc053a76b5#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/wirtschaft/handelskrieg-china-bremst-export-seltener-erde-magneten-sorge-wegen-abhaengigkeit](https://www.spiegel.de/wirtschaft/handelskrieg-china-bremst-export-seltener-erde-magneten-sorge-wegen-abhaengigkeit-a-d4b824f9-e9ac-45c9-ba5a-40dc053a76b5#ref=rss)
+* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
+### rente
+
+* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
 ### cdu
 
-* [https://www.spiegel.de/politik/cdu-friedrich-merz-bezeichnet-afd-als-hauptgegner-bei-den-kommenden-landtagswahlen](https://www.spiegel.de/politik/cdu-friedrich-merz-bezeichnet-afd-als-hauptgegner-bei-den-kommenden-landtagswahlen-a-560e5423-17c7-4303-a6ce-0f4023843676#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream-a-d41bcc49-a93c-49dd-ab3e-d7c6c4e1a345#ref=rss)
-### kommenden
+* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
+### csu
 
-* [https://www.spiegel.de/politik/cdu-friedrich-merz-bezeichnet-afd-als-hauptgegner-bei-den-kommenden-landtagswahlen](https://www.spiegel.de/politik/cdu-friedrich-merz-bezeichnet-afd-als-hauptgegner-bei-den-kommenden-landtagswahlen-a-560e5423-17c7-4303-a6ce-0f4023843676#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream-a-d41bcc49-a93c-49dd-ab3e-d7c6c4e1a345#ref=rss)
-### landtagswahlen
+* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
+### zeit
 
-* [https://www.spiegel.de/politik/cdu-friedrich-merz-bezeichnet-afd-als-hauptgegner-bei-den-kommenden-landtagswahlen](https://www.spiegel.de/politik/cdu-friedrich-merz-bezeichnet-afd-als-hauptgegner-bei-den-kommenden-landtagswahlen-a-560e5423-17c7-4303-a6ce-0f4023843676#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream-a-d41bcc49-a93c-49dd-ab3e-d7c6c4e1a345#ref=rss)
-### italien
-
-* [https://www.spiegel.de/sport/basketball/italien-busfahrer-stirbt-bei-attacke-auf-basketballfans](https://www.spiegel.de/sport/basketball/italien-busfahrer-stirbt-bei-attacke-auf-basketballfans-a-cc885132-0960-4024-9574-d918f51a7220#ref=rss)
-### busfahrer
-
-* [https://www.spiegel.de/sport/basketball/italien-busfahrer-stirbt-bei-attacke-auf-basketballfans](https://www.spiegel.de/sport/basketball/italien-busfahrer-stirbt-bei-attacke-auf-basketballfans-a-cc885132-0960-4024-9574-d918f51a7220#ref=rss)
-### tat
-
-* [https://www.spiegel.de/sport/basketball/italien-busfahrer-stirbt-bei-attacke-auf-basketballfans](https://www.spiegel.de/sport/basketball/italien-busfahrer-stirbt-bei-attacke-auf-basketballfans-a-cc885132-0960-4024-9574-d918f51a7220#ref=rss)
-* [https://www.spiegel.de/ausland/louvre-nach-dem-diebstahl-setzt-in-frankreich-die-politische-instrumentalisierung-der-tat-ein](https://www.spiegel.de/ausland/louvre-nach-dem-diebstahl-setzt-in-frankreich-die-politische-instrumentalisierung-der-tat-ein-a-178c03e6-071b-4920-833b-23f6861d97e9#ref=rss)
-### russisches
-
-* [https://www.spiegel.de/wirtschaft/russisches-gas-mehrheit-der-eu-laender-stimmt-fuer-importverbot-ab-dem-jahr-2028](https://www.spiegel.de/wirtschaft/russisches-gas-mehrheit-der-eu-laender-stimmt-fuer-importverbot-ab-dem-jahr-2028-a-ed31471f-43e5-438d-a65e-1fa49d604b35#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/russisches-gas-mehrheit-der-eu-laender-stimmt-fuer-importverbot-ab-dem-jahr-2028](https://www.spiegel.de/wirtschaft/russisches-gas-mehrheit-der-eu-laender-stimmt-fuer-importverbot-ab-dem-jahr-2028-a-ed31471f-43e5-438d-a65e-1fa49d604b35#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream-a-d41bcc49-a93c-49dd-ab3e-d7c6c4e1a345#ref=rss)
-### ende
-
-* [https://www.spiegel.de/wirtschaft/russisches-gas-mehrheit-der-eu-laender-stimmt-fuer-importverbot-ab-dem-jahr-2028](https://www.spiegel.de/wirtschaft/russisches-gas-mehrheit-der-eu-laender-stimmt-fuer-importverbot-ab-dem-jahr-2028-a-ed31471f-43e5-438d-a65e-1fa49d604b35#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimawandel-meeresspiegel-steigt-staerker-als-in-den-vergangenen-4000-jahren](https://www.spiegel.de/wissenschaft/klimawandel-meeresspiegel-steigt-staerker-als-in-den-vergangenen-4000-jahren-a-c7c4a948-efe7-44ec-a12a-14fb35a0dfc5#ref=rss)
-### ukrainer
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-druck-auf-ukrainer-zur-staatsbuergerschaftsaenderung-in-russland](https://www.spiegel.de/ausland/ukraine-krieg-druck-auf-ukrainer-zur-staatsbuergerschaftsaenderung-in-russland-a-cdd96aac-1bda-4d16-81cd-9f54b32f1eb1#ref=rss)
-### gestohlenen
-
-* [https://www.spiegel.de/panorama/justiz/louvre-das-sind-die-gestohlenen-schmuckstuecke](https://www.spiegel.de/panorama/justiz/louvre-das-sind-die-gestohlenen-schmuckstuecke-a-d6468fb5-3aee-4e80-9c69-2e0ec43e7236#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/panorama/justiz/louvre-das-sind-die-gestohlenen-schmuckstuecke](https://www.spiegel.de/panorama/justiz/louvre-das-sind-die-gestohlenen-schmuckstuecke-a-d6468fb5-3aee-4e80-9c69-2e0ec43e7236#ref=rss)
-* [https://www.spiegel.de/politik/russland-schattenflotte-beunruhigt-eu](https://www.spiegel.de/politik/russland-schattenflotte-beunruhigt-eu-a-53a40fee-6fed-48ab-bdcb-62a0655aaee9#ref=rss)
-### schwanau
-
-* [https://www.spiegel.de/panorama/blumenkuebel-posse-in-schwanau-unternehmer-herrenknecht-nennt-beamte-sesselfurzer](https://www.spiegel.de/panorama/blumenkuebel-posse-in-schwanau-unternehmer-herrenknecht-nennt-beamte-sesselfurzer-a-84b0b8ef-5542-4718-b554-2c3e5a04f03f#ref=rss)
-### unternehmer
-
-* [https://www.spiegel.de/panorama/blumenkuebel-posse-in-schwanau-unternehmer-herrenknecht-nennt-beamte-sesselfurzer](https://www.spiegel.de/panorama/blumenkuebel-posse-in-schwanau-unternehmer-herrenknecht-nennt-beamte-sesselfurzer-a-84b0b8ef-5542-4718-b554-2c3e5a04f03f#ref=rss)
-### herrenknecht
-
-* [https://www.spiegel.de/panorama/blumenkuebel-posse-in-schwanau-unternehmer-herrenknecht-nennt-beamte-sesselfurzer](https://www.spiegel.de/panorama/blumenkuebel-posse-in-schwanau-unternehmer-herrenknecht-nennt-beamte-sesselfurzer-a-84b0b8ef-5542-4718-b554-2c3e5a04f03f#ref=rss)
-### meeresspiegel
-
-* [https://www.spiegel.de/wissenschaft/klimawandel-meeresspiegel-steigt-staerker-als-in-den-vergangenen-4000-jahren](https://www.spiegel.de/wissenschaft/klimawandel-meeresspiegel-steigt-staerker-als-in-den-vergangenen-4000-jahren-a-c7c4a948-efe7-44ec-a12a-14fb35a0dfc5#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/wissenschaft/klimawandel-meeresspiegel-steigt-staerker-als-in-den-vergangenen-4000-jahren](https://www.spiegel.de/wissenschaft/klimawandel-meeresspiegel-steigt-staerker-als-in-den-vergangenen-4000-jahren-a-c7c4a948-efe7-44ec-a12a-14fb35a0dfc5#ref=rss)
-### herbert
-
-* [https://www.spiegel.de/kultur/musik/herbert-groenemeyer-warum-der-saenger-sich-nur-geschminkt-im-spiegel-sieht](https://www.spiegel.de/kultur/musik/herbert-groenemeyer-warum-der-saenger-sich-nur-geschminkt-im-spiegel-sieht-a-4714206e-baec-400b-87fc-9934b4e58578#ref=rss)
-### grönemeyer
-
-* [https://www.spiegel.de/kultur/musik/herbert-groenemeyer-warum-der-saenger-sich-nur-geschminkt-im-spiegel-sieht](https://www.spiegel.de/kultur/musik/herbert-groenemeyer-warum-der-saenger-sich-nur-geschminkt-im-spiegel-sieht-a-4714206e-baec-400b-87fc-9934b4e58578#ref=rss)
-### geschminkt
-
-* [https://www.spiegel.de/kultur/musik/herbert-groenemeyer-warum-der-saenger-sich-nur-geschminkt-im-spiegel-sieht](https://www.spiegel.de/kultur/musik/herbert-groenemeyer-warum-der-saenger-sich-nur-geschminkt-im-spiegel-sieht-a-4714206e-baec-400b-87fc-9934b4e58578#ref=rss)
-### tkms
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-tochter-tkms-marinewerft-startet-erfolgreich-an-der-boerse](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-tochter-tkms-marinewerft-startet-erfolgreich-an-der-boerse-a-1155c5c3-c7a1-473b-970a-eb5385424c7b#ref=rss)
-### marinewerft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-tochter-tkms-marinewerft-startet-erfolgreich-an-der-boerse](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-tochter-tkms-marinewerft-startet-erfolgreich-an-der-boerse-a-1155c5c3-c7a1-473b-970a-eb5385424c7b#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-tochter-tkms-marinewerft-startet-erfolgreich-an-der-boerse](https://www.spiegel.de/wirtschaft/unternehmen/thyssenkrupp-tochter-tkms-marinewerft-startet-erfolgreich-an-der-boerse-a-1155c5c3-c7a1-473b-970a-eb5385424c7b#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-proteste-gegen-raeumung-von-besetzten-haeusern-in-mitte](https://www.spiegel.de/panorama/berlin-proteste-gegen-raeumung-von-besetzten-haeusern-in-mitte-a-65fe0bac-f1d9-46b8-8ce5-f39cd4869b7a#ref=rss)
-### diebstahl
-
-* [https://www.spiegel.de/ausland/louvre-nach-dem-diebstahl-setzt-in-frankreich-die-politische-instrumentalisierung-der-tat-ein](https://www.spiegel.de/ausland/louvre-nach-dem-diebstahl-setzt-in-frankreich-die-politische-instrumentalisierung-der-tat-ein-a-178c03e6-071b-4920-833b-23f6861d97e9#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/ausland/louvre-nach-dem-diebstahl-setzt-in-frankreich-die-politische-instrumentalisierung-der-tat-ein](https://www.spiegel.de/ausland/louvre-nach-dem-diebstahl-setzt-in-frankreich-die-politische-instrumentalisierung-der-tat-ein-a-178c03e6-071b-4920-833b-23f6861d97e9#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-austin-pressestimmen-max-verstappen-ist-diese-mythische-kreatur-der-niemand-jemals-begegnen-moechte](https://www.spiegel.de/sport/formel1/formel-1-in-austin-pressestimmen-max-verstappen-ist-diese-mythische-kreatur-der-niemand-jemals-begegnen-moechte-a-f7b16967-e409-41c3-916f-530ba813aa10#ref=rss)
-### nsu
-
-* [https://www.spiegel.de/panorama/nsu-belastet-terroristin-beate-zschaepe-vor-gericht-ihre-einst-beste-freundin](https://www.spiegel.de/panorama/nsu-belastet-terroristin-beate-zschaepe-vor-gericht-ihre-einst-beste-freundin-a-46b16364-4052-445d-b3c4-114ec90bac35#ref=rss)
-### terroristin
-
-* [https://www.spiegel.de/panorama/nsu-belastet-terroristin-beate-zschaepe-vor-gericht-ihre-einst-beste-freundin](https://www.spiegel.de/panorama/nsu-belastet-terroristin-beate-zschaepe-vor-gericht-ihre-einst-beste-freundin-a-46b16364-4052-445d-b3c4-114ec90bac35#ref=rss)
-### beate
-
-* [https://www.spiegel.de/panorama/nsu-belastet-terroristin-beate-zschaepe-vor-gericht-ihre-einst-beste-freundin](https://www.spiegel.de/panorama/nsu-belastet-terroristin-beate-zschaepe-vor-gericht-ihre-einst-beste-freundin-a-46b16364-4052-445d-b3c4-114ec90bac35#ref=rss)
-### zschäpe
-
-* [https://www.spiegel.de/panorama/nsu-belastet-terroristin-beate-zschaepe-vor-gericht-ihre-einst-beste-freundin](https://www.spiegel.de/panorama/nsu-belastet-terroristin-beate-zschaepe-vor-gericht-ihre-einst-beste-freundin-a-46b16364-4052-445d-b3c4-114ec90bac35#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-austin-pressestimmen-max-verstappen-ist-diese-mythische-kreatur-der-niemand-jemals-begegnen-moechte](https://www.spiegel.de/sport/formel1/formel-1-in-austin-pressestimmen-max-verstappen-ist-diese-mythische-kreatur-der-niemand-jemals-begegnen-moechte-a-f7b16967-e409-41c3-916f-530ba813aa10#ref=rss)
-### verstappen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-austin-pressestimmen-max-verstappen-ist-diese-mythische-kreatur-der-niemand-jemals-begegnen-moechte](https://www.spiegel.de/sport/formel1/formel-1-in-austin-pressestimmen-max-verstappen-ist-diese-mythische-kreatur-der-niemand-jemals-begegnen-moechte-a-f7b16967-e409-41c3-916f-530ba813aa10#ref=rss)
-### möchte
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-austin-pressestimmen-max-verstappen-ist-diese-mythische-kreatur-der-niemand-jemals-begegnen-moechte](https://www.spiegel.de/sport/formel1/formel-1-in-austin-pressestimmen-max-verstappen-ist-diese-mythische-kreatur-der-niemand-jemals-begegnen-moechte-a-f7b16967-e409-41c3-916f-530ba813aa10#ref=rss)
-### strategie
-
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream-a-d41bcc49-a93c-49dd-ab3e-d7c6c4e1a345#ref=rss)
-### umgang
-
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream-a-d41bcc49-a93c-49dd-ab3e-d7c6c4e1a345#ref=rss)
-### livestream
-
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream-a-d41bcc49-a93c-49dd-ab3e-d7c6c4e1a345#ref=rss)
-### beraten
-
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-zur-strategie-im-umgang-mit-der-afd-livestream-a-d41bcc49-a93c-49dd-ab3e-d7c6c4e1a345#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas](https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas-a-69ca6253-79bb-4eb0-b4f6-4a14bebef71b#ref=rss)
-### kfzversicherung
-
-* [https://www.spiegel.de/wirtschaft/service/kfz-versicherung-hannover-rueck-rechnet-mit-steigenden-preisen-bei-autoversicherern](https://www.spiegel.de/wirtschaft/service/kfz-versicherung-hannover-rueck-rechnet-mit-steigenden-preisen-bei-autoversicherern-a-d0146018-e2c8-405e-bd9a-18ab038620d7#ref=rss)
-### hannover
-
-* [https://www.spiegel.de/wirtschaft/service/kfz-versicherung-hannover-rueck-rechnet-mit-steigenden-preisen-bei-autoversicherern](https://www.spiegel.de/wirtschaft/service/kfz-versicherung-hannover-rueck-rechnet-mit-steigenden-preisen-bei-autoversicherern-a-d0146018-e2c8-405e-bd9a-18ab038620d7#ref=rss)
-### rück
-
-* [https://www.spiegel.de/wirtschaft/service/kfz-versicherung-hannover-rueck-rechnet-mit-steigenden-preisen-bei-autoversicherern](https://www.spiegel.de/wirtschaft/service/kfz-versicherung-hannover-rueck-rechnet-mit-steigenden-preisen-bei-autoversicherern-a-d0146018-e2c8-405e-bd9a-18ab038620d7#ref=rss)
-### euenergieminister
-
-* [https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas](https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas-a-69ca6253-79bb-4eb0-b4f6-4a14bebef71b#ref=rss)
-### kauft
-
-* [https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas](https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas-a-69ca6253-79bb-4eb0-b4f6-4a14bebef71b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/loreal-kauft-kosmetikgeschaeft-von-luxuskonzern-kering-mit-parfuemmarke-creed](https://www.spiegel.de/wirtschaft/unternehmen/loreal-kauft-kosmetikgeschaeft-von-luxuskonzern-kering-mit-parfuemmarke-creed-a-c3541471-82ce-4a89-946a-2e28dea0cd12#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas](https://www.spiegel.de/wirtschaft/russland-eu-energieminister-beraten-ueber-importverbot-von-russischem-erdgas-a-69ca6253-79bb-4eb0-b4f6-4a14bebef71b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/loreal-kauft-kosmetikgeschaeft-von-luxuskonzern-kering-mit-parfuemmarke-creed](https://www.spiegel.de/wirtschaft/unternehmen/loreal-kauft-kosmetikgeschaeft-von-luxuskonzern-kering-mit-parfuemmarke-creed-a-c3541471-82ce-4a89-946a-2e28dea0cd12#ref=rss)
-### schattenflotte
-
-* [https://www.spiegel.de/politik/russland-schattenflotte-beunruhigt-eu](https://www.spiegel.de/politik/russland-schattenflotte-beunruhigt-eu-a-53a40fee-6fed-48ab-bdcb-62a0655aaee9#ref=rss)
-### luxuskonzern
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/loreal-kauft-kosmetikgeschaeft-von-luxuskonzern-kering-mit-parfuemmarke-creed](https://www.spiegel.de/wirtschaft/unternehmen/loreal-kauft-kosmetikgeschaeft-von-luxuskonzern-kering-mit-parfuemmarke-creed-a-c3541471-82ce-4a89-946a-2e28dea0cd12#ref=rss)
-### kering
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/loreal-kauft-kosmetikgeschaeft-von-luxuskonzern-kering-mit-parfuemmarke-creed](https://www.spiegel.de/wirtschaft/unternehmen/loreal-kauft-kosmetikgeschaeft-von-luxuskonzern-kering-mit-parfuemmarke-creed-a-c3541471-82ce-4a89-946a-2e28dea0cd12#ref=rss)
-### tel
-
-* [https://www.spiegel.de/sport/fussball/tel-aviv-stadtderby-zwischen-hapoel-und-maccabi-nach-gewaltausbruechen-abgesagt](https://www.spiegel.de/sport/fussball/tel-aviv-stadtderby-zwischen-hapoel-und-maccabi-nach-gewaltausbruechen-abgesagt-a-fe476f6a-9400-418a-8707-2663e3f1ee73#ref=rss)
-### aviv
-
-* [https://www.spiegel.de/sport/fussball/tel-aviv-stadtderby-zwischen-hapoel-und-maccabi-nach-gewaltausbruechen-abgesagt](https://www.spiegel.de/sport/fussball/tel-aviv-stadtderby-zwischen-hapoel-und-maccabi-nach-gewaltausbruechen-abgesagt-a-fe476f6a-9400-418a-8707-2663e3f1ee73#ref=rss)
-### stadtderby
-
-* [https://www.spiegel.de/sport/fussball/tel-aviv-stadtderby-zwischen-hapoel-und-maccabi-nach-gewaltausbruechen-abgesagt](https://www.spiegel.de/sport/fussball/tel-aviv-stadtderby-zwischen-hapoel-und-maccabi-nach-gewaltausbruechen-abgesagt-a-fe476f6a-9400-418a-8707-2663e3f1ee73#ref=rss)
-### hapoel
-
-* [https://www.spiegel.de/sport/fussball/tel-aviv-stadtderby-zwischen-hapoel-und-maccabi-nach-gewaltausbruechen-abgesagt](https://www.spiegel.de/sport/fussball/tel-aviv-stadtderby-zwischen-hapoel-und-maccabi-nach-gewaltausbruechen-abgesagt-a-fe476f6a-9400-418a-8707-2663e3f1ee73#ref=rss)
-### maccabi
-
-* [https://www.spiegel.de/sport/fussball/tel-aviv-stadtderby-zwischen-hapoel-und-maccabi-nach-gewaltausbruechen-abgesagt](https://www.spiegel.de/sport/fussball/tel-aviv-stadtderby-zwischen-hapoel-und-maccabi-nach-gewaltausbruechen-abgesagt-a-fe476f6a-9400-418a-8707-2663e3f1ee73#ref=rss)
-### abgesagt
-
-* [https://www.spiegel.de/sport/fussball/tel-aviv-stadtderby-zwischen-hapoel-und-maccabi-nach-gewaltausbruechen-abgesagt](https://www.spiegel.de/sport/fussball/tel-aviv-stadtderby-zwischen-hapoel-und-maccabi-nach-gewaltausbruechen-abgesagt-a-fe476f6a-9400-418a-8707-2663e3f1ee73#ref=rss)
+* [https://www.spiegel.de/wissenschaft/social-media-nutzung-bei-jugendlichen-mehr-zeit-auf-sozialen-medien-schlechtere-testergebnisse](https://www.spiegel.de/wissenschaft/social-media-nutzung-bei-jugendlichen-mehr-zeit-auf-sozialen-medien-schlechtere-testergebnisse-a-fa5ef245-aeda-4fb1-b22c-ec75256507e5#ref=rss)
 
