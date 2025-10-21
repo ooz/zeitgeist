@@ -4,346 +4,360 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
-
-* [https://www.spiegel.de/wissenschaft/erdnussallergie-aktualisierte-empfehlung-hat-60-000-kindern-in-den-usa-vor-allergie-bewahrt](https://www.spiegel.de/wissenschaft/erdnussallergie-aktualisierte-empfehlung-hat-60-000-kindern-in-den-usa-vor-allergie-bewahrt-a-d888e663-ac8f-45d7-a097-cb2284bf288a#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-usa-atomwaffen-sicherheitsbehoerde-nnsa-schickt-1400-mitarbeitende-in-zwangsurlaub](https://www.spiegel.de/ausland/shutdown-usa-atomwaffen-sicherheitsbehoerde-nnsa-schickt-1400-mitarbeitende-in-zwangsurlaub-a-43aa9cb5-ac12-4667-ad24-d5b72c03f024#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-* [https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen](https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen-a-ca6596df-2233-4bcb-8557-a19ec590a62e#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen](https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen-a-90530fb2-8073-4c46-b4af-8220988532f9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme-a-accf2c31-364d-4a6f-8b66-254aa1c6c2e9#ref=rss)
-* [https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen](https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen-a-ca6596df-2233-4bcb-8557-a19ec590a62e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter](https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter-a-abbb0484-eff5-443c-aee4-b0353bddcab5#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-verteidigt-umstrittene-stadtbild-aeusserung](https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-verteidigt-umstrittene-stadtbild-aeusserung-a-32e7b71d-931a-48d0-92d8-94f144c0caec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
-* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-verteidigt-umstrittene-stadtbild-aeusserung](https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-verteidigt-umstrittene-stadtbild-aeusserung-a-32e7b71d-931a-48d0-92d8-94f144c0caec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
-* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
-### lena
-
-* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss](https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss-a-6b0d4642-f430-4df3-9bce-46cd909f8b21#ref=rss)
-### oberdorf
-
-* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss](https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss-a-6b0d4642-f430-4df3-9bce-46cd909f8b21#ref=rss)
-### louvre
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
-* [https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so](https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so-a-37f01940-235d-4d4f-9b7c-e993d71adfd6#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
-* [https://www.spiegel.de/kultur/wolfram-weimer-hat-der-kulturstaatsminister-texte-von-der-afd-geklaut](https://www.spiegel.de/kultur/wolfram-weimer-hat-der-kulturstaatsminister-texte-von-der-afd-geklaut-a-0c594796-cf2e-487a-96e7-1d71bdf83b37#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-linke-parteien-und-ihre-selbstgerechtigkeit-im-kampf-gegen-rechts](https://www.spiegel.de/politik/deutschland/afd-linke-parteien-und-ihre-selbstgerechtigkeit-im-kampf-gegen-rechts-a-37f498ca-4b73-4a0e-a4c5-3249f1254aea#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-* [https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen](https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen-a-ca6596df-2233-4bcb-8557-a19ec590a62e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter](https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter-a-abbb0484-eff5-443c-aee4-b0353bddcab5#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen](https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen-a-90530fb2-8073-4c46-b4af-8220988532f9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme-a-accf2c31-364d-4a6f-8b66-254aa1c6c2e9#ref=rss)
-### kindern
-
-* [https://www.spiegel.de/wissenschaft/erdnussallergie-aktualisierte-empfehlung-hat-60-000-kindern-in-den-usa-vor-allergie-bewahrt](https://www.spiegel.de/wissenschaft/erdnussallergie-aktualisierte-empfehlung-hat-60-000-kindern-in-den-usa-vor-allergie-bewahrt-a-d888e663-ac8f-45d7-a097-cb2284bf288a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/social-media-nutzung-bei-jugendlichen-mehr-zeit-auf-sozialen-medien-schlechtere-testergebnisse](https://www.spiegel.de/wissenschaft/social-media-nutzung-bei-jugendlichen-mehr-zeit-auf-sozialen-medien-schlechtere-testergebnisse-a-fa5ef245-aeda-4fb1-b22c-ec75256507e5#ref=rss)
-### bundeskanzler
-
-* [https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-verteidigt-umstrittene-stadtbild-aeusserung](https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-verteidigt-umstrittene-stadtbild-aeusserung-a-32e7b71d-931a-48d0-92d8-94f144c0caec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
-### proteste
-
-* [https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-verteidigt-umstrittene-stadtbild-aeusserung](https://www.spiegel.de/politik/friedrich-merz-bundeskanzler-verteidigt-umstrittene-stadtbild-aeusserung-a-32e7b71d-931a-48d0-92d8-94f144c0caec#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### rebecca
-
-* [https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz](https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz-a-8732f617-99e6-4eda-a9ab-7fb0942e6b57#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
-### reusch
-
-* [https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz](https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz-a-8732f617-99e6-4eda-a9ab-7fb0942e6b57#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz](https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz-a-8732f617-99e6-4eda-a9ab-7fb0942e6b57#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-zwischen-fomo-und-untergangsstimmung](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-zwischen-fomo-und-untergangsstimmung-a-cdfa58f2-2a8f-4c86-950d-599ae10e0ad4#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/madagaskar-herintsalama-rajaonarivelo-zum-neuen-premierminister-ernannt](https://www.spiegel.de/ausland/madagaskar-herintsalama-rajaonarivelo-zum-neuen-premierminister-ernannt-a-25970a38-b8a5-4d34-9e64-3252a5fbf677#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme-a-accf2c31-364d-4a6f-8b66-254aa1c6c2e9#ref=rss)
-* [https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen](https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen-a-ca6596df-2233-4bcb-8557-a19ec590a62e#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/afd-linke-parteien-und-ihre-selbstgerechtigkeit-im-kampf-gegen-rechts](https://www.spiegel.de/politik/deutschland/afd-linke-parteien-und-ihre-selbstgerechtigkeit-im-kampf-gegen-rechts-a-37f498ca-4b73-4a0e-a4c5-3249f1254aea#ref=rss)
-* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
-### südkorea
-
-* [https://www.spiegel.de/panorama/justiz/suedkorea-lehrerin-lockt-schuelerin-in-unterrichtsraum-und-ersticht-sie-lebenslange-haft](https://www.spiegel.de/panorama/justiz/suedkorea-lehrerin-lockt-schuelerin-in-unterrichtsraum-und-ersticht-sie-lebenslange-haft-a-c3016d57-ad63-48fc-9b1d-13722289d6af#ref=rss)
-### lehrerin
-
-* [https://www.spiegel.de/panorama/justiz/suedkorea-lehrerin-lockt-schuelerin-in-unterrichtsraum-und-ersticht-sie-lebenslange-haft](https://www.spiegel.de/panorama/justiz/suedkorea-lehrerin-lockt-schuelerin-in-unterrichtsraum-und-ersticht-sie-lebenslange-haft-a-c3016d57-ad63-48fc-9b1d-13722289d6af#ref=rss)
-### bulgarien
-
-* [https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen](https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen-a-90530fb2-8073-4c46-b4af-8220988532f9#ref=rss)
-### budapest
-
-* [https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen](https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen-a-90530fb2-8073-4c46-b4af-8220988532f9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme-a-accf2c31-364d-4a6f-8b66-254aa1c6c2e9#ref=rss)
-### eigentlich
-
-* [https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen](https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen-a-90530fb2-8073-4c46-b4af-8220988532f9#ref=rss)
-* [https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen](https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen-a-6fabae1a-d2a4-4a60-9f23-e3073a1bb5f6#ref=rss)
-### russische
-
-* [https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen](https://www.spiegel.de/ausland/bulgarien-putin-duerfte-ueber-eu-land-nach-budapest-fliegen-a-90530fb2-8073-4c46-b4af-8220988532f9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme-a-accf2c31-364d-4a6f-8b66-254aa1c6c2e9#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/erdnussallergie-aktualisierte-empfehlung-hat-60-000-kindern-in-den-usa-vor-allergie-bewahrt](https://www.spiegel.de/wissenschaft/erdnussallergie-aktualisierte-empfehlung-hat-60-000-kindern-in-den-usa-vor-allergie-bewahrt-a-d888e663-ac8f-45d7-a097-cb2284bf288a#ref=rss)
-* [https://www.spiegel.de/auto/kraftfahrt-bundesamt-e-autos-in-ostdeutschland-noch-wenig-verbreitet](https://www.spiegel.de/auto/kraftfahrt-bundesamt-e-autos-in-ostdeutschland-noch-wenig-verbreitet-a-41cb8cbb-0da2-4446-9a73-f437335c6d2d#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz](https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz-a-8732f617-99e6-4eda-a9ab-7fb0942e6b57#ref=rss)
-### grundstück
-
-* [https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz](https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz-a-8732f617-99e6-4eda-a9ab-7fb0942e6b57#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
-### brandenburg
-
-* [https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz](https://www.spiegel.de/panorama/justiz/vermisstenfall-rebecca-reusch-polizei-in-berlin-unterbricht-einsatz-a-8732f617-99e6-4eda-a9ab-7fb0942e6b57#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
-### kreuzbandriss
-
-* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss](https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss-a-6b0d4642-f430-4df3-9bce-46cd909f8b21#ref=rss)
-### schock
-
-* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
-### fußball
-
-* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
-### zweiten
-
-* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss](https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss-a-6b0d4642-f430-4df3-9bce-46cd909f8b21#ref=rss)
-### kreuzband
-
-* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss](https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss-a-6b0d4642-f430-4df3-9bce-46cd909f8b21#ref=rss)
-### gerissen
-
-* [https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball](https://www.spiegel.de/sport/fussball/lena-oberdorf-mit-zweitem-kreuzbandriss-ein-tragischer-fall-und-ein-schock-fuer-den-deutschen-fussball-a-1cede5d3-284f-4880-8aa5-37a8d4151d10#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss](https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss-a-6b0d4642-f430-4df3-9bce-46cd909f8b21#ref=rss)
-### openai
-
-* [https://www.spiegel.de/netzwelt/web/openai-eine-mathe-blamage-offenbart-die-probleme-beim-ki-konzern](https://www.spiegel.de/netzwelt/web/openai-eine-mathe-blamage-offenbart-die-probleme-beim-ki-konzern-a-abd7f179-d454-42af-bd21-070ce481e3c6#ref=rss)
-### probleme
-
-* [https://www.spiegel.de/netzwelt/web/openai-eine-mathe-blamage-offenbart-die-probleme-beim-ki-konzern](https://www.spiegel.de/netzwelt/web/openai-eine-mathe-blamage-offenbart-die-probleme-beim-ki-konzern-a-abd7f179-d454-42af-bd21-070ce481e3c6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gutachten-erhoeht-druck-auf-bahnvorstaendin-nikutta](https://www.spiegel.de/wirtschaft/gutachten-erhoeht-druck-auf-bahnvorstaendin-nikutta-a-a2bbb03e-61f3-40cb-bcf3-57422bd2fe40#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/netzwelt/web/openai-eine-mathe-blamage-offenbart-die-probleme-beim-ki-konzern](https://www.spiegel.de/netzwelt/web/openai-eine-mathe-blamage-offenbart-die-probleme-beim-ki-konzern-a-abd7f179-d454-42af-bd21-070ce481e3c6#ref=rss)
-* [https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter](https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter-a-abbb0484-eff5-443c-aee4-b0353bddcab5#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-einbruch-in-den-louvre-suche-nach-rebecca-reusch-a-c0b034ee-f29d-471a-808c-dfb7341f4302#ref=rss)
-* [https://www.spiegel.de/kultur/louvre-coup-das-sind-die-spektakulaersten-museumsueberfaelle-der-welt](https://www.spiegel.de/kultur/louvre-coup-das-sind-die-spektakulaersten-museumsueberfaelle-der-welt-a-b9e846a3-49df-4636-985f-4216ac5f23dc#ref=rss)
-### no
-
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### kingsdemos
-
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### stark
-
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### wirklich
-
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-armee-sucht-private-geldgeber-fuer-modernisierung](https://www.spiegel.de/wirtschaft/us-armee-sucht-private-geldgeber-fuer-modernisierung-a-aa70684e-b4e8-4d44-8e9c-6090b5c519d7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-und-europaeer-wollen-aktuelle-frontlinie-als-ausgangspunkt-von-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-und-europaeer-wollen-aktuelle-frontlinie-als-ausgangspunkt-von-verhandlungen-a-215968ab-3c58-478c-b48c-7146f79d0279#ref=rss)
+* [https://www.spiegel.de/ausland/erstmals-fuehrt-eine-frau-japans-regierung](https://www.spiegel.de/ausland/erstmals-fuehrt-eine-frau-japans-regierung-a-20746a08-7d6e-4913-8227-fdbf90f92101#ref=rss)
+* [https://www.spiegel.de/kultur/musik/saenger-kenny-loggins-gegen-nutzung-von-top-gun-song-durch-trump](https://www.spiegel.de/kultur/musik/saenger-kenny-loggins-gegen-nutzung-von-top-gun-song-durch-trump-a-421bc3fb-af7b-4d7f-bd88-d9abbe9b8dc9#ref=rss)
+* [https://www.spiegel.de/ausland/tal-haimi-hamas-uebergibt-weitere-geiselleiche-an-israel](https://www.spiegel.de/ausland/tal-haimi-hamas-uebergibt-weitere-geiselleiche-an-israel-a-f26a04df-e3aa-4d1e-8b72-3fd395c051c5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen](https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen-a-74596182-a596-4b9d-a1e8-1597e4c9cc83#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### demonstrieren
+* [https://www.spiegel.de/ausland/ukraine-hunderttausende-menschen-nach-russischem-angriff-ohne-strom](https://www.spiegel.de/ausland/ukraine-hunderttausende-menschen-nach-russischem-angriff-ohne-strom-a-7cf44cde-10ad-49c5-81fa-52bea68f9bf5#ref=rss)
+* [https://www.spiegel.de/panorama/leute/paris-hilton-inclusive-by-design-zeigt-adhs-gerechte-einrichtung](https://www.spiegel.de/panorama/leute/paris-hilton-inclusive-by-design-zeigt-adhs-gerechte-einrichtung-a-591783d7-104c-45cb-a8e6-afa92cb5016f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/gesundheit-schadet-lesen-unter-der-bettdecke-den-augen](https://www.spiegel.de/wissenschaft/mensch/gesundheit-schadet-lesen-unter-der-bettdecke-den-augen-a-4299bab3-17f1-4a19-9f62-7833fb12f59a#ref=rss)
+* [https://www.spiegel.de/start/wehrpflicht-warum-das-allgemeine-dienstjahr-der-wehrpflicht-ueberlegen-ist](https://www.spiegel.de/start/wehrpflicht-warum-das-allgemeine-dienstjahr-der-wehrpflicht-ueberlegen-ist-a-4f7ee818-b6d5-44e8-bf0d-6c36d80ab3a9#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### friedlich
+* [https://www.spiegel.de/wissenschaft/fleischkonsum-in-den-usa-co2-emissionen-uebersteigen-die-gesamten-emissionen-italiens](https://www.spiegel.de/wissenschaft/fleischkonsum-in-den-usa-co2-emissionen-uebersteigen-die-gesamten-emissionen-italiens-a-08a3f24b-f60e-456a-aa81-bce3e733a2e8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/shutdown-usa-ver-di-fordert-gehaltszahlung-fuer-beschaeftigte-der-us-streitkraefte-in-deutschland](https://www.spiegel.de/wirtschaft/shutdown-usa-ver-di-fordert-gehaltszahlung-fuer-beschaeftigte-der-us-streitkraefte-in-deutschland-a-076ea44a-9c8e-491a-9265-2d1f23db21d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen](https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen-a-74596182-a596-4b9d-a1e8-1597e4c9cc83#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### politik
+* [https://www.spiegel.de/wirtschaft/shutdown-usa-ver-di-fordert-gehaltszahlung-fuer-beschaeftigte-der-us-streitkraefte-in-deutschland](https://www.spiegel.de/wirtschaft/shutdown-usa-ver-di-fordert-gehaltszahlung-fuer-beschaeftigte-der-us-streitkraefte-in-deutschland-a-076ea44a-9c8e-491a-9265-2d1f23db21d7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-syrische-grossfamilie-aus-deutschland-ausgereist](https://www.spiegel.de/panorama/justiz/stuttgart-syrische-grossfamilie-aus-deutschland-ausgereist-a-2d822416-584a-4abc-a763-0b1e2bce8ff9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutschland-importiert-so-viel-pasta-wie-nie-zuvor](https://www.spiegel.de/wirtschaft/deutschland-importiert-so-viel-pasta-wie-nie-zuvor-a-df9bd061-6a56-4425-b834-41b42b3be9cd#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### präsidenten
+* [https://www.spiegel.de/wirtschaft/us-armee-sucht-private-geldgeber-fuer-modernisierung](https://www.spiegel.de/wirtschaft/us-armee-sucht-private-geldgeber-fuer-modernisierung-a-aa70684e-b4e8-4d44-8e9c-6090b5c519d7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-und-europaeer-wollen-aktuelle-frontlinie-als-ausgangspunkt-von-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-und-europaeer-wollen-aktuelle-frontlinie-als-ausgangspunkt-von-verhandlungen-a-215968ab-3c58-478c-b48c-7146f79d0279#ref=rss)
+* [https://www.spiegel.de/ausland/erstmals-fuehrt-eine-frau-japans-regierung](https://www.spiegel.de/ausland/erstmals-fuehrt-eine-frau-japans-regierung-a-20746a08-7d6e-4913-8227-fdbf90f92101#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen](https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen-a-74596182-a596-4b9d-a1e8-1597e4c9cc83#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### widerlegen
+* [https://www.spiegel.de/panorama/justiz/fall-rebecca-polizei-startet-weitere-durchsuchung-in-brandenburg](https://www.spiegel.de/panorama/justiz/fall-rebecca-polizei-startet-weitere-durchsuchung-in-brandenburg-a-836f3669-f5a1-4c99-a9d6-df0181c5c01d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-30-jaehrige-getoetet-polizei-sucht-international-nach-ex-partner](https://www.spiegel.de/panorama/justiz/bremen-30-jaehrige-getoetet-polizei-sucht-international-nach-ex-partner-a-a748b697-3830-45f6-8a60-7b82ea4b7191#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dettingen-an-der-erms-katze-erhaengt-aufgefunden](https://www.spiegel.de/panorama/justiz/dettingen-an-der-erms-katze-erhaengt-aufgefunden-a-61ac4334-6ee9-4c8a-8d40-e77536e69ceb#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### panikmache
+* [https://www.spiegel.de/ausland/ukraine-hunderttausende-menschen-nach-russischem-angriff-ohne-strom](https://www.spiegel.de/ausland/ukraine-hunderttausende-menschen-nach-russischem-angriff-ohne-strom-a-7cf44cde-10ad-49c5-81fa-52bea68f9bf5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-verlaengert-bis-2029](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-verlaengert-bis-2029-a-9601f05d-6a86-4ae2-b1fe-db101b3866be#ref=rss)
+* [https://www.spiegel.de/wirtschaft/shutdown-usa-ver-di-fordert-gehaltszahlung-fuer-beschaeftigte-der-us-streitkraefte-in-deutschland](https://www.spiegel.de/wirtschaft/shutdown-usa-ver-di-fordert-gehaltszahlung-fuer-beschaeftigte-der-us-streitkraefte-in-deutschland-a-076ea44a-9c8e-491a-9265-2d1f23db21d7#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### gewalt
+* [https://www.spiegel.de/ausland/ukraine-hunderttausende-menschen-nach-russischem-angriff-ohne-strom](https://www.spiegel.de/ausland/ukraine-hunderttausende-menschen-nach-russischem-angriff-ohne-strom-a-7cf44cde-10ad-49c5-81fa-52bea68f9bf5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/gesundheit-schadet-lesen-unter-der-bettdecke-den-augen](https://www.spiegel.de/wissenschaft/mensch/gesundheit-schadet-lesen-unter-der-bettdecke-den-augen-a-4299bab3-17f1-4a19-9f62-7833fb12f59a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-syrische-grossfamilie-aus-deutschland-ausgereist](https://www.spiegel.de/panorama/justiz/stuttgart-syrische-grossfamilie-aus-deutschland-ausgereist-a-2d822416-584a-4abc-a763-0b1e2bce8ff9#ref=rss)
+### junge
 
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### chaos
+* [https://www.spiegel.de/politik/deutschland/union-im-bundestag-junge-gruppe-sieht-sich-im-widerstand-gegen-rentenpaket-bestaerkt](https://www.spiegel.de/politik/deutschland/union-im-bundestag-junge-gruppe-sieht-sich-im-widerstand-gegen-rentenpaket-bestaerkt-a-ddcb0c98-abb7-4619-97ae-4db1268ab0c5#ref=rss)
+* [https://www.spiegel.de/ausland/wien-jugendliche-vergewaltigten-lehrerin-sie-hat-so-eine-angst-gehabt](https://www.spiegel.de/ausland/wien-jugendliche-vergewaltigten-lehrerin-sie-hat-so-eine-angst-gehabt-a-c9bb0c7b-c288-44f7-a865-8967fab06c29#ref=rss)
+* [https://www.spiegel.de/start/wehrpflicht-warum-das-allgemeine-dienstjahr-der-wehrpflicht-ueberlegen-ist](https://www.spiegel.de/start/wehrpflicht-warum-das-allgemeine-dienstjahr-der-wehrpflicht-ueberlegen-ist-a-4f7ee818-b6d5-44e8-bf0d-6c36d80ab3a9#ref=rss)
+### fc
 
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### usdemokraten
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-verlaengert-bis-2029](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-verlaengert-bis-2029-a-9601f05d-6a86-4ae2-b1fe-db101b3866be#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr](https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr-a-353318ac-77f1-4e75-986a-4138dd014a7f#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### wachsenden
+* [https://www.spiegel.de/wirtschaft/us-armee-sucht-private-geldgeber-fuer-modernisierung](https://www.spiegel.de/wirtschaft/us-armee-sucht-private-geldgeber-fuer-modernisierung-a-aa70684e-b4e8-4d44-8e9c-6090b5c519d7#ref=rss)
+* [https://www.spiegel.de/kultur/musik/saenger-kenny-loggins-gegen-nutzung-von-top-gun-song-durch-trump](https://www.spiegel.de/kultur/musik/saenger-kenny-loggins-gegen-nutzung-von-top-gun-song-durch-trump-a-421bc3fb-af7b-4d7f-bd88-d9abbe9b8dc9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen](https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen-a-74596182-a596-4b9d-a1e8-1597e4c9cc83#ref=rss)
+### paris
 
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### protest
+* [https://www.spiegel.de/panorama/justiz/louvre-in-paris-nach-einbruch-und-diebstahl-von-juwelen-wie-sicher-sind-deutsche-museen](https://www.spiegel.de/panorama/justiz/louvre-in-paris-nach-einbruch-und-diebstahl-von-juwelen-wie-sicher-sind-deutsche-museen-a-489d80be-b35a-4f57-8cdd-a0f2d5923de2#ref=rss)
+* [https://www.spiegel.de/panorama/leute/paris-hilton-inclusive-by-design-zeigt-adhs-gerechte-einrichtung](https://www.spiegel.de/panorama/leute/paris-hilton-inclusive-by-design-zeigt-adhs-gerechte-einrichtung-a-591783d7-104c-45cb-a8e6-afa92cb5016f#ref=rss)
+### museen
 
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### profitieren
+* [https://www.spiegel.de/panorama/justiz/louvre-in-paris-nach-einbruch-und-diebstahl-von-juwelen-wie-sicher-sind-deutsche-museen](https://www.spiegel.de/panorama/justiz/louvre-in-paris-nach-einbruch-und-diebstahl-von-juwelen-wie-sicher-sind-deutsche-museen-a-489d80be-b35a-4f57-8cdd-a0f2d5923de2#ref=rss)
+### hilton
 
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-wie-stark-sind-die-proteste-wirklich-podcast-a-8b75f098-1f9c-4ea5-ad76-3ec69e227db9#ref=rss)
-* [https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich](https://www.spiegel.de/ausland/no-kings-demos-gegen-donald-trump-so-stark-sind-die-proteste-wirklich-a-7bfc2a35-f459-4287-a34b-7c335d20305a#ref=rss)
-### madagaskar
+* [https://www.spiegel.de/panorama/leute/paris-hilton-inclusive-by-design-zeigt-adhs-gerechte-einrichtung](https://www.spiegel.de/panorama/leute/paris-hilton-inclusive-by-design-zeigt-adhs-gerechte-einrichtung-a-591783d7-104c-45cb-a8e6-afa92cb5016f#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/ausland/madagaskar-herintsalama-rajaonarivelo-zum-neuen-premierminister-ernannt](https://www.spiegel.de/ausland/madagaskar-herintsalama-rajaonarivelo-zum-neuen-premierminister-ernannt-a-25970a38-b8a5-4d34-9e64-3252a5fbf677#ref=rss)
-### neuen
+* [https://www.spiegel.de/panorama/leute/paris-hilton-inclusive-by-design-zeigt-adhs-gerechte-einrichtung](https://www.spiegel.de/panorama/leute/paris-hilton-inclusive-by-design-zeigt-adhs-gerechte-einrichtung-a-591783d7-104c-45cb-a8e6-afa92cb5016f#ref=rss)
+* [https://www.spiegel.de/kultur/musik/saenger-kenny-loggins-gegen-nutzung-von-top-gun-song-durch-trump](https://www.spiegel.de/kultur/musik/saenger-kenny-loggins-gegen-nutzung-von-top-gun-song-durch-trump-a-421bc3fb-af7b-4d7f-bd88-d9abbe9b8dc9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/naturzerstoerung-eu-versagt-offenbar-beim-schutz-indonesischer-tropenwaelder](https://www.spiegel.de/wirtschaft/service/naturzerstoerung-eu-versagt-offenbar-beim-schutz-indonesischer-tropenwaelder-a-ad8f73ff-58b9-4741-b9ee-751da20cb4b0#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/ausland/madagaskar-herintsalama-rajaonarivelo-zum-neuen-premierminister-ernannt](https://www.spiegel.de/ausland/madagaskar-herintsalama-rajaonarivelo-zum-neuen-premierminister-ernannt-a-25970a38-b8a5-4d34-9e64-3252a5fbf677#ref=rss)
-### welt
-
-* [https://www.spiegel.de/kultur/louvre-coup-das-sind-die-spektakulaersten-museumsueberfaelle-der-welt](https://www.spiegel.de/kultur/louvre-coup-das-sind-die-spektakulaersten-museumsueberfaelle-der-welt-a-b9e846a3-49df-4636-985f-4216ac5f23dc#ref=rss)
-* [https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so](https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so-a-37f01940-235d-4d4f-9b7c-e993d71adfd6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/shutdown-usa-ver-di-fordert-gehaltszahlung-fuer-beschaeftigte-der-us-streitkraefte-in-deutschland](https://www.spiegel.de/wirtschaft/shutdown-usa-ver-di-fordert-gehaltszahlung-fuer-beschaeftigte-der-us-streitkraefte-in-deutschland-a-076ea44a-9c8e-491a-9265-2d1f23db21d7#ref=rss)
+* [https://www.spiegel.de/kultur/kino/ben-stiller-comedians-muessen-den-maechtigen-die-meinung-sagen](https://www.spiegel.de/kultur/kino/ben-stiller-comedians-muessen-den-maechtigen-die-meinung-sagen-a-5d4316ed-71a6-448b-9ee3-c1ea3890298c#ref=rss)
+* [https://www.spiegel.de/politik/cdu-sozialfluegel-kritisiert-stadtbild-aussage-von-friedrich-merz](https://www.spiegel.de/politik/cdu-sozialfluegel-kritisiert-stadtbild-aussage-von-friedrich-merz-a-68339e27-220c-431a-810d-3d4bb2e92c24#ref=rss)
 ### druck
 
-* [https://www.spiegel.de/wirtschaft/gutachten-erhoeht-druck-auf-bahnvorstaendin-nikutta](https://www.spiegel.de/wirtschaft/gutachten-erhoeht-druck-auf-bahnvorstaendin-nikutta-a-a2bbb03e-61f3-40cb-bcf3-57422bd2fe40#ref=rss)
-* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
-### stellt
+* [https://www.spiegel.de/kultur/kino/ben-stiller-comedians-muessen-den-maechtigen-die-meinung-sagen](https://www.spiegel.de/kultur/kino/ben-stiller-comedians-muessen-den-maechtigen-die-meinung-sagen-a-5d4316ed-71a6-448b-9ee3-c1ea3890298c#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-wie-keir-starmer-zwischen-nigel-farage-und-jeremy-corbyn-unter-druck-geraet](https://www.spiegel.de/ausland/grossbritannien-wie-keir-starmer-zwischen-nigel-farage-und-jeremy-corbyn-unter-druck-geraet-a-62699c10-6b18-45f1-a44c-a1b0e336bd02#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-syrische-grossfamilie-aus-deutschland-ausgereist](https://www.spiegel.de/panorama/justiz/stuttgart-syrische-grossfamilie-aus-deutschland-ausgereist-a-2d822416-584a-4abc-a763-0b1e2bce8ff9#ref=rss)
+### sarkozy
 
-* [https://www.spiegel.de/wirtschaft/gutachten-erhoeht-druck-auf-bahnvorstaendin-nikutta](https://www.spiegel.de/wirtschaft/gutachten-erhoeht-druck-auf-bahnvorstaendin-nikutta-a-a2bbb03e-61f3-40cb-bcf3-57422bd2fe40#ref=rss)
-* [https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter](https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter-a-abbb0484-eff5-443c-aee4-b0353bddcab5#ref=rss)
-### 1
+* [https://www.spiegel.de/ausland/was-ex-praesident-nicolas-sarkozy-im-knast-erwartet](https://www.spiegel.de/ausland/was-ex-praesident-nicolas-sarkozy-im-knast-erwartet-a-85223dfb-850d-4227-ad49-3b86d532c1ad#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-austin-red-bull-muss-50-000-euro-strafe-zahlen-sabotageverdacht](https://www.spiegel.de/sport/formel1/formel-1-in-austin-red-bull-muss-50-000-euro-strafe-zahlen-sabotageverdacht-a-b25d9b6f-860e-40bd-8241-bab29e6261eb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss](https://www.spiegel.de/sport/fussball/lena-oberdorf-dfb-nationalspielerin-erleidet-erneuten-kreuzbandriss-a-6b0d4642-f430-4df3-9bce-46cd909f8b21#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-hunderttausende-menschen-nach-russischem-angriff-ohne-strom](https://www.spiegel.de/ausland/ukraine-hunderttausende-menschen-nach-russischem-angriff-ohne-strom-a-7cf44cde-10ad-49c5-81fa-52bea68f9bf5#ref=rss)
+### strom
+
+* [https://www.spiegel.de/ausland/ukraine-hunderttausende-menschen-nach-russischem-angriff-ohne-strom](https://www.spiegel.de/ausland/ukraine-hunderttausende-menschen-nach-russischem-angriff-ohne-strom-a-7cf44cde-10ad-49c5-81fa-52bea68f9bf5#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/ausland/ukraine-hunderttausende-menschen-nach-russischem-angriff-ohne-strom](https://www.spiegel.de/ausland/ukraine-hunderttausende-menschen-nach-russischem-angriff-ohne-strom-a-7cf44cde-10ad-49c5-81fa-52bea68f9bf5#ref=rss)
+* [https://www.spiegel.de/ausland/was-ex-praesident-nicolas-sarkozy-im-knast-erwartet](https://www.spiegel.de/ausland/was-ex-praesident-nicolas-sarkozy-im-knast-erwartet-a-85223dfb-850d-4227-ad49-3b86d532c1ad#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/union-im-bundestag-junge-gruppe-sieht-sich-im-widerstand-gegen-rentenpaket-bestaerkt](https://www.spiegel.de/politik/deutschland/union-im-bundestag-junge-gruppe-sieht-sich-im-widerstand-gegen-rentenpaket-bestaerkt-a-ddcb0c98-abb7-4619-97ae-4db1268ab0c5#ref=rss)
+### gruppe
+
+* [https://www.spiegel.de/politik/deutschland/union-im-bundestag-junge-gruppe-sieht-sich-im-widerstand-gegen-rentenpaket-bestaerkt](https://www.spiegel.de/politik/deutschland/union-im-bundestag-junge-gruppe-sieht-sich-im-widerstand-gegen-rentenpaket-bestaerkt-a-ddcb0c98-abb7-4619-97ae-4db1268ab0c5#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/union-im-bundestag-junge-gruppe-sieht-sich-im-widerstand-gegen-rentenpaket-bestaerkt](https://www.spiegel.de/politik/deutschland/union-im-bundestag-junge-gruppe-sieht-sich-im-widerstand-gegen-rentenpaket-bestaerkt-a-ddcb0c98-abb7-4619-97ae-4db1268ab0c5#ref=rss)
+* [https://www.spiegel.de/kultur/kino/ben-stiller-comedians-muessen-den-maechtigen-die-meinung-sagen](https://www.spiegel.de/kultur/kino/ben-stiller-comedians-muessen-den-maechtigen-die-meinung-sagen-a-5d4316ed-71a6-448b-9ee3-c1ea3890298c#ref=rss)
+### widerstand
+
+* [https://www.spiegel.de/politik/deutschland/union-im-bundestag-junge-gruppe-sieht-sich-im-widerstand-gegen-rentenpaket-bestaerkt](https://www.spiegel.de/politik/deutschland/union-im-bundestag-junge-gruppe-sieht-sich-im-widerstand-gegen-rentenpaket-bestaerkt-a-ddcb0c98-abb7-4619-97ae-4db1268ab0c5#ref=rss)
+### rentenpaket
+
+* [https://www.spiegel.de/politik/deutschland/union-im-bundestag-junge-gruppe-sieht-sich-im-widerstand-gegen-rentenpaket-bestaerkt](https://www.spiegel.de/politik/deutschland/union-im-bundestag-junge-gruppe-sieht-sich-im-widerstand-gegen-rentenpaket-bestaerkt-a-ddcb0c98-abb7-4619-97ae-4db1268ab0c5#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/politik/deutschland/union-im-bundestag-junge-gruppe-sieht-sich-im-widerstand-gegen-rentenpaket-bestaerkt](https://www.spiegel.de/politik/deutschland/union-im-bundestag-junge-gruppe-sieht-sich-im-widerstand-gegen-rentenpaket-bestaerkt-a-ddcb0c98-abb7-4619-97ae-4db1268ab0c5#ref=rss)
+* [https://www.spiegel.de/politik/cdu-sozialfluegel-kritisiert-stadtbild-aussage-von-friedrich-merz](https://www.spiegel.de/politik/cdu-sozialfluegel-kritisiert-stadtbild-aussage-von-friedrich-merz-a-68339e27-220c-431a-810d-3d4bb2e92c24#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/slowakei-gericht-verurteilt-fico-attentaeter-zu-21-jahren-haft](https://www.spiegel.de/ausland/slowakei-gericht-verurteilt-fico-attentaeter-zu-21-jahren-haft-a-12e86495-7da4-4c46-a099-56bc894bcdbe#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/ausland/slowakei-gericht-verurteilt-fico-attentaeter-zu-21-jahren-haft](https://www.spiegel.de/ausland/slowakei-gericht-verurteilt-fico-attentaeter-zu-21-jahren-haft-a-12e86495-7da4-4c46-a099-56bc894bcdbe#ref=rss)
+* [https://www.spiegel.de/ausland/wien-jugendliche-vergewaltigten-lehrerin-sie-hat-so-eine-angst-gehabt](https://www.spiegel.de/ausland/wien-jugendliche-vergewaltigten-lehrerin-sie-hat-so-eine-angst-gehabt-a-c9bb0c7b-c288-44f7-a865-8967fab06c29#ref=rss)
+### 21
+
+* [https://www.spiegel.de/ausland/slowakei-gericht-verurteilt-fico-attentaeter-zu-21-jahren-haft](https://www.spiegel.de/ausland/slowakei-gericht-verurteilt-fico-attentaeter-zu-21-jahren-haft-a-12e86495-7da4-4c46-a099-56bc894bcdbe#ref=rss)
+### mann
+
+* [https://www.spiegel.de/ausland/slowakei-gericht-verurteilt-fico-attentaeter-zu-21-jahren-haft](https://www.spiegel.de/ausland/slowakei-gericht-verurteilt-fico-attentaeter-zu-21-jahren-haft-a-12e86495-7da4-4c46-a099-56bc894bcdbe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-30-jaehrige-getoetet-polizei-sucht-international-nach-ex-partner](https://www.spiegel.de/panorama/justiz/bremen-30-jaehrige-getoetet-polizei-sucht-international-nach-ex-partner-a-a748b697-3830-45f6-8a60-7b82ea4b7191#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/ausland/slowakei-gericht-verurteilt-fico-attentaeter-zu-21-jahren-haft](https://www.spiegel.de/ausland/slowakei-gericht-verurteilt-fico-attentaeter-zu-21-jahren-haft-a-12e86495-7da4-4c46-a099-56bc894bcdbe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-30-jaehrige-getoetet-polizei-sucht-international-nach-ex-partner](https://www.spiegel.de/panorama/justiz/bremen-30-jaehrige-getoetet-polizei-sucht-international-nach-ex-partner-a-a748b697-3830-45f6-8a60-7b82ea4b7191#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/ausland/slowakei-gericht-verurteilt-fico-attentaeter-zu-21-jahren-haft](https://www.spiegel.de/ausland/slowakei-gericht-verurteilt-fico-attentaeter-zu-21-jahren-haft-a-12e86495-7da4-4c46-a099-56bc894bcdbe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-rebecca-polizei-startet-weitere-durchsuchung-in-brandenburg](https://www.spiegel.de/panorama/justiz/fall-rebecca-polizei-startet-weitere-durchsuchung-in-brandenburg-a-836f3669-f5a1-4c99-a9d6-df0181c5c01d#ref=rss)
+### gefängnis
+
+* [https://www.spiegel.de/ausland/slowakei-gericht-verurteilt-fico-attentaeter-zu-21-jahren-haft](https://www.spiegel.de/ausland/slowakei-gericht-verurteilt-fico-attentaeter-zu-21-jahren-haft-a-12e86495-7da4-4c46-a099-56bc894bcdbe#ref=rss)
+* [https://www.spiegel.de/ausland/was-ex-praesident-nicolas-sarkozy-im-knast-erwartet](https://www.spiegel.de/ausland/was-ex-praesident-nicolas-sarkozy-im-knast-erwartet-a-85223dfb-850d-4227-ad49-3b86d532c1ad#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-verlaengert-bis-2029](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-verlaengert-bis-2029-a-9601f05d-6a86-4ae2-b1fe-db101b3866be#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/abensberg-mutmassliche-liebesbetruegerin-in-bayern-festgenommen](https://www.spiegel.de/panorama/justiz/abensberg-mutmassliche-liebesbetruegerin-in-bayern-festgenommen-a-2d6f8618-a137-43d2-ae85-1cc463cf1569#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-verlaengert-bis-2029](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-verlaengert-bis-2029-a-9601f05d-6a86-4ae2-b1fe-db101b3866be#ref=rss)
+### vincent
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-verlaengert-bis-2029](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-verlaengert-bis-2029-a-9601f05d-6a86-4ae2-b1fe-db101b3866be#ref=rss)
+### kompany
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-verlaengert-bis-2029](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-verlaengert-bis-2029-a-9601f05d-6a86-4ae2-b1fe-db101b3866be#ref=rss)
+### kleiner
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-verlaengert-bis-2029](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-vincent-kompany-verlaengert-bis-2029-a-9601f05d-6a86-4ae2-b1fe-db101b3866be#ref=rss)
+* [https://www.spiegel.de/ausland/was-ex-praesident-nicolas-sarkozy-im-knast-erwartet](https://www.spiegel.de/ausland/was-ex-praesident-nicolas-sarkozy-im-knast-erwartet-a-85223dfb-850d-4227-ad49-3b86d532c1ad#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/panorama/justiz/abensberg-mutmassliche-liebesbetruegerin-in-bayern-festgenommen](https://www.spiegel.de/panorama/justiz/abensberg-mutmassliche-liebesbetruegerin-in-bayern-festgenommen-a-2d6f8618-a137-43d2-ae85-1cc463cf1569#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/justiz/abensberg-mutmassliche-liebesbetruegerin-in-bayern-festgenommen](https://www.spiegel.de/panorama/justiz/abensberg-mutmassliche-liebesbetruegerin-in-bayern-festgenommen-a-2d6f8618-a137-43d2-ae85-1cc463cf1569#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/naturzerstoerung-eu-versagt-offenbar-beim-schutz-indonesischer-tropenwaelder](https://www.spiegel.de/wirtschaft/service/naturzerstoerung-eu-versagt-offenbar-beim-schutz-indonesischer-tropenwaelder-a-ad8f73ff-58b9-4741-b9ee-751da20cb4b0#ref=rss)
+### keira
+
+* [https://www.spiegel.de/panorama/leute/keira-knightley-so-erlebte-sie-den-terror-der-paparazzi](https://www.spiegel.de/panorama/leute/keira-knightley-so-erlebte-sie-den-terror-der-paparazzi-a-a06acf03-d42b-4c2a-806e-e83f7e45dc2c#ref=rss)
+### knightley
+
+* [https://www.spiegel.de/panorama/leute/keira-knightley-so-erlebte-sie-den-terror-der-paparazzi](https://www.spiegel.de/panorama/leute/keira-knightley-so-erlebte-sie-den-terror-der-paparazzi-a-a06acf03-d42b-4c2a-806e-e83f7e45dc2c#ref=rss)
+### sucht
+
+* [https://www.spiegel.de/wirtschaft/us-armee-sucht-private-geldgeber-fuer-modernisierung](https://www.spiegel.de/wirtschaft/us-armee-sucht-private-geldgeber-fuer-modernisierung-a-aa70684e-b4e8-4d44-8e9c-6090b5c519d7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-30-jaehrige-getoetet-polizei-sucht-international-nach-ex-partner](https://www.spiegel.de/panorama/justiz/bremen-30-jaehrige-getoetet-polizei-sucht-international-nach-ex-partner-a-a748b697-3830-45f6-8a60-7b82ea4b7191#ref=rss)
+### private
+
+* [https://www.spiegel.de/wirtschaft/us-armee-sucht-private-geldgeber-fuer-modernisierung](https://www.spiegel.de/wirtschaft/us-armee-sucht-private-geldgeber-fuer-modernisierung-a-aa70684e-b4e8-4d44-8e9c-6090b5c519d7#ref=rss)
+### modernisierung
+
+* [https://www.spiegel.de/wirtschaft/us-armee-sucht-private-geldgeber-fuer-modernisierung](https://www.spiegel.de/wirtschaft/us-armee-sucht-private-geldgeber-fuer-modernisierung-a-aa70684e-b4e8-4d44-8e9c-6090b5c519d7#ref=rss)
+### louvre
+
+* [https://www.spiegel.de/panorama/justiz/louvre-in-paris-nach-einbruch-und-diebstahl-von-juwelen-wie-sicher-sind-deutsche-museen](https://www.spiegel.de/panorama/justiz/louvre-in-paris-nach-einbruch-und-diebstahl-von-juwelen-wie-sicher-sind-deutsche-museen-a-489d80be-b35a-4f57-8cdd-a0f2d5923de2#ref=rss)
+### einbruch
+
+* [https://www.spiegel.de/panorama/justiz/louvre-in-paris-nach-einbruch-und-diebstahl-von-juwelen-wie-sicher-sind-deutsche-museen](https://www.spiegel.de/panorama/justiz/louvre-in-paris-nach-einbruch-und-diebstahl-von-juwelen-wie-sicher-sind-deutsche-museen-a-489d80be-b35a-4f57-8cdd-a0f2d5923de2#ref=rss)
+### diebstahl
+
+* [https://www.spiegel.de/panorama/justiz/louvre-in-paris-nach-einbruch-und-diebstahl-von-juwelen-wie-sicher-sind-deutsche-museen](https://www.spiegel.de/panorama/justiz/louvre-in-paris-nach-einbruch-und-diebstahl-von-juwelen-wie-sicher-sind-deutsche-museen-a-489d80be-b35a-4f57-8cdd-a0f2d5923de2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-syrische-grossfamilie-aus-deutschland-ausgereist](https://www.spiegel.de/panorama/justiz/stuttgart-syrische-grossfamilie-aus-deutschland-ausgereist-a-2d822416-584a-4abc-a763-0b1e2bce8ff9#ref=rss)
+### täter
+
+* [https://www.spiegel.de/panorama/justiz/louvre-in-paris-nach-einbruch-und-diebstahl-von-juwelen-wie-sicher-sind-deutsche-museen](https://www.spiegel.de/panorama/justiz/louvre-in-paris-nach-einbruch-und-diebstahl-von-juwelen-wie-sicher-sind-deutsche-museen-a-489d80be-b35a-4f57-8cdd-a0f2d5923de2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dettingen-an-der-erms-katze-erhaengt-aufgefunden](https://www.spiegel.de/panorama/justiz/dettingen-an-der-erms-katze-erhaengt-aufgefunden-a-61ac4334-6ee9-4c8a-8d40-e77536e69ceb#ref=rss)
 ### selenskyj
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-fordert-25-patriot-flugabwehrsysteme-a-accf2c31-364d-4a6f-8b66-254aa1c6c2e9#ref=rss)
-### kulturstaatsminister
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-und-europaeer-wollen-aktuelle-frontlinie-als-ausgangspunkt-von-verhandlungen](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-und-europaeer-wollen-aktuelle-frontlinie-als-ausgangspunkt-von-verhandlungen-a-215968ab-3c58-478c-b48c-7146f79d0279#ref=rss)
+### inclusive
 
-* [https://www.spiegel.de/kultur/wolfram-weimer-hat-der-kulturstaatsminister-texte-von-der-afd-geklaut](https://www.spiegel.de/kultur/wolfram-weimer-hat-der-kulturstaatsminister-texte-von-der-afd-geklaut-a-0c594796-cf2e-487a-96e7-1d71bdf83b37#ref=rss)
-### essen
+* [https://www.spiegel.de/panorama/leute/paris-hilton-inclusive-by-design-zeigt-adhs-gerechte-einrichtung](https://www.spiegel.de/panorama/leute/paris-hilton-inclusive-by-design-zeigt-adhs-gerechte-einrichtung-a-591783d7-104c-45cb-a8e6-afa92cb5016f#ref=rss)
+### by
 
-* [https://www.spiegel.de/panorama/justiz/essen-mehr-als-40-islamische-graeber-auf-friedhof-beschaedigt](https://www.spiegel.de/panorama/justiz/essen-mehr-als-40-islamische-graeber-auf-friedhof-beschaedigt-a-568b192b-df8f-4e0e-913a-8ebb64f121cb#ref=rss)
-### mehr
+* [https://www.spiegel.de/panorama/leute/paris-hilton-inclusive-by-design-zeigt-adhs-gerechte-einrichtung](https://www.spiegel.de/panorama/leute/paris-hilton-inclusive-by-design-zeigt-adhs-gerechte-einrichtung-a-591783d7-104c-45cb-a8e6-afa92cb5016f#ref=rss)
+### design
 
-* [https://www.spiegel.de/panorama/justiz/essen-mehr-als-40-islamische-graeber-auf-friedhof-beschaedigt](https://www.spiegel.de/panorama/justiz/essen-mehr-als-40-islamische-graeber-auf-friedhof-beschaedigt-a-568b192b-df8f-4e0e-913a-8ebb64f121cb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/social-media-nutzung-bei-jugendlichen-mehr-zeit-auf-sozialen-medien-schlechtere-testergebnisse](https://www.spiegel.de/wissenschaft/social-media-nutzung-bei-jugendlichen-mehr-zeit-auf-sozialen-medien-schlechtere-testergebnisse-a-fa5ef245-aeda-4fb1-b22c-ec75256507e5#ref=rss)
-### islamische
+* [https://www.spiegel.de/panorama/leute/paris-hilton-inclusive-by-design-zeigt-adhs-gerechte-einrichtung](https://www.spiegel.de/panorama/leute/paris-hilton-inclusive-by-design-zeigt-adhs-gerechte-einrichtung-a-591783d7-104c-45cb-a8e6-afa92cb5016f#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/panorama/justiz/essen-mehr-als-40-islamische-graeber-auf-friedhof-beschaedigt](https://www.spiegel.de/panorama/justiz/essen-mehr-als-40-islamische-graeber-auf-friedhof-beschaedigt-a-568b192b-df8f-4e0e-913a-8ebb64f121cb#ref=rss)
-### gräber
+* [https://www.spiegel.de/panorama/leute/paris-hilton-inclusive-by-design-zeigt-adhs-gerechte-einrichtung](https://www.spiegel.de/panorama/leute/paris-hilton-inclusive-by-design-zeigt-adhs-gerechte-einrichtung-a-591783d7-104c-45cb-a8e6-afa92cb5016f#ref=rss)
+* [https://www.spiegel.de/ausland/wien-jugendliche-vergewaltigten-lehrerin-sie-hat-so-eine-angst-gehabt](https://www.spiegel.de/ausland/wien-jugendliche-vergewaltigten-lehrerin-sie-hat-so-eine-angst-gehabt-a-c9bb0c7b-c288-44f7-a865-8967fab06c29#ref=rss)
+### jürgen
 
-* [https://www.spiegel.de/panorama/justiz/essen-mehr-als-40-islamische-graeber-auf-friedhof-beschaedigt](https://www.spiegel.de/panorama/justiz/essen-mehr-als-40-islamische-graeber-auf-friedhof-beschaedigt-a-568b192b-df8f-4e0e-913a-8ebb64f121cb#ref=rss)
-### juwelenklau
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr](https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr-a-353318ac-77f1-4e75-986a-4138dd014a7f#ref=rss)
+### klopp
 
-* [https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so](https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so-a-37f01940-235d-4d4f-9b7c-e993d71adfd6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr](https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr-a-353318ac-77f1-4e75-986a-4138dd014a7f#ref=rss)
+### liverpool
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr](https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr-a-353318ac-77f1-4e75-986a-4138dd014a7f#ref=rss)
+### tod
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr](https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr-a-353318ac-77f1-4e75-986a-4138dd014a7f#ref=rss)
+### diogo
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr](https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr-a-353318ac-77f1-4e75-986a-4138dd014a7f#ref=rss)
+### weiterhin
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr](https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr-a-353318ac-77f1-4e75-986a-4138dd014a7f#ref=rss)
+* [https://www.spiegel.de/ausland/tal-haimi-hamas-uebergibt-weitere-geiselleiche-an-israel](https://www.spiegel.de/ausland/tal-haimi-hamas-uebergibt-weitere-geiselleiche-an-israel-a-f26a04df-e3aa-4d1e-8b72-3fd395c051c5#ref=rss)
+### seines
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr](https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr-a-353318ac-77f1-4e75-986a-4138dd014a7f#ref=rss)
+* [https://www.spiegel.de/politik/cdu-sozialfluegel-kritisiert-stadtbild-aussage-von-friedrich-merz](https://www.spiegel.de/politik/cdu-sozialfluegel-kritisiert-stadtbild-aussage-von-friedrich-merz-a-68339e27-220c-431a-810d-3d4bb2e92c24#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr](https://www.spiegel.de/sport/fussball/juergen-klopp-wie-der-ex-trainer-des-fc-liverpool-vom-tod-diogo-jotas-erfuhr-a-353318ac-77f1-4e75-986a-4138dd014a7f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen](https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen-a-74596182-a596-4b9d-a1e8-1597e4c9cc83#ref=rss)
+### verdi
+
+* [https://www.spiegel.de/wirtschaft/shutdown-usa-ver-di-fordert-gehaltszahlung-fuer-beschaeftigte-der-us-streitkraefte-in-deutschland](https://www.spiegel.de/wirtschaft/shutdown-usa-ver-di-fordert-gehaltszahlung-fuer-beschaeftigte-der-us-streitkraefte-in-deutschland-a-076ea44a-9c8e-491a-9265-2d1f23db21d7#ref=rss)
+### ben
+
+* [https://www.spiegel.de/kultur/kino/ben-stiller-comedians-muessen-den-maechtigen-die-meinung-sagen](https://www.spiegel.de/kultur/kino/ben-stiller-comedians-muessen-den-maechtigen-die-meinung-sagen-a-5d4316ed-71a6-448b-9ee3-c1ea3890298c#ref=rss)
+### stiller
+
+* [https://www.spiegel.de/kultur/kino/ben-stiller-comedians-muessen-den-maechtigen-die-meinung-sagen](https://www.spiegel.de/kultur/kino/ben-stiller-comedians-muessen-den-maechtigen-die-meinung-sagen-a-5d4316ed-71a6-448b-9ee3-c1ea3890298c#ref=rss)
+### rebecca
+
+* [https://www.spiegel.de/panorama/justiz/fall-rebecca-polizei-startet-weitere-durchsuchung-in-brandenburg](https://www.spiegel.de/panorama/justiz/fall-rebecca-polizei-startet-weitere-durchsuchung-in-brandenburg-a-836f3669-f5a1-4c99-a9d6-df0181c5c01d#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/panorama/justiz/fall-rebecca-polizei-startet-weitere-durchsuchung-in-brandenburg](https://www.spiegel.de/panorama/justiz/fall-rebecca-polizei-startet-weitere-durchsuchung-in-brandenburg-a-836f3669-f5a1-4c99-a9d6-df0181c5c01d#ref=rss)
+### sechs
+
+* [https://www.spiegel.de/panorama/justiz/fall-rebecca-polizei-startet-weitere-durchsuchung-in-brandenburg](https://www.spiegel.de/panorama/justiz/fall-rebecca-polizei-startet-weitere-durchsuchung-in-brandenburg-a-836f3669-f5a1-4c99-a9d6-df0181c5c01d#ref=rss)
+* [https://www.spiegel.de/ausland/wien-jugendliche-vergewaltigten-lehrerin-sie-hat-so-eine-angst-gehabt](https://www.spiegel.de/ausland/wien-jugendliche-vergewaltigten-lehrerin-sie-hat-so-eine-angst-gehabt-a-c9bb0c7b-c288-44f7-a865-8967fab06c29#ref=rss)
+### veröffentlichte
+
+* [https://www.spiegel.de/panorama/justiz/fall-rebecca-polizei-startet-weitere-durchsuchung-in-brandenburg](https://www.spiegel.de/panorama/justiz/fall-rebecca-polizei-startet-weitere-durchsuchung-in-brandenburg-a-836f3669-f5a1-4c99-a9d6-df0181c5c01d#ref=rss)
+* [https://www.spiegel.de/kultur/musik/saenger-kenny-loggins-gegen-nutzung-von-top-gun-song-durch-trump](https://www.spiegel.de/kultur/musik/saenger-kenny-loggins-gegen-nutzung-von-top-gun-song-durch-trump-a-421bc3fb-af7b-4d7f-bd88-d9abbe9b8dc9#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/panorama/justiz/bremen-30-jaehrige-getoetet-polizei-sucht-international-nach-ex-partner](https://www.spiegel.de/panorama/justiz/bremen-30-jaehrige-getoetet-polizei-sucht-international-nach-ex-partner-a-a748b697-3830-45f6-8a60-7b82ea4b7191#ref=rss)
+* [https://www.spiegel.de/ausland/tal-haimi-hamas-uebergibt-weitere-geiselleiche-an-israel](https://www.spiegel.de/ausland/tal-haimi-hamas-uebergibt-weitere-geiselleiche-an-israel-a-f26a04df-e3aa-4d1e-8b72-3fd395c051c5#ref=rss)
+### japans
+
+* [https://www.spiegel.de/ausland/erstmals-fuehrt-eine-frau-japans-regierung](https://www.spiegel.de/ausland/erstmals-fuehrt-eine-frau-japans-regierung-a-20746a08-7d6e-4913-8227-fdbf90f92101#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/erstmals-fuehrt-eine-frau-japans-regierung](https://www.spiegel.de/ausland/erstmals-fuehrt-eine-frau-japans-regierung-a-20746a08-7d6e-4913-8227-fdbf90f92101#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen](https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen-a-74596182-a596-4b9d-a1e8-1597e4c9cc83#ref=rss)
+### lesen
+
+* [https://www.spiegel.de/wissenschaft/mensch/gesundheit-schadet-lesen-unter-der-bettdecke-den-augen](https://www.spiegel.de/wissenschaft/mensch/gesundheit-schadet-lesen-unter-der-bettdecke-den-augen-a-4299bab3-17f1-4a19-9f62-7833fb12f59a#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so](https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so-a-37f01940-235d-4d4f-9b7c-e993d71adfd6#ref=rss)
-* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
-### fasziniert
+* [https://www.spiegel.de/wissenschaft/mensch/gesundheit-schadet-lesen-unter-der-bettdecke-den-augen](https://www.spiegel.de/wissenschaft/mensch/gesundheit-schadet-lesen-unter-der-bettdecke-den-augen-a-4299bab3-17f1-4a19-9f62-7833fb12f59a#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-wie-keir-starmer-zwischen-nigel-farage-und-jeremy-corbyn-unter-druck-geraet](https://www.spiegel.de/ausland/grossbritannien-wie-keir-starmer-zwischen-nigel-farage-und-jeremy-corbyn-unter-druck-geraet-a-62699c10-6b18-45f1-a44c-a1b0e336bd02#ref=rss)
+### augen
 
-* [https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so](https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so-a-37f01940-235d-4d4f-9b7c-e993d71adfd6#ref=rss)
-### dessen
+* [https://www.spiegel.de/wissenschaft/mensch/gesundheit-schadet-lesen-unter-der-bettdecke-den-augen](https://www.spiegel.de/wissenschaft/mensch/gesundheit-schadet-lesen-unter-der-bettdecke-den-augen-a-4299bab3-17f1-4a19-9f62-7833fb12f59a#ref=rss)
+### sänger
 
-* [https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so](https://www.spiegel.de/kultur/louvre-der-juwelenklau-als-koenigsklasse-unter-den-straftaten-warum-fasziniert-uns-das-so-a-37f01940-235d-4d4f-9b7c-e993d71adfd6#ref=rss)
-* [https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen](https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen-a-ca6596df-2233-4bcb-8557-a19ec590a62e#ref=rss)
-### angeblich
+* [https://www.spiegel.de/kultur/musik/saenger-kenny-loggins-gegen-nutzung-von-top-gun-song-durch-trump](https://www.spiegel.de/kultur/musik/saenger-kenny-loggins-gegen-nutzung-von-top-gun-song-durch-trump-a-421bc3fb-af7b-4d7f-bd88-d9abbe9b8dc9#ref=rss)
+### kenny
 
-* [https://www.spiegel.de/politik/deutschland/afd-linke-parteien-und-ihre-selbstgerechtigkeit-im-kampf-gegen-rechts](https://www.spiegel.de/politik/deutschland/afd-linke-parteien-und-ihre-selbstgerechtigkeit-im-kampf-gegen-rechts-a-37f498ca-4b73-4a0e-a4c5-3249f1254aea#ref=rss)
-* [https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen](https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen-a-ca6596df-2233-4bcb-8557-a19ec590a62e#ref=rss)
-### sollten
+* [https://www.spiegel.de/kultur/musik/saenger-kenny-loggins-gegen-nutzung-von-top-gun-song-durch-trump](https://www.spiegel.de/kultur/musik/saenger-kenny-loggins-gegen-nutzung-von-top-gun-song-durch-trump-a-421bc3fb-af7b-4d7f-bd88-d9abbe9b8dc9#ref=rss)
+### loggins
 
-* [https://www.spiegel.de/politik/deutschland/afd-linke-parteien-und-ihre-selbstgerechtigkeit-im-kampf-gegen-rechts](https://www.spiegel.de/politik/deutschland/afd-linke-parteien-und-ihre-selbstgerechtigkeit-im-kampf-gegen-rechts-a-37f498ca-4b73-4a0e-a4c5-3249f1254aea#ref=rss)
-* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
-### kolumbien
+* [https://www.spiegel.de/kultur/musik/saenger-kenny-loggins-gegen-nutzung-von-top-gun-song-durch-trump](https://www.spiegel.de/kultur/musik/saenger-kenny-loggins-gegen-nutzung-von-top-gun-song-durch-trump-a-421bc3fb-af7b-4d7f-bd88-d9abbe9b8dc9#ref=rss)
+### keir
 
-* [https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen](https://www.spiegel.de/ausland/kolumbien-botschafter-wegen-zoll-und-drogenstreit-aus-den-usa-zurueckgerufen-a-ca6596df-2233-4bcb-8557-a19ec590a62e#ref=rss)
-### irans
+* [https://www.spiegel.de/ausland/grossbritannien-wie-keir-starmer-zwischen-nigel-farage-und-jeremy-corbyn-unter-druck-geraet](https://www.spiegel.de/ausland/grossbritannien-wie-keir-starmer-zwischen-nigel-farage-und-jeremy-corbyn-unter-druck-geraet-a-62699c10-6b18-45f1-a44c-a1b0e336bd02#ref=rss)
+### starmer
 
-* [https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter](https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter-a-abbb0484-eff5-443c-aee4-b0353bddcab5#ref=rss)
-### gern
+* [https://www.spiegel.de/ausland/grossbritannien-wie-keir-starmer-zwischen-nigel-farage-und-jeremy-corbyn-unter-druck-geraet](https://www.spiegel.de/ausland/grossbritannien-wie-keir-starmer-zwischen-nigel-farage-und-jeremy-corbyn-unter-druck-geraet-a-62699c10-6b18-45f1-a44c-a1b0e336bd02#ref=rss)
+### syrische
 
-* [https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter](https://www.spiegel.de/ausland/iran-ajatollah-ali-khamenei-spottet-ueber-us-angriff-auf-nuklearanlagen-traeum-weiter-a-abbb0484-eff5-443c-aee4-b0353bddcab5#ref=rss)
-* [https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen](https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen-a-6fabae1a-d2a4-4a60-9f23-e3073a1bb5f6#ref=rss)
-### werner
+* [https://www.spiegel.de/panorama/justiz/stuttgart-syrische-grossfamilie-aus-deutschland-ausgereist](https://www.spiegel.de/panorama/justiz/stuttgart-syrische-grossfamilie-aus-deutschland-ausgereist-a-2d822416-584a-4abc-a763-0b1e2bce8ff9#ref=rss)
+### großfamilie
 
-* [https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen](https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen-a-6fabae1a-d2a4-4a60-9f23-e3073a1bb5f6#ref=rss)
-### herzog
+* [https://www.spiegel.de/panorama/justiz/stuttgart-syrische-grossfamilie-aus-deutschland-ausgereist](https://www.spiegel.de/panorama/justiz/stuttgart-syrische-grossfamilie-aus-deutschland-ausgereist-a-2d822416-584a-4abc-a763-0b1e2bce8ff9#ref=rss)
+### nicolas
 
-* [https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen](https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen-a-6fabae1a-d2a4-4a60-9f23-e3073a1bb5f6#ref=rss)
-### mars
+* [https://www.spiegel.de/ausland/was-ex-praesident-nicolas-sarkozy-im-knast-erwartet](https://www.spiegel.de/ausland/was-ex-praesident-nicolas-sarkozy-im-knast-erwartet-a-85223dfb-850d-4227-ad49-3b86d532c1ad#ref=rss)
+### haftstrafe
 
-* [https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen](https://www.spiegel.de/kultur/kino/werner-herzog-wuerde-gern-auf-dem-mars-filmen-trotz-ungemuetlicher-bedingungen-a-6fabae1a-d2a4-4a60-9f23-e3073a1bb5f6#ref=rss)
-### handelskrieg
+* [https://www.spiegel.de/ausland/was-ex-praesident-nicolas-sarkozy-im-knast-erwartet](https://www.spiegel.de/ausland/was-ex-praesident-nicolas-sarkozy-im-knast-erwartet-a-85223dfb-850d-4227-ad49-3b86d532c1ad#ref=rss)
+### expräsident
 
-* [https://www.spiegel.de/wirtschaft/handelskrieg-china-bremst-export-seltener-erde-magneten-sorge-wegen-abhaengigkeit](https://www.spiegel.de/wirtschaft/handelskrieg-china-bremst-export-seltener-erde-magneten-sorge-wegen-abhaengigkeit-a-d4b824f9-e9ac-45c9-ba5a-40dc053a76b5#ref=rss)
-### china
+* [https://www.spiegel.de/ausland/was-ex-praesident-nicolas-sarkozy-im-knast-erwartet](https://www.spiegel.de/ausland/was-ex-praesident-nicolas-sarkozy-im-knast-erwartet-a-85223dfb-850d-4227-ad49-3b86d532c1ad#ref=rss)
+### erwartet
 
-* [https://www.spiegel.de/wirtschaft/handelskrieg-china-bremst-export-seltener-erde-magneten-sorge-wegen-abhaengigkeit](https://www.spiegel.de/wirtschaft/handelskrieg-china-bremst-export-seltener-erde-magneten-sorge-wegen-abhaengigkeit-a-d4b824f9-e9ac-45c9-ba5a-40dc053a76b5#ref=rss)
-### sorge
+* [https://www.spiegel.de/ausland/was-ex-praesident-nicolas-sarkozy-im-knast-erwartet](https://www.spiegel.de/ausland/was-ex-praesident-nicolas-sarkozy-im-knast-erwartet-a-85223dfb-850d-4227-ad49-3b86d532c1ad#ref=rss)
+### aufgefunden
 
-* [https://www.spiegel.de/wirtschaft/handelskrieg-china-bremst-export-seltener-erde-magneten-sorge-wegen-abhaengigkeit](https://www.spiegel.de/wirtschaft/handelskrieg-china-bremst-export-seltener-erde-magneten-sorge-wegen-abhaengigkeit-a-d4b824f9-e9ac-45c9-ba5a-40dc053a76b5#ref=rss)
-### warnt
+* [https://www.spiegel.de/panorama/justiz/dettingen-an-der-erms-katze-erhaengt-aufgefunden](https://www.spiegel.de/panorama/justiz/dettingen-an-der-erms-katze-erhaengt-aufgefunden-a-61ac4334-6ee9-4c8a-8d40-e77536e69ceb#ref=rss)
+### stadtbildaussage
 
-* [https://www.spiegel.de/wirtschaft/handelskrieg-china-bremst-export-seltener-erde-magneten-sorge-wegen-abhaengigkeit](https://www.spiegel.de/wirtschaft/handelskrieg-china-bremst-export-seltener-erde-magneten-sorge-wegen-abhaengigkeit-a-d4b824f9-e9ac-45c9-ba5a-40dc053a76b5#ref=rss)
-* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
-### rente
+* [https://www.spiegel.de/politik/cdu-sozialfluegel-kritisiert-stadtbild-aussage-von-friedrich-merz](https://www.spiegel.de/politik/cdu-sozialfluegel-kritisiert-stadtbild-aussage-von-friedrich-merz-a-68339e27-220c-431a-810d-3d4bb2e92c24#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
-### cdu
+* [https://www.spiegel.de/politik/cdu-sozialfluegel-kritisiert-stadtbild-aussage-von-friedrich-merz](https://www.spiegel.de/politik/cdu-sozialfluegel-kritisiert-stadtbild-aussage-von-friedrich-merz-a-68339e27-220c-431a-810d-3d4bb2e92c24#ref=rss)
+### merz
 
-* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
-### csu
+* [https://www.spiegel.de/politik/cdu-sozialfluegel-kritisiert-stadtbild-aussage-von-friedrich-merz](https://www.spiegel.de/politik/cdu-sozialfluegel-kritisiert-stadtbild-aussage-von-friedrich-merz-a-68339e27-220c-431a-810d-3d4bb2e92c24#ref=rss)
+### eu
 
-* [https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene](https://www.spiegel.de/politik/rente-spd-warnt-cdu-und-csu-vor-blockade-der-rentenplaene-a-40db47ec-a0c3-4727-ab69-a3c2f9d3cd5f#ref=rss)
-### zeit
+* [https://www.spiegel.de/wirtschaft/service/naturzerstoerung-eu-versagt-offenbar-beim-schutz-indonesischer-tropenwaelder](https://www.spiegel.de/wirtschaft/service/naturzerstoerung-eu-versagt-offenbar-beim-schutz-indonesischer-tropenwaelder-a-ad8f73ff-58b9-4741-b9ee-751da20cb4b0#ref=rss)
+### wehrpflicht
 
-* [https://www.spiegel.de/wissenschaft/social-media-nutzung-bei-jugendlichen-mehr-zeit-auf-sozialen-medien-schlechtere-testergebnisse](https://www.spiegel.de/wissenschaft/social-media-nutzung-bei-jugendlichen-mehr-zeit-auf-sozialen-medien-schlechtere-testergebnisse-a-fa5ef245-aeda-4fb1-b22c-ec75256507e5#ref=rss)
+* [https://www.spiegel.de/start/wehrpflicht-warum-das-allgemeine-dienstjahr-der-wehrpflicht-ueberlegen-ist](https://www.spiegel.de/start/wehrpflicht-warum-das-allgemeine-dienstjahr-der-wehrpflicht-ueberlegen-ist-a-4f7ee818-b6d5-44e8-bf0d-6c36d80ab3a9#ref=rss)
+### tal
+
+* [https://www.spiegel.de/ausland/tal-haimi-hamas-uebergibt-weitere-geiselleiche-an-israel](https://www.spiegel.de/ausland/tal-haimi-hamas-uebergibt-weitere-geiselleiche-an-israel-a-f26a04df-e3aa-4d1e-8b72-3fd395c051c5#ref=rss)
+### haimi
+
+* [https://www.spiegel.de/ausland/tal-haimi-hamas-uebergibt-weitere-geiselleiche-an-israel](https://www.spiegel.de/ausland/tal-haimi-hamas-uebergibt-weitere-geiselleiche-an-israel-a-f26a04df-e3aa-4d1e-8b72-3fd395c051c5#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/ausland/tal-haimi-hamas-uebergibt-weitere-geiselleiche-an-israel](https://www.spiegel.de/ausland/tal-haimi-hamas-uebergibt-weitere-geiselleiche-an-israel-a-f26a04df-e3aa-4d1e-8b72-3fd395c051c5#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/tal-haimi-hamas-uebergibt-weitere-geiselleiche-an-israel](https://www.spiegel.de/ausland/tal-haimi-hamas-uebergibt-weitere-geiselleiche-an-israel-a-f26a04df-e3aa-4d1e-8b72-3fd395c051c5#ref=rss)
+### australien
+
+* [https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen](https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen-a-74596182-a596-4b9d-a1e8-1597e4c9cc83#ref=rss)
+### kooperation
+
+* [https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen](https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen-a-74596182-a596-4b9d-a1e8-1597e4c9cc83#ref=rss)
+### erden
+
+* [https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen](https://www.spiegel.de/wirtschaft/usa-und-australien-wollen-kooperation-bei-seltenen-erden-ausbauen-a-74596182-a596-4b9d-a1e8-1597e4c9cc83#ref=rss)
 
