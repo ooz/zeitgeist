@@ -4,342 +4,379 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### friedrich
-
-* [https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast](https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast-a-8c88e9db-e377-41ed-b8cc-0bb941b6448b#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun](https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun-a-57572edc-a7b2-4ee3-b65b-c518c0bcf1aa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-stadtbild-so-reagiert-das-netz-auf-seine-toechter-aussage](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-stadtbild-so-reagiert-das-netz-auf-seine-toechter-aussage-a-5eb7030c-11c3-4bca-a804-1ac2348514e1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-und-das-stadtbild-lassen-sie-die-frauen-da-raus](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-und-das-stadtbild-lassen-sie-die-frauen-da-raus-a-952c89bc-3898-4a4c-b9c7-c98993c6a826#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-er-habe-ki-fuer-gesetzestexte-der-bundesregierung-ausprobiert](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-er-habe-ki-fuer-gesetzestexte-der-bundesregierung-ausprobiert-a-1611ebfe-92c0-41f0-b1f8-4ae95a2507c1#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast](https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast-a-8c88e9db-e377-41ed-b8cc-0bb941b6448b#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun](https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun-a-57572edc-a7b2-4ee3-b65b-c518c0bcf1aa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-stadtbild-so-reagiert-das-netz-auf-seine-toechter-aussage](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-stadtbild-so-reagiert-das-netz-auf-seine-toechter-aussage-a-5eb7030c-11c3-4bca-a804-1ac2348514e1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-und-das-stadtbild-lassen-sie-die-frauen-da-raus](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-und-das-stadtbild-lassen-sie-die-frauen-da-raus-a-952c89bc-3898-4a4c-b9c7-c98993c6a826#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-er-habe-ki-fuer-gesetzestexte-der-bundesregierung-ausprobiert](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-er-habe-ki-fuer-gesetzestexte-der-bundesregierung-ausprobiert-a-1611ebfe-92c0-41f0-b1f8-4ae95a2507c1#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/weisses-haus-in-naher-zukunft-kein-treffen-mit-putin-geplant](https://www.spiegel.de/ausland/weisses-haus-in-naher-zukunft-kein-treffen-mit-putin-geplant-a-e605e005-687c-47b7-a228-cdf334aa48fc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-dietmar-woidke-polen-und-wladimir-putin-ddr-design-und-rudolf-horn](https://www.spiegel.de/politik/deutschland/news-des-tages-dietmar-woidke-polen-und-wladimir-putin-ddr-design-und-rudolf-horn-a-d0393d99-866b-4aa0-871f-73d9027dc169#ref=rss)
-* [https://www.spiegel.de/ausland/polens-aussenminister-droht-wladimir-putin-bei-ueberflug-mit-verhaftung](https://www.spiegel.de/ausland/polens-aussenminister-droht-wladimir-putin-bei-ueberflug-mit-verhaftung-a-ea8b0ede-1050-4e5d-a60b-42651fe74902#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/oberlandesgericht-braunschweig-schoeffin-wegen-kopftuch-des-amtes-enthoben](https://www.spiegel.de/panorama/justiz/oberlandesgericht-braunschweig-schoeffin-wegen-kopftuch-des-amtes-enthoben-a-ca3f8772-5725-453b-95a5-422288fdfd81#ref=rss)
-* [https://www.spiegel.de/panorama/nigeria-gericht-verurteilt-zwei-tiktoker-wegen-kussvideo-zum-heiraten](https://www.spiegel.de/panorama/nigeria-gericht-verurteilt-zwei-tiktoker-wegen-kussvideo-zum-heiraten-a-744a6061-f5fa-4478-9e67-6c7c1f0f8cd8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-stadtbild-so-reagiert-das-netz-auf-seine-toechter-aussage](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-stadtbild-so-reagiert-das-netz-auf-seine-toechter-aussage-a-5eb7030c-11c3-4bca-a804-1ac2348514e1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-und-das-stadtbild-lassen-sie-die-frauen-da-raus](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-und-das-stadtbild-lassen-sie-die-frauen-da-raus-a-952c89bc-3898-4a4c-b9c7-c98993c6a826#ref=rss)
-* [https://www.spiegel.de/sport/daniel-naroditsky-er-gab-seine-liebe-zum-schach-an-millionen-menschen-weiter-nachruf](https://www.spiegel.de/sport/daniel-naroditsky-er-gab-seine-liebe-zum-schach-an-millionen-menschen-weiter-nachruf-a-3e01b0db-81e4-4477-b0fc-e51f98642588#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast](https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast-a-8c88e9db-e377-41ed-b8cc-0bb941b6448b#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun](https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun-a-57572edc-a7b2-4ee3-b65b-c518c0bcf1aa#ref=rss)
-* [https://www.spiegel.de/ausland/iran-welche-kleiderordnung-fuer-frauen-gilt-und-wie-sie-sich-dagegen-wehren](https://www.spiegel.de/ausland/iran-welche-kleiderordnung-fuer-frauen-gilt-und-wie-sie-sich-dagegen-wehren-a-fb7ff472-9ed9-4f81-bd34-645252bd05b3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-und-das-stadtbild-lassen-sie-die-frauen-da-raus](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-und-das-stadtbild-lassen-sie-die-frauen-da-raus-a-952c89bc-3898-4a4c-b9c7-c98993c6a826#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/panorama/justiz/louvre-schaetzt-schaden-nach-juwelendiebstahl-auf-88-millionen-euro](https://www.spiegel.de/panorama/justiz/louvre-schaetzt-schaden-nach-juwelendiebstahl-auf-88-millionen-euro-a-a6846d1c-57e9-4e34-8a93-f9254a690b17#ref=rss)
-* [https://www.spiegel.de/panorama/madeira-franzoesische-marine-beschlagnahmt-boot-mit-2-4-tonnen-kokain](https://www.spiegel.de/panorama/madeira-franzoesische-marine-beschlagnahmt-boot-mit-2-4-tonnen-kokain-a-885bfd5f-82f8-4407-97b0-f730cab37203#ref=rss)
-* [https://www.spiegel.de/sport/daniel-naroditsky-er-gab-seine-liebe-zum-schach-an-millionen-menschen-weiter-nachruf](https://www.spiegel.de/sport/daniel-naroditsky-er-gab-seine-liebe-zum-schach-an-millionen-menschen-weiter-nachruf-a-3e01b0db-81e4-4477-b0fc-e51f98642588#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/kultur/literatur/so-funktionieren-die-buecher-von-ferdinand-von-schirach](https://www.spiegel.de/kultur/literatur/so-funktionieren-die-buecher-von-ferdinand-von-schirach-a-2292c4f4-915b-457e-845a-20163baa53e9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-stadtbild-so-reagiert-das-netz-auf-seine-toechter-aussage](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-stadtbild-so-reagiert-das-netz-auf-seine-toechter-aussage-a-5eb7030c-11c3-4bca-a804-1ac2348514e1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/norwegen-marius-borg-hoiby-offenbar-vor-prozess-in-entzug](https://www.spiegel.de/panorama/leute/norwegen-marius-borg-hoiby-offenbar-vor-prozess-in-entzug-a-8e404b24-f4a8-472c-bc8c-e98ffa26c4b8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bremerhaven-polizei-stellt-penisattrappe-bei-mutmasslichem-verkehrssuender-sicher](https://www.spiegel.de/panorama/justiz/bremerhaven-polizei-stellt-penisattrappe-bei-mutmasslichem-verkehrssuender-sicher-a-18152bbf-eab8-4ab4-8d5d-699a53335cec#ref=rss)
-### erklären
-
-* [https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast](https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast-a-8c88e9db-e377-41ed-b8cc-0bb941b6448b#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun](https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun-a-57572edc-a7b2-4ee3-b65b-c518c0bcf1aa#ref=rss)
-* [https://www.spiegel.de/panorama/leute/norwegen-marius-borg-hoiby-offenbar-vor-prozess-in-entzug](https://www.spiegel.de/panorama/leute/norwegen-marius-borg-hoiby-offenbar-vor-prozess-in-entzug-a-8e404b24-f4a8-472c-bc8c-e98ffa26c4b8#ref=rss)
-* [https://www.spiegel.de/sport/daniel-naroditsky-er-gab-seine-liebe-zum-schach-an-millionen-menschen-weiter-nachruf](https://www.spiegel.de/sport/daniel-naroditsky-er-gab-seine-liebe-zum-schach-an-millionen-menschen-weiter-nachruf-a-3e01b0db-81e4-4477-b0fc-e51f98642588#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/justiz/louvre-schaetzt-schaden-nach-juwelendiebstahl-auf-88-millionen-euro](https://www.spiegel.de/panorama/justiz/louvre-schaetzt-schaden-nach-juwelendiebstahl-auf-88-millionen-euro-a-a6846d1c-57e9-4e34-8a93-f9254a690b17#ref=rss)
-* [https://www.spiegel.de/panorama/madeira-franzoesische-marine-beschlagnahmt-boot-mit-2-4-tonnen-kokain](https://www.spiegel.de/panorama/madeira-franzoesische-marine-beschlagnahmt-boot-mit-2-4-tonnen-kokain-a-885bfd5f-82f8-4407-97b0-f730cab37203#ref=rss)
-### eu
-
-* [https://www.spiegel.de/politik/migration-und-abschiebungen-rueckflug-in-den-balkan-spiegel-tv](https://www.spiegel.de/politik/migration-und-abschiebungen-rueckflug-in-den-balkan-spiegel-tv-a-34ec3054-cdfd-411b-aa2c-3e7dd543f8d5#ref=rss)
-* [https://www.spiegel.de/auto/fuehrerscheinreform-der-eu-europaparlament-beschliesst-grenzueberschreitende-fahrverbote-und-digitalen-fuehrerschein](https://www.spiegel.de/auto/fuehrerscheinreform-der-eu-europaparlament-beschliesst-grenzueberschreitende-fahrverbote-und-digitalen-fuehrerschein-a-96d51ba8-a5f0-4f4e-aaac-922350564648#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimapolitik-in-europa-2000-wissenschaftler-draengen-eu-zu-klimaziel-fuer-2040](https://www.spiegel.de/wissenschaft/klimapolitik-in-europa-2000-wissenschaftler-draengen-eu-zu-klimaziel-fuer-2040-a-b7245237-4464-43a7-9447-7f79dbf27541#ref=rss)
-### stadtbildaussage
-
-* [https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast](https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast-a-8c88e9db-e377-41ed-b8cc-0bb941b6448b#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun](https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun-a-57572edc-a7b2-4ee3-b65b-c518c0bcf1aa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-stadtbild-so-reagiert-das-netz-auf-seine-toechter-aussage](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-stadtbild-so-reagiert-das-netz-auf-seine-toechter-aussage-a-5eb7030c-11c3-4bca-a804-1ac2348514e1#ref=rss)
-### stadtbild
-
-* [https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun](https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun-a-57572edc-a7b2-4ee3-b65b-c518c0bcf1aa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-stadtbild-so-reagiert-das-netz-auf-seine-toechter-aussage](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-stadtbild-so-reagiert-das-netz-auf-seine-toechter-aussage-a-5eb7030c-11c3-4bca-a804-1ac2348514e1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-und-das-stadtbild-lassen-sie-die-frauen-da-raus](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-und-das-stadtbild-lassen-sie-die-frauen-da-raus-a-952c89bc-3898-4a4c-b9c7-c98993c6a826#ref=rss)
-### töchter
-
-* [https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun](https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun-a-57572edc-a7b2-4ee3-b65b-c518c0bcf1aa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-stadtbild-so-reagiert-das-netz-auf-seine-toechter-aussage](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-stadtbild-so-reagiert-das-netz-auf-seine-toechter-aussage-a-5eb7030c-11c3-4bca-a804-1ac2348514e1#ref=rss)
-### wehren
-
-* [https://www.spiegel.de/wirtschaft/klimaschutz-mehrere-eu-laender-wehren-sich-gegen-co-preis-ab-2027](https://www.spiegel.de/wirtschaft/klimaschutz-mehrere-eu-laender-wehren-sich-gegen-co-preis-ab-2027-a-46d647e1-59b4-48e7-adb3-5e9f657057ac#ref=rss)
-* [https://www.spiegel.de/ausland/iran-welche-kleiderordnung-fuer-frauen-gilt-und-wie-sie-sich-dagegen-wehren](https://www.spiegel.de/ausland/iran-welche-kleiderordnung-fuer-frauen-gilt-und-wie-sie-sich-dagegen-wehren-a-fb7ff472-9ed9-4f81-bd34-645252bd05b3#ref=rss)
-### außenminister
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-dietmar-woidke-polen-und-wladimir-putin-ddr-design-und-rudolf-horn](https://www.spiegel.de/politik/deutschland/news-des-tages-dietmar-woidke-polen-und-wladimir-putin-ddr-design-und-rudolf-horn-a-d0393d99-866b-4aa0-871f-73d9027dc169#ref=rss)
-* [https://www.spiegel.de/ausland/polens-aussenminister-droht-wladimir-putin-bei-ueberflug-mit-verhaftung](https://www.spiegel.de/ausland/polens-aussenminister-droht-wladimir-putin-bei-ueberflug-mit-verhaftung-a-ea8b0ede-1050-4e5d-a60b-42651fe74902#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/nigeria-gericht-verurteilt-zwei-tiktoker-wegen-kussvideo-zum-heiraten](https://www.spiegel.de/panorama/nigeria-gericht-verurteilt-zwei-tiktoker-wegen-kussvideo-zum-heiraten-a-744a6061-f5fa-4478-9e67-6c7c1f0f8cd8#ref=rss)
-* [https://www.spiegel.de/panorama/leute/norwegen-marius-borg-hoiby-offenbar-vor-prozess-in-entzug](https://www.spiegel.de/panorama/leute/norwegen-marius-borg-hoiby-offenbar-vor-prozess-in-entzug-a-8e404b24-f4a8-472c-bc8c-e98ffa26c4b8#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/ausland/iran-welche-kleiderordnung-fuer-frauen-gilt-und-wie-sie-sich-dagegen-wehren](https://www.spiegel.de/ausland/iran-welche-kleiderordnung-fuer-frauen-gilt-und-wie-sie-sich-dagegen-wehren-a-fb7ff472-9ed9-4f81-bd34-645252bd05b3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/zwickau-40-jaehriger-in-sachsen-soll-fuer-missbrauch-der-eigenen-tochter-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/zwickau-40-jaehriger-in-sachsen-soll-fuer-missbrauch-der-eigenen-tochter-ins-gefaengnis-a-c1f29a3b-f375-4cf3-bc76-2157f4186af3#ref=rss)
-### gefängnis
-
-* [https://www.spiegel.de/panorama/justiz/zwickau-40-jaehriger-in-sachsen-soll-fuer-missbrauch-der-eigenen-tochter-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/zwickau-40-jaehriger-in-sachsen-soll-fuer-missbrauch-der-eigenen-tochter-ins-gefaengnis-a-c1f29a3b-f375-4cf3-bc76-2157f4186af3#ref=rss)
-* [https://www.spiegel.de/ausland/frankreichs-ex-praesident-nicolas-sarkozy-so-wird-er-im-gefaengnis-untergebracht](https://www.spiegel.de/ausland/frankreichs-ex-praesident-nicolas-sarkozy-so-wird-er-im-gefaengnis-untergebracht-a-172b2051-d4ee-4ddd-9030-63986a8b6f44#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/zwickau-40-jaehriger-in-sachsen-soll-fuer-missbrauch-der-eigenen-tochter-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/zwickau-40-jaehriger-in-sachsen-soll-fuer-missbrauch-der-eigenen-tochter-ins-gefaengnis-a-c1f29a3b-f375-4cf3-bc76-2157f4186af3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bremerhaven-polizei-stellt-penisattrappe-bei-mutmasslichem-verkehrssuender-sicher](https://www.spiegel.de/panorama/justiz/bremerhaven-polizei-stellt-penisattrappe-bei-mutmasslichem-verkehrssuender-sicher-a-18152bbf-eab8-4ab4-8d5d-699a53335cec#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/justiz/zwickau-40-jaehriger-in-sachsen-soll-fuer-missbrauch-der-eigenen-tochter-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/zwickau-40-jaehriger-in-sachsen-soll-fuer-missbrauch-der-eigenen-tochter-ins-gefaengnis-a-c1f29a3b-f375-4cf3-bc76-2157f4186af3#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/heinz-strunk-ueber-literatur-fuer-kinder-die-tendenz-scheint-mir-zu-sein-dass-man-die-kinder-unterfordert](https://www.spiegel.de/kultur/literatur/heinz-strunk-ueber-literatur-fuer-kinder-die-tendenz-scheint-mir-zu-sein-dass-man-die-kinder-unterfordert-a-492e54ae-a5a5-4b76-a02b-317387b11d93#ref=rss)
-### louvre
-
-* [https://www.spiegel.de/panorama/justiz/louvre-schaetzt-schaden-nach-juwelendiebstahl-auf-88-millionen-euro](https://www.spiegel.de/panorama/justiz/louvre-schaetzt-schaden-nach-juwelendiebstahl-auf-88-millionen-euro-a-a6846d1c-57e9-4e34-8a93-f9254a690b17#ref=rss)
-* [https://www.spiegel.de/ausland/louvre-coup-fahnder-in-frankreich-sehen-organisierte-kriminalitaet-hinter-einbruch](https://www.spiegel.de/ausland/louvre-coup-fahnder-in-frankreich-sehen-organisierte-kriminalitaet-hinter-einbruch-a-ba205526-edd5-4d0a-9a46-fa33018d3ccf#ref=rss)
-### 88
-
-* [https://www.spiegel.de/panorama/justiz/louvre-schaetzt-schaden-nach-juwelendiebstahl-auf-88-millionen-euro](https://www.spiegel.de/panorama/justiz/louvre-schaetzt-schaden-nach-juwelendiebstahl-auf-88-millionen-euro-a-a6846d1c-57e9-4e34-8a93-f9254a690b17#ref=rss)
-### einbruch
-
-* [https://www.spiegel.de/panorama/justiz/louvre-schaetzt-schaden-nach-juwelendiebstahl-auf-88-millionen-euro](https://www.spiegel.de/panorama/justiz/louvre-schaetzt-schaden-nach-juwelendiebstahl-auf-88-millionen-euro-a-a6846d1c-57e9-4e34-8a93-f9254a690b17#ref=rss)
-* [https://www.spiegel.de/ausland/louvre-coup-fahnder-in-frankreich-sehen-organisierte-kriminalitaet-hinter-einbruch](https://www.spiegel.de/ausland/louvre-coup-fahnder-in-frankreich-sehen-organisierte-kriminalitaet-hinter-einbruch-a-ba205526-edd5-4d0a-9a46-fa33018d3ccf#ref=rss)
-### wert
-
-* [https://www.spiegel.de/panorama/justiz/louvre-schaetzt-schaden-nach-juwelendiebstahl-auf-88-millionen-euro](https://www.spiegel.de/panorama/justiz/louvre-schaetzt-schaden-nach-juwelendiebstahl-auf-88-millionen-euro-a-a6846d1c-57e9-4e34-8a93-f9254a690b17#ref=rss)
-* [https://www.spiegel.de/panorama/madeira-franzoesische-marine-beschlagnahmt-boot-mit-2-4-tonnen-kokain](https://www.spiegel.de/panorama/madeira-franzoesische-marine-beschlagnahmt-boot-mit-2-4-tonnen-kokain-a-885bfd5f-82f8-4407-97b0-f730cab37203#ref=rss)
-### französische
-
-* [https://www.spiegel.de/panorama/madeira-franzoesische-marine-beschlagnahmt-boot-mit-2-4-tonnen-kokain](https://www.spiegel.de/panorama/madeira-franzoesische-marine-beschlagnahmt-boot-mit-2-4-tonnen-kokain-a-885bfd5f-82f8-4407-97b0-f730cab37203#ref=rss)
-### kokain
-
-* [https://www.spiegel.de/panorama/madeira-franzoesische-marine-beschlagnahmt-boot-mit-2-4-tonnen-kokain](https://www.spiegel.de/panorama/madeira-franzoesische-marine-beschlagnahmt-boot-mit-2-4-tonnen-kokain-a-885bfd5f-82f8-4407-97b0-f730cab37203#ref=rss)
-### fahnder
-
-* [https://www.spiegel.de/panorama/madeira-franzoesische-marine-beschlagnahmt-boot-mit-2-4-tonnen-kokain](https://www.spiegel.de/panorama/madeira-franzoesische-marine-beschlagnahmt-boot-mit-2-4-tonnen-kokain-a-885bfd5f-82f8-4407-97b0-f730cab37203#ref=rss)
-* [https://www.spiegel.de/ausland/louvre-coup-fahnder-in-frankreich-sehen-organisierte-kriminalitaet-hinter-einbruch](https://www.spiegel.de/ausland/louvre-coup-fahnder-in-frankreich-sehen-organisierte-kriminalitaet-hinter-einbruch-a-ba205526-edd5-4d0a-9a46-fa33018d3ccf#ref=rss)
-### ferdinand
-
-* [https://www.spiegel.de/kultur/literatur/so-funktionieren-die-buecher-von-ferdinand-von-schirach](https://www.spiegel.de/kultur/literatur/so-funktionieren-die-buecher-von-ferdinand-von-schirach-a-2292c4f4-915b-457e-845a-20163baa53e9#ref=rss)
-### warner
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-discovery-koennte-sich-zum-verkauf-stellen](https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-discovery-koennte-sich-zum-verkauf-stellen-a-bc19edd4-2207-45b7-b20e-74747a0bdc35#ref=rss)
-### bros
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-discovery-koennte-sich-zum-verkauf-stellen](https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-discovery-koennte-sich-zum-verkauf-stellen-a-bc19edd4-2207-45b7-b20e-74747a0bdc35#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-discovery-koennte-sich-zum-verkauf-stellen](https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-discovery-koennte-sich-zum-verkauf-stellen-a-bc19edd4-2207-45b7-b20e-74747a0bdc35#ref=rss)
-* [https://www.spiegel.de/ausland/weisses-haus-in-naher-zukunft-kein-treffen-mit-putin-geplant](https://www.spiegel.de/ausland/weisses-haus-in-naher-zukunft-kein-treffen-mit-putin-geplant-a-e605e005-687c-47b7-a228-cdf334aa48fc#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-discovery-koennte-sich-zum-verkauf-stellen](https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-discovery-koennte-sich-zum-verkauf-stellen-a-bc19edd4-2207-45b7-b20e-74747a0bdc35#ref=rss)
-* [https://www.spiegel.de/wirtschaft/volkswagen-wichtige-produktionen-koennten-bald-stillstehen-sorge-vor-halbleiterkrise](https://www.spiegel.de/wirtschaft/volkswagen-wichtige-produktionen-koennten-bald-stillstehen-sorge-vor-halbleiterkrise-a-983013da-6907-4e97-b3d9-422e0c786965#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/migration-und-abschiebungen-rueckflug-in-den-balkan-spiegel-tv](https://www.spiegel.de/politik/migration-und-abschiebungen-rueckflug-in-den-balkan-spiegel-tv-a-34ec3054-cdfd-411b-aa2c-3e7dd543f8d5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bremerhaven-polizei-stellt-penisattrappe-bei-mutmasslichem-verkehrssuender-sicher](https://www.spiegel.de/panorama/justiz/bremerhaven-polizei-stellt-penisattrappe-bei-mutmasslichem-verkehrssuender-sicher-a-18152bbf-eab8-4ab4-8d5d-699a53335cec#ref=rss)
-### grenzüberschreitende
-
-* [https://www.spiegel.de/auto/fuehrerscheinreform-der-eu-europaparlament-beschliesst-grenzueberschreitende-fahrverbote-und-digitalen-fuehrerschein](https://www.spiegel.de/auto/fuehrerscheinreform-der-eu-europaparlament-beschliesst-grenzueberschreitende-fahrverbote-und-digitalen-fuehrerschein-a-96d51ba8-a5f0-4f4e-aaac-922350564648#ref=rss)
-### fahrverbote
-
-* [https://www.spiegel.de/auto/fuehrerscheinreform-der-eu-europaparlament-beschliesst-grenzueberschreitende-fahrverbote-und-digitalen-fuehrerschein](https://www.spiegel.de/auto/fuehrerscheinreform-der-eu-europaparlament-beschliesst-grenzueberschreitende-fahrverbote-und-digitalen-fuehrerschein-a-96d51ba8-a5f0-4f4e-aaac-922350564648#ref=rss)
-### führerschein
-
-* [https://www.spiegel.de/auto/fuehrerscheinreform-der-eu-europaparlament-beschliesst-grenzueberschreitende-fahrverbote-und-digitalen-fuehrerschein](https://www.spiegel.de/auto/fuehrerscheinreform-der-eu-europaparlament-beschliesst-grenzueberschreitende-fahrverbote-und-digitalen-fuehrerschein-a-96d51ba8-a5f0-4f4e-aaac-922350564648#ref=rss)
-### religiöser
-
-* [https://www.spiegel.de/panorama/justiz/oberlandesgericht-braunschweig-schoeffin-wegen-kopftuch-des-amtes-enthoben](https://www.spiegel.de/panorama/justiz/oberlandesgericht-braunschweig-schoeffin-wegen-kopftuch-des-amtes-enthoben-a-ca3f8772-5725-453b-95a5-422288fdfd81#ref=rss)
-* [https://www.spiegel.de/panorama/nigeria-gericht-verurteilt-zwei-tiktoker-wegen-kussvideo-zum-heiraten](https://www.spiegel.de/panorama/nigeria-gericht-verurteilt-zwei-tiktoker-wegen-kussvideo-zum-heiraten-a-744a6061-f5fa-4478-9e67-6c7c1f0f8cd8#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast](https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast-a-8c88e9db-e377-41ed-b8cc-0bb941b6448b#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun](https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun-a-57572edc-a7b2-4ee3-b65b-c518c0bcf1aa#ref=rss)
-### abgrenzen
-
-* [https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast](https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast-a-8c88e9db-e377-41ed-b8cc-0bb941b6448b#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun](https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun-a-57572edc-a7b2-4ee3-b65b-c518c0bcf1aa#ref=rss)
-### gleichzeitig
-
-* [https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast](https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast-a-8c88e9db-e377-41ed-b8cc-0bb941b6448b#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun](https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun-a-57572edc-a7b2-4ee3-b65b-c518c0bcf1aa#ref=rss)
-### schürt
-
-* [https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast](https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast-a-8c88e9db-e377-41ed-b8cc-0bb941b6448b#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun](https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun-a-57572edc-a7b2-4ee3-b65b-c518c0bcf1aa#ref=rss)
-### ressentiments
-
-* [https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast](https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast-a-8c88e9db-e377-41ed-b8cc-0bb941b6448b#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun](https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun-a-57572edc-a7b2-4ee3-b65b-c518c0bcf1aa#ref=rss)
-### schiebt
-
-* [https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast](https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast-a-8c88e9db-e377-41ed-b8cc-0bb941b6448b#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun](https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun-a-57572edc-a7b2-4ee3-b65b-c518c0bcf1aa#ref=rss)
-### bewirkt
-
-* [https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast](https://www.spiegel.de/politik/cdu-merz-riskante-afd-strategie-podcast-a-8c88e9db-e377-41ed-b8cc-0bb941b6448b#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun](https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun-a-57572edc-a7b2-4ee3-b65b-c518c0bcf1aa#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun](https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun-a-57572edc-a7b2-4ee3-b65b-c518c0bcf1aa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-stadtbild-so-reagiert-das-netz-auf-seine-toechter-aussage](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-das-stadtbild-so-reagiert-das-netz-auf-seine-toechter-aussage-a-5eb7030c-11c3-4bca-a804-1ac2348514e1#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun](https://www.spiegel.de/politik/friedrich-merz-und-das-stadtbild-der-kanzler-erklaert-sich-nicht-das-sollen-die-toechter-tun-a-57572edc-a7b2-4ee3-b65b-c518c0bcf1aa#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/heinz-strunk-ueber-literatur-fuer-kinder-die-tendenz-scheint-mir-zu-sein-dass-man-die-kinder-unterfordert](https://www.spiegel.de/kultur/literatur/heinz-strunk-ueber-literatur-fuer-kinder-die-tendenz-scheint-mir-zu-sein-dass-man-die-kinder-unterfordert-a-492e54ae-a5a5-4b76-a02b-317387b11d93#ref=rss)
-### menschenhandel
-
-* [https://www.spiegel.de/wirtschaft/menschenhandel-und-scam-geschaefte-in-kambodscha-tui-beendet-zusammenarbeit-mit-umstrittenem-geschaeftspartner](https://www.spiegel.de/wirtschaft/menschenhandel-und-scam-geschaefte-in-kambodscha-tui-beendet-zusammenarbeit-mit-umstrittenem-geschaeftspartner-a-7b537c51-3d59-4326-8512-9c7df41e6025#ref=rss)
-### kambodscha
-
-* [https://www.spiegel.de/wirtschaft/menschenhandel-und-scam-geschaefte-in-kambodscha-tui-beendet-zusammenarbeit-mit-umstrittenem-geschaeftspartner](https://www.spiegel.de/wirtschaft/menschenhandel-und-scam-geschaefte-in-kambodscha-tui-beendet-zusammenarbeit-mit-umstrittenem-geschaeftspartner-a-7b537c51-3d59-4326-8512-9c7df41e6025#ref=rss)
-### tui
-
-* [https://www.spiegel.de/wirtschaft/menschenhandel-und-scam-geschaefte-in-kambodscha-tui-beendet-zusammenarbeit-mit-umstrittenem-geschaeftspartner](https://www.spiegel.de/wirtschaft/menschenhandel-und-scam-geschaefte-in-kambodscha-tui-beendet-zusammenarbeit-mit-umstrittenem-geschaeftspartner-a-7b537c51-3d59-4326-8512-9c7df41e6025#ref=rss)
-### beendet
-
-* [https://www.spiegel.de/wirtschaft/menschenhandel-und-scam-geschaefte-in-kambodscha-tui-beendet-zusammenarbeit-mit-umstrittenem-geschaeftspartner](https://www.spiegel.de/wirtschaft/menschenhandel-und-scam-geschaefte-in-kambodscha-tui-beendet-zusammenarbeit-mit-umstrittenem-geschaeftspartner-a-7b537c51-3d59-4326-8512-9c7df41e6025#ref=rss)
-### zusammenarbeit
-
-* [https://www.spiegel.de/wirtschaft/menschenhandel-und-scam-geschaefte-in-kambodscha-tui-beendet-zusammenarbeit-mit-umstrittenem-geschaeftspartner](https://www.spiegel.de/wirtschaft/menschenhandel-und-scam-geschaefte-in-kambodscha-tui-beendet-zusammenarbeit-mit-umstrittenem-geschaeftspartner-a-7b537c51-3d59-4326-8512-9c7df41e6025#ref=rss)
-### haus
-
-* [https://www.spiegel.de/ausland/weisses-haus-in-naher-zukunft-kein-treffen-mit-putin-geplant](https://www.spiegel.de/ausland/weisses-haus-in-naher-zukunft-kein-treffen-mit-putin-geplant-a-e605e005-687c-47b7-a228-cdf334aa48fc#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/ausland/weisses-haus-in-naher-zukunft-kein-treffen-mit-putin-geplant](https://www.spiegel.de/ausland/weisses-haus-in-naher-zukunft-kein-treffen-mit-putin-geplant-a-e605e005-687c-47b7-a228-cdf334aa48fc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-dietmar-woidke-polen-und-wladimir-putin-ddr-design-und-rudolf-horn](https://www.spiegel.de/politik/deutschland/news-des-tages-dietmar-woidke-polen-und-wladimir-putin-ddr-design-und-rudolf-horn-a-d0393d99-866b-4aa0-871f-73d9027dc169#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/weisses-haus-in-naher-zukunft-kein-treffen-mit-putin-geplant](https://www.spiegel.de/ausland/weisses-haus-in-naher-zukunft-kein-treffen-mit-putin-geplant-a-e605e005-687c-47b7-a228-cdf334aa48fc#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimapolitik-in-europa-2000-wissenschaftler-draengen-eu-zu-klimaziel-fuer-2040](https://www.spiegel.de/wissenschaft/klimapolitik-in-europa-2000-wissenschaftler-draengen-eu-zu-klimaziel-fuer-2040-a-b7245237-4464-43a7-9447-7f79dbf27541#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-wichtige-produktionen-koennten-bald-stillstehen-sorge-vor-halbleiterkrise](https://www.spiegel.de/wirtschaft/volkswagen-wichtige-produktionen-koennten-bald-stillstehen-sorge-vor-halbleiterkrise-a-983013da-6907-4e97-b3d9-422e0c786965#ref=rss)
-* [https://www.spiegel.de/panorama/leute/norwegen-marius-borg-hoiby-offenbar-vor-prozess-in-entzug](https://www.spiegel.de/panorama/leute/norwegen-marius-borg-hoiby-offenbar-vor-prozess-in-entzug-a-8e404b24-f4a8-472c-bc8c-e98ffa26c4b8#ref=rss)
-### drohen
-
-* [https://www.spiegel.de/wirtschaft/volkswagen-wichtige-produktionen-koennten-bald-stillstehen-sorge-vor-halbleiterkrise](https://www.spiegel.de/wirtschaft/volkswagen-wichtige-produktionen-koennten-bald-stillstehen-sorge-vor-halbleiterkrise-a-983013da-6907-4e97-b3d9-422e0c786965#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimapolitik-in-europa-2000-wissenschaftler-draengen-eu-zu-klimaziel-fuer-2040](https://www.spiegel.de/wissenschaft/klimapolitik-in-europa-2000-wissenschaftler-draengen-eu-zu-klimaziel-fuer-2040-a-b7245237-4464-43a7-9447-7f79dbf27541#ref=rss)
-### klimaschutz
-
-* [https://www.spiegel.de/wirtschaft/klimaschutz-mehrere-eu-laender-wehren-sich-gegen-co-preis-ab-2027](https://www.spiegel.de/wirtschaft/klimaschutz-mehrere-eu-laender-wehren-sich-gegen-co-preis-ab-2027-a-46d647e1-59b4-48e7-adb3-5e9f657057ac#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/wirtschaft/klimaschutz-mehrere-eu-laender-wehren-sich-gegen-co-preis-ab-2027](https://www.spiegel.de/wirtschaft/klimaschutz-mehrere-eu-laender-wehren-sich-gegen-co-preis-ab-2027-a-46d647e1-59b4-48e7-adb3-5e9f657057ac#ref=rss)
-### euländer
-
-* [https://www.spiegel.de/wirtschaft/klimaschutz-mehrere-eu-laender-wehren-sich-gegen-co-preis-ab-2027](https://www.spiegel.de/wirtschaft/klimaschutz-mehrere-eu-laender-wehren-sich-gegen-co-preis-ab-2027-a-46d647e1-59b4-48e7-adb3-5e9f657057ac#ref=rss)
-### co₂preis
-
-* [https://www.spiegel.de/wirtschaft/klimaschutz-mehrere-eu-laender-wehren-sich-gegen-co-preis-ab-2027](https://www.spiegel.de/wirtschaft/klimaschutz-mehrere-eu-laender-wehren-sich-gegen-co-preis-ab-2027-a-46d647e1-59b4-48e7-adb3-5e9f657057ac#ref=rss)
-### 2027
-
-* [https://www.spiegel.de/wirtschaft/klimaschutz-mehrere-eu-laender-wehren-sich-gegen-co-preis-ab-2027](https://www.spiegel.de/wirtschaft/klimaschutz-mehrere-eu-laender-wehren-sich-gegen-co-preis-ab-2027-a-46d647e1-59b4-48e7-adb3-5e9f657057ac#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-dietmar-woidke-polen-und-wladimir-putin-ddr-design-und-rudolf-horn](https://www.spiegel.de/politik/deutschland/news-des-tages-dietmar-woidke-polen-und-wladimir-putin-ddr-design-und-rudolf-horn-a-d0393d99-866b-4aa0-871f-73d9027dc169#ref=rss)
-* [https://www.spiegel.de/ausland/polens-aussenminister-droht-wladimir-putin-bei-ueberflug-mit-verhaftung](https://www.spiegel.de/ausland/polens-aussenminister-droht-wladimir-putin-bei-ueberflug-mit-verhaftung-a-ea8b0ede-1050-4e5d-a60b-42651fe74902#ref=rss)
-### rudolf
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-dietmar-woidke-polen-und-wladimir-putin-ddr-design-und-rudolf-horn](https://www.spiegel.de/politik/deutschland/news-des-tages-dietmar-woidke-polen-und-wladimir-putin-ddr-design-und-rudolf-horn-a-d0393d99-866b-4aa0-871f-73d9027dc169#ref=rss)
-### horn
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-dietmar-woidke-polen-und-wladimir-putin-ddr-design-und-rudolf-horn](https://www.spiegel.de/politik/deutschland/news-des-tages-dietmar-woidke-polen-und-wladimir-putin-ddr-design-und-rudolf-horn-a-d0393d99-866b-4aa0-871f-73d9027dc169#ref=rss)
-### polens
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-dietmar-woidke-polen-und-wladimir-putin-ddr-design-und-rudolf-horn](https://www.spiegel.de/politik/deutschland/news-des-tages-dietmar-woidke-polen-und-wladimir-putin-ddr-design-und-rudolf-horn-a-d0393d99-866b-4aa0-871f-73d9027dc169#ref=rss)
-* [https://www.spiegel.de/ausland/polens-aussenminister-droht-wladimir-putin-bei-ueberflug-mit-verhaftung](https://www.spiegel.de/ausland/polens-aussenminister-droht-wladimir-putin-bei-ueberflug-mit-verhaftung-a-ea8b0ede-1050-4e5d-a60b-42651fe74902#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/nigeria-gericht-verurteilt-zwei-tiktoker-wegen-kussvideo-zum-heiraten](https://www.spiegel.de/panorama/nigeria-gericht-verurteilt-zwei-tiktoker-wegen-kussvideo-zum-heiraten-a-744a6061-f5fa-4478-9e67-6c7c1f0f8cd8#ref=rss)
-### teils
+* [https://www.spiegel.de/politik/deutschland/sacharow-preis-zwei-inhaftierte-journalisten-in-belarus-und-georgien-gewinnen-sacharow-preis](https://www.spiegel.de/politik/deutschland/sacharow-preis-zwei-inhaftierte-journalisten-in-belarus-und-georgien-gewinnen-sacharow-preis-a-cc3a375e-dde1-4992-9b1a-574ded18f72c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-sich-offenbar-230-millionen-dollar-von-eigenem-justizministerium-auszahlen-lassen](https://www.spiegel.de/ausland/donald-trump-will-sich-offenbar-230-millionen-dollar-von-eigenem-justizministerium-auszahlen-lassen-a-beb872c1-a017-4de6-b281-d59f1e65672b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/swan-und-lemmon-tipps-zur-beobachtung-der-gruenen-kometen-am-nachthimmel](https://www.spiegel.de/wissenschaft/weltall/swan-und-lemmon-tipps-zur-beobachtung-der-gruenen-kometen-am-nachthimmel-a-1834d936-8f3c-4689-8781-baa20209785d#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission](https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission-a-c4a9e639-5332-403b-8aaf-50a0174ac706#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu-a-c2c7358d-849f-47bf-921d-ebdcb3735abb#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/nigeria-gericht-verurteilt-zwei-tiktoker-wegen-kussvideo-zum-heiraten](https://www.spiegel.de/panorama/nigeria-gericht-verurteilt-zwei-tiktoker-wegen-kussvideo-zum-heiraten-a-744a6061-f5fa-4478-9e67-6c7c1f0f8cd8#ref=rss)
-* [https://www.spiegel.de/auto/adac-test-von-kindersitzen-fuers-auto-weniger-als-ein-drittel-ist-gut](https://www.spiegel.de/auto/adac-test-von-kindersitzen-fuers-auto-weniger-als-ein-drittel-ist-gut-a-adcdbc7e-fc5f-4480-9dde-3bf2a3fc2eb6#ref=rss)
-### gilt
+* [https://www.spiegel.de/ausland/donald-trump-kandidat-fuer-whistleblower-schutz-wegen-nazi-vorwuerfen-zurueckgezogen](https://www.spiegel.de/ausland/donald-trump-kandidat-fuer-whistleblower-schutz-wegen-nazi-vorwuerfen-zurueckgezogen-a-aa8b9577-b553-467f-bbcd-805c86cc4092#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-sich-offenbar-230-millionen-dollar-von-eigenem-justizministerium-auszahlen-lassen](https://www.spiegel.de/ausland/donald-trump-will-sich-offenbar-230-millionen-dollar-von-eigenem-justizministerium-auszahlen-lassen-a-beb872c1-a017-4de6-b281-d59f1e65672b#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-ballistische-rakete-vor-apec-gipfel-mit-donald-trump-und-xi-jinping-in-suedkorea-abgefeuert](https://www.spiegel.de/ausland/nordkorea-ballistische-rakete-vor-apec-gipfel-mit-donald-trump-und-xi-jinping-in-suedkorea-abgefeuert-a-0595aa90-2394-4004-b16c-7f6c59d29618#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/iran-welche-kleiderordnung-fuer-frauen-gilt-und-wie-sie-sich-dagegen-wehren](https://www.spiegel.de/ausland/iran-welche-kleiderordnung-fuer-frauen-gilt-und-wie-sie-sich-dagegen-wehren-a-fb7ff472-9ed9-4f81-bd34-645252bd05b3#ref=rss)
-### sachsen
+* [https://www.spiegel.de/wirtschaft/unternehmen/denns-biomaerkte-gruender-der-dennre-gruppe-ist-tot](https://www.spiegel.de/wirtschaft/unternehmen/denns-biomaerkte-gruender-der-dennre-gruppe-ist-tot-a-01a447dc-32ef-4483-92c0-efbe4bd29bdf#ref=rss)
+* [https://www.spiegel.de/ausland/nobelpreistraegerin-malala-yousafzai-ueber-die-unterdrueckung-von-frauen-in-afghanistan-die-taliban-sind-noch-schlimmer-als-zuvor-und-schlauer](https://www.spiegel.de/ausland/nobelpreistraegerin-malala-yousafzai-ueber-die-unterdrueckung-von-frauen-in-afghanistan-die-taliban-sind-noch-schlimmer-als-zuvor-und-schlauer-a-8cc60e19-ba49-46da-9361-7fe9eebc2659#ref=rss)
+* [https://www.spiegel.de/wirtschaft/seltene-erden-eu-und-deutschland-kaempfen-gegen-chinas-dominanz](https://www.spiegel.de/wirtschaft/seltene-erden-eu-und-deutschland-kaempfen-gegen-chinas-dominanz-a-8ae600d7-292a-45fb-8430-b98a5b8ac55e#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/justiz/zwickau-40-jaehriger-in-sachsen-soll-fuer-missbrauch-der-eigenen-tochter-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/zwickau-40-jaehriger-in-sachsen-soll-fuer-missbrauch-der-eigenen-tochter-ins-gefaengnis-a-c1f29a3b-f375-4cf3-bc76-2157f4186af3#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-kandidat-fuer-whistleblower-schutz-wegen-nazi-vorwuerfen-zurueckgezogen](https://www.spiegel.de/ausland/donald-trump-kandidat-fuer-whistleblower-schutz-wegen-nazi-vorwuerfen-zurueckgezogen-a-aa8b9577-b553-467f-bbcd-805c86cc4092#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-sich-offenbar-230-millionen-dollar-von-eigenem-justizministerium-auszahlen-lassen](https://www.spiegel.de/ausland/donald-trump-will-sich-offenbar-230-millionen-dollar-von-eigenem-justizministerium-auszahlen-lassen-a-beb872c1-a017-4de6-b281-d59f1e65672b#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-ballistische-rakete-vor-apec-gipfel-mit-donald-trump-und-xi-jinping-in-suedkorea-abgefeuert](https://www.spiegel.de/ausland/nordkorea-ballistische-rakete-vor-apec-gipfel-mit-donald-trump-und-xi-jinping-in-suedkorea-abgefeuert-a-0595aa90-2394-4004-b16c-7f6c59d29618#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission](https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission-a-c4a9e639-5332-403b-8aaf-50a0174ac706#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu-a-c2c7358d-849f-47bf-921d-ebdcb3735abb#ref=rss)
+### sacharowpreis
+
+* [https://www.spiegel.de/politik/deutschland/sacharow-preis-zwei-inhaftierte-journalisten-in-belarus-und-georgien-gewinnen-sacharow-preis](https://www.spiegel.de/politik/deutschland/sacharow-preis-zwei-inhaftierte-journalisten-in-belarus-und-georgien-gewinnen-sacharow-preis-a-cc3a375e-dde1-4992-9b1a-574ded18f72c#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/wirtschaft/einwanderer-arbeiten-besonders-oft-in-mangelberufen-und-selten-als-polizisten](https://www.spiegel.de/wirtschaft/einwanderer-arbeiten-besonders-oft-in-mangelberufen-und-selten-als-polizisten-a-354f5ba6-b2b7-44fb-a3df-52d5a687b674#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-fehlstart-fuer-die-los-angeles-lakers-oklahoma-city-thunder-gewinnt-nach-verlaengerung](https://www.spiegel.de/sport/basketball/nba-fehlstart-fuer-die-los-angeles-lakers-oklahoma-city-thunder-gewinnt-nach-verlaengerung-a-7a79190f-da4a-4e6b-8c75-f5fc27e8b1f8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-in-der-champions-league-aleix-garcia-entschuldigt-sich-bei-den-eigenen-fans](https://www.spiegel.de/sport/fussball/bayer-leverkusen-in-der-champions-league-aleix-garcia-entschuldigt-sich-bei-den-eigenen-fans-a-61611bf8-8c04-4059-8d60-eb1ddad091aa#ref=rss)
+### nba
+
+* [https://www.spiegel.de/sport/basketball/nba-kann-franz-wagner-mit-den-orlando-magic-um-den-titel-mitspielen](https://www.spiegel.de/sport/basketball/nba-kann-franz-wagner-mit-den-orlando-magic-um-den-titel-mitspielen-a-991a02c9-473a-4703-b54d-d78e1f76cc9d#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-fehlstart-fuer-die-los-angeles-lakers-oklahoma-city-thunder-gewinnt-nach-verlaengerung](https://www.spiegel.de/sport/basketball/nba-fehlstart-fuer-die-los-angeles-lakers-oklahoma-city-thunder-gewinnt-nach-verlaengerung-a-7a79190f-da4a-4e6b-8c75-f5fc27e8b1f8#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/donald-trump-kandidat-fuer-whistleblower-schutz-wegen-nazi-vorwuerfen-zurueckgezogen](https://www.spiegel.de/ausland/donald-trump-kandidat-fuer-whistleblower-schutz-wegen-nazi-vorwuerfen-zurueckgezogen-a-aa8b9577-b553-467f-bbcd-805c86cc4092#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-sich-offenbar-230-millionen-dollar-von-eigenem-justizministerium-auszahlen-lassen](https://www.spiegel.de/ausland/donald-trump-will-sich-offenbar-230-millionen-dollar-von-eigenem-justizministerium-auszahlen-lassen-a-beb872c1-a017-4de6-b281-d59f1e65672b#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-ballistische-rakete-vor-apec-gipfel-mit-donald-trump-und-xi-jinping-in-suedkorea-abgefeuert](https://www.spiegel.de/ausland/nordkorea-ballistische-rakete-vor-apec-gipfel-mit-donald-trump-und-xi-jinping-in-suedkorea-abgefeuert-a-0595aa90-2394-4004-b16c-7f6c59d29618#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/donald-trump-kandidat-fuer-whistleblower-schutz-wegen-nazi-vorwuerfen-zurueckgezogen](https://www.spiegel.de/ausland/donald-trump-kandidat-fuer-whistleblower-schutz-wegen-nazi-vorwuerfen-zurueckgezogen-a-aa8b9577-b553-467f-bbcd-805c86cc4092#ref=rss)
+* [https://www.spiegel.de/netzwelt/ki-browser-atlas-openai-greift-google-browser-chrome-an](https://www.spiegel.de/netzwelt/ki-browser-atlas-openai-greift-google-browser-chrome-an-a-bdfe1b0c-d5e2-4f57-bd5d-8d7f1524e6cb#ref=rss)
+* [https://www.spiegel.de/panorama/herbstwetter-sturmtief-bringt-orkanartige-boeen-und-starkregen](https://www.spiegel.de/panorama/herbstwetter-sturmtief-bringt-orkanartige-boeen-und-starkregen-a-df245b2b-f8bf-4d39-9957-bebddc82abca#ref=rss)
+### zuvor
+
+* [https://www.spiegel.de/ausland/donald-trump-kandidat-fuer-whistleblower-schutz-wegen-nazi-vorwuerfen-zurueckgezogen](https://www.spiegel.de/ausland/donald-trump-kandidat-fuer-whistleblower-schutz-wegen-nazi-vorwuerfen-zurueckgezogen-a-aa8b9577-b553-467f-bbcd-805c86cc4092#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission](https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission-a-c4a9e639-5332-403b-8aaf-50a0174ac706#ref=rss)
+* [https://www.spiegel.de/ausland/nobelpreistraegerin-malala-yousafzai-ueber-die-unterdrueckung-von-frauen-in-afghanistan-die-taliban-sind-noch-schlimmer-als-zuvor-und-schlauer](https://www.spiegel.de/ausland/nobelpreistraegerin-malala-yousafzai-ueber-die-unterdrueckung-von-frauen-in-afghanistan-die-taliban-sind-noch-schlimmer-als-zuvor-und-schlauer-a-8cc60e19-ba49-46da-9361-7fe9eebc2659#ref=rss)
+### kometen
+
+* [https://www.spiegel.de/wissenschaft/weltall/swan-und-lemmon-tipps-zur-beobachtung-der-gruenen-kometen-am-nachthimmel](https://www.spiegel.de/wissenschaft/weltall/swan-und-lemmon-tipps-zur-beobachtung-der-gruenen-kometen-am-nachthimmel-a-1834d936-8f3c-4689-8781-baa20209785d#ref=rss)
+### tote
+
+* [https://www.spiegel.de/panorama/uganda-46-tote-bei-busunglueck](https://www.spiegel.de/panorama/uganda-46-tote-bei-busunglueck-a-2a83c69b-8216-4cc8-bb89-3b5bda891c96#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu-a-c2c7358d-849f-47bf-921d-ebdcb3735abb#ref=rss)
+### vance
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission](https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission-a-c4a9e639-5332-403b-8aaf-50a0174ac706#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu-a-c2c7358d-849f-47bf-921d-ebdcb3735abb#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission](https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission-a-c4a9e639-5332-403b-8aaf-50a0174ac706#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu-a-c2c7358d-849f-47bf-921d-ebdcb3735abb#ref=rss)
+### geiseln
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission](https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission-a-c4a9e639-5332-403b-8aaf-50a0174ac706#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu-a-c2c7358d-849f-47bf-921d-ebdcb3735abb#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-debatte-thema-komplett-verfehlt-herr-bundeskanzler-kommentar](https://www.spiegel.de/politik/deutschland/stadtbild-debatte-thema-komplett-verfehlt-herr-bundeskanzler-kommentar-a-27fd777a-7011-4623-a3c0-9abdd0a5c748#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-linkenpolitikerin-wirft-kanzler-friedrich-merz-bei-seiner-stadtbild-aussage-blanken-rassismus-vor](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-linkenpolitikerin-wirft-kanzler-friedrich-merz-bei-seiner-stadtbild-aussage-blanken-rassismus-vor-a-0e7f922f-3085-4c2b-b4b5-215777c6fb5f#ref=rss)
 ### eigenen
 
-* [https://www.spiegel.de/panorama/justiz/zwickau-40-jaehriger-in-sachsen-soll-fuer-missbrauch-der-eigenen-tochter-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/zwickau-40-jaehriger-in-sachsen-soll-fuer-missbrauch-der-eigenen-tochter-ins-gefaengnis-a-c1f29a3b-f375-4cf3-bc76-2157f4186af3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-er-habe-ki-fuer-gesetzestexte-der-bundesregierung-ausprobiert](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-er-habe-ki-fuer-gesetzestexte-der-bundesregierung-ausprobiert-a-1611ebfe-92c0-41f0-b1f8-4ae95a2507c1#ref=rss)
-### mädchen
+* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-in-der-champions-league-aleix-garcia-entschuldigt-sich-bei-den-eigenen-fans](https://www.spiegel.de/sport/fussball/bayer-leverkusen-in-der-champions-league-aleix-garcia-entschuldigt-sich-bei-den-eigenen-fans-a-61611bf8-8c04-4059-8d60-eb1ddad091aa#ref=rss)
+* [https://www.spiegel.de/netzwelt/ki-browser-atlas-openai-greift-google-browser-chrome-an](https://www.spiegel.de/netzwelt/ki-browser-atlas-openai-greift-google-browser-chrome-an-a-bdfe1b0c-d5e2-4f57-bd5d-8d7f1524e6cb#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/panorama/justiz/zwickau-40-jaehriger-in-sachsen-soll-fuer-missbrauch-der-eigenen-tochter-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/zwickau-40-jaehriger-in-sachsen-soll-fuer-missbrauch-der-eigenen-tochter-ins-gefaengnis-a-c1f29a3b-f375-4cf3-bc76-2157f4186af3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-und-das-stadtbild-lassen-sie-die-frauen-da-raus](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-und-das-stadtbild-lassen-sie-die-frauen-da-raus-a-952c89bc-3898-4a4c-b9c7-c98993c6a826#ref=rss)
-### michel
+* [https://www.spiegel.de/ausland/nobelpreistraegerin-malala-yousafzai-ueber-die-unterdrueckung-von-frauen-in-afghanistan-die-taliban-sind-noch-schlimmer-als-zuvor-und-schlauer](https://www.spiegel.de/ausland/nobelpreistraegerin-malala-yousafzai-ueber-die-unterdrueckung-von-frauen-in-afghanistan-die-taliban-sind-noch-schlimmer-als-zuvor-und-schlauer-a-8cc60e19-ba49-46da-9361-7fe9eebc2659#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-linkenpolitikerin-wirft-kanzler-friedrich-merz-bei-seiner-stadtbild-aussage-blanken-rassismus-vor](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-linkenpolitikerin-wirft-kanzler-friedrich-merz-bei-seiner-stadtbild-aussage-blanken-rassismus-vor-a-0e7f922f-3085-4c2b-b4b5-215777c6fb5f#ref=rss)
+### taliban
 
-* [https://www.spiegel.de/kultur/literatur/nach-streit-um-lesung-von-michel-friedman-der-chef-des-literaturhaus-in-kluetz-soll-gehen](https://www.spiegel.de/kultur/literatur/nach-streit-um-lesung-von-michel-friedman-der-chef-des-literaturhaus-in-kluetz-soll-gehen-a-b3117a09-fc22-4ee7-8fe3-8bff30ce7f49#ref=rss)
-### chef
+* [https://www.spiegel.de/ausland/nobelpreistraegerin-malala-yousafzai-ueber-die-unterdrueckung-von-frauen-in-afghanistan-die-taliban-sind-noch-schlimmer-als-zuvor-und-schlauer](https://www.spiegel.de/ausland/nobelpreistraegerin-malala-yousafzai-ueber-die-unterdrueckung-von-frauen-in-afghanistan-die-taliban-sind-noch-schlimmer-als-zuvor-und-schlauer-a-8cc60e19-ba49-46da-9361-7fe9eebc2659#ref=rss)
+### journalisten
 
-* [https://www.spiegel.de/kultur/literatur/nach-streit-um-lesung-von-michel-friedman-der-chef-des-literaturhaus-in-kluetz-soll-gehen](https://www.spiegel.de/kultur/literatur/nach-streit-um-lesung-von-michel-friedman-der-chef-des-literaturhaus-in-kluetz-soll-gehen-a-b3117a09-fc22-4ee7-8fe3-8bff30ce7f49#ref=rss)
-### ausgelöst
+* [https://www.spiegel.de/politik/deutschland/sacharow-preis-zwei-inhaftierte-journalisten-in-belarus-und-georgien-gewinnen-sacharow-preis](https://www.spiegel.de/politik/deutschland/sacharow-preis-zwei-inhaftierte-journalisten-in-belarus-und-georgien-gewinnen-sacharow-preis-a-cc3a375e-dde1-4992-9b1a-574ded18f72c#ref=rss)
+### mangelberufen
 
-* [https://www.spiegel.de/kultur/literatur/nach-streit-um-lesung-von-michel-friedman-der-chef-des-literaturhaus-in-kluetz-soll-gehen](https://www.spiegel.de/kultur/literatur/nach-streit-um-lesung-von-michel-friedman-der-chef-des-literaturhaus-in-kluetz-soll-gehen-a-b3117a09-fc22-4ee7-8fe3-8bff30ce7f49#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/heinz-strunk-ueber-literatur-fuer-kinder-die-tendenz-scheint-mir-zu-sein-dass-man-die-kinder-unterfordert](https://www.spiegel.de/kultur/literatur/heinz-strunk-ueber-literatur-fuer-kinder-die-tendenz-scheint-mir-zu-sein-dass-man-die-kinder-unterfordert-a-492e54ae-a5a5-4b76-a02b-317387b11d93#ref=rss)
-### organisierte
+* [https://www.spiegel.de/wirtschaft/einwanderer-arbeiten-besonders-oft-in-mangelberufen-und-selten-als-polizisten](https://www.spiegel.de/wirtschaft/einwanderer-arbeiten-besonders-oft-in-mangelberufen-und-selten-als-polizisten-a-354f5ba6-b2b7-44fb-a3df-52d5a687b674#ref=rss)
+### polizisten
 
-* [https://www.spiegel.de/ausland/louvre-coup-fahnder-in-frankreich-sehen-organisierte-kriminalitaet-hinter-einbruch](https://www.spiegel.de/ausland/louvre-coup-fahnder-in-frankreich-sehen-organisierte-kriminalitaet-hinter-einbruch-a-ba205526-edd5-4d0a-9a46-fa33018d3ccf#ref=rss)
-### hinter
+* [https://www.spiegel.de/wirtschaft/einwanderer-arbeiten-besonders-oft-in-mangelberufen-und-selten-als-polizisten](https://www.spiegel.de/wirtschaft/einwanderer-arbeiten-besonders-oft-in-mangelberufen-und-selten-als-polizisten-a-354f5ba6-b2b7-44fb-a3df-52d5a687b674#ref=rss)
+* [https://www.spiegel.de/ausland/saggart-gewaltsame-ausschreitungen-vor-asylunterkunft-in-irland](https://www.spiegel.de/ausland/saggart-gewaltsame-ausschreitungen-vor-asylunterkunft-in-irland-a-885dc5f1-e8a2-46dc-9233-65bbbafdacfe#ref=rss)
+### nichts
 
-* [https://www.spiegel.de/ausland/louvre-coup-fahnder-in-frankreich-sehen-organisierte-kriminalitaet-hinter-einbruch](https://www.spiegel.de/ausland/louvre-coup-fahnder-in-frankreich-sehen-organisierte-kriminalitaet-hinter-einbruch-a-ba205526-edd5-4d0a-9a46-fa33018d3ccf#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimapolitik-in-europa-2000-wissenschaftler-draengen-eu-zu-klimaziel-fuer-2040](https://www.spiegel.de/wissenschaft/klimapolitik-in-europa-2000-wissenschaftler-draengen-eu-zu-klimaziel-fuer-2040-a-b7245237-4464-43a7-9447-7f79dbf27541#ref=rss)
-### daniel
+* [https://www.spiegel.de/wirtschaft/einwanderer-arbeiten-besonders-oft-in-mangelberufen-und-selten-als-polizisten](https://www.spiegel.de/wirtschaft/einwanderer-arbeiten-besonders-oft-in-mangelberufen-und-selten-als-polizisten-a-354f5ba6-b2b7-44fb-a3df-52d5a687b674#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-spanisches-liga-spiel-zwischen-fc-barcelona-und-villareal-in-den-usa-abgesagt](https://www.spiegel.de/sport/fussball/fussball-spanisches-liga-spiel-zwischen-fc-barcelona-und-villareal-in-den-usa-abgesagt-a-b6d20c5b-afad-4431-aad7-4d8b8467c775#ref=rss)
+### franz
 
-* [https://www.spiegel.de/sport/daniel-naroditsky-er-gab-seine-liebe-zum-schach-an-millionen-menschen-weiter-nachruf](https://www.spiegel.de/sport/daniel-naroditsky-er-gab-seine-liebe-zum-schach-an-millionen-menschen-weiter-nachruf-a-3e01b0db-81e4-4477-b0fc-e51f98642588#ref=rss)
-### naroditsky
+* [https://www.spiegel.de/sport/basketball/nba-kann-franz-wagner-mit-den-orlando-magic-um-den-titel-mitspielen](https://www.spiegel.de/sport/basketball/nba-kann-franz-wagner-mit-den-orlando-magic-um-den-titel-mitspielen-a-991a02c9-473a-4703-b54d-d78e1f76cc9d#ref=rss)
+### wagner
 
-* [https://www.spiegel.de/sport/daniel-naroditsky-er-gab-seine-liebe-zum-schach-an-millionen-menschen-weiter-nachruf](https://www.spiegel.de/sport/daniel-naroditsky-er-gab-seine-liebe-zum-schach-an-millionen-menschen-weiter-nachruf-a-3e01b0db-81e4-4477-b0fc-e51f98642588#ref=rss)
-### heinz
+* [https://www.spiegel.de/sport/basketball/nba-kann-franz-wagner-mit-den-orlando-magic-um-den-titel-mitspielen](https://www.spiegel.de/sport/basketball/nba-kann-franz-wagner-mit-den-orlando-magic-um-den-titel-mitspielen-a-991a02c9-473a-4703-b54d-d78e1f76cc9d#ref=rss)
+### orlando
 
-* [https://www.spiegel.de/kultur/literatur/heinz-strunk-ueber-literatur-fuer-kinder-die-tendenz-scheint-mir-zu-sein-dass-man-die-kinder-unterfordert](https://www.spiegel.de/kultur/literatur/heinz-strunk-ueber-literatur-fuer-kinder-die-tendenz-scheint-mir-zu-sein-dass-man-die-kinder-unterfordert-a-492e54ae-a5a5-4b76-a02b-317387b11d93#ref=rss)
-### strunk
+* [https://www.spiegel.de/sport/basketball/nba-kann-franz-wagner-mit-den-orlando-magic-um-den-titel-mitspielen](https://www.spiegel.de/sport/basketball/nba-kann-franz-wagner-mit-den-orlando-magic-um-den-titel-mitspielen-a-991a02c9-473a-4703-b54d-d78e1f76cc9d#ref=rss)
+### magic
 
-* [https://www.spiegel.de/kultur/literatur/heinz-strunk-ueber-literatur-fuer-kinder-die-tendenz-scheint-mir-zu-sein-dass-man-die-kinder-unterfordert](https://www.spiegel.de/kultur/literatur/heinz-strunk-ueber-literatur-fuer-kinder-die-tendenz-scheint-mir-zu-sein-dass-man-die-kinder-unterfordert-a-492e54ae-a5a5-4b76-a02b-317387b11d93#ref=rss)
-### frankreichs
+* [https://www.spiegel.de/sport/basketball/nba-kann-franz-wagner-mit-den-orlando-magic-um-den-titel-mitspielen](https://www.spiegel.de/sport/basketball/nba-kann-franz-wagner-mit-den-orlando-magic-um-den-titel-mitspielen-a-991a02c9-473a-4703-b54d-d78e1f76cc9d#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/frankreichs-ex-praesident-nicolas-sarkozy-so-wird-er-im-gefaengnis-untergebracht](https://www.spiegel.de/ausland/frankreichs-ex-praesident-nicolas-sarkozy-so-wird-er-im-gefaengnis-untergebracht-a-172b2051-d4ee-4ddd-9030-63986a8b6f44#ref=rss)
-### expräsident
+* [https://www.spiegel.de/sport/basketball/nba-kann-franz-wagner-mit-den-orlando-magic-um-den-titel-mitspielen](https://www.spiegel.de/sport/basketball/nba-kann-franz-wagner-mit-den-orlando-magic-um-den-titel-mitspielen-a-991a02c9-473a-4703-b54d-d78e1f76cc9d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-trennt-sich-von-gueterverkehrschefin-nikutta](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-trennt-sich-von-gueterverkehrschefin-nikutta-a-f0da35c7-8208-461c-a802-b60014cf80f1#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/ausland/frankreichs-ex-praesident-nicolas-sarkozy-so-wird-er-im-gefaengnis-untergebracht](https://www.spiegel.de/ausland/frankreichs-ex-praesident-nicolas-sarkozy-so-wird-er-im-gefaengnis-untergebracht-a-172b2051-d4ee-4ddd-9030-63986a8b6f44#ref=rss)
-### nicolas
+* [https://www.spiegel.de/ausland/donald-trump-kandidat-fuer-whistleblower-schutz-wegen-nazi-vorwuerfen-zurueckgezogen](https://www.spiegel.de/ausland/donald-trump-kandidat-fuer-whistleblower-schutz-wegen-nazi-vorwuerfen-zurueckgezogen-a-aa8b9577-b553-467f-bbcd-805c86cc4092#ref=rss)
+* [https://www.spiegel.de/kultur/kevin-kuehnert-ex-spd-generalsekretaer-jetzt-autor-beim-rolling-stone](https://www.spiegel.de/kultur/kevin-kuehnert-ex-spd-generalsekretaer-jetzt-autor-beim-rolling-stone-a-ec6a3175-5fb0-46f7-a29f-af3e7998a7ed#ref=rss)
+### dennsbiomärkte
 
-* [https://www.spiegel.de/ausland/frankreichs-ex-praesident-nicolas-sarkozy-so-wird-er-im-gefaengnis-untergebracht](https://www.spiegel.de/ausland/frankreichs-ex-praesident-nicolas-sarkozy-so-wird-er-im-gefaengnis-untergebracht-a-172b2051-d4ee-4ddd-9030-63986a8b6f44#ref=rss)
-### sarkozy
+* [https://www.spiegel.de/wirtschaft/unternehmen/denns-biomaerkte-gruender-der-dennre-gruppe-ist-tot](https://www.spiegel.de/wirtschaft/unternehmen/denns-biomaerkte-gruender-der-dennre-gruppe-ist-tot-a-01a447dc-32ef-4483-92c0-efbe4bd29bdf#ref=rss)
+### gründer
 
-* [https://www.spiegel.de/ausland/frankreichs-ex-praesident-nicolas-sarkozy-so-wird-er-im-gefaengnis-untergebracht](https://www.spiegel.de/ausland/frankreichs-ex-praesident-nicolas-sarkozy-so-wird-er-im-gefaengnis-untergebracht-a-172b2051-d4ee-4ddd-9030-63986a8b6f44#ref=rss)
-### europa
+* [https://www.spiegel.de/wirtschaft/unternehmen/denns-biomaerkte-gruender-der-dennre-gruppe-ist-tot](https://www.spiegel.de/wirtschaft/unternehmen/denns-biomaerkte-gruender-der-dennre-gruppe-ist-tot-a-01a447dc-32ef-4483-92c0-efbe4bd29bdf#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/wissenschaft/klimapolitik-in-europa-2000-wissenschaftler-draengen-eu-zu-klimaziel-fuer-2040](https://www.spiegel.de/wissenschaft/klimapolitik-in-europa-2000-wissenschaftler-draengen-eu-zu-klimaziel-fuer-2040-a-b7245237-4464-43a7-9447-7f79dbf27541#ref=rss)
-### klimaziel
+* [https://www.spiegel.de/wirtschaft/unternehmen/denns-biomaerkte-gruender-der-dennre-gruppe-ist-tot](https://www.spiegel.de/wirtschaft/unternehmen/denns-biomaerkte-gruender-der-dennre-gruppe-ist-tot-a-01a447dc-32ef-4483-92c0-efbe4bd29bdf#ref=rss)
+* [https://www.spiegel.de/panorama/leute/eva-habermann-schauspielerin-und-moderatorin-findet-kinderlosigkeit-okay-so](https://www.spiegel.de/panorama/leute/eva-habermann-schauspielerin-und-moderatorin-findet-kinderlosigkeit-okay-so-a-c499e2a2-4c70-4ff8-b48c-84ef353f5168#ref=rss)
+### irland
 
-* [https://www.spiegel.de/wissenschaft/klimapolitik-in-europa-2000-wissenschaftler-draengen-eu-zu-klimaziel-fuer-2040](https://www.spiegel.de/wissenschaft/klimapolitik-in-europa-2000-wissenschaftler-draengen-eu-zu-klimaziel-fuer-2040-a-b7245237-4464-43a7-9447-7f79dbf27541#ref=rss)
-### 2040
+* [https://www.spiegel.de/netzwelt/prinz-harry-und-meghan-schliessen-sich-appell-gegen-ki-superintelligenz-an](https://www.spiegel.de/netzwelt/prinz-harry-und-meghan-schliessen-sich-appell-gegen-ki-superintelligenz-an-a-c97cce96-2054-4acf-811f-ceef530d2253#ref=rss)
+* [https://www.spiegel.de/ausland/saggart-gewaltsame-ausschreitungen-vor-asylunterkunft-in-irland](https://www.spiegel.de/ausland/saggart-gewaltsame-ausschreitungen-vor-asylunterkunft-in-irland-a-885dc5f1-e8a2-46dc-9233-65bbbafdacfe#ref=rss)
+### ki
 
-* [https://www.spiegel.de/wissenschaft/klimapolitik-in-europa-2000-wissenschaftler-draengen-eu-zu-klimaziel-fuer-2040](https://www.spiegel.de/wissenschaft/klimapolitik-in-europa-2000-wissenschaftler-draengen-eu-zu-klimaziel-fuer-2040-a-b7245237-4464-43a7-9447-7f79dbf27541#ref=rss)
-### auto
+* [https://www.spiegel.de/netzwelt/prinz-harry-und-meghan-schliessen-sich-appell-gegen-ki-superintelligenz-an](https://www.spiegel.de/netzwelt/prinz-harry-und-meghan-schliessen-sich-appell-gegen-ki-superintelligenz-an-a-c97cce96-2054-4acf-811f-ceef530d2253#ref=rss)
+* [https://www.spiegel.de/netzwelt/ki-browser-atlas-openai-greift-google-browser-chrome-an](https://www.spiegel.de/netzwelt/ki-browser-atlas-openai-greift-google-browser-chrome-an-a-bdfe1b0c-d5e2-4f57-bd5d-8d7f1524e6cb#ref=rss)
+### dan
 
-* [https://www.spiegel.de/auto/adac-test-von-kindersitzen-fuers-auto-weniger-als-ein-drittel-ist-gut](https://www.spiegel.de/auto/adac-test-von-kindersitzen-fuers-auto-weniger-als-ein-drittel-ist-gut-a-adcdbc7e-fc5f-4480-9dde-3bf2a3fc2eb6#ref=rss)
-### polizei
+* [https://www.spiegel.de/kultur/literatur/dan-brown-the-secret-of-secrets-wuerde-lieber-eine-stunde-zum-zahnarzt-gehen-als-yoga-machen](https://www.spiegel.de/kultur/literatur/dan-brown-the-secret-of-secrets-wuerde-lieber-eine-stunde-zum-zahnarzt-gehen-als-yoga-machen-a-7aadbb0d-77ed-42c4-a0f2-b79ed8414e6a#ref=rss)
+### brown
 
-* [https://www.spiegel.de/panorama/justiz/bremerhaven-polizei-stellt-penisattrappe-bei-mutmasslichem-verkehrssuender-sicher](https://www.spiegel.de/panorama/justiz/bremerhaven-polizei-stellt-penisattrappe-bei-mutmasslichem-verkehrssuender-sicher-a-18152bbf-eab8-4ab4-8d5d-699a53335cec#ref=rss)
-### penisattrappe
+* [https://www.spiegel.de/kultur/literatur/dan-brown-the-secret-of-secrets-wuerde-lieber-eine-stunde-zum-zahnarzt-gehen-als-yoga-machen](https://www.spiegel.de/kultur/literatur/dan-brown-the-secret-of-secrets-wuerde-lieber-eine-stunde-zum-zahnarzt-gehen-als-yoga-machen-a-7aadbb0d-77ed-42c4-a0f2-b79ed8414e6a#ref=rss)
+### stunde
 
-* [https://www.spiegel.de/panorama/justiz/bremerhaven-polizei-stellt-penisattrappe-bei-mutmasslichem-verkehrssuender-sicher](https://www.spiegel.de/panorama/justiz/bremerhaven-polizei-stellt-penisattrappe-bei-mutmasslichem-verkehrssuender-sicher-a-18152bbf-eab8-4ab4-8d5d-699a53335cec#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/dan-brown-the-secret-of-secrets-wuerde-lieber-eine-stunde-zum-zahnarzt-gehen-als-yoga-machen](https://www.spiegel.de/kultur/literatur/dan-brown-the-secret-of-secrets-wuerde-lieber-eine-stunde-zum-zahnarzt-gehen-als-yoga-machen-a-7aadbb0d-77ed-42c4-a0f2-b79ed8414e6a#ref=rss)
+* [https://www.spiegel.de/panorama/herbstwetter-sturmtief-bringt-orkanartige-boeen-und-starkregen](https://www.spiegel.de/panorama/herbstwetter-sturmtief-bringt-orkanartige-boeen-und-starkregen-a-df245b2b-f8bf-4d39-9957-bebddc82abca#ref=rss)
+### yoga
+
+* [https://www.spiegel.de/kultur/literatur/dan-brown-the-secret-of-secrets-wuerde-lieber-eine-stunde-zum-zahnarzt-gehen-als-yoga-machen](https://www.spiegel.de/kultur/literatur/dan-brown-the-secret-of-secrets-wuerde-lieber-eine-stunde-zum-zahnarzt-gehen-als-yoga-machen-a-7aadbb0d-77ed-42c4-a0f2-b79ed8414e6a#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/kultur/literatur/dan-brown-the-secret-of-secrets-wuerde-lieber-eine-stunde-zum-zahnarzt-gehen-als-yoga-machen](https://www.spiegel.de/kultur/literatur/dan-brown-the-secret-of-secrets-wuerde-lieber-eine-stunde-zum-zahnarzt-gehen-als-yoga-machen-a-7aadbb0d-77ed-42c4-a0f2-b79ed8414e6a#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-sich-offenbar-230-millionen-dollar-von-eigenem-justizministerium-auszahlen-lassen](https://www.spiegel.de/ausland/donald-trump-will-sich-offenbar-230-millionen-dollar-von-eigenem-justizministerium-auszahlen-lassen-a-beb872c1-a017-4de6-b281-d59f1e65672b#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/donald-trump-will-sich-offenbar-230-millionen-dollar-von-eigenem-justizministerium-auszahlen-lassen](https://www.spiegel.de/ausland/donald-trump-will-sich-offenbar-230-millionen-dollar-von-eigenem-justizministerium-auszahlen-lassen-a-beb872c1-a017-4de6-b281-d59f1e65672b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/eva-habermann-schauspielerin-und-moderatorin-findet-kinderlosigkeit-okay-so](https://www.spiegel.de/panorama/leute/eva-habermann-schauspielerin-und-moderatorin-findet-kinderlosigkeit-okay-so-a-c499e2a2-4c70-4ff8-b48c-84ef353f5168#ref=rss)
+### justizministerium
+
+* [https://www.spiegel.de/ausland/donald-trump-will-sich-offenbar-230-millionen-dollar-von-eigenem-justizministerium-auszahlen-lassen](https://www.spiegel.de/ausland/donald-trump-will-sich-offenbar-230-millionen-dollar-von-eigenem-justizministerium-auszahlen-lassen-a-beb872c1-a017-4de6-b281-d59f1e65672b#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/ausland/donald-trump-will-sich-offenbar-230-millionen-dollar-von-eigenem-justizministerium-auszahlen-lassen](https://www.spiegel.de/ausland/donald-trump-will-sich-offenbar-230-millionen-dollar-von-eigenem-justizministerium-auszahlen-lassen-a-beb872c1-a017-4de6-b281-d59f1e65672b#ref=rss)
+* [https://www.spiegel.de/ausland/saggart-gewaltsame-ausschreitungen-vor-asylunterkunft-in-irland](https://www.spiegel.de/ausland/saggart-gewaltsame-ausschreitungen-vor-asylunterkunft-in-irland-a-885dc5f1-e8a2-46dc-9233-65bbbafdacfe#ref=rss)
+### asylunterkunft
+
+* [https://www.spiegel.de/ausland/saggart-gewaltsame-ausschreitungen-vor-asylunterkunft-in-irland](https://www.spiegel.de/ausland/saggart-gewaltsame-ausschreitungen-vor-asylunterkunft-in-irland-a-885dc5f1-e8a2-46dc-9233-65bbbafdacfe#ref=rss)
+### fußball
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-italien-zweitligist-juve-stabia-wegen-mafia-verstrickungen-unter-justizaufsicht](https://www.spiegel.de/sport/fussball/fussball-in-italien-zweitligist-juve-stabia-wegen-mafia-verstrickungen-unter-justizaufsicht-a-00e99d91-6f8a-457e-a481-5688ff3c7a04#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-spanisches-liga-spiel-zwischen-fc-barcelona-und-villareal-in-den-usa-abgesagt](https://www.spiegel.de/sport/fussball/fussball-spanisches-liga-spiel-zwischen-fc-barcelona-und-villareal-in-den-usa-abgesagt-a-b6d20c5b-afad-4431-aad7-4d8b8467c775#ref=rss)
+### juve
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-italien-zweitligist-juve-stabia-wegen-mafia-verstrickungen-unter-justizaufsicht](https://www.spiegel.de/sport/fussball/fussball-in-italien-zweitligist-juve-stabia-wegen-mafia-verstrickungen-unter-justizaufsicht-a-00e99d91-6f8a-457e-a481-5688ff3c7a04#ref=rss)
+### stabia
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-italien-zweitligist-juve-stabia-wegen-mafia-verstrickungen-unter-justizaufsicht](https://www.spiegel.de/sport/fussball/fussball-in-italien-zweitligist-juve-stabia-wegen-mafia-verstrickungen-unter-justizaufsicht-a-00e99d91-6f8a-457e-a481-5688ff3c7a04#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-italien-zweitligist-juve-stabia-wegen-mafia-verstrickungen-unter-justizaufsicht](https://www.spiegel.de/sport/fussball/fussball-in-italien-zweitligist-juve-stabia-wegen-mafia-verstrickungen-unter-justizaufsicht-a-00e99d91-6f8a-457e-a481-5688ff3c7a04#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/dietzenbach-lehrer-soll-ki-porno-bild-einer-schuelerin-erstellt-haben](https://www.spiegel.de/panorama/bildung/dietzenbach-lehrer-soll-ki-porno-bild-einer-schuelerin-erstellt-haben-a-819a59eb-0376-403c-8a7d-104c3ca54475#ref=rss)
+### swan
+
+* [https://www.spiegel.de/wissenschaft/weltall/swan-und-lemmon-tipps-zur-beobachtung-der-gruenen-kometen-am-nachthimmel](https://www.spiegel.de/wissenschaft/weltall/swan-und-lemmon-tipps-zur-beobachtung-der-gruenen-kometen-am-nachthimmel-a-1834d936-8f3c-4689-8781-baa20209785d#ref=rss)
+### lemmon
+
+* [https://www.spiegel.de/wissenschaft/weltall/swan-und-lemmon-tipps-zur-beobachtung-der-gruenen-kometen-am-nachthimmel](https://www.spiegel.de/wissenschaft/weltall/swan-und-lemmon-tipps-zur-beobachtung-der-gruenen-kometen-am-nachthimmel-a-1834d936-8f3c-4689-8781-baa20209785d#ref=rss)
+### nachthimmel
+
+* [https://www.spiegel.de/wissenschaft/weltall/swan-und-lemmon-tipps-zur-beobachtung-der-gruenen-kometen-am-nachthimmel](https://www.spiegel.de/wissenschaft/weltall/swan-und-lemmon-tipps-zur-beobachtung-der-gruenen-kometen-am-nachthimmel-a-1834d936-8f3c-4689-8781-baa20209785d#ref=rss)
+### sorgen
+
+* [https://www.spiegel.de/wissenschaft/weltall/swan-und-lemmon-tipps-zur-beobachtung-der-gruenen-kometen-am-nachthimmel](https://www.spiegel.de/wissenschaft/weltall/swan-und-lemmon-tipps-zur-beobachtung-der-gruenen-kometen-am-nachthimmel-a-1834d936-8f3c-4689-8781-baa20209785d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-linkenpolitikerin-wirft-kanzler-friedrich-merz-bei-seiner-stadtbild-aussage-blanken-rassismus-vor](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-linkenpolitikerin-wirft-kanzler-friedrich-merz-bei-seiner-stadtbild-aussage-blanken-rassismus-vor-a-0e7f922f-3085-4c2b-b4b5-215777c6fb5f#ref=rss)
+### uganda
+
+* [https://www.spiegel.de/panorama/uganda-46-tote-bei-busunglueck](https://www.spiegel.de/panorama/uganda-46-tote-bei-busunglueck-a-2a83c69b-8216-4cc8-bb89-3b5bda891c96#ref=rss)
+### los
+
+* [https://www.spiegel.de/sport/basketball/nba-fehlstart-fuer-die-los-angeles-lakers-oklahoma-city-thunder-gewinnt-nach-verlaengerung](https://www.spiegel.de/sport/basketball/nba-fehlstart-fuer-die-los-angeles-lakers-oklahoma-city-thunder-gewinnt-nach-verlaengerung-a-7a79190f-da4a-4e6b-8c75-f5fc27e8b1f8#ref=rss)
+### angeles
+
+* [https://www.spiegel.de/sport/basketball/nba-fehlstart-fuer-die-los-angeles-lakers-oklahoma-city-thunder-gewinnt-nach-verlaengerung](https://www.spiegel.de/sport/basketball/nba-fehlstart-fuer-die-los-angeles-lakers-oklahoma-city-thunder-gewinnt-nach-verlaengerung-a-7a79190f-da4a-4e6b-8c75-f5fc27e8b1f8#ref=rss)
+### lakers
+
+* [https://www.spiegel.de/sport/basketball/nba-fehlstart-fuer-die-los-angeles-lakers-oklahoma-city-thunder-gewinnt-nach-verlaengerung](https://www.spiegel.de/sport/basketball/nba-fehlstart-fuer-die-los-angeles-lakers-oklahoma-city-thunder-gewinnt-nach-verlaengerung-a-7a79190f-da4a-4e6b-8c75-f5fc27e8b1f8#ref=rss)
+### eva
+
+* [https://www.spiegel.de/panorama/leute/eva-habermann-schauspielerin-und-moderatorin-findet-kinderlosigkeit-okay-so](https://www.spiegel.de/panorama/leute/eva-habermann-schauspielerin-und-moderatorin-findet-kinderlosigkeit-okay-so-a-c499e2a2-4c70-4ff8-b48c-84ef353f5168#ref=rss)
+### habermann
+
+* [https://www.spiegel.de/panorama/leute/eva-habermann-schauspielerin-und-moderatorin-findet-kinderlosigkeit-okay-so](https://www.spiegel.de/panorama/leute/eva-habermann-schauspielerin-und-moderatorin-findet-kinderlosigkeit-okay-so-a-c499e2a2-4c70-4ff8-b48c-84ef353f5168#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/panorama/leute/eva-habermann-schauspielerin-und-moderatorin-findet-kinderlosigkeit-okay-so](https://www.spiegel.de/panorama/leute/eva-habermann-schauspielerin-und-moderatorin-findet-kinderlosigkeit-okay-so-a-c499e2a2-4c70-4ff8-b48c-84ef353f5168#ref=rss)
+### israelgazakrieg
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission](https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission-a-c4a9e639-5332-403b-8aaf-50a0174ac706#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu-a-c2c7358d-849f-47bf-921d-ebdcb3735abb#ref=rss)
+### jd
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission](https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission-a-c4a9e639-5332-403b-8aaf-50a0174ac706#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu-a-c2c7358d-849f-47bf-921d-ebdcb3735abb#ref=rss)
+### mahnt
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission](https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission-a-c4a9e639-5332-403b-8aaf-50a0174ac706#ref=rss)
+### geduld
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission](https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission-a-c4a9e639-5332-403b-8aaf-50a0174ac706#ref=rss)
+### getöteten
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission](https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission-a-c4a9e639-5332-403b-8aaf-50a0174ac706#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu-a-c2c7358d-849f-47bf-921d-ebdcb3735abb#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission](https://www.spiegel.de/ausland/israel-gaza-krieg-jd-vance-mahnt-zur-geduld-bei-friedensmission-a-c4a9e639-5332-403b-8aaf-50a0174ac706#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-spanisches-liga-spiel-zwischen-fc-barcelona-und-villareal-in-den-usa-abgesagt](https://www.spiegel.de/sport/fussball/fussball-spanisches-liga-spiel-zwischen-fc-barcelona-und-villareal-in-den-usa-abgesagt-a-b6d20c5b-afad-4431-aad7-4d8b8467c775#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-debatte-thema-komplett-verfehlt-herr-bundeskanzler-kommentar](https://www.spiegel.de/politik/deutschland/stadtbild-debatte-thema-komplett-verfehlt-herr-bundeskanzler-kommentar-a-27fd777a-7011-4623-a3c0-9abdd0a5c748#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-linkenpolitikerin-wirft-kanzler-friedrich-merz-bei-seiner-stadtbild-aussage-blanken-rassismus-vor](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-linkenpolitikerin-wirft-kanzler-friedrich-merz-bei-seiner-stadtbild-aussage-blanken-rassismus-vor-a-0e7f922f-3085-4c2b-b4b5-215777c6fb5f#ref=rss)
+### recht
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-debatte-thema-komplett-verfehlt-herr-bundeskanzler-kommentar](https://www.spiegel.de/politik/deutschland/stadtbild-debatte-thema-komplett-verfehlt-herr-bundeskanzler-kommentar-a-27fd777a-7011-4623-a3c0-9abdd0a5c748#ref=rss)
+* [https://www.spiegel.de/auto/volkswagen-aeltester-vw-kaefer-aus-1937-faehrt-wieder-durch-niedersachsen](https://www.spiegel.de/auto/volkswagen-aeltester-vw-kaefer-aus-1937-faehrt-wieder-durch-niedersachsen-a-04ce282a-f571-495d-bef8-3d9b40b5428d#ref=rss)
+### problem
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-debatte-thema-komplett-verfehlt-herr-bundeskanzler-kommentar](https://www.spiegel.de/politik/deutschland/stadtbild-debatte-thema-komplett-verfehlt-herr-bundeskanzler-kommentar-a-27fd777a-7011-4623-a3c0-9abdd0a5c748#ref=rss)
+### désirée
+
+* [https://www.spiegel.de/kultur/tv/desiree-nick-will-ignoranten-das-wahre-berlin-nahebringen](https://www.spiegel.de/kultur/tv/desiree-nick-will-ignoranten-das-wahre-berlin-nahebringen-a-c0eada17-ab07-468f-a086-f65e04311c7d#ref=rss)
+### nick
+
+* [https://www.spiegel.de/kultur/tv/desiree-nick-will-ignoranten-das-wahre-berlin-nahebringen](https://www.spiegel.de/kultur/tv/desiree-nick-will-ignoranten-das-wahre-berlin-nahebringen-a-c0eada17-ab07-468f-a086-f65e04311c7d#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/kultur/tv/desiree-nick-will-ignoranten-das-wahre-berlin-nahebringen](https://www.spiegel.de/kultur/tv/desiree-nick-will-ignoranten-das-wahre-berlin-nahebringen-a-c0eada17-ab07-468f-a086-f65e04311c7d#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-trennt-sich-von-gueterverkehrschefin-nikutta](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-trennt-sich-von-gueterverkehrschefin-nikutta-a-f0da35c7-8208-461c-a802-b60014cf80f1#ref=rss)
+### güterverkehrschefin
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-trennt-sich-von-gueterverkehrschefin-nikutta](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-trennt-sich-von-gueterverkehrschefin-nikutta-a-f0da35c7-8208-461c-a802-b60014cf80f1#ref=rss)
+### nikutta
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-trennt-sich-von-gueterverkehrschefin-nikutta](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-trennt-sich-von-gueterverkehrschefin-nikutta-a-f0da35c7-8208-461c-a802-b60014cf80f1#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-trennt-sich-von-gueterverkehrschefin-nikutta](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-trennt-sich-von-gueterverkehrschefin-nikutta-a-f0da35c7-8208-461c-a802-b60014cf80f1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-linkenpolitikerin-wirft-kanzler-friedrich-merz-bei-seiner-stadtbild-aussage-blanken-rassismus-vor](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-linkenpolitikerin-wirft-kanzler-friedrich-merz-bei-seiner-stadtbild-aussage-blanken-rassismus-vor-a-0e7f922f-3085-4c2b-b4b5-215777c6fb5f#ref=rss)
+### champions
+
+* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-in-der-champions-league-aleix-garcia-entschuldigt-sich-bei-den-eigenen-fans](https://www.spiegel.de/sport/fussball/bayer-leverkusen-in-der-champions-league-aleix-garcia-entschuldigt-sich-bei-den-eigenen-fans-a-61611bf8-8c04-4059-8d60-eb1ddad091aa#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/bayer-leverkusen-in-der-champions-league-aleix-garcia-entschuldigt-sich-bei-den-eigenen-fans](https://www.spiegel.de/sport/fussball/bayer-leverkusen-in-der-champions-league-aleix-garcia-entschuldigt-sich-bei-den-eigenen-fans-a-61611bf8-8c04-4059-8d60-eb1ddad091aa#ref=rss)
+### nobelpreisträgerin
+
+* [https://www.spiegel.de/ausland/nobelpreistraegerin-malala-yousafzai-ueber-die-unterdrueckung-von-frauen-in-afghanistan-die-taliban-sind-noch-schlimmer-als-zuvor-und-schlauer](https://www.spiegel.de/ausland/nobelpreistraegerin-malala-yousafzai-ueber-die-unterdrueckung-von-frauen-in-afghanistan-die-taliban-sind-noch-schlimmer-als-zuvor-und-schlauer-a-8cc60e19-ba49-46da-9361-7fe9eebc2659#ref=rss)
+### malala
+
+* [https://www.spiegel.de/ausland/nobelpreistraegerin-malala-yousafzai-ueber-die-unterdrueckung-von-frauen-in-afghanistan-die-taliban-sind-noch-schlimmer-als-zuvor-und-schlauer](https://www.spiegel.de/ausland/nobelpreistraegerin-malala-yousafzai-ueber-die-unterdrueckung-von-frauen-in-afghanistan-die-taliban-sind-noch-schlimmer-als-zuvor-und-schlauer-a-8cc60e19-ba49-46da-9361-7fe9eebc2659#ref=rss)
+### yousafzai
+
+* [https://www.spiegel.de/ausland/nobelpreistraegerin-malala-yousafzai-ueber-die-unterdrueckung-von-frauen-in-afghanistan-die-taliban-sind-noch-schlimmer-als-zuvor-und-schlauer](https://www.spiegel.de/ausland/nobelpreistraegerin-malala-yousafzai-ueber-die-unterdrueckung-von-frauen-in-afghanistan-die-taliban-sind-noch-schlimmer-als-zuvor-und-schlauer-a-8cc60e19-ba49-46da-9361-7fe9eebc2659#ref=rss)
+### afghanistan
+
+* [https://www.spiegel.de/ausland/nobelpreistraegerin-malala-yousafzai-ueber-die-unterdrueckung-von-frauen-in-afghanistan-die-taliban-sind-noch-schlimmer-als-zuvor-und-schlauer](https://www.spiegel.de/ausland/nobelpreistraegerin-malala-yousafzai-ueber-die-unterdrueckung-von-frauen-in-afghanistan-die-taliban-sind-noch-schlimmer-als-zuvor-und-schlauer-a-8cc60e19-ba49-46da-9361-7fe9eebc2659#ref=rss)
+### vwkäfer
+
+* [https://www.spiegel.de/auto/volkswagen-aeltester-vw-kaefer-aus-1937-faehrt-wieder-durch-niedersachsen](https://www.spiegel.de/auto/volkswagen-aeltester-vw-kaefer-aus-1937-faehrt-wieder-durch-niedersachsen-a-04ce282a-f571-495d-bef8-3d9b40b5428d#ref=rss)
+### fährt
+
+* [https://www.spiegel.de/auto/volkswagen-aeltester-vw-kaefer-aus-1937-faehrt-wieder-durch-niedersachsen](https://www.spiegel.de/auto/volkswagen-aeltester-vw-kaefer-aus-1937-faehrt-wieder-durch-niedersachsen-a-04ce282a-f571-495d-bef8-3d9b40b5428d#ref=rss)
+### niedersachsen
+
+* [https://www.spiegel.de/auto/volkswagen-aeltester-vw-kaefer-aus-1937-faehrt-wieder-durch-niedersachsen](https://www.spiegel.de/auto/volkswagen-aeltester-vw-kaefer-aus-1937-faehrt-wieder-durch-niedersachsen-a-04ce282a-f571-495d-bef8-3d9b40b5428d#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/auto/volkswagen-aeltester-vw-kaefer-aus-1937-faehrt-wieder-durch-niedersachsen](https://www.spiegel.de/auto/volkswagen-aeltester-vw-kaefer-aus-1937-faehrt-wieder-durch-niedersachsen-a-04ce282a-f571-495d-bef8-3d9b40b5428d#ref=rss)
+* [https://www.spiegel.de/kultur/kevin-kuehnert-ex-spd-generalsekretaer-jetzt-autor-beim-rolling-stone](https://www.spiegel.de/kultur/kevin-kuehnert-ex-spd-generalsekretaer-jetzt-autor-beim-rolling-stone-a-ec6a3175-5fb0-46f7-a29f-af3e7998a7ed#ref=rss)
+### laut
+
+* [https://www.spiegel.de/auto/volkswagen-aeltester-vw-kaefer-aus-1937-faehrt-wieder-durch-niedersachsen](https://www.spiegel.de/auto/volkswagen-aeltester-vw-kaefer-aus-1937-faehrt-wieder-durch-niedersachsen-a-04ce282a-f571-495d-bef8-3d9b40b5428d#ref=rss)
+### lehrer
+
+* [https://www.spiegel.de/panorama/bildung/dietzenbach-lehrer-soll-ki-porno-bild-einer-schuelerin-erstellt-haben](https://www.spiegel.de/panorama/bildung/dietzenbach-lehrer-soll-ki-porno-bild-einer-schuelerin-erstellt-haben-a-819a59eb-0376-403c-8a7d-104c3ca54475#ref=rss)
+### schülerin
+
+* [https://www.spiegel.de/panorama/bildung/dietzenbach-lehrer-soll-ki-porno-bild-einer-schuelerin-erstellt-haben](https://www.spiegel.de/panorama/bildung/dietzenbach-lehrer-soll-ki-porno-bild-einer-schuelerin-erstellt-haben-a-819a59eb-0376-403c-8a7d-104c3ca54475#ref=rss)
+### kühnert
+
+* [https://www.spiegel.de/kultur/kevin-kuehnert-ex-spd-generalsekretaer-jetzt-autor-beim-rolling-stone](https://www.spiegel.de/kultur/kevin-kuehnert-ex-spd-generalsekretaer-jetzt-autor-beim-rolling-stone-a-ec6a3175-5fb0-46f7-a29f-af3e7998a7ed#ref=rss)
+### autor
+
+* [https://www.spiegel.de/kultur/kevin-kuehnert-ex-spd-generalsekretaer-jetzt-autor-beim-rolling-stone](https://www.spiegel.de/kultur/kevin-kuehnert-ex-spd-generalsekretaer-jetzt-autor-beim-rolling-stone-a-ec6a3175-5fb0-46f7-a29f-af3e7998a7ed#ref=rss)
+### rolling
+
+* [https://www.spiegel.de/kultur/kevin-kuehnert-ex-spd-generalsekretaer-jetzt-autor-beim-rolling-stone](https://www.spiegel.de/kultur/kevin-kuehnert-ex-spd-generalsekretaer-jetzt-autor-beim-rolling-stone-a-ec6a3175-5fb0-46f7-a29f-af3e7998a7ed#ref=rss)
+### stone
+
+* [https://www.spiegel.de/kultur/kevin-kuehnert-ex-spd-generalsekretaer-jetzt-autor-beim-rolling-stone](https://www.spiegel.de/kultur/kevin-kuehnert-ex-spd-generalsekretaer-jetzt-autor-beim-rolling-stone-a-ec6a3175-5fb0-46f7-a29f-af3e7998a7ed#ref=rss)
+### zieht
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-gaza-krieg-hamas-uebergibt-zwei-tote-geiseln-an-israel-vor-treffen-von-jd-vance-und-benjamin-netanyahu-a-c2c7358d-849f-47bf-921d-ebdcb3735abb#ref=rss)
+* [https://www.spiegel.de/panorama/herbstwetter-sturmtief-bringt-orkanartige-boeen-und-starkregen](https://www.spiegel.de/panorama/herbstwetter-sturmtief-bringt-orkanartige-boeen-und-starkregen-a-df245b2b-f8bf-4d39-9957-bebddc82abca#ref=rss)
+### atlas
+
+* [https://www.spiegel.de/netzwelt/ki-browser-atlas-openai-greift-google-browser-chrome-an](https://www.spiegel.de/netzwelt/ki-browser-atlas-openai-greift-google-browser-chrome-an-a-bdfe1b0c-d5e2-4f57-bd5d-8d7f1524e6cb#ref=rss)
+### openai
+
+* [https://www.spiegel.de/netzwelt/ki-browser-atlas-openai-greift-google-browser-chrome-an](https://www.spiegel.de/netzwelt/ki-browser-atlas-openai-greift-google-browser-chrome-an-a-bdfe1b0c-d5e2-4f57-bd5d-8d7f1524e6cb#ref=rss)
+### reichinnek
+
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-linkenpolitikerin-wirft-kanzler-friedrich-merz-bei-seiner-stadtbild-aussage-blanken-rassismus-vor](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-linkenpolitikerin-wirft-kanzler-friedrich-merz-bei-seiner-stadtbild-aussage-blanken-rassismus-vor-a-0e7f922f-3085-4c2b-b4b5-215777c6fb5f#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-linkenpolitikerin-wirft-kanzler-friedrich-merz-bei-seiner-stadtbild-aussage-blanken-rassismus-vor](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-linkenpolitikerin-wirft-kanzler-friedrich-merz-bei-seiner-stadtbild-aussage-blanken-rassismus-vor-a-0e7f922f-3085-4c2b-b4b5-215777c6fb5f#ref=rss)
+### rassismus
+
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-linkenpolitikerin-wirft-kanzler-friedrich-merz-bei-seiner-stadtbild-aussage-blanken-rassismus-vor](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-linkenpolitikerin-wirft-kanzler-friedrich-merz-bei-seiner-stadtbild-aussage-blanken-rassismus-vor-a-0e7f922f-3085-4c2b-b4b5-215777c6fb5f#ref=rss)
+### sturmtief
+
+* [https://www.spiegel.de/panorama/herbstwetter-sturmtief-bringt-orkanartige-boeen-und-starkregen](https://www.spiegel.de/panorama/herbstwetter-sturmtief-bringt-orkanartige-boeen-und-starkregen-a-df245b2b-f8bf-4d39-9957-bebddc82abca#ref=rss)
+### erden
+
+* [https://www.spiegel.de/wirtschaft/seltene-erden-eu-und-deutschland-kaempfen-gegen-chinas-dominanz](https://www.spiegel.de/wirtschaft/seltene-erden-eu-und-deutschland-kaempfen-gegen-chinas-dominanz-a-8ae600d7-292a-45fb-8430-b98a5b8ac55e#ref=rss)
+### eu
+
+* [https://www.spiegel.de/wirtschaft/seltene-erden-eu-und-deutschland-kaempfen-gegen-chinas-dominanz](https://www.spiegel.de/wirtschaft/seltene-erden-eu-und-deutschland-kaempfen-gegen-chinas-dominanz-a-8ae600d7-292a-45fb-8430-b98a5b8ac55e#ref=rss)
+### chinas
+
+* [https://www.spiegel.de/wirtschaft/seltene-erden-eu-und-deutschland-kaempfen-gegen-chinas-dominanz](https://www.spiegel.de/wirtschaft/seltene-erden-eu-und-deutschland-kaempfen-gegen-chinas-dominanz-a-8ae600d7-292a-45fb-8430-b98a5b8ac55e#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-ballistische-rakete-vor-apec-gipfel-mit-donald-trump-und-xi-jinping-in-suedkorea-abgefeuert](https://www.spiegel.de/ausland/nordkorea-ballistische-rakete-vor-apec-gipfel-mit-donald-trump-und-xi-jinping-in-suedkorea-abgefeuert-a-0595aa90-2394-4004-b16c-7f6c59d29618#ref=rss)
+### dominanz
+
+* [https://www.spiegel.de/wirtschaft/seltene-erden-eu-und-deutschland-kaempfen-gegen-chinas-dominanz](https://www.spiegel.de/wirtschaft/seltene-erden-eu-und-deutschland-kaempfen-gegen-chinas-dominanz-a-8ae600d7-292a-45fb-8430-b98a5b8ac55e#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fussball-spanisches-liga-spiel-zwischen-fc-barcelona-und-villareal-in-den-usa-abgesagt](https://www.spiegel.de/sport/fussball/fussball-spanisches-liga-spiel-zwischen-fc-barcelona-und-villareal-in-den-usa-abgesagt-a-b6d20c5b-afad-4431-aad7-4d8b8467c775#ref=rss)
+### barcelona
+
+* [https://www.spiegel.de/sport/fussball/fussball-spanisches-liga-spiel-zwischen-fc-barcelona-und-villareal-in-den-usa-abgesagt](https://www.spiegel.de/sport/fussball/fussball-spanisches-liga-spiel-zwischen-fc-barcelona-und-villareal-in-den-usa-abgesagt-a-b6d20c5b-afad-4431-aad7-4d8b8467c775#ref=rss)
+### rakete
+
+* [https://www.spiegel.de/ausland/nordkorea-ballistische-rakete-vor-apec-gipfel-mit-donald-trump-und-xi-jinping-in-suedkorea-abgefeuert](https://www.spiegel.de/ausland/nordkorea-ballistische-rakete-vor-apec-gipfel-mit-donald-trump-und-xi-jinping-in-suedkorea-abgefeuert-a-0595aa90-2394-4004-b16c-7f6c59d29618#ref=rss)
+### xi
+
+* [https://www.spiegel.de/ausland/nordkorea-ballistische-rakete-vor-apec-gipfel-mit-donald-trump-und-xi-jinping-in-suedkorea-abgefeuert](https://www.spiegel.de/ausland/nordkorea-ballistische-rakete-vor-apec-gipfel-mit-donald-trump-und-xi-jinping-in-suedkorea-abgefeuert-a-0595aa90-2394-4004-b16c-7f6c59d29618#ref=rss)
+### südkorea
+
+* [https://www.spiegel.de/ausland/nordkorea-ballistische-rakete-vor-apec-gipfel-mit-donald-trump-und-xi-jinping-in-suedkorea-abgefeuert](https://www.spiegel.de/ausland/nordkorea-ballistische-rakete-vor-apec-gipfel-mit-donald-trump-und-xi-jinping-in-suedkorea-abgefeuert-a-0595aa90-2394-4004-b16c-7f6c59d29618#ref=rss)
 
