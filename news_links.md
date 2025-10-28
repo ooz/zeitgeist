@@ -4,391 +4,392 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### milei
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-javier-milei-argentinien-olympische-spiele-muenchen-betriebsrat](https://www.spiegel.de/politik/deutschland/news-des-tages-javier-milei-argentinien-olympische-spiele-muenchen-betriebsrat-a-b4babadd-6e05-401c-80f7-f239e687f431#ref=rss)
-### javier
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-javier-milei-argentinien-olympische-spiele-muenchen-betriebsrat](https://www.spiegel.de/politik/deutschland/news-des-tages-javier-milei-argentinien-olympische-spiele-muenchen-betriebsrat-a-b4babadd-6e05-401c-80f7-f239e687f431#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-javier-milei-argentinien-olympische-spiele-muenchen-betriebsrat](https://www.spiegel.de/politik/deutschland/news-des-tages-javier-milei-argentinien-olympische-spiele-muenchen-betriebsrat-a-b4babadd-6e05-401c-80f7-f239e687f431#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lennart-karl-vom-fc-bayern-muenchen-ist-der-hype-um-das-toptalent-berechtigt](https://www.spiegel.de/sport/fussball/lennart-karl-vom-fc-bayern-muenchen-ist-der-hype-um-das-toptalent-berechtigt-a-37f3a8d9-131e-4b0f-98d2-13d6f304125e#ref=rss)
-* [https://www.spiegel.de/panorama/muenchen-regionalzug-kollidiert-mit-umgestuerztem-baum](https://www.spiegel.de/panorama/muenchen-regionalzug-kollidiert-mit-umgestuerztem-baum-a-a0077366-7ecd-4f35-8540-e5d30b12c3da#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben](https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben-a-1039bf09-5992-4ae7-9884-842ea75b6469#ref=rss)
-* [https://www.spiegel.de/panorama/hurrikan-melissa-steuert-auf-jamaika-zu-staerkste-stufe-erreicht](https://www.spiegel.de/panorama/hurrikan-melissa-steuert-auf-jamaika-zu-staerkste-stufe-erreicht-a-56daab08-6750-45ec-adc3-7be8ffef0292#ref=rss)
-* [https://www.spiegel.de/kultur/musik/jack-dejohnette-ist-tot-jazz-schlagzeuger-mit-83-jahren-gestorben](https://www.spiegel.de/kultur/musik/jack-dejohnette-ist-tot-jazz-schlagzeuger-mit-83-jahren-gestorben-a-735fe359-3d39-4b2c-96ee-90a713fce6a9#ref=rss)
-### partei
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-katalanische-separatisten-kehren-sich-von-minderheitsregierung-ab](https://www.spiegel.de/ausland/spanien-katalanische-separatisten-kehren-sich-von-minderheitsregierung-ab-a-cc960f29-9146-4f62-948d-7a59ba1b9015#ref=rss)
-### argentinien
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-javier-milei-argentinien-olympische-spiele-muenchen-betriebsrat](https://www.spiegel.de/politik/deutschland/news-des-tages-javier-milei-argentinien-olympische-spiele-muenchen-betriebsrat-a-b4babadd-6e05-401c-80f7-f239e687f431#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-* [https://www.spiegel.de/ausland/kamerun-praesident-paul-biya-wiedergewaehlt-altester-praesident-der-welt](https://www.spiegel.de/ausland/kamerun-praesident-paul-biya-wiedergewaehlt-altester-praesident-der-welt-a-57cdab20-ca58-4678-90eb-0ee72f49237c#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/politik/deutschland/leipzig-nirgendwo-aendern-so-viele-menschen-seit-dem-selbstbestimmungsgesetz-ihren-geschlechtseintrag-warum](https://www.spiegel.de/politik/deutschland/leipzig-nirgendwo-aendern-so-viele-menschen-seit-dem-selbstbestimmungsgesetz-ihren-geschlechtseintrag-warum-a-3b82b495-7dc4-464d-ad13-951cf20122ac#ref=rss)
-* [https://www.spiegel.de/panorama/hurrikan-melissa-steuert-auf-jamaika-zu-staerkste-stufe-erreicht](https://www.spiegel.de/panorama/hurrikan-melissa-steuert-auf-jamaika-zu-staerkste-stufe-erreicht-a-56daab08-6750-45ec-adc3-7be8ffef0292#ref=rss)
-* [https://www.spiegel.de/panorama/muenchen-regionalzug-kollidiert-mit-umgestuerztem-baum](https://www.spiegel.de/panorama/muenchen-regionalzug-kollidiert-mit-umgestuerztem-baum-a-a0077366-7ecd-4f35-8540-e5d30b12c3da#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben](https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben-a-1039bf09-5992-4ae7-9884-842ea75b6469#ref=rss)
-* [https://www.spiegel.de/kultur/musik/jack-dejohnette-ist-tot-jazz-schlagzeuger-mit-83-jahren-gestorben](https://www.spiegel.de/kultur/musik/jack-dejohnette-ist-tot-jazz-schlagzeuger-mit-83-jahren-gestorben-a-735fe359-3d39-4b2c-96ee-90a713fce6a9#ref=rss)
-### alter
-
-* [https://www.spiegel.de/ausland/schweden-plant-gefaengnisabteilungen-fuer-13-jaehrige](https://www.spiegel.de/ausland/schweden-plant-gefaengnisabteilungen-fuer-13-jaehrige-a-a9abd8b0-a3f1-4de8-b09e-27e2548c37a9#ref=rss)
-* [https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben](https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben-a-1039bf09-5992-4ae7-9884-842ea75b6469#ref=rss)
-* [https://www.spiegel.de/kultur/musik/jack-dejohnette-ist-tot-jazz-schlagzeuger-mit-83-jahren-gestorben](https://www.spiegel.de/kultur/musik/jack-dejohnette-ist-tot-jazz-schlagzeuger-mit-83-jahren-gestorben-a-735fe359-3d39-4b2c-96ee-90a713fce6a9#ref=rss)
-### droht
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-verwaltungsrat-droht-aktionaeren-mit-musks-abschied](https://www.spiegel.de/wirtschaft/unternehmen/tesla-verwaltungsrat-droht-aktionaeren-mit-musks-abschied-a-7242d843-63a0-45fb-a5ca-3f059a28e2fe#ref=rss)
-* [https://www.spiegel.de/sport/fussball/tuerkischer-fussball-wettskandal-droht-hunderte-schiedsrichter-sollen-betroffen-sein](https://www.spiegel.de/sport/fussball/tuerkischer-fussball-wettskandal-droht-hunderte-schiedsrichter-sollen-betroffen-sein-a-183b589a-4044-4386-9820-b092b2f237dd#ref=rss)
-* [https://www.spiegel.de/ausland/niederlande-geert-wilders-entschuldigt-sich-fuer-ki-generierte-hetzfotos](https://www.spiegel.de/ausland/niederlande-geert-wilders-entschuldigt-sich-fuer-ki-generierte-hetzfotos-a-a5af4bcc-1bbb-49ac-a50a-7c9fa3c7e2c0#ref=rss)
-### gewonnen
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-* [https://www.spiegel.de/ausland/kamerun-praesident-paul-biya-wiedergewaehlt-altester-praesident-der-welt](https://www.spiegel.de/ausland/kamerun-praesident-paul-biya-wiedergewaehlt-altester-praesident-der-welt-a-57cdab20-ca58-4678-90eb-0ee72f49237c#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/leipzig-nirgendwo-aendern-so-viele-menschen-seit-dem-selbstbestimmungsgesetz-ihren-geschlechtseintrag-warum](https://www.spiegel.de/politik/deutschland/leipzig-nirgendwo-aendern-so-viele-menschen-seit-dem-selbstbestimmungsgesetz-ihren-geschlechtseintrag-warum-a-3b82b495-7dc4-464d-ad13-951cf20122ac#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/deutschland/leipzig-nirgendwo-aendern-so-viele-menschen-seit-dem-selbstbestimmungsgesetz-ihren-geschlechtseintrag-warum](https://www.spiegel.de/politik/deutschland/leipzig-nirgendwo-aendern-so-viele-menschen-seit-dem-selbstbestimmungsgesetz-ihren-geschlechtseintrag-warum-a-3b82b495-7dc4-464d-ad13-951cf20122ac#ref=rss)
-* [https://www.spiegel.de/sport/fussball/tuerkischer-fussball-wettskandal-droht-hunderte-schiedsrichter-sollen-betroffen-sein](https://www.spiegel.de/sport/fussball/tuerkischer-fussball-wettskandal-droht-hunderte-schiedsrichter-sollen-betroffen-sein-a-183b589a-4044-4386-9820-b092b2f237dd#ref=rss)
-### starmer
-
-* [https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-und-keir-starmer-unterschreiben-abkommen-zu-eurofightern](https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-und-keir-starmer-unterschreiben-abkommen-zu-eurofightern-a-f9153745-ea45-4f30-96d5-ff049506d7a5#ref=rss)
-### regierungspartei
-
-* [https://www.spiegel.de/ausland/japan-verbindungen-zwischen-regierungspartei-und-sekte-im-abe-prozess-im-fokus](https://www.spiegel.de/ausland/japan-verbindungen-zwischen-regierungspartei-und-sekte-im-abe-prozess-im-fokus-a-74a51db0-1507-4fb4-bd1b-ce33ebb5f9ec#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-katalanische-separatisten-kehren-sich-von-minderheitsregierung-ab](https://www.spiegel.de/ausland/spanien-katalanische-separatisten-kehren-sich-von-minderheitsregierung-ab-a-cc960f29-9146-4f62-948d-7a59ba1b9015#ref=rss)
-### betriebsräte
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-javier-milei-argentinien-olympische-spiele-muenchen-betriebsrat](https://www.spiegel.de/politik/deutschland/news-des-tages-javier-milei-argentinien-olympische-spiele-muenchen-betriebsrat-a-b4babadd-6e05-401c-80f7-f239e687f431#ref=rss)
-* [https://www.spiegel.de/karriere/betriebsraete-karriereende-durch-engagement-im-betriebsrat-wie-man-sich-dagegen-wehrt](https://www.spiegel.de/karriere/betriebsraete-karriereende-durch-engagement-im-betriebsrat-wie-man-sich-dagegen-wehrt-a-2f6c769f-3b91-47df-ac98-c8487a431731#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/kultur/kino/simu-liu-barbie-star-bekam-bei-dreharbeiten-tritte-ins-gesicht](https://www.spiegel.de/kultur/kino/simu-liu-barbie-star-bekam-bei-dreharbeiten-tritte-ins-gesicht-a-a5174800-009a-4472-b6b2-d5a39f52678d#ref=rss)
-* [https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben](https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben-a-1039bf09-5992-4ae7-9884-842ea75b6469#ref=rss)
-### bahnhof
-
-* [https://www.spiegel.de/reise/deutschland/bahnhof-des-jahres-der-beste-bahnhof-deutschlands-steht-in-magdeburg](https://www.spiegel.de/reise/deutschland/bahnhof-des-jahres-der-beste-bahnhof-deutschlands-steht-in-magdeburg-a-dded17b5-2c4b-4b13-8f50-8308cda994b2#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/ausland/schweden-plant-gefaengnisabteilungen-fuer-13-jaehrige](https://www.spiegel.de/ausland/schweden-plant-gefaengnisabteilungen-fuer-13-jaehrige-a-a9abd8b0-a3f1-4de8-b09e-27e2548c37a9#ref=rss)
-### plant
-
-* [https://www.spiegel.de/ausland/schweden-plant-gefaengnisabteilungen-fuer-13-jaehrige](https://www.spiegel.de/ausland/schweden-plant-gefaengnisabteilungen-fuer-13-jaehrige-a-a9abd8b0-a3f1-4de8-b09e-27e2548c37a9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/china-politik-der-bundesregierung-haerte-oder-dialog-mit-peking-kommt-darauf-an-wen-man-fragt](https://www.spiegel.de/politik/deutschland/china-politik-der-bundesregierung-haerte-oder-dialog-mit-peking-kommt-darauf-an-wen-man-fragt-a-4f56285e-baf3-4843-a5bb-e7272de81f2d#ref=rss)
-### 13jährige
-
-* [https://www.spiegel.de/ausland/schweden-plant-gefaengnisabteilungen-fuer-13-jaehrige](https://www.spiegel.de/ausland/schweden-plant-gefaengnisabteilungen-fuer-13-jaehrige-a-a9abd8b0-a3f1-4de8-b09e-27e2548c37a9#ref=rss)
-### bringen
-
-* [https://www.spiegel.de/ausland/schweden-plant-gefaengnisabteilungen-fuer-13-jaehrige](https://www.spiegel.de/ausland/schweden-plant-gefaengnisabteilungen-fuer-13-jaehrige-a-a9abd8b0-a3f1-4de8-b09e-27e2548c37a9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lennart-karl-vom-fc-bayern-muenchen-ist-der-hype-um-das-toptalent-berechtigt](https://www.spiegel.de/sport/fussball/lennart-karl-vom-fc-bayern-muenchen-ist-der-hype-um-das-toptalent-berechtigt-a-37f3a8d9-131e-4b0f-98d2-13d6f304125e#ref=rss)
-### besten
-
-* [https://www.spiegel.de/panorama/raclette-wm-in-der-schweiz-was-macht-den-besten-kaese-aus](https://www.spiegel.de/panorama/raclette-wm-in-der-schweiz-was-macht-den-besten-kaese-aus-a-cc6c2ecf-cb14-4a37-9e67-df1f76615059#ref=rss)
-### käse
-
-* [https://www.spiegel.de/panorama/raclette-wm-in-der-schweiz-was-macht-den-besten-kaese-aus](https://www.spiegel.de/panorama/raclette-wm-in-der-schweiz-was-macht-den-besten-kaese-aus-a-cc6c2ecf-cb14-4a37-9e67-df1f76615059#ref=rss)
-### kettensäge
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-### argentinische
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-### feiert
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-### überraschungserfolg
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-### kongresswahlen
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-### harter
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-### einschnitte
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-### halten
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-### wähler
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-### allerdings
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-### allem
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-### verbündeten
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-### verdanken
-
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-9add30a5-54c9-4c94-8085-4f2c35a89f7f#ref=rss)
-* [https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast](https://www.spiegel.de/ausland/javier-milei-und-die-kettensaege-warum-seine-partei-die-wahl-in-argentinien-gewonnen-hat-podcast-a-d06a0c55-93bc-4d12-bd5c-1c5281d88e3b#ref=rss)
-### leipzig
-
-* [https://www.spiegel.de/politik/deutschland/leipzig-nirgendwo-aendern-so-viele-menschen-seit-dem-selbstbestimmungsgesetz-ihren-geschlechtseintrag-warum](https://www.spiegel.de/politik/deutschland/leipzig-nirgendwo-aendern-so-viele-menschen-seit-dem-selbstbestimmungsgesetz-ihren-geschlechtseintrag-warum-a-3b82b495-7dc4-464d-ad13-951cf20122ac#ref=rss)
-### geschlechtseintrag
-
-* [https://www.spiegel.de/politik/deutschland/leipzig-nirgendwo-aendern-so-viele-menschen-seit-dem-selbstbestimmungsgesetz-ihren-geschlechtseintrag-warum](https://www.spiegel.de/politik/deutschland/leipzig-nirgendwo-aendern-so-viele-menschen-seit-dem-selbstbestimmungsgesetz-ihren-geschlechtseintrag-warum-a-3b82b495-7dc4-464d-ad13-951cf20122ac#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-und-keir-starmer-unterschreiben-abkommen-zu-eurofightern](https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-und-keir-starmer-unterschreiben-abkommen-zu-eurofightern-a-f9153745-ea45-4f30-96d5-ff049506d7a5#ref=rss)
-### erdoğan
-
-* [https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-und-keir-starmer-unterschreiben-abkommen-zu-eurofightern](https://www.spiegel.de/ausland/tuerkei-recep-tayyip-erdogan-und-keir-starmer-unterschreiben-abkommen-zu-eurofightern-a-f9153745-ea45-4f30-96d5-ff049506d7a5#ref=rss)
-### sekte
-
-* [https://www.spiegel.de/ausland/japan-verbindungen-zwischen-regierungspartei-und-sekte-im-abe-prozess-im-fokus](https://www.spiegel.de/ausland/japan-verbindungen-zwischen-regierungspartei-und-sekte-im-abe-prozess-im-fokus-a-74a51db0-1507-4fb4-bd1b-ce33ebb5f9ec#ref=rss)
-### fokus
-
-* [https://www.spiegel.de/ausland/japan-verbindungen-zwischen-regierungspartei-und-sekte-im-abe-prozess-im-fokus](https://www.spiegel.de/ausland/japan-verbindungen-zwischen-regierungspartei-und-sekte-im-abe-prozess-im-fokus-a-74a51db0-1507-4fb4-bd1b-ce33ebb5f9ec#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/deutschland/china-politik-der-bundesregierung-haerte-oder-dialog-mit-peking-kommt-darauf-an-wen-man-fragt](https://www.spiegel.de/politik/deutschland/china-politik-der-bundesregierung-haerte-oder-dialog-mit-peking-kommt-darauf-an-wen-man-fragt-a-4f56285e-baf3-4843-a5bb-e7272de81f2d#ref=rss)
-### peking
-
-* [https://www.spiegel.de/politik/deutschland/china-politik-der-bundesregierung-haerte-oder-dialog-mit-peking-kommt-darauf-an-wen-man-fragt](https://www.spiegel.de/politik/deutschland/china-politik-der-bundesregierung-haerte-oder-dialog-mit-peking-kommt-darauf-an-wen-man-fragt-a-4f56285e-baf3-4843-a5bb-e7272de81f2d#ref=rss)
-### betriebsrat
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-javier-milei-argentinien-olympische-spiele-muenchen-betriebsrat](https://www.spiegel.de/politik/deutschland/news-des-tages-javier-milei-argentinien-olympische-spiele-muenchen-betriebsrat-a-b4babadd-6e05-401c-80f7-f239e687f431#ref=rss)
-* [https://www.spiegel.de/karriere/betriebsraete-karriereende-durch-engagement-im-betriebsrat-wie-man-sich-dagegen-wehrt](https://www.spiegel.de/karriere/betriebsraete-karriereende-durch-engagement-im-betriebsrat-wie-man-sich-dagegen-wehrt-a-2f6c769f-3b91-47df-ac98-c8487a431731#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-javier-milei-argentinien-olympische-spiele-muenchen-betriebsrat](https://www.spiegel.de/politik/deutschland/news-des-tages-javier-milei-argentinien-olympische-spiele-muenchen-betriebsrat-a-b4babadd-6e05-401c-80f7-f239e687f431#ref=rss)
-* [https://www.spiegel.de/karriere/betriebsraete-karriereende-durch-engagement-im-betriebsrat-wie-man-sich-dagegen-wehrt](https://www.spiegel.de/karriere/betriebsraete-karriereende-durch-engagement-im-betriebsrat-wie-man-sich-dagegen-wehrt-a-2f6c769f-3b91-47df-ac98-c8487a431731#ref=rss)
-### simu
-
-* [https://www.spiegel.de/kultur/kino/simu-liu-barbie-star-bekam-bei-dreharbeiten-tritte-ins-gesicht](https://www.spiegel.de/kultur/kino/simu-liu-barbie-star-bekam-bei-dreharbeiten-tritte-ins-gesicht-a-a5174800-009a-4472-b6b2-d5a39f52678d#ref=rss)
-### liu
-
-* [https://www.spiegel.de/kultur/kino/simu-liu-barbie-star-bekam-bei-dreharbeiten-tritte-ins-gesicht](https://www.spiegel.de/kultur/kino/simu-liu-barbie-star-bekam-bei-dreharbeiten-tritte-ins-gesicht-a-a5174800-009a-4472-b6b2-d5a39f52678d#ref=rss)
-### bekam
-
-* [https://www.spiegel.de/kultur/kino/simu-liu-barbie-star-bekam-bei-dreharbeiten-tritte-ins-gesicht](https://www.spiegel.de/kultur/kino/simu-liu-barbie-star-bekam-bei-dreharbeiten-tritte-ins-gesicht-a-a5174800-009a-4472-b6b2-d5a39f52678d#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf](https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf-a-90add20b-9215-4eb4-8be1-88cf2b56be51#ref=rss)
-### tritte
-
-* [https://www.spiegel.de/kultur/kino/simu-liu-barbie-star-bekam-bei-dreharbeiten-tritte-ins-gesicht](https://www.spiegel.de/kultur/kino/simu-liu-barbie-star-bekam-bei-dreharbeiten-tritte-ins-gesicht-a-a5174800-009a-4472-b6b2-d5a39f52678d#ref=rss)
-### gesicht
-
-* [https://www.spiegel.de/kultur/kino/simu-liu-barbie-star-bekam-bei-dreharbeiten-tritte-ins-gesicht](https://www.spiegel.de/kultur/kino/simu-liu-barbie-star-bekam-bei-dreharbeiten-tritte-ins-gesicht-a-a5174800-009a-4472-b6b2-d5a39f52678d#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/kultur/kino/simu-liu-barbie-star-bekam-bei-dreharbeiten-tritte-ins-gesicht](https://www.spiegel.de/kultur/kino/simu-liu-barbie-star-bekam-bei-dreharbeiten-tritte-ins-gesicht-a-a5174800-009a-4472-b6b2-d5a39f52678d#ref=rss)
-* [https://www.spiegel.de/ausland/niederlande-geert-wilders-entschuldigt-sich-fuer-ki-generierte-hetzfotos](https://www.spiegel.de/ausland/niederlande-geert-wilders-entschuldigt-sich-fuer-ki-generierte-hetzfotos-a-a5af4bcc-1bbb-49ac-a50a-7c9fa3c7e2c0#ref=rss)
-### eng
-
-* [https://www.spiegel.de/ausland/spanien-katalanische-separatisten-kehren-sich-von-minderheitsregierung-ab](https://www.spiegel.de/ausland/spanien-katalanische-separatisten-kehren-sich-von-minderheitsregierung-ab-a-cc960f29-9146-4f62-948d-7a59ba1b9015#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-zdf-bestaetigt-dass-in-gaza-getoeteter-mitarbeiter-der-terrororganisation-angehoert-hat](https://www.spiegel.de/ausland/hamas-zdf-bestaetigt-dass-in-gaza-getoeteter-mitarbeiter-der-terrororganisation-angehoert-hat-a-2f9bcd21-6151-4b95-8970-11c3c5995d78#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/ausland/spanien-katalanische-separatisten-kehren-sich-von-minderheitsregierung-ab](https://www.spiegel.de/ausland/spanien-katalanische-separatisten-kehren-sich-von-minderheitsregierung-ab-a-cc960f29-9146-4f62-948d-7a59ba1b9015#ref=rss)
-* [https://www.spiegel.de/ausland/niederlande-geert-wilders-entschuldigt-sich-fuer-ki-generierte-hetzfotos](https://www.spiegel.de/ausland/niederlande-geert-wilders-entschuldigt-sich-fuer-ki-generierte-hetzfotos-a-a5af4bcc-1bbb-49ac-a50a-7c9fa3c7e2c0#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/ausland/mali-schliesst-schulen-und-universitaeten-wegen-kraftstoffknappheit](https://www.spiegel.de/ausland/mali-schliesst-schulen-und-universitaeten-wegen-kraftstoffknappheit-a-66b91465-f5c6-4322-a97f-2b89648fe7b2#ref=rss)
-### universitäten
-
-* [https://www.spiegel.de/ausland/mali-schliesst-schulen-und-universitaeten-wegen-kraftstoffknappheit](https://www.spiegel.de/ausland/mali-schliesst-schulen-und-universitaeten-wegen-kraftstoffknappheit-a-66b91465-f5c6-4322-a97f-2b89648fe7b2#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/mali-schliesst-schulen-und-universitaeten-wegen-kraftstoffknappheit](https://www.spiegel.de/ausland/mali-schliesst-schulen-und-universitaeten-wegen-kraftstoffknappheit-a-66b91465-f5c6-4322-a97f-2b89648fe7b2#ref=rss)
-* [https://www.spiegel.de/ausland/niederlande-geert-wilders-entschuldigt-sich-fuer-ki-generierte-hetzfotos](https://www.spiegel.de/ausland/niederlande-geert-wilders-entschuldigt-sich-fuer-ki-generierte-hetzfotos-a-a5af4bcc-1bbb-49ac-a50a-7c9fa3c7e2c0#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/ausland/mali-schliesst-schulen-und-universitaeten-wegen-kraftstoffknappheit](https://www.spiegel.de/ausland/mali-schliesst-schulen-und-universitaeten-wegen-kraftstoffknappheit-a-66b91465-f5c6-4322-a97f-2b89648fe7b2#ref=rss)
-### inklusion
-
-* [https://www.spiegel.de/panorama/bildung/inklusion-warum-kinder-mit-behinderung-oft-aus-kitas-ausgeschlossen-werden](https://www.spiegel.de/panorama/bildung/inklusion-warum-kinder-mit-behinderung-oft-aus-kitas-ausgeschlossen-werden-a-479b696b-fc2a-4001-bf43-2ab93e93b318#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/bildung/inklusion-warum-kinder-mit-behinderung-oft-aus-kitas-ausgeschlossen-werden](https://www.spiegel.de/panorama/bildung/inklusion-warum-kinder-mit-behinderung-oft-aus-kitas-ausgeschlossen-werden-a-479b696b-fc2a-4001-bf43-2ab93e93b318#ref=rss)
-### oft
-
-* [https://www.spiegel.de/panorama/bildung/inklusion-warum-kinder-mit-behinderung-oft-aus-kitas-ausgeschlossen-werden](https://www.spiegel.de/panorama/bildung/inklusion-warum-kinder-mit-behinderung-oft-aus-kitas-ausgeschlossen-werden-a-479b696b-fc2a-4001-bf43-2ab93e93b318#ref=rss)
-### ausgeschlossen
-
-* [https://www.spiegel.de/panorama/bildung/inklusion-warum-kinder-mit-behinderung-oft-aus-kitas-ausgeschlossen-werden](https://www.spiegel.de/panorama/bildung/inklusion-warum-kinder-mit-behinderung-oft-aus-kitas-ausgeschlossen-werden-a-479b696b-fc2a-4001-bf43-2ab93e93b318#ref=rss)
-### sigmund
-
-* [https://www.spiegel.de/geschichte/sigmund-freud-als-erfinder-der-modernen-psychotherapie-die-hysterischen-frauen-und-ihr-heiler](https://www.spiegel.de/geschichte/sigmund-freud-als-erfinder-der-modernen-psychotherapie-die-hysterischen-frauen-und-ihr-heiler-a-e9d05216-b4e5-4337-bcac-838a97b6b8d6#ref=rss)
-### freud
-
-* [https://www.spiegel.de/geschichte/sigmund-freud-als-erfinder-der-modernen-psychotherapie-die-hysterischen-frauen-und-ihr-heiler](https://www.spiegel.de/geschichte/sigmund-freud-als-erfinder-der-modernen-psychotherapie-die-hysterischen-frauen-und-ihr-heiler-a-e9d05216-b4e5-4337-bcac-838a97b6b8d6#ref=rss)
-### psychotherapie
-
-* [https://www.spiegel.de/geschichte/sigmund-freud-als-erfinder-der-modernen-psychotherapie-die-hysterischen-frauen-und-ihr-heiler](https://www.spiegel.de/geschichte/sigmund-freud-als-erfinder-der-modernen-psychotherapie-die-hysterischen-frauen-und-ihr-heiler-a-e9d05216-b4e5-4337-bcac-838a97b6b8d6#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/geschichte/sigmund-freud-als-erfinder-der-modernen-psychotherapie-die-hysterischen-frauen-und-ihr-heiler](https://www.spiegel.de/geschichte/sigmund-freud-als-erfinder-der-modernen-psychotherapie-die-hysterischen-frauen-und-ihr-heiler-a-e9d05216-b4e5-4337-bcac-838a97b6b8d6#ref=rss)
-### schiedsrichter
-
-* [https://www.spiegel.de/sport/fussball/tuerkischer-fussball-wettskandal-droht-hunderte-schiedsrichter-sollen-betroffen-sein](https://www.spiegel.de/sport/fussball/tuerkischer-fussball-wettskandal-droht-hunderte-schiedsrichter-sollen-betroffen-sein-a-183b589a-4044-4386-9820-b092b2f237dd#ref=rss)
-### björn
-
-* [https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben](https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben-a-1039bf09-5992-4ae7-9884-842ea75b6469#ref=rss)
-### andrésen
-
-* [https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben](https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben-a-1039bf09-5992-4ae7-9884-842ea75b6469#ref=rss)
-### tot
-
-* [https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben](https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben-a-1039bf09-5992-4ae7-9884-842ea75b6469#ref=rss)
-* [https://www.spiegel.de/kultur/musik/jack-dejohnette-ist-tot-jazz-schlagzeuger-mit-83-jahren-gestorben](https://www.spiegel.de/kultur/musik/jack-dejohnette-ist-tot-jazz-schlagzeuger-mit-83-jahren-gestorben-a-735fe359-3d39-4b2c-96ee-90a713fce6a9#ref=rss)
-### welt
-
-* [https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben](https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben-a-1039bf09-5992-4ae7-9884-842ea75b6469#ref=rss)
-* [https://www.spiegel.de/ausland/kamerun-praesident-paul-biya-wiedergewaehlt-altester-praesident-der-welt](https://www.spiegel.de/ausland/kamerun-praesident-paul-biya-wiedergewaehlt-altester-praesident-der-welt-a-57cdab20-ca58-4678-90eb-0ee72f49237c#ref=rss)
-### 70
-
-* [https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben](https://www.spiegel.de/kultur/kino/bjoern-andresen-ist-tot-schoenster-junge-der-welt-mit-70-jahren-gestorben-a-1039bf09-5992-4ae7-9884-842ea75b6469#ref=rss)
-### julian
-
-* [https://www.spiegel.de/wirtschaft/julian-reichelt-staatsanwaltschaft-berlin-ermittelt-wegen-verdachts-auf-volksverhetzung](https://www.spiegel.de/wirtschaft/julian-reichelt-staatsanwaltschaft-berlin-ermittelt-wegen-verdachts-auf-volksverhetzung-a-b0b10a4c-b6df-4de0-b9c1-2f8250b4e2a4#ref=rss)
-### reichelt
-
-* [https://www.spiegel.de/wirtschaft/julian-reichelt-staatsanwaltschaft-berlin-ermittelt-wegen-verdachts-auf-volksverhetzung](https://www.spiegel.de/wirtschaft/julian-reichelt-staatsanwaltschaft-berlin-ermittelt-wegen-verdachts-auf-volksverhetzung-a-b0b10a4c-b6df-4de0-b9c1-2f8250b4e2a4#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/wirtschaft/julian-reichelt-staatsanwaltschaft-berlin-ermittelt-wegen-verdachts-auf-volksverhetzung](https://www.spiegel.de/wirtschaft/julian-reichelt-staatsanwaltschaft-berlin-ermittelt-wegen-verdachts-auf-volksverhetzung-a-b0b10a4c-b6df-4de0-b9c1-2f8250b4e2a4#ref=rss)
-### wehrt
-
-* [https://www.spiegel.de/wirtschaft/julian-reichelt-staatsanwaltschaft-berlin-ermittelt-wegen-verdachts-auf-volksverhetzung](https://www.spiegel.de/wirtschaft/julian-reichelt-staatsanwaltschaft-berlin-ermittelt-wegen-verdachts-auf-volksverhetzung-a-b0b10a4c-b6df-4de0-b9c1-2f8250b4e2a4#ref=rss)
-* [https://www.spiegel.de/karriere/betriebsraete-karriereende-durch-engagement-im-betriebsrat-wie-man-sich-dagegen-wehrt](https://www.spiegel.de/karriere/betriebsraete-karriereende-durch-engagement-im-betriebsrat-wie-man-sich-dagegen-wehrt-a-2f6c769f-3b91-47df-ac98-c8487a431731#ref=rss)
-### kamerun
-
-* [https://www.spiegel.de/ausland/kamerun-praesident-paul-biya-wiedergewaehlt-altester-praesident-der-welt](https://www.spiegel.de/ausland/kamerun-praesident-paul-biya-wiedergewaehlt-altester-praesident-der-welt-a-57cdab20-ca58-4678-90eb-0ee72f49237c#ref=rss)
-### paul
-
-* [https://www.spiegel.de/ausland/kamerun-praesident-paul-biya-wiedergewaehlt-altester-praesident-der-welt](https://www.spiegel.de/ausland/kamerun-praesident-paul-biya-wiedergewaehlt-altester-praesident-der-welt-a-57cdab20-ca58-4678-90eb-0ee72f49237c#ref=rss)
-### biya
-
-* [https://www.spiegel.de/ausland/kamerun-praesident-paul-biya-wiedergewaehlt-altester-praesident-der-welt](https://www.spiegel.de/ausland/kamerun-praesident-paul-biya-wiedergewaehlt-altester-praesident-der-welt-a-57cdab20-ca58-4678-90eb-0ee72f49237c#ref=rss)
-### mitarbeiter
-
-* [https://www.spiegel.de/karriere/betriebsraete-karriereende-durch-engagement-im-betriebsrat-wie-man-sich-dagegen-wehrt](https://www.spiegel.de/karriere/betriebsraete-karriereende-durch-engagement-im-betriebsrat-wie-man-sich-dagegen-wehrt-a-2f6c769f-3b91-47df-ac98-c8487a431731#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-zdf-bestaetigt-dass-in-gaza-getoeteter-mitarbeiter-der-terrororganisation-angehoert-hat](https://www.spiegel.de/ausland/hamas-zdf-bestaetigt-dass-in-gaza-getoeteter-mitarbeiter-der-terrororganisation-angehoert-hat-a-2f9bcd21-6151-4b95-8970-11c3c5995d78#ref=rss)
-### melissa
-
-* [https://www.spiegel.de/panorama/hurrikan-melissa-steuert-auf-jamaika-zu-staerkste-stufe-erreicht](https://www.spiegel.de/panorama/hurrikan-melissa-steuert-auf-jamaika-zu-staerkste-stufe-erreicht-a-56daab08-6750-45ec-adc3-7be8ffef0292#ref=rss)
-### jamaika
-
-* [https://www.spiegel.de/panorama/hurrikan-melissa-steuert-auf-jamaika-zu-staerkste-stufe-erreicht](https://www.spiegel.de/panorama/hurrikan-melissa-steuert-auf-jamaika-zu-staerkste-stufe-erreicht-a-56daab08-6750-45ec-adc3-7be8ffef0292#ref=rss)
-### jack
-
-* [https://www.spiegel.de/kultur/musik/jack-dejohnette-ist-tot-jazz-schlagzeuger-mit-83-jahren-gestorben](https://www.spiegel.de/kultur/musik/jack-dejohnette-ist-tot-jazz-schlagzeuger-mit-83-jahren-gestorben-a-735fe359-3d39-4b2c-96ee-90a713fce6a9#ref=rss)
-### dejohnette
-
-* [https://www.spiegel.de/kultur/musik/jack-dejohnette-ist-tot-jazz-schlagzeuger-mit-83-jahren-gestorben](https://www.spiegel.de/kultur/musik/jack-dejohnette-ist-tot-jazz-schlagzeuger-mit-83-jahren-gestorben-a-735fe359-3d39-4b2c-96ee-90a713fce6a9#ref=rss)
-### 83
-
-* [https://www.spiegel.de/kultur/musik/jack-dejohnette-ist-tot-jazz-schlagzeuger-mit-83-jahren-gestorben](https://www.spiegel.de/kultur/musik/jack-dejohnette-ist-tot-jazz-schlagzeuger-mit-83-jahren-gestorben-a-735fe359-3d39-4b2c-96ee-90a713fce6a9#ref=rss)
-### uswirtschaft
-
-* [https://www.spiegel.de/wirtschaft/soziales/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder](https://www.spiegel.de/wirtschaft/soziales/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder-a-8f2fbb32-c7bc-4ecf-a773-71333b8b5b1d#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/soziales/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder](https://www.spiegel.de/wirtschaft/soziales/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder-a-8f2fbb32-c7bc-4ecf-a773-71333b8b5b1d#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf](https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf-a-90add20b-9215-4eb4-8be1-88cf2b56be51#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor](https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor-a-4057e216-8ad6-4aca-9447-886fc3e22072#ref=rss)
+* [https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee](https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee-a-e63d49cc-2882-4100-8638-fdf0047779a4#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht](https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht-a-ade541e4-9b1a-4d2a-8a63-a6d695d93f2d#ref=rss)
+* [https://www.spiegel.de/karriere/gehalt-im-strassenbau-das-bild-vom-bauarbeiter-der-mit-60-nicht-mehr-laufen-kann-stimmt-nicht-mehr](https://www.spiegel.de/karriere/gehalt-im-strassenbau-das-bild-vom-bauarbeiter-der-mit-60-nicht-mehr-laufen-kann-stimmt-nicht-mehr-a-90899cd8-9318-41b1-a9ed-4f0b7cae30ef#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel](https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel-a-d37016a3-5f24-4a02-a80a-eadfe497580d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wirtschaft/soziales/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder](https://www.spiegel.de/wirtschaft/soziales/us-wirtschaft-donald-trump-und-das-amerikanische-boersenwunder-a-8f2fbb32-c7bc-4ecf-a773-71333b8b5b1d#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf](https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf-a-90add20b-9215-4eb4-8be1-88cf2b56be51#ref=rss)
-### lennart
+* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa-a-b307eef6-804f-4f51-b6e1-cd4486f25ac0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi](https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi-a-fe95fb55-f311-4b82-84b7-c61be2e81b4a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-vetternwirtschaft-im-weissen-haus-auf-dem-vormarsch](https://www.spiegel.de/wirtschaft/donald-trump-vetternwirtschaft-im-weissen-haus-auf-dem-vormarsch-a-b787eb1d-d766-44d8-9103-949b15875a4a#ref=rss)
+### china
 
-* [https://www.spiegel.de/sport/fussball/lennart-karl-vom-fc-bayern-muenchen-ist-der-hype-um-das-toptalent-berechtigt](https://www.spiegel.de/sport/fussball/lennart-karl-vom-fc-bayern-muenchen-ist-der-hype-um-das-toptalent-berechtigt-a-37f3a8d9-131e-4b0f-98d2-13d6f304125e#ref=rss)
-### karl
+* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa-a-b307eef6-804f-4f51-b6e1-cd4486f25ac0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china-a-e440bca6-7846-46ff-97cc-1c8f5a217fe8#ref=rss)
+### bleibt
 
-* [https://www.spiegel.de/sport/fussball/lennart-karl-vom-fc-bayern-muenchen-ist-der-hype-um-das-toptalent-berechtigt](https://www.spiegel.de/sport/fussball/lennart-karl-vom-fc-bayern-muenchen-ist-der-hype-um-das-toptalent-berechtigt-a-37f3a8d9-131e-4b0f-98d2-13d6f304125e#ref=rss)
-### litauen
+* [https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi](https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi-a-fe95fb55-f311-4b82-84b7-c61be2e81b4a#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-mann-bleibt-in-snackautomat-an-s-bahnhof-stecken-ermittlungen](https://www.spiegel.de/panorama/hamburg-mann-bleibt-in-snackautomat-an-s-bahnhof-stecken-ermittlungen-a-1ddebea4-1b4f-461b-b0a3-314016a454d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen](https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen-a-0225578f-fcd8-45df-a47f-fb5189d91f8b#ref=rss)
+### israel
 
-* [https://www.spiegel.de/ausland/litauen-will-grenze-zu-belarus-nach-zwischenfaellen-mit-wetterballons-schliessen](https://www.spiegel.de/ausland/litauen-will-grenze-zu-belarus-nach-zwischenfaellen-mit-wetterballons-schliessen-a-02e14427-96e2-47bb-bf41-939ce8a1a63e#ref=rss)
-### belarus
+* [https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an](https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an-a-3c620298-21ac-46ca-a8e9-dddc6ec5c2a5#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee](https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee-a-2eee14be-eb1c-46ad-8579-81be11b8774a#ref=rss)
+### hamas
 
-* [https://www.spiegel.de/ausland/litauen-will-grenze-zu-belarus-nach-zwischenfaellen-mit-wetterballons-schliessen](https://www.spiegel.de/ausland/litauen-will-grenze-zu-belarus-nach-zwischenfaellen-mit-wetterballons-schliessen-a-02e14427-96e2-47bb-bf41-939ce8a1a63e#ref=rss)
-### wetterballons
+* [https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an](https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an-a-3c620298-21ac-46ca-a8e9-dddc6ec5c2a5#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee](https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee-a-2eee14be-eb1c-46ad-8579-81be11b8774a#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/litauen-will-grenze-zu-belarus-nach-zwischenfaellen-mit-wetterballons-schliessen](https://www.spiegel.de/ausland/litauen-will-grenze-zu-belarus-nach-zwischenfaellen-mit-wetterballons-schliessen-a-02e14427-96e2-47bb-bf41-939ce8a1a63e#ref=rss)
-### jahres
+* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/grokipedia-elon-musks-konkurrenz-zu-wikipedia-geht-online](https://www.spiegel.de/netzwelt/web/grokipedia-elon-musks-konkurrenz-zu-wikipedia-geht-online-a-d06d92da-2d85-4253-a7db-a7dae7989957#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht](https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht-a-ade541e4-9b1a-4d2a-8a63-a6d695d93f2d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china-a-e440bca6-7846-46ff-97cc-1c8f5a217fe8#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/reise/deutschland/bahnhof-des-jahres-der-beste-bahnhof-deutschlands-steht-in-magdeburg](https://www.spiegel.de/reise/deutschland/bahnhof-des-jahres-der-beste-bahnhof-deutschlands-steht-in-magdeburg-a-dded17b5-2c4b-4b13-8f50-8308cda994b2#ref=rss)
-### baum
+* [https://www.spiegel.de/wissenschaft/norwegen-menschenrechtsgerichtshof-weist-klimaklage-gegen-regierung-ab](https://www.spiegel.de/wissenschaft/norwegen-menschenrechtsgerichtshof-weist-klimaklage-gegen-regierung-ab-a-e3369dc6-60b5-4370-98c9-f7b50475545d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china-a-e440bca6-7846-46ff-97cc-1c8f5a217fe8#ref=rss)
+### likör
 
-* [https://www.spiegel.de/panorama/muenchen-regionalzug-kollidiert-mit-umgestuerztem-baum](https://www.spiegel.de/panorama/muenchen-regionalzug-kollidiert-mit-umgestuerztem-baum-a-a0077366-7ecd-4f35-8540-e5d30b12c3da#ref=rss)
-### zdf
+* [https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel](https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel-a-d37016a3-5f24-4a02-a80a-eadfe497580d#ref=rss)
+### ei
 
-* [https://www.spiegel.de/ausland/hamas-zdf-bestaetigt-dass-in-gaza-getoeteter-mitarbeiter-der-terrororganisation-angehoert-hat](https://www.spiegel.de/ausland/hamas-zdf-bestaetigt-dass-in-gaza-getoeteter-mitarbeiter-der-terrororganisation-angehoert-hat-a-2f9bcd21-6151-4b95-8970-11c3c5995d78#ref=rss)
-### gaza
+* [https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel](https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel-a-d37016a3-5f24-4a02-a80a-eadfe497580d#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/ausland/hamas-zdf-bestaetigt-dass-in-gaza-getoeteter-mitarbeiter-der-terrororganisation-angehoert-hat](https://www.spiegel.de/ausland/hamas-zdf-bestaetigt-dass-in-gaza-getoeteter-mitarbeiter-der-terrororganisation-angehoert-hat-a-2f9bcd21-6151-4b95-8970-11c3c5995d78#ref=rss)
-### niederlande
+* [https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel](https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel-a-d37016a3-5f24-4a02-a80a-eadfe497580d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen](https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen-a-0225578f-fcd8-45df-a47f-fb5189d91f8b#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/ausland/niederlande-geert-wilders-entschuldigt-sich-fuer-ki-generierte-hetzfotos](https://www.spiegel.de/ausland/niederlande-geert-wilders-entschuldigt-sich-fuer-ki-generierte-hetzfotos-a-a5af4bcc-1bbb-49ac-a50a-7c9fa3c7e2c0#ref=rss)
-### wahlkampf
+* [https://www.spiegel.de/panorama/leute/salman-rushdie-weltbekannter-autor-kaempft-bis-heute-mit-folgen-des-attentats](https://www.spiegel.de/panorama/leute/salman-rushdie-weltbekannter-autor-kaempft-bis-heute-mit-folgen-des-attentats-a-4d64bb8a-a69b-45f6-ba2c-3cdd04eb8379#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor](https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor-a-4057e216-8ad6-4aca-9447-886fc3e22072#ref=rss)
+* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
+### attentäter
 
-* [https://www.spiegel.de/ausland/niederlande-geert-wilders-entschuldigt-sich-fuer-ki-generierte-hetzfotos](https://www.spiegel.de/ausland/niederlande-geert-wilders-entschuldigt-sich-fuer-ki-generierte-hetzfotos-a-a5af4bcc-1bbb-49ac-a50a-7c9fa3c7e2c0#ref=rss)
-* [https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf](https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf-a-90add20b-9215-4eb4-8be1-88cf2b56be51#ref=rss)
-### new
+* [https://www.spiegel.de/panorama/leute/salman-rushdie-weltbekannter-autor-kaempft-bis-heute-mit-folgen-des-attentats](https://www.spiegel.de/panorama/leute/salman-rushdie-weltbekannter-autor-kaempft-bis-heute-mit-folgen-des-attentats-a-4d64bb8a-a69b-45f6-ba2c-3cdd04eb8379#ref=rss)
+* [https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig](https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig-a-a909371c-f401-4537-9768-23c3e4f1adc5#ref=rss)
+### armee
 
-* [https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf](https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf-a-90add20b-9215-4eb4-8be1-88cf2b56be51#ref=rss)
-### zohran
+* [https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor](https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor-a-4057e216-8ad6-4aca-9447-886fc3e22072#ref=rss)
+* [https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee](https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee-a-e63d49cc-2882-4100-8638-fdf0047779a4#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee](https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee-a-2eee14be-eb1c-46ad-8579-81be11b8774a#ref=rss)
+### land
 
-* [https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf](https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf-a-90add20b-9215-4eb4-8be1-88cf2b56be51#ref=rss)
-### mamdani
+* [https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor](https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor-a-4057e216-8ad6-4aca-9447-886fc3e22072#ref=rss)
+* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
+* [https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig](https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig-a-a909371c-f401-4537-9768-23c3e4f1adc5#ref=rss)
+### japan
 
-* [https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf](https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf-a-90add20b-9215-4eb4-8be1-88cf2b56be51#ref=rss)
+* [https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee](https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee-a-e63d49cc-2882-4100-8638-fdf0047779a4#ref=rss)
+* [https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig](https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig-a-a909371c-f401-4537-9768-23c3e4f1adc5#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee](https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee-a-e63d49cc-2882-4100-8638-fdf0047779a4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
+* [https://www.spiegel.de/panorama/vietnam-rekordregen-fuehrt-zu-ueberflutungen](https://www.spiegel.de/panorama/vietnam-rekordregen-fuehrt-zu-ueberflutungen-a-a52d8d11-e6cb-4aa1-9bb4-d06c112aa300#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa-a-b307eef6-804f-4f51-b6e1-cd4486f25ac0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi](https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi-a-fe95fb55-f311-4b82-84b7-c61be2e81b4a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-vetternwirtschaft-im-weissen-haus-auf-dem-vormarsch](https://www.spiegel.de/wirtschaft/donald-trump-vetternwirtschaft-im-weissen-haus-auf-dem-vormarsch-a-b787eb1d-d766-44d8-9103-949b15875a4a#ref=rss)
+### japans
+
+* [https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi](https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi-a-fe95fb55-f311-4b82-84b7-c61be2e81b4a#ref=rss)
+* [https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig](https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig-a-a909371c-f401-4537-9768-23c3e4f1adc5#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi](https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi-a-fe95fb55-f311-4b82-84b7-c61be2e81b4a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen](https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen-a-0225578f-fcd8-45df-a47f-fb5189d91f8b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china-a-e440bca6-7846-46ff-97cc-1c8f5a217fe8#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher](https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher-a-b8cc3c01-809b-4405-a38f-c526d7818ecb#ref=rss)
+### britischen
+
+* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/david-beckhams-henkersmahlzeit-waere-aal-in-aspik](https://www.spiegel.de/sport/fussball/david-beckhams-henkersmahlzeit-waere-aal-in-aspik-a-2cbee5e7-dd8c-4e12-bb86-08b6247615a9#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/hamburg-mann-bleibt-in-snackautomat-an-s-bahnhof-stecken-ermittlungen](https://www.spiegel.de/panorama/hamburg-mann-bleibt-in-snackautomat-an-s-bahnhof-stecken-ermittlungen-a-1ddebea4-1b4f-461b-b0a3-314016a454d7#ref=rss)
+* [https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig](https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig-a-a909371c-f401-4537-9768-23c3e4f1adc5#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher](https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher-a-b8cc3c01-809b-4405-a38f-c526d7818ecb#ref=rss)
+### vorschlag
+
+* [https://www.spiegel.de/panorama/bildung/zivilschutz-im-unterricht-ist-alexander-dobrindts-vorschlag-eine-gute-idee](https://www.spiegel.de/panorama/bildung/zivilschutz-im-unterricht-ist-alexander-dobrindts-vorschlag-eine-gute-idee-a-2bc6958a-0066-495d-955f-3f0693b75788#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/panorama/bildung/zivilschutz-im-unterricht-ist-alexander-dobrindts-vorschlag-eine-gute-idee](https://www.spiegel.de/panorama/bildung/zivilschutz-im-unterricht-ist-alexander-dobrindts-vorschlag-eine-gute-idee-a-2bc6958a-0066-495d-955f-3f0693b75788#ref=rss)
+* [https://www.spiegel.de/panorama/vietnam-rekordregen-fuehrt-zu-ueberflutungen](https://www.spiegel.de/panorama/vietnam-rekordregen-fuehrt-zu-ueberflutungen-a-a52d8d11-e6cb-4aa1-9bb4-d06c112aa300#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/panorama/bildung/zivilschutz-im-unterricht-ist-alexander-dobrindts-vorschlag-eine-gute-idee](https://www.spiegel.de/panorama/bildung/zivilschutz-im-unterricht-ist-alexander-dobrindts-vorschlag-eine-gute-idee-a-2bc6958a-0066-495d-955f-3f0693b75788#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade](https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade-a-7c0fccec-e4b3-4fb5-a579-a35e6039e24f#ref=rss)
+### wäre
+
+* [https://www.spiegel.de/panorama/bildung/zivilschutz-im-unterricht-ist-alexander-dobrindts-vorschlag-eine-gute-idee](https://www.spiegel.de/panorama/bildung/zivilschutz-im-unterricht-ist-alexander-dobrindts-vorschlag-eine-gute-idee-a-2bc6958a-0066-495d-955f-3f0693b75788#ref=rss)
+* [https://www.spiegel.de/sport/fussball/david-beckhams-henkersmahlzeit-waere-aal-in-aspik](https://www.spiegel.de/sport/fussball/david-beckhams-henkersmahlzeit-waere-aal-in-aspik-a-2cbee5e7-dd8c-4e12-bb86-08b6247615a9#ref=rss)
+### johannes
+
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade](https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade-a-7c0fccec-e4b3-4fb5-a579-a35e6039e24f#ref=rss)
+### winkel
+
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade](https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade-a-7c0fccec-e4b3-4fb5-a579-a35e6039e24f#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade](https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade-a-7c0fccec-e4b3-4fb5-a579-a35e6039e24f#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade](https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade-a-7c0fccec-e4b3-4fb5-a579-a35e6039e24f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
+### norwegen
+
+* [https://www.spiegel.de/wissenschaft/norwegen-menschenrechtsgerichtshof-weist-klimaklage-gegen-regierung-ab](https://www.spiegel.de/wissenschaft/norwegen-menschenrechtsgerichtshof-weist-klimaklage-gegen-regierung-ab-a-e3369dc6-60b5-4370-98c9-f7b50475545d#ref=rss)
+### urteil
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel](https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel-a-d37016a3-5f24-4a02-a80a-eadfe497580d#ref=rss)
+### kiel
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel](https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel-a-d37016a3-5f24-4a02-a80a-eadfe497580d#ref=rss)
+### salman
+
+* [https://www.spiegel.de/panorama/leute/salman-rushdie-weltbekannter-autor-kaempft-bis-heute-mit-folgen-des-attentats](https://www.spiegel.de/panorama/leute/salman-rushdie-weltbekannter-autor-kaempft-bis-heute-mit-folgen-des-attentats-a-4d64bb8a-a69b-45f6-ba2c-3cdd04eb8379#ref=rss)
+### rushdie
+
+* [https://www.spiegel.de/panorama/leute/salman-rushdie-weltbekannter-autor-kaempft-bis-heute-mit-folgen-des-attentats](https://www.spiegel.de/panorama/leute/salman-rushdie-weltbekannter-autor-kaempft-bis-heute-mit-folgen-des-attentats-a-4d64bb8a-a69b-45f6-ba2c-3cdd04eb8379#ref=rss)
+### sudan
+
+* [https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor](https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor-a-4057e216-8ad6-4aca-9447-886fc3e22072#ref=rss)
+### 2000
+
+* [https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor](https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor-a-4057e216-8ad6-4aca-9447-886fc3e22072#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor](https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor-a-4057e216-8ad6-4aca-9447-886fc3e22072#ref=rss)
+* [https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee](https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee-a-e63d49cc-2882-4100-8638-fdf0047779a4#ref=rss)
+### hurrikan
+
+* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
+### melissa
+
+* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
+### aufnahmen
+
+* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
+### auge
+
+* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
+### sturms
+
+* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
+### jamaika
+
+* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
+### bärenangriffe
+
+* [https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee](https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee-a-e63d49cc-2882-4100-8638-fdf0047779a4#ref=rss)
 ### unterstützung
 
-* [https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf](https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf-a-90add20b-9215-4eb4-8be1-88cf2b56be51#ref=rss)
-### linken
+* [https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee](https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee-a-e63d49cc-2882-4100-8638-fdf0047779a4#ref=rss)
+### tote
 
-* [https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf](https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf-a-90add20b-9215-4eb4-8be1-88cf2b56be51#ref=rss)
-### demokraten
+* [https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee](https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee-a-e63d49cc-2882-4100-8638-fdf0047779a4#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee](https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee-a-2eee14be-eb1c-46ad-8579-81be11b8774a#ref=rss)
+### xi
 
-* [https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf](https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-erhaelt-unterstuetzung-von-linken-demokraten-im-wahlkampf-a-90add20b-9215-4eb4-8be1-88cf2b56be51#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa-a-b307eef6-804f-4f51-b6e1-cd4486f25ac0#ref=rss)
+### zollstreit
+
+* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa-a-b307eef6-804f-4f51-b6e1-cd4486f25ac0#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa-a-b307eef6-804f-4f51-b6e1-cd4486f25ac0#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa-a-b307eef6-804f-4f51-b6e1-cd4486f25ac0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi](https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi-a-fe95fb55-f311-4b82-84b7-c61be2e81b4a#ref=rss)
+### beachvolleyballwm
+
+* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
+### steven
+
+* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
+### van
+
+* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
+### de
+
+* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
+### velde
+
+* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
+### australien
+
+* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
+### anders
+
+* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
+* [https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit](https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit-a-85781ac6-83c0-478b-a571-1255178949dd#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen](https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen-a-0225578f-fcd8-45df-a47f-fb5189d91f8b#ref=rss)
+### premierministerin
+
+* [https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi](https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi-a-fe95fb55-f311-4b82-84b7-c61be2e81b4a#ref=rss)
+### takaichi
+
+* [https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi](https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi-a-fe95fb55-f311-4b82-84b7-c61be2e81b4a#ref=rss)
+### toten
+
+* [https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an](https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an-a-3c620298-21ac-46ca-a8e9-dddc6ec5c2a5#ref=rss)
+### geisel
+
+* [https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an](https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an-a-3c620298-21ac-46ca-a8e9-dddc6ec5c2a5#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee](https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee-a-2eee14be-eb1c-46ad-8579-81be11b8774a#ref=rss)
+### geiseln
+
+* [https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an](https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an-a-3c620298-21ac-46ca-a8e9-dddc6ec5c2a5#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee](https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee-a-2eee14be-eb1c-46ad-8579-81be11b8774a#ref=rss)
+### islamisten
+
+* [https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an](https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an-a-3c620298-21ac-46ca-a8e9-dddc6ec5c2a5#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee](https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee-a-2eee14be-eb1c-46ad-8579-81be11b8774a#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
+### swift
+
+* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
+### ziel
+
+* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht](https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht-a-ade541e4-9b1a-4d2a-8a63-a6d695d93f2d#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
+### andere
+
+* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/ki-modell-claude-von-anthropic-bekommt-exit-rights-sollten-wir-uns-um-ai-welfare-kuemmern](https://www.spiegel.de/wissenschaft/technik/ki-modell-claude-von-anthropic-bekommt-exit-rights-sollten-wir-uns-um-ai-welfare-kuemmern-a-a24bcd34-b5eb-4cf9-800c-9ab7cb0d7ec7#ref=rss)
+### david
+
+* [https://www.spiegel.de/sport/fussball/david-beckhams-henkersmahlzeit-waere-aal-in-aspik](https://www.spiegel.de/sport/fussball/david-beckhams-henkersmahlzeit-waere-aal-in-aspik-a-2cbee5e7-dd8c-4e12-bb86-08b6247615a9#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/hamburg-mann-bleibt-in-snackautomat-an-s-bahnhof-stecken-ermittlungen](https://www.spiegel.de/panorama/hamburg-mann-bleibt-in-snackautomat-an-s-bahnhof-stecken-ermittlungen-a-1ddebea4-1b4f-461b-b0a3-314016a454d7#ref=rss)
+### busfahrer
+
+* [https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit](https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit-a-85781ac6-83c0-478b-a571-1255178949dd#ref=rss)
+### kenia
+
+* [https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit](https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit-a-85781ac6-83c0-478b-a571-1255178949dd#ref=rss)
+### flensburg
+
+* [https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit](https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit-a-85781ac6-83c0-478b-a571-1255178949dd#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit](https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit-a-85781ac6-83c0-478b-a571-1255178949dd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china-a-e440bca6-7846-46ff-97cc-1c8f5a217fe8#ref=rss)
+### aktivrente
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
+### arbeiten
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
+### freiwillig
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
+* [https://www.spiegel.de/karriere/gehalt-im-strassenbau-das-bild-vom-bauarbeiter-der-mit-60-nicht-mehr-laufen-kann-stimmt-nicht-mehr](https://www.spiegel.de/karriere/gehalt-im-strassenbau-das-bild-vom-bauarbeiter-der-mit-60-nicht-mehr-laufen-kann-stimmt-nicht-mehr-a-90899cd8-9318-41b1-a9ed-4f0b7cae30ef#ref=rss)
+### grokipedia
+
+* [https://www.spiegel.de/netzwelt/web/grokipedia-elon-musks-konkurrenz-zu-wikipedia-geht-online](https://www.spiegel.de/netzwelt/web/grokipedia-elon-musks-konkurrenz-zu-wikipedia-geht-online-a-d06d92da-2d85-4253-a7db-a7dae7989957#ref=rss)
+### elon
+
+* [https://www.spiegel.de/netzwelt/web/grokipedia-elon-musks-konkurrenz-zu-wikipedia-geht-online](https://www.spiegel.de/netzwelt/web/grokipedia-elon-musks-konkurrenz-zu-wikipedia-geht-online-a-d06d92da-2d85-4253-a7db-a7dae7989957#ref=rss)
+### wikipedia
+
+* [https://www.spiegel.de/netzwelt/web/grokipedia-elon-musks-konkurrenz-zu-wikipedia-geht-online](https://www.spiegel.de/netzwelt/web/grokipedia-elon-musks-konkurrenz-zu-wikipedia-geht-online-a-d06d92da-2d85-4253-a7db-a7dae7989957#ref=rss)
+### verantwortung
+
+* [https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen](https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen-a-0225578f-fcd8-45df-a47f-fb5189d91f8b#ref=rss)
+### abe
+
+* [https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig](https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig-a-a909371c-f401-4537-9768-23c3e4f1adc5#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig](https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig-a-a909371c-f401-4537-9768-23c3e4f1adc5#ref=rss)
+* [https://www.spiegel.de/panorama/vietnam-rekordregen-fuehrt-zu-ueberflutungen](https://www.spiegel.de/panorama/vietnam-rekordregen-fuehrt-zu-ueberflutungen-a-a52d8d11-e6cb-4aa1-9bb4-d06c112aa300#ref=rss)
+### jennifer
+
+* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht](https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht-a-ade541e4-9b1a-4d2a-8a63-a6d695d93f2d#ref=rss)
+### lawrence
+
+* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht](https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht-a-ade541e4-9b1a-4d2a-8a63-a6d695d93f2d#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht](https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht-a-ade541e4-9b1a-4d2a-8a63-a6d695d93f2d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert](https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert-a-796ff8ba-0482-49ab-8b70-08d37ce5bb93#ref=rss)
+### verteidigungsministerium
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsministerium-stoppt-umwandlung-von-200-militaer-standorten](https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsministerium-stoppt-umwandlung-von-200-militaer-standorten-a-77a8a469-85ea-4047-b148-a3985ea3a7b4#ref=rss)
+### kaserne
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsministerium-stoppt-umwandlung-von-200-militaer-standorten](https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsministerium-stoppt-umwandlung-von-200-militaer-standorten-a-77a8a469-85ea-4047-b148-a3985ea3a7b4#ref=rss)
+### vetternwirtschaft
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-vetternwirtschaft-im-weissen-haus-auf-dem-vormarsch](https://www.spiegel.de/wirtschaft/donald-trump-vetternwirtschaft-im-weissen-haus-auf-dem-vormarsch-a-b787eb1d-d766-44d8-9103-949b15875a4a#ref=rss)
+### nexperia
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china-a-e440bca6-7846-46ff-97cc-1c8f5a217fe8#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china-a-e440bca6-7846-46ff-97cc-1c8f5a217fe8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher](https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher-a-b8cc3c01-809b-4405-a38f-c526d7818ecb#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher](https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher-a-b8cc3c01-809b-4405-a38f-c526d7818ecb#ref=rss)
+### fühlt
+
+* [https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher](https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher-a-b8cc3c01-809b-4405-a38f-c526d7818ecb#ref=rss)
+* [https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee](https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee-a-2eee14be-eb1c-46ad-8579-81be11b8774a#ref=rss)
+### orten
+
+* [https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher](https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher-a-b8cc3c01-809b-4405-a38f-c526d7818ecb#ref=rss)
+### sicher
+
+* [https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher](https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher-a-b8cc3c01-809b-4405-a38f-c526d7818ecb#ref=rss)
+### bürgergeld
+
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert](https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert-a-796ff8ba-0482-49ab-8b70-08d37ce5bb93#ref=rss)
+### sozialhilfe
+
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert](https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert-a-796ff8ba-0482-49ab-8b70-08d37ce5bb93#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert](https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert-a-796ff8ba-0482-49ab-8b70-08d37ce5bb93#ref=rss)
+### untere
+
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert](https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert-a-796ff8ba-0482-49ab-8b70-08d37ce5bb93#ref=rss)
+### mittelschicht
+
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert](https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert-a-796ff8ba-0482-49ab-8b70-08d37ce5bb93#ref=rss)
+### empört
+
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert](https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert-a-796ff8ba-0482-49ab-8b70-08d37ce5bb93#ref=rss)
+### straßenbau
+
+* [https://www.spiegel.de/karriere/gehalt-im-strassenbau-das-bild-vom-bauarbeiter-der-mit-60-nicht-mehr-laufen-kann-stimmt-nicht-mehr](https://www.spiegel.de/karriere/gehalt-im-strassenbau-das-bild-vom-bauarbeiter-der-mit-60-nicht-mehr-laufen-kann-stimmt-nicht-mehr-a-90899cd8-9318-41b1-a9ed-4f0b7cae30ef#ref=rss)
 
