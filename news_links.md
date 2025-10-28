@@ -4,392 +4,385 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor](https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor-a-4057e216-8ad6-4aca-9447-886fc3e22072#ref=rss)
-* [https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee](https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee-a-e63d49cc-2882-4100-8638-fdf0047779a4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht](https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht-a-ade541e4-9b1a-4d2a-8a63-a6d695d93f2d#ref=rss)
-* [https://www.spiegel.de/karriere/gehalt-im-strassenbau-das-bild-vom-bauarbeiter-der-mit-60-nicht-mehr-laufen-kann-stimmt-nicht-mehr](https://www.spiegel.de/karriere/gehalt-im-strassenbau-das-bild-vom-bauarbeiter-der-mit-60-nicht-mehr-laufen-kann-stimmt-nicht-mehr-a-90899cd8-9318-41b1-a9ed-4f0b7cae30ef#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel](https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel-a-d37016a3-5f24-4a02-a80a-eadfe497580d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa-a-b307eef6-804f-4f51-b6e1-cd4486f25ac0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi](https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi-a-fe95fb55-f311-4b82-84b7-c61be2e81b4a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-vetternwirtschaft-im-weissen-haus-auf-dem-vormarsch](https://www.spiegel.de/wirtschaft/donald-trump-vetternwirtschaft-im-weissen-haus-auf-dem-vormarsch-a-b787eb1d-d766-44d8-9103-949b15875a4a#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa-a-b307eef6-804f-4f51-b6e1-cd4486f25ac0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china-a-e440bca6-7846-46ff-97cc-1c8f5a217fe8#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi](https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi-a-fe95fb55-f311-4b82-84b7-c61be2e81b4a#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-mann-bleibt-in-snackautomat-an-s-bahnhof-stecken-ermittlungen](https://www.spiegel.de/panorama/hamburg-mann-bleibt-in-snackautomat-an-s-bahnhof-stecken-ermittlungen-a-1ddebea4-1b4f-461b-b0a3-314016a454d7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen](https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen-a-0225578f-fcd8-45df-a47f-fb5189d91f8b#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an](https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an-a-3c620298-21ac-46ca-a8e9-dddc6ec5c2a5#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee](https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee-a-2eee14be-eb1c-46ad-8579-81be11b8774a#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an](https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an-a-3c620298-21ac-46ca-a8e9-dddc6ec5c2a5#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee](https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee-a-2eee14be-eb1c-46ad-8579-81be11b8774a#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/grokipedia-elon-musks-konkurrenz-zu-wikipedia-geht-online](https://www.spiegel.de/netzwelt/web/grokipedia-elon-musks-konkurrenz-zu-wikipedia-geht-online-a-d06d92da-2d85-4253-a7db-a7dae7989957#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht](https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht-a-ade541e4-9b1a-4d2a-8a63-a6d695d93f2d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china-a-e440bca6-7846-46ff-97cc-1c8f5a217fe8#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/wissenschaft/norwegen-menschenrechtsgerichtshof-weist-klimaklage-gegen-regierung-ab](https://www.spiegel.de/wissenschaft/norwegen-menschenrechtsgerichtshof-weist-klimaklage-gegen-regierung-ab-a-e3369dc6-60b5-4370-98c9-f7b50475545d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china-a-e440bca6-7846-46ff-97cc-1c8f5a217fe8#ref=rss)
-### likör
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel](https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel-a-d37016a3-5f24-4a02-a80a-eadfe497580d#ref=rss)
-### ei
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel](https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel-a-d37016a3-5f24-4a02-a80a-eadfe497580d#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel](https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel-a-d37016a3-5f24-4a02-a80a-eadfe497580d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen](https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen-a-0225578f-fcd8-45df-a47f-fb5189d91f8b#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/panorama/leute/salman-rushdie-weltbekannter-autor-kaempft-bis-heute-mit-folgen-des-attentats](https://www.spiegel.de/panorama/leute/salman-rushdie-weltbekannter-autor-kaempft-bis-heute-mit-folgen-des-attentats-a-4d64bb8a-a69b-45f6-ba2c-3cdd04eb8379#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor](https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor-a-4057e216-8ad6-4aca-9447-886fc3e22072#ref=rss)
-* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
-### attentäter
-
-* [https://www.spiegel.de/panorama/leute/salman-rushdie-weltbekannter-autor-kaempft-bis-heute-mit-folgen-des-attentats](https://www.spiegel.de/panorama/leute/salman-rushdie-weltbekannter-autor-kaempft-bis-heute-mit-folgen-des-attentats-a-4d64bb8a-a69b-45f6-ba2c-3cdd04eb8379#ref=rss)
-* [https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig](https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig-a-a909371c-f401-4537-9768-23c3e4f1adc5#ref=rss)
-### armee
-
-* [https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor](https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor-a-4057e216-8ad6-4aca-9447-886fc3e22072#ref=rss)
-* [https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee](https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee-a-e63d49cc-2882-4100-8638-fdf0047779a4#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee](https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee-a-2eee14be-eb1c-46ad-8579-81be11b8774a#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor](https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor-a-4057e216-8ad6-4aca-9447-886fc3e22072#ref=rss)
-* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
-* [https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig](https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig-a-a909371c-f401-4537-9768-23c3e4f1adc5#ref=rss)
-### japan
-
-* [https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee](https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee-a-e63d49cc-2882-4100-8638-fdf0047779a4#ref=rss)
-* [https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig](https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig-a-a909371c-f401-4537-9768-23c3e4f1adc5#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee](https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee-a-e63d49cc-2882-4100-8638-fdf0047779a4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
-* [https://www.spiegel.de/panorama/vietnam-rekordregen-fuehrt-zu-ueberflutungen](https://www.spiegel.de/panorama/vietnam-rekordregen-fuehrt-zu-ueberflutungen-a-a52d8d11-e6cb-4aa1-9bb4-d06c112aa300#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia](https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia-a-d1a40a23-1d7e-431c-b9a6-841ec4e73c14#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa-a-b307eef6-804f-4f51-b6e1-cd4486f25ac0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi](https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi-a-fe95fb55-f311-4b82-84b7-c61be2e81b4a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-vetternwirtschaft-im-weissen-haus-auf-dem-vormarsch](https://www.spiegel.de/wirtschaft/donald-trump-vetternwirtschaft-im-weissen-haus-auf-dem-vormarsch-a-b787eb1d-d766-44d8-9103-949b15875a4a#ref=rss)
-### japans
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia](https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia-a-d1a40a23-1d7e-431c-b9a6-841ec4e73c14#ref=rss)
+### taiwan
 
-* [https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi](https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi-a-fe95fb55-f311-4b82-84b7-c61be2e81b4a#ref=rss)
-* [https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig](https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig-a-a909371c-f401-4537-9768-23c3e4f1adc5#ref=rss)
-### neue
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi](https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi-a-fe95fb55-f311-4b82-84b7-c61be2e81b4a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen](https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen-a-0225578f-fcd8-45df-a47f-fb5189d91f8b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china-a-e440bca6-7846-46ff-97cc-1c8f5a217fe8#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher](https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher-a-b8cc3c01-809b-4405-a38f-c526d7818ecb#ref=rss)
-### britischen
-
-* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/david-beckhams-henkersmahlzeit-waere-aal-in-aspik](https://www.spiegel.de/sport/fussball/david-beckhams-henkersmahlzeit-waere-aal-in-aspik-a-2cbee5e7-dd8c-4e12-bb86-08b6247615a9#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/hamburg-mann-bleibt-in-snackautomat-an-s-bahnhof-stecken-ermittlungen](https://www.spiegel.de/panorama/hamburg-mann-bleibt-in-snackautomat-an-s-bahnhof-stecken-ermittlungen-a-1ddebea4-1b4f-461b-b0a3-314016a454d7#ref=rss)
-* [https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig](https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig-a-a909371c-f401-4537-9768-23c3e4f1adc5#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher](https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher-a-b8cc3c01-809b-4405-a38f-c526d7818ecb#ref=rss)
-### vorschlag
-
-* [https://www.spiegel.de/panorama/bildung/zivilschutz-im-unterricht-ist-alexander-dobrindts-vorschlag-eine-gute-idee](https://www.spiegel.de/panorama/bildung/zivilschutz-im-unterricht-ist-alexander-dobrindts-vorschlag-eine-gute-idee-a-2bc6958a-0066-495d-955f-3f0693b75788#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/bildung/zivilschutz-im-unterricht-ist-alexander-dobrindts-vorschlag-eine-gute-idee](https://www.spiegel.de/panorama/bildung/zivilschutz-im-unterricht-ist-alexander-dobrindts-vorschlag-eine-gute-idee-a-2bc6958a-0066-495d-955f-3f0693b75788#ref=rss)
-* [https://www.spiegel.de/panorama/vietnam-rekordregen-fuehrt-zu-ueberflutungen](https://www.spiegel.de/panorama/vietnam-rekordregen-fuehrt-zu-ueberflutungen-a-a52d8d11-e6cb-4aa1-9bb4-d06c112aa300#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/panorama/bildung/zivilschutz-im-unterricht-ist-alexander-dobrindts-vorschlag-eine-gute-idee](https://www.spiegel.de/panorama/bildung/zivilschutz-im-unterricht-ist-alexander-dobrindts-vorschlag-eine-gute-idee-a-2bc6958a-0066-495d-955f-3f0693b75788#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade](https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade-a-7c0fccec-e4b3-4fb5-a579-a35e6039e24f#ref=rss)
-### wäre
-
-* [https://www.spiegel.de/panorama/bildung/zivilschutz-im-unterricht-ist-alexander-dobrindts-vorschlag-eine-gute-idee](https://www.spiegel.de/panorama/bildung/zivilschutz-im-unterricht-ist-alexander-dobrindts-vorschlag-eine-gute-idee-a-2bc6958a-0066-495d-955f-3f0693b75788#ref=rss)
-* [https://www.spiegel.de/sport/fussball/david-beckhams-henkersmahlzeit-waere-aal-in-aspik](https://www.spiegel.de/sport/fussball/david-beckhams-henkersmahlzeit-waere-aal-in-aspik-a-2cbee5e7-dd8c-4e12-bb86-08b6247615a9#ref=rss)
-### johannes
-
-* [https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade](https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade-a-7c0fccec-e4b3-4fb5-a579-a35e6039e24f#ref=rss)
-### winkel
-
-* [https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade](https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade-a-7c0fccec-e4b3-4fb5-a579-a35e6039e24f#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade](https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade-a-7c0fccec-e4b3-4fb5-a579-a35e6039e24f#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade](https://www.spiegel.de/politik/deutschland/schwarz-rote-koalition-ju-chef-johannes-winkel-warnt-spd-vor-reformblockade-a-7c0fccec-e4b3-4fb5-a579-a35e6039e24f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
-### norwegen
-
-* [https://www.spiegel.de/wissenschaft/norwegen-menschenrechtsgerichtshof-weist-klimaklage-gegen-regierung-ab](https://www.spiegel.de/wissenschaft/norwegen-menschenrechtsgerichtshof-weist-klimaklage-gegen-regierung-ab-a-e3369dc6-60b5-4370-98c9-f7b50475545d#ref=rss)
-### urteil
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel](https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel-a-d37016a3-5f24-4a02-a80a-eadfe497580d#ref=rss)
-### kiel
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel](https://www.spiegel.de/wirtschaft/unternehmen/likoer-ohne-ei-darf-likoer-ohne-ei-heissen-urteil-in-kiel-a-d37016a3-5f24-4a02-a80a-eadfe497580d#ref=rss)
-### salman
-
-* [https://www.spiegel.de/panorama/leute/salman-rushdie-weltbekannter-autor-kaempft-bis-heute-mit-folgen-des-attentats](https://www.spiegel.de/panorama/leute/salman-rushdie-weltbekannter-autor-kaempft-bis-heute-mit-folgen-des-attentats-a-4d64bb8a-a69b-45f6-ba2c-3cdd04eb8379#ref=rss)
-### rushdie
-
-* [https://www.spiegel.de/panorama/leute/salman-rushdie-weltbekannter-autor-kaempft-bis-heute-mit-folgen-des-attentats](https://www.spiegel.de/panorama/leute/salman-rushdie-weltbekannter-autor-kaempft-bis-heute-mit-folgen-des-attentats-a-4d64bb8a-a69b-45f6-ba2c-3cdd04eb8379#ref=rss)
-### sudan
-
-* [https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor](https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor-a-4057e216-8ad6-4aca-9447-886fc3e22072#ref=rss)
-### 2000
-
-* [https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor](https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor-a-4057e216-8ad6-4aca-9447-886fc3e22072#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-mitgliederbegehren-das-buergergeld-schien-fast-vergessen-jetzt-holt-es-die-partei-ein](https://www.spiegel.de/politik/deutschland/spd-mitgliederbegehren-das-buergergeld-schien-fast-vergessen-jetzt-holt-es-die-partei-ein-a-a461e3d9-bae7-49e2-9d0c-aee0f9e19a55#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/remscheid-ermittler-finden-noch-mehr-waffen-bei-razzia](https://www.spiegel.de/panorama/justiz/remscheid-ermittler-finden-noch-mehr-waffen-bei-razzia-a-51968655-9d77-4baf-8881-42ada4cb8151#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte](https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte-a-43820653-abfc-44af-bc53-9c8bdf8df307#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/eier-werden-im-kommenden-jahr-bis-zu-15-prozent-teurer-vogelgrippe-belastet-erzeuger](https://www.spiegel.de/wirtschaft/service/eier-werden-im-kommenden-jahr-bis-zu-15-prozent-teurer-vogelgrippe-belastet-erzeuger-a-4fe65834-8ae5-4386-92d7-59bb37df0fb2#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor](https://www.spiegel.de/ausland/sudan-armee-wirft-rsf-miliz-hinrichtung-von-mehr-als-2000-zivilisten-vor-a-4057e216-8ad6-4aca-9447-886fc3e22072#ref=rss)
-* [https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee](https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee-a-e63d49cc-2882-4100-8638-fdf0047779a4#ref=rss)
-### hurrikan
+* [https://www.spiegel.de/politik/thueringen-innenminister-georg-maier-erneuert-spionagevorwuerfe-gegen-die-afd](https://www.spiegel.de/politik/thueringen-innenminister-georg-maier-erneuert-spionagevorwuerfe-gegen-die-afd-a-dc9b1ece-4c49-4254-9277-95148ef3fca7#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-was-bedeuten-die-spionage-vorwuerfe-gegen-ekrem-imamoglu](https://www.spiegel.de/ausland/tuerkei-was-bedeuten-die-spionage-vorwuerfe-gegen-ekrem-imamoglu-a-ece7d7af-dde2-47ec-837b-d881465ec118#ref=rss)
+* [https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen](https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen-a-c389e320-f1b9-410a-be49-c850b0f69ba2#ref=rss)
+### treffen
 
-* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
-### melissa
-
-* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
-### aufnahmen
-
-* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
-### auge
-
-* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
-### sturms
-
-* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
-### jamaika
-
-* [https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika](https://www.spiegel.de/ausland/hurrikan-melissa-aufnahmen-zeigen-das-auge-des-sturms-vor-jamaika-a-6c87393d-ae07-4dd9-9986-b8f397af9934#ref=rss)
-### bärenangriffe
-
-* [https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee](https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee-a-e63d49cc-2882-4100-8638-fdf0047779a4#ref=rss)
-### unterstützung
-
-* [https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee](https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee-a-e63d49cc-2882-4100-8638-fdf0047779a4#ref=rss)
-### tote
-
-* [https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee](https://www.spiegel.de/panorama/japan-gouverneur-fordert-wegen-toedlicher-baerenangriffe-unterstuetzung-durch-armee-a-e63d49cc-2882-4100-8638-fdf0047779a4#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee](https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee-a-2eee14be-eb1c-46ad-8579-81be11b8774a#ref=rss)
-### xi
-
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa-a-b307eef6-804f-4f51-b6e1-cd4486f25ac0#ref=rss)
-### zollstreit
-
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa-a-b307eef6-804f-4f51-b6e1-cd4486f25ac0#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+* [https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen](https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen-a-c389e320-f1b9-410a-be49-c850b0f69ba2#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa-a-b307eef6-804f-4f51-b6e1-cd4486f25ac0#ref=rss)
-### trumps
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+* [https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen](https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen-a-c389e320-f1b9-410a-be49-c850b0f69ba2#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-zollstreit-als-machtprobe-zwischen-china-und-den-usa-a-b307eef6-804f-4f51-b6e1-cd4486f25ac0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi](https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi-a-fe95fb55-f311-4b82-84b7-c61be2e81b4a#ref=rss)
-### beachvolleyballwm
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-unterwasserspione-infiltrieren-die-noerdlichen-meere-technik-zur-ortung-von-u-booten](https://www.spiegel.de/ausland/russlands-unterwasserspione-infiltrieren-die-noerdlichen-meere-technik-zur-ortung-von-u-booten-a-f469680b-0469-4245-8661-fb783a715514#ref=rss)
+### inselstaat
 
-* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
-### steven
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte](https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte-a-43820653-abfc-44af-bc53-9c8bdf8df307#ref=rss)
+### neue
 
-* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
-### van
-
-* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
-### velde
-
-* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
-### australien
-
-* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
-### anders
-
-* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
-* [https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit](https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit-a-85781ac6-83c0-478b-a571-1255178949dd#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier](https://www.spiegel.de/sport/beachvolleyball-wm-steven-van-de-velde-erhaelt-kein-visum-fuer-australien-und-verpasst-das-turnier-a-a754cdc5-a48e-4aba-b894-cd4fa665dece#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen](https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen-a-0225578f-fcd8-45df-a47f-fb5189d91f8b#ref=rss)
-### premierministerin
-
-* [https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi](https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi-a-fe95fb55-f311-4b82-84b7-c61be2e81b4a#ref=rss)
-### takaichi
-
-* [https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi](https://www.spiegel.de/ausland/donald-trump-zu-besuch-bei-japans-neuer-premierministerin-sanae-takaichi-a-fe95fb55-f311-4b82-84b7-c61be2e81b4a#ref=rss)
-### toten
-
-* [https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an](https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an-a-3c620298-21ac-46ca-a8e9-dddc6ec5c2a5#ref=rss)
-### geisel
-
-* [https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an](https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an-a-3c620298-21ac-46ca-a8e9-dddc6ec5c2a5#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee](https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee-a-2eee14be-eb1c-46ad-8579-81be11b8774a#ref=rss)
-### geiseln
-
-* [https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an](https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an-a-3c620298-21ac-46ca-a8e9-dddc6ec5c2a5#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee](https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee-a-2eee14be-eb1c-46ad-8579-81be11b8774a#ref=rss)
-### islamisten
-
-* [https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an](https://www.spiegel.de/ausland/israel-zweifelt-identitaet-der-zuletzt-von-der-hamas-ausgehaendigten-toten-geisel-an-a-3c620298-21ac-46ca-a8e9-dddc6ec5c2a5#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee](https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee-a-2eee14be-eb1c-46ad-8579-81be11b8774a#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
-### swift
-
-* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
-### ziel
-
-* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht](https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht-a-ade541e4-9b1a-4d2a-8a63-a6d695d93f2d#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
-### andere
-
-* [https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen](https://www.spiegel.de/panorama/justiz/taylor-swift-privatjets-vor-konzert-in-london-besprueht-bewaehrungsstrafen-fuer-klimaaktivistinnen-a-937bb88e-1b2f-4679-9038-0398a5e0ac3c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/ki-modell-claude-von-anthropic-bekommt-exit-rights-sollten-wir-uns-um-ai-welfare-kuemmern](https://www.spiegel.de/wissenschaft/technik/ki-modell-claude-von-anthropic-bekommt-exit-rights-sollten-wir-uns-um-ai-welfare-kuemmern-a-a24bcd34-b5eb-4cf9-800c-9ab7cb0d7ec7#ref=rss)
-### david
-
-* [https://www.spiegel.de/sport/fussball/david-beckhams-henkersmahlzeit-waere-aal-in-aspik](https://www.spiegel.de/sport/fussball/david-beckhams-henkersmahlzeit-waere-aal-in-aspik-a-2cbee5e7-dd8c-4e12-bb86-08b6247615a9#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/hamburg-mann-bleibt-in-snackautomat-an-s-bahnhof-stecken-ermittlungen](https://www.spiegel.de/panorama/hamburg-mann-bleibt-in-snackautomat-an-s-bahnhof-stecken-ermittlungen-a-1ddebea4-1b4f-461b-b0a3-314016a454d7#ref=rss)
-### busfahrer
-
-* [https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit](https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit-a-85781ac6-83c0-478b-a571-1255178949dd#ref=rss)
-### kenia
-
-* [https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit](https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit-a-85781ac6-83c0-478b-a571-1255178949dd#ref=rss)
-### flensburg
-
-* [https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit](https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit-a-85781ac6-83c0-478b-a571-1255178949dd#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit](https://www.spiegel.de/panorama/leute/busfahrer-aus-kenia-in-flensburg-ich-mag-die-deutsche-puenktlichkeit-a-85781ac6-83c0-478b-a571-1255178949dd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china-a-e440bca6-7846-46ff-97cc-1c8f5a217fe8#ref=rss)
-### aktivrente
-
-* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
-### arbeiten
-
-* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
-### freiwillig
-
-* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter](https://www.spiegel.de/wirtschaft/soziales/rente-und-arbeit-auch-ohne-aktivrente-viele-rentner-arbeiten-freiwillig-weiter-a-04c47fae-cfa1-41e4-b08d-f047b57584d8#ref=rss)
-* [https://www.spiegel.de/karriere/gehalt-im-strassenbau-das-bild-vom-bauarbeiter-der-mit-60-nicht-mehr-laufen-kann-stimmt-nicht-mehr](https://www.spiegel.de/karriere/gehalt-im-strassenbau-das-bild-vom-bauarbeiter-der-mit-60-nicht-mehr-laufen-kann-stimmt-nicht-mehr-a-90899cd8-9318-41b1-a9ed-4f0b7cae30ef#ref=rss)
-### grokipedia
-
-* [https://www.spiegel.de/netzwelt/web/grokipedia-elon-musks-konkurrenz-zu-wikipedia-geht-online](https://www.spiegel.de/netzwelt/web/grokipedia-elon-musks-konkurrenz-zu-wikipedia-geht-online-a-d06d92da-2d85-4253-a7db-a7dae7989957#ref=rss)
-### elon
-
-* [https://www.spiegel.de/netzwelt/web/grokipedia-elon-musks-konkurrenz-zu-wikipedia-geht-online](https://www.spiegel.de/netzwelt/web/grokipedia-elon-musks-konkurrenz-zu-wikipedia-geht-online-a-d06d92da-2d85-4253-a7db-a7dae7989957#ref=rss)
-### wikipedia
-
-* [https://www.spiegel.de/netzwelt/web/grokipedia-elon-musks-konkurrenz-zu-wikipedia-geht-online](https://www.spiegel.de/netzwelt/web/grokipedia-elon-musks-konkurrenz-zu-wikipedia-geht-online-a-d06d92da-2d85-4253-a7db-a7dae7989957#ref=rss)
-### verantwortung
-
-* [https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen](https://www.spiegel.de/wirtschaft/soziales/chipkrise-unternehmen-muessen-selbst-verantwortung-uebernehmen-a-0225578f-fcd8-45df-a47f-fb5189d91f8b#ref=rss)
-### abe
-
-* [https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig](https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig-a-a909371c-f401-4537-9768-23c3e4f1adc5#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig](https://www.spiegel.de/ausland/japan-attentaeter-von-ex-premier-shinzo-abe-bekennt-sich-schuldig-a-a909371c-f401-4537-9768-23c3e4f1adc5#ref=rss)
-* [https://www.spiegel.de/panorama/vietnam-rekordregen-fuehrt-zu-ueberflutungen](https://www.spiegel.de/panorama/vietnam-rekordregen-fuehrt-zu-ueberflutungen-a-a52d8d11-e6cb-4aa1-9bb4-d06c112aa300#ref=rss)
-### jennifer
-
-* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht](https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht-a-ade541e4-9b1a-4d2a-8a63-a6d695d93f2d#ref=rss)
-### lawrence
-
-* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht](https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht-a-ade541e4-9b1a-4d2a-8a63-a6d695d93f2d#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht](https://www.spiegel.de/panorama/leute/jennifer-lawrence-erklaert-warum-sie-es-paparazzi-inzwischen-leichter-macht-a-ade541e4-9b1a-4d2a-8a63-a6d695d93f2d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert](https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert-a-796ff8ba-0482-49ab-8b70-08d37ce5bb93#ref=rss)
-### verteidigungsministerium
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsministerium-stoppt-umwandlung-von-200-militaer-standorten](https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsministerium-stoppt-umwandlung-von-200-militaer-standorten-a-77a8a469-85ea-4047-b148-a3985ea3a7b4#ref=rss)
-### kaserne
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsministerium-stoppt-umwandlung-von-200-militaer-standorten](https://www.spiegel.de/politik/deutschland/bundeswehr-verteidigungsministerium-stoppt-umwandlung-von-200-militaer-standorten-a-77a8a469-85ea-4047-b148-a3985ea3a7b4#ref=rss)
-### vetternwirtschaft
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-vetternwirtschaft-im-weissen-haus-auf-dem-vormarsch](https://www.spiegel.de/wirtschaft/donald-trump-vetternwirtschaft-im-weissen-haus-auf-dem-vormarsch-a-b787eb1d-d766-44d8-9103-949b15875a4a#ref=rss)
-### nexperia
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china-a-e440bca6-7846-46ff-97cc-1c8f5a217fe8#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china](https://www.spiegel.de/wirtschaft/unternehmen/streit-um-nexperia-niederlande-fuerchteten-offenbar-verlagerung-des-chipherstellers-nach-china-a-e440bca6-7846-46ff-97cc-1c8f5a217fe8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher](https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher-a-b8cc3c01-809b-4405-a38f-c526d7818ecb#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher](https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher-a-b8cc3c01-809b-4405-a38f-c526d7818ecb#ref=rss)
-### fühlt
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher](https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher-a-b8cc3c01-809b-4405-a38f-c526d7818ecb#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee](https://www.spiegel.de/ausland/gazastreifen-hamas-uebergibt-weitere-tote-geisel-an-israels-armee-a-2eee14be-eb1c-46ad-8579-81be11b8774a#ref=rss)
-### orten
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher](https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher-a-b8cc3c01-809b-4405-a38f-c526d7818ecb#ref=rss)
-### sicher
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher](https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher-a-b8cc3c01-809b-4405-a38f-c526d7818ecb#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-was-bedeuten-die-spionage-vorwuerfe-gegen-ekrem-imamoglu](https://www.spiegel.de/ausland/tuerkei-was-bedeuten-die-spionage-vorwuerfe-gegen-ekrem-imamoglu-a-ece7d7af-dde2-47ec-837b-d881465ec118#ref=rss)
+* [https://www.spiegel.de/panorama/slowakei-fuehrt-tempolimit-fuer-fussgaenger-ein](https://www.spiegel.de/panorama/slowakei-fuehrt-tempolimit-fuer-fussgaenger-ein-a-59600410-09de-45c9-8fe7-bc01415f5b57#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tipico-sportwettenanbieter-fuer-milliardenbetrag-an-konkurrenz-verkauft](https://www.spiegel.de/wirtschaft/unternehmen/tipico-sportwettenanbieter-fuer-milliardenbetrag-an-konkurrenz-verkauft-a-35660447-f1f0-40ac-be82-22709777f53d#ref=rss)
 ### bürgergeld
 
-* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert](https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert-a-796ff8ba-0482-49ab-8b70-08d37ce5bb93#ref=rss)
-### sozialhilfe
+* [https://www.spiegel.de/politik/deutschland/spd-mitgliederbegehren-das-buergergeld-schien-fast-vergessen-jetzt-holt-es-die-partei-ein](https://www.spiegel.de/politik/deutschland/spd-mitgliederbegehren-das-buergergeld-schien-fast-vergessen-jetzt-holt-es-die-partei-ein-a-a461e3d9-bae7-49e2-9d0c-aee0f9e19a55#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia](https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia-a-d1a40a23-1d7e-431c-b9a6-841ec4e73c14#ref=rss)
+### geplante
 
-* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert](https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert-a-796ff8ba-0482-49ab-8b70-08d37ce5bb93#ref=rss)
-### besonders
+* [https://www.spiegel.de/politik/deutschland/spd-mitgliederbegehren-das-buergergeld-schien-fast-vergessen-jetzt-holt-es-die-partei-ein](https://www.spiegel.de/politik/deutschland/spd-mitgliederbegehren-das-buergergeld-schien-fast-vergessen-jetzt-holt-es-die-partei-ein-a-a461e3d9-bae7-49e2-9d0c-aee0f9e19a55#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia](https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia-a-d1a40a23-1d7e-431c-b9a6-841ec4e73c14#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/verfassungsgericht-ruegt-festnahmen-vor-anordnung-von-abschiebungshaft](https://www.spiegel.de/panorama/justiz/verfassungsgericht-ruegt-festnahmen-vor-anordnung-von-abschiebungshaft-a-c4437e6b-ad8b-4f46-8d77-3ed1bc4f0acb#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert](https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert-a-796ff8ba-0482-49ab-8b70-08d37ce5bb93#ref=rss)
-### untere
+* [https://www.spiegel.de/panorama/slowakei-fuehrt-tempolimit-fuer-fussgaenger-ein](https://www.spiegel.de/panorama/slowakei-fuehrt-tempolimit-fuer-fussgaenger-ein-a-59600410-09de-45c9-8fe7-bc01415f5b57#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/eier-werden-im-kommenden-jahr-bis-zu-15-prozent-teurer-vogelgrippe-belastet-erzeuger](https://www.spiegel.de/wirtschaft/service/eier-werden-im-kommenden-jahr-bis-zu-15-prozent-teurer-vogelgrippe-belastet-erzeuger-a-4fe65834-8ae5-4386-92d7-59bb37df0fb2#ref=rss)
+### größten
 
-* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert](https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert-a-796ff8ba-0482-49ab-8b70-08d37ce5bb93#ref=rss)
-### mittelschicht
+* [https://www.spiegel.de/panorama/justiz/brasilien-20-tote-bei-polizeieinsatz-in-favela-in-rio-de-janeiro](https://www.spiegel.de/panorama/justiz/brasilien-20-tote-bei-polizeieinsatz-in-favela-in-rio-de-janeiro-a-0aea16e2-72cc-4158-b2a4-f8e459d7834f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tipico-sportwettenanbieter-fuer-milliardenbetrag-an-konkurrenz-verkauft](https://www.spiegel.de/wirtschaft/unternehmen/tipico-sportwettenanbieter-fuer-milliardenbetrag-an-konkurrenz-verkauft-a-35660447-f1f0-40ac-be82-22709777f53d#ref=rss)
+* [https://www.spiegel.de/ausland/georgien-regierung-will-groesste-oppositionsparteien-verbieten-lassen](https://www.spiegel.de/ausland/georgien-regierung-will-groesste-oppositionsparteien-verbieten-lassen-a-2b3016ab-7ca0-45ee-8181-0ae471849a4c#ref=rss)
+### konnte
 
-* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert](https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert-a-796ff8ba-0482-49ab-8b70-08d37ce5bb93#ref=rss)
-### empört
+* [https://www.spiegel.de/panorama/justiz/brasilien-20-tote-bei-polizeieinsatz-in-favela-in-rio-de-janeiro](https://www.spiegel.de/panorama/justiz/brasilien-20-tote-bei-polizeieinsatz-in-favela-in-rio-de-janeiro-a-0aea16e2-72cc-4158-b2a4-f8e459d7834f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte](https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte-a-43820653-abfc-44af-bc53-9c8bdf8df307#ref=rss)
+### ben
 
-* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert](https://www.spiegel.de/wirtschaft/soziales/buergergeld-warum-die-sozialhilfe-besonders-die-untere-mittelschicht-empoert-a-796ff8ba-0482-49ab-8b70-08d37ce5bb93#ref=rss)
-### straßenbau
+* [https://www.spiegel.de/wirtschaft/ben-jerrys-gruender-ben-cohen-streitet-mit-unilever-ueber-eissorte-zugunsten-von-palaestinensern](https://www.spiegel.de/wirtschaft/ben-jerrys-gruender-ben-cohen-streitet-mit-unilever-ueber-eissorte-zugunsten-von-palaestinensern-a-d3f4e357-e1d9-4657-a842-4ea2ab7f362e#ref=rss)
+### maier
 
-* [https://www.spiegel.de/karriere/gehalt-im-strassenbau-das-bild-vom-bauarbeiter-der-mit-60-nicht-mehr-laufen-kann-stimmt-nicht-mehr](https://www.spiegel.de/karriere/gehalt-im-strassenbau-das-bild-vom-bauarbeiter-der-mit-60-nicht-mehr-laufen-kann-stimmt-nicht-mehr-a-90899cd8-9318-41b1-a9ed-4f0b7cae30ef#ref=rss)
+* [https://www.spiegel.de/politik/thueringen-innenminister-georg-maier-erneuert-spionagevorwuerfe-gegen-die-afd](https://www.spiegel.de/politik/thueringen-innenminister-georg-maier-erneuert-spionagevorwuerfe-gegen-die-afd-a-dc9b1ece-4c49-4254-9277-95148ef3fca7#ref=rss)
+### spionagevorwürfe
+
+* [https://www.spiegel.de/politik/thueringen-innenminister-georg-maier-erneuert-spionagevorwuerfe-gegen-die-afd](https://www.spiegel.de/politik/thueringen-innenminister-georg-maier-erneuert-spionagevorwuerfe-gegen-die-afd-a-dc9b1ece-4c49-4254-9277-95148ef3fca7#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-was-bedeuten-die-spionage-vorwuerfe-gegen-ekrem-imamoglu](https://www.spiegel.de/ausland/tuerkei-was-bedeuten-die-spionage-vorwuerfe-gegen-ekrem-imamoglu-a-ece7d7af-dde2-47ec-837b-d881465ec118#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/thueringen-innenminister-georg-maier-erneuert-spionagevorwuerfe-gegen-die-afd](https://www.spiegel.de/politik/thueringen-innenminister-georg-maier-erneuert-spionagevorwuerfe-gegen-die-afd-a-dc9b1ece-4c49-4254-9277-95148ef3fca7#ref=rss)
+### russland
+
+* [https://www.spiegel.de/politik/thueringen-innenminister-georg-maier-erneuert-spionagevorwuerfe-gegen-die-afd](https://www.spiegel.de/politik/thueringen-innenminister-georg-maier-erneuert-spionagevorwuerfe-gegen-die-afd-a-dc9b1ece-4c49-4254-9277-95148ef3fca7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-sergej-lawrow-bringt-nichtangriffsgarantie-fuer-europa-ins-spiel](https://www.spiegel.de/ausland/ukraine-krieg-sergej-lawrow-bringt-nichtangriffsgarantie-fuer-europa-ins-spiel-a-b1dfad03-b44c-422d-ab5b-21acf8018e1f#ref=rss)
+### königin
+
+* [https://www.spiegel.de/panorama/leute/niederlande-koenigin-maxima-traegt-jetzt-camouflage](https://www.spiegel.de/panorama/leute/niederlande-koenigin-maxima-traegt-jetzt-camouflage-a-049f43a1-e362-45dc-ace2-d3382e4c56d4#ref=rss)
+### máxima
+
+* [https://www.spiegel.de/panorama/leute/niederlande-koenigin-maxima-traegt-jetzt-camouflage](https://www.spiegel.de/panorama/leute/niederlande-koenigin-maxima-traegt-jetzt-camouflage-a-049f43a1-e362-45dc-ace2-d3382e4c56d4#ref=rss)
+### 2022
+
+* [https://www.spiegel.de/panorama/justiz/garmisch-partenkirchen-prozessauftakt-nach-toedlichem-zugunglueck-2022-in-oberbayern](https://www.spiegel.de/panorama/justiz/garmisch-partenkirchen-prozessauftakt-nach-toedlichem-zugunglueck-2022-in-oberbayern-a-28ce7a10-70bf-4026-aae8-d49447ace619#ref=rss)
+### oberbayern
+
+* [https://www.spiegel.de/panorama/justiz/garmisch-partenkirchen-prozessauftakt-nach-toedlichem-zugunglueck-2022-in-oberbayern](https://www.spiegel.de/panorama/justiz/garmisch-partenkirchen-prozessauftakt-nach-toedlichem-zugunglueck-2022-in-oberbayern-a-28ce7a10-70bf-4026-aae8-d49447ace619#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/justiz/garmisch-partenkirchen-prozessauftakt-nach-toedlichem-zugunglueck-2022-in-oberbayern](https://www.spiegel.de/panorama/justiz/garmisch-partenkirchen-prozessauftakt-nach-toedlichem-zugunglueck-2022-in-oberbayern-a-28ce7a10-70bf-4026-aae8-d49447ace619#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/verfassungsgericht-ruegt-festnahmen-vor-anordnung-von-abschiebungshaft](https://www.spiegel.de/panorama/justiz/verfassungsgericht-ruegt-festnahmen-vor-anordnung-von-abschiebungshaft-a-c4437e6b-ad8b-4f46-8d77-3ed1bc4f0acb#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/justiz/garmisch-partenkirchen-prozessauftakt-nach-toedlichem-zugunglueck-2022-in-oberbayern](https://www.spiegel.de/panorama/justiz/garmisch-partenkirchen-prozessauftakt-nach-toedlichem-zugunglueck-2022-in-oberbayern-a-28ce7a10-70bf-4026-aae8-d49447ace619#ref=rss)
+* [https://www.spiegel.de/ausland/angebliche-drogenschmuggler-14-tote-bei-drei-us-angriffen-auf-vier-boote-im-pazifik](https://www.spiegel.de/ausland/angebliche-drogenschmuggler-14-tote-bei-drei-us-angriffen-auf-vier-boote-im-pazifik-a-c80ab32e-84a9-4d57-ac41-944635f19848#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/justiz/garmisch-partenkirchen-prozessauftakt-nach-toedlichem-zugunglueck-2022-in-oberbayern](https://www.spiegel.de/panorama/justiz/garmisch-partenkirchen-prozessauftakt-nach-toedlichem-zugunglueck-2022-in-oberbayern-a-28ce7a10-70bf-4026-aae8-d49447ace619#ref=rss)
+* [https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot](https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot-a-7c414d74-5d41-4a3e-8ba4-9db96fab5b94#ref=rss)
+### xi
+
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### jinping
+
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### umwirbt
+
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### schutzmacht
+
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### gipfel
+
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### provoziert
+
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### übt
+
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### versucht
+
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### ungewöhnlichen
+
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### mitteln
+
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### beistand
+
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### uspräsidenten
+
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### sichern
+
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-podcast-a-e87d660f-ea7d-45da-af7c-e3a2e675c96f#ref=rss)
+* [https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa](https://www.spiegel.de/ausland/vor-treffen-von-donald-trump-und-xi-jinping-so-umwirbt-taiwan-die-schutzmacht-usa-a-d6388dbf-41f3-4c56-856a-dd2acd1f21c4#ref=rss)
+### sydney
+
+* [https://www.spiegel.de/panorama/was-sydney-sweeney-von-botox-tipps-mit-16-berichtet](https://www.spiegel.de/panorama/was-sydney-sweeney-von-botox-tipps-mit-16-berichtet-a-96321a7c-e8ac-4200-acc6-6487946f5255#ref=rss)
+### sweeney
+
+* [https://www.spiegel.de/panorama/was-sydney-sweeney-von-botox-tipps-mit-16-berichtet](https://www.spiegel.de/panorama/was-sydney-sweeney-von-botox-tipps-mit-16-berichtet-a-96321a7c-e8ac-4200-acc6-6487946f5255#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/panorama/was-sydney-sweeney-von-botox-tipps-mit-16-berichtet](https://www.spiegel.de/panorama/was-sydney-sweeney-von-botox-tipps-mit-16-berichtet-a-96321a7c-e8ac-4200-acc6-6487946f5255#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/panorama/was-sydney-sweeney-von-botox-tipps-mit-16-berichtet](https://www.spiegel.de/panorama/was-sydney-sweeney-von-botox-tipps-mit-16-berichtet-a-96321a7c-e8ac-4200-acc6-6487946f5255#ref=rss)
+* [https://www.spiegel.de/netzwelt/rotterdam-niederlaender-gruendete-sadistisches-onlinenetzwerk](https://www.spiegel.de/netzwelt/rotterdam-niederlaender-gruendete-sadistisches-onlinenetzwerk-a-e7368382-e870-4e58-b419-07f4fdab49c9#ref=rss)
+### i̇mamoğlu
+
+* [https://www.spiegel.de/ausland/tuerkei-was-bedeuten-die-spionage-vorwuerfe-gegen-ekrem-imamoglu](https://www.spiegel.de/ausland/tuerkei-was-bedeuten-die-spionage-vorwuerfe-gegen-ekrem-imamoglu-a-ece7d7af-dde2-47ec-837b-d881465ec118#ref=rss)
+### haft
+
+* [https://www.spiegel.de/ausland/tuerkei-was-bedeuten-die-spionage-vorwuerfe-gegen-ekrem-imamoglu](https://www.spiegel.de/ausland/tuerkei-was-bedeuten-die-spionage-vorwuerfe-gegen-ekrem-imamoglu-a-ece7d7af-dde2-47ec-837b-d881465ec118#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/verfassungsgericht-ruegt-festnahmen-vor-anordnung-von-abschiebungshaft](https://www.spiegel.de/panorama/justiz/verfassungsgericht-ruegt-festnahmen-vor-anordnung-von-abschiebungshaft-a-c4437e6b-ad8b-4f46-8d77-3ed1bc4f0acb#ref=rss)
+### spdbasis
+
+* [https://www.spiegel.de/politik/deutschland/spd-mitgliederbegehren-das-buergergeld-schien-fast-vergessen-jetzt-holt-es-die-partei-ein](https://www.spiegel.de/politik/deutschland/spd-mitgliederbegehren-das-buergergeld-schien-fast-vergessen-jetzt-holt-es-die-partei-ein-a-a461e3d9-bae7-49e2-9d0c-aee0f9e19a55#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia](https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia-a-d1a40a23-1d7e-431c-b9a6-841ec4e73c14#ref=rss)
+### sergej
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-sergej-lawrow-bringt-nichtangriffsgarantie-fuer-europa-ins-spiel](https://www.spiegel.de/ausland/ukraine-krieg-sergej-lawrow-bringt-nichtangriffsgarantie-fuer-europa-ins-spiel-a-b1dfad03-b44c-422d-ab5b-21acf8018e1f#ref=rss)
+### lawrow
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-sergej-lawrow-bringt-nichtangriffsgarantie-fuer-europa-ins-spiel](https://www.spiegel.de/ausland/ukraine-krieg-sergej-lawrow-bringt-nichtangriffsgarantie-fuer-europa-ins-spiel-a-b1dfad03-b44c-422d-ab5b-21acf8018e1f#ref=rss)
+### bringt
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-sergej-lawrow-bringt-nichtangriffsgarantie-fuer-europa-ins-spiel](https://www.spiegel.de/ausland/ukraine-krieg-sergej-lawrow-bringt-nichtangriffsgarantie-fuer-europa-ins-spiel-a-b1dfad03-b44c-422d-ab5b-21acf8018e1f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia](https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia-a-d1a40a23-1d7e-431c-b9a6-841ec4e73c14#ref=rss)
+### nichtangriffsgarantie
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-sergej-lawrow-bringt-nichtangriffsgarantie-fuer-europa-ins-spiel](https://www.spiegel.de/ausland/ukraine-krieg-sergej-lawrow-bringt-nichtangriffsgarantie-fuer-europa-ins-spiel-a-b1dfad03-b44c-422d-ab5b-21acf8018e1f#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-sergej-lawrow-bringt-nichtangriffsgarantie-fuer-europa-ins-spiel](https://www.spiegel.de/ausland/ukraine-krieg-sergej-lawrow-bringt-nichtangriffsgarantie-fuer-europa-ins-spiel-a-b1dfad03-b44c-422d-ab5b-21acf8018e1f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/apple-ist-jetzt-4-000-000-000-000-us-dollar-wert-rekordwert-an-der-boerse](https://www.spiegel.de/wirtschaft/unternehmen/apple-ist-jetzt-4-000-000-000-000-us-dollar-wert-rekordwert-an-der-boerse-a-0f4299ff-1f97-4fbf-b93f-aa7d7ebc3b19#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/panorama/slowakei-fuehrt-tempolimit-fuer-fussgaenger-ein](https://www.spiegel.de/panorama/slowakei-fuehrt-tempolimit-fuer-fussgaenger-ein-a-59600410-09de-45c9-8fe7-bc01415f5b57#ref=rss)
+* [https://www.spiegel.de/ausland/georgien-regierung-will-groesste-oppositionsparteien-verbieten-lassen](https://www.spiegel.de/ausland/georgien-regierung-will-groesste-oppositionsparteien-verbieten-lassen-a-2b3016ab-7ca0-45ee-8181-0ae471849a4c#ref=rss)
+### halloween
+
+* [https://www.spiegel.de/panorama/halloween-muessen-sie-sich-sorgen-um-ihre-schwarze-katze-machen](https://www.spiegel.de/panorama/halloween-muessen-sie-sich-sorgen-um-ihre-schwarze-katze-machen-a-307ddcb9-00ad-406d-b496-b40df5920f0b#ref=rss)
+### andere
+
+* [https://www.spiegel.de/panorama/halloween-muessen-sie-sich-sorgen-um-ihre-schwarze-katze-machen](https://www.spiegel.de/panorama/halloween-muessen-sie-sich-sorgen-um-ihre-schwarze-katze-machen-a-307ddcb9-00ad-406d-b496-b40df5920f0b#ref=rss)
+* [https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen](https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen-a-c389e320-f1b9-410a-be49-c850b0f69ba2#ref=rss)
+### tote
+
+* [https://www.spiegel.de/panorama/justiz/brasilien-20-tote-bei-polizeieinsatz-in-favela-in-rio-de-janeiro](https://www.spiegel.de/panorama/justiz/brasilien-20-tote-bei-polizeieinsatz-in-favela-in-rio-de-janeiro-a-0aea16e2-72cc-4158-b2a4-f8e459d7834f#ref=rss)
+* [https://www.spiegel.de/ausland/angebliche-drogenschmuggler-14-tote-bei-drei-us-angriffen-auf-vier-boote-im-pazifik](https://www.spiegel.de/ausland/angebliche-drogenschmuggler-14-tote-bei-drei-us-angriffen-auf-vier-boote-im-pazifik-a-c80ab32e-84a9-4d57-ac41-944635f19848#ref=rss)
+### polizeieinsatz
+
+* [https://www.spiegel.de/panorama/justiz/brasilien-20-tote-bei-polizeieinsatz-in-favela-in-rio-de-janeiro](https://www.spiegel.de/panorama/justiz/brasilien-20-tote-bei-polizeieinsatz-in-favela-in-rio-de-janeiro-a-0aea16e2-72cc-4158-b2a4-f8e459d7834f#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/justiz/brasilien-20-tote-bei-polizeieinsatz-in-favela-in-rio-de-janeiro](https://www.spiegel.de/panorama/justiz/brasilien-20-tote-bei-polizeieinsatz-in-favela-in-rio-de-janeiro-a-0aea16e2-72cc-4158-b2a4-f8e459d7834f#ref=rss)
+* [https://www.spiegel.de/netzwelt/rotterdam-niederlaender-gruendete-sadistisches-onlinenetzwerk](https://www.spiegel.de/netzwelt/rotterdam-niederlaender-gruendete-sadistisches-onlinenetzwerk-a-e7368382-e870-4e58-b419-07f4fdab49c9#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/panorama/justiz/brasilien-20-tote-bei-polizeieinsatz-in-favela-in-rio-de-janeiro](https://www.spiegel.de/panorama/justiz/brasilien-20-tote-bei-polizeieinsatz-in-favela-in-rio-de-janeiro-a-0aea16e2-72cc-4158-b2a4-f8e459d7834f#ref=rss)
+* [https://www.spiegel.de/ausland/angebliche-drogenschmuggler-14-tote-bei-drei-us-angriffen-auf-vier-boote-im-pazifik](https://www.spiegel.de/ausland/angebliche-drogenschmuggler-14-tote-bei-drei-us-angriffen-auf-vier-boote-im-pazifik-a-c80ab32e-84a9-4d57-ac41-944635f19848#ref=rss)
+### japan
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia](https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia-a-d1a40a23-1d7e-431c-b9a6-841ec4e73c14#ref=rss)
+### elon
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia](https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia-a-d1a40a23-1d7e-431c-b9a6-841ec4e73c14#ref=rss)
+### musk
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia](https://www.spiegel.de/politik/deutschland/news-des-tages-streit-ueber-buergergeld-donald-trump-in-japan-elon-musk-grokipedia-a-d1a40a23-1d7e-431c-b9a6-841ec4e73c14#ref=rss)
+### remscheid
+
+* [https://www.spiegel.de/panorama/justiz/remscheid-ermittler-finden-noch-mehr-waffen-bei-razzia](https://www.spiegel.de/panorama/justiz/remscheid-ermittler-finden-noch-mehr-waffen-bei-razzia-a-51968655-9d77-4baf-8881-42ada4cb8151#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/panorama/justiz/remscheid-ermittler-finden-noch-mehr-waffen-bei-razzia](https://www.spiegel.de/panorama/justiz/remscheid-ermittler-finden-noch-mehr-waffen-bei-razzia-a-51968655-9d77-4baf-8881-42ada4cb8151#ref=rss)
+### waffen
+
+* [https://www.spiegel.de/panorama/justiz/remscheid-ermittler-finden-noch-mehr-waffen-bei-razzia](https://www.spiegel.de/panorama/justiz/remscheid-ermittler-finden-noch-mehr-waffen-bei-razzia-a-51968655-9d77-4baf-8881-42ada4cb8151#ref=rss)
+### gestoßen
+
+* [https://www.spiegel.de/panorama/justiz/remscheid-ermittler-finden-noch-mehr-waffen-bei-razzia](https://www.spiegel.de/panorama/justiz/remscheid-ermittler-finden-noch-mehr-waffen-bei-razzia-a-51968655-9d77-4baf-8881-42ada4cb8151#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-schiff-rammt-wichtige-bruecke](https://www.spiegel.de/panorama/hamburg-schiff-rammt-wichtige-bruecke-a-1e4954b2-aa58-456d-a88e-81d28027f05f#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/netzwelt/rotterdam-niederlaender-gruendete-sadistisches-onlinenetzwerk](https://www.spiegel.de/netzwelt/rotterdam-niederlaender-gruendete-sadistisches-onlinenetzwerk-a-e7368382-e870-4e58-b419-07f4fdab49c9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-passagier-soll-mitreisende-verletzt-haben-abgebrochener-flug-von-chicago-nach-frankfurt](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-passagier-soll-mitreisende-verletzt-haben-abgebrochener-flug-von-chicago-nach-frankfurt-a-e5a83d1e-5ade-4dc1-920e-1554145afe67#ref=rss)
+### festnahmen
+
+* [https://www.spiegel.de/netzwelt/rotterdam-niederlaender-gruendete-sadistisches-onlinenetzwerk](https://www.spiegel.de/netzwelt/rotterdam-niederlaender-gruendete-sadistisches-onlinenetzwerk-a-e7368382-e870-4e58-b419-07f4fdab49c9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/verfassungsgericht-ruegt-festnahmen-vor-anordnung-von-abschiebungshaft](https://www.spiegel.de/panorama/justiz/verfassungsgericht-ruegt-festnahmen-vor-anordnung-von-abschiebungshaft-a-c4437e6b-ad8b-4f46-8d77-3ed1bc4f0acb#ref=rss)
+### hurrikan
+
+* [https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte](https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte-a-43820653-abfc-44af-bc53-9c8bdf8df307#ref=rss)
+### melissa
+
+* [https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte](https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte-a-43820653-abfc-44af-bc53-9c8bdf8df307#ref=rss)
+### meteorologe
+
+* [https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte](https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte-a-43820653-abfc-44af-bc53-9c8bdf8df307#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte](https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte-a-43820653-abfc-44af-bc53-9c8bdf8df307#ref=rss)
+### stark
+
+* [https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte](https://www.spiegel.de/wissenschaft/natur/hurrikan-melissa-meteorologe-helge-tuschy-erklaert-wie-der-sturm-so-maechtig-werden-konnte-a-43820653-abfc-44af-bc53-9c8bdf8df307#ref=rss)
+* [https://www.spiegel.de/ausland/georgien-regierung-will-groesste-oppositionsparteien-verbieten-lassen](https://www.spiegel.de/ausland/georgien-regierung-will-groesste-oppositionsparteien-verbieten-lassen-a-2b3016ab-7ca0-45ee-8181-0ae471849a4c#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/ausland/russlands-unterwasserspione-infiltrieren-die-noerdlichen-meere-technik-zur-ortung-von-u-booten](https://www.spiegel.de/ausland/russlands-unterwasserspione-infiltrieren-die-noerdlichen-meere-technik-zur-ortung-von-u-booten-a-f469680b-0469-4245-8661-fb783a715514#ref=rss)
+* [https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen](https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen-a-c389e320-f1b9-410a-be49-c850b0f69ba2#ref=rss)
+### unfall
+
+* [https://www.spiegel.de/panorama/hamburg-schiff-rammt-wichtige-bruecke](https://www.spiegel.de/panorama/hamburg-schiff-rammt-wichtige-bruecke-a-1e4954b2-aa58-456d-a88e-81d28027f05f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot](https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot-a-7c414d74-5d41-4a3e-8ba4-9db96fab5b94#ref=rss)
+### angebliche
+
+* [https://www.spiegel.de/ausland/angebliche-drogenschmuggler-14-tote-bei-drei-us-angriffen-auf-vier-boote-im-pazifik](https://www.spiegel.de/ausland/angebliche-drogenschmuggler-14-tote-bei-drei-us-angriffen-auf-vier-boote-im-pazifik-a-c80ab32e-84a9-4d57-ac41-944635f19848#ref=rss)
+### pazifik
+
+* [https://www.spiegel.de/ausland/angebliche-drogenschmuggler-14-tote-bei-drei-us-angriffen-auf-vier-boote-im-pazifik](https://www.spiegel.de/ausland/angebliche-drogenschmuggler-14-tote-bei-drei-us-angriffen-auf-vier-boote-im-pazifik-a-c80ab32e-84a9-4d57-ac41-944635f19848#ref=rss)
+### eure
+
+* [https://www.spiegel.de/ausland/angebliche-drogenschmuggler-14-tote-bei-drei-us-angriffen-auf-vier-boote-im-pazifik](https://www.spiegel.de/ausland/angebliche-drogenschmuggler-14-tote-bei-drei-us-angriffen-auf-vier-boote-im-pazifik-a-c80ab32e-84a9-4d57-ac41-944635f19848#ref=rss)
+### inter
+
+* [https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot](https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot-a-7c414d74-5d41-4a3e-8ba4-9db96fab5b94#ref=rss)
+### mailand
+
+* [https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot](https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot-a-7c414d74-5d41-4a3e-8ba4-9db96fab5b94#ref=rss)
+### josep
+
+* [https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot](https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot-a-7c414d74-5d41-4a3e-8ba4-9db96fab5b94#ref=rss)
+### martínez
+
+* [https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot](https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot-a-7c414d74-5d41-4a3e-8ba4-9db96fab5b94#ref=rss)
+### auto
+
+* [https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot](https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot-a-7c414d74-5d41-4a3e-8ba4-9db96fab5b94#ref=rss)
+### unter
+
+* [https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot](https://www.spiegel.de/sport/fussball/inter-mailand-torhueter-josep-martinez-faehrt-mit-auto-in-rollstuhl-81-jaehriger-tot-a-7c414d74-5d41-4a3e-8ba4-9db96fab5b94#ref=rss)
+* [https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen](https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen-a-c389e320-f1b9-410a-be49-c850b0f69ba2#ref=rss)
+### cohen
+
+* [https://www.spiegel.de/wirtschaft/ben-jerrys-gruender-ben-cohen-streitet-mit-unilever-ueber-eissorte-zugunsten-von-palaestinensern](https://www.spiegel.de/wirtschaft/ben-jerrys-gruender-ben-cohen-streitet-mit-unilever-ueber-eissorte-zugunsten-von-palaestinensern-a-d3f4e357-e1d9-4657-a842-4ea2ab7f362e#ref=rss)
+### unilever
+
+* [https://www.spiegel.de/wirtschaft/ben-jerrys-gruender-ben-cohen-streitet-mit-unilever-ueber-eissorte-zugunsten-von-palaestinensern](https://www.spiegel.de/wirtschaft/ben-jerrys-gruender-ben-cohen-streitet-mit-unilever-ueber-eissorte-zugunsten-von-palaestinensern-a-d3f4e357-e1d9-4657-a842-4ea2ab7f362e#ref=rss)
+### eissorte
+
+* [https://www.spiegel.de/wirtschaft/ben-jerrys-gruender-ben-cohen-streitet-mit-unilever-ueber-eissorte-zugunsten-von-palaestinensern](https://www.spiegel.de/wirtschaft/ben-jerrys-gruender-ben-cohen-streitet-mit-unilever-ueber-eissorte-zugunsten-von-palaestinensern-a-d3f4e357-e1d9-4657-a842-4ea2ab7f362e#ref=rss)
+### lufthansa
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-passagier-soll-mitreisende-verletzt-haben-abgebrochener-flug-von-chicago-nach-frankfurt](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-passagier-soll-mitreisende-verletzt-haben-abgebrochener-flug-von-chicago-nach-frankfurt-a-e5a83d1e-5ade-4dc1-920e-1554145afe67#ref=rss)
+### flug
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-passagier-soll-mitreisende-verletzt-haben-abgebrochener-flug-von-chicago-nach-frankfurt](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-passagier-soll-mitreisende-verletzt-haben-abgebrochener-flug-von-chicago-nach-frankfurt-a-e5a83d1e-5ade-4dc1-920e-1554145afe67#ref=rss)
+### chicago
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-passagier-soll-mitreisende-verletzt-haben-abgebrochener-flug-von-chicago-nach-frankfurt](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-passagier-soll-mitreisende-verletzt-haben-abgebrochener-flug-von-chicago-nach-frankfurt-a-e5a83d1e-5ade-4dc1-920e-1554145afe67#ref=rss)
+### bill
+
+* [https://www.spiegel.de/wissenschaft/bill-gates-plaediert-fuer-wende-in-der-globalen-klimapolitik-vor-uno-klimakonferenz](https://www.spiegel.de/wissenschaft/bill-gates-plaediert-fuer-wende-in-der-globalen-klimapolitik-vor-uno-klimakonferenz-a-88d4489e-5d1f-44a1-8494-5c2cfcea5db6#ref=rss)
+### gates
+
+* [https://www.spiegel.de/wissenschaft/bill-gates-plaediert-fuer-wende-in-der-globalen-klimapolitik-vor-uno-klimakonferenz](https://www.spiegel.de/wissenschaft/bill-gates-plaediert-fuer-wende-in-der-globalen-klimapolitik-vor-uno-klimakonferenz-a-88d4489e-5d1f-44a1-8494-5c2cfcea5db6#ref=rss)
+### globalen
+
+* [https://www.spiegel.de/wissenschaft/bill-gates-plaediert-fuer-wende-in-der-globalen-klimapolitik-vor-uno-klimakonferenz](https://www.spiegel.de/wissenschaft/bill-gates-plaediert-fuer-wende-in-der-globalen-klimapolitik-vor-uno-klimakonferenz-a-88d4489e-5d1f-44a1-8494-5c2cfcea5db6#ref=rss)
+### klimapolitik
+
+* [https://www.spiegel.de/wissenschaft/bill-gates-plaediert-fuer-wende-in-der-globalen-klimapolitik-vor-uno-klimakonferenz](https://www.spiegel.de/wissenschaft/bill-gates-plaediert-fuer-wende-in-der-globalen-klimapolitik-vor-uno-klimakonferenz-a-88d4489e-5d1f-44a1-8494-5c2cfcea5db6#ref=rss)
+### wert
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/apple-ist-jetzt-4-000-000-000-000-us-dollar-wert-rekordwert-an-der-boerse](https://www.spiegel.de/wirtschaft/unternehmen/apple-ist-jetzt-4-000-000-000-000-us-dollar-wert-rekordwert-an-der-boerse-a-0f4299ff-1f97-4fbf-b93f-aa7d7ebc3b19#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/koeln-frau-verliert-gold-in-wert-von-mehreren-hunderttausend-euro-an-kriminelle](https://www.spiegel.de/panorama/justiz/koeln-frau-verliert-gold-in-wert-von-mehreren-hunderttausend-euro-an-kriminelle-a-c5768ddd-3dc5-4087-8040-9270563be0fd#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/apple-ist-jetzt-4-000-000-000-000-us-dollar-wert-rekordwert-an-der-boerse](https://www.spiegel.de/wirtschaft/unternehmen/apple-ist-jetzt-4-000-000-000-000-us-dollar-wert-rekordwert-an-der-boerse-a-0f4299ff-1f97-4fbf-b93f-aa7d7ebc3b19#ref=rss)
+### köln
+
+* [https://www.spiegel.de/panorama/justiz/koeln-frau-verliert-gold-in-wert-von-mehreren-hunderttausend-euro-an-kriminelle](https://www.spiegel.de/panorama/justiz/koeln-frau-verliert-gold-in-wert-von-mehreren-hunderttausend-euro-an-kriminelle-a-c5768ddd-3dc5-4087-8040-9270563be0fd#ref=rss)
+### tipico
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tipico-sportwettenanbieter-fuer-milliardenbetrag-an-konkurrenz-verkauft](https://www.spiegel.de/wirtschaft/unternehmen/tipico-sportwettenanbieter-fuer-milliardenbetrag-an-konkurrenz-verkauft-a-35660447-f1f0-40ac-be82-22709777f53d#ref=rss)
+### pckraffinerie
+
+* [https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen](https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen-a-c389e320-f1b9-410a-be49-c850b0f69ba2#ref=rss)
+### schwedt
+
+* [https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen](https://www.spiegel.de/ausland/rosneft-pck-raffinerie-in-schwedt-und-andere-toechter-fallen-wohl-nicht-unter-us-sanktionen-a-c389e320-f1b9-410a-be49-c850b0f69ba2#ref=rss)
+### eier
+
+* [https://www.spiegel.de/wirtschaft/service/eier-werden-im-kommenden-jahr-bis-zu-15-prozent-teurer-vogelgrippe-belastet-erzeuger](https://www.spiegel.de/wirtschaft/service/eier-werden-im-kommenden-jahr-bis-zu-15-prozent-teurer-vogelgrippe-belastet-erzeuger-a-4fe65834-8ae5-4386-92d7-59bb37df0fb2#ref=rss)
+### vogelgrippe
+
+* [https://www.spiegel.de/wirtschaft/service/eier-werden-im-kommenden-jahr-bis-zu-15-prozent-teurer-vogelgrippe-belastet-erzeuger](https://www.spiegel.de/wirtschaft/service/eier-werden-im-kommenden-jahr-bis-zu-15-prozent-teurer-vogelgrippe-belastet-erzeuger-a-4fe65834-8ae5-4386-92d7-59bb37df0fb2#ref=rss)
 
