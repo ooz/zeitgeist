@@ -4,331 +4,352 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
-
-* [https://www.spiegel.de/kultur/tv/a-house-of-dynamite-das-pentagon-haelt-szenario-eines-atomangriffs-auf-die-usa-fuer-unrealistisch](https://www.spiegel.de/kultur/tv/a-house-of-dynamite-das-pentagon-haelt-szenario-eines-atomangriffs-auf-die-usa-fuer-unrealistisch-a-94551a56-021b-41bb-a5e2-d9452b5501d5#ref=rss)
-* [https://www.spiegel.de/ausland/nato-ostflanke-usa-reduzieren-militaerpraesenz-in-rumaenien](https://www.spiegel.de/ausland/nato-ostflanke-usa-reduzieren-militaerpraesenz-in-rumaenien-a-ca7b3bc6-a987-4426-be8d-78f5a85a7c43#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/maschinenbau-warnt-weitere-exporte-in-die-usa-koennten-von-hohen-zoellen-betroffen-sein](https://www.spiegel.de/wirtschaft/unternehmen/maschinenbau-warnt-weitere-exporte-in-die-usa-koennten-von-hohen-zoellen-betroffen-sein-a-615c460e-0536-4f49-bf33-671687204adc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-erwaegt-zollsenkung-fuer-china-in-fentanyl-krise](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-erwaegt-zollsenkung-fuer-china-in-fentanyl-krise-a-8e856efb-7944-4fa9-8c86-486d4bfbb905#ref=rss)
-* [https://www.spiegel.de/panorama/exekution-in-den-usa-verurteilter-moerder-in-florida-hingerichtet](https://www.spiegel.de/panorama/exekution-in-den-usa-verurteilter-moerder-in-florida-hingerichtet-a-b3f070d9-75c0-40e9-a20e-1250475701a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken-a-0d3ba6b6-ef97-4e84-b532-c74bb6b1071c#ref=rss)
-### melissa
-
-* [https://www.spiegel.de/ausland/melissa-in-jamaika-eine-der-schlimmsten-zeiten-seiner-geschichte](https://www.spiegel.de/ausland/melissa-in-jamaika-eine-der-schlimmsten-zeiten-seiner-geschichte-a-0c9d3a80-2027-428b-9f61-5999db637555#ref=rss)
-* [https://www.spiegel.de/panorama/hurrikan-melissa-erreicht-kuba](https://www.spiegel.de/panorama/hurrikan-melissa-erreicht-kuba-a-362918fe-d2c7-413f-87dd-f0e75183d6bb#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-us-senat-will-brasilien-zoelle-aufheben](https://www.spiegel.de/ausland/donald-trump-us-senat-will-brasilien-zoelle-aufheben-a-a130ea0c-ea91-4fd7-a576-4b10e21bf880#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-erwaegt-zollsenkung-fuer-china-in-fentanyl-krise](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-erwaegt-zollsenkung-fuer-china-in-fentanyl-krise-a-8e856efb-7944-4fa9-8c86-486d4bfbb905#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-us-senat-will-brasilien-zoelle-aufheben](https://www.spiegel.de/ausland/donald-trump-us-senat-will-brasilien-zoelle-aufheben-a-a130ea0c-ea91-4fd7-a576-4b10e21bf880#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-erwaegt-zollsenkung-fuer-china-in-fentanyl-krise](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-erwaegt-zollsenkung-fuer-china-in-fentanyl-krise-a-8e856efb-7944-4fa9-8c86-486d4bfbb905#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-dutzende-tote-nach-neuen-israelischen-luftschlaegen](https://www.spiegel.de/ausland/gazastreifen-dutzende-tote-nach-neuen-israelischen-luftschlaegen-a-17d24d85-9aa1-451f-bf1a-4695d1712a4d#ref=rss)
-### dritten
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-hohen-gewinn-im-dritten-quartal](https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-hohen-gewinn-im-dritten-quartal-a-27de0373-e5d7-4f4a-a1dd-9aded18d77aa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken-a-0d3ba6b6-ef97-4e84-b532-c74bb6b1071c#ref=rss)
-### quartal
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-hohen-gewinn-im-dritten-quartal](https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-hohen-gewinn-im-dritten-quartal-a-27de0373-e5d7-4f4a-a1dd-9aded18d77aa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken-a-0d3ba6b6-ef97-4e84-b532-c74bb6b1071c#ref=rss)
-### höchsten
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-hohen-gewinn-im-dritten-quartal](https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-hohen-gewinn-im-dritten-quartal-a-27de0373-e5d7-4f4a-a1dd-9aded18d77aa#ref=rss)
-* [https://www.spiegel.de/ausland/huajiang-grand-canyon-bruecke-heiraten-und-huehnchen-essen-an-der-hoechsten-bruecke-der-welt](https://www.spiegel.de/ausland/huajiang-grand-canyon-bruecke-heiraten-und-huehnchen-essen-an-der-hoechsten-bruecke-der-welt-a-4eba6e2e-7b9d-4aa2-b91e-6dc19fd06183#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/remscheid-waffenfund-in-werkstatt-ermittler-stossen-auf-weitere-kriegswaffen](https://www.spiegel.de/panorama/justiz/remscheid-waffenfund-in-werkstatt-ermittler-stossen-auf-weitere-kriegswaffen-a-a476b31f-fcb3-4f78-8d9a-64803e8af7dc#ref=rss)
-* [https://www.spiegel.de/ausland/niederlande-warum-in-den-haag-der-zweite-platz-schon-ein-sieg-sein-kann](https://www.spiegel.de/ausland/niederlande-warum-in-den-haag-der-zweite-platz-schon-ein-sieg-sein-kann-a-e2035f51-6403-48b6-a3c2-ba7c5152417e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/maschinenbau-warnt-weitere-exporte-in-die-usa-koennten-von-hohen-zoellen-betroffen-sein](https://www.spiegel.de/wirtschaft/unternehmen/maschinenbau-warnt-weitere-exporte-in-die-usa-koennten-von-hohen-zoellen-betroffen-sein-a-615c460e-0536-4f49-bf33-671687204adc#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/polizeieinsatz-in-rio-de-janeiro-buergerkriegsaehnliche-szenen](https://www.spiegel.de/ausland/polizeieinsatz-in-rio-de-janeiro-buergerkriegsaehnliche-szenen-a-8f79a835-9c23-4438-86b2-67da09c38ab1#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-polizei-setzt-zu-halloween-erstmals-drohnen-ein](https://www.spiegel.de/panorama/hamburg-polizei-setzt-zu-halloween-erstmals-drohnen-ein-a-c54bf364-3b9c-4b71-93e1-b55cb60f6395#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/wirtschaft/service/co-emissionshandel-fachleute-warnen-vor-geringer-wirkung-des-co-preises-ab-2027](https://www.spiegel.de/wirtschaft/service/co-emissionshandel-fachleute-warnen-vor-geringer-wirkung-des-co-preises-ab-2027-a-70f2cf77-4aeb-45ff-a8ca-43c29b4793a6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gegen-eintracht-frankfurt-die-abgezockten-bezwingen-den-fight-club](https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gegen-eintracht-frankfurt-die-abgezockten-bezwingen-den-fight-club-a-9f0d8f8f-b898-4f58-8e57-796eecce9f47#ref=rss)
-* [https://www.spiegel.de/panorama/exekution-in-den-usa-verurteilter-moerder-in-florida-hingerichtet](https://www.spiegel.de/panorama/exekution-in-den-usa-verurteilter-moerder-in-florida-hingerichtet-a-b3f070d9-75c0-40e9-a20e-1250475701a9#ref=rss)
-### jamaika
-
-* [https://www.spiegel.de/ausland/melissa-in-jamaika-eine-der-schlimmsten-zeiten-seiner-geschichte](https://www.spiegel.de/ausland/melissa-in-jamaika-eine-der-schlimmsten-zeiten-seiner-geschichte-a-0c9d3a80-2027-428b-9f61-5999db637555#ref=rss)
-* [https://www.spiegel.de/panorama/hurrikan-melissa-erreicht-kuba](https://www.spiegel.de/panorama/hurrikan-melissa-erreicht-kuba-a-362918fe-d2c7-413f-87dd-f0e75183d6bb#ref=rss)
-### hurrikan
-
-* [https://www.spiegel.de/ausland/melissa-in-jamaika-eine-der-schlimmsten-zeiten-seiner-geschichte](https://www.spiegel.de/ausland/melissa-in-jamaika-eine-der-schlimmsten-zeiten-seiner-geschichte-a-0c9d3a80-2027-428b-9f61-5999db637555#ref=rss)
-* [https://www.spiegel.de/panorama/hurrikan-melissa-erreicht-kuba](https://www.spiegel.de/panorama/hurrikan-melissa-erreicht-kuba-a-362918fe-d2c7-413f-87dd-f0e75183d6bb#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/wissenschaft/klimawandel-bericht-zeigt-toedliche-folgen-von-hitze-und-luftverschmutzung](https://www.spiegel.de/wissenschaft/klimawandel-bericht-zeigt-toedliche-folgen-von-hitze-und-luftverschmutzung-a-1c4352c2-2c50-4955-88b0-41edfb69205b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nexperia-und-die-folgen-kalter-krieg-um-die-mikrochips](https://www.spiegel.de/wirtschaft/nexperia-und-die-folgen-kalter-krieg-um-die-mikrochips-a-a5272a86-bb43-4633-b85c-2de69a46635e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken-a-0d3ba6b6-ef97-4e84-b532-c74bb6b1071c#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/nexperia-und-die-folgen-kalter-krieg-um-die-mikrochips](https://www.spiegel.de/wirtschaft/nexperia-und-die-folgen-kalter-krieg-um-die-mikrochips-a-a5272a86-bb43-4633-b85c-2de69a46635e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-erwaegt-zollsenkung-fuer-china-in-fentanyl-krise](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-erwaegt-zollsenkung-fuer-china-in-fentanyl-krise-a-8e856efb-7944-4fa9-8c86-486d4bfbb905#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken-a-0d3ba6b6-ef97-4e84-b532-c74bb6b1071c#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-erwaegt-zollsenkung-fuer-china-in-fentanyl-krise](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-erwaegt-zollsenkung-fuer-china-in-fentanyl-krise-a-8e856efb-7944-4fa9-8c86-486d4bfbb905#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-dutzende-tote-nach-neuen-israelischen-luftschlaegen](https://www.spiegel.de/ausland/gazastreifen-dutzende-tote-nach-neuen-israelischen-luftschlaegen-a-17d24d85-9aa1-451f-bf1a-4695d1712a4d#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/ausland/polen-kampfjets-fangen-russisches-aufklaerungsflugzeug-ab](https://www.spiegel.de/ausland/polen-kampfjets-fangen-russisches-aufklaerungsflugzeug-ab-a-2900f488-8d77-4cd3-b9b7-c37eef14b2a4#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-treibstofflager-auf-der-krim-getroffen-drohnenalarm-in-moskau](https://www.spiegel.de/ausland/ukrainekrieg-treibstofflager-auf-der-krim-getroffen-drohnenalarm-in-moskau-a-96d45629-ab9b-412f-ab90-6f557b524776#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-dutzende-tote-nach-neuen-israelischen-luftschlaegen](https://www.spiegel.de/ausland/gazastreifen-dutzende-tote-nach-neuen-israelischen-luftschlaegen-a-17d24d85-9aa1-451f-bf1a-4695d1712a4d#ref=rss)
-### diesem
+* [https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa](https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa-a-ec2893d9-b15c-46f7-88db-6eb68a2b1e8e#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/nrw-disziplinarverfahren-nach-tv-auftritten-kochender-lehrer-wird-zum-politikum](https://www.spiegel.de/panorama/bildung/nrw-disziplinarverfahren-nach-tv-auftritten-kochender-lehrer-wird-zum-politikum-a-1caeb96e-e79a-48ce-a910-9be5ddb8eb4b#ref=rss)
+* [https://www.spiegel.de/ausland/offenbar-mehr-als-460-menschen-in-sudanesischem-krankenhaus-von-milizionaeren-getoetet](https://www.spiegel.de/ausland/offenbar-mehr-als-460-menschen-in-sudanesischem-krankenhaus-von-milizionaeren-getoetet-a-c3558196-d44e-4b7b-b058-ed1f41184b42#ref=rss)
+* [https://www.spiegel.de/sport/moto3-motorrad-pilot-noah-dettwiler-nach-unfall-offenbar-ausser-lebensgefahr](https://www.spiegel.de/sport/moto3-motorrad-pilot-noah-dettwiler-nach-unfall-offenbar-ausser-lebensgefahr-a-b530be8c-c136-463f-924f-1f2a43f6a922#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/exekution-in-den-usa-verurteilter-moerder-in-florida-hingerichtet](https://www.spiegel.de/panorama/exekution-in-den-usa-verurteilter-moerder-in-florida-hingerichtet-a-b3f070d9-75c0-40e9-a20e-1250475701a9#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-polizei-setzt-zu-halloween-erstmals-drohnen-ein](https://www.spiegel.de/panorama/hamburg-polizei-setzt-zu-halloween-erstmals-drohnen-ein-a-c54bf364-3b9c-4b71-93e1-b55cb60f6395#ref=rss)
-### brücke
+* [https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa](https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa-a-ec2893d9-b15c-46f7-88db-6eb68a2b1e8e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zollstreit-mit-usa-suedkorea-verkuendet-handelsdeal-mit-donald-trump](https://www.spiegel.de/wirtschaft/zollstreit-mit-usa-suedkorea-verkuendet-handelsdeal-mit-donald-trump-a-96212374-1232-4cc3-b887-3e7ef621b197#ref=rss)
+### geert
 
-* [https://www.spiegel.de/ausland/huajiang-grand-canyon-bruecke-heiraten-und-huehnchen-essen-an-der-hoechsten-bruecke-der-welt](https://www.spiegel.de/ausland/huajiang-grand-canyon-bruecke-heiraten-und-huehnchen-essen-an-der-hoechsten-bruecke-der-welt-a-4eba6e2e-7b9d-4aa2-b91e-6dc19fd06183#ref=rss)
-### house
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast-a-3971b795-cda5-453b-8f7c-8422b9c53de3#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+### wilders
 
-* [https://www.spiegel.de/kultur/tv/a-house-of-dynamite-das-pentagon-haelt-szenario-eines-atomangriffs-auf-die-usa-fuer-unrealistisch](https://www.spiegel.de/kultur/tv/a-house-of-dynamite-das-pentagon-haelt-szenario-eines-atomangriffs-auf-die-usa-fuer-unrealistisch-a-94551a56-021b-41bb-a5e2-d9452b5501d5#ref=rss)
-### of
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast-a-3971b795-cda5-453b-8f7c-8422b9c53de3#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+### partei
 
-* [https://www.spiegel.de/kultur/tv/a-house-of-dynamite-das-pentagon-haelt-szenario-eines-atomangriffs-auf-die-usa-fuer-unrealistisch](https://www.spiegel.de/kultur/tv/a-house-of-dynamite-das-pentagon-haelt-szenario-eines-atomangriffs-auf-die-usa-fuer-unrealistisch-a-94551a56-021b-41bb-a5e2-d9452b5501d5#ref=rss)
-### dynamite
+* [https://www.spiegel.de/politik/deutschland/fdp-spitze-kritisiert-dehler-preis-an-imam](https://www.spiegel.de/politik/deutschland/fdp-spitze-kritisiert-dehler-preis-an-imam-a-6ea7a01a-675a-496d-ae6c-47ff3715ecd2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahljahr-2026-afd-strebt-mit-west-ost-strategie-nach-wahlsieg](https://www.spiegel.de/politik/deutschland/wahljahr-2026-afd-strebt-mit-west-ost-strategie-nach-wahlsieg-a-d7236aee-861a-437d-a6dc-a037e6e907be#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-sachsen-anhalt-partei-irritiert-mit-maenner-dominierter-aufstellung-zur-landtagswahl-2026](https://www.spiegel.de/politik/deutschland/cdu-sachsen-anhalt-partei-irritiert-mit-maenner-dominierter-aufstellung-zur-landtagswahl-2026-a-14c9169a-a1bc-4e31-b0af-cfacfc94a080#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-was-will-die-bsw-politikerin](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-was-will-die-bsw-politikerin-a-d1e98cbe-233e-4f3b-9446-45b2663ff6e3#ref=rss)
+### donald
 
-* [https://www.spiegel.de/kultur/tv/a-house-of-dynamite-das-pentagon-haelt-szenario-eines-atomangriffs-auf-die-usa-fuer-unrealistisch](https://www.spiegel.de/kultur/tv/a-house-of-dynamite-das-pentagon-haelt-szenario-eines-atomangriffs-auf-die-usa-fuer-unrealistisch-a-94551a56-021b-41bb-a5e2-d9452b5501d5#ref=rss)
-### deutsche
+* [https://www.spiegel.de/ausland/usa-china-gipfel-wenn-donald-trump-und-xi-jinping-reden-wird-taiwan-nervoes](https://www.spiegel.de/ausland/usa-china-gipfel-wenn-donald-trump-und-xi-jinping-reden-wird-taiwan-nervoes-a-431e0f94-6150-4ca1-81a5-7459825aad45#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zollstreit-mit-usa-suedkorea-verkuendet-handelsdeal-mit-donald-trump](https://www.spiegel.de/wirtschaft/zollstreit-mit-usa-suedkorea-verkuendet-handelsdeal-mit-donald-trump-a-96212374-1232-4cc3-b887-3e7ef621b197#ref=rss)
+### trump
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-hohen-gewinn-im-dritten-quartal](https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-hohen-gewinn-im-dritten-quartal-a-27de0373-e5d7-4f4a-a1dd-9aded18d77aa#ref=rss)
-### bank
+* [https://www.spiegel.de/ausland/usa-china-gipfel-wenn-donald-trump-und-xi-jinping-reden-wird-taiwan-nervoes](https://www.spiegel.de/ausland/usa-china-gipfel-wenn-donald-trump-und-xi-jinping-reden-wird-taiwan-nervoes-a-431e0f94-6150-4ca1-81a5-7459825aad45#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zollstreit-mit-usa-suedkorea-verkuendet-handelsdeal-mit-donald-trump](https://www.spiegel.de/wirtschaft/zollstreit-mit-usa-suedkorea-verkuendet-handelsdeal-mit-donald-trump-a-96212374-1232-4cc3-b887-3e7ef621b197#ref=rss)
+### ich
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-hohen-gewinn-im-dritten-quartal](https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-hohen-gewinn-im-dritten-quartal-a-27de0373-e5d7-4f4a-a1dd-9aded18d77aa#ref=rss)
-### hohen
+* [https://www.spiegel.de/familie/berufstaetige-muetter-weniger-arbeit-wenn-die-kinder-in-die-pubertaet-kommen](https://www.spiegel.de/familie/berufstaetige-muetter-weniger-arbeit-wenn-die-kinder-in-die-pubertaet-kommen-a-0aa0b785-f635-478f-b4f4-57c74c4cbbae#ref=rss)
+### euro
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-hohen-gewinn-im-dritten-quartal](https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-hohen-gewinn-im-dritten-quartal-a-27de0373-e5d7-4f4a-a1dd-9aded18d77aa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/maschinenbau-warnt-weitere-exporte-in-die-usa-koennten-von-hohen-zoellen-betroffen-sein](https://www.spiegel.de/wirtschaft/unternehmen/maschinenbau-warnt-weitere-exporte-in-die-usa-koennten-von-hohen-zoellen-betroffen-sein-a-615c460e-0536-4f49-bf33-671687204adc#ref=rss)
-### gewinn
+* [https://www.spiegel.de/panorama/bundesrechnungshof-neue-kritik-an-ausgaben-fuer-afghanistan-aufnahmeprogramm](https://www.spiegel.de/panorama/bundesrechnungshof-neue-kritik-an-ausgaben-fuer-afghanistan-aufnahmeprogramm-a-26310198-1548-4d7c-a847-16a44f4a71ad#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-ex-fpoe-chef-heinz-christian-strache-wegen-untreue-angeklagt](https://www.spiegel.de/ausland/oesterreich-ex-fpoe-chef-heinz-christian-strache-wegen-untreue-angeklagt-a-d643ba5b-406e-4fed-aa90-19252c57940c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/butter-preise-sinken-supermaerkte-und-discounter-unterbieten-sich-gegenseitig](https://www.spiegel.de/wirtschaft/service/butter-preise-sinken-supermaerkte-und-discounter-unterbieten-sich-gegenseitig-a-c1432229-8242-4c6f-8493-4f478436ca27#ref=rss)
+### merz
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-hohen-gewinn-im-dritten-quartal](https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-hohen-gewinn-im-dritten-quartal-a-27de0373-e5d7-4f4a-a1dd-9aded18d77aa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken-a-0d3ba6b6-ef97-4e84-b532-c74bb6b1071c#ref=rss)
-### mindestens
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gewinneinbruch-bei-mercedes-waffen-in-remscheid-friedrich-merz-unter-druck](https://www.spiegel.de/politik/deutschland/news-des-tages-gewinneinbruch-bei-mercedes-waffen-in-remscheid-friedrich-merz-unter-druck-a-b8e5651e-2b08-4ffc-aa06-c5d4657a4766#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stadtbild-debatte-kriminologin-rita-haverkamp-ueber-das-unsicherheitsgefuehl-an-bahnhoefen](https://www.spiegel.de/panorama/justiz/stadtbild-debatte-kriminologin-rita-haverkamp-ueber-das-unsicherheitsgefuehl-an-bahnhoefen-a-7c7fef14-c9d9-4d59-af28-87dc9a14563e#ref=rss)
+### wahl
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-hohen-gewinn-im-dritten-quartal](https://www.spiegel.de/wirtschaft/deutsche-bank-erzielt-hohen-gewinn-im-dritten-quartal-a-27de0373-e5d7-4f4a-a1dd-9aded18d77aa#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-dutzende-tote-nach-neuen-israelischen-luftschlaegen](https://www.spiegel.de/ausland/gazastreifen-dutzende-tote-nach-neuen-israelischen-luftschlaegen-a-17d24d85-9aa1-451f-bf1a-4695d1712a4d#ref=rss)
-### werkstatt
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast-a-3971b795-cda5-453b-8f7c-8422b9c53de3#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-sachsen-anhalt-partei-irritiert-mit-maenner-dominierter-aufstellung-zur-landtagswahl-2026](https://www.spiegel.de/politik/deutschland/cdu-sachsen-anhalt-partei-irritiert-mit-maenner-dominierter-aufstellung-zur-landtagswahl-2026-a-14c9169a-a1bc-4e31-b0af-cfacfc94a080#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/justiz/remscheid-waffenfund-in-werkstatt-ermittler-stossen-auf-weitere-kriegswaffen](https://www.spiegel.de/panorama/justiz/remscheid-waffenfund-in-werkstatt-ermittler-stossen-auf-weitere-kriegswaffen-a-a476b31f-fcb3-4f78-8d9a-64803e8af7dc#ref=rss)
-### ermittler
+* [https://www.spiegel.de/panorama/rio-de-janeiro-mindestens-132-menschen-sterben-bei-polizeieinsatz](https://www.spiegel.de/panorama/rio-de-janeiro-mindestens-132-menschen-sterben-bei-polizeieinsatz-a-b753eb38-3475-4480-8b9e-59d91eebaf0c#ref=rss)
+* [https://www.spiegel.de/ausland/offenbar-mehr-als-460-menschen-in-sudanesischem-krankenhaus-von-milizionaeren-getoetet](https://www.spiegel.de/ausland/offenbar-mehr-als-460-menschen-in-sudanesischem-krankenhaus-von-milizionaeren-getoetet-a-c3558196-d44e-4b7b-b058-ed1f41184b42#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stadtbild-debatte-kriminologin-rita-haverkamp-ueber-das-unsicherheitsgefuehl-an-bahnhoefen](https://www.spiegel.de/panorama/justiz/stadtbild-debatte-kriminologin-rita-haverkamp-ueber-das-unsicherheitsgefuehl-an-bahnhoefen-a-7c7fef14-c9d9-4d59-af28-87dc9a14563e#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/justiz/remscheid-waffenfund-in-werkstatt-ermittler-stossen-auf-weitere-kriegswaffen](https://www.spiegel.de/panorama/justiz/remscheid-waffenfund-in-werkstatt-ermittler-stossen-auf-weitere-kriegswaffen-a-a476b31f-fcb3-4f78-8d9a-64803e8af7dc#ref=rss)
-### natoostflanke
+* [https://www.spiegel.de/panorama/rio-de-janeiro-mindestens-132-menschen-sterben-bei-polizeieinsatz](https://www.spiegel.de/panorama/rio-de-janeiro-mindestens-132-menschen-sterben-bei-polizeieinsatz-a-b753eb38-3475-4480-8b9e-59d91eebaf0c#ref=rss)
+* [https://www.spiegel.de/ausland/offenbar-mehr-als-460-menschen-in-sudanesischem-krankenhaus-von-milizionaeren-getoetet](https://www.spiegel.de/ausland/offenbar-mehr-als-460-menschen-in-sudanesischem-krankenhaus-von-milizionaeren-getoetet-a-c3558196-d44e-4b7b-b058-ed1f41184b42#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nvidia-ist-als-erste-firma-mehr-als-fuenf-billionen-dollar-wert](https://www.spiegel.de/wirtschaft/nvidia-ist-als-erste-firma-mehr-als-fuenf-billionen-dollar-wert-a-d1edfa3c-ae2c-4dac-a269-bb5f439c0754#ref=rss)
+### erste
 
-* [https://www.spiegel.de/ausland/nato-ostflanke-usa-reduzieren-militaerpraesenz-in-rumaenien](https://www.spiegel.de/ausland/nato-ostflanke-usa-reduzieren-militaerpraesenz-in-rumaenien-a-ca7b3bc6-a987-4426-be8d-78f5a85a7c43#ref=rss)
-* [https://www.spiegel.de/ausland/polen-kampfjets-fangen-russisches-aufklaerungsflugzeug-ab](https://www.spiegel.de/ausland/polen-kampfjets-fangen-russisches-aufklaerungsflugzeug-ab-a-2900f488-8d77-4cd3-b9b7-c37eef14b2a4#ref=rss)
-### rumänien
+* [https://www.spiegel.de/wirtschaft/nvidia-ist-als-erste-firma-mehr-als-fuenf-billionen-dollar-wert](https://www.spiegel.de/wirtschaft/nvidia-ist-als-erste-firma-mehr-als-fuenf-billionen-dollar-wert-a-d1edfa3c-ae2c-4dac-a269-bb5f439c0754#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-sachsen-anhalt-partei-irritiert-mit-maenner-dominierter-aufstellung-zur-landtagswahl-2026](https://www.spiegel.de/politik/deutschland/cdu-sachsen-anhalt-partei-irritiert-mit-maenner-dominierter-aufstellung-zur-landtagswahl-2026-a-14c9169a-a1bc-4e31-b0af-cfacfc94a080#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/ausland/nato-ostflanke-usa-reduzieren-militaerpraesenz-in-rumaenien](https://www.spiegel.de/ausland/nato-ostflanke-usa-reduzieren-militaerpraesenz-in-rumaenien-a-ca7b3bc6-a987-4426-be8d-78f5a85a7c43#ref=rss)
-### europa
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/familie/berufstaetige-muetter-weniger-arbeit-wenn-die-kinder-in-die-pubertaet-kommen](https://www.spiegel.de/familie/berufstaetige-muetter-weniger-arbeit-wenn-die-kinder-in-die-pubertaet-kommen-a-0aa0b785-f635-478f-b4f4-57c74c4cbbae#ref=rss)
+### juan
 
-* [https://www.spiegel.de/ausland/nato-ostflanke-usa-reduzieren-militaerpraesenz-in-rumaenien](https://www.spiegel.de/ausland/nato-ostflanke-usa-reduzieren-militaerpraesenz-in-rumaenien-a-ca7b3bc6-a987-4426-be8d-78f5a85a7c43#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/co-emissionshandel-fachleute-warnen-vor-geringer-wirkung-des-co-preises-ab-2027](https://www.spiegel.de/wirtschaft/service/co-emissionshandel-fachleute-warnen-vor-geringer-wirkung-des-co-preises-ab-2027-a-70f2cf77-4aeb-45ff-a8ca-43c29b4793a6#ref=rss)
-### stark
+* [https://www.spiegel.de/panorama/juan-carlos-von-spanien-veroeffentlicht-biografie-koenig-reumut](https://www.spiegel.de/panorama/juan-carlos-von-spanien-veroeffentlicht-biografie-koenig-reumut-a-09aa0263-3633-458c-a9b7-1e16681ba4c0#ref=rss)
+### carlos
 
-* [https://www.spiegel.de/ausland/nato-ostflanke-usa-reduzieren-militaerpraesenz-in-rumaenien](https://www.spiegel.de/ausland/nato-ostflanke-usa-reduzieren-militaerpraesenz-in-rumaenien-a-ca7b3bc6-a987-4426-be8d-78f5a85a7c43#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken-a-0d3ba6b6-ef97-4e84-b532-c74bb6b1071c#ref=rss)
-### saarland
+* [https://www.spiegel.de/panorama/juan-carlos-von-spanien-veroeffentlicht-biografie-koenig-reumut](https://www.spiegel.de/panorama/juan-carlos-von-spanien-veroeffentlicht-biografie-koenig-reumut-a-09aa0263-3633-458c-a9b7-1e16681ba4c0#ref=rss)
+### biografie
 
-* [https://www.spiegel.de/wissenschaft/vogelgrippe-saarland-ordnet-stallpflicht-fuer-gefluegel-an](https://www.spiegel.de/wissenschaft/vogelgrippe-saarland-ordnet-stallpflicht-fuer-gefluegel-an-a-81aa74b7-b9b4-4e62-909d-670e1416cf42#ref=rss)
-### geflügel
+* [https://www.spiegel.de/panorama/juan-carlos-von-spanien-veroeffentlicht-biografie-koenig-reumut](https://www.spiegel.de/panorama/juan-carlos-von-spanien-veroeffentlicht-biografie-koenig-reumut-a-09aa0263-3633-458c-a9b7-1e16681ba4c0#ref=rss)
+### bundesrechnungshof
 
-* [https://www.spiegel.de/wissenschaft/vogelgrippe-saarland-ordnet-stallpflicht-fuer-gefluegel-an](https://www.spiegel.de/wissenschaft/vogelgrippe-saarland-ordnet-stallpflicht-fuer-gefluegel-an-a-81aa74b7-b9b4-4e62-909d-670e1416cf42#ref=rss)
-### verbreitung
+* [https://www.spiegel.de/panorama/bundesrechnungshof-neue-kritik-an-ausgaben-fuer-afghanistan-aufnahmeprogramm](https://www.spiegel.de/panorama/bundesrechnungshof-neue-kritik-an-ausgaben-fuer-afghanistan-aufnahmeprogramm-a-26310198-1548-4d7c-a847-16a44f4a71ad#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wissenschaft/vogelgrippe-saarland-ordnet-stallpflicht-fuer-gefluegel-an](https://www.spiegel.de/wissenschaft/vogelgrippe-saarland-ordnet-stallpflicht-fuer-gefluegel-an-a-81aa74b7-b9b4-4e62-909d-670e1416cf42#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-die-vorwuerfe-gegen-die-dragqueen-jurassica-parka-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-die-vorwuerfe-gegen-die-dragqueen-jurassica-parka-bekannt-ist-a-30d07b80-85d3-4ff9-bee9-ca8c553f0367#ref=rss)
-### anderen
+* [https://www.spiegel.de/panorama/bundesrechnungshof-neue-kritik-an-ausgaben-fuer-afghanistan-aufnahmeprogramm](https://www.spiegel.de/panorama/bundesrechnungshof-neue-kritik-an-ausgaben-fuer-afghanistan-aufnahmeprogramm-a-26310198-1548-4d7c-a847-16a44f4a71ad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/boeing-flugzeugbauer-muss-auslieferung-von-grossraumjet-777x-verschieben](https://www.spiegel.de/wirtschaft/boeing-flugzeugbauer-muss-auslieferung-von-grossraumjet-777x-verschieben-a-e9a51d08-bf66-46b3-8832-8ad5f499bf4f#ref=rss)
+### ausgaben
 
-* [https://www.spiegel.de/wissenschaft/vogelgrippe-saarland-ordnet-stallpflicht-fuer-gefluegel-an](https://www.spiegel.de/wissenschaft/vogelgrippe-saarland-ordnet-stallpflicht-fuer-gefluegel-an-a-81aa74b7-b9b4-4e62-909d-670e1416cf42#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gegen-eintracht-frankfurt-die-abgezockten-bezwingen-den-fight-club](https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gegen-eintracht-frankfurt-die-abgezockten-bezwingen-den-fight-club-a-9f0d8f8f-b898-4f58-8e57-796eecce9f47#ref=rss)
-### dfbfrauen
-
-* [https://www.spiegel.de/sport/fussball/dfb-frauen-im-finale-der-nations-league-nicole-anyomi-ist-jetzt-unverzichtbar](https://www.spiegel.de/sport/fussball/dfb-frauen-im-finale-der-nations-league-nicole-anyomi-ist-jetzt-unverzichtbar-a-0fa8af42-2399-48bb-b746-f90d3bfea0de#ref=rss)
-### nations
-
-* [https://www.spiegel.de/sport/fussball/dfb-frauen-im-finale-der-nations-league-nicole-anyomi-ist-jetzt-unverzichtbar](https://www.spiegel.de/sport/fussball/dfb-frauen-im-finale-der-nations-league-nicole-anyomi-ist-jetzt-unverzichtbar-a-0fa8af42-2399-48bb-b746-f90d3bfea0de#ref=rss)
-### league
-
-* [https://www.spiegel.de/sport/fussball/dfb-frauen-im-finale-der-nations-league-nicole-anyomi-ist-jetzt-unverzichtbar](https://www.spiegel.de/sport/fussball/dfb-frauen-im-finale-der-nations-league-nicole-anyomi-ist-jetzt-unverzichtbar-a-0fa8af42-2399-48bb-b746-f90d3bfea0de#ref=rss)
-### nicole
-
-* [https://www.spiegel.de/sport/fussball/dfb-frauen-im-finale-der-nations-league-nicole-anyomi-ist-jetzt-unverzichtbar](https://www.spiegel.de/sport/fussball/dfb-frauen-im-finale-der-nations-league-nicole-anyomi-ist-jetzt-unverzichtbar-a-0fa8af42-2399-48bb-b746-f90d3bfea0de#ref=rss)
-### anyomi
-
-* [https://www.spiegel.de/sport/fussball/dfb-frauen-im-finale-der-nations-league-nicole-anyomi-ist-jetzt-unverzichtbar](https://www.spiegel.de/sport/fussball/dfb-frauen-im-finale-der-nations-league-nicole-anyomi-ist-jetzt-unverzichtbar-a-0fa8af42-2399-48bb-b746-f90d3bfea0de#ref=rss)
-### brand
-
-* [https://www.spiegel.de/sport/fussball/dfb-frauen-im-finale-der-nations-league-nicole-anyomi-ist-jetzt-unverzichtbar](https://www.spiegel.de/sport/fussball/dfb-frauen-im-finale-der-nations-league-nicole-anyomi-ist-jetzt-unverzichtbar-a-0fa8af42-2399-48bb-b746-f90d3bfea0de#ref=rss)
-* [https://www.spiegel.de/panorama/landkreis-aschaffenburg-feuerwehr-muss-bei-sich-selbst-loeschen](https://www.spiegel.de/panorama/landkreis-aschaffenburg-feuerwehr-muss-bei-sich-selbst-loeschen-a-7b582f71-ce32-485a-8305-6e708123328e#ref=rss)
-### jamie
-
-* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-meint-sie-sei-nur-zufaellig-schauspielerin-geworden](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-meint-sie-sei-nur-zufaellig-schauspielerin-geworden-a-d061d2f7-effb-45c1-ba56-487c52b62a72#ref=rss)
-### lee
-
-* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-meint-sie-sei-nur-zufaellig-schauspielerin-geworden](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-meint-sie-sei-nur-zufaellig-schauspielerin-geworden-a-d061d2f7-effb-45c1-ba56-487c52b62a72#ref=rss)
-### curtis
-
-* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-meint-sie-sei-nur-zufaellig-schauspielerin-geworden](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-meint-sie-sei-nur-zufaellig-schauspielerin-geworden-a-d061d2f7-effb-45c1-ba56-487c52b62a72#ref=rss)
-### geworden
-
-* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-meint-sie-sei-nur-zufaellig-schauspielerin-geworden](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-meint-sie-sei-nur-zufaellig-schauspielerin-geworden-a-d061d2f7-effb-45c1-ba56-487c52b62a72#ref=rss)
-* [https://www.spiegel.de/ausland/huajiang-grand-canyon-bruecke-heiraten-und-huehnchen-essen-an-der-hoechsten-bruecke-der-welt](https://www.spiegel.de/ausland/huajiang-grand-canyon-bruecke-heiraten-und-huehnchen-essen-an-der-hoechsten-bruecke-der-welt-a-4eba6e2e-7b9d-4aa2-b91e-6dc19fd06183#ref=rss)
-### rio
-
-* [https://www.spiegel.de/ausland/polizeieinsatz-in-rio-de-janeiro-buergerkriegsaehnliche-szenen](https://www.spiegel.de/ausland/polizeieinsatz-in-rio-de-janeiro-buergerkriegsaehnliche-szenen-a-8f79a835-9c23-4438-86b2-67da09c38ab1#ref=rss)
-### de
-
-* [https://www.spiegel.de/ausland/polizeieinsatz-in-rio-de-janeiro-buergerkriegsaehnliche-szenen](https://www.spiegel.de/ausland/polizeieinsatz-in-rio-de-janeiro-buergerkriegsaehnliche-szenen-a-8f79a835-9c23-4438-86b2-67da09c38ab1#ref=rss)
-### janeiro
-
-* [https://www.spiegel.de/ausland/polizeieinsatz-in-rio-de-janeiro-buergerkriegsaehnliche-szenen](https://www.spiegel.de/ausland/polizeieinsatz-in-rio-de-janeiro-buergerkriegsaehnliche-szenen-a-8f79a835-9c23-4438-86b2-67da09c38ab1#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/ausland/polizeieinsatz-in-rio-de-janeiro-buergerkriegsaehnliche-szenen](https://www.spiegel.de/ausland/polizeieinsatz-in-rio-de-janeiro-buergerkriegsaehnliche-szenen-a-8f79a835-9c23-4438-86b2-67da09c38ab1#ref=rss)
-* [https://www.spiegel.de/ausland/melissa-in-jamaika-eine-der-schlimmsten-zeiten-seiner-geschichte](https://www.spiegel.de/ausland/melissa-in-jamaika-eine-der-schlimmsten-zeiten-seiner-geschichte-a-0c9d3a80-2027-428b-9f61-5999db637555#ref=rss)
-### 2027
-
-* [https://www.spiegel.de/wirtschaft/service/co-emissionshandel-fachleute-warnen-vor-geringer-wirkung-des-co-preises-ab-2027](https://www.spiegel.de/wirtschaft/service/co-emissionshandel-fachleute-warnen-vor-geringer-wirkung-des-co-preises-ab-2027-a-70f2cf77-4aeb-45ff-a8ca-43c29b4793a6#ref=rss)
-### dragqueen
-
-* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-die-vorwuerfe-gegen-die-dragqueen-jurassica-parka-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-die-vorwuerfe-gegen-die-dragqueen-jurassica-parka-bekannt-ist-a-30d07b80-85d3-4ff9-bee9-ca8c553f0367#ref=rss)
-### jurassica
-
-* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-die-vorwuerfe-gegen-die-dragqueen-jurassica-parka-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-die-vorwuerfe-gegen-die-dragqueen-jurassica-parka-bekannt-ist-a-30d07b80-85d3-4ff9-bee9-ca8c553f0367#ref=rss)
-### parka
-
-* [https://www.spiegel.de/panorama/justiz/berlin-was-ueber-die-vorwuerfe-gegen-die-dragqueen-jurassica-parka-bekannt-ist](https://www.spiegel.de/panorama/justiz/berlin-was-ueber-die-vorwuerfe-gegen-die-dragqueen-jurassica-parka-bekannt-ist-a-30d07b80-85d3-4ff9-bee9-ca8c553f0367#ref=rss)
-### unter
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gegen-eintracht-frankfurt-die-abgezockten-bezwingen-den-fight-club](https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gegen-eintracht-frankfurt-die-abgezockten-bezwingen-den-fight-club-a-9f0d8f8f-b898-4f58-8e57-796eecce9f47#ref=rss)
-### kovač
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gegen-eintracht-frankfurt-die-abgezockten-bezwingen-den-fight-club](https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gegen-eintracht-frankfurt-die-abgezockten-bezwingen-den-fight-club-a-9f0d8f8f-b898-4f58-8e57-796eecce9f47#ref=rss)
-### dürfte
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gegen-eintracht-frankfurt-die-abgezockten-bezwingen-den-fight-club](https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gegen-eintracht-frankfurt-die-abgezockten-bezwingen-den-fight-club-a-9f0d8f8f-b898-4f58-8e57-796eecce9f47#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-senat-will-brasilien-zoelle-aufheben](https://www.spiegel.de/ausland/donald-trump-us-senat-will-brasilien-zoelle-aufheben-a-a130ea0c-ea91-4fd7-a576-4b10e21bf880#ref=rss)
-### rosenkohl
-
-* [https://www.spiegel.de/start/rosenkohl-rezept-fuer-lauwarmen-herbstsalat](https://www.spiegel.de/start/rosenkohl-rezept-fuer-lauwarmen-herbstsalat-a-2ecc86fd-f9ef-457b-baf2-73ef0f4b2543#ref=rss)
-### herbstsalat
-
-* [https://www.spiegel.de/start/rosenkohl-rezept-fuer-lauwarmen-herbstsalat](https://www.spiegel.de/start/rosenkohl-rezept-fuer-lauwarmen-herbstsalat-a-2ecc86fd-f9ef-457b-baf2-73ef0f4b2543#ref=rss)
+* [https://www.spiegel.de/panorama/bundesrechnungshof-neue-kritik-an-ausgaben-fuer-afghanistan-aufnahmeprogramm](https://www.spiegel.de/panorama/bundesrechnungshof-neue-kritik-an-ausgaben-fuer-afghanistan-aufnahmeprogramm-a-26310198-1548-4d7c-a847-16a44f4a71ad#ref=rss)
 ### pro
 
-* [https://www.spiegel.de/start/rosenkohl-rezept-fuer-lauwarmen-herbstsalat](https://www.spiegel.de/start/rosenkohl-rezept-fuer-lauwarmen-herbstsalat-a-2ecc86fd-f9ef-457b-baf2-73ef0f4b2543#ref=rss)
-* [https://www.spiegel.de/panorama/hurrikan-melissa-erreicht-kuba](https://www.spiegel.de/panorama/hurrikan-melissa-erreicht-kuba-a-362918fe-d2c7-413f-87dd-f0e75183d6bb#ref=rss)
-### ki
+* [https://www.spiegel.de/panorama/bundesrechnungshof-neue-kritik-an-ausgaben-fuer-afghanistan-aufnahmeprogramm](https://www.spiegel.de/panorama/bundesrechnungshof-neue-kritik-an-ausgaben-fuer-afghanistan-aufnahmeprogramm-a-26310198-1548-4d7c-a847-16a44f4a71ad#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### afghanistan
 
-* [https://www.spiegel.de/panorama/bildung/digitale-schulen-ki-im-abitur-in-nrw-als-richtiger-schritt-kommentar](https://www.spiegel.de/panorama/bildung/digitale-schulen-ki-im-abitur-in-nrw-als-richtiger-schritt-kommentar-a-1eb93fb2-e4fa-44aa-b817-e7235360c027#ref=rss)
-### maschinenbau
+* [https://www.spiegel.de/panorama/bundesrechnungshof-neue-kritik-an-ausgaben-fuer-afghanistan-aufnahmeprogramm](https://www.spiegel.de/panorama/bundesrechnungshof-neue-kritik-an-ausgaben-fuer-afghanistan-aufnahmeprogramm-a-26310198-1548-4d7c-a847-16a44f4a71ad#ref=rss)
+* [https://www.spiegel.de/ausland/pakistan-und-afghanistan-beenden-friedensgespraeche-ohne-ergebnis](https://www.spiegel.de/ausland/pakistan-und-afghanistan-beenden-friedensgespraeche-ohne-ergebnis-a-90b18673-42d3-431e-9caa-23ee830f4b8e#ref=rss)
+### sollte
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/maschinenbau-warnt-weitere-exporte-in-die-usa-koennten-von-hohen-zoellen-betroffen-sein](https://www.spiegel.de/wirtschaft/unternehmen/maschinenbau-warnt-weitere-exporte-in-die-usa-koennten-von-hohen-zoellen-betroffen-sein-a-615c460e-0536-4f49-bf33-671687204adc#ref=rss)
-### warnt
+* [https://www.spiegel.de/panorama/bundesrechnungshof-neue-kritik-an-ausgaben-fuer-afghanistan-aufnahmeprogramm](https://www.spiegel.de/panorama/bundesrechnungshof-neue-kritik-an-ausgaben-fuer-afghanistan-aufnahmeprogramm-a-26310198-1548-4d7c-a847-16a44f4a71ad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/teures-schnitzel-die-wucherwirte-und-die-verantwortung-der-politik-kolumne](https://www.spiegel.de/wirtschaft/unternehmen/teures-schnitzel-die-wucherwirte-und-die-verantwortung-der-politik-kolumne-a-18d722bc-b37a-4a18-9861-5f50e11aa049#ref=rss)
+### naomi
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/maschinenbau-warnt-weitere-exporte-in-die-usa-koennten-von-hohen-zoellen-betroffen-sein](https://www.spiegel.de/wirtschaft/unternehmen/maschinenbau-warnt-weitere-exporte-in-die-usa-koennten-von-hohen-zoellen-betroffen-sein-a-615c460e-0536-4f49-bf33-671687204adc#ref=rss)
-### zöllen
+* [https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa](https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa-a-ec2893d9-b15c-46f7-88db-6eb68a2b1e8e#ref=rss)
+### seibt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/maschinenbau-warnt-weitere-exporte-in-die-usa-koennten-von-hohen-zoellen-betroffen-sein](https://www.spiegel.de/wirtschaft/unternehmen/maschinenbau-warnt-weitere-exporte-in-die-usa-koennten-von-hohen-zoellen-betroffen-sein-a-615c460e-0536-4f49-bf33-671687204adc#ref=rss)
-### betroffen
+* [https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa](https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa-a-ec2893d9-b15c-46f7-88db-6eb68a2b1e8e#ref=rss)
+### afdnahe
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/maschinenbau-warnt-weitere-exporte-in-die-usa-koennten-von-hohen-zoellen-betroffen-sein](https://www.spiegel.de/wirtschaft/unternehmen/maschinenbau-warnt-weitere-exporte-in-die-usa-koennten-von-hohen-zoellen-betroffen-sein-a-615c460e-0536-4f49-bf33-671687204adc#ref=rss)
-### neuen
+* [https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa](https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa-a-ec2893d9-b15c-46f7-88db-6eb68a2b1e8e#ref=rss)
+### beantragt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/maschinenbau-warnt-weitere-exporte-in-die-usa-koennten-von-hohen-zoellen-betroffen-sein](https://www.spiegel.de/wirtschaft/unternehmen/maschinenbau-warnt-weitere-exporte-in-die-usa-koennten-von-hohen-zoellen-betroffen-sein-a-615c460e-0536-4f49-bf33-671687204adc#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-dutzende-tote-nach-neuen-israelischen-luftschlaegen](https://www.spiegel.de/ausland/gazastreifen-dutzende-tote-nach-neuen-israelischen-luftschlaegen-a-17d24d85-9aa1-451f-bf1a-4695d1712a4d#ref=rss)
-### zölle
+* [https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa](https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa-a-ec2893d9-b15c-46f7-88db-6eb68a2b1e8e#ref=rss)
+### asyl
 
-* [https://www.spiegel.de/ausland/donald-trump-us-senat-will-brasilien-zoelle-aufheben](https://www.spiegel.de/ausland/donald-trump-us-senat-will-brasilien-zoelle-aufheben-a-a130ea0c-ea91-4fd7-a576-4b10e21bf880#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken-a-0d3ba6b6-ef97-4e84-b532-c74bb6b1071c#ref=rss)
-### auswirkungen
+* [https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa](https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa-a-ec2893d9-b15c-46f7-88db-6eb68a2b1e8e#ref=rss)
+### später
 
-* [https://www.spiegel.de/ausland/donald-trump-us-senat-will-brasilien-zoelle-aufheben](https://www.spiegel.de/ausland/donald-trump-us-senat-will-brasilien-zoelle-aufheben-a-a130ea0c-ea91-4fd7-a576-4b10e21bf880#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-treibstofflager-auf-der-krim-getroffen-drohnenalarm-in-moskau](https://www.spiegel.de/ausland/ukrainekrieg-treibstofflager-auf-der-krim-getroffen-drohnenalarm-in-moskau-a-96d45629-ab9b-412f-ab90-6f557b524776#ref=rss)
-### kuba
+* [https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa](https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa-a-ec2893d9-b15c-46f7-88db-6eb68a2b1e8e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/boeing-flugzeugbauer-muss-auslieferung-von-grossraumjet-777x-verschieben](https://www.spiegel.de/wirtschaft/boeing-flugzeugbauer-muss-auslieferung-von-grossraumjet-777x-verschieben-a-e9a51d08-bf66-46b3-8832-8ad5f499bf4f#ref=rss)
+### berichtet
 
-* [https://www.spiegel.de/panorama/hurrikan-melissa-erreicht-kuba](https://www.spiegel.de/panorama/hurrikan-melissa-erreicht-kuba-a-362918fe-d2c7-413f-87dd-f0e75183d6bb#ref=rss)
-### erreicht
+* [https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa](https://www.spiegel.de/ausland/naomi-seibt-afd-nahe-influencerin-beantragt-offenbar-asyl-in-den-usa-a-ec2893d9-b15c-46f7-88db-6eb68a2b1e8e#ref=rss)
+* [https://www.spiegel.de/ausland/offenbar-mehr-als-460-menschen-in-sudanesischem-krankenhaus-von-milizionaeren-getoetet](https://www.spiegel.de/ausland/offenbar-mehr-als-460-menschen-in-sudanesischem-krankenhaus-von-milizionaeren-getoetet-a-c3558196-d44e-4b7b-b058-ed1f41184b42#ref=rss)
+### gewinneinbruch
 
-* [https://www.spiegel.de/panorama/hurrikan-melissa-erreicht-kuba](https://www.spiegel.de/panorama/hurrikan-melissa-erreicht-kuba-a-362918fe-d2c7-413f-87dd-f0e75183d6bb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimawandel-bericht-zeigt-toedliche-folgen-von-hitze-und-luftverschmutzung](https://www.spiegel.de/wissenschaft/klimawandel-bericht-zeigt-toedliche-folgen-von-hitze-und-luftverschmutzung-a-1c4352c2-2c50-4955-88b0-41edfb69205b#ref=rss)
-### bericht
-
-* [https://www.spiegel.de/wissenschaft/klimawandel-bericht-zeigt-toedliche-folgen-von-hitze-und-luftverschmutzung](https://www.spiegel.de/wissenschaft/klimawandel-bericht-zeigt-toedliche-folgen-von-hitze-und-luftverschmutzung-a-1c4352c2-2c50-4955-88b0-41edfb69205b#ref=rss)
-### nexperia
-
-* [https://www.spiegel.de/wirtschaft/nexperia-und-die-folgen-kalter-krieg-um-die-mikrochips](https://www.spiegel.de/wirtschaft/nexperia-und-die-folgen-kalter-krieg-um-die-mikrochips-a-a5272a86-bb43-4633-b85c-2de69a46635e#ref=rss)
-### fentanylkrise
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-erwaegt-zollsenkung-fuer-china-in-fentanyl-krise](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-erwaegt-zollsenkung-fuer-china-in-fentanyl-krise-a-8e856efb-7944-4fa9-8c86-486d4bfbb905#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-erwaegt-zollsenkung-fuer-china-in-fentanyl-krise](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-erwaegt-zollsenkung-fuer-china-in-fentanyl-krise-a-8e856efb-7944-4fa9-8c86-486d4bfbb905#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-polizei-setzt-zu-halloween-erstmals-drohnen-ein](https://www.spiegel.de/panorama/hamburg-polizei-setzt-zu-halloween-erstmals-drohnen-ein-a-c54bf364-3b9c-4b71-93e1-b55cb60f6395#ref=rss)
-### chinas
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-erwaegt-zollsenkung-fuer-china-in-fentanyl-krise](https://www.spiegel.de/wirtschaft/donald-trump-us-praesident-erwaegt-zollsenkung-fuer-china-in-fentanyl-krise-a-8e856efb-7944-4fa9-8c86-486d4bfbb905#ref=rss)
-* [https://www.spiegel.de/ausland/huajiang-grand-canyon-bruecke-heiraten-und-huehnchen-essen-an-der-hoechsten-bruecke-der-welt](https://www.spiegel.de/ausland/huajiang-grand-canyon-bruecke-heiraten-und-huehnchen-essen-an-der-hoechsten-bruecke-der-welt-a-4eba6e2e-7b9d-4aa2-b91e-6dc19fd06183#ref=rss)
-### kampfjets
-
-* [https://www.spiegel.de/ausland/polen-kampfjets-fangen-russisches-aufklaerungsflugzeug-ab](https://www.spiegel.de/ausland/polen-kampfjets-fangen-russisches-aufklaerungsflugzeug-ab-a-2900f488-8d77-4cd3-b9b7-c37eef14b2a4#ref=rss)
-### aufklärungsflugzeug
-
-* [https://www.spiegel.de/ausland/polen-kampfjets-fangen-russisches-aufklaerungsflugzeug-ab](https://www.spiegel.de/ausland/polen-kampfjets-fangen-russisches-aufklaerungsflugzeug-ab-a-2900f488-8d77-4cd3-b9b7-c37eef14b2a4#ref=rss)
-### feuerwehr
-
-* [https://www.spiegel.de/panorama/landkreis-aschaffenburg-feuerwehr-muss-bei-sich-selbst-loeschen](https://www.spiegel.de/panorama/landkreis-aschaffenburg-feuerwehr-muss-bei-sich-selbst-loeschen-a-7b582f71-ce32-485a-8305-6e708123328e#ref=rss)
-### moskau
-
-* [https://www.spiegel.de/ausland/ukrainekrieg-treibstofflager-auf-der-krim-getroffen-drohnenalarm-in-moskau](https://www.spiegel.de/ausland/ukrainekrieg-treibstofflager-auf-der-krim-getroffen-drohnenalarm-in-moskau-a-96d45629-ab9b-412f-ab90-6f557b524776#ref=rss)
-### nacht
-
-* [https://www.spiegel.de/ausland/ukrainekrieg-treibstofflager-auf-der-krim-getroffen-drohnenalarm-in-moskau](https://www.spiegel.de/ausland/ukrainekrieg-treibstofflager-auf-der-krim-getroffen-drohnenalarm-in-moskau-a-96d45629-ab9b-412f-ab90-6f557b524776#ref=rss)
-* [https://www.spiegel.de/ausland/gazastreifen-dutzende-tote-nach-neuen-israelischen-luftschlaegen](https://www.spiegel.de/ausland/gazastreifen-dutzende-tote-nach-neuen-israelischen-luftschlaegen-a-17d24d85-9aa1-451f-bf1a-4695d1712a4d#ref=rss)
-### verurteilter
-
-* [https://www.spiegel.de/panorama/exekution-in-den-usa-verurteilter-moerder-in-florida-hingerichtet](https://www.spiegel.de/panorama/exekution-in-den-usa-verurteilter-moerder-in-florida-hingerichtet-a-b3f070d9-75c0-40e9-a20e-1250475701a9#ref=rss)
-### mörder
-
-* [https://www.spiegel.de/panorama/exekution-in-den-usa-verurteilter-moerder-in-florida-hingerichtet](https://www.spiegel.de/panorama/exekution-in-den-usa-verurteilter-moerder-in-florida-hingerichtet-a-b3f070d9-75c0-40e9-a20e-1250475701a9#ref=rss)
-### florida
-
-* [https://www.spiegel.de/panorama/exekution-in-den-usa-verurteilter-moerder-in-florida-hingerichtet](https://www.spiegel.de/panorama/exekution-in-den-usa-verurteilter-moerder-in-florida-hingerichtet-a-b3f070d9-75c0-40e9-a20e-1250475701a9#ref=rss)
-### hingerichtet
-
-* [https://www.spiegel.de/panorama/exekution-in-den-usa-verurteilter-moerder-in-florida-hingerichtet](https://www.spiegel.de/panorama/exekution-in-den-usa-verurteilter-moerder-in-florida-hingerichtet-a-b3f070d9-75c0-40e9-a20e-1250475701a9#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/panorama/exekution-in-den-usa-verurteilter-moerder-in-florida-hingerichtet](https://www.spiegel.de/panorama/exekution-in-den-usa-verurteilter-moerder-in-florida-hingerichtet-a-b3f070d9-75c0-40e9-a20e-1250475701a9#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-polizei-setzt-zu-halloween-erstmals-drohnen-ein](https://www.spiegel.de/panorama/hamburg-polizei-setzt-zu-halloween-erstmals-drohnen-ein-a-c54bf364-3b9c-4b71-93e1-b55cb60f6395#ref=rss)
-### halloween
-
-* [https://www.spiegel.de/panorama/hamburg-polizei-setzt-zu-halloween-erstmals-drohnen-ein](https://www.spiegel.de/panorama/hamburg-polizei-setzt-zu-halloween-erstmals-drohnen-ein-a-c54bf364-3b9c-4b71-93e1-b55cb60f6395#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gewinneinbruch-bei-mercedes-waffen-in-remscheid-friedrich-merz-unter-druck](https://www.spiegel.de/politik/deutschland/news-des-tages-gewinneinbruch-bei-mercedes-waffen-in-remscheid-friedrich-merz-unter-druck-a-b8e5651e-2b08-4ffc-aa06-c5d4657a4766#ref=rss)
 ### mercedes
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-meldet-gewinneinbruch-zoelle-lassen-absatz-sinken-a-0d3ba6b6-ef97-4e84-b532-c74bb6b1071c#ref=rss)
-### tote
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gewinneinbruch-bei-mercedes-waffen-in-remscheid-friedrich-merz-unter-druck](https://www.spiegel.de/politik/deutschland/news-des-tages-gewinneinbruch-bei-mercedes-waffen-in-remscheid-friedrich-merz-unter-druck-a-b8e5651e-2b08-4ffc-aa06-c5d4657a4766#ref=rss)
+### remscheid
 
-* [https://www.spiegel.de/ausland/gazastreifen-dutzende-tote-nach-neuen-israelischen-luftschlaegen](https://www.spiegel.de/ausland/gazastreifen-dutzende-tote-nach-neuen-israelischen-luftschlaegen-a-17d24d85-9aa1-451f-bf1a-4695d1712a4d#ref=rss)
-### israelischen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gewinneinbruch-bei-mercedes-waffen-in-remscheid-friedrich-merz-unter-druck](https://www.spiegel.de/politik/deutschland/news-des-tages-gewinneinbruch-bei-mercedes-waffen-in-remscheid-friedrich-merz-unter-druck-a-b8e5651e-2b08-4ffc-aa06-c5d4657a4766#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/ausland/gazastreifen-dutzende-tote-nach-neuen-israelischen-luftschlaegen](https://www.spiegel.de/ausland/gazastreifen-dutzende-tote-nach-neuen-israelischen-luftschlaegen-a-17d24d85-9aa1-451f-bf1a-4695d1712a4d#ref=rss)
-### huajiang
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gewinneinbruch-bei-mercedes-waffen-in-remscheid-friedrich-merz-unter-druck](https://www.spiegel.de/politik/deutschland/news-des-tages-gewinneinbruch-bei-mercedes-waffen-in-remscheid-friedrich-merz-unter-druck-a-b8e5651e-2b08-4ffc-aa06-c5d4657a4766#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/huajiang-grand-canyon-bruecke-heiraten-und-huehnchen-essen-an-der-hoechsten-bruecke-der-welt](https://www.spiegel.de/ausland/huajiang-grand-canyon-bruecke-heiraten-und-huehnchen-essen-an-der-hoechsten-bruecke-der-welt-a-4eba6e2e-7b9d-4aa2-b91e-6dc19fd06183#ref=rss)
-### grand
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gewinneinbruch-bei-mercedes-waffen-in-remscheid-friedrich-merz-unter-druck](https://www.spiegel.de/politik/deutschland/news-des-tages-gewinneinbruch-bei-mercedes-waffen-in-remscheid-friedrich-merz-unter-druck-a-b8e5651e-2b08-4ffc-aa06-c5d4657a4766#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+### angenommen
 
-* [https://www.spiegel.de/ausland/huajiang-grand-canyon-bruecke-heiraten-und-huehnchen-essen-an-der-hoechsten-bruecke-der-welt](https://www.spiegel.de/ausland/huajiang-grand-canyon-bruecke-heiraten-und-huehnchen-essen-an-der-hoechsten-bruecke-der-welt-a-4eba6e2e-7b9d-4aa2-b91e-6dc19fd06183#ref=rss)
-### canyon
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gewinneinbruch-bei-mercedes-waffen-in-remscheid-friedrich-merz-unter-druck](https://www.spiegel.de/politik/deutschland/news-des-tages-gewinneinbruch-bei-mercedes-waffen-in-remscheid-friedrich-merz-unter-druck-a-b8e5651e-2b08-4ffc-aa06-c5d4657a4766#ref=rss)
+* [https://www.spiegel.de/panorama/rio-de-janeiro-mindestens-132-menschen-sterben-bei-polizeieinsatz](https://www.spiegel.de/panorama/rio-de-janeiro-mindestens-132-menschen-sterben-bei-polizeieinsatz-a-b753eb38-3475-4480-8b9e-59d91eebaf0c#ref=rss)
+### niederlanden
 
-* [https://www.spiegel.de/ausland/huajiang-grand-canyon-bruecke-heiraten-und-huehnchen-essen-an-der-hoechsten-bruecke-der-welt](https://www.spiegel.de/ausland/huajiang-grand-canyon-bruecke-heiraten-und-huehnchen-essen-an-der-hoechsten-bruecke-der-welt-a-4eba6e2e-7b9d-4aa2-b91e-6dc19fd06183#ref=rss)
-### welt
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast-a-3971b795-cda5-453b-8f7c-8422b9c53de3#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+### kurzen
 
-* [https://www.spiegel.de/ausland/huajiang-grand-canyon-bruecke-heiraten-und-huehnchen-essen-an-der-hoechsten-bruecke-der-welt](https://www.spiegel.de/ausland/huajiang-grand-canyon-bruecke-heiraten-und-huehnchen-essen-an-der-hoechsten-bruecke-der-welt-a-4eba6e2e-7b9d-4aa2-b91e-6dc19fd06183#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast-a-3971b795-cda5-453b-8f7c-8422b9c53de3#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+### chaotischen
+
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast-a-3971b795-cda5-453b-8f7c-8422b9c53de3#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+### regierungszeit
+
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast-a-3971b795-cda5-453b-8f7c-8422b9c53de3#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+### niederländer
+
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast-a-3971b795-cda5-453b-8f7c-8422b9c53de3#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+### parlament
+
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast-a-3971b795-cda5-453b-8f7c-8422b9c53de3#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+### neu
+
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast-a-3971b795-cda5-453b-8f7c-8422b9c53de3#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+### gewählt
+
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast-a-3971b795-cda5-453b-8f7c-8422b9c53de3#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+### rechtspopulist
+
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast-a-3971b795-cda5-453b-8f7c-8422b9c53de3#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast-a-3971b795-cda5-453b-8f7c-8422b9c53de3#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+### platzen
+
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast-a-3971b795-cda5-453b-8f7c-8422b9c53de3#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+### rächen
+
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-haben-sich-die-rechtspopulisten-von-geert-wilders-verzockt-podcast-a-3971b795-cda5-453b-8f7c-8422b9c53de3#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben](https://www.spiegel.de/ausland/wahl-in-den-niederlanden-wie-die-rechten-unter-geert-wilders-das-land-ins-chaos-gesteuert-haben-a-87aa995e-5d35-4756-acb4-7d09493dfe6e#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/bundesinstitut-fuer-bevoelkerungsforschung-warum-zufriedenheit-mit-dem-herkunftsland-zusammenhaengt](https://www.spiegel.de/panorama/gesellschaft/bundesinstitut-fuer-bevoelkerungsforschung-warum-zufriedenheit-mit-dem-herkunftsland-zusammenhaengt-a-2de6db76-c634-4a3e-9689-55e8f2c2d6b8#ref=rss)
+### römer
+
+* [https://www.spiegel.de/geschichte/umweltverschmutzung-in-der-antike-wie-die-roemer-die-natur-zerstoerten](https://www.spiegel.de/geschichte/umweltverschmutzung-in-der-antike-wie-die-roemer-die-natur-zerstoerten-a-fea9df7b-f231-4df6-b57e-641a258aff0e#ref=rss)
+### nrw
+
+* [https://www.spiegel.de/panorama/bildung/nrw-disziplinarverfahren-nach-tv-auftritten-kochender-lehrer-wird-zum-politikum](https://www.spiegel.de/panorama/bildung/nrw-disziplinarverfahren-nach-tv-auftritten-kochender-lehrer-wird-zum-politikum-a-1caeb96e-e79a-48ce-a910-9be5ddb8eb4b#ref=rss)
+### lehrer
+
+* [https://www.spiegel.de/panorama/bildung/nrw-disziplinarverfahren-nach-tv-auftritten-kochender-lehrer-wird-zum-politikum](https://www.spiegel.de/panorama/bildung/nrw-disziplinarverfahren-nach-tv-auftritten-kochender-lehrer-wird-zum-politikum-a-1caeb96e-e79a-48ce-a910-9be5ddb8eb4b#ref=rss)
+### rio
+
+* [https://www.spiegel.de/panorama/rio-de-janeiro-mindestens-132-menschen-sterben-bei-polizeieinsatz](https://www.spiegel.de/panorama/rio-de-janeiro-mindestens-132-menschen-sterben-bei-polizeieinsatz-a-b753eb38-3475-4480-8b9e-59d91eebaf0c#ref=rss)
+### de
+
+* [https://www.spiegel.de/panorama/rio-de-janeiro-mindestens-132-menschen-sterben-bei-polizeieinsatz](https://www.spiegel.de/panorama/rio-de-janeiro-mindestens-132-menschen-sterben-bei-polizeieinsatz-a-b753eb38-3475-4480-8b9e-59d91eebaf0c#ref=rss)
+### janeiro
+
+* [https://www.spiegel.de/panorama/rio-de-janeiro-mindestens-132-menschen-sterben-bei-polizeieinsatz](https://www.spiegel.de/panorama/rio-de-janeiro-mindestens-132-menschen-sterben-bei-polizeieinsatz-a-b753eb38-3475-4480-8b9e-59d91eebaf0c#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/rio-de-janeiro-mindestens-132-menschen-sterben-bei-polizeieinsatz](https://www.spiegel.de/panorama/rio-de-janeiro-mindestens-132-menschen-sterben-bei-polizeieinsatz-a-b753eb38-3475-4480-8b9e-59d91eebaf0c#ref=rss)
+* [https://www.spiegel.de/ausland/offenbar-mehr-als-460-menschen-in-sudanesischem-krankenhaus-von-milizionaeren-getoetet](https://www.spiegel.de/ausland/offenbar-mehr-als-460-menschen-in-sudanesischem-krankenhaus-von-milizionaeren-getoetet-a-c3558196-d44e-4b7b-b058-ed1f41184b42#ref=rss)
+### toten
+
+* [https://www.spiegel.de/panorama/rio-de-janeiro-mindestens-132-menschen-sterben-bei-polizeieinsatz](https://www.spiegel.de/panorama/rio-de-janeiro-mindestens-132-menschen-sterben-bei-polizeieinsatz-a-b753eb38-3475-4480-8b9e-59d91eebaf0c#ref=rss)
+* [https://www.spiegel.de/ausland/offenbar-mehr-als-460-menschen-in-sudanesischem-krankenhaus-von-milizionaeren-getoetet](https://www.spiegel.de/ausland/offenbar-mehr-als-460-menschen-in-sudanesischem-krankenhaus-von-milizionaeren-getoetet-a-c3558196-d44e-4b7b-b058-ed1f41184b42#ref=rss)
+### imam
+
+* [https://www.spiegel.de/politik/deutschland/fdp-spitze-kritisiert-dehler-preis-an-imam](https://www.spiegel.de/politik/deutschland/fdp-spitze-kritisiert-dehler-preis-an-imam-a-6ea7a01a-675a-496d-ae6c-47ff3715ecd2#ref=rss)
+### benjamin
+
+* [https://www.spiegel.de/politik/deutschland/fdp-spitze-kritisiert-dehler-preis-an-imam](https://www.spiegel.de/politik/deutschland/fdp-spitze-kritisiert-dehler-preis-an-imam-a-6ea7a01a-675a-496d-ae6c-47ff3715ecd2#ref=rss)
+### idriz
+
+* [https://www.spiegel.de/politik/deutschland/fdp-spitze-kritisiert-dehler-preis-an-imam](https://www.spiegel.de/politik/deutschland/fdp-spitze-kritisiert-dehler-preis-an-imam-a-6ea7a01a-675a-496d-ae6c-47ff3715ecd2#ref=rss)
+### 460
+
+* [https://www.spiegel.de/ausland/offenbar-mehr-als-460-menschen-in-sudanesischem-krankenhaus-von-milizionaeren-getoetet](https://www.spiegel.de/ausland/offenbar-mehr-als-460-menschen-in-sudanesischem-krankenhaus-von-milizionaeren-getoetet-a-c3558196-d44e-4b7b-b058-ed1f41184b42#ref=rss)
+### heinzchristian
+
+* [https://www.spiegel.de/ausland/oesterreich-ex-fpoe-chef-heinz-christian-strache-wegen-untreue-angeklagt](https://www.spiegel.de/ausland/oesterreich-ex-fpoe-chef-heinz-christian-strache-wegen-untreue-angeklagt-a-d643ba5b-406e-4fed-aa90-19252c57940c#ref=rss)
+### strache
+
+* [https://www.spiegel.de/ausland/oesterreich-ex-fpoe-chef-heinz-christian-strache-wegen-untreue-angeklagt](https://www.spiegel.de/ausland/oesterreich-ex-fpoe-chef-heinz-christian-strache-wegen-untreue-angeklagt-a-d643ba5b-406e-4fed-aa90-19252c57940c#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/oesterreich-ex-fpoe-chef-heinz-christian-strache-wegen-untreue-angeklagt](https://www.spiegel.de/ausland/oesterreich-ex-fpoe-chef-heinz-christian-strache-wegen-untreue-angeklagt-a-d643ba5b-406e-4fed-aa90-19252c57940c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/block-prozess-christina-block-aeussert-sich-zu-ihren-tagebuchnotizen](https://www.spiegel.de/panorama/justiz/block-prozess-christina-block-aeussert-sich-zu-ihren-tagebuchnotizen-a-406720ca-bebd-4ea8-9b55-e7c7f9975e7e#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/politik/deutschland/wahljahr-2026-afd-strebt-mit-west-ost-strategie-nach-wahlsieg](https://www.spiegel.de/politik/deutschland/wahljahr-2026-afd-strebt-mit-west-ost-strategie-nach-wahlsieg-a-d7236aee-861a-437d-a6dc-a037e6e907be#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/wahljahr-2026-afd-strebt-mit-west-ost-strategie-nach-wahlsieg](https://www.spiegel.de/politik/deutschland/wahljahr-2026-afd-strebt-mit-west-ost-strategie-nach-wahlsieg-a-d7236aee-861a-437d-a6dc-a037e6e907be#ref=rss)
+### westoststrategie
+
+* [https://www.spiegel.de/politik/deutschland/wahljahr-2026-afd-strebt-mit-west-ost-strategie-nach-wahlsieg](https://www.spiegel.de/politik/deutschland/wahljahr-2026-afd-strebt-mit-west-ost-strategie-nach-wahlsieg-a-d7236aee-861a-437d-a6dc-a037e6e907be#ref=rss)
+### arbeit
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/teures-schnitzel-die-wucherwirte-und-die-verantwortung-der-politik-kolumne](https://www.spiegel.de/wirtschaft/unternehmen/teures-schnitzel-die-wucherwirte-und-die-verantwortung-der-politik-kolumne-a-18d722bc-b37a-4a18-9861-5f50e11aa049#ref=rss)
+* [https://www.spiegel.de/familie/berufstaetige-muetter-weniger-arbeit-wenn-die-kinder-in-die-pubertaet-kommen](https://www.spiegel.de/familie/berufstaetige-muetter-weniger-arbeit-wenn-die-kinder-in-die-pubertaet-kommen-a-0aa0b785-f635-478f-b4f4-57c74c4cbbae#ref=rss)
+### 777x
+
+* [https://www.spiegel.de/wirtschaft/boeing-flugzeugbauer-muss-auslieferung-von-grossraumjet-777x-verschieben](https://www.spiegel.de/wirtschaft/boeing-flugzeugbauer-muss-auslieferung-von-grossraumjet-777x-verschieben-a-e9a51d08-bf66-46b3-8832-8ad5f499bf4f#ref=rss)
+### noah
+
+* [https://www.spiegel.de/sport/moto3-motorrad-pilot-noah-dettwiler-nach-unfall-offenbar-ausser-lebensgefahr](https://www.spiegel.de/sport/moto3-motorrad-pilot-noah-dettwiler-nach-unfall-offenbar-ausser-lebensgefahr-a-b530be8c-c136-463f-924f-1f2a43f6a922#ref=rss)
+### dettwiler
+
+* [https://www.spiegel.de/sport/moto3-motorrad-pilot-noah-dettwiler-nach-unfall-offenbar-ausser-lebensgefahr](https://www.spiegel.de/sport/moto3-motorrad-pilot-noah-dettwiler-nach-unfall-offenbar-ausser-lebensgefahr-a-b530be8c-c136-463f-924f-1f2a43f6a922#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/ausland/pakistan-und-afghanistan-beenden-friedensgespraeche-ohne-ergebnis](https://www.spiegel.de/ausland/pakistan-und-afghanistan-beenden-friedensgespraeche-ohne-ergebnis-a-90b18673-42d3-431e-9caa-23ee830f4b8e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zollstreit-mit-usa-suedkorea-verkuendet-handelsdeal-mit-donald-trump](https://www.spiegel.de/wirtschaft/zollstreit-mit-usa-suedkorea-verkuendet-handelsdeal-mit-donald-trump-a-96212374-1232-4cc3-b887-3e7ef621b197#ref=rss)
+### supermärkte
+
+* [https://www.spiegel.de/wirtschaft/service/butter-preise-sinken-supermaerkte-und-discounter-unterbieten-sich-gegenseitig](https://www.spiegel.de/wirtschaft/service/butter-preise-sinken-supermaerkte-und-discounter-unterbieten-sich-gegenseitig-a-c1432229-8242-4c6f-8493-4f478436ca27#ref=rss)
+### discounter
+
+* [https://www.spiegel.de/wirtschaft/service/butter-preise-sinken-supermaerkte-und-discounter-unterbieten-sich-gegenseitig](https://www.spiegel.de/wirtschaft/service/butter-preise-sinken-supermaerkte-und-discounter-unterbieten-sich-gegenseitig-a-c1432229-8242-4c6f-8493-4f478436ca27#ref=rss)
+### unterbieten
+
+* [https://www.spiegel.de/wirtschaft/service/butter-preise-sinken-supermaerkte-und-discounter-unterbieten-sich-gegenseitig](https://www.spiegel.de/wirtschaft/service/butter-preise-sinken-supermaerkte-und-discounter-unterbieten-sich-gegenseitig-a-c1432229-8242-4c6f-8493-4f478436ca27#ref=rss)
+### gegenseitig
+
+* [https://www.spiegel.de/wirtschaft/service/butter-preise-sinken-supermaerkte-und-discounter-unterbieten-sich-gegenseitig](https://www.spiegel.de/wirtschaft/service/butter-preise-sinken-supermaerkte-und-discounter-unterbieten-sich-gegenseitig-a-c1432229-8242-4c6f-8493-4f478436ca27#ref=rss)
+### waren
+
+* [https://www.spiegel.de/wirtschaft/service/butter-preise-sinken-supermaerkte-und-discounter-unterbieten-sich-gegenseitig](https://www.spiegel.de/wirtschaft/service/butter-preise-sinken-supermaerkte-und-discounter-unterbieten-sich-gegenseitig-a-c1432229-8242-4c6f-8493-4f478436ca27#ref=rss)
+* [https://www.spiegel.de/familie/berufstaetige-muetter-weniger-arbeit-wenn-die-kinder-in-die-pubertaet-kommen](https://www.spiegel.de/familie/berufstaetige-muetter-weniger-arbeit-wenn-die-kinder-in-die-pubertaet-kommen-a-0aa0b785-f635-478f-b4f4-57c74c4cbbae#ref=rss)
+### xi
+
+* [https://www.spiegel.de/ausland/usa-china-gipfel-wenn-donald-trump-und-xi-jinping-reden-wird-taiwan-nervoes](https://www.spiegel.de/ausland/usa-china-gipfel-wenn-donald-trump-und-xi-jinping-reden-wird-taiwan-nervoes-a-431e0f94-6150-4ca1-81a5-7459825aad45#ref=rss)
+### jinping
+
+* [https://www.spiegel.de/ausland/usa-china-gipfel-wenn-donald-trump-und-xi-jinping-reden-wird-taiwan-nervoes](https://www.spiegel.de/ausland/usa-china-gipfel-wenn-donald-trump-und-xi-jinping-reden-wird-taiwan-nervoes-a-431e0f94-6150-4ca1-81a5-7459825aad45#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/ausland/usa-china-gipfel-wenn-donald-trump-und-xi-jinping-reden-wird-taiwan-nervoes](https://www.spiegel.de/ausland/usa-china-gipfel-wenn-donald-trump-und-xi-jinping-reden-wird-taiwan-nervoes-a-431e0f94-6150-4ca1-81a5-7459825aad45#ref=rss)
+### handelsdeal
+
+* [https://www.spiegel.de/ausland/usa-china-gipfel-wenn-donald-trump-und-xi-jinping-reden-wird-taiwan-nervoes](https://www.spiegel.de/ausland/usa-china-gipfel-wenn-donald-trump-und-xi-jinping-reden-wird-taiwan-nervoes-a-431e0f94-6150-4ca1-81a5-7459825aad45#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zollstreit-mit-usa-suedkorea-verkuendet-handelsdeal-mit-donald-trump](https://www.spiegel.de/wirtschaft/zollstreit-mit-usa-suedkorea-verkuendet-handelsdeal-mit-donald-trump-a-96212374-1232-4cc3-b887-3e7ef621b197#ref=rss)
+### nvidia
+
+* [https://www.spiegel.de/wirtschaft/nvidia-ist-als-erste-firma-mehr-als-fuenf-billionen-dollar-wert](https://www.spiegel.de/wirtschaft/nvidia-ist-als-erste-firma-mehr-als-fuenf-billionen-dollar-wert-a-d1edfa3c-ae2c-4dac-a269-bb5f439c0754#ref=rss)
+### firma
+
+* [https://www.spiegel.de/wirtschaft/nvidia-ist-als-erste-firma-mehr-als-fuenf-billionen-dollar-wert](https://www.spiegel.de/wirtschaft/nvidia-ist-als-erste-firma-mehr-als-fuenf-billionen-dollar-wert-a-d1edfa3c-ae2c-4dac-a269-bb5f439c0754#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/wirtschaft/nvidia-ist-als-erste-firma-mehr-als-fuenf-billionen-dollar-wert](https://www.spiegel.de/wirtschaft/nvidia-ist-als-erste-firma-mehr-als-fuenf-billionen-dollar-wert-a-d1edfa3c-ae2c-4dac-a269-bb5f439c0754#ref=rss)
+### billionen
+
+* [https://www.spiegel.de/wirtschaft/nvidia-ist-als-erste-firma-mehr-als-fuenf-billionen-dollar-wert](https://www.spiegel.de/wirtschaft/nvidia-ist-als-erste-firma-mehr-als-fuenf-billionen-dollar-wert-a-d1edfa3c-ae2c-4dac-a269-bb5f439c0754#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/wirtschaft/nvidia-ist-als-erste-firma-mehr-als-fuenf-billionen-dollar-wert](https://www.spiegel.de/wirtschaft/nvidia-ist-als-erste-firma-mehr-als-fuenf-billionen-dollar-wert-a-d1edfa3c-ae2c-4dac-a269-bb5f439c0754#ref=rss)
+### christina
+
+* [https://www.spiegel.de/panorama/justiz/block-prozess-christina-block-aeussert-sich-zu-ihren-tagebuchnotizen](https://www.spiegel.de/panorama/justiz/block-prozess-christina-block-aeussert-sich-zu-ihren-tagebuchnotizen-a-406720ca-bebd-4ea8-9b55-e7c7f9975e7e#ref=rss)
+### block
+
+* [https://www.spiegel.de/panorama/justiz/block-prozess-christina-block-aeussert-sich-zu-ihren-tagebuchnotizen](https://www.spiegel.de/panorama/justiz/block-prozess-christina-block-aeussert-sich-zu-ihren-tagebuchnotizen-a-406720ca-bebd-4ea8-9b55-e7c7f9975e7e#ref=rss)
+### sachsenanhalt
+
+* [https://www.spiegel.de/politik/deutschland/cdu-sachsen-anhalt-partei-irritiert-mit-maenner-dominierter-aufstellung-zur-landtagswahl-2026](https://www.spiegel.de/politik/deutschland/cdu-sachsen-anhalt-partei-irritiert-mit-maenner-dominierter-aufstellung-zur-landtagswahl-2026-a-14c9169a-a1bc-4e31-b0af-cfacfc94a080#ref=rss)
+### frau
+
+* [https://www.spiegel.de/politik/deutschland/cdu-sachsen-anhalt-partei-irritiert-mit-maenner-dominierter-aufstellung-zur-landtagswahl-2026](https://www.spiegel.de/politik/deutschland/cdu-sachsen-anhalt-partei-irritiert-mit-maenner-dominierter-aufstellung-zur-landtagswahl-2026-a-14c9169a-a1bc-4e31-b0af-cfacfc94a080#ref=rss)
+### südkorea
+
+* [https://www.spiegel.de/wirtschaft/zollstreit-mit-usa-suedkorea-verkuendet-handelsdeal-mit-donald-trump](https://www.spiegel.de/wirtschaft/zollstreit-mit-usa-suedkorea-verkuendet-handelsdeal-mit-donald-trump-a-96212374-1232-4cc3-b887-3e7ef621b197#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### sahra
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-was-will-die-bsw-politikerin](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-was-will-die-bsw-politikerin-a-d1e98cbe-233e-4f3b-9446-45b2663ff6e3#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-was-will-die-bsw-politikerin](https://www.spiegel.de/politik/deutschland/sahra-wagenknecht-was-will-die-bsw-politikerin-a-d1e98cbe-233e-4f3b-9446-45b2663ff6e3#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/panorama/gesellschaft/bundesinstitut-fuer-bevoelkerungsforschung-warum-zufriedenheit-mit-dem-herkunftsland-zusammenhaengt](https://www.spiegel.de/panorama/gesellschaft/bundesinstitut-fuer-bevoelkerungsforschung-warum-zufriedenheit-mit-dem-herkunftsland-zusammenhaengt-a-2de6db76-c634-4a3e-9689-55e8f2c2d6b8#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/familie/berufstaetige-muetter-weniger-arbeit-wenn-die-kinder-in-die-pubertaet-kommen](https://www.spiegel.de/familie/berufstaetige-muetter-weniger-arbeit-wenn-die-kinder-in-die-pubertaet-kommen-a-0aa0b785-f635-478f-b4f4-57c74c4cbbae#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stadtbild-debatte-kriminologin-rita-haverkamp-ueber-das-unsicherheitsgefuehl-an-bahnhoefen](https://www.spiegel.de/panorama/justiz/stadtbild-debatte-kriminologin-rita-haverkamp-ueber-das-unsicherheitsgefuehl-an-bahnhoefen-a-7c7fef14-c9d9-4d59-af28-87dc9a14563e#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/familie/berufstaetige-muetter-weniger-arbeit-wenn-die-kinder-in-die-pubertaet-kommen](https://www.spiegel.de/familie/berufstaetige-muetter-weniger-arbeit-wenn-die-kinder-in-die-pubertaet-kommen-a-0aa0b785-f635-478f-b4f4-57c74c4cbbae#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/familie/berufstaetige-muetter-weniger-arbeit-wenn-die-kinder-in-die-pubertaet-kommen](https://www.spiegel.de/familie/berufstaetige-muetter-weniger-arbeit-wenn-die-kinder-in-die-pubertaet-kommen-a-0aa0b785-f635-478f-b4f4-57c74c4cbbae#ref=rss)
 
