@@ -4,380 +4,410 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
-
-* [https://www.spiegel.de/auto/elektroauto-klimabilanz-studie-zeigt-co-vorteil-nach-zwei-jahren-nutzung](https://www.spiegel.de/auto/elektroauto-klimabilanz-studie-zeigt-co-vorteil-nach-zwei-jahren-nutzung-a-b6a1bb20-689b-456a-b5c5-fdb435859e77#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-belgien-blockiert-finanzhilfen-treffen-mit-nato-chef-rutte](https://www.spiegel.de/politik/deutschland/ukraine-belgien-blockiert-finanzhilfen-treffen-mit-nato-chef-rutte-a-13df2462-c4d0-4779-ba5d-37caab61fa02#ref=rss)
-* [https://www.spiegel.de/netzwelt/internationaler-strafgerichtshof-wechsel-zu-deutschem-officepaket-nach-us-sanktionen](https://www.spiegel.de/netzwelt/internationaler-strafgerichtshof-wechsel-zu-deutschem-officepaket-nach-us-sanktionen-a-6ddfddcd-8871-4955-898a-2a325ae7fe06#ref=rss)
-* [https://www.spiegel.de/ausland/usa-trump-zufrieden-mit-xi-treffen-trotz-turbulentem-rueckflug](https://www.spiegel.de/ausland/usa-trump-zufrieden-mit-xi-treffen-trotz-turbulentem-rueckflug-a-73a551a8-b62e-4734-9fff-ccc9216e55ad#ref=rss)
-* [https://www.spiegel.de/ausland/usa-nationalgarde-plant-offenbar-schnelle-eingreiftruppe-fuer-unruhen](https://www.spiegel.de/ausland/usa-nationalgarde-plant-offenbar-schnelle-eingreiftruppe-fuer-unruhen-a-099bcc1b-15a0-4a71-99dd-9816b3708477#ref=rss)
-* [https://www.spiegel.de/wirtschaft/seltene-erden-usa-wie-donald-trump-die-europaeer-im-rohstoff-rennen-abhaengt](https://www.spiegel.de/wirtschaft/seltene-erden-usa-wie-donald-trump-die-europaeer-im-rohstoff-rennen-abhaengt-a-0ed0027a-f1fb-4c23-9dcc-12cca8d41809#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-trifft-xi-jinping-fuenf-lehren-aus-dem-gipfel-der-supermaechte-usa-und-china](https://www.spiegel.de/ausland/donald-trump-trifft-xi-jinping-fuenf-lehren-aus-dem-gipfel-der-supermaechte-usa-und-china-a-5fd89ae3-2f3f-4f46-b859-0a5ba10090ce#ref=rss)
-* [https://www.spiegel.de/wirtschaft/alphabet-microsoft-meta-geschaefte-der-us-techfirmen-florieren-dank-ki](https://www.spiegel.de/wirtschaft/alphabet-microsoft-meta-geschaefte-der-us-techfirmen-florieren-dank-ki-a-add9d2fe-6789-484e-93b5-bf54801d68e4#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/auto/elektroauto-klimabilanz-studie-zeigt-co-vorteil-nach-zwei-jahren-nutzung](https://www.spiegel.de/auto/elektroauto-klimabilanz-studie-zeigt-co-vorteil-nach-zwei-jahren-nutzung-a-b6a1bb20-689b-456a-b5c5-fdb435859e77#ref=rss)
-* [https://www.spiegel.de/netzwelt/internationaler-strafgerichtshof-wechsel-zu-deutschem-officepaket-nach-us-sanktionen](https://www.spiegel.de/netzwelt/internationaler-strafgerichtshof-wechsel-zu-deutschem-officepaket-nach-us-sanktionen-a-6ddfddcd-8871-4955-898a-2a325ae7fe06#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-gouverneur-unter-druck-nach-toedlicher-spezialoperation](https://www.spiegel.de/ausland/brasilien-gouverneur-unter-druck-nach-toedlicher-spezialoperation-a-3befe78b-638c-4f3e-a2eb-3f21e4fa56c3#ref=rss)
-* [https://www.spiegel.de/ausland/usa-nationalgarde-plant-offenbar-schnelle-eingreiftruppe-fuer-unruhen](https://www.spiegel.de/ausland/usa-nationalgarde-plant-offenbar-schnelle-eingreiftruppe-fuer-unruhen-a-099bcc1b-15a0-4a71-99dd-9816b3708477#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-arne-slot-nach-sechster-niederlage-unter-druck](https://www.spiegel.de/sport/fussball/fc-liverpool-arne-slot-nach-sechster-niederlage-unter-druck-a-22b76997-8ff3-4a73-ad6a-e8281ad8f439#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-gewinnt-beim-1-fc-koeln-im-dfb-pokal-die-kachelmeister](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-gewinnt-beim-1-fc-koeln-im-dfb-pokal-die-kachelmeister-a-348f73ae-a1c1-4382-a784-520ffbd4c351#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/usa-trump-zufrieden-mit-xi-treffen-trotz-turbulentem-rueckflug](https://www.spiegel.de/ausland/usa-trump-zufrieden-mit-xi-treffen-trotz-turbulentem-rueckflug-a-73a551a8-b62e-4734-9fff-ccc9216e55ad#ref=rss)
-* [https://www.spiegel.de/wirtschaft/seltene-erden-usa-wie-donald-trump-die-europaeer-im-rohstoff-rennen-abhaengt](https://www.spiegel.de/wirtschaft/seltene-erden-usa-wie-donald-trump-die-europaeer-im-rohstoff-rennen-abhaengt-a-0ed0027a-f1fb-4c23-9dcc-12cca8d41809#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-trifft-xi-jinping-fuenf-lehren-aus-dem-gipfel-der-supermaechte-usa-und-china](https://www.spiegel.de/ausland/donald-trump-trifft-xi-jinping-fuenf-lehren-aus-dem-gipfel-der-supermaechte-usa-und-china-a-5fd89ae3-2f3f-4f46-b859-0a5ba10090ce#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/bildung/aengste-depressionen-essstoerungen-schueler-erstellen-10-punkte-plan-fuer-mentale-gesundheit](https://www.spiegel.de/panorama/bildung/aengste-depressionen-essstoerungen-schueler-erstellen-10-punkte-plan-fuer-mentale-gesundheit-a-b8195a06-f535-4955-8332-2eced1d2353a#ref=rss)
-* [https://www.spiegel.de/ausland/marokko-klagt-nach-protestwelle-2480-menschen-an](https://www.spiegel.de/ausland/marokko-klagt-nach-protestwelle-2480-menschen-an-a-ba342587-6ad5-4a63-bcfb-331d902ab189#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-gouverneur-unter-druck-nach-toedlicher-spezialoperation](https://www.spiegel.de/ausland/brasilien-gouverneur-unter-druck-nach-toedlicher-spezialoperation-a-3befe78b-638c-4f3e-a2eb-3f21e4fa56c3#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/bildung/aengste-depressionen-essstoerungen-schueler-erstellen-10-punkte-plan-fuer-mentale-gesundheit](https://www.spiegel.de/panorama/bildung/aengste-depressionen-essstoerungen-schueler-erstellen-10-punkte-plan-fuer-mentale-gesundheit-a-b8195a06-f535-4955-8332-2eced1d2353a#ref=rss)
-* [https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren](https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren-a-c5c5e7fe-d609-4716-a532-cddc2ac66039#ref=rss)
-* [https://www.spiegel.de/ausland/usa-nationalgarde-plant-offenbar-schnelle-eingreiftruppe-fuer-unruhen](https://www.spiegel.de/ausland/usa-nationalgarde-plant-offenbar-schnelle-eingreiftruppe-fuer-unruhen-a-099bcc1b-15a0-4a71-99dd-9816b3708477#ref=rss)
-* [https://www.spiegel.de/wirtschaft/openai-bereitet-offenbar-boersengang-vor-bewertung-von-bis-zu-einer-billion-dollar](https://www.spiegel.de/wirtschaft/openai-bereitet-offenbar-boersengang-vor-bewertung-von-bis-zu-einer-billion-dollar-a-a9efa4a6-661f-4092-a948-2ec12f0fec6a#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren](https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren-a-c5c5e7fe-d609-4716-a532-cddc2ac66039#ref=rss)
-* [https://www.spiegel.de/ausland/usa-nationalgarde-plant-offenbar-schnelle-eingreiftruppe-fuer-unruhen](https://www.spiegel.de/ausland/usa-nationalgarde-plant-offenbar-schnelle-eingreiftruppe-fuer-unruhen-a-099bcc1b-15a0-4a71-99dd-9816b3708477#ref=rss)
-* [https://www.spiegel.de/wirtschaft/seltene-erden-usa-wie-donald-trump-die-europaeer-im-rohstoff-rennen-abhaengt](https://www.spiegel.de/wirtschaft/seltene-erden-usa-wie-donald-trump-die-europaeer-im-rohstoff-rennen-abhaengt-a-0ed0027a-f1fb-4c23-9dcc-12cca8d41809#ref=rss)
-* [https://www.spiegel.de/wirtschaft/openai-bereitet-offenbar-boersengang-vor-bewertung-von-bis-zu-einer-billion-dollar](https://www.spiegel.de/wirtschaft/openai-bereitet-offenbar-boersengang-vor-bewertung-von-bis-zu-einer-billion-dollar-a-a9efa4a6-661f-4092-a948-2ec12f0fec6a#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/justiz/spionage-in-deutschland-sechs-jahre-haft-fuer-russische-sabotageplaene-in-deutschland](https://www.spiegel.de/panorama/justiz/spionage-in-deutschland-sechs-jahre-haft-fuer-russische-sabotageplaene-in-deutschland-a-45dcff25-3192-47cb-9d3f-4a35c697c7b5#ref=rss)
-* [https://www.spiegel.de/netzwelt/internationaler-strafgerichtshof-wechsel-zu-deutschem-officepaket-nach-us-sanktionen](https://www.spiegel.de/netzwelt/internationaler-strafgerichtshof-wechsel-zu-deutschem-officepaket-nach-us-sanktionen-a-6ddfddcd-8871-4955-898a-2a325ae7fe06#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-stagniert-arbeitslosenzahlen-sinken-nur-leicht](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-stagniert-arbeitslosenzahlen-sinken-nur-leicht-a-59e76d16-bb9e-4952-ba22-b3b33a76bacc#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/bildung/aengste-depressionen-essstoerungen-schueler-erstellen-10-punkte-plan-fuer-mentale-gesundheit](https://www.spiegel.de/panorama/bildung/aengste-depressionen-essstoerungen-schueler-erstellen-10-punkte-plan-fuer-mentale-gesundheit-a-b8195a06-f535-4955-8332-2eced1d2353a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-arne-slot-nach-sechster-niederlage-unter-druck](https://www.spiegel.de/sport/fussball/fc-liverpool-arne-slot-nach-sechster-niederlage-unter-druck-a-22b76997-8ff3-4a73-ad6a-e8281ad8f439#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-gouverneur-unter-druck-nach-toedlicher-spezialoperation](https://www.spiegel.de/ausland/brasilien-gouverneur-unter-druck-nach-toedlicher-spezialoperation-a-3befe78b-638c-4f3e-a2eb-3f21e4fa56c3#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/panorama/bildung/aengste-depressionen-essstoerungen-schueler-erstellen-10-punkte-plan-fuer-mentale-gesundheit](https://www.spiegel.de/panorama/bildung/aengste-depressionen-essstoerungen-schueler-erstellen-10-punkte-plan-fuer-mentale-gesundheit-a-b8195a06-f535-4955-8332-2eced1d2353a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-stagniert-arbeitslosenzahlen-sinken-nur-leicht](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-stagniert-arbeitslosenzahlen-sinken-nur-leicht-a-59e76d16-bb9e-4952-ba22-b3b33a76bacc#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/auto/elektroauto-klimabilanz-studie-zeigt-co-vorteil-nach-zwei-jahren-nutzung](https://www.spiegel.de/auto/elektroauto-klimabilanz-studie-zeigt-co-vorteil-nach-zwei-jahren-nutzung-a-b6a1bb20-689b-456a-b5c5-fdb435859e77#ref=rss)
-* [https://www.spiegel.de/ausland/marokko-klagt-nach-protestwelle-2480-menschen-an](https://www.spiegel.de/ausland/marokko-klagt-nach-protestwelle-2480-menschen-an-a-ba342587-6ad5-4a63-bcfb-331d902ab189#ref=rss)
-### beiden
-
-* [https://www.spiegel.de/auto/elektroauto-klimabilanz-studie-zeigt-co-vorteil-nach-zwei-jahren-nutzung](https://www.spiegel.de/auto/elektroauto-klimabilanz-studie-zeigt-co-vorteil-nach-zwei-jahren-nutzung-a-b6a1bb20-689b-456a-b5c5-fdb435859e77#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/spionage-in-deutschland-sechs-jahre-haft-fuer-russische-sabotageplaene-in-deutschland](https://www.spiegel.de/panorama/justiz/spionage-in-deutschland-sechs-jahre-haft-fuer-russische-sabotageplaene-in-deutschland-a-45dcff25-3192-47cb-9d3f-4a35c697c7b5#ref=rss)
-* [https://www.spiegel.de/ausland/usa-trump-zufrieden-mit-xi-treffen-trotz-turbulentem-rueckflug](https://www.spiegel.de/ausland/usa-trump-zufrieden-mit-xi-treffen-trotz-turbulentem-rueckflug-a-73a551a8-b62e-4734-9fff-ccc9216e55ad#ref=rss)
-### fast
-
-* [https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren](https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren-a-c5c5e7fe-d609-4716-a532-cddc2ac66039#ref=rss)
-* [https://www.spiegel.de/wirtschaft/alphabet-microsoft-meta-geschaefte-der-us-techfirmen-florieren-dank-ki](https://www.spiegel.de/wirtschaft/alphabet-microsoft-meta-geschaefte-der-us-techfirmen-florieren-dank-ki-a-add9d2fe-6789-484e-93b5-bf54801d68e4#ref=rss)
-### jede
-
-* [https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren](https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren-a-c5c5e7fe-d609-4716-a532-cddc2ac66039#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/louvre-einbruch-fuenf-neue-verdaechtige-festgenommen](https://www.spiegel.de/panorama/justiz/louvre-einbruch-fuenf-neue-verdaechtige-festgenommen-a-729af177-bf07-4178-a221-2f2447ed4ff8#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-belgien-blockiert-finanzhilfen-treffen-mit-nato-chef-rutte](https://www.spiegel.de/politik/deutschland/ukraine-belgien-blockiert-finanzhilfen-treffen-mit-nato-chef-rutte-a-13df2462-c4d0-4779-ba5d-37caab61fa02#ref=rss)
-* [https://www.spiegel.de/ausland/usa-trump-zufrieden-mit-xi-treffen-trotz-turbulentem-rueckflug](https://www.spiegel.de/ausland/usa-trump-zufrieden-mit-xi-treffen-trotz-turbulentem-rueckflug-a-73a551a8-b62e-4734-9fff-ccc9216e55ad#ref=rss)
-### china
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-belgien-blockiert-finanzhilfen-treffen-mit-nato-chef-rutte](https://www.spiegel.de/politik/deutschland/ukraine-belgien-blockiert-finanzhilfen-treffen-mit-nato-chef-rutte-a-13df2462-c4d0-4779-ba5d-37caab61fa02#ref=rss)
-* [https://www.spiegel.de/wirtschaft/seltene-erden-usa-wie-donald-trump-die-europaeer-im-rohstoff-rennen-abhaengt](https://www.spiegel.de/wirtschaft/seltene-erden-usa-wie-donald-trump-die-europaeer-im-rohstoff-rennen-abhaengt-a-0ed0027a-f1fb-4c23-9dcc-12cca8d41809#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-trifft-xi-jinping-fuenf-lehren-aus-dem-gipfel-der-supermaechte-usa-und-china](https://www.spiegel.de/ausland/donald-trump-trifft-xi-jinping-fuenf-lehren-aus-dem-gipfel-der-supermaechte-usa-und-china-a-5fd89ae3-2f3f-4f46-b859-0a5ba10090ce#ref=rss)
-### karin
-
-* [https://www.spiegel.de/panorama/bildung/karin-prien-lehrkraefte-sind-nie-neutral-klare-haltung-gegen-extremismus](https://www.spiegel.de/panorama/bildung/karin-prien-lehrkraefte-sind-nie-neutral-klare-haltung-gegen-extremismus-a-1f356739-b759-4e99-9ac8-6c0f131a0b8c#ref=rss)
-* [https://www.spiegel.de/kultur/musik/eurovision-song-contest-karin-prien-faende-esc-ausschluss-israels-grundfalsch](https://www.spiegel.de/kultur/musik/eurovision-song-contest-karin-prien-faende-esc-ausschluss-israels-grundfalsch-a-973c67b5-9cbd-4bbd-9148-5327d398ee9e#ref=rss)
-### prien
-
-* [https://www.spiegel.de/panorama/bildung/karin-prien-lehrkraefte-sind-nie-neutral-klare-haltung-gegen-extremismus](https://www.spiegel.de/panorama/bildung/karin-prien-lehrkraefte-sind-nie-neutral-klare-haltung-gegen-extremismus-a-1f356739-b759-4e99-9ac8-6c0f131a0b8c#ref=rss)
-* [https://www.spiegel.de/kultur/musik/eurovision-song-contest-karin-prien-faende-esc-ausschluss-israels-grundfalsch](https://www.spiegel.de/kultur/musik/eurovision-song-contest-karin-prien-faende-esc-ausschluss-israels-grundfalsch-a-973c67b5-9cbd-4bbd-9148-5327d398ee9e#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-gewinnt-beim-1-fc-koeln-im-dfb-pokal-die-kachelmeister](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-gewinnt-beim-1-fc-koeln-im-dfb-pokal-die-kachelmeister-a-348f73ae-a1c1-4382-a784-520ffbd4c351#ref=rss)
-* [https://www.spiegel.de/sport/fussball/videobeweis-dfb-pokal-ohne-var-grosse-vereine-profitieren-von-fehlender-technik](https://www.spiegel.de/sport/fussball/videobeweis-dfb-pokal-ohne-var-grosse-vereine-profitieren-von-fehlender-technik-a-00f77a76-243a-4aa6-a822-9e2944bd5271#ref=rss)
-### verdächtige
-
-* [https://www.spiegel.de/panorama/justiz/nauen-in-brandenburg-polizei-hebt-drogenlabor-aus](https://www.spiegel.de/panorama/justiz/nauen-in-brandenburg-polizei-hebt-drogenlabor-aus-a-43155351-ef4e-4dcc-8541-b2ebc3577771#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/louvre-einbruch-fuenf-neue-verdaechtige-festgenommen](https://www.spiegel.de/panorama/justiz/louvre-einbruch-fuenf-neue-verdaechtige-festgenommen-a-729af177-bf07-4178-a221-2f2447ed4ff8#ref=rss)
-### xi
-
-* [https://www.spiegel.de/ausland/usa-trump-zufrieden-mit-xi-treffen-trotz-turbulentem-rueckflug](https://www.spiegel.de/ausland/usa-trump-zufrieden-mit-xi-treffen-trotz-turbulentem-rueckflug-a-73a551a8-b62e-4734-9fff-ccc9216e55ad#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-trifft-xi-jinping-fuenf-lehren-aus-dem-gipfel-der-supermaechte-usa-und-china](https://www.spiegel.de/ausland/donald-trump-trifft-xi-jinping-fuenf-lehren-aus-dem-gipfel-der-supermaechte-usa-und-china-a-5fd89ae3-2f3f-4f46-b859-0a5ba10090ce#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/ausland/donald-trump-trifft-xi-jinping-fuenf-lehren-aus-dem-gipfel-der-supermaechte-usa-und-china](https://www.spiegel.de/ausland/donald-trump-trifft-xi-jinping-fuenf-lehren-aus-dem-gipfel-der-supermaechte-usa-und-china-a-5fd89ae3-2f3f-4f46-b859-0a5ba10090ce#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/louvre-einbruch-fuenf-neue-verdaechtige-festgenommen](https://www.spiegel.de/panorama/justiz/louvre-einbruch-fuenf-neue-verdaechtige-festgenommen-a-729af177-bf07-4178-a221-2f2447ed4ff8#ref=rss)
-### gesundheit
-
-* [https://www.spiegel.de/panorama/bildung/aengste-depressionen-essstoerungen-schueler-erstellen-10-punkte-plan-fuer-mentale-gesundheit](https://www.spiegel.de/panorama/bildung/aengste-depressionen-essstoerungen-schueler-erstellen-10-punkte-plan-fuer-mentale-gesundheit-a-b8195a06-f535-4955-8332-2eced1d2353a#ref=rss)
-### jungen
-
-* [https://www.spiegel.de/panorama/bildung/aengste-depressionen-essstoerungen-schueler-erstellen-10-punkte-plan-fuer-mentale-gesundheit](https://www.spiegel.de/panorama/bildung/aengste-depressionen-essstoerungen-schueler-erstellen-10-punkte-plan-fuer-mentale-gesundheit-a-b8195a06-f535-4955-8332-2eced1d2353a#ref=rss)
-* [https://www.spiegel.de/ausland/marokko-klagt-nach-protestwelle-2480-menschen-an](https://www.spiegel.de/ausland/marokko-klagt-nach-protestwelle-2480-menschen-an-a-ba342587-6ad5-4a63-bcfb-331d902ab189#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/auto/elektroauto-klimabilanz-studie-zeigt-co-vorteil-nach-zwei-jahren-nutzung](https://www.spiegel.de/auto/elektroauto-klimabilanz-studie-zeigt-co-vorteil-nach-zwei-jahren-nutzung-a-b6a1bb20-689b-456a-b5c5-fdb435859e77#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nauen-in-brandenburg-polizei-hebt-drogenlabor-aus](https://www.spiegel.de/panorama/justiz/nauen-in-brandenburg-polizei-hebt-drogenlabor-aus-a-43155351-ef4e-4dcc-8541-b2ebc3577771#ref=rss)
-### hebamme
-
-* [https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren](https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren-a-c5c5e7fe-d609-4716-a532-cddc2ac66039#ref=rss)
-### zweite
-
-* [https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren](https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren-a-c5c5e7fe-d609-4716-a532-cddc2ac66039#ref=rss)
-### denkt
-
-* [https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren](https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren-a-c5c5e7fe-d609-4716-a532-cddc2ac66039#ref=rss)
-### ans
-
-* [https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren](https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren-a-c5c5e7fe-d609-4716-a532-cddc2ac66039#ref=rss)
-### aufhören
-
-* [https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren](https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren-a-c5c5e7fe-d609-4716-a532-cddc2ac66039#ref=rss)
-### job
-
-* [https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren](https://www.spiegel.de/karriere/hebamme-ueber-berufsaussichten-fast-jede-zweite-denkt-ans-aufhoeren-a-c5c5e7fe-d609-4716-a532-cddc2ac66039#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mindestlohn-und-buergergeld-arbeit-lohnt-sich-immer-theoretisch](https://www.spiegel.de/wirtschaft/mindestlohn-und-buergergeld-arbeit-lohnt-sich-immer-theoretisch-a-84d142b7-8ee4-49bf-9733-2f48e6b66489#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-belgien-blockiert-finanzhilfen-treffen-mit-nato-chef-rutte](https://www.spiegel.de/politik/deutschland/ukraine-belgien-blockiert-finanzhilfen-treffen-mit-nato-chef-rutte-a-13df2462-c4d0-4779-ba5d-37caab61fa02#ref=rss)
-### belgien
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-belgien-blockiert-finanzhilfen-treffen-mit-nato-chef-rutte](https://www.spiegel.de/politik/deutschland/ukraine-belgien-blockiert-finanzhilfen-treffen-mit-nato-chef-rutte-a-13df2462-c4d0-4779-ba5d-37caab61fa02#ref=rss)
-### finanzhilfen
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-belgien-blockiert-finanzhilfen-treffen-mit-nato-chef-rutte](https://www.spiegel.de/politik/deutschland/ukraine-belgien-blockiert-finanzhilfen-treffen-mit-nato-chef-rutte-a-13df2462-c4d0-4779-ba5d-37caab61fa02#ref=rss)
-### derzeit
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-belgien-blockiert-finanzhilfen-treffen-mit-nato-chef-rutte](https://www.spiegel.de/politik/deutschland/ukraine-belgien-blockiert-finanzhilfen-treffen-mit-nato-chef-rutte-a-13df2462-c4d0-4779-ba5d-37caab61fa02#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-gewinnt-beim-1-fc-koeln-im-dfb-pokal-die-kachelmeister](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-gewinnt-beim-1-fc-koeln-im-dfb-pokal-die-kachelmeister-a-348f73ae-a1c1-4382-a784-520ffbd4c351#ref=rss)
-### verhältnis
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-belgien-blockiert-finanzhilfen-treffen-mit-nato-chef-rutte](https://www.spiegel.de/politik/deutschland/ukraine-belgien-blockiert-finanzhilfen-treffen-mit-nato-chef-rutte-a-13df2462-c4d0-4779-ba5d-37caab61fa02#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-trifft-xi-jinping-fuenf-lehren-aus-dem-gipfel-der-supermaechte-usa-und-china](https://www.spiegel.de/ausland/donald-trump-trifft-xi-jinping-fuenf-lehren-aus-dem-gipfel-der-supermaechte-usa-und-china-a-5fd89ae3-2f3f-4f46-b859-0a5ba10090ce#ref=rss)
-### marokko
-
-* [https://www.spiegel.de/ausland/marokko-klagt-nach-protestwelle-2480-menschen-an](https://www.spiegel.de/ausland/marokko-klagt-nach-protestwelle-2480-menschen-an-a-ba342587-6ad5-4a63-bcfb-331d902ab189#ref=rss)
-### wilders
-
-* [https://www.spiegel.de/ausland/niederlande-nein-geert-wilders-und-die-rechte-sind-nicht-entzaubert-meinung](https://www.spiegel.de/ausland/niederlande-nein-geert-wilders-und-die-rechte-sind-nicht-entzaubert-meinung-a-e7dc8cb8-3556-4473-b133-68d29824a863#ref=rss)
-### rechte
-
-* [https://www.spiegel.de/ausland/niederlande-nein-geert-wilders-und-die-rechte-sind-nicht-entzaubert-meinung](https://www.spiegel.de/ausland/niederlande-nein-geert-wilders-und-die-rechte-sind-nicht-entzaubert-meinung-a-e7dc8cb8-3556-4473-b133-68d29824a863#ref=rss)
-### rennfahrerin
-
-* [https://www.spiegel.de/sport/formel1/fia-wahl-rennfahrerin-laura-villars-will-den-motorsport-weltverband-verklagen](https://www.spiegel.de/sport/formel1/fia-wahl-rennfahrerin-laura-villars-will-den-motorsport-weltverband-verklagen-a-4e0ac6fe-886b-433f-a9aa-4373fd0a8911#ref=rss)
-### laura
-
-* [https://www.spiegel.de/sport/formel1/fia-wahl-rennfahrerin-laura-villars-will-den-motorsport-weltverband-verklagen](https://www.spiegel.de/sport/formel1/fia-wahl-rennfahrerin-laura-villars-will-den-motorsport-weltverband-verklagen-a-4e0ac6fe-886b-433f-a9aa-4373fd0a8911#ref=rss)
-### villars
-
-* [https://www.spiegel.de/sport/formel1/fia-wahl-rennfahrerin-laura-villars-will-den-motorsport-weltverband-verklagen](https://www.spiegel.de/sport/formel1/fia-wahl-rennfahrerin-laura-villars-will-den-motorsport-weltverband-verklagen-a-4e0ac6fe-886b-433f-a9aa-4373fd0a8911#ref=rss)
-### möchte
-
-* [https://www.spiegel.de/sport/formel1/fia-wahl-rennfahrerin-laura-villars-will-den-motorsport-weltverband-verklagen](https://www.spiegel.de/sport/formel1/fia-wahl-rennfahrerin-laura-villars-will-den-motorsport-weltverband-verklagen-a-4e0ac6fe-886b-433f-a9aa-4373fd0a8911#ref=rss)
-* [https://www.spiegel.de/netzwelt/internationaler-strafgerichtshof-wechsel-zu-deutschem-officepaket-nach-us-sanktionen](https://www.spiegel.de/netzwelt/internationaler-strafgerichtshof-wechsel-zu-deutschem-officepaket-nach-us-sanktionen-a-6ddfddcd-8871-4955-898a-2a325ae7fe06#ref=rss)
-### andreas
-
-* [https://www.spiegel.de/politik/deutschland/andreas-bovenschulte-bremen-buergermeister-wird-nach-beinbruch-operiert](https://www.spiegel.de/politik/deutschland/andreas-bovenschulte-bremen-buergermeister-wird-nach-beinbruch-operiert-a-3a3f8797-cd01-4446-a1a9-85797012dcd5#ref=rss)
-### bovenschulte
-
-* [https://www.spiegel.de/politik/deutschland/andreas-bovenschulte-bremen-buergermeister-wird-nach-beinbruch-operiert](https://www.spiegel.de/politik/deutschland/andreas-bovenschulte-bremen-buergermeister-wird-nach-beinbruch-operiert-a-3a3f8797-cd01-4446-a1a9-85797012dcd5#ref=rss)
-### bürgermeister
-
-* [https://www.spiegel.de/politik/deutschland/andreas-bovenschulte-bremen-buergermeister-wird-nach-beinbruch-operiert](https://www.spiegel.de/politik/deutschland/andreas-bovenschulte-bremen-buergermeister-wird-nach-beinbruch-operiert-a-3a3f8797-cd01-4446-a1a9-85797012dcd5#ref=rss)
-### spionage
-
-* [https://www.spiegel.de/panorama/justiz/spionage-in-deutschland-sechs-jahre-haft-fuer-russische-sabotageplaene-in-deutschland](https://www.spiegel.de/panorama/justiz/spionage-in-deutschland-sechs-jahre-haft-fuer-russische-sabotageplaene-in-deutschland-a-45dcff25-3192-47cb-9d3f-4a35c697c7b5#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/panorama/justiz/spionage-in-deutschland-sechs-jahre-haft-fuer-russische-sabotageplaene-in-deutschland](https://www.spiegel.de/panorama/justiz/spionage-in-deutschland-sechs-jahre-haft-fuer-russische-sabotageplaene-in-deutschland-a-45dcff25-3192-47cb-9d3f-4a35c697c7b5#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/spionage-in-deutschland-sechs-jahre-haft-fuer-russische-sabotageplaene-in-deutschland](https://www.spiegel.de/panorama/justiz/spionage-in-deutschland-sechs-jahre-haft-fuer-russische-sabotageplaene-in-deutschland-a-45dcff25-3192-47cb-9d3f-4a35c697c7b5#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/spionage-in-deutschland-sechs-jahre-haft-fuer-russische-sabotageplaene-in-deutschland](https://www.spiegel.de/panorama/justiz/spionage-in-deutschland-sechs-jahre-haft-fuer-russische-sabotageplaene-in-deutschland-a-45dcff25-3192-47cb-9d3f-4a35c697c7b5#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/panorama/justiz/spionage-in-deutschland-sechs-jahre-haft-fuer-russische-sabotageplaene-in-deutschland](https://www.spiegel.de/panorama/justiz/spionage-in-deutschland-sechs-jahre-haft-fuer-russische-sabotageplaene-in-deutschland-a-45dcff25-3192-47cb-9d3f-4a35c697c7b5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-gewinnt-beim-1-fc-koeln-im-dfb-pokal-die-kachelmeister](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-gewinnt-beim-1-fc-koeln-im-dfb-pokal-die-kachelmeister-a-348f73ae-a1c1-4382-a784-520ffbd4c351#ref=rss)
-### liverpool
-
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-arne-slot-nach-sechster-niederlage-unter-druck](https://www.spiegel.de/sport/fussball/fc-liverpool-arne-slot-nach-sechster-niederlage-unter-druck-a-22b76997-8ff3-4a73-ad6a-e8281ad8f439#ref=rss)
-### arne
-
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-arne-slot-nach-sechster-niederlage-unter-druck](https://www.spiegel.de/sport/fussball/fc-liverpool-arne-slot-nach-sechster-niederlage-unter-druck-a-22b76997-8ff3-4a73-ad6a-e8281ad8f439#ref=rss)
-### slot
-
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-arne-slot-nach-sechster-niederlage-unter-druck](https://www.spiegel.de/sport/fussball/fc-liverpool-arne-slot-nach-sechster-niederlage-unter-druck-a-22b76997-8ff3-4a73-ad6a-e8281ad8f439#ref=rss)
-### niederlage
-
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-arne-slot-nach-sechster-niederlage-unter-druck](https://www.spiegel.de/sport/fussball/fc-liverpool-arne-slot-nach-sechster-niederlage-unter-druck-a-22b76997-8ff3-4a73-ad6a-e8281ad8f439#ref=rss)
-### druck
-
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-arne-slot-nach-sechster-niederlage-unter-druck](https://www.spiegel.de/sport/fussball/fc-liverpool-arne-slot-nach-sechster-niederlage-unter-druck-a-22b76997-8ff3-4a73-ad6a-e8281ad8f439#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-gouverneur-unter-druck-nach-toedlicher-spezialoperation](https://www.spiegel.de/ausland/brasilien-gouverneur-unter-druck-nach-toedlicher-spezialoperation-a-3befe78b-638c-4f3e-a2eb-3f21e4fa56c3#ref=rss)
-### letzte
-
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-arne-slot-nach-sechster-niederlage-unter-druck](https://www.spiegel.de/sport/fussball/fc-liverpool-arne-slot-nach-sechster-niederlage-unter-druck-a-22b76997-8ff3-4a73-ad6a-e8281ad8f439#ref=rss)
-* [https://www.spiegel.de/ausland/anfuehrer-der-rsf-miliz-will-wiedervereinigung-des-landes-durch-frieden-oder-krieg](https://www.spiegel.de/ausland/anfuehrer-der-rsf-miliz-will-wiedervereinigung-des-landes-durch-frieden-oder-krieg-a-99e37e49-d227-47b3-aae9-13bf51f76ec8#ref=rss)
-### lehrkräfte
-
-* [https://www.spiegel.de/panorama/bildung/karin-prien-lehrkraefte-sind-nie-neutral-klare-haltung-gegen-extremismus](https://www.spiegel.de/panorama/bildung/karin-prien-lehrkraefte-sind-nie-neutral-klare-haltung-gegen-extremismus-a-1f356739-b759-4e99-9ac8-6c0f131a0b8c#ref=rss)
-### nie
-
-* [https://www.spiegel.de/panorama/bildung/karin-prien-lehrkraefte-sind-nie-neutral-klare-haltung-gegen-extremismus](https://www.spiegel.de/panorama/bildung/karin-prien-lehrkraefte-sind-nie-neutral-klare-haltung-gegen-extremismus-a-1f356739-b759-4e99-9ac8-6c0f131a0b8c#ref=rss)
-### neutral
-
-* [https://www.spiegel.de/panorama/bildung/karin-prien-lehrkraefte-sind-nie-neutral-klare-haltung-gegen-extremismus](https://www.spiegel.de/panorama/bildung/karin-prien-lehrkraefte-sind-nie-neutral-klare-haltung-gegen-extremismus-a-1f356739-b759-4e99-9ac8-6c0f131a0b8c#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/panorama/bildung/karin-prien-lehrkraefte-sind-nie-neutral-klare-haltung-gegen-extremismus](https://www.spiegel.de/panorama/bildung/karin-prien-lehrkraefte-sind-nie-neutral-klare-haltung-gegen-extremismus-a-1f356739-b759-4e99-9ac8-6c0f131a0b8c#ref=rss)
-* [https://www.spiegel.de/ausland/anfuehrer-der-rsf-miliz-will-wiedervereinigung-des-landes-durch-frieden-oder-krieg](https://www.spiegel.de/ausland/anfuehrer-der-rsf-miliz-will-wiedervereinigung-des-landes-durch-frieden-oder-krieg-a-99e37e49-d227-47b3-aae9-13bf51f76ec8#ref=rss)
-### bildungsministerin
-
-* [https://www.spiegel.de/panorama/bildung/karin-prien-lehrkraefte-sind-nie-neutral-klare-haltung-gegen-extremismus](https://www.spiegel.de/panorama/bildung/karin-prien-lehrkraefte-sind-nie-neutral-klare-haltung-gegen-extremismus-a-1f356739-b759-4e99-9ac8-6c0f131a0b8c#ref=rss)
-* [https://www.spiegel.de/kultur/musik/eurovision-song-contest-karin-prien-faende-esc-ausschluss-israels-grundfalsch](https://www.spiegel.de/kultur/musik/eurovision-song-contest-karin-prien-faende-esc-ausschluss-israels-grundfalsch-a-973c67b5-9cbd-4bbd-9148-5327d398ee9e#ref=rss)
-### strafgerichtshof
-
-* [https://www.spiegel.de/netzwelt/internationaler-strafgerichtshof-wechsel-zu-deutschem-officepaket-nach-us-sanktionen](https://www.spiegel.de/netzwelt/internationaler-strafgerichtshof-wechsel-zu-deutschem-officepaket-nach-us-sanktionen-a-6ddfddcd-8871-4955-898a-2a325ae7fe06#ref=rss)
-### anführer
-
-* [https://www.spiegel.de/ausland/anfuehrer-der-rsf-miliz-will-wiedervereinigung-des-landes-durch-frieden-oder-krieg](https://www.spiegel.de/ausland/anfuehrer-der-rsf-miliz-will-wiedervereinigung-des-landes-durch-frieden-oder-krieg-a-99e37e49-d227-47b3-aae9-13bf51f76ec8#ref=rss)
-* [https://www.spiegel.de/ausland/usa-trump-zufrieden-mit-xi-treffen-trotz-turbulentem-rueckflug](https://www.spiegel.de/ausland/usa-trump-zufrieden-mit-xi-treffen-trotz-turbulentem-rueckflug-a-73a551a8-b62e-4734-9fff-ccc9216e55ad#ref=rss)
-### rsfmiliz
-
-* [https://www.spiegel.de/ausland/anfuehrer-der-rsf-miliz-will-wiedervereinigung-des-landes-durch-frieden-oder-krieg](https://www.spiegel.de/ausland/anfuehrer-der-rsf-miliz-will-wiedervereinigung-des-landes-durch-frieden-oder-krieg-a-99e37e49-d227-47b3-aae9-13bf51f76ec8#ref=rss)
-### große
-
-* [https://www.spiegel.de/ausland/anfuehrer-der-rsf-miliz-will-wiedervereinigung-des-landes-durch-frieden-oder-krieg](https://www.spiegel.de/ausland/anfuehrer-der-rsf-miliz-will-wiedervereinigung-des-landes-durch-frieden-oder-krieg-a-99e37e49-d227-47b3-aae9-13bf51f76ec8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/videobeweis-dfb-pokal-ohne-var-grosse-vereine-profitieren-von-fehlender-technik](https://www.spiegel.de/sport/fussball/videobeweis-dfb-pokal-ohne-var-grosse-vereine-profitieren-von-fehlender-technik-a-00f77a76-243a-4aa6-a822-9e2944bd5271#ref=rss)
-### gouverneur
-
-* [https://www.spiegel.de/ausland/brasilien-gouverneur-unter-druck-nach-toedlicher-spezialoperation](https://www.spiegel.de/ausland/brasilien-gouverneur-unter-druck-nach-toedlicher-spezialoperation-a-3befe78b-638c-4f3e-a2eb-3f21e4fa56c3#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/brasilien-gouverneur-unter-druck-nach-toedlicher-spezialoperation](https://www.spiegel.de/ausland/brasilien-gouverneur-unter-druck-nach-toedlicher-spezialoperation-a-3befe78b-638c-4f3e-a2eb-3f21e4fa56c3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nauen-in-brandenburg-polizei-hebt-drogenlabor-aus](https://www.spiegel.de/panorama/justiz/nauen-in-brandenburg-polizei-hebt-drogenlabor-aus-a-43155351-ef4e-4dcc-8541-b2ebc3577771#ref=rss)
-### mindestlohn
-
-* [https://www.spiegel.de/wirtschaft/mindestlohn-und-buergergeld-arbeit-lohnt-sich-immer-theoretisch](https://www.spiegel.de/wirtschaft/mindestlohn-und-buergergeld-arbeit-lohnt-sich-immer-theoretisch-a-84d142b7-8ee4-49bf-9733-2f48e6b66489#ref=rss)
-### bürgergeld
-
-* [https://www.spiegel.de/wirtschaft/mindestlohn-und-buergergeld-arbeit-lohnt-sich-immer-theoretisch](https://www.spiegel.de/wirtschaft/mindestlohn-und-buergergeld-arbeit-lohnt-sich-immer-theoretisch-a-84d142b7-8ee4-49bf-9733-2f48e6b66489#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/wirtschaft/mindestlohn-und-buergergeld-arbeit-lohnt-sich-immer-theoretisch](https://www.spiegel.de/wirtschaft/mindestlohn-und-buergergeld-arbeit-lohnt-sich-immer-theoretisch-a-84d142b7-8ee4-49bf-9733-2f48e6b66489#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-gewinnt-beim-1-fc-koeln-im-dfb-pokal-die-kachelmeister](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-gewinnt-beim-1-fc-koeln-im-dfb-pokal-die-kachelmeister-a-348f73ae-a1c1-4382-a784-520ffbd4c351#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/mindestlohn-und-buergergeld-arbeit-lohnt-sich-immer-theoretisch](https://www.spiegel.de/wirtschaft/mindestlohn-und-buergergeld-arbeit-lohnt-sich-immer-theoretisch-a-84d142b7-8ee4-49bf-9733-2f48e6b66489#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/louvre-einbruch-fuenf-neue-verdaechtige-festgenommen](https://www.spiegel.de/panorama/justiz/louvre-einbruch-fuenf-neue-verdaechtige-festgenommen-a-729af177-bf07-4178-a221-2f2447ed4ff8#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wirtschaft/mindestlohn-und-buergergeld-arbeit-lohnt-sich-immer-theoretisch](https://www.spiegel.de/wirtschaft/mindestlohn-und-buergergeld-arbeit-lohnt-sich-immer-theoretisch-a-84d142b7-8ee4-49bf-9733-2f48e6b66489#ref=rss)
-* [https://www.spiegel.de/wirtschaft/openai-bereitet-offenbar-boersengang-vor-bewertung-von-bis-zu-einer-billion-dollar](https://www.spiegel.de/wirtschaft/openai-bereitet-offenbar-boersengang-vor-bewertung-von-bis-zu-einer-billion-dollar-a-a9efa4a6-661f-4092-a948-2ec12f0fec6a#ref=rss)
-### besser
-
-* [https://www.spiegel.de/wirtschaft/mindestlohn-und-buergergeld-arbeit-lohnt-sich-immer-theoretisch](https://www.spiegel.de/wirtschaft/mindestlohn-und-buergergeld-arbeit-lohnt-sich-immer-theoretisch-a-84d142b7-8ee4-49bf-9733-2f48e6b66489#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-stagniert-arbeitslosenzahlen-sinken-nur-leicht](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-stagniert-arbeitslosenzahlen-sinken-nur-leicht-a-59e76d16-bb9e-4952-ba22-b3b33a76bacc#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-stagniert-arbeitslosenzahlen-sinken-nur-leicht](https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-stagniert-arbeitslosenzahlen-sinken-nur-leicht-a-59e76d16-bb9e-4952-ba22-b3b33a76bacc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/seltene-erden-usa-wie-donald-trump-die-europaeer-im-rohstoff-rennen-abhaengt](https://www.spiegel.de/wirtschaft/seltene-erden-usa-wie-donald-trump-die-europaeer-im-rohstoff-rennen-abhaengt-a-0ed0027a-f1fb-4c23-9dcc-12cca8d41809#ref=rss)
-### dfbpokal
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-gewinnt-beim-1-fc-koeln-im-dfb-pokal-die-kachelmeister](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-gewinnt-beim-1-fc-koeln-im-dfb-pokal-die-kachelmeister-a-348f73ae-a1c1-4382-a784-520ffbd4c351#ref=rss)
-* [https://www.spiegel.de/sport/fussball/videobeweis-dfb-pokal-ohne-var-grosse-vereine-profitieren-von-fehlender-technik](https://www.spiegel.de/sport/fussball/videobeweis-dfb-pokal-ohne-var-grosse-vereine-profitieren-von-fehlender-technik-a-00f77a76-243a-4aa6-a822-9e2944bd5271#ref=rss)
-### vereinen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-gewinnt-beim-1-fc-koeln-im-dfb-pokal-die-kachelmeister](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-gewinnt-beim-1-fc-koeln-im-dfb-pokal-die-kachelmeister-a-348f73ae-a1c1-4382-a784-520ffbd4c351#ref=rss)
-* [https://www.spiegel.de/sport/fussball/videobeweis-dfb-pokal-ohne-var-grosse-vereine-profitieren-von-fehlender-technik](https://www.spiegel.de/sport/fussball/videobeweis-dfb-pokal-ohne-var-grosse-vereine-profitieren-von-fehlender-technik-a-00f77a76-243a-4aa6-a822-9e2944bd5271#ref=rss)
-### nauen
-
-* [https://www.spiegel.de/panorama/justiz/nauen-in-brandenburg-polizei-hebt-drogenlabor-aus](https://www.spiegel.de/panorama/justiz/nauen-in-brandenburg-polizei-hebt-drogenlabor-aus-a-43155351-ef4e-4dcc-8541-b2ebc3577771#ref=rss)
-### drogenlabor
-
-* [https://www.spiegel.de/panorama/justiz/nauen-in-brandenburg-polizei-hebt-drogenlabor-aus](https://www.spiegel.de/panorama/justiz/nauen-in-brandenburg-polizei-hebt-drogenlabor-aus-a-43155351-ef4e-4dcc-8541-b2ebc3577771#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/panorama/justiz/nauen-in-brandenburg-polizei-hebt-drogenlabor-aus](https://www.spiegel.de/panorama/justiz/nauen-in-brandenburg-polizei-hebt-drogenlabor-aus-a-43155351-ef4e-4dcc-8541-b2ebc3577771#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/louvre-einbruch-fuenf-neue-verdaechtige-festgenommen](https://www.spiegel.de/panorama/justiz/louvre-einbruch-fuenf-neue-verdaechtige-festgenommen-a-729af177-bf07-4178-a221-2f2447ed4ff8#ref=rss)
-### zufrieden
-
-* [https://www.spiegel.de/ausland/usa-trump-zufrieden-mit-xi-treffen-trotz-turbulentem-rueckflug](https://www.spiegel.de/ausland/usa-trump-zufrieden-mit-xi-treffen-trotz-turbulentem-rueckflug-a-73a551a8-b62e-4734-9fff-ccc9216e55ad#ref=rss)
-### rückflug
-
-* [https://www.spiegel.de/ausland/usa-trump-zufrieden-mit-xi-treffen-trotz-turbulentem-rueckflug](https://www.spiegel.de/ausland/usa-trump-zufrieden-mit-xi-treffen-trotz-turbulentem-rueckflug-a-73a551a8-b62e-4734-9fff-ccc9216e55ad#ref=rss)
-### cloudseeding
-
-* [https://www.spiegel.de/wissenschaft/natur/indien-und-pakistan-cloud-seeding-und-anti-smog-kanonen-sollen-feinstaub-beseitigen](https://www.spiegel.de/wissenschaft/natur/indien-und-pakistan-cloud-seeding-und-anti-smog-kanonen-sollen-feinstaub-beseitigen-a-17ee0028-f79c-43f8-9662-eca5e375eec8#ref=rss)
-### antismogkanonen
-
-* [https://www.spiegel.de/wissenschaft/natur/indien-und-pakistan-cloud-seeding-und-anti-smog-kanonen-sollen-feinstaub-beseitigen](https://www.spiegel.de/wissenschaft/natur/indien-und-pakistan-cloud-seeding-und-anti-smog-kanonen-sollen-feinstaub-beseitigen-a-17ee0028-f79c-43f8-9662-eca5e375eec8#ref=rss)
-### feinstaub
-
-* [https://www.spiegel.de/wissenschaft/natur/indien-und-pakistan-cloud-seeding-und-anti-smog-kanonen-sollen-feinstaub-beseitigen](https://www.spiegel.de/wissenschaft/natur/indien-und-pakistan-cloud-seeding-und-anti-smog-kanonen-sollen-feinstaub-beseitigen-a-17ee0028-f79c-43f8-9662-eca5e375eec8#ref=rss)
-### ezb
-
-* [https://www.spiegel.de/wirtschaft/ezb-entscheidet-ueber-leitzins](https://www.spiegel.de/wirtschaft/ezb-entscheidet-ueber-leitzins-a-276c4997-308b-4741-b450-093511df173b#ref=rss)
-### temu
-
-* [https://www.spiegel.de/wirtschaft/stiftung-warentest-findet-giftige-schwermetalle-in-angeboten-von-temu-und-shein](https://www.spiegel.de/wirtschaft/stiftung-warentest-findet-giftige-schwermetalle-in-angeboten-von-temu-und-shein-a-efb2057b-2377-4ce4-b2e0-07be01d00df0#ref=rss)
-### shein
-
-* [https://www.spiegel.de/wirtschaft/stiftung-warentest-findet-giftige-schwermetalle-in-angeboten-von-temu-und-shein](https://www.spiegel.de/wirtschaft/stiftung-warentest-findet-giftige-schwermetalle-in-angeboten-von-temu-und-shein-a-efb2057b-2377-4ce4-b2e0-07be01d00df0#ref=rss)
-### schwermetalle
-
-* [https://www.spiegel.de/wirtschaft/stiftung-warentest-findet-giftige-schwermetalle-in-angeboten-von-temu-und-shein](https://www.spiegel.de/wirtschaft/stiftung-warentest-findet-giftige-schwermetalle-in-angeboten-von-temu-und-shein-a-efb2057b-2377-4ce4-b2e0-07be01d00df0#ref=rss)
-### schmuck
-
-* [https://www.spiegel.de/wirtschaft/stiftung-warentest-findet-giftige-schwermetalle-in-angeboten-von-temu-und-shein](https://www.spiegel.de/wirtschaft/stiftung-warentest-findet-giftige-schwermetalle-in-angeboten-von-temu-und-shein-a-efb2057b-2377-4ce4-b2e0-07be01d00df0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/louvre-einbruch-fuenf-neue-verdaechtige-festgenommen](https://www.spiegel.de/panorama/justiz/louvre-einbruch-fuenf-neue-verdaechtige-festgenommen-a-729af177-bf07-4178-a221-2f2447ed4ff8#ref=rss)
-### erden
-
-* [https://www.spiegel.de/wirtschaft/seltene-erden-usa-wie-donald-trump-die-europaeer-im-rohstoff-rennen-abhaengt](https://www.spiegel.de/wirtschaft/seltene-erden-usa-wie-donald-trump-die-europaeer-im-rohstoff-rennen-abhaengt-a-0ed0027a-f1fb-4c23-9dcc-12cca8d41809#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/wirtschaft/seltene-erden-usa-wie-donald-trump-die-europaeer-im-rohstoff-rennen-abhaengt](https://www.spiegel.de/wirtschaft/seltene-erden-usa-wie-donald-trump-die-europaeer-im-rohstoff-rennen-abhaengt-a-0ed0027a-f1fb-4c23-9dcc-12cca8d41809#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-trifft-xi-jinping-fuenf-lehren-aus-dem-gipfel-der-supermaechte-usa-und-china](https://www.spiegel.de/ausland/donald-trump-trifft-xi-jinping-fuenf-lehren-aus-dem-gipfel-der-supermaechte-usa-und-china-a-5fd89ae3-2f3f-4f46-b859-0a5ba10090ce#ref=rss)
-### feiert
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-rohstoffquellen-elektroautos-wahl-in-den-niederlanden](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-rohstoffquellen-elektroautos-wahl-in-den-niederlanden-a-63fe068b-6c20-4137-88e5-eac003d1ae78#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-handelskonflikt-geht-jetzt-in-die-naechste-runde](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-handelskonflikt-geht-jetzt-in-die-naechste-runde-a-1f985175-e775-4380-a196-9c7d6211ba81#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-trifft-xi-jinping-fuenf-lehren-aus-dem-gipfel-der-supermaechte-usa-und-china](https://www.spiegel.de/ausland/donald-trump-trifft-xi-jinping-fuenf-lehren-aus-dem-gipfel-der-supermaechte-usa-und-china-a-5fd89ae3-2f3f-4f46-b859-0a5ba10090ce#ref=rss)
-* [https://www.spiegel.de/wirtschaft/alphabet-microsoft-meta-geschaefte-der-us-techfirmen-florieren-dank-ki](https://www.spiegel.de/wirtschaft/alphabet-microsoft-meta-geschaefte-der-us-techfirmen-florieren-dank-ki-a-add9d2fe-6789-484e-93b5-bf54801d68e4#ref=rss)
-### zieht
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-handelskonflikt-geht-jetzt-in-die-naechste-runde](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-handelskonflikt-geht-jetzt-in-die-naechste-runde-a-1f985175-e775-4380-a196-9c7d6211ba81#ref=rss)
+### xi
 
-* [https://www.spiegel.de/panorama/justiz/louvre-einbruch-fuenf-neue-verdaechtige-festgenommen](https://www.spiegel.de/panorama/justiz/louvre-einbruch-fuenf-neue-verdaechtige-festgenommen-a-729af177-bf07-4178-a221-2f2447ed4ff8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/openai-bereitet-offenbar-boersengang-vor-bewertung-von-bis-zu-einer-billion-dollar](https://www.spiegel.de/wirtschaft/openai-bereitet-offenbar-boersengang-vor-bewertung-von-bis-zu-einer-billion-dollar-a-a9efa4a6-661f-4092-a948-2ec12f0fec6a#ref=rss)
-### alphabet
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-handelskonflikt-geht-jetzt-in-die-naechste-runde](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-handelskonflikt-geht-jetzt-in-die-naechste-runde-a-1f985175-e775-4380-a196-9c7d6211ba81#ref=rss)
+### jinping
 
-* [https://www.spiegel.de/wirtschaft/alphabet-microsoft-meta-geschaefte-der-us-techfirmen-florieren-dank-ki](https://www.spiegel.de/wirtschaft/alphabet-microsoft-meta-geschaefte-der-us-techfirmen-florieren-dank-ki-a-add9d2fe-6789-484e-93b5-bf54801d68e4#ref=rss)
-### microsoft
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-handelskonflikt-geht-jetzt-in-die-naechste-runde](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-handelskonflikt-geht-jetzt-in-die-naechste-runde-a-1f985175-e775-4380-a196-9c7d6211ba81#ref=rss)
+### merz
 
-* [https://www.spiegel.de/wirtschaft/alphabet-microsoft-meta-geschaefte-der-us-techfirmen-florieren-dank-ki](https://www.spiegel.de/wirtschaft/alphabet-microsoft-meta-geschaefte-der-us-techfirmen-florieren-dank-ki-a-add9d2fe-6789-484e-93b5-bf54801d68e4#ref=rss)
-### meta
+* [https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt](https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt-a-2d65a631-4492-470c-8b92-293a7306c04d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-brandmauer-cdu-stimmt-im-kreistag-erstmals-antrag-der-afd-zu](https://www.spiegel.de/politik/deutschland/afd-brandmauer-cdu-stimmt-im-kreistag-erstmals-antrag-der-afd-zu-a-1f3349ee-9c32-49e2-babc-9d227a794a8d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wie-viel-house-of-cards-steckt-in-friedrich-merz-kolumne](https://www.spiegel.de/politik/deutschland/wie-viel-house-of-cards-steckt-in-friedrich-merz-kolumne-a-7c2ebd20-3a63-43d7-b500-ba26e298a928#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition](https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition-a-eea2dc30-aba0-459e-b630-e4ce560bad9d#ref=rss)
+### china
 
-* [https://www.spiegel.de/wirtschaft/alphabet-microsoft-meta-geschaefte-der-us-techfirmen-florieren-dank-ki](https://www.spiegel.de/wirtschaft/alphabet-microsoft-meta-geschaefte-der-us-techfirmen-florieren-dank-ki-a-add9d2fe-6789-484e-93b5-bf54801d68e4#ref=rss)
-### börse
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vw-und-tesla-rivale-byd-verzeichnet-gewinneinbruch](https://www.spiegel.de/wirtschaft/vw-und-tesla-rivale-byd-verzeichnet-gewinneinbruch-a-f1a84dec-5da8-4c96-8245-4ee551a2797c#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/wirtschaft/alphabet-microsoft-meta-geschaefte-der-us-techfirmen-florieren-dank-ki](https://www.spiegel.de/wirtschaft/alphabet-microsoft-meta-geschaefte-der-us-techfirmen-florieren-dank-ki-a-add9d2fe-6789-484e-93b5-bf54801d68e4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/openai-bereitet-offenbar-boersengang-vor-bewertung-von-bis-zu-einer-billion-dollar](https://www.spiegel.de/wirtschaft/openai-bereitet-offenbar-boersengang-vor-bewertung-von-bis-zu-einer-billion-dollar-a-a9efa4a6-661f-4092-a948-2ec12f0fec6a#ref=rss)
-### eurovision
+* [https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst](https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst-a-a5671ecc-e84b-4eed-8c2d-075e83ce5a2a#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+* [https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben](https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben-a-accdf8b6-1e1d-40ed-8d68-09b960019aa8#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/kultur/musik/eurovision-song-contest-karin-prien-faende-esc-ausschluss-israels-grundfalsch](https://www.spiegel.de/kultur/musik/eurovision-song-contest-karin-prien-faende-esc-ausschluss-israels-grundfalsch-a-973c67b5-9cbd-4bbd-9148-5327d398ee9e#ref=rss)
-### song
+* [https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt](https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt-a-2d65a631-4492-470c-8b92-293a7306c04d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wie-viel-house-of-cards-steckt-in-friedrich-merz-kolumne](https://www.spiegel.de/politik/deutschland/wie-viel-house-of-cards-steckt-in-friedrich-merz-kolumne-a-7c2ebd20-3a63-43d7-b500-ba26e298a928#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition](https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition-a-eea2dc30-aba0-459e-b630-e4ce560bad9d#ref=rss)
+### türkei
 
-* [https://www.spiegel.de/kultur/musik/eurovision-song-contest-karin-prien-faende-esc-ausschluss-israels-grundfalsch](https://www.spiegel.de/kultur/musik/eurovision-song-contest-karin-prien-faende-esc-ausschluss-israels-grundfalsch-a-973c67b5-9cbd-4bbd-9148-5327d398ee9e#ref=rss)
-### contest
+* [https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt](https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt-a-2d65a631-4492-470c-8b92-293a7306c04d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition](https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition-a-eea2dc30-aba0-459e-b630-e4ce560bad9d#ref=rss)
+### fall
 
-* [https://www.spiegel.de/kultur/musik/eurovision-song-contest-karin-prien-faende-esc-ausschluss-israels-grundfalsch](https://www.spiegel.de/kultur/musik/eurovision-song-contest-karin-prien-faende-esc-ausschluss-israels-grundfalsch-a-973c67b5-9cbd-4bbd-9148-5327d398ee9e#ref=rss)
-### israels
+* [https://www.spiegel.de/ausland/louvre-um-die-taeter-zieht-sich-die-schlinge-zu-aber-wo-sind-die-juwelen](https://www.spiegel.de/ausland/louvre-um-die-taeter-zieht-sich-die-schlinge-zu-aber-wo-sind-die-juwelen-a-56e4ca38-74fc-449b-9a96-0514d487b85f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erfurt-lehrer-wegen-jahrelangen-missbrauchs-an-schuelerin-verurteilt](https://www.spiegel.de/panorama/justiz/erfurt-lehrer-wegen-jahrelangen-missbrauchs-an-schuelerin-verurteilt-a-ad347572-16f1-4452-84af-23b961bd7055#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-prinz-william-gewinnt-rechtsstreit-in-fall-um-paparazzifotos](https://www.spiegel.de/panorama/justiz/grossbritannien-prinz-william-gewinnt-rechtsstreit-in-fall-um-paparazzifotos-a-4831fc91-d3f8-4884-b7c2-5224cc99b550#ref=rss)
+* [https://www.spiegel.de/ausland/polen-luftwaffe-faengt-erneut-russischen-aufklaerer-ab](https://www.spiegel.de/ausland/polen-luftwaffe-faengt-erneut-russischen-aufklaerer-ab-a-1041c823-30a1-4e67-a4b9-b090eaf96895#ref=rss)
+### usa
 
-* [https://www.spiegel.de/kultur/musik/eurovision-song-contest-karin-prien-faende-esc-ausschluss-israels-grundfalsch](https://www.spiegel.de/kultur/musik/eurovision-song-contest-karin-prien-faende-esc-ausschluss-israels-grundfalsch-a-973c67b5-9cbd-4bbd-9148-5327d398ee9e#ref=rss)
-### openai
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-rohstoffquellen-elektroautos-wahl-in-den-niederlanden](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-rohstoffquellen-elektroautos-wahl-in-den-niederlanden-a-63fe068b-6c20-4137-88e5-eac003d1ae78#ref=rss)
+### erreicht
 
-* [https://www.spiegel.de/wirtschaft/openai-bereitet-offenbar-boersengang-vor-bewertung-von-bis-zu-einer-billion-dollar](https://www.spiegel.de/wirtschaft/openai-bereitet-offenbar-boersengang-vor-bewertung-von-bis-zu-einer-billion-dollar-a-a9efa4a6-661f-4092-a948-2ec12f0fec6a#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-hurrikan-melissa-zerstoert-wallfahrtskirche-el-cobre](https://www.spiegel.de/ausland/kuba-hurrikan-melissa-zerstoert-wallfahrtskirche-el-cobre-a-097bf887-856d-4b55-829d-13c8e4b33cb8#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt](https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt-a-2d65a631-4492-470c-8b92-293a7306c04d#ref=rss)
+### flaschenpost
+
+* [https://www.spiegel.de/panorama/gesellschaft/australien-familie-findet-flaschenpost-von-1916-am-strand](https://www.spiegel.de/panorama/gesellschaft/australien-familie-findet-flaschenpost-von-1916-am-strand-a-ec172fb4-9802-4fea-b06a-ee1e62d5d8e3#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/gesellschaft/australien-familie-findet-flaschenpost-von-1916-am-strand](https://www.spiegel.de/panorama/gesellschaft/australien-familie-findet-flaschenpost-von-1916-am-strand-a-ec172fb4-9802-4fea-b06a-ee1e62d5d8e3#ref=rss)
+* [https://www.spiegel.de/panorama/ulmer-muenster-hoechster-kirchturm-der-welt-ist-jetzt-die-sagrada-familia-in-barcelona](https://www.spiegel.de/panorama/ulmer-muenster-hoechster-kirchturm-der-welt-ist-jetzt-die-sagrada-familia-in-barcelona-a-dfc52398-519a-4e87-b941-feba8108f127#ref=rss)
+* [https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben](https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben-a-accdf8b6-1e1d-40ed-8d68-09b960019aa8#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/h-m-x-glenn-martens-anstehen-fuer-die-neue-designer-kollektion-von-h-m-wer-macht-das-noch](https://www.spiegel.de/wirtschaft/unternehmen/h-m-x-glenn-martens-anstehen-fuer-die-neue-designer-kollektion-von-h-m-wer-macht-das-noch-a-9191f73e-6d4e-4ec6-9c73-337328e9d64c#ref=rss)
+* [https://www.spiegel.de/gesundheit/meningokokken-impfung-arzt-erklaert-neue-empfehlung-zu-gefaehrlichem-erreger](https://www.spiegel.de/gesundheit/meningokokken-impfung-arzt-erklaert-neue-empfehlung-zu-gefaehrlichem-erreger-a-b2452a2d-831b-4882-ad0a-0dce3cef33e3#ref=rss)
+### wo
+
+* [https://www.spiegel.de/ausland/louvre-um-die-taeter-zieht-sich-die-schlinge-zu-aber-wo-sind-die-juwelen](https://www.spiegel.de/ausland/louvre-um-die-taeter-zieht-sich-die-schlinge-zu-aber-wo-sind-die-juwelen-a-56e4ca38-74fc-449b-9a96-0514d487b85f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vw-porsche-mercedes-und-bmw-so-schlecht-steht-es-um-die-deutsche-autoindustrie](https://www.spiegel.de/wirtschaft/vw-porsche-mercedes-und-bmw-so-schlecht-steht-es-um-die-deutsche-autoindustrie-a-5d2565f3-182f-4fe5-93a8-fe3ffc752290#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-handelskonflikt-geht-jetzt-in-die-naechste-runde](https://www.spiegel.de/ausland/donald-trump-und-xi-jinping-der-handelskonflikt-geht-jetzt-in-die-naechste-runde-a-1f985175-e775-4380-a196-9c7d6211ba81#ref=rss)
+### fehler
+
+* [https://www.spiegel.de/panorama/bildung/halle-rektorin-der-uni-bedauert-genehmigung-einer-veranstaltung-zum-gazakonflikt](https://www.spiegel.de/panorama/bildung/halle-rektorin-der-uni-bedauert-genehmigung-einer-veranstaltung-zum-gazakonflikt-a-f3e59609-a0d8-4788-9273-552fdc323794#ref=rss)
+* [https://www.spiegel.de/gesundheit/patientensicherheit-medizinischer-dienst-meldet-tausende-behandlungsfehler](https://www.spiegel.de/gesundheit/patientensicherheit-medizinischer-dienst-meldet-tausende-behandlungsfehler-a-57eb30ee-b411-454b-bf94-3c25636f34e9#ref=rss)
+### vw
+
+* [https://www.spiegel.de/wirtschaft/vw-und-tesla-rivale-byd-verzeichnet-gewinneinbruch](https://www.spiegel.de/wirtschaft/vw-und-tesla-rivale-byd-verzeichnet-gewinneinbruch-a-f1a84dec-5da8-4c96-8245-4ee551a2797c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vw-porsche-mercedes-und-bmw-so-schlecht-steht-es-um-die-deutsche-autoindustrie](https://www.spiegel.de/wirtschaft/vw-porsche-mercedes-und-bmw-so-schlecht-steht-es-um-die-deutsche-autoindustrie-a-5d2565f3-182f-4fe5-93a8-fe3ffc752290#ref=rss)
+### tage
+
+* [https://www.spiegel.de/sport/galoppsport-tierschuetzer-berichten-von-175-toten-rennpferden-innerhalb-eines-jahres-in-australien](https://www.spiegel.de/sport/galoppsport-tierschuetzer-berichten-von-175-toten-rennpferden-innerhalb-eines-jahres-in-australien-a-1352f4e2-c5e6-453d-a22f-f5b5efbce45d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/remscheid-abtransport-des-waffenarsenals-dauert-tage](https://www.spiegel.de/panorama/justiz/remscheid-abtransport-des-waffenarsenals-dauert-tage-a-3099827f-a781-4517-a766-768d2945cc76#ref=rss)
+### schwäbisch
+
+* [https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst](https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst-a-a5671ecc-e84b-4eed-8c2d-075e83ce5a2a#ref=rss)
+### hall
+
+* [https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst](https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst-a-a5671ecc-e84b-4eed-8c2d-075e83ce5a2a#ref=rss)
+### einbruch
+
+* [https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst](https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst-a-a5671ecc-e84b-4eed-8c2d-075e83ce5a2a#ref=rss)
+### metzgerei
+
+* [https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst](https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst-a-a5671ecc-e84b-4eed-8c2d-075e83ce5a2a#ref=rss)
+### wurst
+
+* [https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst](https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst-a-a5671ecc-e84b-4eed-8c2d-075e83ce5a2a#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst](https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst-a-a5671ecc-e84b-4eed-8c2d-075e83ce5a2a#ref=rss)
+* [https://www.spiegel.de/sport/galoppsport-tierschuetzer-berichten-von-175-toten-rennpferden-innerhalb-eines-jahres-in-australien](https://www.spiegel.de/sport/galoppsport-tierschuetzer-berichten-von-175-toten-rennpferden-innerhalb-eines-jahres-in-australien-a-1352f4e2-c5e6-453d-a22f-f5b5efbce45d#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst](https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst-a-a5671ecc-e84b-4eed-8c2d-075e83ce5a2a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-sinkt-im-oktober-auf-2-3-prozent](https://www.spiegel.de/wirtschaft/inflation-sinkt-im-oktober-auf-2-3-prozent-a-890a9656-3a86-48da-a3ca-328db49fdeff#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst](https://www.spiegel.de/panorama/justiz/schwaebisch-hall-betrunkener-verletzt-sich-bei-einbruch-in-metzgerei-und-isst-erst-mal-wurst-a-a5671ecc-e84b-4eed-8c2d-075e83ce5a2a#ref=rss)
+* [https://www.spiegel.de/ausland/tansania-demonstrationen-bei-wahlen-in-tansania](https://www.spiegel.de/ausland/tansania-demonstrationen-bei-wahlen-in-tansania-a-95e43d52-c068-411d-ba97-03a7d1068e51#ref=rss)
+### handelsstreit
+
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+### gipfel
+
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+### aggressiven
+
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+### zollpolitik
+
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+### länder
+
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+### eingeschüchtert
+
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+### beugt
+
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+### gegenteil
+
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+### deutlicher
+
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+### gegner
+
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+### erpressen
+
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-podcast-a-88bb92c6-c751-4b8f-8981-5f176aae43fc#ref=rss)
+* [https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht](https://www.spiegel.de/ausland/handelsstreit-zwischen-china-und-usa-das-haben-donald-trump-und-xi-jinping-bei-ihrem-gipfel-erreicht-a-905ba27b-73b4-4427-bac8-4593c2cc5668#ref=rss)
+### australien
+
+* [https://www.spiegel.de/panorama/gesellschaft/australien-familie-findet-flaschenpost-von-1916-am-strand](https://www.spiegel.de/panorama/gesellschaft/australien-familie-findet-flaschenpost-von-1916-am-strand-a-ec172fb4-9802-4fea-b06a-ee1e62d5d8e3#ref=rss)
+* [https://www.spiegel.de/sport/galoppsport-tierschuetzer-berichten-von-175-toten-rennpferden-innerhalb-eines-jahres-in-australien](https://www.spiegel.de/sport/galoppsport-tierschuetzer-berichten-von-175-toten-rennpferden-innerhalb-eines-jahres-in-australien-a-1352f4e2-c5e6-453d-a22f-f5b5efbce45d#ref=rss)
+### familie
+
+* [https://www.spiegel.de/panorama/gesellschaft/australien-familie-findet-flaschenpost-von-1916-am-strand](https://www.spiegel.de/panorama/gesellschaft/australien-familie-findet-flaschenpost-von-1916-am-strand-a-ec172fb4-9802-4fea-b06a-ee1e62d5d8e3#ref=rss)
+### 1916
+
+* [https://www.spiegel.de/panorama/gesellschaft/australien-familie-findet-flaschenpost-von-1916-am-strand](https://www.spiegel.de/panorama/gesellschaft/australien-familie-findet-flaschenpost-von-1916-am-strand-a-ec172fb4-9802-4fea-b06a-ee1e62d5d8e3#ref=rss)
+### europa
+
+* [https://www.spiegel.de/panorama/gesellschaft/australien-familie-findet-flaschenpost-von-1916-am-strand](https://www.spiegel.de/panorama/gesellschaft/australien-familie-findet-flaschenpost-von-1916-am-strand-a-ec172fb4-9802-4fea-b06a-ee1e62d5d8e3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-rohstoffquellen-elektroautos-wahl-in-den-niederlanden](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-rohstoffquellen-elektroautos-wahl-in-den-niederlanden-a-63fe068b-6c20-4137-88e5-eac003d1ae78#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/gesellschaft/australien-familie-findet-flaschenpost-von-1916-am-strand](https://www.spiegel.de/panorama/gesellschaft/australien-familie-findet-flaschenpost-von-1916-am-strand-a-ec172fb4-9802-4fea-b06a-ee1e62d5d8e3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/remscheid-abtransport-des-waffenarsenals-dauert-tage](https://www.spiegel.de/panorama/justiz/remscheid-abtransport-des-waffenarsenals-dauert-tage-a-3099827f-a781-4517-a766-768d2945cc76#ref=rss)
+### australische
+
+* [https://www.spiegel.de/panorama/gesellschaft/australien-familie-findet-flaschenpost-von-1916-am-strand](https://www.spiegel.de/panorama/gesellschaft/australien-familie-findet-flaschenpost-von-1916-am-strand-a-ec172fb4-9802-4fea-b06a-ee1e62d5d8e3#ref=rss)
+* [https://www.spiegel.de/sport/galoppsport-tierschuetzer-berichten-von-175-toten-rennpferden-innerhalb-eines-jahres-in-australien](https://www.spiegel.de/sport/galoppsport-tierschuetzer-berichten-von-175-toten-rennpferden-innerhalb-eines-jahres-in-australien-a-1352f4e2-c5e6-453d-a22f-f5b5efbce45d#ref=rss)
+### hm
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/h-m-x-glenn-martens-anstehen-fuer-die-neue-designer-kollektion-von-h-m-wer-macht-das-noch](https://www.spiegel.de/wirtschaft/unternehmen/h-m-x-glenn-martens-anstehen-fuer-die-neue-designer-kollektion-von-h-m-wer-macht-das-noch-a-9191f73e-6d4e-4ec6-9c73-337328e9d64c#ref=rss)
+### designerkollektion
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/h-m-x-glenn-martens-anstehen-fuer-die-neue-designer-kollektion-von-h-m-wer-macht-das-noch](https://www.spiegel.de/wirtschaft/unternehmen/h-m-x-glenn-martens-anstehen-fuer-die-neue-designer-kollektion-von-h-m-wer-macht-das-noch-a-9191f73e-6d4e-4ec6-9c73-337328e9d64c#ref=rss)
+### ulmer
+
+* [https://www.spiegel.de/panorama/ulmer-muenster-hoechster-kirchturm-der-welt-ist-jetzt-die-sagrada-familia-in-barcelona](https://www.spiegel.de/panorama/ulmer-muenster-hoechster-kirchturm-der-welt-ist-jetzt-die-sagrada-familia-in-barcelona-a-dfc52398-519a-4e87-b941-feba8108f127#ref=rss)
+### münster
+
+* [https://www.spiegel.de/panorama/ulmer-muenster-hoechster-kirchturm-der-welt-ist-jetzt-die-sagrada-familia-in-barcelona](https://www.spiegel.de/panorama/ulmer-muenster-hoechster-kirchturm-der-welt-ist-jetzt-die-sagrada-familia-in-barcelona-a-dfc52398-519a-4e87-b941-feba8108f127#ref=rss)
+### kirchturm
+
+* [https://www.spiegel.de/panorama/ulmer-muenster-hoechster-kirchturm-der-welt-ist-jetzt-die-sagrada-familia-in-barcelona](https://www.spiegel.de/panorama/ulmer-muenster-hoechster-kirchturm-der-welt-ist-jetzt-die-sagrada-familia-in-barcelona-a-dfc52398-519a-4e87-b941-feba8108f127#ref=rss)
+### sagrada
+
+* [https://www.spiegel.de/panorama/ulmer-muenster-hoechster-kirchturm-der-welt-ist-jetzt-die-sagrada-familia-in-barcelona](https://www.spiegel.de/panorama/ulmer-muenster-hoechster-kirchturm-der-welt-ist-jetzt-die-sagrada-familia-in-barcelona-a-dfc52398-519a-4e87-b941-feba8108f127#ref=rss)
+### família
+
+* [https://www.spiegel.de/panorama/ulmer-muenster-hoechster-kirchturm-der-welt-ist-jetzt-die-sagrada-familia-in-barcelona](https://www.spiegel.de/panorama/ulmer-muenster-hoechster-kirchturm-der-welt-ist-jetzt-die-sagrada-familia-in-barcelona-a-dfc52398-519a-4e87-b941-feba8108f127#ref=rss)
+### barcelona
+
+* [https://www.spiegel.de/panorama/ulmer-muenster-hoechster-kirchturm-der-welt-ist-jetzt-die-sagrada-familia-in-barcelona](https://www.spiegel.de/panorama/ulmer-muenster-hoechster-kirchturm-der-welt-ist-jetzt-die-sagrada-familia-in-barcelona-a-dfc52398-519a-4e87-b941-feba8108f127#ref=rss)
+### lang
+
+* [https://www.spiegel.de/panorama/ulmer-muenster-hoechster-kirchturm-der-welt-ist-jetzt-die-sagrada-familia-in-barcelona](https://www.spiegel.de/panorama/ulmer-muenster-hoechster-kirchturm-der-welt-ist-jetzt-die-sagrada-familia-in-barcelona-a-dfc52398-519a-4e87-b941-feba8108f127#ref=rss)
+* [https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben](https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben-a-accdf8b6-1e1d-40ed-8d68-09b960019aa8#ref=rss)
+### elektroautos
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-rohstoffquellen-elektroautos-wahl-in-den-niederlanden](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-rohstoffquellen-elektroautos-wahl-in-den-niederlanden-a-63fe068b-6c20-4137-88e5-eac003d1ae78#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-rohstoffquellen-elektroautos-wahl-in-den-niederlanden](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-rohstoffquellen-elektroautos-wahl-in-den-niederlanden-a-63fe068b-6c20-4137-88e5-eac003d1ae78#ref=rss)
+* [https://www.spiegel.de/ausland/tansania-demonstrationen-bei-wahlen-in-tansania](https://www.spiegel.de/ausland/tansania-demonstrationen-bei-wahlen-in-tansania-a-95e43d52-c068-411d-ba97-03a7d1068e51#ref=rss)
+### niederlanden
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-rohstoffquellen-elektroautos-wahl-in-den-niederlanden](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-rohstoffquellen-elektroautos-wahl-in-den-niederlanden-a-63fe068b-6c20-4137-88e5-eac003d1ae78#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-rohstoffquellen-elektroautos-wahl-in-den-niederlanden](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trumps-rohstoffquellen-elektroautos-wahl-in-den-niederlanden-a-63fe068b-6c20-4137-88e5-eac003d1ae78#ref=rss)
+* [https://www.spiegel.de/ausland/polen-luftwaffe-faengt-erneut-russischen-aufklaerer-ab](https://www.spiegel.de/ausland/polen-luftwaffe-faengt-erneut-russischen-aufklaerer-ab-a-1041c823-30a1-4e67-a4b9-b090eaf96895#ref=rss)
+### recep
+
+* [https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt](https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt-a-2d65a631-4492-470c-8b92-293a7306c04d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition](https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition-a-eea2dc30-aba0-459e-b630-e4ce560bad9d#ref=rss)
+### tayyip
+
+* [https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt](https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt-a-2d65a631-4492-470c-8b92-293a7306c04d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition](https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition-a-eea2dc30-aba0-459e-b630-e4ce560bad9d#ref=rss)
+### erdoğan
+
+* [https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt](https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt-a-2d65a631-4492-470c-8b92-293a7306c04d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition](https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition-a-eea2dc30-aba0-459e-b630-e4ce560bad9d#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt](https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt-a-2d65a631-4492-470c-8b92-293a7306c04d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition](https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition-a-eea2dc30-aba0-459e-b630-e4ce560bad9d#ref=rss)
+### ankara
+
+* [https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt](https://www.spiegel.de/politik/friedrich-merz-bemueht-sich-in-der-tuerkei-um-recep-tayyip-erdogan-doch-der-zeigt-sich-unbeeindruckt-a-2d65a631-4492-470c-8b92-293a7306c04d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition](https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition-a-eea2dc30-aba0-459e-b630-e4ce560bad9d#ref=rss)
+### zweier
+
+* [https://www.spiegel.de/ausland/israel-erhaelt-die-leichen-zweier-geiseln-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-erhaelt-die-leichen-zweier-geiseln-aus-dem-gazastreifen-a-3cb2ed4e-a607-400c-8f25-c0323159bc4d#ref=rss)
+### geiseln
+
+* [https://www.spiegel.de/ausland/israel-erhaelt-die-leichen-zweier-geiseln-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-erhaelt-die-leichen-zweier-geiseln-aus-dem-gazastreifen-a-3cb2ed4e-a607-400c-8f25-c0323159bc4d#ref=rss)
+### gazastreifen
+
+* [https://www.spiegel.de/ausland/israel-erhaelt-die-leichen-zweier-geiseln-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-erhaelt-die-leichen-zweier-geiseln-aus-dem-gazastreifen-a-3cb2ed4e-a607-400c-8f25-c0323159bc4d#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/israel-erhaelt-die-leichen-zweier-geiseln-aus-dem-gazastreifen](https://www.spiegel.de/ausland/israel-erhaelt-die-leichen-zweier-geiseln-aus-dem-gazastreifen-a-3cb2ed4e-a607-400c-8f25-c0323159bc4d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/trier-bischoefe-reinhard-marx-und-stephan-ackermann-bitten-missbrauchsopfer-um-verzeihung](https://www.spiegel.de/panorama/justiz/trier-bischoefe-reinhard-marx-und-stephan-ackermann-bitten-missbrauchsopfer-um-verzeihung-a-447bf94b-148d-40dd-a50a-6f8d06938360#ref=rss)
+### louvre
+
+* [https://www.spiegel.de/ausland/louvre-um-die-taeter-zieht-sich-die-schlinge-zu-aber-wo-sind-die-juwelen](https://www.spiegel.de/ausland/louvre-um-die-taeter-zieht-sich-die-schlinge-zu-aber-wo-sind-die-juwelen-a-56e4ca38-74fc-449b-9a96-0514d487b85f#ref=rss)
+### verloren
+
+* [https://www.spiegel.de/ausland/louvre-um-die-taeter-zieht-sich-die-schlinge-zu-aber-wo-sind-die-juwelen](https://www.spiegel.de/ausland/louvre-um-die-taeter-zieht-sich-die-schlinge-zu-aber-wo-sind-die-juwelen-a-56e4ca38-74fc-449b-9a96-0514d487b85f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-sinkt-im-oktober-auf-2-3-prozent](https://www.spiegel.de/wirtschaft/inflation-sinkt-im-oktober-auf-2-3-prozent-a-890a9656-3a86-48da-a3ca-328db49fdeff#ref=rss)
+### maria
+
+* [https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben](https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben-a-accdf8b6-1e1d-40ed-8d68-09b960019aa8#ref=rss)
+### riva
+
+* [https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben](https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben-a-accdf8b6-1e1d-40ed-8d68-09b960019aa8#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben](https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben-a-accdf8b6-1e1d-40ed-8d68-09b960019aa8#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben](https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben-a-accdf8b6-1e1d-40ed-8d68-09b960019aa8#ref=rss)
+### marlene
+
+* [https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben](https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben-a-accdf8b6-1e1d-40ed-8d68-09b960019aa8#ref=rss)
+### dietrich
+
+* [https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben](https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben-a-accdf8b6-1e1d-40ed-8d68-09b960019aa8#ref=rss)
+### 100
+
+* [https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben](https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben-a-accdf8b6-1e1d-40ed-8d68-09b960019aa8#ref=rss)
+### leben
+
+* [https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben](https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben-a-accdf8b6-1e1d-40ed-8d68-09b960019aa8#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-downhill-skiers-beleuchtet-die-faszination-und-die-risiken-im-abfahrtssport](https://www.spiegel.de/sport/wintersport/ski-alpin-downhill-skiers-beleuchtet-die-faszination-und-die-risiken-im-abfahrtssport-a-b9d9f441-1df7-4a18-b417-b14fa84138bb#ref=rss)
+### allem
+
+* [https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben](https://www.spiegel.de/kultur/maria-riva-ist-tot-schauspielerin-und-tochter-von-marlene-dietrich-mit-100-jahren-gestorben-a-accdf8b6-1e1d-40ed-8d68-09b960019aa8#ref=rss)
+* [https://www.spiegel.de/gesundheit/meningokokken-impfung-arzt-erklaert-neue-empfehlung-zu-gefaehrlichem-erreger](https://www.spiegel.de/gesundheit/meningokokken-impfung-arzt-erklaert-neue-empfehlung-zu-gefaehrlichem-erreger-a-b2452a2d-831b-4882-ad0a-0dce3cef33e3#ref=rss)
+### trier
+
+* [https://www.spiegel.de/panorama/justiz/trier-bischoefe-reinhard-marx-und-stephan-ackermann-bitten-missbrauchsopfer-um-verzeihung](https://www.spiegel.de/panorama/justiz/trier-bischoefe-reinhard-marx-und-stephan-ackermann-bitten-missbrauchsopfer-um-verzeihung-a-447bf94b-148d-40dd-a50a-6f8d06938360#ref=rss)
+### marx
+
+* [https://www.spiegel.de/panorama/justiz/trier-bischoefe-reinhard-marx-und-stephan-ackermann-bitten-missbrauchsopfer-um-verzeihung](https://www.spiegel.de/panorama/justiz/trier-bischoefe-reinhard-marx-und-stephan-ackermann-bitten-missbrauchsopfer-um-verzeihung-a-447bf94b-148d-40dd-a50a-6f8d06938360#ref=rss)
+### ackermann
+
+* [https://www.spiegel.de/panorama/justiz/trier-bischoefe-reinhard-marx-und-stephan-ackermann-bitten-missbrauchsopfer-um-verzeihung](https://www.spiegel.de/panorama/justiz/trier-bischoefe-reinhard-marx-und-stephan-ackermann-bitten-missbrauchsopfer-um-verzeihung-a-447bf94b-148d-40dd-a50a-6f8d06938360#ref=rss)
+### bitten
+
+* [https://www.spiegel.de/panorama/justiz/trier-bischoefe-reinhard-marx-und-stephan-ackermann-bitten-missbrauchsopfer-um-verzeihung](https://www.spiegel.de/panorama/justiz/trier-bischoefe-reinhard-marx-und-stephan-ackermann-bitten-missbrauchsopfer-um-verzeihung-a-447bf94b-148d-40dd-a50a-6f8d06938360#ref=rss)
+### verzeihung
+
+* [https://www.spiegel.de/panorama/justiz/trier-bischoefe-reinhard-marx-und-stephan-ackermann-bitten-missbrauchsopfer-um-verzeihung](https://www.spiegel.de/panorama/justiz/trier-bischoefe-reinhard-marx-und-stephan-ackermann-bitten-missbrauchsopfer-um-verzeihung-a-447bf94b-148d-40dd-a50a-6f8d06938360#ref=rss)
+### bericht
+
+* [https://www.spiegel.de/panorama/justiz/trier-bischoefe-reinhard-marx-und-stephan-ackermann-bitten-missbrauchsopfer-um-verzeihung](https://www.spiegel.de/panorama/justiz/trier-bischoefe-reinhard-marx-und-stephan-ackermann-bitten-missbrauchsopfer-um-verzeihung-a-447bf94b-148d-40dd-a50a-6f8d06938360#ref=rss)
+* [https://www.spiegel.de/sport/galoppsport-tierschuetzer-berichten-von-175-toten-rennpferden-innerhalb-eines-jahres-in-australien](https://www.spiegel.de/sport/galoppsport-tierschuetzer-berichten-von-175-toten-rennpferden-innerhalb-eines-jahres-in-australien-a-1352f4e2-c5e6-453d-a22f-f5b5efbce45d#ref=rss)
+### erfurt
+
+* [https://www.spiegel.de/panorama/justiz/erfurt-lehrer-wegen-jahrelangen-missbrauchs-an-schuelerin-verurteilt](https://www.spiegel.de/panorama/justiz/erfurt-lehrer-wegen-jahrelangen-missbrauchs-an-schuelerin-verurteilt-a-ad347572-16f1-4452-84af-23b961bd7055#ref=rss)
+### lehrer
+
+* [https://www.spiegel.de/panorama/justiz/erfurt-lehrer-wegen-jahrelangen-missbrauchs-an-schuelerin-verurteilt](https://www.spiegel.de/panorama/justiz/erfurt-lehrer-wegen-jahrelangen-missbrauchs-an-schuelerin-verurteilt-a-ad347572-16f1-4452-84af-23b961bd7055#ref=rss)
+### schülerin
+
+* [https://www.spiegel.de/panorama/justiz/erfurt-lehrer-wegen-jahrelangen-missbrauchs-an-schuelerin-verurteilt](https://www.spiegel.de/panorama/justiz/erfurt-lehrer-wegen-jahrelangen-missbrauchs-an-schuelerin-verurteilt-a-ad347572-16f1-4452-84af-23b961bd7055#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/erfurt-lehrer-wegen-jahrelangen-missbrauchs-an-schuelerin-verurteilt](https://www.spiegel.de/panorama/justiz/erfurt-lehrer-wegen-jahrelangen-missbrauchs-an-schuelerin-verurteilt-a-ad347572-16f1-4452-84af-23b961bd7055#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/afd-brandmauer-cdu-stimmt-im-kreistag-erstmals-antrag-der-afd-zu](https://www.spiegel.de/politik/deutschland/afd-brandmauer-cdu-stimmt-im-kreistag-erstmals-antrag-der-afd-zu-a-1f3349ee-9c32-49e2-babc-9d227a794a8d#ref=rss)
+### bundeskanzler
+
+* [https://www.spiegel.de/politik/deutschland/afd-brandmauer-cdu-stimmt-im-kreistag-erstmals-antrag-der-afd-zu](https://www.spiegel.de/politik/deutschland/afd-brandmauer-cdu-stimmt-im-kreistag-erstmals-antrag-der-afd-zu-a-1f3349ee-9c32-49e2-babc-9d227a794a8d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition](https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition-a-eea2dc30-aba0-459e-b630-e4ce560bad9d#ref=rss)
+### halle
+
+* [https://www.spiegel.de/panorama/bildung/halle-rektorin-der-uni-bedauert-genehmigung-einer-veranstaltung-zum-gazakonflikt](https://www.spiegel.de/panorama/bildung/halle-rektorin-der-uni-bedauert-genehmigung-einer-veranstaltung-zum-gazakonflikt-a-f3e59609-a0d8-4788-9273-552fdc323794#ref=rss)
+### uni
+
+* [https://www.spiegel.de/panorama/bildung/halle-rektorin-der-uni-bedauert-genehmigung-einer-veranstaltung-zum-gazakonflikt](https://www.spiegel.de/panorama/bildung/halle-rektorin-der-uni-bedauert-genehmigung-einer-veranstaltung-zum-gazakonflikt-a-f3e59609-a0d8-4788-9273-552fdc323794#ref=rss)
+### veranstaltung
+
+* [https://www.spiegel.de/panorama/bildung/halle-rektorin-der-uni-bedauert-genehmigung-einer-veranstaltung-zum-gazakonflikt](https://www.spiegel.de/panorama/bildung/halle-rektorin-der-uni-bedauert-genehmigung-einer-veranstaltung-zum-gazakonflikt-a-f3e59609-a0d8-4788-9273-552fdc323794#ref=rss)
+### byd
+
+* [https://www.spiegel.de/wirtschaft/vw-und-tesla-rivale-byd-verzeichnet-gewinneinbruch](https://www.spiegel.de/wirtschaft/vw-und-tesla-rivale-byd-verzeichnet-gewinneinbruch-a-f1a84dec-5da8-4c96-8245-4ee551a2797c#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/wirtschaft/vw-und-tesla-rivale-byd-verzeichnet-gewinneinbruch](https://www.spiegel.de/wirtschaft/vw-und-tesla-rivale-byd-verzeichnet-gewinneinbruch-a-f1a84dec-5da8-4c96-8245-4ee551a2797c#ref=rss)
+* [https://www.spiegel.de/gesundheit/patientensicherheit-medizinischer-dienst-meldet-tausende-behandlungsfehler](https://www.spiegel.de/gesundheit/patientensicherheit-medizinischer-dienst-meldet-tausende-behandlungsfehler-a-57eb30ee-b411-454b-bf94-3c25636f34e9#ref=rss)
+### kuba
+
+* [https://www.spiegel.de/ausland/kuba-hurrikan-melissa-zerstoert-wallfahrtskirche-el-cobre](https://www.spiegel.de/ausland/kuba-hurrikan-melissa-zerstoert-wallfahrtskirche-el-cobre-a-097bf887-856d-4b55-829d-13c8e4b33cb8#ref=rss)
+### schäden
+
+* [https://www.spiegel.de/ausland/kuba-hurrikan-melissa-zerstoert-wallfahrtskirche-el-cobre](https://www.spiegel.de/ausland/kuba-hurrikan-melissa-zerstoert-wallfahrtskirche-el-cobre-a-097bf887-856d-4b55-829d-13c8e4b33cb8#ref=rss)
+* [https://www.spiegel.de/gesundheit/patientensicherheit-medizinischer-dienst-meldet-tausende-behandlungsfehler](https://www.spiegel.de/gesundheit/patientensicherheit-medizinischer-dienst-meldet-tausende-behandlungsfehler-a-57eb30ee-b411-454b-bf94-3c25636f34e9#ref=rss)
+### mercedes
+
+* [https://www.spiegel.de/wirtschaft/vw-porsche-mercedes-und-bmw-so-schlecht-steht-es-um-die-deutsche-autoindustrie](https://www.spiegel.de/wirtschaft/vw-porsche-mercedes-und-bmw-so-schlecht-steht-es-um-die-deutsche-autoindustrie-a-5d2565f3-182f-4fe5-93a8-fe3ffc752290#ref=rss)
+### tansania
+
+* [https://www.spiegel.de/ausland/tansania-demonstrationen-bei-wahlen-in-tansania](https://www.spiegel.de/ausland/tansania-demonstrationen-bei-wahlen-in-tansania-a-95e43d52-c068-411d-ba97-03a7d1068e51#ref=rss)
+### beleuchtet
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-downhill-skiers-beleuchtet-die-faszination-und-die-risiken-im-abfahrtssport](https://www.spiegel.de/sport/wintersport/ski-alpin-downhill-skiers-beleuchtet-die-faszination-und-die-risiken-im-abfahrtssport-a-b9d9f441-1df7-4a18-b417-b14fa84138bb#ref=rss)
+### remscheid
+
+* [https://www.spiegel.de/panorama/justiz/remscheid-abtransport-des-waffenarsenals-dauert-tage](https://www.spiegel.de/panorama/justiz/remscheid-abtransport-des-waffenarsenals-dauert-tage-a-3099827f-a781-4517-a766-768d2945cc76#ref=rss)
+### abtransport
+
+* [https://www.spiegel.de/panorama/justiz/remscheid-abtransport-des-waffenarsenals-dauert-tage](https://www.spiegel.de/panorama/justiz/remscheid-abtransport-des-waffenarsenals-dauert-tage-a-3099827f-a781-4517-a766-768d2945cc76#ref=rss)
+### waffenarsenals
+
+* [https://www.spiegel.de/panorama/justiz/remscheid-abtransport-des-waffenarsenals-dauert-tage](https://www.spiegel.de/panorama/justiz/remscheid-abtransport-des-waffenarsenals-dauert-tage-a-3099827f-a781-4517-a766-768d2945cc76#ref=rss)
+### prinz
+
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-prinz-william-gewinnt-rechtsstreit-in-fall-um-paparazzifotos](https://www.spiegel.de/panorama/justiz/grossbritannien-prinz-william-gewinnt-rechtsstreit-in-fall-um-paparazzifotos-a-4831fc91-d3f8-4884-b7c2-5224cc99b550#ref=rss)
+### william
+
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-prinz-william-gewinnt-rechtsstreit-in-fall-um-paparazzifotos](https://www.spiegel.de/panorama/justiz/grossbritannien-prinz-william-gewinnt-rechtsstreit-in-fall-um-paparazzifotos-a-4831fc91-d3f8-4884-b7c2-5224cc99b550#ref=rss)
+### oktober
+
+* [https://www.spiegel.de/wirtschaft/inflation-sinkt-im-oktober-auf-2-3-prozent](https://www.spiegel.de/wirtschaft/inflation-sinkt-im-oktober-auf-2-3-prozent-a-890a9656-3a86-48da-a3ca-328db49fdeff#ref=rss)
+### 23
+
+* [https://www.spiegel.de/wirtschaft/inflation-sinkt-im-oktober-auf-2-3-prozent](https://www.spiegel.de/wirtschaft/inflation-sinkt-im-oktober-auf-2-3-prozent-a-890a9656-3a86-48da-a3ca-328db49fdeff#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/inflation-sinkt-im-oktober-auf-2-3-prozent](https://www.spiegel.de/wirtschaft/inflation-sinkt-im-oktober-auf-2-3-prozent-a-890a9656-3a86-48da-a3ca-328db49fdeff#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/wirtschaft/inflation-sinkt-im-oktober-auf-2-3-prozent](https://www.spiegel.de/wirtschaft/inflation-sinkt-im-oktober-auf-2-3-prozent-a-890a9656-3a86-48da-a3ca-328db49fdeff#ref=rss)
+* [https://www.spiegel.de/ausland/polen-luftwaffe-faengt-erneut-russischen-aufklaerer-ab](https://www.spiegel.de/ausland/polen-luftwaffe-faengt-erneut-russischen-aufklaerer-ab-a-1041c823-30a1-4e67-a4b9-b090eaf96895#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/gesundheit/meningokokken-impfung-arzt-erklaert-neue-empfehlung-zu-gefaehrlichem-erreger](https://www.spiegel.de/gesundheit/meningokokken-impfung-arzt-erklaert-neue-empfehlung-zu-gefaehrlichem-erreger-a-b2452a2d-831b-4882-ad0a-0dce3cef33e3#ref=rss)
 
