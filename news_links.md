@@ -4,274 +4,329 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### andrew
+### halloween
 
-* [https://www.spiegel.de/panorama/andrew-nach-dem-titele-sarah-ferguson-muss-sich-offenbar-eigenes-zuhause-suchen](https://www.spiegel.de/panorama/andrew-nach-dem-titele-sarah-ferguson-muss-sich-offenbar-eigenes-zuhause-suchen-a-9b79ef2e-67b9-4a0e-ba98-a2293cc9ccdc#ref=rss)
-* [https://www.spiegel.de/ausland/prinz-andrew-verliert-wegen-jeffrey-epstein-affaere-seine-titel-dank-virginia-roberts-giuffre](https://www.spiegel.de/ausland/prinz-andrew-verliert-wegen-jeffrey-epstein-affaere-seine-titel-dank-virginia-roberts-giuffre-a-f63ea008-0c6d-4125-9cdb-d5b023ba4045#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-prinz-andrew-wiederaufbau-auf-jamaika-massaker-im-sudan](https://www.spiegel.de/politik/deutschland/news-prinz-andrew-wiederaufbau-auf-jamaika-massaker-im-sudan-a-3faa476a-5ee1-4eb5-a807-ec50a2f7cac4#ref=rss)
-### verliert
+* [https://www.spiegel.de/ausland/chicago-illinois-gouverneur-jb-pritzker-bittet-ice-um-pause-damit-kinder-an-halloween-gefahrlos-suessigkeiten-sammeln-koennen](https://www.spiegel.de/ausland/chicago-illinois-gouverneur-jb-pritzker-bittet-ice-um-pause-damit-kinder-an-halloween-gefahrlos-suessigkeiten-sammeln-koennen-a-f3591502-23e9-4496-b2e2-5b9738c3562c#ref=rss)
+* [https://www.spiegel.de/deinspiegel/halloween-warum-wir-gespenster-lieben](https://www.spiegel.de/deinspiegel/halloween-warum-wir-gespenster-lieben-a-ac5bb657-2008-4869-96d0-78d48222c893#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/reise/jetblue-jet-verliert-in-wenigen-minuten-mehr-als-5000-meter-hoehe](https://www.spiegel.de/reise/jetblue-jet-verliert-in-wenigen-minuten-mehr-als-5000-meter-hoehe-a-3a8ce4ba-2bd4-4aa2-842d-2dd73f13832e#ref=rss)
-* [https://www.spiegel.de/ausland/prinz-andrew-verliert-wegen-jeffrey-epstein-affaere-seine-titel-dank-virginia-roberts-giuffre](https://www.spiegel.de/ausland/prinz-andrew-verliert-wegen-jeffrey-epstein-affaere-seine-titel-dank-virginia-roberts-giuffre-a-f63ea008-0c6d-4125-9cdb-d5b023ba4045#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-prinz-andrew-wiederaufbau-auf-jamaika-massaker-im-sudan](https://www.spiegel.de/politik/deutschland/news-prinz-andrew-wiederaufbau-auf-jamaika-massaker-im-sudan-a-3faa476a-5ee1-4eb5-a807-ec50a2f7cac4#ref=rss)
-### männer
+* [https://www.spiegel.de/panorama/mutter-versteckt-babyleiche-in-gefriertruhe-sechs-jahre-haft](https://www.spiegel.de/panorama/mutter-versteckt-babyleiche-in-gefriertruhe-sechs-jahre-haft-a-9c2f5afb-64d4-4875-8e44-9039bd616113#ref=rss)
+* [https://www.spiegel.de/ausland/uno-verurteilt-die-toetungen-im-sudan-als-voelkerrechtsverstoesse](https://www.spiegel.de/ausland/uno-verurteilt-die-toetungen-im-sudan-als-voelkerrechtsverstoesse-a-d9b9bca8-2d8c-4f40-a3e9-eb14bf4c0592#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ausbreitung-auf-gefluegel-betriebe-in-deutschland-nimmt-zu](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ausbreitung-auf-gefluegel-betriebe-in-deutschland-nimmt-zu-a-8a9b98bf-ad1d-4e42-b565-6b23edbaaf46#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-anklage-gegen-acht-maenner-nach-toedlichen-schuessen-im-hauptbahnhof](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-anklage-gegen-acht-maenner-nach-toedlichen-schuessen-im-hauptbahnhof-a-51a03b75-9cba-4c7f-b8ad-d7a8ead392a8#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark](https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark-a-ad3d2111-4073-49d6-a09d-9e393317a542#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/uno-verurteilt-die-toetungen-im-sudan-als-voelkerrechtsverstoesse](https://www.spiegel.de/ausland/uno-verurteilt-die-toetungen-im-sudan-als-voelkerrechtsverstoesse-a-d9b9bca8-2d8c-4f40-a3e9-eb14bf4c0592#ref=rss)
+* [https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025](https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025-a-c003b949-21f2-47e5-a0fd-69bea93b1249#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mannheim-prozess-um-amokfahrt-an-fasching-gestartet](https://www.spiegel.de/panorama/justiz/mannheim-prozess-um-amokfahrt-an-fasching-gestartet-a-80e4650f-0512-4228-aa63-52ae588af064#ref=rss)
+### usa
 
-* [https://www.spiegel.de/psychologie/besser-schlafen-so-stoppen-sie-quaelende-naechtliche-gruebeleien](https://www.spiegel.de/psychologie/besser-schlafen-so-stoppen-sie-quaelende-naechtliche-gruebeleien-a-4a8b9895-50a3-42f7-b7bc-2bb93f400251#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark](https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark-a-ad3d2111-4073-49d6-a09d-9e393317a542#ref=rss)
+* [https://www.spiegel.de/panorama/leute/usa-kim-kardashian-zweifelt-an-der-mondlandung-und-der-nasa-chef-reagiert](https://www.spiegel.de/panorama/leute/usa-kim-kardashian-zweifelt-an-der-mondlandung-und-der-nasa-chef-reagiert-a-15cd921a-2cfb-4f12-87c4-3338647ac0f6#ref=rss)
+* [https://www.spiegel.de/ausland/mali-al-qaida-auf-dem-vormarsch-deutschland-usa-und-italien-rufen-staatsbuerger-zur-ausreise-auf](https://www.spiegel.de/ausland/mali-al-qaida-auf-dem-vormarsch-deutschland-usa-und-italien-rufen-staatsbuerger-zur-ausreise-auf-a-44d0babc-281c-4536-9752-86944c5b4bbd#ref=rss)
+* [https://www.spiegel.de/ausland/trump-in-japan-premierministerin-sanae-takaichi-staerkt-beziehungen-zu-usa](https://www.spiegel.de/ausland/trump-in-japan-premierministerin-sanae-takaichi-staerkt-beziehungen-zu-usa-a-6922cd17-594a-45d4-b348-521b0ed98532#ref=rss)
+### junge
+
+* [https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025](https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025-a-c003b949-21f2-47e5-a0fd-69bea93b1249#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hunderttausende-ultra-orthodoxe-protestieren-gegen-wehrpflicht-in-jerusalem-ein-junge-stirbt](https://www.spiegel.de/ausland/israel-hunderttausende-ultra-orthodoxe-protestieren-gegen-wehrpflicht-in-jerusalem-ein-junge-stirbt-a-ffedd87a-3750-45cb-b61f-336ffb60db42#ref=rss)
+* [https://www.spiegel.de/ausland/faschistische-gesaenge-vor-dem-sitz-von-meloni-partei](https://www.spiegel.de/ausland/faschistische-gesaenge-vor-dem-sitz-von-meloni-partei-a-16c655c1-5e0c-443f-9f5b-a4727a425a91#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wissenschaft/deutschland-war-ihre-heimat-eine-hochburg-der-hexenverfolgung](https://www.spiegel.de/wissenschaft/deutschland-war-ihre-heimat-eine-hochburg-der-hexenverfolgung-a-de4d8173-3521-4678-8b0c-5479f2e0d216#ref=rss)
+* [https://www.spiegel.de/ausland/mali-al-qaida-auf-dem-vormarsch-deutschland-usa-und-italien-rufen-staatsbuerger-zur-ausreise-auf](https://www.spiegel.de/ausland/mali-al-qaida-auf-dem-vormarsch-deutschland-usa-und-italien-rufen-staatsbuerger-zur-ausreise-auf-a-44d0babc-281c-4536-9752-86944c5b4bbd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ausbreitung-auf-gefluegel-betriebe-in-deutschland-nimmt-zu](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ausbreitung-auf-gefluegel-betriebe-in-deutschland-nimmt-zu-a-8a9b98bf-ad1d-4e42-b565-6b23edbaaf46#ref=rss)
+### pause
+
+* [https://www.spiegel.de/kultur/tv-moderator-pierre-m-krause-ueber-tumor-erkrankung-war-ein-hoellenritt](https://www.spiegel.de/kultur/tv-moderator-pierre-m-krause-ueber-tumor-erkrankung-war-ein-hoellenritt-a-eac9fa27-6215-4908-bdbd-8ccd6e5d8208#ref=rss)
+* [https://www.spiegel.de/ausland/chicago-illinois-gouverneur-jb-pritzker-bittet-ice-um-pause-damit-kinder-an-halloween-gefahrlos-suessigkeiten-sammeln-koennen](https://www.spiegel.de/ausland/chicago-illinois-gouverneur-jb-pritzker-bittet-ice-um-pause-damit-kinder-an-halloween-gefahrlos-suessigkeiten-sammeln-koennen-a-f3591502-23e9-4496-b2e2-5b9738c3562c#ref=rss)
+### niederlanden
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-an-muetterrente-wahl-in-den-niederlanden-johann-wadephul-in-syrien](https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-an-muetterrente-wahl-in-den-niederlanden-johann-wadephul-in-syrien-a-59054a53-5d86-4f15-8c72-5bbf89e6d90e#ref=rss)
+* [https://www.spiegel.de/ausland/parlamentswahlen-in-den-niederlanden-stolz-auf-dieses-historische-ergebnis](https://www.spiegel.de/ausland/parlamentswahlen-in-den-niederlanden-stolz-auf-dieses-historische-ergebnis-a-2396ba6b-a537-412b-9c38-be9135bab582#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/pressefreiheit-unter-donald-trump-keine-zeit-fuer-angst](https://www.spiegel.de/ausland/pressefreiheit-unter-donald-trump-keine-zeit-fuer-angst-a-dbc0f7c4-e4bd-47ae-afbf-3a6ec86bbe1d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ausbreitung-auf-gefluegel-betriebe-in-deutschland-nimmt-zu](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ausbreitung-auf-gefluegel-betriebe-in-deutschland-nimmt-zu-a-8a9b98bf-ad1d-4e42-b565-6b23edbaaf46#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-trifft-xi-jinping-deutsche-wirtschaft-betrachtet-us-china-gipfel-skeptisch](https://www.spiegel.de/wirtschaft/donald-trump-trifft-xi-jinping-deutsche-wirtschaft-betrachtet-us-china-gipfel-skeptisch-a-6cc70e63-215d-4d26-b87f-cadc4964bd46#ref=rss)
-* [https://www.spiegel.de/ausland/filibuster-donald-trump-fordert-abschaffung-der-regel-im-us-senat](https://www.spiegel.de/ausland/filibuster-donald-trump-fordert-abschaffung-der-regel-im-us-senat-a-437d5654-0678-488a-b164-840d46363e81#ref=rss)
-### neuen
+* [https://www.spiegel.de/ausland/pressefreiheit-unter-donald-trump-keine-zeit-fuer-angst](https://www.spiegel.de/ausland/pressefreiheit-unter-donald-trump-keine-zeit-fuer-angst-a-dbc0f7c4-e4bd-47ae-afbf-3a6ec86bbe1d#ref=rss)
+* [https://www.spiegel.de/ausland/trump-in-japan-premierministerin-sanae-takaichi-staerkt-beziehungen-zu-usa](https://www.spiegel.de/ausland/trump-in-japan-premierministerin-sanae-takaichi-staerkt-beziehungen-zu-usa-a-6922cd17-594a-45d4-b348-521b0ed98532#ref=rss)
+### israel
 
-* [https://www.spiegel.de/ausland/pakistan-afghanistan-gespraeche-hoffnung-und-misstrauen-bei-friedensverhandlungen](https://www.spiegel.de/ausland/pakistan-afghanistan-gespraeche-hoffnung-und-misstrauen-bei-friedensverhandlungen-a-fee018e9-5238-439f-8096-d1e085d1db41#ref=rss)
-* [https://www.spiegel.de/ausland/prinz-andrew-verliert-wegen-jeffrey-epstein-affaere-seine-titel-dank-virginia-roberts-giuffre](https://www.spiegel.de/ausland/prinz-andrew-verliert-wegen-jeffrey-epstein-affaere-seine-titel-dank-virginia-roberts-giuffre-a-f63ea008-0c6d-4125-9cdb-d5b023ba4045#ref=rss)
-* [https://www.spiegel.de/kultur/max-strohe-ueber-herbstgerichte-taubenbrust-pastete-mit-blutwurst-und-aal](https://www.spiegel.de/kultur/max-strohe-ueber-herbstgerichte-taubenbrust-pastete-mit-blutwurst-und-aal-a-d2750da9-e220-4316-ab12-d20a31b1d8e0#ref=rss)
-### prinz
+* [https://www.spiegel.de/ausland/israel-militaerstaatsanwaeltin-yifat-tomer-yerushalmi-tritt-wegen-leak-von-folter-video-aus-sde-teiman-zurueck](https://www.spiegel.de/ausland/israel-militaerstaatsanwaeltin-yifat-tomer-yerushalmi-tritt-wegen-leak-von-folter-video-aus-sde-teiman-zurueck-a-c3c37dbd-9321-4a18-a7a7-7ca3e5706e04#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hunderttausende-ultra-orthodoxe-protestieren-gegen-wehrpflicht-in-jerusalem-ein-junge-stirbt](https://www.spiegel.de/ausland/israel-hunderttausende-ultra-orthodoxe-protestieren-gegen-wehrpflicht-in-jerusalem-ein-junge-stirbt-a-ffedd87a-3750-45cb-b61f-336ffb60db42#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/ausland/prinz-andrew-verliert-wegen-jeffrey-epstein-affaere-seine-titel-dank-virginia-roberts-giuffre](https://www.spiegel.de/ausland/prinz-andrew-verliert-wegen-jeffrey-epstein-affaere-seine-titel-dank-virginia-roberts-giuffre-a-f63ea008-0c6d-4125-9cdb-d5b023ba4045#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-prinz-andrew-wiederaufbau-auf-jamaika-massaker-im-sudan](https://www.spiegel.de/politik/deutschland/news-prinz-andrew-wiederaufbau-auf-jamaika-massaker-im-sudan-a-3faa476a-5ee1-4eb5-a807-ec50a2f7cac4#ref=rss)
-### castroprauxel
+* [https://www.spiegel.de/panorama/mutter-versteckt-babyleiche-in-gefriertruhe-sechs-jahre-haft](https://www.spiegel.de/panorama/mutter-versteckt-babyleiche-in-gefriertruhe-sechs-jahre-haft-a-9c2f5afb-64d4-4875-8e44-9039bd616113#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/panorama/castrop-rauxel-mehrere-verletzte-nach-explosion-bei-tankstellengelaende](https://www.spiegel.de/panorama/castrop-rauxel-mehrere-verletzte-nach-explosion-bei-tankstellengelaende-a-59add8c1-d607-43c8-b7df-17401df9ebc2#ref=rss)
-### mehrere
+* [https://www.spiegel.de/panorama/mutter-versteckt-babyleiche-in-gefriertruhe-sechs-jahre-haft](https://www.spiegel.de/panorama/mutter-versteckt-babyleiche-in-gefriertruhe-sechs-jahre-haft-a-9c2f5afb-64d4-4875-8e44-9039bd616113#ref=rss)
+* [https://www.spiegel.de/kultur/twilight-jubilaeum-warum-die-saga-kult-ist](https://www.spiegel.de/kultur/twilight-jubilaeum-warum-die-saga-kult-ist-a-e4618656-0a6e-438c-8f7f-fffb665ec21f#ref=rss)
+### kind
 
-* [https://www.spiegel.de/panorama/castrop-rauxel-mehrere-verletzte-nach-explosion-bei-tankstellengelaende](https://www.spiegel.de/panorama/castrop-rauxel-mehrere-verletzte-nach-explosion-bei-tankstellengelaende-a-59add8c1-d607-43c8-b7df-17401df9ebc2#ref=rss)
-### explosion
+* [https://www.spiegel.de/panorama/mutter-versteckt-babyleiche-in-gefriertruhe-sechs-jahre-haft](https://www.spiegel.de/panorama/mutter-versteckt-babyleiche-in-gefriertruhe-sechs-jahre-haft-a-9c2f5afb-64d4-4875-8e44-9039bd616113#ref=rss)
+* [https://www.spiegel.de/panorama/indonesien-elefant-trampelt-kind-in-wohngebiet-nieder](https://www.spiegel.de/panorama/indonesien-elefant-trampelt-kind-in-wohngebiet-nieder-a-ec2f7d61-53f7-49d2-9276-6eff45a30f1a#ref=rss)
+### jurassica
 
-* [https://www.spiegel.de/panorama/castrop-rauxel-mehrere-verletzte-nach-explosion-bei-tankstellengelaende](https://www.spiegel.de/panorama/castrop-rauxel-mehrere-verletzte-nach-explosion-bei-tankstellengelaende-a-59add8c1-d607-43c8-b7df-17401df9ebc2#ref=rss)
-### kurz
+* [https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde](https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde-a-319764c6-53c3-46ae-ae56-0f1438dc3b28#ref=rss)
+### parka
 
-* [https://www.spiegel.de/panorama/castrop-rauxel-mehrere-verletzte-nach-explosion-bei-tankstellengelaende](https://www.spiegel.de/panorama/castrop-rauxel-mehrere-verletzte-nach-explosion-bei-tankstellengelaende-a-59add8c1-d607-43c8-b7df-17401df9ebc2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/apple-freut-sich-auf-das-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/apple-freut-sich-auf-das-weihnachtsgeschaeft-a-bba0ba49-a2b9-4fbf-a6b6-3345d34bb103#ref=rss)
-### darauf
+* [https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde](https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde-a-319764c6-53c3-46ae-ae56-0f1438dc3b28#ref=rss)
+### moderierte
 
-* [https://www.spiegel.de/panorama/castrop-rauxel-mehrere-verletzte-nach-explosion-bei-tankstellengelaende](https://www.spiegel.de/panorama/castrop-rauxel-mehrere-verletzte-nach-explosion-bei-tankstellengelaende-a-59add8c1-d607-43c8-b7df-17401df9ebc2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/apple-freut-sich-auf-das-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/apple-freut-sich-auf-das-weihnachtsgeschaeft-a-bba0ba49-a2b9-4fbf-a6b6-3345d34bb103#ref=rss)
-### offenbar
+* [https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde](https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde-a-319764c6-53c3-46ae-ae56-0f1438dc3b28#ref=rss)
+### juli
 
-* [https://www.spiegel.de/panorama/castrop-rauxel-mehrere-verletzte-nach-explosion-bei-tankstellengelaende](https://www.spiegel.de/panorama/castrop-rauxel-mehrere-verletzte-nach-explosion-bei-tankstellengelaende-a-59add8c1-d607-43c8-b7df-17401df9ebc2#ref=rss)
-* [https://www.spiegel.de/panorama/andrew-nach-dem-titele-sarah-ferguson-muss-sich-offenbar-eigenes-zuhause-suchen](https://www.spiegel.de/panorama/andrew-nach-dem-titele-sarah-ferguson-muss-sich-offenbar-eigenes-zuhause-suchen-a-9b79ef2e-67b9-4a0e-ba98-a2293cc9ccdc#ref=rss)
-### kamen
+* [https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde](https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde-a-319764c6-53c3-46ae-ae56-0f1438dc3b28#ref=rss)
+### berliner
 
-* [https://www.spiegel.de/panorama/castrop-rauxel-mehrere-verletzte-nach-explosion-bei-tankstellengelaende](https://www.spiegel.de/panorama/castrop-rauxel-mehrere-verletzte-nach-explosion-bei-tankstellengelaende-a-59add8c1-d607-43c8-b7df-17401df9ebc2#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark](https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark-a-ad3d2111-4073-49d6-a09d-9e393317a542#ref=rss)
-### wenigen
+* [https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde](https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde-a-319764c6-53c3-46ae-ae56-0f1438dc3b28#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/reise/jetblue-jet-verliert-in-wenigen-minuten-mehr-als-5000-meter-hoehe](https://www.spiegel.de/reise/jetblue-jet-verliert-in-wenigen-minuten-mehr-als-5000-meter-hoehe-a-3a8ce4ba-2bd4-4aa2-842d-2dd73f13832e#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark](https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark-a-ad3d2111-4073-49d6-a09d-9e393317a542#ref=rss)
-### minuten
+* [https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde](https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde-a-319764c6-53c3-46ae-ae56-0f1438dc3b28#ref=rss)
+### mitorganisiert
 
-* [https://www.spiegel.de/reise/jetblue-jet-verliert-in-wenigen-minuten-mehr-als-5000-meter-hoehe](https://www.spiegel.de/reise/jetblue-jet-verliert-in-wenigen-minuten-mehr-als-5000-meter-hoehe-a-3a8ce4ba-2bd4-4aa2-842d-2dd73f13832e#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark](https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark-a-ad3d2111-4073-49d6-a09d-9e393317a542#ref=rss)
-### mehr
+* [https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde](https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde-a-319764c6-53c3-46ae-ae56-0f1438dc3b28#ref=rss)
+### o
 
-* [https://www.spiegel.de/reise/jetblue-jet-verliert-in-wenigen-minuten-mehr-als-5000-meter-hoehe](https://www.spiegel.de/reise/jetblue-jet-verliert-in-wenigen-minuten-mehr-als-5000-meter-hoehe-a-3a8ce4ba-2bd4-4aa2-842d-2dd73f13832e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/apple-freut-sich-auf-das-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/apple-freut-sich-auf-das-weihnachtsgeschaeft-a-bba0ba49-a2b9-4fbf-a6b6-3345d34bb103#ref=rss)
-### newark
+* [https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde](https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde-a-319764c6-53c3-46ae-ae56-0f1438dc3b28#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/reise/jetblue-jet-verliert-in-wenigen-minuten-mehr-als-5000-meter-hoehe](https://www.spiegel.de/reise/jetblue-jet-verliert-in-wenigen-minuten-mehr-als-5000-meter-hoehe-a-3a8ce4ba-2bd4-4aa2-842d-2dd73f13832e#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark](https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark-a-ad3d2111-4073-49d6-a09d-9e393317a542#ref=rss)
-### lettland
+* [https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde](https://www.spiegel.de/panorama/justiz/jurassica-parka-dragkuenstlerin-moderierte-noch-im-juli-benefizgala-die-von-der-berliner-polizei-mitorganisiert-wurde-a-319764c6-53c3-46ae-ae56-0f1438dc3b28#ref=rss)
+* [https://www.spiegel.de/ausland/uno-verurteilt-die-toetungen-im-sudan-als-voelkerrechtsverstoesse](https://www.spiegel.de/ausland/uno-verurteilt-die-toetungen-im-sudan-als-voelkerrechtsverstoesse-a-d9b9bca8-2d8c-4f40-a3e9-eb14bf4c0592#ref=rss)
+### uno
 
-* [https://www.spiegel.de/ausland/lettland-beschliesst-austritt-aus-frauenschutz-abkommen](https://www.spiegel.de/ausland/lettland-beschliesst-austritt-aus-frauenschutz-abkommen-a-ddf66415-35f1-43c5-8a66-e5576cd0a71e#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/lettland-beschliesst-austritt-aus-frauenschutz-abkommen](https://www.spiegel.de/ausland/lettland-beschliesst-austritt-aus-frauenschutz-abkommen-a-ddf66415-35f1-43c5-8a66-e5576cd0a71e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/wehrdienst-debatte-beratung-fuer-kriegsdienstverweigerer-in-rostock](https://www.spiegel.de/panorama/gesellschaft/wehrdienst-debatte-beratung-fuer-kriegsdienstverweigerer-in-rostock-a-5d910155-bad0-416a-961b-1cd37a091a21#ref=rss)
-### apple
-
-* [https://www.spiegel.de/wirtschaft/apple-freut-sich-auf-das-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/apple-freut-sich-auf-das-weihnachtsgeschaeft-a-bba0ba49-a2b9-4fbf-a6b6-3345d34bb103#ref=rss)
-### freut
-
-* [https://www.spiegel.de/wirtschaft/apple-freut-sich-auf-das-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/apple-freut-sich-auf-das-weihnachtsgeschaeft-a-bba0ba49-a2b9-4fbf-a6b6-3345d34bb103#ref=rss)
-* [https://www.spiegel.de/wirtschaft/butterpreise-sinkende-preise-im-einzelhandel-belasten-milcherzeuger](https://www.spiegel.de/wirtschaft/butterpreise-sinkende-preise-im-einzelhandel-belasten-milcherzeuger-a-92b26f5d-35a6-42d5-9f32-4ed371c9bc8b#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/wirtschaft/apple-freut-sich-auf-das-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/apple-freut-sich-auf-das-weihnachtsgeschaeft-a-bba0ba49-a2b9-4fbf-a6b6-3345d34bb103#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/strom-effekt-der-netzentgelt-entlastung-variiert-je-nach-region](https://www.spiegel.de/wirtschaft/service/strom-effekt-der-netzentgelt-entlastung-variiert-je-nach-region-a-af4ec87e-190a-4a08-8bbe-08f913d4a0a4#ref=rss)
-### neues
-
-* [https://www.spiegel.de/panorama/gesellschaft/wehrdienst-debatte-beratung-fuer-kriegsdienstverweigerer-in-rostock](https://www.spiegel.de/panorama/gesellschaft/wehrdienst-debatte-beratung-fuer-kriegsdienstverweigerer-in-rostock-a-5d910155-bad0-416a-961b-1cd37a091a21#ref=rss)
-* [https://www.spiegel.de/kultur/musik/florence-the-machine-sevdaliza-dave-keiyaa-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/florence-the-machine-sevdaliza-dave-keiyaa-abgehoert-album-der-woche-a-9800f6bb-0cd9-47b1-a4db-d169e05bb098#ref=rss)
-### louvreeinbruch
-
-* [https://www.spiegel.de/panorama/louvre-einbruch-hier-spricht-der-virale-detektiv](https://www.spiegel.de/panorama/louvre-einbruch-hier-spricht-der-virale-detektiv-a-bfa348b6-23e0-4825-80f9-38d4c89236b6#ref=rss)
-### detektiv
-
-* [https://www.spiegel.de/panorama/louvre-einbruch-hier-spricht-der-virale-detektiv](https://www.spiegel.de/panorama/louvre-einbruch-hier-spricht-der-virale-detektiv-a-bfa348b6-23e0-4825-80f9-38d4c89236b6#ref=rss)
-### welt
-
-* [https://www.spiegel.de/panorama/louvre-einbruch-hier-spricht-der-virale-detektiv](https://www.spiegel.de/panorama/louvre-einbruch-hier-spricht-der-virale-detektiv-a-bfa348b6-23e0-4825-80f9-38d4c89236b6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-prinz-andrew-wiederaufbau-auf-jamaika-massaker-im-sudan](https://www.spiegel.de/politik/deutschland/news-prinz-andrew-wiederaufbau-auf-jamaika-massaker-im-sudan-a-3faa476a-5ee1-4eb5-a807-ec50a2f7cac4#ref=rss)
-### warf
-
-* [https://www.spiegel.de/panorama/louvre-einbruch-hier-spricht-der-virale-detektiv](https://www.spiegel.de/panorama/louvre-einbruch-hier-spricht-der-virale-detektiv-a-bfa348b6-23e0-4825-80f9-38d4c89236b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ben-jerrys-auch-der-zweite-gruender-denkt-wegen-unilever-mutterkonzern-ueber-abschied-nach](https://www.spiegel.de/wirtschaft/ben-jerrys-auch-der-zweite-gruender-denkt-wegen-unilever-mutterkonzern-ueber-abschied-nach-a-cf80e735-e583-4d90-a0bc-76e9534e4622#ref=rss)
-### effekt
-
-* [https://www.spiegel.de/wirtschaft/service/strom-effekt-der-netzentgelt-entlastung-variiert-je-nach-region](https://www.spiegel.de/wirtschaft/service/strom-effekt-der-netzentgelt-entlastung-variiert-je-nach-region-a-af4ec87e-190a-4a08-8bbe-08f913d4a0a4#ref=rss)
-### bund
-
-* [https://www.spiegel.de/wirtschaft/service/strom-effekt-der-netzentgelt-entlastung-variiert-je-nach-region](https://www.spiegel.de/wirtschaft/service/strom-effekt-der-netzentgelt-entlastung-variiert-je-nach-region-a-af4ec87e-190a-4a08-8bbe-08f913d4a0a4#ref=rss)
-* [https://www.spiegel.de/politik/steuererleichterungen-so-wird-die-bundeskasse-gepluendert](https://www.spiegel.de/politik/steuererleichterungen-so-wird-die-bundeskasse-gepluendert-a-0818eda2-d0ff-4bf3-b588-e5c9710288cd#ref=rss)
-### allem
-
-* [https://www.spiegel.de/wirtschaft/service/strom-effekt-der-netzentgelt-entlastung-variiert-je-nach-region](https://www.spiegel.de/wirtschaft/service/strom-effekt-der-netzentgelt-entlastung-variiert-je-nach-region-a-af4ec87e-190a-4a08-8bbe-08f913d4a0a4#ref=rss)
-* [https://www.spiegel.de/ausland/prinz-andrew-verliert-wegen-jeffrey-epstein-affaere-seine-titel-dank-virginia-roberts-giuffre](https://www.spiegel.de/ausland/prinz-andrew-verliert-wegen-jeffrey-epstein-affaere-seine-titel-dank-virginia-roberts-giuffre-a-f63ea008-0c6d-4125-9cdb-d5b023ba4045#ref=rss)
-### steigen
-
-* [https://www.spiegel.de/wirtschaft/immobilien-preise-steigen-mieten-steigen-noch-staerker](https://www.spiegel.de/wirtschaft/immobilien-preise-steigen-mieten-steigen-noch-staerker-a-488741e2-2796-482e-b271-ff6c117e1944#ref=rss)
-### stärker
-
-* [https://www.spiegel.de/wirtschaft/immobilien-preise-steigen-mieten-steigen-noch-staerker](https://www.spiegel.de/wirtschaft/immobilien-preise-steigen-mieten-steigen-noch-staerker-a-488741e2-2796-482e-b271-ff6c117e1944#ref=rss)
-* [https://www.spiegel.de/wirtschaft/muetterrente-arbeitgeberpraesident-fordert-verzicht-auf-erhoehung](https://www.spiegel.de/wirtschaft/muetterrente-arbeitgeberpraesident-fordert-verzicht-auf-erhoehung-a-8f417406-ab31-47c8-91dd-d024abf6f24b#ref=rss)
-### sehr
-
-* [https://www.spiegel.de/wirtschaft/immobilien-preise-steigen-mieten-steigen-noch-staerker](https://www.spiegel.de/wirtschaft/immobilien-preise-steigen-mieten-steigen-noch-staerker-a-488741e2-2796-482e-b271-ff6c117e1944#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-johann-wadephul-rechnet-nicht-mit-rascher-rueckkehr-von-syrern-koennen-kaum-wuerdig-leben](https://www.spiegel.de/ausland/syrien-johann-wadephul-rechnet-nicht-mit-rascher-rueckkehr-von-syrern-koennen-kaum-wuerdig-leben-a-65374469-466b-482f-a759-efc802592645#ref=rss)
-### acht
-
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-anklage-gegen-acht-maenner-nach-toedlichen-schuessen-im-hauptbahnhof](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-anklage-gegen-acht-maenner-nach-toedlichen-schuessen-im-hauptbahnhof-a-51a03b75-9cba-4c7f-b8ad-d7a8ead392a8#ref=rss)
-### hauptbahnhof
-
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-anklage-gegen-acht-maenner-nach-toedlichen-schuessen-im-hauptbahnhof](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-anklage-gegen-acht-maenner-nach-toedlichen-schuessen-im-hauptbahnhof-a-51a03b75-9cba-4c7f-b8ad-d7a8ead392a8#ref=rss)
-### florence
-
-* [https://www.spiegel.de/kultur/musik/florence-the-machine-sevdaliza-dave-keiyaa-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/florence-the-machine-sevdaliza-dave-keiyaa-abgehoert-album-der-woche-a-9800f6bb-0cd9-47b1-a4db-d169e05bb098#ref=rss)
-### sevdaliza
-
-* [https://www.spiegel.de/kultur/musik/florence-the-machine-sevdaliza-dave-keiyaa-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/florence-the-machine-sevdaliza-dave-keiyaa-abgehoert-album-der-woche-a-9800f6bb-0cd9-47b1-a4db-d169e05bb098#ref=rss)
-### album
-
-* [https://www.spiegel.de/kultur/musik/florence-the-machine-sevdaliza-dave-keiyaa-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/florence-the-machine-sevdaliza-dave-keiyaa-abgehoert-album-der-woche-a-9800f6bb-0cd9-47b1-a4db-d169e05bb098#ref=rss)
-### sarah
-
-* [https://www.spiegel.de/panorama/andrew-nach-dem-titele-sarah-ferguson-muss-sich-offenbar-eigenes-zuhause-suchen](https://www.spiegel.de/panorama/andrew-nach-dem-titele-sarah-ferguson-muss-sich-offenbar-eigenes-zuhause-suchen-a-9b79ef2e-67b9-4a0e-ba98-a2293cc9ccdc#ref=rss)
-### ferguson
-
-* [https://www.spiegel.de/panorama/andrew-nach-dem-titele-sarah-ferguson-muss-sich-offenbar-eigenes-zuhause-suchen](https://www.spiegel.de/panorama/andrew-nach-dem-titele-sarah-ferguson-muss-sich-offenbar-eigenes-zuhause-suchen-a-9b79ef2e-67b9-4a0e-ba98-a2293cc9ccdc#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/psychologie/besser-schlafen-so-stoppen-sie-quaelende-naechtliche-gruebeleien](https://www.spiegel.de/psychologie/besser-schlafen-so-stoppen-sie-quaelende-naechtliche-gruebeleien-a-4a8b9895-50a3-42f7-b7bc-2bb93f400251#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-aufsichtsrat-beruft-neue-vorstaende](https://www.spiegel.de/wirtschaft/deutsche-bahn-aufsichtsrat-beruft-neue-vorstaende-a-c80069a9-5d01-4211-9ce7-cf459d834cef#ref=rss)
-### steuererleichterungen
-
-* [https://www.spiegel.de/politik/steuererleichterungen-so-wird-die-bundeskasse-gepluendert](https://www.spiegel.de/politik/steuererleichterungen-so-wird-die-bundeskasse-gepluendert-a-0818eda2-d0ff-4bf3-b588-e5c9710288cd#ref=rss)
-### ende
-
-* [https://www.spiegel.de/politik/steuererleichterungen-so-wird-die-bundeskasse-gepluendert](https://www.spiegel.de/politik/steuererleichterungen-so-wird-die-bundeskasse-gepluendert-a-0818eda2-d0ff-4bf3-b588-e5c9710288cd#ref=rss)
-* [https://www.spiegel.de/ausland/filibuster-donald-trump-fordert-abschaffung-der-regel-im-us-senat](https://www.spiegel.de/ausland/filibuster-donald-trump-fordert-abschaffung-der-regel-im-us-senat-a-437d5654-0678-488a-b164-840d46363e81#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-trifft-xi-jinping-deutsche-wirtschaft-betrachtet-us-china-gipfel-skeptisch](https://www.spiegel.de/wirtschaft/donald-trump-trifft-xi-jinping-deutsche-wirtschaft-betrachtet-us-china-gipfel-skeptisch-a-6cc70e63-215d-4d26-b87f-cadc4964bd46#ref=rss)
-* [https://www.spiegel.de/ausland/filibuster-donald-trump-fordert-abschaffung-der-regel-im-us-senat](https://www.spiegel.de/ausland/filibuster-donald-trump-fordert-abschaffung-der-regel-im-us-senat-a-437d5654-0678-488a-b164-840d46363e81#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-trifft-xi-jinping-deutsche-wirtschaft-betrachtet-us-china-gipfel-skeptisch](https://www.spiegel.de/wirtschaft/donald-trump-trifft-xi-jinping-deutsche-wirtschaft-betrachtet-us-china-gipfel-skeptisch-a-6cc70e63-215d-4d26-b87f-cadc4964bd46#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-aufsichtsrat-beruft-neue-vorstaende](https://www.spiegel.de/wirtschaft/deutsche-bahn-aufsichtsrat-beruft-neue-vorstaende-a-c80069a9-5d01-4211-9ce7-cf459d834cef#ref=rss)
-### ben
-
-* [https://www.spiegel.de/wirtschaft/ben-jerrys-auch-der-zweite-gruender-denkt-wegen-unilever-mutterkonzern-ueber-abschied-nach](https://www.spiegel.de/wirtschaft/ben-jerrys-auch-der-zweite-gruender-denkt-wegen-unilever-mutterkonzern-ueber-abschied-nach-a-cf80e735-e583-4d90-a0bc-76e9534e4622#ref=rss)
-### gründer
-
-* [https://www.spiegel.de/wirtschaft/ben-jerrys-auch-der-zweite-gruender-denkt-wegen-unilever-mutterkonzern-ueber-abschied-nach](https://www.spiegel.de/wirtschaft/ben-jerrys-auch-der-zweite-gruender-denkt-wegen-unilever-mutterkonzern-ueber-abschied-nach-a-cf80e735-e583-4d90-a0bc-76e9534e4622#ref=rss)
-### mütterrente
-
-* [https://www.spiegel.de/wirtschaft/muetterrente-arbeitgeberpraesident-fordert-verzicht-auf-erhoehung](https://www.spiegel.de/wirtschaft/muetterrente-arbeitgeberpraesident-fordert-verzicht-auf-erhoehung-a-8f417406-ab31-47c8-91dd-d024abf6f24b#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/wirtschaft/muetterrente-arbeitgeberpraesident-fordert-verzicht-auf-erhoehung](https://www.spiegel.de/wirtschaft/muetterrente-arbeitgeberpraesident-fordert-verzicht-auf-erhoehung-a-8f417406-ab31-47c8-91dd-d024abf6f24b#ref=rss)
-* [https://www.spiegel.de/ausland/filibuster-donald-trump-fordert-abschaffung-der-regel-im-us-senat](https://www.spiegel.de/ausland/filibuster-donald-trump-fordert-abschaffung-der-regel-im-us-senat-a-437d5654-0678-488a-b164-840d46363e81#ref=rss)
-### einzelhandel
-
-* [https://www.spiegel.de/wirtschaft/butterpreise-sinkende-preise-im-einzelhandel-belasten-milcherzeuger](https://www.spiegel.de/wirtschaft/butterpreise-sinkende-preise-im-einzelhandel-belasten-milcherzeuger-a-92b26f5d-35a6-42d5-9f32-4ed371c9bc8b#ref=rss)
-### milcherzeuger
-
-* [https://www.spiegel.de/wirtschaft/butterpreise-sinkende-preise-im-einzelhandel-belasten-milcherzeuger](https://www.spiegel.de/wirtschaft/butterpreise-sinkende-preise-im-einzelhandel-belasten-milcherzeuger-a-92b26f5d-35a6-42d5-9f32-4ed371c9bc8b#ref=rss)
-### hoffnung
-
-* [https://www.spiegel.de/ausland/pakistan-afghanistan-gespraeche-hoffnung-und-misstrauen-bei-friedensverhandlungen](https://www.spiegel.de/ausland/pakistan-afghanistan-gespraeche-hoffnung-und-misstrauen-bei-friedensverhandlungen-a-fee018e9-5238-439f-8096-d1e085d1db41#ref=rss)
-### misstrauen
-
-* [https://www.spiegel.de/ausland/pakistan-afghanistan-gespraeche-hoffnung-und-misstrauen-bei-friedensverhandlungen](https://www.spiegel.de/ausland/pakistan-afghanistan-gespraeche-hoffnung-und-misstrauen-bei-friedensverhandlungen-a-fee018e9-5238-439f-8096-d1e085d1db41#ref=rss)
-### wadephul
-
-* [https://www.spiegel.de/ausland/syrien-johann-wadephul-rechnet-nicht-mit-rascher-rueckkehr-von-syrern-koennen-kaum-wuerdig-leben](https://www.spiegel.de/ausland/syrien-johann-wadephul-rechnet-nicht-mit-rascher-rueckkehr-von-syrern-koennen-kaum-wuerdig-leben-a-65374469-466b-482f-a759-efc802592645#ref=rss)
-### rückkehr
-
-* [https://www.spiegel.de/ausland/syrien-johann-wadephul-rechnet-nicht-mit-rascher-rueckkehr-von-syrern-koennen-kaum-wuerdig-leben](https://www.spiegel.de/ausland/syrien-johann-wadephul-rechnet-nicht-mit-rascher-rueckkehr-von-syrern-koennen-kaum-wuerdig-leben-a-65374469-466b-482f-a759-efc802592645#ref=rss)
-### syrern
-
-* [https://www.spiegel.de/ausland/syrien-johann-wadephul-rechnet-nicht-mit-rascher-rueckkehr-von-syrern-koennen-kaum-wuerdig-leben](https://www.spiegel.de/ausland/syrien-johann-wadephul-rechnet-nicht-mit-rascher-rueckkehr-von-syrern-koennen-kaum-wuerdig-leben-a-65374469-466b-482f-a759-efc802592645#ref=rss)
-### leben
-
-* [https://www.spiegel.de/ausland/syrien-johann-wadephul-rechnet-nicht-mit-rascher-rueckkehr-von-syrern-koennen-kaum-wuerdig-leben](https://www.spiegel.de/ausland/syrien-johann-wadephul-rechnet-nicht-mit-rascher-rueckkehr-von-syrern-koennen-kaum-wuerdig-leben-a-65374469-466b-482f-a759-efc802592645#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark](https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark-a-ad3d2111-4073-49d6-a09d-9e393317a542#ref=rss)
-### quiz
-
-* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-2b992c37-3b52-477b-ba30-4531e6278086#ref=rss)
-### reformationstag
-
-* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-2b992c37-3b52-477b-ba30-4531e6278086#ref=rss)
-### feiertag
-
-* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-2b992c37-3b52-477b-ba30-4531e6278086#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte](https://www.spiegel.de/panorama/gesellschaft/quiz-zum-reformationstag-wie-gut-kennen-sie-den-feiertag-und-seine-geschichte-a-2b992c37-3b52-477b-ba30-4531e6278086#ref=rss)
-### new
-
-* [https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark](https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark-a-ad3d2111-4073-49d6-a09d-9e393317a542#ref=rss)
-### york
-
-* [https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark](https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark-a-ad3d2111-4073-49d6-a09d-9e393317a542#ref=rss)
-### starkregen
-
-* [https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark](https://www.spiegel.de/panorama/new-york-zwei-tote-nach-starkregen-flugausfaelle-in-jfk-laguardia-und-newark-a-ad3d2111-4073-49d6-a09d-9e393317a542#ref=rss)
-### amiram
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-leichen-von-amiram-kuper-und-sahar-baruch-identifiziert](https://www.spiegel.de/ausland/israel-gaza-krieg-leichen-von-amiram-kuper-und-sahar-baruch-identifiziert-a-d9cef96d-7e83-411d-9a45-dac883a6f3d3#ref=rss)
-### kuper
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-leichen-von-amiram-kuper-und-sahar-baruch-identifiziert](https://www.spiegel.de/ausland/israel-gaza-krieg-leichen-von-amiram-kuper-und-sahar-baruch-identifiziert-a-d9cef96d-7e83-411d-9a45-dac883a6f3d3#ref=rss)
-### sahar
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-leichen-von-amiram-kuper-und-sahar-baruch-identifiziert](https://www.spiegel.de/ausland/israel-gaza-krieg-leichen-von-amiram-kuper-und-sahar-baruch-identifiziert-a-d9cef96d-7e83-411d-9a45-dac883a6f3d3#ref=rss)
-### baruch
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-leichen-von-amiram-kuper-und-sahar-baruch-identifiziert](https://www.spiegel.de/ausland/israel-gaza-krieg-leichen-von-amiram-kuper-und-sahar-baruch-identifiziert-a-d9cef96d-7e83-411d-9a45-dac883a6f3d3#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bahn-aufsichtsrat-beruft-neue-vorstaende](https://www.spiegel.de/wirtschaft/deutsche-bahn-aufsichtsrat-beruft-neue-vorstaende-a-c80069a9-5d01-4211-9ce7-cf459d834cef#ref=rss)
-* [https://www.spiegel.de/ausland/emmanuel-macron-in-frankreich-so-unbeliebt-wie-noch-nie](https://www.spiegel.de/ausland/emmanuel-macron-in-frankreich-so-unbeliebt-wie-noch-nie-a-7060d3de-e0b4-4a9f-97cb-6c3311a105b0#ref=rss)
-### titel
-
-* [https://www.spiegel.de/ausland/prinz-andrew-verliert-wegen-jeffrey-epstein-affaere-seine-titel-dank-virginia-roberts-giuffre](https://www.spiegel.de/ausland/prinz-andrew-verliert-wegen-jeffrey-epstein-affaere-seine-titel-dank-virginia-roberts-giuffre-a-f63ea008-0c6d-4125-9cdb-d5b023ba4045#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-prinz-andrew-wiederaufbau-auf-jamaika-massaker-im-sudan](https://www.spiegel.de/politik/deutschland/news-prinz-andrew-wiederaufbau-auf-jamaika-massaker-im-sudan-a-3faa476a-5ee1-4eb5-a807-ec50a2f7cac4#ref=rss)
-### wiederaufbau
-
-* [https://www.spiegel.de/politik/deutschland/news-prinz-andrew-wiederaufbau-auf-jamaika-massaker-im-sudan](https://www.spiegel.de/politik/deutschland/news-prinz-andrew-wiederaufbau-auf-jamaika-massaker-im-sudan-a-3faa476a-5ee1-4eb5-a807-ec50a2f7cac4#ref=rss)
-### jamaika
-
-* [https://www.spiegel.de/politik/deutschland/news-prinz-andrew-wiederaufbau-auf-jamaika-massaker-im-sudan](https://www.spiegel.de/politik/deutschland/news-prinz-andrew-wiederaufbau-auf-jamaika-massaker-im-sudan-a-3faa476a-5ee1-4eb5-a807-ec50a2f7cac4#ref=rss)
+* [https://www.spiegel.de/ausland/uno-verurteilt-die-toetungen-im-sudan-als-voelkerrechtsverstoesse](https://www.spiegel.de/ausland/uno-verurteilt-die-toetungen-im-sudan-als-voelkerrechtsverstoesse-a-d9b9bca8-2d8c-4f40-a3e9-eb14bf4c0592#ref=rss)
 ### sudan
 
-* [https://www.spiegel.de/politik/deutschland/news-prinz-andrew-wiederaufbau-auf-jamaika-massaker-im-sudan](https://www.spiegel.de/politik/deutschland/news-prinz-andrew-wiederaufbau-auf-jamaika-massaker-im-sudan-a-3faa476a-5ee1-4eb5-a807-ec50a2f7cac4#ref=rss)
-### ussenat
+* [https://www.spiegel.de/ausland/uno-verurteilt-die-toetungen-im-sudan-als-voelkerrechtsverstoesse](https://www.spiegel.de/ausland/uno-verurteilt-die-toetungen-im-sudan-als-voelkerrechtsverstoesse-a-d9b9bca8-2d8c-4f40-a3e9-eb14bf4c0592#ref=rss)
+### kim
 
-* [https://www.spiegel.de/ausland/filibuster-donald-trump-fordert-abschaffung-der-regel-im-us-senat](https://www.spiegel.de/ausland/filibuster-donald-trump-fordert-abschaffung-der-regel-im-us-senat-a-437d5654-0678-488a-b164-840d46363e81#ref=rss)
-### genuss
+* [https://www.spiegel.de/panorama/leute/usa-kim-kardashian-zweifelt-an-der-mondlandung-und-der-nasa-chef-reagiert](https://www.spiegel.de/panorama/leute/usa-kim-kardashian-zweifelt-an-der-mondlandung-und-der-nasa-chef-reagiert-a-15cd921a-2cfb-4f12-87c4-3338647ac0f6#ref=rss)
+### kardashian
 
-* [https://www.spiegel.de/stil/essen-und-genuss-schweinedarm-und-die-grenzen-der-komfortzone](https://www.spiegel.de/stil/essen-und-genuss-schweinedarm-und-die-grenzen-der-komfortzone-a-9dee8d4c-e537-4d7f-807d-463a83528023#ref=rss)
-### emmanuel
+* [https://www.spiegel.de/panorama/leute/usa-kim-kardashian-zweifelt-an-der-mondlandung-und-der-nasa-chef-reagiert](https://www.spiegel.de/panorama/leute/usa-kim-kardashian-zweifelt-an-der-mondlandung-und-der-nasa-chef-reagiert-a-15cd921a-2cfb-4f12-87c4-3338647ac0f6#ref=rss)
+### mondlandung
 
-* [https://www.spiegel.de/ausland/emmanuel-macron-in-frankreich-so-unbeliebt-wie-noch-nie](https://www.spiegel.de/ausland/emmanuel-macron-in-frankreich-so-unbeliebt-wie-noch-nie-a-7060d3de-e0b4-4a9f-97cb-6c3311a105b0#ref=rss)
-### macron
+* [https://www.spiegel.de/panorama/leute/usa-kim-kardashian-zweifelt-an-der-mondlandung-und-der-nasa-chef-reagiert](https://www.spiegel.de/panorama/leute/usa-kim-kardashian-zweifelt-an-der-mondlandung-und-der-nasa-chef-reagiert-a-15cd921a-2cfb-4f12-87c4-3338647ac0f6#ref=rss)
+### nasachef
 
-* [https://www.spiegel.de/ausland/emmanuel-macron-in-frankreich-so-unbeliebt-wie-noch-nie](https://www.spiegel.de/ausland/emmanuel-macron-in-frankreich-so-unbeliebt-wie-noch-nie-a-7060d3de-e0b4-4a9f-97cb-6c3311a105b0#ref=rss)
+* [https://www.spiegel.de/panorama/leute/usa-kim-kardashian-zweifelt-an-der-mondlandung-und-der-nasa-chef-reagiert](https://www.spiegel.de/panorama/leute/usa-kim-kardashian-zweifelt-an-der-mondlandung-und-der-nasa-chef-reagiert-a-15cd921a-2cfb-4f12-87c4-3338647ac0f6#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/panorama/leute/usa-kim-kardashian-zweifelt-an-der-mondlandung-und-der-nasa-chef-reagiert](https://www.spiegel.de/panorama/leute/usa-kim-kardashian-zweifelt-an-der-mondlandung-und-der-nasa-chef-reagiert-a-15cd921a-2cfb-4f12-87c4-3338647ac0f6#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/leute/usa-kim-kardashian-zweifelt-an-der-mondlandung-und-der-nasa-chef-reagiert](https://www.spiegel.de/panorama/leute/usa-kim-kardashian-zweifelt-an-der-mondlandung-und-der-nasa-chef-reagiert-a-15cd921a-2cfb-4f12-87c4-3338647ac0f6#ref=rss)
+* [https://www.spiegel.de/ausland/israel-militaerstaatsanwaeltin-yifat-tomer-yerushalmi-tritt-wegen-leak-von-folter-video-aus-sde-teiman-zurueck](https://www.spiegel.de/ausland/israel-militaerstaatsanwaeltin-yifat-tomer-yerushalmi-tritt-wegen-leak-von-folter-video-aus-sde-teiman-zurueck-a-c3c37dbd-9321-4a18-a7a7-7ca3e5706e04#ref=rss)
+### dictionarycom
+
+* [https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025](https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025-a-c003b949-21f2-47e5-a0fd-69bea93b1249#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025](https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025-a-c003b949-21f2-47e5-a0fd-69bea93b1249#ref=rss)
+* [https://www.spiegel.de/wissenschaft/bill-gates-kampf-gegen-einen-strohmann](https://www.spiegel.de/wissenschaft/bill-gates-kampf-gegen-einen-strohmann-a-3abc263b-33cb-4a42-8f47-db4f170e65fc#ref=rss)
+### 67
+
+* [https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025](https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025-a-c003b949-21f2-47e5-a0fd-69bea93b1249#ref=rss)
+### wort
+
+* [https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025](https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025-a-c003b949-21f2-47e5-a0fd-69bea93b1249#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025](https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025-a-c003b949-21f2-47e5-a0fd-69bea93b1249#ref=rss)
+### unklar
+
+* [https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025](https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025-a-c003b949-21f2-47e5-a0fd-69bea93b1249#ref=rss)
+### feiern
+
+* [https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025](https://www.spiegel.de/kultur/dictionary-com-erklaert-67-zum-wort-des-jahres-2025-a-c003b949-21f2-47e5-a0fd-69bea93b1249#ref=rss)
+* [https://www.spiegel.de/deinspiegel/halloween-warum-wir-gespenster-lieben](https://www.spiegel.de/deinspiegel/halloween-warum-wir-gespenster-lieben-a-ac5bb657-2008-4869-96d0-78d48222c893#ref=rss)
+### hexenverfolgung
+
+* [https://www.spiegel.de/wissenschaft/deutschland-war-ihre-heimat-eine-hochburg-der-hexenverfolgung](https://www.spiegel.de/wissenschaft/deutschland-war-ihre-heimat-eine-hochburg-der-hexenverfolgung-a-de4d8173-3521-4678-8b0c-5479f2e0d216#ref=rss)
+### ergebnis
+
+* [https://www.spiegel.de/wissenschaft/deutschland-war-ihre-heimat-eine-hochburg-der-hexenverfolgung](https://www.spiegel.de/wissenschaft/deutschland-war-ihre-heimat-eine-hochburg-der-hexenverfolgung-a-de4d8173-3521-4678-8b0c-5479f2e0d216#ref=rss)
+* [https://www.spiegel.de/ausland/parlamentswahlen-in-den-niederlanden-stolz-auf-dieses-historische-ergebnis](https://www.spiegel.de/ausland/parlamentswahlen-in-den-niederlanden-stolz-auf-dieses-historische-ergebnis-a-2396ba6b-a537-412b-9c38-be9135bab582#ref=rss)
+### team
+
+* [https://www.spiegel.de/kultur/twilight-jubilaeum-warum-die-saga-kult-ist](https://www.spiegel.de/kultur/twilight-jubilaeum-warum-die-saga-kult-ist-a-e4618656-0a6e-438c-8f7f-fffb665ec21f#ref=rss)
+### frage
+
+* [https://www.spiegel.de/kultur/twilight-jubilaeum-warum-die-saga-kult-ist](https://www.spiegel.de/kultur/twilight-jubilaeum-warum-die-saga-kult-ist-a-e4618656-0a6e-438c-8f7f-fffb665ec21f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mannheim-prozess-um-amokfahrt-an-fasching-gestartet](https://www.spiegel.de/panorama/justiz/mannheim-prozess-um-amokfahrt-an-fasching-gestartet-a-80e4650f-0512-4228-aa63-52ae588af064#ref=rss)
+### mali
+
+* [https://www.spiegel.de/ausland/mali-al-qaida-auf-dem-vormarsch-deutschland-usa-und-italien-rufen-staatsbuerger-zur-ausreise-auf](https://www.spiegel.de/ausland/mali-al-qaida-auf-dem-vormarsch-deutschland-usa-und-italien-rufen-staatsbuerger-zur-ausreise-auf-a-44d0babc-281c-4536-9752-86944c5b4bbd#ref=rss)
+### alqaida
+
+* [https://www.spiegel.de/ausland/mali-al-qaida-auf-dem-vormarsch-deutschland-usa-und-italien-rufen-staatsbuerger-zur-ausreise-auf](https://www.spiegel.de/ausland/mali-al-qaida-auf-dem-vormarsch-deutschland-usa-und-italien-rufen-staatsbuerger-zur-ausreise-auf-a-44d0babc-281c-4536-9752-86944c5b4bbd#ref=rss)
+### italien
+
+* [https://www.spiegel.de/ausland/mali-al-qaida-auf-dem-vormarsch-deutschland-usa-und-italien-rufen-staatsbuerger-zur-ausreise-auf](https://www.spiegel.de/ausland/mali-al-qaida-auf-dem-vormarsch-deutschland-usa-und-italien-rufen-staatsbuerger-zur-ausreise-auf-a-44d0babc-281c-4536-9752-86944c5b4bbd#ref=rss)
+* [https://www.spiegel.de/ausland/faschistische-gesaenge-vor-dem-sitz-von-meloni-partei](https://www.spiegel.de/ausland/faschistische-gesaenge-vor-dem-sitz-von-meloni-partei-a-16c655c1-5e0c-443f-9f5b-a4727a425a91#ref=rss)
+### pierre
+
+* [https://www.spiegel.de/kultur/tv-moderator-pierre-m-krause-ueber-tumor-erkrankung-war-ein-hoellenritt](https://www.spiegel.de/kultur/tv-moderator-pierre-m-krause-ueber-tumor-erkrankung-war-ein-hoellenritt-a-eac9fa27-6215-4908-bdbd-8ccd6e5d8208#ref=rss)
+### m
+
+* [https://www.spiegel.de/kultur/tv-moderator-pierre-m-krause-ueber-tumor-erkrankung-war-ein-hoellenritt](https://www.spiegel.de/kultur/tv-moderator-pierre-m-krause-ueber-tumor-erkrankung-war-ein-hoellenritt-a-eac9fa27-6215-4908-bdbd-8ccd6e5d8208#ref=rss)
+### krause
+
+* [https://www.spiegel.de/kultur/tv-moderator-pierre-m-krause-ueber-tumor-erkrankung-war-ein-hoellenritt](https://www.spiegel.de/kultur/tv-moderator-pierre-m-krause-ueber-tumor-erkrankung-war-ein-hoellenritt-a-eac9fa27-6215-4908-bdbd-8ccd6e5d8208#ref=rss)
+### mütterrente
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-an-muetterrente-wahl-in-den-niederlanden-johann-wadephul-in-syrien](https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-an-muetterrente-wahl-in-den-niederlanden-johann-wadephul-in-syrien-a-59054a53-5d86-4f15-8c72-5bbf89e6d90e#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-an-muetterrente-wahl-in-den-niederlanden-johann-wadephul-in-syrien](https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-an-muetterrente-wahl-in-den-niederlanden-johann-wadephul-in-syrien-a-59054a53-5d86-4f15-8c72-5bbf89e6d90e#ref=rss)
+* [https://www.spiegel.de/ausland/parlamentswahlen-in-den-niederlanden-stolz-auf-dieses-historische-ergebnis](https://www.spiegel.de/ausland/parlamentswahlen-in-den-niederlanden-stolz-auf-dieses-historische-ergebnis-a-2396ba6b-a537-412b-9c38-be9135bab582#ref=rss)
+### wadephul
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-an-muetterrente-wahl-in-den-niederlanden-johann-wadephul-in-syrien](https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-an-muetterrente-wahl-in-den-niederlanden-johann-wadephul-in-syrien-a-59054a53-5d86-4f15-8c72-5bbf89e6d90e#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-an-muetterrente-wahl-in-den-niederlanden-johann-wadephul-in-syrien](https://www.spiegel.de/politik/deutschland/news-des-tages-kritik-an-muetterrente-wahl-in-den-niederlanden-johann-wadephul-in-syrien-a-59054a53-5d86-4f15-8c72-5bbf89e6d90e#ref=rss)
+* [https://www.spiegel.de/ausland/jamaika-nach-hurrikan-melissa-die-lage-vor-ort-ist-apokalyptisch](https://www.spiegel.de/ausland/jamaika-nach-hurrikan-melissa-die-lage-vor-ort-ist-apokalyptisch-a-f5580082-3883-4f7e-afdc-936e52d24847#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-u-bahn-station-in-teheran-nach-der-jungfrau-maria-benannt](https://www.spiegel.de/ausland/iran-u-bahn-station-in-teheran-nach-der-jungfrau-maria-benannt-a-b4ce4caf-3818-4206-b290-4134fc625ebc#ref=rss)
+### teheran
+
+* [https://www.spiegel.de/ausland/iran-u-bahn-station-in-teheran-nach-der-jungfrau-maria-benannt](https://www.spiegel.de/ausland/iran-u-bahn-station-in-teheran-nach-der-jungfrau-maria-benannt-a-b4ce4caf-3818-4206-b290-4134fc625ebc#ref=rss)
+### maria
+
+* [https://www.spiegel.de/ausland/iran-u-bahn-station-in-teheran-nach-der-jungfrau-maria-benannt](https://www.spiegel.de/ausland/iran-u-bahn-station-in-teheran-nach-der-jungfrau-maria-benannt-a-b4ce4caf-3818-4206-b290-4134fc625ebc#ref=rss)
+### benannt
+
+* [https://www.spiegel.de/ausland/iran-u-bahn-station-in-teheran-nach-der-jungfrau-maria-benannt](https://www.spiegel.de/ausland/iran-u-bahn-station-in-teheran-nach-der-jungfrau-maria-benannt-a-b4ce4caf-3818-4206-b290-4134fc625ebc#ref=rss)
+### jamaika
+
+* [https://www.spiegel.de/ausland/jamaika-nach-hurrikan-melissa-die-lage-vor-ort-ist-apokalyptisch](https://www.spiegel.de/ausland/jamaika-nach-hurrikan-melissa-die-lage-vor-ort-ist-apokalyptisch-a-f5580082-3883-4f7e-afdc-936e52d24847#ref=rss)
+### hurrikan
+
+* [https://www.spiegel.de/ausland/jamaika-nach-hurrikan-melissa-die-lage-vor-ort-ist-apokalyptisch](https://www.spiegel.de/ausland/jamaika-nach-hurrikan-melissa-die-lage-vor-ort-ist-apokalyptisch-a-f5580082-3883-4f7e-afdc-936e52d24847#ref=rss)
+### melissa
+
+* [https://www.spiegel.de/ausland/jamaika-nach-hurrikan-melissa-die-lage-vor-ort-ist-apokalyptisch](https://www.spiegel.de/ausland/jamaika-nach-hurrikan-melissa-die-lage-vor-ort-ist-apokalyptisch-a-f5580082-3883-4f7e-afdc-936e52d24847#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/ausland/jamaika-nach-hurrikan-melissa-die-lage-vor-ort-ist-apokalyptisch](https://www.spiegel.de/ausland/jamaika-nach-hurrikan-melissa-die-lage-vor-ort-ist-apokalyptisch-a-f5580082-3883-4f7e-afdc-936e52d24847#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mannheim-prozess-um-amokfahrt-an-fasching-gestartet](https://www.spiegel.de/panorama/justiz/mannheim-prozess-um-amokfahrt-an-fasching-gestartet-a-80e4650f-0512-4228-aa63-52ae588af064#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/ausland/jamaika-nach-hurrikan-melissa-die-lage-vor-ort-ist-apokalyptisch](https://www.spiegel.de/ausland/jamaika-nach-hurrikan-melissa-die-lage-vor-ort-ist-apokalyptisch-a-f5580082-3883-4f7e-afdc-936e52d24847#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-aus-berlin-erika-mustermann-mit-harfouch-und-waschke](https://www.spiegel.de/kultur/tv/tatort-aus-berlin-erika-mustermann-mit-harfouch-und-waschke-a-97fb769e-649f-4847-83d0-0a42a4c64360#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/pressefreiheit-unter-donald-trump-keine-zeit-fuer-angst](https://www.spiegel.de/ausland/pressefreiheit-unter-donald-trump-keine-zeit-fuer-angst-a-dbc0f7c4-e4bd-47ae-afbf-3a6ec86bbe1d#ref=rss)
+* [https://www.spiegel.de/ausland/trump-in-japan-premierministerin-sanae-takaichi-staerkt-beziehungen-zu-usa](https://www.spiegel.de/ausland/trump-in-japan-premierministerin-sanae-takaichi-staerkt-beziehungen-zu-usa-a-6922cd17-594a-45d4-b348-521b0ed98532#ref=rss)
+### militärstaatsanwältin
+
+* [https://www.spiegel.de/ausland/israel-militaerstaatsanwaeltin-yifat-tomer-yerushalmi-tritt-wegen-leak-von-folter-video-aus-sde-teiman-zurueck](https://www.spiegel.de/ausland/israel-militaerstaatsanwaeltin-yifat-tomer-yerushalmi-tritt-wegen-leak-von-folter-video-aus-sde-teiman-zurueck-a-c3c37dbd-9321-4a18-a7a7-7ca3e5706e04#ref=rss)
+### tritt
+
+* [https://www.spiegel.de/ausland/israel-militaerstaatsanwaeltin-yifat-tomer-yerushalmi-tritt-wegen-leak-von-folter-video-aus-sde-teiman-zurueck](https://www.spiegel.de/ausland/israel-militaerstaatsanwaeltin-yifat-tomer-yerushalmi-tritt-wegen-leak-von-folter-video-aus-sde-teiman-zurueck-a-c3c37dbd-9321-4a18-a7a7-7ca3e5706e04#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/ausland/israel-militaerstaatsanwaeltin-yifat-tomer-yerushalmi-tritt-wegen-leak-von-folter-video-aus-sde-teiman-zurueck](https://www.spiegel.de/ausland/israel-militaerstaatsanwaeltin-yifat-tomer-yerushalmi-tritt-wegen-leak-von-folter-video-aus-sde-teiman-zurueck-a-c3c37dbd-9321-4a18-a7a7-7ca3e5706e04#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/ausland/frankreich-rassemblement-national-bringt-erstmals-antrag-durch-nationalversammlung](https://www.spiegel.de/ausland/frankreich-rassemblement-national-bringt-erstmals-antrag-durch-nationalversammlung-a-9d0a50cd-d458-4e92-aac3-91b02eccd5f4#ref=rss)
+### antrag
+
+* [https://www.spiegel.de/ausland/frankreich-rassemblement-national-bringt-erstmals-antrag-durch-nationalversammlung](https://www.spiegel.de/ausland/frankreich-rassemblement-national-bringt-erstmals-antrag-durch-nationalversammlung-a-9d0a50cd-d458-4e92-aac3-91b02eccd5f4#ref=rss)
+### nationalversammlung
+
+* [https://www.spiegel.de/ausland/frankreich-rassemblement-national-bringt-erstmals-antrag-durch-nationalversammlung](https://www.spiegel.de/ausland/frankreich-rassemblement-national-bringt-erstmals-antrag-durch-nationalversammlung-a-9d0a50cd-d458-4e92-aac3-91b02eccd5f4#ref=rss)
+### allem
+
+* [https://www.spiegel.de/ausland/frankreich-rassemblement-national-bringt-erstmals-antrag-durch-nationalversammlung](https://www.spiegel.de/ausland/frankreich-rassemblement-national-bringt-erstmals-antrag-durch-nationalversammlung-a-9d0a50cd-d458-4e92-aac3-91b02eccd5f4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ausbreitung-auf-gefluegel-betriebe-in-deutschland-nimmt-zu](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ausbreitung-auf-gefluegel-betriebe-in-deutschland-nimmt-zu-a-8a9b98bf-ad1d-4e42-b565-6b23edbaaf46#ref=rss)
+### chicago
+
+* [https://www.spiegel.de/ausland/chicago-illinois-gouverneur-jb-pritzker-bittet-ice-um-pause-damit-kinder-an-halloween-gefahrlos-suessigkeiten-sammeln-koennen](https://www.spiegel.de/ausland/chicago-illinois-gouverneur-jb-pritzker-bittet-ice-um-pause-damit-kinder-an-halloween-gefahrlos-suessigkeiten-sammeln-koennen-a-f3591502-23e9-4496-b2e2-5b9738c3562c#ref=rss)
+### jb
+
+* [https://www.spiegel.de/ausland/chicago-illinois-gouverneur-jb-pritzker-bittet-ice-um-pause-damit-kinder-an-halloween-gefahrlos-suessigkeiten-sammeln-koennen](https://www.spiegel.de/ausland/chicago-illinois-gouverneur-jb-pritzker-bittet-ice-um-pause-damit-kinder-an-halloween-gefahrlos-suessigkeiten-sammeln-koennen-a-f3591502-23e9-4496-b2e2-5b9738c3562c#ref=rss)
+### pritzker
+
+* [https://www.spiegel.de/ausland/chicago-illinois-gouverneur-jb-pritzker-bittet-ice-um-pause-damit-kinder-an-halloween-gefahrlos-suessigkeiten-sammeln-koennen](https://www.spiegel.de/ausland/chicago-illinois-gouverneur-jb-pritzker-bittet-ice-um-pause-damit-kinder-an-halloween-gefahrlos-suessigkeiten-sammeln-koennen-a-f3591502-23e9-4496-b2e2-5b9738c3562c#ref=rss)
+### ice
+
+* [https://www.spiegel.de/ausland/chicago-illinois-gouverneur-jb-pritzker-bittet-ice-um-pause-damit-kinder-an-halloween-gefahrlos-suessigkeiten-sammeln-koennen](https://www.spiegel.de/ausland/chicago-illinois-gouverneur-jb-pritzker-bittet-ice-um-pause-damit-kinder-an-halloween-gefahrlos-suessigkeiten-sammeln-koennen-a-f3591502-23e9-4496-b2e2-5b9738c3562c#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/panorama/indonesien-elefant-trampelt-kind-in-wohngebiet-nieder](https://www.spiegel.de/panorama/indonesien-elefant-trampelt-kind-in-wohngebiet-nieder-a-ec2f7d61-53f7-49d2-9276-6eff45a30f1a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mannheim-prozess-um-amokfahrt-an-fasching-gestartet](https://www.spiegel.de/panorama/justiz/mannheim-prozess-um-amokfahrt-an-fasching-gestartet-a-80e4650f-0512-4228-aa63-52ae588af064#ref=rss)
+### übernimmt
+
+* [https://www.spiegel.de/ausland/orban-naher-medienkonzern-uebernimmt-meistgelesenes-boulevardblatt-ungarns](https://www.spiegel.de/ausland/orban-naher-medienkonzern-uebernimmt-meistgelesenes-boulevardblatt-ungarns-a-1c877006-ba7c-4f0f-8eb2-998763cb0600#ref=rss)
+### hunderttausende
+
+* [https://www.spiegel.de/ausland/israel-hunderttausende-ultra-orthodoxe-protestieren-gegen-wehrpflicht-in-jerusalem-ein-junge-stirbt](https://www.spiegel.de/ausland/israel-hunderttausende-ultra-orthodoxe-protestieren-gegen-wehrpflicht-in-jerusalem-ein-junge-stirbt-a-ffedd87a-3750-45cb-b61f-336ffb60db42#ref=rss)
+### wehrpflicht
+
+* [https://www.spiegel.de/ausland/israel-hunderttausende-ultra-orthodoxe-protestieren-gegen-wehrpflicht-in-jerusalem-ein-junge-stirbt](https://www.spiegel.de/ausland/israel-hunderttausende-ultra-orthodoxe-protestieren-gegen-wehrpflicht-in-jerusalem-ein-junge-stirbt-a-ffedd87a-3750-45cb-b61f-336ffb60db42#ref=rss)
+### jerusalem
+
+* [https://www.spiegel.de/ausland/israel-hunderttausende-ultra-orthodoxe-protestieren-gegen-wehrpflicht-in-jerusalem-ein-junge-stirbt](https://www.spiegel.de/ausland/israel-hunderttausende-ultra-orthodoxe-protestieren-gegen-wehrpflicht-in-jerusalem-ein-junge-stirbt-a-ffedd87a-3750-45cb-b61f-336ffb60db42#ref=rss)
+### marschieren
+
+* [https://www.spiegel.de/ausland/israel-hunderttausende-ultra-orthodoxe-protestieren-gegen-wehrpflicht-in-jerusalem-ein-junge-stirbt](https://www.spiegel.de/ausland/israel-hunderttausende-ultra-orthodoxe-protestieren-gegen-wehrpflicht-in-jerusalem-ein-junge-stirbt-a-ffedd87a-3750-45cb-b61f-336ffb60db42#ref=rss)
+### vogelgrippe
+
+* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ausbreitung-auf-gefluegel-betriebe-in-deutschland-nimmt-zu](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ausbreitung-auf-gefluegel-betriebe-in-deutschland-nimmt-zu-a-8a9b98bf-ad1d-4e42-b565-6b23edbaaf46#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/mannheim-prozess-um-amokfahrt-an-fasching-gestartet](https://www.spiegel.de/panorama/justiz/mannheim-prozess-um-amokfahrt-an-fasching-gestartet-a-80e4650f-0512-4228-aa63-52ae588af064#ref=rss)
+### japan
+
+* [https://www.spiegel.de/ausland/trump-in-japan-premierministerin-sanae-takaichi-staerkt-beziehungen-zu-usa](https://www.spiegel.de/ausland/trump-in-japan-premierministerin-sanae-takaichi-staerkt-beziehungen-zu-usa-a-6922cd17-594a-45d4-b348-521b0ed98532#ref=rss)
+### premierministerin
+
+* [https://www.spiegel.de/ausland/trump-in-japan-premierministerin-sanae-takaichi-staerkt-beziehungen-zu-usa](https://www.spiegel.de/ausland/trump-in-japan-premierministerin-sanae-takaichi-staerkt-beziehungen-zu-usa-a-6922cd17-594a-45d4-b348-521b0ed98532#ref=rss)
+### sanae
+
+* [https://www.spiegel.de/ausland/trump-in-japan-premierministerin-sanae-takaichi-staerkt-beziehungen-zu-usa](https://www.spiegel.de/ausland/trump-in-japan-premierministerin-sanae-takaichi-staerkt-beziehungen-zu-usa-a-6922cd17-594a-45d4-b348-521b0ed98532#ref=rss)
+### takaichi
+
+* [https://www.spiegel.de/ausland/trump-in-japan-premierministerin-sanae-takaichi-staerkt-beziehungen-zu-usa](https://www.spiegel.de/ausland/trump-in-japan-premierministerin-sanae-takaichi-staerkt-beziehungen-zu-usa-a-6922cd17-594a-45d4-b348-521b0ed98532#ref=rss)
+### türkischen
+
+* [https://www.spiegel.de/sport/fussball/wettskandal-im-tuerkischen-fussball-149-schiedsrichter-gesperrt](https://www.spiegel.de/sport/fussball/wettskandal-im-tuerkischen-fussball-149-schiedsrichter-gesperrt-a-282e90f0-6fce-4d18-accc-985f902bd95a#ref=rss)
+### schiedsrichter
+
+* [https://www.spiegel.de/sport/fussball/wettskandal-im-tuerkischen-fussball-149-schiedsrichter-gesperrt](https://www.spiegel.de/sport/fussball/wettskandal-im-tuerkischen-fussball-149-schiedsrichter-gesperrt-a-282e90f0-6fce-4d18-accc-985f902bd95a#ref=rss)
+### erste
+
+* [https://www.spiegel.de/sport/fussball/wettskandal-im-tuerkischen-fussball-149-schiedsrichter-gesperrt](https://www.spiegel.de/sport/fussball/wettskandal-im-tuerkischen-fussball-149-schiedsrichter-gesperrt-a-282e90f0-6fce-4d18-accc-985f902bd95a#ref=rss)
+* [https://www.spiegel.de/ausland/parlamentswahlen-in-den-niederlanden-stolz-auf-dieses-historische-ergebnis](https://www.spiegel.de/ausland/parlamentswahlen-in-den-niederlanden-stolz-auf-dieses-historische-ergebnis-a-2396ba6b-a537-412b-9c38-be9135bab582#ref=rss)
+### video
+
+* [https://www.spiegel.de/ausland/parlamentswahlen-in-den-niederlanden-stolz-auf-dieses-historische-ergebnis](https://www.spiegel.de/ausland/parlamentswahlen-in-den-niederlanden-stolz-auf-dieses-historische-ergebnis-a-2396ba6b-a537-412b-9c38-be9135bab582#ref=rss)
+* [https://www.spiegel.de/ausland/faschistische-gesaenge-vor-dem-sitz-von-meloni-partei](https://www.spiegel.de/ausland/faschistische-gesaenge-vor-dem-sitz-von-meloni-partei-a-16c655c1-5e0c-443f-9f5b-a4727a425a91#ref=rss)
+### eva
+
+* [https://www.spiegel.de/kultur/eva-illouz-die-gefaehrliche-logik-des-boykotts-kommentar](https://www.spiegel.de/kultur/eva-illouz-die-gefaehrliche-logik-des-boykotts-kommentar-a-820123d7-aad4-4a38-a1b5-0c0e048d1174#ref=rss)
+### illouz
+
+* [https://www.spiegel.de/kultur/eva-illouz-die-gefaehrliche-logik-des-boykotts-kommentar](https://www.spiegel.de/kultur/eva-illouz-die-gefaehrliche-logik-des-boykotts-kommentar-a-820123d7-aad4-4a38-a1b5-0c0e048d1174#ref=rss)
+### wir
+
+* [https://www.spiegel.de/deinspiegel/halloween-warum-wir-gespenster-lieben](https://www.spiegel.de/deinspiegel/halloween-warum-wir-gespenster-lieben-a-ac5bb657-2008-4869-96d0-78d48222c893#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/kultur/tv/tatort-aus-berlin-erika-mustermann-mit-harfouch-und-waschke](https://www.spiegel.de/kultur/tv/tatort-aus-berlin-erika-mustermann-mit-harfouch-und-waschke-a-97fb769e-649f-4847-83d0-0a42a4c64360#ref=rss)
+### faschistische
+
+* [https://www.spiegel.de/ausland/faschistische-gesaenge-vor-dem-sitz-von-meloni-partei](https://www.spiegel.de/ausland/faschistische-gesaenge-vor-dem-sitz-von-meloni-partei-a-16c655c1-5e0c-443f-9f5b-a4727a425a91#ref=rss)
+### gesänge
+
+* [https://www.spiegel.de/ausland/faschistische-gesaenge-vor-dem-sitz-von-meloni-partei](https://www.spiegel.de/ausland/faschistische-gesaenge-vor-dem-sitz-von-meloni-partei-a-16c655c1-5e0c-443f-9f5b-a4727a425a91#ref=rss)
+### sitz
+
+* [https://www.spiegel.de/ausland/faschistische-gesaenge-vor-dem-sitz-von-meloni-partei](https://www.spiegel.de/ausland/faschistische-gesaenge-vor-dem-sitz-von-meloni-partei-a-16c655c1-5e0c-443f-9f5b-a4727a425a91#ref=rss)
+### melonipartei
+
+* [https://www.spiegel.de/ausland/faschistische-gesaenge-vor-dem-sitz-von-meloni-partei](https://www.spiegel.de/ausland/faschistische-gesaenge-vor-dem-sitz-von-meloni-partei-a-16c655c1-5e0c-443f-9f5b-a4727a425a91#ref=rss)
 
