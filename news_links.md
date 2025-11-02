@@ -4,355 +4,302 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### cdu
+### drohnen
 
-* [https://www.spiegel.de/politik/deutschland/cdu-merz-und-das-schweigen-der-frauen-union-in-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/cdu-merz-und-das-schweigen-der-frauen-union-in-sachsen-anhalt-a-fa7e8557-d9e2-406d-b61a-1ebf7299f2d0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-wenige-frauen-viel-frust-und-eine-unerwartete-wendung](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-wenige-frauen-viel-frust-und-eine-unerwartete-wendung-a-cc0418de-e03c-493d-b073-6cb7dc89686c#ref=rss)
-* [https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig](https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig-a-f7265a1d-1675-485c-9b9e-52efaeecbb52#ref=rss)
-* [https://www.spiegel.de/politik/boris-rhein-haelt-minderheitsregierungen-durch-afd-aufschwung-realistisch](https://www.spiegel.de/politik/boris-rhein-haelt-minderheitsregierungen-durch-afd-aufschwung-realistisch-a-6188da0c-5741-45ee-9bf8-0d19686a14a9#ref=rss)
-### menschen
+* [https://www.spiegel.de/ausland/erneut-drohnen-ueber-von-nato-genutzter-militaerbasis-in-belgien](https://www.spiegel.de/ausland/erneut-drohnen-ueber-von-nato-genutzter-militaerbasis-in-belgien-a-8d05fd80-7899-455f-94fa-605f845da8cb#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-oleksij-siwak-trotzt-dem-trauma-der-folterkeller](https://www.spiegel.de/ausland/ukraine-krieg-oleksij-siwak-trotzt-dem-trauma-der-folterkeller-a-d9499351-303f-4444-9a02-daa8922fdc4b#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-ukrainische-drohnen-verursachen-feuer-auf-oeltanker](https://www.spiegel.de/ausland/russland-ukraine-krieg-ukrainische-drohnen-verursachen-feuer-auf-oeltanker-a-1c21ab8c-1165-4306-a738-0a7640b99ee4#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/aegypten-diskussion-um-rueckkehr-der-nofretete-ins-heimatland](https://www.spiegel.de/ausland/aegypten-diskussion-um-rueckkehr-der-nofretete-ins-heimatland-a-1886aa1e-32e4-47ab-a960-5e334f70c662#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/stuttgart-verletzte-nach-halloween-party-verdacht-auf-k-o-tropfen](https://www.spiegel.de/panorama/justiz/stuttgart-verletzte-nach-halloween-party-verdacht-auf-k-o-tropfen-a-16170586-b339-4206-abd5-b8cd05cee599#ref=rss)
-* [https://www.spiegel.de/ausland/serbien-zehntausende-gedenken-ein-jahr-nach-einsturz-von-bahnhofsdach-der-opfer-von-novi-sad](https://www.spiegel.de/ausland/serbien-zehntausende-gedenken-ein-jahr-nach-einsturz-von-bahnhofsdach-der-opfer-von-novi-sad-a-37305a24-66f2-4ff9-86f0-6b29b8ac3696#ref=rss)
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wie-wlan-durch-ki-zu-einer-ueberwachungstechnik-wird](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wie-wlan-durch-ki-zu-einer-ueberwachungstechnik-wird-a-8c27c11a-fe8c-420c-92c8-893a9856a975#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ravensburg-29-jaehriger-beisst-20-jaehrigem-im-streit-einen-finger-ab](https://www.spiegel.de/panorama/justiz/ravensburg-29-jaehriger-beisst-20-jaehrigem-im-streit-einen-finger-ab-a-58a4fc0e-be6b-468a-98f8-6f0e8975c05e#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/louvre-pariser-staatsanwaltschaft-ermittelt-gegen-weitere-verdaechtige](https://www.spiegel.de/panorama/louvre-pariser-staatsanwaltschaft-ermittelt-gegen-weitere-verdaechtige-a-d87f03bc-84c1-419f-897f-e0c880c0fbe0#ref=rss)
-* [https://www.spiegel.de/panorama/blutrache-in-griechenland-feuergefecht-mit-zwei-toten-auf-kreta](https://www.spiegel.de/panorama/blutrache-in-griechenland-feuergefecht-mit-zwei-toten-auf-kreta-a-a3455a76-470c-4e70-9f91-7c8b27d20d05#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ravensburg-29-jaehriger-beisst-20-jaehrigem-im-streit-einen-finger-ab](https://www.spiegel.de/panorama/justiz/ravensburg-29-jaehriger-beisst-20-jaehrigem-im-streit-einen-finger-ab-a-58a4fc0e-be6b-468a-98f8-6f0e8975c05e#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris](https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris-a-398340ed-dc95-4963-91f7-26bf237afbd8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-merz-und-das-schweigen-der-frauen-union-in-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/cdu-merz-und-das-schweigen-der-frauen-union-in-sachsen-anhalt-a-fa7e8557-d9e2-406d-b61a-1ebf7299f2d0#ref=rss)
-* [https://www.spiegel.de/ausland/aegypten-diskussion-um-rueckkehr-der-nofretete-ins-heimatland](https://www.spiegel.de/ausland/aegypten-diskussion-um-rueckkehr-der-nofretete-ins-heimatland-a-1886aa1e-32e4-47ab-a960-5e334f70c662#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/new-york-buergermeisterwahl-zohran-mamdani-ist-donald-trumps-liebster-gegner](https://www.spiegel.de/ausland/new-york-buergermeisterwahl-zohran-mamdani-ist-donald-trumps-liebster-gegner-a-807dbace-1dbf-4919-97a2-64899af2aa39#ref=rss)
-* [https://www.spiegel.de/ausland/zoelle-von-donald-trump-dieser-spielzeugproduzent-fordert-die-us-regierung-heraus](https://www.spiegel.de/ausland/zoelle-von-donald-trump-dieser-spielzeugproduzent-fordert-die-us-regierung-heraus-a-e8405289-fd64-48b7-a731-839448ed05d8#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-goennt-dem-weissen-haus-ein-klo-mit-goldenen-wasserhaehnen-und-marmorwaenden](https://www.spiegel.de/ausland/donald-trump-goennt-dem-weissen-haus-ein-klo-mit-goldenen-wasserhaehnen-und-marmorwaenden-a-f9258df5-4011-482f-b613-eb0c03bc0015#ref=rss)
-### kam
-
-* [https://www.spiegel.de/panorama/blutrache-in-griechenland-feuergefecht-mit-zwei-toten-auf-kreta](https://www.spiegel.de/panorama/blutrache-in-griechenland-feuergefecht-mit-zwei-toten-auf-kreta-a-a3455a76-470c-4e70-9f91-7c8b27d20d05#ref=rss)
-* [https://www.spiegel.de/sport/fussball/markus-merk-kritisiert-dfb-schiedsrichter-und-sieht-kompetenzmangel](https://www.spiegel.de/sport/fussball/markus-merk-kritisiert-dfb-schiedsrichter-und-sieht-kompetenzmangel-a-d6d93232-4836-4e36-8389-00dc2a91c090#ref=rss)
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-gegen-dynamo-dresden-tumulte-zwischen-fans-schon-vor-spielbeginn](https://www.spiegel.de/sport/fussball/hertha-bsc-gegen-dynamo-dresden-tumulte-zwischen-fans-schon-vor-spielbeginn-a-ce93bdf3-0a72-424d-9cac-da1df8688733#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ravensburg-29-jaehriger-beisst-20-jaehrigem-im-streit-einen-finger-ab](https://www.spiegel.de/panorama/justiz/ravensburg-29-jaehriger-beisst-20-jaehrigem-im-streit-einen-finger-ab-a-58a4fc0e-be6b-468a-98f8-6f0e8975c05e#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/deutschland/cdu-merz-und-das-schweigen-der-frauen-union-in-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/cdu-merz-und-das-schweigen-der-frauen-union-in-sachsen-anhalt-a-fa7e8557-d9e2-406d-b61a-1ebf7299f2d0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-wenige-frauen-viel-frust-und-eine-unerwartete-wendung](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-wenige-frauen-viel-frust-und-eine-unerwartete-wendung-a-cc0418de-e03c-493d-b073-6cb7dc89686c#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/serbien-zehntausende-gedenken-ein-jahr-nach-einsturz-von-bahnhofsdach-der-opfer-von-novi-sad](https://www.spiegel.de/ausland/serbien-zehntausende-gedenken-ein-jahr-nach-einsturz-von-bahnhofsdach-der-opfer-von-novi-sad-a-37305a24-66f2-4ff9-86f0-6b29b8ac3696#ref=rss)
-* [https://www.spiegel.de/ausland/xi-jinping-suedkorea-bittet-china-um-unterstuetzung-bei-annaeherung-an-nordkorea](https://www.spiegel.de/ausland/xi-jinping-suedkorea-bittet-china-um-unterstuetzung-bei-annaeherung-an-nordkorea-a-5b76abd3-b12d-4ef1-8d9b-d53bf17b74e6#ref=rss)
-* [https://www.spiegel.de/ausland/zoelle-von-donald-trump-dieser-spielzeugproduzent-fordert-die-us-regierung-heraus](https://www.spiegel.de/ausland/zoelle-von-donald-trump-dieser-spielzeugproduzent-fordert-die-us-regierung-heraus-a-e8405289-fd64-48b7-a731-839448ed05d8#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris](https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris-a-398340ed-dc95-4963-91f7-26bf237afbd8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-st-pauli-befindet-sich-im-freien-fall-rb-leipzig-verfolgt-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-st-pauli-befindet-sich-im-freien-fall-rb-leipzig-verfolgt-bayern-muenchen-a-ce1a605c-7d52-4b9a-b24f-a2d9af796d84#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-china-beraten-ueber-direkten-militaerischen-draht](https://www.spiegel.de/ausland/usa-und-china-beraten-ueber-direkten-militaerischen-draht-a-1cedc72b-ca2a-493b-8a2d-b9c3122b5fbb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-usa-the-atlantic-donald-trump-opposition](https://www.spiegel.de/politik/deutschland/news-usa-the-atlantic-donald-trump-opposition-a-8de7fe3f-653b-4011-9dc0-10efa8d75f07#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-russland-wirft-usa-exzessive-gewalt-bei-angriff-auf-schmuggler-vor](https://www.spiegel.de/ausland/venezuela-russland-wirft-usa-exzessive-gewalt-bei-angriff-auf-schmuggler-vor-a-fc7824b5-9d3a-4de7-bb8e-858e3e222eb3#ref=rss)
 ### new
 
-* [https://www.spiegel.de/ausland/new-york-buergermeisterwahl-zohran-mamdani-ist-donald-trumps-liebster-gegner](https://www.spiegel.de/ausland/new-york-buergermeisterwahl-zohran-mamdani-ist-donald-trumps-liebster-gegner-a-807dbace-1dbf-4919-97a2-64899af2aa39#ref=rss)
-* [https://www.spiegel.de/panorama/halloween-die-schoensten-bilder-aus-der-welt](https://www.spiegel.de/panorama/halloween-die-schoensten-bilder-aus-der-welt-a-4df2a3c8-e4d1-43dd-8c8b-81b62211c546#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-st-pauli-befindet-sich-im-freien-fall-rb-leipzig-verfolgt-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-st-pauli-befindet-sich-im-freien-fall-rb-leipzig-verfolgt-bayern-muenchen-a-ce1a605c-7d52-4b9a-b24f-a2d9af796d84#ref=rss)
-* [https://www.spiegel.de/sport/fussball/1860-muenchen-gegen-energie-cottbus-drittligaspiel-nach-rassismus-vorfall-unterbrochen](https://www.spiegel.de/sport/fussball/1860-muenchen-gegen-energie-cottbus-drittligaspiel-nach-rassismus-vorfall-unterbrochen-a-6dc12bcc-c75d-4fe6-b8d1-9d3491710d45#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/sport/fussball/1860-muenchen-gegen-energie-cottbus-drittligaspiel-nach-rassismus-vorfall-unterbrochen](https://www.spiegel.de/sport/fussball/1860-muenchen-gegen-energie-cottbus-drittligaspiel-nach-rassismus-vorfall-unterbrochen-a-6dc12bcc-c75d-4fe6-b8d1-9d3491710d45#ref=rss)
-* [https://www.spiegel.de/ausland/zoelle-von-donald-trump-dieser-spielzeugproduzent-fordert-die-us-regierung-heraus](https://www.spiegel.de/ausland/zoelle-von-donald-trump-dieser-spielzeugproduzent-fordert-die-us-regierung-heraus-a-e8405289-fd64-48b7-a731-839448ed05d8#ref=rss)
-* [https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig](https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig-a-f7265a1d-1675-485c-9b9e-52efaeecbb52#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/politik/cop30-in-belem-klimaverhandlungen-als-kampfsportart-kolumne](https://www.spiegel.de/politik/cop30-in-belem-klimaverhandlungen-als-kampfsportart-kolumne-a-33236434-5ffc-4ab7-861c-cec446dc9cad#ref=rss)
-* [https://www.spiegel.de/ausland/serbien-zehntausende-gedenken-ein-jahr-nach-einsturz-von-bahnhofsdach-der-opfer-von-novi-sad](https://www.spiegel.de/ausland/serbien-zehntausende-gedenken-ein-jahr-nach-einsturz-von-bahnhofsdach-der-opfer-von-novi-sad-a-37305a24-66f2-4ff9-86f0-6b29b8ac3696#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/cdu-merz-und-das-schweigen-der-frauen-union-in-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/cdu-merz-und-das-schweigen-der-frauen-union-in-sachsen-anhalt-a-fa7e8557-d9e2-406d-b61a-1ebf7299f2d0#ref=rss)
-* [https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig](https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig-a-f7265a1d-1675-485c-9b9e-52efaeecbb52#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/politik/deutschland/cdu-merz-und-das-schweigen-der-frauen-union-in-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/cdu-merz-und-das-schweigen-der-frauen-union-in-sachsen-anhalt-a-fa7e8557-d9e2-406d-b61a-1ebf7299f2d0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-wenige-frauen-viel-frust-und-eine-unerwartete-wendung](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-wenige-frauen-viel-frust-und-eine-unerwartete-wendung-a-cc0418de-e03c-493d-b073-6cb7dc89686c#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/kino/zum-tod-von-tcheky-karyo-er-brauchte-keine-waffen-er-toetete-mit-blicken](https://www.spiegel.de/kultur/kino/zum-tod-von-tcheky-karyo-er-brauchte-keine-waffen-er-toetete-mit-blicken-a-1093e873-c771-4721-bd17-3165ccde5dc8#ref=rss)
-* [https://www.spiegel.de/familie/familiennewsletter-das-ist-nicht-alain-delon-das-ist-euer-grossvater](https://www.spiegel.de/familie/familiennewsletter-das-ist-nicht-alain-delon-das-ist-euer-grossvater-a-871db249-a7ca-4354-9ff1-4dcd28fd5f7d#ref=rss)
-### fertig
-
-* [https://www.spiegel.de/panorama/gesellschaft/drelsdorf-in-schleswig-holstein-anbaden-im-november-freibad-ist-fertig](https://www.spiegel.de/panorama/gesellschaft/drelsdorf-in-schleswig-holstein-anbaden-im-november-freibad-ist-fertig-a-96e26716-b5b8-4cae-88aa-1853ae8c86ee#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-goennt-dem-weissen-haus-ein-klo-mit-goldenen-wasserhaehnen-und-marmorwaenden](https://www.spiegel.de/ausland/donald-trump-goennt-dem-weissen-haus-ein-klo-mit-goldenen-wasserhaehnen-und-marmorwaenden-a-f9258df5-4011-482f-b613-eb0c03bc0015#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/sport/fussball/markus-merk-kritisiert-dfb-schiedsrichter-und-sieht-kompetenzmangel](https://www.spiegel.de/sport/fussball/markus-merk-kritisiert-dfb-schiedsrichter-und-sieht-kompetenzmangel-a-d6d93232-4836-4e36-8389-00dc2a91c090#ref=rss)
-* [https://www.spiegel.de/politik/boris-rhein-haelt-minderheitsregierungen-durch-afd-aufschwung-realistisch](https://www.spiegel.de/politik/boris-rhein-haelt-minderheitsregierungen-durch-afd-aufschwung-realistisch-a-6188da0c-5741-45ee-9bf8-0d19686a14a9#ref=rss)
-### verdächtige
-
-* [https://www.spiegel.de/panorama/louvre-pariser-staatsanwaltschaft-ermittelt-gegen-weitere-verdaechtige](https://www.spiegel.de/panorama/louvre-pariser-staatsanwaltschaft-ermittelt-gegen-weitere-verdaechtige-a-d87f03bc-84c1-419f-897f-e0c880c0fbe0#ref=rss)
-### jannik
-
-* [https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris](https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris-a-398340ed-dc95-4963-91f7-26bf237afbd8#ref=rss)
-### sinner
-
-* [https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris](https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris-a-398340ed-dc95-4963-91f7-26bf237afbd8#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris](https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris-a-398340ed-dc95-4963-91f7-26bf237afbd8#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris](https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris-a-398340ed-dc95-4963-91f7-26bf237afbd8#ref=rss)
-### atpmasters
-
-* [https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris](https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris-a-398340ed-dc95-4963-91f7-26bf237afbd8#ref=rss)
-### paris
-
-* [https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris](https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris-a-398340ed-dc95-4963-91f7-26bf237afbd8#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris](https://www.spiegel.de/sport/tennis/tennis-jannik-sinner-demuetigt-alexander-zverev-beim-atp-masters-in-paris-a-398340ed-dc95-4963-91f7-26bf237afbd8#ref=rss)
-* [https://www.spiegel.de/panorama/halloween-die-schoensten-bilder-aus-der-welt](https://www.spiegel.de/panorama/halloween-die-schoensten-bilder-aus-der-welt-a-4df2a3c8-e4d1-43dd-8c8b-81b62211c546#ref=rss)
-### york
-
-* [https://www.spiegel.de/ausland/new-york-buergermeisterwahl-zohran-mamdani-ist-donald-trumps-liebster-gegner](https://www.spiegel.de/ausland/new-york-buergermeisterwahl-zohran-mamdani-ist-donald-trumps-liebster-gegner-a-807dbace-1dbf-4919-97a2-64899af2aa39#ref=rss)
-* [https://www.spiegel.de/panorama/halloween-die-schoensten-bilder-aus-der-welt](https://www.spiegel.de/panorama/halloween-die-schoensten-bilder-aus-der-welt-a-4df2a3c8-e4d1-43dd-8c8b-81b62211c546#ref=rss)
-### zohran
-
-* [https://www.spiegel.de/ausland/new-york-buergermeisterwahl-zohran-mamdani-ist-donald-trumps-liebster-gegner](https://www.spiegel.de/ausland/new-york-buergermeisterwahl-zohran-mamdani-ist-donald-trumps-liebster-gegner-a-807dbace-1dbf-4919-97a2-64899af2aa39#ref=rss)
-### mamdani
-
-* [https://www.spiegel.de/ausland/new-york-buergermeisterwahl-zohran-mamdani-ist-donald-trumps-liebster-gegner](https://www.spiegel.de/ausland/new-york-buergermeisterwahl-zohran-mamdani-ist-donald-trumps-liebster-gegner-a-807dbace-1dbf-4919-97a2-64899af2aa39#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/new-york-buergermeisterwahl-zohran-mamdani-ist-donald-trumps-liebster-gegner](https://www.spiegel.de/ausland/new-york-buergermeisterwahl-zohran-mamdani-ist-donald-trumps-liebster-gegner-a-807dbace-1dbf-4919-97a2-64899af2aa39#ref=rss)
-* [https://www.spiegel.de/ausland/zoelle-von-donald-trump-dieser-spielzeugproduzent-fordert-die-us-regierung-heraus](https://www.spiegel.de/ausland/zoelle-von-donald-trump-dieser-spielzeugproduzent-fordert-die-us-regierung-heraus-a-e8405289-fd64-48b7-a731-839448ed05d8#ref=rss)
-### bald
-
-* [https://www.spiegel.de/ausland/new-york-buergermeisterwahl-zohran-mamdani-ist-donald-trumps-liebster-gegner](https://www.spiegel.de/ausland/new-york-buergermeisterwahl-zohran-mamdani-ist-donald-trumps-liebster-gegner-a-807dbace-1dbf-4919-97a2-64899af2aa39#ref=rss)
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wie-wlan-durch-ki-zu-einer-ueberwachungstechnik-wird](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-wie-wlan-durch-ki-zu-einer-ueberwachungstechnik-wird-a-8c27c11a-fe8c-420c-92c8-893a9856a975#ref=rss)
-### kreta
-
-* [https://www.spiegel.de/panorama/blutrache-in-griechenland-feuergefecht-mit-zwei-toten-auf-kreta](https://www.spiegel.de/panorama/blutrache-in-griechenland-feuergefecht-mit-zwei-toten-auf-kreta-a-a3455a76-470c-4e70-9f91-7c8b27d20d05#ref=rss)
-### nacht
-
-* [https://www.spiegel.de/panorama/blutrache-in-griechenland-feuergefecht-mit-zwei-toten-auf-kreta](https://www.spiegel.de/panorama/blutrache-in-griechenland-feuergefecht-mit-zwei-toten-auf-kreta-a-a3455a76-470c-4e70-9f91-7c8b27d20d05#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ravensburg-29-jaehriger-beisst-20-jaehrigem-im-streit-einen-finger-ab](https://www.spiegel.de/panorama/justiz/ravensburg-29-jaehriger-beisst-20-jaehrigem-im-streit-einen-finger-ab-a-58a4fc0e-be6b-468a-98f8-6f0e8975c05e#ref=rss)
-### dorf
-
-* [https://www.spiegel.de/panorama/blutrache-in-griechenland-feuergefecht-mit-zwei-toten-auf-kreta](https://www.spiegel.de/panorama/blutrache-in-griechenland-feuergefecht-mit-zwei-toten-auf-kreta-a-a3455a76-470c-4e70-9f91-7c8b27d20d05#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/drelsdorf-in-schleswig-holstein-anbaden-im-november-freibad-ist-fertig](https://www.spiegel.de/panorama/gesellschaft/drelsdorf-in-schleswig-holstein-anbaden-im-november-freibad-ist-fertig-a-96e26716-b5b8-4cae-88aa-1853ae8c86ee#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/blutrache-in-griechenland-feuergefecht-mit-zwei-toten-auf-kreta](https://www.spiegel.de/panorama/blutrache-in-griechenland-feuergefecht-mit-zwei-toten-auf-kreta-a-a3455a76-470c-4e70-9f91-7c8b27d20d05#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-wenige-frauen-viel-frust-und-eine-unerwartete-wendung](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-wenige-frauen-viel-frust-und-eine-unerwartete-wendung-a-cc0418de-e03c-493d-b073-6cb7dc89686c#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-st-pauli-befindet-sich-im-freien-fall-rb-leipzig-verfolgt-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-st-pauli-befindet-sich-im-freien-fall-rb-leipzig-verfolgt-bayern-muenchen-a-ce1a605c-7d52-4b9a-b24f-a2d9af796d84#ref=rss)
-### st
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-st-pauli-befindet-sich-im-freien-fall-rb-leipzig-verfolgt-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-st-pauli-befindet-sich-im-freien-fall-rb-leipzig-verfolgt-bayern-muenchen-a-ce1a605c-7d52-4b9a-b24f-a2d9af796d84#ref=rss)
-### pauli
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-st-pauli-befindet-sich-im-freien-fall-rb-leipzig-verfolgt-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-st-pauli-befindet-sich-im-freien-fall-rb-leipzig-verfolgt-bayern-muenchen-a-ce1a605c-7d52-4b9a-b24f-a2d9af796d84#ref=rss)
-### leipzig
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-st-pauli-befindet-sich-im-freien-fall-rb-leipzig-verfolgt-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-st-pauli-befindet-sich-im-freien-fall-rb-leipzig-verfolgt-bayern-muenchen-a-ce1a605c-7d52-4b9a-b24f-a2d9af796d84#ref=rss)
-### feiert
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-st-pauli-befindet-sich-im-freien-fall-rb-leipzig-verfolgt-bayern-muenchen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-st-pauli-befindet-sich-im-freien-fall-rb-leipzig-verfolgt-bayern-muenchen-a-ce1a605c-7d52-4b9a-b24f-a2d9af796d84#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/drelsdorf-in-schleswig-holstein-anbaden-im-november-freibad-ist-fertig](https://www.spiegel.de/panorama/gesellschaft/drelsdorf-in-schleswig-holstein-anbaden-im-november-freibad-ist-fertig-a-96e26716-b5b8-4cae-88aa-1853ae8c86ee#ref=rss)
-### 1860
-
-* [https://www.spiegel.de/sport/fussball/1860-muenchen-gegen-energie-cottbus-drittligaspiel-nach-rassismus-vorfall-unterbrochen](https://www.spiegel.de/sport/fussball/1860-muenchen-gegen-energie-cottbus-drittligaspiel-nach-rassismus-vorfall-unterbrochen-a-6dc12bcc-c75d-4fe6-b8d1-9d3491710d45#ref=rss)
-### cottbus
-
-* [https://www.spiegel.de/sport/fussball/1860-muenchen-gegen-energie-cottbus-drittligaspiel-nach-rassismus-vorfall-unterbrochen](https://www.spiegel.de/sport/fussball/1860-muenchen-gegen-energie-cottbus-drittligaspiel-nach-rassismus-vorfall-unterbrochen-a-6dc12bcc-c75d-4fe6-b8d1-9d3491710d45#ref=rss)
-### belém
-
-* [https://www.spiegel.de/politik/cop30-in-belem-klimaverhandlungen-als-kampfsportart-kolumne](https://www.spiegel.de/politik/cop30-in-belem-klimaverhandlungen-als-kampfsportart-kolumne-a-33236434-5ffc-4ab7-861c-cec446dc9cad#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/cdu-merz-und-das-schweigen-der-frauen-union-in-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/cdu-merz-und-das-schweigen-der-frauen-union-in-sachsen-anhalt-a-fa7e8557-d9e2-406d-b61a-1ebf7299f2d0#ref=rss)
-* [https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig](https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig-a-f7265a1d-1675-485c-9b9e-52efaeecbb52#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/politik/deutschland/cdu-merz-und-das-schweigen-der-frauen-union-in-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/cdu-merz-und-das-schweigen-der-frauen-union-in-sachsen-anhalt-a-fa7e8557-d9e2-406d-b61a-1ebf7299f2d0#ref=rss)
-* [https://www.spiegel.de/familie/familiennewsletter-das-ist-nicht-alain-delon-das-ist-euer-grossvater](https://www.spiegel.de/familie/familiennewsletter-das-ist-nicht-alain-delon-das-ist-euer-grossvater-a-871db249-a7ca-4354-9ff1-4dcd28fd5f7d#ref=rss)
-### nofretete
-
-* [https://www.spiegel.de/ausland/aegypten-diskussion-um-rueckkehr-der-nofretete-ins-heimatland](https://www.spiegel.de/ausland/aegypten-diskussion-um-rueckkehr-der-nofretete-ins-heimatland-a-1886aa1e-32e4-47ab-a960-5e334f70c662#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/ausland/aegypten-diskussion-um-rueckkehr-der-nofretete-ins-heimatland](https://www.spiegel.de/ausland/aegypten-diskussion-um-rueckkehr-der-nofretete-ins-heimatland-a-1886aa1e-32e4-47ab-a960-5e334f70c662#ref=rss)
-* [https://www.spiegel.de/kultur/antu-romero-nunes-inszeniert-was-ihr-wollt-am-berliner-ensemble-niveau-ist-keine-handcreme](https://www.spiegel.de/kultur/antu-romero-nunes-inszeniert-was-ihr-wollt-am-berliner-ensemble-niveau-ist-keine-handcreme-a-d9e78198-ec18-43a1-a365-5959cfc2064e#ref=rss)
-### eröffnung
-
-* [https://www.spiegel.de/ausland/aegypten-diskussion-um-rueckkehr-der-nofretete-ins-heimatland](https://www.spiegel.de/ausland/aegypten-diskussion-um-rueckkehr-der-nofretete-ins-heimatland-a-1886aa1e-32e4-47ab-a960-5e334f70c662#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/drelsdorf-in-schleswig-holstein-anbaden-im-november-freibad-ist-fertig](https://www.spiegel.de/panorama/gesellschaft/drelsdorf-in-schleswig-holstein-anbaden-im-november-freibad-ist-fertig-a-96e26716-b5b8-4cae-88aa-1853ae8c86ee#ref=rss)
-### tod
-
-* [https://www.spiegel.de/kultur/kino/zum-tod-von-tcheky-karyo-er-brauchte-keine-waffen-er-toetete-mit-blicken](https://www.spiegel.de/kultur/kino/zum-tod-von-tcheky-karyo-er-brauchte-keine-waffen-er-toetete-mit-blicken-a-1093e873-c771-4721-bd17-3165ccde5dc8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/lizard-island-australien-luxuskreuzfahrt-nach-tod-von-zurueckgelassener-passagierin-abgesagt](https://www.spiegel.de/panorama/justiz/lizard-island-australien-luxuskreuzfahrt-nach-tod-von-zurueckgelassener-passagierin-abgesagt-a-7796210c-4b3b-4aa6-9ec0-b75bdec2ca50#ref=rss)
-### tchéky
-
-* [https://www.spiegel.de/kultur/kino/zum-tod-von-tcheky-karyo-er-brauchte-keine-waffen-er-toetete-mit-blicken](https://www.spiegel.de/kultur/kino/zum-tod-von-tcheky-karyo-er-brauchte-keine-waffen-er-toetete-mit-blicken-a-1093e873-c771-4721-bd17-3165ccde5dc8#ref=rss)
-### karyo
-
-* [https://www.spiegel.de/kultur/kino/zum-tod-von-tcheky-karyo-er-brauchte-keine-waffen-er-toetete-mit-blicken](https://www.spiegel.de/kultur/kino/zum-tod-von-tcheky-karyo-er-brauchte-keine-waffen-er-toetete-mit-blicken-a-1093e873-c771-4721-bd17-3165ccde5dc8#ref=rss)
-### bad
-
-* [https://www.spiegel.de/kultur/kino/zum-tod-von-tcheky-karyo-er-brauchte-keine-waffen-er-toetete-mit-blicken](https://www.spiegel.de/kultur/kino/zum-tod-von-tcheky-karyo-er-brauchte-keine-waffen-er-toetete-mit-blicken-a-1093e873-c771-4721-bd17-3165ccde5dc8#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/drelsdorf-in-schleswig-holstein-anbaden-im-november-freibad-ist-fertig](https://www.spiegel.de/panorama/gesellschaft/drelsdorf-in-schleswig-holstein-anbaden-im-november-freibad-ist-fertig-a-96e26716-b5b8-4cae-88aa-1853ae8c86ee#ref=rss)
-### antú
-
-* [https://www.spiegel.de/kultur/antu-romero-nunes-inszeniert-was-ihr-wollt-am-berliner-ensemble-niveau-ist-keine-handcreme](https://www.spiegel.de/kultur/antu-romero-nunes-inszeniert-was-ihr-wollt-am-berliner-ensemble-niveau-ist-keine-handcreme-a-d9e78198-ec18-43a1-a365-5959cfc2064e#ref=rss)
-### romero
-
-* [https://www.spiegel.de/kultur/antu-romero-nunes-inszeniert-was-ihr-wollt-am-berliner-ensemble-niveau-ist-keine-handcreme](https://www.spiegel.de/kultur/antu-romero-nunes-inszeniert-was-ihr-wollt-am-berliner-ensemble-niveau-ist-keine-handcreme-a-d9e78198-ec18-43a1-a365-5959cfc2064e#ref=rss)
-### nunes
-
-* [https://www.spiegel.de/kultur/antu-romero-nunes-inszeniert-was-ihr-wollt-am-berliner-ensemble-niveau-ist-keine-handcreme](https://www.spiegel.de/kultur/antu-romero-nunes-inszeniert-was-ihr-wollt-am-berliner-ensemble-niveau-ist-keine-handcreme-a-d9e78198-ec18-43a1-a365-5959cfc2064e#ref=rss)
-### wollt
-
-* [https://www.spiegel.de/kultur/antu-romero-nunes-inszeniert-was-ihr-wollt-am-berliner-ensemble-niveau-ist-keine-handcreme](https://www.spiegel.de/kultur/antu-romero-nunes-inszeniert-was-ihr-wollt-am-berliner-ensemble-niveau-ist-keine-handcreme-a-d9e78198-ec18-43a1-a365-5959cfc2064e#ref=rss)
-### wendung
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-wenige-frauen-viel-frust-und-eine-unerwartete-wendung](https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-wenige-frauen-viel-frust-und-eine-unerwartete-wendung-a-cc0418de-e03c-493d-b073-6cb7dc89686c#ref=rss)
-### halloween
-
-* [https://www.spiegel.de/panorama/halloween-die-schoensten-bilder-aus-der-welt](https://www.spiegel.de/panorama/halloween-die-schoensten-bilder-aus-der-welt-a-4df2a3c8-e4d1-43dd-8c8b-81b62211c546#ref=rss)
-### bilder
-
-* [https://www.spiegel.de/panorama/halloween-die-schoensten-bilder-aus-der-welt](https://www.spiegel.de/panorama/halloween-die-schoensten-bilder-aus-der-welt-a-4df2a3c8-e4d1-43dd-8c8b-81b62211c546#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/panorama/justiz/stuttgart-verletzte-nach-halloween-party-verdacht-auf-k-o-tropfen](https://www.spiegel.de/panorama/justiz/stuttgart-verletzte-nach-halloween-party-verdacht-auf-k-o-tropfen-a-16170586-b339-4206-abd5-b8cd05cee599#ref=rss)
-### verdacht
-
-* [https://www.spiegel.de/panorama/justiz/stuttgart-verletzte-nach-halloween-party-verdacht-auf-k-o-tropfen](https://www.spiegel.de/panorama/justiz/stuttgart-verletzte-nach-halloween-party-verdacht-auf-k-o-tropfen-a-16170586-b339-4206-abd5-b8cd05cee599#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-verdacht-auf-vogelgrippe-tote-moewe-fuehrt-zu-fahrbahnsperrung-auf-koehlbrandbruecke](https://www.spiegel.de/panorama/hamburg-verdacht-auf-vogelgrippe-tote-moewe-fuehrt-zu-fahrbahnsperrung-auf-koehlbrandbruecke-a-c099bc6e-a3f0-4ec2-b521-22f50ee34529#ref=rss)
-### kotropfen
-
-* [https://www.spiegel.de/panorama/justiz/stuttgart-verletzte-nach-halloween-party-verdacht-auf-k-o-tropfen](https://www.spiegel.de/panorama/justiz/stuttgart-verletzte-nach-halloween-party-verdacht-auf-k-o-tropfen-a-16170586-b339-4206-abd5-b8cd05cee599#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/stuttgart-verletzte-nach-halloween-party-verdacht-auf-k-o-tropfen](https://www.spiegel.de/panorama/justiz/stuttgart-verletzte-nach-halloween-party-verdacht-auf-k-o-tropfen-a-16170586-b339-4206-abd5-b8cd05cee599#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-verdacht-auf-vogelgrippe-tote-moewe-fuehrt-zu-fahrbahnsperrung-auf-koehlbrandbruecke](https://www.spiegel.de/panorama/hamburg-verdacht-auf-vogelgrippe-tote-moewe-fuehrt-zu-fahrbahnsperrung-auf-koehlbrandbruecke-a-c099bc6e-a3f0-4ec2-b521-22f50ee34529#ref=rss)
-### vogelgrippe
-
-* [https://www.spiegel.de/panorama/hamburg-verdacht-auf-vogelgrippe-tote-moewe-fuehrt-zu-fahrbahnsperrung-auf-koehlbrandbruecke](https://www.spiegel.de/panorama/hamburg-verdacht-auf-vogelgrippe-tote-moewe-fuehrt-zu-fahrbahnsperrung-auf-koehlbrandbruecke-a-c099bc6e-a3f0-4ec2-b521-22f50ee34529#ref=rss)
-### möwe
-
-* [https://www.spiegel.de/panorama/hamburg-verdacht-auf-vogelgrippe-tote-moewe-fuehrt-zu-fahrbahnsperrung-auf-koehlbrandbruecke](https://www.spiegel.de/panorama/hamburg-verdacht-auf-vogelgrippe-tote-moewe-fuehrt-zu-fahrbahnsperrung-auf-koehlbrandbruecke-a-c099bc6e-a3f0-4ec2-b521-22f50ee34529#ref=rss)
-### köhlbrandbrücke
-
-* [https://www.spiegel.de/panorama/hamburg-verdacht-auf-vogelgrippe-tote-moewe-fuehrt-zu-fahrbahnsperrung-auf-koehlbrandbruecke](https://www.spiegel.de/panorama/hamburg-verdacht-auf-vogelgrippe-tote-moewe-fuehrt-zu-fahrbahnsperrung-auf-koehlbrandbruecke-a-c099bc6e-a3f0-4ec2-b521-22f50ee34529#ref=rss)
-### tot
-
-* [https://www.spiegel.de/panorama/hamburg-verdacht-auf-vogelgrippe-tote-moewe-fuehrt-zu-fahrbahnsperrung-auf-koehlbrandbruecke](https://www.spiegel.de/panorama/hamburg-verdacht-auf-vogelgrippe-tote-moewe-fuehrt-zu-fahrbahnsperrung-auf-koehlbrandbruecke-a-c099bc6e-a3f0-4ec2-b521-22f50ee34529#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/lizard-island-australien-luxuskreuzfahrt-nach-tod-von-zurueckgelassener-passagierin-abgesagt](https://www.spiegel.de/panorama/justiz/lizard-island-australien-luxuskreuzfahrt-nach-tod-von-zurueckgelassener-passagierin-abgesagt-a-7796210c-4b3b-4aa6-9ec0-b75bdec2ca50#ref=rss)
-### ließ
-
-* [https://www.spiegel.de/panorama/hamburg-verdacht-auf-vogelgrippe-tote-moewe-fuehrt-zu-fahrbahnsperrung-auf-koehlbrandbruecke](https://www.spiegel.de/panorama/hamburg-verdacht-auf-vogelgrippe-tote-moewe-fuehrt-zu-fahrbahnsperrung-auf-koehlbrandbruecke-a-c099bc6e-a3f0-4ec2-b521-22f50ee34529#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-goennt-dem-weissen-haus-ein-klo-mit-goldenen-wasserhaehnen-und-marmorwaenden](https://www.spiegel.de/ausland/donald-trump-goennt-dem-weissen-haus-ein-klo-mit-goldenen-wasserhaehnen-und-marmorwaenden-a-f9258df5-4011-482f-b613-eb0c03bc0015#ref=rss)
-### drelsdorf
-
-* [https://www.spiegel.de/panorama/gesellschaft/drelsdorf-in-schleswig-holstein-anbaden-im-november-freibad-ist-fertig](https://www.spiegel.de/panorama/gesellschaft/drelsdorf-in-schleswig-holstein-anbaden-im-november-freibad-ist-fertig-a-96e26716-b5b8-4cae-88aa-1853ae8c86ee#ref=rss)
-### anbaden
-
-* [https://www.spiegel.de/panorama/gesellschaft/drelsdorf-in-schleswig-holstein-anbaden-im-november-freibad-ist-fertig](https://www.spiegel.de/panorama/gesellschaft/drelsdorf-in-schleswig-holstein-anbaden-im-november-freibad-ist-fertig-a-96e26716-b5b8-4cae-88aa-1853ae8c86ee#ref=rss)
-### november
-
-* [https://www.spiegel.de/panorama/gesellschaft/drelsdorf-in-schleswig-holstein-anbaden-im-november-freibad-ist-fertig](https://www.spiegel.de/panorama/gesellschaft/drelsdorf-in-schleswig-holstein-anbaden-im-november-freibad-ist-fertig-a-96e26716-b5b8-4cae-88aa-1853ae8c86ee#ref=rss)
-### markus
-
-* [https://www.spiegel.de/sport/fussball/markus-merk-kritisiert-dfb-schiedsrichter-und-sieht-kompetenzmangel](https://www.spiegel.de/sport/fussball/markus-merk-kritisiert-dfb-schiedsrichter-und-sieht-kompetenzmangel-a-d6d93232-4836-4e36-8389-00dc2a91c090#ref=rss)
-### merk
-
-* [https://www.spiegel.de/sport/fussball/markus-merk-kritisiert-dfb-schiedsrichter-und-sieht-kompetenzmangel](https://www.spiegel.de/sport/fussball/markus-merk-kritisiert-dfb-schiedsrichter-und-sieht-kompetenzmangel-a-d6d93232-4836-4e36-8389-00dc2a91c090#ref=rss)
-### gedenken
-
-* [https://www.spiegel.de/ausland/serbien-zehntausende-gedenken-ein-jahr-nach-einsturz-von-bahnhofsdach-der-opfer-von-novi-sad](https://www.spiegel.de/ausland/serbien-zehntausende-gedenken-ein-jahr-nach-einsturz-von-bahnhofsdach-der-opfer-von-novi-sad-a-37305a24-66f2-4ff9-86f0-6b29b8ac3696#ref=rss)
-### opfer
-
-* [https://www.spiegel.de/ausland/serbien-zehntausende-gedenken-ein-jahr-nach-einsturz-von-bahnhofsdach-der-opfer-von-novi-sad](https://www.spiegel.de/ausland/serbien-zehntausende-gedenken-ein-jahr-nach-einsturz-von-bahnhofsdach-der-opfer-von-novi-sad-a-37305a24-66f2-4ff9-86f0-6b29b8ac3696#ref=rss)
-### novi
-
-* [https://www.spiegel.de/ausland/serbien-zehntausende-gedenken-ein-jahr-nach-einsturz-von-bahnhofsdach-der-opfer-von-novi-sad](https://www.spiegel.de/ausland/serbien-zehntausende-gedenken-ein-jahr-nach-einsturz-von-bahnhofsdach-der-opfer-von-novi-sad-a-37305a24-66f2-4ff9-86f0-6b29b8ac3696#ref=rss)
-### sad
-
-* [https://www.spiegel.de/ausland/serbien-zehntausende-gedenken-ein-jahr-nach-einsturz-von-bahnhofsdach-der-opfer-von-novi-sad](https://www.spiegel.de/ausland/serbien-zehntausende-gedenken-ein-jahr-nach-einsturz-von-bahnhofsdach-der-opfer-von-novi-sad-a-37305a24-66f2-4ff9-86f0-6b29b8ac3696#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/serbien-zehntausende-gedenken-ein-jahr-nach-einsturz-von-bahnhofsdach-der-opfer-von-novi-sad](https://www.spiegel.de/ausland/serbien-zehntausende-gedenken-ein-jahr-nach-einsturz-von-bahnhofsdach-der-opfer-von-novi-sad-a-37305a24-66f2-4ff9-86f0-6b29b8ac3696#ref=rss)
-* [https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig](https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig-a-f7265a1d-1675-485c-9b9e-52efaeecbb52#ref=rss)
-### bundestagswahl
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-demokratie-wunderland-im-wahlkreis-koeln-ii](https://www.spiegel.de/politik/deutschland/bundestagswahl-demokratie-wunderland-im-wahlkreis-koeln-ii-a-5d7b2b1a-2b19-469a-b466-b7649b1831c2#ref=rss)
-### köln
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-demokratie-wunderland-im-wahlkreis-koeln-ii](https://www.spiegel.de/politik/deutschland/bundestagswahl-demokratie-wunderland-im-wahlkreis-koeln-ii-a-5d7b2b1a-2b19-469a-b466-b7649b1831c2#ref=rss)
-### wort
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-demokratie-wunderland-im-wahlkreis-koeln-ii](https://www.spiegel.de/politik/deutschland/bundestagswahl-demokratie-wunderland-im-wahlkreis-koeln-ii-a-5d7b2b1a-2b19-469a-b466-b7649b1831c2#ref=rss)
-* [https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig](https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig-a-f7265a1d-1675-485c-9b9e-52efaeecbb52#ref=rss)
-### xi
-
-* [https://www.spiegel.de/ausland/xi-jinping-suedkorea-bittet-china-um-unterstuetzung-bei-annaeherung-an-nordkorea](https://www.spiegel.de/ausland/xi-jinping-suedkorea-bittet-china-um-unterstuetzung-bei-annaeherung-an-nordkorea-a-5b76abd3-b12d-4ef1-8d9b-d53bf17b74e6#ref=rss)
-### jinping
-
-* [https://www.spiegel.de/ausland/xi-jinping-suedkorea-bittet-china-um-unterstuetzung-bei-annaeherung-an-nordkorea](https://www.spiegel.de/ausland/xi-jinping-suedkorea-bittet-china-um-unterstuetzung-bei-annaeherung-an-nordkorea-a-5b76abd3-b12d-4ef1-8d9b-d53bf17b74e6#ref=rss)
-### nordkorea
-
-* [https://www.spiegel.de/ausland/xi-jinping-suedkorea-bittet-china-um-unterstuetzung-bei-annaeherung-an-nordkorea](https://www.spiegel.de/ausland/xi-jinping-suedkorea-bittet-china-um-unterstuetzung-bei-annaeherung-an-nordkorea-a-5b76abd3-b12d-4ef1-8d9b-d53bf17b74e6#ref=rss)
-### großvater
-
-* [https://www.spiegel.de/familie/familiennewsletter-das-ist-nicht-alain-delon-das-ist-euer-grossvater](https://www.spiegel.de/familie/familiennewsletter-das-ist-nicht-alain-delon-das-ist-euer-grossvater-a-871db249-a7ca-4354-9ff1-4dcd28fd5f7d#ref=rss)
+* [https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york](https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york-a-4ee09643-5a6c-4dbd-a94a-d7af3631f65d#ref=rss)
+* [https://www.spiegel.de/sport/baseball-los-angeles-dodgers-verteidigen-world-series-titel](https://www.spiegel.de/sport/baseball-los-angeles-dodgers-verteidigen-world-series-titel-a-e997c527-313c-42d1-a169-5950ecaf10b9#ref=rss)
+* [https://www.spiegel.de/ausland/barack-obama-warnt-vor-donald-trump-und-den-exzessen-dieser-regierung](https://www.spiegel.de/ausland/barack-obama-warnt-vor-donald-trump-und-den-exzessen-dieser-regierung-a-4b67ec98-7b37-4104-9865-d5e5cfd2e507#ref=rss)
+### donald
+
+* [https://www.spiegel.de/politik/deutschland/news-usa-the-atlantic-donald-trump-opposition](https://www.spiegel.de/politik/deutschland/news-usa-the-atlantic-donald-trump-opposition-a-8de7fe3f-653b-4011-9dc0-10efa8d75f07#ref=rss)
+* [https://www.spiegel.de/ausland/barack-obama-warnt-vor-donald-trump-und-den-exzessen-dieser-regierung](https://www.spiegel.de/ausland/barack-obama-warnt-vor-donald-trump-und-den-exzessen-dieser-regierung-a-4b67ec98-7b37-4104-9865-d5e5cfd2e507#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-droht-nigeria-wegen-toetung-von-christen-mit-us-militaerschlaegen](https://www.spiegel.de/ausland/donald-trump-droht-nigeria-wegen-toetung-von-christen-mit-us-militaerschlaegen-a-0d443d1c-5cd1-4110-9481-6ddbdb80f065#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/zoelle-von-donald-trump-dieser-spielzeugproduzent-fordert-die-us-regierung-heraus](https://www.spiegel.de/ausland/zoelle-von-donald-trump-dieser-spielzeugproduzent-fordert-die-us-regierung-heraus-a-e8405289-fd64-48b7-a731-839448ed05d8#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-goennt-dem-weissen-haus-ein-klo-mit-goldenen-wasserhaehnen-und-marmorwaenden](https://www.spiegel.de/ausland/donald-trump-goennt-dem-weissen-haus-ein-klo-mit-goldenen-wasserhaehnen-und-marmorwaenden-a-f9258df5-4011-482f-b613-eb0c03bc0015#ref=rss)
-### compass
+* [https://www.spiegel.de/politik/deutschland/news-usa-the-atlantic-donald-trump-opposition](https://www.spiegel.de/politik/deutschland/news-usa-the-atlantic-donald-trump-opposition-a-8de7fe3f-653b-4011-9dc0-10efa8d75f07#ref=rss)
+* [https://www.spiegel.de/ausland/barack-obama-warnt-vor-donald-trump-und-den-exzessen-dieser-regierung](https://www.spiegel.de/ausland/barack-obama-warnt-vor-donald-trump-und-den-exzessen-dieser-regierung-a-4b67ec98-7b37-4104-9865-d5e5cfd2e507#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-droht-nigeria-wegen-toetung-von-christen-mit-us-militaerschlaegen](https://www.spiegel.de/ausland/donald-trump-droht-nigeria-wegen-toetung-von-christen-mit-us-militaerschlaegen-a-0d443d1c-5cd1-4110-9481-6ddbdb80f065#ref=rss)
+### verteidigungsminister
 
-* [https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig](https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig-a-f7265a1d-1675-485c-9b9e-52efaeecbb52#ref=rss)
-### mitte
-
-* [https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig](https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig-a-f7265a1d-1675-485c-9b9e-52efaeecbb52#ref=rss)
-### laumann
-
-* [https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig](https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig-a-f7265a1d-1675-485c-9b9e-52efaeecbb52#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig](https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig-a-f7265a1d-1675-485c-9b9e-52efaeecbb52#ref=rss)
-### gruppe
-
-* [https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig](https://www.spiegel.de/politik/cdu-und-compass-mitte-karl-josef-laumann-haelt-neue-gruppe-fuer-unnoetig-a-f7265a1d-1675-485c-9b9e-52efaeecbb52#ref=rss)
-### minderheitsregierungen
-
-* [https://www.spiegel.de/politik/boris-rhein-haelt-minderheitsregierungen-durch-afd-aufschwung-realistisch](https://www.spiegel.de/politik/boris-rhein-haelt-minderheitsregierungen-durch-afd-aufschwung-realistisch-a-6188da0c-5741-45ee-9bf8-0d19686a14a9#ref=rss)
-### hertha
-
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-gegen-dynamo-dresden-tumulte-zwischen-fans-schon-vor-spielbeginn](https://www.spiegel.de/sport/fussball/hertha-bsc-gegen-dynamo-dresden-tumulte-zwischen-fans-schon-vor-spielbeginn-a-ce93bdf3-0a72-424d-9cac-da1df8688733#ref=rss)
-### bsc
-
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-gegen-dynamo-dresden-tumulte-zwischen-fans-schon-vor-spielbeginn](https://www.spiegel.de/sport/fussball/hertha-bsc-gegen-dynamo-dresden-tumulte-zwischen-fans-schon-vor-spielbeginn-a-ce93bdf3-0a72-424d-9cac-da1df8688733#ref=rss)
-### dynamo
-
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-gegen-dynamo-dresden-tumulte-zwischen-fans-schon-vor-spielbeginn](https://www.spiegel.de/sport/fussball/hertha-bsc-gegen-dynamo-dresden-tumulte-zwischen-fans-schon-vor-spielbeginn-a-ce93bdf3-0a72-424d-9cac-da1df8688733#ref=rss)
-### dresden
-
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-gegen-dynamo-dresden-tumulte-zwischen-fans-schon-vor-spielbeginn](https://www.spiegel.de/sport/fussball/hertha-bsc-gegen-dynamo-dresden-tumulte-zwischen-fans-schon-vor-spielbeginn-a-ce93bdf3-0a72-424d-9cac-da1df8688733#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/erneut-drohnen-ueber-von-nato-genutzter-militaerbasis-in-belgien](https://www.spiegel.de/ausland/erneut-drohnen-ueber-von-nato-genutzter-militaerbasis-in-belgien-a-8d05fd80-7899-455f-94fa-605f845da8cb#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-china-beraten-ueber-direkten-militaerischen-draht](https://www.spiegel.de/ausland/usa-und-china-beraten-ueber-direkten-militaerischen-draht-a-1cedc72b-ca2a-493b-8a2d-b9c3122b5fbb#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-russland-wirft-usa-exzessive-gewalt-bei-angriff-auf-schmuggler-vor](https://www.spiegel.de/ausland/venezuela-russland-wirft-usa-exzessive-gewalt-bei-angriff-auf-schmuggler-vor-a-fc7824b5-9d3a-4de7-bb8e-858e3e222eb3#ref=rss)
 ### tag
 
 * [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### weißen
+* [https://www.spiegel.de/panorama/23-tote-bei-explosion-in-mexikanischem-discounter](https://www.spiegel.de/panorama/23-tote-bei-explosion-in-mexikanischem-discounter-a-23e619c2-0435-4cc9-83bd-62673a4515b5#ref=rss)
+### müller
 
-* [https://www.spiegel.de/ausland/donald-trump-goennt-dem-weissen-haus-ein-klo-mit-goldenen-wasserhaehnen-und-marmorwaenden](https://www.spiegel.de/ausland/donald-trump-goennt-dem-weissen-haus-ein-klo-mit-goldenen-wasserhaehnen-und-marmorwaenden-a-f9258df5-4011-482f-b613-eb0c03bc0015#ref=rss)
-### streit
+* [https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-fuehrt-team-ins-playoff-viertelfinale](https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-fuehrt-team-ins-playoff-viertelfinale-a-ae4a9884-3865-4bef-acc9-2dec933c9cdd#ref=rss)
+### drei
 
-* [https://www.spiegel.de/panorama/justiz/ravensburg-29-jaehriger-beisst-20-jaehrigem-im-streit-einen-finger-ab](https://www.spiegel.de/panorama/justiz/ravensburg-29-jaehriger-beisst-20-jaehrigem-im-streit-einen-finger-ab-a-58a4fc0e-be6b-468a-98f8-6f0e8975c05e#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-ein-pferd-drei-kaeufer](https://www.spiegel.de/karriere/raetsel-der-woche-ein-pferd-drei-kaeufer-a-af289692-9a91-415d-aa06-80c3cf36e034#ref=rss)
+* [https://www.spiegel.de/panorama/leute/eckart-von-hirschhausen-hat-manchmal-angst-vor-demenz](https://www.spiegel.de/panorama/leute/eckart-von-hirschhausen-hat-manchmal-angst-vor-demenz-a-d68ed3c7-e8f5-4d1a-8451-712b0a15d407#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-vs-paris-saint-germain-der-staerkste-gegner-europas-soll-sich-ruhig-trauen](https://www.spiegel.de/sport/fussball/bayern-muenchen-vs-paris-saint-germain-der-staerkste-gegner-europas-soll-sich-ruhig-trauen-a-d7b987b7-0484-4515-adec-8d53f78e3180#ref=rss)
+### york
+
+* [https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york](https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york-a-4ee09643-5a6c-4dbd-a94a-d7af3631f65d#ref=rss)
+* [https://www.spiegel.de/sport/baseball-los-angeles-dodgers-verteidigen-world-series-titel](https://www.spiegel.de/sport/baseball-los-angeles-dodgers-verteidigen-world-series-titel-a-e997c527-313c-42d1-a169-5950ecaf10b9#ref=rss)
+### epstein
+
+* [https://www.spiegel.de/panorama/justiz/ex-prinz-andrew-wollte-epstein-offenbar-nach-dessen-haftentlassung-treffen](https://www.spiegel.de/panorama/justiz/ex-prinz-andrew-wollte-epstein-offenbar-nach-dessen-haftentlassung-treffen-a-f39469c5-e416-4b59-8895-0de014a12398#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/usa-und-china-beraten-ueber-direkten-militaerischen-draht](https://www.spiegel.de/ausland/usa-und-china-beraten-ueber-direkten-militaerischen-draht-a-1cedc72b-ca2a-493b-8a2d-b9c3122b5fbb#ref=rss)
+* [https://www.spiegel.de/panorama/jamaika-nach-hurrikan-melissa-tausende-touristen-stranden-an-flughaefen-wegen-gestrichener-fluege](https://www.spiegel.de/panorama/jamaika-nach-hurrikan-melissa-tausende-touristen-stranden-an-flughaefen-wegen-gestrichener-fluege-a-2bc82eb8-daec-48dc-8166-c6b55ef85f2b#ref=rss)
+### fremdgehen
+
+* [https://www.spiegel.de/partnerschaft/seitensprung-in-langjaehriger-ehe-hilft-fremdgehen-wirklich-bei-alltagsproblemen](https://www.spiegel.de/partnerschaft/seitensprung-in-langjaehriger-ehe-hilft-fremdgehen-wirklich-bei-alltagsproblemen-a-084e3de3-e590-41ee-bb92-5deaec7d07ec#ref=rss)
+* [https://www.spiegel.de/partnerschaft/fremdgehen-soll-ich-meinen-seitensprung-beichten-bloss-nicht](https://www.spiegel.de/partnerschaft/fremdgehen-soll-ich-meinen-seitensprung-beichten-bloss-nicht-a-fa07ad3f-dc7d-42c3-8851-28d8805240c1#ref=rss)
+### ich
+
+* [https://www.spiegel.de/partnerschaft/fremdgehen-soll-ich-meinen-seitensprung-beichten-bloss-nicht](https://www.spiegel.de/partnerschaft/fremdgehen-soll-ich-meinen-seitensprung-beichten-bloss-nicht-a-fa07ad3f-dc7d-42c3-8851-28d8805240c1#ref=rss)
+### sonntag
+
+* [https://www.spiegel.de/ausland/erneut-drohnen-ueber-von-nato-genutzter-militaerbasis-in-belgien](https://www.spiegel.de/ausland/erneut-drohnen-ueber-von-nato-genutzter-militaerbasis-in-belgien-a-8d05fd80-7899-455f-94fa-605f845da8cb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-usa-the-atlantic-donald-trump-opposition](https://www.spiegel.de/politik/deutschland/news-usa-the-atlantic-donald-trump-opposition-a-8de7fe3f-653b-4011-9dc0-10efa8d75f07#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### pro
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/schwarzwald-kuckucksuhr-soll-kulturerbe-werden](https://www.spiegel.de/panorama/schwarzwald-kuckucksuhr-soll-kulturerbe-werden-a-8f977fef-4d1b-4cfb-8257-14bf928bed5f#ref=rss)
+### vancouver
+
+* [https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-fuehrt-team-ins-playoff-viertelfinale](https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-fuehrt-team-ins-playoff-viertelfinale-a-ae4a9884-3865-4bef-acc9-2dec933c9cdd#ref=rss)
+### whitecaps
+
+* [https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-fuehrt-team-ins-playoff-viertelfinale](https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-fuehrt-team-ins-playoff-viertelfinale-a-ae4a9884-3865-4bef-acc9-2dec933c9cdd#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-fuehrt-team-ins-playoff-viertelfinale](https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-fuehrt-team-ins-playoff-viertelfinale-a-ae4a9884-3865-4bef-acc9-2dec933c9cdd#ref=rss)
+### rätsel
+
+* [https://www.spiegel.de/karriere/raetsel-der-woche-ein-pferd-drei-kaeufer](https://www.spiegel.de/karriere/raetsel-der-woche-ein-pferd-drei-kaeufer-a-af289692-9a91-415d-aa06-80c3cf36e034#ref=rss)
+* [https://www.spiegel.de/wissenschaft/tschernobyl-raetsel-um-blaue-hunde-ist-geloest](https://www.spiegel.de/wissenschaft/tschernobyl-raetsel-um-blaue-hunde-ist-geloest-a-bfa61817-15d1-4b01-8fb8-16054a80f10d#ref=rss)
+### pferd
+
+* [https://www.spiegel.de/karriere/raetsel-der-woche-ein-pferd-drei-kaeufer](https://www.spiegel.de/karriere/raetsel-der-woche-ein-pferd-drei-kaeufer-a-af289692-9a91-415d-aa06-80c3cf36e034#ref=rss)
+### argentinien
+
+* [https://www.spiegel.de/ausland/argentinien-tausende-demonstrieren-bei-pride-parade-in-buenos-aires](https://www.spiegel.de/ausland/argentinien-tausende-demonstrieren-bei-pride-parade-in-buenos-aires-a-3c08f0b5-2818-45c4-8644-4d0c90ab8f84#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/ausland/argentinien-tausende-demonstrieren-bei-pride-parade-in-buenos-aires](https://www.spiegel.de/ausland/argentinien-tausende-demonstrieren-bei-pride-parade-in-buenos-aires-a-3c08f0b5-2818-45c4-8644-4d0c90ab8f84#ref=rss)
+* [https://www.spiegel.de/panorama/jamaika-nach-hurrikan-melissa-tausende-touristen-stranden-an-flughaefen-wegen-gestrichener-fluege](https://www.spiegel.de/panorama/jamaika-nach-hurrikan-melissa-tausende-touristen-stranden-an-flughaefen-wegen-gestrichener-fluege-a-2bc82eb8-daec-48dc-8166-c6b55ef85f2b#ref=rss)
+### paris
+
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-vs-paris-saint-germain-der-staerkste-gegner-europas-soll-sich-ruhig-trauen](https://www.spiegel.de/sport/fussball/bayern-muenchen-vs-paris-saint-germain-der-staerkste-gegner-europas-soll-sich-ruhig-trauen-a-d7b987b7-0484-4515-adec-8d53f78e3180#ref=rss)
+### saintgermain
+
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-vs-paris-saint-germain-der-staerkste-gegner-europas-soll-sich-ruhig-trauen](https://www.spiegel.de/sport/fussball/bayern-muenchen-vs-paris-saint-germain-der-staerkste-gegner-europas-soll-sich-ruhig-trauen-a-d7b987b7-0484-4515-adec-8d53f78e3180#ref=rss)
+### dieter
+
+* [https://www.spiegel.de/kultur/musikmanager-dieter-weidenfeld-ist-tot](https://www.spiegel.de/kultur/musikmanager-dieter-weidenfeld-ist-tot-a-49c82bf9-6d34-4c50-90d5-3bfa26694c4c#ref=rss)
+### weidenfeld
+
+* [https://www.spiegel.de/kultur/musikmanager-dieter-weidenfeld-ist-tot](https://www.spiegel.de/kultur/musikmanager-dieter-weidenfeld-ist-tot-a-49c82bf9-6d34-4c50-90d5-3bfa26694c4c#ref=rss)
+### tot
+
+* [https://www.spiegel.de/kultur/musikmanager-dieter-weidenfeld-ist-tot](https://www.spiegel.de/kultur/musikmanager-dieter-weidenfeld-ist-tot-a-49c82bf9-6d34-4c50-90d5-3bfa26694c4c#ref=rss)
+* [https://www.spiegel.de/sport/suedtirol-vermisste-deutsche-bergsteiger-bei-lawinenunglueck-tot-gefunden](https://www.spiegel.de/sport/suedtirol-vermisste-deutsche-bergsteiger-bei-lawinenunglueck-tot-gefunden-a-405c24c0-22a4-4ec7-ba20-21f970d18074#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/kultur/musikmanager-dieter-weidenfeld-ist-tot](https://www.spiegel.de/kultur/musikmanager-dieter-weidenfeld-ist-tot-a-49c82bf9-6d34-4c50-90d5-3bfa26694c4c#ref=rss)
+* [https://www.spiegel.de/panorama/schwarzwald-kuckucksuhr-soll-kulturerbe-werden](https://www.spiegel.de/panorama/schwarzwald-kuckucksuhr-soll-kulturerbe-werden-a-8f977fef-4d1b-4cfb-8257-14bf928bed5f#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/musikmanager-dieter-weidenfeld-ist-tot](https://www.spiegel.de/kultur/musikmanager-dieter-weidenfeld-ist-tot-a-49c82bf9-6d34-4c50-90d5-3bfa26694c4c#ref=rss)
+* [https://www.spiegel.de/panorama/23-tote-bei-explosion-in-mexikanischem-discounter](https://www.spiegel.de/panorama/23-tote-bei-explosion-in-mexikanischem-discounter-a-23e619c2-0435-4cc9-83bd-62673a4515b5#ref=rss)
+### gossip
+
+* [https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york](https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york-a-4ee09643-5a6c-4dbd-a94a-d7af3631f65d#ref=rss)
+### girl
+
+* [https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york](https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york-a-4ee09643-5a6c-4dbd-a94a-d7af3631f65d#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york](https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york-a-4ee09643-5a6c-4dbd-a94a-d7af3631f65d#ref=rss)
+### video
+
+* [https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york](https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york-a-4ee09643-5a6c-4dbd-a94a-d7af3631f65d#ref=rss)
+### the
+
+* [https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york](https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york-a-4ee09643-5a6c-4dbd-a94a-d7af3631f65d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-usa-the-atlantic-donald-trump-opposition](https://www.spiegel.de/politik/deutschland/news-usa-the-atlantic-donald-trump-opposition-a-8de7fe3f-653b-4011-9dc0-10efa8d75f07#ref=rss)
+### gemeldet
+
+* [https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york](https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york-a-4ee09643-5a6c-4dbd-a94a-d7af3631f65d#ref=rss)
+* [https://www.spiegel.de/sport/suedtirol-vermisste-deutsche-bergsteiger-bei-lawinenunglueck-tot-gefunden](https://www.spiegel.de/sport/suedtirol-vermisste-deutsche-bergsteiger-bei-lawinenunglueck-tot-gefunden-a-405c24c0-22a4-4ec7-ba20-21f970d18074#ref=rss)
+### grund
+
+* [https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york](https://www.spiegel.de/netzwelt/wie-bei-gossip-girl-baerbock-veroeffentlicht-video-aus-new-york-a-4ee09643-5a6c-4dbd-a94a-d7af3631f65d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-droht-nigeria-wegen-toetung-von-christen-mit-us-militaerschlaegen](https://www.spiegel.de/ausland/donald-trump-droht-nigeria-wegen-toetung-von-christen-mit-us-militaerschlaegen-a-0d443d1c-5cd1-4110-9481-6ddbdb80f065#ref=rss)
+### beiden
+
+* [https://www.spiegel.de/panorama/dressur-olympiasieger-frederic-wandres-hat-sich-verlobt](https://www.spiegel.de/panorama/dressur-olympiasieger-frederic-wandres-hat-sich-verlobt-a-4fbac10e-148f-423a-a70f-c5b667df1ed1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ex-prinz-andrew-wollte-epstein-offenbar-nach-dessen-haftentlassung-treffen](https://www.spiegel.de/panorama/justiz/ex-prinz-andrew-wollte-epstein-offenbar-nach-dessen-haftentlassung-treffen-a-f39469c5-e416-4b59-8895-0de014a12398#ref=rss)
+### los
+
+* [https://www.spiegel.de/sport/baseball-los-angeles-dodgers-verteidigen-world-series-titel](https://www.spiegel.de/sport/baseball-los-angeles-dodgers-verteidigen-world-series-titel-a-e997c527-313c-42d1-a169-5950ecaf10b9#ref=rss)
+### angeles
+
+* [https://www.spiegel.de/sport/baseball-los-angeles-dodgers-verteidigen-world-series-titel](https://www.spiegel.de/sport/baseball-los-angeles-dodgers-verteidigen-world-series-titel-a-e997c527-313c-42d1-a169-5950ecaf10b9#ref=rss)
+### dodgers
+
+* [https://www.spiegel.de/sport/baseball-los-angeles-dodgers-verteidigen-world-series-titel](https://www.spiegel.de/sport/baseball-los-angeles-dodgers-verteidigen-world-series-titel-a-e997c527-313c-42d1-a169-5950ecaf10b9#ref=rss)
+### worldseriestitel
+
+* [https://www.spiegel.de/sport/baseball-los-angeles-dodgers-verteidigen-world-series-titel](https://www.spiegel.de/sport/baseball-los-angeles-dodgers-verteidigen-world-series-titel-a-e997c527-313c-42d1-a169-5950ecaf10b9#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/sport/baseball-los-angeles-dodgers-verteidigen-world-series-titel](https://www.spiegel.de/sport/baseball-los-angeles-dodgers-verteidigen-world-series-titel-a-e997c527-313c-42d1-a169-5950ecaf10b9#ref=rss)
+* [https://www.spiegel.de/panorama/schwarzwald-kuckucksuhr-soll-kulturerbe-werden](https://www.spiegel.de/panorama/schwarzwald-kuckucksuhr-soll-kulturerbe-werden-a-8f977fef-4d1b-4cfb-8257-14bf928bed5f#ref=rss)
+### andrew
+
+* [https://www.spiegel.de/panorama/justiz/ex-prinz-andrew-wollte-epstein-offenbar-nach-dessen-haftentlassung-treffen](https://www.spiegel.de/panorama/justiz/ex-prinz-andrew-wollte-epstein-offenbar-nach-dessen-haftentlassung-treffen-a-f39469c5-e416-4b59-8895-0de014a12398#ref=rss)
+### umgang
+
+* [https://www.spiegel.de/panorama/justiz/ex-prinz-andrew-wollte-epstein-offenbar-nach-dessen-haftentlassung-treffen](https://www.spiegel.de/panorama/justiz/ex-prinz-andrew-wollte-epstein-offenbar-nach-dessen-haftentlassung-treffen-a-f39469c5-e416-4b59-8895-0de014a12398#ref=rss)
+* [https://www.spiegel.de/partnerschaft/fremdgehen-soll-ich-meinen-seitensprung-beichten-bloss-nicht](https://www.spiegel.de/partnerschaft/fremdgehen-soll-ich-meinen-seitensprung-beichten-bloss-nicht-a-fa07ad3f-dc7d-42c3-8851-28d8805240c1#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/suedtirol-vermisste-deutsche-bergsteiger-bei-lawinenunglueck-tot-gefunden](https://www.spiegel.de/sport/suedtirol-vermisste-deutsche-bergsteiger-bei-lawinenunglueck-tot-gefunden-a-405c24c0-22a4-4ec7-ba20-21f970d18074#ref=rss)
+* [https://www.spiegel.de/panorama/jamaika-nach-hurrikan-melissa-tausende-touristen-stranden-an-flughaefen-wegen-gestrichener-fluege](https://www.spiegel.de/panorama/jamaika-nach-hurrikan-melissa-tausende-touristen-stranden-an-flughaefen-wegen-gestrichener-fluege-a-2bc82eb8-daec-48dc-8166-c6b55ef85f2b#ref=rss)
+### lawinenunglück
+
+* [https://www.spiegel.de/sport/suedtirol-vermisste-deutsche-bergsteiger-bei-lawinenunglueck-tot-gefunden](https://www.spiegel.de/sport/suedtirol-vermisste-deutsche-bergsteiger-bei-lawinenunglueck-tot-gefunden-a-405c24c0-22a4-4ec7-ba20-21f970d18074#ref=rss)
+### schlechte
+
+* [https://www.spiegel.de/sport/suedtirol-vermisste-deutsche-bergsteiger-bei-lawinenunglueck-tot-gefunden](https://www.spiegel.de/sport/suedtirol-vermisste-deutsche-bergsteiger-bei-lawinenunglueck-tot-gefunden-a-405c24c0-22a4-4ec7-ba20-21f970d18074#ref=rss)
+* [https://www.spiegel.de/partnerschaft/fremdgehen-soll-ich-meinen-seitensprung-beichten-bloss-nicht](https://www.spiegel.de/partnerschaft/fremdgehen-soll-ich-meinen-seitensprung-beichten-bloss-nicht-a-fa07ad3f-dc7d-42c3-8851-28d8805240c1#ref=rss)
+### oleksij
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-oleksij-siwak-trotzt-dem-trauma-der-folterkeller](https://www.spiegel.de/ausland/ukraine-krieg-oleksij-siwak-trotzt-dem-trauma-der-folterkeller-a-d9499351-303f-4444-9a02-daa8922fdc4b#ref=rss)
+### siwak
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-oleksij-siwak-trotzt-dem-trauma-der-folterkeller](https://www.spiegel.de/ausland/ukraine-krieg-oleksij-siwak-trotzt-dem-trauma-der-folterkeller-a-d9499351-303f-4444-9a02-daa8922fdc4b#ref=rss)
+### trotzt
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-oleksij-siwak-trotzt-dem-trauma-der-folterkeller](https://www.spiegel.de/ausland/ukraine-krieg-oleksij-siwak-trotzt-dem-trauma-der-folterkeller-a-d9499351-303f-4444-9a02-daa8922fdc4b#ref=rss)
+### trauma
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-oleksij-siwak-trotzt-dem-trauma-der-folterkeller](https://www.spiegel.de/ausland/ukraine-krieg-oleksij-siwak-trotzt-dem-trauma-der-folterkeller-a-d9499351-303f-4444-9a02-daa8922fdc4b#ref=rss)
+### dazu
+
+* [https://www.spiegel.de/wirtschaft/krankenkassen-warnen-vor-hoeheren-beitraegen](https://www.spiegel.de/wirtschaft/krankenkassen-warnen-vor-hoeheren-beitraegen-a-6d73ab57-796b-45c7-a374-7fa9ced4c548#ref=rss)
+* [https://www.spiegel.de/politik/migration-dobrindt-sieht-migrationswende-bei-sinkenden-asylantraegen](https://www.spiegel.de/politik/migration-dobrindt-sieht-migrationswende-bei-sinkenden-asylantraegen-a-e54234ac-9380-4c21-b9b1-ee509eefdcf2#ref=rss)
+### dobrindt
+
+* [https://www.spiegel.de/politik/migration-dobrindt-sieht-migrationswende-bei-sinkenden-asylantraegen](https://www.spiegel.de/politik/migration-dobrindt-sieht-migrationswende-bei-sinkenden-asylantraegen-a-e54234ac-9380-4c21-b9b1-ee509eefdcf2#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/migration-dobrindt-sieht-migrationswende-bei-sinkenden-asylantraegen](https://www.spiegel.de/politik/migration-dobrindt-sieht-migrationswende-bei-sinkenden-asylantraegen-a-e54234ac-9380-4c21-b9b1-ee509eefdcf2#ref=rss)
+### migrationswende
+
+* [https://www.spiegel.de/politik/migration-dobrindt-sieht-migrationswende-bei-sinkenden-asylantraegen](https://www.spiegel.de/politik/migration-dobrindt-sieht-migrationswende-bei-sinkenden-asylantraegen-a-e54234ac-9380-4c21-b9b1-ee509eefdcf2#ref=rss)
+### ukrainische
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-ukrainische-drohnen-verursachen-feuer-auf-oeltanker](https://www.spiegel.de/ausland/russland-ukraine-krieg-ukrainische-drohnen-verursachen-feuer-auf-oeltanker-a-1c21ab8c-1165-4306-a738-0a7640b99ee4#ref=rss)
+### feuer
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-ukrainische-drohnen-verursachen-feuer-auf-oeltanker](https://www.spiegel.de/ausland/russland-ukraine-krieg-ukrainische-drohnen-verursachen-feuer-auf-oeltanker-a-1c21ab8c-1165-4306-a738-0a7640b99ee4#ref=rss)
+* [https://www.spiegel.de/panorama/23-tote-bei-explosion-in-mexikanischem-discounter](https://www.spiegel.de/panorama/23-tote-bei-explosion-in-mexikanischem-discounter-a-23e619c2-0435-4cc9-83bd-62673a4515b5#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-ukrainische-drohnen-verursachen-feuer-auf-oeltanker](https://www.spiegel.de/ausland/russland-ukraine-krieg-ukrainische-drohnen-verursachen-feuer-auf-oeltanker-a-1c21ab8c-1165-4306-a738-0a7640b99ee4#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-russland-wirft-usa-exzessive-gewalt-bei-angriff-auf-schmuggler-vor](https://www.spiegel.de/ausland/venezuela-russland-wirft-usa-exzessive-gewalt-bei-angriff-auf-schmuggler-vor-a-fc7824b5-9d3a-4de7-bb8e-858e3e222eb3#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-ukrainische-drohnen-verursachen-feuer-auf-oeltanker](https://www.spiegel.de/ausland/russland-ukraine-krieg-ukrainische-drohnen-verursachen-feuer-auf-oeltanker-a-1c21ab8c-1165-4306-a738-0a7640b99ee4#ref=rss)
+* [https://www.spiegel.de/panorama/23-tote-bei-explosion-in-mexikanischem-discounter](https://www.spiegel.de/panorama/23-tote-bei-explosion-in-mexikanischem-discounter-a-23e619c2-0435-4cc9-83bd-62673a4515b5#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/usa-und-china-beraten-ueber-direkten-militaerischen-draht](https://www.spiegel.de/ausland/usa-und-china-beraten-ueber-direkten-militaerischen-draht-a-1cedc72b-ca2a-493b-8a2d-b9c3122b5fbb#ref=rss)
+### eckart
+
+* [https://www.spiegel.de/panorama/leute/eckart-von-hirschhausen-hat-manchmal-angst-vor-demenz](https://www.spiegel.de/panorama/leute/eckart-von-hirschhausen-hat-manchmal-angst-vor-demenz-a-d68ed3c7-e8f5-4d1a-8451-712b0a15d407#ref=rss)
+### hirschhausen
+
+* [https://www.spiegel.de/panorama/leute/eckart-von-hirschhausen-hat-manchmal-angst-vor-demenz](https://www.spiegel.de/panorama/leute/eckart-von-hirschhausen-hat-manchmal-angst-vor-demenz-a-d68ed3c7-e8f5-4d1a-8451-712b0a15d407#ref=rss)
+### demenz
+
+* [https://www.spiegel.de/panorama/leute/eckart-von-hirschhausen-hat-manchmal-angst-vor-demenz](https://www.spiegel.de/panorama/leute/eckart-von-hirschhausen-hat-manchmal-angst-vor-demenz-a-d68ed3c7-e8f5-4d1a-8451-712b0a15d407#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/panorama/leute/eckart-von-hirschhausen-hat-manchmal-angst-vor-demenz](https://www.spiegel.de/panorama/leute/eckart-von-hirschhausen-hat-manchmal-angst-vor-demenz-a-d68ed3c7-e8f5-4d1a-8451-712b0a15d407#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-droht-nigeria-wegen-toetung-von-christen-mit-us-militaerschlaegen](https://www.spiegel.de/ausland/donald-trump-droht-nigeria-wegen-toetung-von-christen-mit-us-militaerschlaegen-a-0d443d1c-5cd1-4110-9481-6ddbdb80f065#ref=rss)
+### opposition
+
+* [https://www.spiegel.de/politik/deutschland/news-usa-the-atlantic-donald-trump-opposition](https://www.spiegel.de/politik/deutschland/news-usa-the-atlantic-donald-trump-opposition-a-8de7fe3f-653b-4011-9dc0-10efa8d75f07#ref=rss)
+### werften
+
+* [https://www.spiegel.de/panorama/elbe-wasserstaende-gefaehrden-schifffahrt-und-werften-das-grosse-zittern](https://www.spiegel.de/panorama/elbe-wasserstaende-gefaehrden-schifffahrt-und-werften-das-grosse-zittern-a-17a1cc91-33c9-4988-ac47-465a4ccfc0db#ref=rss)
+### wichtigen
+
+* [https://www.spiegel.de/panorama/elbe-wasserstaende-gefaehrden-schifffahrt-und-werften-das-grosse-zittern](https://www.spiegel.de/panorama/elbe-wasserstaende-gefaehrden-schifffahrt-und-werften-das-grosse-zittern-a-17a1cc91-33c9-4988-ac47-465a4ccfc0db#ref=rss)
+* [https://www.spiegel.de/panorama/23-tote-bei-explosion-in-mexikanischem-discounter](https://www.spiegel.de/panorama/23-tote-bei-explosion-in-mexikanischem-discounter-a-23e619c2-0435-4cc9-83bd-62673a4515b5#ref=rss)
+### tschernobyl
+
+* [https://www.spiegel.de/wissenschaft/tschernobyl-raetsel-um-blaue-hunde-ist-geloest](https://www.spiegel.de/wissenschaft/tschernobyl-raetsel-um-blaue-hunde-ist-geloest-a-bfa61817-15d1-4b01-8fb8-16054a80f10d#ref=rss)
+### blaue
+
+* [https://www.spiegel.de/wissenschaft/tschernobyl-raetsel-um-blaue-hunde-ist-geloest](https://www.spiegel.de/wissenschaft/tschernobyl-raetsel-um-blaue-hunde-ist-geloest-a-bfa61817-15d1-4b01-8fb8-16054a80f10d#ref=rss)
+### hunde
+
+* [https://www.spiegel.de/wissenschaft/tschernobyl-raetsel-um-blaue-hunde-ist-geloest](https://www.spiegel.de/wissenschaft/tschernobyl-raetsel-um-blaue-hunde-ist-geloest-a-bfa61817-15d1-4b01-8fb8-16054a80f10d#ref=rss)
+### audemars
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/audemars-piguet-ceo-ilaria-resta-ueber-den-luxus-fetisch-und-verschlossene-tueren](https://www.spiegel.de/wirtschaft/unternehmen/audemars-piguet-ceo-ilaria-resta-ueber-den-luxus-fetisch-und-verschlossene-tueren-a-0937d02f-d20e-4244-b5d5-5a4714089427#ref=rss)
+### ilaria
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/audemars-piguet-ceo-ilaria-resta-ueber-den-luxus-fetisch-und-verschlossene-tueren](https://www.spiegel.de/wirtschaft/unternehmen/audemars-piguet-ceo-ilaria-resta-ueber-den-luxus-fetisch-und-verschlossene-tueren-a-0937d02f-d20e-4244-b5d5-5a4714089427#ref=rss)
+### resta
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/audemars-piguet-ceo-ilaria-resta-ueber-den-luxus-fetisch-und-verschlossene-tueren](https://www.spiegel.de/wirtschaft/unternehmen/audemars-piguet-ceo-ilaria-resta-ueber-den-luxus-fetisch-und-verschlossene-tueren-a-0937d02f-d20e-4244-b5d5-5a4714089427#ref=rss)
+### seitensprung
+
+* [https://www.spiegel.de/partnerschaft/seitensprung-in-langjaehriger-ehe-hilft-fremdgehen-wirklich-bei-alltagsproblemen](https://www.spiegel.de/partnerschaft/seitensprung-in-langjaehriger-ehe-hilft-fremdgehen-wirklich-bei-alltagsproblemen-a-084e3de3-e590-41ee-bb92-5deaec7d07ec#ref=rss)
+* [https://www.spiegel.de/partnerschaft/fremdgehen-soll-ich-meinen-seitensprung-beichten-bloss-nicht](https://www.spiegel.de/partnerschaft/fremdgehen-soll-ich-meinen-seitensprung-beichten-bloss-nicht-a-fa07ad3f-dc7d-42c3-8851-28d8805240c1#ref=rss)
+### hilft
+
+* [https://www.spiegel.de/partnerschaft/seitensprung-in-langjaehriger-ehe-hilft-fremdgehen-wirklich-bei-alltagsproblemen](https://www.spiegel.de/partnerschaft/seitensprung-in-langjaehriger-ehe-hilft-fremdgehen-wirklich-bei-alltagsproblemen-a-084e3de3-e590-41ee-bb92-5deaec7d07ec#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/partnerschaft/seitensprung-in-langjaehriger-ehe-hilft-fremdgehen-wirklich-bei-alltagsproblemen](https://www.spiegel.de/partnerschaft/seitensprung-in-langjaehriger-ehe-hilft-fremdgehen-wirklich-bei-alltagsproblemen-a-084e3de3-e590-41ee-bb92-5deaec7d07ec#ref=rss)
+* [https://www.spiegel.de/partnerschaft/fremdgehen-soll-ich-meinen-seitensprung-beichten-bloss-nicht](https://www.spiegel.de/partnerschaft/fremdgehen-soll-ich-meinen-seitensprung-beichten-bloss-nicht-a-fa07ad3f-dc7d-42c3-8851-28d8805240c1#ref=rss)
+### ‒
+
+* [https://www.spiegel.de/partnerschaft/fremdgehen-soll-ich-meinen-seitensprung-beichten-bloss-nicht](https://www.spiegel.de/partnerschaft/fremdgehen-soll-ich-meinen-seitensprung-beichten-bloss-nicht-a-fa07ad3f-dc7d-42c3-8851-28d8805240c1#ref=rss)
+### barack
+
+* [https://www.spiegel.de/ausland/barack-obama-warnt-vor-donald-trump-und-den-exzessen-dieser-regierung](https://www.spiegel.de/ausland/barack-obama-warnt-vor-donald-trump-und-den-exzessen-dieser-regierung-a-4b67ec98-7b37-4104-9865-d5e5cfd2e507#ref=rss)
+### obama
+
+* [https://www.spiegel.de/ausland/barack-obama-warnt-vor-donald-trump-und-den-exzessen-dieser-regierung](https://www.spiegel.de/ausland/barack-obama-warnt-vor-donald-trump-und-den-exzessen-dieser-regierung-a-4b67ec98-7b37-4104-9865-d5e5cfd2e507#ref=rss)
+### nigeria
+
+* [https://www.spiegel.de/ausland/donald-trump-droht-nigeria-wegen-toetung-von-christen-mit-us-militaerschlaegen](https://www.spiegel.de/ausland/donald-trump-droht-nigeria-wegen-toetung-von-christen-mit-us-militaerschlaegen-a-0d443d1c-5cd1-4110-9481-6ddbdb80f065#ref=rss)
+### christen
+
+* [https://www.spiegel.de/ausland/donald-trump-droht-nigeria-wegen-toetung-von-christen-mit-us-militaerschlaegen](https://www.spiegel.de/ausland/donald-trump-droht-nigeria-wegen-toetung-von-christen-mit-us-militaerschlaegen-a-0d443d1c-5cd1-4110-9481-6ddbdb80f065#ref=rss)
+### jamaika
+
+* [https://www.spiegel.de/panorama/jamaika-nach-hurrikan-melissa-tausende-touristen-stranden-an-flughaefen-wegen-gestrichener-fluege](https://www.spiegel.de/panorama/jamaika-nach-hurrikan-melissa-tausende-touristen-stranden-an-flughaefen-wegen-gestrichener-fluege-a-2bc82eb8-daec-48dc-8166-c6b55ef85f2b#ref=rss)
+### flughäfen
+
+* [https://www.spiegel.de/panorama/jamaika-nach-hurrikan-melissa-tausende-touristen-stranden-an-flughaefen-wegen-gestrichener-fluege](https://www.spiegel.de/panorama/jamaika-nach-hurrikan-melissa-tausende-touristen-stranden-an-flughaefen-wegen-gestrichener-fluege-a-2bc82eb8-daec-48dc-8166-c6b55ef85f2b#ref=rss)
 
