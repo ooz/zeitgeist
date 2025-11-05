@@ -4,298 +4,349 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### neuen
-
-* [https://www.spiegel.de/kultur/album-sensation-lux-von-rosalia-intervention-einer-neuen-pop-goettin](https://www.spiegel.de/kultur/album-sensation-lux-von-rosalia-intervention-einer-neuen-pop-goettin-a-2e5387e3-784c-4967-b040-9ac692f2f69d#ref=rss)
-* [https://www.spiegel.de/kultur/padma-lakshmi-will-gesellschaftlichen-frieden-stiften-mit-einem-kochbuch](https://www.spiegel.de/kultur/padma-lakshmi-will-gesellschaftlichen-frieden-stiften-mit-einem-kochbuch-a-078b600d-1c06-4176-8059-044a4ff4d94d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/brandenburg-konflikt-um-medienstaatsvertraege-belastet-spd-bsw-koalition](https://www.spiegel.de/politik/deutschland/brandenburg-konflikt-um-medienstaatsvertraege-belastet-spd-bsw-koalition-a-ad7bf0a3-6ef8-46d4-a4c7-9e25438cfcb4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-linke-im-bundestag-buenger-hofft-auf-mehrheit-fuer-kontrollgremium-sitz](https://www.spiegel.de/politik/deutschland/die-linke-im-bundestag-buenger-hofft-auf-mehrheit-fuer-kontrollgremium-sitz-a-9a1e183e-ca94-40eb-95ad-0d52d28945b6#ref=rss)
-### anlagen
-
-* [https://www.spiegel.de/wissenschaft/technik/offshore-windparks-viele-anlagen-sind-unzureichend-fuer-extremwinde-ausgelegt](https://www.spiegel.de/wissenschaft/technik/offshore-windparks-viele-anlagen-sind-unzureichend-fuer-extremwinde-ausgelegt-a-625fa9cc-4d91-42a9-a2e1-819df47c35fd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/waermepumpen-meist-heizen-die-anlagen-auch-im-altbau-effizient](https://www.spiegel.de/wissenschaft/technik/waermepumpen-meist-heizen-die-anlagen-auch-im-altbau-effizient-a-219ac5da-175f-4c19-a84e-a668446f82bb#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/gesellschaft/fehmarn-fischer-spendet-alte-netze-zur-abwehr-von-drohnen-an-die-ukraine](https://www.spiegel.de/panorama/gesellschaft/fehmarn-fischer-spendet-alte-netze-zur-abwehr-von-drohnen-an-die-ukraine-a-fb157c36-035f-4b1b-abdb-336ec9cbeef2#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/portugal-polizei-faengt-koks-u-boot-mit-1-7-tonnen-ladung-im-atlantik-ab](https://www.spiegel.de/panorama/gesellschaft/portugal-polizei-faengt-koks-u-boot-mit-1-7-tonnen-ladung-im-atlantik-ab-a-62086b38-4d1e-4bd1-93cf-284d0b411a2e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/flughafen-frankfurt-landesarbeitsgericht-stoppt-betriebsratswahl-bei-fraport](https://www.spiegel.de/wirtschaft/unternehmen/flughafen-frankfurt-landesarbeitsgericht-stoppt-betriebsratswahl-bei-fraport-a-81ec3c8f-d42a-49fd-a1ff-486e1592a78a#ref=rss)
-### 17
-
-* [https://www.spiegel.de/panorama/gesellschaft/portugal-polizei-faengt-koks-u-boot-mit-1-7-tonnen-ladung-im-atlantik-ab](https://www.spiegel.de/panorama/gesellschaft/portugal-polizei-faengt-koks-u-boot-mit-1-7-tonnen-ladung-im-atlantik-ab-a-62086b38-4d1e-4bd1-93cf-284d0b411a2e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rostock-physiotherapeut-missbrauchte-17-patientinnen-lange-haftstrafe](https://www.spiegel.de/panorama/justiz/rostock-physiotherapeut-missbrauchte-17-patientinnen-lange-haftstrafe-a-0422d6a0-bab5-41de-baf4-2c99c494e045#ref=rss)
-### david
-
-* [https://www.spiegel.de/kultur/ikkimel-rapperin-teilt-gegen-schwesta-ewa-und-loredana-aus](https://www.spiegel.de/kultur/ikkimel-rapperin-teilt-gegen-schwesta-ewa-und-loredana-aus-a-54d37035-d83c-4526-a99f-47482ae5aa66#ref=rss)
-* [https://www.spiegel.de/sport/fussball/david-beckham-koenig-charles-iii-schlaegt-ihn-offiziell-zum-ritter](https://www.spiegel.de/sport/fussball/david-beckham-koenig-charles-iii-schlaegt-ihn-offiziell-zum-ritter-a-56ee8cd9-84c1-47f6-a280-f22b73953eef#ref=rss)
-### außenminister
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-sieht-ueberhaupt-keine-differenz-zu-friedrich-merz-in-syrien-frage](https://www.spiegel.de/politik/deutschland/johann-wadephul-sieht-ueberhaupt-keine-differenz-zu-friedrich-merz-in-syrien-frage-a-8aa9b5a5-beab-4582-9a22-fd717ef9aa32#ref=rss)
-* [https://www.spiegel.de/ausland/nigeria-aussenminister-yusuf-tuggar-weist-vorwuerfe-von-donald-trump-zurueck](https://www.spiegel.de/ausland/nigeria-aussenminister-yusuf-tuggar-weist-vorwuerfe-von-donald-trump-zurueck-a-b6bd3d8e-614c-45f7-a4da-7c804aa39b34#ref=rss)
-### effizient
-
-* [https://www.spiegel.de/ausland/dick-cheney-ist-tot-der-darth-vader-der-us-politik-nachruf](https://www.spiegel.de/ausland/dick-cheney-ist-tot-der-darth-vader-der-us-politik-nachruf-a-4a377703-254b-471e-8c9d-b566040693ed#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/waermepumpen-meist-heizen-die-anlagen-auch-im-altbau-effizient](https://www.spiegel.de/wissenschaft/technik/waermepumpen-meist-heizen-die-anlagen-auch-im-altbau-effizient-a-219ac5da-175f-4c19-a84e-a668446f82bb#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/netzwelt/coca-cola-weihnachtskampagne-ki-nutzung-sorgt-fuer-spott-im-netz](https://www.spiegel.de/netzwelt/coca-cola-weihnachtskampagne-ki-nutzung-sorgt-fuer-spott-im-netz-a-86e42479-ba41-4ada-a47d-3aff1d7f2817#ref=rss)
-* [https://www.spiegel.de/wirtschaft/norwegen-staatsfonds-setzt-ethisch-begruendete-verkaeufe-aus](https://www.spiegel.de/wirtschaft/norwegen-staatsfonds-setzt-ethisch-begruendete-verkaeufe-aus-a-bd9538ac-a097-42d1-92bc-f205026decef#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/netzwelt/coca-cola-weihnachtskampagne-ki-nutzung-sorgt-fuer-spott-im-netz](https://www.spiegel.de/netzwelt/coca-cola-weihnachtskampagne-ki-nutzung-sorgt-fuer-spott-im-netz-a-86e42479-ba41-4ada-a47d-3aff1d7f2817#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-2027-dfb-spielerinnen-treffen-auf-norwegen-oesterreich-und-slowenien](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-2027-dfb-spielerinnen-treffen-auf-norwegen-oesterreich-und-slowenien-a-67420733-5978-4c95-baff-118efb719908#ref=rss)
-### lux
-
-* [https://www.spiegel.de/kultur/album-sensation-lux-von-rosalia-intervention-einer-neuen-pop-goettin](https://www.spiegel.de/kultur/album-sensation-lux-von-rosalia-intervention-einer-neuen-pop-goettin-a-2e5387e3-784c-4967-b040-9ac692f2f69d#ref=rss)
-### rosalía
-
-* [https://www.spiegel.de/kultur/album-sensation-lux-von-rosalia-intervention-einer-neuen-pop-goettin](https://www.spiegel.de/kultur/album-sensation-lux-von-rosalia-intervention-einer-neuen-pop-goettin-a-2e5387e3-784c-4967-b040-9ac692f2f69d#ref=rss)
-### fehmarn
-
-* [https://www.spiegel.de/panorama/gesellschaft/fehmarn-fischer-spendet-alte-netze-zur-abwehr-von-drohnen-an-die-ukraine](https://www.spiegel.de/panorama/gesellschaft/fehmarn-fischer-spendet-alte-netze-zur-abwehr-von-drohnen-an-die-ukraine-a-fb157c36-035f-4b1b-abdb-336ec9cbeef2#ref=rss)
-### spendet
-
-* [https://www.spiegel.de/panorama/gesellschaft/fehmarn-fischer-spendet-alte-netze-zur-abwehr-von-drohnen-an-die-ukraine](https://www.spiegel.de/panorama/gesellschaft/fehmarn-fischer-spendet-alte-netze-zur-abwehr-von-drohnen-an-die-ukraine-a-fb157c36-035f-4b1b-abdb-336ec9cbeef2#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/panorama/gesellschaft/fehmarn-fischer-spendet-alte-netze-zur-abwehr-von-drohnen-an-die-ukraine](https://www.spiegel.de/panorama/gesellschaft/fehmarn-fischer-spendet-alte-netze-zur-abwehr-von-drohnen-an-die-ukraine-a-fb157c36-035f-4b1b-abdb-336ec9cbeef2#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/gesellschaft/fehmarn-fischer-spendet-alte-netze-zur-abwehr-von-drohnen-an-die-ukraine](https://www.spiegel.de/panorama/gesellschaft/fehmarn-fischer-spendet-alte-netze-zur-abwehr-von-drohnen-an-die-ukraine-a-fb157c36-035f-4b1b-abdb-336ec9cbeef2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rostock-physiotherapeut-missbrauchte-17-patientinnen-lange-haftstrafe](https://www.spiegel.de/panorama/justiz/rostock-physiotherapeut-missbrauchte-17-patientinnen-lange-haftstrafe-a-0422d6a0-bab5-41de-baf4-2c99c494e045#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/tschechien-wie-rechts-wird-die-neue-regierung-von-andrej-babis](https://www.spiegel.de/ausland/tschechien-wie-rechts-wird-die-neue-regierung-von-andrej-babis-a-bf4f9854-041a-427a-ae47-abf688cede9b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-beruft-zwei-neue-ministerinnen](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-beruft-zwei-neue-ministerinnen-a-4e8a0f45-9f5f-416b-82ec-1edd292fe372#ref=rss)
-### andrej
-
-* [https://www.spiegel.de/ausland/tschechien-wie-rechts-wird-die-neue-regierung-von-andrej-babis](https://www.spiegel.de/ausland/tschechien-wie-rechts-wird-die-neue-regierung-von-andrej-babis-a-bf4f9854-041a-427a-ae47-abf688cede9b#ref=rss)
-### babiš
-
-* [https://www.spiegel.de/ausland/tschechien-wie-rechts-wird-die-neue-regierung-von-andrej-babis](https://www.spiegel.de/ausland/tschechien-wie-rechts-wird-die-neue-regierung-von-andrej-babis-a-bf4f9854-041a-427a-ae47-abf688cede9b#ref=rss)
-### klimaschutz
-
-* [https://www.spiegel.de/ausland/tschechien-wie-rechts-wird-die-neue-regierung-von-andrej-babis](https://www.spiegel.de/ausland/tschechien-wie-rechts-wird-die-neue-regierung-von-andrej-babis-a-bf4f9854-041a-427a-ae47-abf688cede9b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-erde-steuert-auf-2-8-grad-erwaermung-zu-daten-des-uno-umweltprogramms](https://www.spiegel.de/wissenschaft/mensch/klimakrise-erde-steuert-auf-2-8-grad-erwaermung-zu-daten-des-uno-umweltprogramms-a-8a0b8995-12e1-4a6b-bc70-9859cf2f278b#ref=rss)
-### shutdown
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-triage-urteil-shutdown-in-den-usa-chinas-solarparks](https://www.spiegel.de/politik/deutschland/news-des-tages-triage-urteil-shutdown-in-den-usa-chinas-solarparks-a-420093d6-ff24-4ed3-9847-593f400194f1#ref=rss)
-### usa
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-triage-urteil-shutdown-in-den-usa-chinas-solarparks](https://www.spiegel.de/politik/deutschland/news-des-tages-triage-urteil-shutdown-in-den-usa-chinas-solarparks-a-420093d6-ff24-4ed3-9847-593f400194f1#ref=rss)
-### solarparks
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-triage-urteil-shutdown-in-den-usa-chinas-solarparks](https://www.spiegel.de/politik/deutschland/news-des-tages-triage-urteil-shutdown-in-den-usa-chinas-solarparks-a-420093d6-ff24-4ed3-9847-593f400194f1#ref=rss)
-### urteil
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-triage-urteil-shutdown-in-den-usa-chinas-solarparks](https://www.spiegel.de/politik/deutschland/news-des-tages-triage-urteil-shutdown-in-den-usa-chinas-solarparks-a-420093d6-ff24-4ed3-9847-593f400194f1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rostock-physiotherapeut-missbrauchte-17-patientinnen-lange-haftstrafe](https://www.spiegel.de/panorama/justiz/rostock-physiotherapeut-missbrauchte-17-patientinnen-lange-haftstrafe-a-0422d6a0-bab5-41de-baf4-2c99c494e045#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-triage-urteil-shutdown-in-den-usa-chinas-solarparks](https://www.spiegel.de/politik/deutschland/news-des-tages-triage-urteil-shutdown-in-den-usa-chinas-solarparks-a-420093d6-ff24-4ed3-9847-593f400194f1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/flughafen-frankfurt-landesarbeitsgericht-stoppt-betriebsratswahl-bei-fraport](https://www.spiegel.de/wirtschaft/unternehmen/flughafen-frankfurt-landesarbeitsgericht-stoppt-betriebsratswahl-bei-fraport-a-81ec3c8f-d42a-49fd-a1ff-486e1592a78a#ref=rss)
-### zunehmend
-
-* [https://www.spiegel.de/wissenschaft/technik/offshore-windparks-viele-anlagen-sind-unzureichend-fuer-extremwinde-ausgelegt](https://www.spiegel.de/wissenschaft/technik/offshore-windparks-viele-anlagen-sind-unzureichend-fuer-extremwinde-ausgelegt-a-625fa9cc-4d91-42a9-a2e1-819df47c35fd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/waermepumpen-meist-heizen-die-anlagen-auch-im-altbau-effizient](https://www.spiegel.de/wissenschaft/technik/waermepumpen-meist-heizen-die-anlagen-auch-im-altbau-effizient-a-219ac5da-175f-4c19-a84e-a668446f82bb#ref=rss)
-### norwegen
-
-* [https://www.spiegel.de/wirtschaft/norwegen-staatsfonds-setzt-ethisch-begruendete-verkaeufe-aus](https://www.spiegel.de/wirtschaft/norwegen-staatsfonds-setzt-ethisch-begruendete-verkaeufe-aus-a-bd9538ac-a097-42d1-92bc-f205026decef#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-2027-dfb-spielerinnen-treffen-auf-norwegen-oesterreich-und-slowenien](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-2027-dfb-spielerinnen-treffen-auf-norwegen-oesterreich-und-slowenien-a-67420733-5978-4c95-baff-118efb719908#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/gesellschaft/portugal-polizei-faengt-koks-u-boot-mit-1-7-tonnen-ladung-im-atlantik-ab](https://www.spiegel.de/panorama/gesellschaft/portugal-polizei-faengt-koks-u-boot-mit-1-7-tonnen-ladung-im-atlantik-ab-a-62086b38-4d1e-4bd1-93cf-284d0b411a2e#ref=rss)
-### tonnen
-
-* [https://www.spiegel.de/panorama/gesellschaft/portugal-polizei-faengt-koks-u-boot-mit-1-7-tonnen-ladung-im-atlantik-ab](https://www.spiegel.de/panorama/gesellschaft/portugal-polizei-faengt-koks-u-boot-mit-1-7-tonnen-ladung-im-atlantik-ab-a-62086b38-4d1e-4bd1-93cf-284d0b411a2e#ref=rss)
-### kokain
-
-* [https://www.spiegel.de/panorama/gesellschaft/portugal-polizei-faengt-koks-u-boot-mit-1-7-tonnen-ladung-im-atlantik-ab](https://www.spiegel.de/panorama/gesellschaft/portugal-polizei-faengt-koks-u-boot-mit-1-7-tonnen-ladung-im-atlantik-ab-a-62086b38-4d1e-4bd1-93cf-284d0b411a2e#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-ermittler-finden-material-fuer-moegliche-bombe-bei-terrorverdaechtigem](https://www.spiegel.de/panorama/justiz/berlin-ermittler-finden-material-fuer-moegliche-bombe-bei-terrorverdaechtigem-a-9bf810a9-41c4-4405-af69-c61000504aa0#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/justiz/berlin-ermittler-finden-material-fuer-moegliche-bombe-bei-terrorverdaechtigem](https://www.spiegel.de/panorama/justiz/berlin-ermittler-finden-material-fuer-moegliche-bombe-bei-terrorverdaechtigem-a-9bf810a9-41c4-4405-af69-c61000504aa0#ref=rss)
-### literaturpreis
-
-* [https://www.spiegel.de/kultur/renommierter-franzoesischer-literaturpreis-prix-goncourt-geht-an-autor-laurent-mauvignier](https://www.spiegel.de/kultur/renommierter-franzoesischer-literaturpreis-prix-goncourt-geht-an-autor-laurent-mauvignier-a-2684d84b-2e43-417a-9449-fc25a9942208#ref=rss)
-### prix
-
-* [https://www.spiegel.de/kultur/renommierter-franzoesischer-literaturpreis-prix-goncourt-geht-an-autor-laurent-mauvignier](https://www.spiegel.de/kultur/renommierter-franzoesischer-literaturpreis-prix-goncourt-geht-an-autor-laurent-mauvignier-a-2684d84b-2e43-417a-9449-fc25a9942208#ref=rss)
-### goncourt
-
-* [https://www.spiegel.de/kultur/renommierter-franzoesischer-literaturpreis-prix-goncourt-geht-an-autor-laurent-mauvignier](https://www.spiegel.de/kultur/renommierter-franzoesischer-literaturpreis-prix-goncourt-geht-an-autor-laurent-mauvignier-a-2684d84b-2e43-417a-9449-fc25a9942208#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/kultur/renommierter-franzoesischer-literaturpreis-prix-goncourt-geht-an-autor-laurent-mauvignier](https://www.spiegel.de/kultur/renommierter-franzoesischer-literaturpreis-prix-goncourt-geht-an-autor-laurent-mauvignier-a-2684d84b-2e43-417a-9449-fc25a9942208#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-beruft-zwei-neue-ministerinnen](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-beruft-zwei-neue-ministerinnen-a-4e8a0f45-9f5f-416b-82ec-1edd292fe372#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/kultur/renommierter-franzoesischer-literaturpreis-prix-goncourt-geht-an-autor-laurent-mauvignier](https://www.spiegel.de/kultur/renommierter-franzoesischer-literaturpreis-prix-goncourt-geht-an-autor-laurent-mauvignier-a-2684d84b-2e43-417a-9449-fc25a9942208#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-beruft-zwei-neue-ministerinnen](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-beruft-zwei-neue-ministerinnen-a-4e8a0f45-9f5f-416b-82ec-1edd292fe372#ref=rss)
-### ikkimel
-
-* [https://www.spiegel.de/kultur/ikkimel-rapperin-teilt-gegen-schwesta-ewa-und-loredana-aus](https://www.spiegel.de/kultur/ikkimel-rapperin-teilt-gegen-schwesta-ewa-und-loredana-aus-a-54d37035-d83c-4526-a99f-47482ae5aa66#ref=rss)
-### padma
-
-* [https://www.spiegel.de/kultur/padma-lakshmi-will-gesellschaftlichen-frieden-stiften-mit-einem-kochbuch](https://www.spiegel.de/kultur/padma-lakshmi-will-gesellschaftlichen-frieden-stiften-mit-einem-kochbuch-a-078b600d-1c06-4176-8059-044a4ff4d94d#ref=rss)
-### lakshmi
-
-* [https://www.spiegel.de/kultur/padma-lakshmi-will-gesellschaftlichen-frieden-stiften-mit-einem-kochbuch](https://www.spiegel.de/kultur/padma-lakshmi-will-gesellschaftlichen-frieden-stiften-mit-einem-kochbuch-a-078b600d-1c06-4176-8059-044a4ff4d94d#ref=rss)
-### social
-
-* [https://www.spiegel.de/wissenschaft/social-design-award-2025-gewinner-kaempfen-fuer-schwimmbaeder-und-kranke-kinder](https://www.spiegel.de/wissenschaft/social-design-award-2025-gewinner-kaempfen-fuer-schwimmbaeder-und-kranke-kinder-a-d133f79a-aaac-4c0b-9a50-0b851c64224f#ref=rss)
-### design
-
-* [https://www.spiegel.de/wissenschaft/social-design-award-2025-gewinner-kaempfen-fuer-schwimmbaeder-und-kranke-kinder](https://www.spiegel.de/wissenschaft/social-design-award-2025-gewinner-kaempfen-fuer-schwimmbaeder-und-kranke-kinder-a-d133f79a-aaac-4c0b-9a50-0b851c64224f#ref=rss)
-### award
-
-* [https://www.spiegel.de/wissenschaft/social-design-award-2025-gewinner-kaempfen-fuer-schwimmbaeder-und-kranke-kinder](https://www.spiegel.de/wissenschaft/social-design-award-2025-gewinner-kaempfen-fuer-schwimmbaeder-und-kranke-kinder-a-d133f79a-aaac-4c0b-9a50-0b851c64224f#ref=rss)
-### gewinner
-
-* [https://www.spiegel.de/wissenschaft/social-design-award-2025-gewinner-kaempfen-fuer-schwimmbaeder-und-kranke-kinder](https://www.spiegel.de/wissenschaft/social-design-award-2025-gewinner-kaempfen-fuer-schwimmbaeder-und-kranke-kinder-a-d133f79a-aaac-4c0b-9a50-0b851c64224f#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/wissenschaft/social-design-award-2025-gewinner-kaempfen-fuer-schwimmbaeder-und-kranke-kinder](https://www.spiegel.de/wissenschaft/social-design-award-2025-gewinner-kaempfen-fuer-schwimmbaeder-und-kranke-kinder-a-d133f79a-aaac-4c0b-9a50-0b851c64224f#ref=rss)
-* [https://www.spiegel.de/kultur/reese-witherspoon-spricht-ueber-postpartale-depression-ich-habe-einfach-die-ganze-zeit-geweint](https://www.spiegel.de/kultur/reese-witherspoon-spricht-ueber-postpartale-depression-ich-habe-einfach-die-ganze-zeit-geweint-a-cfe336cb-ca9e-419d-b247-964c49a24c67#ref=rss)
-### mitglieder
-
-* [https://www.spiegel.de/politik/deutschland/linksjugend-mitglieder-berichten-von-bedrohungen-nach-nahost-antrag](https://www.spiegel.de/politik/deutschland/linksjugend-mitglieder-berichten-von-bedrohungen-nach-nahost-antrag-a-78213730-66d9-4612-a78c-e25ed26fa9f8#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/politik/deutschland/linksjugend-mitglieder-berichten-von-bedrohungen-nach-nahost-antrag](https://www.spiegel.de/politik/deutschland/linksjugend-mitglieder-berichten-von-bedrohungen-nach-nahost-antrag-a-78213730-66d9-4612-a78c-e25ed26fa9f8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/brandenburg-konflikt-um-medienstaatsvertraege-belastet-spd-bsw-koalition](https://www.spiegel.de/politik/deutschland/brandenburg-konflikt-um-medienstaatsvertraege-belastet-spd-bsw-koalition-a-ad7bf0a3-6ef8-46d4-a4c7-9e25438cfcb4#ref=rss)
-### 2027
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-2027-dfb-spielerinnen-treffen-auf-norwegen-oesterreich-und-slowenien](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-2027-dfb-spielerinnen-treffen-auf-norwegen-oesterreich-und-slowenien-a-67420733-5978-4c95-baff-118efb719908#ref=rss)
-### patientinnen
-
-* [https://www.spiegel.de/panorama/justiz/rostock-physiotherapeut-missbrauchte-17-patientinnen-lange-haftstrafe](https://www.spiegel.de/panorama/justiz/rostock-physiotherapeut-missbrauchte-17-patientinnen-lange-haftstrafe-a-0422d6a0-bab5-41de-baf4-2c99c494e045#ref=rss)
-### johann
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-sieht-ueberhaupt-keine-differenz-zu-friedrich-merz-in-syrien-frage](https://www.spiegel.de/politik/deutschland/johann-wadephul-sieht-ueberhaupt-keine-differenz-zu-friedrich-merz-in-syrien-frage-a-8aa9b5a5-beab-4582-9a22-fd717ef9aa32#ref=rss)
-### wadephul
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-sieht-ueberhaupt-keine-differenz-zu-friedrich-merz-in-syrien-frage](https://www.spiegel.de/politik/deutschland/johann-wadephul-sieht-ueberhaupt-keine-differenz-zu-friedrich-merz-in-syrien-frage-a-8aa9b5a5-beab-4582-9a22-fd717ef9aa32#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-sieht-ueberhaupt-keine-differenz-zu-friedrich-merz-in-syrien-frage](https://www.spiegel.de/politik/deutschland/johann-wadephul-sieht-ueberhaupt-keine-differenz-zu-friedrich-merz-in-syrien-frage-a-8aa9b5a5-beab-4582-9a22-fd717ef9aa32#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-sieht-ueberhaupt-keine-differenz-zu-friedrich-merz-in-syrien-frage](https://www.spiegel.de/politik/deutschland/johann-wadephul-sieht-ueberhaupt-keine-differenz-zu-friedrich-merz-in-syrien-frage-a-8aa9b5a5-beab-4582-9a22-fd717ef9aa32#ref=rss)
-### syrienfrage
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-sieht-ueberhaupt-keine-differenz-zu-friedrich-merz-in-syrien-frage](https://www.spiegel.de/politik/deutschland/johann-wadephul-sieht-ueberhaupt-keine-differenz-zu-friedrich-merz-in-syrien-frage-a-8aa9b5a5-beab-4582-9a22-fd717ef9aa32#ref=rss)
-### weit
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-sieht-ueberhaupt-keine-differenz-zu-friedrich-merz-in-syrien-frage](https://www.spiegel.de/politik/deutschland/johann-wadephul-sieht-ueberhaupt-keine-differenz-zu-friedrich-merz-in-syrien-frage-a-8aa9b5a5-beab-4582-9a22-fd717ef9aa32#ref=rss)
-* [https://www.spiegel.de/netzwelt/telekom-und-nvidia-investieren-eine-milliarde-euro-in-ki-rechenzentrum](https://www.spiegel.de/netzwelt/telekom-und-nvidia-investieren-eine-milliarde-euro-in-ki-rechenzentrum-a-4f5cb484-b594-4c5f-a9dd-ebe8bb11b74b#ref=rss)
-### beckham
-
-* [https://www.spiegel.de/sport/fussball/david-beckham-koenig-charles-iii-schlaegt-ihn-offiziell-zum-ritter](https://www.spiegel.de/sport/fussball/david-beckham-koenig-charles-iii-schlaegt-ihn-offiziell-zum-ritter-a-56ee8cd9-84c1-47f6-a280-f22b73953eef#ref=rss)
-### könig
-
-* [https://www.spiegel.de/sport/fussball/david-beckham-koenig-charles-iii-schlaegt-ihn-offiziell-zum-ritter](https://www.spiegel.de/sport/fussball/david-beckham-koenig-charles-iii-schlaegt-ihn-offiziell-zum-ritter-a-56ee8cd9-84c1-47f6-a280-f22b73953eef#ref=rss)
-### charles
-
-* [https://www.spiegel.de/sport/fussball/david-beckham-koenig-charles-iii-schlaegt-ihn-offiziell-zum-ritter](https://www.spiegel.de/sport/fussball/david-beckham-koenig-charles-iii-schlaegt-ihn-offiziell-zum-ritter-a-56ee8cd9-84c1-47f6-a280-f22b73953eef#ref=rss)
-### ritter
-
-* [https://www.spiegel.de/sport/fussball/david-beckham-koenig-charles-iii-schlaegt-ihn-offiziell-zum-ritter](https://www.spiegel.de/sport/fussball/david-beckham-koenig-charles-iii-schlaegt-ihn-offiziell-zum-ritter-a-56ee8cd9-84c1-47f6-a280-f22b73953eef#ref=rss)
-### dick
-
-* [https://www.spiegel.de/ausland/dick-cheney-ist-tot-der-darth-vader-der-us-politik-nachruf](https://www.spiegel.de/ausland/dick-cheney-ist-tot-der-darth-vader-der-us-politik-nachruf-a-4a377703-254b-471e-8c9d-b566040693ed#ref=rss)
-### cheney
-
-* [https://www.spiegel.de/ausland/dick-cheney-ist-tot-der-darth-vader-der-us-politik-nachruf](https://www.spiegel.de/ausland/dick-cheney-ist-tot-der-darth-vader-der-us-politik-nachruf-a-4a377703-254b-471e-8c9d-b566040693ed#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/flughafen-frankfurt-landesarbeitsgericht-stoppt-betriebsratswahl-bei-fraport](https://www.spiegel.de/wirtschaft/unternehmen/flughafen-frankfurt-landesarbeitsgericht-stoppt-betriebsratswahl-bei-fraport-a-81ec3c8f-d42a-49fd-a1ff-486e1592a78a#ref=rss)
-### fraport
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/flughafen-frankfurt-landesarbeitsgericht-stoppt-betriebsratswahl-bei-fraport](https://www.spiegel.de/wirtschaft/unternehmen/flughafen-frankfurt-landesarbeitsgericht-stoppt-betriebsratswahl-bei-fraport-a-81ec3c8f-d42a-49fd-a1ff-486e1592a78a#ref=rss)
-### arbeiten
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/flughafen-frankfurt-landesarbeitsgericht-stoppt-betriebsratswahl-bei-fraport](https://www.spiegel.de/wirtschaft/unternehmen/flughafen-frankfurt-landesarbeitsgericht-stoppt-betriebsratswahl-bei-fraport-a-81ec3c8f-d42a-49fd-a1ff-486e1592a78a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/waermepumpen-meist-heizen-die-anlagen-auch-im-altbau-effizient](https://www.spiegel.de/wissenschaft/technik/waermepumpen-meist-heizen-die-anlagen-auch-im-altbau-effizient-a-219ac5da-175f-4c19-a84e-a668446f82bb#ref=rss)
-### aryna
-
-* [https://www.spiegel.de/sport/tennis/battle-of-the-sexes-im-tennis-aryna-sabalenka-und-nick-kyrgios-wollen-sich-in-dubai-duellieren](https://www.spiegel.de/sport/tennis/battle-of-the-sexes-im-tennis-aryna-sabalenka-und-nick-kyrgios-wollen-sich-in-dubai-duellieren-a-e752b93e-388f-432b-8678-ba657f3102db#ref=rss)
-### sabalenka
-
-* [https://www.spiegel.de/sport/tennis/battle-of-the-sexes-im-tennis-aryna-sabalenka-und-nick-kyrgios-wollen-sich-in-dubai-duellieren](https://www.spiegel.de/sport/tennis/battle-of-the-sexes-im-tennis-aryna-sabalenka-und-nick-kyrgios-wollen-sich-in-dubai-duellieren-a-e752b93e-388f-432b-8678-ba657f3102db#ref=rss)
-### nick
-
-* [https://www.spiegel.de/sport/tennis/battle-of-the-sexes-im-tennis-aryna-sabalenka-und-nick-kyrgios-wollen-sich-in-dubai-duellieren](https://www.spiegel.de/sport/tennis/battle-of-the-sexes-im-tennis-aryna-sabalenka-und-nick-kyrgios-wollen-sich-in-dubai-duellieren-a-e752b93e-388f-432b-8678-ba657f3102db#ref=rss)
-### kyrgios
-
-* [https://www.spiegel.de/sport/tennis/battle-of-the-sexes-im-tennis-aryna-sabalenka-und-nick-kyrgios-wollen-sich-in-dubai-duellieren](https://www.spiegel.de/sport/tennis/battle-of-the-sexes-im-tennis-aryna-sabalenka-und-nick-kyrgios-wollen-sich-in-dubai-duellieren-a-e752b93e-388f-432b-8678-ba657f3102db#ref=rss)
-### ministerpräsident
-
-* [https://www.spiegel.de/politik/deutschland/brandenburg-konflikt-um-medienstaatsvertraege-belastet-spd-bsw-koalition](https://www.spiegel.de/politik/deutschland/brandenburg-konflikt-um-medienstaatsvertraege-belastet-spd-bsw-koalition-a-ad7bf0a3-6ef8-46d4-a4c7-9e25438cfcb4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-beruft-zwei-neue-ministerinnen](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-beruft-zwei-neue-ministerinnen-a-4e8a0f45-9f5f-416b-82ec-1edd292fe372#ref=rss)
-### schleswigholstein
-
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-beruft-zwei-neue-ministerinnen](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-beruft-zwei-neue-ministerinnen-a-4e8a0f45-9f5f-416b-82ec-1edd292fe372#ref=rss)
-### günther
-
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-beruft-zwei-neue-ministerinnen](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-beruft-zwei-neue-ministerinnen-a-4e8a0f45-9f5f-416b-82ec-1edd292fe372#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-beruft-zwei-neue-ministerinnen](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-beruft-zwei-neue-ministerinnen-a-4e8a0f45-9f5f-416b-82ec-1edd292fe372#ref=rss)
-### erste
-
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-beruft-zwei-neue-ministerinnen](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-beruft-zwei-neue-ministerinnen-a-4e8a0f45-9f5f-416b-82ec-1edd292fe372#ref=rss)
-* [https://www.spiegel.de/kultur/reese-witherspoon-spricht-ueber-postpartale-depression-ich-habe-einfach-die-ganze-zeit-geweint](https://www.spiegel.de/kultur/reese-witherspoon-spricht-ueber-postpartale-depression-ich-habe-einfach-die-ganze-zeit-geweint-a-cfe336cb-ca9e-419d-b247-964c49a24c67#ref=rss)
-### reese
-
-* [https://www.spiegel.de/kultur/reese-witherspoon-spricht-ueber-postpartale-depression-ich-habe-einfach-die-ganze-zeit-geweint](https://www.spiegel.de/kultur/reese-witherspoon-spricht-ueber-postpartale-depression-ich-habe-einfach-die-ganze-zeit-geweint-a-cfe336cb-ca9e-419d-b247-964c49a24c67#ref=rss)
-### witherspoon
-
-* [https://www.spiegel.de/kultur/reese-witherspoon-spricht-ueber-postpartale-depression-ich-habe-einfach-die-ganze-zeit-geweint](https://www.spiegel.de/kultur/reese-witherspoon-spricht-ueber-postpartale-depression-ich-habe-einfach-die-ganze-zeit-geweint-a-cfe336cb-ca9e-419d-b247-964c49a24c67#ref=rss)
-### eugen
-
-* [https://www.spiegel.de/panorama/justiz/block-prozess-eugen-block-will-aussage-verweigern-und-haelt-richterin-fuer-befangen](https://www.spiegel.de/panorama/justiz/block-prozess-eugen-block-will-aussage-verweigern-und-haelt-richterin-fuer-befangen-a-01212041-8363-4b5d-954f-6b258fe3e994#ref=rss)
-### block
-
-* [https://www.spiegel.de/panorama/justiz/block-prozess-eugen-block-will-aussage-verweigern-und-haelt-richterin-fuer-befangen](https://www.spiegel.de/panorama/justiz/block-prozess-eugen-block-will-aussage-verweigern-und-haelt-richterin-fuer-befangen-a-01212041-8363-4b5d-954f-6b258fe3e994#ref=rss)
-### aussage
-
-* [https://www.spiegel.de/panorama/justiz/block-prozess-eugen-block-will-aussage-verweigern-und-haelt-richterin-fuer-befangen](https://www.spiegel.de/panorama/justiz/block-prozess-eugen-block-will-aussage-verweigern-und-haelt-richterin-fuer-befangen-a-01212041-8363-4b5d-954f-6b258fe3e994#ref=rss)
-### verweigern
-
-* [https://www.spiegel.de/panorama/justiz/block-prozess-eugen-block-will-aussage-verweigern-und-haelt-richterin-fuer-befangen](https://www.spiegel.de/panorama/justiz/block-prozess-eugen-block-will-aussage-verweigern-und-haelt-richterin-fuer-befangen-a-01212041-8363-4b5d-954f-6b258fe3e994#ref=rss)
-### richterin
-
-* [https://www.spiegel.de/panorama/justiz/block-prozess-eugen-block-will-aussage-verweigern-und-haelt-richterin-fuer-befangen](https://www.spiegel.de/panorama/justiz/block-prozess-eugen-block-will-aussage-verweigern-und-haelt-richterin-fuer-befangen-a-01212041-8363-4b5d-954f-6b258fe3e994#ref=rss)
-### befangen
-
-* [https://www.spiegel.de/panorama/justiz/block-prozess-eugen-block-will-aussage-verweigern-und-haelt-richterin-fuer-befangen](https://www.spiegel.de/panorama/justiz/block-prozess-eugen-block-will-aussage-verweigern-und-haelt-richterin-fuer-befangen-a-01212041-8363-4b5d-954f-6b258fe3e994#ref=rss)
-### linke
-
-* [https://www.spiegel.de/politik/deutschland/die-linke-im-bundestag-buenger-hofft-auf-mehrheit-fuer-kontrollgremium-sitz](https://www.spiegel.de/politik/deutschland/die-linke-im-bundestag-buenger-hofft-auf-mehrheit-fuer-kontrollgremium-sitz-a-9a1e183e-ca94-40eb-95ad-0d52d28945b6#ref=rss)
-### telekom
-
-* [https://www.spiegel.de/netzwelt/telekom-und-nvidia-investieren-eine-milliarde-euro-in-ki-rechenzentrum](https://www.spiegel.de/netzwelt/telekom-und-nvidia-investieren-eine-milliarde-euro-in-ki-rechenzentrum-a-4f5cb484-b594-4c5f-a9dd-ebe8bb11b74b#ref=rss)
-### nvidia
-
-* [https://www.spiegel.de/netzwelt/telekom-und-nvidia-investieren-eine-milliarde-euro-in-ki-rechenzentrum](https://www.spiegel.de/netzwelt/telekom-und-nvidia-investieren-eine-milliarde-euro-in-ki-rechenzentrum-a-4f5cb484-b594-4c5f-a9dd-ebe8bb11b74b#ref=rss)
-### wärmepumpen
-
-* [https://www.spiegel.de/wissenschaft/technik/waermepumpen-meist-heizen-die-anlagen-auch-im-altbau-effizient](https://www.spiegel.de/wissenschaft/technik/waermepumpen-meist-heizen-die-anlagen-auch-im-altbau-effizient-a-219ac5da-175f-4c19-a84e-a668446f82bb#ref=rss)
-### nigeria
-
-* [https://www.spiegel.de/ausland/nigeria-aussenminister-yusuf-tuggar-weist-vorwuerfe-von-donald-trump-zurueck](https://www.spiegel.de/ausland/nigeria-aussenminister-yusuf-tuggar-weist-vorwuerfe-von-donald-trump-zurueck-a-b6bd3d8e-614c-45f7-a4da-7c804aa39b34#ref=rss)
-### yusuf
-
-* [https://www.spiegel.de/ausland/nigeria-aussenminister-yusuf-tuggar-weist-vorwuerfe-von-donald-trump-zurueck](https://www.spiegel.de/ausland/nigeria-aussenminister-yusuf-tuggar-weist-vorwuerfe-von-donald-trump-zurueck-a-b6bd3d8e-614c-45f7-a4da-7c804aa39b34#ref=rss)
-### tuggar
-
-* [https://www.spiegel.de/ausland/nigeria-aussenminister-yusuf-tuggar-weist-vorwuerfe-von-donald-trump-zurueck](https://www.spiegel.de/ausland/nigeria-aussenminister-yusuf-tuggar-weist-vorwuerfe-von-donald-trump-zurueck-a-b6bd3d8e-614c-45f7-a4da-7c804aa39b34#ref=rss)
+### new
+
+* [https://www.spiegel.de/ausland/zohran-mamdani-zum-buergermeister-von-new-york-city-gewaehlt-dreh-die-lautstaerke-auf](https://www.spiegel.de/ausland/zohran-mamdani-zum-buergermeister-von-new-york-city-gewaehlt-dreh-die-lautstaerke-auf-a-15d16a94-75f7-41d8-bf7c-4f2f735a419e#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister](https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister-a-9be0ba42-b13e-4f78-9dd7-fe895c11d629#ref=rss)
+* [https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien](https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien-a-966fa46c-4a36-47f1-b09a-dc5ea1e9a1b7#ref=rss)
+* [https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an](https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an-a-667331b2-7093-4a41-981c-7a32c2ac7a10#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/nigeria-aussenminister-yusuf-tuggar-weist-vorwuerfe-von-donald-trump-zurueck](https://www.spiegel.de/ausland/nigeria-aussenminister-yusuf-tuggar-weist-vorwuerfe-von-donald-trump-zurueck-a-b6bd3d8e-614c-45f7-a4da-7c804aa39b34#ref=rss)
+* [https://www.spiegel.de/kultur/musik/donald-trump-hasst-taylor-swift-das-weisse-haus-nutzt-ihre-musik-trotzdem-gern](https://www.spiegel.de/kultur/musik/donald-trump-hasst-taylor-swift-das-weisse-haus-nutzt-ihre-musik-trotzdem-gern-a-4321b88c-0c3c-45a4-b5f4-5299723b2f96#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/donald-trump-will-elon-musk-vertrauten-jared-isaacman-nun-doch-als-nasa-chef](https://www.spiegel.de/wissenschaft/weltall/donald-trump-will-elon-musk-vertrauten-jared-isaacman-nun-doch-als-nasa-chef-a-2136fae9-63c9-4ee4-98a5-d11aa95f58c8#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister](https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister-a-9be0ba42-b13e-4f78-9dd7-fe895c11d629#ref=rss)
+* [https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien](https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien-a-966fa46c-4a36-47f1-b09a-dc5ea1e9a1b7#ref=rss)
+* [https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an](https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an-a-667331b2-7093-4a41-981c-7a32c2ac7a10#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/nigeria-aussenminister-yusuf-tuggar-weist-vorwuerfe-von-donald-trump-zurueck](https://www.spiegel.de/ausland/nigeria-aussenminister-yusuf-tuggar-weist-vorwuerfe-von-donald-trump-zurueck-a-b6bd3d8e-614c-45f7-a4da-7c804aa39b34#ref=rss)
+* [https://www.spiegel.de/kultur/musik/donald-trump-hasst-taylor-swift-das-weisse-haus-nutzt-ihre-musik-trotzdem-gern](https://www.spiegel.de/kultur/musik/donald-trump-hasst-taylor-swift-das-weisse-haus-nutzt-ihre-musik-trotzdem-gern-a-4321b88c-0c3c-45a4-b5f4-5299723b2f96#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/donald-trump-will-elon-musk-vertrauten-jared-isaacman-nun-doch-als-nasa-chef](https://www.spiegel.de/wissenschaft/weltall/donald-trump-will-elon-musk-vertrauten-jared-isaacman-nun-doch-als-nasa-chef-a-2136fae9-63c9-4ee4-98a5-d11aa95f58c8#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister](https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister-a-9be0ba42-b13e-4f78-9dd7-fe895c11d629#ref=rss)
+* [https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien](https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien-a-966fa46c-4a36-47f1-b09a-dc5ea1e9a1b7#ref=rss)
+* [https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an](https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an-a-667331b2-7093-4a41-981c-7a32c2ac7a10#ref=rss)
+### zohran
+
+* [https://www.spiegel.de/ausland/zohran-mamdani-zum-buergermeister-von-new-york-city-gewaehlt-dreh-die-lautstaerke-auf](https://www.spiegel.de/ausland/zohran-mamdani-zum-buergermeister-von-new-york-city-gewaehlt-dreh-die-lautstaerke-auf-a-15d16a94-75f7-41d8-bf7c-4f2f735a419e#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister](https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister-a-9be0ba42-b13e-4f78-9dd7-fe895c11d629#ref=rss)
+* [https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an](https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an-a-667331b2-7093-4a41-981c-7a32c2ac7a10#ref=rss)
+### mamdani
+
+* [https://www.spiegel.de/ausland/zohran-mamdani-zum-buergermeister-von-new-york-city-gewaehlt-dreh-die-lautstaerke-auf](https://www.spiegel.de/ausland/zohran-mamdani-zum-buergermeister-von-new-york-city-gewaehlt-dreh-die-lautstaerke-auf-a-15d16a94-75f7-41d8-bf7c-4f2f735a419e#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister](https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister-a-9be0ba42-b13e-4f78-9dd7-fe895c11d629#ref=rss)
+* [https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an](https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an-a-667331b2-7093-4a41-981c-7a32c2ac7a10#ref=rss)
+### york
+
+* [https://www.spiegel.de/ausland/zohran-mamdani-zum-buergermeister-von-new-york-city-gewaehlt-dreh-die-lautstaerke-auf](https://www.spiegel.de/ausland/zohran-mamdani-zum-buergermeister-von-new-york-city-gewaehlt-dreh-die-lautstaerke-auf-a-15d16a94-75f7-41d8-bf7c-4f2f735a419e#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister](https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister-a-9be0ba42-b13e-4f78-9dd7-fe895c11d629#ref=rss)
+* [https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien](https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien-a-966fa46c-4a36-47f1-b09a-dc5ea1e9a1b7#ref=rss)
+* [https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an](https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an-a-667331b2-7093-4a41-981c-7a32c2ac7a10#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieg-in-der-champions-league-kompany-hat-eine-dampfwalze-geschaffen-pressestimmen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieg-in-der-champions-league-kompany-hat-eine-dampfwalze-geschaffen-pressestimmen-a-db69dcec-662c-4115-a7ca-337663c7d519#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst-a-a56c0d40-6681-4e23-accc-6065e111902f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/auerbach-in-bayern-polizei-fasst-ortsschild-diebe-nach-rasanter-flucht](https://www.spiegel.de/panorama/justiz/auerbach-in-bayern-polizei-fasst-ortsschild-diebe-nach-rasanter-flucht-a-d2692d57-82b9-42bf-87d4-0c85bec85a50#ref=rss)
+### bürgermeister
+
+* [https://www.spiegel.de/ausland/zohran-mamdani-zum-buergermeister-von-new-york-city-gewaehlt-dreh-die-lautstaerke-auf](https://www.spiegel.de/ausland/zohran-mamdani-zum-buergermeister-von-new-york-city-gewaehlt-dreh-die-lautstaerke-auf-a-15d16a94-75f7-41d8-bf7c-4f2f735a419e#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister](https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister-a-9be0ba42-b13e-4f78-9dd7-fe895c11d629#ref=rss)
+* [https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an](https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an-a-667331b2-7093-4a41-981c-7a32c2ac7a10#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-zerstoeren-erneut-mutmassliches-schmugglerboot-offenbar-zwei-tote](https://www.spiegel.de/ausland/usa-zerstoeren-erneut-mutmassliches-schmugglerboot-offenbar-zwei-tote-a-45ce3c5d-5158-415d-b04f-46a33c9e11c7#ref=rss)
+* [https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien](https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien-a-966fa46c-4a36-47f1-b09a-dc5ea1e9a1b7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/handelsstreit-china-streicht-einige-zoelle-auf-amerikanische-produkte](https://www.spiegel.de/wirtschaft/handelsstreit-china-streicht-einige-zoelle-auf-amerikanische-produkte-a-d7e6d665-50b5-4c39-bbb7-4dc88d2b0c50#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen](https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen-a-d2baf5c8-0d67-4d4a-b205-1fd220ce7f9f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/auerbach-in-bayern-polizei-fasst-ortsschild-diebe-nach-rasanter-flucht](https://www.spiegel.de/panorama/justiz/auerbach-in-bayern-polizei-fasst-ortsschild-diebe-nach-rasanter-flucht-a-d2692d57-82b9-42bf-87d4-0c85bec85a50#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/arbeitsrechts-professor-hinterfragt-beschlossene-mindestlohnerhoehung](https://www.spiegel.de/wirtschaft/unternehmen/arbeitsrechts-professor-hinterfragt-beschlossene-mindestlohnerhoehung-a-5026d87e-962a-4400-8963-aa3acee1cd1f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oldenburg-polizist-wegen-toedlicher-schuesse-auf-lorenz-a-angeklagt](https://www.spiegel.de/panorama/justiz/oldenburg-polizist-wegen-toedlicher-schuesse-auf-lorenz-a-angeklagt-a-184b5412-0e73-4deb-8e20-ebdea89613b9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-jedes-vierte-familienunternehmen-plant-offenbar-stellenabbau](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-jedes-vierte-familienunternehmen-plant-offenbar-stellenabbau-a-273b0a33-2603-4440-aab0-d11083d8f223#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/usa-zerstoeren-erneut-mutmassliches-schmugglerboot-offenbar-zwei-tote](https://www.spiegel.de/ausland/usa-zerstoeren-erneut-mutmassliches-schmugglerboot-offenbar-zwei-tote-a-45ce3c5d-5158-415d-b04f-46a33c9e11c7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/auerbach-in-bayern-polizei-fasst-ortsschild-diebe-nach-rasanter-flucht](https://www.spiegel.de/panorama/justiz/auerbach-in-bayern-polizei-fasst-ortsschild-diebe-nach-rasanter-flucht-a-d2692d57-82b9-42bf-87d4-0c85bec85a50#ref=rss)
+### vier
+
+* [https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen](https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen-a-d2baf5c8-0d67-4d4a-b205-1fd220ce7f9f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien](https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien-a-966fa46c-4a36-47f1-b09a-dc5ea1e9a1b7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/auerbach-in-bayern-polizei-fasst-ortsschild-diebe-nach-rasanter-flucht](https://www.spiegel.de/panorama/justiz/auerbach-in-bayern-polizei-fasst-ortsschild-diebe-nach-rasanter-flucht-a-d2692d57-82b9-42bf-87d4-0c85bec85a50#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/kultur/musik/donald-trump-hasst-taylor-swift-das-weisse-haus-nutzt-ihre-musik-trotzdem-gern](https://www.spiegel.de/kultur/musik/donald-trump-hasst-taylor-swift-das-weisse-haus-nutzt-ihre-musik-trotzdem-gern-a-4321b88c-0c3c-45a4-b5f4-5299723b2f96#ref=rss)
+* [https://www.spiegel.de/ausland/zohran-mamdani-zum-buergermeister-von-new-york-city-gewaehlt-dreh-die-lautstaerke-auf](https://www.spiegel.de/ausland/zohran-mamdani-zum-buergermeister-von-new-york-city-gewaehlt-dreh-die-lautstaerke-auf-a-15d16a94-75f7-41d8-bf7c-4f2f735a419e#ref=rss)
+* [https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an](https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an-a-667331b2-7093-4a41-981c-7a32c2ac7a10#ref=rss)
+### champions
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieg-in-der-champions-league-kompany-hat-eine-dampfwalze-geschaffen-pressestimmen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieg-in-der-champions-league-kompany-hat-eine-dampfwalze-geschaffen-pressestimmen-a-db69dcec-662c-4115-a7ca-337663c7d519#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst-a-a56c0d40-6681-4e23-accc-6065e111902f#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieg-in-der-champions-league-kompany-hat-eine-dampfwalze-geschaffen-pressestimmen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieg-in-der-champions-league-kompany-hat-eine-dampfwalze-geschaffen-pressestimmen-a-db69dcec-662c-4115-a7ca-337663c7d519#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst-a-a56c0d40-6681-4e23-accc-6065e111902f#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieg-in-der-champions-league-kompany-hat-eine-dampfwalze-geschaffen-pressestimmen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieg-in-der-champions-league-kompany-hat-eine-dampfwalze-geschaffen-pressestimmen-a-db69dcec-662c-4115-a7ca-337663c7d519#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst-a-a56c0d40-6681-4e23-accc-6065e111902f#ref=rss)
+### paris
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieg-in-der-champions-league-kompany-hat-eine-dampfwalze-geschaffen-pressestimmen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieg-in-der-champions-league-kompany-hat-eine-dampfwalze-geschaffen-pressestimmen-a-db69dcec-662c-4115-a7ca-337663c7d519#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst-a-a56c0d40-6681-4e23-accc-6065e111902f#ref=rss)
+### kalifornien
+
+* [https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien](https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien-a-966fa46c-4a36-47f1-b09a-dc5ea1e9a1b7#ref=rss)
+* [https://www.spiegel.de/ausland/kalifornien-mehrheit-stimmt-fuer-wahlkreisreform-erfolg-fuer-die-demokraten](https://www.spiegel.de/ausland/kalifornien-mehrheit-stimmt-fuer-wahlkreisreform-erfolg-fuer-die-demokraten-a-f9cd3f48-ca37-4f0a-acd7-2f6c43a83716#ref=rss)
+### demokraten
+
+* [https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien](https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien-a-966fa46c-4a36-47f1-b09a-dc5ea1e9a1b7#ref=rss)
+* [https://www.spiegel.de/ausland/kalifornien-mehrheit-stimmt-fuer-wahlkreisreform-erfolg-fuer-die-demokraten](https://www.spiegel.de/ausland/kalifornien-mehrheit-stimmt-fuer-wahlkreisreform-erfolg-fuer-die-demokraten-a-f9cd3f48-ca37-4f0a-acd7-2f6c43a83716#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-wer-in-deutschland-wie-viel-bekommt](https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-wer-in-deutschland-wie-viel-bekommt-a-fd82d310-163d-4bb7-a18f-be12e83c5c76#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-wer-in-deutschland-wie-viel-bekommt](https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-wer-in-deutschland-wie-viel-bekommt-a-fd82d310-163d-4bb7-a18f-be12e83c5c76#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/karsten-wildberger-will-unternehmen-um-fuenf-milliarden-euro-entlasten](https://www.spiegel.de/wirtschaft/unternehmen/karsten-wildberger-will-unternehmen-um-fuenf-milliarden-euro-entlasten-a-bdf298bd-566d-4340-b938-3e3edabc4c89#ref=rss)
+### rund
+
+* [https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-wer-in-deutschland-wie-viel-bekommt](https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-wer-in-deutschland-wie-viel-bekommt-a-fd82d310-163d-4bb7-a18f-be12e83c5c76#ref=rss)
+* [https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen](https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen-a-d2baf5c8-0d67-4d4a-b205-1fd220ce7f9f#ref=rss)
+### nichts
+
+* [https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-wer-in-deutschland-wie-viel-bekommt](https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-wer-in-deutschland-wie-viel-bekommt-a-fd82d310-163d-4bb7-a18f-be12e83c5c76#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-percival-everett-dr-no](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-percival-everett-dr-no-a-7b766d5f-0b35-44c1-a9d9-83d1f9b1b3c2#ref=rss)
+### wo
+
+* [https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-wer-in-deutschland-wie-viel-bekommt](https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-wer-in-deutschland-wie-viel-bekommt-a-fd82d310-163d-4bb7-a18f-be12e83c5c76#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/mond-wo-der-supermond-am-besten-zu-erkennen-ist](https://www.spiegel.de/wissenschaft/weltall/mond-wo-der-supermond-am-besten-zu-erkennen-ist-a-d69014ec-ca45-4c1f-b8bd-80e26fe75155#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-wer-in-deutschland-wie-viel-bekommt](https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-wer-in-deutschland-wie-viel-bekommt-a-fd82d310-163d-4bb7-a18f-be12e83c5c76#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/mond-wo-der-supermond-am-besten-zu-erkennen-ist](https://www.spiegel.de/wissenschaft/weltall/mond-wo-der-supermond-am-besten-zu-erkennen-ist-a-d69014ec-ca45-4c1f-b8bd-80e26fe75155#ref=rss)
+### mikrochips
+
+* [https://www.spiegel.de/wirtschaft/mikrochips-eu-verfehlt-ziel-fuer-chipproduktion-bis-2030-deutlich](https://www.spiegel.de/wirtschaft/mikrochips-eu-verfehlt-ziel-fuer-chipproduktion-bis-2030-deutlich-a-16fa6f1f-5c77-4ea8-bdde-39dbd21c789e#ref=rss)
+### eu
+
+* [https://www.spiegel.de/wirtschaft/mikrochips-eu-verfehlt-ziel-fuer-chipproduktion-bis-2030-deutlich](https://www.spiegel.de/wirtschaft/mikrochips-eu-verfehlt-ziel-fuer-chipproduktion-bis-2030-deutlich-a-16fa6f1f-5c77-4ea8-bdde-39dbd21c789e#ref=rss)
+### 2030
+
+* [https://www.spiegel.de/wirtschaft/mikrochips-eu-verfehlt-ziel-fuer-chipproduktion-bis-2030-deutlich](https://www.spiegel.de/wirtschaft/mikrochips-eu-verfehlt-ziel-fuer-chipproduktion-bis-2030-deutlich-a-16fa6f1f-5c77-4ea8-bdde-39dbd21c789e#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/mikrochips-eu-verfehlt-ziel-fuer-chipproduktion-bis-2030-deutlich](https://www.spiegel.de/wirtschaft/mikrochips-eu-verfehlt-ziel-fuer-chipproduktion-bis-2030-deutlich-a-16fa6f1f-5c77-4ea8-bdde-39dbd21c789e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-spitzenkandidat-sven-schulze-schliesst-koalitionen-mit-afd-und-linken-aus](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-spitzenkandidat-sven-schulze-schliesst-koalitionen-mit-afd-und-linken-aus-a-7193ed8a-1bff-4466-b8a4-ccbb8c3c9913#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/mikrochips-eu-verfehlt-ziel-fuer-chipproduktion-bis-2030-deutlich](https://www.spiegel.de/wirtschaft/mikrochips-eu-verfehlt-ziel-fuer-chipproduktion-bis-2030-deutlich-a-16fa6f1f-5c77-4ea8-bdde-39dbd21c789e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/karsten-wildberger-will-unternehmen-um-fuenf-milliarden-euro-entlasten](https://www.spiegel.de/wirtschaft/unternehmen/karsten-wildberger-will-unternehmen-um-fuenf-milliarden-euro-entlasten-a-bdf298bd-566d-4340-b938-3e3edabc4c89#ref=rss)
+### xatar
+
+* [https://www.spiegel.de/kultur/musik/xatar-ndr-bringt-2026-dokuserie-ueber-rapper-in-die-ard-mediathek](https://www.spiegel.de/kultur/musik/xatar-ndr-bringt-2026-dokuserie-ueber-rapper-in-die-ard-mediathek-a-8a5338e7-36b7-43ae-82e1-d6e5507375fb#ref=rss)
+### ndr
+
+* [https://www.spiegel.de/kultur/musik/xatar-ndr-bringt-2026-dokuserie-ueber-rapper-in-die-ard-mediathek](https://www.spiegel.de/kultur/musik/xatar-ndr-bringt-2026-dokuserie-ueber-rapper-in-die-ard-mediathek-a-8a5338e7-36b7-43ae-82e1-d6e5507375fb#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/kultur/musik/xatar-ndr-bringt-2026-dokuserie-ueber-rapper-in-die-ard-mediathek](https://www.spiegel.de/kultur/musik/xatar-ndr-bringt-2026-dokuserie-ueber-rapper-in-die-ard-mediathek-a-8a5338e7-36b7-43ae-82e1-d6e5507375fb#ref=rss)
+* [https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien](https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien-a-966fa46c-4a36-47f1-b09a-dc5ea1e9a1b7#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/kultur/musik/xatar-ndr-bringt-2026-dokuserie-ueber-rapper-in-die-ard-mediathek](https://www.spiegel.de/kultur/musik/xatar-ndr-bringt-2026-dokuserie-ueber-rapper-in-die-ard-mediathek-a-8a5338e7-36b7-43ae-82e1-d6e5507375fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-jedes-vierte-familienunternehmen-plant-offenbar-stellenabbau](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-jedes-vierte-familienunternehmen-plant-offenbar-stellenabbau-a-273b0a33-2603-4440-aab0-d11083d8f223#ref=rss)
+### frühjahr
+
+* [https://www.spiegel.de/kultur/musik/xatar-ndr-bringt-2026-dokuserie-ueber-rapper-in-die-ard-mediathek](https://www.spiegel.de/kultur/musik/xatar-ndr-bringt-2026-dokuserie-ueber-rapper-in-die-ard-mediathek-a-8a5338e7-36b7-43ae-82e1-d6e5507375fb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst-a-a56c0d40-6681-4e23-accc-6065e111902f#ref=rss)
+### leben
+
+* [https://www.spiegel.de/kultur/musik/xatar-ndr-bringt-2026-dokuserie-ueber-rapper-in-die-ard-mediathek](https://www.spiegel.de/kultur/musik/xatar-ndr-bringt-2026-dokuserie-ueber-rapper-in-die-ard-mediathek-a-8a5338e7-36b7-43ae-82e1-d6e5507375fb#ref=rss)
+* [https://www.spiegel.de/ausland/abschiebungen-nach-syrien-kanzler-friedrich-merz-gefaehrdet-eigene-interessen-kommentar](https://www.spiegel.de/ausland/abschiebungen-nach-syrien-kanzler-friedrich-merz-gefaehrdet-eigene-interessen-kommentar-a-9e1c7f36-b349-4aea-b0ad-fb55a1a838ca#ref=rss)
+### tod
+
+* [https://www.spiegel.de/kultur/musik/xatar-ndr-bringt-2026-dokuserie-ueber-rapper-in-die-ard-mediathek](https://www.spiegel.de/kultur/musik/xatar-ndr-bringt-2026-dokuserie-ueber-rapper-in-die-ard-mediathek-a-8a5338e7-36b7-43ae-82e1-d6e5507375fb#ref=rss)
+* [https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen](https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen-a-d2baf5c8-0d67-4d4a-b205-1fd220ce7f9f#ref=rss)
+### beschlossene
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/arbeitsrechts-professor-hinterfragt-beschlossene-mindestlohnerhoehung](https://www.spiegel.de/wirtschaft/unternehmen/arbeitsrechts-professor-hinterfragt-beschlossene-mindestlohnerhoehung-a-5026d87e-962a-4400-8963-aa3acee1cd1f#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-percival-everett-dr-no](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-percival-everett-dr-no-a-7b766d5f-0b35-44c1-a9d9-83d1f9b1b3c2#ref=rss)
+### percival
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-percival-everett-dr-no](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-percival-everett-dr-no-a-7b766d5f-0b35-44c1-a9d9-83d1f9b1b3c2#ref=rss)
+### dr
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-percival-everett-dr-no](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-percival-everett-dr-no-a-7b766d5f-0b35-44c1-a9d9-83d1f9b1b3c2#ref=rss)
+### no
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-percival-everett-dr-no](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-percival-everett-dr-no-a-7b766d5f-0b35-44c1-a9d9-83d1f9b1b3c2#ref=rss)
+### andere
+
+* [https://www.spiegel.de/wirtschaft/wassermangel-in-brandenburg-red-bull-dosenfabrik-entfacht-neuen-streit](https://www.spiegel.de/wirtschaft/wassermangel-in-brandenburg-red-bull-dosenfabrik-entfacht-neuen-streit-a-fd401ac0-b830-46bd-87c3-a961752a6045#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-jedes-vierte-familienunternehmen-plant-offenbar-stellenabbau](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-jedes-vierte-familienunternehmen-plant-offenbar-stellenabbau-a-273b0a33-2603-4440-aab0-d11083d8f223#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/usa-zerstoeren-erneut-mutmassliches-schmugglerboot-offenbar-zwei-tote](https://www.spiegel.de/ausland/usa-zerstoeren-erneut-mutmassliches-schmugglerboot-offenbar-zwei-tote-a-45ce3c5d-5158-415d-b04f-46a33c9e11c7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-jedes-vierte-familienunternehmen-plant-offenbar-stellenabbau](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-jedes-vierte-familienunternehmen-plant-offenbar-stellenabbau-a-273b0a33-2603-4440-aab0-d11083d8f223#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/ausland/usa-zerstoeren-erneut-mutmassliches-schmugglerboot-offenbar-zwei-tote](https://www.spiegel.de/ausland/usa-zerstoeren-erneut-mutmassliches-schmugglerboot-offenbar-zwei-tote-a-45ce3c5d-5158-415d-b04f-46a33c9e11c7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/karsten-wildberger-will-unternehmen-um-fuenf-milliarden-euro-entlasten](https://www.spiegel.de/wirtschaft/unternehmen/karsten-wildberger-will-unternehmen-um-fuenf-milliarden-euro-entlasten-a-bdf298bd-566d-4340-b938-3e3edabc4c89#ref=rss)
+### mond
+
+* [https://www.spiegel.de/wissenschaft/weltall/mond-wo-der-supermond-am-besten-zu-erkennen-ist](https://www.spiegel.de/wissenschaft/weltall/mond-wo-der-supermond-am-besten-zu-erkennen-ist-a-d69014ec-ca45-4c1f-b8bd-80e26fe75155#ref=rss)
+### güstrow
+
+* [https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen](https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen-a-d2baf5c8-0d67-4d4a-b205-1fd220ce7f9f#ref=rss)
+### nennt
+
+* [https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen](https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen-a-d2baf5c8-0d67-4d4a-b205-1fd220ce7f9f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/karsten-wildberger-will-unternehmen-um-fuenf-milliarden-euro-entlasten](https://www.spiegel.de/wirtschaft/unternehmen/karsten-wildberger-will-unternehmen-um-fuenf-milliarden-euro-entlasten-a-bdf298bd-566d-4340-b938-3e3edabc4c89#ref=rss)
+### neue
+
+* [https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen](https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen-a-d2baf5c8-0d67-4d4a-b205-1fd220ce7f9f#ref=rss)
+### details
+
+* [https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen](https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen-a-d2baf5c8-0d67-4d4a-b205-1fd220ce7f9f#ref=rss)
+### fabian
+
+* [https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen](https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen-a-d2baf5c8-0d67-4d4a-b205-1fd220ce7f9f#ref=rss)
+### aktenzeichen
+
+* [https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen](https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen-a-d2baf5c8-0d67-4d4a-b205-1fd220ce7f9f#ref=rss)
+### xyungelöst
+
+* [https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen](https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen-a-d2baf5c8-0d67-4d4a-b205-1fd220ce7f9f#ref=rss)
+### zeugen
+
+* [https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen](https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen-a-d2baf5c8-0d67-4d4a-b205-1fd220ce7f9f#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen](https://www.spiegel.de/panorama/guestrow-polizei-nennt-neue-details-im-fall-fabian-und-sucht-bei-aktenzeichen-xy-ungeloest-nach-zeugen-a-d2baf5c8-0d67-4d4a-b205-1fd220ce7f9f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oldenburg-polizist-wegen-toedlicher-schuesse-auf-lorenz-a-angeklagt](https://www.spiegel.de/panorama/justiz/oldenburg-polizist-wegen-toedlicher-schuesse-auf-lorenz-a-angeklagt-a-184b5412-0e73-4deb-8e20-ebdea89613b9#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/kultur/musik/donald-trump-hasst-taylor-swift-das-weisse-haus-nutzt-ihre-musik-trotzdem-gern](https://www.spiegel.de/kultur/musik/donald-trump-hasst-taylor-swift-das-weisse-haus-nutzt-ihre-musik-trotzdem-gern-a-4321b88c-0c3c-45a4-b5f4-5299723b2f96#ref=rss)
+### swift
+
+* [https://www.spiegel.de/kultur/musik/donald-trump-hasst-taylor-swift-das-weisse-haus-nutzt-ihre-musik-trotzdem-gern](https://www.spiegel.de/kultur/musik/donald-trump-hasst-taylor-swift-das-weisse-haus-nutzt-ihre-musik-trotzdem-gern-a-4321b88c-0c3c-45a4-b5f4-5299723b2f96#ref=rss)
+### weiße
+
+* [https://www.spiegel.de/kultur/musik/donald-trump-hasst-taylor-swift-das-weisse-haus-nutzt-ihre-musik-trotzdem-gern](https://www.spiegel.de/kultur/musik/donald-trump-hasst-taylor-swift-das-weisse-haus-nutzt-ihre-musik-trotzdem-gern-a-4321b88c-0c3c-45a4-b5f4-5299723b2f96#ref=rss)
+### haus
+
+* [https://www.spiegel.de/kultur/musik/donald-trump-hasst-taylor-swift-das-weisse-haus-nutzt-ihre-musik-trotzdem-gern](https://www.spiegel.de/kultur/musik/donald-trump-hasst-taylor-swift-das-weisse-haus-nutzt-ihre-musik-trotzdem-gern-a-4321b88c-0c3c-45a4-b5f4-5299723b2f96#ref=rss)
+### musik
+
+* [https://www.spiegel.de/kultur/musik/donald-trump-hasst-taylor-swift-das-weisse-haus-nutzt-ihre-musik-trotzdem-gern](https://www.spiegel.de/kultur/musik/donald-trump-hasst-taylor-swift-das-weisse-haus-nutzt-ihre-musik-trotzdem-gern-a-4321b88c-0c3c-45a4-b5f4-5299723b2f96#ref=rss)
+### oldenburg
+
+* [https://www.spiegel.de/panorama/justiz/oldenburg-polizist-wegen-toedlicher-schuesse-auf-lorenz-a-angeklagt](https://www.spiegel.de/panorama/justiz/oldenburg-polizist-wegen-toedlicher-schuesse-auf-lorenz-a-angeklagt-a-184b5412-0e73-4deb-8e20-ebdea89613b9#ref=rss)
+### jared
+
+* [https://www.spiegel.de/wissenschaft/weltall/donald-trump-will-elon-musk-vertrauten-jared-isaacman-nun-doch-als-nasa-chef](https://www.spiegel.de/wissenschaft/weltall/donald-trump-will-elon-musk-vertrauten-jared-isaacman-nun-doch-als-nasa-chef-a-2136fae9-63c9-4ee4-98a5-d11aa95f58c8#ref=rss)
+### isaacman
+
+* [https://www.spiegel.de/wissenschaft/weltall/donald-trump-will-elon-musk-vertrauten-jared-isaacman-nun-doch-als-nasa-chef](https://www.spiegel.de/wissenschaft/weltall/donald-trump-will-elon-musk-vertrauten-jared-isaacman-nun-doch-als-nasa-chef-a-2136fae9-63c9-4ee4-98a5-d11aa95f58c8#ref=rss)
+### erst
+
+* [https://www.spiegel.de/wissenschaft/weltall/donald-trump-will-elon-musk-vertrauten-jared-isaacman-nun-doch-als-nasa-chef](https://www.spiegel.de/wissenschaft/weltall/donald-trump-will-elon-musk-vertrauten-jared-isaacman-nun-doch-als-nasa-chef-a-2136fae9-63c9-4ee4-98a5-d11aa95f58c8#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister](https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister-a-9be0ba42-b13e-4f78-9dd7-fe895c11d629#ref=rss)
+### ja
+
+* [https://www.spiegel.de/wissenschaft/weltall/donald-trump-will-elon-musk-vertrauten-jared-isaacman-nun-doch-als-nasa-chef](https://www.spiegel.de/wissenschaft/weltall/donald-trump-will-elon-musk-vertrauten-jared-isaacman-nun-doch-als-nasa-chef-a-2136fae9-63c9-4ee4-98a5-d11aa95f58c8#ref=rss)
+### besser
+
+* [https://www.spiegel.de/wissenschaft/weltall/donald-trump-will-elon-musk-vertrauten-jared-isaacman-nun-doch-als-nasa-chef](https://www.spiegel.de/wissenschaft/weltall/donald-trump-will-elon-musk-vertrauten-jared-isaacman-nun-doch-als-nasa-chef-a-2136fae9-63c9-4ee4-98a5-d11aa95f58c8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-jedes-vierte-familienunternehmen-plant-offenbar-stellenabbau](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-jedes-vierte-familienunternehmen-plant-offenbar-stellenabbau-a-273b0a33-2603-4440-aab0-d11083d8f223#ref=rss)
+### anthony
+
+* [https://www.spiegel.de/kultur/kino/anthony-hopkins-gesteht-seitenspruenge](https://www.spiegel.de/kultur/kino/anthony-hopkins-gesteht-seitenspruenge-a-5c1b8371-80f2-4ee4-bf9e-fc568b3e4b9f#ref=rss)
+### hopkins
+
+* [https://www.spiegel.de/kultur/kino/anthony-hopkins-gesteht-seitenspruenge](https://www.spiegel.de/kultur/kino/anthony-hopkins-gesteht-seitenspruenge-a-5c1b8371-80f2-4ee4-bf9e-fc568b3e4b9f#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/ausland/abschiebungen-nach-syrien-kanzler-friedrich-merz-gefaehrdet-eigene-interessen-kommentar](https://www.spiegel.de/ausland/abschiebungen-nach-syrien-kanzler-friedrich-merz-gefaehrdet-eigene-interessen-kommentar-a-9e1c7f36-b349-4aea-b0ad-fb55a1a838ca#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/ausland/abschiebungen-nach-syrien-kanzler-friedrich-merz-gefaehrdet-eigene-interessen-kommentar](https://www.spiegel.de/ausland/abschiebungen-nach-syrien-kanzler-friedrich-merz-gefaehrdet-eigene-interessen-kommentar-a-9e1c7f36-b349-4aea-b0ad-fb55a1a838ca#ref=rss)
+### merz
+
+* [https://www.spiegel.de/ausland/abschiebungen-nach-syrien-kanzler-friedrich-merz-gefaehrdet-eigene-interessen-kommentar](https://www.spiegel.de/ausland/abschiebungen-nach-syrien-kanzler-friedrich-merz-gefaehrdet-eigene-interessen-kommentar-a-9e1c7f36-b349-4aea-b0ad-fb55a1a838ca#ref=rss)
+### sachsenanhalt
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-spitzenkandidat-sven-schulze-schliesst-koalitionen-mit-afd-und-linken-aus](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-spitzenkandidat-sven-schulze-schliesst-koalitionen-mit-afd-und-linken-aus-a-7193ed8a-1bff-4466-b8a4-ccbb8c3c9913#ref=rss)
+### cduspitzenkandidat
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-spitzenkandidat-sven-schulze-schliesst-koalitionen-mit-afd-und-linken-aus](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-spitzenkandidat-sven-schulze-schliesst-koalitionen-mit-afd-und-linken-aus-a-7193ed8a-1bff-4466-b8a4-ccbb8c3c9913#ref=rss)
+### sven
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-spitzenkandidat-sven-schulze-schliesst-koalitionen-mit-afd-und-linken-aus](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-spitzenkandidat-sven-schulze-schliesst-koalitionen-mit-afd-und-linken-aus-a-7193ed8a-1bff-4466-b8a4-ccbb8c3c9913#ref=rss)
+### schulze
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-spitzenkandidat-sven-schulze-schliesst-koalitionen-mit-afd-und-linken-aus](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-spitzenkandidat-sven-schulze-schliesst-koalitionen-mit-afd-und-linken-aus-a-7193ed8a-1bff-4466-b8a4-ccbb8c3c9913#ref=rss)
+### schließt
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-spitzenkandidat-sven-schulze-schliesst-koalitionen-mit-afd-und-linken-aus](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-spitzenkandidat-sven-schulze-schliesst-koalitionen-mit-afd-und-linken-aus-a-7193ed8a-1bff-4466-b8a4-ccbb8c3c9913#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-spitzenkandidat-sven-schulze-schliesst-koalitionen-mit-afd-und-linken-aus](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-spitzenkandidat-sven-schulze-schliesst-koalitionen-mit-afd-und-linken-aus-a-7193ed8a-1bff-4466-b8a4-ccbb8c3c9913#ref=rss)
+### martin
+
+* [https://www.spiegel.de/kultur/martin-ruetter-ueber-seinen-abschied-aus-dem-showgeschaeft](https://www.spiegel.de/kultur/martin-ruetter-ueber-seinen-abschied-aus-dem-showgeschaeft-a-cf22f108-8fe3-4ba5-93cd-0805bc46e8f4#ref=rss)
+### rütter
+
+* [https://www.spiegel.de/kultur/martin-ruetter-ueber-seinen-abschied-aus-dem-showgeschaeft](https://www.spiegel.de/kultur/martin-ruetter-ueber-seinen-abschied-aus-dem-showgeschaeft-a-cf22f108-8fe3-4ba5-93cd-0805bc46e8f4#ref=rss)
+### kompany
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieg-in-der-champions-league-kompany-hat-eine-dampfwalze-geschaffen-pressestimmen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieg-in-der-champions-league-kompany-hat-eine-dampfwalze-geschaffen-pressestimmen-a-db69dcec-662c-4115-a7ca-337663c7d519#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst-a-a56c0d40-6681-4e23-accc-6065e111902f#ref=rss)
+### medien
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieg-in-der-champions-league-kompany-hat-eine-dampfwalze-geschaffen-pressestimmen](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-sieg-in-der-champions-league-kompany-hat-eine-dampfwalze-geschaffen-pressestimmen-a-db69dcec-662c-4115-a7ca-337663c7d519#ref=rss)
+* [https://www.spiegel.de/geschichte/krankhafte-schoenheitsideale-die-fatale-faszination-fuers-hungern](https://www.spiegel.de/geschichte/krankhafte-schoenheitsideale-die-fatale-faszination-fuers-hungern-a-a88cb5b4-4694-4f67-b8e4-0f1f73679f46#ref=rss)
+### city
+
+* [https://www.spiegel.de/ausland/zohran-mamdani-zum-buergermeister-von-new-york-city-gewaehlt-dreh-die-lautstaerke-auf](https://www.spiegel.de/ausland/zohran-mamdani-zum-buergermeister-von-new-york-city-gewaehlt-dreh-die-lautstaerke-auf-a-15d16a94-75f7-41d8-bf7c-4f2f735a419e#ref=rss)
+* [https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an](https://www.spiegel.de/ausland/zohran-mamdani-in-new-york-city-designierter-buergermeister-sagt-donald-trump-den-kampf-an-a-667331b2-7093-4a41-981c-7a32c2ac7a10#ref=rss)
+### linke
+
+* [https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister](https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister-a-9be0ba42-b13e-4f78-9dd7-fe895c11d629#ref=rss)
+### sozialen
+
+* [https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister](https://www.spiegel.de/ausland/new-york-der-linke-kandidat-zohran-mamdani-gewinnt-die-wahl-zum-buergermeister-a-9be0ba42-b13e-4f78-9dd7-fe895c11d629#ref=rss)
+* [https://www.spiegel.de/geschichte/krankhafte-schoenheitsideale-die-fatale-faszination-fuers-hungern](https://www.spiegel.de/geschichte/krankhafte-schoenheitsideale-die-fatale-faszination-fuers-hungern-a-a88cb5b4-4694-4f67-b8e4-0f1f73679f46#ref=rss)
+### wildberger
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/karsten-wildberger-will-unternehmen-um-fuenf-milliarden-euro-entlasten](https://www.spiegel.de/wirtschaft/unternehmen/karsten-wildberger-will-unternehmen-um-fuenf-milliarden-euro-entlasten-a-bdf298bd-566d-4340-b938-3e3edabc4c89#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien](https://www.spiegel.de/ausland/usa-vier-lehren-aus-den-wahlen-in-virginia-new-jersey-new-york-und-kalifornien-a-966fa46c-4a36-47f1-b09a-dc5ea1e9a1b7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-innenminister-verbietet-kalifat-fans-razzia-in-mehreren-bundeslaendern](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-innenminister-verbietet-kalifat-fans-razzia-in-mehreren-bundeslaendern-a-0a343e78-6a0d-4e1e-97f9-2cad7cb045c9#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/handelsstreit-china-streicht-einige-zoelle-auf-amerikanische-produkte](https://www.spiegel.de/wirtschaft/handelsstreit-china-streicht-einige-zoelle-auf-amerikanische-produkte-a-d7e6d665-50b5-4c39-bbb7-4dc88d2b0c50#ref=rss)
+### zölle
+
+* [https://www.spiegel.de/wirtschaft/handelsstreit-china-streicht-einige-zoelle-auf-amerikanische-produkte](https://www.spiegel.de/wirtschaft/handelsstreit-china-streicht-einige-zoelle-auf-amerikanische-produkte-a-d7e6d665-50b5-4c39-bbb7-4dc88d2b0c50#ref=rss)
+### saintgermain
+
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst-a-a56c0d40-6681-4e23-accc-6065e111902f#ref=rss)
+### sieg
+
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-besiegt-paris-saint-germain-europas-nummer-eins-vorerst-a-a56c0d40-6681-4e23-accc-6065e111902f#ref=rss)
+* [https://www.spiegel.de/ausland/kalifornien-mehrheit-stimmt-fuer-wahlkreisreform-erfolg-fuer-die-demokraten](https://www.spiegel.de/ausland/kalifornien-mehrheit-stimmt-fuer-wahlkreisreform-erfolg-fuer-die-demokraten-a-f9cd3f48-ca37-4f0a-acd7-2f6c43a83716#ref=rss)
+### zürich
+
+* [https://www.spiegel.de/panorama/zuerich-jahrzehntelang-vergrabener-muenzschatz-kommt-unter-den-hammer](https://www.spiegel.de/panorama/zuerich-jahrzehntelang-vergrabener-muenzschatz-kommt-unter-den-hammer-a-971e1627-ffb0-4a2a-8ecd-799d8251e086#ref=rss)
+### fast
+
+* [https://www.spiegel.de/panorama/zuerich-jahrzehntelang-vergrabener-muenzschatz-kommt-unter-den-hammer](https://www.spiegel.de/panorama/zuerich-jahrzehntelang-vergrabener-muenzschatz-kommt-unter-den-hammer-a-971e1627-ffb0-4a2a-8ecd-799d8251e086#ref=rss)
+### familienunternehmen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-jedes-vierte-familienunternehmen-plant-offenbar-stellenabbau](https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-jedes-vierte-familienunternehmen-plant-offenbar-stellenabbau-a-273b0a33-2603-4440-aab0-d11083d8f223#ref=rss)
 
