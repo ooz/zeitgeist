@@ -4,318 +4,374 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/josef-brunner-vom-baeckersohn-zum-maerchenerzaehler](https://www.spiegel.de/wirtschaft/josef-brunner-vom-baeckersohn-zum-maerchenerzaehler-a-c4e96aac-414b-4ef7-acde-5d68a1fae382#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/meta-facebook-konzern-macht-milliarden-mit-betruegerischer-onlinewerbung](https://www.spiegel.de/netzwelt/web/meta-facebook-konzern-macht-milliarden-mit-betruegerischer-onlinewerbung-a-0076fafb-5984-4b04-9f11-7653847176b5#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-ahmed-abu-mutair-der-techniker-der-fuer-eine-zdf-partnerfirma-arbeitete-und-offenbar-hamas-mitglied-war](https://www.spiegel.de/ausland/gaza-ahmed-abu-mutair-der-techniker-der-fuer-eine-zdf-partnerfirma-arbeitete-und-offenbar-hamas-mitglied-war-a-d3140169-4152-40ae-bd86-1e70fb4614b7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-handelskonflikt-mit-usa-fuehrt-zu-export-rueckgang](https://www.spiegel.de/wirtschaft/unternehmen/china-handelskonflikt-mit-usa-fuehrt-zu-export-rueckgang-a-ab11151b-5316-4706-a5d9-6159689eee0d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/timothee-chalamet-steht-zu-seiner-enttaeuschung-ueber-verpassten-oscar](https://www.spiegel.de/panorama/leute/timothee-chalamet-steht-zu-seiner-enttaeuschung-ueber-verpassten-oscar-a-f2f08769-7a62-4f3c-b23e-99a25e703830#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/koblenz-drogentod-einer-13-jaehrigen-zwei-angeklagte-zu-langen-freiheitsstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/koblenz-drogentod-einer-13-jaehrigen-zwei-angeklagte-zu-langen-freiheitsstrafen-verurteilt-a-58563e94-5ebe-4e51-a7ea-099a2035075a#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/claudia-sheinbaum-mexikos-praesidentin-startet-initiative-gegen-sexuelle-belaestigung](https://www.spiegel.de/panorama/gesellschaft/claudia-sheinbaum-mexikos-praesidentin-startet-initiative-gegen-sexuelle-belaestigung-a-0ae6fd2c-d301-4903-9cbf-8e22527cddec#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hanau-blutige-hakenkreuzschmierereien-auf-autos-und-hauswaenden-verdaechtiger-gefasst](https://www.spiegel.de/panorama/justiz/hanau-blutige-hakenkreuzschmierereien-auf-autos-und-hauswaenden-verdaechtiger-gefasst-a-74968a45-e20d-4d43-b820-108d7572d94b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/saale-orla-kreis-lehrer-wegen-missbrauchsvorwuerfen-verhaftet](https://www.spiegel.de/panorama/justiz/saale-orla-kreis-lehrer-wegen-missbrauchsvorwuerfen-verhaftet-a-486fdd8d-605a-4c3a-be42-4759672b6ec0#ref=rss)
-### trump
-
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-kommentar-ronaldo-sieht-sich-ueber-messi-und-trump](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-kommentar-ronaldo-sieht-sich-ueber-messi-und-trump-a-90020d5e-810b-435b-a9d0-5131eb086adb#ref=rss)
-* [https://www.spiegel.de/ausland/klimagipfel-cop30-in-brasilien-wer-schert-sich-noch-um-donald-trump-meinung](https://www.spiegel.de/ausland/klimagipfel-cop30-in-brasilien-wer-schert-sich-noch-um-donald-trump-meinung-a-e24c7c55-fd38-4f1b-93af-024a05f1818c#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-uno-sicherheitsrat-hebt-sanktionen-gegen-ahmed-al-sharaa-auf](https://www.spiegel.de/ausland/syrien-uno-sicherheitsrat-hebt-sanktionen-gegen-ahmed-al-sharaa-auf-a-b8ccda2b-3c60-48f3-b160-8adb5e00ac80#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen](https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen-a-afd67abc-25c9-4683-9151-75c4fcba49cf#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/meta-facebook-konzern-macht-milliarden-mit-betruegerischer-onlinewerbung](https://www.spiegel.de/netzwelt/web/meta-facebook-konzern-macht-milliarden-mit-betruegerischer-onlinewerbung-a-0076fafb-5984-4b04-9f11-7653847176b5#ref=rss)
-* [https://www.spiegel.de/panorama/leute/timothee-chalamet-steht-zu-seiner-enttaeuschung-ueber-verpassten-oscar](https://www.spiegel.de/panorama/leute/timothee-chalamet-steht-zu-seiner-enttaeuschung-ueber-verpassten-oscar-a-f2f08769-7a62-4f3c-b23e-99a25e703830#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/wirtschaft/josef-brunner-vom-baeckersohn-zum-maerchenerzaehler](https://www.spiegel.de/wirtschaft/josef-brunner-vom-baeckersohn-zum-maerchenerzaehler-a-c4e96aac-414b-4ef7-acde-5d68a1fae382#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-warum-wir-hervorragende-literatur-auszeichnen](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-warum-wir-hervorragende-literatur-auszeichnen-a-b6efd76a-86f1-4634-b19b-4dc5ed02e61d#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-kommentar-ronaldo-sieht-sich-ueber-messi-und-trump](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-kommentar-ronaldo-sieht-sich-ueber-messi-und-trump-a-90020d5e-810b-435b-a9d0-5131eb086adb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tiktok-im-bundestag-mehr-als-zwei-drittel-aller-abgeordneten-nutzen-die-plattform](https://www.spiegel.de/politik/deutschland/tiktok-im-bundestag-mehr-als-zwei-drittel-aller-abgeordneten-nutzen-die-plattform-a-0f5d8e6d-d939-4f3b-bf3e-669bcd19dd25#ref=rss)
-### peking
-
-* [https://www.spiegel.de/ausland/china-stellt-dritten-flugzeugtraeger-fujian-in-dienst](https://www.spiegel.de/ausland/china-stellt-dritten-flugzeugtraeger-fujian-in-dienst-a-2f499f47-ebb3-4486-a868-9f7d50ab3c9d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-handelskonflikt-mit-usa-fuehrt-zu-export-rueckgang](https://www.spiegel.de/wirtschaft/unternehmen/china-handelskonflikt-mit-usa-fuehrt-zu-export-rueckgang-a-ab11151b-5316-4706-a5d9-6159689eee0d#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-uno-sicherheitsrat-hebt-sanktionen-gegen-ahmed-al-sharaa-auf](https://www.spiegel.de/ausland/syrien-uno-sicherheitsrat-hebt-sanktionen-gegen-ahmed-al-sharaa-auf-a-b8ccda2b-3c60-48f3-b160-8adb5e00ac80#ref=rss)
-### generalinspekteur
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-will-russland-mit-militaerischer-staerke-abschrecken](https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-will-russland-mit-militaerischer-staerke-abschrecken-a-7b15aa83-4f50-4b61-8c10-f84c00324879#ref=rss)
-### carsten
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-will-russland-mit-militaerischer-staerke-abschrecken](https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-will-russland-mit-militaerischer-staerke-abschrecken-a-7b15aa83-4f50-4b61-8c10-f84c00324879#ref=rss)
-### breuer
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-will-russland-mit-militaerischer-staerke-abschrecken](https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-will-russland-mit-militaerischer-staerke-abschrecken-a-7b15aa83-4f50-4b61-8c10-f84c00324879#ref=rss)
-### stärke
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-will-russland-mit-militaerischer-staerke-abschrecken](https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-will-russland-mit-militaerischer-staerke-abschrecken-a-7b15aa83-4f50-4b61-8c10-f84c00324879#ref=rss)
-* [https://www.spiegel.de/ausland/china-stellt-dritten-flugzeugtraeger-fujian-in-dienst](https://www.spiegel.de/ausland/china-stellt-dritten-flugzeugtraeger-fujian-in-dienst-a-2f499f47-ebb3-4486-a868-9f7d50ab3c9d#ref=rss)
-### laut
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-will-russland-mit-militaerischer-staerke-abschrecken](https://www.spiegel.de/politik/deutschland/bundeswehr-generalinspekteur-carsten-breuer-will-russland-mit-militaerischer-staerke-abschrecken-a-7b15aa83-4f50-4b61-8c10-f84c00324879#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen](https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen-a-afd67abc-25c9-4683-9151-75c4fcba49cf#ref=rss)
-### mobbing
-
-* [https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen](https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen-a-afd67abc-25c9-4683-9151-75c4fcba49cf#ref=rss)
-### studie
-
-* [https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen](https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen-a-afd67abc-25c9-4683-9151-75c4fcba49cf#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen](https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen-a-afd67abc-25c9-4683-9151-75c4fcba49cf#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/meta-facebook-konzern-macht-milliarden-mit-betruegerischer-onlinewerbung](https://www.spiegel.de/netzwelt/web/meta-facebook-konzern-macht-milliarden-mit-betruegerischer-onlinewerbung-a-0076fafb-5984-4b04-9f11-7653847176b5#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen](https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen-a-afd67abc-25c9-4683-9151-75c4fcba49cf#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/vietnam-taifun-kalmaegi-sorgt-fuer-zerstoerung-mindestens-fuenf-menschen-sterben](https://www.spiegel.de/panorama/gesellschaft/vietnam-taifun-kalmaegi-sorgt-fuer-zerstoerung-mindestens-fuenf-menschen-sterben-a-7ed63714-7740-4539-8878-56690cdc7e2e#ref=rss)
-### erleben
-
-* [https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen](https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen-a-afd67abc-25c9-4683-9151-75c4fcba49cf#ref=rss)
-* [https://www.spiegel.de/panorama/prinz-harry-entschuldigt-sich-fuer-kappenwahl-im-baseball-stadion](https://www.spiegel.de/panorama/prinz-harry-entschuldigt-sich-fuer-kappenwahl-im-baseball-stadion-a-f87f5858-b9da-44af-9a84-8a7f0662426e#ref=rss)
-### teils
-
-* [https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen](https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen-a-afd67abc-25c9-4683-9151-75c4fcba49cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tiktok-im-bundestag-mehr-als-zwei-drittel-aller-abgeordneten-nutzen-die-plattform](https://www.spiegel.de/politik/deutschland/tiktok-im-bundestag-mehr-als-zwei-drittel-aller-abgeordneten-nutzen-die-plattform-a-0f5d8e6d-d939-4f3b-bf3e-669bcd19dd25#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-umfragen-sehen-union-und-afd-eng-beieinander](https://www.spiegel.de/politik/deutschland/deutschland-umfragen-sehen-union-und-afd-eng-beieinander-a-23e91efb-192c-4fb9-bbb3-ca4211f27600#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-umfragen-sehen-union-und-afd-eng-beieinander](https://www.spiegel.de/politik/deutschland/deutschland-umfragen-sehen-union-und-afd-eng-beieinander-a-23e91efb-192c-4fb9-bbb3-ca4211f27600#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-umfragen-sehen-union-und-afd-eng-beieinander](https://www.spiegel.de/politik/deutschland/deutschland-umfragen-sehen-union-und-afd-eng-beieinander-a-23e91efb-192c-4fb9-bbb3-ca4211f27600#ref=rss)
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-kommentar-ronaldo-sieht-sich-ueber-messi-und-trump](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-kommentar-ronaldo-sieht-sich-ueber-messi-und-trump-a-90020d5e-810b-435b-a9d0-5131eb086adb#ref=rss)
-### beiden
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-umfragen-sehen-union-und-afd-eng-beieinander](https://www.spiegel.de/politik/deutschland/deutschland-umfragen-sehen-union-und-afd-eng-beieinander-a-23e91efb-192c-4fb9-bbb3-ca4211f27600#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koblenz-drogentod-einer-13-jaehrigen-zwei-angeklagte-zu-langen-freiheitsstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/koblenz-drogentod-einer-13-jaehrigen-zwei-angeklagte-zu-langen-freiheitsstrafen-verurteilt-a-58563e94-5ebe-4e51-a7ea-099a2035075a#ref=rss)
-### prinz
-
-* [https://www.spiegel.de/panorama/prinz-harry-entschuldigt-sich-fuer-kappenwahl-im-baseball-stadion](https://www.spiegel.de/panorama/prinz-harry-entschuldigt-sich-fuer-kappenwahl-im-baseball-stadion-a-f87f5858-b9da-44af-9a84-8a7f0662426e#ref=rss)
-### harry
-
-* [https://www.spiegel.de/panorama/prinz-harry-entschuldigt-sich-fuer-kappenwahl-im-baseball-stadion](https://www.spiegel.de/panorama/prinz-harry-entschuldigt-sich-fuer-kappenwahl-im-baseball-stadion-a-f87f5858-b9da-44af-9a84-8a7f0662426e#ref=rss)
-### baseballstadion
-
-* [https://www.spiegel.de/panorama/prinz-harry-entschuldigt-sich-fuer-kappenwahl-im-baseball-stadion](https://www.spiegel.de/panorama/prinz-harry-entschuldigt-sich-fuer-kappenwahl-im-baseball-stadion-a-f87f5858-b9da-44af-9a84-8a7f0662426e#ref=rss)
-### los
-
-* [https://www.spiegel.de/panorama/prinz-harry-entschuldigt-sich-fuer-kappenwahl-im-baseball-stadion](https://www.spiegel.de/panorama/prinz-harry-entschuldigt-sich-fuer-kappenwahl-im-baseball-stadion-a-f87f5858-b9da-44af-9a84-8a7f0662426e#ref=rss)
-### josef
-
-* [https://www.spiegel.de/wirtschaft/josef-brunner-vom-baeckersohn-zum-maerchenerzaehler](https://www.spiegel.de/wirtschaft/josef-brunner-vom-baeckersohn-zum-maerchenerzaehler-a-c4e96aac-414b-4ef7-acde-5d68a1fae382#ref=rss)
-### brunner
-
-* [https://www.spiegel.de/wirtschaft/josef-brunner-vom-baeckersohn-zum-maerchenerzaehler](https://www.spiegel.de/wirtschaft/josef-brunner-vom-baeckersohn-zum-maerchenerzaehler-a-c4e96aac-414b-4ef7-acde-5d68a1fae382#ref=rss)
-### vielen
-
-* [https://www.spiegel.de/wirtschaft/josef-brunner-vom-baeckersohn-zum-maerchenerzaehler](https://www.spiegel.de/wirtschaft/josef-brunner-vom-baeckersohn-zum-maerchenerzaehler-a-c4e96aac-414b-4ef7-acde-5d68a1fae382#ref=rss)
-* [https://www.spiegel.de/kultur/carolin-kebekus-ich-muss-das-bild-der-perfekten-mutter-endlich-kaputt-machen](https://www.spiegel.de/kultur/carolin-kebekus-ich-muss-das-bild-der-perfekten-mutter-endlich-kaputt-machen-a-e114738c-9212-4738-8221-54517faa73cf#ref=rss)
-### größten
-
-* [https://www.spiegel.de/wirtschaft/josef-brunner-vom-baeckersohn-zum-maerchenerzaehler](https://www.spiegel.de/wirtschaft/josef-brunner-vom-baeckersohn-zum-maerchenerzaehler-a-c4e96aac-414b-4ef7-acde-5d68a1fae382#ref=rss)
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-kommentar-ronaldo-sieht-sich-ueber-messi-und-trump](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-kommentar-ronaldo-sieht-sich-ueber-messi-und-trump-a-90020d5e-810b-435b-a9d0-5131eb086adb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-bundespolizei-stoppt-lebensgefaehrliche-schleusungen](https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-bundespolizei-stoppt-lebensgefaehrliche-schleusungen-a-eef0d9e1-650d-4292-a69a-fc80563423fe#ref=rss)
+* [https://www.spiegel.de/panorama/hunde-klonen-wie-tom-brady-und-barbra-streisand-ihre-lieblinge-wiederbelebten](https://www.spiegel.de/panorama/hunde-klonen-wie-tom-brady-und-barbra-streisand-ihre-lieblinge-wiederbelebten-a-b32658d7-ca92-4ff2-86ec-ce4506e4d8a1#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/pflegefinanzierung-wie-behinderte-menschen-fuer-24-stunden-den-senat-blockierten](https://www.spiegel.de/panorama/gesellschaft/pflegefinanzierung-wie-behinderte-menschen-fuer-24-stunden-den-senat-blockierten-a-c590bc9c-cdaf-4a41-a9c0-87052f21a03a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesagentur-fuer-arbeit-erwartet-erneut-milliardenloch](https://www.spiegel.de/wirtschaft/bundesagentur-fuer-arbeit-erwartet-erneut-milliardenloch-a-620e1ecb-9436-41cc-aa03-bebd061e874a#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/justiz/koblenz-drogentod-einer-13-jaehrigen-zwei-angeklagte-zu-langen-freiheitsstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/koblenz-drogentod-einer-13-jaehrigen-zwei-angeklagte-zu-langen-freiheitsstrafen-verurteilt-a-58563e94-5ebe-4e51-a7ea-099a2035075a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tiktok-im-bundestag-mehr-als-zwei-drittel-aller-abgeordneten-nutzen-die-plattform](https://www.spiegel.de/politik/deutschland/tiktok-im-bundestag-mehr-als-zwei-drittel-aller-abgeordneten-nutzen-die-plattform-a-0f5d8e6d-d939-4f3b-bf3e-669bcd19dd25#ref=rss)
-### freiheitsstrafen
+* [https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-bundespolizei-stoppt-lebensgefaehrliche-schleusungen](https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-bundespolizei-stoppt-lebensgefaehrliche-schleusungen-a-eef0d9e1-650d-4292-a69a-fc80563423fe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bayern-mann-schickt-freund-zum-vaterschaftstest-um-keinen-unterhalt-zahlen-zu-muessen](https://www.spiegel.de/panorama/justiz/bayern-mann-schickt-freund-zum-vaterschaftstest-um-keinen-unterhalt-zahlen-zu-muessen-a-8a2ecfd2-973f-4bf1-8cf0-5e4888d2bbbe#ref=rss)
+* [https://www.spiegel.de/wissenschaft/delfinsterben-im-amazonas-2023-diese-gruende-fuehrten-zur-katastrophe](https://www.spiegel.de/wissenschaft/delfinsterben-im-amazonas-2023-diese-gruende-fuehrten-zur-katastrophe-a-a32cec40-75da-432f-ab7d-7cf34156262a#ref=rss)
+* [https://www.spiegel.de/geschichte/zuerich-was-ist-eine-historische-goldmuenze-zwei-millionen-euro-wert](https://www.spiegel.de/geschichte/zuerich-was-ist-eine-historische-goldmuenze-zwei-millionen-euro-wert-a-2b8c5d34-5d5e-4af1-bf11-af52e2c56d74#ref=rss)
+### sudan
 
-* [https://www.spiegel.de/panorama/justiz/koblenz-drogentod-einer-13-jaehrigen-zwei-angeklagte-zu-langen-freiheitsstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/koblenz-drogentod-einer-13-jaehrigen-zwei-angeklagte-zu-langen-freiheitsstrafen-verurteilt-a-58563e94-5ebe-4e51-a7ea-099a2035075a#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/panorama/justiz/koblenz-drogentod-einer-13-jaehrigen-zwei-angeklagte-zu-langen-freiheitsstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/koblenz-drogentod-einer-13-jaehrigen-zwei-angeklagte-zu-langen-freiheitsstrafen-verurteilt-a-58563e94-5ebe-4e51-a7ea-099a2035075a#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/biathlon-julia-simon-darf-nach-kreditkartenbetrug-bei-olympia-starten](https://www.spiegel.de/sport/wintersport/biathlon-julia-simon-darf-nach-kreditkartenbetrug-bei-olympia-starten-a-09d79d6d-09cb-42cc-aa9a-44ee3dd44361#ref=rss)
-### hatten
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/panorama/justiz/koblenz-drogentod-einer-13-jaehrigen-zwei-angeklagte-zu-langen-freiheitsstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/koblenz-drogentod-einer-13-jaehrigen-zwei-angeklagte-zu-langen-freiheitsstrafen-verurteilt-a-58563e94-5ebe-4e51-a7ea-099a2035075a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-handelskonflikt-mit-usa-fuehrt-zu-export-rueckgang](https://www.spiegel.de/wirtschaft/unternehmen/china-handelskonflikt-mit-usa-fuehrt-zu-export-rueckgang-a-ab11151b-5316-4706-a5d9-6159689eee0d#ref=rss)
-### gestört
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-trifft-sebastian-kurz-gruene-wollen-auskuenfte-von-wegen-tiroler-geheim-treffens](https://www.spiegel.de/politik/deutschland/katherina-reiche-trifft-sebastian-kurz-gruene-wollen-auskuenfte-von-wegen-tiroler-geheim-treffens-a-add231ad-8199-4764-8e2b-a668b03744ec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kiel-antrag-der-gruenen-kommt-nur-dank-afd-unterstuetzung-durch](https://www.spiegel.de/politik/deutschland/kiel-antrag-der-gruenen-kommt-nur-dank-afd-unterstuetzung-durch-a-d5869043-983f-4c11-8f66-88292bd99986#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bad-salzuflen-sabine-reinknecht-afd-zur-stellvertretenden-buergermeisterin-gewaehlt](https://www.spiegel.de/politik/deutschland/bad-salzuflen-sabine-reinknecht-afd-zur-stellvertretenden-buergermeisterin-gewaehlt-a-3b9d988a-b749-431a-b9f0-297491dac573#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/kultur/musik/pariser-konzert-des-israelischen-sinfonieorchesters-mit-rauchfackeln-gestoert](https://www.spiegel.de/kultur/musik/pariser-konzert-des-israelischen-sinfonieorchesters-mit-rauchfackeln-gestoert-a-8922a1fa-1377-4716-9128-66b3f374a132#ref=rss)
-### visier
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-pfarrerin-lena-mueller-feiert-polyhochzeit-mit-vier-maennern](https://www.spiegel.de/panorama/gesellschaft/berlin-pfarrerin-lena-mueller-feiert-polyhochzeit-mit-vier-maennern-a-e0d09114-f016-434b-b3dd-dd23471a02e8#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/pflegefinanzierung-wie-behinderte-menschen-fuer-24-stunden-den-senat-blockierten](https://www.spiegel.de/panorama/gesellschaft/pflegefinanzierung-wie-behinderte-menschen-fuer-24-stunden-den-senat-blockierten-a-c590bc9c-cdaf-4a41-a9c0-87052f21a03a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-pro-palaestina-aktivisten-demonstrieren-in-eingangsbereich-des-zdf-hauptstadtstudios](https://www.spiegel.de/panorama/gesellschaft/berlin-pro-palaestina-aktivisten-demonstrieren-in-eingangsbereich-des-zdf-hauptstadtstudios-a-228ff085-659f-4e3d-9f84-ba22034d871b#ref=rss)
+### bundeswehr
 
-* [https://www.spiegel.de/kultur/musik/pariser-konzert-des-israelischen-sinfonieorchesters-mit-rauchfackeln-gestoert](https://www.spiegel.de/kultur/musik/pariser-konzert-des-israelischen-sinfonieorchesters-mit-rauchfackeln-gestoert-a-8922a1fa-1377-4716-9128-66b3f374a132#ref=rss)
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-kommentar-ronaldo-sieht-sich-ueber-messi-und-trump](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-kommentar-ronaldo-sieht-sich-ueber-messi-und-trump-a-90020d5e-810b-435b-a9d0-5131eb086adb#ref=rss)
-### tansania
+* [https://www.spiegel.de/politik/deutschland/p8-a-poseidon-bundeswehr-bekommt-neue-u-boot-jaeger](https://www.spiegel.de/politik/deutschland/p8-a-poseidon-bundeswehr-bekommt-neue-u-boot-jaeger-a-d62dab1a-4f1f-4828-9aeb-7eee99a0ac0a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/belgien-bundeswehr-unterstuetzt-belgien-bei-drohnenabwehr](https://www.spiegel.de/politik/deutschland/belgien-bundeswehr-unterstuetzt-belgien-bei-drohnenabwehr-a-94ef9500-a13c-4211-ac2d-4bb3dce58f5a#ref=rss)
+### unter
 
-* [https://www.spiegel.de/wissenschaft/kroetenarten-aus-tansania-ueberspringen-das-kaulquappenstadium](https://www.spiegel.de/wissenschaft/kroetenarten-aus-tansania-ueberspringen-das-kaulquappenstadium-a-48f68e6a-18b1-4373-b90a-1a6fa7393025#ref=rss)
-### buchpreis
+* [https://www.spiegel.de/kultur/musik/album-der-woche-keiyaa-snocaps-kadavar-kali-malone-drew-mcdowall](https://www.spiegel.de/kultur/musik/album-der-woche-keiyaa-snocaps-kadavar-kali-malone-drew-mcdowall-a-fa4051e9-1e26-49b9-8a83-16203d95d92c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/p8-a-poseidon-bundeswehr-bekommt-neue-u-boot-jaeger](https://www.spiegel.de/politik/deutschland/p8-a-poseidon-bundeswehr-bekommt-neue-u-boot-jaeger-a-d62dab1a-4f1f-4828-9aeb-7eee99a0ac0a#ref=rss)
+### vier
 
-* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-warum-wir-hervorragende-literatur-auszeichnen](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-warum-wir-hervorragende-literatur-auszeichnen-a-b6efd76a-86f1-4634-b19b-4dc5ed02e61d#ref=rss)
-### literatur
+* [https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast](https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast-a-ff4a0e9f-6821-4b54-a393-e58fdaf7e40f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-pfarrerin-lena-mueller-feiert-polyhochzeit-mit-vier-maennern](https://www.spiegel.de/panorama/gesellschaft/berlin-pfarrerin-lena-mueller-feiert-polyhochzeit-mit-vier-maennern-a-e0d09114-f016-434b-b3dd-dd23471a02e8#ref=rss)
+### lage
 
-* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-warum-wir-hervorragende-literatur-auszeichnen](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-warum-wir-hervorragende-literatur-auszeichnen-a-b6efd76a-86f1-4634-b19b-4dc5ed02e61d#ref=rss)
-### erklärt
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bsw-syriens-praesident-sharaa-fall-fabian](https://www.spiegel.de/politik/deutschland/news-des-tages-bsw-syriens-praesident-sharaa-fall-fabian-a-76f26bd7-0b76-415b-a4f4-a73d7beb93ff#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-warum-wir-hervorragende-literatur-auszeichnen](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-warum-wir-hervorragende-literatur-auszeichnen-a-b6efd76a-86f1-4634-b19b-4dc5ed02e61d#ref=rss)
-* [https://www.spiegel.de/kultur/haftbefehl-biopic-babo-auf-netflix-als-dokumentarfilmer-ist-man-nun-mal-voyeur](https://www.spiegel.de/kultur/haftbefehl-biopic-babo-auf-netflix-als-dokumentarfilmer-ist-man-nun-mal-voyeur-a-8fcfbe67-bb80-4530-8c9d-ddd8c98c44fa#ref=rss)
-### claudia
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-ju-chef-johannes-winkel-kritisiert-altkanzlerin-scharf](https://www.spiegel.de/politik/deutschland/angela-merkel-ju-chef-johannes-winkel-kritisiert-altkanzlerin-scharf-a-266944d9-3ff3-4392-a4cd-6af6edd25a8b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/jackson-irvine-aufsichtsrat-von-st-pauli-bestraft-nach-instagram-kritik](https://www.spiegel.de/sport/fussball/jackson-irvine-aufsichtsrat-von-st-pauli-bestraft-nach-instagram-kritik-a-67863cde-dab5-47e0-8595-38145b29a522#ref=rss)
+### belgien
 
-* [https://www.spiegel.de/panorama/gesellschaft/claudia-sheinbaum-mexikos-praesidentin-startet-initiative-gegen-sexuelle-belaestigung](https://www.spiegel.de/panorama/gesellschaft/claudia-sheinbaum-mexikos-praesidentin-startet-initiative-gegen-sexuelle-belaestigung-a-0ae6fd2c-d301-4903-9cbf-8e22527cddec#ref=rss)
-### sheinbaum
+* [https://www.spiegel.de/politik/deutschland/belgien-bundeswehr-unterstuetzt-belgien-bei-drohnenabwehr](https://www.spiegel.de/politik/deutschland/belgien-bundeswehr-unterstuetzt-belgien-bei-drohnenabwehr-a-94ef9500-a13c-4211-ac2d-4bb3dce58f5a#ref=rss)
+### keiyaa
 
-* [https://www.spiegel.de/panorama/gesellschaft/claudia-sheinbaum-mexikos-praesidentin-startet-initiative-gegen-sexuelle-belaestigung](https://www.spiegel.de/panorama/gesellschaft/claudia-sheinbaum-mexikos-praesidentin-startet-initiative-gegen-sexuelle-belaestigung-a-0ae6fd2c-d301-4903-9cbf-8e22527cddec#ref=rss)
-### mexikos
+* [https://www.spiegel.de/kultur/musik/album-der-woche-keiyaa-snocaps-kadavar-kali-malone-drew-mcdowall](https://www.spiegel.de/kultur/musik/album-der-woche-keiyaa-snocaps-kadavar-kali-malone-drew-mcdowall-a-fa4051e9-1e26-49b9-8a83-16203d95d92c#ref=rss)
+### kadavar
 
-* [https://www.spiegel.de/panorama/gesellschaft/claudia-sheinbaum-mexikos-praesidentin-startet-initiative-gegen-sexuelle-belaestigung](https://www.spiegel.de/panorama/gesellschaft/claudia-sheinbaum-mexikos-praesidentin-startet-initiative-gegen-sexuelle-belaestigung-a-0ae6fd2c-d301-4903-9cbf-8e22527cddec#ref=rss)
-### präsidentin
+* [https://www.spiegel.de/kultur/musik/album-der-woche-keiyaa-snocaps-kadavar-kali-malone-drew-mcdowall](https://www.spiegel.de/kultur/musik/album-der-woche-keiyaa-snocaps-kadavar-kali-malone-drew-mcdowall-a-fa4051e9-1e26-49b9-8a83-16203d95d92c#ref=rss)
+### neues
 
-* [https://www.spiegel.de/panorama/gesellschaft/claudia-sheinbaum-mexikos-praesidentin-startet-initiative-gegen-sexuelle-belaestigung](https://www.spiegel.de/panorama/gesellschaft/claudia-sheinbaum-mexikos-praesidentin-startet-initiative-gegen-sexuelle-belaestigung-a-0ae6fd2c-d301-4903-9cbf-8e22527cddec#ref=rss)
-### ronaldo
+* [https://www.spiegel.de/kultur/musik/album-der-woche-keiyaa-snocaps-kadavar-kali-malone-drew-mcdowall](https://www.spiegel.de/kultur/musik/album-der-woche-keiyaa-snocaps-kadavar-kali-malone-drew-mcdowall-a-fa4051e9-1e26-49b9-8a83-16203d95d92c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/p8-a-poseidon-bundeswehr-bekommt-neue-u-boot-jaeger](https://www.spiegel.de/politik/deutschland/p8-a-poseidon-bundeswehr-bekommt-neue-u-boot-jaeger-a-d62dab1a-4f1f-4828-9aeb-7eee99a0ac0a#ref=rss)
+### taliban
 
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-kommentar-ronaldo-sieht-sich-ueber-messi-und-trump](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-kommentar-ronaldo-sieht-sich-ueber-messi-und-trump-a-90020d5e-810b-435b-a9d0-5131eb086adb#ref=rss)
-### messi
+* [https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast](https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast-a-ff4a0e9f-6821-4b54-a393-e58fdaf7e40f#ref=rss)
+### afghanistan
 
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-kommentar-ronaldo-sieht-sich-ueber-messi-und-trump](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-kommentar-ronaldo-sieht-sich-ueber-messi-und-trump-a-90020d5e-810b-435b-a9d0-5131eb086adb#ref=rss)
-### donald
+* [https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast](https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast-a-ff4a0e9f-6821-4b54-a393-e58fdaf7e40f#ref=rss)
+### herrschen
 
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-kommentar-ronaldo-sieht-sich-ueber-messi-und-trump](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-kommentar-ronaldo-sieht-sich-ueber-messi-und-trump-a-90020d5e-810b-435b-a9d0-5131eb086adb#ref=rss)
-* [https://www.spiegel.de/ausland/klimagipfel-cop30-in-brasilien-wer-schert-sich-noch-um-donald-trump-meinung](https://www.spiegel.de/ausland/klimagipfel-cop30-in-brasilien-wer-schert-sich-noch-um-donald-trump-meinung-a-e24c7c55-fd38-4f1b-93af-024a05f1818c#ref=rss)
-### babo
+* [https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast](https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast-a-ff4a0e9f-6821-4b54-a393-e58fdaf7e40f#ref=rss)
+### podcast
 
-* [https://www.spiegel.de/kultur/haftbefehl-biopic-babo-auf-netflix-als-dokumentarfilmer-ist-man-nun-mal-voyeur](https://www.spiegel.de/kultur/haftbefehl-biopic-babo-auf-netflix-als-dokumentarfilmer-ist-man-nun-mal-voyeur-a-8fcfbe67-bb80-4530-8c9d-ddd8c98c44fa#ref=rss)
-### zeigt
+* [https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast](https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast-a-ff4a0e9f-6821-4b54-a393-e58fdaf7e40f#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+### rund
 
-* [https://www.spiegel.de/kultur/haftbefehl-biopic-babo-auf-netflix-als-dokumentarfilmer-ist-man-nun-mal-voyeur](https://www.spiegel.de/kultur/haftbefehl-biopic-babo-auf-netflix-als-dokumentarfilmer-ist-man-nun-mal-voyeur-a-8fcfbe67-bb80-4530-8c9d-ddd8c98c44fa#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-ahmed-abu-mutair-der-techniker-der-fuer-eine-zdf-partnerfirma-arbeitete-und-offenbar-hamas-mitglied-war](https://www.spiegel.de/ausland/gaza-ahmed-abu-mutair-der-techniker-der-fuer-eine-zdf-partnerfirma-arbeitete-und-offenbar-hamas-mitglied-war-a-d3140169-4152-40ae-bd86-1e70fb4614b7#ref=rss)
-### verändert
+* [https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast](https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast-a-ff4a0e9f-6821-4b54-a393-e58fdaf7e40f#ref=rss)
+* [https://www.spiegel.de/geschichte/zuerich-was-ist-eine-historische-goldmuenze-zwei-millionen-euro-wert](https://www.spiegel.de/geschichte/zuerich-was-ist-eine-historische-goldmuenze-zwei-millionen-euro-wert-a-2b8c5d34-5d5e-4af1-bf11-af52e2c56d74#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/kultur/haftbefehl-biopic-babo-auf-netflix-als-dokumentarfilmer-ist-man-nun-mal-voyeur](https://www.spiegel.de/kultur/haftbefehl-biopic-babo-auf-netflix-als-dokumentarfilmer-ist-man-nun-mal-voyeur-a-8fcfbe67-bb80-4530-8c9d-ddd8c98c44fa#ref=rss)
-* [https://www.spiegel.de/panorama/wehrdienst-wie-eine-fussoperation-meine-sicht-auf-den-kriegsdienst-veraendert](https://www.spiegel.de/panorama/wehrdienst-wie-eine-fussoperation-meine-sicht-auf-den-kriegsdienst-veraendert-a-41ccff33-127b-4dcd-aee9-1a0986e6b65d#ref=rss)
-### hanau
+* [https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast](https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast-a-ff4a0e9f-6821-4b54-a393-e58fdaf7e40f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/delfinsterben-im-amazonas-2023-diese-gruende-fuehrten-zur-katastrophe](https://www.spiegel.de/wissenschaft/delfinsterben-im-amazonas-2023-diese-gruende-fuehrten-zur-katastrophe-a-a32cec40-75da-432f-ab7d-7cf34156262a#ref=rss)
+### männer
 
-* [https://www.spiegel.de/panorama/justiz/hanau-blutige-hakenkreuzschmierereien-auf-autos-und-hauswaenden-verdaechtiger-gefasst](https://www.spiegel.de/panorama/justiz/hanau-blutige-hakenkreuzschmierereien-auf-autos-und-hauswaenden-verdaechtiger-gefasst-a-74968a45-e20d-4d43-b820-108d7572d94b#ref=rss)
-### autos
+* [https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast](https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast-a-ff4a0e9f-6821-4b54-a393-e58fdaf7e40f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-pfarrerin-lena-mueller-feiert-polyhochzeit-mit-vier-maennern](https://www.spiegel.de/panorama/gesellschaft/berlin-pfarrerin-lena-mueller-feiert-polyhochzeit-mit-vier-maennern-a-e0d09114-f016-434b-b3dd-dd23471a02e8#ref=rss)
+### immerzu
 
-* [https://www.spiegel.de/panorama/justiz/hanau-blutige-hakenkreuzschmierereien-auf-autos-und-hauswaenden-verdaechtiger-gefasst](https://www.spiegel.de/panorama/justiz/hanau-blutige-hakenkreuzschmierereien-auf-autos-und-hauswaenden-verdaechtiger-gefasst-a-74968a45-e20d-4d43-b820-108d7572d94b#ref=rss)
-### china
+* [https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast](https://www.spiegel.de/ausland/taliban-wie-die-islamisten-in-afghanistan-herrschen-podcast-a-ff4a0e9f-6821-4b54-a393-e58fdaf7e40f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/forscher-finden-groesstes-bekanntes-spinnennetz-der-welt](https://www.spiegel.de/wissenschaft/forscher-finden-groesstes-bekanntes-spinnennetz-der-welt-a-df7f7e6b-e66f-40fd-bd20-2f136a9e2455#ref=rss)
+### bundespolizei
 
-* [https://www.spiegel.de/ausland/china-stellt-dritten-flugzeugtraeger-fujian-in-dienst](https://www.spiegel.de/ausland/china-stellt-dritten-flugzeugtraeger-fujian-in-dienst-a-2f499f47-ebb3-4486-a868-9f7d50ab3c9d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-handelskonflikt-mit-usa-fuehrt-zu-export-rueckgang](https://www.spiegel.de/wirtschaft/unternehmen/china-handelskonflikt-mit-usa-fuehrt-zu-export-rueckgang-a-ab11151b-5316-4706-a5d9-6159689eee0d#ref=rss)
-### flugzeugträger
+* [https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-bundespolizei-stoppt-lebensgefaehrliche-schleusungen](https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-bundespolizei-stoppt-lebensgefaehrliche-schleusungen-a-eef0d9e1-650d-4292-a69a-fc80563423fe#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/china-stellt-dritten-flugzeugtraeger-fujian-in-dienst](https://www.spiegel.de/ausland/china-stellt-dritten-flugzeugtraeger-fujian-in-dienst-a-2f499f47-ebb3-4486-a868-9f7d50ab3c9d#ref=rss)
-### fujian
+* [https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-bundespolizei-stoppt-lebensgefaehrliche-schleusungen](https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-bundespolizei-stoppt-lebensgefaehrliche-schleusungen-a-eef0d9e1-650d-4292-a69a-fc80563423fe#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-pfarrerin-lena-mueller-feiert-polyhochzeit-mit-vier-maennern](https://www.spiegel.de/panorama/gesellschaft/berlin-pfarrerin-lena-mueller-feiert-polyhochzeit-mit-vier-maennern-a-e0d09114-f016-434b-b3dd-dd23471a02e8#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/ausland/china-stellt-dritten-flugzeugtraeger-fujian-in-dienst](https://www.spiegel.de/ausland/china-stellt-dritten-flugzeugtraeger-fujian-in-dienst-a-2f499f47-ebb3-4486-a868-9f7d50ab3c9d#ref=rss)
-### dienst
+* [https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-bundespolizei-stoppt-lebensgefaehrliche-schleusungen](https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-bundespolizei-stoppt-lebensgefaehrliche-schleusungen-a-eef0d9e1-650d-4292-a69a-fc80563423fe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bayern-mann-schickt-freund-zum-vaterschaftstest-um-keinen-unterhalt-zahlen-zu-muessen](https://www.spiegel.de/panorama/justiz/bayern-mann-schickt-freund-zum-vaterschaftstest-um-keinen-unterhalt-zahlen-zu-muessen-a-8a2ecfd2-973f-4bf1-8cf0-5e4888d2bbbe#ref=rss)
+### endet
 
-* [https://www.spiegel.de/ausland/china-stellt-dritten-flugzeugtraeger-fujian-in-dienst](https://www.spiegel.de/ausland/china-stellt-dritten-flugzeugtraeger-fujian-in-dienst-a-2f499f47-ebb3-4486-a868-9f7d50ab3c9d#ref=rss)
-### journalisten
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### tobt
 
-* [https://www.spiegel.de/politik/deutschland/beleidigung-journalisten-verdienen-keinen-besseren-schutz-als-polizisten-oder-bademeister](https://www.spiegel.de/politik/deutschland/beleidigung-journalisten-verdienen-keinen-besseren-schutz-als-polizisten-oder-bademeister-a-aac672fd-0753-40c2-b1d8-97e89ab87e27#ref=rss)
-### polizisten
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### berichte
 
-* [https://www.spiegel.de/politik/deutschland/beleidigung-journalisten-verdienen-keinen-besseren-schutz-als-polizisten-oder-bademeister](https://www.spiegel.de/politik/deutschland/beleidigung-journalisten-verdienen-keinen-besseren-schutz-als-polizisten-oder-bademeister-a-aac672fd-0753-40c2-b1d8-97e89ab87e27#ref=rss)
-### beleidigen
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### massaker
 
-* [https://www.spiegel.de/politik/deutschland/beleidigung-journalisten-verdienen-keinen-besseren-schutz-als-polizisten-oder-bademeister](https://www.spiegel.de/politik/deutschland/beleidigung-journalisten-verdienen-keinen-besseren-schutz-als-polizisten-oder-bademeister-a-aac672fd-0753-40c2-b1d8-97e89ab87e27#ref=rss)
-### parlamentspräsident
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### vergewaltigungen
 
-* [https://www.spiegel.de/ausland/tschechien-parlamentspraesident-tomio-okamura-entfernt-ukrainische-flagge-und-sorgt-fuer-kritik](https://www.spiegel.de/ausland/tschechien-parlamentspraesident-tomio-okamura-entfernt-ukrainische-flagge-und-sorgt-fuer-kritik-a-5b727243-eac0-4a1d-9a9a-376e7a13d8ff#ref=rss)
-### tomio
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### hunger
 
-* [https://www.spiegel.de/ausland/tschechien-parlamentspraesident-tomio-okamura-entfernt-ukrainische-flagge-und-sorgt-fuer-kritik](https://www.spiegel.de/ausland/tschechien-parlamentspraesident-tomio-okamura-entfernt-ukrainische-flagge-und-sorgt-fuer-kritik-a-5b727243-eac0-4a1d-9a9a-376e7a13d8ff#ref=rss)
-### okamura
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### zeigen
 
-* [https://www.spiegel.de/ausland/tschechien-parlamentspraesident-tomio-okamura-entfernt-ukrainische-flagge-und-sorgt-fuer-kritik](https://www.spiegel.de/ausland/tschechien-parlamentspraesident-tomio-okamura-entfernt-ukrainische-flagge-und-sorgt-fuer-kritik-a-5b727243-eac0-4a1d-9a9a-376e7a13d8ff#ref=rss)
-### sorgt
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### dramatische
 
-* [https://www.spiegel.de/ausland/tschechien-parlamentspraesident-tomio-okamura-entfernt-ukrainische-flagge-und-sorgt-fuer-kritik](https://www.spiegel.de/ausland/tschechien-parlamentspraesident-tomio-okamura-entfernt-ukrainische-flagge-und-sorgt-fuer-kritik-a-5b727243-eac0-4a1d-9a9a-376e7a13d8ff#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/vietnam-taifun-kalmaegi-sorgt-fuer-zerstoerung-mindestens-fuenf-menschen-sterben](https://www.spiegel.de/panorama/gesellschaft/vietnam-taifun-kalmaegi-sorgt-fuer-zerstoerung-mindestens-fuenf-menschen-sterben-a-7ed63714-7740-4539-8878-56690cdc7e2e#ref=rss)
-### kritik
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### europa
 
-* [https://www.spiegel.de/ausland/tschechien-parlamentspraesident-tomio-okamura-entfernt-ukrainische-flagge-und-sorgt-fuer-kritik](https://www.spiegel.de/ausland/tschechien-parlamentspraesident-tomio-okamura-entfernt-ukrainische-flagge-und-sorgt-fuer-kritik-a-5b727243-eac0-4a1d-9a9a-376e7a13d8ff#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-uno-sicherheitsrat-hebt-sanktionen-gegen-ahmed-al-sharaa-auf](https://www.spiegel.de/ausland/syrien-uno-sicherheitsrat-hebt-sanktionen-gegen-ahmed-al-sharaa-auf-a-b8ccda2b-3c60-48f3-b160-8adb5e00ac80#ref=rss)
-### facebookkonzern
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### weitgehend
 
-* [https://www.spiegel.de/netzwelt/web/meta-facebook-konzern-macht-milliarden-mit-betruegerischer-onlinewerbung](https://www.spiegel.de/netzwelt/web/meta-facebook-konzern-macht-milliarden-mit-betruegerischer-onlinewerbung-a-0076fafb-5984-4b04-9f11-7653847176b5#ref=rss)
-### lehrer
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### untätig
 
-* [https://www.spiegel.de/panorama/justiz/saale-orla-kreis-lehrer-wegen-missbrauchsvorwuerfen-verhaftet](https://www.spiegel.de/panorama/justiz/saale-orla-kreis-lehrer-wegen-missbrauchsvorwuerfen-verhaftet-a-486fdd8d-605a-4c3a-be42-4759672b6ec0#ref=rss)
-### verhaftet
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### bleibt
 
-* [https://www.spiegel.de/panorama/justiz/saale-orla-kreis-lehrer-wegen-missbrauchsvorwuerfen-verhaftet](https://www.spiegel.de/panorama/justiz/saale-orla-kreis-lehrer-wegen-missbrauchsvorwuerfen-verhaftet-a-486fdd8d-605a-4c3a-be42-4759672b6ec0#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### schüren
 
-* [https://www.spiegel.de/ausland/klimagipfel-cop30-in-brasilien-wer-schert-sich-noch-um-donald-trump-meinung](https://www.spiegel.de/ausland/klimagipfel-cop30-in-brasilien-wer-schert-sich-noch-um-donald-trump-meinung-a-e24c7c55-fd38-4f1b-93af-024a05f1818c#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-uno-sicherheitsrat-hebt-sanktionen-gegen-ahmed-al-sharaa-auf](https://www.spiegel.de/ausland/syrien-uno-sicherheitsrat-hebt-sanktionen-gegen-ahmed-al-sharaa-auf-a-b8ccda2b-3c60-48f3-b160-8adb5e00ac80#ref=rss)
-### gaza
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### andere
 
-* [https://www.spiegel.de/ausland/gaza-ahmed-abu-mutair-der-techniker-der-fuer-eine-zdf-partnerfirma-arbeitete-und-offenbar-hamas-mitglied-war](https://www.spiegel.de/ausland/gaza-ahmed-abu-mutair-der-techniker-der-fuer-eine-zdf-partnerfirma-arbeitete-und-offenbar-hamas-mitglied-war-a-d3140169-4152-40ae-bd86-1e70fb4614b7#ref=rss)
-### ahmed
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### konflikt
 
-* [https://www.spiegel.de/ausland/gaza-ahmed-abu-mutair-der-techniker-der-fuer-eine-zdf-partnerfirma-arbeitete-und-offenbar-hamas-mitglied-war](https://www.spiegel.de/ausland/gaza-ahmed-abu-mutair-der-techniker-der-fuer-eine-zdf-partnerfirma-arbeitete-und-offenbar-hamas-mitglied-war-a-d3140169-4152-40ae-bd86-1e70fb4614b7#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-uno-sicherheitsrat-hebt-sanktionen-gegen-ahmed-al-sharaa-auf](https://www.spiegel.de/ausland/syrien-uno-sicherheitsrat-hebt-sanktionen-gegen-ahmed-al-sharaa-auf-a-b8ccda2b-3c60-48f3-b160-8adb5e00ac80#ref=rss)
-### arbeitete
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### eigene
 
-* [https://www.spiegel.de/ausland/gaza-ahmed-abu-mutair-der-techniker-der-fuer-eine-zdf-partnerfirma-arbeitete-und-offenbar-hamas-mitglied-war](https://www.spiegel.de/ausland/gaza-ahmed-abu-mutair-der-techniker-der-fuer-eine-zdf-partnerfirma-arbeitete-und-offenbar-hamas-mitglied-war-a-d3140169-4152-40ae-bd86-1e70fb4614b7#ref=rss)
-### usa
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### interessen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ukraine-krieg-usa-lassen-verkauf-des-russischen-oel-giganten-lukoil-platzen](https://www.spiegel.de/wirtschaft/unternehmen/ukraine-krieg-usa-lassen-verkauf-des-russischen-oel-giganten-lukoil-platzen-a-6a862158-9d67-49ee-8f2f-abcb1e34f425#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-handelskonflikt-mit-usa-fuehrt-zu-export-rueckgang](https://www.spiegel.de/wirtschaft/unternehmen/china-handelskonflikt-mit-usa-fuehrt-zu-export-rueckgang-a-ab11151b-5316-4706-a5d9-6159689eee0d#ref=rss)
-### lukoil
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-podcast-a-04f8cfa3-0f60-42ae-8bb6-a5c48feafa68#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet](https://www.spiegel.de/ausland/sudan-warum-der-krieg-nicht-endet-a-68f36b15-4bcc-46a9-85f8-3577efae31a4#ref=rss)
+### bsw
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ukraine-krieg-usa-lassen-verkauf-des-russischen-oel-giganten-lukoil-platzen](https://www.spiegel.de/wirtschaft/unternehmen/ukraine-krieg-usa-lassen-verkauf-des-russischen-oel-giganten-lukoil-platzen-a-6a862158-9d67-49ee-8f2f-abcb1e34f425#ref=rss)
-### vietnam
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bsw-syriens-praesident-sharaa-fall-fabian](https://www.spiegel.de/politik/deutschland/news-des-tages-bsw-syriens-praesident-sharaa-fall-fabian-a-76f26bd7-0b76-415b-a4f4-a73d7beb93ff#ref=rss)
+### syriens
 
-* [https://www.spiegel.de/panorama/gesellschaft/vietnam-taifun-kalmaegi-sorgt-fuer-zerstoerung-mindestens-fuenf-menschen-sterben](https://www.spiegel.de/panorama/gesellschaft/vietnam-taifun-kalmaegi-sorgt-fuer-zerstoerung-mindestens-fuenf-menschen-sterben-a-7ed63714-7740-4539-8878-56690cdc7e2e#ref=rss)
-### kalmaegi
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bsw-syriens-praesident-sharaa-fall-fabian](https://www.spiegel.de/politik/deutschland/news-des-tages-bsw-syriens-praesident-sharaa-fall-fabian-a-76f26bd7-0b76-415b-a4f4-a73d7beb93ff#ref=rss)
+### fall
 
-* [https://www.spiegel.de/panorama/gesellschaft/vietnam-taifun-kalmaegi-sorgt-fuer-zerstoerung-mindestens-fuenf-menschen-sterben](https://www.spiegel.de/panorama/gesellschaft/vietnam-taifun-kalmaegi-sorgt-fuer-zerstoerung-mindestens-fuenf-menschen-sterben-a-7ed63714-7740-4539-8878-56690cdc7e2e#ref=rss)
-### eisbachwelle
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bsw-syriens-praesident-sharaa-fall-fabian](https://www.spiegel.de/politik/deutschland/news-des-tages-bsw-syriens-praesident-sharaa-fall-fabian-a-76f26bd7-0b76-415b-a4f4-a73d7beb93ff#ref=rss)
+### fabian
 
-* [https://www.spiegel.de/sport/olympia/eisbachwelle-muenchen-ohne-welle](https://www.spiegel.de/sport/olympia/eisbachwelle-muenchen-ohne-welle-a-1620a307-f31f-4319-a34e-5bb47ee11560#ref=rss)
-### münchen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bsw-syriens-praesident-sharaa-fall-fabian](https://www.spiegel.de/politik/deutschland/news-des-tages-bsw-syriens-praesident-sharaa-fall-fabian-a-76f26bd7-0b76-415b-a4f4-a73d7beb93ff#ref=rss)
+### klonen
 
-* [https://www.spiegel.de/sport/olympia/eisbachwelle-muenchen-ohne-welle](https://www.spiegel.de/sport/olympia/eisbachwelle-muenchen-ohne-welle-a-1620a307-f31f-4319-a34e-5bb47ee11560#ref=rss)
-### timothée
+* [https://www.spiegel.de/panorama/hunde-klonen-wie-tom-brady-und-barbra-streisand-ihre-lieblinge-wiederbelebten](https://www.spiegel.de/panorama/hunde-klonen-wie-tom-brady-und-barbra-streisand-ihre-lieblinge-wiederbelebten-a-b32658d7-ca92-4ff2-86ec-ce4506e4d8a1#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/leute/timothee-chalamet-steht-zu-seiner-enttaeuschung-ueber-verpassten-oscar](https://www.spiegel.de/panorama/leute/timothee-chalamet-steht-zu-seiner-enttaeuschung-ueber-verpassten-oscar-a-f2f08769-7a62-4f3c-b23e-99a25e703830#ref=rss)
-### chalamet
+* [https://www.spiegel.de/panorama/hunde-klonen-wie-tom-brady-und-barbra-streisand-ihre-lieblinge-wiederbelebten](https://www.spiegel.de/panorama/hunde-klonen-wie-tom-brady-und-barbra-streisand-ihre-lieblinge-wiederbelebten-a-b32658d7-ca92-4ff2-86ec-ce4506e4d8a1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesagentur-fuer-arbeit-erwartet-erneut-milliardenloch](https://www.spiegel.de/wirtschaft/bundesagentur-fuer-arbeit-erwartet-erneut-milliardenloch-a-620e1ecb-9436-41cc-aa03-bebd061e874a#ref=rss)
+### reiche
 
-* [https://www.spiegel.de/panorama/leute/timothee-chalamet-steht-zu-seiner-enttaeuschung-ueber-verpassten-oscar](https://www.spiegel.de/panorama/leute/timothee-chalamet-steht-zu-seiner-enttaeuschung-ueber-verpassten-oscar-a-f2f08769-7a62-4f3c-b23e-99a25e703830#ref=rss)
-### carolin
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-trifft-sebastian-kurz-gruene-wollen-auskuenfte-von-wegen-tiroler-geheim-treffens](https://www.spiegel.de/politik/deutschland/katherina-reiche-trifft-sebastian-kurz-gruene-wollen-auskuenfte-von-wegen-tiroler-geheim-treffens-a-add231ad-8199-4764-8e2b-a668b03744ec#ref=rss)
+### kurz
 
-* [https://www.spiegel.de/kultur/carolin-kebekus-ich-muss-das-bild-der-perfekten-mutter-endlich-kaputt-machen](https://www.spiegel.de/kultur/carolin-kebekus-ich-muss-das-bild-der-perfekten-mutter-endlich-kaputt-machen-a-e114738c-9212-4738-8221-54517faa73cf#ref=rss)
-### kebekus
+* [https://www.spiegel.de/politik/deutschland/katherina-reiche-trifft-sebastian-kurz-gruene-wollen-auskuenfte-von-wegen-tiroler-geheim-treffens](https://www.spiegel.de/politik/deutschland/katherina-reiche-trifft-sebastian-kurz-gruene-wollen-auskuenfte-von-wegen-tiroler-geheim-treffens-a-add231ad-8199-4764-8e2b-a668b03744ec#ref=rss)
+### antrag
 
-* [https://www.spiegel.de/kultur/carolin-kebekus-ich-muss-das-bild-der-perfekten-mutter-endlich-kaputt-machen](https://www.spiegel.de/kultur/carolin-kebekus-ich-muss-das-bild-der-perfekten-mutter-endlich-kaputt-machen-a-e114738c-9212-4738-8221-54517faa73cf#ref=rss)
-### ich
+* [https://www.spiegel.de/politik/deutschland/kiel-antrag-der-gruenen-kommt-nur-dank-afd-unterstuetzung-durch](https://www.spiegel.de/politik/deutschland/kiel-antrag-der-gruenen-kommt-nur-dank-afd-unterstuetzung-durch-a-d5869043-983f-4c11-8f66-88292bd99986#ref=rss)
+### afd
 
-* [https://www.spiegel.de/kultur/carolin-kebekus-ich-muss-das-bild-der-perfekten-mutter-endlich-kaputt-machen](https://www.spiegel.de/kultur/carolin-kebekus-ich-muss-das-bild-der-perfekten-mutter-endlich-kaputt-machen-a-e114738c-9212-4738-8221-54517faa73cf#ref=rss)
-* [https://www.spiegel.de/panorama/wehrdienst-wie-eine-fussoperation-meine-sicht-auf-den-kriegsdienst-veraendert](https://www.spiegel.de/panorama/wehrdienst-wie-eine-fussoperation-meine-sicht-auf-den-kriegsdienst-veraendert-a-41ccff33-127b-4dcd-aee9-1a0986e6b65d#ref=rss)
-### mutter
+* [https://www.spiegel.de/politik/deutschland/kiel-antrag-der-gruenen-kommt-nur-dank-afd-unterstuetzung-durch](https://www.spiegel.de/politik/deutschland/kiel-antrag-der-gruenen-kommt-nur-dank-afd-unterstuetzung-durch-a-d5869043-983f-4c11-8f66-88292bd99986#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bad-salzuflen-sabine-reinknecht-afd-zur-stellvertretenden-buergermeisterin-gewaehlt](https://www.spiegel.de/politik/deutschland/bad-salzuflen-sabine-reinknecht-afd-zur-stellvertretenden-buergermeisterin-gewaehlt-a-3b9d988a-b749-431a-b9f0-297491dac573#ref=rss)
+### forscher
 
-* [https://www.spiegel.de/kultur/carolin-kebekus-ich-muss-das-bild-der-perfekten-mutter-endlich-kaputt-machen](https://www.spiegel.de/kultur/carolin-kebekus-ich-muss-das-bild-der-perfekten-mutter-endlich-kaputt-machen-a-e114738c-9212-4738-8221-54517faa73cf#ref=rss)
-### julia
+* [https://www.spiegel.de/wissenschaft/forscher-finden-groesstes-bekanntes-spinnennetz-der-welt](https://www.spiegel.de/wissenschaft/forscher-finden-groesstes-bekanntes-spinnennetz-der-welt-a-df7f7e6b-e66f-40fd-bd20-2f136a9e2455#ref=rss)
+* [https://www.spiegel.de/wissenschaft/delfinsterben-im-amazonas-2023-diese-gruende-fuehrten-zur-katastrophe](https://www.spiegel.de/wissenschaft/delfinsterben-im-amazonas-2023-diese-gruende-fuehrten-zur-katastrophe-a-a32cec40-75da-432f-ab7d-7cf34156262a#ref=rss)
+### khaled
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-julia-simon-darf-nach-kreditkartenbetrug-bei-olympia-starten](https://www.spiegel.de/sport/wintersport/biathlon-julia-simon-darf-nach-kreditkartenbetrug-bei-olympia-starten-a-09d79d6d-09cb-42cc-aa9a-44ee3dd44361#ref=rss)
-### simon
+* [https://www.spiegel.de/kultur/unesco-ex-tourismusminister-khaled-el-enany-zum-generalsekretaer-gewaehlt](https://www.spiegel.de/kultur/unesco-ex-tourismusminister-khaled-el-enany-zum-generalsekretaer-gewaehlt-a-2e765691-be17-41c3-8d85-fbdc11d0dd53#ref=rss)
+### elenany
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-julia-simon-darf-nach-kreditkartenbetrug-bei-olympia-starten](https://www.spiegel.de/sport/wintersport/biathlon-julia-simon-darf-nach-kreditkartenbetrug-bei-olympia-starten-a-09d79d6d-09cb-42cc-aa9a-44ee3dd44361#ref=rss)
-### sehr
+* [https://www.spiegel.de/kultur/unesco-ex-tourismusminister-khaled-el-enany-zum-generalsekretaer-gewaehlt](https://www.spiegel.de/kultur/unesco-ex-tourismusminister-khaled-el-enany-zum-generalsekretaer-gewaehlt-a-2e765691-be17-41c3-8d85-fbdc11d0dd53#ref=rss)
+### gewählt
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-julia-simon-darf-nach-kreditkartenbetrug-bei-olympia-starten](https://www.spiegel.de/sport/wintersport/biathlon-julia-simon-darf-nach-kreditkartenbetrug-bei-olympia-starten-a-09d79d6d-09cb-42cc-aa9a-44ee3dd44361#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/tiktok-im-bundestag-mehr-als-zwei-drittel-aller-abgeordneten-nutzen-die-plattform](https://www.spiegel.de/politik/deutschland/tiktok-im-bundestag-mehr-als-zwei-drittel-aller-abgeordneten-nutzen-die-plattform-a-0f5d8e6d-d939-4f3b-bf3e-669bcd19dd25#ref=rss)
-### fußoperation
+* [https://www.spiegel.de/kultur/unesco-ex-tourismusminister-khaled-el-enany-zum-generalsekretaer-gewaehlt](https://www.spiegel.de/kultur/unesco-ex-tourismusminister-khaled-el-enany-zum-generalsekretaer-gewaehlt-a-2e765691-be17-41c3-8d85-fbdc11d0dd53#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bad-salzuflen-sabine-reinknecht-afd-zur-stellvertretenden-buergermeisterin-gewaehlt](https://www.spiegel.de/politik/deutschland/bad-salzuflen-sabine-reinknecht-afd-zur-stellvertretenden-buergermeisterin-gewaehlt-a-3b9d988a-b749-431a-b9f0-297491dac573#ref=rss)
+### bekommt
 
-* [https://www.spiegel.de/panorama/wehrdienst-wie-eine-fussoperation-meine-sicht-auf-den-kriegsdienst-veraendert](https://www.spiegel.de/panorama/wehrdienst-wie-eine-fussoperation-meine-sicht-auf-den-kriegsdienst-veraendert-a-41ccff33-127b-4dcd-aee9-1a0986e6b65d#ref=rss)
-### mir
+* [https://www.spiegel.de/kultur/unesco-ex-tourismusminister-khaled-el-enany-zum-generalsekretaer-gewaehlt](https://www.spiegel.de/kultur/unesco-ex-tourismusminister-khaled-el-enany-zum-generalsekretaer-gewaehlt-a-2e765691-be17-41c3-8d85-fbdc11d0dd53#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/p8-a-poseidon-bundeswehr-bekommt-neue-u-boot-jaeger](https://www.spiegel.de/politik/deutschland/p8-a-poseidon-bundeswehr-bekommt-neue-u-boot-jaeger-a-d62dab1a-4f1f-4828-9aeb-7eee99a0ac0a#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/panorama/wehrdienst-wie-eine-fussoperation-meine-sicht-auf-den-kriegsdienst-veraendert](https://www.spiegel.de/panorama/wehrdienst-wie-eine-fussoperation-meine-sicht-auf-den-kriegsdienst-veraendert-a-41ccff33-127b-4dcd-aee9-1a0986e6b65d#ref=rss)
-### tiktok
+* [https://www.spiegel.de/kultur/unesco-ex-tourismusminister-khaled-el-enany-zum-generalsekretaer-gewaehlt](https://www.spiegel.de/kultur/unesco-ex-tourismusminister-khaled-el-enany-zum-generalsekretaer-gewaehlt-a-2e765691-be17-41c3-8d85-fbdc11d0dd53#ref=rss)
+* [https://www.spiegel.de/ausland/serbien-parlament-stimmt-fuer-luxushotel-plan-von-donald-trumps-schwiegersohn-an-historischem-ort](https://www.spiegel.de/ausland/serbien-parlament-stimmt-fuer-luxushotel-plan-von-donald-trumps-schwiegersohn-an-historischem-ort-a-9f1c3155-3001-43f5-9288-ba815adf48cb#ref=rss)
+### parlament
 
-* [https://www.spiegel.de/politik/deutschland/tiktok-im-bundestag-mehr-als-zwei-drittel-aller-abgeordneten-nutzen-die-plattform](https://www.spiegel.de/politik/deutschland/tiktok-im-bundestag-mehr-als-zwei-drittel-aller-abgeordneten-nutzen-die-plattform-a-0f5d8e6d-d939-4f3b-bf3e-669bcd19dd25#ref=rss)
-### unosicherheitsrat
+* [https://www.spiegel.de/ausland/serbien-parlament-stimmt-fuer-luxushotel-plan-von-donald-trumps-schwiegersohn-an-historischem-ort](https://www.spiegel.de/ausland/serbien-parlament-stimmt-fuer-luxushotel-plan-von-donald-trumps-schwiegersohn-an-historischem-ort-a-9f1c3155-3001-43f5-9288-ba815adf48cb#ref=rss)
+### stranger
 
-* [https://www.spiegel.de/ausland/syrien-uno-sicherheitsrat-hebt-sanktionen-gegen-ahmed-al-sharaa-auf](https://www.spiegel.de/ausland/syrien-uno-sicherheitsrat-hebt-sanktionen-gegen-ahmed-al-sharaa-auf-a-b8ccda2b-3c60-48f3-b160-8adb5e00ac80#ref=rss)
-### sanktionen
+* [https://www.spiegel.de/kultur/tv/stranger-things-millie-bobby-brown-und-david-harbour-umarmen-sich-bei-premiere-in-hollywood](https://www.spiegel.de/kultur/tv/stranger-things-millie-bobby-brown-und-david-harbour-umarmen-sich-bei-premiere-in-hollywood-a-b32d5b9d-27b0-4b4a-9c69-6e6b00d609f4#ref=rss)
+### things
 
-* [https://www.spiegel.de/ausland/syrien-uno-sicherheitsrat-hebt-sanktionen-gegen-ahmed-al-sharaa-auf](https://www.spiegel.de/ausland/syrien-uno-sicherheitsrat-hebt-sanktionen-gegen-ahmed-al-sharaa-auf-a-b8ccda2b-3c60-48f3-b160-8adb5e00ac80#ref=rss)
+* [https://www.spiegel.de/kultur/tv/stranger-things-millie-bobby-brown-und-david-harbour-umarmen-sich-bei-premiere-in-hollywood](https://www.spiegel.de/kultur/tv/stranger-things-millie-bobby-brown-und-david-harbour-umarmen-sich-bei-premiere-in-hollywood-a-b32d5b9d-27b0-4b4a-9c69-6e6b00d609f4#ref=rss)
+### hollywood
+
+* [https://www.spiegel.de/kultur/tv/stranger-things-millie-bobby-brown-und-david-harbour-umarmen-sich-bei-premiere-in-hollywood](https://www.spiegel.de/kultur/tv/stranger-things-millie-bobby-brown-und-david-harbour-umarmen-sich-bei-premiere-in-hollywood-a-b32d5b9d-27b0-4b4a-9c69-6e6b00d609f4#ref=rss)
+### pfarrerin
+
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-pfarrerin-lena-mueller-feiert-polyhochzeit-mit-vier-maennern](https://www.spiegel.de/panorama/gesellschaft/berlin-pfarrerin-lena-mueller-feiert-polyhochzeit-mit-vier-maennern-a-e0d09114-f016-434b-b3dd-dd23471a02e8#ref=rss)
+### pflegefinanzierung
+
+* [https://www.spiegel.de/panorama/gesellschaft/pflegefinanzierung-wie-behinderte-menschen-fuer-24-stunden-den-senat-blockierten](https://www.spiegel.de/panorama/gesellschaft/pflegefinanzierung-wie-behinderte-menschen-fuer-24-stunden-den-senat-blockierten-a-c590bc9c-cdaf-4a41-a9c0-87052f21a03a#ref=rss)
+### monaten
+
+* [https://www.spiegel.de/panorama/gesellschaft/pflegefinanzierung-wie-behinderte-menschen-fuer-24-stunden-den-senat-blockierten](https://www.spiegel.de/panorama/gesellschaft/pflegefinanzierung-wie-behinderte-menschen-fuer-24-stunden-den-senat-blockierten-a-c590bc9c-cdaf-4a41-a9c0-87052f21a03a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/sachsen-ehemaliger-unterstuetzer-der-rechtsextremen-szene-darf-jurist-werden](https://www.spiegel.de/panorama/justiz/sachsen-ehemaliger-unterstuetzer-der-rechtsextremen-szene-darf-jurist-werden-a-36e2877f-3371-4c0e-8143-56ba60269fca#ref=rss)
+### aktivisten
+
+* [https://www.spiegel.de/panorama/gesellschaft/pflegefinanzierung-wie-behinderte-menschen-fuer-24-stunden-den-senat-blockierten](https://www.spiegel.de/panorama/gesellschaft/pflegefinanzierung-wie-behinderte-menschen-fuer-24-stunden-den-senat-blockierten-a-c590bc9c-cdaf-4a41-a9c0-87052f21a03a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-pro-palaestina-aktivisten-demonstrieren-in-eingangsbereich-des-zdf-hauptstadtstudios](https://www.spiegel.de/panorama/gesellschaft/berlin-pro-palaestina-aktivisten-demonstrieren-in-eingangsbereich-des-zdf-hauptstadtstudios-a-228ff085-659f-4e3d-9f84-ba22034d871b#ref=rss)
+### specht
+
+* [https://www.spiegel.de/wissenschaft/natur/specht-wie-ein-bodybuilder-so-kommt-der-vogel-zu-seiner-erstaunlichen-kraft](https://www.spiegel.de/wissenschaft/natur/specht-wie-ein-bodybuilder-so-kommt-der-vogel-zu-seiner-erstaunlichen-kraft-a-604c6616-40c7-4f70-9adb-b8c52186cc6e#ref=rss)
+### vogel
+
+* [https://www.spiegel.de/wissenschaft/natur/specht-wie-ein-bodybuilder-so-kommt-der-vogel-zu-seiner-erstaunlichen-kraft](https://www.spiegel.de/wissenschaft/natur/specht-wie-ein-bodybuilder-so-kommt-der-vogel-zu-seiner-erstaunlichen-kraft-a-604c6616-40c7-4f70-9adb-b8c52186cc6e#ref=rss)
+### siemens
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/siemens-baut-bis-zu-200-s-bahnen-fuer-die-schweiz](https://www.spiegel.de/wirtschaft/unternehmen/siemens-baut-bis-zu-200-s-bahnen-fuer-die-schweiz-a-a9b8679c-5a5c-4b0c-88b2-9fb4e31637e4#ref=rss)
+### angela
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-ju-chef-johannes-winkel-kritisiert-altkanzlerin-scharf](https://www.spiegel.de/politik/deutschland/angela-merkel-ju-chef-johannes-winkel-kritisiert-altkanzlerin-scharf-a-266944d9-3ff3-4392-a4cd-6af6edd25a8b#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-ju-chef-johannes-winkel-kritisiert-altkanzlerin-scharf](https://www.spiegel.de/politik/deutschland/angela-merkel-ju-chef-johannes-winkel-kritisiert-altkanzlerin-scharf-a-266944d9-3ff3-4392-a4cd-6af6edd25a8b#ref=rss)
+### johannes
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-ju-chef-johannes-winkel-kritisiert-altkanzlerin-scharf](https://www.spiegel.de/politik/deutschland/angela-merkel-ju-chef-johannes-winkel-kritisiert-altkanzlerin-scharf-a-266944d9-3ff3-4392-a4cd-6af6edd25a8b#ref=rss)
+### winkel
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-ju-chef-johannes-winkel-kritisiert-altkanzlerin-scharf](https://www.spiegel.de/politik/deutschland/angela-merkel-ju-chef-johannes-winkel-kritisiert-altkanzlerin-scharf-a-266944d9-3ff3-4392-a4cd-6af6edd25a8b#ref=rss)
+### altkanzlerin
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-ju-chef-johannes-winkel-kritisiert-altkanzlerin-scharf](https://www.spiegel.de/politik/deutschland/angela-merkel-ju-chef-johannes-winkel-kritisiert-altkanzlerin-scharf-a-266944d9-3ff3-4392-a4cd-6af6edd25a8b#ref=rss)
+### erwartet
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-ju-chef-johannes-winkel-kritisiert-altkanzlerin-scharf](https://www.spiegel.de/politik/deutschland/angela-merkel-ju-chef-johannes-winkel-kritisiert-altkanzlerin-scharf-a-266944d9-3ff3-4392-a4cd-6af6edd25a8b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesagentur-fuer-arbeit-erwartet-erneut-milliardenloch](https://www.spiegel.de/wirtschaft/bundesagentur-fuer-arbeit-erwartet-erneut-milliardenloch-a-620e1ecb-9436-41cc-aa03-bebd061e874a#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/bayern-mann-schickt-freund-zum-vaterschaftstest-um-keinen-unterhalt-zahlen-zu-muessen](https://www.spiegel.de/panorama/justiz/bayern-mann-schickt-freund-zum-vaterschaftstest-um-keinen-unterhalt-zahlen-zu-muessen-a-8a2ecfd2-973f-4bf1-8cf0-5e4888d2bbbe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/sachsen-ehemaliger-unterstuetzer-der-rechtsextremen-szene-darf-jurist-werden](https://www.spiegel.de/panorama/justiz/sachsen-ehemaliger-unterstuetzer-der-rechtsextremen-szene-darf-jurist-werden-a-36e2877f-3371-4c0e-8143-56ba60269fca#ref=rss)
+### p8a
+
+* [https://www.spiegel.de/politik/deutschland/p8-a-poseidon-bundeswehr-bekommt-neue-u-boot-jaeger](https://www.spiegel.de/politik/deutschland/p8-a-poseidon-bundeswehr-bekommt-neue-u-boot-jaeger-a-d62dab1a-4f1f-4828-9aeb-7eee99a0ac0a#ref=rss)
+### poseidon
+
+* [https://www.spiegel.de/politik/deutschland/p8-a-poseidon-bundeswehr-bekommt-neue-u-boot-jaeger](https://www.spiegel.de/politik/deutschland/p8-a-poseidon-bundeswehr-bekommt-neue-u-boot-jaeger-a-d62dab1a-4f1f-4828-9aeb-7eee99a0ac0a#ref=rss)
+### neue
+
+* [https://www.spiegel.de/politik/deutschland/p8-a-poseidon-bundeswehr-bekommt-neue-u-boot-jaeger](https://www.spiegel.de/politik/deutschland/p8-a-poseidon-bundeswehr-bekommt-neue-u-boot-jaeger-a-d62dab1a-4f1f-4828-9aeb-7eee99a0ac0a#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-aus-ludwigshafen-mit-ulrike-folkerts-romeo-und-julia-in-der-saumagenhoelle](https://www.spiegel.de/kultur/tv/tatort-aus-ludwigshafen-mit-ulrike-folkerts-romeo-und-julia-in-der-saumagenhoelle-a-99e74c0e-edc0-4799-bf69-ba2c3f6271cf#ref=rss)
+### bad
+
+* [https://www.spiegel.de/politik/deutschland/bad-salzuflen-sabine-reinknecht-afd-zur-stellvertretenden-buergermeisterin-gewaehlt](https://www.spiegel.de/politik/deutschland/bad-salzuflen-sabine-reinknecht-afd-zur-stellvertretenden-buergermeisterin-gewaehlt-a-3b9d988a-b749-431a-b9f0-297491dac573#ref=rss)
+### salzuflen
+
+* [https://www.spiegel.de/politik/deutschland/bad-salzuflen-sabine-reinknecht-afd-zur-stellvertretenden-buergermeisterin-gewaehlt](https://www.spiegel.de/politik/deutschland/bad-salzuflen-sabine-reinknecht-afd-zur-stellvertretenden-buergermeisterin-gewaehlt-a-3b9d988a-b749-431a-b9f0-297491dac573#ref=rss)
+### sabine
+
+* [https://www.spiegel.de/politik/deutschland/bad-salzuflen-sabine-reinknecht-afd-zur-stellvertretenden-buergermeisterin-gewaehlt](https://www.spiegel.de/politik/deutschland/bad-salzuflen-sabine-reinknecht-afd-zur-stellvertretenden-buergermeisterin-gewaehlt-a-3b9d988a-b749-431a-b9f0-297491dac573#ref=rss)
+### reinknecht
+
+* [https://www.spiegel.de/politik/deutschland/bad-salzuflen-sabine-reinknecht-afd-zur-stellvertretenden-buergermeisterin-gewaehlt](https://www.spiegel.de/politik/deutschland/bad-salzuflen-sabine-reinknecht-afd-zur-stellvertretenden-buergermeisterin-gewaehlt-a-3b9d988a-b749-431a-b9f0-297491dac573#ref=rss)
+### bürgermeisterin
+
+* [https://www.spiegel.de/politik/deutschland/bad-salzuflen-sabine-reinknecht-afd-zur-stellvertretenden-buergermeisterin-gewaehlt](https://www.spiegel.de/politik/deutschland/bad-salzuflen-sabine-reinknecht-afd-zur-stellvertretenden-buergermeisterin-gewaehlt-a-3b9d988a-b749-431a-b9f0-297491dac573#ref=rss)
+### kanye
+
+* [https://www.spiegel.de/kultur/musik/kanye-west-bittet-rabbi-pinto-um-vergebung-fuer-antisemitische-tiraden](https://www.spiegel.de/kultur/musik/kanye-west-bittet-rabbi-pinto-um-vergebung-fuer-antisemitische-tiraden-a-4a854675-ea43-435c-b90f-efe2a598737b#ref=rss)
+### west
+
+* [https://www.spiegel.de/kultur/musik/kanye-west-bittet-rabbi-pinto-um-vergebung-fuer-antisemitische-tiraden](https://www.spiegel.de/kultur/musik/kanye-west-bittet-rabbi-pinto-um-vergebung-fuer-antisemitische-tiraden-a-4a854675-ea43-435c-b90f-efe2a598737b#ref=rss)
+### rapper
+
+* [https://www.spiegel.de/kultur/musik/kanye-west-bittet-rabbi-pinto-um-vergebung-fuer-antisemitische-tiraden](https://www.spiegel.de/kultur/musik/kanye-west-bittet-rabbi-pinto-um-vergebung-fuer-antisemitische-tiraden-a-4a854675-ea43-435c-b90f-efe2a598737b#ref=rss)
+### rechtsextremen
+
+* [https://www.spiegel.de/panorama/justiz/sachsen-ehemaliger-unterstuetzer-der-rechtsextremen-szene-darf-jurist-werden](https://www.spiegel.de/panorama/justiz/sachsen-ehemaliger-unterstuetzer-der-rechtsextremen-szene-darf-jurist-werden-a-36e2877f-3371-4c0e-8143-56ba60269fca#ref=rss)
+### jackson
+
+* [https://www.spiegel.de/sport/fussball/jackson-irvine-aufsichtsrat-von-st-pauli-bestraft-nach-instagram-kritik](https://www.spiegel.de/sport/fussball/jackson-irvine-aufsichtsrat-von-st-pauli-bestraft-nach-instagram-kritik-a-67863cde-dab5-47e0-8595-38145b29a522#ref=rss)
+### irvine
+
+* [https://www.spiegel.de/sport/fussball/jackson-irvine-aufsichtsrat-von-st-pauli-bestraft-nach-instagram-kritik](https://www.spiegel.de/sport/fussball/jackson-irvine-aufsichtsrat-von-st-pauli-bestraft-nach-instagram-kritik-a-67863cde-dab5-47e0-8595-38145b29a522#ref=rss)
+### aufsichtsrat
+
+* [https://www.spiegel.de/sport/fussball/jackson-irvine-aufsichtsrat-von-st-pauli-bestraft-nach-instagram-kritik](https://www.spiegel.de/sport/fussball/jackson-irvine-aufsichtsrat-von-st-pauli-bestraft-nach-instagram-kritik-a-67863cde-dab5-47e0-8595-38145b29a522#ref=rss)
+### bundesagentur
+
+* [https://www.spiegel.de/wirtschaft/bundesagentur-fuer-arbeit-erwartet-erneut-milliardenloch](https://www.spiegel.de/wirtschaft/bundesagentur-fuer-arbeit-erwartet-erneut-milliardenloch-a-620e1ecb-9436-41cc-aa03-bebd061e874a#ref=rss)
+### arbeit
+
+* [https://www.spiegel.de/wirtschaft/bundesagentur-fuer-arbeit-erwartet-erneut-milliardenloch](https://www.spiegel.de/wirtschaft/bundesagentur-fuer-arbeit-erwartet-erneut-milliardenloch-a-620e1ecb-9436-41cc-aa03-bebd061e874a#ref=rss)
+### amazonas
+
+* [https://www.spiegel.de/wissenschaft/delfinsterben-im-amazonas-2023-diese-gruende-fuehrten-zur-katastrophe](https://www.spiegel.de/wissenschaft/delfinsterben-im-amazonas-2023-diese-gruende-fuehrten-zur-katastrophe-a-a32cec40-75da-432f-ab7d-7cf34156262a#ref=rss)
+### erklären
+
+* [https://www.spiegel.de/wissenschaft/delfinsterben-im-amazonas-2023-diese-gruende-fuehrten-zur-katastrophe](https://www.spiegel.de/wissenschaft/delfinsterben-im-amazonas-2023-diese-gruende-fuehrten-zur-katastrophe-a-a32cec40-75da-432f-ab7d-7cf34156262a#ref=rss)
+* [https://www.spiegel.de/geschichte/zuerich-was-ist-eine-historische-goldmuenze-zwei-millionen-euro-wert](https://www.spiegel.de/geschichte/zuerich-was-ist-eine-historische-goldmuenze-zwei-millionen-euro-wert-a-2b8c5d34-5d5e-4af1-bf11-af52e2c56d74#ref=rss)
+### zürich
+
+* [https://www.spiegel.de/geschichte/zuerich-was-ist-eine-historische-goldmuenze-zwei-millionen-euro-wert](https://www.spiegel.de/geschichte/zuerich-was-ist-eine-historische-goldmuenze-zwei-millionen-euro-wert-a-2b8c5d34-5d5e-4af1-bf11-af52e2c56d74#ref=rss)
+### goldmünze
+
+* [https://www.spiegel.de/geschichte/zuerich-was-ist-eine-historische-goldmuenze-zwei-millionen-euro-wert](https://www.spiegel.de/geschichte/zuerich-was-ist-eine-historische-goldmuenze-zwei-millionen-euro-wert-a-2b8c5d34-5d5e-4af1-bf11-af52e2c56d74#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/geschichte/zuerich-was-ist-eine-historische-goldmuenze-zwei-millionen-euro-wert](https://www.spiegel.de/geschichte/zuerich-was-ist-eine-historische-goldmuenze-zwei-millionen-euro-wert-a-2b8c5d34-5d5e-4af1-bf11-af52e2c56d74#ref=rss)
+### euro
+
+* [https://www.spiegel.de/geschichte/zuerich-was-ist-eine-historische-goldmuenze-zwei-millionen-euro-wert](https://www.spiegel.de/geschichte/zuerich-was-ist-eine-historische-goldmuenze-zwei-millionen-euro-wert-a-2b8c5d34-5d5e-4af1-bf11-af52e2c56d74#ref=rss)
+### wert
+
+* [https://www.spiegel.de/geschichte/zuerich-was-ist-eine-historische-goldmuenze-zwei-millionen-euro-wert](https://www.spiegel.de/geschichte/zuerich-was-ist-eine-historische-goldmuenze-zwei-millionen-euro-wert-a-2b8c5d34-5d5e-4af1-bf11-af52e2c56d74#ref=rss)
+### zdf
+
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-pro-palaestina-aktivisten-demonstrieren-in-eingangsbereich-des-zdf-hauptstadtstudios](https://www.spiegel.de/panorama/gesellschaft/berlin-pro-palaestina-aktivisten-demonstrieren-in-eingangsbereich-des-zdf-hauptstadtstudios-a-228ff085-659f-4e3d-9f84-ba22034d871b#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/kultur/tv/tatort-aus-ludwigshafen-mit-ulrike-folkerts-romeo-und-julia-in-der-saumagenhoelle](https://www.spiegel.de/kultur/tv/tatort-aus-ludwigshafen-mit-ulrike-folkerts-romeo-und-julia-in-der-saumagenhoelle-a-99e74c0e-edc0-4799-bf69-ba2c3f6271cf#ref=rss)
+### unterstützt
+
+* [https://www.spiegel.de/politik/deutschland/belgien-bundeswehr-unterstuetzt-belgien-bei-drohnenabwehr](https://www.spiegel.de/politik/deutschland/belgien-bundeswehr-unterstuetzt-belgien-bei-drohnenabwehr-a-94ef9500-a13c-4211-ac2d-4bb3dce58f5a#ref=rss)
+### drohnenabwehr
+
+* [https://www.spiegel.de/politik/deutschland/belgien-bundeswehr-unterstuetzt-belgien-bei-drohnenabwehr](https://www.spiegel.de/politik/deutschland/belgien-bundeswehr-unterstuetzt-belgien-bei-drohnenabwehr-a-94ef9500-a13c-4211-ac2d-4bb3dce58f5a#ref=rss)
 
