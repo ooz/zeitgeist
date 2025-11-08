@@ -4,377 +4,331 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
+### bayern
 
-* [https://www.spiegel.de/kultur/louvre-raub-fuer-netflix-abdoul-und-die-klunker-der-kaiserin](https://www.spiegel.de/kultur/louvre-raub-fuer-netflix-abdoul-und-die-klunker-der-kaiserin-a-d5e67927-d054-446e-b6dd-62d682743f59#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop30-in-belem-kampf-der-welten-oellaender-gegen-elektrostaaten](https://www.spiegel.de/wissenschaft/cop30-in-belem-kampf-der-welten-oellaender-gegen-elektrostaaten-a-0d63208b-c980-42c4-8988-01a6d7d3cada#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-droht-mit-us-boykott-des-g20-gipfels-in-suedafrika](https://www.spiegel.de/ausland/donald-trump-droht-mit-us-boykott-des-g20-gipfels-in-suedafrika-a-9bcba37a-b19f-433d-ba9d-594d569b293e#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-gericht-lehnt-berufung-von-jair-bolsonaro-ab](https://www.spiegel.de/ausland/brasilien-gericht-lehnt-berufung-von-jair-bolsonaro-ab-a-7b389011-dc2e-440f-aec4-dc14ef2ba316#ref=rss)
-### merz
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin-a-5491c764-f3eb-45e9-9ef5-2b88fbcc17ec#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unentschieden-bei-union-berlin-neuer-patzt-beim-gegentor](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unentschieden-bei-union-berlin-neuer-patzt-beim-gegentor-a-c4406701-00a4-453a-8403-6fc2157db27e#ref=rss)
+* [https://www.spiegel.de/panorama/us-militaer-in-bayern-empfahl-truppe-gang-zur-tafel](https://www.spiegel.de/panorama/us-militaer-in-bayern-empfahl-truppe-gang-zur-tafel-a-6f366675-c1aa-465a-9a46-2379fb73c2fc#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-sehnsucht-nach-der-aera-der-deutschen-queen-mum](https://www.spiegel.de/politik/deutschland/angela-merkel-sehnsucht-nach-der-aera-der-deutschen-queen-mum-a-cbb32b93-cf34-4d5a-b4a1-000c6ef1a872#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cop30-in-brasilien-friedrich-merz-und-die-verpasste-chance-als-klimakanzler](https://www.spiegel.de/politik/deutschland/cop30-in-brasilien-friedrich-merz-und-die-verpasste-chance-als-klimakanzler-a-1f2adba7-6d7f-4ad1-961c-670f87e85344#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-das-klima-kriegsangst-auf-spitzbergen-stefan-gelbhaar-plant-comeback](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-das-klima-kriegsangst-auf-spitzbergen-stefan-gelbhaar-plant-comeback-a-bf971a9a-52ef-4334-afe7-2cb81932874d#ref=rss)
-### sieht
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin-a-5491c764-f3eb-45e9-9ef5-2b88fbcc17ec#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unentschieden-bei-union-berlin-neuer-patzt-beim-gegentor](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unentschieden-bei-union-berlin-neuer-patzt-beim-gegentor-a-c4406701-00a4-453a-8403-6fc2157db27e#ref=rss)
+* [https://www.spiegel.de/politik/berlin-stefan-gelbhaar-scheitert-bei-nominierung-fuer-abgeordnetenhaus](https://www.spiegel.de/politik/berlin-stefan-gelbhaar-scheitert-bei-nominierung-fuer-abgeordnetenhaus-a-c69606bb-f8ac-45e1-8c62-6f241983a09c#ref=rss)
+### ich
 
-* [https://www.spiegel.de/ausland/los-angeles-grenzbeamte-fahren-mit-kind-von-verdaechtigem-davon](https://www.spiegel.de/ausland/los-angeles-grenzbeamte-fahren-mit-kind-von-verdaechtigem-davon-a-fa8ee380-f8ab-4705-9450-735e157533e7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/joachim-gauck-alt-bundespraesident-warnt-vor-importiertem-antisemitismus](https://www.spiegel.de/politik/deutschland/joachim-gauck-alt-bundespraesident-warnt-vor-importiertem-antisemitismus-a-00665343-652d-4dfc-bed3-6860d8933df5#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-droht-mit-us-boykott-des-g20-gipfels-in-suedafrika](https://www.spiegel.de/ausland/donald-trump-droht-mit-us-boykott-des-g20-gipfels-in-suedafrika-a-9bcba37a-b19f-433d-ba9d-594d569b293e#ref=rss)
-### kampf
+* [https://www.spiegel.de/start/psychologie-niemand-sagt-dir-wie-weh-der-auszug-aus-der-ersten-eigenen-wohnung-tut](https://www.spiegel.de/start/psychologie-niemand-sagt-dir-wie-weh-der-auszug-aus-der-ersten-eigenen-wohnung-tut-a-3ca93f9b-9aa8-429a-8800-5b9a1bbcee68#ref=rss)
+* [https://www.spiegel.de/kultur/musik/patti-smith-alle-meine-maenner-sind-tot-aber-was-soll-man-machen-so-ist-es-eben](https://www.spiegel.de/kultur/musik/patti-smith-alle-meine-maenner-sind-tot-aber-was-soll-man-machen-so-ist-es-eben-a-f9873608-96d7-4f82-b83e-f3aabf155bd8#ref=rss)
+* [https://www.spiegel.de/familie/laterne-laufen-mit-kindern-rabimmel-rabammel-rabumm](https://www.spiegel.de/familie/laterne-laufen-mit-kindern-rabimmel-rabammel-rabumm-a-33700b78-ec3c-45f8-b5ed-52f320976bff#ref=rss)
+### fc
 
-* [https://www.spiegel.de/wissenschaft/cop30-in-belem-kampf-der-welten-oellaender-gegen-elektrostaaten](https://www.spiegel.de/wissenschaft/cop30-in-belem-kampf-der-welten-oellaender-gegen-elektrostaaten-a-0d63208b-c980-42c4-8988-01a6d7d3cada#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/joachim-gauck-alt-bundespraesident-warnt-vor-importiertem-antisemitismus](https://www.spiegel.de/politik/deutschland/joachim-gauck-alt-bundespraesident-warnt-vor-importiertem-antisemitismus-a-00665343-652d-4dfc-bed3-6860d8933df5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cop30-in-brasilien-friedrich-merz-und-die-verpasste-chance-als-klimakanzler](https://www.spiegel.de/politik/deutschland/cop30-in-brasilien-friedrich-merz-und-die-verpasste-chance-als-klimakanzler-a-1f2adba7-6d7f-4ad1-961c-670f87e85344#ref=rss)
-### friedrich
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin-a-5491c764-f3eb-45e9-9ef5-2b88fbcc17ec#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unentschieden-bei-union-berlin-neuer-patzt-beim-gegentor](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unentschieden-bei-union-berlin-neuer-patzt-beim-gegentor-a-c4406701-00a4-453a-8403-6fc2157db27e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-erobert-tabellenspitze-nach-sieg-gegen-elversberg](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-erobert-tabellenspitze-nach-sieg-gegen-elversberg-a-4d26b9c2-2799-410d-a2ad-a7c000153dba#ref=rss)
+### union
 
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-sehnsucht-nach-der-aera-der-deutschen-queen-mum](https://www.spiegel.de/politik/deutschland/angela-merkel-sehnsucht-nach-der-aera-der-deutschen-queen-mum-a-cbb32b93-cf34-4d5a-b4a1-000c6ef1a872#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cop30-in-brasilien-friedrich-merz-und-die-verpasste-chance-als-klimakanzler](https://www.spiegel.de/politik/deutschland/cop30-in-brasilien-friedrich-merz-und-die-verpasste-chance-als-klimakanzler-a-1f2adba7-6d7f-4ad1-961c-670f87e85344#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-das-klima-kriegsangst-auf-spitzbergen-stefan-gelbhaar-plant-comeback](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-das-klima-kriegsangst-auf-spitzbergen-stefan-gelbhaar-plant-comeback-a-bf971a9a-52ef-4334-afe7-2cb81932874d#ref=rss)
-### james
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin-a-5491c764-f3eb-45e9-9ef5-2b88fbcc17ec#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unentschieden-bei-union-berlin-neuer-patzt-beim-gegentor](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unentschieden-bei-union-berlin-neuer-patzt-beim-gegentor-a-c4406701-00a4-453a-8403-6fc2157db27e#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/wissenschaft/mensch/james-watson-ist-tot-genie-und-absturz-des-nobelpreistraegers](https://www.spiegel.de/wissenschaft/mensch/james-watson-ist-tot-genie-und-absturz-des-nobelpreistraegers-a-bb0d1c53-6b60-4ea8-b04b-bc2ba60a65a9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/genetische-wissenschaft-james-watson-entschluesseler-der-dna-ist-tot](https://www.spiegel.de/wissenschaft/mensch/genetische-wissenschaft-james-watson-entschluesseler-der-dna-ist-tot-a-fa5839ad-85e8-406f-810a-8b658fd4cd5b#ref=rss)
-### watson
-
-* [https://www.spiegel.de/wissenschaft/mensch/james-watson-ist-tot-genie-und-absturz-des-nobelpreistraegers](https://www.spiegel.de/wissenschaft/mensch/james-watson-ist-tot-genie-und-absturz-des-nobelpreistraegers-a-bb0d1c53-6b60-4ea8-b04b-bc2ba60a65a9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/genetische-wissenschaft-james-watson-entschluesseler-der-dna-ist-tot](https://www.spiegel.de/wissenschaft/mensch/genetische-wissenschaft-james-watson-entschluesseler-der-dna-ist-tot-a-fa5839ad-85e8-406f-810a-8b658fd4cd5b#ref=rss)
-### rund
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen](https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen-a-31372c47-6192-4e61-ac83-73a8e94c2b83#ref=rss)
-* [https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt](https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt-a-2b0836f5-f565-4b49-be5f-eb7d6b4131a5#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-airlines-streichen-wegen-us-haushaltssperre-hunderte-inlandsfluege](https://www.spiegel.de/ausland/shutdown-airlines-streichen-wegen-us-haushaltssperre-hunderte-inlandsfluege-a-ac70a6b1-7e9a-4ebf-815f-41b30002ca0d#ref=rss)
-### wächst
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen](https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen-a-31372c47-6192-4e61-ac83-73a8e94c2b83#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-sehnsucht-nach-der-aera-der-deutschen-queen-mum](https://www.spiegel.de/politik/deutschland/angela-merkel-sehnsucht-nach-der-aera-der-deutschen-queen-mum-a-cbb32b93-cf34-4d5a-b4a1-000c6ef1a872#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-das-klima-kriegsangst-auf-spitzbergen-stefan-gelbhaar-plant-comeback](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-das-klima-kriegsangst-auf-spitzbergen-stefan-gelbhaar-plant-comeback-a-bf971a9a-52ef-4334-afe7-2cb81932874d#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen](https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen-a-31372c47-6192-4e61-ac83-73a8e94c2b83#ref=rss)
-* [https://www.spiegel.de/ausland/israel-siedler-im-westjordanland-attacken-auf-palaestinenser-laut-uno-auf-hoechststand](https://www.spiegel.de/ausland/israel-siedler-im-westjordanland-attacken-auf-palaestinenser-laut-uno-auf-hoechststand-a-57ae2695-40b6-4797-af17-c7a804f6a9bc#ref=rss)
-### familien
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen](https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen-a-31372c47-6192-4e61-ac83-73a8e94c2b83#ref=rss)
-* [https://www.spiegel.de/reise/kambodscha-sie-eroeffnete-ein-waisenhaus-bald-begriff-sie-was-fuer-ein-fehler-das-war](https://www.spiegel.de/reise/kambodscha-sie-eroeffnete-ein-waisenhaus-bald-begriff-sie-was-fuer-ein-fehler-das-war-a-145846b0-e960-4644-ad58-b2aa2715a75f#ref=rss)
-* [https://www.spiegel.de/panorama/gaza-krieg-wie-kann-israel-diesen-schmerz-ueberstehen](https://www.spiegel.de/panorama/gaza-krieg-wie-kann-israel-diesen-schmerz-ueberstehen-a-67573888-4cd9-4711-b135-83c05ddf3c67#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith](https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith-a-a4346ffb-d61c-4167-9fd2-48301fc78d2a#ref=rss)
-* [https://www.spiegel.de/gesundheit/wie-gesunde-ernaehrung-und-guter-schlaf-einander-bedingen-podcast-mit-ingo-fietze](https://www.spiegel.de/gesundheit/wie-gesunde-ernaehrung-und-guter-schlaf-einander-bedingen-podcast-mit-ingo-fietze-a-ba01e7f7-3f66-4101-a1b5-4a564467f7cd#ref=rss)
-* [https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt](https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt-a-2b0836f5-f565-4b49-be5f-eb7d6b4131a5#ref=rss)
-### wir
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith](https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith-a-a4346ffb-d61c-4167-9fd2-48301fc78d2a#ref=rss)
-* [https://www.spiegel.de/gesundheit/wie-gesunde-ernaehrung-und-guter-schlaf-einander-bedingen-podcast-mit-ingo-fietze](https://www.spiegel.de/gesundheit/wie-gesunde-ernaehrung-und-guter-schlaf-einander-bedingen-podcast-mit-ingo-fietze-a-ba01e7f7-3f66-4101-a1b5-4a564467f7cd#ref=rss)
-### guten
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith](https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith-a-a4346ffb-d61c-4167-9fd2-48301fc78d2a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-sehnsucht-nach-der-aera-der-deutschen-queen-mum](https://www.spiegel.de/politik/deutschland/angela-merkel-sehnsucht-nach-der-aera-der-deutschen-queen-mum-a-cbb32b93-cf34-4d5a-b4a1-000c6ef1a872#ref=rss)
-* [https://www.spiegel.de/gesundheit/wie-gesunde-ernaehrung-und-guter-schlaf-einander-bedingen-podcast-mit-ingo-fietze](https://www.spiegel.de/gesundheit/wie-gesunde-ernaehrung-und-guter-schlaf-einander-bedingen-podcast-mit-ingo-fietze-a-ba01e7f7-3f66-4101-a1b5-4a564467f7cd#ref=rss)
-### klunker
-
-* [https://www.spiegel.de/kultur/louvre-raub-fuer-netflix-abdoul-und-die-klunker-der-kaiserin](https://www.spiegel.de/kultur/louvre-raub-fuer-netflix-abdoul-und-die-klunker-der-kaiserin-a-d5e67927-d054-446e-b6dd-62d682743f59#ref=rss)
-* [https://www.spiegel.de/wirtschaft/diamanten-aus-dem-labor-bleibt-der-klunker-ein-statussymbol](https://www.spiegel.de/wirtschaft/diamanten-aus-dem-labor-bleibt-der-klunker-ein-statussymbol-a-2f4fec65-3b64-4c3f-a221-668ac14750b7#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/kultur/louvre-raub-fuer-netflix-abdoul-und-die-klunker-der-kaiserin](https://www.spiegel.de/kultur/louvre-raub-fuer-netflix-abdoul-und-die-klunker-der-kaiserin-a-d5e67927-d054-446e-b6dd-62d682743f59#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop30-in-belem-kampf-der-welten-oellaender-gegen-elektrostaaten](https://www.spiegel.de/wissenschaft/cop30-in-belem-kampf-der-welten-oellaender-gegen-elektrostaaten-a-0d63208b-c980-42c4-8988-01a6d7d3cada#ref=rss)
-* [https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt](https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt-a-2b0836f5-f565-4b49-be5f-eb7d6b4131a5#ref=rss)
-### shutdown
-
-* [https://www.spiegel.de/ausland/usa-supreme-court-stoppt-lebensmittelhilfen-im-shutdown](https://www.spiegel.de/ausland/usa-supreme-court-stoppt-lebensmittelhilfen-im-shutdown-a-8f4b7009-da3b-4c3f-8804-342c6723c240#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-airlines-streichen-wegen-us-haushaltssperre-hunderte-inlandsfluege](https://www.spiegel.de/ausland/shutdown-airlines-streichen-wegen-us-haushaltssperre-hunderte-inlandsfluege-a-ac70a6b1-7e9a-4ebf-815f-41b30002ca0d#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/wirtschaft/diamanten-aus-dem-labor-bleibt-der-klunker-ein-statussymbol](https://www.spiegel.de/wirtschaft/diamanten-aus-dem-labor-bleibt-der-klunker-ein-statussymbol-a-2f4fec65-3b64-4c3f-a221-668ac14750b7#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-gericht-lehnt-berufung-von-jair-bolsonaro-ab](https://www.spiegel.de/ausland/brasilien-gericht-lehnt-berufung-von-jair-bolsonaro-ab-a-7b389011-dc2e-440f-aec4-dc14ef2ba316#ref=rss)
-### brasilien
-
-* [https://www.spiegel.de/politik/deutschland/cop30-in-brasilien-friedrich-merz-und-die-verpasste-chance-als-klimakanzler](https://www.spiegel.de/politik/deutschland/cop30-in-brasilien-friedrich-merz-und-die-verpasste-chance-als-klimakanzler-a-1f2adba7-6d7f-4ad1-961c-670f87e85344#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-gericht-lehnt-berufung-von-jair-bolsonaro-ab](https://www.spiegel.de/ausland/brasilien-gericht-lehnt-berufung-von-jair-bolsonaro-ab-a-7b389011-dc2e-440f-aec4-dc14ef2ba316#ref=rss)
-### los
-
-* [https://www.spiegel.de/ausland/los-angeles-grenzbeamte-fahren-mit-kind-von-verdaechtigem-davon](https://www.spiegel.de/ausland/los-angeles-grenzbeamte-fahren-mit-kind-von-verdaechtigem-davon-a-fa8ee380-f8ab-4705-9450-735e157533e7#ref=rss)
-### angeles
-
-* [https://www.spiegel.de/ausland/los-angeles-grenzbeamte-fahren-mit-kind-von-verdaechtigem-davon](https://www.spiegel.de/ausland/los-angeles-grenzbeamte-fahren-mit-kind-von-verdaechtigem-davon-a-fa8ee380-f8ab-4705-9450-735e157533e7#ref=rss)
-### grenzbeamte
-
-* [https://www.spiegel.de/ausland/los-angeles-grenzbeamte-fahren-mit-kind-von-verdaechtigem-davon](https://www.spiegel.de/ausland/los-angeles-grenzbeamte-fahren-mit-kind-von-verdaechtigem-davon-a-fa8ee380-f8ab-4705-9450-735e157533e7#ref=rss)
-### kind
-
-* [https://www.spiegel.de/ausland/los-angeles-grenzbeamte-fahren-mit-kind-von-verdaechtigem-davon](https://www.spiegel.de/ausland/los-angeles-grenzbeamte-fahren-mit-kind-von-verdaechtigem-davon-a-fa8ee380-f8ab-4705-9450-735e157533e7#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen](https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen-a-31372c47-6192-4e61-ac83-73a8e94c2b83#ref=rss)
-### angewiesen
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen](https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen-a-31372c47-6192-4e61-ac83-73a8e94c2b83#ref=rss)
-* [https://www.spiegel.de/ausland/usa-supreme-court-stoppt-lebensmittelhilfen-im-shutdown](https://www.spiegel.de/ausland/usa-supreme-court-stoppt-lebensmittelhilfen-im-shutdown-a-8f4b7009-da3b-4c3f-8804-342c6723c240#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen](https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen-a-31372c47-6192-4e61-ac83-73a8e94c2b83#ref=rss)
-* [https://www.spiegel.de/reise/kambodscha-sie-eroeffnete-ein-waisenhaus-bald-begriff-sie-was-fuer-ein-fehler-das-war](https://www.spiegel.de/reise/kambodscha-sie-eroeffnete-ein-waisenhaus-bald-begriff-sie-was-fuer-ein-fehler-das-war-a-145846b0-e960-4644-ad58-b2aa2715a75f#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen](https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen-a-31372c47-6192-4e61-ac83-73a8e94c2b83#ref=rss)
-* [https://www.spiegel.de/ausland/nato-chef-mark-rutte-warnt-wladimir-putin-vor-atomwaffeneinsatz](https://www.spiegel.de/ausland/nato-chef-mark-rutte-warnt-wladimir-putin-vor-atomwaffeneinsatz-a-cc199115-a6fb-49f1-8432-98977dee7960#ref=rss)
-### lernen
-
-* [https://www.spiegel.de/sport/american-football/nfl-hype-in-berlin-footballer-im-doener-fieber](https://www.spiegel.de/sport/american-football/nfl-hype-in-berlin-footballer-im-doener-fieber-a-478d1906-a40d-4a42-a2a8-1b33bf3dce36#ref=rss)
-* [https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith](https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith-a-a4346ffb-d61c-4167-9fd2-48301fc78d2a#ref=rss)
-### ernährung
-
-* [https://www.spiegel.de/sport/american-football/nfl-hype-in-berlin-footballer-im-doener-fieber](https://www.spiegel.de/sport/american-football/nfl-hype-in-berlin-footballer-im-doener-fieber-a-478d1906-a40d-4a42-a2a8-1b33bf3dce36#ref=rss)
-* [https://www.spiegel.de/gesundheit/wie-gesunde-ernaehrung-und-guter-schlaf-einander-bedingen-podcast-mit-ingo-fietze](https://www.spiegel.de/gesundheit/wie-gesunde-ernaehrung-und-guter-schlaf-einander-bedingen-podcast-mit-ingo-fietze-a-ba01e7f7-3f66-4101-a1b5-4a564467f7cd#ref=rss)
-### nachrichten
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith](https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith-a-a4346ffb-d61c-4167-9fd2-48301fc78d2a#ref=rss)
-### bürgermeisterin
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith](https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith-a-a4346ffb-d61c-4167-9fd2-48301fc78d2a#ref=rss)
-### patti
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith](https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith-a-a4346ffb-d61c-4167-9fd2-48301fc78d2a#ref=rss)
-### smith
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith](https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith-a-a4346ffb-d61c-4167-9fd2-48301fc78d2a#ref=rss)
-### woche
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith](https://www.spiegel.de/ausland/gute-nachrichten-geldregen-fuer-den-regenwald-herdeckes-buergermeisterin-und-patti-smith-a-a4346ffb-d61c-4167-9fd2-48301fc78d2a#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-so-miserabel-ist-googles-fussball-ticker](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-so-miserabel-ist-googles-fussball-ticker-a-47fd87c1-9ed7-484a-8dc8-52f84b0e4657#ref=rss)
-### louvreraub
-
-* [https://www.spiegel.de/kultur/louvre-raub-fuer-netflix-abdoul-und-die-klunker-der-kaiserin](https://www.spiegel.de/kultur/louvre-raub-fuer-netflix-abdoul-und-die-klunker-der-kaiserin-a-d5e67927-d054-446e-b6dd-62d682743f59#ref=rss)
-### netflix
-
-* [https://www.spiegel.de/kultur/louvre-raub-fuer-netflix-abdoul-und-die-klunker-der-kaiserin](https://www.spiegel.de/kultur/louvre-raub-fuer-netflix-abdoul-und-die-klunker-der-kaiserin-a-d5e67927-d054-446e-b6dd-62d682743f59#ref=rss)
-### abdoul
-
-* [https://www.spiegel.de/kultur/louvre-raub-fuer-netflix-abdoul-und-die-klunker-der-kaiserin](https://www.spiegel.de/kultur/louvre-raub-fuer-netflix-abdoul-und-die-klunker-der-kaiserin-a-d5e67927-d054-446e-b6dd-62d682743f59#ref=rss)
-### kaiserin
-
-* [https://www.spiegel.de/kultur/louvre-raub-fuer-netflix-abdoul-und-die-klunker-der-kaiserin](https://www.spiegel.de/kultur/louvre-raub-fuer-netflix-abdoul-und-die-klunker-der-kaiserin-a-d5e67927-d054-446e-b6dd-62d682743f59#ref=rss)
-### cop30
-
-* [https://www.spiegel.de/wissenschaft/cop30-in-belem-kampf-der-welten-oellaender-gegen-elektrostaaten](https://www.spiegel.de/wissenschaft/cop30-in-belem-kampf-der-welten-oellaender-gegen-elektrostaaten-a-0d63208b-c980-42c4-8988-01a6d7d3cada#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cop30-in-brasilien-friedrich-merz-und-die-verpasste-chance-als-klimakanzler](https://www.spiegel.de/politik/deutschland/cop30-in-brasilien-friedrich-merz-und-die-verpasste-chance-als-klimakanzler-a-1f2adba7-6d7f-4ad1-961c-670f87e85344#ref=rss)
-### belém
-
-* [https://www.spiegel.de/wissenschaft/cop30-in-belem-kampf-der-welten-oellaender-gegen-elektrostaaten](https://www.spiegel.de/wissenschaft/cop30-in-belem-kampf-der-welten-oellaender-gegen-elektrostaaten-a-0d63208b-c980-42c4-8988-01a6d7d3cada#ref=rss)
-### weltklimakonferenz
-
-* [https://www.spiegel.de/wissenschaft/cop30-in-belem-kampf-der-welten-oellaender-gegen-elektrostaaten](https://www.spiegel.de/wissenschaft/cop30-in-belem-kampf-der-welten-oellaender-gegen-elektrostaaten-a-0d63208b-c980-42c4-8988-01a6d7d3cada#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cop30-in-brasilien-friedrich-merz-und-die-verpasste-chance-als-klimakanzler](https://www.spiegel.de/politik/deutschland/cop30-in-brasilien-friedrich-merz-und-die-verpasste-chance-als-klimakanzler-a-1f2adba7-6d7f-4ad1-961c-670f87e85344#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wissenschaft/cop30-in-belem-kampf-der-welten-oellaender-gegen-elektrostaaten](https://www.spiegel.de/wissenschaft/cop30-in-belem-kampf-der-welten-oellaender-gegen-elektrostaaten-a-0d63208b-c980-42c4-8988-01a6d7d3cada#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cop30-in-brasilien-friedrich-merz-und-die-verpasste-chance-als-klimakanzler](https://www.spiegel.de/politik/deutschland/cop30-in-brasilien-friedrich-merz-und-die-verpasste-chance-als-klimakanzler-a-1f2adba7-6d7f-4ad1-961c-670f87e85344#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wissenschaft/cop30-in-belem-kampf-der-welten-oellaender-gegen-elektrostaaten](https://www.spiegel.de/wissenschaft/cop30-in-belem-kampf-der-welten-oellaender-gegen-elektrostaaten-a-0d63208b-c980-42c4-8988-01a6d7d3cada#ref=rss)
-* [https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt](https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt-a-2b0836f5-f565-4b49-be5f-eb7d6b4131a5#ref=rss)
-### sehnsucht
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-sehnsucht-nach-der-aera-der-deutschen-queen-mum](https://www.spiegel.de/politik/deutschland/angela-merkel-sehnsucht-nach-der-aera-der-deutschen-queen-mum-a-cbb32b93-cf34-4d5a-b4a1-000c6ef1a872#ref=rss)
-### ära
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-sehnsucht-nach-der-aera-der-deutschen-queen-mum](https://www.spiegel.de/politik/deutschland/angela-merkel-sehnsucht-nach-der-aera-der-deutschen-queen-mum-a-cbb32b93-cf34-4d5a-b4a1-000c6ef1a872#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/james-watson-ist-tot-genie-und-absturz-des-nobelpreistraegers](https://www.spiegel.de/wissenschaft/mensch/james-watson-ist-tot-genie-und-absturz-des-nobelpreistraegers-a-bb0d1c53-6b60-4ea8-b04b-bc2ba60a65a9#ref=rss)
-### viele
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-sehnsucht-nach-der-aera-der-deutschen-queen-mum](https://www.spiegel.de/politik/deutschland/angela-merkel-sehnsucht-nach-der-aera-der-deutschen-queen-mum-a-cbb32b93-cf34-4d5a-b4a1-000c6ef1a872#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-so-miserabel-ist-googles-fussball-ticker](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-so-miserabel-ist-googles-fussball-ticker-a-47fd87c1-9ed7-484a-8dc8-52f84b0e4657#ref=rss)
-### schlaf
-
-* [https://www.spiegel.de/gesundheit/wie-gesunde-ernaehrung-und-guter-schlaf-einander-bedingen-podcast-mit-ingo-fietze](https://www.spiegel.de/gesundheit/wie-gesunde-ernaehrung-und-guter-schlaf-einander-bedingen-podcast-mit-ingo-fietze-a-ba01e7f7-3f66-4101-a1b5-4a564467f7cd#ref=rss)
-### ingo
-
-* [https://www.spiegel.de/gesundheit/wie-gesunde-ernaehrung-und-guter-schlaf-einander-bedingen-podcast-mit-ingo-fietze](https://www.spiegel.de/gesundheit/wie-gesunde-ernaehrung-und-guter-schlaf-einander-bedingen-podcast-mit-ingo-fietze-a-ba01e7f7-3f66-4101-a1b5-4a564467f7cd#ref=rss)
-### fietze
-
-* [https://www.spiegel.de/gesundheit/wie-gesunde-ernaehrung-und-guter-schlaf-einander-bedingen-podcast-mit-ingo-fietze](https://www.spiegel.de/gesundheit/wie-gesunde-ernaehrung-und-guter-schlaf-einander-bedingen-podcast-mit-ingo-fietze-a-ba01e7f7-3f66-4101-a1b5-4a564467f7cd#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-supreme-court-stoppt-lebensmittelhilfen-im-shutdown](https://www.spiegel.de/ausland/usa-supreme-court-stoppt-lebensmittelhilfen-im-shutdown-a-8f4b7009-da3b-4c3f-8804-342c6723c240#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/ausland/usa-supreme-court-stoppt-lebensmittelhilfen-im-shutdown](https://www.spiegel.de/ausland/usa-supreme-court-stoppt-lebensmittelhilfen-im-shutdown-a-8f4b7009-da3b-4c3f-8804-342c6723c240#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/james-watson-ist-tot-genie-und-absturz-des-nobelpreistraegers](https://www.spiegel.de/wissenschaft/mensch/james-watson-ist-tot-genie-und-absturz-des-nobelpreistraegers-a-bb0d1c53-6b60-4ea8-b04b-bc2ba60a65a9#ref=rss)
-### oberste
-
-* [https://www.spiegel.de/ausland/usa-supreme-court-stoppt-lebensmittelhilfen-im-shutdown](https://www.spiegel.de/ausland/usa-supreme-court-stoppt-lebensmittelhilfen-im-shutdown-a-8f4b7009-da3b-4c3f-8804-342c6723c240#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-gericht-lehnt-berufung-von-jair-bolsonaro-ab](https://www.spiegel.de/ausland/brasilien-gericht-lehnt-berufung-von-jair-bolsonaro-ab-a-7b389011-dc2e-440f-aec4-dc14ef2ba316#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/ausland/usa-supreme-court-stoppt-lebensmittelhilfen-im-shutdown](https://www.spiegel.de/ausland/usa-supreme-court-stoppt-lebensmittelhilfen-im-shutdown-a-8f4b7009-da3b-4c3f-8804-342c6723c240#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-gericht-lehnt-berufung-von-jair-bolsonaro-ab](https://www.spiegel.de/ausland/brasilien-gericht-lehnt-berufung-von-jair-bolsonaro-ab-a-7b389011-dc2e-440f-aec4-dc14ef2ba316#ref=rss)
-### wolfenbüttel
-
-* [https://www.spiegel.de/panorama/wolfenbuettel-niedersachsen-reihenhaus-nach-erheblicher-detonation-eingestuerzt](https://www.spiegel.de/panorama/wolfenbuettel-niedersachsen-reihenhaus-nach-erheblicher-detonation-eingestuerzt-a-9f116069-0818-47a3-889f-b1afb1f573e1#ref=rss)
-### eingestürzt
-
-* [https://www.spiegel.de/panorama/wolfenbuettel-niedersachsen-reihenhaus-nach-erheblicher-detonation-eingestuerzt](https://www.spiegel.de/panorama/wolfenbuettel-niedersachsen-reihenhaus-nach-erheblicher-detonation-eingestuerzt-a-9f116069-0818-47a3-889f-b1afb1f573e1#ref=rss)
-### tot
-
-* [https://www.spiegel.de/wissenschaft/mensch/james-watson-ist-tot-genie-und-absturz-des-nobelpreistraegers](https://www.spiegel.de/wissenschaft/mensch/james-watson-ist-tot-genie-und-absturz-des-nobelpreistraegers-a-bb0d1c53-6b60-4ea8-b04b-bc2ba60a65a9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/genetische-wissenschaft-james-watson-entschluesseler-der-dna-ist-tot](https://www.spiegel.de/wissenschaft/mensch/genetische-wissenschaft-james-watson-entschluesseler-der-dna-ist-tot-a-fa5839ad-85e8-406f-810a-8b658fd4cd5b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-ermittlungen-gegen-ukrainischen-offizier-nach-angriff-auf-zeremonie](https://www.spiegel.de/ausland/ukraine-ermittlungen-gegen-ukrainischen-offizier-nach-angriff-auf-zeremonie-a-07c30c5b-f196-4c5f-890b-563ca3566b90#ref=rss)
+* [https://www.spiegel.de/ausland/viktor-orban-und-donald-trump-laestern-ueber-siegchancen-der-ukraine](https://www.spiegel.de/ausland/viktor-orban-und-donald-trump-laestern-ueber-siegchancen-der-ukraine-a-9bac951f-b075-489c-906d-32e6d1c5bf3f#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/wissenschaft/mensch/james-watson-ist-tot-genie-und-absturz-des-nobelpreistraegers](https://www.spiegel.de/wissenschaft/mensch/james-watson-ist-tot-genie-und-absturz-des-nobelpreistraegers-a-bb0d1c53-6b60-4ea8-b04b-bc2ba60a65a9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/genetische-wissenschaft-james-watson-entschluesseler-der-dna-ist-tot](https://www.spiegel.de/wissenschaft/mensch/genetische-wissenschaft-james-watson-entschluesseler-der-dna-ist-tot-a-fa5839ad-85e8-406f-810a-8b658fd4cd5b#ref=rss)
-### neue
+* [https://www.spiegel.de/familie/laterne-laufen-mit-kindern-rabimmel-rabammel-rabumm](https://www.spiegel.de/familie/laterne-laufen-mit-kindern-rabimmel-rabammel-rabumm-a-33700b78-ec3c-45f8-b5ed-52f320976bff#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-ist-der-rapper-mit-dem-politischen-gespuer](https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-ist-der-rapper-mit-dem-politischen-gespuer-a-207eba62-0211-4ef5-be6e-b914f16a10c8#ref=rss)
+* [https://www.spiegel.de/kultur/dann-passiert-das-leben-mit-anke-engelke-die-wiederentdeckung-der-liebe](https://www.spiegel.de/kultur/dann-passiert-das-leben-mit-anke-engelke-die-wiederentdeckung-der-liebe-a-8377e85c-e8c7-42bf-b8db-089c5a5e3031#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/wissenschaft/mensch/james-watson-ist-tot-genie-und-absturz-des-nobelpreistraegers](https://www.spiegel.de/wissenschaft/mensch/james-watson-ist-tot-genie-und-absturz-des-nobelpreistraegers-a-bb0d1c53-6b60-4ea8-b04b-bc2ba60a65a9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-oliver-bierhoff-fuer-spiele-im-ausland](https://www.spiegel.de/sport/fussball/fussball-bundesliga-oliver-bierhoff-fuer-spiele-im-ausland-a-706a11da-3f97-4eb6-afb6-2432c86a885b#ref=rss)
-### später
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin-a-5491c764-f3eb-45e9-9ef5-2b88fbcc17ec#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep](https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep-a-acbecdc3-ac19-40f5-b2ce-029cc53df622#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unentschieden-bei-union-berlin-neuer-patzt-beim-gegentor](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unentschieden-bei-union-berlin-neuer-patzt-beim-gegentor-a-c4406701-00a4-453a-8403-6fc2157db27e#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/wissenschaft/mensch/james-watson-ist-tot-genie-und-absturz-des-nobelpreistraegers](https://www.spiegel.de/wissenschaft/mensch/james-watson-ist-tot-genie-und-absturz-des-nobelpreistraegers-a-bb0d1c53-6b60-4ea8-b04b-bc2ba60a65a9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/genetische-wissenschaft-james-watson-entschluesseler-der-dna-ist-tot](https://www.spiegel.de/wissenschaft/mensch/genetische-wissenschaft-james-watson-entschluesseler-der-dna-ist-tot-a-fa5839ad-85e8-406f-810a-8b658fd4cd5b#ref=rss)
-### antisemitismus
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin-a-5491c764-f3eb-45e9-9ef5-2b88fbcc17ec#ref=rss)
+* [https://www.spiegel.de/politik/demonstration-in-hamburg-tausende-fordern-grundgesetz-tuev-fuer-rechtsextreme-parteien](https://www.spiegel.de/politik/demonstration-in-hamburg-tausende-fordern-grundgesetz-tuev-fuer-rechtsextreme-parteien-a-01f59602-9456-4b28-a00d-ff9cba924f87#ref=rss)
+### spd
 
-* [https://www.spiegel.de/politik/deutschland/joachim-gauck-alt-bundespraesident-warnt-vor-importiertem-antisemitismus](https://www.spiegel.de/politik/deutschland/joachim-gauck-alt-bundespraesident-warnt-vor-importiertem-antisemitismus-a-00665343-652d-4dfc-bed3-6860d8933df5#ref=rss)
-### joachim
+* [https://www.spiegel.de/politik/spd-tausende-unterschriften-gegen-buergergeldreform-gesammelt](https://www.spiegel.de/politik/spd-tausende-unterschriften-gegen-buergergeldreform-gesammelt-a-f3ee0242-58b4-4d3b-8dfc-064bb27288d5#ref=rss)
+* [https://www.spiegel.de/politik/schleswig-holstein-kieler-oberbuergermeister-ulf-kaempfer-wird-spitzenkandidat-der-spd-fuer-landtagswahl-2027](https://www.spiegel.de/politik/schleswig-holstein-kieler-oberbuergermeister-ulf-kaempfer-wird-spitzenkandidat-der-spd-fuer-landtagswahl-2027-a-5e502765-a677-4aed-81fc-5b3f11ef3434#ref=rss)
+### tausende
 
-* [https://www.spiegel.de/politik/deutschland/joachim-gauck-alt-bundespraesident-warnt-vor-importiertem-antisemitismus](https://www.spiegel.de/politik/deutschland/joachim-gauck-alt-bundespraesident-warnt-vor-importiertem-antisemitismus-a-00665343-652d-4dfc-bed3-6860d8933df5#ref=rss)
-### gauck
-
-* [https://www.spiegel.de/politik/deutschland/joachim-gauck-alt-bundespraesident-warnt-vor-importiertem-antisemitismus](https://www.spiegel.de/politik/deutschland/joachim-gauck-alt-bundespraesident-warnt-vor-importiertem-antisemitismus-a-00665343-652d-4dfc-bed3-6860d8933df5#ref=rss)
-### defizite
-
-* [https://www.spiegel.de/politik/deutschland/joachim-gauck-alt-bundespraesident-warnt-vor-importiertem-antisemitismus](https://www.spiegel.de/politik/deutschland/joachim-gauck-alt-bundespraesident-warnt-vor-importiertem-antisemitismus-a-00665343-652d-4dfc-bed3-6860d8933df5#ref=rss)
-### oliver
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-oliver-bierhoff-fuer-spiele-im-ausland](https://www.spiegel.de/sport/fussball/fussball-bundesliga-oliver-bierhoff-fuer-spiele-im-ausland-a-706a11da-3f97-4eb6-afb6-2432c86a885b#ref=rss)
-### bierhoff
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-oliver-bierhoff-fuer-spiele-im-ausland](https://www.spiegel.de/sport/fussball/fussball-bundesliga-oliver-bierhoff-fuer-spiele-im-ausland-a-706a11da-3f97-4eb6-afb6-2432c86a885b#ref=rss)
-### spiele
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-oliver-bierhoff-fuer-spiele-im-ausland](https://www.spiegel.de/sport/fussball/fussball-bundesliga-oliver-bierhoff-fuer-spiele-im-ausland-a-706a11da-3f97-4eb6-afb6-2432c86a885b#ref=rss)
-### ausland
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-oliver-bierhoff-fuer-spiele-im-ausland](https://www.spiegel.de/sport/fussball/fussball-bundesliga-oliver-bierhoff-fuer-spiele-im-ausland-a-706a11da-3f97-4eb6-afb6-2432c86a885b#ref=rss)
-### meint
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-oliver-bierhoff-fuer-spiele-im-ausland](https://www.spiegel.de/sport/fussball/fussball-bundesliga-oliver-bierhoff-fuer-spiele-im-ausland-a-706a11da-3f97-4eb6-afb6-2432c86a885b#ref=rss)
-* [https://www.spiegel.de/panorama/leute/markus-soeder-hat-keinen-lauf](https://www.spiegel.de/panorama/leute/markus-soeder-hat-keinen-lauf-a-7ffecd95-e6dd-4455-bd25-ac973a77626f#ref=rss)
-### kambodscha
-
-* [https://www.spiegel.de/reise/kambodscha-sie-eroeffnete-ein-waisenhaus-bald-begriff-sie-was-fuer-ein-fehler-das-war](https://www.spiegel.de/reise/kambodscha-sie-eroeffnete-ein-waisenhaus-bald-begriff-sie-was-fuer-ein-fehler-das-war-a-145846b0-e960-4644-ad58-b2aa2715a75f#ref=rss)
-### arbeitet
-
-* [https://www.spiegel.de/reise/kambodscha-sie-eroeffnete-ein-waisenhaus-bald-begriff-sie-was-fuer-ein-fehler-das-war](https://www.spiegel.de/reise/kambodscha-sie-eroeffnete-ein-waisenhaus-bald-begriff-sie-was-fuer-ein-fehler-das-war-a-145846b0-e960-4644-ad58-b2aa2715a75f#ref=rss)
-* [https://www.spiegel.de/panorama/gaza-krieg-wie-kann-israel-diesen-schmerz-ueberstehen](https://www.spiegel.de/panorama/gaza-krieg-wie-kann-israel-diesen-schmerz-ueberstehen-a-67573888-4cd9-4711-b135-83c05ddf3c67#ref=rss)
-### markus
-
-* [https://www.spiegel.de/panorama/leute/markus-soeder-hat-keinen-lauf](https://www.spiegel.de/panorama/leute/markus-soeder-hat-keinen-lauf-a-7ffecd95-e6dd-4455-bd25-ac973a77626f#ref=rss)
-### söder
-
-* [https://www.spiegel.de/panorama/leute/markus-soeder-hat-keinen-lauf](https://www.spiegel.de/panorama/leute/markus-soeder-hat-keinen-lauf-a-7ffecd95-e6dd-4455-bd25-ac973a77626f#ref=rss)
-### dødsdiving
-
-* [https://www.spiegel.de/sport/norwegen-klippensprung-trend-dods-diving-aus-fast-50-metern-auf-den-bauch](https://www.spiegel.de/sport/norwegen-klippensprung-trend-dods-diving-aus-fast-50-metern-auf-den-bauch-a-93e425fc-3584-4f8b-bb78-caa079c97f0c#ref=rss)
-### googles
-
-* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-so-miserabel-ist-googles-fussball-ticker](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-so-miserabel-ist-googles-fussball-ticker-a-47fd87c1-9ed7-484a-8dc8-52f84b0e4657#ref=rss)
-### chorfrauen
-
-* [https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt](https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt-a-2b0836f5-f565-4b49-be5f-eb7d6b4131a5#ref=rss)
-### halten
-
-* [https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt](https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt-a-2b0836f5-f565-4b49-be5f-eb7d6b4131a5#ref=rss)
-### kloster
-
-* [https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt](https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt-a-2b0836f5-f565-4b49-be5f-eb7d6b4131a5#ref=rss)
-### salzburg
-
-* [https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt](https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt-a-2b0836f5-f565-4b49-be5f-eb7d6b4131a5#ref=rss)
-### besetzt
-
-* [https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt](https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt-a-2b0836f5-f565-4b49-be5f-eb7d6b4131a5#ref=rss)
-### monaten
-
-* [https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt](https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt-a-2b0836f5-f565-4b49-be5f-eb7d6b4131a5#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-droht-mit-us-boykott-des-g20-gipfels-in-suedafrika](https://www.spiegel.de/ausland/donald-trump-droht-mit-us-boykott-des-g20-gipfels-in-suedafrika-a-9bcba37a-b19f-433d-ba9d-594d569b293e#ref=rss)
-### stattdessen
-
-* [https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt](https://www.spiegel.de/ausland/nonnen-aufstand-in-oesterreich-chorfrauen-halten-kloster-bei-salzburg-besetzt-a-2b0836f5-f565-4b49-be5f-eb7d6b4131a5#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-droht-mit-us-boykott-des-g20-gipfels-in-suedafrika](https://www.spiegel.de/ausland/donald-trump-droht-mit-us-boykott-des-g20-gipfels-in-suedafrika-a-9bcba37a-b19f-433d-ba9d-594d569b293e#ref=rss)
-### spitzbergen
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-das-klima-kriegsangst-auf-spitzbergen-stefan-gelbhaar-plant-comeback](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-das-klima-kriegsangst-auf-spitzbergen-stefan-gelbhaar-plant-comeback-a-bf971a9a-52ef-4334-afe7-2cb81932874d#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-das-klima-kriegsangst-auf-spitzbergen-stefan-gelbhaar-plant-comeback](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-das-klima-kriegsangst-auf-spitzbergen-stefan-gelbhaar-plant-comeback-a-bf971a9a-52ef-4334-afe7-2cb81932874d#ref=rss)
-### gelbhaar
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-das-klima-kriegsangst-auf-spitzbergen-stefan-gelbhaar-plant-comeback](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-das-klima-kriegsangst-auf-spitzbergen-stefan-gelbhaar-plant-comeback-a-bf971a9a-52ef-4334-afe7-2cb81932874d#ref=rss)
-### plant
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-das-klima-kriegsangst-auf-spitzbergen-stefan-gelbhaar-plant-comeback](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-das-klima-kriegsangst-auf-spitzbergen-stefan-gelbhaar-plant-comeback-a-bf971a9a-52ef-4334-afe7-2cb81932874d#ref=rss)
-### comeback
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-das-klima-kriegsangst-auf-spitzbergen-stefan-gelbhaar-plant-comeback](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-und-das-klima-kriegsangst-auf-spitzbergen-stefan-gelbhaar-plant-comeback-a-bf971a9a-52ef-4334-afe7-2cb81932874d#ref=rss)
-### nato
-
-* [https://www.spiegel.de/ausland/nato-chef-mark-rutte-warnt-wladimir-putin-vor-atomwaffeneinsatz](https://www.spiegel.de/ausland/nato-chef-mark-rutte-warnt-wladimir-putin-vor-atomwaffeneinsatz-a-cc199115-a6fb-49f1-8432-98977dee7960#ref=rss)
-### rutte
-
-* [https://www.spiegel.de/ausland/nato-chef-mark-rutte-warnt-wladimir-putin-vor-atomwaffeneinsatz](https://www.spiegel.de/ausland/nato-chef-mark-rutte-warnt-wladimir-putin-vor-atomwaffeneinsatz-a-cc199115-a6fb-49f1-8432-98977dee7960#ref=rss)
-### israel
-
-* [https://www.spiegel.de/panorama/gaza-krieg-wie-kann-israel-diesen-schmerz-ueberstehen](https://www.spiegel.de/panorama/gaza-krieg-wie-kann-israel-diesen-schmerz-ueberstehen-a-67573888-4cd9-4711-b135-83c05ddf3c67#ref=rss)
-* [https://www.spiegel.de/ausland/israel-siedler-im-westjordanland-attacken-auf-palaestinenser-laut-uno-auf-hoechststand](https://www.spiegel.de/ausland/israel-siedler-im-westjordanland-attacken-auf-palaestinenser-laut-uno-auf-hoechststand-a-57ae2695-40b6-4797-af17-c7a804f6a9bc#ref=rss)
+* [https://www.spiegel.de/politik/spd-tausende-unterschriften-gegen-buergergeldreform-gesammelt](https://www.spiegel.de/politik/spd-tausende-unterschriften-gegen-buergergeldreform-gesammelt-a-f3ee0242-58b4-4d3b-8dfc-064bb27288d5#ref=rss)
+* [https://www.spiegel.de/politik/demonstration-in-hamburg-tausende-fordern-grundgesetz-tuev-fuer-rechtsextreme-parteien](https://www.spiegel.de/politik/demonstration-in-hamburg-tausende-fordern-grundgesetz-tuev-fuer-rechtsextreme-parteien-a-01f59602-9456-4b28-a00d-ff9cba924f87#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-droht-mit-us-boykott-des-g20-gipfels-in-suedafrika](https://www.spiegel.de/ausland/donald-trump-droht-mit-us-boykott-des-g20-gipfels-in-suedafrika-a-9bcba37a-b19f-433d-ba9d-594d569b293e#ref=rss)
-### südafrika
+* [https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep](https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep-a-acbecdc3-ac19-40f5-b2ce-029cc53df622#ref=rss)
+* [https://www.spiegel.de/ausland/viktor-orban-und-donald-trump-laestern-ueber-siegchancen-der-ukraine](https://www.spiegel.de/ausland/viktor-orban-und-donald-trump-laestern-ueber-siegchancen-der-ukraine-a-9bac951f-b075-489c-906d-32e6d1c5bf3f#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/donald-trump-droht-mit-us-boykott-des-g20-gipfels-in-suedafrika](https://www.spiegel.de/ausland/donald-trump-droht-mit-us-boykott-des-g20-gipfels-in-suedafrika-a-9bcba37a-b19f-433d-ba9d-594d569b293e#ref=rss)
-### exjustizminister
+* [https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep](https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep-a-acbecdc3-ac19-40f5-b2ce-029cc53df622#ref=rss)
+* [https://www.spiegel.de/ausland/usa-cornell-university-einigt-sich-mit-trump-regierung-auf-deal](https://www.spiegel.de/ausland/usa-cornell-university-einigt-sich-mit-trump-regierung-auf-deal-a-46cdc209-2fd8-4449-870d-7606ab0ea196#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/ausland/polen-parlament-entzieht-ex-justizminister-zbigniew-ziobro-die-immunitaet](https://www.spiegel.de/ausland/polen-parlament-entzieht-ex-justizminister-zbigniew-ziobro-die-immunitaet-a-02b941dd-466a-493e-b837-a6be7cfbf724#ref=rss)
-### ziobro
+* [https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep](https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep-a-acbecdc3-ac19-40f5-b2ce-029cc53df622#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unentschieden-bei-union-berlin-neuer-patzt-beim-gegentor](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unentschieden-bei-union-berlin-neuer-patzt-beim-gegentor-a-c4406701-00a4-453a-8403-6fc2157db27e#ref=rss)
+### welt
 
-* [https://www.spiegel.de/ausland/polen-parlament-entzieht-ex-justizminister-zbigniew-ziobro-die-immunitaet](https://www.spiegel.de/ausland/polen-parlament-entzieht-ex-justizminister-zbigniew-ziobro-die-immunitaet-a-02b941dd-466a-493e-b837-a6be7cfbf724#ref=rss)
-### immunität
+* [https://www.spiegel.de/panorama/gesellschaft/83-jahre-ehe-das-ist-das-am-laengsten-verheiratete-ehepaar](https://www.spiegel.de/panorama/gesellschaft/83-jahre-ehe-das-ist-das-am-laengsten-verheiratete-ehepaar-a-987751b2-5d02-4847-a87f-238b2f6dc9dd#ref=rss)
+* [https://www.spiegel.de/politik/wohnungsmangel-weltweit-wir-suchen-eine-wohnung-fuer-zwei-milliarden-leute](https://www.spiegel.de/politik/wohnungsmangel-weltweit-wir-suchen-eine-wohnung-fuer-zwei-milliarden-leute-a-16a24c3c-4ba7-4280-b104-af503c10a271#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/ausland/polen-parlament-entzieht-ex-justizminister-zbigniew-ziobro-die-immunitaet](https://www.spiegel.de/ausland/polen-parlament-entzieht-ex-justizminister-zbigniew-ziobro-die-immunitaet-a-02b941dd-466a-493e-b837-a6be7cfbf724#ref=rss)
-### dna
+* [https://www.spiegel.de/politik/wohnungsmangel-weltweit-wir-suchen-eine-wohnung-fuer-zwei-milliarden-leute](https://www.spiegel.de/politik/wohnungsmangel-weltweit-wir-suchen-eine-wohnung-fuer-zwei-milliarden-leute-a-16a24c3c-4ba7-4280-b104-af503c10a271#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-bsw-mitglieder-rebellieren-gegen-neuen-namensvorschlag](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-bsw-mitglieder-rebellieren-gegen-neuen-namensvorschlag-a-25388afc-1542-425e-9bd4-8c21c14508eb#ref=rss)
+* [https://www.spiegel.de/panorama/leute/spanien-juan-carlos-erzaehlt-wie-sein-bruder-beim-spielen-mit-einer-pistole-ums-leben-kam](https://www.spiegel.de/panorama/leute/spanien-juan-carlos-erzaehlt-wie-sein-bruder-beim-spielen-mit-einer-pistole-ums-leben-kam-a-2509afd6-505c-4e0c-b500-82920477370e#ref=rss)
+### fußballbundesliga
 
-* [https://www.spiegel.de/wissenschaft/mensch/genetische-wissenschaft-james-watson-entschluesseler-der-dna-ist-tot](https://www.spiegel.de/wissenschaft/mensch/genetische-wissenschaft-james-watson-entschluesseler-der-dna-ist-tot-a-fa5839ad-85e8-406f-810a-8b658fd4cd5b#ref=rss)
-### johann
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin-a-5491c764-f3eb-45e9-9ef5-2b88fbcc17ec#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-erobert-tabellenspitze-nach-sieg-gegen-elversberg](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-erobert-tabellenspitze-nach-sieg-gegen-elversberg-a-4d26b9c2-2799-410d-a2ad-a7c000153dba#ref=rss)
+### sieg
 
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-reise-nach-lateinamerika-und-kanada-durch-flugzeugdefekt-erschwert](https://www.spiegel.de/politik/deutschland/johann-wadephul-reise-nach-lateinamerika-und-kanada-durch-flugzeugdefekt-erschwert-a-3859d525-6a15-402d-a9cd-dcb4507b1e9d#ref=rss)
-### wadephul
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin-a-5491c764-f3eb-45e9-9ef5-2b88fbcc17ec#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-erobert-tabellenspitze-nach-sieg-gegen-elversberg](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-erobert-tabellenspitze-nach-sieg-gegen-elversberg-a-4d26b9c2-2799-410d-a2ad-a7c000153dba#ref=rss)
+### unentschieden
 
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-reise-nach-lateinamerika-und-kanada-durch-flugzeugdefekt-erschwert](https://www.spiegel.de/politik/deutschland/johann-wadephul-reise-nach-lateinamerika-und-kanada-durch-flugzeugdefekt-erschwert-a-3859d525-6a15-402d-a9cd-dcb4507b1e9d#ref=rss)
-### regierungsflieger
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-dortmund-verspielt-sieg-beim-hamburger-sv-fc-bayern-muenchen-mit-remis-bei-union-berlin-a-5491c764-f3eb-45e9-9ef5-2b88fbcc17ec#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unentschieden-bei-union-berlin-neuer-patzt-beim-gegentor](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unentschieden-bei-union-berlin-neuer-patzt-beim-gegentor-a-c4406701-00a4-453a-8403-6fc2157db27e#ref=rss)
+### unterschriften
 
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-reise-nach-lateinamerika-und-kanada-durch-flugzeugdefekt-erschwert](https://www.spiegel.de/politik/deutschland/johann-wadephul-reise-nach-lateinamerika-und-kanada-durch-flugzeugdefekt-erschwert-a-3859d525-6a15-402d-a9cd-dcb4507b1e9d#ref=rss)
-### außenminister
+* [https://www.spiegel.de/politik/spd-tausende-unterschriften-gegen-buergergeldreform-gesammelt](https://www.spiegel.de/politik/spd-tausende-unterschriften-gegen-buergergeldreform-gesammelt-a-f3ee0242-58b4-4d3b-8dfc-064bb27288d5#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-reise-nach-lateinamerika-und-kanada-durch-flugzeugdefekt-erschwert](https://www.spiegel.de/politik/deutschland/johann-wadephul-reise-nach-lateinamerika-und-kanada-durch-flugzeugdefekt-erschwert-a-3859d525-6a15-402d-a9cd-dcb4507b1e9d#ref=rss)
-### berufung
+* [https://www.spiegel.de/politik/spd-tausende-unterschriften-gegen-buergergeldreform-gesammelt](https://www.spiegel.de/politik/spd-tausende-unterschriften-gegen-buergergeldreform-gesammelt-a-f3ee0242-58b4-4d3b-8dfc-064bb27288d5#ref=rss)
+* [https://www.spiegel.de/kultur/gleichstellung-anteil-von-journalistinnen-in-fuehrungspositionen-stagniert](https://www.spiegel.de/kultur/gleichstellung-anteil-von-journalistinnen-in-fuehrungspositionen-stagniert-a-893a8804-adac-4edc-826b-0236a1596b2c#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/brasilien-gericht-lehnt-berufung-von-jair-bolsonaro-ab](https://www.spiegel.de/ausland/brasilien-gericht-lehnt-berufung-von-jair-bolsonaro-ab-a-7b389011-dc2e-440f-aec4-dc14ef2ba316#ref=rss)
-### jair
+* [https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep](https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep-a-acbecdc3-ac19-40f5-b2ce-029cc53df622#ref=rss)
+* [https://www.spiegel.de/ausland/viktor-orban-und-donald-trump-laestern-ueber-siegchancen-der-ukraine](https://www.spiegel.de/ausland/viktor-orban-und-donald-trump-laestern-ueber-siegchancen-der-ukraine-a-9bac951f-b075-489c-906d-32e6d1c5bf3f#ref=rss)
+### interview
 
-* [https://www.spiegel.de/ausland/brasilien-gericht-lehnt-berufung-von-jair-bolsonaro-ab](https://www.spiegel.de/ausland/brasilien-gericht-lehnt-berufung-von-jair-bolsonaro-ab-a-7b389011-dc2e-440f-aec4-dc14ef2ba316#ref=rss)
-### bolsonaro
+* [https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep](https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep-a-acbecdc3-ac19-40f5-b2ce-029cc53df622#ref=rss)
+* [https://www.spiegel.de/ausland/burschenschaften-was-passiert-in-damenverbindungen-podcast](https://www.spiegel.de/ausland/burschenschaften-was-passiert-in-damenverbindungen-podcast-a-9b453341-5a3e-4a21-9394-10264a5221fe#ref=rss)
+### matthias
 
-* [https://www.spiegel.de/ausland/brasilien-gericht-lehnt-berufung-von-jair-bolsonaro-ab](https://www.spiegel.de/ausland/brasilien-gericht-lehnt-berufung-von-jair-bolsonaro-ab-a-7b389011-dc2e-440f-aec4-dc14ef2ba316#ref=rss)
-### siedler
+* [https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep](https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep-a-acbecdc3-ac19-40f5-b2ce-029cc53df622#ref=rss)
+### tschöp
 
-* [https://www.spiegel.de/ausland/israel-siedler-im-westjordanland-attacken-auf-palaestinenser-laut-uno-auf-hoechststand](https://www.spiegel.de/ausland/israel-siedler-im-westjordanland-attacken-auf-palaestinenser-laut-uno-auf-hoechststand-a-57ae2695-40b6-4797-af17-c7a804f6a9bc#ref=rss)
-### westjordanland
+* [https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep](https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep-a-acbecdc3-ac19-40f5-b2ce-029cc53df622#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/israel-siedler-im-westjordanland-attacken-auf-palaestinenser-laut-uno-auf-hoechststand](https://www.spiegel.de/ausland/israel-siedler-im-westjordanland-attacken-auf-palaestinenser-laut-uno-auf-hoechststand-a-57ae2695-40b6-4797-af17-c7a804f6a9bc#ref=rss)
-### attacken
+* [https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep](https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep-a-acbecdc3-ac19-40f5-b2ce-029cc53df622#ref=rss)
+* [https://www.spiegel.de/panorama/us-militaer-in-bayern-empfahl-truppe-gang-zur-tafel](https://www.spiegel.de/panorama/us-militaer-in-bayern-empfahl-truppe-gang-zur-tafel-a-6f366675-c1aa-465a-9a46-2379fb73c2fc#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/ausland/israel-siedler-im-westjordanland-attacken-auf-palaestinenser-laut-uno-auf-hoechststand](https://www.spiegel.de/ausland/israel-siedler-im-westjordanland-attacken-auf-palaestinenser-laut-uno-auf-hoechststand-a-57ae2695-40b6-4797-af17-c7a804f6a9bc#ref=rss)
-### palästinenser
+* [https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep](https://www.spiegel.de/panorama/bildung/donald-trump-warum-der-braingain-aus-den-usa-schwierig-bleibt-interview-mit-lmu-praesident-matthias-tschoep-a-acbecdc3-ac19-40f5-b2ce-029cc53df622#ref=rss)
+* [https://www.spiegel.de/start/psychologie-niemand-sagt-dir-wie-weh-der-auszug-aus-der-ersten-eigenen-wohnung-tut](https://www.spiegel.de/start/psychologie-niemand-sagt-dir-wie-weh-der-auszug-aus-der-ersten-eigenen-wohnung-tut-a-3ca93f9b-9aa8-429a-8800-5b9a1bbcee68#ref=rss)
+### demonstration
 
-* [https://www.spiegel.de/ausland/israel-siedler-im-westjordanland-attacken-auf-palaestinenser-laut-uno-auf-hoechststand](https://www.spiegel.de/ausland/israel-siedler-im-westjordanland-attacken-auf-palaestinenser-laut-uno-auf-hoechststand-a-57ae2695-40b6-4797-af17-c7a804f6a9bc#ref=rss)
+* [https://www.spiegel.de/politik/demonstration-in-hamburg-tausende-fordern-grundgesetz-tuev-fuer-rechtsextreme-parteien](https://www.spiegel.de/politik/demonstration-in-hamburg-tausende-fordern-grundgesetz-tuev-fuer-rechtsextreme-parteien-a-01f59602-9456-4b28-a00d-ff9cba924f87#ref=rss)
+### parteien
+
+* [https://www.spiegel.de/politik/demonstration-in-hamburg-tausende-fordern-grundgesetz-tuev-fuer-rechtsextreme-parteien](https://www.spiegel.de/politik/demonstration-in-hamburg-tausende-fordern-grundgesetz-tuev-fuer-rechtsextreme-parteien-a-01f59602-9456-4b28-a00d-ff9cba924f87#ref=rss)
+### oberbürgermeister
+
+* [https://www.spiegel.de/politik/schleswig-holstein-kieler-oberbuergermeister-ulf-kaempfer-wird-spitzenkandidat-der-spd-fuer-landtagswahl-2027](https://www.spiegel.de/politik/schleswig-holstein-kieler-oberbuergermeister-ulf-kaempfer-wird-spitzenkandidat-der-spd-fuer-landtagswahl-2027-a-5e502765-a677-4aed-81fc-5b3f11ef3434#ref=rss)
+### kämpfer
+
+* [https://www.spiegel.de/politik/schleswig-holstein-kieler-oberbuergermeister-ulf-kaempfer-wird-spitzenkandidat-der-spd-fuer-landtagswahl-2027](https://www.spiegel.de/politik/schleswig-holstein-kieler-oberbuergermeister-ulf-kaempfer-wird-spitzenkandidat-der-spd-fuer-landtagswahl-2027-a-5e502765-a677-4aed-81fc-5b3f11ef3434#ref=rss)
+### landtagswahl
+
+* [https://www.spiegel.de/politik/schleswig-holstein-kieler-oberbuergermeister-ulf-kaempfer-wird-spitzenkandidat-der-spd-fuer-landtagswahl-2027](https://www.spiegel.de/politik/schleswig-holstein-kieler-oberbuergermeister-ulf-kaempfer-wird-spitzenkandidat-der-spd-fuer-landtagswahl-2027-a-5e502765-a677-4aed-81fc-5b3f11ef3434#ref=rss)
+### 2027
+
+* [https://www.spiegel.de/politik/schleswig-holstein-kieler-oberbuergermeister-ulf-kaempfer-wird-spitzenkandidat-der-spd-fuer-landtagswahl-2027](https://www.spiegel.de/politik/schleswig-holstein-kieler-oberbuergermeister-ulf-kaempfer-wird-spitzenkandidat-der-spd-fuer-landtagswahl-2027-a-5e502765-a677-4aed-81fc-5b3f11ef3434#ref=rss)
+### gutes
+
+* [https://www.spiegel.de/politik/schleswig-holstein-kieler-oberbuergermeister-ulf-kaempfer-wird-spitzenkandidat-der-spd-fuer-landtagswahl-2027](https://www.spiegel.de/politik/schleswig-holstein-kieler-oberbuergermeister-ulf-kaempfer-wird-spitzenkandidat-der-spd-fuer-landtagswahl-2027-a-5e502765-a677-4aed-81fc-5b3f11ef3434#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nexperia-eu-kommission-meldet-fortschritte-bei-chip-ausfuhrverfahren](https://www.spiegel.de/wirtschaft/nexperia-eu-kommission-meldet-fortschritte-bei-chip-ausfuhrverfahren-a-db1f7ef1-f3d1-4af7-b2a9-187150e12dd4#ref=rss)
+### eukommission
+
+* [https://www.spiegel.de/wirtschaft/nexperia-eu-kommission-meldet-fortschritte-bei-chip-ausfuhrverfahren](https://www.spiegel.de/wirtschaft/nexperia-eu-kommission-meldet-fortschritte-bei-chip-ausfuhrverfahren-a-db1f7ef1-f3d1-4af7-b2a9-187150e12dd4#ref=rss)
+### gegentor
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unentschieden-bei-union-berlin-neuer-patzt-beim-gegentor](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-unentschieden-bei-union-berlin-neuer-patzt-beim-gegentor-a-c4406701-00a4-453a-8403-6fc2157db27e#ref=rss)
+### anne
+
+* [https://www.spiegel.de/politik/deutschland/ehemalige-bundesministerin-anne-spiegel-proteste-gegen-wahl-zur-sozialdezernentin-in-hannover](https://www.spiegel.de/politik/deutschland/ehemalige-bundesministerin-anne-spiegel-proteste-gegen-wahl-zur-sozialdezernentin-in-hannover-a-49d80bfc-256a-43d6-9bbf-c2c299ca38d2#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/politik/deutschland/ehemalige-bundesministerin-anne-spiegel-proteste-gegen-wahl-zur-sozialdezernentin-in-hannover](https://www.spiegel.de/politik/deutschland/ehemalige-bundesministerin-anne-spiegel-proteste-gegen-wahl-zur-sozialdezernentin-in-hannover-a-49d80bfc-256a-43d6-9bbf-c2c299ca38d2#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/politik/deutschland/ehemalige-bundesministerin-anne-spiegel-proteste-gegen-wahl-zur-sozialdezernentin-in-hannover](https://www.spiegel.de/politik/deutschland/ehemalige-bundesministerin-anne-spiegel-proteste-gegen-wahl-zur-sozialdezernentin-in-hannover-a-49d80bfc-256a-43d6-9bbf-c2c299ca38d2#ref=rss)
+### sozialdezernentin
+
+* [https://www.spiegel.de/politik/deutschland/ehemalige-bundesministerin-anne-spiegel-proteste-gegen-wahl-zur-sozialdezernentin-in-hannover](https://www.spiegel.de/politik/deutschland/ehemalige-bundesministerin-anne-spiegel-proteste-gegen-wahl-zur-sozialdezernentin-in-hannover-a-49d80bfc-256a-43d6-9bbf-c2c299ca38d2#ref=rss)
+### hannover
+
+* [https://www.spiegel.de/politik/deutschland/ehemalige-bundesministerin-anne-spiegel-proteste-gegen-wahl-zur-sozialdezernentin-in-hannover](https://www.spiegel.de/politik/deutschland/ehemalige-bundesministerin-anne-spiegel-proteste-gegen-wahl-zur-sozialdezernentin-in-hannover-a-49d80bfc-256a-43d6-9bbf-c2c299ca38d2#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/politik/berlin-stefan-gelbhaar-scheitert-bei-nominierung-fuer-abgeordnetenhaus](https://www.spiegel.de/politik/berlin-stefan-gelbhaar-scheitert-bei-nominierung-fuer-abgeordnetenhaus-a-c69606bb-f8ac-45e1-8c62-6f241983a09c#ref=rss)
+### gelbhaar
+
+* [https://www.spiegel.de/politik/berlin-stefan-gelbhaar-scheitert-bei-nominierung-fuer-abgeordnetenhaus](https://www.spiegel.de/politik/berlin-stefan-gelbhaar-scheitert-bei-nominierung-fuer-abgeordnetenhaus-a-c69606bb-f8ac-45e1-8c62-6f241983a09c#ref=rss)
+### abgeordnetenhaus
+
+* [https://www.spiegel.de/politik/berlin-stefan-gelbhaar-scheitert-bei-nominierung-fuer-abgeordnetenhaus](https://www.spiegel.de/politik/berlin-stefan-gelbhaar-scheitert-bei-nominierung-fuer-abgeordnetenhaus-a-c69606bb-f8ac-45e1-8c62-6f241983a09c#ref=rss)
+### entscheiden
+
+* [https://www.spiegel.de/politik/berlin-stefan-gelbhaar-scheitert-bei-nominierung-fuer-abgeordnetenhaus](https://www.spiegel.de/politik/berlin-stefan-gelbhaar-scheitert-bei-nominierung-fuer-abgeordnetenhaus-a-c69606bb-f8ac-45e1-8c62-6f241983a09c#ref=rss)
+* [https://www.spiegel.de/deinspiegel/fuenf-buchtipps-fuer-kinder-und-jugendliche-von-geheimagenten-und-unterwasserwelten](https://www.spiegel.de/deinspiegel/fuenf-buchtipps-fuer-kinder-und-jugendliche-von-geheimagenten-und-unterwasserwelten-a-6978455f-06db-4fe6-86e2-f3237c519e59#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/politik/berlin-stefan-gelbhaar-scheitert-bei-nominierung-fuer-abgeordnetenhaus](https://www.spiegel.de/politik/berlin-stefan-gelbhaar-scheitert-bei-nominierung-fuer-abgeordnetenhaus-a-c69606bb-f8ac-45e1-8c62-6f241983a09c#ref=rss)
+* [https://www.spiegel.de/panorama/umstrittener-zaunbau-in-berlin-kreuzberg-unbekannte-stehlen-drehtuer-am-goerlitzer-park](https://www.spiegel.de/panorama/umstrittener-zaunbau-in-berlin-kreuzberg-unbekannte-stehlen-drehtuer-am-goerlitzer-park-a-976ed6ce-bb38-4cb2-b390-0e6b170cda63#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/deinspiegel/fuenf-buchtipps-fuer-kinder-und-jugendliche-von-geheimagenten-und-unterwasserwelten](https://www.spiegel.de/deinspiegel/fuenf-buchtipps-fuer-kinder-und-jugendliche-von-geheimagenten-und-unterwasserwelten-a-6978455f-06db-4fe6-86e2-f3237c519e59#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/deinspiegel/fuenf-buchtipps-fuer-kinder-und-jugendliche-von-geheimagenten-und-unterwasserwelten](https://www.spiegel.de/deinspiegel/fuenf-buchtipps-fuer-kinder-und-jugendliche-von-geheimagenten-und-unterwasserwelten-a-6978455f-06db-4fe6-86e2-f3237c519e59#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/deinspiegel/fuenf-buchtipps-fuer-kinder-und-jugendliche-von-geheimagenten-und-unterwasserwelten](https://www.spiegel.de/deinspiegel/fuenf-buchtipps-fuer-kinder-und-jugendliche-von-geheimagenten-und-unterwasserwelten-a-6978455f-06db-4fe6-86e2-f3237c519e59#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/deinspiegel/fuenf-buchtipps-fuer-kinder-und-jugendliche-von-geheimagenten-und-unterwasserwelten](https://www.spiegel.de/deinspiegel/fuenf-buchtipps-fuer-kinder-und-jugendliche-von-geheimagenten-und-unterwasserwelten-a-6978455f-06db-4fe6-86e2-f3237c519e59#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-ermittlungen-gegen-ukrainischen-offizier-nach-angriff-auf-zeremonie](https://www.spiegel.de/ausland/ukraine-ermittlungen-gegen-ukrainischen-offizier-nach-angriff-auf-zeremonie-a-07c30c5b-f196-4c5f-890b-563ca3566b90#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/gesellschaft/83-jahre-ehe-das-ist-das-am-laengsten-verheiratete-ehepaar](https://www.spiegel.de/panorama/gesellschaft/83-jahre-ehe-das-ist-das-am-laengsten-verheiratete-ehepaar-a-987751b2-5d02-4847-a87f-238b2f6dc9dd#ref=rss)
+* [https://www.spiegel.de/start/psychologie-niemand-sagt-dir-wie-weh-der-auszug-aus-der-ersten-eigenen-wohnung-tut](https://www.spiegel.de/start/psychologie-niemand-sagt-dir-wie-weh-der-auszug-aus-der-ersten-eigenen-wohnung-tut-a-3ca93f9b-9aa8-429a-8800-5b9a1bbcee68#ref=rss)
+### längsten
+
+* [https://www.spiegel.de/panorama/gesellschaft/83-jahre-ehe-das-ist-das-am-laengsten-verheiratete-ehepaar](https://www.spiegel.de/panorama/gesellschaft/83-jahre-ehe-das-ist-das-am-laengsten-verheiratete-ehepaar-a-987751b2-5d02-4847-a87f-238b2f6dc9dd#ref=rss)
+### verheiratete
+
+* [https://www.spiegel.de/panorama/gesellschaft/83-jahre-ehe-das-ist-das-am-laengsten-verheiratete-ehepaar](https://www.spiegel.de/panorama/gesellschaft/83-jahre-ehe-das-ist-das-am-laengsten-verheiratete-ehepaar-a-987751b2-5d02-4847-a87f-238b2f6dc9dd#ref=rss)
+### gittens
+
+* [https://www.spiegel.de/panorama/gesellschaft/83-jahre-ehe-das-ist-das-am-laengsten-verheiratete-ehepaar](https://www.spiegel.de/panorama/gesellschaft/83-jahre-ehe-das-ist-das-am-laengsten-verheiratete-ehepaar-a-987751b2-5d02-4847-a87f-238b2f6dc9dd#ref=rss)
+### drehtür
+
+* [https://www.spiegel.de/panorama/umstrittener-zaunbau-in-berlin-kreuzberg-unbekannte-stehlen-drehtuer-am-goerlitzer-park](https://www.spiegel.de/panorama/umstrittener-zaunbau-in-berlin-kreuzberg-unbekannte-stehlen-drehtuer-am-goerlitzer-park-a-976ed6ce-bb38-4cb2-b390-0e6b170cda63#ref=rss)
+### görlitzer
+
+* [https://www.spiegel.de/panorama/umstrittener-zaunbau-in-berlin-kreuzberg-unbekannte-stehlen-drehtuer-am-goerlitzer-park](https://www.spiegel.de/panorama/umstrittener-zaunbau-in-berlin-kreuzberg-unbekannte-stehlen-drehtuer-am-goerlitzer-park-a-976ed6ce-bb38-4cb2-b390-0e6b170cda63#ref=rss)
+### park
+
+* [https://www.spiegel.de/panorama/umstrittener-zaunbau-in-berlin-kreuzberg-unbekannte-stehlen-drehtuer-am-goerlitzer-park](https://www.spiegel.de/panorama/umstrittener-zaunbau-in-berlin-kreuzberg-unbekannte-stehlen-drehtuer-am-goerlitzer-park-a-976ed6ce-bb38-4cb2-b390-0e6b170cda63#ref=rss)
+### möchte
+
+* [https://www.spiegel.de/panorama/umstrittener-zaunbau-in-berlin-kreuzberg-unbekannte-stehlen-drehtuer-am-goerlitzer-park](https://www.spiegel.de/panorama/umstrittener-zaunbau-in-berlin-kreuzberg-unbekannte-stehlen-drehtuer-am-goerlitzer-park-a-976ed6ce-bb38-4cb2-b390-0e6b170cda63#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bericht-ex-bnd-chef-hanning-soll-an-fehlgeschlagenem-entfuehrungsversuch-der-block-kinder-beteiligt-gewesen-sein](https://www.spiegel.de/panorama/justiz/bericht-ex-bnd-chef-hanning-soll-an-fehlgeschlagenem-entfuehrungsversuch-der-block-kinder-beteiligt-gewesen-sein-a-655693d5-858d-49d8-b6f2-01116d82921c#ref=rss)
+### einige
+
+* [https://www.spiegel.de/panorama/umstrittener-zaunbau-in-berlin-kreuzberg-unbekannte-stehlen-drehtuer-am-goerlitzer-park](https://www.spiegel.de/panorama/umstrittener-zaunbau-in-berlin-kreuzberg-unbekannte-stehlen-drehtuer-am-goerlitzer-park-a-976ed6ce-bb38-4cb2-b390-0e6b170cda63#ref=rss)
+* [https://www.spiegel.de/ausland/burschenschaften-was-passiert-in-damenverbindungen-podcast](https://www.spiegel.de/ausland/burschenschaften-was-passiert-in-damenverbindungen-podcast-a-9b453341-5a3e-4a21-9394-10264a5221fe#ref=rss)
+### schalke
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-erobert-tabellenspitze-nach-sieg-gegen-elversberg](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-erobert-tabellenspitze-nach-sieg-gegen-elversberg-a-4d26b9c2-2799-410d-a2ad-a7c000153dba#ref=rss)
+### tabellenspitze
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-erobert-tabellenspitze-nach-sieg-gegen-elversberg](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-erobert-tabellenspitze-nach-sieg-gegen-elversberg-a-4d26b9c2-2799-410d-a2ad-a7c000153dba#ref=rss)
+### elversberg
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-erobert-tabellenspitze-nach-sieg-gegen-elversberg](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-erobert-tabellenspitze-nach-sieg-gegen-elversberg-a-4d26b9c2-2799-410d-a2ad-a7c000153dba#ref=rss)
+### tafel
+
+* [https://www.spiegel.de/panorama/us-militaer-in-bayern-empfahl-truppe-gang-zur-tafel](https://www.spiegel.de/panorama/us-militaer-in-bayern-empfahl-truppe-gang-zur-tafel-a-6f366675-c1aa-465a-9a46-2379fb73c2fc#ref=rss)
+### wohnung
+
+* [https://www.spiegel.de/start/psychologie-niemand-sagt-dir-wie-weh-der-auszug-aus-der-ersten-eigenen-wohnung-tut](https://www.spiegel.de/start/psychologie-niemand-sagt-dir-wie-weh-der-auszug-aus-der-ersten-eigenen-wohnung-tut-a-3ca93f9b-9aa8-429a-8800-5b9a1bbcee68#ref=rss)
+* [https://www.spiegel.de/politik/wohnungsmangel-weltweit-wir-suchen-eine-wohnung-fuer-zwei-milliarden-leute](https://www.spiegel.de/politik/wohnungsmangel-weltweit-wir-suchen-eine-wohnung-fuer-zwei-milliarden-leute-a-16a24c3c-4ba7-4280-b104-af503c10a271#ref=rss)
+### renault
+
+* [https://www.spiegel.de/auto/renault-4-e-tech-im-test-franzoesisches-elektromobil-mit-baguette-halterung](https://www.spiegel.de/auto/renault-4-e-tech-im-test-franzoesisches-elektromobil-mit-baguette-halterung-a-bd2ae136-b460-4c36-b420-6e7c7f387627#ref=rss)
+### 4
+
+* [https://www.spiegel.de/auto/renault-4-e-tech-im-test-franzoesisches-elektromobil-mit-baguette-halterung](https://www.spiegel.de/auto/renault-4-e-tech-im-test-franzoesisches-elektromobil-mit-baguette-halterung-a-bd2ae136-b460-4c36-b420-6e7c7f387627#ref=rss)
+### etech
+
+* [https://www.spiegel.de/auto/renault-4-e-tech-im-test-franzoesisches-elektromobil-mit-baguette-halterung](https://www.spiegel.de/auto/renault-4-e-tech-im-test-franzoesisches-elektromobil-mit-baguette-halterung-a-bd2ae136-b460-4c36-b420-6e7c7f387627#ref=rss)
+### kim
+
+* [https://www.spiegel.de/kultur/kim-kardashian-neue-serie-alls-fair-das-kann-nicht-alles-sein](https://www.spiegel.de/kultur/kim-kardashian-neue-serie-alls-fair-das-kann-nicht-alles-sein-a-8d32ab27-9e03-4e8d-a36f-49cd5d87daa3#ref=rss)
+### all’s
+
+* [https://www.spiegel.de/kultur/kim-kardashian-neue-serie-alls-fair-das-kann-nicht-alles-sein](https://www.spiegel.de/kultur/kim-kardashian-neue-serie-alls-fair-das-kann-nicht-alles-sein-a-8d32ab27-9e03-4e8d-a36f-49cd5d87daa3#ref=rss)
+### fair
+
+* [https://www.spiegel.de/kultur/kim-kardashian-neue-serie-alls-fair-das-kann-nicht-alles-sein](https://www.spiegel.de/kultur/kim-kardashian-neue-serie-alls-fair-das-kann-nicht-alles-sein-a-8d32ab27-9e03-4e8d-a36f-49cd5d87daa3#ref=rss)
+### alle
+
+* [https://www.spiegel.de/kultur/kim-kardashian-neue-serie-alls-fair-das-kann-nicht-alles-sein](https://www.spiegel.de/kultur/kim-kardashian-neue-serie-alls-fair-das-kann-nicht-alles-sein-a-8d32ab27-9e03-4e8d-a36f-49cd5d87daa3#ref=rss)
+* [https://www.spiegel.de/kultur/musik/patti-smith-alle-meine-maenner-sind-tot-aber-was-soll-man-machen-so-ist-es-eben](https://www.spiegel.de/kultur/musik/patti-smith-alle-meine-maenner-sind-tot-aber-was-soll-man-machen-so-ist-es-eben-a-f9873608-96d7-4f82-b83e-f3aabf155bd8#ref=rss)
+### sagen
+
+* [https://www.spiegel.de/kultur/kim-kardashian-neue-serie-alls-fair-das-kann-nicht-alles-sein](https://www.spiegel.de/kultur/kim-kardashian-neue-serie-alls-fair-das-kann-nicht-alles-sein-a-8d32ab27-9e03-4e8d-a36f-49cd5d87daa3#ref=rss)
+* [https://www.spiegel.de/kultur/gleichstellung-anteil-von-journalistinnen-in-fuehrungspositionen-stagniert](https://www.spiegel.de/kultur/gleichstellung-anteil-von-journalistinnen-in-fuehrungspositionen-stagniert-a-893a8804-adac-4edc-826b-0236a1596b2c#ref=rss)
+### burschenschaften
+
+* [https://www.spiegel.de/ausland/burschenschaften-was-passiert-in-damenverbindungen-podcast](https://www.spiegel.de/ausland/burschenschaften-was-passiert-in-damenverbindungen-podcast-a-9b453341-5a3e-4a21-9394-10264a5221fe#ref=rss)
+### passiert
+
+* [https://www.spiegel.de/ausland/burschenschaften-was-passiert-in-damenverbindungen-podcast](https://www.spiegel.de/ausland/burschenschaften-was-passiert-in-damenverbindungen-podcast-a-9b453341-5a3e-4a21-9394-10264a5221fe#ref=rss)
+* [https://www.spiegel.de/kultur/dann-passiert-das-leben-mit-anke-engelke-die-wiederentdeckung-der-liebe](https://www.spiegel.de/kultur/dann-passiert-das-leben-mit-anke-engelke-die-wiederentdeckung-der-liebe-a-8377e85c-e8c7-42bf-b8db-089c5a5e3031#ref=rss)
+### damenverbindungen
+
+* [https://www.spiegel.de/ausland/burschenschaften-was-passiert-in-damenverbindungen-podcast](https://www.spiegel.de/ausland/burschenschaften-was-passiert-in-damenverbindungen-podcast-a-9b453341-5a3e-4a21-9394-10264a5221fe#ref=rss)
+### offizier
+
+* [https://www.spiegel.de/ausland/ukraine-ermittlungen-gegen-ukrainischen-offizier-nach-angriff-auf-zeremonie](https://www.spiegel.de/ausland/ukraine-ermittlungen-gegen-ukrainischen-offizier-nach-angriff-auf-zeremonie-a-07c30c5b-f196-4c5f-890b-563ca3566b90#ref=rss)
+### orbán
+
+* [https://www.spiegel.de/ausland/viktor-orban-und-donald-trump-laestern-ueber-siegchancen-der-ukraine](https://www.spiegel.de/ausland/viktor-orban-und-donald-trump-laestern-ueber-siegchancen-der-ukraine-a-9bac951f-b075-489c-906d-32e6d1c5bf3f#ref=rss)
+### allem
+
+* [https://www.spiegel.de/ausland/viktor-orban-und-donald-trump-laestern-ueber-siegchancen-der-ukraine](https://www.spiegel.de/ausland/viktor-orban-und-donald-trump-laestern-ueber-siegchancen-der-ukraine-a-9bac951f-b075-489c-906d-32e6d1c5bf3f#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-ist-der-rapper-mit-dem-politischen-gespuer](https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-ist-der-rapper-mit-dem-politischen-gespuer-a-207eba62-0211-4ef5-be6e-b914f16a10c8#ref=rss)
+### august
+
+* [https://www.spiegel.de/panorama/justiz/bericht-ex-bnd-chef-hanning-soll-an-fehlgeschlagenem-entfuehrungsversuch-der-block-kinder-beteiligt-gewesen-sein](https://www.spiegel.de/panorama/justiz/bericht-ex-bnd-chef-hanning-soll-an-fehlgeschlagenem-entfuehrungsversuch-der-block-kinder-beteiligt-gewesen-sein-a-655693d5-858d-49d8-b6f2-01116d82921c#ref=rss)
+### hanning
+
+* [https://www.spiegel.de/panorama/justiz/bericht-ex-bnd-chef-hanning-soll-an-fehlgeschlagenem-entfuehrungsversuch-der-block-kinder-beteiligt-gewesen-sein](https://www.spiegel.de/panorama/justiz/bericht-ex-bnd-chef-hanning-soll-an-fehlgeschlagenem-entfuehrungsversuch-der-block-kinder-beteiligt-gewesen-sein-a-655693d5-858d-49d8-b6f2-01116d82921c#ref=rss)
+### patti
+
+* [https://www.spiegel.de/kultur/musik/patti-smith-alle-meine-maenner-sind-tot-aber-was-soll-man-machen-so-ist-es-eben](https://www.spiegel.de/kultur/musik/patti-smith-alle-meine-maenner-sind-tot-aber-was-soll-man-machen-so-ist-es-eben-a-f9873608-96d7-4f82-b83e-f3aabf155bd8#ref=rss)
+### smith
+
+* [https://www.spiegel.de/kultur/musik/patti-smith-alle-meine-maenner-sind-tot-aber-was-soll-man-machen-so-ist-es-eben](https://www.spiegel.de/kultur/musik/patti-smith-alle-meine-maenner-sind-tot-aber-was-soll-man-machen-so-ist-es-eben-a-f9873608-96d7-4f82-b83e-f3aabf155bd8#ref=rss)
+### männer
+
+* [https://www.spiegel.de/kultur/musik/patti-smith-alle-meine-maenner-sind-tot-aber-was-soll-man-machen-so-ist-es-eben](https://www.spiegel.de/kultur/musik/patti-smith-alle-meine-maenner-sind-tot-aber-was-soll-man-machen-so-ist-es-eben-a-f9873608-96d7-4f82-b83e-f3aabf155bd8#ref=rss)
+* [https://www.spiegel.de/kultur/gleichstellung-anteil-von-journalistinnen-in-fuehrungspositionen-stagniert](https://www.spiegel.de/kultur/gleichstellung-anteil-von-journalistinnen-in-fuehrungspositionen-stagniert-a-893a8804-adac-4edc-826b-0236a1596b2c#ref=rss)
+### cornell
+
+* [https://www.spiegel.de/ausland/usa-cornell-university-einigt-sich-mit-trump-regierung-auf-deal](https://www.spiegel.de/ausland/usa-cornell-university-einigt-sich-mit-trump-regierung-auf-deal-a-46cdc209-2fd8-4449-870d-7606ab0ea196#ref=rss)
+### university
+
+* [https://www.spiegel.de/ausland/usa-cornell-university-einigt-sich-mit-trump-regierung-auf-deal](https://www.spiegel.de/ausland/usa-cornell-university-einigt-sich-mit-trump-regierung-auf-deal-a-46cdc209-2fd8-4449-870d-7606ab0ea196#ref=rss)
+### deal
+
+* [https://www.spiegel.de/ausland/usa-cornell-university-einigt-sich-mit-trump-regierung-auf-deal](https://www.spiegel.de/ausland/usa-cornell-university-einigt-sich-mit-trump-regierung-auf-deal-a-46cdc209-2fd8-4449-870d-7606ab0ea196#ref=rss)
+### new
+
+* [https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-ist-der-rapper-mit-dem-politischen-gespuer](https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-ist-der-rapper-mit-dem-politischen-gespuer-a-207eba62-0211-4ef5-be6e-b914f16a10c8#ref=rss)
+### zohran
+
+* [https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-ist-der-rapper-mit-dem-politischen-gespuer](https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-ist-der-rapper-mit-dem-politischen-gespuer-a-207eba62-0211-4ef5-be6e-b914f16a10c8#ref=rss)
+### mamdani
+
+* [https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-ist-der-rapper-mit-dem-politischen-gespuer](https://www.spiegel.de/ausland/new-york-city-zohran-mamdani-ist-der-rapper-mit-dem-politischen-gespuer-a-207eba62-0211-4ef5-be6e-b914f16a10c8#ref=rss)
+### leben
+
+* [https://www.spiegel.de/kultur/dann-passiert-das-leben-mit-anke-engelke-die-wiederentdeckung-der-liebe](https://www.spiegel.de/kultur/dann-passiert-das-leben-mit-anke-engelke-die-wiederentdeckung-der-liebe-a-8377e85c-e8c7-42bf-b8db-089c5a5e3031#ref=rss)
+* [https://www.spiegel.de/panorama/leute/spanien-juan-carlos-erzaehlt-wie-sein-bruder-beim-spielen-mit-einer-pistole-ums-leben-kam](https://www.spiegel.de/panorama/leute/spanien-juan-carlos-erzaehlt-wie-sein-bruder-beim-spielen-mit-einer-pistole-ums-leben-kam-a-2509afd6-505c-4e0c-b500-82920477370e#ref=rss)
+### anke
+
+* [https://www.spiegel.de/kultur/dann-passiert-das-leben-mit-anke-engelke-die-wiederentdeckung-der-liebe](https://www.spiegel.de/kultur/dann-passiert-das-leben-mit-anke-engelke-die-wiederentdeckung-der-liebe-a-8377e85c-e8c7-42bf-b8db-089c5a5e3031#ref=rss)
+### engelke
+
+* [https://www.spiegel.de/kultur/dann-passiert-das-leben-mit-anke-engelke-die-wiederentdeckung-der-liebe](https://www.spiegel.de/kultur/dann-passiert-das-leben-mit-anke-engelke-die-wiederentdeckung-der-liebe-a-8377e85c-e8c7-42bf-b8db-089c5a5e3031#ref=rss)
+### juan
+
+* [https://www.spiegel.de/panorama/leute/spanien-juan-carlos-erzaehlt-wie-sein-bruder-beim-spielen-mit-einer-pistole-ums-leben-kam](https://www.spiegel.de/panorama/leute/spanien-juan-carlos-erzaehlt-wie-sein-bruder-beim-spielen-mit-einer-pistole-ums-leben-kam-a-2509afd6-505c-4e0c-b500-82920477370e#ref=rss)
+### carlos
+
+* [https://www.spiegel.de/panorama/leute/spanien-juan-carlos-erzaehlt-wie-sein-bruder-beim-spielen-mit-einer-pistole-ums-leben-kam](https://www.spiegel.de/panorama/leute/spanien-juan-carlos-erzaehlt-wie-sein-bruder-beim-spielen-mit-einer-pistole-ums-leben-kam-a-2509afd6-505c-4e0c-b500-82920477370e#ref=rss)
 
