@@ -4,350 +4,345 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### china
+
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast-a-c6ec2513-01c8-45f5-a7ca-249d06dec1aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-a-5637b6ef-d221-4886-bfa9-e6629b3aaeb8#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-konflikt-chinesischer-diplomat-droht-japanischer-regierungschefin-mit-enthauptung](https://www.spiegel.de/ausland/taiwan-konflikt-chinesischer-diplomat-droht-japanischer-regierungschefin-mit-enthauptung-a-501a16c4-3306-4dfb-9284-a76cb0a554db#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast-a-c6ec2513-01c8-45f5-a7ca-249d06dec1aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-a-5637b6ef-d221-4886-bfa9-e6629b3aaeb8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-uno-klimakonferenz-in-brasilien-sahra-wagenknecht-nicolas-sarkozy](https://www.spiegel.de/politik/deutschland/news-des-tages-uno-klimakonferenz-in-brasilien-sahra-wagenknecht-nicolas-sarkozy-a-a771cd1b-90ef-404f-9d93-e619e0ebcb1c#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-maria-corina-machado-setzt-sich-bei-donald-trump-fuer-eine-militaerische-intervention-ein](https://www.spiegel.de/ausland/venezuela-maria-corina-machado-setzt-sich-bei-donald-trump-fuer-eine-militaerische-intervention-ein-a-02df11ff-693f-4ab8-b465-da28973968eb#ref=rss)
+* [https://www.spiegel.de/ausland/aussenpolitik-der-usa-donald-trump-hat-ein-bestimmtes-modell-von-der-welt-im-kopf](https://www.spiegel.de/ausland/aussenpolitik-der-usa-donald-trump-hat-ein-bestimmtes-modell-von-der-welt-im-kopf-a-3d47ba54-ee94-45b4-a945-2795c02d3e40#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/neustrelitz-mann-knoepft-aelterer-dame-jahrelang-tausende-euro-fuer-kartoffeln-ab](https://www.spiegel.de/panorama/justiz/neustrelitz-mann-knoepft-aelterer-dame-jahrelang-tausende-euro-fuer-kartoffeln-ab-a-79e44c01-114c-4422-82bf-5c99e919ae93#ref=rss)
+* [https://www.spiegel.de/ausland/indien-mindestens-acht-tote-nach-explosion-in-neu-delhi](https://www.spiegel.de/ausland/indien-mindestens-acht-tote-nach-explosion-in-neu-delhi-a-a485acca-d7c8-450f-af26-3daa89a93bb9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fuessen-polizei-stoppt-fahrer-mit-31-schildkroeten-im-auto](https://www.spiegel.de/panorama/justiz/fuessen-polizei-stoppt-fahrer-mit-31-schildkroeten-im-auto-a-157c39e9-4f29-40e2-b587-725dcf5e481b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/koeln-mann-soll-75-jaehrigen-mitpatienten-auf-intensivstation-getoetet-haben](https://www.spiegel.de/panorama/justiz/koeln-mann-soll-75-jaehrigen-mitpatienten-auf-intensivstation-getoetet-haben-a-2d279818-4b7c-49d0-88c1-c2c834724b97#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/bbc-umstrittene-ruecktritte-statements-im-wortlaut](https://www.spiegel.de/ausland/bbc-umstrittene-ruecktritte-statements-im-wortlaut-a-510c6c23-0db9-426b-8e01-8ec794170f45#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jimmy-kimmel-molly-mcnearney-berichtet-von-konflikten-mit-anhaengern-von-donald-trump-in-ihrer-familie](https://www.spiegel.de/panorama/leute/jimmy-kimmel-molly-mcnearney-berichtet-von-konflikten-mit-anhaengern-von-donald-trump-in-ihrer-familie-a-755676bf-1702-4d4f-91bc-9bf7de304b12#ref=rss)
-* [https://www.spiegel.de/wissenschaft/donald-trump-und-sein-feldzug-gegen-den-klimaschutz-der-brandstifter](https://www.spiegel.de/wissenschaft/donald-trump-und-sein-feldzug-gegen-den-klimaschutz-der-brandstifter-a-c4af9110-7012-4a85-91d2-dad25b9d5a2d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ahmed-al-sharaa-bei-donald-trump-bbc-prozess-gegen-magdeburg-todesfahrer](https://www.spiegel.de/politik/deutschland/news-ahmed-al-sharaa-bei-donald-trump-bbc-prozess-gegen-magdeburg-todesfahrer-a-06293d7e-aa9a-4036-a4cc-b061953f2f5d#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-uebergangspraesident-al-sharaa-spielt-basketball-mit-us-soldaten](https://www.spiegel.de/ausland/syrien-uebergangspraesident-al-sharaa-spielt-basketball-mit-us-soldaten-a-63c4c994-a714-4853-af3f-3596de09f08b#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-maria-corina-machado-setzt-sich-bei-donald-trump-fuer-eine-militaerische-intervention-ein](https://www.spiegel.de/ausland/venezuela-maria-corina-machado-setzt-sich-bei-donald-trump-fuer-eine-militaerische-intervention-ein-a-02df11ff-693f-4ab8-b465-da28973968eb#ref=rss)
+* [https://www.spiegel.de/ausland/aussenpolitik-der-usa-donald-trump-hat-ein-bestimmtes-modell-von-der-welt-im-kopf](https://www.spiegel.de/ausland/aussenpolitik-der-usa-donald-trump-hat-ein-bestimmtes-modell-von-der-welt-im-kopf-a-3d47ba54-ee94-45b4-a945-2795c02d3e40#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/bbc-umstrittene-ruecktritte-statements-im-wortlaut](https://www.spiegel.de/ausland/bbc-umstrittene-ruecktritte-statements-im-wortlaut-a-510c6c23-0db9-426b-8e01-8ec794170f45#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jimmy-kimmel-molly-mcnearney-berichtet-von-konflikten-mit-anhaengern-von-donald-trump-in-ihrer-familie](https://www.spiegel.de/panorama/leute/jimmy-kimmel-molly-mcnearney-berichtet-von-konflikten-mit-anhaengern-von-donald-trump-in-ihrer-familie-a-755676bf-1702-4d4f-91bc-9bf7de304b12#ref=rss)
-* [https://www.spiegel.de/wissenschaft/donald-trump-und-sein-feldzug-gegen-den-klimaschutz-der-brandstifter](https://www.spiegel.de/wissenschaft/donald-trump-und-sein-feldzug-gegen-den-klimaschutz-der-brandstifter-a-c4af9110-7012-4a85-91d2-dad25b9d5a2d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ahmed-al-sharaa-bei-donald-trump-bbc-prozess-gegen-magdeburg-todesfahrer](https://www.spiegel.de/politik/deutschland/news-ahmed-al-sharaa-bei-donald-trump-bbc-prozess-gegen-magdeburg-todesfahrer-a-06293d7e-aa9a-4036-a4cc-b061953f2f5d#ref=rss)
-### bbc
+* [https://www.spiegel.de/ausland/syrien-uebergangspraesident-al-sharaa-spielt-basketball-mit-us-soldaten](https://www.spiegel.de/ausland/syrien-uebergangspraesident-al-sharaa-spielt-basketball-mit-us-soldaten-a-63c4c994-a714-4853-af3f-3596de09f08b#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-maria-corina-machado-setzt-sich-bei-donald-trump-fuer-eine-militaerische-intervention-ein](https://www.spiegel.de/ausland/venezuela-maria-corina-machado-setzt-sich-bei-donald-trump-fuer-eine-militaerische-intervention-ein-a-02df11ff-693f-4ab8-b465-da28973968eb#ref=rss)
+* [https://www.spiegel.de/ausland/aussenpolitik-der-usa-donald-trump-hat-ein-bestimmtes-modell-von-der-welt-im-kopf](https://www.spiegel.de/ausland/aussenpolitik-der-usa-donald-trump-hat-ein-bestimmtes-modell-von-der-welt-im-kopf-a-3d47ba54-ee94-45b4-a945-2795c02d3e40#ref=rss)
+### brasilien
 
-* [https://www.spiegel.de/ausland/bbc-umstrittene-ruecktritte-statements-im-wortlaut](https://www.spiegel.de/ausland/bbc-umstrittene-ruecktritte-statements-im-wortlaut-a-510c6c23-0db9-426b-8e01-8ec794170f45#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ahmed-al-sharaa-bei-donald-trump-bbc-prozess-gegen-magdeburg-todesfahrer](https://www.spiegel.de/politik/deutschland/news-ahmed-al-sharaa-bei-donald-trump-bbc-prozess-gegen-magdeburg-todesfahrer-a-06293d7e-aa9a-4036-a4cc-b061953f2f5d#ref=rss)
-### job
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast-a-c6ec2513-01c8-45f5-a7ca-249d06dec1aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-a-5637b6ef-d221-4886-bfa9-e6629b3aaeb8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-uno-klimakonferenz-in-brasilien-sahra-wagenknecht-nicolas-sarkozy](https://www.spiegel.de/politik/deutschland/news-des-tages-uno-klimakonferenz-in-brasilien-sahra-wagenknecht-nicolas-sarkozy-a-a771cd1b-90ef-404f-9d93-e619e0ebcb1c#ref=rss)
+### übernimmt
 
-* [https://www.spiegel.de/start/arbeitslose-akademiker-was-wenn-ich-nach-der-uni-keinen-job-finde](https://www.spiegel.de/start/arbeitslose-akademiker-was-wenn-ich-nach-der-uni-keinen-job-finde-a-28aff1b3-4320-4b8f-b478-6b2a5f1ae566#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslosigkeit-wegen-meiner-zukunftsaengste-bin-ich-in-therapie](https://www.spiegel.de/karriere/arbeitslosigkeit-wegen-meiner-zukunftsaengste-bin-ich-in-therapie-a-39d0271d-b34a-4ce6-8198-dd5ec59475e5#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslosigkeit-maschinenbau-absolvent-kaempft-um-krisensicheren-job](https://www.spiegel.de/karriere/arbeitslosigkeit-maschinenbau-absolvent-kaempft-um-krisensicheren-job-a-a32c7553-ce3d-4844-9ede-a051cb056be3#ref=rss)
-### regierung
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast-a-c6ec2513-01c8-45f5-a7ca-249d06dec1aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-a-5637b6ef-d221-4886-bfa9-e6629b3aaeb8#ref=rss)
+### führungsrolle
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/shein-entgeht-vorerst-sperre-in-frankreich](https://www.spiegel.de/wirtschaft/unternehmen/shein-entgeht-vorerst-sperre-in-frankreich-a-4dc029f1-6b02-4efd-bda9-ffa765cf977d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse-a-5b611cbf-258b-4979-b699-4b47f64fdd9f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berliner-buergermeister-beklagt-zu-viel-streit-in-der-bundesregierung](https://www.spiegel.de/politik/deutschland/berliner-buergermeister-beklagt-zu-viel-streit-in-der-bundesregierung-a-808ec47d-caf7-451e-affa-cb274dc87246#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/shein-entgeht-vorerst-sperre-in-frankreich](https://www.spiegel.de/wirtschaft/unternehmen/shein-entgeht-vorerst-sperre-in-frankreich-a-4dc029f1-6b02-4efd-bda9-ffa765cf977d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse-a-5b611cbf-258b-4979-b699-4b47f64fdd9f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-deutschland-braucht-nicht-eine-liberale-partei-sondern-zwei](https://www.spiegel.de/politik/deutschland/fdp-deutschland-braucht-nicht-eine-liberale-partei-sondern-zwei-a-5d66760c-88f1-4026-aae5-d76c9864994e#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/niko-springer-deutsche-darts-hoffnung-schlaegt-zweiten-ex-weltmeister-in-folge](https://www.spiegel.de/sport/niko-springer-deutsche-darts-hoffnung-schlaegt-zweiten-ex-weltmeister-in-folge-a-ef09d16e-dbd7-4c46-9685-4c7878ced360#ref=rss)
-* [https://www.spiegel.de/panorama/teneriffa-drei-deutsche-unter-den-verletzten-durch-riesenwellen](https://www.spiegel.de/panorama/teneriffa-drei-deutsche-unter-den-verletzten-durch-riesenwellen-a-5ae2a8c4-455e-47ce-95d4-bd0b6da3c2ab#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/teneriffa-drei-deutsche-unter-den-verletzten-durch-riesenwellen](https://www.spiegel.de/panorama/teneriffa-drei-deutsche-unter-den-verletzten-durch-riesenwellen-a-5ae2a8c4-455e-47ce-95d4-bd0b6da3c2ab#ref=rss)
-* [https://www.spiegel.de/wirtschaft/chemieindustrie-schlechtester-auftragsbestand-seit-jahrzehnten](https://www.spiegel.de/wirtschaft/chemieindustrie-schlechtester-auftragsbestand-seit-jahrzehnten-a-bd0d5126-58dd-40a2-a49d-cca3898859e4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/donald-trump-und-sein-feldzug-gegen-den-klimaschutz-der-brandstifter](https://www.spiegel.de/wissenschaft/donald-trump-und-sein-feldzug-gegen-den-klimaschutz-der-brandstifter-a-c4af9110-7012-4a85-91d2-dad25b9d5a2d#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-alles-zum-prozessbeginn-gegen-taleb-al-abdulmohsen](https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-alles-zum-prozessbeginn-gegen-taleb-al-abdulmohsen-a-4d8fe179-b842-4d41-ac87-0d8564958b80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ahmed-al-sharaa-bei-donald-trump-bbc-prozess-gegen-magdeburg-todesfahrer](https://www.spiegel.de/politik/deutschland/news-ahmed-al-sharaa-bei-donald-trump-bbc-prozess-gegen-magdeburg-todesfahrer-a-06293d7e-aa9a-4036-a4cc-b061953f2f5d#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/fdp-deutschland-braucht-nicht-eine-liberale-partei-sondern-zwei](https://www.spiegel.de/politik/deutschland/fdp-deutschland-braucht-nicht-eine-liberale-partei-sondern-zwei-a-5d66760c-88f1-4026-aae5-d76c9864994e#ref=rss)
-* [https://www.spiegel.de/panorama/gotha-und-rietheim-weilheim-toter-mann-bei-loescharbeiten-gefunden-kinder-schwer-verletzt](https://www.spiegel.de/panorama/gotha-und-rietheim-weilheim-toter-mann-bei-loescharbeiten-gefunden-kinder-schwer-verletzt-a-7db25c03-1a42-4bc3-ad24-fbd8e0cd867e#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslosigkeit-wegen-meiner-zukunftsaengste-bin-ich-in-therapie](https://www.spiegel.de/karriere/arbeitslosigkeit-wegen-meiner-zukunftsaengste-bin-ich-in-therapie-a-39d0271d-b34a-4ce6-8198-dd5ec59475e5#ref=rss)
-### streit
-
-* [https://www.spiegel.de/start/eltern-besuch-im-studium-wie-man-streit-vermeidet-und-alte-rollen-ablegt](https://www.spiegel.de/start/eltern-besuch-im-studium-wie-man-streit-vermeidet-und-alte-rollen-ablegt-a-fed6ba17-8b12-456c-834a-1957884e82a1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berliner-buergermeister-beklagt-zu-viel-streit-in-der-bundesregierung](https://www.spiegel.de/politik/deutschland/berliner-buergermeister-beklagt-zu-viel-streit-in-der-bundesregierung-a-808ec47d-caf7-451e-affa-cb274dc87246#ref=rss)
-### neue
-
-* [https://www.spiegel.de/start/eltern-besuch-im-studium-wie-man-streit-vermeidet-und-alte-rollen-ablegt](https://www.spiegel.de/start/eltern-besuch-im-studium-wie-man-streit-vermeidet-und-alte-rollen-ablegt-a-fed6ba17-8b12-456c-834a-1957884e82a1#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-ex-praesident-yoon-soll-konflikt-mit-nordkorea-provoziert-haben](https://www.spiegel.de/ausland/suedkorea-ex-praesident-yoon-soll-konflikt-mit-nordkorea-provoziert-haben-a-f9e449a3-4b2a-469b-82ba-15c72ead51e3#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-sao-paulo-norris-triumphiert-doch-verstappen-bleibt-der-koenig](https://www.spiegel.de/sport/formel1/formel-1-in-sao-paulo-norris-triumphiert-doch-verstappen-bleibt-der-koenig-a-6dcc90d5-46d7-4c7a-96e4-8eff50a44e20#ref=rss)
-* [https://www.spiegel.de/auto/tesla-fahrmodus-mad-max-der-richtige-modus-wenn-sie-spaet-dran-sind](https://www.spiegel.de/auto/tesla-fahrmodus-mad-max-der-richtige-modus-wenn-sie-spaet-dran-sind-a-e46de5e7-5b25-477a-a8c6-bf511f289175#ref=rss)
-### yoon
-
-* [https://www.spiegel.de/ausland/suedkorea-ex-praesident-yoon-soll-konflikt-mit-nordkorea-provoziert-haben](https://www.spiegel.de/ausland/suedkorea-ex-praesident-yoon-soll-konflikt-mit-nordkorea-provoziert-haben-a-f9e449a3-4b2a-469b-82ba-15c72ead51e3#ref=rss)
-### niko
-
-* [https://www.spiegel.de/sport/niko-springer-deutsche-darts-hoffnung-schlaegt-zweiten-ex-weltmeister-in-folge](https://www.spiegel.de/sport/niko-springer-deutsche-darts-hoffnung-schlaegt-zweiten-ex-weltmeister-in-folge-a-ef09d16e-dbd7-4c46-9685-4c7878ced360#ref=rss)
-### springer
-
-* [https://www.spiegel.de/sport/niko-springer-deutsche-darts-hoffnung-schlaegt-zweiten-ex-weltmeister-in-folge](https://www.spiegel.de/sport/niko-springer-deutsche-darts-hoffnung-schlaegt-zweiten-ex-weltmeister-in-folge-a-ef09d16e-dbd7-4c46-9685-4c7878ced360#ref=rss)
-### erstes
-
-* [https://www.spiegel.de/sport/niko-springer-deutsche-darts-hoffnung-schlaegt-zweiten-ex-weltmeister-in-folge](https://www.spiegel.de/sport/niko-springer-deutsche-darts-hoffnung-schlaegt-zweiten-ex-weltmeister-in-folge-a-ef09d16e-dbd7-4c46-9685-4c7878ced360#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-mehr-als-70-000-fans-feiern-football-party-im-berliner-olympiastadion](https://www.spiegel.de/sport/american-football/nfl-mehr-als-70-000-fans-feiern-football-party-im-berliner-olympiastadion-a-b46433c3-2667-4e67-af0a-b76839ce075f#ref=rss)
-### großer
-
-* [https://www.spiegel.de/sport/niko-springer-deutsche-darts-hoffnung-schlaegt-zweiten-ex-weltmeister-in-folge](https://www.spiegel.de/sport/niko-springer-deutsche-darts-hoffnung-schlaegt-zweiten-ex-weltmeister-in-folge-a-ef09d16e-dbd7-4c46-9685-4c7878ced360#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-sao-paulo-norris-triumphiert-doch-verstappen-bleibt-der-koenig](https://www.spiegel.de/sport/formel1/formel-1-in-sao-paulo-norris-triumphiert-doch-verstappen-bleibt-der-koenig-a-6dcc90d5-46d7-4c7a-96e4-8eff50a44e20#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/sport/niko-springer-deutsche-darts-hoffnung-schlaegt-zweiten-ex-weltmeister-in-folge](https://www.spiegel.de/sport/niko-springer-deutsche-darts-hoffnung-schlaegt-zweiten-ex-weltmeister-in-folge-a-ef09d16e-dbd7-4c46-9685-4c7878ced360#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse-a-5b611cbf-258b-4979-b699-4b47f64fdd9f#ref=rss)
-### michael
-
-* [https://www.spiegel.de/sport/niko-springer-deutsche-darts-hoffnung-schlaegt-zweiten-ex-weltmeister-in-folge](https://www.spiegel.de/sport/niko-springer-deutsche-darts-hoffnung-schlaegt-zweiten-ex-weltmeister-in-folge-a-ef09d16e-dbd7-4c46-9685-4c7878ced360#ref=rss)
-* [https://www.spiegel.de/wissenschaft/abnehmspritzen-sollten-krankenkassen-die-kosten-bei-risikopatienten-uebernehmen](https://www.spiegel.de/wissenschaft/abnehmspritzen-sollten-krankenkassen-die-kosten-bei-risikopatienten-uebernehmen-a-efb5ed0b-661e-496e-9677-acca3129dd45#ref=rss)
-### macht
-
-* [https://www.spiegel.de/sport/niko-springer-deutsche-darts-hoffnung-schlaegt-zweiten-ex-weltmeister-in-folge](https://www.spiegel.de/sport/niko-springer-deutsche-darts-hoffnung-schlaegt-zweiten-ex-weltmeister-in-folge-a-ef09d16e-dbd7-4c46-9685-4c7878ced360#ref=rss)
-* [https://www.spiegel.de/wissenschaft/donald-trump-und-sein-feldzug-gegen-den-klimaschutz-der-brandstifter](https://www.spiegel.de/wissenschaft/donald-trump-und-sein-feldzug-gegen-den-klimaschutz-der-brandstifter-a-c4af9110-7012-4a85-91d2-dad25b9d5a2d#ref=rss)
-### berlins
-
-* [https://www.spiegel.de/sport/american-football/nfl-mehr-als-70-000-fans-feiern-football-party-im-berliner-olympiastadion](https://www.spiegel.de/sport/american-football/nfl-mehr-als-70-000-fans-feiern-football-party-im-berliner-olympiastadion-a-b46433c3-2667-4e67-af0a-b76839ce075f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berliner-buergermeister-beklagt-zu-viel-streit-in-der-bundesregierung](https://www.spiegel.de/politik/deutschland/berliner-buergermeister-beklagt-zu-viel-streit-in-der-bundesregierung-a-808ec47d-caf7-451e-affa-cb274dc87246#ref=rss)
-### großen
-
-* [https://www.spiegel.de/sport/american-football/nfl-mehr-als-70-000-fans-feiern-football-party-im-berliner-olympiastadion](https://www.spiegel.de/sport/american-football/nfl-mehr-als-70-000-fans-feiern-football-party-im-berliner-olympiastadion-a-b46433c3-2667-4e67-af0a-b76839ce075f#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-sao-paulo-norris-triumphiert-doch-verstappen-bleibt-der-koenig](https://www.spiegel.de/sport/formel1/formel-1-in-sao-paulo-norris-triumphiert-doch-verstappen-bleibt-der-koenig-a-6dcc90d5-46d7-4c7a-96e4-8eff50a44e20#ref=rss)
-### wortlaut
-
-* [https://www.spiegel.de/ausland/bbc-umstrittene-ruecktritte-statements-im-wortlaut](https://www.spiegel.de/ausland/bbc-umstrittene-ruecktritte-statements-im-wortlaut-a-510c6c23-0db9-426b-8e01-8ec794170f45#ref=rss)
-### rückzug
-
-* [https://www.spiegel.de/ausland/bbc-umstrittene-ruecktritte-statements-im-wortlaut](https://www.spiegel.de/ausland/bbc-umstrittene-ruecktritte-statements-im-wortlaut-a-510c6c23-0db9-426b-8e01-8ec794170f45#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ahmed-al-sharaa-bei-donald-trump-bbc-prozess-gegen-magdeburg-todesfahrer](https://www.spiegel.de/politik/deutschland/news-ahmed-al-sharaa-bei-donald-trump-bbc-prozess-gegen-magdeburg-todesfahrer-a-06293d7e-aa9a-4036-a4cc-b061953f2f5d#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/ausland/bbc-umstrittene-ruecktritte-statements-im-wortlaut](https://www.spiegel.de/ausland/bbc-umstrittene-ruecktritte-statements-im-wortlaut-a-510c6c23-0db9-426b-8e01-8ec794170f45#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/dennis-radtke-und-steffen-bilger-union-findet-spd-mitgliederbegehren-kein-gutes-signal](https://www.spiegel.de/politik/deutschland/dennis-radtke-und-steffen-bilger-union-findet-spd-mitgliederbegehren-kein-gutes-signal-a-3d985272-42d2-4145-bef1-9df365065aaa#ref=rss)
-### markus
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse-a-5b611cbf-258b-4979-b699-4b47f64fdd9f#ref=rss)
-### brunnermeier
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse-a-5b611cbf-258b-4979-b699-4b47f64fdd9f#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse-a-5b611cbf-258b-4979-b699-4b47f64fdd9f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/chemieindustrie-schlechtester-auftragsbestand-seit-jahrzehnten](https://www.spiegel.de/wirtschaft/chemieindustrie-schlechtester-auftragsbestand-seit-jahrzehnten-a-bd0d5126-58dd-40a2-a49d-cca3898859e4#ref=rss)
-### berät
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse-a-5b611cbf-258b-4979-b699-4b47f64fdd9f#ref=rss)
-* [https://www.spiegel.de/start/arbeitslose-akademiker-was-wenn-ich-nach-der-uni-keinen-job-finde](https://www.spiegel.de/start/arbeitslose-akademiker-was-wenn-ich-nach-der-uni-keinen-job-finde-a-28aff1b3-4320-4b8f-b478-6b2a5f1ae566#ref=rss)
-### merz
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse-a-5b611cbf-258b-4979-b699-4b47f64fdd9f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berliner-buergermeister-beklagt-zu-viel-streit-in-der-bundesregierung](https://www.spiegel.de/politik/deutschland/berliner-buergermeister-beklagt-zu-viel-streit-in-der-bundesregierung-a-808ec47d-caf7-451e-affa-cb274dc87246#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse-a-5b611cbf-258b-4979-b699-4b47f64fdd9f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/northern-data-us-plattform-rumble-kauft-deutschen-cloudbetreiber-northern-data](https://www.spiegel.de/wirtschaft/unternehmen/northern-data-us-plattform-rumble-kauft-deutschen-cloudbetreiber-northern-data-a-ae4946e6-f020-4a30-a7de-e923f9f5e4da#ref=rss)
-### findet
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-us-oekonom-markus-brunnermeier-warnt-vor-nostalgie-als-wachstumsbremse-a-5b611cbf-258b-4979-b699-4b47f64fdd9f#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslosigkeit-maschinenbau-absolvent-kaempft-um-krisensicheren-job](https://www.spiegel.de/karriere/arbeitslosigkeit-maschinenbau-absolvent-kaempft-um-krisensicheren-job-a-a32c7553-ce3d-4844-9ede-a051cb056be3#ref=rss)
-### bürgergeld
-
-* [https://www.spiegel.de/politik/deutschland/dennis-radtke-und-steffen-bilger-union-findet-spd-mitgliederbegehren-kein-gutes-signal](https://www.spiegel.de/politik/deutschland/dennis-radtke-und-steffen-bilger-union-findet-spd-mitgliederbegehren-kein-gutes-signal-a-3d985272-42d2-4145-bef1-9df365065aaa#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/dennis-radtke-und-steffen-bilger-union-findet-spd-mitgliederbegehren-kein-gutes-signal](https://www.spiegel.de/politik/deutschland/dennis-radtke-und-steffen-bilger-union-findet-spd-mitgliederbegehren-kein-gutes-signal-a-3d985272-42d2-4145-bef1-9df365065aaa#ref=rss)
-* [https://www.spiegel.de/politik/europaeische-union-von-der-leyen-reagiert-auf-kritik-am-haushaltsplan](https://www.spiegel.de/politik/europaeische-union-von-der-leyen-reagiert-auf-kritik-am-haushaltsplan-a-4ad85170-d086-48e4-85b9-624a5c59dfd4#ref=rss)
-### teneriffa
-
-* [https://www.spiegel.de/panorama/teneriffa-drei-deutsche-unter-den-verletzten-durch-riesenwellen](https://www.spiegel.de/panorama/teneriffa-drei-deutsche-unter-den-verletzten-durch-riesenwellen-a-5ae2a8c4-455e-47ce-95d4-bd0b6da3c2ab#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/teneriffa-drei-deutsche-unter-den-verletzten-durch-riesenwellen](https://www.spiegel.de/panorama/teneriffa-drei-deutsche-unter-den-verletzten-durch-riesenwellen-a-5ae2a8c4-455e-47ce-95d4-bd0b6da3c2ab#ref=rss)
-### riesenwellen
-
-* [https://www.spiegel.de/panorama/teneriffa-drei-deutsche-unter-den-verletzten-durch-riesenwellen](https://www.spiegel.de/panorama/teneriffa-drei-deutsche-unter-den-verletzten-durch-riesenwellen-a-5ae2a8c4-455e-47ce-95d4-bd0b6da3c2ab#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/teneriffa-drei-deutsche-unter-den-verletzten-durch-riesenwellen](https://www.spiegel.de/panorama/teneriffa-drei-deutsche-unter-den-verletzten-durch-riesenwellen-a-5ae2a8c4-455e-47ce-95d4-bd0b6da3c2ab#ref=rss)
-* [https://www.spiegel.de/panorama/gotha-und-rietheim-weilheim-toter-mann-bei-loescharbeiten-gefunden-kinder-schwer-verletzt](https://www.spiegel.de/panorama/gotha-und-rietheim-weilheim-toter-mann-bei-loescharbeiten-gefunden-kinder-schwer-verletzt-a-7db25c03-1a42-4bc3-ad24-fbd8e0cd867e#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/teneriffa-drei-deutsche-unter-den-verletzten-durch-riesenwellen](https://www.spiegel.de/panorama/teneriffa-drei-deutsche-unter-den-verletzten-durch-riesenwellen-a-5ae2a8c4-455e-47ce-95d4-bd0b6da3c2ab#ref=rss)
-* [https://www.spiegel.de/panorama/gotha-und-rietheim-weilheim-toter-mann-bei-loescharbeiten-gefunden-kinder-schwer-verletzt](https://www.spiegel.de/panorama/gotha-und-rietheim-weilheim-toter-mann-bei-loescharbeiten-gefunden-kinder-schwer-verletzt-a-7db25c03-1a42-4bc3-ad24-fbd8e0cd867e#ref=rss)
-### northern
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/northern-data-us-plattform-rumble-kauft-deutschen-cloudbetreiber-northern-data](https://www.spiegel.de/wirtschaft/unternehmen/northern-data-us-plattform-rumble-kauft-deutschen-cloudbetreiber-northern-data-a-ae4946e6-f020-4a30-a7de-e923f9f5e4da#ref=rss)
-### data
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/northern-data-us-plattform-rumble-kauft-deutschen-cloudbetreiber-northern-data](https://www.spiegel.de/wirtschaft/unternehmen/northern-data-us-plattform-rumble-kauft-deutschen-cloudbetreiber-northern-data-a-ae4946e6-f020-4a30-a7de-e923f9f5e4da#ref=rss)
-### rumble
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/northern-data-us-plattform-rumble-kauft-deutschen-cloudbetreiber-northern-data](https://www.spiegel.de/wirtschaft/unternehmen/northern-data-us-plattform-rumble-kauft-deutschen-cloudbetreiber-northern-data-a-ae4946e6-f020-4a30-a7de-e923f9f5e4da#ref=rss)
-### weihnachtsmarkt
-
-* [https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-alles-zum-prozessbeginn-gegen-taleb-al-abdulmohsen](https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-alles-zum-prozessbeginn-gegen-taleb-al-abdulmohsen-a-4d8fe179-b842-4d41-ac87-0d8564958b80#ref=rss)
-### magdeburg
-
-* [https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-alles-zum-prozessbeginn-gegen-taleb-al-abdulmohsen](https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-alles-zum-prozessbeginn-gegen-taleb-al-abdulmohsen-a-4d8fe179-b842-4d41-ac87-0d8564958b80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ahmed-al-sharaa-bei-donald-trump-bbc-prozess-gegen-magdeburg-todesfahrer](https://www.spiegel.de/politik/deutschland/news-ahmed-al-sharaa-bei-donald-trump-bbc-prozess-gegen-magdeburg-todesfahrer-a-06293d7e-aa9a-4036-a4cc-b061953f2f5d#ref=rss)
-### taleb
-
-* [https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-alles-zum-prozessbeginn-gegen-taleb-al-abdulmohsen](https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-alles-zum-prozessbeginn-gegen-taleb-al-abdulmohsen-a-4d8fe179-b842-4d41-ac87-0d8564958b80#ref=rss)
-### al
-
-* [https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-alles-zum-prozessbeginn-gegen-taleb-al-abdulmohsen](https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-alles-zum-prozessbeginn-gegen-taleb-al-abdulmohsen-a-4d8fe179-b842-4d41-ac87-0d8564958b80#ref=rss)
-### abdulmohsen
-
-* [https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-alles-zum-prozessbeginn-gegen-taleb-al-abdulmohsen](https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-alles-zum-prozessbeginn-gegen-taleb-al-abdulmohsen-a-4d8fe179-b842-4d41-ac87-0d8564958b80#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast-a-c6ec2513-01c8-45f5-a7ca-249d06dec1aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-a-5637b6ef-d221-4886-bfa9-e6629b3aaeb8#ref=rss)
 ### mann
 
-* [https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-alles-zum-prozessbeginn-gegen-taleb-al-abdulmohsen](https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-alles-zum-prozessbeginn-gegen-taleb-al-abdulmohsen-a-4d8fe179-b842-4d41-ac87-0d8564958b80#ref=rss)
-* [https://www.spiegel.de/panorama/gotha-und-rietheim-weilheim-toter-mann-bei-loescharbeiten-gefunden-kinder-schwer-verletzt](https://www.spiegel.de/panorama/gotha-und-rietheim-weilheim-toter-mann-bei-loescharbeiten-gefunden-kinder-schwer-verletzt-a-7db25c03-1a42-4bc3-ad24-fbd8e0cd867e#ref=rss)
-### abnehmspritzen
+* [https://www.spiegel.de/panorama/justiz/neustrelitz-mann-knoepft-aelterer-dame-jahrelang-tausende-euro-fuer-kartoffeln-ab](https://www.spiegel.de/panorama/justiz/neustrelitz-mann-knoepft-aelterer-dame-jahrelang-tausende-euro-fuer-kartoffeln-ab-a-79e44c01-114c-4422-82bf-5c99e919ae93#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-mann-acht-jahre-nach-seinem-tod-in-der-garage-gefunden](https://www.spiegel.de/panorama/justiz/essen-mann-acht-jahre-nach-seinem-tod-in-der-garage-gefunden-a-0f91411f-6eb5-44ff-b075-0fb96b7e669a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/koeln-mann-soll-75-jaehrigen-mitpatienten-auf-intensivstation-getoetet-haben](https://www.spiegel.de/panorama/justiz/koeln-mann-soll-75-jaehrigen-mitpatienten-auf-intensivstation-getoetet-haben-a-2d279818-4b7c-49d0-88c1-c2c834724b97#ref=rss)
+### 30
 
-* [https://www.spiegel.de/wissenschaft/abnehmspritzen-sollten-krankenkassen-die-kosten-bei-risikopatienten-uebernehmen](https://www.spiegel.de/wissenschaft/abnehmspritzen-sollten-krankenkassen-die-kosten-bei-risikopatienten-uebernehmen-a-efb5ed0b-661e-496e-9677-acca3129dd45#ref=rss)
-### krankenkassen
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast-a-c6ec2513-01c8-45f5-a7ca-249d06dec1aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-a-5637b6ef-d221-4886-bfa9-e6629b3aaeb8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-uno-klimakonferenz-in-brasilien-sahra-wagenknecht-nicolas-sarkozy](https://www.spiegel.de/politik/deutschland/news-des-tages-uno-klimakonferenz-in-brasilien-sahra-wagenknecht-nicolas-sarkozy-a-a771cd1b-90ef-404f-9d93-e619e0ebcb1c#ref=rss)
+### neues
 
-* [https://www.spiegel.de/wissenschaft/abnehmspritzen-sollten-krankenkassen-die-kosten-bei-risikopatienten-uebernehmen](https://www.spiegel.de/wissenschaft/abnehmspritzen-sollten-krankenkassen-die-kosten-bei-risikopatienten-uebernehmen-a-efb5ed0b-661e-496e-9677-acca3129dd45#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-gesundheitsministerin-nina-warken-will-zusatzbeitrag-bei-2-9-prozent-halten](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-gesundheitsministerin-nina-warken-will-zusatzbeitrag-bei-2-9-prozent-halten-a-d99778d1-b7e6-4c26-aaca-bb3f4dc5808f#ref=rss)
-### kosten
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-debatte-experten-und-abiturient-diskutieren-entwurf-fuer-neues-wehrdienstgesetz](https://www.spiegel.de/politik/deutschland/wehrdienst-debatte-experten-und-abiturient-diskutieren-entwurf-fuer-neues-wehrdienstgesetz-a-da7aa42b-30fe-4897-9e02-16a52c84eef2#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/hauptbahnhof-in-koeln-gesperrt-was-bahnreisende-jetzt-wissen-muessen](https://www.spiegel.de/reise/deutschland/hauptbahnhof-in-koeln-gesperrt-was-bahnreisende-jetzt-wissen-muessen-a-8b7f76aa-783f-4e3d-b8ee-43e230849750#ref=rss)
+### cop
 
-* [https://www.spiegel.de/wissenschaft/abnehmspritzen-sollten-krankenkassen-die-kosten-bei-risikopatienten-uebernehmen](https://www.spiegel.de/wissenschaft/abnehmspritzen-sollten-krankenkassen-die-kosten-bei-risikopatienten-uebernehmen-a-efb5ed0b-661e-496e-9677-acca3129dd45#ref=rss)
-* [https://www.spiegel.de/wirtschaft/chemieindustrie-schlechtester-auftragsbestand-seit-jahrzehnten](https://www.spiegel.de/wirtschaft/chemieindustrie-schlechtester-auftragsbestand-seit-jahrzehnten-a-bd0d5126-58dd-40a2-a49d-cca3898859e4#ref=rss)
-### druck
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast-a-c6ec2513-01c8-45f5-a7ca-249d06dec1aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-a-5637b6ef-d221-4886-bfa9-e6629b3aaeb8#ref=rss)
+### klimaschutz
 
-* [https://www.spiegel.de/wirtschaft/chemieindustrie-schlechtester-auftragsbestand-seit-jahrzehnten](https://www.spiegel.de/wirtschaft/chemieindustrie-schlechtester-auftragsbestand-seit-jahrzehnten-a-bd0d5126-58dd-40a2-a49d-cca3898859e4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/donald-trump-und-sein-feldzug-gegen-den-klimaschutz-der-brandstifter](https://www.spiegel.de/wissenschaft/donald-trump-und-sein-feldzug-gegen-den-klimaschutz-der-brandstifter-a-c4af9110-7012-4a85-91d2-dad25b9d5a2d#ref=rss)
-### jimmy
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast-a-c6ec2513-01c8-45f5-a7ca-249d06dec1aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-a-5637b6ef-d221-4886-bfa9-e6629b3aaeb8#ref=rss)
+### torpedieren
 
-* [https://www.spiegel.de/panorama/leute/jimmy-kimmel-molly-mcnearney-berichtet-von-konflikten-mit-anhaengern-von-donald-trump-in-ihrer-familie](https://www.spiegel.de/panorama/leute/jimmy-kimmel-molly-mcnearney-berichtet-von-konflikten-mit-anhaengern-von-donald-trump-in-ihrer-familie-a-755676bf-1702-4d4f-91bc-9bf7de304b12#ref=rss)
-### kimmel
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast-a-c6ec2513-01c8-45f5-a7ca-249d06dec1aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-a-5637b6ef-d221-4886-bfa9-e6629b3aaeb8#ref=rss)
+### beeindruckt
 
-* [https://www.spiegel.de/panorama/leute/jimmy-kimmel-molly-mcnearney-berichtet-von-konflikten-mit-anhaengern-von-donald-trump-in-ihrer-familie](https://www.spiegel.de/panorama/leute/jimmy-kimmel-molly-mcnearney-berichtet-von-konflikten-mit-anhaengern-von-donald-trump-in-ihrer-familie-a-755676bf-1702-4d4f-91bc-9bf7de304b12#ref=rss)
-### molly
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast-a-c6ec2513-01c8-45f5-a7ca-249d06dec1aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-a-5637b6ef-d221-4886-bfa9-e6629b3aaeb8#ref=rss)
+### rasanten
 
-* [https://www.spiegel.de/panorama/leute/jimmy-kimmel-molly-mcnearney-berichtet-von-konflikten-mit-anhaengern-von-donald-trump-in-ihrer-familie](https://www.spiegel.de/panorama/leute/jimmy-kimmel-molly-mcnearney-berichtet-von-konflikten-mit-anhaengern-von-donald-trump-in-ihrer-familie-a-755676bf-1702-4d4f-91bc-9bf7de304b12#ref=rss)
-### mcnearney
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast-a-c6ec2513-01c8-45f5-a7ca-249d06dec1aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-a-5637b6ef-d221-4886-bfa9-e6629b3aaeb8#ref=rss)
+### ausbau
 
-* [https://www.spiegel.de/panorama/leute/jimmy-kimmel-molly-mcnearney-berichtet-von-konflikten-mit-anhaengern-von-donald-trump-in-ihrer-familie](https://www.spiegel.de/panorama/leute/jimmy-kimmel-molly-mcnearney-berichtet-von-konflikten-mit-anhaengern-von-donald-trump-in-ihrer-familie-a-755676bf-1702-4d4f-91bc-9bf7de304b12#ref=rss)
-### familie
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast-a-c6ec2513-01c8-45f5-a7ca-249d06dec1aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-a-5637b6ef-d221-4886-bfa9-e6629b3aaeb8#ref=rss)
+### grüner
 
-* [https://www.spiegel.de/panorama/leute/jimmy-kimmel-molly-mcnearney-berichtet-von-konflikten-mit-anhaengern-von-donald-trump-in-ihrer-familie](https://www.spiegel.de/panorama/leute/jimmy-kimmel-molly-mcnearney-berichtet-von-konflikten-mit-anhaengern-von-donald-trump-in-ihrer-familie-a-755676bf-1702-4d4f-91bc-9bf7de304b12#ref=rss)
-### schwer
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast-a-c6ec2513-01c8-45f5-a7ca-249d06dec1aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-a-5637b6ef-d221-4886-bfa9-e6629b3aaeb8#ref=rss)
+### energie
 
-* [https://www.spiegel.de/panorama/leute/jimmy-kimmel-molly-mcnearney-berichtet-von-konflikten-mit-anhaengern-von-donald-trump-in-ihrer-familie](https://www.spiegel.de/panorama/leute/jimmy-kimmel-molly-mcnearney-berichtet-von-konflikten-mit-anhaengern-von-donald-trump-in-ihrer-familie-a-755676bf-1702-4d4f-91bc-9bf7de304b12#ref=rss)
-* [https://www.spiegel.de/panorama/gotha-und-rietheim-weilheim-toter-mann-bei-loescharbeiten-gefunden-kinder-schwer-verletzt](https://www.spiegel.de/panorama/gotha-und-rietheim-weilheim-toter-mann-bei-loescharbeiten-gefunden-kinder-schwer-verletzt-a-7db25c03-1a42-4bc3-ad24-fbd8e0cd867e#ref=rss)
-### öffnet
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-podcast-a-c6ec2513-01c8-45f5-a7ca-249d06dec1aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle](https://www.spiegel.de/wissenschaft/cop-30-in-brasilien-uebernimmt-china-die-fuehrungsrolle-a-5637b6ef-d221-4886-bfa9-e6629b3aaeb8#ref=rss)
+### rechte
 
-* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-sean-hewitt-oeffnet-sich-der-himmel](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-sean-hewitt-oeffnet-sich-der-himmel-a-d56ed349-7a5c-4109-b7a3-821557076862#ref=rss)
-### himmel
+* [https://www.spiegel.de/kultur/rechte-buchmesse-seitenwechsel-mit-bockwuersten-gegen-das-regime](https://www.spiegel.de/kultur/rechte-buchmesse-seitenwechsel-mit-bockwuersten-gegen-das-regime-a-58827fe2-f27b-4d6c-a497-3a200f812880#ref=rss)
+### buchmesse
 
-* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-sean-hewitt-oeffnet-sich-der-himmel](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-sean-hewitt-oeffnet-sich-der-himmel-a-d56ed349-7a5c-4109-b7a3-821557076862#ref=rss)
-### platz
+* [https://www.spiegel.de/kultur/rechte-buchmesse-seitenwechsel-mit-bockwuersten-gegen-das-regime](https://www.spiegel.de/kultur/rechte-buchmesse-seitenwechsel-mit-bockwuersten-gegen-das-regime-a-58827fe2-f27b-4d6c-a497-3a200f812880#ref=rss)
+### treffen
 
-* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-sean-hewitt-oeffnet-sich-der-himmel](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-sean-hewitt-oeffnet-sich-der-himmel-a-d56ed349-7a5c-4109-b7a3-821557076862#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kommender-parteitag-der-gruenen-ein-teil-der-basis-will-ueber-homoeopathie-statt-dienstpflicht-diskutieren](https://www.spiegel.de/politik/deutschland/kommender-parteitag-der-gruenen-ein-teil-der-basis-will-ueber-homoeopathie-statt-dienstpflicht-diskutieren-a-8c68e7ff-f98f-4bd9-9a2b-0137d016f9c7#ref=rss)
-### wir
+* [https://www.spiegel.de/kultur/rechte-buchmesse-seitenwechsel-mit-bockwuersten-gegen-das-regime](https://www.spiegel.de/kultur/rechte-buchmesse-seitenwechsel-mit-bockwuersten-gegen-das-regime-a-58827fe2-f27b-4d6c-a497-3a200f812880#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-uebergangspraesident-al-sharaa-spielt-basketball-mit-us-soldaten](https://www.spiegel.de/ausland/syrien-uebergangspraesident-al-sharaa-spielt-basketball-mit-us-soldaten-a-63c4c994-a714-4853-af3f-3596de09f08b#ref=rss)
+### eigenen
 
-* [https://www.spiegel.de/netzwelt/hatespeech-meldestellen-wir-zensieren-nicht-wir-machen-eine-erste-pruefung](https://www.spiegel.de/netzwelt/hatespeech-meldestellen-wir-zensieren-nicht-wir-machen-eine-erste-pruefung-a-d22df6b3-fed5-4e55-95fa-b355686bf0cf#ref=rss)
-### densborn
+* [https://www.spiegel.de/kultur/rechte-buchmesse-seitenwechsel-mit-bockwuersten-gegen-das-regime](https://www.spiegel.de/kultur/rechte-buchmesse-seitenwechsel-mit-bockwuersten-gegen-das-regime-a-58827fe2-f27b-4d6c-a497-3a200f812880#ref=rss)
+* [https://www.spiegel.de/kultur/frank-schaetzings-spaceboy-parallelen-zwischen-bowie-und-schaetzings-leben](https://www.spiegel.de/kultur/frank-schaetzings-spaceboy-parallelen-zwischen-bowie-und-schaetzings-leben-a-591270af-125e-4a74-8b28-1620365a9b87#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/netzwelt/hatespeech-meldestellen-wir-zensieren-nicht-wir-machen-eine-erste-pruefung](https://www.spiegel.de/netzwelt/hatespeech-meldestellen-wir-zensieren-nicht-wir-machen-eine-erste-pruefung-a-d22df6b3-fed5-4e55-95fa-b355686bf0cf#ref=rss)
-### fdp
+* [https://www.spiegel.de/panorama/gesellschaft/polyamouroese-segnung-in-berlin-die-kirche-kann-fragen-ob-ein-disziplinarverfahren-eingeleitet-werden-soll](https://www.spiegel.de/panorama/gesellschaft/polyamouroese-segnung-in-berlin-die-kirche-kann-fragen-ob-ein-disziplinarverfahren-eingeleitet-werden-soll-a-d2eeb19f-674a-4603-bd4b-43307482a253#ref=rss)
+### männer
 
-* [https://www.spiegel.de/politik/deutschland/fdp-deutschland-braucht-nicht-eine-liberale-partei-sondern-zwei](https://www.spiegel.de/politik/deutschland/fdp-deutschland-braucht-nicht-eine-liberale-partei-sondern-zwei-a-5d66760c-88f1-4026-aae5-d76c9864994e#ref=rss)
-### liberale
+* [https://www.spiegel.de/panorama/gesellschaft/polyamouroese-segnung-in-berlin-die-kirche-kann-fragen-ob-ein-disziplinarverfahren-eingeleitet-werden-soll](https://www.spiegel.de/panorama/gesellschaft/polyamouroese-segnung-in-berlin-die-kirche-kann-fragen-ob-ein-disziplinarverfahren-eingeleitet-werden-soll-a-d2eeb19f-674a-4603-bd4b-43307482a253#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/moenchengladbach-betreiber-von-plattform-fuer-darstellungen-von-kindesmissbrauch-verurteilt](https://www.spiegel.de/panorama/justiz/moenchengladbach-betreiber-von-plattform-fuer-darstellungen-von-kindesmissbrauch-verurteilt-a-f9087087-93aa-48f2-848f-8a9477a4db5d#ref=rss)
+### leben
 
-* [https://www.spiegel.de/politik/deutschland/fdp-deutschland-braucht-nicht-eine-liberale-partei-sondern-zwei](https://www.spiegel.de/politik/deutschland/fdp-deutschland-braucht-nicht-eine-liberale-partei-sondern-zwei-a-5d66760c-88f1-4026-aae5-d76c9864994e#ref=rss)
-### studium
+* [https://www.spiegel.de/panorama/gesellschaft/polyamouroese-segnung-in-berlin-die-kirche-kann-fragen-ob-ein-disziplinarverfahren-eingeleitet-werden-soll](https://www.spiegel.de/panorama/gesellschaft/polyamouroese-segnung-in-berlin-die-kirche-kann-fragen-ob-ein-disziplinarverfahren-eingeleitet-werden-soll-a-d2eeb19f-674a-4603-bd4b-43307482a253#ref=rss)
+* [https://www.spiegel.de/kultur/frank-schaetzings-spaceboy-parallelen-zwischen-bowie-und-schaetzings-leben](https://www.spiegel.de/kultur/frank-schaetzings-spaceboy-parallelen-zwischen-bowie-und-schaetzings-leben-a-591270af-125e-4a74-8b28-1620365a9b87#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/start/eltern-besuch-im-studium-wie-man-streit-vermeidet-und-alte-rollen-ablegt](https://www.spiegel.de/start/eltern-besuch-im-studium-wie-man-streit-vermeidet-und-alte-rollen-ablegt-a-fed6ba17-8b12-456c-834a-1957884e82a1#ref=rss)
-### alte
+* [https://www.spiegel.de/panorama/gesellschaft/polyamouroese-segnung-in-berlin-die-kirche-kann-fragen-ob-ein-disziplinarverfahren-eingeleitet-werden-soll](https://www.spiegel.de/panorama/gesellschaft/polyamouroese-segnung-in-berlin-die-kirche-kann-fragen-ob-ein-disziplinarverfahren-eingeleitet-werden-soll-a-d2eeb19f-674a-4603-bd4b-43307482a253#ref=rss)
+* [https://www.spiegel.de/ausland/aussenpolitik-der-usa-donald-trump-hat-ein-bestimmtes-modell-von-der-welt-im-kopf](https://www.spiegel.de/ausland/aussenpolitik-der-usa-donald-trump-hat-ein-bestimmtes-modell-von-der-welt-im-kopf-a-3d47ba54-ee94-45b4-a945-2795c02d3e40#ref=rss)
+### euro
 
-* [https://www.spiegel.de/start/eltern-besuch-im-studium-wie-man-streit-vermeidet-und-alte-rollen-ablegt](https://www.spiegel.de/start/eltern-besuch-im-studium-wie-man-streit-vermeidet-und-alte-rollen-ablegt-a-fed6ba17-8b12-456c-834a-1957884e82a1#ref=rss)
-### rollen
+* [https://www.spiegel.de/panorama/justiz/neustrelitz-mann-knoepft-aelterer-dame-jahrelang-tausende-euro-fuer-kartoffeln-ab](https://www.spiegel.de/panorama/justiz/neustrelitz-mann-knoepft-aelterer-dame-jahrelang-tausende-euro-fuer-kartoffeln-ab-a-79e44c01-114c-4422-82bf-5c99e919ae93#ref=rss)
+### acht
 
-* [https://www.spiegel.de/start/eltern-besuch-im-studium-wie-man-streit-vermeidet-und-alte-rollen-ablegt](https://www.spiegel.de/start/eltern-besuch-im-studium-wie-man-streit-vermeidet-und-alte-rollen-ablegt-a-fed6ba17-8b12-456c-834a-1957884e82a1#ref=rss)
-### ablegt
+* [https://www.spiegel.de/ausland/indien-mindestens-acht-tote-nach-explosion-in-neu-delhi](https://www.spiegel.de/ausland/indien-mindestens-acht-tote-nach-explosion-in-neu-delhi-a-a485acca-d7c8-450f-af26-3daa89a93bb9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-mann-acht-jahre-nach-seinem-tod-in-der-garage-gefunden](https://www.spiegel.de/panorama/justiz/essen-mann-acht-jahre-nach-seinem-tod-in-der-garage-gefunden-a-0f91411f-6eb5-44ff-b075-0fb96b7e669a#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/start/eltern-besuch-im-studium-wie-man-streit-vermeidet-und-alte-rollen-ablegt](https://www.spiegel.de/start/eltern-besuch-im-studium-wie-man-streit-vermeidet-und-alte-rollen-ablegt-a-fed6ba17-8b12-456c-834a-1957884e82a1#ref=rss)
-### preis
+* [https://www.spiegel.de/ausland/indien-mindestens-acht-tote-nach-explosion-in-neu-delhi](https://www.spiegel.de/ausland/indien-mindestens-acht-tote-nach-explosion-in-neu-delhi-a-a485acca-d7c8-450f-af26-3daa89a93bb9#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitslosigkeit-manchmal-frage-ich-mich-ob-menschen-mit-ausbildungen-besser-dastehen](https://www.spiegel.de/karriere/arbeitslosigkeit-manchmal-frage-ich-mich-ob-menschen-mit-ausbildungen-besser-dastehen-a-6ffbe9fd-27bc-4103-8003-8bc0cfa2a26b#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-sao-paulo-norris-triumphiert-doch-verstappen-bleibt-der-koenig](https://www.spiegel.de/sport/formel1/formel-1-in-sao-paulo-norris-triumphiert-doch-verstappen-bleibt-der-koenig-a-6dcc90d5-46d7-4c7a-96e4-8eff50a44e20#ref=rss)
-### norris
+* [https://www.spiegel.de/ausland/indien-mindestens-acht-tote-nach-explosion-in-neu-delhi](https://www.spiegel.de/ausland/indien-mindestens-acht-tote-nach-explosion-in-neu-delhi-a-a485acca-d7c8-450f-af26-3daa89a93bb9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/koeln-mann-soll-75-jaehrigen-mitpatienten-auf-intensivstation-getoetet-haben](https://www.spiegel.de/panorama/justiz/koeln-mann-soll-75-jaehrigen-mitpatienten-auf-intensivstation-getoetet-haben-a-2d279818-4b7c-49d0-88c1-c2c834724b97#ref=rss)
+### wehrdienstgesetz
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-sao-paulo-norris-triumphiert-doch-verstappen-bleibt-der-koenig](https://www.spiegel.de/sport/formel1/formel-1-in-sao-paulo-norris-triumphiert-doch-verstappen-bleibt-der-koenig-a-6dcc90d5-46d7-4c7a-96e4-8eff50a44e20#ref=rss)
-### verstappen
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-debatte-experten-und-abiturient-diskutieren-entwurf-fuer-neues-wehrdienstgesetz](https://www.spiegel.de/politik/deutschland/wehrdienst-debatte-experten-und-abiturient-diskutieren-entwurf-fuer-neues-wehrdienstgesetz-a-da7aa42b-30fe-4897-9e02-16a52c84eef2#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-sao-paulo-norris-triumphiert-doch-verstappen-bleibt-der-koenig](https://www.spiegel.de/sport/formel1/formel-1-in-sao-paulo-norris-triumphiert-doch-verstappen-bleibt-der-koenig-a-6dcc90d5-46d7-4c7a-96e4-8eff50a44e20#ref=rss)
-### wegner
+* [https://www.spiegel.de/wissenschaft/natur/pariser-klimaabkommen-so-viel-treibhausgas-haben-die-laender-in-zehn-jahren-eingespart](https://www.spiegel.de/wissenschaft/natur/pariser-klimaabkommen-so-viel-treibhausgas-haben-die-laender-in-zehn-jahren-eingespart-a-6b115474-bef9-4134-bda6-d62ad57a4ad2#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/neue-prognose-schuelerzahl-steigt-bis-2032-starke-regionale-unterschiede](https://www.spiegel.de/panorama/bildung/neue-prognose-schuelerzahl-steigt-bis-2032-starke-regionale-unterschiede-a-e8f35a4f-a4cf-4c2c-9f07-0b89165e69f0#ref=rss)
+### rund
 
-* [https://www.spiegel.de/politik/deutschland/berliner-buergermeister-beklagt-zu-viel-streit-in-der-bundesregierung](https://www.spiegel.de/politik/deutschland/berliner-buergermeister-beklagt-zu-viel-streit-in-der-bundesregierung-a-808ec47d-caf7-451e-affa-cb274dc87246#ref=rss)
-### arbeit
+* [https://www.spiegel.de/wissenschaft/natur/pariser-klimaabkommen-so-viel-treibhausgas-haben-die-laender-in-zehn-jahren-eingespart](https://www.spiegel.de/wissenschaft/natur/pariser-klimaabkommen-so-viel-treibhausgas-haben-die-laender-in-zehn-jahren-eingespart-a-6b115474-bef9-4134-bda6-d62ad57a4ad2#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/neue-prognose-schuelerzahl-steigt-bis-2032-starke-regionale-unterschiede](https://www.spiegel.de/panorama/bildung/neue-prognose-schuelerzahl-steigt-bis-2032-starke-regionale-unterschiede-a-e8f35a4f-a4cf-4c2c-9f07-0b89165e69f0#ref=rss)
+### amazonasregenwald
 
-* [https://www.spiegel.de/politik/deutschland/berliner-buergermeister-beklagt-zu-viel-streit-in-der-bundesregierung](https://www.spiegel.de/politik/deutschland/berliner-buergermeister-beklagt-zu-viel-streit-in-der-bundesregierung-a-808ec47d-caf7-451e-affa-cb274dc87246#ref=rss)
-* [https://www.spiegel.de/start/arbeitslose-akademiker-was-wenn-ich-nach-der-uni-keinen-job-finde](https://www.spiegel.de/start/arbeitslose-akademiker-was-wenn-ich-nach-der-uni-keinen-job-finde-a-28aff1b3-4320-4b8f-b478-6b2a5f1ae566#ref=rss)
-### philippinen
+* [https://www.spiegel.de/wissenschaft/natur/cop30-im-amazonas-regenwald-was-passiert-wenn-er-kollabiert](https://www.spiegel.de/wissenschaft/natur/cop30-im-amazonas-regenwald-was-passiert-wenn-er-kollabiert-a-b3cbb92d-b7e7-4cf7-a469-dfad7bb3f239#ref=rss)
+### passiert
 
-* [https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-sterben-bei-taifun-fung-wong](https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-sterben-bei-taifun-fung-wong-a-8263e493-7edc-481c-993e-965c40b0e9c8#ref=rss)
-### fungwong
+* [https://www.spiegel.de/wissenschaft/natur/cop30-im-amazonas-regenwald-was-passiert-wenn-er-kollabiert](https://www.spiegel.de/wissenschaft/natur/cop30-im-amazonas-regenwald-was-passiert-wenn-er-kollabiert-a-b3cbb92d-b7e7-4cf7-a469-dfad7bb3f239#ref=rss)
+* [https://www.spiegel.de/sport/fussball/u17-weltmeisterschaft-deutschland-gewinnt-deutlich-gegen-el-salvador](https://www.spiegel.de/sport/fussball/u17-weltmeisterschaft-deutschland-gewinnt-deutlich-gegen-el-salvador-a-b845f7d8-6df5-4f47-9c84-cbb7c48402d5#ref=rss)
+### riesige
 
-* [https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-sterben-bei-taifun-fung-wong](https://www.spiegel.de/panorama/philippinen-mindestens-zwei-menschen-sterben-bei-taifun-fung-wong-a-8263e493-7edc-481c-993e-965c40b0e9c8#ref=rss)
-### setzt
+* [https://www.spiegel.de/wissenschaft/natur/cop30-im-amazonas-regenwald-was-passiert-wenn-er-kollabiert](https://www.spiegel.de/wissenschaft/natur/cop30-im-amazonas-regenwald-was-passiert-wenn-er-kollabiert-a-b3cbb92d-b7e7-4cf7-a469-dfad7bb3f239#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-maria-corina-machado-setzt-sich-bei-donald-trump-fuer-eine-militaerische-intervention-ein](https://www.spiegel.de/ausland/venezuela-maria-corina-machado-setzt-sich-bei-donald-trump-fuer-eine-militaerische-intervention-ein-a-02df11ff-693f-4ab8-b465-da28973968eb#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wissenschaft/donald-trump-und-sein-feldzug-gegen-den-klimaschutz-der-brandstifter](https://www.spiegel.de/wissenschaft/donald-trump-und-sein-feldzug-gegen-den-klimaschutz-der-brandstifter-a-c4af9110-7012-4a85-91d2-dad25b9d5a2d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kommender-parteitag-der-gruenen-ein-teil-der-basis-will-ueber-homoeopathie-statt-dienstpflicht-diskutieren](https://www.spiegel.de/politik/deutschland/kommender-parteitag-der-gruenen-ein-teil-der-basis-will-ueber-homoeopathie-statt-dienstpflicht-diskutieren-a-8c68e7ff-f98f-4bd9-9a2b-0137d016f9c7#ref=rss)
-### konflikt
+* [https://www.spiegel.de/wissenschaft/natur/cop30-im-amazonas-regenwald-was-passiert-wenn-er-kollabiert](https://www.spiegel.de/wissenschaft/natur/cop30-im-amazonas-regenwald-was-passiert-wenn-er-kollabiert-a-b3cbb92d-b7e7-4cf7-a469-dfad7bb3f239#ref=rss)
+* [https://www.spiegel.de/ausland/indonesien-suharto-als-nationalheld-geehrt-menschenrechtsgruppen-empoert](https://www.spiegel.de/ausland/indonesien-suharto-als-nationalheld-geehrt-menschenrechtsgruppen-empoert-a-1904b73b-4ab2-4965-a871-82147a16237e#ref=rss)
+### frage
 
-* [https://www.spiegel.de/ausland/suedkorea-ex-praesident-yoon-soll-konflikt-mit-nordkorea-provoziert-haben](https://www.spiegel.de/ausland/suedkorea-ex-praesident-yoon-soll-konflikt-mit-nordkorea-provoziert-haben-a-f9e449a3-4b2a-469b-82ba-15c72ead51e3#ref=rss)
-### nordkorea
+* [https://www.spiegel.de/wissenschaft/natur/cop30-im-amazonas-regenwald-was-passiert-wenn-er-kollabiert](https://www.spiegel.de/wissenschaft/natur/cop30-im-amazonas-regenwald-was-passiert-wenn-er-kollabiert-a-b3cbb92d-b7e7-4cf7-a469-dfad7bb3f239#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitslosigkeit-manchmal-frage-ich-mich-ob-menschen-mit-ausbildungen-besser-dastehen](https://www.spiegel.de/karriere/arbeitslosigkeit-manchmal-frage-ich-mich-ob-menschen-mit-ausbildungen-besser-dastehen-a-6ffbe9fd-27bc-4103-8003-8bc0cfa2a26b#ref=rss)
+### füssen
 
-* [https://www.spiegel.de/ausland/suedkorea-ex-praesident-yoon-soll-konflikt-mit-nordkorea-provoziert-haben](https://www.spiegel.de/ausland/suedkorea-ex-praesident-yoon-soll-konflikt-mit-nordkorea-provoziert-haben-a-f9e449a3-4b2a-469b-82ba-15c72ead51e3#ref=rss)
-### provoziert
+* [https://www.spiegel.de/panorama/justiz/fuessen-polizei-stoppt-fahrer-mit-31-schildkroeten-im-auto](https://www.spiegel.de/panorama/justiz/fuessen-polizei-stoppt-fahrer-mit-31-schildkroeten-im-auto-a-157c39e9-4f29-40e2-b587-725dcf5e481b#ref=rss)
+### 31
 
-* [https://www.spiegel.de/ausland/suedkorea-ex-praesident-yoon-soll-konflikt-mit-nordkorea-provoziert-haben](https://www.spiegel.de/ausland/suedkorea-ex-praesident-yoon-soll-konflikt-mit-nordkorea-provoziert-haben-a-f9e449a3-4b2a-469b-82ba-15c72ead51e3#ref=rss)
-### zusatzbeitrag
+* [https://www.spiegel.de/panorama/justiz/fuessen-polizei-stoppt-fahrer-mit-31-schildkroeten-im-auto](https://www.spiegel.de/panorama/justiz/fuessen-polizei-stoppt-fahrer-mit-31-schildkroeten-im-auto-a-157c39e9-4f29-40e2-b587-725dcf5e481b#ref=rss)
+### schildkröten
 
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-gesundheitsministerin-nina-warken-will-zusatzbeitrag-bei-2-9-prozent-halten](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-gesundheitsministerin-nina-warken-will-zusatzbeitrag-bei-2-9-prozent-halten-a-d99778d1-b7e6-4c26-aaca-bb3f4dc5808f#ref=rss)
-### mad
+* [https://www.spiegel.de/panorama/justiz/fuessen-polizei-stoppt-fahrer-mit-31-schildkroeten-im-auto](https://www.spiegel.de/panorama/justiz/fuessen-polizei-stoppt-fahrer-mit-31-schildkroeten-im-auto-a-157c39e9-4f29-40e2-b587-725dcf5e481b#ref=rss)
+### auto
 
-* [https://www.spiegel.de/auto/tesla-fahrmodus-mad-max-der-richtige-modus-wenn-sie-spaet-dran-sind](https://www.spiegel.de/auto/tesla-fahrmodus-mad-max-der-richtige-modus-wenn-sie-spaet-dran-sind-a-e46de5e7-5b25-477a-a8c6-bf511f289175#ref=rss)
-### per
+* [https://www.spiegel.de/panorama/justiz/fuessen-polizei-stoppt-fahrer-mit-31-schildkroeten-im-auto](https://www.spiegel.de/panorama/justiz/fuessen-polizei-stoppt-fahrer-mit-31-schildkroeten-im-auto-a-157c39e9-4f29-40e2-b587-725dcf5e481b#ref=rss)
+### machte
 
-* [https://www.spiegel.de/auto/tesla-fahrmodus-mad-max-der-richtige-modus-wenn-sie-spaet-dran-sind](https://www.spiegel.de/auto/tesla-fahrmodus-mad-max-der-richtige-modus-wenn-sie-spaet-dran-sind-a-e46de5e7-5b25-477a-a8c6-bf511f289175#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kommender-parteitag-der-gruenen-ein-teil-der-basis-will-ueber-homoeopathie-statt-dienstpflicht-diskutieren](https://www.spiegel.de/politik/deutschland/kommender-parteitag-der-gruenen-ein-teil-der-basis-will-ueber-homoeopathie-statt-dienstpflicht-diskutieren-a-8c68e7ff-f98f-4bd9-9a2b-0137d016f9c7#ref=rss)
-### teil
+* [https://www.spiegel.de/panorama/justiz/fuessen-polizei-stoppt-fahrer-mit-31-schildkroeten-im-auto](https://www.spiegel.de/panorama/justiz/fuessen-polizei-stoppt-fahrer-mit-31-schildkroeten-im-auto-a-157c39e9-4f29-40e2-b587-725dcf5e481b#ref=rss)
+### zdfzweiteiler
 
-* [https://www.spiegel.de/politik/deutschland/kommender-parteitag-der-gruenen-ein-teil-der-basis-will-ueber-homoeopathie-statt-dienstpflicht-diskutieren](https://www.spiegel.de/politik/deutschland/kommender-parteitag-der-gruenen-ein-teil-der-basis-will-ueber-homoeopathie-statt-dienstpflicht-diskutieren-a-8c68e7ff-f98f-4bd9-9a2b-0137d016f9c7#ref=rss)
-### basis
+* [https://www.spiegel.de/kultur/zdf-zweiteiler-sturm-kommt-auf-die-heimat-des-boesen](https://www.spiegel.de/kultur/zdf-zweiteiler-sturm-kommt-auf-die-heimat-des-boesen-a-68f31f64-e92c-40c5-84de-fbe5707595f7#ref=rss)
+### sturm
 
-* [https://www.spiegel.de/politik/deutschland/kommender-parteitag-der-gruenen-ein-teil-der-basis-will-ueber-homoeopathie-statt-dienstpflicht-diskutieren](https://www.spiegel.de/politik/deutschland/kommender-parteitag-der-gruenen-ein-teil-der-basis-will-ueber-homoeopathie-statt-dienstpflicht-diskutieren-a-8c68e7ff-f98f-4bd9-9a2b-0137d016f9c7#ref=rss)
-### statt
+* [https://www.spiegel.de/kultur/zdf-zweiteiler-sturm-kommt-auf-die-heimat-des-boesen](https://www.spiegel.de/kultur/zdf-zweiteiler-sturm-kommt-auf-die-heimat-des-boesen-a-68f31f64-e92c-40c5-84de-fbe5707595f7#ref=rss)
+### u17weltmeisterschaft
 
-* [https://www.spiegel.de/politik/deutschland/kommender-parteitag-der-gruenen-ein-teil-der-basis-will-ueber-homoeopathie-statt-dienstpflicht-diskutieren](https://www.spiegel.de/politik/deutschland/kommender-parteitag-der-gruenen-ein-teil-der-basis-will-ueber-homoeopathie-statt-dienstpflicht-diskutieren-a-8c68e7ff-f98f-4bd9-9a2b-0137d016f9c7#ref=rss)
-### diskutieren
+* [https://www.spiegel.de/sport/fussball/u17-weltmeisterschaft-deutschland-gewinnt-deutlich-gegen-el-salvador](https://www.spiegel.de/sport/fussball/u17-weltmeisterschaft-deutschland-gewinnt-deutlich-gegen-el-salvador-a-b845f7d8-6df5-4f47-9c84-cbb7c48402d5#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/kommender-parteitag-der-gruenen-ein-teil-der-basis-will-ueber-homoeopathie-statt-dienstpflicht-diskutieren](https://www.spiegel.de/politik/deutschland/kommender-parteitag-der-gruenen-ein-teil-der-basis-will-ueber-homoeopathie-statt-dienstpflicht-diskutieren-a-8c68e7ff-f98f-4bd9-9a2b-0137d016f9c7#ref=rss)
-### löscharbeiten
+* [https://www.spiegel.de/sport/fussball/u17-weltmeisterschaft-deutschland-gewinnt-deutlich-gegen-el-salvador](https://www.spiegel.de/sport/fussball/u17-weltmeisterschaft-deutschland-gewinnt-deutlich-gegen-el-salvador-a-b845f7d8-6df5-4f47-9c84-cbb7c48402d5#ref=rss)
+### el
 
-* [https://www.spiegel.de/panorama/gotha-und-rietheim-weilheim-toter-mann-bei-loescharbeiten-gefunden-kinder-schwer-verletzt](https://www.spiegel.de/panorama/gotha-und-rietheim-weilheim-toter-mann-bei-loescharbeiten-gefunden-kinder-schwer-verletzt-a-7db25c03-1a42-4bc3-ad24-fbd8e0cd867e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/u17-weltmeisterschaft-deutschland-gewinnt-deutlich-gegen-el-salvador](https://www.spiegel.de/sport/fussball/u17-weltmeisterschaft-deutschland-gewinnt-deutlich-gegen-el-salvador-a-b845f7d8-6df5-4f47-9c84-cbb7c48402d5#ref=rss)
+### salvador
+
+* [https://www.spiegel.de/sport/fussball/u17-weltmeisterschaft-deutschland-gewinnt-deutlich-gegen-el-salvador](https://www.spiegel.de/sport/fussball/u17-weltmeisterschaft-deutschland-gewinnt-deutlich-gegen-el-salvador-a-b845f7d8-6df5-4f47-9c84-cbb7c48402d5#ref=rss)
+### drohte
+
+* [https://www.spiegel.de/sport/fussball/u17-weltmeisterschaft-deutschland-gewinnt-deutlich-gegen-el-salvador](https://www.spiegel.de/sport/fussball/u17-weltmeisterschaft-deutschland-gewinnt-deutlich-gegen-el-salvador-a-b845f7d8-6df5-4f47-9c84-cbb7c48402d5#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-konflikt-chinesischer-diplomat-droht-japanischer-regierungschefin-mit-enthauptung](https://www.spiegel.de/ausland/taiwan-konflikt-chinesischer-diplomat-droht-japanischer-regierungschefin-mit-enthauptung-a-501a16c4-3306-4dfb-9284-a76cb0a554db#ref=rss)
+### sahra
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-uno-klimakonferenz-in-brasilien-sahra-wagenknecht-nicolas-sarkozy](https://www.spiegel.de/politik/deutschland/news-des-tages-uno-klimakonferenz-in-brasilien-sahra-wagenknecht-nicolas-sarkozy-a-a771cd1b-90ef-404f-9d93-e619e0ebcb1c#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-uno-klimakonferenz-in-brasilien-sahra-wagenknecht-nicolas-sarkozy](https://www.spiegel.de/politik/deutschland/news-des-tages-uno-klimakonferenz-in-brasilien-sahra-wagenknecht-nicolas-sarkozy-a-a771cd1b-90ef-404f-9d93-e619e0ebcb1c#ref=rss)
+### sarkozy
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-uno-klimakonferenz-in-brasilien-sahra-wagenknecht-nicolas-sarkozy](https://www.spiegel.de/politik/deutschland/news-des-tages-uno-klimakonferenz-in-brasilien-sahra-wagenknecht-nicolas-sarkozy-a-a771cd1b-90ef-404f-9d93-e619e0ebcb1c#ref=rss)
+### gefängnis
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-uno-klimakonferenz-in-brasilien-sahra-wagenknecht-nicolas-sarkozy](https://www.spiegel.de/politik/deutschland/news-des-tages-uno-klimakonferenz-in-brasilien-sahra-wagenknecht-nicolas-sarkozy-a-a771cd1b-90ef-404f-9d93-e619e0ebcb1c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/moenchengladbach-betreiber-von-plattform-fuer-darstellungen-von-kindesmissbrauch-verurteilt](https://www.spiegel.de/panorama/justiz/moenchengladbach-betreiber-von-plattform-fuer-darstellungen-von-kindesmissbrauch-verurteilt-a-f9087087-93aa-48f2-848f-8a9477a4db5d#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-uno-klimakonferenz-in-brasilien-sahra-wagenknecht-nicolas-sarkozy](https://www.spiegel.de/politik/deutschland/news-des-tages-uno-klimakonferenz-in-brasilien-sahra-wagenknecht-nicolas-sarkozy-a-a771cd1b-90ef-404f-9d93-e619e0ebcb1c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-mann-acht-jahre-nach-seinem-tod-in-der-garage-gefunden](https://www.spiegel.de/panorama/justiz/essen-mann-acht-jahre-nach-seinem-tod-in-der-garage-gefunden-a-0f91411f-6eb5-44ff-b075-0fb96b7e669a#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-christina-block-sohn-will-nicht-vor-gericht-aussagen](https://www.spiegel.de/panorama/justiz/hamburg-christina-block-sohn-will-nicht-vor-gericht-aussagen-a-778c9f9c-093c-4976-9d02-1a4ea6004739#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/justiz/essen-mann-acht-jahre-nach-seinem-tod-in-der-garage-gefunden](https://www.spiegel.de/panorama/justiz/essen-mann-acht-jahre-nach-seinem-tod-in-der-garage-gefunden-a-0f91411f-6eb5-44ff-b075-0fb96b7e669a#ref=rss)
+* [https://www.spiegel.de/ausland/indonesien-suharto-als-nationalheld-geehrt-menschenrechtsgruppen-empoert](https://www.spiegel.de/ausland/indonesien-suharto-als-nationalheld-geehrt-menschenrechtsgruppen-empoert-a-1904b73b-4ab2-4965-a871-82147a16237e#ref=rss)
+### tod
+
+* [https://www.spiegel.de/panorama/justiz/essen-mann-acht-jahre-nach-seinem-tod-in-der-garage-gefunden](https://www.spiegel.de/panorama/justiz/essen-mann-acht-jahre-nach-seinem-tod-in-der-garage-gefunden-a-0f91411f-6eb5-44ff-b075-0fb96b7e669a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/koeln-mann-soll-75-jaehrigen-mitpatienten-auf-intensivstation-getoetet-haben](https://www.spiegel.de/panorama/justiz/koeln-mann-soll-75-jaehrigen-mitpatienten-auf-intensivstation-getoetet-haben-a-2d279818-4b7c-49d0-88c1-c2c834724b97#ref=rss)
 ### gefunden
 
-* [https://www.spiegel.de/panorama/gotha-und-rietheim-weilheim-toter-mann-bei-loescharbeiten-gefunden-kinder-schwer-verletzt](https://www.spiegel.de/panorama/gotha-und-rietheim-weilheim-toter-mann-bei-loescharbeiten-gefunden-kinder-schwer-verletzt-a-7db25c03-1a42-4bc3-ad24-fbd8e0cd867e#ref=rss)
-### krise
+* [https://www.spiegel.de/panorama/justiz/essen-mann-acht-jahre-nach-seinem-tod-in-der-garage-gefunden](https://www.spiegel.de/panorama/justiz/essen-mann-acht-jahre-nach-seinem-tod-in-der-garage-gefunden-a-0f91411f-6eb5-44ff-b075-0fb96b7e669a#ref=rss)
+### alsharaa
 
-* [https://www.spiegel.de/politik/deutschland/news-ahmed-al-sharaa-bei-donald-trump-bbc-prozess-gegen-magdeburg-todesfahrer](https://www.spiegel.de/politik/deutschland/news-ahmed-al-sharaa-bei-donald-trump-bbc-prozess-gegen-magdeburg-todesfahrer-a-06293d7e-aa9a-4036-a4cc-b061953f2f5d#ref=rss)
-* [https://www.spiegel.de/start/arbeitslose-akademiker-was-wenn-ich-nach-der-uni-keinen-job-finde](https://www.spiegel.de/start/arbeitslose-akademiker-was-wenn-ich-nach-der-uni-keinen-job-finde-a-28aff1b3-4320-4b8f-b478-6b2a5f1ae566#ref=rss)
-### akademiker
+* [https://www.spiegel.de/ausland/syrien-uebergangspraesident-al-sharaa-spielt-basketball-mit-us-soldaten](https://www.spiegel.de/ausland/syrien-uebergangspraesident-al-sharaa-spielt-basketball-mit-us-soldaten-a-63c4c994-a714-4853-af3f-3596de09f08b#ref=rss)
+### basketball
 
-* [https://www.spiegel.de/start/arbeitslose-akademiker-was-wenn-ich-nach-der-uni-keinen-job-finde](https://www.spiegel.de/start/arbeitslose-akademiker-was-wenn-ich-nach-der-uni-keinen-job-finde-a-28aff1b3-4320-4b8f-b478-6b2a5f1ae566#ref=rss)
-### ich
+* [https://www.spiegel.de/ausland/syrien-uebergangspraesident-al-sharaa-spielt-basketball-mit-us-soldaten](https://www.spiegel.de/ausland/syrien-uebergangspraesident-al-sharaa-spielt-basketball-mit-us-soldaten-a-63c4c994-a714-4853-af3f-3596de09f08b#ref=rss)
+### ussoldaten
 
-* [https://www.spiegel.de/start/arbeitslose-akademiker-was-wenn-ich-nach-der-uni-keinen-job-finde](https://www.spiegel.de/start/arbeitslose-akademiker-was-wenn-ich-nach-der-uni-keinen-job-finde-a-28aff1b3-4320-4b8f-b478-6b2a5f1ae566#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslosigkeit-wegen-meiner-zukunftsaengste-bin-ich-in-therapie](https://www.spiegel.de/karriere/arbeitslosigkeit-wegen-meiner-zukunftsaengste-bin-ich-in-therapie-a-39d0271d-b34a-4ce6-8198-dd5ec59475e5#ref=rss)
-### keinen
+* [https://www.spiegel.de/ausland/syrien-uebergangspraesident-al-sharaa-spielt-basketball-mit-us-soldaten](https://www.spiegel.de/ausland/syrien-uebergangspraesident-al-sharaa-spielt-basketball-mit-us-soldaten-a-63c4c994-a714-4853-af3f-3596de09f08b#ref=rss)
+### empört
 
-* [https://www.spiegel.de/start/arbeitslose-akademiker-was-wenn-ich-nach-der-uni-keinen-job-finde](https://www.spiegel.de/start/arbeitslose-akademiker-was-wenn-ich-nach-der-uni-keinen-job-finde-a-28aff1b3-4320-4b8f-b478-6b2a5f1ae566#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslosigkeit-maschinenbau-absolvent-kaempft-um-krisensicheren-job](https://www.spiegel.de/karriere/arbeitslosigkeit-maschinenbau-absolvent-kaempft-um-krisensicheren-job-a-a32c7553-ce3d-4844-9ede-a051cb056be3#ref=rss)
-### beruf
+* [https://www.spiegel.de/ausland/taiwan-konflikt-chinesischer-diplomat-droht-japanischer-regierungschefin-mit-enthauptung](https://www.spiegel.de/ausland/taiwan-konflikt-chinesischer-diplomat-droht-japanischer-regierungschefin-mit-enthauptung-a-501a16c4-3306-4dfb-9284-a76cb0a554db#ref=rss)
+* [https://www.spiegel.de/ausland/indonesien-suharto-als-nationalheld-geehrt-menschenrechtsgruppen-empoert](https://www.spiegel.de/ausland/indonesien-suharto-als-nationalheld-geehrt-menschenrechtsgruppen-empoert-a-1904b73b-4ab2-4965-a871-82147a16237e#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/start/arbeitslose-akademiker-was-wenn-ich-nach-der-uni-keinen-job-finde](https://www.spiegel.de/start/arbeitslose-akademiker-was-wenn-ich-nach-der-uni-keinen-job-finde-a-28aff1b3-4320-4b8f-b478-6b2a5f1ae566#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslosigkeit-maschinenbau-absolvent-kaempft-um-krisensicheren-job](https://www.spiegel.de/karriere/arbeitslosigkeit-maschinenbau-absolvent-kaempft-um-krisensicheren-job-a-a32c7553-ce3d-4844-9ede-a051cb056be3#ref=rss)
-### arbeitslosigkeit
+* [https://www.spiegel.de/ausland/ukraine-generalstabschef-raeumt-nachschubprobleme-bei-pokrowsk-ein](https://www.spiegel.de/ausland/ukraine-generalstabschef-raeumt-nachschubprobleme-bei-pokrowsk-ein-a-0a090e09-4585-4d67-8a22-c1b754d038cb#ref=rss)
+### generalstabschef
 
-* [https://www.spiegel.de/karriere/arbeitslosigkeit-wegen-meiner-zukunftsaengste-bin-ich-in-therapie](https://www.spiegel.de/karriere/arbeitslosigkeit-wegen-meiner-zukunftsaengste-bin-ich-in-therapie-a-39d0271d-b34a-4ce6-8198-dd5ec59475e5#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslosigkeit-maschinenbau-absolvent-kaempft-um-krisensicheren-job](https://www.spiegel.de/karriere/arbeitslosigkeit-maschinenbau-absolvent-kaempft-um-krisensicheren-job-a-a32c7553-ce3d-4844-9ede-a051cb056be3#ref=rss)
-### studiert
+* [https://www.spiegel.de/ausland/ukraine-generalstabschef-raeumt-nachschubprobleme-bei-pokrowsk-ein](https://www.spiegel.de/ausland/ukraine-generalstabschef-raeumt-nachschubprobleme-bei-pokrowsk-ein-a-0a090e09-4585-4d67-8a22-c1b754d038cb#ref=rss)
+### morgan
 
-* [https://www.spiegel.de/karriere/arbeitslosigkeit-wegen-meiner-zukunftsaengste-bin-ich-in-therapie](https://www.spiegel.de/karriere/arbeitslosigkeit-wegen-meiner-zukunftsaengste-bin-ich-in-therapie-a-39d0271d-b34a-4ce6-8198-dd5ec59475e5#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitslosigkeit-maschinenbau-absolvent-kaempft-um-krisensicheren-job](https://www.spiegel.de/karriere/arbeitslosigkeit-maschinenbau-absolvent-kaempft-um-krisensicheren-job-a-a32c7553-ce3d-4844-9ede-a051cb056be3#ref=rss)
+* [https://www.spiegel.de/panorama/leute/morgan-freeman-weltberuehmte-stimme-des-schauspielers-oft-von-ki-gestohlen](https://www.spiegel.de/panorama/leute/morgan-freeman-weltberuehmte-stimme-des-schauspielers-oft-von-ki-gestohlen-a-acaf2bbc-f09d-49af-a680-3349db32aeb6#ref=rss)
+### freeman
+
+* [https://www.spiegel.de/panorama/leute/morgan-freeman-weltberuehmte-stimme-des-schauspielers-oft-von-ki-gestohlen](https://www.spiegel.de/panorama/leute/morgan-freeman-weltberuehmte-stimme-des-schauspielers-oft-von-ki-gestohlen-a-acaf2bbc-f09d-49af-a680-3349db32aeb6#ref=rss)
+### stimme
+
+* [https://www.spiegel.de/panorama/leute/morgan-freeman-weltberuehmte-stimme-des-schauspielers-oft-von-ki-gestohlen](https://www.spiegel.de/panorama/leute/morgan-freeman-weltberuehmte-stimme-des-schauspielers-oft-von-ki-gestohlen-a-acaf2bbc-f09d-49af-a680-3349db32aeb6#ref=rss)
+### ki
+
+* [https://www.spiegel.de/panorama/leute/morgan-freeman-weltberuehmte-stimme-des-schauspielers-oft-von-ki-gestohlen](https://www.spiegel.de/panorama/leute/morgan-freeman-weltberuehmte-stimme-des-schauspielers-oft-von-ki-gestohlen-a-acaf2bbc-f09d-49af-a680-3349db32aeb6#ref=rss)
+### köln
+
+* [https://www.spiegel.de/panorama/justiz/koeln-mann-soll-75-jaehrigen-mitpatienten-auf-intensivstation-getoetet-haben](https://www.spiegel.de/panorama/justiz/koeln-mann-soll-75-jaehrigen-mitpatienten-auf-intensivstation-getoetet-haben-a-2d279818-4b7c-49d0-88c1-c2c834724b97#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/hauptbahnhof-in-koeln-gesperrt-was-bahnreisende-jetzt-wissen-muessen](https://www.spiegel.de/reise/deutschland/hauptbahnhof-in-koeln-gesperrt-was-bahnreisende-jetzt-wissen-muessen-a-8b7f76aa-783f-4e3d-b8ee-43e230849750#ref=rss)
+### intensivstation
+
+* [https://www.spiegel.de/panorama/justiz/koeln-mann-soll-75-jaehrigen-mitpatienten-auf-intensivstation-getoetet-haben](https://www.spiegel.de/panorama/justiz/koeln-mann-soll-75-jaehrigen-mitpatienten-auf-intensivstation-getoetet-haben-a-2d279818-4b7c-49d0-88c1-c2c834724b97#ref=rss)
+### kölner
+
+* [https://www.spiegel.de/panorama/justiz/koeln-mann-soll-75-jaehrigen-mitpatienten-auf-intensivstation-getoetet-haben](https://www.spiegel.de/panorama/justiz/koeln-mann-soll-75-jaehrigen-mitpatienten-auf-intensivstation-getoetet-haben-a-2d279818-4b7c-49d0-88c1-c2c834724b97#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/hauptbahnhof-in-koeln-gesperrt-was-bahnreisende-jetzt-wissen-muessen](https://www.spiegel.de/reise/deutschland/hauptbahnhof-in-koeln-gesperrt-was-bahnreisende-jetzt-wissen-muessen-a-8b7f76aa-783f-4e3d-b8ee-43e230849750#ref=rss)
+### roger
+
+* [https://www.spiegel.de/sport/fussball/roger-wittmann-und-die-tsg-hoffenheim-der-umstrittenste-spielerberater-deutschlands](https://www.spiegel.de/sport/fussball/roger-wittmann-und-die-tsg-hoffenheim-der-umstrittenste-spielerberater-deutschlands-a-fad7c3f7-4271-44dc-91cc-6d9d90de3680#ref=rss)
+### wittmann
+
+* [https://www.spiegel.de/sport/fussball/roger-wittmann-und-die-tsg-hoffenheim-der-umstrittenste-spielerberater-deutschlands](https://www.spiegel.de/sport/fussball/roger-wittmann-und-die-tsg-hoffenheim-der-umstrittenste-spielerberater-deutschlands-a-fad7c3f7-4271-44dc-91cc-6d9d90de3680#ref=rss)
+### tsg
+
+* [https://www.spiegel.de/sport/fussball/roger-wittmann-und-die-tsg-hoffenheim-der-umstrittenste-spielerberater-deutschlands](https://www.spiegel.de/sport/fussball/roger-wittmann-und-die-tsg-hoffenheim-der-umstrittenste-spielerberater-deutschlands-a-fad7c3f7-4271-44dc-91cc-6d9d90de3680#ref=rss)
+### hoffenheim
+
+* [https://www.spiegel.de/sport/fussball/roger-wittmann-und-die-tsg-hoffenheim-der-umstrittenste-spielerberater-deutschlands](https://www.spiegel.de/sport/fussball/roger-wittmann-und-die-tsg-hoffenheim-der-umstrittenste-spielerberater-deutschlands-a-fad7c3f7-4271-44dc-91cc-6d9d90de3680#ref=rss)
+### spielerberater
+
+* [https://www.spiegel.de/sport/fussball/roger-wittmann-und-die-tsg-hoffenheim-der-umstrittenste-spielerberater-deutschlands](https://www.spiegel.de/sport/fussball/roger-wittmann-und-die-tsg-hoffenheim-der-umstrittenste-spielerberater-deutschlands-a-fad7c3f7-4271-44dc-91cc-6d9d90de3680#ref=rss)
+### venezuela
+
+* [https://www.spiegel.de/ausland/venezuela-maria-corina-machado-setzt-sich-bei-donald-trump-fuer-eine-militaerische-intervention-ein](https://www.spiegel.de/ausland/venezuela-maria-corina-machado-setzt-sich-bei-donald-trump-fuer-eine-militaerische-intervention-ein-a-02df11ff-693f-4ab8-b465-da28973968eb#ref=rss)
+### corina
+
+* [https://www.spiegel.de/ausland/venezuela-maria-corina-machado-setzt-sich-bei-donald-trump-fuer-eine-militaerische-intervention-ein](https://www.spiegel.de/ausland/venezuela-maria-corina-machado-setzt-sich-bei-donald-trump-fuer-eine-militaerische-intervention-ein-a-02df11ff-693f-4ab8-b465-da28973968eb#ref=rss)
+### machado
+
+* [https://www.spiegel.de/ausland/venezuela-maria-corina-machado-setzt-sich-bei-donald-trump-fuer-eine-militaerische-intervention-ein](https://www.spiegel.de/ausland/venezuela-maria-corina-machado-setzt-sich-bei-donald-trump-fuer-eine-militaerische-intervention-ein-a-02df11ff-693f-4ab8-b465-da28973968eb#ref=rss)
+### intervention
+
+* [https://www.spiegel.de/ausland/venezuela-maria-corina-machado-setzt-sich-bei-donald-trump-fuer-eine-militaerische-intervention-ein](https://www.spiegel.de/ausland/venezuela-maria-corina-machado-setzt-sich-bei-donald-trump-fuer-eine-militaerische-intervention-ein-a-02df11ff-693f-4ab8-b465-da28973968eb#ref=rss)
+### außenpolitik
+
+* [https://www.spiegel.de/ausland/aussenpolitik-der-usa-donald-trump-hat-ein-bestimmtes-modell-von-der-welt-im-kopf](https://www.spiegel.de/ausland/aussenpolitik-der-usa-donald-trump-hat-ein-bestimmtes-modell-von-der-welt-im-kopf-a-3d47ba54-ee94-45b4-a945-2795c02d3e40#ref=rss)
+### welt
+
+* [https://www.spiegel.de/ausland/aussenpolitik-der-usa-donald-trump-hat-ein-bestimmtes-modell-von-der-welt-im-kopf](https://www.spiegel.de/ausland/aussenpolitik-der-usa-donald-trump-hat-ein-bestimmtes-modell-von-der-welt-im-kopf-a-3d47ba54-ee94-45b4-a945-2795c02d3e40#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/moenchengladbach-betreiber-von-plattform-fuer-darstellungen-von-kindesmissbrauch-verurteilt](https://www.spiegel.de/panorama/justiz/moenchengladbach-betreiber-von-plattform-fuer-darstellungen-von-kindesmissbrauch-verurteilt-a-f9087087-93aa-48f2-848f-8a9477a4db5d#ref=rss)
+### hauptbahnhof
+
+* [https://www.spiegel.de/reise/deutschland/hauptbahnhof-in-koeln-gesperrt-was-bahnreisende-jetzt-wissen-muessen](https://www.spiegel.de/reise/deutschland/hauptbahnhof-in-koeln-gesperrt-was-bahnreisende-jetzt-wissen-muessen-a-8b7f76aa-783f-4e3d-b8ee-43e230849750#ref=rss)
+### prognose
+
+* [https://www.spiegel.de/panorama/bildung/neue-prognose-schuelerzahl-steigt-bis-2032-starke-regionale-unterschiede](https://www.spiegel.de/panorama/bildung/neue-prognose-schuelerzahl-steigt-bis-2032-starke-regionale-unterschiede-a-e8f35a4f-a4cf-4c2c-9f07-0b89165e69f0#ref=rss)
+### regionale
+
+* [https://www.spiegel.de/panorama/bildung/neue-prognose-schuelerzahl-steigt-bis-2032-starke-regionale-unterschiede](https://www.spiegel.de/panorama/bildung/neue-prognose-schuelerzahl-steigt-bis-2032-starke-regionale-unterschiede-a-e8f35a4f-a4cf-4c2c-9f07-0b89165e69f0#ref=rss)
+### unterschiede
+
+* [https://www.spiegel.de/panorama/bildung/neue-prognose-schuelerzahl-steigt-bis-2032-starke-regionale-unterschiede](https://www.spiegel.de/panorama/bildung/neue-prognose-schuelerzahl-steigt-bis-2032-starke-regionale-unterschiede-a-e8f35a4f-a4cf-4c2c-9f07-0b89165e69f0#ref=rss)
+### indonesien
+
+* [https://www.spiegel.de/ausland/indonesien-suharto-als-nationalheld-geehrt-menschenrechtsgruppen-empoert](https://www.spiegel.de/ausland/indonesien-suharto-als-nationalheld-geehrt-menschenrechtsgruppen-empoert-a-1904b73b-4ab2-4965-a871-82147a16237e#ref=rss)
+### suharto
+
+* [https://www.spiegel.de/ausland/indonesien-suharto-als-nationalheld-geehrt-menschenrechtsgruppen-empoert](https://www.spiegel.de/ausland/indonesien-suharto-als-nationalheld-geehrt-menschenrechtsgruppen-empoert-a-1904b73b-4ab2-4965-a871-82147a16237e#ref=rss)
+### nationalheld
+
+* [https://www.spiegel.de/ausland/indonesien-suharto-als-nationalheld-geehrt-menschenrechtsgruppen-empoert](https://www.spiegel.de/ausland/indonesien-suharto-als-nationalheld-geehrt-menschenrechtsgruppen-empoert-a-1904b73b-4ab2-4965-a871-82147a16237e#ref=rss)
+### spaceboy
+
+* [https://www.spiegel.de/kultur/frank-schaetzings-spaceboy-parallelen-zwischen-bowie-und-schaetzings-leben](https://www.spiegel.de/kultur/frank-schaetzings-spaceboy-parallelen-zwischen-bowie-und-schaetzings-leben-a-591270af-125e-4a74-8b28-1620365a9b87#ref=rss)
+### frank
+
+* [https://www.spiegel.de/kultur/frank-schaetzings-spaceboy-parallelen-zwischen-bowie-und-schaetzings-leben](https://www.spiegel.de/kultur/frank-schaetzings-spaceboy-parallelen-zwischen-bowie-und-schaetzings-leben-a-591270af-125e-4a74-8b28-1620365a9b87#ref=rss)
+### schätzing
+
+* [https://www.spiegel.de/kultur/frank-schaetzings-spaceboy-parallelen-zwischen-bowie-und-schaetzings-leben](https://www.spiegel.de/kultur/frank-schaetzings-spaceboy-parallelen-zwischen-bowie-und-schaetzings-leben-a-591270af-125e-4a74-8b28-1620365a9b87#ref=rss)
+### david
+
+* [https://www.spiegel.de/kultur/frank-schaetzings-spaceboy-parallelen-zwischen-bowie-und-schaetzings-leben](https://www.spiegel.de/kultur/frank-schaetzings-spaceboy-parallelen-zwischen-bowie-und-schaetzings-leben-a-591270af-125e-4a74-8b28-1620365a9b87#ref=rss)
+### bowie
+
+* [https://www.spiegel.de/kultur/frank-schaetzings-spaceboy-parallelen-zwischen-bowie-und-schaetzings-leben](https://www.spiegel.de/kultur/frank-schaetzings-spaceboy-parallelen-zwischen-bowie-und-schaetzings-leben-a-591270af-125e-4a74-8b28-1620365a9b87#ref=rss)
 
