@@ -4,376 +4,320 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/netzwelt/gadgets/motorola-edge-70-im-test-smartphone-superflunder-mit-der-werbeflaeche](https://www.spiegel.de/netzwelt/gadgets/motorola-edge-70-im-test-smartphone-superflunder-mit-der-werbeflaeche-a-55c0139e-642b-4bfc-a16b-7d06782c1eef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bad-segeberg-bau-der-a20-kann-nach-jahrelangem-streit-weitergehen](https://www.spiegel.de/wirtschaft/bad-segeberg-bau-der-a20-kann-nach-jahrelangem-streit-weitergehen-a-69559ab6-aade-45a6-b7ef-f31c62eaefd9#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/unicef-grundbeduerfnisse-von-mehr-als-einer-million-kindern-nicht-gedeckt](https://www.spiegel.de/panorama/bildung/unicef-grundbeduerfnisse-von-mehr-als-einer-million-kindern-nicht-gedeckt-a-3f11b3d1-8023-4719-8912-65eba427e179#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-eu-gruenenfraktionschefin-fordert-eingreifen-im-lieferkettenstreit](https://www.spiegel.de/politik/deutschland/friedrich-merz-eu-gruenenfraktionschefin-fordert-eingreifen-im-lieferkettenstreit-a-2c2375e1-000e-46fb-885d-ac6537675936#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-fraktionschefs-aus-bayern-und-hessen-warnen-vor-rueckzug-in-die-nische](https://www.spiegel.de/politik/deutschland/die-gruenen-fraktionschefs-aus-bayern-und-hessen-warnen-vor-rueckzug-in-die-nische-a-c564e9e7-f892-43db-974b-e45574d7469e#ref=rss)
-### shutdown
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-### demokraten
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/netzwelt/gadgets/motorola-edge-70-im-test-smartphone-superflunder-mit-der-werbeflaeche](https://www.spiegel.de/netzwelt/gadgets/motorola-edge-70-im-test-smartphone-superflunder-mit-der-werbeflaeche-a-55c0139e-642b-4bfc-a16b-7d06782c1eef#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv-a-4c150d63-4414-4545-aa01-c41bbd0ce43d#ref=rss)
-* [https://www.spiegel.de/kultur/erinnerungskultur-gedenkstaetten-und-die-neuen-leitlinien-von-kulturstaatsminister-wolfram-weimer-unmut-zur-luecke](https://www.spiegel.de/kultur/erinnerungskultur-gedenkstaetten-und-die-neuen-leitlinien-von-kulturstaatsminister-wolfram-weimer-unmut-zur-luecke-a-4bdfe2aa-4a06-48e7-b9b6-c54150488807#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/zypern-zwei-erdbeben-versetzen-menschen-in-angst](https://www.spiegel.de/panorama/zypern-zwei-erdbeben-versetzen-menschen-in-angst-a-28f325cc-ce44-4bef-a2e9-b0b3ba8bf7a5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-fraktionschefs-aus-bayern-und-hessen-warnen-vor-rueckzug-in-die-nische](https://www.spiegel.de/politik/deutschland/die-gruenen-fraktionschefs-aus-bayern-und-hessen-warnen-vor-rueckzug-in-die-nische-a-c564e9e7-f892-43db-974b-e45574d7469e#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-fordert-ruecktritt-von-zwei-ministern](https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-fordert-ruecktritt-von-zwei-ministern-a-4ea980a3-4e3d-46ce-80e5-501d2eec31ed#ref=rss)
-### italien
-
-* [https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen](https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen-a-27de89ca-00fe-4775-9bfb-a1b01009368e#ref=rss)
-### el
-
-* [https://www.spiegel.de/karriere/mainz-05-und-anwar-el-ghazi-berufung-gescheitert-gehaltsnachzahlung-faellig](https://www.spiegel.de/karriere/mainz-05-und-anwar-el-ghazi-berufung-gescheitert-gehaltsnachzahlung-faellig-a-8c241c69-a85d-46d5-ac8c-0bc4501a527b#ref=rss)
-### ghazi
-
-* [https://www.spiegel.de/karriere/mainz-05-und-anwar-el-ghazi-berufung-gescheitert-gehaltsnachzahlung-faellig](https://www.spiegel.de/karriere/mainz-05-und-anwar-el-ghazi-berufung-gescheitert-gehaltsnachzahlung-faellig-a-8c241c69-a85d-46d5-ac8c-0bc4501a527b#ref=rss)
-### ehemalige
-
-* [https://www.spiegel.de/politik/deutschland/israel-angela-merkel-besucht-die-tatorte-des-hamas-massakers](https://www.spiegel.de/politik/deutschland/israel-angela-merkel-besucht-die-tatorte-des-hamas-massakers-a-993ba5e2-e84a-4322-accb-cb427256e937#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen](https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen-a-4e4add96-4c68-4278-9d82-c0639a9593f0#ref=rss)
-### wecker
-
-* [https://www.spiegel.de/kultur/musik/konstantin-wecker-bereut-den-alkohol-andere-drogenexperimente-aber-nicht](https://www.spiegel.de/kultur/musik/konstantin-wecker-bereut-den-alkohol-andere-drogenexperimente-aber-nicht-a-ecde627f-b21a-47d2-b8b9-2ffdb02a99a8#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-konflikt-mit-venezuela-stellwerkprobleme-am-koelner-hauptbahnhof-balcis-kritik-an-der-spd](https://www.spiegel.de/politik/deutschland/news-des-tages-us-konflikt-mit-venezuela-stellwerkprobleme-am-koelner-hauptbahnhof-balcis-kritik-an-der-spd-a-cb2045b2-ce7a-436d-a5a8-ad37e90d213f#ref=rss)
-### neue
-
-* [https://www.spiegel.de/netzwelt/gadgets/motorola-edge-70-im-test-smartphone-superflunder-mit-der-werbeflaeche](https://www.spiegel.de/netzwelt/gadgets/motorola-edge-70-im-test-smartphone-superflunder-mit-der-werbeflaeche-a-55c0139e-642b-4bfc-a16b-7d06782c1eef#ref=rss)
-* [https://www.spiegel.de/kultur/erinnerungskultur-gedenkstaetten-und-die-neuen-leitlinien-von-kulturstaatsminister-wolfram-weimer-unmut-zur-luecke](https://www.spiegel.de/kultur/erinnerungskultur-gedenkstaetten-und-die-neuen-leitlinien-von-kulturstaatsminister-wolfram-weimer-unmut-zur-luecke-a-4bdfe2aa-4a06-48e7-b9b6-c54150488807#ref=rss)
-### iphone
-
-* [https://www.spiegel.de/netzwelt/gadgets/motorola-edge-70-im-test-smartphone-superflunder-mit-der-werbeflaeche](https://www.spiegel.de/netzwelt/gadgets/motorola-edge-70-im-test-smartphone-superflunder-mit-der-werbeflaeche-a-55c0139e-642b-4bfc-a16b-7d06782c1eef#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-zubehoer-apple-stellt-150-dollar-socke-vor](https://www.spiegel.de/netzwelt/gadgets/iphone-zubehoer-apple-stellt-150-dollar-socke-vor-a-4a1c3a50-2dcd-4d35-a0c2-88f72ff36052#ref=rss)
-### zypern
-
-* [https://www.spiegel.de/panorama/zypern-zwei-erdbeben-versetzen-menschen-in-angst](https://www.spiegel.de/panorama/zypern-zwei-erdbeben-versetzen-menschen-in-angst-a-28f325cc-ce44-4bef-a2e9-b0b3ba8bf7a5#ref=rss)
-### erdbeben
-
-* [https://www.spiegel.de/panorama/zypern-zwei-erdbeben-versetzen-menschen-in-angst](https://www.spiegel.de/panorama/zypern-zwei-erdbeben-versetzen-menschen-in-angst-a-28f325cc-ce44-4bef-a2e9-b0b3ba8bf7a5#ref=rss)
-### erschüttert
-
-* [https://www.spiegel.de/panorama/zypern-zwei-erdbeben-versetzen-menschen-in-angst](https://www.spiegel.de/panorama/zypern-zwei-erdbeben-versetzen-menschen-in-angst-a-28f325cc-ce44-4bef-a2e9-b0b3ba8bf7a5#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-fordert-ruecktritt-von-zwei-ministern](https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-fordert-ruecktritt-von-zwei-ministern-a-4ea980a3-4e3d-46ce-80e5-501d2eec31ed#ref=rss)
-### spieler
-
-* [https://www.spiegel.de/panorama/zypern-zwei-erdbeben-versetzen-menschen-in-angst](https://www.spiegel.de/panorama/zypern-zwei-erdbeben-versetzen-menschen-in-angst-a-28f325cc-ce44-4bef-a2e9-b0b3ba8bf7a5#ref=rss)
-* [https://www.spiegel.de/karriere/mainz-05-und-anwar-el-ghazi-berufung-gescheitert-gehaltsnachzahlung-faellig](https://www.spiegel.de/karriere/mainz-05-und-anwar-el-ghazi-berufung-gescheitert-gehaltsnachzahlung-faellig-a-8c241c69-a85d-46d5-ac8c-0bc4501a527b#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/zypern-zwei-erdbeben-versetzen-menschen-in-angst](https://www.spiegel.de/panorama/zypern-zwei-erdbeben-versetzen-menschen-in-angst-a-28f325cc-ce44-4bef-a2e9-b0b3ba8bf7a5#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-rekrutierte-offenbar-200-kenianer](https://www.spiegel.de/ausland/ukraine-krieg-russland-rekrutierte-offenbar-200-kenianer-a-6e906560-cc95-4d42-b891-a342302418dd#ref=rss)
-### gemeinde
-
-* [https://www.spiegel.de/kultur/jason-stanley-und-die-juedische-gemeinde-in-frankfurt-gedenken-ist-nicht-debatte](https://www.spiegel.de/kultur/jason-stanley-und-die-juedische-gemeinde-in-frankfurt-gedenken-ist-nicht-debatte-a-59210841-428b-4f44-a39a-30617ea9359c#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/kultur/jason-stanley-und-die-juedische-gemeinde-in-frankfurt-gedenken-ist-nicht-debatte](https://www.spiegel.de/kultur/jason-stanley-und-die-juedische-gemeinde-in-frankfurt-gedenken-ist-nicht-debatte-a-59210841-428b-4f44-a39a-30617ea9359c#ref=rss)
-### jüdischen
-
-* [https://www.spiegel.de/kultur/jason-stanley-und-die-juedische-gemeinde-in-frankfurt-gedenken-ist-nicht-debatte](https://www.spiegel.de/kultur/jason-stanley-und-die-juedische-gemeinde-in-frankfurt-gedenken-ist-nicht-debatte-a-59210841-428b-4f44-a39a-30617ea9359c#ref=rss)
-* [https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen](https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen-a-27de89ca-00fe-4775-9bfb-a1b01009368e#ref=rss)
-### historikerin
-
-* [https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen](https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen-a-27de89ca-00fe-4775-9bfb-a1b01009368e#ref=rss)
-### anna
-
-* [https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen](https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen-a-27de89ca-00fe-4775-9bfb-a1b01009368e#ref=rss)
-### foa
-
-* [https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen](https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen-a-27de89ca-00fe-4775-9bfb-a1b01009368e#ref=rss)
-### antisemitismus
-
-* [https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen](https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen-a-27de89ca-00fe-4775-9bfb-a1b01009368e#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen](https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen-a-27de89ca-00fe-4775-9bfb-a1b01009368e#ref=rss)
-* [https://www.spiegel.de/panorama/migration-bundespolizei-chef-dieter-romann-kritisiert-europaeisches-asylsystem](https://www.spiegel.de/panorama/migration-bundespolizei-chef-dieter-romann-kritisiert-europaeisches-asylsystem-a-f78737f4-31a6-46ef-af86-3ff577f6646a#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen](https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen-a-27de89ca-00fe-4775-9bfb-a1b01009368e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen](https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen-a-4e4add96-4c68-4278-9d82-c0639a9593f0#ref=rss)
-### radikale
-
-* [https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen](https://www.spiegel.de/ausland/italien-israel-gaza-krieg-historikerin-ueber-anna-foa-ueber-antisemitismus-in-italien-in-letzter-zeit-gibt-es-unangenehme-ueberraschungen-a-27de89ca-00fe-4775-9bfb-a1b01009368e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv-a-4c150d63-4414-4545-aa01-c41bbd0ce43d#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-rekrutierte-offenbar-200-kenianer](https://www.spiegel.de/ausland/ukraine-krieg-russland-rekrutierte-offenbar-200-kenianer-a-6e906560-cc95-4d42-b891-a342302418dd#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/ukraine-krieg-gasbrand-bei-soldaten-eine-gefaehrliche-krankheit-aus-der-vergangenheit](https://www.spiegel.de/gesundheit/diagnose/ukraine-krieg-gasbrand-bei-soldaten-eine-gefaehrliche-krankheit-aus-der-vergangenheit-a-939dad26-e744-4257-b542-eff2c8d8f6d5#ref=rss)
-### mainz
-
-* [https://www.spiegel.de/karriere/mainz-05-und-anwar-el-ghazi-berufung-gescheitert-gehaltsnachzahlung-faellig](https://www.spiegel.de/karriere/mainz-05-und-anwar-el-ghazi-berufung-gescheitert-gehaltsnachzahlung-faellig-a-8c241c69-a85d-46d5-ac8c-0bc4501a527b#ref=rss)
-### 05
-
-* [https://www.spiegel.de/karriere/mainz-05-und-anwar-el-ghazi-berufung-gescheitert-gehaltsnachzahlung-faellig](https://www.spiegel.de/karriere/mainz-05-und-anwar-el-ghazi-berufung-gescheitert-gehaltsnachzahlung-faellig-a-8c241c69-a85d-46d5-ac8c-0bc4501a527b#ref=rss)
-### anwar
-
-* [https://www.spiegel.de/karriere/mainz-05-und-anwar-el-ghazi-berufung-gescheitert-gehaltsnachzahlung-faellig](https://www.spiegel.de/karriere/mainz-05-und-anwar-el-ghazi-berufung-gescheitert-gehaltsnachzahlung-faellig-a-8c241c69-a85d-46d5-ac8c-0bc4501a527b#ref=rss)
-### hanna
-
-* [https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv-a-4c150d63-4414-4545-aa01-c41bbd0ce43d#ref=rss)
-### hansen
-
-* [https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv-a-4c150d63-4414-4545-aa01-c41bbd0ce43d#ref=rss)
-### sven
-
-* [https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv-a-4c150d63-4414-4545-aa01-c41bbd0ce43d#ref=rss)
-### lau
-
-* [https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv-a-4c150d63-4414-4545-aa01-c41bbd0ce43d#ref=rss)
-### muslim
-
-* [https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv-a-4c150d63-4414-4545-aa01-c41bbd0ce43d#ref=rss)
-### interaktiv
-
-* [https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv-a-4c150d63-4414-4545-aa01-c41bbd0ce43d#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/islamismus-hanna-hansen-sven-lau-muslim-interaktiv-vom-model-zur-salafistin-spiegel-tv-a-4c150d63-4414-4545-aa01-c41bbd0ce43d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reisen-ins-russische-sotschi-so-spannt-der-kreml-die-afd-fuer-seine-propaganda-ein](https://www.spiegel.de/politik/deutschland/reisen-ins-russische-sotschi-so-spannt-der-kreml-die-afd-fuer-seine-propaganda-ein-a-555cd657-0d9e-4f5f-9a3f-f782aecbc6d8#ref=rss)
-### streit
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-eu-gruenenfraktionschefin-fordert-eingreifen-im-lieferkettenstreit](https://www.spiegel.de/politik/deutschland/friedrich-merz-eu-gruenenfraktionschefin-fordert-eingreifen-im-lieferkettenstreit-a-2c2375e1-000e-46fb-885d-ac6537675936#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bad-segeberg-bau-der-a20-kann-nach-jahrelangem-streit-weitergehen](https://www.spiegel.de/wirtschaft/bad-segeberg-bau-der-a20-kann-nach-jahrelangem-streit-weitergehen-a-69559ab6-aade-45a6-b7ef-f31c62eaefd9#ref=rss)
-### magdeburg
-
-* [https://www.spiegel.de/panorama/magdeburg-weihnachtsmarkt-soll-stattfinden](https://www.spiegel.de/panorama/magdeburg-weihnachtsmarkt-soll-stattfinden-a-e9fd5c25-1688-4cab-9e84-102e842aafbc#ref=rss)
-### weihnachtsmarkt
-
-* [https://www.spiegel.de/panorama/magdeburg-weihnachtsmarkt-soll-stattfinden](https://www.spiegel.de/panorama/magdeburg-weihnachtsmarkt-soll-stattfinden-a-e9fd5c25-1688-4cab-9e84-102e842aafbc#ref=rss)
-### stattfinden
-
-* [https://www.spiegel.de/panorama/magdeburg-weihnachtsmarkt-soll-stattfinden](https://www.spiegel.de/panorama/magdeburg-weihnachtsmarkt-soll-stattfinden-a-e9fd5c25-1688-4cab-9e84-102e842aafbc#ref=rss)
-### gedenkstätten
-
-* [https://www.spiegel.de/kultur/erinnerungskultur-gedenkstaetten-und-die-neuen-leitlinien-von-kulturstaatsminister-wolfram-weimer-unmut-zur-luecke](https://www.spiegel.de/kultur/erinnerungskultur-gedenkstaetten-und-die-neuen-leitlinien-von-kulturstaatsminister-wolfram-weimer-unmut-zur-luecke-a-4bdfe2aa-4a06-48e7-b9b6-c54150488807#ref=rss)
-### leitlinien
-
-* [https://www.spiegel.de/kultur/erinnerungskultur-gedenkstaetten-und-die-neuen-leitlinien-von-kulturstaatsminister-wolfram-weimer-unmut-zur-luecke](https://www.spiegel.de/kultur/erinnerungskultur-gedenkstaetten-und-die-neuen-leitlinien-von-kulturstaatsminister-wolfram-weimer-unmut-zur-luecke-a-4bdfe2aa-4a06-48e7-b9b6-c54150488807#ref=rss)
-### kulturstaatsminister
-
-* [https://www.spiegel.de/kultur/erinnerungskultur-gedenkstaetten-und-die-neuen-leitlinien-von-kulturstaatsminister-wolfram-weimer-unmut-zur-luecke](https://www.spiegel.de/kultur/erinnerungskultur-gedenkstaetten-und-die-neuen-leitlinien-von-kulturstaatsminister-wolfram-weimer-unmut-zur-luecke-a-4bdfe2aa-4a06-48e7-b9b6-c54150488807#ref=rss)
-### weimer
-
-* [https://www.spiegel.de/kultur/erinnerungskultur-gedenkstaetten-und-die-neuen-leitlinien-von-kulturstaatsminister-wolfram-weimer-unmut-zur-luecke](https://www.spiegel.de/kultur/erinnerungskultur-gedenkstaetten-und-die-neuen-leitlinien-von-kulturstaatsminister-wolfram-weimer-unmut-zur-luecke-a-4bdfe2aa-4a06-48e7-b9b6-c54150488807#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/kultur/erinnerungskultur-gedenkstaetten-und-die-neuen-leitlinien-von-kulturstaatsminister-wolfram-weimer-unmut-zur-luecke](https://www.spiegel.de/kultur/erinnerungskultur-gedenkstaetten-und-die-neuen-leitlinien-von-kulturstaatsminister-wolfram-weimer-unmut-zur-luecke-a-4bdfe2aa-4a06-48e7-b9b6-c54150488807#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-fordert-ruecktritt-von-zwei-ministern](https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-fordert-ruecktritt-von-zwei-ministern-a-4ea980a3-4e3d-46ce-80e5-501d2eec31ed#ref=rss)
-### temptation
-
-* [https://www.spiegel.de/kultur/tv/temptation-island-auf-rtl-das-boom-boom-prinzip](https://www.spiegel.de/kultur/tv/temptation-island-auf-rtl-das-boom-boom-prinzip-a-b235bb9d-b7c9-41da-b94a-5f894ba1fc32#ref=rss)
-### island
-
-* [https://www.spiegel.de/kultur/tv/temptation-island-auf-rtl-das-boom-boom-prinzip](https://www.spiegel.de/kultur/tv/temptation-island-auf-rtl-das-boom-boom-prinzip-a-b235bb9d-b7c9-41da-b94a-5f894ba1fc32#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/kultur/tv/temptation-island-auf-rtl-das-boom-boom-prinzip](https://www.spiegel.de/kultur/tv/temptation-island-auf-rtl-das-boom-boom-prinzip-a-b235bb9d-b7c9-41da-b94a-5f894ba1fc32#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-konflikt-mit-venezuela-stellwerkprobleme-am-koelner-hauptbahnhof-balcis-kritik-an-der-spd](https://www.spiegel.de/politik/deutschland/news-des-tages-us-konflikt-mit-venezuela-stellwerkprobleme-am-koelner-hauptbahnhof-balcis-kritik-an-der-spd-a-cb2045b2-ce7a-436d-a5a8-ad37e90d213f#ref=rss)
-### israel
-
-* [https://www.spiegel.de/politik/deutschland/israel-angela-merkel-besucht-die-tatorte-des-hamas-massakers](https://www.spiegel.de/politik/deutschland/israel-angela-merkel-besucht-die-tatorte-des-hamas-massakers-a-993ba5e2-e84a-4322-accb-cb427256e937#ref=rss)
-### angela
-
-* [https://www.spiegel.de/politik/deutschland/israel-angela-merkel-besucht-die-tatorte-des-hamas-massakers](https://www.spiegel.de/politik/deutschland/israel-angela-merkel-besucht-die-tatorte-des-hamas-massakers-a-993ba5e2-e84a-4322-accb-cb427256e937#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/israel-angela-merkel-besucht-die-tatorte-des-hamas-massakers](https://www.spiegel.de/politik/deutschland/israel-angela-merkel-besucht-die-tatorte-des-hamas-massakers-a-993ba5e2-e84a-4322-accb-cb427256e937#ref=rss)
-### besonderes
-
-* [https://www.spiegel.de/politik/deutschland/israel-angela-merkel-besucht-die-tatorte-des-hamas-massakers](https://www.spiegel.de/politik/deutschland/israel-angela-merkel-besucht-die-tatorte-des-hamas-massakers-a-993ba5e2-e84a-4322-accb-cb427256e937#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-zubehoer-apple-stellt-150-dollar-socke-vor](https://www.spiegel.de/netzwelt/gadgets/iphone-zubehoer-apple-stellt-150-dollar-socke-vor-a-4a1c3a50-2dcd-4d35-a0c2-88f72ff36052#ref=rss)
-### zeugen
-
-* [https://www.spiegel.de/politik/deutschland/israel-angela-merkel-besucht-die-tatorte-des-hamas-massakers](https://www.spiegel.de/politik/deutschland/israel-angela-merkel-besucht-die-tatorte-des-hamas-massakers-a-993ba5e2-e84a-4322-accb-cb427256e937#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen](https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen-a-4e4add96-4c68-4278-9d82-c0639a9593f0#ref=rss)
-### dieter
-
-* [https://www.spiegel.de/panorama/migration-bundespolizei-chef-dieter-romann-kritisiert-europaeisches-asylsystem](https://www.spiegel.de/panorama/migration-bundespolizei-chef-dieter-romann-kritisiert-europaeisches-asylsystem-a-f78737f4-31a6-46ef-af86-3ff577f6646a#ref=rss)
-### romann
-
-* [https://www.spiegel.de/panorama/migration-bundespolizei-chef-dieter-romann-kritisiert-europaeisches-asylsystem](https://www.spiegel.de/panorama/migration-bundespolizei-chef-dieter-romann-kritisiert-europaeisches-asylsystem-a-f78737f4-31a6-46ef-af86-3ff577f6646a#ref=rss)
-### konstantin
-
-* [https://www.spiegel.de/kultur/musik/konstantin-wecker-bereut-den-alkohol-andere-drogenexperimente-aber-nicht](https://www.spiegel.de/kultur/musik/konstantin-wecker-bereut-den-alkohol-andere-drogenexperimente-aber-nicht-a-ecde627f-b21a-47d2-b8b9-2ffdb02a99a8#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/kultur/musik/konstantin-wecker-bereut-den-alkohol-andere-drogenexperimente-aber-nicht](https://www.spiegel.de/kultur/musik/konstantin-wecker-bereut-den-alkohol-andere-drogenexperimente-aber-nicht-a-ecde627f-b21a-47d2-b8b9-2ffdb02a99a8#ref=rss)
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-fordert-ruecktritt-von-zwei-ministern](https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-fordert-ruecktritt-von-zwei-ministern-a-4ea980a3-4e3d-46ce-80e5-501d2eec31ed#ref=rss)
-### apple
-
-* [https://www.spiegel.de/netzwelt/gadgets/iphone-zubehoer-apple-stellt-150-dollar-socke-vor](https://www.spiegel.de/netzwelt/gadgets/iphone-zubehoer-apple-stellt-150-dollar-socke-vor-a-4a1c3a50-2dcd-4d35-a0c2-88f72ff36052#ref=rss)
-### brach
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-### widerstand
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-### nachgegeben
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-### republikaner
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-### beenden
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-### quälend
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-### lange
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-### haushaltssperre
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-### opposition
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-### machtlos
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-### weiß
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-### zusetzen
+* [https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump](https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump-a-27dc95d7-42d6-4f55-bc3a-40e5b1c42c31#ref=rss)
+* [https://www.spiegel.de/ausland/jeffrey-epstein-und-donald-trump-was-die-neuen-details-aus-den-e-mails-bedeuten](https://www.spiegel.de/ausland/jeffrey-epstein-und-donald-trump-was-die-neuen-details-aus-den-e-mails-bedeuten-a-9a16eb50-8b50-43c1-a471-2f03bbd3a6bd#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung](https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung-a-cd260865-0124-41cc-a74d-43a885dd00c6#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz-a-44d07f4a-e59b-496e-a0fe-72de73c33eac#ref=rss)
+### junge
 
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-a-008581dc-8a69-487f-a83b-69e69de87df0#ref=rss)
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast](https://www.spiegel.de/ausland/shutdown-in-den-usa-so-brach-der-widerstand-der-demokraten-podcast-a-f9f881bf-da0c-41e4-8136-39fa7d5b688b#ref=rss)
-### afd
+* [https://www.spiegel.de/start/startklar-newsletter-wie-verabschiede-ich-mich-von-meiner-wg](https://www.spiegel.de/start/startklar-newsletter-wie-verabschiede-ich-mich-von-meiner-wg-a-b7a6de90-3016-4d75-b807-80f971d899a5#ref=rss)
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner](https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner-a-dc2aaac6-b891-4b99-a61c-1a8c6f65abb8#ref=rss)
+### union
 
-* [https://www.spiegel.de/politik/deutschland/brandenburg-bsw-parteiaustritte-offenbaren-interne-konflikte](https://www.spiegel.de/politik/deutschland/brandenburg-bsw-parteiaustritte-offenbaren-interne-konflikte-a-8cc5ad96-c5ce-45dd-b3b3-d5c8a2b297a6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reisen-ins-russische-sotschi-so-spannt-der-kreml-die-afd-fuer-seine-propaganda-ein](https://www.spiegel.de/politik/deutschland/reisen-ins-russische-sotschi-so-spannt-der-kreml-die-afd-fuer-seine-propaganda-ein-a-555cd657-0d9e-4f5f-9a3f-f782aecbc6d8#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/gesundheit/diagnose/ukraine-krieg-gasbrand-bei-soldaten-eine-gefaehrliche-krankheit-aus-der-vergangenheit](https://www.spiegel.de/gesundheit/diagnose/ukraine-krieg-gasbrand-bei-soldaten-eine-gefaehrliche-krankheit-aus-der-vergangenheit-a-939dad26-e744-4257-b542-eff2c8d8f6d5#ref=rss)
-### krankheit
-
-* [https://www.spiegel.de/gesundheit/diagnose/ukraine-krieg-gasbrand-bei-soldaten-eine-gefaehrliche-krankheit-aus-der-vergangenheit](https://www.spiegel.de/gesundheit/diagnose/ukraine-krieg-gasbrand-bei-soldaten-eine-gefaehrliche-krankheit-aus-der-vergangenheit-a-939dad26-e744-4257-b542-eff2c8d8f6d5#ref=rss)
-### russische
-
-* [https://www.spiegel.de/gesundheit/diagnose/ukraine-krieg-gasbrand-bei-soldaten-eine-gefaehrliche-krankheit-aus-der-vergangenheit](https://www.spiegel.de/gesundheit/diagnose/ukraine-krieg-gasbrand-bei-soldaten-eine-gefaehrliche-krankheit-aus-der-vergangenheit-a-939dad26-e744-4257-b542-eff2c8d8f6d5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reisen-ins-russische-sotschi-so-spannt-der-kreml-die-afd-fuer-seine-propaganda-ein](https://www.spiegel.de/politik/deutschland/reisen-ins-russische-sotschi-so-spannt-der-kreml-die-afd-fuer-seine-propaganda-ein-a-555cd657-0d9e-4f5f-9a3f-f782aecbc6d8#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/block-prozess-alarmknopf-aufzeichnungen-im-gericht-abgespielt](https://www.spiegel.de/panorama/block-prozess-alarmknopf-aufzeichnungen-im-gericht-abgespielt-a-80f4f7a6-0ea4-4d15-a741-ad308de52c87#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen](https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen-a-4e4add96-4c68-4278-9d82-c0639a9593f0#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/panorama/block-prozess-alarmknopf-aufzeichnungen-im-gericht-abgespielt](https://www.spiegel.de/panorama/block-prozess-alarmknopf-aufzeichnungen-im-gericht-abgespielt-a-80f4f7a6-0ea4-4d15-a741-ad308de52c87#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen](https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen-a-4e4add96-4c68-4278-9d82-c0639a9593f0#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/block-prozess-alarmknopf-aufzeichnungen-im-gericht-abgespielt](https://www.spiegel.de/panorama/block-prozess-alarmknopf-aufzeichnungen-im-gericht-abgespielt-a-80f4f7a6-0ea4-4d15-a741-ad308de52c87#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/unicef-grundbeduerfnisse-von-mehr-als-einer-million-kindern-nicht-gedeckt](https://www.spiegel.de/panorama/bildung/unicef-grundbeduerfnisse-von-mehr-als-einer-million-kindern-nicht-gedeckt-a-3f11b3d1-8023-4719-8912-65eba427e179#ref=rss)
-### reisen
-
-* [https://www.spiegel.de/politik/deutschland/reisen-ins-russische-sotschi-so-spannt-der-kreml-die-afd-fuer-seine-propaganda-ein](https://www.spiegel.de/politik/deutschland/reisen-ins-russische-sotschi-so-spannt-der-kreml-die-afd-fuer-seine-propaganda-ein-a-555cd657-0d9e-4f5f-9a3f-f782aecbc6d8#ref=rss)
-### sotschi
-
-* [https://www.spiegel.de/politik/deutschland/reisen-ins-russische-sotschi-so-spannt-der-kreml-die-afd-fuer-seine-propaganda-ein](https://www.spiegel.de/politik/deutschland/reisen-ins-russische-sotschi-so-spannt-der-kreml-die-afd-fuer-seine-propaganda-ein-a-555cd657-0d9e-4f5f-9a3f-f782aecbc6d8#ref=rss)
-### bad
-
-* [https://www.spiegel.de/wirtschaft/bad-segeberg-bau-der-a20-kann-nach-jahrelangem-streit-weitergehen](https://www.spiegel.de/wirtschaft/bad-segeberg-bau-der-a20-kann-nach-jahrelangem-streit-weitergehen-a-69559ab6-aade-45a6-b7ef-f31c62eaefd9#ref=rss)
-### segeberg
-
-* [https://www.spiegel.de/wirtschaft/bad-segeberg-bau-der-a20-kann-nach-jahrelangem-streit-weitergehen](https://www.spiegel.de/wirtschaft/bad-segeberg-bau-der-a20-kann-nach-jahrelangem-streit-weitergehen-a-69559ab6-aade-45a6-b7ef-f31c62eaefd9#ref=rss)
-### a20
-
-* [https://www.spiegel.de/wirtschaft/bad-segeberg-bau-der-a20-kann-nach-jahrelangem-streit-weitergehen](https://www.spiegel.de/wirtschaft/bad-segeberg-bau-der-a20-kann-nach-jahrelangem-streit-weitergehen-a-69559ab6-aade-45a6-b7ef-f31c62eaefd9#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/soziales/jahresgutachten-des-sachverstaendigenrats-wirtschaftsweise-kritisieren-bundesregierung](https://www.spiegel.de/wirtschaft/soziales/jahresgutachten-des-sachverstaendigenrats-wirtschaftsweise-kritisieren-bundesregierung-a-da0d5ada-c767-461d-a6ce-a5aa2cf0ba37#ref=rss)
-### jahresgutachten
-
-* [https://www.spiegel.de/wirtschaft/soziales/jahresgutachten-des-sachverstaendigenrats-wirtschaftsweise-kritisieren-bundesregierung](https://www.spiegel.de/wirtschaft/soziales/jahresgutachten-des-sachverstaendigenrats-wirtschaftsweise-kritisieren-bundesregierung-a-da0d5ada-c767-461d-a6ce-a5aa2cf0ba37#ref=rss)
-### sachverständigenrats
-
-* [https://www.spiegel.de/wirtschaft/soziales/jahresgutachten-des-sachverstaendigenrats-wirtschaftsweise-kritisieren-bundesregierung](https://www.spiegel.de/wirtschaft/soziales/jahresgutachten-des-sachverstaendigenrats-wirtschaftsweise-kritisieren-bundesregierung-a-da0d5ada-c767-461d-a6ce-a5aa2cf0ba37#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar](https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar-a-59cc8ace-e48c-4057-9a98-4bed8d6b9300#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner](https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner-a-dc2aaac6-b891-4b99-a61c-1a8c6f65abb8#ref=rss)
 ### spd
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-konflikt-mit-venezuela-stellwerkprobleme-am-koelner-hauptbahnhof-balcis-kritik-an-der-spd](https://www.spiegel.de/politik/deutschland/news-des-tages-us-konflikt-mit-venezuela-stellwerkprobleme-am-koelner-hauptbahnhof-balcis-kritik-an-der-spd-a-cb2045b2-ce7a-436d-a5a8-ad37e90d213f#ref=rss)
-### daniela
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar](https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar-a-59cc8ace-e48c-4057-9a98-4bed8d6b9300#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner](https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner-a-dc2aaac6-b891-4b99-a61c-1a8c6f65abb8#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen](https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen-a-4e4add96-4c68-4278-9d82-c0639a9593f0#ref=rss)
-### klette
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar](https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar-a-59cc8ace-e48c-4057-9a98-4bed8d6b9300#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner](https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner-a-dc2aaac6-b891-4b99-a61c-1a8c6f65abb8#ref=rss)
+* [https://www.spiegel.de/ausland/jeffrey-epstein-und-donald-trump-was-die-neuen-details-aus-den-e-mails-bedeuten](https://www.spiegel.de/ausland/jeffrey-epstein-und-donald-trump-was-die-neuen-details-aus-den-e-mails-bedeuten-a-9a16eb50-8b50-43c1-a471-2f03bbd3a6bd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bertelsmann-thomas-coesfeld-wird-neuer-vorstandschef](https://www.spiegel.de/wirtschaft/bertelsmann-thomas-coesfeld-wird-neuer-vorstandschef-a-e848cf80-feca-46d0-94bb-c8a77fc4e4df#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen](https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen-a-4e4add96-4c68-4278-9d82-c0639a9593f0#ref=rss)
-### ankläger
+* [https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump](https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump-a-27dc95d7-42d6-4f55-bc3a-40e5b1c42c31#ref=rss)
+* [https://www.spiegel.de/ausland/jeffrey-epstein-und-donald-trump-was-die-neuen-details-aus-den-e-mails-bedeuten](https://www.spiegel.de/ausland/jeffrey-epstein-und-donald-trump-was-die-neuen-details-aus-den-e-mails-bedeuten-a-9a16eb50-8b50-43c1-a471-2f03bbd3a6bd#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung](https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung-a-cd260865-0124-41cc-a74d-43a885dd00c6#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz-a-44d07f4a-e59b-496e-a0fe-72de73c33eac#ref=rss)
+### wehrdienst
 
-* [https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen](https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen-a-4e4add96-4c68-4278-9d82-c0639a9593f0#ref=rss)
-### rafterroristin
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar](https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar-a-59cc8ace-e48c-4057-9a98-4bed8d6b9300#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner](https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner-a-dc2aaac6-b891-4b99-a61c-1a8c6f65abb8#ref=rss)
+### koalition
 
-* [https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen](https://www.spiegel.de/panorama/justiz/daniela-klette-anklaeger-wollen-teile-der-vorwuerfe-gegen-die-ehemalige-raf-terroristin-einstellen-a-4e4add96-4c68-4278-9d82-c0639a9593f0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen](https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen-a-01250eb2-7465-4314-89ca-fcc05b6e91d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rentenpaket-wirtschaftsverbaende-fordern-koalition-zu-stopp-auf](https://www.spiegel.de/wirtschaft/soziales/rentenpaket-wirtschaftsverbaende-fordern-koalition-zu-stopp-auf-a-40a2a270-49f1-497d-a5a8-aeb43c621f4b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner](https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner-a-dc2aaac6-b891-4b99-a61c-1a8c6f65abb8#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump](https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump-a-27dc95d7-42d6-4f55-bc3a-40e5b1c42c31#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung](https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung-a-cd260865-0124-41cc-a74d-43a885dd00c6#ref=rss)
+* [https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen](https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen-a-2186f2a0-254d-4675-9228-5019843dcfb6#ref=rss)
+### weltweit
+
+* [https://www.spiegel.de/panorama/justiz/miniatur-wunderland-cyberangriff-auf-weltweit-bekannte-sehenswuerdigkeit](https://www.spiegel.de/panorama/justiz/miniatur-wunderland-cyberangriff-auf-weltweit-bekannte-sehenswuerdigkeit-a-edc0ff0c-cd13-4e31-856d-d91512946187#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-globaler-co-ausstoss-steigt-auch-2025-weiter](https://www.spiegel.de/wissenschaft/natur/klimawandel-globaler-co-ausstoss-steigt-auch-2025-weiter-a-bbf39052-d618-41f9-b195-c2182186309e#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/grundsteuer-wo-die-steuerlast-fuer-immobilien-am-hoechsten-ist](https://www.spiegel.de/wirtschaft/grundsteuer-wo-die-steuerlast-fuer-immobilien-am-hoechsten-ist-a-564c5ed2-5928-423f-8e12-2d6e8ba5d50a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei](https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei-a-37698888-e67a-4b5e-bc36-9cdc4e33bcfe#ref=rss)
+### schule
+
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/niedersachsen-schule-in-melle-nimmt-regel-zum-kopftuchtragen-zurueck](https://www.spiegel.de/panorama/bildung/niedersachsen-schule-in-melle-nimmt-regel-zum-kopftuchtragen-zurueck-a-19ae67a3-5284-427e-b37e-986497532523#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rentenpaket-wirtschaftsverbaende-fordern-koalition-zu-stopp-auf](https://www.spiegel.de/wirtschaft/soziales/rentenpaket-wirtschaftsverbaende-fordern-koalition-zu-stopp-auf-a-40a2a270-49f1-497d-a5a8-aeb43c621f4b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-globaler-co-ausstoss-steigt-auch-2025-weiter](https://www.spiegel.de/wissenschaft/natur/klimawandel-globaler-co-ausstoss-steigt-auch-2025-weiter-a-bbf39052-d618-41f9-b195-c2182186309e#ref=rss)
+### adele
+
+* [https://www.spiegel.de/kultur/kino/adele-schauspieldebuet-in-film-von-tom-ford](https://www.spiegel.de/kultur/kino/adele-schauspieldebuet-in-film-von-tom-ford-a-a0560684-2f50-4463-abbc-445b4b3b98a2#ref=rss)
+### formel
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter-a-89a29cbe-e6fe-4b75-806a-129dfc4f2293#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-audi-zeigt-design-fuer-einstieg-in-die-rennserie-und-will-ab-2030-um-titel-fahren](https://www.spiegel.de/sport/formel1/formel-1-audi-zeigt-design-fuer-einstieg-in-die-rennserie-und-will-ab-2030-um-titel-fahren-a-21ef6922-7df3-4ccd-8add-6b687b4e9a90#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter-a-89a29cbe-e6fe-4b75-806a-129dfc4f2293#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-audi-zeigt-design-fuer-einstieg-in-die-rennserie-und-will-ab-2030-um-titel-fahren](https://www.spiegel.de/sport/formel1/formel-1-audi-zeigt-design-fuer-einstieg-in-die-rennserie-und-will-ab-2030-um-titel-fahren-a-21ef6922-7df3-4ccd-8add-6b687b4e9a90#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter-a-89a29cbe-e6fe-4b75-806a-129dfc4f2293#ref=rss)
+### orf
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter-a-89a29cbe-e6fe-4b75-806a-129dfc4f2293#ref=rss)
+### franz
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter-a-89a29cbe-e6fe-4b75-806a-129dfc4f2293#ref=rss)
+### tost
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter-a-89a29cbe-e6fe-4b75-806a-129dfc4f2293#ref=rss)
+### kommentar
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter-a-89a29cbe-e6fe-4b75-806a-129dfc4f2293#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar](https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar-a-59cc8ace-e48c-4057-9a98-4bed8d6b9300#ref=rss)
+### adolf
+
+* [https://www.spiegel.de/geschichte/adolf-hitler-britische-sendung-will-die-dna-des-fuehrers-entschluesselt-haben](https://www.spiegel.de/geschichte/adolf-hitler-britische-sendung-will-die-dna-des-fuehrers-entschluesselt-haben-a-9616ceea-2931-4b9e-b156-81deb9715ded#ref=rss)
+### hitler
+
+* [https://www.spiegel.de/geschichte/adolf-hitler-britische-sendung-will-die-dna-des-fuehrers-entschluesselt-haben](https://www.spiegel.de/geschichte/adolf-hitler-britische-sendung-will-die-dna-des-fuehrers-entschluesselt-haben-a-9616ceea-2931-4b9e-b156-81deb9715ded#ref=rss)
+### dna
+
+* [https://www.spiegel.de/geschichte/adolf-hitler-britische-sendung-will-die-dna-des-fuehrers-entschluesselt-haben](https://www.spiegel.de/geschichte/adolf-hitler-britische-sendung-will-die-dna-des-fuehrers-entschluesselt-haben-a-9616ceea-2931-4b9e-b156-81deb9715ded#ref=rss)
+### werfen
+
+* [https://www.spiegel.de/geschichte/adolf-hitler-britische-sendung-will-die-dna-des-fuehrers-entschluesselt-haben](https://www.spiegel.de/geschichte/adolf-hitler-britische-sendung-will-die-dna-des-fuehrers-entschluesselt-haben-a-9616ceea-2931-4b9e-b156-81deb9715ded#ref=rss)
+* [https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen](https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen-a-2186f2a0-254d-4675-9228-5019843dcfb6#ref=rss)
+### braucht
+
+* [https://www.spiegel.de/start/startklar-newsletter-wie-verabschiede-ich-mich-von-meiner-wg](https://www.spiegel.de/start/startklar-newsletter-wie-verabschiede-ich-mich-von-meiner-wg-a-b7a6de90-3016-4d75-b807-80f971d899a5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen](https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen-a-01250eb2-7465-4314-89ca-fcc05b6e91d7#ref=rss)
+### studium
+
+* [https://www.spiegel.de/start/startklar-newsletter-wie-verabschiede-ich-mich-von-meiner-wg](https://www.spiegel.de/start/startklar-newsletter-wie-verabschiede-ich-mich-von-meiner-wg-a-b7a6de90-3016-4d75-b807-80f971d899a5#ref=rss)
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
+### hoffen
+
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar](https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar-a-59cc8ace-e48c-4057-9a98-4bed8d6b9300#ref=rss)
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
+### freiwillige
+
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar](https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar-a-59cc8ace-e48c-4057-9a98-4bed8d6b9300#ref=rss)
+### setzen
+
+* [https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar](https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar-a-59cc8ace-e48c-4057-9a98-4bed8d6b9300#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-sitzblockade-darf-andere-versammlung-nicht-stoeren](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-sitzblockade-darf-andere-versammlung-nicht-stoeren-a-0349edc4-23a9-49a1-8ef2-09650d84ff4d#ref=rss)
+### jagdschloss
+
+* [https://www.spiegel.de/panorama/justiz/bayern-polizei-hat-erste-ergebnisse-zum-brand-in-jagdschloss](https://www.spiegel.de/panorama/justiz/bayern-polizei-hat-erste-ergebnisse-zum-brand-in-jagdschloss-a-7492d164-a83d-441d-8265-005bc094c2f1#ref=rss)
+### thiergarten
+
+* [https://www.spiegel.de/panorama/justiz/bayern-polizei-hat-erste-ergebnisse-zum-brand-in-jagdschloss](https://www.spiegel.de/panorama/justiz/bayern-polizei-hat-erste-ergebnisse-zum-brand-in-jagdschloss-a-7492d164-a83d-441d-8265-005bc094c2f1#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-fordert-ruecktritt-von-zwei-ministern](https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-fordert-ruecktritt-von-zwei-ministern-a-4ea980a3-4e3d-46ce-80e5-501d2eec31ed#ref=rss)
-### minister
+* [https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal-a-c7ffe105-4d04-40bb-a332-da50a0d4fb5b#ref=rss)
+### untersuchungshaft
 
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-fordert-ruecktritt-von-zwei-ministern](https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-fordert-ruecktritt-von-zwei-ministern-a-4ea980a3-4e3d-46ce-80e5-501d2eec31ed#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal-a-c7ffe105-4d04-40bb-a332-da50a0d4fb5b#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal-a-c7ffe105-4d04-40bb-a332-da50a0d4fb5b#ref=rss)
+### beschuldigte
+
+* [https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal-a-c7ffe105-4d04-40bb-a332-da50a0d4fb5b#ref=rss)
 ### korruptionsskandal
 
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-fordert-ruecktritt-von-zwei-ministern](https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-fordert-ruecktritt-von-zwei-ministern-a-4ea980a3-4e3d-46ce-80e5-501d2eec31ed#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal-a-c7ffe105-4d04-40bb-a332-da50a0d4fb5b#ref=rss)
 ### präsident
 
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-fordert-ruecktritt-von-zwei-ministern](https://www.spiegel.de/ausland/wolodymyr-selenskyj-ukrainischer-praesident-fordert-ruecktritt-von-zwei-ministern-a-4ea980a3-4e3d-46ce-80e5-501d2eec31ed#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/algerien-inhaftierter-schriftsteller-boualem-sansal-auf-bitten-steinmeiers-begnadigt](https://www.spiegel.de/kultur/literatur/algerien-inhaftierter-schriftsteller-boualem-sansal-auf-bitten-steinmeiers-begnadigt-a-25ddf450-a685-4c74-abec-8b371a0cfb0d#ref=rss)
-### unicef
+* [https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal-a-c7ffe105-4d04-40bb-a332-da50a0d4fb5b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung](https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung-a-cd260865-0124-41cc-a74d-43a885dd00c6#ref=rss)
+### haushalt
 
-* [https://www.spiegel.de/panorama/bildung/unicef-grundbeduerfnisse-von-mehr-als-einer-million-kindern-nicht-gedeckt](https://www.spiegel.de/panorama/bildung/unicef-grundbeduerfnisse-von-mehr-als-einer-million-kindern-nicht-gedeckt-a-3f11b3d1-8023-4719-8912-65eba427e179#ref=rss)
-### kindern
+* [https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen](https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen-a-01250eb2-7465-4314-89ca-fcc05b6e91d7#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/panorama/bildung/unicef-grundbeduerfnisse-von-mehr-als-einer-million-kindern-nicht-gedeckt](https://www.spiegel.de/panorama/bildung/unicef-grundbeduerfnisse-von-mehr-als-einer-million-kindern-nicht-gedeckt-a-3f11b3d1-8023-4719-8912-65eba427e179#ref=rss)
+* [https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen](https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen-a-01250eb2-7465-4314-89ca-fcc05b6e91d7#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/panorama/bildung/unicef-grundbeduerfnisse-von-mehr-als-einer-million-kindern-nicht-gedeckt](https://www.spiegel.de/panorama/bildung/unicef-grundbeduerfnisse-von-mehr-als-einer-million-kindern-nicht-gedeckt-a-3f11b3d1-8023-4719-8912-65eba427e179#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/algerien-inhaftierter-schriftsteller-boualem-sansal-auf-bitten-steinmeiers-begnadigt](https://www.spiegel.de/kultur/literatur/algerien-inhaftierter-schriftsteller-boualem-sansal-auf-bitten-steinmeiers-begnadigt-a-25ddf450-a685-4c74-abec-8b371a0cfb0d#ref=rss)
-### schriftsteller
+* [https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen](https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen-a-01250eb2-7465-4314-89ca-fcc05b6e91d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei](https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei-a-37698888-e67a-4b5e-bc36-9cdc4e33bcfe#ref=rss)
+### chance
 
-* [https://www.spiegel.de/kultur/literatur/algerien-inhaftierter-schriftsteller-boualem-sansal-auf-bitten-steinmeiers-begnadigt](https://www.spiegel.de/kultur/literatur/algerien-inhaftierter-schriftsteller-boualem-sansal-auf-bitten-steinmeiers-begnadigt-a-25ddf450-a685-4c74-abec-8b371a0cfb0d#ref=rss)
-### boualem
+* [https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen](https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen-a-01250eb2-7465-4314-89ca-fcc05b6e91d7#ref=rss)
+* [https://www.spiegel.de/kultur/thorsten-padberg-ueber-adhs-und-depression-wir-verschieben-alltaegliche-probleme-zu-oft-in-den-psychiatrischen-bereich](https://www.spiegel.de/kultur/thorsten-padberg-ueber-adhs-und-depression-wir-verschieben-alltaegliche-probleme-zu-oft-in-den-psychiatrischen-bereich-a-82c7362a-1581-4054-952f-d63cd6f48eed#ref=rss)
+### demokraten
 
-* [https://www.spiegel.de/kultur/literatur/algerien-inhaftierter-schriftsteller-boualem-sansal-auf-bitten-steinmeiers-begnadigt](https://www.spiegel.de/kultur/literatur/algerien-inhaftierter-schriftsteller-boualem-sansal-auf-bitten-steinmeiers-begnadigt-a-25ddf450-a685-4c74-abec-8b371a0cfb0d#ref=rss)
-### sansal
+* [https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump](https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump-a-27dc95d7-42d6-4f55-bc3a-40e5b1c42c31#ref=rss)
+### partei
 
-* [https://www.spiegel.de/kultur/literatur/algerien-inhaftierter-schriftsteller-boualem-sansal-auf-bitten-steinmeiers-begnadigt](https://www.spiegel.de/kultur/literatur/algerien-inhaftierter-schriftsteller-boualem-sansal-auf-bitten-steinmeiers-begnadigt-a-25ddf450-a685-4c74-abec-8b371a0cfb0d#ref=rss)
+* [https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump](https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump-a-27dc95d7-42d6-4f55-bc3a-40e5b1c42c31#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei](https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei-a-37698888-e67a-4b5e-bc36-9cdc4e33bcfe#ref=rss)
+### miniatur
+
+* [https://www.spiegel.de/panorama/justiz/miniatur-wunderland-cyberangriff-auf-weltweit-bekannte-sehenswuerdigkeit](https://www.spiegel.de/panorama/justiz/miniatur-wunderland-cyberangriff-auf-weltweit-bekannte-sehenswuerdigkeit-a-edc0ff0c-cd13-4e31-856d-d91512946187#ref=rss)
+### wunderland
+
+* [https://www.spiegel.de/panorama/justiz/miniatur-wunderland-cyberangriff-auf-weltweit-bekannte-sehenswuerdigkeit](https://www.spiegel.de/panorama/justiz/miniatur-wunderland-cyberangriff-auf-weltweit-bekannte-sehenswuerdigkeit-a-edc0ff0c-cd13-4e31-856d-d91512946187#ref=rss)
+### bekannte
+
+* [https://www.spiegel.de/panorama/justiz/miniatur-wunderland-cyberangriff-auf-weltweit-bekannte-sehenswuerdigkeit](https://www.spiegel.de/panorama/justiz/miniatur-wunderland-cyberangriff-auf-weltweit-bekannte-sehenswuerdigkeit-a-edc0ff0c-cd13-4e31-856d-d91512946187#ref=rss)
+### generation
+
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier](https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier-a-e1c10b96-e781-4c9a-89b5-0fd3464bc347#ref=rss)
+### eigene
+
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
+* [https://www.spiegel.de/kultur/thorsten-padberg-ueber-adhs-und-depression-wir-verschieben-alltaegliche-probleme-zu-oft-in-den-psychiatrischen-bereich](https://www.spiegel.de/kultur/thorsten-padberg-ueber-adhs-und-depression-wir-verschieben-alltaegliche-probleme-zu-oft-in-den-psychiatrischen-bereich-a-82c7362a-1581-4054-952f-d63cd6f48eed#ref=rss)
+### kifähigkeiten
+
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
+### kritisch
+
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
+* [https://www.spiegel.de/kultur/thorsten-padberg-ueber-adhs-und-depression-wir-verschieben-alltaegliche-probleme-zu-oft-in-den-psychiatrischen-bereich](https://www.spiegel.de/kultur/thorsten-padberg-ueber-adhs-und-depression-wir-verschieben-alltaegliche-probleme-zu-oft-in-den-psychiatrischen-bereich-a-82c7362a-1581-4054-952f-d63cd6f48eed#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rentenpaket-wirtschaftsverbaende-fordern-koalition-zu-stopp-auf](https://www.spiegel.de/wirtschaft/soziales/rentenpaket-wirtschaftsverbaende-fordern-koalition-zu-stopp-auf-a-40a2a270-49f1-497d-a5a8-aeb43c621f4b#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-audi-zeigt-design-fuer-einstieg-in-die-rennserie-und-will-ab-2030-um-titel-fahren](https://www.spiegel.de/sport/formel1/formel-1-audi-zeigt-design-fuer-einstieg-in-die-rennserie-und-will-ab-2030-um-titel-fahren-a-21ef6922-7df3-4ccd-8add-6b687b4e9a90#ref=rss)
+### versammlung
+
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-sitzblockade-darf-andere-versammlung-nicht-stoeren](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-sitzblockade-darf-andere-versammlung-nicht-stoeren-a-0349edc4-23a9-49a1-8ef2-09650d84ff4d#ref=rss)
+### rentenpaket
+
+* [https://www.spiegel.de/wirtschaft/soziales/rentenpaket-wirtschaftsverbaende-fordern-koalition-zu-stopp-auf](https://www.spiegel.de/wirtschaft/soziales/rentenpaket-wirtschaftsverbaende-fordern-koalition-zu-stopp-auf-a-40a2a270-49f1-497d-a5a8-aeb43c621f4b#ref=rss)
+### schulleiter
+
+* [https://www.spiegel.de/panorama/justiz/erfurt-schulleiter-gibt-sein-amt-nach-missbrauchsurteil-gegen-lehrer-ab](https://www.spiegel.de/panorama/justiz/erfurt-schulleiter-gibt-sein-amt-nach-missbrauchsurteil-gegen-lehrer-ab-a-247bcc9a-3e14-4fb1-a92b-33dd2dd1a0f6#ref=rss)
+### missbrauchsurteil
+
+* [https://www.spiegel.de/panorama/justiz/erfurt-schulleiter-gibt-sein-amt-nach-missbrauchsurteil-gegen-lehrer-ab](https://www.spiegel.de/panorama/justiz/erfurt-schulleiter-gibt-sein-amt-nach-missbrauchsurteil-gegen-lehrer-ab-a-247bcc9a-3e14-4fb1-a92b-33dd2dd1a0f6#ref=rss)
+### lehrer
+
+* [https://www.spiegel.de/panorama/justiz/erfurt-schulleiter-gibt-sein-amt-nach-missbrauchsurteil-gegen-lehrer-ab](https://www.spiegel.de/panorama/justiz/erfurt-schulleiter-gibt-sein-amt-nach-missbrauchsurteil-gegen-lehrer-ab-a-247bcc9a-3e14-4fb1-a92b-33dd2dd1a0f6#ref=rss)
+### niedersachsen
+
+* [https://www.spiegel.de/panorama/bildung/niedersachsen-schule-in-melle-nimmt-regel-zum-kopftuchtragen-zurueck](https://www.spiegel.de/panorama/bildung/niedersachsen-schule-in-melle-nimmt-regel-zum-kopftuchtragen-zurueck-a-19ae67a3-5284-427e-b37e-986497532523#ref=rss)
+### staaten
+
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-globaler-co-ausstoss-steigt-auch-2025-weiter](https://www.spiegel.de/wissenschaft/natur/klimawandel-globaler-co-ausstoss-steigt-auch-2025-weiter-a-bbf39052-d618-41f9-b195-c2182186309e#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz-a-44d07f4a-e59b-496e-a0fe-72de73c33eac#ref=rss)
+### darauf
+
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-globaler-co-ausstoss-steigt-auch-2025-weiter](https://www.spiegel.de/wissenschaft/natur/klimawandel-globaler-co-ausstoss-steigt-auch-2025-weiter-a-bbf39052-d618-41f9-b195-c2182186309e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirecard-bundesgerichtshof-weist-klage-von-aktionaeren-ab](https://www.spiegel.de/wirtschaft/wirecard-bundesgerichtshof-weist-klage-von-aktionaeren-ab-a-fedae7f5-688d-4054-a39e-9d863dededef#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/kultur/thorsten-padberg-ueber-adhs-und-depression-wir-verschieben-alltaegliche-probleme-zu-oft-in-den-psychiatrischen-bereich](https://www.spiegel.de/kultur/thorsten-padberg-ueber-adhs-und-depression-wir-verschieben-alltaegliche-probleme-zu-oft-in-den-psychiatrischen-bereich-a-82c7362a-1581-4054-952f-d63cd6f48eed#ref=rss)
+* [https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen](https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen-a-2186f2a0-254d-4675-9228-5019843dcfb6#ref=rss)
+### audi
+
+* [https://www.spiegel.de/sport/formel1/formel-1-audi-zeigt-design-fuer-einstieg-in-die-rennserie-und-will-ab-2030-um-titel-fahren](https://www.spiegel.de/sport/formel1/formel-1-audi-zeigt-design-fuer-einstieg-in-die-rennserie-und-will-ab-2030-um-titel-fahren-a-21ef6922-7df3-4ccd-8add-6b687b4e9a90#ref=rss)
+### musterungspflicht
+
+* [https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner](https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner-a-dc2aaac6-b891-4b99-a61c-1a8c6f65abb8#ref=rss)
+### männer
+
+* [https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner](https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner-a-dc2aaac6-b891-4b99-a61c-1a8c6f65abb8#ref=rss)
+### bundesgerichtshof
+
+* [https://www.spiegel.de/wirtschaft/wirecard-bundesgerichtshof-weist-klage-von-aktionaeren-ab](https://www.spiegel.de/wirtschaft/wirecard-bundesgerichtshof-weist-klage-von-aktionaeren-ab-a-fedae7f5-688d-4054-a39e-9d863dededef#ref=rss)
+### klage
+
+* [https://www.spiegel.de/wirtschaft/wirecard-bundesgerichtshof-weist-klage-von-aktionaeren-ab](https://www.spiegel.de/wirtschaft/wirecard-bundesgerichtshof-weist-klage-von-aktionaeren-ab-a-fedae7f5-688d-4054-a39e-9d863dededef#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/wirtschaft/wirecard-bundesgerichtshof-weist-klage-von-aktionaeren-ab](https://www.spiegel.de/wirtschaft/wirecard-bundesgerichtshof-weist-klage-von-aktionaeren-ab-a-fedae7f5-688d-4054-a39e-9d863dededef#ref=rss)
+* [https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen](https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen-a-2186f2a0-254d-4675-9228-5019843dcfb6#ref=rss)
+### melbourne
+
+* [https://www.spiegel.de/panorama/melbourne-374-dudelsackspieler-knacken-weltrekord-mit-ac-dc](https://www.spiegel.de/panorama/melbourne-374-dudelsackspieler-knacken-weltrekord-mit-ac-dc-a-87765e5d-5f63-4dce-9084-50bc462190cf#ref=rss)
+### 374
+
+* [https://www.spiegel.de/panorama/melbourne-374-dudelsackspieler-knacken-weltrekord-mit-ac-dc](https://www.spiegel.de/panorama/melbourne-374-dudelsackspieler-knacken-weltrekord-mit-ac-dc-a-87765e5d-5f63-4dce-9084-50bc462190cf#ref=rss)
+### dudelsackspieler
+
+* [https://www.spiegel.de/panorama/melbourne-374-dudelsackspieler-knacken-weltrekord-mit-ac-dc](https://www.spiegel.de/panorama/melbourne-374-dudelsackspieler-knacken-weltrekord-mit-ac-dc-a-87765e5d-5f63-4dce-9084-50bc462190cf#ref=rss)
+### weltrekord
+
+* [https://www.spiegel.de/panorama/melbourne-374-dudelsackspieler-knacken-weltrekord-mit-ac-dc](https://www.spiegel.de/panorama/melbourne-374-dudelsackspieler-knacken-weltrekord-mit-ac-dc-a-87765e5d-5f63-4dce-9084-50bc462190cf#ref=rss)
+### leonardo
+
+* [https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier](https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier-a-e1c10b96-e781-4c9a-89b5-0fd3464bc347#ref=rss)
+### dicaprio
+
+* [https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier](https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier-a-e1c10b96-e781-4c9a-89b5-0fd3464bc347#ref=rss)
+### jane
+
+* [https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier](https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier-a-e1c10b96-e781-4c9a-89b5-0fd3464bc347#ref=rss)
+### goodall
+
+* [https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier](https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier-a-e1c10b96-e781-4c9a-89b5-0fd3464bc347#ref=rss)
+### bertelsmann
+
+* [https://www.spiegel.de/wirtschaft/bertelsmann-thomas-coesfeld-wird-neuer-vorstandschef](https://www.spiegel.de/wirtschaft/bertelsmann-thomas-coesfeld-wird-neuer-vorstandschef-a-e848cf80-feca-46d0-94bb-c8a77fc4e4df#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/wirtschaft/bertelsmann-thomas-coesfeld-wird-neuer-vorstandschef](https://www.spiegel.de/wirtschaft/bertelsmann-thomas-coesfeld-wird-neuer-vorstandschef-a-e848cf80-feca-46d0-94bb-c8a77fc4e4df#ref=rss)
+### coesfeld
+
+* [https://www.spiegel.de/wirtschaft/bertelsmann-thomas-coesfeld-wird-neuer-vorstandschef](https://www.spiegel.de/wirtschaft/bertelsmann-thomas-coesfeld-wird-neuer-vorstandschef-a-e848cf80-feca-46d0-94bb-c8a77fc4e4df#ref=rss)
+### bischöfe
+
+* [https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung](https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung-a-cd260865-0124-41cc-a74d-43a885dd00c6#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen](https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen-a-2186f2a0-254d-4675-9228-5019843dcfb6#ref=rss)
+### fbichef
+
+* [https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen](https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen-a-2186f2a0-254d-4675-9228-5019843dcfb6#ref=rss)
+### patel
+
+* [https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen](https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen-a-2186f2a0-254d-4675-9228-5019843dcfb6#ref=rss)
+### amonra
+
+* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz-a-44d07f4a-e59b-496e-a0fe-72de73c33eac#ref=rss)
+### st
+
+* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz-a-44d07f4a-e59b-496e-a0fe-72de73c33eac#ref=rss)
+### brown
+
+* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz-a-44d07f4a-e59b-496e-a0fe-72de73c33eac#ref=rss)
+### sorgt
+
+* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz-a-44d07f4a-e59b-496e-a0fe-72de73c33eac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei](https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei-a-37698888-e67a-4b5e-bc36-9cdc4e33bcfe#ref=rss)
+### tino
+
+* [https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei](https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei-a-37698888-e67a-4b5e-bc36-9cdc4e33bcfe#ref=rss)
+### chrupalla
+
+* [https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei](https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei-a-37698888-e67a-4b5e-bc36-9cdc4e33bcfe#ref=rss)
 
