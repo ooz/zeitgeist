@@ -4,320 +4,339 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump](https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump-a-27dc95d7-42d6-4f55-bc3a-40e5b1c42c31#ref=rss)
-* [https://www.spiegel.de/ausland/jeffrey-epstein-und-donald-trump-was-die-neuen-details-aus-den-e-mails-bedeuten](https://www.spiegel.de/ausland/jeffrey-epstein-und-donald-trump-was-die-neuen-details-aus-den-e-mails-bedeuten-a-9a16eb50-8b50-43c1-a471-2f03bbd3a6bd#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung](https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung-a-cd260865-0124-41cc-a74d-43a885dd00c6#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz-a-44d07f4a-e59b-496e-a0fe-72de73c33eac#ref=rss)
-### junge
-
-* [https://www.spiegel.de/start/startklar-newsletter-wie-verabschiede-ich-mich-von-meiner-wg](https://www.spiegel.de/start/startklar-newsletter-wie-verabschiede-ich-mich-von-meiner-wg-a-b7a6de90-3016-4d75-b807-80f971d899a5#ref=rss)
-* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner](https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner-a-dc2aaac6-b891-4b99-a61c-1a8c6f65abb8#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar](https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar-a-59cc8ace-e48c-4057-9a98-4bed8d6b9300#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner](https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner-a-dc2aaac6-b891-4b99-a61c-1a8c6f65abb8#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar](https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar-a-59cc8ace-e48c-4057-9a98-4bed8d6b9300#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner](https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner-a-dc2aaac6-b891-4b99-a61c-1a8c6f65abb8#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar](https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar-a-59cc8ace-e48c-4057-9a98-4bed8d6b9300#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner](https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner-a-dc2aaac6-b891-4b99-a61c-1a8c6f65abb8#ref=rss)
-* [https://www.spiegel.de/ausland/jeffrey-epstein-und-donald-trump-was-die-neuen-details-aus-den-e-mails-bedeuten](https://www.spiegel.de/ausland/jeffrey-epstein-und-donald-trump-was-die-neuen-details-aus-den-e-mails-bedeuten-a-9a16eb50-8b50-43c1-a471-2f03bbd3a6bd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bertelsmann-thomas-coesfeld-wird-neuer-vorstandschef](https://www.spiegel.de/wirtschaft/bertelsmann-thomas-coesfeld-wird-neuer-vorstandschef-a-e848cf80-feca-46d0-94bb-c8a77fc4e4df#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump](https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump-a-27dc95d7-42d6-4f55-bc3a-40e5b1c42c31#ref=rss)
-* [https://www.spiegel.de/ausland/jeffrey-epstein-und-donald-trump-was-die-neuen-details-aus-den-e-mails-bedeuten](https://www.spiegel.de/ausland/jeffrey-epstein-und-donald-trump-was-die-neuen-details-aus-den-e-mails-bedeuten-a-9a16eb50-8b50-43c1-a471-2f03bbd3a6bd#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung](https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung-a-cd260865-0124-41cc-a74d-43a885dd00c6#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz-a-44d07f4a-e59b-496e-a0fe-72de73c33eac#ref=rss)
-### wehrdienst
-
-* [https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar](https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar-a-59cc8ace-e48c-4057-9a98-4bed8d6b9300#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner](https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner-a-dc2aaac6-b891-4b99-a61c-1a8c6f65abb8#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen](https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen-a-01250eb2-7465-4314-89ca-fcc05b6e91d7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rentenpaket-wirtschaftsverbaende-fordern-koalition-zu-stopp-auf](https://www.spiegel.de/wirtschaft/soziales/rentenpaket-wirtschaftsverbaende-fordern-koalition-zu-stopp-auf-a-40a2a270-49f1-497d-a5a8-aeb43c621f4b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner](https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner-a-dc2aaac6-b891-4b99-a61c-1a8c6f65abb8#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump](https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump-a-27dc95d7-42d6-4f55-bc3a-40e5b1c42c31#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung](https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung-a-cd260865-0124-41cc-a74d-43a885dd00c6#ref=rss)
-* [https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen](https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen-a-2186f2a0-254d-4675-9228-5019843dcfb6#ref=rss)
-### weltweit
-
-* [https://www.spiegel.de/panorama/justiz/miniatur-wunderland-cyberangriff-auf-weltweit-bekannte-sehenswuerdigkeit](https://www.spiegel.de/panorama/justiz/miniatur-wunderland-cyberangriff-auf-weltweit-bekannte-sehenswuerdigkeit-a-edc0ff0c-cd13-4e31-856d-d91512946187#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-globaler-co-ausstoss-steigt-auch-2025-weiter](https://www.spiegel.de/wissenschaft/natur/klimawandel-globaler-co-ausstoss-steigt-auch-2025-weiter-a-bbf39052-d618-41f9-b195-c2182186309e#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grundsteuer-wo-die-steuerlast-fuer-immobilien-am-hoechsten-ist](https://www.spiegel.de/wirtschaft/grundsteuer-wo-die-steuerlast-fuer-immobilien-am-hoechsten-ist-a-564c5ed2-5928-423f-8e12-2d6e8ba5d50a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei](https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei-a-37698888-e67a-4b5e-bc36-9cdc4e33bcfe#ref=rss)
-### schule
-
-* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/niedersachsen-schule-in-melle-nimmt-regel-zum-kopftuchtragen-zurueck](https://www.spiegel.de/panorama/bildung/niedersachsen-schule-in-melle-nimmt-regel-zum-kopftuchtragen-zurueck-a-19ae67a3-5284-427e-b37e-986497532523#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rentenpaket-wirtschaftsverbaende-fordern-koalition-zu-stopp-auf](https://www.spiegel.de/wirtschaft/soziales/rentenpaket-wirtschaftsverbaende-fordern-koalition-zu-stopp-auf-a-40a2a270-49f1-497d-a5a8-aeb43c621f4b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-globaler-co-ausstoss-steigt-auch-2025-weiter](https://www.spiegel.de/wissenschaft/natur/klimawandel-globaler-co-ausstoss-steigt-auch-2025-weiter-a-bbf39052-d618-41f9-b195-c2182186309e#ref=rss)
-### adele
-
-* [https://www.spiegel.de/kultur/kino/adele-schauspieldebuet-in-film-von-tom-ford](https://www.spiegel.de/kultur/kino/adele-schauspieldebuet-in-film-von-tom-ford-a-a0560684-2f50-4463-abbc-445b4b3b98a2#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter-a-89a29cbe-e6fe-4b75-806a-129dfc4f2293#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-audi-zeigt-design-fuer-einstieg-in-die-rennserie-und-will-ab-2030-um-titel-fahren](https://www.spiegel.de/sport/formel1/formel-1-audi-zeigt-design-fuer-einstieg-in-die-rennserie-und-will-ab-2030-um-titel-fahren-a-21ef6922-7df3-4ccd-8add-6b687b4e9a90#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter-a-89a29cbe-e6fe-4b75-806a-129dfc4f2293#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-audi-zeigt-design-fuer-einstieg-in-die-rennserie-und-will-ab-2030-um-titel-fahren](https://www.spiegel.de/sport/formel1/formel-1-audi-zeigt-design-fuer-einstieg-in-die-rennserie-und-will-ab-2030-um-titel-fahren-a-21ef6922-7df3-4ccd-8add-6b687b4e9a90#ref=rss)
-### brasilien
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter-a-89a29cbe-e6fe-4b75-806a-129dfc4f2293#ref=rss)
-### orf
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter-a-89a29cbe-e6fe-4b75-806a-129dfc4f2293#ref=rss)
-### franz
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter-a-89a29cbe-e6fe-4b75-806a-129dfc4f2293#ref=rss)
-### tost
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter-a-89a29cbe-e6fe-4b75-806a-129dfc4f2293#ref=rss)
-### kommentar
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-orf-kritisiert-franz-tost-fuer-kommentar-zu-bortoleto-mutter-a-89a29cbe-e6fe-4b75-806a-129dfc4f2293#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar](https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar-a-59cc8ace-e48c-4057-9a98-4bed8d6b9300#ref=rss)
-### adolf
-
-* [https://www.spiegel.de/geschichte/adolf-hitler-britische-sendung-will-die-dna-des-fuehrers-entschluesselt-haben](https://www.spiegel.de/geschichte/adolf-hitler-britische-sendung-will-die-dna-des-fuehrers-entschluesselt-haben-a-9616ceea-2931-4b9e-b156-81deb9715ded#ref=rss)
-### hitler
-
-* [https://www.spiegel.de/geschichte/adolf-hitler-britische-sendung-will-die-dna-des-fuehrers-entschluesselt-haben](https://www.spiegel.de/geschichte/adolf-hitler-britische-sendung-will-die-dna-des-fuehrers-entschluesselt-haben-a-9616ceea-2931-4b9e-b156-81deb9715ded#ref=rss)
-### dna
-
-* [https://www.spiegel.de/geschichte/adolf-hitler-britische-sendung-will-die-dna-des-fuehrers-entschluesselt-haben](https://www.spiegel.de/geschichte/adolf-hitler-britische-sendung-will-die-dna-des-fuehrers-entschluesselt-haben-a-9616ceea-2931-4b9e-b156-81deb9715ded#ref=rss)
-### werfen
-
-* [https://www.spiegel.de/geschichte/adolf-hitler-britische-sendung-will-die-dna-des-fuehrers-entschluesselt-haben](https://www.spiegel.de/geschichte/adolf-hitler-britische-sendung-will-die-dna-des-fuehrers-entschluesselt-haben-a-9616ceea-2931-4b9e-b156-81deb9715ded#ref=rss)
-* [https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen](https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen-a-2186f2a0-254d-4675-9228-5019843dcfb6#ref=rss)
-### braucht
-
-* [https://www.spiegel.de/start/startklar-newsletter-wie-verabschiede-ich-mich-von-meiner-wg](https://www.spiegel.de/start/startklar-newsletter-wie-verabschiede-ich-mich-von-meiner-wg-a-b7a6de90-3016-4d75-b807-80f971d899a5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen](https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen-a-01250eb2-7465-4314-89ca-fcc05b6e91d7#ref=rss)
-### studium
-
-* [https://www.spiegel.de/start/startklar-newsletter-wie-verabschiede-ich-mich-von-meiner-wg](https://www.spiegel.de/start/startklar-newsletter-wie-verabschiede-ich-mich-von-meiner-wg-a-b7a6de90-3016-4d75-b807-80f971d899a5#ref=rss)
-* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
-### hoffen
-
-* [https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar](https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar-a-59cc8ace-e48c-4057-9a98-4bed8d6b9300#ref=rss)
-* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
-### freiwillige
-
-* [https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar](https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar-a-59cc8ace-e48c-4057-9a98-4bed8d6b9300#ref=rss)
-### setzen
-
-* [https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar](https://www.spiegel.de/politik/deutschland/wehrdienst-union-und-spd-hoffen-auf-freiwillige-doch-was-wenn-es-nicht-reicht-kommentar-a-59cc8ace-e48c-4057-9a98-4bed8d6b9300#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-sitzblockade-darf-andere-versammlung-nicht-stoeren](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-sitzblockade-darf-andere-versammlung-nicht-stoeren-a-0349edc4-23a9-49a1-8ef2-09650d84ff4d#ref=rss)
-### jagdschloss
-
-* [https://www.spiegel.de/panorama/justiz/bayern-polizei-hat-erste-ergebnisse-zum-brand-in-jagdschloss](https://www.spiegel.de/panorama/justiz/bayern-polizei-hat-erste-ergebnisse-zum-brand-in-jagdschloss-a-7492d164-a83d-441d-8265-005bc094c2f1#ref=rss)
-### thiergarten
-
-* [https://www.spiegel.de/panorama/justiz/bayern-polizei-hat-erste-ergebnisse-zum-brand-in-jagdschloss](https://www.spiegel.de/panorama/justiz/bayern-polizei-hat-erste-ergebnisse-zum-brand-in-jagdschloss-a-7492d164-a83d-441d-8265-005bc094c2f1#ref=rss)
+* [https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern](https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern-a-b853ae4a-c5c1-4124-bf99-84545ddb34c3#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung](https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung-a-dfee9101-d454-4662-ac11-49731f3231d3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage](https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage-a-6daf2ce1-d713-473b-8b12-2f87145a051f#ref=rss)
+* [https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten](https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten-a-052bfdea-1602-41a1-9e1a-07e34403797a#ref=rss)
+* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger-a-ee392080-49f4-48eb-ac94-7a416168b53c#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal-a-c7ffe105-4d04-40bb-a332-da50a0d4fb5b#ref=rss)
-### untersuchungshaft
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal-a-9e3efb77-ba60-4a71-a0fe-9202e3958e7e#ref=rss)
+### selenskyj
 
-* [https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal-a-c7ffe105-4d04-40bb-a332-da50a0d4fb5b#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal-a-9e3efb77-ba60-4a71-a0fe-9202e3958e7e#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal-a-c7ffe105-4d04-40bb-a332-da50a0d4fb5b#ref=rss)
-### beschuldigte
+* [https://www.spiegel.de/panorama/selbstbestimmungsgesetz-geschlechtsaenderung-als-karrierevorteil-bei-der-polizei](https://www.spiegel.de/panorama/selbstbestimmungsgesetz-geschlechtsaenderung-als-karrierevorteil-bei-der-polizei-a-ff2c63d1-8d32-4900-ad8f-f11239c74d22#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte](https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte-a-51048f2a-b1a3-4aee-a337-728143a20d9c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frechen-in-nrw-polizei-findet-sprengmittel-in-unfallwagen-auf-der-autobahn](https://www.spiegel.de/panorama/justiz/frechen-in-nrw-polizei-findet-sprengmittel-in-unfallwagen-auf-der-autobahn-a-fce8015f-af63-463c-81f1-4060c737cac0#ref=rss)
+### stephen
 
-* [https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal-a-c7ffe105-4d04-40bb-a332-da50a0d4fb5b#ref=rss)
-### korruptionsskandal
+* [https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern](https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern-a-b853ae4a-c5c1-4124-bf99-84545ddb34c3#ref=rss)
+* [https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten](https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten-a-052bfdea-1602-41a1-9e1a-07e34403797a#ref=rss)
+### etwas
 
-* [https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal-a-c7ffe105-4d04-40bb-a332-da50a0d4fb5b#ref=rss)
-### präsident
+* [https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern](https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern-a-b853ae4a-c5c1-4124-bf99-84545ddb34c3#ref=rss)
+* [https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben](https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben-a-6fb14cf1-fb94-4b48-a5f0-1f5533102adb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015](https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015-a-7db55da4-3c8e-4e37-ac72-6950bf692af2#ref=rss)
+### welt
 
-* [https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-untersuchungshaft-fuer-zwei-beschuldigte-im-korruptionsskandal-a-c7ffe105-4d04-40bb-a332-da50a0d4fb5b#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung](https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung-a-cd260865-0124-41cc-a74d-43a885dd00c6#ref=rss)
-### haushalt
+* [https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung](https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung-a-dfee9101-d454-4662-ac11-49731f3231d3#ref=rss)
+* [https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben](https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben-a-6fb14cf1-fb94-4b48-a5f0-1f5533102adb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015](https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015-a-7db55da4-3c8e-4e37-ac72-6950bf692af2#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen](https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen-a-01250eb2-7465-4314-89ca-fcc05b6e91d7#ref=rss)
-### 2026
+* [https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung](https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung-a-dfee9101-d454-4662-ac11-49731f3231d3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte](https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte-a-51048f2a-b1a3-4aee-a337-728143a20d9c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015](https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015-a-7db55da4-3c8e-4e37-ac72-6950bf692af2#ref=rss)
+### korruption
 
-* [https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen](https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen-a-01250eb2-7465-4314-89ca-fcc05b6e91d7#ref=rss)
-### deutschland
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+* [https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben](https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben-a-6fb14cf1-fb94-4b48-a5f0-1f5533102adb#ref=rss)
+### ukrainische
 
-* [https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen](https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen-a-01250eb2-7465-4314-89ca-fcc05b6e91d7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei](https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei-a-37698888-e67a-4b5e-bc36-9cdc4e33bcfe#ref=rss)
-### chance
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+* [https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen](https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen-a-798ce74c-e5f3-46fa-98e5-33189eb69b4d#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen](https://www.spiegel.de/wirtschaft/haushalt-fuer-2026-schwindeln-mit-zahlen-a-01250eb2-7465-4314-89ca-fcc05b6e91d7#ref=rss)
-* [https://www.spiegel.de/kultur/thorsten-padberg-ueber-adhs-und-depression-wir-verschieben-alltaegliche-probleme-zu-oft-in-den-psychiatrischen-bereich](https://www.spiegel.de/kultur/thorsten-padberg-ueber-adhs-und-depression-wir-verschieben-alltaegliche-probleme-zu-oft-in-den-psychiatrischen-bereich-a-82c7362a-1581-4054-952f-d63cd6f48eed#ref=rss)
-### demokraten
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-wie-steht-es-um-donald-trumps-gaza-plan](https://www.spiegel.de/ausland/israel-hamas-krieg-wie-steht-es-um-donald-trumps-gaza-plan-a-a360243c-48cd-4482-8aa4-005bcc6a1d2c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten](https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten-a-052bfdea-1602-41a1-9e1a-07e34403797a#ref=rss)
+### eu
 
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump](https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump-a-27dc95d7-42d6-4f55-bc3a-40e5b1c42c31#ref=rss)
-### partei
+* [https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen](https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen-a-c6b84e71-1833-4584-9d78-bd8ce6bad519#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal-a-9e3efb77-ba60-4a71-a0fe-9202e3958e7e#ref=rss)
+### afdpolitiker
 
-* [https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump](https://www.spiegel.de/ausland/shutdown-in-den-usa-endet-demokraten-streiten-ueber-strategie-gegen-donald-trump-a-27dc95d7-42d6-4f55-bc3a-40e5b1c42c31#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei](https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei-a-37698888-e67a-4b5e-bc36-9cdc4e33bcfe#ref=rss)
-### miniatur
+* [https://www.spiegel.de/panorama/justiz/afd-politiker-in-thueringen-durchsuchungen-wegen-terrorverdachts](https://www.spiegel.de/panorama/justiz/afd-politiker-in-thueringen-durchsuchungen-wegen-terrorverdachts-a-41cc8138-cb6d-41d5-9d84-98e82ce23c35#ref=rss)
+### thüringen
 
-* [https://www.spiegel.de/panorama/justiz/miniatur-wunderland-cyberangriff-auf-weltweit-bekannte-sehenswuerdigkeit](https://www.spiegel.de/panorama/justiz/miniatur-wunderland-cyberangriff-auf-weltweit-bekannte-sehenswuerdigkeit-a-edc0ff0c-cd13-4e31-856d-d91512946187#ref=rss)
-### wunderland
+* [https://www.spiegel.de/panorama/justiz/afd-politiker-in-thueringen-durchsuchungen-wegen-terrorverdachts](https://www.spiegel.de/panorama/justiz/afd-politiker-in-thueringen-durchsuchungen-wegen-terrorverdachts-a-41cc8138-cb6d-41d5-9d84-98e82ce23c35#ref=rss)
+### biontech
 
-* [https://www.spiegel.de/panorama/justiz/miniatur-wunderland-cyberangriff-auf-weltweit-bekannte-sehenswuerdigkeit](https://www.spiegel.de/panorama/justiz/miniatur-wunderland-cyberangriff-auf-weltweit-bekannte-sehenswuerdigkeit-a-edc0ff0c-cd13-4e31-856d-d91512946187#ref=rss)
-### bekannte
+* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-aktie-faellt-nach-bericht-ueber-pfizer-ausstieg](https://www.spiegel.de/wirtschaft/unternehmen/biontech-aktie-faellt-nach-bericht-ueber-pfizer-ausstieg-a-2655f2ce-9c3e-4c5e-bf2e-0071e24ae362#ref=rss)
+### pfizer
 
-* [https://www.spiegel.de/panorama/justiz/miniatur-wunderland-cyberangriff-auf-weltweit-bekannte-sehenswuerdigkeit](https://www.spiegel.de/panorama/justiz/miniatur-wunderland-cyberangriff-auf-weltweit-bekannte-sehenswuerdigkeit-a-edc0ff0c-cd13-4e31-856d-d91512946187#ref=rss)
-### generation
+* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-aktie-faellt-nach-bericht-ueber-pfizer-ausstieg](https://www.spiegel.de/wirtschaft/unternehmen/biontech-aktie-faellt-nach-bericht-ueber-pfizer-ausstieg-a-2655f2ce-9c3e-4c5e-bf2e-0071e24ae362#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier](https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier-a-e1c10b96-e781-4c9a-89b5-0fd3464bc347#ref=rss)
-### eigene
+* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-aktie-faellt-nach-bericht-ueber-pfizer-ausstieg](https://www.spiegel.de/wirtschaft/unternehmen/biontech-aktie-faellt-nach-bericht-ueber-pfizer-ausstieg-a-2655f2ce-9c3e-4c5e-bf2e-0071e24ae362#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen-a-98949d5f-d936-432f-93f6-f53e69e01690#ref=rss)
+### the
 
-* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
-* [https://www.spiegel.de/kultur/thorsten-padberg-ueber-adhs-und-depression-wir-verschieben-alltaegliche-probleme-zu-oft-in-den-psychiatrischen-bereich](https://www.spiegel.de/kultur/thorsten-padberg-ueber-adhs-und-depression-wir-verschieben-alltaegliche-probleme-zu-oft-in-den-psychiatrischen-bereich-a-82c7362a-1581-4054-952f-d63cd6f48eed#ref=rss)
-### kifähigkeiten
+* [https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern](https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern-a-b853ae4a-c5c1-4124-bf99-84545ddb34c3#ref=rss)
+### running
 
-* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
-### kritisch
+* [https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern](https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern-a-b853ae4a-c5c1-4124-bf99-84545ddb34c3#ref=rss)
+### king
 
-* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
+* [https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern](https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern-a-b853ae4a-c5c1-4124-bf99-84545ddb34c3#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern](https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern-a-b853ae4a-c5c1-4124-bf99-84545ddb34c3#ref=rss)
+### reisen
+
+* [https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung](https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung-a-dfee9101-d454-4662-ac11-49731f3231d3#ref=rss)
+### einigen
+
+* [https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung](https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung-a-dfee9101-d454-4662-ac11-49731f3231d3#ref=rss)
+* [https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben](https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben-a-6fb14cf1-fb94-4b48-a5f0-1f5533102adb#ref=rss)
+### dazu
+
+* [https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung](https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung-a-dfee9101-d454-4662-ac11-49731f3231d3#ref=rss)
+* [https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten](https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten-a-052bfdea-1602-41a1-9e1a-07e34403797a#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-krebs-und-diabetespatienten-koennten-us-visa-verweigert-werden](https://www.spiegel.de/ausland/usa-krebs-und-diabetespatienten-koennten-us-visa-verweigert-werden-a-73fa896b-f409-4d31-a133-570b9c384322#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
-* [https://www.spiegel.de/kultur/thorsten-padberg-ueber-adhs-und-depression-wir-verschieben-alltaegliche-probleme-zu-oft-in-den-psychiatrischen-bereich](https://www.spiegel.de/kultur/thorsten-padberg-ueber-adhs-und-depression-wir-verschieben-alltaegliche-probleme-zu-oft-in-den-psychiatrischen-bereich-a-82c7362a-1581-4054-952f-d63cd6f48eed#ref=rss)
-### eigenen
+* [https://www.spiegel.de/ausland/usa-krebs-und-diabetespatienten-koennten-us-visa-verweigert-werden](https://www.spiegel.de/ausland/usa-krebs-und-diabetespatienten-koennten-us-visa-verweigert-werden-a-73fa896b-f409-4d31-a133-570b9c384322#ref=rss)
+* [https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen](https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen-a-798ce74c-e5f3-46fa-98e5-33189eb69b4d#ref=rss)
+### bleiben
 
-* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rentenpaket-wirtschaftsverbaende-fordern-koalition-zu-stopp-auf](https://www.spiegel.de/wirtschaft/soziales/rentenpaket-wirtschaftsverbaende-fordern-koalition-zu-stopp-auf-a-40a2a270-49f1-497d-a5a8-aeb43c621f4b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-krebs-und-diabetespatienten-koennten-us-visa-verweigert-werden](https://www.spiegel.de/ausland/usa-krebs-und-diabetespatienten-koennten-us-visa-verweigert-werden-a-73fa896b-f409-4d31-a133-570b9c384322#ref=rss)
+* [https://www.spiegel.de/ausland/israel-hamas-krieg-wie-steht-es-um-donald-trumps-gaza-plan](https://www.spiegel.de/ausland/israel-hamas-krieg-wie-steht-es-um-donald-trumps-gaza-plan-a-a360243c-48cd-4482-8aa4-005bcc6a1d2c#ref=rss)
+### lamine
+
+* [https://www.spiegel.de/sport/fussball/lamine-yamal-vom-fc-barcelona-wie-klub-verband-und-medien-am-supertalent-zerren](https://www.spiegel.de/sport/fussball/lamine-yamal-vom-fc-barcelona-wie-klub-verband-und-medien-am-supertalent-zerren-a-284add0e-9c61-4988-a904-1c325d7878a0#ref=rss)
+### yamal
+
+* [https://www.spiegel.de/sport/fussball/lamine-yamal-vom-fc-barcelona-wie-klub-verband-und-medien-am-supertalent-zerren](https://www.spiegel.de/sport/fussball/lamine-yamal-vom-fc-barcelona-wie-klub-verband-und-medien-am-supertalent-zerren-a-284add0e-9c61-4988-a904-1c325d7878a0#ref=rss)
+### wolodymyr
+
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+### korruptes
+
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+### netzwerk
+
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+### aufgedeckt
+
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+### weit
+
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+### umfeld
+
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+### reichen
+
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+### ausgerechnet
+
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+### schmutzige
+
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+### geschäfte
+
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+### schutz
+
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+### energieversorgung
+
+* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
+### pokrowsk
+
+* [https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen](https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen-a-798ce74c-e5f3-46fa-98e5-33189eb69b4d#ref=rss)
 ### zeigt
 
-* [https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch](https://www.spiegel.de/start/kuenstliche-intelligenz-generation-z-sieht-eigene-ki-faehigkeiten-kritisch-a-599e132d-08ae-42c0-9d3a-85a52c0a978d#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-audi-zeigt-design-fuer-einstieg-in-die-rennserie-und-will-ab-2030-um-titel-fahren](https://www.spiegel.de/sport/formel1/formel-1-audi-zeigt-design-fuer-einstieg-in-die-rennserie-und-will-ab-2030-um-titel-fahren-a-21ef6922-7df3-4ccd-8add-6b687b4e9a90#ref=rss)
-### versammlung
+* [https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen](https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen-a-798ce74c-e5f3-46fa-98e5-33189eb69b4d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte](https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte-a-51048f2a-b1a3-4aee-a337-728143a20d9c#ref=rss)
+### russische
 
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-sitzblockade-darf-andere-versammlung-nicht-stoeren](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-sitzblockade-darf-andere-versammlung-nicht-stoeren-a-0349edc4-23a9-49a1-8ef2-09650d84ff4d#ref=rss)
-### rentenpaket
+* [https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen](https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen-a-798ce74c-e5f3-46fa-98e5-33189eb69b4d#ref=rss)
+### soldaten
 
-* [https://www.spiegel.de/wirtschaft/soziales/rentenpaket-wirtschaftsverbaende-fordern-koalition-zu-stopp-auf](https://www.spiegel.de/wirtschaft/soziales/rentenpaket-wirtschaftsverbaende-fordern-koalition-zu-stopp-auf-a-40a2a270-49f1-497d-a5a8-aeb43c621f4b#ref=rss)
-### schulleiter
+* [https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen](https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen-a-798ce74c-e5f3-46fa-98e5-33189eb69b4d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal-a-9e3efb77-ba60-4a71-a0fe-9202e3958e7e#ref=rss)
+### rund
 
-* [https://www.spiegel.de/panorama/justiz/erfurt-schulleiter-gibt-sein-amt-nach-missbrauchsurteil-gegen-lehrer-ab](https://www.spiegel.de/panorama/justiz/erfurt-schulleiter-gibt-sein-amt-nach-missbrauchsurteil-gegen-lehrer-ab-a-247bcc9a-3e14-4fb1-a92b-33dd2dd1a0f6#ref=rss)
-### missbrauchsurteil
+* [https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen](https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen-a-798ce74c-e5f3-46fa-98e5-33189eb69b4d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015](https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015-a-7db55da4-3c8e-4e37-ac72-6950bf692af2#ref=rss)
+### liegt
 
-* [https://www.spiegel.de/panorama/justiz/erfurt-schulleiter-gibt-sein-amt-nach-missbrauchsurteil-gegen-lehrer-ab](https://www.spiegel.de/panorama/justiz/erfurt-schulleiter-gibt-sein-amt-nach-missbrauchsurteil-gegen-lehrer-ab-a-247bcc9a-3e14-4fb1-a92b-33dd2dd1a0f6#ref=rss)
-### lehrer
+* [https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen](https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen-a-798ce74c-e5f3-46fa-98e5-33189eb69b4d#ref=rss)
+* [https://www.spiegel.de/panorama/selbstbestimmungsgesetz-geschlechtsaenderung-als-karrierevorteil-bei-der-polizei](https://www.spiegel.de/panorama/selbstbestimmungsgesetz-geschlechtsaenderung-als-karrierevorteil-bei-der-polizei-a-ff2c63d1-8d32-4900-ad8f-f11239c74d22#ref=rss)
+### dauert
 
-* [https://www.spiegel.de/panorama/justiz/erfurt-schulleiter-gibt-sein-amt-nach-missbrauchsurteil-gegen-lehrer-ab](https://www.spiegel.de/panorama/justiz/erfurt-schulleiter-gibt-sein-amt-nach-missbrauchsurteil-gegen-lehrer-ab-a-247bcc9a-3e14-4fb1-a92b-33dd2dd1a0f6#ref=rss)
-### niedersachsen
+* [https://www.spiegel.de/panorama/polarlichter-ueber-matterhorn-farbenpracht-am-naechtlichen-himmel](https://www.spiegel.de/panorama/polarlichter-ueber-matterhorn-farbenpracht-am-naechtlichen-himmel-a-6d0ef69d-e9b8-4ecd-a6cf-4de92bcc0c25#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte](https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte-a-51048f2a-b1a3-4aee-a337-728143a20d9c#ref=rss)
+### nrw
 
-* [https://www.spiegel.de/panorama/bildung/niedersachsen-schule-in-melle-nimmt-regel-zum-kopftuchtragen-zurueck](https://www.spiegel.de/panorama/bildung/niedersachsen-schule-in-melle-nimmt-regel-zum-kopftuchtragen-zurueck-a-19ae67a3-5284-427e-b37e-986497532523#ref=rss)
-### staaten
-
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-globaler-co-ausstoss-steigt-auch-2025-weiter](https://www.spiegel.de/wissenschaft/natur/klimawandel-globaler-co-ausstoss-steigt-auch-2025-weiter-a-bbf39052-d618-41f9-b195-c2182186309e#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz-a-44d07f4a-e59b-496e-a0fe-72de73c33eac#ref=rss)
-### darauf
-
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-globaler-co-ausstoss-steigt-auch-2025-weiter](https://www.spiegel.de/wissenschaft/natur/klimawandel-globaler-co-ausstoss-steigt-auch-2025-weiter-a-bbf39052-d618-41f9-b195-c2182186309e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirecard-bundesgerichtshof-weist-klage-von-aktionaeren-ab](https://www.spiegel.de/wirtschaft/wirecard-bundesgerichtshof-weist-klage-von-aktionaeren-ab-a-fedae7f5-688d-4054-a39e-9d863dededef#ref=rss)
+* [https://www.spiegel.de/panorama/selbstbestimmungsgesetz-geschlechtsaenderung-als-karrierevorteil-bei-der-polizei](https://www.spiegel.de/panorama/selbstbestimmungsgesetz-geschlechtsaenderung-als-karrierevorteil-bei-der-polizei-a-ff2c63d1-8d32-4900-ad8f-f11239c74d22#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frechen-in-nrw-polizei-findet-sprengmittel-in-unfallwagen-auf-der-autobahn](https://www.spiegel.de/panorama/justiz/frechen-in-nrw-polizei-findet-sprengmittel-in-unfallwagen-auf-der-autobahn-a-fce8015f-af63-463c-81f1-4060c737cac0#ref=rss)
 ### sagt
 
-* [https://www.spiegel.de/kultur/thorsten-padberg-ueber-adhs-und-depression-wir-verschieben-alltaegliche-probleme-zu-oft-in-den-psychiatrischen-bereich](https://www.spiegel.de/kultur/thorsten-padberg-ueber-adhs-und-depression-wir-verschieben-alltaegliche-probleme-zu-oft-in-den-psychiatrischen-bereich-a-82c7362a-1581-4054-952f-d63cd6f48eed#ref=rss)
-* [https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen](https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen-a-2186f2a0-254d-4675-9228-5019843dcfb6#ref=rss)
-### audi
+* [https://www.spiegel.de/panorama/selbstbestimmungsgesetz-geschlechtsaenderung-als-karrierevorteil-bei-der-polizei](https://www.spiegel.de/panorama/selbstbestimmungsgesetz-geschlechtsaenderung-als-karrierevorteil-bei-der-polizei-a-ff2c63d1-8d32-4900-ad8f-f11239c74d22#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kita-krise-experte-warnt-vor-abbau-von-kitaplaetzen-trotz-geburtenrueckgang](https://www.spiegel.de/panorama/bildung/kita-krise-experte-warnt-vor-abbau-von-kitaplaetzen-trotz-geburtenrueckgang-a-ee899d7d-0213-4523-a531-d86a67f810b5#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/sport/formel1/formel-1-audi-zeigt-design-fuer-einstieg-in-die-rennserie-und-will-ab-2030-um-titel-fahren](https://www.spiegel.de/sport/formel1/formel-1-audi-zeigt-design-fuer-einstieg-in-die-rennserie-und-will-ab-2030-um-titel-fahren-a-21ef6922-7df3-4ccd-8add-6b687b4e9a90#ref=rss)
-### musterungspflicht
+* [https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte](https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte-a-51048f2a-b1a3-4aee-a337-728143a20d9c#ref=rss)
+### joachim
 
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner](https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner-a-dc2aaac6-b891-4b99-a61c-1a8c6f65abb8#ref=rss)
-### männer
+* [https://www.spiegel.de/wirtschaft/ezb-bundesbankpraesident-joachim-nagel-traut-sich-nachfolge-von-christine-lagarde-zu](https://www.spiegel.de/wirtschaft/ezb-bundesbankpraesident-joachim-nagel-traut-sich-nachfolge-von-christine-lagarde-zu-a-a5c160a4-1eed-4880-b589-1f6cb94b3b6f#ref=rss)
+### nagel
 
-* [https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner](https://www.spiegel.de/politik/deutschland/wehrpflicht-union-und-spd-einigen-sich-auf-musterungspflicht-fuer-junge-maenner-a-dc2aaac6-b891-4b99-a61c-1a8c6f65abb8#ref=rss)
-### bundesgerichtshof
+* [https://www.spiegel.de/wirtschaft/ezb-bundesbankpraesident-joachim-nagel-traut-sich-nachfolge-von-christine-lagarde-zu](https://www.spiegel.de/wirtschaft/ezb-bundesbankpraesident-joachim-nagel-traut-sich-nachfolge-von-christine-lagarde-zu-a-a5c160a4-1eed-4880-b589-1f6cb94b3b6f#ref=rss)
+### taleb
 
-* [https://www.spiegel.de/wirtschaft/wirecard-bundesgerichtshof-weist-klage-von-aktionaeren-ab](https://www.spiegel.de/wirtschaft/wirecard-bundesgerichtshof-weist-klage-von-aktionaeren-ab-a-fedae7f5-688d-4054-a39e-9d863dededef#ref=rss)
-### klage
+* [https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-taleb-al-abdulmohsen-ueberstimmte-kollisionssysteme](https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-taleb-al-abdulmohsen-ueberstimmte-kollisionssysteme-a-f1e6b108-77a0-4a65-ad0d-52ecf83b9185#ref=rss)
+### al
 
-* [https://www.spiegel.de/wirtschaft/wirecard-bundesgerichtshof-weist-klage-von-aktionaeren-ab](https://www.spiegel.de/wirtschaft/wirecard-bundesgerichtshof-weist-klage-von-aktionaeren-ab-a-fedae7f5-688d-4054-a39e-9d863dededef#ref=rss)
-### wenig
+* [https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-taleb-al-abdulmohsen-ueberstimmte-kollisionssysteme](https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-taleb-al-abdulmohsen-ueberstimmte-kollisionssysteme-a-f1e6b108-77a0-4a65-ad0d-52ecf83b9185#ref=rss)
+### abdulmohsen
 
-* [https://www.spiegel.de/wirtschaft/wirecard-bundesgerichtshof-weist-klage-von-aktionaeren-ab](https://www.spiegel.de/wirtschaft/wirecard-bundesgerichtshof-weist-klage-von-aktionaeren-ab-a-fedae7f5-688d-4054-a39e-9d863dededef#ref=rss)
-* [https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen](https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen-a-2186f2a0-254d-4675-9228-5019843dcfb6#ref=rss)
-### melbourne
+* [https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-taleb-al-abdulmohsen-ueberstimmte-kollisionssysteme](https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-taleb-al-abdulmohsen-ueberstimmte-kollisionssysteme-a-f1e6b108-77a0-4a65-ad0d-52ecf83b9185#ref=rss)
+### waren
 
-* [https://www.spiegel.de/panorama/melbourne-374-dudelsackspieler-knacken-weltrekord-mit-ac-dc](https://www.spiegel.de/panorama/melbourne-374-dudelsackspieler-knacken-weltrekord-mit-ac-dc-a-87765e5d-5f63-4dce-9084-50bc462190cf#ref=rss)
-### 374
+* [https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-taleb-al-abdulmohsen-ueberstimmte-kollisionssysteme](https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-taleb-al-abdulmohsen-ueberstimmte-kollisionssysteme-a-f1e6b108-77a0-4a65-ad0d-52ecf83b9185#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frechen-in-nrw-polizei-findet-sprengmittel-in-unfallwagen-auf-der-autobahn](https://www.spiegel.de/panorama/justiz/frechen-in-nrw-polizei-findet-sprengmittel-in-unfallwagen-auf-der-autobahn-a-fce8015f-af63-463c-81f1-4060c737cac0#ref=rss)
+### pawel
 
-* [https://www.spiegel.de/panorama/melbourne-374-dudelsackspieler-knacken-weltrekord-mit-ac-dc](https://www.spiegel.de/panorama/melbourne-374-dudelsackspieler-knacken-weltrekord-mit-ac-dc-a-87765e5d-5f63-4dce-9084-50bc462190cf#ref=rss)
-### dudelsackspieler
+* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen-a-98949d5f-d936-432f-93f6-f53e69e01690#ref=rss)
+### durow
 
-* [https://www.spiegel.de/panorama/melbourne-374-dudelsackspieler-knacken-weltrekord-mit-ac-dc](https://www.spiegel.de/panorama/melbourne-374-dudelsackspieler-knacken-weltrekord-mit-ac-dc-a-87765e5d-5f63-4dce-9084-50bc462190cf#ref=rss)
-### weltrekord
+* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen-a-98949d5f-d936-432f-93f6-f53e69e01690#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/panorama/melbourne-374-dudelsackspieler-knacken-weltrekord-mit-ac-dc](https://www.spiegel.de/panorama/melbourne-374-dudelsackspieler-knacken-weltrekord-mit-ac-dc-a-87765e5d-5f63-4dce-9084-50bc462190cf#ref=rss)
-### leonardo
+* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen-a-98949d5f-d936-432f-93f6-f53e69e01690#ref=rss)
+### verlassen
 
-* [https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier](https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier-a-e1c10b96-e781-4c9a-89b5-0fd3464bc347#ref=rss)
-### dicaprio
+* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen-a-98949d5f-d936-432f-93f6-f53e69e01690#ref=rss)
+### ermittelt
 
-* [https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier](https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier-a-e1c10b96-e781-4c9a-89b5-0fd3464bc347#ref=rss)
-### jane
+* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen-a-98949d5f-d936-432f-93f6-f53e69e01690#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/red-bull-eu-kommission-ermittelt-gegen-energy-drink-hersteller](https://www.spiegel.de/wirtschaft/unternehmen/red-bull-eu-kommission-ermittelt-gegen-energy-drink-hersteller-a-f4178135-bc02-442f-8bcf-9021240d0c70#ref=rss)
+### shein
 
-* [https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier](https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier-a-e1c10b96-e781-4c9a-89b5-0fd3464bc347#ref=rss)
-### goodall
+* [https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen](https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen-a-c6b84e71-1833-4584-9d78-bd8ce6bad519#ref=rss)
+### temu
 
-* [https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier](https://www.spiegel.de/panorama/leute/leonardo-dicaprio-gedenkt-guter-freundin-jane-goodall-bei-trauerfeier-a-e1c10b96-e781-4c9a-89b5-0fd3464bc347#ref=rss)
-### bertelsmann
+* [https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen](https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen-a-c6b84e71-1833-4584-9d78-bd8ce6bad519#ref=rss)
+### davon
 
-* [https://www.spiegel.de/wirtschaft/bertelsmann-thomas-coesfeld-wird-neuer-vorstandschef](https://www.spiegel.de/wirtschaft/bertelsmann-thomas-coesfeld-wird-neuer-vorstandschef-a-e848cf80-feca-46d0-94bb-c8a77fc4e4df#ref=rss)
-### thomas
+* [https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen](https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen-a-c6b84e71-1833-4584-9d78-bd8ce6bad519#ref=rss)
+* [https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015](https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015-a-7db55da4-3c8e-4e37-ac72-6950bf692af2#ref=rss)
+### wettbewerb
 
-* [https://www.spiegel.de/wirtschaft/bertelsmann-thomas-coesfeld-wird-neuer-vorstandschef](https://www.spiegel.de/wirtschaft/bertelsmann-thomas-coesfeld-wird-neuer-vorstandschef-a-e848cf80-feca-46d0-94bb-c8a77fc4e4df#ref=rss)
-### coesfeld
+* [https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen](https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen-a-c6b84e71-1833-4584-9d78-bd8ce6bad519#ref=rss)
+* [https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb](https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb-a-848a7c95-4550-4a3a-8682-ce32e2c29dcb#ref=rss)
+### nahe
 
-* [https://www.spiegel.de/wirtschaft/bertelsmann-thomas-coesfeld-wird-neuer-vorstandschef](https://www.spiegel.de/wirtschaft/bertelsmann-thomas-coesfeld-wird-neuer-vorstandschef-a-e848cf80-feca-46d0-94bb-c8a77fc4e4df#ref=rss)
-### bischöfe
+* [https://www.spiegel.de/panorama/justiz/frechen-in-nrw-polizei-findet-sprengmittel-in-unfallwagen-auf-der-autobahn](https://www.spiegel.de/panorama/justiz/frechen-in-nrw-polizei-findet-sprengmittel-in-unfallwagen-auf-der-autobahn-a-fce8015f-af63-463c-81f1-4060c737cac0#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal-a-9e3efb77-ba60-4a71-a0fe-9202e3958e7e#ref=rss)
+### iea
 
-* [https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung](https://www.spiegel.de/ausland/donald-trump-katholische-bischoefe-kritisieren-harte-abschiebepolitik-der-us-regierung-a-cd260865-0124-41cc-a74d-43a885dd00c6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage](https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage-a-6daf2ce1-d713-473b-8b12-2f87145a051f#ref=rss)
+### uskritik
+
+* [https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage](https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage-a-6daf2ce1-d713-473b-8b12-2f87145a051f#ref=rss)
+### steigender
+
+* [https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage](https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage-a-6daf2ce1-d713-473b-8b12-2f87145a051f#ref=rss)
+### pariser
+
+* [https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage](https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage-a-6daf2ce1-d713-473b-8b12-2f87145a051f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015](https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015-a-7db55da4-3c8e-4e37-ac72-6950bf692af2#ref=rss)
+### nachfrage
+
+* [https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage](https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage-a-6daf2ce1-d713-473b-8b12-2f87145a051f#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kita-krise-experte-warnt-vor-abbau-von-kitaplaetzen-trotz-geburtenrueckgang](https://www.spiegel.de/panorama/bildung/kita-krise-experte-warnt-vor-abbau-von-kitaplaetzen-trotz-geburtenrueckgang-a-ee899d7d-0213-4523-a531-d86a67f810b5#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/wissenschaft/kuerzungsplaene-an-berliner-hochschule-leute-studiert-archaeologie](https://www.spiegel.de/wissenschaft/kuerzungsplaene-an-berliner-hochschule-leute-studiert-archaeologie-a-d046ab3d-5496-4f65-b67b-f7ff74dab412#ref=rss)
+### verändern
+
+* [https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben](https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben-a-6fb14cf1-fb94-4b48-a5f0-1f5533102adb#ref=rss)
+### vielen
+
+* [https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben](https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben-a-6fb14cf1-fb94-4b48-a5f0-1f5533102adb#ref=rss)
+* [https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb](https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb-a-848a7c95-4550-4a3a-8682-ce32e2c29dcb#ref=rss)
+### merz
+
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal-a-9e3efb77-ba60-4a71-a0fe-9202e3958e7e#ref=rss)
+### experte
+
+* [https://www.spiegel.de/panorama/bildung/kita-krise-experte-warnt-vor-abbau-von-kitaplaetzen-trotz-geburtenrueckgang](https://www.spiegel.de/panorama/bildung/kita-krise-experte-warnt-vor-abbau-von-kitaplaetzen-trotz-geburtenrueckgang-a-ee899d7d-0213-4523-a531-d86a67f810b5#ref=rss)
+* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger-a-ee392080-49f4-48eb-ac94-7a416168b53c#ref=rss)
+### trump
+
+* [https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten](https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten-a-052bfdea-1602-41a1-9e1a-07e34403797a#ref=rss)
+### colbert
+
+* [https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten](https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten-a-052bfdea-1602-41a1-9e1a-07e34403797a#ref=rss)
+### uspräsidenten
+
+* [https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten](https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten-a-052bfdea-1602-41a1-9e1a-07e34403797a#ref=rss)
+### lauri
+
+* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger-a-ee392080-49f4-48eb-ac94-7a416168b53c#ref=rss)
+### myllyvirta
+
+* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger-a-ee392080-49f4-48eb-ac94-7a416168b53c#ref=rss)
 ### china
 
-* [https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen](https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen-a-2186f2a0-254d-4675-9228-5019843dcfb6#ref=rss)
-### fbichef
+* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger-a-ee392080-49f4-48eb-ac94-7a416168b53c#ref=rss)
+### klimaschutz
 
-* [https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen](https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen-a-2186f2a0-254d-4675-9228-5019843dcfb6#ref=rss)
-### patel
+* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger-a-ee392080-49f4-48eb-ac94-7a416168b53c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015](https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015-a-7db55da4-3c8e-4e37-ac72-6950bf692af2#ref=rss)
+### red
 
-* [https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen](https://www.spiegel.de/ausland/china-stoppt-laut-fbi-chef-patel-angeblich-export-von-fentanyl-stoffen-a-2186f2a0-254d-4675-9228-5019843dcfb6#ref=rss)
-### amonra
+* [https://www.spiegel.de/wirtschaft/unternehmen/red-bull-eu-kommission-ermittelt-gegen-energy-drink-hersteller](https://www.spiegel.de/wirtschaft/unternehmen/red-bull-eu-kommission-ermittelt-gegen-energy-drink-hersteller-a-f4178135-bc02-442f-8bcf-9021240d0c70#ref=rss)
+### bull
 
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz-a-44d07f4a-e59b-496e-a0fe-72de73c33eac#ref=rss)
-### st
+* [https://www.spiegel.de/wirtschaft/unternehmen/red-bull-eu-kommission-ermittelt-gegen-energy-drink-hersteller](https://www.spiegel.de/wirtschaft/unternehmen/red-bull-eu-kommission-ermittelt-gegen-energy-drink-hersteller-a-f4178135-bc02-442f-8bcf-9021240d0c70#ref=rss)
+### eukommission
 
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz-a-44d07f4a-e59b-496e-a0fe-72de73c33eac#ref=rss)
-### brown
+* [https://www.spiegel.de/wirtschaft/unternehmen/red-bull-eu-kommission-ermittelt-gegen-energy-drink-hersteller](https://www.spiegel.de/wirtschaft/unternehmen/red-bull-eu-kommission-ermittelt-gegen-energy-drink-hersteller-a-f4178135-bc02-442f-8bcf-9021240d0c70#ref=rss)
+### neue
 
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz-a-44d07f4a-e59b-496e-a0fe-72de73c33eac#ref=rss)
-### sorgt
+* [https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb](https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb-a-848a7c95-4550-4a3a-8682-ce32e2c29dcb#ref=rss)
+### oper
 
-* [https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz](https://www.spiegel.de/sport/american-football/nfl-amon-ra-st-brown-bittet-um-entschuldigung-fuer-seinen-trump-tanz-a-44d07f4a-e59b-496e-a0fe-72de73c33eac#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei](https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei-a-37698888-e67a-4b5e-bc36-9cdc4e33bcfe#ref=rss)
-### tino
+* [https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb](https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb-a-848a7c95-4550-4a3a-8682-ce32e2c29dcb#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei](https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei-a-37698888-e67a-4b5e-bc36-9cdc4e33bcfe#ref=rss)
-### chrupalla
-
-* [https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei](https://www.spiegel.de/politik/deutschland/afd-tino-chrupalla-sorgt-mit-russland-aussagen-fuer-aerger-in-der-partei-a-37698888-e67a-4b5e-bc36-9cdc4e33bcfe#ref=rss)
+* [https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb](https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb-a-848a7c95-4550-4a3a-8682-ce32e2c29dcb#ref=rss)
 
