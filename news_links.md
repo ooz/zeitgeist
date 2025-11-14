@@ -4,339 +4,347 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
+### mann
 
-* [https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern](https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern-a-b853ae4a-c5c1-4124-bf99-84545ddb34c3#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung](https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung-a-dfee9101-d454-4662-ac11-49731f3231d3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage](https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage-a-6daf2ce1-d713-473b-8b12-2f87145a051f#ref=rss)
-* [https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten](https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten-a-052bfdea-1602-41a1-9e1a-07e34403797a#ref=rss)
-* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger-a-ee392080-49f4-48eb-ac94-7a416168b53c#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal-a-9e3efb77-ba60-4a71-a0fe-9202e3958e7e#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal-a-9e3efb77-ba60-4a71-a0fe-9202e3958e7e#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/selbstbestimmungsgesetz-geschlechtsaenderung-als-karrierevorteil-bei-der-polizei](https://www.spiegel.de/panorama/selbstbestimmungsgesetz-geschlechtsaenderung-als-karrierevorteil-bei-der-polizei-a-ff2c63d1-8d32-4900-ad8f-f11239c74d22#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte](https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte-a-51048f2a-b1a3-4aee-a337-728143a20d9c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frechen-in-nrw-polizei-findet-sprengmittel-in-unfallwagen-auf-der-autobahn](https://www.spiegel.de/panorama/justiz/frechen-in-nrw-polizei-findet-sprengmittel-in-unfallwagen-auf-der-autobahn-a-fce8015f-af63-463c-81f1-4060c737cac0#ref=rss)
-### stephen
-
-* [https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern](https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern-a-b853ae4a-c5c1-4124-bf99-84545ddb34c3#ref=rss)
-* [https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten](https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten-a-052bfdea-1602-41a1-9e1a-07e34403797a#ref=rss)
-### etwas
-
-* [https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern](https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern-a-b853ae4a-c5c1-4124-bf99-84545ddb34c3#ref=rss)
-* [https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben](https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben-a-6fb14cf1-fb94-4b48-a5f0-1f5533102adb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015](https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015-a-7db55da4-3c8e-4e37-ac72-6950bf692af2#ref=rss)
-### welt
-
-* [https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung](https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung-a-dfee9101-d454-4662-ac11-49731f3231d3#ref=rss)
-* [https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben](https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben-a-6fb14cf1-fb94-4b48-a5f0-1f5533102adb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015](https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015-a-7db55da4-3c8e-4e37-ac72-6950bf692af2#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung](https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung-a-dfee9101-d454-4662-ac11-49731f3231d3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte](https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte-a-51048f2a-b1a3-4aee-a337-728143a20d9c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015](https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015-a-7db55da4-3c8e-4e37-ac72-6950bf692af2#ref=rss)
-### korruption
-
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-* [https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben](https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben-a-6fb14cf1-fb94-4b48-a5f0-1f5533102adb#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-* [https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen](https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen-a-798ce74c-e5f3-46fa-98e5-33189eb69b4d#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-wie-steht-es-um-donald-trumps-gaza-plan](https://www.spiegel.de/ausland/israel-hamas-krieg-wie-steht-es-um-donald-trumps-gaza-plan-a-a360243c-48cd-4482-8aa4-005bcc6a1d2c#ref=rss)
-* [https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten](https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten-a-052bfdea-1602-41a1-9e1a-07e34403797a#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen](https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen-a-c6b84e71-1833-4584-9d78-bd8ce6bad519#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal-a-9e3efb77-ba60-4a71-a0fe-9202e3958e7e#ref=rss)
-### afdpolitiker
-
-* [https://www.spiegel.de/panorama/justiz/afd-politiker-in-thueringen-durchsuchungen-wegen-terrorverdachts](https://www.spiegel.de/panorama/justiz/afd-politiker-in-thueringen-durchsuchungen-wegen-terrorverdachts-a-41cc8138-cb6d-41d5-9d84-98e82ce23c35#ref=rss)
-### thüringen
-
-* [https://www.spiegel.de/panorama/justiz/afd-politiker-in-thueringen-durchsuchungen-wegen-terrorverdachts](https://www.spiegel.de/panorama/justiz/afd-politiker-in-thueringen-durchsuchungen-wegen-terrorverdachts-a-41cc8138-cb6d-41d5-9d84-98e82ce23c35#ref=rss)
-### biontech
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-aktie-faellt-nach-bericht-ueber-pfizer-ausstieg](https://www.spiegel.de/wirtschaft/unternehmen/biontech-aktie-faellt-nach-bericht-ueber-pfizer-ausstieg-a-2655f2ce-9c3e-4c5e-bf2e-0071e24ae362#ref=rss)
-### pfizer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-aktie-faellt-nach-bericht-ueber-pfizer-ausstieg](https://www.spiegel.de/wirtschaft/unternehmen/biontech-aktie-faellt-nach-bericht-ueber-pfizer-ausstieg-a-2655f2ce-9c3e-4c5e-bf2e-0071e24ae362#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-aktie-faellt-nach-bericht-ueber-pfizer-ausstieg](https://www.spiegel.de/wirtschaft/unternehmen/biontech-aktie-faellt-nach-bericht-ueber-pfizer-ausstieg-a-2655f2ce-9c3e-4c5e-bf2e-0071e24ae362#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen-a-98949d5f-d936-432f-93f6-f53e69e01690#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern](https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern-a-b853ae4a-c5c1-4124-bf99-84545ddb34c3#ref=rss)
-### running
-
-* [https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern](https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern-a-b853ae4a-c5c1-4124-bf99-84545ddb34c3#ref=rss)
-### king
-
-* [https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern](https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern-a-b853ae4a-c5c1-4124-bf99-84545ddb34c3#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern](https://www.spiegel.de/kultur/the-running-man-nach-stephen-king-im-kino-willkommen-in-der-zukunft-von-gestern-a-b853ae4a-c5c1-4124-bf99-84545ddb34c3#ref=rss)
-### reisen
-
-* [https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung](https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung-a-dfee9101-d454-4662-ac11-49731f3231d3#ref=rss)
-### einigen
-
-* [https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung](https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung-a-dfee9101-d454-4662-ac11-49731f3231d3#ref=rss)
-* [https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben](https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben-a-6fb14cf1-fb94-4b48-a5f0-1f5533102adb#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung](https://www.spiegel.de/reise/fernweh/reisen-vom-fernweh-zur-reisemuedigkeit-eine-persoenliche-erfahrung-a-dfee9101-d454-4662-ac11-49731f3231d3#ref=rss)
-* [https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten](https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten-a-052bfdea-1602-41a1-9e1a-07e34403797a#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-krebs-und-diabetespatienten-koennten-us-visa-verweigert-werden](https://www.spiegel.de/ausland/usa-krebs-und-diabetespatienten-koennten-us-visa-verweigert-werden-a-73fa896b-f409-4d31-a133-570b9c384322#ref=rss)
+* [https://www.spiegel.de/kultur/kino/ariana-grande-wird-bei-wicked-premiere-von-mann-bedraengt](https://www.spiegel.de/kultur/kino/ariana-grande-wird-bei-wicked-premiere-von-mann-bedraengt-a-d599cf77-5851-4787-b4dc-e0ec8086121e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/leichlingen-mann-von-durchfahrendem-ice-erfasst](https://www.spiegel.de/panorama/justiz/leichlingen-mann-von-durchfahrendem-ice-erfasst-a-3f3cc0ee-8134-4ca2-9d68-a56bca2081fd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-polizei-ermittelt-gegen-mitarbeiter-der-staatsanwaltschaft](https://www.spiegel.de/panorama/justiz/stuttgart-polizei-ermittelt-gegen-mitarbeiter-der-staatsanwaltschaft-a-f9e628f6-c08e-40fa-bdb3-6a7bfab96d7a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bad-kleinen-in-mecklenburg-vorpommern-37-jaehriger-soll-mann-angegriffen-und-getoetet-haben](https://www.spiegel.de/panorama/justiz/bad-kleinen-in-mecklenburg-vorpommern-37-jaehriger-soll-mann-angegriffen-und-getoetet-haben-a-00eccb8a-98de-44d7-9d1d-44dc7a636c99#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/usa-krebs-und-diabetespatienten-koennten-us-visa-verweigert-werden](https://www.spiegel.de/ausland/usa-krebs-und-diabetespatienten-koennten-us-visa-verweigert-werden-a-73fa896b-f409-4d31-a133-570b9c384322#ref=rss)
-* [https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen](https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen-a-798ce74c-e5f3-46fa-98e5-33189eb69b4d#ref=rss)
-### bleiben
+* [https://www.spiegel.de/wirtschaft/schuldneratlas-2025-zahl-ueberschuldeter-menschen-erneut-gestiegen-kein-randphaenomen-mehr](https://www.spiegel.de/wirtschaft/schuldneratlas-2025-zahl-ueberschuldeter-menschen-erneut-gestiegen-kein-randphaenomen-mehr-a-cd5a3117-9884-4913-969c-56b5d6f124ee#ref=rss)
+* [https://www.spiegel.de/panorama/toiletten-in-deutschland-mehrheit-der-menschen-unzufrieden](https://www.spiegel.de/panorama/toiletten-in-deutschland-mehrheit-der-menschen-unzufrieden-a-42003b67-c18e-45c5-95ec-4487f1087ab3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video](https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video-a-2e73bd89-3135-4e22-8c5f-8f8aa9baa214#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote](https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote-a-7e577dd4-6908-4965-89a3-3fbd819f4fb4#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/usa-krebs-und-diabetespatienten-koennten-us-visa-verweigert-werden](https://www.spiegel.de/ausland/usa-krebs-und-diabetespatienten-koennten-us-visa-verweigert-werden-a-73fa896b-f409-4d31-a133-570b9c384322#ref=rss)
-* [https://www.spiegel.de/ausland/israel-hamas-krieg-wie-steht-es-um-donald-trumps-gaza-plan](https://www.spiegel.de/ausland/israel-hamas-krieg-wie-steht-es-um-donald-trumps-gaza-plan-a-a360243c-48cd-4482-8aa4-005bcc6a1d2c#ref=rss)
-### lamine
+* [https://www.spiegel.de/panorama/toiletten-in-deutschland-mehrheit-der-menschen-unzufrieden](https://www.spiegel.de/panorama/toiletten-in-deutschland-mehrheit-der-menschen-unzufrieden-a-42003b67-c18e-45c5-95ec-4487f1087ab3#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/julia-kloeckner-zur-prostitution-in-deutschland-moral-ist-billig-hilfe-kostet](https://www.spiegel.de/panorama/gesellschaft/julia-kloeckner-zur-prostitution-in-deutschland-moral-ist-billig-hilfe-kostet-a-cd9f681b-46c4-467b-b6f6-708ae7b2f1e8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cannabis-in-deutschland-fast-jeder-zehnte-erwachsene-kifft](https://www.spiegel.de/wissenschaft/cannabis-in-deutschland-fast-jeder-zehnte-erwachsene-kifft-a-16930a20-4445-4128-8aea-343b92c99430#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lebenshaltungskosten-so-teuer-ist-das-leben-in-ihrem-landkreis](https://www.spiegel.de/wirtschaft/lebenshaltungskosten-so-teuer-ist-das-leben-in-ihrem-landkreis-a-95f7e431-fd28-4b9f-b116-39cfdee5bd49#ref=rss)
+### google
 
-* [https://www.spiegel.de/sport/fussball/lamine-yamal-vom-fc-barcelona-wie-klub-verband-und-medien-am-supertalent-zerren](https://www.spiegel.de/sport/fussball/lamine-yamal-vom-fc-barcelona-wie-klub-verband-und-medien-am-supertalent-zerren-a-284add0e-9c61-4988-a904-1c325d7878a0#ref=rss)
-### yamal
+* [https://www.spiegel.de/wirtschaft/google-muss-idealo-465-millionen-euro-schadenersatz-wegen-unfairem-wettbewerb-zahlen](https://www.spiegel.de/wirtschaft/google-muss-idealo-465-millionen-euro-schadenersatz-wegen-unfairem-wettbewerb-zahlen-a-b0ff79e4-bfd8-42d2-bdc5-2fc14eace074#ref=rss)
+* [https://www.spiegel.de/netzwelt/google-macht-nach-milliarden-strafe-werbe-zusagen-an-eu-kommission](https://www.spiegel.de/netzwelt/google-macht-nach-milliarden-strafe-werbe-zusagen-an-eu-kommission-a-05c7031d-3ecd-476f-9b3a-e5facc9feee4#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/lamine-yamal-vom-fc-barcelona-wie-klub-verband-und-medien-am-supertalent-zerren](https://www.spiegel.de/sport/fussball/lamine-yamal-vom-fc-barcelona-wie-klub-verband-und-medien-am-supertalent-zerren-a-284add0e-9c61-4988-a904-1c325d7878a0#ref=rss)
-### wolodymyr
+* [https://www.spiegel.de/wirtschaft/schuldneratlas-2025-zahl-ueberschuldeter-menschen-erneut-gestiegen-kein-randphaenomen-mehr](https://www.spiegel.de/wirtschaft/schuldneratlas-2025-zahl-ueberschuldeter-menschen-erneut-gestiegen-kein-randphaenomen-mehr-a-cd5a3117-9884-4913-969c-56b5d6f124ee#ref=rss)
+* [https://www.spiegel.de/wissenschaft/usa-mehr-teenager-sterben-nach-schuessen-als-bei-verkehrsunfaellen-laut-studie](https://www.spiegel.de/wissenschaft/usa-mehr-teenager-sterben-nach-schuessen-als-bei-verkehrsunfaellen-laut-studie-a-fa7531be-a24c-42a9-8db2-e7eb100c3461#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cannabis-in-deutschland-fast-jeder-zehnte-erwachsene-kifft](https://www.spiegel.de/wissenschaft/cannabis-in-deutschland-fast-jeder-zehnte-erwachsene-kifft-a-16930a20-4445-4128-8aea-343b92c99430#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-### ermittler
+* [https://www.spiegel.de/wissenschaft/usa-mehr-teenager-sterben-nach-schuessen-als-bei-verkehrsunfaellen-laut-studie](https://www.spiegel.de/wissenschaft/usa-mehr-teenager-sterben-nach-schuessen-als-bei-verkehrsunfaellen-laut-studie-a-fa7531be-a24c-42a9-8db2-e7eb100c3461#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-wollen-zoelle-fuer-vier-lateinamerikanische-laender-abschaffen](https://www.spiegel.de/wirtschaft/usa-wollen-zoelle-fuer-vier-lateinamerikanische-laender-abschaffen-a-f0d4014a-2f1e-4fb4-9b27-8f36f761ef19#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-amazon-und-microsoft-erwaegen-einschraenkung-von-chip-exporten-nach-china](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-amazon-und-microsoft-erwaegen-einschraenkung-von-chip-exporten-nach-china-a-06deb2ee-905e-49be-bff2-42191e3a3410#ref=rss)
+### studie
 
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-### korruptes
+* [https://www.spiegel.de/wissenschaft/usa-mehr-teenager-sterben-nach-schuessen-als-bei-verkehrsunfaellen-laut-studie](https://www.spiegel.de/wissenschaft/usa-mehr-teenager-sterben-nach-schuessen-als-bei-verkehrsunfaellen-laut-studie-a-fa7531be-a24c-42a9-8db2-e7eb100c3461#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cannabis-in-deutschland-fast-jeder-zehnte-erwachsene-kifft](https://www.spiegel.de/wissenschaft/cannabis-in-deutschland-fast-jeder-zehnte-erwachsene-kifft-a-16930a20-4445-4128-8aea-343b92c99430#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lebenshaltungskosten-so-teuer-ist-das-leben-in-ihrem-landkreis](https://www.spiegel.de/wirtschaft/lebenshaltungskosten-so-teuer-ist-das-leben-in-ihrem-landkreis-a-95f7e431-fd28-4b9f-b116-39cfdee5bd49#ref=rss)
+### kyjiw
 
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-### netzwerk
+* [https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video](https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video-a-2e73bd89-3135-4e22-8c5f-8f8aa9baa214#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-jetzt-treffen-auch-die-ukrainer-das-stromnetz](https://www.spiegel.de/ausland/russlands-angriffskrieg-jetzt-treffen-auch-die-ukrainer-das-stromnetz-a-d346773a-b790-4bf7-b07a-142a7da3cd0d#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote](https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote-a-7e577dd4-6908-4965-89a3-3fbd819f4fb4#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-### aufgedeckt
+* [https://www.spiegel.de/panorama/justiz/leichlingen-mann-von-durchfahrendem-ice-erfasst](https://www.spiegel.de/panorama/justiz/leichlingen-mann-von-durchfahrendem-ice-erfasst-a-3f3cc0ee-8134-4ca2-9d68-a56bca2081fd#ref=rss)
+* [https://www.spiegel.de/panorama/toiletten-in-deutschland-mehrheit-der-menschen-unzufrieden](https://www.spiegel.de/panorama/toiletten-in-deutschland-mehrheit-der-menschen-unzufrieden-a-42003b67-c18e-45c5-95ec-4487f1087ab3#ref=rss)
+* [https://www.spiegel.de/panorama/istanbul-auch-mutter-an-mutmasslicher-lebensmittelvergiftung-gestorben](https://www.spiegel.de/panorama/istanbul-auch-mutter-an-mutmasslicher-lebensmittelvergiftung-gestorben-a-b85f9135-b237-4394-b2c2-317c5c896cdf#ref=rss)
+### hilfe
 
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-### weit
+* [https://www.spiegel.de/wirtschaft/soziales/berlins-konjunkturprogramm-jetzt-braucht-merz-hilfe-aus-bruessel](https://www.spiegel.de/wirtschaft/soziales/berlins-konjunkturprogramm-jetzt-braucht-merz-hilfe-aus-bruessel-a-5f810eac-ad0d-4e03-b625-14418f731cf9#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/julia-kloeckner-zur-prostitution-in-deutschland-moral-ist-billig-hilfe-kostet](https://www.spiegel.de/panorama/gesellschaft/julia-kloeckner-zur-prostitution-in-deutschland-moral-ist-billig-hilfe-kostet-a-cd9f681b-46c4-467b-b6f6-708ae7b2f1e8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-amazon-und-microsoft-erwaegen-einschraenkung-von-chip-exporten-nach-china](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-amazon-und-microsoft-erwaegen-einschraenkung-von-chip-exporten-nach-china-a-06deb2ee-905e-49be-bff2-42191e3a3410#ref=rss)
+### cher
 
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-### umfeld
+* [https://www.spiegel.de/panorama/leute/cher-megastar-sieht-sich-nicht-als-legende-sondern-als-arbeitende-frau](https://www.spiegel.de/panorama/leute/cher-megastar-sieht-sich-nicht-als-legende-sondern-als-arbeitende-frau-a-88adadc2-eda4-410a-8159-096b2041d497#ref=rss)
+### russland
 
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-### präsident
+* [https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video](https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video-a-2e73bd89-3135-4e22-8c5f-8f8aa9baa214#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote](https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote-a-7e577dd4-6908-4965-89a3-3fbd819f4fb4#ref=rss)
+### hunderte
 
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-### reichen
+* [https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video](https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video-a-2e73bd89-3135-4e22-8c5f-8f8aa9baa214#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-und-berlin-ermittler-gehen-gegen-mutmassliche-schleuser-vor](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-und-berlin-ermittler-gehen-gegen-mutmassliche-schleuser-vor-a-9cc9f842-eef5-4aaf-9c06-2d0cf231d437#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote](https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote-a-7e577dd4-6908-4965-89a3-3fbd819f4fb4#ref=rss)
+### angegriffen
 
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-### ausgerechnet
+* [https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video](https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video-a-2e73bd89-3135-4e22-8c5f-8f8aa9baa214#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bad-kleinen-in-mecklenburg-vorpommern-37-jaehriger-soll-mann-angegriffen-und-getoetet-haben](https://www.spiegel.de/panorama/justiz/bad-kleinen-in-mecklenburg-vorpommern-37-jaehriger-soll-mann-angegriffen-und-getoetet-haben-a-00eccb8a-98de-44d7-9d1d-44dc7a636c99#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote](https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote-a-7e577dd4-6908-4965-89a3-3fbd819f4fb4#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-### schmutzige
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-wird-bei-der-fussball-wm-2026-tv-experte](https://www.spiegel.de/sport/fussball/juergen-klopp-wird-bei-der-fussball-wm-2026-tv-experte-a-51316129-1bff-46a7-a139-2d954b4f7597#ref=rss)
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-droht-sperre-im-ersten-spiel-der-wm-2026](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-droht-sperre-im-ersten-spiel-der-wm-2026-a-b93ab774-63a5-4bbb-9e25-548a8a7ca67a#ref=rss)
+### badenwürttemberg
 
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-### geschäfte
-
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-### schutz
-
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-### energieversorgung
-
-* [https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption](https://www.spiegel.de/ausland/ukraine-was-tut-wolodymyr-selenskyj-gegen-die-korruption-a-cd3d2023-4fbf-4984-a7b1-4f57bc93e625#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast](https://www.spiegel.de/ausland/ukraine-kaempft-wolodymyr-selenskyj-glaubhaft-gegen-die-korruption-podcast-a-5dd464ee-f380-4034-991f-72b1f43258fa#ref=rss)
-### pokrowsk
-
-* [https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen](https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen-a-798ce74c-e5f3-46fa-98e5-33189eb69b4d#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen](https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen-a-798ce74c-e5f3-46fa-98e5-33189eb69b4d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte](https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte-a-51048f2a-b1a3-4aee-a337-728143a20d9c#ref=rss)
-### russische
-
-* [https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen](https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen-a-798ce74c-e5f3-46fa-98e5-33189eb69b4d#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen](https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen-a-798ce74c-e5f3-46fa-98e5-33189eb69b4d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal-a-9e3efb77-ba60-4a71-a0fe-9202e3958e7e#ref=rss)
-### rund
-
-* [https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen](https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen-a-798ce74c-e5f3-46fa-98e5-33189eb69b4d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015](https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015-a-7db55da4-3c8e-4e37-ac72-6950bf692af2#ref=rss)
-### liegt
-
-* [https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen](https://www.spiegel.de/ausland/kampf-um-pokrowsk-video-zeigt-russische-mad-max-truppen-a-798ce74c-e5f3-46fa-98e5-33189eb69b4d#ref=rss)
-* [https://www.spiegel.de/panorama/selbstbestimmungsgesetz-geschlechtsaenderung-als-karrierevorteil-bei-der-polizei](https://www.spiegel.de/panorama/selbstbestimmungsgesetz-geschlechtsaenderung-als-karrierevorteil-bei-der-polizei-a-ff2c63d1-8d32-4900-ad8f-f11239c74d22#ref=rss)
-### dauert
-
-* [https://www.spiegel.de/panorama/polarlichter-ueber-matterhorn-farbenpracht-am-naechtlichen-himmel](https://www.spiegel.de/panorama/polarlichter-ueber-matterhorn-farbenpracht-am-naechtlichen-himmel-a-6d0ef69d-e9b8-4ecd-a6cf-4de92bcc0c25#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte](https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte-a-51048f2a-b1a3-4aee-a337-728143a20d9c#ref=rss)
-### nrw
-
-* [https://www.spiegel.de/panorama/selbstbestimmungsgesetz-geschlechtsaenderung-als-karrierevorteil-bei-der-polizei](https://www.spiegel.de/panorama/selbstbestimmungsgesetz-geschlechtsaenderung-als-karrierevorteil-bei-der-polizei-a-ff2c63d1-8d32-4900-ad8f-f11239c74d22#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frechen-in-nrw-polizei-findet-sprengmittel-in-unfallwagen-auf-der-autobahn](https://www.spiegel.de/panorama/justiz/frechen-in-nrw-polizei-findet-sprengmittel-in-unfallwagen-auf-der-autobahn-a-fce8015f-af63-463c-81f1-4060c737cac0#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/panorama/selbstbestimmungsgesetz-geschlechtsaenderung-als-karrierevorteil-bei-der-polizei](https://www.spiegel.de/panorama/selbstbestimmungsgesetz-geschlechtsaenderung-als-karrierevorteil-bei-der-polizei-a-ff2c63d1-8d32-4900-ad8f-f11239c74d22#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kita-krise-experte-warnt-vor-abbau-von-kitaplaetzen-trotz-geburtenrueckgang](https://www.spiegel.de/panorama/bildung/kita-krise-experte-warnt-vor-abbau-von-kitaplaetzen-trotz-geburtenrueckgang-a-ee899d7d-0213-4523-a531-d86a67f810b5#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte](https://www.spiegel.de/panorama/justiz/polizei-gleichstellung-von-frauen-dauert-schon-jahrzehnte-a-51048f2a-b1a3-4aee-a337-728143a20d9c#ref=rss)
-### joachim
-
-* [https://www.spiegel.de/wirtschaft/ezb-bundesbankpraesident-joachim-nagel-traut-sich-nachfolge-von-christine-lagarde-zu](https://www.spiegel.de/wirtschaft/ezb-bundesbankpraesident-joachim-nagel-traut-sich-nachfolge-von-christine-lagarde-zu-a-a5c160a4-1eed-4880-b589-1f6cb94b3b6f#ref=rss)
-### nagel
-
-* [https://www.spiegel.de/wirtschaft/ezb-bundesbankpraesident-joachim-nagel-traut-sich-nachfolge-von-christine-lagarde-zu](https://www.spiegel.de/wirtschaft/ezb-bundesbankpraesident-joachim-nagel-traut-sich-nachfolge-von-christine-lagarde-zu-a-a5c160a4-1eed-4880-b589-1f6cb94b3b6f#ref=rss)
-### taleb
-
-* [https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-taleb-al-abdulmohsen-ueberstimmte-kollisionssysteme](https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-taleb-al-abdulmohsen-ueberstimmte-kollisionssysteme-a-f1e6b108-77a0-4a65-ad0d-52ecf83b9185#ref=rss)
-### al
-
-* [https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-taleb-al-abdulmohsen-ueberstimmte-kollisionssysteme](https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-taleb-al-abdulmohsen-ueberstimmte-kollisionssysteme-a-f1e6b108-77a0-4a65-ad0d-52ecf83b9185#ref=rss)
-### abdulmohsen
-
-* [https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-taleb-al-abdulmohsen-ueberstimmte-kollisionssysteme](https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-taleb-al-abdulmohsen-ueberstimmte-kollisionssysteme-a-f1e6b108-77a0-4a65-ad0d-52ecf83b9185#ref=rss)
-### waren
-
-* [https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-taleb-al-abdulmohsen-ueberstimmte-kollisionssysteme](https://www.spiegel.de/panorama/justiz/weihnachtsmarkt-in-magdeburg-taleb-al-abdulmohsen-ueberstimmte-kollisionssysteme-a-f1e6b108-77a0-4a65-ad0d-52ecf83b9185#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frechen-in-nrw-polizei-findet-sprengmittel-in-unfallwagen-auf-der-autobahn](https://www.spiegel.de/panorama/justiz/frechen-in-nrw-polizei-findet-sprengmittel-in-unfallwagen-auf-der-autobahn-a-fce8015f-af63-463c-81f1-4060c737cac0#ref=rss)
-### pawel
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen-a-98949d5f-d936-432f-93f6-f53e69e01690#ref=rss)
-### durow
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen-a-98949d5f-d936-432f-93f6-f53e69e01690#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen-a-98949d5f-d936-432f-93f6-f53e69e01690#ref=rss)
-### verlassen
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen-a-98949d5f-d936-432f-93f6-f53e69e01690#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen](https://www.spiegel.de/netzwelt/netzpolitik/pawel-durow-telegram-gruender-darf-frankreich-wieder-uneingeschraenkt-verlassen-a-98949d5f-d936-432f-93f6-f53e69e01690#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/red-bull-eu-kommission-ermittelt-gegen-energy-drink-hersteller](https://www.spiegel.de/wirtschaft/unternehmen/red-bull-eu-kommission-ermittelt-gegen-energy-drink-hersteller-a-f4178135-bc02-442f-8bcf-9021240d0c70#ref=rss)
-### shein
-
-* [https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen](https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen-a-c6b84e71-1833-4584-9d78-bd8ce6bad519#ref=rss)
-### temu
-
-* [https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen](https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen-a-c6b84e71-1833-4584-9d78-bd8ce6bad519#ref=rss)
-### davon
-
-* [https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen](https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen-a-c6b84e71-1833-4584-9d78-bd8ce6bad519#ref=rss)
-* [https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015](https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015-a-7db55da4-3c8e-4e37-ac72-6950bf692af2#ref=rss)
-### wettbewerb
-
-* [https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen](https://www.spiegel.de/wirtschaft/service/amazon-shein-temu-und-co-eu-will-zollfreiheit-fuer-billigpakete-abschaffen-a-c6b84e71-1833-4584-9d78-bd8ce6bad519#ref=rss)
-* [https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb](https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb-a-848a7c95-4550-4a3a-8682-ce32e2c29dcb#ref=rss)
-### nahe
-
-* [https://www.spiegel.de/panorama/justiz/frechen-in-nrw-polizei-findet-sprengmittel-in-unfallwagen-auf-der-autobahn](https://www.spiegel.de/panorama/justiz/frechen-in-nrw-polizei-findet-sprengmittel-in-unfallwagen-auf-der-autobahn-a-fce8015f-af63-463c-81f1-4060c737cac0#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal-a-9e3efb77-ba60-4a71-a0fe-9202e3958e7e#ref=rss)
-### iea
-
-* [https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage](https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage-a-6daf2ce1-d713-473b-8b12-2f87145a051f#ref=rss)
-### uskritik
-
-* [https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage](https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage-a-6daf2ce1-d713-473b-8b12-2f87145a051f#ref=rss)
-### steigender
-
-* [https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage](https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage-a-6daf2ce1-d713-473b-8b12-2f87145a051f#ref=rss)
-### pariser
-
-* [https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage](https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage-a-6daf2ce1-d713-473b-8b12-2f87145a051f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015](https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015-a-7db55da4-3c8e-4e37-ac72-6950bf692af2#ref=rss)
-### nachfrage
-
-* [https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage](https://www.spiegel.de/wirtschaft/internationale-energieagentur-iea-aendert-nach-us-kritik-prognose-und-rechnet-nun-mit-weiter-steigender-oel-nachfrage-a-6daf2ce1-d713-473b-8b12-2f87145a051f#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kita-krise-experte-warnt-vor-abbau-von-kitaplaetzen-trotz-geburtenrueckgang](https://www.spiegel.de/panorama/bildung/kita-krise-experte-warnt-vor-abbau-von-kitaplaetzen-trotz-geburtenrueckgang-a-ee899d7d-0213-4523-a531-d86a67f810b5#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/wissenschaft/kuerzungsplaene-an-berliner-hochschule-leute-studiert-archaeologie](https://www.spiegel.de/wissenschaft/kuerzungsplaene-an-berliner-hochschule-leute-studiert-archaeologie-a-d046ab3d-5496-4f65-b67b-f7ff74dab412#ref=rss)
-### verändern
-
-* [https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben](https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben-a-6fb14cf1-fb94-4b48-a5f0-1f5533102adb#ref=rss)
-### vielen
-
-* [https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben](https://www.spiegel.de/geschichte/wie-jugendrebellionen-die-welt-veraendern-mit-wanderschuhen-und-puddingbomben-a-6fb14cf1-fb94-4b48-a5f0-1f5533102adb#ref=rss)
-* [https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb](https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb-a-848a7c95-4550-4a3a-8682-ce32e2c29dcb#ref=rss)
-### merz
-
-* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal](https://www.spiegel.de/ausland/ukraine-friedrich-merz-fordert-von-ukraine-aufklaerung-im-korruptionsskandal-a-9e3efb77-ba60-4a71-a0fe-9202e3958e7e#ref=rss)
-### experte
-
-* [https://www.spiegel.de/panorama/bildung/kita-krise-experte-warnt-vor-abbau-von-kitaplaetzen-trotz-geburtenrueckgang](https://www.spiegel.de/panorama/bildung/kita-krise-experte-warnt-vor-abbau-von-kitaplaetzen-trotz-geburtenrueckgang-a-ee899d7d-0213-4523-a531-d86a67f810b5#ref=rss)
-* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger-a-ee392080-49f4-48eb-ac94-7a416168b53c#ref=rss)
-### trump
-
-* [https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten](https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten-a-052bfdea-1602-41a1-9e1a-07e34403797a#ref=rss)
-### colbert
-
-* [https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten](https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten-a-052bfdea-1602-41a1-9e1a-07e34403797a#ref=rss)
-### uspräsidenten
-
-* [https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten](https://www.spiegel.de/kultur/tv/donald-trump-stephen-colbert-laestert-ueber-seltsamen-winzigen-penis-des-us-praesidenten-a-052bfdea-1602-41a1-9e1a-07e34403797a#ref=rss)
-### lauri
-
-* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger-a-ee392080-49f4-48eb-ac94-7a416168b53c#ref=rss)
-### myllyvirta
-
-* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger-a-ee392080-49f4-48eb-ac94-7a416168b53c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/telemedizin-supermarkt-in-baden-wuerttemberg-bietet-videosprechstunden-beim-arzt-an](https://www.spiegel.de/wirtschaft/telemedizin-supermarkt-in-baden-wuerttemberg-bietet-videosprechstunden-beim-arzt-an-a-eb056946-93b2-4e4d-9afb-fdfdf45eb2f9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-und-berlin-ermittler-gehen-gegen-mutmassliche-schleuser-vor](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-und-berlin-ermittler-gehen-gegen-mutmassliche-schleuser-vor-a-9cc9f842-eef5-4aaf-9c06-2d0cf231d437#ref=rss)
 ### china
 
-* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger-a-ee392080-49f4-48eb-ac94-7a416168b53c#ref=rss)
-### klimaschutz
+* [https://www.spiegel.de/wissenschaft/shenzhou-20-china-holt-gestrandete-raumfahrer-aus-dem-all-zurueck](https://www.spiegel.de/wissenschaft/shenzhou-20-china-holt-gestrandete-raumfahrer-aus-dem-all-zurueck-a-e33577d7-6269-425a-8076-90ffd97fed4c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-amazon-und-microsoft-erwaegen-einschraenkung-von-chip-exporten-nach-china](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-amazon-und-microsoft-erwaegen-einschraenkung-von-chip-exporten-nach-china-a-06deb2ee-905e-49be-bff2-42191e3a3410#ref=rss)
+### fast
 
-* [https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger](https://www.spiegel.de/ausland/klimakonferenz-cop30-in-belem-lauri-myllyvirta-china-ist-ein-echter-gamechanger-a-ee392080-49f4-48eb-ac94-7a416168b53c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015](https://www.spiegel.de/wissenschaft/pariser-klimaabkommen-rueckblick-auf-die-hoffnungen-und-enttaeuschungen-seit-2015-a-7db55da4-3c8e-4e37-ac72-6950bf692af2#ref=rss)
-### red
+* [https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote](https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote-a-7e577dd4-6908-4965-89a3-3fbd819f4fb4#ref=rss)
+* [https://www.spiegel.de/panorama/leute/unheilig-der-graf-stuerzt-bei-auftaktkonzert-der-comeback-tour-von-der-buehne](https://www.spiegel.de/panorama/leute/unheilig-der-graf-stuerzt-bei-auftaktkonzert-der-comeback-tour-von-der-buehne-a-da223dbd-b5d8-4876-9d47-24d13ca6a398#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cannabis-in-deutschland-fast-jeder-zehnte-erwachsene-kifft](https://www.spiegel.de/wissenschaft/cannabis-in-deutschland-fast-jeder-zehnte-erwachsene-kifft-a-16930a20-4445-4128-8aea-343b92c99430#ref=rss)
+### wettbewerb
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/red-bull-eu-kommission-ermittelt-gegen-energy-drink-hersteller](https://www.spiegel.de/wirtschaft/unternehmen/red-bull-eu-kommission-ermittelt-gegen-energy-drink-hersteller-a-f4178135-bc02-442f-8bcf-9021240d0c70#ref=rss)
-### bull
+* [https://www.spiegel.de/wirtschaft/google-muss-idealo-465-millionen-euro-schadenersatz-wegen-unfairem-wettbewerb-zahlen](https://www.spiegel.de/wirtschaft/google-muss-idealo-465-millionen-euro-schadenersatz-wegen-unfairem-wettbewerb-zahlen-a-b0ff79e4-bfd8-42d2-bdc5-2fc14eace074#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-amazon-und-microsoft-erwaegen-einschraenkung-von-chip-exporten-nach-china](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-amazon-und-microsoft-erwaegen-einschraenkung-von-chip-exporten-nach-china-a-06deb2ee-905e-49be-bff2-42191e3a3410#ref=rss)
+### ariana
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/red-bull-eu-kommission-ermittelt-gegen-energy-drink-hersteller](https://www.spiegel.de/wirtschaft/unternehmen/red-bull-eu-kommission-ermittelt-gegen-energy-drink-hersteller-a-f4178135-bc02-442f-8bcf-9021240d0c70#ref=rss)
-### eukommission
+* [https://www.spiegel.de/kultur/kino/ariana-grande-wird-bei-wicked-premiere-von-mann-bedraengt](https://www.spiegel.de/kultur/kino/ariana-grande-wird-bei-wicked-premiere-von-mann-bedraengt-a-d599cf77-5851-4787-b4dc-e0ec8086121e#ref=rss)
+### grande
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/red-bull-eu-kommission-ermittelt-gegen-energy-drink-hersteller](https://www.spiegel.de/wirtschaft/unternehmen/red-bull-eu-kommission-ermittelt-gegen-energy-drink-hersteller-a-f4178135-bc02-442f-8bcf-9021240d0c70#ref=rss)
+* [https://www.spiegel.de/kultur/kino/ariana-grande-wird-bei-wicked-premiere-von-mann-bedraengt](https://www.spiegel.de/kultur/kino/ariana-grande-wird-bei-wicked-premiere-von-mann-bedraengt-a-d599cf77-5851-4787-b4dc-e0ec8086121e#ref=rss)
+### bedrängt
+
+* [https://www.spiegel.de/kultur/kino/ariana-grande-wird-bei-wicked-premiere-von-mann-bedraengt](https://www.spiegel.de/kultur/kino/ariana-grande-wird-bei-wicked-premiere-von-mann-bedraengt-a-d599cf77-5851-4787-b4dc-e0ec8086121e#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/kultur/kino/ariana-grande-wird-bei-wicked-premiere-von-mann-bedraengt](https://www.spiegel.de/kultur/kino/ariana-grande-wird-bei-wicked-premiere-von-mann-bedraengt-a-d599cf77-5851-4787-b4dc-e0ec8086121e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-wollen-zoelle-fuer-vier-lateinamerikanische-laender-abschaffen](https://www.spiegel.de/wirtschaft/usa-wollen-zoelle-fuer-vier-lateinamerikanische-laender-abschaffen-a-f0d4014a-2f1e-4fb4-9b27-8f36f761ef19#ref=rss)
+### krankenhaus
+
+* [https://www.spiegel.de/panorama/justiz/leichlingen-mann-von-durchfahrendem-ice-erfasst](https://www.spiegel.de/panorama/justiz/leichlingen-mann-von-durchfahrendem-ice-erfasst-a-3f3cc0ee-8134-4ca2-9d68-a56bca2081fd#ref=rss)
+* [https://www.spiegel.de/panorama/istanbul-auch-mutter-an-mutmasslicher-lebensmittelvergiftung-gestorben](https://www.spiegel.de/panorama/istanbul-auch-mutter-an-mutmasslicher-lebensmittelvergiftung-gestorben-a-b85f9135-b237-4394-b2c2-317c5c896cdf#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-leif-randt-lets-talk-about-feelings](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-leif-randt-lets-talk-about-feelings-a-1482fa3e-486f-4528-881c-58086f057831#ref=rss)
+### leif
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-leif-randt-lets-talk-about-feelings](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-leif-randt-lets-talk-about-feelings-a-1482fa3e-486f-4528-881c-58086f057831#ref=rss)
+### randt
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-leif-randt-lets-talk-about-feelings](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-leif-randt-lets-talk-about-feelings-a-1482fa3e-486f-4528-881c-58086f057831#ref=rss)
+### feelings
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-leif-randt-lets-talk-about-feelings](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-leif-randt-lets-talk-about-feelings-a-1482fa3e-486f-4528-881c-58086f057831#ref=rss)
+### großen
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-leif-randt-lets-talk-about-feelings](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-leif-randt-lets-talk-about-feelings-a-1482fa3e-486f-4528-881c-58086f057831#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lebenshaltungskosten-so-teuer-ist-das-leben-in-ihrem-landkreis](https://www.spiegel.de/wirtschaft/lebenshaltungskosten-so-teuer-ist-das-leben-in-ihrem-landkreis-a-95f7e431-fd28-4b9f-b116-39cfdee5bd49#ref=rss)
+### mediamarktsaturn
+
+* [https://www.spiegel.de/wirtschaft/mediamarkt-saturn-chinesen-sichern-sich-grosse-mehrheit-an-firmengruppe](https://www.spiegel.de/wirtschaft/mediamarkt-saturn-chinesen-sichern-sich-grosse-mehrheit-an-firmengruppe-a-f3f05a25-693d-48f6-8655-8f0cc8d72c76#ref=rss)
+### mehrheit
+
+* [https://www.spiegel.de/wirtschaft/mediamarkt-saturn-chinesen-sichern-sich-grosse-mehrheit-an-firmengruppe](https://www.spiegel.de/wirtschaft/mediamarkt-saturn-chinesen-sichern-sich-grosse-mehrheit-an-firmengruppe-a-f3f05a25-693d-48f6-8655-8f0cc8d72c76#ref=rss)
+* [https://www.spiegel.de/panorama/toiletten-in-deutschland-mehrheit-der-menschen-unzufrieden](https://www.spiegel.de/panorama/toiletten-in-deutschland-mehrheit-der-menschen-unzufrieden-a-42003b67-c18e-45c5-95ec-4487f1087ab3#ref=rss)
+### chinesische
+
+* [https://www.spiegel.de/wirtschaft/mediamarkt-saturn-chinesen-sichern-sich-grosse-mehrheit-an-firmengruppe](https://www.spiegel.de/wirtschaft/mediamarkt-saturn-chinesen-sichern-sich-grosse-mehrheit-an-firmengruppe-a-f3f05a25-693d-48f6-8655-8f0cc8d72c76#ref=rss)
+* [https://www.spiegel.de/wissenschaft/shenzhou-20-china-holt-gestrandete-raumfahrer-aus-dem-all-zurueck](https://www.spiegel.de/wissenschaft/shenzhou-20-china-holt-gestrandete-raumfahrer-aus-dem-all-zurueck-a-e33577d7-6269-425a-8076-90ffd97fed4c#ref=rss)
+### brüssel
+
+* [https://www.spiegel.de/wirtschaft/soziales/berlins-konjunkturprogramm-jetzt-braucht-merz-hilfe-aus-bruessel](https://www.spiegel.de/wirtschaft/soziales/berlins-konjunkturprogramm-jetzt-braucht-merz-hilfe-aus-bruessel-a-5f810eac-ad0d-4e03-b625-14418f731cf9#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb](https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb-a-848a7c95-4550-4a3a-8682-ce32e2c29dcb#ref=rss)
-### oper
+* [https://www.spiegel.de/wirtschaft/soziales/berlins-konjunkturprogramm-jetzt-braucht-merz-hilfe-aus-bruessel](https://www.spiegel.de/wirtschaft/soziales/berlins-konjunkturprogramm-jetzt-braucht-merz-hilfe-aus-bruessel-a-5f810eac-ad0d-4e03-b625-14418f731cf9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lebenshaltungskosten-so-teuer-ist-das-leben-in-ihrem-landkreis](https://www.spiegel.de/wirtschaft/lebenshaltungskosten-so-teuer-ist-das-leben-in-ihrem-landkreis-a-95f7e431-fd28-4b9f-b116-39cfdee5bd49#ref=rss)
+### wirtschaft
 
-* [https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb](https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb-a-848a7c95-4550-4a3a-8682-ce32e2c29dcb#ref=rss)
-### hamburg
+* [https://www.spiegel.de/wirtschaft/soziales/berlins-konjunkturprogramm-jetzt-braucht-merz-hilfe-aus-bruessel](https://www.spiegel.de/wirtschaft/soziales/berlins-konjunkturprogramm-jetzt-braucht-merz-hilfe-aus-bruessel-a-5f810eac-ad0d-4e03-b625-14418f731cf9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schuldneratlas-2025-zahl-ueberschuldeter-menschen-erneut-gestiegen-kein-randphaenomen-mehr](https://www.spiegel.de/wirtschaft/schuldneratlas-2025-zahl-ueberschuldeter-menschen-erneut-gestiegen-kein-randphaenomen-mehr-a-cd5a3117-9884-4913-969c-56b5d6f124ee#ref=rss)
+### zahl
 
-* [https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb](https://www.spiegel.de/kultur/neue-oper-fuer-hamburg-bjarne-ingels-group-gewinnt-wettbewerb-a-848a7c95-4550-4a3a-8682-ce32e2c29dcb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schuldneratlas-2025-zahl-ueberschuldeter-menschen-erneut-gestiegen-kein-randphaenomen-mehr](https://www.spiegel.de/wirtschaft/schuldneratlas-2025-zahl-ueberschuldeter-menschen-erneut-gestiegen-kein-randphaenomen-mehr-a-cd5a3117-9884-4913-969c-56b5d6f124ee#ref=rss)
+### gestiegen
+
+* [https://www.spiegel.de/wirtschaft/schuldneratlas-2025-zahl-ueberschuldeter-menschen-erneut-gestiegen-kein-randphaenomen-mehr](https://www.spiegel.de/wirtschaft/schuldneratlas-2025-zahl-ueberschuldeter-menschen-erneut-gestiegen-kein-randphaenomen-mehr-a-cd5a3117-9884-4913-969c-56b5d6f124ee#ref=rss)
+### macht
+
+* [https://www.spiegel.de/wirtschaft/schuldneratlas-2025-zahl-ueberschuldeter-menschen-erneut-gestiegen-kein-randphaenomen-mehr](https://www.spiegel.de/wirtschaft/schuldneratlas-2025-zahl-ueberschuldeter-menschen-erneut-gestiegen-kein-randphaenomen-mehr-a-cd5a3117-9884-4913-969c-56b5d6f124ee#ref=rss)
+* [https://www.spiegel.de/netzwelt/google-macht-nach-milliarden-strafe-werbe-zusagen-an-eu-kommission](https://www.spiegel.de/netzwelt/google-macht-nach-milliarden-strafe-werbe-zusagen-an-eu-kommission-a-05c7031d-3ecd-476f-9b3a-e5facc9feee4#ref=rss)
+### schaffen
+
+* [https://www.spiegel.de/wirtschaft/schuldneratlas-2025-zahl-ueberschuldeter-menschen-erneut-gestiegen-kein-randphaenomen-mehr](https://www.spiegel.de/wirtschaft/schuldneratlas-2025-zahl-ueberschuldeter-menschen-erneut-gestiegen-kein-randphaenomen-mehr-a-cd5a3117-9884-4913-969c-56b5d6f124ee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/telemedizin-supermarkt-in-baden-wuerttemberg-bietet-videosprechstunden-beim-arzt-an](https://www.spiegel.de/wirtschaft/telemedizin-supermarkt-in-baden-wuerttemberg-bietet-videosprechstunden-beim-arzt-an-a-eb056946-93b2-4e4d-9afb-fdfdf45eb2f9#ref=rss)
+### kindern
+
+* [https://www.spiegel.de/wissenschaft/usa-mehr-teenager-sterben-nach-schuessen-als-bei-verkehrsunfaellen-laut-studie](https://www.spiegel.de/wissenschaft/usa-mehr-teenager-sterben-nach-schuessen-als-bei-verkehrsunfaellen-laut-studie-a-fa7531be-a24c-42a9-8db2-e7eb100c3461#ref=rss)
+* [https://www.spiegel.de/panorama/istanbul-auch-mutter-an-mutmasslicher-lebensmittelvergiftung-gestorben](https://www.spiegel.de/panorama/istanbul-auch-mutter-an-mutmasslicher-lebensmittelvergiftung-gestorben-a-b85f9135-b237-4394-b2c2-317c5c896cdf#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wissenschaft/usa-mehr-teenager-sterben-nach-schuessen-als-bei-verkehrsunfaellen-laut-studie](https://www.spiegel.de/wissenschaft/usa-mehr-teenager-sterben-nach-schuessen-als-bei-verkehrsunfaellen-laut-studie-a-fa7531be-a24c-42a9-8db2-e7eb100c3461#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cannabis-in-deutschland-fast-jeder-zehnte-erwachsene-kifft](https://www.spiegel.de/wissenschaft/cannabis-in-deutschland-fast-jeder-zehnte-erwachsene-kifft-a-16930a20-4445-4128-8aea-343b92c99430#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/wissenschaft/usa-mehr-teenager-sterben-nach-schuessen-als-bei-verkehrsunfaellen-laut-studie](https://www.spiegel.de/wissenschaft/usa-mehr-teenager-sterben-nach-schuessen-als-bei-verkehrsunfaellen-laut-studie-a-fa7531be-a24c-42a9-8db2-e7eb100c3461#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cannabis-in-deutschland-fast-jeder-zehnte-erwachsene-kifft](https://www.spiegel.de/wissenschaft/cannabis-in-deutschland-fast-jeder-zehnte-erwachsene-kifft-a-16930a20-4445-4128-8aea-343b92c99430#ref=rss)
+### stuttgart
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-polizei-ermittelt-gegen-mitarbeiter-der-staatsanwaltschaft](https://www.spiegel.de/panorama/justiz/stuttgart-polizei-ermittelt-gegen-mitarbeiter-der-staatsanwaltschaft-a-f9e628f6-c08e-40fa-bdb3-6a7bfab96d7a#ref=rss)
+### mitarbeiter
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-polizei-ermittelt-gegen-mitarbeiter-der-staatsanwaltschaft](https://www.spiegel.de/panorama/justiz/stuttgart-polizei-ermittelt-gegen-mitarbeiter-der-staatsanwaltschaft-a-f9e628f6-c08e-40fa-bdb3-6a7bfab96d7a#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-polizei-ermittelt-gegen-mitarbeiter-der-staatsanwaltschaft](https://www.spiegel.de/panorama/justiz/stuttgart-polizei-ermittelt-gegen-mitarbeiter-der-staatsanwaltschaft-a-f9e628f6-c08e-40fa-bdb3-6a7bfab96d7a#ref=rss)
+### verdacht
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-polizei-ermittelt-gegen-mitarbeiter-der-staatsanwaltschaft](https://www.spiegel.de/panorama/justiz/stuttgart-polizei-ermittelt-gegen-mitarbeiter-der-staatsanwaltschaft-a-f9e628f6-c08e-40fa-bdb3-6a7bfab96d7a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-und-berlin-ermittler-gehen-gegen-mutmassliche-schleuser-vor](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-und-berlin-ermittler-gehen-gegen-mutmassliche-schleuser-vor-a-9cc9f842-eef5-4aaf-9c06-2d0cf231d437#ref=rss)
+### blue
+
+* [https://www.spiegel.de/wissenschaft/weltall/blue-origin-rakete-von-jeff-bezos-gelingt-rueckkehr](https://www.spiegel.de/wissenschaft/weltall/blue-origin-rakete-von-jeff-bezos-gelingt-rueckkehr-a-c5681178-2551-4328-8f9f-a370ee0beec1#ref=rss)
+### origin
+
+* [https://www.spiegel.de/wissenschaft/weltall/blue-origin-rakete-von-jeff-bezos-gelingt-rueckkehr](https://www.spiegel.de/wissenschaft/weltall/blue-origin-rakete-von-jeff-bezos-gelingt-rueckkehr-a-c5681178-2551-4328-8f9f-a370ee0beec1#ref=rss)
+### rückkehr
+
+* [https://www.spiegel.de/wissenschaft/weltall/blue-origin-rakete-von-jeff-bezos-gelingt-rueckkehr](https://www.spiegel.de/wissenschaft/weltall/blue-origin-rakete-von-jeff-bezos-gelingt-rueckkehr-a-c5681178-2551-4328-8f9f-a370ee0beec1#ref=rss)
+### megastar
+
+* [https://www.spiegel.de/panorama/leute/cher-megastar-sieht-sich-nicht-als-legende-sondern-als-arbeitende-frau](https://www.spiegel.de/panorama/leute/cher-megastar-sieht-sich-nicht-als-legende-sondern-als-arbeitende-frau-a-88adadc2-eda4-410a-8159-096b2041d497#ref=rss)
+### legende
+
+* [https://www.spiegel.de/panorama/leute/cher-megastar-sieht-sich-nicht-als-legende-sondern-als-arbeitende-frau](https://www.spiegel.de/panorama/leute/cher-megastar-sieht-sich-nicht-als-legende-sondern-als-arbeitende-frau-a-88adadc2-eda4-410a-8159-096b2041d497#ref=rss)
+### teppich
+
+* [https://www.spiegel.de/panorama/leute/cher-megastar-sieht-sich-nicht-als-legende-sondern-als-arbeitende-frau](https://www.spiegel.de/panorama/leute/cher-megastar-sieht-sich-nicht-als-legende-sondern-als-arbeitende-frau-a-88adadc2-eda4-410a-8159-096b2041d497#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/panorama/toiletten-in-deutschland-mehrheit-der-menschen-unzufrieden](https://www.spiegel.de/panorama/toiletten-in-deutschland-mehrheit-der-menschen-unzufrieden-a-42003b67-c18e-45c5-95ec-4487f1087ab3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-und-berlin-ermittler-gehen-gegen-mutmassliche-schleuser-vor](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-und-berlin-ermittler-gehen-gegen-mutmassliche-schleuser-vor-a-9cc9f842-eef5-4aaf-9c06-2d0cf231d437#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/panorama/toiletten-in-deutschland-mehrheit-der-menschen-unzufrieden](https://www.spiegel.de/panorama/toiletten-in-deutschland-mehrheit-der-menschen-unzufrieden-a-42003b67-c18e-45c5-95ec-4487f1087ab3#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/julia-kloeckner-zur-prostitution-in-deutschland-moral-ist-billig-hilfe-kostet](https://www.spiegel.de/panorama/gesellschaft/julia-kloeckner-zur-prostitution-in-deutschland-moral-ist-billig-hilfe-kostet-a-cd9f681b-46c4-467b-b6f6-708ae7b2f1e8#ref=rss)
+### julia
+
+* [https://www.spiegel.de/panorama/gesellschaft/julia-kloeckner-zur-prostitution-in-deutschland-moral-ist-billig-hilfe-kostet](https://www.spiegel.de/panorama/gesellschaft/julia-kloeckner-zur-prostitution-in-deutschland-moral-ist-billig-hilfe-kostet-a-cd9f681b-46c4-467b-b6f6-708ae7b2f1e8#ref=rss)
+### klöckner
+
+* [https://www.spiegel.de/panorama/gesellschaft/julia-kloeckner-zur-prostitution-in-deutschland-moral-ist-billig-hilfe-kostet](https://www.spiegel.de/panorama/gesellschaft/julia-kloeckner-zur-prostitution-in-deutschland-moral-ist-billig-hilfe-kostet-a-cd9f681b-46c4-467b-b6f6-708ae7b2f1e8#ref=rss)
+### istanbul
+
+* [https://www.spiegel.de/panorama/istanbul-auch-mutter-an-mutmasslicher-lebensmittelvergiftung-gestorben](https://www.spiegel.de/panorama/istanbul-auch-mutter-an-mutmasslicher-lebensmittelvergiftung-gestorben-a-b85f9135-b237-4394-b2c2-317c5c896cdf#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/istanbul-auch-mutter-an-mutmasslicher-lebensmittelvergiftung-gestorben](https://www.spiegel.de/panorama/istanbul-auch-mutter-an-mutmasslicher-lebensmittelvergiftung-gestorben-a-b85f9135-b237-4394-b2c2-317c5c896cdf#ref=rss)
+### lebensmittelvergiftung
+
+* [https://www.spiegel.de/panorama/istanbul-auch-mutter-an-mutmasslicher-lebensmittelvergiftung-gestorben](https://www.spiegel.de/panorama/istanbul-auch-mutter-an-mutmasslicher-lebensmittelvergiftung-gestorben-a-b85f9135-b237-4394-b2c2-317c5c896cdf#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/panorama/istanbul-auch-mutter-an-mutmasslicher-lebensmittelvergiftung-gestorben](https://www.spiegel.de/panorama/istanbul-auch-mutter-an-mutmasslicher-lebensmittelvergiftung-gestorben-a-b85f9135-b237-4394-b2c2-317c5c896cdf#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video](https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video-a-2e73bd89-3135-4e22-8c5f-8f8aa9baa214#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote](https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote-a-7e577dd4-6908-4965-89a3-3fbd819f4fb4#ref=rss)
+### raketen
+
+* [https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video](https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video-a-2e73bd89-3135-4e22-8c5f-8f8aa9baa214#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote](https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote-a-7e577dd4-6908-4965-89a3-3fbd819f4fb4#ref=rss)
+### nacht
+
+* [https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video](https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video-a-2e73bd89-3135-4e22-8c5f-8f8aa9baa214#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote](https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote-a-7e577dd4-6908-4965-89a3-3fbd819f4fb4#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video](https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video-a-2e73bd89-3135-4e22-8c5f-8f8aa9baa214#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote](https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote-a-7e577dd4-6908-4965-89a3-3fbd819f4fb4#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video](https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video-a-2e73bd89-3135-4e22-8c5f-8f8aa9baa214#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bad-kleinen-in-mecklenburg-vorpommern-37-jaehriger-soll-mann-angegriffen-und-getoetet-haben](https://www.spiegel.de/panorama/justiz/bad-kleinen-in-mecklenburg-vorpommern-37-jaehriger-soll-mann-angegriffen-und-getoetet-haben-a-00eccb8a-98de-44d7-9d1d-44dc7a636c99#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video](https://www.spiegel.de/ausland/ukraine-am-tag-1360-des-kriegs-feuert-russland-hunderte-drohnen-und-raketen-auf-kyjiw-video-a-2e73bd89-3135-4e22-8c5f-8f8aa9baa214#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote](https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote-a-7e577dd4-6908-4965-89a3-3fbd819f4fb4#ref=rss)
+### russlands
+
+* [https://www.spiegel.de/ausland/russlands-angriffskrieg-jetzt-treffen-auch-die-ukrainer-das-stromnetz](https://www.spiegel.de/ausland/russlands-angriffskrieg-jetzt-treffen-auch-die-ukrainer-das-stromnetz-a-d346773a-b790-4bf7-b07a-142a7da3cd0d#ref=rss)
+### zölle
+
+* [https://www.spiegel.de/wirtschaft/usa-wollen-zoelle-fuer-vier-lateinamerikanische-laender-abschaffen](https://www.spiegel.de/wirtschaft/usa-wollen-zoelle-fuer-vier-lateinamerikanische-laender-abschaffen-a-f0d4014a-2f1e-4fb4-9b27-8f36f761ef19#ref=rss)
+### vier
+
+* [https://www.spiegel.de/wirtschaft/usa-wollen-zoelle-fuer-vier-lateinamerikanische-laender-abschaffen](https://www.spiegel.de/wirtschaft/usa-wollen-zoelle-fuer-vier-lateinamerikanische-laender-abschaffen-a-f0d4014a-2f1e-4fb4-9b27-8f36f761ef19#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote](https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote-a-7e577dd4-6908-4965-89a3-3fbd819f4fb4#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wirtschaft/usa-wollen-zoelle-fuer-vier-lateinamerikanische-laender-abschaffen](https://www.spiegel.de/wirtschaft/usa-wollen-zoelle-fuer-vier-lateinamerikanische-laender-abschaffen-a-f0d4014a-2f1e-4fb4-9b27-8f36f761ef19#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-us-bischoefe-kritisieren-seine-abschiebepolitik-scharf](https://www.spiegel.de/politik/donald-trump-us-bischoefe-kritisieren-seine-abschiebepolitik-scharf-a-bdbcb94f-59f4-41d5-ad3d-991b3b72bc19#ref=rss)
+### deshalb
+
+* [https://www.spiegel.de/wirtschaft/usa-wollen-zoelle-fuer-vier-lateinamerikanische-laender-abschaffen](https://www.spiegel.de/wirtschaft/usa-wollen-zoelle-fuer-vier-lateinamerikanische-laender-abschaffen-a-f0d4014a-2f1e-4fb4-9b27-8f36f761ef19#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-amazon-und-microsoft-erwaegen-einschraenkung-von-chip-exporten-nach-china](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-amazon-und-microsoft-erwaegen-einschraenkung-von-chip-exporten-nach-china-a-06deb2ee-905e-49be-bff2-42191e3a3410#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/wirtschaft/usa-wollen-zoelle-fuer-vier-lateinamerikanische-laender-abschaffen](https://www.spiegel.de/wirtschaft/usa-wollen-zoelle-fuer-vier-lateinamerikanische-laender-abschaffen-a-f0d4014a-2f1e-4fb4-9b27-8f36f761ef19#ref=rss)
+* [https://www.spiegel.de/wissenschaft/shenzhou-20-china-holt-gestrandete-raumfahrer-aus-dem-all-zurueck](https://www.spiegel.de/wissenschaft/shenzhou-20-china-holt-gestrandete-raumfahrer-aus-dem-all-zurueck-a-e33577d7-6269-425a-8076-90ffd97fed4c#ref=rss)
+### jürgen
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-wird-bei-der-fussball-wm-2026-tv-experte](https://www.spiegel.de/sport/fussball/juergen-klopp-wird-bei-der-fussball-wm-2026-tv-experte-a-51316129-1bff-46a7-a139-2d954b4f7597#ref=rss)
+### klopp
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-wird-bei-der-fussball-wm-2026-tv-experte](https://www.spiegel.de/sport/fussball/juergen-klopp-wird-bei-der-fussball-wm-2026-tv-experte-a-51316129-1bff-46a7-a139-2d954b4f7597#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/fussball/juergen-klopp-wird-bei-der-fussball-wm-2026-tv-experte](https://www.spiegel.de/sport/fussball/juergen-klopp-wird-bei-der-fussball-wm-2026-tv-experte-a-51316129-1bff-46a7-a139-2d954b4f7597#ref=rss)
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-droht-sperre-im-ersten-spiel-der-wm-2026](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-droht-sperre-im-ersten-spiel-der-wm-2026-a-b93ab774-63a5-4bbb-9e25-548a8a7ca67a#ref=rss)
+### bad
+
+* [https://www.spiegel.de/panorama/justiz/bad-kleinen-in-mecklenburg-vorpommern-37-jaehriger-soll-mann-angegriffen-und-getoetet-haben](https://www.spiegel.de/panorama/justiz/bad-kleinen-in-mecklenburg-vorpommern-37-jaehriger-soll-mann-angegriffen-und-getoetet-haben-a-00eccb8a-98de-44d7-9d1d-44dc7a636c99#ref=rss)
+### kleinen
+
+* [https://www.spiegel.de/panorama/justiz/bad-kleinen-in-mecklenburg-vorpommern-37-jaehriger-soll-mann-angegriffen-und-getoetet-haben](https://www.spiegel.de/panorama/justiz/bad-kleinen-in-mecklenburg-vorpommern-37-jaehriger-soll-mann-angegriffen-und-getoetet-haben-a-00eccb8a-98de-44d7-9d1d-44dc7a636c99#ref=rss)
+### mutmaßliche
+
+* [https://www.spiegel.de/panorama/justiz/bad-kleinen-in-mecklenburg-vorpommern-37-jaehriger-soll-mann-angegriffen-und-getoetet-haben](https://www.spiegel.de/panorama/justiz/bad-kleinen-in-mecklenburg-vorpommern-37-jaehriger-soll-mann-angegriffen-und-getoetet-haben-a-00eccb8a-98de-44d7-9d1d-44dc7a636c99#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-und-berlin-ermittler-gehen-gegen-mutmassliche-schleuser-vor](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-und-berlin-ermittler-gehen-gegen-mutmassliche-schleuser-vor-a-9cc9f842-eef5-4aaf-9c06-2d0cf231d437#ref=rss)
+### cristiano
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-droht-sperre-im-ersten-spiel-der-wm-2026](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-droht-sperre-im-ersten-spiel-der-wm-2026-a-b93ab774-63a5-4bbb-9e25-548a8a7ca67a#ref=rss)
+### ronaldo
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-droht-sperre-im-ersten-spiel-der-wm-2026](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-droht-sperre-im-ersten-spiel-der-wm-2026-a-b93ab774-63a5-4bbb-9e25-548a8a7ca67a#ref=rss)
+### droht
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-droht-sperre-im-ersten-spiel-der-wm-2026](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-droht-sperre-im-ersten-spiel-der-wm-2026-a-b93ab774-63a5-4bbb-9e25-548a8a7ca67a#ref=rss)
+### usbischöfe
+
+* [https://www.spiegel.de/politik/donald-trump-us-bischoefe-kritisieren-seine-abschiebepolitik-scharf](https://www.spiegel.de/politik/donald-trump-us-bischoefe-kritisieren-seine-abschiebepolitik-scharf-a-bdbcb94f-59f4-41d5-ad3d-991b3b72bc19#ref=rss)
+### supermarkt
+
+* [https://www.spiegel.de/wirtschaft/telemedizin-supermarkt-in-baden-wuerttemberg-bietet-videosprechstunden-beim-arzt-an](https://www.spiegel.de/wirtschaft/telemedizin-supermarkt-in-baden-wuerttemberg-bietet-videosprechstunden-beim-arzt-an-a-eb056946-93b2-4e4d-9afb-fdfdf45eb2f9#ref=rss)
+### arzt
+
+* [https://www.spiegel.de/wirtschaft/telemedizin-supermarkt-in-baden-wuerttemberg-bietet-videosprechstunden-beim-arzt-an](https://www.spiegel.de/wirtschaft/telemedizin-supermarkt-in-baden-wuerttemberg-bietet-videosprechstunden-beim-arzt-an-a-eb056946-93b2-4e4d-9afb-fdfdf45eb2f9#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-und-berlin-ermittler-gehen-gegen-mutmassliche-schleuser-vor](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-und-berlin-ermittler-gehen-gegen-mutmassliche-schleuser-vor-a-9cc9f842-eef5-4aaf-9c06-2d0cf231d437#ref=rss)
+### all
+
+* [https://www.spiegel.de/wissenschaft/shenzhou-20-china-holt-gestrandete-raumfahrer-aus-dem-all-zurueck](https://www.spiegel.de/wissenschaft/shenzhou-20-china-holt-gestrandete-raumfahrer-aus-dem-all-zurueck-a-e33577d7-6269-425a-8076-90ffd97fed4c#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/wissenschaft/shenzhou-20-china-holt-gestrandete-raumfahrer-aus-dem-all-zurueck](https://www.spiegel.de/wissenschaft/shenzhou-20-china-holt-gestrandete-raumfahrer-aus-dem-all-zurueck-a-e33577d7-6269-425a-8076-90ffd97fed4c#ref=rss)
+### microsoft
+
+* [https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-amazon-und-microsoft-erwaegen-einschraenkung-von-chip-exporten-nach-china](https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-amazon-und-microsoft-erwaegen-einschraenkung-von-chip-exporten-nach-china-a-06deb2ee-905e-49be-bff2-42191e3a3410#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote](https://www.spiegel.de/politik/ukraine-krieg-massive-russische-luftangriffe-auf-kyjiw-mindestens-vier-tote-a-7e577dd4-6908-4965-89a3-3fbd819f4fb4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lebenshaltungskosten-so-teuer-ist-das-leben-in-ihrem-landkreis](https://www.spiegel.de/wirtschaft/lebenshaltungskosten-so-teuer-ist-das-leben-in-ihrem-landkreis-a-95f7e431-fd28-4b9f-b116-39cfdee5bd49#ref=rss)
+### unheilig
+
+* [https://www.spiegel.de/panorama/leute/unheilig-der-graf-stuerzt-bei-auftaktkonzert-der-comeback-tour-von-der-buehne](https://www.spiegel.de/panorama/leute/unheilig-der-graf-stuerzt-bei-auftaktkonzert-der-comeback-tour-von-der-buehne-a-da223dbd-b5d8-4876-9d47-24d13ca6a398#ref=rss)
+### graf
+
+* [https://www.spiegel.de/panorama/leute/unheilig-der-graf-stuerzt-bei-auftaktkonzert-der-comeback-tour-von-der-buehne](https://www.spiegel.de/panorama/leute/unheilig-der-graf-stuerzt-bei-auftaktkonzert-der-comeback-tour-von-der-buehne-a-da223dbd-b5d8-4876-9d47-24d13ca6a398#ref=rss)
+### bühne
+
+* [https://www.spiegel.de/panorama/leute/unheilig-der-graf-stuerzt-bei-auftaktkonzert-der-comeback-tour-von-der-buehne](https://www.spiegel.de/panorama/leute/unheilig-der-graf-stuerzt-bei-auftaktkonzert-der-comeback-tour-von-der-buehne-a-da223dbd-b5d8-4876-9d47-24d13ca6a398#ref=rss)
+### cannabis
+
+* [https://www.spiegel.de/wissenschaft/cannabis-in-deutschland-fast-jeder-zehnte-erwachsene-kifft](https://www.spiegel.de/wissenschaft/cannabis-in-deutschland-fast-jeder-zehnte-erwachsene-kifft-a-16930a20-4445-4128-8aea-343b92c99430#ref=rss)
+### leben
+
+* [https://www.spiegel.de/wirtschaft/lebenshaltungskosten-so-teuer-ist-das-leben-in-ihrem-landkreis](https://www.spiegel.de/wirtschaft/lebenshaltungskosten-so-teuer-ist-das-leben-in-ihrem-landkreis-a-95f7e431-fd28-4b9f-b116-39cfdee5bd49#ref=rss)
 
