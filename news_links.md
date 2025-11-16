@@ -4,336 +4,350 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### behörden
+### merz
 
-* [https://www.spiegel.de/ausland/usa-ice-razzien-auf-charlotte-ausgeweitet](https://www.spiegel.de/ausland/usa-ice-razzien-auf-charlotte-ausgeweitet-a-9d17fb24-0914-4909-a1ff-4d227bec8e03#ref=rss)
-* [https://www.spiegel.de/panorama/shaolin-kloster-ex-abt-wegen-untreue-und-bestechlichkeit-in-haft](https://www.spiegel.de/panorama/shaolin-kloster-ex-abt-wegen-untreue-und-bestechlichkeit-in-haft-a-81f0b477-70a2-4ea8-8115-9b31c59cc434#ref=rss)
-* [https://www.spiegel.de/panorama/istanbul-drei-deutsche-tot-weitere-menschen-in-klinik-behoerden-evakuieren-hotel](https://www.spiegel.de/panorama/istanbul-drei-deutsche-tot-weitere-menschen-in-klinik-behoerden-evakuieren-hotel-a-941067ed-bb22-4827-8bf7-743f860391f4#ref=rss)
-* [https://www.spiegel.de/panorama/mexiko-stadt-behoerden-melden-120-verletzte-bei-gen-z-demonstration](https://www.spiegel.de/panorama/mexiko-stadt-behoerden-melden-120-verletzte-bei-gen-z-demonstration-a-c92a6d62-4f03-41cf-ad7f-566786165c01#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-das-wasser-in-dem-land-wird-knapp](https://www.spiegel.de/ausland/iran-das-wasser-in-dem-land-wird-knapp-a-d873ea91-3cf1-42f6-800b-3a3477943d95#ref=rss)
-* [https://www.spiegel.de/ausland/iran-regierung-versprueht-salz-gegen-duerre](https://www.spiegel.de/ausland/iran-regierung-versprueht-salz-gegen-duerre-a-d4f67797-4982-42a7-8a00-43a729cd74e7#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/iran-das-wasser-in-dem-land-wird-knapp](https://www.spiegel.de/ausland/iran-das-wasser-in-dem-land-wird-knapp-a-d873ea91-3cf1-42f6-800b-3a3477943d95#ref=rss)
-* [https://www.spiegel.de/ausland/iran-regierung-versprueht-salz-gegen-duerre](https://www.spiegel.de/ausland/iran-regierung-versprueht-salz-gegen-duerre-a-d4f67797-4982-42a7-8a00-43a729cd74e7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop30-initiative-fuer-neue-luxussteuer-auf-fluege-spaltet-bundesregierung](https://www.spiegel.de/wissenschaft/cop30-initiative-fuer-neue-luxussteuer-auf-fluege-spaltet-bundesregierung-a-58316736-329c-4766-b6ae-e51c3e954dcb#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/cop30-in-belem-deutschland-als-vorreiter-im-klimaschutz-auf-der-weltbuehne](https://www.spiegel.de/wissenschaft/cop30-in-belem-deutschland-als-vorreiter-im-klimaschutz-auf-der-weltbuehne-a-373597fe-5e6d-48ee-9da5-b39230fc69f9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-714-offene-haftbefehle-gegen-neonazis-in-deutschland](https://www.spiegel.de/panorama/justiz/rechtsextremismus-714-offene-haftbefehle-gegen-neonazis-in-deutschland-a-3acd253e-bff8-4fa2-a903-709b980378e8#ref=rss)
-### drei
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-luege-und-wahrheit](https://www.spiegel.de/karriere/raetsel-der-woche-luege-und-wahrheit-a-b9d70ce6-c133-40ca-b678-9346f80b3ce6#ref=rss)
-* [https://www.spiegel.de/panorama/istanbul-drei-deutsche-tot-weitere-menschen-in-klinik-behoerden-evakuieren-hotel](https://www.spiegel.de/panorama/istanbul-drei-deutsche-tot-weitere-menschen-in-klinik-behoerden-evakuieren-hotel-a-941067ed-bb22-4827-8bf7-743f860391f4#ref=rss)
-### trump
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann-a-8d9274d9-bb2d-431a-97ab-3e4d3a3ddad2#ref=rss)
-* [https://www.spiegel.de/ausland/marjorie-taylor-greene-wird-nach-auseinandersetzung-mit-donald-trump-offenbar-bedroht](https://www.spiegel.de/ausland/marjorie-taylor-greene-wird-nach-auseinandersetzung-mit-donald-trump-offenbar-bedroht-a-0538fc3f-a3c7-4d9f-8c44-305f99b058cd#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-am-mount-rushmore-mit-dem-kopf-gegen-die-wand](https://www.spiegel.de/ausland/donald-trump-am-mount-rushmore-mit-dem-kopf-gegen-die-wand-a-4c058738-a5e4-4234-ac2f-8860142f43ac#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/usa-ice-razzien-auf-charlotte-ausgeweitet](https://www.spiegel.de/ausland/usa-ice-razzien-auf-charlotte-ausgeweitet-a-9d17fb24-0914-4909-a1ff-4d227bec8e03#ref=rss)
-* [https://www.spiegel.de/panorama/istanbul-drei-deutsche-tot-weitere-menschen-in-klinik-behoerden-evakuieren-hotel](https://www.spiegel.de/panorama/istanbul-drei-deutsche-tot-weitere-menschen-in-klinik-behoerden-evakuieren-hotel-a-941067ed-bb22-4827-8bf7-743f860391f4#ref=rss)
-* [https://www.spiegel.de/panorama/kalifornien-mindestens-vier-tote-bei-bootsunglueck](https://www.spiegel.de/panorama/kalifornien-mindestens-vier-tote-bei-bootsunglueck-a-6d1b37ac-e0ae-4296-9a3a-5e79f1ae57c9#ref=rss)
-* [https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise](https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise-a-33b9c277-5caa-4212-952f-1a0afbfe31c8#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/iran-das-wasser-in-dem-land-wird-knapp](https://www.spiegel.de/ausland/iran-das-wasser-in-dem-land-wird-knapp-a-d873ea91-3cf1-42f6-800b-3a3477943d95#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/brasilien-wie-landwirte-fuer-einen-boom-der-agrarindustrie-sorgen](https://www.spiegel.de/wirtschaft/service/brasilien-wie-landwirte-fuer-einen-boom-der-agrarindustrie-sorgen-a-d7a48fca-1413-44e0-b6f2-4ce02ebe41b6#ref=rss)
-* [https://www.spiegel.de/panorama/mexiko-stadt-behoerden-melden-120-verletzte-bei-gen-z-demonstration](https://www.spiegel.de/panorama/mexiko-stadt-behoerden-melden-120-verletzte-bei-gen-z-demonstration-a-c92a6d62-4f03-41cf-ad7f-566786165c01#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/justiz/schwarzach-am-main-dieb-stiehlt-auto-von-pannenhelfer-mit-frau-auf-beifahrersitz](https://www.spiegel.de/panorama/justiz/schwarzach-am-main-dieb-stiehlt-auto-von-pannenhelfer-mit-frau-auf-beifahrersitz-a-1a0e16db-90cc-4ea2-ac02-6a396a0db9fc#ref=rss)
-* [https://www.spiegel.de/panorama/k-pop-star-saengerin-nana-ueberwaeltigt-einbrecher](https://www.spiegel.de/panorama/k-pop-star-saengerin-nana-ueberwaeltigt-einbrecher-a-090f911f-8df5-497a-bbf7-dab5824e798f#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-so-will-portugal-offenbar-seinen-superstar-fuer-die-wm-freiboxen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-so-will-portugal-offenbar-seinen-superstar-fuer-die-wm-freiboxen-a-d1c46d2c-1d96-4e8f-a500-591e9775c341#ref=rss)
-* [https://www.spiegel.de/panorama/istanbul-drei-deutsche-tot-weitere-menschen-in-klinik-behoerden-evakuieren-hotel](https://www.spiegel.de/panorama/istanbul-drei-deutsche-tot-weitere-menschen-in-klinik-behoerden-evakuieren-hotel-a-941067ed-bb22-4827-8bf7-743f860391f4#ref=rss)
-* [https://www.spiegel.de/ausland/marjorie-taylor-greene-wird-nach-auseinandersetzung-mit-donald-trump-offenbar-bedroht](https://www.spiegel.de/ausland/marjorie-taylor-greene-wird-nach-auseinandersetzung-mit-donald-trump-offenbar-bedroht-a-0538fc3f-a3c7-4d9f-8c44-305f99b058cd#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/service/brasilien-wie-landwirte-fuer-einen-boom-der-agrarindustrie-sorgen](https://www.spiegel.de/wirtschaft/service/brasilien-wie-landwirte-fuer-einen-boom-der-agrarindustrie-sorgen-a-d7a48fca-1413-44e0-b6f2-4ce02ebe41b6#ref=rss)
-* [https://www.spiegel.de/panorama/istanbul-drei-deutsche-tot-weitere-menschen-in-klinik-behoerden-evakuieren-hotel](https://www.spiegel.de/panorama/istanbul-drei-deutsche-tot-weitere-menschen-in-klinik-behoerden-evakuieren-hotel-a-941067ed-bb22-4827-8bf7-743f860391f4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop30-initiative-fuer-neue-luxussteuer-auf-fluege-spaltet-bundesregierung](https://www.spiegel.de/wissenschaft/cop30-initiative-fuer-neue-luxussteuer-auf-fluege-spaltet-bundesregierung-a-58316736-329c-4766-b6ae-e51c3e954dcb#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/berlin-neuer-bussgeldkatalog-weggeworfene-kippe-kann-bis-zu-3000-euro-kosten](https://www.spiegel.de/panorama/berlin-neuer-bussgeldkatalog-weggeworfene-kippe-kann-bis-zu-3000-euro-kosten-a-5cecc667-4dbb-4594-9af5-cdeedfce60ef#ref=rss)
-* [https://www.spiegel.de/partnerschaft/hauskauf-und-beziehung-paar-saniert-schloss-fuer-ihre-hochzeit-es-wird-zur-belastungsprobe](https://www.spiegel.de/partnerschaft/hauskauf-und-beziehung-paar-saniert-schloss-fuer-ihre-hochzeit-es-wird-zur-belastungsprobe-a-2663d487-f9c6-4868-9831-7e32932c6623#ref=rss)
-### paar
-
-* [https://www.spiegel.de/partnerschaft/hauskauf-und-beziehung-paar-saniert-schloss-fuer-ihre-hochzeit-es-wird-zur-belastungsprobe](https://www.spiegel.de/partnerschaft/hauskauf-und-beziehung-paar-saniert-schloss-fuer-ihre-hochzeit-es-wird-zur-belastungsprobe-a-2663d487-f9c6-4868-9831-7e32932c6623#ref=rss)
-* [https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise](https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise-a-33b9c277-5caa-4212-952f-1a0afbfe31c8#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/marjorie-taylor-greene-wird-nach-auseinandersetzung-mit-donald-trump-offenbar-bedroht](https://www.spiegel.de/ausland/marjorie-taylor-greene-wird-nach-auseinandersetzung-mit-donald-trump-offenbar-bedroht-a-0538fc3f-a3c7-4d9f-8c44-305f99b058cd#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-am-mount-rushmore-mit-dem-kopf-gegen-die-wand](https://www.spiegel.de/ausland/donald-trump-am-mount-rushmore-mit-dem-kopf-gegen-die-wand-a-4c058738-a5e4-4234-ac2f-8860142f43ac#ref=rss)
-### vier
-
-* [https://www.spiegel.de/panorama/kalifornien-mindestens-vier-tote-bei-bootsunglueck](https://www.spiegel.de/panorama/kalifornien-mindestens-vier-tote-bei-bootsunglueck-a-6d1b37ac-e0ae-4296-9a3a-5e79f1ae57c9#ref=rss)
-### knapp
-
-* [https://www.spiegel.de/ausland/iran-das-wasser-in-dem-land-wird-knapp](https://www.spiegel.de/ausland/iran-das-wasser-in-dem-land-wird-knapp-a-d873ea91-3cf1-42f6-800b-3a3477943d95#ref=rss)
-* [https://www.spiegel.de/panorama/dominikanische-republik-einsatzkraefte-stoppen-drogenschmuggel-boot](https://www.spiegel.de/panorama/dominikanische-republik-einsatzkraefte-stoppen-drogenschmuggel-boot-a-f674bc92-6b1a-4210-97f8-a845f78c1cfa#ref=rss)
-### hauptstadt
-
-* [https://www.spiegel.de/ausland/iran-das-wasser-in-dem-land-wird-knapp](https://www.spiegel.de/ausland/iran-das-wasser-in-dem-land-wird-knapp-a-d873ea91-3cf1-42f6-800b-3a3477943d95#ref=rss)
-* [https://www.spiegel.de/panorama/mexiko-stadt-behoerden-melden-120-verletzte-bei-gen-z-demonstration](https://www.spiegel.de/panorama/mexiko-stadt-behoerden-melden-120-verletzte-bei-gen-z-demonstration-a-c92a6d62-4f03-41cf-ad7f-566786165c01#ref=rss)
-### evakuieren
-
-* [https://www.spiegel.de/ausland/iran-das-wasser-in-dem-land-wird-knapp](https://www.spiegel.de/ausland/iran-das-wasser-in-dem-land-wird-knapp-a-d873ea91-3cf1-42f6-800b-3a3477943d95#ref=rss)
-* [https://www.spiegel.de/panorama/istanbul-drei-deutsche-tot-weitere-menschen-in-klinik-behoerden-evakuieren-hotel](https://www.spiegel.de/panorama/istanbul-drei-deutsche-tot-weitere-menschen-in-klinik-behoerden-evakuieren-hotel-a-941067ed-bb22-4827-8bf7-743f860391f4#ref=rss)
-### leben
-
-* [https://www.spiegel.de/ausland/iran-das-wasser-in-dem-land-wird-knapp](https://www.spiegel.de/ausland/iran-das-wasser-in-dem-land-wird-knapp-a-d873ea91-3cf1-42f6-800b-3a3477943d95#ref=rss)
-* [https://www.spiegel.de/partnerschaft/hauskauf-und-beziehung-paar-saniert-schloss-fuer-ihre-hochzeit-es-wird-zur-belastungsprobe](https://www.spiegel.de/partnerschaft/hauskauf-und-beziehung-paar-saniert-schloss-fuer-ihre-hochzeit-es-wird-zur-belastungsprobe-a-2663d487-f9c6-4868-9831-7e32932c6623#ref=rss)
-### versprüht
-
-* [https://www.spiegel.de/ausland/iran-regierung-versprueht-salz-gegen-duerre](https://www.spiegel.de/ausland/iran-regierung-versprueht-salz-gegen-duerre-a-d4f67797-4982-42a7-8a00-43a729cd74e7#ref=rss)
-### salz
-
-* [https://www.spiegel.de/ausland/iran-regierung-versprueht-salz-gegen-duerre](https://www.spiegel.de/ausland/iran-regierung-versprueht-salz-gegen-duerre-a-d4f67797-4982-42a7-8a00-43a729cd74e7#ref=rss)
-### dieb
-
-* [https://www.spiegel.de/panorama/justiz/schwarzach-am-main-dieb-stiehlt-auto-von-pannenhelfer-mit-frau-auf-beifahrersitz](https://www.spiegel.de/panorama/justiz/schwarzach-am-main-dieb-stiehlt-auto-von-pannenhelfer-mit-frau-auf-beifahrersitz-a-1a0e16db-90cc-4ea2-ac02-6a396a0db9fc#ref=rss)
-### auto
-
-* [https://www.spiegel.de/panorama/justiz/schwarzach-am-main-dieb-stiehlt-auto-von-pannenhelfer-mit-frau-auf-beifahrersitz](https://www.spiegel.de/panorama/justiz/schwarzach-am-main-dieb-stiehlt-auto-von-pannenhelfer-mit-frau-auf-beifahrersitz-a-1a0e16db-90cc-4ea2-ac02-6a396a0db9fc#ref=rss)
-### beifahrersitz
-
-* [https://www.spiegel.de/panorama/justiz/schwarzach-am-main-dieb-stiehlt-auto-von-pannenhelfer-mit-frau-auf-beifahrersitz](https://www.spiegel.de/panorama/justiz/schwarzach-am-main-dieb-stiehlt-auto-von-pannenhelfer-mit-frau-auf-beifahrersitz-a-1a0e16db-90cc-4ea2-ac02-6a396a0db9fc#ref=rss)
-### los
-
-* [https://www.spiegel.de/panorama/justiz/schwarzach-am-main-dieb-stiehlt-auto-von-pannenhelfer-mit-frau-auf-beifahrersitz](https://www.spiegel.de/panorama/justiz/schwarzach-am-main-dieb-stiehlt-auto-von-pannenhelfer-mit-frau-auf-beifahrersitz-a-1a0e16db-90cc-4ea2-ac02-6a396a0db9fc#ref=rss)
-* [https://www.spiegel.de/ausland/usa-ice-razzien-auf-charlotte-ausgeweitet](https://www.spiegel.de/ausland/usa-ice-razzien-auf-charlotte-ausgeweitet-a-9d17fb24-0914-4909-a1ff-4d227bec8e03#ref=rss)
-### cristiano
-
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-so-will-portugal-offenbar-seinen-superstar-fuer-die-wm-freiboxen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-so-will-portugal-offenbar-seinen-superstar-fuer-die-wm-freiboxen-a-d1c46d2c-1d96-4e8f-a500-591e9775c341#ref=rss)
-### ronaldo
-
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-so-will-portugal-offenbar-seinen-superstar-fuer-die-wm-freiboxen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-so-will-portugal-offenbar-seinen-superstar-fuer-die-wm-freiboxen-a-d1c46d2c-1d96-4e8f-a500-591e9775c341#ref=rss)
-### laut
-
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-so-will-portugal-offenbar-seinen-superstar-fuer-die-wm-freiboxen](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-so-will-portugal-offenbar-seinen-superstar-fuer-die-wm-freiboxen-a-d1c46d2c-1d96-4e8f-a500-591e9775c341#ref=rss)
-* [https://www.spiegel.de/panorama/dominikanische-republik-einsatzkraefte-stoppen-drogenschmuggel-boot](https://www.spiegel.de/panorama/dominikanische-republik-einsatzkraefte-stoppen-drogenschmuggel-boot-a-f674bc92-6b1a-4210-97f8-a845f78c1cfa#ref=rss)
-### cop30
-
-* [https://www.spiegel.de/wissenschaft/cop30-in-belem-deutschland-als-vorreiter-im-klimaschutz-auf-der-weltbuehne](https://www.spiegel.de/wissenschaft/cop30-in-belem-deutschland-als-vorreiter-im-klimaschutz-auf-der-weltbuehne-a-373597fe-5e6d-48ee-9da5-b39230fc69f9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop30-initiative-fuer-neue-luxussteuer-auf-fluege-spaltet-bundesregierung](https://www.spiegel.de/wissenschaft/cop30-initiative-fuer-neue-luxussteuer-auf-fluege-spaltet-bundesregierung-a-58316736-329c-4766-b6ae-e51c3e954dcb#ref=rss)
-### belém
-
-* [https://www.spiegel.de/wissenschaft/cop30-in-belem-deutschland-als-vorreiter-im-klimaschutz-auf-der-weltbuehne](https://www.spiegel.de/wissenschaft/cop30-in-belem-deutschland-als-vorreiter-im-klimaschutz-auf-der-weltbuehne-a-373597fe-5e6d-48ee-9da5-b39230fc69f9#ref=rss)
-### vorreiter
-
-* [https://www.spiegel.de/wissenschaft/cop30-in-belem-deutschland-als-vorreiter-im-klimaschutz-auf-der-weltbuehne](https://www.spiegel.de/wissenschaft/cop30-in-belem-deutschland-als-vorreiter-im-klimaschutz-auf-der-weltbuehne-a-373597fe-5e6d-48ee-9da5-b39230fc69f9#ref=rss)
-### klimaschutz
-
-* [https://www.spiegel.de/wissenschaft/cop30-in-belem-deutschland-als-vorreiter-im-klimaschutz-auf-der-weltbuehne](https://www.spiegel.de/wissenschaft/cop30-in-belem-deutschland-als-vorreiter-im-klimaschutz-auf-der-weltbuehne-a-373597fe-5e6d-48ee-9da5-b39230fc69f9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop30-initiative-fuer-neue-luxussteuer-auf-fluege-spaltet-bundesregierung](https://www.spiegel.de/wissenschaft/cop30-initiative-fuer-neue-luxussteuer-auf-fluege-spaltet-bundesregierung-a-58316736-329c-4766-b6ae-e51c3e954dcb#ref=rss)
-### reiche
-
-* [https://www.spiegel.de/politik/rente-wirtschaftsministerin-reiche-unterstuetzt-junge-gruppe-im-rentenstreit](https://www.spiegel.de/politik/rente-wirtschaftsministerin-reiche-unterstuetzt-junge-gruppe-im-rentenstreit-a-cb0b8970-9442-4269-8ad4-2c4024652fdf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-verteidigt-position-im-rentenstreit-stellt-aber-reform-in-aussicht](https://www.spiegel.de/politik/deutschland/friedrich-merz-verteidigt-position-im-rentenstreit-stellt-aber-reform-in-aussicht-a-4ec2be19-ab20-4ba1-90f2-518d7424569a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen](https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen-a-c1388f04-28e1-4a49-80da-c7376dbcd151#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rentenstreit-mit-der-jungen-union-markus-soeder-gelingt-woran-friedrich-merz-scheitert](https://www.spiegel.de/politik/deutschland/rentenstreit-mit-der-jungen-union-markus-soeder-gelingt-woran-friedrich-merz-scheitert-a-f0c0333b-5158-44c0-9730-6b05b39c9b81#ref=rss)
 ### union
 
-* [https://www.spiegel.de/politik/rente-wirtschaftsministerin-reiche-unterstuetzt-junge-gruppe-im-rentenstreit](https://www.spiegel.de/politik/rente-wirtschaftsministerin-reiche-unterstuetzt-junge-gruppe-im-rentenstreit-a-cb0b8970-9442-4269-8ad4-2c4024652fdf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/luftverkehrsteuer-union-draengt-fluggesellschaften-zu-niedrigeren-ticketpreisen](https://www.spiegel.de/wirtschaft/luftverkehrsteuer-union-draengt-fluggesellschaften-zu-niedrigeren-ticketpreisen-a-0315ca8a-901f-4cb3-842f-458b4187ac09#ref=rss)
-### china
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-verteidigt-position-im-rentenstreit-stellt-aber-reform-in-aussicht](https://www.spiegel.de/politik/deutschland/friedrich-merz-verteidigt-position-im-rentenstreit-stellt-aber-reform-in-aussicht-a-4ec2be19-ab20-4ba1-90f2-518d7424569a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen](https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen-a-c1388f04-28e1-4a49-80da-c7376dbcd151#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rentenstreit-mit-der-jungen-union-markus-soeder-gelingt-woran-friedrich-merz-scheitert](https://www.spiegel.de/politik/deutschland/rentenstreit-mit-der-jungen-union-markus-soeder-gelingt-woran-friedrich-merz-scheitert-a-f0c0333b-5158-44c0-9730-6b05b39c9b81#ref=rss)
+### auktionshaus
 
-* [https://www.spiegel.de/ausland/china-und-japan-chinesische-kuestenwache-vor-senkaku-inseln](https://www.spiegel.de/ausland/china-und-japan-chinesische-kuestenwache-vor-senkaku-inseln-a-1d7ee27e-3220-4bd7-ad74-eb996fd9549c#ref=rss)
-* [https://www.spiegel.de/panorama/shaolin-kloster-ex-abt-wegen-untreue-und-bestechlichkeit-in-haft](https://www.spiegel.de/panorama/shaolin-kloster-ex-abt-wegen-untreue-und-bestechlichkeit-in-haft-a-81f0b477-70a2-4ea8-8115-9b31c59cc434#ref=rss)
-### chinesische
+* [https://www.spiegel.de/panorama/gesellschaft/neuss-auktionshaus-sagt-versteigerung-von-holocaust-dokumenten-ab](https://www.spiegel.de/panorama/gesellschaft/neuss-auktionshaus-sagt-versteigerung-von-holocaust-dokumenten-ab-a-6feef458-a924-4c21-92ad-3f1b8a612383#ref=rss)
+* [https://www.spiegel.de/panorama/auktionshaus-sothebys-goldene-toilette-neben-werken-von-warhol-und-lichtenstein-versteigert](https://www.spiegel.de/panorama/auktionshaus-sothebys-goldene-toilette-neben-werken-von-warhol-und-lichtenstein-versteigert-a-25029c6c-3cfa-4774-b14a-ce54fc3cac1e#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/china-und-japan-chinesische-kuestenwache-vor-senkaku-inseln](https://www.spiegel.de/ausland/china-und-japan-chinesische-kuestenwache-vor-senkaku-inseln-a-1d7ee27e-3220-4bd7-ad74-eb996fd9549c#ref=rss)
-### küstenwache
+* [https://www.spiegel.de/sport/tennis/billie-jean-king-cup-deutschland-verliert-gegen-belgien-und-steigt-ab](https://www.spiegel.de/sport/tennis/billie-jean-king-cup-deutschland-verliert-gegen-belgien-und-steigt-ab-a-ae1e56a9-d0ca-4c60-b8ff-7e7a9cb3e3cc#ref=rss)
+* [https://www.spiegel.de/panorama/elch-sichtungen-in-deutschland-der-mann-der-auf-die-elche-wartet](https://www.spiegel.de/panorama/elch-sichtungen-in-deutschland-der-mann-der-auf-die-elche-wartet-a-3c87414f-1ce8-402b-a1a1-d9a81487a898#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-nasskalt-und-die-schneefallgrenze-sinkt](https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-nasskalt-und-die-schneefallgrenze-sinkt-a-965c27e9-a8c7-4787-b070-9b11a3a838d6#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/orthodoxe-in-deutschland-wo-russen-und-ukrainer-gemeinsam-fuer-die-toten-des-krieges-beten](https://www.spiegel.de/panorama/gesellschaft/orthodoxe-in-deutschland-wo-russen-und-ukrainer-gemeinsam-fuer-die-toten-des-krieges-beten-a-a756bb7f-4f67-4921-98b5-00005cea504d#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/ausland/china-und-japan-chinesische-kuestenwache-vor-senkaku-inseln](https://www.spiegel.de/ausland/china-und-japan-chinesische-kuestenwache-vor-senkaku-inseln-a-1d7ee27e-3220-4bd7-ad74-eb996fd9549c#ref=rss)
-### senkakuinseln
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-verteidigt-position-im-rentenstreit-stellt-aber-reform-in-aussicht](https://www.spiegel.de/politik/deutschland/friedrich-merz-verteidigt-position-im-rentenstreit-stellt-aber-reform-in-aussicht-a-4ec2be19-ab20-4ba1-90f2-518d7424569a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rentenstreit-mit-der-jungen-union-markus-soeder-gelingt-woran-friedrich-merz-scheitert](https://www.spiegel.de/politik/deutschland/rentenstreit-mit-der-jungen-union-markus-soeder-gelingt-woran-friedrich-merz-scheitert-a-f0c0333b-5158-44c0-9730-6b05b39c9b81#ref=rss)
+### rentenstreit
 
-* [https://www.spiegel.de/ausland/china-und-japan-chinesische-kuestenwache-vor-senkaku-inseln](https://www.spiegel.de/ausland/china-und-japan-chinesische-kuestenwache-vor-senkaku-inseln-a-1d7ee27e-3220-4bd7-ad74-eb996fd9549c#ref=rss)
-### einsatz
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-verteidigt-position-im-rentenstreit-stellt-aber-reform-in-aussicht](https://www.spiegel.de/politik/deutschland/friedrich-merz-verteidigt-position-im-rentenstreit-stellt-aber-reform-in-aussicht-a-4ec2be19-ab20-4ba1-90f2-518d7424569a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen](https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen-a-c1388f04-28e1-4a49-80da-c7376dbcd151#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rentenstreit-mit-der-jungen-union-markus-soeder-gelingt-woran-friedrich-merz-scheitert](https://www.spiegel.de/politik/deutschland/rentenstreit-mit-der-jungen-union-markus-soeder-gelingt-woran-friedrich-merz-scheitert-a-f0c0333b-5158-44c0-9730-6b05b39c9b81#ref=rss)
+### jungen
 
-* [https://www.spiegel.de/ausland/china-und-japan-chinesische-kuestenwache-vor-senkaku-inseln](https://www.spiegel.de/ausland/china-und-japan-chinesische-kuestenwache-vor-senkaku-inseln-a-1d7ee27e-3220-4bd7-ad74-eb996fd9549c#ref=rss)
-* [https://www.spiegel.de/panorama/istanbul-drei-deutsche-tot-weitere-menschen-in-klinik-behoerden-evakuieren-hotel](https://www.spiegel.de/panorama/istanbul-drei-deutsche-tot-weitere-menschen-in-klinik-behoerden-evakuieren-hotel-a-941067ed-bb22-4827-8bf7-743f860391f4#ref=rss)
-### opa
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-verteidigt-position-im-rentenstreit-stellt-aber-reform-in-aussicht](https://www.spiegel.de/politik/deutschland/friedrich-merz-verteidigt-position-im-rentenstreit-stellt-aber-reform-in-aussicht-a-4ec2be19-ab20-4ba1-90f2-518d7424569a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen](https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen-a-c1388f04-28e1-4a49-80da-c7376dbcd151#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rentenstreit-mit-der-jungen-union-markus-soeder-gelingt-woran-friedrich-merz-scheitert](https://www.spiegel.de/politik/deutschland/rentenstreit-mit-der-jungen-union-markus-soeder-gelingt-woran-friedrich-merz-scheitert-a-f0c0333b-5158-44c0-9730-6b05b39c9b81#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/netzwelt/web/opa-werner-und-gramps-opa-influencer-im-gespraech-fuer-mich-bist-du-ein-junger-bengel](https://www.spiegel.de/netzwelt/web/opa-werner-und-gramps-opa-influencer-im-gespraech-fuer-mich-bist-du-ein-junger-bengel-a-3cae7922-1058-4369-8ca7-6f2cddfb93bd#ref=rss)
-### werner
+* [https://www.spiegel.de/ausland/ukraine-selenskyj-verhandelt-in-athen-ueber-gaslieferungen-fuer-den-winter](https://www.spiegel.de/ausland/ukraine-selenskyj-verhandelt-in-athen-ueber-gaslieferungen-fuer-den-winter-a-34967dd8-bbfb-44c2-b322-c9dcfdb01731#ref=rss)
+* [https://www.spiegel.de/ausland/saporischschja-russland-meldet-vormarsch-im-sueden-der-ukraine](https://www.spiegel.de/ausland/saporischschja-russland-meldet-vormarsch-im-sueden-der-ukraine-a-cf465c90-a53f-4db2-bc22-5da27ca10b13#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/orthodoxe-in-deutschland-wo-russen-und-ukrainer-gemeinsam-fuer-die-toten-des-krieges-beten](https://www.spiegel.de/panorama/gesellschaft/orthodoxe-in-deutschland-wo-russen-und-ukrainer-gemeinsam-fuer-die-toten-des-krieges-beten-a-a756bb7f-4f67-4921-98b5-00005cea504d#ref=rss)
+### neben
 
-* [https://www.spiegel.de/netzwelt/web/opa-werner-und-gramps-opa-influencer-im-gespraech-fuer-mich-bist-du-ein-junger-bengel](https://www.spiegel.de/netzwelt/web/opa-werner-und-gramps-opa-influencer-im-gespraech-fuer-mich-bist-du-ein-junger-bengel-a-3cae7922-1058-4369-8ca7-6f2cddfb93bd#ref=rss)
-### gramps
+* [https://www.spiegel.de/panorama/gesellschaft/neuss-auktionshaus-sagt-versteigerung-von-holocaust-dokumenten-ab](https://www.spiegel.de/panorama/gesellschaft/neuss-auktionshaus-sagt-versteigerung-von-holocaust-dokumenten-ab-a-6feef458-a924-4c21-92ad-3f1b8a612383#ref=rss)
+* [https://www.spiegel.de/panorama/auktionshaus-sothebys-goldene-toilette-neben-werken-von-warhol-und-lichtenstein-versteigert](https://www.spiegel.de/panorama/auktionshaus-sothebys-goldene-toilette-neben-werken-von-warhol-und-lichtenstein-versteigert-a-25029c6c-3cfa-4774-b14a-ce54fc3cac1e#ref=rss)
+### ich
 
-* [https://www.spiegel.de/netzwelt/web/opa-werner-und-gramps-opa-influencer-im-gespraech-fuer-mich-bist-du-ein-junger-bengel](https://www.spiegel.de/netzwelt/web/opa-werner-und-gramps-opa-influencer-im-gespraech-fuer-mich-bist-du-ein-junger-bengel-a-3cae7922-1058-4369-8ca7-6f2cddfb93bd#ref=rss)
-### gespräch
+* [https://www.spiegel.de/panorama/ausstellung-ueber-plattenbauten-als-ich-gast-auf-meiner-eigenen-beerdigung-war](https://www.spiegel.de/panorama/ausstellung-ueber-plattenbauten-als-ich-gast-auf-meiner-eigenen-beerdigung-war-a-44f16669-4efb-4624-a457-a3d4c2d1ee23#ref=rss)
+### position
 
-* [https://www.spiegel.de/netzwelt/web/opa-werner-und-gramps-opa-influencer-im-gespraech-fuer-mich-bist-du-ein-junger-bengel](https://www.spiegel.de/netzwelt/web/opa-werner-und-gramps-opa-influencer-im-gespraech-fuer-mich-bist-du-ein-junger-bengel-a-3cae7922-1058-4369-8ca7-6f2cddfb93bd#ref=rss)
-### zwei
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-verteidigt-position-im-rentenstreit-stellt-aber-reform-in-aussicht](https://www.spiegel.de/politik/deutschland/friedrich-merz-verteidigt-position-im-rentenstreit-stellt-aber-reform-in-aussicht-a-4ec2be19-ab20-4ba1-90f2-518d7424569a#ref=rss)
+* [https://www.spiegel.de/ausland/saporischschja-russland-meldet-vormarsch-im-sueden-der-ukraine](https://www.spiegel.de/ausland/saporischschja-russland-meldet-vormarsch-im-sueden-der-ukraine-a-cf465c90-a53f-4db2-bc22-5da27ca10b13#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/netzwelt/web/opa-werner-und-gramps-opa-influencer-im-gespraech-fuer-mich-bist-du-ein-junger-bengel](https://www.spiegel.de/netzwelt/web/opa-werner-und-gramps-opa-influencer-im-gespraech-fuer-mich-bist-du-ein-junger-bengel-a-3cae7922-1058-4369-8ca7-6f2cddfb93bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-verteidigt-position-im-rentenstreit-stellt-aber-reform-in-aussicht](https://www.spiegel.de/politik/deutschland/friedrich-merz-verteidigt-position-im-rentenstreit-stellt-aber-reform-in-aussicht-a-4ec2be19-ab20-4ba1-90f2-518d7424569a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen](https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen-a-c1388f04-28e1-4a49-80da-c7376dbcd151#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rentenstreit-mit-der-jungen-union-markus-soeder-gelingt-woran-friedrich-merz-scheitert](https://www.spiegel.de/politik/deutschland/rentenstreit-mit-der-jungen-union-markus-soeder-gelingt-woran-friedrich-merz-scheitert-a-f0c0333b-5158-44c0-9730-6b05b39c9b81#ref=rss)
+### große
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-irland-schlaegt-dank-troy-parrott-ungarn-und-steht-in-den-playoffs](https://www.spiegel.de/sport/fussball/wm-qualifikation-irland-schlaegt-dank-troy-parrott-ungarn-und-steht-in-den-playoffs-a-c7b76809-ce73-4ebb-83bb-41b0358e2dce#ref=rss)
+* [https://www.spiegel.de/kultur/das-grosse-heft-im-hamburger-schauspielhaus-der-kinderblick-auf-krieg-und-feuersturm](https://www.spiegel.de/kultur/das-grosse-heft-im-hamburger-schauspielhaus-der-kinderblick-auf-krieg-und-feuersturm-a-6bbe4e60-4e12-4e1d-b6a0-f2edef8b77cf#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-feridun-zaimoglu-sohn-ohne-vater](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-feridun-zaimoglu-sohn-ohne-vater-a-3efdbfec-a3e6-489b-9caa-192608f11bb9#ref=rss)
 * [https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise](https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise-a-33b9c277-5caa-4212-952f-1a0afbfe31c8#ref=rss)
-### woche
+### laut
 
-* [https://www.spiegel.de/karriere/raetsel-der-woche-luege-und-wahrheit](https://www.spiegel.de/karriere/raetsel-der-woche-luege-und-wahrheit-a-b9d70ce6-c133-40ca-b678-9346f80b3ce6#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann-a-8d9274d9-bb2d-431a-97ab-3e4d3a3ddad2#ref=rss)
-### offene
+* [https://www.spiegel.de/ausland/usa-trump-regierung-zieht-offenbar-nationalgarde-aus-portland-und-chicago-teilweise-ab](https://www.spiegel.de/ausland/usa-trump-regierung-zieht-offenbar-nationalgarde-aus-portland-und-chicago-teilweise-ab-a-9c2ecbca-8f77-42c1-b8cf-51050957617b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/karim-adeyemi-von-borussia-dortmund-strafbefehl-wegen-illegalem-waffenbesitz](https://www.spiegel.de/sport/fussball/karim-adeyemi-von-borussia-dortmund-strafbefehl-wegen-illegalem-waffenbesitz-a-ecdf0f1b-602e-4c34-8d6e-33f1b92f6560#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-nasskalt-und-die-schneefallgrenze-sinkt](https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-nasskalt-und-die-schneefallgrenze-sinkt-a-965c27e9-a8c7-4787-b070-9b11a3a838d6#ref=rss)
+### spanien
 
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-714-offene-haftbefehle-gegen-neonazis-in-deutschland](https://www.spiegel.de/panorama/justiz/rechtsextremismus-714-offene-haftbefehle-gegen-neonazis-in-deutschland-a-3acd253e-bff8-4fa2-a903-709b980378e8#ref=rss)
-### haftbefehle
+* [https://www.spiegel.de/panorama/justiz/spanien-ecuadorianischer-drogenboss-der-los-lobos-gefasst](https://www.spiegel.de/panorama/justiz/spanien-ecuadorianischer-drogenboss-der-los-lobos-gefasst-a-e1168c8d-635f-4123-88df-ce64fa894c82#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-selenskyj-verhandelt-in-athen-ueber-gaslieferungen-fuer-den-winter](https://www.spiegel.de/ausland/ukraine-selenskyj-verhandelt-in-athen-ueber-gaslieferungen-fuer-den-winter-a-34967dd8-bbfb-44c2-b322-c9dcfdb01731#ref=rss)
+### region
 
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-714-offene-haftbefehle-gegen-neonazis-in-deutschland](https://www.spiegel.de/panorama/justiz/rechtsextremismus-714-offene-haftbefehle-gegen-neonazis-in-deutschland-a-3acd253e-bff8-4fa2-a903-709b980378e8#ref=rss)
-### partei
+* [https://www.spiegel.de/panorama/justiz/tschechien-jaeger-erschiesst-jaeger](https://www.spiegel.de/panorama/justiz/tschechien-jaeger-erschiesst-jaeger-a-798daf68-78b6-4f7d-a9e9-2594badd8c10#ref=rss)
+* [https://www.spiegel.de/ausland/saporischschja-russland-meldet-vormarsch-im-sueden-der-ukraine](https://www.spiegel.de/ausland/saporischschja-russland-meldet-vormarsch-im-sueden-der-ukraine-a-cf465c90-a53f-4db2-bc22-5da27ca10b13#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-714-offene-haftbefehle-gegen-neonazis-in-deutschland](https://www.spiegel.de/panorama/justiz/rechtsextremismus-714-offene-haftbefehle-gegen-neonazis-in-deutschland-a-3acd253e-bff8-4fa2-a903-709b980378e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-die-afd-und-putin-ard-und-zdf](https://www.spiegel.de/politik/deutschland/news-die-afd-und-putin-ard-und-zdf-a-5c008e48-6637-4d33-8652-1bb1f81a98d9#ref=rss)
-### kpopstar
+* [https://www.spiegel.de/panorama/gesellschaft/neuss-auktionshaus-sagt-versteigerung-von-holocaust-dokumenten-ab](https://www.spiegel.de/panorama/gesellschaft/neuss-auktionshaus-sagt-versteigerung-von-holocaust-dokumenten-ab-a-6feef458-a924-4c21-92ad-3f1b8a612383#ref=rss)
+* [https://www.spiegel.de/ausland/usa-trump-regierung-zieht-offenbar-nationalgarde-aus-portland-und-chicago-teilweise-ab](https://www.spiegel.de/ausland/usa-trump-regierung-zieht-offenbar-nationalgarde-aus-portland-und-chicago-teilweise-ab-a-9c2ecbca-8f77-42c1-b8cf-51050957617b#ref=rss)
+### eigenen
 
-* [https://www.spiegel.de/panorama/k-pop-star-saengerin-nana-ueberwaeltigt-einbrecher](https://www.spiegel.de/panorama/k-pop-star-saengerin-nana-ueberwaeltigt-einbrecher-a-090f911f-8df5-497a-bbf7-dab5824e798f#ref=rss)
-### nana
+* [https://www.spiegel.de/panorama/ausstellung-ueber-plattenbauten-als-ich-gast-auf-meiner-eigenen-beerdigung-war](https://www.spiegel.de/panorama/ausstellung-ueber-plattenbauten-als-ich-gast-auf-meiner-eigenen-beerdigung-war-a-44f16669-4efb-4624-a457-a3d4c2d1ee23#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dem-schwarzwald-der-reini-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dem-schwarzwald-der-reini-im-schnellcheck-a-23238bde-cd9b-44a3-b46e-2a2f117de56f#ref=rss)
+### funktioniert
 
-* [https://www.spiegel.de/panorama/k-pop-star-saengerin-nana-ueberwaeltigt-einbrecher](https://www.spiegel.de/panorama/k-pop-star-saengerin-nana-ueberwaeltigt-einbrecher-a-090f911f-8df5-497a-bbf7-dab5824e798f#ref=rss)
-### einbrecher
+* [https://www.spiegel.de/panorama/ausstellung-ueber-plattenbauten-als-ich-gast-auf-meiner-eigenen-beerdigung-war](https://www.spiegel.de/panorama/ausstellung-ueber-plattenbauten-als-ich-gast-auf-meiner-eigenen-beerdigung-war-a-44f16669-4efb-4624-a457-a3d4c2d1ee23#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/orthodoxe-in-deutschland-wo-russen-und-ukrainer-gemeinsam-fuer-die-toten-des-krieges-beten](https://www.spiegel.de/panorama/gesellschaft/orthodoxe-in-deutschland-wo-russen-und-ukrainer-gemeinsam-fuer-die-toten-des-krieges-beten-a-a756bb7f-4f67-4921-98b5-00005cea504d#ref=rss)
+### billie
 
-* [https://www.spiegel.de/panorama/k-pop-star-saengerin-nana-ueberwaeltigt-einbrecher](https://www.spiegel.de/panorama/k-pop-star-saengerin-nana-ueberwaeltigt-einbrecher-a-090f911f-8df5-497a-bbf7-dab5824e798f#ref=rss)
-### nacht
+* [https://www.spiegel.de/sport/tennis/billie-jean-king-cup-deutschland-verliert-gegen-belgien-und-steigt-ab](https://www.spiegel.de/sport/tennis/billie-jean-king-cup-deutschland-verliert-gegen-belgien-und-steigt-ab-a-ae1e56a9-d0ca-4c60-b8ff-7e7a9cb3e3cc#ref=rss)
+### jean
 
-* [https://www.spiegel.de/panorama/k-pop-star-saengerin-nana-ueberwaeltigt-einbrecher](https://www.spiegel.de/panorama/k-pop-star-saengerin-nana-ueberwaeltigt-einbrecher-a-090f911f-8df5-497a-bbf7-dab5824e798f#ref=rss)
+* [https://www.spiegel.de/sport/tennis/billie-jean-king-cup-deutschland-verliert-gegen-belgien-und-steigt-ab](https://www.spiegel.de/sport/tennis/billie-jean-king-cup-deutschland-verliert-gegen-belgien-und-steigt-ab-a-ae1e56a9-d0ca-4c60-b8ff-7e7a9cb3e3cc#ref=rss)
+### king
+
+* [https://www.spiegel.de/sport/tennis/billie-jean-king-cup-deutschland-verliert-gegen-belgien-und-steigt-ab](https://www.spiegel.de/sport/tennis/billie-jean-king-cup-deutschland-verliert-gegen-belgien-und-steigt-ab-a-ae1e56a9-d0ca-4c60-b8ff-7e7a9cb3e3cc#ref=rss)
+### cup
+
+* [https://www.spiegel.de/sport/tennis/billie-jean-king-cup-deutschland-verliert-gegen-belgien-und-steigt-ab](https://www.spiegel.de/sport/tennis/billie-jean-king-cup-deutschland-verliert-gegen-belgien-und-steigt-ab-a-ae1e56a9-d0ca-4c60-b8ff-7e7a9cb3e3cc#ref=rss)
+### belgien
+
+* [https://www.spiegel.de/sport/tennis/billie-jean-king-cup-deutschland-verliert-gegen-belgien-und-steigt-ab](https://www.spiegel.de/sport/tennis/billie-jean-king-cup-deutschland-verliert-gegen-belgien-und-steigt-ab-a-ae1e56a9-d0ca-4c60-b8ff-7e7a9cb3e3cc#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/sport/tennis/billie-jean-king-cup-deutschland-verliert-gegen-belgien-und-steigt-ab](https://www.spiegel.de/sport/tennis/billie-jean-king-cup-deutschland-verliert-gegen-belgien-und-steigt-ab-a-ae1e56a9-d0ca-4c60-b8ff-7e7a9cb3e3cc#ref=rss)
+* [https://www.spiegel.de/kultur/tom-kummer-25-jahre-nach-dem-faelschungsskandal-alle-waren-beeindruckt](https://www.spiegel.de/kultur/tom-kummer-25-jahre-nach-dem-faelschungsskandal-alle-waren-beeindruckt-a-5022ce53-9e73-4146-b682-9ba7b9f77174#ref=rss)
+### james
+
+* [https://www.spiegel.de/panorama/james-pickens-jr-greys-anatomy-star-spricht-ueber-prostatakrebs-erkrankung](https://www.spiegel.de/panorama/james-pickens-jr-greys-anatomy-star-spricht-ueber-prostatakrebs-erkrankung-a-00589e92-e71f-4367-ab31-8a2e3cfcd02f#ref=rss)
+### pickens
+
+* [https://www.spiegel.de/panorama/james-pickens-jr-greys-anatomy-star-spricht-ueber-prostatakrebs-erkrankung](https://www.spiegel.de/panorama/james-pickens-jr-greys-anatomy-star-spricht-ueber-prostatakrebs-erkrankung-a-00589e92-e71f-4367-ab31-8a2e3cfcd02f#ref=rss)
+### jr
+
+* [https://www.spiegel.de/panorama/james-pickens-jr-greys-anatomy-star-spricht-ueber-prostatakrebs-erkrankung](https://www.spiegel.de/panorama/james-pickens-jr-greys-anatomy-star-spricht-ueber-prostatakrebs-erkrankung-a-00589e92-e71f-4367-ab31-8a2e3cfcd02f#ref=rss)
+### schauspieler
+
+* [https://www.spiegel.de/panorama/james-pickens-jr-greys-anatomy-star-spricht-ueber-prostatakrebs-erkrankung](https://www.spiegel.de/panorama/james-pickens-jr-greys-anatomy-star-spricht-ueber-prostatakrebs-erkrankung-a-00589e92-e71f-4367-ab31-8a2e3cfcd02f#ref=rss)
+* [https://www.spiegel.de/panorama/glen-powell-erzaehlt-wie-dustin-hoffman-ein-casting-zum-desaster-fuer-ihn-machte](https://www.spiegel.de/panorama/glen-powell-erzaehlt-wie-dustin-hoffman-ein-casting-zum-desaster-fuer-ihn-machte-a-c0d85af0-952d-44b5-b981-7fb2a05a7d3b#ref=rss)
+### elche
+
+* [https://www.spiegel.de/panorama/elch-sichtungen-in-deutschland-der-mann-der-auf-die-elche-wartet](https://www.spiegel.de/panorama/elch-sichtungen-in-deutschland-der-mann-der-auf-die-elche-wartet-a-3c87414f-1ce8-402b-a1a1-d9a81487a898#ref=rss)
+### jemand
+
+* [https://www.spiegel.de/panorama/elch-sichtungen-in-deutschland-der-mann-der-auf-die-elche-wartet](https://www.spiegel.de/panorama/elch-sichtungen-in-deutschland-der-mann-der-auf-die-elche-wartet-a-3c87414f-1ce8-402b-a1a1-d9a81487a898#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen](https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen-a-c1388f04-28e1-4a49-80da-c7376dbcd151#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/elch-sichtungen-in-deutschland-der-mann-der-auf-die-elche-wartet](https://www.spiegel.de/panorama/elch-sichtungen-in-deutschland-der-mann-der-auf-die-elche-wartet-a-3c87414f-1ce8-402b-a1a1-d9a81487a898#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen](https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen-a-c1388f04-28e1-4a49-80da-c7376dbcd151#ref=rss)
+### troy
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-irland-schlaegt-dank-troy-parrott-ungarn-und-steht-in-den-playoffs](https://www.spiegel.de/sport/fussball/wm-qualifikation-irland-schlaegt-dank-troy-parrott-ungarn-und-steht-in-den-playoffs-a-c7b76809-ce73-4ebb-83bb-41b0358e2dce#ref=rss)
+### parrott
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-irland-schlaegt-dank-troy-parrott-ungarn-und-steht-in-den-playoffs](https://www.spiegel.de/sport/fussball/wm-qualifikation-irland-schlaegt-dank-troy-parrott-ungarn-und-steht-in-den-playoffs-a-c7b76809-ce73-4ebb-83bb-41b0358e2dce#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-irland-schlaegt-dank-troy-parrott-ungarn-und-steht-in-den-playoffs](https://www.spiegel.de/sport/fussball/wm-qualifikation-irland-schlaegt-dank-troy-parrott-ungarn-und-steht-in-den-playoffs-a-c7b76809-ce73-4ebb-83bb-41b0358e2dce#ref=rss)
+### playoffs
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-irland-schlaegt-dank-troy-parrott-ungarn-und-steht-in-den-playoffs](https://www.spiegel.de/sport/fussball/wm-qualifikation-irland-schlaegt-dank-troy-parrott-ungarn-und-steht-in-den-playoffs-a-c7b76809-ce73-4ebb-83bb-41b0358e2dce#ref=rss)
+### auftritt
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-irland-schlaegt-dank-troy-parrott-ungarn-und-steht-in-den-playoffs](https://www.spiegel.de/sport/fussball/wm-qualifikation-irland-schlaegt-dank-troy-parrott-ungarn-und-steht-in-den-playoffs-a-c7b76809-ce73-4ebb-83bb-41b0358e2dce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen](https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen-a-c1388f04-28e1-4a49-80da-c7376dbcd151#ref=rss)
+### feridun
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-feridun-zaimoglu-sohn-ohne-vater](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-feridun-zaimoglu-sohn-ohne-vater-a-3efdbfec-a3e6-489b-9caa-192608f11bb9#ref=rss)
+### zaimoglu
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-feridun-zaimoglu-sohn-ohne-vater](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-feridun-zaimoglu-sohn-ohne-vater-a-3efdbfec-a3e6-489b-9caa-192608f11bb9#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-feridun-zaimoglu-sohn-ohne-vater](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-feridun-zaimoglu-sohn-ohne-vater-a-3efdbfec-a3e6-489b-9caa-192608f11bb9#ref=rss)
+### vater
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-feridun-zaimoglu-sohn-ohne-vater](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-feridun-zaimoglu-sohn-ohne-vater-a-3efdbfec-a3e6-489b-9caa-192608f11bb9#ref=rss)
+### seines
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-feridun-zaimoglu-sohn-ohne-vater](https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-feridun-zaimoglu-sohn-ohne-vater-a-3efdbfec-a3e6-489b-9caa-192608f11bb9#ref=rss)
+* [https://www.spiegel.de/panorama/glen-powell-erzaehlt-wie-dustin-hoffman-ein-casting-zum-desaster-fuer-ihn-machte](https://www.spiegel.de/panorama/glen-powell-erzaehlt-wie-dustin-hoffman-ein-casting-zum-desaster-fuer-ihn-machte-a-c0d85af0-952d-44b5-b981-7fb2a05a7d3b#ref=rss)
+### nationalgarde
+
+* [https://www.spiegel.de/ausland/usa-trump-regierung-zieht-offenbar-nationalgarde-aus-portland-und-chicago-teilweise-ab](https://www.spiegel.de/ausland/usa-trump-regierung-zieht-offenbar-nationalgarde-aus-portland-und-chicago-teilweise-ab-a-9c2ecbca-8f77-42c1-b8cf-51050957617b#ref=rss)
+### portland
+
+* [https://www.spiegel.de/ausland/usa-trump-regierung-zieht-offenbar-nationalgarde-aus-portland-und-chicago-teilweise-ab](https://www.spiegel.de/ausland/usa-trump-regierung-zieht-offenbar-nationalgarde-aus-portland-und-chicago-teilweise-ab-a-9c2ecbca-8f77-42c1-b8cf-51050957617b#ref=rss)
+### chicago
+
+* [https://www.spiegel.de/ausland/usa-trump-regierung-zieht-offenbar-nationalgarde-aus-portland-und-chicago-teilweise-ab](https://www.spiegel.de/ausland/usa-trump-regierung-zieht-offenbar-nationalgarde-aus-portland-und-chicago-teilweise-ab-a-9c2ecbca-8f77-42c1-b8cf-51050957617b#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/justiz/spanien-ecuadorianischer-drogenboss-der-los-lobos-gefasst](https://www.spiegel.de/panorama/justiz/spanien-ecuadorianischer-drogenboss-der-los-lobos-gefasst-a-e1168c8d-635f-4123-88df-ce64fa894c82#ref=rss)
+* [https://www.spiegel.de/panorama/auktionshaus-sothebys-goldene-toilette-neben-werken-von-warhol-und-lichtenstein-versteigert](https://www.spiegel.de/panorama/auktionshaus-sothebys-goldene-toilette-neben-werken-von-warhol-und-lichtenstein-versteigert-a-25029c6c-3cfa-4774-b14a-ce54fc3cac1e#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/panorama/justiz/spanien-ecuadorianischer-drogenboss-der-los-lobos-gefasst](https://www.spiegel.de/panorama/justiz/spanien-ecuadorianischer-drogenboss-der-los-lobos-gefasst-a-e1168c8d-635f-4123-88df-ce64fa894c82#ref=rss)
+* [https://www.spiegel.de/panorama/tote-deutsche-in-der-tuerkei-generalstaatsanwaltschaft-gibt-erklaerung-ab](https://www.spiegel.de/panorama/tote-deutsche-in-der-tuerkei-generalstaatsanwaltschaft-gibt-erklaerung-ab-a-37ccf514-26a8-4697-b861-4bf576fb9498#ref=rss)
+### tom
+
+* [https://www.spiegel.de/kultur/tom-kummer-25-jahre-nach-dem-faelschungsskandal-alle-waren-beeindruckt](https://www.spiegel.de/kultur/tom-kummer-25-jahre-nach-dem-faelschungsskandal-alle-waren-beeindruckt-a-5022ce53-9e73-4146-b682-9ba7b9f77174#ref=rss)
+### kummer
+
+* [https://www.spiegel.de/kultur/tom-kummer-25-jahre-nach-dem-faelschungsskandal-alle-waren-beeindruckt](https://www.spiegel.de/kultur/tom-kummer-25-jahre-nach-dem-faelschungsskandal-alle-waren-beeindruckt-a-5022ce53-9e73-4146-b682-9ba7b9f77174#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/kultur/tom-kummer-25-jahre-nach-dem-faelschungsskandal-alle-waren-beeindruckt](https://www.spiegel.de/kultur/tom-kummer-25-jahre-nach-dem-faelschungsskandal-alle-waren-beeindruckt-a-5022ce53-9e73-4146-b682-9ba7b9f77174#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/lurch-des-jahres-2026-alpensalamander-gewinnt-auszeichnung](https://www.spiegel.de/panorama/gesellschaft/lurch-des-jahres-2026-alpensalamander-gewinnt-auszeichnung-a-9953619f-a87b-4f24-9076-d9fef8c179d5#ref=rss)
+### waren
+
+* [https://www.spiegel.de/kultur/tom-kummer-25-jahre-nach-dem-faelschungsskandal-alle-waren-beeindruckt](https://www.spiegel.de/kultur/tom-kummer-25-jahre-nach-dem-faelschungsskandal-alle-waren-beeindruckt-a-5022ce53-9e73-4146-b682-9ba7b9f77174#ref=rss)
+### zeitzeugen
+
+* [https://www.spiegel.de/kultur/tom-kummer-25-jahre-nach-dem-faelschungsskandal-alle-waren-beeindruckt](https://www.spiegel.de/kultur/tom-kummer-25-jahre-nach-dem-faelschungsskandal-alle-waren-beeindruckt-a-5022ce53-9e73-4146-b682-9ba7b9f77174#ref=rss)
+* [https://www.spiegel.de/kultur/das-grosse-heft-im-hamburger-schauspielhaus-der-kinderblick-auf-krieg-und-feuersturm](https://www.spiegel.de/kultur/das-grosse-heft-im-hamburger-schauspielhaus-der-kinderblick-auf-krieg-und-feuersturm-a-6bbe4e60-4e12-4e1d-b6a0-f2edef8b77cf#ref=rss)
+### goldene
+
+* [https://www.spiegel.de/panorama/auktionshaus-sothebys-goldene-toilette-neben-werken-von-warhol-und-lichtenstein-versteigert](https://www.spiegel.de/panorama/auktionshaus-sothebys-goldene-toilette-neben-werken-von-warhol-und-lichtenstein-versteigert-a-25029c6c-3cfa-4774-b14a-ce54fc3cac1e#ref=rss)
+### toilette
+
+* [https://www.spiegel.de/panorama/auktionshaus-sothebys-goldene-toilette-neben-werken-von-warhol-und-lichtenstein-versteigert](https://www.spiegel.de/panorama/auktionshaus-sothebys-goldene-toilette-neben-werken-von-warhol-und-lichtenstein-versteigert-a-25029c6c-3cfa-4774-b14a-ce54fc3cac1e#ref=rss)
+### werken
+
+* [https://www.spiegel.de/panorama/auktionshaus-sothebys-goldene-toilette-neben-werken-von-warhol-und-lichtenstein-versteigert](https://www.spiegel.de/panorama/auktionshaus-sothebys-goldene-toilette-neben-werken-von-warhol-und-lichtenstein-versteigert-a-25029c6c-3cfa-4774-b14a-ce54fc3cac1e#ref=rss)
+### warhol
+
+* [https://www.spiegel.de/panorama/auktionshaus-sothebys-goldene-toilette-neben-werken-von-warhol-und-lichtenstein-versteigert](https://www.spiegel.de/panorama/auktionshaus-sothebys-goldene-toilette-neben-werken-von-warhol-und-lichtenstein-versteigert-a-25029c6c-3cfa-4774-b14a-ce54fc3cac1e#ref=rss)
+### tschechien
+
+* [https://www.spiegel.de/panorama/justiz/tschechien-jaeger-erschiesst-jaeger](https://www.spiegel.de/panorama/justiz/tschechien-jaeger-erschiesst-jaeger-a-798daf68-78b6-4f7d-a9e9-2594badd8c10#ref=rss)
+### jäger
+
+* [https://www.spiegel.de/panorama/justiz/tschechien-jaeger-erschiesst-jaeger](https://www.spiegel.de/panorama/justiz/tschechien-jaeger-erschiesst-jaeger-a-798daf68-78b6-4f7d-a9e9-2594badd8c10#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/panorama/justiz/tschechien-jaeger-erschiesst-jaeger](https://www.spiegel.de/panorama/justiz/tschechien-jaeger-erschiesst-jaeger-a-798daf68-78b6-4f7d-a9e9-2594badd8c10#ref=rss)
 * [https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise](https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise-a-33b9c277-5caa-4212-952f-1a0afbfe31c8#ref=rss)
-### krankenhaus
+### korruptionsskandal
 
-* [https://www.spiegel.de/panorama/k-pop-star-saengerin-nana-ueberwaeltigt-einbrecher](https://www.spiegel.de/panorama/k-pop-star-saengerin-nana-ueberwaeltigt-einbrecher-a-090f911f-8df5-497a-bbf7-dab5824e798f#ref=rss)
-* [https://www.spiegel.de/panorama/kalifornien-mindestens-vier-tote-bei-bootsunglueck](https://www.spiegel.de/panorama/kalifornien-mindestens-vier-tote-bei-bootsunglueck-a-6d1b37ac-e0ae-4296-9a3a-5e79f1ae57c9#ref=rss)
-### helena
+* [https://www.spiegel.de/ausland/philippinen-massenproteste-wegen-korruptionsskandal-beim-hochwasserschutz](https://www.spiegel.de/ausland/philippinen-massenproteste-wegen-korruptionsskandal-beim-hochwasserschutz-a-bb06e768-6c8f-4be4-80bf-af3131117d9a#ref=rss)
+### hochwasserschutz
 
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann-a-8d9274d9-bb2d-431a-97ab-3e4d3a3ddad2#ref=rss)
-### baumeister
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann-a-8d9274d9-bb2d-431a-97ab-3e4d3a3ddad2#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann-a-8d9274d9-bb2d-431a-97ab-3e4d3a3ddad2#ref=rss)
-### plaßmann
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann-a-8d9274d9-bb2d-431a-97ab-3e4d3a3ddad2#ref=rss)
-### klaus
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann-a-8d9274d9-bb2d-431a-97ab-3e4d3a3ddad2#ref=rss)
-### stuttmann
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann-a-8d9274d9-bb2d-431a-97ab-3e4d3a3ddad2#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann-a-8d9274d9-bb2d-431a-97ab-3e4d3a3ddad2#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-am-mount-rushmore-mit-dem-kopf-gegen-die-wand](https://www.spiegel.de/ausland/donald-trump-am-mount-rushmore-mit-dem-kopf-gegen-die-wand-a-4c058738-a5e4-4234-ac2f-8860142f43ac#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-ice-razzien-auf-charlotte-ausgeweitet](https://www.spiegel.de/ausland/usa-ice-razzien-auf-charlotte-ausgeweitet-a-9d17fb24-0914-4909-a1ff-4d227bec8e03#ref=rss)
-* [https://www.spiegel.de/panorama/dominikanische-republik-einsatzkraefte-stoppen-drogenschmuggel-boot](https://www.spiegel.de/panorama/dominikanische-republik-einsatzkraefte-stoppen-drogenschmuggel-boot-a-f674bc92-6b1a-4210-97f8-a845f78c1cfa#ref=rss)
-### charlotte
-
-* [https://www.spiegel.de/ausland/usa-ice-razzien-auf-charlotte-ausgeweitet](https://www.spiegel.de/ausland/usa-ice-razzien-auf-charlotte-ausgeweitet-a-9d17fb24-0914-4909-a1ff-4d227bec8e03#ref=rss)
-### untreue
-
-* [https://www.spiegel.de/panorama/shaolin-kloster-ex-abt-wegen-untreue-und-bestechlichkeit-in-haft](https://www.spiegel.de/panorama/shaolin-kloster-ex-abt-wegen-untreue-und-bestechlichkeit-in-haft-a-81f0b477-70a2-4ea8-8115-9b31c59cc434#ref=rss)
-### bestechlichkeit
-
-* [https://www.spiegel.de/panorama/shaolin-kloster-ex-abt-wegen-untreue-und-bestechlichkeit-in-haft](https://www.spiegel.de/panorama/shaolin-kloster-ex-abt-wegen-untreue-und-bestechlichkeit-in-haft-a-81f0b477-70a2-4ea8-8115-9b31c59cc434#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/shaolin-kloster-ex-abt-wegen-untreue-und-bestechlichkeit-in-haft](https://www.spiegel.de/panorama/shaolin-kloster-ex-abt-wegen-untreue-und-bestechlichkeit-in-haft-a-81f0b477-70a2-4ea8-8115-9b31c59cc434#ref=rss)
-### landwirte
-
-* [https://www.spiegel.de/wirtschaft/service/brasilien-wie-landwirte-fuer-einen-boom-der-agrarindustrie-sorgen](https://www.spiegel.de/wirtschaft/service/brasilien-wie-landwirte-fuer-einen-boom-der-agrarindustrie-sorgen-a-d7a48fca-1413-44e0-b6f2-4ce02ebe41b6#ref=rss)
-### boom
-
-* [https://www.spiegel.de/wirtschaft/service/brasilien-wie-landwirte-fuer-einen-boom-der-agrarindustrie-sorgen](https://www.spiegel.de/wirtschaft/service/brasilien-wie-landwirte-fuer-einen-boom-der-agrarindustrie-sorgen-a-d7a48fca-1413-44e0-b6f2-4ce02ebe41b6#ref=rss)
-### agrarindustrie
-
-* [https://www.spiegel.de/wirtschaft/service/brasilien-wie-landwirte-fuer-einen-boom-der-agrarindustrie-sorgen](https://www.spiegel.de/wirtschaft/service/brasilien-wie-landwirte-fuer-einen-boom-der-agrarindustrie-sorgen-a-d7a48fca-1413-44e0-b6f2-4ce02ebe41b6#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/wirtschaft/service/brasilien-wie-landwirte-fuer-einen-boom-der-agrarindustrie-sorgen](https://www.spiegel.de/wirtschaft/service/brasilien-wie-landwirte-fuer-einen-boom-der-agrarindustrie-sorgen-a-d7a48fca-1413-44e0-b6f2-4ce02ebe41b6#ref=rss)
-### technik
-
-* [https://www.spiegel.de/wirtschaft/service/brasilien-wie-landwirte-fuer-einen-boom-der-agrarindustrie-sorgen](https://www.spiegel.de/wirtschaft/service/brasilien-wie-landwirte-fuer-einen-boom-der-agrarindustrie-sorgen-a-d7a48fca-1413-44e0-b6f2-4ce02ebe41b6#ref=rss)
-### profitieren
-
-* [https://www.spiegel.de/wirtschaft/service/brasilien-wie-landwirte-fuer-einen-boom-der-agrarindustrie-sorgen](https://www.spiegel.de/wirtschaft/service/brasilien-wie-landwirte-fuer-einen-boom-der-agrarindustrie-sorgen-a-d7a48fca-1413-44e0-b6f2-4ce02ebe41b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/luftverkehrsteuer-union-draengt-fluggesellschaften-zu-niedrigeren-ticketpreisen](https://www.spiegel.de/wirtschaft/luftverkehrsteuer-union-draengt-fluggesellschaften-zu-niedrigeren-ticketpreisen-a-0315ca8a-901f-4cb3-842f-458b4187ac09#ref=rss)
-### hotel
-
-* [https://www.spiegel.de/panorama/istanbul-drei-deutsche-tot-weitere-menschen-in-klinik-behoerden-evakuieren-hotel](https://www.spiegel.de/panorama/istanbul-drei-deutsche-tot-weitere-menschen-in-klinik-behoerden-evakuieren-hotel-a-941067ed-bb22-4827-8bf7-743f860391f4#ref=rss)
-### republik
-
-* [https://www.spiegel.de/panorama/dominikanische-republik-einsatzkraefte-stoppen-drogenschmuggel-boot](https://www.spiegel.de/panorama/dominikanische-republik-einsatzkraefte-stoppen-drogenschmuggel-boot-a-f674bc92-6b1a-4210-97f8-a845f78c1cfa#ref=rss)
-### einsatzkräfte
-
-* [https://www.spiegel.de/panorama/dominikanische-republik-einsatzkraefte-stoppen-drogenschmuggel-boot](https://www.spiegel.de/panorama/dominikanische-republik-einsatzkraefte-stoppen-drogenschmuggel-boot-a-f674bc92-6b1a-4210-97f8-a845f78c1cfa#ref=rss)
-### boot
-
-* [https://www.spiegel.de/panorama/dominikanische-republik-einsatzkraefte-stoppen-drogenschmuggel-boot](https://www.spiegel.de/panorama/dominikanische-republik-einsatzkraefte-stoppen-drogenschmuggel-boot-a-f674bc92-6b1a-4210-97f8-a845f78c1cfa#ref=rss)
-* [https://www.spiegel.de/panorama/kalifornien-mindestens-vier-tote-bei-bootsunglueck](https://www.spiegel.de/panorama/kalifornien-mindestens-vier-tote-bei-bootsunglueck-a-6d1b37ac-e0ae-4296-9a3a-5e79f1ae57c9#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/berlin-neuer-bussgeldkatalog-weggeworfene-kippe-kann-bis-zu-3000-euro-kosten](https://www.spiegel.de/panorama/berlin-neuer-bussgeldkatalog-weggeworfene-kippe-kann-bis-zu-3000-euro-kosten-a-5cecc667-4dbb-4594-9af5-cdeedfce60ef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landesregierung-zahlte-fast-100-000-euro-fuer-fotografen](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landesregierung-zahlte-fast-100-000-euro-fuer-fotografen-a-74cc9e7d-4c24-4f90-b3bf-984b86dce892#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/panorama/berlin-neuer-bussgeldkatalog-weggeworfene-kippe-kann-bis-zu-3000-euro-kosten](https://www.spiegel.de/panorama/berlin-neuer-bussgeldkatalog-weggeworfene-kippe-kann-bis-zu-3000-euro-kosten-a-5cecc667-4dbb-4594-9af5-cdeedfce60ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strom-und-gas-preise-wo-die-energiekosten-guenstiger-werden-und-wo-nicht](https://www.spiegel.de/wirtschaft/strom-und-gas-preise-wo-die-energiekosten-guenstiger-werden-und-wo-nicht-a-f4d72274-f12e-43fe-9399-e7beae9ae90f#ref=rss)
-### wo
-
-* [https://www.spiegel.de/wirtschaft/strom-und-gas-preise-wo-die-energiekosten-guenstiger-werden-und-wo-nicht](https://www.spiegel.de/wirtschaft/strom-und-gas-preise-wo-die-energiekosten-guenstiger-werden-und-wo-nicht-a-f4d72274-f12e-43fe-9399-e7beae9ae90f#ref=rss)
-### energiekosten
-
-* [https://www.spiegel.de/wirtschaft/strom-und-gas-preise-wo-die-energiekosten-guenstiger-werden-und-wo-nicht](https://www.spiegel.de/wirtschaft/strom-und-gas-preise-wo-die-energiekosten-guenstiger-werden-und-wo-nicht-a-f4d72274-f12e-43fe-9399-e7beae9ae90f#ref=rss)
-### sinken
-
-* [https://www.spiegel.de/wirtschaft/strom-und-gas-preise-wo-die-energiekosten-guenstiger-werden-und-wo-nicht](https://www.spiegel.de/wirtschaft/strom-und-gas-preise-wo-die-energiekosten-guenstiger-werden-und-wo-nicht-a-f4d72274-f12e-43fe-9399-e7beae9ae90f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/luftverkehrsteuer-union-draengt-fluggesellschaften-zu-niedrigeren-ticketpreisen](https://www.spiegel.de/wirtschaft/luftverkehrsteuer-union-draengt-fluggesellschaften-zu-niedrigeren-ticketpreisen-a-0315ca8a-901f-4cb3-842f-458b4187ac09#ref=rss)
-### putin
-
-* [https://www.spiegel.de/politik/deutschland/news-die-afd-und-putin-ard-und-zdf](https://www.spiegel.de/politik/deutschland/news-die-afd-und-putin-ard-und-zdf-a-5c008e48-6637-4d33-8652-1bb1f81a98d9#ref=rss)
-### möchte
-
-* [https://www.spiegel.de/politik/deutschland/news-die-afd-und-putin-ard-und-zdf](https://www.spiegel.de/politik/deutschland/news-die-afd-und-putin-ard-und-zdf-a-5c008e48-6637-4d33-8652-1bb1f81a98d9#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-am-mount-rushmore-mit-dem-kopf-gegen-die-wand](https://www.spiegel.de/ausland/donald-trump-am-mount-rushmore-mit-dem-kopf-gegen-die-wand-a-4c058738-a5e4-4234-ac2f-8860142f43ac#ref=rss)
-### belastungsprobe
-
-* [https://www.spiegel.de/partnerschaft/hauskauf-und-beziehung-paar-saniert-schloss-fuer-ihre-hochzeit-es-wird-zur-belastungsprobe](https://www.spiegel.de/partnerschaft/hauskauf-und-beziehung-paar-saniert-schloss-fuer-ihre-hochzeit-es-wird-zur-belastungsprobe-a-2663d487-f9c6-4868-9831-7e32932c6623#ref=rss)
-### tief
-
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landesregierung-zahlte-fast-100-000-euro-fuer-fotografen](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-landesregierung-zahlte-fast-100-000-euro-fuer-fotografen-a-74cc9e7d-4c24-4f90-b3bf-984b86dce892#ref=rss)
-* [https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise](https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise-a-33b9c277-5caa-4212-952f-1a0afbfe31c8#ref=rss)
-### marjorie
-
-* [https://www.spiegel.de/ausland/marjorie-taylor-greene-wird-nach-auseinandersetzung-mit-donald-trump-offenbar-bedroht](https://www.spiegel.de/ausland/marjorie-taylor-greene-wird-nach-auseinandersetzung-mit-donald-trump-offenbar-bedroht-a-0538fc3f-a3c7-4d9f-8c44-305f99b058cd#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/ausland/marjorie-taylor-greene-wird-nach-auseinandersetzung-mit-donald-trump-offenbar-bedroht](https://www.spiegel.de/ausland/marjorie-taylor-greene-wird-nach-auseinandersetzung-mit-donald-trump-offenbar-bedroht-a-0538fc3f-a3c7-4d9f-8c44-305f99b058cd#ref=rss)
-### greene
-
-* [https://www.spiegel.de/ausland/marjorie-taylor-greene-wird-nach-auseinandersetzung-mit-donald-trump-offenbar-bedroht](https://www.spiegel.de/ausland/marjorie-taylor-greene-wird-nach-auseinandersetzung-mit-donald-trump-offenbar-bedroht-a-0538fc3f-a3c7-4d9f-8c44-305f99b058cd#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/marjorie-taylor-greene-wird-nach-auseinandersetzung-mit-donald-trump-offenbar-bedroht](https://www.spiegel.de/ausland/marjorie-taylor-greene-wird-nach-auseinandersetzung-mit-donald-trump-offenbar-bedroht-a-0538fc3f-a3c7-4d9f-8c44-305f99b058cd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop30-initiative-fuer-neue-luxussteuer-auf-fluege-spaltet-bundesregierung](https://www.spiegel.de/wissenschaft/cop30-initiative-fuer-neue-luxussteuer-auf-fluege-spaltet-bundesregierung-a-58316736-329c-4766-b6ae-e51c3e954dcb#ref=rss)
-### mount
-
-* [https://www.spiegel.de/ausland/donald-trump-am-mount-rushmore-mit-dem-kopf-gegen-die-wand](https://www.spiegel.de/ausland/donald-trump-am-mount-rushmore-mit-dem-kopf-gegen-die-wand-a-4c058738-a5e4-4234-ac2f-8860142f43ac#ref=rss)
-### rushmore
-
-* [https://www.spiegel.de/ausland/donald-trump-am-mount-rushmore-mit-dem-kopf-gegen-die-wand](https://www.spiegel.de/ausland/donald-trump-am-mount-rushmore-mit-dem-kopf-gegen-die-wand-a-4c058738-a5e4-4234-ac2f-8860142f43ac#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/ausland/donald-trump-am-mount-rushmore-mit-dem-kopf-gegen-die-wand](https://www.spiegel.de/ausland/donald-trump-am-mount-rushmore-mit-dem-kopf-gegen-die-wand-a-4c058738-a5e4-4234-ac2f-8860142f43ac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/luftverkehrsteuer-union-draengt-fluggesellschaften-zu-niedrigeren-ticketpreisen](https://www.spiegel.de/wirtschaft/luftverkehrsteuer-union-draengt-fluggesellschaften-zu-niedrigeren-ticketpreisen-a-0315ca8a-901f-4cb3-842f-458b4187ac09#ref=rss)
+* [https://www.spiegel.de/ausland/philippinen-massenproteste-wegen-korruptionsskandal-beim-hochwasserschutz](https://www.spiegel.de/ausland/philippinen-massenproteste-wegen-korruptionsskandal-beim-hochwasserschutz-a-bb06e768-6c8f-4be4-80bf-af3131117d9a#ref=rss)
 ### diesen
 
 * [https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise](https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise-a-33b9c277-5caa-4212-952f-1a0afbfe31c8#ref=rss)
 ### tipps
 
 * [https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise](https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise-a-33b9c277-5caa-4212-952f-1a0afbfe31c8#ref=rss)
-### luftverkehrsteuer
+### zwei
 
-* [https://www.spiegel.de/wirtschaft/luftverkehrsteuer-union-draengt-fluggesellschaften-zu-niedrigeren-ticketpreisen](https://www.spiegel.de/wirtschaft/luftverkehrsteuer-union-draengt-fluggesellschaften-zu-niedrigeren-ticketpreisen-a-0315ca8a-901f-4cb3-842f-458b4187ac09#ref=rss)
+* [https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise](https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise-a-33b9c277-5caa-4212-952f-1a0afbfe31c8#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/lurch-des-jahres-2026-alpensalamander-gewinnt-auszeichnung](https://www.spiegel.de/panorama/gesellschaft/lurch-des-jahres-2026-alpensalamander-gewinnt-auszeichnung-a-9953619f-a87b-4f24-9076-d9fef8c179d5#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise](https://www.spiegel.de/partnerschaft/wohnung-oder-haus-renovieren-mit-diesen-tipps-ueberstehen-paare-die-sanierung-ohne-krise-a-33b9c277-5caa-4212-952f-1a0afbfe31c8#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/orthodoxe-in-deutschland-wo-russen-und-ukrainer-gemeinsam-fuer-die-toten-des-krieges-beten](https://www.spiegel.de/panorama/gesellschaft/orthodoxe-in-deutschland-wo-russen-und-ukrainer-gemeinsam-fuer-die-toten-des-krieges-beten-a-a756bb7f-4f67-4921-98b5-00005cea504d#ref=rss)
+### verhandelt
+
+* [https://www.spiegel.de/ausland/ukraine-selenskyj-verhandelt-in-athen-ueber-gaslieferungen-fuer-den-winter](https://www.spiegel.de/ausland/ukraine-selenskyj-verhandelt-in-athen-ueber-gaslieferungen-fuer-den-winter-a-34967dd8-bbfb-44c2-b322-c9dcfdb01731#ref=rss)
+### gaslieferungen
+
+* [https://www.spiegel.de/ausland/ukraine-selenskyj-verhandelt-in-athen-ueber-gaslieferungen-fuer-den-winter](https://www.spiegel.de/ausland/ukraine-selenskyj-verhandelt-in-athen-ueber-gaslieferungen-fuer-den-winter-a-34967dd8-bbfb-44c2-b322-c9dcfdb01731#ref=rss)
+### winter
+
+* [https://www.spiegel.de/ausland/ukraine-selenskyj-verhandelt-in-athen-ueber-gaslieferungen-fuer-den-winter](https://www.spiegel.de/ausland/ukraine-selenskyj-verhandelt-in-athen-ueber-gaslieferungen-fuer-den-winter-a-34967dd8-bbfb-44c2-b322-c9dcfdb01731#ref=rss)
+### karim
+
+* [https://www.spiegel.de/sport/fussball/karim-adeyemi-von-borussia-dortmund-strafbefehl-wegen-illegalem-waffenbesitz](https://www.spiegel.de/sport/fussball/karim-adeyemi-von-borussia-dortmund-strafbefehl-wegen-illegalem-waffenbesitz-a-ecdf0f1b-602e-4c34-8d6e-33f1b92f6560#ref=rss)
+### adeyemi
+
+* [https://www.spiegel.de/sport/fussball/karim-adeyemi-von-borussia-dortmund-strafbefehl-wegen-illegalem-waffenbesitz](https://www.spiegel.de/sport/fussball/karim-adeyemi-von-borussia-dortmund-strafbefehl-wegen-illegalem-waffenbesitz-a-ecdf0f1b-602e-4c34-8d6e-33f1b92f6560#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/sport/fussball/karim-adeyemi-von-borussia-dortmund-strafbefehl-wegen-illegalem-waffenbesitz](https://www.spiegel.de/sport/fussball/karim-adeyemi-von-borussia-dortmund-strafbefehl-wegen-illegalem-waffenbesitz-a-ecdf0f1b-602e-4c34-8d6e-33f1b92f6560#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen](https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen-a-c1388f04-28e1-4a49-80da-c7376dbcd151#ref=rss)
+### saporischschja
+
+* [https://www.spiegel.de/ausland/saporischschja-russland-meldet-vormarsch-im-sueden-der-ukraine](https://www.spiegel.de/ausland/saporischschja-russland-meldet-vormarsch-im-sueden-der-ukraine-a-cf465c90-a53f-4db2-bc22-5da27ca10b13#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/saporischschja-russland-meldet-vormarsch-im-sueden-der-ukraine](https://www.spiegel.de/ausland/saporischschja-russland-meldet-vormarsch-im-sueden-der-ukraine-a-cf465c90-a53f-4db2-bc22-5da27ca10b13#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/orthodoxe-in-deutschland-wo-russen-und-ukrainer-gemeinsam-fuer-die-toten-des-krieges-beten](https://www.spiegel.de/panorama/gesellschaft/orthodoxe-in-deutschland-wo-russen-und-ukrainer-gemeinsam-fuer-die-toten-des-krieges-beten-a-a756bb7f-4f67-4921-98b5-00005cea504d#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/ausland/saporischschja-russland-meldet-vormarsch-im-sueden-der-ukraine](https://www.spiegel.de/ausland/saporischschja-russland-meldet-vormarsch-im-sueden-der-ukraine-a-cf465c90-a53f-4db2-bc22-5da27ca10b13#ref=rss)
+### süden
+
+* [https://www.spiegel.de/ausland/saporischschja-russland-meldet-vormarsch-im-sueden-der-ukraine](https://www.spiegel.de/ausland/saporischschja-russland-meldet-vormarsch-im-sueden-der-ukraine-a-cf465c90-a53f-4db2-bc22-5da27ca10b13#ref=rss)
+### kreml
+
+* [https://www.spiegel.de/ausland/saporischschja-russland-meldet-vormarsch-im-sueden-der-ukraine](https://www.spiegel.de/ausland/saporischschja-russland-meldet-vormarsch-im-sueden-der-ukraine-a-cf465c90-a53f-4db2-bc22-5da27ca10b13#ref=rss)
+* [https://www.spiegel.de/ausland/viktor-orban-widerspricht-sich-in-podcast-von-matthias-doepfner-bei-russland-aeusserungen](https://www.spiegel.de/ausland/viktor-orban-widerspricht-sich-in-podcast-von-matthias-doepfner-bei-russland-aeusserungen-a-9e286325-39a6-419b-a565-c2efd2b7f598#ref=rss)
+### lurch
+
+* [https://www.spiegel.de/panorama/gesellschaft/lurch-des-jahres-2026-alpensalamander-gewinnt-auszeichnung](https://www.spiegel.de/panorama/gesellschaft/lurch-des-jahres-2026-alpensalamander-gewinnt-auszeichnung-a-9953619f-a87b-4f24-9076-d9fef8c179d5#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/panorama/gesellschaft/lurch-des-jahres-2026-alpensalamander-gewinnt-auszeichnung](https://www.spiegel.de/panorama/gesellschaft/lurch-des-jahres-2026-alpensalamander-gewinnt-auszeichnung-a-9953619f-a87b-4f24-9076-d9fef8c179d5#ref=rss)
+### alpensalamander
+
+* [https://www.spiegel.de/panorama/gesellschaft/lurch-des-jahres-2026-alpensalamander-gewinnt-auszeichnung](https://www.spiegel.de/panorama/gesellschaft/lurch-des-jahres-2026-alpensalamander-gewinnt-auszeichnung-a-9953619f-a87b-4f24-9076-d9fef8c179d5#ref=rss)
+### vier
+
+* [https://www.spiegel.de/panorama/gesellschaft/lurch-des-jahres-2026-alpensalamander-gewinnt-auszeichnung](https://www.spiegel.de/panorama/gesellschaft/lurch-des-jahres-2026-alpensalamander-gewinnt-auszeichnung-a-9953619f-a87b-4f24-9076-d9fef8c179d5#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-nasskalt-und-die-schneefallgrenze-sinkt](https://www.spiegel.de/panorama/wetter-in-deutschland-es-wird-nasskalt-und-die-schneefallgrenze-sinkt-a-965c27e9-a8c7-4787-b070-9b11a3a838d6#ref=rss)
+### tier
+
+* [https://www.spiegel.de/panorama/gesellschaft/lurch-des-jahres-2026-alpensalamander-gewinnt-auszeichnung](https://www.spiegel.de/panorama/gesellschaft/lurch-des-jahres-2026-alpensalamander-gewinnt-auszeichnung-a-9953619f-a87b-4f24-9076-d9fef8c179d5#ref=rss)
+* [https://www.spiegel.de/panorama/rottweil-marder-vertreibt-gemeinde-aus-kirche-unertraeglicher-gestank](https://www.spiegel.de/panorama/rottweil-marder-vertreibt-gemeinde-aus-kirche-unertraeglicher-gestank-a-a0b4a710-937d-4114-91b9-c4b0c7937308#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen](https://www.spiegel.de/politik/deutschland/union-und-spd-streiten-ueber-rente-kann-sich-hier-noch-jemand-bewegen-a-c1388f04-28e1-4a49-80da-c7376dbcd151#ref=rss)
+### viktor
+
+* [https://www.spiegel.de/ausland/viktor-orban-widerspricht-sich-in-podcast-von-matthias-doepfner-bei-russland-aeusserungen](https://www.spiegel.de/ausland/viktor-orban-widerspricht-sich-in-podcast-von-matthias-doepfner-bei-russland-aeusserungen-a-9e286325-39a6-419b-a565-c2efd2b7f598#ref=rss)
+### orbán
+
+* [https://www.spiegel.de/ausland/viktor-orban-widerspricht-sich-in-podcast-von-matthias-doepfner-bei-russland-aeusserungen](https://www.spiegel.de/ausland/viktor-orban-widerspricht-sich-in-podcast-von-matthias-doepfner-bei-russland-aeusserungen-a-9e286325-39a6-419b-a565-c2efd2b7f598#ref=rss)
+### döpfner
+
+* [https://www.spiegel.de/ausland/viktor-orban-widerspricht-sich-in-podcast-von-matthias-doepfner-bei-russland-aeusserungen](https://www.spiegel.de/ausland/viktor-orban-widerspricht-sich-in-podcast-von-matthias-doepfner-bei-russland-aeusserungen-a-9e286325-39a6-419b-a565-c2efd2b7f598#ref=rss)
+### rottweil
+
+* [https://www.spiegel.de/panorama/rottweil-marder-vertreibt-gemeinde-aus-kirche-unertraeglicher-gestank](https://www.spiegel.de/panorama/rottweil-marder-vertreibt-gemeinde-aus-kirche-unertraeglicher-gestank-a-a0b4a710-937d-4114-91b9-c4b0c7937308#ref=rss)
+### marder
+
+* [https://www.spiegel.de/panorama/rottweil-marder-vertreibt-gemeinde-aus-kirche-unertraeglicher-gestank](https://www.spiegel.de/panorama/rottweil-marder-vertreibt-gemeinde-aus-kirche-unertraeglicher-gestank-a-a0b4a710-937d-4114-91b9-c4b0c7937308#ref=rss)
+### gemeinde
+
+* [https://www.spiegel.de/panorama/rottweil-marder-vertreibt-gemeinde-aus-kirche-unertraeglicher-gestank](https://www.spiegel.de/panorama/rottweil-marder-vertreibt-gemeinde-aus-kirche-unertraeglicher-gestank-a-a0b4a710-937d-4114-91b9-c4b0c7937308#ref=rss)
+### kirche
+
+* [https://www.spiegel.de/panorama/rottweil-marder-vertreibt-gemeinde-aus-kirche-unertraeglicher-gestank](https://www.spiegel.de/panorama/rottweil-marder-vertreibt-gemeinde-aus-kirche-unertraeglicher-gestank-a-a0b4a710-937d-4114-91b9-c4b0c7937308#ref=rss)
+### generalstaatsanwaltschaft
+
+* [https://www.spiegel.de/panorama/tote-deutsche-in-der-tuerkei-generalstaatsanwaltschaft-gibt-erklaerung-ab](https://www.spiegel.de/panorama/tote-deutsche-in-der-tuerkei-generalstaatsanwaltschaft-gibt-erklaerung-ab-a-37ccf514-26a8-4697-b861-4bf576fb9498#ref=rss)
+### markus
+
+* [https://www.spiegel.de/politik/deutschland/rentenstreit-mit-der-jungen-union-markus-soeder-gelingt-woran-friedrich-merz-scheitert](https://www.spiegel.de/politik/deutschland/rentenstreit-mit-der-jungen-union-markus-soeder-gelingt-woran-friedrich-merz-scheitert-a-f0c0333b-5158-44c0-9730-6b05b39c9b81#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/deutschland/rentenstreit-mit-der-jungen-union-markus-soeder-gelingt-woran-friedrich-merz-scheitert](https://www.spiegel.de/politik/deutschland/rentenstreit-mit-der-jungen-union-markus-soeder-gelingt-woran-friedrich-merz-scheitert-a-f0c0333b-5158-44c0-9730-6b05b39c9b81#ref=rss)
+### heft
+
+* [https://www.spiegel.de/kultur/das-grosse-heft-im-hamburger-schauspielhaus-der-kinderblick-auf-krieg-und-feuersturm](https://www.spiegel.de/kultur/das-grosse-heft-im-hamburger-schauspielhaus-der-kinderblick-auf-krieg-und-feuersturm-a-6bbe4e60-4e12-4e1d-b6a0-f2edef8b77cf#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/kultur/das-grosse-heft-im-hamburger-schauspielhaus-der-kinderblick-auf-krieg-und-feuersturm](https://www.spiegel.de/kultur/das-grosse-heft-im-hamburger-schauspielhaus-der-kinderblick-auf-krieg-und-feuersturm-a-6bbe4e60-4e12-4e1d-b6a0-f2edef8b77cf#ref=rss)
+### glen
+
+* [https://www.spiegel.de/panorama/glen-powell-erzaehlt-wie-dustin-hoffman-ein-casting-zum-desaster-fuer-ihn-machte](https://www.spiegel.de/panorama/glen-powell-erzaehlt-wie-dustin-hoffman-ein-casting-zum-desaster-fuer-ihn-machte-a-c0d85af0-952d-44b5-b981-7fb2a05a7d3b#ref=rss)
+### powell
+
+* [https://www.spiegel.de/panorama/glen-powell-erzaehlt-wie-dustin-hoffman-ein-casting-zum-desaster-fuer-ihn-machte](https://www.spiegel.de/panorama/glen-powell-erzaehlt-wie-dustin-hoffman-ein-casting-zum-desaster-fuer-ihn-machte-a-c0d85af0-952d-44b5-b981-7fb2a05a7d3b#ref=rss)
+### dustin
+
+* [https://www.spiegel.de/panorama/glen-powell-erzaehlt-wie-dustin-hoffman-ein-casting-zum-desaster-fuer-ihn-machte](https://www.spiegel.de/panorama/glen-powell-erzaehlt-wie-dustin-hoffman-ein-casting-zum-desaster-fuer-ihn-machte-a-c0d85af0-952d-44b5-b981-7fb2a05a7d3b#ref=rss)
+### hoffman
+
+* [https://www.spiegel.de/panorama/glen-powell-erzaehlt-wie-dustin-hoffman-ein-casting-zum-desaster-fuer-ihn-machte](https://www.spiegel.de/panorama/glen-powell-erzaehlt-wie-dustin-hoffman-ein-casting-zum-desaster-fuer-ihn-machte-a-c0d85af0-952d-44b5-b981-7fb2a05a7d3b#ref=rss)
+### desaster
+
+* [https://www.spiegel.de/panorama/glen-powell-erzaehlt-wie-dustin-hoffman-ein-casting-zum-desaster-fuer-ihn-machte](https://www.spiegel.de/panorama/glen-powell-erzaehlt-wie-dustin-hoffman-ein-casting-zum-desaster-fuer-ihn-machte-a-c0d85af0-952d-44b5-b981-7fb2a05a7d3b#ref=rss)
 
