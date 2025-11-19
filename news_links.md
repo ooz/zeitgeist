@@ -4,334 +4,376 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-ueberholt-usa-als-wichtigsten-handelspartner](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-ueberholt-usa-als-wichtigsten-handelspartner-a-9b051b02-3d26-490c-8339-1681fc032051#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-politiker-wuenscht-christian-lindner-erfolg-kolumne](https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-politiker-wuenscht-christian-lindner-erfolg-kolumne-a-38ce7d5f-026d-429c-96e4-b9f050697f2b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mauritius-touristin-aus-deutschland-nach-unfall-gestorben](https://www.spiegel.de/panorama/justiz/mauritius-touristin-aus-deutschland-nach-unfall-gestorben-a-e6136fa6-606b-4781-acc6-b25a78619e58#ref=rss)
-### land
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-ueberholt-usa-als-wichtigsten-handelspartner](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-ueberholt-usa-als-wichtigsten-handelspartner-a-9b051b02-3d26-490c-8339-1681fc032051#ref=rss)
-* [https://www.spiegel.de/panorama/bundesverfassungsgericht-beamtenbesoldung-in-berlin-jahrelang-verfassungswidrig](https://www.spiegel.de/panorama/bundesverfassungsgericht-beamtenbesoldung-in-berlin-jahrelang-verfassungswidrig-a-5d5d30fb-0afc-4b1b-b70a-b7c2171e5a7c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-curacao-ist-erstmals-dabei-schottland-und-oesterreich-feiern-die-rueckkehr](https://www.spiegel.de/sport/fussball/wm-qualifikation-curacao-ist-erstmals-dabei-schottland-und-oesterreich-feiern-die-rueckkehr-a-83204796-3393-497e-81db-9480705810c6#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab-a-35d5dbd3-cb20-4003-bdba-d009189b1b80#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/stiftung-warentest-mehr-als-die-haelfte-der-untersuchten-schokoladen-schneidet-gut-ab](https://www.spiegel.de/wirtschaft/service/stiftung-warentest-mehr-als-die-haelfte-der-untersuchten-schokoladen-schneidet-gut-ab-a-8657594b-017c-481f-8cff-f419103113cd#ref=rss)
-* [https://www.spiegel.de/ausland/israel-mehrere-tote-bei-israelischem-angriff-im-libanon](https://www.spiegel.de/ausland/israel-mehrere-tote-bei-israelischem-angriff-im-libanon-a-1053208e-a4b5-4cff-8181-eb8f62cfb3f4#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/leute/cher-tritt-erstmals-seit-fast-40-jahren-wieder-bei-snl-auf](https://www.spiegel.de/panorama/leute/cher-tritt-erstmals-seit-fast-40-jahren-wieder-bei-snl-auf-a-aaf53762-6291-4250-b9e5-0933de46b1b0#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/maria-riesch-und-lindsey-vonn-daran-zerbrach-ihre-freundschaft](https://www.spiegel.de/sport/wintersport/maria-riesch-und-lindsey-vonn-daran-zerbrach-ihre-freundschaft-a-e3f85040-93a0-4c6e-bc4c-706ece3c2a12#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-curacao-ist-erstmals-dabei-schottland-und-oesterreich-feiern-die-rueckkehr](https://www.spiegel.de/sport/fussball/wm-qualifikation-curacao-ist-erstmals-dabei-schottland-und-oesterreich-feiern-die-rueckkehr-a-83204796-3393-497e-81db-9480705810c6#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-brasilien-aeusserung-spd-politikerin-isabel-cademartori-uebt-scharfe-kritik](https://www.spiegel.de/politik/deutschland/friedrich-merz-brasilien-aeusserung-spd-politikerin-isabel-cademartori-uebt-scharfe-kritik-a-feb4d571-dc04-483a-80e9-df5970fcca17#ref=rss)
-* [https://www.spiegel.de/wissenschaft/friedrich-merz-wie-der-kanzler-die-brasilianer-mit-aussagen-ueber-belem-erzuernt](https://www.spiegel.de/wissenschaft/friedrich-merz-wie-der-kanzler-die-brasilianer-mit-aussagen-ueber-belem-erzuernt-a-c072247a-a8a0-4235-b968-c58c10604b8f#ref=rss)
-### belém
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-brasilien-aeusserung-spd-politikerin-isabel-cademartori-uebt-scharfe-kritik](https://www.spiegel.de/politik/deutschland/friedrich-merz-brasilien-aeusserung-spd-politikerin-isabel-cademartori-uebt-scharfe-kritik-a-feb4d571-dc04-483a-80e9-df5970fcca17#ref=rss)
-* [https://www.spiegel.de/wissenschaft/friedrich-merz-wie-der-kanzler-die-brasilianer-mit-aussagen-ueber-belem-erzuernt](https://www.spiegel.de/wissenschaft/friedrich-merz-wie-der-kanzler-die-brasilianer-mit-aussagen-ueber-belem-erzuernt-a-c072247a-a8a0-4235-b968-c58c10604b8f#ref=rss)
-### bundesverfassungsgericht
-
-* [https://www.spiegel.de/panorama/bundesverfassungsgericht-beamtenbesoldung-in-berlin-jahrelang-verfassungswidrig](https://www.spiegel.de/panorama/bundesverfassungsgericht-beamtenbesoldung-in-berlin-jahrelang-verfassungswidrig-a-5d5d30fb-0afc-4b1b-b70a-b7c2171e5a7c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/andrea-tandler-anwaelte-fordern-haftaufschub-fuer-verurteilte-maskenmillionaerin](https://www.spiegel.de/panorama/justiz/andrea-tandler-anwaelte-fordern-haftaufschub-fuer-verurteilte-maskenmillionaerin-a-9004d757-506a-4676-9896-1711ff387295#ref=rss)
-### generation
-
-* [https://www.spiegel.de/kultur/tv/bares-fuer-rares-horst-lichter-wie-das-zdf-die-generation-z-erreicht](https://www.spiegel.de/kultur/tv/bares-fuer-rares-horst-lichter-wie-das-zdf-die-generation-z-erreicht-a-0af8a9c1-c8ef-4360-9d6f-f44060b1d559#ref=rss)
-* [https://www.spiegel.de/netzwelt/gemini-3-google-stellt-neue-generation-von-gemini-ki-vor](https://www.spiegel.de/netzwelt/gemini-3-google-stellt-neue-generation-von-gemini-ki-vor-a-97e4ff9a-6c32-48bb-8de9-d0e696e1ef03#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-mehrere-tote-nach-flaechendeckenden-russischen-luftschlaegen](https://www.spiegel.de/ausland/ukraine-krieg-mehrere-tote-nach-flaechendeckenden-russischen-luftschlaegen-a-2be3a0a0-233a-48f0-82b0-40454f0ab341#ref=rss)
-* [https://www.spiegel.de/ausland/israel-mehrere-tote-bei-israelischem-angriff-im-libanon](https://www.spiegel.de/ausland/israel-mehrere-tote-bei-israelischem-angriff-im-libanon-a-1053208e-a4b5-4cff-8181-eb8f62cfb3f4#ref=rss)
-### all
-
-* [https://www.spiegel.de/wissenschaft/weltall/weltraumsicherheitsstrategie-wie-die-bundesregierung-im-all-aufruesten-will](https://www.spiegel.de/wissenschaft/weltall/weltraumsicherheitsstrategie-wie-die-bundesregierung-im-all-aufruesten-will-a-59fbbab2-5f23-48c5-b0f0-a8d27a411875#ref=rss)
-### riesch
-
-* [https://www.spiegel.de/sport/wintersport/maria-riesch-und-lindsey-vonn-daran-zerbrach-ihre-freundschaft](https://www.spiegel.de/sport/wintersport/maria-riesch-und-lindsey-vonn-daran-zerbrach-ihre-freundschaft-a-e3f85040-93a0-4c6e-bc4c-706ece3c2a12#ref=rss)
-### polen
-
-* [https://www.spiegel.de/ausland/polen-schliesst-nach-anschlag-letztes-russisches-konsulat](https://www.spiegel.de/ausland/polen-schliesst-nach-anschlag-letztes-russisches-konsulat-a-c553995b-4dc7-4bf2-a4f1-fcf3ce598b22#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-mehrere-tote-nach-flaechendeckenden-russischen-luftschlaegen](https://www.spiegel.de/ausland/ukraine-krieg-mehrere-tote-nach-flaechendeckenden-russischen-luftschlaegen-a-2be3a0a0-233a-48f0-82b0-40454f0ab341#ref=rss)
-### anschlag
-
-* [https://www.spiegel.de/ausland/polen-schliesst-nach-anschlag-letztes-russisches-konsulat](https://www.spiegel.de/ausland/polen-schliesst-nach-anschlag-letztes-russisches-konsulat-a-c553995b-4dc7-4bf2-a4f1-fcf3ce598b22#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-ueberholt-usa-als-wichtigsten-handelspartner](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-ueberholt-usa-als-wichtigsten-handelspartner-a-9b051b02-3d26-490c-8339-1681fc032051#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-ueberholt-usa-als-wichtigsten-handelspartner](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-ueberholt-usa-als-wichtigsten-handelspartner-a-9b051b02-3d26-490c-8339-1681fc032051#ref=rss)
-* [https://www.spiegel.de/ausland/papst-leo-kritisiert-donald-trump-extrem-respektlose-migrationspolitik](https://www.spiegel.de/ausland/papst-leo-kritisiert-donald-trump-extrem-respektlose-migrationspolitik-a-8fb7aaf1-0d7a-4ca2-8c6b-78fcbee46d42#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab-a-35d5dbd3-cb20-4003-bdba-d009189b1b80#ref=rss)
-### 21
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab-a-35d5dbd3-cb20-4003-bdba-d009189b1b80#ref=rss)
-### bahnchefin
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab-a-35d5dbd3-cb20-4003-bdba-d009189b1b80#ref=rss)
-### evelyn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab-a-35d5dbd3-cb20-4003-bdba-d009189b1b80#ref=rss)
-### palla
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab-a-35d5dbd3-cb20-4003-bdba-d009189b1b80#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab-a-35d5dbd3-cb20-4003-bdba-d009189b1b80#ref=rss)
-* [https://www.spiegel.de/panorama/leute/sandra-hueller-arbeit-mit-ryan-gosling-war-wirklich-ein-grosses-vergnuegen](https://www.spiegel.de/panorama/leute/sandra-hueller-arbeit-mit-ryan-gosling-war-wirklich-ein-grosses-vergnuegen-a-b632d85b-40b2-4bd8-9c5d-45076e1e00ea#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab-a-35d5dbd3-cb20-4003-bdba-d009189b1b80#ref=rss)
-### teurer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab-a-35d5dbd3-cb20-4003-bdba-d009189b1b80#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/stiftung-warentest-mehr-als-die-haelfte-der-untersuchten-schokoladen-schneidet-gut-ab](https://www.spiegel.de/wirtschaft/service/stiftung-warentest-mehr-als-die-haelfte-der-untersuchten-schokoladen-schneidet-gut-ab-a-8657594b-017c-481f-8cff-f419103113cd#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab](https://www.spiegel.de/wirtschaft/unternehmen/stuttgart-21-bahn-chefin-evelyn-palla-sagt-eroeffnung-fuer-2026-ab-a-35d5dbd3-cb20-4003-bdba-d009189b1b80#ref=rss)
-* [https://www.spiegel.de/netzwelt/gemini-3-google-stellt-neue-generation-von-gemini-ki-vor](https://www.spiegel.de/netzwelt/gemini-3-google-stellt-neue-generation-von-gemini-ki-vor-a-97e4ff9a-6c32-48bb-8de9-d0e696e1ef03#ref=rss)
-### amazon
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/amazon-scheitert-mit-klage-gegen-strengere-eu-auflagen](https://www.spiegel.de/netzwelt/netzpolitik/amazon-scheitert-mit-klage-gegen-strengere-eu-auflagen-a-88ab94fc-4f11-4718-82dc-4939bb931627#ref=rss)
-### schützen
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/amazon-scheitert-mit-klage-gegen-strengere-eu-auflagen](https://www.spiegel.de/netzwelt/netzpolitik/amazon-scheitert-mit-klage-gegen-strengere-eu-auflagen-a-88ab94fc-4f11-4718-82dc-4939bb931627#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/weltraumsicherheitsstrategie-wie-die-bundesregierung-im-all-aufruesten-will](https://www.spiegel.de/wissenschaft/weltall/weltraumsicherheitsstrategie-wie-die-bundesregierung-im-all-aufruesten-will-a-59fbbab2-5f23-48c5-b0f0-a8d27a411875#ref=rss)
-### papst
-
-* [https://www.spiegel.de/ausland/papst-leo-kritisiert-donald-trump-extrem-respektlose-migrationspolitik](https://www.spiegel.de/ausland/papst-leo-kritisiert-donald-trump-extrem-respektlose-migrationspolitik-a-8fb7aaf1-0d7a-4ca2-8c6b-78fcbee46d42#ref=rss)
-### leo
-
-* [https://www.spiegel.de/ausland/papst-leo-kritisiert-donald-trump-extrem-respektlose-migrationspolitik](https://www.spiegel.de/ausland/papst-leo-kritisiert-donald-trump-extrem-respektlose-migrationspolitik-a-8fb7aaf1-0d7a-4ca2-8c6b-78fcbee46d42#ref=rss)
-### erst
-
-* [https://www.spiegel.de/ausland/papst-leo-kritisiert-donald-trump-extrem-respektlose-migrationspolitik](https://www.spiegel.de/ausland/papst-leo-kritisiert-donald-trump-extrem-respektlose-migrationspolitik-a-8fb7aaf1-0d7a-4ca2-8c6b-78fcbee46d42#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/maria-riesch-und-lindsey-vonn-daran-zerbrach-ihre-freundschaft](https://www.spiegel.de/sport/wintersport/maria-riesch-und-lindsey-vonn-daran-zerbrach-ihre-freundschaft-a-e3f85040-93a0-4c6e-bc4c-706ece3c2a12#ref=rss)
-### wenig
-
-* [https://www.spiegel.de/ausland/papst-leo-kritisiert-donald-trump-extrem-respektlose-migrationspolitik](https://www.spiegel.de/ausland/papst-leo-kritisiert-donald-trump-extrem-respektlose-migrationspolitik-a-8fb7aaf1-0d7a-4ca2-8c6b-78fcbee46d42#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-brasilien-aeusserung-spd-politikerin-isabel-cademartori-uebt-scharfe-kritik](https://www.spiegel.de/politik/deutschland/friedrich-merz-brasilien-aeusserung-spd-politikerin-isabel-cademartori-uebt-scharfe-kritik-a-feb4d571-dc04-483a-80e9-df5970fcca17#ref=rss)
-### konstantin
-
-* [https://www.spiegel.de/kultur/musik/konstantin-wecker-liedermacher-soll-sexuelle-beziehung-zu-minderjaehriger-gehabt-haben](https://www.spiegel.de/kultur/musik/konstantin-wecker-liedermacher-soll-sexuelle-beziehung-zu-minderjaehriger-gehabt-haben-a-6f2d590c-d18c-4636-b4da-7fa8d6416ed6#ref=rss)
-### wecker
-
-* [https://www.spiegel.de/kultur/musik/konstantin-wecker-liedermacher-soll-sexuelle-beziehung-zu-minderjaehriger-gehabt-haben](https://www.spiegel.de/kultur/musik/konstantin-wecker-liedermacher-soll-sexuelle-beziehung-zu-minderjaehriger-gehabt-haben-a-6f2d590c-d18c-4636-b4da-7fa8d6416ed6#ref=rss)
-### gehabt
-
-* [https://www.spiegel.de/kultur/musik/konstantin-wecker-liedermacher-soll-sexuelle-beziehung-zu-minderjaehriger-gehabt-haben](https://www.spiegel.de/kultur/musik/konstantin-wecker-liedermacher-soll-sexuelle-beziehung-zu-minderjaehriger-gehabt-haben-a-6f2d590c-d18c-4636-b4da-7fa8d6416ed6#ref=rss)
-### räumt
-
-* [https://www.spiegel.de/kultur/musik/konstantin-wecker-liedermacher-soll-sexuelle-beziehung-zu-minderjaehriger-gehabt-haben](https://www.spiegel.de/kultur/musik/konstantin-wecker-liedermacher-soll-sexuelle-beziehung-zu-minderjaehriger-gehabt-haben-a-6f2d590c-d18c-4636-b4da-7fa8d6416ed6#ref=rss)
-* [https://www.spiegel.de/kultur/tv/bares-fuer-rares-horst-lichter-wie-das-zdf-die-generation-z-erreicht](https://www.spiegel.de/kultur/tv/bares-fuer-rares-horst-lichter-wie-das-zdf-die-generation-z-erreicht-a-0af8a9c1-c8ef-4360-9d6f-f44060b1d559#ref=rss)
-### cher
-
-* [https://www.spiegel.de/panorama/leute/cher-tritt-erstmals-seit-fast-40-jahren-wieder-bei-snl-auf](https://www.spiegel.de/panorama/leute/cher-tritt-erstmals-seit-fast-40-jahren-wieder-bei-snl-auf-a-aaf53762-6291-4250-b9e5-0933de46b1b0#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/panorama/leute/cher-tritt-erstmals-seit-fast-40-jahren-wieder-bei-snl-auf](https://www.spiegel.de/panorama/leute/cher-tritt-erstmals-seit-fast-40-jahren-wieder-bei-snl-auf-a-aaf53762-6291-4250-b9e5-0933de46b1b0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-curacao-ist-erstmals-dabei-schottland-und-oesterreich-feiern-die-rueckkehr](https://www.spiegel.de/sport/fussball/wm-qualifikation-curacao-ist-erstmals-dabei-schottland-und-oesterreich-feiern-die-rueckkehr-a-83204796-3393-497e-81db-9480705810c6#ref=rss)
-### fast
-
-* [https://www.spiegel.de/panorama/leute/cher-tritt-erstmals-seit-fast-40-jahren-wieder-bei-snl-auf](https://www.spiegel.de/panorama/leute/cher-tritt-erstmals-seit-fast-40-jahren-wieder-bei-snl-auf-a-aaf53762-6291-4250-b9e5-0933de46b1b0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-curacao-ist-erstmals-dabei-schottland-und-oesterreich-feiern-die-rueckkehr](https://www.spiegel.de/sport/fussball/wm-qualifikation-curacao-ist-erstmals-dabei-schottland-und-oesterreich-feiern-die-rueckkehr-a-83204796-3393-497e-81db-9480705810c6#ref=rss)
-### nexperia
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nexperia-niederlande-wollen-kontrolle-ueber-chiphersteller-wieder-abgeben](https://www.spiegel.de/wirtschaft/unternehmen/nexperia-niederlande-wollen-kontrolle-ueber-chiphersteller-wieder-abgeben-a-5bbffd92-0786-4d13-9ed0-e9d8438d36d2#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nexperia-niederlande-wollen-kontrolle-ueber-chiphersteller-wieder-abgeben](https://www.spiegel.de/wirtschaft/unternehmen/nexperia-niederlande-wollen-kontrolle-ueber-chiphersteller-wieder-abgeben-a-5bbffd92-0786-4d13-9ed0-e9d8438d36d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrdienst-gruenenchefin-franziska-brantner-schlaegt-freiwilliges-wehrregister-fuer-aeltere-vor](https://www.spiegel.de/politik/deutschland/wehrdienst-gruenenchefin-franziska-brantner-schlaegt-freiwilliges-wehrregister-fuer-aeltere-vor-a-b74a6177-e144-4bae-9a84-275579d0fc26#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-brasilien-aeusserung-spd-politikerin-isabel-cademartori-uebt-scharfe-kritik](https://www.spiegel.de/politik/deutschland/friedrich-merz-brasilien-aeusserung-spd-politikerin-isabel-cademartori-uebt-scharfe-kritik-a-feb4d571-dc04-483a-80e9-df5970fcca17#ref=rss)
-* [https://www.spiegel.de/wissenschaft/friedrich-merz-wie-der-kanzler-die-brasilianer-mit-aussagen-ueber-belem-erzuernt](https://www.spiegel.de/wissenschaft/friedrich-merz-wie-der-kanzler-die-brasilianer-mit-aussagen-ueber-belem-erzuernt-a-c072247a-a8a0-4235-b968-c58c10604b8f#ref=rss)
-### cademartori
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-brasilien-aeusserung-spd-politikerin-isabel-cademartori-uebt-scharfe-kritik](https://www.spiegel.de/politik/deutschland/friedrich-merz-brasilien-aeusserung-spd-politikerin-isabel-cademartori-uebt-scharfe-kritik-a-feb4d571-dc04-483a-80e9-df5970fcca17#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/bundesverfassungsgericht-beamtenbesoldung-in-berlin-jahrelang-verfassungswidrig](https://www.spiegel.de/panorama/bundesverfassungsgericht-beamtenbesoldung-in-berlin-jahrelang-verfassungswidrig-a-5d5d30fb-0afc-4b1b-b70a-b7c2171e5a7c#ref=rss)
-### verfassungswidrig
-
-* [https://www.spiegel.de/panorama/bundesverfassungsgericht-beamtenbesoldung-in-berlin-jahrelang-verfassungswidrig](https://www.spiegel.de/panorama/bundesverfassungsgericht-beamtenbesoldung-in-berlin-jahrelang-verfassungswidrig-a-5d5d30fb-0afc-4b1b-b70a-b7c2171e5a7c#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/bundesverfassungsgericht-beamtenbesoldung-in-berlin-jahrelang-verfassungswidrig](https://www.spiegel.de/panorama/bundesverfassungsgericht-beamtenbesoldung-in-berlin-jahrelang-verfassungswidrig-a-5d5d30fb-0afc-4b1b-b70a-b7c2171e5a7c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/andrea-tandler-anwaelte-fordern-haftaufschub-fuer-verurteilte-maskenmillionaerin](https://www.spiegel.de/panorama/justiz/andrea-tandler-anwaelte-fordern-haftaufschub-fuer-verurteilte-maskenmillionaerin-a-9004d757-506a-4676-9896-1711ff387295#ref=rss)
-### entschieden
-
-* [https://www.spiegel.de/panorama/bundesverfassungsgericht-beamtenbesoldung-in-berlin-jahrelang-verfassungswidrig](https://www.spiegel.de/panorama/bundesverfassungsgericht-beamtenbesoldung-in-berlin-jahrelang-verfassungswidrig-a-5d5d30fb-0afc-4b1b-b70a-b7c2171e5a7c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/andrea-tandler-anwaelte-fordern-haftaufschub-fuer-verurteilte-maskenmillionaerin](https://www.spiegel.de/panorama/justiz/andrea-tandler-anwaelte-fordern-haftaufschub-fuer-verurteilte-maskenmillionaerin-a-9004d757-506a-4676-9896-1711ff387295#ref=rss)
-### zdf
-
-* [https://www.spiegel.de/kultur/tv/bares-fuer-rares-horst-lichter-wie-das-zdf-die-generation-z-erreicht](https://www.spiegel.de/kultur/tv/bares-fuer-rares-horst-lichter-wie-das-zdf-die-generation-z-erreicht-a-0af8a9c1-c8ef-4360-9d6f-f44060b1d559#ref=rss)
-### z
-
-* [https://www.spiegel.de/kultur/tv/bares-fuer-rares-horst-lichter-wie-das-zdf-die-generation-z-erreicht](https://www.spiegel.de/kultur/tv/bares-fuer-rares-horst-lichter-wie-das-zdf-die-generation-z-erreicht-a-0af8a9c1-c8ef-4360-9d6f-f44060b1d559#ref=rss)
-### kämpfen
-
-* [https://www.spiegel.de/kultur/tv/bares-fuer-rares-horst-lichter-wie-das-zdf-die-generation-z-erreicht](https://www.spiegel.de/kultur/tv/bares-fuer-rares-horst-lichter-wie-das-zdf-die-generation-z-erreicht-a-0af8a9c1-c8ef-4360-9d6f-f44060b1d559#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wehrdienst-gruenenchefin-franziska-brantner-schlaegt-freiwilliges-wehrregister-fuer-aeltere-vor](https://www.spiegel.de/politik/deutschland/wehrdienst-gruenenchefin-franziska-brantner-schlaegt-freiwilliges-wehrregister-fuer-aeltere-vor-a-b74a6177-e144-4bae-9a84-275579d0fc26#ref=rss)
-### platz
-
-* [https://www.spiegel.de/kultur/tv/bares-fuer-rares-horst-lichter-wie-das-zdf-die-generation-z-erreicht](https://www.spiegel.de/kultur/tv/bares-fuer-rares-horst-lichter-wie-das-zdf-die-generation-z-erreicht-a-0af8a9c1-c8ef-4360-9d6f-f44060b1d559#ref=rss)
-* [https://www.spiegel.de/panorama/leute/sandra-hueller-arbeit-mit-ryan-gosling-war-wirklich-ein-grosses-vergnuegen](https://www.spiegel.de/panorama/leute/sandra-hueller-arbeit-mit-ryan-gosling-war-wirklich-ein-grosses-vergnuegen-a-b632d85b-40b2-4bd8-9c5d-45076e1e00ea#ref=rss)
-### geld
-
-* [https://www.spiegel.de/kultur/tv/bares-fuer-rares-horst-lichter-wie-das-zdf-die-generation-z-erreicht](https://www.spiegel.de/kultur/tv/bares-fuer-rares-horst-lichter-wie-das-zdf-die-generation-z-erreicht-a-0af8a9c1-c8ef-4360-9d6f-f44060b1d559#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afghanistan-nur-62-personen-nehmen-geldangebot-fuer-einreise-verzicht-an](https://www.spiegel.de/politik/deutschland/afghanistan-nur-62-personen-nehmen-geldangebot-fuer-einreise-verzicht-an-a-8acb0ca5-311f-414c-a142-b8b4b4032216#ref=rss)
-### junge
-
-* [https://www.spiegel.de/kultur/tv/bares-fuer-rares-horst-lichter-wie-das-zdf-die-generation-z-erreicht](https://www.spiegel.de/kultur/tv/bares-fuer-rares-horst-lichter-wie-das-zdf-die-generation-z-erreicht-a-0af8a9c1-c8ef-4360-9d6f-f44060b1d559#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mauritius-touristin-aus-deutschland-nach-unfall-gestorben](https://www.spiegel.de/panorama/justiz/mauritius-touristin-aus-deutschland-nach-unfall-gestorben-a-e6136fa6-606b-4781-acc6-b25a78619e58#ref=rss)
-### instagram
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/instagram-und-whatsapp-meta-darf-soziale-netzwerke-nach-kartellverfahren-behalten](https://www.spiegel.de/wirtschaft/unternehmen/instagram-und-whatsapp-meta-darf-soziale-netzwerke-nach-kartellverfahren-behalten-a-396114aa-4310-4d9c-8c19-f8ecf60c1077#ref=rss)
-### whatsapp
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/instagram-und-whatsapp-meta-darf-soziale-netzwerke-nach-kartellverfahren-behalten](https://www.spiegel.de/wirtschaft/unternehmen/instagram-und-whatsapp-meta-darf-soziale-netzwerke-nach-kartellverfahren-behalten-a-396114aa-4310-4d9c-8c19-f8ecf60c1077#ref=rss)
-### meta
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/instagram-und-whatsapp-meta-darf-soziale-netzwerke-nach-kartellverfahren-behalten](https://www.spiegel.de/wirtschaft/unternehmen/instagram-und-whatsapp-meta-darf-soziale-netzwerke-nach-kartellverfahren-behalten-a-396114aa-4310-4d9c-8c19-f8ecf60c1077#ref=rss)
-### medizin
-
-* [https://www.spiegel.de/wirtschaft/medizin-im-alter-warum-pauschale-altersgrenzen-nicht-sinnvoll-sind-kommentar](https://www.spiegel.de/wirtschaft/medizin-im-alter-warum-pauschale-altersgrenzen-nicht-sinnvoll-sind-kommentar-a-96e67880-4fce-4c4b-b5b8-14392a4e8296#ref=rss)
-### pauschale
-
-* [https://www.spiegel.de/wirtschaft/medizin-im-alter-warum-pauschale-altersgrenzen-nicht-sinnvoll-sind-kommentar](https://www.spiegel.de/wirtschaft/medizin-im-alter-warum-pauschale-altersgrenzen-nicht-sinnvoll-sind-kommentar-a-96e67880-4fce-4c4b-b5b8-14392a4e8296#ref=rss)
-### altersgrenzen
-
-* [https://www.spiegel.de/wirtschaft/medizin-im-alter-warum-pauschale-altersgrenzen-nicht-sinnvoll-sind-kommentar](https://www.spiegel.de/wirtschaft/medizin-im-alter-warum-pauschale-altersgrenzen-nicht-sinnvoll-sind-kommentar-a-96e67880-4fce-4c4b-b5b8-14392a4e8296#ref=rss)
-### gemini
-
-* [https://www.spiegel.de/netzwelt/gemini-3-google-stellt-neue-generation-von-gemini-ki-vor](https://www.spiegel.de/netzwelt/gemini-3-google-stellt-neue-generation-von-gemini-ki-vor-a-97e4ff9a-6c32-48bb-8de9-d0e696e1ef03#ref=rss)
-### 3
-
-* [https://www.spiegel.de/netzwelt/gemini-3-google-stellt-neue-generation-von-gemini-ki-vor](https://www.spiegel.de/netzwelt/gemini-3-google-stellt-neue-generation-von-gemini-ki-vor-a-97e4ff9a-6c32-48bb-8de9-d0e696e1ef03#ref=rss)
-### etwa
-
-* [https://www.spiegel.de/netzwelt/gemini-3-google-stellt-neue-generation-von-gemini-ki-vor](https://www.spiegel.de/netzwelt/gemini-3-google-stellt-neue-generation-von-gemini-ki-vor-a-97e4ff9a-6c32-48bb-8de9-d0e696e1ef03#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/weltraumsicherheitsstrategie-wie-die-bundesregierung-im-all-aufruesten-will](https://www.spiegel.de/wissenschaft/weltall/weltraumsicherheitsstrategie-wie-die-bundesregierung-im-all-aufruesten-will-a-59fbbab2-5f23-48c5-b0f0-a8d27a411875#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-mehrere-tote-nach-flaechendeckenden-russischen-luftschlaegen](https://www.spiegel.de/ausland/ukraine-krieg-mehrere-tote-nach-flaechendeckenden-russischen-luftschlaegen-a-2be3a0a0-233a-48f0-82b0-40454f0ab341#ref=rss)
-* [https://www.spiegel.de/ausland/israel-mehrere-tote-bei-israelischem-angriff-im-libanon](https://www.spiegel.de/ausland/israel-mehrere-tote-bei-israelischem-angriff-im-libanon-a-1053208e-a4b5-4cff-8181-eb8f62cfb3f4#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-mehrere-tote-nach-flaechendeckenden-russischen-luftschlaegen](https://www.spiegel.de/ausland/ukraine-krieg-mehrere-tote-nach-flaechendeckenden-russischen-luftschlaegen-a-2be3a0a0-233a-48f0-82b0-40454f0ab341#ref=rss)
-* [https://www.spiegel.de/ausland/israel-mehrere-tote-bei-israelischem-angriff-im-libanon](https://www.spiegel.de/ausland/israel-mehrere-tote-bei-israelischem-angriff-im-libanon-a-1053208e-a4b5-4cff-8181-eb8f62cfb3f4#ref=rss)
+* [https://www.spiegel.de/ausland/merz-haelt-beziehungen-zu-brasilien-nicht-fuer-belastet-und-will-am-wochenende-mit-lula-sprechen](https://www.spiegel.de/ausland/merz-haelt-beziehungen-zu-brasilien-nicht-fuer-belastet-und-will-am-wochenende-mit-lula-sprechen-a-5fbca3ec-e8d4-4a98-9680-6d44e7d34b1b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-personalentscheidung-fuer-eu-rechnungshof](https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-personalentscheidung-fuer-eu-rechnungshof-a-6cb6e702-e305-461d-b8af-eae32f8f2e85#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rente-sozialfluegel-der-union-unterstuetzt-friedrich-merz-im-rentenstreit](https://www.spiegel.de/politik/deutschland/rente-sozialfluegel-der-union-unterstuetzt-friedrich-merz-im-rentenstreit-a-30acde30-c11e-4da5-b6fd-510c1ffb75b6#ref=rss)
 ### bundesregierung
 
-* [https://www.spiegel.de/wissenschaft/weltall/weltraumsicherheitsstrategie-wie-die-bundesregierung-im-all-aufruesten-will](https://www.spiegel.de/wissenschaft/weltall/weltraumsicherheitsstrategie-wie-die-bundesregierung-im-all-aufruesten-will-a-59fbbab2-5f23-48c5-b0f0-a8d27a411875#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afghanistan-nur-62-personen-nehmen-geldangebot-fuer-einreise-verzicht-an](https://www.spiegel.de/politik/deutschland/afghanistan-nur-62-personen-nehmen-geldangebot-fuer-einreise-verzicht-an-a-8acb0ca5-311f-414c-a142-b8b4b4032216#ref=rss)
-### eigene
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stuttgart-21-kommt-spaeter-nur-62-menschen-aus-afghanistan-nehmen-geldangebot-der-bundesregierung-an-berg-in-graubuenden-rutscht](https://www.spiegel.de/politik/deutschland/news-des-tages-stuttgart-21-kommt-spaeter-nur-62-menschen-aus-afghanistan-nehmen-geldangebot-der-bundesregierung-an-berg-in-graubuenden-rutscht-a-9c8ab085-fceb-4214-8cb8-c28a9dbfdf8a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/diw-kritisiert-plaene-der-bundesregierung-zur-energiewende](https://www.spiegel.de/wirtschaft/diw-kritisiert-plaene-der-bundesregierung-zur-energiewende-a-9804e37f-b98b-42ca-bc1c-3b7a1a3a3926#ref=rss)
+### veröffentlichung
 
-* [https://www.spiegel.de/wissenschaft/weltall/weltraumsicherheitsstrategie-wie-die-bundesregierung-im-all-aufruesten-will](https://www.spiegel.de/wissenschaft/weltall/weltraumsicherheitsstrategie-wie-die-bundesregierung-im-all-aufruesten-will-a-59fbbab2-5f23-48c5-b0f0-a8d27a411875#ref=rss)
-* [https://www.spiegel.de/panorama/leute/sandra-hueller-arbeit-mit-ryan-gosling-war-wirklich-ein-grosses-vergnuegen](https://www.spiegel.de/panorama/leute/sandra-hueller-arbeit-mit-ryan-gosling-war-wirklich-ein-grosses-vergnuegen-a-b632d85b-40b2-4bd8-9c5d-45076e1e00ea#ref=rss)
-### erfolg
+* [https://www.spiegel.de/ausland/epstein-akten-jetzt-fehlt-nur-noch-trumps-unterschrift-fuer-die-veroeffentlichung](https://www.spiegel.de/ausland/epstein-akten-jetzt-fehlt-nur-noch-trumps-unterschrift-fuer-die-veroeffentlichung-a-754547bf-b709-42ee-a58d-c8dc11105ea9#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen](https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen-a-e4f30468-da5a-4150-8dce-984f0e887752#ref=rss)
+### trump
 
-* [https://www.spiegel.de/wissenschaft/friedrich-merz-wie-der-kanzler-die-brasilianer-mit-aussagen-ueber-belem-erzuernt](https://www.spiegel.de/wissenschaft/friedrich-merz-wie-der-kanzler-die-brasilianer-mit-aussagen-ueber-belem-erzuernt-a-c072247a-a8a0-4235-b968-c58c10604b8f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-politiker-wuenscht-christian-lindner-erfolg-kolumne](https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-politiker-wuenscht-christian-lindner-erfolg-kolumne-a-38ce7d5f-026d-429c-96e4-b9f050697f2b#ref=rss)
-### larry
+* [https://www.spiegel.de/ausland/epstein-akten-jetzt-fehlt-nur-noch-trumps-unterschrift-fuer-die-veroeffentlichung](https://www.spiegel.de/ausland/epstein-akten-jetzt-fehlt-nur-noch-trumps-unterschrift-fuer-die-veroeffentlichung-a-754547bf-b709-42ee-a58d-c8dc11105ea9#ref=rss)
+* [https://www.spiegel.de/sport/quiz-zu-donald-trump-cristiano-ronaldo-und-mohammed-bin-salman-wer-hats-gesagt](https://www.spiegel.de/sport/quiz-zu-donald-trump-cristiano-ronaldo-und-mohammed-bin-salman-wer-hats-gesagt-a-cfd21a24-258c-4cc9-b937-1dbba34c84ab#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen](https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen-a-e4f30468-da5a-4150-8dce-984f0e887752#ref=rss)
+### familie
 
-* [https://www.spiegel.de/wirtschaft/larry-summers-enger-kontakt-zu-jeffrey-epstein-kostet-oekonom-seine-posten](https://www.spiegel.de/wirtschaft/larry-summers-enger-kontakt-zu-jeffrey-epstein-kostet-oekonom-seine-posten-a-c5690195-5635-46f4-a474-237cb7b4161b#ref=rss)
-### summers
+* [https://www.spiegel.de/wissenschaft/medizin/aluminiumphosphid-tod-einer-hamburger-familie-in-istanbul-wie-gefaehrlich-ist-der-stoff](https://www.spiegel.de/wissenschaft/medizin/aluminiumphosphid-tod-einer-hamburger-familie-in-istanbul-wie-gefaehrlich-ist-der-stoff-a-c579c465-61d5-4dca-97de-e02eba50ac3d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/christina-block-prozess-stiefmutter-berichtet-ueber-erlebnisse-der-block-kinder](https://www.spiegel.de/panorama/justiz/christina-block-prozess-stiefmutter-berichtet-ueber-erlebnisse-der-block-kinder-a-8ec56397-14f0-4c72-9072-f90c98924312#ref=rss)
+### treffen
 
-* [https://www.spiegel.de/wirtschaft/larry-summers-enger-kontakt-zu-jeffrey-epstein-kostet-oekonom-seine-posten](https://www.spiegel.de/wirtschaft/larry-summers-enger-kontakt-zu-jeffrey-epstein-kostet-oekonom-seine-posten-a-c5690195-5635-46f4-a474-237cb7b4161b#ref=rss)
-### kostet
+* [https://www.spiegel.de/ausland/merz-haelt-beziehungen-zu-brasilien-nicht-fuer-belastet-und-will-am-wochenende-mit-lula-sprechen](https://www.spiegel.de/ausland/merz-haelt-beziehungen-zu-brasilien-nicht-fuer-belastet-und-will-am-wochenende-mit-lula-sprechen-a-5fbca3ec-e8d4-4a98-9680-6d44e7d34b1b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit](https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit-a-ff56b66b-6dbc-4aea-8bbb-bbfb1879f7c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-das-wird-kulturstaatsminister-wolfram-weimer-vorgeworfen](https://www.spiegel.de/politik/deutschland/wolfram-weimer-das-wird-kulturstaatsminister-wolfram-weimer-vorgeworfen-a-dca4c24b-8b77-4789-9dbe-f055f26c2008#ref=rss)
+### epsteinakten
 
-* [https://www.spiegel.de/wirtschaft/larry-summers-enger-kontakt-zu-jeffrey-epstein-kostet-oekonom-seine-posten](https://www.spiegel.de/wirtschaft/larry-summers-enger-kontakt-zu-jeffrey-epstein-kostet-oekonom-seine-posten-a-c5690195-5635-46f4-a474-237cb7b4161b#ref=rss)
-### posten
+* [https://www.spiegel.de/ausland/epstein-akten-jetzt-fehlt-nur-noch-trumps-unterschrift-fuer-die-veroeffentlichung](https://www.spiegel.de/ausland/epstein-akten-jetzt-fehlt-nur-noch-trumps-unterschrift-fuer-die-veroeffentlichung-a-754547bf-b709-42ee-a58d-c8dc11105ea9#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen](https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen-a-e4f30468-da5a-4150-8dce-984f0e887752#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/larry-summers-enger-kontakt-zu-jeffrey-epstein-kostet-oekonom-seine-posten](https://www.spiegel.de/wirtschaft/larry-summers-enger-kontakt-zu-jeffrey-epstein-kostet-oekonom-seine-posten-a-c5690195-5635-46f4-a474-237cb7b4161b#ref=rss)
-### afghanistan
+* [https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit](https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit-a-ff56b66b-6dbc-4aea-8bbb-bbfb1879f7c5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schweiz-zollstreit-mit-den-usa-birgt-hohe-risiken-fuer-wirtschaftsnation](https://www.spiegel.de/wirtschaft/schweiz-zollstreit-mit-den-usa-birgt-hohe-risiken-fuer-wirtschaftsnation-a-84abb9d0-a4a1-40e2-8954-f3feb7670d9e#ref=rss)
+### haus
 
-* [https://www.spiegel.de/politik/deutschland/afghanistan-nur-62-personen-nehmen-geldangebot-fuer-einreise-verzicht-an](https://www.spiegel.de/politik/deutschland/afghanistan-nur-62-personen-nehmen-geldangebot-fuer-einreise-verzicht-an-a-8acb0ca5-311f-414c-a142-b8b4b4032216#ref=rss)
-### personen
+* [https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit](https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit-a-ff56b66b-6dbc-4aea-8bbb-bbfb1879f7c5#ref=rss)
+* [https://www.spiegel.de/sport/quiz-zu-donald-trump-cristiano-ronaldo-und-mohammed-bin-salman-wer-hats-gesagt](https://www.spiegel.de/sport/quiz-zu-donald-trump-cristiano-ronaldo-und-mohammed-bin-salman-wer-hats-gesagt-a-cfd21a24-258c-4cc9-b937-1dbba34c84ab#ref=rss)
+### cristiano
 
-* [https://www.spiegel.de/politik/deutschland/afghanistan-nur-62-personen-nehmen-geldangebot-fuer-einreise-verzicht-an](https://www.spiegel.de/politik/deutschland/afghanistan-nur-62-personen-nehmen-geldangebot-fuer-einreise-verzicht-an-a-8acb0ca5-311f-414c-a142-b8b4b4032216#ref=rss)
-* [https://www.spiegel.de/panorama/hambach-besetztes-waldstueck-an-tagebau-geraeumt-15-personen-in-gewahrsam-genommen](https://www.spiegel.de/panorama/hambach-besetztes-waldstueck-an-tagebau-geraeumt-15-personen-in-gewahrsam-genommen-a-415b862b-d04e-474d-919c-3d6b23b4d208#ref=rss)
-### statt
+* [https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit](https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit-a-ff56b66b-6dbc-4aea-8bbb-bbfb1879f7c5#ref=rss)
+* [https://www.spiegel.de/sport/quiz-zu-donald-trump-cristiano-ronaldo-und-mohammed-bin-salman-wer-hats-gesagt](https://www.spiegel.de/sport/quiz-zu-donald-trump-cristiano-ronaldo-und-mohammed-bin-salman-wer-hats-gesagt-a-cfd21a24-258c-4cc9-b937-1dbba34c84ab#ref=rss)
+### ronaldo
 
-* [https://www.spiegel.de/politik/deutschland/afghanistan-nur-62-personen-nehmen-geldangebot-fuer-einreise-verzicht-an](https://www.spiegel.de/politik/deutschland/afghanistan-nur-62-personen-nehmen-geldangebot-fuer-einreise-verzicht-an-a-8acb0ca5-311f-414c-a142-b8b4b4032216#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-politiker-wuenscht-christian-lindner-erfolg-kolumne](https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-politiker-wuenscht-christian-lindner-erfolg-kolumne-a-38ce7d5f-026d-429c-96e4-b9f050697f2b#ref=rss)
-### hambach
+* [https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit](https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit-a-ff56b66b-6dbc-4aea-8bbb-bbfb1879f7c5#ref=rss)
+* [https://www.spiegel.de/sport/quiz-zu-donald-trump-cristiano-ronaldo-und-mohammed-bin-salman-wer-hats-gesagt](https://www.spiegel.de/sport/quiz-zu-donald-trump-cristiano-ronaldo-und-mohammed-bin-salman-wer-hats-gesagt-a-cfd21a24-258c-4cc9-b937-1dbba34c84ab#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/hambach-besetztes-waldstueck-an-tagebau-geraeumt-15-personen-in-gewahrsam-genommen](https://www.spiegel.de/panorama/hambach-besetztes-waldstueck-an-tagebau-geraeumt-15-personen-in-gewahrsam-genommen-a-415b862b-d04e-474d-919c-3d6b23b4d208#ref=rss)
-### 15
+* [https://www.spiegel.de/sport/quiz-zu-donald-trump-cristiano-ronaldo-und-mohammed-bin-salman-wer-hats-gesagt](https://www.spiegel.de/sport/quiz-zu-donald-trump-cristiano-ronaldo-und-mohammed-bin-salman-wer-hats-gesagt-a-cfd21a24-258c-4cc9-b937-1dbba34c84ab#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen](https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen-a-e4f30468-da5a-4150-8dce-984f0e887752#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/panorama/hambach-besetztes-waldstueck-an-tagebau-geraeumt-15-personen-in-gewahrsam-genommen](https://www.spiegel.de/panorama/hambach-besetztes-waldstueck-an-tagebau-geraeumt-15-personen-in-gewahrsam-genommen-a-415b862b-d04e-474d-919c-3d6b23b4d208#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/maria-riesch-und-lindsey-vonn-daran-zerbrach-ihre-freundschaft](https://www.spiegel.de/sport/wintersport/maria-riesch-und-lindsey-vonn-daran-zerbrach-ihre-freundschaft-a-e3f85040-93a0-4c6e-bc4c-706ece3c2a12#ref=rss)
-### drogen
+* [https://www.spiegel.de/kultur/klimt-gemaelde-fuer-236-4-millionen-dollar-versteigert-kunst-rekorde-der-auktionshaeuser](https://www.spiegel.de/kultur/klimt-gemaelde-fuer-236-4-millionen-dollar-versteigert-kunst-rekorde-der-auktionshaeuser-a-b142bbbd-1ab1-4dd6-b4e5-a2f297dd603d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/christies-pariser-auktionshaus-stoppt-versteigerung-von-historischer-rechenmaschine-von-blaise-pascal](https://www.spiegel.de/wissenschaft/technik/christies-pariser-auktionshaus-stoppt-versteigerung-von-historischer-rechenmaschine-von-blaise-pascal-a-a623f8f6-2622-4670-97f9-fae57c2234c8#ref=rss)
+### auktionshaus
 
-* [https://www.spiegel.de/panorama/us-akten-veroeffentlicht-wie-die-cia-drogen-an-ahnungslosen-opfern-ausprobierte](https://www.spiegel.de/panorama/us-akten-veroeffentlicht-wie-die-cia-drogen-an-ahnungslosen-opfern-ausprobierte-a-e0097e6e-05a6-4264-88e1-31d773134de4#ref=rss)
-### ahnungslosen
+* [https://www.spiegel.de/kultur/klimt-gemaelde-fuer-236-4-millionen-dollar-versteigert-kunst-rekorde-der-auktionshaeuser](https://www.spiegel.de/kultur/klimt-gemaelde-fuer-236-4-millionen-dollar-versteigert-kunst-rekorde-der-auktionshaeuser-a-b142bbbd-1ab1-4dd6-b4e5-a2f297dd603d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/christies-pariser-auktionshaus-stoppt-versteigerung-von-historischer-rechenmaschine-von-blaise-pascal](https://www.spiegel.de/wissenschaft/technik/christies-pariser-auktionshaus-stoppt-versteigerung-von-historischer-rechenmaschine-von-blaise-pascal-a-a623f8f6-2622-4670-97f9-fae57c2234c8#ref=rss)
+### welt
 
-* [https://www.spiegel.de/panorama/us-akten-veroeffentlicht-wie-die-cia-drogen-an-ahnungslosen-opfern-ausprobierte](https://www.spiegel.de/panorama/us-akten-veroeffentlicht-wie-die-cia-drogen-an-ahnungslosen-opfern-ausprobierte-a-e0097e6e-05a6-4264-88e1-31d773134de4#ref=rss)
-### opfern
+* [https://www.spiegel.de/kultur/klimt-gemaelde-fuer-236-4-millionen-dollar-versteigert-kunst-rekorde-der-auktionshaeuser](https://www.spiegel.de/kultur/klimt-gemaelde-fuer-236-4-millionen-dollar-versteigert-kunst-rekorde-der-auktionshaeuser-a-b142bbbd-1ab1-4dd6-b4e5-a2f297dd603d#ref=rss)
+* [https://www.spiegel.de/kultur/wicked-teil-2-in-oz-kaempfen-und-glitzern-wieder-das-gute-gegen-das-boese](https://www.spiegel.de/kultur/wicked-teil-2-in-oz-kaempfen-und-glitzern-wieder-das-gute-gegen-das-boese-a-5b00e59d-564e-4eb9-ae9d-c71d98140b93#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/us-akten-veroeffentlicht-wie-die-cia-drogen-an-ahnungslosen-opfern-ausprobierte](https://www.spiegel.de/panorama/us-akten-veroeffentlicht-wie-die-cia-drogen-an-ahnungslosen-opfern-ausprobierte-a-e0097e6e-05a6-4264-88e1-31d773134de4#ref=rss)
-### maria
+* [https://www.spiegel.de/panorama/brandenburg-landtag-billigt-rundfunkreform-mit-stimmen-der-cdu](https://www.spiegel.de/panorama/brandenburg-landtag-billigt-rundfunkreform-mit-stimmen-der-cdu-a-2f28c2ce-48b3-4345-810d-d0cb029399b4#ref=rss)
+* [https://www.spiegel.de/kultur/wicked-teil-2-in-oz-kaempfen-und-glitzern-wieder-das-gute-gegen-das-boese](https://www.spiegel.de/kultur/wicked-teil-2-in-oz-kaempfen-und-glitzern-wieder-das-gute-gegen-das-boese-a-5b00e59d-564e-4eb9-ae9d-c71d98140b93#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/christies-pariser-auktionshaus-stoppt-versteigerung-von-historischer-rechenmaschine-von-blaise-pascal](https://www.spiegel.de/wissenschaft/technik/christies-pariser-auktionshaus-stoppt-versteigerung-von-historischer-rechenmaschine-von-blaise-pascal-a-a623f8f6-2622-4670-97f9-fae57c2234c8#ref=rss)
+### kommen
 
-* [https://www.spiegel.de/sport/wintersport/maria-riesch-und-lindsey-vonn-daran-zerbrach-ihre-freundschaft](https://www.spiegel.de/sport/wintersport/maria-riesch-und-lindsey-vonn-daran-zerbrach-ihre-freundschaft-a-e3f85040-93a0-4c6e-bc4c-706ece3c2a12#ref=rss)
-### lindsey
+* [https://www.spiegel.de/panorama/brandenburg-landtag-billigt-rundfunkreform-mit-stimmen-der-cdu](https://www.spiegel.de/panorama/brandenburg-landtag-billigt-rundfunkreform-mit-stimmen-der-cdu-a-2f28c2ce-48b3-4345-810d-d0cb029399b4#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen](https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen-a-e4f30468-da5a-4150-8dce-984f0e887752#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weihnachten-spielwarenbranche-erwartet-gutes-geschaeft](https://www.spiegel.de/wirtschaft/weihnachten-spielwarenbranche-erwartet-gutes-geschaeft-a-e4bcddb4-331b-4ab2-96f5-93a8936ea093#ref=rss)
+### kind
 
-* [https://www.spiegel.de/sport/wintersport/maria-riesch-und-lindsey-vonn-daran-zerbrach-ihre-freundschaft](https://www.spiegel.de/sport/wintersport/maria-riesch-und-lindsey-vonn-daran-zerbrach-ihre-freundschaft-a-e3f85040-93a0-4c6e-bc4c-706ece3c2a12#ref=rss)
-### vonn
+* [https://www.spiegel.de/wirtschaft/unternehmen/kind-bundeskartellamt-genehmigt-uebernahme-von-hoergeraetekette](https://www.spiegel.de/wirtschaft/unternehmen/kind-bundeskartellamt-genehmigt-uebernahme-von-hoergeraetekette-a-5056cca6-9bf4-4c61-88e9-5dae949f5100#ref=rss)
+### dänische
 
-* [https://www.spiegel.de/sport/wintersport/maria-riesch-und-lindsey-vonn-daran-zerbrach-ihre-freundschaft](https://www.spiegel.de/sport/wintersport/maria-riesch-und-lindsey-vonn-daran-zerbrach-ihre-freundschaft-a-e3f85040-93a0-4c6e-bc4c-706ece3c2a12#ref=rss)
-### feiern
+* [https://www.spiegel.de/wirtschaft/unternehmen/kind-bundeskartellamt-genehmigt-uebernahme-von-hoergeraetekette](https://www.spiegel.de/wirtschaft/unternehmen/kind-bundeskartellamt-genehmigt-uebernahme-von-hoergeraetekette-a-5056cca6-9bf4-4c61-88e9-5dae949f5100#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/christina-block-prozess-stiefmutter-berichtet-ueber-erlebnisse-der-block-kinder](https://www.spiegel.de/panorama/justiz/christina-block-prozess-stiefmutter-berichtet-ueber-erlebnisse-der-block-kinder-a-8ec56397-14f0-4c72-9072-f90c98924312#ref=rss)
+### laut
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-politiker-wuenscht-christian-lindner-erfolg-kolumne](https://www.spiegel.de/wirtschaft/unternehmen/gescheiterte-politiker-wuenscht-christian-lindner-erfolg-kolumne-a-38ce7d5f-026d-429c-96e4-b9f050697f2b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-curacao-ist-erstmals-dabei-schottland-und-oesterreich-feiern-die-rueckkehr](https://www.spiegel.de/sport/fussball/wm-qualifikation-curacao-ist-erstmals-dabei-schottland-und-oesterreich-feiern-die-rueckkehr-a-83204796-3393-497e-81db-9480705810c6#ref=rss)
-### stiftung
-
-* [https://www.spiegel.de/wirtschaft/service/stiftung-warentest-mehr-als-die-haelfte-der-untersuchten-schokoladen-schneidet-gut-ab](https://www.spiegel.de/wirtschaft/service/stiftung-warentest-mehr-als-die-haelfte-der-untersuchten-schokoladen-schneidet-gut-ab-a-8657594b-017c-481f-8cff-f419103113cd#ref=rss)
-### warentest
-
-* [https://www.spiegel.de/wirtschaft/service/stiftung-warentest-mehr-als-die-haelfte-der-untersuchten-schokoladen-schneidet-gut-ab](https://www.spiegel.de/wirtschaft/service/stiftung-warentest-mehr-als-die-haelfte-der-untersuchten-schokoladen-schneidet-gut-ab-a-8657594b-017c-481f-8cff-f419103113cd#ref=rss)
-### sandra
-
-* [https://www.spiegel.de/panorama/leute/sandra-hueller-arbeit-mit-ryan-gosling-war-wirklich-ein-grosses-vergnuegen](https://www.spiegel.de/panorama/leute/sandra-hueller-arbeit-mit-ryan-gosling-war-wirklich-ein-grosses-vergnuegen-a-b632d85b-40b2-4bd8-9c5d-45076e1e00ea#ref=rss)
-### hüller
-
-* [https://www.spiegel.de/panorama/leute/sandra-hueller-arbeit-mit-ryan-gosling-war-wirklich-ein-grosses-vergnuegen](https://www.spiegel.de/panorama/leute/sandra-hueller-arbeit-mit-ryan-gosling-war-wirklich-ein-grosses-vergnuegen-a-b632d85b-40b2-4bd8-9c5d-45076e1e00ea#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/panorama/leute/sandra-hueller-arbeit-mit-ryan-gosling-war-wirklich-ein-grosses-vergnuegen](https://www.spiegel.de/panorama/leute/sandra-hueller-arbeit-mit-ryan-gosling-war-wirklich-ein-grosses-vergnuegen-a-b632d85b-40b2-4bd8-9c5d-45076e1e00ea#ref=rss)
-### ryan
-
-* [https://www.spiegel.de/panorama/leute/sandra-hueller-arbeit-mit-ryan-gosling-war-wirklich-ein-grosses-vergnuegen](https://www.spiegel.de/panorama/leute/sandra-hueller-arbeit-mit-ryan-gosling-war-wirklich-ein-grosses-vergnuegen-a-b632d85b-40b2-4bd8-9c5d-45076e1e00ea#ref=rss)
-### gosling
-
-* [https://www.spiegel.de/panorama/leute/sandra-hueller-arbeit-mit-ryan-gosling-war-wirklich-ein-grosses-vergnuegen](https://www.spiegel.de/panorama/leute/sandra-hueller-arbeit-mit-ryan-gosling-war-wirklich-ein-grosses-vergnuegen-a-b632d85b-40b2-4bd8-9c5d-45076e1e00ea#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-mehrere-tote-bei-israelischem-angriff-im-libanon](https://www.spiegel.de/ausland/israel-mehrere-tote-bei-israelischem-angriff-im-libanon-a-1053208e-a4b5-4cff-8181-eb8f62cfb3f4#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/ausland/israel-mehrere-tote-bei-israelischem-angriff-im-libanon](https://www.spiegel.de/ausland/israel-mehrere-tote-bei-israelischem-angriff-im-libanon-a-1053208e-a4b5-4cff-8181-eb8f62cfb3f4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kind-bundeskartellamt-genehmigt-uebernahme-von-hoergeraetekette](https://www.spiegel.de/wirtschaft/unternehmen/kind-bundeskartellamt-genehmigt-uebernahme-von-hoergeraetekette-a-5056cca6-9bf4-4c61-88e9-5dae949f5100#ref=rss)
+* [https://www.spiegel.de/politik/berlin-palaestinenser-verliert-offenbar-einbuergerung-wegen-hamas-sympathie](https://www.spiegel.de/politik/berlin-palaestinenser-verliert-offenbar-einbuergerung-wegen-hamas-sympathie-a-b1281ecf-ba14-4742-8648-420517c556c8#ref=rss)
 ### curaçao
 
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-curacao-ist-erstmals-dabei-schottland-und-oesterreich-feiern-die-rueckkehr](https://www.spiegel.de/sport/fussball/wm-qualifikation-curacao-ist-erstmals-dabei-schottland-und-oesterreich-feiern-die-rueckkehr-a-83204796-3393-497e-81db-9480705810c6#ref=rss)
-### schottland
+* [https://www.spiegel.de/sport/wm-2026-curacao-qualifiziert-sich-sensationell-fuer-die-fussball-wm](https://www.spiegel.de/sport/wm-2026-curacao-qualifiziert-sich-sensationell-fuer-die-fussball-wm-a-0cb5a9a1-b49a-42b0-ac81-d7e1004c8f4a#ref=rss)
+### qualifiziert
 
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-curacao-ist-erstmals-dabei-schottland-und-oesterreich-feiern-die-rueckkehr](https://www.spiegel.de/sport/fussball/wm-qualifikation-curacao-ist-erstmals-dabei-schottland-und-oesterreich-feiern-die-rueckkehr-a-83204796-3393-497e-81db-9480705810c6#ref=rss)
-### österreich
+* [https://www.spiegel.de/sport/wm-2026-curacao-qualifiziert-sich-sensationell-fuer-die-fussball-wm](https://www.spiegel.de/sport/wm-2026-curacao-qualifiziert-sich-sensationell-fuer-die-fussball-wm-a-0cb5a9a1-b49a-42b0-ac81-d7e1004c8f4a#ref=rss)
+### sensationell
 
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-curacao-ist-erstmals-dabei-schottland-und-oesterreich-feiern-die-rueckkehr](https://www.spiegel.de/sport/fussball/wm-qualifikation-curacao-ist-erstmals-dabei-schottland-und-oesterreich-feiern-die-rueckkehr-a-83204796-3393-497e-81db-9480705810c6#ref=rss)
-### mauritius
+* [https://www.spiegel.de/sport/wm-2026-curacao-qualifiziert-sich-sensationell-fuer-die-fussball-wm](https://www.spiegel.de/sport/wm-2026-curacao-qualifiziert-sich-sensationell-fuer-die-fussball-wm-a-0cb5a9a1-b49a-42b0-ac81-d7e1004c8f4a#ref=rss)
+### fußballwm
 
-* [https://www.spiegel.de/panorama/justiz/mauritius-touristin-aus-deutschland-nach-unfall-gestorben](https://www.spiegel.de/panorama/justiz/mauritius-touristin-aus-deutschland-nach-unfall-gestorben-a-e6136fa6-606b-4781-acc6-b25a78619e58#ref=rss)
-### andrea
+* [https://www.spiegel.de/sport/wm-2026-curacao-qualifiziert-sich-sensationell-fuer-die-fussball-wm](https://www.spiegel.de/sport/wm-2026-curacao-qualifiziert-sich-sensationell-fuer-die-fussball-wm-a-0cb5a9a1-b49a-42b0-ac81-d7e1004c8f4a#ref=rss)
+### tod
 
-* [https://www.spiegel.de/panorama/justiz/andrea-tandler-anwaelte-fordern-haftaufschub-fuer-verurteilte-maskenmillionaerin](https://www.spiegel.de/panorama/justiz/andrea-tandler-anwaelte-fordern-haftaufschub-fuer-verurteilte-maskenmillionaerin-a-9004d757-506a-4676-9896-1711ff387295#ref=rss)
-### tandler
+* [https://www.spiegel.de/wissenschaft/medizin/aluminiumphosphid-tod-einer-hamburger-familie-in-istanbul-wie-gefaehrlich-ist-der-stoff](https://www.spiegel.de/wissenschaft/medizin/aluminiumphosphid-tod-einer-hamburger-familie-in-istanbul-wie-gefaehrlich-ist-der-stoff-a-c579c465-61d5-4dca-97de-e02eba50ac3d#ref=rss)
+### hamburger
 
-* [https://www.spiegel.de/panorama/justiz/andrea-tandler-anwaelte-fordern-haftaufschub-fuer-verurteilte-maskenmillionaerin](https://www.spiegel.de/panorama/justiz/andrea-tandler-anwaelte-fordern-haftaufschub-fuer-verurteilte-maskenmillionaerin-a-9004d757-506a-4676-9896-1711ff387295#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/aluminiumphosphid-tod-einer-hamburger-familie-in-istanbul-wie-gefaehrlich-ist-der-stoff](https://www.spiegel.de/wissenschaft/medizin/aluminiumphosphid-tod-einer-hamburger-familie-in-istanbul-wie-gefaehrlich-ist-der-stoff-a-c579c465-61d5-4dca-97de-e02eba50ac3d#ref=rss)
+### istanbul
+
+* [https://www.spiegel.de/wissenschaft/medizin/aluminiumphosphid-tod-einer-hamburger-familie-in-istanbul-wie-gefaehrlich-ist-der-stoff](https://www.spiegel.de/wissenschaft/medizin/aluminiumphosphid-tod-einer-hamburger-familie-in-istanbul-wie-gefaehrlich-ist-der-stoff-a-c579c465-61d5-4dca-97de-e02eba50ac3d#ref=rss)
+### stoff
+
+* [https://www.spiegel.de/wissenschaft/medizin/aluminiumphosphid-tod-einer-hamburger-familie-in-istanbul-wie-gefaehrlich-ist-der-stoff](https://www.spiegel.de/wissenschaft/medizin/aluminiumphosphid-tod-einer-hamburger-familie-in-istanbul-wie-gefaehrlich-ist-der-stoff-a-c579c465-61d5-4dca-97de-e02eba50ac3d#ref=rss)
+### ermittlungen
+
+* [https://www.spiegel.de/wissenschaft/medizin/aluminiumphosphid-tod-einer-hamburger-familie-in-istanbul-wie-gefaehrlich-ist-der-stoff](https://www.spiegel.de/wissenschaft/medizin/aluminiumphosphid-tod-einer-hamburger-familie-in-istanbul-wie-gefaehrlich-ist-der-stoff-a-c579c465-61d5-4dca-97de-e02eba50ac3d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-die-lehren-aus-minditsch-gate](https://www.spiegel.de/ausland/ukraine-die-lehren-aus-minditsch-gate-a-11909ff1-eb27-439d-8973-7c357fee5107#ref=rss)
+### ziemlich
+
+* [https://www.spiegel.de/kultur/kunst-auktionswochen-klimt-klo](https://www.spiegel.de/kultur/kunst-auktionswochen-klimt-klo-a-d464f284-513c-467f-804e-b8ba220c8a6c#ref=rss)
+### gut
+
+* [https://www.spiegel.de/kultur/kunst-auktionswochen-klimt-klo](https://www.spiegel.de/kultur/kunst-auktionswochen-klimt-klo-a-d464f284-513c-467f-804e-b8ba220c8a6c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weihnachten-spielwarenbranche-erwartet-gutes-geschaeft](https://www.spiegel.de/wirtschaft/weihnachten-spielwarenbranche-erwartet-gutes-geschaeft-a-e4bcddb4-331b-4ab2-96f5-93a8936ea093#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/kultur/kunst-auktionswochen-klimt-klo](https://www.spiegel.de/kultur/kunst-auktionswochen-klimt-klo-a-d464f284-513c-467f-804e-b8ba220c8a6c#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-die-lehren-aus-minditsch-gate](https://www.spiegel.de/ausland/ukraine-die-lehren-aus-minditsch-gate-a-11909ff1-eb27-439d-8973-7c357fee5107#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/ausland/merz-haelt-beziehungen-zu-brasilien-nicht-fuer-belastet-und-will-am-wochenende-mit-lula-sprechen](https://www.spiegel.de/ausland/merz-haelt-beziehungen-zu-brasilien-nicht-fuer-belastet-und-will-am-wochenende-mit-lula-sprechen-a-5fbca3ec-e8d4-4a98-9680-6d44e7d34b1b#ref=rss)
+### belastet
+
+* [https://www.spiegel.de/ausland/merz-haelt-beziehungen-zu-brasilien-nicht-fuer-belastet-und-will-am-wochenende-mit-lula-sprechen](https://www.spiegel.de/ausland/merz-haelt-beziehungen-zu-brasilien-nicht-fuer-belastet-und-will-am-wochenende-mit-lula-sprechen-a-5fbca3ec-e8d4-4a98-9680-6d44e7d34b1b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/christina-block-prozess-stiefmutter-berichtet-ueber-erlebnisse-der-block-kinder](https://www.spiegel.de/panorama/justiz/christina-block-prozess-stiefmutter-berichtet-ueber-erlebnisse-der-block-kinder-a-8ec56397-14f0-4c72-9072-f90c98924312#ref=rss)
+### wochenende
+
+* [https://www.spiegel.de/ausland/merz-haelt-beziehungen-zu-brasilien-nicht-fuer-belastet-und-will-am-wochenende-mit-lula-sprechen](https://www.spiegel.de/ausland/merz-haelt-beziehungen-zu-brasilien-nicht-fuer-belastet-und-will-am-wochenende-mit-lula-sprechen-a-5fbca3ec-e8d4-4a98-9680-6d44e7d34b1b#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/ausland/merz-haelt-beziehungen-zu-brasilien-nicht-fuer-belastet-und-will-am-wochenende-mit-lula-sprechen](https://www.spiegel.de/ausland/merz-haelt-beziehungen-zu-brasilien-nicht-fuer-belastet-und-will-am-wochenende-mit-lula-sprechen-a-5fbca3ec-e8d4-4a98-9680-6d44e7d34b1b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rente-sozialfluegel-der-union-unterstuetzt-friedrich-merz-im-rentenstreit](https://www.spiegel.de/politik/deutschland/rente-sozialfluegel-der-union-unterstuetzt-friedrich-merz-im-rentenstreit-a-30acde30-c11e-4da5-b6fd-510c1ffb75b6#ref=rss)
+### johann
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-auf-dem-westbalkan-marathon-reise-durch-sechs-staaten-in-60-stunden](https://www.spiegel.de/politik/deutschland/johann-wadephul-auf-dem-westbalkan-marathon-reise-durch-sechs-staaten-in-60-stunden-a-d1dbb3f9-c616-4f0f-88d4-3eb9f5e564d7#ref=rss)
+### wadephul
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-auf-dem-westbalkan-marathon-reise-durch-sechs-staaten-in-60-stunden](https://www.spiegel.de/politik/deutschland/johann-wadephul-auf-dem-westbalkan-marathon-reise-durch-sechs-staaten-in-60-stunden-a-d1dbb3f9-c616-4f0f-88d4-3eb9f5e564d7#ref=rss)
+### westbalkan
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-auf-dem-westbalkan-marathon-reise-durch-sechs-staaten-in-60-stunden](https://www.spiegel.de/politik/deutschland/johann-wadephul-auf-dem-westbalkan-marathon-reise-durch-sechs-staaten-in-60-stunden-a-d1dbb3f9-c616-4f0f-88d4-3eb9f5e564d7#ref=rss)
+### sechs
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-auf-dem-westbalkan-marathon-reise-durch-sechs-staaten-in-60-stunden](https://www.spiegel.de/politik/deutschland/johann-wadephul-auf-dem-westbalkan-marathon-reise-durch-sechs-staaten-in-60-stunden-a-d1dbb3f9-c616-4f0f-88d4-3eb9f5e564d7#ref=rss)
+### staaten
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-auf-dem-westbalkan-marathon-reise-durch-sechs-staaten-in-60-stunden](https://www.spiegel.de/politik/deutschland/johann-wadephul-auf-dem-westbalkan-marathon-reise-durch-sechs-staaten-in-60-stunden-a-d1dbb3f9-c616-4f0f-88d4-3eb9f5e564d7#ref=rss)
+### 60
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-auf-dem-westbalkan-marathon-reise-durch-sechs-staaten-in-60-stunden](https://www.spiegel.de/politik/deutschland/johann-wadephul-auf-dem-westbalkan-marathon-reise-durch-sechs-staaten-in-60-stunden-a-d1dbb3f9-c616-4f0f-88d4-3eb9f5e564d7#ref=rss)
+### stunden
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-auf-dem-westbalkan-marathon-reise-durch-sechs-staaten-in-60-stunden](https://www.spiegel.de/politik/deutschland/johann-wadephul-auf-dem-westbalkan-marathon-reise-durch-sechs-staaten-in-60-stunden-a-d1dbb3f9-c616-4f0f-88d4-3eb9f5e564d7#ref=rss)
+### ans
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-auf-dem-westbalkan-marathon-reise-durch-sechs-staaten-in-60-stunden](https://www.spiegel.de/politik/deutschland/johann-wadephul-auf-dem-westbalkan-marathon-reise-durch-sechs-staaten-in-60-stunden-a-d1dbb3f9-c616-4f0f-88d4-3eb9f5e564d7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen](https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen-a-e4f30468-da5a-4150-8dce-984f0e887752#ref=rss)
+### stuttgart
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stuttgart-21-kommt-spaeter-nur-62-menschen-aus-afghanistan-nehmen-geldangebot-der-bundesregierung-an-berg-in-graubuenden-rutscht](https://www.spiegel.de/politik/deutschland/news-des-tages-stuttgart-21-kommt-spaeter-nur-62-menschen-aus-afghanistan-nehmen-geldangebot-der-bundesregierung-an-berg-in-graubuenden-rutscht-a-9c8ab085-fceb-4214-8cb8-c28a9dbfdf8a#ref=rss)
+### 21
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stuttgart-21-kommt-spaeter-nur-62-menschen-aus-afghanistan-nehmen-geldangebot-der-bundesregierung-an-berg-in-graubuenden-rutscht](https://www.spiegel.de/politik/deutschland/news-des-tages-stuttgart-21-kommt-spaeter-nur-62-menschen-aus-afghanistan-nehmen-geldangebot-der-bundesregierung-an-berg-in-graubuenden-rutscht-a-9c8ab085-fceb-4214-8cb8-c28a9dbfdf8a#ref=rss)
+### 62
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stuttgart-21-kommt-spaeter-nur-62-menschen-aus-afghanistan-nehmen-geldangebot-der-bundesregierung-an-berg-in-graubuenden-rutscht](https://www.spiegel.de/politik/deutschland/news-des-tages-stuttgart-21-kommt-spaeter-nur-62-menschen-aus-afghanistan-nehmen-geldangebot-der-bundesregierung-an-berg-in-graubuenden-rutscht-a-9c8ab085-fceb-4214-8cb8-c28a9dbfdf8a#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stuttgart-21-kommt-spaeter-nur-62-menschen-aus-afghanistan-nehmen-geldangebot-der-bundesregierung-an-berg-in-graubuenden-rutscht](https://www.spiegel.de/politik/deutschland/news-des-tages-stuttgart-21-kommt-spaeter-nur-62-menschen-aus-afghanistan-nehmen-geldangebot-der-bundesregierung-an-berg-in-graubuenden-rutscht-a-9c8ab085-fceb-4214-8cb8-c28a9dbfdf8a#ref=rss)
+### afghanistan
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stuttgart-21-kommt-spaeter-nur-62-menschen-aus-afghanistan-nehmen-geldangebot-der-bundesregierung-an-berg-in-graubuenden-rutscht](https://www.spiegel.de/politik/deutschland/news-des-tages-stuttgart-21-kommt-spaeter-nur-62-menschen-aus-afghanistan-nehmen-geldangebot-der-bundesregierung-an-berg-in-graubuenden-rutscht-a-9c8ab085-fceb-4214-8cb8-c28a9dbfdf8a#ref=rss)
+### nehmen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-stuttgart-21-kommt-spaeter-nur-62-menschen-aus-afghanistan-nehmen-geldangebot-der-bundesregierung-an-berg-in-graubuenden-rutscht](https://www.spiegel.de/politik/deutschland/news-des-tages-stuttgart-21-kommt-spaeter-nur-62-menschen-aus-afghanistan-nehmen-geldangebot-der-bundesregierung-an-berg-in-graubuenden-rutscht-a-9c8ab085-fceb-4214-8cb8-c28a9dbfdf8a#ref=rss)
+### rtlmanagerin
+
+* [https://www.spiegel.de/kultur/rtl-managerin-inga-leschek-als-leisetreter-wirst-du-im-fernsehen-nichts](https://www.spiegel.de/kultur/rtl-managerin-inga-leschek-als-leisetreter-wirst-du-im-fernsehen-nichts-a-b074e63c-fe16-4ad9-8b75-b07df1e0681e#ref=rss)
+### inga
+
+* [https://www.spiegel.de/kultur/rtl-managerin-inga-leschek-als-leisetreter-wirst-du-im-fernsehen-nichts](https://www.spiegel.de/kultur/rtl-managerin-inga-leschek-als-leisetreter-wirst-du-im-fernsehen-nichts-a-b074e63c-fe16-4ad9-8b75-b07df1e0681e#ref=rss)
+### leschek
+
+* [https://www.spiegel.de/kultur/rtl-managerin-inga-leschek-als-leisetreter-wirst-du-im-fernsehen-nichts](https://www.spiegel.de/kultur/rtl-managerin-inga-leschek-als-leisetreter-wirst-du-im-fernsehen-nichts-a-b074e63c-fe16-4ad9-8b75-b07df1e0681e#ref=rss)
+### ellen
+
+* [https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen](https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen-a-39bf45ce-5101-40c8-9d19-8ee81049fa56#ref=rss)
+### alice
+
+* [https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen](https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen-a-39bf45ce-5101-40c8-9d19-8ee81049fa56#ref=rss)
+### kessler
+
+* [https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen](https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen-a-39bf45ce-5101-40c8-9d19-8ee81049fa56#ref=rss)
+### expertin
+
+* [https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen](https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen-a-39bf45ce-5101-40c8-9d19-8ee81049fa56#ref=rss)
+### emotionale
+
+* [https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen](https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen-a-39bf45ce-5101-40c8-9d19-8ee81049fa56#ref=rss)
+### verbindung
+
+* [https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen](https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen-a-39bf45ce-5101-40c8-9d19-8ee81049fa56#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen](https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen-a-39bf45ce-5101-40c8-9d19-8ee81049fa56#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weihnachten-spielwarenbranche-erwartet-gutes-geschaeft](https://www.spiegel.de/wirtschaft/weihnachten-spielwarenbranche-erwartet-gutes-geschaeft-a-e4bcddb4-331b-4ab2-96f5-93a8936ea093#ref=rss)
+### gemeinsam
+
+* [https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen](https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen-a-39bf45ce-5101-40c8-9d19-8ee81049fa56#ref=rss)
+* [https://www.spiegel.de/sport/quiz-zu-donald-trump-cristiano-ronaldo-und-mohammed-bin-salman-wer-hats-gesagt](https://www.spiegel.de/sport/quiz-zu-donald-trump-cristiano-ronaldo-und-mohammed-bin-salman-wer-hats-gesagt-a-cfd21a24-258c-4cc9-b937-1dbba34c84ab#ref=rss)
+### viele
+
+* [https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen](https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen-a-39bf45ce-5101-40c8-9d19-8ee81049fa56#ref=rss)
+* [https://www.spiegel.de/kultur/wicked-teil-2-in-oz-kaempfen-und-glitzern-wieder-das-gute-gegen-das-boese](https://www.spiegel.de/kultur/wicked-teil-2-in-oz-kaempfen-und-glitzern-wieder-das-gute-gegen-das-boese-a-5b00e59d-564e-4eb9-ae9d-c71d98140b93#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen](https://www.spiegel.de/familie/ellen-und-alice-kessler-expertin-erklaert-emotionale-verbindung-von-zwillingen-a-39bf45ce-5101-40c8-9d19-8ee81049fa56#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-hat-gerade-den-besten-kinofilm-aller-zeiten-geguckt-sagt-sie](https://www.spiegel.de/panorama/leute/jennifer-lawrence-hat-gerade-den-besten-kinofilm-aller-zeiten-geguckt-sagt-sie-a-049f48f9-94f9-4bf0-b5da-0d035b6c2e77#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/politik/berlin-palaestinenser-verliert-offenbar-einbuergerung-wegen-hamas-sympathie](https://www.spiegel.de/politik/berlin-palaestinenser-verliert-offenbar-einbuergerung-wegen-hamas-sympathie-a-b1281ecf-ba14-4742-8648-420517c556c8#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen](https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen-a-e4f30468-da5a-4150-8dce-984f0e887752#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/politik/berlin-palaestinenser-verliert-offenbar-einbuergerung-wegen-hamas-sympathie](https://www.spiegel.de/politik/berlin-palaestinenser-verliert-offenbar-einbuergerung-wegen-hamas-sympathie-a-b1281ecf-ba14-4742-8648-420517c556c8#ref=rss)
+* [https://www.spiegel.de/panorama/bundeswehruebung-kriegsspiele-in-der-berliner-u-bahn](https://www.spiegel.de/panorama/bundeswehruebung-kriegsspiele-in-der-berliner-u-bahn-a-14f10452-df2a-478f-9349-394a79f95a06#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/berlin-palaestinenser-verliert-offenbar-einbuergerung-wegen-hamas-sympathie](https://www.spiegel.de/politik/berlin-palaestinenser-verliert-offenbar-einbuergerung-wegen-hamas-sympathie-a-b1281ecf-ba14-4742-8648-420517c556c8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weihnachten-spielwarenbranche-erwartet-gutes-geschaeft](https://www.spiegel.de/wirtschaft/weihnachten-spielwarenbranche-erwartet-gutes-geschaeft-a-e4bcddb4-331b-4ab2-96f5-93a8936ea093#ref=rss)
+### prozess
+
+* [https://www.spiegel.de/panorama/justiz/christina-block-prozess-stiefmutter-berichtet-ueber-erlebnisse-der-block-kinder](https://www.spiegel.de/panorama/justiz/christina-block-prozess-stiefmutter-berichtet-ueber-erlebnisse-der-block-kinder-a-8ec56397-14f0-4c72-9072-f90c98924312#ref=rss)
+### stiefmutter
+
+* [https://www.spiegel.de/panorama/justiz/christina-block-prozess-stiefmutter-berichtet-ueber-erlebnisse-der-block-kinder](https://www.spiegel.de/panorama/justiz/christina-block-prozess-stiefmutter-berichtet-ueber-erlebnisse-der-block-kinder-a-8ec56397-14f0-4c72-9072-f90c98924312#ref=rss)
+### blockkinder
+
+* [https://www.spiegel.de/panorama/justiz/christina-block-prozess-stiefmutter-berichtet-ueber-erlebnisse-der-block-kinder](https://www.spiegel.de/panorama/justiz/christina-block-prozess-stiefmutter-berichtet-ueber-erlebnisse-der-block-kinder-a-8ec56397-14f0-4c72-9072-f90c98924312#ref=rss)
+### elon
+
+* [https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit](https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit-a-ff56b66b-6dbc-4aea-8bbb-bbfb1879f7c5#ref=rss)
+### musk
+
+* [https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit](https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit-a-ff56b66b-6dbc-4aea-8bbb-bbfb1879f7c5#ref=rss)
+### kronprinzen
+
+* [https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit](https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit-a-ff56b66b-6dbc-4aea-8bbb-bbfb1879f7c5#ref=rss)
+### weiße
+
+* [https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit](https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit-a-ff56b66b-6dbc-4aea-8bbb-bbfb1879f7c5#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit](https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit-a-ff56b66b-6dbc-4aea-8bbb-bbfb1879f7c5#ref=rss)
+### gleich
+
+* [https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit](https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit-a-ff56b66b-6dbc-4aea-8bbb-bbfb1879f7c5#ref=rss)
+### erhält
+
+* [https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit](https://www.spiegel.de/ausland/usa-elon-musk-kehrt-fuer-treffen-mit-saudischem-kronprinzen-ins-weisse-haus-zurueck-und-cristiano-ronaldo-kam-gleich-mit-a-ff56b66b-6dbc-4aea-8bbb-bbfb1879f7c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rente-sozialfluegel-der-union-unterstuetzt-friedrich-merz-im-rentenstreit](https://www.spiegel.de/politik/deutschland/rente-sozialfluegel-der-union-unterstuetzt-friedrich-merz-im-rentenstreit-a-30acde30-c11e-4da5-b6fd-510c1ffb75b6#ref=rss)
+### gesagt
+
+* [https://www.spiegel.de/sport/quiz-zu-donald-trump-cristiano-ronaldo-und-mohammed-bin-salman-wer-hats-gesagt](https://www.spiegel.de/sport/quiz-zu-donald-trump-cristiano-ronaldo-und-mohammed-bin-salman-wer-hats-gesagt-a-cfd21a24-258c-4cc9-b937-1dbba34c84ab#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-personalentscheidung-fuer-eu-rechnungshof](https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-personalentscheidung-fuer-eu-rechnungshof-a-6cb6e702-e305-461d-b8af-eae32f8f2e85#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rente-sozialfluegel-der-union-unterstuetzt-friedrich-merz-im-rentenstreit](https://www.spiegel.de/politik/deutschland/rente-sozialfluegel-der-union-unterstuetzt-friedrich-merz-im-rentenstreit-a-30acde30-c11e-4da5-b6fd-510c1ffb75b6#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-personalentscheidung-fuer-eu-rechnungshof](https://www.spiegel.de/politik/deutschland/friedrich-merz-kritik-an-personalentscheidung-fuer-eu-rechnungshof-a-6cb6e702-e305-461d-b8af-eae32f8f2e85#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-das-wird-kulturstaatsminister-wolfram-weimer-vorgeworfen](https://www.spiegel.de/politik/deutschland/wolfram-weimer-das-wird-kulturstaatsminister-wolfram-weimer-vorgeworfen-a-dca4c24b-8b77-4789-9dbe-f055f26c2008#ref=rss)
+### alle
+
+* [https://www.spiegel.de/ausland/ukraine-die-lehren-aus-minditsch-gate](https://www.spiegel.de/ausland/ukraine-die-lehren-aus-minditsch-gate-a-11909ff1-eb27-439d-8973-7c357fee5107#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen](https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen-a-e4f30468-da5a-4150-8dce-984f0e887752#ref=rss)
+### klimtgemälde
+
+* [https://www.spiegel.de/kultur/klimt-gemaelde-fuer-236-4-millionen-dollar-versteigert-kunst-rekorde-der-auktionshaeuser](https://www.spiegel.de/kultur/klimt-gemaelde-fuer-236-4-millionen-dollar-versteigert-kunst-rekorde-der-auktionshaeuser-a-b142bbbd-1ab1-4dd6-b4e5-a2f297dd603d#ref=rss)
+### 2364
+
+* [https://www.spiegel.de/kultur/klimt-gemaelde-fuer-236-4-millionen-dollar-versteigert-kunst-rekorde-der-auktionshaeuser](https://www.spiegel.de/kultur/klimt-gemaelde-fuer-236-4-millionen-dollar-versteigert-kunst-rekorde-der-auktionshaeuser-a-b142bbbd-1ab1-4dd6-b4e5-a2f297dd603d#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/kultur/klimt-gemaelde-fuer-236-4-millionen-dollar-versteigert-kunst-rekorde-der-auktionshaeuser](https://www.spiegel.de/kultur/klimt-gemaelde-fuer-236-4-millionen-dollar-versteigert-kunst-rekorde-der-auktionshaeuser-a-b142bbbd-1ab1-4dd6-b4e5-a2f297dd603d#ref=rss)
+### versteigert
+
+* [https://www.spiegel.de/kultur/klimt-gemaelde-fuer-236-4-millionen-dollar-versteigert-kunst-rekorde-der-auktionshaeuser](https://www.spiegel.de/kultur/klimt-gemaelde-fuer-236-4-millionen-dollar-versteigert-kunst-rekorde-der-auktionshaeuser-a-b142bbbd-1ab1-4dd6-b4e5-a2f297dd603d#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/panorama/brandenburg-landtag-billigt-rundfunkreform-mit-stimmen-der-cdu](https://www.spiegel.de/panorama/brandenburg-landtag-billigt-rundfunkreform-mit-stimmen-der-cdu-a-2f28c2ce-48b3-4345-810d-d0cb029399b4#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/panorama/brandenburg-landtag-billigt-rundfunkreform-mit-stimmen-der-cdu](https://www.spiegel.de/panorama/brandenburg-landtag-billigt-rundfunkreform-mit-stimmen-der-cdu-a-2f28c2ce-48b3-4345-810d-d0cb029399b4#ref=rss)
+### wicked
+
+* [https://www.spiegel.de/kultur/wicked-teil-2-in-oz-kaempfen-und-glitzern-wieder-das-gute-gegen-das-boese](https://www.spiegel.de/kultur/wicked-teil-2-in-oz-kaempfen-und-glitzern-wieder-das-gute-gegen-das-boese-a-5b00e59d-564e-4eb9-ae9d-c71d98140b93#ref=rss)
+### teil
+
+* [https://www.spiegel.de/kultur/wicked-teil-2-in-oz-kaempfen-und-glitzern-wieder-das-gute-gegen-das-boese](https://www.spiegel.de/kultur/wicked-teil-2-in-oz-kaempfen-und-glitzern-wieder-das-gute-gegen-das-boese-a-5b00e59d-564e-4eb9-ae9d-c71d98140b93#ref=rss)
+### weimer
+
+* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-das-wird-kulturstaatsminister-wolfram-weimer-vorgeworfen](https://www.spiegel.de/politik/deutschland/wolfram-weimer-das-wird-kulturstaatsminister-wolfram-weimer-vorgeworfen-a-dca4c24b-8b77-4789-9dbe-f055f26c2008#ref=rss)
+### kulturstaatsminister
+
+* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-das-wird-kulturstaatsminister-wolfram-weimer-vorgeworfen](https://www.spiegel.de/politik/deutschland/wolfram-weimer-das-wird-kulturstaatsminister-wolfram-weimer-vorgeworfen-a-dca4c24b-8b77-4789-9dbe-f055f26c2008#ref=rss)
+### geld
+
+* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-das-wird-kulturstaatsminister-wolfram-weimer-vorgeworfen](https://www.spiegel.de/politik/deutschland/wolfram-weimer-das-wird-kulturstaatsminister-wolfram-weimer-vorgeworfen-a-dca4c24b-8b77-4789-9dbe-f055f26c2008#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weihnachten-spielwarenbranche-erwartet-gutes-geschaeft](https://www.spiegel.de/wirtschaft/weihnachten-spielwarenbranche-erwartet-gutes-geschaeft-a-e4bcddb4-331b-4ab2-96f5-93a8936ea093#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen](https://www.spiegel.de/ausland/donald-trump-und-die-epstein-akten-haette-sie-einfach-selber-freigeben-koennen-a-e4f30468-da5a-4150-8dce-984f0e887752#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weihnachten-spielwarenbranche-erwartet-gutes-geschaeft](https://www.spiegel.de/wirtschaft/weihnachten-spielwarenbranche-erwartet-gutes-geschaeft-a-e4bcddb4-331b-4ab2-96f5-93a8936ea093#ref=rss)
+### daniela
+
+* [https://www.spiegel.de/panorama/justiz/daniela-klette-raf-gericht-stellt-verfahren-zu-fuenf-raubueberfaellen-gegen-ex-terroristin-ein](https://www.spiegel.de/panorama/justiz/daniela-klette-raf-gericht-stellt-verfahren-zu-fuenf-raubueberfaellen-gegen-ex-terroristin-ein-a-8db77f46-2822-4193-a5a5-48283e71768b#ref=rss)
+### klette
+
+* [https://www.spiegel.de/panorama/justiz/daniela-klette-raf-gericht-stellt-verfahren-zu-fuenf-raubueberfaellen-gegen-ex-terroristin-ein](https://www.spiegel.de/panorama/justiz/daniela-klette-raf-gericht-stellt-verfahren-zu-fuenf-raubueberfaellen-gegen-ex-terroristin-ein-a-8db77f46-2822-4193-a5a5-48283e71768b#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/justiz/daniela-klette-raf-gericht-stellt-verfahren-zu-fuenf-raubueberfaellen-gegen-ex-terroristin-ein](https://www.spiegel.de/panorama/justiz/daniela-klette-raf-gericht-stellt-verfahren-zu-fuenf-raubueberfaellen-gegen-ex-terroristin-ein-a-8db77f46-2822-4193-a5a5-48283e71768b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/christies-pariser-auktionshaus-stoppt-versteigerung-von-historischer-rechenmaschine-von-blaise-pascal](https://www.spiegel.de/wissenschaft/technik/christies-pariser-auktionshaus-stoppt-versteigerung-von-historischer-rechenmaschine-von-blaise-pascal-a-a623f8f6-2622-4670-97f9-fae57c2234c8#ref=rss)
+### verfahren
+
+* [https://www.spiegel.de/panorama/justiz/daniela-klette-raf-gericht-stellt-verfahren-zu-fuenf-raubueberfaellen-gegen-ex-terroristin-ein](https://www.spiegel.de/panorama/justiz/daniela-klette-raf-gericht-stellt-verfahren-zu-fuenf-raubueberfaellen-gegen-ex-terroristin-ein-a-8db77f46-2822-4193-a5a5-48283e71768b#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/panorama/justiz/daniela-klette-raf-gericht-stellt-verfahren-zu-fuenf-raubueberfaellen-gegen-ex-terroristin-ein](https://www.spiegel.de/panorama/justiz/daniela-klette-raf-gericht-stellt-verfahren-zu-fuenf-raubueberfaellen-gegen-ex-terroristin-ein-a-8db77f46-2822-4193-a5a5-48283e71768b#ref=rss)
+### rechenmaschine
+
+* [https://www.spiegel.de/wissenschaft/technik/christies-pariser-auktionshaus-stoppt-versteigerung-von-historischer-rechenmaschine-von-blaise-pascal](https://www.spiegel.de/wissenschaft/technik/christies-pariser-auktionshaus-stoppt-versteigerung-von-historischer-rechenmaschine-von-blaise-pascal-a-a623f8f6-2622-4670-97f9-fae57c2234c8#ref=rss)
+### drei
+
+* [https://www.spiegel.de/wissenschaft/technik/christies-pariser-auktionshaus-stoppt-versteigerung-von-historischer-rechenmaschine-von-blaise-pascal](https://www.spiegel.de/wissenschaft/technik/christies-pariser-auktionshaus-stoppt-versteigerung-von-historischer-rechenmaschine-von-blaise-pascal-a-a623f8f6-2622-4670-97f9-fae57c2234c8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weihnachten-spielwarenbranche-erwartet-gutes-geschaeft](https://www.spiegel.de/wirtschaft/weihnachten-spielwarenbranche-erwartet-gutes-geschaeft-a-e4bcddb4-331b-4ab2-96f5-93a8936ea093#ref=rss)
+### sozialflügel
+
+* [https://www.spiegel.de/politik/deutschland/rente-sozialfluegel-der-union-unterstuetzt-friedrich-merz-im-rentenstreit](https://www.spiegel.de/politik/deutschland/rente-sozialfluegel-der-union-unterstuetzt-friedrich-merz-im-rentenstreit-a-30acde30-c11e-4da5-b6fd-510c1ffb75b6#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/rente-sozialfluegel-der-union-unterstuetzt-friedrich-merz-im-rentenstreit](https://www.spiegel.de/politik/deutschland/rente-sozialfluegel-der-union-unterstuetzt-friedrich-merz-im-rentenstreit-a-30acde30-c11e-4da5-b6fd-510c1ffb75b6#ref=rss)
+### schweiz
+
+* [https://www.spiegel.de/wirtschaft/schweiz-zollstreit-mit-den-usa-birgt-hohe-risiken-fuer-wirtschaftsnation](https://www.spiegel.de/wirtschaft/schweiz-zollstreit-mit-den-usa-birgt-hohe-risiken-fuer-wirtschaftsnation-a-84abb9d0-a4a1-40e2-8954-f3feb7670d9e#ref=rss)
+### birgt
+
+* [https://www.spiegel.de/wirtschaft/schweiz-zollstreit-mit-den-usa-birgt-hohe-risiken-fuer-wirtschaftsnation](https://www.spiegel.de/wirtschaft/schweiz-zollstreit-mit-den-usa-birgt-hohe-risiken-fuer-wirtschaftsnation-a-84abb9d0-a4a1-40e2-8954-f3feb7670d9e#ref=rss)
+### hohe
+
+* [https://www.spiegel.de/wirtschaft/schweiz-zollstreit-mit-den-usa-birgt-hohe-risiken-fuer-wirtschaftsnation](https://www.spiegel.de/wirtschaft/schweiz-zollstreit-mit-den-usa-birgt-hohe-risiken-fuer-wirtschaftsnation-a-84abb9d0-a4a1-40e2-8954-f3feb7670d9e#ref=rss)
+### risiken
+
+* [https://www.spiegel.de/wirtschaft/schweiz-zollstreit-mit-den-usa-birgt-hohe-risiken-fuer-wirtschaftsnation](https://www.spiegel.de/wirtschaft/schweiz-zollstreit-mit-den-usa-birgt-hohe-risiken-fuer-wirtschaftsnation-a-84abb9d0-a4a1-40e2-8954-f3feb7670d9e#ref=rss)
+### wirtschaftsnation
+
+* [https://www.spiegel.de/wirtschaft/schweiz-zollstreit-mit-den-usa-birgt-hohe-risiken-fuer-wirtschaftsnation](https://www.spiegel.de/wirtschaft/schweiz-zollstreit-mit-den-usa-birgt-hohe-risiken-fuer-wirtschaftsnation-a-84abb9d0-a4a1-40e2-8954-f3feb7670d9e#ref=rss)
+### jennifer
+
+* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-hat-gerade-den-besten-kinofilm-aller-zeiten-geguckt-sagt-sie](https://www.spiegel.de/panorama/leute/jennifer-lawrence-hat-gerade-den-besten-kinofilm-aller-zeiten-geguckt-sagt-sie-a-049f48f9-94f9-4bf0-b5da-0d035b6c2e77#ref=rss)
+### lawrence
+
+* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-hat-gerade-den-besten-kinofilm-aller-zeiten-geguckt-sagt-sie](https://www.spiegel.de/panorama/leute/jennifer-lawrence-hat-gerade-den-besten-kinofilm-aller-zeiten-geguckt-sagt-sie-a-049f48f9-94f9-4bf0-b5da-0d035b6c2e77#ref=rss)
+### kino
+
+* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-hat-gerade-den-besten-kinofilm-aller-zeiten-geguckt-sagt-sie](https://www.spiegel.de/panorama/leute/jennifer-lawrence-hat-gerade-den-besten-kinofilm-aller-zeiten-geguckt-sagt-sie-a-049f48f9-94f9-4bf0-b5da-0d035b6c2e77#ref=rss)
 
