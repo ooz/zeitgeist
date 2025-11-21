@@ -4,292 +4,398 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### china
+### ukraine
 
-* [https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung](https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung-a-9aec964d-57b8-45d4-8eb8-14a36d12f292#ref=rss)
-* [https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen](https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen-a-33992040-23fc-4521-b579-b8f0fa20562e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-plant-direkte-beteiligungen-an-rohstoffprojekten-in-australien](https://www.spiegel.de/wirtschaft/eu-plant-direkte-beteiligungen-an-rohstoffprojekten-in-australien-a-be3283fc-e314-428d-b6e9-ce60eccfa3f1#ref=rss)
-### champions
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor-a-26f5fe07-7db3-4ddd-8160-c4e5223ad8d5#ref=rss)
+* [https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner](https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner-a-79162faa-3d08-40f9-9f54-c178bd0de2c7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt-a-73d879c9-1a94-4bcd-a1ec-01e15bcdf7aa#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-und-wladimir-putin-diktieren-den-frieden-europa-schaut-zu-kommentar](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-und-wladimir-putin-diktieren-den-frieden-europa-schaut-zu-kommentar-a-a3453ca0-1a4a-4ace-9602-075cea826091#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj-a-171178f5-a48a-436d-8212-c3f8236a582f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-europaeische-reaktionen-auf-us-verhandlungsstand-mit-russland](https://www.spiegel.de/politik/deutschland/ukraine-krieg-europaeische-reaktionen-auf-us-verhandlungsstand-mit-russland-a-3795425a-f6b8-4545-9b85-2229173ddfdc#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-offenbar-unterstuetzung-entziehen-wenn-kyjiw-abkommen-nicht-zustimmt](https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-offenbar-unterstuetzung-entziehen-wenn-kyjiw-abkommen-nicht-zustimmt-a-b8a9ecb4-b141-4aa7-8322-1e9745679997#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken](https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken-a-a97ee4f4-d1aa-424e-99d1-2e838493bbb6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-siegt-gegen-paris-saint-germain](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-siegt-gegen-paris-saint-germain-a-2ba79570-2178-4aaa-b955-76ea351ac500#ref=rss)
-### league
-
-* [https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken](https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken-a-a97ee4f4-d1aa-424e-99d1-2e838493bbb6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-siegt-gegen-paris-saint-germain](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-siegt-gegen-paris-saint-germain-a-2ba79570-2178-4aaa-b955-76ea351ac500#ref=rss)
-### neue
-
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln](https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln-a-48057fd5-e4f7-4026-a653-c602a05edc30#ref=rss)
-* [https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe](https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe-a-0c982148-6036-4ee9-8861-45723c4efbd5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation](https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation-a-d0251ad8-1cfa-4c9b-838d-9ab4a593bd08#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor-a-4e745e61-3b7e-4051-b63d-023d2555e8f0#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel-a-058e1372-15f0-43f4-a060-5860e4c6cf3f#ref=rss)
-* [https://www.spiegel.de/ausland/g20-gipfel-in-suedafrika-der-rest-der-welt-ist-irgendwie-auch-egal](https://www.spiegel.de/ausland/g20-gipfel-in-suedafrika-der-rest-der-welt-ist-irgendwie-auch-egal-a-f1cca500-df07-4a33-b949-bbaf3719b480#ref=rss)
-* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
-### viele
-
-* [https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation](https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation-a-d0251ad8-1cfa-4c9b-838d-9ab4a593bd08#ref=rss)
-* [https://www.spiegel.de/ausland/g20-gipfel-in-suedafrika-der-rest-der-welt-ist-irgendwie-auch-egal](https://www.spiegel.de/ausland/g20-gipfel-in-suedafrika-der-rest-der-welt-ist-irgendwie-auch-egal-a-f1cca500-df07-4a33-b949-bbaf3719b480#ref=rss)
-* [https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber](https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber-a-8cbda8c3-aac1-4c54-8f5e-e1bb151176b5#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an](https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an-a-9493ecd8-79bd-4127-9553-560ea4b6872d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-siegt-gegen-paris-saint-germain](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-siegt-gegen-paris-saint-germain-a-2ba79570-2178-4aaa-b955-76ea351ac500#ref=rss)
-* [https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner](https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner-a-06331a53-4f34-4619-a28b-d06bf64b2c8f#ref=rss)
-### russland
-
-* [https://www.spiegel.de/panorama/justiz/russlandsanktionen-zoll-razzia-wegen-export-von-346-autos-nach-russland](https://www.spiegel.de/panorama/justiz/russlandsanktionen-zoll-razzia-wegen-export-von-346-autos-nach-russland-a-9f549d5a-c844-49b1-aede-9ae53c820ca9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor-a-4e745e61-3b7e-4051-b63d-023d2555e8f0#ref=rss)
-### song
-
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln](https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln-a-48057fd5-e4f7-4026-a653-c602a05edc30#ref=rss)
-* [https://www.spiegel.de/kultur/musik/rapper-haftbefehl-so-klingt-seine-erste-musik-nach-der-netflix-doku-babo](https://www.spiegel.de/kultur/musik/rapper-haftbefehl-so-klingt-seine-erste-musik-nach-der-netflix-doku-babo-a-5d74df66-59b3-41e1-8ae2-63ac7aa1ea59#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt-a-73d879c9-1a94-4bcd-a1ec-01e15bcdf7aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/ploetzliche-stratosphaerenerwaermung-usa-wohl-vor-kaelteeinbruch-auch-in-deutschland-moeglich](https://www.spiegel.de/wissenschaft/natur/ploetzliche-stratosphaerenerwaermung-usa-wohl-vor-kaelteeinbruch-auch-in-deutschland-moeglich-a-78a33730-c63a-4408-95d3-5f735d22102c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+* [https://www.spiegel.de/auto/auto-mehr-pkw-in-deutschland-aber-fahrleistung-nimmt-ab](https://www.spiegel.de/auto/auto-mehr-pkw-in-deutschland-aber-fahrleistung-nimmt-ab-a-4ee02943-fe8e-44ef-8963-3f019837ad0b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/cop30-kann-renditeversprechen-den-tropenwald-retten](https://www.spiegel.de/wissenschaft/mensch/cop30-kann-renditeversprechen-den-tropenwald-retten-a-46b3384e-4040-4696-be71-2b39bc6a8414#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-bundesinnenminister-soll-innenausschus-auskunft-sondersitzung-zum-schicksal-von-afghanen-geben](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-bundesinnenminister-soll-innenausschus-auskunft-sondersitzung-zum-schicksal-von-afghanen-geben-a-c3de0ecf-a95e-430d-80ab-5f93d0e77a76#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel-a-058e1372-15f0-43f4-a060-5860e4c6cf3f#ref=rss)
-* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
-### trump
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor-a-26f5fe07-7db3-4ddd-8160-c4e5223ad8d5#ref=rss)
+* [https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner](https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner-a-79162faa-3d08-40f9-9f54-c178bd0de2c7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/ploetzliche-stratosphaerenerwaermung-usa-wohl-vor-kaelteeinbruch-auch-in-deutschland-moeglich](https://www.spiegel.de/wissenschaft/natur/ploetzliche-stratosphaerenerwaermung-usa-wohl-vor-kaelteeinbruch-auch-in-deutschland-moeglich-a-78a33730-c63a-4408-95d3-5f735d22102c#ref=rss)
+* [https://www.spiegel.de/sport/formel1/mick-schumacher-verkuendet-abschied-von-seinem-rennstall](https://www.spiegel.de/sport/formel1/mick-schumacher-verkuendet-abschied-von-seinem-rennstall-a-9563c83e-c6d6-4aa4-ab8b-0cce63ed24f9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj-a-171178f5-a48a-436d-8212-c3f8236a582f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-offenbar-unterstuetzung-entziehen-wenn-kyjiw-abkommen-nicht-zustimmt](https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-offenbar-unterstuetzung-entziehen-wenn-kyjiw-abkommen-nicht-zustimmt-a-b8a9ecb4-b141-4aa7-8322-1e9745679997#ref=rss)
+### merz
 
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel-a-058e1372-15f0-43f4-a060-5860e4c6cf3f#ref=rss)
-* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel-a-058e1372-15f0-43f4-a060-5860e4c6cf3f#ref=rss)
-* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner](https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner-a-06331a53-4f34-4619-a28b-d06bf64b2c8f#ref=rss)
-### druck
-
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel-a-058e1372-15f0-43f4-a060-5860e4c6cf3f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen](https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen-a-33992040-23fc-4521-b579-b8f0fa20562e#ref=rss)
-* [https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber](https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber-a-8cbda8c3-aac1-4c54-8f5e-e1bb151176b5#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an](https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an-a-9493ecd8-79bd-4127-9553-560ea4b6872d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner](https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner-a-06331a53-4f34-4619-a28b-d06bf64b2c8f#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an](https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an-a-9493ecd8-79bd-4127-9553-560ea4b6872d#ref=rss)
-* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
-* [https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten](https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten-a-182b06d8-de7a-4858-b40c-23b033af3df2#ref=rss)
-### beste
-
-* [https://www.spiegel.de/reise/wintersport-in-den-alpen-was-ist-der-beste-skihelm](https://www.spiegel.de/reise/wintersport-in-den-alpen-was-ist-der-beste-skihelm-a-94a0b610-9e83-4cfc-bc8e-d9eac27f0196#ref=rss)
-* [https://www.spiegel.de/stil/gastgeber-sein-tipps-fuer-ein-gelungenes-dinner-ohne-kochkuenste](https://www.spiegel.de/stil/gastgeber-sein-tipps-fuer-ein-gelungenes-dinner-ohne-kochkuenste-a-5abbcceb-d6ed-4900-ae06-158f7eb1d920#ref=rss)
-### alle
-
-* [https://www.spiegel.de/reise/wintersport-in-den-alpen-was-ist-der-beste-skihelm](https://www.spiegel.de/reise/wintersport-in-den-alpen-was-ist-der-beste-skihelm-a-94a0b610-9e83-4cfc-bc8e-d9eac27f0196#ref=rss)
-* [https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken](https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken-a-a97ee4f4-d1aa-424e-99d1-2e838493bbb6#ref=rss)
-### team
-
-* [https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel](https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel-a-8697423d-c8c4-464d-ac14-f71ccb5200d9#ref=rss)
-### halbfinale
-
-* [https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel](https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel-a-8697423d-c8c4-464d-ac14-f71ccb5200d9#ref=rss)
-### doppel
-
-* [https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel](https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel-a-8697423d-c8c4-464d-ac14-f71ccb5200d9#ref=rss)
-### drei
-
-* [https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel](https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel-a-8697423d-c8c4-464d-ac14-f71ccb5200d9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/russlandsanktionen-zoll-razzia-wegen-export-von-346-autos-nach-russland](https://www.spiegel.de/panorama/justiz/russlandsanktionen-zoll-razzia-wegen-export-von-346-autos-nach-russland-a-9f549d5a-c844-49b1-aede-9ae53c820ca9#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel](https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel-a-8697423d-c8c4-464d-ac14-f71ccb5200d9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen](https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen-a-33992040-23fc-4521-b579-b8f0fa20562e#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung](https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung-a-9aec964d-57b8-45d4-8eb8-14a36d12f292#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an](https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an-a-9493ecd8-79bd-4127-9553-560ea4b6872d#ref=rss)
-### drastische
-
-* [https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung](https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung-a-9aec964d-57b8-45d4-8eb8-14a36d12f292#ref=rss)
-* [https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen](https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen-a-33992040-23fc-4521-b579-b8f0fa20562e#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung](https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung-a-9aec964d-57b8-45d4-8eb8-14a36d12f292#ref=rss)
-* [https://www.spiegel.de/politik/csd-neonazi-jugendgruppen-gehen-strategisch-gegen-christopher-street-days-vor](https://www.spiegel.de/politik/csd-neonazi-jugendgruppen-gehen-strategisch-gegen-christopher-street-days-vor-a-e9def6d0-f08c-4d55-928d-ec60f1d3daa2#ref=rss)
-### veranstalter
-
-* [https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung](https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung-a-9aec964d-57b8-45d4-8eb8-14a36d12f292#ref=rss)
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln](https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln-a-48057fd5-e4f7-4026-a653-c602a05edc30#ref=rss)
-### autos
-
-* [https://www.spiegel.de/panorama/justiz/russlandsanktionen-zoll-razzia-wegen-export-von-346-autos-nach-russland](https://www.spiegel.de/panorama/justiz/russlandsanktionen-zoll-razzia-wegen-export-von-346-autos-nach-russland-a-9f549d5a-c844-49b1-aede-9ae53c820ca9#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/justiz/russlandsanktionen-zoll-razzia-wegen-export-von-346-autos-nach-russland](https://www.spiegel.de/panorama/justiz/russlandsanktionen-zoll-razzia-wegen-export-von-346-autos-nach-russland-a-9f549d5a-c844-49b1-aede-9ae53c820ca9#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/hakenkreuz-aerger-us-kuestenwache-dementiert-bericht-der-washington-post](https://www.spiegel.de/ausland/hakenkreuz-aerger-us-kuestenwache-dementiert-bericht-der-washington-post-a-bdbbaa76-8b41-432b-8988-26e6cd205c8f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen](https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen-a-33992040-23fc-4521-b579-b8f0fa20562e#ref=rss)
-### paramount+
-
-* [https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken](https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken-a-a97ee4f4-d1aa-424e-99d1-2e838493bbb6#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken](https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken-a-a97ee4f4-d1aa-424e-99d1-2e838493bbb6#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken](https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken-a-a97ee4f4-d1aa-424e-99d1-2e838493bbb6#ref=rss)
-* [https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber](https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber-a-8cbda8c3-aac1-4c54-8f5e-e1bb151176b5#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken](https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken-a-a97ee4f4-d1aa-424e-99d1-2e838493bbb6#ref=rss)
-* [https://www.spiegel.de/ausland/g20-gipfel-in-suedafrika-der-rest-der-welt-ist-irgendwie-auch-egal](https://www.spiegel.de/ausland/g20-gipfel-in-suedafrika-der-rest-der-welt-ist-irgendwie-auch-egal-a-f1cca500-df07-4a33-b949-bbaf3719b480#ref=rss)
-### eurovision
-
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln](https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln-a-48057fd5-e4f7-4026-a653-c602a05edc30#ref=rss)
-### contest
-
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln](https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln-a-48057fd5-e4f7-4026-a653-c602a05edc30#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln](https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln-a-48057fd5-e4f7-4026-a653-c602a05edc30#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation](https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation-a-d0251ad8-1cfa-4c9b-838d-9ab4a593bd08#ref=rss)
-### haftbefehl
-
-* [https://www.spiegel.de/kultur/musik/rapper-haftbefehl-so-klingt-seine-erste-musik-nach-der-netflix-doku-babo](https://www.spiegel.de/kultur/musik/rapper-haftbefehl-so-klingt-seine-erste-musik-nach-der-netflix-doku-babo-a-5d74df66-59b3-41e1-8ae2-63ac7aa1ea59#ref=rss)
-### netflixdoku
-
-* [https://www.spiegel.de/kultur/musik/rapper-haftbefehl-so-klingt-seine-erste-musik-nach-der-netflix-doku-babo](https://www.spiegel.de/kultur/musik/rapper-haftbefehl-so-klingt-seine-erste-musik-nach-der-netflix-doku-babo-a-5d74df66-59b3-41e1-8ae2-63ac7aa1ea59#ref=rss)
-### babo
-
-* [https://www.spiegel.de/kultur/musik/rapper-haftbefehl-so-klingt-seine-erste-musik-nach-der-netflix-doku-babo](https://www.spiegel.de/kultur/musik/rapper-haftbefehl-so-klingt-seine-erste-musik-nach-der-netflix-doku-babo-a-5d74df66-59b3-41e1-8ae2-63ac7aa1ea59#ref=rss)
-### pras
-
-* [https://www.spiegel.de/panorama/justiz/pras-michel-fugees-rapper-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/pras-michel-fugees-rapper-zu-14-jahren-haft-verurteilt-a-6d79587d-0edf-4a94-828b-27494ef18c2b#ref=rss)
-### michel
-
-* [https://www.spiegel.de/panorama/justiz/pras-michel-fugees-rapper-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/pras-michel-fugees-rapper-zu-14-jahren-haft-verurteilt-a-6d79587d-0edf-4a94-828b-27494ef18c2b#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/pras-michel-fugees-rapper-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/pras-michel-fugees-rapper-zu-14-jahren-haft-verurteilt-a-6d79587d-0edf-4a94-828b-27494ef18c2b#ref=rss)
-### fatima
-
-* [https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe](https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe-a-0c982148-6036-4ee9-8861-45723c4efbd5#ref=rss)
-### bosch
-
-* [https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe](https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe-a-0c982148-6036-4ee9-8861-45723c4efbd5#ref=rss)
-### miss
-
-* [https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe](https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe-a-0c982148-6036-4ee9-8861-45723c4efbd5#ref=rss)
-### universe
-
-* [https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe](https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe-a-0c982148-6036-4ee9-8861-45723c4efbd5#ref=rss)
-### öffentlich
-
-* [https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe](https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe-a-0c982148-6036-4ee9-8861-45723c4efbd5#ref=rss)
-* [https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner](https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner-a-06331a53-4f34-4619-a28b-d06bf64b2c8f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kas-annegret-kramp-karrenbauer-haelt-an-kandidatur-fuer-stiftungsvorsitz-fest](https://www.spiegel.de/politik/deutschland/kas-annegret-kramp-karrenbauer-haelt-an-kandidatur-fuer-stiftungsvorsitz-fest-a-ec971b09-6172-4f96-801b-fc3004adc01d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj-a-171178f5-a48a-436d-8212-c3f8236a582f#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel-a-058e1372-15f0-43f4-a060-5860e4c6cf3f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen](https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen-a-33992040-23fc-4521-b579-b8f0fa20562e#ref=rss)
-### brasilianischen
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor-a-26f5fe07-7db3-4ddd-8160-c4e5223ad8d5#ref=rss)
+* [https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner](https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner-a-79162faa-3d08-40f9-9f54-c178bd0de2c7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj-a-171178f5-a48a-436d-8212-c3f8236a582f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-europaeische-reaktionen-auf-us-verhandlungsstand-mit-russland](https://www.spiegel.de/politik/deutschland/ukraine-krieg-europaeische-reaktionen-auf-us-verhandlungsstand-mit-russland-a-3795425a-f6b8-4545-9b85-2229173ddfdc#ref=rss)
+### friedensplan
 
-* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel-a-058e1372-15f0-43f4-a060-5860e4c6cf3f#ref=rss)
-* [https://www.spiegel.de/ausland/cop30-in-brasilien-wiedereroeffnung-des-konferenzgelaendes-nach-brand](https://www.spiegel.de/ausland/cop30-in-brasilien-wiedereroeffnung-des-konferenzgelaendes-nach-brand-a-667160a5-bd26-47ad-b46b-dc0a4b608c8f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor-a-26f5fe07-7db3-4ddd-8160-c4e5223ad8d5#ref=rss)
+* [https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner](https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner-a-79162faa-3d08-40f9-9f54-c178bd0de2c7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt-a-73d879c9-1a94-4bcd-a1ec-01e15bcdf7aa#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj-a-171178f5-a48a-436d-8212-c3f8236a582f#ref=rss)
+### botschaft
+
+* [https://www.spiegel.de/politik/afd-lotst-besuchergruppen-in-russische-botschaft-auf-kosten-der-steuerzahler](https://www.spiegel.de/politik/afd-lotst-besuchergruppen-in-russische-botschaft-auf-kosten-der-steuerzahler-a-28a4d9ea-adc0-4c5b-b18c-f494793a483f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt-a-73d879c9-1a94-4bcd-a1ec-01e15bcdf7aa#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/afd-lotst-besuchergruppen-in-russische-botschaft-auf-kosten-der-steuerzahler](https://www.spiegel.de/politik/afd-lotst-besuchergruppen-in-russische-botschaft-auf-kosten-der-steuerzahler-a-28a4d9ea-adc0-4c5b-b18c-f494793a483f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt-a-73d879c9-1a94-4bcd-a1ec-01e15bcdf7aa#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-freibaedern-sollen-im-sommer-wieder-22-grad-warm-sein](https://www.spiegel.de/panorama/berlin-freibaedern-sollen-im-sommer-wieder-22-grad-warm-sein-a-7ff0c13d-dfe1-4e4c-bfb2-4bc88c7994d7#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt-a-73d879c9-1a94-4bcd-a1ec-01e15bcdf7aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/ploetzliche-stratosphaerenerwaermung-usa-wohl-vor-kaelteeinbruch-auch-in-deutschland-moeglich](https://www.spiegel.de/wissenschaft/natur/ploetzliche-stratosphaerenerwaermung-usa-wohl-vor-kaelteeinbruch-auch-in-deutschland-moeglich-a-78a33730-c63a-4408-95d3-5f735d22102c#ref=rss)
+* [https://www.spiegel.de/auto/auto-mehr-pkw-in-deutschland-aber-fahrleistung-nimmt-ab](https://www.spiegel.de/auto/auto-mehr-pkw-in-deutschland-aber-fahrleistung-nimmt-ab-a-4ee02943-fe8e-44ef-8963-3f019837ad0b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/iran-studie-fuehrt-aussergewoehnliche-duerre-klar-auf-klimawandel-zurueck](https://www.spiegel.de/wissenschaft/natur/iran-studie-fuehrt-aussergewoehnliche-duerre-klar-auf-klimawandel-zurueck-a-4ae43e6a-7383-462e-8b82-4a24bbb79f6a#ref=rss)
+### stadtbild
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+### belém
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kas-annegret-kramp-karrenbauer-haelt-an-kandidatur-fuer-stiftungsvorsitz-fest](https://www.spiegel.de/politik/deutschland/kas-annegret-kramp-karrenbauer-haelt-an-kandidatur-fuer-stiftungsvorsitz-fest-a-ec971b09-6172-4f96-801b-fc3004adc01d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj-a-171178f5-a48a-436d-8212-c3f8236a582f#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor-a-26f5fe07-7db3-4ddd-8160-c4e5223ad8d5#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj-a-171178f5-a48a-436d-8212-c3f8236a582f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-offenbar-unterstuetzung-entziehen-wenn-kyjiw-abkommen-nicht-zustimmt](https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-offenbar-unterstuetzung-entziehen-wenn-kyjiw-abkommen-nicht-zustimmt-a-b8a9ecb4-b141-4aa7-8322-1e9745679997#ref=rss)
+### täglich
+
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor-a-26f5fe07-7db3-4ddd-8160-c4e5223ad8d5#ref=rss)
+* [https://www.spiegel.de/auto/benzinpreis-tankstellen-sollen-preise-hoechstens-dreimal-taeglich-anheben-duerfen](https://www.spiegel.de/auto/benzinpreis-tankstellen-sollen-preise-hoechstens-dreimal-taeglich-anheben-duerfen-a-dcd2c5b3-cc3c-4d7d-a8bf-213495c6ebce#ref=rss)
+### druck
+
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor-a-26f5fe07-7db3-4ddd-8160-c4e5223ad8d5#ref=rss)
+* [https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner](https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner-a-79162faa-3d08-40f9-9f54-c178bd0de2c7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj-a-171178f5-a48a-436d-8212-c3f8236a582f#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation](https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation-a-d0251ad8-1cfa-4c9b-838d-9ab4a593bd08#ref=rss)
-### denn
+* [https://www.spiegel.de/politik/afd-lotst-besuchergruppen-in-russische-botschaft-auf-kosten-der-steuerzahler](https://www.spiegel.de/politik/afd-lotst-besuchergruppen-in-russische-botschaft-auf-kosten-der-steuerzahler-a-28a4d9ea-adc0-4c5b-b18c-f494793a483f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt-a-73d879c9-1a94-4bcd-a1ec-01e15bcdf7aa#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation](https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation-a-d0251ad8-1cfa-4c9b-838d-9ab4a593bd08#ref=rss)
-* [https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber](https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber-a-8cbda8c3-aac1-4c54-8f5e-e1bb151176b5#ref=rss)
-### je
+* [https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner](https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner-a-79162faa-3d08-40f9-9f54-c178bd0de2c7#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/nicolas-sarkozy-tagebuch-eines-haeftlings-ueber-drei-wochen-gefaengnis](https://www.spiegel.de/kultur/literatur/nicolas-sarkozy-tagebuch-eines-haeftlings-ueber-drei-wochen-gefaengnis-a-3287700a-0d05-4701-a0e5-61231aacdc8a#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj-a-171178f5-a48a-436d-8212-c3f8236a582f#ref=rss)
+### fettnäpfchenkurs
 
-* [https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation](https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation-a-d0251ad8-1cfa-4c9b-838d-9ab4a593bd08#ref=rss)
-* [https://www.spiegel.de/kultur/auktionsrekord-frida-kahlo-erzielt-54-6-millionen-dollar-in-new-york](https://www.spiegel.de/kultur/auktionsrekord-frida-kahlo-erzielt-54-6-millionen-dollar-in-new-york-a-4cd125d3-5dd5-4486-b4ec-49a44f34fecd#ref=rss)
-### sieht
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+### brasilien
 
-* [https://www.spiegel.de/wirtschaft/zdf-politbarometer-mehrheit-sieht-juengere-durch-rentenpolitik-uebermaessig-belastet](https://www.spiegel.de/wirtschaft/zdf-politbarometer-mehrheit-sieht-juengere-durch-rentenpolitik-uebermaessig-belastet-a-81dbb316-83fd-418b-af7d-336f15306a6f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor-a-4e745e61-3b7e-4051-b63d-023d2555e8f0#ref=rss)
-### wenig
-
-* [https://www.spiegel.de/wirtschaft/zdf-politbarometer-mehrheit-sieht-juengere-durch-rentenpolitik-uebermaessig-belastet](https://www.spiegel.de/wirtschaft/zdf-politbarometer-mehrheit-sieht-juengere-durch-rentenpolitik-uebermaessig-belastet-a-81dbb316-83fd-418b-af7d-336f15306a6f#ref=rss)
-* [https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten](https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten-a-182b06d8-de7a-4858-b40c-23b033af3df2#ref=rss)
-### rettungsdienst
-
-* [https://www.spiegel.de/gesundheit/ersthelfer-apps-freiwillige-ueberbruecken-wartezeit-bis-rettungsdienst-eintrifft](https://www.spiegel.de/gesundheit/ersthelfer-apps-freiwillige-ueberbruecken-wartezeit-bis-rettungsdienst-eintrifft-a-6e13057a-ca16-4e50-ab00-85690aeedb65#ref=rss)
-### eintrifft
-
-* [https://www.spiegel.de/gesundheit/ersthelfer-apps-freiwillige-ueberbruecken-wartezeit-bis-rettungsdienst-eintrifft](https://www.spiegel.de/gesundheit/ersthelfer-apps-freiwillige-ueberbruecken-wartezeit-bis-rettungsdienst-eintrifft-a-6e13057a-ca16-4e50-ab00-85690aeedb65#ref=rss)
-### g20gipfel
-
-* [https://www.spiegel.de/ausland/g20-gipfel-in-suedafrika-der-rest-der-welt-ist-irgendwie-auch-egal](https://www.spiegel.de/ausland/g20-gipfel-in-suedafrika-der-rest-der-welt-ist-irgendwie-auch-egal-a-f1cca500-df07-4a33-b949-bbaf3719b480#ref=rss)
-### csd
-
-* [https://www.spiegel.de/politik/csd-neonazi-jugendgruppen-gehen-strategisch-gegen-christopher-street-days-vor](https://www.spiegel.de/politik/csd-neonazi-jugendgruppen-gehen-strategisch-gegen-christopher-street-days-vor-a-e9def6d0-f08c-4d55-928d-ec60f1d3daa2#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/politik/csd-neonazi-jugendgruppen-gehen-strategisch-gegen-christopher-street-days-vor](https://www.spiegel.de/politik/csd-neonazi-jugendgruppen-gehen-strategisch-gegen-christopher-street-days-vor-a-e9def6d0-f08c-4d55-928d-ec60f1d3daa2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an](https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an-a-9493ecd8-79bd-4127-9553-560ea4b6872d#ref=rss)
-### rekordsumme
-
-* [https://www.spiegel.de/kultur/auktionsrekord-frida-kahlo-erzielt-54-6-millionen-dollar-in-new-york](https://www.spiegel.de/kultur/auktionsrekord-frida-kahlo-erzielt-54-6-millionen-dollar-in-new-york-a-4cd125d3-5dd5-4486-b4ec-49a44f34fecd#ref=rss)
-* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
-### jan
-
-* [https://www.spiegel.de/wirtschaft/britische-ermittler-lassen-russisches-geldwaeschenetzwerk-auffliegen](https://www.spiegel.de/wirtschaft/britische-ermittler-lassen-russisches-geldwaeschenetzwerk-auffliegen-a-502b576e-5027-4b46-937e-3b3979ba2be5#ref=rss)
-### marsalek
-
-* [https://www.spiegel.de/wirtschaft/britische-ermittler-lassen-russisches-geldwaeschenetzwerk-auffliegen](https://www.spiegel.de/wirtschaft/britische-ermittler-lassen-russisches-geldwaeschenetzwerk-auffliegen-a-502b576e-5027-4b46-937e-3b3979ba2be5#ref=rss)
-### kirgisistan
-
-* [https://www.spiegel.de/wirtschaft/britische-ermittler-lassen-russisches-geldwaeschenetzwerk-auffliegen](https://www.spiegel.de/wirtschaft/britische-ermittler-lassen-russisches-geldwaeschenetzwerk-auffliegen-a-502b576e-5027-4b46-937e-3b3979ba2be5#ref=rss)
-### große
-
-* [https://www.spiegel.de/wirtschaft/britische-ermittler-lassen-russisches-geldwaeschenetzwerk-auffliegen](https://www.spiegel.de/wirtschaft/britische-ermittler-lassen-russisches-geldwaeschenetzwerk-auffliegen-a-502b576e-5027-4b46-937e-3b3979ba2be5#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor-a-4e745e61-3b7e-4051-b63d-023d2555e8f0#ref=rss)
-### stefanie
-
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an](https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an-a-9493ecd8-79bd-4127-9553-560ea4b6872d#ref=rss)
-### hubig
-
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an](https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an-a-9493ecd8-79bd-4127-9553-560ea4b6872d#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
-* [https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten](https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten-a-182b06d8-de7a-4858-b40c-23b033af3df2#ref=rss)
-### palina
-
-* [https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner](https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner-a-06331a53-4f34-4619-a28b-d06bf64b2c8f#ref=rss)
-### rojinski
-
-* [https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner](https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner-a-06331a53-4f34-4619-a28b-d06bf64b2c8f#ref=rss)
-### liegt
-
-* [https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner](https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner-a-06331a53-4f34-4619-a28b-d06bf64b2c8f#ref=rss)
-### zugeständnisse
-
-* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor-a-4e745e61-3b7e-4051-b63d-023d2555e8f0#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor-a-4e745e61-3b7e-4051-b63d-023d2555e8f0#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/bundesweiter-vorlesetag-wie-gut-kennen-sie-findus-frederick-und-co-quiz](https://www.spiegel.de/panorama/gesellschaft/bundesweiter-vorlesetag-wie-gut-kennen-sie-findus-frederick-und-co-quiz-a-b1128092-c3e1-424e-aa1b-4c357d883b44#ref=rss)
-### fachkräfte
-
-* [https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber](https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber-a-8cbda8c3-aac1-4c54-8f5e-e1bb151176b5#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber](https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber-a-8cbda8c3-aac1-4c54-8f5e-e1bb151176b5#ref=rss)
-* [https://www.spiegel.de/stil/gastgeber-sein-tipps-fuer-ein-gelungenes-dinner-ohne-kochkuenste](https://www.spiegel.de/stil/gastgeber-sein-tipps-fuer-ein-gelungenes-dinner-ohne-kochkuenste-a-5abbcceb-d6ed-4900-ae06-158f7eb1d920#ref=rss)
-### dschihadisten
-
-* [https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten](https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten-a-182b06d8-de7a-4858-b40c-23b033af3df2#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten](https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten-a-182b06d8-de7a-4858-b40c-23b033af3df2#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/bundesweiter-vorlesetag-wie-gut-kennen-sie-findus-frederick-und-co-quiz](https://www.spiegel.de/panorama/gesellschaft/bundesweiter-vorlesetag-wie-gut-kennen-sie-findus-frederick-und-co-quiz-a-b1128092-c3e1-424e-aa1b-4c357d883b44#ref=rss)
-### australien
-
-* [https://www.spiegel.de/wirtschaft/eu-plant-direkte-beteiligungen-an-rohstoffprojekten-in-australien](https://www.spiegel.de/wirtschaft/eu-plant-direkte-beteiligungen-an-rohstoffprojekten-in-australien-a-be3283fc-e314-428d-b6e9-ce60eccfa3f1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/cop30-kann-renditeversprechen-den-tropenwald-retten](https://www.spiegel.de/wissenschaft/mensch/cop30-kann-renditeversprechen-den-tropenwald-retten-a-46b3384e-4040-4696-be71-2b39bc6a8414#ref=rss)
 ### gut
 
-* [https://www.spiegel.de/panorama/gesellschaft/bundesweiter-vorlesetag-wie-gut-kennen-sie-findus-frederick-und-co-quiz](https://www.spiegel.de/panorama/gesellschaft/bundesweiter-vorlesetag-wie-gut-kennen-sie-findus-frederick-und-co-quiz-a-b1128092-c3e1-424e-aa1b-4c357d883b44#ref=rss)
-* [https://www.spiegel.de/stil/gastgeber-sein-tipps-fuer-ein-gelungenes-dinner-ohne-kochkuenste](https://www.spiegel.de/stil/gastgeber-sein-tipps-fuer-ein-gelungenes-dinner-ohne-kochkuenste-a-5abbcceb-d6ed-4900-ae06-158f7eb1d920#ref=rss)
-### dinner
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein](https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein-a-cbc6b1ec-dae8-4e98-b444-450eff5f4cb3#ref=rss)
+### kyjiw
 
-* [https://www.spiegel.de/stil/gastgeber-sein-tipps-fuer-ein-gelungenes-dinner-ohne-kochkuenste](https://www.spiegel.de/stil/gastgeber-sein-tipps-fuer-ein-gelungenes-dinner-ohne-kochkuenste-a-5abbcceb-d6ed-4900-ae06-158f7eb1d920#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-und-wladimir-putin-diktieren-den-frieden-europa-schaut-zu-kommentar](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-und-wladimir-putin-diktieren-den-frieden-europa-schaut-zu-kommentar-a-a3453ca0-1a4a-4ace-9602-075cea826091#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj-a-171178f5-a48a-436d-8212-c3f8236a582f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-offenbar-unterstuetzung-entziehen-wenn-kyjiw-abkommen-nicht-zustimmt](https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-offenbar-unterstuetzung-entziehen-wenn-kyjiw-abkommen-nicht-zustimmt-a-b8a9ecb4-b141-4aa7-8322-1e9745679997#ref=rss)
+### usfriedensplan
+
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor-a-26f5fe07-7db3-4ddd-8160-c4e5223ad8d5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt-a-73d879c9-1a94-4bcd-a1ec-01e15bcdf7aa#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor-a-26f5fe07-7db3-4ddd-8160-c4e5223ad8d5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/iran-studie-fuehrt-aussergewoehnliche-duerre-klar-auf-klimawandel-zurueck](https://www.spiegel.de/wissenschaft/natur/iran-studie-fuehrt-aussergewoehnliche-duerre-klar-auf-klimawandel-zurueck-a-4ae43e6a-7383-462e-8b82-4a24bbb79f6a#ref=rss)
+### gerät
+
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor-a-26f5fe07-7db3-4ddd-8160-c4e5223ad8d5#ref=rss)
+* [https://www.spiegel.de/kultur/tv/jan-fleischhauer-im-zdf-halb-gummizelle-halb-folterkeller](https://www.spiegel.de/kultur/tv/jan-fleischhauer-im-zdf-halb-gummizelle-halb-folterkeller-a-69a8282c-451d-4c35-872a-188043f1ed6d#ref=rss)
+### lage
+
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-gebietsabtretungen-an-russland-vor-a-26f5fe07-7db3-4ddd-8160-c4e5223ad8d5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt-a-73d879c9-1a94-4bcd-a1ec-01e15bcdf7aa#ref=rss)
+### ki
+
+* [https://www.spiegel.de/start/ki-im-studium-so-lief-die-antrittsvorlesung-von-europas-erstem-ki-professor](https://www.spiegel.de/start/ki-im-studium-so-lief-die-antrittsvorlesung-von-europas-erstem-ki-professor-a-8e407617-7e59-4a0e-892d-4501b8eba8ca#ref=rss)
+### weit
+
+* [https://www.spiegel.de/start/ki-im-studium-so-lief-die-antrittsvorlesung-von-europas-erstem-ki-professor](https://www.spiegel.de/start/ki-im-studium-so-lief-die-antrittsvorlesung-von-europas-erstem-ki-professor-a-8e407617-7e59-4a0e-892d-4501b8eba8ca#ref=rss)
+### gar
+
+* [https://www.spiegel.de/start/ki-im-studium-so-lief-die-antrittsvorlesung-von-europas-erstem-ki-professor](https://www.spiegel.de/start/ki-im-studium-so-lief-die-antrittsvorlesung-von-europas-erstem-ki-professor-a-8e407617-7e59-4a0e-892d-4501b8eba8ca#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/ploetzliche-stratosphaerenerwaermung-usa-wohl-vor-kaelteeinbruch-auch-in-deutschland-moeglich](https://www.spiegel.de/wissenschaft/natur/ploetzliche-stratosphaerenerwaermung-usa-wohl-vor-kaelteeinbruch-auch-in-deutschland-moeglich-a-78a33730-c63a-4408-95d3-5f735d22102c#ref=rss)
+### mönchengladbach
+
+* [https://www.spiegel.de/panorama/justiz/moenchengladbach-pfarrer-im-prozess-um-erschrecken-freigesprochen](https://www.spiegel.de/panorama/justiz/moenchengladbach-pfarrer-im-prozess-um-erschrecken-freigesprochen-a-df99ec6f-673d-4ce9-ab76-591b5ee8014d#ref=rss)
+### pfarrer
+
+* [https://www.spiegel.de/panorama/justiz/moenchengladbach-pfarrer-im-prozess-um-erschrecken-freigesprochen](https://www.spiegel.de/panorama/justiz/moenchengladbach-pfarrer-im-prozess-um-erschrecken-freigesprochen-a-df99ec6f-673d-4ce9-ab76-591b5ee8014d#ref=rss)
+### besuchergruppen
+
+* [https://www.spiegel.de/politik/afd-lotst-besuchergruppen-in-russische-botschaft-auf-kosten-der-steuerzahler](https://www.spiegel.de/politik/afd-lotst-besuchergruppen-in-russische-botschaft-auf-kosten-der-steuerzahler-a-28a4d9ea-adc0-4c5b-b18c-f494793a483f#ref=rss)
+### russische
+
+* [https://www.spiegel.de/politik/afd-lotst-besuchergruppen-in-russische-botschaft-auf-kosten-der-steuerzahler](https://www.spiegel.de/politik/afd-lotst-besuchergruppen-in-russische-botschaft-auf-kosten-der-steuerzahler-a-28a4d9ea-adc0-4c5b-b18c-f494793a483f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt-a-73d879c9-1a94-4bcd-a1ec-01e15bcdf7aa#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/afd-lotst-besuchergruppen-in-russische-botschaft-auf-kosten-der-steuerzahler](https://www.spiegel.de/politik/afd-lotst-besuchergruppen-in-russische-botschaft-auf-kosten-der-steuerzahler-a-28a4d9ea-adc0-4c5b-b18c-f494793a483f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-bundesinnenminister-soll-innenausschus-auskunft-sondersitzung-zum-schicksal-von-afghanen-geben](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-bundesinnenminister-soll-innenausschus-auskunft-sondersitzung-zum-schicksal-von-afghanen-geben-a-c3de0ecf-a95e-430d-80ab-5f93d0e77a76#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/politik/afd-lotst-besuchergruppen-in-russische-botschaft-auf-kosten-der-steuerzahler](https://www.spiegel.de/politik/afd-lotst-besuchergruppen-in-russische-botschaft-auf-kosten-der-steuerzahler-a-28a4d9ea-adc0-4c5b-b18c-f494793a483f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt-a-73d879c9-1a94-4bcd-a1ec-01e15bcdf7aa#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner](https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner-a-79162faa-3d08-40f9-9f54-c178bd0de2c7#ref=rss)
+* [https://www.spiegel.de/auto/auto-mehr-pkw-in-deutschland-aber-fahrleistung-nimmt-ab](https://www.spiegel.de/auto/auto-mehr-pkw-in-deutschland-aber-fahrleistung-nimmt-ab-a-4ee02943-fe8e-44ef-8963-3f019837ad0b#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner](https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner-a-79162faa-3d08-40f9-9f54-c178bd0de2c7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj-a-171178f5-a48a-436d-8212-c3f8236a582f#ref=rss)
+### geschichte
+
+* [https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner](https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner-a-79162faa-3d08-40f9-9f54-c178bd0de2c7#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/nicolas-sarkozy-tagebuch-eines-haeftlings-ueber-drei-wochen-gefaengnis](https://www.spiegel.de/kultur/literatur/nicolas-sarkozy-tagebuch-eines-haeftlings-ueber-drei-wochen-gefaengnis-a-3287700a-0d05-4701-a0e5-61231aacdc8a#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner](https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner-a-79162faa-3d08-40f9-9f54-c178bd0de2c7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-und-wladimir-putin-diktieren-den-frieden-europa-schaut-zu-kommentar](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-und-wladimir-putin-diktieren-den-frieden-europa-schaut-zu-kommentar-a-a3453ca0-1a4a-4ace-9602-075cea826091#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner](https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner-a-79162faa-3d08-40f9-9f54-c178bd0de2c7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-und-wladimir-putin-diktieren-den-frieden-europa-schaut-zu-kommentar](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-und-wladimir-putin-diktieren-den-frieden-europa-schaut-zu-kommentar-a-a3453ca0-1a4a-4ace-9602-075cea826091#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner](https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner-a-79162faa-3d08-40f9-9f54-c178bd0de2c7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj-a-171178f5-a48a-436d-8212-c3f8236a582f#ref=rss)
+### zuzustimmen
+
+* [https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner](https://www.spiegel.de/ausland/friedensplan-der-usa-ukraine-verliert-laut-selenskyj-entweder-wuerde-oder-partner-a-79162faa-3d08-40f9-9f54-c178bd0de2c7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-offenbar-unterstuetzung-entziehen-wenn-kyjiw-abkommen-nicht-zustimmt](https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-offenbar-unterstuetzung-entziehen-wenn-kyjiw-abkommen-nicht-zustimmt-a-b8a9ecb4-b141-4aa7-8322-1e9745679997#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt-a-73d879c9-1a94-4bcd-a1ec-01e15bcdf7aa#ref=rss)
+### erzürnt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt-a-73d879c9-1a94-4bcd-a1ec-01e15bcdf7aa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-europaeische-reaktionen-auf-us-verhandlungsstand-mit-russland](https://www.spiegel.de/politik/deutschland/ukraine-krieg-europaeische-reaktionen-auf-us-verhandlungsstand-mit-russland-a-3795425a-f6b8-4545-9b85-2229173ddfdc#ref=rss)
+### fälle
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-afd-in-der-russischen-botschaft-friedensplan-fuer-die-ukraine-haeusliche-gewalt-a-73d879c9-1a94-4bcd-a1ec-01e15bcdf7aa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/daenemark-vier-patienten-erhalten-wegen-schwerer-sehschaeden-durch-abnehmspritzen-entschaedigung](https://www.spiegel.de/wirtschaft/service/daenemark-vier-patienten-erhalten-wegen-schwerer-sehschaeden-durch-abnehmspritzen-entschaedigung-a-80a88a99-3168-47be-853a-505032ee55df#ref=rss)
+### abfällige
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+### bemerkung
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+### ungelenke
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+### aussage
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+### wo
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+### luft
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+### oben
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+### allem
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+### ganz
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+### macht
+
+* [https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast](https://www.spiegel.de/politik/deutschland/stadtbild-und-belem-friedrich-merz-auf-fettnaepfchen-kurs-podcast-a-ca284305-9433-451e-98b9-4db19612977d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture](https://www.spiegel.de/politik/deutschland/friedrich-merz-stadtbild-und-belem-die-kanzler-culture-a-96b72334-92b0-4efc-8a76-f10fba3b4553#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-und-wladimir-putin-diktieren-den-frieden-europa-schaut-zu-kommentar](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-und-wladimir-putin-diktieren-den-frieden-europa-schaut-zu-kommentar-a-a3453ca0-1a4a-4ace-9602-075cea826091#ref=rss)
+### wäre
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-und-wladimir-putin-diktieren-den-frieden-europa-schaut-zu-kommentar](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-und-wladimir-putin-diktieren-den-frieden-europa-schaut-zu-kommentar-a-a3453ca0-1a4a-4ace-9602-075cea826091#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/iran-studie-fuehrt-aussergewoehnliche-duerre-klar-auf-klimawandel-zurueck](https://www.spiegel.de/wissenschaft/natur/iran-studie-fuehrt-aussergewoehnliche-duerre-klar-auf-klimawandel-zurueck-a-4ae43e6a-7383-462e-8b82-4a24bbb79f6a#ref=rss)
+### 22
+
+* [https://www.spiegel.de/panorama/berlin-freibaedern-sollen-im-sommer-wieder-22-grad-warm-sein](https://www.spiegel.de/panorama/berlin-freibaedern-sollen-im-sommer-wieder-22-grad-warm-sein-a-7ff0c13d-dfe1-4e4c-bfb2-4bc88c7994d7#ref=rss)
+### grad
+
+* [https://www.spiegel.de/panorama/berlin-freibaedern-sollen-im-sommer-wieder-22-grad-warm-sein](https://www.spiegel.de/panorama/berlin-freibaedern-sollen-im-sommer-wieder-22-grad-warm-sein-a-7ff0c13d-dfe1-4e4c-bfb2-4bc88c7994d7#ref=rss)
+### warm
+
+* [https://www.spiegel.de/panorama/berlin-freibaedern-sollen-im-sommer-wieder-22-grad-warm-sein](https://www.spiegel.de/panorama/berlin-freibaedern-sollen-im-sommer-wieder-22-grad-warm-sein-a-7ff0c13d-dfe1-4e4c-bfb2-4bc88c7994d7#ref=rss)
+### auto
+
+* [https://www.spiegel.de/auto/auto-mehr-pkw-in-deutschland-aber-fahrleistung-nimmt-ab](https://www.spiegel.de/auto/auto-mehr-pkw-in-deutschland-aber-fahrleistung-nimmt-ab-a-4ee02943-fe8e-44ef-8963-3f019837ad0b#ref=rss)
+### groß
+
+* [https://www.spiegel.de/auto/auto-mehr-pkw-in-deutschland-aber-fahrleistung-nimmt-ab](https://www.spiegel.de/auto/auto-mehr-pkw-in-deutschland-aber-fahrleistung-nimmt-ab-a-4ee02943-fe8e-44ef-8963-3f019837ad0b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/simone-biles-us-turnerin-spricht-ueber-die-details-ihrer-brustvergroesserung](https://www.spiegel.de/panorama/leute/simone-biles-us-turnerin-spricht-ueber-die-details-ihrer-brustvergroesserung-a-183d36ac-af3b-4a2a-9004-5b89a0d8f118#ref=rss)
+### simone
+
+* [https://www.spiegel.de/panorama/leute/simone-biles-us-turnerin-spricht-ueber-die-details-ihrer-brustvergroesserung](https://www.spiegel.de/panorama/leute/simone-biles-us-turnerin-spricht-ueber-die-details-ihrer-brustvergroesserung-a-183d36ac-af3b-4a2a-9004-5b89a0d8f118#ref=rss)
+### biles
+
+* [https://www.spiegel.de/panorama/leute/simone-biles-us-turnerin-spricht-ueber-die-details-ihrer-brustvergroesserung](https://www.spiegel.de/panorama/leute/simone-biles-us-turnerin-spricht-ueber-die-details-ihrer-brustvergroesserung-a-183d36ac-af3b-4a2a-9004-5b89a0d8f118#ref=rss)
+### verrät
+
+* [https://www.spiegel.de/panorama/leute/simone-biles-us-turnerin-spricht-ueber-die-details-ihrer-brustvergroesserung](https://www.spiegel.de/panorama/leute/simone-biles-us-turnerin-spricht-ueber-die-details-ihrer-brustvergroesserung-a-183d36ac-af3b-4a2a-9004-5b89a0d8f118#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein](https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein-a-cbc6b1ec-dae8-4e98-b444-450eff5f4cb3#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/panorama/leute/simone-biles-us-turnerin-spricht-ueber-die-details-ihrer-brustvergroesserung](https://www.spiegel.de/panorama/leute/simone-biles-us-turnerin-spricht-ueber-die-details-ihrer-brustvergroesserung-a-183d36ac-af3b-4a2a-9004-5b89a0d8f118#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein](https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein-a-cbc6b1ec-dae8-4e98-b444-450eff5f4cb3#ref=rss)
+### lieben
+
+* [https://www.spiegel.de/panorama/leute/simone-biles-us-turnerin-spricht-ueber-die-details-ihrer-brustvergroesserung](https://www.spiegel.de/panorama/leute/simone-biles-us-turnerin-spricht-ueber-die-details-ihrer-brustvergroesserung-a-183d36ac-af3b-4a2a-9004-5b89a0d8f118#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein](https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein-a-cbc6b1ec-dae8-4e98-b444-450eff5f4cb3#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wissenschaft/natur/iran-studie-fuehrt-aussergewoehnliche-duerre-klar-auf-klimawandel-zurueck](https://www.spiegel.de/wissenschaft/natur/iran-studie-fuehrt-aussergewoehnliche-duerre-klar-auf-klimawandel-zurueck-a-4ae43e6a-7383-462e-8b82-4a24bbb79f6a#ref=rss)
+### dürrejahr
+
+* [https://www.spiegel.de/wissenschaft/natur/iran-studie-fuehrt-aussergewoehnliche-duerre-klar-auf-klimawandel-zurueck](https://www.spiegel.de/wissenschaft/natur/iran-studie-fuehrt-aussergewoehnliche-duerre-klar-auf-klimawandel-zurueck-a-4ae43e6a-7383-462e-8b82-4a24bbb79f6a#ref=rss)
+### nicolas
+
+* [https://www.spiegel.de/kultur/literatur/nicolas-sarkozy-tagebuch-eines-haeftlings-ueber-drei-wochen-gefaengnis](https://www.spiegel.de/kultur/literatur/nicolas-sarkozy-tagebuch-eines-haeftlings-ueber-drei-wochen-gefaengnis-a-3287700a-0d05-4701-a0e5-61231aacdc8a#ref=rss)
+### sarkozy
+
+* [https://www.spiegel.de/kultur/literatur/nicolas-sarkozy-tagebuch-eines-haeftlings-ueber-drei-wochen-gefaengnis](https://www.spiegel.de/kultur/literatur/nicolas-sarkozy-tagebuch-eines-haeftlings-ueber-drei-wochen-gefaengnis-a-3287700a-0d05-4701-a0e5-61231aacdc8a#ref=rss)
+### drei
+
+* [https://www.spiegel.de/kultur/literatur/nicolas-sarkozy-tagebuch-eines-haeftlings-ueber-drei-wochen-gefaengnis](https://www.spiegel.de/kultur/literatur/nicolas-sarkozy-tagebuch-eines-haeftlings-ueber-drei-wochen-gefaengnis-a-3287700a-0d05-4701-a0e5-61231aacdc8a#ref=rss)
+### wochen
+
+* [https://www.spiegel.de/kultur/literatur/nicolas-sarkozy-tagebuch-eines-haeftlings-ueber-drei-wochen-gefaengnis](https://www.spiegel.de/kultur/literatur/nicolas-sarkozy-tagebuch-eines-haeftlings-ueber-drei-wochen-gefaengnis-a-3287700a-0d05-4701-a0e5-61231aacdc8a#ref=rss)
+### frankreichs
+
+* [https://www.spiegel.de/kultur/literatur/nicolas-sarkozy-tagebuch-eines-haeftlings-ueber-drei-wochen-gefaengnis](https://www.spiegel.de/kultur/literatur/nicolas-sarkozy-tagebuch-eines-haeftlings-ueber-drei-wochen-gefaengnis-a-3287700a-0d05-4701-a0e5-61231aacdc8a#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj](https://www.spiegel.de/ausland/ukraine-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-wolodymyr-selenskyj-a-171178f5-a48a-436d-8212-c3f8236a582f#ref=rss)
+### annegret
+
+* [https://www.spiegel.de/politik/deutschland/kas-annegret-kramp-karrenbauer-haelt-an-kandidatur-fuer-stiftungsvorsitz-fest](https://www.spiegel.de/politik/deutschland/kas-annegret-kramp-karrenbauer-haelt-an-kandidatur-fuer-stiftungsvorsitz-fest-a-ec971b09-6172-4f96-801b-fc3004adc01d#ref=rss)
+### krampkarrenbauer
+
+* [https://www.spiegel.de/politik/deutschland/kas-annegret-kramp-karrenbauer-haelt-an-kandidatur-fuer-stiftungsvorsitz-fest](https://www.spiegel.de/politik/deutschland/kas-annegret-kramp-karrenbauer-haelt-an-kandidatur-fuer-stiftungsvorsitz-fest-a-ec971b09-6172-4f96-801b-fc3004adc01d#ref=rss)
+### oneohtrix
+
+* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-oneohtrix-point-never-feierabendblues-fuer-die-kuenstliche-intelligenz-abgehoert-kolumne](https://www.spiegel.de/kultur/musik/album-der-woche-mit-oneohtrix-point-never-feierabendblues-fuer-die-kuenstliche-intelligenz-abgehoert-kolumne-a-86563480-5071-4b3f-8f0e-9633e60f8cb3#ref=rss)
+### point
+
+* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-oneohtrix-point-never-feierabendblues-fuer-die-kuenstliche-intelligenz-abgehoert-kolumne](https://www.spiegel.de/kultur/musik/album-der-woche-mit-oneohtrix-point-never-feierabendblues-fuer-die-kuenstliche-intelligenz-abgehoert-kolumne-a-86563480-5071-4b3f-8f0e-9633e60f8cb3#ref=rss)
+### never
+
+* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-oneohtrix-point-never-feierabendblues-fuer-die-kuenstliche-intelligenz-abgehoert-kolumne](https://www.spiegel.de/kultur/musik/album-der-woche-mit-oneohtrix-point-never-feierabendblues-fuer-die-kuenstliche-intelligenz-abgehoert-kolumne-a-86563480-5071-4b3f-8f0e-9633e60f8cb3#ref=rss)
+### zahlt
+
+* [https://www.spiegel.de/wissenschaft/mensch/cop30-kann-renditeversprechen-den-tropenwald-retten](https://www.spiegel.de/wissenschaft/mensch/cop30-kann-renditeversprechen-den-tropenwald-retten-a-46b3384e-4040-4696-be71-2b39bc6a8414#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/daenemark-vier-patienten-erhalten-wegen-schwerer-sehschaeden-durch-abnehmspritzen-entschaedigung](https://www.spiegel.de/wirtschaft/service/daenemark-vier-patienten-erhalten-wegen-schwerer-sehschaeden-durch-abnehmspritzen-entschaedigung-a-80a88a99-3168-47be-853a-505032ee55df#ref=rss)
+### 30
+
+* [https://www.spiegel.de/ausland/ex-jugoslawien-30-jahre-nach-dem-dayton-abkommen](https://www.spiegel.de/ausland/ex-jugoslawien-30-jahre-nach-dem-dayton-abkommen-a-54c0f6c3-7836-4bf4-8d89-034ff046a55b#ref=rss)
+### abkommen
+
+* [https://www.spiegel.de/ausland/ex-jugoslawien-30-jahre-nach-dem-dayton-abkommen](https://www.spiegel.de/ausland/ex-jugoslawien-30-jahre-nach-dem-dayton-abkommen-a-54c0f6c3-7836-4bf4-8d89-034ff046a55b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-offenbar-unterstuetzung-entziehen-wenn-kyjiw-abkommen-nicht-zustimmt](https://www.spiegel.de/ausland/ukraine-krieg-usa-wollen-offenbar-unterstuetzung-entziehen-wenn-kyjiw-abkommen-nicht-zustimmt-a-b8a9ecb4-b141-4aa7-8322-1e9745679997#ref=rss)
+### pilot
+
+* [https://www.spiegel.de/panorama/dubai-air-show-pilot-stirbt-bei-flugzeugunglueck](https://www.spiegel.de/panorama/dubai-air-show-pilot-stirbt-bei-flugzeugunglueck-a-2c02fc75-8e5e-4565-97a4-530907f63727#ref=rss)
+### droht
+
+* [https://www.spiegel.de/politik/deutschland/bundesrat-laender-stoppen-sparpaket-fuer-stabile-krankenkassenbeitraege](https://www.spiegel.de/politik/deutschland/bundesrat-laender-stoppen-sparpaket-fuer-stabile-krankenkassenbeitraege-a-cd628bfb-01eb-4937-87e1-1122a9cd31f6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-bundesinnenminister-soll-innenausschus-auskunft-sondersitzung-zum-schicksal-von-afghanen-geben](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-bundesinnenminister-soll-innenausschus-auskunft-sondersitzung-zum-schicksal-von-afghanen-geben-a-c3de0ecf-a95e-430d-80ab-5f93d0e77a76#ref=rss)
+### bundesländer
+
+* [https://www.spiegel.de/politik/deutschland/bundesrat-laender-stoppen-sparpaket-fuer-stabile-krankenkassenbeitraege](https://www.spiegel.de/politik/deutschland/bundesrat-laender-stoppen-sparpaket-fuer-stabile-krankenkassenbeitraege-a-cd628bfb-01eb-4937-87e1-1122a9cd31f6#ref=rss)
+* [https://www.spiegel.de/auto/benzinpreis-tankstellen-sollen-preise-hoechstens-dreimal-taeglich-anheben-duerfen](https://www.spiegel.de/auto/benzinpreis-tankstellen-sollen-preise-hoechstens-dreimal-taeglich-anheben-duerfen-a-dcd2c5b3-cc3c-4d7d-a8bf-213495c6ebce#ref=rss)
+### vier
+
+* [https://www.spiegel.de/wirtschaft/service/daenemark-vier-patienten-erhalten-wegen-schwerer-sehschaeden-durch-abnehmspritzen-entschaedigung](https://www.spiegel.de/wirtschaft/service/daenemark-vier-patienten-erhalten-wegen-schwerer-sehschaeden-durch-abnehmspritzen-entschaedigung-a-80a88a99-3168-47be-853a-505032ee55df#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wirtschaft/service/daenemark-vier-patienten-erhalten-wegen-schwerer-sehschaeden-durch-abnehmspritzen-entschaedigung](https://www.spiegel.de/wirtschaft/service/daenemark-vier-patienten-erhalten-wegen-schwerer-sehschaeden-durch-abnehmspritzen-entschaedigung-a-80a88a99-3168-47be-853a-505032ee55df#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein](https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein-a-cbc6b1ec-dae8-4e98-b444-450eff5f4cb3#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-bundesinnenminister-soll-innenausschus-auskunft-sondersitzung-zum-schicksal-von-afghanen-geben](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-bundesinnenminister-soll-innenausschus-auskunft-sondersitzung-zum-schicksal-von-afghanen-geben-a-c3de0ecf-a95e-430d-80ab-5f93d0e77a76#ref=rss)
+### dobrindt
+
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-bundesinnenminister-soll-innenausschus-auskunft-sondersitzung-zum-schicksal-von-afghanen-geben](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-bundesinnenminister-soll-innenausschus-auskunft-sondersitzung-zum-schicksal-von-afghanen-geben-a-c3de0ecf-a95e-430d-80ab-5f93d0e77a76#ref=rss)
+### afghanen
+
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-bundesinnenminister-soll-innenausschus-auskunft-sondersitzung-zum-schicksal-von-afghanen-geben](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-bundesinnenminister-soll-innenausschus-auskunft-sondersitzung-zum-schicksal-von-afghanen-geben-a-c3de0ecf-a95e-430d-80ab-5f93d0e77a76#ref=rss)
+### jan
+
+* [https://www.spiegel.de/kultur/tv/jan-fleischhauer-im-zdf-halb-gummizelle-halb-folterkeller](https://www.spiegel.de/kultur/tv/jan-fleischhauer-im-zdf-halb-gummizelle-halb-folterkeller-a-69a8282c-451d-4c35-872a-188043f1ed6d#ref=rss)
+### fleischhauer
+
+* [https://www.spiegel.de/kultur/tv/jan-fleischhauer-im-zdf-halb-gummizelle-halb-folterkeller](https://www.spiegel.de/kultur/tv/jan-fleischhauer-im-zdf-halb-gummizelle-halb-folterkeller-a-69a8282c-451d-4c35-872a-188043f1ed6d#ref=rss)
+### zdf
+
+* [https://www.spiegel.de/kultur/tv/jan-fleischhauer-im-zdf-halb-gummizelle-halb-folterkeller](https://www.spiegel.de/kultur/tv/jan-fleischhauer-im-zdf-halb-gummizelle-halb-folterkeller-a-69a8282c-451d-4c35-872a-188043f1ed6d#ref=rss)
+### halb
+
+* [https://www.spiegel.de/kultur/tv/jan-fleischhauer-im-zdf-halb-gummizelle-halb-folterkeller](https://www.spiegel.de/kultur/tv/jan-fleischhauer-im-zdf-halb-gummizelle-halb-folterkeller-a-69a8282c-451d-4c35-872a-188043f1ed6d#ref=rss)
+### mick
+
+* [https://www.spiegel.de/sport/formel1/mick-schumacher-verkuendet-abschied-von-seinem-rennstall](https://www.spiegel.de/sport/formel1/mick-schumacher-verkuendet-abschied-von-seinem-rennstall-a-9563c83e-c6d6-4aa4-ab8b-0cce63ed24f9#ref=rss)
+### schumacher
+
+* [https://www.spiegel.de/sport/formel1/mick-schumacher-verkuendet-abschied-von-seinem-rennstall](https://www.spiegel.de/sport/formel1/mick-schumacher-verkuendet-abschied-von-seinem-rennstall-a-9563c83e-c6d6-4aa4-ab8b-0cce63ed24f9#ref=rss)
+### ariana
+
+* [https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein](https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein-a-cbc6b1ec-dae8-4e98-b444-450eff5f4cb3#ref=rss)
+### grande
+
+* [https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein](https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein-a-cbc6b1ec-dae8-4e98-b444-450eff5f4cb3#ref=rss)
+### rolle
+
+* [https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein](https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein-a-cbc6b1ec-dae8-4e98-b444-450eff5f4cb3#ref=rss)
+### wicked
+
+* [https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein](https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein-a-cbc6b1ec-dae8-4e98-b444-450eff5f4cb3#ref=rss)
+### euch
+
+* [https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein](https://www.spiegel.de/panorama/leute/ariana-grande-schauspielerin-hatte-angst-nicht-gut-genug-fuer-ihre-rolle-in-wicked-zu-sein-a-cbc6b1ec-dae8-4e98-b444-450eff5f4cb3#ref=rss)
 
