@@ -4,349 +4,292 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### besonders
+### china
 
-* [https://www.spiegel.de/ausland/frauen-in-afghanistan-gefangene-der-taliban-spiegel-reporterin-berichtet](https://www.spiegel.de/ausland/frauen-in-afghanistan-gefangene-der-taliban-spiegel-reporterin-berichtet-a-81274721-9dde-4069-97d4-b3be53d4194f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/greenpeace-entdeckt-schadstoffe-in-shein-kleidung](https://www.spiegel.de/wirtschaft/unternehmen/greenpeace-entdeckt-schadstoffe-in-shein-kleidung-a-ea0e444b-4aa4-4924-8dbf-8ad631663ae1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jessie-j-und-herzogin-kate-tauschen-sich-ueber-krebserkrankung-aus](https://www.spiegel.de/panorama/leute/jessie-j-und-herzogin-kate-tauschen-sich-ueber-krebserkrankung-aus-a-22d0217e-703f-401a-bb6b-8b7689ad3c3c#ref=rss)
-### teile
+* [https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung](https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung-a-9aec964d-57b8-45d4-8eb8-14a36d12f292#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen](https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen-a-33992040-23fc-4521-b579-b8f0fa20562e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-plant-direkte-beteiligungen-an-rohstoffprojekten-in-australien](https://www.spiegel.de/wirtschaft/eu-plant-direkte-beteiligungen-an-rohstoffprojekten-in-australien-a-be3283fc-e314-428d-b6e9-ce60eccfa3f1#ref=rss)
+### champions
 
-* [https://www.spiegel.de/ausland/brasilien-teile-der-weltklimakonferenz-wegen-feuer-evakuiert](https://www.spiegel.de/ausland/brasilien-teile-der-weltklimakonferenz-wegen-feuer-evakuiert-a-b0aa0147-d57f-4acf-9b14-c1c412756d5d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fluggesellschaft-bietet-fuer-portugiesische-airline-tap](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fluggesellschaft-bietet-fuer-portugiesische-airline-tap-a-e537d1b8-1b17-46b3-8f4c-525f21438030#ref=rss)
-### kritik
+* [https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken](https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken-a-a97ee4f4-d1aa-424e-99d1-2e838493bbb6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-siegt-gegen-paris-saint-germain](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-siegt-gegen-paris-saint-germain-a-2ba79570-2178-4aaa-b955-76ea351ac500#ref=rss)
+### league
 
-* [https://www.spiegel.de/ausland/kritik-an-boris-johnson-grossbritanniens-coronamassnahmen-kamen-zu-spaet-und-waren-nicht-ausreichend](https://www.spiegel.de/ausland/kritik-an-boris-johnson-grossbritanniens-coronamassnahmen-kamen-zu-spaet-und-waren-nicht-ausreichend-a-eae93006-de7a-4975-ae43-1b3dfd9e8eb5#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/dghs-ethiker-ziehen-sich-aus-sterbehilfeorganisation-zurueck-aus-protest](https://www.spiegel.de/panorama/gesellschaft/dghs-ethiker-ziehen-sich-aus-sterbehilfeorganisation-zurueck-aus-protest-a-1ca5ec2a-b6cd-4252-866b-87e6366dc4b6#ref=rss)
-### welt
+* [https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken](https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken-a-a97ee4f4-d1aa-424e-99d1-2e838493bbb6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-siegt-gegen-paris-saint-germain](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-siegt-gegen-paris-saint-germain-a-2ba79570-2178-4aaa-b955-76ea351ac500#ref=rss)
+### neue
 
-* [https://www.spiegel.de/deinspiegel/skispringerin-selina-freitag-im-kinder-interview-ich-bin-in-eine-weisse-nebelwand-gesprungen](https://www.spiegel.de/deinspiegel/skispringerin-selina-freitag-im-kinder-interview-ich-bin-in-eine-weisse-nebelwand-gesprungen-a-b2a2a050-7c04-4b81-9e8d-248a03d4cdf8#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/rachel-kushner-die-welt-im-roman-bewegt-sich-entlang-einer-halluzinogenen-stoerung](https://www.spiegel.de/kultur/literatur/rachel-kushner-die-welt-im-roman-bewegt-sich-entlang-einer-halluzinogenen-stoerung-a-e711466b-ef84-414a-8b5e-2d39723007d5#ref=rss)
-* [https://www.spiegel.de/panorama/johanna-quaas-deutschlands-turn-oma-feiert-100-geburtstag](https://www.spiegel.de/panorama/johanna-quaas-deutschlands-turn-oma-feiert-100-geburtstag-a-9dd2e3d4-08b4-4ed3-be91-ede4699ae06e#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/panorama/gesellschaft/magdeburg-weihnachtsmarkt-eroeffnet-besucher-zwischen-trotz-und-sorge](https://www.spiegel.de/panorama/gesellschaft/magdeburg-weihnachtsmarkt-eroeffnet-besucher-zwischen-trotz-und-sorge-a-a4ca9624-fbfe-4e63-bd79-25a447cd9a3c#ref=rss)
-* [https://www.spiegel.de/kultur/musik/charli-xcx-trailer-zu-the-moment-ihrem-mockumentary-ueber-die-brat-aera](https://www.spiegel.de/kultur/musik/charli-xcx-trailer-zu-the-moment-ihrem-mockumentary-ueber-die-brat-aera-a-6841e596-7122-485a-91e9-04fd39fb6248#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein](https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein-a-a6d2fedb-6830-426f-a5cc-1153d188d530#ref=rss)
-### rachel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spiegel-buchpreis-uno-klimakonferenz-tod-durch-insektizid](https://www.spiegel.de/politik/deutschland/news-des-tages-spiegel-buchpreis-uno-klimakonferenz-tod-durch-insektizid-a-f8a68d80-4607-4c0b-8f06-93c0c4c09bd3#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/rachel-kushner-die-welt-im-roman-bewegt-sich-entlang-einer-halluzinogenen-stoerung](https://www.spiegel.de/kultur/literatur/rachel-kushner-die-welt-im-roman-bewegt-sich-entlang-einer-halluzinogenen-stoerung-a-e711466b-ef84-414a-8b5e-2d39723007d5#ref=rss)
-### kushner
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spiegel-buchpreis-uno-klimakonferenz-tod-durch-insektizid](https://www.spiegel.de/politik/deutschland/news-des-tages-spiegel-buchpreis-uno-klimakonferenz-tod-durch-insektizid-a-f8a68d80-4607-4c0b-8f06-93c0c4c09bd3#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/rachel-kushner-die-welt-im-roman-bewegt-sich-entlang-einer-halluzinogenen-stoerung](https://www.spiegel.de/kultur/literatur/rachel-kushner-die-welt-im-roman-bewegt-sich-entlang-einer-halluzinogenen-stoerung-a-e711466b-ef84-414a-8b5e-2d39723007d5#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/wissenschaft/grippewelle-in-europa-saison-startet-frueher-wer-sich-impfen-lassen-sollte](https://www.spiegel.de/wissenschaft/grippewelle-in-europa-saison-startet-frueher-wer-sich-impfen-lassen-sollte-a-5f805d20-b173-4a48-9afa-e303ab251da3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-christiane-goetz-weimer-verzichtet-auf-bayerischen-verfassungsorden](https://www.spiegel.de/politik/deutschland/wolfram-weimer-christiane-goetz-weimer-verzichtet-auf-bayerischen-verfassungsorden-a-b14edb53-ac21-4c0f-9e64-11941e4e7a8b#ref=rss)
-### autos
-
-* [https://www.spiegel.de/kultur/literatur/rachel-kushner-die-welt-im-roman-bewegt-sich-entlang-einer-halluzinogenen-stoerung](https://www.spiegel.de/kultur/literatur/rachel-kushner-die-welt-im-roman-bewegt-sich-entlang-einer-halluzinogenen-stoerung-a-e711466b-ef84-414a-8b5e-2d39723007d5#ref=rss)
-* [https://www.spiegel.de/auto/tuev-mehr-autos-fallen-bei-der-hauptuntersuchung-durch](https://www.spiegel.de/auto/tuev-mehr-autos-fallen-bei-der-hauptuntersuchung-durch-a-f8fa92a6-93ec-4573-b2f4-34b6daee7c4a#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/service/minijob-grenze-steigt-2026-auf-603-euro](https://www.spiegel.de/wirtschaft/service/minijob-grenze-steigt-2026-auf-603-euro-a-269139a7-4ac7-45ea-a212-5e4d92fba69e#ref=rss)
-* [https://www.spiegel.de/auto/tuev-mehr-autos-fallen-bei-der-hauptuntersuchung-durch](https://www.spiegel.de/auto/tuev-mehr-autos-fallen-bei-der-hauptuntersuchung-durch-a-f8fa92a6-93ec-4573-b2f4-34b6daee7c4a#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/stadtbild-aussage-von-friedrich-merz-cdu-abgeordnete-serap-gueler-kritisiert-protest-von-stipendiaten](https://www.spiegel.de/politik/deutschland/stadtbild-aussage-von-friedrich-merz-cdu-abgeordnete-serap-gueler-kritisiert-protest-von-stipendiaten-a-8cf18e2a-51d6-41ed-af8e-78b3959e728c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-junge-union-ende-einer-jugendliebe](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-junge-union-ende-einer-jugendliebe-a-82e8742a-f736-4546-90e6-e844bea8e30d#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/stadtbild-aussage-von-friedrich-merz-cdu-abgeordnete-serap-gueler-kritisiert-protest-von-stipendiaten](https://www.spiegel.de/politik/deutschland/stadtbild-aussage-von-friedrich-merz-cdu-abgeordnete-serap-gueler-kritisiert-protest-von-stipendiaten-a-8cf18e2a-51d6-41ed-af8e-78b3959e728c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-junge-union-ende-einer-jugendliebe](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-junge-union-ende-einer-jugendliebe-a-82e8742a-f736-4546-90e6-e844bea8e30d#ref=rss)
-### verlassen
-
-* [https://www.spiegel.de/politik/deutschland/stadtbild-aussage-von-friedrich-merz-cdu-abgeordnete-serap-gueler-kritisiert-protest-von-stipendiaten](https://www.spiegel.de/politik/deutschland/stadtbild-aussage-von-friedrich-merz-cdu-abgeordnete-serap-gueler-kritisiert-protest-von-stipendiaten-a-8cf18e2a-51d6-41ed-af8e-78b3959e728c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/dghs-ethiker-ziehen-sich-aus-sterbehilfeorganisation-zurueck-aus-protest](https://www.spiegel.de/panorama/gesellschaft/dghs-ethiker-ziehen-sich-aus-sterbehilfeorganisation-zurueck-aus-protest-a-1ca5ec2a-b6cd-4252-866b-87e6366dc4b6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-junge-union-ende-einer-jugendliebe](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-junge-union-ende-einer-jugendliebe-a-82e8742a-f736-4546-90e6-e844bea8e30d#ref=rss)
-### jessie
-
-* [https://www.spiegel.de/panorama/leute/jessie-j-und-herzogin-kate-tauschen-sich-ueber-krebserkrankung-aus](https://www.spiegel.de/panorama/leute/jessie-j-und-herzogin-kate-tauschen-sich-ueber-krebserkrankung-aus-a-22d0217e-703f-401a-bb6b-8b7689ad3c3c#ref=rss)
-### j
-
-* [https://www.spiegel.de/panorama/leute/jessie-j-und-herzogin-kate-tauschen-sich-ueber-krebserkrankung-aus](https://www.spiegel.de/panorama/leute/jessie-j-und-herzogin-kate-tauschen-sich-ueber-krebserkrankung-aus-a-22d0217e-703f-401a-bb6b-8b7689ad3c3c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln](https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln-a-48057fd5-e4f7-4026-a653-c602a05edc30#ref=rss)
+* [https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe](https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe-a-0c982148-6036-4ee9-8861-45723c4efbd5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation](https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation-a-d0251ad8-1cfa-4c9b-838d-9ab4a593bd08#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor-a-4e745e61-3b7e-4051-b63d-023d2555e8f0#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/donald-trump-droht-demokraten-mit-todesstrafe](https://www.spiegel.de/ausland/donald-trump-droht-demokraten-mit-todesstrafe-a-1ee66658-b13f-4e0e-80f1-a2f361a14f28#ref=rss)
-### trump
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel-a-058e1372-15f0-43f4-a060-5860e4c6cf3f#ref=rss)
+* [https://www.spiegel.de/ausland/g20-gipfel-in-suedafrika-der-rest-der-welt-ist-irgendwie-auch-egal](https://www.spiegel.de/ausland/g20-gipfel-in-suedafrika-der-rest-der-welt-ist-irgendwie-auch-egal-a-f1cca500-df07-4a33-b949-bbaf3719b480#ref=rss)
+* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/donald-trump-droht-demokraten-mit-todesstrafe](https://www.spiegel.de/ausland/donald-trump-droht-demokraten-mit-todesstrafe-a-1ee66658-b13f-4e0e-80f1-a2f361a14f28#ref=rss)
-### droht
-
-* [https://www.spiegel.de/ausland/donald-trump-droht-demokraten-mit-todesstrafe](https://www.spiegel.de/ausland/donald-trump-droht-demokraten-mit-todesstrafe-a-1ee66658-b13f-4e0e-80f1-a2f361a14f28#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-junge-union-ende-einer-jugendliebe](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-junge-union-ende-einer-jugendliebe-a-82e8742a-f736-4546-90e6-e844bea8e30d#ref=rss)
-### demokraten
-
-* [https://www.spiegel.de/ausland/donald-trump-droht-demokraten-mit-todesstrafe](https://www.spiegel.de/ausland/donald-trump-droht-demokraten-mit-todesstrafe-a-1ee66658-b13f-4e0e-80f1-a2f361a14f28#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation](https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation-a-d0251ad8-1cfa-4c9b-838d-9ab4a593bd08#ref=rss)
+* [https://www.spiegel.de/ausland/g20-gipfel-in-suedafrika-der-rest-der-welt-ist-irgendwie-auch-egal](https://www.spiegel.de/ausland/g20-gipfel-in-suedafrika-der-rest-der-welt-ist-irgendwie-auch-egal-a-f1cca500-df07-4a33-b949-bbaf3719b480#ref=rss)
+* [https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber](https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber-a-8cbda8c3-aac1-4c54-8f5e-e1bb151176b5#ref=rss)
 ### frauen
 
-* [https://www.spiegel.de/ausland/frauen-in-afghanistan-gefangene-der-taliban-spiegel-reporterin-berichtet](https://www.spiegel.de/ausland/frauen-in-afghanistan-gefangene-der-taliban-spiegel-reporterin-berichtet-a-81274721-9dde-4069-97d4-b3be53d4194f#ref=rss)
-### afghanistan
+* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an](https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an-a-9493ecd8-79bd-4127-9553-560ea4b6872d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-siegt-gegen-paris-saint-germain](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-siegt-gegen-paris-saint-germain-a-2ba79570-2178-4aaa-b955-76ea351ac500#ref=rss)
+* [https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner](https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner-a-06331a53-4f34-4619-a28b-d06bf64b2c8f#ref=rss)
+### russland
 
-* [https://www.spiegel.de/ausland/frauen-in-afghanistan-gefangene-der-taliban-spiegel-reporterin-berichtet](https://www.spiegel.de/ausland/frauen-in-afghanistan-gefangene-der-taliban-spiegel-reporterin-berichtet-a-81274721-9dde-4069-97d4-b3be53d4194f#ref=rss)
-### taliban
+* [https://www.spiegel.de/panorama/justiz/russlandsanktionen-zoll-razzia-wegen-export-von-346-autos-nach-russland](https://www.spiegel.de/panorama/justiz/russlandsanktionen-zoll-razzia-wegen-export-von-346-autos-nach-russland-a-9f549d5a-c844-49b1-aede-9ae53c820ca9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor-a-4e745e61-3b7e-4051-b63d-023d2555e8f0#ref=rss)
+### song
 
-* [https://www.spiegel.de/ausland/frauen-in-afghanistan-gefangene-der-taliban-spiegel-reporterin-berichtet](https://www.spiegel.de/ausland/frauen-in-afghanistan-gefangene-der-taliban-spiegel-reporterin-berichtet-a-81274721-9dde-4069-97d4-b3be53d4194f#ref=rss)
-### spiegelreporterin
+* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln](https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln-a-48057fd5-e4f7-4026-a653-c602a05edc30#ref=rss)
+* [https://www.spiegel.de/kultur/musik/rapper-haftbefehl-so-klingt-seine-erste-musik-nach-der-netflix-doku-babo](https://www.spiegel.de/kultur/musik/rapper-haftbefehl-so-klingt-seine-erste-musik-nach-der-netflix-doku-babo-a-5d74df66-59b3-41e1-8ae2-63ac7aa1ea59#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/frauen-in-afghanistan-gefangene-der-taliban-spiegel-reporterin-berichtet](https://www.spiegel.de/ausland/frauen-in-afghanistan-gefangene-der-taliban-spiegel-reporterin-berichtet-a-81274721-9dde-4069-97d4-b3be53d4194f#ref=rss)
-### berichtet
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel-a-058e1372-15f0-43f4-a060-5860e4c6cf3f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/frauen-in-afghanistan-gefangene-der-taliban-spiegel-reporterin-berichtet](https://www.spiegel.de/ausland/frauen-in-afghanistan-gefangene-der-taliban-spiegel-reporterin-berichtet-a-81274721-9dde-4069-97d4-b3be53d4194f#ref=rss)
-### putins
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel-a-058e1372-15f0-43f4-a060-5860e4c6cf3f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
+### macht
 
-* [https://www.spiegel.de/ausland/russland-putins-sondergesandter-kirill-dmitrijew-steht-hinter-dem-neuen-kapitulationsangebot-an-die-ukraine](https://www.spiegel.de/ausland/russland-putins-sondergesandter-kirill-dmitrijew-steht-hinter-dem-neuen-kapitulationsangebot-an-die-ukraine-a-f6833be4-0301-4983-9879-044cdc2ef504#ref=rss)
-### sondergesandter
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel-a-058e1372-15f0-43f4-a060-5860e4c6cf3f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner](https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner-a-06331a53-4f34-4619-a28b-d06bf64b2c8f#ref=rss)
+### druck
 
-* [https://www.spiegel.de/ausland/russland-putins-sondergesandter-kirill-dmitrijew-steht-hinter-dem-neuen-kapitulationsangebot-an-die-ukraine](https://www.spiegel.de/ausland/russland-putins-sondergesandter-kirill-dmitrijew-steht-hinter-dem-neuen-kapitulationsangebot-an-die-ukraine-a-f6833be4-0301-4983-9879-044cdc2ef504#ref=rss)
-### kirill
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel-a-058e1372-15f0-43f4-a060-5860e4c6cf3f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen](https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen-a-33992040-23fc-4521-b579-b8f0fa20562e#ref=rss)
+* [https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber](https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber-a-8cbda8c3-aac1-4c54-8f5e-e1bb151176b5#ref=rss)
+### gewalt
 
-* [https://www.spiegel.de/ausland/russland-putins-sondergesandter-kirill-dmitrijew-steht-hinter-dem-neuen-kapitulationsangebot-an-die-ukraine](https://www.spiegel.de/ausland/russland-putins-sondergesandter-kirill-dmitrijew-steht-hinter-dem-neuen-kapitulationsangebot-an-die-ukraine-a-f6833be4-0301-4983-9879-044cdc2ef504#ref=rss)
-### dmitrijew
+* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an](https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an-a-9493ecd8-79bd-4127-9553-560ea4b6872d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner](https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner-a-06331a53-4f34-4619-a28b-d06bf64b2c8f#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/russland-putins-sondergesandter-kirill-dmitrijew-steht-hinter-dem-neuen-kapitulationsangebot-an-die-ukraine](https://www.spiegel.de/ausland/russland-putins-sondergesandter-kirill-dmitrijew-steht-hinter-dem-neuen-kapitulationsangebot-an-die-ukraine-a-f6833be4-0301-4983-9879-044cdc2ef504#ref=rss)
-### ukraine
+* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an](https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an-a-9493ecd8-79bd-4127-9553-560ea4b6872d#ref=rss)
+* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
+* [https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten](https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten-a-182b06d8-de7a-4858-b40c-23b033af3df2#ref=rss)
+### beste
 
-* [https://www.spiegel.de/ausland/russland-putins-sondergesandter-kirill-dmitrijew-steht-hinter-dem-neuen-kapitulationsangebot-an-die-ukraine](https://www.spiegel.de/ausland/russland-putins-sondergesandter-kirill-dmitrijew-steht-hinter-dem-neuen-kapitulationsangebot-an-die-ukraine-a-f6833be4-0301-4983-9879-044cdc2ef504#ref=rss)
-### brasilien
+* [https://www.spiegel.de/reise/wintersport-in-den-alpen-was-ist-der-beste-skihelm](https://www.spiegel.de/reise/wintersport-in-den-alpen-was-ist-der-beste-skihelm-a-94a0b610-9e83-4cfc-bc8e-d9eac27f0196#ref=rss)
+* [https://www.spiegel.de/stil/gastgeber-sein-tipps-fuer-ein-gelungenes-dinner-ohne-kochkuenste](https://www.spiegel.de/stil/gastgeber-sein-tipps-fuer-ein-gelungenes-dinner-ohne-kochkuenste-a-5abbcceb-d6ed-4900-ae06-158f7eb1d920#ref=rss)
+### alle
 
-* [https://www.spiegel.de/ausland/brasilien-teile-der-weltklimakonferenz-wegen-feuer-evakuiert](https://www.spiegel.de/ausland/brasilien-teile-der-weltklimakonferenz-wegen-feuer-evakuiert-a-b0aa0147-d57f-4acf-9b14-c1c412756d5d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-spiegel-buchpreis-uno-klimakonferenz-tod-durch-insektizid](https://www.spiegel.de/politik/deutschland/news-des-tages-spiegel-buchpreis-uno-klimakonferenz-tod-durch-insektizid-a-f8a68d80-4607-4c0b-8f06-93c0c4c09bd3#ref=rss)
-### weltklimakonferenz
+* [https://www.spiegel.de/reise/wintersport-in-den-alpen-was-ist-der-beste-skihelm](https://www.spiegel.de/reise/wintersport-in-den-alpen-was-ist-der-beste-skihelm-a-94a0b610-9e83-4cfc-bc8e-d9eac27f0196#ref=rss)
+* [https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken](https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken-a-a97ee4f4-d1aa-424e-99d1-2e838493bbb6#ref=rss)
+### team
 
-* [https://www.spiegel.de/ausland/brasilien-teile-der-weltklimakonferenz-wegen-feuer-evakuiert](https://www.spiegel.de/ausland/brasilien-teile-der-weltklimakonferenz-wegen-feuer-evakuiert-a-b0aa0147-d57f-4acf-9b14-c1c412756d5d#ref=rss)
-### boris
+* [https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel](https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel-a-8697423d-c8c4-464d-ac14-f71ccb5200d9#ref=rss)
+### halbfinale
 
-* [https://www.spiegel.de/ausland/kritik-an-boris-johnson-grossbritanniens-coronamassnahmen-kamen-zu-spaet-und-waren-nicht-ausreichend](https://www.spiegel.de/ausland/kritik-an-boris-johnson-grossbritanniens-coronamassnahmen-kamen-zu-spaet-und-waren-nicht-ausreichend-a-eae93006-de7a-4975-ae43-1b3dfd9e8eb5#ref=rss)
-### coronamaßnahmen
+* [https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel](https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel-a-8697423d-c8c4-464d-ac14-f71ccb5200d9#ref=rss)
+### doppel
 
-* [https://www.spiegel.de/ausland/kritik-an-boris-johnson-grossbritanniens-coronamassnahmen-kamen-zu-spaet-und-waren-nicht-ausreichend](https://www.spiegel.de/ausland/kritik-an-boris-johnson-grossbritanniens-coronamassnahmen-kamen-zu-spaet-und-waren-nicht-ausreichend-a-eae93006-de7a-4975-ae43-1b3dfd9e8eb5#ref=rss)
-### selina
-
-* [https://www.spiegel.de/deinspiegel/skispringerin-selina-freitag-im-kinder-interview-ich-bin-in-eine-weisse-nebelwand-gesprungen](https://www.spiegel.de/deinspiegel/skispringerin-selina-freitag-im-kinder-interview-ich-bin-in-eine-weisse-nebelwand-gesprungen-a-b2a2a050-7c04-4b81-9e8d-248a03d4cdf8#ref=rss)
-### freitag
-
-* [https://www.spiegel.de/deinspiegel/skispringerin-selina-freitag-im-kinder-interview-ich-bin-in-eine-weisse-nebelwand-gesprungen](https://www.spiegel.de/deinspiegel/skispringerin-selina-freitag-im-kinder-interview-ich-bin-in-eine-weisse-nebelwand-gesprungen-a-b2a2a050-7c04-4b81-9e8d-248a03d4cdf8#ref=rss)
-### zählt
-
-* [https://www.spiegel.de/deinspiegel/skispringerin-selina-freitag-im-kinder-interview-ich-bin-in-eine-weisse-nebelwand-gesprungen](https://www.spiegel.de/deinspiegel/skispringerin-selina-freitag-im-kinder-interview-ich-bin-in-eine-weisse-nebelwand-gesprungen-a-b2a2a050-7c04-4b81-9e8d-248a03d4cdf8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fluggesellschaft-bietet-fuer-portugiesische-airline-tap](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fluggesellschaft-bietet-fuer-portugiesische-airline-tap-a-e537d1b8-1b17-46b3-8f4c-525f21438030#ref=rss)
-### kölner
-
-* [https://www.spiegel.de/panorama/bildung/koelner-lehrer-er-steht-auf-der-buehne-und-singt-an-seiner-schule-ist-er-krankgemeldet](https://www.spiegel.de/panorama/bildung/koelner-lehrer-er-steht-auf-der-buehne-und-singt-an-seiner-schule-ist-er-krankgemeldet-a-246c5a52-35a3-4a1a-9338-b648af059a92#ref=rss)
-### lehrer
-
-* [https://www.spiegel.de/panorama/bildung/koelner-lehrer-er-steht-auf-der-buehne-und-singt-an-seiner-schule-ist-er-krankgemeldet](https://www.spiegel.de/panorama/bildung/koelner-lehrer-er-steht-auf-der-buehne-und-singt-an-seiner-schule-ist-er-krankgemeldet-a-246c5a52-35a3-4a1a-9338-b648af059a92#ref=rss)
-### weihnachtsmarkt
-
-* [https://www.spiegel.de/panorama/gesellschaft/magdeburg-weihnachtsmarkt-eroeffnet-besucher-zwischen-trotz-und-sorge](https://www.spiegel.de/panorama/gesellschaft/magdeburg-weihnachtsmarkt-eroeffnet-besucher-zwischen-trotz-und-sorge-a-a4ca9624-fbfe-4e63-bd79-25a447cd9a3c#ref=rss)
-### eröffnet
-
-* [https://www.spiegel.de/panorama/gesellschaft/magdeburg-weihnachtsmarkt-eroeffnet-besucher-zwischen-trotz-und-sorge](https://www.spiegel.de/panorama/gesellschaft/magdeburg-weihnachtsmarkt-eroeffnet-besucher-zwischen-trotz-und-sorge-a-a4ca9624-fbfe-4e63-bd79-25a447cd9a3c#ref=rss)
-### sorge
-
-* [https://www.spiegel.de/panorama/gesellschaft/magdeburg-weihnachtsmarkt-eroeffnet-besucher-zwischen-trotz-und-sorge](https://www.spiegel.de/panorama/gesellschaft/magdeburg-weihnachtsmarkt-eroeffnet-besucher-zwischen-trotz-und-sorge-a-a4ca9624-fbfe-4e63-bd79-25a447cd9a3c#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/panorama/gesellschaft/magdeburg-weihnachtsmarkt-eroeffnet-besucher-zwischen-trotz-und-sorge](https://www.spiegel.de/panorama/gesellschaft/magdeburg-weihnachtsmarkt-eroeffnet-besucher-zwischen-trotz-und-sorge-a-a4ca9624-fbfe-4e63-bd79-25a447cd9a3c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-trans-frau-stach-52-jaehrigen-nach-beleidigung-nieder](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-trans-frau-stach-52-jaehrigen-nach-beleidigung-nieder-a-f05b7cdc-eb64-4bbc-979c-0825c16dbfd6#ref=rss)
-### charli
-
-* [https://www.spiegel.de/kultur/musik/charli-xcx-trailer-zu-the-moment-ihrem-mockumentary-ueber-die-brat-aera](https://www.spiegel.de/kultur/musik/charli-xcx-trailer-zu-the-moment-ihrem-mockumentary-ueber-die-brat-aera-a-6841e596-7122-485a-91e9-04fd39fb6248#ref=rss)
-### xcx
-
-* [https://www.spiegel.de/kultur/musik/charli-xcx-trailer-zu-the-moment-ihrem-mockumentary-ueber-die-brat-aera](https://www.spiegel.de/kultur/musik/charli-xcx-trailer-zu-the-moment-ihrem-mockumentary-ueber-die-brat-aera-a-6841e596-7122-485a-91e9-04fd39fb6248#ref=rss)
-### trailer
-
-* [https://www.spiegel.de/kultur/musik/charli-xcx-trailer-zu-the-moment-ihrem-mockumentary-ueber-die-brat-aera](https://www.spiegel.de/kultur/musik/charli-xcx-trailer-zu-the-moment-ihrem-mockumentary-ueber-die-brat-aera-a-6841e596-7122-485a-91e9-04fd39fb6248#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/musik/charli-xcx-trailer-zu-the-moment-ihrem-mockumentary-ueber-die-brat-aera](https://www.spiegel.de/kultur/musik/charli-xcx-trailer-zu-the-moment-ihrem-mockumentary-ueber-die-brat-aera-a-6841e596-7122-485a-91e9-04fd39fb6248#ref=rss)
-### moment
-
-* [https://www.spiegel.de/kultur/musik/charli-xcx-trailer-zu-the-moment-ihrem-mockumentary-ueber-die-brat-aera](https://www.spiegel.de/kultur/musik/charli-xcx-trailer-zu-the-moment-ihrem-mockumentary-ueber-die-brat-aera-a-6841e596-7122-485a-91e9-04fd39fb6248#ref=rss)
-### sängerin
-
-* [https://www.spiegel.de/kultur/musik/charli-xcx-trailer-zu-the-moment-ihrem-mockumentary-ueber-die-brat-aera](https://www.spiegel.de/kultur/musik/charli-xcx-trailer-zu-the-moment-ihrem-mockumentary-ueber-die-brat-aera-a-6841e596-7122-485a-91e9-04fd39fb6248#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jessie-j-und-herzogin-kate-tauschen-sich-ueber-krebserkrankung-aus](https://www.spiegel.de/panorama/leute/jessie-j-und-herzogin-kate-tauschen-sich-ueber-krebserkrankung-aus-a-22d0217e-703f-401a-bb6b-8b7689ad3c3c#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/kultur/musik/charli-xcx-trailer-zu-the-moment-ihrem-mockumentary-ueber-die-brat-aera](https://www.spiegel.de/kultur/musik/charli-xcx-trailer-zu-the-moment-ihrem-mockumentary-ueber-die-brat-aera-a-6841e596-7122-485a-91e9-04fd39fb6248#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/rachel-kushner-die-welt-im-roman-bewegt-sich-entlang-einer-halluzinogenen-stoerung](https://www.spiegel.de/kultur/literatur/rachel-kushner-die-welt-im-roman-bewegt-sich-entlang-einer-halluzinogenen-stoerung-a-e711466b-ef84-414a-8b5e-2d39723007d5#ref=rss)
-### saison
-
-* [https://www.spiegel.de/wissenschaft/grippewelle-in-europa-saison-startet-frueher-wer-sich-impfen-lassen-sollte](https://www.spiegel.de/wissenschaft/grippewelle-in-europa-saison-startet-frueher-wer-sich-impfen-lassen-sollte-a-5f805d20-b173-4a48-9afa-e303ab251da3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer-a-43be5564-20e8-43a7-9e5d-ecae827cc70b#ref=rss)
-### früher
-
-* [https://www.spiegel.de/wissenschaft/grippewelle-in-europa-saison-startet-frueher-wer-sich-impfen-lassen-sollte](https://www.spiegel.de/wissenschaft/grippewelle-in-europa-saison-startet-frueher-wer-sich-impfen-lassen-sollte-a-5f805d20-b173-4a48-9afa-e303ab251da3#ref=rss)
-### impfen
-
-* [https://www.spiegel.de/wissenschaft/grippewelle-in-europa-saison-startet-frueher-wer-sich-impfen-lassen-sollte](https://www.spiegel.de/wissenschaft/grippewelle-in-europa-saison-startet-frueher-wer-sich-impfen-lassen-sollte-a-5f805d20-b173-4a48-9afa-e303ab251da3#ref=rss)
+* [https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel](https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel-a-8697423d-c8c4-464d-ac14-f71ccb5200d9#ref=rss)
 ### drei
 
-* [https://www.spiegel.de/wissenschaft/grippewelle-in-europa-saison-startet-frueher-wer-sich-impfen-lassen-sollte](https://www.spiegel.de/wissenschaft/grippewelle-in-europa-saison-startet-frueher-wer-sich-impfen-lassen-sollte-a-5f805d20-b173-4a48-9afa-e303ab251da3#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/dghs-ethiker-ziehen-sich-aus-sterbehilfeorganisation-zurueck-aus-protest](https://www.spiegel.de/panorama/gesellschaft/dghs-ethiker-ziehen-sich-aus-sterbehilfeorganisation-zurueck-aus-protest-a-1ca5ec2a-b6cd-4252-866b-87e6366dc4b6#ref=rss)
-### jahren
+* [https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel](https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel-a-8697423d-c8c4-464d-ac14-f71ccb5200d9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/russlandsanktionen-zoll-razzia-wegen-export-von-346-autos-nach-russland](https://www.spiegel.de/panorama/justiz/russlandsanktionen-zoll-razzia-wegen-export-von-346-autos-nach-russland-a-9f549d5a-c844-49b1-aede-9ae53c820ca9#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/wissenschaft/grippewelle-in-europa-saison-startet-frueher-wer-sich-impfen-lassen-sollte](https://www.spiegel.de/wissenschaft/grippewelle-in-europa-saison-startet-frueher-wer-sich-impfen-lassen-sollte-a-5f805d20-b173-4a48-9afa-e303ab251da3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/minijob-grenze-steigt-2026-auf-603-euro](https://www.spiegel.de/wirtschaft/service/minijob-grenze-steigt-2026-auf-603-euro-a-269139a7-4ac7-45ea-a212-5e4d92fba69e#ref=rss)
-### studie
+* [https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel](https://www.spiegel.de/sport/tennis/davis-cup-deutsches-team-erreicht-halbfinale-nach-dramatischem-doppel-a-8697423d-c8c4-464d-ac14-f71ccb5200d9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen](https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen-a-33992040-23fc-4521-b579-b8f0fa20562e#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/wissenschaft/abnehmpille-mit-orfoglipron-probanden-verloren-in-studie-zehn-prozent-ihres-gewichts-in-18-monaten](https://www.spiegel.de/wissenschaft/abnehmpille-mit-orfoglipron-probanden-verloren-in-studie-zehn-prozent-ihres-gewichts-in-18-monaten-a-fff02687-4562-43f6-8566-7c0e97dd1e68#ref=rss)
-### bisher
+* [https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung](https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung-a-9aec964d-57b8-45d4-8eb8-14a36d12f292#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an](https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an-a-9493ecd8-79bd-4127-9553-560ea4b6872d#ref=rss)
+### drastische
 
-* [https://www.spiegel.de/wissenschaft/abnehmpille-mit-orfoglipron-probanden-verloren-in-studie-zehn-prozent-ihres-gewichts-in-18-monaten](https://www.spiegel.de/wissenschaft/abnehmpille-mit-orfoglipron-probanden-verloren-in-studie-zehn-prozent-ihres-gewichts-in-18-monaten-a-fff02687-4562-43f6-8566-7c0e97dd1e68#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer-a-43be5564-20e8-43a7-9e5d-ecae827cc70b#ref=rss)
-### spiegel
+* [https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung](https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung-a-9aec964d-57b8-45d4-8eb8-14a36d12f292#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen](https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen-a-33992040-23fc-4521-b579-b8f0fa20562e#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/kultur/literatur/rachel-kushner-die-welt-im-roman-bewegt-sich-entlang-einer-halluzinogenen-stoerung](https://www.spiegel.de/kultur/literatur/rachel-kushner-die-welt-im-roman-bewegt-sich-entlang-einer-halluzinogenen-stoerung-a-e711466b-ef84-414a-8b5e-2d39723007d5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/stadtbild-aussage-von-friedrich-merz-cdu-abgeordnete-serap-gueler-kritisiert-protest-von-stipendiaten](https://www.spiegel.de/politik/deutschland/stadtbild-aussage-von-friedrich-merz-cdu-abgeordnete-serap-gueler-kritisiert-protest-von-stipendiaten-a-8cf18e2a-51d6-41ed-af8e-78b3959e728c#ref=rss)
+* [https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung](https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung-a-9aec964d-57b8-45d4-8eb8-14a36d12f292#ref=rss)
+* [https://www.spiegel.de/politik/csd-neonazi-jugendgruppen-gehen-strategisch-gegen-christopher-street-days-vor](https://www.spiegel.de/politik/csd-neonazi-jugendgruppen-gehen-strategisch-gegen-christopher-street-days-vor-a-e9def6d0-f08c-4d55-928d-ec60f1d3daa2#ref=rss)
+### veranstalter
+
+* [https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung](https://www.spiegel.de/kultur/musik/china-sagt-konzerte-aller-japanischen-musiker-ab-mit-sofortiger-wirkung-a-9aec964d-57b8-45d4-8eb8-14a36d12f292#ref=rss)
+* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln](https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln-a-48057fd5-e4f7-4026-a653-c602a05edc30#ref=rss)
+### autos
+
+* [https://www.spiegel.de/panorama/justiz/russlandsanktionen-zoll-razzia-wegen-export-von-346-autos-nach-russland](https://www.spiegel.de/panorama/justiz/russlandsanktionen-zoll-razzia-wegen-export-von-346-autos-nach-russland-a-9f549d5a-c844-49b1-aede-9ae53c820ca9#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/justiz/russlandsanktionen-zoll-razzia-wegen-export-von-346-autos-nach-russland](https://www.spiegel.de/panorama/justiz/russlandsanktionen-zoll-razzia-wegen-export-von-346-autos-nach-russland-a-9f549d5a-c844-49b1-aede-9ae53c820ca9#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/hakenkreuz-aerger-us-kuestenwache-dementiert-bericht-der-washington-post](https://www.spiegel.de/ausland/hakenkreuz-aerger-us-kuestenwache-dementiert-bericht-der-washington-post-a-bdbbaa76-8b41-432b-8988-26e6cd205c8f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen](https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen-a-33992040-23fc-4521-b579-b8f0fa20562e#ref=rss)
+### paramount+
+
+* [https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken](https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken-a-a97ee4f4-d1aa-424e-99d1-2e838493bbb6#ref=rss)
+### künftig
+
+* [https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken](https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken-a-a97ee4f4-d1aa-424e-99d1-2e838493bbb6#ref=rss)
 ### steigt
 
-* [https://www.spiegel.de/wirtschaft/service/minijob-grenze-steigt-2026-auf-603-euro](https://www.spiegel.de/wirtschaft/service/minijob-grenze-steigt-2026-auf-603-euro-a-269139a7-4ac7-45ea-a212-5e4d92fba69e#ref=rss)
-### 2026
+* [https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken](https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken-a-a97ee4f4-d1aa-424e-99d1-2e838493bbb6#ref=rss)
+* [https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber](https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber-a-8cbda8c3-aac1-4c54-8f5e-e1bb151176b5#ref=rss)
+### erstmals
 
-* [https://www.spiegel.de/wirtschaft/service/minijob-grenze-steigt-2026-auf-603-euro](https://www.spiegel.de/wirtschaft/service/minijob-grenze-steigt-2026-auf-603-euro-a-269139a7-4ac7-45ea-a212-5e4d92fba69e#ref=rss)
-* [https://www.spiegel.de/auto/autobahnmaut-oesterreich-besiegelt-aus-fuer-klebe-vignette](https://www.spiegel.de/auto/autobahnmaut-oesterreich-besiegelt-aus-fuer-klebe-vignette-a-ab7d1240-d573-4ebc-9baa-fd044cb8e153#ref=rss)
-### trans
+* [https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken](https://www.spiegel.de/sport/paramount-prime-netflix-wo-koennen-sie-kuenftig-champions-league-gucken-a-a97ee4f4-d1aa-424e-99d1-2e838493bbb6#ref=rss)
+* [https://www.spiegel.de/ausland/g20-gipfel-in-suedafrika-der-rest-der-welt-ist-irgendwie-auch-egal](https://www.spiegel.de/ausland/g20-gipfel-in-suedafrika-der-rest-der-welt-ist-irgendwie-auch-egal-a-f1cca500-df07-4a33-b949-bbaf3719b480#ref=rss)
+### eurovision
 
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-trans-frau-stach-52-jaehrigen-nach-beleidigung-nieder](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-trans-frau-stach-52-jaehrigen-nach-beleidigung-nieder-a-f05b7cdc-eb64-4bbc-979c-0825c16dbfd6#ref=rss)
-### frau
+* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln](https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln-a-48057fd5-e4f7-4026-a653-c602a05edc30#ref=rss)
+### contest
 
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-trans-frau-stach-52-jaehrigen-nach-beleidigung-nieder](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-trans-frau-stach-52-jaehrigen-nach-beleidigung-nieder-a-f05b7cdc-eb64-4bbc-979c-0825c16dbfd6#ref=rss)
-### läuft
+* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln](https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln-a-48057fd5-e4f7-4026-a653-c602a05edc30#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-trans-frau-stach-52-jaehrigen-nach-beleidigung-nieder](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-trans-frau-stach-52-jaehrigen-nach-beleidigung-nieder-a-f05b7cdc-eb64-4bbc-979c-0825c16dbfd6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer-a-43be5564-20e8-43a7-9e5d-ecae827cc70b#ref=rss)
+* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln](https://www.spiegel.de/kultur/tv/eurovision-song-contest-ebu-beschliesst-neue-esc-abstimmungsregeln-a-48057fd5-e4f7-4026-a653-c602a05edc30#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation](https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation-a-d0251ad8-1cfa-4c9b-838d-9ab4a593bd08#ref=rss)
+### haftbefehl
+
+* [https://www.spiegel.de/kultur/musik/rapper-haftbefehl-so-klingt-seine-erste-musik-nach-der-netflix-doku-babo](https://www.spiegel.de/kultur/musik/rapper-haftbefehl-so-klingt-seine-erste-musik-nach-der-netflix-doku-babo-a-5d74df66-59b3-41e1-8ae2-63ac7aa1ea59#ref=rss)
+### netflixdoku
+
+* [https://www.spiegel.de/kultur/musik/rapper-haftbefehl-so-klingt-seine-erste-musik-nach-der-netflix-doku-babo](https://www.spiegel.de/kultur/musik/rapper-haftbefehl-so-klingt-seine-erste-musik-nach-der-netflix-doku-babo-a-5d74df66-59b3-41e1-8ae2-63ac7aa1ea59#ref=rss)
+### babo
+
+* [https://www.spiegel.de/kultur/musik/rapper-haftbefehl-so-klingt-seine-erste-musik-nach-der-netflix-doku-babo](https://www.spiegel.de/kultur/musik/rapper-haftbefehl-so-klingt-seine-erste-musik-nach-der-netflix-doku-babo-a-5d74df66-59b3-41e1-8ae2-63ac7aa1ea59#ref=rss)
+### pras
+
+* [https://www.spiegel.de/panorama/justiz/pras-michel-fugees-rapper-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/pras-michel-fugees-rapper-zu-14-jahren-haft-verurteilt-a-6d79587d-0edf-4a94-828b-27494ef18c2b#ref=rss)
+### michel
+
+* [https://www.spiegel.de/panorama/justiz/pras-michel-fugees-rapper-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/pras-michel-fugees-rapper-zu-14-jahren-haft-verurteilt-a-6d79587d-0edf-4a94-828b-27494ef18c2b#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/pras-michel-fugees-rapper-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/pras-michel-fugees-rapper-zu-14-jahren-haft-verurteilt-a-6d79587d-0edf-4a94-828b-27494ef18c2b#ref=rss)
+### fatima
+
+* [https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe](https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe-a-0c982148-6036-4ee9-8861-45723c4efbd5#ref=rss)
+### bosch
+
+* [https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe](https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe-a-0c982148-6036-4ee9-8861-45723c4efbd5#ref=rss)
+### miss
+
+* [https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe](https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe-a-0c982148-6036-4ee9-8861-45723c4efbd5#ref=rss)
+### universe
+
+* [https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe](https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe-a-0c982148-6036-4ee9-8861-45723c4efbd5#ref=rss)
+### öffentlich
+
+* [https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe](https://www.spiegel.de/panorama/fatima-bosch-aus-mexiko-ist-die-neue-miss-universe-a-0c982148-6036-4ee9-8861-45723c4efbd5#ref=rss)
+* [https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner](https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner-a-06331a53-4f34-4619-a28b-d06bf64b2c8f#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel-a-058e1372-15f0-43f4-a060-5860e4c6cf3f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen](https://www.spiegel.de/wirtschaft/elektroautos-in-china-branchenexperte-prognostiziert-2025-eine-produktion-von-fast-8-millionen-fahrzeugen-a-33992040-23fc-4521-b579-b8f0fa20562e#ref=rss)
+### brasilianischen
+
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-rueckzieher-bei-brasilien-zoellen-auf-lebensmittel-a-058e1372-15f0-43f4-a060-5860e4c6cf3f#ref=rss)
+* [https://www.spiegel.de/ausland/cop30-in-brasilien-wiedereroeffnung-des-konferenzgelaendes-nach-brand](https://www.spiegel.de/ausland/cop30-in-brasilien-wiedereroeffnung-des-konferenzgelaendes-nach-brand-a-667160a5-bd26-47ad-b46b-dc0a4b608c8f#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein](https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein-a-a6d2fedb-6830-426f-a5cc-1153d188d530#ref=rss)
-### reichte
+* [https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation](https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation-a-d0251ad8-1cfa-4c9b-838d-9ab4a593bd08#ref=rss)
+### denn
 
-* [https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein](https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein-a-a6d2fedb-6830-426f-a5cc-1153d188d530#ref=rss)
-### 2020
+* [https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation](https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation-a-d0251ad8-1cfa-4c9b-838d-9ab4a593bd08#ref=rss)
+* [https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber](https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber-a-8cbda8c3-aac1-4c54-8f5e-e1bb151176b5#ref=rss)
+### je
 
-* [https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein](https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein-a-a6d2fedb-6830-426f-a5cc-1153d188d530#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation](https://www.spiegel.de/politik/deutschland/afd-so-radikal-wird-die-neue-afd-jugendorganisation-a-d0251ad8-1cfa-4c9b-838d-9ab4a593bd08#ref=rss)
+* [https://www.spiegel.de/kultur/auktionsrekord-frida-kahlo-erzielt-54-6-millionen-dollar-in-new-york](https://www.spiegel.de/kultur/auktionsrekord-frida-kahlo-erzielt-54-6-millionen-dollar-in-new-york-a-4cd125d3-5dd5-4486-b4ec-49a44f34fecd#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/wirtschaft/zdf-politbarometer-mehrheit-sieht-juengere-durch-rentenpolitik-uebermaessig-belastet](https://www.spiegel.de/wirtschaft/zdf-politbarometer-mehrheit-sieht-juengere-durch-rentenpolitik-uebermaessig-belastet-a-81dbb316-83fd-418b-af7d-336f15306a6f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor-a-4e745e61-3b7e-4051-b63d-023d2555e8f0#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/wirtschaft/zdf-politbarometer-mehrheit-sieht-juengere-durch-rentenpolitik-uebermaessig-belastet](https://www.spiegel.de/wirtschaft/zdf-politbarometer-mehrheit-sieht-juengere-durch-rentenpolitik-uebermaessig-belastet-a-81dbb316-83fd-418b-af7d-336f15306a6f#ref=rss)
+* [https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten](https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten-a-182b06d8-de7a-4858-b40c-23b033af3df2#ref=rss)
+### rettungsdienst
+
+* [https://www.spiegel.de/gesundheit/ersthelfer-apps-freiwillige-ueberbruecken-wartezeit-bis-rettungsdienst-eintrifft](https://www.spiegel.de/gesundheit/ersthelfer-apps-freiwillige-ueberbruecken-wartezeit-bis-rettungsdienst-eintrifft-a-6e13057a-ca16-4e50-ab00-85690aeedb65#ref=rss)
+### eintrifft
+
+* [https://www.spiegel.de/gesundheit/ersthelfer-apps-freiwillige-ueberbruecken-wartezeit-bis-rettungsdienst-eintrifft](https://www.spiegel.de/gesundheit/ersthelfer-apps-freiwillige-ueberbruecken-wartezeit-bis-rettungsdienst-eintrifft-a-6e13057a-ca16-4e50-ab00-85690aeedb65#ref=rss)
+### g20gipfel
+
+* [https://www.spiegel.de/ausland/g20-gipfel-in-suedafrika-der-rest-der-welt-ist-irgendwie-auch-egal](https://www.spiegel.de/ausland/g20-gipfel-in-suedafrika-der-rest-der-welt-ist-irgendwie-auch-egal-a-f1cca500-df07-4a33-b949-bbaf3719b480#ref=rss)
+### csd
+
+* [https://www.spiegel.de/politik/csd-neonazi-jugendgruppen-gehen-strategisch-gegen-christopher-street-days-vor](https://www.spiegel.de/politik/csd-neonazi-jugendgruppen-gehen-strategisch-gegen-christopher-street-days-vor-a-e9def6d0-f08c-4d55-928d-ec60f1d3daa2#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/politik/csd-neonazi-jugendgruppen-gehen-strategisch-gegen-christopher-street-days-vor](https://www.spiegel.de/politik/csd-neonazi-jugendgruppen-gehen-strategisch-gegen-christopher-street-days-vor-a-e9def6d0-f08c-4d55-928d-ec60f1d3daa2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an](https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an-a-9493ecd8-79bd-4127-9553-560ea4b6872d#ref=rss)
+### rekordsumme
+
+* [https://www.spiegel.de/kultur/auktionsrekord-frida-kahlo-erzielt-54-6-millionen-dollar-in-new-york](https://www.spiegel.de/kultur/auktionsrekord-frida-kahlo-erzielt-54-6-millionen-dollar-in-new-york-a-4cd125d3-5dd5-4486-b4ec-49a44f34fecd#ref=rss)
+* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
+### jan
+
+* [https://www.spiegel.de/wirtschaft/britische-ermittler-lassen-russisches-geldwaeschenetzwerk-auffliegen](https://www.spiegel.de/wirtschaft/britische-ermittler-lassen-russisches-geldwaeschenetzwerk-auffliegen-a-502b576e-5027-4b46-937e-3b3979ba2be5#ref=rss)
+### marsalek
+
+* [https://www.spiegel.de/wirtschaft/britische-ermittler-lassen-russisches-geldwaeschenetzwerk-auffliegen](https://www.spiegel.de/wirtschaft/britische-ermittler-lassen-russisches-geldwaeschenetzwerk-auffliegen-a-502b576e-5027-4b46-937e-3b3979ba2be5#ref=rss)
+### kirgisistan
+
+* [https://www.spiegel.de/wirtschaft/britische-ermittler-lassen-russisches-geldwaeschenetzwerk-auffliegen](https://www.spiegel.de/wirtschaft/britische-ermittler-lassen-russisches-geldwaeschenetzwerk-auffliegen-a-502b576e-5027-4b46-937e-3b3979ba2be5#ref=rss)
+### große
+
+* [https://www.spiegel.de/wirtschaft/britische-ermittler-lassen-russisches-geldwaeschenetzwerk-auffliegen](https://www.spiegel.de/wirtschaft/britische-ermittler-lassen-russisches-geldwaeschenetzwerk-auffliegen-a-502b576e-5027-4b46-937e-3b3979ba2be5#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor-a-4e745e61-3b7e-4051-b63d-023d2555e8f0#ref=rss)
+### stefanie
+
+* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an](https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an-a-9493ecd8-79bd-4127-9553-560ea4b6872d#ref=rss)
+### hubig
+
+* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an](https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an-a-9493ecd8-79bd-4127-9553-560ea4b6872d#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
+* [https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten](https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten-a-182b06d8-de7a-4858-b40c-23b033af3df2#ref=rss)
+### palina
+
+* [https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner](https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner-a-06331a53-4f34-4619-a28b-d06bf64b2c8f#ref=rss)
+### rojinski
+
+* [https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner](https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner-a-06331a53-4f34-4619-a28b-d06bf64b2c8f#ref=rss)
+### liegt
+
+* [https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner](https://www.spiegel.de/panorama/leute/palina-rojinski-spricht-ueber-gewalttaetigen-ex-partner-a-06331a53-4f34-4619-a28b-d06bf64b2c8f#ref=rss)
+### zugeständnisse
+
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor-a-4e745e61-3b7e-4051-b63d-023d2555e8f0#ref=rss)
+### dazu
+
+* [https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor](https://www.spiegel.de/ausland/ukraine-us-friedensplan-sieht-weitreichende-zugestaendnisse-kyjiws-vor-a-4e745e61-3b7e-4051-b63d-023d2555e8f0#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/bundesweiter-vorlesetag-wie-gut-kennen-sie-findus-frederick-und-co-quiz](https://www.spiegel.de/panorama/gesellschaft/bundesweiter-vorlesetag-wie-gut-kennen-sie-findus-frederick-und-co-quiz-a-b1128092-c3e1-424e-aa1b-4c357d883b44#ref=rss)
+### fachkräfte
+
+* [https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber](https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber-a-8cbda8c3-aac1-4c54-8f5e-e1bb151176b5#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber](https://www.spiegel.de/netzwelt/viele-fachkraefte-nutzen-ki-ohne-erlaubnis-ihrer-arbeitgeber-a-8cbda8c3-aac1-4c54-8f5e-e1bb151176b5#ref=rss)
+* [https://www.spiegel.de/stil/gastgeber-sein-tipps-fuer-ein-gelungenes-dinner-ohne-kochkuenste](https://www.spiegel.de/stil/gastgeber-sein-tipps-fuer-ein-gelungenes-dinner-ohne-kochkuenste-a-5abbcceb-d6ed-4900-ae06-158f7eb1d920#ref=rss)
+### dschihadisten
+
+* [https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten](https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten-a-182b06d8-de7a-4858-b40c-23b033af3df2#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten](https://www.spiegel.de/ausland/mali-im-wuergegriff-der-dschihadisten-a-182b06d8-de7a-4858-b40c-23b033af3df2#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/bundesweiter-vorlesetag-wie-gut-kennen-sie-findus-frederick-und-co-quiz](https://www.spiegel.de/panorama/gesellschaft/bundesweiter-vorlesetag-wie-gut-kennen-sie-findus-frederick-und-co-quiz-a-b1128092-c3e1-424e-aa1b-4c357d883b44#ref=rss)
+### australien
+
+* [https://www.spiegel.de/wirtschaft/eu-plant-direkte-beteiligungen-an-rohstoffprojekten-in-australien](https://www.spiegel.de/wirtschaft/eu-plant-direkte-beteiligungen-an-rohstoffprojekten-in-australien-a-be3283fc-e314-428d-b6e9-ce60eccfa3f1#ref=rss)
 ### gut
 
-* [https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein](https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein-a-a6d2fedb-6830-426f-a5cc-1153d188d530#ref=rss)
-### 7000
+* [https://www.spiegel.de/panorama/gesellschaft/bundesweiter-vorlesetag-wie-gut-kennen-sie-findus-frederick-und-co-quiz](https://www.spiegel.de/panorama/gesellschaft/bundesweiter-vorlesetag-wie-gut-kennen-sie-findus-frederick-und-co-quiz-a-b1128092-c3e1-424e-aa1b-4c357d883b44#ref=rss)
+* [https://www.spiegel.de/stil/gastgeber-sein-tipps-fuer-ein-gelungenes-dinner-ohne-kochkuenste](https://www.spiegel.de/stil/gastgeber-sein-tipps-fuer-ein-gelungenes-dinner-ohne-kochkuenste-a-5abbcceb-d6ed-4900-ae06-158f7eb1d920#ref=rss)
+### dinner
 
-* [https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein](https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein-a-a6d2fedb-6830-426f-a5cc-1153d188d530#ref=rss)
-### sicherheitsrelevante
-
-* [https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein](https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein-a-a6d2fedb-6830-426f-a5cc-1153d188d530#ref=rss)
-### anfragen
-
-* [https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein](https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein-a-a6d2fedb-6830-426f-a5cc-1153d188d530#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein](https://www.spiegel.de/politik/deutschland/afd-reichte-seit-2020-gut-7000-sicherheitsrelevante-anfragen-ein-a-a6d2fedb-6830-426f-a5cc-1153d188d530#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-junge-union-ende-einer-jugendliebe](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-junge-union-ende-einer-jugendliebe-a-82e8742a-f736-4546-90e6-e844bea8e30d#ref=rss)
-### hauptuntersuchung
-
-* [https://www.spiegel.de/auto/tuev-mehr-autos-fallen-bei-der-hauptuntersuchung-durch](https://www.spiegel.de/auto/tuev-mehr-autos-fallen-bei-der-hauptuntersuchung-durch-a-f8fa92a6-93ec-4573-b2f4-34b6daee7c4a#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/auto/tuev-mehr-autos-fallen-bei-der-hauptuntersuchung-durch](https://www.spiegel.de/auto/tuev-mehr-autos-fallen-bei-der-hauptuntersuchung-durch-a-f8fa92a6-93ec-4573-b2f4-34b6daee7c4a#ref=rss)
-* [https://www.spiegel.de/panorama/johanna-quaas-deutschlands-turn-oma-feiert-100-geburtstag](https://www.spiegel.de/panorama/johanna-quaas-deutschlands-turn-oma-feiert-100-geburtstag-a-9dd2e3d4-08b4-4ed3-be91-ede4699ae06e#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/justiz/tuerkei-erneut-tourist-aus-deutschland-in-istanbul-gestorben](https://www.spiegel.de/panorama/justiz/tuerkei-erneut-tourist-aus-deutschland-in-istanbul-gestorben-a-2bf2c3dc-e082-4abb-aaab-c82eb5212cb3#ref=rss)
-### istanbul
-
-* [https://www.spiegel.de/panorama/justiz/tuerkei-erneut-tourist-aus-deutschland-in-istanbul-gestorben](https://www.spiegel.de/panorama/justiz/tuerkei-erneut-tourist-aus-deutschland-in-istanbul-gestorben-a-2bf2c3dc-e082-4abb-aaab-c82eb5212cb3#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/tuerkei-erneut-tourist-aus-deutschland-in-istanbul-gestorben](https://www.spiegel.de/panorama/justiz/tuerkei-erneut-tourist-aus-deutschland-in-istanbul-gestorben-a-2bf2c3dc-e082-4abb-aaab-c82eb5212cb3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-christiane-goetz-weimer-verzichtet-auf-bayerischen-verfassungsorden](https://www.spiegel.de/politik/deutschland/wolfram-weimer-christiane-goetz-weimer-verzichtet-auf-bayerischen-verfassungsorden-a-b14edb53-ac21-4c0f-9e64-11941e4e7a8b#ref=rss)
-### eminem
-
-* [https://www.spiegel.de/wirtschaft/australien-eminem-verklagt-strandartikelfirma-swim-shady-wegen-urheberrechtsverletzung](https://www.spiegel.de/wirtschaft/australien-eminem-verklagt-strandartikelfirma-swim-shady-wegen-urheberrechtsverletzung-a-a8625973-828d-4dc7-be67-69ad102cddb7#ref=rss)
-### verklagt
-
-* [https://www.spiegel.de/wirtschaft/australien-eminem-verklagt-strandartikelfirma-swim-shady-wegen-urheberrechtsverletzung](https://www.spiegel.de/wirtschaft/australien-eminem-verklagt-strandartikelfirma-swim-shady-wegen-urheberrechtsverletzung-a-a8625973-828d-4dc7-be67-69ad102cddb7#ref=rss)
-### strandartikelfirma
-
-* [https://www.spiegel.de/wirtschaft/australien-eminem-verklagt-strandartikelfirma-swim-shady-wegen-urheberrechtsverletzung](https://www.spiegel.de/wirtschaft/australien-eminem-verklagt-strandartikelfirma-swim-shady-wegen-urheberrechtsverletzung-a-a8625973-828d-4dc7-be67-69ad102cddb7#ref=rss)
-### swim
-
-* [https://www.spiegel.de/wirtschaft/australien-eminem-verklagt-strandartikelfirma-swim-shady-wegen-urheberrechtsverletzung](https://www.spiegel.de/wirtschaft/australien-eminem-verklagt-strandartikelfirma-swim-shady-wegen-urheberrechtsverletzung-a-a8625973-828d-4dc7-be67-69ad102cddb7#ref=rss)
-### shady
-
-* [https://www.spiegel.de/wirtschaft/australien-eminem-verklagt-strandartikelfirma-swim-shady-wegen-urheberrechtsverletzung](https://www.spiegel.de/wirtschaft/australien-eminem-verklagt-strandartikelfirma-swim-shady-wegen-urheberrechtsverletzung-a-a8625973-828d-4dc7-be67-69ad102cddb7#ref=rss)
-### dezember
-
-* [https://www.spiegel.de/auto/autobahnmaut-oesterreich-besiegelt-aus-fuer-klebe-vignette](https://www.spiegel.de/auto/autobahnmaut-oesterreich-besiegelt-aus-fuer-klebe-vignette-a-ab7d1240-d573-4ebc-9baa-fd044cb8e153#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-christiane-goetz-weimer-verzichtet-auf-bayerischen-verfassungsorden](https://www.spiegel.de/politik/deutschland/wolfram-weimer-christiane-goetz-weimer-verzichtet-auf-bayerischen-verfassungsorden-a-b14edb53-ac21-4c0f-9e64-11941e4e7a8b#ref=rss)
-### lufthansa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fluggesellschaft-bietet-fuer-portugiesische-airline-tap](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fluggesellschaft-bietet-fuer-portugiesische-airline-tap-a-e537d1b8-1b17-46b3-8f4c-525f21438030#ref=rss)
-### stärken
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fluggesellschaft-bietet-fuer-portugiesische-airline-tap](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-fluggesellschaft-bietet-fuer-portugiesische-airline-tap-a-e537d1b8-1b17-46b3-8f4c-525f21438030#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer-a-43be5564-20e8-43a7-9e5d-ecae827cc70b#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer-a-43be5564-20e8-43a7-9e5d-ecae827cc70b#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer-a-43be5564-20e8-43a7-9e5d-ecae827cc70b#ref=rss)
-### uli
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer-a-43be5564-20e8-43a7-9e5d-ecae827cc70b#ref=rss)
-### hoeneß
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer-a-43be5564-20e8-43a7-9e5d-ecae827cc70b#ref=rss)
-### vincent
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer-a-43be5564-20e8-43a7-9e5d-ecae827cc70b#ref=rss)
-### kompany
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-uli-hoeness-schwaermt-von-vincent-kompany-und-verpasst-seitenhieb-gegen-ex-trainer-a-43be5564-20e8-43a7-9e5d-ecae827cc70b#ref=rss)
-### serap
-
-* [https://www.spiegel.de/politik/deutschland/stadtbild-aussage-von-friedrich-merz-cdu-abgeordnete-serap-gueler-kritisiert-protest-von-stipendiaten](https://www.spiegel.de/politik/deutschland/stadtbild-aussage-von-friedrich-merz-cdu-abgeordnete-serap-gueler-kritisiert-protest-von-stipendiaten-a-8cf18e2a-51d6-41ed-af8e-78b3959e728c#ref=rss)
-### güler
-
-* [https://www.spiegel.de/politik/deutschland/stadtbild-aussage-von-friedrich-merz-cdu-abgeordnete-serap-gueler-kritisiert-protest-von-stipendiaten](https://www.spiegel.de/politik/deutschland/stadtbild-aussage-von-friedrich-merz-cdu-abgeordnete-serap-gueler-kritisiert-protest-von-stipendiaten-a-8cf18e2a-51d6-41ed-af8e-78b3959e728c#ref=rss)
-### protest
-
-* [https://www.spiegel.de/politik/deutschland/stadtbild-aussage-von-friedrich-merz-cdu-abgeordnete-serap-gueler-kritisiert-protest-von-stipendiaten](https://www.spiegel.de/politik/deutschland/stadtbild-aussage-von-friedrich-merz-cdu-abgeordnete-serap-gueler-kritisiert-protest-von-stipendiaten-a-8cf18e2a-51d6-41ed-af8e-78b3959e728c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/dghs-ethiker-ziehen-sich-aus-sterbehilfeorganisation-zurueck-aus-protest](https://www.spiegel.de/panorama/gesellschaft/dghs-ethiker-ziehen-sich-aus-sterbehilfeorganisation-zurueck-aus-protest-a-1ca5ec2a-b6cd-4252-866b-87e6366dc4b6#ref=rss)
-### herzogin
-
-* [https://www.spiegel.de/panorama/leute/jessie-j-und-herzogin-kate-tauschen-sich-ueber-krebserkrankung-aus](https://www.spiegel.de/panorama/leute/jessie-j-und-herzogin-kate-tauschen-sich-ueber-krebserkrankung-aus-a-22d0217e-703f-401a-bb6b-8b7689ad3c3c#ref=rss)
-### kate
-
-* [https://www.spiegel.de/panorama/leute/jessie-j-und-herzogin-kate-tauschen-sich-ueber-krebserkrankung-aus](https://www.spiegel.de/panorama/leute/jessie-j-und-herzogin-kate-tauschen-sich-ueber-krebserkrankung-aus-a-22d0217e-703f-401a-bb6b-8b7689ad3c3c#ref=rss)
-### wolfram
-
-* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-christiane-goetz-weimer-verzichtet-auf-bayerischen-verfassungsorden](https://www.spiegel.de/politik/deutschland/wolfram-weimer-christiane-goetz-weimer-verzichtet-auf-bayerischen-verfassungsorden-a-b14edb53-ac21-4c0f-9e64-11941e4e7a8b#ref=rss)
-### weimer
-
-* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-christiane-goetz-weimer-verzichtet-auf-bayerischen-verfassungsorden](https://www.spiegel.de/politik/deutschland/wolfram-weimer-christiane-goetz-weimer-verzichtet-auf-bayerischen-verfassungsorden-a-b14edb53-ac21-4c0f-9e64-11941e4e7a8b#ref=rss)
-### goetzweimer
-
-* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-christiane-goetz-weimer-verzichtet-auf-bayerischen-verfassungsorden](https://www.spiegel.de/politik/deutschland/wolfram-weimer-christiane-goetz-weimer-verzichtet-auf-bayerischen-verfassungsorden-a-b14edb53-ac21-4c0f-9e64-11941e4e7a8b#ref=rss)
-### bayerischen
-
-* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-christiane-goetz-weimer-verzichtet-auf-bayerischen-verfassungsorden](https://www.spiegel.de/politik/deutschland/wolfram-weimer-christiane-goetz-weimer-verzichtet-auf-bayerischen-verfassungsorden-a-b14edb53-ac21-4c0f-9e64-11941e4e7a8b#ref=rss)
-### verfassungsorden
-
-* [https://www.spiegel.de/politik/deutschland/wolfram-weimer-christiane-goetz-weimer-verzichtet-auf-bayerischen-verfassungsorden](https://www.spiegel.de/politik/deutschland/wolfram-weimer-christiane-goetz-weimer-verzichtet-auf-bayerischen-verfassungsorden-a-b14edb53-ac21-4c0f-9e64-11941e4e7a8b#ref=rss)
-### johanna
-
-* [https://www.spiegel.de/panorama/johanna-quaas-deutschlands-turn-oma-feiert-100-geburtstag](https://www.spiegel.de/panorama/johanna-quaas-deutschlands-turn-oma-feiert-100-geburtstag-a-9dd2e3d4-08b4-4ed3-be91-ede4699ae06e#ref=rss)
-### quaas
-
-* [https://www.spiegel.de/panorama/johanna-quaas-deutschlands-turn-oma-feiert-100-geburtstag](https://www.spiegel.de/panorama/johanna-quaas-deutschlands-turn-oma-feiert-100-geburtstag-a-9dd2e3d4-08b4-4ed3-be91-ede4699ae06e#ref=rss)
-### 100
-
-* [https://www.spiegel.de/panorama/johanna-quaas-deutschlands-turn-oma-feiert-100-geburtstag](https://www.spiegel.de/panorama/johanna-quaas-deutschlands-turn-oma-feiert-100-geburtstag-a-9dd2e3d4-08b4-4ed3-be91-ede4699ae06e#ref=rss)
-### geburtstag
-
-* [https://www.spiegel.de/panorama/johanna-quaas-deutschlands-turn-oma-feiert-100-geburtstag](https://www.spiegel.de/panorama/johanna-quaas-deutschlands-turn-oma-feiert-100-geburtstag-a-9dd2e3d4-08b4-4ed3-be91-ede4699ae06e#ref=rss)
+* [https://www.spiegel.de/stil/gastgeber-sein-tipps-fuer-ein-gelungenes-dinner-ohne-kochkuenste](https://www.spiegel.de/stil/gastgeber-sein-tipps-fuer-ein-gelungenes-dinner-ohne-kochkuenste-a-5abbcceb-d6ed-4900-ae06-158f7eb1d920#ref=rss)
 
