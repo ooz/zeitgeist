@@ -4,286 +4,359 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-zurueck-im-camp-nou-diese-liebe-rostet-nie](https://www.spiegel.de/sport/fussball/fc-barcelona-zurueck-im-camp-nou-diese-liebe-rostet-nie-a-b68fe5c5-69c6-4d9e-b7fb-b58f463e3c80#ref=rss)
-* [https://www.spiegel.de/sport/fussball/hype-um-lennart-karl-von-bayern-muenchen-17-jahr-wunderbar](https://www.spiegel.de/sport/fussball/hype-um-lennart-karl-von-bayern-muenchen-17-jahr-wunderbar-a-0b94ce62-f42c-4ca1-9aea-637051f272a1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-st-pauli-in-der-krise-die-wachstumsschmerzen-eines-klubs-der-vorankommen-will](https://www.spiegel.de/sport/fussball/fc-st-pauli-in-der-krise-die-wachstumsschmerzen-eines-klubs-der-vorankommen-will-a-0c11482e-f5d5-42f5-b9b7-e73e615078a3#ref=rss)
-### las
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-piloten-lando-norris-und-oscar-piastri-disqualifiziert](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-piloten-lando-norris-und-oscar-piastri-disqualifiziert-a-4e417c16-ab66-4136-80b6-d4dbd21e26f5#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris-a-6dccea13-796c-4d6f-9570-7e7c17d3f8e3#ref=rss)
-### vegas
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-piloten-lando-norris-und-oscar-piastri-disqualifiziert](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-piloten-lando-norris-und-oscar-piastri-disqualifiziert-a-4e417c16-ab66-4136-80b6-d4dbd21e26f5#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris-a-6dccea13-796c-4d6f-9570-7e7c17d3f8e3#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-usa-und-europaeer-ringen-um-us-friedensplan-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-usa-und-europaeer-ringen-um-us-friedensplan-fuer-die-ukraine-a-85db1ee6-223f-446f-bb29-30bf9e10f344#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nwsl-ann-katrin-berger-holt-titel-in-den-usa](https://www.spiegel.de/sport/fussball/nwsl-ann-katrin-berger-holt-titel-in-den-usa-a-cdcb2f73-fd5a-4154-870d-44503d56cf00#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/gesellschaft/arche-gruender-bernd-siggelkow-wirft-deutschland-versagen-im-kampf-gegen-kinderarmut-vor](https://www.spiegel.de/panorama/gesellschaft/arche-gruender-bernd-siggelkow-wirft-deutschland-versagen-im-kampf-gegen-kinderarmut-vor-a-7af6b7f2-8869-4148-bb0d-04eb65eb69a4#ref=rss)
-* [https://www.spiegel.de/auto/e-autos-verkehrsminister-schnieder-spricht-sich-fuer-social-leasing-aus](https://www.spiegel.de/auto/e-autos-verkehrsminister-schnieder-spricht-sich-fuer-social-leasing-aus-a-6fe64a2c-a26b-409a-b517-97cd7396dc55#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-gefrierender-regen-sorgen-fuer-glatte-strassen](https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-gefrierender-regen-sorgen-fuer-glatte-strassen-a-81547f4e-8980-4a64-8b67-1cbcee110035#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/gewalt-gegen-frauen-anwaeltin-christina-clemm-fordert-bessere-ausstattung-der-behoerden](https://www.spiegel.de/panorama/gewalt-gegen-frauen-anwaeltin-christina-clemm-fordert-bessere-ausstattung-der-behoerden-a-6118516f-7a39-4296-be86-9fd5ceac75f3#ref=rss)
-* [https://www.spiegel.de/deinspiegel/super-recognizerin-bei-der-polizei-in-berlin-lange-nicht-gesehen](https://www.spiegel.de/deinspiegel/super-recognizerin-bei-der-polizei-in-berlin-lange-nicht-gesehen-a-92010e23-d9f0-406c-b76c-df9fa1cd1ff5#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-netzagentur-droht-mit-strafen-bei-schlechtem-service](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-netzagentur-droht-mit-strafen-bei-schlechtem-service-a-c9b38164-9992-4b27-9d42-2571f6d08a46#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-gefrierender-regen-sorgen-fuer-glatte-strassen](https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-gefrierender-regen-sorgen-fuer-glatte-strassen-a-81547f4e-8980-4a64-8b67-1cbcee110035#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nwsl-ann-katrin-berger-holt-titel-in-den-usa](https://www.spiegel.de/sport/fussball/nwsl-ann-katrin-berger-holt-titel-in-den-usa-a-cdcb2f73-fd5a-4154-870d-44503d56cf00#ref=rss)
-### lando
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-piloten-lando-norris-und-oscar-piastri-disqualifiziert](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-piloten-lando-norris-und-oscar-piastri-disqualifiziert-a-4e417c16-ab66-4136-80b6-d4dbd21e26f5#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris-a-6dccea13-796c-4d6f-9570-7e7c17d3f8e3#ref=rss)
-### norris
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-piloten-lando-norris-und-oscar-piastri-disqualifiziert](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-piloten-lando-norris-und-oscar-piastri-disqualifiziert-a-4e417c16-ab66-4136-80b6-d4dbd21e26f5#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris-a-6dccea13-796c-4d6f-9570-7e7c17d3f8e3#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/deinspiegel/super-recognizerin-bei-der-polizei-in-berlin-lange-nicht-gesehen](https://www.spiegel.de/deinspiegel/super-recognizerin-bei-der-polizei-in-berlin-lange-nicht-gesehen-a-92010e23-d9f0-406c-b76c-df9fa1cd1ff5#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-weihnachtsbaum-fuers-brandenburger-tor-kommt-aus-thueringen](https://www.spiegel.de/panorama/berlin-weihnachtsbaum-fuers-brandenburger-tor-kommt-aus-thueringen-a-6510ec69-cfa8-4ccd-aa5a-e25f48bfd531#ref=rss)
-* [https://www.spiegel.de/kultur/musik/jakob-manz-erinnert-an-cannonball-adderley-sakraler-groove-in-der-berliner-philharmonie](https://www.spiegel.de/kultur/musik/jakob-manz-erinnert-an-cannonball-adderley-sakraler-groove-in-der-berliner-philharmonie-a-f525f16a-0c2d-4fc0-976d-5c144eccbac6#ref=rss)
-### drei
-
-* [https://www.spiegel.de/kultur/tv/stranger-things-letzte-staffel-bei-netflix-verschont-mich-mit-dem-demogorgon-gebt-mir-mehr-eighties-hits](https://www.spiegel.de/kultur/tv/stranger-things-letzte-staffel-bei-netflix-verschont-mich-mit-dem-demogorgon-gebt-mir-mehr-eighties-hits-a-355a8b9e-1bed-4541-b4fb-a41a80711681#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-viele-stifte-muessen-verschoben-werden](https://www.spiegel.de/karriere/raetsel-der-woche-wie-viele-stifte-muessen-verschoben-werden-a-23b854da-28b8-4484-ae41-0bb3e8d89920#ref=rss)
-* [https://www.spiegel.de/partnerschaft/lovescamming-auf-linkedin-wie-liebesbetrueger-herzen-manipulieren](https://www.spiegel.de/partnerschaft/lovescamming-auf-linkedin-wie-liebesbetrueger-herzen-manipulieren-a-6c730bbf-ff63-4b73-a459-fdfde2f5e1e2#ref=rss)
-### fehlt
-
-* [https://www.spiegel.de/gesundheit/debatte-um-altersmedizin-mit-der-versorgung-von-kranken-verdienen-sie-kein-geld](https://www.spiegel.de/gesundheit/debatte-um-altersmedizin-mit-der-versorgung-von-kranken-verdienen-sie-kein-geld-a-246c839f-31cd-4acc-a141-71e5ea88b015#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-zurueck-im-camp-nou-diese-liebe-rostet-nie](https://www.spiegel.de/sport/fussball/fc-barcelona-zurueck-im-camp-nou-diese-liebe-rostet-nie-a-b68fe5c5-69c6-4d9e-b7fb-b58f463e3c80#ref=rss)
-### kennedyenkelin
-
-* [https://www.spiegel.de/ausland/kennedy-enkelin-macht-krebserkrankung-oeffentlich-und-kritisiert-ihren-cousin](https://www.spiegel.de/ausland/kennedy-enkelin-macht-krebserkrankung-oeffentlich-und-kritisiert-ihren-cousin-a-6d0f5525-8643-40d8-8ff5-99c689e9575c#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/ausland/kennedy-enkelin-macht-krebserkrankung-oeffentlich-und-kritisiert-ihren-cousin](https://www.spiegel.de/ausland/kennedy-enkelin-macht-krebserkrankung-oeffentlich-und-kritisiert-ihren-cousin-a-6d0f5525-8643-40d8-8ff5-99c689e9575c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/arche-gruender-bernd-siggelkow-wirft-deutschland-versagen-im-kampf-gegen-kinderarmut-vor](https://www.spiegel.de/panorama/gesellschaft/arche-gruender-bernd-siggelkow-wirft-deutschland-versagen-im-kampf-gegen-kinderarmut-vor-a-7af6b7f2-8869-4148-bb0d-04eb65eb69a4#ref=rss)
-### schreibt
-
-* [https://www.spiegel.de/ausland/kennedy-enkelin-macht-krebserkrankung-oeffentlich-und-kritisiert-ihren-cousin](https://www.spiegel.de/ausland/kennedy-enkelin-macht-krebserkrankung-oeffentlich-und-kritisiert-ihren-cousin-a-6d0f5525-8643-40d8-8ff5-99c689e9575c#ref=rss)
-* [https://www.spiegel.de/partnerschaft/lovescamming-auf-linkedin-wie-liebesbetrueger-herzen-manipulieren](https://www.spiegel.de/partnerschaft/lovescamming-auf-linkedin-wie-liebesbetrueger-herzen-manipulieren-a-6c730bbf-ff63-4b73-a459-fdfde2f5e1e2#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-zurueck-im-camp-nou-diese-liebe-rostet-nie](https://www.spiegel.de/sport/fussball/fc-barcelona-zurueck-im-camp-nou-diese-liebe-rostet-nie-a-b68fe5c5-69c6-4d9e-b7fb-b58f463e3c80#ref=rss)
-* [https://www.spiegel.de/kultur/tv/stranger-things-letzte-staffel-bei-netflix-verschont-mich-mit-dem-demogorgon-gebt-mir-mehr-eighties-hits](https://www.spiegel.de/kultur/tv/stranger-things-letzte-staffel-bei-netflix-verschont-mich-mit-dem-demogorgon-gebt-mir-mehr-eighties-hits-a-355a8b9e-1bed-4541-b4fb-a41a80711681#ref=rss)
-### kölner
-
-* [https://www.spiegel.de/auto/baustelle-sperrung-am-koelner-hauptbahnhof-endet-zur-neuen-woche](https://www.spiegel.de/auto/baustelle-sperrung-am-koelner-hauptbahnhof-endet-zur-neuen-woche-a-03b54c55-7445-48cc-bc74-77ab2572db27#ref=rss)
-### hauptbahnhof
-
-* [https://www.spiegel.de/auto/baustelle-sperrung-am-koelner-hauptbahnhof-endet-zur-neuen-woche](https://www.spiegel.de/auto/baustelle-sperrung-am-koelner-hauptbahnhof-endet-zur-neuen-woche-a-03b54c55-7445-48cc-bc74-77ab2572db27#ref=rss)
-### woche
-
-* [https://www.spiegel.de/auto/baustelle-sperrung-am-koelner-hauptbahnhof-endet-zur-neuen-woche](https://www.spiegel.de/auto/baustelle-sperrung-am-koelner-hauptbahnhof-endet-zur-neuen-woche-a-03b54c55-7445-48cc-bc74-77ab2572db27#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-viele-stifte-muessen-verschoben-werden](https://www.spiegel.de/karriere/raetsel-der-woche-wie-viele-stifte-muessen-verschoben-werden-a-23b854da-28b8-4484-ae41-0bb3e8d89920#ref=rss)
-### bernd
-
-* [https://www.spiegel.de/panorama/gesellschaft/arche-gruender-bernd-siggelkow-wirft-deutschland-versagen-im-kampf-gegen-kinderarmut-vor](https://www.spiegel.de/panorama/gesellschaft/arche-gruender-bernd-siggelkow-wirft-deutschland-versagen-im-kampf-gegen-kinderarmut-vor-a-7af6b7f2-8869-4148-bb0d-04eb65eb69a4#ref=rss)
-### siggelkow
-
-* [https://www.spiegel.de/panorama/gesellschaft/arche-gruender-bernd-siggelkow-wirft-deutschland-versagen-im-kampf-gegen-kinderarmut-vor](https://www.spiegel.de/panorama/gesellschaft/arche-gruender-bernd-siggelkow-wirft-deutschland-versagen-im-kampf-gegen-kinderarmut-vor-a-7af6b7f2-8869-4148-bb0d-04eb65eb69a4#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/panorama/gewalt-gegen-frauen-anwaeltin-christina-clemm-fordert-bessere-ausstattung-der-behoerden](https://www.spiegel.de/panorama/gewalt-gegen-frauen-anwaeltin-christina-clemm-fordert-bessere-ausstattung-der-behoerden-a-6118516f-7a39-4296-be86-9fd5ceac75f3#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/gewalt-gegen-frauen-anwaeltin-christina-clemm-fordert-bessere-ausstattung-der-behoerden](https://www.spiegel.de/panorama/gewalt-gegen-frauen-anwaeltin-christina-clemm-fordert-bessere-ausstattung-der-behoerden-a-6118516f-7a39-4296-be86-9fd5ceac75f3#ref=rss)
-### christina
-
-* [https://www.spiegel.de/panorama/gewalt-gegen-frauen-anwaeltin-christina-clemm-fordert-bessere-ausstattung-der-behoerden](https://www.spiegel.de/panorama/gewalt-gegen-frauen-anwaeltin-christina-clemm-fordert-bessere-ausstattung-der-behoerden-a-6118516f-7a39-4296-be86-9fd5ceac75f3#ref=rss)
-### clemm
-
-* [https://www.spiegel.de/panorama/gewalt-gegen-frauen-anwaeltin-christina-clemm-fordert-bessere-ausstattung-der-behoerden](https://www.spiegel.de/panorama/gewalt-gegen-frauen-anwaeltin-christina-clemm-fordert-bessere-ausstattung-der-behoerden-a-6118516f-7a39-4296-be86-9fd5ceac75f3#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/panorama/gewalt-gegen-frauen-anwaeltin-christina-clemm-fordert-bessere-ausstattung-der-behoerden](https://www.spiegel.de/panorama/gewalt-gegen-frauen-anwaeltin-christina-clemm-fordert-bessere-ausstattung-der-behoerden-a-6118516f-7a39-4296-be86-9fd5ceac75f3#ref=rss)
-### post
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-netzagentur-droht-mit-strafen-bei-schlechtem-service](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-netzagentur-droht-mit-strafen-bei-schlechtem-service-a-c9b38164-9992-4b27-9d42-2571f6d08a46#ref=rss)
-### service
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-netzagentur-droht-mit-strafen-bei-schlechtem-service](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-netzagentur-droht-mit-strafen-bei-schlechtem-service-a-c9b38164-9992-4b27-9d42-2571f6d08a46#ref=rss)
-### teuer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-netzagentur-droht-mit-strafen-bei-schlechtem-service](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-netzagentur-droht-mit-strafen-bei-schlechtem-service-a-c9b38164-9992-4b27-9d42-2571f6d08a46#ref=rss)
-* [https://www.spiegel.de/partnerschaft/love-scams-erklaert-das-sollten-sie-ueber-die-perfide-betrugsmasche-wissen](https://www.spiegel.de/partnerschaft/love-scams-erklaert-das-sollten-sie-ueber-die-perfide-betrugsmasche-wissen-a-ad4f4b71-a549-4dfa-8746-039265d8a218#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-piloten-lando-norris-und-oscar-piastri-disqualifiziert](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-piloten-lando-norris-und-oscar-piastri-disqualifiziert-a-4e417c16-ab66-4136-80b6-d4dbd21e26f5#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris-a-6dccea13-796c-4d6f-9570-7e7c17d3f8e3#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-piloten-lando-norris-und-oscar-piastri-disqualifiziert](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-piloten-lando-norris-und-oscar-piastri-disqualifiziert-a-4e417c16-ab66-4136-80b6-d4dbd21e26f5#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris-a-6dccea13-796c-4d6f-9570-7e7c17d3f8e3#ref=rss)
-### großen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-piloten-lando-norris-und-oscar-piastri-disqualifiziert](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-piloten-lando-norris-und-oscar-piastri-disqualifiziert-a-4e417c16-ab66-4136-80b6-d4dbd21e26f5#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris-a-6dccea13-796c-4d6f-9570-7e7c17d3f8e3#ref=rss)
-### preis
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-piloten-lando-norris-und-oscar-piastri-disqualifiziert](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-piloten-lando-norris-und-oscar-piastri-disqualifiziert-a-4e417c16-ab66-4136-80b6-d4dbd21e26f5#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris-a-6dccea13-796c-4d6f-9570-7e7c17d3f8e3#ref=rss)
-### nicole
-
-* [https://www.spiegel.de/politik/deutschland/nicole-buettner-fdp-generalsekretaerin-zwischen-ki-unternehmen-und-parteirettung](https://www.spiegel.de/politik/deutschland/nicole-buettner-fdp-generalsekretaerin-zwischen-ki-unternehmen-und-parteirettung-a-6966dc81-4c7a-4b61-a1ce-4302d884b0cf#ref=rss)
-### büttner
-
-* [https://www.spiegel.de/politik/deutschland/nicole-buettner-fdp-generalsekretaerin-zwischen-ki-unternehmen-und-parteirettung](https://www.spiegel.de/politik/deutschland/nicole-buettner-fdp-generalsekretaerin-zwischen-ki-unternehmen-und-parteirettung-a-6966dc81-4c7a-4b61-a1ce-4302d884b0cf#ref=rss)
-### abschiebebehörde
-
-* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
-### ice
-
-* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten](https://www.spiegel.de/ausland/usa-so-macht-die-regierung-von-donald-trump-jagd-auf-migranten-a-743ae5d6-8297-4b59-9910-172901cd335e#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-usa-und-europaeer-ringen-um-us-friedensplan-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-usa-und-europaeer-ringen-um-us-friedensplan-fuer-die-ukraine-a-85db1ee6-223f-446f-bb29-30bf9e10f344#ref=rss)
-### eautos
-
-* [https://www.spiegel.de/auto/e-autos-verkehrsminister-schnieder-spricht-sich-fuer-social-leasing-aus](https://www.spiegel.de/auto/e-autos-verkehrsminister-schnieder-spricht-sich-fuer-social-leasing-aus-a-6fe64a2c-a26b-409a-b517-97cd7396dc55#ref=rss)
-### patrick
-
-* [https://www.spiegel.de/auto/e-autos-verkehrsminister-schnieder-spricht-sich-fuer-social-leasing-aus](https://www.spiegel.de/auto/e-autos-verkehrsminister-schnieder-spricht-sich-fuer-social-leasing-aus-a-6fe64a2c-a26b-409a-b517-97cd7396dc55#ref=rss)
-### schnieder
-
-* [https://www.spiegel.de/auto/e-autos-verkehrsminister-schnieder-spricht-sich-fuer-social-leasing-aus](https://www.spiegel.de/auto/e-autos-verkehrsminister-schnieder-spricht-sich-fuer-social-leasing-aus-a-6fe64a2c-a26b-409a-b517-97cd7396dc55#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/auto/e-autos-verkehrsminister-schnieder-spricht-sich-fuer-social-leasing-aus](https://www.spiegel.de/auto/e-autos-verkehrsminister-schnieder-spricht-sich-fuer-social-leasing-aus-a-6fe64a2c-a26b-409a-b517-97cd7396dc55#ref=rss)
-* [https://www.spiegel.de/sport/fussball/paul-pogba-gibt-bei-as-monaco-nach-812-tagen-sein-comeback](https://www.spiegel.de/sport/fussball/paul-pogba-gibt-bei-as-monaco-nach-812-tagen-sein-comeback-a-be0051b4-31c0-4971-b5bb-9f072e11ca3f#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/deinspiegel/super-recognizerin-bei-der-polizei-in-berlin-lange-nicht-gesehen](https://www.spiegel.de/deinspiegel/super-recognizerin-bei-der-polizei-in-berlin-lange-nicht-gesehen-a-92010e23-d9f0-406c-b76c-df9fa1cd1ff5#ref=rss)
-* [https://www.spiegel.de/kultur/musik/jakob-manz-erinnert-an-cannonball-adderley-sakraler-groove-in-der-berliner-philharmonie](https://www.spiegel.de/kultur/musik/jakob-manz-erinnert-an-cannonball-adderley-sakraler-groove-in-der-berliner-philharmonie-a-f525f16a-0c2d-4fc0-976d-5c144eccbac6#ref=rss)
-### franz
-
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-37-punkten-zum-sieg-gegen-new-york-knicks](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-37-punkten-zum-sieg-gegen-new-york-knicks-a-17bd02d7-2a10-4927-8e1e-c27a0a63ff3c#ref=rss)
-### wagner
-
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-37-punkten-zum-sieg-gegen-new-york-knicks](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-37-punkten-zum-sieg-gegen-new-york-knicks-a-17bd02d7-2a10-4927-8e1e-c27a0a63ff3c#ref=rss)
-### orlando
-
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-37-punkten-zum-sieg-gegen-new-york-knicks](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-37-punkten-zum-sieg-gegen-new-york-knicks-a-17bd02d7-2a10-4927-8e1e-c27a0a63ff3c#ref=rss)
-### magic
-
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-37-punkten-zum-sieg-gegen-new-york-knicks](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-37-punkten-zum-sieg-gegen-new-york-knicks-a-17bd02d7-2a10-4927-8e1e-c27a0a63ff3c#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-37-punkten-zum-sieg-gegen-new-york-knicks](https://www.spiegel.de/sport/basketball/nba-franz-wagner-fuehrt-orlando-magic-mit-37-punkten-zum-sieg-gegen-new-york-knicks-a-17bd02d7-2a10-4927-8e1e-c27a0a63ff3c#ref=rss)
-* [https://www.spiegel.de/kultur/musik/jakob-manz-erinnert-an-cannonball-adderley-sakraler-groove-in-der-berliner-philharmonie](https://www.spiegel.de/kultur/musik/jakob-manz-erinnert-an-cannonball-adderley-sakraler-groove-in-der-berliner-philharmonie-a-f525f16a-0c2d-4fc0-976d-5c144eccbac6#ref=rss)
-### fürs
-
-* [https://www.spiegel.de/panorama/berlin-weihnachtsbaum-fuers-brandenburger-tor-kommt-aus-thueringen](https://www.spiegel.de/panorama/berlin-weihnachtsbaum-fuers-brandenburger-tor-kommt-aus-thueringen-a-6510ec69-cfa8-4ccd-aa5a-e25f48bfd531#ref=rss)
-* [https://www.spiegel.de/kultur/tv/toedliches-spiel-das-live-krimi-dinner-im-fernsehen-als-waere-man-bei-freunden-eingeladen-aber-nur-als-zuschauer](https://www.spiegel.de/kultur/tv/toedliches-spiel-das-live-krimi-dinner-im-fernsehen-als-waere-man-bei-freunden-eingeladen-aber-nur-als-zuschauer-a-0a368e47-3fb8-4f59-8029-58209f4c1666#ref=rss)
-### bald
-
-* [https://www.spiegel.de/panorama/berlin-weihnachtsbaum-fuers-brandenburger-tor-kommt-aus-thueringen](https://www.spiegel.de/panorama/berlin-weihnachtsbaum-fuers-brandenburger-tor-kommt-aus-thueringen-a-6510ec69-cfa8-4ccd-aa5a-e25f48bfd531#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-brasilien-die-oelstaaten-haben-in-belem-nur-einen-pyrrhussieg-eingefahren](https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-brasilien-die-oelstaaten-haben-in-belem-nur-einen-pyrrhussieg-eingefahren-a-5b1d4d4b-8eb6-41e4-a7de-07c354dc730d#ref=rss)
-### jakob
-
-* [https://www.spiegel.de/kultur/musik/jakob-manz-erinnert-an-cannonball-adderley-sakraler-groove-in-der-berliner-philharmonie](https://www.spiegel.de/kultur/musik/jakob-manz-erinnert-an-cannonball-adderley-sakraler-groove-in-der-berliner-philharmonie-a-f525f16a-0c2d-4fc0-976d-5c144eccbac6#ref=rss)
-### manz
-
-* [https://www.spiegel.de/kultur/musik/jakob-manz-erinnert-an-cannonball-adderley-sakraler-groove-in-der-berliner-philharmonie](https://www.spiegel.de/kultur/musik/jakob-manz-erinnert-an-cannonball-adderley-sakraler-groove-in-der-berliner-philharmonie-a-f525f16a-0c2d-4fc0-976d-5c144eccbac6#ref=rss)
-### cannonball
-
-* [https://www.spiegel.de/kultur/musik/jakob-manz-erinnert-an-cannonball-adderley-sakraler-groove-in-der-berliner-philharmonie](https://www.spiegel.de/kultur/musik/jakob-manz-erinnert-an-cannonball-adderley-sakraler-groove-in-der-berliner-philharmonie-a-f525f16a-0c2d-4fc0-976d-5c144eccbac6#ref=rss)
-### adderley
-
-* [https://www.spiegel.de/kultur/musik/jakob-manz-erinnert-an-cannonball-adderley-sakraler-groove-in-der-berliner-philharmonie](https://www.spiegel.de/kultur/musik/jakob-manz-erinnert-an-cannonball-adderley-sakraler-groove-in-der-berliner-philharmonie-a-f525f16a-0c2d-4fc0-976d-5c144eccbac6#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-brasilien-die-oelstaaten-haben-in-belem-nur-einen-pyrrhussieg-eingefahren](https://www.spiegel.de/wissenschaft/weltklimakonferenz-in-brasilien-die-oelstaaten-haben-in-belem-nur-einen-pyrrhussieg-eingefahren-a-5b1d4d4b-8eb6-41e4-a7de-07c354dc730d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/hype-um-lennart-karl-von-bayern-muenchen-17-jahr-wunderbar](https://www.spiegel.de/sport/fussball/hype-um-lennart-karl-von-bayern-muenchen-17-jahr-wunderbar-a-0b94ce62-f42c-4ca1-9aea-637051f272a1#ref=rss)
-### paul
-
-* [https://www.spiegel.de/sport/fussball/paul-pogba-gibt-bei-as-monaco-nach-812-tagen-sein-comeback](https://www.spiegel.de/sport/fussball/paul-pogba-gibt-bei-as-monaco-nach-812-tagen-sein-comeback-a-be0051b4-31c0-4971-b5bb-9f072e11ca3f#ref=rss)
-### pogba
-
-* [https://www.spiegel.de/sport/fussball/paul-pogba-gibt-bei-as-monaco-nach-812-tagen-sein-comeback](https://www.spiegel.de/sport/fussball/paul-pogba-gibt-bei-as-monaco-nach-812-tagen-sein-comeback-a-be0051b4-31c0-4971-b5bb-9f072e11ca3f#ref=rss)
-### lennart
-
-* [https://www.spiegel.de/sport/fussball/hype-um-lennart-karl-von-bayern-muenchen-17-jahr-wunderbar](https://www.spiegel.de/sport/fussball/hype-um-lennart-karl-von-bayern-muenchen-17-jahr-wunderbar-a-0b94ce62-f42c-4ca1-9aea-637051f272a1#ref=rss)
-### karl
-
-* [https://www.spiegel.de/sport/fussball/hype-um-lennart-karl-von-bayern-muenchen-17-jahr-wunderbar](https://www.spiegel.de/sport/fussball/hype-um-lennart-karl-von-bayern-muenchen-17-jahr-wunderbar-a-0b94ce62-f42c-4ca1-9aea-637051f272a1#ref=rss)
-### neumann
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-luftwaffenchef-neumann-ueber-drohnenabwehr-und-kampfjets](https://www.spiegel.de/politik/deutschland/bundeswehr-luftwaffenchef-neumann-ueber-drohnenabwehr-und-kampfjets-a-246eb264-0523-41e1-b2f4-10a0c2829b0e#ref=rss)
-### drohnenabwehr
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-luftwaffenchef-neumann-ueber-drohnenabwehr-und-kampfjets](https://www.spiegel.de/politik/deutschland/bundeswehr-luftwaffenchef-neumann-ueber-drohnenabwehr-und-kampfjets-a-246eb264-0523-41e1-b2f4-10a0c2829b0e#ref=rss)
-### kampfjets
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-luftwaffenchef-neumann-ueber-drohnenabwehr-und-kampfjets](https://www.spiegel.de/politik/deutschland/bundeswehr-luftwaffenchef-neumann-ueber-drohnenabwehr-und-kampfjets-a-246eb264-0523-41e1-b2f4-10a0c2829b0e#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-usa-und-europaeer-ringen-um-us-friedensplan-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-usa-und-europaeer-ringen-um-us-friedensplan-fuer-die-ukraine-a-85db1ee6-223f-446f-bb29-30bf9e10f344#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/ausland/ukraine-usa-und-europaeer-ringen-um-us-friedensplan-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-usa-und-europaeer-ringen-um-us-friedensplan-fuer-die-ukraine-a-85db1ee6-223f-446f-bb29-30bf9e10f344#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-lage-am-sonntag-kommunikationsdefizite-ein-kanzlerproblem-seit-zwei-jahrzehnten](https://www.spiegel.de/politik/deutschland/die-lage-am-sonntag-kommunikationsdefizite-ein-kanzlerproblem-seit-zwei-jahrzehnten-a-9ecd2379-2d00-40d7-ab0f-309a308b4204#ref=rss)
-### annkatrin
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-rentenstreit-die-woche-der-wahrheit-fuer-den-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-rentenstreit-die-woche-der-wahrheit-fuer-den-kanzler-a-6910887a-8b6a-46bc-bef4-1ebaf81c5a96#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-wulff-ueber-kanzler-friedrich-merz-die-stadtbild-aeusserung-ist-absolut-missglueckt](https://www.spiegel.de/politik/deutschland/christian-wulff-ueber-kanzler-friedrich-merz-die-stadtbild-aeusserung-ist-absolut-missglueckt-a-0a880244-0a77-47e7-8a1e-88b9933ad449#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-verhandlungen-merz-rechnet-nicht-mit-schneller-einigung](https://www.spiegel.de/politik/ukraine-verhandlungen-merz-rechnet-nicht-mit-schneller-einigung-a-21c049ed-be22-4152-bd8f-30e0a280e045#ref=rss)
+### 1
 
-* [https://www.spiegel.de/sport/fussball/nwsl-ann-katrin-berger-holt-titel-in-den-usa](https://www.spiegel.de/sport/fussball/nwsl-ann-katrin-berger-holt-titel-in-den-usa-a-cdcb2f73-fd5a-4154-870d-44503d56cf00#ref=rss)
-### berger
+* [https://www.spiegel.de/tests/brettspiele/legacy-spiele-im-test-ziggurat-klong-legacy-pandemic-legacy-season-1](https://www.spiegel.de/tests/brettspiele/legacy-spiele-im-test-ziggurat-klong-legacy-pandemic-legacy-season-1-a-74f7d2d4-042f-4459-b13a-df77ac6744b9#ref=rss)
+* [https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-in-las-vegas-verstappen-knackt-den-jackpot](https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-in-las-vegas-verstappen-knackt-den-jackpot-a-4f7aab11-bb98-4592-9055-9c3994d59bb3#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance-a-cf7eb4a6-1bbb-4805-a5be-c36887ae0771#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/fussball/nwsl-ann-katrin-berger-holt-titel-in-den-usa](https://www.spiegel.de/sport/fussball/nwsl-ann-katrin-berger-holt-titel-in-den-usa-a-cdcb2f73-fd5a-4154-870d-44503d56cf00#ref=rss)
-### stranger
+* [https://www.spiegel.de/ausland/us-praesident-wuetet-auf-truth-social-trump-wirft-ukraine-erneut-mangelnde-dankbarkeit-vor](https://www.spiegel.de/ausland/us-praesident-wuetet-auf-truth-social-trump-wirft-ukraine-erneut-mangelnde-dankbarkeit-vor-a-16c89e1c-0b1f-4544-b263-3e2d00c56cee#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen](https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen-a-41ce39c6-8659-44db-888d-83e683fa3140#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-wird-von-den-maechten-des-wahnsinns-eingeholt-kolumne](https://www.spiegel.de/ausland/donald-trump-wird-von-den-maechten-des-wahnsinns-eingeholt-kolumne-a-cecc000b-af6f-4f36-8bf3-51e90cea8ad5#ref=rss)
+### thomas
 
-* [https://www.spiegel.de/kultur/tv/stranger-things-letzte-staffel-bei-netflix-verschont-mich-mit-dem-demogorgon-gebt-mir-mehr-eighties-hits](https://www.spiegel.de/kultur/tv/stranger-things-letzte-staffel-bei-netflix-verschont-mich-mit-dem-demogorgon-gebt-mir-mehr-eighties-hits-a-355a8b9e-1bed-4541-b4fb-a41a80711681#ref=rss)
-### things
+* [https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-steht-nach-elfmeter-drama-im-playoff-halbfinale](https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-steht-nach-elfmeter-drama-im-playoff-halbfinale-a-2d24b538-e2e7-4d00-bab1-7151925d9f01#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann-a-15f52f2d-17a6-4c45-a7e6-ec4e1bb994b9#ref=rss)
+### las
 
-* [https://www.spiegel.de/kultur/tv/stranger-things-letzte-staffel-bei-netflix-verschont-mich-mit-dem-demogorgon-gebt-mir-mehr-eighties-hits](https://www.spiegel.de/kultur/tv/stranger-things-letzte-staffel-bei-netflix-verschont-mich-mit-dem-demogorgon-gebt-mir-mehr-eighties-hits-a-355a8b9e-1bed-4541-b4fb-a41a80711681#ref=rss)
-### staffel
+* [https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-in-las-vegas-verstappen-knackt-den-jackpot](https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-in-las-vegas-verstappen-knackt-den-jackpot-a-4f7aab11-bb98-4592-9055-9c3994d59bb3#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance-a-cf7eb4a6-1bbb-4805-a5be-c36887ae0771#ref=rss)
+### vegas
 
-* [https://www.spiegel.de/kultur/tv/stranger-things-letzte-staffel-bei-netflix-verschont-mich-mit-dem-demogorgon-gebt-mir-mehr-eighties-hits](https://www.spiegel.de/kultur/tv/stranger-things-letzte-staffel-bei-netflix-verschont-mich-mit-dem-demogorgon-gebt-mir-mehr-eighties-hits-a-355a8b9e-1bed-4541-b4fb-a41a80711681#ref=rss)
-### viele
+* [https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-in-las-vegas-verstappen-knackt-den-jackpot](https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-in-las-vegas-verstappen-knackt-den-jackpot-a-4f7aab11-bb98-4592-9055-9c3994d59bb3#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance-a-cf7eb4a6-1bbb-4805-a5be-c36887ae0771#ref=rss)
+### trumps
 
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-viele-stifte-muessen-verschoben-werden](https://www.spiegel.de/karriere/raetsel-der-woche-wie-viele-stifte-muessen-verschoben-werden-a-23b854da-28b8-4484-ae41-0bb3e8d89920#ref=rss)
-### stifte
+* [https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn](https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn-a-e9060ace-a886-47e9-8eb1-3e0ff2714139#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-verhandlungen-merz-rechnet-nicht-mit-schneller-einigung](https://www.spiegel.de/politik/ukraine-verhandlungen-merz-rechnet-nicht-mit-schneller-einigung-a-21c049ed-be22-4152-bd8f-30e0a280e045#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen](https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen-a-41ce39c6-8659-44db-888d-83e683fa3140#ref=rss)
+### genf
 
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-viele-stifte-muessen-verschoben-werden](https://www.spiegel.de/karriere/raetsel-der-woche-wie-viele-stifte-muessen-verschoben-werden-a-23b854da-28b8-4484-ae41-0bb3e8d89920#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn](https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn-a-e9060ace-a886-47e9-8eb1-3e0ff2714139#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-wuetet-auf-truth-social-trump-wirft-ukraine-erneut-mangelnde-dankbarkeit-vor](https://www.spiegel.de/ausland/us-praesident-wuetet-auf-truth-social-trump-wirft-ukraine-erneut-mangelnde-dankbarkeit-vor-a-16c89e1c-0b1f-4544-b263-3e2d00c56cee#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-verhandlungen-merz-rechnet-nicht-mit-schneller-einigung](https://www.spiegel.de/politik/ukraine-verhandlungen-merz-rechnet-nicht-mit-schneller-einigung-a-21c049ed-be22-4152-bd8f-30e0a280e045#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-viele-stifte-muessen-verschoben-werden](https://www.spiegel.de/karriere/raetsel-der-woche-wie-viele-stifte-muessen-verschoben-werden-a-23b854da-28b8-4484-ae41-0bb3e8d89920#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-lage-am-sonntag-kommunikationsdefizite-ein-kanzlerproblem-seit-zwei-jahrzehnten](https://www.spiegel.de/politik/deutschland/die-lage-am-sonntag-kommunikationsdefizite-ein-kanzlerproblem-seit-zwei-jahrzehnten-a-9ecd2379-2d00-40d7-ab0f-309a308b4204#ref=rss)
-### st
+* [https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn](https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn-a-e9060ace-a886-47e9-8eb1-3e0ff2714139#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-wuetet-auf-truth-social-trump-wirft-ukraine-erneut-mangelnde-dankbarkeit-vor](https://www.spiegel.de/ausland/us-praesident-wuetet-auf-truth-social-trump-wirft-ukraine-erneut-mangelnde-dankbarkeit-vor-a-16c89e1c-0b1f-4544-b263-3e2d00c56cee#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-plan-tusk-mit-spitze-gegen-die-us-regierung](https://www.spiegel.de/ausland/ukraine-plan-tusk-mit-spitze-gegen-die-us-regierung-a-49410113-730c-403e-98d9-070ce0ce1022#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/sport/fussball/fc-st-pauli-in-der-krise-die-wachstumsschmerzen-eines-klubs-der-vorankommen-will](https://www.spiegel.de/sport/fussball/fc-st-pauli-in-der-krise-die-wachstumsschmerzen-eines-klubs-der-vorankommen-will-a-0c11482e-f5d5-42f5-b9b7-e73e615078a3#ref=rss)
-### pauli
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-rentenstreit-die-woche-der-wahrheit-fuer-den-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-rentenstreit-die-woche-der-wahrheit-fuer-den-kanzler-a-6910887a-8b6a-46bc-bef4-1ebaf81c5a96#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-wulff-ueber-kanzler-friedrich-merz-die-stadtbild-aeusserung-ist-absolut-missglueckt](https://www.spiegel.de/politik/deutschland/christian-wulff-ueber-kanzler-friedrich-merz-die-stadtbild-aeusserung-ist-absolut-missglueckt-a-0a880244-0a77-47e7-8a1e-88b9933ad449#ref=rss)
+### woche
 
-* [https://www.spiegel.de/sport/fussball/fc-st-pauli-in-der-krise-die-wachstumsschmerzen-eines-klubs-der-vorankommen-will](https://www.spiegel.de/sport/fussball/fc-st-pauli-in-der-krise-die-wachstumsschmerzen-eines-klubs-der-vorankommen-will-a-0c11482e-f5d5-42f5-b9b7-e73e615078a3#ref=rss)
-### lage
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-rentenstreit-die-woche-der-wahrheit-fuer-den-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-rentenstreit-die-woche-der-wahrheit-fuer-den-kanzler-a-6910887a-8b6a-46bc-bef4-1ebaf81c5a96#ref=rss)
+* [https://www.spiegel.de/netzwelt/facebook-konzern-meta-soll-studie-zu-psychischen-schaeden-vertuscht-haben](https://www.spiegel.de/netzwelt/facebook-konzern-meta-soll-studie-zu-psychischen-schaeden-vertuscht-haben-a-0f25e3d2-237c-4337-a623-5e8a0a6add6c#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann-a-15f52f2d-17a6-4c45-a7e6-ec4e1bb994b9#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/politik/deutschland/die-lage-am-sonntag-kommunikationsdefizite-ein-kanzlerproblem-seit-zwei-jahrzehnten](https://www.spiegel.de/politik/deutschland/die-lage-am-sonntag-kommunikationsdefizite-ein-kanzlerproblem-seit-zwei-jahrzehnten-a-9ecd2379-2d00-40d7-ab0f-309a308b4204#ref=rss)
-### sonntag
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-rentenstreit-die-woche-der-wahrheit-fuer-den-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-der-rentenstreit-die-woche-der-wahrheit-fuer-den-kanzler-a-6910887a-8b6a-46bc-bef4-1ebaf81c5a96#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-wulff-ueber-kanzler-friedrich-merz-die-stadtbild-aeusserung-ist-absolut-missglueckt](https://www.spiegel.de/politik/deutschland/christian-wulff-ueber-kanzler-friedrich-merz-die-stadtbild-aeusserung-ist-absolut-missglueckt-a-0a880244-0a77-47e7-8a1e-88b9933ad449#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-verhandlungen-merz-rechnet-nicht-mit-schneller-einigung](https://www.spiegel.de/politik/ukraine-verhandlungen-merz-rechnet-nicht-mit-schneller-einigung-a-21c049ed-be22-4152-bd8f-30e0a280e045#ref=rss)
+### israel
 
-* [https://www.spiegel.de/politik/deutschland/die-lage-am-sonntag-kommunikationsdefizite-ein-kanzlerproblem-seit-zwei-jahrzehnten](https://www.spiegel.de/politik/deutschland/die-lage-am-sonntag-kommunikationsdefizite-ein-kanzlerproblem-seit-zwei-jahrzehnten-a-9ecd2379-2d00-40d7-ab0f-309a308b4204#ref=rss)
-### max
+* [https://www.spiegel.de/ausland/beirut-israel-greift-hisbollah-anfuehrer-an-fuenf-tote](https://www.spiegel.de/ausland/beirut-israel-greift-hisbollah-anfuehrer-an-fuenf-tote-a-f582225d-a1bb-4e86-aa10-b0d25ef36e29#ref=rss)
+### eigentlich
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris-a-6dccea13-796c-4d6f-9570-7e7c17d3f8e3#ref=rss)
+* [https://www.spiegel.de/ausland/beirut-israel-greift-hisbollah-anfuehrer-an-fuenf-tote](https://www.spiegel.de/ausland/beirut-israel-greift-hisbollah-anfuehrer-an-fuenf-tote-a-f582225d-a1bb-4e86-aa10-b0d25ef36e29#ref=rss)
+* [https://www.spiegel.de/tests/brettspiele/legacy-spiele-im-test-ziggurat-klong-legacy-pandemic-legacy-season-1](https://www.spiegel.de/tests/brettspiele/legacy-spiele-im-test-ziggurat-klong-legacy-pandemic-legacy-season-1-a-74f7d2d4-042f-4459-b13a-df77ac6744b9#ref=rss)
+* [https://www.spiegel.de/panorama/frank-elstner-wollte-eigentlich-priester-werden](https://www.spiegel.de/panorama/frank-elstner-wollte-eigentlich-priester-werden-a-baede0d0-3da6-4f68-9d02-2ca23e92e785#ref=rss)
+### ausgerechnet
+
+* [https://www.spiegel.de/ausland/us-praesident-wuetet-auf-truth-social-trump-wirft-ukraine-erneut-mangelnde-dankbarkeit-vor](https://www.spiegel.de/ausland/us-praesident-wuetet-auf-truth-social-trump-wirft-ukraine-erneut-mangelnde-dankbarkeit-vor-a-16c89e1c-0b1f-4544-b263-3e2d00c56cee#ref=rss)
+* [https://www.spiegel.de/ausland/indien-firma-will-selbstfahrende-autos-entwickeln-ki-trifft-kuh](https://www.spiegel.de/ausland/indien-firma-will-selbstfahrende-autos-entwickeln-ki-trifft-kuh-a-024af620-ad94-4a38-9044-efc98a62d5a8#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance-a-cf7eb4a6-1bbb-4805-a5be-c36887ae0771#ref=rss)
+### hätte
+
+* [https://www.spiegel.de/panorama/frank-elstner-wollte-eigentlich-priester-werden](https://www.spiegel.de/panorama/frank-elstner-wollte-eigentlich-priester-werden-a-baede0d0-3da6-4f68-9d02-2ca23e92e785#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen](https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen-a-41ce39c6-8659-44db-888d-83e683fa3140#ref=rss)
+### formel
+
+* [https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-in-las-vegas-verstappen-knackt-den-jackpot](https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-in-las-vegas-verstappen-knackt-den-jackpot-a-4f7aab11-bb98-4592-9055-9c3994d59bb3#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance-a-cf7eb4a6-1bbb-4805-a5be-c36887ae0771#ref=rss)
 ### verstappen
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-siegt-vor-lando-norris-a-6dccea13-796c-4d6f-9570-7e7c17d3f8e3#ref=rss)
-### linkedin
+* [https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-in-las-vegas-verstappen-knackt-den-jackpot](https://www.spiegel.de/sport/formel1/pressestimmen-zur-formel-1-in-las-vegas-verstappen-knackt-den-jackpot-a-4f7aab11-bb98-4592-9055-9c3994d59bb3#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance-a-cf7eb4a6-1bbb-4805-a5be-c36887ae0771#ref=rss)
+### new
 
-* [https://www.spiegel.de/partnerschaft/lovescamming-auf-linkedin-wie-liebesbetrueger-herzen-manipulieren](https://www.spiegel.de/partnerschaft/lovescamming-auf-linkedin-wie-liebesbetrueger-herzen-manipulieren-a-6c730bbf-ff63-4b73-a459-fdfde2f5e1e2#ref=rss)
-### lovescams
+* [https://www.spiegel.de/auto/verkehrswende-in-new-york-warum-new-york-jetzt-e-bikes-drosselt](https://www.spiegel.de/auto/verkehrswende-in-new-york-warum-new-york-jetzt-e-bikes-drosselt-a-d168f1b7-65e0-4248-b730-4ffb2ec5f26a#ref=rss)
+### york
 
-* [https://www.spiegel.de/partnerschaft/love-scams-erklaert-das-sollten-sie-ueber-die-perfide-betrugsmasche-wissen](https://www.spiegel.de/partnerschaft/love-scams-erklaert-das-sollten-sie-ueber-die-perfide-betrugsmasche-wissen-a-ad4f4b71-a549-4dfa-8746-039265d8a218#ref=rss)
-### sollten
+* [https://www.spiegel.de/auto/verkehrswende-in-new-york-warum-new-york-jetzt-e-bikes-drosselt](https://www.spiegel.de/auto/verkehrswende-in-new-york-warum-new-york-jetzt-e-bikes-drosselt-a-d168f1b7-65e0-4248-b730-4ffb2ec5f26a#ref=rss)
+### ukraineverhandlungen
 
-* [https://www.spiegel.de/partnerschaft/love-scams-erklaert-das-sollten-sie-ueber-die-perfide-betrugsmasche-wissen](https://www.spiegel.de/partnerschaft/love-scams-erklaert-das-sollten-sie-ueber-die-perfide-betrugsmasche-wissen-a-ad4f4b71-a549-4dfa-8746-039265d8a218#ref=rss)
-### wissen
+* [https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn](https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn-a-e9060ace-a886-47e9-8eb1-3e0ff2714139#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-verhandlungen-merz-rechnet-nicht-mit-schneller-einigung](https://www.spiegel.de/politik/ukraine-verhandlungen-merz-rechnet-nicht-mit-schneller-einigung-a-21c049ed-be22-4152-bd8f-30e0a280e045#ref=rss)
+### usaußenminister
 
-* [https://www.spiegel.de/partnerschaft/love-scams-erklaert-das-sollten-sie-ueber-die-perfide-betrugsmasche-wissen](https://www.spiegel.de/partnerschaft/love-scams-erklaert-das-sollten-sie-ueber-die-perfide-betrugsmasche-wissen-a-ad4f4b71-a549-4dfa-8746-039265d8a218#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn](https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn-a-e9060ace-a886-47e9-8eb1-3e0ff2714139#ref=rss)
+### marco
+
+* [https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn](https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn-a-e9060ace-a886-47e9-8eb1-3e0ff2714139#ref=rss)
+### rubio
+
+* [https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn](https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn-a-e9060ace-a886-47e9-8eb1-3e0ff2714139#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn](https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn-a-e9060ace-a886-47e9-8eb1-3e0ff2714139#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-ueberlebe-wenigstens-bis-morgen-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-ueberlebe-wenigstens-bis-morgen-im-schnellcheck-a-8d34d07e-5ab7-4f0d-98af-1c3b24fe355a#ref=rss)
+### verhandeln
+
+* [https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn](https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn-a-e9060ace-a886-47e9-8eb1-3e0ff2714139#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-wuetet-auf-truth-social-trump-wirft-ukraine-erneut-mangelnde-dankbarkeit-vor](https://www.spiegel.de/ausland/us-praesident-wuetet-auf-truth-social-trump-wirft-ukraine-erneut-mangelnde-dankbarkeit-vor-a-16c89e1c-0b1f-4544-b263-3e2d00c56cee#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn](https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn-a-e9060ace-a886-47e9-8eb1-3e0ff2714139#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen](https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen-a-41ce39c6-8659-44db-888d-83e683fa3140#ref=rss)
+### friedensplan
+
+* [https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn](https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn-a-e9060ace-a886-47e9-8eb1-3e0ff2714139#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-plan-tusk-mit-spitze-gegen-die-us-regierung](https://www.spiegel.de/ausland/ukraine-plan-tusk-mit-spitze-gegen-die-us-regierung-a-49410113-730c-403e-98d9-070ce0ce1022#ref=rss)
+### beide
+
+* [https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn](https://www.spiegel.de/ausland/ukraine-verhandlungen-us-aussenminister-marco-rubio-spricht-von-bestem-treffen-seit-trumps-amtsbeginn-a-e9060ace-a886-47e9-8eb1-3e0ff2714139#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance-a-cf7eb4a6-1bbb-4805-a5be-c36887ae0771#ref=rss)
+### ideal
+
+* [https://www.spiegel.de/geschichte/monogamie-woher-kommt-das-ideal-der-exklusiven-liebe-die-ewig-waehrt](https://www.spiegel.de/geschichte/monogamie-woher-kommt-das-ideal-der-exklusiven-liebe-die-ewig-waehrt-a-a12e32c5-0ceb-4127-b624-587f5eb772dd#ref=rss)
+### liebe
+
+* [https://www.spiegel.de/geschichte/monogamie-woher-kommt-das-ideal-der-exklusiven-liebe-die-ewig-waehrt](https://www.spiegel.de/geschichte/monogamie-woher-kommt-das-ideal-der-exklusiven-liebe-die-ewig-waehrt-a-a12e32c5-0ceb-4127-b624-587f5eb772dd#ref=rss)
+### ewig
+
+* [https://www.spiegel.de/geschichte/monogamie-woher-kommt-das-ideal-der-exklusiven-liebe-die-ewig-waehrt](https://www.spiegel.de/geschichte/monogamie-woher-kommt-das-ideal-der-exklusiven-liebe-die-ewig-waehrt-a-a12e32c5-0ceb-4127-b624-587f5eb772dd#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/geschichte/monogamie-woher-kommt-das-ideal-der-exklusiven-liebe-die-ewig-waehrt](https://www.spiegel.de/geschichte/monogamie-woher-kommt-das-ideal-der-exklusiven-liebe-die-ewig-waehrt-a-a12e32c5-0ceb-4127-b624-587f5eb772dd#ref=rss)
+* [https://www.spiegel.de/ausland/beirut-israel-greift-hisbollah-anfuehrer-an-fuenf-tote](https://www.spiegel.de/ausland/beirut-israel-greift-hisbollah-anfuehrer-an-fuenf-tote-a-f582225d-a1bb-4e86-aa10-b0d25ef36e29#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/ausland/beirut-israel-greift-hisbollah-anfuehrer-an-fuenf-tote](https://www.spiegel.de/ausland/beirut-israel-greift-hisbollah-anfuehrer-an-fuenf-tote-a-f582225d-a1bb-4e86-aa10-b0d25ef36e29#ref=rss)
+* [https://www.spiegel.de/panorama/1100-puten-im-harz-getoetet-diesmal-war-es-nicht-die-vogelgrippe](https://www.spiegel.de/panorama/1100-puten-im-harz-getoetet-diesmal-war-es-nicht-die-vogelgrippe-a-ac059607-a1af-41ea-aba5-b0efddb68124#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-leipzigs-jungstar-assan-ouedraogo-dreht-auch-gegen-werder-bremen-auf](https://www.spiegel.de/sport/fussball/fussball-bundesliga-leipzigs-jungstar-assan-ouedraogo-dreht-auch-gegen-werder-bremen-auf-a-b6efd55f-e4b8-4b9d-a6ff-561b9e514cd5#ref=rss)
+### sieg
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-leipzigs-jungstar-assan-ouedraogo-dreht-auch-gegen-werder-bremen-auf](https://www.spiegel.de/sport/fussball/fussball-bundesliga-leipzigs-jungstar-assan-ouedraogo-dreht-auch-gegen-werder-bremen-auf-a-b6efd55f-e4b8-4b9d-a6ff-561b9e514cd5#ref=rss)
+### legacy
+
+* [https://www.spiegel.de/tests/brettspiele/legacy-spiele-im-test-ziggurat-klong-legacy-pandemic-legacy-season-1](https://www.spiegel.de/tests/brettspiele/legacy-spiele-im-test-ziggurat-klong-legacy-pandemic-legacy-season-1-a-74f7d2d4-042f-4459-b13a-df77ac6744b9#ref=rss)
+### darin
+
+* [https://www.spiegel.de/tests/brettspiele/legacy-spiele-im-test-ziggurat-klong-legacy-pandemic-legacy-season-1](https://www.spiegel.de/tests/brettspiele/legacy-spiele-im-test-ziggurat-klong-legacy-pandemic-legacy-season-1-a-74f7d2d4-042f-4459-b13a-df77ac6744b9#ref=rss)
+* [https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher](https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher-a-c74e388b-00b6-4ee5-b7ba-e6233e13ebcb#ref=rss)
+### wir
+
+* [https://www.spiegel.de/tests/brettspiele/legacy-spiele-im-test-ziggurat-klong-legacy-pandemic-legacy-season-1](https://www.spiegel.de/tests/brettspiele/legacy-spiele-im-test-ziggurat-klong-legacy-pandemic-legacy-season-1-a-74f7d2d4-042f-4459-b13a-df77ac6744b9#ref=rss)
+* [https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher](https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher-a-c74e388b-00b6-4ee5-b7ba-e6233e13ebcb#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/kultur/moskau-x-von-david-mccloskey-wer-hier-kein-blutruenstigster-hai-ist-wird-selbst-zur-beute](https://www.spiegel.de/kultur/moskau-x-von-david-mccloskey-wer-hier-kein-blutruenstigster-hai-ist-wird-selbst-zur-beute-a-1dfdc013-597b-4e74-ac55-ba2897188b29#ref=rss)
+### david
+
+* [https://www.spiegel.de/kultur/moskau-x-von-david-mccloskey-wer-hier-kein-blutruenstigster-hai-ist-wird-selbst-zur-beute](https://www.spiegel.de/kultur/moskau-x-von-david-mccloskey-wer-hier-kein-blutruenstigster-hai-ist-wird-selbst-zur-beute-a-1dfdc013-597b-4e74-ac55-ba2897188b29#ref=rss)
+### mccloskey
+
+* [https://www.spiegel.de/kultur/moskau-x-von-david-mccloskey-wer-hier-kein-blutruenstigster-hai-ist-wird-selbst-zur-beute](https://www.spiegel.de/kultur/moskau-x-von-david-mccloskey-wer-hier-kein-blutruenstigster-hai-ist-wird-selbst-zur-beute-a-1dfdc013-597b-4e74-ac55-ba2897188b29#ref=rss)
+### ehemalige
+
+* [https://www.spiegel.de/kultur/moskau-x-von-david-mccloskey-wer-hier-kein-blutruenstigster-hai-ist-wird-selbst-zur-beute](https://www.spiegel.de/kultur/moskau-x-von-david-mccloskey-wer-hier-kein-blutruenstigster-hai-ist-wird-selbst-zur-beute-a-1dfdc013-597b-4e74-ac55-ba2897188b29#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-wulff-ueber-kanzler-friedrich-merz-die-stadtbild-aeusserung-ist-absolut-missglueckt](https://www.spiegel.de/politik/deutschland/christian-wulff-ueber-kanzler-friedrich-merz-die-stadtbild-aeusserung-ist-absolut-missglueckt-a-0a880244-0a77-47e7-8a1e-88b9933ad449#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/us-praesident-wuetet-auf-truth-social-trump-wirft-ukraine-erneut-mangelnde-dankbarkeit-vor](https://www.spiegel.de/ausland/us-praesident-wuetet-auf-truth-social-trump-wirft-ukraine-erneut-mangelnde-dankbarkeit-vor-a-16c89e1c-0b1f-4544-b263-3e2d00c56cee#ref=rss)
+### vorschlag
+
+* [https://www.spiegel.de/ausland/us-praesident-wuetet-auf-truth-social-trump-wirft-ukraine-erneut-mangelnde-dankbarkeit-vor](https://www.spiegel.de/ausland/us-praesident-wuetet-auf-truth-social-trump-wirft-ukraine-erneut-mangelnde-dankbarkeit-vor-a-16c89e1c-0b1f-4544-b263-3e2d00c56cee#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-verhandlungen-merz-rechnet-nicht-mit-schneller-einigung](https://www.spiegel.de/politik/ukraine-verhandlungen-merz-rechnet-nicht-mit-schneller-einigung-a-21c049ed-be22-4152-bd8f-30e0a280e045#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/ausland/us-praesident-wuetet-auf-truth-social-trump-wirft-ukraine-erneut-mangelnde-dankbarkeit-vor](https://www.spiegel.de/ausland/us-praesident-wuetet-auf-truth-social-trump-wirft-ukraine-erneut-mangelnde-dankbarkeit-vor-a-16c89e1c-0b1f-4544-b263-3e2d00c56cee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/stadt-parfuemerie-pieper-meldet-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/stadt-parfuemerie-pieper-meldet-insolvenz-an-a-6966ca7c-d970-4cc7-8069-95d69afaa22c#ref=rss)
+### meta
+
+* [https://www.spiegel.de/netzwelt/facebook-konzern-meta-soll-studie-zu-psychischen-schaeden-vertuscht-haben](https://www.spiegel.de/netzwelt/facebook-konzern-meta-soll-studie-zu-psychischen-schaeden-vertuscht-haben-a-0f25e3d2-237c-4337-a623-5e8a0a6add6c#ref=rss)
+### studie
+
+* [https://www.spiegel.de/netzwelt/facebook-konzern-meta-soll-studie-zu-psychischen-schaeden-vertuscht-haben](https://www.spiegel.de/netzwelt/facebook-konzern-meta-soll-studie-zu-psychischen-schaeden-vertuscht-haben-a-0f25e3d2-237c-4337-a623-5e8a0a6add6c#ref=rss)
+### einsamkeit
+
+* [https://www.spiegel.de/netzwelt/facebook-konzern-meta-soll-studie-zu-psychischen-schaeden-vertuscht-haben](https://www.spiegel.de/netzwelt/facebook-konzern-meta-soll-studie-zu-psychischen-schaeden-vertuscht-haben-a-0f25e3d2-237c-4337-a623-5e8a0a6add6c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-ueberlebe-wenigstens-bis-morgen-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-ueberlebe-wenigstens-bis-morgen-im-schnellcheck-a-8d34d07e-5ab7-4f0d-98af-1c3b24fe355a#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/netzwelt/facebook-konzern-meta-soll-studie-zu-psychischen-schaeden-vertuscht-haben](https://www.spiegel.de/netzwelt/facebook-konzern-meta-soll-studie-zu-psychischen-schaeden-vertuscht-haben-a-0f25e3d2-237c-4337-a623-5e8a0a6add6c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nicola-boecker-giannini-und-martin-hikel-spd-fuehrungsduo-in-berlin-erklaert-ruecktritt](https://www.spiegel.de/politik/deutschland/nicola-boecker-giannini-und-martin-hikel-spd-fuehrungsduo-in-berlin-erklaert-ruecktritt-a-af7155b4-c8ca-4ab6-b886-63869072c414#ref=rss)
+### daniel
+
+* [https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher](https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher-a-c74e388b-00b6-4ee5-b7ba-e6233e13ebcb#ref=rss)
+### marwecki
+
+* [https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher](https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher-a-c74e388b-00b6-4ee5-b7ba-e6233e13ebcb#ref=rss)
+### welt
+
+* [https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher](https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher-a-c74e388b-00b6-4ee5-b7ba-e6233e13ebcb#ref=rss)
+### ich
+
+* [https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher](https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher-a-c74e388b-00b6-4ee5-b7ba-e6233e13ebcb#ref=rss)
+* [https://www.spiegel.de/kultur/kino/ari-aster-ueber-eddington-der-western-lehrt-uns-wie-seltsam-unser-leben-ist](https://www.spiegel.de/kultur/kino/ari-aster-ueber-eddington-der-western-lehrt-uns-wie-seltsam-unser-leben-ist-a-78245800-166a-4306-8e4f-a3be5ae1c763#ref=rss)
+### hinterher
+
+* [https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher](https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher-a-c74e388b-00b6-4ee5-b7ba-e6233e13ebcb#ref=rss)
+* [https://www.spiegel.de/panorama/so-schuetzen-sie-sich-auf-dem-weihnachtsmarkt](https://www.spiegel.de/panorama/so-schuetzen-sie-sich-auf-dem-weihnachtsmarkt-a-f2cdc039-e728-4687-8143-45c46a862e0e#ref=rss)
+### geprägt
+
+* [https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher](https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher-a-c74e388b-00b6-4ee5-b7ba-e6233e13ebcb#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher](https://www.spiegel.de/ausland/autor-daniel-marwecki-ueber-die-welt-nach-dem-westen-ich-trauere-dem-abendland-nicht-hinterher-a-c74e388b-00b6-4ee5-b7ba-e6233e13ebcb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen](https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen-a-41ce39c6-8659-44db-888d-83e683fa3140#ref=rss)
+### indien
+
+* [https://www.spiegel.de/ausland/indien-firma-will-selbstfahrende-autos-entwickeln-ki-trifft-kuh](https://www.spiegel.de/ausland/indien-firma-will-selbstfahrende-autos-entwickeln-ki-trifft-kuh-a-024af620-ad94-4a38-9044-efc98a62d5a8#ref=rss)
+### selbstfahrende
+
+* [https://www.spiegel.de/ausland/indien-firma-will-selbstfahrende-autos-entwickeln-ki-trifft-kuh](https://www.spiegel.de/ausland/indien-firma-will-selbstfahrende-autos-entwickeln-ki-trifft-kuh-a-024af620-ad94-4a38-9044-efc98a62d5a8#ref=rss)
+### autos
+
+* [https://www.spiegel.de/ausland/indien-firma-will-selbstfahrende-autos-entwickeln-ki-trifft-kuh](https://www.spiegel.de/ausland/indien-firma-will-selbstfahrende-autos-entwickeln-ki-trifft-kuh-a-024af620-ad94-4a38-9044-efc98a62d5a8#ref=rss)
+### entwickeln
+
+* [https://www.spiegel.de/ausland/indien-firma-will-selbstfahrende-autos-entwickeln-ki-trifft-kuh](https://www.spiegel.de/ausland/indien-firma-will-selbstfahrende-autos-entwickeln-ki-trifft-kuh-a-024af620-ad94-4a38-9044-efc98a62d5a8#ref=rss)
+### nerven
+
+* [https://www.spiegel.de/ausland/indien-firma-will-selbstfahrende-autos-entwickeln-ki-trifft-kuh](https://www.spiegel.de/ausland/indien-firma-will-selbstfahrende-autos-entwickeln-ki-trifft-kuh-a-024af620-ad94-4a38-9044-efc98a62d5a8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-steht-nach-elfmeter-drama-im-playoff-halbfinale](https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-steht-nach-elfmeter-drama-im-playoff-halbfinale-a-2d24b538-e2e7-4d00-bab1-7151925d9f01#ref=rss)
+### christian
+
+* [https://www.spiegel.de/politik/deutschland/christian-wulff-ueber-kanzler-friedrich-merz-die-stadtbild-aeusserung-ist-absolut-missglueckt](https://www.spiegel.de/politik/deutschland/christian-wulff-ueber-kanzler-friedrich-merz-die-stadtbild-aeusserung-ist-absolut-missglueckt-a-0a880244-0a77-47e7-8a1e-88b9933ad449#ref=rss)
+### wulff
+
+* [https://www.spiegel.de/politik/deutschland/christian-wulff-ueber-kanzler-friedrich-merz-die-stadtbild-aeusserung-ist-absolut-missglueckt](https://www.spiegel.de/politik/deutschland/christian-wulff-ueber-kanzler-friedrich-merz-die-stadtbild-aeusserung-ist-absolut-missglueckt-a-0a880244-0a77-47e7-8a1e-88b9933ad449#ref=rss)
+### bundeskanzler
+
+* [https://www.spiegel.de/politik/deutschland/christian-wulff-ueber-kanzler-friedrich-merz-die-stadtbild-aeusserung-ist-absolut-missglueckt](https://www.spiegel.de/politik/deutschland/christian-wulff-ueber-kanzler-friedrich-merz-die-stadtbild-aeusserung-ist-absolut-missglueckt-a-0a880244-0a77-47e7-8a1e-88b9933ad449#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann-a-15f52f2d-17a6-4c45-a7e6-ec4e1bb994b9#ref=rss)
+### nicola
+
+* [https://www.spiegel.de/politik/deutschland/nicola-boecker-giannini-und-martin-hikel-spd-fuehrungsduo-in-berlin-erklaert-ruecktritt](https://www.spiegel.de/politik/deutschland/nicola-boecker-giannini-und-martin-hikel-spd-fuehrungsduo-in-berlin-erklaert-ruecktritt-a-af7155b4-c8ca-4ab6-b886-63869072c414#ref=rss)
+### böckergiannini
+
+* [https://www.spiegel.de/politik/deutschland/nicola-boecker-giannini-und-martin-hikel-spd-fuehrungsduo-in-berlin-erklaert-ruecktritt](https://www.spiegel.de/politik/deutschland/nicola-boecker-giannini-und-martin-hikel-spd-fuehrungsduo-in-berlin-erklaert-ruecktritt-a-af7155b4-c8ca-4ab6-b886-63869072c414#ref=rss)
+### martin
+
+* [https://www.spiegel.de/politik/deutschland/nicola-boecker-giannini-und-martin-hikel-spd-fuehrungsduo-in-berlin-erklaert-ruecktritt](https://www.spiegel.de/politik/deutschland/nicola-boecker-giannini-und-martin-hikel-spd-fuehrungsduo-in-berlin-erklaert-ruecktritt-a-af7155b4-c8ca-4ab6-b886-63869072c414#ref=rss)
+### hikel
+
+* [https://www.spiegel.de/politik/deutschland/nicola-boecker-giannini-und-martin-hikel-spd-fuehrungsduo-in-berlin-erklaert-ruecktritt](https://www.spiegel.de/politik/deutschland/nicola-boecker-giannini-und-martin-hikel-spd-fuehrungsduo-in-berlin-erklaert-ruecktritt-a-af7155b4-c8ca-4ab6-b886-63869072c414#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/politik/deutschland/nicola-boecker-giannini-und-martin-hikel-spd-fuehrungsduo-in-berlin-erklaert-ruecktritt](https://www.spiegel.de/politik/deutschland/nicola-boecker-giannini-und-martin-hikel-spd-fuehrungsduo-in-berlin-erklaert-ruecktritt-a-af7155b4-c8ca-4ab6-b886-63869072c414#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen](https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen-a-41ce39c6-8659-44db-888d-83e683fa3140#ref=rss)
+### frank
+
+* [https://www.spiegel.de/panorama/frank-elstner-wollte-eigentlich-priester-werden](https://www.spiegel.de/panorama/frank-elstner-wollte-eigentlich-priester-werden-a-baede0d0-3da6-4f68-9d02-2ca23e92e785#ref=rss)
+### elstner
+
+* [https://www.spiegel.de/panorama/frank-elstner-wollte-eigentlich-priester-werden](https://www.spiegel.de/panorama/frank-elstner-wollte-eigentlich-priester-werden-a-baede0d0-3da6-4f68-9d02-2ca23e92e785#ref=rss)
+### macht
+
+* [https://www.spiegel.de/politik/ukraine-verhandlungen-merz-rechnet-nicht-mit-schneller-einigung](https://www.spiegel.de/politik/ukraine-verhandlungen-merz-rechnet-nicht-mit-schneller-einigung-a-21c049ed-be22-4152-bd8f-30e0a280e045#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann-a-15f52f2d-17a6-4c45-a7e6-ec4e1bb994b9#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/stadt-parfuemerie-pieper-meldet-insolvenz-an](https://www.spiegel.de/wirtschaft/unternehmen/stadt-parfuemerie-pieper-meldet-insolvenz-an-a-6966ca7c-d970-4cc7-8069-95d69afaa22c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/maxton-hall-medizinstudium-neben-der-schauspielerei-hilft-damian-hardung-bei-verstand-zu-bleiben](https://www.spiegel.de/panorama/leute/maxton-hall-medizinstudium-neben-der-schauspielerei-hilft-damian-hardung-bei-verstand-zu-bleiben-a-34b58364-9f30-453a-8b37-c7d92c9b6dd8#ref=rss)
+### otto
+
+* [https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen](https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen-a-41ce39c6-8659-44db-888d-83e683fa3140#ref=rss)
+### kernberg
+
+* [https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen](https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen-a-41ce39c6-8659-44db-888d-83e683fa3140#ref=rss)
+### andere
+
+* [https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen](https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen-a-41ce39c6-8659-44db-888d-83e683fa3140#ref=rss)
+* [https://www.spiegel.de/kultur/kino/ari-aster-ueber-eddington-der-western-lehrt-uns-wie-seltsam-unser-leben-ist](https://www.spiegel.de/kultur/kino/ari-aster-ueber-eddington-der-western-lehrt-uns-wie-seltsam-unser-leben-ist-a-78245800-166a-4306-8e4f-a3be5ae1c763#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen](https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen-a-41ce39c6-8659-44db-888d-83e683fa3140#ref=rss)
+* [https://www.spiegel.de/panorama/so-schuetzen-sie-sich-auf-dem-weihnachtsmarkt](https://www.spiegel.de/panorama/so-schuetzen-sie-sich-auf-dem-weihnachtsmarkt-a-f2cdc039-e728-4687-8143-45c46a862e0e#ref=rss)
+### beiden
+
+* [https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen](https://www.spiegel.de/wissenschaft/mensch/otto-kernberg-ueber-boesartige-narzissten-es-haette-auch-andere-trumps-geben-koennen-a-41ce39c6-8659-44db-888d-83e683fa3140#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance-a-cf7eb4a6-1bbb-4805-a5be-c36887ae0771#ref=rss)
+### vancouver
+
+* [https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-steht-nach-elfmeter-drama-im-playoff-halbfinale](https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-steht-nach-elfmeter-drama-im-playoff-halbfinale-a-2d24b538-e2e7-4d00-bab1-7151925d9f01#ref=rss)
+### whitecaps
+
+* [https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-steht-nach-elfmeter-drama-im-playoff-halbfinale](https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-steht-nach-elfmeter-drama-im-playoff-halbfinale-a-2d24b538-e2e7-4d00-bab1-7151925d9f01#ref=rss)
+### müller
+
+* [https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-steht-nach-elfmeter-drama-im-playoff-halbfinale](https://www.spiegel.de/sport/fussball/vancouver-whitecaps-thomas-mueller-steht-nach-elfmeter-drama-im-playoff-halbfinale-a-2d24b538-e2e7-4d00-bab1-7151925d9f01#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/panorama/so-schuetzen-sie-sich-auf-dem-weihnachtsmarkt](https://www.spiegel.de/panorama/so-schuetzen-sie-sich-auf-dem-weihnachtsmarkt-a-f2cdc039-e728-4687-8143-45c46a862e0e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/maxton-hall-medizinstudium-neben-der-schauspielerei-hilft-damian-hardung-bei-verstand-zu-bleiben](https://www.spiegel.de/panorama/leute/maxton-hall-medizinstudium-neben-der-schauspielerei-hilft-damian-hardung-bei-verstand-zu-bleiben-a-34b58364-9f30-453a-8b37-c7d92c9b6dd8#ref=rss)
+### max
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance](https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-mclaren-disqualifikation-oeffnet-max-verstappen-wm-chance-a-cf7eb4a6-1bbb-4805-a5be-c36887ae0771#ref=rss)
+### hilft
+
+* [https://www.spiegel.de/panorama/leute/maxton-hall-medizinstudium-neben-der-schauspielerei-hilft-damian-hardung-bei-verstand-zu-bleiben](https://www.spiegel.de/panorama/leute/maxton-hall-medizinstudium-neben-der-schauspielerei-hilft-damian-hardung-bei-verstand-zu-bleiben-a-34b58364-9f30-453a-8b37-c7d92c9b6dd8#ref=rss)
+### damian
+
+* [https://www.spiegel.de/panorama/leute/maxton-hall-medizinstudium-neben-der-schauspielerei-hilft-damian-hardung-bei-verstand-zu-bleiben](https://www.spiegel.de/panorama/leute/maxton-hall-medizinstudium-neben-der-schauspielerei-hilft-damian-hardung-bei-verstand-zu-bleiben-a-34b58364-9f30-453a-8b37-c7d92c9b6dd8#ref=rss)
+### hardung
+
+* [https://www.spiegel.de/panorama/leute/maxton-hall-medizinstudium-neben-der-schauspielerei-hilft-damian-hardung-bei-verstand-zu-bleiben](https://www.spiegel.de/panorama/leute/maxton-hall-medizinstudium-neben-der-schauspielerei-hilft-damian-hardung-bei-verstand-zu-bleiben-a-34b58364-9f30-453a-8b37-c7d92c9b6dd8#ref=rss)
+### ari
+
+* [https://www.spiegel.de/kultur/kino/ari-aster-ueber-eddington-der-western-lehrt-uns-wie-seltsam-unser-leben-ist](https://www.spiegel.de/kultur/kino/ari-aster-ueber-eddington-der-western-lehrt-uns-wie-seltsam-unser-leben-ist-a-78245800-166a-4306-8e4f-a3be5ae1c763#ref=rss)
+### aster
+
+* [https://www.spiegel.de/kultur/kino/ari-aster-ueber-eddington-der-western-lehrt-uns-wie-seltsam-unser-leben-ist](https://www.spiegel.de/kultur/kino/ari-aster-ueber-eddington-der-western-lehrt-uns-wie-seltsam-unser-leben-ist-a-78245800-166a-4306-8e4f-a3be5ae1c763#ref=rss)
+### eddington
+
+* [https://www.spiegel.de/kultur/kino/ari-aster-ueber-eddington-der-western-lehrt-uns-wie-seltsam-unser-leben-ist](https://www.spiegel.de/kultur/kino/ari-aster-ueber-eddington-der-western-lehrt-uns-wie-seltsam-unser-leben-ist-a-78245800-166a-4306-8e4f-a3be5ae1c763#ref=rss)
+### manchen
+
+* [https://www.spiegel.de/kultur/kino/ari-aster-ueber-eddington-der-western-lehrt-uns-wie-seltsam-unser-leben-ist](https://www.spiegel.de/kultur/kino/ari-aster-ueber-eddington-der-western-lehrt-uns-wie-seltsam-unser-leben-ist-a-78245800-166a-4306-8e4f-a3be5ae1c763#ref=rss)
+* [https://www.spiegel.de/auto/verkehrswende-in-new-york-warum-new-york-jetzt-e-bikes-drosselt](https://www.spiegel.de/auto/verkehrswende-in-new-york-warum-new-york-jetzt-e-bikes-drosselt-a-d168f1b7-65e0-4248-b730-4ffb2ec5f26a#ref=rss)
+### vogelgrippe
+
+* [https://www.spiegel.de/panorama/1100-puten-im-harz-getoetet-diesmal-war-es-nicht-die-vogelgrippe](https://www.spiegel.de/panorama/1100-puten-im-harz-getoetet-diesmal-war-es-nicht-die-vogelgrippe-a-ac059607-a1af-41ea-aba5-b0efddb68124#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-wird-von-den-maechten-des-wahnsinns-eingeholt-kolumne](https://www.spiegel.de/ausland/donald-trump-wird-von-den-maechten-des-wahnsinns-eingeholt-kolumne-a-cecc000b-af6f-4f36-8bf3-51e90cea8ad5#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### leonard
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann-a-15f52f2d-17a6-4c45-a7e6-ec4e1bb994b9#ref=rss)
+### riegel
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann-a-15f52f2d-17a6-4c45-a7e6-ec4e1bb994b9#ref=rss)
+### plaßmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann-a-15f52f2d-17a6-4c45-a7e6-ec4e1bb994b9#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann-a-15f52f2d-17a6-4c45-a7e6-ec4e1bb994b9#ref=rss)
+### stuttmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-leonard-riegel-thomas-plassmann-und-klaus-stuttmann-a-15f52f2d-17a6-4c45-a7e6-ec4e1bb994b9#ref=rss)
 
