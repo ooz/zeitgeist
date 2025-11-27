@@ -4,368 +4,366 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### afd
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast](https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast-a-f323267e-fbed-42b5-b41e-cb762c095e72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen](https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-a-ffa309af-41e2-4097-8d64-9aa9944a4180#ref=rss)
-* [https://www.spiegel.de/politik/generaldebatte-im-bundestag-sie-reden-hier-frau-weidel-wie-die-fuenfte-kolonne-putins](https://www.spiegel.de/politik/generaldebatte-im-bundestag-sie-reden-hier-frau-weidel-wie-die-fuenfte-kolonne-putins-a-c2b6462e-c4cd-47ab-89bf-212823a1b4bd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/brandmauer-debatte-in-niesky-wie-cdu-und-afd-einen-wertlosen-sieg-errangen](https://www.spiegel.de/politik/deutschland/brandmauer-debatte-in-niesky-wie-cdu-und-afd-einen-wertlosen-sieg-errangen-a-6bac5e68-ccf7-4752-8c87-22b1d0277b78#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/afd-und-wirtschaft-wo-in-deutschlands-unternehmen-die-brandmauer-broeckelt](https://www.spiegel.de/wirtschaft/unternehmen/afd-und-wirtschaft-wo-in-deutschlands-unternehmen-die-brandmauer-broeckelt-a-2fbbdcd9-fe9a-4b15-8916-fef38563eb48#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-koennen-es-nicht-kommentar](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-koennen-es-nicht-kommentar-a-3f27f4b5-8443-4aa7-a8d0-e2ded8a88e82#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/hongkong-mindestens-13-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/hongkong-mindestens-13-menschen-sterben-bei-hochhausbrand-a-8bccb26c-6770-4e16-96ed-427e02420618#ref=rss)
-* [https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen](https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen-a-8655c55c-7fa7-4315-b4c6-2b6b2cafdb5f#ref=rss)
-* [https://www.spiegel.de/panorama/thailand-flut-trifft-hunderttausende-menschen](https://www.spiegel.de/panorama/thailand-flut-trifft-hunderttausende-menschen-a-4d4830f5-24d6-4643-916e-20796b2cbc6f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bezahlkarte-fuer-menschen-ohne-bankkonto-kommt](https://www.spiegel.de/wirtschaft/bezahlkarte-fuer-menschen-ohne-bankkonto-kommt-a-ed966270-54a0-4b56-acdb-883865637c86#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-ermittlungen-wegen-wahlbeeinflussung-2020-vor-dem-aus](https://www.spiegel.de/ausland/donald-trump-ermittlungen-wegen-wahlbeeinflussung-2020-vor-dem-aus-a-94ca1943-4030-4ce2-9c30-43f2401f9384#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-putin-und-der-ukraine-krieg-was-sie-ueber-den-friedensplan-der-usa-wissen-muessen](https://www.spiegel.de/ausland/donald-trump-putin-und-der-ukraine-krieg-was-sie-ueber-den-friedensplan-der-usa-wissen-muessen-a-b7b60807-b591-42ed-b81c-a409161a3a4e#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-ermittlungen-wegen-wahlbeeinflussung-2020-vor-dem-aus](https://www.spiegel.de/ausland/donald-trump-ermittlungen-wegen-wahlbeeinflussung-2020-vor-dem-aus-a-94ca1943-4030-4ce2-9c30-43f2401f9384#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-putin-und-der-ukraine-krieg-was-sie-ueber-den-friedensplan-der-usa-wissen-muessen](https://www.spiegel.de/ausland/donald-trump-putin-und-der-ukraine-krieg-was-sie-ueber-den-friedensplan-der-usa-wissen-muessen-a-b7b60807-b591-42ed-b81c-a409161a3a4e#ref=rss)
-### familienunternehmer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast](https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast-a-f323267e-fbed-42b5-b41e-cb762c095e72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen](https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-a-ffa309af-41e2-4097-8d64-9aa9944a4180#ref=rss)
-### merz
-
-* [https://www.spiegel.de/kultur/friedrich-merz-und-seine-brot-aussage-merz-das-brot](https://www.spiegel.de/kultur/friedrich-merz-und-seine-brot-aussage-merz-das-brot-a-3efafd3a-8bd5-47a3-8269-7ffdb1e6ed2d#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/wissenschaft/technik/berijew-a-60-ukraine-zerstoert-offenbar-russischen-laserjet-aus-dem-kalten-krieg](https://www.spiegel.de/wissenschaft/technik/berijew-a-60-ukraine-zerstoert-offenbar-russischen-laserjet-aus-dem-kalten-krieg-a-b744e01a-2379-4b0e-aaa2-0e306c4a451f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-putin-und-der-ukraine-krieg-was-sie-ueber-den-friedensplan-der-usa-wissen-muessen](https://www.spiegel.de/ausland/donald-trump-putin-und-der-ukraine-krieg-was-sie-ueber-den-friedensplan-der-usa-wissen-muessen-a-b7b60807-b591-42ed-b81c-a409161a3a4e#ref=rss)
-### brandmauerdebatte
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast](https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast-a-f323267e-fbed-42b5-b41e-cb762c095e72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen](https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-a-ffa309af-41e2-4097-8d64-9aa9944a4180#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/brandmauer-debatte-in-niesky-wie-cdu-und-afd-einen-wertlosen-sieg-errangen](https://www.spiegel.de/politik/deutschland/brandmauer-debatte-in-niesky-wie-cdu-und-afd-einen-wertlosen-sieg-errangen-a-6bac5e68-ccf7-4752-8c87-22b1d0277b78#ref=rss)
-### streit
-
-* [https://www.spiegel.de/politik/generaldebatte-im-bundestag-sie-reden-hier-frau-weidel-wie-die-fuenfte-kolonne-putins](https://www.spiegel.de/politik/generaldebatte-im-bundestag-sie-reden-hier-frau-weidel-wie-die-fuenfte-kolonne-putins-a-c2b6462e-c4cd-47ab-89bf-212823a1b4bd#ref=rss)
-* [https://www.spiegel.de/panorama/menden-toedliche-schuesse-im-sauerland-verdaechtiger-in-serbien-gefasst](https://www.spiegel.de/panorama/menden-toedliche-schuesse-im-sauerland-verdaechtiger-in-serbien-gefasst-a-06090243-5405-4fd8-aea0-90ecd4d565bf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/europaparlament-europaeische-volkspartei-evp-stimmt-mit-rechten-fuer-verschiebung-des-abholzungsgesetzes](https://www.spiegel.de/wirtschaft/europaparlament-europaeische-volkspartei-evp-stimmt-mit-rechten-fuer-verschiebung-des-abholzungsgesetzes-a-22444c85-4303-4c72-bcdf-7349ef90d760#ref=rss)
-### land
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-koennen-es-nicht-kommentar](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-koennen-es-nicht-kommentar-a-3f27f4b5-8443-4aa7-a8d0-e2ded8a88e82#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/emily-aus-moenchengladbach-land-nrw-lehnt-schmerzensgeldforderung-des-vaters-ab](https://www.spiegel.de/panorama/justiz/emily-aus-moenchengladbach-land-nrw-lehnt-schmerzensgeldforderung-des-vaters-ab-a-2264b6a6-29b3-478c-8634-d042b696c7b7#ref=rss)
-### hochschule
-
-* [https://www.spiegel.de/start/iu-internationale-hochschule-die-schattenseiten-der-groessten-deutschen-hochschule](https://www.spiegel.de/start/iu-internationale-hochschule-die-schattenseiten-der-groessten-deutschen-hochschule-a-e874b954-316b-4b09-84ba-c85851d3aea9#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/ausland/nicolas-sarkozy-frankreichs-ex-praesident-erneut-rechtskraeftig-verurteilt](https://www.spiegel.de/ausland/nicolas-sarkozy-frankreichs-ex-praesident-erneut-rechtskraeftig-verurteilt-a-5620e052-2952-47d0-a465-0066769a7ab7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/emily-aus-moenchengladbach-land-nrw-lehnt-schmerzensgeldforderung-des-vaters-ab](https://www.spiegel.de/panorama/justiz/emily-aus-moenchengladbach-land-nrw-lehnt-schmerzensgeldforderung-des-vaters-ab-a-2264b6a6-29b3-478c-8634-d042b696c7b7#ref=rss)
-### laut
-
-* [https://www.spiegel.de/gesundheit/globuli-gegen-krebs-umstrittene-homoeopathie-studie-zurueckgezogen](https://www.spiegel.de/gesundheit/globuli-gegen-krebs-umstrittene-homoeopathie-studie-zurueckgezogen-a-5811f297-c6a4-4b4c-adb4-16b6bc123102#ref=rss)
-* [https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen](https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen-a-8655c55c-7fa7-4315-b4c6-2b6b2cafdb5f#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/gesundheit/globuli-gegen-krebs-umstrittene-homoeopathie-studie-zurueckgezogen](https://www.spiegel.de/gesundheit/globuli-gegen-krebs-umstrittene-homoeopathie-studie-zurueckgezogen-a-5811f297-c6a4-4b4c-adb4-16b6bc123102#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/mars-mini-blitze-in-marsstuermen-wohl-erstmals-nachgewiesen](https://www.spiegel.de/wissenschaft/weltall/mars-mini-blitze-in-marsstuermen-wohl-erstmals-nachgewiesen-a-35db0a6f-e97e-445e-875f-ce7a97423508#ref=rss)
-### mysteriöses
-
-* [https://www.spiegel.de/wissenschaft/mensch/mysterioeses-fragment-das-porno-pergament-aus-der-klosterbibliothek](https://www.spiegel.de/wissenschaft/mensch/mysterioeses-fragment-das-porno-pergament-aus-der-klosterbibliothek-a-a92e90ac-87ae-40f9-9394-2e8fc96d507a#ref=rss)
-### fragment
-
-* [https://www.spiegel.de/wissenschaft/mensch/mysterioeses-fragment-das-porno-pergament-aus-der-klosterbibliothek](https://www.spiegel.de/wissenschaft/mensch/mysterioeses-fragment-das-porno-pergament-aus-der-klosterbibliothek-a-a92e90ac-87ae-40f9-9394-2e8fc96d507a#ref=rss)
-### machte
-
-* [https://www.spiegel.de/wissenschaft/mensch/mysterioeses-fragment-das-porno-pergament-aus-der-klosterbibliothek](https://www.spiegel.de/wissenschaft/mensch/mysterioeses-fragment-das-porno-pergament-aus-der-klosterbibliothek-a-a92e90ac-87ae-40f9-9394-2e8fc96d507a#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-eine-mitarbeiterin-wollte-ueber-rassismus-reden-die-db-liess-sie-nicht](https://www.spiegel.de/panorama/deutsche-bahn-eine-mitarbeiterin-wollte-ueber-rassismus-reden-die-db-liess-sie-nicht-a-8138f60b-95ae-458b-b5af-e871e38c17c8#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/kultur/friedrich-merz-und-seine-brot-aussage-merz-das-brot](https://www.spiegel.de/kultur/friedrich-merz-und-seine-brot-aussage-merz-das-brot-a-3efafd3a-8bd5-47a3-8269-7ffdb1e6ed2d#ref=rss)
-### brot
-
-* [https://www.spiegel.de/kultur/friedrich-merz-und-seine-brot-aussage-merz-das-brot](https://www.spiegel.de/kultur/friedrich-merz-und-seine-brot-aussage-merz-das-brot-a-3efafd3a-8bd5-47a3-8269-7ffdb1e6ed2d#ref=rss)
-### vermisst
-
-* [https://www.spiegel.de/kultur/friedrich-merz-und-seine-brot-aussage-merz-das-brot](https://www.spiegel.de/kultur/friedrich-merz-und-seine-brot-aussage-merz-das-brot-a-3efafd3a-8bd5-47a3-8269-7ffdb1e6ed2d#ref=rss)
-* [https://www.spiegel.de/panorama/hongkong-mindestens-13-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/hongkong-mindestens-13-menschen-sterben-bei-hochhausbrand-a-8bccb26c-6770-4e16-96ed-427e02420618#ref=rss)
-### mars
-
-* [https://www.spiegel.de/wissenschaft/weltall/mars-mini-blitze-in-marsstuermen-wohl-erstmals-nachgewiesen](https://www.spiegel.de/wissenschaft/weltall/mars-mini-blitze-in-marsstuermen-wohl-erstmals-nachgewiesen-a-35db0a6f-e97e-445e-875f-ce7a97423508#ref=rss)
-### nachgewiesen
-
-* [https://www.spiegel.de/wissenschaft/weltall/mars-mini-blitze-in-marsstuermen-wohl-erstmals-nachgewiesen](https://www.spiegel.de/wissenschaft/weltall/mars-mini-blitze-in-marsstuermen-wohl-erstmals-nachgewiesen-a-35db0a6f-e97e-445e-875f-ce7a97423508#ref=rss)
-### berichten
-
-* [https://www.spiegel.de/wissenschaft/weltall/mars-mini-blitze-in-marsstuermen-wohl-erstmals-nachgewiesen](https://www.spiegel.de/wissenschaft/weltall/mars-mini-blitze-in-marsstuermen-wohl-erstmals-nachgewiesen-a-35db0a6f-e97e-445e-875f-ce7a97423508#ref=rss)
-* [https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen](https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen-a-8655c55c-7fa7-4315-b4c6-2b6b2cafdb5f#ref=rss)
-### hätten
-
-* [https://www.spiegel.de/wissenschaft/weltall/mars-mini-blitze-in-marsstuermen-wohl-erstmals-nachgewiesen](https://www.spiegel.de/wissenschaft/weltall/mars-mini-blitze-in-marsstuermen-wohl-erstmals-nachgewiesen-a-35db0a6f-e97e-445e-875f-ce7a97423508#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-verbot-von-palaestina-kongress-war-rechtswidrig](https://www.spiegel.de/panorama/berlin-verbot-von-palaestina-kongress-war-rechtswidrig-a-63ded8b9-9993-4fd2-b1ef-0492f61cf4f4#ref=rss)
-### hongkong
-
-* [https://www.spiegel.de/panorama/hongkong-mindestens-13-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/hongkong-mindestens-13-menschen-sterben-bei-hochhausbrand-a-8bccb26c-6770-4e16-96ed-427e02420618#ref=rss)
-### feuer
-
-* [https://www.spiegel.de/panorama/hongkong-mindestens-13-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/hongkong-mindestens-13-menschen-sterben-bei-hochhausbrand-a-8bccb26c-6770-4e16-96ed-427e02420618#ref=rss)
-### ums
-
-* [https://www.spiegel.de/panorama/hongkong-mindestens-13-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/hongkong-mindestens-13-menschen-sterben-bei-hochhausbrand-a-8bccb26c-6770-4e16-96ed-427e02420618#ref=rss)
-* [https://www.spiegel.de/panorama/thailand-flut-trifft-hunderttausende-menschen](https://www.spiegel.de/panorama/thailand-flut-trifft-hunderttausende-menschen-a-4d4830f5-24d6-4643-916e-20796b2cbc6f#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/hongkong-mindestens-13-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/hongkong-mindestens-13-menschen-sterben-bei-hochhausbrand-a-8bccb26c-6770-4e16-96ed-427e02420618#ref=rss)
-* [https://www.spiegel.de/panorama/thailand-flut-trifft-hunderttausende-menschen](https://www.spiegel.de/panorama/thailand-flut-trifft-hunderttausende-menschen-a-4d4830f5-24d6-4643-916e-20796b2cbc6f#ref=rss)
-### fast
-
-* [https://www.spiegel.de/panorama/hongkong-mindestens-13-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/hongkong-mindestens-13-menschen-sterben-bei-hochhausbrand-a-8bccb26c-6770-4e16-96ed-427e02420618#ref=rss)
-* [https://www.spiegel.de/start/iu-internationale-hochschule-die-schattenseiten-der-groessten-deutschen-hochschule](https://www.spiegel.de/start/iu-internationale-hochschule-die-schattenseiten-der-groessten-deutschen-hochschule-a-e874b954-316b-4b09-84ba-c85851d3aea9#ref=rss)
-### staatschef
-
-* [https://www.spiegel.de/panorama/hongkong-mindestens-13-menschen-sterben-bei-hochhausbrand](https://www.spiegel.de/panorama/hongkong-mindestens-13-menschen-sterben-bei-hochhausbrand-a-8bccb26c-6770-4e16-96ed-427e02420618#ref=rss)
-* [https://www.spiegel.de/ausland/nicolas-sarkozy-frankreichs-ex-praesident-erneut-rechtskraeftig-verurteilt](https://www.spiegel.de/ausland/nicolas-sarkozy-frankreichs-ex-praesident-erneut-rechtskraeftig-verurteilt-a-5620e052-2952-47d0-a465-0066769a7ab7#ref=rss)
-### grenzkontrollen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-drogenkartelle-us-migrationspolitik-klage-gegen-grenzkontrollen](https://www.spiegel.de/politik/deutschland/news-des-tages-drogenkartelle-us-migrationspolitik-klage-gegen-grenzkontrollen-a-3f1a0302-948a-40ab-9af9-38def8e81ff3#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-drogenkartelle-us-migrationspolitik-klage-gegen-grenzkontrollen](https://www.spiegel.de/politik/deutschland/news-des-tages-drogenkartelle-us-migrationspolitik-klage-gegen-grenzkontrollen-a-3f1a0302-948a-40ab-9af9-38def8e81ff3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bezahlkarte-fuer-menschen-ohne-bankkonto-kommt](https://www.spiegel.de/wirtschaft/bezahlkarte-fuer-menschen-ohne-bankkonto-kommt-a-ed966270-54a0-4b56-acdb-883865637c86#ref=rss)
-### drei
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-drogenkartelle-us-migrationspolitik-klage-gegen-grenzkontrollen](https://www.spiegel.de/politik/deutschland/news-des-tages-drogenkartelle-us-migrationspolitik-klage-gegen-grenzkontrollen-a-3f1a0302-948a-40ab-9af9-38def8e81ff3#ref=rss)
-* [https://www.spiegel.de/ausland/nigel-farage-weitere-ex-mitschueler-bestaetigen-rassismusvorwuerfe](https://www.spiegel.de/ausland/nigel-farage-weitere-ex-mitschueler-bestaetigen-rassismusvorwuerfe-a-464b2f10-3120-4311-88db-598b670c4b2e#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-drogenkartelle-us-migrationspolitik-klage-gegen-grenzkontrollen](https://www.spiegel.de/politik/deutschland/news-des-tages-drogenkartelle-us-migrationspolitik-klage-gegen-grenzkontrollen-a-3f1a0302-948a-40ab-9af9-38def8e81ff3#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-eine-mitarbeiterin-wollte-ueber-rassismus-reden-die-db-liess-sie-nicht](https://www.spiegel.de/panorama/deutsche-bahn-eine-mitarbeiterin-wollte-ueber-rassismus-reden-die-db-liess-sie-nicht-a-8138f60b-95ae-458b-b5af-e871e38c17c8#ref=rss)
-### allianz
-
-* [https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen](https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen-a-8655c55c-7fa7-4315-b4c6-2b6b2cafdb5f#ref=rss)
-### versicherungskonzern
-
-* [https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen](https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen-a-8655c55c-7fa7-4315-b4c6-2b6b2cafdb5f#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen](https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen-a-8655c55c-7fa7-4315-b4c6-2b6b2cafdb5f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/berijew-a-60-ukraine-zerstoert-offenbar-russischen-laserjet-aus-dem-kalten-krieg](https://www.spiegel.de/wissenschaft/technik/berijew-a-60-ukraine-zerstoert-offenbar-russischen-laserjet-aus-dem-kalten-krieg-a-b744e01a-2379-4b0e-aaa2-0e306c4a451f#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen](https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen-a-8655c55c-7fa7-4315-b4c6-2b6b2cafdb5f#ref=rss)
-### 1500
-
-* [https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen](https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen-a-8655c55c-7fa7-4315-b4c6-2b6b2cafdb5f#ref=rss)
-### ersetzen
-
-* [https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen](https://www.spiegel.de/wirtschaft/allianz-partners-versicherungskonzern-will-offenbar-mehr-als-1500-stellen-durch-ki-ersetzen-a-8655c55c-7fa7-4315-b4c6-2b6b2cafdb5f#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/wissenschaft/technik/berijew-a-60-ukraine-zerstoert-offenbar-russischen-laserjet-aus-dem-kalten-krieg](https://www.spiegel.de/wissenschaft/technik/berijew-a-60-ukraine-zerstoert-offenbar-russischen-laserjet-aus-dem-kalten-krieg-a-b744e01a-2379-4b0e-aaa2-0e306c4a451f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-putin-und-der-ukraine-krieg-was-sie-ueber-den-friedensplan-der-usa-wissen-muessen](https://www.spiegel.de/ausland/donald-trump-putin-und-der-ukraine-krieg-was-sie-ueber-den-friedensplan-der-usa-wissen-muessen-a-b7b60807-b591-42ed-b81c-a409161a3a4e#ref=rss)
-### ermittlungen
-
-* [https://www.spiegel.de/ausland/donald-trump-ermittlungen-wegen-wahlbeeinflussung-2020-vor-dem-aus](https://www.spiegel.de/ausland/donald-trump-ermittlungen-wegen-wahlbeeinflussung-2020-vor-dem-aus-a-94ca1943-4030-4ce2-9c30-43f2401f9384#ref=rss)
-### 2020
-
-* [https://www.spiegel.de/ausland/donald-trump-ermittlungen-wegen-wahlbeeinflussung-2020-vor-dem-aus](https://www.spiegel.de/ausland/donald-trump-ermittlungen-wegen-wahlbeeinflussung-2020-vor-dem-aus-a-94ca1943-4030-4ce2-9c30-43f2401f9384#ref=rss)
-### einfluss
-
-* [https://www.spiegel.de/ausland/donald-trump-ermittlungen-wegen-wahlbeeinflussung-2020-vor-dem-aus](https://www.spiegel.de/ausland/donald-trump-ermittlungen-wegen-wahlbeeinflussung-2020-vor-dem-aus-a-94ca1943-4030-4ce2-9c30-43f2401f9384#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-putin-und-der-ukraine-krieg-was-sie-ueber-den-friedensplan-der-usa-wissen-muessen](https://www.spiegel.de/ausland/donald-trump-putin-und-der-ukraine-krieg-was-sie-ueber-den-friedensplan-der-usa-wissen-muessen-a-b7b60807-b591-42ed-b81c-a409161a3a4e#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/donald-trump-putin-und-der-ukraine-krieg-was-sie-ueber-den-friedensplan-der-usa-wissen-muessen](https://www.spiegel.de/ausland/donald-trump-putin-und-der-ukraine-krieg-was-sie-ueber-den-friedensplan-der-usa-wissen-muessen-a-b7b60807-b591-42ed-b81c-a409161a3a4e#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/donald-trump-putin-und-der-ukraine-krieg-was-sie-ueber-den-friedensplan-der-usa-wissen-muessen](https://www.spiegel.de/ausland/donald-trump-putin-und-der-ukraine-krieg-was-sie-ueber-den-friedensplan-der-usa-wissen-muessen-a-b7b60807-b591-42ed-b81c-a409161a3a4e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/afd-und-wirtschaft-wo-in-deutschlands-unternehmen-die-brandmauer-broeckelt](https://www.spiegel.de/wirtschaft/unternehmen/afd-und-wirtschaft-wo-in-deutschlands-unternehmen-die-brandmauer-broeckelt-a-2fbbdcd9-fe9a-4b15-8916-fef38563eb48#ref=rss)
-### wo
-
-* [https://www.spiegel.de/ausland/donald-trump-putin-und-der-ukraine-krieg-was-sie-ueber-den-friedensplan-der-usa-wissen-muessen](https://www.spiegel.de/ausland/donald-trump-putin-und-der-ukraine-krieg-was-sie-ueber-den-friedensplan-der-usa-wissen-muessen-a-b7b60807-b591-42ed-b81c-a409161a3a4e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/afd-und-wirtschaft-wo-in-deutschlands-unternehmen-die-brandmauer-broeckelt](https://www.spiegel.de/wirtschaft/unternehmen/afd-und-wirtschaft-wo-in-deutschlands-unternehmen-die-brandmauer-broeckelt-a-2fbbdcd9-fe9a-4b15-8916-fef38563eb48#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/berlin-verbot-von-palaestina-kongress-war-rechtswidrig](https://www.spiegel.de/panorama/berlin-verbot-von-palaestina-kongress-war-rechtswidrig-a-63ded8b9-9993-4fd2-b1ef-0492f61cf4f4#ref=rss)
-### verbot
-
-* [https://www.spiegel.de/panorama/berlin-verbot-von-palaestina-kongress-war-rechtswidrig](https://www.spiegel.de/panorama/berlin-verbot-von-palaestina-kongress-war-rechtswidrig-a-63ded8b9-9993-4fd2-b1ef-0492f61cf4f4#ref=rss)
-### china
-
-* [https://www.spiegel.de/auto/shanghai-nach-buenos-aires-chinesische-airline-china-eastern-kuendigt-laengsten-direktflug-der-welt-an](https://www.spiegel.de/auto/shanghai-nach-buenos-aires-chinesische-airline-china-eastern-kuendigt-laengsten-direktflug-der-welt-an-a-0e1f751a-3ded-4ce8-8230-8281f4344c7e#ref=rss)
-### eastern
-
-* [https://www.spiegel.de/auto/shanghai-nach-buenos-aires-chinesische-airline-china-eastern-kuendigt-laengsten-direktflug-der-welt-an](https://www.spiegel.de/auto/shanghai-nach-buenos-aires-chinesische-airline-china-eastern-kuendigt-laengsten-direktflug-der-welt-an-a-0e1f751a-3ded-4ce8-8230-8281f4344c7e#ref=rss)
-### wenigen
-
-* [https://www.spiegel.de/auto/shanghai-nach-buenos-aires-chinesische-airline-china-eastern-kuendigt-laengsten-direktflug-der-welt-an](https://www.spiegel.de/auto/shanghai-nach-buenos-aires-chinesische-airline-china-eastern-kuendigt-laengsten-direktflug-der-welt-an-a-0e1f751a-3ded-4ce8-8230-8281f4344c7e#ref=rss)
-* [https://www.spiegel.de/start/iu-internationale-hochschule-die-schattenseiten-der-groessten-deutschen-hochschule](https://www.spiegel.de/start/iu-internationale-hochschule-die-schattenseiten-der-groessten-deutschen-hochschule-a-e874b954-316b-4b09-84ba-c85851d3aea9#ref=rss)
-### los
-
-* [https://www.spiegel.de/auto/shanghai-nach-buenos-aires-chinesische-airline-china-eastern-kuendigt-laengsten-direktflug-der-welt-an](https://www.spiegel.de/auto/shanghai-nach-buenos-aires-chinesische-airline-china-eastern-kuendigt-laengsten-direktflug-der-welt-an-a-0e1f751a-3ded-4ce8-8230-8281f4344c7e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/brandmauer-debatte-in-niesky-wie-cdu-und-afd-einen-wertlosen-sieg-errangen](https://www.spiegel.de/politik/deutschland/brandmauer-debatte-in-niesky-wie-cdu-und-afd-einen-wertlosen-sieg-errangen-a-6bac5e68-ccf7-4752-8c87-22b1d0277b78#ref=rss)
-### nähe
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast](https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast-a-f323267e-fbed-42b5-b41e-cb762c095e72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen](https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-a-ffa309af-41e2-4097-8d64-9aa9944a4180#ref=rss)
-### suchen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast](https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast-a-f323267e-fbed-42b5-b41e-cb762c095e72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen](https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-a-ffa309af-41e2-4097-8d64-9aa9944a4180#ref=rss)
-### verband
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast](https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast-a-f323267e-fbed-42b5-b41e-cb762c095e72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen](https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-a-ffa309af-41e2-4097-8d64-9aa9944a4180#ref=rss)
-### lädt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast](https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast-a-f323267e-fbed-42b5-b41e-cb762c095e72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen](https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-a-ffa309af-41e2-4097-8d64-9aa9944a4180#ref=rss)
-### events
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast](https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast-a-f323267e-fbed-42b5-b41e-cb762c095e72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen](https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-a-ffa309af-41e2-4097-8d64-9aa9944a4180#ref=rss)
-### tobt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast](https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast-a-f323267e-fbed-42b5-b41e-cb762c095e72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen](https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-a-ffa309af-41e2-4097-8d64-9aa9944a4180#ref=rss)
-### debatte
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast](https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast-a-f323267e-fbed-42b5-b41e-cb762c095e72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen](https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-a-ffa309af-41e2-4097-8d64-9aa9944a4180#ref=rss)
-### denn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast](https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast-a-f323267e-fbed-42b5-b41e-cb762c095e72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen](https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-a-ffa309af-41e2-4097-8d64-9aa9944a4180#ref=rss)
-### preis
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast](https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast-a-f323267e-fbed-42b5-b41e-cb762c095e72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen](https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-a-ffa309af-41e2-4097-8d64-9aa9944a4180#ref=rss)
-### normalisierung
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast](https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast-a-f323267e-fbed-42b5-b41e-cb762c095e72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen](https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-a-ffa309af-41e2-4097-8d64-9aa9944a4180#ref=rss)
-### hoch
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast](https://www.spiegel.de/wirtschaft/unternehmen/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-podcast-a-f323267e-fbed-42b5-b41e-cb762c095e72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen](https://www.spiegel.de/wirtschaft/brandmauer-debatte-warum-familienunternehmer-die-naehe-zur-afd-suchen-a-ffa309af-41e2-4097-8d64-9aa9944a4180#ref=rss)
-### generaldebatte
-
-* [https://www.spiegel.de/politik/generaldebatte-im-bundestag-sie-reden-hier-frau-weidel-wie-die-fuenfte-kolonne-putins](https://www.spiegel.de/politik/generaldebatte-im-bundestag-sie-reden-hier-frau-weidel-wie-die-fuenfte-kolonne-putins-a-c2b6462e-c4cd-47ab-89bf-212823a1b4bd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-koennen-es-nicht-kommentar](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-koennen-es-nicht-kommentar-a-3f27f4b5-8443-4aa7-a8d0-e2ded8a88e82#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/generaldebatte-im-bundestag-sie-reden-hier-frau-weidel-wie-die-fuenfte-kolonne-putins](https://www.spiegel.de/politik/generaldebatte-im-bundestag-sie-reden-hier-frau-weidel-wie-die-fuenfte-kolonne-putins-a-c2b6462e-c4cd-47ab-89bf-212823a1b4bd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-koennen-es-nicht-kommentar](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-koennen-es-nicht-kommentar-a-3f27f4b5-8443-4aa7-a8d0-e2ded8a88e82#ref=rss)
-### reden
-
-* [https://www.spiegel.de/politik/generaldebatte-im-bundestag-sie-reden-hier-frau-weidel-wie-die-fuenfte-kolonne-putins](https://www.spiegel.de/politik/generaldebatte-im-bundestag-sie-reden-hier-frau-weidel-wie-die-fuenfte-kolonne-putins-a-c2b6462e-c4cd-47ab-89bf-212823a1b4bd#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-eine-mitarbeiterin-wollte-ueber-rassismus-reden-die-db-liess-sie-nicht](https://www.spiegel.de/panorama/deutsche-bahn-eine-mitarbeiterin-wollte-ueber-rassismus-reden-die-db-liess-sie-nicht-a-8138f60b-95ae-458b-b5af-e871e38c17c8#ref=rss)
-### weidel
-
-* [https://www.spiegel.de/politik/generaldebatte-im-bundestag-sie-reden-hier-frau-weidel-wie-die-fuenfte-kolonne-putins](https://www.spiegel.de/politik/generaldebatte-im-bundestag-sie-reden-hier-frau-weidel-wie-die-fuenfte-kolonne-putins-a-c2b6462e-c4cd-47ab-89bf-212823a1b4bd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-koennen-es-nicht-kommentar](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-koennen-es-nicht-kommentar-a-3f27f4b5-8443-4aa7-a8d0-e2ded8a88e82#ref=rss)
-### darüber
-
-* [https://www.spiegel.de/politik/generaldebatte-im-bundestag-sie-reden-hier-frau-weidel-wie-die-fuenfte-kolonne-putins](https://www.spiegel.de/politik/generaldebatte-im-bundestag-sie-reden-hier-frau-weidel-wie-die-fuenfte-kolonne-putins-a-c2b6462e-c4cd-47ab-89bf-212823a1b4bd#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-eine-mitarbeiterin-wollte-ueber-rassismus-reden-die-db-liess-sie-nicht](https://www.spiegel.de/panorama/deutsche-bahn-eine-mitarbeiterin-wollte-ueber-rassismus-reden-die-db-liess-sie-nicht-a-8138f60b-95ae-458b-b5af-e871e38c17c8#ref=rss)
-### niesky
-
-* [https://www.spiegel.de/politik/deutschland/brandmauer-debatte-in-niesky-wie-cdu-und-afd-einen-wertlosen-sieg-errangen](https://www.spiegel.de/politik/deutschland/brandmauer-debatte-in-niesky-wie-cdu-und-afd-einen-wertlosen-sieg-errangen-a-6bac5e68-ccf7-4752-8c87-22b1d0277b78#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/brandmauer-debatte-in-niesky-wie-cdu-und-afd-einen-wertlosen-sieg-errangen](https://www.spiegel.de/politik/deutschland/brandmauer-debatte-in-niesky-wie-cdu-und-afd-einen-wertlosen-sieg-errangen-a-6bac5e68-ccf7-4752-8c87-22b1d0277b78#ref=rss)
-### rechtsextremen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/afd-und-wirtschaft-wo-in-deutschlands-unternehmen-die-brandmauer-broeckelt](https://www.spiegel.de/wirtschaft/unternehmen/afd-und-wirtschaft-wo-in-deutschlands-unternehmen-die-brandmauer-broeckelt-a-2fbbdcd9-fe9a-4b15-8916-fef38563eb48#ref=rss)
-* [https://www.spiegel.de/wirtschaft/europaparlament-europaeische-volkspartei-evp-stimmt-mit-rechten-fuer-verschiebung-des-abholzungsgesetzes](https://www.spiegel.de/wirtschaft/europaparlament-europaeische-volkspartei-evp-stimmt-mit-rechten-fuer-verschiebung-des-abholzungsgesetzes-a-22444c85-4303-4c72-bcdf-7349ef90d760#ref=rss)
-### partei
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/afd-und-wirtschaft-wo-in-deutschlands-unternehmen-die-brandmauer-broeckelt](https://www.spiegel.de/wirtschaft/unternehmen/afd-und-wirtschaft-wo-in-deutschlands-unternehmen-die-brandmauer-broeckelt-a-2fbbdcd9-fe9a-4b15-8916-fef38563eb48#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-koennen-es-nicht-kommentar](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-koennen-es-nicht-kommentar-a-3f27f4b5-8443-4aa7-a8d0-e2ded8a88e82#ref=rss)
-### thailand
-
-* [https://www.spiegel.de/panorama/thailand-flut-trifft-hunderttausende-menschen](https://www.spiegel.de/panorama/thailand-flut-trifft-hunderttausende-menschen-a-4d4830f5-24d6-4643-916e-20796b2cbc6f#ref=rss)
-### trifft
-
-* [https://www.spiegel.de/panorama/thailand-flut-trifft-hunderttausende-menschen](https://www.spiegel.de/panorama/thailand-flut-trifft-hunderttausende-menschen-a-4d4830f5-24d6-4643-916e-20796b2cbc6f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-arsenal-gegen-den-fc-bayern-muenchen-wenn-der-staerkste-sturm-auf-die-beste-abwehr-europas-trifft](https://www.spiegel.de/sport/fussball/champions-league-arsenal-gegen-den-fc-bayern-muenchen-wenn-der-staerkste-sturm-auf-die-beste-abwehr-europas-trifft-a-d1bd6ba2-dc59-4bbe-9ef6-3dd4c646fa3f#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/wirtschaft/bezahlkarte-fuer-menschen-ohne-bankkonto-kommt](https://www.spiegel.de/wirtschaft/bezahlkarte-fuer-menschen-ohne-bankkonto-kommt-a-ed966270-54a0-4b56-acdb-883865637c86#ref=rss)
-* [https://www.spiegel.de/start/iu-internationale-hochschule-die-schattenseiten-der-groessten-deutschen-hochschule](https://www.spiegel.de/start/iu-internationale-hochschule-die-schattenseiten-der-groessten-deutschen-hochschule-a-e874b954-316b-4b09-84ba-c85851d3aea9#ref=rss)
-### bankkonto
-
-* [https://www.spiegel.de/wirtschaft/bezahlkarte-fuer-menschen-ohne-bankkonto-kommt](https://www.spiegel.de/wirtschaft/bezahlkarte-fuer-menschen-ohne-bankkonto-kommt-a-ed966270-54a0-4b56-acdb-883865637c86#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-koennen-es-nicht-kommentar](https://www.spiegel.de/politik/deutschland/afd-im-bundestag-die-koennen-es-nicht-kommentar-a-3f27f4b5-8443-4aa7-a8d0-e2ded8a88e82#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-arsenal-gegen-den-fc-bayern-muenchen-wenn-der-staerkste-sturm-auf-die-beste-abwehr-europas-trifft](https://www.spiegel.de/sport/fussball/champions-league-arsenal-gegen-den-fc-bayern-muenchen-wenn-der-staerkste-sturm-auf-die-beste-abwehr-europas-trifft-a-d1bd6ba2-dc59-4bbe-9ef6-3dd4c646fa3f#ref=rss)
 ### fc
 
-* [https://www.spiegel.de/sport/fussball/champions-league-arsenal-gegen-den-fc-bayern-muenchen-wenn-der-staerkste-sturm-auf-die-beste-abwehr-europas-trifft](https://www.spiegel.de/sport/fussball/champions-league-arsenal-gegen-den-fc-bayern-muenchen-wenn-der-staerkste-sturm-auf-die-beste-abwehr-europas-trifft-a-d1bd6ba2-dc59-4bbe-9ef6-3dd4c646fa3f#ref=rss)
-### arsenal
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-verliert-beim-fc-arsenal-wie-der-fcb-seine-souveraenitaet-verlor](https://www.spiegel.de/sport/fussball/bayern-muenchen-verliert-beim-fc-arsenal-wie-der-fcb-seine-souveraenitaet-verlor-a-1a7ad7f8-ae27-4668-8d14-02c6a33495f7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-arsenal-vs-fc-bayern-muenchen-pressestimmen-zum-sieg-der-englaender](https://www.spiegel.de/sport/fussball/fc-arsenal-vs-fc-bayern-muenchen-pressestimmen-zum-sieg-der-englaender-a-ae8792e9-df05-4669-934f-892f55020975#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/fussball/champions-league-arsenal-gegen-den-fc-bayern-muenchen-wenn-der-staerkste-sturm-auf-die-beste-abwehr-europas-trifft](https://www.spiegel.de/sport/fussball/champions-league-arsenal-gegen-den-fc-bayern-muenchen-wenn-der-staerkste-sturm-auf-die-beste-abwehr-europas-trifft-a-d1bd6ba2-dc59-4bbe-9ef6-3dd4c646fa3f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-festnahme-des-mutmasslichen-taeters-in-washington](https://www.spiegel.de/ausland/donald-trump-festnahme-des-mutmasslichen-taeters-in-washington-a-441e2299-c6de-4111-a396-ec4c35413223#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ist-wachs-in-den-haenden-von-wladimir-putin-kommentar](https://www.spiegel.de/ausland/donald-trump-ist-wachs-in-den-haenden-von-wladimir-putin-kommentar-a-a89874a2-f717-42d0-926c-3b50780c33fc#ref=rss)
+* [https://www.spiegel.de/ausland/russland-und-leaks-zu-ukraine-verhandlungen-wenn-der-kreml-beamte-ueber-whatsapp-telefoniert](https://www.spiegel.de/ausland/russland-und-leaks-zu-ukraine-verhandlungen-wenn-der-kreml-beamte-ueber-whatsapp-telefoniert-a-a25311e8-406d-4d84-9a60-db9b8535e26d#ref=rss)
+* [https://www.spiegel.de/ausland/streit-mit-china-donald-trump-legt-japans-premierministerin-zurueckhaltung-bei-taiwan-nahe](https://www.spiegel.de/ausland/streit-mit-china-donald-trump-legt-japans-premierministerin-zurueckhaltung-bei-taiwan-nahe-a-e51d4707-4cf0-4e95-8cb3-ee2b9a4ff45f#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/netzwelt/web/764-und-white-tiger-das-ist-das-wahre-ausmass-der-kinderquaeler-szene](https://www.spiegel.de/netzwelt/web/764-und-white-tiger-das-ist-das-wahre-ausmass-der-kinderquaeler-szene-a-fa447f87-325a-4682-bfaa-c3f9d8496b4b#ref=rss)
+* [https://www.spiegel.de/ausland/zbigniew-ziobro-in-ungarn-polnischer-ex-minister-wird-vom-sheriff-zum-justizfluechtling](https://www.spiegel.de/ausland/zbigniew-ziobro-in-ungarn-polnischer-ex-minister-wird-vom-sheriff-zum-justizfluechtling-a-fb2d0b9c-5bd4-4191-9644-8751066f182e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/start-ups-deutschland-und-europa-bei-risikokapital-weit-abgehaengt](https://www.spiegel.de/wirtschaft/start-ups-deutschland-und-europa-bei-risikokapital-weit-abgehaengt-a-72cc46c6-d12f-4963-b698-5df4b829c692#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/onlinehandel-hohe-retourenquote-belastet-haendler](https://www.spiegel.de/wirtschaft/service/onlinehandel-hohe-retourenquote-belastet-haendler-a-c40f66da-1cc4-4674-b69b-2dd56744e6fb#ref=rss)
 ### bayern
 
-* [https://www.spiegel.de/sport/fussball/champions-league-arsenal-gegen-den-fc-bayern-muenchen-wenn-der-staerkste-sturm-auf-die-beste-abwehr-europas-trifft](https://www.spiegel.de/sport/fussball/champions-league-arsenal-gegen-den-fc-bayern-muenchen-wenn-der-staerkste-sturm-auf-die-beste-abwehr-europas-trifft-a-d1bd6ba2-dc59-4bbe-9ef6-3dd4c646fa3f#ref=rss)
-### europas
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-verliert-beim-fc-arsenal-wie-der-fcb-seine-souveraenitaet-verlor](https://www.spiegel.de/sport/fussball/bayern-muenchen-verliert-beim-fc-arsenal-wie-der-fcb-seine-souveraenitaet-verlor-a-1a7ad7f8-ae27-4668-8d14-02c6a33495f7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-arsenal-vs-fc-bayern-muenchen-pressestimmen-zum-sieg-der-englaender](https://www.spiegel.de/sport/fussball/fc-arsenal-vs-fc-bayern-muenchen-pressestimmen-zum-sieg-der-englaender-a-ae8792e9-df05-4669-934f-892f55020975#ref=rss)
+### arsenal
 
-* [https://www.spiegel.de/sport/fussball/champions-league-arsenal-gegen-den-fc-bayern-muenchen-wenn-der-staerkste-sturm-auf-die-beste-abwehr-europas-trifft](https://www.spiegel.de/sport/fussball/champions-league-arsenal-gegen-den-fc-bayern-muenchen-wenn-der-staerkste-sturm-auf-die-beste-abwehr-europas-trifft-a-d1bd6ba2-dc59-4bbe-9ef6-3dd4c646fa3f#ref=rss)
-### niemand
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-verliert-beim-fc-arsenal-wie-der-fcb-seine-souveraenitaet-verlor](https://www.spiegel.de/sport/fussball/bayern-muenchen-verliert-beim-fc-arsenal-wie-der-fcb-seine-souveraenitaet-verlor-a-1a7ad7f8-ae27-4668-8d14-02c6a33495f7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-arsenal-vs-fc-bayern-muenchen-pressestimmen-zum-sieg-der-englaender](https://www.spiegel.de/sport/fussball/fc-arsenal-vs-fc-bayern-muenchen-pressestimmen-zum-sieg-der-englaender-a-ae8792e9-df05-4669-934f-892f55020975#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/fussball/champions-league-arsenal-gegen-den-fc-bayern-muenchen-wenn-der-staerkste-sturm-auf-die-beste-abwehr-europas-trifft](https://www.spiegel.de/sport/fussball/champions-league-arsenal-gegen-den-fc-bayern-muenchen-wenn-der-staerkste-sturm-auf-die-beste-abwehr-europas-trifft-a-d1bd6ba2-dc59-4bbe-9ef6-3dd4c646fa3f#ref=rss)
-### viele
+* [https://www.spiegel.de/ausland/donald-trump-festnahme-des-mutmasslichen-taeters-in-washington](https://www.spiegel.de/ausland/donald-trump-festnahme-des-mutmasslichen-taeters-in-washington-a-441e2299-c6de-4111-a396-ec4c35413223#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ist-wachs-in-den-haenden-von-wladimir-putin-kommentar](https://www.spiegel.de/ausland/donald-trump-ist-wachs-in-den-haenden-von-wladimir-putin-kommentar-a-a89874a2-f717-42d0-926c-3b50780c33fc#ref=rss)
+* [https://www.spiegel.de/ausland/streit-mit-china-donald-trump-legt-japans-premierministerin-zurueckhaltung-bei-taiwan-nahe](https://www.spiegel.de/ausland/streit-mit-china-donald-trump-legt-japans-premierministerin-zurueckhaltung-bei-taiwan-nahe-a-e51d4707-4cf0-4e95-8cb3-ee2b9a4ff45f#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/sport/fussball/champions-league-arsenal-gegen-den-fc-bayern-muenchen-wenn-der-staerkste-sturm-auf-die-beste-abwehr-europas-trifft](https://www.spiegel.de/sport/fussball/champions-league-arsenal-gegen-den-fc-bayern-muenchen-wenn-der-staerkste-sturm-auf-die-beste-abwehr-europas-trifft-a-d1bd6ba2-dc59-4bbe-9ef6-3dd4c646fa3f#ref=rss)
-* [https://www.spiegel.de/start/iu-internationale-hochschule-die-schattenseiten-der-groessten-deutschen-hochschule](https://www.spiegel.de/start/iu-internationale-hochschule-die-schattenseiten-der-groessten-deutschen-hochschule-a-e874b954-316b-4b09-84ba-c85851d3aea9#ref=rss)
-### priester
+* [https://www.spiegel.de/ausland/donald-trump-festnahme-des-mutmasslichen-taeters-in-washington](https://www.spiegel.de/ausland/donald-trump-festnahme-des-mutmasslichen-taeters-in-washington-a-441e2299-c6de-4111-a396-ec4c35413223#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rente-philipp-tuermer-und-pascal-reddig-im-spitzengespraech-merz-lernt-noch-im-job](https://www.spiegel.de/politik/deutschland/rente-philipp-tuermer-und-pascal-reddig-im-spitzengespraech-merz-lernt-noch-im-job-a-73b12895-d0a5-4803-9641-4d59076e8349#ref=rss)
+* [https://www.spiegel.de/ausland/russland-und-leaks-zu-ukraine-verhandlungen-wenn-der-kreml-beamte-ueber-whatsapp-telefoniert](https://www.spiegel.de/ausland/russland-und-leaks-zu-ukraine-verhandlungen-wenn-der-kreml-beamte-ueber-whatsapp-telefoniert-a-a25311e8-406d-4d84-9a60-db9b8535e26d#ref=rss)
+* [https://www.spiegel.de/panorama/china-elf-schienenarbeiter-von-zug-erfasst-und-getoetet](https://www.spiegel.de/panorama/china-elf-schienenarbeiter-von-zug-erfasst-und-getoetet-a-70500123-19bf-45a9-b017-bac8e2651b9d#ref=rss)
+### white
 
-* [https://www.spiegel.de/kultur/wake-up-dead-man-aus-der-netflix-knives-out-reihe-der-dandy-und-der-priester](https://www.spiegel.de/kultur/wake-up-dead-man-aus-der-netflix-knives-out-reihe-der-dandy-und-der-priester-a-4babd300-3e7a-4049-adb8-f1193cc21437#ref=rss)
-### iu
+* [https://www.spiegel.de/panorama/justiz/white-tiger-wie-der-spiegel-zum-netz-der-paedokriminellen-sadisten-recherchierte-podcast](https://www.spiegel.de/panorama/justiz/white-tiger-wie-der-spiegel-zum-netz-der-paedokriminellen-sadisten-recherchierte-podcast-a-69201320-8c22-45b1-9a31-a186f71f80ea#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/764-und-white-tiger-das-ist-das-wahre-ausmass-der-kinderquaeler-szene](https://www.spiegel.de/netzwelt/web/764-und-white-tiger-das-ist-das-wahre-ausmass-der-kinderquaeler-szene-a-fa447f87-325a-4682-bfaa-c3f9d8496b4b#ref=rss)
+### tiger
 
-* [https://www.spiegel.de/start/iu-internationale-hochschule-die-schattenseiten-der-groessten-deutschen-hochschule](https://www.spiegel.de/start/iu-internationale-hochschule-die-schattenseiten-der-groessten-deutschen-hochschule-a-e874b954-316b-4b09-84ba-c85851d3aea9#ref=rss)
-### deutschen
+* [https://www.spiegel.de/panorama/justiz/white-tiger-wie-der-spiegel-zum-netz-der-paedokriminellen-sadisten-recherchierte-podcast](https://www.spiegel.de/panorama/justiz/white-tiger-wie-der-spiegel-zum-netz-der-paedokriminellen-sadisten-recherchierte-podcast-a-69201320-8c22-45b1-9a31-a186f71f80ea#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/764-und-white-tiger-das-ist-das-wahre-ausmass-der-kinderquaeler-szene](https://www.spiegel.de/netzwelt/web/764-und-white-tiger-das-ist-das-wahre-ausmass-der-kinderquaeler-szene-a-fa447f87-325a-4682-bfaa-c3f9d8496b4b#ref=rss)
+### fall
 
-* [https://www.spiegel.de/start/iu-internationale-hochschule-die-schattenseiten-der-groessten-deutschen-hochschule](https://www.spiegel.de/start/iu-internationale-hochschule-die-schattenseiten-der-groessten-deutschen-hochschule-a-e874b954-316b-4b09-84ba-c85851d3aea9#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-eine-mitarbeiterin-wollte-ueber-rassismus-reden-die-db-liess-sie-nicht](https://www.spiegel.de/panorama/deutsche-bahn-eine-mitarbeiterin-wollte-ueber-rassismus-reden-die-db-liess-sie-nicht-a-8138f60b-95ae-458b-b5af-e871e38c17c8#ref=rss)
-### sarkozy
+* [https://www.spiegel.de/panorama/justiz/white-tiger-wie-der-spiegel-zum-netz-der-paedokriminellen-sadisten-recherchierte-podcast](https://www.spiegel.de/panorama/justiz/white-tiger-wie-der-spiegel-zum-netz-der-paedokriminellen-sadisten-recherchierte-podcast-a-69201320-8c22-45b1-9a31-a186f71f80ea#ref=rss)
+* [https://www.spiegel.de/ausland/zbigniew-ziobro-in-ungarn-polnischer-ex-minister-wird-vom-sheriff-zum-justizfluechtling](https://www.spiegel.de/ausland/zbigniew-ziobro-in-ungarn-polnischer-ex-minister-wird-vom-sheriff-zum-justizfluechtling-a-fb2d0b9c-5bd4-4191-9644-8751066f182e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-affaere-wolfram-weimer-echte-freunde-stehen-zusammen](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-affaere-wolfram-weimer-echte-freunde-stehen-zusammen-a-cd01a9f9-3b65-499d-aa9f-6e6c5f993f34#ref=rss)
+### bargeld
 
-* [https://www.spiegel.de/ausland/nicolas-sarkozy-frankreichs-ex-praesident-erneut-rechtskraeftig-verurteilt](https://www.spiegel.de/ausland/nicolas-sarkozy-frankreichs-ex-praesident-erneut-rechtskraeftig-verurteilt-a-5620e052-2952-47d0-a465-0066769a7ab7#ref=rss)
-### tödliche
+* [https://www.spiegel.de/wirtschaft/service/bargeld-eu-will-zugang-zu-bargeld-erleichtern-auch-ohne-einkauf-im-supermarkt](https://www.spiegel.de/wirtschaft/service/bargeld-eu-will-zugang-zu-bargeld-erleichtern-auch-ohne-einkauf-im-supermarkt-a-ed21a516-1c1d-4621-b814-e3be512cb38f#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/menden-toedliche-schuesse-im-sauerland-verdaechtiger-in-serbien-gefasst](https://www.spiegel.de/panorama/menden-toedliche-schuesse-im-sauerland-verdaechtiger-in-serbien-gefasst-a-06090243-5405-4fd8-aea0-90ecd4d565bf#ref=rss)
-### sauerland
+* [https://www.spiegel.de/wirtschaft/service/bargeld-eu-will-zugang-zu-bargeld-erleichtern-auch-ohne-einkauf-im-supermarkt](https://www.spiegel.de/wirtschaft/service/bargeld-eu-will-zugang-zu-bargeld-erleichtern-auch-ohne-einkauf-im-supermarkt-a-ed21a516-1c1d-4621-b814-e3be512cb38f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/start-ups-deutschland-und-europa-bei-risikokapital-weit-abgehaengt](https://www.spiegel.de/wirtschaft/start-ups-deutschland-und-europa-bei-risikokapital-weit-abgehaengt-a-72cc46c6-d12f-4963-b698-5df4b829c692#ref=rss)
+* [https://www.spiegel.de/wissenschaft/drittmittel-in-der-forschung-neue-studie-zur-vergabe-luebecker-forscher-soeren-krach-schlaegt-fruehe-lotterie-vor](https://www.spiegel.de/wissenschaft/drittmittel-in-der-forschung-neue-studie-zur-vergabe-luebecker-forscher-soeren-krach-schlaegt-fruehe-lotterie-vor-a-54cbfd93-b0cf-4d2d-8efb-37f580ff11ad#ref=rss)
+### familie
 
-* [https://www.spiegel.de/panorama/menden-toedliche-schuesse-im-sauerland-verdaechtiger-in-serbien-gefasst](https://www.spiegel.de/panorama/menden-toedliche-schuesse-im-sauerland-verdaechtiger-in-serbien-gefasst-a-06090243-5405-4fd8-aea0-90ecd4d565bf#ref=rss)
-### serbien
+* [https://www.spiegel.de/panorama/justiz/tuerkei-gutachten-bestaetigt-vergiftung-durch-schaedlingsbekaempfungsmittel](https://www.spiegel.de/panorama/justiz/tuerkei-gutachten-bestaetigt-vergiftung-durch-schaedlingsbekaempfungsmittel-a-d7bca23b-bab2-4378-a3fc-8a9f8a25787c#ref=rss)
+* [https://www.spiegel.de/ausland/ex-hamas-geisel-israeli-eli-sharabi-erzaehlt-was-er-im-gazastreifen-erlebt-hat](https://www.spiegel.de/ausland/ex-hamas-geisel-israeli-eli-sharabi-erzaehlt-was-er-im-gazastreifen-erlebt-hat-a-d5066208-d0e1-49f4-9ca3-929e7db60dac#ref=rss)
+### merz
 
-* [https://www.spiegel.de/panorama/menden-toedliche-schuesse-im-sauerland-verdaechtiger-in-serbien-gefasst](https://www.spiegel.de/panorama/menden-toedliche-schuesse-im-sauerland-verdaechtiger-in-serbien-gefasst-a-06090243-5405-4fd8-aea0-90ecd4d565bf#ref=rss)
-### aliexpress
+* [https://www.spiegel.de/politik/deutschland/rente-philipp-tuermer-und-pascal-reddig-im-spitzengespraech-merz-lernt-noch-im-job](https://www.spiegel.de/politik/deutschland/rente-philipp-tuermer-und-pascal-reddig-im-spitzengespraech-merz-lernt-noch-im-job-a-73b12895-d0a5-4803-9641-4d59076e8349#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-affaere-wolfram-weimer-echte-freunde-stehen-zusammen](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-affaere-wolfram-weimer-echte-freunde-stehen-zusammen-a-cd01a9f9-3b65-499d-aa9f-6e6c5f993f34#ref=rss)
+### studie
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/aliexpress-online-marktplatz-reagiert-auf-kritik-und-verbannt-sexpuppen-anbieter](https://www.spiegel.de/wirtschaft/unternehmen/aliexpress-online-marktplatz-reagiert-auf-kritik-und-verbannt-sexpuppen-anbieter-a-edde1a90-8e2b-4504-8792-729e0de359f2#ref=rss)
-### onlinemarktplatz
+* [https://www.spiegel.de/wirtschaft/start-ups-deutschland-und-europa-bei-risikokapital-weit-abgehaengt](https://www.spiegel.de/wirtschaft/start-ups-deutschland-und-europa-bei-risikokapital-weit-abgehaengt-a-72cc46c6-d12f-4963-b698-5df4b829c692#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/onlinehandel-hohe-retourenquote-belastet-haendler](https://www.spiegel.de/wirtschaft/service/onlinehandel-hohe-retourenquote-belastet-haendler-a-c40f66da-1cc4-4674-b69b-2dd56744e6fb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/drittmittel-in-der-forschung-neue-studie-zur-vergabe-luebecker-forscher-soeren-krach-schlaegt-fruehe-lotterie-vor](https://www.spiegel.de/wissenschaft/drittmittel-in-der-forschung-neue-studie-zur-vergabe-luebecker-forscher-soeren-krach-schlaegt-fruehe-lotterie-vor-a-54cbfd93-b0cf-4d2d-8efb-37f580ff11ad#ref=rss)
+### 764
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/aliexpress-online-marktplatz-reagiert-auf-kritik-und-verbannt-sexpuppen-anbieter](https://www.spiegel.de/wirtschaft/unternehmen/aliexpress-online-marktplatz-reagiert-auf-kritik-und-verbannt-sexpuppen-anbieter-a-edde1a90-8e2b-4504-8792-729e0de359f2#ref=rss)
-### verbannt
+* [https://www.spiegel.de/netzwelt/web/764-und-white-tiger-das-ist-das-wahre-ausmass-der-kinderquaeler-szene](https://www.spiegel.de/netzwelt/web/764-und-white-tiger-das-ist-das-wahre-ausmass-der-kinderquaeler-szene-a-fa447f87-325a-4682-bfaa-c3f9d8496b4b#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/aliexpress-online-marktplatz-reagiert-auf-kritik-und-verbannt-sexpuppen-anbieter](https://www.spiegel.de/wirtschaft/unternehmen/aliexpress-online-marktplatz-reagiert-auf-kritik-und-verbannt-sexpuppen-anbieter-a-edde1a90-8e2b-4504-8792-729e0de359f2#ref=rss)
-### nigel
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-verliert-beim-fc-arsenal-wie-der-fcb-seine-souveraenitaet-verlor](https://www.spiegel.de/sport/fussball/bayern-muenchen-verliert-beim-fc-arsenal-wie-der-fcb-seine-souveraenitaet-verlor-a-1a7ad7f8-ae27-4668-8d14-02c6a33495f7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-arsenal-vs-fc-bayern-muenchen-pressestimmen-zum-sieg-der-englaender](https://www.spiegel.de/sport/fussball/fc-arsenal-vs-fc-bayern-muenchen-pressestimmen-zum-sieg-der-englaender-a-ae8792e9-df05-4669-934f-892f55020975#ref=rss)
+### erste
 
-* [https://www.spiegel.de/ausland/nigel-farage-weitere-ex-mitschueler-bestaetigen-rassismusvorwuerfe](https://www.spiegel.de/ausland/nigel-farage-weitere-ex-mitschueler-bestaetigen-rassismusvorwuerfe-a-464b2f10-3120-4311-88db-598b670c4b2e#ref=rss)
-### farage
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-verliert-beim-fc-arsenal-wie-der-fcb-seine-souveraenitaet-verlor](https://www.spiegel.de/sport/fussball/bayern-muenchen-verliert-beim-fc-arsenal-wie-der-fcb-seine-souveraenitaet-verlor-a-1a7ad7f8-ae27-4668-8d14-02c6a33495f7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-bekennt-sich-zu-deutscher-schuld-beim-angriff-auf-guernica](https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-bekennt-sich-zu-deutscher-schuld-beim-angriff-auf-guernica-a-a6d2d8bc-47d4-4acd-a054-e57026854a09#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/ausland/nigel-farage-weitere-ex-mitschueler-bestaetigen-rassismusvorwuerfe](https://www.spiegel.de/ausland/nigel-farage-weitere-ex-mitschueler-bestaetigen-rassismusvorwuerfe-a-464b2f10-3120-4311-88db-598b670c4b2e#ref=rss)
-### emily
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-verliert-beim-fc-arsenal-wie-der-fcb-seine-souveraenitaet-verlor](https://www.spiegel.de/sport/fussball/bayern-muenchen-verliert-beim-fc-arsenal-wie-der-fcb-seine-souveraenitaet-verlor-a-1a7ad7f8-ae27-4668-8d14-02c6a33495f7#ref=rss)
+* [https://www.spiegel.de/ausland/russland-und-leaks-zu-ukraine-verhandlungen-wenn-der-kreml-beamte-ueber-whatsapp-telefoniert](https://www.spiegel.de/ausland/russland-und-leaks-zu-ukraine-verhandlungen-wenn-der-kreml-beamte-ueber-whatsapp-telefoniert-a-a25311e8-406d-4d84-9a60-db9b8535e26d#ref=rss)
+### besonders
 
-* [https://www.spiegel.de/panorama/justiz/emily-aus-moenchengladbach-land-nrw-lehnt-schmerzensgeldforderung-des-vaters-ab](https://www.spiegel.de/panorama/justiz/emily-aus-moenchengladbach-land-nrw-lehnt-schmerzensgeldforderung-des-vaters-ab-a-2264b6a6-29b3-478c-8634-d042b696c7b7#ref=rss)
-### lehnt
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-verliert-beim-fc-arsenal-wie-der-fcb-seine-souveraenitaet-verlor](https://www.spiegel.de/sport/fussball/bayern-muenchen-verliert-beim-fc-arsenal-wie-der-fcb-seine-souveraenitaet-verlor-a-1a7ad7f8-ae27-4668-8d14-02c6a33495f7#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-fuers-brandenburger-tor-fuer-berlin-suchen-wir-einen-besonders-schoenen-aus](https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-fuers-brandenburger-tor-fuer-berlin-suchen-wir-einen-besonders-schoenen-aus-a-c5b13f6f-5c7d-4159-bf44-4d214abc43fe#ref=rss)
+### zbigniew
 
-* [https://www.spiegel.de/panorama/justiz/emily-aus-moenchengladbach-land-nrw-lehnt-schmerzensgeldforderung-des-vaters-ab](https://www.spiegel.de/panorama/justiz/emily-aus-moenchengladbach-land-nrw-lehnt-schmerzensgeldforderung-des-vaters-ab-a-2264b6a6-29b3-478c-8634-d042b696c7b7#ref=rss)
-### bahn
+* [https://www.spiegel.de/ausland/zbigniew-ziobro-in-ungarn-polnischer-ex-minister-wird-vom-sheriff-zum-justizfluechtling](https://www.spiegel.de/ausland/zbigniew-ziobro-in-ungarn-polnischer-ex-minister-wird-vom-sheriff-zum-justizfluechtling-a-fb2d0b9c-5bd4-4191-9644-8751066f182e#ref=rss)
+### ziobro
 
-* [https://www.spiegel.de/panorama/deutsche-bahn-eine-mitarbeiterin-wollte-ueber-rassismus-reden-die-db-liess-sie-nicht](https://www.spiegel.de/panorama/deutsche-bahn-eine-mitarbeiterin-wollte-ueber-rassismus-reden-die-db-liess-sie-nicht-a-8138f60b-95ae-458b-b5af-e871e38c17c8#ref=rss)
-### europaparlament
+* [https://www.spiegel.de/ausland/zbigniew-ziobro-in-ungarn-polnischer-ex-minister-wird-vom-sheriff-zum-justizfluechtling](https://www.spiegel.de/ausland/zbigniew-ziobro-in-ungarn-polnischer-ex-minister-wird-vom-sheriff-zum-justizfluechtling-a-fb2d0b9c-5bd4-4191-9644-8751066f182e#ref=rss)
+### ungarn
 
-* [https://www.spiegel.de/wirtschaft/europaparlament-europaeische-volkspartei-evp-stimmt-mit-rechten-fuer-verschiebung-des-abholzungsgesetzes](https://www.spiegel.de/wirtschaft/europaparlament-europaeische-volkspartei-evp-stimmt-mit-rechten-fuer-verschiebung-des-abholzungsgesetzes-a-22444c85-4303-4c72-bcdf-7349ef90d760#ref=rss)
-### rechten
+* [https://www.spiegel.de/ausland/zbigniew-ziobro-in-ungarn-polnischer-ex-minister-wird-vom-sheriff-zum-justizfluechtling](https://www.spiegel.de/ausland/zbigniew-ziobro-in-ungarn-polnischer-ex-minister-wird-vom-sheriff-zum-justizfluechtling-a-fb2d0b9c-5bd4-4191-9644-8751066f182e#ref=rss)
+### olivia
 
-* [https://www.spiegel.de/wirtschaft/europaparlament-europaeische-volkspartei-evp-stimmt-mit-rechten-fuer-verschiebung-des-abholzungsgesetzes](https://www.spiegel.de/wirtschaft/europaparlament-europaeische-volkspartei-evp-stimmt-mit-rechten-fuer-verschiebung-des-abholzungsgesetzes-a-22444c85-4303-4c72-bcdf-7349ef90d760#ref=rss)
+* [https://www.spiegel.de/wirtschaft/olivia-dean-ticketmaster-reagiert-auf-kritik-und-kappt-wiederverkaufspreis-von-tickets](https://www.spiegel.de/wirtschaft/olivia-dean-ticketmaster-reagiert-auf-kritik-und-kappt-wiederverkaufspreis-von-tickets-a-391d8f73-eb8f-463c-933f-bf4e4dc522fb#ref=rss)
+### dean
+
+* [https://www.spiegel.de/wirtschaft/olivia-dean-ticketmaster-reagiert-auf-kritik-und-kappt-wiederverkaufspreis-von-tickets](https://www.spiegel.de/wirtschaft/olivia-dean-ticketmaster-reagiert-auf-kritik-und-kappt-wiederverkaufspreis-von-tickets-a-391d8f73-eb8f-463c-933f-bf4e4dc522fb#ref=rss)
+### ticketmaster
+
+* [https://www.spiegel.de/wirtschaft/olivia-dean-ticketmaster-reagiert-auf-kritik-und-kappt-wiederverkaufspreis-von-tickets](https://www.spiegel.de/wirtschaft/olivia-dean-ticketmaster-reagiert-auf-kritik-und-kappt-wiederverkaufspreis-von-tickets-a-391d8f73-eb8f-463c-933f-bf4e4dc522fb#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/wirtschaft/olivia-dean-ticketmaster-reagiert-auf-kritik-und-kappt-wiederverkaufspreis-von-tickets](https://www.spiegel.de/wirtschaft/olivia-dean-ticketmaster-reagiert-auf-kritik-und-kappt-wiederverkaufspreis-von-tickets-a-391d8f73-eb8f-463c-933f-bf4e4dc522fb#ref=rss)
+* [https://www.spiegel.de/ausland/nigeria-praesident-bola-tinubu-ruft-sicherheitsnotstand-wegen-entfuehrungen-aus](https://www.spiegel.de/ausland/nigeria-praesident-bola-tinubu-ruft-sicherheitsnotstand-wegen-entfuehrungen-aus-a-0d8aea58-96fd-4b07-894c-766a32933cd4#ref=rss)
+### tickets
+
+* [https://www.spiegel.de/wirtschaft/olivia-dean-ticketmaster-reagiert-auf-kritik-und-kappt-wiederverkaufspreis-von-tickets](https://www.spiegel.de/wirtschaft/olivia-dean-ticketmaster-reagiert-auf-kritik-und-kappt-wiederverkaufspreis-von-tickets-a-391d8f73-eb8f-463c-933f-bf4e4dc522fb#ref=rss)
+### preise
+
+* [https://www.spiegel.de/wirtschaft/olivia-dean-ticketmaster-reagiert-auf-kritik-und-kappt-wiederverkaufspreis-von-tickets](https://www.spiegel.de/wirtschaft/olivia-dean-ticketmaster-reagiert-auf-kritik-und-kappt-wiederverkaufspreis-von-tickets-a-391d8f73-eb8f-463c-933f-bf4e4dc522fb#ref=rss)
+### geld
+
+* [https://www.spiegel.de/wirtschaft/olivia-dean-ticketmaster-reagiert-auf-kritik-und-kappt-wiederverkaufspreis-von-tickets](https://www.spiegel.de/wirtschaft/olivia-dean-ticketmaster-reagiert-auf-kritik-und-kappt-wiederverkaufspreis-von-tickets-a-391d8f73-eb8f-463c-933f-bf4e4dc522fb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/drittmittel-in-der-forschung-neue-studie-zur-vergabe-luebecker-forscher-soeren-krach-schlaegt-fruehe-lotterie-vor](https://www.spiegel.de/wissenschaft/drittmittel-in-der-forschung-neue-studie-zur-vergabe-luebecker-forscher-soeren-krach-schlaegt-fruehe-lotterie-vor-a-54cbfd93-b0cf-4d2d-8efb-37f580ff11ad#ref=rss)
+### erwartet
+
+* [https://www.spiegel.de/politik/deutschland/afd-jugendorganisation-ausnahmezustand-in-giessen-wegen-protesten-erwartet](https://www.spiegel.de/politik/deutschland/afd-jugendorganisation-ausnahmezustand-in-giessen-wegen-protesten-erwartet-a-2651cc4d-955d-47de-8e7f-92a3b15ab014#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/afd-jugendorganisation-ausnahmezustand-in-giessen-wegen-protesten-erwartet](https://www.spiegel.de/politik/deutschland/afd-jugendorganisation-ausnahmezustand-in-giessen-wegen-protesten-erwartet-a-2651cc4d-955d-47de-8e7f-92a3b15ab014#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/afd-und-wirtschaft-gewerkschaften-warnen-vor-rechtskurs-der-familienunternehmer](https://www.spiegel.de/wirtschaft/unternehmen/afd-und-wirtschaft-gewerkschaften-warnen-vor-rechtskurs-der-familienunternehmer-a-59429ea0-c641-430c-bd52-c6810c612314#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/politik/deutschland/afd-jugendorganisation-ausnahmezustand-in-giessen-wegen-protesten-erwartet](https://www.spiegel.de/politik/deutschland/afd-jugendorganisation-ausnahmezustand-in-giessen-wegen-protesten-erwartet-a-2651cc4d-955d-47de-8e7f-92a3b15ab014#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-bekennt-sich-zu-deutscher-schuld-beim-angriff-auf-guernica](https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-bekennt-sich-zu-deutscher-schuld-beim-angriff-auf-guernica-a-a6d2d8bc-47d4-4acd-a054-e57026854a09#ref=rss)
+### quentin
+
+* [https://www.spiegel.de/kultur/kino/quentin-tarantino-echauffiert-sich-ueber-tribute-von-panem](https://www.spiegel.de/kultur/kino/quentin-tarantino-echauffiert-sich-ueber-tribute-von-panem-a-e21f82db-1970-4573-ad68-0d1c90b9ea71#ref=rss)
+### tarantino
+
+* [https://www.spiegel.de/kultur/kino/quentin-tarantino-echauffiert-sich-ueber-tribute-von-panem](https://www.spiegel.de/kultur/kino/quentin-tarantino-echauffiert-sich-ueber-tribute-von-panem-a-e21f82db-1970-4573-ad68-0d1c90b9ea71#ref=rss)
+### tribute
+
+* [https://www.spiegel.de/kultur/kino/quentin-tarantino-echauffiert-sich-ueber-tribute-von-panem](https://www.spiegel.de/kultur/kino/quentin-tarantino-echauffiert-sich-ueber-tribute-von-panem-a-e21f82db-1970-4573-ad68-0d1c90b9ea71#ref=rss)
+### panem
+
+* [https://www.spiegel.de/kultur/kino/quentin-tarantino-echauffiert-sich-ueber-tribute-von-panem](https://www.spiegel.de/kultur/kino/quentin-tarantino-echauffiert-sich-ueber-tribute-von-panem-a-e21f82db-1970-4573-ad68-0d1c90b9ea71#ref=rss)
+### gera
+
+* [https://www.spiegel.de/panorama/justiz/gera-ehefrau-in-strassenbahn-angezuendet-mann-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/gera-ehefrau-in-strassenbahn-angezuendet-mann-zu-lebenslanger-haft-verurteilt-a-91ab2814-95d6-4252-a945-eee2471ce27f#ref=rss)
+### ehefrau
+
+* [https://www.spiegel.de/panorama/justiz/gera-ehefrau-in-strassenbahn-angezuendet-mann-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/gera-ehefrau-in-strassenbahn-angezuendet-mann-zu-lebenslanger-haft-verurteilt-a-91ab2814-95d6-4252-a945-eee2471ce27f#ref=rss)
+### angezündet
+
+* [https://www.spiegel.de/panorama/justiz/gera-ehefrau-in-strassenbahn-angezuendet-mann-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/gera-ehefrau-in-strassenbahn-angezuendet-mann-zu-lebenslanger-haft-verurteilt-a-91ab2814-95d6-4252-a945-eee2471ce27f#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/gera-ehefrau-in-strassenbahn-angezuendet-mann-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/gera-ehefrau-in-strassenbahn-angezuendet-mann-zu-lebenslanger-haft-verurteilt-a-91ab2814-95d6-4252-a945-eee2471ce27f#ref=rss)
+### haft
+
+* [https://www.spiegel.de/panorama/justiz/gera-ehefrau-in-strassenbahn-angezuendet-mann-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/gera-ehefrau-in-strassenbahn-angezuendet-mann-zu-lebenslanger-haft-verurteilt-a-91ab2814-95d6-4252-a945-eee2471ce27f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/tuerkei-gutachten-bestaetigt-vergiftung-durch-schaedlingsbekaempfungsmittel](https://www.spiegel.de/panorama/justiz/tuerkei-gutachten-bestaetigt-vergiftung-durch-schaedlingsbekaempfungsmittel-a-d7bca23b-bab2-4378-a3fc-8a9f8a25787c#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/gera-ehefrau-in-strassenbahn-angezuendet-mann-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/gera-ehefrau-in-strassenbahn-angezuendet-mann-zu-lebenslanger-haft-verurteilt-a-91ab2814-95d6-4252-a945-eee2471ce27f#ref=rss)
+### schuld
+
+* [https://www.spiegel.de/panorama/justiz/gera-ehefrau-in-strassenbahn-angezuendet-mann-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/gera-ehefrau-in-strassenbahn-angezuendet-mann-zu-lebenslanger-haft-verurteilt-a-91ab2814-95d6-4252-a945-eee2471ce27f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-bekennt-sich-zu-deutscher-schuld-beim-angriff-auf-guernica](https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-bekennt-sich-zu-deutscher-schuld-beim-angriff-auf-guernica-a-a6d2d8bc-47d4-4acd-a054-e57026854a09#ref=rss)
+### oft
+
+* [https://www.spiegel.de/wirtschaft/service/bargeld-eu-will-zugang-zu-bargeld-erleichtern-auch-ohne-einkauf-im-supermarkt](https://www.spiegel.de/wirtschaft/service/bargeld-eu-will-zugang-zu-bargeld-erleichtern-auch-ohne-einkauf-im-supermarkt-a-ed21a516-1c1d-4621-b814-e3be512cb38f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/drittmittel-in-der-forschung-neue-studie-zur-vergabe-luebecker-forscher-soeren-krach-schlaegt-fruehe-lotterie-vor](https://www.spiegel.de/wissenschaft/drittmittel-in-der-forschung-neue-studie-zur-vergabe-luebecker-forscher-soeren-krach-schlaegt-fruehe-lotterie-vor-a-54cbfd93-b0cf-4d2d-8efb-37f580ff11ad#ref=rss)
+### weit
+
+* [https://www.spiegel.de/wirtschaft/service/bargeld-eu-will-zugang-zu-bargeld-erleichtern-auch-ohne-einkauf-im-supermarkt](https://www.spiegel.de/wirtschaft/service/bargeld-eu-will-zugang-zu-bargeld-erleichtern-auch-ohne-einkauf-im-supermarkt-a-ed21a516-1c1d-4621-b814-e3be512cb38f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/start-ups-deutschland-und-europa-bei-risikokapital-weit-abgehaengt](https://www.spiegel.de/wirtschaft/start-ups-deutschland-und-europa-bei-risikokapital-weit-abgehaengt-a-72cc46c6-d12f-4963-b698-5df4b829c692#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wirtschaft/service/bargeld-eu-will-zugang-zu-bargeld-erleichtern-auch-ohne-einkauf-im-supermarkt](https://www.spiegel.de/wirtschaft/service/bargeld-eu-will-zugang-zu-bargeld-erleichtern-auch-ohne-einkauf-im-supermarkt-a-ed21a516-1c1d-4621-b814-e3be512cb38f#ref=rss)
+* [https://www.spiegel.de/ausland/nigeria-praesident-bola-tinubu-ruft-sicherheitsnotstand-wegen-entfuehrungen-aus](https://www.spiegel.de/ausland/nigeria-praesident-bola-tinubu-ruft-sicherheitsnotstand-wegen-entfuehrungen-aus-a-0d8aea58-96fd-4b07-894c-766a32933cd4#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/wirtschaft/service/bargeld-eu-will-zugang-zu-bargeld-erleichtern-auch-ohne-einkauf-im-supermarkt](https://www.spiegel.de/wirtschaft/service/bargeld-eu-will-zugang-zu-bargeld-erleichtern-auch-ohne-einkauf-im-supermarkt-a-ed21a516-1c1d-4621-b814-e3be512cb38f#ref=rss)
+* [https://www.spiegel.de/panorama/china-elf-schienenarbeiter-von-zug-erfasst-und-getoetet](https://www.spiegel.de/panorama/china-elf-schienenarbeiter-von-zug-erfasst-und-getoetet-a-70500123-19bf-45a9-b017-bac8e2651b9d#ref=rss)
+### zudem
+
+* [https://www.spiegel.de/wirtschaft/service/bargeld-eu-will-zugang-zu-bargeld-erleichtern-auch-ohne-einkauf-im-supermarkt](https://www.spiegel.de/wirtschaft/service/bargeld-eu-will-zugang-zu-bargeld-erleichtern-auch-ohne-einkauf-im-supermarkt-a-ed21a516-1c1d-4621-b814-e3be512cb38f#ref=rss)
+* [https://www.spiegel.de/ausland/nigeria-praesident-bola-tinubu-ruft-sicherheitsnotstand-wegen-entfuehrungen-aus](https://www.spiegel.de/ausland/nigeria-praesident-bola-tinubu-ruft-sicherheitsnotstand-wegen-entfuehrungen-aus-a-0d8aea58-96fd-4b07-894c-766a32933cd4#ref=rss)
+### engländer
+
+* [https://www.spiegel.de/sport/fussball/fc-arsenal-vs-fc-bayern-muenchen-pressestimmen-zum-sieg-der-englaender](https://www.spiegel.de/sport/fussball/fc-arsenal-vs-fc-bayern-muenchen-pressestimmen-zum-sieg-der-englaender-a-ae8792e9-df05-4669-934f-892f55020975#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/sport/fussball/fc-arsenal-vs-fc-bayern-muenchen-pressestimmen-zum-sieg-der-englaender](https://www.spiegel.de/sport/fussball/fc-arsenal-vs-fc-bayern-muenchen-pressestimmen-zum-sieg-der-englaender-a-ae8792e9-df05-4669-934f-892f55020975#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-affaere-wolfram-weimer-echte-freunde-stehen-zusammen](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-affaere-wolfram-weimer-echte-freunde-stehen-zusammen-a-cd01a9f9-3b65-499d-aa9f-6e6c5f993f34#ref=rss)
+### schüsse
+
+* [https://www.spiegel.de/ausland/donald-trump-festnahme-des-mutmasslichen-taeters-in-washington](https://www.spiegel.de/ausland/donald-trump-festnahme-des-mutmasslichen-taeters-in-washington-a-441e2299-c6de-4111-a396-ec4c35413223#ref=rss)
+### washington
+
+* [https://www.spiegel.de/ausland/donald-trump-festnahme-des-mutmasslichen-taeters-in-washington](https://www.spiegel.de/ausland/donald-trump-festnahme-des-mutmasslichen-taeters-in-washington-a-441e2299-c6de-4111-a396-ec4c35413223#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/donald-trump-festnahme-des-mutmasslichen-taeters-in-washington](https://www.spiegel.de/ausland/donald-trump-festnahme-des-mutmasslichen-taeters-in-washington-a-441e2299-c6de-4111-a396-ec4c35413223#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-bekennt-sich-zu-deutscher-schuld-beim-angriff-auf-guernica](https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-bekennt-sich-zu-deutscher-schuld-beim-angriff-auf-guernica-a-a6d2d8bc-47d4-4acd-a054-e57026854a09#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/ausland/donald-trump-festnahme-des-mutmasslichen-taeters-in-washington](https://www.spiegel.de/ausland/donald-trump-festnahme-des-mutmasslichen-taeters-in-washington-a-441e2299-c6de-4111-a396-ec4c35413223#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/trickreiche-futtersuche-woelfin-schnappt-sich-fisch-aus-krabbenfalle](https://www.spiegel.de/wissenschaft/natur/trickreiche-futtersuche-woelfin-schnappt-sich-fisch-aus-krabbenfalle-a-5298ee73-d477-404a-b70d-fb5b8bdda79f#ref=rss)
+### tat
+
+* [https://www.spiegel.de/ausland/donald-trump-festnahme-des-mutmasslichen-taeters-in-washington](https://www.spiegel.de/ausland/donald-trump-festnahme-des-mutmasslichen-taeters-in-washington-a-441e2299-c6de-4111-a396-ec4c35413223#ref=rss)
+* [https://www.spiegel.de/ausland/russland-und-leaks-zu-ukraine-verhandlungen-wenn-der-kreml-beamte-ueber-whatsapp-telefoniert](https://www.spiegel.de/ausland/russland-und-leaks-zu-ukraine-verhandlungen-wenn-der-kreml-beamte-ueber-whatsapp-telefoniert-a-a25311e8-406d-4d84-9a60-db9b8535e26d#ref=rss)
+### istanbul
+
+* [https://www.spiegel.de/panorama/justiz/tuerkei-gutachten-bestaetigt-vergiftung-durch-schaedlingsbekaempfungsmittel](https://www.spiegel.de/panorama/justiz/tuerkei-gutachten-bestaetigt-vergiftung-durch-schaedlingsbekaempfungsmittel-a-d7bca23b-bab2-4378-a3fc-8a9f8a25787c#ref=rss)
+### fürs
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-fuers-brandenburger-tor-fuer-berlin-suchen-wir-einen-besonders-schoenen-aus](https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-fuers-brandenburger-tor-fuer-berlin-suchen-wir-einen-besonders-schoenen-aus-a-c5b13f6f-5c7d-4159-bf44-4d214abc43fe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/onlinehandel-hohe-retourenquote-belastet-haendler](https://www.spiegel.de/wirtschaft/service/onlinehandel-hohe-retourenquote-belastet-haendler-a-c40f66da-1cc4-4674-b69b-2dd56744e6fb#ref=rss)
+### brandenburger
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-fuers-brandenburger-tor-fuer-berlin-suchen-wir-einen-besonders-schoenen-aus](https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-fuers-brandenburger-tor-fuer-berlin-suchen-wir-einen-besonders-schoenen-aus-a-c5b13f6f-5c7d-4159-bf44-4d214abc43fe#ref=rss)
+### tor
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-fuers-brandenburger-tor-fuer-berlin-suchen-wir-einen-besonders-schoenen-aus](https://www.spiegel.de/panorama/gesellschaft/weihnachtsbaum-fuers-brandenburger-tor-fuer-berlin-suchen-wir-einen-besonders-schoenen-aus-a-c5b13f6f-5c7d-4159-bf44-4d214abc43fe#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/donald-trump-ist-wachs-in-den-haenden-von-wladimir-putin-kommentar](https://www.spiegel.de/ausland/donald-trump-ist-wachs-in-den-haenden-von-wladimir-putin-kommentar-a-a89874a2-f717-42d0-926c-3b50780c33fc#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/donald-trump-ist-wachs-in-den-haenden-von-wladimir-putin-kommentar](https://www.spiegel.de/ausland/donald-trump-ist-wachs-in-den-haenden-von-wladimir-putin-kommentar-a-a89874a2-f717-42d0-926c-3b50780c33fc#ref=rss)
+* [https://www.spiegel.de/ausland/streit-mit-china-donald-trump-legt-japans-premierministerin-zurueckhaltung-bei-taiwan-nahe](https://www.spiegel.de/ausland/streit-mit-china-donald-trump-legt-japans-premierministerin-zurueckhaltung-bei-taiwan-nahe-a-e51d4707-4cf0-4e95-8cb3-ee2b9a4ff45f#ref=rss)
+### rente
+
+* [https://www.spiegel.de/politik/deutschland/rente-philipp-tuermer-und-pascal-reddig-im-spitzengespraech-merz-lernt-noch-im-job](https://www.spiegel.de/politik/deutschland/rente-philipp-tuermer-und-pascal-reddig-im-spitzengespraech-merz-lernt-noch-im-job-a-73b12895-d0a5-4803-9641-4d59076e8349#ref=rss)
+### philipp
+
+* [https://www.spiegel.de/politik/deutschland/rente-philipp-tuermer-und-pascal-reddig-im-spitzengespraech-merz-lernt-noch-im-job](https://www.spiegel.de/politik/deutschland/rente-philipp-tuermer-und-pascal-reddig-im-spitzengespraech-merz-lernt-noch-im-job-a-73b12895-d0a5-4803-9641-4d59076e8349#ref=rss)
+### türmer
+
+* [https://www.spiegel.de/politik/deutschland/rente-philipp-tuermer-und-pascal-reddig-im-spitzengespraech-merz-lernt-noch-im-job](https://www.spiegel.de/politik/deutschland/rente-philipp-tuermer-und-pascal-reddig-im-spitzengespraech-merz-lernt-noch-im-job-a-73b12895-d0a5-4803-9641-4d59076e8349#ref=rss)
+### pascal
+
+* [https://www.spiegel.de/politik/deutschland/rente-philipp-tuermer-und-pascal-reddig-im-spitzengespraech-merz-lernt-noch-im-job](https://www.spiegel.de/politik/deutschland/rente-philipp-tuermer-und-pascal-reddig-im-spitzengespraech-merz-lernt-noch-im-job-a-73b12895-d0a5-4803-9641-4d59076e8349#ref=rss)
+### reddig
+
+* [https://www.spiegel.de/politik/deutschland/rente-philipp-tuermer-und-pascal-reddig-im-spitzengespraech-merz-lernt-noch-im-job](https://www.spiegel.de/politik/deutschland/rente-philipp-tuermer-und-pascal-reddig-im-spitzengespraech-merz-lernt-noch-im-job-a-73b12895-d0a5-4803-9641-4d59076e8349#ref=rss)
+### gruppe
+
+* [https://www.spiegel.de/politik/deutschland/rente-philipp-tuermer-und-pascal-reddig-im-spitzengespraech-merz-lernt-noch-im-job](https://www.spiegel.de/politik/deutschland/rente-philipp-tuermer-und-pascal-reddig-im-spitzengespraech-merz-lernt-noch-im-job-a-73b12895-d0a5-4803-9641-4d59076e8349#ref=rss)
+* [https://www.spiegel.de/panorama/china-elf-schienenarbeiter-von-zug-erfasst-und-getoetet](https://www.spiegel.de/panorama/china-elf-schienenarbeiter-von-zug-erfasst-und-getoetet-a-70500123-19bf-45a9-b017-bac8e2651b9d#ref=rss)
+### startups
+
+* [https://www.spiegel.de/wirtschaft/start-ups-deutschland-und-europa-bei-risikokapital-weit-abgehaengt](https://www.spiegel.de/wirtschaft/start-ups-deutschland-und-europa-bei-risikokapital-weit-abgehaengt-a-72cc46c6-d12f-4963-b698-5df4b829c692#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/start-ups-deutschland-und-europa-bei-risikokapital-weit-abgehaengt](https://www.spiegel.de/wirtschaft/start-ups-deutschland-und-europa-bei-risikokapital-weit-abgehaengt-a-72cc46c6-d12f-4963-b698-5df4b829c692#ref=rss)
+### europa
+
+* [https://www.spiegel.de/wirtschaft/start-ups-deutschland-und-europa-bei-risikokapital-weit-abgehaengt](https://www.spiegel.de/wirtschaft/start-ups-deutschland-und-europa-bei-risikokapital-weit-abgehaengt-a-72cc46c6-d12f-4963-b698-5df4b829c692#ref=rss)
+### hohe
+
+* [https://www.spiegel.de/wirtschaft/start-ups-deutschland-und-europa-bei-risikokapital-weit-abgehaengt](https://www.spiegel.de/wirtschaft/start-ups-deutschland-und-europa-bei-risikokapital-weit-abgehaengt-a-72cc46c6-d12f-4963-b698-5df4b829c692#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/onlinehandel-hohe-retourenquote-belastet-haendler](https://www.spiegel.de/wirtschaft/service/onlinehandel-hohe-retourenquote-belastet-haendler-a-c40f66da-1cc4-4674-b69b-2dd56744e6fb#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/service/onlinehandel-hohe-retourenquote-belastet-haendler](https://www.spiegel.de/wirtschaft/service/onlinehandel-hohe-retourenquote-belastet-haendler-a-c40f66da-1cc4-4674-b69b-2dd56744e6fb#ref=rss)
+* [https://www.spiegel.de/panorama/schuhe-von-miss-piggy-fuer-mehr-als-20-000-dollar-versteigert](https://www.spiegel.de/panorama/schuhe-von-miss-piggy-fuer-mehr-als-20-000-dollar-versteigert-a-831649e7-e747-4d4f-a245-66dd2abdeb14#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/wirtschaft/service/onlinehandel-hohe-retourenquote-belastet-haendler](https://www.spiegel.de/wirtschaft/service/onlinehandel-hohe-retourenquote-belastet-haendler-a-c40f66da-1cc4-4674-b69b-2dd56744e6fb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-affaere-wolfram-weimer-echte-freunde-stehen-zusammen](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-affaere-wolfram-weimer-echte-freunde-stehen-zusammen-a-cd01a9f9-3b65-499d-aa9f-6e6c5f993f34#ref=rss)
+### forschung
+
+* [https://www.spiegel.de/wissenschaft/drittmittel-in-der-forschung-neue-studie-zur-vergabe-luebecker-forscher-soeren-krach-schlaegt-fruehe-lotterie-vor](https://www.spiegel.de/wissenschaft/drittmittel-in-der-forschung-neue-studie-zur-vergabe-luebecker-forscher-soeren-krach-schlaegt-fruehe-lotterie-vor-a-54cbfd93-b0cf-4d2d-8efb-37f580ff11ad#ref=rss)
+### vergabe
+
+* [https://www.spiegel.de/wissenschaft/drittmittel-in-der-forschung-neue-studie-zur-vergabe-luebecker-forscher-soeren-krach-schlaegt-fruehe-lotterie-vor](https://www.spiegel.de/wissenschaft/drittmittel-in-der-forschung-neue-studie-zur-vergabe-luebecker-forscher-soeren-krach-schlaegt-fruehe-lotterie-vor-a-54cbfd93-b0cf-4d2d-8efb-37f580ff11ad#ref=rss)
+### forscher
+
+* [https://www.spiegel.de/wissenschaft/drittmittel-in-der-forschung-neue-studie-zur-vergabe-luebecker-forscher-soeren-krach-schlaegt-fruehe-lotterie-vor](https://www.spiegel.de/wissenschaft/drittmittel-in-der-forschung-neue-studie-zur-vergabe-luebecker-forscher-soeren-krach-schlaegt-fruehe-lotterie-vor-a-54cbfd93-b0cf-4d2d-8efb-37f580ff11ad#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/trickreiche-futtersuche-woelfin-schnappt-sich-fisch-aus-krabbenfalle](https://www.spiegel.de/wissenschaft/natur/trickreiche-futtersuche-woelfin-schnappt-sich-fisch-aus-krabbenfalle-a-5298ee73-d477-404a-b70d-fb5b8bdda79f#ref=rss)
+### los
+
+* [https://www.spiegel.de/wissenschaft/drittmittel-in-der-forschung-neue-studie-zur-vergabe-luebecker-forscher-soeren-krach-schlaegt-fruehe-lotterie-vor](https://www.spiegel.de/wissenschaft/drittmittel-in-der-forschung-neue-studie-zur-vergabe-luebecker-forscher-soeren-krach-schlaegt-fruehe-lotterie-vor-a-54cbfd93-b0cf-4d2d-8efb-37f580ff11ad#ref=rss)
+* [https://www.spiegel.de/panorama/schuhe-von-miss-piggy-fuer-mehr-als-20-000-dollar-versteigert](https://www.spiegel.de/panorama/schuhe-von-miss-piggy-fuer-mehr-als-20-000-dollar-versteigert-a-831649e7-e747-4d4f-a245-66dd2abdeb14#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/schuhe-von-miss-piggy-fuer-mehr-als-20-000-dollar-versteigert](https://www.spiegel.de/panorama/schuhe-von-miss-piggy-fuer-mehr-als-20-000-dollar-versteigert-a-831649e7-e747-4d4f-a245-66dd2abdeb14#ref=rss)
+* [https://www.spiegel.de/ausland/nigeria-praesident-bola-tinubu-ruft-sicherheitsnotstand-wegen-entfuehrungen-aus](https://www.spiegel.de/ausland/nigeria-praesident-bola-tinubu-ruft-sicherheitsnotstand-wegen-entfuehrungen-aus-a-0d8aea58-96fd-4b07-894c-766a32933cd4#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-bekennt-sich-zu-deutscher-schuld-beim-angriff-auf-guernica](https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-bekennt-sich-zu-deutscher-schuld-beim-angriff-auf-guernica-a-a6d2d8bc-47d4-4acd-a054-e57026854a09#ref=rss)
+### steinmeier
+
+* [https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-bekennt-sich-zu-deutscher-schuld-beim-angriff-auf-guernica](https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-bekennt-sich-zu-deutscher-schuld-beim-angriff-auf-guernica-a-a6d2d8bc-47d4-4acd-a054-e57026854a09#ref=rss)
+### guernica
+
+* [https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-bekennt-sich-zu-deutscher-schuld-beim-angriff-auf-guernica](https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-bekennt-sich-zu-deutscher-schuld-beim-angriff-auf-guernica-a-a6d2d8bc-47d4-4acd-a054-e57026854a09#ref=rss)
+### eli
+
+* [https://www.spiegel.de/ausland/ex-hamas-geisel-israeli-eli-sharabi-erzaehlt-was-er-im-gazastreifen-erlebt-hat](https://www.spiegel.de/ausland/ex-hamas-geisel-israeli-eli-sharabi-erzaehlt-was-er-im-gazastreifen-erlebt-hat-a-d5066208-d0e1-49f4-9ca3-929e7db60dac#ref=rss)
+### sharabi
+
+* [https://www.spiegel.de/ausland/ex-hamas-geisel-israeli-eli-sharabi-erzaehlt-was-er-im-gazastreifen-erlebt-hat](https://www.spiegel.de/ausland/ex-hamas-geisel-israeli-eli-sharabi-erzaehlt-was-er-im-gazastreifen-erlebt-hat-a-d5066208-d0e1-49f4-9ca3-929e7db60dac#ref=rss)
+### black
+
+* [https://www.spiegel.de/geschichte/black-friday-wo-die-rabatt-schlacht-ihren-anfang-nahm](https://www.spiegel.de/geschichte/black-friday-wo-die-rabatt-schlacht-ihren-anfang-nahm-a-1870f526-ef8d-420d-8e6f-a2d457f95a7e#ref=rss)
+### friday
+
+* [https://www.spiegel.de/geschichte/black-friday-wo-die-rabatt-schlacht-ihren-anfang-nahm](https://www.spiegel.de/geschichte/black-friday-wo-die-rabatt-schlacht-ihren-anfang-nahm-a-1870f526-ef8d-420d-8e6f-a2d457f95a7e#ref=rss)
+### wölfin
+
+* [https://www.spiegel.de/wissenschaft/natur/trickreiche-futtersuche-woelfin-schnappt-sich-fisch-aus-krabbenfalle](https://www.spiegel.de/wissenschaft/natur/trickreiche-futtersuche-woelfin-schnappt-sich-fisch-aus-krabbenfalle-a-5298ee73-d477-404a-b70d-fb5b8bdda79f#ref=rss)
+### fisch
+
+* [https://www.spiegel.de/wissenschaft/natur/trickreiche-futtersuche-woelfin-schnappt-sich-fisch-aus-krabbenfalle](https://www.spiegel.de/wissenschaft/natur/trickreiche-futtersuche-woelfin-schnappt-sich-fisch-aus-krabbenfalle-a-5298ee73-d477-404a-b70d-fb5b8bdda79f#ref=rss)
+### krabbenfalle
+
+* [https://www.spiegel.de/wissenschaft/natur/trickreiche-futtersuche-woelfin-schnappt-sich-fisch-aus-krabbenfalle](https://www.spiegel.de/wissenschaft/natur/trickreiche-futtersuche-woelfin-schnappt-sich-fisch-aus-krabbenfalle-a-5298ee73-d477-404a-b70d-fb5b8bdda79f#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-affaere-wolfram-weimer-echte-freunde-stehen-zusammen](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-affaere-wolfram-weimer-echte-freunde-stehen-zusammen-a-cd01a9f9-3b65-499d-aa9f-6e6c5f993f34#ref=rss)
+### wolfram
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-affaere-wolfram-weimer-echte-freunde-stehen-zusammen](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-affaere-wolfram-weimer-echte-freunde-stehen-zusammen-a-cd01a9f9-3b65-499d-aa9f-6e6c5f993f34#ref=rss)
+### weimer
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-affaere-wolfram-weimer-echte-freunde-stehen-zusammen](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-affaere-wolfram-weimer-echte-freunde-stehen-zusammen-a-cd01a9f9-3b65-499d-aa9f-6e6c5f993f34#ref=rss)
+### stranger
+
+* [https://www.spiegel.de/kultur/tv/stranger-things-5-staffel-auf-netflix-nostalgie-als-schmiermittel](https://www.spiegel.de/kultur/tv/stranger-things-5-staffel-auf-netflix-nostalgie-als-schmiermittel-a-6a834b9d-3210-4f4e-8d87-dd0957eae2c8#ref=rss)
+### things
+
+* [https://www.spiegel.de/kultur/tv/stranger-things-5-staffel-auf-netflix-nostalgie-als-schmiermittel](https://www.spiegel.de/kultur/tv/stranger-things-5-staffel-auf-netflix-nostalgie-als-schmiermittel-a-6a834b9d-3210-4f4e-8d87-dd0957eae2c8#ref=rss)
+### staffel
+
+* [https://www.spiegel.de/kultur/tv/stranger-things-5-staffel-auf-netflix-nostalgie-als-schmiermittel](https://www.spiegel.de/kultur/tv/stranger-things-5-staffel-auf-netflix-nostalgie-als-schmiermittel-a-6a834b9d-3210-4f4e-8d87-dd0957eae2c8#ref=rss)
+### netflix
+
+* [https://www.spiegel.de/kultur/tv/stranger-things-5-staffel-auf-netflix-nostalgie-als-schmiermittel](https://www.spiegel.de/kultur/tv/stranger-things-5-staffel-auf-netflix-nostalgie-als-schmiermittel-a-6a834b9d-3210-4f4e-8d87-dd0957eae2c8#ref=rss)
+### china
+
+* [https://www.spiegel.de/panorama/china-elf-schienenarbeiter-von-zug-erfasst-und-getoetet](https://www.spiegel.de/panorama/china-elf-schienenarbeiter-von-zug-erfasst-und-getoetet-a-70500123-19bf-45a9-b017-bac8e2651b9d#ref=rss)
+* [https://www.spiegel.de/ausland/streit-mit-china-donald-trump-legt-japans-premierministerin-zurueckhaltung-bei-taiwan-nahe](https://www.spiegel.de/ausland/streit-mit-china-donald-trump-legt-japans-premierministerin-zurueckhaltung-bei-taiwan-nahe-a-e51d4707-4cf0-4e95-8cb3-ee2b9a4ff45f#ref=rss)
+### elf
+
+* [https://www.spiegel.de/panorama/china-elf-schienenarbeiter-von-zug-erfasst-und-getoetet](https://www.spiegel.de/panorama/china-elf-schienenarbeiter-von-zug-erfasst-und-getoetet-a-70500123-19bf-45a9-b017-bac8e2651b9d#ref=rss)
+### premierministerin
+
+* [https://www.spiegel.de/ausland/streit-mit-china-donald-trump-legt-japans-premierministerin-zurueckhaltung-bei-taiwan-nahe](https://www.spiegel.de/ausland/streit-mit-china-donald-trump-legt-japans-premierministerin-zurueckhaltung-bei-taiwan-nahe-a-e51d4707-4cf0-4e95-8cb3-ee2b9a4ff45f#ref=rss)
+### nigeria
+
+* [https://www.spiegel.de/ausland/nigeria-praesident-bola-tinubu-ruft-sicherheitsnotstand-wegen-entfuehrungen-aus](https://www.spiegel.de/ausland/nigeria-praesident-bola-tinubu-ruft-sicherheitsnotstand-wegen-entfuehrungen-aus-a-0d8aea58-96fd-4b07-894c-766a32933cd4#ref=rss)
+### bola
+
+* [https://www.spiegel.de/ausland/nigeria-praesident-bola-tinubu-ruft-sicherheitsnotstand-wegen-entfuehrungen-aus](https://www.spiegel.de/ausland/nigeria-praesident-bola-tinubu-ruft-sicherheitsnotstand-wegen-entfuehrungen-aus-a-0d8aea58-96fd-4b07-894c-766a32933cd4#ref=rss)
+### tinubu
+
+* [https://www.spiegel.de/ausland/nigeria-praesident-bola-tinubu-ruft-sicherheitsnotstand-wegen-entfuehrungen-aus](https://www.spiegel.de/ausland/nigeria-praesident-bola-tinubu-ruft-sicherheitsnotstand-wegen-entfuehrungen-aus-a-0d8aea58-96fd-4b07-894c-766a32933cd4#ref=rss)
+### sicherheitsnotstand
+
+* [https://www.spiegel.de/ausland/nigeria-praesident-bola-tinubu-ruft-sicherheitsnotstand-wegen-entfuehrungen-aus](https://www.spiegel.de/ausland/nigeria-praesident-bola-tinubu-ruft-sicherheitsnotstand-wegen-entfuehrungen-aus-a-0d8aea58-96fd-4b07-894c-766a32933cd4#ref=rss)
 
