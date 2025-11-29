@@ -4,332 +4,296 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/ausland/usa-sollen-laut-medien-gezielt-ueberlebende-von-drogenboot-in-der-karibik-getoetet-haben](https://www.spiegel.de/ausland/usa-sollen-laut-medien-gezielt-ueberlebende-von-drogenboot-in-der-karibik-getoetet-haben-a-16a9794f-be1a-4d03-aeb0-e644d60264fc#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-will-honduras-ex-praesidenten-juan-orlando-hernandez-begnadigen](https://www.spiegel.de/ausland/donald-trump-will-honduras-ex-praesidenten-juan-orlando-hernandez-begnadigen-a-1f4df2df-b679-4691-a7ce-ae9311a51dda#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-donald-trump-soll-laut-medienbericht-mit-nicolas-maduro-telefoniert-haben](https://www.spiegel.de/ausland/venezuela-donald-trump-soll-laut-medienbericht-mit-nicolas-maduro-telefoniert-haben-a-b0364834-4775-473b-92f4-c7d8db20c7b6#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben](https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben-a-77f24925-cdad-4271-aa0c-474a387441c1#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-tote-und-verletzte-bei-russischen-angriffen-vor-moeglichen-friedensgespraechen](https://www.spiegel.de/ausland/ukraine-krieg-tote-und-verletzte-bei-russischen-angriffen-vor-moeglichen-friedensgespraechen-a-80f13ee3-08e2-49a1-bdc2-52239911d6b5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/baikonur-startrampe-defekt-russland-kann-derzeit-keine-menschen-ins-all-bringen](https://www.spiegel.de/wissenschaft/weltall/baikonur-startrampe-defekt-russland-kann-derzeit-keine-menschen-ins-all-bringen-a-410cae53-385e-4c7d-9e46-8851414636fa#ref=rss)
-* [https://www.spiegel.de/ausland/russland-verbietet-human-rights-watch](https://www.spiegel.de/ausland/russland-verbietet-human-rights-watch-a-cbaaa9d9-d80c-4913-8e7b-a7edf357b388#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/donald-trump-will-honduras-ex-praesidenten-juan-orlando-hernandez-begnadigen](https://www.spiegel.de/ausland/donald-trump-will-honduras-ex-praesidenten-juan-orlando-hernandez-begnadigen-a-1f4df2df-b679-4691-a7ce-ae9311a51dda#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-donald-trump-soll-laut-medienbericht-mit-nicolas-maduro-telefoniert-haben](https://www.spiegel.de/ausland/venezuela-donald-trump-soll-laut-medienbericht-mit-nicolas-maduro-telefoniert-haben-a-b0364834-4775-473b-92f4-c7d8db20c7b6#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben](https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben-a-77f24925-cdad-4271-aa0c-474a387441c1#ref=rss)
+* [https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-us-gesundheitsminister-irritiert-mit-bearbeitetem-thanksgiving-foto](https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-us-gesundheitsminister-irritiert-mit-bearbeitetem-thanksgiving-foto-a-6272511d-9ac5-4915-98c7-0bf9830c4318#ref=rss)
+* [https://www.spiegel.de/ausland/trump-erklaert-luftraum-ueber-venezuela-fuer-geschlossen](https://www.spiegel.de/ausland/trump-erklaert-luftraum-ueber-venezuela-fuer-geschlossen-a-f87ead67-9888-4668-b369-cae48ea616f4#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-friedensplan-fuer-die-ukraine-womoeglich-nur-aus-wirtschaftlichem-interesse](https://www.spiegel.de/ausland/donald-trump-friedensplan-fuer-die-ukraine-womoeglich-nur-aus-wirtschaftlichem-interesse-a-cc34199d-72ea-463d-a0df-f64e69214c64#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-so-inszeniert-das-weisse-haus-die-praesidentschaft](https://www.spiegel.de/ausland/donald-trump-so-inszeniert-das-weisse-haus-die-praesidentschaft-a-a75bf7cd-041d-4e12-b85c-3aa52704815c#ref=rss)
+* [https://www.spiegel.de/ausland/marjorie-taylor-greene-einst-feurigste-unterstuetzerin-von-donald-trump-jetzt-verraeterin](https://www.spiegel.de/ausland/marjorie-taylor-greene-einst-feurigste-unterstuetzerin-von-donald-trump-jetzt-verraeterin-a-d2eb4ed4-153b-47d8-a45a-bee769e20c0a#ref=rss)
+### trump
+
+* [https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-us-gesundheitsminister-irritiert-mit-bearbeitetem-thanksgiving-foto](https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-us-gesundheitsminister-irritiert-mit-bearbeitetem-thanksgiving-foto-a-6272511d-9ac5-4915-98c7-0bf9830c4318#ref=rss)
+* [https://www.spiegel.de/ausland/trump-erklaert-luftraum-ueber-venezuela-fuer-geschlossen](https://www.spiegel.de/ausland/trump-erklaert-luftraum-ueber-venezuela-fuer-geschlossen-a-f87ead67-9888-4668-b369-cae48ea616f4#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-friedensplan-fuer-die-ukraine-womoeglich-nur-aus-wirtschaftlichem-interesse](https://www.spiegel.de/ausland/donald-trump-friedensplan-fuer-die-ukraine-womoeglich-nur-aus-wirtschaftlichem-interesse-a-cc34199d-72ea-463d-a0df-f64e69214c64#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-so-inszeniert-das-weisse-haus-die-praesidentschaft](https://www.spiegel.de/ausland/donald-trump-so-inszeniert-das-weisse-haus-die-praesidentschaft-a-a75bf7cd-041d-4e12-b85c-3aa52704815c#ref=rss)
+* [https://www.spiegel.de/ausland/marjorie-taylor-greene-einst-feurigste-unterstuetzerin-von-donald-trump-jetzt-verraeterin](https://www.spiegel.de/ausland/marjorie-taylor-greene-einst-feurigste-unterstuetzerin-von-donald-trump-jetzt-verraeterin-a-d2eb4ed4-153b-47d8-a45a-bee769e20c0a#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/sport/handball/handball-wm-2025-deutschschland-vorzeitig-fuer-hauptrunde-qualifiziert](https://www.spiegel.de/sport/handball/handball-wm-2025-deutschschland-vorzeitig-fuer-hauptrunde-qualifiziert-a-890ea6cc-3d8b-4623-aeb6-f707c7d5bfc3#ref=rss)
-* [https://www.spiegel.de/reise/schlittschuhlaufen-das-sind-die-schoensten-eisbahnen-in-deutschland-oesterreich-und-der-schweiz](https://www.spiegel.de/reise/schlittschuhlaufen-das-sind-die-schoensten-eisbahnen-in-deutschland-oesterreich-und-der-schweiz-a-09f4b0e7-c411-429f-878d-f21c23b10d52#ref=rss)
-* [https://www.spiegel.de/panorama/faravaz-saengerin-fluechtete-vor-den-mullahs-in-brandenburg-tritt-sie-unter-polizeischutz-auf](https://www.spiegel.de/panorama/faravaz-saengerin-fluechtete-vor-den-mullahs-in-brandenburg-tritt-sie-unter-polizeischutz-auf-a-8bb57db1-86bd-479a-8c70-6100b7d7c134#ref=rss)
-* [https://www.spiegel.de/sport/fussball/deutschland-im-nations-league-finale-unterlegen-gegen-spanien-das-war-einmal](https://www.spiegel.de/sport/fussball/deutschland-im-nations-league-finale-unterlegen-gegen-spanien-das-war-einmal-a-1d1cd924-8cc2-4301-a24a-65d357b02299#ref=rss)
-### setzt
+* [https://www.spiegel.de/politik/deutschland/afd-jugendkongress-in-giessen-startet-mit-zweistuendiger-verspaetung](https://www.spiegel.de/politik/deutschland/afd-jugendkongress-in-giessen-startet-mit-zweistuendiger-verspaetung-a-2751ab35-d3fb-4e70-bca6-7edd5a743e37#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/300-000-kitaplaetze-fehlen-wo-in-deutschland-am-meisten-gebraucht-wuerden](https://www.spiegel.de/panorama/bildung/300-000-kitaplaetze-fehlen-wo-in-deutschland-am-meisten-gebraucht-wuerden-a-89d41674-7bf4-41f2-b947-b5630e79a1a2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-der-sueden-europas-trocknet-aus-und-deutschland-zaehlt-noch-dazu](https://www.spiegel.de/wissenschaft/natur/klimawandel-der-sueden-europas-trocknet-aus-und-deutschland-zaehlt-noch-dazu-a-8d3204d0-3714-4500-b5c0-5744a1d356a9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/deutschland-gegen-spanien-das-fehlt-dem-dfb-team-noch-zur-weltspitze](https://www.spiegel.de/sport/fussball/deutschland-gegen-spanien-das-fehlt-dem-dfb-team-noch-zur-weltspitze-a-827c163d-0100-4a54-b6d8-2f7f7dc3ad24#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/anti-afd-demos-in-giessen-strassenblockaden-und-pfefferspray-bei-protesten](https://www.spiegel.de/politik/anti-afd-demos-in-giessen-strassenblockaden-und-pfefferspray-bei-protesten-a-ddb74690-6dc1-4fe5-b851-db5b67da210b#ref=rss)
-* [https://www.spiegel.de/ausland/schuesse-in-washington-d-c-usa-einwanderungsbehoerde-stoppt-vorerst-saemtliche-asyl-entscheidungen](https://www.spiegel.de/ausland/schuesse-in-washington-d-c-usa-einwanderungsbehoerde-stoppt-vorerst-saemtliche-asyl-entscheidungen-a-48c74280-c71d-4185-a956-31af6952ee75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bsw-jetzt-bleibt-sahra-wagenknecht-nur-noch-der-gang-nach-karlsruhe](https://www.spiegel.de/politik/deutschland/bsw-jetzt-bleibt-sahra-wagenknecht-nur-noch-der-gang-nach-karlsruhe-a-0c5c07e3-bfe3-4d26-993e-7e0d699925ed#ref=rss)
-* [https://www.spiegel.de/politik/jean-pascal-hohm-als-neuer-afd-jugend-chef-28-jahre-typ-schwiegersohn-rechtsextremist](https://www.spiegel.de/politik/jean-pascal-hohm-als-neuer-afd-jugend-chef-28-jahre-typ-schwiegersohn-rechtsextremist-a-c0aa9f13-7eed-42f9-bd6f-2dab4f15efac#ref=rss)
-### usa
+* [https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-us-gesundheitsminister-irritiert-mit-bearbeitetem-thanksgiving-foto](https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-us-gesundheitsminister-irritiert-mit-bearbeitetem-thanksgiving-foto-a-6272511d-9ac5-4915-98c7-0bf9830c4318#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/nicola-leibinger-kammueller-von-trumpf-ueber-afd-brandmauer-neue-politik-statt-empoerung](https://www.spiegel.de/wirtschaft/unternehmen/nicola-leibinger-kammueller-von-trumpf-ueber-afd-brandmauer-neue-politik-statt-empoerung-a-e3507c4d-1265-4fcc-bdf0-708227810b97#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-jugendkongress-in-giessen-startet-mit-zweistuendiger-verspaetung](https://www.spiegel.de/politik/deutschland/afd-jugendkongress-in-giessen-startet-mit-zweistuendiger-verspaetung-a-2751ab35-d3fb-4e70-bca6-7edd5a743e37#ref=rss)
+* [https://www.spiegel.de/familie/schule-klassenarbeiten-und-druck-was-eltern-und-kinder-fuereinander-und-voneinander-lernen](https://www.spiegel.de/familie/schule-klassenarbeiten-und-druck-was-eltern-und-kinder-fuereinander-und-voneinander-lernen-a-1f5df9c9-9ef7-4007-9ae4-aab2e8d050b1#ref=rss)
+### leben
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-tote-und-verletzte-bei-russischen-angriffen-vor-moeglichen-friedensgespraechen](https://www.spiegel.de/ausland/ukraine-krieg-tote-und-verletzte-bei-russischen-angriffen-vor-moeglichen-friedensgespraechen-a-80f13ee3-08e2-49a1-bdc2-52239911d6b5#ref=rss)
-* [https://www.spiegel.de/ausland/usa-sollen-laut-medien-gezielt-ueberlebende-von-drogenboot-in-der-karibik-getoetet-haben](https://www.spiegel.de/ausland/usa-sollen-laut-medien-gezielt-ueberlebende-von-drogenboot-in-der-karibik-getoetet-haben-a-16a9794f-be1a-4d03-aeb0-e644d60264fc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-afd-parteijugend-und-jean-pascal-hohm-cdu-spitzenkandidat-sven-schulze-venezuela-und-die-usa](https://www.spiegel.de/politik/deutschland/news-afd-parteijugend-und-jean-pascal-hohm-cdu-spitzenkandidat-sven-schulze-venezuela-und-die-usa-a-e179c4c9-d834-4a8b-a77f-98cc5991d274#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben](https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben-a-77f24925-cdad-4271-aa0c-474a387441c1#ref=rss)
-### washington
+* [https://www.spiegel.de/wissenschaft/technik/volocopter-chinesische-investoren-retten-flugtaxi-firma-vor-der-insolvenz](https://www.spiegel.de/wissenschaft/technik/volocopter-chinesische-investoren-retten-flugtaxi-firma-vor-der-insolvenz-a-319f5696-d1d8-4ecf-a141-79a87a242c85#ref=rss)
+* [https://www.spiegel.de/ausland/finnische-ex-regierungschefin-sanna-marin-ich-musste-mich-fragen-lassen-wie-viel-alkohol-ich-getrunken-hatte](https://www.spiegel.de/ausland/finnische-ex-regierungschefin-sanna-marin-ich-musste-mich-fragen-lassen-wie-viel-alkohol-ich-getrunken-hatte-a-99c9963a-43ed-47c5-9821-d029efc3b061#ref=rss)
+* [https://www.spiegel.de/panorama/indonesien-thailand-malaysia-sri-lanka-fast-600-tote-nach-heftigen-stuermen](https://www.spiegel.de/panorama/indonesien-thailand-malaysia-sri-lanka-fast-600-tote-nach-heftigen-stuermen-a-d74088af-d889-4547-8996-40d971d25ec1#ref=rss)
+### politik
 
-* [https://www.spiegel.de/ausland/schuesse-in-washington-d-c-usa-einwanderungsbehoerde-stoppt-vorerst-saemtliche-asyl-entscheidungen](https://www.spiegel.de/ausland/schuesse-in-washington-d-c-usa-einwanderungsbehoerde-stoppt-vorerst-saemtliche-asyl-entscheidungen-a-48c74280-c71d-4185-a956-31af6952ee75#ref=rss)
-* [https://www.spiegel.de/ausland/washington-mordanklage-gegen-tatverdaechtigen-nach-schuessen-auf-nationalgarde](https://www.spiegel.de/ausland/washington-mordanklage-gegen-tatverdaechtigen-nach-schuessen-auf-nationalgarde-a-bc101e00-1428-4211-84be-cec13bd33e69#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/leute/altersdiskriminierung-annette-frier-ueber-mangelnde-rollenangebote-fuer-frauen](https://www.spiegel.de/panorama/leute/altersdiskriminierung-annette-frier-ueber-mangelnde-rollenangebote-fuer-frauen-a-64dab605-d174-4786-b84c-c2cc341e3461#ref=rss)
-* [https://www.spiegel.de/ausland/kloster-goldenstein-oesterreich-nonnen-schlagen-deal-mit-der-kirche-aus](https://www.spiegel.de/ausland/kloster-goldenstein-oesterreich-nonnen-schlagen-deal-mit-der-kirche-aus-a-2d73dace-82fe-4a70-a6b4-fed5eb561d31#ref=rss)
-### gießen
-
-* [https://www.spiegel.de/politik/anti-afd-demos-in-giessen-strassenblockaden-und-pfefferspray-bei-protesten](https://www.spiegel.de/politik/anti-afd-demos-in-giessen-strassenblockaden-und-pfefferspray-bei-protesten-a-ddb74690-6dc1-4fe5-b851-db5b67da210b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-afd-parteijugend-und-jean-pascal-hohm-cdu-spitzenkandidat-sven-schulze-venezuela-und-die-usa](https://www.spiegel.de/politik/deutschland/news-afd-parteijugend-und-jean-pascal-hohm-cdu-spitzenkandidat-sven-schulze-venezuela-und-die-usa-a-e179c4c9-d834-4a8b-a77f-98cc5991d274#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/auto/stuttgart-21-app-zeigt-umweg-durch-bahnhofstunnel-als-wandertour](https://www.spiegel.de/auto/stuttgart-21-app-zeigt-umweg-durch-bahnhofstunnel-als-wandertour-a-9a05d09f-1df6-4ff6-bd57-8279fed90528#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bsw-jetzt-bleibt-sahra-wagenknecht-nur-noch-der-gang-nach-karlsruhe](https://www.spiegel.de/politik/deutschland/bsw-jetzt-bleibt-sahra-wagenknecht-nur-noch-der-gang-nach-karlsruhe-a-0c5c07e3-bfe3-4d26-993e-7e0d699925ed#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn-a-eae01284-1393-406d-ac5a-33bd3bd18ae5#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/usa-sollen-laut-medien-gezielt-ueberlebende-von-drogenboot-in-der-karibik-getoetet-haben](https://www.spiegel.de/ausland/usa-sollen-laut-medien-gezielt-ueberlebende-von-drogenboot-in-der-karibik-getoetet-haben-a-16a9794f-be1a-4d03-aeb0-e644d60264fc#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-donald-trump-soll-laut-medienbericht-mit-nicolas-maduro-telefoniert-haben](https://www.spiegel.de/ausland/venezuela-donald-trump-soll-laut-medienbericht-mit-nicolas-maduro-telefoniert-haben-a-b0364834-4775-473b-92f4-c7d8db20c7b6#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben](https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben-a-77f24925-cdad-4271-aa0c-474a387441c1#ref=rss)
-### jeanpascal
-
-* [https://www.spiegel.de/politik/deutschland/news-afd-parteijugend-und-jean-pascal-hohm-cdu-spitzenkandidat-sven-schulze-venezuela-und-die-usa](https://www.spiegel.de/politik/deutschland/news-afd-parteijugend-und-jean-pascal-hohm-cdu-spitzenkandidat-sven-schulze-venezuela-und-die-usa-a-e179c4c9-d834-4a8b-a77f-98cc5991d274#ref=rss)
-* [https://www.spiegel.de/politik/jean-pascal-hohm-als-neuer-afd-jugend-chef-28-jahre-typ-schwiegersohn-rechtsextremist](https://www.spiegel.de/politik/jean-pascal-hohm-als-neuer-afd-jugend-chef-28-jahre-typ-schwiegersohn-rechtsextremist-a-c0aa9f13-7eed-42f9-bd6f-2dab4f15efac#ref=rss)
-### hohm
-
-* [https://www.spiegel.de/politik/deutschland/news-afd-parteijugend-und-jean-pascal-hohm-cdu-spitzenkandidat-sven-schulze-venezuela-und-die-usa](https://www.spiegel.de/politik/deutschland/news-afd-parteijugend-und-jean-pascal-hohm-cdu-spitzenkandidat-sven-schulze-venezuela-und-die-usa-a-e179c4c9-d834-4a8b-a77f-98cc5991d274#ref=rss)
-* [https://www.spiegel.de/politik/jean-pascal-hohm-als-neuer-afd-jugend-chef-28-jahre-typ-schwiegersohn-rechtsextremist](https://www.spiegel.de/politik/jean-pascal-hohm-als-neuer-afd-jugend-chef-28-jahre-typ-schwiegersohn-rechtsextremist-a-c0aa9f13-7eed-42f9-bd6f-2dab4f15efac#ref=rss)
-### venezuela
-
-* [https://www.spiegel.de/politik/deutschland/news-afd-parteijugend-und-jean-pascal-hohm-cdu-spitzenkandidat-sven-schulze-venezuela-und-die-usa](https://www.spiegel.de/politik/deutschland/news-afd-parteijugend-und-jean-pascal-hohm-cdu-spitzenkandidat-sven-schulze-venezuela-und-die-usa-a-e179c4c9-d834-4a8b-a77f-98cc5991d274#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-donald-trump-soll-laut-medienbericht-mit-nicolas-maduro-telefoniert-haben](https://www.spiegel.de/ausland/venezuela-donald-trump-soll-laut-medienbericht-mit-nicolas-maduro-telefoniert-haben-a-b0364834-4775-473b-92f4-c7d8db20c7b6#ref=rss)
-### debatte
-
-* [https://www.spiegel.de/panorama/rente-was-senioren-zur-debatte-ueber-generationengerechtigkeit-sagen](https://www.spiegel.de/panorama/rente-was-senioren-zur-debatte-ueber-generationengerechtigkeit-sagen-a-d7685694-48bc-46c3-b716-aacaa65c0c39#ref=rss)
-### generationengerechtigkeit
-
-* [https://www.spiegel.de/panorama/rente-was-senioren-zur-debatte-ueber-generationengerechtigkeit-sagen](https://www.spiegel.de/panorama/rente-was-senioren-zur-debatte-ueber-generationengerechtigkeit-sagen-a-d7685694-48bc-46c3-b716-aacaa65c0c39#ref=rss)
-### grüne
-
-* [https://www.spiegel.de/politik/deutschland/gruene-fordern-sondersteuer-auf-privat-und-first-class-fluege](https://www.spiegel.de/politik/deutschland/gruene-fordern-sondersteuer-auf-privat-und-first-class-fluege-a-cea1069d-95cf-4c99-9041-b4e6a32628cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-vollziehen-kehrtwende-bei-der-homoeopathie](https://www.spiegel.de/politik/deutschland/gruene-vollziehen-kehrtwende-bei-der-homoeopathie-a-0e6aa2bf-7d52-4a58-b2b6-314fb807f519#ref=rss)
-### henry
-
-* [https://www.spiegel.de/panorama/leute/berlin-henry-huebchen-nennt-seine-heimatstadt-verwahrlost](https://www.spiegel.de/panorama/leute/berlin-henry-huebchen-nennt-seine-heimatstadt-verwahrlost-a-e15fc026-d461-4c64-bd5a-51e74d5e879b#ref=rss)
-### hübchen
-
-* [https://www.spiegel.de/panorama/leute/berlin-henry-huebchen-nennt-seine-heimatstadt-verwahrlost](https://www.spiegel.de/panorama/leute/berlin-henry-huebchen-nennt-seine-heimatstadt-verwahrlost-a-e15fc026-d461-4c64-bd5a-51e74d5e879b#ref=rss)
-### annette
-
-* [https://www.spiegel.de/panorama/leute/altersdiskriminierung-annette-frier-ueber-mangelnde-rollenangebote-fuer-frauen](https://www.spiegel.de/panorama/leute/altersdiskriminierung-annette-frier-ueber-mangelnde-rollenangebote-fuer-frauen-a-64dab605-d174-4786-b84c-c2cc341e3461#ref=rss)
-### frier
-
-* [https://www.spiegel.de/panorama/leute/altersdiskriminierung-annette-frier-ueber-mangelnde-rollenangebote-fuer-frauen](https://www.spiegel.de/panorama/leute/altersdiskriminierung-annette-frier-ueber-mangelnde-rollenangebote-fuer-frauen-a-64dab605-d174-4786-b84c-c2cc341e3461#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/leute/altersdiskriminierung-annette-frier-ueber-mangelnde-rollenangebote-fuer-frauen](https://www.spiegel.de/panorama/leute/altersdiskriminierung-annette-frier-ueber-mangelnde-rollenangebote-fuer-frauen-a-64dab605-d174-4786-b84c-c2cc341e3461#ref=rss)
-* [https://www.spiegel.de/kultur/blackfacing-problematische-fotos-bei-einer-veranstaltung-am-schauspielhaus-hamburg](https://www.spiegel.de/kultur/blackfacing-problematische-fotos-bei-einer-veranstaltung-am-schauspielhaus-hamburg-a-d0451787-5b5e-4adb-a0fd-874999788085#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/panorama/leute/altersdiskriminierung-annette-frier-ueber-mangelnde-rollenangebote-fuer-frauen](https://www.spiegel.de/panorama/leute/altersdiskriminierung-annette-frier-ueber-mangelnde-rollenangebote-fuer-frauen-a-64dab605-d174-4786-b84c-c2cc341e3461#ref=rss)
-* [https://www.spiegel.de/sport/fussball/deutschland-im-nations-league-finale-unterlegen-gegen-spanien-das-war-einmal](https://www.spiegel.de/sport/fussball/deutschland-im-nations-league-finale-unterlegen-gegen-spanien-das-war-einmal-a-1d1cd924-8cc2-4301-a24a-65d357b02299#ref=rss)
-### weihnachtsmann
-
-* [https://www.spiegel.de/panorama/weihnachtsmann-in-himmelsberg-bevorzugt-briefe-statt-mails](https://www.spiegel.de/panorama/weihnachtsmann-in-himmelsberg-bevorzugt-briefe-statt-mails-a-950c10bb-c0fd-4ae2-8ce5-306e55f44fd7#ref=rss)
-### himmelsberg
-
-* [https://www.spiegel.de/panorama/weihnachtsmann-in-himmelsberg-bevorzugt-briefe-statt-mails](https://www.spiegel.de/panorama/weihnachtsmann-in-himmelsberg-bevorzugt-briefe-statt-mails-a-950c10bb-c0fd-4ae2-8ce5-306e55f44fd7#ref=rss)
-### all
-
-* [https://www.spiegel.de/panorama/weihnachtsmann-in-himmelsberg-bevorzugt-briefe-statt-mails](https://www.spiegel.de/panorama/weihnachtsmann-in-himmelsberg-bevorzugt-briefe-statt-mails-a-950c10bb-c0fd-4ae2-8ce5-306e55f44fd7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/baikonur-startrampe-defekt-russland-kann-derzeit-keine-menschen-ins-all-bringen](https://www.spiegel.de/wissenschaft/weltall/baikonur-startrampe-defekt-russland-kann-derzeit-keine-menschen-ins-all-bringen-a-410cae53-385e-4c7d-9e46-8851414636fa#ref=rss)
-### macht
-
-* [https://www.spiegel.de/panorama/weihnachtsmann-in-himmelsberg-bevorzugt-briefe-statt-mails](https://www.spiegel.de/panorama/weihnachtsmann-in-himmelsberg-bevorzugt-briefe-statt-mails-a-950c10bb-c0fd-4ae2-8ce5-306e55f44fd7#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-will-honduras-ex-praesidenten-juan-orlando-hernandez-begnadigen](https://www.spiegel.de/ausland/donald-trump-will-honduras-ex-praesidenten-juan-orlando-hernandez-begnadigen-a-1f4df2df-b679-4691-a7ce-ae9311a51dda#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/politik/anti-afd-demos-in-giessen-strassenblockaden-und-pfefferspray-bei-protesten](https://www.spiegel.de/politik/anti-afd-demos-in-giessen-strassenblockaden-und-pfefferspray-bei-protesten-a-ddb74690-6dc1-4fe5-b851-db5b67da210b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/baikonur-startrampe-defekt-russland-kann-derzeit-keine-menschen-ins-all-bringen](https://www.spiegel.de/wissenschaft/weltall/baikonur-startrampe-defekt-russland-kann-derzeit-keine-menschen-ins-all-bringen-a-410cae53-385e-4c7d-9e46-8851414636fa#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/anti-afd-demos-in-giessen-strassenblockaden-und-pfefferspray-bei-protesten](https://www.spiegel.de/politik/anti-afd-demos-in-giessen-strassenblockaden-und-pfefferspray-bei-protesten-a-ddb74690-6dc1-4fe5-b851-db5b67da210b#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-will-honduras-ex-praesidenten-juan-orlando-hernandez-begnadigen](https://www.spiegel.de/ausland/donald-trump-will-honduras-ex-praesidenten-juan-orlando-hernandez-begnadigen-a-1f4df2df-b679-4691-a7ce-ae9311a51dda#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/politik/anti-afd-demos-in-giessen-strassenblockaden-und-pfefferspray-bei-protesten](https://www.spiegel.de/politik/anti-afd-demos-in-giessen-strassenblockaden-und-pfefferspray-bei-protesten-a-ddb74690-6dc1-4fe5-b851-db5b67da210b#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-donald-trump-soll-laut-medienbericht-mit-nicolas-maduro-telefoniert-haben](https://www.spiegel.de/ausland/venezuela-donald-trump-soll-laut-medienbericht-mit-nicolas-maduro-telefoniert-haben-a-b0364834-4775-473b-92f4-c7d8db20c7b6#ref=rss)
-### angriffen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-tote-und-verletzte-bei-russischen-angriffen-vor-moeglichen-friedensgespraechen](https://www.spiegel.de/ausland/ukraine-krieg-tote-und-verletzte-bei-russischen-angriffen-vor-moeglichen-friedensgespraechen-a-80f13ee3-08e2-49a1-bdc2-52239911d6b5#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/auto/stuttgart-21-app-zeigt-umweg-durch-bahnhofstunnel-als-wandertour](https://www.spiegel.de/auto/stuttgart-21-app-zeigt-umweg-durch-bahnhofstunnel-als-wandertour-a-9a05d09f-1df6-4ff6-bd57-8279fed90528#ref=rss)
-### 21
-
-* [https://www.spiegel.de/auto/stuttgart-21-app-zeigt-umweg-durch-bahnhofstunnel-als-wandertour](https://www.spiegel.de/auto/stuttgart-21-app-zeigt-umweg-durch-bahnhofstunnel-als-wandertour-a-9a05d09f-1df6-4ff6-bd57-8279fed90528#ref=rss)
-### app
-
-* [https://www.spiegel.de/auto/stuttgart-21-app-zeigt-umweg-durch-bahnhofstunnel-als-wandertour](https://www.spiegel.de/auto/stuttgart-21-app-zeigt-umweg-durch-bahnhofstunnel-als-wandertour-a-9a05d09f-1df6-4ff6-bd57-8279fed90528#ref=rss)
-### umweg
-
-* [https://www.spiegel.de/auto/stuttgart-21-app-zeigt-umweg-durch-bahnhofstunnel-als-wandertour](https://www.spiegel.de/auto/stuttgart-21-app-zeigt-umweg-durch-bahnhofstunnel-als-wandertour-a-9a05d09f-1df6-4ff6-bd57-8279fed90528#ref=rss)
-### bahnhofstunnel
-
-* [https://www.spiegel.de/auto/stuttgart-21-app-zeigt-umweg-durch-bahnhofstunnel-als-wandertour](https://www.spiegel.de/auto/stuttgart-21-app-zeigt-umweg-durch-bahnhofstunnel-als-wandertour-a-9a05d09f-1df6-4ff6-bd57-8279fed90528#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/usa-sollen-laut-medien-gezielt-ueberlebende-von-drogenboot-in-der-karibik-getoetet-haben](https://www.spiegel.de/ausland/usa-sollen-laut-medien-gezielt-ueberlebende-von-drogenboot-in-der-karibik-getoetet-haben-a-16a9794f-be1a-4d03-aeb0-e644d60264fc#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-donald-trump-soll-laut-medienbericht-mit-nicolas-maduro-telefoniert-haben](https://www.spiegel.de/ausland/venezuela-donald-trump-soll-laut-medienbericht-mit-nicolas-maduro-telefoniert-haben-a-b0364834-4775-473b-92f4-c7d8db20c7b6#ref=rss)
-### gezielt
-
-* [https://www.spiegel.de/ausland/usa-sollen-laut-medien-gezielt-ueberlebende-von-drogenboot-in-der-karibik-getoetet-haben](https://www.spiegel.de/ausland/usa-sollen-laut-medien-gezielt-ueberlebende-von-drogenboot-in-der-karibik-getoetet-haben-a-16a9794f-be1a-4d03-aeb0-e644d60264fc#ref=rss)
-### überlebende
-
-* [https://www.spiegel.de/ausland/usa-sollen-laut-medien-gezielt-ueberlebende-von-drogenboot-in-der-karibik-getoetet-haben](https://www.spiegel.de/ausland/usa-sollen-laut-medien-gezielt-ueberlebende-von-drogenboot-in-der-karibik-getoetet-haben-a-16a9794f-be1a-4d03-aeb0-e644d60264fc#ref=rss)
-### karibik
-
-* [https://www.spiegel.de/ausland/usa-sollen-laut-medien-gezielt-ueberlebende-von-drogenboot-in-der-karibik-getoetet-haben](https://www.spiegel.de/ausland/usa-sollen-laut-medien-gezielt-ueberlebende-von-drogenboot-in-der-karibik-getoetet-haben-a-16a9794f-be1a-4d03-aeb0-e644d60264fc#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/ausland/usa-sollen-laut-medien-gezielt-ueberlebende-von-drogenboot-in-der-karibik-getoetet-haben](https://www.spiegel.de/ausland/usa-sollen-laut-medien-gezielt-ueberlebende-von-drogenboot-in-der-karibik-getoetet-haben-a-16a9794f-be1a-4d03-aeb0-e644d60264fc#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/reise/schlittschuhlaufen-das-sind-die-schoensten-eisbahnen-in-deutschland-oesterreich-und-der-schweiz](https://www.spiegel.de/reise/schlittschuhlaufen-das-sind-die-schoensten-eisbahnen-in-deutschland-oesterreich-und-der-schweiz-a-09f4b0e7-c411-429f-878d-f21c23b10d52#ref=rss)
-* [https://www.spiegel.de/ausland/kloster-goldenstein-oesterreich-nonnen-schlagen-deal-mit-der-kirche-aus](https://www.spiegel.de/ausland/kloster-goldenstein-oesterreich-nonnen-schlagen-deal-mit-der-kirche-aus-a-2d73dace-82fe-4a70-a6b4-fed5eb561d31#ref=rss)
-### halten
-
-* [https://www.spiegel.de/reise/schlittschuhlaufen-das-sind-die-schoensten-eisbahnen-in-deutschland-oesterreich-und-der-schweiz](https://www.spiegel.de/reise/schlittschuhlaufen-das-sind-die-schoensten-eisbahnen-in-deutschland-oesterreich-und-der-schweiz-a-09f4b0e7-c411-429f-878d-f21c23b10d52#ref=rss)
-* [https://www.spiegel.de/ausland/gute-nachrichten-der-woche-ein-gefluechteter-wird-sumo-champion-und-wasser-fuer-gaza](https://www.spiegel.de/ausland/gute-nachrichten-der-woche-ein-gefluechteter-wird-sumo-champion-und-wasser-fuer-gaza-a-a9170d6b-2570-4ba2-8cdf-36d7fa0bac57#ref=rss)
-### nachrichten
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-der-woche-ein-gefluechteter-wird-sumo-champion-und-wasser-fuer-gaza](https://www.spiegel.de/ausland/gute-nachrichten-der-woche-ein-gefluechteter-wird-sumo-champion-und-wasser-fuer-gaza-a-a9170d6b-2570-4ba2-8cdf-36d7fa0bac57#ref=rss)
-### woche
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-der-woche-ein-gefluechteter-wird-sumo-champion-und-wasser-fuer-gaza](https://www.spiegel.de/ausland/gute-nachrichten-der-woche-ein-gefluechteter-wird-sumo-champion-und-wasser-fuer-gaza-a-a9170d6b-2570-4ba2-8cdf-36d7fa0bac57#ref=rss)
-### sumochampion
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-der-woche-ein-gefluechteter-wird-sumo-champion-und-wasser-fuer-gaza](https://www.spiegel.de/ausland/gute-nachrichten-der-woche-ein-gefluechteter-wird-sumo-champion-und-wasser-fuer-gaza-a-a9170d6b-2570-4ba2-8cdf-36d7fa0bac57#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/ausland/gute-nachrichten-der-woche-ein-gefluechteter-wird-sumo-champion-und-wasser-fuer-gaza](https://www.spiegel.de/ausland/gute-nachrichten-der-woche-ein-gefluechteter-wird-sumo-champion-und-wasser-fuer-gaza-a-a9170d6b-2570-4ba2-8cdf-36d7fa0bac57#ref=rss)
-### baikonur
-
-* [https://www.spiegel.de/wissenschaft/weltall/baikonur-startrampe-defekt-russland-kann-derzeit-keine-menschen-ins-all-bringen](https://www.spiegel.de/wissenschaft/weltall/baikonur-startrampe-defekt-russland-kann-derzeit-keine-menschen-ins-all-bringen-a-410cae53-385e-4c7d-9e46-8851414636fa#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/wissenschaft/weltall/baikonur-startrampe-defekt-russland-kann-derzeit-keine-menschen-ins-all-bringen](https://www.spiegel.de/wissenschaft/weltall/baikonur-startrampe-defekt-russland-kann-derzeit-keine-menschen-ins-all-bringen-a-410cae53-385e-4c7d-9e46-8851414636fa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-vollziehen-kehrtwende-bei-der-homoeopathie](https://www.spiegel.de/politik/deutschland/gruene-vollziehen-kehrtwende-bei-der-homoeopathie-a-0e6aa2bf-7d52-4a58-b2b6-314fb807f519#ref=rss)
-### strom
-
-* [https://www.spiegel.de/wirtschaft/energiepreise-strom-und-gas-werden-2026-in-vielen-bundeslaendern-guenstiger](https://www.spiegel.de/wirtschaft/energiepreise-strom-und-gas-werden-2026-in-vielen-bundeslaendern-guenstiger-a-c36eaccd-eed6-47fa-a863-bb72d8bb1559#ref=rss)
-### gas
-
-* [https://www.spiegel.de/wirtschaft/energiepreise-strom-und-gas-werden-2026-in-vielen-bundeslaendern-guenstiger](https://www.spiegel.de/wirtschaft/energiepreise-strom-und-gas-werden-2026-in-vielen-bundeslaendern-guenstiger-a-c36eaccd-eed6-47fa-a863-bb72d8bb1559#ref=rss)
-### günstiger
-
-* [https://www.spiegel.de/wirtschaft/energiepreise-strom-und-gas-werden-2026-in-vielen-bundeslaendern-guenstiger](https://www.spiegel.de/wirtschaft/energiepreise-strom-und-gas-werden-2026-in-vielen-bundeslaendern-guenstiger-a-c36eaccd-eed6-47fa-a863-bb72d8bb1559#ref=rss)
-### schulze
-
-* [https://www.spiegel.de/politik/deutschland/news-afd-parteijugend-und-jean-pascal-hohm-cdu-spitzenkandidat-sven-schulze-venezuela-und-die-usa](https://www.spiegel.de/politik/deutschland/news-afd-parteijugend-und-jean-pascal-hohm-cdu-spitzenkandidat-sven-schulze-venezuela-und-die-usa-a-e179c4c9-d834-4a8b-a77f-98cc5991d274#ref=rss)
-### parteijugend
-
-* [https://www.spiegel.de/politik/deutschland/news-afd-parteijugend-und-jean-pascal-hohm-cdu-spitzenkandidat-sven-schulze-venezuela-und-die-usa](https://www.spiegel.de/politik/deutschland/news-afd-parteijugend-und-jean-pascal-hohm-cdu-spitzenkandidat-sven-schulze-venezuela-und-die-usa-a-e179c4c9-d834-4a8b-a77f-98cc5991d274#ref=rss)
-* [https://www.spiegel.de/politik/jean-pascal-hohm-als-neuer-afd-jugend-chef-28-jahre-typ-schwiegersohn-rechtsextremist](https://www.spiegel.de/politik/jean-pascal-hohm-als-neuer-afd-jugend-chef-28-jahre-typ-schwiegersohn-rechtsextremist-a-c0aa9f13-7eed-42f9-bd6f-2dab4f15efac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/nicola-leibinger-kammueller-von-trumpf-ueber-afd-brandmauer-neue-politik-statt-empoerung](https://www.spiegel.de/wirtschaft/unternehmen/nicola-leibinger-kammueller-von-trumpf-ueber-afd-brandmauer-neue-politik-statt-empoerung-a-e3507c4d-1265-4fcc-bdf0-708227810b97#ref=rss)
+* [https://www.spiegel.de/ausland/finnische-ex-regierungschefin-sanna-marin-ich-musste-mich-fragen-lassen-wie-viel-alkohol-ich-getrunken-hatte](https://www.spiegel.de/ausland/finnische-ex-regierungschefin-sanna-marin-ich-musste-mich-fragen-lassen-wie-viel-alkohol-ich-getrunken-hatte-a-99c9963a-43ed-47c5-9821-d029efc3b061#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/politik/deutschland/news-afd-parteijugend-und-jean-pascal-hohm-cdu-spitzenkandidat-sven-schulze-venezuela-und-die-usa](https://www.spiegel.de/politik/deutschland/news-afd-parteijugend-und-jean-pascal-hohm-cdu-spitzenkandidat-sven-schulze-venezuela-und-die-usa-a-e179c4c9-d834-4a8b-a77f-98cc5991d274#ref=rss)
-* [https://www.spiegel.de/politik/jean-pascal-hohm-als-neuer-afd-jugend-chef-28-jahre-typ-schwiegersohn-rechtsextremist](https://www.spiegel.de/politik/jean-pascal-hohm-als-neuer-afd-jugend-chef-28-jahre-typ-schwiegersohn-rechtsextremist-a-c0aa9f13-7eed-42f9-bd6f-2dab4f15efac#ref=rss)
-### faravaz
+* [https://www.spiegel.de/wirtschaft/unternehmen/nicola-leibinger-kammueller-von-trumpf-ueber-afd-brandmauer-neue-politik-statt-empoerung](https://www.spiegel.de/wirtschaft/unternehmen/nicola-leibinger-kammueller-von-trumpf-ueber-afd-brandmauer-neue-politik-statt-empoerung-a-e3507c4d-1265-4fcc-bdf0-708227810b97#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-jugendkongress-in-giessen-startet-mit-zweistuendiger-verspaetung](https://www.spiegel.de/politik/deutschland/afd-jugendkongress-in-giessen-startet-mit-zweistuendiger-verspaetung-a-2751ab35-d3fb-4e70-bca6-7edd5a743e37#ref=rss)
+* [https://www.spiegel.de/kultur/kino/sehnsucht-in-sangerhausen-im-kino-die-spur-der-steine](https://www.spiegel.de/kultur/kino/sehnsucht-in-sangerhausen-im-kino-die-spur-der-steine-a-afdedc35-0f22-4729-af7e-56fe27a65db7#ref=rss)
+### trumps
 
-* [https://www.spiegel.de/panorama/faravaz-saengerin-fluechtete-vor-den-mullahs-in-brandenburg-tritt-sie-unter-polizeischutz-auf](https://www.spiegel.de/panorama/faravaz-saengerin-fluechtete-vor-den-mullahs-in-brandenburg-tritt-sie-unter-polizeischutz-auf-a-8bb57db1-86bd-479a-8c70-6100b7d7c134#ref=rss)
-### sängerin
+* [https://www.spiegel.de/ausland/donald-trump-friedensplan-fuer-die-ukraine-womoeglich-nur-aus-wirtschaftlichem-interesse](https://www.spiegel.de/ausland/donald-trump-friedensplan-fuer-die-ukraine-womoeglich-nur-aus-wirtschaftlichem-interesse-a-cc34199d-72ea-463d-a0df-f64e69214c64#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-so-inszeniert-das-weisse-haus-die-praesidentschaft](https://www.spiegel.de/ausland/donald-trump-so-inszeniert-das-weisse-haus-die-praesidentschaft-a-a75bf7cd-041d-4e12-b85c-3aa52704815c#ref=rss)
+* [https://www.spiegel.de/ausland/marjorie-taylor-greene-einst-feurigste-unterstuetzerin-von-donald-trump-jetzt-verraeterin](https://www.spiegel.de/ausland/marjorie-taylor-greene-einst-feurigste-unterstuetzerin-von-donald-trump-jetzt-verraeterin-a-d2eb4ed4-153b-47d8-a45a-bee769e20c0a#ref=rss)
+### wir
 
-* [https://www.spiegel.de/panorama/faravaz-saengerin-fluechtete-vor-den-mullahs-in-brandenburg-tritt-sie-unter-polizeischutz-auf](https://www.spiegel.de/panorama/faravaz-saengerin-fluechtete-vor-den-mullahs-in-brandenburg-tritt-sie-unter-polizeischutz-auf-a-8bb57db1-86bd-479a-8c70-6100b7d7c134#ref=rss)
-### schlagen
+* [https://www.spiegel.de/familie/schule-klassenarbeiten-und-druck-was-eltern-und-kinder-fuereinander-und-voneinander-lernen](https://www.spiegel.de/familie/schule-klassenarbeiten-und-druck-was-eltern-und-kinder-fuereinander-und-voneinander-lernen-a-1f5df9c9-9ef7-4007-9ae4-aab2e8d050b1#ref=rss)
+* [https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder](https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder-a-490e8aee-3109-4559-ba96-16d60d370925#ref=rss)
+### bürgergeld
 
-* [https://www.spiegel.de/panorama/faravaz-saengerin-fluechtete-vor-den-mullahs-in-brandenburg-tritt-sie-unter-polizeischutz-auf](https://www.spiegel.de/panorama/faravaz-saengerin-fluechtete-vor-den-mullahs-in-brandenburg-tritt-sie-unter-polizeischutz-auf-a-8bb57db1-86bd-479a-8c70-6100b7d7c134#ref=rss)
-* [https://www.spiegel.de/ausland/kloster-goldenstein-oesterreich-nonnen-schlagen-deal-mit-der-kirche-aus](https://www.spiegel.de/ausland/kloster-goldenstein-oesterreich-nonnen-schlagen-deal-mit-der-kirche-aus-a-2d73dace-82fe-4a70-a6b4-fed5eb561d31#ref=rss)
-### schüsse
+* [https://www.spiegel.de/politik/deutschland/juso-bundeskongress-in-mannheim-spd-nachwuchs-protestiert-lautstark-gegen-afd-jugendorganisation](https://www.spiegel.de/politik/deutschland/juso-bundeskongress-in-mannheim-spd-nachwuchs-protestiert-lautstark-gegen-afd-jugendorganisation-a-f3f804fa-d636-4430-a16f-6e20873c2834#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krankenkassen-streit-um-buergergeld-zahlungen-erste-klagen-eingereicht](https://www.spiegel.de/wirtschaft/krankenkassen-streit-um-buergergeld-zahlungen-erste-klagen-eingereicht-a-76c8eb19-0289-41dc-b56c-037454090c2b#ref=rss)
+### hoch
 
-* [https://www.spiegel.de/ausland/schuesse-in-washington-d-c-usa-einwanderungsbehoerde-stoppt-vorerst-saemtliche-asyl-entscheidungen](https://www.spiegel.de/ausland/schuesse-in-washington-d-c-usa-einwanderungsbehoerde-stoppt-vorerst-saemtliche-asyl-entscheidungen-a-48c74280-c71d-4185-a956-31af6952ee75#ref=rss)
-### stoppt
+* [https://www.spiegel.de/politik/deutschland/juso-bundeskongress-in-mannheim-spd-nachwuchs-protestiert-lautstark-gegen-afd-jugendorganisation](https://www.spiegel.de/politik/deutschland/juso-bundeskongress-in-mannheim-spd-nachwuchs-protestiert-lautstark-gegen-afd-jugendorganisation-a-f3f804fa-d636-4430-a16f-6e20873c2834#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/forscher-warnen-vor-vogelgrippe-pandemie](https://www.spiegel.de/wissenschaft/natur/forscher-warnen-vor-vogelgrippe-pandemie-a-999b9cf9-0913-4b9a-936a-f04e7a431793#ref=rss)
+### grüne
 
-* [https://www.spiegel.de/ausland/schuesse-in-washington-d-c-usa-einwanderungsbehoerde-stoppt-vorerst-saemtliche-asyl-entscheidungen](https://www.spiegel.de/ausland/schuesse-in-washington-d-c-usa-einwanderungsbehoerde-stoppt-vorerst-saemtliche-asyl-entscheidungen-a-48c74280-c71d-4185-a956-31af6952ee75#ref=rss)
-### asylentscheidungen
+* [https://www.spiegel.de/auto/gruene-wollen-neun-euro-ticket-zurueck](https://www.spiegel.de/auto/gruene-wollen-neun-euro-ticket-zurueck-a-54d7d492-8e39-4552-b461-7042bffc6ca4#ref=rss)
+* [https://www.spiegel.de/panorama/thueringen-wirbt-mit-nazi-slogan-gruenes-herz-mit-braunem-schatten](https://www.spiegel.de/panorama/thueringen-wirbt-mit-nazi-slogan-gruenes-herz-mit-braunem-schatten-a-da13d16b-8129-4f0d-8b67-99ea7d71644f#ref=rss)
+### robert
 
-* [https://www.spiegel.de/ausland/schuesse-in-washington-d-c-usa-einwanderungsbehoerde-stoppt-vorerst-saemtliche-asyl-entscheidungen](https://www.spiegel.de/ausland/schuesse-in-washington-d-c-usa-einwanderungsbehoerde-stoppt-vorerst-saemtliche-asyl-entscheidungen-a-48c74280-c71d-4185-a956-31af6952ee75#ref=rss)
-### alle
+* [https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-us-gesundheitsminister-irritiert-mit-bearbeitetem-thanksgiving-foto](https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-us-gesundheitsminister-irritiert-mit-bearbeitetem-thanksgiving-foto-a-6272511d-9ac5-4915-98c7-0bf9830c4318#ref=rss)
+### f
 
-* [https://www.spiegel.de/ausland/schuesse-in-washington-d-c-usa-einwanderungsbehoerde-stoppt-vorerst-saemtliche-asyl-entscheidungen](https://www.spiegel.de/ausland/schuesse-in-washington-d-c-usa-einwanderungsbehoerde-stoppt-vorerst-saemtliche-asyl-entscheidungen-a-48c74280-c71d-4185-a956-31af6952ee75#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben](https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben-a-77f24925-cdad-4271-aa0c-474a387441c1#ref=rss)
-### paris
+* [https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-us-gesundheitsminister-irritiert-mit-bearbeitetem-thanksgiving-foto](https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-us-gesundheitsminister-irritiert-mit-bearbeitetem-thanksgiving-foto-a-6272511d-9ac5-4915-98c7-0bf9830c4318#ref=rss)
+### kennedy
 
-* [https://www.spiegel.de/panorama/paris-filminstitut-schliesst-kinosaele-wegen-bett-wanzen](https://www.spiegel.de/panorama/paris-filminstitut-schliesst-kinosaele-wegen-bett-wanzen-a-adbe6380-8568-4513-8506-3a6cab9f1643#ref=rss)
-### filminstitut
+* [https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-us-gesundheitsminister-irritiert-mit-bearbeitetem-thanksgiving-foto](https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-us-gesundheitsminister-irritiert-mit-bearbeitetem-thanksgiving-foto-a-6272511d-9ac5-4915-98c7-0bf9830c4318#ref=rss)
+### jr
 
-* [https://www.spiegel.de/panorama/paris-filminstitut-schliesst-kinosaele-wegen-bett-wanzen](https://www.spiegel.de/panorama/paris-filminstitut-schliesst-kinosaele-wegen-bett-wanzen-a-adbe6380-8568-4513-8506-3a6cab9f1643#ref=rss)
-### bettwanzen
+* [https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-us-gesundheitsminister-irritiert-mit-bearbeitetem-thanksgiving-foto](https://www.spiegel.de/panorama/leute/robert-f-kennedy-jr-us-gesundheitsminister-irritiert-mit-bearbeitetem-thanksgiving-foto-a-6272511d-9ac5-4915-98c7-0bf9830c4318#ref=rss)
+### fc
 
-* [https://www.spiegel.de/panorama/paris-filminstitut-schliesst-kinosaele-wegen-bett-wanzen](https://www.spiegel.de/panorama/paris-filminstitut-schliesst-kinosaele-wegen-bett-wanzen-a-adbe6380-8568-4513-8506-3a6cab9f1643#ref=rss)
-### honduras
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-mit-muehe-gegen-fc-st-pauli-sandro-wagner-erlebt-debakel-zum-geburtstag](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-mit-muehe-gegen-fc-st-pauli-sandro-wagner-erlebt-debakel-zum-geburtstag-a-a6b0cf28-f1c8-479c-8e3b-71c5d358ec39#ref=rss)
+### st
 
-* [https://www.spiegel.de/ausland/donald-trump-will-honduras-ex-praesidenten-juan-orlando-hernandez-begnadigen](https://www.spiegel.de/ausland/donald-trump-will-honduras-ex-praesidenten-juan-orlando-hernandez-begnadigen-a-1f4df2df-b679-4691-a7ce-ae9311a51dda#ref=rss)
-### hernández
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-mit-muehe-gegen-fc-st-pauli-sandro-wagner-erlebt-debakel-zum-geburtstag](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-mit-muehe-gegen-fc-st-pauli-sandro-wagner-erlebt-debakel-zum-geburtstag-a-a6b0cf28-f1c8-479c-8e3b-71c5d358ec39#ref=rss)
+### pauli
 
-* [https://www.spiegel.de/ausland/donald-trump-will-honduras-ex-praesidenten-juan-orlando-hernandez-begnadigen](https://www.spiegel.de/ausland/donald-trump-will-honduras-ex-praesidenten-juan-orlando-hernandez-begnadigen-a-1f4df2df-b679-4691-a7ce-ae9311a51dda#ref=rss)
-### begnadigen
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-mit-muehe-gegen-fc-st-pauli-sandro-wagner-erlebt-debakel-zum-geburtstag](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-mit-muehe-gegen-fc-st-pauli-sandro-wagner-erlebt-debakel-zum-geburtstag-a-a6b0cf28-f1c8-479c-8e3b-71c5d358ec39#ref=rss)
+### sandro
 
-* [https://www.spiegel.de/ausland/donald-trump-will-honduras-ex-praesidenten-juan-orlando-hernandez-begnadigen](https://www.spiegel.de/ausland/donald-trump-will-honduras-ex-praesidenten-juan-orlando-hernandez-begnadigen-a-1f4df2df-b679-4691-a7ce-ae9311a51dda#ref=rss)
-### bald
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-mit-muehe-gegen-fc-st-pauli-sandro-wagner-erlebt-debakel-zum-geburtstag](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-mit-muehe-gegen-fc-st-pauli-sandro-wagner-erlebt-debakel-zum-geburtstag-a-a6b0cf28-f1c8-479c-8e3b-71c5d358ec39#ref=rss)
+### wagner
 
-* [https://www.spiegel.de/ausland/donald-trump-will-honduras-ex-praesidenten-juan-orlando-hernandez-begnadigen](https://www.spiegel.de/ausland/donald-trump-will-honduras-ex-praesidenten-juan-orlando-hernandez-begnadigen-a-1f4df2df-b679-4691-a7ce-ae9311a51dda#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-donald-trump-soll-laut-medienbericht-mit-nicolas-maduro-telefoniert-haben](https://www.spiegel.de/ausland/venezuela-donald-trump-soll-laut-medienbericht-mit-nicolas-maduro-telefoniert-haben-a-b0364834-4775-473b-92f4-c7d8db20c7b6#ref=rss)
-### kehrtwende
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-mit-muehe-gegen-fc-st-pauli-sandro-wagner-erlebt-debakel-zum-geburtstag](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-mit-muehe-gegen-fc-st-pauli-sandro-wagner-erlebt-debakel-zum-geburtstag-a-a6b0cf28-f1c8-479c-8e3b-71c5d358ec39#ref=rss)
+### erlebt
 
-* [https://www.spiegel.de/politik/deutschland/gruene-vollziehen-kehrtwende-bei-der-homoeopathie](https://www.spiegel.de/politik/deutschland/gruene-vollziehen-kehrtwende-bei-der-homoeopathie-a-0e6aa2bf-7d52-4a58-b2b6-314fb807f519#ref=rss)
-### hannover
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-mit-muehe-gegen-fc-st-pauli-sandro-wagner-erlebt-debakel-zum-geburtstag](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-mit-muehe-gegen-fc-st-pauli-sandro-wagner-erlebt-debakel-zum-geburtstag-a-a6b0cf28-f1c8-479c-8e3b-71c5d358ec39#ref=rss)
+### debakel
 
-* [https://www.spiegel.de/politik/deutschland/gruene-vollziehen-kehrtwende-bei-der-homoeopathie](https://www.spiegel.de/politik/deutschland/gruene-vollziehen-kehrtwende-bei-der-homoeopathie-a-0e6aa2bf-7d52-4a58-b2b6-314fb807f519#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn-a-eae01284-1393-406d-ac5a-33bd3bd18ae5#ref=rss)
-### spanien
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-mit-muehe-gegen-fc-st-pauli-sandro-wagner-erlebt-debakel-zum-geburtstag](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-mit-muehe-gegen-fc-st-pauli-sandro-wagner-erlebt-debakel-zum-geburtstag-a-a6b0cf28-f1c8-479c-8e3b-71c5d358ec39#ref=rss)
+### geburtstag
 
-* [https://www.spiegel.de/sport/fussball/deutschland-im-nations-league-finale-unterlegen-gegen-spanien-das-war-einmal](https://www.spiegel.de/sport/fussball/deutschland-im-nations-league-finale-unterlegen-gegen-spanien-das-war-einmal-a-1d1cd924-8cc2-4301-a24a-65d357b02299#ref=rss)
-### kloster
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-mit-muehe-gegen-fc-st-pauli-sandro-wagner-erlebt-debakel-zum-geburtstag](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-mit-muehe-gegen-fc-st-pauli-sandro-wagner-erlebt-debakel-zum-geburtstag-a-a6b0cf28-f1c8-479c-8e3b-71c5d358ec39#ref=rss)
+### experten
 
-* [https://www.spiegel.de/ausland/kloster-goldenstein-oesterreich-nonnen-schlagen-deal-mit-der-kirche-aus](https://www.spiegel.de/ausland/kloster-goldenstein-oesterreich-nonnen-schlagen-deal-mit-der-kirche-aus-a-2d73dace-82fe-4a70-a6b4-fed5eb561d31#ref=rss)
-### kirche
+* [https://www.spiegel.de/wissenschaft/technik/russland-interkontinentalrakete-bei-test-explodiert-experten-tippen-auf-sarmat](https://www.spiegel.de/wissenschaft/technik/russland-interkontinentalrakete-bei-test-explodiert-experten-tippen-auf-sarmat-a-3f209a1b-3e1f-4744-a454-c215e0c83a7f#ref=rss)
+### nahe
 
-* [https://www.spiegel.de/ausland/kloster-goldenstein-oesterreich-nonnen-schlagen-deal-mit-der-kirche-aus](https://www.spiegel.de/ausland/kloster-goldenstein-oesterreich-nonnen-schlagen-deal-mit-der-kirche-aus-a-2d73dace-82fe-4a70-a6b4-fed5eb561d31#ref=rss)
-### maduro
+* [https://www.spiegel.de/wissenschaft/technik/russland-interkontinentalrakete-bei-test-explodiert-experten-tippen-auf-sarmat](https://www.spiegel.de/wissenschaft/technik/russland-interkontinentalrakete-bei-test-explodiert-experten-tippen-auf-sarmat-a-3f209a1b-3e1f-4744-a454-c215e0c83a7f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/volocopter-chinesische-investoren-retten-flugtaxi-firma-vor-der-insolvenz](https://www.spiegel.de/wissenschaft/technik/volocopter-chinesische-investoren-retten-flugtaxi-firma-vor-der-insolvenz-a-319f5696-d1d8-4ecf-a141-79a87a242c85#ref=rss)
+### volocopter
 
-* [https://www.spiegel.de/ausland/venezuela-donald-trump-soll-laut-medienbericht-mit-nicolas-maduro-telefoniert-haben](https://www.spiegel.de/ausland/venezuela-donald-trump-soll-laut-medienbericht-mit-nicolas-maduro-telefoniert-haben-a-b0364834-4775-473b-92f4-c7d8db20c7b6#ref=rss)
-### dekrete
+* [https://www.spiegel.de/wissenschaft/technik/volocopter-chinesische-investoren-retten-flugtaxi-firma-vor-der-insolvenz](https://www.spiegel.de/wissenschaft/technik/volocopter-chinesische-investoren-retten-flugtaxi-firma-vor-der-insolvenz-a-319f5696-d1d8-4ecf-a141-79a87a242c85#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben](https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben-a-77f24925-cdad-4271-aa0c-474a387441c1#ref=rss)
-### joe
+* [https://www.spiegel.de/wissenschaft/technik/volocopter-chinesische-investoren-retten-flugtaxi-firma-vor-der-insolvenz](https://www.spiegel.de/wissenschaft/technik/volocopter-chinesische-investoren-retten-flugtaxi-firma-vor-der-insolvenz-a-319f5696-d1d8-4ecf-a141-79a87a242c85#ref=rss)
+* [https://www.spiegel.de/kultur/kino/sehnsucht-in-sangerhausen-im-kino-die-spur-der-steine](https://www.spiegel.de/kultur/kino/sehnsucht-in-sangerhausen-im-kino-die-spur-der-steine-a-afdedc35-0f22-4729-af7e-56fe27a65db7#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben](https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben-a-77f24925-cdad-4271-aa0c-474a387441c1#ref=rss)
-### biden
+* [https://www.spiegel.de/wissenschaft/technik/volocopter-chinesische-investoren-retten-flugtaxi-firma-vor-der-insolvenz](https://www.spiegel.de/wissenschaft/technik/volocopter-chinesische-investoren-retten-flugtaxi-firma-vor-der-insolvenz-a-319f5696-d1d8-4ecf-a141-79a87a242c85#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-magdeburg-brandrede-von-reiner-haseloff-dann-sagt-der-kanzler-einen-seltsamen-satz](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-magdeburg-brandrede-von-reiner-haseloff-dann-sagt-der-kanzler-einen-seltsamen-satz-a-82d0e0ff-ace9-4596-864d-26c75b8e8c8e#ref=rss)
+### china
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben](https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben-a-77f24925-cdad-4271-aa0c-474a387441c1#ref=rss)
-### arbeitet
+* [https://www.spiegel.de/auto/china-eastern-kuendigt-neuen-rekordflug-an-das-sind-die-laengsten-flugstrecken-der-welt](https://www.spiegel.de/auto/china-eastern-kuendigt-neuen-rekordflug-an-das-sind-die-laengsten-flugstrecken-der-welt-a-89b9d17b-2b0b-48a8-be06-3f3fb7ae3943#ref=rss)
+### eastern
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben](https://www.spiegel.de/ausland/usa-donald-trump-will-fast-alle-dekrete-von-joe-biden-aufheben-a-77f24925-cdad-4271-aa0c-474a387441c1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn-a-eae01284-1393-406d-ac5a-33bd3bd18ae5#ref=rss)
-### bsw
+* [https://www.spiegel.de/auto/china-eastern-kuendigt-neuen-rekordflug-an-das-sind-die-laengsten-flugstrecken-der-welt](https://www.spiegel.de/auto/china-eastern-kuendigt-neuen-rekordflug-an-das-sind-die-laengsten-flugstrecken-der-welt-a-89b9d17b-2b0b-48a8-be06-3f3fb7ae3943#ref=rss)
+### welt
 
-* [https://www.spiegel.de/politik/deutschland/bsw-jetzt-bleibt-sahra-wagenknecht-nur-noch-der-gang-nach-karlsruhe](https://www.spiegel.de/politik/deutschland/bsw-jetzt-bleibt-sahra-wagenknecht-nur-noch-der-gang-nach-karlsruhe-a-0c5c07e3-bfe3-4d26-993e-7e0d699925ed#ref=rss)
-### sahra
+* [https://www.spiegel.de/auto/china-eastern-kuendigt-neuen-rekordflug-an-das-sind-die-laengsten-flugstrecken-der-welt](https://www.spiegel.de/auto/china-eastern-kuendigt-neuen-rekordflug-an-das-sind-die-laengsten-flugstrecken-der-welt-a-89b9d17b-2b0b-48a8-be06-3f3fb7ae3943#ref=rss)
+* [https://www.spiegel.de/wirtschaft/constantin-schreiber-wie-der-ex-tagesschau-sprecher-an-seiner-marke-arbeitet](https://www.spiegel.de/wirtschaft/constantin-schreiber-wie-der-ex-tagesschau-sprecher-an-seiner-marke-arbeitet-a-cb617de6-4446-4fb4-9393-c0a0ec9f44d0#ref=rss)
+### fliegen
 
-* [https://www.spiegel.de/politik/deutschland/bsw-jetzt-bleibt-sahra-wagenknecht-nur-noch-der-gang-nach-karlsruhe](https://www.spiegel.de/politik/deutschland/bsw-jetzt-bleibt-sahra-wagenknecht-nur-noch-der-gang-nach-karlsruhe-a-0c5c07e3-bfe3-4d26-993e-7e0d699925ed#ref=rss)
-### wagenknecht
+* [https://www.spiegel.de/auto/china-eastern-kuendigt-neuen-rekordflug-an-das-sind-die-laengsten-flugstrecken-der-welt](https://www.spiegel.de/auto/china-eastern-kuendigt-neuen-rekordflug-an-das-sind-die-laengsten-flugstrecken-der-welt-a-89b9d17b-2b0b-48a8-be06-3f3fb7ae3943#ref=rss)
+* [https://www.spiegel.de/ausland/trump-erklaert-luftraum-ueber-venezuela-fuer-geschlossen](https://www.spiegel.de/ausland/trump-erklaert-luftraum-ueber-venezuela-fuer-geschlossen-a-f87ead67-9888-4668-b369-cae48ea616f4#ref=rss)
+### nicola
 
-* [https://www.spiegel.de/politik/deutschland/bsw-jetzt-bleibt-sahra-wagenknecht-nur-noch-der-gang-nach-karlsruhe](https://www.spiegel.de/politik/deutschland/bsw-jetzt-bleibt-sahra-wagenknecht-nur-noch-der-gang-nach-karlsruhe-a-0c5c07e3-bfe3-4d26-993e-7e0d699925ed#ref=rss)
-### blackfacing
+* [https://www.spiegel.de/wirtschaft/unternehmen/nicola-leibinger-kammueller-von-trumpf-ueber-afd-brandmauer-neue-politik-statt-empoerung](https://www.spiegel.de/wirtschaft/unternehmen/nicola-leibinger-kammueller-von-trumpf-ueber-afd-brandmauer-neue-politik-statt-empoerung-a-e3507c4d-1265-4fcc-bdf0-708227810b97#ref=rss)
+### leibingerkammüller
 
-* [https://www.spiegel.de/kultur/blackfacing-problematische-fotos-bei-einer-veranstaltung-am-schauspielhaus-hamburg](https://www.spiegel.de/kultur/blackfacing-problematische-fotos-bei-einer-veranstaltung-am-schauspielhaus-hamburg-a-d0451787-5b5e-4adb-a0fd-874999788085#ref=rss)
-### schauspielhaus
+* [https://www.spiegel.de/wirtschaft/unternehmen/nicola-leibinger-kammueller-von-trumpf-ueber-afd-brandmauer-neue-politik-statt-empoerung](https://www.spiegel.de/wirtschaft/unternehmen/nicola-leibinger-kammueller-von-trumpf-ueber-afd-brandmauer-neue-politik-statt-empoerung-a-e3507c4d-1265-4fcc-bdf0-708227810b97#ref=rss)
+### empörung
 
-* [https://www.spiegel.de/kultur/blackfacing-problematische-fotos-bei-einer-veranstaltung-am-schauspielhaus-hamburg](https://www.spiegel.de/kultur/blackfacing-problematische-fotos-bei-einer-veranstaltung-am-schauspielhaus-hamburg-a-d0451787-5b5e-4adb-a0fd-874999788085#ref=rss)
-### hamburg
+* [https://www.spiegel.de/wirtschaft/unternehmen/nicola-leibinger-kammueller-von-trumpf-ueber-afd-brandmauer-neue-politik-statt-empoerung](https://www.spiegel.de/wirtschaft/unternehmen/nicola-leibinger-kammueller-von-trumpf-ueber-afd-brandmauer-neue-politik-statt-empoerung-a-e3507c4d-1265-4fcc-bdf0-708227810b97#ref=rss)
+### brandmauerdebatte
 
-* [https://www.spiegel.de/kultur/blackfacing-problematische-fotos-bei-einer-veranstaltung-am-schauspielhaus-hamburg](https://www.spiegel.de/kultur/blackfacing-problematische-fotos-bei-einer-veranstaltung-am-schauspielhaus-hamburg-a-d0451787-5b5e-4adb-a0fd-874999788085#ref=rss)
-### zwei
+* [https://www.spiegel.de/wirtschaft/unternehmen/nicola-leibinger-kammueller-von-trumpf-ueber-afd-brandmauer-neue-politik-statt-empoerung](https://www.spiegel.de/wirtschaft/unternehmen/nicola-leibinger-kammueller-von-trumpf-ueber-afd-brandmauer-neue-politik-statt-empoerung-a-e3507c4d-1265-4fcc-bdf0-708227810b97#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-magdeburg-brandrede-von-reiner-haseloff-dann-sagt-der-kanzler-einen-seltsamen-satz](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-magdeburg-brandrede-von-reiner-haseloff-dann-sagt-der-kanzler-einen-seltsamen-satz-a-82d0e0ff-ace9-4596-864d-26c75b8e8c8e#ref=rss)
+### forscher
 
-* [https://www.spiegel.de/ausland/washington-mordanklage-gegen-tatverdaechtigen-nach-schuessen-auf-nationalgarde](https://www.spiegel.de/ausland/washington-mordanklage-gegen-tatverdaechtigen-nach-schuessen-auf-nationalgarde-a-bc101e00-1428-4211-84be-cec13bd33e69#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn-a-eae01284-1393-406d-ac5a-33bd3bd18ae5#ref=rss)
-### human
+* [https://www.spiegel.de/wissenschaft/natur/forscher-warnen-vor-vogelgrippe-pandemie](https://www.spiegel.de/wissenschaft/natur/forscher-warnen-vor-vogelgrippe-pandemie-a-999b9cf9-0913-4b9a-936a-f04e7a431793#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-der-sueden-europas-trocknet-aus-und-deutschland-zaehlt-noch-dazu](https://www.spiegel.de/wissenschaft/natur/klimawandel-der-sueden-europas-trocknet-aus-und-deutschland-zaehlt-noch-dazu-a-8d3204d0-3714-4500-b5c0-5744a1d356a9#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/russland-verbietet-human-rights-watch](https://www.spiegel.de/ausland/russland-verbietet-human-rights-watch-a-cbaaa9d9-d80c-4913-8e7b-a7edf357b388#ref=rss)
-### rights
+* [https://www.spiegel.de/wissenschaft/natur/forscher-warnen-vor-vogelgrippe-pandemie](https://www.spiegel.de/wissenschaft/natur/forscher-warnen-vor-vogelgrippe-pandemie-a-999b9cf9-0913-4b9a-936a-f04e7a431793#ref=rss)
+* [https://www.spiegel.de/panorama/indonesien-thailand-malaysia-sri-lanka-fast-600-tote-nach-heftigen-stuermen](https://www.spiegel.de/panorama/indonesien-thailand-malaysia-sri-lanka-fast-600-tote-nach-heftigen-stuermen-a-d74088af-d889-4547-8996-40d971d25ec1#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/ausland/russland-verbietet-human-rights-watch](https://www.spiegel.de/ausland/russland-verbietet-human-rights-watch-a-cbaaa9d9-d80c-4913-8e7b-a7edf357b388#ref=rss)
-### watch
+* [https://www.spiegel.de/ausland/trump-erklaert-luftraum-ueber-venezuela-fuer-geschlossen](https://www.spiegel.de/ausland/trump-erklaert-luftraum-ueber-venezuela-fuer-geschlossen-a-f87ead67-9888-4668-b369-cae48ea616f4#ref=rss)
+* [https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder](https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder-a-490e8aee-3109-4559-ba96-16d60d370925#ref=rss)
+### luftraum
 
-* [https://www.spiegel.de/ausland/russland-verbietet-human-rights-watch](https://www.spiegel.de/ausland/russland-verbietet-human-rights-watch-a-cbaaa9d9-d80c-4913-8e7b-a7edf357b388#ref=rss)
-### schalke
+* [https://www.spiegel.de/ausland/trump-erklaert-luftraum-ueber-venezuela-fuer-geschlossen](https://www.spiegel.de/ausland/trump-erklaert-luftraum-ueber-venezuela-fuer-geschlossen-a-f87ead67-9888-4668-b369-cae48ea616f4#ref=rss)
+### venezuela
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn-a-eae01284-1393-406d-ac5a-33bd3bd18ae5#ref=rss)
-### 04
+* [https://www.spiegel.de/ausland/trump-erklaert-luftraum-ueber-venezuela-fuer-geschlossen](https://www.spiegel.de/ausland/trump-erklaert-luftraum-ueber-venezuela-fuer-geschlossen-a-f87ead67-9888-4668-b369-cae48ea616f4#ref=rss)
+### sanna
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn-a-eae01284-1393-406d-ac5a-33bd3bd18ae5#ref=rss)
-### rückstand
+* [https://www.spiegel.de/ausland/finnische-ex-regierungschefin-sanna-marin-ich-musste-mich-fragen-lassen-wie-viel-alkohol-ich-getrunken-hatte](https://www.spiegel.de/ausland/finnische-ex-regierungschefin-sanna-marin-ich-musste-mich-fragen-lassen-wie-viel-alkohol-ich-getrunken-hatte-a-99c9963a-43ed-47c5-9821-d029efc3b061#ref=rss)
+### marin
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn-a-eae01284-1393-406d-ac5a-33bd3bd18ae5#ref=rss)
-### sieg
+* [https://www.spiegel.de/ausland/finnische-ex-regierungschefin-sanna-marin-ich-musste-mich-fragen-lassen-wie-viel-alkohol-ich-getrunken-hatte](https://www.spiegel.de/ausland/finnische-ex-regierungschefin-sanna-marin-ich-musste-mich-fragen-lassen-wie-viel-alkohol-ich-getrunken-hatte-a-99c9963a-43ed-47c5-9821-d029efc3b061#ref=rss)
+### ich
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn-a-eae01284-1393-406d-ac5a-33bd3bd18ae5#ref=rss)
-### paderborn
+* [https://www.spiegel.de/ausland/finnische-ex-regierungschefin-sanna-marin-ich-musste-mich-fragen-lassen-wie-viel-alkohol-ich-getrunken-hatte](https://www.spiegel.de/ausland/finnische-ex-regierungschefin-sanna-marin-ich-musste-mich-fragen-lassen-wie-viel-alkohol-ich-getrunken-hatte-a-99c9963a-43ed-47c5-9821-d029efc3b061#ref=rss)
+### allem
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-schalke-04-holt-nach-rueckstand-noch-sieg-gegen-paderborn-a-eae01284-1393-406d-ac5a-33bd3bd18ae5#ref=rss)
+* [https://www.spiegel.de/ausland/finnische-ex-regierungschefin-sanna-marin-ich-musste-mich-fragen-lassen-wie-viel-alkohol-ich-getrunken-hatte](https://www.spiegel.de/ausland/finnische-ex-regierungschefin-sanna-marin-ich-musste-mich-fragen-lassen-wie-viel-alkohol-ich-getrunken-hatte-a-99c9963a-43ed-47c5-9821-d029efc3b061#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-friedensplan-fuer-die-ukraine-womoeglich-nur-aus-wirtschaftlichem-interesse](https://www.spiegel.de/ausland/donald-trump-friedensplan-fuer-die-ukraine-womoeglich-nur-aus-wirtschaftlichem-interesse-a-cc34199d-72ea-463d-a0df-f64e69214c64#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-magdeburg-brandrede-von-reiner-haseloff-dann-sagt-der-kanzler-einen-seltsamen-satz](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-magdeburg-brandrede-von-reiner-haseloff-dann-sagt-der-kanzler-einen-seltsamen-satz-a-82d0e0ff-ace9-4596-864d-26c75b8e8c8e#ref=rss)
+### kam
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-magdeburg-brandrede-von-reiner-haseloff-dann-sagt-der-kanzler-einen-seltsamen-satz](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-magdeburg-brandrede-von-reiner-haseloff-dann-sagt-der-kanzler-einen-seltsamen-satz-a-82d0e0ff-ace9-4596-864d-26c75b8e8c8e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-der-sueden-europas-trocknet-aus-und-deutschland-zaehlt-noch-dazu](https://www.spiegel.de/wissenschaft/natur/klimawandel-der-sueden-europas-trocknet-aus-und-deutschland-zaehlt-noch-dazu-a-8d3204d0-3714-4500-b5c0-5744a1d356a9#ref=rss)
+### jugendorganisation
+
+* [https://www.spiegel.de/politik/deutschland/afd-jugendkongress-in-giessen-startet-mit-zweistuendiger-verspaetung](https://www.spiegel.de/politik/deutschland/afd-jugendkongress-in-giessen-startet-mit-zweistuendiger-verspaetung-a-2751ab35-d3fb-4e70-bca6-7edd5a743e37#ref=rss)
+### generation
+
+* [https://www.spiegel.de/politik/deutschland/afd-jugendkongress-in-giessen-startet-mit-zweistuendiger-verspaetung](https://www.spiegel.de/politik/deutschland/afd-jugendkongress-in-giessen-startet-mit-zweistuendiger-verspaetung-a-2751ab35-d3fb-4e70-bca6-7edd5a743e37#ref=rss)
+### jeanpascal
+
+* [https://www.spiegel.de/politik/deutschland/afd-jugendkongress-in-giessen-startet-mit-zweistuendiger-verspaetung](https://www.spiegel.de/politik/deutschland/afd-jugendkongress-in-giessen-startet-mit-zweistuendiger-verspaetung-a-2751ab35-d3fb-4e70-bca6-7edd5a743e37#ref=rss)
+### hohm
+
+* [https://www.spiegel.de/politik/deutschland/afd-jugendkongress-in-giessen-startet-mit-zweistuendiger-verspaetung](https://www.spiegel.de/politik/deutschland/afd-jugendkongress-in-giessen-startet-mit-zweistuendiger-verspaetung-a-2751ab35-d3fb-4e70-bca6-7edd5a743e37#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/bildung/300-000-kitaplaetze-fehlen-wo-in-deutschland-am-meisten-gebraucht-wuerden](https://www.spiegel.de/panorama/bildung/300-000-kitaplaetze-fehlen-wo-in-deutschland-am-meisten-gebraucht-wuerden-a-89d41674-7bf4-41f2-b947-b5630e79a1a2#ref=rss)
+* [https://www.spiegel.de/familie/schule-klassenarbeiten-und-druck-was-eltern-und-kinder-fuereinander-und-voneinander-lernen](https://www.spiegel.de/familie/schule-klassenarbeiten-und-druck-was-eltern-und-kinder-fuereinander-und-voneinander-lernen-a-1f5df9c9-9ef7-4007-9ae4-aab2e8d050b1#ref=rss)
+### kitaplätze
+
+* [https://www.spiegel.de/panorama/bildung/300-000-kitaplaetze-fehlen-wo-in-deutschland-am-meisten-gebraucht-wuerden](https://www.spiegel.de/panorama/bildung/300-000-kitaplaetze-fehlen-wo-in-deutschland-am-meisten-gebraucht-wuerden-a-89d41674-7bf4-41f2-b947-b5630e79a1a2#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/panorama/bildung/300-000-kitaplaetze-fehlen-wo-in-deutschland-am-meisten-gebraucht-wuerden](https://www.spiegel.de/panorama/bildung/300-000-kitaplaetze-fehlen-wo-in-deutschland-am-meisten-gebraucht-wuerden-a-89d41674-7bf4-41f2-b947-b5630e79a1a2#ref=rss)
+* [https://www.spiegel.de/familie/schule-klassenarbeiten-und-druck-was-eltern-und-kinder-fuereinander-und-voneinander-lernen](https://www.spiegel.de/familie/schule-klassenarbeiten-und-druck-was-eltern-und-kinder-fuereinander-und-voneinander-lernen-a-1f5df9c9-9ef7-4007-9ae4-aab2e8d050b1#ref=rss)
+### heraus
+
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-der-sueden-europas-trocknet-aus-und-deutschland-zaehlt-noch-dazu](https://www.spiegel.de/wissenschaft/natur/klimawandel-der-sueden-europas-trocknet-aus-und-deutschland-zaehlt-noch-dazu-a-8d3204d0-3714-4500-b5c0-5744a1d356a9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/deutschland-gegen-spanien-das-fehlt-dem-dfb-team-noch-zur-weltspitze](https://www.spiegel.de/sport/fussball/deutschland-gegen-spanien-das-fehlt-dem-dfb-team-noch-zur-weltspitze-a-827c163d-0100-4a54-b6d8-2f7f7dc3ad24#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/donald-trump-so-inszeniert-das-weisse-haus-die-praesidentschaft](https://www.spiegel.de/ausland/donald-trump-so-inszeniert-das-weisse-haus-die-praesidentschaft-a-a75bf7cd-041d-4e12-b85c-3aa52704815c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/constantin-schreiber-wie-der-ex-tagesschau-sprecher-an-seiner-marke-arbeitet](https://www.spiegel.de/wirtschaft/constantin-schreiber-wie-der-ex-tagesschau-sprecher-an-seiner-marke-arbeitet-a-cb617de6-4446-4fb4-9393-c0a0ec9f44d0#ref=rss)
+### airbus
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-a320-flugausfaelle-weltweit-wegen-softwareupdate](https://www.spiegel.de/wirtschaft/unternehmen/airbus-a320-flugausfaelle-weltweit-wegen-softwareupdate-a-23fb70a2-d38f-4d46-949a-c106f3c5a10a#ref=rss)
+### a320
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-a320-flugausfaelle-weltweit-wegen-softwareupdate](https://www.spiegel.de/wirtschaft/unternehmen/airbus-a320-flugausfaelle-weltweit-wegen-softwareupdate-a-23fb70a2-d38f-4d46-949a-c106f3c5a10a#ref=rss)
+### weltweit
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-a320-flugausfaelle-weltweit-wegen-softwareupdate](https://www.spiegel.de/wirtschaft/unternehmen/airbus-a320-flugausfaelle-weltweit-wegen-softwareupdate-a-23fb70a2-d38f-4d46-949a-c106f3c5a10a#ref=rss)
+### constantin
+
+* [https://www.spiegel.de/wirtschaft/constantin-schreiber-wie-der-ex-tagesschau-sprecher-an-seiner-marke-arbeitet](https://www.spiegel.de/wirtschaft/constantin-schreiber-wie-der-ex-tagesschau-sprecher-an-seiner-marke-arbeitet-a-cb617de6-4446-4fb4-9393-c0a0ec9f44d0#ref=rss)
+### schreiber
+
+* [https://www.spiegel.de/wirtschaft/constantin-schreiber-wie-der-ex-tagesschau-sprecher-an-seiner-marke-arbeitet](https://www.spiegel.de/wirtschaft/constantin-schreiber-wie-der-ex-tagesschau-sprecher-an-seiner-marke-arbeitet-a-cb617de6-4446-4fb4-9393-c0a0ec9f44d0#ref=rss)
+### unterstützerin
+
+* [https://www.spiegel.de/ausland/marjorie-taylor-greene-einst-feurigste-unterstuetzerin-von-donald-trump-jetzt-verraeterin](https://www.spiegel.de/ausland/marjorie-taylor-greene-einst-feurigste-unterstuetzerin-von-donald-trump-jetzt-verraeterin-a-d2eb4ed4-153b-47d8-a45a-bee769e20c0a#ref=rss)
+### thüringen
+
+* [https://www.spiegel.de/panorama/thueringen-wirbt-mit-nazi-slogan-gruenes-herz-mit-braunem-schatten](https://www.spiegel.de/panorama/thueringen-wirbt-mit-nazi-slogan-gruenes-herz-mit-braunem-schatten-a-da13d16b-8129-4f0d-8b67-99ea7d71644f#ref=rss)
+### herz
+
+* [https://www.spiegel.de/panorama/thueringen-wirbt-mit-nazi-slogan-gruenes-herz-mit-braunem-schatten](https://www.spiegel.de/panorama/thueringen-wirbt-mit-nazi-slogan-gruenes-herz-mit-braunem-schatten-a-da13d16b-8129-4f0d-8b67-99ea7d71644f#ref=rss)
+### viele
+
+* [https://www.spiegel.de/sport/fussball/deutschland-gegen-spanien-das-fehlt-dem-dfb-team-noch-zur-weltspitze](https://www.spiegel.de/sport/fussball/deutschland-gegen-spanien-das-fehlt-dem-dfb-team-noch-zur-weltspitze-a-827c163d-0100-4a54-b6d8-2f7f7dc3ad24#ref=rss)
+* [https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder](https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder-a-490e8aee-3109-4559-ba96-16d60d370925#ref=rss)
+### thüringer
+
+* [https://www.spiegel.de/sport/handball/handball-thueringer-hc-trennt-sich-von-jugendtrainer-nach-missbrauchsvorwuerfen](https://www.spiegel.de/sport/handball/handball-thueringer-hc-trennt-sich-von-jugendtrainer-nach-missbrauchsvorwuerfen-a-4afd19df-d8db-4f0b-8cc9-4a249f2b3f77#ref=rss)
+### hc
+
+* [https://www.spiegel.de/sport/handball/handball-thueringer-hc-trennt-sich-von-jugendtrainer-nach-missbrauchsvorwuerfen](https://www.spiegel.de/sport/handball/handball-thueringer-hc-trennt-sich-von-jugendtrainer-nach-missbrauchsvorwuerfen-a-4afd19df-d8db-4f0b-8cc9-4a249f2b3f77#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/ungarn-vorwahlen-bei-der-opposition-gegen-viktor-orban](https://www.spiegel.de/ausland/ungarn-vorwahlen-bei-der-opposition-gegen-viktor-orban-a-6bb51a7e-6649-4f52-98b9-3ca95f515e96#ref=rss)
+### viktor
+
+* [https://www.spiegel.de/ausland/ungarn-vorwahlen-bei-der-opposition-gegen-viktor-orban](https://www.spiegel.de/ausland/ungarn-vorwahlen-bei-der-opposition-gegen-viktor-orban-a-6bb51a7e-6649-4f52-98b9-3ca95f515e96#ref=rss)
+### orbán
+
+* [https://www.spiegel.de/ausland/ungarn-vorwahlen-bei-der-opposition-gegen-viktor-orban](https://www.spiegel.de/ausland/ungarn-vorwahlen-bei-der-opposition-gegen-viktor-orban-a-6bb51a7e-6649-4f52-98b9-3ca95f515e96#ref=rss)
+### dieter
+
+* [https://www.spiegel.de/kultur/dieter-bohlen-im-goldrausch-vollwaschgang-fuers-gehirn](https://www.spiegel.de/kultur/dieter-bohlen-im-goldrausch-vollwaschgang-fuers-gehirn-a-0e20146b-0017-4f07-8310-4a5793467b07#ref=rss)
+### bohlen
+
+* [https://www.spiegel.de/kultur/dieter-bohlen-im-goldrausch-vollwaschgang-fuers-gehirn](https://www.spiegel.de/kultur/dieter-bohlen-im-goldrausch-vollwaschgang-fuers-gehirn-a-0e20146b-0017-4f07-8310-4a5793467b07#ref=rss)
+### macht
+
+* [https://www.spiegel.de/kultur/dieter-bohlen-im-goldrausch-vollwaschgang-fuers-gehirn](https://www.spiegel.de/kultur/dieter-bohlen-im-goldrausch-vollwaschgang-fuers-gehirn-a-0e20146b-0017-4f07-8310-4a5793467b07#ref=rss)
+* [https://www.spiegel.de/familie/schule-klassenarbeiten-und-druck-was-eltern-und-kinder-fuereinander-und-voneinander-lernen](https://www.spiegel.de/familie/schule-klassenarbeiten-und-druck-was-eltern-und-kinder-fuereinander-und-voneinander-lernen-a-1f5df9c9-9ef7-4007-9ae4-aab2e8d050b1#ref=rss)
+### unser
+
+* [https://www.spiegel.de/familie/schule-klassenarbeiten-und-druck-was-eltern-und-kinder-fuereinander-und-voneinander-lernen](https://www.spiegel.de/familie/schule-klassenarbeiten-und-druck-was-eltern-und-kinder-fuereinander-und-voneinander-lernen-a-1f5df9c9-9ef7-4007-9ae4-aab2e8d050b1#ref=rss)
+* [https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder](https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder-a-490e8aee-3109-4559-ba96-16d60d370925#ref=rss)
+### besser
+
+* [https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder](https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder-a-490e8aee-3109-4559-ba96-16d60d370925#ref=rss)
+### stress
+
+* [https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder](https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder-a-490e8aee-3109-4559-ba96-16d60d370925#ref=rss)
+### klarkommen
+
+* [https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder](https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder-a-490e8aee-3109-4559-ba96-16d60d370925#ref=rss)
+### rené
+
+* [https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder](https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder-a-490e8aee-3109-4559-ba96-16d60d370925#ref=rss)
+### träder
+
+* [https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder](https://www.spiegel.de/psychologie/erschoepfung-wie-wir-besser-mit-stress-klarkommen-mit-rene-traeder-a-490e8aee-3109-4559-ba96-16d60d370925#ref=rss)
+### sehnsucht
+
+* [https://www.spiegel.de/kultur/kino/sehnsucht-in-sangerhausen-im-kino-die-spur-der-steine](https://www.spiegel.de/kultur/kino/sehnsucht-in-sangerhausen-im-kino-die-spur-der-steine-a-afdedc35-0f22-4729-af7e-56fe27a65db7#ref=rss)
+### sangerhausen
+
+* [https://www.spiegel.de/kultur/kino/sehnsucht-in-sangerhausen-im-kino-die-spur-der-steine](https://www.spiegel.de/kultur/kino/sehnsucht-in-sangerhausen-im-kino-die-spur-der-steine-a-afdedc35-0f22-4729-af7e-56fe27a65db7#ref=rss)
+### kino
+
+* [https://www.spiegel.de/kultur/kino/sehnsucht-in-sangerhausen-im-kino-die-spur-der-steine](https://www.spiegel.de/kultur/kino/sehnsucht-in-sangerhausen-im-kino-die-spur-der-steine-a-afdedc35-0f22-4729-af7e-56fe27a65db7#ref=rss)
 
