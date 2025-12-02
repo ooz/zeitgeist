@@ -4,288 +4,304 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### offenbar
+### deutschland
 
-* [https://www.spiegel.de/ausland/friedrich-merz-tafel-mit-kanzler-zitat-in-litauen-enthuellt](https://www.spiegel.de/ausland/friedrich-merz-tafel-mit-kanzler-zitat-in-litauen-enthuellt-a-83da8431-6190-4317-8f9f-9470703f6fa3#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-trump-erwartet-baldigen-deal](https://www.spiegel.de/ausland/ukraine-krieg-trump-erwartet-baldigen-deal-a-9fb22a95-a847-4d86-b575-e2affdb7ee8a#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/frankfurt-oder-internationale-studierende-berichten-von-diskriminierung-an-deutsch-polnischer-grenze](https://www.spiegel.de/panorama/bildung/frankfurt-oder-internationale-studierende-berichten-von-diskriminierung-an-deutsch-polnischer-grenze-a-04d78b2f-5b7d-4dd3-b448-cb574dda45f4#ref=rss)
-* [https://www.spiegel.de/panorama/amrum-mann-bohrt-angeschwemmte-metallkugel-an-und-verbrennt-sich-lebensgefaehrlich](https://www.spiegel.de/panorama/amrum-mann-bohrt-angeschwemmte-metallkugel-an-und-verbrennt-sich-lebensgefaehrlich-a-bb4e6a9e-561c-48bb-b56c-53d7bc98170d#ref=rss)
-### gefunden
+* [https://www.spiegel.de/politik/deutschland/den-haag-deutschland-ueberstellt-libyschen-folterknast-chef-wegen-kriegsverbrechen](https://www.spiegel.de/politik/deutschland/den-haag-deutschland-ueberstellt-libyschen-folterknast-chef-wegen-kriegsverbrechen-a-bb119bd0-69e9-46b7-929d-73c4339915af#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tv-rtl-will-rund-600-jobs-in-deutschland-streichen](https://www.spiegel.de/wirtschaft/unternehmen/tv-rtl-will-rund-600-jobs-in-deutschland-streichen-a-8935cf6d-562f-4685-bd5f-8cbe03c2d4e5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/2024-produzierte-deutschland-12-8-kilo-schokolade-pro-kopf](https://www.spiegel.de/wirtschaft/unternehmen/2024-produzierte-deutschland-12-8-kilo-schokolade-pro-kopf-a-02991b2d-20a1-4365-925c-96e452403a81#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bdi-praesident-peter-leibinger-sieht-wirtschaftsstandort-deutschland-im-freien-fall](https://www.spiegel.de/wirtschaft/unternehmen/bdi-praesident-peter-leibinger-sieht-wirtschaftsstandort-deutschland-im-freien-fall-a-672554b3-f27a-4934-a959-e1a86c75ec75#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/friedrich-merz-tafel-mit-kanzler-zitat-in-litauen-enthuellt](https://www.spiegel.de/ausland/friedrich-merz-tafel-mit-kanzler-zitat-in-litauen-enthuellt-a-83da8431-6190-4317-8f9f-9470703f6fa3#ref=rss)
-* [https://www.spiegel.de/panorama/amrum-mann-bohrt-angeschwemmte-metallkugel-an-und-verbrennt-sich-lebensgefaehrlich](https://www.spiegel.de/panorama/amrum-mann-bohrt-angeschwemmte-metallkugel-an-und-verbrennt-sich-lebensgefaehrlich-a-bb4e6a9e-561c-48bb-b56c-53d7bc98170d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/monreal-nach-fund-von-haenden-auf-a45-polizei-entdeckt-weibliche-leiche-im-wald](https://www.spiegel.de/panorama/justiz/monreal-nach-fund-von-haenden-auf-a45-polizei-entdeckt-weibliche-leiche-im-wald-a-cde05644-c353-49c8-be20-593879db9a81#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-polizei-zerschlaegt-mutmasslich-neonazi-zelle-in-spanien](https://www.spiegel.de/panorama/justiz/rechtsextremismus-polizei-zerschlaegt-mutmasslich-neonazi-zelle-in-spanien-a-d085c123-1586-4101-88f8-21ca618d0d27#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-trump-erwartet-baldigen-deal](https://www.spiegel.de/ausland/ukraine-krieg-trump-erwartet-baldigen-deal-a-9fb22a95-a847-4d86-b575-e2affdb7ee8a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/usa-melania-trump-schmueckt-das-weisse-haus-mit-54-kilogramm-lebkuchen](https://www.spiegel.de/panorama/leute/usa-melania-trump-schmueckt-das-weisse-haus-mit-54-kilogramm-lebkuchen-a-6e2f4157-9d4b-45a6-a0e8-f7d8ecf3c37e#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-will-us-sondergesandten-steve-witkoff-in-moskau-treffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-will-us-sondergesandten-steve-witkoff-in-moskau-treffen-a-1747bf5a-0d03-4fe1-bfbd-cb1b7a256b8d#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-trump-erwartet-baldigen-deal](https://www.spiegel.de/ausland/ukraine-krieg-trump-erwartet-baldigen-deal-a-9fb22a95-a847-4d86-b575-e2affdb7ee8a#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-will-us-sondergesandten-steve-witkoff-in-moskau-treffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-will-us-sondergesandten-steve-witkoff-in-moskau-treffen-a-1747bf5a-0d03-4fe1-bfbd-cb1b7a256b8d#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/wintersport/langlauf-ruepel-alexander-bolschunow-faehrt-im-ziel-seinen-teamkameraden-um](https://www.spiegel.de/sport/wintersport/langlauf-ruepel-alexander-bolschunow-faehrt-im-ziel-seinen-teamkameraden-um-a-3d79bf34-aeae-47c5-ad99-d8ff3f119821#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/alexander-eichwald-afd-in-herford-schmeisst-wirren-hitler-redner-aus-dem-stadtrat](https://www.spiegel.de/politik/deutschland/alexander-eichwald-afd-in-herford-schmeisst-wirren-hitler-redner-aus-dem-stadtrat-a-0d6cbdc5-c887-45e5-a69c-812ca1be7e6a#ref=rss)
-### gruppe
-
-* [https://www.spiegel.de/politik/deutschland/rente-junge-gruppe-stellt-die-entscheidung-ueber-die-reform-frei](https://www.spiegel.de/politik/deutschland/rente-junge-gruppe-stellt-die-entscheidung-ueber-die-reform-frei-a-ea2795a0-803e-42a5-9f08-a97570677466#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-polizei-zerschlaegt-mutmasslich-neonazi-zelle-in-spanien](https://www.spiegel.de/panorama/justiz/rechtsextremismus-polizei-zerschlaegt-mutmasslich-neonazi-zelle-in-spanien-a-d085c123-1586-4101-88f8-21ca618d0d27#ref=rss)
-### mann
-
-* [https://www.spiegel.de/politik/deutschland/alexander-eichwald-afd-in-herford-schmeisst-wirren-hitler-redner-aus-dem-stadtrat](https://www.spiegel.de/politik/deutschland/alexander-eichwald-afd-in-herford-schmeisst-wirren-hitler-redner-aus-dem-stadtrat-a-0d6cbdc5-c887-45e5-a69c-812ca1be7e6a#ref=rss)
-* [https://www.spiegel.de/panorama/amrum-mann-bohrt-angeschwemmte-metallkugel-an-und-verbrennt-sich-lebensgefaehrlich](https://www.spiegel.de/panorama/amrum-mann-bohrt-angeschwemmte-metallkugel-an-und-verbrennt-sich-lebensgefaehrlich-a-bb4e6a9e-561c-48bb-b56c-53d7bc98170d#ref=rss)
-### versucht
-
-* [https://www.spiegel.de/politik/deutschland/streit-in-der-cdu-der-druck-auf-die-rentenrebellen-wirkt-aber-wird-es-am-ende-reichen](https://www.spiegel.de/politik/deutschland/streit-in-der-cdu-der-druck-auf-die-rentenrebellen-wirkt-aber-wird-es-am-ende-reichen-a-5bcde8c8-b493-4673-9965-9ee841f1f3cd#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-trump-erwartet-baldigen-deal](https://www.spiegel.de/ausland/ukraine-krieg-trump-erwartet-baldigen-deal-a-9fb22a95-a847-4d86-b575-e2affdb7ee8a#ref=rss)
-### chef
-
-* [https://www.spiegel.de/politik/deutschland/streit-in-der-cdu-der-druck-auf-die-rentenrebellen-wirkt-aber-wird-es-am-ende-reichen](https://www.spiegel.de/politik/deutschland/streit-in-der-cdu-der-druck-auf-die-rentenrebellen-wirkt-aber-wird-es-am-ende-reichen-a-5bcde8c8-b493-4673-9965-9ee841f1f3cd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-augsburg-trennt-sich-von-trainer-sandro-wagner](https://www.spiegel.de/sport/fussball/fc-augsburg-trennt-sich-von-trainer-sandro-wagner-a-dc198d94-4a21-4e4c-b17d-73b929d0a101#ref=rss)
-### jungen
-
-* [https://www.spiegel.de/politik/deutschland/streit-in-der-cdu-der-druck-auf-die-rentenrebellen-wirkt-aber-wird-es-am-ende-reichen](https://www.spiegel.de/politik/deutschland/streit-in-der-cdu-der-druck-auf-die-rentenrebellen-wirkt-aber-wird-es-am-ende-reichen-a-5bcde8c8-b493-4673-9965-9ee841f1f3cd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rente-junge-gruppe-stellt-die-entscheidung-ueber-die-reform-frei](https://www.spiegel.de/politik/deutschland/rente-junge-gruppe-stellt-die-entscheidung-ueber-die-reform-frei-a-ea2795a0-803e-42a5-9f08-a97570677466#ref=rss)
-### merz
-
-* [https://www.spiegel.de/ausland/merz-und-tusk-verabreden-deutsch-polnische-ruestungszusammenarbeit](https://www.spiegel.de/ausland/merz-und-tusk-verabreden-deutsch-polnische-ruestungszusammenarbeit-a-1267d7b5-8301-4a0b-8861-130408a8e5a1#ref=rss)
-* [https://www.spiegel.de/ausland/friedrich-merz-tafel-mit-kanzler-zitat-in-litauen-enthuellt](https://www.spiegel.de/ausland/friedrich-merz-tafel-mit-kanzler-zitat-in-litauen-enthuellt-a-83da8431-6190-4317-8f9f-9470703f6fa3#ref=rss)
-### opfer
-
-* [https://www.spiegel.de/ausland/merz-und-tusk-verabreden-deutsch-polnische-ruestungszusammenarbeit](https://www.spiegel.de/ausland/merz-und-tusk-verabreden-deutsch-polnische-ruestungszusammenarbeit-a-1267d7b5-8301-4a0b-8861-130408a8e5a1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jugendfussball-in-bayern-todesdrohung-gegen-zwoelfjaehrigen-schiedsrichter](https://www.spiegel.de/sport/fussball/jugendfussball-in-bayern-todesdrohung-gegen-zwoelfjaehrigen-schiedsrichter-a-86e0a239-d31f-4a96-9b95-9156106ab617#ref=rss)
-### schuss
-
-* [https://www.spiegel.de/panorama/justiz/burg-bei-magdeburg-fast-20-000-schuss-munition-aus-transporter-fuer-die-bundeswehr-gestohlen](https://www.spiegel.de/panorama/justiz/burg-bei-magdeburg-fast-20-000-schuss-munition-aus-transporter-fuer-die-bundeswehr-gestohlen-a-c7e21434-111d-497a-ad77-e8325f5b42a9#ref=rss)
-### extrem
-
-* [https://www.spiegel.de/politik/deutschland/afd-jugend-generation-deutschland-so-extrem-ist-die-neue-organisation-podcast](https://www.spiegel.de/politik/deutschland/afd-jugend-generation-deutschland-so-extrem-ist-die-neue-organisation-podcast-a-64c84e22-d30d-42c5-af7a-e8ca04bc6e18#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/afd-jugend-generation-deutschland-so-extrem-ist-die-neue-organisation-podcast](https://www.spiegel.de/politik/deutschland/afd-jugend-generation-deutschland-so-extrem-ist-die-neue-organisation-podcast-a-64c84e22-d30d-42c5-af7a-e8ca04bc6e18#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-jugend-generation-deutschland-so-extrem-ist-die-neue-organisation-podcast](https://www.spiegel.de/politik/deutschland/afd-jugend-generation-deutschland-so-extrem-ist-die-neue-organisation-podcast-a-64c84e22-d30d-42c5-af7a-e8ca04bc6e18#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/alexander-eichwald-afd-in-herford-schmeisst-wirren-hitler-redner-aus-dem-stadtrat](https://www.spiegel.de/politik/deutschland/alexander-eichwald-afd-in-herford-schmeisst-wirren-hitler-redner-aus-dem-stadtrat-a-0d6cbdc5-c887-45e5-a69c-812ca1be7e6a#ref=rss)
-### junge
-
-* [https://www.spiegel.de/politik/deutschland/afd-jugend-generation-deutschland-so-extrem-ist-die-neue-organisation-podcast](https://www.spiegel.de/politik/deutschland/afd-jugend-generation-deutschland-so-extrem-ist-die-neue-organisation-podcast-a-64c84e22-d30d-42c5-af7a-e8ca04bc6e18#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rente-junge-gruppe-stellt-die-entscheidung-ueber-die-reform-frei](https://www.spiegel.de/politik/deutschland/rente-junge-gruppe-stellt-die-entscheidung-ueber-die-reform-frei-a-ea2795a0-803e-42a5-9f08-a97570677466#ref=rss)
-### borussia
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-ermittler-durchsuchten-wohnung-von-ex-bvb-manager](https://www.spiegel.de/sport/fussball/borussia-dortmund-ermittler-durchsuchten-wohnung-von-ex-bvb-manager-a-8cd4ce9a-ff46-4afe-a92f-7e514ddeec26#ref=rss)
-### dortmund
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-ermittler-durchsuchten-wohnung-von-ex-bvb-manager](https://www.spiegel.de/sport/fussball/borussia-dortmund-ermittler-durchsuchten-wohnung-von-ex-bvb-manager-a-8cd4ce9a-ff46-4afe-a92f-7e514ddeec26#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-ermittler-durchsuchten-wohnung-von-ex-bvb-manager](https://www.spiegel.de/sport/fussball/borussia-dortmund-ermittler-durchsuchten-wohnung-von-ex-bvb-manager-a-8cd4ce9a-ff46-4afe-a92f-7e514ddeec26#ref=rss)
-### wohnung
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-ermittler-durchsuchten-wohnung-von-ex-bvb-manager](https://www.spiegel.de/sport/fussball/borussia-dortmund-ermittler-durchsuchten-wohnung-von-ex-bvb-manager-a-8cd4ce9a-ff46-4afe-a92f-7e514ddeec26#ref=rss)
-### spotifyplaylists
-
-* [https://www.spiegel.de/kultur/rechtsradikale-ki-musik-spotify-playlists-durchsetzt-von-problematischen-inhalten](https://www.spiegel.de/kultur/rechtsradikale-ki-musik-spotify-playlists-durchsetzt-von-problematischen-inhalten-a-4a6db3cc-64e1-447f-89ab-74a779a2a738#ref=rss)
-### fall
-
-* [https://www.spiegel.de/kultur/rechtsradikale-ki-musik-spotify-playlists-durchsetzt-von-problematischen-inhalten](https://www.spiegel.de/kultur/rechtsradikale-ki-musik-spotify-playlists-durchsetzt-von-problematischen-inhalten-a-4a6db3cc-64e1-447f-89ab-74a779a2a738#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jugendfussball-in-bayern-todesdrohung-gegen-zwoelfjaehrigen-schiedsrichter](https://www.spiegel.de/sport/fussball/jugendfussball-in-bayern-todesdrohung-gegen-zwoelfjaehrigen-schiedsrichter-a-86e0a239-d31f-4a96-9b95-9156106ab617#ref=rss)
-### kristen
-
-* [https://www.spiegel.de/ausland/estland-premier-kristen-michal-wir-esten-moegen-menschen-nicht-besonders-deswegen-sind-wir-digital-geworden](https://www.spiegel.de/ausland/estland-premier-kristen-michal-wir-esten-moegen-menschen-nicht-besonders-deswegen-sind-wir-digital-geworden-a-c238291f-1431-446d-87d6-34069d962b7d#ref=rss)
-### michal
-
-* [https://www.spiegel.de/ausland/estland-premier-kristen-michal-wir-esten-moegen-menschen-nicht-besonders-deswegen-sind-wir-digital-geworden](https://www.spiegel.de/ausland/estland-premier-kristen-michal-wir-esten-moegen-menschen-nicht-besonders-deswegen-sind-wir-digital-geworden-a-c238291f-1431-446d-87d6-34069d962b7d#ref=rss)
-### wir
-
-* [https://www.spiegel.de/ausland/estland-premier-kristen-michal-wir-esten-moegen-menschen-nicht-besonders-deswegen-sind-wir-digital-geworden](https://www.spiegel.de/ausland/estland-premier-kristen-michal-wir-esten-moegen-menschen-nicht-besonders-deswegen-sind-wir-digital-geworden-a-c238291f-1431-446d-87d6-34069d962b7d#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/ausland/estland-premier-kristen-michal-wir-esten-moegen-menschen-nicht-besonders-deswegen-sind-wir-digital-geworden](https://www.spiegel.de/ausland/estland-premier-kristen-michal-wir-esten-moegen-menschen-nicht-besonders-deswegen-sind-wir-digital-geworden-a-c238291f-1431-446d-87d6-34069d962b7d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/kinderspielzeug-forscher-warnen-vor-gesundheitsrisiken-durch-hormonaktive-stoffe](https://www.spiegel.de/wissenschaft/kinderspielzeug-forscher-warnen-vor-gesundheitsrisiken-durch-hormonaktive-stoffe-a-dd2dd72e-0a90-4ddb-b1f8-28e15354652f#ref=rss)
-### geworden
-
-* [https://www.spiegel.de/ausland/estland-premier-kristen-michal-wir-esten-moegen-menschen-nicht-besonders-deswegen-sind-wir-digital-geworden](https://www.spiegel.de/ausland/estland-premier-kristen-michal-wir-esten-moegen-menschen-nicht-besonders-deswegen-sind-wir-digital-geworden-a-c238291f-1431-446d-87d6-34069d962b7d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-arbeitgeber-bezeichnen-aeusserungen-der-spd-chefin-als-beispiellos](https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-arbeitgeber-bezeichnen-aeusserungen-der-spd-chefin-als-beispiellos-a-6a7c1d76-043d-4189-b77b-8ad43518868e#ref=rss)
-### russische
-
-* [https://www.spiegel.de/ausland/estland-premier-kristen-michal-wir-esten-moegen-menschen-nicht-besonders-deswegen-sind-wir-digital-geworden](https://www.spiegel.de/ausland/estland-premier-kristen-michal-wir-esten-moegen-menschen-nicht-besonders-deswegen-sind-wir-digital-geworden-a-c238291f-1431-446d-87d6-34069d962b7d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-trump-erwartet-baldigen-deal](https://www.spiegel.de/ausland/ukraine-krieg-trump-erwartet-baldigen-deal-a-9fb22a95-a847-4d86-b575-e2affdb7ee8a#ref=rss)
-### meter
-
-* [https://www.spiegel.de/ausland/estland-premier-kristen-michal-wir-esten-moegen-menschen-nicht-besonders-deswegen-sind-wir-digital-geworden](https://www.spiegel.de/ausland/estland-premier-kristen-michal-wir-esten-moegen-menschen-nicht-besonders-deswegen-sind-wir-digital-geworden-a-c238291f-1431-446d-87d6-34069d962b7d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/usa-melania-trump-schmueckt-das-weisse-haus-mit-54-kilogramm-lebkuchen](https://www.spiegel.de/panorama/leute/usa-melania-trump-schmueckt-das-weisse-haus-mit-54-kilogramm-lebkuchen-a-6e2f4157-9d4b-45a6-a0e8-f7d8ecf3c37e#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/estland-premier-kristen-michal-wir-esten-moegen-menschen-nicht-besonders-deswegen-sind-wir-digital-geworden](https://www.spiegel.de/ausland/estland-premier-kristen-michal-wir-esten-moegen-menschen-nicht-besonders-deswegen-sind-wir-digital-geworden-a-c238291f-1431-446d-87d6-34069d962b7d#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/langlauf-ruepel-alexander-bolschunow-faehrt-im-ziel-seinen-teamkameraden-um](https://www.spiegel.de/sport/wintersport/langlauf-ruepel-alexander-bolschunow-faehrt-im-ziel-seinen-teamkameraden-um-a-3d79bf34-aeae-47c5-ad99-d8ff3f119821#ref=rss)
-### vater
-
-* [https://www.spiegel.de/panorama/justiz/niederlande-vater-missbrauchte-toechter-16-jahre-haft](https://www.spiegel.de/panorama/justiz/niederlande-vater-missbrauchte-toechter-16-jahre-haft-a-518dd3c8-daf0-43f8-b951-3f1a357db529#ref=rss)
-### töchter
-
-* [https://www.spiegel.de/panorama/justiz/niederlande-vater-missbrauchte-toechter-16-jahre-haft](https://www.spiegel.de/panorama/justiz/niederlande-vater-missbrauchte-toechter-16-jahre-haft-a-518dd3c8-daf0-43f8-b951-3f1a357db529#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/niederlande-vater-missbrauchte-toechter-16-jahre-haft](https://www.spiegel.de/panorama/justiz/niederlande-vater-missbrauchte-toechter-16-jahre-haft-a-518dd3c8-daf0-43f8-b951-3f1a357db529#ref=rss)
-### kongo
-
-* [https://www.spiegel.de/wissenschaft/mensch/kongo-behoerden-und-who-erklaeren-ebola-ausbruch-fuer-beendet](https://www.spiegel.de/wissenschaft/mensch/kongo-behoerden-und-who-erklaeren-ebola-ausbruch-fuer-beendet-a-69c4cb42-b572-4466-82a7-27e26c755f85#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/wissenschaft/mensch/kongo-behoerden-und-who-erklaeren-ebola-ausbruch-fuer-beendet](https://www.spiegel.de/wissenschaft/mensch/kongo-behoerden-und-who-erklaeren-ebola-ausbruch-fuer-beendet-a-69c4cb42-b572-4466-82a7-27e26c755f85#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/ausland/friedrich-merz-tafel-mit-kanzler-zitat-in-litauen-enthuellt](https://www.spiegel.de/ausland/friedrich-merz-tafel-mit-kanzler-zitat-in-litauen-enthuellt-a-83da8431-6190-4317-8f9f-9470703f6fa3#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-trump-erwartet-baldigen-deal](https://www.spiegel.de/ausland/ukraine-krieg-trump-erwartet-baldigen-deal-a-9fb22a95-a847-4d86-b575-e2affdb7ee8a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/madonna-attackiert-donald-trump-am-und-wegen-welt-aids-tag](https://www.spiegel.de/panorama/leute/madonna-attackiert-donald-trump-am-und-wegen-welt-aids-tag-a-0db74c1b-3726-4da8-989e-7378f4c068a7#ref=rss)
+* [https://www.spiegel.de/ausland/leibarzt-attestiert-donald-trump-ausgezeichnete-gesundheit](https://www.spiegel.de/ausland/leibarzt-attestiert-donald-trump-ausgezeichnete-gesundheit-a-2cd278f6-25d4-4019-9346-f8666af74da2#ref=rss)
+* [https://www.spiegel.de/ausland/steve-witkoff-der-buddy-von-donald-trump-der-von-wladimir-putin-schwaermt](https://www.spiegel.de/ausland/steve-witkoff-der-buddy-von-donald-trump-der-von-wladimir-putin-schwaermt-a-cfb72162-cdfb-49e0-b8d0-a30ddc8144b5#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-trump-erwartet-baldigen-deal](https://www.spiegel.de/ausland/ukraine-krieg-trump-erwartet-baldigen-deal-a-9fb22a95-a847-4d86-b575-e2affdb7ee8a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/usa-melania-trump-schmueckt-das-weisse-haus-mit-54-kilogramm-lebkuchen](https://www.spiegel.de/panorama/leute/usa-melania-trump-schmueckt-das-weisse-haus-mit-54-kilogramm-lebkuchen-a-6e2f4157-9d4b-45a6-a0e8-f7d8ecf3c37e#ref=rss)
-### bolschunow
+* [https://www.spiegel.de/panorama/leute/madonna-attackiert-donald-trump-am-und-wegen-welt-aids-tag](https://www.spiegel.de/panorama/leute/madonna-attackiert-donald-trump-am-und-wegen-welt-aids-tag-a-0db74c1b-3726-4da8-989e-7378f4c068a7#ref=rss)
+* [https://www.spiegel.de/ausland/leibarzt-attestiert-donald-trump-ausgezeichnete-gesundheit](https://www.spiegel.de/ausland/leibarzt-attestiert-donald-trump-ausgezeichnete-gesundheit-a-2cd278f6-25d4-4019-9346-f8666af74da2#ref=rss)
+* [https://www.spiegel.de/ausland/steve-witkoff-der-buddy-von-donald-trump-der-von-wladimir-putin-schwaermt](https://www.spiegel.de/ausland/steve-witkoff-der-buddy-von-donald-trump-der-von-wladimir-putin-schwaermt-a-cfb72162-cdfb-49e0-b8d0-a30ddc8144b5#ref=rss)
+### jungen
 
-* [https://www.spiegel.de/sport/wintersport/langlauf-ruepel-alexander-bolschunow-faehrt-im-ziel-seinen-teamkameraden-um](https://www.spiegel.de/sport/wintersport/langlauf-ruepel-alexander-bolschunow-faehrt-im-ziel-seinen-teamkameraden-um-a-3d79bf34-aeae-47c5-ad99-d8ff3f119821#ref=rss)
-### ziel
+* [https://www.spiegel.de/politik/deutschland/rente-junge-union-soll-widerstand-gegen-rentenpaket-aufgeben](https://www.spiegel.de/politik/deutschland/rente-junge-union-soll-widerstand-gegen-rentenpaket-aufgeben-a-297fad23-a491-4931-a7ef-a15c5a2a5d89#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dortmund-zwei-13-jaehrige-sollen-kioskbetreiber-mit-machete-angegriffen-haben](https://www.spiegel.de/panorama/justiz/dortmund-zwei-13-jaehrige-sollen-kioskbetreiber-mit-machete-angegriffen-haben-a-62e49cfb-718b-4297-a162-a4e51d583f45#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dgb-jugend-fordert-zustimmung-der-jungen-gruppe-zur-rente](https://www.spiegel.de/politik/deutschland/dgb-jugend-fordert-zustimmung-der-jungen-gruppe-zur-rente-a-31ed8b47-6b6e-41e2-b5a6-05fcf1b7cd97#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-kind-stirbt-bei-brand-in-einfamilienhaus](https://www.spiegel.de/panorama/berlin-kind-stirbt-bei-brand-in-einfamilienhaus-a-90364a6a-8178-463c-9cf3-6cd3aaa2322b#ref=rss)
+### xiv
 
-* [https://www.spiegel.de/sport/wintersport/langlauf-ruepel-alexander-bolschunow-faehrt-im-ziel-seinen-teamkameraden-um](https://www.spiegel.de/sport/wintersport/langlauf-ruepel-alexander-bolschunow-faehrt-im-ziel-seinen-teamkameraden-um-a-3d79bf34-aeae-47c5-ad99-d8ff3f119821#ref=rss)
-### bärbel
+* [https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen](https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen-a-ec60922f-2b72-4e30-a96c-c3b41b062104#ref=rss)
+* [https://www.spiegel.de/geschichte/geheimcodes-der-liebe-sags-durch-die-blume-oder-mit-faechern-handschuhen-briefmarken](https://www.spiegel.de/geschichte/geheimcodes-der-liebe-sags-durch-die-blume-oder-mit-faechern-handschuhen-briefmarken-a-b316a256-8f51-4139-8153-4f4d0fd6d7dd#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-arbeitgeber-bezeichnen-aeusserungen-der-spd-chefin-als-beispiellos](https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-arbeitgeber-bezeichnen-aeusserungen-der-spd-chefin-als-beispiellos-a-6a7c1d76-043d-4189-b77b-8ad43518868e#ref=rss)
-### bas
+* [https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen](https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen-a-ec60922f-2b72-4e30-a96c-c3b41b062104#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kraftklub-saenger-felix-kummer-waren-wir-jemals-mehr-nee-ich-glaube-nicht](https://www.spiegel.de/kultur/musik/kraftklub-saenger-felix-kummer-waren-wir-jemals-mehr-nee-ich-glaube-nicht-a-b3d8fdec-cb75-4b22-98c1-f8fbff22aa90#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/2024-produzierte-deutschland-12-8-kilo-schokolade-pro-kopf](https://www.spiegel.de/wirtschaft/unternehmen/2024-produzierte-deutschland-12-8-kilo-schokolade-pro-kopf-a-02991b2d-20a1-4365-925c-96e452403a81#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-arbeitgeber-bezeichnen-aeusserungen-der-spd-chefin-als-beispiellos](https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-arbeitgeber-bezeichnen-aeusserungen-der-spd-chefin-als-beispiellos-a-6a7c1d76-043d-4189-b77b-8ad43518868e#ref=rss)
-### wirklich
+* [https://www.spiegel.de/ausland/ukrainische-drohnen-attackieren-offenbar-russisches-erdoellager](https://www.spiegel.de/ausland/ukrainische-drohnen-attackieren-offenbar-russisches-erdoellager-a-a370c230-1705-4033-9c75-4115d9163c0f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/thomas-gottschalk-karina-gottschalk-draengte-ihren-mann-zum-arztbesuch](https://www.spiegel.de/panorama/leute/thomas-gottschalk-karina-gottschalk-draengte-ihren-mann-zum-arztbesuch-a-f86114f2-7a3d-4cc6-a3bb-229a8194f8b5#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-arbeitgeber-bezeichnen-aeusserungen-der-spd-chefin-als-beispiellos](https://www.spiegel.de/wirtschaft/soziales/baerbel-bas-arbeitgeber-bezeichnen-aeusserungen-der-spd-chefin-als-beispiellos-a-6a7c1d76-043d-4189-b77b-8ad43518868e#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung-in-der-schwangerschaft-was-man-unnoetig-meidet-und-welche-naehrstoffe-man-ergaenzen-sollte](https://www.spiegel.de/gesundheit/ernaehrung-in-der-schwangerschaft-was-man-unnoetig-meidet-und-welche-naehrstoffe-man-ergaenzen-sollte-a-77d1a903-a289-4f47-a1a3-76efa92bb9cb#ref=rss)
-### rage
+* [https://www.spiegel.de/ausland/ukrainische-drohnen-attackieren-offenbar-russisches-erdoellager](https://www.spiegel.de/ausland/ukrainische-drohnen-attackieren-offenbar-russisches-erdoellager-a-a370c230-1705-4033-9c75-4115d9163c0f#ref=rss)
+* [https://www.spiegel.de/fitness/fitness-gehen-mit-gewicht-warum-rucking-das-bessere-wandern-ist](https://www.spiegel.de/fitness/fitness-gehen-mit-gewicht-warum-rucking-das-bessere-wandern-ist-a-01b6f4cf-c7cc-46ad-9793-d1fe466438dc#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/kultur/rage-bait-ist-das-britische-wort-des-jahres-der-oxford-dictionaries](https://www.spiegel.de/kultur/rage-bait-ist-das-britische-wort-des-jahres-der-oxford-dictionaries-a-d14eceaf-0b1c-4935-9e6f-051407b74dbc#ref=rss)
-### bait
+* [https://www.spiegel.de/kultur/zentrum-fuer-politische-schoenheit-eine-lebensgrosse-statue-von-walter-luebcke-vor-dem-konrad-adenauer-haus](https://www.spiegel.de/kultur/zentrum-fuer-politische-schoenheit-eine-lebensgrosse-statue-von-walter-luebcke-vor-dem-konrad-adenauer-haus-a-7d6ee8a0-022f-40cd-886d-c16a3237195f#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-kind-stirbt-bei-brand-in-einfamilienhaus](https://www.spiegel.de/panorama/berlin-kind-stirbt-bei-brand-in-einfamilienhaus-a-90364a6a-8178-463c-9cf3-6cd3aaa2322b#ref=rss)
+### partei
 
-* [https://www.spiegel.de/kultur/rage-bait-ist-das-britische-wort-des-jahres-der-oxford-dictionaries](https://www.spiegel.de/kultur/rage-bait-ist-das-britische-wort-des-jahres-der-oxford-dictionaries-a-d14eceaf-0b1c-4935-9e6f-051407b74dbc#ref=rss)
-### wort
+* [https://www.spiegel.de/kultur/zentrum-fuer-politische-schoenheit-eine-lebensgrosse-statue-von-walter-luebcke-vor-dem-konrad-adenauer-haus](https://www.spiegel.de/kultur/zentrum-fuer-politische-schoenheit-eine-lebensgrosse-statue-von-walter-luebcke-vor-dem-konrad-adenauer-haus-a-7d6ee8a0-022f-40cd-886d-c16a3237195f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-chrupalla-will-hitler-redner-aus-der-partei-ausschliessen](https://www.spiegel.de/politik/deutschland/afd-chrupalla-will-hitler-redner-aus-der-partei-ausschliessen-a-801dca19-d882-412a-a163-ffc4a10ababa#ref=rss)
+### union
 
-* [https://www.spiegel.de/kultur/rage-bait-ist-das-britische-wort-des-jahres-der-oxford-dictionaries](https://www.spiegel.de/kultur/rage-bait-ist-das-britische-wort-des-jahres-der-oxford-dictionaries-a-d14eceaf-0b1c-4935-9e6f-051407b74dbc#ref=rss)
-### jahres
+* [https://www.spiegel.de/politik/deutschland/rente-junge-union-soll-widerstand-gegen-rentenpaket-aufgeben](https://www.spiegel.de/politik/deutschland/rente-junge-union-soll-widerstand-gegen-rentenpaket-aufgeben-a-297fad23-a491-4931-a7ef-a15c5a2a5d89#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-israel-benjamin-netanyahu-rentenstreit-in-der-union-steve-witkoff](https://www.spiegel.de/politik/deutschland/news-ukraine-israel-benjamin-netanyahu-rentenstreit-in-der-union-steve-witkoff-a-39ed8fb4-91d5-4898-ad7d-e675c6511638#ref=rss)
+### rentenpaket
 
-* [https://www.spiegel.de/kultur/rage-bait-ist-das-britische-wort-des-jahres-der-oxford-dictionaries](https://www.spiegel.de/kultur/rage-bait-ist-das-britische-wort-des-jahres-der-oxford-dictionaries-a-d14eceaf-0b1c-4935-9e6f-051407b74dbc#ref=rss)
-### oxford
+* [https://www.spiegel.de/politik/deutschland/rente-junge-union-soll-widerstand-gegen-rentenpaket-aufgeben](https://www.spiegel.de/politik/deutschland/rente-junge-union-soll-widerstand-gegen-rentenpaket-aufgeben-a-297fad23-a491-4931-a7ef-a15c5a2a5d89#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dgb-jugend-fordert-zustimmung-der-jungen-gruppe-zur-rente](https://www.spiegel.de/politik/deutschland/dgb-jugend-fordert-zustimmung-der-jungen-gruppe-zur-rente-a-31ed8b47-6b6e-41e2-b5a6-05fcf1b7cd97#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/kultur/rage-bait-ist-das-britische-wort-des-jahres-der-oxford-dictionaries](https://www.spiegel.de/kultur/rage-bait-ist-das-britische-wort-des-jahres-der-oxford-dictionaries-a-d14eceaf-0b1c-4935-9e6f-051407b74dbc#ref=rss)
-### paris
+* [https://www.spiegel.de/panorama/justiz/dortmund-zwei-13-jaehrige-sollen-kioskbetreiber-mit-machete-angegriffen-haben](https://www.spiegel.de/panorama/justiz/dortmund-zwei-13-jaehrige-sollen-kioskbetreiber-mit-machete-angegriffen-haben-a-62e49cfb-718b-4297-a162-a4e51d583f45#ref=rss)
+* [https://www.spiegel.de/ausland/usa-schwerverletzter-soldat-der-nationalgarde-gibt-lebenszeichen-per-wackelndem-zeh](https://www.spiegel.de/ausland/usa-schwerverletzter-soldat-der-nationalgarde-gibt-lebenszeichen-per-wackelndem-zeh-a-4583c406-cb7a-4e90-b79e-a557e53adbb5#ref=rss)
+### gottschalk
 
-* [https://www.spiegel.de/kultur/paris-jr-plant-pont-neuf-hommage-an-christo-und-jeanne-claude](https://www.spiegel.de/kultur/paris-jr-plant-pont-neuf-hommage-an-christo-und-jeanne-claude-a-9ef242c3-5020-496b-9e26-f14ffbc8be22#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-will-us-sondergesandten-steve-witkoff-in-moskau-treffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-will-us-sondergesandten-steve-witkoff-in-moskau-treffen-a-1747bf5a-0d03-4fe1-bfbd-cb1b7a256b8d#ref=rss)
-### jr
+* [https://www.spiegel.de/panorama/leute/thomas-gottschalk-karina-gottschalk-draengte-ihren-mann-zum-arztbesuch](https://www.spiegel.de/panorama/leute/thomas-gottschalk-karina-gottschalk-draengte-ihren-mann-zum-arztbesuch-a-f86114f2-7a3d-4cc6-a3bb-229a8194f8b5#ref=rss)
+### steve
 
-* [https://www.spiegel.de/kultur/paris-jr-plant-pont-neuf-hommage-an-christo-und-jeanne-claude](https://www.spiegel.de/kultur/paris-jr-plant-pont-neuf-hommage-an-christo-und-jeanne-claude-a-9ef242c3-5020-496b-9e26-f14ffbc8be22#ref=rss)
-### christo
+* [https://www.spiegel.de/ausland/steve-witkoff-der-buddy-von-donald-trump-der-von-wladimir-putin-schwaermt](https://www.spiegel.de/ausland/steve-witkoff-der-buddy-von-donald-trump-der-von-wladimir-putin-schwaermt-a-cfb72162-cdfb-49e0-b8d0-a30ddc8144b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-israel-benjamin-netanyahu-rentenstreit-in-der-union-steve-witkoff](https://www.spiegel.de/politik/deutschland/news-ukraine-israel-benjamin-netanyahu-rentenstreit-in-der-union-steve-witkoff-a-39ed8fb4-91d5-4898-ad7d-e675c6511638#ref=rss)
+### witkoff
 
-* [https://www.spiegel.de/kultur/paris-jr-plant-pont-neuf-hommage-an-christo-und-jeanne-claude](https://www.spiegel.de/kultur/paris-jr-plant-pont-neuf-hommage-an-christo-und-jeanne-claude-a-9ef242c3-5020-496b-9e26-f14ffbc8be22#ref=rss)
-### jeanneclaude
+* [https://www.spiegel.de/ausland/steve-witkoff-der-buddy-von-donald-trump-der-von-wladimir-putin-schwaermt](https://www.spiegel.de/ausland/steve-witkoff-der-buddy-von-donald-trump-der-von-wladimir-putin-schwaermt-a-cfb72162-cdfb-49e0-b8d0-a30ddc8144b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-israel-benjamin-netanyahu-rentenstreit-in-der-union-steve-witkoff](https://www.spiegel.de/politik/deutschland/news-ukraine-israel-benjamin-netanyahu-rentenstreit-in-der-union-steve-witkoff-a-39ed8fb4-91d5-4898-ad7d-e675c6511638#ref=rss)
+### usa
 
-* [https://www.spiegel.de/kultur/paris-jr-plant-pont-neuf-hommage-an-christo-und-jeanne-claude](https://www.spiegel.de/kultur/paris-jr-plant-pont-neuf-hommage-an-christo-und-jeanne-claude-a-9ef242c3-5020-496b-9e26-f14ffbc8be22#ref=rss)
-### heißt
+* [https://www.spiegel.de/ausland/steve-witkoff-der-buddy-von-donald-trump-der-von-wladimir-putin-schwaermt](https://www.spiegel.de/ausland/steve-witkoff-der-buddy-von-donald-trump-der-von-wladimir-putin-schwaermt-a-cfb72162-cdfb-49e0-b8d0-a30ddc8144b5#ref=rss)
+* [https://www.spiegel.de/ausland/usa-schwerverletzter-soldat-der-nationalgarde-gibt-lebenszeichen-per-wackelndem-zeh](https://www.spiegel.de/ausland/usa-schwerverletzter-soldat-der-nationalgarde-gibt-lebenszeichen-per-wackelndem-zeh-a-4583c406-cb7a-4e90-b79e-a557e53adbb5#ref=rss)
+### scarlett
 
-* [https://www.spiegel.de/politik/deutschland/rente-junge-gruppe-stellt-die-entscheidung-ueber-die-reform-frei](https://www.spiegel.de/politik/deutschland/rente-junge-gruppe-stellt-die-entscheidung-ueber-die-reform-frei-a-ea2795a0-803e-42a5-9f08-a97570677466#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/frankfurt-oder-internationale-studierende-berichten-von-diskriminierung-an-deutsch-polnischer-grenze](https://www.spiegel.de/panorama/bildung/frankfurt-oder-internationale-studierende-berichten-von-diskriminierung-an-deutsch-polnischer-grenze-a-04d78b2f-5b7d-4dd3-b448-cb574dda45f4#ref=rss)
-### internationale
+* [https://www.spiegel.de/panorama/leute/scarlett-johansson-sollte-den-holocaust-aus-film-ueber-holocaust-ueberlebende-streichen](https://www.spiegel.de/panorama/leute/scarlett-johansson-sollte-den-holocaust-aus-film-ueber-holocaust-ueberlebende-streichen-a-580cc988-27df-4cc5-8fab-d1969f393a5c#ref=rss)
+### johansson
 
-* [https://www.spiegel.de/panorama/bildung/frankfurt-oder-internationale-studierende-berichten-von-diskriminierung-an-deutsch-polnischer-grenze](https://www.spiegel.de/panorama/bildung/frankfurt-oder-internationale-studierende-berichten-von-diskriminierung-an-deutsch-polnischer-grenze-a-04d78b2f-5b7d-4dd3-b448-cb574dda45f4#ref=rss)
-### studierende
+* [https://www.spiegel.de/panorama/leute/scarlett-johansson-sollte-den-holocaust-aus-film-ueber-holocaust-ueberlebende-streichen](https://www.spiegel.de/panorama/leute/scarlett-johansson-sollte-den-holocaust-aus-film-ueber-holocaust-ueberlebende-streichen-a-580cc988-27df-4cc5-8fab-d1969f393a5c#ref=rss)
+### sollte
 
-* [https://www.spiegel.de/panorama/bildung/frankfurt-oder-internationale-studierende-berichten-von-diskriminierung-an-deutsch-polnischer-grenze](https://www.spiegel.de/panorama/bildung/frankfurt-oder-internationale-studierende-berichten-von-diskriminierung-an-deutsch-polnischer-grenze-a-04d78b2f-5b7d-4dd3-b448-cb574dda45f4#ref=rss)
-### grenze
+* [https://www.spiegel.de/panorama/leute/scarlett-johansson-sollte-den-holocaust-aus-film-ueber-holocaust-ueberlebende-streichen](https://www.spiegel.de/panorama/leute/scarlett-johansson-sollte-den-holocaust-aus-film-ueber-holocaust-ueberlebende-streichen-a-580cc988-27df-4cc5-8fab-d1969f393a5c#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/usa-einreise-so-bereiten-sie-ihre-gadgets-auf-grenzkontrollen-vor](https://www.spiegel.de/netzwelt/netzpolitik/usa-einreise-so-bereiten-sie-ihre-gadgets-auf-grenzkontrollen-vor-a-b49301e7-fe91-4fb0-9b7c-1f5b4d45a84f#ref=rss)
+### holocaust
 
-* [https://www.spiegel.de/panorama/bildung/frankfurt-oder-internationale-studierende-berichten-von-diskriminierung-an-deutsch-polnischer-grenze](https://www.spiegel.de/panorama/bildung/frankfurt-oder-internationale-studierende-berichten-von-diskriminierung-an-deutsch-polnischer-grenze-a-04d78b2f-5b7d-4dd3-b448-cb574dda45f4#ref=rss)
+* [https://www.spiegel.de/panorama/leute/scarlett-johansson-sollte-den-holocaust-aus-film-ueber-holocaust-ueberlebende-streichen](https://www.spiegel.de/panorama/leute/scarlett-johansson-sollte-den-holocaust-aus-film-ueber-holocaust-ueberlebende-streichen-a-580cc988-27df-4cc5-8fab-d1969f393a5c#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen](https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen-a-ec60922f-2b72-4e30-a96c-c3b41b062104#ref=rss)
+### papst
+
+* [https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen](https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen-a-ec60922f-2b72-4e30-a96c-c3b41b062104#ref=rss)
+### leo
+
+* [https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen](https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen-a-ec60922f-2b72-4e30-a96c-c3b41b062104#ref=rss)
+### beirut
+
+* [https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen](https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen-a-ec60922f-2b72-4e30-a96c-c3b41b062104#ref=rss)
+### großen
+
+* [https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen](https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen-a-ec60922f-2b72-4e30-a96c-c3b41b062104#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kraftklub-saenger-felix-kummer-waren-wir-jemals-mehr-nee-ich-glaube-nicht](https://www.spiegel.de/kultur/musik/kraftklub-saenger-felix-kummer-waren-wir-jemals-mehr-nee-ich-glaube-nicht-a-b3d8fdec-cb75-4b22-98c1-f8fbff22aa90#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen](https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen-a-ec60922f-2b72-4e30-a96c-c3b41b062104#ref=rss)
+* [https://www.spiegel.de/fitness/ischias-diese-uebungen-helfen-bei-einer-ischialgie](https://www.spiegel.de/fitness/ischias-diese-uebungen-helfen-bei-einer-ischialgie-a-40289ceb-65be-450e-b429-c3351e77649d#ref=rss)
+### frieden
+
+* [https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen](https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen-a-ec60922f-2b72-4e30-a96c-c3b41b062104#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-israel-benjamin-netanyahu-rentenstreit-in-der-union-steve-witkoff](https://www.spiegel.de/politik/deutschland/news-ukraine-israel-benjamin-netanyahu-rentenstreit-in-der-union-steve-witkoff-a-39ed8fb4-91d5-4898-ad7d-e675c6511638#ref=rss)
+### zuvor
+
+* [https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen](https://www.spiegel.de/panorama/gesellschaft/libanon-papst-leo-xiv-feiert-in-beirut-messe-vor-mehr-als-100-000-glaeubigen-a-ec60922f-2b72-4e30-a96c-c3b41b062104#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/usa-einreise-so-bereiten-sie-ihre-gadgets-auf-grenzkontrollen-vor](https://www.spiegel.de/netzwelt/netzpolitik/usa-einreise-so-bereiten-sie-ihre-gadgets-auf-grenzkontrollen-vor-a-b49301e7-fe91-4fb0-9b7c-1f5b4d45a84f#ref=rss)
+### ich
+
+* [https://www.spiegel.de/panorama/leute/madonna-attackiert-donald-trump-am-und-wegen-welt-aids-tag](https://www.spiegel.de/panorama/leute/madonna-attackiert-donald-trump-am-und-wegen-welt-aids-tag-a-0db74c1b-3726-4da8-989e-7378f4c068a7#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kraftklub-saenger-felix-kummer-waren-wir-jemals-mehr-nee-ich-glaube-nicht](https://www.spiegel.de/kultur/musik/kraftklub-saenger-felix-kummer-waren-wir-jemals-mehr-nee-ich-glaube-nicht-a-b3d8fdec-cb75-4b22-98c1-f8fbff22aa90#ref=rss)
+### nie
+
+* [https://www.spiegel.de/panorama/leute/madonna-attackiert-donald-trump-am-und-wegen-welt-aids-tag](https://www.spiegel.de/panorama/leute/madonna-attackiert-donald-trump-am-und-wegen-welt-aids-tag-a-0db74c1b-3726-4da8-989e-7378f4c068a7#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/usa-einreise-so-bereiten-sie-ihre-gadgets-auf-grenzkontrollen-vor](https://www.spiegel.de/netzwelt/netzpolitik/usa-einreise-so-bereiten-sie-ihre-gadgets-auf-grenzkontrollen-vor-a-b49301e7-fe91-4fb0-9b7c-1f5b4d45a84f#ref=rss)
+### stirbt
+
+* [https://www.spiegel.de/panorama/leute/madonna-attackiert-donald-trump-am-und-wegen-welt-aids-tag](https://www.spiegel.de/panorama/leute/madonna-attackiert-donald-trump-am-und-wegen-welt-aids-tag-a-0db74c1b-3726-4da8-989e-7378f4c068a7#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-kind-stirbt-bei-brand-in-einfamilienhaus](https://www.spiegel.de/panorama/berlin-kind-stirbt-bei-brand-in-einfamilienhaus-a-90364a6a-8178-463c-9cf3-6cd3aaa2322b#ref=rss)
+### ukrainische
+
+* [https://www.spiegel.de/ausland/ukrainische-drohnen-attackieren-offenbar-russisches-erdoellager](https://www.spiegel.de/ausland/ukrainische-drohnen-attackieren-offenbar-russisches-erdoellager-a-a370c230-1705-4033-9c75-4115d9163c0f#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/ausland/ukrainische-drohnen-attackieren-offenbar-russisches-erdoellager](https://www.spiegel.de/ausland/ukrainische-drohnen-attackieren-offenbar-russisches-erdoellager-a-a370c230-1705-4033-9c75-4115d9163c0f#ref=rss)
+### erdöllager
+
+* [https://www.spiegel.de/ausland/ukrainische-drohnen-attackieren-offenbar-russisches-erdoellager](https://www.spiegel.de/ausland/ukrainische-drohnen-attackieren-offenbar-russisches-erdoellager-a-a370c230-1705-4033-9c75-4115d9163c0f#ref=rss)
+### angegriffen
+
+* [https://www.spiegel.de/ausland/ukrainische-drohnen-attackieren-offenbar-russisches-erdoellager](https://www.spiegel.de/ausland/ukrainische-drohnen-attackieren-offenbar-russisches-erdoellager-a-a370c230-1705-4033-9c75-4115d9163c0f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dortmund-zwei-13-jaehrige-sollen-kioskbetreiber-mit-machete-angegriffen-haben](https://www.spiegel.de/panorama/justiz/dortmund-zwei-13-jaehrige-sollen-kioskbetreiber-mit-machete-angegriffen-haben-a-62e49cfb-718b-4297-a162-a4e51d583f45#ref=rss)
+### hessen
+
+* [https://www.spiegel.de/panorama/justiz/hessen-juristin-mit-kopftuch-darf-als-richterin-abgelehnt-werden](https://www.spiegel.de/panorama/justiz/hessen-juristin-mit-kopftuch-darf-als-richterin-abgelehnt-werden-a-caacf6c6-73a1-492f-9d34-437dac6b7b6c#ref=rss)
+### juristin
+
+* [https://www.spiegel.de/panorama/justiz/hessen-juristin-mit-kopftuch-darf-als-richterin-abgelehnt-werden](https://www.spiegel.de/panorama/justiz/hessen-juristin-mit-kopftuch-darf-als-richterin-abgelehnt-werden-a-caacf6c6-73a1-492f-9d34-437dac6b7b6c#ref=rss)
+### kopftuch
+
+* [https://www.spiegel.de/panorama/justiz/hessen-juristin-mit-kopftuch-darf-als-richterin-abgelehnt-werden](https://www.spiegel.de/panorama/justiz/hessen-juristin-mit-kopftuch-darf-als-richterin-abgelehnt-werden-a-caacf6c6-73a1-492f-9d34-437dac6b7b6c#ref=rss)
+### richterin
+
+* [https://www.spiegel.de/panorama/justiz/hessen-juristin-mit-kopftuch-darf-als-richterin-abgelehnt-werden](https://www.spiegel.de/panorama/justiz/hessen-juristin-mit-kopftuch-darf-als-richterin-abgelehnt-werden-a-caacf6c6-73a1-492f-9d34-437dac6b7b6c#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/hessen-juristin-mit-kopftuch-darf-als-richterin-abgelehnt-werden](https://www.spiegel.de/panorama/justiz/hessen-juristin-mit-kopftuch-darf-als-richterin-abgelehnt-werden-a-caacf6c6-73a1-492f-9d34-437dac6b7b6c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/thomas-gottschalk-karina-gottschalk-draengte-ihren-mann-zum-arztbesuch](https://www.spiegel.de/panorama/leute/thomas-gottschalk-karina-gottschalk-draengte-ihren-mann-zum-arztbesuch-a-f86114f2-7a3d-4cc6-a3bb-229a8194f8b5#ref=rss)
+### zentrum
+
+* [https://www.spiegel.de/kultur/zentrum-fuer-politische-schoenheit-eine-lebensgrosse-statue-von-walter-luebcke-vor-dem-konrad-adenauer-haus](https://www.spiegel.de/kultur/zentrum-fuer-politische-schoenheit-eine-lebensgrosse-statue-von-walter-luebcke-vor-dem-konrad-adenauer-haus-a-7d6ee8a0-022f-40cd-886d-c16a3237195f#ref=rss)
+### politische
+
+* [https://www.spiegel.de/kultur/zentrum-fuer-politische-schoenheit-eine-lebensgrosse-statue-von-walter-luebcke-vor-dem-konrad-adenauer-haus](https://www.spiegel.de/kultur/zentrum-fuer-politische-schoenheit-eine-lebensgrosse-statue-von-walter-luebcke-vor-dem-konrad-adenauer-haus-a-7d6ee8a0-022f-40cd-886d-c16a3237195f#ref=rss)
+### schönheit
+
+* [https://www.spiegel.de/kultur/zentrum-fuer-politische-schoenheit-eine-lebensgrosse-statue-von-walter-luebcke-vor-dem-konrad-adenauer-haus](https://www.spiegel.de/kultur/zentrum-fuer-politische-schoenheit-eine-lebensgrosse-statue-von-walter-luebcke-vor-dem-konrad-adenauer-haus-a-7d6ee8a0-022f-40cd-886d-c16a3237195f#ref=rss)
+### statue
+
+* [https://www.spiegel.de/kultur/zentrum-fuer-politische-schoenheit-eine-lebensgrosse-statue-von-walter-luebcke-vor-dem-konrad-adenauer-haus](https://www.spiegel.de/kultur/zentrum-fuer-politische-schoenheit-eine-lebensgrosse-statue-von-walter-luebcke-vor-dem-konrad-adenauer-haus-a-7d6ee8a0-022f-40cd-886d-c16a3237195f#ref=rss)
+### walter
+
+* [https://www.spiegel.de/kultur/zentrum-fuer-politische-schoenheit-eine-lebensgrosse-statue-von-walter-luebcke-vor-dem-konrad-adenauer-haus](https://www.spiegel.de/kultur/zentrum-fuer-politische-schoenheit-eine-lebensgrosse-statue-von-walter-luebcke-vor-dem-konrad-adenauer-haus-a-7d6ee8a0-022f-40cd-886d-c16a3237195f#ref=rss)
+### lübcke
+
+* [https://www.spiegel.de/kultur/zentrum-fuer-politische-schoenheit-eine-lebensgrosse-statue-von-walter-luebcke-vor-dem-konrad-adenauer-haus](https://www.spiegel.de/kultur/zentrum-fuer-politische-schoenheit-eine-lebensgrosse-statue-von-walter-luebcke-vor-dem-konrad-adenauer-haus-a-7d6ee8a0-022f-40cd-886d-c16a3237195f#ref=rss)
+### ozonloch
+
+* [https://www.spiegel.de/wissenschaft/antarktis-ozonloch-schliesst-sich-2025-so-frueh-wie-seit-jahren-nicht](https://www.spiegel.de/wissenschaft/antarktis-ozonloch-schliesst-sich-2025-so-frueh-wie-seit-jahren-nicht-a-98f5afb2-d667-40e8-84de-398a5ee2f002#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/wissenschaft/antarktis-ozonloch-schliesst-sich-2025-so-frueh-wie-seit-jahren-nicht](https://www.spiegel.de/wissenschaft/antarktis-ozonloch-schliesst-sich-2025-so-frueh-wie-seit-jahren-nicht-a-98f5afb2-d667-40e8-84de-398a5ee2f002#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wissenschaft/antarktis-ozonloch-schliesst-sich-2025-so-frueh-wie-seit-jahren-nicht](https://www.spiegel.de/wissenschaft/antarktis-ozonloch-schliesst-sich-2025-so-frueh-wie-seit-jahren-nicht-a-98f5afb2-d667-40e8-84de-398a5ee2f002#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kraftklub-saenger-felix-kummer-waren-wir-jemals-mehr-nee-ich-glaube-nicht](https://www.spiegel.de/kultur/musik/kraftklub-saenger-felix-kummer-waren-wir-jemals-mehr-nee-ich-glaube-nicht-a-b3d8fdec-cb75-4b22-98c1-f8fbff22aa90#ref=rss)
+### vermeiden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tv-rtl-will-rund-600-jobs-in-deutschland-streichen](https://www.spiegel.de/wirtschaft/unternehmen/tv-rtl-will-rund-600-jobs-in-deutschland-streichen-a-8935cf6d-562f-4685-bd5f-8cbe03c2d4e5#ref=rss)
+* [https://www.spiegel.de/fitness/ischias-diese-uebungen-helfen-bei-einer-ischialgie](https://www.spiegel.de/fitness/ischias-diese-uebungen-helfen-bei-einer-ischialgie-a-40289ceb-65be-450e-b429-c3351e77649d#ref=rss)
+### felix
+
+* [https://www.spiegel.de/kultur/musik/kraftklub-saenger-felix-kummer-waren-wir-jemals-mehr-nee-ich-glaube-nicht](https://www.spiegel.de/kultur/musik/kraftklub-saenger-felix-kummer-waren-wir-jemals-mehr-nee-ich-glaube-nicht-a-b3d8fdec-cb75-4b22-98c1-f8fbff22aa90#ref=rss)
+### kummer
+
+* [https://www.spiegel.de/kultur/musik/kraftklub-saenger-felix-kummer-waren-wir-jemals-mehr-nee-ich-glaube-nicht](https://www.spiegel.de/kultur/musik/kraftklub-saenger-felix-kummer-waren-wir-jemals-mehr-nee-ich-glaube-nicht-a-b3d8fdec-cb75-4b22-98c1-f8fbff22aa90#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/verfassungsschuetzer-sieht-keine-maessigung-der-afd-jugend](https://www.spiegel.de/politik/deutschland/verfassungsschuetzer-sieht-keine-maessigung-der-afd-jugend-a-c0d03dd9-678c-4c48-b472-cf09615272bc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bdi-praesident-peter-leibinger-sieht-wirtschaftsstandort-deutschland-im-freien-fall](https://www.spiegel.de/wirtschaft/unternehmen/bdi-praesident-peter-leibinger-sieht-wirtschaftsstandort-deutschland-im-freien-fall-a-672554b3-f27a-4934-a959-e1a86c75ec75#ref=rss)
+### neue
+
+* [https://www.spiegel.de/politik/deutschland/verfassungsschuetzer-sieht-keine-maessigung-der-afd-jugend](https://www.spiegel.de/politik/deutschland/verfassungsschuetzer-sieht-keine-maessigung-der-afd-jugend-a-c0d03dd9-678c-4c48-b472-cf09615272bc#ref=rss)
+* [https://www.spiegel.de/auto/e-autos-forscherin-entwickelt-neues-warngeraeusch-fuer-leise-elektrofahrzeuge](https://www.spiegel.de/auto/e-autos-forscherin-entwickelt-neues-warngeraeusch-fuer-leise-elektrofahrzeuge-a-12b891be-a975-40fa-864c-53bfe502c46c#ref=rss)
+### afdjugendorganisation
+
+* [https://www.spiegel.de/politik/deutschland/verfassungsschuetzer-sieht-keine-maessigung-der-afd-jugend](https://www.spiegel.de/politik/deutschland/verfassungsschuetzer-sieht-keine-maessigung-der-afd-jugend-a-c0d03dd9-678c-4c48-b472-cf09615272bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-chrupalla-will-hitler-redner-aus-der-partei-ausschliessen](https://www.spiegel.de/politik/deutschland/afd-chrupalla-will-hitler-redner-aus-der-partei-ausschliessen-a-801dca19-d882-412a-a163-ffc4a10ababa#ref=rss)
+### fordern
+
+* [https://www.spiegel.de/politik/deutschland/verfassungsschuetzer-sieht-keine-maessigung-der-afd-jugend](https://www.spiegel.de/politik/deutschland/verfassungsschuetzer-sieht-keine-maessigung-der-afd-jugend-a-c0d03dd9-678c-4c48-b472-cf09615272bc#ref=rss)
+* [https://www.spiegel.de/fitness/fitness-gehen-mit-gewicht-warum-rucking-das-bessere-wandern-ist](https://www.spiegel.de/fitness/fitness-gehen-mit-gewicht-warum-rucking-das-bessere-wandern-ist-a-01b6f4cf-c7cc-46ad-9793-d1fe466438dc#ref=rss)
+### rente
+
+* [https://www.spiegel.de/politik/deutschland/rente-junge-union-soll-widerstand-gegen-rentenpaket-aufgeben](https://www.spiegel.de/politik/deutschland/rente-junge-union-soll-widerstand-gegen-rentenpaket-aufgeben-a-297fad23-a491-4931-a7ef-a15c5a2a5d89#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dgb-jugend-fordert-zustimmung-der-jungen-gruppe-zur-rente](https://www.spiegel.de/politik/deutschland/dgb-jugend-fordert-zustimmung-der-jungen-gruppe-zur-rente-a-31ed8b47-6b6e-41e2-b5a6-05fcf1b7cd97#ref=rss)
+### sollten
+
+* [https://www.spiegel.de/politik/deutschland/rente-junge-union-soll-widerstand-gegen-rentenpaket-aufgeben](https://www.spiegel.de/politik/deutschland/rente-junge-union-soll-widerstand-gegen-rentenpaket-aufgeben-a-297fad23-a491-4931-a7ef-a15c5a2a5d89#ref=rss)
+* [https://www.spiegel.de/fitness/ischias-diese-uebungen-helfen-bei-einer-ischialgie](https://www.spiegel.de/fitness/ischias-diese-uebungen-helfen-bei-einer-ischialgie-a-40289ceb-65be-450e-b429-c3351e77649d#ref=rss)
+### galatasaray
+
+* [https://www.spiegel.de/sport/fussball/galatasaray-istanbul-im-derby-erst-trifft-leroy-sane-dann-ein-fenerbahce-fan](https://www.spiegel.de/sport/fussball/galatasaray-istanbul-im-derby-erst-trifft-leroy-sane-dann-ein-fenerbahce-fan-a-8ef4ab5e-03b3-4ac3-8cd3-f8d6ef30b3c3#ref=rss)
+### leroy
+
+* [https://www.spiegel.de/sport/fussball/galatasaray-istanbul-im-derby-erst-trifft-leroy-sane-dann-ein-fenerbahce-fan](https://www.spiegel.de/sport/fussball/galatasaray-istanbul-im-derby-erst-trifft-leroy-sane-dann-ein-fenerbahce-fan-a-8ef4ab5e-03b3-4ac3-8cd3-f8d6ef30b3c3#ref=rss)
+### sané
+
+* [https://www.spiegel.de/sport/fussball/galatasaray-istanbul-im-derby-erst-trifft-leroy-sane-dann-ein-fenerbahce-fan](https://www.spiegel.de/sport/fussball/galatasaray-istanbul-im-derby-erst-trifft-leroy-sane-dann-ein-fenerbahce-fan-a-8ef4ab5e-03b3-4ac3-8cd3-f8d6ef30b3c3#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/panorama/justiz/dortmund-zwei-13-jaehrige-sollen-kioskbetreiber-mit-machete-angegriffen-haben](https://www.spiegel.de/panorama/justiz/dortmund-zwei-13-jaehrige-sollen-kioskbetreiber-mit-machete-angegriffen-haben-a-62e49cfb-718b-4297-a162-a4e51d583f45#ref=rss)
+### machete
+
+* [https://www.spiegel.de/panorama/justiz/dortmund-zwei-13-jaehrige-sollen-kioskbetreiber-mit-machete-angegriffen-haben](https://www.spiegel.de/panorama/justiz/dortmund-zwei-13-jaehrige-sollen-kioskbetreiber-mit-machete-angegriffen-haben-a-62e49cfb-718b-4297-a162-a4e51d583f45#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/dortmund-zwei-13-jaehrige-sollen-kioskbetreiber-mit-machete-angegriffen-haben](https://www.spiegel.de/panorama/justiz/dortmund-zwei-13-jaehrige-sollen-kioskbetreiber-mit-machete-angegriffen-haben-a-62e49cfb-718b-4297-a162-a4e51d583f45#ref=rss)
+* [https://www.spiegel.de/panorama/leute/thomas-gottschalk-karina-gottschalk-draengte-ihren-mann-zum-arztbesuch](https://www.spiegel.de/panorama/leute/thomas-gottschalk-karina-gottschalk-draengte-ihren-mann-zum-arztbesuch-a-f86114f2-7a3d-4cc6-a3bb-229a8194f8b5#ref=rss)
+### sicher
+
+* [https://www.spiegel.de/politik/deutschland/dgb-jugend-fordert-zustimmung-der-jungen-gruppe-zur-rente](https://www.spiegel.de/politik/deutschland/dgb-jugend-fordert-zustimmung-der-jungen-gruppe-zur-rente-a-31ed8b47-6b6e-41e2-b5a6-05fcf1b7cd97#ref=rss)
+* [https://www.spiegel.de/auto/e-autos-forscherin-entwickelt-neues-warngeraeusch-fuer-leise-elektrofahrzeuge](https://www.spiegel.de/auto/e-autos-forscherin-entwickelt-neues-warngeraeusch-fuer-leise-elektrofahrzeuge-a-12b891be-a975-40fa-864c-53bfe502c46c#ref=rss)
+### kind
+
+* [https://www.spiegel.de/panorama/berlin-kind-stirbt-bei-brand-in-einfamilienhaus](https://www.spiegel.de/panorama/berlin-kind-stirbt-bei-brand-in-einfamilienhaus-a-90364a6a-8178-463c-9cf3-6cd3aaa2322b#ref=rss)
+### haus
+
+* [https://www.spiegel.de/panorama/berlin-kind-stirbt-bei-brand-in-einfamilienhaus](https://www.spiegel.de/panorama/berlin-kind-stirbt-bei-brand-in-einfamilienhaus-a-90364a6a-8178-463c-9cf3-6cd3aaa2322b#ref=rss)
+* [https://www.spiegel.de/ausland/leibarzt-attestiert-donald-trump-ausgezeichnete-gesundheit](https://www.spiegel.de/ausland/leibarzt-attestiert-donald-trump-ausgezeichnete-gesundheit-a-2cd278f6-25d4-4019-9346-f8666af74da2#ref=rss)
+### auftritt
+
+* [https://www.spiegel.de/ausland/leibarzt-attestiert-donald-trump-ausgezeichnete-gesundheit](https://www.spiegel.de/ausland/leibarzt-attestiert-donald-trump-ausgezeichnete-gesundheit-a-2cd278f6-25d4-4019-9346-f8666af74da2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-chrupalla-will-hitler-redner-aus-der-partei-ausschliessen](https://www.spiegel.de/politik/deutschland/afd-chrupalla-will-hitler-redner-aus-der-partei-ausschliessen-a-801dca19-d882-412a-a163-ffc4a10ababa#ref=rss)
 ### thomas
 
-* [https://www.spiegel.de/panorama/leute/thomas-gottschalk-karl-theodor-zu-guttenberg-kritisiert-umgang-mit-krebskrankem-moderator](https://www.spiegel.de/panorama/leute/thomas-gottschalk-karl-theodor-zu-guttenberg-kritisiert-umgang-mit-krebskrankem-moderator-a-b2dadd58-03e2-4f6f-9701-6954cfe84ead#ref=rss)
-### augsburg
+* [https://www.spiegel.de/panorama/leute/thomas-gottschalk-karina-gottschalk-draengte-ihren-mann-zum-arztbesuch](https://www.spiegel.de/panorama/leute/thomas-gottschalk-karina-gottschalk-draengte-ihren-mann-zum-arztbesuch-a-f86114f2-7a3d-4cc6-a3bb-229a8194f8b5#ref=rss)
+### peter
 
-* [https://www.spiegel.de/sport/fussball/fc-augsburg-trennt-sich-von-trainer-sandro-wagner](https://www.spiegel.de/sport/fussball/fc-augsburg-trennt-sich-von-trainer-sandro-wagner-a-dc198d94-4a21-4e4c-b17d-73b929d0a101#ref=rss)
-### sandro
+* [https://www.spiegel.de/wirtschaft/unternehmen/bdi-praesident-peter-leibinger-sieht-wirtschaftsstandort-deutschland-im-freien-fall](https://www.spiegel.de/wirtschaft/unternehmen/bdi-praesident-peter-leibinger-sieht-wirtschaftsstandort-deutschland-im-freien-fall-a-672554b3-f27a-4934-a959-e1a86c75ec75#ref=rss)
+### leibinger
 
-* [https://www.spiegel.de/sport/fussball/fc-augsburg-trennt-sich-von-trainer-sandro-wagner](https://www.spiegel.de/sport/fussball/fc-augsburg-trennt-sich-von-trainer-sandro-wagner-a-dc198d94-4a21-4e4c-b17d-73b929d0a101#ref=rss)
-### wagner
+* [https://www.spiegel.de/wirtschaft/unternehmen/bdi-praesident-peter-leibinger-sieht-wirtschaftsstandort-deutschland-im-freien-fall](https://www.spiegel.de/wirtschaft/unternehmen/bdi-praesident-peter-leibinger-sieht-wirtschaftsstandort-deutschland-im-freien-fall-a-672554b3-f27a-4934-a959-e1a86c75ec75#ref=rss)
+### lage
 
-* [https://www.spiegel.de/sport/fussball/fc-augsburg-trennt-sich-von-trainer-sandro-wagner](https://www.spiegel.de/sport/fussball/fc-augsburg-trennt-sich-von-trainer-sandro-wagner-a-dc198d94-4a21-4e4c-b17d-73b929d0a101#ref=rss)
-### hormonaktive
+* [https://www.spiegel.de/wirtschaft/unternehmen/bdi-praesident-peter-leibinger-sieht-wirtschaftsstandort-deutschland-im-freien-fall](https://www.spiegel.de/wirtschaft/unternehmen/bdi-praesident-peter-leibinger-sieht-wirtschaftsstandort-deutschland-im-freien-fall-a-672554b3-f27a-4934-a959-e1a86c75ec75#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-israel-benjamin-netanyahu-rentenstreit-in-der-union-steve-witkoff](https://www.spiegel.de/politik/deutschland/news-ukraine-israel-benjamin-netanyahu-rentenstreit-in-der-union-steve-witkoff-a-39ed8fb4-91d5-4898-ad7d-e675c6511638#ref=rss)
+### putin
 
-* [https://www.spiegel.de/wissenschaft/kinderspielzeug-forscher-warnen-vor-gesundheitsrisiken-durch-hormonaktive-stoffe](https://www.spiegel.de/wissenschaft/kinderspielzeug-forscher-warnen-vor-gesundheitsrisiken-durch-hormonaktive-stoffe-a-dd2dd72e-0a90-4ddb-b1f8-28e15354652f#ref=rss)
-### stoffe
+* [https://www.spiegel.de/ausland/steve-witkoff-der-buddy-von-donald-trump-der-von-wladimir-putin-schwaermt](https://www.spiegel.de/ausland/steve-witkoff-der-buddy-von-donald-trump-der-von-wladimir-putin-schwaermt-a-cfb72162-cdfb-49e0-b8d0-a30ddc8144b5#ref=rss)
+### chrupalla
 
-* [https://www.spiegel.de/wissenschaft/kinderspielzeug-forscher-warnen-vor-gesundheitsrisiken-durch-hormonaktive-stoffe](https://www.spiegel.de/wissenschaft/kinderspielzeug-forscher-warnen-vor-gesundheitsrisiken-durch-hormonaktive-stoffe-a-dd2dd72e-0a90-4ddb-b1f8-28e15354652f#ref=rss)
-### worauf
+* [https://www.spiegel.de/politik/deutschland/afd-chrupalla-will-hitler-redner-aus-der-partei-ausschliessen](https://www.spiegel.de/politik/deutschland/afd-chrupalla-will-hitler-redner-aus-der-partei-ausschliessen-a-801dca19-d882-412a-a163-ffc4a10ababa#ref=rss)
+### ausschließen
 
-* [https://www.spiegel.de/wissenschaft/kinderspielzeug-forscher-warnen-vor-gesundheitsrisiken-durch-hormonaktive-stoffe](https://www.spiegel.de/wissenschaft/kinderspielzeug-forscher-warnen-vor-gesundheitsrisiken-durch-hormonaktive-stoffe-a-dd2dd72e-0a90-4ddb-b1f8-28e15354652f#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung-in-der-schwangerschaft-was-man-unnoetig-meidet-und-welche-naehrstoffe-man-ergaenzen-sollte](https://www.spiegel.de/gesundheit/ernaehrung-in-der-schwangerschaft-was-man-unnoetig-meidet-und-welche-naehrstoffe-man-ergaenzen-sollte-a-77d1a903-a289-4f47-a1a3-76efa92bb9cb#ref=rss)
-### achten
+* [https://www.spiegel.de/politik/deutschland/afd-chrupalla-will-hitler-redner-aus-der-partei-ausschliessen](https://www.spiegel.de/politik/deutschland/afd-chrupalla-will-hitler-redner-aus-der-partei-ausschliessen-a-801dca19-d882-412a-a163-ffc4a10ababa#ref=rss)
+### leise
 
-* [https://www.spiegel.de/wissenschaft/kinderspielzeug-forscher-warnen-vor-gesundheitsrisiken-durch-hormonaktive-stoffe](https://www.spiegel.de/wissenschaft/kinderspielzeug-forscher-warnen-vor-gesundheitsrisiken-durch-hormonaktive-stoffe-a-dd2dd72e-0a90-4ddb-b1f8-28e15354652f#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung-in-der-schwangerschaft-was-man-unnoetig-meidet-und-welche-naehrstoffe-man-ergaenzen-sollte](https://www.spiegel.de/gesundheit/ernaehrung-in-der-schwangerschaft-was-man-unnoetig-meidet-und-welche-naehrstoffe-man-ergaenzen-sollte-a-77d1a903-a289-4f47-a1a3-76efa92bb9cb#ref=rss)
-### stadtrat
+* [https://www.spiegel.de/auto/e-autos-forscherin-entwickelt-neues-warngeraeusch-fuer-leise-elektrofahrzeuge](https://www.spiegel.de/auto/e-autos-forscherin-entwickelt-neues-warngeraeusch-fuer-leise-elektrofahrzeuge-a-12b891be-a975-40fa-864c-53bfe502c46c#ref=rss)
+### viele
 
-* [https://www.spiegel.de/politik/deutschland/alexander-eichwald-afd-in-herford-schmeisst-wirren-hitler-redner-aus-dem-stadtrat](https://www.spiegel.de/politik/deutschland/alexander-eichwald-afd-in-herford-schmeisst-wirren-hitler-redner-aus-dem-stadtrat-a-0d6cbdc5-c887-45e5-a69c-812ca1be7e6a#ref=rss)
-### amrum
+* [https://www.spiegel.de/netzwelt/netzpolitik/usa-einreise-so-bereiten-sie-ihre-gadgets-auf-grenzkontrollen-vor](https://www.spiegel.de/netzwelt/netzpolitik/usa-einreise-so-bereiten-sie-ihre-gadgets-auf-grenzkontrollen-vor-a-b49301e7-fe91-4fb0-9b7c-1f5b4d45a84f#ref=rss)
+* [https://www.spiegel.de/fitness/ischias-diese-uebungen-helfen-bei-einer-ischialgie](https://www.spiegel.de/fitness/ischias-diese-uebungen-helfen-bei-einer-ischialgie-a-40289ceb-65be-450e-b429-c3351e77649d#ref=rss)
+### alle
 
-* [https://www.spiegel.de/panorama/amrum-mann-bohrt-angeschwemmte-metallkugel-an-und-verbrennt-sich-lebensgefaehrlich](https://www.spiegel.de/panorama/amrum-mann-bohrt-angeschwemmte-metallkugel-an-und-verbrennt-sich-lebensgefaehrlich-a-bb4e6a9e-561c-48bb-b56c-53d7bc98170d#ref=rss)
-### metallkugel
+* [https://www.spiegel.de/netzwelt/netzpolitik/usa-einreise-so-bereiten-sie-ihre-gadgets-auf-grenzkontrollen-vor](https://www.spiegel.de/netzwelt/netzpolitik/usa-einreise-so-bereiten-sie-ihre-gadgets-auf-grenzkontrollen-vor-a-b49301e7-fe91-4fb0-9b7c-1f5b4d45a84f#ref=rss)
+* [https://www.spiegel.de/fitness/fitness-gehen-mit-gewicht-warum-rucking-das-bessere-wandern-ist](https://www.spiegel.de/fitness/fitness-gehen-mit-gewicht-warum-rucking-das-bessere-wandern-ist-a-01b6f4cf-c7cc-46ad-9793-d1fe466438dc#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/amrum-mann-bohrt-angeschwemmte-metallkugel-an-und-verbrennt-sich-lebensgefaehrlich](https://www.spiegel.de/panorama/amrum-mann-bohrt-angeschwemmte-metallkugel-an-und-verbrennt-sich-lebensgefaehrlich-a-bb4e6a9e-561c-48bb-b56c-53d7bc98170d#ref=rss)
-### mclaren
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-israel-benjamin-netanyahu-rentenstreit-in-der-union-steve-witkoff](https://www.spiegel.de/politik/deutschland/news-ukraine-israel-benjamin-netanyahu-rentenstreit-in-der-union-steve-witkoff-a-39ed8fb4-91d5-4898-ad7d-e675c6511638#ref=rss)
+### rentenstreit
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-katar-das-strategiedesaster-von-mclaren-um-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-katar-das-strategiedesaster-von-mclaren-um-lando-norris-a-d9f84bb7-5568-445b-823b-5c3e14a9e8cb#ref=rss)
-### lando
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-israel-benjamin-netanyahu-rentenstreit-in-der-union-steve-witkoff](https://www.spiegel.de/politik/deutschland/news-ukraine-israel-benjamin-netanyahu-rentenstreit-in-der-union-steve-witkoff-a-39ed8fb4-91d5-4898-ad7d-e675c6511638#ref=rss)
+### gewicht
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-katar-das-strategiedesaster-von-mclaren-um-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-katar-das-strategiedesaster-von-mclaren-um-lando-norris-a-d9f84bb7-5568-445b-823b-5c3e14a9e8cb#ref=rss)
-### norris
+* [https://www.spiegel.de/fitness/fitness-gehen-mit-gewicht-warum-rucking-das-bessere-wandern-ist](https://www.spiegel.de/fitness/fitness-gehen-mit-gewicht-warum-rucking-das-bessere-wandern-ist-a-01b6f4cf-c7cc-46ad-9793-d1fe466438dc#ref=rss)
+### rucking
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-katar-das-strategiedesaster-von-mclaren-um-lando-norris](https://www.spiegel.de/sport/formel1/formel-1-in-katar-das-strategiedesaster-von-mclaren-um-lando-norris-a-d9f84bb7-5568-445b-823b-5c3e14a9e8cb#ref=rss)
-### fund
+* [https://www.spiegel.de/fitness/fitness-gehen-mit-gewicht-warum-rucking-das-bessere-wandern-ist](https://www.spiegel.de/fitness/fitness-gehen-mit-gewicht-warum-rucking-das-bessere-wandern-ist-a-01b6f4cf-c7cc-46ad-9793-d1fe466438dc#ref=rss)
+### nationalgarde
 
-* [https://www.spiegel.de/panorama/justiz/monreal-nach-fund-von-haenden-auf-a45-polizei-entdeckt-weibliche-leiche-im-wald](https://www.spiegel.de/panorama/justiz/monreal-nach-fund-von-haenden-auf-a45-polizei-entdeckt-weibliche-leiche-im-wald-a-cde05644-c353-49c8-be20-593879db9a81#ref=rss)
-### a45
-
-* [https://www.spiegel.de/panorama/justiz/monreal-nach-fund-von-haenden-auf-a45-polizei-entdeckt-weibliche-leiche-im-wald](https://www.spiegel.de/panorama/justiz/monreal-nach-fund-von-haenden-auf-a45-polizei-entdeckt-weibliche-leiche-im-wald-a-cde05644-c353-49c8-be20-593879db9a81#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/monreal-nach-fund-von-haenden-auf-a45-polizei-entdeckt-weibliche-leiche-im-wald](https://www.spiegel.de/panorama/justiz/monreal-nach-fund-von-haenden-auf-a45-polizei-entdeckt-weibliche-leiche-im-wald-a-cde05644-c353-49c8-be20-593879db9a81#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-polizei-zerschlaegt-mutmasslich-neonazi-zelle-in-spanien](https://www.spiegel.de/panorama/justiz/rechtsextremismus-polizei-zerschlaegt-mutmasslich-neonazi-zelle-in-spanien-a-d085c123-1586-4101-88f8-21ca618d0d27#ref=rss)
-### leiche
-
-* [https://www.spiegel.de/panorama/justiz/monreal-nach-fund-von-haenden-auf-a45-polizei-entdeckt-weibliche-leiche-im-wald](https://www.spiegel.de/panorama/justiz/monreal-nach-fund-von-haenden-auf-a45-polizei-entdeckt-weibliche-leiche-im-wald-a-cde05644-c353-49c8-be20-593879db9a81#ref=rss)
-### wald
-
-* [https://www.spiegel.de/panorama/justiz/monreal-nach-fund-von-haenden-auf-a45-polizei-entdeckt-weibliche-leiche-im-wald](https://www.spiegel.de/panorama/justiz/monreal-nach-fund-von-haenden-auf-a45-polizei-entdeckt-weibliche-leiche-im-wald-a-cde05644-c353-49c8-be20-593879db9a81#ref=rss)
-### verbindung
-
-* [https://www.spiegel.de/panorama/justiz/monreal-nach-fund-von-haenden-auf-a45-polizei-entdeckt-weibliche-leiche-im-wald](https://www.spiegel.de/panorama/justiz/monreal-nach-fund-von-haenden-auf-a45-polizei-entdeckt-weibliche-leiche-im-wald-a-cde05644-c353-49c8-be20-593879db9a81#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-polizei-zerschlaegt-mutmasslich-neonazi-zelle-in-spanien](https://www.spiegel.de/panorama/justiz/rechtsextremismus-polizei-zerschlaegt-mutmasslich-neonazi-zelle-in-spanien-a-d085c123-1586-4101-88f8-21ca618d0d27#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/panorama/justiz/rechtsextremismus-polizei-zerschlaegt-mutmasslich-neonazi-zelle-in-spanien](https://www.spiegel.de/panorama/justiz/rechtsextremismus-polizei-zerschlaegt-mutmasslich-neonazi-zelle-in-spanien-a-d085c123-1586-4101-88f8-21ca618d0d27#ref=rss)
-### bittet
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-will-us-sondergesandten-steve-witkoff-in-moskau-treffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-will-us-sondergesandten-steve-witkoff-in-moskau-treffen-a-1747bf5a-0d03-4fe1-bfbd-cb1b7a256b8d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fortuna-duesseldorf-emmanuel-iyoha-von-dynamo-dresden-fan-rassistisch-beleidigt](https://www.spiegel.de/sport/fussball/fortuna-duesseldorf-emmanuel-iyoha-von-dynamo-dresden-fan-rassistisch-beleidigt-a-9cd7f323-a444-4cc3-9cdc-abc959905331#ref=rss)
-### düsseldorf
-
-* [https://www.spiegel.de/sport/fussball/fortuna-duesseldorf-emmanuel-iyoha-von-dynamo-dresden-fan-rassistisch-beleidigt](https://www.spiegel.de/sport/fussball/fortuna-duesseldorf-emmanuel-iyoha-von-dynamo-dresden-fan-rassistisch-beleidigt-a-9cd7f323-a444-4cc3-9cdc-abc959905331#ref=rss)
-### iyoha
-
-* [https://www.spiegel.de/sport/fussball/fortuna-duesseldorf-emmanuel-iyoha-von-dynamo-dresden-fan-rassistisch-beleidigt](https://www.spiegel.de/sport/fussball/fortuna-duesseldorf-emmanuel-iyoha-von-dynamo-dresden-fan-rassistisch-beleidigt-a-9cd7f323-a444-4cc3-9cdc-abc959905331#ref=rss)
-### rassistisch
-
-* [https://www.spiegel.de/sport/fussball/fortuna-duesseldorf-emmanuel-iyoha-von-dynamo-dresden-fan-rassistisch-beleidigt](https://www.spiegel.de/sport/fussball/fortuna-duesseldorf-emmanuel-iyoha-von-dynamo-dresden-fan-rassistisch-beleidigt-a-9cd7f323-a444-4cc3-9cdc-abc959905331#ref=rss)
-### unnötig
-
-* [https://www.spiegel.de/gesundheit/ernaehrung-in-der-schwangerschaft-was-man-unnoetig-meidet-und-welche-naehrstoffe-man-ergaenzen-sollte](https://www.spiegel.de/gesundheit/ernaehrung-in-der-schwangerschaft-was-man-unnoetig-meidet-und-welche-naehrstoffe-man-ergaenzen-sollte-a-77d1a903-a289-4f47-a1a3-76efa92bb9cb#ref=rss)
-### nährstoffe
-
-* [https://www.spiegel.de/gesundheit/ernaehrung-in-der-schwangerschaft-was-man-unnoetig-meidet-und-welche-naehrstoffe-man-ergaenzen-sollte](https://www.spiegel.de/gesundheit/ernaehrung-in-der-schwangerschaft-was-man-unnoetig-meidet-und-welche-naehrstoffe-man-ergaenzen-sollte-a-77d1a903-a289-4f47-a1a3-76efa92bb9cb#ref=rss)
+* [https://www.spiegel.de/ausland/usa-schwerverletzter-soldat-der-nationalgarde-gibt-lebenszeichen-per-wackelndem-zeh](https://www.spiegel.de/ausland/usa-schwerverletzter-soldat-der-nationalgarde-gibt-lebenszeichen-per-wackelndem-zeh-a-4583c406-cb7a-4e90-b79e-a557e53adbb5#ref=rss)
 
