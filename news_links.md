@@ -4,311 +4,315 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### russland
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit](https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit-a-f42b971a-165e-4659-aaa3-d729cc8491c5#ref=rss)
-* [https://www.spiegel.de/kultur/hbo-max-startet-bald-in-deutschland-preise-und-termin-stehen-fest](https://www.spiegel.de/kultur/hbo-max-startet-bald-in-deutschland-preise-und-termin-stehen-fest-a-4d5fae7c-0755-4357-8270-0e5e2ed5ab8a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2029-findet-in-deutschland-statt](https://www.spiegel.de/sport/fussball/fussball-em-2029-findet-in-deutschland-statt-a-06618b37-f0e8-4796-bd0c-955bd01e9baa#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-deutlich-mehr-neuwagen-in-deutschland](https://www.spiegel.de/auto/elektroauto-deutlich-mehr-neuwagen-in-deutschland-a-88817423-e17a-42ae-92a0-e34c237183cb#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-verhandlungen-europaeer-misstrauen-trumps-friedensplan](https://www.spiegel.de/politik/ukraine-verhandlungen-europaeer-misstrauen-trumps-friedensplan-a-7a439009-716d-48de-bda6-5d3926d8dbc3#ref=rss)
+* [https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-frieden-nur-wie-ihn-wladimir-putin-will](https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-frieden-nur-wie-ihn-wladimir-putin-will-a-697833cc-afd7-4858-a99b-e3d80c4cbcb2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern-a-e81c6722-d972-409b-aa15-2b4185b01a51#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-europas-versagen-im-entscheidenden-moment](https://www.spiegel.de/politik/deutschland/ukraine-krieg-europas-versagen-im-entscheidenden-moment-a-09755f31-bd7c-4990-a778-657d18712291#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/nonnen-aufstand-in-oesterreich-widerstand-im-kloster-goldenstein](https://www.spiegel.de/panorama/nonnen-aufstand-in-oesterreich-widerstand-im-kloster-goldenstein-a-3ebea88e-2e18-478f-ab7b-0cf4d3b3f6ee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/helgoland-so-wollen-die-insulaner-ihre-baeckerei-retten](https://www.spiegel.de/wirtschaft/soziales/helgoland-so-wollen-die-insulaner-ihre-baeckerei-retten-a-29819a11-426d-4096-b034-6bf0150ad4f1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tarifrunde-im-oeffentlichen-dienst-beginnt-mit-aussicht-auf-winterstreiks](https://www.spiegel.de/wirtschaft/tarifrunde-im-oeffentlichen-dienst-beginnt-mit-aussicht-auf-winterstreiks-a-c1427db3-36ff-411d-82f7-54d172015a4a#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-deutlich-mehr-neuwagen-in-deutschland](https://www.spiegel.de/auto/elektroauto-deutlich-mehr-neuwagen-in-deutschland-a-88817423-e17a-42ae-92a0-e34c237183cb#ref=rss)
-### jahr
+* [https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-mit-premierentreffer-fuer-den-fc-liverpool-nein-doch-nicht](https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-mit-premierentreffer-fuer-den-fc-liverpool-nein-doch-nicht-a-61412bd7-3bcd-4a9a-8247-567086ff99b3#ref=rss)
+* [https://www.spiegel.de/start/muellwerker-ueber-gehalt-geldgeschenke-und-was-manche-leute-so-in-den-restmuell-werfen](https://www.spiegel.de/start/muellwerker-ueber-gehalt-geldgeschenke-und-was-manche-leute-so-in-den-restmuell-werfen-a-6b8e6997-5a92-459f-9c05-7ba237e0b8bf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/klimaschutz-donald-trump-lockert-grenzen-fuer-sprit-verbrauch](https://www.spiegel.de/wirtschaft/klimaschutz-donald-trump-lockert-grenzen-fuer-sprit-verbrauch-a-f6d00130-9401-4f84-9f64-ac8dfafeed1a#ref=rss)
+* [https://www.spiegel.de/karriere/stromberg-quiz-zum-kinofilm-filmzitate-oder-echte-chefsprueche](https://www.spiegel.de/karriere/stromberg-quiz-zum-kinofilm-filmzitate-oder-echte-chefsprueche-a-e608a141-492f-4f51-96bd-7d9d950632a7#ref=rss)
+### putin
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahlen-2026-umfragen-fuer-baden-wuerttemberg-mecklenburg-vorpommern-berlin-rheinland-pfalz-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/landtagswahlen-2026-umfragen-fuer-baden-wuerttemberg-mecklenburg-vorpommern-berlin-rheinland-pfalz-sachsen-anhalt-a-7e77ee8c-281f-4ab7-834c-930997191a97#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/helgoland-so-wollen-die-insulaner-ihre-baeckerei-retten](https://www.spiegel.de/wirtschaft/soziales/helgoland-so-wollen-die-insulaner-ihre-baeckerei-retten-a-29819a11-426d-4096-b034-6bf0150ad4f1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2029-findet-in-deutschland-statt](https://www.spiegel.de/sport/fussball/fussball-em-2029-findet-in-deutschland-statt-a-06618b37-f0e8-4796-bd0c-955bd01e9baa#ref=rss)
-* [https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt](https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt-a-dd3111a9-3312-4792-a5e4-8440cfbe6a6d#ref=rss)
-### karltheodor
+* [https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-frieden-nur-wie-ihn-wladimir-putin-will](https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-frieden-nur-wie-ihn-wladimir-putin-will-a-697833cc-afd7-4858-a99b-e3d80c4cbcb2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern-a-e81c6722-d972-409b-aa15-2b4185b01a51#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit](https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit-a-f42b971a-165e-4659-aaa3-d729cc8491c5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-und-karl-theodor-zu-guttenberg-bundeswirtschaftsministerium-foerdert-firma-mit-guttenberg-beteiligung](https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-und-karl-theodor-zu-guttenberg-bundeswirtschaftsministerium-foerdert-firma-mit-guttenberg-beteiligung-a-830ae414-e75e-44a6-824c-06dcc98bd9d7#ref=rss)
-### guttenberg
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-jeder-zweite-bezieher-sucht-laut-befragung-keinen-job](https://www.spiegel.de/wirtschaft/soziales/buergergeld-jeder-zweite-bezieher-sucht-laut-befragung-keinen-job-a-04f5c207-0ccf-417e-9d13-d85a36f0133f#ref=rss)
+* [https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen](https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen-a-becf9ff1-4418-44bc-bc37-46cde6f425b0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-hetze-gegen-migranten-dieser-muell-ist-selbst-fuer-ihn-ein-tiefpunkt](https://www.spiegel.de/ausland/donald-trumps-hetze-gegen-migranten-dieser-muell-ist-selbst-fuer-ihn-ein-tiefpunkt-a-2a533116-7add-4da5-bcf2-c1c26eec523f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-europas-versagen-im-entscheidenden-moment](https://www.spiegel.de/politik/deutschland/ukraine-krieg-europas-versagen-im-entscheidenden-moment-a-09755f31-bd7c-4990-a778-657d18712291#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit](https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit-a-f42b971a-165e-4659-aaa3-d729cc8491c5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-und-karl-theodor-zu-guttenberg-bundeswirtschaftsministerium-foerdert-firma-mit-guttenberg-beteiligung](https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-und-karl-theodor-zu-guttenberg-bundeswirtschaftsministerium-foerdert-firma-mit-guttenberg-beteiligung-a-830ae414-e75e-44a6-824c-06dcc98bd9d7#ref=rss)
-### reiche
+* [https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen](https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen-a-becf9ff1-4418-44bc-bc37-46cde6f425b0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-hetze-gegen-migranten-dieser-muell-ist-selbst-fuer-ihn-ein-tiefpunkt](https://www.spiegel.de/ausland/donald-trumps-hetze-gegen-migranten-dieser-muell-ist-selbst-fuer-ihn-ein-tiefpunkt-a-2a533116-7add-4da5-bcf2-c1c26eec523f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/klimaschutz-donald-trump-lockert-grenzen-fuer-sprit-verbrauch](https://www.spiegel.de/wirtschaft/klimaschutz-donald-trump-lockert-grenzen-fuer-sprit-verbrauch-a-f6d00130-9401-4f84-9f64-ac8dfafeed1a#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit](https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit-a-f42b971a-165e-4659-aaa3-d729cc8491c5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-und-karl-theodor-zu-guttenberg-bundeswirtschaftsministerium-foerdert-firma-mit-guttenberg-beteiligung](https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-und-karl-theodor-zu-guttenberg-bundeswirtschaftsministerium-foerdert-firma-mit-guttenberg-beteiligung-a-830ae414-e75e-44a6-824c-06dcc98bd9d7#ref=rss)
-### eukommission
+* [https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen](https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen-a-becf9ff1-4418-44bc-bc37-46cde6f425b0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-hetze-gegen-migranten-dieser-muell-ist-selbst-fuer-ihn-ein-tiefpunkt](https://www.spiegel.de/ausland/donald-trumps-hetze-gegen-migranten-dieser-muell-ist-selbst-fuer-ihn-ein-tiefpunkt-a-2a533116-7add-4da5-bcf2-c1c26eec523f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/klimaschutz-donald-trump-lockert-grenzen-fuer-sprit-verbrauch](https://www.spiegel.de/wirtschaft/klimaschutz-donald-trump-lockert-grenzen-fuer-sprit-verbrauch-a-f6d00130-9401-4f84-9f64-ac8dfafeed1a#ref=rss)
+### pamela
 
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-deutsche-autokonzerne-hoffen-auf-eu-kursaenderung](https://www.spiegel.de/wirtschaft/verbrenner-aus-deutsche-autokonzerne-hoffen-auf-eu-kursaenderung-a-ee99598f-26bc-4e93-a51c-b3371e362f04#ref=rss)
-* [https://www.spiegel.de/wirtschaft/seltene-erden-eu-kommission-plant-rohstoff-depot-fuer-die-industrie](https://www.spiegel.de/wirtschaft/seltene-erden-eu-kommission-plant-rohstoff-depot-fuer-die-industrie-a-67d23bc0-0e93-4ade-9fe4-b5e9e4728dc6#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/nonnen-aufstand-in-oesterreich-widerstand-im-kloster-goldenstein](https://www.spiegel.de/panorama/nonnen-aufstand-in-oesterreich-widerstand-im-kloster-goldenstein-a-3ebea88e-2e18-478f-ab7b-0cf4d3b3f6ee#ref=rss)
-* [https://www.spiegel.de/panorama/israel-drei-brueder-werden-am-selben-tag-vaeter-von-vier-kindern](https://www.spiegel.de/panorama/israel-drei-brueder-werden-am-selben-tag-vaeter-von-vier-kindern-a-2ca649e5-2e25-482a-94e3-0b663d3f1380#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/deinspiegel/dein-spiegel-wie-arbeitet-die-spurensicherung-der-polizei](https://www.spiegel.de/deinspiegel/dein-spiegel-wie-arbeitet-die-spurensicherung-der-polizei-a-bdd30318-f569-4f1c-bb25-c0834fc5bbc1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/pedo-hunter-mehrere-selbsternannte-paedophilen-jaeger-in-stuttgart-festgenommen](https://www.spiegel.de/panorama/justiz/pedo-hunter-mehrere-selbsternannte-paedophilen-jaeger-in-stuttgart-festgenommen-a-800ec7e1-4541-4461-aa3d-a58c8364403c#ref=rss)
-### fördert
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit](https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit-a-f42b971a-165e-4659-aaa3-d729cc8491c5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-und-karl-theodor-zu-guttenberg-bundeswirtschaftsministerium-foerdert-firma-mit-guttenberg-beteiligung](https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-und-karl-theodor-zu-guttenberg-bundeswirtschaftsministerium-foerdert-firma-mit-guttenberg-beteiligung-a-830ae414-e75e-44a6-824c-06dcc98bd9d7#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt](https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt-a-dd3111a9-3312-4792-a5e4-8440cfbe6a6d#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-deutlich-mehr-neuwagen-in-deutschland](https://www.spiegel.de/auto/elektroauto-deutlich-mehr-neuwagen-in-deutschland-a-88817423-e17a-42ae-92a0-e34c237183cb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-trennt-sich-von-trainer-bo-henriksen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-trennt-sich-von-trainer-bo-henriksen-a-ecc1f9c4-0b1d-4185-b2e6-beab55f2c6f4#ref=rss)
-### sutil
-
-* [https://www.spiegel.de/sport/formel1/adrian-sutil-ex-formel-1-fahrer-wegen-betrugsverdachts-in-u-haft](https://www.spiegel.de/sport/formel1/adrian-sutil-ex-formel-1-fahrer-wegen-betrugsverdachts-in-u-haft-a-37ad3580-68cc-4853-ad0d-0012c16b254f#ref=rss)
-### verbrenneraus
-
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-deutsche-autokonzerne-hoffen-auf-eu-kursaenderung](https://www.spiegel.de/wirtschaft/verbrenner-aus-deutsche-autokonzerne-hoffen-auf-eu-kursaenderung-a-ee99598f-26bc-4e93-a51c-b3371e362f04#ref=rss)
-### hoffen
-
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-deutsche-autokonzerne-hoffen-auf-eu-kursaenderung](https://www.spiegel.de/wirtschaft/verbrenner-aus-deutsche-autokonzerne-hoffen-auf-eu-kursaenderung-a-ee99598f-26bc-4e93-a51c-b3371e362f04#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahlen-2026-umfragen-fuer-baden-wuerttemberg-mecklenburg-vorpommern-berlin-rheinland-pfalz-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/landtagswahlen-2026-umfragen-fuer-baden-wuerttemberg-mecklenburg-vorpommern-berlin-rheinland-pfalz-sachsen-anhalt-a-7e77ee8c-281f-4ab7-834c-930997191a97#ref=rss)
-### druck
-
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-deutsche-autokonzerne-hoffen-auf-eu-kursaenderung](https://www.spiegel.de/wirtschaft/verbrenner-aus-deutsche-autokonzerne-hoffen-auf-eu-kursaenderung-a-ee99598f-26bc-4e93-a51c-b3371e362f04#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-eu-legt-plan-zur-nutzung-russischer-vermoegen-vor](https://www.spiegel.de/ausland/ukraine-krieg-eu-legt-plan-zur-nutzung-russischer-vermoegen-vor-a-4d081757-7b7d-42e3-8210-bde881a2c63c#ref=rss)
-### merz
-
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-deutsche-autokonzerne-hoffen-auf-eu-kursaenderung](https://www.spiegel.de/wirtschaft/verbrenner-aus-deutsche-autokonzerne-hoffen-auf-eu-kursaenderung-a-ee99598f-26bc-4e93-a51c-b3371e362f04#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-eu-legt-plan-zur-nutzung-russischer-vermoegen-vor](https://www.spiegel.de/ausland/ukraine-krieg-eu-legt-plan-zur-nutzung-russischer-vermoegen-vor-a-4d081757-7b7d-42e3-8210-bde881a2c63c#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-deutsche-autokonzerne-hoffen-auf-eu-kursaenderung](https://www.spiegel.de/wirtschaft/verbrenner-aus-deutsche-autokonzerne-hoffen-auf-eu-kursaenderung-a-ee99598f-26bc-4e93-a51c-b3371e362f04#ref=rss)
-* [https://www.spiegel.de/kultur/hbo-max-startet-bald-in-deutschland-preise-und-termin-stehen-fest](https://www.spiegel.de/kultur/hbo-max-startet-bald-in-deutschland-preise-und-termin-stehen-fest-a-4d5fae7c-0755-4357-8270-0e5e2ed5ab8a#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-deutsche-autokonzerne-hoffen-auf-eu-kursaenderung](https://www.spiegel.de/wirtschaft/verbrenner-aus-deutsche-autokonzerne-hoffen-auf-eu-kursaenderung-a-ee99598f-26bc-4e93-a51c-b3371e362f04#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit](https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit-a-f42b971a-165e-4659-aaa3-d729cc8491c5#ref=rss)
-### erst
-
-* [https://www.spiegel.de/panorama/nonnen-aufstand-in-oesterreich-widerstand-im-kloster-goldenstein](https://www.spiegel.de/panorama/nonnen-aufstand-in-oesterreich-widerstand-im-kloster-goldenstein-a-3ebea88e-2e18-478f-ab7b-0cf4d3b3f6ee#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-trennt-sich-von-trainer-bo-henriksen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-trennt-sich-von-trainer-bo-henriksen-a-ecc1f9c4-0b1d-4185-b2e6-beab55f2c6f4#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/gesundheit/grippe-intensivmediziner-draengen-auf-impfempfehlung-fuer-menschen-ab-sechs-monaten](https://www.spiegel.de/gesundheit/grippe-intensivmediziner-draengen-auf-impfempfehlung-fuer-menschen-ab-sechs-monaten-a-76cf46a8-c75e-4a37-94a9-9e853536a7f8#ref=rss)
-* [https://www.spiegel.de/ausland/usa-stoppen-einwanderungsantraege-von-menschen-aus-19-laendern](https://www.spiegel.de/ausland/usa-stoppen-einwanderungsantraege-von-menschen-aus-19-laendern-a-dca64088-1765-4d05-8bc3-ef813590cea3#ref=rss)
-### neue
-
-* [https://www.spiegel.de/gesundheit/grippe-intensivmediziner-draengen-auf-impfempfehlung-fuer-menschen-ab-sechs-monaten](https://www.spiegel.de/gesundheit/grippe-intensivmediziner-draengen-auf-impfempfehlung-fuer-menschen-ab-sechs-monaten-a-76cf46a8-c75e-4a37-94a9-9e853536a7f8#ref=rss)
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-disney-neue-serien-und-filme-im-dezember-2025-was-sich-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-disney-neue-serien-und-filme-im-dezember-2025-was-sich-lohnt-a-562c802b-573d-437d-b1c6-dc7d045da1c5#ref=rss)
-### deswegen
-
-* [https://www.spiegel.de/gesundheit/grippe-intensivmediziner-draengen-auf-impfempfehlung-fuer-menschen-ab-sechs-monaten](https://www.spiegel.de/gesundheit/grippe-intensivmediziner-draengen-auf-impfempfehlung-fuer-menschen-ab-sechs-monaten-a-76cf46a8-c75e-4a37-94a9-9e853536a7f8#ref=rss)
-* [https://www.spiegel.de/ausland/usa-stoppen-einwanderungsantraege-von-menschen-aus-19-laendern](https://www.spiegel.de/ausland/usa-stoppen-einwanderungsantraege-von-menschen-aus-19-laendern-a-dca64088-1765-4d05-8bc3-ef813590cea3#ref=rss)
-### insekt
-
-* [https://www.spiegel.de/wissenschaft/natur/warzenbeisser-heuschrecke-dieser-kollege-hier-ist-insekt-des-jahres](https://www.spiegel.de/wissenschaft/natur/warzenbeisser-heuschrecke-dieser-kollege-hier-ist-insekt-des-jahres-a-194ea670-8513-4550-82b4-072f14b4c813#ref=rss)
-### jahres
-
-* [https://www.spiegel.de/wissenschaft/natur/warzenbeisser-heuschrecke-dieser-kollege-hier-ist-insekt-des-jahres](https://www.spiegel.de/wissenschaft/natur/warzenbeisser-heuschrecke-dieser-kollege-hier-ist-insekt-des-jahres-a-194ea670-8513-4550-82b4-072f14b4c813#ref=rss)
-### dezember
-
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-disney-neue-serien-und-filme-im-dezember-2025-was-sich-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-disney-neue-serien-und-filme-im-dezember-2025-was-sich-lohnt-a-562c802b-573d-437d-b1c6-dc7d045da1c5#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-disney-neue-serien-und-filme-im-dezember-2025-was-sich-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-disney-neue-serien-und-filme-im-dezember-2025-was-sich-lohnt-a-562c802b-573d-437d-b1c6-dc7d045da1c5#ref=rss)
-* [https://www.spiegel.de/netzwelt/amazon-prime-kunden-koennen-noch-bis-2025-geld-zurueckfordern](https://www.spiegel.de/netzwelt/amazon-prime-kunden-koennen-noch-bis-2025-geld-zurueckfordern-a-4e47b1d3-a855-44d8-9c7a-4a3d98c95eb9#ref=rss)
-### sophie
-
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-disney-neue-serien-und-filme-im-dezember-2025-was-sich-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-disney-neue-serien-und-filme-im-dezember-2025-was-sich-lohnt-a-562c802b-573d-437d-b1c6-dc7d045da1c5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hanns-joachim-friedrichs-preis-die-angriffe-auf-sophie-von-der-tann-sind-wutschaeumend-aber-substanzlos](https://www.spiegel.de/politik/deutschland/hanns-joachim-friedrichs-preis-die-angriffe-auf-sophie-von-der-tann-sind-wutschaeumend-aber-substanzlos-a-618a0bd3-2ff5-40c8-b601-e940fa082bf9#ref=rss)
-### blick
-
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-disney-neue-serien-und-filme-im-dezember-2025-was-sich-lohnt](https://www.spiegel.de/kultur/tv/netflix-amazon-disney-neue-serien-und-filme-im-dezember-2025-was-sich-lohnt-a-562c802b-573d-437d-b1c6-dc7d045da1c5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/sicherheit-im-fussball-stadion-differenzierte-debatte-ueber-gewaltproblematik-noetig](https://www.spiegel.de/sport/fussball/sicherheit-im-fussball-stadion-differenzierte-debatte-ueber-gewaltproblematik-noetig-a-89df4296-c250-419f-a2b3-7a3cb78bd725#ref=rss)
-### spurensicherung
-
-* [https://www.spiegel.de/deinspiegel/dein-spiegel-wie-arbeitet-die-spurensicherung-der-polizei](https://www.spiegel.de/deinspiegel/dein-spiegel-wie-arbeitet-die-spurensicherung-der-polizei-a-bdd30318-f569-4f1c-bb25-c0834fc5bbc1#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/deinspiegel/dein-spiegel-wie-arbeitet-die-spurensicherung-der-polizei](https://www.spiegel.de/deinspiegel/dein-spiegel-wie-arbeitet-die-spurensicherung-der-polizei-a-bdd30318-f569-4f1c-bb25-c0834fc5bbc1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahlen-2026-umfragen-fuer-baden-wuerttemberg-mecklenburg-vorpommern-berlin-rheinland-pfalz-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/landtagswahlen-2026-umfragen-fuer-baden-wuerttemberg-mecklenburg-vorpommern-berlin-rheinland-pfalz-sachsen-anhalt-a-7e77ee8c-281f-4ab7-834c-930997191a97#ref=rss)
-### sicherheit
-
-* [https://www.spiegel.de/sport/fussball/sicherheit-im-fussball-stadion-differenzierte-debatte-ueber-gewaltproblematik-noetig](https://www.spiegel.de/sport/fussball/sicherheit-im-fussball-stadion-differenzierte-debatte-ueber-gewaltproblematik-noetig-a-89df4296-c250-419f-a2b3-7a3cb78bd725#ref=rss)
-### debatte
-
-* [https://www.spiegel.de/sport/fussball/sicherheit-im-fussball-stadion-differenzierte-debatte-ueber-gewaltproblematik-noetig](https://www.spiegel.de/sport/fussball/sicherheit-im-fussball-stadion-differenzierte-debatte-ueber-gewaltproblematik-noetig-a-89df4296-c250-419f-a2b3-7a3cb78bd725#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/sport/fussball/sicherheit-im-fussball-stadion-differenzierte-debatte-ueber-gewaltproblematik-noetig](https://www.spiegel.de/sport/fussball/sicherheit-im-fussball-stadion-differenzierte-debatte-ueber-gewaltproblematik-noetig-a-89df4296-c250-419f-a2b3-7a3cb78bd725#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/opfer-von-missbrauch-an-schulen-in-vergangenheit-oft-alleingelassen-133-berichte-ausgewertet](https://www.spiegel.de/panorama/bildung/opfer-von-missbrauch-an-schulen-in-vergangenheit-oft-alleingelassen-133-berichte-ausgewertet-a-72c69301-623d-4553-a709-3c5396eeecdd#ref=rss)
-### natürlich
-
-* [https://www.spiegel.de/sport/fussball/sicherheit-im-fussball-stadion-differenzierte-debatte-ueber-gewaltproblematik-noetig](https://www.spiegel.de/sport/fussball/sicherheit-im-fussball-stadion-differenzierte-debatte-ueber-gewaltproblematik-noetig-a-89df4296-c250-419f-a2b3-7a3cb78bd725#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahlen-2026-umfragen-fuer-baden-wuerttemberg-mecklenburg-vorpommern-berlin-rheinland-pfalz-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/landtagswahlen-2026-umfragen-fuer-baden-wuerttemberg-mecklenburg-vorpommern-berlin-rheinland-pfalz-sachsen-anhalt-a-7e77ee8c-281f-4ab7-834c-930997191a97#ref=rss)
-### umfragen
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahlen-2026-umfragen-fuer-baden-wuerttemberg-mecklenburg-vorpommern-berlin-rheinland-pfalz-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/landtagswahlen-2026-umfragen-fuer-baden-wuerttemberg-mecklenburg-vorpommern-berlin-rheinland-pfalz-sachsen-anhalt-a-7e77ee8c-281f-4ab7-834c-930997191a97#ref=rss)
-### mehrheit
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahlen-2026-umfragen-fuer-baden-wuerttemberg-mecklenburg-vorpommern-berlin-rheinland-pfalz-sachsen-anhalt](https://www.spiegel.de/politik/deutschland/landtagswahlen-2026-umfragen-fuer-baden-wuerttemberg-mecklenburg-vorpommern-berlin-rheinland-pfalz-sachsen-anhalt-a-7e77ee8c-281f-4ab7-834c-930997191a97#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit](https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit-a-f42b971a-165e-4659-aaa3-d729cc8491c5#ref=rss)
-### hannsjoachimfriedrichspreis
-
-* [https://www.spiegel.de/politik/deutschland/hanns-joachim-friedrichs-preis-die-angriffe-auf-sophie-von-der-tann-sind-wutschaeumend-aber-substanzlos](https://www.spiegel.de/politik/deutschland/hanns-joachim-friedrichs-preis-die-angriffe-auf-sophie-von-der-tann-sind-wutschaeumend-aber-substanzlos-a-618a0bd3-2ff5-40c8-b601-e940fa082bf9#ref=rss)
-### helgoland
-
-* [https://www.spiegel.de/wirtschaft/soziales/helgoland-so-wollen-die-insulaner-ihre-baeckerei-retten](https://www.spiegel.de/wirtschaft/soziales/helgoland-so-wollen-die-insulaner-ihre-baeckerei-retten-a-29819a11-426d-4096-b034-6bf0150ad4f1#ref=rss)
-### bäckerei
-
-* [https://www.spiegel.de/wirtschaft/soziales/helgoland-so-wollen-die-insulaner-ihre-baeckerei-retten](https://www.spiegel.de/wirtschaft/soziales/helgoland-so-wollen-die-insulaner-ihre-baeckerei-retten-a-29819a11-426d-4096-b034-6bf0150ad4f1#ref=rss)
+* [https://www.spiegel.de/panorama/leute/pamela-anderson-schauspielerin-vermisst-ihren-finnischen-nachnamen](https://www.spiegel.de/panorama/leute/pamela-anderson-schauspielerin-vermisst-ihren-finnischen-nachnamen-a-45f35147-f998-4eb0-908f-bfdb018c0eb7#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/usa-stoppen-einwanderungsantraege-von-menschen-aus-19-laendern](https://www.spiegel.de/ausland/usa-stoppen-einwanderungsantraege-von-menschen-aus-19-laendern-a-dca64088-1765-4d05-8bc3-ef813590cea3#ref=rss)
-### einwanderungsanträge
+* [https://www.spiegel.de/wirtschaft/altersvorsorge-kapital-fuer-kinder-eine-gute-idee](https://www.spiegel.de/wirtschaft/altersvorsorge-kapital-fuer-kinder-eine-gute-idee-a-70a61eba-22c9-487f-8611-2291e1588fcb#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern-a-e81c6722-d972-409b-aa15-2b4185b01a51#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-europas-versagen-im-entscheidenden-moment](https://www.spiegel.de/politik/deutschland/ukraine-krieg-europas-versagen-im-entscheidenden-moment-a-09755f31-bd7c-4990-a778-657d18712291#ref=rss)
+### euro
 
-* [https://www.spiegel.de/ausland/usa-stoppen-einwanderungsantraege-von-menschen-aus-19-laendern](https://www.spiegel.de/ausland/usa-stoppen-einwanderungsantraege-von-menschen-aus-19-laendern-a-dca64088-1765-4d05-8bc3-ef813590cea3#ref=rss)
-### wien
+* [https://www.spiegel.de/wirtschaft/altersvorsorge-kapital-fuer-kinder-eine-gute-idee](https://www.spiegel.de/wirtschaft/altersvorsorge-kapital-fuer-kinder-eine-gute-idee-a-70a61eba-22c9-487f-8611-2291e1588fcb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-mit-premierentreffer-fuer-den-fc-liverpool-nein-doch-nicht](https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-mit-premierentreffer-fuer-den-fc-liverpool-nein-doch-nicht-a-61412bd7-3bcd-4a9a-8247-567086ff99b3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-entlastung-fuer-pendler-und-gastronomie](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-entlastung-fuer-pendler-und-gastronomie-a-5ce6b14f-449e-4c0f-87ff-9f64b3f46425#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/justiz/wien-sechsjaehrige-rettet-familie-mit-sos-handzeichen-vor-entfuehrung](https://www.spiegel.de/panorama/justiz/wien-sechsjaehrige-rettet-familie-mit-sos-handzeichen-vor-entfuehrung-a-04401f9b-305f-4f62-b4aa-c31b62f0910e#ref=rss)
-### familie
+* [https://www.spiegel.de/wirtschaft/altersvorsorge-kapital-fuer-kinder-eine-gute-idee](https://www.spiegel.de/wirtschaft/altersvorsorge-kapital-fuer-kinder-eine-gute-idee-a-70a61eba-22c9-487f-8611-2291e1588fcb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arztpraxen-setzen-immer-staerker-auf-privatabrechnung](https://www.spiegel.de/wirtschaft/arztpraxen-setzen-immer-staerker-auf-privatabrechnung-a-2f661155-def0-4e4b-8fc1-fa3fbdb2d690#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/aachen-mann-mit-vermisster-13-jaehriger-aus-daenemark-in-ice-gefasst](https://www.spiegel.de/panorama/justiz/aachen-mann-mit-vermisster-13-jaehriger-aus-daenemark-in-ice-gefasst-a-1cee970e-49ab-46c0-8da9-05cda0e81da6#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/panorama/justiz/wien-sechsjaehrige-rettet-familie-mit-sos-handzeichen-vor-entfuehrung](https://www.spiegel.de/panorama/justiz/wien-sechsjaehrige-rettet-familie-mit-sos-handzeichen-vor-entfuehrung-a-04401f9b-305f-4f62-b4aa-c31b62f0910e#ref=rss)
-* [https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt](https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt-a-dd3111a9-3312-4792-a5e4-8440cfbe6a6d#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/wien-sechsjaehrige-rettet-familie-mit-sos-handzeichen-vor-entfuehrung](https://www.spiegel.de/panorama/justiz/wien-sechsjaehrige-rettet-familie-mit-sos-handzeichen-vor-entfuehrung-a-04401f9b-305f-4f62-b4aa-c31b62f0910e#ref=rss)
-* [https://www.spiegel.de/panorama/israel-drei-brueder-werden-am-selben-tag-vaeter-von-vier-kindern](https://www.spiegel.de/panorama/israel-drei-brueder-werden-am-selben-tag-vaeter-von-vier-kindern-a-2ca649e5-2e25-482a-94e3-0b663d3f1380#ref=rss)
-### bestimmte
-
-* [https://www.spiegel.de/panorama/justiz/wien-sechsjaehrige-rettet-familie-mit-sos-handzeichen-vor-entfuehrung](https://www.spiegel.de/panorama/justiz/wien-sechsjaehrige-rettet-familie-mit-sos-handzeichen-vor-entfuehrung-a-04401f9b-305f-4f62-b4aa-c31b62f0910e#ref=rss)
-* [https://www.spiegel.de/netzwelt/amazon-prime-kunden-koennen-noch-bis-2025-geld-zurueckfordern](https://www.spiegel.de/netzwelt/amazon-prime-kunden-koennen-noch-bis-2025-geld-zurueckfordern-a-4e47b1d3-a855-44d8-9c7a-4a3d98c95eb9#ref=rss)
-### katherine
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit](https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit-a-f42b971a-165e-4659-aaa3-d729cc8491c5#ref=rss)
-### lebensgefährte
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit](https://www.spiegel.de/politik/deutschland/news-des-tages-karl-theodor-zu-guttenberg-und-katherine-reiche-drohnenabwehr-rentenstreit-a-f42b971a-165e-4659-aaa3-d729cc8491c5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-und-karl-theodor-zu-guttenberg-bundeswirtschaftsministerium-foerdert-firma-mit-guttenberg-beteiligung](https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-und-karl-theodor-zu-guttenberg-bundeswirtschaftsministerium-foerdert-firma-mit-guttenberg-beteiligung-a-830ae414-e75e-44a6-824c-06dcc98bd9d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-abgeordnete-duerfen-wieder-haeufiger-businessclass-fliegen](https://www.spiegel.de/politik/deutschland/bundestag-abgeordnete-duerfen-wieder-haeufiger-businessclass-fliegen-a-23d2b21a-48fc-4292-83c7-231c753f1d12#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-entlastung-fuer-pendler-und-gastronomie](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-entlastung-fuer-pendler-und-gastronomie-a-5ce6b14f-449e-4c0f-87ff-9f64b3f46425#ref=rss)
 ### geld
 
-* [https://www.spiegel.de/netzwelt/amazon-prime-kunden-koennen-noch-bis-2025-geld-zurueckfordern](https://www.spiegel.de/netzwelt/amazon-prime-kunden-koennen-noch-bis-2025-geld-zurueckfordern-a-4e47b1d3-a855-44d8-9c7a-4a3d98c95eb9#ref=rss)
-### vertrauen
+* [https://www.spiegel.de/politik/deutschland/bundestag-abgeordnete-duerfen-wieder-haeufiger-businessclass-fliegen](https://www.spiegel.de/politik/deutschland/bundestag-abgeordnete-duerfen-wieder-haeufiger-businessclass-fliegen-a-23d2b21a-48fc-4292-83c7-231c753f1d12#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arztpraxen-setzen-immer-staerker-auf-privatabrechnung](https://www.spiegel.de/wirtschaft/arztpraxen-setzen-immer-staerker-auf-privatabrechnung-a-2f661155-def0-4e4b-8fc1-fa3fbdb2d690#ref=rss)
+* [https://www.spiegel.de/wirtschaft/josef-brunner-geldwaescheverdacht-gegen-start-up-star](https://www.spiegel.de/wirtschaft/josef-brunner-geldwaescheverdacht-gegen-start-up-star-a-1594bf82-3b1f-4c0c-a53c-102dbd038696#ref=rss)
+### fc
 
-* [https://www.spiegel.de/wissenschaft/videokonferenzen-technische-stoerungen-gefaehrden-jobchancen-und-vertrauen](https://www.spiegel.de/wissenschaft/videokonferenzen-technische-stoerungen-gefaehrden-jobchancen-und-vertrauen-a-2e230e64-e981-4723-946b-23426182fd40#ref=rss)
-### hbo
+* [https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-mit-premierentreffer-fuer-den-fc-liverpool-nein-doch-nicht](https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-mit-premierentreffer-fuer-den-fc-liverpool-nein-doch-nicht-a-61412bd7-3bcd-4a9a-8247-567086ff99b3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-siegt-bei-union-berlin-die-bayern-eiern](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-siegt-bei-union-berlin-die-bayern-eiern-a-603f5360-4956-4637-bb0e-dcba2cbfc3f6#ref=rss)
+### europäer
 
-* [https://www.spiegel.de/kultur/hbo-max-startet-bald-in-deutschland-preise-und-termin-stehen-fest](https://www.spiegel.de/kultur/hbo-max-startet-bald-in-deutschland-preise-und-termin-stehen-fest-a-4d5fae7c-0755-4357-8270-0e5e2ed5ab8a#ref=rss)
-### max
+* [https://www.spiegel.de/politik/ukraine-verhandlungen-europaeer-misstrauen-trumps-friedensplan](https://www.spiegel.de/politik/ukraine-verhandlungen-europaeer-misstrauen-trumps-friedensplan-a-7a439009-716d-48de-bda6-5d3926d8dbc3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-europas-versagen-im-entscheidenden-moment](https://www.spiegel.de/politik/deutschland/ukraine-krieg-europas-versagen-im-entscheidenden-moment-a-09755f31-bd7c-4990-a778-657d18712291#ref=rss)
+### ukrainekrieg
 
-* [https://www.spiegel.de/kultur/hbo-max-startet-bald-in-deutschland-preise-und-termin-stehen-fest](https://www.spiegel.de/kultur/hbo-max-startet-bald-in-deutschland-preise-und-termin-stehen-fest-a-4d5fae7c-0755-4357-8270-0e5e2ed5ab8a#ref=rss)
-### markt
+* [https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-frieden-nur-wie-ihn-wladimir-putin-will](https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-frieden-nur-wie-ihn-wladimir-putin-will-a-697833cc-afd7-4858-a99b-e3d80c4cbcb2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern-a-e81c6722-d972-409b-aa15-2b4185b01a51#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-europas-versagen-im-entscheidenden-moment](https://www.spiegel.de/politik/deutschland/ukraine-krieg-europas-versagen-im-entscheidenden-moment-a-09755f31-bd7c-4990-a778-657d18712291#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/kultur/hbo-max-startet-bald-in-deutschland-preise-und-termin-stehen-fest](https://www.spiegel.de/kultur/hbo-max-startet-bald-in-deutschland-preise-und-termin-stehen-fest-a-4d5fae7c-0755-4357-8270-0e5e2ed5ab8a#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-deutlich-mehr-neuwagen-in-deutschland](https://www.spiegel.de/auto/elektroauto-deutlich-mehr-neuwagen-in-deutschland-a-88817423-e17a-42ae-92a0-e34c237183cb#ref=rss)
-### stuttgart
+* [https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-frieden-nur-wie-ihn-wladimir-putin-will](https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-frieden-nur-wie-ihn-wladimir-putin-will-a-697833cc-afd7-4858-a99b-e3d80c4cbcb2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern-a-e81c6722-d972-409b-aa15-2b4185b01a51#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-europas-versagen-im-entscheidenden-moment](https://www.spiegel.de/politik/deutschland/ukraine-krieg-europas-versagen-im-entscheidenden-moment-a-09755f31-bd7c-4990-a778-657d18712291#ref=rss)
+### steve
 
-* [https://www.spiegel.de/panorama/justiz/pedo-hunter-mehrere-selbsternannte-paedophilen-jaeger-in-stuttgart-festgenommen](https://www.spiegel.de/panorama/justiz/pedo-hunter-mehrere-selbsternannte-paedophilen-jaeger-in-stuttgart-festgenommen-a-800ec7e1-4541-4461-aa3d-a58c8364403c#ref=rss)
-### festgenommen
+* [https://www.spiegel.de/kultur/musik/steve-cropper-ist-tot](https://www.spiegel.de/kultur/musik/steve-cropper-ist-tot-a-67011e65-845d-42c3-96bd-8d007da84a27#ref=rss)
+### san
 
-* [https://www.spiegel.de/panorama/justiz/pedo-hunter-mehrere-selbsternannte-paedophilen-jaeger-in-stuttgart-festgenommen](https://www.spiegel.de/panorama/justiz/pedo-hunter-mehrere-selbsternannte-paedophilen-jaeger-in-stuttgart-festgenommen-a-800ec7e1-4541-4461-aa3d-a58c8364403c#ref=rss)
-* [https://www.spiegel.de/sport/formel1/adrian-sutil-ex-formel-1-fahrer-wegen-betrugsverdachts-in-u-haft](https://www.spiegel.de/sport/formel1/adrian-sutil-ex-formel-1-fahrer-wegen-betrugsverdachts-in-u-haft-a-37ad3580-68cc-4853-ad0d-0012c16b254f#ref=rss)
-### restaurants
+* [https://www.spiegel.de/wirtschaft/coca-cola-pepsico-wk-kellogs-san-francisco-verklagt-hersteller-von-industrie-essen](https://www.spiegel.de/wirtschaft/coca-cola-pepsico-wk-kellogs-san-francisco-verklagt-hersteller-von-industrie-essen-a-875238e1-2499-4ea3-a447-b25e7bf5b04e#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-wird-in-letzter-sekunde-geblockt-orlando-magic-verliert](https://www.spiegel.de/sport/basketball/nba-franz-wagner-wird-in-letzter-sekunde-geblockt-orlando-magic-verliert-a-34d71011-ff0d-4afe-aac0-da689d5fa857#ref=rss)
+### verdacht
 
-* [https://www.spiegel.de/panorama/justiz/bde-altfett-diebstahl-aus-restaurants-sorgt-fuer-millionenschaden](https://www.spiegel.de/panorama/justiz/bde-altfett-diebstahl-aus-restaurants-sorgt-fuer-millionenschaden-a-23ee3bf0-d275-490f-a870-0dccaa9233b6#ref=rss)
-### millionen
+* [https://www.spiegel.de/panorama/schwedt-oder-zwei-tote-in-kleingarten-kohlenmonoxidvergiftung-vermutet](https://www.spiegel.de/panorama/schwedt-oder-zwei-tote-in-kleingarten-kohlenmonoxidvergiftung-vermutet-a-d86c7a2b-5f8d-445c-a74e-4cd9496c331b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/republik21-mit-steuergeld-gegen-die-brandmauer](https://www.spiegel.de/politik/deutschland/republik21-mit-steuergeld-gegen-die-brandmauer-a-071f7d4d-5383-4d91-b7e9-ad5edc4e0e94#ref=rss)
+* [https://www.spiegel.de/wirtschaft/josef-brunner-geldwaescheverdacht-gegen-start-up-star](https://www.spiegel.de/wirtschaft/josef-brunner-geldwaescheverdacht-gegen-start-up-star-a-1594bf82-3b1f-4c0c-a53c-102dbd038696#ref=rss)
+### union
 
-* [https://www.spiegel.de/panorama/justiz/bde-altfett-diebstahl-aus-restaurants-sorgt-fuer-millionenschaden](https://www.spiegel.de/panorama/justiz/bde-altfett-diebstahl-aus-restaurants-sorgt-fuer-millionenschaden-a-23ee3bf0-d275-490f-a870-0dccaa9233b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tarifrunde-im-oeffentlichen-dienst-beginnt-mit-aussicht-auf-winterstreiks](https://www.spiegel.de/wirtschaft/tarifrunde-im-oeffentlichen-dienst-beginnt-mit-aussicht-auf-winterstreiks-a-c1427db3-36ff-411d-82f7-54d172015a4a#ref=rss)
-### öffentlichen
+* [https://www.spiegel.de/politik/deutschland/republik21-mit-steuergeld-gegen-die-brandmauer](https://www.spiegel.de/politik/deutschland/republik21-mit-steuergeld-gegen-die-brandmauer-a-071f7d4d-5383-4d91-b7e9-ad5edc4e0e94#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-siegt-bei-union-berlin-die-bayern-eiern](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-siegt-bei-union-berlin-die-bayern-eiern-a-603f5360-4956-4637-bb0e-dcba2cbfc3f6#ref=rss)
+### anderson
 
-* [https://www.spiegel.de/wirtschaft/tarifrunde-im-oeffentlichen-dienst-beginnt-mit-aussicht-auf-winterstreiks](https://www.spiegel.de/wirtschaft/tarifrunde-im-oeffentlichen-dienst-beginnt-mit-aussicht-auf-winterstreiks-a-c1427db3-36ff-411d-82f7-54d172015a4a#ref=rss)
-### dienst
+* [https://www.spiegel.de/panorama/leute/pamela-anderson-schauspielerin-vermisst-ihren-finnischen-nachnamen](https://www.spiegel.de/panorama/leute/pamela-anderson-schauspielerin-vermisst-ihren-finnischen-nachnamen-a-45f35147-f998-4eb0-908f-bfdb018c0eb7#ref=rss)
+### vermisst
 
-* [https://www.spiegel.de/wirtschaft/tarifrunde-im-oeffentlichen-dienst-beginnt-mit-aussicht-auf-winterstreiks](https://www.spiegel.de/wirtschaft/tarifrunde-im-oeffentlichen-dienst-beginnt-mit-aussicht-auf-winterstreiks-a-c1427db3-36ff-411d-82f7-54d172015a4a#ref=rss)
-### statt
+* [https://www.spiegel.de/panorama/leute/pamela-anderson-schauspielerin-vermisst-ihren-finnischen-nachnamen](https://www.spiegel.de/panorama/leute/pamela-anderson-schauspielerin-vermisst-ihren-finnischen-nachnamen-a-45f35147-f998-4eb0-908f-bfdb018c0eb7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/aachen-mann-mit-vermisster-13-jaehriger-aus-daenemark-in-ice-gefasst](https://www.spiegel.de/panorama/justiz/aachen-mann-mit-vermisster-13-jaehriger-aus-daenemark-in-ice-gefasst-a-1cee970e-49ab-46c0-8da9-05cda0e81da6#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2029-findet-in-deutschland-statt](https://www.spiegel.de/sport/fussball/fussball-em-2029-findet-in-deutschland-statt-a-06618b37-f0e8-4796-bd0c-955bd01e9baa#ref=rss)
-### frauen
+* [https://www.spiegel.de/panorama/leute/pamela-anderson-schauspielerin-vermisst-ihren-finnischen-nachnamen](https://www.spiegel.de/panorama/leute/pamela-anderson-schauspielerin-vermisst-ihren-finnischen-nachnamen-a-45f35147-f998-4eb0-908f-bfdb018c0eb7#ref=rss)
+* [https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-frieden-nur-wie-ihn-wladimir-putin-will](https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-frieden-nur-wie-ihn-wladimir-putin-will-a-697833cc-afd7-4858-a99b-e3d80c4cbcb2#ref=rss)
+### würde
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-2029-findet-in-deutschland-statt](https://www.spiegel.de/sport/fussball/fussball-em-2029-findet-in-deutschland-statt-a-06618b37-f0e8-4796-bd0c-955bd01e9baa#ref=rss)
-* [https://www.spiegel.de/panorama/israel-drei-brueder-werden-am-selben-tag-vaeter-von-vier-kindern](https://www.spiegel.de/panorama/israel-drei-brueder-werden-am-selben-tag-vaeter-von-vier-kindern-a-2ca649e5-2e25-482a-94e3-0b663d3f1380#ref=rss)
-### norbert
+* [https://www.spiegel.de/panorama/leute/pamela-anderson-schauspielerin-vermisst-ihren-finnischen-nachnamen](https://www.spiegel.de/panorama/leute/pamela-anderson-schauspielerin-vermisst-ihren-finnischen-nachnamen-a-45f35147-f998-4eb0-908f-bfdb018c0eb7#ref=rss)
+* [https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen](https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen-a-becf9ff1-4418-44bc-bc37-46cde6f425b0#ref=rss)
+### gern
 
-* [https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt](https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt-a-dd3111a9-3312-4792-a5e4-8440cfbe6a6d#ref=rss)
-### rier
+* [https://www.spiegel.de/panorama/leute/pamela-anderson-schauspielerin-vermisst-ihren-finnischen-nachnamen](https://www.spiegel.de/panorama/leute/pamela-anderson-schauspielerin-vermisst-ihren-finnischen-nachnamen-a-45f35147-f998-4eb0-908f-bfdb018c0eb7#ref=rss)
+* [https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen](https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen-a-becf9ff1-4418-44bc-bc37-46cde6f425b0#ref=rss)
+### sollten
 
-* [https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt](https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt-a-dd3111a9-3312-4792-a5e4-8440cfbe6a6d#ref=rss)
-### sänger
+* [https://www.spiegel.de/karriere/knigge-fuer-die-weihnachtsfeier-diese-fettnaepfchen-sollten-fuehrungskraefte-vermeiden](https://www.spiegel.de/karriere/knigge-fuer-die-weihnachtsfeier-diese-fettnaepfchen-sollten-fuehrungskraefte-vermeiden-a-85ea2ebf-338f-486e-9f3b-4631ad132c92#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-abgeordnete-duerfen-wieder-haeufiger-businessclass-fliegen](https://www.spiegel.de/politik/deutschland/bundestag-abgeordnete-duerfen-wieder-haeufiger-businessclass-fliegen-a-23d2b21a-48fc-4292-83c7-231c753f1d12#ref=rss)
+### brandenburg
 
-* [https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt](https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt-a-dd3111a9-3312-4792-a5e4-8440cfbe6a6d#ref=rss)
-### kastelruther
+* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-brandenburg-gefluegelpest-in-toter-katze-in-neuruppin-nachgewiesen](https://www.spiegel.de/wissenschaft/vogelgrippe-in-brandenburg-gefluegelpest-in-toter-katze-in-neuruppin-nachgewiesen-a-21f25ced-445f-44bb-882d-8fd911e6cdd8#ref=rss)
+### nachgewiesen
 
-* [https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt](https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt-a-dd3111a9-3312-4792-a5e4-8440cfbe6a6d#ref=rss)
-### spatzen
+* [https://www.spiegel.de/wissenschaft/vogelgrippe-in-brandenburg-gefluegelpest-in-toter-katze-in-neuruppin-nachgewiesen](https://www.spiegel.de/wissenschaft/vogelgrippe-in-brandenburg-gefluegelpest-in-toter-katze-in-neuruppin-nachgewiesen-a-21f25ced-445f-44bb-882d-8fd911e6cdd8#ref=rss)
+### brandenburg/havel
 
-* [https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt](https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt-a-dd3111a9-3312-4792-a5e4-8440cfbe6a6d#ref=rss)
-### weihnachtstour
+* [https://www.spiegel.de/panorama/justiz/brandenburg-havel-kind-soll-in-massregelvollzug-missbraucht-worden-sein](https://www.spiegel.de/panorama/justiz/brandenburg-havel-kind-soll-in-massregelvollzug-missbraucht-worden-sein-a-4cd1e406-d019-448e-b7bb-756ca7fa38a3#ref=rss)
+### kind
 
-* [https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt](https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt-a-dd3111a9-3312-4792-a5e4-8440cfbe6a6d#ref=rss)
-### allerdings
+* [https://www.spiegel.de/panorama/justiz/brandenburg-havel-kind-soll-in-massregelvollzug-missbraucht-worden-sein](https://www.spiegel.de/panorama/justiz/brandenburg-havel-kind-soll-in-massregelvollzug-missbraucht-worden-sein-a-4cd1e406-d019-448e-b7bb-756ca7fa38a3#ref=rss)
+* [https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen](https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen-a-becf9ff1-4418-44bc-bc37-46cde6f425b0#ref=rss)
+### maßregelvollzug
 
-* [https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt](https://www.spiegel.de/kultur/norbert-rier-erholt-sich-von-herz-op-saenger-der-kastelruther-spatzen-wird-bei-weihnachtstour-durch-sohn-ersetzt-a-dd3111a9-3312-4792-a5e4-8440cfbe6a6d#ref=rss)
-* [https://www.spiegel.de/panorama/israel-drei-brueder-werden-am-selben-tag-vaeter-von-vier-kindern](https://www.spiegel.de/panorama/israel-drei-brueder-werden-am-selben-tag-vaeter-von-vier-kindern-a-2ca649e5-2e25-482a-94e3-0b663d3f1380#ref=rss)
-### steinmeier
+* [https://www.spiegel.de/panorama/justiz/brandenburg-havel-kind-soll-in-massregelvollzug-missbraucht-worden-sein](https://www.spiegel.de/panorama/justiz/brandenburg-havel-kind-soll-in-massregelvollzug-missbraucht-worden-sein-a-4cd1e406-d019-448e-b7bb-756ca7fa38a3#ref=rss)
+### staatsanwaltschaft
 
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-regenschirm-als-gastgeschenk-fuer-koenig-charles](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-regenschirm-als-gastgeschenk-fuer-koenig-charles-a-a67bef0e-483b-41f1-9470-a6ea62353609#ref=rss)
-### regenschirm
+* [https://www.spiegel.de/panorama/justiz/brandenburg-havel-kind-soll-in-massregelvollzug-missbraucht-worden-sein](https://www.spiegel.de/panorama/justiz/brandenburg-havel-kind-soll-in-massregelvollzug-missbraucht-worden-sein-a-4cd1e406-d019-448e-b7bb-756ca7fa38a3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/josef-brunner-geldwaescheverdacht-gegen-start-up-star](https://www.spiegel.de/wirtschaft/josef-brunner-geldwaescheverdacht-gegen-start-up-star-a-1594bf82-3b1f-4c0c-a53c-102dbd038696#ref=rss)
+### ermittelt
 
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-regenschirm-als-gastgeschenk-fuer-koenig-charles](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-regenschirm-als-gastgeschenk-fuer-koenig-charles-a-a67bef0e-483b-41f1-9470-a6ea62353609#ref=rss)
-### gastgeschenk
+* [https://www.spiegel.de/panorama/justiz/brandenburg-havel-kind-soll-in-massregelvollzug-missbraucht-worden-sein](https://www.spiegel.de/panorama/justiz/brandenburg-havel-kind-soll-in-massregelvollzug-missbraucht-worden-sein-a-4cd1e406-d019-448e-b7bb-756ca7fa38a3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/josef-brunner-geldwaescheverdacht-gegen-start-up-star](https://www.spiegel.de/wirtschaft/josef-brunner-geldwaescheverdacht-gegen-start-up-star-a-1594bf82-3b1f-4c0c-a53c-102dbd038696#ref=rss)
+### häufiger
 
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-regenschirm-als-gastgeschenk-fuer-koenig-charles](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-regenschirm-als-gastgeschenk-fuer-koenig-charles-a-a67bef0e-483b-41f1-9470-a6ea62353609#ref=rss)
-### charles
+* [https://www.spiegel.de/politik/deutschland/bundestag-abgeordnete-duerfen-wieder-haeufiger-businessclass-fliegen](https://www.spiegel.de/politik/deutschland/bundestag-abgeordnete-duerfen-wieder-haeufiger-businessclass-fliegen-a-23d2b21a-48fc-4292-83c7-231c753f1d12#ref=rss)
+### fliegen
 
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-regenschirm-als-gastgeschenk-fuer-koenig-charles](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-regenschirm-als-gastgeschenk-fuer-koenig-charles-a-a67bef0e-483b-41f1-9470-a6ea62353609#ref=rss)
-### eu
+* [https://www.spiegel.de/politik/deutschland/bundestag-abgeordnete-duerfen-wieder-haeufiger-businessclass-fliegen](https://www.spiegel.de/politik/deutschland/bundestag-abgeordnete-duerfen-wieder-haeufiger-businessclass-fliegen-a-23d2b21a-48fc-4292-83c7-231c753f1d12#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/astronautin-rabbea-rogge-ist-die-erste-deutsche-frau-im-all-erst-mal-musste-sie-sich-uebergeben](https://www.spiegel.de/wissenschaft/weltall/astronautin-rabbea-rogge-ist-die-erste-deutsche-frau-im-all-erst-mal-musste-sie-sich-uebergeben-a-7e39238a-e351-4175-b7f9-664166eaa355#ref=rss)
+### lockert
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-eu-legt-plan-zur-nutzung-russischer-vermoegen-vor](https://www.spiegel.de/ausland/ukraine-krieg-eu-legt-plan-zur-nutzung-russischer-vermoegen-vor-a-4d081757-7b7d-42e3-8210-bde881a2c63c#ref=rss)
-### plan
+* [https://www.spiegel.de/politik/deutschland/bundestag-abgeordnete-duerfen-wieder-haeufiger-businessclass-fliegen](https://www.spiegel.de/politik/deutschland/bundestag-abgeordnete-duerfen-wieder-haeufiger-businessclass-fliegen-a-23d2b21a-48fc-4292-83c7-231c753f1d12#ref=rss)
+* [https://www.spiegel.de/wirtschaft/klimaschutz-donald-trump-lockert-grenzen-fuer-sprit-verbrauch](https://www.spiegel.de/wirtschaft/klimaschutz-donald-trump-lockert-grenzen-fuer-sprit-verbrauch-a-f6d00130-9401-4f84-9f64-ac8dfafeed1a#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-eu-legt-plan-zur-nutzung-russischer-vermoegen-vor](https://www.spiegel.de/ausland/ukraine-krieg-eu-legt-plan-zur-nutzung-russischer-vermoegen-vor-a-4d081757-7b7d-42e3-8210-bde881a2c63c#ref=rss)
-### vermögen
+* [https://www.spiegel.de/wirtschaft/arztpraxen-setzen-immer-staerker-auf-privatabrechnung](https://www.spiegel.de/wirtschaft/arztpraxen-setzen-immer-staerker-auf-privatabrechnung-a-2f661155-def0-4e4b-8fc1-fa3fbdb2d690#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-verhandlungen-europaeer-misstrauen-trumps-friedensplan](https://www.spiegel.de/politik/ukraine-verhandlungen-europaeer-misstrauen-trumps-friedensplan-a-7a439009-716d-48de-bda6-5d3926d8dbc3#ref=rss)
+### florian
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-eu-legt-plan-zur-nutzung-russischer-vermoegen-vor](https://www.spiegel.de/ausland/ukraine-krieg-eu-legt-plan-zur-nutzung-russischer-vermoegen-vor-a-4d081757-7b7d-42e3-8210-bde881a2c63c#ref=rss)
-### israel
+* [https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-mit-premierentreffer-fuer-den-fc-liverpool-nein-doch-nicht](https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-mit-premierentreffer-fuer-den-fc-liverpool-nein-doch-nicht-a-61412bd7-3bcd-4a9a-8247-567086ff99b3#ref=rss)
+### wirtz
 
-* [https://www.spiegel.de/panorama/israel-drei-brueder-werden-am-selben-tag-vaeter-von-vier-kindern](https://www.spiegel.de/panorama/israel-drei-brueder-werden-am-selben-tag-vaeter-von-vier-kindern-a-2ca649e5-2e25-482a-94e3-0b663d3f1380#ref=rss)
-### brüder
+* [https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-mit-premierentreffer-fuer-den-fc-liverpool-nein-doch-nicht](https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-mit-premierentreffer-fuer-den-fc-liverpool-nein-doch-nicht-a-61412bd7-3bcd-4a9a-8247-567086ff99b3#ref=rss)
+### liverpool
 
-* [https://www.spiegel.de/panorama/israel-drei-brueder-werden-am-selben-tag-vaeter-von-vier-kindern](https://www.spiegel.de/panorama/israel-drei-brueder-werden-am-selben-tag-vaeter-von-vier-kindern-a-2ca649e5-2e25-482a-94e3-0b663d3f1380#ref=rss)
-### selben
+* [https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-mit-premierentreffer-fuer-den-fc-liverpool-nein-doch-nicht](https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-mit-premierentreffer-fuer-den-fc-liverpool-nein-doch-nicht-a-61412bd7-3bcd-4a9a-8247-567086ff99b3#ref=rss)
+### misstrauen
 
-* [https://www.spiegel.de/panorama/israel-drei-brueder-werden-am-selben-tag-vaeter-von-vier-kindern](https://www.spiegel.de/panorama/israel-drei-brueder-werden-am-selben-tag-vaeter-von-vier-kindern-a-2ca649e5-2e25-482a-94e3-0b663d3f1380#ref=rss)
-### tag
+* [https://www.spiegel.de/politik/ukraine-verhandlungen-europaeer-misstrauen-trumps-friedensplan](https://www.spiegel.de/politik/ukraine-verhandlungen-europaeer-misstrauen-trumps-friedensplan-a-7a439009-716d-48de-bda6-5d3926d8dbc3#ref=rss)
+### trumps
 
-* [https://www.spiegel.de/panorama/israel-drei-brueder-werden-am-selben-tag-vaeter-von-vier-kindern](https://www.spiegel.de/panorama/israel-drei-brueder-werden-am-selben-tag-vaeter-von-vier-kindern-a-2ca649e5-2e25-482a-94e3-0b663d3f1380#ref=rss)
-### katherina
+* [https://www.spiegel.de/politik/ukraine-verhandlungen-europaeer-misstrauen-trumps-friedensplan](https://www.spiegel.de/politik/ukraine-verhandlungen-europaeer-misstrauen-trumps-friedensplan-a-7a439009-716d-48de-bda6-5d3926d8dbc3#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-und-karl-theodor-zu-guttenberg-bundeswirtschaftsministerium-foerdert-firma-mit-guttenberg-beteiligung](https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-und-karl-theodor-zu-guttenberg-bundeswirtschaftsministerium-foerdert-firma-mit-guttenberg-beteiligung-a-830ae414-e75e-44a6-824c-06dcc98bd9d7#ref=rss)
-### bundeswirtschaftsministerium
+* [https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-frieden-nur-wie-ihn-wladimir-putin-will](https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-frieden-nur-wie-ihn-wladimir-putin-will-a-697833cc-afd7-4858-a99b-e3d80c4cbcb2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern-a-e81c6722-d972-409b-aa15-2b4185b01a51#ref=rss)
+### dänemark
 
-* [https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-und-karl-theodor-zu-guttenberg-bundeswirtschaftsministerium-foerdert-firma-mit-guttenberg-beteiligung](https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-und-karl-theodor-zu-guttenberg-bundeswirtschaftsministerium-foerdert-firma-mit-guttenberg-beteiligung-a-830ae414-e75e-44a6-824c-06dcc98bd9d7#ref=rss)
-### adrian
+* [https://www.spiegel.de/panorama/justiz/aachen-mann-mit-vermisster-13-jaehriger-aus-daenemark-in-ice-gefasst](https://www.spiegel.de/panorama/justiz/aachen-mann-mit-vermisster-13-jaehriger-aus-daenemark-in-ice-gefasst-a-1cee970e-49ab-46c0-8da9-05cda0e81da6#ref=rss)
+### fünf
 
-* [https://www.spiegel.de/sport/formel1/adrian-sutil-ex-formel-1-fahrer-wegen-betrugsverdachts-in-u-haft](https://www.spiegel.de/sport/formel1/adrian-sutil-ex-formel-1-fahrer-wegen-betrugsverdachts-in-u-haft-a-37ad3580-68cc-4853-ad0d-0012c16b254f#ref=rss)
-### opfer
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-entlastung-fuer-pendler-und-gastronomie](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-entlastung-fuer-pendler-und-gastronomie-a-5ce6b14f-449e-4c0f-87ff-9f64b3f46425#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-uebergibt-leiche-eines-thailaenders](https://www.spiegel.de/ausland/hamas-uebergibt-leiche-eines-thailaenders-a-ddce8119-9e34-4f9e-b828-2017ccf8aadc#ref=rss)
+### unter
 
-* [https://www.spiegel.de/sport/formel1/adrian-sutil-ex-formel-1-fahrer-wegen-betrugsverdachts-in-u-haft](https://www.spiegel.de/sport/formel1/adrian-sutil-ex-formel-1-fahrer-wegen-betrugsverdachts-in-u-haft-a-37ad3580-68cc-4853-ad0d-0012c16b254f#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/opfer-von-missbrauch-an-schulen-in-vergangenheit-oft-alleingelassen-133-berichte-ausgewertet](https://www.spiegel.de/panorama/bildung/opfer-von-missbrauch-an-schulen-in-vergangenheit-oft-alleingelassen-133-berichte-ausgewertet-a-72c69301-623d-4553-a709-3c5396eeecdd#ref=rss)
-### elektroautos
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-entlastung-fuer-pendler-und-gastronomie](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-entlastung-fuer-pendler-und-gastronomie-a-5ce6b14f-449e-4c0f-87ff-9f64b3f46425#ref=rss)
+* [https://www.spiegel.de/wirtschaft/josef-brunner-geldwaescheverdacht-gegen-start-up-star](https://www.spiegel.de/wirtschaft/josef-brunner-geldwaescheverdacht-gegen-start-up-star-a-1594bf82-3b1f-4c0c-a53c-102dbd038696#ref=rss)
+### anderem
 
-* [https://www.spiegel.de/auto/elektroauto-deutlich-mehr-neuwagen-in-deutschland](https://www.spiegel.de/auto/elektroauto-deutlich-mehr-neuwagen-in-deutschland-a-88817423-e17a-42ae-92a0-e34c237183cb#ref=rss)
-### bo
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-entlastung-fuer-pendler-und-gastronomie](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-entlastung-fuer-pendler-und-gastronomie-a-5ce6b14f-449e-4c0f-87ff-9f64b3f46425#ref=rss)
+* [https://www.spiegel.de/wirtschaft/josef-brunner-geldwaescheverdacht-gegen-start-up-star](https://www.spiegel.de/wirtschaft/josef-brunner-geldwaescheverdacht-gegen-start-up-star-a-1594bf82-3b1f-4c0c-a53c-102dbd038696#ref=rss)
+### restmüll
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-trennt-sich-von-trainer-bo-henriksen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-trennt-sich-von-trainer-bo-henriksen-a-ecc1f9c4-0b1d-4185-b2e6-beab55f2c6f4#ref=rss)
-### henriksen
+* [https://www.spiegel.de/start/muellwerker-ueber-gehalt-geldgeschenke-und-was-manche-leute-so-in-den-restmuell-werfen](https://www.spiegel.de/start/muellwerker-ueber-gehalt-geldgeschenke-und-was-manche-leute-so-in-den-restmuell-werfen-a-6b8e6997-5a92-459f-9c05-7ba237e0b8bf#ref=rss)
+### laut
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-trennt-sich-von-trainer-bo-henriksen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fsv-mainz-05-trennt-sich-von-trainer-bo-henriksen-a-ecc1f9c4-0b1d-4185-b2e6-beab55f2c6f4#ref=rss)
-### schulen
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-jeder-zweite-bezieher-sucht-laut-befragung-keinen-job](https://www.spiegel.de/wirtschaft/soziales/buergergeld-jeder-zweite-bezieher-sucht-laut-befragung-keinen-job-a-04f5c207-0ccf-417e-9d13-d85a36f0133f#ref=rss)
+* [https://www.spiegel.de/panorama/schwedt-oder-zwei-tote-in-kleingarten-kohlenmonoxidvergiftung-vermutet](https://www.spiegel.de/panorama/schwedt-oder-zwei-tote-in-kleingarten-kohlenmonoxidvergiftung-vermutet-a-d86c7a2b-5f8d-445c-a74e-4cd9496c331b#ref=rss)
+### donbass
 
-* [https://www.spiegel.de/panorama/bildung/opfer-von-missbrauch-an-schulen-in-vergangenheit-oft-alleingelassen-133-berichte-ausgewertet](https://www.spiegel.de/panorama/bildung/opfer-von-missbrauch-an-schulen-in-vergangenheit-oft-alleingelassen-133-berichte-ausgewertet-a-72c69301-623d-4553-a709-3c5396eeecdd#ref=rss)
-### 133
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern-a-e81c6722-d972-409b-aa15-2b4185b01a51#ref=rss)
+### erobern
 
-* [https://www.spiegel.de/panorama/bildung/opfer-von-missbrauch-an-schulen-in-vergangenheit-oft-alleingelassen-133-berichte-ausgewertet](https://www.spiegel.de/panorama/bildung/opfer-von-missbrauch-an-schulen-in-vergangenheit-oft-alleingelassen-133-berichte-ausgewertet-a-72c69301-623d-4553-a709-3c5396eeecdd#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern-a-e81c6722-d972-409b-aa15-2b4185b01a51#ref=rss)
+### verhandeln
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-will-donbass-auf-jeden-fall-erobern-a-e81c6722-d972-409b-aa15-2b4185b01a51#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-europas-versagen-im-entscheidenden-moment](https://www.spiegel.de/politik/deutschland/ukraine-krieg-europas-versagen-im-entscheidenden-moment-a-09755f31-bd7c-4990-a778-657d18712291#ref=rss)
+### daniel
+
+* [https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen](https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen-a-becf9ff1-4418-44bc-bc37-46cde6f425b0#ref=rss)
+### cohnbendit
+
+* [https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen](https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen-a-becf9ff1-4418-44bc-bc37-46cde6f425b0#ref=rss)
+### hannah
+
+* [https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen](https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen-a-becf9ff1-4418-44bc-bc37-46cde6f425b0#ref=rss)
+### arendt
+
+* [https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen](https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen-a-becf9ff1-4418-44bc-bc37-46cde6f425b0#ref=rss)
+### prägte
+
+* [https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen](https://www.spiegel.de/kultur/daniel-cohn-bendit-ueber-hannah-arendt-von-ihr-kann-man-lernen-der-wirklichkeit-ins-auge-zu-schauen-a-becf9ff1-4418-44bc-bc37-46cde6f425b0#ref=rss)
+* [https://www.spiegel.de/kultur/musik/steve-cropper-ist-tot](https://www.spiegel.de/kultur/musik/steve-cropper-ist-tot-a-67011e65-845d-42c3-96bd-8d007da84a27#ref=rss)
+### cropper
+
+* [https://www.spiegel.de/kultur/musik/steve-cropper-ist-tot](https://www.spiegel.de/kultur/musik/steve-cropper-ist-tot-a-67011e65-845d-42c3-96bd-8d007da84a27#ref=rss)
+### gitarrist
+
+* [https://www.spiegel.de/kultur/musik/steve-cropper-ist-tot](https://www.spiegel.de/kultur/musik/steve-cropper-ist-tot-a-67011e65-845d-42c3-96bd-8d007da84a27#ref=rss)
+### songwriter
+
+* [https://www.spiegel.de/kultur/musik/steve-cropper-ist-tot](https://www.spiegel.de/kultur/musik/steve-cropper-ist-tot-a-67011e65-845d-42c3-96bd-8d007da84a27#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/musik/steve-cropper-ist-tot](https://www.spiegel.de/kultur/musik/steve-cropper-ist-tot-a-67011e65-845d-42c3-96bd-8d007da84a27#ref=rss)
+### migranten
+
+* [https://www.spiegel.de/ausland/donald-trumps-hetze-gegen-migranten-dieser-muell-ist-selbst-fuer-ihn-ein-tiefpunkt](https://www.spiegel.de/ausland/donald-trumps-hetze-gegen-migranten-dieser-muell-ist-selbst-fuer-ihn-ein-tiefpunkt-a-2a533116-7add-4da5-bcf2-c1c26eec523f#ref=rss)
+### müll
+
+* [https://www.spiegel.de/ausland/donald-trumps-hetze-gegen-migranten-dieser-muell-ist-selbst-fuer-ihn-ein-tiefpunkt](https://www.spiegel.de/ausland/donald-trumps-hetze-gegen-migranten-dieser-muell-ist-selbst-fuer-ihn-ein-tiefpunkt-a-2a533116-7add-4da5-bcf2-c1c26eec523f#ref=rss)
+### rogge
+
+* [https://www.spiegel.de/wissenschaft/weltall/astronautin-rabbea-rogge-ist-die-erste-deutsche-frau-im-all-erst-mal-musste-sie-sich-uebergeben](https://www.spiegel.de/wissenschaft/weltall/astronautin-rabbea-rogge-ist-die-erste-deutsche-frau-im-all-erst-mal-musste-sie-sich-uebergeben-a-7e39238a-e351-4175-b7f9-664166eaa355#ref=rss)
+### übergeben
+
+* [https://www.spiegel.de/wissenschaft/weltall/astronautin-rabbea-rogge-ist-die-erste-deutsche-frau-im-all-erst-mal-musste-sie-sich-uebergeben](https://www.spiegel.de/wissenschaft/weltall/astronautin-rabbea-rogge-ist-die-erste-deutsche-frau-im-all-erst-mal-musste-sie-sich-uebergeben-a-7e39238a-e351-4175-b7f9-664166eaa355#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-uebergibt-leiche-eines-thailaenders](https://www.spiegel.de/ausland/hamas-uebergibt-leiche-eines-thailaenders-a-ddce8119-9e34-4f9e-b828-2017ccf8aadc#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/wissenschaft/weltall/astronautin-rabbea-rogge-ist-die-erste-deutsche-frau-im-all-erst-mal-musste-sie-sich-uebergeben](https://www.spiegel.de/wissenschaft/weltall/astronautin-rabbea-rogge-ist-die-erste-deutsche-frau-im-all-erst-mal-musste-sie-sich-uebergeben-a-7e39238a-e351-4175-b7f9-664166eaa355#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesumweltminister-verschiebt-programm-gegen-die-klimakrise](https://www.spiegel.de/politik/deutschland/bundesumweltminister-verschiebt-programm-gegen-die-klimakrise-a-cda5a51e-94ef-4067-ac1a-f1fa0103b019#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wissenschaft/weltall/astronautin-rabbea-rogge-ist-die-erste-deutsche-frau-im-all-erst-mal-musste-sie-sich-uebergeben](https://www.spiegel.de/wissenschaft/weltall/astronautin-rabbea-rogge-ist-die-erste-deutsche-frau-im-all-erst-mal-musste-sie-sich-uebergeben-a-7e39238a-e351-4175-b7f9-664166eaa355#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesumweltminister-verschiebt-programm-gegen-die-klimakrise](https://www.spiegel.de/politik/deutschland/bundesumweltminister-verschiebt-programm-gegen-die-klimakrise-a-cda5a51e-94ef-4067-ac1a-f1fa0103b019#ref=rss)
+### pepsico
+
+* [https://www.spiegel.de/wirtschaft/coca-cola-pepsico-wk-kellogs-san-francisco-verklagt-hersteller-von-industrie-essen](https://www.spiegel.de/wirtschaft/coca-cola-pepsico-wk-kellogs-san-francisco-verklagt-hersteller-von-industrie-essen-a-875238e1-2499-4ea3-a447-b25e7bf5b04e#ref=rss)
+### francisco
+
+* [https://www.spiegel.de/wirtschaft/coca-cola-pepsico-wk-kellogs-san-francisco-verklagt-hersteller-von-industrie-essen](https://www.spiegel.de/wirtschaft/coca-cola-pepsico-wk-kellogs-san-francisco-verklagt-hersteller-von-industrie-essen-a-875238e1-2499-4ea3-a447-b25e7bf5b04e#ref=rss)
+### carsten
+
+* [https://www.spiegel.de/politik/deutschland/bundesumweltminister-verschiebt-programm-gegen-die-klimakrise](https://www.spiegel.de/politik/deutschland/bundesumweltminister-verschiebt-programm-gegen-die-klimakrise-a-cda5a51e-94ef-4067-ac1a-f1fa0103b019#ref=rss)
+### schneider
+
+* [https://www.spiegel.de/politik/deutschland/bundesumweltminister-verschiebt-programm-gegen-die-klimakrise](https://www.spiegel.de/politik/deutschland/bundesumweltminister-verschiebt-programm-gegen-die-klimakrise-a-cda5a51e-94ef-4067-ac1a-f1fa0103b019#ref=rss)
+### verschiebt
+
+* [https://www.spiegel.de/politik/deutschland/bundesumweltminister-verschiebt-programm-gegen-die-klimakrise](https://www.spiegel.de/politik/deutschland/bundesumweltminister-verschiebt-programm-gegen-die-klimakrise-a-cda5a51e-94ef-4067-ac1a-f1fa0103b019#ref=rss)
+### schwedt/oder
+
+* [https://www.spiegel.de/panorama/schwedt-oder-zwei-tote-in-kleingarten-kohlenmonoxidvergiftung-vermutet](https://www.spiegel.de/panorama/schwedt-oder-zwei-tote-in-kleingarten-kohlenmonoxidvergiftung-vermutet-a-d86c7a2b-5f8d-445c-a74e-4cd9496c331b#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/schwedt-oder-zwei-tote-in-kleingarten-kohlenmonoxidvergiftung-vermutet](https://www.spiegel.de/panorama/schwedt-oder-zwei-tote-in-kleingarten-kohlenmonoxidvergiftung-vermutet-a-d86c7a2b-5f8d-445c-a74e-4cd9496c331b#ref=rss)
+### tote
+
+* [https://www.spiegel.de/panorama/schwedt-oder-zwei-tote-in-kleingarten-kohlenmonoxidvergiftung-vermutet](https://www.spiegel.de/panorama/schwedt-oder-zwei-tote-in-kleingarten-kohlenmonoxidvergiftung-vermutet-a-d86c7a2b-5f8d-445c-a74e-4cd9496c331b#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-uebergibt-leiche-eines-thailaenders](https://www.spiegel.de/ausland/hamas-uebergibt-leiche-eines-thailaenders-a-ddce8119-9e34-4f9e-b828-2017ccf8aadc#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/schwedt-oder-zwei-tote-in-kleingarten-kohlenmonoxidvergiftung-vermutet](https://www.spiegel.de/panorama/schwedt-oder-zwei-tote-in-kleingarten-kohlenmonoxidvergiftung-vermutet-a-d86c7a2b-5f8d-445c-a74e-4cd9496c331b#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-uebergibt-leiche-eines-thailaenders](https://www.spiegel.de/ausland/hamas-uebergibt-leiche-eines-thailaenders-a-ddce8119-9e34-4f9e-b828-2017ccf8aadc#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/ausland/hamas-uebergibt-leiche-eines-thailaenders](https://www.spiegel.de/ausland/hamas-uebergibt-leiche-eines-thailaenders-a-ddce8119-9e34-4f9e-b828-2017ccf8aadc#ref=rss)
+### josef
+
+* [https://www.spiegel.de/wirtschaft/josef-brunner-geldwaescheverdacht-gegen-start-up-star](https://www.spiegel.de/wirtschaft/josef-brunner-geldwaescheverdacht-gegen-start-up-star-a-1594bf82-3b1f-4c0c-a53c-102dbd038696#ref=rss)
+### brunner
+
+* [https://www.spiegel.de/wirtschaft/josef-brunner-geldwaescheverdacht-gegen-start-up-star](https://www.spiegel.de/wirtschaft/josef-brunner-geldwaescheverdacht-gegen-start-up-star-a-1594bf82-3b1f-4c0c-a53c-102dbd038696#ref=rss)
+### dfbpokal
+
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-siegt-bei-union-berlin-die-bayern-eiern](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-siegt-bei-union-berlin-die-bayern-eiern-a-603f5360-4956-4637-bb0e-dcba2cbfc3f6#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-siegt-bei-union-berlin-die-bayern-eiern](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-siegt-bei-union-berlin-die-bayern-eiern-a-603f5360-4956-4637-bb0e-dcba2cbfc3f6#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-siegt-bei-union-berlin-die-bayern-eiern](https://www.spiegel.de/sport/fussball/dfb-pokal-fc-bayern-muenchen-siegt-bei-union-berlin-die-bayern-eiern-a-603f5360-4956-4637-bb0e-dcba2cbfc3f6#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/wirtschaft/klimaschutz-donald-trump-lockert-grenzen-fuer-sprit-verbrauch](https://www.spiegel.de/wirtschaft/klimaschutz-donald-trump-lockert-grenzen-fuer-sprit-verbrauch-a-f6d00130-9401-4f84-9f64-ac8dfafeed1a#ref=rss)
+### franz
+
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-wird-in-letzter-sekunde-geblockt-orlando-magic-verliert](https://www.spiegel.de/sport/basketball/nba-franz-wagner-wird-in-letzter-sekunde-geblockt-orlando-magic-verliert-a-34d71011-ff0d-4afe-aac0-da689d5fa857#ref=rss)
+### wagner
+
+* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-wird-in-letzter-sekunde-geblockt-orlando-magic-verliert](https://www.spiegel.de/sport/basketball/nba-franz-wagner-wird-in-letzter-sekunde-geblockt-orlando-magic-verliert-a-34d71011-ff0d-4afe-aac0-da689d5fa857#ref=rss)
 
