@@ -4,386 +4,337 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-* [https://www.spiegel.de/wissenschaft/rauchen-und-alkohol-deutschland-tut-nur-wenig-gegen-konsum](https://www.spiegel.de/wissenschaft/rauchen-und-alkohol-deutschland-tut-nur-wenig-gegen-konsum-a-c7867f83-5689-4887-82ff-bce00784d282#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-will-ligaverband-ohne-dfb-gruenden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-will-ligaverband-ohne-dfb-gruenden-a-386f8620-68aa-4a44-8690-8b2f70d2c164#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/justiz/nsu-prozess-in-dresden-die-zeugin-beate-zschaepe-und-die-tochter-des-ermordeten](https://www.spiegel.de/panorama/justiz/nsu-prozess-in-dresden-die-zeugin-beate-zschaepe-und-die-tochter-des-ermordeten-a-07ff834a-8f66-43e1-881e-3721917617c8#ref=rss)
-* [https://www.spiegel.de/panorama/niedersachsen-bei-familie-jeronim-leuchten-621-weihnachtsbaeume-ein-rekord](https://www.spiegel.de/panorama/niedersachsen-bei-familie-jeronim-leuchten-621-weihnachtsbaeume-ein-rekord-a-893d37f4-a43f-44e3-8955-2c15732c2bd2#ref=rss)
-* [https://www.spiegel.de/auto/tuev-eu-staaten-lehnen-jaehrliche-pflichtpruefung-aelterer-autos-ab](https://www.spiegel.de/auto/tuev-eu-staaten-lehnen-jaehrliche-pflichtpruefung-aelterer-autos-ab-a-44f6c9a7-e3c1-4cd0-91f0-18c4cb301fb4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/kirsten-dunst-schauspielerin-lobt-den-fortschritt-der-metoo-bewegung](https://www.spiegel.de/panorama/leute/kirsten-dunst-schauspielerin-lobt-den-fortschritt-der-metoo-bewegung-a-26770cbe-2b61-47e7-a804-880f84b43dd9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/rauchen-und-alkohol-deutschland-tut-nur-wenig-gegen-konsum](https://www.spiegel.de/wissenschaft/rauchen-und-alkohol-deutschland-tut-nur-wenig-gegen-konsum-a-c7867f83-5689-4887-82ff-bce00784d282#ref=rss)
-### trump
+* [https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer](https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer-a-ac964f42-b563-4527-a9af-f9d0ae7641ac#ref=rss)
+* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lebensmitteltafeln-melden-mehr-ehrenamtliche-helfer](https://www.spiegel.de/wirtschaft/lebensmitteltafeln-melden-mehr-ehrenamtliche-helfer-a-23cfc0e8-7b74-4fa4-954f-864dabad1da3#ref=rss)
+### unter
 
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wieso-schweigt-sie-obwohl-das-weisse-haus-ihre-musik-nutzt](https://www.spiegel.de/kultur/musik/taylor-swift-wieso-schweigt-sie-obwohl-das-weisse-haus-ihre-musik-nutzt-a-eb0360f3-cf66-4a65-ba7e-cb39e880c60e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-muell-migration-rentenstreit-thomas-gottschalk](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-muell-migration-rentenstreit-thomas-gottschalk-a-e40dfb2f-cf22-4fb5-8d02-57a8ab54f635#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-linkedin-profile-von-visa-bewerbern-pruefen](https://www.spiegel.de/ausland/usa-donald-trump-will-linkedin-profile-von-visa-bewerbern-pruefen-a-c6b67296-0d2e-4815-83c9-97b396f85816#ref=rss)
-### zeigt
+* [https://www.spiegel.de/panorama/justiz/unter-polizeibeobachtung-in-neuseeland-von-dieb-verschlucktes-faberge-ei-ist-wieder-raus](https://www.spiegel.de/panorama/justiz/unter-polizeibeobachtung-in-neuseeland-von-dieb-verschlucktes-faberge-ei-ist-wieder-raus-a-a71869ed-2989-4df4-91c9-79211f573e08#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche-a-e94101c3-c827-4776-8aab-0745bb41dd5c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lebensmitteltafeln-melden-mehr-ehrenamtliche-helfer](https://www.spiegel.de/wirtschaft/lebensmitteltafeln-melden-mehr-ehrenamtliche-helfer-a-23cfc0e8-7b74-4fa4-954f-864dabad1da3#ref=rss)
+### james
 
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/afd-forscherin-eva-walther-das-ist-die-einfachste-form-der-selbstaufwertung](https://www.spiegel.de/wissenschaft/mensch/afd-forscherin-eva-walther-das-ist-die-einfachste-form-der-selbstaufwertung-a-ba2a5a7c-33e3-4674-82f8-7ec295196d2a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/rauchen-und-alkohol-deutschland-tut-nur-wenig-gegen-konsum](https://www.spiegel.de/wissenschaft/rauchen-und-alkohol-deutschland-tut-nur-wenig-gegen-konsum-a-c7867f83-5689-4887-82ff-bce00784d282#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-muell-migration-rentenstreit-thomas-gottschalk](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-muell-migration-rentenstreit-thomas-gottschalk-a-e40dfb2f-cf22-4fb5-8d02-57a8ab54f635#ref=rss)
-* [https://www.spiegel.de/panorama/niedersachsen-bei-familie-jeronim-leuchten-621-weihnachtsbaeume-ein-rekord](https://www.spiegel.de/panorama/niedersachsen-bei-familie-jeronim-leuchten-621-weihnachtsbaeume-ein-rekord-a-893d37f4-a43f-44e3-8955-2c15732c2bd2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde](https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde-a-d2fc4bfe-ea2a-4401-bb27-1da3e0f4767f#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/fall-fabian-in-guestrow-polizei-ermittelt-erneut-am-fundort-der-leiche](https://www.spiegel.de/panorama/justiz/fall-fabian-in-guestrow-polizei-ermittelt-erneut-am-fundort-der-leiche-a-e95da516-1f4b-4940-88f8-574e1fbc47d6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/pest-in-europa-im-mittelalter-vulkanausbruch-trug-offenbar-zu-pandemie-bei](https://www.spiegel.de/wissenschaft/pest-in-europa-im-mittelalter-vulkanausbruch-trug-offenbar-zu-pandemie-bei-a-ddced3d0-af94-499b-b032-774474b6a48a#ref=rss)
-* [https://www.spiegel.de/netzwelt/spotify-wrapped-2025-so-entsteht-das-musikalisches-alter](https://www.spiegel.de/netzwelt/spotify-wrapped-2025-so-entsteht-das-musikalisches-alter-a-7fa54c3e-d4ae-44cf-b507-cba8cb006c14#ref=rss)
-### haus
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wieso-schweigt-sie-obwohl-das-weisse-haus-ihre-musik-nutzt](https://www.spiegel.de/kultur/musik/taylor-swift-wieso-schweigt-sie-obwohl-das-weisse-haus-ihre-musik-nutzt-a-eb0360f3-cf66-4a65-ba7e-cb39e880c60e#ref=rss)
-* [https://www.spiegel.de/panorama/niedersachsen-bei-familie-jeronim-leuchten-621-weihnachtsbaeume-ein-rekord](https://www.spiegel.de/panorama/niedersachsen-bei-familie-jeronim-leuchten-621-weihnachtsbaeume-ein-rekord-a-893d37f4-a43f-44e3-8955-2c15732c2bd2#ref=rss)
-### donald
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wieso-schweigt-sie-obwohl-das-weisse-haus-ihre-musik-nutzt](https://www.spiegel.de/kultur/musik/taylor-swift-wieso-schweigt-sie-obwohl-das-weisse-haus-ihre-musik-nutzt-a-eb0360f3-cf66-4a65-ba7e-cb39e880c60e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-muell-migration-rentenstreit-thomas-gottschalk](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-muell-migration-rentenstreit-thomas-gottschalk-a-e40dfb2f-cf22-4fb5-8d02-57a8ab54f635#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-linkedin-profile-von-visa-bewerbern-pruefen](https://www.spiegel.de/ausland/usa-donald-trump-will-linkedin-profile-von-visa-bewerbern-pruefen-a-c6b67296-0d2e-4815-83c9-97b396f85816#ref=rss)
-### konsum
-
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-* [https://www.spiegel.de/wissenschaft/rauchen-und-alkohol-deutschland-tut-nur-wenig-gegen-konsum](https://www.spiegel.de/wissenschaft/rauchen-und-alkohol-deutschland-tut-nur-wenig-gegen-konsum-a-c7867f83-5689-4887-82ff-bce00784d282#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-* [https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-di](https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-diesen-tagen-urlaub-nehmen-a-1296909.html#ref=rss)
-### gottschalk
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-muell-migration-rentenstreit-thomas-gottschalk](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-muell-migration-rentenstreit-thomas-gottschalk-a-e40dfb2f-cf22-4fb5-8d02-57a8ab54f635#ref=rss)
-* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde](https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde-a-d2fc4bfe-ea2a-4401-bb27-1da3e0f4767f#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/justiz/magdeburg-mutter-des-getoeteten-jungen-sagt-im-prozess-gegen-todesfahrer-aus](https://www.spiegel.de/panorama/justiz/magdeburg-mutter-des-getoeteten-jungen-sagt-im-prozess-gegen-todesfahrer-aus-a-3358345b-7753-46b0-99e9-909ddbc224c2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-will-ligaverband-ohne-dfb-gruenden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-will-ligaverband-ohne-dfb-gruenden-a-386f8620-68aa-4a44-8690-8b2f70d2c164#ref=rss)
-### israel
-
-* [https://www.spiegel.de/kultur/musik/israel-kann-am-naechsten-eurovision-song-contest-teilnehmen](https://www.spiegel.de/kultur/musik/israel-kann-am-naechsten-eurovision-song-contest-teilnehmen-a-b759dd04-9dab-4766-acf6-2adf7f6f1c99#ref=rss)
-### eurovision
-
-* [https://www.spiegel.de/kultur/musik/israel-kann-am-naechsten-eurovision-song-contest-teilnehmen](https://www.spiegel.de/kultur/musik/israel-kann-am-naechsten-eurovision-song-contest-teilnehmen-a-b759dd04-9dab-4766-acf6-2adf7f6f1c99#ref=rss)
-### song
-
-* [https://www.spiegel.de/kultur/musik/israel-kann-am-naechsten-eurovision-song-contest-teilnehmen](https://www.spiegel.de/kultur/musik/israel-kann-am-naechsten-eurovision-song-contest-teilnehmen-a-b759dd04-9dab-4766-acf6-2adf7f6f1c99#ref=rss)
-### contest
-
-* [https://www.spiegel.de/kultur/musik/israel-kann-am-naechsten-eurovision-song-contest-teilnehmen](https://www.spiegel.de/kultur/musik/israel-kann-am-naechsten-eurovision-song-contest-teilnehmen-a-b759dd04-9dab-4766-acf6-2adf7f6f1c99#ref=rss)
-### teilnehmen
-
-* [https://www.spiegel.de/kultur/musik/israel-kann-am-naechsten-eurovision-song-contest-teilnehmen](https://www.spiegel.de/kultur/musik/israel-kann-am-naechsten-eurovision-song-contest-teilnehmen-a-b759dd04-9dab-4766-acf6-2adf7f6f1c99#ref=rss)
-### weg
-
-* [https://www.spiegel.de/kultur/musik/israel-kann-am-naechsten-eurovision-song-contest-teilnehmen](https://www.spiegel.de/kultur/musik/israel-kann-am-naechsten-eurovision-song-contest-teilnehmen-a-b759dd04-9dab-4766-acf6-2adf7f6f1c99#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/walter-luebcke-denkmal-vor-cdu-zentrale-ist-das-kunst-oder-muss-das-weg](https://www.spiegel.de/politik/deutschland/walter-luebcke-denkmal-vor-cdu-zentrale-ist-das-kunst-oder-muss-das-weg-a-010a85de-5d28-46dc-984c-6140f1854603#ref=rss)
-### fall
-
-* [https://www.spiegel.de/panorama/justiz/fall-fabian-in-guestrow-polizei-ermittelt-erneut-am-fundort-der-leiche](https://www.spiegel.de/panorama/justiz/fall-fabian-in-guestrow-polizei-ermittelt-erneut-am-fundort-der-leiche-a-e95da516-1f4b-4940-88f8-574e1fbc47d6#ref=rss)
-* [https://www.spiegel.de/ausland/washington-fbi-nimmt-verdaechtigen-fest-der-vor-sturm-aufs-kapitol-rohrbomben-versteckt-haben-soll](https://www.spiegel.de/ausland/washington-fbi-nimmt-verdaechtigen-fest-der-vor-sturm-aufs-kapitol-rohrbomben-versteckt-haben-soll-a-d6ebb363-cb1d-4a38-8363-2cca7b3d2f3e#ref=rss)
-### fabian
-
-* [https://www.spiegel.de/panorama/justiz/fall-fabian-in-guestrow-polizei-ermittelt-erneut-am-fundort-der-leiche](https://www.spiegel.de/panorama/justiz/fall-fabian-in-guestrow-polizei-ermittelt-erneut-am-fundort-der-leiche-a-e95da516-1f4b-4940-88f8-574e1fbc47d6#ref=rss)
-### getöteten
-
-* [https://www.spiegel.de/panorama/justiz/fall-fabian-in-guestrow-polizei-ermittelt-erneut-am-fundort-der-leiche](https://www.spiegel.de/panorama/justiz/fall-fabian-in-guestrow-polizei-ermittelt-erneut-am-fundort-der-leiche-a-e95da516-1f4b-4940-88f8-574e1fbc47d6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-mutter-des-getoeteten-jungen-sagt-im-prozess-gegen-todesfahrer-aus](https://www.spiegel.de/panorama/justiz/magdeburg-mutter-des-getoeteten-jungen-sagt-im-prozess-gegen-todesfahrer-aus-a-3358345b-7753-46b0-99e9-909ddbc224c2#ref=rss)
-### jungen
-
-* [https://www.spiegel.de/panorama/justiz/fall-fabian-in-guestrow-polizei-ermittelt-erneut-am-fundort-der-leiche](https://www.spiegel.de/panorama/justiz/fall-fabian-in-guestrow-polizei-ermittelt-erneut-am-fundort-der-leiche-a-e95da516-1f4b-4940-88f8-574e1fbc47d6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-mutter-des-getoeteten-jungen-sagt-im-prozess-gegen-todesfahrer-aus](https://www.spiegel.de/panorama/justiz/magdeburg-mutter-des-getoeteten-jungen-sagt-im-prozess-gegen-todesfahrer-aus-a-3358345b-7753-46b0-99e9-909ddbc224c2#ref=rss)
-### strom
-
-* [https://www.spiegel.de/wirtschaft/soziales/strom-und-waermenetze-betreiber-muessen-rund-68-milliarden-euro-auftreiben](https://www.spiegel.de/wirtschaft/soziales/strom-und-waermenetze-betreiber-muessen-rund-68-milliarden-euro-auftreiben-a-e7a9b568-0098-41bf-9dc9-db8d2905171f#ref=rss)
-### wärmenetze
-
-* [https://www.spiegel.de/wirtschaft/soziales/strom-und-waermenetze-betreiber-muessen-rund-68-milliarden-euro-auftreiben](https://www.spiegel.de/wirtschaft/soziales/strom-und-waermenetze-betreiber-muessen-rund-68-milliarden-euro-auftreiben-a-e7a9b568-0098-41bf-9dc9-db8d2905171f#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/soziales/strom-und-waermenetze-betreiber-muessen-rund-68-milliarden-euro-auftreiben](https://www.spiegel.de/wirtschaft/soziales/strom-und-waermenetze-betreiber-muessen-rund-68-milliarden-euro-auftreiben-a-e7a9b568-0098-41bf-9dc9-db8d2905171f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-will-ligaverband-ohne-dfb-gruenden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-will-ligaverband-ohne-dfb-gruenden-a-386f8620-68aa-4a44-8690-8b2f70d2c164#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/soziales/strom-und-waermenetze-betreiber-muessen-rund-68-milliarden-euro-auftreiben](https://www.spiegel.de/wirtschaft/soziales/strom-und-waermenetze-betreiber-muessen-rund-68-milliarden-euro-auftreiben-a-e7a9b568-0098-41bf-9dc9-db8d2905171f#ref=rss)
-* [https://www.spiegel.de/ausland/england-vladimir-putin-traegt-laut-london-moralische-verantwortung-fuer-nowitschok-anschlag](https://www.spiegel.de/ausland/england-vladimir-putin-traegt-laut-london-moralische-verantwortung-fuer-nowitschok-anschlag-a-3be1b6b8-f725-4299-96cf-a00afec816b6#ref=rss)
-### studie
-
-* [https://www.spiegel.de/wirtschaft/soziales/strom-und-waermenetze-betreiber-muessen-rund-68-milliarden-euro-auftreiben](https://www.spiegel.de/wirtschaft/soziales/strom-und-waermenetze-betreiber-muessen-rund-68-milliarden-euro-auftreiben-a-e7a9b568-0098-41bf-9dc9-db8d2905171f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/afd-forscherin-eva-walther-das-ist-die-einfachste-form-der-selbstaufwertung](https://www.spiegel.de/wissenschaft/mensch/afd-forscherin-eva-walther-das-ist-die-einfachste-form-der-selbstaufwertung-a-ba2a5a7c-33e3-4674-82f8-7ec295196d2a#ref=rss)
-### dubai
-
-* [https://www.spiegel.de/ausland/sorgerechtsstreit-im-koenigshaus-von-dubai-retten-sie-mich-und-meine-kinder](https://www.spiegel.de/ausland/sorgerechtsstreit-im-koenigshaus-von-dubai-retten-sie-mich-und-meine-kinder-a-b0e0e1bf-1c93-4d34-9d87-cf9d59adb452#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/ausland/sorgerechtsstreit-im-koenigshaus-von-dubai-retten-sie-mich-und-meine-kinder](https://www.spiegel.de/ausland/sorgerechtsstreit-im-koenigshaus-von-dubai-retten-sie-mich-und-meine-kinder-a-b0e0e1bf-1c93-4d34-9d87-cf9d59adb452#ref=rss)
-### entwicklung
-
-* [https://www.spiegel.de/ausland/sorgerechtsstreit-im-koenigshaus-von-dubai-retten-sie-mich-und-meine-kinder](https://www.spiegel.de/ausland/sorgerechtsstreit-im-koenigshaus-von-dubai-retten-sie-mich-und-meine-kinder-a-b0e0e1bf-1c93-4d34-9d87-cf9d59adb452#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-will-ligaverband-ohne-dfb-gruenden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-will-ligaverband-ohne-dfb-gruenden-a-386f8620-68aa-4a44-8690-8b2f70d2c164#ref=rss)
-### swift
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wieso-schweigt-sie-obwohl-das-weisse-haus-ihre-musik-nutzt](https://www.spiegel.de/kultur/musik/taylor-swift-wieso-schweigt-sie-obwohl-das-weisse-haus-ihre-musik-nutzt-a-eb0360f3-cf66-4a65-ba7e-cb39e880c60e#ref=rss)
-### weiße
-
-* [https://www.spiegel.de/kultur/musik/taylor-swift-wieso-schweigt-sie-obwohl-das-weisse-haus-ihre-musik-nutzt](https://www.spiegel.de/kultur/musik/taylor-swift-wieso-schweigt-sie-obwohl-das-weisse-haus-ihre-musik-nutzt-a-eb0360f3-cf66-4a65-ba7e-cb39e880c60e#ref=rss)
-### pest
-
-* [https://www.spiegel.de/wissenschaft/pest-in-europa-im-mittelalter-vulkanausbruch-trug-offenbar-zu-pandemie-bei](https://www.spiegel.de/wissenschaft/pest-in-europa-im-mittelalter-vulkanausbruch-trug-offenbar-zu-pandemie-bei-a-ddced3d0-af94-499b-b032-774474b6a48a#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wissenschaft/pest-in-europa-im-mittelalter-vulkanausbruch-trug-offenbar-zu-pandemie-bei](https://www.spiegel.de/wissenschaft/pest-in-europa-im-mittelalter-vulkanausbruch-trug-offenbar-zu-pandemie-bei-a-ddced3d0-af94-499b-b032-774474b6a48a#ref=rss)
-### vulkanausbruch
-
-* [https://www.spiegel.de/wissenschaft/pest-in-europa-im-mittelalter-vulkanausbruch-trug-offenbar-zu-pandemie-bei](https://www.spiegel.de/wissenschaft/pest-in-europa-im-mittelalter-vulkanausbruch-trug-offenbar-zu-pandemie-bei-a-ddced3d0-af94-499b-b032-774474b6a48a#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wissenschaft/pest-in-europa-im-mittelalter-vulkanausbruch-trug-offenbar-zu-pandemie-bei](https://www.spiegel.de/wissenschaft/pest-in-europa-im-mittelalter-vulkanausbruch-trug-offenbar-zu-pandemie-bei-a-ddced3d0-af94-499b-b032-774474b6a48a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-will-ligaverband-ohne-dfb-gruenden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-will-ligaverband-ohne-dfb-gruenden-a-386f8620-68aa-4a44-8690-8b2f70d2c164#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab](https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab-a-5afa3f57-2c96-4d55-858b-78e85a8f1570#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig](https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig-a-4bc33572-87bc-42c1-bfbe-620df7fd8693#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/wissenschaft/pest-in-europa-im-mittelalter-vulkanausbruch-trug-offenbar-zu-pandemie-bei](https://www.spiegel.de/wissenschaft/pest-in-europa-im-mittelalter-vulkanausbruch-trug-offenbar-zu-pandemie-bei-a-ddced3d0-af94-499b-b032-774474b6a48a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/afd-forscherin-eva-walther-das-ist-die-einfachste-form-der-selbstaufwertung](https://www.spiegel.de/wissenschaft/mensch/afd-forscherin-eva-walther-das-ist-die-einfachste-form-der-selbstaufwertung-a-ba2a5a7c-33e3-4674-82f8-7ec295196d2a#ref=rss)
-### dresden
+* [https://www.spiegel.de/panorama/stimmen-zum-protest-gegen-die-wehrpflicht-das-sagen-schueler-zur-wehrdienstreform](https://www.spiegel.de/panorama/stimmen-zum-protest-gegen-die-wehrpflicht-das-sagen-schueler-zur-wehrdienstreform-a-19f61efd-a10e-4a56-8bb8-48575f939f2b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor](https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor-a-33a2cbc4-300e-4f13-8d09-a43cd37adf1c#ref=rss)
+* [https://www.spiegel.de/panorama/griechenland-sturm-trifft-aegaeis-und-sorgt-fuer-ueberflutete-strassen-und-geschlossene-schulen](https://www.spiegel.de/panorama/griechenland-sturm-trifft-aegaeis-und-sorgt-fuer-ueberflutete-strassen-und-geschlossene-schulen-a-53d01685-0e5a-4781-8ef6-b0c8c6fef3c6#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/panorama/justiz/nsu-prozess-in-dresden-die-zeugin-beate-zschaepe-und-die-tochter-des-ermordeten](https://www.spiegel.de/panorama/justiz/nsu-prozess-in-dresden-die-zeugin-beate-zschaepe-und-die-tochter-des-ermordeten-a-07ff834a-8f66-43e1-881e-3721917617c8#ref=rss)
-* [https://www.spiegel.de/reise/staedte/staedtereise-im-dezember-quedlinburg-oeffnet-sich-zum-advent-in-den-hoefen](https://www.spiegel.de/reise/staedte/staedtereise-im-dezember-quedlinburg-oeffnet-sich-zum-advent-in-den-hoefen-a-c79aa6a7-e082-4d41-9d7a-cf995bd76d0d#ref=rss)
-### zeugin
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-afghanischer-ex-richter-erzielt-teilerfolg](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-afghanischer-ex-richter-erzielt-teilerfolg-a-837ecf6a-e272-403c-b6f9-19f58d31071a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen](https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen-a-eba4fe8c-2691-4bde-bc1d-44af4e43dd7b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/panorama/justiz/nsu-prozess-in-dresden-die-zeugin-beate-zschaepe-und-die-tochter-des-ermordeten](https://www.spiegel.de/panorama/justiz/nsu-prozess-in-dresden-die-zeugin-beate-zschaepe-und-die-tochter-des-ermordeten-a-07ff834a-8f66-43e1-881e-3721917617c8#ref=rss)
-### beate
+* [https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025](https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025-a-2d80fb9c-4edd-45da-8710-f9a5d29fa070#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert-a-9d683986-fbcd-44f0-91a2-1687695535ef#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/justiz/nsu-prozess-in-dresden-die-zeugin-beate-zschaepe-und-die-tochter-des-ermordeten](https://www.spiegel.de/panorama/justiz/nsu-prozess-in-dresden-die-zeugin-beate-zschaepe-und-die-tochter-des-ermordeten-a-07ff834a-8f66-43e1-881e-3721917617c8#ref=rss)
-### zschäpe
+* [https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu](https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu-a-80aa740c-c7f3-402b-a91e-a12428f0e692#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab](https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab-a-5afa3f57-2c96-4d55-858b-78e85a8f1570#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump](https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump-a-00c331ed-13cb-4936-9154-5c54f423ffe7#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/justiz/nsu-prozess-in-dresden-die-zeugin-beate-zschaepe-und-die-tochter-des-ermordeten](https://www.spiegel.de/panorama/justiz/nsu-prozess-in-dresden-die-zeugin-beate-zschaepe-und-die-tochter-des-ermordeten-a-07ff834a-8f66-43e1-881e-3721917617c8#ref=rss)
-### tochter
+* [https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu](https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu-a-80aa740c-c7f3-402b-a91e-a12428f0e692#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab](https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab-a-5afa3f57-2c96-4d55-858b-78e85a8f1570#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump](https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump-a-00c331ed-13cb-4936-9154-5c54f423ffe7#ref=rss)
+### schüler
 
-* [https://www.spiegel.de/panorama/justiz/nsu-prozess-in-dresden-die-zeugin-beate-zschaepe-und-die-tochter-des-ermordeten](https://www.spiegel.de/panorama/justiz/nsu-prozess-in-dresden-die-zeugin-beate-zschaepe-und-die-tochter-des-ermordeten-a-07ff834a-8f66-43e1-881e-3721917617c8#ref=rss)
-### prozess
+* [https://www.spiegel.de/panorama/stimmen-zum-protest-gegen-die-wehrpflicht-das-sagen-schueler-zur-wehrdienstreform](https://www.spiegel.de/panorama/stimmen-zum-protest-gegen-die-wehrpflicht-das-sagen-schueler-zur-wehrdienstreform-a-19f61efd-a10e-4a56-8bb8-48575f939f2b#ref=rss)
+### wehrdienstreform
 
-* [https://www.spiegel.de/panorama/justiz/nsu-prozess-in-dresden-die-zeugin-beate-zschaepe-und-die-tochter-des-ermordeten](https://www.spiegel.de/panorama/justiz/nsu-prozess-in-dresden-die-zeugin-beate-zschaepe-und-die-tochter-des-ermordeten-a-07ff834a-8f66-43e1-881e-3721917617c8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-mutter-des-getoeteten-jungen-sagt-im-prozess-gegen-todesfahrer-aus](https://www.spiegel.de/panorama/justiz/magdeburg-mutter-des-getoeteten-jungen-sagt-im-prozess-gegen-todesfahrer-aus-a-3358345b-7753-46b0-99e9-909ddbc224c2#ref=rss)
-### sagt
+* [https://www.spiegel.de/panorama/stimmen-zum-protest-gegen-die-wehrpflicht-das-sagen-schueler-zur-wehrdienstreform](https://www.spiegel.de/panorama/stimmen-zum-protest-gegen-die-wehrpflicht-das-sagen-schueler-zur-wehrdienstreform-a-19f61efd-a10e-4a56-8bb8-48575f939f2b#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/panorama/justiz/nsu-prozess-in-dresden-die-zeugin-beate-zschaepe-und-die-tochter-des-ermordeten](https://www.spiegel.de/panorama/justiz/nsu-prozess-in-dresden-die-zeugin-beate-zschaepe-und-die-tochter-des-ermordeten-a-07ff834a-8f66-43e1-881e-3721917617c8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/magdeburg-mutter-des-getoeteten-jungen-sagt-im-prozess-gegen-todesfahrer-aus](https://www.spiegel.de/panorama/justiz/magdeburg-mutter-des-getoeteten-jungen-sagt-im-prozess-gegen-todesfahrer-aus-a-3358345b-7753-46b0-99e9-909ddbc224c2#ref=rss)
-### kokainschwemme
+* [https://www.spiegel.de/politik/bundestag-so-laeuft-die-abstimmung-zur-neuen-wehrpflicht-und-dem-rentenpaket-liveblog](https://www.spiegel.de/politik/bundestag-so-laeuft-die-abstimmung-zur-neuen-wehrpflicht-und-dem-rentenpaket-liveblog-a-82793fd9-7efd-4a2f-9ff8-46ee84a7307d#ref=rss)
+### rente
 
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-### kolumbien
+* [https://www.spiegel.de/politik/bundestag-so-laeuft-die-abstimmung-zur-neuen-wehrpflicht-und-dem-rentenpaket-liveblog](https://www.spiegel.de/politik/bundestag-so-laeuft-die-abstimmung-zur-neuen-wehrpflicht-und-dem-rentenpaket-liveblog-a-82793fd9-7efd-4a2f-9ff8-46ee84a7307d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen](https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen-a-eba4fe8c-2691-4bde-bc1d-44af4e43dd7b#ref=rss)
+### rentenpaket
 
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-### haftbefehldoku
+* [https://www.spiegel.de/politik/bundestag-so-laeuft-die-abstimmung-zur-neuen-wehrpflicht-und-dem-rentenpaket-liveblog](https://www.spiegel.de/politik/bundestag-so-laeuft-die-abstimmung-zur-neuen-wehrpflicht-und-dem-rentenpaket-liveblog-a-82793fd9-7efd-4a2f-9ff8-46ee84a7307d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen](https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen-a-eba4fe8c-2691-4bde-bc1d-44af4e43dd7b#ref=rss)
+### mailand
 
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-### schäden
+* [https://www.spiegel.de/reise/mailand-verbietet-schluesselkaesten-fuer-ferienwohnungen](https://www.spiegel.de/reise/mailand-verbietet-schluesselkaesten-fuer-ferienwohnungen-a-a29db7c6-f6f7-42fe-a6d4-71ff04966538#ref=rss)
+### schlüsselkästen
 
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-### koks
+* [https://www.spiegel.de/reise/mailand-verbietet-schluesselkaesten-fuer-ferienwohnungen](https://www.spiegel.de/reise/mailand-verbietet-schluesselkaesten-fuer-ferienwohnungen-a-a29db7c6-f6f7-42fe-a6d4-71ff04966538#ref=rss)
+### ferienwohnungen
 
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-### anrichten
+* [https://www.spiegel.de/reise/mailand-verbietet-schluesselkaesten-fuer-ferienwohnungen](https://www.spiegel.de/reise/mailand-verbietet-schluesselkaesten-fuer-ferienwohnungen-a-a29db7c6-f6f7-42fe-a6d4-71ff04966538#ref=rss)
+### los
 
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-### kokain
+* [https://www.spiegel.de/ausland/ukraine-krieg-was-putins-drohnentaktik-so-effektiv-macht](https://www.spiegel.de/ausland/ukraine-krieg-was-putins-drohnentaktik-so-effektiv-macht-a-7ba31612-f538-4568-afcc-a01e38e55319#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig](https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig-a-4bc33572-87bc-42c1-bfbe-620df7fd8693#ref=rss)
+### zunehmend
 
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-### günstiger
+* [https://www.spiegel.de/ausland/ukraine-krieg-was-putins-drohnentaktik-so-effektiv-macht](https://www.spiegel.de/ausland/ukraine-krieg-was-putins-drohnentaktik-so-effektiv-macht-a-7ba31612-f538-4568-afcc-a01e38e55319#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu](https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu-a-80aa740c-c7f3-402b-a91e-a12428f0e692#ref=rss)
+### lopes
 
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-### kriminelle
+* [https://www.spiegel.de/panorama/leute/luana-lopes-lara-ballerina-wird-mit-kalshi-juengste-selfmade-milliardaerin](https://www.spiegel.de/panorama/leute/luana-lopes-lara-ballerina-wird-mit-kalshi-juengste-selfmade-milliardaerin-a-b126f7b9-1060-4970-b763-17fb65e4a631#ref=rss)
+### lara
 
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-### netzwerke
+* [https://www.spiegel.de/panorama/leute/luana-lopes-lara-ballerina-wird-mit-kalshi-juengste-selfmade-milliardaerin](https://www.spiegel.de/panorama/leute/luana-lopes-lara-ballerina-wird-mit-kalshi-juengste-selfmade-milliardaerin-a-b126f7b9-1060-4970-b763-17fb65e4a631#ref=rss)
+### ballerina
 
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-### fluten
+* [https://www.spiegel.de/panorama/leute/luana-lopes-lara-ballerina-wird-mit-kalshi-juengste-selfmade-milliardaerin](https://www.spiegel.de/panorama/leute/luana-lopes-lara-ballerina-wird-mit-kalshi-juengste-selfmade-milliardaerin-a-b126f7b9-1060-4970-b763-17fb65e4a631#ref=rss)
+### jüngste
 
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-### markt
+* [https://www.spiegel.de/panorama/leute/luana-lopes-lara-ballerina-wird-mit-kalshi-juengste-selfmade-milliardaerin](https://www.spiegel.de/panorama/leute/luana-lopes-lara-ballerina-wird-mit-kalshi-juengste-selfmade-milliardaerin-a-b126f7b9-1060-4970-b763-17fb65e4a631#ref=rss)
+* [https://www.spiegel.de/sport/schach/indien-dreijaehriger-stellt-schach-rekord-auf](https://www.spiegel.de/sport/schach/indien-dreijaehriger-stellt-schach-rekord-auf-a-19ac45a9-bb4c-4166-a616-f1d0a93f849a#ref=rss)
+### selenskyj
 
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-### agieren
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-drohnensichtung-nahe-der-flugroute-bei-dublin-besuch](https://www.spiegel.de/ausland/wolodymyr-selenskyj-drohnensichtung-nahe-der-flugroute-bei-dublin-besuch-a-b516c81d-58b6-4260-a49c-dc9d446a994d#ref=rss)
+### flugroute
 
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-### globale
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-drohnensichtung-nahe-der-flugroute-bei-dublin-besuch](https://www.spiegel.de/ausland/wolodymyr-selenskyj-drohnensichtung-nahe-der-flugroute-bei-dublin-besuch-a-b516c81d-58b6-4260-a49c-dc9d446a994d#ref=rss)
+### melden
 
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-podcast-a-b6fce20c-a42d-44d6-b104-ad81acd470f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland](https://www.spiegel.de/wirtschaft/kokain-schwemme-von-kartellen-in-kolumbien-zum-konsum-in-deutschland-a-5d350cd4-693f-4f63-a96c-fe8825090c46#ref=rss)
-### neuauszählung
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-drohnensichtung-nahe-der-flugroute-bei-dublin-besuch](https://www.spiegel.de/ausland/wolodymyr-selenskyj-drohnensichtung-nahe-der-flugroute-bei-dublin-besuch-a-b516c81d-58b6-4260-a49c-dc9d446a994d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lebensmitteltafeln-melden-mehr-ehrenamtliche-helfer](https://www.spiegel.de/wirtschaft/lebensmitteltafeln-melden-mehr-ehrenamtliche-helfer-a-23cfc0e8-7b74-4fa4-954f-864dabad1da3#ref=rss)
+### neuseeland
 
-* [https://www.spiegel.de/politik/deutschland/rueckschlag-fuers-bsw-wahlausschuss-plaediert-gegen-neuauszaehlung-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/rueckschlag-fuers-bsw-wahlausschuss-plaediert-gegen-neuauszaehlung-der-bundestagswahl-a-8e7f4e04-674d-4789-bd58-2369c1078aad#ref=rss)
-### spotify
+* [https://www.spiegel.de/panorama/justiz/unter-polizeibeobachtung-in-neuseeland-von-dieb-verschlucktes-faberge-ei-ist-wieder-raus](https://www.spiegel.de/panorama/justiz/unter-polizeibeobachtung-in-neuseeland-von-dieb-verschlucktes-faberge-ei-ist-wieder-raus-a-a71869ed-2989-4df4-91c9-79211f573e08#ref=rss)
+### dieb
 
-* [https://www.spiegel.de/netzwelt/spotify-wrapped-2025-so-entsteht-das-musikalisches-alter](https://www.spiegel.de/netzwelt/spotify-wrapped-2025-so-entsteht-das-musikalisches-alter-a-7fa54c3e-d4ae-44cf-b507-cba8cb006c14#ref=rss)
-### alter
+* [https://www.spiegel.de/panorama/justiz/unter-polizeibeobachtung-in-neuseeland-von-dieb-verschlucktes-faberge-ei-ist-wieder-raus](https://www.spiegel.de/panorama/justiz/unter-polizeibeobachtung-in-neuseeland-von-dieb-verschlucktes-faberge-ei-ist-wieder-raus-a-a71869ed-2989-4df4-91c9-79211f573e08#ref=rss)
+### maut
 
-* [https://www.spiegel.de/netzwelt/spotify-wrapped-2025-so-entsteht-das-musikalisches-alter](https://www.spiegel.de/netzwelt/spotify-wrapped-2025-so-entsteht-das-musikalisches-alter-a-7fa54c3e-d4ae-44cf-b507-cba8cb006c14#ref=rss)
-### müll
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-muell-migration-rentenstreit-thomas-gottschalk](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-muell-migration-rentenstreit-thomas-gottschalk-a-e40dfb2f-cf22-4fb5-8d02-57a8ab54f635#ref=rss)
-### rentenstreit
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-muell-migration-rentenstreit-thomas-gottschalk](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-muell-migration-rentenstreit-thomas-gottschalk-a-e40dfb2f-cf22-4fb5-8d02-57a8ab54f635#ref=rss)
-### steinmeier
-
-* [https://www.spiegel.de/politik/frank-walter-steinmeier-in-grossbritannien-dann-zitiert-er-die-band-oasis](https://www.spiegel.de/politik/frank-walter-steinmeier-in-grossbritannien-dann-zitiert-er-die-band-oasis-a-0956fb80-aaa4-4e3e-ad7d-6515ac4946fa#ref=rss)
-### quedlinburg
-
-* [https://www.spiegel.de/reise/staedte/staedtereise-im-dezember-quedlinburg-oeffnet-sich-zum-advent-in-den-hoefen](https://www.spiegel.de/reise/staedte/staedtereise-im-dezember-quedlinburg-oeffnet-sich-zum-advent-in-den-hoefen-a-c79aa6a7-e082-4d41-9d7a-cf995bd76d0d#ref=rss)
-### advent
-
-* [https://www.spiegel.de/reise/staedte/staedtereise-im-dezember-quedlinburg-oeffnet-sich-zum-advent-in-den-hoefen](https://www.spiegel.de/reise/staedte/staedtereise-im-dezember-quedlinburg-oeffnet-sich-zum-advent-in-den-hoefen-a-c79aa6a7-e082-4d41-9d7a-cf995bd76d0d#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/reise/staedte/staedtereise-im-dezember-quedlinburg-oeffnet-sich-zum-advent-in-den-hoefen](https://www.spiegel.de/reise/staedte/staedtereise-im-dezember-quedlinburg-oeffnet-sich-zum-advent-in-den-hoefen-a-c79aa6a7-e082-4d41-9d7a-cf995bd76d0d#ref=rss)
-* [https://www.spiegel.de/auto/tuev-eu-staaten-lehnen-jaehrliche-pflichtpruefung-aelterer-autos-ab](https://www.spiegel.de/auto/tuev-eu-staaten-lehnen-jaehrliche-pflichtpruefung-aelterer-autos-ab-a-44f6c9a7-e3c1-4cd0-91f0-18c4cb301fb4#ref=rss)
-### eva
-
-* [https://www.spiegel.de/wissenschaft/mensch/afd-forscherin-eva-walther-das-ist-die-einfachste-form-der-selbstaufwertung](https://www.spiegel.de/wissenschaft/mensch/afd-forscherin-eva-walther-das-ist-die-einfachste-form-der-selbstaufwertung-a-ba2a5a7c-33e3-4674-82f8-7ec295196d2a#ref=rss)
-### walther
-
-* [https://www.spiegel.de/wissenschaft/mensch/afd-forscherin-eva-walther-das-ist-die-einfachste-form-der-selbstaufwertung](https://www.spiegel.de/wissenschaft/mensch/afd-forscherin-eva-walther-das-ist-die-einfachste-form-der-selbstaufwertung-a-ba2a5a7c-33e3-4674-82f8-7ec295196d2a#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wissenschaft/mensch/afd-forscherin-eva-walther-das-ist-die-einfachste-form-der-selbstaufwertung](https://www.spiegel.de/wissenschaft/mensch/afd-forscherin-eva-walther-das-ist-die-einfachste-form-der-selbstaufwertung-a-ba2a5a7c-33e3-4674-82f8-7ec295196d2a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-linkedin-profile-von-visa-bewerbern-pruefen](https://www.spiegel.de/ausland/usa-donald-trump-will-linkedin-profile-von-visa-bewerbern-pruefen-a-c6b67296-0d2e-4815-83c9-97b396f85816#ref=rss)
-### walterlübckedenkmal
-
-* [https://www.spiegel.de/politik/deutschland/walter-luebcke-denkmal-vor-cdu-zentrale-ist-das-kunst-oder-muss-das-weg](https://www.spiegel.de/politik/deutschland/walter-luebcke-denkmal-vor-cdu-zentrale-ist-das-kunst-oder-muss-das-weg-a-010a85de-5d28-46dc-984c-6140f1854603#ref=rss)
-### cduzentrale
-
-* [https://www.spiegel.de/politik/deutschland/walter-luebcke-denkmal-vor-cdu-zentrale-ist-das-kunst-oder-muss-das-weg](https://www.spiegel.de/politik/deutschland/walter-luebcke-denkmal-vor-cdu-zentrale-ist-das-kunst-oder-muss-das-weg-a-010a85de-5d28-46dc-984c-6140f1854603#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/walter-luebcke-denkmal-vor-cdu-zentrale-ist-das-kunst-oder-muss-das-weg](https://www.spiegel.de/politik/deutschland/walter-luebcke-denkmal-vor-cdu-zentrale-ist-das-kunst-oder-muss-das-weg-a-010a85de-5d28-46dc-984c-6140f1854603#ref=rss)
-* [https://www.spiegel.de/ausland/washington-fbi-nimmt-verdaechtigen-fest-der-vor-sturm-aufs-kapitol-rohrbomben-versteckt-haben-soll](https://www.spiegel.de/ausland/washington-fbi-nimmt-verdaechtigen-fest-der-vor-sturm-aufs-kapitol-rohrbomben-versteckt-haben-soll-a-d6ebb363-cb1d-4a38-8363-2cca7b3d2f3e#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/politik/deutschland/walter-luebcke-denkmal-vor-cdu-zentrale-ist-das-kunst-oder-muss-das-weg](https://www.spiegel.de/politik/deutschland/walter-luebcke-denkmal-vor-cdu-zentrale-ist-das-kunst-oder-muss-das-weg-a-010a85de-5d28-46dc-984c-6140f1854603#ref=rss)
-* [https://www.spiegel.de/ausland/washington-fbi-nimmt-verdaechtigen-fest-der-vor-sturm-aufs-kapitol-rohrbomben-versteckt-haben-soll](https://www.spiegel.de/ausland/washington-fbi-nimmt-verdaechtigen-fest-der-vor-sturm-aufs-kapitol-rohrbomben-versteckt-haben-soll-a-d6ebb363-cb1d-4a38-8363-2cca7b3d2f3e#ref=rss)
-### london
-
-* [https://www.spiegel.de/ausland/england-vladimir-putin-traegt-laut-london-moralische-verantwortung-fuer-nowitschok-anschlag](https://www.spiegel.de/ausland/england-vladimir-putin-traegt-laut-london-moralische-verantwortung-fuer-nowitschok-anschlag-a-3be1b6b8-f725-4299-96cf-a00afec816b6#ref=rss)
-### heiligabend
-
-* [https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-di](https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-diesen-tagen-urlaub-nehmen-a-1296909.html#ref=rss)
-### silvester
-
-* [https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-di](https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-diesen-tagen-urlaub-nehmen-a-1296909.html#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-di](https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-diesen-tagen-urlaub-nehmen-a-1296909.html#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-di](https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-diesen-tagen-urlaub-nehmen-a-1296909.html#ref=rss)
-* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde](https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde-a-d2fc4bfe-ea2a-4401-bb27-1da3e0f4767f#ref=rss)
-### jeromin
-
-* [https://www.spiegel.de/panorama/niedersachsen-bei-familie-jeronim-leuchten-621-weihnachtsbaeume-ein-rekord](https://www.spiegel.de/panorama/niedersachsen-bei-familie-jeronim-leuchten-621-weihnachtsbaeume-ein-rekord-a-893d37f4-a43f-44e3-8955-2c15732c2bd2#ref=rss)
-### weihnachtsbäume
-
-* [https://www.spiegel.de/panorama/niedersachsen-bei-familie-jeronim-leuchten-621-weihnachtsbaeume-ein-rekord](https://www.spiegel.de/panorama/niedersachsen-bei-familie-jeronim-leuchten-621-weihnachtsbaeume-ein-rekord-a-893d37f4-a43f-44e3-8955-2c15732c2bd2#ref=rss)
-### sachsen
-
-* [https://www.spiegel.de/panorama/sachsen-landesregierung-zieht-gegen-landesrichter-vor-gericht](https://www.spiegel.de/panorama/sachsen-landesregierung-zieht-gegen-landesrichter-vor-gericht-a-015df1b6-8cad-4866-b8c3-27594f3a47dc#ref=rss)
-### beendet
-
-* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde](https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde-a-d2fc4bfe-ea2a-4401-bb27-1da3e0f4767f#ref=rss)
-### karriere
-
-* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde](https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde-a-d2fc4bfe-ea2a-4401-bb27-1da3e0f4767f#ref=rss)
-### krebserkrankung
-
-* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde](https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde-a-d2fc4bfe-ea2a-4401-bb27-1da3e0f4767f#ref=rss)
-### gelingt
-
-* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde](https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde-a-d2fc4bfe-ea2a-4401-bb27-1da3e0f4767f#ref=rss)
-### rtl
-
-* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde](https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde-a-d2fc4bfe-ea2a-4401-bb27-1da3e0f4767f#ref=rss)
-### abschied
-
-* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde](https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde-a-d2fc4bfe-ea2a-4401-bb27-1da3e0f4767f#ref=rss)
-### würde
-
-* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde](https://www.spiegel.de/wirtschaft/thomas-gottschalk-beendet-karriere-wegen-krebserkrankung-gelingt-rtl-ein-abschied-mit-wuerde-a-d2fc4bfe-ea2a-4401-bb27-1da3e0f4767f#ref=rss)
-### tüv
-
-* [https://www.spiegel.de/auto/tuev-eu-staaten-lehnen-jaehrliche-pflichtpruefung-aelterer-autos-ab](https://www.spiegel.de/auto/tuev-eu-staaten-lehnen-jaehrliche-pflichtpruefung-aelterer-autos-ab-a-44f6c9a7-e3c1-4cd0-91f0-18c4cb301fb4#ref=rss)
-### autos
-
-* [https://www.spiegel.de/auto/tuev-eu-staaten-lehnen-jaehrliche-pflichtpruefung-aelterer-autos-ab](https://www.spiegel.de/auto/tuev-eu-staaten-lehnen-jaehrliche-pflichtpruefung-aelterer-autos-ab-a-44f6c9a7-e3c1-4cd0-91f0-18c4cb301fb4#ref=rss)
+* [https://www.spiegel.de/auto/italien-maut-auf-autobahn-wird-kuenftig-bei-langem-stau-erstattet](https://www.spiegel.de/auto/italien-maut-auf-autobahn-wird-kuenftig-bei-langem-stau-erstattet-a-a476688f-4674-43a7-8d5a-1aa9e3cad66b#ref=rss)
 ### künftig
 
-* [https://www.spiegel.de/auto/tuev-eu-staaten-lehnen-jaehrliche-pflichtpruefung-aelterer-autos-ab](https://www.spiegel.de/auto/tuev-eu-staaten-lehnen-jaehrliche-pflichtpruefung-aelterer-autos-ab-a-44f6c9a7-e3c1-4cd0-91f0-18c4cb301fb4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/n26-smartphone-bank-unterstuetzt-bezahldienst-wero](https://www.spiegel.de/wirtschaft/service/n26-smartphone-bank-unterstuetzt-bezahldienst-wero-a-d58380ac-e8b3-48d4-94a8-a5b5d90465d7#ref=rss)
-### linkedinprofile
+* [https://www.spiegel.de/auto/italien-maut-auf-autobahn-wird-kuenftig-bei-langem-stau-erstattet](https://www.spiegel.de/auto/italien-maut-auf-autobahn-wird-kuenftig-bei-langem-stau-erstattet-a-a476688f-4674-43a7-8d5a-1aa9e3cad66b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
+### bundesverfassungsgericht
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-linkedin-profile-von-visa-bewerbern-pruefen](https://www.spiegel.de/ausland/usa-donald-trump-will-linkedin-profile-von-visa-bewerbern-pruefen-a-c6b67296-0d2e-4815-83c9-97b396f85816#ref=rss)
-### mutter
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-afghanischer-ex-richter-erzielt-teilerfolg](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-afghanischer-ex-richter-erzielt-teilerfolg-a-837ecf6a-e272-403c-b6f9-19f58d31071a#ref=rss)
+### kiära
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-mutter-des-getoeteten-jungen-sagt-im-prozess-gegen-todesfahrer-aus](https://www.spiegel.de/panorama/justiz/magdeburg-mutter-des-getoeteten-jungen-sagt-im-prozess-gegen-todesfahrer-aus-a-3358345b-7753-46b0-99e9-909ddbc224c2#ref=rss)
-### andré
+* [https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025](https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025-a-2d80fb9c-4edd-45da-8710-f9a5d29fa070#ref=rss)
+### wort
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-mutter-des-getoeteten-jungen-sagt-im-prozess-gegen-todesfahrer-aus](https://www.spiegel.de/panorama/justiz/magdeburg-mutter-des-getoeteten-jungen-sagt-im-prozess-gegen-todesfahrer-aus-a-3358345b-7753-46b0-99e9-909ddbc224c2#ref=rss)
-### dessen
+* [https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025](https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025-a-2d80fb9c-4edd-45da-8710-f9a5d29fa070#ref=rss)
+### jahres
 
-* [https://www.spiegel.de/panorama/justiz/magdeburg-mutter-des-getoeteten-jungen-sagt-im-prozess-gegen-todesfahrer-aus](https://www.spiegel.de/panorama/justiz/magdeburg-mutter-des-getoeteten-jungen-sagt-im-prozess-gegen-todesfahrer-aus-a-3358345b-7753-46b0-99e9-909ddbc224c2#ref=rss)
-### kapitol
+* [https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025](https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025-a-2d80fb9c-4edd-45da-8710-f9a5d29fa070#ref=rss)
+### erreicht
 
-* [https://www.spiegel.de/ausland/washington-fbi-nimmt-verdaechtigen-fest-der-vor-sturm-aufs-kapitol-rohrbomben-versteckt-haben-soll](https://www.spiegel.de/ausland/washington-fbi-nimmt-verdaechtigen-fest-der-vor-sturm-aufs-kapitol-rohrbomben-versteckt-haben-soll-a-d6ebb363-cb1d-4a38-8363-2cca7b3d2f3e#ref=rss)
-### fbi
+* [https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025](https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025-a-2d80fb9c-4edd-45da-8710-f9a5d29fa070#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert-a-9d683986-fbcd-44f0-91a2-1687695535ef#ref=rss)
+### jay
 
-* [https://www.spiegel.de/ausland/washington-fbi-nimmt-verdaechtigen-fest-der-vor-sturm-aufs-kapitol-rohrbomben-versteckt-haben-soll](https://www.spiegel.de/ausland/washington-fbi-nimmt-verdaechtigen-fest-der-vor-sturm-aufs-kapitol-rohrbomben-versteckt-haben-soll-a-d6ebb363-cb1d-4a38-8363-2cca7b3d2f3e#ref=rss)
-### festnahme
+* [https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy](https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy-a-f42ae542-78d6-49c0-ab50-0e82e9144adc#ref=rss)
+### kelly
 
-* [https://www.spiegel.de/ausland/washington-fbi-nimmt-verdaechtigen-fest-der-vor-sturm-aufs-kapitol-rohrbomben-versteckt-haben-soll](https://www.spiegel.de/ausland/washington-fbi-nimmt-verdaechtigen-fest-der-vor-sturm-aufs-kapitol-rohrbomben-versteckt-haben-soll-a-d6ebb363-cb1d-4a38-8363-2cca7b3d2f3e#ref=rss)
-### rohrbomben
+* [https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy](https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy-a-f42ae542-78d6-49c0-ab50-0e82e9144adc#ref=rss)
+### george
 
-* [https://www.spiegel.de/ausland/washington-fbi-nimmt-verdaechtigen-fest-der-vor-sturm-aufs-kapitol-rohrbomben-versteckt-haben-soll](https://www.spiegel.de/ausland/washington-fbi-nimmt-verdaechtigen-fest-der-vor-sturm-aufs-kapitol-rohrbomben-versteckt-haben-soll-a-d6ebb363-cb1d-4a38-8363-2cca7b3d2f3e#ref=rss)
-### schmidt
+* [https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy](https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy-a-f42ae542-78d6-49c0-ab50-0e82e9144adc#ref=rss)
+### clooney
 
-* [https://www.spiegel.de/politik/deutschland/vorwuerfe-gegen-afd-bundestagsabgeordneten-die-seltsamen-geschaeftspraktiken-des-herrn-schmidt](https://www.spiegel.de/politik/deutschland/vorwuerfe-gegen-afd-bundestagsabgeordneten-die-seltsamen-geschaeftspraktiken-des-herrn-schmidt-a-40a25167-6caf-4237-b934-40c21671b5a5#ref=rss)
-### kirsten
+* [https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy](https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy-a-f42ae542-78d6-49c0-ab50-0e82e9144adc#ref=rss)
+### netflix
 
-* [https://www.spiegel.de/panorama/leute/kirsten-dunst-schauspielerin-lobt-den-fortschritt-der-metoo-bewegung](https://www.spiegel.de/panorama/leute/kirsten-dunst-schauspielerin-lobt-den-fortschritt-der-metoo-bewegung-a-26770cbe-2b61-47e7-a804-880f84b43dd9#ref=rss)
-### dunst
+* [https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy](https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy-a-f42ae542-78d6-49c0-ab50-0e82e9144adc#ref=rss)
+* [https://www.spiegel.de/reise/reise-ausflugstipps-fuer-den-advent-und-guilty-pleasures](https://www.spiegel.de/reise/reise-ausflugstipps-fuer-den-advent-und-guilty-pleasures-a-f43bce35-6591-4b28-a0a6-10a7b3ad5543#ref=rss)
+### timothy
 
-* [https://www.spiegel.de/panorama/leute/kirsten-dunst-schauspielerin-lobt-den-fortschritt-der-metoo-bewegung](https://www.spiegel.de/panorama/leute/kirsten-dunst-schauspielerin-lobt-den-fortschritt-der-metoo-bewegung-a-26770cbe-2b61-47e7-a804-880f84b43dd9#ref=rss)
-### alkohol
+* [https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer](https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer-a-ac964f42-b563-4527-a9af-f9d0ae7641ac#ref=rss)
+### friede
 
-* [https://www.spiegel.de/wissenschaft/rauchen-und-alkohol-deutschland-tut-nur-wenig-gegen-konsum](https://www.spiegel.de/wissenschaft/rauchen-und-alkohol-deutschland-tut-nur-wenig-gegen-konsum-a-c7867f83-5689-4887-82ff-bce00784d282#ref=rss)
-### smartphonebank
+* [https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer](https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer-a-ac964f42-b563-4527-a9af-f9d0ae7641ac#ref=rss)
+### ließ
 
-* [https://www.spiegel.de/wirtschaft/service/n26-smartphone-bank-unterstuetzt-bezahldienst-wero](https://www.spiegel.de/wirtschaft/service/n26-smartphone-bank-unterstuetzt-bezahldienst-wero-a-d58380ac-e8b3-48d4-94a8-a5b5d90465d7#ref=rss)
-### unterstützt
+* [https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer](https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer-a-ac964f42-b563-4527-a9af-f9d0ae7641ac#ref=rss)
+### 200mal
 
-* [https://www.spiegel.de/wirtschaft/service/n26-smartphone-bank-unterstuetzt-bezahldienst-wero](https://www.spiegel.de/wirtschaft/service/n26-smartphone-bank-unterstuetzt-bezahldienst-wero-a-d58380ac-e8b3-48d4-94a8-a5b5d90465d7#ref=rss)
-### wero
+* [https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer](https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer-a-ac964f42-b563-4527-a9af-f9d0ae7641ac#ref=rss)
+### giftschlangen
 
-* [https://www.spiegel.de/wirtschaft/service/n26-smartphone-bank-unterstuetzt-bezahldienst-wero](https://www.spiegel.de/wirtschaft/service/n26-smartphone-bank-unterstuetzt-bezahldienst-wero-a-d58380ac-e8b3-48d4-94a8-a5b5d90465d7#ref=rss)
-### dfb
+* [https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer](https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer-a-ac964f42-b563-4527-a9af-f9d0ae7641ac#ref=rss)
+### beißen
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-will-ligaverband-ohne-dfb-gruenden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-frauen-will-ligaverband-ohne-dfb-gruenden-a-386f8620-68aa-4a44-8690-8b2f70d2c164#ref=rss)
+* [https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer](https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer-a-ac964f42-b563-4527-a9af-f9d0ae7641ac#ref=rss)
+### politische
+
+* [https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu](https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu-a-80aa740c-c7f3-402b-a91e-a12428f0e692#ref=rss)
+### kultur
+
+* [https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu](https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu-a-80aa740c-c7f3-402b-a91e-a12428f0e692#ref=rss)
+### politik
+
+* [https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu](https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu-a-80aa740c-c7f3-402b-a91e-a12428f0e692#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu](https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu-a-80aa740c-c7f3-402b-a91e-a12428f0e692#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert-a-9d683986-fbcd-44f0-91a2-1687695535ef#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu](https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu-a-80aa740c-c7f3-402b-a91e-a12428f0e692#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/cop30-ausstieg-aus-oel-und-gas-als-zentrales-klimathema-fuer-2026](https://www.spiegel.de/wissenschaft/mensch/cop30-ausstieg-aus-oel-und-gas-als-zentrales-klimathema-fuer-2026-a-eed66188-2039-4fc9-bf6a-00b148ce754c#ref=rss)
+### fußballwm
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-auslosung-in-washington-wird-als-grosse-show-inszeniert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-auslosung-in-washington-wird-als-grosse-show-inszeniert-a-e132be08-5408-41c9-9834-181a11691871#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-auslosung-in-washington-wird-als-grosse-show-inszeniert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-auslosung-in-washington-wird-als-grosse-show-inszeniert-a-e132be08-5408-41c9-9834-181a11691871#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/cop30-ausstieg-aus-oel-und-gas-als-zentrales-klimathema-fuer-2026](https://www.spiegel.de/wissenschaft/mensch/cop30-ausstieg-aus-oel-und-gas-als-zentrales-klimathema-fuer-2026-a-eed66188-2039-4fc9-bf6a-00b148ce754c#ref=rss)
+### auslosung
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-auslosung-in-washington-wird-als-grosse-show-inszeniert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-auslosung-in-washington-wird-als-grosse-show-inszeniert-a-e132be08-5408-41c9-9834-181a11691871#ref=rss)
+### washington
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-auslosung-in-washington-wird-als-grosse-show-inszeniert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-auslosung-in-washington-wird-als-grosse-show-inszeniert-a-e132be08-5408-41c9-9834-181a11691871#ref=rss)
+### indien
+
+* [https://www.spiegel.de/sport/schach/indien-dreijaehriger-stellt-schach-rekord-auf](https://www.spiegel.de/sport/schach/indien-dreijaehriger-stellt-schach-rekord-auf-a-19ac45a9-bb4c-4166-a616-f1d0a93f849a#ref=rss)
+### dreijähriger
+
+* [https://www.spiegel.de/sport/schach/indien-dreijaehriger-stellt-schach-rekord-auf](https://www.spiegel.de/sport/schach/indien-dreijaehriger-stellt-schach-rekord-auf-a-19ac45a9-bb4c-4166-a616-f1d0a93f849a#ref=rss)
+### spielen
+
+* [https://www.spiegel.de/sport/schach/indien-dreijaehriger-stellt-schach-rekord-auf](https://www.spiegel.de/sport/schach/indien-dreijaehriger-stellt-schach-rekord-auf-a-19ac45a9-bb4c-4166-a616-f1d0a93f849a#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig](https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig-a-4bc33572-87bc-42c1-bfbe-620df7fd8693#ref=rss)
+### grand
+
+* [https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab](https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab-a-5afa3f57-2c96-4d55-858b-78e85a8f1570#ref=rss)
+### jury
+
+* [https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab](https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab-a-5afa3f57-2c96-4d55-858b-78e85a8f1570#ref=rss)
+### anklageerhebung
+
+* [https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab](https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab-a-5afa3f57-2c96-4d55-858b-78e85a8f1570#ref=rss)
+### letitia
+
+* [https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab](https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab-a-5afa3f57-2c96-4d55-858b-78e85a8f1570#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab](https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab-a-5afa3f57-2c96-4d55-858b-78e85a8f1570#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche-a-e94101c3-c827-4776-8aab-0745bb41dd5c#ref=rss)
+### alice
+
+* [https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor](https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor-a-33a2cbc4-300e-4f13-8d09-a43cd37adf1c#ref=rss)
+### weidel
+
+* [https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor](https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor-a-33a2cbc4-300e-4f13-8d09-a43cd37adf1c#ref=rss)
+### stephan
+
+* [https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor](https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor-a-33a2cbc4-300e-4f13-8d09-a43cd37adf1c#ref=rss)
+### kramer
+
+* [https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor](https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor-a-33a2cbc4-300e-4f13-8d09-a43cd37adf1c#ref=rss)
+### cop30
+
+* [https://www.spiegel.de/wissenschaft/mensch/cop30-ausstieg-aus-oel-und-gas-als-zentrales-klimathema-fuer-2026](https://www.spiegel.de/wissenschaft/mensch/cop30-ausstieg-aus-oel-und-gas-als-zentrales-klimathema-fuer-2026-a-eed66188-2039-4fc9-bf6a-00b148ce754c#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/wissenschaft/mensch/cop30-ausstieg-aus-oel-und-gas-als-zentrales-klimathema-fuer-2026](https://www.spiegel.de/wissenschaft/mensch/cop30-ausstieg-aus-oel-und-gas-als-zentrales-klimathema-fuer-2026-a-eed66188-2039-4fc9-bf6a-00b148ce754c#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig](https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig-a-4bc33572-87bc-42c1-bfbe-620df7fd8693#ref=rss)
+### steigt
+
+* [https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert-a-9d683986-fbcd-44f0-91a2-1687695535ef#ref=rss)
+* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
+### rekordwert
+
+* [https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert-a-9d683986-fbcd-44f0-91a2-1687695535ef#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert-a-9d683986-fbcd-44f0-91a2-1687695535ef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump](https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump-a-00c331ed-13cb-4936-9154-5c54f423ffe7#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/panorama/griechenland-sturm-trifft-aegaeis-und-sorgt-fuer-ueberflutete-strassen-und-geschlossene-schulen](https://www.spiegel.de/panorama/griechenland-sturm-trifft-aegaeis-und-sorgt-fuer-ueberflutete-strassen-und-geschlossene-schulen-a-53d01685-0e5a-4781-8ef6-b0c8c6fef3c6#ref=rss)
+### lakers
+
+* [https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig](https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig-a-4bc33572-87bc-42c1-bfbe-620df7fd8693#ref=rss)
+### lebron
+
+* [https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig](https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig-a-4bc33572-87bc-42c1-bfbe-620df7fd8693#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig](https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig-a-4bc33572-87bc-42c1-bfbe-620df7fd8693#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche-a-e94101c3-c827-4776-8aab-0745bb41dd5c#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-und-ihre-puenktlichkeit-unsere-aktuelle-verspaetung-betraegt-15-jahre](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-und-ihre-puenktlichkeit-unsere-aktuelle-verspaetung-betraegt-15-jahre-a-daaf57de-4ff1-49db-a812-8c5e0d84f3ec#ref=rss)
+### australien
+
+* [https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche-a-e94101c3-c827-4776-8aab-0745bb41dd5c#ref=rss)
+### oprah
+
+* [https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche-a-e94101c3-c827-4776-8aab-0745bb41dd5c#ref=rss)
+### winfrey
+
+* [https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche-a-e94101c3-c827-4776-8aab-0745bb41dd5c#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche-a-e94101c3-c827-4776-8aab-0745bb41dd5c#ref=rss)
+### land
+
+* [https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche-a-e94101c3-c827-4776-8aab-0745bb41dd5c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
+### ökonom
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen](https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen-a-eba4fe8c-2691-4bde-bc1d-44af4e43dd7b#ref=rss)
+### johannes
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen](https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen-a-eba4fe8c-2691-4bde-bc1d-44af4e43dd7b#ref=rss)
+### geyer
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen](https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen-a-eba4fe8c-2691-4bde-bc1d-44af4e43dd7b#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
+### einreiseverbote
+
+* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
+### 30
+
+* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
+### länder
+
+* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
+### helfer
+
+* [https://www.spiegel.de/wirtschaft/lebensmitteltafeln-melden-mehr-ehrenamtliche-helfer](https://www.spiegel.de/wirtschaft/lebensmitteltafeln-melden-mehr-ehrenamtliche-helfer-a-23cfc0e8-7b74-4fa4-954f-864dabad1da3#ref=rss)
+### chemotherapien
+
+* [https://www.spiegel.de/panorama/brustkrebs-behandlung-unnoetige-chemotherapien-in-bremer-klinik](https://www.spiegel.de/panorama/brustkrebs-behandlung-unnoetige-chemotherapien-in-bremer-klinik-a-3e824856-6e7b-4846-9d66-72503d068889#ref=rss)
+### ausflugstipps
+
+* [https://www.spiegel.de/reise/reise-ausflugstipps-fuer-den-advent-und-guilty-pleasures](https://www.spiegel.de/reise/reise-ausflugstipps-fuer-den-advent-und-guilty-pleasures-a-f43bce35-6591-4b28-a0a6-10a7b3ad5543#ref=rss)
+### advent
+
+* [https://www.spiegel.de/reise/reise-ausflugstipps-fuer-den-advent-und-guilty-pleasures](https://www.spiegel.de/reise/reise-ausflugstipps-fuer-den-advent-und-guilty-pleasures-a-f43bce35-6591-4b28-a0a6-10a7b3ad5543#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump](https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump-a-00c331ed-13cb-4936-9154-5c54f423ffe7#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump](https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump-a-00c331ed-13cb-4936-9154-5c54f423ffe7#ref=rss)
+### schulstreik
+
+* [https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump](https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump-a-00c331ed-13cb-4936-9154-5c54f423ffe7#ref=rss)
+### wehrdienst
+
+* [https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump](https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump-a-00c331ed-13cb-4936-9154-5c54f423ffe7#ref=rss)
+### mercedes
+
+* [https://www.spiegel.de/stil/mercedes-lauenstein-so-erkennt-man-ein-gutes-kochbuch](https://www.spiegel.de/stil/mercedes-lauenstein-so-erkennt-man-ein-gutes-kochbuch-a-bfc0ca30-9c91-4594-872d-f6dd4c28c884#ref=rss)
+### lauenstein
+
+* [https://www.spiegel.de/stil/mercedes-lauenstein-so-erkennt-man-ein-gutes-kochbuch](https://www.spiegel.de/stil/mercedes-lauenstein-so-erkennt-man-ein-gutes-kochbuch-a-bfc0ca30-9c91-4594-872d-f6dd4c28c884#ref=rss)
+### gutes
+
+* [https://www.spiegel.de/stil/mercedes-lauenstein-so-erkennt-man-ein-gutes-kochbuch](https://www.spiegel.de/stil/mercedes-lauenstein-so-erkennt-man-ein-gutes-kochbuch-a-bfc0ca30-9c91-4594-872d-f6dd4c28c884#ref=rss)
+### kochbuch
+
+* [https://www.spiegel.de/stil/mercedes-lauenstein-so-erkennt-man-ein-gutes-kochbuch](https://www.spiegel.de/stil/mercedes-lauenstein-so-erkennt-man-ein-gutes-kochbuch-a-bfc0ca30-9c91-4594-872d-f6dd4c28c884#ref=rss)
 
