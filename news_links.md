@@ -4,337 +4,382 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer](https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer-a-ac964f42-b563-4527-a9af-f9d0ae7641ac#ref=rss)
-* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lebensmitteltafeln-melden-mehr-ehrenamtliche-helfer](https://www.spiegel.de/wirtschaft/lebensmitteltafeln-melden-mehr-ehrenamtliche-helfer-a-23cfc0e8-7b74-4fa4-954f-864dabad1da3#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/justiz/unter-polizeibeobachtung-in-neuseeland-von-dieb-verschlucktes-faberge-ei-ist-wieder-raus](https://www.spiegel.de/panorama/justiz/unter-polizeibeobachtung-in-neuseeland-von-dieb-verschlucktes-faberge-ei-ist-wieder-raus-a-a71869ed-2989-4df4-91c9-79211f573e08#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche-a-e94101c3-c827-4776-8aab-0745bb41dd5c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lebensmitteltafeln-melden-mehr-ehrenamtliche-helfer](https://www.spiegel.de/wirtschaft/lebensmitteltafeln-melden-mehr-ehrenamtliche-helfer-a-23cfc0e8-7b74-4fa4-954f-864dabad1da3#ref=rss)
-### james
-
-* [https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab](https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab-a-5afa3f57-2c96-4d55-858b-78e85a8f1570#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig](https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig-a-4bc33572-87bc-42c1-bfbe-620df7fd8693#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/stimmen-zum-protest-gegen-die-wehrpflicht-das-sagen-schueler-zur-wehrdienstreform](https://www.spiegel.de/panorama/stimmen-zum-protest-gegen-die-wehrpflicht-das-sagen-schueler-zur-wehrdienstreform-a-19f61efd-a10e-4a56-8bb8-48575f939f2b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor](https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor-a-33a2cbc4-300e-4f13-8d09-a43cd37adf1c#ref=rss)
-* [https://www.spiegel.de/panorama/griechenland-sturm-trifft-aegaeis-und-sorgt-fuer-ueberflutete-strassen-und-geschlossene-schulen](https://www.spiegel.de/panorama/griechenland-sturm-trifft-aegaeis-und-sorgt-fuer-ueberflutete-strassen-und-geschlossene-schulen-a-53d01685-0e5a-4781-8ef6-b0c8c6fef3c6#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-afghanischer-ex-richter-erzielt-teilerfolg](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-afghanischer-ex-richter-erzielt-teilerfolg-a-837ecf6a-e272-403c-b6f9-19f58d31071a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen](https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen-a-eba4fe8c-2691-4bde-bc1d-44af4e43dd7b#ref=rss)
-* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025](https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025-a-2d80fb9c-4edd-45da-8710-f9a5d29fa070#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert-a-9d683986-fbcd-44f0-91a2-1687695535ef#ref=rss)
-### donald
-
-* [https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu](https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu-a-80aa740c-c7f3-402b-a91e-a12428f0e692#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab](https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab-a-5afa3f57-2c96-4d55-858b-78e85a8f1570#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump](https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump-a-00c331ed-13cb-4936-9154-5c54f423ffe7#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu](https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu-a-80aa740c-c7f3-402b-a91e-a12428f0e692#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab](https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab-a-5afa3f57-2c96-4d55-858b-78e85a8f1570#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump](https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump-a-00c331ed-13cb-4936-9154-5c54f423ffe7#ref=rss)
-### schüler
-
-* [https://www.spiegel.de/panorama/stimmen-zum-protest-gegen-die-wehrpflicht-das-sagen-schueler-zur-wehrdienstreform](https://www.spiegel.de/panorama/stimmen-zum-protest-gegen-die-wehrpflicht-das-sagen-schueler-zur-wehrdienstreform-a-19f61efd-a10e-4a56-8bb8-48575f939f2b#ref=rss)
-### wehrdienstreform
-
-* [https://www.spiegel.de/panorama/stimmen-zum-protest-gegen-die-wehrpflicht-das-sagen-schueler-zur-wehrdienstreform](https://www.spiegel.de/panorama/stimmen-zum-protest-gegen-die-wehrpflicht-das-sagen-schueler-zur-wehrdienstreform-a-19f61efd-a10e-4a56-8bb8-48575f939f2b#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/bundestag-so-laeuft-die-abstimmung-zur-neuen-wehrpflicht-und-dem-rentenpaket-liveblog](https://www.spiegel.de/politik/bundestag-so-laeuft-die-abstimmung-zur-neuen-wehrpflicht-und-dem-rentenpaket-liveblog-a-82793fd9-7efd-4a2f-9ff8-46ee84a7307d#ref=rss)
-### rente
-
-* [https://www.spiegel.de/politik/bundestag-so-laeuft-die-abstimmung-zur-neuen-wehrpflicht-und-dem-rentenpaket-liveblog](https://www.spiegel.de/politik/bundestag-so-laeuft-die-abstimmung-zur-neuen-wehrpflicht-und-dem-rentenpaket-liveblog-a-82793fd9-7efd-4a2f-9ff8-46ee84a7307d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen](https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen-a-eba4fe8c-2691-4bde-bc1d-44af4e43dd7b#ref=rss)
-### rentenpaket
-
-* [https://www.spiegel.de/politik/bundestag-so-laeuft-die-abstimmung-zur-neuen-wehrpflicht-und-dem-rentenpaket-liveblog](https://www.spiegel.de/politik/bundestag-so-laeuft-die-abstimmung-zur-neuen-wehrpflicht-und-dem-rentenpaket-liveblog-a-82793fd9-7efd-4a2f-9ff8-46ee84a7307d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen](https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen-a-eba4fe8c-2691-4bde-bc1d-44af4e43dd7b#ref=rss)
-### mailand
-
-* [https://www.spiegel.de/reise/mailand-verbietet-schluesselkaesten-fuer-ferienwohnungen](https://www.spiegel.de/reise/mailand-verbietet-schluesselkaesten-fuer-ferienwohnungen-a-a29db7c6-f6f7-42fe-a6d4-71ff04966538#ref=rss)
-### schlüsselkästen
-
-* [https://www.spiegel.de/reise/mailand-verbietet-schluesselkaesten-fuer-ferienwohnungen](https://www.spiegel.de/reise/mailand-verbietet-schluesselkaesten-fuer-ferienwohnungen-a-a29db7c6-f6f7-42fe-a6d4-71ff04966538#ref=rss)
-### ferienwohnungen
-
-* [https://www.spiegel.de/reise/mailand-verbietet-schluesselkaesten-fuer-ferienwohnungen](https://www.spiegel.de/reise/mailand-verbietet-schluesselkaesten-fuer-ferienwohnungen-a-a29db7c6-f6f7-42fe-a6d4-71ff04966538#ref=rss)
-### los
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-was-putins-drohnentaktik-so-effektiv-macht](https://www.spiegel.de/ausland/ukraine-krieg-was-putins-drohnentaktik-so-effektiv-macht-a-7ba31612-f538-4568-afcc-a01e38e55319#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig](https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig-a-4bc33572-87bc-42c1-bfbe-620df7fd8693#ref=rss)
-### zunehmend
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-was-putins-drohnentaktik-so-effektiv-macht](https://www.spiegel.de/ausland/ukraine-krieg-was-putins-drohnentaktik-so-effektiv-macht-a-7ba31612-f538-4568-afcc-a01e38e55319#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu](https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu-a-80aa740c-c7f3-402b-a91e-a12428f0e692#ref=rss)
-### lopes
-
-* [https://www.spiegel.de/panorama/leute/luana-lopes-lara-ballerina-wird-mit-kalshi-juengste-selfmade-milliardaerin](https://www.spiegel.de/panorama/leute/luana-lopes-lara-ballerina-wird-mit-kalshi-juengste-selfmade-milliardaerin-a-b126f7b9-1060-4970-b763-17fb65e4a631#ref=rss)
-### lara
-
-* [https://www.spiegel.de/panorama/leute/luana-lopes-lara-ballerina-wird-mit-kalshi-juengste-selfmade-milliardaerin](https://www.spiegel.de/panorama/leute/luana-lopes-lara-ballerina-wird-mit-kalshi-juengste-selfmade-milliardaerin-a-b126f7b9-1060-4970-b763-17fb65e4a631#ref=rss)
-### ballerina
-
-* [https://www.spiegel.de/panorama/leute/luana-lopes-lara-ballerina-wird-mit-kalshi-juengste-selfmade-milliardaerin](https://www.spiegel.de/panorama/leute/luana-lopes-lara-ballerina-wird-mit-kalshi-juengste-selfmade-milliardaerin-a-b126f7b9-1060-4970-b763-17fb65e4a631#ref=rss)
-### jüngste
-
-* [https://www.spiegel.de/panorama/leute/luana-lopes-lara-ballerina-wird-mit-kalshi-juengste-selfmade-milliardaerin](https://www.spiegel.de/panorama/leute/luana-lopes-lara-ballerina-wird-mit-kalshi-juengste-selfmade-milliardaerin-a-b126f7b9-1060-4970-b763-17fb65e4a631#ref=rss)
-* [https://www.spiegel.de/sport/schach/indien-dreijaehriger-stellt-schach-rekord-auf](https://www.spiegel.de/sport/schach/indien-dreijaehriger-stellt-schach-rekord-auf-a-19ac45a9-bb4c-4166-a616-f1d0a93f849a#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-drohnensichtung-nahe-der-flugroute-bei-dublin-besuch](https://www.spiegel.de/ausland/wolodymyr-selenskyj-drohnensichtung-nahe-der-flugroute-bei-dublin-besuch-a-b516c81d-58b6-4260-a49c-dc9d446a994d#ref=rss)
-### flugroute
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-drohnensichtung-nahe-der-flugroute-bei-dublin-besuch](https://www.spiegel.de/ausland/wolodymyr-selenskyj-drohnensichtung-nahe-der-flugroute-bei-dublin-besuch-a-b516c81d-58b6-4260-a49c-dc9d446a994d#ref=rss)
-### melden
-
-* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-drohnensichtung-nahe-der-flugroute-bei-dublin-besuch](https://www.spiegel.de/ausland/wolodymyr-selenskyj-drohnensichtung-nahe-der-flugroute-bei-dublin-besuch-a-b516c81d-58b6-4260-a49c-dc9d446a994d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lebensmitteltafeln-melden-mehr-ehrenamtliche-helfer](https://www.spiegel.de/wirtschaft/lebensmitteltafeln-melden-mehr-ehrenamtliche-helfer-a-23cfc0e8-7b74-4fa4-954f-864dabad1da3#ref=rss)
-### neuseeland
-
-* [https://www.spiegel.de/panorama/justiz/unter-polizeibeobachtung-in-neuseeland-von-dieb-verschlucktes-faberge-ei-ist-wieder-raus](https://www.spiegel.de/panorama/justiz/unter-polizeibeobachtung-in-neuseeland-von-dieb-verschlucktes-faberge-ei-ist-wieder-raus-a-a71869ed-2989-4df4-91c9-79211f573e08#ref=rss)
-### dieb
-
-* [https://www.spiegel.de/panorama/justiz/unter-polizeibeobachtung-in-neuseeland-von-dieb-verschlucktes-faberge-ei-ist-wieder-raus](https://www.spiegel.de/panorama/justiz/unter-polizeibeobachtung-in-neuseeland-von-dieb-verschlucktes-faberge-ei-ist-wieder-raus-a-a71869ed-2989-4df4-91c9-79211f573e08#ref=rss)
-### maut
-
-* [https://www.spiegel.de/auto/italien-maut-auf-autobahn-wird-kuenftig-bei-langem-stau-erstattet](https://www.spiegel.de/auto/italien-maut-auf-autobahn-wird-kuenftig-bei-langem-stau-erstattet-a-a476688f-4674-43a7-8d5a-1aa9e3cad66b#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/auto/italien-maut-auf-autobahn-wird-kuenftig-bei-langem-stau-erstattet](https://www.spiegel.de/auto/italien-maut-auf-autobahn-wird-kuenftig-bei-langem-stau-erstattet-a-a476688f-4674-43a7-8d5a-1aa9e3cad66b#ref=rss)
-* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
-### bundesverfassungsgericht
-
-* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-afghanischer-ex-richter-erzielt-teilerfolg](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-afghanischer-ex-richter-erzielt-teilerfolg-a-837ecf6a-e272-403c-b6f9-19f58d31071a#ref=rss)
-### kiära
-
-* [https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025](https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025-a-2d80fb9c-4edd-45da-8710-f9a5d29fa070#ref=rss)
-### wort
-
-* [https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025](https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025-a-2d80fb9c-4edd-45da-8710-f9a5d29fa070#ref=rss)
-### jahres
-
-* [https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025](https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025-a-2d80fb9c-4edd-45da-8710-f9a5d29fa070#ref=rss)
-### erreicht
-
-* [https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025](https://www.spiegel.de/kultur/ki-aera-ist-das-wort-des-jahres-2025-a-2d80fb9c-4edd-45da-8710-f9a5d29fa070#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert-a-9d683986-fbcd-44f0-91a2-1687695535ef#ref=rss)
-### jay
-
-* [https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy](https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy-a-f42ae542-78d6-49c0-ab50-0e82e9144adc#ref=rss)
-### kelly
-
-* [https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy](https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy-a-f42ae542-78d6-49c0-ab50-0e82e9144adc#ref=rss)
-### george
-
-* [https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy](https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy-a-f42ae542-78d6-49c0-ab50-0e82e9144adc#ref=rss)
-### clooney
-
-* [https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy](https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy-a-f42ae542-78d6-49c0-ab50-0e82e9144adc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-heidi-klum-robbie-williams-und-donald-trump-so-laeuft-die-auslosung](https://www.spiegel.de/sport/fussball/fussball-wm-2026-heidi-klum-robbie-williams-und-donald-trump-so-laeuft-die-auslosung-a-972edc49-8306-4794-94c5-0ff8072f6947#ref=rss)
+* [https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen](https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen-a-26b71afa-41b3-4345-9651-ae7503228c36#ref=rss)
 ### netflix
 
-* [https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy](https://www.spiegel.de/kultur/kino/jay-kelly-mit-george-clooney-bei-netflix-ewig-mr-nice-guy-a-f42ae542-78d6-49c0-ab50-0e82e9144adc#ref=rss)
-* [https://www.spiegel.de/reise/reise-ausflugstipps-fuer-den-advent-und-guilty-pleasures](https://www.spiegel.de/reise/reise-ausflugstipps-fuer-den-advent-und-guilty-pleasures-a-f43bce35-6591-4b28-a0a6-10a7b3ad5543#ref=rss)
-### timothy
-
-* [https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer](https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer-a-ac964f42-b563-4527-a9af-f9d0ae7641ac#ref=rss)
-### friede
-
-* [https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer](https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer-a-ac964f42-b563-4527-a9af-f9d0ae7641ac#ref=rss)
-### ließ
-
-* [https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer](https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer-a-ac964f42-b563-4527-a9af-f9d0ae7641ac#ref=rss)
-### 200mal
-
-* [https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer](https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer-a-ac964f42-b563-4527-a9af-f9d0ae7641ac#ref=rss)
-### giftschlangen
-
-* [https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer](https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer-a-ac964f42-b563-4527-a9af-f9d0ae7641ac#ref=rss)
-### beißen
-
-* [https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer](https://www.spiegel.de/wissenschaft/timothy-friede-liess-sich-mehr-als-200-mal-von-giftschlangen-beissen-der-schlangenfluesterer-a-ac964f42-b563-4527-a9af-f9d0ae7641ac#ref=rss)
-### politische
-
-* [https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu](https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu-a-80aa740c-c7f3-402b-a91e-a12428f0e692#ref=rss)
-### kultur
-
-* [https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu](https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu-a-80aa740c-c7f3-402b-a91e-a12428f0e692#ref=rss)
-### politik
-
-* [https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu](https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu-a-80aa740c-c7f3-402b-a91e-a12428f0e692#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu](https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu-a-80aa740c-c7f3-402b-a91e-a12428f0e692#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert-a-9d683986-fbcd-44f0-91a2-1687695535ef#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu](https://www.spiegel.de/politik/deutschland/politische-kultur-selbstbedienungsmentalitaet-in-der-politik-nimmt-zu-a-80aa740c-c7f3-402b-a91e-a12428f0e692#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/cop30-ausstieg-aus-oel-und-gas-als-zentrales-klimathema-fuer-2026](https://www.spiegel.de/wissenschaft/mensch/cop30-ausstieg-aus-oel-und-gas-als-zentrales-klimathema-fuer-2026-a-eed66188-2039-4fc9-bf6a-00b148ce754c#ref=rss)
-### fußballwm
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-auslosung-in-washington-wird-als-grosse-show-inszeniert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-auslosung-in-washington-wird-als-grosse-show-inszeniert-a-e132be08-5408-41c9-9834-181a11691871#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-auslosung-in-washington-wird-als-grosse-show-inszeniert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-auslosung-in-washington-wird-als-grosse-show-inszeniert-a-e132be08-5408-41c9-9834-181a11691871#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/cop30-ausstieg-aus-oel-und-gas-als-zentrales-klimathema-fuer-2026](https://www.spiegel.de/wissenschaft/mensch/cop30-ausstieg-aus-oel-und-gas-als-zentrales-klimathema-fuer-2026-a-eed66188-2039-4fc9-bf6a-00b148ce754c#ref=rss)
-### auslosung
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-auslosung-in-washington-wird-als-grosse-show-inszeniert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-auslosung-in-washington-wird-als-grosse-show-inszeniert-a-e132be08-5408-41c9-9834-181a11691871#ref=rss)
-### washington
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-auslosung-in-washington-wird-als-grosse-show-inszeniert](https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-auslosung-in-washington-wird-als-grosse-show-inszeniert-a-e132be08-5408-41c9-9834-181a11691871#ref=rss)
-### indien
-
-* [https://www.spiegel.de/sport/schach/indien-dreijaehriger-stellt-schach-rekord-auf](https://www.spiegel.de/sport/schach/indien-dreijaehriger-stellt-schach-rekord-auf-a-19ac45a9-bb4c-4166-a616-f1d0a93f849a#ref=rss)
-### dreijähriger
-
-* [https://www.spiegel.de/sport/schach/indien-dreijaehriger-stellt-schach-rekord-auf](https://www.spiegel.de/sport/schach/indien-dreijaehriger-stellt-schach-rekord-auf-a-19ac45a9-bb4c-4166-a616-f1d0a93f849a#ref=rss)
-### spielen
-
-* [https://www.spiegel.de/sport/schach/indien-dreijaehriger-stellt-schach-rekord-auf](https://www.spiegel.de/sport/schach/indien-dreijaehriger-stellt-schach-rekord-auf-a-19ac45a9-bb4c-4166-a616-f1d0a93f849a#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig](https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig-a-4bc33572-87bc-42c1-bfbe-620df7fd8693#ref=rss)
-### grand
-
-* [https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab](https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab-a-5afa3f57-2c96-4d55-858b-78e85a8f1570#ref=rss)
-### jury
-
-* [https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab](https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab-a-5afa3f57-2c96-4d55-858b-78e85a8f1570#ref=rss)
-### anklageerhebung
-
-* [https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab](https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab-a-5afa3f57-2c96-4d55-858b-78e85a8f1570#ref=rss)
-### letitia
-
-* [https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab](https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab-a-5afa3f57-2c96-4d55-858b-78e85a8f1570#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab](https://www.spiegel.de/ausland/donald-trump-grand-jury-lehnt-anklageerhebung-gegen-trump-widersacherin-james-ab-a-5afa3f57-2c96-4d55-858b-78e85a8f1570#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche-a-e94101c3-c827-4776-8aab-0745bb41dd5c#ref=rss)
-### alice
-
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor](https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor-a-33a2cbc4-300e-4f13-8d09-a43cd37adf1c#ref=rss)
-### weidel
-
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor](https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor-a-33a2cbc4-300e-4f13-8d09-a43cd37adf1c#ref=rss)
-### stephan
-
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor](https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor-a-33a2cbc4-300e-4f13-8d09-a43cd37adf1c#ref=rss)
-### kramer
-
-* [https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor](https://www.spiegel.de/politik/deutschland/alice-weidel-stephan-kramer-wirft-afd-chefin-verhoehnung-von-stasi-opfern-vor-a-33a2cbc4-300e-4f13-8d09-a43cd37adf1c#ref=rss)
-### cop30
-
-* [https://www.spiegel.de/wissenschaft/mensch/cop30-ausstieg-aus-oel-und-gas-als-zentrales-klimathema-fuer-2026](https://www.spiegel.de/wissenschaft/mensch/cop30-ausstieg-aus-oel-und-gas-als-zentrales-klimathema-fuer-2026-a-eed66188-2039-4fc9-bf6a-00b148ce754c#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/wissenschaft/mensch/cop30-ausstieg-aus-oel-und-gas-als-zentrales-klimathema-fuer-2026](https://www.spiegel.de/wissenschaft/mensch/cop30-ausstieg-aus-oel-und-gas-als-zentrales-klimathema-fuer-2026-a-eed66188-2039-4fc9-bf6a-00b148ce754c#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig](https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig-a-4bc33572-87bc-42c1-bfbe-620df7fd8693#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert-a-9d683986-fbcd-44f0-91a2-1687695535ef#ref=rss)
-* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
-### rekordwert
-
-* [https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert-a-9d683986-fbcd-44f0-91a2-1687695535ef#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziale-sicherung-abgabenquote-in-deutschland-steigt-auf-rekordwert-a-9d683986-fbcd-44f0-91a2-1687695535ef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump](https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump-a-00c331ed-13cb-4936-9154-5c54f423ffe7#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/griechenland-sturm-trifft-aegaeis-und-sorgt-fuer-ueberflutete-strassen-und-geschlossene-schulen](https://www.spiegel.de/panorama/griechenland-sturm-trifft-aegaeis-und-sorgt-fuer-ueberflutete-strassen-und-geschlossene-schulen-a-53d01685-0e5a-4781-8ef6-b0c8c6fef3c6#ref=rss)
-### lakers
-
-* [https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig](https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig-a-4bc33572-87bc-42c1-bfbe-620df7fd8693#ref=rss)
-### lebron
-
-* [https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig](https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig-a-4bc33572-87bc-42c1-bfbe-620df7fd8693#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig](https://www.spiegel.de/sport/basketball/nba-lebron-james-trifft-erstmals-seit-1297-spielen-nur-einstellig-a-4bc33572-87bc-42c1-bfbe-620df7fd8693#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche-a-e94101c3-c827-4776-8aab-0745bb41dd5c#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-und-ihre-puenktlichkeit-unsere-aktuelle-verspaetung-betraegt-15-jahre](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-und-ihre-puenktlichkeit-unsere-aktuelle-verspaetung-betraegt-15-jahre-a-daaf57de-4ff1-49db-a812-8c5e0d84f3ec#ref=rss)
-### australien
-
-* [https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche-a-e94101c3-c827-4776-8aab-0745bb41dd5c#ref=rss)
-### oprah
-
-* [https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche-a-e94101c3-c827-4776-8aab-0745bb41dd5c#ref=rss)
-### winfrey
-
-* [https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche-a-e94101c3-c827-4776-8aab-0745bb41dd5c#ref=rss)
-### jugendliche
-
-* [https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche-a-e94101c3-c827-4776-8aab-0745bb41dd5c#ref=rss)
-### land
-
-* [https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/oprah-winfrey-lobt-australiens-social-media-verbot-fuer-kinder-und-jugendliche-a-e94101c3-c827-4776-8aab-0745bb41dd5c#ref=rss)
-* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
-### ökonom
-
-* [https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen](https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen-a-eba4fe8c-2691-4bde-bc1d-44af4e43dd7b#ref=rss)
-### johannes
-
-* [https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen](https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen-a-eba4fe8c-2691-4bde-bc1d-44af4e43dd7b#ref=rss)
-### geyer
-
-* [https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen](https://www.spiegel.de/wirtschaft/soziales/rente-oekonom-johannes-geyer-plaediert-fuer-einbeziehung-von-selbststaendigen-a-eba4fe8c-2691-4bde-bc1d-44af4e43dd7b#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
-### einreiseverbote
-
-* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
-### 30
-
-* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
-### länder
-
-* [https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen](https://www.spiegel.de/ausland/usa-regierung-will-einreiseverbote-auf-mehr-als-30-laender-ausdehnen-a-8c5615ba-1d87-4a66-a1d3-087a915fffb1#ref=rss)
-### helfer
-
-* [https://www.spiegel.de/wirtschaft/lebensmitteltafeln-melden-mehr-ehrenamtliche-helfer](https://www.spiegel.de/wirtschaft/lebensmitteltafeln-melden-mehr-ehrenamtliche-helfer-a-23cfc0e8-7b74-4fa4-954f-864dabad1da3#ref=rss)
-### chemotherapien
-
-* [https://www.spiegel.de/panorama/brustkrebs-behandlung-unnoetige-chemotherapien-in-bremer-klinik](https://www.spiegel.de/panorama/brustkrebs-behandlung-unnoetige-chemotherapien-in-bremer-klinik-a-3e824856-6e7b-4846-9d66-72503d068889#ref=rss)
-### ausflugstipps
-
-* [https://www.spiegel.de/reise/reise-ausflugstipps-fuer-den-advent-und-guilty-pleasures](https://www.spiegel.de/reise/reise-ausflugstipps-fuer-den-advent-und-guilty-pleasures-a-f43bce35-6591-4b28-a0a6-10a7b3ad5543#ref=rss)
-### advent
-
-* [https://www.spiegel.de/reise/reise-ausflugstipps-fuer-den-advent-und-guilty-pleasures](https://www.spiegel.de/reise/reise-ausflugstipps-fuer-den-advent-und-guilty-pleasures-a-f43bce35-6591-4b28-a0a6-10a7b3ad5543#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump](https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump-a-00c331ed-13cb-4936-9154-5c54f423ffe7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-rentenabstimmung-im-bundestag-netflix-strafe-fuer-x](https://www.spiegel.de/politik/deutschland/news-des-tages-rentenabstimmung-im-bundestag-netflix-strafe-fuer-x-a-3fabdf8f-a2bd-4881-8cee-8345dd3e5684#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump](https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump-a-00c331ed-13cb-4936-9154-5c54f423ffe7#ref=rss)
-### schulstreik
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-rentenabstimmung-im-bundestag-netflix-strafe-fuer-x](https://www.spiegel.de/politik/deutschland/news-des-tages-rentenabstimmung-im-bundestag-netflix-strafe-fuer-x-a-3fabdf8f-a2bd-4881-8cee-8345dd3e5684#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/renten-streit-in-der-koalition-friedrich-merz-stabilisiert-die-union-vorerst](https://www.spiegel.de/politik/deutschland/renten-streit-in-der-koalition-friedrich-merz-stabilisiert-die-union-vorerst-a-9dd3f844-301f-407c-accd-057f09fd5ae1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rente-linke-vs-gruene-ueberlegen-sie-mal-wo-der-feind-wirklich-steht](https://www.spiegel.de/politik/deutschland/rente-linke-vs-gruene-ueberlegen-sie-mal-wo-der-feind-wirklich-steht-a-8c1b9a8f-f24b-4815-9e1f-d72b2e30f7ca#ref=rss)
+### 50
 
-* [https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump](https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump-a-00c331ed-13cb-4936-9154-5c54f423ffe7#ref=rss)
-### wehrdienst
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### cent
 
-* [https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump](https://www.spiegel.de/politik/deutschland/news-rententest-friedrich-merz-schulstreik-gegen-wehrdienst-wm-show-donald-trump-a-00c331ed-13cb-4936-9154-5c54f423ffe7#ref=rss)
-### mercedes
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### p
 
-* [https://www.spiegel.de/stil/mercedes-lauenstein-so-erkennt-man-ein-gutes-kochbuch](https://www.spiegel.de/stil/mercedes-lauenstein-so-erkennt-man-ein-gutes-kochbuch-a-bfc0ca30-9c91-4594-872d-f6dd4c28c884#ref=rss)
-### lauenstein
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### diddy
 
-* [https://www.spiegel.de/stil/mercedes-lauenstein-so-erkennt-man-ein-gutes-kochbuch](https://www.spiegel.de/stil/mercedes-lauenstein-so-erkennt-man-ein-gutes-kochbuch-a-bfc0ca30-9c91-4594-872d-f6dd4c28c884#ref=rss)
-### gutes
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/stil/mercedes-lauenstein-so-erkennt-man-ein-gutes-kochbuch](https://www.spiegel.de/stil/mercedes-lauenstein-so-erkennt-man-ein-gutes-kochbuch-a-bfc0ca30-9c91-4594-872d-f6dd4c28c884#ref=rss)
-### kochbuch
+* [https://www.spiegel.de/ausland/ukraine-krieg-wie-wladimir-putin-die-usa-und-europa-hinhaelt](https://www.spiegel.de/ausland/ukraine-krieg-wie-wladimir-putin-die-usa-und-europa-hinhaelt-a-042752ff-2b13-4fa9-9383-70afef614d03#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-zu-besuch-bei-narendra-modi-in-indien-eine-komplizierte-beziehung](https://www.spiegel.de/ausland/wladimir-putin-zu-besuch-bei-narendra-modi-in-indien-eine-komplizierte-beziehung-a-183cf459-5fd7-4743-b54b-1bd9e20d30f9#ref=rss)
+### putin
 
-* [https://www.spiegel.de/stil/mercedes-lauenstein-so-erkennt-man-ein-gutes-kochbuch](https://www.spiegel.de/stil/mercedes-lauenstein-so-erkennt-man-ein-gutes-kochbuch-a-bfc0ca30-9c91-4594-872d-f6dd4c28c884#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wie-wladimir-putin-die-usa-und-europa-hinhaelt](https://www.spiegel.de/ausland/ukraine-krieg-wie-wladimir-putin-die-usa-und-europa-hinhaelt-a-042752ff-2b13-4fa9-9383-70afef614d03#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-zu-besuch-bei-narendra-modi-in-indien-eine-komplizierte-beziehung](https://www.spiegel.de/ausland/wladimir-putin-zu-besuch-bei-narendra-modi-in-indien-eine-komplizierte-beziehung-a-183cf459-5fd7-4743-b54b-1bd9e20d30f9#ref=rss)
+### macht
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-heidi-klum-robbie-williams-und-donald-trump-so-laeuft-die-auslosung](https://www.spiegel.de/sport/fussball/fussball-wm-2026-heidi-klum-robbie-williams-und-donald-trump-so-laeuft-die-auslosung-a-972edc49-8306-4794-94c5-0ff8072f6947#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/guertelrose-vakzin-ist-diese-impfung-eine-therapie-gegen-demenz](https://www.spiegel.de/gesundheit/diagnose/guertelrose-vakzin-ist-diese-impfung-eine-therapie-gegen-demenz-a-9c1c2fef-31fa-4d32-a21e-2e4d2c2849f4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/renten-streit-in-der-koalition-friedrich-merz-stabilisiert-die-union-vorerst](https://www.spiegel.de/politik/deutschland/renten-streit-in-der-koalition-friedrich-merz-stabilisiert-die-union-vorerst-a-9dd3f844-301f-407c-accd-057f09fd5ae1#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-rentenabstimmung-im-bundestag-netflix-strafe-fuer-x](https://www.spiegel.de/politik/deutschland/news-des-tages-rentenabstimmung-im-bundestag-netflix-strafe-fuer-x-a-3fabdf8f-a2bd-4881-8cee-8345dd3e5684#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/renten-streit-in-der-koalition-friedrich-merz-stabilisiert-die-union-vorerst](https://www.spiegel.de/politik/deutschland/renten-streit-in-der-koalition-friedrich-merz-stabilisiert-die-union-vorerst-a-9dd3f844-301f-407c-accd-057f09fd5ae1#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen](https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen-a-26b71afa-41b3-4345-9651-ae7503228c36#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wie-wladimir-putin-die-usa-und-europa-hinhaelt](https://www.spiegel.de/ausland/ukraine-krieg-wie-wladimir-putin-die-usa-und-europa-hinhaelt-a-042752ff-2b13-4fa9-9383-70afef614d03#ref=rss)
+### wirklich
+
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rente-linke-vs-gruene-ueberlegen-sie-mal-wo-der-feind-wirklich-steht](https://www.spiegel.de/politik/deutschland/rente-linke-vs-gruene-ueberlegen-sie-mal-wo-der-feind-wirklich-steht-a-8c1b9a8f-f24b-4815-9e1f-d72b2e30f7ca#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/netzwelt/new-york-times-verklagt-perplexity-verletzt-das-ki-startup-urheberrechte](https://www.spiegel.de/netzwelt/new-york-times-verklagt-perplexity-verletzt-das-ki-startup-urheberrechte-a-708c474a-bc3a-4a2d-b333-ebfd5ff3d99c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/luebeck-22-jaehriger-steht-nach-toedlichem-disco-streit-in-trittau-vor-gericht](https://www.spiegel.de/panorama/justiz/luebeck-22-jaehriger-steht-nach-toedlichem-disco-streit-in-trittau-vor-gericht-a-efcdea1b-fc19-45f4-871a-1e9e5b2535b4#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-heidi-klum-robbie-williams-und-donald-trump-so-laeuft-die-auslosung](https://www.spiegel.de/sport/fussball/fussball-wm-2026-heidi-klum-robbie-williams-und-donald-trump-so-laeuft-die-auslosung-a-972edc49-8306-4794-94c5-0ff8072f6947#ref=rss)
+* [https://www.spiegel.de/kultur/eurovision-song-contest-die-pop-blase-hat-zu-viele-loecher-bekommen](https://www.spiegel.de/kultur/eurovision-song-contest-die-pop-blase-hat-zu-viele-loecher-bekommen-a-a7547298-2c57-4344-9e2e-7524a23f3262#ref=rss)
+### donald
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-heidi-klum-robbie-williams-und-donald-trump-so-laeuft-die-auslosung](https://www.spiegel.de/sport/fussball/fussball-wm-2026-heidi-klum-robbie-williams-und-donald-trump-so-laeuft-die-auslosung-a-972edc49-8306-4794-94c5-0ff8072f6947#ref=rss)
+* [https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen](https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen-a-26b71afa-41b3-4345-9651-ae7503228c36#ref=rss)
+### auslosung
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-heidi-klum-robbie-williams-und-donald-trump-so-laeuft-die-auslosung](https://www.spiegel.de/sport/fussball/fussball-wm-2026-heidi-klum-robbie-williams-und-donald-trump-so-laeuft-die-auslosung-a-972edc49-8306-4794-94c5-0ff8072f6947#ref=rss)
+### walter
+
+* [https://www.spiegel.de/politik/walter-luebcke-familie-kritisiert-in-brief-denkmal-aktion-in-berlin](https://www.spiegel.de/politik/walter-luebcke-familie-kritisiert-in-brief-denkmal-aktion-in-berlin-a-ac61cd4c-5367-4b6a-b219-06a6ce70d9d6#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/walter-luebcke-familie-kritisiert-in-brief-denkmal-aktion-in-berlin](https://www.spiegel.de/politik/walter-luebcke-familie-kritisiert-in-brief-denkmal-aktion-in-berlin-a-ac61cd4c-5367-4b6a-b219-06a6ce70d9d6#ref=rss)
+* [https://www.spiegel.de/kultur/yael-ronen-an-der-schaubuehne-in-berlin-sabotage-attackiert-israels-kriegspolitik](https://www.spiegel.de/kultur/yael-ronen-an-der-schaubuehne-in-berlin-sabotage-attackiert-israels-kriegspolitik-a-9dee7f55-ca52-43cd-8951-d5dfcf9bcc35#ref=rss)
+### wiesbaden
+
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-betrunkene-frauen-rauben-fahrer-das-taxi](https://www.spiegel.de/panorama/justiz/wiesbaden-betrunkene-frauen-rauben-fahrer-das-taxi-a-aff84e7b-618d-4690-a335-4b4c91db119b#ref=rss)
+### betrunkene
+
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-betrunkene-frauen-rauben-fahrer-das-taxi](https://www.spiegel.de/panorama/justiz/wiesbaden-betrunkene-frauen-rauben-fahrer-das-taxi-a-aff84e7b-618d-4690-a335-4b4c91db119b#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-betrunkene-frauen-rauben-fahrer-das-taxi](https://www.spiegel.de/panorama/justiz/wiesbaden-betrunkene-frauen-rauben-fahrer-das-taxi-a-aff84e7b-618d-4690-a335-4b4c91db119b#ref=rss)
+### taxi
+
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-betrunkene-frauen-rauben-fahrer-das-taxi](https://www.spiegel.de/panorama/justiz/wiesbaden-betrunkene-frauen-rauben-fahrer-das-taxi-a-aff84e7b-618d-4690-a335-4b4c91db119b#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-betrunkene-frauen-rauben-fahrer-das-taxi](https://www.spiegel.de/panorama/justiz/wiesbaden-betrunkene-frauen-rauben-fahrer-das-taxi-a-aff84e7b-618d-4690-a335-4b4c91db119b#ref=rss)
+* [https://www.spiegel.de/kultur/fleetwood-mac-live-1975-wie-aus-einem-guss](https://www.spiegel.de/kultur/fleetwood-mac-live-1975-wie-aus-einem-guss-a-af9e9403-fcf0-47a5-83e4-0c4385666557#ref=rss)
+### streit
+
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-betrunkene-frauen-rauben-fahrer-das-taxi](https://www.spiegel.de/panorama/justiz/wiesbaden-betrunkene-frauen-rauben-fahrer-das-taxi-a-aff84e7b-618d-4690-a335-4b4c91db119b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/luebeck-22-jaehriger-steht-nach-toedlichem-disco-streit-in-trittau-vor-gericht](https://www.spiegel.de/panorama/justiz/luebeck-22-jaehriger-steht-nach-toedlichem-disco-streit-in-trittau-vor-gericht-a-efcdea1b-fc19-45f4-871a-1e9e5b2535b4#ref=rss)
+### weg
+
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-betrunkene-frauen-rauben-fahrer-das-taxi](https://www.spiegel.de/panorama/justiz/wiesbaden-betrunkene-frauen-rauben-fahrer-das-taxi-a-aff84e7b-618d-4690-a335-4b4c91db119b#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-mclaren-ceo-zak-brown-ueber-moegliche-teamorder-beim-finale](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-mclaren-ceo-zak-brown-ueber-moegliche-teamorder-beim-finale-a-6a246ae8-afa8-4d20-9db5-88489dc73a4c#ref=rss)
+### strafe
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-rentenabstimmung-im-bundestag-netflix-strafe-fuer-x](https://www.spiegel.de/politik/deutschland/news-des-tages-rentenabstimmung-im-bundestag-netflix-strafe-fuer-x-a-3fabdf8f-a2bd-4881-8cee-8345dd3e5684#ref=rss)
+### euro
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-rentenabstimmung-im-bundestag-netflix-strafe-fuer-x](https://www.spiegel.de/politik/deutschland/news-des-tages-rentenabstimmung-im-bundestag-netflix-strafe-fuer-x-a-3fabdf8f-a2bd-4881-8cee-8345dd3e5684#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/frankreich-kleinstadt-spendiert-1000-euro-fuer-geburt-im-oertlichen-krankenhaus](https://www.spiegel.de/panorama/gesellschaft/frankreich-kleinstadt-spendiert-1000-euro-fuer-geburt-im-oertlichen-krankenhaus-a-a9ebe96c-eae5-4034-8fcf-63adf0dfc6b2#ref=rss)
+### grünenpolitiker
+
+* [https://www.spiegel.de/kultur/gruenen-politiker-felix-banaszak-bei-markus-lanz-diskussion-misslingt](https://www.spiegel.de/kultur/gruenen-politiker-felix-banaszak-bei-markus-lanz-diskussion-misslingt-a-6b1edf94-33d0-47d7-86e0-290c9fcaebdb#ref=rss)
+### felix
+
+* [https://www.spiegel.de/kultur/gruenen-politiker-felix-banaszak-bei-markus-lanz-diskussion-misslingt](https://www.spiegel.de/kultur/gruenen-politiker-felix-banaszak-bei-markus-lanz-diskussion-misslingt-a-6b1edf94-33d0-47d7-86e0-290c9fcaebdb#ref=rss)
+### banaszak
+
+* [https://www.spiegel.de/kultur/gruenen-politiker-felix-banaszak-bei-markus-lanz-diskussion-misslingt](https://www.spiegel.de/kultur/gruenen-politiker-felix-banaszak-bei-markus-lanz-diskussion-misslingt-a-6b1edf94-33d0-47d7-86e0-290c9fcaebdb#ref=rss)
+### markus
+
+* [https://www.spiegel.de/kultur/gruenen-politiker-felix-banaszak-bei-markus-lanz-diskussion-misslingt](https://www.spiegel.de/kultur/gruenen-politiker-felix-banaszak-bei-markus-lanz-diskussion-misslingt-a-6b1edf94-33d0-47d7-86e0-290c9fcaebdb#ref=rss)
+### lanz
+
+* [https://www.spiegel.de/kultur/gruenen-politiker-felix-banaszak-bei-markus-lanz-diskussion-misslingt](https://www.spiegel.de/kultur/gruenen-politiker-felix-banaszak-bei-markus-lanz-diskussion-misslingt-a-6b1edf94-33d0-47d7-86e0-290c9fcaebdb#ref=rss)
+### debatten
+
+* [https://www.spiegel.de/kultur/gruenen-politiker-felix-banaszak-bei-markus-lanz-diskussion-misslingt](https://www.spiegel.de/kultur/gruenen-politiker-felix-banaszak-bei-markus-lanz-diskussion-misslingt-a-6b1edf94-33d0-47d7-86e0-290c9fcaebdb#ref=rss)
+* [https://www.spiegel.de/politik/israel-wadepfuhl-gegen-boykott-beim-esc](https://www.spiegel.de/politik/israel-wadepfuhl-gegen-boykott-beim-esc-a-5f526fc5-30be-4378-96a3-5e42dd6aee46#ref=rss)
+### strategie
+
+* [https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen](https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen-a-26b71afa-41b3-4345-9651-ae7503228c36#ref=rss)
+### nationalen
+
+* [https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen](https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen-a-26b71afa-41b3-4345-9651-ae7503228c36#ref=rss)
+### sicherheit
+
+* [https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen](https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen-a-26b71afa-41b3-4345-9651-ae7503228c36#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen](https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen-a-26b71afa-41b3-4345-9651-ae7503228c36#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wie-wladimir-putin-die-usa-und-europa-hinhaelt](https://www.spiegel.de/ausland/ukraine-krieg-wie-wladimir-putin-die-usa-und-europa-hinhaelt-a-042752ff-2b13-4fa9-9383-70afef614d03#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen](https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen-a-26b71afa-41b3-4345-9651-ae7503228c36#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-in-schwerin-bei-nord-stream-2-untersuchungsausschuss](https://www.spiegel.de/politik/deutschland/manuela-schwesig-in-schwerin-bei-nord-stream-2-untersuchungsausschuss-a-1e42a03f-c3e8-4988-8aba-d49cb6ad9c59#ref=rss)
+### welt
+
+* [https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen](https://www.spiegel.de/ausland/strategie-zur-nationalen-sicherheit-der-usa-so-will-sich-trump-in-europa-einmischen-a-26b71afa-41b3-4345-9651-ae7503228c36#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/frankreich-kleinstadt-spendiert-1000-euro-fuer-geburt-im-oertlichen-krankenhaus](https://www.spiegel.de/panorama/gesellschaft/frankreich-kleinstadt-spendiert-1000-euro-fuer-geburt-im-oertlichen-krankenhaus-a-a9ebe96c-eae5-4034-8fcf-63adf0dfc6b2#ref=rss)
+### yael
+
+* [https://www.spiegel.de/kultur/yael-ronen-an-der-schaubuehne-in-berlin-sabotage-attackiert-israels-kriegspolitik](https://www.spiegel.de/kultur/yael-ronen-an-der-schaubuehne-in-berlin-sabotage-attackiert-israels-kriegspolitik-a-9dee7f55-ca52-43cd-8951-d5dfcf9bcc35#ref=rss)
+### ronen
+
+* [https://www.spiegel.de/kultur/yael-ronen-an-der-schaubuehne-in-berlin-sabotage-attackiert-israels-kriegspolitik](https://www.spiegel.de/kultur/yael-ronen-an-der-schaubuehne-in-berlin-sabotage-attackiert-israels-kriegspolitik-a-9dee7f55-ca52-43cd-8951-d5dfcf9bcc35#ref=rss)
+### schaubühne
+
+* [https://www.spiegel.de/kultur/yael-ronen-an-der-schaubuehne-in-berlin-sabotage-attackiert-israels-kriegspolitik](https://www.spiegel.de/kultur/yael-ronen-an-der-schaubuehne-in-berlin-sabotage-attackiert-israels-kriegspolitik-a-9dee7f55-ca52-43cd-8951-d5dfcf9bcc35#ref=rss)
+### sabotage
+
+* [https://www.spiegel.de/kultur/yael-ronen-an-der-schaubuehne-in-berlin-sabotage-attackiert-israels-kriegspolitik](https://www.spiegel.de/kultur/yael-ronen-an-der-schaubuehne-in-berlin-sabotage-attackiert-israels-kriegspolitik-a-9dee7f55-ca52-43cd-8951-d5dfcf9bcc35#ref=rss)
+### israels
+
+* [https://www.spiegel.de/kultur/yael-ronen-an-der-schaubuehne-in-berlin-sabotage-attackiert-israels-kriegspolitik](https://www.spiegel.de/kultur/yael-ronen-an-der-schaubuehne-in-berlin-sabotage-attackiert-israels-kriegspolitik-a-9dee7f55-ca52-43cd-8951-d5dfcf9bcc35#ref=rss)
+* [https://www.spiegel.de/kultur/eurovision-song-contest-die-pop-blase-hat-zu-viele-loecher-bekommen](https://www.spiegel.de/kultur/eurovision-song-contest-die-pop-blase-hat-zu-viele-loecher-bekommen-a-a7547298-2c57-4344-9e2e-7524a23f3262#ref=rss)
+### kriegspolitik
+
+* [https://www.spiegel.de/kultur/yael-ronen-an-der-schaubuehne-in-berlin-sabotage-attackiert-israels-kriegspolitik](https://www.spiegel.de/kultur/yael-ronen-an-der-schaubuehne-in-berlin-sabotage-attackiert-israels-kriegspolitik-a-9dee7f55-ca52-43cd-8951-d5dfcf9bcc35#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wissenschaft/natur/suedafrika-sardinenmangel-loeste-massensterben-von-pinguinen-aus](https://www.spiegel.de/wissenschaft/natur/suedafrika-sardinenmangel-loeste-massensterben-von-pinguinen-aus-a-55f11761-794f-4d4d-a1b2-66630aa007b0#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/guertelrose-vakzin-ist-diese-impfung-eine-therapie-gegen-demenz](https://www.spiegel.de/gesundheit/diagnose/guertelrose-vakzin-ist-diese-impfung-eine-therapie-gegen-demenz-a-9c1c2fef-31fa-4d32-a21e-2e4d2c2849f4#ref=rss)
+### fleetwood
+
+* [https://www.spiegel.de/kultur/fleetwood-mac-live-1975-wie-aus-einem-guss](https://www.spiegel.de/kultur/fleetwood-mac-live-1975-wie-aus-einem-guss-a-af9e9403-fcf0-47a5-83e4-0c4385666557#ref=rss)
+### mac
+
+* [https://www.spiegel.de/kultur/fleetwood-mac-live-1975-wie-aus-einem-guss](https://www.spiegel.de/kultur/fleetwood-mac-live-1975-wie-aus-einem-guss-a-af9e9403-fcf0-47a5-83e4-0c4385666557#ref=rss)
+### live
+
+* [https://www.spiegel.de/kultur/fleetwood-mac-live-1975-wie-aus-einem-guss](https://www.spiegel.de/kultur/fleetwood-mac-live-1975-wie-aus-einem-guss-a-af9e9403-fcf0-47a5-83e4-0c4385666557#ref=rss)
+### 1975
+
+* [https://www.spiegel.de/kultur/fleetwood-mac-live-1975-wie-aus-einem-guss](https://www.spiegel.de/kultur/fleetwood-mac-live-1975-wie-aus-einem-guss-a-af9e9403-fcf0-47a5-83e4-0c4385666557#ref=rss)
+### band
+
+* [https://www.spiegel.de/kultur/fleetwood-mac-live-1975-wie-aus-einem-guss](https://www.spiegel.de/kultur/fleetwood-mac-live-1975-wie-aus-einem-guss-a-af9e9403-fcf0-47a5-83e4-0c4385666557#ref=rss)
+### glauben
+
+* [https://www.spiegel.de/kultur/fleetwood-mac-live-1975-wie-aus-einem-guss](https://www.spiegel.de/kultur/fleetwood-mac-live-1975-wie-aus-einem-guss-a-af9e9403-fcf0-47a5-83e4-0c4385666557#ref=rss)
+* [https://www.spiegel.de/kultur/eurovision-song-contest-die-pop-blase-hat-zu-viele-loecher-bekommen](https://www.spiegel.de/kultur/eurovision-song-contest-die-pop-blase-hat-zu-viele-loecher-bekommen-a-a7547298-2c57-4344-9e2e-7524a23f3262#ref=rss)
+### manuela
+
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-in-schwerin-bei-nord-stream-2-untersuchungsausschuss](https://www.spiegel.de/politik/deutschland/manuela-schwesig-in-schwerin-bei-nord-stream-2-untersuchungsausschuss-a-1e42a03f-c3e8-4988-8aba-d49cb6ad9c59#ref=rss)
+### schwesig
+
+* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-in-schwerin-bei-nord-stream-2-untersuchungsausschuss](https://www.spiegel.de/politik/deutschland/manuela-schwesig-in-schwerin-bei-nord-stream-2-untersuchungsausschuss-a-1e42a03f-c3e8-4988-8aba-d49cb6ad9c59#ref=rss)
+### abu
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-mclaren-ceo-zak-brown-ueber-moegliche-teamorder-beim-finale](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-mclaren-ceo-zak-brown-ueber-moegliche-teamorder-beim-finale-a-6a246ae8-afa8-4d20-9db5-88489dc73a4c#ref=rss)
+### dhabi
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-mclaren-ceo-zak-brown-ueber-moegliche-teamorder-beim-finale](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-mclaren-ceo-zak-brown-ueber-moegliche-teamorder-beim-finale-a-6a246ae8-afa8-4d20-9db5-88489dc73a4c#ref=rss)
+### rennstall
+
+* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-mclaren-ceo-zak-brown-ueber-moegliche-teamorder-beim-finale](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-mclaren-ceo-zak-brown-ueber-moegliche-teamorder-beim-finale-a-6a246ae8-afa8-4d20-9db5-88489dc73a4c#ref=rss)
+### apple
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-warum-der-tech-riese-einige-seiner-besten-manager-verliert](https://www.spiegel.de/netzwelt/gadgets/apple-warum-der-tech-riese-einige-seiner-besten-manager-verliert-a-18bbd684-01f7-4035-b9ca-75eee47443ee#ref=rss)
+### viele
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-warum-der-tech-riese-einige-seiner-besten-manager-verliert](https://www.spiegel.de/netzwelt/gadgets/apple-warum-der-tech-riese-einige-seiner-besten-manager-verliert-a-18bbd684-01f7-4035-b9ca-75eee47443ee#ref=rss)
+* [https://www.spiegel.de/kultur/eurovision-song-contest-die-pop-blase-hat-zu-viele-loecher-bekommen](https://www.spiegel.de/kultur/eurovision-song-contest-die-pop-blase-hat-zu-viele-loecher-bekommen-a-a7547298-2c57-4344-9e2e-7524a23f3262#ref=rss)
+### seandiddycombsdoku
+
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### abrechnen
+
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### neues
+
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### netflixformat
+
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### produziert
+
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### abgründe
+
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### verhalten
+
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### sean
+
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### combs
+
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### alias
+
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### offenlegen
+
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### doku
+
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### rapper
+
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### verrät
+
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-a-91f3660d-b44f-47b4-a1a5-d8f810a7f413#ref=rss)
+* [https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast](https://www.spiegel.de/kultur/sean-diddy-combs-doku-bei-netflix-so-will-50-cent-mit-p-diddy-abrechnen-podcast-a-7ac8537c-52cb-435b-9ad8-4e8244b7301e#ref=rss)
+### indonesien
+
+* [https://www.spiegel.de/ausland/indonesien-strasse-stuerzt-nach-tropensturm-ein](https://www.spiegel.de/ausland/indonesien-strasse-stuerzt-nach-tropensturm-ein-a-96f5f124-7da5-4147-8989-b0746a4e6a1b#ref=rss)
+### eurovision
+
+* [https://www.spiegel.de/kultur/eurovision-song-contest-die-pop-blase-hat-zu-viele-loecher-bekommen](https://www.spiegel.de/kultur/eurovision-song-contest-die-pop-blase-hat-zu-viele-loecher-bekommen-a-a7547298-2c57-4344-9e2e-7524a23f3262#ref=rss)
+### song
+
+* [https://www.spiegel.de/kultur/eurovision-song-contest-die-pop-blase-hat-zu-viele-loecher-bekommen](https://www.spiegel.de/kultur/eurovision-song-contest-die-pop-blase-hat-zu-viele-loecher-bekommen-a-a7547298-2c57-4344-9e2e-7524a23f3262#ref=rss)
+### contest
+
+* [https://www.spiegel.de/kultur/eurovision-song-contest-die-pop-blase-hat-zu-viele-loecher-bekommen](https://www.spiegel.de/kultur/eurovision-song-contest-die-pop-blase-hat-zu-viele-loecher-bekommen-a-a7547298-2c57-4344-9e2e-7524a23f3262#ref=rss)
+### besuch
+
+* [https://www.spiegel.de/ausland/wladimir-putin-zu-besuch-bei-narendra-modi-in-indien-eine-komplizierte-beziehung](https://www.spiegel.de/ausland/wladimir-putin-zu-besuch-bei-narendra-modi-in-indien-eine-komplizierte-beziehung-a-183cf459-5fd7-4743-b54b-1bd9e20d30f9#ref=rss)
+### israel
+
+* [https://www.spiegel.de/politik/israel-wadepfuhl-gegen-boykott-beim-esc](https://www.spiegel.de/politik/israel-wadepfuhl-gegen-boykott-beim-esc-a-5f526fc5-30be-4378-96a3-5e42dd6aee46#ref=rss)
+### esc
+
+* [https://www.spiegel.de/politik/israel-wadepfuhl-gegen-boykott-beim-esc](https://www.spiegel.de/politik/israel-wadepfuhl-gegen-boykott-beim-esc-a-5f526fc5-30be-4378-96a3-5e42dd6aee46#ref=rss)
+### new
+
+* [https://www.spiegel.de/netzwelt/new-york-times-verklagt-perplexity-verletzt-das-ki-startup-urheberrechte](https://www.spiegel.de/netzwelt/new-york-times-verklagt-perplexity-verletzt-das-ki-startup-urheberrechte-a-708c474a-bc3a-4a2d-b333-ebfd5ff3d99c#ref=rss)
+### york
+
+* [https://www.spiegel.de/netzwelt/new-york-times-verklagt-perplexity-verletzt-das-ki-startup-urheberrechte](https://www.spiegel.de/netzwelt/new-york-times-verklagt-perplexity-verletzt-das-ki-startup-urheberrechte-a-708c474a-bc3a-4a2d-b333-ebfd5ff3d99c#ref=rss)
+### times
+
+* [https://www.spiegel.de/netzwelt/new-york-times-verklagt-perplexity-verletzt-das-ki-startup-urheberrechte](https://www.spiegel.de/netzwelt/new-york-times-verklagt-perplexity-verletzt-das-ki-startup-urheberrechte-a-708c474a-bc3a-4a2d-b333-ebfd5ff3d99c#ref=rss)
+### perplexity
+
+* [https://www.spiegel.de/netzwelt/new-york-times-verklagt-perplexity-verletzt-das-ki-startup-urheberrechte](https://www.spiegel.de/netzwelt/new-york-times-verklagt-perplexity-verletzt-das-ki-startup-urheberrechte-a-708c474a-bc3a-4a2d-b333-ebfd5ff3d99c#ref=rss)
+### erste
+
+* [https://www.spiegel.de/netzwelt/new-york-times-verklagt-perplexity-verletzt-das-ki-startup-urheberrechte](https://www.spiegel.de/netzwelt/new-york-times-verklagt-perplexity-verletzt-das-ki-startup-urheberrechte-a-708c474a-bc3a-4a2d-b333-ebfd5ff3d99c#ref=rss)
+* [https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you](https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you-a-ee3fd051-95e2-4977-b65a-045024dfb5de#ref=rss)
+### wechselt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-chefstratege-wechselt-zu-mercedes](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-chefstratege-wechselt-zu-mercedes-a-724067d8-96b8-4375-ab06-8f5f8e0e9cc1#ref=rss)
+### mann
+
+* [https://www.spiegel.de/sport/oesterreich-bergdrama-am-grossglockner-mann-wegen-fahrlaessiger-toetung-angeklagt](https://www.spiegel.de/sport/oesterreich-bergdrama-am-grossglockner-mann-wegen-fahrlaessiger-toetung-angeklagt-a-51954ea3-782b-408d-99ab-51ca573f34c2#ref=rss)
+### fahrlässiger
+
+* [https://www.spiegel.de/sport/oesterreich-bergdrama-am-grossglockner-mann-wegen-fahrlaessiger-toetung-angeklagt](https://www.spiegel.de/sport/oesterreich-bergdrama-am-grossglockner-mann-wegen-fahrlaessiger-toetung-angeklagt-a-51954ea3-782b-408d-99ab-51ca573f34c2#ref=rss)
+### tötung
+
+* [https://www.spiegel.de/sport/oesterreich-bergdrama-am-grossglockner-mann-wegen-fahrlaessiger-toetung-angeklagt](https://www.spiegel.de/sport/oesterreich-bergdrama-am-grossglockner-mann-wegen-fahrlaessiger-toetung-angeklagt-a-51954ea3-782b-408d-99ab-51ca573f34c2#ref=rss)
+### sarkophag
+
+* [https://www.spiegel.de/wissenschaft/mensch/aegypten-jahrzehntealtes-raetsel-um-sarkophag-geloest](https://www.spiegel.de/wissenschaft/mensch/aegypten-jahrzehntealtes-raetsel-um-sarkophag-geloest-a-304c6e83-2ea5-4680-997d-3eb474eeaef9#ref=rss)
+### mariah
+
+* [https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you](https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you-a-ee3fd051-95e2-4977-b65a-045024dfb5de#ref=rss)
+### carey
+
+* [https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you](https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you-a-ee3fd051-95e2-4977-b65a-045024dfb5de#ref=rss)
+### all
+
+* [https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you](https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you-a-ee3fd051-95e2-4977-b65a-045024dfb5de#ref=rss)
+### i
+
+* [https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you](https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you-a-ee3fd051-95e2-4977-b65a-045024dfb5de#ref=rss)
+### want
+
+* [https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you](https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you-a-ee3fd051-95e2-4977-b65a-045024dfb5de#ref=rss)
+### for
+
+* [https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you](https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you-a-ee3fd051-95e2-4977-b65a-045024dfb5de#ref=rss)
+### christmas
+
+* [https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you](https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you-a-ee3fd051-95e2-4977-b65a-045024dfb5de#ref=rss)
+### is
+
+* [https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you](https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you-a-ee3fd051-95e2-4977-b65a-045024dfb5de#ref=rss)
+### you
+
+* [https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you](https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you-a-ee3fd051-95e2-4977-b65a-045024dfb5de#ref=rss)
+### advent
+
+* [https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you](https://www.spiegel.de/kultur/musik/mariah-carey-bricht-deutschen-nummer-eins-rekord-mit-all-i-want-for-christmas-is-you-a-ee3fd051-95e2-4977-b65a-045024dfb5de#ref=rss)
+### autofahrer
+
+* [https://www.spiegel.de/panorama/justiz/a7-in-hamburg-autofahrer-flieht-nach-unfall-polizei-sucht-mit-hubschrauber-und-spuerhunden](https://www.spiegel.de/panorama/justiz/a7-in-hamburg-autofahrer-flieht-nach-unfall-polizei-sucht-mit-hubschrauber-und-spuerhunden-a-928e6926-70e8-4543-a782-83a127824240#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/a7-in-hamburg-autofahrer-flieht-nach-unfall-polizei-sucht-mit-hubschrauber-und-spuerhunden](https://www.spiegel.de/panorama/justiz/a7-in-hamburg-autofahrer-flieht-nach-unfall-polizei-sucht-mit-hubschrauber-und-spuerhunden-a-928e6926-70e8-4543-a782-83a127824240#ref=rss)
+### 22jähriger
+
+* [https://www.spiegel.de/panorama/justiz/luebeck-22-jaehriger-steht-nach-toedlichem-disco-streit-in-trittau-vor-gericht](https://www.spiegel.de/panorama/justiz/luebeck-22-jaehriger-steht-nach-toedlichem-disco-streit-in-trittau-vor-gericht-a-efcdea1b-fc19-45f4-871a-1e9e5b2535b4#ref=rss)
+### trittau
+
+* [https://www.spiegel.de/panorama/justiz/luebeck-22-jaehriger-steht-nach-toedlichem-disco-streit-in-trittau-vor-gericht](https://www.spiegel.de/panorama/justiz/luebeck-22-jaehriger-steht-nach-toedlichem-disco-streit-in-trittau-vor-gericht-a-efcdea1b-fc19-45f4-871a-1e9e5b2535b4#ref=rss)
+### rentenstreit
+
+* [https://www.spiegel.de/politik/deutschland/renten-streit-in-der-koalition-friedrich-merz-stabilisiert-die-union-vorerst](https://www.spiegel.de/politik/deutschland/renten-streit-in-der-koalition-friedrich-merz-stabilisiert-die-union-vorerst-a-9dd3f844-301f-407c-accd-057f09fd5ae1#ref=rss)
+### stabilisiert
+
+* [https://www.spiegel.de/politik/deutschland/renten-streit-in-der-koalition-friedrich-merz-stabilisiert-die-union-vorerst](https://www.spiegel.de/politik/deutschland/renten-streit-in-der-koalition-friedrich-merz-stabilisiert-die-union-vorerst-a-9dd3f844-301f-407c-accd-057f09fd5ae1#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/renten-streit-in-der-koalition-friedrich-merz-stabilisiert-die-union-vorerst](https://www.spiegel.de/politik/deutschland/renten-streit-in-der-koalition-friedrich-merz-stabilisiert-die-union-vorerst-a-9dd3f844-301f-407c-accd-057f09fd5ae1#ref=rss)
+### vorerst
+
+* [https://www.spiegel.de/politik/deutschland/renten-streit-in-der-koalition-friedrich-merz-stabilisiert-die-union-vorerst](https://www.spiegel.de/politik/deutschland/renten-streit-in-der-koalition-friedrich-merz-stabilisiert-die-union-vorerst-a-9dd3f844-301f-407c-accd-057f09fd5ae1#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/deutschland/rente-linke-vs-gruene-ueberlegen-sie-mal-wo-der-feind-wirklich-steht](https://www.spiegel.de/politik/deutschland/rente-linke-vs-gruene-ueberlegen-sie-mal-wo-der-feind-wirklich-steht-a-8c1b9a8f-f24b-4815-9e1f-d72b2e30f7ca#ref=rss)
 
