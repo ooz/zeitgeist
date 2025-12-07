@@ -4,367 +4,386 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### thomas
+### jahren
 
-* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-im-spiegel-interview-2024-ihr-nennt-mich-doch-auch-einen-uncoolen-onkel](https://www.spiegel.de/wirtschaft/thomas-gottschalk-im-spiegel-interview-2024-ihr-nennt-mich-doch-auch-einen-uncoolen-onkel-a-aeb67d36-b0a5-427f-989c-978c132cc219#ref=rss)
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera](https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera-a-2e498aa6-a8ae-4400-b2f0-99d4f0aaaaf2#ref=rss)
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
-* [https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel](https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel-a-dbd4f124-40f9-4ee0-8d7f-b3c23a36e8b9#ref=rss)
-### menschen
+* [https://www.spiegel.de/ausland/globalisierung-harald-schumann-ueber-demokratie-armut-und-gerechte-verteilung](https://www.spiegel.de/ausland/globalisierung-harald-schumann-ueber-demokratie-armut-und-gerechte-verteilung-a-691ae55d-af45-4dde-95cd-73615bdcd3f5#ref=rss)
+* [https://www.spiegel.de/kultur/grossbritannien-fotograf-martin-parr-im-alter-von-73-jahren-verstorben](https://www.spiegel.de/kultur/grossbritannien-fotograf-martin-parr-im-alter-von-73-jahren-verstorben-a-03279679-62fb-430a-aa17-ef8d524a1f22#ref=rss)
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-bei-rtl-ein-abschied-auf-kik-discounter-niveau](https://www.spiegel.de/kultur/tv/thomas-gottschalk-bei-rtl-ein-abschied-auf-kik-discounter-niveau-a-6817bb82-6c42-415a-866c-50055ef8d7de#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05-a-55db1539-6519-4c60-81ab-a632c41e5aa9#ref=rss)
+* [https://www.spiegel.de/panorama/norfolk-erster-wilder-biber-in-england-seit-ausrottung-vor-400-jahren-gesichtet](https://www.spiegel.de/panorama/norfolk-erster-wilder-biber-in-england-seit-ausrottung-vor-400-jahren-gesichtet-a-a57d0b2b-8a32-48d5-8035-85908ece5ea7#ref=rss)
+### china
 
-* [https://www.spiegel.de/panorama/integration-warum-menschen-mit-migrationsgeschichte-die-afd-waehlen](https://www.spiegel.de/panorama/integration-warum-menschen-mit-migrationsgeschichte-die-afd-waehlen-a-d491787f-bc31-4f4d-9b9a-e96729b09ca8#ref=rss)
-* [https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen](https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen-a-6779ebb7-3c07-4b48-b131-5b8999e209cd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/akne-impfung-suche-nach-der-anti-pickel-spritze](https://www.spiegel.de/wissenschaft/mensch/akne-impfung-suche-nach-der-anti-pickel-spritze-a-2e62fe84-c4c5-49ae-b6dd-e0aa41b0188d#ref=rss)
-* [https://www.spiegel.de/panorama/goa-viele-tote-bei-brand-in-indischem-nachtclub](https://www.spiegel.de/panorama/goa-viele-tote-bei-brand-in-indischem-nachtclub-a-1d21a7fe-fb95-4232-909b-eccffe328c25#ref=rss)
-* [https://www.spiegel.de/ausland/mittelmeer-18-tote-bei-bootsunglueck-vor-griechischer-kueste](https://www.spiegel.de/ausland/mittelmeer-18-tote-bei-bootsunglueck-vor-griechischer-kueste-a-65575160-1db1-4021-aab0-8fadcd811e20#ref=rss)
-### gottschalk
+* [https://www.spiegel.de/ausland/globalisierung-harald-schumann-ueber-demokratie-armut-und-gerechte-verteilung](https://www.spiegel.de/ausland/globalisierung-harald-schumann-ueber-demokratie-armut-und-gerechte-verteilung-a-691ae55d-af45-4dde-95cd-73615bdcd3f5#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland-a-622c4c5e-ee68-43a5-a583-283abf691e82#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frankreich-und-china-macron-droht-mit-handelsbeschraenkungen-gegen-china](https://www.spiegel.de/wirtschaft/frankreich-und-china-macron-droht-mit-handelsbeschraenkungen-gegen-china-a-555bde1b-4f5f-422c-8fc7-611506bf52b6#ref=rss)
+### martin
 
-* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-im-spiegel-interview-2024-ihr-nennt-mich-doch-auch-einen-uncoolen-onkel](https://www.spiegel.de/wirtschaft/thomas-gottschalk-im-spiegel-interview-2024-ihr-nennt-mich-doch-auch-einen-uncoolen-onkel-a-aeb67d36-b0a5-427f-989c-978c132cc219#ref=rss)
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera](https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera-a-2e498aa6-a8ae-4400-b2f0-99d4f0aaaaf2#ref=rss)
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
+* [https://www.spiegel.de/kultur/autobiografie-von-starfotograf-martin-parr-voellig-faul-und-unaufmerksam](https://www.spiegel.de/kultur/autobiografie-von-starfotograf-martin-parr-voellig-faul-und-unaufmerksam-a-d138458f-54e7-43d5-9d43-5e3cf251eefd#ref=rss)
+* [https://www.spiegel.de/kultur/ernsthafte-fotos-als-unterhaltung-getarnt](https://www.spiegel.de/kultur/ernsthafte-fotos-als-unterhaltung-getarnt-a-9f43885a-2b3c-47a6-b10b-edf356ca4c7e#ref=rss)
+* [https://www.spiegel.de/kultur/grossbritannien-fotograf-martin-parr-im-alter-von-73-jahren-verstorben](https://www.spiegel.de/kultur/grossbritannien-fotograf-martin-parr-im-alter-von-73-jahren-verstorben-a-03279679-62fb-430a-aa17-ef8d524a1f22#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/iran-auto-betrug-in-millionenhoehe-manager-hingerichtet](https://www.spiegel.de/ausland/iran-auto-betrug-in-millionenhoehe-manager-hingerichtet-a-da2196eb-755e-4ef1-ae84-ec9f7ad1348b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-wladimir-putin-russland-ukraine](https://www.spiegel.de/politik/deutschland/news-wladimir-putin-russland-ukraine-a-40b4be63-cfed-4154-9720-15b541d3af67#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/grundschule-es-faellt-den-kindern-schwer-sich-an-regeln-zu-halten](https://www.spiegel.de/panorama/bildung/grundschule-es-faellt-den-kindern-schwer-sich-an-regeln-zu-halten-a-1c38820f-5560-46bc-8fc1-fd6c5a02506c#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten](https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten-a-498f46f8-503b-4e6c-b002-4f3b5bd13ee8#ref=rss)
-* [https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen](https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen-a-6779ebb7-3c07-4b48-b131-5b8999e209cd#ref=rss)
-* [https://www.spiegel.de/ausland/japan-wirft-china-vor-kampfjets-ins-visier-genommen-zu-haben](https://www.spiegel.de/ausland/japan-wirft-china-vor-kampfjets-ins-visier-genommen-zu-haben-a-7a7bee08-43dc-4db2-a052-2d20e52c86fa#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an](https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an-a-ce48e0a0-c443-47e4-90e7-46134322ab5f#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche](https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche-a-90e0e20a-5a70-4089-9198-c36ba4424196#ref=rss)
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera](https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera-a-2e498aa6-a8ae-4400-b2f0-99d4f0aaaaf2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel](https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel-a-dbd4f124-40f9-4ee0-8d7f-b3c23a36e8b9#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen](https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen-a-6779ebb7-3c07-4b48-b131-5b8999e209cd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche](https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche-a-90e0e20a-5a70-4089-9198-c36ba4424196#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-verteidigt-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-verteidigt-angriff-auf-mutmassliches-drogenboot-a-4887e8e6-be55-43fd-9551-5d4b6310c603#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-wladimir-putin-russland-ukraine](https://www.spiegel.de/politik/deutschland/news-wladimir-putin-russland-ukraine-a-40b4be63-cfed-4154-9720-15b541d3af67#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an](https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an-a-ce48e0a0-c443-47e4-90e7-46134322ab5f#ref=rss)
-### abschied
-
-* [https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an](https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an-a-2e5a6145-b548-4e6c-8be0-aac3956491c6#ref=rss)
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/integration-warum-menschen-mit-migrationsgeschichte-die-afd-waehlen](https://www.spiegel.de/panorama/integration-warum-menschen-mit-migrationsgeschichte-die-afd-waehlen-a-d491787f-bc31-4f4d-9b9a-e96729b09ca8#ref=rss)
-* [https://www.spiegel.de/panorama/goa-viele-tote-bei-brand-in-indischem-nachtclub](https://www.spiegel.de/panorama/goa-viele-tote-bei-brand-in-indischem-nachtclub-a-1d21a7fe-fb95-4232-909b-eccffe328c25#ref=rss)
-### benin
-
-* [https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten](https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten-a-498f46f8-503b-4e6c-b002-4f3b5bd13ee8#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten](https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten-a-498f46f8-503b-4e6c-b002-4f3b5bd13ee8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-wladimir-putin-russland-ukraine](https://www.spiegel.de/politik/deutschland/news-wladimir-putin-russland-ukraine-a-40b4be63-cfed-4154-9720-15b541d3af67#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten](https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten-a-498f46f8-503b-4e6c-b002-4f3b5bd13ee8#ref=rss)
-* [https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot](https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot-a-83828541-bfac-4fa4-bc37-3d70e660e9ed#ref=rss)
-### netanyahu
-
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
-* [https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump](https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump-a-60911a2c-bde8-4373-9cd0-b52515f2ece9#ref=rss)
-### wir
-
-* [https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus](https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus-a-c496b81b-2171-445c-9905-177287a613c7#ref=rss)
-* [https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-verteidigt-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-verteidigt-angriff-auf-mutmassliches-drogenboot-a-4887e8e6-be55-43fd-9551-5d4b6310c603#ref=rss)
-* [https://www.spiegel.de/tests/kueche/raclettegrills-geraete-von-severin-gastroback-stoeckli-und-kisag-im-test](https://www.spiegel.de/tests/kueche/raclettegrills-geraete-von-severin-gastroback-stoeckli-und-kisag-im-test-a-07617c33-ecba-4e1f-b5a5-eb3a20fa03cc#ref=rss)
-### 2
-
-* [https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole](https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole-a-4a20ca01-5ceb-450d-bc1d-6bc95fefa6f4#ref=rss)
-### ende
-
-* [https://www.spiegel.de/sport/formel1/formel-1-so-holt-sich-max-verstappen-doch-noch-seinen-fuenften-wm-titel](https://www.spiegel.de/sport/formel1/formel-1-so-holt-sich-max-verstappen-doch-noch-seinen-fuenften-wm-titel-a-f36bdd93-6f38-4bb5-a8a4-0176ca28869c#ref=rss)
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera](https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera-a-2e498aa6-a8ae-4400-b2f0-99d4f0aaaaf2#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an](https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an-a-ce48e0a0-c443-47e4-90e7-46134322ab5f#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an](https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an-a-ce48e0a0-c443-47e4-90e7-46134322ab5f#ref=rss)
-### tote
-
-* [https://www.spiegel.de/panorama/goa-viele-tote-bei-brand-in-indischem-nachtclub](https://www.spiegel.de/panorama/goa-viele-tote-bei-brand-in-indischem-nachtclub-a-1d21a7fe-fb95-4232-909b-eccffe328c25#ref=rss)
-* [https://www.spiegel.de/ausland/mittelmeer-18-tote-bei-bootsunglueck-vor-griechischer-kueste](https://www.spiegel.de/ausland/mittelmeer-18-tote-bei-bootsunglueck-vor-griechischer-kueste-a-65575160-1db1-4021-aab0-8fadcd811e20#ref=rss)
-### müller
-
-* [https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel](https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel-a-dbd4f124-40f9-4ee0-8d7f-b3c23a36e8b9#ref=rss)
-### usschauspieler
-
-* [https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer](https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer-a-862e3aa8-aafb-4188-9c87-e205d63ea943#ref=rss)
-### dick
-
-* [https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer](https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer-a-862e3aa8-aafb-4188-9c87-e205d63ea943#ref=rss)
-### van
-
-* [https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer](https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer-a-862e3aa8-aafb-4188-9c87-e205d63ea943#ref=rss)
-### dyke
-
-* [https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer](https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer-a-862e3aa8-aafb-4188-9c87-e205d63ea943#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer](https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer-a-862e3aa8-aafb-4188-9c87-e205d63ea943#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus](https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus-a-c496b81b-2171-445c-9905-177287a613c7#ref=rss)
-### alt
-
-* [https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer](https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer-a-862e3aa8-aafb-4188-9c87-e205d63ea943#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus](https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus-a-c496b81b-2171-445c-9905-177287a613c7#ref=rss)
-### premier
-
-* [https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an](https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an-a-2e5a6145-b548-4e6c-8be0-aac3956491c6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
-### mohamed
-
-* [https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an](https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an-a-2e5a6145-b548-4e6c-8be0-aac3956491c6#ref=rss)
-### salah
-
-* [https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an](https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an-a-2e5a6145-b548-4e6c-8be0-aac3956491c6#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an](https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an-a-2e5a6145-b548-4e6c-8be0-aac3956491c6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer-a-3ee0f783-24c8-4bbd-9ae1-fe68ec7ee4a3#ref=rss)
-### deutet
-
-* [https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an](https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an-a-2e5a6145-b548-4e6c-8be0-aac3956491c6#ref=rss)
-### afd
-
-* [https://www.spiegel.de/panorama/integration-warum-menschen-mit-migrationsgeschichte-die-afd-waehlen](https://www.spiegel.de/panorama/integration-warum-menschen-mit-migrationsgeschichte-die-afd-waehlen-a-d491787f-bc31-4f4d-9b9a-e96729b09ca8#ref=rss)
-### wählen
-
-* [https://www.spiegel.de/panorama/integration-warum-menschen-mit-migrationsgeschichte-die-afd-waehlen](https://www.spiegel.de/panorama/integration-warum-menschen-mit-migrationsgeschichte-die-afd-waehlen-a-d491787f-bc31-4f4d-9b9a-e96729b09ca8#ref=rss)
-### tor
-
-* [https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer-a-3ee0f783-24c8-4bbd-9ae1-fe68ec7ee4a3#ref=rss)
-### manuel
-
-* [https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer-a-3ee0f783-24c8-4bbd-9ae1-fe68ec7ee4a3#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer-a-3ee0f783-24c8-4bbd-9ae1-fe68ec7ee4a3#ref=rss)
-### nummer
-
-* [https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer-a-3ee0f783-24c8-4bbd-9ae1-fe68ec7ee4a3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus](https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus-a-c496b81b-2171-445c-9905-177287a613c7#ref=rss)
-### eins
-
-* [https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer-a-3ee0f783-24c8-4bbd-9ae1-fe68ec7ee4a3#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-so-holt-sich-max-verstappen-doch-noch-seinen-fuenften-wm-titel](https://www.spiegel.de/sport/formel1/formel-1-so-holt-sich-max-verstappen-doch-noch-seinen-fuenften-wm-titel-a-f36bdd93-6f38-4bb5-a8a4-0176ca28869c#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer-a-3ee0f783-24c8-4bbd-9ae1-fe68ec7ee4a3#ref=rss)
-* [https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung](https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung-a-4b1955b7-2463-4b15-8fbe-033225fb9c8b#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-auto-betrug-in-millionenhoehe-manager-hingerichtet](https://www.spiegel.de/ausland/iran-auto-betrug-in-millionenhoehe-manager-hingerichtet-a-da2196eb-755e-4ef1-ae84-ec9f7ad1348b#ref=rss)
-### manager
-
-* [https://www.spiegel.de/ausland/iran-auto-betrug-in-millionenhoehe-manager-hingerichtet](https://www.spiegel.de/ausland/iran-auto-betrug-in-millionenhoehe-manager-hingerichtet-a-da2196eb-755e-4ef1-ae84-ec9f7ad1348b#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/ausland/iran-auto-betrug-in-millionenhoehe-manager-hingerichtet](https://www.spiegel.de/ausland/iran-auto-betrug-in-millionenhoehe-manager-hingerichtet-a-da2196eb-755e-4ef1-ae84-ec9f7ad1348b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-im-spiegel-interview-2024-ihr-nennt-mich-doch-auch-einen-uncoolen-onkel](https://www.spiegel.de/wirtschaft/thomas-gottschalk-im-spiegel-interview-2024-ihr-nennt-mich-doch-auch-einen-uncoolen-onkel-a-aeb67d36-b0a5-427f-989c-978c132cc219#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten](https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten-a-498f46f8-503b-4e6c-b002-4f3b5bd13ee8#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-podcaster-trotzen-orbans-medienzensur-auf-youtube](https://www.spiegel.de/ausland/ungarn-podcaster-trotzen-orbans-medienzensur-auf-youtube-a-981dd3ba-a2b8-406c-94a5-dc875fced79e#ref=rss)
-### fielen
-
-* [https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten](https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten-a-498f46f8-503b-4e6c-b002-4f3b5bd13ee8#ref=rss)
-* [https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen](https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen-a-6779ebb7-3c07-4b48-b131-5b8999e209cd#ref=rss)
-### schüsse
-
-* [https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten](https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten-a-498f46f8-503b-4e6c-b002-4f3b5bd13ee8#ref=rss)
-* [https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen](https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen-a-6779ebb7-3c07-4b48-b131-5b8999e209cd#ref=rss)
-### lage
-
-* [https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten](https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten-a-498f46f8-503b-4e6c-b002-4f3b5bd13ee8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-wladimir-putin-russland-ukraine](https://www.spiegel.de/politik/deutschland/news-wladimir-putin-russland-ukraine-a-40b4be63-cfed-4154-9720-15b541d3af67#ref=rss)
-### bundeskanzler
-
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
-### gegenüber
-
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel](https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel-a-dbd4f124-40f9-4ee0-8d7f-b3c23a36e8b9#ref=rss)
-### israel
-
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
-### yad
-
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
-### vashem
-
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
-### gespräch
-
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
-### israels
-
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
-* [https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump](https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump-a-60911a2c-bde8-4373-9cd0-b52515f2ece9#ref=rss)
-### 16jähriger
-
-* [https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen](https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen-a-6779ebb7-3c07-4b48-b131-5b8999e209cd#ref=rss)
-### spielplatz
-
-* [https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen](https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen-a-6779ebb7-3c07-4b48-b131-5b8999e209cd#ref=rss)
-### vater
-
-* [https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus](https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus-a-c496b81b-2171-445c-9905-177287a613c7#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus](https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus-a-c496b81b-2171-445c-9905-177287a613c7#ref=rss)
-### pete
-
-* [https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-verteidigt-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-verteidigt-angriff-auf-mutmassliches-drogenboot-a-4887e8e6-be55-43fd-9551-5d4b6310c603#ref=rss)
-### hegseth
-
-* [https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-verteidigt-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-verteidigt-angriff-auf-mutmassliches-drogenboot-a-4887e8e6-be55-43fd-9551-5d4b6310c603#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche](https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche-a-90e0e20a-5a70-4089-9198-c36ba4424196#ref=rss)
-### evelyn
-
-* [https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche](https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche-a-90e0e20a-5a70-4089-9198-c36ba4424196#ref=rss)
-### palla
-
-* [https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche](https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche-a-90e0e20a-5a70-4089-9198-c36ba4424196#ref=rss)
-### 21
-
-* [https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche](https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche-a-90e0e20a-5a70-4089-9198-c36ba4424196#ref=rss)
-### interne
-
-* [https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche](https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche-a-90e0e20a-5a70-4089-9198-c36ba4424196#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche](https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche-a-90e0e20a-5a70-4089-9198-c36ba4424196#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole](https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole-a-4a20ca01-5ceb-450d-bc1d-6bc95fefa6f4#ref=rss)
-### ungarn
-
-* [https://www.spiegel.de/ausland/ungarn-podcaster-trotzen-orbans-medienzensur-auf-youtube](https://www.spiegel.de/ausland/ungarn-podcaster-trotzen-orbans-medienzensur-auf-youtube-a-981dd3ba-a2b8-406c-94a5-dc875fced79e#ref=rss)
-### podcaster
-
-* [https://www.spiegel.de/ausland/ungarn-podcaster-trotzen-orbans-medienzensur-auf-youtube](https://www.spiegel.de/ausland/ungarn-podcaster-trotzen-orbans-medienzensur-auf-youtube-a-981dd3ba-a2b8-406c-94a5-dc875fced79e#ref=rss)
-### youtube
-
-* [https://www.spiegel.de/ausland/ungarn-podcaster-trotzen-orbans-medienzensur-auf-youtube](https://www.spiegel.de/ausland/ungarn-podcaster-trotzen-orbans-medienzensur-auf-youtube-a-981dd3ba-a2b8-406c-94a5-dc875fced79e#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/panorama/bildung/grundschule-es-faellt-den-kindern-schwer-sich-an-regeln-zu-halten](https://www.spiegel.de/panorama/bildung/grundschule-es-faellt-den-kindern-schwer-sich-an-regeln-zu-halten-a-1c38820f-5560-46bc-8fc1-fd6c5a02506c#ref=rss)
-* [https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot](https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot-a-83828541-bfac-4fa4-bc37-3d70e660e9ed#ref=rss)
-### halten
-
-* [https://www.spiegel.de/panorama/bildung/grundschule-es-faellt-den-kindern-schwer-sich-an-regeln-zu-halten](https://www.spiegel.de/panorama/bildung/grundschule-es-faellt-den-kindern-schwer-sich-an-regeln-zu-halten-a-1c38820f-5560-46bc-8fc1-fd6c5a02506c#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an](https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an-a-ce48e0a0-c443-47e4-90e7-46134322ab5f#ref=rss)
-### switch
-
-* [https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole](https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole-a-4a20ca01-5ceb-450d-bc1d-6bc95fefa6f4#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole](https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole-a-4a20ca01-5ceb-450d-bc1d-6bc95fefa6f4#ref=rss)
-### spiele
-
-* [https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole](https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole-a-4a20ca01-5ceb-450d-bc1d-6bc95fefa6f4#ref=rss)
-### konsole
-
-* [https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole](https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole-a-4a20ca01-5ceb-450d-bc1d-6bc95fefa6f4#ref=rss)
-### oft
-
-* [https://www.spiegel.de/wissenschaft/mensch/akne-impfung-suche-nach-der-anti-pickel-spritze](https://www.spiegel.de/wissenschaft/mensch/akne-impfung-suche-nach-der-anti-pickel-spritze-a-2e62fe84-c4c5-49ae-b6dd-e0aa41b0188d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel](https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel-a-dbd4f124-40f9-4ee0-8d7f-b3c23a36e8b9#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/formel1/formel-1-so-holt-sich-max-verstappen-doch-noch-seinen-fuenften-wm-titel](https://www.spiegel.de/sport/formel1/formel-1-so-holt-sich-max-verstappen-doch-noch-seinen-fuenften-wm-titel-a-f36bdd93-6f38-4bb5-a8a4-0176ca28869c#ref=rss)
-### verstappen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-so-holt-sich-max-verstappen-doch-noch-seinen-fuenften-wm-titel](https://www.spiegel.de/sport/formel1/formel-1-so-holt-sich-max-verstappen-doch-noch-seinen-fuenften-wm-titel-a-f36bdd93-6f38-4bb5-a8a4-0176ca28869c#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/ausland/japan-wirft-china-vor-kampfjets-ins-visier-genommen-zu-haben](https://www.spiegel.de/ausland/japan-wirft-china-vor-kampfjets-ins-visier-genommen-zu-haben-a-7a7bee08-43dc-4db2-a052-2d20e52c86fa#ref=rss)
-### kampfjets
-
-* [https://www.spiegel.de/ausland/japan-wirft-china-vor-kampfjets-ins-visier-genommen-zu-haben](https://www.spiegel.de/ausland/japan-wirft-china-vor-kampfjets-ins-visier-genommen-zu-haben-a-7a7bee08-43dc-4db2-a052-2d20e52c86fa#ref=rss)
-### reagiert
-
-* [https://www.spiegel.de/ausland/japan-wirft-china-vor-kampfjets-ins-visier-genommen-zu-haben](https://www.spiegel.de/ausland/japan-wirft-china-vor-kampfjets-ins-visier-genommen-zu-haben-a-7a7bee08-43dc-4db2-a052-2d20e52c86fa#ref=rss)
-* [https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump](https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump-a-60911a2c-bde8-4373-9cd0-b52515f2ece9#ref=rss)
-### großen
-
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera](https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera-a-2e498aa6-a8ae-4400-b2f0-99d4f0aaaaf2#ref=rss)
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
-### gerät
-
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera](https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera-a-2e498aa6-a8ae-4400-b2f0-99d4f0aaaaf2#ref=rss)
-* [https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot](https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot-a-83828541-bfac-4fa4-bc37-3d70e660e9ed#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten](https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten-a-895864d5-a9de-4b99-9992-ce544900211c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-bei-rtl-ein-abschied-auf-kik-discounter-niveau](https://www.spiegel.de/kultur/tv/thomas-gottschalk-bei-rtl-ein-abschied-auf-kik-discounter-niveau-a-6817bb82-6c42-415a-866c-50055ef8d7de#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/renten-formel-vorschlag-fuer-rentenbeginn-nach-lebensarbeitszeit-statt-alter](https://www.spiegel.de/wirtschaft/soziales/renten-formel-vorschlag-fuer-rentenbeginn-nach-lebensarbeitszeit-statt-alter-a-302abc49-76d3-4050-99e0-5c3239a00217#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland-a-622c4c5e-ee68-43a5-a583-283abf691e82#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frankreich-und-china-macron-droht-mit-handelsbeschraenkungen-gegen-china](https://www.spiegel.de/wirtschaft/frankreich-und-china-macron-droht-mit-handelsbeschraenkungen-gegen-china-a-555bde1b-4f5f-422c-8fc7-611506bf52b6#ref=rss)
 ### alter
 
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera](https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera-a-2e498aa6-a8ae-4400-b2f0-99d4f0aaaaf2#ref=rss)
 * [https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung](https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung-a-4b1955b7-2463-4b15-8fbe-033225fb9c8b#ref=rss)
-### dating
+* [https://www.spiegel.de/kultur/grossbritannien-fotograf-martin-parr-im-alter-von-73-jahren-verstorben](https://www.spiegel.de/kultur/grossbritannien-fotograf-martin-parr-im-alter-von-73-jahren-verstorben-a-03279679-62fb-430a-aa17-ef8d524a1f22#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/renten-formel-vorschlag-fuer-rentenbeginn-nach-lebensarbeitszeit-statt-alter](https://www.spiegel.de/wirtschaft/soziales/renten-formel-vorschlag-fuer-rentenbeginn-nach-lebensarbeitszeit-statt-alter-a-302abc49-76d3-4050-99e0-5c3239a00217#ref=rss)
+### parr
 
-* [https://www.spiegel.de/partnerschaft/dating-matthias-espigs-partykeller-als-alternative-fuer-singles-ue50](https://www.spiegel.de/partnerschaft/dating-matthias-espigs-partykeller-als-alternative-fuer-singles-ue50-a-aa635cff-1909-43fb-9c67-aba677a28716#ref=rss)
-* [https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung](https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung-a-4b1955b7-2463-4b15-8fbe-033225fb9c8b#ref=rss)
-### matthias
+* [https://www.spiegel.de/kultur/autobiografie-von-starfotograf-martin-parr-voellig-faul-und-unaufmerksam](https://www.spiegel.de/kultur/autobiografie-von-starfotograf-martin-parr-voellig-faul-und-unaufmerksam-a-d138458f-54e7-43d5-9d43-5e3cf251eefd#ref=rss)
+* [https://www.spiegel.de/kultur/grossbritannien-fotograf-martin-parr-im-alter-von-73-jahren-verstorben](https://www.spiegel.de/kultur/grossbritannien-fotograf-martin-parr-im-alter-von-73-jahren-verstorben-a-03279679-62fb-430a-aa17-ef8d524a1f22#ref=rss)
+### lando
 
-* [https://www.spiegel.de/partnerschaft/dating-matthias-espigs-partykeller-als-alternative-fuer-singles-ue50](https://www.spiegel.de/partnerschaft/dating-matthias-espigs-partykeller-als-alternative-fuer-singles-ue50-a-aa635cff-1909-43fb-9c67-aba677a28716#ref=rss)
-### ü50
+* [https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten](https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten-a-895864d5-a9de-4b99-9992-ce544900211c#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-lando-norris-ist-erstmals-formel-1-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-lando-norris-ist-erstmals-formel-1-weltmeister-a-13bc79e2-b957-464f-8164-f0888a302396#ref=rss)
+### norris
 
-* [https://www.spiegel.de/partnerschaft/dating-matthias-espigs-partykeller-als-alternative-fuer-singles-ue50](https://www.spiegel.de/partnerschaft/dating-matthias-espigs-partykeller-als-alternative-fuer-singles-ue50-a-aa635cff-1909-43fb-9c67-aba677a28716#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten](https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten-a-895864d5-a9de-4b99-9992-ce544900211c#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-lando-norris-ist-erstmals-formel-1-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-lando-norris-ist-erstmals-formel-1-weltmeister-a-13bc79e2-b957-464f-8164-f0888a302396#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-israel-und-dann-kommt-die-heikle-frage-nach-dem-gegenbesuch](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-israel-und-dann-kommt-die-heikle-frage-nach-dem-gegenbesuch-a-8a0d83d2-f11b-4448-a4fa-f883c87911c8#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-kann-der-kanzler-nur-die-eigenen-finanzen-sanieren-kolumne](https://www.spiegel.de/politik/friedrich-merz-kann-der-kanzler-nur-die-eigenen-finanzen-sanieren-kolumne-a-80fe5097-6b0c-4781-885e-c17d68026aae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israels-premier-benjamin-netanyahu-sieht-derzeit-keine-moeglichkeit-einer-zweistaatenloesung](https://www.spiegel.de/politik/deutschland/israels-premier-benjamin-netanyahu-sieht-derzeit-keine-moeglichkeit-einer-zweistaatenloesung-a-a708ce5f-fcab-45db-bdb3-79b0bd30bc3b#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-israel-und-dann-kommt-die-heikle-frage-nach-dem-gegenbesuch](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-israel-und-dann-kommt-die-heikle-frage-nach-dem-gegenbesuch-a-8a0d83d2-f11b-4448-a4fa-f883c87911c8#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-kann-der-kanzler-nur-die-eigenen-finanzen-sanieren-kolumne](https://www.spiegel.de/politik/friedrich-merz-kann-der-kanzler-nur-die-eigenen-finanzen-sanieren-kolumne-a-80fe5097-6b0c-4781-885e-c17d68026aae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israels-premier-benjamin-netanyahu-sieht-derzeit-keine-moeglichkeit-einer-zweistaatenloesung](https://www.spiegel.de/politik/deutschland/israels-premier-benjamin-netanyahu-sieht-derzeit-keine-moeglichkeit-einer-zweistaatenloesung-a-a708ce5f-fcab-45db-bdb3-79b0bd30bc3b#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793-a-1c4d14c0-2d09-4b2c-acbe-1988dba43bb9#ref=rss)
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-bei-rtl-ein-abschied-auf-kik-discounter-niveau](https://www.spiegel.de/kultur/tv/thomas-gottschalk-bei-rtl-ein-abschied-auf-kik-discounter-niveau-a-6817bb82-6c42-415a-866c-50055ef8d7de#ref=rss)
+### britischen
+
+* [https://www.spiegel.de/kultur/autobiografie-von-starfotograf-martin-parr-voellig-faul-und-unaufmerksam](https://www.spiegel.de/kultur/autobiografie-von-starfotograf-martin-parr-voellig-faul-und-unaufmerksam-a-d138458f-54e7-43d5-9d43-5e3cf251eefd#ref=rss)
+* [https://www.spiegel.de/kultur/ernsthafte-fotos-als-unterhaltung-getarnt](https://www.spiegel.de/kultur/ernsthafte-fotos-als-unterhaltung-getarnt-a-9f43885a-2b3c-47a6-b10b-edf356ca4c7e#ref=rss)
+* [https://www.spiegel.de/kultur/grossbritannien-fotograf-martin-parr-im-alter-von-73-jahren-verstorben](https://www.spiegel.de/kultur/grossbritannien-fotograf-martin-parr-im-alter-von-73-jahren-verstorben-a-03279679-62fb-430a-aa17-ef8d524a1f22#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/kultur/ernsthafte-fotos-als-unterhaltung-getarnt](https://www.spiegel.de/kultur/ernsthafte-fotos-als-unterhaltung-getarnt-a-9f43885a-2b3c-47a6-b10b-edf356ca4c7e#ref=rss)
+* [https://www.spiegel.de/panorama/weihnachten-die-eindruecklichsten-fotos-zur-vorweihnachtszeit](https://www.spiegel.de/panorama/weihnachten-die-eindruecklichsten-fotos-zur-vorweihnachtszeit-a-429a078a-a792-4fa6-bfde-21ec852c17c8#ref=rss)
+* [https://www.spiegel.de/kultur/grossbritannien-fotograf-martin-parr-im-alter-von-73-jahren-verstorben](https://www.spiegel.de/kultur/grossbritannien-fotograf-martin-parr-im-alter-von-73-jahren-verstorben-a-03279679-62fb-430a-aa17-ef8d524a1f22#ref=rss)
+### max
+
+* [https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten](https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten-a-895864d5-a9de-4b99-9992-ce544900211c#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-lando-norris-ist-erstmals-formel-1-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-lando-norris-ist-erstmals-formel-1-weltmeister-a-13bc79e2-b957-464f-8164-f0888a302396#ref=rss)
+### verstappen
+
+* [https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten](https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten-a-895864d5-a9de-4b99-9992-ce544900211c#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-lando-norris-ist-erstmals-formel-1-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-lando-norris-ist-erstmals-formel-1-weltmeister-a-13bc79e2-b957-464f-8164-f0888a302396#ref=rss)
+### premier
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-israel-und-dann-kommt-die-heikle-frage-nach-dem-gegenbesuch](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-israel-und-dann-kommt-die-heikle-frage-nach-dem-gegenbesuch-a-8a0d83d2-f11b-4448-a4fa-f883c87911c8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israels-premier-benjamin-netanyahu-sieht-derzeit-keine-moeglichkeit-einer-zweistaatenloesung](https://www.spiegel.de/politik/deutschland/israels-premier-benjamin-netanyahu-sieht-derzeit-keine-moeglichkeit-einer-zweistaatenloesung-a-a708ce5f-fcab-45db-bdb3-79b0bd30bc3b#ref=rss)
+### netanyahu
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-israel-und-dann-kommt-die-heikle-frage-nach-dem-gegenbesuch](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-israel-und-dann-kommt-die-heikle-frage-nach-dem-gegenbesuch-a-8a0d83d2-f11b-4448-a4fa-f883c87911c8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israels-premier-benjamin-netanyahu-sieht-derzeit-keine-moeglichkeit-einer-zweistaatenloesung](https://www.spiegel.de/politik/deutschland/israels-premier-benjamin-netanyahu-sieht-derzeit-keine-moeglichkeit-einer-zweistaatenloesung-a-a708ce5f-fcab-45db-bdb3-79b0bd30bc3b#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten-a-b4640ffb-6dda-4718-aef3-bda4c541c8f4#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-temperaturen-in-deutschland-steigen-auf-bis-zu-17-grad](https://www.spiegel.de/panorama/wetter-temperaturen-in-deutschland-steigen-auf-bis-zu-17-grad-a-f886176b-860d-4e01-b266-51d1411da195#ref=rss)
+### wochen
+
+* [https://www.spiegel.de/kultur/autobiografie-von-starfotograf-martin-parr-voellig-faul-und-unaufmerksam](https://www.spiegel.de/kultur/autobiografie-von-starfotograf-martin-parr-voellig-faul-und-unaufmerksam-a-d138458f-54e7-43d5-9d43-5e3cf251eefd#ref=rss)
+* [https://www.spiegel.de/ausland/nicolas-sarkozy-ex-praesident-nutzt-buch-als-pr-coup-nach-haftentlassung](https://www.spiegel.de/ausland/nicolas-sarkozy-ex-praesident-nutzt-buch-als-pr-coup-nach-haftentlassung-a-c7a1233b-2b21-4496-9a33-da8446c516f6#ref=rss)
+### getroffen
+
+* [https://www.spiegel.de/kultur/autobiografie-von-starfotograf-martin-parr-voellig-faul-und-unaufmerksam](https://www.spiegel.de/kultur/autobiografie-von-starfotograf-martin-parr-voellig-faul-und-unaufmerksam-a-d138458f-54e7-43d5-9d43-5e3cf251eefd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/israels-premier-benjamin-netanyahu-sieht-derzeit-keine-moeglichkeit-einer-zweistaatenloesung](https://www.spiegel.de/politik/deutschland/israels-premier-benjamin-netanyahu-sieht-derzeit-keine-moeglichkeit-einer-zweistaatenloesung-a-a708ce5f-fcab-45db-bdb3-79b0bd30bc3b#ref=rss)
+### fotos
+
+* [https://www.spiegel.de/kultur/ernsthafte-fotos-als-unterhaltung-getarnt](https://www.spiegel.de/kultur/ernsthafte-fotos-als-unterhaltung-getarnt-a-9f43885a-2b3c-47a6-b10b-edf356ca4c7e#ref=rss)
+* [https://www.spiegel.de/panorama/weihnachten-die-eindruecklichsten-fotos-zur-vorweihnachtszeit](https://www.spiegel.de/panorama/weihnachten-die-eindruecklichsten-fotos-zur-vorweihnachtszeit-a-429a078a-a792-4fa6-bfde-21ec852c17c8#ref=rss)
+### arbeit
+
+* [https://www.spiegel.de/kultur/ernsthafte-fotos-als-unterhaltung-getarnt](https://www.spiegel.de/kultur/ernsthafte-fotos-als-unterhaltung-getarnt-a-9f43885a-2b3c-47a6-b10b-edf356ca4c7e#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-kann-der-kanzler-nur-die-eigenen-finanzen-sanieren-kolumne](https://www.spiegel.de/politik/friedrich-merz-kann-der-kanzler-nur-die-eigenen-finanzen-sanieren-kolumne-a-80fe5097-6b0c-4781-885e-c17d68026aae#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/kultur/ernsthafte-fotos-als-unterhaltung-getarnt](https://www.spiegel.de/kultur/ernsthafte-fotos-als-unterhaltung-getarnt-a-9f43885a-2b3c-47a6-b10b-edf356ca4c7e#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793-a-1c4d14c0-2d09-4b2c-acbe-1988dba43bb9#ref=rss)
+### pelz
+
+* [https://www.spiegel.de/kultur/comeback-der-pelze-friedhof-der-kuscheltiere](https://www.spiegel.de/kultur/comeback-der-pelze-friedhof-der-kuscheltiere-a-7059c97f-3c97-4c29-8153-03b028eb4037#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/kultur/comeback-der-pelze-friedhof-der-kuscheltiere](https://www.spiegel.de/kultur/comeback-der-pelze-friedhof-der-kuscheltiere-a-7059c97f-3c97-4c29-8153-03b028eb4037#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik/marathon-amanal-petros-stellt-in-valencia-neuen-deutschen-rekord-auf](https://www.spiegel.de/sport/leichtathletik/marathon-amanal-petros-stellt-in-valencia-neuen-deutschen-rekord-auf-a-c040e7d7-e607-4164-a0dc-62e12450baa4#ref=rss)
+### abu
+
+* [https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten](https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten-a-895864d5-a9de-4b99-9992-ce544900211c#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-lando-norris-ist-erstmals-formel-1-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-lando-norris-ist-erstmals-formel-1-weltmeister-a-13bc79e2-b957-464f-8164-f0888a302396#ref=rss)
+### dhabi
+
+* [https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten](https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten-a-895864d5-a9de-4b99-9992-ce544900211c#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-lando-norris-ist-erstmals-formel-1-weltmeister](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-lando-norris-ist-erstmals-formel-1-weltmeister-a-13bc79e2-b957-464f-8164-f0888a302396#ref=rss)
+### weltmeister
+
+* [https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten](https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten-a-895864d5-a9de-4b99-9992-ce544900211c#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten](https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten-a-895864d5-a9de-4b99-9992-ce544900211c#ref=rss)
+* [https://www.spiegel.de/ausland/globalisierung-harald-schumann-ueber-demokratie-armut-und-gerechte-verteilung](https://www.spiegel.de/ausland/globalisierung-harald-schumann-ueber-demokratie-armut-und-gerechte-verteilung-a-691ae55d-af45-4dde-95cd-73615bdcd3f5#ref=rss)
+### drei
+
+* [https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten](https://www.spiegel.de/sport/formel1/formel-1-finale-in-abu-dhabi-2025-lando-norris-entthront-weltmeister-max-verstappen-mit-zwei-punkten-a-895864d5-a9de-4b99-9992-ce544900211c#ref=rss)
+* [https://www.spiegel.de/ausland/nicolas-sarkozy-ex-praesident-nutzt-buch-als-pr-coup-nach-haftentlassung](https://www.spiegel.de/ausland/nicolas-sarkozy-ex-praesident-nutzt-buch-als-pr-coup-nach-haftentlassung-a-c7a1233b-2b21-4496-9a33-da8446c516f6#ref=rss)
+### fußballbundesliga
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-siegt-im-nordderby-gegen-werder-bremen-durch-ein-tor-von-yussuf-poulsen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-siegt-im-nordderby-gegen-werder-bremen-durch-ein-tor-von-yussuf-poulsen-a-96379e78-9432-46dd-bc69-e96b587eeb2b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05-a-55db1539-6519-4c60-81ab-a632c41e5aa9#ref=rss)
+### nordderby
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-siegt-im-nordderby-gegen-werder-bremen-durch-ein-tor-von-yussuf-poulsen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-siegt-im-nordderby-gegen-werder-bremen-durch-ein-tor-von-yussuf-poulsen-a-96379e78-9432-46dd-bc69-e96b587eeb2b#ref=rss)
+### werder
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-siegt-im-nordderby-gegen-werder-bremen-durch-ein-tor-von-yussuf-poulsen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-siegt-im-nordderby-gegen-werder-bremen-durch-ein-tor-von-yussuf-poulsen-a-96379e78-9432-46dd-bc69-e96b587eeb2b#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-siegt-im-nordderby-gegen-werder-bremen-durch-ein-tor-von-yussuf-poulsen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-siegt-im-nordderby-gegen-werder-bremen-durch-ein-tor-von-yussuf-poulsen-a-96379e78-9432-46dd-bc69-e96b587eeb2b#ref=rss)
+### yussuf
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-siegt-im-nordderby-gegen-werder-bremen-durch-ein-tor-von-yussuf-poulsen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-siegt-im-nordderby-gegen-werder-bremen-durch-ein-tor-von-yussuf-poulsen-a-96379e78-9432-46dd-bc69-e96b587eeb2b#ref=rss)
+### poulsen
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-siegt-im-nordderby-gegen-werder-bremen-durch-ein-tor-von-yussuf-poulsen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-siegt-im-nordderby-gegen-werder-bremen-durch-ein-tor-von-yussuf-poulsen-a-96379e78-9432-46dd-bc69-e96b587eeb2b#ref=rss)
+### acht
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-siegt-im-nordderby-gegen-werder-bremen-durch-ein-tor-von-yussuf-poulsen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hsv-siegt-im-nordderby-gegen-werder-bremen-durch-ein-tor-von-yussuf-poulsen-a-96379e78-9432-46dd-bc69-e96b587eeb2b#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-die-erfindung-des-rades-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-die-erfindung-des-rades-im-schnellcheck-a-1ac787dc-aa68-4b78-afcc-38acaed87897#ref=rss)
+### harald
+
+* [https://www.spiegel.de/ausland/globalisierung-harald-schumann-ueber-demokratie-armut-und-gerechte-verteilung](https://www.spiegel.de/ausland/globalisierung-harald-schumann-ueber-demokratie-armut-und-gerechte-verteilung-a-691ae55d-af45-4dde-95cd-73615bdcd3f5#ref=rss)
+### schumann
+
+* [https://www.spiegel.de/ausland/globalisierung-harald-schumann-ueber-demokratie-armut-und-gerechte-verteilung](https://www.spiegel.de/ausland/globalisierung-harald-schumann-ueber-demokratie-armut-und-gerechte-verteilung-a-691ae55d-af45-4dde-95cd-73615bdcd3f5#ref=rss)
+### armut
+
+* [https://www.spiegel.de/ausland/globalisierung-harald-schumann-ueber-demokratie-armut-und-gerechte-verteilung](https://www.spiegel.de/ausland/globalisierung-harald-schumann-ueber-demokratie-armut-und-gerechte-verteilung-a-691ae55d-af45-4dde-95cd-73615bdcd3f5#ref=rss)
+### gerechte
+
+* [https://www.spiegel.de/ausland/globalisierung-harald-schumann-ueber-demokratie-armut-und-gerechte-verteilung](https://www.spiegel.de/ausland/globalisierung-harald-schumann-ueber-demokratie-armut-und-gerechte-verteilung-a-691ae55d-af45-4dde-95cd-73615bdcd3f5#ref=rss)
+### verteilung
+
+* [https://www.spiegel.de/ausland/globalisierung-harald-schumann-ueber-demokratie-armut-und-gerechte-verteilung](https://www.spiegel.de/ausland/globalisierung-harald-schumann-ueber-demokratie-armut-und-gerechte-verteilung-a-691ae55d-af45-4dde-95cd-73615bdcd3f5#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-die-erfindung-des-rades-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-die-erfindung-des-rades-im-schnellcheck-a-1ac787dc-aa68-4b78-afcc-38acaed87897#ref=rss)
+### kriegt
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-die-erfindung-des-rades-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenster-die-erfindung-des-rades-im-schnellcheck-a-1ac787dc-aa68-4b78-afcc-38acaed87897#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793-a-1c4d14c0-2d09-4b2c-acbe-1988dba43bb9#ref=rss)
+### israel
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-israel-und-dann-kommt-die-heikle-frage-nach-dem-gegenbesuch](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-israel-und-dann-kommt-die-heikle-frage-nach-dem-gegenbesuch-a-8a0d83d2-f11b-4448-a4fa-f883c87911c8#ref=rss)
+### heikle
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-israel-und-dann-kommt-die-heikle-frage-nach-dem-gegenbesuch](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-israel-und-dann-kommt-die-heikle-frage-nach-dem-gegenbesuch-a-8a0d83d2-f11b-4448-a4fa-f883c87911c8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland-a-622c4c5e-ee68-43a5-a583-283abf691e82#ref=rss)
+### hegseth
+
+* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten-a-b4640ffb-6dda-4718-aef3-bda4c541c8f4#ref=rss)
+### usverteidigungsminister
+
+* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten-a-b4640ffb-6dda-4718-aef3-bda4c541c8f4#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten-a-b4640ffb-6dda-4718-aef3-bda4c541c8f4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05-a-55db1539-6519-4c60-81ab-a632c41e5aa9#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten-a-b4640ffb-6dda-4718-aef3-bda4c541c8f4#ref=rss)
+* [https://www.spiegel.de/politik/gespraech-mit-politologin-andrea-gawrich-ueber-europa](https://www.spiegel.de/politik/gespraech-mit-politologin-andrea-gawrich-ueber-europa-a-3b6ac93d-7af7-46d4-84aa-1dced9fe932a#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten-a-b4640ffb-6dda-4718-aef3-bda4c541c8f4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05-a-55db1539-6519-4c60-81ab-a632c41e5aa9#ref=rss)
+### druck
+
+* [https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten](https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten-a-b4640ffb-6dda-4718-aef3-bda4c541c8f4#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland-a-622c4c5e-ee68-43a5-a583-283abf691e82#ref=rss)
+### weihnachten
+
+* [https://www.spiegel.de/panorama/weihnachten-die-eindruecklichsten-fotos-zur-vorweihnachtszeit](https://www.spiegel.de/panorama/weihnachten-die-eindruecklichsten-fotos-zur-vorweihnachtszeit-a-429a078a-a792-4fa6-bfde-21ec852c17c8#ref=rss)
+### eindrücklichsten
+
+* [https://www.spiegel.de/panorama/weihnachten-die-eindruecklichsten-fotos-zur-vorweihnachtszeit](https://www.spiegel.de/panorama/weihnachten-die-eindruecklichsten-fotos-zur-vorweihnachtszeit-a-429a078a-a792-4fa6-bfde-21ec852c17c8#ref=rss)
+### chappatte
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793-a-1c4d14c0-2d09-4b2c-acbe-1988dba43bb9#ref=rss)
+### plaßmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793-a-1c4d14c0-2d09-4b2c-acbe-1988dba43bb9#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793-a-1c4d14c0-2d09-4b2c-acbe-1988dba43bb9#ref=rss)
+### stuttmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793-a-1c4d14c0-2d09-4b2c-acbe-1988dba43bb9#ref=rss)
+### kopie
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793-a-1c4d14c0-2d09-4b2c-acbe-1988dba43bb9#ref=rss)
+### partei
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1765095793-a-1c4d14c0-2d09-4b2c-acbe-1988dba43bb9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-auf-dem-parteitag-werden-die-graeben-tiefer](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-auf-dem-parteitag-werden-die-graeben-tiefer-a-aa745afe-730a-4c8e-ae29-6e37973c1367#ref=rss)
+### marathon
+
+* [https://www.spiegel.de/sport/leichtathletik/marathon-amanal-petros-stellt-in-valencia-neuen-deutschen-rekord-auf](https://www.spiegel.de/sport/leichtathletik/marathon-amanal-petros-stellt-in-valencia-neuen-deutschen-rekord-auf-a-c040e7d7-e607-4164-a0dc-62e12450baa4#ref=rss)
+### amanal
+
+* [https://www.spiegel.de/sport/leichtathletik/marathon-amanal-petros-stellt-in-valencia-neuen-deutschen-rekord-auf](https://www.spiegel.de/sport/leichtathletik/marathon-amanal-petros-stellt-in-valencia-neuen-deutschen-rekord-auf-a-c040e7d7-e607-4164-a0dc-62e12450baa4#ref=rss)
+### petros
+
+* [https://www.spiegel.de/sport/leichtathletik/marathon-amanal-petros-stellt-in-valencia-neuen-deutschen-rekord-auf](https://www.spiegel.de/sport/leichtathletik/marathon-amanal-petros-stellt-in-valencia-neuen-deutschen-rekord-auf-a-c040e7d7-e607-4164-a0dc-62e12450baa4#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/sport/leichtathletik/marathon-amanal-petros-stellt-in-valencia-neuen-deutschen-rekord-auf](https://www.spiegel.de/sport/leichtathletik/marathon-amanal-petros-stellt-in-valencia-neuen-deutschen-rekord-auf-a-c040e7d7-e607-4164-a0dc-62e12450baa4#ref=rss)
+### rekord
+
+* [https://www.spiegel.de/sport/leichtathletik/marathon-amanal-petros-stellt-in-valencia-neuen-deutschen-rekord-auf](https://www.spiegel.de/sport/leichtathletik/marathon-amanal-petros-stellt-in-valencia-neuen-deutschen-rekord-auf-a-c040e7d7-e607-4164-a0dc-62e12450baa4#ref=rss)
 ### gabriele
 
 * [https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung](https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung-a-4b1955b7-2463-4b15-8fbe-033225fb9c8b#ref=rss)
 ### pochhammer
 
 * [https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung](https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung-a-4b1955b7-2463-4b15-8fbe-033225fb9c8b#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung](https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung-a-4b1955b7-2463-4b15-8fbe-033225fb9c8b#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-temperaturen-in-deutschland-steigen-auf-bis-zu-17-grad](https://www.spiegel.de/panorama/wetter-temperaturen-in-deutschland-steigen-auf-bis-zu-17-grad-a-f886176b-860d-4e01-b266-51d1411da195#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/kultur/grossbritannien-fotograf-martin-parr-im-alter-von-73-jahren-verstorben](https://www.spiegel.de/kultur/grossbritannien-fotograf-martin-parr-im-alter-von-73-jahren-verstorben-a-03279679-62fb-430a-aa17-ef8d524a1f22#ref=rss)
+* [https://www.spiegel.de/panorama/norfolk-erster-wilder-biber-in-england-seit-ausrottung-vor-400-jahren-gesichtet](https://www.spiegel.de/panorama/norfolk-erster-wilder-biber-in-england-seit-ausrottung-vor-400-jahren-gesichtet-a-a57d0b2b-8a32-48d5-8035-85908ece5ea7#ref=rss)
+### 73
+
+* [https://www.spiegel.de/kultur/grossbritannien-fotograf-martin-parr-im-alter-von-73-jahren-verstorben](https://www.spiegel.de/kultur/grossbritannien-fotograf-martin-parr-im-alter-von-73-jahren-verstorben-a-03279679-62fb-430a-aa17-ef8d524a1f22#ref=rss)
+### gottschalk
+
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-bei-rtl-ein-abschied-auf-kik-discounter-niveau](https://www.spiegel.de/kultur/tv/thomas-gottschalk-bei-rtl-ein-abschied-auf-kik-discounter-niveau-a-6817bb82-6c42-415a-866c-50055ef8d7de#ref=rss)
+### rtl
+
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-bei-rtl-ein-abschied-auf-kik-discounter-niveau](https://www.spiegel.de/kultur/tv/thomas-gottschalk-bei-rtl-ein-abschied-auf-kik-discounter-niveau-a-6817bb82-6c42-415a-866c-50055ef8d7de#ref=rss)
+### abschied
+
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-bei-rtl-ein-abschied-auf-kik-discounter-niveau](https://www.spiegel.de/kultur/tv/thomas-gottschalk-bei-rtl-ein-abschied-auf-kik-discounter-niveau-a-6817bb82-6c42-415a-866c-50055ef8d7de#ref=rss)
+### sahra
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-auf-dem-parteitag-werden-die-graeben-tiefer](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-auf-dem-parteitag-werden-die-graeben-tiefer-a-aa745afe-730a-4c8e-ae29-6e37973c1367#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-auf-dem-parteitag-werden-die-graeben-tiefer](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-auf-dem-parteitag-werden-die-graeben-tiefer-a-aa745afe-730a-4c8e-ae29-6e37973c1367#ref=rss)
+### findet
+
+* [https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-auf-dem-parteitag-werden-die-graeben-tiefer](https://www.spiegel.de/politik/deutschland/buendnis-sahra-wagenknecht-auf-dem-parteitag-werden-die-graeben-tiefer-a-aa745afe-730a-4c8e-ae29-6e37973c1367#ref=rss)
+* [https://www.spiegel.de/panorama/leute/kate-winslet-findet-schoenheitswahn-verheerend-beaengstigend-und-erschreckend](https://www.spiegel.de/panorama/leute/kate-winslet-findet-schoenheitswahn-verheerend-beaengstigend-und-erschreckend-a-0408d241-75f3-4615-97e0-58ebf8f7c46b#ref=rss)
+### urs
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05-a-55db1539-6519-4c60-81ab-a632c41e5aa9#ref=rss)
+### fischer
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05-a-55db1539-6519-4c60-81ab-a632c41e5aa9#ref=rss)
+### fsv
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05-a-55db1539-6519-4c60-81ab-a632c41e5aa9#ref=rss)
+### mainz
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05-a-55db1539-6519-4c60-81ab-a632c41e5aa9#ref=rss)
+### 05
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05-a-55db1539-6519-4c60-81ab-a632c41e5aa9#ref=rss)
+### abstieg
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05-a-55db1539-6519-4c60-81ab-a632c41e5aa9#ref=rss)
+### 17
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-urs-fischer-wird-neuer-trainer-beim-fsv-mainz-05-a-55db1539-6519-4c60-81ab-a632c41e5aa9#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-temperaturen-in-deutschland-steigen-auf-bis-zu-17-grad](https://www.spiegel.de/panorama/wetter-temperaturen-in-deutschland-steigen-auf-bis-zu-17-grad-a-f886176b-860d-4e01-b266-51d1411da195#ref=rss)
+### rentenbeginn
+
+* [https://www.spiegel.de/wirtschaft/soziales/renten-formel-vorschlag-fuer-rentenbeginn-nach-lebensarbeitszeit-statt-alter](https://www.spiegel.de/wirtschaft/soziales/renten-formel-vorschlag-fuer-rentenbeginn-nach-lebensarbeitszeit-statt-alter-a-302abc49-76d3-4050-99e0-5c3239a00217#ref=rss)
+### lebensarbeitszeit
+
+* [https://www.spiegel.de/wirtschaft/soziales/renten-formel-vorschlag-fuer-rentenbeginn-nach-lebensarbeitszeit-statt-alter](https://www.spiegel.de/wirtschaft/soziales/renten-formel-vorschlag-fuer-rentenbeginn-nach-lebensarbeitszeit-statt-alter-a-302abc49-76d3-4050-99e0-5c3239a00217#ref=rss)
+### statt
+
+* [https://www.spiegel.de/wirtschaft/soziales/renten-formel-vorschlag-fuer-rentenbeginn-nach-lebensarbeitszeit-statt-alter](https://www.spiegel.de/wirtschaft/soziales/renten-formel-vorschlag-fuer-rentenbeginn-nach-lebensarbeitszeit-statt-alter-a-302abc49-76d3-4050-99e0-5c3239a00217#ref=rss)
+### steigen
+
+* [https://www.spiegel.de/wirtschaft/soziales/renten-formel-vorschlag-fuer-rentenbeginn-nach-lebensarbeitszeit-statt-alter](https://www.spiegel.de/wirtschaft/soziales/renten-formel-vorschlag-fuer-rentenbeginn-nach-lebensarbeitszeit-statt-alter-a-302abc49-76d3-4050-99e0-5c3239a00217#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-temperaturen-in-deutschland-steigen-auf-bis-zu-17-grad](https://www.spiegel.de/panorama/wetter-temperaturen-in-deutschland-steigen-auf-bis-zu-17-grad-a-f886176b-860d-4e01-b266-51d1411da195#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/wirtschaft/soziales/renten-formel-vorschlag-fuer-rentenbeginn-nach-lebensarbeitszeit-statt-alter](https://www.spiegel.de/wirtschaft/soziales/renten-formel-vorschlag-fuer-rentenbeginn-nach-lebensarbeitszeit-statt-alter-a-302abc49-76d3-4050-99e0-5c3239a00217#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland-a-622c4c5e-ee68-43a5-a583-283abf691e82#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/friedrich-merz-kann-der-kanzler-nur-die-eigenen-finanzen-sanieren-kolumne](https://www.spiegel.de/politik/friedrich-merz-kann-der-kanzler-nur-die-eigenen-finanzen-sanieren-kolumne-a-80fe5097-6b0c-4781-885e-c17d68026aae#ref=rss)
+### kate
+
+* [https://www.spiegel.de/panorama/leute/kate-winslet-findet-schoenheitswahn-verheerend-beaengstigend-und-erschreckend](https://www.spiegel.de/panorama/leute/kate-winslet-findet-schoenheitswahn-verheerend-beaengstigend-und-erschreckend-a-0408d241-75f3-4615-97e0-58ebf8f7c46b#ref=rss)
+### winslet
+
+* [https://www.spiegel.de/panorama/leute/kate-winslet-findet-schoenheitswahn-verheerend-beaengstigend-und-erschreckend](https://www.spiegel.de/panorama/leute/kate-winslet-findet-schoenheitswahn-verheerend-beaengstigend-und-erschreckend-a-0408d241-75f3-4615-97e0-58ebf8f7c46b#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/politik/gespraech-mit-politologin-andrea-gawrich-ueber-europa](https://www.spiegel.de/politik/gespraech-mit-politologin-andrea-gawrich-ueber-europa-a-3b6ac93d-7af7-46d4-84aa-1dced9fe932a#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland-a-622c4c5e-ee68-43a5-a583-283abf691e82#ref=rss)
+### politologin
+
+* [https://www.spiegel.de/politik/gespraech-mit-politologin-andrea-gawrich-ueber-europa](https://www.spiegel.de/politik/gespraech-mit-politologin-andrea-gawrich-ueber-europa-a-3b6ac93d-7af7-46d4-84aa-1dced9fe932a#ref=rss)
+### andrea
+
+* [https://www.spiegel.de/politik/gespraech-mit-politologin-andrea-gawrich-ueber-europa](https://www.spiegel.de/politik/gespraech-mit-politologin-andrea-gawrich-ueber-europa-a-3b6ac93d-7af7-46d4-84aa-1dced9fe932a#ref=rss)
+### gawrich
+
+* [https://www.spiegel.de/politik/gespraech-mit-politologin-andrea-gawrich-ueber-europa](https://www.spiegel.de/politik/gespraech-mit-politologin-andrea-gawrich-ueber-europa-a-3b6ac93d-7af7-46d4-84aa-1dced9fe932a#ref=rss)
+### eu
+
+* [https://www.spiegel.de/politik/gespraech-mit-politologin-andrea-gawrich-ueber-europa](https://www.spiegel.de/politik/gespraech-mit-politologin-andrea-gawrich-ueber-europa-a-3b6ac93d-7af7-46d4-84aa-1dced9fe932a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frankreich-und-china-macron-droht-mit-handelsbeschraenkungen-gegen-china](https://www.spiegel.de/wirtschaft/frankreich-und-china-macron-droht-mit-handelsbeschraenkungen-gegen-china-a-555bde1b-4f5f-422c-8fc7-611506bf52b6#ref=rss)
+### außenminister
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland-a-622c4c5e-ee68-43a5-a583-283abf691e82#ref=rss)
+### wadephul
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland-a-622c4c5e-ee68-43a5-a583-283abf691e82#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an](https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an-a-ce48e0a0-c443-47e4-90e7-46134322ab5f#ref=rss)
-### herzog
+* [https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland](https://www.spiegel.de/ausland/ukraine-krieg-aussenminister-johann-wadephul-fordert-von-china-mehr-druck-auf-russland-a-622c4c5e-ee68-43a5-a583-283abf691e82#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump](https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump-a-60911a2c-bde8-4373-9cd0-b52515f2ece9#ref=rss)
-### trump
+* [https://www.spiegel.de/wirtschaft/frankreich-und-china-macron-droht-mit-handelsbeschraenkungen-gegen-china](https://www.spiegel.de/wirtschaft/frankreich-und-china-macron-droht-mit-handelsbeschraenkungen-gegen-china-a-555bde1b-4f5f-422c-8fc7-611506bf52b6#ref=rss)
+### macron
 
-* [https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump](https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump-a-60911a2c-bde8-4373-9cd0-b52515f2ece9#ref=rss)
-### goa
+* [https://www.spiegel.de/wirtschaft/frankreich-und-china-macron-droht-mit-handelsbeschraenkungen-gegen-china](https://www.spiegel.de/wirtschaft/frankreich-und-china-macron-droht-mit-handelsbeschraenkungen-gegen-china-a-555bde1b-4f5f-422c-8fc7-611506bf52b6#ref=rss)
+### nicolas
 
-* [https://www.spiegel.de/panorama/goa-viele-tote-bei-brand-in-indischem-nachtclub](https://www.spiegel.de/panorama/goa-viele-tote-bei-brand-in-indischem-nachtclub-a-1d21a7fe-fb95-4232-909b-eccffe328c25#ref=rss)
-### denn
+* [https://www.spiegel.de/ausland/nicolas-sarkozy-ex-praesident-nutzt-buch-als-pr-coup-nach-haftentlassung](https://www.spiegel.de/ausland/nicolas-sarkozy-ex-praesident-nutzt-buch-als-pr-coup-nach-haftentlassung-a-c7a1233b-2b21-4496-9a33-da8446c516f6#ref=rss)
+### buch
 
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
-### wissen
+* [https://www.spiegel.de/ausland/nicolas-sarkozy-ex-praesident-nutzt-buch-als-pr-coup-nach-haftentlassung](https://www.spiegel.de/ausland/nicolas-sarkozy-ex-praesident-nutzt-buch-als-pr-coup-nach-haftentlassung-a-c7a1233b-2b21-4496-9a33-da8446c516f6#ref=rss)
+### laut
 
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
-### passiert
+* [https://www.spiegel.de/wirtschaft/luftfahrt-klimaneutralitaet-bis-zum-zieljahr-2050-kostet-laut-studie-5-1-billionen-dollar](https://www.spiegel.de/wirtschaft/luftfahrt-klimaneutralitaet-bis-zum-zieljahr-2050-kostet-laut-studie-5-1-billionen-dollar-a-42cb6c22-4a11-4005-8463-7aa8ad4aece6#ref=rss)
+### studie
 
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
-### krebsop
+* [https://www.spiegel.de/wirtschaft/luftfahrt-klimaneutralitaet-bis-zum-zieljahr-2050-kostet-laut-studie-5-1-billionen-dollar](https://www.spiegel.de/wirtschaft/luftfahrt-klimaneutralitaet-bis-zum-zieljahr-2050-kostet-laut-studie-5-1-billionen-dollar-a-42cb6c22-4a11-4005-8463-7aa8ad4aece6#ref=rss)
+### alice
 
-* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
-### a61
+* [https://www.spiegel.de/politik/deutschland/alice-weidel-polizeigewerkschaft-verteidigt-verfassungsschutz-nach-afd-attacke](https://www.spiegel.de/politik/deutschland/alice-weidel-polizeigewerkschaft-verteidigt-verfassungsschutz-nach-afd-attacke-a-04abe603-8063-463e-a4af-ab7f9802a666#ref=rss)
+### weidel
 
-* [https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot](https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot-a-83828541-bfac-4fa4-bc37-3d70e660e9ed#ref=rss)
-### beifahrer
+* [https://www.spiegel.de/politik/deutschland/alice-weidel-polizeigewerkschaft-verteidigt-verfassungsschutz-nach-afd-attacke](https://www.spiegel.de/politik/deutschland/alice-weidel-polizeigewerkschaft-verteidigt-verfassungsschutz-nach-afd-attacke-a-04abe603-8063-463e-a4af-ab7f9802a666#ref=rss)
+### biber
 
-* [https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot](https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot-a-83828541-bfac-4fa4-bc37-3d70e660e9ed#ref=rss)
-### tot
-
-* [https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot](https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot-a-83828541-bfac-4fa4-bc37-3d70e660e9ed#ref=rss)
-### lionel
-
-* [https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel](https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel-a-dbd4f124-40f9-4ee0-8d7f-b3c23a36e8b9#ref=rss)
-### messi
-
-* [https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel](https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel-a-dbd4f124-40f9-4ee0-8d7f-b3c23a36e8b9#ref=rss)
-### 18
-
-* [https://www.spiegel.de/ausland/mittelmeer-18-tote-bei-bootsunglueck-vor-griechischer-kueste](https://www.spiegel.de/ausland/mittelmeer-18-tote-bei-bootsunglueck-vor-griechischer-kueste-a-65575160-1db1-4021-aab0-8fadcd811e20#ref=rss)
+* [https://www.spiegel.de/panorama/norfolk-erster-wilder-biber-in-england-seit-ausrottung-vor-400-jahren-gesichtet](https://www.spiegel.de/panorama/norfolk-erster-wilder-biber-in-england-seit-ausrottung-vor-400-jahren-gesichtet-a-a57d0b2b-8a32-48d5-8035-85908ece5ea7#ref=rss)
 
