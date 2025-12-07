@@ -4,354 +4,367 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### drei
+### thomas
 
-* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief-a-ba593e4c-6698-4dbb-a0a6-aa39db270fef#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren-a-3138d996-d84d-49bb-9fdf-58fa2bf0958a#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/margaret-atwood-wir-sollten-keine-schafe-sein-die-erst-aufwachen-wenn-der-wolf-schon-da-ist](https://www.spiegel.de/kultur/literatur/margaret-atwood-wir-sollten-keine-schafe-sein-die-erst-aufwachen-wenn-der-wolf-schon-da-ist-a-7d6cab6e-bba8-4d61-ba19-2eb105ea0d75#ref=rss)
-* [https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder](https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder-a-fe081bb2-72e4-436b-bbe1-e6fb83fa85cb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-im-spiegel-interview-2024-ihr-nennt-mich-doch-auch-einen-uncoolen-onkel](https://www.spiegel.de/wirtschaft/thomas-gottschalk-im-spiegel-interview-2024-ihr-nennt-mich-doch-auch-einen-uncoolen-onkel-a-aeb67d36-b0a5-427f-989c-978c132cc219#ref=rss)
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera](https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera-a-2e498aa6-a8ae-4400-b2f0-99d4f0aaaaf2#ref=rss)
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
+* [https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel](https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel-a-dbd4f124-40f9-4ee0-8d7f-b3c23a36e8b9#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/wissenschaft/ausgrabungen-in-berlin-warum-archaeologen-begeistert-sind-wenn-sie-auf-alte-latrinen-aus-dem-mittelalter-stossen](https://www.spiegel.de/wissenschaft/ausgrabungen-in-berlin-warum-archaeologen-begeistert-sind-wenn-sie-auf-alte-latrinen-aus-dem-mittelalter-stossen-a-b652b0f7-d553-4b4a-8b5c-0b2606e11f24#ref=rss)
-* [https://www.spiegel.de/panorama/usa-wie-ein-anwalt-in-den-suedstaaten-allein-gegen-trumps-abschiebemaschine-kaempft](https://www.spiegel.de/panorama/usa-wie-ein-anwalt-in-den-suedstaaten-allein-gegen-trumps-abschiebemaschine-kaempft-a-4f629230-501d-4366-89a6-26f0208ed784#ref=rss)
-* [https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder](https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder-a-fe081bb2-72e4-436b-bbe1-e6fb83fa85cb#ref=rss)
-### offenbar
+* [https://www.spiegel.de/panorama/integration-warum-menschen-mit-migrationsgeschichte-die-afd-waehlen](https://www.spiegel.de/panorama/integration-warum-menschen-mit-migrationsgeschichte-die-afd-waehlen-a-d491787f-bc31-4f4d-9b9a-e96729b09ca8#ref=rss)
+* [https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen](https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen-a-6779ebb7-3c07-4b48-b131-5b8999e209cd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/akne-impfung-suche-nach-der-anti-pickel-spritze](https://www.spiegel.de/wissenschaft/mensch/akne-impfung-suche-nach-der-anti-pickel-spritze-a-2e62fe84-c4c5-49ae-b6dd-e0aa41b0188d#ref=rss)
+* [https://www.spiegel.de/panorama/goa-viele-tote-bei-brand-in-indischem-nachtclub](https://www.spiegel.de/panorama/goa-viele-tote-bei-brand-in-indischem-nachtclub-a-1d21a7fe-fb95-4232-909b-eccffe328c25#ref=rss)
+* [https://www.spiegel.de/ausland/mittelmeer-18-tote-bei-bootsunglueck-vor-griechischer-kueste](https://www.spiegel.de/ausland/mittelmeer-18-tote-bei-bootsunglueck-vor-griechischer-kueste-a-65575160-1db1-4021-aab0-8fadcd811e20#ref=rss)
+### gottschalk
 
-* [https://www.spiegel.de/panorama/leute/george-clooney-hollywoodschauspieler-faehrt-immer-zug](https://www.spiegel.de/panorama/leute/george-clooney-hollywoodschauspieler-faehrt-immer-zug-a-1011566a-827b-436e-98e0-0306cd02be53#ref=rss)
-* [https://www.spiegel.de/panorama/leute/momfluencerin-soll-kaninchen-im-wald-ausgesetzt-haben-und-erntet-shitstorm](https://www.spiegel.de/panorama/leute/momfluencerin-soll-kaninchen-im-wald-ausgesetzt-haben-und-erntet-shitstorm-a-a5502ac5-c1de-495c-941d-a4b6004abcf3#ref=rss)
-* [https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar](https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar-a-bd0bf2f0-5be2-4a28-8693-a14f0330236e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weihnachtsplaetzchen-oesterreichischer-fiskus-warnt-vor-illegalem-verkauf](https://www.spiegel.de/wirtschaft/weihnachtsplaetzchen-oesterreichischer-fiskus-warnt-vor-illegalem-verkauf-a-48367e00-2f5e-403e-9be0-5313aba556db#ref=rss)
-### formel
-
-* [https://www.spiegel.de/auto/formel-e-das-unterschaetzte-forschungslabor-der-elektromobilitaet](https://www.spiegel.de/auto/formel-e-das-unterschaetzte-forschungslabor-der-elektromobilitaet-a-480634fa-098d-47ce-96da-1cb55fea0e21#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren-a-3138d996-d84d-49bb-9fdf-58fa2bf0958a#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/kultur/kino/film-15-liebesbeweise-lizenz-zum-elternwerden](https://www.spiegel.de/kultur/kino/film-15-liebesbeweise-lizenz-zum-elternwerden-a-bd64c2b8-90de-4c09-a925-07591f02248d#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren-a-3138d996-d84d-49bb-9fdf-58fa2bf0958a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bremen-zwei-frauen-nach-kuss-brutal-angegriffen](https://www.spiegel.de/panorama/justiz/bremen-zwei-frauen-nach-kuss-brutal-angegriffen-a-446143c2-6e0f-42cf-a549-027b64bcc859#ref=rss)
-### wir
-
-* [https://www.spiegel.de/kultur/literatur/margaret-atwood-wir-sollten-keine-schafe-sein-die-erst-aufwachen-wenn-der-wolf-schon-da-ist](https://www.spiegel.de/kultur/literatur/margaret-atwood-wir-sollten-keine-schafe-sein-die-erst-aufwachen-wenn-der-wolf-schon-da-ist-a-7d6cab6e-bba8-4d61-ba19-2eb105ea0d75#ref=rss)
-* [https://www.spiegel.de/tests/ferngelenkte-autos-im-test-dickie-carson-traxxas-revell-und-carrera](https://www.spiegel.de/tests/ferngelenkte-autos-im-test-dickie-carson-traxxas-revell-und-carrera-a-1a215af6-beb9-422d-a2c1-c806a6e8b2bd#ref=rss)
-* [https://www.spiegel.de/familie/weihnachten-warum-wir-an-den-feiertagen-einen-nichtstun-tag-eingefuehrt-haben](https://www.spiegel.de/familie/weihnachten-warum-wir-an-den-feiertagen-einen-nichtstun-tag-eingefuehrt-haben-a-d312804c-e615-43f9-9120-ea405d6d519f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-mexiko-und-kanada-spielplan-gruppen-stadien](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-mexiko-und-kanada-spielplan-gruppen-stadien-a-82a8b8f7-36ec-495e-bef7-e6b9bacfef30#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/usa-wie-ein-anwalt-in-den-suedstaaten-allein-gegen-trumps-abschiebemaschine-kaempft](https://www.spiegel.de/panorama/usa-wie-ein-anwalt-in-den-suedstaaten-allein-gegen-trumps-abschiebemaschine-kaempft-a-4f629230-501d-4366-89a6-26f0208ed784#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-mexiko-und-kanada-spielplan-gruppen-stadien](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-mexiko-und-kanada-spielplan-gruppen-stadien-a-82a8b8f7-36ec-495e-bef7-e6b9bacfef30#ref=rss)
-### sinatra
-
-* [https://www.spiegel.de/kultur/musik/nancy-sinatra-ihr-vater-frank-sinatra-habe-donald-trump-verabscheut](https://www.spiegel.de/kultur/musik/nancy-sinatra-ihr-vater-frank-sinatra-habe-donald-trump-verabscheut-a-46442218-705d-44a6-8341-e99f3cf6e76d#ref=rss)
-### trump
-
-* [https://www.spiegel.de/kultur/musik/nancy-sinatra-ihr-vater-frank-sinatra-habe-donald-trump-verabscheut](https://www.spiegel.de/kultur/musik/nancy-sinatra-ihr-vater-frank-sinatra-habe-donald-trump-verabscheut-a-46442218-705d-44a6-8341-e99f3cf6e76d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-im-spiegel-interview-2024-ihr-nennt-mich-doch-auch-einen-uncoolen-onkel](https://www.spiegel.de/wirtschaft/thomas-gottschalk-im-spiegel-interview-2024-ihr-nennt-mich-doch-auch-einen-uncoolen-onkel-a-aeb67d36-b0a5-427f-989c-978c132cc219#ref=rss)
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera](https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera-a-2e498aa6-a8ae-4400-b2f0-99d4f0aaaaf2#ref=rss)
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wissenschaft/ausgrabungen-in-berlin-warum-archaeologen-begeistert-sind-wenn-sie-auf-alte-latrinen-aus-dem-mittelalter-stossen](https://www.spiegel.de/wissenschaft/ausgrabungen-in-berlin-warum-archaeologen-begeistert-sind-wenn-sie-auf-alte-latrinen-aus-dem-mittelalter-stossen-a-b652b0f7-d553-4b4a-8b5c-0b2606e11f24#ref=rss)
-* [https://www.spiegel.de/wirtschaft/butter-ist-wieder-billig-discounter-senken-preise](https://www.spiegel.de/wirtschaft/butter-ist-wieder-billig-discounter-senken-preise-a-d85732a1-f819-4c9f-aed2-4a0207489356#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/alzheimer-patientin-sandra-demontigny-bei-alzheimer-gibt-es-kein-einmal-einmal-ist-der-anfang-von-immer](https://www.spiegel.de/gesundheit/diagnose/alzheimer-patientin-sandra-demontigny-bei-alzheimer-gibt-es-kein-einmal-einmal-ist-der-anfang-von-immer-a-12d09d46-6fc1-4e02-b218-a752d377d7c3#ref=rss)
-### frauen
+* [https://www.spiegel.de/ausland/iran-auto-betrug-in-millionenhoehe-manager-hingerichtet](https://www.spiegel.de/ausland/iran-auto-betrug-in-millionenhoehe-manager-hingerichtet-a-da2196eb-755e-4ef1-ae84-ec9f7ad1348b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wladimir-putin-russland-ukraine](https://www.spiegel.de/politik/deutschland/news-wladimir-putin-russland-ukraine-a-40b4be63-cfed-4154-9720-15b541d3af67#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/grundschule-es-faellt-den-kindern-schwer-sich-an-regeln-zu-halten](https://www.spiegel.de/panorama/bildung/grundschule-es-faellt-den-kindern-schwer-sich-an-regeln-zu-halten-a-1c38820f-5560-46bc-8fc1-fd6c5a02506c#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/kultur/kino/film-15-liebesbeweise-lizenz-zum-elternwerden](https://www.spiegel.de/kultur/kino/film-15-liebesbeweise-lizenz-zum-elternwerden-a-bd64c2b8-90de-4c09-a925-07591f02248d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bremen-zwei-frauen-nach-kuss-brutal-angegriffen](https://www.spiegel.de/panorama/justiz/bremen-zwei-frauen-nach-kuss-brutal-angegriffen-a-446143c2-6e0f-42cf-a549-027b64bcc859#ref=rss)
-### fahrer
+* [https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten](https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten-a-498f46f8-503b-4e6c-b002-4f3b5bd13ee8#ref=rss)
+* [https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen](https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen-a-6779ebb7-3c07-4b48-b131-5b8999e209cd#ref=rss)
+* [https://www.spiegel.de/ausland/japan-wirft-china-vor-kampfjets-ins-visier-genommen-zu-haben](https://www.spiegel.de/ausland/japan-wirft-china-vor-kampfjets-ins-visier-genommen-zu-haben-a-7a7bee08-43dc-4db2-a052-2d20e52c86fa#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an](https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an-a-ce48e0a0-c443-47e4-90e7-46134322ab5f#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren-a-3138d996-d84d-49bb-9fdf-58fa2bf0958a#ref=rss)
-* [https://www.spiegel.de/panorama/nikolaus-quad-verunglueckt-auf-a6-bei-viernheim-fahrer-stuerzt-und-verletzt-sich-schwer](https://www.spiegel.de/panorama/nikolaus-quad-verunglueckt-auf-a6-bei-viernheim-fahrer-stuerzt-und-verletzt-sich-schwer-a-30c5366f-df2e-44ca-ac5d-6bf9b0127128#ref=rss)
-### eu
-
-* [https://www.spiegel.de/netzwelt/elon-musk-milliardaer-fordert-nach-strafe-gegen-x-abschaffung-der-eu](https://www.spiegel.de/netzwelt/elon-musk-milliardaer-fordert-nach-strafe-gegen-x-abschaffung-der-eu-a-fef3ed5d-7310-4c1f-b80f-319f51a1bf88#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-roberta-metsola-als-moegliche-nachfolgerin-von-ursula-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-roberta-metsola-als-moegliche-nachfolgerin-von-ursula-von-der-leyen-a-e231893c-eec6-4e87-ba88-6cb3b2d1db32#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-ueberleben-in-kyjiws-u-bahn-waehrend-drohnenangriffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-ueberleben-in-kyjiws-u-bahn-waehrend-drohnenangriffen-a-36012fa9-677c-4204-9929-527b28153a02#ref=rss)
-* [https://www.spiegel.de/panorama/nikolaus-quad-verunglueckt-auf-a6-bei-viernheim-fahrer-stuerzt-und-verletzt-sich-schwer](https://www.spiegel.de/panorama/nikolaus-quad-verunglueckt-auf-a6-bei-viernheim-fahrer-stuerzt-und-verletzt-sich-schwer-a-30c5366f-df2e-44ca-ac5d-6bf9b0127128#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/nikolaus-quad-verunglueckt-auf-a6-bei-viernheim-fahrer-stuerzt-und-verletzt-sich-schwer](https://www.spiegel.de/panorama/nikolaus-quad-verunglueckt-auf-a6-bei-viernheim-fahrer-stuerzt-und-verletzt-sich-schwer-a-30c5366f-df2e-44ca-ac5d-6bf9b0127128#ref=rss)
-* [https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar](https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar-a-bd0bf2f0-5be2-4a28-8693-a14f0330236e#ref=rss)
-* [https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder](https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder-a-fe081bb2-72e4-436b-bbe1-e6fb83fa85cb#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar](https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar-a-bd0bf2f0-5be2-4a28-8693-a14f0330236e#ref=rss)
-* [https://www.spiegel.de/ausland/london-tower-nach-angriff-auf-kronjuwelen-teilweise-gesperrt](https://www.spiegel.de/ausland/london-tower-nach-angriff-auf-kronjuwelen-teilweise-gesperrt-a-d53e3c00-cfc0-4d9c-83a1-f7d3365565c4#ref=rss)
-* [https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder](https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder-a-fe081bb2-72e4-436b-bbe1-e6fb83fa85cb#ref=rss)
-### frau
-
-* [https://www.spiegel.de/ausland/j-d-vance-us-vizepraesident-dementiert-geruechte-ueber-ehekrise-mit-frau-usha](https://www.spiegel.de/ausland/j-d-vance-us-vizepraesident-dementiert-geruechte-ueber-ehekrise-mit-frau-usha-a-3ec0b43f-fbdd-4f96-a7ba-89260abb13e5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-roberta-metsola-als-moegliche-nachfolgerin-von-ursula-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-roberta-metsola-als-moegliche-nachfolgerin-von-ursula-von-der-leyen-a-e231893c-eec6-4e87-ba88-6cb3b2d1db32#ref=rss)
-### alzheimer
-
-* [https://www.spiegel.de/gesundheit/diagnose/alzheimer-patientin-sandra-demontigny-bei-alzheimer-gibt-es-kein-einmal-einmal-ist-der-anfang-von-immer](https://www.spiegel.de/gesundheit/diagnose/alzheimer-patientin-sandra-demontigny-bei-alzheimer-gibt-es-kein-einmal-einmal-ist-der-anfang-von-immer-a-12d09d46-6fc1-4e02-b218-a752d377d7c3#ref=rss)
-### frank
-
-* [https://www.spiegel.de/kultur/musik/nancy-sinatra-ihr-vater-frank-sinatra-habe-donald-trump-verabscheut](https://www.spiegel.de/kultur/musik/nancy-sinatra-ihr-vater-frank-sinatra-habe-donald-trump-verabscheut-a-46442218-705d-44a6-8341-e99f3cf6e76d#ref=rss)
-### donald
-
-* [https://www.spiegel.de/kultur/musik/nancy-sinatra-ihr-vater-frank-sinatra-habe-donald-trump-verabscheut](https://www.spiegel.de/kultur/musik/nancy-sinatra-ihr-vater-frank-sinatra-habe-donald-trump-verabscheut-a-46442218-705d-44a6-8341-e99f3cf6e76d#ref=rss)
-### latrinen
-
-* [https://www.spiegel.de/wissenschaft/ausgrabungen-in-berlin-warum-archaeologen-begeistert-sind-wenn-sie-auf-alte-latrinen-aus-dem-mittelalter-stossen](https://www.spiegel.de/wissenschaft/ausgrabungen-in-berlin-warum-archaeologen-begeistert-sind-wenn-sie-auf-alte-latrinen-aus-dem-mittelalter-stossen-a-b652b0f7-d553-4b4a-8b5c-0b2606e11f24#ref=rss)
-### mittelalter
-
-* [https://www.spiegel.de/wissenschaft/ausgrabungen-in-berlin-warum-archaeologen-begeistert-sind-wenn-sie-auf-alte-latrinen-aus-dem-mittelalter-stossen](https://www.spiegel.de/wissenschaft/ausgrabungen-in-berlin-warum-archaeologen-begeistert-sind-wenn-sie-auf-alte-latrinen-aus-dem-mittelalter-stossen-a-b652b0f7-d553-4b4a-8b5c-0b2606e11f24#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-harry-kane-und-laimer-fuehren-fc-bayern-muenchen-zum-sieg-beim-vfb-stuttgart](https://www.spiegel.de/sport/fussball/bundesliga-harry-kane-und-laimer-fuehren-fc-bayern-muenchen-zum-sieg-beim-vfb-stuttgart-a-ddcd83ea-e5ce-4311-b98f-016851ddd640#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche](https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche-a-90e0e20a-5a70-4089-9198-c36ba4424196#ref=rss)
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera](https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera-a-2e498aa6-a8ae-4400-b2f0-99d4f0aaaaf2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel](https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel-a-dbd4f124-40f9-4ee0-8d7f-b3c23a36e8b9#ref=rss)
 ### stuttgart
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-harry-kane-und-laimer-fuehren-fc-bayern-muenchen-zum-sieg-beim-vfb-stuttgart](https://www.spiegel.de/sport/fussball/bundesliga-harry-kane-und-laimer-fuehren-fc-bayern-muenchen-zum-sieg-beim-vfb-stuttgart-a-ddcd83ea-e5ce-4311-b98f-016851ddd640#ref=rss)
-### philipp
+* [https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen](https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen-a-6779ebb7-3c07-4b48-b131-5b8999e209cd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche](https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche-a-90e0e20a-5a70-4089-9198-c36ba4424196#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief-a-ba593e4c-6698-4dbb-a0a6-aa39db270fef#ref=rss)
-### raimund
+* [https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-verteidigt-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-verteidigt-angriff-auf-mutmassliches-drogenboot-a-4887e8e6-be55-43fd-9551-5d4b6310c603#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wladimir-putin-russland-ukraine](https://www.spiegel.de/politik/deutschland/news-wladimir-putin-russland-ukraine-a-40b4be63-cfed-4154-9720-15b541d3af67#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an](https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an-a-ce48e0a0-c443-47e4-90e7-46134322ab5f#ref=rss)
+### abschied
 
-* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief-a-ba593e4c-6698-4dbb-a0a6-aa39db270fef#ref=rss)
-### knapp
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief-a-ba593e4c-6698-4dbb-a0a6-aa39db270fef#ref=rss)
-### weltcupsieg
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief-a-ba593e4c-6698-4dbb-a0a6-aa39db270fef#ref=rss)
-### andreas
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief-a-ba593e4c-6698-4dbb-a0a6-aa39db270fef#ref=rss)
-### wellinger
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief-a-ba593e4c-6698-4dbb-a0a6-aa39db270fef#ref=rss)
-### formtief
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief-a-ba593e4c-6698-4dbb-a0a6-aa39db270fef#ref=rss)
-### steckt
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief](https://www.spiegel.de/sport/wintersport/skispringen-philipp-raimund-in-wisla-nur-knapp-am-weltcupsieg-vorbei-andreas-wellinger-im-formtief-a-ba593e4c-6698-4dbb-a0a6-aa39db270fef#ref=rss)
-* [https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar](https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar-a-bd0bf2f0-5be2-4a28-8693-a14f0330236e#ref=rss)
-### julia
-
-* [https://www.spiegel.de/karriere/arbeitswelt-und-kuenstliche-intelligenz-julia-backmann-ueber-die-zukunft-des-berufslebens](https://www.spiegel.de/karriere/arbeitswelt-und-kuenstliche-intelligenz-julia-backmann-ueber-die-zukunft-des-berufslebens-a-a0b79587-9c58-494d-be95-acfe235fd477#ref=rss)
-### backmann
-
-* [https://www.spiegel.de/karriere/arbeitswelt-und-kuenstliche-intelligenz-julia-backmann-ueber-die-zukunft-des-berufslebens](https://www.spiegel.de/karriere/arbeitswelt-und-kuenstliche-intelligenz-julia-backmann-ueber-die-zukunft-des-berufslebens-a-a0b79587-9c58-494d-be95-acfe235fd477#ref=rss)
-### wirklich
-
-* [https://www.spiegel.de/karriere/arbeitswelt-und-kuenstliche-intelligenz-julia-backmann-ueber-die-zukunft-des-berufslebens](https://www.spiegel.de/karriere/arbeitswelt-und-kuenstliche-intelligenz-julia-backmann-ueber-die-zukunft-des-berufslebens-a-a0b79587-9c58-494d-be95-acfe235fd477#ref=rss)
-* [https://www.spiegel.de/auto/formel-e-das-unterschaetzte-forschungslabor-der-elektromobilitaet](https://www.spiegel.de/auto/formel-e-das-unterschaetzte-forschungslabor-der-elektromobilitaet-a-480634fa-098d-47ce-96da-1cb55fea0e21#ref=rss)
-### generation
-
-* [https://www.spiegel.de/karriere/arbeitswelt-und-kuenstliche-intelligenz-julia-backmann-ueber-die-zukunft-des-berufslebens](https://www.spiegel.de/karriere/arbeitswelt-und-kuenstliche-intelligenz-julia-backmann-ueber-die-zukunft-des-berufslebens-a-a0b79587-9c58-494d-be95-acfe235fd477#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/karriere/arbeitswelt-und-kuenstliche-intelligenz-julia-backmann-ueber-die-zukunft-des-berufslebens](https://www.spiegel.de/karriere/arbeitswelt-und-kuenstliche-intelligenz-julia-backmann-ueber-die-zukunft-des-berufslebens-a-a0b79587-9c58-494d-be95-acfe235fd477#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-milliardaer-fordert-nach-strafe-gegen-x-abschaffung-der-eu](https://www.spiegel.de/netzwelt/elon-musk-milliardaer-fordert-nach-strafe-gegen-x-abschaffung-der-eu-a-fef3ed5d-7310-4c1f-b80f-319f51a1bf88#ref=rss)
-### george
-
-* [https://www.spiegel.de/panorama/leute/george-clooney-hollywoodschauspieler-faehrt-immer-zug](https://www.spiegel.de/panorama/leute/george-clooney-hollywoodschauspieler-faehrt-immer-zug-a-1011566a-827b-436e-98e0-0306cd02be53#ref=rss)
-### clooney
-
-* [https://www.spiegel.de/panorama/leute/george-clooney-hollywoodschauspieler-faehrt-immer-zug](https://www.spiegel.de/panorama/leute/george-clooney-hollywoodschauspieler-faehrt-immer-zug-a-1011566a-827b-436e-98e0-0306cd02be53#ref=rss)
-### london
-
-* [https://www.spiegel.de/panorama/leute/george-clooney-hollywoodschauspieler-faehrt-immer-zug](https://www.spiegel.de/panorama/leute/george-clooney-hollywoodschauspieler-faehrt-immer-zug-a-1011566a-827b-436e-98e0-0306cd02be53#ref=rss)
-* [https://www.spiegel.de/ausland/london-tower-nach-angriff-auf-kronjuwelen-teilweise-gesperrt](https://www.spiegel.de/ausland/london-tower-nach-angriff-auf-kronjuwelen-teilweise-gesperrt-a-d53e3c00-cfc0-4d9c-83a1-f7d3365565c4#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/panorama/leute/george-clooney-hollywoodschauspieler-faehrt-immer-zug](https://www.spiegel.de/panorama/leute/george-clooney-hollywoodschauspieler-faehrt-immer-zug-a-1011566a-827b-436e-98e0-0306cd02be53#ref=rss)
-* [https://www.spiegel.de/familie/weihnachten-warum-wir-an-den-feiertagen-einen-nichtstun-tag-eingefuehrt-haben](https://www.spiegel.de/familie/weihnachten-warum-wir-an-den-feiertagen-einen-nichtstun-tag-eingefuehrt-haben-a-d312804c-e615-43f9-9120-ea405d6d519f#ref=rss)
-### e
-
-* [https://www.spiegel.de/auto/formel-e-das-unterschaetzte-forschungslabor-der-elektromobilitaet](https://www.spiegel.de/auto/formel-e-das-unterschaetzte-forschungslabor-der-elektromobilitaet-a-480634fa-098d-47ce-96da-1cb55fea0e21#ref=rss)
-### 1
-
-* [https://www.spiegel.de/auto/formel-e-das-unterschaetzte-forschungslabor-der-elektromobilitaet](https://www.spiegel.de/auto/formel-e-das-unterschaetzte-forschungslabor-der-elektromobilitaet-a-480634fa-098d-47ce-96da-1cb55fea0e21#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren-a-3138d996-d84d-49bb-9fdf-58fa2bf0958a#ref=rss)
-### startet
-
-* [https://www.spiegel.de/auto/formel-e-das-unterschaetzte-forschungslabor-der-elektromobilitaet](https://www.spiegel.de/auto/formel-e-das-unterschaetzte-forschungslabor-der-elektromobilitaet-a-480634fa-098d-47ce-96da-1cb55fea0e21#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren-a-3138d996-d84d-49bb-9fdf-58fa2bf0958a#ref=rss)
-### 15
-
-* [https://www.spiegel.de/kultur/kino/film-15-liebesbeweise-lizenz-zum-elternwerden](https://www.spiegel.de/kultur/kino/film-15-liebesbeweise-lizenz-zum-elternwerden-a-bd64c2b8-90de-4c09-a925-07591f02248d#ref=rss)
-### liebesbeweise
-
-* [https://www.spiegel.de/kultur/kino/film-15-liebesbeweise-lizenz-zum-elternwerden](https://www.spiegel.de/kultur/kino/film-15-liebesbeweise-lizenz-zum-elternwerden-a-bd64c2b8-90de-4c09-a925-07591f02248d#ref=rss)
-### junge
-
-* [https://www.spiegel.de/kultur/kino/film-15-liebesbeweise-lizenz-zum-elternwerden](https://www.spiegel.de/kultur/kino/film-15-liebesbeweise-lizenz-zum-elternwerden-a-bd64c2b8-90de-4c09-a925-07591f02248d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bremen-zwei-frauen-nach-kuss-brutal-angegriffen](https://www.spiegel.de/panorama/justiz/bremen-zwei-frauen-nach-kuss-brutal-angegriffen-a-446143c2-6e0f-42cf-a549-027b64bcc859#ref=rss)
-### kind
-
-* [https://www.spiegel.de/kultur/kino/film-15-liebesbeweise-lizenz-zum-elternwerden](https://www.spiegel.de/kultur/kino/film-15-liebesbeweise-lizenz-zum-elternwerden-a-bd64c2b8-90de-4c09-a925-07591f02248d#ref=rss)
-* [https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar](https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar-a-bd0bf2f0-5be2-4a28-8693-a14f0330236e#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/leute/momfluencerin-soll-kaninchen-im-wald-ausgesetzt-haben-und-erntet-shitstorm](https://www.spiegel.de/panorama/leute/momfluencerin-soll-kaninchen-im-wald-ausgesetzt-haben-und-erntet-shitstorm-a-a5502ac5-c1de-495c-941d-a4b6004abcf3#ref=rss)
-* [https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder](https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder-a-fe081bb2-72e4-436b-bbe1-e6fb83fa85cb#ref=rss)
-### vierfachgott
-
-* [https://www.spiegel.de/sport/us-eiskunstlaufstar-vierfach-gott-ilia-malinin-verbessert-eigenen-weltrekord](https://www.spiegel.de/sport/us-eiskunstlaufstar-vierfach-gott-ilia-malinin-verbessert-eigenen-weltrekord-a-d632f77d-fd38-42bb-9df1-06ee9dcf688f#ref=rss)
-### ilia
-
-* [https://www.spiegel.de/sport/us-eiskunstlaufstar-vierfach-gott-ilia-malinin-verbessert-eigenen-weltrekord](https://www.spiegel.de/sport/us-eiskunstlaufstar-vierfach-gott-ilia-malinin-verbessert-eigenen-weltrekord-a-d632f77d-fd38-42bb-9df1-06ee9dcf688f#ref=rss)
-### malinin
-
-* [https://www.spiegel.de/sport/us-eiskunstlaufstar-vierfach-gott-ilia-malinin-verbessert-eigenen-weltrekord](https://www.spiegel.de/sport/us-eiskunstlaufstar-vierfach-gott-ilia-malinin-verbessert-eigenen-weltrekord-a-d632f77d-fd38-42bb-9df1-06ee9dcf688f#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/sport/us-eiskunstlaufstar-vierfach-gott-ilia-malinin-verbessert-eigenen-weltrekord](https://www.spiegel.de/sport/us-eiskunstlaufstar-vierfach-gott-ilia-malinin-verbessert-eigenen-weltrekord-a-d632f77d-fd38-42bb-9df1-06ee9dcf688f#ref=rss)
-### weltrekord
-
-* [https://www.spiegel.de/sport/us-eiskunstlaufstar-vierfach-gott-ilia-malinin-verbessert-eigenen-weltrekord](https://www.spiegel.de/sport/us-eiskunstlaufstar-vierfach-gott-ilia-malinin-verbessert-eigenen-weltrekord-a-d632f77d-fd38-42bb-9df1-06ee9dcf688f#ref=rss)
-### aida
-
-* [https://www.spiegel.de/reise/aida-diva-norovirus-ausbruch-an-bord-101-personen-betroffen](https://www.spiegel.de/reise/aida-diva-norovirus-ausbruch-an-bord-101-personen-betroffen-a-282e0da3-2e57-45b0-8657-d7de828f6f08#ref=rss)
-### diva
-
-* [https://www.spiegel.de/reise/aida-diva-norovirus-ausbruch-an-bord-101-personen-betroffen](https://www.spiegel.de/reise/aida-diva-norovirus-ausbruch-an-bord-101-personen-betroffen-a-282e0da3-2e57-45b0-8657-d7de828f6f08#ref=rss)
-### bord
-
-* [https://www.spiegel.de/reise/aida-diva-norovirus-ausbruch-an-bord-101-personen-betroffen](https://www.spiegel.de/reise/aida-diva-norovirus-ausbruch-an-bord-101-personen-betroffen-a-282e0da3-2e57-45b0-8657-d7de828f6f08#ref=rss)
-### personen
-
-* [https://www.spiegel.de/reise/aida-diva-norovirus-ausbruch-an-bord-101-personen-betroffen](https://www.spiegel.de/reise/aida-diva-norovirus-ausbruch-an-bord-101-personen-betroffen-a-282e0da3-2e57-45b0-8657-d7de828f6f08#ref=rss)
-* [https://www.spiegel.de/ausland/london-tower-nach-angriff-auf-kronjuwelen-teilweise-gesperrt](https://www.spiegel.de/ausland/london-tower-nach-angriff-auf-kronjuwelen-teilweise-gesperrt-a-d53e3c00-cfc0-4d9c-83a1-f7d3365565c4#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/reise/aida-diva-norovirus-ausbruch-an-bord-101-personen-betroffen](https://www.spiegel.de/reise/aida-diva-norovirus-ausbruch-an-bord-101-personen-betroffen-a-282e0da3-2e57-45b0-8657-d7de828f6f08#ref=rss)
-* [https://www.spiegel.de/tests/ferngelenkte-autos-im-test-dickie-carson-traxxas-revell-und-carrera](https://www.spiegel.de/tests/ferngelenkte-autos-im-test-dickie-carson-traxxas-revell-und-carrera-a-1a215af6-beb9-422d-a2c1-c806a6e8b2bd#ref=rss)
-### abu
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren-a-3138d996-d84d-49bb-9fdf-58fa2bf0958a#ref=rss)
-### dhabi
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren-a-3138d996-d84d-49bb-9fdf-58fa2bf0958a#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren-a-3138d996-d84d-49bb-9fdf-58fa2bf0958a#ref=rss)
-### verstappen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren](https://www.spiegel.de/sport/formel1/formel-1-in-abu-dhabi-max-verstappen-startet-beim-wm-finale-von-der-pole-dahinter-mclaren-a-3138d996-d84d-49bb-9fdf-58fa2bf0958a#ref=rss)
-### verkaufen
-
-* [https://www.spiegel.de/wirtschaft/butter-ist-wieder-billig-discounter-senken-preise](https://www.spiegel.de/wirtschaft/butter-ist-wieder-billig-discounter-senken-preise-a-d85732a1-f819-4c9f-aed2-4a0207489356#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weihnachtsplaetzchen-oesterreichischer-fiskus-warnt-vor-illegalem-verkauf](https://www.spiegel.de/wirtschaft/weihnachtsplaetzchen-oesterreichischer-fiskus-warnt-vor-illegalem-verkauf-a-48367e00-2f5e-403e-9be0-5313aba556db#ref=rss)
-### margaret
-
-* [https://www.spiegel.de/kultur/literatur/margaret-atwood-wir-sollten-keine-schafe-sein-die-erst-aufwachen-wenn-der-wolf-schon-da-ist](https://www.spiegel.de/kultur/literatur/margaret-atwood-wir-sollten-keine-schafe-sein-die-erst-aufwachen-wenn-der-wolf-schon-da-ist-a-7d6cab6e-bba8-4d61-ba19-2eb105ea0d75#ref=rss)
-### atwood
-
-* [https://www.spiegel.de/kultur/literatur/margaret-atwood-wir-sollten-keine-schafe-sein-die-erst-aufwachen-wenn-der-wolf-schon-da-ist](https://www.spiegel.de/kultur/literatur/margaret-atwood-wir-sollten-keine-schafe-sein-die-erst-aufwachen-wenn-der-wolf-schon-da-ist-a-7d6cab6e-bba8-4d61-ba19-2eb105ea0d75#ref=rss)
-### erst
-
-* [https://www.spiegel.de/kultur/literatur/margaret-atwood-wir-sollten-keine-schafe-sein-die-erst-aufwachen-wenn-der-wolf-schon-da-ist](https://www.spiegel.de/kultur/literatur/margaret-atwood-wir-sollten-keine-schafe-sein-die-erst-aufwachen-wenn-der-wolf-schon-da-ist-a-7d6cab6e-bba8-4d61-ba19-2eb105ea0d75#ref=rss)
-* [https://www.spiegel.de/ausland/j-d-vance-us-vizepraesident-dementiert-geruechte-ueber-ehekrise-mit-frau-usha](https://www.spiegel.de/ausland/j-d-vance-us-vizepraesident-dementiert-geruechte-ueber-ehekrise-mit-frau-usha-a-3ec0b43f-fbdd-4f96-a7ba-89260abb13e5#ref=rss)
-### kindheit
-
-* [https://www.spiegel.de/kultur/literatur/margaret-atwood-wir-sollten-keine-schafe-sein-die-erst-aufwachen-wenn-der-wolf-schon-da-ist](https://www.spiegel.de/kultur/literatur/margaret-atwood-wir-sollten-keine-schafe-sein-die-erst-aufwachen-wenn-der-wolf-schon-da-ist-a-7d6cab6e-bba8-4d61-ba19-2eb105ea0d75#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/kinderschutzbund-praesidentin-sabine-andresen-nimmt-politik-in-die-pflicht-kindheit-kann-nicht-warten](https://www.spiegel.de/wissenschaft/mensch/kinderschutzbund-praesidentin-sabine-andresen-nimmt-politik-in-die-pflicht-kindheit-kann-nicht-warten-a-25acb27a-6bf2-428b-b205-3aad09ca774f#ref=rss)
-### anwalt
-
-* [https://www.spiegel.de/panorama/usa-wie-ein-anwalt-in-den-suedstaaten-allein-gegen-trumps-abschiebemaschine-kaempft](https://www.spiegel.de/panorama/usa-wie-ein-anwalt-in-den-suedstaaten-allein-gegen-trumps-abschiebemaschine-kaempft-a-4f629230-501d-4366-89a6-26f0208ed784#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an](https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an-a-2e5a6145-b548-4e6c-8be0-aac3956491c6#ref=rss)
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/panorama/usa-wie-ein-anwalt-in-den-suedstaaten-allein-gegen-trumps-abschiebemaschine-kaempft](https://www.spiegel.de/panorama/usa-wie-ein-anwalt-in-den-suedstaaten-allein-gegen-trumps-abschiebemaschine-kaempft-a-4f629230-501d-4366-89a6-26f0208ed784#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-mexiko-und-kanada-spielplan-gruppen-stadien](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-mexiko-und-kanada-spielplan-gruppen-stadien-a-82a8b8f7-36ec-495e-bef7-e6b9bacfef30#ref=rss)
-### helfen
+* [https://www.spiegel.de/panorama/integration-warum-menschen-mit-migrationsgeschichte-die-afd-waehlen](https://www.spiegel.de/panorama/integration-warum-menschen-mit-migrationsgeschichte-die-afd-waehlen-a-d491787f-bc31-4f4d-9b9a-e96729b09ca8#ref=rss)
+* [https://www.spiegel.de/panorama/goa-viele-tote-bei-brand-in-indischem-nachtclub](https://www.spiegel.de/panorama/goa-viele-tote-bei-brand-in-indischem-nachtclub-a-1d21a7fe-fb95-4232-909b-eccffe328c25#ref=rss)
+### benin
 
-* [https://www.spiegel.de/panorama/usa-wie-ein-anwalt-in-den-suedstaaten-allein-gegen-trumps-abschiebemaschine-kaempft](https://www.spiegel.de/panorama/usa-wie-ein-anwalt-in-den-suedstaaten-allein-gegen-trumps-abschiebemaschine-kaempft-a-4f629230-501d-4366-89a6-26f0208ed784#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/kinderschutzbund-praesidentin-sabine-andresen-nimmt-politik-in-die-pflicht-kindheit-kann-nicht-warten](https://www.spiegel.de/wissenschaft/mensch/kinderschutzbund-praesidentin-sabine-andresen-nimmt-politik-in-die-pflicht-kindheit-kann-nicht-warten-a-25acb27a-6bf2-428b-b205-3aad09ca774f#ref=rss)
-### elon
+* [https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten](https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten-a-498f46f8-503b-4e6c-b002-4f3b5bd13ee8#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/netzwelt/elon-musk-milliardaer-fordert-nach-strafe-gegen-x-abschaffung-der-eu](https://www.spiegel.de/netzwelt/elon-musk-milliardaer-fordert-nach-strafe-gegen-x-abschaffung-der-eu-a-fef3ed5d-7310-4c1f-b80f-319f51a1bf88#ref=rss)
-### musk
+* [https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten](https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten-a-498f46f8-503b-4e6c-b002-4f3b5bd13ee8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wladimir-putin-russland-ukraine](https://www.spiegel.de/politik/deutschland/news-wladimir-putin-russland-ukraine-a-40b4be63-cfed-4154-9720-15b541d3af67#ref=rss)
+### unter
 
-* [https://www.spiegel.de/netzwelt/elon-musk-milliardaer-fordert-nach-strafe-gegen-x-abschaffung-der-eu](https://www.spiegel.de/netzwelt/elon-musk-milliardaer-fordert-nach-strafe-gegen-x-abschaffung-der-eu-a-fef3ed5d-7310-4c1f-b80f-319f51a1bf88#ref=rss)
-### milliardär
+* [https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten](https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten-a-498f46f8-503b-4e6c-b002-4f3b5bd13ee8#ref=rss)
+* [https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot](https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot-a-83828541-bfac-4fa4-bc37-3d70e660e9ed#ref=rss)
+### netanyahu
 
-* [https://www.spiegel.de/netzwelt/elon-musk-milliardaer-fordert-nach-strafe-gegen-x-abschaffung-der-eu](https://www.spiegel.de/netzwelt/elon-musk-milliardaer-fordert-nach-strafe-gegen-x-abschaffung-der-eu-a-fef3ed5d-7310-4c1f-b80f-319f51a1bf88#ref=rss)
-### deshalb
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
+* [https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump](https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump-a-60911a2c-bde8-4373-9cd0-b52515f2ece9#ref=rss)
+### wir
 
-* [https://www.spiegel.de/netzwelt/elon-musk-milliardaer-fordert-nach-strafe-gegen-x-abschaffung-der-eu](https://www.spiegel.de/netzwelt/elon-musk-milliardaer-fordert-nach-strafe-gegen-x-abschaffung-der-eu-a-fef3ed5d-7310-4c1f-b80f-319f51a1bf88#ref=rss)
-* [https://www.spiegel.de/tests/ferngelenkte-autos-im-test-dickie-carson-traxxas-revell-und-carrera](https://www.spiegel.de/tests/ferngelenkte-autos-im-test-dickie-carson-traxxas-revell-und-carrera-a-1a215af6-beb9-422d-a2c1-c806a6e8b2bd#ref=rss)
-### nahe
+* [https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus](https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus-a-c496b81b-2171-445c-9905-177287a613c7#ref=rss)
+* [https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-verteidigt-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-verteidigt-angriff-auf-mutmassliches-drogenboot-a-4887e8e6-be55-43fd-9551-5d4b6310c603#ref=rss)
+* [https://www.spiegel.de/tests/kueche/raclettegrills-geraete-von-severin-gastroback-stoeckli-und-kisag-im-test](https://www.spiegel.de/tests/kueche/raclettegrills-geraete-von-severin-gastroback-stoeckli-und-kisag-im-test-a-07617c33-ecba-4e1f-b5a5-eb3a20fa03cc#ref=rss)
+### 2
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-ueberleben-in-kyjiws-u-bahn-waehrend-drohnenangriffen](https://www.spiegel.de/ausland/russland-ukraine-krieg-ueberleben-in-kyjiws-u-bahn-waehrend-drohnenangriffen-a-36012fa9-677c-4204-9929-527b28153a02#ref=rss)
-* [https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder](https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder-a-fe081bb2-72e4-436b-bbe1-e6fb83fa85cb#ref=rss)
-### verunglückt
+* [https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole](https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole-a-4a20ca01-5ceb-450d-bc1d-6bc95fefa6f4#ref=rss)
+### ende
 
-* [https://www.spiegel.de/panorama/nikolaus-quad-verunglueckt-auf-a6-bei-viernheim-fahrer-stuerzt-und-verletzt-sich-schwer](https://www.spiegel.de/panorama/nikolaus-quad-verunglueckt-auf-a6-bei-viernheim-fahrer-stuerzt-und-verletzt-sich-schwer-a-30c5366f-df2e-44ca-ac5d-6bf9b0127128#ref=rss)
-### mindestens
+* [https://www.spiegel.de/sport/formel1/formel-1-so-holt-sich-max-verstappen-doch-noch-seinen-fuenften-wm-titel](https://www.spiegel.de/sport/formel1/formel-1-so-holt-sich-max-verstappen-doch-noch-seinen-fuenften-wm-titel-a-f36bdd93-6f38-4bb5-a8a4-0176ca28869c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera](https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera-a-2e498aa6-a8ae-4400-b2f0-99d4f0aaaaf2#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an](https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an-a-ce48e0a0-c443-47e4-90e7-46134322ab5f#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar](https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar-a-bd0bf2f0-5be2-4a28-8693-a14f0330236e#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an](https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an-a-ce48e0a0-c443-47e4-90e7-46134322ab5f#ref=rss)
 ### tote
 
-* [https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar](https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar-a-bd0bf2f0-5be2-4a28-8693-a14f0330236e#ref=rss)
-* [https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder](https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder-a-fe081bb2-72e4-436b-bbe1-e6fb83fa85cb#ref=rss)
-### myanmar
+* [https://www.spiegel.de/panorama/goa-viele-tote-bei-brand-in-indischem-nachtclub](https://www.spiegel.de/panorama/goa-viele-tote-bei-brand-in-indischem-nachtclub-a-1d21a7fe-fb95-4232-909b-eccffe328c25#ref=rss)
+* [https://www.spiegel.de/ausland/mittelmeer-18-tote-bei-bootsunglueck-vor-griechischer-kueste](https://www.spiegel.de/ausland/mittelmeer-18-tote-bei-bootsunglueck-vor-griechischer-kueste-a-65575160-1db1-4021-aab0-8fadcd811e20#ref=rss)
+### müller
 
-* [https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar](https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar-a-bd0bf2f0-5be2-4a28-8693-a14f0330236e#ref=rss)
-### darunter
+* [https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel](https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel-a-dbd4f124-40f9-4ee0-8d7f-b3c23a36e8b9#ref=rss)
+### usschauspieler
 
-* [https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar](https://www.spiegel.de/ausland/tabayin-mindestens-20-tote-bei-luftangriff-in-myanmar-a-bd0bf2f0-5be2-4a28-8693-a14f0330236e#ref=rss)
-* [https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder](https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder-a-fe081bb2-72e4-436b-bbe1-e6fb83fa85cb#ref=rss)
-### festgenommen
+* [https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer](https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer-a-862e3aa8-aafb-4188-9c87-e205d63ea943#ref=rss)
+### dick
 
-* [https://www.spiegel.de/panorama/justiz/bremen-zwei-frauen-nach-kuss-brutal-angegriffen](https://www.spiegel.de/panorama/justiz/bremen-zwei-frauen-nach-kuss-brutal-angegriffen-a-446143c2-6e0f-42cf-a549-027b64bcc859#ref=rss)
-* [https://www.spiegel.de/ausland/london-tower-nach-angriff-auf-kronjuwelen-teilweise-gesperrt](https://www.spiegel.de/ausland/london-tower-nach-angriff-auf-kronjuwelen-teilweise-gesperrt-a-d53e3c00-cfc0-4d9c-83a1-f7d3365565c4#ref=rss)
-### ferngelenkte
+* [https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer](https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer-a-862e3aa8-aafb-4188-9c87-e205d63ea943#ref=rss)
+### van
 
-* [https://www.spiegel.de/tests/ferngelenkte-autos-im-test-dickie-carson-traxxas-revell-und-carrera](https://www.spiegel.de/tests/ferngelenkte-autos-im-test-dickie-carson-traxxas-revell-und-carrera-a-1a215af6-beb9-422d-a2c1-c806a6e8b2bd#ref=rss)
-### autos
+* [https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer](https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer-a-862e3aa8-aafb-4188-9c87-e205d63ea943#ref=rss)
+### dyke
 
-* [https://www.spiegel.de/tests/ferngelenkte-autos-im-test-dickie-carson-traxxas-revell-und-carrera](https://www.spiegel.de/tests/ferngelenkte-autos-im-test-dickie-carson-traxxas-revell-und-carrera-a-1a215af6-beb9-422d-a2c1-c806a6e8b2bd#ref=rss)
-### weihnachtsplätzchen
+* [https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer](https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer-a-862e3aa8-aafb-4188-9c87-e205d63ea943#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/wirtschaft/weihnachtsplaetzchen-oesterreichischer-fiskus-warnt-vor-illegalem-verkauf](https://www.spiegel.de/wirtschaft/weihnachtsplaetzchen-oesterreichischer-fiskus-warnt-vor-illegalem-verkauf-a-48367e00-2f5e-403e-9be0-5313aba556db#ref=rss)
-### laut
+* [https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer](https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer-a-862e3aa8-aafb-4188-9c87-e205d63ea943#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus](https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus-a-c496b81b-2171-445c-9905-177287a613c7#ref=rss)
+### alt
 
-* [https://www.spiegel.de/wirtschaft/weihnachtsplaetzchen-oesterreichischer-fiskus-warnt-vor-illegalem-verkauf](https://www.spiegel.de/wirtschaft/weihnachtsplaetzchen-oesterreichischer-fiskus-warnt-vor-illegalem-verkauf-a-48367e00-2f5e-403e-9be0-5313aba556db#ref=rss)
-* [https://www.spiegel.de/ausland/j-d-vance-us-vizepraesident-dementiert-geruechte-ueber-ehekrise-mit-frau-usha](https://www.spiegel.de/ausland/j-d-vance-us-vizepraesident-dementiert-geruechte-ueber-ehekrise-mit-frau-usha-a-3ec0b43f-fbdd-4f96-a7ba-89260abb13e5#ref=rss)
-### jd
+* [https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer](https://www.spiegel.de/panorama/leute/us-schauspieler-dick-van-dyke-wird-hundert-und-tanzt-noch-immer-a-862e3aa8-aafb-4188-9c87-e205d63ea943#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus](https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus-a-c496b81b-2171-445c-9905-177287a613c7#ref=rss)
+### premier
 
-* [https://www.spiegel.de/ausland/j-d-vance-us-vizepraesident-dementiert-geruechte-ueber-ehekrise-mit-frau-usha](https://www.spiegel.de/ausland/j-d-vance-us-vizepraesident-dementiert-geruechte-ueber-ehekrise-mit-frau-usha-a-3ec0b43f-fbdd-4f96-a7ba-89260abb13e5#ref=rss)
-### vance
+* [https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an](https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an-a-2e5a6145-b548-4e6c-8be0-aac3956491c6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
+### mohamed
 
-* [https://www.spiegel.de/ausland/j-d-vance-us-vizepraesident-dementiert-geruechte-ueber-ehekrise-mit-frau-usha](https://www.spiegel.de/ausland/j-d-vance-us-vizepraesident-dementiert-geruechte-ueber-ehekrise-mit-frau-usha-a-3ec0b43f-fbdd-4f96-a7ba-89260abb13e5#ref=rss)
-### gerüchte
+* [https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an](https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an-a-2e5a6145-b548-4e6c-8be0-aac3956491c6#ref=rss)
+### salah
 
-* [https://www.spiegel.de/ausland/j-d-vance-us-vizepraesident-dementiert-geruechte-ueber-ehekrise-mit-frau-usha](https://www.spiegel.de/ausland/j-d-vance-us-vizepraesident-dementiert-geruechte-ueber-ehekrise-mit-frau-usha-a-3ec0b43f-fbdd-4f96-a7ba-89260abb13e5#ref=rss)
-### sabine
+* [https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an](https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an-a-2e5a6145-b548-4e6c-8be0-aac3956491c6#ref=rss)
+### fc
 
-* [https://www.spiegel.de/wissenschaft/mensch/kinderschutzbund-praesidentin-sabine-andresen-nimmt-politik-in-die-pflicht-kindheit-kann-nicht-warten](https://www.spiegel.de/wissenschaft/mensch/kinderschutzbund-praesidentin-sabine-andresen-nimmt-politik-in-die-pflicht-kindheit-kann-nicht-warten-a-25acb27a-6bf2-428b-b205-3aad09ca774f#ref=rss)
-### andresen
+* [https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an](https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an-a-2e5a6145-b548-4e6c-8be0-aac3956491c6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer-a-3ee0f783-24c8-4bbd-9ae1-fe68ec7ee4a3#ref=rss)
+### deutet
 
-* [https://www.spiegel.de/wissenschaft/mensch/kinderschutzbund-praesidentin-sabine-andresen-nimmt-politik-in-die-pflicht-kindheit-kann-nicht-warten](https://www.spiegel.de/wissenschaft/mensch/kinderschutzbund-praesidentin-sabine-andresen-nimmt-politik-in-die-pflicht-kindheit-kann-nicht-warten-a-25acb27a-6bf2-428b-b205-3aad09ca774f#ref=rss)
-### politik
+* [https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an](https://www.spiegel.de/sport/fussball/premier-league-mohamed-salah-rechnet-mit-fc-liverpool-ab-und-deutet-abschied-an-a-2e5a6145-b548-4e6c-8be0-aac3956491c6#ref=rss)
+### afd
 
-* [https://www.spiegel.de/wissenschaft/mensch/kinderschutzbund-praesidentin-sabine-andresen-nimmt-politik-in-die-pflicht-kindheit-kann-nicht-warten](https://www.spiegel.de/wissenschaft/mensch/kinderschutzbund-praesidentin-sabine-andresen-nimmt-politik-in-die-pflicht-kindheit-kann-nicht-warten-a-25acb27a-6bf2-428b-b205-3aad09ca774f#ref=rss)
-### flucht
+* [https://www.spiegel.de/panorama/integration-warum-menschen-mit-migrationsgeschichte-die-afd-waehlen](https://www.spiegel.de/panorama/integration-warum-menschen-mit-migrationsgeschichte-die-afd-waehlen-a-d491787f-bc31-4f4d-9b9a-e96729b09ca8#ref=rss)
+### wählen
 
-* [https://www.spiegel.de/wissenschaft/mensch/kinderschutzbund-praesidentin-sabine-andresen-nimmt-politik-in-die-pflicht-kindheit-kann-nicht-warten](https://www.spiegel.de/wissenschaft/mensch/kinderschutzbund-praesidentin-sabine-andresen-nimmt-politik-in-die-pflicht-kindheit-kann-nicht-warten-a-25acb27a-6bf2-428b-b205-3aad09ca774f#ref=rss)
-* [https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder](https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder-a-fe081bb2-72e4-436b-bbe1-e6fb83fa85cb#ref=rss)
-### einmal
+* [https://www.spiegel.de/panorama/integration-warum-menschen-mit-migrationsgeschichte-die-afd-waehlen](https://www.spiegel.de/panorama/integration-warum-menschen-mit-migrationsgeschichte-die-afd-waehlen-a-d491787f-bc31-4f4d-9b9a-e96729b09ca8#ref=rss)
+### tor
 
-* [https://www.spiegel.de/gesundheit/diagnose/alzheimer-patientin-sandra-demontigny-bei-alzheimer-gibt-es-kein-einmal-einmal-ist-der-anfang-von-immer](https://www.spiegel.de/gesundheit/diagnose/alzheimer-patientin-sandra-demontigny-bei-alzheimer-gibt-es-kein-einmal-einmal-ist-der-anfang-von-immer-a-12d09d46-6fc1-4e02-b218-a752d377d7c3#ref=rss)
-### mexiko
+* [https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer-a-3ee0f783-24c8-4bbd-9ae1-fe68ec7ee4a3#ref=rss)
+### manuel
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-mexiko-und-kanada-spielplan-gruppen-stadien](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-mexiko-und-kanada-spielplan-gruppen-stadien-a-82a8b8f7-36ec-495e-bef7-e6b9bacfef30#ref=rss)
-### kanada
+* [https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer-a-3ee0f783-24c8-4bbd-9ae1-fe68ec7ee4a3#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-mexiko-und-kanada-spielplan-gruppen-stadien](https://www.spiegel.de/sport/fussball/fussball-wm-2026-in-den-usa-mexiko-und-kanada-spielplan-gruppen-stadien-a-82a8b8f7-36ec-495e-bef7-e6b9bacfef30#ref=rss)
-### roberta
+* [https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer-a-3ee0f783-24c8-4bbd-9ae1-fe68ec7ee4a3#ref=rss)
+### nummer
 
-* [https://www.spiegel.de/politik/deutschland/eu-roberta-metsola-als-moegliche-nachfolgerin-von-ursula-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-roberta-metsola-als-moegliche-nachfolgerin-von-ursula-von-der-leyen-a-e231893c-eec6-4e87-ba88-6cb3b2d1db32#ref=rss)
-### metsola
+* [https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer-a-3ee0f783-24c8-4bbd-9ae1-fe68ec7ee4a3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus](https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus-a-c496b81b-2171-445c-9905-177287a613c7#ref=rss)
+### eins
 
-* [https://www.spiegel.de/politik/deutschland/eu-roberta-metsola-als-moegliche-nachfolgerin-von-ursula-von-der-leyen](https://www.spiegel.de/politik/deutschland/eu-roberta-metsola-als-moegliche-nachfolgerin-von-ursula-von-der-leyen-a-e231893c-eec6-4e87-ba88-6cb3b2d1db32#ref=rss)
-### elf
+* [https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer-a-3ee0f783-24c8-4bbd-9ae1-fe68ec7ee4a3#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-so-holt-sich-max-verstappen-doch-noch-seinen-fuenften-wm-titel](https://www.spiegel.de/sport/formel1/formel-1-so-holt-sich-max-verstappen-doch-noch-seinen-fuenften-wm-titel-a-f36bdd93-6f38-4bb5-a8a4-0176ca28869c#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder](https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder-a-fe081bb2-72e4-436b-bbe1-e6fb83fa85cb#ref=rss)
-### pretoria
+* [https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer](https://www.spiegel.de/sport/fussball/fussball-wer-folgt-im-tor-des-fc-bayern-muenchen-auf-manuel-neuer-a-3ee0f783-24c8-4bbd-9ae1-fe68ec7ee4a3#ref=rss)
+* [https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung](https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung-a-4b1955b7-2463-4b15-8fbe-033225fb9c8b#ref=rss)
+### iran
 
-* [https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder](https://www.spiegel.de/ausland/pretoria-elf-tote-bei-bewaffnetem-angriff-in-suedafrika-darunter-drei-kinder-a-fe081bb2-72e4-436b-bbe1-e6fb83fa85cb#ref=rss)
+* [https://www.spiegel.de/ausland/iran-auto-betrug-in-millionenhoehe-manager-hingerichtet](https://www.spiegel.de/ausland/iran-auto-betrug-in-millionenhoehe-manager-hingerichtet-a-da2196eb-755e-4ef1-ae84-ec9f7ad1348b#ref=rss)
+### manager
+
+* [https://www.spiegel.de/ausland/iran-auto-betrug-in-millionenhoehe-manager-hingerichtet](https://www.spiegel.de/ausland/iran-auto-betrug-in-millionenhoehe-manager-hingerichtet-a-da2196eb-755e-4ef1-ae84-ec9f7ad1348b#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/ausland/iran-auto-betrug-in-millionenhoehe-manager-hingerichtet](https://www.spiegel.de/ausland/iran-auto-betrug-in-millionenhoehe-manager-hingerichtet-a-da2196eb-755e-4ef1-ae84-ec9f7ad1348b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/thomas-gottschalk-im-spiegel-interview-2024-ihr-nennt-mich-doch-auch-einen-uncoolen-onkel](https://www.spiegel.de/wirtschaft/thomas-gottschalk-im-spiegel-interview-2024-ihr-nennt-mich-doch-auch-einen-uncoolen-onkel-a-aeb67d36-b0a5-427f-989c-978c132cc219#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten](https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten-a-498f46f8-503b-4e6c-b002-4f3b5bd13ee8#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-podcaster-trotzen-orbans-medienzensur-auf-youtube](https://www.spiegel.de/ausland/ungarn-podcaster-trotzen-orbans-medienzensur-auf-youtube-a-981dd3ba-a2b8-406c-94a5-dc875fced79e#ref=rss)
+### fielen
+
+* [https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten](https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten-a-498f46f8-503b-4e6c-b002-4f3b5bd13ee8#ref=rss)
+* [https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen](https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen-a-6779ebb7-3c07-4b48-b131-5b8999e209cd#ref=rss)
+### schüsse
+
+* [https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten](https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten-a-498f46f8-503b-4e6c-b002-4f3b5bd13ee8#ref=rss)
+* [https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen](https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen-a-6779ebb7-3c07-4b48-b131-5b8999e209cd#ref=rss)
+### lage
+
+* [https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten](https://www.spiegel.de/ausland/benin-militaers-in-benin-verkuenden-absetzung-des-praesidenten-a-498f46f8-503b-4e6c-b002-4f3b5bd13ee8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wladimir-putin-russland-ukraine](https://www.spiegel.de/politik/deutschland/news-wladimir-putin-russland-ukraine-a-40b4be63-cfed-4154-9720-15b541d3af67#ref=rss)
+### bundeskanzler
+
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
+### gegenüber
+
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel](https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel-a-dbd4f124-40f9-4ee0-8d7f-b3c23a36e8b9#ref=rss)
+### israel
+
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
+### yad
+
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
+### vashem
+
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
+### gespräch
+
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
+### israels
+
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem](https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss)
+* [https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump](https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump-a-60911a2c-bde8-4373-9cd0-b52515f2ece9#ref=rss)
+### 16jähriger
+
+* [https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen](https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen-a-6779ebb7-3c07-4b48-b131-5b8999e209cd#ref=rss)
+### spielplatz
+
+* [https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen](https://www.spiegel.de/panorama/stuttgart-weilimdorf-16-jaehriger-auf-spielplatz-in-stuttgart-angeschossen-a-6779ebb7-3c07-4b48-b131-5b8999e209cd#ref=rss)
+### vater
+
+* [https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus](https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus-a-c496b81b-2171-445c-9905-177287a613c7#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus](https://www.spiegel.de/wissenschaft/medizin/vater-ueber-die-magersucht-seiner-tochter-wie-kommen-wir-aus-dieser-nummer-raus-a-c496b81b-2171-445c-9905-177287a613c7#ref=rss)
+### pete
+
+* [https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-verteidigt-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-verteidigt-angriff-auf-mutmassliches-drogenboot-a-4887e8e6-be55-43fd-9551-5d4b6310c603#ref=rss)
+### hegseth
+
+* [https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-verteidigt-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/us-verteidigungsminister-pete-hegseth-verteidigt-angriff-auf-mutmassliches-drogenboot-a-4887e8e6-be55-43fd-9551-5d4b6310c603#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche](https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche-a-90e0e20a-5a70-4089-9198-c36ba4424196#ref=rss)
+### evelyn
+
+* [https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche](https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche-a-90e0e20a-5a70-4089-9198-c36ba4424196#ref=rss)
+### palla
+
+* [https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche](https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche-a-90e0e20a-5a70-4089-9198-c36ba4424196#ref=rss)
+### 21
+
+* [https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche](https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche-a-90e0e20a-5a70-4089-9198-c36ba4424196#ref=rss)
+### interne
+
+* [https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche](https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche-a-90e0e20a-5a70-4089-9198-c36ba4424196#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche](https://www.spiegel.de/wirtschaft/bahnchefin-palla-geht-wegen-stuttgart-21-auf-interne-fehlersuche-a-90e0e20a-5a70-4089-9198-c36ba4424196#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole](https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole-a-4a20ca01-5ceb-450d-bc1d-6bc95fefa6f4#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/ungarn-podcaster-trotzen-orbans-medienzensur-auf-youtube](https://www.spiegel.de/ausland/ungarn-podcaster-trotzen-orbans-medienzensur-auf-youtube-a-981dd3ba-a2b8-406c-94a5-dc875fced79e#ref=rss)
+### podcaster
+
+* [https://www.spiegel.de/ausland/ungarn-podcaster-trotzen-orbans-medienzensur-auf-youtube](https://www.spiegel.de/ausland/ungarn-podcaster-trotzen-orbans-medienzensur-auf-youtube-a-981dd3ba-a2b8-406c-94a5-dc875fced79e#ref=rss)
+### youtube
+
+* [https://www.spiegel.de/ausland/ungarn-podcaster-trotzen-orbans-medienzensur-auf-youtube](https://www.spiegel.de/ausland/ungarn-podcaster-trotzen-orbans-medienzensur-auf-youtube-a-981dd3ba-a2b8-406c-94a5-dc875fced79e#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/panorama/bildung/grundschule-es-faellt-den-kindern-schwer-sich-an-regeln-zu-halten](https://www.spiegel.de/panorama/bildung/grundschule-es-faellt-den-kindern-schwer-sich-an-regeln-zu-halten-a-1c38820f-5560-46bc-8fc1-fd6c5a02506c#ref=rss)
+* [https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot](https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot-a-83828541-bfac-4fa4-bc37-3d70e660e9ed#ref=rss)
+### halten
+
+* [https://www.spiegel.de/panorama/bildung/grundschule-es-faellt-den-kindern-schwer-sich-an-regeln-zu-halten](https://www.spiegel.de/panorama/bildung/grundschule-es-faellt-den-kindern-schwer-sich-an-regeln-zu-halten-a-1c38820f-5560-46bc-8fc1-fd6c5a02506c#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an](https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an-a-ce48e0a0-c443-47e4-90e7-46134322ab5f#ref=rss)
+### switch
+
+* [https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole](https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole-a-4a20ca01-5ceb-450d-bc1d-6bc95fefa6f4#ref=rss)
+### zehn
+
+* [https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole](https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole-a-4a20ca01-5ceb-450d-bc1d-6bc95fefa6f4#ref=rss)
+### spiele
+
+* [https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole](https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole-a-4a20ca01-5ceb-450d-bc1d-6bc95fefa6f4#ref=rss)
+### konsole
+
+* [https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole](https://www.spiegel.de/netzwelt/games/nintendo-switch-2-diese-zehn-spiele-lohnen-sich-fuer-die-konsole-a-4a20ca01-5ceb-450d-bc1d-6bc95fefa6f4#ref=rss)
+### oft
+
+* [https://www.spiegel.de/wissenschaft/mensch/akne-impfung-suche-nach-der-anti-pickel-spritze](https://www.spiegel.de/wissenschaft/mensch/akne-impfung-suche-nach-der-anti-pickel-spritze-a-2e62fe84-c4c5-49ae-b6dd-e0aa41b0188d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel](https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel-a-dbd4f124-40f9-4ee0-8d7f-b3c23a36e8b9#ref=rss)
+### max
+
+* [https://www.spiegel.de/sport/formel1/formel-1-so-holt-sich-max-verstappen-doch-noch-seinen-fuenften-wm-titel](https://www.spiegel.de/sport/formel1/formel-1-so-holt-sich-max-verstappen-doch-noch-seinen-fuenften-wm-titel-a-f36bdd93-6f38-4bb5-a8a4-0176ca28869c#ref=rss)
+### verstappen
+
+* [https://www.spiegel.de/sport/formel1/formel-1-so-holt-sich-max-verstappen-doch-noch-seinen-fuenften-wm-titel](https://www.spiegel.de/sport/formel1/formel-1-so-holt-sich-max-verstappen-doch-noch-seinen-fuenften-wm-titel-a-f36bdd93-6f38-4bb5-a8a4-0176ca28869c#ref=rss)
+### wirft
+
+* [https://www.spiegel.de/ausland/japan-wirft-china-vor-kampfjets-ins-visier-genommen-zu-haben](https://www.spiegel.de/ausland/japan-wirft-china-vor-kampfjets-ins-visier-genommen-zu-haben-a-7a7bee08-43dc-4db2-a052-2d20e52c86fa#ref=rss)
+### kampfjets
+
+* [https://www.spiegel.de/ausland/japan-wirft-china-vor-kampfjets-ins-visier-genommen-zu-haben](https://www.spiegel.de/ausland/japan-wirft-china-vor-kampfjets-ins-visier-genommen-zu-haben-a-7a7bee08-43dc-4db2-a052-2d20e52c86fa#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/ausland/japan-wirft-china-vor-kampfjets-ins-visier-genommen-zu-haben](https://www.spiegel.de/ausland/japan-wirft-china-vor-kampfjets-ins-visier-genommen-zu-haben-a-7a7bee08-43dc-4db2-a052-2d20e52c86fa#ref=rss)
+* [https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump](https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump-a-60911a2c-bde8-4373-9cd0-b52515f2ece9#ref=rss)
+### großen
+
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera](https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera-a-2e498aa6-a8ae-4400-b2f0-99d4f0aaaaf2#ref=rss)
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
+### gerät
+
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera](https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera-a-2e498aa6-a8ae-4400-b2f0-99d4f0aaaaf2#ref=rss)
+* [https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot](https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot-a-83828541-bfac-4fa4-bc37-3d70e660e9ed#ref=rss)
+### alter
+
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera](https://www.spiegel.de/kultur/tv/thomas-gottschalk-und-seine-abschiedsshow-ein-hauch-von-konfetti-dann-endet-eine-aera-a-2e498aa6-a8ae-4400-b2f0-99d4f0aaaaf2#ref=rss)
+* [https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung](https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung-a-4b1955b7-2463-4b15-8fbe-033225fb9c8b#ref=rss)
+### dating
+
+* [https://www.spiegel.de/partnerschaft/dating-matthias-espigs-partykeller-als-alternative-fuer-singles-ue50](https://www.spiegel.de/partnerschaft/dating-matthias-espigs-partykeller-als-alternative-fuer-singles-ue50-a-aa635cff-1909-43fb-9c67-aba677a28716#ref=rss)
+* [https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung](https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung-a-4b1955b7-2463-4b15-8fbe-033225fb9c8b#ref=rss)
+### matthias
+
+* [https://www.spiegel.de/partnerschaft/dating-matthias-espigs-partykeller-als-alternative-fuer-singles-ue50](https://www.spiegel.de/partnerschaft/dating-matthias-espigs-partykeller-als-alternative-fuer-singles-ue50-a-aa635cff-1909-43fb-9c67-aba677a28716#ref=rss)
+### ü50
+
+* [https://www.spiegel.de/partnerschaft/dating-matthias-espigs-partykeller-als-alternative-fuer-singles-ue50](https://www.spiegel.de/partnerschaft/dating-matthias-espigs-partykeller-als-alternative-fuer-singles-ue50-a-aa635cff-1909-43fb-9c67-aba677a28716#ref=rss)
+### gabriele
+
+* [https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung](https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung-a-4b1955b7-2463-4b15-8fbe-033225fb9c8b#ref=rss)
+### pochhammer
+
+* [https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung](https://www.spiegel.de/partnerschaft/dating-im-alter-gabriele-pochhammer-und-die-schwierigkeiten-der-ue50-vermittlung-a-4b1955b7-2463-4b15-8fbe-033225fb9c8b#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an](https://www.spiegel.de/ausland/krieg-in-der-ukraine-russland-greift-ukraine-offenbar-mit-hyperschallraketen-und-drohnen-an-a-ce48e0a0-c443-47e4-90e7-46134322ab5f#ref=rss)
+### herzog
+
+* [https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump](https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump-a-60911a2c-bde8-4373-9cd0-b52515f2ece9#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump](https://www.spiegel.de/ausland/anklage-gegen-benjamin-netanyahu-isaac-herzog-reagiert-gelassen-auf-einmischung-durch-donald-trump-a-60911a2c-bde8-4373-9cd0-b52515f2ece9#ref=rss)
+### goa
+
+* [https://www.spiegel.de/panorama/goa-viele-tote-bei-brand-in-indischem-nachtclub](https://www.spiegel.de/panorama/goa-viele-tote-bei-brand-in-indischem-nachtclub-a-1d21a7fe-fb95-4232-909b-eccffe328c25#ref=rss)
+### denn
+
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
+### passiert
+
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
+### krebsop
+
+* [https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow](https://www.spiegel.de/kultur/tv/thomas-gottschalk-tv-ikone-spricht-ueber-krebs-op-bei-abschiedsshow-a-bc99eb52-0ff4-4c0c-a6e4-6e73977f9e89#ref=rss)
+### a61
+
+* [https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot](https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot-a-83828541-bfac-4fa4-bc37-3d70e660e9ed#ref=rss)
+### beifahrer
+
+* [https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot](https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot-a-83828541-bfac-4fa4-bc37-3d70e660e9ed#ref=rss)
+### tot
+
+* [https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot](https://www.spiegel.de/panorama/a61-smart-geraet-in-rastplatz-zufahrt-unter-parkenden-lkw-beifahrer-tot-a-83828541-bfac-4fa4-bc37-3d70e660e9ed#ref=rss)
+### lionel
+
+* [https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel](https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel-a-dbd4f124-40f9-4ee0-8d7f-b3c23a36e8b9#ref=rss)
+### messi
+
+* [https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel](https://www.spiegel.de/sport/fussball/mls-finale-lionel-messi-triumphiert-mit-inter-miami-ueber-thomas-mueller-und-seine-vancouver-whitecaps-und-sichert-sich-den-titel-a-dbd4f124-40f9-4ee0-8d7f-b3c23a36e8b9#ref=rss)
+### 18
+
+* [https://www.spiegel.de/ausland/mittelmeer-18-tote-bei-bootsunglueck-vor-griechischer-kueste](https://www.spiegel.de/ausland/mittelmeer-18-tote-bei-bootsunglueck-vor-griechischer-kueste-a-65575160-1db1-4021-aab0-8fadcd811e20#ref=rss)
 
