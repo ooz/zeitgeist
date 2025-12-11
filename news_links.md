@@ -4,276 +4,436 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-bevoelkerungszahl-sinkt-moeglicherweise-auf-weniger-als-75-millionen](https://www.spiegel.de/panorama/gesellschaft/deutschland-bevoelkerungszahl-sinkt-moeglicherweise-auf-weniger-als-75-millionen-a-998f52d5-0957-450c-b8a9-9b4f782ee524#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kinderrechte-index-vom-deutschen-kinderhilfswerk-im-land-der-ungleichen-kindheiten](https://www.spiegel.de/panorama/bildung/kinderrechte-index-vom-deutschen-kinderhilfswerk-im-land-der-ungleichen-kindheiten-a-0cd1309a-59db-4b27-bdbe-4ebbf8ec6a50#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-ifw-und-ifo-prognostizieren-mini-wachstum-reformstau-als-bremse](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-ifw-und-ifo-prognostizieren-mini-wachstum-reformstau-als-bremse-a-187a9c60-8507-4f79-a949-11bba3ffeb55#ref=rss)
-* [https://www.spiegel.de/wissenschaft/woelfe-in-deutschland-und-die-geplante-aenderung-im-bundesjagdgesetz-die-falsche-strategie](https://www.spiegel.de/wissenschaft/woelfe-in-deutschland-und-die-geplante-aenderung-im-bundesjagdgesetz-die-falsche-strategie-a-c5709b19-20f2-4736-8d71-2a9549245279#ref=rss)
-### neue
-
-* [https://www.spiegel.de/netzwelt/apps/digitaler-personalausweis-ab-2027-sollen-sich-buerger-per-smartphone-ausweisen-koennen](https://www.spiegel.de/netzwelt/apps/digitaler-personalausweis-ab-2027-sollen-sich-buerger-per-smartphone-ausweisen-koennen-a-424bd598-7244-42aa-8c2f-31f7716517cf#ref=rss)
-* [https://www.spiegel.de/start/medizinstudienplatz-ergattern-was-aendert-sich-beim-neuen-medizinertest-startklar-newsletter](https://www.spiegel.de/start/medizinstudienplatz-ergattern-was-aendert-sich-beim-neuen-medizinertest-startklar-newsletter-a-5d94bcf1-dfa1-43fc-9858-1318b52ef102#ref=rss)
-* [https://www.spiegel.de/kultur/unesco-entscheidung-das-schweizer-jodeln-gehoert-nun-zum-kulturerbe-der-menschheit](https://www.spiegel.de/kultur/unesco-entscheidung-das-schweizer-jodeln-gehoert-nun-zum-kulturerbe-der-menschheit-a-fb71c6f3-34af-4b8f-a0cf-52c84cf56bc4#ref=rss)
-* [https://www.spiegel.de/panorama/graz-aussage-im-schaedelbohr-fall-wirft-neue-fragen-auf-gab-es-weitere-unbefugte-im-op](https://www.spiegel.de/panorama/graz-aussage-im-schaedelbohr-fall-wirft-neue-fragen-auf-gab-es-weitere-unbefugte-im-op-a-3165c842-f933-40bf-858a-ab798aedf9ea#ref=rss)
-### australien
-
-* [https://www.spiegel.de/ausland/australien-erste-klima-fluechtlinge-aus-sinkendem-inselstaat-tuvalu-gelandet](https://www.spiegel.de/ausland/australien-erste-klima-fluechtlinge-aus-sinkendem-inselstaat-tuvalu-gelandet-a-5667cdb9-c50a-423c-9ba5-1d666f744e53#ref=rss)
-* [https://www.spiegel.de/panorama/social-media-verbot-in-australien-jugendliche-prahlen-damit-online-zu-bleiben](https://www.spiegel.de/panorama/social-media-verbot-in-australien-jugendliche-prahlen-damit-online-zu-bleiben-a-0a679aab-791f-42da-ab31-11753b3591bd#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-bevoelkerungszahl-sinkt-moeglicherweise-auf-weniger-als-75-millionen](https://www.spiegel.de/panorama/gesellschaft/deutschland-bevoelkerungszahl-sinkt-moeglicherweise-auf-weniger-als-75-millionen-a-998f52d5-0957-450c-b8a9-9b4f782ee524#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kinderrechte-index-vom-deutschen-kinderhilfswerk-im-land-der-ungleichen-kindheiten](https://www.spiegel.de/panorama/bildung/kinderrechte-index-vom-deutschen-kinderhilfswerk-im-land-der-ungleichen-kindheiten-a-0cd1309a-59db-4b27-bdbe-4ebbf8ec6a50#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet](https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet-a-bd59b7db-1783-4044-80e7-55bd7668f069#ref=rss)
-### allem
-
-* [https://www.spiegel.de/panorama/bildung/kinderrechte-index-vom-deutschen-kinderhilfswerk-im-land-der-ungleichen-kindheiten](https://www.spiegel.de/panorama/bildung/kinderrechte-index-vom-deutschen-kinderhilfswerk-im-land-der-ungleichen-kindheiten-a-0cd1309a-59db-4b27-bdbe-4ebbf8ec6a50#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand](https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand-a-77b777a9-6399-4d3c-b8b0-22cf7a94d76a#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
-### café
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet](https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet-a-bd59b7db-1783-4044-80e7-55bd7668f069#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-der-eine-sitzt-im-schuetzengraben-der-andere-im-cafe-in-kyjiw-spiegel-spitzengespraech](https://www.spiegel.de/politik/ukraine-der-eine-sitzt-im-schuetzengraben-der-andere-im-cafe-in-kyjiw-spiegel-spitzengespraech-a-0497295f-c835-481c-8110-851b444264a9#ref=rss)
-### koalitionsausschuss
-
-* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar-a-2a5e2452-ebba-4763-88e7-a81be61e7aa4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen-a-1154afbf-7cdf-48a6-8e01-243872d08cc7#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar-a-2a5e2452-ebba-4763-88e7-a81be61e7aa4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen-a-1154afbf-7cdf-48a6-8e01-243872d08cc7#ref=rss)
-### heizungsgesetz
-
-* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar-a-2a5e2452-ebba-4763-88e7-a81be61e7aa4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen-a-1154afbf-7cdf-48a6-8e01-243872d08cc7#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/panorama/muenchen-weihnachtsmaenner-verteilen-rechtsextreme-flyer-in-u-bahn](https://www.spiegel.de/panorama/muenchen-weihnachtsmaenner-verteilen-rechtsextreme-flyer-in-u-bahn-a-35023c30-62b3-4e17-87bf-8f77ae426c5d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid](https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid-a-bcd54122-de36-4bc1-9518-11eb0f2e4288#ref=rss)
-### tuvalu
-
-* [https://www.spiegel.de/ausland/australien-erste-klima-fluechtlinge-aus-sinkendem-inselstaat-tuvalu-gelandet](https://www.spiegel.de/ausland/australien-erste-klima-fluechtlinge-aus-sinkendem-inselstaat-tuvalu-gelandet-a-5667cdb9-c50a-423c-9ba5-1d666f744e53#ref=rss)
-### bald
-
-* [https://www.spiegel.de/ausland/australien-erste-klima-fluechtlinge-aus-sinkendem-inselstaat-tuvalu-gelandet](https://www.spiegel.de/ausland/australien-erste-klima-fluechtlinge-aus-sinkendem-inselstaat-tuvalu-gelandet-a-5667cdb9-c50a-423c-9ba5-1d666f744e53#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-ifw-und-ifo-prognostizieren-mini-wachstum-reformstau-als-bremse](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-ifw-und-ifo-prognostizieren-mini-wachstum-reformstau-als-bremse-a-187a9c60-8507-4f79-a949-11bba3ffeb55#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/australien-erste-klima-fluechtlinge-aus-sinkendem-inselstaat-tuvalu-gelandet](https://www.spiegel.de/ausland/australien-erste-klima-fluechtlinge-aus-sinkendem-inselstaat-tuvalu-gelandet-a-5667cdb9-c50a-423c-9ba5-1d666f744e53#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand](https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand-a-77b777a9-6399-4d3c-b8b0-22cf7a94d76a#ref=rss)
-### sinkt
-
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-bevoelkerungszahl-sinkt-moeglicherweise-auf-weniger-als-75-millionen](https://www.spiegel.de/panorama/gesellschaft/deutschland-bevoelkerungszahl-sinkt-moeglicherweise-auf-weniger-als-75-millionen-a-998f52d5-0957-450c-b8a9-9b4f782ee524#ref=rss)
-### streit
-
-* [https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung](https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung-a-4f4a96a7-5330-4f7d-9a8a-77d1653959f6#ref=rss)
-### sparkurs
-
-* [https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung](https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung-a-4f4a96a7-5330-4f7d-9a8a-77d1653959f6#ref=rss)
-### chefredakteur
-
-* [https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung](https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung-a-4f4a96a7-5330-4f7d-9a8a-77d1653959f6#ref=rss)
-### krach
-
-* [https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung](https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung-a-4f4a96a7-5330-4f7d-9a8a-77d1653959f6#ref=rss)
-### süddeutsche
-
-* [https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung](https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung-a-4f4a96a7-5330-4f7d-9a8a-77d1653959f6#ref=rss)
-### zeitung
-
-* [https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung](https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung-a-4f4a96a7-5330-4f7d-9a8a-77d1653959f6#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung](https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung-a-4f4a96a7-5330-4f7d-9a8a-77d1653959f6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid](https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid-a-bcd54122-de36-4bc1-9518-11eb0f2e4288#ref=rss)
-### groß
-
-* [https://www.spiegel.de/panorama/bildung/kinderrechte-index-vom-deutschen-kinderhilfswerk-im-land-der-ungleichen-kindheiten](https://www.spiegel.de/panorama/bildung/kinderrechte-index-vom-deutschen-kinderhilfswerk-im-land-der-ungleichen-kindheiten-a-0cd1309a-59db-4b27-bdbe-4ebbf8ec6a50#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet](https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet-a-bd59b7db-1783-4044-80e7-55bd7668f069#ref=rss)
-### nordhausen
-
-* [https://www.spiegel.de/politik/nordhausen-in-thueringen-mutmassliches-is-mitglied-festgenommen](https://www.spiegel.de/politik/nordhausen-in-thueringen-mutmassliches-is-mitglied-festgenommen-a-ae83f68c-9161-4789-a4da-63257767942c#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/politik/nordhausen-in-thueringen-mutmassliches-is-mitglied-festgenommen](https://www.spiegel.de/politik/nordhausen-in-thueringen-mutmassliches-is-mitglied-festgenommen-a-ae83f68c-9161-4789-a4da-63257767942c#ref=rss)
-* [https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen](https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen-a-952aea13-3dd0-417e-8111-103041448bf2#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/nordhausen-in-thueringen-mutmassliches-is-mitglied-festgenommen](https://www.spiegel.de/politik/nordhausen-in-thueringen-mutmassliches-is-mitglied-festgenommen-a-ae83f68c-9161-4789-a4da-63257767942c#ref=rss)
-* [https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen](https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen-a-8dab54a7-013f-4132-b48c-30131318b8b4#ref=rss)
-### anderem
-
-* [https://www.spiegel.de/politik/nordhausen-in-thueringen-mutmassliches-is-mitglied-festgenommen](https://www.spiegel.de/politik/nordhausen-in-thueringen-mutmassliches-is-mitglied-festgenommen-a-ae83f68c-9161-4789-a4da-63257767942c#ref=rss)
-* [https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen](https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen-a-8dab54a7-013f-4132-b48c-30131318b8b4#ref=rss)
-### nicolas
-
-* [https://www.spiegel.de/panorama/frankreich-nicolas-sarkozy-motzt-ueber-zeit-im-gefaengnis-und-lobt-marine-le-pen](https://www.spiegel.de/panorama/frankreich-nicolas-sarkozy-motzt-ueber-zeit-im-gefaengnis-und-lobt-marine-le-pen-a-53c5ac5c-80ee-42ac-aba0-ab226de6efe1#ref=rss)
-### sarkozy
-
-* [https://www.spiegel.de/panorama/frankreich-nicolas-sarkozy-motzt-ueber-zeit-im-gefaengnis-und-lobt-marine-le-pen](https://www.spiegel.de/panorama/frankreich-nicolas-sarkozy-motzt-ueber-zeit-im-gefaengnis-und-lobt-marine-le-pen-a-53c5ac5c-80ee-42ac-aba0-ab226de6efe1#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/panorama/frankreich-nicolas-sarkozy-motzt-ueber-zeit-im-gefaengnis-und-lobt-marine-le-pen](https://www.spiegel.de/panorama/frankreich-nicolas-sarkozy-motzt-ueber-zeit-im-gefaengnis-und-lobt-marine-le-pen-a-53c5ac5c-80ee-42ac-aba0-ab226de6efe1#ref=rss)
-* [https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen](https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen-a-952aea13-3dd0-417e-8111-103041448bf2#ref=rss)
-### expräsident
-
-* [https://www.spiegel.de/panorama/frankreich-nicolas-sarkozy-motzt-ueber-zeit-im-gefaengnis-und-lobt-marine-le-pen](https://www.spiegel.de/panorama/frankreich-nicolas-sarkozy-motzt-ueber-zeit-im-gefaengnis-und-lobt-marine-le-pen-a-53c5ac5c-80ee-42ac-aba0-ab226de6efe1#ref=rss)
-* [https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen](https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen-a-952aea13-3dd0-417e-8111-103041448bf2#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand](https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand-a-77b777a9-6399-4d3c-b8b0-22cf7a94d76a#ref=rss)
-### brandenburg
-
-* [https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand](https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand-a-77b777a9-6399-4d3c-b8b0-22cf7a94d76a#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand](https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand-a-77b777a9-6399-4d3c-b8b0-22cf7a94d76a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen-a-1154afbf-7cdf-48a6-8e01-243872d08cc7#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand](https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand-a-77b777a9-6399-4d3c-b8b0-22cf7a94d76a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen](https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen-a-8dab54a7-013f-4132-b48c-30131318b8b4#ref=rss)
-### ifw
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-ifw-und-ifo-prognostizieren-mini-wachstum-reformstau-als-bremse](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-ifw-und-ifo-prognostizieren-mini-wachstum-reformstau-als-bremse-a-187a9c60-8507-4f79-a949-11bba3ffeb55#ref=rss)
-### ifo
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-ifw-und-ifo-prognostizieren-mini-wachstum-reformstau-als-bremse](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-ifw-und-ifo-prognostizieren-mini-wachstum-reformstau-als-bremse-a-187a9c60-8507-4f79-a949-11bba3ffeb55#ref=rss)
-### medizinertest
-
-* [https://www.spiegel.de/start/medizinstudienplatz-ergattern-was-aendert-sich-beim-neuen-medizinertest-startklar-newsletter](https://www.spiegel.de/start/medizinstudienplatz-ergattern-was-aendert-sich-beim-neuen-medizinertest-startklar-newsletter-a-5d94bcf1-dfa1-43fc-9858-1318b52ef102#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm](https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm-a-ff4a1f61-a19e-4ffe-b152-5b6e31a71630#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet](https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet-a-bd59b7db-1783-4044-80e7-55bd7668f069#ref=rss)
-### großer
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm](https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm-a-ff4a1f61-a19e-4ffe-b152-5b6e31a71630#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/mcdonalds-zieht-weihnachtsspot-nach-kritik-zurueck](https://www.spiegel.de/wirtschaft/service/mcdonalds-zieht-weihnachtsspot-nach-kritik-zurueck-a-7fceea44-e744-47f0-98b0-13dda05728cf#ref=rss)
-### drohnen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm](https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm-a-ff4a1f61-a19e-4ffe-b152-5b6e31a71630#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet](https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet-a-bd59b7db-1783-4044-80e7-55bd7668f069#ref=rss)
-### europäischen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm](https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm-a-ff4a1f61-a19e-4ffe-b152-5b6e31a71630#ref=rss)
-* [https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen](https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen-a-8dab54a7-013f-4132-b48c-30131318b8b4#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm](https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm-a-ff4a1f61-a19e-4ffe-b152-5b6e31a71630#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker](https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker-a-442a745f-871a-4f6c-ad10-43cbf0a97b2c#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm](https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm-a-ff4a1f61-a19e-4ffe-b152-5b6e31a71630#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar-a-2a5e2452-ebba-4763-88e7-a81be61e7aa4#ref=rss)
-### venezuela
-
-* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker](https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker-a-442a745f-871a-4f6c-ad10-43cbf0a97b2c#ref=rss)
-### usmilitär
-
-* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
-### beschlagnahmt
-
-* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
-### tankschiff
-
-* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
-### auftakt
-
-* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
-### invasion
-
-* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
-### jagd
-
-* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
-* [https://www.spiegel.de/wissenschaft/woelfe-in-deutschland-und-die-geplante-aenderung-im-bundesjagdgesetz-die-falsche-strategie](https://www.spiegel.de/wissenschaft/woelfe-in-deutschland-und-die-geplante-aenderung-im-bundesjagdgesetz-die-falsche-strategie-a-c5709b19-20f2-4736-8d71-2a9549245279#ref=rss)
-### venezuelas
-
-* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker](https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker-a-442a745f-871a-4f6c-ad10-43cbf0a97b2c#ref=rss)
-### socialmediaverbot
-
-* [https://www.spiegel.de/panorama/social-media-verbot-in-australien-jugendliche-prahlen-damit-online-zu-bleiben](https://www.spiegel.de/panorama/social-media-verbot-in-australien-jugendliche-prahlen-damit-online-zu-bleiben-a-0a679aab-791f-42da-ab31-11753b3591bd#ref=rss)
-### jugendliche
-
-* [https://www.spiegel.de/panorama/social-media-verbot-in-australien-jugendliche-prahlen-damit-online-zu-bleiben](https://www.spiegel.de/panorama/social-media-verbot-in-australien-jugendliche-prahlen-damit-online-zu-bleiben-a-0a679aab-791f-42da-ab31-11753b3591bd#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/panorama/social-media-verbot-in-australien-jugendliche-prahlen-damit-online-zu-bleiben](https://www.spiegel.de/panorama/social-media-verbot-in-australien-jugendliche-prahlen-damit-online-zu-bleiben-a-0a679aab-791f-42da-ab31-11753b3591bd#ref=rss)
-* [https://www.spiegel.de/panorama/graz-aussage-im-schaedelbohr-fall-wirft-neue-fragen-auf-gab-es-weitere-unbefugte-im-op](https://www.spiegel.de/panorama/graz-aussage-im-schaedelbohr-fall-wirft-neue-fragen-auf-gab-es-weitere-unbefugte-im-op-a-3165c842-f933-40bf-858a-ab798aedf9ea#ref=rss)
-### cherson
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet](https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet-a-bd59b7db-1783-4044-80e7-55bd7668f069#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet](https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet-a-bd59b7db-1783-4044-80e7-55bd7668f069#ref=rss)
-### geworden
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet](https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet-a-bd59b7db-1783-4044-80e7-55bd7668f069#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/mcdonalds-zieht-weihnachtsspot-nach-kritik-zurueck](https://www.spiegel.de/wirtschaft/service/mcdonalds-zieht-weihnachtsspot-nach-kritik-zurueck-a-7fceea44-e744-47f0-98b0-13dda05728cf#ref=rss)
-### graz
-
-* [https://www.spiegel.de/panorama/graz-aussage-im-schaedelbohr-fall-wirft-neue-fragen-auf-gab-es-weitere-unbefugte-im-op](https://www.spiegel.de/panorama/graz-aussage-im-schaedelbohr-fall-wirft-neue-fragen-auf-gab-es-weitere-unbefugte-im-op-a-3165c842-f933-40bf-858a-ab798aedf9ea#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/panorama/graz-aussage-im-schaedelbohr-fall-wirft-neue-fragen-auf-gab-es-weitere-unbefugte-im-op](https://www.spiegel.de/panorama/graz-aussage-im-schaedelbohr-fall-wirft-neue-fragen-auf-gab-es-weitere-unbefugte-im-op-a-3165c842-f933-40bf-858a-ab798aedf9ea#ref=rss)
-### video
-
-* [https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker](https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker-a-442a745f-871a-4f6c-ad10-43cbf0a97b2c#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker](https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker-a-442a745f-871a-4f6c-ad10-43cbf0a97b2c#ref=rss)
-* [https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen](https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen-a-8dab54a7-013f-4132-b48c-30131318b8b4#ref=rss)
-### wölfe
-
-* [https://www.spiegel.de/wissenschaft/woelfe-in-deutschland-und-die-geplante-aenderung-im-bundesjagdgesetz-die-falsche-strategie](https://www.spiegel.de/wissenschaft/woelfe-in-deutschland-und-die-geplante-aenderung-im-bundesjagdgesetz-die-falsche-strategie-a-c5709b19-20f2-4736-8d71-2a9549245279#ref=rss)
-### biologin
-
-* [https://www.spiegel.de/wissenschaft/woelfe-in-deutschland-und-die-geplante-aenderung-im-bundesjagdgesetz-die-falsche-strategie](https://www.spiegel.de/wissenschaft/woelfe-in-deutschland-und-die-geplante-aenderung-im-bundesjagdgesetz-die-falsche-strategie-a-c5709b19-20f2-4736-8d71-2a9549245279#ref=rss)
-### luis
-
-* [https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen](https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen-a-952aea13-3dd0-417e-8111-103041448bf2#ref=rss)
-### arce
-
-* [https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen](https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen-a-952aea13-3dd0-417e-8111-103041448bf2#ref=rss)
-### myanmar
-
-* [https://www.spiegel.de/ausland/myanmar-mindestens-30-tote-bei-luftangriff-auf-krankenhaus](https://www.spiegel.de/ausland/myanmar-mindestens-30-tote-bei-luftangriff-auf-krankenhaus-a-1d21ae0e-c93e-4183-9e5a-39a8b12a2bcc#ref=rss)
-### krankenhaus
-
-* [https://www.spiegel.de/ausland/myanmar-mindestens-30-tote-bei-luftangriff-auf-krankenhaus](https://www.spiegel.de/ausland/myanmar-mindestens-30-tote-bei-luftangriff-auf-krankenhaus-a-1d21ae0e-c93e-4183-9e5a-39a8b12a2bcc#ref=rss)
-### ergebnisse
-
-* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar-a-2a5e2452-ebba-4763-88e7-a81be61e7aa4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen-a-1154afbf-7cdf-48a6-8e01-243872d08cc7#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar-a-2a5e2452-ebba-4763-88e7-a81be61e7aa4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen-a-1154afbf-7cdf-48a6-8e01-243872d08cc7#ref=rss)
-### weihnachtsmänner
-
-* [https://www.spiegel.de/panorama/muenchen-weihnachtsmaenner-verteilen-rechtsextreme-flyer-in-u-bahn](https://www.spiegel.de/panorama/muenchen-weihnachtsmaenner-verteilen-rechtsextreme-flyer-in-u-bahn-a-35023c30-62b3-4e17-87bf-8f77ae426c5d#ref=rss)
-### ubahn
-
-* [https://www.spiegel.de/panorama/muenchen-weihnachtsmaenner-verteilen-rechtsextreme-flyer-in-u-bahn](https://www.spiegel.de/panorama/muenchen-weihnachtsmaenner-verteilen-rechtsextreme-flyer-in-u-bahn-a-35023c30-62b3-4e17-87bf-8f77ae426c5d#ref=rss)
+### trump
+
+* [https://www.spiegel.de/geschichte/ukraine-donald-trump-fordert-wahlen-ein-blick-in-die-geschichte](https://www.spiegel.de/geschichte/ukraine-donald-trump-fordert-wahlen-ein-blick-in-die-geschichte-a-cee2148c-0f15-4081-9328-bfbefb588cc6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback-a-88389827-6e49-49af-a043-330bcc8690f3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-legt-usa-laut-selenskyj-aktualisierten-friedensplan-vor](https://www.spiegel.de/ausland/ukraine-legt-usa-laut-selenskyj-aktualisierten-friedensplan-vor-a-097dfc37-a154-4c14-9db0-dcdaf83ba8b8#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen](https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen-a-5858fbda-5192-4e9d-a499-53dc929f3a2b#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/politik/ukraine-der-eine-sitzt-im-schuetzengraben-der-andere-im-cafe-in-kyjiw-spiegel-spitzengespraech](https://www.spiegel.de/politik/ukraine-der-eine-sitzt-im-schuetzengraben-der-andere-im-cafe-in-kyjiw-spiegel-spitzengespraech-a-0497295f-c835-481c-8110-851b444264a9#ref=rss)
-### champions
+* [https://www.spiegel.de/geschichte/ukraine-donald-trump-fordert-wahlen-ein-blick-in-die-geschichte](https://www.spiegel.de/geschichte/ukraine-donald-trump-fordert-wahlen-ein-blick-in-die-geschichte-a-cee2148c-0f15-4081-9328-bfbefb588cc6#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-legt-usa-laut-selenskyj-aktualisierten-friedensplan-vor](https://www.spiegel.de/ausland/ukraine-legt-usa-laut-selenskyj-aktualisierten-friedensplan-vor-a-097dfc37-a154-4c14-9db0-dcdaf83ba8b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-setzt-sich-in-die-ukraine-ab](https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-setzt-sich-in-die-ukraine-ab-a-1bce0326-7c63-49e2-b4b1-13a31348f042#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid](https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid-a-bcd54122-de36-4bc1-9518-11eb0f2e4288#ref=rss)
-### league
+* [https://www.spiegel.de/geschichte/ukraine-donald-trump-fordert-wahlen-ein-blick-in-die-geschichte](https://www.spiegel.de/geschichte/ukraine-donald-trump-fordert-wahlen-ein-blick-in-die-geschichte-a-cee2148c-0f15-4081-9328-bfbefb588cc6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback-a-88389827-6e49-49af-a043-330bcc8690f3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen](https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen-a-5858fbda-5192-4e9d-a499-53dc929f3a2b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-migrationspolitik-noem-im-livestream-vor-dem-kongress](https://www.spiegel.de/ausland/donald-trumps-migrationspolitik-noem-im-livestream-vor-dem-kongress-a-6b23922e-1f13-4687-9634-8c59e10512df#ref=rss)
+### vier
 
-* [https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid](https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid-a-bcd54122-de36-4bc1-9518-11eb0f2e4288#ref=rss)
-### fc
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback-a-88389827-6e49-49af-a043-330bcc8690f3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen](https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen-a-5858fbda-5192-4e9d-a499-53dc929f3a2b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert](https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert-a-180aedf5-98b8-47ac-9e25-57400b1403df#ref=rss)
+* [https://www.spiegel.de/wirtschaft/momfluencerin-setzte-kaninchen-aus-pampers-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/momfluencerin-setzte-kaninchen-aus-pampers-beendet-zusammenarbeit-a-00242b25-83c4-4357-9cfa-62f959b17a4e#ref=rss)
+### eu
 
-* [https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid](https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid-a-bcd54122-de36-4bc1-9518-11eb0f2e4288#ref=rss)
-### bayern
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback-a-88389827-6e49-49af-a043-330bcc8690f3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen](https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen-a-5858fbda-5192-4e9d-a499-53dc929f3a2b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verbrenner-aus-eu-kommission-will-verbot-offenbar-aufweichen](https://www.spiegel.de/politik/deutschland/verbrenner-aus-eu-kommission-will-verbot-offenbar-aufweichen-a-a267d315-8e9e-4974-ad4d-cf8444aa5d69#ref=rss)
+### netflix
 
-* [https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid](https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid-a-bcd54122-de36-4bc1-9518-11eb0f2e4288#ref=rss)
-### madrid
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### paramount
 
-* [https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid](https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid-a-bcd54122-de36-4bc1-9518-11eb0f2e4288#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### warner
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### bros
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-setzt-sich-in-die-ukraine-ab](https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-setzt-sich-in-die-ukraine-ab-a-1bce0326-7c63-49e2-b4b1-13a31348f042#ref=rss)
+* [https://www.spiegel.de/wirtschaft/momfluencerin-setzte-kaninchen-aus-pampers-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/momfluencerin-setzte-kaninchen-aus-pampers-beendet-zusammenarbeit-a-00242b25-83c4-4357-9cfa-62f959b17a4e#ref=rss)
+### polen
+
+* [https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen](https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen-a-5858fbda-5192-4e9d-a499-53dc929f3a2b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/polen-russischer-archaeologe-wegen-mutmasslicher-ausgrabungen-festgenommen](https://www.spiegel.de/panorama/justiz/polen-russischer-archaeologe-wegen-mutmasslicher-ausgrabungen-festgenommen-a-8c1e14a6-ee98-4dc5-9c41-7570c4146b37#ref=rss)
+### person
+
+* [https://www.spiegel.de/netzwelt/ki-architekten-zur-person-des-jahres-erklaert](https://www.spiegel.de/netzwelt/ki-architekten-zur-person-des-jahres-erklaert-a-880a387b-8d00-49f8-86b5-d783c53a6cf8#ref=rss)
+### block
+
+* [https://www.spiegel.de/panorama/justiz/strafprozess-gegen-christina-block-der-patriarch-war-die-gesamte-zeit-involviert](https://www.spiegel.de/panorama/justiz/strafprozess-gegen-christina-block-der-patriarch-war-die-gesamte-zeit-involviert-a-2ae59202-ca4d-43d6-bcbc-b7d220d16fd2#ref=rss)
+### tag
+
+* [https://www.spiegel.de/panorama/justiz/strafprozess-gegen-christina-block-der-patriarch-war-die-gesamte-zeit-involviert](https://www.spiegel.de/panorama/justiz/strafprozess-gegen-christina-block-der-patriarch-war-die-gesamte-zeit-involviert-a-2ae59202-ca4d-43d6-bcbc-b7d220d16fd2#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/geschichte/ukraine-donald-trump-fordert-wahlen-ein-blick-in-die-geschichte](https://www.spiegel.de/geschichte/ukraine-donald-trump-fordert-wahlen-ein-blick-in-die-geschichte-a-cee2148c-0f15-4081-9328-bfbefb588cc6#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-legt-usa-laut-selenskyj-aktualisierten-friedensplan-vor](https://www.spiegel.de/ausland/ukraine-legt-usa-laut-selenskyj-aktualisierten-friedensplan-vor-a-097dfc37-a154-4c14-9db0-dcdaf83ba8b8#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen](https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen-a-5858fbda-5192-4e9d-a499-53dc929f3a2b#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-migrationspolitik-noem-im-livestream-vor-dem-kongress](https://www.spiegel.de/ausland/donald-trumps-migrationspolitik-noem-im-livestream-vor-dem-kongress-a-6b23922e-1f13-4687-9634-8c59e10512df#ref=rss)
+### länder
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback-a-88389827-6e49-49af-a043-330bcc8690f3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen](https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen-a-5858fbda-5192-4e9d-a499-53dc929f3a2b#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/politik/deutschland/pflegeversicherung-kritik-an-unkonkreten-vorschlaegen-der-pflegekommission](https://www.spiegel.de/politik/deutschland/pflegeversicherung-kritik-an-unkonkreten-vorschlaegen-der-pflegekommission-a-7b8b3703-30bd-4001-a1dd-303bd072a5a9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/polen-russischer-archaeologe-wegen-mutmasslicher-ausgrabungen-festgenommen](https://www.spiegel.de/panorama/justiz/polen-russischer-archaeologe-wegen-mutmasslicher-ausgrabungen-festgenommen-a-8c1e14a6-ee98-4dc5-9c41-7570c4146b37#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/politik/deutschland/verbrenner-aus-eu-kommission-will-verbot-offenbar-aufweichen](https://www.spiegel.de/politik/deutschland/verbrenner-aus-eu-kommission-will-verbot-offenbar-aufweichen-a-a267d315-8e9e-4974-ad4d-cf8444aa5d69#ref=rss)
+* [https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern](https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern-a-b199d26c-3879-4046-840f-dbfc93417e78#ref=rss)
+### teilnahme
+
+* [https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern](https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern-a-b199d26c-3879-4046-840f-dbfc93417e78#ref=rss)
+* [https://www.spiegel.de/kultur/wegen-moeglicher-teilnahme-israels-auch-island-boykottiert-den-esc-2026-in-wien](https://www.spiegel.de/kultur/wegen-moeglicher-teilnahme-israels-auch-island-boykottiert-den-esc-2026-in-wien-a-fc831df1-de7a-41fa-8025-7e99628cfa08#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-migrationspolitik-noem-im-livestream-vor-dem-kongress](https://www.spiegel.de/ausland/donald-trumps-migrationspolitik-noem-im-livestream-vor-dem-kongress-a-6b23922e-1f13-4687-9634-8c59e10512df#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/kultur/wegen-moeglicher-teilnahme-israels-auch-island-boykottiert-den-esc-2026-in-wien](https://www.spiegel.de/kultur/wegen-moeglicher-teilnahme-israels-auch-island-boykottiert-den-esc-2026-in-wien-a-fc831df1-de7a-41fa-8025-7e99628cfa08#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2026-spiegel-ranking-das-sind-die-besten-dartsspieler-und-spielerinnen-der-welt](https://www.spiegel.de/sport/darts-wm-2026-spiegel-ranking-das-sind-die-besten-dartsspieler-und-spielerinnen-der-welt-a-a4d3ddf8-5a67-4390-98e3-635950a61ed4#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/kultur/taylor-swift-soll-fuenf-lieblingssongs-von-taylor-swift-nennen-und-schafft-nur-zwei](https://www.spiegel.de/kultur/taylor-swift-soll-fuenf-lieblingssongs-von-taylor-swift-nennen-und-schafft-nur-zwei-a-c9b05091-6f7e-4d99-9f72-ddc49b7d8fe4#ref=rss)
+### swift
+
+* [https://www.spiegel.de/kultur/taylor-swift-soll-fuenf-lieblingssongs-von-taylor-swift-nennen-und-schafft-nur-zwei](https://www.spiegel.de/kultur/taylor-swift-soll-fuenf-lieblingssongs-von-taylor-swift-nennen-und-schafft-nur-zwei-a-c9b05091-6f7e-4d99-9f72-ddc49b7d8fe4#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/netzwelt/ki-architekten-zur-person-des-jahres-erklaert](https://www.spiegel.de/netzwelt/ki-architekten-zur-person-des-jahres-erklaert-a-880a387b-8d00-49f8-86b5-d783c53a6cf8#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/netzwelt/ki-architekten-zur-person-des-jahres-erklaert](https://www.spiegel.de/netzwelt/ki-architekten-zur-person-des-jahres-erklaert-a-880a387b-8d00-49f8-86b5-d783c53a6cf8#ref=rss)
+* [https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-georgien-fuer-polizeigewalt-bei-demonstration-verurteilt](https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-georgien-fuer-polizeigewalt-bei-demonstration-verurteilt-a-2f752d95-7799-4e7e-95eb-44efa248baf2#ref=rss)
+### kanada
+
+* [https://www.spiegel.de/wissenschaft/kanada-orcas-und-delfine-gehen-gemeinsam-auf-die-jagd](https://www.spiegel.de/wissenschaft/kanada-orcas-und-delfine-gehen-gemeinsam-auf-die-jagd-a-5825e425-654d-4497-a050-831ca37e759d#ref=rss)
+### orcas
+
+* [https://www.spiegel.de/wissenschaft/kanada-orcas-und-delfine-gehen-gemeinsam-auf-die-jagd](https://www.spiegel.de/wissenschaft/kanada-orcas-und-delfine-gehen-gemeinsam-auf-die-jagd-a-5825e425-654d-4497-a050-831ca37e759d#ref=rss)
+### christina
+
+* [https://www.spiegel.de/panorama/justiz/strafprozess-gegen-christina-block-der-patriarch-war-die-gesamte-zeit-involviert](https://www.spiegel.de/panorama/justiz/strafprozess-gegen-christina-block-der-patriarch-war-die-gesamte-zeit-involviert-a-2ae59202-ca4d-43d6-bcbc-b7d220d16fd2#ref=rss)
+### mutmaßliche
+
+* [https://www.spiegel.de/panorama/justiz/strafprozess-gegen-christina-block-der-patriarch-war-die-gesamte-zeit-involviert](https://www.spiegel.de/panorama/justiz/strafprozess-gegen-christina-block-der-patriarch-war-die-gesamte-zeit-involviert-a-2ae59202-ca4d-43d6-bcbc-b7d220d16fd2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brandenburg-havel-mutmasslicher-kindesmissbrauch-in-massregelvollzug-verdaechtiger-ist-sexualstraftaeter](https://www.spiegel.de/panorama/justiz/brandenburg-havel-mutmasslicher-kindesmissbrauch-in-massregelvollzug-verdaechtiger-ist-sexualstraftaeter-a-8ebdd6f9-f446-4040-ac8d-8cf583ba8cee#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/justiz/strafprozess-gegen-christina-block-der-patriarch-war-die-gesamte-zeit-involviert](https://www.spiegel.de/panorama/justiz/strafprozess-gegen-christina-block-der-patriarch-war-die-gesamte-zeit-involviert-a-2ae59202-ca4d-43d6-bcbc-b7d220d16fd2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/momfluencerin-setzte-kaninchen-aus-pampers-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/momfluencerin-setzte-kaninchen-aus-pampers-beendet-zusammenarbeit-a-00242b25-83c4-4357-9cfa-62f959b17a4e#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/strafprozess-gegen-christina-block-der-patriarch-war-die-gesamte-zeit-involviert](https://www.spiegel.de/panorama/justiz/strafprozess-gegen-christina-block-der-patriarch-war-die-gesamte-zeit-involviert-a-2ae59202-ca4d-43d6-bcbc-b7d220d16fd2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brandenburg-havel-mutmasslicher-kindesmissbrauch-in-massregelvollzug-verdaechtiger-ist-sexualstraftaeter](https://www.spiegel.de/panorama/justiz/brandenburg-havel-mutmasslicher-kindesmissbrauch-in-massregelvollzug-verdaechtiger-ist-sexualstraftaeter-a-8ebdd6f9-f446-4040-ac8d-8cf583ba8cee#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/geschichte/ukraine-donald-trump-fordert-wahlen-ein-blick-in-die-geschichte](https://www.spiegel.de/geschichte/ukraine-donald-trump-fordert-wahlen-ein-blick-in-die-geschichte-a-cee2148c-0f15-4081-9328-bfbefb588cc6#ref=rss)
+### wahlen
+
+* [https://www.spiegel.de/geschichte/ukraine-donald-trump-fordert-wahlen-ein-blick-in-die-geschichte](https://www.spiegel.de/geschichte/ukraine-donald-trump-fordert-wahlen-ein-blick-in-die-geschichte-a-cee2148c-0f15-4081-9328-bfbefb588cc6#ref=rss)
+### geschichte
+
+* [https://www.spiegel.de/geschichte/ukraine-donald-trump-fordert-wahlen-ein-blick-in-die-geschichte](https://www.spiegel.de/geschichte/ukraine-donald-trump-fordert-wahlen-ein-blick-in-die-geschichte-a-cee2148c-0f15-4081-9328-bfbefb588cc6#ref=rss)
+### vs
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### kampf
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### unser
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### streaming
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### verändert
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### hinter
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### poker
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### steckt
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### politischer
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### konflikt
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### liberal
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### geprägte
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### rechte
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### vibeshift
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### schwiegersohn
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### befreundeter
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### milliardär
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### mischen
+
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-a-0b399835-852f-41c0-9d5e-6e39927a1121#ref=rss)
+* [https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast](https://www.spiegel.de/kultur/netflix-vs-paramount-wie-der-kampf-um-warner-bros-unser-streaming-veraendert-podcast-a-5b976e20-9be3-4f93-ab48-dd0e53f66e38#ref=rss)
+### maría
+
+* [https://www.spiegel.de/ausland/maria-corina-machado-nobelpreistraegerin-erreicht-oslo-nach-preisverleihung](https://www.spiegel.de/ausland/maria-corina-machado-nobelpreistraegerin-erreicht-oslo-nach-preisverleihung-a-38705f45-30cd-4974-bfb1-c2eb6eeea824#ref=rss)
+### corina
+
+* [https://www.spiegel.de/ausland/maria-corina-machado-nobelpreistraegerin-erreicht-oslo-nach-preisverleihung](https://www.spiegel.de/ausland/maria-corina-machado-nobelpreistraegerin-erreicht-oslo-nach-preisverleihung-a-38705f45-30cd-4974-bfb1-c2eb6eeea824#ref=rss)
+### machado
+
+* [https://www.spiegel.de/ausland/maria-corina-machado-nobelpreistraegerin-erreicht-oslo-nach-preisverleihung](https://www.spiegel.de/ausland/maria-corina-machado-nobelpreistraegerin-erreicht-oslo-nach-preisverleihung-a-38705f45-30cd-4974-bfb1-c2eb6eeea824#ref=rss)
+### erreicht
+
+* [https://www.spiegel.de/ausland/maria-corina-machado-nobelpreistraegerin-erreicht-oslo-nach-preisverleihung](https://www.spiegel.de/ausland/maria-corina-machado-nobelpreistraegerin-erreicht-oslo-nach-preisverleihung-a-38705f45-30cd-4974-bfb1-c2eb6eeea824#ref=rss)
+* [https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern](https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern-a-b199d26c-3879-4046-840f-dbfc93417e78#ref=rss)
+### oslo
+
+* [https://www.spiegel.de/ausland/maria-corina-machado-nobelpreistraegerin-erreicht-oslo-nach-preisverleihung](https://www.spiegel.de/ausland/maria-corina-machado-nobelpreistraegerin-erreicht-oslo-nach-preisverleihung-a-38705f45-30cd-4974-bfb1-c2eb6eeea824#ref=rss)
+### verleihung
+
+* [https://www.spiegel.de/ausland/maria-corina-machado-nobelpreistraegerin-erreicht-oslo-nach-preisverleihung](https://www.spiegel.de/ausland/maria-corina-machado-nobelpreistraegerin-erreicht-oslo-nach-preisverleihung-a-38705f45-30cd-4974-bfb1-c2eb6eeea824#ref=rss)
+* [https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern](https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern-a-b199d26c-3879-4046-840f-dbfc93417e78#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback-a-88389827-6e49-49af-a043-330bcc8690f3#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### locken
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback-a-88389827-6e49-49af-a043-330bcc8690f3#ref=rss)
+### heizungsgesetz
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback-a-88389827-6e49-49af-a043-330bcc8690f3#ref=rss)
+### immo
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback-a-88389827-6e49-49af-a043-330bcc8690f3#ref=rss)
+### tommy
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback-a-88389827-6e49-49af-a043-330bcc8690f3#ref=rss)
+### comeback
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback-a-88389827-6e49-49af-a043-330bcc8690f3#ref=rss)
+### arbeitet
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-will-vier-laender-aus-der-eu-locken-neues-heizungsgesetz-immo-tommy-vor-comeback-a-88389827-6e49-49af-a043-330bcc8690f3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/momfluencerin-setzte-kaninchen-aus-pampers-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/momfluencerin-setzte-kaninchen-aus-pampers-beendet-zusammenarbeit-a-00242b25-83c4-4357-9cfa-62f959b17a4e#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-so-plant-evelyn-palla-den-konzernumbau](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-so-plant-evelyn-palla-den-konzernumbau-a-2714b26c-943b-4a03-b8a1-291ead8f5fa2#ref=rss)
+### evelyn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-so-plant-evelyn-palla-den-konzernumbau](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-so-plant-evelyn-palla-den-konzernumbau-a-2714b26c-943b-4a03-b8a1-291ead8f5fa2#ref=rss)
+### palla
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-so-plant-evelyn-palla-den-konzernumbau](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-so-plant-evelyn-palla-den-konzernumbau-a-2714b26c-943b-4a03-b8a1-291ead8f5fa2#ref=rss)
+### präsentierte
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-so-plant-evelyn-palla-den-konzernumbau](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-so-plant-evelyn-palla-den-konzernumbau-a-2714b26c-943b-4a03-b8a1-291ead8f5fa2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-legt-usa-laut-selenskyj-aktualisierten-friedensplan-vor](https://www.spiegel.de/ausland/ukraine-legt-usa-laut-selenskyj-aktualisierten-friedensplan-vor-a-097dfc37-a154-4c14-9db0-dcdaf83ba8b8#ref=rss)
+### disney
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/disney-steigt-bei-openai-ein-micki-mouse](https://www.spiegel.de/wirtschaft/unternehmen/disney-steigt-bei-openai-ein-micki-mouse-a-abdbf933-d19c-480d-9da8-6ea2ef6505ef#ref=rss)
+### openai
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/disney-steigt-bei-openai-ein-micki-mouse](https://www.spiegel.de/wirtschaft/unternehmen/disney-steigt-bei-openai-ein-micki-mouse-a-abdbf933-d19c-480d-9da8-6ea2ef6505ef#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/disney-steigt-bei-openai-ein-micki-mouse](https://www.spiegel.de/wirtschaft/unternehmen/disney-steigt-bei-openai-ein-micki-mouse-a-abdbf933-d19c-480d-9da8-6ea2ef6505ef#ref=rss)
+* [https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert](https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert-a-180aedf5-98b8-47ac-9e25-57400b1403df#ref=rss)
+### dänemark
+
+* [https://www.spiegel.de/panorama/daenemark-hochzeits-champagner-von-charles-und-diana-wird-versteigert](https://www.spiegel.de/panorama/daenemark-hochzeits-champagner-von-charles-und-diana-wird-versteigert-a-48071bca-557d-42a0-b69d-689113463d17#ref=rss)
+### charles
+
+* [https://www.spiegel.de/panorama/daenemark-hochzeits-champagner-von-charles-und-diana-wird-versteigert](https://www.spiegel.de/panorama/daenemark-hochzeits-champagner-von-charles-und-diana-wird-versteigert-a-48071bca-557d-42a0-b69d-689113463d17#ref=rss)
+### diana
+
+* [https://www.spiegel.de/panorama/daenemark-hochzeits-champagner-von-charles-und-diana-wird-versteigert](https://www.spiegel.de/panorama/daenemark-hochzeits-champagner-von-charles-und-diana-wird-versteigert-a-48071bca-557d-42a0-b69d-689113463d17#ref=rss)
+### versteigert
+
+* [https://www.spiegel.de/panorama/daenemark-hochzeits-champagner-von-charles-und-diana-wird-versteigert](https://www.spiegel.de/panorama/daenemark-hochzeits-champagner-von-charles-und-diana-wird-versteigert-a-48071bca-557d-42a0-b69d-689113463d17#ref=rss)
+* [https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert](https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert-a-180aedf5-98b8-47ac-9e25-57400b1403df#ref=rss)
+### extrem
+
+* [https://www.spiegel.de/panorama/daenemark-hochzeits-champagner-von-charles-und-diana-wird-versteigert](https://www.spiegel.de/panorama/daenemark-hochzeits-champagner-von-charles-und-diana-wird-versteigert-a-48071bca-557d-42a0-b69d-689113463d17#ref=rss)
+### auktion
+
+* [https://www.spiegel.de/panorama/daenemark-hochzeits-champagner-von-charles-und-diana-wird-versteigert](https://www.spiegel.de/panorama/daenemark-hochzeits-champagner-von-charles-und-diana-wird-versteigert-a-48071bca-557d-42a0-b69d-689113463d17#ref=rss)
+* [https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert](https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert-a-180aedf5-98b8-47ac-9e25-57400b1403df#ref=rss)
+### legt
+
+* [https://www.spiegel.de/ausland/ukraine-legt-usa-laut-selenskyj-aktualisierten-friedensplan-vor](https://www.spiegel.de/ausland/ukraine-legt-usa-laut-selenskyj-aktualisierten-friedensplan-vor-a-097dfc37-a154-4c14-9db0-dcdaf83ba8b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pflegeversicherung-kritik-an-unkonkreten-vorschlaegen-der-pflegekommission](https://www.spiegel.de/politik/deutschland/pflegeversicherung-kritik-an-unkonkreten-vorschlaegen-der-pflegekommission-a-7b8b3703-30bd-4001-a1dd-303bd072a5a9#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/ukraine-legt-usa-laut-selenskyj-aktualisierten-friedensplan-vor](https://www.spiegel.de/ausland/ukraine-legt-usa-laut-selenskyj-aktualisierten-friedensplan-vor-a-097dfc37-a154-4c14-9db0-dcdaf83ba8b8#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen](https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen-a-5858fbda-5192-4e9d-a499-53dc929f3a2b#ref=rss)
+### friedensplan
+
+* [https://www.spiegel.de/ausland/ukraine-legt-usa-laut-selenskyj-aktualisierten-friedensplan-vor](https://www.spiegel.de/ausland/ukraine-legt-usa-laut-selenskyj-aktualisierten-friedensplan-vor-a-097dfc37-a154-4c14-9db0-dcdaf83ba8b8#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ukraine-legt-usa-laut-selenskyj-aktualisierten-friedensplan-vor](https://www.spiegel.de/ausland/ukraine-legt-usa-laut-selenskyj-aktualisierten-friedensplan-vor-a-097dfc37-a154-4c14-9db0-dcdaf83ba8b8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/polen-russischer-archaeologe-wegen-mutmasslicher-ausgrabungen-festgenommen](https://www.spiegel.de/panorama/justiz/polen-russischer-archaeologe-wegen-mutmasslicher-ausgrabungen-festgenommen-a-8c1e14a6-ee98-4dc5-9c41-7570c4146b37#ref=rss)
+### erste
+
+* [https://www.spiegel.de/politik/deutschland/pflegeversicherung-kritik-an-unkonkreten-vorschlaegen-der-pflegekommission](https://www.spiegel.de/politik/deutschland/pflegeversicherung-kritik-an-unkonkreten-vorschlaegen-der-pflegekommission-a-7b8b3703-30bd-4001-a1dd-303bd072a5a9#ref=rss)
+* [https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert](https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert-a-180aedf5-98b8-47ac-9e25-57400b1403df#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen](https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen-a-5858fbda-5192-4e9d-a499-53dc929f3a2b#ref=rss)
+### italien
+
+* [https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen](https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen-a-5858fbda-5192-4e9d-a499-53dc929f3a2b#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen](https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen-a-5858fbda-5192-4e9d-a499-53dc929f3a2b#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen](https://www.spiegel.de/ausland/usa-kann-es-donald-trump-gelingen-oesterreich-italien-polen-und-ungarn-aus-der-eu-zu-loesen-a-5858fbda-5192-4e9d-a499-53dc929f3a2b#ref=rss)
+### parlament
+
+* [https://www.spiegel.de/politik/deutschland/verbrenner-aus-eu-kommission-will-verbot-offenbar-aufweichen](https://www.spiegel.de/politik/deutschland/verbrenner-aus-eu-kommission-will-verbot-offenbar-aufweichen-a-a267d315-8e9e-4974-ad4d-cf8444aa5d69#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-migrationspolitik-noem-im-livestream-vor-dem-kongress](https://www.spiegel.de/ausland/donald-trumps-migrationspolitik-noem-im-livestream-vor-dem-kongress-a-6b23922e-1f13-4687-9634-8c59e10512df#ref=rss)
+### puky
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kinderfahrradhersteller-puky-sucht-kaeufer](https://www.spiegel.de/wirtschaft/unternehmen/kinderfahrradhersteller-puky-sucht-kaeufer-a-b2f39524-4217-44b3-b6e5-efed91444039#ref=rss)
+### erfolgreiche
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kinderfahrradhersteller-puky-sucht-kaeufer](https://www.spiegel.de/wirtschaft/unternehmen/kinderfahrradhersteller-puky-sucht-kaeufer-a-b2f39524-4217-44b3-b6e5-efed91444039#ref=rss)
+* [https://www.spiegel.de/wirtschaft/momfluencerin-setzte-kaninchen-aus-pampers-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/momfluencerin-setzte-kaninchen-aus-pampers-beendet-zusammenarbeit-a-00242b25-83c4-4357-9cfa-62f959b17a4e#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kinderfahrradhersteller-puky-sucht-kaeufer](https://www.spiegel.de/wirtschaft/unternehmen/kinderfahrradhersteller-puky-sucht-kaeufer-a-b2f39524-4217-44b3-b6e5-efed91444039#ref=rss)
+* [https://www.spiegel.de/wirtschaft/momfluencerin-setzte-kaninchen-aus-pampers-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/momfluencerin-setzte-kaninchen-aus-pampers-beendet-zusammenarbeit-a-00242b25-83c4-4357-9cfa-62f959b17a4e#ref=rss)
+### prinzessin
+
+* [https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern](https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern-a-b199d26c-3879-4046-840f-dbfc93417e78#ref=rss)
+### sofia
+
+* [https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern](https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern-a-b199d26c-3879-4046-840f-dbfc93417e78#ref=rss)
+### epstein
+
+* [https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern](https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern-a-b199d26c-3879-4046-840f-dbfc93417e78#ref=rss)
+### fall
+
+* [https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern](https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern-a-b199d26c-3879-4046-840f-dbfc93417e78#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-setzt-sich-in-die-ukraine-ab](https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-setzt-sich-in-die-ukraine-ab-a-1bce0326-7c63-49e2-b4b1-13a31348f042#ref=rss)
+### sexualstraftäter
+
+* [https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern](https://www.spiegel.de/panorama/schweden-prinzessin-sofia-hellqvist-bleibt-nobelpreis-verleihung-wegen-verbindungen-zu-jeffrey-epstein-fern-a-b199d26c-3879-4046-840f-dbfc93417e78#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brandenburg-havel-mutmasslicher-kindesmissbrauch-in-massregelvollzug-verdaechtiger-ist-sexualstraftaeter](https://www.spiegel.de/panorama/justiz/brandenburg-havel-mutmasslicher-kindesmissbrauch-in-massregelvollzug-verdaechtiger-ist-sexualstraftaeter-a-8ebdd6f9-f446-4040-ac8d-8cf583ba8cee#ref=rss)
+### bärbel
+
+* [https://www.spiegel.de/politik/deutschland/spd-jetzt-wird-ihre-doppelrolle-fuer-baerbel-bas-zum-problem](https://www.spiegel.de/politik/deutschland/spd-jetzt-wird-ihre-doppelrolle-fuer-baerbel-bas-zum-problem-a-8136d6fa-38dc-4037-8648-5c1a95f21bdd#ref=rss)
+### bas
+
+* [https://www.spiegel.de/politik/deutschland/spd-jetzt-wird-ihre-doppelrolle-fuer-baerbel-bas-zum-problem](https://www.spiegel.de/politik/deutschland/spd-jetzt-wird-ihre-doppelrolle-fuer-baerbel-bas-zum-problem-a-8136d6fa-38dc-4037-8648-5c1a95f21bdd#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/spd-jetzt-wird-ihre-doppelrolle-fuer-baerbel-bas-zum-problem](https://www.spiegel.de/politik/deutschland/spd-jetzt-wird-ihre-doppelrolle-fuer-baerbel-bas-zum-problem-a-8136d6fa-38dc-4037-8648-5c1a95f21bdd#ref=rss)
+### mutmaßlicher
+
+* [https://www.spiegel.de/panorama/justiz/brandenburg-havel-mutmasslicher-kindesmissbrauch-in-massregelvollzug-verdaechtiger-ist-sexualstraftaeter](https://www.spiegel.de/panorama/justiz/brandenburg-havel-mutmasslicher-kindesmissbrauch-in-massregelvollzug-verdaechtiger-ist-sexualstraftaeter-a-8ebdd6f9-f446-4040-ac8d-8cf583ba8cee#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/polen-russischer-archaeologe-wegen-mutmasslicher-ausgrabungen-festgenommen](https://www.spiegel.de/panorama/justiz/polen-russischer-archaeologe-wegen-mutmasslicher-ausgrabungen-festgenommen-a-8c1e14a6-ee98-4dc5-9c41-7570c4146b37#ref=rss)
+### star
+
+* [https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert](https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert-a-180aedf5-98b8-47ac-9e25-57400b1403df#ref=rss)
+### fast
+
+* [https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert](https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert-a-180aedf5-98b8-47ac-9e25-57400b1403df#ref=rss)
+### welt
+
+* [https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert](https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert-a-180aedf5-98b8-47ac-9e25-57400b1403df#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2026-spiegel-ranking-das-sind-die-besten-dartsspieler-und-spielerinnen-der-welt](https://www.spiegel.de/sport/darts-wm-2026-spiegel-ranking-das-sind-die-besten-dartsspieler-und-spielerinnen-der-welt-a-a4d3ddf8-5a67-4390-98e3-635950a61ed4#ref=rss)
+### luke
+
+* [https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert](https://www.spiegel.de/kultur/kino/star-wars-erstes-gemaelde-der-skywalker-saga-fuer-rekordpreis-versteigert-a-180aedf5-98b8-47ac-9e25-57400b1403df#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2026-spiegel-ranking-das-sind-die-besten-dartsspieler-und-spielerinnen-der-welt](https://www.spiegel.de/sport/darts-wm-2026-spiegel-ranking-das-sind-die-besten-dartsspieler-und-spielerinnen-der-welt-a-a4d3ddf8-5a67-4390-98e3-635950a61ed4#ref=rss)
+### israels
+
+* [https://www.spiegel.de/kultur/wegen-moeglicher-teilnahme-israels-auch-island-boykottiert-den-esc-2026-in-wien](https://www.spiegel.de/kultur/wegen-moeglicher-teilnahme-israels-auch-island-boykottiert-den-esc-2026-in-wien-a-fc831df1-de7a-41fa-8025-7e99628cfa08#ref=rss)
+### esc
+
+* [https://www.spiegel.de/kultur/wegen-moeglicher-teilnahme-israels-auch-island-boykottiert-den-esc-2026-in-wien](https://www.spiegel.de/kultur/wegen-moeglicher-teilnahme-israels-auch-island-boykottiert-den-esc-2026-in-wien-a-fc831df1-de7a-41fa-8025-7e99628cfa08#ref=rss)
+### wien
+
+* [https://www.spiegel.de/kultur/wegen-moeglicher-teilnahme-israels-auch-island-boykottiert-den-esc-2026-in-wien](https://www.spiegel.de/kultur/wegen-moeglicher-teilnahme-israels-auch-island-boykottiert-den-esc-2026-in-wien-a-fc831df1-de7a-41fa-8025-7e99628cfa08#ref=rss)
+### unter
+
+* [https://www.spiegel.de/kultur/wegen-moeglicher-teilnahme-israels-auch-island-boykottiert-den-esc-2026-in-wien](https://www.spiegel.de/kultur/wegen-moeglicher-teilnahme-israels-auch-island-boykottiert-den-esc-2026-in-wien-a-fc831df1-de7a-41fa-8025-7e99628cfa08#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trumps-migrationspolitik-noem-im-livestream-vor-dem-kongress](https://www.spiegel.de/ausland/donald-trumps-migrationspolitik-noem-im-livestream-vor-dem-kongress-a-6b23922e-1f13-4687-9634-8c59e10512df#ref=rss)
+### kristi
+
+* [https://www.spiegel.de/ausland/donald-trumps-migrationspolitik-noem-im-livestream-vor-dem-kongress](https://www.spiegel.de/ausland/donald-trumps-migrationspolitik-noem-im-livestream-vor-dem-kongress-a-6b23922e-1f13-4687-9634-8c59e10512df#ref=rss)
+### noem
+
+* [https://www.spiegel.de/ausland/donald-trumps-migrationspolitik-noem-im-livestream-vor-dem-kongress](https://www.spiegel.de/ausland/donald-trumps-migrationspolitik-noem-im-livestream-vor-dem-kongress-a-6b23922e-1f13-4687-9634-8c59e10512df#ref=rss)
+### livestream
+
+* [https://www.spiegel.de/ausland/donald-trumps-migrationspolitik-noem-im-livestream-vor-dem-kongress](https://www.spiegel.de/ausland/donald-trumps-migrationspolitik-noem-im-livestream-vor-dem-kongress-a-6b23922e-1f13-4687-9634-8c59e10512df#ref=rss)
+### besten
+
+* [https://www.spiegel.de/sport/darts-wm-2026-spiegel-ranking-das-sind-die-besten-dartsspieler-und-spielerinnen-der-welt](https://www.spiegel.de/sport/darts-wm-2026-spiegel-ranking-das-sind-die-besten-dartsspieler-und-spielerinnen-der-welt-a-a4d3ddf8-5a67-4390-98e3-635950a61ed4#ref=rss)
+### kaninchen
+
+* [https://www.spiegel.de/wirtschaft/momfluencerin-setzte-kaninchen-aus-pampers-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/momfluencerin-setzte-kaninchen-aus-pampers-beendet-zusammenarbeit-a-00242b25-83c4-4357-9cfa-62f959b17a4e#ref=rss)
+### pampers
+
+* [https://www.spiegel.de/wirtschaft/momfluencerin-setzte-kaninchen-aus-pampers-beendet-zusammenarbeit](https://www.spiegel.de/wirtschaft/momfluencerin-setzte-kaninchen-aus-pampers-beendet-zusammenarbeit-a-00242b25-83c4-4357-9cfa-62f959b17a4e#ref=rss)
+### weihnachten
+
+* [https://www.spiegel.de/psychologie/streit-an-weihnachten-so-vermeiden-sie-politik-streits-mit-der-familie-coaching](https://www.spiegel.de/psychologie/streit-an-weihnachten-so-vermeiden-sie-politik-streits-mit-der-familie-coaching-a-2bd04888-c8b4-41ee-8c4f-bcaf762de13f#ref=rss)
+### familie
+
+* [https://www.spiegel.de/psychologie/streit-an-weihnachten-so-vermeiden-sie-politik-streits-mit-der-familie-coaching](https://www.spiegel.de/psychologie/streit-an-weihnachten-so-vermeiden-sie-politik-streits-mit-der-familie-coaching-a-2bd04888-c8b4-41ee-8c4f-bcaf762de13f#ref=rss)
+### georgien
+
+* [https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-georgien-fuer-polizeigewalt-bei-demonstration-verurteilt](https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-georgien-fuer-polizeigewalt-bei-demonstration-verurteilt-a-2f752d95-7799-4e7e-95eb-44efa248baf2#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/kultur/taylor-swift-soll-fuenf-lieblingssongs-von-taylor-swift-nennen-und-schafft-nur-zwei](https://www.spiegel.de/kultur/taylor-swift-soll-fuenf-lieblingssongs-von-taylor-swift-nennen-und-schafft-nur-zwei-a-c9b05091-6f7e-4d99-9f72-ddc49b7d8fe4#ref=rss)
 
