@@ -4,325 +4,276 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### euro
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-immobilienpleitier-zu-15-monaten-haft-auf-bewaehrung-verurteilt](https://www.spiegel.de/wirtschaft/rene-benko-immobilienpleitier-zu-15-monaten-haft-auf-bewaehrung-verurteilt-a-525ac9d0-a200-4f29-9715-ea93c9036adc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/weihnachtsmarkt-preise-geraspelte-kartoffeln-in-billigem-oel-fuer-20-euro](https://www.spiegel.de/wirtschaft/service/weihnachtsmarkt-preise-geraspelte-kartoffeln-in-billigem-oel-fuer-20-euro-a-ce2cd8a8-f523-4bc7-a7be-29339dcf06ff#ref=rss)
-### lieferkettengesetz
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-### menschenrechte
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-* [https://www.spiegel.de/ausland/social-media-verbot-in-australien-vielleicht-bringt-es-die-leute-dazu-mehr-nach-draussen-zu-gehen-wohl-eher-nicht](https://www.spiegel.de/ausland/social-media-verbot-in-australien-vielleicht-bringt-es-die-leute-dazu-mehr-nach-draussen-zu-gehen-wohl-eher-nicht-a-1e6f83f5-228e-42d1-b87f-4d0d479eafbf#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/sophie-kinsella-schnaeppchenjaegerin-autorin-im-alter-von-55-jahren-gestorben](https://www.spiegel.de/kultur/literatur/sophie-kinsella-schnaeppchenjaegerin-autorin-im-alter-von-55-jahren-gestorben-a-abd81a5e-1c5d-4223-8d25-83cdef893cc2#ref=rss)
-### merz
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-donald-trump](https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-donald-trump-a-534efb30-c1bb-4844-89e0-d0c91e53d6e9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-versucht-koalitionsstreit-ueber-reform-herunterzukochen](https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-versucht-koalitionsstreit-ueber-reform-herunterzukochen-a-21fb9ad3-df8b-48a6-8227-6e97bf6e890c#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/kultur/musik/polnische-komponistin-hania-rani-von-ruhigen-spotify-playlisten-zu-sinfonischen-werken-ueber-den-krieg](https://www.spiegel.de/kultur/musik/polnische-komponistin-hania-rani-von-ruhigen-spotify-playlisten-zu-sinfonischen-werken-ueber-den-krieg-a-02374487-e608-40c7-8c15-1dd47916fefd#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-polen-plant-weitere-mig-29-lieferungen-an-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-polen-plant-weitere-mig-29-lieferungen-an-kyjiw-a-724b88b6-a271-46a2-8ef1-d5db955939c2#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-erklaert-sich-bereit-zu-neuwahlen-wenn-die-usa-fuer-sicherheit-sorgen](https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-erklaert-sich-bereit-zu-neuwahlen-wenn-die-usa-fuer-sicherheit-sorgen-a-f49eb746-dd69-48dc-be57-255afc029051#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-versucht-koalitionsstreit-ueber-reform-herunterzukochen](https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-versucht-koalitionsstreit-ueber-reform-herunterzukochen-a-21fb9ad3-df8b-48a6-8227-6e97bf6e890c#ref=rss)
-### freut
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-* [https://www.spiegel.de/panorama/hunde-guinness-weltrekord-ozzy-hat-mit-fast-20cm-laenge-die-laengste-hundezunge-der-welt](https://www.spiegel.de/panorama/hunde-guinness-weltrekord-ozzy-hat-mit-fast-20cm-laenge-die-laengste-hundezunge-der-welt-a-57bf3b17-0995-4a70-9291-465c693a888f#ref=rss)
-### grundsteuer
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mangelde-kooperation-von-elon-musk-und-x-grundsteuerreform-verfassungskonform-wertschaetzung-italienischer-kochkunst](https://www.spiegel.de/politik/deutschland/news-des-tages-mangelde-kooperation-von-elon-musk-und-x-grundsteuerreform-verfassungskonform-wertschaetzung-italienischer-kochkunst-a-1e06c1df-b198-48c2-bc91-a99403a1e6bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grundsteuer-was-die-entscheidung-fuer-immobilienbesitzer-bedeutet](https://www.spiegel.de/wirtschaft/grundsteuer-was-die-entscheidung-fuer-immobilienbesitzer-bedeutet-a-6a036fb7-21de-4865-8956-277f5eca98a6#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/mensch/neandertaler-menschen-entfachten-feuer-laut-studie-viel-frueher-als-gedacht](https://www.spiegel.de/wissenschaft/mensch/neandertaler-menschen-entfachten-feuer-laut-studie-viel-frueher-als-gedacht-a-8bafda23-c798-41a8-bc9d-6ca8f398a415#ref=rss)
-* [https://www.spiegel.de/kultur/kino/jacob-elordi-war-so-vorlaut-dass-seine-lehrerin-ihn-in-ein-musical-steckte](https://www.spiegel.de/kultur/kino/jacob-elordi-war-so-vorlaut-dass-seine-lehrerin-ihn-in-ein-musical-steckte-a-b503a16e-a8df-4725-84fd-f1511b4e9fb0#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wissenschaft/mensch/neandertaler-menschen-entfachten-feuer-laut-studie-viel-frueher-als-gedacht](https://www.spiegel.de/wissenschaft/mensch/neandertaler-menschen-entfachten-feuer-laut-studie-viel-frueher-als-gedacht-a-8bafda23-c798-41a8-bc9d-6ca8f398a415#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/sophie-kinsella-schnaeppchenjaegerin-autorin-im-alter-von-55-jahren-gestorben](https://www.spiegel.de/kultur/literatur/sophie-kinsella-schnaeppchenjaegerin-autorin-im-alter-von-55-jahren-gestorben-a-abd81a5e-1c5d-4223-8d25-83cdef893cc2#ref=rss)
-### reiche
-
-* [https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-versucht-koalitionsstreit-ueber-reform-herunterzukochen](https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-versucht-koalitionsstreit-ueber-reform-herunterzukochen-a-21fb9ad3-df8b-48a6-8227-6e97bf6e890c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-wirtschaftsministerium-mauert-bei-fragen-nach-tirol-gipfel](https://www.spiegel.de/politik/deutschland/katherina-reiche-wirtschaftsministerium-mauert-bei-fragen-nach-tirol-gipfel-a-2b7b1b4c-80a2-40eb-b180-4eb8ac7fdf61#ref=rss)
-### hania
-
-* [https://www.spiegel.de/kultur/musik/polnische-komponistin-hania-rani-von-ruhigen-spotify-playlisten-zu-sinfonischen-werken-ueber-den-krieg](https://www.spiegel.de/kultur/musik/polnische-komponistin-hania-rani-von-ruhigen-spotify-playlisten-zu-sinfonischen-werken-ueber-den-krieg-a-02374487-e608-40c7-8c15-1dd47916fefd#ref=rss)
-### rani
-
-* [https://www.spiegel.de/kultur/musik/polnische-komponistin-hania-rani-von-ruhigen-spotify-playlisten-zu-sinfonischen-werken-ueber-den-krieg](https://www.spiegel.de/kultur/musik/polnische-komponistin-hania-rani-von-ruhigen-spotify-playlisten-zu-sinfonischen-werken-ueber-den-krieg-a-02374487-e608-40c7-8c15-1dd47916fefd#ref=rss)
-### programm
-
-* [https://www.spiegel.de/wissenschaft/mensch/lufthansa-kuendigt-programm-fuer-psychisch-angeschlagene-piloten](https://www.spiegel.de/wissenschaft/mensch/lufthansa-kuendigt-programm-fuer-psychisch-angeschlagene-piloten-a-aa8fd770-9b60-434c-acd7-bbc8845d73e6#ref=rss)
-### piloten
-
-* [https://www.spiegel.de/wissenschaft/mensch/lufthansa-kuendigt-programm-fuer-psychisch-angeschlagene-piloten](https://www.spiegel.de/wissenschaft/mensch/lufthansa-kuendigt-programm-fuer-psychisch-angeschlagene-piloten-a-aa8fd770-9b60-434c-acd7-bbc8845d73e6#ref=rss)
-### bisher
-
-* [https://www.spiegel.de/wissenschaft/mensch/lufthansa-kuendigt-programm-fuer-psychisch-angeschlagene-piloten](https://www.spiegel.de/wissenschaft/mensch/lufthansa-kuendigt-programm-fuer-psychisch-angeschlagene-piloten-a-aa8fd770-9b60-434c-acd7-bbc8845d73e6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/neandertaler-menschen-entfachten-feuer-laut-studie-viel-frueher-als-gedacht](https://www.spiegel.de/wissenschaft/mensch/neandertaler-menschen-entfachten-feuer-laut-studie-viel-frueher-als-gedacht-a-8bafda23-c798-41a8-bc9d-6ca8f398a415#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-### profit
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-### verpflichten
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-### verantwortung
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-### umweltschutz
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-### übernehmen
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-### weicht
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-### profitiert
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-### änderungen
-
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-ab3220b9-c292-485d-8a50-f925c42190a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte](https://www.spiegel.de/wirtschaft/lieferkettengesetz-der-eu-wirtschaft-und-profit-gegen-menschenrechte-a-50ffb1ec-1654-43da-bfbf-b013d14d246a#ref=rss)
-### heinrich
-
-* [https://www.spiegel.de/panorama/reichsbuergerprozess-in-frankfurt-am-main-heinrich-xiii-prinz-reuss-will-kein-terrorist-gewesen-sein](https://www.spiegel.de/panorama/reichsbuergerprozess-in-frankfurt-am-main-heinrich-xiii-prinz-reuss-will-kein-terrorist-gewesen-sein-a-225b0de0-d997-47d9-b4cc-c985736d1af0#ref=rss)
-### xiii
-
-* [https://www.spiegel.de/panorama/reichsbuergerprozess-in-frankfurt-am-main-heinrich-xiii-prinz-reuss-will-kein-terrorist-gewesen-sein](https://www.spiegel.de/panorama/reichsbuergerprozess-in-frankfurt-am-main-heinrich-xiii-prinz-reuss-will-kein-terrorist-gewesen-sein-a-225b0de0-d997-47d9-b4cc-c985736d1af0#ref=rss)
-### prinz
-
-* [https://www.spiegel.de/panorama/reichsbuergerprozess-in-frankfurt-am-main-heinrich-xiii-prinz-reuss-will-kein-terrorist-gewesen-sein](https://www.spiegel.de/panorama/reichsbuergerprozess-in-frankfurt-am-main-heinrich-xiii-prinz-reuss-will-kein-terrorist-gewesen-sein-a-225b0de0-d997-47d9-b4cc-c985736d1af0#ref=rss)
-### reuß
-
-* [https://www.spiegel.de/panorama/reichsbuergerprozess-in-frankfurt-am-main-heinrich-xiii-prinz-reuss-will-kein-terrorist-gewesen-sein](https://www.spiegel.de/panorama/reichsbuergerprozess-in-frankfurt-am-main-heinrich-xiii-prinz-reuss-will-kein-terrorist-gewesen-sein-a-225b0de0-d997-47d9-b4cc-c985736d1af0#ref=rss)
-### terrorist
-
-* [https://www.spiegel.de/panorama/reichsbuergerprozess-in-frankfurt-am-main-heinrich-xiii-prinz-reuss-will-kein-terrorist-gewesen-sein](https://www.spiegel.de/panorama/reichsbuergerprozess-in-frankfurt-am-main-heinrich-xiii-prinz-reuss-will-kein-terrorist-gewesen-sein-a-225b0de0-d997-47d9-b4cc-c985736d1af0#ref=rss)
-### grönländerinnen
-
-* [https://www.spiegel.de/ausland/daenemark-entschaedigt-groenlaenderinnen-fuer-spiralen-skandal](https://www.spiegel.de/ausland/daenemark-entschaedigt-groenlaenderinnen-fuer-spiralen-skandal-a-8201efab-5485-4f20-aaf6-418b764057be#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/daenemark-entschaedigt-groenlaenderinnen-fuer-spiralen-skandal](https://www.spiegel.de/ausland/daenemark-entschaedigt-groenlaenderinnen-fuer-spiralen-skandal-a-8201efab-5485-4f20-aaf6-418b764057be#ref=rss)
-* [https://www.spiegel.de/kultur/met-gala-beyonce-venus-williams-und-nicole-kidman-sitzen-im-festkomitee](https://www.spiegel.de/kultur/met-gala-beyonce-venus-williams-und-nicole-kidman-sitzen-im-festkomitee-a-c8229ee8-046e-417b-afd8-ae4d18b50a13#ref=rss)
-### rené
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-immobilienpleitier-zu-15-monaten-haft-auf-bewaehrung-verurteilt](https://www.spiegel.de/wirtschaft/rene-benko-immobilienpleitier-zu-15-monaten-haft-auf-bewaehrung-verurteilt-a-525ac9d0-a200-4f29-9715-ea93c9036adc#ref=rss)
-### benko
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-immobilienpleitier-zu-15-monaten-haft-auf-bewaehrung-verurteilt](https://www.spiegel.de/wirtschaft/rene-benko-immobilienpleitier-zu-15-monaten-haft-auf-bewaehrung-verurteilt-a-525ac9d0-a200-4f29-9715-ea93c9036adc#ref=rss)
-### urteil
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-immobilienpleitier-zu-15-monaten-haft-auf-bewaehrung-verurteilt](https://www.spiegel.de/wirtschaft/rene-benko-immobilienpleitier-zu-15-monaten-haft-auf-bewaehrung-verurteilt-a-525ac9d0-a200-4f29-9715-ea93c9036adc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mangelde-kooperation-von-elon-musk-und-x-grundsteuerreform-verfassungskonform-wertschaetzung-italienischer-kochkunst](https://www.spiegel.de/politik/deutschland/news-des-tages-mangelde-kooperation-von-elon-musk-und-x-grundsteuerreform-verfassungskonform-wertschaetzung-italienischer-kochkunst-a-1e06c1df-b198-48c2-bc91-a99403a1e6bc#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-donald-trump](https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-donald-trump-a-534efb30-c1bb-4844-89e0-d0c91e53d6e9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-polen-plant-weitere-mig-29-lieferungen-an-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-polen-plant-weitere-mig-29-lieferungen-an-kyjiw-a-724b88b6-a271-46a2-8ef1-d5db955939c2#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-donald-trump](https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-donald-trump-a-534efb30-c1bb-4844-89e0-d0c91e53d6e9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-versucht-koalitionsstreit-ueber-reform-herunterzukochen](https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-versucht-koalitionsstreit-ueber-reform-herunterzukochen-a-21fb9ad3-df8b-48a6-8227-6e97bf6e890c#ref=rss)
-### donald
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-donald-trump](https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-donald-trump-a-534efb30-c1bb-4844-89e0-d0c91e53d6e9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-erklaert-sich-bereit-zu-neuwahlen-wenn-die-usa-fuer-sicherheit-sorgen](https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-erklaert-sich-bereit-zu-neuwahlen-wenn-die-usa-fuer-sicherheit-sorgen-a-f49eb746-dd69-48dc-be57-255afc029051#ref=rss)
-### trump
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-donald-trump](https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-donald-trump-a-534efb30-c1bb-4844-89e0-d0c91e53d6e9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-erklaert-sich-bereit-zu-neuwahlen-wenn-die-usa-fuer-sicherheit-sorgen](https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-erklaert-sich-bereit-zu-neuwahlen-wenn-die-usa-fuer-sicherheit-sorgen-a-f49eb746-dd69-48dc-be57-255afc029051#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-donald-trump](https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-emmanuel-macron-und-keir-starmer-telefonieren-mit-donald-trump-a-534efb30-c1bb-4844-89e0-d0c91e53d6e9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grundsteuer-was-die-entscheidung-fuer-immobilienbesitzer-bedeutet](https://www.spiegel.de/wirtschaft/grundsteuer-was-die-entscheidung-fuer-immobilienbesitzer-bedeutet-a-6a036fb7-21de-4865-8956-277f5eca98a6#ref=rss)
-### elon
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-bevoelkerungszahl-sinkt-moeglicherweise-auf-weniger-als-75-millionen](https://www.spiegel.de/panorama/gesellschaft/deutschland-bevoelkerungszahl-sinkt-moeglicherweise-auf-weniger-als-75-millionen-a-998f52d5-0957-450c-b8a9-9b4f782ee524#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kinderrechte-index-vom-deutschen-kinderhilfswerk-im-land-der-ungleichen-kindheiten](https://www.spiegel.de/panorama/bildung/kinderrechte-index-vom-deutschen-kinderhilfswerk-im-land-der-ungleichen-kindheiten-a-0cd1309a-59db-4b27-bdbe-4ebbf8ec6a50#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-ifw-und-ifo-prognostizieren-mini-wachstum-reformstau-als-bremse](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-ifw-und-ifo-prognostizieren-mini-wachstum-reformstau-als-bremse-a-187a9c60-8507-4f79-a949-11bba3ffeb55#ref=rss)
+* [https://www.spiegel.de/wissenschaft/woelfe-in-deutschland-und-die-geplante-aenderung-im-bundesjagdgesetz-die-falsche-strategie](https://www.spiegel.de/wissenschaft/woelfe-in-deutschland-und-die-geplante-aenderung-im-bundesjagdgesetz-die-falsche-strategie-a-c5709b19-20f2-4736-8d71-2a9549245279#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mangelde-kooperation-von-elon-musk-und-x-grundsteuerreform-verfassungskonform-wertschaetzung-italienischer-kochkunst](https://www.spiegel.de/politik/deutschland/news-des-tages-mangelde-kooperation-von-elon-musk-und-x-grundsteuerreform-verfassungskonform-wertschaetzung-italienischer-kochkunst-a-1e06c1df-b198-48c2-bc91-a99403a1e6bc#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mangelde-kooperation-von-elon-musk-und-x-grundsteuerreform-verfassungskonform-wertschaetzung-italienischer-kochkunst](https://www.spiegel.de/politik/deutschland/news-des-tages-mangelde-kooperation-von-elon-musk-und-x-grundsteuerreform-verfassungskonform-wertschaetzung-italienischer-kochkunst-a-1e06c1df-b198-48c2-bc91-a99403a1e6bc#ref=rss)
-* [https://www.spiegel.de/panorama/hunde-guinness-weltrekord-ozzy-hat-mit-fast-20cm-laenge-die-laengste-hundezunge-der-welt](https://www.spiegel.de/panorama/hunde-guinness-weltrekord-ozzy-hat-mit-fast-20cm-laenge-die-laengste-hundezunge-der-welt-a-57bf3b17-0995-4a70-9291-465c693a888f#ref=rss)
-### immobilienbesitzer
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-mangelde-kooperation-von-elon-musk-und-x-grundsteuerreform-verfassungskonform-wertschaetzung-italienischer-kochkunst](https://www.spiegel.de/politik/deutschland/news-des-tages-mangelde-kooperation-von-elon-musk-und-x-grundsteuerreform-verfassungskonform-wertschaetzung-italienischer-kochkunst-a-1e06c1df-b198-48c2-bc91-a99403a1e6bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grundsteuer-was-die-entscheidung-fuer-immobilienbesitzer-bedeutet](https://www.spiegel.de/wirtschaft/grundsteuer-was-die-entscheidung-fuer-immobilienbesitzer-bedeutet-a-6a036fb7-21de-4865-8956-277f5eca98a6#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wirtschaft/grundsteuer-was-die-entscheidung-fuer-immobilienbesitzer-bedeutet](https://www.spiegel.de/wirtschaft/grundsteuer-was-die-entscheidung-fuer-immobilienbesitzer-bedeutet-a-6a036fb7-21de-4865-8956-277f5eca98a6#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/sophie-kinsella-schnaeppchenjaegerin-autorin-im-alter-von-55-jahren-gestorben](https://www.spiegel.de/kultur/literatur/sophie-kinsella-schnaeppchenjaegerin-autorin-im-alter-von-55-jahren-gestorben-a-abd81a5e-1c5d-4223-8d25-83cdef893cc2#ref=rss)
-### sehr
-
-* [https://www.spiegel.de/wirtschaft/grundsteuer-was-die-entscheidung-fuer-immobilienbesitzer-bedeutet](https://www.spiegel.de/wirtschaft/grundsteuer-was-die-entscheidung-fuer-immobilienbesitzer-bedeutet-a-6a036fb7-21de-4865-8956-277f5eca98a6#ref=rss)
-* [https://www.spiegel.de/kultur/katherine-may-autorin-ueber-den-winter-die-dunkle-jahreszeit-den-abschied-vom-licht-und-wie-man-durch-die-dunkelsten-tage-kommt](https://www.spiegel.de/kultur/katherine-may-autorin-ueber-den-winter-die-dunkle-jahreszeit-den-abschied-vom-licht-und-wie-man-durch-die-dunkelsten-tage-kommt-a-9d22c977-b449-4c82-9c7a-12e9f01ba652#ref=rss)
-### feuer
-
-* [https://www.spiegel.de/wissenschaft/mensch/neandertaler-menschen-entfachten-feuer-laut-studie-viel-frueher-als-gedacht](https://www.spiegel.de/wissenschaft/mensch/neandertaler-menschen-entfachten-feuer-laut-studie-viel-frueher-als-gedacht-a-8bafda23-c798-41a8-bc9d-6ca8f398a415#ref=rss)
-### erste
-
-* [https://www.spiegel.de/wissenschaft/mensch/neandertaler-menschen-entfachten-feuer-laut-studie-viel-frueher-als-gedacht](https://www.spiegel.de/wissenschaft/mensch/neandertaler-menschen-entfachten-feuer-laut-studie-viel-frueher-als-gedacht-a-8bafda23-c798-41a8-bc9d-6ca8f398a415#ref=rss)
-* [https://www.spiegel.de/kultur/kino/jacob-elordi-war-so-vorlaut-dass-seine-lehrerin-ihn-in-ein-musical-steckte](https://www.spiegel.de/kultur/kino/jacob-elordi-war-so-vorlaut-dass-seine-lehrerin-ihn-in-ein-musical-steckte-a-b503a16e-a8df-4725-84fd-f1511b4e9fb0#ref=rss)
-### christina
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-hauptverdaechtiger-schildert-entfuehrungsplanung-im-prozess](https://www.spiegel.de/panorama/justiz/christina-block-hauptverdaechtiger-schildert-entfuehrungsplanung-im-prozess-a-91499211-3096-4c00-9d07-d01314a549b8#ref=rss)
-### schildert
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-hauptverdaechtiger-schildert-entfuehrungsplanung-im-prozess](https://www.spiegel.de/panorama/justiz/christina-block-hauptverdaechtiger-schildert-entfuehrungsplanung-im-prozess-a-91499211-3096-4c00-9d07-d01314a549b8#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/digitaler-personalausweis-ab-2027-sollen-sich-buerger-per-smartphone-ausweisen-koennen](https://www.spiegel.de/netzwelt/apps/digitaler-personalausweis-ab-2027-sollen-sich-buerger-per-smartphone-ausweisen-koennen-a-424bd598-7244-42aa-8c2f-31f7716517cf#ref=rss)
+* [https://www.spiegel.de/start/medizinstudienplatz-ergattern-was-aendert-sich-beim-neuen-medizinertest-startklar-newsletter](https://www.spiegel.de/start/medizinstudienplatz-ergattern-was-aendert-sich-beim-neuen-medizinertest-startklar-newsletter-a-5d94bcf1-dfa1-43fc-9858-1318b52ef102#ref=rss)
+* [https://www.spiegel.de/kultur/unesco-entscheidung-das-schweizer-jodeln-gehoert-nun-zum-kulturerbe-der-menschheit](https://www.spiegel.de/kultur/unesco-entscheidung-das-schweizer-jodeln-gehoert-nun-zum-kulturerbe-der-menschheit-a-fb71c6f3-34af-4b8f-a0cf-52c84cf56bc4#ref=rss)
+* [https://www.spiegel.de/panorama/graz-aussage-im-schaedelbohr-fall-wirft-neue-fragen-auf-gab-es-weitere-unbefugte-im-op](https://www.spiegel.de/panorama/graz-aussage-im-schaedelbohr-fall-wirft-neue-fragen-auf-gab-es-weitere-unbefugte-im-op-a-3165c842-f933-40bf-858a-ab798aedf9ea#ref=rss)
 ### australien
 
-* [https://www.spiegel.de/ausland/social-media-verbot-in-australien-vielleicht-bringt-es-die-leute-dazu-mehr-nach-draussen-zu-gehen-wohl-eher-nicht](https://www.spiegel.de/ausland/social-media-verbot-in-australien-vielleicht-bringt-es-die-leute-dazu-mehr-nach-draussen-zu-gehen-wohl-eher-nicht-a-1e6f83f5-228e-42d1-b87f-4d0d479eafbf#ref=rss)
-### dazu
+* [https://www.spiegel.de/ausland/australien-erste-klima-fluechtlinge-aus-sinkendem-inselstaat-tuvalu-gelandet](https://www.spiegel.de/ausland/australien-erste-klima-fluechtlinge-aus-sinkendem-inselstaat-tuvalu-gelandet-a-5667cdb9-c50a-423c-9ba5-1d666f744e53#ref=rss)
+* [https://www.spiegel.de/panorama/social-media-verbot-in-australien-jugendliche-prahlen-damit-online-zu-bleiben](https://www.spiegel.de/panorama/social-media-verbot-in-australien-jugendliche-prahlen-damit-online-zu-bleiben-a-0a679aab-791f-42da-ab31-11753b3591bd#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/ausland/social-media-verbot-in-australien-vielleicht-bringt-es-die-leute-dazu-mehr-nach-draussen-zu-gehen-wohl-eher-nicht](https://www.spiegel.de/ausland/social-media-verbot-in-australien-vielleicht-bringt-es-die-leute-dazu-mehr-nach-draussen-zu-gehen-wohl-eher-nicht-a-1e6f83f5-228e-42d1-b87f-4d0d479eafbf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-wirtschaftsministerium-mauert-bei-fragen-nach-tirol-gipfel](https://www.spiegel.de/politik/deutschland/katherina-reiche-wirtschaftsministerium-mauert-bei-fragen-nach-tirol-gipfel-a-2b7b1b4c-80a2-40eb-b180-4eb8ac7fdf61#ref=rss)
-### gilt
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-bevoelkerungszahl-sinkt-moeglicherweise-auf-weniger-als-75-millionen](https://www.spiegel.de/panorama/gesellschaft/deutschland-bevoelkerungszahl-sinkt-moeglicherweise-auf-weniger-als-75-millionen-a-998f52d5-0957-450c-b8a9-9b4f782ee524#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kinderrechte-index-vom-deutschen-kinderhilfswerk-im-land-der-ungleichen-kindheiten](https://www.spiegel.de/panorama/bildung/kinderrechte-index-vom-deutschen-kinderhilfswerk-im-land-der-ungleichen-kindheiten-a-0cd1309a-59db-4b27-bdbe-4ebbf8ec6a50#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet](https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet-a-bd59b7db-1783-4044-80e7-55bd7668f069#ref=rss)
+### allem
 
-* [https://www.spiegel.de/ausland/social-media-verbot-in-australien-vielleicht-bringt-es-die-leute-dazu-mehr-nach-draussen-zu-gehen-wohl-eher-nicht](https://www.spiegel.de/ausland/social-media-verbot-in-australien-vielleicht-bringt-es-die-leute-dazu-mehr-nach-draussen-zu-gehen-wohl-eher-nicht-a-1e6f83f5-228e-42d1-b87f-4d0d479eafbf#ref=rss)
-* [https://www.spiegel.de/kultur/met-gala-beyonce-venus-williams-und-nicole-kidman-sitzen-im-festkomitee](https://www.spiegel.de/kultur/met-gala-beyonce-venus-williams-und-nicole-kidman-sitzen-im-festkomitee-a-c8229ee8-046e-417b-afd8-ae4d18b50a13#ref=rss)
-### lindau
+* [https://www.spiegel.de/panorama/bildung/kinderrechte-index-vom-deutschen-kinderhilfswerk-im-land-der-ungleichen-kindheiten](https://www.spiegel.de/panorama/bildung/kinderrechte-index-vom-deutschen-kinderhilfswerk-im-land-der-ungleichen-kindheiten-a-0cd1309a-59db-4b27-bdbe-4ebbf8ec6a50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand](https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand-a-77b777a9-6399-4d3c-b8b0-22cf7a94d76a#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
+### café
 
-* [https://www.spiegel.de/panorama/lindau-am-bodensee-schmorender-haendetrockner-legt-zug-lahm](https://www.spiegel.de/panorama/lindau-am-bodensee-schmorender-haendetrockner-legt-zug-lahm-a-de683e91-3de0-49e1-98df-39cca6c04dcb#ref=rss)
-### zufolge
+* [https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet](https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet-a-bd59b7db-1783-4044-80e7-55bd7668f069#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-der-eine-sitzt-im-schuetzengraben-der-andere-im-cafe-in-kyjiw-spiegel-spitzengespraech](https://www.spiegel.de/politik/ukraine-der-eine-sitzt-im-schuetzengraben-der-andere-im-cafe-in-kyjiw-spiegel-spitzengespraech-a-0497295f-c835-481c-8110-851b444264a9#ref=rss)
+### koalitionsausschuss
 
-* [https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-versucht-koalitionsstreit-ueber-reform-herunterzukochen](https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-versucht-koalitionsstreit-ueber-reform-herunterzukochen-a-21fb9ad3-df8b-48a6-8227-6e97bf6e890c#ref=rss)
-* [https://www.spiegel.de/auto/zweitaktmotor-general-motors-meldet-patent-fuer-hybrid-an](https://www.spiegel.de/auto/zweitaktmotor-general-motors-meldet-patent-fuer-hybrid-an-a-03253262-c212-40cf-a343-277d7c4a444b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar-a-2a5e2452-ebba-4763-88e7-a81be61e7aa4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen-a-1154afbf-7cdf-48a6-8e01-243872d08cc7#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar-a-2a5e2452-ebba-4763-88e7-a81be61e7aa4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen-a-1154afbf-7cdf-48a6-8e01-243872d08cc7#ref=rss)
+### heizungsgesetz
+
+* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar-a-2a5e2452-ebba-4763-88e7-a81be61e7aa4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen-a-1154afbf-7cdf-48a6-8e01-243872d08cc7#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/panorama/muenchen-weihnachtsmaenner-verteilen-rechtsextreme-flyer-in-u-bahn](https://www.spiegel.de/panorama/muenchen-weihnachtsmaenner-verteilen-rechtsextreme-flyer-in-u-bahn-a-35023c30-62b3-4e17-87bf-8f77ae426c5d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid](https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid-a-bcd54122-de36-4bc1-9518-11eb0f2e4288#ref=rss)
+### tuvalu
+
+* [https://www.spiegel.de/ausland/australien-erste-klima-fluechtlinge-aus-sinkendem-inselstaat-tuvalu-gelandet](https://www.spiegel.de/ausland/australien-erste-klima-fluechtlinge-aus-sinkendem-inselstaat-tuvalu-gelandet-a-5667cdb9-c50a-423c-9ba5-1d666f744e53#ref=rss)
+### bald
+
+* [https://www.spiegel.de/ausland/australien-erste-klima-fluechtlinge-aus-sinkendem-inselstaat-tuvalu-gelandet](https://www.spiegel.de/ausland/australien-erste-klima-fluechtlinge-aus-sinkendem-inselstaat-tuvalu-gelandet-a-5667cdb9-c50a-423c-9ba5-1d666f744e53#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-ifw-und-ifo-prognostizieren-mini-wachstum-reformstau-als-bremse](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-ifw-und-ifo-prognostizieren-mini-wachstum-reformstau-als-bremse-a-187a9c60-8507-4f79-a949-11bba3ffeb55#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/australien-erste-klima-fluechtlinge-aus-sinkendem-inselstaat-tuvalu-gelandet](https://www.spiegel.de/ausland/australien-erste-klima-fluechtlinge-aus-sinkendem-inselstaat-tuvalu-gelandet-a-5667cdb9-c50a-423c-9ba5-1d666f744e53#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand](https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand-a-77b777a9-6399-4d3c-b8b0-22cf7a94d76a#ref=rss)
+### sinkt
+
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-bevoelkerungszahl-sinkt-moeglicherweise-auf-weniger-als-75-millionen](https://www.spiegel.de/panorama/gesellschaft/deutschland-bevoelkerungszahl-sinkt-moeglicherweise-auf-weniger-als-75-millionen-a-998f52d5-0957-450c-b8a9-9b4f782ee524#ref=rss)
+### streit
+
+* [https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung](https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung-a-4f4a96a7-5330-4f7d-9a8a-77d1653959f6#ref=rss)
+### sparkurs
+
+* [https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung](https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung-a-4f4a96a7-5330-4f7d-9a8a-77d1653959f6#ref=rss)
+### chefredakteur
+
+* [https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung](https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung-a-4f4a96a7-5330-4f7d-9a8a-77d1653959f6#ref=rss)
+### krach
+
+* [https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung](https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung-a-4f4a96a7-5330-4f7d-9a8a-77d1653959f6#ref=rss)
+### süddeutsche
+
+* [https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung](https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung-a-4f4a96a7-5330-4f7d-9a8a-77d1653959f6#ref=rss)
+### zeitung
+
+* [https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung](https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung-a-4f4a96a7-5330-4f7d-9a8a-77d1653959f6#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung](https://www.spiegel.de/kultur/chefredakteur-krach-verlaesst-sueddeutsche-zeitung-a-4f4a96a7-5330-4f7d-9a8a-77d1653959f6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid](https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid-a-bcd54122-de36-4bc1-9518-11eb0f2e4288#ref=rss)
+### groß
+
+* [https://www.spiegel.de/panorama/bildung/kinderrechte-index-vom-deutschen-kinderhilfswerk-im-land-der-ungleichen-kindheiten](https://www.spiegel.de/panorama/bildung/kinderrechte-index-vom-deutschen-kinderhilfswerk-im-land-der-ungleichen-kindheiten-a-0cd1309a-59db-4b27-bdbe-4ebbf8ec6a50#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet](https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet-a-bd59b7db-1783-4044-80e7-55bd7668f069#ref=rss)
+### nordhausen
+
+* [https://www.spiegel.de/politik/nordhausen-in-thueringen-mutmassliches-is-mitglied-festgenommen](https://www.spiegel.de/politik/nordhausen-in-thueringen-mutmassliches-is-mitglied-festgenommen-a-ae83f68c-9161-4789-a4da-63257767942c#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/politik/nordhausen-in-thueringen-mutmassliches-is-mitglied-festgenommen](https://www.spiegel.de/politik/nordhausen-in-thueringen-mutmassliches-is-mitglied-festgenommen-a-ae83f68c-9161-4789-a4da-63257767942c#ref=rss)
+* [https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen](https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen-a-952aea13-3dd0-417e-8111-103041448bf2#ref=rss)
+### unter
+
+* [https://www.spiegel.de/politik/nordhausen-in-thueringen-mutmassliches-is-mitglied-festgenommen](https://www.spiegel.de/politik/nordhausen-in-thueringen-mutmassliches-is-mitglied-festgenommen-a-ae83f68c-9161-4789-a4da-63257767942c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen](https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen-a-8dab54a7-013f-4132-b48c-30131318b8b4#ref=rss)
+### anderem
+
+* [https://www.spiegel.de/politik/nordhausen-in-thueringen-mutmassliches-is-mitglied-festgenommen](https://www.spiegel.de/politik/nordhausen-in-thueringen-mutmassliches-is-mitglied-festgenommen-a-ae83f68c-9161-4789-a4da-63257767942c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen](https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen-a-8dab54a7-013f-4132-b48c-30131318b8b4#ref=rss)
+### nicolas
+
+* [https://www.spiegel.de/panorama/frankreich-nicolas-sarkozy-motzt-ueber-zeit-im-gefaengnis-und-lobt-marine-le-pen](https://www.spiegel.de/panorama/frankreich-nicolas-sarkozy-motzt-ueber-zeit-im-gefaengnis-und-lobt-marine-le-pen-a-53c5ac5c-80ee-42ac-aba0-ab226de6efe1#ref=rss)
+### sarkozy
+
+* [https://www.spiegel.de/panorama/frankreich-nicolas-sarkozy-motzt-ueber-zeit-im-gefaengnis-und-lobt-marine-le-pen](https://www.spiegel.de/panorama/frankreich-nicolas-sarkozy-motzt-ueber-zeit-im-gefaengnis-und-lobt-marine-le-pen-a-53c5ac5c-80ee-42ac-aba0-ab226de6efe1#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/panorama/frankreich-nicolas-sarkozy-motzt-ueber-zeit-im-gefaengnis-und-lobt-marine-le-pen](https://www.spiegel.de/panorama/frankreich-nicolas-sarkozy-motzt-ueber-zeit-im-gefaengnis-und-lobt-marine-le-pen-a-53c5ac5c-80ee-42ac-aba0-ab226de6efe1#ref=rss)
+* [https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen](https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen-a-952aea13-3dd0-417e-8111-103041448bf2#ref=rss)
+### expräsident
+
+* [https://www.spiegel.de/panorama/frankreich-nicolas-sarkozy-motzt-ueber-zeit-im-gefaengnis-und-lobt-marine-le-pen](https://www.spiegel.de/panorama/frankreich-nicolas-sarkozy-motzt-ueber-zeit-im-gefaengnis-und-lobt-marine-le-pen-a-53c5ac5c-80ee-42ac-aba0-ab226de6efe1#ref=rss)
+* [https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen](https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen-a-952aea13-3dd0-417e-8111-103041448bf2#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand](https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand-a-77b777a9-6399-4d3c-b8b0-22cf7a94d76a#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand](https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand-a-77b777a9-6399-4d3c-b8b0-22cf7a94d76a#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand](https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand-a-77b777a9-6399-4d3c-b8b0-22cf7a94d76a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen-a-1154afbf-7cdf-48a6-8e01-243872d08cc7#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand](https://www.spiegel.de/politik/deutschland/afd-erreicht-in-brandenburg-umfrage-hoechststand-a-77b777a9-6399-4d3c-b8b0-22cf7a94d76a#ref=rss)
+* [https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen](https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen-a-8dab54a7-013f-4132-b48c-30131318b8b4#ref=rss)
+### ifw
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-ifw-und-ifo-prognostizieren-mini-wachstum-reformstau-als-bremse](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-ifw-und-ifo-prognostizieren-mini-wachstum-reformstau-als-bremse-a-187a9c60-8507-4f79-a949-11bba3ffeb55#ref=rss)
+### ifo
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-ifw-und-ifo-prognostizieren-mini-wachstum-reformstau-als-bremse](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-ifw-und-ifo-prognostizieren-mini-wachstum-reformstau-als-bremse-a-187a9c60-8507-4f79-a949-11bba3ffeb55#ref=rss)
+### medizinertest
+
+* [https://www.spiegel.de/start/medizinstudienplatz-ergattern-was-aendert-sich-beim-neuen-medizinertest-startklar-newsletter](https://www.spiegel.de/start/medizinstudienplatz-ergattern-was-aendert-sich-beim-neuen-medizinertest-startklar-newsletter-a-5d94bcf1-dfa1-43fc-9858-1318b52ef102#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm](https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm-a-ff4a1f61-a19e-4ffe-b152-5b6e31a71630#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet](https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet-a-bd59b7db-1783-4044-80e7-55bd7668f069#ref=rss)
+### großer
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm](https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm-a-ff4a1f61-a19e-4ffe-b152-5b6e31a71630#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/mcdonalds-zieht-weihnachtsspot-nach-kritik-zurueck](https://www.spiegel.de/wirtschaft/service/mcdonalds-zieht-weihnachtsspot-nach-kritik-zurueck-a-7fceea44-e744-47f0-98b0-13dda05728cf#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm](https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm-a-ff4a1f61-a19e-4ffe-b152-5b6e31a71630#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet](https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet-a-bd59b7db-1783-4044-80e7-55bd7668f069#ref=rss)
+### europäischen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm](https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm-a-ff4a1f61-a19e-4ffe-b152-5b6e31a71630#ref=rss)
+* [https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen](https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen-a-8dab54a7-013f-4132-b48c-30131318b8b4#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm](https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm-a-ff4a1f61-a19e-4ffe-b152-5b6e31a71630#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker](https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker-a-442a745f-871a-4f6c-ad10-43cbf0a97b2c#ref=rss)
+### überblick
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm](https://www.spiegel.de/ausland/ukraine-krieg-grosser-drohnenangriff-kyjiws-legt-moskaus-flughaefen-lahm-a-ff4a1f61-a19e-4ffe-b152-5b6e31a71630#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar-a-2a5e2452-ebba-4763-88e7-a81be61e7aa4#ref=rss)
+### venezuela
+
+* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker](https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker-a-442a745f-871a-4f6c-ad10-43cbf0a97b2c#ref=rss)
+### usmilitär
+
+* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
+### beschlagnahmt
+
+* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
+### tankschiff
+
+* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
+### auftakt
+
+* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
+### invasion
+
+* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
+### jagd
+
+* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
+* [https://www.spiegel.de/wissenschaft/woelfe-in-deutschland-und-die-geplante-aenderung-im-bundesjagdgesetz-die-falsche-strategie](https://www.spiegel.de/wissenschaft/woelfe-in-deutschland-und-die-geplante-aenderung-im-bundesjagdgesetz-die-falsche-strategie-a-c5709b19-20f2-4736-8d71-2a9549245279#ref=rss)
+### venezuelas
+
+* [https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion](https://www.spiegel.de/ausland/venezuela-us-militaer-beschlagnahmt-tankschiff-der-auftakt-einer-invasion-a-e0cb5204-8cb2-4f13-a67b-3ca3cb8e2b47#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker](https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker-a-442a745f-871a-4f6c-ad10-43cbf0a97b2c#ref=rss)
+### socialmediaverbot
+
+* [https://www.spiegel.de/panorama/social-media-verbot-in-australien-jugendliche-prahlen-damit-online-zu-bleiben](https://www.spiegel.de/panorama/social-media-verbot-in-australien-jugendliche-prahlen-damit-online-zu-bleiben-a-0a679aab-791f-42da-ab31-11753b3591bd#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/panorama/social-media-verbot-in-australien-jugendliche-prahlen-damit-online-zu-bleiben](https://www.spiegel.de/panorama/social-media-verbot-in-australien-jugendliche-prahlen-damit-online-zu-bleiben-a-0a679aab-791f-42da-ab31-11753b3591bd#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/panorama/social-media-verbot-in-australien-jugendliche-prahlen-damit-online-zu-bleiben](https://www.spiegel.de/panorama/social-media-verbot-in-australien-jugendliche-prahlen-damit-online-zu-bleiben-a-0a679aab-791f-42da-ab31-11753b3591bd#ref=rss)
+* [https://www.spiegel.de/panorama/graz-aussage-im-schaedelbohr-fall-wirft-neue-fragen-auf-gab-es-weitere-unbefugte-im-op](https://www.spiegel.de/panorama/graz-aussage-im-schaedelbohr-fall-wirft-neue-fragen-auf-gab-es-weitere-unbefugte-im-op-a-3165c842-f933-40bf-858a-ab798aedf9ea#ref=rss)
+### cherson
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet](https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet-a-bd59b7db-1783-4044-80e7-55bd7668f069#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet](https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet-a-bd59b7db-1783-4044-80e7-55bd7668f069#ref=rss)
+### geworden
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet](https://www.spiegel.de/ausland/ukraine-krieg-cafe-in-cherson-schliesst-nach-zwei-jahren-im-kriegsgebiet-a-bd59b7db-1783-4044-80e7-55bd7668f069#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/mcdonalds-zieht-weihnachtsspot-nach-kritik-zurueck](https://www.spiegel.de/wirtschaft/service/mcdonalds-zieht-weihnachtsspot-nach-kritik-zurueck-a-7fceea44-e744-47f0-98b0-13dda05728cf#ref=rss)
+### graz
+
+* [https://www.spiegel.de/panorama/graz-aussage-im-schaedelbohr-fall-wirft-neue-fragen-auf-gab-es-weitere-unbefugte-im-op](https://www.spiegel.de/panorama/graz-aussage-im-schaedelbohr-fall-wirft-neue-fragen-auf-gab-es-weitere-unbefugte-im-op-a-3165c842-f933-40bf-858a-ab798aedf9ea#ref=rss)
 ### fragen
 
-* [https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-versucht-koalitionsstreit-ueber-reform-herunterzukochen](https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-versucht-koalitionsstreit-ueber-reform-herunterzukochen-a-21fb9ad3-df8b-48a6-8227-6e97bf6e890c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-wirtschaftsministerium-mauert-bei-fragen-nach-tirol-gipfel](https://www.spiegel.de/politik/deutschland/katherina-reiche-wirtschaftsministerium-mauert-bei-fragen-nach-tirol-gipfel-a-2b7b1b4c-80a2-40eb-b180-4eb8ac7fdf61#ref=rss)
-### met
+* [https://www.spiegel.de/panorama/graz-aussage-im-schaedelbohr-fall-wirft-neue-fragen-auf-gab-es-weitere-unbefugte-im-op](https://www.spiegel.de/panorama/graz-aussage-im-schaedelbohr-fall-wirft-neue-fragen-auf-gab-es-weitere-unbefugte-im-op-a-3165c842-f933-40bf-858a-ab798aedf9ea#ref=rss)
+### video
 
-* [https://www.spiegel.de/kultur/met-gala-beyonce-venus-williams-und-nicole-kidman-sitzen-im-festkomitee](https://www.spiegel.de/kultur/met-gala-beyonce-venus-williams-und-nicole-kidman-sitzen-im-festkomitee-a-c8229ee8-046e-417b-afd8-ae4d18b50a13#ref=rss)
-### gala
+* [https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker](https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker-a-442a745f-871a-4f6c-ad10-43cbf0a97b2c#ref=rss)
+### usa
 
-* [https://www.spiegel.de/kultur/met-gala-beyonce-venus-williams-und-nicole-kidman-sitzen-im-festkomitee](https://www.spiegel.de/kultur/met-gala-beyonce-venus-williams-und-nicole-kidman-sitzen-im-festkomitee-a-c8229ee8-046e-417b-afd8-ae4d18b50a13#ref=rss)
-### 20
+* [https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker](https://www.spiegel.de/ausland/venezuela-video-zeigt-erstuermung-von-oeltanker-a-442a745f-871a-4f6c-ad10-43cbf0a97b2c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen](https://www.spiegel.de/ausland/usa-abgeordnete-wollen-truppenabzug-aus-europa-begrenzen-a-8dab54a7-013f-4132-b48c-30131318b8b4#ref=rss)
+### wölfe
 
-* [https://www.spiegel.de/wirtschaft/service/weihnachtsmarkt-preise-geraspelte-kartoffeln-in-billigem-oel-fuer-20-euro](https://www.spiegel.de/wirtschaft/service/weihnachtsmarkt-preise-geraspelte-kartoffeln-in-billigem-oel-fuer-20-euro-a-ce2cd8a8-f523-4bc7-a7be-29339dcf06ff#ref=rss)
-### volkswagen
+* [https://www.spiegel.de/wissenschaft/woelfe-in-deutschland-und-die-geplante-aenderung-im-bundesjagdgesetz-die-falsche-strategie](https://www.spiegel.de/wissenschaft/woelfe-in-deutschland-und-die-geplante-aenderung-im-bundesjagdgesetz-die-falsche-strategie-a-c5709b19-20f2-4736-8d71-2a9549245279#ref=rss)
+### biologin
 
-* [https://www.spiegel.de/wirtschaft/volkswagen-wolfram-guenther-strebt-beteiligung-sachsens-an-vw-an](https://www.spiegel.de/wirtschaft/volkswagen-wolfram-guenther-strebt-beteiligung-sachsens-an-vw-an-a-41b2c6b1-c773-4a7a-a495-fa5d2f58544a#ref=rss)
-### wolfram
+* [https://www.spiegel.de/wissenschaft/woelfe-in-deutschland-und-die-geplante-aenderung-im-bundesjagdgesetz-die-falsche-strategie](https://www.spiegel.de/wissenschaft/woelfe-in-deutschland-und-die-geplante-aenderung-im-bundesjagdgesetz-die-falsche-strategie-a-c5709b19-20f2-4736-8d71-2a9549245279#ref=rss)
+### luis
 
-* [https://www.spiegel.de/wirtschaft/volkswagen-wolfram-guenther-strebt-beteiligung-sachsens-an-vw-an](https://www.spiegel.de/wirtschaft/volkswagen-wolfram-guenther-strebt-beteiligung-sachsens-an-vw-an-a-41b2c6b1-c773-4a7a-a495-fa5d2f58544a#ref=rss)
-### günther
+* [https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen](https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen-a-952aea13-3dd0-417e-8111-103041448bf2#ref=rss)
+### arce
 
-* [https://www.spiegel.de/wirtschaft/volkswagen-wolfram-guenther-strebt-beteiligung-sachsens-an-vw-an](https://www.spiegel.de/wirtschaft/volkswagen-wolfram-guenther-strebt-beteiligung-sachsens-an-vw-an-a-41b2c6b1-c773-4a7a-a495-fa5d2f58544a#ref=rss)
-### beteiligung
+* [https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen](https://www.spiegel.de/ausland/bolivien-ex-praesident-luis-arce-wegen-korruptionsvorwuerfen-festgenommen-a-952aea13-3dd0-417e-8111-103041448bf2#ref=rss)
+### myanmar
 
-* [https://www.spiegel.de/wirtschaft/volkswagen-wolfram-guenther-strebt-beteiligung-sachsens-an-vw-an](https://www.spiegel.de/wirtschaft/volkswagen-wolfram-guenther-strebt-beteiligung-sachsens-an-vw-an-a-41b2c6b1-c773-4a7a-a495-fa5d2f58544a#ref=rss)
-### ozzy
+* [https://www.spiegel.de/ausland/myanmar-mindestens-30-tote-bei-luftangriff-auf-krankenhaus](https://www.spiegel.de/ausland/myanmar-mindestens-30-tote-bei-luftangriff-auf-krankenhaus-a-1d21ae0e-c93e-4183-9e5a-39a8b12a2bcc#ref=rss)
+### krankenhaus
 
-* [https://www.spiegel.de/panorama/hunde-guinness-weltrekord-ozzy-hat-mit-fast-20cm-laenge-die-laengste-hundezunge-der-welt](https://www.spiegel.de/panorama/hunde-guinness-weltrekord-ozzy-hat-mit-fast-20cm-laenge-die-laengste-hundezunge-der-welt-a-57bf3b17-0995-4a70-9291-465c693a888f#ref=rss)
-### guinnessweltrekord
+* [https://www.spiegel.de/ausland/myanmar-mindestens-30-tote-bei-luftangriff-auf-krankenhaus](https://www.spiegel.de/ausland/myanmar-mindestens-30-tote-bei-luftangriff-auf-krankenhaus-a-1d21ae0e-c93e-4183-9e5a-39a8b12a2bcc#ref=rss)
+### ergebnisse
 
-* [https://www.spiegel.de/panorama/hunde-guinness-weltrekord-ozzy-hat-mit-fast-20cm-laenge-die-laengste-hundezunge-der-welt](https://www.spiegel.de/panorama/hunde-guinness-weltrekord-ozzy-hat-mit-fast-20cm-laenge-die-laengste-hundezunge-der-welt-a-57bf3b17-0995-4a70-9291-465c693a888f#ref=rss)
-### sophie
+* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar-a-2a5e2452-ebba-4763-88e7-a81be61e7aa4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen-a-1154afbf-7cdf-48a6-8e01-243872d08cc7#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/kultur/literatur/sophie-kinsella-schnaeppchenjaegerin-autorin-im-alter-von-55-jahren-gestorben](https://www.spiegel.de/kultur/literatur/sophie-kinsella-schnaeppchenjaegerin-autorin-im-alter-von-55-jahren-gestorben-a-abd81a5e-1c5d-4223-8d25-83cdef893cc2#ref=rss)
-### kinsella
+* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-friedrich-merz-benennt-heizungsgesetz-um-eckpunkte-bis-ende-januar-a-2a5e2452-ebba-4763-88e7-a81be61e7aa4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-das-sagen-die-regierungsspitzen-zu-den-ergebnissen-a-1154afbf-7cdf-48a6-8e01-243872d08cc7#ref=rss)
+### weihnachtsmänner
 
-* [https://www.spiegel.de/kultur/literatur/sophie-kinsella-schnaeppchenjaegerin-autorin-im-alter-von-55-jahren-gestorben](https://www.spiegel.de/kultur/literatur/sophie-kinsella-schnaeppchenjaegerin-autorin-im-alter-von-55-jahren-gestorben-a-abd81a5e-1c5d-4223-8d25-83cdef893cc2#ref=rss)
-### shopaholicautorin
+* [https://www.spiegel.de/panorama/muenchen-weihnachtsmaenner-verteilen-rechtsextreme-flyer-in-u-bahn](https://www.spiegel.de/panorama/muenchen-weihnachtsmaenner-verteilen-rechtsextreme-flyer-in-u-bahn-a-35023c30-62b3-4e17-87bf-8f77ae426c5d#ref=rss)
+### ubahn
 
-* [https://www.spiegel.de/kultur/literatur/sophie-kinsella-schnaeppchenjaegerin-autorin-im-alter-von-55-jahren-gestorben](https://www.spiegel.de/kultur/literatur/sophie-kinsella-schnaeppchenjaegerin-autorin-im-alter-von-55-jahren-gestorben-a-abd81a5e-1c5d-4223-8d25-83cdef893cc2#ref=rss)
-### 55
+* [https://www.spiegel.de/panorama/muenchen-weihnachtsmaenner-verteilen-rechtsextreme-flyer-in-u-bahn](https://www.spiegel.de/panorama/muenchen-weihnachtsmaenner-verteilen-rechtsextreme-flyer-in-u-bahn-a-35023c30-62b3-4e17-87bf-8f77ae426c5d#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/kultur/literatur/sophie-kinsella-schnaeppchenjaegerin-autorin-im-alter-von-55-jahren-gestorben](https://www.spiegel.de/kultur/literatur/sophie-kinsella-schnaeppchenjaegerin-autorin-im-alter-von-55-jahren-gestorben-a-abd81a5e-1c5d-4223-8d25-83cdef893cc2#ref=rss)
-### gestorben
+* [https://www.spiegel.de/politik/ukraine-der-eine-sitzt-im-schuetzengraben-der-andere-im-cafe-in-kyjiw-spiegel-spitzengespraech](https://www.spiegel.de/politik/ukraine-der-eine-sitzt-im-schuetzengraben-der-andere-im-cafe-in-kyjiw-spiegel-spitzengespraech-a-0497295f-c835-481c-8110-851b444264a9#ref=rss)
+### champions
 
-* [https://www.spiegel.de/kultur/literatur/sophie-kinsella-schnaeppchenjaegerin-autorin-im-alter-von-55-jahren-gestorben](https://www.spiegel.de/kultur/literatur/sophie-kinsella-schnaeppchenjaegerin-autorin-im-alter-von-55-jahren-gestorben-a-abd81a5e-1c5d-4223-8d25-83cdef893cc2#ref=rss)
-### lehrerin
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid](https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid-a-bcd54122-de36-4bc1-9518-11eb0f2e4288#ref=rss)
+### league
 
-* [https://www.spiegel.de/kultur/kino/jacob-elordi-war-so-vorlaut-dass-seine-lehrerin-ihn-in-ein-musical-steckte](https://www.spiegel.de/kultur/kino/jacob-elordi-war-so-vorlaut-dass-seine-lehrerin-ihn-in-ein-musical-steckte-a-b503a16e-a8df-4725-84fd-f1511b4e9fb0#ref=rss)
-### polen
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid](https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid-a-bcd54122-de36-4bc1-9518-11eb0f2e4288#ref=rss)
+### fc
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-polen-plant-weitere-mig-29-lieferungen-an-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-polen-plant-weitere-mig-29-lieferungen-an-kyjiw-a-724b88b6-a271-46a2-8ef1-d5db955939c2#ref=rss)
-### ukrainische
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid](https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid-a-bcd54122-de36-4bc1-9518-11eb0f2e4288#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-polen-plant-weitere-mig-29-lieferungen-an-kyjiw](https://www.spiegel.de/ausland/ukraine-krieg-polen-plant-weitere-mig-29-lieferungen-an-kyjiw-a-724b88b6-a271-46a2-8ef1-d5db955939c2#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-erklaert-sich-bereit-zu-neuwahlen-wenn-die-usa-fuer-sicherheit-sorgen](https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-erklaert-sich-bereit-zu-neuwahlen-wenn-die-usa-fuer-sicherheit-sorgen-a-f49eb746-dd69-48dc-be57-255afc029051#ref=rss)
-### tipps
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid](https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid-a-bcd54122-de36-4bc1-9518-11eb0f2e4288#ref=rss)
+### madrid
 
-* [https://www.spiegel.de/kultur/katherine-may-autorin-ueber-den-winter-die-dunkle-jahreszeit-den-abschied-vom-licht-und-wie-man-durch-die-dunkelsten-tage-kommt](https://www.spiegel.de/kultur/katherine-may-autorin-ueber-den-winter-die-dunkle-jahreszeit-den-abschied-vom-licht-und-wie-man-durch-die-dunkelsten-tage-kommt-a-9d22c977-b449-4c82-9c7a-12e9f01ba652#ref=rss)
-### autorin
-
-* [https://www.spiegel.de/kultur/katherine-may-autorin-ueber-den-winter-die-dunkle-jahreszeit-den-abschied-vom-licht-und-wie-man-durch-die-dunkelsten-tage-kommt](https://www.spiegel.de/kultur/katherine-may-autorin-ueber-den-winter-die-dunkle-jahreszeit-den-abschied-vom-licht-und-wie-man-durch-die-dunkelsten-tage-kommt-a-9d22c977-b449-4c82-9c7a-12e9f01ba652#ref=rss)
-### katherine
-
-* [https://www.spiegel.de/kultur/katherine-may-autorin-ueber-den-winter-die-dunkle-jahreszeit-den-abschied-vom-licht-und-wie-man-durch-die-dunkelsten-tage-kommt](https://www.spiegel.de/kultur/katherine-may-autorin-ueber-den-winter-die-dunkle-jahreszeit-den-abschied-vom-licht-und-wie-man-durch-die-dunkelsten-tage-kommt-a-9d22c977-b449-4c82-9c7a-12e9f01ba652#ref=rss)
-### may
-
-* [https://www.spiegel.de/kultur/katherine-may-autorin-ueber-den-winter-die-dunkle-jahreszeit-den-abschied-vom-licht-und-wie-man-durch-die-dunkelsten-tage-kommt](https://www.spiegel.de/kultur/katherine-may-autorin-ueber-den-winter-die-dunkle-jahreszeit-den-abschied-vom-licht-und-wie-man-durch-die-dunkelsten-tage-kommt-a-9d22c977-b449-4c82-9c7a-12e9f01ba652#ref=rss)
-### wir
-
-* [https://www.spiegel.de/kultur/katherine-may-autorin-ueber-den-winter-die-dunkle-jahreszeit-den-abschied-vom-licht-und-wie-man-durch-die-dunkelsten-tage-kommt](https://www.spiegel.de/kultur/katherine-may-autorin-ueber-den-winter-die-dunkle-jahreszeit-den-abschied-vom-licht-und-wie-man-durch-die-dunkelsten-tage-kommt-a-9d22c977-b449-4c82-9c7a-12e9f01ba652#ref=rss)
-### meistern
-
-* [https://www.spiegel.de/kultur/katherine-may-autorin-ueber-den-winter-die-dunkle-jahreszeit-den-abschied-vom-licht-und-wie-man-durch-die-dunkelsten-tage-kommt](https://www.spiegel.de/kultur/katherine-may-autorin-ueber-den-winter-die-dunkle-jahreszeit-den-abschied-vom-licht-und-wie-man-durch-die-dunkelsten-tage-kommt-a-9d22c977-b449-4c82-9c7a-12e9f01ba652#ref=rss)
-### general
-
-* [https://www.spiegel.de/auto/zweitaktmotor-general-motors-meldet-patent-fuer-hybrid-an](https://www.spiegel.de/auto/zweitaktmotor-general-motors-meldet-patent-fuer-hybrid-an-a-03253262-c212-40cf-a343-277d7c4a444b#ref=rss)
-### motors
-
-* [https://www.spiegel.de/auto/zweitaktmotor-general-motors-meldet-patent-fuer-hybrid-an](https://www.spiegel.de/auto/zweitaktmotor-general-motors-meldet-patent-fuer-hybrid-an-a-03253262-c212-40cf-a343-277d7c4a444b#ref=rss)
-### patent
-
-* [https://www.spiegel.de/auto/zweitaktmotor-general-motors-meldet-patent-fuer-hybrid-an](https://www.spiegel.de/auto/zweitaktmotor-general-motors-meldet-patent-fuer-hybrid-an-a-03253262-c212-40cf-a343-277d7c4a444b#ref=rss)
-### monopolkommission
-
-* [https://www.spiegel.de/netzwelt/glasfaserausbau-monopolkommission-warnt-vor-telekom-dominanz](https://www.spiegel.de/netzwelt/glasfaserausbau-monopolkommission-warnt-vor-telekom-dominanz-a-2e2745c2-58ca-4419-80c7-09be35fb0cee#ref=rss)
-### katherina
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-wirtschaftsministerium-mauert-bei-fragen-nach-tirol-gipfel](https://www.spiegel.de/politik/deutschland/katherina-reiche-wirtschaftsministerium-mauert-bei-fragen-nach-tirol-gipfel-a-2b7b1b4c-80a2-40eb-b180-4eb8ac7fdf61#ref=rss)
-### wirtschaftsministerium
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-wirtschaftsministerium-mauert-bei-fragen-nach-tirol-gipfel](https://www.spiegel.de/politik/deutschland/katherina-reiche-wirtschaftsministerium-mauert-bei-fragen-nach-tirol-gipfel-a-2b7b1b4c-80a2-40eb-b180-4eb8ac7fdf61#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-erklaert-sich-bereit-zu-neuwahlen-wenn-die-usa-fuer-sicherheit-sorgen](https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-erklaert-sich-bereit-zu-neuwahlen-wenn-die-usa-fuer-sicherheit-sorgen-a-f49eb746-dd69-48dc-be57-255afc029051#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-erklaert-sich-bereit-zu-neuwahlen-wenn-die-usa-fuer-sicherheit-sorgen](https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-erklaert-sich-bereit-zu-neuwahlen-wenn-die-usa-fuer-sicherheit-sorgen-a-f49eb746-dd69-48dc-be57-255afc029051#ref=rss)
-### neuwahlen
-
-* [https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-erklaert-sich-bereit-zu-neuwahlen-wenn-die-usa-fuer-sicherheit-sorgen](https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-erklaert-sich-bereit-zu-neuwahlen-wenn-die-usa-fuer-sicherheit-sorgen-a-f49eb746-dd69-48dc-be57-255afc029051#ref=rss)
-### sicherheit
-
-* [https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-erklaert-sich-bereit-zu-neuwahlen-wenn-die-usa-fuer-sicherheit-sorgen](https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-erklaert-sich-bereit-zu-neuwahlen-wenn-die-usa-fuer-sicherheit-sorgen-a-f49eb746-dd69-48dc-be57-255afc029051#ref=rss)
+* [https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid](https://www.spiegel.de/sport/fussball/womens-champions-league-fc-bayern-muenchen-remis-bei-atletico-madrid-a-bcd54122-de36-4bc1-9518-11eb0f2e4288#ref=rss)
 
