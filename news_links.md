@@ -4,381 +4,327 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld-a-07d47bc1-3c10-4813-86ae-05815ef71514#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen](https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen-a-0e1fe608-7252-48c9-a415-765887a4a1c2#ref=rss)
+### maria
+
+* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
+* [https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt](https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt-a-6d1f8fa9-5d8d-4a00-b524-f04568775aba#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/sport/fussball/lionel-messi-chaos-und-ausschreitungen-bei-auftritt-in-indien](https://www.spiegel.de/sport/fussball/lionel-messi-chaos-und-ausschreitungen-bei-auftritt-in-indien-a-7105b3e4-7e7c-4271-a904-8d46a934b039#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/krankenhausreform-kassenaerztechef-fordert-mehr-klinikschliessungen](https://www.spiegel.de/wirtschaft/service/krankenhausreform-kassenaerztechef-fordert-mehr-klinikschliessungen-a-1fa471d3-f4b6-4d9e-9985-b57fab61e880#ref=rss)
-* [https://www.spiegel.de/ausland/usa-trump-bringt-zwei-namen-fuer-den-chefposten-der-us-notenbank-ins-spiel](https://www.spiegel.de/ausland/usa-trump-bringt-zwei-namen-fuer-den-chefposten-der-us-notenbank-ins-spiel-a-87832a55-f1a8-45c3-bc23-72f68a79ef17#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-wo-kuenftig-mehr-zuege-fahren-und-wo-die-bahn-das-angebot-zusammenstreicht](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-wo-kuenftig-mehr-zuege-fahren-und-wo-die-bahn-das-angebot-zusammenstreicht-a-87a73d11-0dbd-48c2-964b-4cb3142ed5fa#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/familie/natascha-sagorski-und-ihr-kampf-fuer-mutterschutz-sie-wurde-zu-der-lobbyistin-die-sie-gesucht-hatte](https://www.spiegel.de/familie/natascha-sagorski-und-ihr-kampf-fuer-mutterschutz-sie-wurde-zu-der-lobbyistin-die-sie-gesucht-hatte-a-fe7de63c-99b3-422c-ba08-2a6233a77a22#ref=rss)
-* [https://www.spiegel.de/start/oeffentlicher-dienst-junge-beschaeftigte-verlassen-den-berliner-landesdienst-wieso](https://www.spiegel.de/start/oeffentlicher-dienst-junge-beschaeftigte-verlassen-den-berliner-landesdienst-wieso-a-aeb2c1cc-180d-4455-9a55-1af60b89019b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin](https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin-a-0cb614a9-716b-47c9-9e55-793b7e9a7ea6#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-sondergesandter-steve-witkoff-trifft-wolodymyr-selenskyj-in-berlin](https://www.spiegel.de/ausland/ukraine-krieg-us-sondergesandter-steve-witkoff-trifft-wolodymyr-selenskyj-in-berlin-a-c29315bc-1e9d-46b8-a276-b6bc6ffa2378#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bestellt-mehr-als-3000-busse-ueberwiegend-bei-man](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bestellt-mehr-als-3000-busse-ueberwiegend-bei-man-a-76d7d3d0-0532-4504-a3ac-ff27d0e13d80#ref=rss)
+* [https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika](https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika-a-f3ec1712-6a34-4e42-b4b5-90449a0e289c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben](https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben-a-ec10f42c-14dd-458d-af7e-5ba70ac68ef2#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/usa-trump-bringt-zwei-namen-fuer-den-chefposten-der-us-notenbank-ins-spiel](https://www.spiegel.de/ausland/usa-trump-bringt-zwei-namen-fuer-den-chefposten-der-us-notenbank-ins-spiel-a-87832a55-f1a8-45c3-bc23-72f68a79ef17#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-denkmalschutz-klagt-gegen-neuen-ballsaal-des-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-denkmalschutz-klagt-gegen-neuen-ballsaal-des-us-praesidenten-a-5a51ec85-e077-404a-a7f0-f1e567dc2e48#ref=rss)
-* [https://www.spiegel.de/ausland/kaempfe-zwischen-thailand-und-kambodscha-gehen-trotz-trumps-vermittlung-weiter](https://www.spiegel.de/ausland/kaempfe-zwischen-thailand-und-kambodscha-gehen-trotz-trumps-vermittlung-weiter-a-543fd3f1-23d1-42ca-818f-593ad2e3c639#ref=rss)
-### weihnachten
+* [https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte](https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte-a-ba029314-583d-42b4-8d72-b28afce8f4c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
+* [https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere](https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere-a-8098de54-1b84-4669-a42d-e6afcd2fcfa1#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-prime-ard-zdf-romantische-filme-und-serien-zu-weihnachten](https://www.spiegel.de/kultur/tv/netflix-amazon-prime-ard-zdf-romantische-filme-und-serien-zu-weihnachten-a-42e8359f-fcc3-4ba6-96b0-4fc3ca727c41#ref=rss)
-* [https://www.spiegel.de/panorama/weihnachten-bei-der-post-in-engelskirchen-stapeln-sich-die-wunschzettel](https://www.spiegel.de/panorama/weihnachten-bei-der-post-in-engelskirchen-stapeln-sich-die-wunschzettel-a-3fb1f626-ac4c-4b97-8e1f-e36e5c08db3f#ref=rss)
-* [https://www.spiegel.de/gesundheit/praediabetes-blutzuckerwerte-sind-offenbar-wichtiger-als-abnehmen](https://www.spiegel.de/gesundheit/praediabetes-blutzuckerwerte-sind-offenbar-wichtiger-als-abnehmen-a-14348b88-df9d-49ac-a46d-85fab95985dd#ref=rss)
-### laut
+* [https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen](https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen-a-a82dba46-f873-4224-8629-e5eb38eb18ac#ref=rss)
+* [https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic](https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic-a-6ec1ba08-5743-4c82-9ae5-165a81f6422b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/iran-auslaendischer-oeltanker-beschlagnahmt-18-besatzungsmitglieder-festgenommen](https://www.spiegel.de/ausland/iran-auslaendischer-oeltanker-beschlagnahmt-18-besatzungsmitglieder-festgenommen-a-5850a74d-8c58-472c-a39b-cdf099357a71#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa-a-2eb839fa-c002-47fa-a3bf-aabaf23a8703#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-wo-kuenftig-mehr-zuege-fahren-und-wo-die-bahn-das-angebot-zusammenstreicht](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-wo-kuenftig-mehr-zuege-fahren-und-wo-die-bahn-das-angebot-zusammenstreicht-a-87a73d11-0dbd-48c2-964b-4cb3142ed5fa#ref=rss)
-* [https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen](https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen-a-88240735-bef7-4684-81bb-dd82c7f541f1#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa-a-2eb839fa-c002-47fa-a3bf-aabaf23a8703#ref=rss)
-* [https://www.spiegel.de/ausland/usa-trump-bringt-zwei-namen-fuer-den-chefposten-der-us-notenbank-ins-spiel](https://www.spiegel.de/ausland/usa-trump-bringt-zwei-namen-fuer-den-chefposten-der-us-notenbank-ins-spiel-a-87832a55-f1a8-45c3-bc23-72f68a79ef17#ref=rss)
-* [https://www.spiegel.de/ausland/daenemark-geheimdienst-warnt-vor-den-usa](https://www.spiegel.de/ausland/daenemark-geheimdienst-warnt-vor-den-usa-a-e80f3237-6667-4dfa-b643-0106c12f8c90#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-sondergesandter-steve-witkoff-trifft-wolodymyr-selenskyj-in-berlin](https://www.spiegel.de/ausland/ukraine-krieg-us-sondergesandter-steve-witkoff-trifft-wolodymyr-selenskyj-in-berlin-a-c29315bc-1e9d-46b8-a276-b6bc6ffa2378#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
+* [https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot](https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot-a-cd0edf46-6ecb-4dce-b804-3553a721bd16#ref=rss)
+* [https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika](https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika-a-f3ec1712-6a34-4e42-b4b5-90449a0e289c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/usa-trump-bringt-zwei-namen-fuer-den-chefposten-der-us-notenbank-ins-spiel](https://www.spiegel.de/ausland/usa-trump-bringt-zwei-namen-fuer-den-chefposten-der-us-notenbank-ins-spiel-a-87832a55-f1a8-45c3-bc23-72f68a79ef17#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-denkmalschutz-klagt-gegen-neuen-ballsaal-des-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-denkmalschutz-klagt-gegen-neuen-ballsaal-des-us-praesidenten-a-5a51ec85-e077-404a-a7f0-f1e567dc2e48#ref=rss)
-### millionen
+* [https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte](https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte-a-ba029314-583d-42b4-8d72-b28afce8f4c5#ref=rss)
+* [https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere](https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere-a-8098de54-1b84-4669-a42d-e6afcd2fcfa1#ref=rss)
+### neben
 
-* [https://www.spiegel.de/ausland/iran-auslaendischer-oeltanker-beschlagnahmt-18-besatzungsmitglieder-festgenommen](https://www.spiegel.de/ausland/iran-auslaendischer-oeltanker-beschlagnahmt-18-besatzungsmitglieder-festgenommen-a-5850a74d-8c58-472c-a39b-cdf099357a71#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-denkmalschutz-klagt-gegen-neuen-ballsaal-des-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-denkmalschutz-klagt-gegen-neuen-ballsaal-des-us-praesidenten-a-5a51ec85-e077-404a-a7f0-f1e567dc2e48#ref=rss)
-* [https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen](https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen-a-88240735-bef7-4684-81bb-dd82c7f541f1#ref=rss)
-### studie
+* [https://www.spiegel.de/politik/deutschland/frank-juergen-weise-soll-co-vorsitzender-der-rentenkommission-werden](https://www.spiegel.de/politik/deutschland/frank-juergen-weise-soll-co-vorsitzender-der-rentenkommission-werden-a-14d2abe4-af00-412a-b782-ceec9f683798#ref=rss)
+* [https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere](https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere-a-8098de54-1b84-4669-a42d-e6afcd2fcfa1#ref=rss)
+* [https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt](https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt-a-6d1f8fa9-5d8d-4a00-b524-f04568775aba#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa-a-2eb839fa-c002-47fa-a3bf-aabaf23a8703#ref=rss)
-* [https://www.spiegel.de/gesundheit/praediabetes-blutzuckerwerte-sind-offenbar-wichtiger-als-abnehmen](https://www.spiegel.de/gesundheit/praediabetes-blutzuckerwerte-sind-offenbar-wichtiger-als-abnehmen-a-14348b88-df9d-49ac-a46d-85fab95985dd#ref=rss)
-### bamboo
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld-a-07d47bc1-3c10-4813-86ae-05815ef71514#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen](https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen-a-0e1fe608-7252-48c9-a415-765887a4a1c2#ref=rss)
+### csuparteitag
 
-* [https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt](https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt-a-fbb4ec24-c991-479c-b24b-1a7e96bee70c#ref=rss)
-* [https://www.spiegel.de/panorama/zartmann-und-ski-aggu-sie-brechen-alle-rekorde-doch-in-ihrem-hype-label-knallt-es](https://www.spiegel.de/panorama/zartmann-und-ski-aggu-sie-brechen-alle-rekorde-doch-in-ihrem-hype-label-knallt-es-a-8aaf055e-0dff-4d00-87ea-4159b1165160#ref=rss)
-### artists
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld-a-07d47bc1-3c10-4813-86ae-05815ef71514#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen](https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen-a-0e1fe608-7252-48c9-a415-765887a4a1c2#ref=rss)
+### belarus
 
-* [https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt](https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt-a-fbb4ec24-c991-479c-b24b-1a7e96bee70c#ref=rss)
-* [https://www.spiegel.de/panorama/zartmann-und-ski-aggu-sie-brechen-alle-rekorde-doch-in-ihrem-hype-label-knallt-es](https://www.spiegel.de/panorama/zartmann-und-ski-aggu-sie-brechen-alle-rekorde-doch-in-ihrem-hype-label-knallt-es-a-8aaf055e-0dff-4d00-87ea-4159b1165160#ref=rss)
-### ski
+* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
+### kalesnikava
 
-* [https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt](https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt-a-fbb4ec24-c991-479c-b24b-1a7e96bee70c#ref=rss)
-* [https://www.spiegel.de/panorama/zartmann-und-ski-aggu-sie-brechen-alle-rekorde-doch-in-ihrem-hype-label-knallt-es](https://www.spiegel.de/panorama/zartmann-und-ski-aggu-sie-brechen-alle-rekorde-doch-in-ihrem-hype-label-knallt-es-a-8aaf055e-0dff-4d00-87ea-4159b1165160#ref=rss)
-### aggu
+* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
+### usa
 
-* [https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt](https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt-a-fbb4ec24-c991-479c-b24b-1a7e96bee70c#ref=rss)
-* [https://www.spiegel.de/panorama/zartmann-und-ski-aggu-sie-brechen-alle-rekorde-doch-in-ihrem-hype-label-knallt-es](https://www.spiegel.de/panorama/zartmann-und-ski-aggu-sie-brechen-alle-rekorde-doch-in-ihrem-hype-label-knallt-es-a-8aaf055e-0dff-4d00-87ea-4159b1165160#ref=rss)
-### zartmann
+* [https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte](https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte-a-ba029314-583d-42b4-8d72-b28afce8f4c5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/venezuela-beschlagnahmter-tanker-soll-kurs-auf-asien-genommen-haben](https://www.spiegel.de/wirtschaft/venezuela-beschlagnahmter-tanker-soll-kurs-auf-asien-genommen-haben-a-c25a1fd9-1d1f-44d3-aecf-a5616a43cd29#ref=rss)
+* [https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere](https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere-a-8098de54-1b84-4669-a42d-e6afcd2fcfa1#ref=rss)
+### bergkamen
 
-* [https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt](https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt-a-fbb4ec24-c991-479c-b24b-1a7e96bee70c#ref=rss)
-* [https://www.spiegel.de/panorama/zartmann-und-ski-aggu-sie-brechen-alle-rekorde-doch-in-ihrem-hype-label-knallt-es](https://www.spiegel.de/panorama/zartmann-und-ski-aggu-sie-brechen-alle-rekorde-doch-in-ihrem-hype-label-knallt-es-a-8aaf055e-0dff-4d00-87ea-4159b1165160#ref=rss)
-### gehen
+* [https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen](https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen-a-a82dba46-f873-4224-8629-e5eb38eb18ac#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
+### vier
 
-* [https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt](https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt-a-fbb4ec24-c991-479c-b24b-1a7e96bee70c#ref=rss)
-* [https://www.spiegel.de/ausland/kaempfe-zwischen-thailand-und-kambodscha-gehen-trotz-trumps-vermittlung-weiter](https://www.spiegel.de/ausland/kaempfe-zwischen-thailand-und-kambodscha-gehen-trotz-trumps-vermittlung-weiter-a-543fd3f1-23d1-42ca-818f-593ad2e3c639#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-wo-kuenftig-mehr-zuege-fahren-und-wo-die-bahn-das-angebot-zusammenstreicht](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-wo-kuenftig-mehr-zuege-fahren-und-wo-die-bahn-das-angebot-zusammenstreicht-a-87a73d11-0dbd-48c2-964b-4cb3142ed5fa#ref=rss)
-### neue
-
-* [https://www.spiegel.de/netzwelt/web/ios-26-2-so-funktionieren-apples-airpods-dolmetscher](https://www.spiegel.de/netzwelt/web/ios-26-2-so-funktionieren-apples-airpods-dolmetscher-a-8b9e922f-6211-4fe8-b7e3-ccae55e40443#ref=rss)
-* [https://www.spiegel.de/gesundheit/praediabetes-blutzuckerwerte-sind-offenbar-wichtiger-als-abnehmen](https://www.spiegel.de/gesundheit/praediabetes-blutzuckerwerte-sind-offenbar-wichtiger-als-abnehmen-a-14348b88-df9d-49ac-a46d-85fab95985dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin](https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin-a-0cb614a9-716b-47c9-9e55-793b7e9a7ea6#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/donald-trump-denkmalschutz-klagt-gegen-neuen-ballsaal-des-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-denkmalschutz-klagt-gegen-neuen-ballsaal-des-us-praesidenten-a-5a51ec85-e077-404a-a7f0-f1e567dc2e48#ref=rss)
-* [https://www.spiegel.de/panorama/immobilien-guenter-grass-anwesen-in-schleswig-holstein-steht-zum-verkauf](https://www.spiegel.de/panorama/immobilien-guenter-grass-anwesen-in-schleswig-holstein-steht-zum-verkauf-a-a00eabc7-5920-4fba-89e9-bae3972fe51f#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/deutschland/palaestinenserhilfswerk-bundesregierung-bleibt-bei-vagen-vorwuerfen-gegen-unrwa](https://www.spiegel.de/politik/deutschland/palaestinenserhilfswerk-bundesregierung-bleibt-bei-vagen-vorwuerfen-gegen-unrwa-a-33f82ee7-3659-4bb6-865f-41ccdd9c0e90#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin](https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin-a-0cb614a9-716b-47c9-9e55-793b7e9a7ea6#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin](https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin-a-0cb614a9-716b-47c9-9e55-793b7e9a7ea6#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-sondergesandter-steve-witkoff-trifft-wolodymyr-selenskyj-in-berlin](https://www.spiegel.de/ausland/ukraine-krieg-us-sondergesandter-steve-witkoff-trifft-wolodymyr-selenskyj-in-berlin-a-c29315bc-1e9d-46b8-a276-b6bc6ffa2378#ref=rss)
-### bas
-
-* [https://www.spiegel.de/gesundheit/bas-kast-ueber-alkohol-was-wir-gewinnen-wenn-wir-verzichten-podcast](https://www.spiegel.de/gesundheit/bas-kast-ueber-alkohol-was-wir-gewinnen-wenn-wir-verzichten-podcast-a-702a6b30-99cc-49db-9e64-2f628bb3974f#ref=rss)
-### kast
-
-* [https://www.spiegel.de/gesundheit/bas-kast-ueber-alkohol-was-wir-gewinnen-wenn-wir-verzichten-podcast](https://www.spiegel.de/gesundheit/bas-kast-ueber-alkohol-was-wir-gewinnen-wenn-wir-verzichten-podcast-a-702a6b30-99cc-49db-9e64-2f628bb3974f#ref=rss)
-### wir
-
-* [https://www.spiegel.de/gesundheit/bas-kast-ueber-alkohol-was-wir-gewinnen-wenn-wir-verzichten-podcast](https://www.spiegel.de/gesundheit/bas-kast-ueber-alkohol-was-wir-gewinnen-wenn-wir-verzichten-podcast-a-702a6b30-99cc-49db-9e64-2f628bb3974f#ref=rss)
-### woche
-
-* [https://www.spiegel.de/gesundheit/bas-kast-ueber-alkohol-was-wir-gewinnen-wenn-wir-verzichten-podcast](https://www.spiegel.de/gesundheit/bas-kast-ueber-alkohol-was-wir-gewinnen-wenn-wir-verzichten-podcast-a-702a6b30-99cc-49db-9e64-2f628bb3974f#ref=rss)
-* [https://www.spiegel.de/ausland/ein-junger-sportkommentator-aus-peru-und-sternschnuppenregen-nur-gute-nachrichten](https://www.spiegel.de/ausland/ein-junger-sportkommentator-aus-peru-und-sternschnuppenregen-nur-gute-nachrichten-a-d84a25b2-4235-4e7b-bc25-13a58b8473a0#ref=rss)
-### stellan
-
-* [https://www.spiegel.de/kultur/kino/wehrdienst-stellan-skarsgard-fuehlte-sich-von-seinem-sohn-verarscht](https://www.spiegel.de/kultur/kino/wehrdienst-stellan-skarsgard-fuehlte-sich-von-seinem-sohn-verarscht-a-cf5f7fda-d731-4ad5-a832-057be3013161#ref=rss)
-### skarsgård
-
-* [https://www.spiegel.de/kultur/kino/wehrdienst-stellan-skarsgard-fuehlte-sich-von-seinem-sohn-verarscht](https://www.spiegel.de/kultur/kino/wehrdienst-stellan-skarsgard-fuehlte-sich-von-seinem-sohn-verarscht-a-cf5f7fda-d731-4ad5-a832-057be3013161#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/kultur/kino/wehrdienst-stellan-skarsgard-fuehlte-sich-von-seinem-sohn-verarscht](https://www.spiegel.de/kultur/kino/wehrdienst-stellan-skarsgard-fuehlte-sich-von-seinem-sohn-verarscht-a-cf5f7fda-d731-4ad5-a832-057be3013161#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-auslaendischer-oeltanker-beschlagnahmt-18-besatzungsmitglieder-festgenommen](https://www.spiegel.de/ausland/iran-auslaendischer-oeltanker-beschlagnahmt-18-besatzungsmitglieder-festgenommen-a-5850a74d-8c58-472c-a39b-cdf099357a71#ref=rss)
-### öltanker
-
-* [https://www.spiegel.de/ausland/iran-auslaendischer-oeltanker-beschlagnahmt-18-besatzungsmitglieder-festgenommen](https://www.spiegel.de/ausland/iran-auslaendischer-oeltanker-beschlagnahmt-18-besatzungsmitglieder-festgenommen-a-5850a74d-8c58-472c-a39b-cdf099357a71#ref=rss)
-### beschlagnahmt
-
-* [https://www.spiegel.de/ausland/iran-auslaendischer-oeltanker-beschlagnahmt-18-besatzungsmitglieder-festgenommen](https://www.spiegel.de/ausland/iran-auslaendischer-oeltanker-beschlagnahmt-18-besatzungsmitglieder-festgenommen-a-5850a74d-8c58-472c-a39b-cdf099357a71#ref=rss)
-### 18
-
-* [https://www.spiegel.de/ausland/iran-auslaendischer-oeltanker-beschlagnahmt-18-besatzungsmitglieder-festgenommen](https://www.spiegel.de/ausland/iran-auslaendischer-oeltanker-beschlagnahmt-18-besatzungsmitglieder-festgenommen-a-5850a74d-8c58-472c-a39b-cdf099357a71#ref=rss)
-### besatzungsmitglieder
-
-* [https://www.spiegel.de/ausland/iran-auslaendischer-oeltanker-beschlagnahmt-18-besatzungsmitglieder-festgenommen](https://www.spiegel.de/ausland/iran-auslaendischer-oeltanker-beschlagnahmt-18-besatzungsmitglieder-festgenommen-a-5850a74d-8c58-472c-a39b-cdf099357a71#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/ausland/iran-auslaendischer-oeltanker-beschlagnahmt-18-besatzungsmitglieder-festgenommen](https://www.spiegel.de/ausland/iran-auslaendischer-oeltanker-beschlagnahmt-18-besatzungsmitglieder-festgenommen-a-5850a74d-8c58-472c-a39b-cdf099357a71#ref=rss)
-### humanoide
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa-a-2eb839fa-c002-47fa-a3bf-aabaf23a8703#ref=rss)
-### roboter
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa-a-2eb839fa-c002-47fa-a3bf-aabaf23a8703#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa-a-2eb839fa-c002-47fa-a3bf-aabaf23a8703#ref=rss)
-* [https://www.spiegel.de/panorama/dennis-diekmeier-ex-fussballprofi-und-ehefrau-sprechen-ueber-aengste-um-krebskranke-tochter](https://www.spiegel.de/panorama/dennis-diekmeier-ex-fussballprofi-und-ehefrau-sprechen-ueber-aengste-um-krebskranke-tochter-a-b240d846-2584-43d2-b84a-5467e7e027ef#ref=rss)
-### allem
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa-a-2eb839fa-c002-47fa-a3bf-aabaf23a8703#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa-a-2eb839fa-c002-47fa-a3bf-aabaf23a8703#ref=rss)
-* [https://www.spiegel.de/gesundheit/praediabetes-blutzuckerwerte-sind-offenbar-wichtiger-als-abnehmen](https://www.spiegel.de/gesundheit/praediabetes-blutzuckerwerte-sind-offenbar-wichtiger-als-abnehmen-a-14348b88-df9d-49ac-a46d-85fab95985dd#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa-a-2eb839fa-c002-47fa-a3bf-aabaf23a8703#ref=rss)
-* [https://www.spiegel.de/start/oeffentlicher-dienst-junge-beschaeftigte-verlassen-den-berliner-landesdienst-wieso](https://www.spiegel.de/start/oeffentlicher-dienst-junge-beschaeftigte-verlassen-den-berliner-landesdienst-wieso-a-aeb2c1cc-180d-4455-9a55-1af60b89019b#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa](https://www.spiegel.de/wirtschaft/unternehmen/humanoide-roboter-studie-sagt-boom-voraus-vor-allem-in-china-und-den-usa-a-2eb839fa-c002-47fa-a3bf-aabaf23a8703#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-us-botschafter-kushner-empfaengt-le-pen-und-bardella](https://www.spiegel.de/ausland/frankreich-us-botschafter-kushner-empfaengt-le-pen-und-bardella-a-2356c554-931c-4879-bca2-74bf2d93878d#ref=rss)
-### lionel
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-chaos-und-ausschreitungen-bei-auftritt-in-indien](https://www.spiegel.de/sport/fussball/lionel-messi-chaos-und-ausschreitungen-bei-auftritt-in-indien-a-7105b3e4-7e7c-4271-a904-8d46a934b039#ref=rss)
-### messi
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-chaos-und-ausschreitungen-bei-auftritt-in-indien](https://www.spiegel.de/sport/fussball/lionel-messi-chaos-und-ausschreitungen-bei-auftritt-in-indien-a-7105b3e4-7e7c-4271-a904-8d46a934b039#ref=rss)
-### auftritt
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-chaos-und-ausschreitungen-bei-auftritt-in-indien](https://www.spiegel.de/sport/fussball/lionel-messi-chaos-und-ausschreitungen-bei-auftritt-in-indien-a-7105b3e4-7e7c-4271-a904-8d46a934b039#ref=rss)
-### fans
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-chaos-und-ausschreitungen-bei-auftritt-in-indien](https://www.spiegel.de/sport/fussball/lionel-messi-chaos-und-ausschreitungen-bei-auftritt-in-indien-a-7105b3e4-7e7c-4271-a904-8d46a934b039#ref=rss)
-* [https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen](https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen-a-88240735-bef7-4684-81bb-dd82c7f541f1#ref=rss)
-### superstar
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-chaos-und-ausschreitungen-bei-auftritt-in-indien](https://www.spiegel.de/sport/fussball/lionel-messi-chaos-und-ausschreitungen-bei-auftritt-in-indien-a-7105b3e4-7e7c-4271-a904-8d46a934b039#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-chaos-und-ausschreitungen-bei-auftritt-in-indien](https://www.spiegel.de/sport/fussball/lionel-messi-chaos-und-ausschreitungen-bei-auftritt-in-indien-a-7105b3e4-7e7c-4271-a904-8d46a934b039#ref=rss)
-* [https://www.spiegel.de/politik/rechnungshof-bemaengelt-aufarbeitung-von-maskenkaeufen](https://www.spiegel.de/politik/rechnungshof-bemaengelt-aufarbeitung-von-maskenkaeufen-a-c7cd5a8e-4138-4f50-a6a0-92f64ee89f21#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt](https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt-a-fbb4ec24-c991-479c-b24b-1a7e96bee70c#ref=rss)
-* [https://www.spiegel.de/start/oeffentlicher-dienst-junge-beschaeftigte-verlassen-den-berliner-landesdienst-wieso](https://www.spiegel.de/start/oeffentlicher-dienst-junge-beschaeftigte-verlassen-den-berliner-landesdienst-wieso-a-aeb2c1cc-180d-4455-9a55-1af60b89019b#ref=rss)
-### z
-
-* [https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt](https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt-a-fbb4ec24-c991-479c-b24b-1a7e96bee70c#ref=rss)
-* [https://www.spiegel.de/panorama/zartmann-und-ski-aggu-sie-brechen-alle-rekorde-doch-in-ihrem-hype-label-knallt-es](https://www.spiegel.de/panorama/zartmann-und-ski-aggu-sie-brechen-alle-rekorde-doch-in-ihrem-hype-label-knallt-es-a-8aaf055e-0dff-4d00-87ea-4159b1165160#ref=rss)
-### stars
-
-* [https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt](https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt-a-fbb4ec24-c991-479c-b24b-1a7e96bee70c#ref=rss)
-* [https://www.spiegel.de/panorama/zartmann-und-ski-aggu-sie-brechen-alle-rekorde-doch-in-ihrem-hype-label-knallt-es](https://www.spiegel.de/panorama/zartmann-und-ski-aggu-sie-brechen-alle-rekorde-doch-in-ihrem-hype-label-knallt-es-a-8aaf055e-0dff-4d00-87ea-4159b1165160#ref=rss)
-### werfen
-
-* [https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt](https://www.spiegel.de/kultur/musik/bamboo-artists-missstaende-bei-ski-aggu-label-jung-viral-ausgebrannt-a-fbb4ec24-c991-479c-b24b-1a7e96bee70c#ref=rss)
-* [https://www.spiegel.de/ausland/kaempfe-zwischen-thailand-und-kambodscha-gehen-trotz-trumps-vermittlung-weiter](https://www.spiegel.de/ausland/kaempfe-zwischen-thailand-und-kambodscha-gehen-trotz-trumps-vermittlung-weiter-a-543fd3f1-23d1-42ca-818f-593ad2e3c639#ref=rss)
-### junger
-
-* [https://www.spiegel.de/ausland/ein-junger-sportkommentator-aus-peru-und-sternschnuppenregen-nur-gute-nachrichten](https://www.spiegel.de/ausland/ein-junger-sportkommentator-aus-peru-und-sternschnuppenregen-nur-gute-nachrichten-a-d84a25b2-4235-4e7b-bc25-13a58b8473a0#ref=rss)
-### sportkommentator
-
-* [https://www.spiegel.de/ausland/ein-junger-sportkommentator-aus-peru-und-sternschnuppenregen-nur-gute-nachrichten](https://www.spiegel.de/ausland/ein-junger-sportkommentator-aus-peru-und-sternschnuppenregen-nur-gute-nachrichten-a-d84a25b2-4235-4e7b-bc25-13a58b8473a0#ref=rss)
-### nachrichten
-
-* [https://www.spiegel.de/ausland/ein-junger-sportkommentator-aus-peru-und-sternschnuppenregen-nur-gute-nachrichten](https://www.spiegel.de/ausland/ein-junger-sportkommentator-aus-peru-und-sternschnuppenregen-nur-gute-nachrichten-a-d84a25b2-4235-4e7b-bc25-13a58b8473a0#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/wirtschaft/service/krankenhausreform-kassenaerztechef-fordert-mehr-klinikschliessungen](https://www.spiegel.de/wirtschaft/service/krankenhausreform-kassenaerztechef-fordert-mehr-klinikschliessungen-a-1fa471d3-f4b6-4d9e-9985-b57fab61e880#ref=rss)
-* [https://www.spiegel.de/ausland/usa-trump-bringt-zwei-namen-fuer-den-chefposten-der-us-notenbank-ins-spiel](https://www.spiegel.de/ausland/usa-trump-bringt-zwei-namen-fuer-den-chefposten-der-us-notenbank-ins-spiel-a-87832a55-f1a8-45c3-bc23-72f68a79ef17#ref=rss)
-### engelskirchen
-
-* [https://www.spiegel.de/panorama/weihnachten-bei-der-post-in-engelskirchen-stapeln-sich-die-wunschzettel](https://www.spiegel.de/panorama/weihnachten-bei-der-post-in-engelskirchen-stapeln-sich-die-wunschzettel-a-3fb1f626-ac4c-4b97-8e1f-e36e5c08db3f#ref=rss)
-### wunschzettel
-
-* [https://www.spiegel.de/panorama/weihnachten-bei-der-post-in-engelskirchen-stapeln-sich-die-wunschzettel](https://www.spiegel.de/panorama/weihnachten-bei-der-post-in-engelskirchen-stapeln-sich-die-wunschzettel-a-3fb1f626-ac4c-4b97-8e1f-e36e5c08db3f#ref=rss)
-### antwort
-
-* [https://www.spiegel.de/panorama/weihnachten-bei-der-post-in-engelskirchen-stapeln-sich-die-wunschzettel](https://www.spiegel.de/panorama/weihnachten-bei-der-post-in-engelskirchen-stapeln-sich-die-wunschzettel-a-3fb1f626-ac4c-4b97-8e1f-e36e5c08db3f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/palaestinenserhilfswerk-bundesregierung-bleibt-bei-vagen-vorwuerfen-gegen-unrwa](https://www.spiegel.de/politik/deutschland/palaestinenserhilfswerk-bundesregierung-bleibt-bei-vagen-vorwuerfen-gegen-unrwa-a-33f82ee7-3659-4bb6-865f-41ccdd9c0e90#ref=rss)
-### fed
-
-* [https://www.spiegel.de/ausland/usa-trump-bringt-zwei-namen-fuer-den-chefposten-der-us-notenbank-ins-spiel](https://www.spiegel.de/ausland/usa-trump-bringt-zwei-namen-fuer-den-chefposten-der-us-notenbank-ins-spiel-a-87832a55-f1a8-45c3-bc23-72f68a79ef17#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/usa-trump-bringt-zwei-namen-fuer-den-chefposten-der-us-notenbank-ins-spiel](https://www.spiegel.de/ausland/usa-trump-bringt-zwei-namen-fuer-den-chefposten-der-us-notenbank-ins-spiel-a-87832a55-f1a8-45c3-bc23-72f68a79ef17#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-denkmalschutz-klagt-gegen-neuen-ballsaal-des-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-denkmalschutz-klagt-gegen-neuen-ballsaal-des-us-praesidenten-a-5a51ec85-e077-404a-a7f0-f1e567dc2e48#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen](https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen-a-a82dba46-f873-4224-8629-e5eb38eb18ac#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/ausland/usa-trump-bringt-zwei-namen-fuer-den-chefposten-der-us-notenbank-ins-spiel](https://www.spiegel.de/ausland/usa-trump-bringt-zwei-namen-fuer-den-chefposten-der-us-notenbank-ins-spiel-a-87832a55-f1a8-45c3-bc23-72f68a79ef17#ref=rss)
-* [https://www.spiegel.de/start/oeffentlicher-dienst-junge-beschaeftigte-verlassen-den-berliner-landesdienst-wieso](https://www.spiegel.de/start/oeffentlicher-dienst-junge-beschaeftigte-verlassen-den-berliner-landesdienst-wieso-a-aeb2c1cc-180d-4455-9a55-1af60b89019b#ref=rss)
-### dänemark
+* [https://www.spiegel.de/ausland/israel-toetet-hamas-kommandeur-im-gazastreifen](https://www.spiegel.de/ausland/israel-toetet-hamas-kommandeur-im-gazastreifen-a-91fc58be-3513-4318-b287-bac549310707#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
+* [https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere](https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere-a-8098de54-1b84-4669-a42d-e6afcd2fcfa1#ref=rss)
+### gut
 
-* [https://www.spiegel.de/ausland/daenemark-geheimdienst-warnt-vor-den-usa](https://www.spiegel.de/ausland/daenemark-geheimdienst-warnt-vor-den-usa-a-e80f3237-6667-4dfa-b643-0106c12f8c90#ref=rss)
-### meldet
+* [https://www.spiegel.de/wissenschaft/frankreich-rund-7000-jahre-alt-120-meter-lang-archaeologen-entdecken-mauer-im-atlantik](https://www.spiegel.de/wissenschaft/frankreich-rund-7000-jahre-alt-120-meter-lang-archaeologen-entdecken-mauer-im-atlantik-a-75b5b077-56ae-4754-8d2e-d54bbc5d2fb5#ref=rss)
+* [https://www.spiegel.de/politik/verbot-von-giftigem-spielzeug-wie-gut-dass-wir-die-eu-haben-kolumne](https://www.spiegel.de/politik/verbot-von-giftigem-spielzeug-wie-gut-dass-wir-die-eu-haben-kolumne-a-f0ac5981-a361-4874-b465-40f59efa8e80#ref=rss)
+* [https://www.spiegel.de/wirtschaft/afd-politiker-im-wirtschaftsverband-bga-der-feind-in-den-eigenen-reihen](https://www.spiegel.de/wirtschaft/afd-politiker-im-wirtschaftsverband-bga-der-feind-in-den-eigenen-reihen-a-1be0fd2b-769b-453c-9d0e-6a8368a50702#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/daenemark-geheimdienst-warnt-vor-den-usa](https://www.spiegel.de/ausland/daenemark-geheimdienst-warnt-vor-den-usa-a-e80f3237-6667-4dfa-b643-0106c12f8c90#ref=rss)
-* [https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen](https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen-a-88240735-bef7-4684-81bb-dd82c7f541f1#ref=rss)
-### wo
+* [https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer](https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer-a-90dc9b60-caa2-4e4d-a464-15e94e53ba1c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bestellt-mehr-als-3000-busse-ueberwiegend-bei-man](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bestellt-mehr-als-3000-busse-ueberwiegend-bei-man-a-76d7d3d0-0532-4504-a3ac-ff27d0e13d80#ref=rss)
+### rede
 
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-wo-kuenftig-mehr-zuege-fahren-und-wo-die-bahn-das-angebot-zusammenstreicht](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-wo-kuenftig-mehr-zuege-fahren-und-wo-die-bahn-das-angebot-zusammenstreicht-a-87a73d11-0dbd-48c2-964b-4cb3142ed5fa#ref=rss)
-### sprache
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld-a-07d47bc1-3c10-4813-86ae-05815ef71514#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen](https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen-a-0e1fe608-7252-48c9-a415-765887a4a1c2#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/netzwelt/web/ios-26-2-so-funktionieren-apples-airpods-dolmetscher](https://www.spiegel.de/netzwelt/web/ios-26-2-so-funktionieren-apples-airpods-dolmetscher-a-8b9e922f-6211-4fe8-b7e3-ccae55e40443#ref=rss)
-* [https://www.spiegel.de/politik/rechnungshof-bemaengelt-aufarbeitung-von-maskenkaeufen](https://www.spiegel.de/politik/rechnungshof-bemaengelt-aufarbeitung-von-maskenkaeufen-a-c7cd5a8e-4138-4f50-a6a0-92f64ee89f21#ref=rss)
-### wichtiger
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld-a-07d47bc1-3c10-4813-86ae-05815ef71514#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
+### eritrea
 
-* [https://www.spiegel.de/gesundheit/praediabetes-blutzuckerwerte-sind-offenbar-wichtiger-als-abnehmen](https://www.spiegel.de/gesundheit/praediabetes-blutzuckerwerte-sind-offenbar-wichtiger-als-abnehmen-a-14348b88-df9d-49ac-a46d-85fab95985dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin](https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin-a-0cb614a9-716b-47c9-9e55-793b7e9a7ea6#ref=rss)
-### usbotschafter
+* [https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika](https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika-a-f3ec1712-6a34-4e42-b4b5-90449a0e289c#ref=rss)
+### drei
 
-* [https://www.spiegel.de/ausland/frankreich-us-botschafter-kushner-empfaengt-le-pen-und-bardella](https://www.spiegel.de/ausland/frankreich-us-botschafter-kushner-empfaengt-le-pen-und-bardella-a-2356c554-931c-4879-bca2-74bf2d93878d#ref=rss)
-### kushner
+* [https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika](https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika-a-f3ec1712-6a34-4e42-b4b5-90449a0e289c#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
+### csu
 
-* [https://www.spiegel.de/ausland/frankreich-us-botschafter-kushner-empfaengt-le-pen-und-bardella](https://www.spiegel.de/ausland/frankreich-us-botschafter-kushner-empfaengt-le-pen-und-bardella-a-2356c554-931c-4879-bca2-74bf2d93878d#ref=rss)
-### le
+* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben](https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben-a-ec10f42c-14dd-458d-af7e-5ba70ac68ef2#ref=rss)
+### mann
 
-* [https://www.spiegel.de/ausland/frankreich-us-botschafter-kushner-empfaengt-le-pen-und-bardella](https://www.spiegel.de/ausland/frankreich-us-botschafter-kushner-empfaengt-le-pen-und-bardella-a-2356c554-931c-4879-bca2-74bf2d93878d#ref=rss)
-### pen
+* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
+* [https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt](https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt-a-6d1f8fa9-5d8d-4a00-b524-f04568775aba#ref=rss)
+### magnus
 
-* [https://www.spiegel.de/ausland/frankreich-us-botschafter-kushner-empfaengt-le-pen-und-bardella](https://www.spiegel.de/ausland/frankreich-us-botschafter-kushner-empfaengt-le-pen-und-bardella-a-2356c554-931c-4879-bca2-74bf2d93878d#ref=rss)
-### bardella
+* [https://www.spiegel.de/sport/schach/schach-magnus-carlsen-ruft-eine-eigene-tour-ins-leben-es-gewinnt-magnus-carlsen](https://www.spiegel.de/sport/schach/schach-magnus-carlsen-ruft-eine-eigene-tour-ins-leben-es-gewinnt-magnus-carlsen-a-f84ce94d-85d7-4cab-872e-e034327677e0#ref=rss)
+### carlsen
 
-* [https://www.spiegel.de/ausland/frankreich-us-botschafter-kushner-empfaengt-le-pen-und-bardella](https://www.spiegel.de/ausland/frankreich-us-botschafter-kushner-empfaengt-le-pen-und-bardella-a-2356c554-931c-4879-bca2-74bf2d93878d#ref=rss)
-### arbeitet
+* [https://www.spiegel.de/sport/schach/schach-magnus-carlsen-ruft-eine-eigene-tour-ins-leben-es-gewinnt-magnus-carlsen](https://www.spiegel.de/sport/schach/schach-magnus-carlsen-ruft-eine-eigene-tour-ins-leben-es-gewinnt-magnus-carlsen-a-f84ce94d-85d7-4cab-872e-e034327677e0#ref=rss)
+### machthaber
 
-* [https://www.spiegel.de/ausland/frankreich-us-botschafter-kushner-empfaengt-le-pen-und-bardella](https://www.spiegel.de/ausland/frankreich-us-botschafter-kushner-empfaengt-le-pen-und-bardella-a-2356c554-931c-4879-bca2-74bf2d93878d#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/moritz-rudolph-gibt-es-eigentlich-so-etwas-wie-fortschritt](https://www.spiegel.de/kultur/literatur/moritz-rudolph-gibt-es-eigentlich-so-etwas-wie-fortschritt-a-8b3c45e7-d8c8-43a3-9875-cb4f2ecf09c3#ref=rss)
-### klagt
+* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
+### lukaschenko
 
-* [https://www.spiegel.de/ausland/donald-trump-denkmalschutz-klagt-gegen-neuen-ballsaal-des-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-denkmalschutz-klagt-gegen-neuen-ballsaal-des-us-praesidenten-a-5a51ec85-e077-404a-a7f0-f1e567dc2e48#ref=rss)
-### ballsaal
+* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
+### ließ
 
-* [https://www.spiegel.de/ausland/donald-trump-denkmalschutz-klagt-gegen-neuen-ballsaal-des-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-denkmalschutz-klagt-gegen-neuen-ballsaal-des-us-praesidenten-a-5a51ec85-e077-404a-a7f0-f1e567dc2e48#ref=rss)
-### haus
+* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
+* [https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot](https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot-a-cd0edf46-6ecb-4dce-b804-3553a721bd16#ref=rss)
+### frei
 
-* [https://www.spiegel.de/ausland/donald-trump-denkmalschutz-klagt-gegen-neuen-ballsaal-des-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-denkmalschutz-klagt-gegen-neuen-ballsaal-des-us-praesidenten-a-5a51ec85-e077-404a-a7f0-f1e567dc2e48#ref=rss)
-* [https://www.spiegel.de/panorama/immobilien-guenter-grass-anwesen-in-schleswig-holstein-steht-zum-verkauf](https://www.spiegel.de/panorama/immobilien-guenter-grass-anwesen-in-schleswig-holstein-steht-zum-verkauf-a-a00eabc7-5920-4fba-89e9-bae3972fe51f#ref=rss)
-### moritz
+* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
+### eu
 
-* [https://www.spiegel.de/kultur/literatur/moritz-rudolph-gibt-es-eigentlich-so-etwas-wie-fortschritt](https://www.spiegel.de/kultur/literatur/moritz-rudolph-gibt-es-eigentlich-so-etwas-wie-fortschritt-a-8b3c45e7-d8c8-43a3-9875-cb4f2ecf09c3#ref=rss)
-### rudolph
+* [https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte](https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte-a-ba029314-583d-42b4-8d72-b28afce8f4c5#ref=rss)
+* [https://www.spiegel.de/politik/verbot-von-giftigem-spielzeug-wie-gut-dass-wir-die-eu-haben-kolumne](https://www.spiegel.de/politik/verbot-von-giftigem-spielzeug-wie-gut-dass-wir-die-eu-haben-kolumne-a-f0ac5981-a361-4874-b465-40f59efa8e80#ref=rss)
+### machte
 
-* [https://www.spiegel.de/kultur/literatur/moritz-rudolph-gibt-es-eigentlich-so-etwas-wie-fortschritt](https://www.spiegel.de/kultur/literatur/moritz-rudolph-gibt-es-eigentlich-so-etwas-wie-fortschritt-a-8b3c45e7-d8c8-43a3-9875-cb4f2ecf09c3#ref=rss)
-### hatten
+* [https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte](https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte-a-ba029314-583d-42b4-8d72-b28afce8f4c5#ref=rss)
+* [https://www.spiegel.de/panorama/virginia-trunksuechtigem-waschbaer-werden-mehrfache-einbrueche-vorgeworfen](https://www.spiegel.de/panorama/virginia-trunksuechtigem-waschbaer-werden-mehrfache-einbrueche-vorgeworfen-a-63ac7057-ece0-470c-ae97-857203e60499#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/kultur/literatur/moritz-rudolph-gibt-es-eigentlich-so-etwas-wie-fortschritt](https://www.spiegel.de/kultur/literatur/moritz-rudolph-gibt-es-eigentlich-so-etwas-wie-fortschritt-a-8b3c45e7-d8c8-43a3-9875-cb4f2ecf09c3#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-sondergesandter-steve-witkoff-trifft-wolodymyr-selenskyj-in-berlin](https://www.spiegel.de/ausland/ukraine-krieg-us-sondergesandter-steve-witkoff-trifft-wolodymyr-selenskyj-in-berlin-a-c29315bc-1e9d-46b8-a276-b6bc6ffa2378#ref=rss)
-### natascha
+* [https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen](https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen-a-a82dba46-f873-4224-8629-e5eb38eb18ac#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/familie/natascha-sagorski-und-ihr-kampf-fuer-mutterschutz-sie-wurde-zu-der-lobbyistin-die-sie-gesucht-hatte](https://www.spiegel.de/familie/natascha-sagorski-und-ihr-kampf-fuer-mutterschutz-sie-wurde-zu-der-lobbyistin-die-sie-gesucht-hatte-a-fe7de63c-99b3-422c-ba08-2a6233a77a22#ref=rss)
-### sagorski
+* [https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen](https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen-a-a82dba46-f873-4224-8629-e5eb38eb18ac#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
+### hamaskommandeur
 
-* [https://www.spiegel.de/familie/natascha-sagorski-und-ihr-kampf-fuer-mutterschutz-sie-wurde-zu-der-lobbyistin-die-sie-gesucht-hatte](https://www.spiegel.de/familie/natascha-sagorski-und-ihr-kampf-fuer-mutterschutz-sie-wurde-zu-der-lobbyistin-die-sie-gesucht-hatte-a-fe7de63c-99b3-422c-ba08-2a6233a77a22#ref=rss)
-### direkt
+* [https://www.spiegel.de/ausland/israel-toetet-hamas-kommandeur-im-gazastreifen](https://www.spiegel.de/ausland/israel-toetet-hamas-kommandeur-im-gazastreifen-a-91fc58be-3513-4318-b287-bac549310707#ref=rss)
+### viele
 
-* [https://www.spiegel.de/familie/natascha-sagorski-und-ihr-kampf-fuer-mutterschutz-sie-wurde-zu-der-lobbyistin-die-sie-gesucht-hatte](https://www.spiegel.de/familie/natascha-sagorski-und-ihr-kampf-fuer-mutterschutz-sie-wurde-zu-der-lobbyistin-die-sie-gesucht-hatte-a-fe7de63c-99b3-422c-ba08-2a6233a77a22#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-sondergesandter-steve-witkoff-trifft-wolodymyr-selenskyj-in-berlin](https://www.spiegel.de/ausland/ukraine-krieg-us-sondergesandter-steve-witkoff-trifft-wolodymyr-selenskyj-in-berlin-a-c29315bc-1e9d-46b8-a276-b6bc6ffa2378#ref=rss)
-### dienst
+* [https://www.spiegel.de/ausland/israel-toetet-hamas-kommandeur-im-gazastreifen](https://www.spiegel.de/ausland/israel-toetet-hamas-kommandeur-im-gazastreifen-a-91fc58be-3513-4318-b287-bac549310707#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
+### peter
 
-* [https://www.spiegel.de/start/oeffentlicher-dienst-junge-beschaeftigte-verlassen-den-berliner-landesdienst-wieso](https://www.spiegel.de/start/oeffentlicher-dienst-junge-beschaeftigte-verlassen-den-berliner-landesdienst-wieso-a-aeb2c1cc-180d-4455-9a55-1af60b89019b#ref=rss)
-### junge
+* [https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot](https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot-a-cd0edf46-6ecb-4dce-b804-3553a721bd16#ref=rss)
+### greene
 
-* [https://www.spiegel.de/start/oeffentlicher-dienst-junge-beschaeftigte-verlassen-den-berliner-landesdienst-wieso](https://www.spiegel.de/start/oeffentlicher-dienst-junge-beschaeftigte-verlassen-den-berliner-landesdienst-wieso-a-aeb2c1cc-180d-4455-9a55-1af60b89019b#ref=rss)
-### beschäftigte
+* [https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot](https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot-a-cd0edf46-6ecb-4dce-b804-3553a721bd16#ref=rss)
+### alter
 
-* [https://www.spiegel.de/start/oeffentlicher-dienst-junge-beschaeftigte-verlassen-den-berliner-landesdienst-wieso](https://www.spiegel.de/start/oeffentlicher-dienst-junge-beschaeftigte-verlassen-den-berliner-landesdienst-wieso-a-aeb2c1cc-180d-4455-9a55-1af60b89019b#ref=rss)
-### palästinenserhilfswerk
+* [https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot](https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot-a-cd0edf46-6ecb-4dce-b804-3553a721bd16#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
+### kaars
 
-* [https://www.spiegel.de/politik/deutschland/palaestinenserhilfswerk-bundesregierung-bleibt-bei-vagen-vorwuerfen-gegen-unrwa](https://www.spiegel.de/politik/deutschland/palaestinenserhilfswerk-bundesregierung-bleibt-bei-vagen-vorwuerfen-gegen-unrwa-a-33f82ee7-3659-4bb6-865f-41ccdd9c0e90#ref=rss)
-### bleibt
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-millerntor-wird-zum-house-of-kaars](https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-millerntor-wird-zum-house-of-kaars-a-53e6fc41-7909-44db-8610-812725ab3053#ref=rss)
+### st
 
-* [https://www.spiegel.de/politik/deutschland/palaestinenserhilfswerk-bundesregierung-bleibt-bei-vagen-vorwuerfen-gegen-unrwa](https://www.spiegel.de/politik/deutschland/palaestinenserhilfswerk-bundesregierung-bleibt-bei-vagen-vorwuerfen-gegen-unrwa-a-33f82ee7-3659-4bb6-865f-41ccdd9c0e90#ref=rss)
-* [https://www.spiegel.de/ausland/kaempfe-zwischen-thailand-und-kambodscha-gehen-trotz-trumps-vermittlung-weiter](https://www.spiegel.de/ausland/kaempfe-zwischen-thailand-und-kambodscha-gehen-trotz-trumps-vermittlung-weiter-a-543fd3f1-23d1-42ca-818f-593ad2e3c639#ref=rss)
-### unrwa
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-millerntor-wird-zum-house-of-kaars](https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-millerntor-wird-zum-house-of-kaars-a-53e6fc41-7909-44db-8610-812725ab3053#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/politik/deutschland/palaestinenserhilfswerk-bundesregierung-bleibt-bei-vagen-vorwuerfen-gegen-unrwa](https://www.spiegel.de/politik/deutschland/palaestinenserhilfswerk-bundesregierung-bleibt-bei-vagen-vorwuerfen-gegen-unrwa-a-33f82ee7-3659-4bb6-865f-41ccdd9c0e90#ref=rss)
-### fußballwm
+* [https://www.spiegel.de/wissenschaft/frankreich-rund-7000-jahre-alt-120-meter-lang-archaeologen-entdecken-mauer-im-atlantik](https://www.spiegel.de/wissenschaft/frankreich-rund-7000-jahre-alt-120-meter-lang-archaeologen-entdecken-mauer-im-atlantik-a-75b5b077-56ae-4754-8d2e-d54bbc5d2fb5#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
+### küste
 
-* [https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen](https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen-a-88240735-bef7-4684-81bb-dd82c7f541f1#ref=rss)
-### 2026
+* [https://www.spiegel.de/wissenschaft/frankreich-rund-7000-jahre-alt-120-meter-lang-archaeologen-entdecken-mauer-im-atlantik](https://www.spiegel.de/wissenschaft/frankreich-rund-7000-jahre-alt-120-meter-lang-archaeologen-entdecken-mauer-im-atlantik-a-75b5b077-56ae-4754-8d2e-d54bbc5d2fb5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/venezuela-beschlagnahmter-tanker-soll-kurs-auf-asien-genommen-haben](https://www.spiegel.de/wirtschaft/venezuela-beschlagnahmter-tanker-soll-kurs-auf-asien-genommen-haben-a-c25a1fd9-1d1f-44d3-aecf-a5616a43cd29#ref=rss)
+### lehrer
 
-* [https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen](https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen-a-88240735-bef7-4684-81bb-dd82c7f541f1#ref=rss)
-### fifa
+* [https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic](https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic-a-6ec1ba08-5743-4c82-9ae5-165a81f6422b#ref=rss)
+### noah
 
-* [https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen](https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen-a-88240735-bef7-4684-81bb-dd82c7f541f1#ref=rss)
-### ticketanfragen
+* [https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic](https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic-a-6ec1ba08-5743-4c82-9ae5-165a81f6422b#ref=rss)
+### dejanović
 
-* [https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen](https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen-a-88240735-bef7-4684-81bb-dd82c7f541f1#ref=rss)
-### wolodymyr
+* [https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic](https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic-a-6ec1ba08-5743-4c82-9ae5-165a81f6422b#ref=rss)
+### gewalt
 
-* [https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin](https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin-a-0cb614a9-716b-47c9-9e55-793b7e9a7ea6#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-sondergesandter-steve-witkoff-trifft-wolodymyr-selenskyj-in-berlin](https://www.spiegel.de/ausland/ukraine-krieg-us-sondergesandter-steve-witkoff-trifft-wolodymyr-selenskyj-in-berlin-a-c29315bc-1e9d-46b8-a276-b6bc6ffa2378#ref=rss)
-### lobbyverband
+* [https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic](https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic-a-6ec1ba08-5743-4c82-9ae5-165a81f6422b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben](https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben-a-ec10f42c-14dd-458d-af7e-5ba70ac68ef2#ref=rss)
+### paris
 
-* [https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin](https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin-a-0cb614a9-716b-47c9-9e55-793b7e9a7ea6#ref=rss)
-### beschäftigt
+* [https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer](https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer-a-90dc9b60-caa2-4e4d-a464-15e94e53ba1c#ref=rss)
+### bloody
 
-* [https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin](https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin-a-0cb614a9-716b-47c9-9e55-793b7e9a7ea6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer](https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer-a-90dc9b60-caa2-4e4d-a464-15e94e53ba1c#ref=rss)
+### wednesday
+
+* [https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer](https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer-a-90dc9b60-caa2-4e4d-a464-15e94e53ba1c#ref=rss)
+### 1942
+
+* [https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer](https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer-a-90dc9b60-caa2-4e4d-a464-15e94e53ba1c#ref=rss)
+### fast
+
+* [https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer](https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer-a-90dc9b60-caa2-4e4d-a464-15e94e53ba1c#ref=rss)
+### fußballer
+
+* [https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer](https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer-a-90dc9b60-caa2-4e4d-a464-15e94e53ba1c#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer](https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer-a-90dc9b60-caa2-4e4d-a464-15e94e53ba1c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/unsere-liebsten-wissenschaftsbuecher-2025](https://www.spiegel.de/wissenschaft/unsere-liebsten-wissenschaftsbuecher-2025-a-afac40ba-ef88-43fd-8857-b513d1123402#ref=rss)
+### spielzeug
+
+* [https://www.spiegel.de/politik/verbot-von-giftigem-spielzeug-wie-gut-dass-wir-die-eu-haben-kolumne](https://www.spiegel.de/politik/verbot-von-giftigem-spielzeug-wie-gut-dass-wir-die-eu-haben-kolumne-a-f0ac5981-a361-4874-b465-40f59efa8e80#ref=rss)
+### welt
+
+* [https://www.spiegel.de/politik/verbot-von-giftigem-spielzeug-wie-gut-dass-wir-die-eu-haben-kolumne](https://www.spiegel.de/politik/verbot-von-giftigem-spielzeug-wie-gut-dass-wir-die-eu-haben-kolumne-a-f0ac5981-a361-4874-b465-40f59efa8e80#ref=rss)
+* [https://www.spiegel.de/wissenschaft/unsere-liebsten-wissenschaftsbuecher-2025](https://www.spiegel.de/wissenschaft/unsere-liebsten-wissenschaftsbuecher-2025-a-afac40ba-ef88-43fd-8857-b513d1123402#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/wissenschaft/unsere-liebsten-wissenschaftsbuecher-2025](https://www.spiegel.de/wissenschaft/unsere-liebsten-wissenschaftsbuecher-2025-a-afac40ba-ef88-43fd-8857-b513d1123402#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/wissenschaft/unsere-liebsten-wissenschaftsbuecher-2025](https://www.spiegel.de/wissenschaft/unsere-liebsten-wissenschaftsbuecher-2025-a-afac40ba-ef88-43fd-8857-b513d1123402#ref=rss)
+* [https://www.spiegel.de/wirtschaft/afd-politiker-im-wirtschaftsverband-bga-der-feind-in-den-eigenen-reihen](https://www.spiegel.de/wirtschaft/afd-politiker-im-wirtschaftsverband-bga-der-feind-in-den-eigenen-reihen-a-1be0fd2b-769b-453c-9d0e-6a8368a50702#ref=rss)
+### tanker
+
+* [https://www.spiegel.de/wirtschaft/venezuela-beschlagnahmter-tanker-soll-kurs-auf-asien-genommen-haben](https://www.spiegel.de/wirtschaft/venezuela-beschlagnahmter-tanker-soll-kurs-auf-asien-genommen-haben-a-c25a1fd9-1d1f-44d3-aecf-a5616a43cd29#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/panorama/virginia-trunksuechtigem-waschbaer-werden-mehrfache-einbrueche-vorgeworfen](https://www.spiegel.de/panorama/virginia-trunksuechtigem-waschbaer-werden-mehrfache-einbrueche-vorgeworfen-a-63ac7057-ece0-470c-ae97-857203e60499#ref=rss)
+* [https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt](https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt-a-6d1f8fa9-5d8d-4a00-b524-f04568775aba#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bestellt-mehr-als-3000-busse-ueberwiegend-bei-man](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bestellt-mehr-als-3000-busse-ueberwiegend-bei-man-a-76d7d3d0-0532-4504-a3ac-ff27d0e13d80#ref=rss)
+### weise
+
+* [https://www.spiegel.de/politik/deutschland/frank-juergen-weise-soll-co-vorsitzender-der-rentenkommission-werden](https://www.spiegel.de/politik/deutschland/frank-juergen-weise-soll-co-vorsitzender-der-rentenkommission-werden-a-14d2abe4-af00-412a-b782-ceec9f683798#ref=rss)
+### reformen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld-a-07d47bc1-3c10-4813-86ae-05815ef71514#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
+### politische
+
+* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
+### gefangene
+
+* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
+### prominente
+
+* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
+* [https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere](https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere-a-8098de54-1b84-4669-a42d-e6afcd2fcfa1#ref=rss)
+### äthiopien
+
+* [https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika](https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika-a-f3ec1712-6a34-4e42-b4b5-90449a0e289c#ref=rss)
+### wachsende
+
+* [https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika](https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika-a-f3ec1712-6a34-4e42-b4b5-90449a0e289c#ref=rss)
+* [https://www.spiegel.de/ausland/japan-rechtspopulisten-schueren-die-angst-vor-migranten-und-touristen](https://www.spiegel.de/ausland/japan-rechtspopulisten-schueren-die-angst-vor-migranten-und-touristen-a-daaa6d60-9e4c-4077-8181-e48462d8ff99#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben](https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben-a-ec10f42c-14dd-458d-af7e-5ba70ac68ef2#ref=rss)
+### demokratie
+
+* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere](https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere-a-8098de54-1b84-4669-a42d-e6afcd2fcfa1#ref=rss)
+* [https://www.spiegel.de/ausland/japan-rechtspopulisten-schueren-die-angst-vor-migranten-und-touristen](https://www.spiegel.de/ausland/japan-rechtspopulisten-schueren-die-angst-vor-migranten-und-touristen-a-daaa6d60-9e4c-4077-8181-e48462d8ff99#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere](https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere-a-8098de54-1b84-4669-a42d-e6afcd2fcfa1#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
+### emma
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
+### aicher
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
+### lindsey
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
+### vonn
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
+### beiden
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
+### touristen
+
+* [https://www.spiegel.de/ausland/japan-rechtspopulisten-schueren-die-angst-vor-migranten-und-touristen](https://www.spiegel.de/ausland/japan-rechtspopulisten-schueren-die-angst-vor-migranten-und-touristen-a-daaa6d60-9e4c-4077-8181-e48462d8ff99#ref=rss)
 ### afdpolitiker
 
-* [https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin](https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin-a-0cb614a9-716b-47c9-9e55-793b7e9a7ea6#ref=rss)
-### taylor
+* [https://www.spiegel.de/wirtschaft/afd-politiker-im-wirtschaftsverband-bga-der-feind-in-den-eigenen-reihen](https://www.spiegel.de/wirtschaft/afd-politiker-im-wirtschaftsverband-bga-der-feind-in-den-eigenen-reihen-a-1be0fd2b-769b-453c-9d0e-6a8368a50702#ref=rss)
+### bga
 
-* [https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin](https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin-a-0cb614a9-716b-47c9-9e55-793b7e9a7ea6#ref=rss)
-### swift
+* [https://www.spiegel.de/wirtschaft/afd-politiker-im-wirtschaftsverband-bga-der-feind-in-den-eigenen-reihen](https://www.spiegel.de/wirtschaft/afd-politiker-im-wirtschaftsverband-bga-der-feind-in-den-eigenen-reihen-a-1be0fd2b-769b-453c-9d0e-6a8368a50702#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin](https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin-a-0cb614a9-716b-47c9-9e55-793b7e9a7ea6#ref=rss)
-### arbeitgeberin
+* [https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben](https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben-a-ec10f42c-14dd-458d-af7e-5ba70ac68ef2#ref=rss)
+* [https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt](https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt-a-6d1f8fa9-5d8d-4a00-b524-f04568775aba#ref=rss)
+### josef
 
-* [https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin](https://www.spiegel.de/politik/deutschland/news-wolodymyr-selenskyj-in-berlin-lobbyverband-beschaeftigt-afd-politiker-taylor-swift-als-arbeitgeberin-a-0cb614a9-716b-47c9-9e55-793b7e9a7ea6#ref=rss)
-### dennis
+* [https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt](https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt-a-6d1f8fa9-5d8d-4a00-b524-f04568775aba#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/panorama/dennis-diekmeier-ex-fussballprofi-und-ehefrau-sprechen-ueber-aengste-um-krebskranke-tochter](https://www.spiegel.de/panorama/dennis-diekmeier-ex-fussballprofi-und-ehefrau-sprechen-ueber-aengste-um-krebskranke-tochter-a-b240d846-2584-43d2-b84a-5467e7e027ef#ref=rss)
-### diekmeier
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen](https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen-a-0e1fe608-7252-48c9-a415-765887a4a1c2#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/panorama/dennis-diekmeier-ex-fussballprofi-und-ehefrau-sprechen-ueber-aengste-um-krebskranke-tochter](https://www.spiegel.de/panorama/dennis-diekmeier-ex-fussballprofi-und-ehefrau-sprechen-ueber-aengste-um-krebskranke-tochter-a-b240d846-2584-43d2-b84a-5467e7e027ef#ref=rss)
-### tochter
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/panorama/dennis-diekmeier-ex-fussballprofi-und-ehefrau-sprechen-ueber-aengste-um-krebskranke-tochter](https://www.spiegel.de/panorama/dennis-diekmeier-ex-fussballprofi-und-ehefrau-sprechen-ueber-aengste-um-krebskranke-tochter-a-b240d846-2584-43d2-b84a-5467e7e027ef#ref=rss)
-### günter
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tour
 
-* [https://www.spiegel.de/panorama/immobilien-guenter-grass-anwesen-in-schleswig-holstein-steht-zum-verkauf](https://www.spiegel.de/panorama/immobilien-guenter-grass-anwesen-in-schleswig-holstein-steht-zum-verkauf-a-a00eabc7-5920-4fba-89e9-bae3972fe51f#ref=rss)
-### anwesen
+* [https://www.spiegel.de/sport/schach/schach-magnus-carlsen-ruft-eine-eigene-tour-ins-leben-es-gewinnt-magnus-carlsen](https://www.spiegel.de/sport/schach/schach-magnus-carlsen-ruft-eine-eigene-tour-ins-leben-es-gewinnt-magnus-carlsen-a-f84ce94d-85d7-4cab-872e-e034327677e0#ref=rss)
+### gewinnt
 
-* [https://www.spiegel.de/panorama/immobilien-guenter-grass-anwesen-in-schleswig-holstein-steht-zum-verkauf](https://www.spiegel.de/panorama/immobilien-guenter-grass-anwesen-in-schleswig-holstein-steht-zum-verkauf-a-a00eabc7-5920-4fba-89e9-bae3972fe51f#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/ausland/nordkorea-soldaten-aus-russland-kehren-zurueck-und-werden-begruesst](https://www.spiegel.de/ausland/nordkorea-soldaten-aus-russland-kehren-zurueck-und-werden-begruesst-a-1815d79c-dcfb-4a66-bc64-f79bd5234fd5#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-sondergesandter-steve-witkoff-trifft-wolodymyr-selenskyj-in-berlin](https://www.spiegel.de/ausland/ukraine-krieg-us-sondergesandter-steve-witkoff-trifft-wolodymyr-selenskyj-in-berlin-a-c29315bc-1e9d-46b8-a276-b6bc6ffa2378#ref=rss)
-### kämpfe
-
-* [https://www.spiegel.de/ausland/kaempfe-zwischen-thailand-und-kambodscha-gehen-trotz-trumps-vermittlung-weiter](https://www.spiegel.de/ausland/kaempfe-zwischen-thailand-und-kambodscha-gehen-trotz-trumps-vermittlung-weiter-a-543fd3f1-23d1-42ca-818f-593ad2e3c639#ref=rss)
-### thailand
-
-* [https://www.spiegel.de/ausland/kaempfe-zwischen-thailand-und-kambodscha-gehen-trotz-trumps-vermittlung-weiter](https://www.spiegel.de/ausland/kaempfe-zwischen-thailand-und-kambodscha-gehen-trotz-trumps-vermittlung-weiter-a-543fd3f1-23d1-42ca-818f-593ad2e3c639#ref=rss)
-### kambodscha
-
-* [https://www.spiegel.de/ausland/kaempfe-zwischen-thailand-und-kambodscha-gehen-trotz-trumps-vermittlung-weiter](https://www.spiegel.de/ausland/kaempfe-zwischen-thailand-und-kambodscha-gehen-trotz-trumps-vermittlung-weiter-a-543fd3f1-23d1-42ca-818f-593ad2e3c639#ref=rss)
-### witkoff
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-us-sondergesandter-steve-witkoff-trifft-wolodymyr-selenskyj-in-berlin](https://www.spiegel.de/ausland/ukraine-krieg-us-sondergesandter-steve-witkoff-trifft-wolodymyr-selenskyj-in-berlin-a-c29315bc-1e9d-46b8-a276-b6bc6ffa2378#ref=rss)
+* [https://www.spiegel.de/sport/schach/schach-magnus-carlsen-ruft-eine-eigene-tour-ins-leben-es-gewinnt-magnus-carlsen](https://www.spiegel.de/sport/schach/schach-magnus-carlsen-ruft-eine-eigene-tour-ins-leben-es-gewinnt-magnus-carlsen-a-f84ce94d-85d7-4cab-872e-e034327677e0#ref=rss)
 
