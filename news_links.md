@@ -4,327 +4,363 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### merz
+### schüsse
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld-a-07d47bc1-3c10-4813-86ae-05815ef71514#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen](https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen-a-0e1fe608-7252-48c9-a415-765887a4a1c2#ref=rss)
-### maria
-
-* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
-* [https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt](https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt-a-6d1f8fa9-5d8d-4a00-b524-f04568775aba#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bestellt-mehr-als-3000-busse-ueberwiegend-bei-man](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bestellt-mehr-als-3000-busse-ueberwiegend-bei-man-a-76d7d3d0-0532-4504-a3ac-ff27d0e13d80#ref=rss)
-* [https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika](https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika-a-f3ec1712-6a34-4e42-b4b5-90449a0e289c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben](https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben-a-ec10f42c-14dd-458d-af7e-5ba70ac68ef2#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte](https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte-a-ba029314-583d-42b4-8d72-b28afce8f4c5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
-* [https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere](https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere-a-8098de54-1b84-4669-a42d-e6afcd2fcfa1#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen](https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen-a-a82dba46-f873-4224-8629-e5eb38eb18ac#ref=rss)
-* [https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic](https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic-a-6ec1ba08-5743-4c82-9ae5-165a81f6422b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
-* [https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot](https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot-a-cd0edf46-6ecb-4dce-b804-3553a721bd16#ref=rss)
-* [https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika](https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika-a-f3ec1712-6a34-4e42-b4b5-90449a0e289c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte](https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte-a-ba029314-583d-42b4-8d72-b28afce8f4c5#ref=rss)
-* [https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere](https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere-a-8098de54-1b84-4669-a42d-e6afcd2fcfa1#ref=rss)
-### neben
-
-* [https://www.spiegel.de/politik/deutschland/frank-juergen-weise-soll-co-vorsitzender-der-rentenkommission-werden](https://www.spiegel.de/politik/deutschland/frank-juergen-weise-soll-co-vorsitzender-der-rentenkommission-werden-a-14d2abe4-af00-412a-b782-ceec9f683798#ref=rss)
-* [https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere](https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere-a-8098de54-1b84-4669-a42d-e6afcd2fcfa1#ref=rss)
-* [https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt](https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt-a-6d1f8fa9-5d8d-4a00-b524-f04568775aba#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld-a-07d47bc1-3c10-4813-86ae-05815ef71514#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen](https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen-a-0e1fe608-7252-48c9-a415-765887a4a1c2#ref=rss)
-### csuparteitag
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld-a-07d47bc1-3c10-4813-86ae-05815ef71514#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen](https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen-a-0e1fe608-7252-48c9-a415-765887a4a1c2#ref=rss)
-### belarus
-
-* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
-### kalesnikava
-
-* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
+* [https://www.spiegel.de/ausland/bondi-beach-israels-staatspraesident-isaac-herzog-spricht-von-angriff-auf-juden](https://www.spiegel.de/ausland/bondi-beach-israels-staatspraesident-isaac-herzog-spricht-von-angriff-auf-juden-a-d4b06823-93af-4895-8eb1-1213686db348#ref=rss)
+* [https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney](https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney-a-5258fc5b-6e60-47c6-98f7-03c63a4d549f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter](https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter-a-cdb5d1a0-e05f-4a54-beaa-301500ca0376#ref=rss)
+* [https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte](https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte-a-a998d951-73b1-4208-bf68-9d637948e62c#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte](https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte-a-ba029314-583d-42b4-8d72-b28afce8f4c5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/venezuela-beschlagnahmter-tanker-soll-kurs-auf-asien-genommen-haben](https://www.spiegel.de/wirtschaft/venezuela-beschlagnahmter-tanker-soll-kurs-auf-asien-genommen-haben-a-c25a1fd9-1d1f-44d3-aecf-a5616a43cd29#ref=rss)
-* [https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere](https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere-a-8098de54-1b84-4669-a42d-e6afcd2fcfa1#ref=rss)
-### bergkamen
+* [https://www.spiegel.de/kultur/studie-zum-musikhoeren-songtexte-werden-immer-einfacher-und-negativer](https://www.spiegel.de/kultur/studie-zum-musikhoeren-songtexte-werden-immer-einfacher-und-negativer-a-36a3a71f-772a-492e-b355-2521f91fa6ab#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter](https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter-a-cdb5d1a0-e05f-4a54-beaa-301500ca0376#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-droht-is-nach-ermordung-von-us-buergern-in-syrien-mit-vergeltung](https://www.spiegel.de/ausland/donald-trump-droht-is-nach-ermordung-von-us-buergern-in-syrien-mit-vergeltung-a-00a7110b-521f-43b5-8821-3732e18d1c19#ref=rss)
+* [https://www.spiegel.de/ausland/ostkongo-usa-drohen-ruanda-wegen-verstoss-gegen-friedensvertrag](https://www.spiegel.de/ausland/ostkongo-usa-drohen-ruanda-wegen-verstoss-gegen-friedensvertrag-a-0821bc7a-6719-4377-9238-ff580ca892f1#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen](https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen-a-a82dba46-f873-4224-8629-e5eb38eb18ac#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
-### vier
-
-* [https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen](https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen-a-a82dba46-f873-4224-8629-e5eb38eb18ac#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/israel-toetet-hamas-kommandeur-im-gazastreifen](https://www.spiegel.de/ausland/israel-toetet-hamas-kommandeur-im-gazastreifen-a-91fc58be-3513-4318-b287-bac549310707#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
-* [https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere](https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere-a-8098de54-1b84-4669-a42d-e6afcd2fcfa1#ref=rss)
-### gut
-
-* [https://www.spiegel.de/wissenschaft/frankreich-rund-7000-jahre-alt-120-meter-lang-archaeologen-entdecken-mauer-im-atlantik](https://www.spiegel.de/wissenschaft/frankreich-rund-7000-jahre-alt-120-meter-lang-archaeologen-entdecken-mauer-im-atlantik-a-75b5b077-56ae-4754-8d2e-d54bbc5d2fb5#ref=rss)
-* [https://www.spiegel.de/politik/verbot-von-giftigem-spielzeug-wie-gut-dass-wir-die-eu-haben-kolumne](https://www.spiegel.de/politik/verbot-von-giftigem-spielzeug-wie-gut-dass-wir-die-eu-haben-kolumne-a-f0ac5981-a361-4874-b465-40f59efa8e80#ref=rss)
-* [https://www.spiegel.de/wirtschaft/afd-politiker-im-wirtschaftsverband-bga-der-feind-in-den-eigenen-reihen](https://www.spiegel.de/wirtschaft/afd-politiker-im-wirtschaftsverband-bga-der-feind-in-den-eigenen-reihen-a-1be0fd2b-769b-453c-9d0e-6a8368a50702#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer](https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer-a-90dc9b60-caa2-4e4d-a464-15e94e53ba1c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bestellt-mehr-als-3000-busse-ueberwiegend-bei-man](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bestellt-mehr-als-3000-busse-ueberwiegend-bei-man-a-76d7d3d0-0532-4504-a3ac-ff27d0e13d80#ref=rss)
-### rede
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld-a-07d47bc1-3c10-4813-86ae-05815ef71514#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen](https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen-a-0e1fe608-7252-48c9-a415-765887a4a1c2#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld-a-07d47bc1-3c10-4813-86ae-05815ef71514#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
-### eritrea
-
-* [https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika](https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika-a-f3ec1712-6a34-4e42-b4b5-90449a0e289c#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika](https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika-a-f3ec1712-6a34-4e42-b4b5-90449a0e289c#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
-### csu
-
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben](https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben-a-ec10f42c-14dd-458d-af7e-5ba70ac68ef2#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
-* [https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt](https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt-a-6d1f8fa9-5d8d-4a00-b524-f04568775aba#ref=rss)
-### magnus
-
-* [https://www.spiegel.de/sport/schach/schach-magnus-carlsen-ruft-eine-eigene-tour-ins-leben-es-gewinnt-magnus-carlsen](https://www.spiegel.de/sport/schach/schach-magnus-carlsen-ruft-eine-eigene-tour-ins-leben-es-gewinnt-magnus-carlsen-a-f84ce94d-85d7-4cab-872e-e034327677e0#ref=rss)
-### carlsen
-
-* [https://www.spiegel.de/sport/schach/schach-magnus-carlsen-ruft-eine-eigene-tour-ins-leben-es-gewinnt-magnus-carlsen](https://www.spiegel.de/sport/schach/schach-magnus-carlsen-ruft-eine-eigene-tour-ins-leben-es-gewinnt-magnus-carlsen-a-f84ce94d-85d7-4cab-872e-e034327677e0#ref=rss)
-### machthaber
-
-* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
-### lukaschenko
-
-* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
-### ließ
-
-* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
-* [https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot](https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot-a-cd0edf46-6ecb-4dce-b804-3553a721bd16#ref=rss)
-### frei
-
-* [https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung](https://www.spiegel.de/ausland/belarus-maria-kalesnikava-ikone-der-protestbewegung-a-8d3926cc-92c6-428f-8c46-8bebf71b7483#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
-### eu
-
-* [https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte](https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte-a-ba029314-583d-42b4-8d72-b28afce8f4c5#ref=rss)
-* [https://www.spiegel.de/politik/verbot-von-giftigem-spielzeug-wie-gut-dass-wir-die-eu-haben-kolumne](https://www.spiegel.de/politik/verbot-von-giftigem-spielzeug-wie-gut-dass-wir-die-eu-haben-kolumne-a-f0ac5981-a361-4874-b465-40f59efa8e80#ref=rss)
-### machte
-
-* [https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte](https://www.spiegel.de/ausland/brasilien-und-die-usa-wie-die-eu-sich-gegen-donald-trump-wehren-koennte-a-ba029314-583d-42b4-8d72-b28afce8f4c5#ref=rss)
-* [https://www.spiegel.de/panorama/virginia-trunksuechtigem-waschbaer-werden-mehrfache-einbrueche-vorgeworfen](https://www.spiegel.de/panorama/virginia-trunksuechtigem-waschbaer-werden-mehrfache-einbrueche-vorgeworfen-a-63ac7057-ece0-470c-ae97-857203e60499#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen](https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen-a-a82dba46-f873-4224-8629-e5eb38eb18ac#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
+* [https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney](https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney-a-5258fc5b-6e60-47c6-98f7-03c63a4d549f#ref=rss)
+* [https://www.spiegel.de/partnerschaft/liebe-was-jeder-mensch-sich-bewusst-machen-sollte-wenn-er-eine-beziehung-eingeht](https://www.spiegel.de/partnerschaft/liebe-was-jeder-mensch-sich-bewusst-machen-sollte-wenn-er-eine-beziehung-eingeht-a-ba0eb460-ee57-41d2-9d69-03ec43baf6f4#ref=rss)
+* [https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte](https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte-a-a998d951-73b1-4208-bf68-9d637948e62c#ref=rss)
+* [https://www.spiegel.de/panorama/acab-day-in-berlin-500-polizisten-bei-demo-gegen-polizeigewalt](https://www.spiegel.de/panorama/acab-day-in-berlin-500-polizisten-bei-demo-gegen-polizeigewalt-a-489072f0-314d-468d-be3d-615d3afff841#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen](https://www.spiegel.de/panorama/justiz/bergkamen-tatverdaechtiger-nach-messerangriff-auf-mutter-und-drei-kinder-festgenommen-a-a82dba46-f873-4224-8629-e5eb38eb18ac#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
-### hamaskommandeur
+* [https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney](https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney-a-5258fc5b-6e60-47c6-98f7-03c63a4d549f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter](https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter-a-cdb5d1a0-e05f-4a54-beaa-301500ca0376#ref=rss)
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen](https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen-a-3e453d36-cfc5-4a88-9179-cc972ad01a6a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dingolfing-bayern-anschlagsziel-weihnachtsmarkt-polizei-nimmt-fuenf-maenner-fest](https://www.spiegel.de/panorama/justiz/dingolfing-bayern-anschlagsziel-weihnachtsmarkt-polizei-nimmt-fuenf-maenner-fest-a-e4d8916e-7291-4e02-96e1-16dee4e6eab4#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/ausland/israel-toetet-hamas-kommandeur-im-gazastreifen](https://www.spiegel.de/ausland/israel-toetet-hamas-kommandeur-im-gazastreifen-a-91fc58be-3513-4318-b287-bac549310707#ref=rss)
-### viele
+* [https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney](https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney-a-5258fc5b-6e60-47c6-98f7-03c63a4d549f#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-uno-generalsekretaer-antonio-guterres-verurteilt-toedlichen-angriff-auf-blauhelmsoldaten](https://www.spiegel.de/ausland/sudan-uno-generalsekretaer-antonio-guterres-verurteilt-toedlichen-angriff-auf-blauhelmsoldaten-a-3079f5ba-b125-40c7-939f-9745efe7019f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-droht-is-nach-ermordung-von-us-buergern-in-syrien-mit-vergeltung](https://www.spiegel.de/ausland/donald-trump-droht-is-nach-ermordung-von-us-buergern-in-syrien-mit-vergeltung-a-00a7110b-521f-43b5-8821-3732e18d1c19#ref=rss)
+* [https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte](https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte-a-a998d951-73b1-4208-bf68-9d637948e62c#ref=rss)
+### 1
 
-* [https://www.spiegel.de/ausland/israel-toetet-hamas-kommandeur-im-gazastreifen](https://www.spiegel.de/ausland/israel-toetet-hamas-kommandeur-im-gazastreifen-a-91fc58be-3513-4318-b287-bac549310707#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
-### peter
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen](https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen-a-3e453d36-cfc5-4a88-9179-cc972ad01a6a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-rhein-derby-gegen-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-rhein-derby-gegen-1-fc-koeln-a-2399c15e-38d0-42a2-bc50-914ac2014e3e#ref=rss)
+### fc
 
-* [https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot](https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot-a-cd0edf46-6ecb-4dce-b804-3553a721bd16#ref=rss)
-### greene
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen](https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen-a-3e453d36-cfc5-4a88-9179-cc972ad01a6a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-rhein-derby-gegen-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-rhein-derby-gegen-1-fc-koeln-a-2399c15e-38d0-42a2-bc50-914ac2014e3e#ref=rss)
+### köln
 
-* [https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot](https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot-a-cd0edf46-6ecb-4dce-b804-3553a721bd16#ref=rss)
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen](https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen-a-3e453d36-cfc5-4a88-9179-cc972ad01a6a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-rhein-derby-gegen-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-rhein-derby-gegen-1-fc-koeln-a-2399c15e-38d0-42a2-bc50-914ac2014e3e#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-will-in-berlin-ueber-grundlagen-des-friedens-verhandeln](https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-will-in-berlin-ueber-grundlagen-des-friedens-verhandeln-a-b60ee41d-39e2-4070-8b28-cfa70e39282d#ref=rss)
+* [https://www.spiegel.de/panorama/acab-day-in-berlin-500-polizisten-bei-demo-gegen-polizeigewalt](https://www.spiegel.de/panorama/acab-day-in-berlin-500-polizisten-bei-demo-gegen-polizeigewalt-a-489072f0-314d-468d-be3d-615d3afff841#ref=rss)
+### dartswm
+
+* [https://www.spiegel.de/sport/darts-wm-2026-opa-lim-ist-eine-runde-weiter](https://www.spiegel.de/sport/darts-wm-2026-opa-lim-ist-eine-runde-weiter-a-790a1596-1d77-4a8c-9a54-a221cd82bad7#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-in-london-ein-safe-space-fuer-maenner](https://www.spiegel.de/sport/darts-wm-in-london-ein-safe-space-fuer-maenner-a-91d121cc-96e7-437a-adf2-0c9afc9fa78a#ref=rss)
+### bondi
+
+* [https://www.spiegel.de/ausland/bondi-beach-israels-staatspraesident-isaac-herzog-spricht-von-angriff-auf-juden](https://www.spiegel.de/ausland/bondi-beach-israels-staatspraesident-isaac-herzog-spricht-von-angriff-auf-juden-a-d4b06823-93af-4895-8eb1-1213686db348#ref=rss)
+* [https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney](https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney-a-5258fc5b-6e60-47c6-98f7-03c63a4d549f#ref=rss)
+### beach
+
+* [https://www.spiegel.de/ausland/bondi-beach-israels-staatspraesident-isaac-herzog-spricht-von-angriff-auf-juden](https://www.spiegel.de/ausland/bondi-beach-israels-staatspraesident-isaac-herzog-spricht-von-angriff-auf-juden-a-d4b06823-93af-4895-8eb1-1213686db348#ref=rss)
+* [https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney](https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney-a-5258fc5b-6e60-47c6-98f7-03c63a4d549f#ref=rss)
+### sydney
+
+* [https://www.spiegel.de/ausland/bondi-beach-israels-staatspraesident-isaac-herzog-spricht-von-angriff-auf-juden](https://www.spiegel.de/ausland/bondi-beach-israels-staatspraesident-isaac-herzog-spricht-von-angriff-auf-juden-a-d4b06823-93af-4895-8eb1-1213686db348#ref=rss)
+* [https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney](https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney-a-5258fc5b-6e60-47c6-98f7-03c63a4d549f#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney](https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney-a-5258fc5b-6e60-47c6-98f7-03c63a4d549f#ref=rss)
+* [https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte](https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte-a-a998d951-73b1-4208-bf68-9d637948e62c#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney](https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney-a-5258fc5b-6e60-47c6-98f7-03c63a4d549f#ref=rss)
+* [https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte](https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte-a-a998d951-73b1-4208-bf68-9d637948e62c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dingolfing-bayern-anschlagsziel-weihnachtsmarkt-polizei-nimmt-fuenf-maenner-fest](https://www.spiegel.de/panorama/justiz/dingolfing-bayern-anschlagsziel-weihnachtsmarkt-polizei-nimmt-fuenf-maenner-fest-a-e4d8916e-7291-4e02-96e1-16dee4e6eab4#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter](https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter-a-cdb5d1a0-e05f-4a54-beaa-301500ca0376#ref=rss)
+* [https://www.spiegel.de/panorama/acab-day-in-berlin-500-polizisten-bei-demo-gegen-polizeigewalt](https://www.spiegel.de/panorama/acab-day-in-berlin-500-polizisten-bei-demo-gegen-polizeigewalt-a-489072f0-314d-468d-be3d-615d3afff841#ref=rss)
+### brown
+
+* [https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter](https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter-a-cdb5d1a0-e05f-4a54-beaa-301500ca0376#ref=rss)
+* [https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte](https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte-a-a998d951-73b1-4208-bf68-9d637948e62c#ref=rss)
+### university
+
+* [https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter](https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter-a-cdb5d1a0-e05f-4a54-beaa-301500ca0376#ref=rss)
+* [https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte](https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte-a-a998d951-73b1-4208-bf68-9d637948e62c#ref=rss)
+### fans
+
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen](https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen-a-3e453d36-cfc5-4a88-9179-cc972ad01a6a#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-in-london-ein-safe-space-fuer-maenner](https://www.spiegel.de/sport/darts-wm-in-london-ein-safe-space-fuer-maenner-a-91d121cc-96e7-437a-adf2-0c9afc9fa78a#ref=rss)
+### bayer
+
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen](https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen-a-3e453d36-cfc5-4a88-9179-cc972ad01a6a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-rhein-derby-gegen-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-rhein-derby-gegen-1-fc-koeln-a-2399c15e-38d0-42a2-bc50-914ac2014e3e#ref=rss)
+### leverkusen
+
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen](https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen-a-3e453d36-cfc5-4a88-9179-cc972ad01a6a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-rhein-derby-gegen-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-rhein-derby-gegen-1-fc-koeln-a-2399c15e-38d0-42a2-bc50-914ac2014e3e#ref=rss)
+### protest
+
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen](https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen-a-3e453d36-cfc5-4a88-9179-cc972ad01a6a#ref=rss)
+* [https://www.spiegel.de/ausland/budapest-ungarn-viktor-orbans-rivale-fuehrt-protest-gegen-mutmasslichen-kindesmissbrauch-an](https://www.spiegel.de/ausland/budapest-ungarn-viktor-orbans-rivale-fuehrt-protest-gegen-mutmasslichen-kindesmissbrauch-an-a-b984fc87-35ea-4f78-a4df-415181d02dfa#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-rhein-derby-gegen-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-rhein-derby-gegen-1-fc-koeln-a-2399c15e-38d0-42a2-bc50-914ac2014e3e#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/tests/kueche/kochtoepfe-von-wmf-elo-stur-hexclad-fuenf-modelle-fuer-grosse-runden-im-test](https://www.spiegel.de/tests/kueche/kochtoepfe-von-wmf-elo-stur-hexclad-fuenf-modelle-fuer-grosse-runden-im-test-a-933e33a8-3533-486c-881f-8343f1578f78#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dingolfing-bayern-anschlagsziel-weihnachtsmarkt-polizei-nimmt-fuenf-maenner-fest](https://www.spiegel.de/panorama/justiz/dingolfing-bayern-anschlagsziel-weihnachtsmarkt-polizei-nimmt-fuenf-maenner-fest-a-e4d8916e-7291-4e02-96e1-16dee4e6eab4#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-will-in-berlin-ueber-grundlagen-des-friedens-verhandeln](https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-will-in-berlin-ueber-grundlagen-des-friedens-verhandeln-a-b60ee41d-39e2-4070-8b28-cfa70e39282d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-droht-is-nach-ermordung-von-us-buergern-in-syrien-mit-vergeltung](https://www.spiegel.de/ausland/donald-trump-droht-is-nach-ermordung-von-us-buergern-in-syrien-mit-vergeltung-a-00a7110b-521f-43b5-8821-3732e18d1c19#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/donald-trump-droht-is-nach-ermordung-von-us-buergern-in-syrien-mit-vergeltung](https://www.spiegel.de/ausland/donald-trump-droht-is-nach-ermordung-von-us-buergern-in-syrien-mit-vergeltung-a-00a7110b-521f-43b5-8821-3732e18d1c19#ref=rss)
+* [https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte](https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte-a-a998d951-73b1-4208-bf68-9d637948e62c#ref=rss)
+### lim
+
+* [https://www.spiegel.de/sport/darts-wm-2026-opa-lim-ist-eine-runde-weiter](https://www.spiegel.de/sport/darts-wm-2026-opa-lim-ist-eine-runde-weiter-a-790a1596-1d77-4a8c-9a54-a221cd82bad7#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/justiz/dingolfing-bayern-anschlagsziel-weihnachtsmarkt-polizei-nimmt-fuenf-maenner-fest](https://www.spiegel.de/panorama/justiz/dingolfing-bayern-anschlagsziel-weihnachtsmarkt-polizei-nimmt-fuenf-maenner-fest-a-e4d8916e-7291-4e02-96e1-16dee4e6eab4#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-in-london-ein-safe-space-fuer-maenner](https://www.spiegel.de/sport/darts-wm-in-london-ein-safe-space-fuer-maenner-a-91d121cc-96e7-437a-adf2-0c9afc9fa78a#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/geschichte/kaempfende-frauen-in-der-geschichte-furie-oder-verfuehrerin](https://www.spiegel.de/geschichte/kaempfende-frauen-in-der-geschichte-furie-oder-verfuehrerin-a-aaee3877-7da8-4634-a6f1-1d809875ec46#ref=rss)
+### israels
+
+* [https://www.spiegel.de/ausland/bondi-beach-israels-staatspraesident-isaac-herzog-spricht-von-angriff-auf-juden](https://www.spiegel.de/ausland/bondi-beach-israels-staatspraesident-isaac-herzog-spricht-von-angriff-auf-juden-a-d4b06823-93af-4895-8eb1-1213686db348#ref=rss)
+### staatspräsident
+
+* [https://www.spiegel.de/ausland/bondi-beach-israels-staatspraesident-isaac-herzog-spricht-von-angriff-auf-juden](https://www.spiegel.de/ausland/bondi-beach-israels-staatspraesident-isaac-herzog-spricht-von-angriff-auf-juden-a-d4b06823-93af-4895-8eb1-1213686db348#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/bondi-beach-israels-staatspraesident-isaac-herzog-spricht-von-angriff-auf-juden](https://www.spiegel.de/ausland/bondi-beach-israels-staatspraesident-isaac-herzog-spricht-von-angriff-auf-juden-a-d4b06823-93af-4895-8eb1-1213686db348#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-uno-generalsekretaer-antonio-guterres-verurteilt-toedlichen-angriff-auf-blauhelmsoldaten](https://www.spiegel.de/ausland/sudan-uno-generalsekretaer-antonio-guterres-verurteilt-toedlichen-angriff-auf-blauhelmsoldaten-a-3079f5ba-b125-40c7-939f-9745efe7019f#ref=rss)
+### tödlichen
+
+* [https://www.spiegel.de/ausland/bondi-beach-israels-staatspraesident-isaac-herzog-spricht-von-angriff-auf-juden](https://www.spiegel.de/ausland/bondi-beach-israels-staatspraesident-isaac-herzog-spricht-von-angriff-auf-juden-a-d4b06823-93af-4895-8eb1-1213686db348#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-uno-generalsekretaer-antonio-guterres-verurteilt-toedlichen-angriff-auf-blauhelmsoldaten](https://www.spiegel.de/ausland/sudan-uno-generalsekretaer-antonio-guterres-verurteilt-toedlichen-angriff-auf-blauhelmsoldaten-a-3079f5ba-b125-40c7-939f-9745efe7019f#ref=rss)
+### studie
+
+* [https://www.spiegel.de/kultur/studie-zum-musikhoeren-songtexte-werden-immer-einfacher-und-negativer](https://www.spiegel.de/kultur/studie-zum-musikhoeren-songtexte-werden-immer-einfacher-und-negativer-a-36a3a71f-772a-492e-b355-2521f91fa6ab#ref=rss)
+### besser
+
+* [https://www.spiegel.de/kultur/studie-zum-musikhoeren-songtexte-werden-immer-einfacher-und-negativer](https://www.spiegel.de/kultur/studie-zum-musikhoeren-songtexte-werden-immer-einfacher-und-negativer-a-36a3a71f-772a-492e-b355-2521f91fa6ab#ref=rss)
+* [https://www.spiegel.de/kultur/kino/kuenstliche-intelligenz-james-cameron-findet-kuenstler-besser-als-ki](https://www.spiegel.de/kultur/kino/kuenstliche-intelligenz-james-cameron-findet-kuenstler-besser-als-ki-a-aa8b3dd0-f875-4e0a-b287-f2fdcc4e7274#ref=rss)
+### helena
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann-a-f8039425-2307-41e1-bef9-7686e8a1fe6e#ref=rss)
+### baumeister
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann-a-f8039425-2307-41e1-bef9-7686e8a1fe6e#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann-a-f8039425-2307-41e1-bef9-7686e8a1fe6e#ref=rss)
+### plaßmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann-a-f8039425-2307-41e1-bef9-7686e8a1fe6e#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann-a-f8039425-2307-41e1-bef9-7686e8a1fe6e#ref=rss)
+### stuttmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann-a-f8039425-2307-41e1-bef9-7686e8a1fe6e#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-helena-baumeister-thomas-plassmann-klaus-stuttmann-a-f8039425-2307-41e1-bef9-7686e8a1fe6e#ref=rss)
+* [https://www.spiegel.de/ausland/gefangene-aus-belarus-freigelassen-so-reagieren-friedrich-merz-und-johann-wadephul](https://www.spiegel.de/ausland/gefangene-aus-belarus-freigelassen-so-reagieren-friedrich-merz-und-johann-wadephul-a-1d3511b6-a437-4d2e-a43c-4b280202a877#ref=rss)
+### attacke
+
+* [https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney](https://www.spiegel.de/ausland/australien-schuesse-am-bondi-beach-in-sydney-a-5258fc5b-6e60-47c6-98f7-03c63a4d549f#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-uno-generalsekretaer-antonio-guterres-verurteilt-toedlichen-angriff-auf-blauhelmsoldaten](https://www.spiegel.de/ausland/sudan-uno-generalsekretaer-antonio-guterres-verurteilt-toedlichen-angriff-auf-blauhelmsoldaten-a-3079f5ba-b125-40c7-939f-9745efe7019f#ref=rss)
+### james
+
+* [https://www.spiegel.de/kultur/kino/kuenstliche-intelligenz-james-cameron-findet-kuenstler-besser-als-ki](https://www.spiegel.de/kultur/kino/kuenstliche-intelligenz-james-cameron-findet-kuenstler-besser-als-ki-a-aa8b3dd0-f875-4e0a-b287-f2fdcc4e7274#ref=rss)
+### cameron
+
+* [https://www.spiegel.de/kultur/kino/kuenstliche-intelligenz-james-cameron-findet-kuenstler-besser-als-ki](https://www.spiegel.de/kultur/kino/kuenstliche-intelligenz-james-cameron-findet-kuenstler-besser-als-ki-a-aa8b3dd0-f875-4e0a-b287-f2fdcc4e7274#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter](https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter-a-cdb5d1a0-e05f-4a54-beaa-301500ca0376#ref=rss)
+* [https://www.spiegel.de/partnerschaft/dating-im-alter-wie-finde-ich-mit-40-einen-partner-der-wirklich-passt](https://www.spiegel.de/partnerschaft/dating-im-alter-wie-finde-ich-mit-40-einen-partner-der-wirklich-passt-a-fc8f74cd-fd7a-496a-9834-97f09b3185d5#ref=rss)
+### alle
+
+* [https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter](https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter-a-cdb5d1a0-e05f-4a54-beaa-301500ca0376#ref=rss)
+* [https://www.spiegel.de/familie/alleinerziehende-in-deutschland-bessert-sich-die-situation-von-alleinerziehenden-ist-das-fuer-alle-gut](https://www.spiegel.de/familie/alleinerziehende-in-deutschland-bessert-sich-die-situation-von-alleinerziehenden-ist-das-fuer-alle-gut-a-778bef45-2338-4fca-9b2f-9e1c87e7c3eb#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter](https://www.spiegel.de/panorama/justiz/usa-toedliche-schuesse-an-eliteuni-polizei-fahndet-nach-mutmasslichem-taeter-a-cdb5d1a0-e05f-4a54-beaa-301500ca0376#ref=rss)
+* [https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte](https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte-a-a998d951-73b1-4208-bf68-9d637948e62c#ref=rss)
+### gutachten
+
+* [https://www.spiegel.de/panorama/justiz/filderklinik-prozess-gegen-klinikaerzte-tod-nach-der-zwillingsgeburt](https://www.spiegel.de/panorama/justiz/filderklinik-prozess-gegen-klinikaerzte-tod-nach-der-zwillingsgeburt-a-51588a5e-f331-4342-9915-0c78453f1cb5#ref=rss)
+### entschieden
+
+* [https://www.spiegel.de/panorama/justiz/filderklinik-prozess-gegen-klinikaerzte-tod-nach-der-zwillingsgeburt](https://www.spiegel.de/panorama/justiz/filderklinik-prozess-gegen-klinikaerzte-tod-nach-der-zwillingsgeburt-a-51588a5e-f331-4342-9915-0c78453f1cb5#ref=rss)
+* [https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-kuh-muuhnika-aka-meltem-kaptan-gewinnt-das-finale](https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-kuh-muuhnika-aka-meltem-kaptan-gewinnt-das-finale-a-fd559320-042f-400b-950d-65a8e106ecea#ref=rss)
+### offizielle
+
+* [https://www.spiegel.de/sport/schach/schach-dreijaehriger-in-indien-stellt-rekord-auf-beschwerde-beim-weltverband-fide](https://www.spiegel.de/sport/schach/schach-dreijaehriger-in-indien-stellt-rekord-auf-beschwerde-beim-weltverband-fide-a-594217f0-799f-43a5-9438-b39ae4b1d59c#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/news-umgang-mit-der-afd](https://www.spiegel.de/politik/deutschland/news-umgang-mit-der-afd-a-3b8cafe0-cbd6-42cc-8503-6dc397e40f47#ref=rss)
+### sonntag
+
+* [https://www.spiegel.de/politik/deutschland/news-umgang-mit-der-afd](https://www.spiegel.de/politik/deutschland/news-umgang-mit-der-afd-a-3b8cafe0-cbd6-42cc-8503-6dc397e40f47#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-will-in-berlin-ueber-grundlagen-des-friedens-verhandeln](https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-will-in-berlin-ueber-grundlagen-des-friedens-verhandeln-a-b60ee41d-39e2-4070-8b28-cfa70e39282d#ref=rss)
+### sudan
+
+* [https://www.spiegel.de/ausland/sudan-uno-generalsekretaer-antonio-guterres-verurteilt-toedlichen-angriff-auf-blauhelmsoldaten](https://www.spiegel.de/ausland/sudan-uno-generalsekretaer-antonio-guterres-verurteilt-toedlichen-angriff-auf-blauhelmsoldaten-a-3079f5ba-b125-40c7-939f-9745efe7019f#ref=rss)
+### blauhelmsoldaten
+
+* [https://www.spiegel.de/ausland/sudan-uno-generalsekretaer-antonio-guterres-verurteilt-toedlichen-angriff-auf-blauhelmsoldaten](https://www.spiegel.de/ausland/sudan-uno-generalsekretaer-antonio-guterres-verurteilt-toedlichen-angriff-auf-blauhelmsoldaten-a-3079f5ba-b125-40c7-939f-9745efe7019f#ref=rss)
+### acht
+
+* [https://www.spiegel.de/ausland/sudan-uno-generalsekretaer-antonio-guterres-verurteilt-toedlichen-angriff-auf-blauhelmsoldaten](https://www.spiegel.de/ausland/sudan-uno-generalsekretaer-antonio-guterres-verurteilt-toedlichen-angriff-auf-blauhelmsoldaten-a-3079f5ba-b125-40c7-939f-9745efe7019f#ref=rss)
+* [https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte](https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte-a-a998d951-73b1-4208-bf68-9d637948e62c#ref=rss)
+### reagieren
+
+* [https://www.spiegel.de/ausland/sudan-uno-generalsekretaer-antonio-guterres-verurteilt-toedlichen-angriff-auf-blauhelmsoldaten](https://www.spiegel.de/ausland/sudan-uno-generalsekretaer-antonio-guterres-verurteilt-toedlichen-angriff-auf-blauhelmsoldaten-a-3079f5ba-b125-40c7-939f-9745efe7019f#ref=rss)
+* [https://www.spiegel.de/ausland/gefangene-aus-belarus-freigelassen-so-reagieren-friedrich-merz-und-johann-wadephul](https://www.spiegel.de/ausland/gefangene-aus-belarus-freigelassen-so-reagieren-friedrich-merz-und-johann-wadephul-a-1d3511b6-a437-4d2e-a43c-4b280202a877#ref=rss)
+### ausziehen
+
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen](https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen-a-3e453d36-cfc5-4a88-9179-cc972ad01a6a#ref=rss)
+* [https://www.spiegel.de/partnerschaft/dating-im-alter-wie-finde-ich-mit-40-einen-partner-der-wirklich-passt](https://www.spiegel.de/partnerschaft/dating-im-alter-wie-finde-ich-mit-40-einen-partner-der-wirklich-passt-a-fc8f74cd-fd7a-496a-9834-97f09b3185d5#ref=rss)
+### reisten
+
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen](https://www.spiegel.de/sport/fussball/1-fc-koeln-fans-boykottieren-derby-gegen-bayer-leverkusen-wegen-angeblicher-nacktkontrollen-a-3e453d36-cfc5-4a88-9179-cc972ad01a6a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-rhein-derby-gegen-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-rhein-derby-gegen-1-fc-koeln-a-2399c15e-38d0-42a2-bc50-914ac2014e3e#ref=rss)
+### führt
+
+* [https://www.spiegel.de/ausland/modebranche-in-italien-wie-der-krieg-der-kleiderbuegel-in-der-toskana-eskaliert](https://www.spiegel.de/ausland/modebranche-in-italien-wie-der-krieg-der-kleiderbuegel-in-der-toskana-eskaliert-a-9d3ad984-8e6f-4587-9a94-ea0eafed2b39#ref=rss)
+* [https://www.spiegel.de/ausland/budapest-ungarn-viktor-orbans-rivale-fuehrt-protest-gegen-mutmasslichen-kindesmissbrauch-an](https://www.spiegel.de/ausland/budapest-ungarn-viktor-orbans-rivale-fuehrt-protest-gegen-mutmasslichen-kindesmissbrauch-an-a-b984fc87-35ea-4f78-a4df-415181d02dfa#ref=rss)
+### aufstieg
+
+* [https://www.spiegel.de/reise/mexiko-aufstieg-zum-hoechsten-vulkan-nordamerikas-pico-de-orizaba](https://www.spiegel.de/reise/mexiko-aufstieg-zum-hoechsten-vulkan-nordamerikas-pico-de-orizaba-a-459df5fe-ff81-4483-91a3-2d2f6d51607c#ref=rss)
+### nordamerikas
+
+* [https://www.spiegel.de/reise/mexiko-aufstieg-zum-hoechsten-vulkan-nordamerikas-pico-de-orizaba](https://www.spiegel.de/reise/mexiko-aufstieg-zum-hoechsten-vulkan-nordamerikas-pico-de-orizaba-a-459df5fe-ff81-4483-91a3-2d2f6d51607c#ref=rss)
+### pico
+
+* [https://www.spiegel.de/reise/mexiko-aufstieg-zum-hoechsten-vulkan-nordamerikas-pico-de-orizaba](https://www.spiegel.de/reise/mexiko-aufstieg-zum-hoechsten-vulkan-nordamerikas-pico-de-orizaba-a-459df5fe-ff81-4483-91a3-2d2f6d51607c#ref=rss)
+### de
+
+* [https://www.spiegel.de/reise/mexiko-aufstieg-zum-hoechsten-vulkan-nordamerikas-pico-de-orizaba](https://www.spiegel.de/reise/mexiko-aufstieg-zum-hoechsten-vulkan-nordamerikas-pico-de-orizaba-a-459df5fe-ff81-4483-91a3-2d2f6d51607c#ref=rss)
+### orizaba
+
+* [https://www.spiegel.de/reise/mexiko-aufstieg-zum-hoechsten-vulkan-nordamerikas-pico-de-orizaba](https://www.spiegel.de/reise/mexiko-aufstieg-zum-hoechsten-vulkan-nordamerikas-pico-de-orizaba-a-459df5fe-ff81-4483-91a3-2d2f6d51607c#ref=rss)
+### alleinerziehende
+
+* [https://www.spiegel.de/familie/alleinerziehende-in-deutschland-bessert-sich-die-situation-von-alleinerziehenden-ist-das-fuer-alle-gut](https://www.spiegel.de/familie/alleinerziehende-in-deutschland-bessert-sich-die-situation-von-alleinerziehenden-ist-das-fuer-alle-gut-a-778bef45-2338-4fca-9b2f-9e1c87e7c3eb#ref=rss)
+### modelle
+
+* [https://www.spiegel.de/tests/kueche/kochtoepfe-von-wmf-elo-stur-hexclad-fuenf-modelle-fuer-grosse-runden-im-test](https://www.spiegel.de/tests/kueche/kochtoepfe-von-wmf-elo-stur-hexclad-fuenf-modelle-fuer-grosse-runden-im-test-a-933e33a8-3533-486c-881f-8343f1578f78#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/tests/kueche/kochtoepfe-von-wmf-elo-stur-hexclad-fuenf-modelle-fuer-grosse-runden-im-test](https://www.spiegel.de/tests/kueche/kochtoepfe-von-wmf-elo-stur-hexclad-fuenf-modelle-fuer-grosse-runden-im-test-a-933e33a8-3533-486c-881f-8343f1578f78#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-will-in-berlin-ueber-grundlagen-des-friedens-verhandeln](https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-will-in-berlin-ueber-grundlagen-des-friedens-verhandeln-a-b60ee41d-39e2-4070-8b28-cfa70e39282d#ref=rss)
+### wir
+
+* [https://www.spiegel.de/tests/kueche/kochtoepfe-von-wmf-elo-stur-hexclad-fuenf-modelle-fuer-grosse-runden-im-test](https://www.spiegel.de/tests/kueche/kochtoepfe-von-wmf-elo-stur-hexclad-fuenf-modelle-fuer-grosse-runden-im-test-a-933e33a8-3533-486c-881f-8343f1578f78#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-droht-is-nach-ermordung-von-us-buergern-in-syrien-mit-vergeltung](https://www.spiegel.de/ausland/donald-trump-droht-is-nach-ermordung-von-us-buergern-in-syrien-mit-vergeltung-a-00a7110b-521f-43b5-8821-3732e18d1c19#ref=rss)
+### liebe
+
+* [https://www.spiegel.de/partnerschaft/liebe-was-jeder-mensch-sich-bewusst-machen-sollte-wenn-er-eine-beziehung-eingeht](https://www.spiegel.de/partnerschaft/liebe-was-jeder-mensch-sich-bewusst-machen-sollte-wenn-er-eine-beziehung-eingeht-a-ba0eb460-ee57-41d2-9d69-03ec43baf6f4#ref=rss)
+### wirklich
+
+* [https://www.spiegel.de/partnerschaft/liebe-was-jeder-mensch-sich-bewusst-machen-sollte-wenn-er-eine-beziehung-eingeht](https://www.spiegel.de/partnerschaft/liebe-was-jeder-mensch-sich-bewusst-machen-sollte-wenn-er-eine-beziehung-eingeht-a-ba0eb460-ee57-41d2-9d69-03ec43baf6f4#ref=rss)
+* [https://www.spiegel.de/partnerschaft/dating-im-alter-wie-finde-ich-mit-40-einen-partner-der-wirklich-passt](https://www.spiegel.de/partnerschaft/dating-im-alter-wie-finde-ich-mit-40-einen-partner-der-wirklich-passt-a-fc8f74cd-fd7a-496a-9834-97f09b3185d5#ref=rss)
 ### alter
 
-* [https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot](https://www.spiegel.de/kultur/kino/pulp-fiction-darsteller-us-schauspieler-peter-greene-ist-tot-a-cd0edf46-6ecb-4dce-b804-3553a721bd16#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft](https://www.spiegel.de/panorama/justiz/bergkamen-in-nordrhein-westfalen-mann-sticht-auf-kinder-ein-fahndung-laeuft-a-35a3069a-10d0-4bec-a087-ef3475bd43bc#ref=rss)
-### kaars
+* [https://www.spiegel.de/partnerschaft/dating-im-alter-wie-finde-ich-mit-40-einen-partner-der-wirklich-passt](https://www.spiegel.de/partnerschaft/dating-im-alter-wie-finde-ich-mit-40-einen-partner-der-wirklich-passt-a-fc8f74cd-fd7a-496a-9834-97f09b3185d5#ref=rss)
+### finde
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-millerntor-wird-zum-house-of-kaars](https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-millerntor-wird-zum-house-of-kaars-a-53e6fc41-7909-44db-8610-812725ab3053#ref=rss)
-### st
+* [https://www.spiegel.de/partnerschaft/dating-im-alter-wie-finde-ich-mit-40-einen-partner-der-wirklich-passt](https://www.spiegel.de/partnerschaft/dating-im-alter-wie-finde-ich-mit-40-einen-partner-der-wirklich-passt-a-fc8f74cd-fd7a-496a-9834-97f09b3185d5#ref=rss)
+### ich
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-millerntor-wird-zum-house-of-kaars](https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-millerntor-wird-zum-house-of-kaars-a-53e6fc41-7909-44db-8610-812725ab3053#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
-### jahre
+* [https://www.spiegel.de/partnerschaft/dating-im-alter-wie-finde-ich-mit-40-einen-partner-der-wirklich-passt](https://www.spiegel.de/partnerschaft/dating-im-alter-wie-finde-ich-mit-40-einen-partner-der-wirklich-passt-a-fc8f74cd-fd7a-496a-9834-97f09b3185d5#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/wissenschaft/frankreich-rund-7000-jahre-alt-120-meter-lang-archaeologen-entdecken-mauer-im-atlantik](https://www.spiegel.de/wissenschaft/frankreich-rund-7000-jahre-alt-120-meter-lang-archaeologen-entdecken-mauer-im-atlantik-a-75b5b077-56ae-4754-8d2e-d54bbc5d2fb5#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
-### küste
+* [https://www.spiegel.de/partnerschaft/dating-im-alter-wie-finde-ich-mit-40-einen-partner-der-wirklich-passt](https://www.spiegel.de/partnerschaft/dating-im-alter-wie-finde-ich-mit-40-einen-partner-der-wirklich-passt-a-fc8f74cd-fd7a-496a-9834-97f09b3185d5#ref=rss)
+* [https://www.spiegel.de/ausland/budapest-ungarn-viktor-orbans-rivale-fuehrt-protest-gegen-mutmasslichen-kindesmissbrauch-an](https://www.spiegel.de/ausland/budapest-ungarn-viktor-orbans-rivale-fuehrt-protest-gegen-mutmasslichen-kindesmissbrauch-an-a-b984fc87-35ea-4f78-a4df-415181d02dfa#ref=rss)
+### selenskyj
 
-* [https://www.spiegel.de/wissenschaft/frankreich-rund-7000-jahre-alt-120-meter-lang-archaeologen-entdecken-mauer-im-atlantik](https://www.spiegel.de/wissenschaft/frankreich-rund-7000-jahre-alt-120-meter-lang-archaeologen-entdecken-mauer-im-atlantik-a-75b5b077-56ae-4754-8d2e-d54bbc5d2fb5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/venezuela-beschlagnahmter-tanker-soll-kurs-auf-asien-genommen-haben](https://www.spiegel.de/wirtschaft/venezuela-beschlagnahmter-tanker-soll-kurs-auf-asien-genommen-haben-a-c25a1fd9-1d1f-44d3-aecf-a5616a43cd29#ref=rss)
-### lehrer
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-will-in-berlin-ueber-grundlagen-des-friedens-verhandeln](https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-will-in-berlin-ueber-grundlagen-des-friedens-verhandeln-a-b60ee41d-39e2-4070-8b28-cfa70e39282d#ref=rss)
+### belarus
 
-* [https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic](https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic-a-6ec1ba08-5743-4c82-9ae5-165a81f6422b#ref=rss)
-### noah
+* [https://www.spiegel.de/ausland/gefangene-aus-belarus-freigelassen-so-reagieren-friedrich-merz-und-johann-wadephul](https://www.spiegel.de/ausland/gefangene-aus-belarus-freigelassen-so-reagieren-friedrich-merz-und-johann-wadephul-a-1d3511b6-a437-4d2e-a43c-4b280202a877#ref=rss)
+### oppositionelle
 
-* [https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic](https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic-a-6ec1ba08-5743-4c82-9ae5-165a81f6422b#ref=rss)
-### dejanović
+* [https://www.spiegel.de/ausland/gefangene-aus-belarus-freigelassen-so-reagieren-friedrich-merz-und-johann-wadephul](https://www.spiegel.de/ausland/gefangene-aus-belarus-freigelassen-so-reagieren-friedrich-merz-und-johann-wadephul-a-1d3511b6-a437-4d2e-a43c-4b280202a877#ref=rss)
+* [https://www.spiegel.de/ausland/budapest-ungarn-viktor-orbans-rivale-fuehrt-protest-gegen-mutmasslichen-kindesmissbrauch-an](https://www.spiegel.de/ausland/budapest-ungarn-viktor-orbans-rivale-fuehrt-protest-gegen-mutmasslichen-kindesmissbrauch-an-a-b984fc87-35ea-4f78-a4df-415181d02dfa#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic](https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic-a-6ec1ba08-5743-4c82-9ae5-165a81f6422b#ref=rss)
-### gewalt
+* [https://www.spiegel.de/ausland/donald-trump-droht-is-nach-ermordung-von-us-buergern-in-syrien-mit-vergeltung](https://www.spiegel.de/ausland/donald-trump-droht-is-nach-ermordung-von-us-buergern-in-syrien-mit-vergeltung-a-00a7110b-521f-43b5-8821-3732e18d1c19#ref=rss)
+### droht
 
-* [https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic](https://www.spiegel.de/panorama/kindesmissbrauch-frueherkennung-durch-lehrer-ein-anliegen-von-noah-dejanovic-a-6ec1ba08-5743-4c82-9ae5-165a81f6422b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben](https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben-a-ec10f42c-14dd-458d-af7e-5ba70ac68ef2#ref=rss)
-### paris
+* [https://www.spiegel.de/ausland/donald-trump-droht-is-nach-ermordung-von-us-buergern-in-syrien-mit-vergeltung](https://www.spiegel.de/ausland/donald-trump-droht-is-nach-ermordung-von-us-buergern-in-syrien-mit-vergeltung-a-00a7110b-521f-43b5-8821-3732e18d1c19#ref=rss)
+* [https://www.spiegel.de/ausland/ostkongo-usa-drohen-ruanda-wegen-verstoss-gegen-friedensvertrag](https://www.spiegel.de/ausland/ostkongo-usa-drohen-ruanda-wegen-verstoss-gegen-friedensvertrag-a-0821bc7a-6719-4377-9238-ff580ca892f1#ref=rss)
+### syrien
 
-* [https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer](https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer-a-90dc9b60-caa2-4e4d-a464-15e94e53ba1c#ref=rss)
-### bloody
+* [https://www.spiegel.de/ausland/donald-trump-droht-is-nach-ermordung-von-us-buergern-in-syrien-mit-vergeltung](https://www.spiegel.de/ausland/donald-trump-droht-is-nach-ermordung-von-us-buergern-in-syrien-mit-vergeltung-a-00a7110b-521f-43b5-8821-3732e18d1c19#ref=rss)
+### the
 
-* [https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer](https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer-a-90dc9b60-caa2-4e4d-a464-15e94e53ba1c#ref=rss)
-### wednesday
+* [https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-kuh-muuhnika-aka-meltem-kaptan-gewinnt-das-finale](https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-kuh-muuhnika-aka-meltem-kaptan-gewinnt-das-finale-a-fd559320-042f-400b-950d-65a8e106ecea#ref=rss)
+### masked
 
-* [https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer](https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer-a-90dc9b60-caa2-4e4d-a464-15e94e53ba1c#ref=rss)
-### 1942
+* [https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-kuh-muuhnika-aka-meltem-kaptan-gewinnt-das-finale](https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-kuh-muuhnika-aka-meltem-kaptan-gewinnt-das-finale-a-fd559320-042f-400b-950d-65a8e106ecea#ref=rss)
+### singer
 
-* [https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer](https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer-a-90dc9b60-caa2-4e4d-a464-15e94e53ba1c#ref=rss)
-### fast
+* [https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-kuh-muuhnika-aka-meltem-kaptan-gewinnt-das-finale](https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-kuh-muuhnika-aka-meltem-kaptan-gewinnt-das-finale-a-fd559320-042f-400b-950d-65a8e106ecea#ref=rss)
+### kuh
 
-* [https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer](https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer-a-90dc9b60-caa2-4e4d-a464-15e94e53ba1c#ref=rss)
-### fußballer
+* [https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-kuh-muuhnika-aka-meltem-kaptan-gewinnt-das-finale](https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-kuh-muuhnika-aka-meltem-kaptan-gewinnt-das-finale-a-fd559320-042f-400b-950d-65a8e106ecea#ref=rss)
+### meltem
 
-* [https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer](https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer-a-90dc9b60-caa2-4e4d-a464-15e94e53ba1c#ref=rss)
-### deutschland
+* [https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-kuh-muuhnika-aka-meltem-kaptan-gewinnt-das-finale](https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-kuh-muuhnika-aka-meltem-kaptan-gewinnt-das-finale-a-fd559320-042f-400b-950d-65a8e106ecea#ref=rss)
+### kaptan
 
-* [https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer](https://www.spiegel.de/sport/fussball/paris-bloody-wednesday-1942-fast-vergessener-anschlag-auf-deutsche-fussballer-a-90dc9b60-caa2-4e4d-a464-15e94e53ba1c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/unsere-liebsten-wissenschaftsbuecher-2025](https://www.spiegel.de/wissenschaft/unsere-liebsten-wissenschaftsbuecher-2025-a-afac40ba-ef88-43fd-8857-b513d1123402#ref=rss)
-### spielzeug
-
-* [https://www.spiegel.de/politik/verbot-von-giftigem-spielzeug-wie-gut-dass-wir-die-eu-haben-kolumne](https://www.spiegel.de/politik/verbot-von-giftigem-spielzeug-wie-gut-dass-wir-die-eu-haben-kolumne-a-f0ac5981-a361-4874-b465-40f59efa8e80#ref=rss)
-### welt
-
-* [https://www.spiegel.de/politik/verbot-von-giftigem-spielzeug-wie-gut-dass-wir-die-eu-haben-kolumne](https://www.spiegel.de/politik/verbot-von-giftigem-spielzeug-wie-gut-dass-wir-die-eu-haben-kolumne-a-f0ac5981-a361-4874-b465-40f59efa8e80#ref=rss)
-* [https://www.spiegel.de/wissenschaft/unsere-liebsten-wissenschaftsbuecher-2025](https://www.spiegel.de/wissenschaft/unsere-liebsten-wissenschaftsbuecher-2025-a-afac40ba-ef88-43fd-8857-b513d1123402#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/wissenschaft/unsere-liebsten-wissenschaftsbuecher-2025](https://www.spiegel.de/wissenschaft/unsere-liebsten-wissenschaftsbuecher-2025-a-afac40ba-ef88-43fd-8857-b513d1123402#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wissenschaft/unsere-liebsten-wissenschaftsbuecher-2025](https://www.spiegel.de/wissenschaft/unsere-liebsten-wissenschaftsbuecher-2025-a-afac40ba-ef88-43fd-8857-b513d1123402#ref=rss)
-* [https://www.spiegel.de/wirtschaft/afd-politiker-im-wirtschaftsverband-bga-der-feind-in-den-eigenen-reihen](https://www.spiegel.de/wirtschaft/afd-politiker-im-wirtschaftsverband-bga-der-feind-in-den-eigenen-reihen-a-1be0fd2b-769b-453c-9d0e-6a8368a50702#ref=rss)
-### tanker
-
-* [https://www.spiegel.de/wirtschaft/venezuela-beschlagnahmter-tanker-soll-kurs-auf-asien-genommen-haben](https://www.spiegel.de/wirtschaft/venezuela-beschlagnahmter-tanker-soll-kurs-auf-asien-genommen-haben-a-c25a1fd9-1d1f-44d3-aecf-a5616a43cd29#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/panorama/virginia-trunksuechtigem-waschbaer-werden-mehrfache-einbrueche-vorgeworfen](https://www.spiegel.de/panorama/virginia-trunksuechtigem-waschbaer-werden-mehrfache-einbrueche-vorgeworfen-a-63ac7057-ece0-470c-ae97-857203e60499#ref=rss)
-* [https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt](https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt-a-6d1f8fa9-5d8d-4a00-b524-f04568775aba#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bestellt-mehr-als-3000-busse-ueberwiegend-bei-man](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bestellt-mehr-als-3000-busse-ueberwiegend-bei-man-a-76d7d3d0-0532-4504-a3ac-ff27d0e13d80#ref=rss)
-### weise
-
-* [https://www.spiegel.de/politik/deutschland/frank-juergen-weise-soll-co-vorsitzender-der-rentenkommission-werden](https://www.spiegel.de/politik/deutschland/frank-juergen-weise-soll-co-vorsitzender-der-rentenkommission-werden-a-14d2abe4-af00-412a-b782-ceec9f683798#ref=rss)
-### reformen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld](https://www.spiegel.de/politik/deutschland/friedrich-merz-bei-csu-parteitag-der-rambo-zambo-kanzler-bittet-um-geduld-a-07d47bc1-3c10-4813-86ae-05815ef71514#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
-### politische
-
-* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
-### gefangene
-
-* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
-### prominente
-
-* [https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei](https://www.spiegel.de/ausland/belarus-laesst-123-politische-gefangene-frei-a-33a3d4b5-f0db-4bb5-9576-1c743df66381#ref=rss)
-* [https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere](https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere-a-8098de54-1b84-4669-a42d-e6afcd2fcfa1#ref=rss)
-### äthiopien
-
-* [https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika](https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika-a-f3ec1712-6a34-4e42-b4b5-90449a0e289c#ref=rss)
-### wachsende
-
-* [https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika](https://www.spiegel.de/ausland/eritrea-und-aethiopien-wachsende-kriegsgefahr-am-horn-von-afrika-a-f3ec1712-6a34-4e42-b4b5-90449a0e289c#ref=rss)
-* [https://www.spiegel.de/ausland/japan-rechtspopulisten-schueren-die-angst-vor-migranten-und-touristen](https://www.spiegel.de/ausland/japan-rechtspopulisten-schueren-die-angst-vor-migranten-und-touristen-a-daaa6d60-9e4c-4077-8181-e48462d8ff99#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben](https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben-a-ec10f42c-14dd-458d-af7e-5ba70ac68ef2#ref=rss)
-### demokratie
-
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie](https://www.spiegel.de/politik/deutschland/csu-parteitag-kanzler-merz-fordert-reformen-und-warnt-vor-gefahren-fuer-demokratie-a-19f880c8-4646-40b2-8e70-9ba1878a3a67#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere](https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere-a-8098de54-1b84-4669-a42d-e6afcd2fcfa1#ref=rss)
-* [https://www.spiegel.de/ausland/japan-rechtspopulisten-schueren-die-angst-vor-migranten-und-touristen](https://www.spiegel.de/ausland/japan-rechtspopulisten-schueren-die-angst-vor-migranten-und-touristen-a-daaa6d60-9e4c-4077-8181-e48462d8ff99#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere](https://www.spiegel.de/ausland/usa-so-reagiert-donald-trump-auf-neue-fotos-in-der-epstein-affaere-a-8098de54-1b84-4669-a42d-e6afcd2fcfa1#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
-### emma
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
-### aicher
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
-### lindsey
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
-### vonn
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
-### beiden
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-duell-der-generationen-gegen-lindsey-vonn-a-7ec903f1-ba0d-46f9-843b-778a67a399bd#ref=rss)
-### touristen
-
-* [https://www.spiegel.de/ausland/japan-rechtspopulisten-schueren-die-angst-vor-migranten-und-touristen](https://www.spiegel.de/ausland/japan-rechtspopulisten-schueren-die-angst-vor-migranten-und-touristen-a-daaa6d60-9e4c-4077-8181-e48462d8ff99#ref=rss)
-### afdpolitiker
-
-* [https://www.spiegel.de/wirtschaft/afd-politiker-im-wirtschaftsverband-bga-der-feind-in-den-eigenen-reihen](https://www.spiegel.de/wirtschaft/afd-politiker-im-wirtschaftsverband-bga-der-feind-in-den-eigenen-reihen-a-1be0fd2b-769b-453c-9d0e-6a8368a50702#ref=rss)
-### bga
-
-* [https://www.spiegel.de/wirtschaft/afd-politiker-im-wirtschaftsverband-bga-der-feind-in-den-eigenen-reihen](https://www.spiegel.de/wirtschaft/afd-politiker-im-wirtschaftsverband-bga-der-feind-in-den-eigenen-reihen-a-1be0fd2b-769b-453c-9d0e-6a8368a50702#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben](https://www.spiegel.de/politik/deutschland/bayern-csu-fordert-hymnenpflicht-bei-zeugnisvergaben-a-ec10f42c-14dd-458d-af7e-5ba70ac68ef2#ref=rss)
-* [https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt](https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt-a-6d1f8fa9-5d8d-4a00-b524-f04568775aba#ref=rss)
-### josef
-
-* [https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt](https://www.spiegel.de/ausland/italien-gesuchter-verbrecher-stellt-sich-neben-maria-und-josef-und-wird-von-buergermeister-entdeckt-a-6d1f8fa9-5d8d-4a00-b524-f04568775aba#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen](https://www.spiegel.de/politik/deutschland/friedrich-merz-rede-auf-dem-csu-parteitag-livestream-aus-muenchen-a-0e1fe608-7252-48c9-a415-765887a4a1c2#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tour
-
-* [https://www.spiegel.de/sport/schach/schach-magnus-carlsen-ruft-eine-eigene-tour-ins-leben-es-gewinnt-magnus-carlsen](https://www.spiegel.de/sport/schach/schach-magnus-carlsen-ruft-eine-eigene-tour-ins-leben-es-gewinnt-magnus-carlsen-a-f84ce94d-85d7-4cab-872e-e034327677e0#ref=rss)
+* [https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-kuh-muuhnika-aka-meltem-kaptan-gewinnt-das-finale](https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-kuh-muuhnika-aka-meltem-kaptan-gewinnt-das-finale-a-fd559320-042f-400b-950d-65a8e106ecea#ref=rss)
 ### gewinnt
 
-* [https://www.spiegel.de/sport/schach/schach-magnus-carlsen-ruft-eine-eigene-tour-ins-leben-es-gewinnt-magnus-carlsen](https://www.spiegel.de/sport/schach/schach-magnus-carlsen-ruft-eine-eigene-tour-ins-leben-es-gewinnt-magnus-carlsen-a-f84ce94d-85d7-4cab-872e-e034327677e0#ref=rss)
+* [https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-kuh-muuhnika-aka-meltem-kaptan-gewinnt-das-finale](https://www.spiegel.de/kultur/the-masked-singer-bei-prosieben-kuh-muuhnika-aka-meltem-kaptan-gewinnt-das-finale-a-fd559320-042f-400b-950d-65a8e106ecea#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-rhein-derby-gegen-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayer-leverkusen-gewinnt-rhein-derby-gegen-1-fc-koeln-a-2399c15e-38d0-42a2-bc50-914ac2014e3e#ref=rss)
+### rhode
+
+* [https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte](https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte-a-a998d951-73b1-4208-bf68-9d637948e62c#ref=rss)
+### island
+
+* [https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte](https://www.spiegel.de/panorama/brown-university-schuesse-an-us-elite-universitaet-in-rhode-island-mindestens-zwei-tote-und-acht-verletzte-a-a998d951-73b1-4208-bf68-9d637948e62c#ref=rss)
+### ostkongo
+
+* [https://www.spiegel.de/ausland/ostkongo-usa-drohen-ruanda-wegen-verstoss-gegen-friedensvertrag](https://www.spiegel.de/ausland/ostkongo-usa-drohen-ruanda-wegen-verstoss-gegen-friedensvertrag-a-0821bc7a-6719-4377-9238-ff580ca892f1#ref=rss)
+### ruanda
+
+* [https://www.spiegel.de/ausland/ostkongo-usa-drohen-ruanda-wegen-verstoss-gegen-friedensvertrag](https://www.spiegel.de/ausland/ostkongo-usa-drohen-ruanda-wegen-verstoss-gegen-friedensvertrag-a-0821bc7a-6719-4377-9238-ff580ca892f1#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/ostkongo-usa-drohen-ruanda-wegen-verstoss-gegen-friedensvertrag](https://www.spiegel.de/ausland/ostkongo-usa-drohen-ruanda-wegen-verstoss-gegen-friedensvertrag-a-0821bc7a-6719-4377-9238-ff580ca892f1#ref=rss)
+* [https://www.spiegel.de/panorama/acab-day-in-berlin-500-polizisten-bei-demo-gegen-polizeigewalt](https://www.spiegel.de/panorama/acab-day-in-berlin-500-polizisten-bei-demo-gegen-polizeigewalt-a-489072f0-314d-468d-be3d-615d3afff841#ref=rss)
+### paul
+
+* [https://www.spiegel.de/sport/darts-wm-2026-opa-lim-ist-eine-runde-weiter](https://www.spiegel.de/sport/darts-wm-2026-opa-lim-ist-eine-runde-weiter-a-790a1596-1d77-4a8c-9a54-a221cd82bad7#ref=rss)
+### dingolfing
+
+* [https://www.spiegel.de/panorama/justiz/dingolfing-bayern-anschlagsziel-weihnachtsmarkt-polizei-nimmt-fuenf-maenner-fest](https://www.spiegel.de/panorama/justiz/dingolfing-bayern-anschlagsziel-weihnachtsmarkt-polizei-nimmt-fuenf-maenner-fest-a-e4d8916e-7291-4e02-96e1-16dee4e6eab4#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/panorama/justiz/dingolfing-bayern-anschlagsziel-weihnachtsmarkt-polizei-nimmt-fuenf-maenner-fest](https://www.spiegel.de/panorama/justiz/dingolfing-bayern-anschlagsziel-weihnachtsmarkt-polizei-nimmt-fuenf-maenner-fest-a-e4d8916e-7291-4e02-96e1-16dee4e6eab4#ref=rss)
+### weihnachtsmarkt
+
+* [https://www.spiegel.de/panorama/justiz/dingolfing-bayern-anschlagsziel-weihnachtsmarkt-polizei-nimmt-fuenf-maenner-fest](https://www.spiegel.de/panorama/justiz/dingolfing-bayern-anschlagsziel-weihnachtsmarkt-polizei-nimmt-fuenf-maenner-fest-a-e4d8916e-7291-4e02-96e1-16dee4e6eab4#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/budapest-ungarn-viktor-orbans-rivale-fuehrt-protest-gegen-mutmasslichen-kindesmissbrauch-an](https://www.spiegel.de/ausland/budapest-ungarn-viktor-orbans-rivale-fuehrt-protest-gegen-mutmasslichen-kindesmissbrauch-an-a-b984fc87-35ea-4f78-a4df-415181d02dfa#ref=rss)
+### diesen
+
+* [https://www.spiegel.de/ausland/budapest-ungarn-viktor-orbans-rivale-fuehrt-protest-gegen-mutmasslichen-kindesmissbrauch-an](https://www.spiegel.de/ausland/budapest-ungarn-viktor-orbans-rivale-fuehrt-protest-gegen-mutmasslichen-kindesmissbrauch-an-a-b984fc87-35ea-4f78-a4df-415181d02dfa#ref=rss)
+* [https://www.spiegel.de/geschichte/kaempfende-frauen-in-der-geschichte-furie-oder-verfuehrerin](https://www.spiegel.de/geschichte/kaempfende-frauen-in-der-geschichte-furie-oder-verfuehrerin-a-aaee3877-7da8-4634-a6f1-1d809875ec46#ref=rss)
+### london
+
+* [https://www.spiegel.de/sport/darts-wm-in-london-ein-safe-space-fuer-maenner](https://www.spiegel.de/sport/darts-wm-in-london-ein-safe-space-fuer-maenner-a-91d121cc-96e7-437a-adf2-0c9afc9fa78a#ref=rss)
 
