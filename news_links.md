@@ -4,387 +4,327 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/ausland/susie-wiles-stabschefin-von-donald-trump-kritisiert-ihren-chef-in-der-vanity-fair](https://www.spiegel.de/ausland/susie-wiles-stabschefin-von-donald-trump-kritisiert-ihren-chef-in-der-vanity-fair-a-6227fe06-aa42-4fa1-9b94-c73057c25537#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz-a-65950864-7334-4946-9d80-5925c830ed09#ref=rss)
-* [https://www.spiegel.de/ausland/pentagon-will-europa-kommando-der-us-streitkraefte-offenbar-herabstufen](https://www.spiegel.de/ausland/pentagon-will-europa-kommando-der-us-streitkraefte-offenbar-herabstufen-a-8b7d569b-a7d8-4376-ac68-9e764eda58bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-hat-der-us-praesident-mit-seiner-gold-card-zu-viel-versprochen](https://www.spiegel.de/wirtschaft/donald-trump-hat-der-us-praesident-mit-seiner-gold-card-zu-viel-versprochen-a-baf8839b-be18-4eb6-a10b-225445c86c25#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-bbc-wehrt-sich-gegen-seine-milliardenklage](https://www.spiegel.de/kultur/donald-trump-bbc-wehrt-sich-gegen-seine-milliardenklage-a-9d01603b-5f52-40fc-af5c-1435c375d4e3#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/susie-wiles-stabschefin-von-donald-trump-kritisiert-ihren-chef-in-der-vanity-fair](https://www.spiegel.de/ausland/susie-wiles-stabschefin-von-donald-trump-kritisiert-ihren-chef-in-der-vanity-fair-a-6227fe06-aa42-4fa1-9b94-c73057c25537#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz-a-65950864-7334-4946-9d80-5925c830ed09#ref=rss)
-* [https://www.spiegel.de/ausland/pentagon-will-europa-kommando-der-us-streitkraefte-offenbar-herabstufen](https://www.spiegel.de/ausland/pentagon-will-europa-kommando-der-us-streitkraefte-offenbar-herabstufen-a-8b7d569b-a7d8-4376-ac68-9e764eda58bc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-hat-der-us-praesident-mit-seiner-gold-card-zu-viel-versprochen](https://www.spiegel.de/wirtschaft/donald-trump-hat-der-us-praesident-mit-seiner-gold-card-zu-viel-versprochen-a-baf8839b-be18-4eb6-a10b-225445c86c25#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-bbc-wehrt-sich-gegen-seine-milliardenklage](https://www.spiegel.de/kultur/donald-trump-bbc-wehrt-sich-gegen-seine-milliardenklage-a-9d01603b-5f52-40fc-af5c-1435c375d4e3#ref=rss)
-### mitarbeiter
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-warum-der-spektakulaere-juwelendiebstahl-im-louvre-vermeidbar-war](https://www.spiegel.de/ausland/frankreich-warum-der-spektakulaere-juwelendiebstahl-im-louvre-vermeidbar-war-a-2274485c-9fe9-4e98-aaed-76ee5d611f17#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/xu-bo-chinesischer-techmilliardaer-soll-mehr-als-100-kinder-gezeugt-haben](https://www.spiegel.de/wirtschaft/xu-bo-chinesischer-techmilliardaer-soll-mehr-als-100-kinder-gezeugt-haben-a-c084a122-9909-485d-a271-6d3acb380ae7#ref=rss)
-* [https://www.spiegel.de/start/usa-deutlich-mehr-us-bewerbungen-auf-stipendien-in-deutschland](https://www.spiegel.de/start/usa-deutlich-mehr-us-bewerbungen-auf-stipendien-in-deutschland-a-23e6454a-d62f-4dbd-90c5-4fb205e08c2a#ref=rss)
-* [https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom](https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom-a-3886ba2e-3751-4d05-8b37-fda9c9541dfa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/menschenrechte-eu-parlament-stimmt-fuer-abschwaechung-des-lieferkettengesetzes](https://www.spiegel.de/wirtschaft/menschenrechte-eu-parlament-stimmt-fuer-abschwaechung-des-lieferkettengesetzes-a-f22e7020-3781-4134-b8b5-f38e009da003#ref=rss)
-### label
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### ski
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### aggu
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-sicherheitsgarantien-der-europaeer-und-moegliche-bundeswehr-beteiligung](https://www.spiegel.de/politik/deutschland/ukraine-krieg-sicherheitsgarantien-der-europaeer-und-moegliche-bundeswehr-beteiligung-a-6892e157-ced5-4dd9-b814-2b087faa6ab7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-pistorius-reagiert-auf-merz-vorstoss-zoegerlich-bei-frage-nach-deutschen-soldaten-in-der-ukraine](https://www.spiegel.de/ausland/ukraine-pistorius-reagiert-auf-merz-vorstoss-zoegerlich-bei-frage-nach-deutschen-soldaten-in-der-ukraine-a-1855445a-e42a-44bd-bd00-7e0b35f5b756#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz-a-65950864-7334-4946-9d80-5925c830ed09#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-pistorius-reagiert-auf-merz-vorstoss-zoegerlich-bei-frage-nach-deutschen-soldaten-in-der-ukraine](https://www.spiegel.de/ausland/ukraine-pistorius-reagiert-auf-merz-vorstoss-zoegerlich-bei-frage-nach-deutschen-soldaten-in-der-ukraine-a-1855445a-e42a-44bd-bd00-7e0b35f5b756#ref=rss)
-### rob
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz-a-65950864-7334-4946-9d80-5925c830ed09#ref=rss)
-* [https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom](https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom-a-3886ba2e-3751-4d05-8b37-fda9c9541dfa#ref=rss)
-### reiner
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz-a-65950864-7334-4946-9d80-5925c830ed09#ref=rss)
-* [https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom](https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom-a-3886ba2e-3751-4d05-8b37-fda9c9541dfa#ref=rss)
-### bbc
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz-a-65950864-7334-4946-9d80-5925c830ed09#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-bbc-wehrt-sich-gegen-seine-milliardenklage](https://www.spiegel.de/kultur/donald-trump-bbc-wehrt-sich-gegen-seine-milliardenklage-a-9d01603b-5f52-40fc-af5c-1435c375d4e3#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/diktatoren-im-exil-assad-in-moskau-bokassa-in-einem-franzoesischen-schloss-und-marcos-auf-hawaii](https://www.spiegel.de/panorama/diktatoren-im-exil-assad-in-moskau-bokassa-in-einem-franzoesischen-schloss-und-marcos-auf-hawaii-a-a24f42e0-aee2-4d38-b5ff-5ebca2d1d823#ref=rss)
-* [https://www.spiegel.de/ausland/pentagon-will-europa-kommando-der-us-streitkraefte-offenbar-herabstufen](https://www.spiegel.de/ausland/pentagon-will-europa-kommando-der-us-streitkraefte-offenbar-herabstufen-a-8b7d569b-a7d8-4376-ac68-9e764eda58bc#ref=rss)
-* [https://www.spiegel.de/panorama/leute/thomas-gottschalk-weihnachten-trotz-krebserkrankung-gottschalk-feiert-mit-gans-kirche-und-klavier](https://www.spiegel.de/panorama/leute/thomas-gottschalk-weihnachten-trotz-krebserkrankung-gottschalk-feiert-mit-gans-kirche-und-klavier-a-43fe6736-e824-40cc-9f64-e053368f54d9#ref=rss)
-### plant
-
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-so-plant-die-eu-kommission-die-aufweichung-des-verbots](https://www.spiegel.de/wirtschaft/verbrenner-aus-so-plant-die-eu-kommission-die-aufweichung-des-verbots-a-67558867-b2b2-48eb-a3ae-fd0145eac0e4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/rente-was-die-regierung-als-nachfolger-der-riesterrente-plant](https://www.spiegel.de/wirtschaft/service/rente-was-die-regierung-als-nachfolger-der-riesterrente-plant-a-5bb88dcc-4e3d-475b-9023-d4e4eccb9cd1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/haftbefehl-rapper-laesst-sich-laut-ehefrau-nina-anhan-die-nase-neu-machen](https://www.spiegel.de/panorama/leute/haftbefehl-rapper-laesst-sich-laut-ehefrau-nina-anhan-die-nase-neu-machen-a-21d921b3-8df7-4b6e-b5d4-f593d10c3562#ref=rss)
-### sicherheitsgarantien
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-sicherheitsgarantien-der-europaeer-und-moegliche-bundeswehr-beteiligung](https://www.spiegel.de/politik/deutschland/ukraine-krieg-sicherheitsgarantien-der-europaeer-und-moegliche-bundeswehr-beteiligung-a-6892e157-ced5-4dd9-b814-2b087faa6ab7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-pistorius-reagiert-auf-merz-vorstoss-zoegerlich-bei-frage-nach-deutschen-soldaten-in-der-ukraine](https://www.spiegel.de/ausland/ukraine-pistorius-reagiert-auf-merz-vorstoss-zoegerlich-bei-frage-nach-deutschen-soldaten-in-der-ukraine-a-1855445a-e42a-44bd-bd00-7e0b35f5b756#ref=rss)
-### usa
-
-* [https://www.spiegel.de/start/usa-deutlich-mehr-us-bewerbungen-auf-stipendien-in-deutschland](https://www.spiegel.de/start/usa-deutlich-mehr-us-bewerbungen-auf-stipendien-in-deutschland-a-23e6454a-d62f-4dbd-90c5-4fb205e08c2a#ref=rss)
-* [https://www.spiegel.de/ausland/pentagon-will-europa-kommando-der-us-streitkraefte-offenbar-herabstufen](https://www.spiegel.de/ausland/pentagon-will-europa-kommando-der-us-streitkraefte-offenbar-herabstufen-a-8b7d569b-a7d8-4376-ac68-9e764eda58bc#ref=rss)
-### gottschalk
-
-* [https://www.spiegel.de/panorama/leute/thomas-gottschalk-weihnachten-trotz-krebserkrankung-gottschalk-feiert-mit-gans-kirche-und-klavier](https://www.spiegel.de/panorama/leute/thomas-gottschalk-weihnachten-trotz-krebserkrankung-gottschalk-feiert-mit-gans-kirche-und-klavier-a-43fe6736-e824-40cc-9f64-e053368f54d9#ref=rss)
-### hessen
-
-* [https://www.spiegel.de/panorama/justiz/hessen-behoerden-durchsuchen-spielhallen-und-nagelstudios](https://www.spiegel.de/panorama/justiz/hessen-behoerden-durchsuchen-spielhallen-und-nagelstudios-a-04224ea5-1d82-49e8-bb39-0a098a1e0976#ref=rss)
-### passau
-
-* [https://www.spiegel.de/panorama/justiz/passau-deutscher-soll-sich-bei-sprachpruefung-als-afghane-ausggeben-haben](https://www.spiegel.de/panorama/justiz/passau-deutscher-soll-sich-bei-sprachpruefung-als-afghane-ausggeben-haben-a-e5c9ace5-ffcf-4e65-afeb-6f64f5050c5c#ref=rss)
-### sprachprüfung
-
-* [https://www.spiegel.de/panorama/justiz/passau-deutscher-soll-sich-bei-sprachpruefung-als-afghane-ausggeben-haben](https://www.spiegel.de/panorama/justiz/passau-deutscher-soll-sich-bei-sprachpruefung-als-afghane-ausggeben-haben-a-e5c9ace5-ffcf-4e65-afeb-6f64f5050c5c#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/panorama/justiz/passau-deutscher-soll-sich-bei-sprachpruefung-als-afghane-ausggeben-haben](https://www.spiegel.de/panorama/justiz/passau-deutscher-soll-sich-bei-sprachpruefung-als-afghane-ausggeben-haben-a-e5c9ace5-ffcf-4e65-afeb-6f64f5050c5c#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-pistorius-reagiert-auf-merz-vorstoss-zoegerlich-bei-frage-nach-deutschen-soldaten-in-der-ukraine](https://www.spiegel.de/ausland/ukraine-pistorius-reagiert-auf-merz-vorstoss-zoegerlich-bei-frage-nach-deutschen-soldaten-in-der-ukraine-a-1855445a-e42a-44bd-bd00-7e0b35f5b756#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/justiz/passau-deutscher-soll-sich-bei-sprachpruefung-als-afghane-ausggeben-haben](https://www.spiegel.de/panorama/justiz/passau-deutscher-soll-sich-bei-sprachpruefung-als-afghane-ausggeben-haben-a-e5c9ace5-ffcf-4e65-afeb-6f64f5050c5c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/haftbefehl-rapper-laesst-sich-laut-ehefrau-nina-anhan-die-nase-neu-machen](https://www.spiegel.de/panorama/leute/haftbefehl-rapper-laesst-sich-laut-ehefrau-nina-anhan-die-nase-neu-machen-a-21d921b3-8df7-4b6e-b5d4-f593d10c3562#ref=rss)
-### susie
-
-* [https://www.spiegel.de/ausland/susie-wiles-stabschefin-von-donald-trump-kritisiert-ihren-chef-in-der-vanity-fair](https://www.spiegel.de/ausland/susie-wiles-stabschefin-von-donald-trump-kritisiert-ihren-chef-in-der-vanity-fair-a-6227fe06-aa42-4fa1-9b94-c73057c25537#ref=rss)
-### wiles
-
-* [https://www.spiegel.de/ausland/susie-wiles-stabschefin-von-donald-trump-kritisiert-ihren-chef-in-der-vanity-fair](https://www.spiegel.de/ausland/susie-wiles-stabschefin-von-donald-trump-kritisiert-ihren-chef-in-der-vanity-fair-a-6227fe06-aa42-4fa1-9b94-c73057c25537#ref=rss)
-### stabschefin
-
-* [https://www.spiegel.de/ausland/susie-wiles-stabschefin-von-donald-trump-kritisiert-ihren-chef-in-der-vanity-fair](https://www.spiegel.de/ausland/susie-wiles-stabschefin-von-donald-trump-kritisiert-ihren-chef-in-der-vanity-fair-a-6227fe06-aa42-4fa1-9b94-c73057c25537#ref=rss)
-### zartmann
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### werfen
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### bamboochef
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### jung
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### lässig
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### politisch
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### korrekt
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### bamboo
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### artists
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### generation
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### z
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### plötzlich
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### künstler
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### distanz
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### sprechen
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### miserablen
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### arbeitsbedingungen
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### los
-
-* [https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast](https://www.spiegel.de/kultur/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-podcast-a-c04bacbb-970a-4eac-aac9-20da39a6aa42#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen](https://www.spiegel.de/kultur/musik/zartmann-ski-aggu-bamboo-artists-berichte-von-toxischen-verhaeltnissen-a-c7b0db86-f4f0-4154-8bac-cdb44d72fbaa#ref=rss)
-### xu
-
-* [https://www.spiegel.de/wirtschaft/xu-bo-chinesischer-techmilliardaer-soll-mehr-als-100-kinder-gezeugt-haben](https://www.spiegel.de/wirtschaft/xu-bo-chinesischer-techmilliardaer-soll-mehr-als-100-kinder-gezeugt-haben-a-c084a122-9909-485d-a271-6d3acb380ae7#ref=rss)
-### bo
-
-* [https://www.spiegel.de/wirtschaft/xu-bo-chinesischer-techmilliardaer-soll-mehr-als-100-kinder-gezeugt-haben](https://www.spiegel.de/wirtschaft/xu-bo-chinesischer-techmilliardaer-soll-mehr-als-100-kinder-gezeugt-haben-a-c084a122-9909-485d-a271-6d3acb380ae7#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/wirtschaft/xu-bo-chinesischer-techmilliardaer-soll-mehr-als-100-kinder-gezeugt-haben](https://www.spiegel.de/wirtschaft/xu-bo-chinesischer-techmilliardaer-soll-mehr-als-100-kinder-gezeugt-haben-a-c084a122-9909-485d-a271-6d3acb380ae7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/rente-was-die-regierung-als-nachfolger-der-riesterrente-plant](https://www.spiegel.de/wirtschaft/service/rente-was-die-regierung-als-nachfolger-der-riesterrente-plant-a-5bb88dcc-4e3d-475b-9023-d4e4eccb9cd1#ref=rss)
-### australien
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz-a-65950864-7334-4946-9d80-5925c830ed09#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz-a-65950864-7334-4946-9d80-5925c830ed09#ref=rss)
-### niederlage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz](https://www.spiegel.de/politik/deutschland/news-des-tages-terror-in-australien-donald-trump-friedrich-merz-a-65950864-7334-4946-9d80-5925c830ed09#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kylian-mbappe-paris-saint-germain-muss-ihm-61-millionen-euro-nachzahlen](https://www.spiegel.de/sport/fussball/kylian-mbappe-paris-saint-germain-muss-ihm-61-millionen-euro-nachzahlen-a-8fcfdbf8-0d74-4a88-991b-fa2fbeea8610#ref=rss)
-### fahrt
-
-* [https://www.spiegel.de/panorama/soltau-jugendlicher-stirbt-nach-fahrt-auf-der-motorhaube](https://www.spiegel.de/panorama/soltau-jugendlicher-stirbt-nach-fahrt-auf-der-motorhaube-a-76e80191-83b4-486e-909b-773bd64a0ea3#ref=rss)
-### motorhaube
-
-* [https://www.spiegel.de/panorama/soltau-jugendlicher-stirbt-nach-fahrt-auf-der-motorhaube](https://www.spiegel.de/panorama/soltau-jugendlicher-stirbt-nach-fahrt-auf-der-motorhaube-a-76e80191-83b4-486e-909b-773bd64a0ea3#ref=rss)
-### jugendliche
-
-* [https://www.spiegel.de/panorama/soltau-jugendlicher-stirbt-nach-fahrt-auf-der-motorhaube](https://www.spiegel.de/panorama/soltau-jugendlicher-stirbt-nach-fahrt-auf-der-motorhaube-a-76e80191-83b4-486e-909b-773bd64a0ea3#ref=rss)
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-afd-will-kommunalpolitiker-wegen-demuetigung-von-jugendlichen-rauswerfen](https://www.spiegel.de/politik/mecklenburg-vorpommern-afd-will-kommunalpolitiker-wegen-demuetigung-von-jugendlichen-rauswerfen-a-9cfc8c0b-1413-4405-947e-dd6b3afaf6e2#ref=rss)
-### liverpool
-
-* [https://www.spiegel.de/panorama/justiz/liverpool-bei-meisterfeier-in-menge-gerast-autofahrer-muss-lange-in-haft](https://www.spiegel.de/panorama/justiz/liverpool-bei-meisterfeier-in-menge-gerast-autofahrer-muss-lange-in-haft-a-ad9f9711-ddd1-4a3c-8759-48e81a9fbafc#ref=rss)
-### meisterfeier
-
-* [https://www.spiegel.de/panorama/justiz/liverpool-bei-meisterfeier-in-menge-gerast-autofahrer-muss-lange-in-haft](https://www.spiegel.de/panorama/justiz/liverpool-bei-meisterfeier-in-menge-gerast-autofahrer-muss-lange-in-haft-a-ad9f9711-ddd1-4a3c-8759-48e81a9fbafc#ref=rss)
-### menge
-
-* [https://www.spiegel.de/panorama/justiz/liverpool-bei-meisterfeier-in-menge-gerast-autofahrer-muss-lange-in-haft](https://www.spiegel.de/panorama/justiz/liverpool-bei-meisterfeier-in-menge-gerast-autofahrer-muss-lange-in-haft-a-ad9f9711-ddd1-4a3c-8759-48e81a9fbafc#ref=rss)
-### lange
-
-* [https://www.spiegel.de/panorama/justiz/liverpool-bei-meisterfeier-in-menge-gerast-autofahrer-muss-lange-in-haft](https://www.spiegel.de/panorama/justiz/liverpool-bei-meisterfeier-in-menge-gerast-autofahrer-muss-lange-in-haft-a-ad9f9711-ddd1-4a3c-8759-48e81a9fbafc#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/liverpool-bei-meisterfeier-in-menge-gerast-autofahrer-muss-lange-in-haft](https://www.spiegel.de/panorama/justiz/liverpool-bei-meisterfeier-in-menge-gerast-autofahrer-muss-lange-in-haft-a-ad9f9711-ddd1-4a3c-8759-48e81a9fbafc#ref=rss)
-* [https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom](https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom-a-3886ba2e-3751-4d05-8b37-fda9c9541dfa#ref=rss)
-### wagen
-
-* [https://www.spiegel.de/panorama/justiz/liverpool-bei-meisterfeier-in-menge-gerast-autofahrer-muss-lange-in-haft](https://www.spiegel.de/panorama/justiz/liverpool-bei-meisterfeier-in-menge-gerast-autofahrer-muss-lange-in-haft-a-ad9f9711-ddd1-4a3c-8759-48e81a9fbafc#ref=rss)
-* [https://www.spiegel.de/auto/deutsche-bahn-so-reist-man-im-ice-l](https://www.spiegel.de/auto/deutsche-bahn-so-reist-man-im-ice-l-a-a62d5561-b872-4085-8573-f1a9ca8198c5#ref=rss)
-### exil
-
-* [https://www.spiegel.de/panorama/diktatoren-im-exil-assad-in-moskau-bokassa-in-einem-franzoesischen-schloss-und-marcos-auf-hawaii](https://www.spiegel.de/panorama/diktatoren-im-exil-assad-in-moskau-bokassa-in-einem-franzoesischen-schloss-und-marcos-auf-hawaii-a-a24f42e0-aee2-4d38-b5ff-5ebca2d1d823#ref=rss)
-### eukommission
-
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-so-plant-die-eu-kommission-die-aufweichung-des-verbots](https://www.spiegel.de/wirtschaft/verbrenner-aus-so-plant-die-eu-kommission-die-aufweichung-des-verbots-a-67558867-b2b2-48eb-a3ae-fd0145eac0e4#ref=rss)
-### serbien
-
-* [https://www.spiegel.de/ausland/serbien-hotelprojekt-von-trump-schwiegersohn-jared-kushner-in-belgrad-abgesagt](https://www.spiegel.de/ausland/serbien-hotelprojekt-von-trump-schwiegersohn-jared-kushner-in-belgrad-abgesagt-a-27efc273-bda6-4034-bc9a-cbb25a3e4b3d#ref=rss)
-### jared
-
-* [https://www.spiegel.de/ausland/serbien-hotelprojekt-von-trump-schwiegersohn-jared-kushner-in-belgrad-abgesagt](https://www.spiegel.de/ausland/serbien-hotelprojekt-von-trump-schwiegersohn-jared-kushner-in-belgrad-abgesagt-a-27efc273-bda6-4034-bc9a-cbb25a3e4b3d#ref=rss)
-### belgrad
-
-* [https://www.spiegel.de/ausland/serbien-hotelprojekt-von-trump-schwiegersohn-jared-kushner-in-belgrad-abgesagt](https://www.spiegel.de/ausland/serbien-hotelprojekt-von-trump-schwiegersohn-jared-kushner-in-belgrad-abgesagt-a-27efc273-bda6-4034-bc9a-cbb25a3e4b3d#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/serbien-hotelprojekt-von-trump-schwiegersohn-jared-kushner-in-belgrad-abgesagt](https://www.spiegel.de/ausland/serbien-hotelprojekt-von-trump-schwiegersohn-jared-kushner-in-belgrad-abgesagt-a-27efc273-bda6-4034-bc9a-cbb25a3e4b3d#ref=rss)
-* [https://www.spiegel.de/start/usa-deutlich-mehr-us-bewerbungen-auf-stipendien-in-deutschland](https://www.spiegel.de/start/usa-deutlich-mehr-us-bewerbungen-auf-stipendien-in-deutschland-a-23e6454a-d62f-4dbd-90c5-4fb205e08c2a#ref=rss)
-### riesterrente
-
-* [https://www.spiegel.de/wirtschaft/service/rente-was-die-regierung-als-nachfolger-der-riesterrente-plant](https://www.spiegel.de/wirtschaft/service/rente-was-die-regierung-als-nachfolger-der-riesterrente-plant-a-5bb88dcc-4e3d-475b-9023-d4e4eccb9cd1#ref=rss)
-### weg
-
-* [https://www.spiegel.de/wirtschaft/service/rente-was-die-regierung-als-nachfolger-der-riesterrente-plant](https://www.spiegel.de/wirtschaft/service/rente-was-die-regierung-als-nachfolger-der-riesterrente-plant-a-5bb88dcc-4e3d-475b-9023-d4e4eccb9cd1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-hat-der-us-praesident-mit-seiner-gold-card-zu-viel-versprochen](https://www.spiegel.de/wirtschaft/donald-trump-hat-der-us-praesident-mit-seiner-gold-card-zu-viel-versprochen-a-baf8839b-be18-4eb6-a10b-225445c86c25#ref=rss)
-### europäer
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-sicherheitsgarantien-der-europaeer-und-moegliche-bundeswehr-beteiligung](https://www.spiegel.de/politik/deutschland/ukraine-krieg-sicherheitsgarantien-der-europaeer-und-moegliche-bundeswehr-beteiligung-a-6892e157-ced5-4dd9-b814-2b087faa6ab7#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/auto/flughafen-berlin-brandenburg-moeglicher-ausbau-des-ber-stoesst-auf-kritik](https://www.spiegel.de/auto/flughafen-berlin-brandenburg-moeglicher-ausbau-des-ber-stoesst-auf-kritik-a-69756095-f996-4ab0-ae68-43c60a22718f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-sicherheitsbedenken-wegen-afd-abgeordnetem-bei-eu-delegation](https://www.spiegel.de/politik/deutschland/ukraine-sicherheitsbedenken-wegen-afd-abgeordnetem-bei-eu-delegation-a-299e4db3-721d-4f28-8da0-df4d8637d760#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys](https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys-a-a356436c-73e6-422f-aa3a-7e3343fec415#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus](https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus-a-fc6ec9a0-2a8c-4924-b198-9fe4e3c80e90#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/start/usa-deutlich-mehr-us-bewerbungen-auf-stipendien-in-deutschland](https://www.spiegel.de/start/usa-deutlich-mehr-us-bewerbungen-auf-stipendien-in-deutschland-a-23e6454a-d62f-4dbd-90c5-4fb205e08c2a#ref=rss)
-### sieht
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut](https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut-a-de174215-edb9-4509-bf7a-5199ddadbc9e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen](https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen-a-170c4fae-70a4-484c-88aa-8b639565e450#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen-a-4f7cf25f-9845-4bef-a19f-b02c2d162138#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus](https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus-a-fc6ec9a0-2a8c-4924-b198-9fe4e3c80e90#ref=rss)
+### ich
 
-* [https://www.spiegel.de/start/usa-deutlich-mehr-us-bewerbungen-auf-stipendien-in-deutschland](https://www.spiegel.de/start/usa-deutlich-mehr-us-bewerbungen-auf-stipendien-in-deutschland-a-23e6454a-d62f-4dbd-90c5-4fb205e08c2a#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-pistorius-reagiert-auf-merz-vorstoss-zoegerlich-bei-frage-nach-deutschen-soldaten-in-der-ukraine](https://www.spiegel.de/ausland/ukraine-pistorius-reagiert-auf-merz-vorstoss-zoegerlich-bei-frage-nach-deutschen-soldaten-in-der-ukraine-a-1855445a-e42a-44bd-bd00-7e0b35f5b756#ref=rss)
-### setzte
+* [https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist](https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist-a-242f1fd1-2048-4519-a0ea-483c8517be33#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt](https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt-a-fac6406e-d788-4d66-9d26-b16616ccc7f7#ref=rss)
+### bondi
 
-* [https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom](https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom-a-3886ba2e-3751-4d05-8b37-fda9c9541dfa#ref=rss)
-### harry
+* [https://www.spiegel.de/ausland/bondi-beach-ueberlebender-attentaeter-wegen-15-fachen-mordes-angeklagt](https://www.spiegel.de/ausland/bondi-beach-ueberlebender-attentaeter-wegen-15-fachen-mordes-angeklagt-a-f3d60bf9-563d-4325-97ca-1448251b93c6#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt](https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt-a-fac6406e-d788-4d66-9d26-b16616ccc7f7#ref=rss)
+### beach
 
-* [https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom](https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom-a-3886ba2e-3751-4d05-8b37-fda9c9541dfa#ref=rss)
-### sally
+* [https://www.spiegel.de/ausland/bondi-beach-ueberlebender-attentaeter-wegen-15-fachen-mordes-angeklagt](https://www.spiegel.de/ausland/bondi-beach-ueberlebender-attentaeter-wegen-15-fachen-mordes-angeklagt-a-f3d60bf9-563d-4325-97ca-1448251b93c6#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt](https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt-a-fac6406e-d788-4d66-9d26-b16616ccc7f7#ref=rss)
+### tesla
 
-* [https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom](https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom-a-3886ba2e-3751-4d05-8b37-fda9c9541dfa#ref=rss)
-### maßstäbe
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen-a-4f7cf25f-9845-4bef-a19f-b02c2d162138#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-droht-tesla-mit-einmonatigem-verkaufsstopp](https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-droht-tesla-mit-einmonatigem-verkaufsstopp-a-5326e214-a781-4be5-93a2-f68eba7f0178#ref=rss)
+### wirklich
 
-* [https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom](https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom-a-3886ba2e-3751-4d05-8b37-fda9c9541dfa#ref=rss)
-### zwei
+* [https://www.spiegel.de/gesundheit/vitamin-d-im-winter-wann-das-nahrungsergaenzungsmitteln-wirklich-sinnvoll-ist](https://www.spiegel.de/gesundheit/vitamin-d-im-winter-wann-das-nahrungsergaenzungsmitteln-wirklich-sinnvoll-ist-a-ee42611c-1106-40b9-ad4f-bf93e22da017#ref=rss)
+* [https://www.spiegel.de/wirtschaft/apotheken-protest-bundesweite-aktion-zur-wirtschaftlichen-lage-der-apotheken](https://www.spiegel.de/wirtschaft/apotheken-protest-bundesweite-aktion-zur-wirtschaftlichen-lage-der-apotheken-a-e606bbd1-065b-4178-beac-76d7e5fe12f6#ref=rss)
+### lage
 
-* [https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom](https://www.spiegel.de/kultur/kino/rob-reiner-setzte-mit-harry-und-sally-massstaebe-die-vollendete-romcom-a-3886ba2e-3751-4d05-8b37-fda9c9541dfa#ref=rss)
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-afd-will-kommunalpolitiker-wegen-demuetigung-von-jugendlichen-rauswerfen](https://www.spiegel.de/politik/mecklenburg-vorpommern-afd-will-kommunalpolitiker-wegen-demuetigung-von-jugendlichen-rauswerfen-a-9cfc8c0b-1413-4405-947e-dd6b3afaf6e2#ref=rss)
-### haftbefehl
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut](https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut-a-de174215-edb9-4509-bf7a-5199ddadbc9e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/apotheken-protest-bundesweite-aktion-zur-wirtschaftlichen-lage-der-apotheken](https://www.spiegel.de/wirtschaft/apotheken-protest-bundesweite-aktion-zur-wirtschaftlichen-lage-der-apotheken-a-e606bbd1-065b-4178-beac-76d7e5fe12f6#ref=rss)
+### diesem
 
-* [https://www.spiegel.de/panorama/leute/haftbefehl-rapper-laesst-sich-laut-ehefrau-nina-anhan-die-nase-neu-machen](https://www.spiegel.de/panorama/leute/haftbefehl-rapper-laesst-sich-laut-ehefrau-nina-anhan-die-nase-neu-machen-a-21d921b3-8df7-4b6e-b5d4-f593d10c3562#ref=rss)
-### rapper
+* [https://www.spiegel.de/wirtschaft/apotheken-protest-bundesweite-aktion-zur-wirtschaftlichen-lage-der-apotheken](https://www.spiegel.de/wirtschaft/apotheken-protest-bundesweite-aktion-zur-wirtschaftlichen-lage-der-apotheken-a-e606bbd1-065b-4178-beac-76d7e5fe12f6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen-a-4f7cf25f-9845-4bef-a19f-b02c2d162138#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/aktien-gold-bitcoin-was-in-diesem-jahr-aus-10-000-euro-wurde](https://www.spiegel.de/wirtschaft/service/aktien-gold-bitcoin-was-in-diesem-jahr-aus-10-000-euro-wurde-a-b4bcadbf-a4e5-4783-b507-d253951376f2#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/leute/haftbefehl-rapper-laesst-sich-laut-ehefrau-nina-anhan-die-nase-neu-machen](https://www.spiegel.de/panorama/leute/haftbefehl-rapper-laesst-sich-laut-ehefrau-nina-anhan-die-nase-neu-machen-a-21d921b3-8df7-4b6e-b5d4-f593d10c3562#ref=rss)
-### ehefrau
+* [https://www.spiegel.de/wirtschaft/unternehmen/ki-unternehmen-openai-amazon-erwaegt-offenbar-milliarden-investition](https://www.spiegel.de/wirtschaft/unternehmen/ki-unternehmen-openai-amazon-erwaegt-offenbar-milliarden-investition-a-e5d702c4-e489-4775-91a8-aba6e8ab836a#ref=rss)
+* [https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird](https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird-a-90b02578-68db-45f2-93c8-d62b2b310285#ref=rss)
+* [https://www.spiegel.de/politik/europaparlament-gruene-verlangen-merz-eingreifen-gegen-rechte-mehrheit](https://www.spiegel.de/politik/europaparlament-gruene-verlangen-merz-eingreifen-gegen-rechte-mehrheit-a-8e43d2f3-948b-4e7c-a83b-bba5566f2f92#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/panorama/leute/haftbefehl-rapper-laesst-sich-laut-ehefrau-nina-anhan-die-nase-neu-machen](https://www.spiegel.de/panorama/leute/haftbefehl-rapper-laesst-sich-laut-ehefrau-nina-anhan-die-nase-neu-machen-a-21d921b3-8df7-4b6e-b5d4-f593d10c3562#ref=rss)
-### nina
+* [https://www.spiegel.de/politik/europaparlament-gruene-verlangen-merz-eingreifen-gegen-rechte-mehrheit](https://www.spiegel.de/politik/europaparlament-gruene-verlangen-merz-eingreifen-gegen-rechte-mehrheit-a-8e43d2f3-948b-4e7c-a83b-bba5566f2f92#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus](https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus-a-fc6ec9a0-2a8c-4924-b198-9fe4e3c80e90#ref=rss)
+### merz
 
-* [https://www.spiegel.de/panorama/leute/haftbefehl-rapper-laesst-sich-laut-ehefrau-nina-anhan-die-nase-neu-machen](https://www.spiegel.de/panorama/leute/haftbefehl-rapper-laesst-sich-laut-ehefrau-nina-anhan-die-nase-neu-machen-a-21d921b3-8df7-4b6e-b5d4-f593d10c3562#ref=rss)
-### anhan
+* [https://www.spiegel.de/politik/europaparlament-gruene-verlangen-merz-eingreifen-gegen-rechte-mehrheit](https://www.spiegel.de/politik/europaparlament-gruene-verlangen-merz-eingreifen-gegen-rechte-mehrheit-a-8e43d2f3-948b-4e7c-a83b-bba5566f2f92#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus](https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus-a-fc6ec9a0-2a8c-4924-b198-9fe4e3c80e90#ref=rss)
+### björn
 
-* [https://www.spiegel.de/panorama/leute/haftbefehl-rapper-laesst-sich-laut-ehefrau-nina-anhan-die-nase-neu-machen](https://www.spiegel.de/panorama/leute/haftbefehl-rapper-laesst-sich-laut-ehefrau-nina-anhan-die-nase-neu-machen-a-21d921b3-8df7-4b6e-b5d4-f593d10c3562#ref=rss)
-### zeigt
+* [https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd](https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd-a-f7610528-6912-474c-b0e3-fc8f0d237853#ref=rss)
+### höcke
 
-* [https://www.spiegel.de/panorama/leute/haftbefehl-rapper-laesst-sich-laut-ehefrau-nina-anhan-die-nase-neu-machen](https://www.spiegel.de/panorama/leute/haftbefehl-rapper-laesst-sich-laut-ehefrau-nina-anhan-die-nase-neu-machen-a-21d921b3-8df7-4b6e-b5d4-f593d10c3562#ref=rss)
-* [https://www.spiegel.de/ausland/brigitte-macron-bedauert-beleidigung-von-feministinnen](https://www.spiegel.de/ausland/brigitte-macron-bedauert-beleidigung-von-feministinnen-a-ef226b2d-3ac2-4828-96c9-d6f36ab3d672#ref=rss)
-### pentagon
+* [https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd](https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd-a-f7610528-6912-474c-b0e3-fc8f0d237853#ref=rss)
+### konflikt
 
-* [https://www.spiegel.de/ausland/pentagon-will-europa-kommando-der-us-streitkraefte-offenbar-herabstufen](https://www.spiegel.de/ausland/pentagon-will-europa-kommando-der-us-streitkraefte-offenbar-herabstufen-a-8b7d569b-a7d8-4376-ac68-9e764eda58bc#ref=rss)
-### unter
+* [https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd](https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd-a-f7610528-6912-474c-b0e3-fc8f0d237853#ref=rss)
+### rüdiger
 
-* [https://www.spiegel.de/ausland/frankreich-warum-der-spektakulaere-juwelendiebstahl-im-louvre-vermeidbar-war](https://www.spiegel.de/ausland/frankreich-warum-der-spektakulaere-juwelendiebstahl-im-louvre-vermeidbar-war-a-2274485c-9fe9-4e98-aaed-76ee5d611f17#ref=rss)
-* [https://www.spiegel.de/wirtschaft/menschenrechte-eu-parlament-stimmt-fuer-abschwaechung-des-lieferkettengesetzes](https://www.spiegel.de/wirtschaft/menschenrechte-eu-parlament-stimmt-fuer-abschwaechung-des-lieferkettengesetzes-a-f22e7020-3781-4134-b8b5-f38e009da003#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd](https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd-a-f7610528-6912-474c-b0e3-fc8f0d237853#ref=rss)
+### lucassen
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-hat-der-us-praesident-mit-seiner-gold-card-zu-viel-versprochen](https://www.spiegel.de/wirtschaft/donald-trump-hat-der-us-praesident-mit-seiner-gold-card-zu-viel-versprochen-a-baf8839b-be18-4eb6-a10b-225445c86c25#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-bbc-wehrt-sich-gegen-seine-milliardenklage](https://www.spiegel.de/kultur/donald-trump-bbc-wehrt-sich-gegen-seine-milliardenklage-a-9d01603b-5f52-40fc-af5c-1435c375d4e3#ref=rss)
-### gold
+* [https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd](https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd-a-f7610528-6912-474c-b0e3-fc8f0d237853#ref=rss)
+### eskaliert
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-hat-der-us-praesident-mit-seiner-gold-card-zu-viel-versprochen](https://www.spiegel.de/wirtschaft/donald-trump-hat-der-us-praesident-mit-seiner-gold-card-zu-viel-versprochen-a-baf8839b-be18-4eb6-a10b-225445c86c25#ref=rss)
-### card
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-hat-der-us-praesident-mit-seiner-gold-card-zu-viel-versprochen](https://www.spiegel.de/wirtschaft/donald-trump-hat-der-us-praesident-mit-seiner-gold-card-zu-viel-versprochen-a-baf8839b-be18-4eb6-a10b-225445c86c25#ref=rss)
-### pistorius
-
-* [https://www.spiegel.de/ausland/ukraine-pistorius-reagiert-auf-merz-vorstoss-zoegerlich-bei-frage-nach-deutschen-soldaten-in-der-ukraine](https://www.spiegel.de/ausland/ukraine-pistorius-reagiert-auf-merz-vorstoss-zoegerlich-bei-frage-nach-deutschen-soldaten-in-der-ukraine-a-1855445a-e42a-44bd-bd00-7e0b35f5b756#ref=rss)
-### reagiert
-
-* [https://www.spiegel.de/ausland/ukraine-pistorius-reagiert-auf-merz-vorstoss-zoegerlich-bei-frage-nach-deutschen-soldaten-in-der-ukraine](https://www.spiegel.de/ausland/ukraine-pistorius-reagiert-auf-merz-vorstoss-zoegerlich-bei-frage-nach-deutschen-soldaten-in-der-ukraine-a-1855445a-e42a-44bd-bd00-7e0b35f5b756#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-bbc-wehrt-sich-gegen-seine-milliardenklage](https://www.spiegel.de/kultur/donald-trump-bbc-wehrt-sich-gegen-seine-milliardenklage-a-9d01603b-5f52-40fc-af5c-1435c375d4e3#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/auto/deutsche-bahn-so-reist-man-im-ice-l](https://www.spiegel.de/auto/deutsche-bahn-so-reist-man-im-ice-l-a-a62d5561-b872-4085-8573-f1a9ca8198c5#ref=rss)
-### ice
-
-* [https://www.spiegel.de/auto/deutsche-bahn-so-reist-man-im-ice-l](https://www.spiegel.de/auto/deutsche-bahn-so-reist-man-im-ice-l-a-a62d5561-b872-4085-8573-f1a9ca8198c5#ref=rss)
-### vilnius
-
-* [https://www.spiegel.de/reise/europa/staedtereise-vilnius-litauen-die-weihnachtshauptstadt-am-rande-der-eu](https://www.spiegel.de/reise/europa/staedtereise-vilnius-litauen-die-weihnachtshauptstadt-am-rande-der-eu-a-f05463ae-f64a-454a-9559-e3dcb3b9208f#ref=rss)
-### menschenrechte
-
-* [https://www.spiegel.de/wirtschaft/menschenrechte-eu-parlament-stimmt-fuer-abschwaechung-des-lieferkettengesetzes](https://www.spiegel.de/wirtschaft/menschenrechte-eu-parlament-stimmt-fuer-abschwaechung-des-lieferkettengesetzes-a-f22e7020-3781-4134-b8b5-f38e009da003#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/menschenrechte-eu-parlament-stimmt-fuer-abschwaechung-des-lieferkettengesetzes](https://www.spiegel.de/wirtschaft/menschenrechte-eu-parlament-stimmt-fuer-abschwaechung-des-lieferkettengesetzes-a-f22e7020-3781-4134-b8b5-f38e009da003#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kylian-mbappe-paris-saint-germain-muss-ihm-61-millionen-euro-nachzahlen](https://www.spiegel.de/sport/fussball/kylian-mbappe-paris-saint-germain-muss-ihm-61-millionen-euro-nachzahlen-a-8fcfdbf8-0d74-4a88-991b-fa2fbeea8610#ref=rss)
-### kylian
-
-* [https://www.spiegel.de/sport/fussball/kylian-mbappe-paris-saint-germain-muss-ihm-61-millionen-euro-nachzahlen](https://www.spiegel.de/sport/fussball/kylian-mbappe-paris-saint-germain-muss-ihm-61-millionen-euro-nachzahlen-a-8fcfdbf8-0d74-4a88-991b-fa2fbeea8610#ref=rss)
-### mbappé
-
-* [https://www.spiegel.de/sport/fussball/kylian-mbappe-paris-saint-germain-muss-ihm-61-millionen-euro-nachzahlen](https://www.spiegel.de/sport/fussball/kylian-mbappe-paris-saint-germain-muss-ihm-61-millionen-euro-nachzahlen-a-8fcfdbf8-0d74-4a88-991b-fa2fbeea8610#ref=rss)
-### paris
-
-* [https://www.spiegel.de/sport/fussball/kylian-mbappe-paris-saint-germain-muss-ihm-61-millionen-euro-nachzahlen](https://www.spiegel.de/sport/fussball/kylian-mbappe-paris-saint-germain-muss-ihm-61-millionen-euro-nachzahlen-a-8fcfdbf8-0d74-4a88-991b-fa2fbeea8610#ref=rss)
-### saintgermain
-
-* [https://www.spiegel.de/sport/fussball/kylian-mbappe-paris-saint-germain-muss-ihm-61-millionen-euro-nachzahlen](https://www.spiegel.de/sport/fussball/kylian-mbappe-paris-saint-germain-muss-ihm-61-millionen-euro-nachzahlen-a-8fcfdbf8-0d74-4a88-991b-fa2fbeea8610#ref=rss)
+* [https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd](https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd-a-f7610528-6912-474c-b0e3-fc8f0d237853#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-afd-will-kommunalpolitiker-wegen-demuetigung-von-jugendlichen-rauswerfen](https://www.spiegel.de/politik/mecklenburg-vorpommern-afd-will-kommunalpolitiker-wegen-demuetigung-von-jugendlichen-rauswerfen-a-9cfc8c0b-1413-4405-947e-dd6b3afaf6e2#ref=rss)
-### kommunalpolitiker
+* [https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd](https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd-a-f7610528-6912-474c-b0e3-fc8f0d237853#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-afd-will-kommunalpolitiker-wegen-demuetigung-von-jugendlichen-rauswerfen](https://www.spiegel.de/politik/mecklenburg-vorpommern-afd-will-kommunalpolitiker-wegen-demuetigung-von-jugendlichen-rauswerfen-a-9cfc8c0b-1413-4405-947e-dd6b3afaf6e2#ref=rss)
-### rauswerfen
+* [https://www.spiegel.de/wirtschaft/soziales/kabinett-beschliesst-neue-grundsicherung-buergergeld-wird-abgeschafft](https://www.spiegel.de/wirtschaft/soziales/kabinett-beschliesst-neue-grundsicherung-buergergeld-wird-abgeschafft-a-ea2dd567-172d-4688-a6b2-d6e07b81b43e#ref=rss)
+* [https://www.spiegel.de/kultur/kino/avatar-fire-and-ash-nichts-neues-unter-der-sonne-und-den-vierzehn-monden-von-pandora](https://www.spiegel.de/kultur/kino/avatar-fire-and-ash-nichts-neues-unter-der-sonne-und-den-vierzehn-monden-von-pandora-a-98acfd6f-75b5-44cf-ac4c-97662a7b038a#ref=rss)
+### künftig
 
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-afd-will-kommunalpolitiker-wegen-demuetigung-von-jugendlichen-rauswerfen](https://www.spiegel.de/politik/mecklenburg-vorpommern-afd-will-kommunalpolitiker-wegen-demuetigung-von-jugendlichen-rauswerfen-a-9cfc8c0b-1413-4405-947e-dd6b3afaf6e2#ref=rss)
-### thomas
+* [https://www.spiegel.de/wirtschaft/soziales/kabinett-beschliesst-neue-grundsicherung-buergergeld-wird-abgeschafft](https://www.spiegel.de/wirtschaft/soziales/kabinett-beschliesst-neue-grundsicherung-buergergeld-wird-abgeschafft-a-ea2dd567-172d-4688-a6b2-d6e07b81b43e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen-a-4f7cf25f-9845-4bef-a19f-b02c2d162138#ref=rss)
+### wann
 
-* [https://www.spiegel.de/panorama/leute/thomas-gottschalk-weihnachten-trotz-krebserkrankung-gottschalk-feiert-mit-gans-kirche-und-klavier](https://www.spiegel.de/panorama/leute/thomas-gottschalk-weihnachten-trotz-krebserkrankung-gottschalk-feiert-mit-gans-kirche-und-klavier-a-43fe6736-e824-40cc-9f64-e053368f54d9#ref=rss)
-### krebserkrankung
+* [https://www.spiegel.de/gesundheit/vitamin-d-im-winter-wann-das-nahrungsergaenzungsmitteln-wirklich-sinnvoll-ist](https://www.spiegel.de/gesundheit/vitamin-d-im-winter-wann-das-nahrungsergaenzungsmitteln-wirklich-sinnvoll-ist-a-ee42611c-1106-40b9-ad4f-bf93e22da017#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-pflege-gesundheit-so-viel-kostet-der-reformstau-ihre-generation](https://www.spiegel.de/wirtschaft/soziales/rente-pflege-gesundheit-so-viel-kostet-der-reformstau-ihre-generation-a-e1e9b2c7-e8b5-4d79-9454-0a2a4ac2f9df#ref=rss)
+### reformen
 
-* [https://www.spiegel.de/panorama/leute/thomas-gottschalk-weihnachten-trotz-krebserkrankung-gottschalk-feiert-mit-gans-kirche-und-klavier](https://www.spiegel.de/panorama/leute/thomas-gottschalk-weihnachten-trotz-krebserkrankung-gottschalk-feiert-mit-gans-kirche-und-klavier-a-43fe6736-e824-40cc-9f64-e053368f54d9#ref=rss)
-### brigitte
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut](https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut-a-de174215-edb9-4509-bf7a-5199ddadbc9e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-pflege-gesundheit-so-viel-kostet-der-reformstau-ihre-generation](https://www.spiegel.de/wirtschaft/soziales/rente-pflege-gesundheit-so-viel-kostet-der-reformstau-ihre-generation-a-e1e9b2c7-e8b5-4d79-9454-0a2a4ac2f9df#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/ausland/brigitte-macron-bedauert-beleidigung-von-feministinnen](https://www.spiegel.de/ausland/brigitte-macron-bedauert-beleidigung-von-feministinnen-a-ef226b2d-3ac2-4828-96c9-d6f36ab3d672#ref=rss)
-### macron
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut](https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut-a-de174215-edb9-4509-bf7a-5199ddadbc9e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen](https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen-a-170c4fae-70a4-484c-88aa-8b639565e450#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/ausland/brigitte-macron-bedauert-beleidigung-von-feministinnen](https://www.spiegel.de/ausland/brigitte-macron-bedauert-beleidigung-von-feministinnen-a-ef226b2d-3ac2-4828-96c9-d6f36ab3d672#ref=rss)
-### feministinnen
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut](https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut-a-de174215-edb9-4509-bf7a-5199ddadbc9e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen](https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen-a-170c4fae-70a4-484c-88aa-8b639565e450#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/ausland/brigitte-macron-bedauert-beleidigung-von-feministinnen](https://www.spiegel.de/ausland/brigitte-macron-bedauert-beleidigung-von-feministinnen-a-ef226b2d-3ac2-4828-96c9-d6f36ab3d672#ref=rss)
-### privaten
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut](https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut-a-de174215-edb9-4509-bf7a-5199ddadbc9e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-droht-tesla-mit-einmonatigem-verkaufsstopp](https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-droht-tesla-mit-einmonatigem-verkaufsstopp-a-5326e214-a781-4be5-93a2-f68eba7f0178#ref=rss)
+### mittwoch
 
-* [https://www.spiegel.de/ausland/brigitte-macron-bedauert-beleidigung-von-feministinnen](https://www.spiegel.de/ausland/brigitte-macron-bedauert-beleidigung-von-feministinnen-a-ef226b2d-3ac2-4828-96c9-d6f36ab3d672#ref=rss)
+* [https://www.spiegel.de/wirtschaft/apotheken-protest-bundesweite-aktion-zur-wirtschaftlichen-lage-der-apotheken](https://www.spiegel.de/wirtschaft/apotheken-protest-bundesweite-aktion-zur-wirtschaftlichen-lage-der-apotheken-a-e606bbd1-065b-4178-beac-76d7e5fe12f6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen-a-4f7cf25f-9845-4bef-a19f-b02c2d162138#ref=rss)
+### weihnachten
+
+* [https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist](https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist-a-242f1fd1-2048-4519-a0ea-483c8517be33#ref=rss)
+### musik
+
+* [https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist](https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist-a-242f1fd1-2048-4519-a0ea-483c8517be33#ref=rss)
+### wichtigste
+
+* [https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist](https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist-a-242f1fd1-2048-4519-a0ea-483c8517be33#ref=rss)
+### fest
+
+* [https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist](https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist-a-242f1fd1-2048-4519-a0ea-483c8517be33#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist](https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist-a-242f1fd1-2048-4519-a0ea-483c8517be33#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/aktien-gold-bitcoin-was-in-diesem-jahr-aus-10-000-euro-wurde](https://www.spiegel.de/wirtschaft/service/aktien-gold-bitcoin-was-in-diesem-jahr-aus-10-000-euro-wurde-a-b4bcadbf-a4e5-4783-b507-d253951376f2#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/wissenschaft/leibarzt-von-friedrich-wilhelm-archaeologen-entdecken-skelette-im-garten](https://www.spiegel.de/wissenschaft/leibarzt-von-friedrich-wilhelm-archaeologen-entdecken-skelette-im-garten-a-b0c37540-1ccd-4d05-8317-af395e315121#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus](https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus-a-fc6ec9a0-2a8c-4924-b198-9fe4e3c80e90#ref=rss)
+### archäologen
+
+* [https://www.spiegel.de/wissenschaft/leibarzt-von-friedrich-wilhelm-archaeologen-entdecken-skelette-im-garten](https://www.spiegel.de/wissenschaft/leibarzt-von-friedrich-wilhelm-archaeologen-entdecken-skelette-im-garten-a-b0c37540-1ccd-4d05-8317-af395e315121#ref=rss)
+### skelette
+
+* [https://www.spiegel.de/wissenschaft/leibarzt-von-friedrich-wilhelm-archaeologen-entdecken-skelette-im-garten](https://www.spiegel.de/wissenschaft/leibarzt-von-friedrich-wilhelm-archaeologen-entdecken-skelette-im-garten-a-b0c37540-1ccd-4d05-8317-af395e315121#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/wissenschaft/leibarzt-von-friedrich-wilhelm-archaeologen-entdecken-skelette-im-garten](https://www.spiegel.de/wissenschaft/leibarzt-von-friedrich-wilhelm-archaeologen-entdecken-skelette-im-garten-a-b0c37540-1ccd-4d05-8317-af395e315121#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-15-jaehriger-soll-versucht-haben-polizisten-umzufahren](https://www.spiegel.de/panorama/justiz/gelsenkirchen-15-jaehriger-soll-versucht-haben-polizisten-umzufahren-a-4923c7d1-0f55-4a0f-9e29-dd4008f2decb#ref=rss)
+### sonne
+
+* [https://www.spiegel.de/kultur/kino/oscar-shortlists-in-die-sonne-schauen-als-bester-auslandsfilm-weiter-im-rennen](https://www.spiegel.de/kultur/kino/oscar-shortlists-in-die-sonne-schauen-als-bester-auslandsfilm-weiter-im-rennen-a-74e96b03-761c-4b4f-a843-03ee027221df#ref=rss)
+* [https://www.spiegel.de/kultur/kino/avatar-fire-and-ash-nichts-neues-unter-der-sonne-und-den-vierzehn-monden-von-pandora](https://www.spiegel.de/kultur/kino/avatar-fire-and-ash-nichts-neues-unter-der-sonne-und-den-vierzehn-monden-von-pandora-a-98acfd6f-75b5-44cf-ac4c-97662a7b038a#ref=rss)
+### unter
+
+* [https://www.spiegel.de/kultur/kino/oscar-shortlists-in-die-sonne-schauen-als-bester-auslandsfilm-weiter-im-rennen](https://www.spiegel.de/kultur/kino/oscar-shortlists-in-die-sonne-schauen-als-bester-auslandsfilm-weiter-im-rennen-a-74e96b03-761c-4b4f-a843-03ee027221df#ref=rss)
+* [https://www.spiegel.de/kultur/kino/avatar-fire-and-ash-nichts-neues-unter-der-sonne-und-den-vierzehn-monden-von-pandora](https://www.spiegel.de/kultur/kino/avatar-fire-and-ash-nichts-neues-unter-der-sonne-und-den-vierzehn-monden-von-pandora-a-98acfd6f-75b5-44cf-ac4c-97662a7b038a#ref=rss)
+### geschafft
+
+* [https://www.spiegel.de/kultur/kino/oscar-shortlists-in-die-sonne-schauen-als-bester-auslandsfilm-weiter-im-rennen](https://www.spiegel.de/kultur/kino/oscar-shortlists-in-die-sonne-schauen-als-bester-auslandsfilm-weiter-im-rennen-a-74e96b03-761c-4b4f-a843-03ee027221df#ref=rss)
+* [https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte](https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte-a-eb8129e7-2101-4434-bc32-06ade498846a#ref=rss)
+### nhl
+
+* [https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte](https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte-a-eb8129e7-2101-4434-bc32-06ade498846a#ref=rss)
+### leon
+
+* [https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte](https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte-a-eb8129e7-2101-4434-bc32-06ade498846a#ref=rss)
+### draisaitl
+
+* [https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte](https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte-a-eb8129e7-2101-4434-bc32-06ade498846a#ref=rss)
+### erster
+
+* [https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte](https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte-a-eb8129e7-2101-4434-bc32-06ade498846a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/verhandlungstaktik-erste-angebote-in-verhandlungen-abwarten-oder-handeln](https://www.spiegel.de/wirtschaft/service/verhandlungstaktik-erste-angebote-in-verhandlungen-abwarten-oder-handeln-a-d35355cb-6bbf-4719-b296-38a064ad4d03#ref=rss)
+### deutscher
+
+* [https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte](https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte-a-eb8129e7-2101-4434-bc32-06ade498846a#ref=rss)
+### 1000
+
+* [https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte](https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte-a-eb8129e7-2101-4434-bc32-06ade498846a#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte](https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte-a-eb8129e7-2101-4434-bc32-06ade498846a#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter-a-76b358dc-3a1e-4cf1-9e8e-719d369a8704#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/wirtschaft/soziales/rente-pflege-gesundheit-so-viel-kostet-der-reformstau-ihre-generation](https://www.spiegel.de/wirtschaft/soziales/rente-pflege-gesundheit-so-viel-kostet-der-reformstau-ihre-generation-a-e1e9b2c7-e8b5-4d79-9454-0a2a4ac2f9df#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys](https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys-a-a356436c-73e6-422f-aa3a-7e3343fec415#ref=rss)
+### openai
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ki-unternehmen-openai-amazon-erwaegt-offenbar-milliarden-investition](https://www.spiegel.de/wirtschaft/unternehmen/ki-unternehmen-openai-amazon-erwaegt-offenbar-milliarden-investition-a-e5d702c4-e489-4775-91a8-aba6e8ab836a#ref=rss)
+### amazon
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ki-unternehmen-openai-amazon-erwaegt-offenbar-milliarden-investition](https://www.spiegel.de/wirtschaft/unternehmen/ki-unternehmen-openai-amazon-erwaegt-offenbar-milliarden-investition-a-e5d702c4-e489-4775-91a8-aba6e8ab836a#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ki-unternehmen-openai-amazon-erwaegt-offenbar-milliarden-investition](https://www.spiegel.de/wirtschaft/unternehmen/ki-unternehmen-openai-amazon-erwaegt-offenbar-milliarden-investition-a-e5d702c4-e489-4775-91a8-aba6e8ab836a#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys](https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys-a-a356436c-73e6-422f-aa3a-7e3343fec415#ref=rss)
+### veltins
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/malzbier-markt-veltins-uebernimmt-karamalz](https://www.spiegel.de/wirtschaft/unternehmen/malzbier-markt-veltins-uebernimmt-karamalz-a-d23bda54-e2fe-4bb8-9261-ea7603a69384#ref=rss)
+### karamalz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/malzbier-markt-veltins-uebernimmt-karamalz](https://www.spiegel.de/wirtschaft/unternehmen/malzbier-markt-veltins-uebernimmt-karamalz-a-d23bda54-e2fe-4bb8-9261-ea7603a69384#ref=rss)
+### gelsenkirchen
+
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-15-jaehriger-soll-versucht-haben-polizisten-umzufahren](https://www.spiegel.de/panorama/justiz/gelsenkirchen-15-jaehriger-soll-versucht-haben-polizisten-umzufahren-a-4923c7d1-0f55-4a0f-9e29-dd4008f2decb#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-15-jaehriger-soll-versucht-haben-polizisten-umzufahren](https://www.spiegel.de/panorama/justiz/gelsenkirchen-15-jaehriger-soll-versucht-haben-polizisten-umzufahren-a-4923c7d1-0f55-4a0f-9e29-dd4008f2decb#ref=rss)
+### mordes
+
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-15-jaehriger-soll-versucht-haben-polizisten-umzufahren](https://www.spiegel.de/panorama/justiz/gelsenkirchen-15-jaehriger-soll-versucht-haben-polizisten-umzufahren-a-4923c7d1-0f55-4a0f-9e29-dd4008f2decb#ref=rss)
+* [https://www.spiegel.de/ausland/bondi-beach-ueberlebender-attentaeter-wegen-15-fachen-mordes-angeklagt](https://www.spiegel.de/ausland/bondi-beach-ueberlebender-attentaeter-wegen-15-fachen-mordes-angeklagt-a-f3d60bf9-563d-4325-97ca-1448251b93c6#ref=rss)
+### susie
+
+* [https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird](https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird-a-90b02578-68db-45f2-93c8-d62b2b310285#ref=rss)
+### wiles
+
+* [https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird](https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird-a-90b02578-68db-45f2-93c8-d62b2b310285#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird](https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird-a-90b02578-68db-45f2-93c8-d62b2b310285#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix](https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix-a-9bca0e30-fed5-4ecb-bda2-e8ca7537f737#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird](https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird-a-90b02578-68db-45f2-93c8-d62b2b310285#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys](https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys-a-a356436c-73e6-422f-aa3a-7e3343fec415#ref=rss)
+### oecd
+
+* [https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen](https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen-a-170c4fae-70a4-484c-88aa-8b639565e450#ref=rss)
+### platz
+
+* [https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen](https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen-a-170c4fae-70a4-484c-88aa-8b639565e450#ref=rss)
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona-a-5cee141e-c198-4e41-8a2b-6b30ad5d011b#ref=rss)
+### welt
+
+* [https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen](https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen-a-170c4fae-70a4-484c-88aa-8b639565e450#ref=rss)
+* [https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt](https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt-a-fac6406e-d788-4d66-9d26-b16616ccc7f7#ref=rss)
+### verändern
+
+* [https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen](https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen-a-170c4fae-70a4-484c-88aa-8b639565e450#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys](https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys-a-a356436c-73e6-422f-aa3a-7e3343fec415#ref=rss)
+### eudelegation
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-sicherheitsbedenken-wegen-afd-abgeordnetem-bei-eu-delegation](https://www.spiegel.de/politik/deutschland/ukraine-sicherheitsbedenken-wegen-afd-abgeordnetem-bei-eu-delegation-a-299e4db3-721d-4f28-8da0-df4d8637d760#ref=rss)
+### per
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-sicherheitsbedenken-wegen-afd-abgeordnetem-bei-eu-delegation](https://www.spiegel.de/politik/deutschland/ukraine-sicherheitsbedenken-wegen-afd-abgeordnetem-bei-eu-delegation-a-299e4db3-721d-4f28-8da0-df4d8637d760#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys](https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys-a-a356436c-73e6-422f-aa3a-7e3343fec415#ref=rss)
+### attentäter
+
+* [https://www.spiegel.de/ausland/bondi-beach-ueberlebender-attentaeter-wegen-15-fachen-mordes-angeklagt](https://www.spiegel.de/ausland/bondi-beach-ueberlebender-attentaeter-wegen-15-fachen-mordes-angeklagt-a-f3d60bf9-563d-4325-97ca-1448251b93c6#ref=rss)
+### australien
+
+* [https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt](https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt-a-fac6406e-d788-4d66-9d26-b16616ccc7f7#ref=rss)
+### klar
+
+* [https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt](https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt-a-fac6406e-d788-4d66-9d26-b16616ccc7f7#ref=rss)
+* [https://www.spiegel.de/politik/europaparlament-gruene-verlangen-merz-eingreifen-gegen-rechte-mehrheit](https://www.spiegel.de/politik/europaparlament-gruene-verlangen-merz-eingreifen-gegen-rechte-mehrheit-a-8e43d2f3-948b-4e7c-a83b-bba5566f2f92#ref=rss)
+### marcandré
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona-a-5cee141e-c198-4e41-8a2b-6b30ad5d011b#ref=rss)
+### ter
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona-a-5cee141e-c198-4e41-8a2b-6b30ad5d011b#ref=rss)
+### stegen
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona-a-5cee141e-c198-4e41-8a2b-6b30ad5d011b#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona-a-5cee141e-c198-4e41-8a2b-6b30ad5d011b#ref=rss)
+### barcelona
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona-a-5cee141e-c198-4e41-8a2b-6b30ad5d011b#ref=rss)
+### ricardo
+
+* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter-a-76b358dc-3a1e-4cf1-9e8e-719d369a8704#ref=rss)
+### pietreczko
+
+* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter-a-76b358dc-3a1e-4cf1-9e8e-719d369a8704#ref=rss)
+### augen
+
+* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter-a-76b358dc-3a1e-4cf1-9e8e-719d369a8704#ref=rss)
+* [https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet](https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet-a-7a86496b-737a-4dfe-92fc-840297b6aba5#ref=rss)
+### überraschend
+
+* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter-a-76b358dc-3a1e-4cf1-9e8e-719d369a8704#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/aktien-gold-bitcoin-was-in-diesem-jahr-aus-10-000-euro-wurde](https://www.spiegel.de/wirtschaft/service/aktien-gold-bitcoin-was-in-diesem-jahr-aus-10-000-euro-wurde-a-b4bcadbf-a4e5-4783-b507-d253951376f2#ref=rss)
+### gwyneth
+
+* [https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet](https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet-a-7a86496b-737a-4dfe-92fc-840297b6aba5#ref=rss)
+### paltrow
+
+* [https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet](https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet-a-7a86496b-737a-4dfe-92fc-840297b6aba5#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet](https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet-a-7a86496b-737a-4dfe-92fc-840297b6aba5#ref=rss)
+### timothée
+
+* [https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet](https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet-a-7a86496b-737a-4dfe-92fc-840297b6aba5#ref=rss)
+### chalamet
+
+* [https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet](https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet-a-7a86496b-737a-4dfe-92fc-840297b6aba5#ref=rss)
+### warner
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix](https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix-a-9bca0e30-fed5-4ecb-bda2-e8ca7537f737#ref=rss)
+### jared
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix](https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix-a-9bca0e30-fed5-4ecb-bda2-e8ca7537f737#ref=rss)
+### kushner
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix](https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix-a-9bca0e30-fed5-4ecb-bda2-e8ca7537f737#ref=rss)
+### zieht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix](https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix-a-9bca0e30-fed5-4ecb-bda2-e8ca7537f737#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix](https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix-a-9bca0e30-fed5-4ecb-bda2-e8ca7537f737#ref=rss)
+### erste
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys](https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys-a-a356436c-73e6-422f-aa3a-7e3343fec415#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/verhandlungstaktik-erste-angebote-in-verhandlungen-abwarten-oder-handeln](https://www.spiegel.de/wirtschaft/service/verhandlungstaktik-erste-angebote-in-verhandlungen-abwarten-oder-handeln-a-d35355cb-6bbf-4719-b296-38a064ad4d03#ref=rss)
+### europa
+
+* [https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus](https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus-a-fc6ec9a0-2a8c-4924-b198-9fe4e3c80e90#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/aktien-gold-bitcoin-was-in-diesem-jahr-aus-10-000-euro-wurde](https://www.spiegel.de/wirtschaft/service/aktien-gold-bitcoin-was-in-diesem-jahr-aus-10-000-euro-wurde-a-b4bcadbf-a4e5-4783-b507-d253951376f2#ref=rss)
+### abwarten
+
+* [https://www.spiegel.de/wirtschaft/service/verhandlungstaktik-erste-angebote-in-verhandlungen-abwarten-oder-handeln](https://www.spiegel.de/wirtschaft/service/verhandlungstaktik-erste-angebote-in-verhandlungen-abwarten-oder-handeln-a-d35355cb-6bbf-4719-b296-38a064ad4d03#ref=rss)
+### kalifornien
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-droht-tesla-mit-einmonatigem-verkaufsstopp](https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-droht-tesla-mit-einmonatigem-verkaufsstopp-a-5326e214-a781-4be5-93a2-f68eba7f0178#ref=rss)
+### droht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-droht-tesla-mit-einmonatigem-verkaufsstopp](https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-droht-tesla-mit-einmonatigem-verkaufsstopp-a-5326e214-a781-4be5-93a2-f68eba7f0178#ref=rss)
 
