@@ -4,327 +4,347 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ukraine
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-sicherheitsbedenken-wegen-afd-abgeordnetem-bei-eu-delegation](https://www.spiegel.de/politik/deutschland/ukraine-sicherheitsbedenken-wegen-afd-abgeordnetem-bei-eu-delegation-a-299e4db3-721d-4f28-8da0-df4d8637d760#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys](https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys-a-a356436c-73e6-422f-aa3a-7e3343fec415#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus](https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus-a-fc6ec9a0-2a8c-4924-b198-9fe4e3c80e90#ref=rss)
+* [https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund](https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund-a-5c164c1d-cf29-40f2-b5ea-c15a734a2685#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben](https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben-a-10c42a28-3505-47e3-9617-d3fb4c609ef3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-neue-gesetze-fuer-gefaengnisse-wegen-misshandlungsvorwuerfen](https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-neue-gesetze-fuer-gefaengnisse-wegen-misshandlungsvorwuerfen-a-d92d9be3-dccd-4e05-9ca9-a8695b25cbd7#ref=rss)
+* [https://www.spiegel.de/gesundheit/chronische-erkrankungen-bluthochdruck-depressionen-und-adipositas-in-deutschland-auf-dem-vormarsch](https://www.spiegel.de/gesundheit/chronische-erkrankungen-bluthochdruck-depressionen-und-adipositas-in-deutschland-auf-dem-vormarsch-a-02ad72e2-d3ff-4fb7-9955-53f86cf0f9b5#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut](https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut-a-de174215-edb9-4509-bf7a-5199ddadbc9e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen](https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen-a-170c4fae-70a4-484c-88aa-8b639565e450#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen-a-4f7cf25f-9845-4bef-a19f-b02c2d162138#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus](https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus-a-fc6ec9a0-2a8c-4924-b198-9fe4e3c80e90#ref=rss)
-### ich
+* [https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman](https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman-a-6a3c36ff-4e3b-4893-840e-88a7bc43485f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen](https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen-a-8379b9bb-758f-4911-8795-e238d61352ae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab-a-39ddce12-be96-469c-b16d-3ad7151599c2#ref=rss)
+* [https://www.spiegel.de/gesundheit/chronische-erkrankungen-bluthochdruck-depressionen-und-adipositas-in-deutschland-auf-dem-vormarsch](https://www.spiegel.de/gesundheit/chronische-erkrankungen-bluthochdruck-depressionen-und-adipositas-in-deutschland-auf-dem-vormarsch-a-02ad72e2-d3ff-4fb7-9955-53f86cf0f9b5#ref=rss)
+* [https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben](https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben-a-8b97c1e0-bebe-44b7-aad6-8e6f25ec0c14#ref=rss)
+### the
 
-* [https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist](https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist-a-242f1fd1-2048-4519-a0ea-483c8517be33#ref=rss)
-* [https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt](https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt-a-fac6406e-d788-4d66-9d26-b16616ccc7f7#ref=rss)
-### bondi
+* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
+### mrbeast
 
-* [https://www.spiegel.de/ausland/bondi-beach-ueberlebender-attentaeter-wegen-15-fachen-mordes-angeklagt](https://www.spiegel.de/ausland/bondi-beach-ueberlebender-attentaeter-wegen-15-fachen-mordes-angeklagt-a-f3d60bf9-563d-4325-97ca-1448251b93c6#ref=rss)
-* [https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt](https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt-a-fac6406e-d788-4d66-9d26-b16616ccc7f7#ref=rss)
-### beach
-
-* [https://www.spiegel.de/ausland/bondi-beach-ueberlebender-attentaeter-wegen-15-fachen-mordes-angeklagt](https://www.spiegel.de/ausland/bondi-beach-ueberlebender-attentaeter-wegen-15-fachen-mordes-angeklagt-a-f3d60bf9-563d-4325-97ca-1448251b93c6#ref=rss)
-* [https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt](https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt-a-fac6406e-d788-4d66-9d26-b16616ccc7f7#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen-a-4f7cf25f-9845-4bef-a19f-b02c2d162138#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-droht-tesla-mit-einmonatigem-verkaufsstopp](https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-droht-tesla-mit-einmonatigem-verkaufsstopp-a-5326e214-a781-4be5-93a2-f68eba7f0178#ref=rss)
-### wirklich
-
-* [https://www.spiegel.de/gesundheit/vitamin-d-im-winter-wann-das-nahrungsergaenzungsmitteln-wirklich-sinnvoll-ist](https://www.spiegel.de/gesundheit/vitamin-d-im-winter-wann-das-nahrungsergaenzungsmitteln-wirklich-sinnvoll-ist-a-ee42611c-1106-40b9-ad4f-bf93e22da017#ref=rss)
-* [https://www.spiegel.de/wirtschaft/apotheken-protest-bundesweite-aktion-zur-wirtschaftlichen-lage-der-apotheken](https://www.spiegel.de/wirtschaft/apotheken-protest-bundesweite-aktion-zur-wirtschaftlichen-lage-der-apotheken-a-e606bbd1-065b-4178-beac-76d7e5fe12f6#ref=rss)
-### lage
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut](https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut-a-de174215-edb9-4509-bf7a-5199ddadbc9e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/apotheken-protest-bundesweite-aktion-zur-wirtschaftlichen-lage-der-apotheken](https://www.spiegel.de/wirtschaft/apotheken-protest-bundesweite-aktion-zur-wirtschaftlichen-lage-der-apotheken-a-e606bbd1-065b-4178-beac-76d7e5fe12f6#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/wirtschaft/apotheken-protest-bundesweite-aktion-zur-wirtschaftlichen-lage-der-apotheken](https://www.spiegel.de/wirtschaft/apotheken-protest-bundesweite-aktion-zur-wirtschaftlichen-lage-der-apotheken-a-e606bbd1-065b-4178-beac-76d7e5fe12f6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen-a-4f7cf25f-9845-4bef-a19f-b02c2d162138#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/aktien-gold-bitcoin-was-in-diesem-jahr-aus-10-000-euro-wurde](https://www.spiegel.de/wirtschaft/service/aktien-gold-bitcoin-was-in-diesem-jahr-aus-10-000-euro-wurde-a-b4bcadbf-a4e5-4783-b507-d253951376f2#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ki-unternehmen-openai-amazon-erwaegt-offenbar-milliarden-investition](https://www.spiegel.de/wirtschaft/unternehmen/ki-unternehmen-openai-amazon-erwaegt-offenbar-milliarden-investition-a-e5d702c4-e489-4775-91a8-aba6e8ab836a#ref=rss)
-* [https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird](https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird-a-90b02578-68db-45f2-93c8-d62b2b310285#ref=rss)
-* [https://www.spiegel.de/politik/europaparlament-gruene-verlangen-merz-eingreifen-gegen-rechte-mehrheit](https://www.spiegel.de/politik/europaparlament-gruene-verlangen-merz-eingreifen-gegen-rechte-mehrheit-a-8e43d2f3-948b-4e7c-a83b-bba5566f2f92#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/europaparlament-gruene-verlangen-merz-eingreifen-gegen-rechte-mehrheit](https://www.spiegel.de/politik/europaparlament-gruene-verlangen-merz-eingreifen-gegen-rechte-mehrheit-a-8e43d2f3-948b-4e7c-a83b-bba5566f2f92#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus](https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus-a-fc6ec9a0-2a8c-4924-b198-9fe4e3c80e90#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/europaparlament-gruene-verlangen-merz-eingreifen-gegen-rechte-mehrheit](https://www.spiegel.de/politik/europaparlament-gruene-verlangen-merz-eingreifen-gegen-rechte-mehrheit-a-8e43d2f3-948b-4e7c-a83b-bba5566f2f92#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus](https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus-a-fc6ec9a0-2a8c-4924-b198-9fe4e3c80e90#ref=rss)
-### björn
-
-* [https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd](https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd-a-f7610528-6912-474c-b0e3-fc8f0d237853#ref=rss)
-### höcke
-
-* [https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd](https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd-a-f7610528-6912-474c-b0e3-fc8f0d237853#ref=rss)
-### konflikt
-
-* [https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd](https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd-a-f7610528-6912-474c-b0e3-fc8f0d237853#ref=rss)
-### rüdiger
-
-* [https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd](https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd-a-f7610528-6912-474c-b0e3-fc8f0d237853#ref=rss)
-### lucassen
-
-* [https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd](https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd-a-f7610528-6912-474c-b0e3-fc8f0d237853#ref=rss)
-### eskaliert
-
-* [https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd](https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd-a-f7610528-6912-474c-b0e3-fc8f0d237853#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd](https://www.spiegel.de/politik/bjoern-hoecke-konflikt-mit-ruediger-lucassen-eskaliert-in-der-afd-a-f7610528-6912-474c-b0e3-fc8f0d237853#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/wirtschaft/soziales/kabinett-beschliesst-neue-grundsicherung-buergergeld-wird-abgeschafft](https://www.spiegel.de/wirtschaft/soziales/kabinett-beschliesst-neue-grundsicherung-buergergeld-wird-abgeschafft-a-ea2dd567-172d-4688-a6b2-d6e07b81b43e#ref=rss)
-* [https://www.spiegel.de/kultur/kino/avatar-fire-and-ash-nichts-neues-unter-der-sonne-und-den-vierzehn-monden-von-pandora](https://www.spiegel.de/kultur/kino/avatar-fire-and-ash-nichts-neues-unter-der-sonne-und-den-vierzehn-monden-von-pandora-a-98acfd6f-75b5-44cf-ac4c-97662a7b038a#ref=rss)
-### künftig
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch](https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch-a-a66a921d-8b2d-4f28-af8b-c7dfeb92fa13#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-neue-gesetze-fuer-gefaengnisse-wegen-misshandlungsvorwuerfen](https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-neue-gesetze-fuer-gefaengnisse-wegen-misshandlungsvorwuerfen-a-d92d9be3-dccd-4e05-9ca9-a8695b25cbd7#ref=rss)
+### alle
 
-* [https://www.spiegel.de/wirtschaft/soziales/kabinett-beschliesst-neue-grundsicherung-buergergeld-wird-abgeschafft](https://www.spiegel.de/wirtschaft/soziales/kabinett-beschliesst-neue-grundsicherung-buergergeld-wird-abgeschafft-a-ea2dd567-172d-4688-a6b2-d6e07b81b43e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen-a-4f7cf25f-9845-4bef-a19f-b02c2d162138#ref=rss)
-### wann
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet](https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet-a-4f66476d-652a-4c8b-be8c-c811c7b042a9#ref=rss)
+* [https://www.spiegel.de/familie/weihnachten-liebe-lehrer-lasst-das-mit-dem-wichteln-kommentar](https://www.spiegel.de/familie/weihnachten-liebe-lehrer-lasst-das-mit-dem-wichteln-kommentar-a-3746e4b7-05cf-475e-893a-f47b977b335d#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/gesundheit/vitamin-d-im-winter-wann-das-nahrungsergaenzungsmitteln-wirklich-sinnvoll-ist](https://www.spiegel.de/gesundheit/vitamin-d-im-winter-wann-das-nahrungsergaenzungsmitteln-wirklich-sinnvoll-ist-a-ee42611c-1106-40b9-ad4f-bf93e22da017#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rente-pflege-gesundheit-so-viel-kostet-der-reformstau-ihre-generation](https://www.spiegel.de/wirtschaft/soziales/rente-pflege-gesundheit-so-viel-kostet-der-reformstau-ihre-generation-a-e1e9b2c7-e8b5-4d79-9454-0a2a4ac2f9df#ref=rss)
-### reformen
+* [https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben](https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben-a-10c42a28-3505-47e3-9617-d3fb4c609ef3#ref=rss)
+* [https://www.spiegel.de/start/bayern-sparmassnahmen-an-hochschulen-studierende-prangern-marode-gebaeude-an](https://www.spiegel.de/start/bayern-sparmassnahmen-an-hochschulen-studierende-prangern-marode-gebaeude-an-a-d311f015-c1cb-4c6d-ae07-904ab05b691e#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut](https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut-a-de174215-edb9-4509-bf7a-5199ddadbc9e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/rente-pflege-gesundheit-so-viel-kostet-der-reformstau-ihre-generation](https://www.spiegel.de/wirtschaft/soziales/rente-pflege-gesundheit-so-viel-kostet-der-reformstau-ihre-generation-a-e1e9b2c7-e8b5-4d79-9454-0a2a4ac2f9df#ref=rss)
-### deutschen
+* [https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman](https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman-a-6a3c36ff-4e3b-4893-840e-88a7bc43485f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet](https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet-a-4f66476d-652a-4c8b-be8c-c811c7b042a9#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut](https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut-a-de174215-edb9-4509-bf7a-5199ddadbc9e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen](https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen-a-170c4fae-70a4-484c-88aa-8b639565e450#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut](https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut-a-de174215-edb9-4509-bf7a-5199ddadbc9e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen](https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen-a-170c4fae-70a4-484c-88aa-8b639565e450#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut](https://www.spiegel.de/wirtschaft/unternehmen/ifo-geschaeftsklimaindex-unternehmensstimmung-in-deutschland-sinkt-erneut-a-de174215-edb9-4509-bf7a-5199ddadbc9e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-droht-tesla-mit-einmonatigem-verkaufsstopp](https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-droht-tesla-mit-einmonatigem-verkaufsstopp-a-5326e214-a781-4be5-93a2-f68eba7f0178#ref=rss)
-### mittwoch
-
-* [https://www.spiegel.de/wirtschaft/apotheken-protest-bundesweite-aktion-zur-wirtschaftlichen-lage-der-apotheken](https://www.spiegel.de/wirtschaft/apotheken-protest-bundesweite-aktion-zur-wirtschaftlichen-lage-der-apotheken-a-e606bbd1-065b-4178-beac-76d7e5fe12f6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-auch-batteriezellen-in-deutschland-fertigen-a-4f7cf25f-9845-4bef-a19f-b02c2d162138#ref=rss)
-### weihnachten
-
-* [https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist](https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist-a-242f1fd1-2048-4519-a0ea-483c8517be33#ref=rss)
-### musik
-
-* [https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist](https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist-a-242f1fd1-2048-4519-a0ea-483c8517be33#ref=rss)
-### wichtigste
-
-* [https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist](https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist-a-242f1fd1-2048-4519-a0ea-483c8517be33#ref=rss)
-### fest
-
-* [https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist](https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist-a-242f1fd1-2048-4519-a0ea-483c8517be33#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist](https://www.spiegel.de/familie/weihnachten-warum-musik-das-wichtigste-am-fest-ist-a-242f1fd1-2048-4519-a0ea-483c8517be33#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/aktien-gold-bitcoin-was-in-diesem-jahr-aus-10-000-euro-wurde](https://www.spiegel.de/wirtschaft/service/aktien-gold-bitcoin-was-in-diesem-jahr-aus-10-000-euro-wurde-a-b4bcadbf-a4e5-4783-b507-d253951376f2#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/wissenschaft/leibarzt-von-friedrich-wilhelm-archaeologen-entdecken-skelette-im-garten](https://www.spiegel.de/wissenschaft/leibarzt-von-friedrich-wilhelm-archaeologen-entdecken-skelette-im-garten-a-b0c37540-1ccd-4d05-8317-af395e315121#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus](https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus-a-fc6ec9a0-2a8c-4924-b198-9fe4e3c80e90#ref=rss)
-### archäologen
-
-* [https://www.spiegel.de/wissenschaft/leibarzt-von-friedrich-wilhelm-archaeologen-entdecken-skelette-im-garten](https://www.spiegel.de/wissenschaft/leibarzt-von-friedrich-wilhelm-archaeologen-entdecken-skelette-im-garten-a-b0c37540-1ccd-4d05-8317-af395e315121#ref=rss)
-### skelette
-
-* [https://www.spiegel.de/wissenschaft/leibarzt-von-friedrich-wilhelm-archaeologen-entdecken-skelette-im-garten](https://www.spiegel.de/wissenschaft/leibarzt-von-friedrich-wilhelm-archaeologen-entdecken-skelette-im-garten-a-b0c37540-1ccd-4d05-8317-af395e315121#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/wissenschaft/leibarzt-von-friedrich-wilhelm-archaeologen-entdecken-skelette-im-garten](https://www.spiegel.de/wissenschaft/leibarzt-von-friedrich-wilhelm-archaeologen-entdecken-skelette-im-garten-a-b0c37540-1ccd-4d05-8317-af395e315121#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-15-jaehriger-soll-versucht-haben-polizisten-umzufahren](https://www.spiegel.de/panorama/justiz/gelsenkirchen-15-jaehriger-soll-versucht-haben-polizisten-umzufahren-a-4923c7d1-0f55-4a0f-9e29-dd4008f2decb#ref=rss)
-### sonne
-
-* [https://www.spiegel.de/kultur/kino/oscar-shortlists-in-die-sonne-schauen-als-bester-auslandsfilm-weiter-im-rennen](https://www.spiegel.de/kultur/kino/oscar-shortlists-in-die-sonne-schauen-als-bester-auslandsfilm-weiter-im-rennen-a-74e96b03-761c-4b4f-a843-03ee027221df#ref=rss)
-* [https://www.spiegel.de/kultur/kino/avatar-fire-and-ash-nichts-neues-unter-der-sonne-und-den-vierzehn-monden-von-pandora](https://www.spiegel.de/kultur/kino/avatar-fire-and-ash-nichts-neues-unter-der-sonne-und-den-vierzehn-monden-von-pandora-a-98acfd6f-75b5-44cf-ac4c-97662a7b038a#ref=rss)
-### unter
-
-* [https://www.spiegel.de/kultur/kino/oscar-shortlists-in-die-sonne-schauen-als-bester-auslandsfilm-weiter-im-rennen](https://www.spiegel.de/kultur/kino/oscar-shortlists-in-die-sonne-schauen-als-bester-auslandsfilm-weiter-im-rennen-a-74e96b03-761c-4b4f-a843-03ee027221df#ref=rss)
-* [https://www.spiegel.de/kultur/kino/avatar-fire-and-ash-nichts-neues-unter-der-sonne-und-den-vierzehn-monden-von-pandora](https://www.spiegel.de/kultur/kino/avatar-fire-and-ash-nichts-neues-unter-der-sonne-und-den-vierzehn-monden-von-pandora-a-98acfd6f-75b5-44cf-ac4c-97662a7b038a#ref=rss)
-### geschafft
-
-* [https://www.spiegel.de/kultur/kino/oscar-shortlists-in-die-sonne-schauen-als-bester-auslandsfilm-weiter-im-rennen](https://www.spiegel.de/kultur/kino/oscar-shortlists-in-die-sonne-schauen-als-bester-auslandsfilm-weiter-im-rennen-a-74e96b03-761c-4b4f-a843-03ee027221df#ref=rss)
-* [https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte](https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte-a-eb8129e7-2101-4434-bc32-06ade498846a#ref=rss)
-### nhl
-
-* [https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte](https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte-a-eb8129e7-2101-4434-bc32-06ade498846a#ref=rss)
-### leon
-
-* [https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte](https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte-a-eb8129e7-2101-4434-bc32-06ade498846a#ref=rss)
-### draisaitl
-
-* [https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte](https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte-a-eb8129e7-2101-4434-bc32-06ade498846a#ref=rss)
-### erster
-
-* [https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte](https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte-a-eb8129e7-2101-4434-bc32-06ade498846a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/verhandlungstaktik-erste-angebote-in-verhandlungen-abwarten-oder-handeln](https://www.spiegel.de/wirtschaft/service/verhandlungstaktik-erste-angebote-in-verhandlungen-abwarten-oder-handeln-a-d35355cb-6bbf-4719-b296-38a064ad4d03#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte](https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte-a-eb8129e7-2101-4434-bc32-06ade498846a#ref=rss)
-### 1000
-
-* [https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte](https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte-a-eb8129e7-2101-4434-bc32-06ade498846a#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte](https://www.spiegel.de/sport/eishockey/nhl-leon-draisaitl-erreicht-als-erster-deutscher-1000-scorerpunkte-a-eb8129e7-2101-4434-bc32-06ade498846a#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter-a-76b358dc-3a1e-4cf1-9e8e-719d369a8704#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/wirtschaft/soziales/rente-pflege-gesundheit-so-viel-kostet-der-reformstau-ihre-generation](https://www.spiegel.de/wirtschaft/soziales/rente-pflege-gesundheit-so-viel-kostet-der-reformstau-ihre-generation-a-e1e9b2c7-e8b5-4d79-9454-0a2a4ac2f9df#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys](https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys-a-a356436c-73e6-422f-aa3a-7e3343fec415#ref=rss)
-### openai
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ki-unternehmen-openai-amazon-erwaegt-offenbar-milliarden-investition](https://www.spiegel.de/wirtschaft/unternehmen/ki-unternehmen-openai-amazon-erwaegt-offenbar-milliarden-investition-a-e5d702c4-e489-4775-91a8-aba6e8ab836a#ref=rss)
-### amazon
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ki-unternehmen-openai-amazon-erwaegt-offenbar-milliarden-investition](https://www.spiegel.de/wirtschaft/unternehmen/ki-unternehmen-openai-amazon-erwaegt-offenbar-milliarden-investition-a-e5d702c4-e489-4775-91a8-aba6e8ab836a#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ki-unternehmen-openai-amazon-erwaegt-offenbar-milliarden-investition](https://www.spiegel.de/wirtschaft/unternehmen/ki-unternehmen-openai-amazon-erwaegt-offenbar-milliarden-investition-a-e5d702c4-e489-4775-91a8-aba6e8ab836a#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys](https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys-a-a356436c-73e6-422f-aa3a-7e3343fec415#ref=rss)
-### veltins
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/malzbier-markt-veltins-uebernimmt-karamalz](https://www.spiegel.de/wirtschaft/unternehmen/malzbier-markt-veltins-uebernimmt-karamalz-a-d23bda54-e2fe-4bb8-9261-ea7603a69384#ref=rss)
-### karamalz
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/malzbier-markt-veltins-uebernimmt-karamalz](https://www.spiegel.de/wirtschaft/unternehmen/malzbier-markt-veltins-uebernimmt-karamalz-a-d23bda54-e2fe-4bb8-9261-ea7603a69384#ref=rss)
-### gelsenkirchen
-
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-15-jaehriger-soll-versucht-haben-polizisten-umzufahren](https://www.spiegel.de/panorama/justiz/gelsenkirchen-15-jaehriger-soll-versucht-haben-polizisten-umzufahren-a-4923c7d1-0f55-4a0f-9e29-dd4008f2decb#ref=rss)
-### polizisten
-
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-15-jaehriger-soll-versucht-haben-polizisten-umzufahren](https://www.spiegel.de/panorama/justiz/gelsenkirchen-15-jaehriger-soll-versucht-haben-polizisten-umzufahren-a-4923c7d1-0f55-4a0f-9e29-dd4008f2decb#ref=rss)
-### mordes
-
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-15-jaehriger-soll-versucht-haben-polizisten-umzufahren](https://www.spiegel.de/panorama/justiz/gelsenkirchen-15-jaehriger-soll-versucht-haben-polizisten-umzufahren-a-4923c7d1-0f55-4a0f-9e29-dd4008f2decb#ref=rss)
-* [https://www.spiegel.de/ausland/bondi-beach-ueberlebender-attentaeter-wegen-15-fachen-mordes-angeklagt](https://www.spiegel.de/ausland/bondi-beach-ueberlebender-attentaeter-wegen-15-fachen-mordes-angeklagt-a-f3d60bf9-563d-4325-97ca-1448251b93c6#ref=rss)
-### susie
-
-* [https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird](https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird-a-90b02578-68db-45f2-93c8-d62b2b310285#ref=rss)
-### wiles
-
-* [https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird](https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird-a-90b02578-68db-45f2-93c8-d62b2b310285#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird](https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird-a-90b02578-68db-45f2-93c8-d62b2b310285#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix](https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix-a-9bca0e30-fed5-4ecb-bda2-e8ca7537f737#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird](https://www.spiegel.de/ausland/susie-wiles-warum-die-stille-trump-vertraute-ploetzlich-laut-wird-a-90b02578-68db-45f2-93c8-d62b2b310285#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys](https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys-a-a356436c-73e6-422f-aa3a-7e3343fec415#ref=rss)
-### oecd
-
-* [https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen](https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen-a-170c4fae-70a4-484c-88aa-8b639565e450#ref=rss)
-### platz
-
-* [https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen](https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen-a-170c4fae-70a4-484c-88aa-8b639565e450#ref=rss)
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona-a-5cee141e-c198-4e41-8a2b-6b30ad5d011b#ref=rss)
+* [https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund](https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund-a-5c164c1d-cf29-40f2-b5ea-c15a734a2685#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
 ### welt
 
-* [https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen](https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen-a-170c4fae-70a4-484c-88aa-8b639565e450#ref=rss)
-* [https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt](https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt-a-fac6406e-d788-4d66-9d26-b16616ccc7f7#ref=rss)
-### verändern
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet](https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet-a-4f66476d-652a-4c8b-be8c-c811c7b042a9#ref=rss)
+### staffel
 
-* [https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen](https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen-a-170c4fae-70a4-484c-88aa-8b639565e450#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys](https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys-a-a356436c-73e6-422f-aa3a-7e3343fec415#ref=rss)
-### eudelegation
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+* [https://www.spiegel.de/kultur/tv/fallout-auf-amazon-prime-wo-der-weltuntergang-ein-endloser-witz-ist](https://www.spiegel.de/kultur/tv/fallout-auf-amazon-prime-wo-der-weltuntergang-ein-endloser-witz-ist-a-7f0aea83-35b2-4f8c-aaad-e76d1090ff30#ref=rss)
+### laut
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-sicherheitsbedenken-wegen-afd-abgeordnetem-bei-eu-delegation](https://www.spiegel.de/politik/deutschland/ukraine-sicherheitsbedenken-wegen-afd-abgeordnetem-bei-eu-delegation-a-299e4db3-721d-4f28-8da0-df4d8637d760#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben](https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben-a-10c42a28-3505-47e3-9617-d3fb4c609ef3#ref=rss)
+* [https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben](https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben-a-8b97c1e0-bebe-44b7-aad6-8e6f25ec0c14#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-apothekerprotest-weihnachtseinkaeufe-erasmus-in-grossbritannien](https://www.spiegel.de/politik/deutschland/news-des-tages-apothekerprotest-weihnachtseinkaeufe-erasmus-in-grossbritannien-a-52538329-e926-4351-bc14-1764adfa11bc#ref=rss)
+* [https://www.spiegel.de/auto/bahn-oberleitungsstoerung-legt-bahnverkehr-zwischen-koeln-und-duesseldorf-lahm](https://www.spiegel.de/auto/bahn-oberleitungsstoerung-legt-bahnverkehr-zwischen-koeln-und-duesseldorf-lahm-a-ce553ce6-7780-4123-8972-c8c61b69001a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buergergeld-gesetzentwurf-fuer-grundsicherung-vom-kabinett-beschlossen-aber-misstrauen-bleibt](https://www.spiegel.de/politik/deutschland/buergergeld-gesetzentwurf-fuer-grundsicherung-vom-kabinett-beschlossen-aber-misstrauen-bleibt-a-b761db91-a1aa-459f-a9f6-ea7991d782f5#ref=rss)
+### land
+
+* [https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen](https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen-a-02171802-0f1a-4ca9-b91a-d588173c5d3b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen](https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen-a-8379b9bb-758f-4911-8795-e238d61352ae#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimakrise-trump-regierung-will-klimaforschungsinstitut-ncar-schliessen](https://www.spiegel.de/wissenschaft/klimakrise-trump-regierung-will-klimaforschungsinstitut-ncar-schliessen-a-1b62bf6f-af46-43b9-9697-ad3d20208805#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen](https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen-a-8379b9bb-758f-4911-8795-e238d61352ae#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-eroeffnet-eigene-batteriezellproduktion-in-salzgitter](https://www.spiegel.de/wirtschaft/unternehmen/vw-eroeffnet-eigene-batteriezellproduktion-in-salzgitter-a-e7c0fda2-d877-4d81-9ba2-bd01778a82a7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wahl-des-weltfussballers-warum-die-premier-league-so-wenig-vertreten-ist](https://www.spiegel.de/sport/fussball/wahl-des-weltfussballers-warum-die-premier-league-so-wenig-vertreten-ist-a-0fd23d53-962a-4dc1-b235-b46fc38cbb69#ref=rss)
+### andere
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen](https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen-a-8379b9bb-758f-4911-8795-e238d61352ae#ref=rss)
+* [https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht](https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht-a-120b3289-9cd9-4138-bee6-cb2a6c51ce8e#ref=rss)
+* [https://www.spiegel.de/panorama/schrottimmobilien-im-ruhrgebiet-massnahmen-gegen-armutsmigration](https://www.spiegel.de/panorama/schrottimmobilien-im-ruhrgebiet-massnahmen-gegen-armutsmigration-a-88aabaa5-df2f-46ec-b61e-f604682c2b0f#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/wissenschaft/technik/marschflugkoerper-taurus-neo-neuer-bunkerbrecher-fuer-die-bundeswehr](https://www.spiegel.de/wissenschaft/technik/marschflugkoerper-taurus-neo-neuer-bunkerbrecher-fuer-die-bundeswehr-a-cf14ff4b-0ec7-4725-b2c2-57d26eb7e9ca#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch](https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch-a-a66a921d-8b2d-4f28-af8b-c7dfeb92fa13#ref=rss)
+### jemen
+
+* [https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman](https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman-a-6a3c36ff-4e3b-4893-840e-88a7bc43485f#ref=rss)
+### vizeaußenminister
+
+* [https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman](https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman-a-6a3c36ff-4e3b-4893-840e-88a7bc43485f#ref=rss)
+### mustafa
+
+* [https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman](https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman-a-6a3c36ff-4e3b-4893-840e-88a7bc43485f#ref=rss)
+### noman
+
+* [https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman](https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman-a-6a3c36ff-4e3b-4893-840e-88a7bc43485f#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman](https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman-a-6a3c36ff-4e3b-4893-840e-88a7bc43485f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buergergeld-gesetzentwurf-fuer-grundsicherung-vom-kabinett-beschlossen-aber-misstrauen-bleibt](https://www.spiegel.de/politik/deutschland/buergergeld-gesetzentwurf-fuer-grundsicherung-vom-kabinett-beschlossen-aber-misstrauen-bleibt-a-b761db91-a1aa-459f-a9f6-ea7991d782f5#ref=rss)
+### statt
+
+* [https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman](https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman-a-6a3c36ff-4e3b-4893-840e-88a7bc43485f#ref=rss)
+* [https://www.spiegel.de/familie/weihnachten-liebe-lehrer-lasst-das-mit-dem-wichteln-kommentar](https://www.spiegel.de/familie/weihnachten-liebe-lehrer-lasst-das-mit-dem-wichteln-kommentar-a-3746e4b7-05cf-475e-893a-f47b977b335d#ref=rss)
+### jens
+
+* [https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund](https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund-a-5c164c1d-cf29-40f2-b5ea-c15a734a2685#ref=rss)
+### spahn
+
+* [https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund](https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund-a-5c164c1d-cf29-40f2-b5ea-c15a734a2685#ref=rss)
+### cduparteifreund
+
+* [https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund](https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund-a-5c164c1d-cf29-40f2-b5ea-c15a734a2685#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund](https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund-a-5c164c1d-cf29-40f2-b5ea-c15a734a2685#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
+### bisher
+
+* [https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund](https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund-a-5c164c1d-cf29-40f2-b5ea-c15a734a2685#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
+### from
+
+* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
+### river
+
+* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
+### to
+
+* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
+### sea
+
+* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
+* [https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht](https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht-a-120b3289-9cd9-4138-bee6-cb2a6c51ce8e#ref=rss)
+### weg
+
+* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch](https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch-a-a66a921d-8b2d-4f28-af8b-c7dfeb92fa13#ref=rss)
+### jimmy
+
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+### donaldson
+
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+### youtube
+
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+### dominiert
+
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+### 450
+
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+### abonnenten
+
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+### erfolgreichste
+
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+### youtuber
+
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+### beast
+
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+### games
+
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+### rekorde
+
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+### brechen
+
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+### zweifel
+
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
+### methode
+
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
 ### per
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-sicherheitsbedenken-wegen-afd-abgeordnetem-bei-eu-delegation](https://www.spiegel.de/politik/deutschland/ukraine-sicherheitsbedenken-wegen-afd-abgeordnetem-bei-eu-delegation-a-299e4db3-721d-4f28-8da0-df4d8637d760#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys](https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys-a-a356436c-73e6-422f-aa3a-7e3343fec415#ref=rss)
-### attentäter
+* [https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben](https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben-a-10c42a28-3505-47e3-9617-d3fb4c609ef3#ref=rss)
+### linienflug
 
-* [https://www.spiegel.de/ausland/bondi-beach-ueberlebender-attentaeter-wegen-15-fachen-mordes-angeklagt](https://www.spiegel.de/ausland/bondi-beach-ueberlebender-attentaeter-wegen-15-fachen-mordes-angeklagt-a-f3d60bf9-563d-4325-97ca-1448251b93c6#ref=rss)
-### australien
+* [https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben](https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben-a-10c42a28-3505-47e3-9617-d3fb4c609ef3#ref=rss)
+### afghanistan
 
-* [https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt](https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt-a-fac6406e-d788-4d66-9d26-b16616ccc7f7#ref=rss)
-### klar
+* [https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben](https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben-a-10c42a28-3505-47e3-9617-d3fb4c609ef3#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt](https://www.spiegel.de/ausland/attentat-am-bondi-beach-sydney-der-traum-von-der-heilen-welt-in-australien-er-ist-geplatzt-a-fac6406e-d788-4d66-9d26-b16616ccc7f7#ref=rss)
-* [https://www.spiegel.de/politik/europaparlament-gruene-verlangen-merz-eingreifen-gegen-rechte-mehrheit](https://www.spiegel.de/politik/europaparlament-gruene-verlangen-merz-eingreifen-gegen-rechte-mehrheit-a-8e43d2f3-948b-4e7c-a83b-bba5566f2f92#ref=rss)
-### marcandré
+* [https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben](https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben-a-10c42a28-3505-47e3-9617-d3fb4c609ef3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen](https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen-a-8379b9bb-758f-4911-8795-e238d61352ae#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona-a-5cee141e-c198-4e41-8a2b-6b30ad5d011b#ref=rss)
-### ter
+* [https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden](https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden-a-37dab4f6-ce42-4ee5-8da8-b7681a7060b4#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona-a-5cee141e-c198-4e41-8a2b-6b30ad5d011b#ref=rss)
-### stegen
+* [https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden](https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden-a-37dab4f6-ce42-4ee5-8da8-b7681a7060b4#ref=rss)
+### verklagt
 
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona-a-5cee141e-c198-4e41-8a2b-6b30ad5d011b#ref=rss)
-### fc
+* [https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden](https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden-a-37dab4f6-ce42-4ee5-8da8-b7681a7060b4#ref=rss)
+* [https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht](https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht-a-120b3289-9cd9-4138-bee6-cb2a6c51ce8e#ref=rss)
+### bbc
 
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona-a-5cee141e-c198-4e41-8a2b-6b30ad5d011b#ref=rss)
-### barcelona
+* [https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden](https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden-a-37dab4f6-ce42-4ee5-8da8-b7681a7060b4#ref=rss)
+### milliarden
 
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-comeback-nach-monatelanger-verletzungspause-beim-fc-barcelona-a-5cee141e-c198-4e41-8a2b-6b30ad5d011b#ref=rss)
-### ricardo
+* [https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden](https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden-a-37dab4f6-ce42-4ee5-8da8-b7681a7060b4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch](https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch-a-a66a921d-8b2d-4f28-af8b-c7dfeb92fa13#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter-a-76b358dc-3a1e-4cf1-9e8e-719d369a8704#ref=rss)
-### pietreczko
+* [https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden](https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden-a-37dab4f6-ce42-4ee5-8da8-b7681a7060b4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wahl-des-weltfussballers-warum-die-premier-league-so-wenig-vertreten-ist](https://www.spiegel.de/sport/fussball/wahl-des-weltfussballers-warum-die-premier-league-so-wenig-vertreten-ist-a-0fd23d53-962a-4dc1-b235-b46fc38cbb69#ref=rss)
+### merz
 
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter-a-76b358dc-3a1e-4cf1-9e8e-719d369a8704#ref=rss)
-### augen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-apothekerprotest-weihnachtseinkaeufe-erasmus-in-grossbritannien](https://www.spiegel.de/politik/deutschland/news-des-tages-apothekerprotest-weihnachtseinkaeufe-erasmus-in-grossbritannien-a-52538329-e926-4351-bc14-1764adfa11bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab-a-39ddce12-be96-469c-b16d-3ad7151599c2#ref=rss)
+### pumas
 
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter-a-76b358dc-3a1e-4cf1-9e8e-719d369a8704#ref=rss)
-* [https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet](https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet-a-7a86496b-737a-4dfe-92fc-840297b6aba5#ref=rss)
-### überraschend
+* [https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen](https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen-a-02171802-0f1a-4ca9-b91a-d588173c5d3b#ref=rss)
+### patagonien
 
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-trotz-kreislaufproblemen-erfolgreich-weiter-a-76b358dc-3a1e-4cf1-9e8e-719d369a8704#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/aktien-gold-bitcoin-was-in-diesem-jahr-aus-10-000-euro-wurde](https://www.spiegel.de/wirtschaft/service/aktien-gold-bitcoin-was-in-diesem-jahr-aus-10-000-euro-wurde-a-b4bcadbf-a4e5-4783-b507-d253951376f2#ref=rss)
-### gwyneth
+* [https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen](https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen-a-02171802-0f1a-4ca9-b91a-d588173c5d3b#ref=rss)
+### pinguine
 
-* [https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet](https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet-a-7a86496b-737a-4dfe-92fc-840297b6aba5#ref=rss)
-### paltrow
+* [https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen](https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen-a-02171802-0f1a-4ca9-b91a-d588173c5d3b#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet](https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet-a-7a86496b-737a-4dfe-92fc-840297b6aba5#ref=rss)
-### sohn
+* [https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen](https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen-a-02171802-0f1a-4ca9-b91a-d588173c5d3b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab-a-39ddce12-be96-469c-b16d-3ad7151599c2#ref=rss)
+### weihnachten
 
-* [https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet](https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet-a-7a86496b-737a-4dfe-92fc-840297b6aba5#ref=rss)
-### timothée
+* [https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet](https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet-a-4f66476d-652a-4c8b-be8c-c811c7b042a9#ref=rss)
+* [https://www.spiegel.de/familie/weihnachten-liebe-lehrer-lasst-das-mit-dem-wichteln-kommentar](https://www.spiegel.de/familie/weihnachten-liebe-lehrer-lasst-das-mit-dem-wichteln-kommentar-a-3746e4b7-05cf-475e-893a-f47b977b335d#ref=rss)
+### legt
 
-* [https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet](https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet-a-7a86496b-737a-4dfe-92fc-840297b6aba5#ref=rss)
-### chalamet
+* [https://www.spiegel.de/panorama/justiz/schockanruf-senior-legt-telefonbetrueger-rein-schon-wieder](https://www.spiegel.de/panorama/justiz/schockanruf-senior-legt-telefonbetrueger-rein-schon-wieder-a-2f6d2641-383d-46cf-b14e-9eb0d7c0f0ca#ref=rss)
+* [https://www.spiegel.de/auto/bahn-oberleitungsstoerung-legt-bahnverkehr-zwischen-koeln-und-duesseldorf-lahm](https://www.spiegel.de/auto/bahn-oberleitungsstoerung-legt-bahnverkehr-zwischen-koeln-und-duesseldorf-lahm-a-ce553ce6-7780-4123-8972-c8c61b69001a#ref=rss)
+### amazon
 
-* [https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet](https://www.spiegel.de/panorama/leute/gwyneth-paltrow-warnte-ihren-sohn-vor-ihren-sex-szenen-mit-timothee-chalamet-a-7a86496b-737a-4dfe-92fc-840297b6aba5#ref=rss)
-### warner
+* [https://www.spiegel.de/kultur/tv/fallout-auf-amazon-prime-wo-der-weltuntergang-ein-endloser-witz-ist](https://www.spiegel.de/kultur/tv/fallout-auf-amazon-prime-wo-der-weltuntergang-ein-endloser-witz-ist-a-7f0aea83-35b2-4f8c-aaad-e76d1090ff30#ref=rss)
+### prime
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix](https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix-a-9bca0e30-fed5-4ecb-bda2-e8ca7537f737#ref=rss)
-### jared
+* [https://www.spiegel.de/kultur/tv/fallout-auf-amazon-prime-wo-der-weltuntergang-ein-endloser-witz-ist](https://www.spiegel.de/kultur/tv/fallout-auf-amazon-prime-wo-der-weltuntergang-ein-endloser-witz-ist-a-7f0aea83-35b2-4f8c-aaad-e76d1090ff30#ref=rss)
+### kämpft
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix](https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix-a-9bca0e30-fed5-4ecb-bda2-e8ca7537f737#ref=rss)
-### kushner
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen](https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen-a-8379b9bb-758f-4911-8795-e238d61352ae#ref=rss)
+### trumpregierung
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix](https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix-a-9bca0e30-fed5-4ecb-bda2-e8ca7537f737#ref=rss)
-### zieht
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab-a-39ddce12-be96-469c-b16d-3ad7151599c2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimakrise-trump-regierung-will-klimaforschungsinstitut-ncar-schliessen](https://www.spiegel.de/wissenschaft/klimakrise-trump-regierung-will-klimaforschungsinstitut-ncar-schliessen-a-1b62bf6f-af46-43b9-9697-ad3d20208805#ref=rss)
+### analyse
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix](https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix-a-9bca0e30-fed5-4ecb-bda2-e8ca7537f737#ref=rss)
-### zurück
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab-a-39ddce12-be96-469c-b16d-3ad7151599c2#ref=rss)
+* [https://www.spiegel.de/gesundheit/chronische-erkrankungen-bluthochdruck-depressionen-und-adipositas-in-deutschland-auf-dem-vormarsch](https://www.spiegel.de/gesundheit/chronische-erkrankungen-bluthochdruck-depressionen-und-adipositas-in-deutschland-auf-dem-vormarsch-a-02ad72e2-d3ff-4fb7-9955-53f86cf0f9b5#ref=rss)
+### lizzo
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix](https://www.spiegel.de/wirtschaft/unternehmen/warner-brothers-jared-kushner-zieht-sich-aus-paramount-gebot-zurueck-vorteil-fuer-netflix-a-9bca0e30-fed5-4ecb-bda2-e8ca7537f737#ref=rss)
-### erste
+* [https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht](https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht-a-120b3289-9cd9-4138-bee6-cb2a6c51ce8e#ref=rss)
+### klagepunkte
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys](https://www.spiegel.de/ausland/ukraine-krieg-jetzt-kommen-kyjiws-sea-babys-a-a356436c-73e6-422f-aa3a-7e3343fec415#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/verhandlungstaktik-erste-angebote-in-verhandlungen-abwarten-oder-handeln](https://www.spiegel.de/wirtschaft/service/verhandlungstaktik-erste-angebote-in-verhandlungen-abwarten-oder-handeln-a-d35355cb-6bbf-4719-b296-38a064ad4d03#ref=rss)
-### europa
+* [https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht](https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht-a-120b3289-9cd9-4138-bee6-cb2a6c51ce8e#ref=rss)
+### köln
 
-* [https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus](https://www.spiegel.de/politik/friedrich-merz-bei-der-frage-nach-bundeswehrsoldaten-in-der-ukraine-weicht-der-kanzler-aus-a-fc6ec9a0-2a8c-4924-b198-9fe4e3c80e90#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/aktien-gold-bitcoin-was-in-diesem-jahr-aus-10-000-euro-wurde](https://www.spiegel.de/wirtschaft/service/aktien-gold-bitcoin-was-in-diesem-jahr-aus-10-000-euro-wurde-a-b4bcadbf-a4e5-4783-b507-d253951376f2#ref=rss)
-### abwarten
+* [https://www.spiegel.de/auto/bahn-oberleitungsstoerung-legt-bahnverkehr-zwischen-koeln-und-duesseldorf-lahm](https://www.spiegel.de/auto/bahn-oberleitungsstoerung-legt-bahnverkehr-zwischen-koeln-und-duesseldorf-lahm-a-ce553ce6-7780-4123-8972-c8c61b69001a#ref=rss)
+### markus
 
-* [https://www.spiegel.de/wirtschaft/service/verhandlungstaktik-erste-angebote-in-verhandlungen-abwarten-oder-handeln](https://www.spiegel.de/wirtschaft/service/verhandlungstaktik-erste-angebote-in-verhandlungen-abwarten-oder-handeln-a-d35355cb-6bbf-4719-b296-38a064ad4d03#ref=rss)
-### kalifornien
+* [https://www.spiegel.de/psychologie/verschickungskinder-markus-schnermann-ist-eine-zumutung](https://www.spiegel.de/psychologie/verschickungskinder-markus-schnermann-ist-eine-zumutung-a-ab33c1d1-48cd-437e-a974-87f82100019c#ref=rss)
+### marschflugkörper
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-droht-tesla-mit-einmonatigem-verkaufsstopp](https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-droht-tesla-mit-einmonatigem-verkaufsstopp-a-5326e214-a781-4be5-93a2-f68eba7f0178#ref=rss)
-### droht
+* [https://www.spiegel.de/wissenschaft/technik/marschflugkoerper-taurus-neo-neuer-bunkerbrecher-fuer-die-bundeswehr](https://www.spiegel.de/wissenschaft/technik/marschflugkoerper-taurus-neo-neuer-bunkerbrecher-fuer-die-bundeswehr-a-cf14ff4b-0ec7-4725-b2c2-57d26eb7e9ca#ref=rss)
+### taurus
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-droht-tesla-mit-einmonatigem-verkaufsstopp](https://www.spiegel.de/wirtschaft/unternehmen/kalifornien-droht-tesla-mit-einmonatigem-verkaufsstopp-a-5326e214-a781-4be5-93a2-f68eba7f0178#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/marschflugkoerper-taurus-neo-neuer-bunkerbrecher-fuer-die-bundeswehr](https://www.spiegel.de/wissenschaft/technik/marschflugkoerper-taurus-neo-neuer-bunkerbrecher-fuer-die-bundeswehr-a-cf14ff4b-0ec7-4725-b2c2-57d26eb7e9ca#ref=rss)
+### experten
+
+* [https://www.spiegel.de/wissenschaft/technik/marschflugkoerper-taurus-neo-neuer-bunkerbrecher-fuer-die-bundeswehr](https://www.spiegel.de/wissenschaft/technik/marschflugkoerper-taurus-neo-neuer-bunkerbrecher-fuer-die-bundeswehr-a-cf14ff4b-0ec7-4725-b2c2-57d26eb7e9ca#ref=rss)
+* [https://www.spiegel.de/panorama/kuenstliche-intelligenz-japanerin-heiratet-ihren-chatbot-klaus](https://www.spiegel.de/panorama/kuenstliche-intelligenz-japanerin-heiratet-ihren-chatbot-klaus-a-9b880479-4d85-4016-8bf4-b5a047808a6d#ref=rss)
+### haushaltsausschuss
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch](https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch-a-a66a921d-8b2d-4f28-af8b-c7dfeb92fa13#ref=rss)
+### schrottimmobilien
+
+* [https://www.spiegel.de/panorama/schrottimmobilien-im-ruhrgebiet-massnahmen-gegen-armutsmigration](https://www.spiegel.de/panorama/schrottimmobilien-im-ruhrgebiet-massnahmen-gegen-armutsmigration-a-88aabaa5-df2f-46ec-b61e-f604682c2b0f#ref=rss)
+### chatbot
+
+* [https://www.spiegel.de/panorama/kuenstliche-intelligenz-japanerin-heiratet-ihren-chatbot-klaus](https://www.spiegel.de/panorama/kuenstliche-intelligenz-japanerin-heiratet-ihren-chatbot-klaus-a-9b880479-4d85-4016-8bf4-b5a047808a6d#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/panorama/kuenstliche-intelligenz-japanerin-heiratet-ihren-chatbot-klaus](https://www.spiegel.de/panorama/kuenstliche-intelligenz-japanerin-heiratet-ihren-chatbot-klaus-a-9b880479-4d85-4016-8bf4-b5a047808a6d#ref=rss)
+* [https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben](https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben-a-8b97c1e0-bebe-44b7-aad6-8e6f25ec0c14#ref=rss)
+### studierende
+
+* [https://www.spiegel.de/start/bayern-sparmassnahmen-an-hochschulen-studierende-prangern-marode-gebaeude-an](https://www.spiegel.de/start/bayern-sparmassnahmen-an-hochschulen-studierende-prangern-marode-gebaeude-an-a-d311f015-c1cb-4c6d-ae07-904ab05b691e#ref=rss)
+### gebäude
+
+* [https://www.spiegel.de/start/bayern-sparmassnahmen-an-hochschulen-studierende-prangern-marode-gebaeude-an](https://www.spiegel.de/start/bayern-sparmassnahmen-an-hochschulen-studierende-prangern-marode-gebaeude-an-a-d311f015-c1cb-4c6d-ae07-904ab05b691e#ref=rss)
+### jva
+
+* [https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-neue-gesetze-fuer-gefaengnisse-wegen-misshandlungsvorwuerfen](https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-neue-gesetze-fuer-gefaengnisse-wegen-misshandlungsvorwuerfen-a-d92d9be3-dccd-4e05-9ca9-a8695b25cbd7#ref=rss)
+### ncar
+
+* [https://www.spiegel.de/wissenschaft/klimakrise-trump-regierung-will-klimaforschungsinstitut-ncar-schliessen](https://www.spiegel.de/wissenschaft/klimakrise-trump-regierung-will-klimaforschungsinstitut-ncar-schliessen-a-1b62bf6f-af46-43b9-9697-ad3d20208805#ref=rss)
+### erkrankungen
+
+* [https://www.spiegel.de/gesundheit/chronische-erkrankungen-bluthochdruck-depressionen-und-adipositas-in-deutschland-auf-dem-vormarsch](https://www.spiegel.de/gesundheit/chronische-erkrankungen-bluthochdruck-depressionen-und-adipositas-in-deutschland-auf-dem-vormarsch-a-02ad72e2-d3ff-4fb7-9955-53f86cf0f9b5#ref=rss)
+### gesetzentwurf
+
+* [https://www.spiegel.de/politik/deutschland/buergergeld-gesetzentwurf-fuer-grundsicherung-vom-kabinett-beschlossen-aber-misstrauen-bleibt](https://www.spiegel.de/politik/deutschland/buergergeld-gesetzentwurf-fuer-grundsicherung-vom-kabinett-beschlossen-aber-misstrauen-bleibt-a-b761db91-a1aa-459f-a9f6-ea7991d782f5#ref=rss)
+### rosa
+
+* [https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben](https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben-a-8b97c1e0-bebe-44b7-aad6-8e6f25ec0c14#ref=rss)
+### praunheim
+
+* [https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben](https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben-a-8b97c1e0-bebe-44b7-aad6-8e6f25ec0c14#ref=rss)
+### medienberichten
+
+* [https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben](https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben-a-8b97c1e0-bebe-44b7-aad6-8e6f25ec0c14#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben](https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben-a-8b97c1e0-bebe-44b7-aad6-8e6f25ec0c14#ref=rss)
 
