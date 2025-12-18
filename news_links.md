@@ -4,347 +4,359 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund](https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund-a-5c164c1d-cf29-40f2-b5ea-c15a734a2685#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben](https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben-a-10c42a28-3505-47e3-9617-d3fb4c609ef3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-neue-gesetze-fuer-gefaengnisse-wegen-misshandlungsvorwuerfen](https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-neue-gesetze-fuer-gefaengnisse-wegen-misshandlungsvorwuerfen-a-d92d9be3-dccd-4e05-9ca9-a8695b25cbd7#ref=rss)
-* [https://www.spiegel.de/gesundheit/chronische-erkrankungen-bluthochdruck-depressionen-und-adipositas-in-deutschland-auf-dem-vormarsch](https://www.spiegel.de/gesundheit/chronische-erkrankungen-bluthochdruck-depressionen-und-adipositas-in-deutschland-auf-dem-vormarsch-a-02ad72e2-d3ff-4fb7-9955-53f86cf0f9b5#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman](https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman-a-6a3c36ff-4e3b-4893-840e-88a7bc43485f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen](https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen-a-8379b9bb-758f-4911-8795-e238d61352ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab-a-39ddce12-be96-469c-b16d-3ad7151599c2#ref=rss)
-* [https://www.spiegel.de/gesundheit/chronische-erkrankungen-bluthochdruck-depressionen-und-adipositas-in-deutschland-auf-dem-vormarsch](https://www.spiegel.de/gesundheit/chronische-erkrankungen-bluthochdruck-depressionen-und-adipositas-in-deutschland-auf-dem-vormarsch-a-02ad72e2-d3ff-4fb7-9955-53f86cf0f9b5#ref=rss)
-* [https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben](https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben-a-8b97c1e0-bebe-44b7-aad6-8e6f25ec0c14#ref=rss)
-### the
-
-* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
-### mrbeast
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch](https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch-a-a66a921d-8b2d-4f28-af8b-c7dfeb92fa13#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-neue-gesetze-fuer-gefaengnisse-wegen-misshandlungsvorwuerfen](https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-neue-gesetze-fuer-gefaengnisse-wegen-misshandlungsvorwuerfen-a-d92d9be3-dccd-4e05-9ca9-a8695b25cbd7#ref=rss)
-### alle
+* [https://www.spiegel.de/ausland/ukraine-krieg-neue-friedensgespraeche-in-den-usa-angekuendigt](https://www.spiegel.de/ausland/ukraine-krieg-neue-friedensgespraeche-in-den-usa-angekuendigt-a-2e92bb3f-3751-4eee-8f8c-9b09b95e8c81#ref=rss)
+* [https://www.spiegel.de/ausland/estland-russische-grenzschuetzer-sollen-illegal-die-grenze-ueberschritten-haben](https://www.spiegel.de/ausland/estland-russische-grenzschuetzer-sollen-illegal-die-grenze-ueberschritten-haben-a-ea1980da-cc61-4ef9-a046-5648fa653596#ref=rss)
+* [https://www.spiegel.de/kultur/musik/spiegel-abgehoert-2025-das-ist-die-beste-musik-des-jahres](https://www.spiegel.de/kultur/musik/spiegel-abgehoert-2025-das-ist-die-beste-musik-des-jahres-a-b119b4a0-383e-4774-82da-bcd2606c012a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist](https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist-a-a787ec79-fc03-4b18-bef2-ab8ad7c97fb0#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet](https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet-a-4f66476d-652a-4c8b-be8c-c811c7b042a9#ref=rss)
-* [https://www.spiegel.de/familie/weihnachten-liebe-lehrer-lasst-das-mit-dem-wichteln-kommentar](https://www.spiegel.de/familie/weihnachten-liebe-lehrer-lasst-das-mit-dem-wichteln-kommentar-a-3746e4b7-05cf-475e-893a-f47b977b335d#ref=rss)
-### bayern
+* [https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher](https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher-a-676fdf38-4e1a-42c9-8302-0a36b33ee92a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/berlin-einigung-bei-gesetz-fuer-stabile-krankenkassenbeitraege](https://www.spiegel.de/wirtschaft/berlin-einigung-bei-gesetz-fuer-stabile-krankenkassenbeitraege-a-5959a63f-070f-45f3-a463-fbdd6f569b73#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist](https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist-a-a787ec79-fc03-4b18-bef2-ab8ad7c97fb0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ruestungsindustrie-wie-die-europaeer-ihren-waffeneinkauf-beschleunigen-wollen](https://www.spiegel.de/wirtschaft/ruestungsindustrie-wie-die-europaeer-ihren-waffeneinkauf-beschleunigen-wollen-a-1c2b80ea-1f72-4562-8775-53bd8f869b3d#ref=rss)
+### mann
 
-* [https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben](https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben-a-10c42a28-3505-47e3-9617-d3fb4c609ef3#ref=rss)
-* [https://www.spiegel.de/start/bayern-sparmassnahmen-an-hochschulen-studierende-prangern-marode-gebaeude-an](https://www.spiegel.de/start/bayern-sparmassnahmen-an-hochschulen-studierende-prangern-marode-gebaeude-an-a-d311f015-c1cb-4c6d-ae07-904ab05b691e#ref=rss)
-### erklärt
+* [https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher](https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher-a-676fdf38-4e1a-42c9-8302-0a36b33ee92a#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen](https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen-a-30889446-1a93-4633-9a9c-50216b124bbe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person](https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person-a-c60c6b14-88ae-4258-8682-a1c3434bb610#ref=rss)
+* [https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an](https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an-a-bf84487f-1cf3-4f9d-bda4-f2ceda4c8984#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman](https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman-a-6a3c36ff-4e3b-4893-840e-88a7bc43485f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet](https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet-a-4f66476d-652a-4c8b-be8c-c811c7b042a9#ref=rss)
-### millionen
+* [https://www.spiegel.de/ausland/ukraine-krieg-neue-friedensgespraeche-in-den-usa-angekuendigt](https://www.spiegel.de/ausland/ukraine-krieg-neue-friedensgespraeche-in-den-usa-angekuendigt-a-2e92bb3f-3751-4eee-8f8c-9b09b95e8c81#ref=rss)
+* [https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien](https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien-a-6319d005-4141-497c-8285-1def94178804#ref=rss)
+### russische
 
-* [https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund](https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund-a-5c164c1d-cf29-40f2-b5ea-c15a734a2685#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-### welt
+* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
+* [https://www.spiegel.de/ausland/estland-russische-grenzschuetzer-sollen-illegal-die-grenze-ueberschritten-haben](https://www.spiegel.de/ausland/estland-russische-grenzschuetzer-sollen-illegal-die-grenze-ueberschritten-haben-a-ea1980da-cc61-4ef9-a046-5648fa653596#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe](https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe-a-8152c9de-135c-4984-9cf1-e6074099b7c4#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet](https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet-a-4f66476d-652a-4c8b-be8c-c811c7b042a9#ref=rss)
-### staffel
+* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe](https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe-a-8152c9de-135c-4984-9cf1-e6074099b7c4#ref=rss)
+### carlos
 
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-* [https://www.spiegel.de/kultur/tv/fallout-auf-amazon-prime-wo-der-weltuntergang-ein-endloser-witz-ist](https://www.spiegel.de/kultur/tv/fallout-auf-amazon-prime-wo-der-weltuntergang-ein-endloser-witz-ist-a-7f0aea83-35b2-4f8c-aaad-e76d1090ff30#ref=rss)
-### laut
+* [https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-und-sein-trainer-trennen-sich-wohl-nicht-einvernehmlich](https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-und-sein-trainer-trennen-sich-wohl-nicht-einvernehmlich-a-0af95aea-b456-4cda-90be-a873fbc22d89#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben](https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben-a-10c42a28-3505-47e3-9617-d3fb4c609ef3#ref=rss)
-* [https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben](https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben-a-8b97c1e0-bebe-44b7-aad6-8e6f25ec0c14#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-apothekerprotest-weihnachtseinkaeufe-erasmus-in-grossbritannien](https://www.spiegel.de/politik/deutschland/news-des-tages-apothekerprotest-weihnachtseinkaeufe-erasmus-in-grossbritannien-a-52538329-e926-4351-bc14-1764adfa11bc#ref=rss)
-* [https://www.spiegel.de/auto/bahn-oberleitungsstoerung-legt-bahnverkehr-zwischen-koeln-und-duesseldorf-lahm](https://www.spiegel.de/auto/bahn-oberleitungsstoerung-legt-bahnverkehr-zwischen-koeln-und-duesseldorf-lahm-a-ce553ce6-7780-4123-8972-c8c61b69001a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergergeld-gesetzentwurf-fuer-grundsicherung-vom-kabinett-beschlossen-aber-misstrauen-bleibt](https://www.spiegel.de/politik/deutschland/buergergeld-gesetzentwurf-fuer-grundsicherung-vom-kabinett-beschlossen-aber-misstrauen-bleibt-a-b761db91-a1aa-459f-a9f6-ea7991d782f5#ref=rss)
-### land
-
-* [https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen](https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen-a-02171802-0f1a-4ca9-b91a-d588173c5d3b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen](https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen-a-8379b9bb-758f-4911-8795-e238d61352ae#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimakrise-trump-regierung-will-klimaforschungsinstitut-ncar-schliessen](https://www.spiegel.de/wissenschaft/klimakrise-trump-regierung-will-klimaforschungsinstitut-ncar-schliessen-a-1b62bf6f-af46-43b9-9697-ad3d20208805#ref=rss)
-### allerdings
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen](https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen-a-8379b9bb-758f-4911-8795-e238d61352ae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-eroeffnet-eigene-batteriezellproduktion-in-salzgitter](https://www.spiegel.de/wirtschaft/unternehmen/vw-eroeffnet-eigene-batteriezellproduktion-in-salzgitter-a-e7c0fda2-d877-4d81-9ba2-bd01778a82a7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wahl-des-weltfussballers-warum-die-premier-league-so-wenig-vertreten-ist](https://www.spiegel.de/sport/fussball/wahl-des-weltfussballers-warum-die-premier-league-so-wenig-vertreten-ist-a-0fd23d53-962a-4dc1-b235-b46fc38cbb69#ref=rss)
-### andere
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen](https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen-a-8379b9bb-758f-4911-8795-e238d61352ae#ref=rss)
-* [https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht](https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht-a-120b3289-9cd9-4138-bee6-cb2a6c51ce8e#ref=rss)
-* [https://www.spiegel.de/panorama/schrottimmobilien-im-ruhrgebiet-massnahmen-gegen-armutsmigration](https://www.spiegel.de/panorama/schrottimmobilien-im-ruhrgebiet-massnahmen-gegen-armutsmigration-a-88aabaa5-df2f-46ec-b61e-f604682c2b0f#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/wissenschaft/technik/marschflugkoerper-taurus-neo-neuer-bunkerbrecher-fuer-die-bundeswehr](https://www.spiegel.de/wissenschaft/technik/marschflugkoerper-taurus-neo-neuer-bunkerbrecher-fuer-die-bundeswehr-a-cf14ff4b-0ec7-4725-b2c2-57d26eb7e9ca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch](https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch-a-a66a921d-8b2d-4f28-af8b-c7dfeb92fa13#ref=rss)
-### jemen
-
-* [https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman](https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman-a-6a3c36ff-4e3b-4893-840e-88a7bc43485f#ref=rss)
-### vizeaußenminister
-
-* [https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman](https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman-a-6a3c36ff-4e3b-4893-840e-88a7bc43485f#ref=rss)
-### mustafa
-
-* [https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman](https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman-a-6a3c36ff-4e3b-4893-840e-88a7bc43485f#ref=rss)
-### noman
-
-* [https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman](https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman-a-6a3c36ff-4e3b-4893-840e-88a7bc43485f#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman](https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman-a-6a3c36ff-4e3b-4893-840e-88a7bc43485f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buergergeld-gesetzentwurf-fuer-grundsicherung-vom-kabinett-beschlossen-aber-misstrauen-bleibt](https://www.spiegel.de/politik/deutschland/buergergeld-gesetzentwurf-fuer-grundsicherung-vom-kabinett-beschlossen-aber-misstrauen-bleibt-a-b761db91-a1aa-459f-a9f6-ea7991d782f5#ref=rss)
-### statt
-
-* [https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman](https://www.spiegel.de/ausland/jemen-zerfaellt-die-front-gegen-die-huthi-interview-mit-vizeaussenminister-mustafa-noman-a-6a3c36ff-4e3b-4893-840e-88a7bc43485f#ref=rss)
-* [https://www.spiegel.de/familie/weihnachten-liebe-lehrer-lasst-das-mit-dem-wichteln-kommentar](https://www.spiegel.de/familie/weihnachten-liebe-lehrer-lasst-das-mit-dem-wichteln-kommentar-a-3746e4b7-05cf-475e-893a-f47b977b335d#ref=rss)
-### jens
-
-* [https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund](https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund-a-5c164c1d-cf29-40f2-b5ea-c15a734a2685#ref=rss)
-### spahn
-
-* [https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund](https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund-a-5c164c1d-cf29-40f2-b5ea-c15a734a2685#ref=rss)
-### cduparteifreund
-
-* [https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund](https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund-a-5c164c1d-cf29-40f2-b5ea-c15a734a2685#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund](https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund-a-5c164c1d-cf29-40f2-b5ea-c15a734a2685#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
-### bisher
-
-* [https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund](https://www.spiegel.de/panorama/corona-maskenaffaere-und-jens-spahn-millionen-fuer-ungenutzte-masken-an-cdu-parteifreund-a-5c164c1d-cf29-40f2-b5ea-c15a734a2685#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
-### from
-
-* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
-### river
-
-* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
-### to
-
-* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
-### sea
-
-* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
-* [https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht](https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht-a-120b3289-9cd9-4138-bee6-cb2a6c51ce8e#ref=rss)
-### weg
-
-* [https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein](https://www.spiegel.de/politik/deutschland/from-the-river-to-the-sea-berliner-gericht-stuft-parole-als-terror-kennzeichen-ein-a-98c61e5a-8129-47c8-b640-38f159e0176c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch](https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch-a-a66a921d-8b2d-4f28-af8b-c7dfeb92fa13#ref=rss)
-### jimmy
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-### donaldson
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-### youtube
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-### dominiert
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-### 450
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-### abonnenten
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-### erfolgreichste
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-### youtuber
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-### beast
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-### games
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-### rekorde
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-### brechen
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-### meldet
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-### zweifel
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-### methode
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-podcast-a-b30f7daf-b6b2-4139-a017-0528bf5f0f90#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert](https://www.spiegel.de/netzwelt/web/mrbeast-warum-jimmy-donaldson-auf-youtube-dominiert-a-bbb2c95c-17f5-4229-98ac-a7ff6db78cad#ref=rss)
-### per
-
-* [https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben](https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben-a-10c42a28-3505-47e3-9617-d3fb4c609ef3#ref=rss)
-### linienflug
-
-* [https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben](https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben-a-10c42a28-3505-47e3-9617-d3fb4c609ef3#ref=rss)
-### afghanistan
-
-* [https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben](https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben-a-10c42a28-3505-47e3-9617-d3fb4c609ef3#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben](https://www.spiegel.de/politik/deutschland/bayern-mehrfach-vorbestrafter-28-jaehriger-per-linienflug-nach-afghanistan-abgeschoben-a-10c42a28-3505-47e3-9617-d3fb4c609ef3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen](https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen-a-8379b9bb-758f-4911-8795-e238d61352ae#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden](https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden-a-37dab4f6-ce42-4ee5-8da8-b7681a7060b4#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton](https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton-a-5ad80a1a-a96c-48b1-89dd-0f5406b7f92f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/berlin-einigung-bei-gesetz-fuer-stabile-krankenkassenbeitraege](https://www.spiegel.de/wirtschaft/berlin-einigung-bei-gesetz-fuer-stabile-krankenkassenbeitraege-a-5959a63f-070f-45f3-a463-fbdd6f569b73#ref=rss)
+* [https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2026](https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2026-a-0a93d9de-7457-4ed1-96bf-8671fb03952e#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden](https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden-a-37dab4f6-ce42-4ee5-8da8-b7681a7060b4#ref=rss)
-### verklagt
+* [https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen](https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen-a-f6608407-5eac-4ef9-821a-11ba3a8f17f4#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen](https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen-a-30889446-1a93-4633-9a9c-50216b124bbe#ref=rss)
+### stellt
 
-* [https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden](https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden-a-37dab4f6-ce42-4ee5-8da8-b7681a7060b4#ref=rss)
-* [https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht](https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht-a-120b3289-9cd9-4138-bee6-cb2a6c51ce8e#ref=rss)
-### bbc
+* [https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher](https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher-a-676fdf38-4e1a-42c9-8302-0a36b33ee92a#ref=rss)
+* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
+* [https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an](https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an-a-bf84487f-1cf3-4f9d-bda4-f2ceda4c8984#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden](https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden-a-37dab4f6-ce42-4ee5-8da8-b7681a7060b4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher](https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher-a-676fdf38-4e1a-42c9-8302-0a36b33ee92a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person](https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person-a-c60c6b14-88ae-4258-8682-a1c3434bb610#ref=rss)
+### tod
+
+* [https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen](https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen-a-30889446-1a93-4633-9a9c-50216b124bbe#ref=rss)
+* [https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner](https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner-a-13c2a901-9fd4-4a7a-bfe1-522675d632bc#ref=rss)
+* [https://www.spiegel.de/panorama/leute/luisa-neubauer-spricht-ueber-tod-ihres-vaters](https://www.spiegel.de/panorama/leute/luisa-neubauer-spricht-ueber-tod-ihres-vaters-a-61688a5c-3a56-4cc4-ae19-c0508299bb96#ref=rss)
+### rob
+
+* [https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen](https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen-a-30889446-1a93-4633-9a9c-50216b124bbe#ref=rss)
+* [https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner](https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner-a-13c2a901-9fd4-4a7a-bfe1-522675d632bc#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien](https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien-a-6319d005-4141-497c-8285-1def94178804#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist](https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist-a-a787ec79-fc03-4b18-bef2-ab8ad7c97fb0#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video](https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video-a-e90e0ed5-b8db-4b79-a526-e07e7ca0734b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen](https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen-a-8f8b810c-d957-4529-b020-ec6788667c10#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video](https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video-a-e90e0ed5-b8db-4b79-a526-e07e7ca0734b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss](https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss-a-e37ae621-fff1-4818-ac55-8380e0e402fe#ref=rss)
+### urlaub
+
+* [https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen](https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen-a-8f8b810c-d957-4529-b020-ec6788667c10#ref=rss)
+* [https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2026](https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2026-a-0a93d9de-7457-4ed1-96bf-8671fb03952e#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet](https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet-a-6462347b-178c-4ccd-8b74-ccc9f94372db#ref=rss)
+* [https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an](https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an-a-bf84487f-1cf3-4f9d-bda4-f2ceda4c8984#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen](https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen-a-f6608407-5eac-4ef9-821a-11ba3a8f17f4#ref=rss)
+* [https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen](https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen-a-30889446-1a93-4633-9a9c-50216b124bbe#ref=rss)
+### tvrede
+
+* [https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen](https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen-a-f6608407-5eac-4ef9-821a-11ba3a8f17f4#ref=rss)
+### nation
+
+* [https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen](https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen-a-f6608407-5eac-4ef9-821a-11ba3a8f17f4#ref=rss)
+### prognosen
+
+* [https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen](https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen-a-f6608407-5eac-4ef9-821a-11ba3a8f17f4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-lars-klingbeil-bereitet-buerger-auf-sparkurs-vor](https://www.spiegel.de/politik/deutschland/deutschland-lars-klingbeil-bereitet-buerger-auf-sparkurs-vor-a-5bf7efe6-0d1d-4d4f-a898-61e3f9c511cb#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen](https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen-a-f6608407-5eac-4ef9-821a-11ba3a8f17f4#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-neue-friedensgespraeche-in-den-usa-angekuendigt](https://www.spiegel.de/ausland/ukraine-krieg-neue-friedensgespraeche-in-den-usa-angekuendigt-a-2e92bb3f-3751-4eee-8f8c-9b09b95e8c81#ref=rss)
+### landkreis
+
+* [https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher](https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher-a-676fdf38-4e1a-42c9-8302-0a36b33ee92a#ref=rss)
+### günzburg
+
+* [https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher](https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher-a-676fdf38-4e1a-42c9-8302-0a36b33ee92a#ref=rss)
+### rennrutschen
+
+* [https://www.spiegel.de/sport/rennrutschen-cedric-koehnke-ist-deutscher-meister-und-spricht-ueber-adrenalinkicks](https://www.spiegel.de/sport/rennrutschen-cedric-koehnke-ist-deutscher-meister-und-spricht-ueber-adrenalinkicks-a-d852e8de-22f1-4220-97d0-71efdb64fcee#ref=rss)
+### cedric
+
+* [https://www.spiegel.de/sport/rennrutschen-cedric-koehnke-ist-deutscher-meister-und-spricht-ueber-adrenalinkicks](https://www.spiegel.de/sport/rennrutschen-cedric-koehnke-ist-deutscher-meister-und-spricht-ueber-adrenalinkicks-a-d852e8de-22f1-4220-97d0-71efdb64fcee#ref=rss)
+### deutscher
+
+* [https://www.spiegel.de/sport/rennrutschen-cedric-koehnke-ist-deutscher-meister-und-spricht-ueber-adrenalinkicks](https://www.spiegel.de/sport/rennrutschen-cedric-koehnke-ist-deutscher-meister-und-spricht-ueber-adrenalinkicks-a-d852e8de-22f1-4220-97d0-71efdb64fcee#ref=rss)
+### meister
+
+* [https://www.spiegel.de/sport/rennrutschen-cedric-koehnke-ist-deutscher-meister-und-spricht-ueber-adrenalinkicks](https://www.spiegel.de/sport/rennrutschen-cedric-koehnke-ist-deutscher-meister-und-spricht-ueber-adrenalinkicks-a-d852e8de-22f1-4220-97d0-71efdb64fcee#ref=rss)
+### peter
+
+* [https://www.spiegel.de/kultur/peter-arnett-ist-tot-kriegsreporter-aus-vietnam-und-bagdad](https://www.spiegel.de/kultur/peter-arnett-ist-tot-kriegsreporter-aus-vietnam-und-bagdad-a-df101bd7-f40d-4eb9-a34a-a304b1ccc692#ref=rss)
+### arnett
+
+* [https://www.spiegel.de/kultur/peter-arnett-ist-tot-kriegsreporter-aus-vietnam-und-bagdad](https://www.spiegel.de/kultur/peter-arnett-ist-tot-kriegsreporter-aus-vietnam-und-bagdad-a-df101bd7-f40d-4eb9-a34a-a304b1ccc692#ref=rss)
+### bagdad
+
+* [https://www.spiegel.de/kultur/peter-arnett-ist-tot-kriegsreporter-aus-vietnam-und-bagdad](https://www.spiegel.de/kultur/peter-arnett-ist-tot-kriegsreporter-aus-vietnam-und-bagdad-a-df101bd7-f40d-4eb9-a34a-a304b1ccc692#ref=rss)
+### viele
+
+* [https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen](https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen-a-30889446-1a93-4633-9a9c-50216b124bbe#ref=rss)
+* [https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2026](https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2026-a-0a93d9de-7457-4ed1-96bf-8671fb03952e#ref=rss)
+### reiner
+
+* [https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen](https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen-a-30889446-1a93-4633-9a9c-50216b124bbe#ref=rss)
+* [https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner](https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner-a-13c2a901-9fd4-4a7a-bfe1-522675d632bc#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-neue-friedensgespraeche-in-den-usa-angekuendigt](https://www.spiegel.de/ausland/ukraine-krieg-neue-friedensgespraeche-in-den-usa-angekuendigt-a-2e92bb3f-3751-4eee-8f8c-9b09b95e8c81#ref=rss)
+* [https://www.spiegel.de/ausland/estland-russische-grenzschuetzer-sollen-illegal-die-grenze-ueberschritten-haben](https://www.spiegel.de/ausland/estland-russische-grenzschuetzer-sollen-illegal-die-grenze-ueberschritten-haben-a-ea1980da-cc61-4ef9-a046-5648fa653596#ref=rss)
 ### milliarden
 
-* [https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden](https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden-a-37dab4f6-ce42-4ee5-8da8-b7681a7060b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch](https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch-a-a66a921d-8b2d-4f28-af8b-c7dfeb92fa13#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ruestungsindustrie-wie-die-europaeer-ihren-waffeneinkauf-beschleunigen-wollen](https://www.spiegel.de/wirtschaft/ruestungsindustrie-wie-die-europaeer-ihren-waffeneinkauf-beschleunigen-wollen-a-1c2b80ea-1f72-4562-8775-53bd8f869b3d#ref=rss)
+### belgien
 
-* [https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden](https://www.spiegel.de/ausland/donald-trump-verklagt-die-bbc-zehn-milliarden-dollar-fuer-zwoelf-sekunden-a-37dab4f6-ce42-4ee5-8da8-b7681a7060b4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wahl-des-weltfussballers-warum-die-premier-league-so-wenig-vertreten-ist](https://www.spiegel.de/sport/fussball/wahl-des-weltfussballers-warum-die-premier-league-so-wenig-vertreten-ist-a-0fd23d53-962a-4dc1-b235-b46fc38cbb69#ref=rss)
+* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
+* [https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2026](https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2026-a-0a93d9de-7457-4ed1-96bf-8671fb03952e#ref=rss)
+### russisches
+
+* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe](https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe-a-8152c9de-135c-4984-9cf1-e6074099b7c4#ref=rss)
+### vermögen
+
+* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe](https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe-a-8152c9de-135c-4984-9cf1-e6074099b7c4#ref=rss)
+### nutzen
+
+* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe](https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe-a-8152c9de-135c-4984-9cf1-e6074099b7c4#ref=rss)
+### forderungen
+
+* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/schufa-muss-daten-zu-getilgten-schulden-nicht-sofort-loeschen](https://www.spiegel.de/panorama/justiz/schufa-muss-daten-zu-getilgten-schulden-nicht-sofort-loeschen-a-d812d633-17d0-4c9c-a0fa-1f428d7f6eaf#ref=rss)
+### alcaraz
+
+* [https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-und-sein-trainer-trennen-sich-wohl-nicht-einvernehmlich](https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-und-sein-trainer-trennen-sich-wohl-nicht-einvernehmlich-a-0af95aea-b456-4cda-90be-a873fbc22d89#ref=rss)
+### juan
+
+* [https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-und-sein-trainer-trennen-sich-wohl-nicht-einvernehmlich](https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-und-sein-trainer-trennen-sich-wohl-nicht-einvernehmlich-a-0af95aea-b456-4cda-90be-a873fbc22d89#ref=rss)
+### ferrero
+
+* [https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-und-sein-trainer-trennen-sich-wohl-nicht-einvernehmlich](https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-und-sein-trainer-trennen-sich-wohl-nicht-einvernehmlich-a-0af95aea-b456-4cda-90be-a873fbc22d89#ref=rss)
+### schufa
+
+* [https://www.spiegel.de/panorama/justiz/schufa-muss-daten-zu-getilgten-schulden-nicht-sofort-loeschen](https://www.spiegel.de/panorama/justiz/schufa-muss-daten-zu-getilgten-schulden-nicht-sofort-loeschen-a-d812d633-17d0-4c9c-a0fa-1f428d7f6eaf#ref=rss)
+### entschieden
+
+* [https://www.spiegel.de/panorama/justiz/schufa-muss-daten-zu-getilgten-schulden-nicht-sofort-loeschen](https://www.spiegel.de/panorama/justiz/schufa-muss-daten-zu-getilgten-schulden-nicht-sofort-loeschen-a-d812d633-17d0-4c9c-a0fa-1f428d7f6eaf#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video](https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video-a-e90e0ed5-b8db-4b79-a526-e07e7ca0734b#ref=rss)
+### ausland
+
+* [https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien](https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien-a-6319d005-4141-497c-8285-1def94178804#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien](https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien-a-6319d005-4141-497c-8285-1def94178804#ref=rss)
+### entscheiden
+
+* [https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien](https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien-a-6319d005-4141-497c-8285-1def94178804#ref=rss)
+* [https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an](https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an-a-bf84487f-1cf3-4f9d-bda4-f2ceda4c8984#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-sicherheit-von-europa-seine-haerteste-pruefung](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-sicherheit-von-europa-seine-haerteste-pruefung-a-11c69033-9b14-498d-a817-27999c82360a#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-apothekerprotest-weihnachtseinkaeufe-erasmus-in-grossbritannien](https://www.spiegel.de/politik/deutschland/news-des-tages-apothekerprotest-weihnachtseinkaeufe-erasmus-in-grossbritannien-a-52538329-e926-4351-bc14-1764adfa11bc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab-a-39ddce12-be96-469c-b16d-3ad7151599c2#ref=rss)
-### pumas
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-sicherheit-von-europa-seine-haerteste-pruefung](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-sicherheit-von-europa-seine-haerteste-pruefung-a-11c69033-9b14-498d-a817-27999c82360a#ref=rss)
+### sicherheit
 
-* [https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen](https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen-a-02171802-0f1a-4ca9-b91a-d588173c5d3b#ref=rss)
-### patagonien
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-sicherheit-von-europa-seine-haerteste-pruefung](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-sicherheit-von-europa-seine-haerteste-pruefung-a-11c69033-9b14-498d-a817-27999c82360a#ref=rss)
+### europa
 
-* [https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen](https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen-a-02171802-0f1a-4ca9-b91a-d588173c5d3b#ref=rss)
-### pinguine
-
-* [https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen](https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen-a-02171802-0f1a-4ca9-b91a-d588173c5d3b#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen](https://www.spiegel.de/wissenschaft/natur/warum-pumas-in-patagonien-auch-pinguine-jagen-a-02171802-0f1a-4ca9-b91a-d588173c5d3b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab-a-39ddce12-be96-469c-b16d-3ad7151599c2#ref=rss)
-### weihnachten
-
-* [https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet](https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet-a-4f66476d-652a-4c8b-be8c-c811c7b042a9#ref=rss)
-* [https://www.spiegel.de/familie/weihnachten-liebe-lehrer-lasst-das-mit-dem-wichteln-kommentar](https://www.spiegel.de/familie/weihnachten-liebe-lehrer-lasst-das-mit-dem-wichteln-kommentar-a-3746e4b7-05cf-475e-893a-f47b977b335d#ref=rss)
-### legt
-
-* [https://www.spiegel.de/panorama/justiz/schockanruf-senior-legt-telefonbetrueger-rein-schon-wieder](https://www.spiegel.de/panorama/justiz/schockanruf-senior-legt-telefonbetrueger-rein-schon-wieder-a-2f6d2641-383d-46cf-b14e-9eb0d7c0f0ca#ref=rss)
-* [https://www.spiegel.de/auto/bahn-oberleitungsstoerung-legt-bahnverkehr-zwischen-koeln-und-duesseldorf-lahm](https://www.spiegel.de/auto/bahn-oberleitungsstoerung-legt-bahnverkehr-zwischen-koeln-und-duesseldorf-lahm-a-ce553ce6-7780-4123-8972-c8c61b69001a#ref=rss)
-### amazon
-
-* [https://www.spiegel.de/kultur/tv/fallout-auf-amazon-prime-wo-der-weltuntergang-ein-endloser-witz-ist](https://www.spiegel.de/kultur/tv/fallout-auf-amazon-prime-wo-der-weltuntergang-ein-endloser-witz-ist-a-7f0aea83-35b2-4f8c-aaad-e76d1090ff30#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-sicherheit-von-europa-seine-haerteste-pruefung](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-sicherheit-von-europa-seine-haerteste-pruefung-a-11c69033-9b14-498d-a817-27999c82360a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe](https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe-a-8152c9de-135c-4984-9cf1-e6074099b7c4#ref=rss)
 ### prime
 
-* [https://www.spiegel.de/kultur/tv/fallout-auf-amazon-prime-wo-der-weltuntergang-ein-endloser-witz-ist](https://www.spiegel.de/kultur/tv/fallout-auf-amazon-prime-wo-der-weltuntergang-ein-endloser-witz-ist-a-7f0aea83-35b2-4f8c-aaad-e76d1090ff30#ref=rss)
-### kämpft
+* [https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video](https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video-a-e90e0ed5-b8db-4b79-a526-e07e7ca0734b#ref=rss)
+### video
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen](https://www.spiegel.de/wirtschaft/unternehmen/china-die-wirtschaft-kaempft-mit-involution-und-wachstumsproblemen-a-8379b9bb-758f-4911-8795-e238d61352ae#ref=rss)
-### trumpregierung
+* [https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video](https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video-a-e90e0ed5-b8db-4b79-a526-e07e7ca0734b#ref=rss)
+### streamingdienst
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab-a-39ddce12-be96-469c-b16d-3ad7151599c2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimakrise-trump-regierung-will-klimaforschungsinstitut-ncar-schliessen](https://www.spiegel.de/wissenschaft/klimakrise-trump-regierung-will-klimaforschungsinstitut-ncar-schliessen-a-1b62bf6f-af46-43b9-9697-ad3d20208805#ref=rss)
-### analyse
+* [https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video](https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video-a-e90e0ed5-b8db-4b79-a526-e07e7ca0734b#ref=rss)
+### unzulässig
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-stellt-sich-fragen-und-gibt-regierungserklaerung-ab-a-39ddce12-be96-469c-b16d-3ad7151599c2#ref=rss)
-* [https://www.spiegel.de/gesundheit/chronische-erkrankungen-bluthochdruck-depressionen-und-adipositas-in-deutschland-auf-dem-vormarsch](https://www.spiegel.de/gesundheit/chronische-erkrankungen-bluthochdruck-depressionen-und-adipositas-in-deutschland-auf-dem-vormarsch-a-02ad72e2-d3ff-4fb7-9955-53f86cf0f9b5#ref=rss)
-### lizzo
+* [https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video](https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video-a-e90e0ed5-b8db-4b79-a526-e07e7ca0734b#ref=rss)
+### wirklich
 
-* [https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht](https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht-a-120b3289-9cd9-4138-bee6-cb2a6c51ce8e#ref=rss)
-### klagepunkte
+* [https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen](https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen-a-8f8b810c-d957-4529-b020-ec6788667c10#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist](https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist-a-a787ec79-fc03-4b18-bef2-ab8ad7c97fb0#ref=rss)
+### arzt
 
-* [https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht](https://www.spiegel.de/kultur/musik/lizzo-freut-sich-gericht-weist-fatshaming-vorwurf-zurueck-andere-klagepunkte-aber-nicht-a-120b3289-9cd9-4138-bee6-cb2a6c51ce8e#ref=rss)
-### köln
+* [https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen](https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen-a-8f8b810c-d957-4529-b020-ec6788667c10#ref=rss)
+### phänomen
 
-* [https://www.spiegel.de/auto/bahn-oberleitungsstoerung-legt-bahnverkehr-zwischen-koeln-und-duesseldorf-lahm](https://www.spiegel.de/auto/bahn-oberleitungsstoerung-legt-bahnverkehr-zwischen-koeln-und-duesseldorf-lahm-a-ce553ce6-7780-4123-8972-c8c61b69001a#ref=rss)
-### markus
+* [https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen](https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen-a-8f8b810c-d957-4529-b020-ec6788667c10#ref=rss)
+### estland
 
-* [https://www.spiegel.de/psychologie/verschickungskinder-markus-schnermann-ist-eine-zumutung](https://www.spiegel.de/psychologie/verschickungskinder-markus-schnermann-ist-eine-zumutung-a-ab33c1d1-48cd-437e-a974-87f82100019c#ref=rss)
-### marschflugkörper
+* [https://www.spiegel.de/ausland/estland-russische-grenzschuetzer-sollen-illegal-die-grenze-ueberschritten-haben](https://www.spiegel.de/ausland/estland-russische-grenzschuetzer-sollen-illegal-die-grenze-ueberschritten-haben-a-ea1980da-cc61-4ef9-a046-5648fa653596#ref=rss)
+### harry
 
-* [https://www.spiegel.de/wissenschaft/technik/marschflugkoerper-taurus-neo-neuer-bunkerbrecher-fuer-die-bundeswehr](https://www.spiegel.de/wissenschaft/technik/marschflugkoerper-taurus-neo-neuer-bunkerbrecher-fuer-die-bundeswehr-a-cf14ff4b-0ec7-4725-b2c2-57d26eb7e9ca#ref=rss)
-### taurus
+* [https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner](https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner-a-13c2a901-9fd4-4a7a-bfe1-522675d632bc#ref=rss)
+### meg
 
-* [https://www.spiegel.de/wissenschaft/technik/marschflugkoerper-taurus-neo-neuer-bunkerbrecher-fuer-die-bundeswehr](https://www.spiegel.de/wissenschaft/technik/marschflugkoerper-taurus-neo-neuer-bunkerbrecher-fuer-die-bundeswehr-a-cf14ff4b-0ec7-4725-b2c2-57d26eb7e9ca#ref=rss)
-### experten
+* [https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner](https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner-a-13c2a901-9fd4-4a7a-bfe1-522675d632bc#ref=rss)
+### ryan
 
-* [https://www.spiegel.de/wissenschaft/technik/marschflugkoerper-taurus-neo-neuer-bunkerbrecher-fuer-die-bundeswehr](https://www.spiegel.de/wissenschaft/technik/marschflugkoerper-taurus-neo-neuer-bunkerbrecher-fuer-die-bundeswehr-a-cf14ff4b-0ec7-4725-b2c2-57d26eb7e9ca#ref=rss)
-* [https://www.spiegel.de/panorama/kuenstliche-intelligenz-japanerin-heiratet-ihren-chatbot-klaus](https://www.spiegel.de/panorama/kuenstliche-intelligenz-japanerin-heiratet-ihren-chatbot-klaus-a-9b880479-4d85-4016-8bf4-b5a047808a6d#ref=rss)
-### haushaltsausschuss
+* [https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner](https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner-a-13c2a901-9fd4-4a7a-bfe1-522675d632bc#ref=rss)
+### verstorbenen
 
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch](https://www.spiegel.de/politik/deutschland/bundeswehr-haushaltsausschuss-winkt-50-milliarden-fuer-ruestungsprojekte-durch-a-a66a921d-8b2d-4f28-af8b-c7dfeb92fa13#ref=rss)
-### schrottimmobilien
+* [https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner](https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner-a-13c2a901-9fd4-4a7a-bfe1-522675d632bc#ref=rss)
+* [https://www.spiegel.de/panorama/leute/luisa-neubauer-spricht-ueber-tod-ihres-vaters](https://www.spiegel.de/panorama/leute/luisa-neubauer-spricht-ueber-tod-ihres-vaters-a-61688a5c-3a56-4cc4-ae19-c0508299bb96#ref=rss)
+### reiners
 
-* [https://www.spiegel.de/panorama/schrottimmobilien-im-ruhrgebiet-massnahmen-gegen-armutsmigration](https://www.spiegel.de/panorama/schrottimmobilien-im-ruhrgebiet-massnahmen-gegen-armutsmigration-a-88aabaa5-df2f-46ec-b61e-f604682c2b0f#ref=rss)
-### chatbot
+* [https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner](https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner-a-13c2a901-9fd4-4a7a-bfe1-522675d632bc#ref=rss)
+### brown
 
-* [https://www.spiegel.de/panorama/kuenstliche-intelligenz-japanerin-heiratet-ihren-chatbot-klaus](https://www.spiegel.de/panorama/kuenstliche-intelligenz-japanerin-heiratet-ihren-chatbot-klaus-a-9b880479-4d85-4016-8bf4-b5a047808a6d#ref=rss)
-### diesem
+* [https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person](https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person-a-c60c6b14-88ae-4258-8682-a1c3434bb610#ref=rss)
+### university
 
-* [https://www.spiegel.de/panorama/kuenstliche-intelligenz-japanerin-heiratet-ihren-chatbot-klaus](https://www.spiegel.de/panorama/kuenstliche-intelligenz-japanerin-heiratet-ihren-chatbot-klaus-a-9b880479-4d85-4016-8bf4-b5a047808a6d#ref=rss)
-* [https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben](https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben-a-8b97c1e0-bebe-44b7-aad6-8e6f25ec0c14#ref=rss)
-### studierende
+* [https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person](https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person-a-c60c6b14-88ae-4258-8682-a1c3434bb610#ref=rss)
+### tödlichen
 
-* [https://www.spiegel.de/start/bayern-sparmassnahmen-an-hochschulen-studierende-prangern-marode-gebaeude-an](https://www.spiegel.de/start/bayern-sparmassnahmen-an-hochschulen-studierende-prangern-marode-gebaeude-an-a-d311f015-c1cb-4c6d-ae07-904ab05b691e#ref=rss)
-### gebäude
+* [https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person](https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person-a-c60c6b14-88ae-4258-8682-a1c3434bb610#ref=rss)
+### schüssen
 
-* [https://www.spiegel.de/start/bayern-sparmassnahmen-an-hochschulen-studierende-prangern-marode-gebaeude-an](https://www.spiegel.de/start/bayern-sparmassnahmen-an-hochschulen-studierende-prangern-marode-gebaeude-an-a-d311f015-c1cb-4c6d-ae07-904ab05b691e#ref=rss)
-### jva
+* [https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person](https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person-a-c60c6b14-88ae-4258-8682-a1c3434bb610#ref=rss)
+### dartswm
 
-* [https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-neue-gesetze-fuer-gefaengnisse-wegen-misshandlungsvorwuerfen](https://www.spiegel.de/panorama/justiz/jva-augsburg-gablingen-neue-gesetze-fuer-gefaengnisse-wegen-misshandlungsvorwuerfen-a-d92d9be3-dccd-4e05-9ca9-a8695b25cbd7#ref=rss)
-### ncar
+* [https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton](https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton-a-5ad80a1a-a96c-48b1-89dd-0f5406b7f92f#ref=rss)
+### martin
 
-* [https://www.spiegel.de/wissenschaft/klimakrise-trump-regierung-will-klimaforschungsinstitut-ncar-schliessen](https://www.spiegel.de/wissenschaft/klimakrise-trump-regierung-will-klimaforschungsinstitut-ncar-schliessen-a-1b62bf6f-af46-43b9-9697-ad3d20208805#ref=rss)
-### erkrankungen
+* [https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton](https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton-a-5ad80a1a-a96c-48b1-89dd-0f5406b7f92f#ref=rss)
+### schindler
 
-* [https://www.spiegel.de/gesundheit/chronische-erkrankungen-bluthochdruck-depressionen-und-adipositas-in-deutschland-auf-dem-vormarsch](https://www.spiegel.de/gesundheit/chronische-erkrankungen-bluthochdruck-depressionen-und-adipositas-in-deutschland-auf-dem-vormarsch-a-02ad72e2-d3ff-4fb7-9955-53f86cf0f9b5#ref=rss)
-### gesetzentwurf
+* [https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton](https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton-a-5ad80a1a-a96c-48b1-89dd-0f5406b7f92f#ref=rss)
+### stephen
 
-* [https://www.spiegel.de/politik/deutschland/buergergeld-gesetzentwurf-fuer-grundsicherung-vom-kabinett-beschlossen-aber-misstrauen-bleibt](https://www.spiegel.de/politik/deutschland/buergergeld-gesetzentwurf-fuer-grundsicherung-vom-kabinett-beschlossen-aber-misstrauen-bleibt-a-b761db91-a1aa-459f-a9f6-ea7991d782f5#ref=rss)
-### rosa
+* [https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton](https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton-a-5ad80a1a-a96c-48b1-89dd-0f5406b7f92f#ref=rss)
+### burton
 
-* [https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben](https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben-a-8b97c1e0-bebe-44b7-aad6-8e6f25ec0c14#ref=rss)
-### praunheim
+* [https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton](https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton-a-5ad80a1a-a96c-48b1-89dd-0f5406b7f92f#ref=rss)
+### zalando
 
-* [https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben](https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben-a-8b97c1e0-bebe-44b7-aad6-8e6f25ec0c14#ref=rss)
-### medienberichten
+* [https://www.spiegel.de/wirtschaft/erfurt-und-moenchengladbach-gewerkschaft-ver-di-ruft-zalando-beschaeftigte-zu-warnstreik-auf](https://www.spiegel.de/wirtschaft/erfurt-und-moenchengladbach-gewerkschaft-ver-di-ruft-zalando-beschaeftigte-zu-warnstreik-auf-a-f6750a48-45e7-4239-baeb-ed4b1efecf54#ref=rss)
+### gewerkschaft
 
-* [https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben](https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben-a-8b97c1e0-bebe-44b7-aad6-8e6f25ec0c14#ref=rss)
-### gestorben
+* [https://www.spiegel.de/wirtschaft/erfurt-und-moenchengladbach-gewerkschaft-ver-di-ruft-zalando-beschaeftigte-zu-warnstreik-auf](https://www.spiegel.de/wirtschaft/erfurt-und-moenchengladbach-gewerkschaft-ver-di-ruft-zalando-beschaeftigte-zu-warnstreik-auf-a-f6750a48-45e7-4239-baeb-ed4b1efecf54#ref=rss)
+### verdi
 
-* [https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben](https://www.spiegel.de/kultur/kino/rosa-von-praunheim-ist-tot-filmemacher-und-lgbtq-aktivist-offenbar-gestorben-a-8b97c1e0-bebe-44b7-aad6-8e6f25ec0c14#ref=rss)
+* [https://www.spiegel.de/wirtschaft/erfurt-und-moenchengladbach-gewerkschaft-ver-di-ruft-zalando-beschaeftigte-zu-warnstreik-auf](https://www.spiegel.de/wirtschaft/erfurt-und-moenchengladbach-gewerkschaft-ver-di-ruft-zalando-beschaeftigte-zu-warnstreik-auf-a-f6750a48-45e7-4239-baeb-ed4b1efecf54#ref=rss)
+### eugipfel
+
+* [https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe](https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe-a-8152c9de-135c-4984-9cf1-e6074099b7c4#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/kultur/musik/spiegel-abgehoert-2025-das-ist-die-beste-musik-des-jahres](https://www.spiegel.de/kultur/musik/spiegel-abgehoert-2025-das-ist-die-beste-musik-des-jahres-a-b119b4a0-383e-4774-82da-bcd2606c012a#ref=rss)
+### luisa
+
+* [https://www.spiegel.de/panorama/leute/luisa-neubauer-spricht-ueber-tod-ihres-vaters](https://www.spiegel.de/panorama/leute/luisa-neubauer-spricht-ueber-tod-ihres-vaters-a-61688a5c-3a56-4cc4-ae19-c0508299bb96#ref=rss)
+### neubauer
+
+* [https://www.spiegel.de/panorama/leute/luisa-neubauer-spricht-ueber-tod-ihres-vaters](https://www.spiegel.de/panorama/leute/luisa-neubauer-spricht-ueber-tod-ihres-vaters-a-61688a5c-3a56-4cc4-ae19-c0508299bb96#ref=rss)
+### exnationalspieler
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet](https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet-a-6462347b-178c-4ccd-8b74-ccc9f94372db#ref=rss)
+### mario
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet](https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet-a-6462347b-178c-4ccd-8b74-ccc9f94372db#ref=rss)
+### pineida
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet](https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet-a-6462347b-178c-4ccd-8b74-ccc9f94372db#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet](https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet-a-6462347b-178c-4ccd-8b74-ccc9f94372db#ref=rss)
+### uefa
+
+* [https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss](https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss-a-e37ae621-fff1-4818-ac55-8380e0e402fe#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss](https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss-a-e37ae621-fff1-4818-ac55-8380e0e402fe#ref=rss)
+### eintracht
+
+* [https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss](https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss-a-e37ae621-fff1-4818-ac55-8380e0e402fe#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss](https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss-a-e37ae621-fff1-4818-ac55-8380e0e402fe#ref=rss)
+### mercosurabkommen
+
+* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen](https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen-a-244f2ebf-2d19-4b5a-b582-972c7072f4e2#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen](https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen-a-244f2ebf-2d19-4b5a-b582-972c7072f4e2#ref=rss)
+### lula
+
+* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen](https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen-a-244f2ebf-2d19-4b5a-b582-972c7072f4e2#ref=rss)
+### eu
+
+* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen](https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen-a-244f2ebf-2d19-4b5a-b582-972c7072f4e2#ref=rss)
+### brasiliens
+
+* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen](https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen-a-244f2ebf-2d19-4b5a-b582-972c7072f4e2#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen](https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen-a-244f2ebf-2d19-4b5a-b582-972c7072f4e2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ruestungsindustrie-wie-die-europaeer-ihren-waffeneinkauf-beschleunigen-wollen](https://www.spiegel.de/wirtschaft/ruestungsindustrie-wie-die-europaeer-ihren-waffeneinkauf-beschleunigen-wollen-a-1c2b80ea-1f72-4562-8775-53bd8f869b3d#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/deutschland-lars-klingbeil-bereitet-buerger-auf-sparkurs-vor](https://www.spiegel.de/politik/deutschland/deutschland-lars-klingbeil-bereitet-buerger-auf-sparkurs-vor-a-5bf7efe6-0d1d-4d4f-a898-61e3f9c511cb#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/deutschland-lars-klingbeil-bereitet-buerger-auf-sparkurs-vor](https://www.spiegel.de/politik/deutschland/deutschland-lars-klingbeil-bereitet-buerger-auf-sparkurs-vor-a-5bf7efe6-0d1d-4d4f-a898-61e3f9c511cb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist](https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist-a-a787ec79-fc03-4b18-bef2-ab8ad7c97fb0#ref=rss)
+### afdjugendorganisation
+
+* [https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist](https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist-a-a787ec79-fc03-4b18-bef2-ab8ad7c97fb0#ref=rss)
+### wo
+
+* [https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an](https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an-a-bf84487f-1cf3-4f9d-bda4-f2ceda4c8984#ref=rss)
+### fängt
+
+* [https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an](https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an-a-bf84487f-1cf3-4f9d-bda4-f2ceda4c8984#ref=rss)
+### sexualisierte
+
+* [https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an](https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an-a-bf84487f-1cf3-4f9d-bda4-f2ceda4c8984#ref=rss)
 
