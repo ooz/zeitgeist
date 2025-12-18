@@ -4,359 +4,327 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### neue
+### spiegel
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-neue-friedensgespraeche-in-den-usa-angekuendigt](https://www.spiegel.de/ausland/ukraine-krieg-neue-friedensgespraeche-in-den-usa-angekuendigt-a-2e92bb3f-3751-4eee-8f8c-9b09b95e8c81#ref=rss)
-* [https://www.spiegel.de/ausland/estland-russische-grenzschuetzer-sollen-illegal-die-grenze-ueberschritten-haben](https://www.spiegel.de/ausland/estland-russische-grenzschuetzer-sollen-illegal-die-grenze-ueberschritten-haben-a-ea1980da-cc61-4ef9-a046-5648fa653596#ref=rss)
-* [https://www.spiegel.de/kultur/musik/spiegel-abgehoert-2025-das-ist-die-beste-musik-des-jahres](https://www.spiegel.de/kultur/musik/spiegel-abgehoert-2025-das-ist-die-beste-musik-des-jahres-a-b119b4a0-383e-4774-82da-bcd2606c012a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist](https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist-a-a787ec79-fc03-4b18-bef2-ab8ad7c97fb0#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ruhrgebiet-sozialbetrug-und-schrotthaeuser-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/ruhrgebiet-sozialbetrug-und-schrotthaeuser-spiegel-tv-a-5d3f7f8c-2fd3-4ff6-be77-374226de1037#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### china
 
-* [https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher](https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher-a-676fdf38-4e1a-42c9-8302-0a36b33ee92a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/berlin-einigung-bei-gesetz-fuer-stabile-krankenkassenbeitraege](https://www.spiegel.de/wirtschaft/berlin-einigung-bei-gesetz-fuer-stabile-krankenkassenbeitraege-a-5959a63f-070f-45f3-a463-fbdd6f569b73#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist](https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist-a-a787ec79-fc03-4b18-bef2-ab8ad7c97fb0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ruestungsindustrie-wie-die-europaeer-ihren-waffeneinkauf-beschleunigen-wollen](https://www.spiegel.de/wirtschaft/ruestungsindustrie-wie-die-europaeer-ihren-waffeneinkauf-beschleunigen-wollen-a-1c2b80ea-1f72-4562-8775-53bd8f869b3d#ref=rss)
-### mann
+* [https://www.spiegel.de/ausland/china-macht-kondome-und-pille-teurer-um-geburtenrate-zu-steigern](https://www.spiegel.de/ausland/china-macht-kondome-und-pille-teurer-um-geburtenrate-zu-steigern-a-ef18b491-ae95-4b9d-ad9a-15aa21db5b85#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/higgs-teilchen-und-dunkle-materie-china-stoppt-geplanten-mega-teilchenbeschleuniger](https://www.spiegel.de/wissenschaft/technik/higgs-teilchen-und-dunkle-materie-china-stoppt-geplanten-mega-teilchenbeschleuniger-a-99aac7d5-9ec0-4e59-bd86-0bffc05c2f1b#ref=rss)
+### macht
 
-* [https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher](https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher-a-676fdf38-4e1a-42c9-8302-0a36b33ee92a#ref=rss)
-* [https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen](https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen-a-30889446-1a93-4633-9a9c-50216b124bbe#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person](https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person-a-c60c6b14-88ae-4258-8682-a1c3434bb610#ref=rss)
-* [https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an](https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an-a-bf84487f-1cf3-4f9d-bda4-f2ceda4c8984#ref=rss)
-### usa
+* [https://www.spiegel.de/ausland/china-macht-kondome-und-pille-teurer-um-geburtenrate-zu-steigern](https://www.spiegel.de/ausland/china-macht-kondome-und-pille-teurer-um-geburtenrate-zu-steigern-a-ef18b491-ae95-4b9d-ad9a-15aa21db5b85#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel-a-c09c8b82-b5e9-4689-81bf-93b6f9c80da3#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-neue-friedensgespraeche-in-den-usa-angekuendigt](https://www.spiegel.de/ausland/ukraine-krieg-neue-friedensgespraeche-in-den-usa-angekuendigt-a-2e92bb3f-3751-4eee-8f8c-9b09b95e8c81#ref=rss)
-* [https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien](https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien-a-6319d005-4141-497c-8285-1def94178804#ref=rss)
-### russische
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
-* [https://www.spiegel.de/ausland/estland-russische-grenzschuetzer-sollen-illegal-die-grenze-ueberschritten-haben](https://www.spiegel.de/ausland/estland-russische-grenzschuetzer-sollen-illegal-die-grenze-ueberschritten-haben-a-ea1980da-cc61-4ef9-a046-5648fa653596#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe](https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe-a-8152c9de-135c-4984-9cf1-e6074099b7c4#ref=rss)
-### ukraine
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+### ghada
 
-* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe](https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe-a-8152c9de-135c-4984-9cf1-e6074099b7c4#ref=rss)
-### carlos
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+### unter
 
-* [https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-und-sein-trainer-trennen-sich-wohl-nicht-einvernehmlich](https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-und-sein-trainer-trennen-sich-wohl-nicht-einvernehmlich-a-0af95aea-b456-4cda-90be-a873fbc22d89#ref=rss)
-### 2026
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+* [https://www.spiegel.de/politik/ukrainischer-ex-kommandeur-bestaetigt-verdaechtiger-war-zur-tatzeit-elitesoldat](https://www.spiegel.de/politik/ukrainischer-ex-kommandeur-bestaetigt-verdaechtiger-war-zur-tatzeit-elitesoldat-a-48a843bc-3945-4d05-9b01-4ede00706335#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutschlandfonds-bund-mobilisiert-30-milliarden-fuer-investitionen-mobilisieren-auch-in-ruestung](https://www.spiegel.de/wirtschaft/unternehmen/deutschlandfonds-bund-mobilisiert-30-milliarden-fuer-investitionen-mobilisieren-auch-in-ruestung-a-6981e7c8-0494-46da-9f8b-a940e70516b4#ref=rss)
+### erfurt
 
-* [https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton](https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton-a-5ad80a1a-a96c-48b1-89dd-0f5406b7f92f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/berlin-einigung-bei-gesetz-fuer-stabile-krankenkassenbeitraege](https://www.spiegel.de/wirtschaft/berlin-einigung-bei-gesetz-fuer-stabile-krankenkassenbeitraege-a-5959a63f-070f-45f3-a463-fbdd6f569b73#ref=rss)
-* [https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2026](https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2026-a-0a93d9de-7457-4ed1-96bf-8671fb03952e#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen](https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen-a-f6608407-5eac-4ef9-821a-11ba3a8f17f4#ref=rss)
-* [https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen](https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen-a-30889446-1a93-4633-9a9c-50216b124bbe#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher](https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher-a-676fdf38-4e1a-42c9-8302-0a36b33ee92a#ref=rss)
-* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
-* [https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an](https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an-a-bf84487f-1cf3-4f9d-bda4-f2ceda4c8984#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher](https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher-a-676fdf38-4e1a-42c9-8302-0a36b33ee92a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person](https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person-a-c60c6b14-88ae-4258-8682-a1c3434bb610#ref=rss)
-### tod
-
-* [https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen](https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen-a-30889446-1a93-4633-9a9c-50216b124bbe#ref=rss)
-* [https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner](https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner-a-13c2a901-9fd4-4a7a-bfe1-522675d632bc#ref=rss)
-* [https://www.spiegel.de/panorama/leute/luisa-neubauer-spricht-ueber-tod-ihres-vaters](https://www.spiegel.de/panorama/leute/luisa-neubauer-spricht-ueber-tod-ihres-vaters-a-61688a5c-3a56-4cc4-ae19-c0508299bb96#ref=rss)
-### rob
-
-* [https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen](https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen-a-30889446-1a93-4633-9a9c-50216b124bbe#ref=rss)
-* [https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner](https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner-a-13c2a901-9fd4-4a7a-bfe1-522675d632bc#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien](https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien-a-6319d005-4141-497c-8285-1def94178804#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist](https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist-a-a787ec79-fc03-4b18-bef2-ab8ad7c97fb0#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video](https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video-a-e90e0ed5-b8db-4b79-a526-e07e7ca0734b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen](https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen-a-8f8b810c-d957-4529-b020-ec6788667c10#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video](https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video-a-e90e0ed5-b8db-4b79-a526-e07e7ca0734b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss](https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss-a-e37ae621-fff1-4818-ac55-8380e0e402fe#ref=rss)
-### urlaub
-
-* [https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen](https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen-a-8f8b810c-d957-4529-b020-ec6788667c10#ref=rss)
-* [https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2026](https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2026-a-0a93d9de-7457-4ed1-96bf-8671fb03952e#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet](https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet-a-6462347b-178c-4ccd-8b74-ccc9f94372db#ref=rss)
-* [https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an](https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an-a-bf84487f-1cf3-4f9d-bda4-f2ceda4c8984#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen](https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen-a-f6608407-5eac-4ef9-821a-11ba3a8f17f4#ref=rss)
-* [https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen](https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen-a-30889446-1a93-4633-9a9c-50216b124bbe#ref=rss)
-### tvrede
-
-* [https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen](https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen-a-f6608407-5eac-4ef9-821a-11ba3a8f17f4#ref=rss)
-### nation
-
-* [https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen](https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen-a-f6608407-5eac-4ef9-821a-11ba3a8f17f4#ref=rss)
-### prognosen
-
-* [https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen](https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen-a-f6608407-5eac-4ef9-821a-11ba3a8f17f4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-lars-klingbeil-bereitet-buerger-auf-sparkurs-vor](https://www.spiegel.de/politik/deutschland/deutschland-lars-klingbeil-bereitet-buerger-auf-sparkurs-vor-a-5bf7efe6-0d1d-4d4f-a898-61e3f9c511cb#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen](https://www.spiegel.de/ausland/donald-trump-tv-rede-an-die-nation-selbstlob-und-optimistische-prognosen-a-f6608407-5eac-4ef9-821a-11ba3a8f17f4#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-neue-friedensgespraeche-in-den-usa-angekuendigt](https://www.spiegel.de/ausland/ukraine-krieg-neue-friedensgespraeche-in-den-usa-angekuendigt-a-2e92bb3f-3751-4eee-8f8c-9b09b95e8c81#ref=rss)
-### landkreis
-
-* [https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher](https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher-a-676fdf38-4e1a-42c9-8302-0a36b33ee92a#ref=rss)
-### günzburg
-
-* [https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher](https://www.spiegel.de/panorama/justiz/landkreis-guenzburg-zoll-stellt-mehr-als-200-kugelbomben-sicher-a-676fdf38-4e1a-42c9-8302-0a36b33ee92a#ref=rss)
-### rennrutschen
-
-* [https://www.spiegel.de/sport/rennrutschen-cedric-koehnke-ist-deutscher-meister-und-spricht-ueber-adrenalinkicks](https://www.spiegel.de/sport/rennrutschen-cedric-koehnke-ist-deutscher-meister-und-spricht-ueber-adrenalinkicks-a-d852e8de-22f1-4220-97d0-71efdb64fcee#ref=rss)
-### cedric
-
-* [https://www.spiegel.de/sport/rennrutschen-cedric-koehnke-ist-deutscher-meister-und-spricht-ueber-adrenalinkicks](https://www.spiegel.de/sport/rennrutschen-cedric-koehnke-ist-deutscher-meister-und-spricht-ueber-adrenalinkicks-a-d852e8de-22f1-4220-97d0-71efdb64fcee#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/sport/rennrutschen-cedric-koehnke-ist-deutscher-meister-und-spricht-ueber-adrenalinkicks](https://www.spiegel.de/sport/rennrutschen-cedric-koehnke-ist-deutscher-meister-und-spricht-ueber-adrenalinkicks-a-d852e8de-22f1-4220-97d0-71efdb64fcee#ref=rss)
-### meister
-
-* [https://www.spiegel.de/sport/rennrutschen-cedric-koehnke-ist-deutscher-meister-und-spricht-ueber-adrenalinkicks](https://www.spiegel.de/sport/rennrutschen-cedric-koehnke-ist-deutscher-meister-und-spricht-ueber-adrenalinkicks-a-d852e8de-22f1-4220-97d0-71efdb64fcee#ref=rss)
-### peter
-
-* [https://www.spiegel.de/kultur/peter-arnett-ist-tot-kriegsreporter-aus-vietnam-und-bagdad](https://www.spiegel.de/kultur/peter-arnett-ist-tot-kriegsreporter-aus-vietnam-und-bagdad-a-df101bd7-f40d-4eb9-a34a-a304b1ccc692#ref=rss)
-### arnett
-
-* [https://www.spiegel.de/kultur/peter-arnett-ist-tot-kriegsreporter-aus-vietnam-und-bagdad](https://www.spiegel.de/kultur/peter-arnett-ist-tot-kriegsreporter-aus-vietnam-und-bagdad-a-df101bd7-f40d-4eb9-a34a-a304b1ccc692#ref=rss)
-### bagdad
-
-* [https://www.spiegel.de/kultur/peter-arnett-ist-tot-kriegsreporter-aus-vietnam-und-bagdad](https://www.spiegel.de/kultur/peter-arnett-ist-tot-kriegsreporter-aus-vietnam-und-bagdad-a-df101bd7-f40d-4eb9-a34a-a304b1ccc692#ref=rss)
-### viele
-
-* [https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen](https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen-a-30889446-1a93-4633-9a9c-50216b124bbe#ref=rss)
-* [https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2026](https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2026-a-0a93d9de-7457-4ed1-96bf-8671fb03952e#ref=rss)
-### reiner
-
-* [https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen](https://www.spiegel.de/politik/donald-trump-ist-ein-kranker-mann-und-es-gibt-viele-die-davon-profitieren-wollen-a-30889446-1a93-4633-9a9c-50216b124bbe#ref=rss)
-* [https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner](https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner-a-13c2a901-9fd4-4a7a-bfe1-522675d632bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt-a-e5834721-6751-4e28-a426-90a71ef156d2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erfurt-prozess-gegen-lehrer-wegen-mutmasslichem-missbrauch-von-drei-schuelerinnen-gestartet](https://www.spiegel.de/panorama/justiz/erfurt-prozess-gegen-lehrer-wegen-mutmasslichem-missbrauch-von-drei-schuelerinnen-gestartet-a-8f349c47-4fb6-4240-80fb-1834478c0701#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-neue-friedensgespraeche-in-den-usa-angekuendigt](https://www.spiegel.de/ausland/ukraine-krieg-neue-friedensgespraeche-in-den-usa-angekuendigt-a-2e92bb3f-3751-4eee-8f8c-9b09b95e8c81#ref=rss)
-* [https://www.spiegel.de/ausland/estland-russische-grenzschuetzer-sollen-illegal-die-grenze-ueberschritten-haben](https://www.spiegel.de/ausland/estland-russische-grenzschuetzer-sollen-illegal-die-grenze-ueberschritten-haben-a-ea1980da-cc61-4ef9-a046-5648fa653596#ref=rss)
-### milliarden
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-stationiert-oreschnik-raketen-in-belarus](https://www.spiegel.de/ausland/ukraine-krieg-russland-stationiert-oreschnik-raketen-in-belarus-a-b3badcf4-8998-4bbb-8b85-2cd1768ec4c2#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-wie-merz-in-russland-zur-hassfigur-aufgebaut-wird](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-wie-merz-in-russland-zur-hassfigur-aufgebaut-wird-a-5a727dc3-4df6-41ac-aae1-d4deb93403aa#ref=rss)
+### tag
 
-* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ruestungsindustrie-wie-die-europaeer-ihren-waffeneinkauf-beschleunigen-wollen](https://www.spiegel.de/wirtschaft/ruestungsindustrie-wie-die-europaeer-ihren-waffeneinkauf-beschleunigen-wollen-a-1c2b80ea-1f72-4562-8775-53bd8f869b3d#ref=rss)
-### belgien
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-stationiert-oreschnik-raketen-in-belarus](https://www.spiegel.de/ausland/ukraine-krieg-russland-stationiert-oreschnik-raketen-in-belarus-a-b3badcf4-8998-4bbb-8b85-2cd1768ec4c2#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
-### zeigt
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-stationiert-oreschnik-raketen-in-belarus](https://www.spiegel.de/ausland/ukraine-krieg-russland-stationiert-oreschnik-raketen-in-belarus-a-b3badcf4-8998-4bbb-8b85-2cd1768ec4c2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel-a-c09c8b82-b5e9-4689-81bf-93b6f9c80da3#ref=rss)
+* [https://www.spiegel.de/politik/ukrainischer-ex-kommandeur-bestaetigt-verdaechtiger-war-zur-tatzeit-elitesoldat](https://www.spiegel.de/politik/ukrainischer-ex-kommandeur-bestaetigt-verdaechtiger-war-zur-tatzeit-elitesoldat-a-48a843bc-3945-4d05-9b01-4ede00706335#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
-* [https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2026](https://www.spiegel.de/karriere/brueckentage-rechner-so-optimieren-sie-ihren-urlaub-in-2026-a-0a93d9de-7457-4ed1-96bf-8671fb03952e#ref=rss)
-### russisches
-
-* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe](https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe-a-8152c9de-135c-4984-9cf1-e6074099b7c4#ref=rss)
-### vermögen
-
-* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe](https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe-a-8152c9de-135c-4984-9cf1-e6074099b7c4#ref=rss)
-### nutzen
-
-* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe](https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe-a-8152c9de-135c-4984-9cf1-e6074099b7c4#ref=rss)
-### forderungen
-
-* [https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit](https://www.spiegel.de/ausland/russische-milliarden-fuer-die-ukraine-belgien-zeigt-sich-verhandlungsbereit-a-a0978a5c-004d-471d-80c7-8f7040b3d6f4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schufa-muss-daten-zu-getilgten-schulden-nicht-sofort-loeschen](https://www.spiegel.de/panorama/justiz/schufa-muss-daten-zu-getilgten-schulden-nicht-sofort-loeschen-a-d812d633-17d0-4c9c-a0fa-1f428d7f6eaf#ref=rss)
-### alcaraz
-
-* [https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-und-sein-trainer-trennen-sich-wohl-nicht-einvernehmlich](https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-und-sein-trainer-trennen-sich-wohl-nicht-einvernehmlich-a-0af95aea-b456-4cda-90be-a873fbc22d89#ref=rss)
-### juan
-
-* [https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-und-sein-trainer-trennen-sich-wohl-nicht-einvernehmlich](https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-und-sein-trainer-trennen-sich-wohl-nicht-einvernehmlich-a-0af95aea-b456-4cda-90be-a873fbc22d89#ref=rss)
-### ferrero
-
-* [https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-und-sein-trainer-trennen-sich-wohl-nicht-einvernehmlich](https://www.spiegel.de/sport/tennis/tennis-carlos-alcaraz-und-sein-trainer-trennen-sich-wohl-nicht-einvernehmlich-a-0af95aea-b456-4cda-90be-a873fbc22d89#ref=rss)
-### schufa
-
-* [https://www.spiegel.de/panorama/justiz/schufa-muss-daten-zu-getilgten-schulden-nicht-sofort-loeschen](https://www.spiegel.de/panorama/justiz/schufa-muss-daten-zu-getilgten-schulden-nicht-sofort-loeschen-a-d812d633-17d0-4c9c-a0fa-1f428d7f6eaf#ref=rss)
-### entschieden
-
-* [https://www.spiegel.de/panorama/justiz/schufa-muss-daten-zu-getilgten-schulden-nicht-sofort-loeschen](https://www.spiegel.de/panorama/justiz/schufa-muss-daten-zu-getilgten-schulden-nicht-sofort-loeschen-a-d812d633-17d0-4c9c-a0fa-1f428d7f6eaf#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video](https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video-a-e90e0ed5-b8db-4b79-a526-e07e7ca0734b#ref=rss)
-### ausland
-
-* [https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien](https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien-a-6319d005-4141-497c-8285-1def94178804#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien](https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien-a-6319d005-4141-497c-8285-1def94178804#ref=rss)
-### entscheiden
-
-* [https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien](https://www.spiegel.de/start/studium-im-ausland-weniger-deutsche-studieren-in-usa-und-grossbritannien-a-6319d005-4141-497c-8285-1def94178804#ref=rss)
-* [https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an](https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an-a-bf84487f-1cf3-4f9d-bda4-f2ceda4c8984#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-sicherheit-von-europa-seine-haerteste-pruefung](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-sicherheit-von-europa-seine-haerteste-pruefung-a-11c69033-9b14-498d-a817-27999c82360a#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-sicherheit-von-europa-seine-haerteste-pruefung](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-sicherheit-von-europa-seine-haerteste-pruefung-a-11c69033-9b14-498d-a817-27999c82360a#ref=rss)
-### sicherheit
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-sicherheit-von-europa-seine-haerteste-pruefung](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-sicherheit-von-europa-seine-haerteste-pruefung-a-11c69033-9b14-498d-a817-27999c82360a#ref=rss)
-### europa
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-sicherheit-von-europa-seine-haerteste-pruefung](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-sicherheit-von-europa-seine-haerteste-pruefung-a-11c69033-9b14-498d-a817-27999c82360a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe](https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe-a-8152c9de-135c-4984-9cf1-e6074099b7c4#ref=rss)
-### prime
-
-* [https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video](https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video-a-e90e0ed5-b8db-4b79-a526-e07e7ca0734b#ref=rss)
-### video
-
-* [https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video](https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video-a-e90e0ed5-b8db-4b79-a526-e07e7ca0734b#ref=rss)
-### streamingdienst
-
-* [https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video](https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video-a-e90e0ed5-b8db-4b79-a526-e07e7ca0734b#ref=rss)
-### unzulässig
-
-* [https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video](https://www.spiegel.de/netzwelt/apps/amazon-prime-video-verliert-klage-wehen-werbung-bei-prime-video-a-e90e0ed5-b8db-4b79-a526-e07e7ca0734b#ref=rss)
-### wirklich
-
-* [https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen](https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen-a-8f8b810c-d957-4529-b020-ec6788667c10#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist](https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist-a-a787ec79-fc03-4b18-bef2-ab8ad7c97fb0#ref=rss)
-### arzt
-
-* [https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen](https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen-a-8f8b810c-d957-4529-b020-ec6788667c10#ref=rss)
-### phänomen
-
-* [https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen](https://www.spiegel.de/wissenschaft/erkaeltungen-wird-man-im-urlaub-wirklich-haeufiger-krank-arzt-erklaert-das-phaenomen-a-8f8b810c-d957-4529-b020-ec6788667c10#ref=rss)
-### estland
-
-* [https://www.spiegel.de/ausland/estland-russische-grenzschuetzer-sollen-illegal-die-grenze-ueberschritten-haben](https://www.spiegel.de/ausland/estland-russische-grenzschuetzer-sollen-illegal-die-grenze-ueberschritten-haben-a-ea1980da-cc61-4ef9-a046-5648fa653596#ref=rss)
-### harry
-
-* [https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner](https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner-a-13c2a901-9fd4-4a7a-bfe1-522675d632bc#ref=rss)
-### meg
-
-* [https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner](https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner-a-13c2a901-9fd4-4a7a-bfe1-522675d632bc#ref=rss)
-### ryan
-
-* [https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner](https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner-a-13c2a901-9fd4-4a7a-bfe1-522675d632bc#ref=rss)
-### verstorbenen
-
-* [https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner](https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner-a-13c2a901-9fd4-4a7a-bfe1-522675d632bc#ref=rss)
-* [https://www.spiegel.de/panorama/leute/luisa-neubauer-spricht-ueber-tod-ihres-vaters](https://www.spiegel.de/panorama/leute/luisa-neubauer-spricht-ueber-tod-ihres-vaters-a-61688a5c-3a56-4cc4-ae19-c0508299bb96#ref=rss)
-### reiners
-
-* [https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner](https://www.spiegel.de/kultur/kino/harry-und-sally-star-meg-ryan-trauert-um-rob-reiner-a-13c2a901-9fd4-4a7a-bfe1-522675d632bc#ref=rss)
-### brown
-
-* [https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person](https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person-a-c60c6b14-88ae-4258-8682-a1c3434bb610#ref=rss)
-### university
-
-* [https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person](https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person-a-c60c6b14-88ae-4258-8682-a1c3434bb610#ref=rss)
-### tödlichen
-
-* [https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person](https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person-a-c60c6b14-88ae-4258-8682-a1c3434bb610#ref=rss)
-### schüssen
-
-* [https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person](https://www.spiegel.de/panorama/justiz/brown-university-polizei-sucht-nach-toedlichen-schuessen-weitere-person-a-c60c6b14-88ae-4258-8682-a1c3434bb610#ref=rss)
-### dartswm
-
-* [https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton](https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton-a-5ad80a1a-a96c-48b1-89dd-0f5406b7f92f#ref=rss)
-### martin
-
-* [https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton](https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton-a-5ad80a1a-a96c-48b1-89dd-0f5406b7f92f#ref=rss)
-### schindler
-
-* [https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton](https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton-a-5ad80a1a-a96c-48b1-89dd-0f5406b7f92f#ref=rss)
-### stephen
-
-* [https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton](https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton-a-5ad80a1a-a96c-48b1-89dd-0f5406b7f92f#ref=rss)
-### burton
-
-* [https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton](https://www.spiegel.de/sport/darts-wm-2026-martin-schindler-besiegt-stephen-burton-a-5ad80a1a-a96c-48b1-89dd-0f5406b7f92f#ref=rss)
-### zalando
-
-* [https://www.spiegel.de/wirtschaft/erfurt-und-moenchengladbach-gewerkschaft-ver-di-ruft-zalando-beschaeftigte-zu-warnstreik-auf](https://www.spiegel.de/wirtschaft/erfurt-und-moenchengladbach-gewerkschaft-ver-di-ruft-zalando-beschaeftigte-zu-warnstreik-auf-a-f6750a48-45e7-4239-baeb-ed4b1efecf54#ref=rss)
-### gewerkschaft
-
-* [https://www.spiegel.de/wirtschaft/erfurt-und-moenchengladbach-gewerkschaft-ver-di-ruft-zalando-beschaeftigte-zu-warnstreik-auf](https://www.spiegel.de/wirtschaft/erfurt-und-moenchengladbach-gewerkschaft-ver-di-ruft-zalando-beschaeftigte-zu-warnstreik-auf-a-f6750a48-45e7-4239-baeb-ed4b1efecf54#ref=rss)
-### verdi
-
-* [https://www.spiegel.de/wirtschaft/erfurt-und-moenchengladbach-gewerkschaft-ver-di-ruft-zalando-beschaeftigte-zu-warnstreik-auf](https://www.spiegel.de/wirtschaft/erfurt-und-moenchengladbach-gewerkschaft-ver-di-ruft-zalando-beschaeftigte-zu-warnstreik-auf-a-f6750a48-45e7-4239-baeb-ed4b1efecf54#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt-a-e5834721-6751-4e28-a426-90a71ef156d2#ref=rss)
+* [https://www.spiegel.de/kultur/tv/kevin-spacey-neue-fernsehserie-minimarket-startet-in-italien](https://www.spiegel.de/kultur/tv/kevin-spacey-neue-fernsehserie-minimarket-startet-in-italien-a-ee101b26-412a-4613-9088-7ab3e1f9967b#ref=rss)
 ### eugipfel
 
-* [https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe](https://www.spiegel.de/wirtschaft/eu-gipfel-diskussion-ueber-nutzung-russischer-vermoegen-fuer-ukraine-hilfe-a-8152c9de-135c-4984-9cf1-e6074099b7c4#ref=rss)
-### 2025
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt-a-e5834721-6751-4e28-a426-90a71ef156d2#ref=rss)
+* [https://www.spiegel.de/politik/eu-gipfel-bauern-protestieren-mit-kartoffeln-und-rauchbomben](https://www.spiegel.de/politik/eu-gipfel-bauern-protestieren-mit-kartoffeln-und-rauchbomben-a-43bf20ad-0d7b-4e75-a6db-b9c32dfbccdd#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel-a-c09c8b82-b5e9-4689-81bf-93b6f9c80da3#ref=rss)
+### lehrer
 
-* [https://www.spiegel.de/kultur/musik/spiegel-abgehoert-2025-das-ist-die-beste-musik-des-jahres](https://www.spiegel.de/kultur/musik/spiegel-abgehoert-2025-das-ist-die-beste-musik-des-jahres-a-b119b4a0-383e-4774-82da-bcd2606c012a#ref=rss)
-### luisa
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt-a-e5834721-6751-4e28-a426-90a71ef156d2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erfurt-prozess-gegen-lehrer-wegen-mutmasslichem-missbrauch-von-drei-schuelerinnen-gestartet](https://www.spiegel.de/panorama/justiz/erfurt-prozess-gegen-lehrer-wegen-mutmasslichem-missbrauch-von-drei-schuelerinnen-gestartet-a-8f349c47-4fb6-4240-80fb-1834478c0701#ref=rss)
+### drei
 
-* [https://www.spiegel.de/panorama/leute/luisa-neubauer-spricht-ueber-tod-ihres-vaters](https://www.spiegel.de/panorama/leute/luisa-neubauer-spricht-ueber-tod-ihres-vaters-a-61688a5c-3a56-4cc4-ae19-c0508299bb96#ref=rss)
-### neubauer
+* [https://www.spiegel.de/panorama/justiz/bruchsal-23-jaehriger-rast-auf-gegenfahrbahn-und-baut-toedlichen-unfall-drei-jahre-gefaengnis](https://www.spiegel.de/panorama/justiz/bruchsal-23-jaehriger-rast-auf-gegenfahrbahn-und-baut-toedlichen-unfall-drei-jahre-gefaengnis-a-c85daff0-24aa-4ef6-ae9a-d69bd1fc789f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erfurt-prozess-gegen-lehrer-wegen-mutmasslichem-missbrauch-von-drei-schuelerinnen-gestartet](https://www.spiegel.de/panorama/justiz/erfurt-prozess-gegen-lehrer-wegen-mutmasslichem-missbrauch-von-drei-schuelerinnen-gestartet-a-8f349c47-4fb6-4240-80fb-1834478c0701#ref=rss)
+### bundeskanzler
 
-* [https://www.spiegel.de/panorama/leute/luisa-neubauer-spricht-ueber-tod-ihres-vaters](https://www.spiegel.de/panorama/leute/luisa-neubauer-spricht-ueber-tod-ihres-vaters-a-61688a5c-3a56-4cc4-ae19-c0508299bb96#ref=rss)
-### exnationalspieler
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel-a-c09c8b82-b5e9-4689-81bf-93b6f9c80da3#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-wie-merz-in-russland-zur-hassfigur-aufgebaut-wird](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-wie-merz-in-russland-zur-hassfigur-aufgebaut-wird-a-5a727dc3-4df6-41ac-aae1-d4deb93403aa#ref=rss)
+### merz
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet](https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet-a-6462347b-178c-4ccd-8b74-ccc9f94372db#ref=rss)
-### mario
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel-a-c09c8b82-b5e9-4689-81bf-93b6f9c80da3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/verbrenner-aus-regierung-ohne-definition-fuer-hocheffiziente-verbrenner](https://www.spiegel.de/wirtschaft/verbrenner-aus-regierung-ohne-definition-fuer-hocheffiziente-verbrenner-a-9d94f6c7-7ec9-4b24-91f6-e6eab59a1f78#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-wie-merz-in-russland-zur-hassfigur-aufgebaut-wird](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-wie-merz-in-russland-zur-hassfigur-aufgebaut-wird-a-5a727dc3-4df6-41ac-aae1-d4deb93403aa#ref=rss)
+### europäische
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet](https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet-a-6462347b-178c-4ccd-8b74-ccc9f94372db#ref=rss)
-### pineida
+* [https://www.spiegel.de/wissenschaft/technik/higgs-teilchen-und-dunkle-materie-china-stoppt-geplanten-mega-teilchenbeschleuniger](https://www.spiegel.de/wissenschaft/technik/higgs-teilchen-und-dunkle-materie-china-stoppt-geplanten-mega-teilchenbeschleuniger-a-99aac7d5-9ec0-4e59-bd86-0bffc05c2f1b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ezb-europaeische-zentralbank-belaesst-leitzins-bei-2-0-prozent](https://www.spiegel.de/wirtschaft/ezb-europaeische-zentralbank-belaesst-leitzins-bei-2-0-prozent-a-5118368c-cf0c-4c5b-9e10-d5b1a8f52b93#ref=rss)
+### bestätigt
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet](https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet-a-6462347b-178c-4ccd-8b74-ccc9f94372db#ref=rss)
-### getötet
+* [https://www.spiegel.de/politik/ukrainischer-ex-kommandeur-bestaetigt-verdaechtiger-war-zur-tatzeit-elitesoldat](https://www.spiegel.de/politik/ukrainischer-ex-kommandeur-bestaetigt-verdaechtiger-war-zur-tatzeit-elitesoldat-a-48a843bc-3945-4d05-9b01-4ede00706335#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-milliardaer-jared-isaacman-wird-neuer-chef-der-us-weltraumbehoerde](https://www.spiegel.de/wissenschaft/weltall/nasa-milliardaer-jared-isaacman-wird-neuer-chef-der-us-weltraumbehoerde-a-32de1ecf-8dd5-401e-aa69-9ef8d3e6aca8#ref=rss)
+### spacey
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet](https://www.spiegel.de/sport/fussball/fussball-in-ecuador-ex-nationalspieler-mario-pineida-bei-angriff-getoetet-a-6462347b-178c-4ccd-8b74-ccc9f94372db#ref=rss)
-### uefa
+* [https://www.spiegel.de/kultur/tv/kevin-spacey-neue-fernsehserie-minimarket-startet-in-italien](https://www.spiegel.de/kultur/tv/kevin-spacey-neue-fernsehserie-minimarket-startet-in-italien-a-ee101b26-412a-4613-9088-7ab3e1f9967b#ref=rss)
+### prozess
 
-* [https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss](https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss-a-e37ae621-fff1-4818-ac55-8380e0e402fe#ref=rss)
-### bayern
+* [https://www.spiegel.de/panorama/justiz/magdeburg-prozess-wird-ohne-todesfahrer-von-magdeburg-fortgesetzt](https://www.spiegel.de/panorama/justiz/magdeburg-prozess-wird-ohne-todesfahrer-von-magdeburg-fortgesetzt-a-08006ee8-08b4-4d33-9f26-91f49035ea2b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erfurt-prozess-gegen-lehrer-wegen-mutmasslichem-missbrauch-von-drei-schuelerinnen-gestartet](https://www.spiegel.de/panorama/justiz/erfurt-prozess-gegen-lehrer-wegen-mutmasslichem-missbrauch-von-drei-schuelerinnen-gestartet-a-8f349c47-4fb6-4240-80fb-1834478c0701#ref=rss)
+### teurer
 
-* [https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss](https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss-a-e37ae621-fff1-4818-ac55-8380e0e402fe#ref=rss)
-### eintracht
+* [https://www.spiegel.de/ausland/china-macht-kondome-und-pille-teurer-um-geburtenrate-zu-steigern](https://www.spiegel.de/ausland/china-macht-kondome-und-pille-teurer-um-geburtenrate-zu-steigern-a-ef18b491-ae95-4b9d-ad9a-15aa21db5b85#ref=rss)
+* [https://www.spiegel.de/netzwelt/ssd-und-ram-darum-kosten-wichtige-pc-teile-ploetzlich-das-vierfache](https://www.spiegel.de/netzwelt/ssd-und-ram-darum-kosten-wichtige-pc-teile-ploetzlich-das-vierfache-a-c1ed3e5c-36a2-4e5d-beb4-0a6a3113c493#ref=rss)
+### geburtenrate
 
-* [https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss](https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss-a-e37ae621-fff1-4818-ac55-8380e0e402fe#ref=rss)
-### frankfurt
+* [https://www.spiegel.de/ausland/china-macht-kondome-und-pille-teurer-um-geburtenrate-zu-steigern](https://www.spiegel.de/ausland/china-macht-kondome-und-pille-teurer-um-geburtenrate-zu-steigern-a-ef18b491-ae95-4b9d-ad9a-15aa21db5b85#ref=rss)
+### steigern
 
-* [https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss](https://www.spiegel.de/sport/fussball/champions-league-uefa-bestraft-fc-bayern-muenchen-und-eintracht-frankfurt-mit-fan-ausschluss-a-e37ae621-fff1-4818-ac55-8380e0e402fe#ref=rss)
-### mercosurabkommen
+* [https://www.spiegel.de/ausland/china-macht-kondome-und-pille-teurer-um-geburtenrate-zu-steigern](https://www.spiegel.de/ausland/china-macht-kondome-und-pille-teurer-um-geburtenrate-zu-steigern-a-ef18b491-ae95-4b9d-ad9a-15aa21db5b85#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen](https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen-a-244f2ebf-2d19-4b5a-b582-972c7072f4e2#ref=rss)
-### präsident
+* [https://www.spiegel.de/ausland/china-macht-kondome-und-pille-teurer-um-geburtenrate-zu-steigern](https://www.spiegel.de/ausland/china-macht-kondome-und-pille-teurer-um-geburtenrate-zu-steigern-a-ef18b491-ae95-4b9d-ad9a-15aa21db5b85#ref=rss)
+* [https://www.spiegel.de/netzwelt/ssd-und-ram-darum-kosten-wichtige-pc-teile-ploetzlich-das-vierfache](https://www.spiegel.de/netzwelt/ssd-und-ram-darum-kosten-wichtige-pc-teile-ploetzlich-das-vierfache-a-c1ed3e5c-36a2-4e5d-beb4-0a6a3113c493#ref=rss)
+### ukrainekrieg
 
-* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen](https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen-a-244f2ebf-2d19-4b5a-b582-972c7072f4e2#ref=rss)
-### lula
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-stationiert-oreschnik-raketen-in-belarus](https://www.spiegel.de/ausland/ukraine-krieg-russland-stationiert-oreschnik-raketen-in-belarus-a-b3badcf4-8998-4bbb-8b85-2cd1768ec4c2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel-a-c09c8b82-b5e9-4689-81bf-93b6f9c80da3#ref=rss)
+### belarus
 
-* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen](https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen-a-244f2ebf-2d19-4b5a-b582-972c7072f4e2#ref=rss)
-### eu
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-stationiert-oreschnik-raketen-in-belarus](https://www.spiegel.de/ausland/ukraine-krieg-russland-stationiert-oreschnik-raketen-in-belarus-a-b3badcf4-8998-4bbb-8b85-2cd1768ec4c2#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen](https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen-a-244f2ebf-2d19-4b5a-b582-972c7072f4e2#ref=rss)
-### brasiliens
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-stationiert-oreschnik-raketen-in-belarus](https://www.spiegel.de/ausland/ukraine-krieg-russland-stationiert-oreschnik-raketen-in-belarus-a-b3badcf4-8998-4bbb-8b85-2cd1768ec4c2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-milliardaer-jared-isaacman-wird-neuer-chef-der-us-weltraumbehoerde](https://www.spiegel.de/wissenschaft/weltall/nasa-milliardaer-jared-isaacman-wird-neuer-chef-der-us-weltraumbehoerde-a-32de1ecf-8dd5-401e-aa69-9ef8d3e6aca8#ref=rss)
+### alltag
 
-* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen](https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen-a-244f2ebf-2d19-4b5a-b582-972c7072f4e2#ref=rss)
-### stehen
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+### alkurds
 
-* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen](https://www.spiegel.de/wirtschaft/mercosur-abkommen-praesident-lula-droht-eu-mit-rueckzug-brasiliens-aus-mercosur-abkommen-a-244f2ebf-2d19-4b5a-b582-972c7072f4e2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ruestungsindustrie-wie-die-europaeer-ihren-waffeneinkauf-beschleunigen-wollen](https://www.spiegel.de/wirtschaft/ruestungsindustrie-wie-die-europaeer-ihren-waffeneinkauf-beschleunigen-wollen-a-1c2b80ea-1f72-4562-8775-53bd8f869b3d#ref=rss)
-### klingbeil
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+### leben
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-lars-klingbeil-bereitet-buerger-auf-sparkurs-vor](https://www.spiegel.de/politik/deutschland/deutschland-lars-klingbeil-bereitet-buerger-auf-sparkurs-vor-a-5bf7efe6-0d1d-4d4f-a898-61e3f9c511cb#ref=rss)
-### deutschland
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+### waffenruhe
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-lars-klingbeil-bereitet-buerger-auf-sparkurs-vor](https://www.spiegel.de/politik/deutschland/deutschland-lars-klingbeil-bereitet-buerger-auf-sparkurs-vor-a-5bf7efe6-0d1d-4d4f-a898-61e3f9c511cb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist](https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist-a-a787ec79-fc03-4b18-bef2-ab8ad7c97fb0#ref=rss)
-### afdjugendorganisation
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+### getötete
 
-* [https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist](https://www.spiegel.de/politik/deutschland/generation-deutschland-wie-radikal-die-neue-afd-jugendorganisation-wirklich-ist-a-a787ec79-fc03-4b18-bef2-ab8ad7c97fb0#ref=rss)
-### wo
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+### freunde
 
-* [https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an](https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an-a-bf84487f-1cf3-4f9d-bda4-f2ceda4c8984#ref=rss)
-### fängt
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+### hunger
 
-* [https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an](https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an-a-bf84487f-1cf3-4f9d-bda4-f2ceda4c8984#ref=rss)
-### sexualisierte
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+### angst
 
-* [https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an](https://www.spiegel.de/panorama/yanni-gentsch-und-die-belaestigungsvideos-wo-faengt-sexualisierte-gewalt-an-a-bf84487f-1cf3-4f9d-bda4-f2ceda4c8984#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+### alkurd
+
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+### lebensgefahr
+
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+### heimat
+
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+### hoffnung
+
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-a-07b703a2-7342-4e1c-8e1f-d9fbe21ad211#ref=rss)
+* [https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast](https://www.spiegel.de/ausland/alltag-in-gaza-so-sieht-ghada-alkurds-leben-nach-der-waffenruhe-aus-podcast-a-5d95465c-ec73-404f-b3d2-c81861bcfd5f#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt-a-e5834721-6751-4e28-a426-90a71ef156d2#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### brüssel
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt-a-e5834721-6751-4e28-a426-90a71ef156d2#ref=rss)
+* [https://www.spiegel.de/politik/eu-gipfel-bauern-protestieren-mit-kartoffeln-und-rauchbomben](https://www.spiegel.de/politik/eu-gipfel-bauern-protestieren-mit-kartoffeln-und-rauchbomben-a-43bf20ad-0d7b-4e75-a6db-b9c32dfbccdd#ref=rss)
+### vermögen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt-a-e5834721-6751-4e28-a426-90a71ef156d2#ref=rss)
+### missbrauchsprozess
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt-a-e5834721-6751-4e28-a426-90a71ef156d2#ref=rss)
+### eingefrorene
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt-a-e5834721-6751-4e28-a426-90a71ef156d2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel-a-c09c8b82-b5e9-4689-81bf-93b6f9c80da3#ref=rss)
+### russische
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt-a-e5834721-6751-4e28-a426-90a71ef156d2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel-a-c09c8b82-b5e9-4689-81bf-93b6f9c80da3#ref=rss)
+### startet
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt](https://www.spiegel.de/politik/deutschland/news-des-tages-showdown-in-bruessel-um-eingefrorenes-russisches-vermoegen-neue-details-zum-nord-stream-anschlag-missbrauchsprozess-in-erfurt-a-e5834721-6751-4e28-a426-90a71ef156d2#ref=rss)
+* [https://www.spiegel.de/kultur/tv/kevin-spacey-neue-fernsehserie-minimarket-startet-in-italien](https://www.spiegel.de/kultur/tv/kevin-spacey-neue-fernsehserie-minimarket-startet-in-italien-a-ee101b26-412a-4613-9088-7ab3e1f9967b#ref=rss)
+### patienten
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-mediziner-vergiftete-12-patienten-und-muss-nun-lebenslang-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/frankreich-mediziner-vergiftete-12-patienten-und-muss-nun-lebenslang-ins-gefaengnis-a-f8959656-d400-4334-8d9d-42276ee22018#ref=rss)
+### gefängnis
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-mediziner-vergiftete-12-patienten-und-muss-nun-lebenslang-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/frankreich-mediziner-vergiftete-12-patienten-und-muss-nun-lebenslang-ins-gefaengnis-a-f8959656-d400-4334-8d9d-42276ee22018#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bruchsal-23-jaehriger-rast-auf-gegenfahrbahn-und-baut-toedlichen-unfall-drei-jahre-gefaengnis](https://www.spiegel.de/panorama/justiz/bruchsal-23-jaehriger-rast-auf-gegenfahrbahn-und-baut-toedlichen-unfall-drei-jahre-gefaengnis-a-c85daff0-24aa-4ef6-ae9a-d69bd1fc789f#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-mediziner-vergiftete-12-patienten-und-muss-nun-lebenslang-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/frankreich-mediziner-vergiftete-12-patienten-und-muss-nun-lebenslang-ins-gefaengnis-a-f8959656-d400-4334-8d9d-42276ee22018#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erfurt-prozess-gegen-lehrer-wegen-mutmasslichem-missbrauch-von-drei-schuelerinnen-gestartet](https://www.spiegel.de/panorama/justiz/erfurt-prozess-gegen-lehrer-wegen-mutmasslichem-missbrauch-von-drei-schuelerinnen-gestartet-a-8f349c47-4fb6-4240-80fb-1834478c0701#ref=rss)
+### bekommen
+
+* [https://www.spiegel.de/panorama/gesellschaft/berlin-soll-yad-vashem-strasse-bekommen](https://www.spiegel.de/panorama/gesellschaft/berlin-soll-yad-vashem-strasse-bekommen-a-31dc3703-662b-4008-9551-9e27e0933c75#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/higgs-teilchen-und-dunkle-materie-china-stoppt-geplanten-mega-teilchenbeschleuniger](https://www.spiegel.de/wissenschaft/technik/higgs-teilchen-und-dunkle-materie-china-stoppt-geplanten-mega-teilchenbeschleuniger-a-99aac7d5-9ec0-4e59-bd86-0bffc05c2f1b#ref=rss)
+### ruhrgebiet
+
+* [https://www.spiegel.de/panorama/gesellschaft/ruhrgebiet-sozialbetrug-und-schrotthaeuser-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/ruhrgebiet-sozialbetrug-und-schrotthaeuser-spiegel-tv-a-5d3f7f8c-2fd3-4ff6-be77-374226de1037#ref=rss)
+### tv
+
+* [https://www.spiegel.de/panorama/gesellschaft/ruhrgebiet-sozialbetrug-und-schrotthaeuser-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/ruhrgebiet-sozialbetrug-und-schrotthaeuser-spiegel-tv-a-5d3f7f8c-2fd3-4ff6-be77-374226de1037#ref=rss)
+### makler
+
+* [https://www.spiegel.de/panorama/wohnungsmarkt-bgh-entscheidet-ueber-diskriminierung-durch-makler-bei-der-wohnungssuche](https://www.spiegel.de/panorama/wohnungsmarkt-bgh-entscheidet-ueber-diskriminierung-durch-makler-bei-der-wohnungssuche-a-c676309f-b0ce-4651-ad66-02a1600e383a#ref=rss)
+### bundesgerichtshof
+
+* [https://www.spiegel.de/panorama/wohnungsmarkt-bgh-entscheidet-ueber-diskriminierung-durch-makler-bei-der-wohnungssuche](https://www.spiegel.de/panorama/wohnungsmarkt-bgh-entscheidet-ueber-diskriminierung-durch-makler-bei-der-wohnungssuche-a-c676309f-b0ce-4651-ad66-02a1600e383a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/leverkusen-justiz-darf-villa-von-sozialbetruegern-beschlagnahmen](https://www.spiegel.de/panorama/justiz/leverkusen-justiz-darf-villa-von-sozialbetruegern-beschlagnahmen-a-0ac1091d-949b-4db0-a4b0-a000b56d13e3#ref=rss)
+### rast
+
+* [https://www.spiegel.de/panorama/justiz/bruchsal-23-jaehriger-rast-auf-gegenfahrbahn-und-baut-toedlichen-unfall-drei-jahre-gefaengnis](https://www.spiegel.de/panorama/justiz/bruchsal-23-jaehriger-rast-auf-gegenfahrbahn-und-baut-toedlichen-unfall-drei-jahre-gefaengnis-a-c85daff0-24aa-4ef6-ae9a-d69bd1fc789f#ref=rss)
+### gegenfahrbahn
+
+* [https://www.spiegel.de/panorama/justiz/bruchsal-23-jaehriger-rast-auf-gegenfahrbahn-und-baut-toedlichen-unfall-drei-jahre-gefaengnis](https://www.spiegel.de/panorama/justiz/bruchsal-23-jaehriger-rast-auf-gegenfahrbahn-und-baut-toedlichen-unfall-drei-jahre-gefaengnis-a-c85daff0-24aa-4ef6-ae9a-d69bd1fc789f#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/justiz/bruchsal-23-jaehriger-rast-auf-gegenfahrbahn-und-baut-toedlichen-unfall-drei-jahre-gefaengnis](https://www.spiegel.de/panorama/justiz/bruchsal-23-jaehriger-rast-auf-gegenfahrbahn-und-baut-toedlichen-unfall-drei-jahre-gefaengnis-a-c85daff0-24aa-4ef6-ae9a-d69bd1fc789f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erfurt-prozess-gegen-lehrer-wegen-mutmasslichem-missbrauch-von-drei-schuelerinnen-gestartet](https://www.spiegel.de/panorama/justiz/erfurt-prozess-gegen-lehrer-wegen-mutmasslichem-missbrauch-von-drei-schuelerinnen-gestartet-a-8f349c47-4fb6-4240-80fb-1834478c0701#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/panorama/justiz/bruchsal-23-jaehriger-rast-auf-gegenfahrbahn-und-baut-toedlichen-unfall-drei-jahre-gefaengnis](https://www.spiegel.de/panorama/justiz/bruchsal-23-jaehriger-rast-auf-gegenfahrbahn-und-baut-toedlichen-unfall-drei-jahre-gefaengnis-a-c85daff0-24aa-4ef6-ae9a-d69bd1fc789f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/magdeburg-prozess-wird-ohne-todesfahrer-von-magdeburg-fortgesetzt](https://www.spiegel.de/panorama/justiz/magdeburg-prozess-wird-ohne-todesfahrer-von-magdeburg-fortgesetzt-a-08006ee8-08b4-4d33-9f26-91f49035ea2b#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel-a-c09c8b82-b5e9-4689-81bf-93b6f9c80da3#ref=rss)
+### darum
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel-a-c09c8b82-b5e9-4689-81bf-93b6f9c80da3#ref=rss)
+* [https://www.spiegel.de/netzwelt/ssd-und-ram-darum-kosten-wichtige-pc-teile-ploetzlich-das-vierfache](https://www.spiegel.de/netzwelt/ssd-und-ram-darum-kosten-wichtige-pc-teile-ploetzlich-das-vierfache-a-c1ed3e5c-36a2-4e5d-beb4-0a6a3113c493#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/wissenschaft/technik/higgs-teilchen-und-dunkle-materie-china-stoppt-geplanten-mega-teilchenbeschleuniger](https://www.spiegel.de/wissenschaft/technik/higgs-teilchen-und-dunkle-materie-china-stoppt-geplanten-mega-teilchenbeschleuniger-a-99aac7d5-9ec0-4e59-bd86-0bffc05c2f1b#ref=rss)
+* [https://www.spiegel.de/ausland/demokratischen-republik-kongo-kaempfe-zwingen-tausende-in-die-flucht-trotz-friedensdeal](https://www.spiegel.de/ausland/demokratischen-republik-kongo-kaempfe-zwingen-tausende-in-die-flucht-trotz-friedensdeal-a-f38f715a-a62a-4dab-889c-0cba49236225#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### k
+
+* [https://www.spiegel.de/politik/ukrainischer-ex-kommandeur-bestaetigt-verdaechtiger-war-zur-tatzeit-elitesoldat](https://www.spiegel.de/politik/ukrainischer-ex-kommandeur-bestaetigt-verdaechtiger-war-zur-tatzeit-elitesoldat-a-48a843bc-3945-4d05-9b01-4ede00706335#ref=rss)
+### kevin
+
+* [https://www.spiegel.de/kultur/tv/kevin-spacey-neue-fernsehserie-minimarket-startet-in-italien](https://www.spiegel.de/kultur/tv/kevin-spacey-neue-fernsehserie-minimarket-startet-in-italien-a-ee101b26-412a-4613-9088-7ab3e1f9967b#ref=rss)
+### italien
+
+* [https://www.spiegel.de/kultur/tv/kevin-spacey-neue-fernsehserie-minimarket-startet-in-italien](https://www.spiegel.de/kultur/tv/kevin-spacey-neue-fernsehserie-minimarket-startet-in-italien-a-ee101b26-412a-4613-9088-7ab3e1f9967b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-in-italien-zufallsfund-von-fussabdruecken-mit-zehen-und-krallen](https://www.spiegel.de/wissenschaft/natur/dinosaurier-in-italien-zufallsfund-von-fussabdruecken-mit-zehen-und-krallen-a-1da295b0-8c7b-4b30-bef4-ceb962b0b349#ref=rss)
+### zahlreiche
+
+* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-in-italien-zufallsfund-von-fussabdruecken-mit-zehen-und-krallen](https://www.spiegel.de/wissenschaft/natur/dinosaurier-in-italien-zufallsfund-von-fussabdruecken-mit-zehen-und-krallen-a-1da295b0-8c7b-4b30-bef4-ceb962b0b349#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erfurt-prozess-gegen-lehrer-wegen-mutmasslichem-missbrauch-von-drei-schuelerinnen-gestartet](https://www.spiegel.de/panorama/justiz/erfurt-prozess-gegen-lehrer-wegen-mutmasslichem-missbrauch-von-drei-schuelerinnen-gestartet-a-8f349c47-4fb6-4240-80fb-1834478c0701#ref=rss)
+### afdpolitiker
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-politiker-zoffen-sich-um-betrug-vetternwirtschaft-und-dubiose-geschaefte](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-politiker-zoffen-sich-um-betrug-vetternwirtschaft-und-dubiose-geschaefte-a-6628f10d-b0b6-4201-b3f0-d5709e3d7cc8#ref=rss)
+### hocheffiziente
+
+* [https://www.spiegel.de/wirtschaft/verbrenner-aus-regierung-ohne-definition-fuer-hocheffiziente-verbrenner](https://www.spiegel.de/wirtschaft/verbrenner-aus-regierung-ohne-definition-fuer-hocheffiziente-verbrenner-a-9d94f6c7-7ec9-4b24-91f6-e6eab59a1f78#ref=rss)
+### verbrenner
+
+* [https://www.spiegel.de/wirtschaft/verbrenner-aus-regierung-ohne-definition-fuer-hocheffiziente-verbrenner](https://www.spiegel.de/wirtschaft/verbrenner-aus-regierung-ohne-definition-fuer-hocheffiziente-verbrenner-a-9d94f6c7-7ec9-4b24-91f6-e6eab59a1f78#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/wirtschaft/verbrenner-aus-regierung-ohne-definition-fuer-hocheffiziente-verbrenner](https://www.spiegel.de/wirtschaft/verbrenner-aus-regierung-ohne-definition-fuer-hocheffiziente-verbrenner-a-9d94f6c7-7ec9-4b24-91f6-e6eab59a1f78#ref=rss)
+### dürfen
+
+* [https://www.spiegel.de/wirtschaft/verbrenner-aus-regierung-ohne-definition-fuer-hocheffiziente-verbrenner](https://www.spiegel.de/wirtschaft/verbrenner-aus-regierung-ohne-definition-fuer-hocheffiziente-verbrenner-a-9d94f6c7-7ec9-4b24-91f6-e6eab59a1f78#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/leverkusen-justiz-darf-villa-von-sozialbetruegern-beschlagnahmen](https://www.spiegel.de/panorama/justiz/leverkusen-justiz-darf-villa-von-sozialbetruegern-beschlagnahmen-a-0ac1091d-949b-4db0-a4b0-a000b56d13e3#ref=rss)
+### leverkusen
+
+* [https://www.spiegel.de/panorama/justiz/leverkusen-justiz-darf-villa-von-sozialbetruegern-beschlagnahmen](https://www.spiegel.de/panorama/justiz/leverkusen-justiz-darf-villa-von-sozialbetruegern-beschlagnahmen-a-0ac1091d-949b-4db0-a4b0-a000b56d13e3#ref=rss)
+### villa
+
+* [https://www.spiegel.de/panorama/justiz/leverkusen-justiz-darf-villa-von-sozialbetruegern-beschlagnahmen](https://www.spiegel.de/panorama/justiz/leverkusen-justiz-darf-villa-von-sozialbetruegern-beschlagnahmen-a-0ac1091d-949b-4db0-a4b0-a000b56d13e3#ref=rss)
+### nasa
+
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-milliardaer-jared-isaacman-wird-neuer-chef-der-us-weltraumbehoerde](https://www.spiegel.de/wissenschaft/weltall/nasa-milliardaer-jared-isaacman-wird-neuer-chef-der-us-weltraumbehoerde-a-32de1ecf-8dd5-401e-aa69-9ef8d3e6aca8#ref=rss)
+### jared
+
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-milliardaer-jared-isaacman-wird-neuer-chef-der-us-weltraumbehoerde](https://www.spiegel.de/wissenschaft/weltall/nasa-milliardaer-jared-isaacman-wird-neuer-chef-der-us-weltraumbehoerde-a-32de1ecf-8dd5-401e-aa69-9ef8d3e6aca8#ref=rss)
+### isaacman
+
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-milliardaer-jared-isaacman-wird-neuer-chef-der-us-weltraumbehoerde](https://www.spiegel.de/wissenschaft/weltall/nasa-milliardaer-jared-isaacman-wird-neuer-chef-der-us-weltraumbehoerde-a-32de1ecf-8dd5-401e-aa69-9ef8d3e6aca8#ref=rss)
+### conference
+
+* [https://www.spiegel.de/sport/fussball/conference-league-das-letzte-fest-fuer-die-fussball-romantiker](https://www.spiegel.de/sport/fussball/conference-league-das-letzte-fest-fuer-die-fussball-romantiker-a-ca76ee2e-1949-40aa-ae5f-95d9f283742c#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/conference-league-das-letzte-fest-fuer-die-fussball-romantiker](https://www.spiegel.de/sport/fussball/conference-league-das-letzte-fest-fuer-die-fussball-romantiker-a-ca76ee2e-1949-40aa-ae5f-95d9f283742c#ref=rss)
+### deutschlandfonds
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutschlandfonds-bund-mobilisiert-30-milliarden-fuer-investitionen-mobilisieren-auch-in-ruestung](https://www.spiegel.de/wirtschaft/unternehmen/deutschlandfonds-bund-mobilisiert-30-milliarden-fuer-investitionen-mobilisieren-auch-in-ruestung-a-6981e7c8-0494-46da-9f8b-a940e70516b4#ref=rss)
+### investitionen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutschlandfonds-bund-mobilisiert-30-milliarden-fuer-investitionen-mobilisieren-auch-in-ruestung](https://www.spiegel.de/wirtschaft/unternehmen/deutschlandfonds-bund-mobilisiert-30-milliarden-fuer-investitionen-mobilisieren-auch-in-ruestung-a-6981e7c8-0494-46da-9f8b-a940e70516b4#ref=rss)
+### zentralbank
+
+* [https://www.spiegel.de/wirtschaft/ezb-europaeische-zentralbank-belaesst-leitzins-bei-2-0-prozent](https://www.spiegel.de/wirtschaft/ezb-europaeische-zentralbank-belaesst-leitzins-bei-2-0-prozent-a-5118368c-cf0c-4c5b-9e10-d5b1a8f52b93#ref=rss)
+### schülerinnen
+
+* [https://www.spiegel.de/panorama/justiz/erfurt-prozess-gegen-lehrer-wegen-mutmasslichem-missbrauch-von-drei-schuelerinnen-gestartet](https://www.spiegel.de/panorama/justiz/erfurt-prozess-gegen-lehrer-wegen-mutmasslichem-missbrauch-von-drei-schuelerinnen-gestartet-a-8f349c47-4fb6-4240-80fb-1834478c0701#ref=rss)
+### demokratische
+
+* [https://www.spiegel.de/ausland/demokratischen-republik-kongo-kaempfe-zwingen-tausende-in-die-flucht-trotz-friedensdeal](https://www.spiegel.de/ausland/demokratischen-republik-kongo-kaempfe-zwingen-tausende-in-die-flucht-trotz-friedensdeal-a-f38f715a-a62a-4dab-889c-0cba49236225#ref=rss)
+### republik
+
+* [https://www.spiegel.de/ausland/demokratischen-republik-kongo-kaempfe-zwingen-tausende-in-die-flucht-trotz-friedensdeal](https://www.spiegel.de/ausland/demokratischen-republik-kongo-kaempfe-zwingen-tausende-in-die-flucht-trotz-friedensdeal-a-f38f715a-a62a-4dab-889c-0cba49236225#ref=rss)
+### kongo
+
+* [https://www.spiegel.de/ausland/demokratischen-republik-kongo-kaempfe-zwingen-tausende-in-die-flucht-trotz-friedensdeal](https://www.spiegel.de/ausland/demokratischen-republik-kongo-kaempfe-zwingen-tausende-in-die-flucht-trotz-friedensdeal-a-f38f715a-a62a-4dab-889c-0cba49236225#ref=rss)
 
