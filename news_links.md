@@ -4,357 +4,316 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### weihnachten
-
-* [https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland](https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland-a-23a053eb-add0-4de9-8c46-406444fde16f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-ein-nachmittag-mit-drei-unentschieden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-ein-nachmittag-mit-drei-unentschieden-a-c9e8fbef-0591-4398-ba87-9448491b641a#ref=rss)
-* [https://www.spiegel.de/psychologie/trend-zum-ich-geschenk-warum-sich-menschen-an-weihnachten-selbst-beschenken](https://www.spiegel.de/psychologie/trend-zum-ich-geschenk-warum-sich-menschen-an-weihnachten-selbst-beschenken-a-5741f343-9b3a-4134-b034-a83098d3c1e0#ref=rss)
-* [https://www.spiegel.de/familie/weihnachten-warum-ich-mich-nach-zimtgeruch-und-handgeschriebenen-wunschzetteln-sehne](https://www.spiegel.de/familie/weihnachten-warum-ich-mich-nach-zimtgeruch-und-handgeschriebenen-wunschzetteln-sehne-a-cb5df74d-cdd3-4939-a2d7-3e06e05ed3fd#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-lula-setzt-auf-januar-fuer-handelsdeal](https://www.spiegel.de/wirtschaft/mercosur-abkommen-lula-setzt-auf-januar-fuer-handelsdeal-a-e0975f3e-f393-4418-830d-5b483be68f3a#ref=rss)
-* [https://www.spiegel.de/kultur/spiegel-kritik-bernhard-poerksen-ueber-die-debattenkultur-und-leser-kommentare](https://www.spiegel.de/kultur/spiegel-kritik-bernhard-poerksen-ueber-die-debattenkultur-und-leser-kommentare-a-ee01f28c-69a0-439b-b29d-2fd826cad5fc#ref=rss)
-* [https://www.spiegel.de/panorama/magdeburg-gedenken-an-die-opfer-der-todesfahrt-ein-jahr-danach-die-trauer-ist-lebendig](https://www.spiegel.de/panorama/magdeburg-gedenken-an-die-opfer-der-todesfahrt-ein-jahr-danach-die-trauer-ist-lebendig-a-f2167cf0-4a56-4f59-b33f-1353054c708d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-und-spd-intern-nennen-sie-ihn-parolen-lars-die-kleinen-hiebe-nehmen-zu](https://www.spiegel.de/politik/deutschland/lars-klingbeil-und-spd-intern-nennen-sie-ihn-parolen-lars-die-kleinen-hiebe-nehmen-zu-a-5cf86327-fd25-4363-b28c-86bcfc1348c9#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland](https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland-a-23a053eb-add0-4de9-8c46-406444fde16f#ref=rss)
-* [https://www.spiegel.de/karriere/kommunikation-smarter-leben-wie-wir-rechthaber-und-besserwisserinnen-ueberzeugen-koennen](https://www.spiegel.de/karriere/kommunikation-smarter-leben-wie-wir-rechthaber-und-besserwisserinnen-ueberzeugen-koennen-a-56e015c5-84ba-4f40-8c60-f7d4a6a14f76#ref=rss)
-* [https://www.spiegel.de/panorama/magdeburg-gedenken-an-die-opfer-der-todesfahrt-ein-jahr-danach-die-trauer-ist-lebendig](https://www.spiegel.de/panorama/magdeburg-gedenken-an-die-opfer-der-todesfahrt-ein-jahr-danach-die-trauer-ist-lebendig-a-f2167cf0-4a56-4f59-b33f-1353054c708d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fuehrerschein-verkehrsminister-raet-davon-ab-auf-niedrigere-kosten-zu-warten](https://www.spiegel.de/politik/deutschland/fuehrerschein-verkehrsminister-raet-davon-ab-auf-niedrigere-kosten-zu-warten-a-4223b944-db55-445e-99f1-a8359aca9e6e#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland](https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland-a-23a053eb-add0-4de9-8c46-406444fde16f#ref=rss)
-* [https://www.spiegel.de/karriere/kommunikation-smarter-leben-wie-wir-rechthaber-und-besserwisserinnen-ueberzeugen-koennen](https://www.spiegel.de/karriere/kommunikation-smarter-leben-wie-wir-rechthaber-und-besserwisserinnen-ueberzeugen-koennen-a-56e015c5-84ba-4f40-8c60-f7d4a6a14f76#ref=rss)
-* [https://www.spiegel.de/kultur/spiegel-kritik-bernhard-poerksen-ueber-die-debattenkultur-und-leser-kommentare](https://www.spiegel.de/kultur/spiegel-kritik-bernhard-poerksen-ueber-die-debattenkultur-und-leser-kommentare-a-ee01f28c-69a0-439b-b29d-2fd826cad5fc#ref=rss)
-* [https://www.spiegel.de/panorama/magdeburg-gedenken-an-die-opfer-der-todesfahrt-ein-jahr-danach-die-trauer-ist-lebendig](https://www.spiegel.de/panorama/magdeburg-gedenken-an-die-opfer-der-todesfahrt-ein-jahr-danach-die-trauer-ist-lebendig-a-f2167cf0-4a56-4f59-b33f-1353054c708d#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-lula-setzt-auf-januar-fuer-handelsdeal](https://www.spiegel.de/wirtschaft/mercosur-abkommen-lula-setzt-auf-januar-fuer-handelsdeal-a-e0975f3e-f393-4418-830d-5b483be68f3a#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/david-walliams-harpercollins-stoppt-zusammenarbeit-mit-bestsellerautor](https://www.spiegel.de/kultur/literatur/david-walliams-harpercollins-stoppt-zusammenarbeit-mit-bestsellerautor-a-26ae495e-ae0d-42a0-9ce6-054c3c0c0e98#ref=rss)
-* [https://www.spiegel.de/kultur/kino/sigourney-weaver-ueber-ihre-neue-rolle-als-teenager-und-das-glueck-ihrer-koerpergroesse](https://www.spiegel.de/kultur/kino/sigourney-weaver-ueber-ihre-neue-rolle-als-teenager-und-das-glueck-ihrer-koerpergroesse-a-6d357232-2162-46cb-a08e-96d4624543c0#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-donald-trump-nominiert-neuen-us-kommandeur-und-schliesst-krieg-nicht-aus](https://www.spiegel.de/ausland/venezuela-donald-trump-nominiert-neuen-us-kommandeur-und-schliesst-krieg-nicht-aus-a-18d9aeb3-7109-4063-b1c1-8b24efbb9c3e#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/mark-zuckerberg-und-maga-wie-donald-trump-den-meta-chef-veraendert](https://www.spiegel.de/wirtschaft/unternehmen/mark-zuckerberg-und-maga-wie-donald-trump-den-meta-chef-veraendert-a-e8200fe6-073d-485c-872a-85a0322dc582#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-donald-trump-nominiert-neuen-us-kommandeur-und-schliesst-krieg-nicht-aus](https://www.spiegel.de/ausland/venezuela-donald-trump-nominiert-neuen-us-kommandeur-und-schliesst-krieg-nicht-aus-a-18d9aeb3-7109-4063-b1c1-8b24efbb9c3e#ref=rss)
-### trump
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/mark-zuckerberg-und-maga-wie-donald-trump-den-meta-chef-veraendert](https://www.spiegel.de/wirtschaft/unternehmen/mark-zuckerberg-und-maga-wie-donald-trump-den-meta-chef-veraendert-a-e8200fe6-073d-485c-872a-85a0322dc582#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-donald-trump-nominiert-neuen-us-kommandeur-und-schliesst-krieg-nicht-aus](https://www.spiegel.de/ausland/venezuela-donald-trump-nominiert-neuen-us-kommandeur-und-schliesst-krieg-nicht-aus-a-18d9aeb3-7109-4063-b1c1-8b24efbb9c3e#ref=rss)
-### ich
-
-* [https://www.spiegel.de/familie/weihnachten-warum-ich-mich-nach-zimtgeruch-und-handgeschriebenen-wunschzetteln-sehne](https://www.spiegel.de/familie/weihnachten-warum-ich-mich-nach-zimtgeruch-und-handgeschriebenen-wunschzetteln-sehne-a-cb5df74d-cdd3-4939-a2d7-3e06e05ed3fd#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/drei-jahre-fuhr-sie-hinterher-jetzt-steht-sie-wieder-auf-dem-podest](https://www.spiegel.de/sport/wintersport/drei-jahre-fuhr-sie-hinterher-jetzt-steht-sie-wieder-auf-dem-podest-a-6dfea833-1a6c-4c32-83e0-e47d6ecfdde4#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland](https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland-a-23a053eb-add0-4de9-8c46-406444fde16f#ref=rss)
-* [https://www.spiegel.de/psychologie/trend-zum-ich-geschenk-warum-sich-menschen-an-weihnachten-selbst-beschenken](https://www.spiegel.de/psychologie/trend-zum-ich-geschenk-warum-sich-menschen-an-weihnachten-selbst-beschenken-a-5741f343-9b3a-4134-b034-a83098d3c1e0#ref=rss)
-* [https://www.spiegel.de/panorama/magdeburg-gedenken-an-die-opfer-der-todesfahrt-ein-jahr-danach-die-trauer-ist-lebendig](https://www.spiegel.de/panorama/magdeburg-gedenken-an-die-opfer-der-todesfahrt-ein-jahr-danach-die-trauer-ist-lebendig-a-f2167cf0-4a56-4f59-b33f-1353054c708d#ref=rss)
-### waren
-
-* [https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland](https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland-a-23a053eb-add0-4de9-8c46-406444fde16f#ref=rss)
-* [https://www.spiegel.de/panorama/blue-origin-deutsche-reist-als-erste-rollstuhl-fahrerin-ins-all](https://www.spiegel.de/panorama/blue-origin-deutsche-reist-als-erste-rollstuhl-fahrerin-ins-all-a-85e9f073-eb1d-479d-884f-e27fd1da2ae6#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/drei-jahre-fuhr-sie-hinterher-jetzt-steht-sie-wieder-auf-dem-podest](https://www.spiegel.de/sport/wintersport/drei-jahre-fuhr-sie-hinterher-jetzt-steht-sie-wieder-auf-dem-podest-a-6dfea833-1a6c-4c32-83e0-e47d6ecfdde4#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/blue-origin-deutsche-reist-als-erste-rollstuhl-fahrerin-ins-all](https://www.spiegel.de/panorama/blue-origin-deutsche-reist-als-erste-rollstuhl-fahrerin-ins-all-a-85e9f073-eb1d-479d-884f-e27fd1da2ae6#ref=rss)
-* [https://www.spiegel.de/psychologie/trend-zum-ich-geschenk-warum-sich-menschen-an-weihnachten-selbst-beschenken](https://www.spiegel.de/psychologie/trend-zum-ich-geschenk-warum-sich-menschen-an-weihnachten-selbst-beschenken-a-5741f343-9b3a-4134-b034-a83098d3c1e0#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/blue-origin-deutsche-reist-als-erste-rollstuhl-fahrerin-ins-all](https://www.spiegel.de/panorama/blue-origin-deutsche-reist-als-erste-rollstuhl-fahrerin-ins-all-a-85e9f073-eb1d-479d-884f-e27fd1da2ae6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mark-zuckerberg-und-maga-wie-donald-trump-den-meta-chef-veraendert](https://www.spiegel.de/wirtschaft/unternehmen/mark-zuckerberg-und-maga-wie-donald-trump-den-meta-chef-veraendert-a-e8200fe6-073d-485c-872a-85a0322dc582#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/run-dmc-mordurteil-im-fall-jam-master-jay-aufgehoben](https://www.spiegel.de/panorama/justiz/run-dmc-mordurteil-im-fall-jam-master-jay-aufgehoben-a-91ec1dab-577c-4b56-8ad0-01971920de11#ref=rss)
-### energie
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/mark-zuckerberg-und-maga-wie-donald-trump-den-meta-chef-veraendert](https://www.spiegel.de/wirtschaft/unternehmen/mark-zuckerberg-und-maga-wie-donald-trump-den-meta-chef-veraendert-a-e8200fe6-073d-485c-872a-85a0322dc582#ref=rss)
-* [https://www.spiegel.de/tests/haushalt/heizkosten-smarte-thermostate-im-test-energie-sparen-per-app](https://www.spiegel.de/tests/haushalt/heizkosten-smarte-thermostate-im-test-energie-sparen-per-app-a-f396cb81-c7ec-4a65-aeca-0082d409cbf6#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/basketball/basketball-bundesliga-fc-bayern-trennt-sich-von-weltmeistercoach-herbert](https://www.spiegel.de/sport/basketball/basketball-bundesliga-fc-bayern-trennt-sich-von-weltmeistercoach-herbert-a-3da6ad53-7132-4586-a125-675792950465#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-nick-woltemade-trifft-doppelt-newcastle-united-verspielt-fuehrung-gegen-fc-chelsea](https://www.spiegel.de/sport/fussball/premier-league-nick-woltemade-trifft-doppelt-newcastle-united-verspielt-fuehrung-gegen-fc-chelsea-a-8a732c66-9fa2-4266-b6a8-fe01bd2b4e64#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/kultur/literatur/david-walliams-harpercollins-stoppt-zusammenarbeit-mit-bestsellerautor](https://www.spiegel.de/kultur/literatur/david-walliams-harpercollins-stoppt-zusammenarbeit-mit-bestsellerautor-a-26ae495e-ae0d-42a0-9ce6-054c3c0c0e98#ref=rss)
-* [https://www.spiegel.de/ausland/usa-investieren-1-6-millionen-dollar-in-umstrittene-impfstoffstudie-in-afrika](https://www.spiegel.de/ausland/usa-investieren-1-6-millionen-dollar-in-umstrittene-impfstoffstudie-in-afrika-a-59a00be3-8b12-4999-a6f0-6d7dd62a7ca7#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/drei-jahre-fuhr-sie-hinterher-jetzt-steht-sie-wieder-auf-dem-podest](https://www.spiegel.de/sport/wintersport/drei-jahre-fuhr-sie-hinterher-jetzt-steht-sie-wieder-auf-dem-podest-a-6dfea833-1a6c-4c32-83e0-e47d6ecfdde4#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/kultur/kino-highlights-2025-das-sind-die-besten-filme-des-jahres](https://www.spiegel.de/kultur/kino-highlights-2025-das-sind-die-besten-filme-des-jahres-a-60883132-b914-4a42-bcd9-bec0479a815f#ref=rss)
-* [https://www.spiegel.de/kultur/spiegel-kritik-bernhard-poerksen-ueber-die-debattenkultur-und-leser-kommentare](https://www.spiegel.de/kultur/spiegel-kritik-bernhard-poerksen-ueber-die-debattenkultur-und-leser-kommentare-a-ee01f28c-69a0-439b-b29d-2fd826cad5fc#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/ausland/italien-sorgerechtsstreit-um-isolierte-waldfamilie-in-den-abruzzen](https://www.spiegel.de/ausland/italien-sorgerechtsstreit-um-isolierte-waldfamilie-in-den-abruzzen-a-b7d1a6af-8574-4f8b-97e3-993757f1e4a8#ref=rss)
-* [https://www.spiegel.de/deinspiegel/kinder-erzaehlen-das-macht-meine-familie-besonders](https://www.spiegel.de/deinspiegel/kinder-erzaehlen-das-macht-meine-familie-besonders-a-25261617-8027-47fe-828a-1f0831bc565a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-merz-stuerzt-ab-nur-unionsanhaenger-sind-mit-der-regierung-mehrheitlich-zufrieden](https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-merz-stuerzt-ab-nur-unionsanhaenger-sind-mit-der-regierung-mehrheitlich-zufrieden-a-57ac0e3a-a897-47f5-b8ed-fd8748d3af4c#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-und-kambodscha-neu-aufgeflammte-kaempfe-hunderttausende-menschen-fliehen](https://www.spiegel.de/ausland/thailand-und-kambodscha-neu-aufgeflammte-kaempfe-hunderttausende-menschen-fliehen-a-4ddaad36-22ce-4f4e-a5c3-2e970a27a047#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/suedafrika-mindestens-neun-tote-bei-schusswaffenangriff-nahe-johannesburg](https://www.spiegel.de/panorama/justiz/suedafrika-mindestens-neun-tote-bei-schusswaffenangriff-nahe-johannesburg-a-886674cd-0230-4b82-908b-56b93e911fbe#ref=rss)
+* [https://www.spiegel.de/politik/antisemitismus-josef-schuster-hofft-auf-neuen-aufstand-der-anstaendigen-in-deutschland](https://www.spiegel.de/politik/antisemitismus-josef-schuster-hofft-auf-neuen-aufstand-der-anstaendigen-in-deutschland-a-4ec6b734-4335-4c31-85dc-02286a6d821a#ref=rss)
+* [https://www.spiegel.de/ausland/sydney-australien-gedenkt-der-opfer-des-terroranschlags-auf-juedisches-fest](https://www.spiegel.de/ausland/sydney-australien-gedenkt-der-opfer-des-terroranschlags-auf-juedisches-fest-a-2a918239-6df8-4802-822c-1956eb3637dc#ref=rss)
 ### wir
 
-* [https://www.spiegel.de/tests/haushalt/heizkosten-smarte-thermostate-im-test-energie-sparen-per-app](https://www.spiegel.de/tests/haushalt/heizkosten-smarte-thermostate-im-test-energie-sparen-per-app-a-f396cb81-c7ec-4a65-aeca-0082d409cbf6#ref=rss)
-* [https://www.spiegel.de/karriere/kommunikation-smarter-leben-wie-wir-rechthaber-und-besserwisserinnen-ueberzeugen-koennen](https://www.spiegel.de/karriere/kommunikation-smarter-leben-wie-wir-rechthaber-und-besserwisserinnen-ueberzeugen-koennen-a-56e015c5-84ba-4f40-8c60-f7d4a6a14f76#ref=rss)
-### tag
+* [https://www.spiegel.de/kultur/kino/waehlen-sie-den-besten-weihnachtsfilm-schoener-die-bildschirme-nie-leuchten](https://www.spiegel.de/kultur/kino/waehlen-sie-den-besten-weihnachtsfilm-schoener-die-bildschirme-nie-leuchten-a-f2bda0d3-355d-4352-910b-0e111cfe9186#ref=rss)
+* [https://www.spiegel.de/geschichte/literaturklassiker-mit-leidenschaft-das-sind-die-wichtigsten-buecher-ueber-die-liebe](https://www.spiegel.de/geschichte/literaturklassiker-mit-leidenschaft-das-sind-die-wichtigsten-buecher-ueber-die-liebe-a-7bc1ef9b-da8b-4af6-9e37-7ac4310f1353#ref=rss)
+* [https://www.spiegel.de/partnerschaft/rentieralm-in-rheinland-pfalz-antonia-waechst-wie-mogli-zwischen-rentieren-auf](https://www.spiegel.de/partnerschaft/rentieralm-in-rheinland-pfalz-antonia-waechst-wie-mogli-zwischen-rentieren-auf-a-63a28712-5ec8-4f78-b44c-0c0aaad8ab68#ref=rss)
+* [https://www.spiegel.de/partnerschaft/langzeitbeziehungen-paaruebung-mit-saege-wie-der-krippenbau-unsere-partnerschaft-staerkte](https://www.spiegel.de/partnerschaft/langzeitbeziehungen-paaruebung-mit-saege-wie-der-krippenbau-unsere-partnerschaft-staerkte-a-2e291ed5-1af2-41d5-aca7-36aa68ef4566#ref=rss)
+### neun
 
-* [https://www.spiegel.de/panorama/magdeburg-gedenken-an-die-opfer-der-todesfahrt-ein-jahr-danach-die-trauer-ist-lebendig](https://www.spiegel.de/panorama/magdeburg-gedenken-an-die-opfer-der-todesfahrt-ein-jahr-danach-die-trauer-ist-lebendig-a-f2167cf0-4a56-4f59-b33f-1353054c708d#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### schnee
+* [https://www.spiegel.de/panorama/justiz/suedafrika-mindestens-neun-tote-bei-schusswaffenangriff-nahe-johannesburg](https://www.spiegel.de/panorama/justiz/suedafrika-mindestens-neun-tote-bei-schusswaffenangriff-nahe-johannesburg-a-886674cd-0230-4b82-908b-56b93e911fbe#ref=rss)
+* [https://www.spiegel.de/ausland/turin-zusammenstoesse-bei-demonstration-neun-polizisten-verletzt](https://www.spiegel.de/ausland/turin-zusammenstoesse-bei-demonstration-neun-polizisten-verletzt-a-f28a0895-87a3-46bd-99ac-f2031b776ff6#ref=rss)
+### liebe
 
-* [https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland](https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland-a-23a053eb-add0-4de9-8c46-406444fde16f#ref=rss)
-### früher
+* [https://www.spiegel.de/geschichte/literaturklassiker-mit-leidenschaft-das-sind-die-wichtigsten-buecher-ueber-die-liebe](https://www.spiegel.de/geschichte/literaturklassiker-mit-leidenschaft-das-sind-die-wichtigsten-buecher-ueber-die-liebe-a-7bc1ef9b-da8b-4af6-9e37-7ac4310f1353#ref=rss)
+* [https://www.spiegel.de/partnerschaft/beziehung-der-mensch-den-ich-liebe-hat-mich-verletzt-wie-kann-ich-verzeihen](https://www.spiegel.de/partnerschaft/beziehung-der-mensch-den-ich-liebe-hat-mich-verletzt-wie-kann-ich-verzeihen-a-73c02b1c-c490-4b49-bb06-1e8abdf19b3a#ref=rss)
+### sissi
 
-* [https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland](https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland-a-23a053eb-add0-4de9-8c46-406444fde16f#ref=rss)
-### weiße
+* [https://www.spiegel.de/kultur/kino/waehlen-sie-den-besten-weihnachtsfilm-schoener-die-bildschirme-nie-leuchten](https://www.spiegel.de/kultur/kino/waehlen-sie-den-besten-weihnachtsfilm-schoener-die-bildschirme-nie-leuchten-a-f2bda0d3-355d-4352-910b-0e111cfe9186#ref=rss)
+* [https://www.spiegel.de/kultur/tv/sissi-der-weihnachtsklassiker-mit-romy-schneider-wird-70](https://www.spiegel.de/kultur/tv/sissi-der-weihnachtsklassiker-mit-romy-schneider-wird-70-a-bd6fd368-444f-437d-89bd-dc60110a49ca#ref=rss)
+### stromausfall
 
-* [https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland](https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland-a-23a053eb-add0-4de9-8c46-406444fde16f#ref=rss)
-### viele
+* [https://www.spiegel.de/netzwelt/stromausfall-warum-das-internet-einen-sekundenbruchteil-falsch-geht](https://www.spiegel.de/netzwelt/stromausfall-warum-das-internet-einen-sekundenbruchteil-falsch-geht-a-a262392e-83bd-460d-a2a1-d28a252761a7#ref=rss)
+* [https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen](https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen-a-a0231566-0993-44b9-a7bc-258f2349498e#ref=rss)
+### opfer
 
-* [https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland](https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland-a-23a053eb-add0-4de9-8c46-406444fde16f#ref=rss)
-* [https://www.spiegel.de/kultur/spiegel-kritik-bernhard-poerksen-ueber-die-debattenkultur-und-leser-kommentare](https://www.spiegel.de/kultur/spiegel-kritik-bernhard-poerksen-ueber-die-debattenkultur-und-leser-kommentare-a-ee01f28c-69a0-439b-b29d-2fd826cad5fc#ref=rss)
-### deutschen
+* [https://www.spiegel.de/ausland/epstein-akten-opferanwalt-john-scarol-das-justizministerium-hat-die-vorgaben-des-kongresses-nicht-eingehalten](https://www.spiegel.de/ausland/epstein-akten-opferanwalt-john-scarol-das-justizministerium-hat-die-vorgaben-des-kongresses-nicht-eingehalten-a-633cd7a3-83c4-4b05-bc5f-47864bb5616a#ref=rss)
+* [https://www.spiegel.de/ausland/sydney-australien-gedenkt-der-opfer-des-terroranschlags-auf-juedisches-fest](https://www.spiegel.de/ausland/sydney-australien-gedenkt-der-opfer-des-terroranschlags-auf-juedisches-fest-a-2a918239-6df8-4802-822c-1956eb3637dc#ref=rss)
+### woche
 
-* [https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland](https://www.spiegel.de/wissenschaft/natur/schnee-an-heiligabend-wie-oft-gab-es-frueher-weisse-weihnachten-in-deutschland-a-23a053eb-add0-4de9-8c46-406444fde16f#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-bundesliga-fc-bayern-trennt-sich-von-weltmeistercoach-herbert](https://www.spiegel.de/sport/basketball/basketball-bundesliga-fc-bayern-trennt-sich-von-weltmeistercoach-herbert-a-3da6ad53-7132-4586-a125-675792950465#ref=rss)
-### lula
+* [https://www.spiegel.de/karriere/vier-frauen-vier-huete-raetsel-der-woche](https://www.spiegel.de/karriere/vier-frauen-vier-huete-raetsel-der-woche-a-eb8518a3-3ee3-47ec-b5ac-c8bd4f789964#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1766305049](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1766305049-a-af664a7e-366a-4640-a2d8-f7dfa3cc865f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elon-musk-sein-vermoegen-betraegt-laut-forbes-jetzt-749-milliarden-dollar](https://www.spiegel.de/wirtschaft/elon-musk-sein-vermoegen-betraegt-laut-forbes-jetzt-749-milliarden-dollar-a-48511606-e3a7-44e5-82c0-2d1285cc7c59#ref=rss)
+### fast
 
-* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-lula-setzt-auf-januar-fuer-handelsdeal](https://www.spiegel.de/wirtschaft/mercosur-abkommen-lula-setzt-auf-januar-fuer-handelsdeal-a-e0975f3e-f393-4418-830d-5b483be68f3a#ref=rss)
-### erst
+* [https://www.spiegel.de/ausland/thailand-und-kambodscha-neu-aufgeflammte-kaempfe-hunderttausende-menschen-fliehen](https://www.spiegel.de/ausland/thailand-und-kambodscha-neu-aufgeflammte-kaempfe-hunderttausende-menschen-fliehen-a-4ddaad36-22ce-4f4e-a5c3-2e970a27a047#ref=rss)
+* [https://www.spiegel.de/partnerschaft/rentieralm-in-rheinland-pfalz-antonia-waechst-wie-mogli-zwischen-rentieren-auf](https://www.spiegel.de/partnerschaft/rentieralm-in-rheinland-pfalz-antonia-waechst-wie-mogli-zwischen-rentieren-auf-a-63a28712-5ec8-4f78-b44c-0c0aaad8ab68#ref=rss)
+* [https://www.spiegel.de/ausland/turin-zusammenstoesse-bei-demonstration-neun-polizisten-verletzt](https://www.spiegel.de/ausland/turin-zusammenstoesse-bei-demonstration-neun-polizisten-verletzt-a-f28a0895-87a3-46bd-99ac-f2031b776ff6#ref=rss)
+### ich
 
-* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-lula-setzt-auf-januar-fuer-handelsdeal](https://www.spiegel.de/wirtschaft/mercosur-abkommen-lula-setzt-auf-januar-fuer-handelsdeal-a-e0975f3e-f393-4418-830d-5b483be68f3a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-investieren-1-6-millionen-dollar-in-umstrittene-impfstoffstudie-in-afrika](https://www.spiegel.de/ausland/usa-investieren-1-6-millionen-dollar-in-umstrittene-impfstoffstudie-in-afrika-a-59a00be3-8b12-4999-a6f0-6d7dd62a7ca7#ref=rss)
-### warten
+* [https://www.spiegel.de/partnerschaft/langzeitbeziehungen-paaruebung-mit-saege-wie-der-krippenbau-unsere-partnerschaft-staerkte](https://www.spiegel.de/partnerschaft/langzeitbeziehungen-paaruebung-mit-saege-wie-der-krippenbau-unsere-partnerschaft-staerkte-a-2e291ed5-1af2-41d5-aca7-36aa68ef4566#ref=rss)
+* [https://www.spiegel.de/partnerschaft/beziehung-der-mensch-den-ich-liebe-hat-mich-verletzt-wie-kann-ich-verzeihen](https://www.spiegel.de/partnerschaft/beziehung-der-mensch-den-ich-liebe-hat-mich-verletzt-wie-kann-ich-verzeihen-a-73c02b1c-c490-4b49-bb06-1e8abdf19b3a#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-lula-setzt-auf-januar-fuer-handelsdeal](https://www.spiegel.de/wirtschaft/mercosur-abkommen-lula-setzt-auf-januar-fuer-handelsdeal-a-e0975f3e-f393-4418-830d-5b483be68f3a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fuehrerschein-verkehrsminister-raet-davon-ab-auf-niedrigere-kosten-zu-warten](https://www.spiegel.de/politik/deutschland/fuehrerschein-verkehrsminister-raet-davon-ab-auf-niedrigere-kosten-zu-warten-a-4223b944-db55-445e-99f1-a8359aca9e6e#ref=rss)
-### präsident
+* [https://www.spiegel.de/partnerschaft/beziehung-der-mensch-den-ich-liebe-hat-mich-verletzt-wie-kann-ich-verzeihen](https://www.spiegel.de/partnerschaft/beziehung-der-mensch-den-ich-liebe-hat-mich-verletzt-wie-kann-ich-verzeihen-a-73c02b1c-c490-4b49-bb06-1e8abdf19b3a#ref=rss)
+* [https://www.spiegel.de/ausland/turin-zusammenstoesse-bei-demonstration-neun-polizisten-verletzt](https://www.spiegel.de/ausland/turin-zusammenstoesse-bei-demonstration-neun-polizisten-verletzt-a-f28a0895-87a3-46bd-99ac-f2031b776ff6#ref=rss)
+### justizministerium
 
-* [https://www.spiegel.de/wirtschaft/mercosur-abkommen-lula-setzt-auf-januar-fuer-handelsdeal](https://www.spiegel.de/wirtschaft/mercosur-abkommen-lula-setzt-auf-januar-fuer-handelsdeal-a-e0975f3e-f393-4418-830d-5b483be68f3a#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-donald-trump-nominiert-neuen-us-kommandeur-und-schliesst-krieg-nicht-aus](https://www.spiegel.de/ausland/venezuela-donald-trump-nominiert-neuen-us-kommandeur-und-schliesst-krieg-nicht-aus-a-18d9aeb3-7109-4063-b1c1-8b24efbb9c3e#ref=rss)
-### blue
-
-* [https://www.spiegel.de/panorama/blue-origin-deutsche-reist-als-erste-rollstuhl-fahrerin-ins-all](https://www.spiegel.de/panorama/blue-origin-deutsche-reist-als-erste-rollstuhl-fahrerin-ins-all-a-85e9f073-eb1d-479d-884f-e27fd1da2ae6#ref=rss)
-### origin
-
-* [https://www.spiegel.de/panorama/blue-origin-deutsche-reist-als-erste-rollstuhl-fahrerin-ins-all](https://www.spiegel.de/panorama/blue-origin-deutsche-reist-als-erste-rollstuhl-fahrerin-ins-all-a-85e9f073-eb1d-479d-884f-e27fd1da2ae6#ref=rss)
-### erste
-
-* [https://www.spiegel.de/panorama/blue-origin-deutsche-reist-als-erste-rollstuhl-fahrerin-ins-all](https://www.spiegel.de/panorama/blue-origin-deutsche-reist-als-erste-rollstuhl-fahrerin-ins-all-a-85e9f073-eb1d-479d-884f-e27fd1da2ae6#ref=rss)
-* [https://www.spiegel.de/ausland/jeffrey-epstein-chronologie-des-missbrauch-skandals](https://www.spiegel.de/ausland/jeffrey-epstein-chronologie-des-missbrauch-skandals-a-08cd393f-ceb4-4bb3-b655-56d785219118#ref=rss)
-### all
-
-* [https://www.spiegel.de/panorama/blue-origin-deutsche-reist-als-erste-rollstuhl-fahrerin-ins-all](https://www.spiegel.de/panorama/blue-origin-deutsche-reist-als-erste-rollstuhl-fahrerin-ins-all-a-85e9f073-eb1d-479d-884f-e27fd1da2ae6#ref=rss)
-### mark
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/mark-zuckerberg-und-maga-wie-donald-trump-den-meta-chef-veraendert](https://www.spiegel.de/wirtschaft/unternehmen/mark-zuckerberg-und-maga-wie-donald-trump-den-meta-chef-veraendert-a-e8200fe6-073d-485c-872a-85a0322dc582#ref=rss)
-### zuckerberg
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/mark-zuckerberg-und-maga-wie-donald-trump-den-meta-chef-veraendert](https://www.spiegel.de/wirtschaft/unternehmen/mark-zuckerberg-und-maga-wie-donald-trump-den-meta-chef-veraendert-a-e8200fe6-073d-485c-872a-85a0322dc582#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/basketball/basketball-bundesliga-fc-bayern-trennt-sich-von-weltmeistercoach-herbert](https://www.spiegel.de/sport/basketball/basketball-bundesliga-fc-bayern-trennt-sich-von-weltmeistercoach-herbert-a-3da6ad53-7132-4586-a125-675792950465#ref=rss)
-### herbert
-
-* [https://www.spiegel.de/sport/basketball/basketball-bundesliga-fc-bayern-trennt-sich-von-weltmeistercoach-herbert](https://www.spiegel.de/sport/basketball/basketball-bundesliga-fc-bayern-trennt-sich-von-weltmeistercoach-herbert-a-3da6ad53-7132-4586-a125-675792950465#ref=rss)
-### fußballbundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-ein-nachmittag-mit-drei-unentschieden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-ein-nachmittag-mit-drei-unentschieden-a-c9e8fbef-0591-4398-ba87-9448491b641a#ref=rss)
-### drei
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-ein-nachmittag-mit-drei-unentschieden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-ein-nachmittag-mit-drei-unentschieden-a-c9e8fbef-0591-4398-ba87-9448491b641a#ref=rss)
-* [https://www.spiegel.de/ausland/italien-sorgerechtsstreit-um-isolierte-waldfamilie-in-den-abruzzen](https://www.spiegel.de/ausland/italien-sorgerechtsstreit-um-isolierte-waldfamilie-in-den-abruzzen-a-b7d1a6af-8574-4f8b-97e3-993757f1e4a8#ref=rss)
-### unentschieden
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-ein-nachmittag-mit-drei-unentschieden](https://www.spiegel.de/sport/fussball/fussball-bundesliga-ein-nachmittag-mit-drei-unentschieden-a-c9e8fbef-0591-4398-ba87-9448491b641a#ref=rss)
-### david
-
-* [https://www.spiegel.de/kultur/literatur/david-walliams-harpercollins-stoppt-zusammenarbeit-mit-bestsellerautor](https://www.spiegel.de/kultur/literatur/david-walliams-harpercollins-stoppt-zusammenarbeit-mit-bestsellerautor-a-26ae495e-ae0d-42a0-9ce6-054c3c0c0e98#ref=rss)
-### walliams
-
-* [https://www.spiegel.de/kultur/literatur/david-walliams-harpercollins-stoppt-zusammenarbeit-mit-bestsellerautor](https://www.spiegel.de/kultur/literatur/david-walliams-harpercollins-stoppt-zusammenarbeit-mit-bestsellerautor-a-26ae495e-ae0d-42a0-9ce6-054c3c0c0e98#ref=rss)
-### harpercollins
-
-* [https://www.spiegel.de/kultur/literatur/david-walliams-harpercollins-stoppt-zusammenarbeit-mit-bestsellerautor](https://www.spiegel.de/kultur/literatur/david-walliams-harpercollins-stoppt-zusammenarbeit-mit-bestsellerautor-a-26ae495e-ae0d-42a0-9ce6-054c3c0c0e98#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/kultur/literatur/david-walliams-harpercollins-stoppt-zusammenarbeit-mit-bestsellerautor](https://www.spiegel.de/kultur/literatur/david-walliams-harpercollins-stoppt-zusammenarbeit-mit-bestsellerautor-a-26ae495e-ae0d-42a0-9ce6-054c3c0c0e98#ref=rss)
-* [https://www.spiegel.de/ausland/jeffrey-epstein-chronologie-des-missbrauch-skandals](https://www.spiegel.de/ausland/jeffrey-epstein-chronologie-des-missbrauch-skandals-a-08cd393f-ceb4-4bb3-b655-56d785219118#ref=rss)
-### kinohighlights
-
-* [https://www.spiegel.de/kultur/kino-highlights-2025-das-sind-die-besten-filme-des-jahres](https://www.spiegel.de/kultur/kino-highlights-2025-das-sind-die-besten-filme-des-jahres-a-60883132-b914-4a42-bcd9-bec0479a815f#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/kultur/kino-highlights-2025-das-sind-die-besten-filme-des-jahres](https://www.spiegel.de/kultur/kino-highlights-2025-das-sind-die-besten-filme-des-jahres-a-60883132-b914-4a42-bcd9-bec0479a815f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mietpreisbremse-justizministerium-will-indexmieten-bis-2027-deckeln](https://www.spiegel.de/politik/deutschland/mietpreisbremse-justizministerium-will-indexmieten-bis-2027-deckeln-a-fa34edc8-f3c2-4a7e-8f62-3df8c569705a#ref=rss)
+* [https://www.spiegel.de/ausland/epstein-akten-opferanwalt-john-scarol-das-justizministerium-hat-die-vorgaben-des-kongresses-nicht-eingehalten](https://www.spiegel.de/ausland/epstein-akten-opferanwalt-john-scarol-das-justizministerium-hat-die-vorgaben-des-kongresses-nicht-eingehalten-a-633cd7a3-83c4-4b05-bc5f-47864bb5616a#ref=rss)
 ### besten
 
-* [https://www.spiegel.de/kultur/kino-highlights-2025-das-sind-die-besten-filme-des-jahres](https://www.spiegel.de/kultur/kino-highlights-2025-das-sind-die-besten-filme-des-jahres-a-60883132-b914-4a42-bcd9-bec0479a815f#ref=rss)
-* [https://www.spiegel.de/psychologie/trend-zum-ich-geschenk-warum-sich-menschen-an-weihnachten-selbst-beschenken](https://www.spiegel.de/psychologie/trend-zum-ich-geschenk-warum-sich-menschen-an-weihnachten-selbst-beschenken-a-5741f343-9b3a-4134-b034-a83098d3c1e0#ref=rss)
-### jahres
+* [https://www.spiegel.de/kultur/kino/waehlen-sie-den-besten-weihnachtsfilm-schoener-die-bildschirme-nie-leuchten](https://www.spiegel.de/kultur/kino/waehlen-sie-den-besten-weihnachtsfilm-schoener-die-bildschirme-nie-leuchten-a-f2bda0d3-355d-4352-910b-0e111cfe9186#ref=rss)
+### schöner
 
-* [https://www.spiegel.de/kultur/kino-highlights-2025-das-sind-die-besten-filme-des-jahres](https://www.spiegel.de/kultur/kino-highlights-2025-das-sind-die-besten-filme-des-jahres-a-60883132-b914-4a42-bcd9-bec0479a815f#ref=rss)
-* [https://www.spiegel.de/karriere/kommunikation-smarter-leben-wie-wir-rechthaber-und-besserwisserinnen-ueberzeugen-koennen](https://www.spiegel.de/karriere/kommunikation-smarter-leben-wie-wir-rechthaber-und-besserwisserinnen-ueberzeugen-koennen-a-56e015c5-84ba-4f40-8c60-f7d4a6a14f76#ref=rss)
-### nick
+* [https://www.spiegel.de/kultur/kino/waehlen-sie-den-besten-weihnachtsfilm-schoener-die-bildschirme-nie-leuchten](https://www.spiegel.de/kultur/kino/waehlen-sie-den-besten-weihnachtsfilm-schoener-die-bildschirme-nie-leuchten-a-f2bda0d3-355d-4352-910b-0e111cfe9186#ref=rss)
+* [https://www.spiegel.de/partnerschaft/langzeitbeziehungen-paaruebung-mit-saege-wie-der-krippenbau-unsere-partnerschaft-staerkte](https://www.spiegel.de/partnerschaft/langzeitbeziehungen-paaruebung-mit-saege-wie-der-krippenbau-unsere-partnerschaft-staerkte-a-2e291ed5-1af2-41d5-aca7-36aa68ef4566#ref=rss)
+### leben
 
-* [https://www.spiegel.de/sport/fussball/premier-league-nick-woltemade-trifft-doppelt-newcastle-united-verspielt-fuehrung-gegen-fc-chelsea](https://www.spiegel.de/sport/fussball/premier-league-nick-woltemade-trifft-doppelt-newcastle-united-verspielt-fuehrung-gegen-fc-chelsea-a-8a732c66-9fa2-4266-b6a8-fe01bd2b4e64#ref=rss)
-### woltemade
+* [https://www.spiegel.de/kultur/kino/waehlen-sie-den-besten-weihnachtsfilm-schoener-die-bildschirme-nie-leuchten](https://www.spiegel.de/kultur/kino/waehlen-sie-den-besten-weihnachtsfilm-schoener-die-bildschirme-nie-leuchten-a-f2bda0d3-355d-4352-910b-0e111cfe9186#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/suedafrika-mindestens-neun-tote-bei-schusswaffenangriff-nahe-johannesburg](https://www.spiegel.de/panorama/justiz/suedafrika-mindestens-neun-tote-bei-schusswaffenangriff-nahe-johannesburg-a-886674cd-0230-4b82-908b-56b93e911fbe#ref=rss)
+### engel
 
-* [https://www.spiegel.de/sport/fussball/premier-league-nick-woltemade-trifft-doppelt-newcastle-united-verspielt-fuehrung-gegen-fc-chelsea](https://www.spiegel.de/sport/fussball/premier-league-nick-woltemade-trifft-doppelt-newcastle-united-verspielt-fuehrung-gegen-fc-chelsea-a-8a732c66-9fa2-4266-b6a8-fe01bd2b4e64#ref=rss)
-### doppelt
+* [https://www.spiegel.de/kultur/kino/waehlen-sie-den-besten-weihnachtsfilm-schoener-die-bildschirme-nie-leuchten](https://www.spiegel.de/kultur/kino/waehlen-sie-den-besten-weihnachtsfilm-schoener-die-bildschirme-nie-leuchten-a-f2bda0d3-355d-4352-910b-0e111cfe9186#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/urlaub-auf-hiddensee-im-winter-auf-der-suche-nach-der-stillen-nacht](https://www.spiegel.de/reise/deutschland/urlaub-auf-hiddensee-im-winter-auf-der-suche-nach-der-stillen-nacht-a-f02935e3-fe3f-4e1c-8457-348b02901cd9#ref=rss)
+### wichtige
 
-* [https://www.spiegel.de/sport/fussball/premier-league-nick-woltemade-trifft-doppelt-newcastle-united-verspielt-fuehrung-gegen-fc-chelsea](https://www.spiegel.de/sport/fussball/premier-league-nick-woltemade-trifft-doppelt-newcastle-united-verspielt-fuehrung-gegen-fc-chelsea-a-8a732c66-9fa2-4266-b6a8-fe01bd2b4e64#ref=rss)
-### chelsea
+* [https://www.spiegel.de/netzwelt/stromausfall-warum-das-internet-einen-sekundenbruchteil-falsch-geht](https://www.spiegel.de/netzwelt/stromausfall-warum-das-internet-einen-sekundenbruchteil-falsch-geht-a-a262392e-83bd-460d-a2a1-d28a252761a7#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/sport/fussball/premier-league-nick-woltemade-trifft-doppelt-newcastle-united-verspielt-fuehrung-gegen-fc-chelsea](https://www.spiegel.de/sport/fussball/premier-league-nick-woltemade-trifft-doppelt-newcastle-united-verspielt-fuehrung-gegen-fc-chelsea-a-8a732c66-9fa2-4266-b6a8-fe01bd2b4e64#ref=rss)
-### italien
+* [https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-merz-stuerzt-ab-nur-unionsanhaenger-sind-mit-der-regierung-mehrheitlich-zufrieden](https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-merz-stuerzt-ab-nur-unionsanhaenger-sind-mit-der-regierung-mehrheitlich-zufrieden-a-57ac0e3a-a897-47f5-b8ed-fd8748d3af4c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-annegret-kramp-karrenbauer-elon-musk](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-annegret-kramp-karrenbauer-elon-musk-a-a6d3a199-bfec-4961-92f5-24d50dc48b9f#ref=rss)
+### merz
 
-* [https://www.spiegel.de/ausland/italien-sorgerechtsstreit-um-isolierte-waldfamilie-in-den-abruzzen](https://www.spiegel.de/ausland/italien-sorgerechtsstreit-um-isolierte-waldfamilie-in-den-abruzzen-a-b7d1a6af-8574-4f8b-97e3-993757f1e4a8#ref=rss)
-### familie
+* [https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-merz-stuerzt-ab-nur-unionsanhaenger-sind-mit-der-regierung-mehrheitlich-zufrieden](https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-merz-stuerzt-ab-nur-unionsanhaenger-sind-mit-der-regierung-mehrheitlich-zufrieden-a-57ac0e3a-a897-47f5-b8ed-fd8748d3af4c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-annegret-kramp-karrenbauer-elon-musk](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-annegret-kramp-karrenbauer-elon-musk-a-a6d3a199-bfec-4961-92f5-24d50dc48b9f#ref=rss)
+### bundeskanzler
 
-* [https://www.spiegel.de/ausland/italien-sorgerechtsstreit-um-isolierte-waldfamilie-in-den-abruzzen](https://www.spiegel.de/ausland/italien-sorgerechtsstreit-um-isolierte-waldfamilie-in-den-abruzzen-a-b7d1a6af-8574-4f8b-97e3-993757f1e4a8#ref=rss)
-* [https://www.spiegel.de/deinspiegel/kinder-erzaehlen-das-macht-meine-familie-besonders](https://www.spiegel.de/deinspiegel/kinder-erzaehlen-das-macht-meine-familie-besonders-a-25261617-8027-47fe-828a-1f0831bc565a#ref=rss)
-### jeffrey
+* [https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-merz-stuerzt-ab-nur-unionsanhaenger-sind-mit-der-regierung-mehrheitlich-zufrieden](https://www.spiegel.de/politik/deutschland/spiegel-politikertreppe-merz-stuerzt-ab-nur-unionsanhaenger-sind-mit-der-regierung-mehrheitlich-zufrieden-a-57ac0e3a-a897-47f5-b8ed-fd8748d3af4c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-annegret-kramp-karrenbauer-elon-musk](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-annegret-kramp-karrenbauer-elon-musk-a-a6d3a199-bfec-4961-92f5-24d50dc48b9f#ref=rss)
+### john
 
-* [https://www.spiegel.de/ausland/jeffrey-epstein-chronologie-des-missbrauch-skandals](https://www.spiegel.de/ausland/jeffrey-epstein-chronologie-des-missbrauch-skandals-a-08cd393f-ceb4-4bb3-b655-56d785219118#ref=rss)
-### epstein
+* [https://www.spiegel.de/ausland/epstein-akten-opferanwalt-john-scarol-das-justizministerium-hat-die-vorgaben-des-kongresses-nicht-eingehalten](https://www.spiegel.de/ausland/epstein-akten-opferanwalt-john-scarol-das-justizministerium-hat-die-vorgaben-des-kongresses-nicht-eingehalten-a-633cd7a3-83c4-4b05-bc5f-47864bb5616a#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/ausland/jeffrey-epstein-chronologie-des-missbrauch-skandals](https://www.spiegel.de/ausland/jeffrey-epstein-chronologie-des-missbrauch-skandals-a-08cd393f-ceb4-4bb3-b655-56d785219118#ref=rss)
-### erzählen
+* [https://www.spiegel.de/ausland/epstein-akten-opferanwalt-john-scarol-das-justizministerium-hat-die-vorgaben-des-kongresses-nicht-eingehalten](https://www.spiegel.de/ausland/epstein-akten-opferanwalt-john-scarol-das-justizministerium-hat-die-vorgaben-des-kongresses-nicht-eingehalten-a-633cd7a3-83c4-4b05-bc5f-47864bb5616a#ref=rss)
+* [https://www.spiegel.de/partnerschaft/beziehung-der-mensch-den-ich-liebe-hat-mich-verletzt-wie-kann-ich-verzeihen](https://www.spiegel.de/partnerschaft/beziehung-der-mensch-den-ich-liebe-hat-mich-verletzt-wie-kann-ich-verzeihen-a-73c02b1c-c490-4b49-bb06-1e8abdf19b3a#ref=rss)
+### dartswm
 
-* [https://www.spiegel.de/deinspiegel/kinder-erzaehlen-das-macht-meine-familie-besonders](https://www.spiegel.de/deinspiegel/kinder-erzaehlen-das-macht-meine-familie-besonders-a-25261617-8027-47fe-828a-1f0831bc565a#ref=rss)
-### sechs
+* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-kritisiert-das-publikum-im-ally-pally](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-kritisiert-das-publikum-im-ally-pally-a-d0c8ca26-65f3-4131-a62c-ebc1337b1b24#ref=rss)
+### ricardo
 
-* [https://www.spiegel.de/deinspiegel/kinder-erzaehlen-das-macht-meine-familie-besonders](https://www.spiegel.de/deinspiegel/kinder-erzaehlen-das-macht-meine-familie-besonders-a-25261617-8027-47fe-828a-1f0831bc565a#ref=rss)
-* [https://www.spiegel.de/panorama/magdeburg-gedenken-an-die-opfer-der-todesfahrt-ein-jahr-danach-die-trauer-ist-lebendig](https://www.spiegel.de/panorama/magdeburg-gedenken-an-die-opfer-der-todesfahrt-ein-jahr-danach-die-trauer-ist-lebendig-a-f2167cf0-4a56-4f59-b33f-1353054c708d#ref=rss)
-### selbst
+* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-kritisiert-das-publikum-im-ally-pally](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-kritisiert-das-publikum-im-ally-pally-a-d0c8ca26-65f3-4131-a62c-ebc1337b1b24#ref=rss)
+### pietreczko
 
-* [https://www.spiegel.de/psychologie/trend-zum-ich-geschenk-warum-sich-menschen-an-weihnachten-selbst-beschenken](https://www.spiegel.de/psychologie/trend-zum-ich-geschenk-warum-sich-menschen-an-weihnachten-selbst-beschenken-a-5741f343-9b3a-4134-b034-a83098d3c1e0#ref=rss)
-### sparen
+* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-kritisiert-das-publikum-im-ally-pally](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-kritisiert-das-publikum-im-ally-pally-a-d0c8ca26-65f3-4131-a62c-ebc1337b1b24#ref=rss)
+### algerien
 
-* [https://www.spiegel.de/tests/haushalt/heizkosten-smarte-thermostate-im-test-energie-sparen-per-app](https://www.spiegel.de/tests/haushalt/heizkosten-smarte-thermostate-im-test-energie-sparen-per-app-a-f396cb81-c7ec-4a65-aeca-0082d409cbf6#ref=rss)
-### per
+* [https://www.spiegel.de/sport/fussball/warum-algerien-den-franzoesischen-sportreporter-christophe-gleizes-in-haft-haelt](https://www.spiegel.de/sport/fussball/warum-algerien-den-franzoesischen-sportreporter-christophe-gleizes-in-haft-haelt-a-dcf02f60-e90b-4262-978a-606be0107eff#ref=rss)
+### französischen
 
-* [https://www.spiegel.de/tests/haushalt/heizkosten-smarte-thermostate-im-test-energie-sparen-per-app](https://www.spiegel.de/tests/haushalt/heizkosten-smarte-thermostate-im-test-energie-sparen-per-app-a-f396cb81-c7ec-4a65-aeca-0082d409cbf6#ref=rss)
-### app
+* [https://www.spiegel.de/sport/fussball/warum-algerien-den-franzoesischen-sportreporter-christophe-gleizes-in-haft-haelt](https://www.spiegel.de/sport/fussball/warum-algerien-den-franzoesischen-sportreporter-christophe-gleizes-in-haft-haelt-a-dcf02f60-e90b-4262-978a-606be0107eff#ref=rss)
+### sportreporter
 
-* [https://www.spiegel.de/tests/haushalt/heizkosten-smarte-thermostate-im-test-energie-sparen-per-app](https://www.spiegel.de/tests/haushalt/heizkosten-smarte-thermostate-im-test-energie-sparen-per-app-a-f396cb81-c7ec-4a65-aeca-0082d409cbf6#ref=rss)
-### optimus
+* [https://www.spiegel.de/sport/fussball/warum-algerien-den-franzoesischen-sportreporter-christophe-gleizes-in-haft-haelt](https://www.spiegel.de/sport/fussball/warum-algerien-den-franzoesischen-sportreporter-christophe-gleizes-in-haft-haelt-a-dcf02f60-e90b-4262-978a-606be0107eff#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/netzwelt/elon-musks-wunderbare-popcornmaschine-optimus](https://www.spiegel.de/netzwelt/elon-musks-wunderbare-popcornmaschine-optimus-a-8f64809f-e069-483e-bba8-7b252e14dfa4#ref=rss)
-### etwas
-
-* [https://www.spiegel.de/netzwelt/elon-musks-wunderbare-popcornmaschine-optimus](https://www.spiegel.de/netzwelt/elon-musks-wunderbare-popcornmaschine-optimus-a-8f64809f-e069-483e-bba8-7b252e14dfa4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fuehrerschein-verkehrsminister-raet-davon-ab-auf-niedrigere-kosten-zu-warten](https://www.spiegel.de/politik/deutschland/fuehrerschein-verkehrsminister-raet-davon-ab-auf-niedrigere-kosten-zu-warten-a-4223b944-db55-445e-99f1-a8359aca9e6e#ref=rss)
-### fans
-
-* [https://www.spiegel.de/netzwelt/elon-musks-wunderbare-popcornmaschine-optimus](https://www.spiegel.de/netzwelt/elon-musks-wunderbare-popcornmaschine-optimus-a-8f64809f-e069-483e-bba8-7b252e14dfa4#ref=rss)
-* [https://www.spiegel.de/kultur/musik/timothee-chalamet-und-esdeekid-beenden-spekulationen-mit-gemeinsamem-rap-video](https://www.spiegel.de/kultur/musik/timothee-chalamet-und-esdeekid-beenden-spekulationen-mit-gemeinsamem-rap-video-a-869063ac-4f95-4a67-8047-7967179c33e6#ref=rss)
-### bernhard
-
-* [https://www.spiegel.de/kultur/spiegel-kritik-bernhard-poerksen-ueber-die-debattenkultur-und-leser-kommentare](https://www.spiegel.de/kultur/spiegel-kritik-bernhard-poerksen-ueber-die-debattenkultur-und-leser-kommentare-a-ee01f28c-69a0-439b-b29d-2fd826cad5fc#ref=rss)
-### pörksen
-
-* [https://www.spiegel.de/kultur/spiegel-kritik-bernhard-poerksen-ueber-die-debattenkultur-und-leser-kommentare](https://www.spiegel.de/kultur/spiegel-kritik-bernhard-poerksen-ueber-die-debattenkultur-und-leser-kommentare-a-ee01f28c-69a0-439b-b29d-2fd826cad5fc#ref=rss)
-### leserkommentare
-
-* [https://www.spiegel.de/kultur/spiegel-kritik-bernhard-poerksen-ueber-die-debattenkultur-und-leser-kommentare](https://www.spiegel.de/kultur/spiegel-kritik-bernhard-poerksen-ueber-die-debattenkultur-und-leser-kommentare-a-ee01f28c-69a0-439b-b29d-2fd826cad5fc#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-investieren-1-6-millionen-dollar-in-umstrittene-impfstoffstudie-in-afrika](https://www.spiegel.de/ausland/usa-investieren-1-6-millionen-dollar-in-umstrittene-impfstoffstudie-in-afrika-a-59a00be3-8b12-4999-a6f0-6d7dd62a7ca7#ref=rss)
-### sigourney
-
-* [https://www.spiegel.de/kultur/kino/sigourney-weaver-ueber-ihre-neue-rolle-als-teenager-und-das-glueck-ihrer-koerpergroesse](https://www.spiegel.de/kultur/kino/sigourney-weaver-ueber-ihre-neue-rolle-als-teenager-und-das-glueck-ihrer-koerpergroesse-a-6d357232-2162-46cb-a08e-96d4624543c0#ref=rss)
-### weaver
-
-* [https://www.spiegel.de/kultur/kino/sigourney-weaver-ueber-ihre-neue-rolle-als-teenager-und-das-glueck-ihrer-koerpergroesse](https://www.spiegel.de/kultur/kino/sigourney-weaver-ueber-ihre-neue-rolle-als-teenager-und-das-glueck-ihrer-koerpergroesse-a-6d357232-2162-46cb-a08e-96d4624543c0#ref=rss)
-### körpergröße
-
-* [https://www.spiegel.de/kultur/kino/sigourney-weaver-ueber-ihre-neue-rolle-als-teenager-und-das-glueck-ihrer-koerpergroesse](https://www.spiegel.de/kultur/kino/sigourney-weaver-ueber-ihre-neue-rolle-als-teenager-und-das-glueck-ihrer-koerpergroesse-a-6d357232-2162-46cb-a08e-96d4624543c0#ref=rss)
-### xabi
-
-* [https://www.spiegel.de/sport/xabi-alonso-bei-real-madrid-lehrstueck-ueber-widersprueche-im-groessten-klub](https://www.spiegel.de/sport/xabi-alonso-bei-real-madrid-lehrstueck-ueber-widersprueche-im-groessten-klub-a-cfb241a4-390a-482d-929a-9f239629319b#ref=rss)
-### alonso
-
-* [https://www.spiegel.de/sport/xabi-alonso-bei-real-madrid-lehrstueck-ueber-widersprueche-im-groessten-klub](https://www.spiegel.de/sport/xabi-alonso-bei-real-madrid-lehrstueck-ueber-widersprueche-im-groessten-klub-a-cfb241a4-390a-482d-929a-9f239629319b#ref=rss)
-### real
-
-* [https://www.spiegel.de/sport/xabi-alonso-bei-real-madrid-lehrstueck-ueber-widersprueche-im-groessten-klub](https://www.spiegel.de/sport/xabi-alonso-bei-real-madrid-lehrstueck-ueber-widersprueche-im-groessten-klub-a-cfb241a4-390a-482d-929a-9f239629319b#ref=rss)
-### lehrstück
-
-* [https://www.spiegel.de/sport/xabi-alonso-bei-real-madrid-lehrstueck-ueber-widersprueche-im-groessten-klub](https://www.spiegel.de/sport/xabi-alonso-bei-real-madrid-lehrstueck-ueber-widersprueche-im-groessten-klub-a-cfb241a4-390a-482d-929a-9f239629319b#ref=rss)
-### widersprüche
-
-* [https://www.spiegel.de/sport/xabi-alonso-bei-real-madrid-lehrstueck-ueber-widersprueche-im-groessten-klub](https://www.spiegel.de/sport/xabi-alonso-bei-real-madrid-lehrstueck-ueber-widersprueche-im-groessten-klub-a-cfb241a4-390a-482d-929a-9f239629319b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/warum-algerien-den-franzoesischen-sportreporter-christophe-gleizes-in-haft-haelt](https://www.spiegel.de/sport/fussball/warum-algerien-den-franzoesischen-sportreporter-christophe-gleizes-in-haft-haelt-a-dcf02f60-e90b-4262-978a-606be0107eff#ref=rss)
+* [https://www.spiegel.de/ausland/turin-zusammenstoesse-bei-demonstration-neun-polizisten-verletzt](https://www.spiegel.de/ausland/turin-zusammenstoesse-bei-demonstration-neun-polizisten-verletzt-a-f28a0895-87a3-46bd-99ac-f2031b776ff6#ref=rss)
 ### größten
 
-* [https://www.spiegel.de/sport/xabi-alonso-bei-real-madrid-lehrstueck-ueber-widersprueche-im-groessten-klub](https://www.spiegel.de/sport/xabi-alonso-bei-real-madrid-lehrstueck-ueber-widersprueche-im-groessten-klub-a-cfb241a4-390a-482d-929a-9f239629319b#ref=rss)
-### klub
+* [https://www.spiegel.de/sport/fussball/warum-algerien-den-franzoesischen-sportreporter-christophe-gleizes-in-haft-haelt](https://www.spiegel.de/sport/fussball/warum-algerien-den-franzoesischen-sportreporter-christophe-gleizes-in-haft-haelt-a-dcf02f60-e90b-4262-978a-606be0107eff#ref=rss)
+* [https://www.spiegel.de/geschichte/literaturklassiker-mit-leidenschaft-das-sind-die-wichtigsten-buecher-ueber-die-liebe](https://www.spiegel.de/geschichte/literaturklassiker-mit-leidenschaft-das-sind-die-wichtigsten-buecher-ueber-die-liebe-a-7bc1ef9b-da8b-4af6-9e37-7ac4310f1353#ref=rss)
+### dezember
 
-* [https://www.spiegel.de/sport/xabi-alonso-bei-real-madrid-lehrstueck-ueber-widersprueche-im-groessten-klub](https://www.spiegel.de/sport/xabi-alonso-bei-real-madrid-lehrstueck-ueber-widersprueche-im-groessten-klub-a-cfb241a4-390a-482d-929a-9f239629319b#ref=rss)
-### trauer
+* [https://www.spiegel.de/kultur/tv/sissi-der-weihnachtsklassiker-mit-romy-schneider-wird-70](https://www.spiegel.de/kultur/tv/sissi-der-weihnachtsklassiker-mit-romy-schneider-wird-70-a-bd6fd368-444f-437d-89bd-dc60110a49ca#ref=rss)
+* [https://www.spiegel.de/sport/fussball/afrika-cup-2025-das-muessen-sie-ueber-das-turnier-in-marokko-wissen](https://www.spiegel.de/sport/fussball/afrika-cup-2025-das-muessen-sie-ueber-das-turnier-in-marokko-wissen-a-82e8904c-05b8-4c13-bd29-b6d5600a343f#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/magdeburg-gedenken-an-die-opfer-der-todesfahrt-ein-jahr-danach-die-trauer-ist-lebendig](https://www.spiegel.de/panorama/magdeburg-gedenken-an-die-opfer-der-todesfahrt-ein-jahr-danach-die-trauer-ist-lebendig-a-f2167cf0-4a56-4f59-b33f-1353054c708d#ref=rss)
-### lebendig
+* [https://www.spiegel.de/kultur/tv/sissi-der-weihnachtsklassiker-mit-romy-schneider-wird-70](https://www.spiegel.de/kultur/tv/sissi-der-weihnachtsklassiker-mit-romy-schneider-wird-70-a-bd6fd368-444f-437d-89bd-dc60110a49ca#ref=rss)
+* [https://www.spiegel.de/panorama/leute/zooey-deschanel-hat-einen-gruppenchat-mit-ihrem-partner-und-ihrem-ex](https://www.spiegel.de/panorama/leute/zooey-deschanel-hat-einen-gruppenchat-mit-ihrem-partner-und-ihrem-ex-a-d1a6245a-18fa-4150-9309-e5f19189dd3c#ref=rss)
+### teile
 
-* [https://www.spiegel.de/panorama/magdeburg-gedenken-an-die-opfer-der-todesfahrt-ein-jahr-danach-die-trauer-ist-lebendig](https://www.spiegel.de/panorama/magdeburg-gedenken-an-die-opfer-der-todesfahrt-ein-jahr-danach-die-trauer-ist-lebendig-a-f2167cf0-4a56-4f59-b33f-1353054c708d#ref=rss)
-### mich
+* [https://www.spiegel.de/kultur/tv/sissi-der-weihnachtsklassiker-mit-romy-schneider-wird-70](https://www.spiegel.de/kultur/tv/sissi-der-weihnachtsklassiker-mit-romy-schneider-wird-70-a-bd6fd368-444f-437d-89bd-dc60110a49ca#ref=rss)
+* [https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen](https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen-a-a0231566-0993-44b9-a7bc-258f2349498e#ref=rss)
+### vier
 
-* [https://www.spiegel.de/familie/weihnachten-warum-ich-mich-nach-zimtgeruch-und-handgeschriebenen-wunschzetteln-sehne](https://www.spiegel.de/familie/weihnachten-warum-ich-mich-nach-zimtgeruch-und-handgeschriebenen-wunschzetteln-sehne-a-cb5df74d-cdd3-4939-a2d7-3e06e05ed3fd#ref=rss)
-### hin
+* [https://www.spiegel.de/karriere/vier-frauen-vier-huete-raetsel-der-woche](https://www.spiegel.de/karriere/vier-frauen-vier-huete-raetsel-der-woche-a-eb8518a3-3ee3-47ec-b5ac-c8bd4f789964#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/familie/weihnachten-warum-ich-mich-nach-zimtgeruch-und-handgeschriebenen-wunschzetteln-sehne](https://www.spiegel.de/familie/weihnachten-warum-ich-mich-nach-zimtgeruch-und-handgeschriebenen-wunschzetteln-sehne-a-cb5df74d-cdd3-4939-a2d7-3e06e05ed3fd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nasa-verliert-kontakt-zur-marssonde-maven](https://www.spiegel.de/wissenschaft/nasa-verliert-kontakt-zur-marssonde-maven-a-9893b9c4-e320-480a-b851-a199197f1b32#ref=rss)
-### venezuela
+* [https://www.spiegel.de/karriere/vier-frauen-vier-huete-raetsel-der-woche](https://www.spiegel.de/karriere/vier-frauen-vier-huete-raetsel-der-woche-a-eb8518a3-3ee3-47ec-b5ac-c8bd4f789964#ref=rss)
+### chappatte
 
-* [https://www.spiegel.de/ausland/venezuela-donald-trump-nominiert-neuen-us-kommandeur-und-schliesst-krieg-nicht-aus](https://www.spiegel.de/ausland/venezuela-donald-trump-nominiert-neuen-us-kommandeur-und-schliesst-krieg-nicht-aus-a-18d9aeb3-7109-4063-b1c1-8b24efbb9c3e#ref=rss)
-### schließt
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1766305049](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1766305049-a-af664a7e-366a-4640-a2d8-f7dfa3cc865f#ref=rss)
+### thomas
 
-* [https://www.spiegel.de/ausland/venezuela-donald-trump-nominiert-neuen-us-kommandeur-und-schliesst-krieg-nicht-aus](https://www.spiegel.de/ausland/venezuela-donald-trump-nominiert-neuen-us-kommandeur-und-schliesst-krieg-nicht-aus-a-18d9aeb3-7109-4063-b1c1-8b24efbb9c3e#ref=rss)
-### krieg
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1766305049](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1766305049-a-af664a7e-366a-4640-a2d8-f7dfa3cc865f#ref=rss)
+### plaßmann
 
-* [https://www.spiegel.de/ausland/venezuela-donald-trump-nominiert-neuen-us-kommandeur-und-schliesst-krieg-nicht-aus](https://www.spiegel.de/ausland/venezuela-donald-trump-nominiert-neuen-us-kommandeur-und-schliesst-krieg-nicht-aus-a-18d9aeb3-7109-4063-b1c1-8b24efbb9c3e#ref=rss)
-### kira
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1766305049](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1766305049-a-af664a7e-366a-4640-a2d8-f7dfa3cc865f#ref=rss)
+### klaus
 
-* [https://www.spiegel.de/sport/wintersport/drei-jahre-fuhr-sie-hinterher-jetzt-steht-sie-wieder-auf-dem-podest](https://www.spiegel.de/sport/wintersport/drei-jahre-fuhr-sie-hinterher-jetzt-steht-sie-wieder-auf-dem-podest-a-6dfea833-1a6c-4c32-83e0-e47d6ecfdde4#ref=rss)
-### weidlewinkelmann
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1766305049](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1766305049-a-af664a7e-366a-4640-a2d8-f7dfa3cc865f#ref=rss)
+### stuttmann
 
-* [https://www.spiegel.de/sport/wintersport/drei-jahre-fuhr-sie-hinterher-jetzt-steht-sie-wieder-auf-dem-podest](https://www.spiegel.de/sport/wintersport/drei-jahre-fuhr-sie-hinterher-jetzt-steht-sie-wieder-auf-dem-podest-a-6dfea833-1a6c-4c32-83e0-e47d6ecfdde4#ref=rss)
-### lars
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1766305049](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1766305049-a-af664a7e-366a-4640-a2d8-f7dfa3cc865f#ref=rss)
+### kopie
 
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-und-spd-intern-nennen-sie-ihn-parolen-lars-die-kleinen-hiebe-nehmen-zu](https://www.spiegel.de/politik/deutschland/lars-klingbeil-und-spd-intern-nennen-sie-ihn-parolen-lars-die-kleinen-hiebe-nehmen-zu-a-5cf86327-fd25-4363-b28c-86bcfc1348c9#ref=rss)
-### klingbeil
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1766305049](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-1766305049-a-af664a7e-366a-4640-a2d8-f7dfa3cc865f#ref=rss)
+### gelingen
 
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-und-spd-intern-nennen-sie-ihn-parolen-lars-die-kleinen-hiebe-nehmen-zu](https://www.spiegel.de/politik/deutschland/lars-klingbeil-und-spd-intern-nennen-sie-ihn-parolen-lars-die-kleinen-hiebe-nehmen-zu-a-5cf86327-fd25-4363-b28c-86bcfc1348c9#ref=rss)
-### spd
+* [https://www.spiegel.de/wissenschaft/mensch/patchworkfamilien-zwischen-horror-oder-harmonie-wie-das-zusammenleben-gelingen-kann](https://www.spiegel.de/wissenschaft/mensch/patchworkfamilien-zwischen-horror-oder-harmonie-wie-das-zusammenleben-gelingen-kann-a-6c2d28c1-0a6d-44eb-b8ac-faa7baf94d54#ref=rss)
+### partner
 
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-und-spd-intern-nennen-sie-ihn-parolen-lars-die-kleinen-hiebe-nehmen-zu](https://www.spiegel.de/politik/deutschland/lars-klingbeil-und-spd-intern-nennen-sie-ihn-parolen-lars-die-kleinen-hiebe-nehmen-zu-a-5cf86327-fd25-4363-b28c-86bcfc1348c9#ref=rss)
-### hinter
+* [https://www.spiegel.de/wissenschaft/mensch/patchworkfamilien-zwischen-horror-oder-harmonie-wie-das-zusammenleben-gelingen-kann](https://www.spiegel.de/wissenschaft/mensch/patchworkfamilien-zwischen-horror-oder-harmonie-wie-das-zusammenleben-gelingen-kann-a-6c2d28c1-0a6d-44eb-b8ac-faa7baf94d54#ref=rss)
+* [https://www.spiegel.de/panorama/leute/zooey-deschanel-hat-einen-gruppenchat-mit-ihrem-partner-und-ihrem-ex](https://www.spiegel.de/panorama/leute/zooey-deschanel-hat-einen-gruppenchat-mit-ihrem-partner-und-ihrem-ex-a-d1a6245a-18fa-4150-9309-e5f19189dd3c#ref=rss)
+### kindern
 
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-und-spd-intern-nennen-sie-ihn-parolen-lars-die-kleinen-hiebe-nehmen-zu](https://www.spiegel.de/politik/deutschland/lars-klingbeil-und-spd-intern-nennen-sie-ihn-parolen-lars-die-kleinen-hiebe-nehmen-zu-a-5cf86327-fd25-4363-b28c-86bcfc1348c9#ref=rss)
-* [https://www.spiegel.de/kultur/musik/timothee-chalamet-und-esdeekid-beenden-spekulationen-mit-gemeinsamem-rap-video](https://www.spiegel.de/kultur/musik/timothee-chalamet-und-esdeekid-beenden-spekulationen-mit-gemeinsamem-rap-video-a-869063ac-4f95-4a67-8047-7967179c33e6#ref=rss)
-### maven
+* [https://www.spiegel.de/wissenschaft/mensch/patchworkfamilien-zwischen-horror-oder-harmonie-wie-das-zusammenleben-gelingen-kann](https://www.spiegel.de/wissenschaft/mensch/patchworkfamilien-zwischen-horror-oder-harmonie-wie-das-zusammenleben-gelingen-kann-a-6c2d28c1-0a6d-44eb-b8ac-faa7baf94d54#ref=rss)
+* [https://www.spiegel.de/panorama/leute/zooey-deschanel-hat-einen-gruppenchat-mit-ihrem-partner-und-ihrem-ex](https://www.spiegel.de/panorama/leute/zooey-deschanel-hat-einen-gruppenchat-mit-ihrem-partner-und-ihrem-ex-a-d1a6245a-18fa-4150-9309-e5f19189dd3c#ref=rss)
+### thailand
 
-* [https://www.spiegel.de/wissenschaft/nasa-verliert-kontakt-zur-marssonde-maven](https://www.spiegel.de/wissenschaft/nasa-verliert-kontakt-zur-marssonde-maven-a-9893b9c4-e320-480a-b851-a199197f1b32#ref=rss)
-### verkehrsminister
+* [https://www.spiegel.de/ausland/thailand-und-kambodscha-neu-aufgeflammte-kaempfe-hunderttausende-menschen-fliehen](https://www.spiegel.de/ausland/thailand-und-kambodscha-neu-aufgeflammte-kaempfe-hunderttausende-menschen-fliehen-a-4ddaad36-22ce-4f4e-a5c3-2e970a27a047#ref=rss)
+### kambodscha
 
-* [https://www.spiegel.de/politik/deutschland/fuehrerschein-verkehrsminister-raet-davon-ab-auf-niedrigere-kosten-zu-warten](https://www.spiegel.de/politik/deutschland/fuehrerschein-verkehrsminister-raet-davon-ab-auf-niedrigere-kosten-zu-warten-a-4223b944-db55-445e-99f1-a8359aca9e6e#ref=rss)
-### fragen
+* [https://www.spiegel.de/ausland/thailand-und-kambodscha-neu-aufgeflammte-kaempfe-hunderttausende-menschen-fliehen](https://www.spiegel.de/ausland/thailand-und-kambodscha-neu-aufgeflammte-kaempfe-hunderttausende-menschen-fliehen-a-4ddaad36-22ce-4f4e-a5c3-2e970a27a047#ref=rss)
+### zooey
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### fall
+* [https://www.spiegel.de/panorama/leute/zooey-deschanel-hat-einen-gruppenchat-mit-ihrem-partner-und-ihrem-ex](https://www.spiegel.de/panorama/leute/zooey-deschanel-hat-einen-gruppenchat-mit-ihrem-partner-und-ihrem-ex-a-d1a6245a-18fa-4150-9309-e5f19189dd3c#ref=rss)
+### deschanel
 
-* [https://www.spiegel.de/panorama/justiz/run-dmc-mordurteil-im-fall-jam-master-jay-aufgehoben](https://www.spiegel.de/panorama/justiz/run-dmc-mordurteil-im-fall-jam-master-jay-aufgehoben-a-91ec1dab-577c-4b56-8ad0-01971920de11#ref=rss)
-### jam
+* [https://www.spiegel.de/panorama/leute/zooey-deschanel-hat-einen-gruppenchat-mit-ihrem-partner-und-ihrem-ex](https://www.spiegel.de/panorama/leute/zooey-deschanel-hat-einen-gruppenchat-mit-ihrem-partner-und-ihrem-ex-a-d1a6245a-18fa-4150-9309-e5f19189dd3c#ref=rss)
+### urlaub
 
-* [https://www.spiegel.de/panorama/justiz/run-dmc-mordurteil-im-fall-jam-master-jay-aufgehoben](https://www.spiegel.de/panorama/justiz/run-dmc-mordurteil-im-fall-jam-master-jay-aufgehoben-a-91ec1dab-577c-4b56-8ad0-01971920de11#ref=rss)
-### master
+* [https://www.spiegel.de/panorama/leute/zooey-deschanel-hat-einen-gruppenchat-mit-ihrem-partner-und-ihrem-ex](https://www.spiegel.de/panorama/leute/zooey-deschanel-hat-einen-gruppenchat-mit-ihrem-partner-und-ihrem-ex-a-d1a6245a-18fa-4150-9309-e5f19189dd3c#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/urlaub-auf-hiddensee-im-winter-auf-der-suche-nach-der-stillen-nacht](https://www.spiegel.de/reise/deutschland/urlaub-auf-hiddensee-im-winter-auf-der-suche-nach-der-stillen-nacht-a-f02935e3-fe3f-4e1c-8457-348b02901cd9#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/panorama/justiz/run-dmc-mordurteil-im-fall-jam-master-jay-aufgehoben](https://www.spiegel.de/panorama/justiz/run-dmc-mordurteil-im-fall-jam-master-jay-aufgehoben-a-91ec1dab-577c-4b56-8ad0-01971920de11#ref=rss)
-### jay
+* [https://www.spiegel.de/panorama/leute/zooey-deschanel-hat-einen-gruppenchat-mit-ihrem-partner-und-ihrem-ex](https://www.spiegel.de/panorama/leute/zooey-deschanel-hat-einen-gruppenchat-mit-ihrem-partner-und-ihrem-ex-a-d1a6245a-18fa-4150-9309-e5f19189dd3c#ref=rss)
+* [https://www.spiegel.de/politik/antisemitismus-josef-schuster-hofft-auf-neuen-aufstand-der-anstaendigen-in-deutschland](https://www.spiegel.de/politik/antisemitismus-josef-schuster-hofft-auf-neuen-aufstand-der-anstaendigen-in-deutschland-a-4ec6b734-4335-4c31-85dc-02286a6d821a#ref=rss)
+### elon
 
-* [https://www.spiegel.de/panorama/justiz/run-dmc-mordurteil-im-fall-jam-master-jay-aufgehoben](https://www.spiegel.de/panorama/justiz/run-dmc-mordurteil-im-fall-jam-master-jay-aufgehoben-a-91ec1dab-577c-4b56-8ad0-01971920de11#ref=rss)
-### timothée
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-annegret-kramp-karrenbauer-elon-musk](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-annegret-kramp-karrenbauer-elon-musk-a-a6d3a199-bfec-4961-92f5-24d50dc48b9f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elon-musk-sein-vermoegen-betraegt-laut-forbes-jetzt-749-milliarden-dollar](https://www.spiegel.de/wirtschaft/elon-musk-sein-vermoegen-betraegt-laut-forbes-jetzt-749-milliarden-dollar-a-48511606-e3a7-44e5-82c0-2d1285cc7c59#ref=rss)
+### musk
 
-* [https://www.spiegel.de/kultur/musik/timothee-chalamet-und-esdeekid-beenden-spekulationen-mit-gemeinsamem-rap-video](https://www.spiegel.de/kultur/musik/timothee-chalamet-und-esdeekid-beenden-spekulationen-mit-gemeinsamem-rap-video-a-869063ac-4f95-4a67-8047-7967179c33e6#ref=rss)
-### chalamet
+* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-annegret-kramp-karrenbauer-elon-musk](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-annegret-kramp-karrenbauer-elon-musk-a-a6d3a199-bfec-4961-92f5-24d50dc48b9f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elon-musk-sein-vermoegen-betraegt-laut-forbes-jetzt-749-milliarden-dollar](https://www.spiegel.de/wirtschaft/elon-musk-sein-vermoegen-betraegt-laut-forbes-jetzt-749-milliarden-dollar-a-48511606-e3a7-44e5-82c0-2d1285cc7c59#ref=rss)
+### hiddensee
 
-* [https://www.spiegel.de/kultur/musik/timothee-chalamet-und-esdeekid-beenden-spekulationen-mit-gemeinsamem-rap-video](https://www.spiegel.de/kultur/musik/timothee-chalamet-und-esdeekid-beenden-spekulationen-mit-gemeinsamem-rap-video-a-869063ac-4f95-4a67-8047-7967179c33e6#ref=rss)
-### esdeekid
+* [https://www.spiegel.de/reise/deutschland/urlaub-auf-hiddensee-im-winter-auf-der-suche-nach-der-stillen-nacht](https://www.spiegel.de/reise/deutschland/urlaub-auf-hiddensee-im-winter-auf-der-suche-nach-der-stillen-nacht-a-f02935e3-fe3f-4e1c-8457-348b02901cd9#ref=rss)
+### winter
 
-* [https://www.spiegel.de/kultur/musik/timothee-chalamet-und-esdeekid-beenden-spekulationen-mit-gemeinsamem-rap-video](https://www.spiegel.de/kultur/musik/timothee-chalamet-und-esdeekid-beenden-spekulationen-mit-gemeinsamem-rap-video-a-869063ac-4f95-4a67-8047-7967179c33e6#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/urlaub-auf-hiddensee-im-winter-auf-der-suche-nach-der-stillen-nacht](https://www.spiegel.de/reise/deutschland/urlaub-auf-hiddensee-im-winter-auf-der-suche-nach-der-stillen-nacht-a-f02935e3-fe3f-4e1c-8457-348b02901cd9#ref=rss)
+### waren
+
+* [https://www.spiegel.de/reise/deutschland/urlaub-auf-hiddensee-im-winter-auf-der-suche-nach-der-stillen-nacht](https://www.spiegel.de/reise/deutschland/urlaub-auf-hiddensee-im-winter-auf-der-suche-nach-der-stillen-nacht-a-f02935e3-fe3f-4e1c-8457-348b02901cd9#ref=rss)
+* [https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen](https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen-a-a0231566-0993-44b9-a7bc-258f2349498e#ref=rss)
+### afrikacup
+
+* [https://www.spiegel.de/sport/fussball/afrika-cup-2025-das-muessen-sie-ueber-das-turnier-in-marokko-wissen](https://www.spiegel.de/sport/fussball/afrika-cup-2025-das-muessen-sie-ueber-das-turnier-in-marokko-wissen-a-82e8904c-05b8-4c13-bd29-b6d5600a343f#ref=rss)
+### turnier
+
+* [https://www.spiegel.de/sport/fussball/afrika-cup-2025-das-muessen-sie-ueber-das-turnier-in-marokko-wissen](https://www.spiegel.de/sport/fussball/afrika-cup-2025-das-muessen-sie-ueber-das-turnier-in-marokko-wissen-a-82e8904c-05b8-4c13-bd29-b6d5600a343f#ref=rss)
+### marokko
+
+* [https://www.spiegel.de/sport/fussball/afrika-cup-2025-das-muessen-sie-ueber-das-turnier-in-marokko-wissen](https://www.spiegel.de/sport/fussball/afrika-cup-2025-das-muessen-sie-ueber-das-turnier-in-marokko-wissen-a-82e8904c-05b8-4c13-bd29-b6d5600a343f#ref=rss)
+### ganz
+
+* [https://www.spiegel.de/sport/fussball/afrika-cup-2025-das-muessen-sie-ueber-das-turnier-in-marokko-wissen](https://www.spiegel.de/sport/fussball/afrika-cup-2025-das-muessen-sie-ueber-das-turnier-in-marokko-wissen-a-82e8904c-05b8-4c13-bd29-b6d5600a343f#ref=rss)
+* [https://www.spiegel.de/ausland/sydney-australien-gedenkt-der-opfer-des-terroranschlags-auf-juedisches-fest](https://www.spiegel.de/ausland/sydney-australien-gedenkt-der-opfer-des-terroranschlags-auf-juedisches-fest-a-2a918239-6df8-4802-822c-1956eb3637dc#ref=rss)
+### a60
+
+* [https://www.spiegel.de/panorama/a60-polizei-holt-radlader-samt-planlosem-fahrer-von-der-autobahn](https://www.spiegel.de/panorama/a60-polizei-holt-radlader-samt-planlosem-fahrer-von-der-autobahn-a-ca71a234-f1ef-44de-b73c-434490c2d882#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/a60-polizei-holt-radlader-samt-planlosem-fahrer-von-der-autobahn](https://www.spiegel.de/panorama/a60-polizei-holt-radlader-samt-planlosem-fahrer-von-der-autobahn-a-ca71a234-f1ef-44de-b73c-434490c2d882#ref=rss)
+### fahrer
+
+* [https://www.spiegel.de/panorama/a60-polizei-holt-radlader-samt-planlosem-fahrer-von-der-autobahn](https://www.spiegel.de/panorama/a60-polizei-holt-radlader-samt-planlosem-fahrer-von-der-autobahn-a-ca71a234-f1ef-44de-b73c-434490c2d882#ref=rss)
+### autobahn
+
+* [https://www.spiegel.de/panorama/a60-polizei-holt-radlader-samt-planlosem-fahrer-von-der-autobahn](https://www.spiegel.de/panorama/a60-polizei-holt-radlader-samt-planlosem-fahrer-von-der-autobahn-a-ca71a234-f1ef-44de-b73c-434490c2d882#ref=rss)
+### südafrika
+
+* [https://www.spiegel.de/panorama/justiz/suedafrika-mindestens-neun-tote-bei-schusswaffenangriff-nahe-johannesburg](https://www.spiegel.de/panorama/justiz/suedafrika-mindestens-neun-tote-bei-schusswaffenangriff-nahe-johannesburg-a-886674cd-0230-4b82-908b-56b93e911fbe#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/justiz/suedafrika-mindestens-neun-tote-bei-schusswaffenangriff-nahe-johannesburg](https://www.spiegel.de/panorama/justiz/suedafrika-mindestens-neun-tote-bei-schusswaffenangriff-nahe-johannesburg-a-886674cd-0230-4b82-908b-56b93e911fbe#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/suedafrika-mindestens-neun-tote-bei-schusswaffenangriff-nahe-johannesburg](https://www.spiegel.de/panorama/justiz/suedafrika-mindestens-neun-tote-bei-schusswaffenangriff-nahe-johannesburg-a-886674cd-0230-4b82-908b-56b93e911fbe#ref=rss)
+* [https://www.spiegel.de/partnerschaft/rentieralm-in-rheinland-pfalz-antonia-waechst-wie-mogli-zwischen-rentieren-auf](https://www.spiegel.de/partnerschaft/rentieralm-in-rheinland-pfalz-antonia-waechst-wie-mogli-zwischen-rentieren-auf-a-63a28712-5ec8-4f78-b44c-0c0aaad8ab68#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/netzwelt/web/influencer-des-jahres-ishowspeed-zahide-sashka-und-weitere-durchstarter](https://www.spiegel.de/netzwelt/web/influencer-des-jahres-ishowspeed-zahide-sashka-und-weitere-durchstarter-a-bae23330-13e1-4298-bd92-8a1479b82da4#ref=rss)
+### ishowspeed
+
+* [https://www.spiegel.de/netzwelt/web/influencer-des-jahres-ishowspeed-zahide-sashka-und-weitere-durchstarter](https://www.spiegel.de/netzwelt/web/influencer-des-jahres-ishowspeed-zahide-sashka-und-weitere-durchstarter-a-bae23330-13e1-4298-bd92-8a1479b82da4#ref=rss)
+### zahide
+
+* [https://www.spiegel.de/netzwelt/web/influencer-des-jahres-ishowspeed-zahide-sashka-und-weitere-durchstarter](https://www.spiegel.de/netzwelt/web/influencer-des-jahres-ishowspeed-zahide-sashka-und-weitere-durchstarter-a-bae23330-13e1-4298-bd92-8a1479b82da4#ref=rss)
+### durchstarter
+
+* [https://www.spiegel.de/netzwelt/web/influencer-des-jahres-ishowspeed-zahide-sashka-und-weitere-durchstarter](https://www.spiegel.de/netzwelt/web/influencer-des-jahres-ishowspeed-zahide-sashka-und-weitere-durchstarter-a-bae23330-13e1-4298-bd92-8a1479b82da4#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/geschichte/literaturklassiker-mit-leidenschaft-das-sind-die-wichtigsten-buecher-ueber-die-liebe](https://www.spiegel.de/geschichte/literaturklassiker-mit-leidenschaft-das-sind-die-wichtigsten-buecher-ueber-die-liebe-a-7bc1ef9b-da8b-4af6-9e37-7ac4310f1353#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/psychologie/initiative-sternbruecke-in-hamburg-der-gemeinsame-kampf-ist-wie-eine-impfung-gegen-rechts](https://www.spiegel.de/psychologie/initiative-sternbruecke-in-hamburg-der-gemeinsame-kampf-ist-wie-eine-impfung-gegen-rechts-a-7bc37c90-79de-4aa1-852c-b0e0dd66732a#ref=rss)
+* [https://www.spiegel.de/partnerschaft/langzeitbeziehungen-paaruebung-mit-saege-wie-der-krippenbau-unsere-partnerschaft-staerkte](https://www.spiegel.de/partnerschaft/langzeitbeziehungen-paaruebung-mit-saege-wie-der-krippenbau-unsere-partnerschaft-staerkte-a-2e291ed5-1af2-41d5-aca7-36aa68ef4566#ref=rss)
+### san
+
+* [https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen](https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen-a-a0231566-0993-44b9-a7bc-258f2349498e#ref=rss)
+### francisco
+
+* [https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen](https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen-a-a0231566-0993-44b9-a7bc-258f2349498e#ref=rss)
+### 130000
+
+* [https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen](https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen-a-a0231566-0993-44b9-a7bc-258f2349498e#ref=rss)
+### haushalte
+
+* [https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen](https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen-a-a0231566-0993-44b9-a7bc-258f2349498e#ref=rss)
+### weihnachten
+
+* [https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen](https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen-a-a0231566-0993-44b9-a7bc-258f2349498e#ref=rss)
+### betroffen
+
+* [https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen](https://www.spiegel.de/panorama/san-francisco-130-000-haushalte-von-stromausfall-vor-weihnachten-betroffen-a-a0231566-0993-44b9-a7bc-258f2349498e#ref=rss)
+### beziehung
+
+* [https://www.spiegel.de/partnerschaft/beziehung-der-mensch-den-ich-liebe-hat-mich-verletzt-wie-kann-ich-verzeihen](https://www.spiegel.de/partnerschaft/beziehung-der-mensch-den-ich-liebe-hat-mich-verletzt-wie-kann-ich-verzeihen-a-73c02b1c-c490-4b49-bb06-1e8abdf19b3a#ref=rss)
+### josef
+
+* [https://www.spiegel.de/politik/antisemitismus-josef-schuster-hofft-auf-neuen-aufstand-der-anstaendigen-in-deutschland](https://www.spiegel.de/politik/antisemitismus-josef-schuster-hofft-auf-neuen-aufstand-der-anstaendigen-in-deutschland-a-4ec6b734-4335-4c31-85dc-02286a6d821a#ref=rss)
+### schuster
+
+* [https://www.spiegel.de/politik/antisemitismus-josef-schuster-hofft-auf-neuen-aufstand-der-anstaendigen-in-deutschland](https://www.spiegel.de/politik/antisemitismus-josef-schuster-hofft-auf-neuen-aufstand-der-anstaendigen-in-deutschland-a-4ec6b734-4335-4c31-85dc-02286a6d821a#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/antisemitismus-josef-schuster-hofft-auf-neuen-aufstand-der-anstaendigen-in-deutschland](https://www.spiegel.de/politik/antisemitismus-josef-schuster-hofft-auf-neuen-aufstand-der-anstaendigen-in-deutschland-a-4ec6b734-4335-4c31-85dc-02286a6d821a#ref=rss)
+### wirtschaftsvertreter
+
+* [https://www.spiegel.de/start/erasmus-deutsch-britische-wirtschaftsvertreter-begruessen-rueckkehr-der-briten-zu-austauschprogramm](https://www.spiegel.de/start/erasmus-deutsch-britische-wirtschaftsvertreter-begruessen-rueckkehr-der-briten-zu-austauschprogramm-a-f18f664d-0733-47ce-a0a6-207906311218#ref=rss)
+### gleichzeitig
+
+* [https://www.spiegel.de/start/erasmus-deutsch-britische-wirtschaftsvertreter-begruessen-rueckkehr-der-briten-zu-austauschprogramm](https://www.spiegel.de/start/erasmus-deutsch-britische-wirtschaftsvertreter-begruessen-rueckkehr-der-briten-zu-austauschprogramm-a-f18f664d-0733-47ce-a0a6-207906311218#ref=rss)
+* [https://www.spiegel.de/ausland/sydney-australien-gedenkt-der-opfer-des-terroranschlags-auf-juedisches-fest](https://www.spiegel.de/ausland/sydney-australien-gedenkt-der-opfer-des-terroranschlags-auf-juedisches-fest-a-2a918239-6df8-4802-822c-1956eb3637dc#ref=rss)
+### australien
+
+* [https://www.spiegel.de/ausland/sydney-australien-gedenkt-der-opfer-des-terroranschlags-auf-juedisches-fest](https://www.spiegel.de/ausland/sydney-australien-gedenkt-der-opfer-des-terroranschlags-auf-juedisches-fest-a-2a918239-6df8-4802-822c-1956eb3637dc#ref=rss)
+### terroranschlags
+
+* [https://www.spiegel.de/ausland/sydney-australien-gedenkt-der-opfer-des-terroranschlags-auf-juedisches-fest](https://www.spiegel.de/ausland/sydney-australien-gedenkt-der-opfer-des-terroranschlags-auf-juedisches-fest-a-2a918239-6df8-4802-822c-1956eb3637dc#ref=rss)
+### jüdisches
+
+* [https://www.spiegel.de/ausland/sydney-australien-gedenkt-der-opfer-des-terroranschlags-auf-juedisches-fest](https://www.spiegel.de/ausland/sydney-australien-gedenkt-der-opfer-des-terroranschlags-auf-juedisches-fest-a-2a918239-6df8-4802-822c-1956eb3637dc#ref=rss)
+### turin
+
+* [https://www.spiegel.de/ausland/turin-zusammenstoesse-bei-demonstration-neun-polizisten-verletzt](https://www.spiegel.de/ausland/turin-zusammenstoesse-bei-demonstration-neun-polizisten-verletzt-a-f28a0895-87a3-46bd-99ac-f2031b776ff6#ref=rss)
+### demonstration
+
+* [https://www.spiegel.de/ausland/turin-zusammenstoesse-bei-demonstration-neun-polizisten-verletzt](https://www.spiegel.de/ausland/turin-zusammenstoesse-bei-demonstration-neun-polizisten-verletzt-a-f28a0895-87a3-46bd-99ac-f2031b776ff6#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/ausland/turin-zusammenstoesse-bei-demonstration-neun-polizisten-verletzt](https://www.spiegel.de/ausland/turin-zusammenstoesse-bei-demonstration-neun-polizisten-verletzt-a-f28a0895-87a3-46bd-99ac-f2031b776ff6#ref=rss)
 
