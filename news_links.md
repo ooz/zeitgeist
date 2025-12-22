@@ -4,350 +4,384 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
+### chris
 
-* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
-* [https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie](https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie-a-d4326ec7-4e68-4e82-a5ce-1c97dabcbb0e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gold-kostet-erstmals-mehr-als-4400-us-dollar](https://www.spiegel.de/wirtschaft/gold-kostet-erstmals-mehr-als-4400-us-dollar-a-354e6149-e2be-48a4-a60f-77f9a7362947#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit](https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit-a-bed1d141-e947-41f3-82b0-d2d0dd76834d#ref=rss)
-* [https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen](https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen-a-28107701-93f2-4979-bc4a-436a3736dec0#ref=rss)
-### gericht
+* [https://www.spiegel.de/kultur/chris-rea-drei-wichtigste-songs-des-driving-home-for-christmas-saengers](https://www.spiegel.de/kultur/chris-rea-drei-wichtigste-songs-des-driving-home-for-christmas-saengers-a-2be159bc-2118-4297-9881-f5f45b2b372b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben](https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben-a-bcdc7a15-6a4b-4bab-b906-e00b7f87e369#ref=rss)
+### rea
 
-* [https://www.spiegel.de/panorama/justiz/axel-fischer-ex-cdu-politiker-in-klinik-festgenommen](https://www.spiegel.de/panorama/justiz/axel-fischer-ex-cdu-politiker-in-klinik-festgenommen-a-6c9f2d38-544c-4f13-ba3e-621afaaf332c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu](https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu-a-fda76973-c2dd-4f5a-8434-ce098af2fa50#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen](https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gold-kostet-erstmals-mehr-als-4400-us-dollar](https://www.spiegel.de/wirtschaft/gold-kostet-erstmals-mehr-als-4400-us-dollar-a-354e6149-e2be-48a4-a60f-77f9a7362947#ref=rss)
-* [https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet](https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet-a-dc57110a-7348-4e03-9134-0766aa53132d#ref=rss)
-* [https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen](https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen-a-d69ebe55-8bf5-43f6-a051-d8d3c2c2e2e9#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert](https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert-a-47133834-d6a3-418c-8170-bc8b7c0af06b#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen-a-784916d9-a482-4607-abe2-211d65ffb93e#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
-* [https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie](https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie-a-d4326ec7-4e68-4e82-a5ce-1c97dabcbb0e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren](https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren-a-efdcfd99-cccd-4841-96ab-256f49ea5fc7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit](https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit-a-bed1d141-e947-41f3-82b0-d2d0dd76834d#ref=rss)
-### holcim
-
-* [https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu](https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu-a-fda76973-c2dd-4f5a-8434-ce098af2fa50#ref=rss)
-### bondi
-
-* [https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert](https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert-a-47133834-d6a3-418c-8170-bc8b7c0af06b#ref=rss)
-* [https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen](https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen-a-529e5362-4de7-4d22-8386-51cd92a9bbeb#ref=rss)
-* [https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen](https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen-a-d69ebe55-8bf5-43f6-a051-d8d3c2c2e2e9#ref=rss)
-### ich
-
-* [https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen](https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen-a-28107701-93f2-4979-bc4a-436a3736dec0#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen](https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss)
-* [https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt](https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt-a-a34a9f6d-f400-4256-ba1f-1f7306c8dd96#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen](https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klima-und-lieferkettengesetze-europa-laesst-sich-von-den-usa-und-katar-erpressen-meinung](https://www.spiegel.de/wissenschaft/klima-und-lieferkettengesetze-europa-laesst-sich-von-den-usa-und-katar-erpressen-meinung-a-38bc2cc8-c8a7-40df-9be9-73b0852ad83b#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten](https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten-a-913cc4ce-cac2-4e5f-be76-a1cc2edd0df4#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen](https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu](https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu-a-fda76973-c2dd-4f5a-8434-ce098af2fa50#ref=rss)
-* [https://www.spiegel.de/panorama/leute/george-clooney-trauert-um-seine-schwester](https://www.spiegel.de/panorama/leute/george-clooney-trauert-um-seine-schwester-a-416b5c5c-e908-4671-b835-7b3627d0b311#ref=rss)
+* [https://www.spiegel.de/kultur/chris-rea-drei-wichtigste-songs-des-driving-home-for-christmas-saengers](https://www.spiegel.de/kultur/chris-rea-drei-wichtigste-songs-des-driving-home-for-christmas-saengers-a-2be159bc-2118-4297-9881-f5f45b2b372b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben](https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben-a-bcdc7a15-6a4b-4bab-b906-e00b7f87e369#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen](https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss)
-* [https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag](https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag-a-d82cf5c4-7aaa-44b7-84c5-a7912e6b11f2#ref=rss)
-* [https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen](https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen-a-529e5362-4de7-4d22-8386-51cd92a9bbeb#ref=rss)
-### viele
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut](https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut-a-f9bd527e-f836-4e6f-a3af-2a6f1115819c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt](https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt-a-bc24153f-8f7e-40f4-a21c-1a6a15b1016f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit](https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit-a-bed1d141-e947-41f3-82b0-d2d0dd76834d#ref=rss)
-### new
-
-* [https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie](https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie-a-d4326ec7-4e68-4e82-a5ce-1c97dabcbb0e#ref=rss)
-* [https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen](https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen-a-529e5362-4de7-4d22-8386-51cd92a9bbeb#ref=rss)
-### ende
-
-* [https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie](https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie-a-d4326ec7-4e68-4e82-a5ce-1c97dabcbb0e#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-schwarzer-schnee-mit-wotan-wilke-moehring](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-schwarzer-schnee-mit-wotan-wilke-moehring-a-e8e88e53-2261-4447-a94f-44310f0b12f8#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/leute/altkanzler-gerhard-schroeder-schultert-tannenbaum](https://www.spiegel.de/panorama/leute/altkanzler-gerhard-schroeder-schultert-tannenbaum-a-d66d238c-5c73-46c2-81f4-f45c9234086e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren](https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren-a-efdcfd99-cccd-4841-96ab-256f49ea5fc7#ref=rss)
-* [https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik](https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik-a-6406cf6e-9311-4a56-ad58-e3e1b277c5f7#ref=rss)
-### grönland
-
-* [https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten](https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten-a-913cc4ce-cac2-4e5f-be76-a1cc2edd0df4#ref=rss)
-### sydney
-
-* [https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert](https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert-a-47133834-d6a3-418c-8170-bc8b7c0af06b#ref=rss)
-* [https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen](https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen-a-529e5362-4de7-4d22-8386-51cd92a9bbeb#ref=rss)
-### axel
-
-* [https://www.spiegel.de/panorama/justiz/axel-fischer-ex-cdu-politiker-in-klinik-festgenommen](https://www.spiegel.de/panorama/justiz/axel-fischer-ex-cdu-politiker-in-klinik-festgenommen-a-6c9f2d38-544c-4f13-ba3e-621afaaf332c#ref=rss)
-### fischer
-
-* [https://www.spiegel.de/panorama/justiz/axel-fischer-ex-cdu-politiker-in-klinik-festgenommen](https://www.spiegel.de/panorama/justiz/axel-fischer-ex-cdu-politiker-in-klinik-festgenommen-a-6c9f2d38-544c-4f13-ba3e-621afaaf332c#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/panorama/justiz/axel-fischer-ex-cdu-politiker-in-klinik-festgenommen](https://www.spiegel.de/panorama/justiz/axel-fischer-ex-cdu-politiker-in-klinik-festgenommen-a-6c9f2d38-544c-4f13-ba3e-621afaaf332c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
-### the
-
-* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
-### big
-
-* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
-### bang
-
-* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
-### theory
-
-* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
-### kunal
-
-* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
-### nayyar
-
-* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
-### zahlt
-
-* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
-### nachts
-
-* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
-### arztrechnungen
-
-* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen-a-784916d9-a482-4607-abe2-211d65ffb93e#ref=rss)
-### andere
-
-* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
-* [https://www.spiegel.de/karriere/multitasking-und-prioritaeten-setzen-tools-fuer-produktiveres-arbeiten](https://www.spiegel.de/karriere/multitasking-und-prioritaeten-setzen-tools-fuer-produktiveres-arbeiten-a-176fbb91-c489-4849-a9eb-99db239ac224#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen](https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen](https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mehrwertsteuer-senkung-warum-gans-und-schnitzel-im-restaurant-nicht-billiger-werden](https://www.spiegel.de/wirtschaft/mehrwertsteuer-senkung-warum-gans-und-schnitzel-im-restaurant-nicht-billiger-werden-a-57be03e8-ef1d-495a-94e3-c8e47c0f87cc#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen](https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss)
-* [https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt](https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt-a-a34a9f6d-f400-4256-ba1f-1f7306c8dd96#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut](https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut-a-f9bd527e-f836-4e6f-a3af-2a6f1115819c#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut](https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut-a-f9bd527e-f836-4e6f-a3af-2a6f1115819c#ref=rss)
-### dominanz
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut](https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut-a-f9bd527e-f836-4e6f-a3af-2a6f1115819c#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut](https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut-a-f9bd527e-f836-4e6f-a3af-2a6f1115819c#ref=rss)
-* [https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen](https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen-a-28107701-93f2-4979-bc4a-436a3736dec0#ref=rss)
-### journalisten
-
-* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
-### neu
-
-* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren](https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren-a-efdcfd99-cccd-4841-96ab-256f49ea5fc7#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-papst-leo-xiv-sorgt-sich-wegen-priestermangels](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-papst-leo-xiv-sorgt-sich-wegen-priestermangels-a-ea59b7c2-d478-4c1f-b47b-d84aa54f331d#ref=rss)
+* [https://www.spiegel.de/kultur/ski-aggu-rapper-kuendigt-auszeit-vom-musikbusiness-an](https://www.spiegel.de/kultur/ski-aggu-rapper-kuendigt-auszeit-vom-musikbusiness-an-a-382cf531-7375-42cd-94a5-509ca4f822fe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-milchwirtschaft-china-verhaengt-strafzoelle-auf-eu-milchprodukte](https://www.spiegel.de/wirtschaft/eu-milchwirtschaft-china-verhaengt-strafzoelle-auf-eu-milchprodukte-a-3ab3c2e3-3175-4434-8b90-a5d4515f72be#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen-a-784916d9-a482-4607-abe2-211d65ffb93e#ref=rss)
-### fall
+* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-papst-leo-xiv-sorgt-sich-wegen-priestermangels](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-papst-leo-xiv-sorgt-sich-wegen-priestermangels-a-ea59b7c2-d478-4c1f-b47b-d84aa54f331d#ref=rss)
+* [https://www.spiegel.de/panorama/shropshire-in-grossbritannien-kanal-gebrochen-ploetzlich-liegen-schiffe-auf-dem-trockenen](https://www.spiegel.de/panorama/shropshire-in-grossbritannien-kanal-gebrochen-ploetzlich-liegen-schiffe-auf-dem-trockenen-a-8f15e82a-e3b3-4e71-aaf0-fc5c6140e447#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/calden-feuerwerk-schreckt-pferd-auf-22-jaehrige-stirbt](https://www.spiegel.de/panorama/justiz/calden-feuerwerk-schreckt-pferd-auf-22-jaehrige-stirbt-a-6f74d103-8a7f-451e-b853-8d66619602cc#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
-* [https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen](https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen-a-d69ebe55-8bf5-43f6-a051-d8d3c2c2e2e9#ref=rss)
-### oskarmariagrafstammtisch
-
-* [https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie](https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie-a-d4326ec7-4e68-4e82-a5ce-1c97dabcbb0e#ref=rss)
-### york
-
-* [https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie](https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie-a-d4326ec7-4e68-4e82-a5ce-1c97dabcbb0e#ref=rss)
-### gastgeber
-
-* [https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie](https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie-a-d4326ec7-4e68-4e82-a5ce-1c97dabcbb0e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren](https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren-a-7254ae3d-4e59-45ed-abf9-ec33b5452c20#ref=rss)
-### altkanzler
-
-* [https://www.spiegel.de/panorama/leute/altkanzler-gerhard-schroeder-schultert-tannenbaum](https://www.spiegel.de/panorama/leute/altkanzler-gerhard-schroeder-schultert-tannenbaum-a-d66d238c-5c73-46c2-81f4-f45c9234086e#ref=rss)
-### gerhard
-
-* [https://www.spiegel.de/panorama/leute/altkanzler-gerhard-schroeder-schultert-tannenbaum](https://www.spiegel.de/panorama/leute/altkanzler-gerhard-schroeder-schultert-tannenbaum-a-d66d238c-5c73-46c2-81f4-f45c9234086e#ref=rss)
-### schröder
-
-* [https://www.spiegel.de/panorama/leute/altkanzler-gerhard-schroeder-schultert-tannenbaum](https://www.spiegel.de/panorama/leute/altkanzler-gerhard-schroeder-schultert-tannenbaum-a-d66d238c-5c73-46c2-81f4-f45c9234086e#ref=rss)
-### meinung
-
-* [https://www.spiegel.de/wissenschaft/klima-und-lieferkettengesetze-europa-laesst-sich-von-den-usa-und-katar-erpressen-meinung](https://www.spiegel.de/wissenschaft/klima-und-lieferkettengesetze-europa-laesst-sich-von-den-usa-und-katar-erpressen-meinung-a-38bc2cc8-c8a7-40df-9be9-73b0852ad83b#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-schwarzer-schnee-mit-wotan-wilke-moehring](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-schwarzer-schnee-mit-wotan-wilke-moehring-a-e8e88e53-2261-4447-a94f-44310f0b12f8#ref=rss)
-### schulden
-
-* [https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt](https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt-a-bc24153f-8f7e-40f4-a21c-1a6a15b1016f#ref=rss)
-### buy
-
-* [https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt](https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt-a-bc24153f-8f7e-40f4-a21c-1a6a15b1016f#ref=rss)
-### now
-
-* [https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt](https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt-a-bc24153f-8f7e-40f4-a21c-1a6a15b1016f#ref=rss)
-### pay
-
-* [https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt](https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt-a-bc24153f-8f7e-40f4-a21c-1a6a15b1016f#ref=rss)
-### fukushima
-
-* [https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren](https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren-a-efdcfd99-cccd-4841-96ab-256f49ea5fc7#ref=rss)
-### hochfahren
-
-* [https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren](https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren-a-efdcfd99-cccd-4841-96ab-256f49ea5fc7#ref=rss)
-### neues
-
-* [https://www.spiegel.de/wirtschaft/gold-kostet-erstmals-mehr-als-4400-us-dollar](https://www.spiegel.de/wirtschaft/gold-kostet-erstmals-mehr-als-4400-us-dollar-a-354e6149-e2be-48a4-a60f-77f9a7362947#ref=rss)
-* [https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag](https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag-a-d82cf5c4-7aaa-44b7-84c5-a7912e6b11f2#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/gold-kostet-erstmals-mehr-als-4400-us-dollar](https://www.spiegel.de/wirtschaft/gold-kostet-erstmals-mehr-als-4400-us-dollar-a-354e6149-e2be-48a4-a60f-77f9a7362947#ref=rss)
-* [https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag](https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag-a-d82cf5c4-7aaa-44b7-84c5-a7912e6b11f2#ref=rss)
-### generalleutnant
-
-* [https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet](https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet-a-dc57110a-7348-4e03-9134-0766aa53132d#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet](https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet-a-dc57110a-7348-4e03-9134-0766aa53132d#ref=rss)
-### russische
-
-* [https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet](https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet-a-dc57110a-7348-4e03-9134-0766aa53132d#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen-a-784916d9-a482-4607-abe2-211d65ffb93e#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet](https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet-a-dc57110a-7348-4e03-9134-0766aa53132d#ref=rss)
-* [https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert](https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert-a-47133834-d6a3-418c-8170-bc8b7c0af06b#ref=rss)
-### schweizer
-
-* [https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu](https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu-a-fda76973-c2dd-4f5a-8434-ce098af2fa50#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu](https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu-a-fda76973-c2dd-4f5a-8434-ce098af2fa50#ref=rss)
-* [https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik](https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik-a-6406cf6e-9311-4a56-ad58-e3e1b277c5f7#ref=rss)
-### george
-
-* [https://www.spiegel.de/panorama/leute/george-clooney-trauert-um-seine-schwester](https://www.spiegel.de/panorama/leute/george-clooney-trauert-um-seine-schwester-a-416b5c5c-e908-4671-b835-7b3627d0b311#ref=rss)
-### clooney
-
-* [https://www.spiegel.de/panorama/leute/george-clooney-trauert-um-seine-schwester](https://www.spiegel.de/panorama/leute/george-clooney-trauert-um-seine-schwester-a-416b5c5c-e908-4671-b835-7b3627d0b311#ref=rss)
-### satelliten
-
-* [https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit](https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit-a-bed1d141-e947-41f3-82b0-d2d0dd76834d#ref=rss)
-### astronomen
-
-* [https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit](https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit-a-bed1d141-e947-41f3-82b0-d2d0dd76834d#ref=rss)
+* [https://www.spiegel.de/ausland/faktencheck-schiesst-die-usa-wirklich-drogenboote-vor-venezuela-ab](https://www.spiegel.de/ausland/faktencheck-schiesst-die-usa-wirklich-drogenboote-vor-venezuela-ab-a-b124ecd9-c949-4da1-b790-4bc7b7d66e9f#ref=rss)
+* [https://www.spiegel.de/kultur/tv/usa-cbs-news-verschiebt-donald-trump-kritischen-bericht-ueber-abschiebegefaengnis](https://www.spiegel.de/kultur/tv/usa-cbs-news-verschiebt-donald-trump-kritischen-bericht-ueber-abschiebegefaengnis-a-458d5b8b-a280-40f3-bdc5-004af069361f#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten](https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten-a-913cc4ce-cac2-4e5f-be76-a1cc2edd0df4#ref=rss)
-### gouverneur
+* [https://www.spiegel.de/ausland/faktencheck-schiesst-die-usa-wirklich-drogenboote-vor-venezuela-ab](https://www.spiegel.de/ausland/faktencheck-schiesst-die-usa-wirklich-drogenboote-vor-venezuela-ab-a-b124ecd9-c949-4da1-b790-4bc7b7d66e9f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-russischer-generalleutnant-fanil-sarwarow-getoetet-donald-trumps-sondergesandter-fuer-groenland-konsumkredite-und-kontrollverlust](https://www.spiegel.de/politik/deutschland/news-des-tages-russischer-generalleutnant-fanil-sarwarow-getoetet-donald-trumps-sondergesandter-fuer-groenland-konsumkredite-und-kontrollverlust-a-09f00f4c-7d6b-49ab-bf4a-77589c8ecfeb#ref=rss)
+* [https://www.spiegel.de/ausland/ales-beljazki-ueber-haft-in-belarus-man-fuehlt-sich-wie-ware-wie-ein-sack-mehl-oder-kaffee](https://www.spiegel.de/ausland/ales-beljazki-ueber-haft-in-belarus-man-fuehlt-sich-wie-ware-wie-ein-sack-mehl-oder-kaffee-a-45c6792c-791b-4894-b7df-0605ac1aa337#ref=rss)
+### news
 
-* [https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten](https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten-a-913cc4ce-cac2-4e5f-be76-a1cc2edd0df4#ref=rss)
-### louisiana
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-russischer-generalleutnant-fanil-sarwarow-getoetet-donald-trumps-sondergesandter-fuer-groenland-konsumkredite-und-kontrollverlust](https://www.spiegel.de/politik/deutschland/news-des-tages-russischer-generalleutnant-fanil-sarwarow-getoetet-donald-trumps-sondergesandter-fuer-groenland-konsumkredite-und-kontrollverlust-a-09f00f4c-7d6b-49ab-bf4a-77589c8ecfeb#ref=rss)
+* [https://www.spiegel.de/kultur/tv/usa-cbs-news-verschiebt-donald-trump-kritischen-bericht-ueber-abschiebegefaengnis](https://www.spiegel.de/kultur/tv/usa-cbs-news-verschiebt-donald-trump-kritischen-bericht-ueber-abschiebegefaengnis-a-458d5b8b-a280-40f3-bdc5-004af069361f#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten](https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten-a-913cc4ce-cac2-4e5f-be76-a1cc2edd0df4#ref=rss)
-### sondergesandten
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-russischer-generalleutnant-fanil-sarwarow-getoetet-donald-trumps-sondergesandter-fuer-groenland-konsumkredite-und-kontrollverlust](https://www.spiegel.de/politik/deutschland/news-des-tages-russischer-generalleutnant-fanil-sarwarow-getoetet-donald-trumps-sondergesandter-fuer-groenland-konsumkredite-und-kontrollverlust-a-09f00f4c-7d6b-49ab-bf4a-77589c8ecfeb#ref=rss)
+* [https://www.spiegel.de/ausland/ales-beljazki-ueber-haft-in-belarus-man-fuehlt-sich-wie-ware-wie-ein-sack-mehl-oder-kaffee](https://www.spiegel.de/ausland/ales-beljazki-ueber-haft-in-belarus-man-fuehlt-sich-wie-ware-wie-ein-sack-mehl-oder-kaffee-a-45c6792c-791b-4894-b7df-0605ac1aa337#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten](https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten-a-913cc4ce-cac2-4e5f-be76-a1cc2edd0df4#ref=rss)
-### afrikacup
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-haftung-und-zinsen-bei-eu-schulden-fuer-kyjiw](https://www.spiegel.de/wirtschaft/ukraine-krieg-haftung-und-zinsen-bei-eu-schulden-fuer-kyjiw-a-0b9526fa-e83a-4383-8a33-eabffe0b05ff#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### haft
 
-* [https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren](https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren-a-7254ae3d-4e59-45ed-abf9-ec33b5452c20#ref=rss)
-### fallrückzieher
+* [https://www.spiegel.de/ausland/ales-beljazki-ueber-haft-in-belarus-man-fuehlt-sich-wie-ware-wie-ein-sack-mehl-oder-kaffee](https://www.spiegel.de/ausland/ales-beljazki-ueber-haft-in-belarus-man-fuehlt-sich-wie-ware-wie-ein-sack-mehl-oder-kaffee-a-45c6792c-791b-4894-b7df-0605ac1aa337#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-mann-uebergoss-schlafende-frau-mit-heissem-oel-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-mann-uebergoss-schlafende-frau-mit-heissem-oel-zu-haft-verurteilt-a-9c921ac4-81f2-4ff7-8b1c-f4972b46e06e#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren](https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren-a-7254ae3d-4e59-45ed-abf9-ec33b5452c20#ref=rss)
-### marokko
+* [https://www.spiegel.de/sport/basketball/basketball-bayern-muenchen-der-alte-svetislav-pesic-macht-es-noch-einmal-bei-den-bayern](https://www.spiegel.de/sport/basketball/basketball-bayern-muenchen-der-alte-svetislav-pesic-macht-es-noch-einmal-bei-den-bayern-a-3d8b2b96-752d-4640-8874-4fbb7109add9#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren](https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren-a-7254ae3d-4e59-45ed-abf9-ec33b5452c20#ref=rss)
-### komoren
+* [https://www.spiegel.de/sport/basketball/basketball-bayern-muenchen-der-alte-svetislav-pesic-macht-es-noch-einmal-bei-den-bayern](https://www.spiegel.de/sport/basketball/basketball-bayern-muenchen-der-alte-svetislav-pesic-macht-es-noch-einmal-bei-den-bayern-a-3d8b2b96-752d-4640-8874-4fbb7109add9#ref=rss)
+* [https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben](https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben-a-bcdc7a15-6a4b-4bab-b906-e00b7f87e369#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-mann-uebergoss-schlafende-frau-mit-heissem-oel-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-mann-uebergoss-schlafende-frau-mit-heissem-oel-zu-haft-verurteilt-a-9c921ac4-81f2-4ff7-8b1c-f4972b46e06e#ref=rss)
+### kündigt
 
-* [https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren](https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren-a-7254ae3d-4e59-45ed-abf9-ec33b5452c20#ref=rss)
-### ägypten
+* [https://www.spiegel.de/kultur/ski-aggu-rapper-kuendigt-auszeit-vom-musikbusiness-an](https://www.spiegel.de/kultur/ski-aggu-rapper-kuendigt-auszeit-vom-musikbusiness-an-a-382cf531-7375-42cd-94a5-509ca4f822fe#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manchester-city-guardiola-kontrolliert-spielergewicht-nach-feiertagen](https://www.spiegel.de/sport/fussball/manchester-city-guardiola-kontrolliert-spielergewicht-nach-feiertagen-a-12f6c100-084c-4ca8-96e0-d42f4e7fbc3d#ref=rss)
+### runde
 
-* [https://www.spiegel.de/panorama/kreuzfahrtschiffe-kollidieren-auf-dem-nil-eine-tote](https://www.spiegel.de/panorama/kreuzfahrtschiffe-kollidieren-auf-dem-nil-eine-tote-a-05437ff3-6a0d-407c-ac93-b5cecbef2de0#ref=rss)
-### sportler
+* [https://www.spiegel.de/sport/darts-wm-gabriel-clemens-erreicht-durch-sieg-ueber-wessel-nijman-die-dritte-runde](https://www.spiegel.de/sport/darts-wm-gabriel-clemens-erreicht-durch-sieg-ueber-wessel-nijman-die-dritte-runde-a-9f12db5d-dadd-4e8d-ac47-530248f923c9#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-rob-cross-spricht-ueber-mentale-probleme-und-medikamentenverzicht](https://www.spiegel.de/sport/darts-wm-rob-cross-spricht-ueber-mentale-probleme-und-medikamentenverzicht-a-4f4b5d9f-6694-4c2c-84ba-bd132c9bada4#ref=rss)
+### verkehr
 
-* [https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt](https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt-a-a34a9f6d-f400-4256-ba1f-1f7306c8dd96#ref=rss)
-### jahres
+* [https://www.spiegel.de/auto/san-francisco-stromausfall-bringt-zahlreiche-waymo-robotaxis-zum-stehen](https://www.spiegel.de/auto/san-francisco-stromausfall-bringt-zahlreiche-waymo-robotaxis-zum-stehen-a-61a46bdc-c17e-431c-98fc-fcbcda311aad#ref=rss)
+* [https://www.spiegel.de/auto/a45-rahmedetal-bruecke-fuer-den-verkehr-freigegeben](https://www.spiegel.de/auto/a45-rahmedetal-bruecke-fuer-den-verkehr-freigegeben-a-910e37f2-9af9-433e-9e53-d15b2188cb71#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt](https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt-a-a34a9f6d-f400-4256-ba1f-1f7306c8dd96#ref=rss)
-### neugebauer
+* [https://www.spiegel.de/wirtschaft/eu-milchwirtschaft-china-verhaengt-strafzoelle-auf-eu-milchprodukte](https://www.spiegel.de/wirtschaft/eu-milchwirtschaft-china-verhaengt-strafzoelle-auf-eu-milchprodukte-a-3ab3c2e3-3175-4434-8b90-a5d4515f72be#ref=rss)
+* [https://www.spiegel.de/panorama/lothar-fornfett-und-hugo-wie-ein-schlachter-einem-ochsen-das-leben-rettete](https://www.spiegel.de/panorama/lothar-fornfett-und-hugo-wie-ein-schlachter-einem-ochsen-das-leben-rettete-a-cb4720a8-cd1d-45fe-a914-1580b5beba67#ref=rss)
+* [https://www.spiegel.de/auto/a45-rahmedetal-bruecke-fuer-den-verkehr-freigegeben](https://www.spiegel.de/auto/a45-rahmedetal-bruecke-fuer-den-verkehr-freigegeben-a-910e37f2-9af9-433e-9e53-d15b2188cb71#ref=rss)
+### katholische
 
-* [https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt](https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt-a-a34a9f6d-f400-4256-ba1f-1f7306c8dd96#ref=rss)
-### preuß
+* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-papst-leo-xiv-sorgt-sich-wegen-priestermangels](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-papst-leo-xiv-sorgt-sich-wegen-priestermangels-a-ea59b7c2-d478-4c1f-b47b-d84aa54f331d#ref=rss)
+### kirche
 
-* [https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt](https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt-a-a34a9f6d-f400-4256-ba1f-1f7306c8dd96#ref=rss)
-### beach
+* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-papst-leo-xiv-sorgt-sich-wegen-priestermangels](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-papst-leo-xiv-sorgt-sich-wegen-priestermangels-a-ea59b7c2-d478-4c1f-b47b-d84aa54f331d#ref=rss)
+### papst
 
-* [https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert](https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert-a-47133834-d6a3-418c-8170-bc8b7c0af06b#ref=rss)
-* [https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen](https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen-a-529e5362-4de7-4d22-8386-51cd92a9bbeb#ref=rss)
-### täter
+* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-papst-leo-xiv-sorgt-sich-wegen-priestermangels](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-papst-leo-xiv-sorgt-sich-wegen-priestermangels-a-ea59b7c2-d478-4c1f-b47b-d84aa54f331d#ref=rss)
+### zahlreiche
 
-* [https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert](https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert-a-47133834-d6a3-418c-8170-bc8b7c0af06b#ref=rss)
-### davon
-
-* [https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert](https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert-a-47133834-d6a3-418c-8170-bc8b7c0af06b#ref=rss)
-* [https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag](https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag-a-d82cf5c4-7aaa-44b7-84c5-a7912e6b11f2#ref=rss)
-### beschädigt
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen-a-784916d9-a482-4607-abe2-211d65ffb93e#ref=rss)
-### schiffe
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen-a-784916d9-a482-4607-abe2-211d65ffb93e#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen-a-784916d9-a482-4607-abe2-211d65ffb93e#ref=rss)
-### visier
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen-a-784916d9-a482-4607-abe2-211d65ffb93e#ref=rss)
-* [https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik](https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik-a-6406cf6e-9311-4a56-ad58-e3e1b277c5f7#ref=rss)
-### bin
-
-* [https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen](https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen-a-28107701-93f2-4979-bc4a-436a3736dec0#ref=rss)
-### meinem
-
-* [https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen](https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen-a-28107701-93f2-4979-bc4a-436a3736dec0#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-papst-leo-xiv-sorgt-sich-wegen-priestermangels](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-papst-leo-xiv-sorgt-sich-wegen-priestermangels-a-ea59b7c2-d478-4c1f-b47b-d84aa54f331d#ref=rss)
+* [https://www.spiegel.de/auto/san-francisco-stromausfall-bringt-zahlreiche-waymo-robotaxis-zum-stehen](https://www.spiegel.de/auto/san-francisco-stromausfall-bringt-zahlreiche-waymo-robotaxis-zum-stehen-a-61a46bdc-c17e-431c-98fc-fcbcda311aad#ref=rss)
 ### drei
 
-* [https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag](https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag-a-d82cf5c4-7aaa-44b7-84c5-a7912e6b11f2#ref=rss)
-### effizienter
+* [https://www.spiegel.de/kultur/chris-rea-drei-wichtigste-songs-des-driving-home-for-christmas-saengers](https://www.spiegel.de/kultur/chris-rea-drei-wichtigste-songs-des-driving-home-for-christmas-saengers-a-2be159bc-2118-4297-9881-f5f45b2b372b#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-gabriel-clemens-erreicht-durch-sieg-ueber-wessel-nijman-die-dritte-runde](https://www.spiegel.de/sport/darts-wm-gabriel-clemens-erreicht-durch-sieg-ueber-wessel-nijman-die-dritte-runde-a-9f12db5d-dadd-4e8d-ac47-530248f923c9#ref=rss)
+### songs
 
-* [https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag](https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag-a-d82cf5c4-7aaa-44b7-84c5-a7912e6b11f2#ref=rss)
-* [https://www.spiegel.de/karriere/multitasking-und-prioritaeten-setzen-tools-fuer-produktiveres-arbeiten](https://www.spiegel.de/karriere/multitasking-und-prioritaeten-setzen-tools-fuer-produktiveres-arbeiten-a-176fbb91-c489-4849-a9eb-99db239ac224#ref=rss)
-### arbeiten
+* [https://www.spiegel.de/kultur/chris-rea-drei-wichtigste-songs-des-driving-home-for-christmas-saengers](https://www.spiegel.de/kultur/chris-rea-drei-wichtigste-songs-des-driving-home-for-christmas-saengers-a-2be159bc-2118-4297-9881-f5f45b2b372b#ref=rss)
+### driving
 
-* [https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag](https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag-a-d82cf5c4-7aaa-44b7-84c5-a7912e6b11f2#ref=rss)
-* [https://www.spiegel.de/karriere/multitasking-und-prioritaeten-setzen-tools-fuer-produktiveres-arbeiten](https://www.spiegel.de/karriere/multitasking-und-prioritaeten-setzen-tools-fuer-produktiveres-arbeiten-a-176fbb91-c489-4849-a9eb-99db239ac224#ref=rss)
-### schrecken
+* [https://www.spiegel.de/kultur/chris-rea-drei-wichtigste-songs-des-driving-home-for-christmas-saengers](https://www.spiegel.de/kultur/chris-rea-drei-wichtigste-songs-des-driving-home-for-christmas-saengers-a-2be159bc-2118-4297-9881-f5f45b2b372b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben](https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben-a-bcdc7a15-6a4b-4bab-b906-e00b7f87e369#ref=rss)
+### home
 
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-schwarzer-schnee-mit-wotan-wilke-moehring](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-schwarzer-schnee-mit-wotan-wilke-moehring-a-e8e88e53-2261-4447-a94f-44310f0b12f8#ref=rss)
-### druck
+* [https://www.spiegel.de/kultur/chris-rea-drei-wichtigste-songs-des-driving-home-for-christmas-saengers](https://www.spiegel.de/kultur/chris-rea-drei-wichtigste-songs-des-driving-home-for-christmas-saengers-a-2be159bc-2118-4297-9881-f5f45b2b372b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben](https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben-a-bcdc7a15-6a4b-4bab-b906-e00b7f87e369#ref=rss)
+### for
 
-* [https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen](https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen-a-d69ebe55-8bf5-43f6-a051-d8d3c2c2e2e9#ref=rss)
-### bisher
+* [https://www.spiegel.de/kultur/chris-rea-drei-wichtigste-songs-des-driving-home-for-christmas-saengers](https://www.spiegel.de/kultur/chris-rea-drei-wichtigste-songs-des-driving-home-for-christmas-saengers-a-2be159bc-2118-4297-9881-f5f45b2b372b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben](https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben-a-bcdc7a15-6a4b-4bab-b906-e00b7f87e369#ref=rss)
+### familie
 
-* [https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen](https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen-a-d69ebe55-8bf5-43f6-a051-d8d3c2c2e2e9#ref=rss)
-* [https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik](https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik-a-6406cf6e-9311-4a56-ad58-e3e1b277c5f7#ref=rss)
+* [https://www.spiegel.de/kultur/chris-rea-drei-wichtigste-songs-des-driving-home-for-christmas-saengers](https://www.spiegel.de/kultur/chris-rea-drei-wichtigste-songs-des-driving-home-for-christmas-saengers-a-2be159bc-2118-4297-9881-f5f45b2b372b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/dieses-mal-gibts-die-geschenke-schon-vor-dem-essen](https://www.spiegel.de/panorama/leute/dieses-mal-gibts-die-geschenke-schon-vor-dem-essen-a-31b8b62b-f966-49c2-82d2-438e4ec0ce84#ref=rss)
 ### venezuela
 
-* [https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik](https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik-a-6406cf6e-9311-4a56-ad58-e3e1b277c5f7#ref=rss)
+* [https://www.spiegel.de/ausland/faktencheck-schiesst-die-usa-wirklich-drogenboote-vor-venezuela-ab](https://www.spiegel.de/ausland/faktencheck-schiesst-die-usa-wirklich-drogenboote-vor-venezuela-ab-a-b124ecd9-c949-4da1-b790-4bc7b7d66e9f#ref=rss)
+### lage
+
+* [https://www.spiegel.de/ausland/faktencheck-schiesst-die-usa-wirklich-drogenboote-vor-venezuela-ab](https://www.spiegel.de/ausland/faktencheck-schiesst-die-usa-wirklich-drogenboote-vor-venezuela-ab-a-b124ecd9-c949-4da1-b790-4bc7b7d66e9f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-russischer-generalleutnant-fanil-sarwarow-getoetet-donald-trumps-sondergesandter-fuer-groenland-konsumkredite-und-kontrollverlust](https://www.spiegel.de/politik/deutschland/news-des-tages-russischer-generalleutnant-fanil-sarwarow-getoetet-donald-trumps-sondergesandter-fuer-groenland-konsumkredite-und-kontrollverlust-a-09f00f4c-7d6b-49ab-bf4a-77589c8ecfeb#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-russischer-generalleutnant-fanil-sarwarow-getoetet-donald-trumps-sondergesandter-fuer-groenland-konsumkredite-und-kontrollverlust](https://www.spiegel.de/politik/deutschland/news-des-tages-russischer-generalleutnant-fanil-sarwarow-getoetet-donald-trumps-sondergesandter-fuer-groenland-konsumkredite-und-kontrollverlust-a-09f00f4c-7d6b-49ab-bf4a-77589c8ecfeb#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### russischer
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-russischer-generalleutnant-fanil-sarwarow-getoetet-donald-trumps-sondergesandter-fuer-groenland-konsumkredite-und-kontrollverlust](https://www.spiegel.de/politik/deutschland/news-des-tages-russischer-generalleutnant-fanil-sarwarow-getoetet-donald-trumps-sondergesandter-fuer-groenland-konsumkredite-und-kontrollverlust-a-09f00f4c-7d6b-49ab-bf4a-77589c8ecfeb#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-russischer-generalleutnant-fanil-sarwarow-getoetet-donald-trumps-sondergesandter-fuer-groenland-konsumkredite-und-kontrollverlust](https://www.spiegel.de/politik/deutschland/news-des-tages-russischer-generalleutnant-fanil-sarwarow-getoetet-donald-trumps-sondergesandter-fuer-groenland-konsumkredite-und-kontrollverlust-a-09f00f4c-7d6b-49ab-bf4a-77589c8ecfeb#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-russischer-generalleutnant-fanil-sarwarow-getoetet-donald-trumps-sondergesandter-fuer-groenland-konsumkredite-und-kontrollverlust](https://www.spiegel.de/politik/deutschland/news-des-tages-russischer-generalleutnant-fanil-sarwarow-getoetet-donald-trumps-sondergesandter-fuer-groenland-konsumkredite-und-kontrollverlust-a-09f00f4c-7d6b-49ab-bf4a-77589c8ecfeb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-milchwirtschaft-china-verhaengt-strafzoelle-auf-eu-milchprodukte](https://www.spiegel.de/wirtschaft/eu-milchwirtschaft-china-verhaengt-strafzoelle-auf-eu-milchprodukte-a-3ab3c2e3-3175-4434-8b90-a5d4515f72be#ref=rss)
+### cbs
+
+* [https://www.spiegel.de/kultur/tv/usa-cbs-news-verschiebt-donald-trump-kritischen-bericht-ueber-abschiebegefaengnis](https://www.spiegel.de/kultur/tv/usa-cbs-news-verschiebt-donald-trump-kritischen-bericht-ueber-abschiebegefaengnis-a-458d5b8b-a280-40f3-bdc5-004af069361f#ref=rss)
+### stuttgart
+
+* [https://www.spiegel.de/panorama/gesellschaft/stuttgart-warum-ein-obdachloser-200-euro-fuer-alleinerziehende-muetter-spendete](https://www.spiegel.de/panorama/gesellschaft/stuttgart-warum-ein-obdachloser-200-euro-fuer-alleinerziehende-muetter-spendete-a-8564672c-11c1-4468-94a7-1884303fa001#ref=rss)
+### euro
+
+* [https://www.spiegel.de/panorama/gesellschaft/stuttgart-warum-ein-obdachloser-200-euro-fuer-alleinerziehende-muetter-spendete](https://www.spiegel.de/panorama/gesellschaft/stuttgart-warum-ein-obdachloser-200-euro-fuer-alleinerziehende-muetter-spendete-a-8564672c-11c1-4468-94a7-1884303fa001#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-haftung-und-zinsen-bei-eu-schulden-fuer-kyjiw](https://www.spiegel.de/wirtschaft/ukraine-krieg-haftung-und-zinsen-bei-eu-schulden-fuer-kyjiw-a-0b9526fa-e83a-4383-8a33-eabffe0b05ff#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/gesellschaft/stuttgart-warum-ein-obdachloser-200-euro-fuer-alleinerziehende-muetter-spendete](https://www.spiegel.de/panorama/gesellschaft/stuttgart-warum-ein-obdachloser-200-euro-fuer-alleinerziehende-muetter-spendete-a-8564672c-11c1-4468-94a7-1884303fa001#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gesundheitsministerin-nina-warken-ich-moechte-keinen-beliebtheitspreis-gewinnen](https://www.spiegel.de/politik/deutschland/gesundheitsministerin-nina-warken-ich-moechte-keinen-beliebtheitspreis-gewinnen-a-31a79ff8-fe10-418e-8d10-3101aa3cb5ae#ref=rss)
+### zinsen
+
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-haftung-und-zinsen-bei-eu-schulden-fuer-kyjiw](https://www.spiegel.de/wirtschaft/ukraine-krieg-haftung-und-zinsen-bei-eu-schulden-fuer-kyjiw-a-0b9526fa-e83a-4383-8a33-eabffe0b05ff#ref=rss)
+### eu
+
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-haftung-und-zinsen-bei-eu-schulden-fuer-kyjiw](https://www.spiegel.de/wirtschaft/ukraine-krieg-haftung-und-zinsen-bei-eu-schulden-fuer-kyjiw-a-0b9526fa-e83a-4383-8a33-eabffe0b05ff#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-milchwirtschaft-china-verhaengt-strafzoelle-auf-eu-milchprodukte](https://www.spiegel.de/wirtschaft/eu-milchwirtschaft-china-verhaengt-strafzoelle-auf-eu-milchprodukte-a-3ab3c2e3-3175-4434-8b90-a5d4515f72be#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-haftung-und-zinsen-bei-eu-schulden-fuer-kyjiw](https://www.spiegel.de/wirtschaft/ukraine-krieg-haftung-und-zinsen-bei-eu-schulden-fuer-kyjiw-a-0b9526fa-e83a-4383-8a33-eabffe0b05ff#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### ales
+
+* [https://www.spiegel.de/ausland/ales-beljazki-ueber-haft-in-belarus-man-fuehlt-sich-wie-ware-wie-ein-sack-mehl-oder-kaffee](https://www.spiegel.de/ausland/ales-beljazki-ueber-haft-in-belarus-man-fuehlt-sich-wie-ware-wie-ein-sack-mehl-oder-kaffee-a-45c6792c-791b-4894-b7df-0605ac1aa337#ref=rss)
+### beljazki
+
+* [https://www.spiegel.de/ausland/ales-beljazki-ueber-haft-in-belarus-man-fuehlt-sich-wie-ware-wie-ein-sack-mehl-oder-kaffee](https://www.spiegel.de/ausland/ales-beljazki-ueber-haft-in-belarus-man-fuehlt-sich-wie-ware-wie-ein-sack-mehl-oder-kaffee-a-45c6792c-791b-4894-b7df-0605ac1aa337#ref=rss)
+### jahrelang
+
+* [https://www.spiegel.de/ausland/ales-beljazki-ueber-haft-in-belarus-man-fuehlt-sich-wie-ware-wie-ein-sack-mehl-oder-kaffee](https://www.spiegel.de/ausland/ales-beljazki-ueber-haft-in-belarus-man-fuehlt-sich-wie-ware-wie-ein-sack-mehl-oder-kaffee-a-45c6792c-791b-4894-b7df-0605ac1aa337#ref=rss)
+* [https://www.spiegel.de/panorama/lothar-fornfett-und-hugo-wie-ein-schlachter-einem-ochsen-das-leben-rettete](https://www.spiegel.de/panorama/lothar-fornfett-und-hugo-wie-ein-schlachter-einem-ochsen-das-leben-rettete-a-cb4720a8-cd1d-45fe-a914-1580b5beba67#ref=rss)
+### dennoch
+
+* [https://www.spiegel.de/ausland/ales-beljazki-ueber-haft-in-belarus-man-fuehlt-sich-wie-ware-wie-ein-sack-mehl-oder-kaffee](https://www.spiegel.de/ausland/ales-beljazki-ueber-haft-in-belarus-man-fuehlt-sich-wie-ware-wie-ein-sack-mehl-oder-kaffee-a-45c6792c-791b-4894-b7df-0605ac1aa337#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-milchwirtschaft-china-verhaengt-strafzoelle-auf-eu-milchprodukte](https://www.spiegel.de/wirtschaft/eu-milchwirtschaft-china-verhaengt-strafzoelle-auf-eu-milchprodukte-a-3ab3c2e3-3175-4434-8b90-a5d4515f72be#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/ales-beljazki-ueber-haft-in-belarus-man-fuehlt-sich-wie-ware-wie-ein-sack-mehl-oder-kaffee](https://www.spiegel.de/ausland/ales-beljazki-ueber-haft-in-belarus-man-fuehlt-sich-wie-ware-wie-ein-sack-mehl-oder-kaffee-a-45c6792c-791b-4894-b7df-0605ac1aa337#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/calden-feuerwerk-schreckt-pferd-auf-22-jaehrige-stirbt](https://www.spiegel.de/panorama/justiz/calden-feuerwerk-schreckt-pferd-auf-22-jaehrige-stirbt-a-6f74d103-8a7f-451e-b853-8d66619602cc#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/basketball/basketball-bayern-muenchen-der-alte-svetislav-pesic-macht-es-noch-einmal-bei-den-bayern](https://www.spiegel.de/sport/basketball/basketball-bayern-muenchen-der-alte-svetislav-pesic-macht-es-noch-einmal-bei-den-bayern-a-3d8b2b96-752d-4640-8874-4fbb7109add9#ref=rss)
+### svetislav
+
+* [https://www.spiegel.de/sport/basketball/basketball-bayern-muenchen-der-alte-svetislav-pesic-macht-es-noch-einmal-bei-den-bayern](https://www.spiegel.de/sport/basketball/basketball-bayern-muenchen-der-alte-svetislav-pesic-macht-es-noch-einmal-bei-den-bayern-a-3d8b2b96-752d-4640-8874-4fbb7109add9#ref=rss)
+### pešić
+
+* [https://www.spiegel.de/sport/basketball/basketball-bayern-muenchen-der-alte-svetislav-pesic-macht-es-noch-einmal-bei-den-bayern](https://www.spiegel.de/sport/basketball/basketball-bayern-muenchen-der-alte-svetislav-pesic-macht-es-noch-einmal-bei-den-bayern-a-3d8b2b96-752d-4640-8874-4fbb7109add9#ref=rss)
+### frank
+
+* [https://www.spiegel.de/panorama/leute/dieses-mal-gibts-die-geschenke-schon-vor-dem-essen](https://www.spiegel.de/panorama/leute/dieses-mal-gibts-die-geschenke-schon-vor-dem-essen-a-31b8b62b-f966-49c2-82d2-438e4ec0ce84#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/leute/dieses-mal-gibts-die-geschenke-schon-vor-dem-essen](https://www.spiegel.de/panorama/leute/dieses-mal-gibts-die-geschenke-schon-vor-dem-essen-a-31b8b62b-f966-49c2-82d2-438e4ec0ce84#ref=rss)
+### sänger
+
+* [https://www.spiegel.de/panorama/leute/dieses-mal-gibts-die-geschenke-schon-vor-dem-essen](https://www.spiegel.de/panorama/leute/dieses-mal-gibts-die-geschenke-schon-vor-dem-essen-a-31b8b62b-f966-49c2-82d2-438e4ec0ce84#ref=rss)
+* [https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben](https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben-a-bcdc7a15-6a4b-4bab-b906-e00b7f87e369#ref=rss)
+### ski
+
+* [https://www.spiegel.de/kultur/ski-aggu-rapper-kuendigt-auszeit-vom-musikbusiness-an](https://www.spiegel.de/kultur/ski-aggu-rapper-kuendigt-auszeit-vom-musikbusiness-an-a-382cf531-7375-42cd-94a5-509ca4f822fe#ref=rss)
+### aggu
+
+* [https://www.spiegel.de/kultur/ski-aggu-rapper-kuendigt-auszeit-vom-musikbusiness-an](https://www.spiegel.de/kultur/ski-aggu-rapper-kuendigt-auszeit-vom-musikbusiness-an-a-382cf531-7375-42cd-94a5-509ca4f822fe#ref=rss)
+### rapper
+
+* [https://www.spiegel.de/kultur/ski-aggu-rapper-kuendigt-auszeit-vom-musikbusiness-an](https://www.spiegel.de/kultur/ski-aggu-rapper-kuendigt-auszeit-vom-musikbusiness-an-a-382cf531-7375-42cd-94a5-509ca4f822fe#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/kultur/ski-aggu-rapper-kuendigt-auszeit-vom-musikbusiness-an](https://www.spiegel.de/kultur/ski-aggu-rapper-kuendigt-auszeit-vom-musikbusiness-an-a-382cf531-7375-42cd-94a5-509ca4f822fe#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/kultur/ski-aggu-rapper-kuendigt-auszeit-vom-musikbusiness-an](https://www.spiegel.de/kultur/ski-aggu-rapper-kuendigt-auszeit-vom-musikbusiness-an-a-382cf531-7375-42cd-94a5-509ca4f822fe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/calden-feuerwerk-schreckt-pferd-auf-22-jaehrige-stirbt](https://www.spiegel.de/panorama/justiz/calden-feuerwerk-schreckt-pferd-auf-22-jaehrige-stirbt-a-6f74d103-8a7f-451e-b853-8d66619602cc#ref=rss)
+### schmidt
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-ex-generalsekretaer-schmidt-rauswerfen](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-will-ex-generalsekretaer-schmidt-rauswerfen-a-08d67f5e-d722-4031-9965-196cbadfbbd1#ref=rss)
+### schiffe
+
+* [https://www.spiegel.de/panorama/shropshire-in-grossbritannien-kanal-gebrochen-ploetzlich-liegen-schiffe-auf-dem-trockenen](https://www.spiegel.de/panorama/shropshire-in-grossbritannien-kanal-gebrochen-ploetzlich-liegen-schiffe-auf-dem-trockenen-a-8f15e82a-e3b3-4e71-aaf0-fc5c6140e447#ref=rss)
+### dartswm
+
+* [https://www.spiegel.de/sport/darts-wm-gabriel-clemens-erreicht-durch-sieg-ueber-wessel-nijman-die-dritte-runde](https://www.spiegel.de/sport/darts-wm-gabriel-clemens-erreicht-durch-sieg-ueber-wessel-nijman-die-dritte-runde-a-9f12db5d-dadd-4e8d-ac47-530248f923c9#ref=rss)
+### gabriel
+
+* [https://www.spiegel.de/sport/darts-wm-gabriel-clemens-erreicht-durch-sieg-ueber-wessel-nijman-die-dritte-runde](https://www.spiegel.de/sport/darts-wm-gabriel-clemens-erreicht-durch-sieg-ueber-wessel-nijman-die-dritte-runde-a-9f12db5d-dadd-4e8d-ac47-530248f923c9#ref=rss)
+### clemens
+
+* [https://www.spiegel.de/sport/darts-wm-gabriel-clemens-erreicht-durch-sieg-ueber-wessel-nijman-die-dritte-runde](https://www.spiegel.de/sport/darts-wm-gabriel-clemens-erreicht-durch-sieg-ueber-wessel-nijman-die-dritte-runde-a-9f12db5d-dadd-4e8d-ac47-530248f923c9#ref=rss)
+### erreicht
+
+* [https://www.spiegel.de/sport/darts-wm-gabriel-clemens-erreicht-durch-sieg-ueber-wessel-nijman-die-dritte-runde](https://www.spiegel.de/sport/darts-wm-gabriel-clemens-erreicht-durch-sieg-ueber-wessel-nijman-die-dritte-runde-a-9f12db5d-dadd-4e8d-ac47-530248f923c9#ref=rss)
+### alter
+
+* [https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben](https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben-a-bcdc7a15-6a4b-4bab-b906-e00b7f87e369#ref=rss)
+### 74
+
+* [https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben](https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben-a-bcdc7a15-6a4b-4bab-b906-e00b7f87e369#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben](https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben-a-bcdc7a15-6a4b-4bab-b906-e00b7f87e369#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben](https://www.spiegel.de/kultur/musik/chris-rea-saenger-im-alter-von-74-jahre-gestorben-a-bcdc7a15-6a4b-4bab-b906-e00b7f87e369#ref=rss)
+* [https://www.spiegel.de/auto/a45-rahmedetal-bruecke-fuer-den-verkehr-freigegeben](https://www.spiegel.de/auto/a45-rahmedetal-bruecke-fuer-den-verkehr-freigegeben-a-910e37f2-9af9-433e-9e53-d15b2188cb71#ref=rss)
+### niclas
+
+* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-wechselt-von-west-ham-united-zur-ac-mailand-neustart-in-italien](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-wechselt-von-west-ham-united-zur-ac-mailand-neustart-in-italien-a-c2b13803-a388-40e3-a4e6-70f9cf1e317f#ref=rss)
+### füllkrug
+
+* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-wechselt-von-west-ham-united-zur-ac-mailand-neustart-in-italien](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-wechselt-von-west-ham-united-zur-ac-mailand-neustart-in-italien-a-c2b13803-a388-40e3-a4e6-70f9cf1e317f#ref=rss)
+### mailand
+
+* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-wechselt-von-west-ham-united-zur-ac-mailand-neustart-in-italien](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-wechselt-von-west-ham-united-zur-ac-mailand-neustart-in-italien-a-c2b13803-a388-40e3-a4e6-70f9cf1e317f#ref=rss)
+### detlef
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/detlef-mueller-spd-politiker-wird-bahn-manager](https://www.spiegel.de/wirtschaft/unternehmen/detlef-mueller-spd-politiker-wird-bahn-manager-a-ab47273d-3cc1-4921-83cf-8f7a6707f33c#ref=rss)
+### müller
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/detlef-mueller-spd-politiker-wird-bahn-manager](https://www.spiegel.de/wirtschaft/unternehmen/detlef-mueller-spd-politiker-wird-bahn-manager-a-ab47273d-3cc1-4921-83cf-8f7a6707f33c#ref=rss)
+### san
+
+* [https://www.spiegel.de/auto/san-francisco-stromausfall-bringt-zahlreiche-waymo-robotaxis-zum-stehen](https://www.spiegel.de/auto/san-francisco-stromausfall-bringt-zahlreiche-waymo-robotaxis-zum-stehen-a-61a46bdc-c17e-431c-98fc-fcbcda311aad#ref=rss)
+### francisco
+
+* [https://www.spiegel.de/auto/san-francisco-stromausfall-bringt-zahlreiche-waymo-robotaxis-zum-stehen](https://www.spiegel.de/auto/san-francisco-stromausfall-bringt-zahlreiche-waymo-robotaxis-zum-stehen-a-61a46bdc-c17e-431c-98fc-fcbcda311aad#ref=rss)
+### waren
+
+* [https://www.spiegel.de/auto/san-francisco-stromausfall-bringt-zahlreiche-waymo-robotaxis-zum-stehen](https://www.spiegel.de/auto/san-francisco-stromausfall-bringt-zahlreiche-waymo-robotaxis-zum-stehen-a-61a46bdc-c17e-431c-98fc-fcbcda311aad#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-mann-uebergoss-schlafende-frau-mit-heissem-oel-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-mann-uebergoss-schlafende-frau-mit-heissem-oel-zu-haft-verurteilt-a-9c921ac4-81f2-4ff7-8b1c-f4972b46e06e#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/eu-milchwirtschaft-china-verhaengt-strafzoelle-auf-eu-milchprodukte](https://www.spiegel.de/wirtschaft/eu-milchwirtschaft-china-verhaengt-strafzoelle-auf-eu-milchprodukte-a-3ab3c2e3-3175-4434-8b90-a5d4515f72be#ref=rss)
+### verhängt
+
+* [https://www.spiegel.de/wirtschaft/eu-milchwirtschaft-china-verhaengt-strafzoelle-auf-eu-milchprodukte](https://www.spiegel.de/wirtschaft/eu-milchwirtschaft-china-verhaengt-strafzoelle-auf-eu-milchprodukte-a-3ab3c2e3-3175-4434-8b90-a5d4515f72be#ref=rss)
+### strafzölle
+
+* [https://www.spiegel.de/wirtschaft/eu-milchwirtschaft-china-verhaengt-strafzoelle-auf-eu-milchprodukte](https://www.spiegel.de/wirtschaft/eu-milchwirtschaft-china-verhaengt-strafzoelle-auf-eu-milchprodukte-a-3ab3c2e3-3175-4434-8b90-a5d4515f72be#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-mann-uebergoss-schlafende-frau-mit-heissem-oel-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-mann-uebergoss-schlafende-frau-mit-heissem-oel-zu-haft-verurteilt-a-9c921ac4-81f2-4ff7-8b1c-f4972b46e06e#ref=rss)
+### main
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-mann-uebergoss-schlafende-frau-mit-heissem-oel-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-mann-uebergoss-schlafende-frau-mit-heissem-oel-zu-haft-verurteilt-a-9c921ac4-81f2-4ff7-8b1c-f4972b46e06e#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-mann-uebergoss-schlafende-frau-mit-heissem-oel-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-mann-uebergoss-schlafende-frau-mit-heissem-oel-zu-haft-verurteilt-a-9c921ac4-81f2-4ff7-8b1c-f4972b46e06e#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-mann-uebergoss-schlafende-frau-mit-heissem-oel-zu-haft-verurteilt](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-mann-uebergoss-schlafende-frau-mit-heissem-oel-zu-haft-verurteilt-a-9c921ac4-81f2-4ff7-8b1c-f4972b46e06e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/calden-feuerwerk-schreckt-pferd-auf-22-jaehrige-stirbt](https://www.spiegel.de/panorama/justiz/calden-feuerwerk-schreckt-pferd-auf-22-jaehrige-stirbt-a-6f74d103-8a7f-451e-b853-8d66619602cc#ref=rss)
+### lothar
+
+* [https://www.spiegel.de/panorama/lothar-fornfett-und-hugo-wie-ein-schlachter-einem-ochsen-das-leben-rettete](https://www.spiegel.de/panorama/lothar-fornfett-und-hugo-wie-ein-schlachter-einem-ochsen-das-leben-rettete-a-cb4720a8-cd1d-45fe-a914-1580b5beba67#ref=rss)
+### fornfett
+
+* [https://www.spiegel.de/panorama/lothar-fornfett-und-hugo-wie-ein-schlachter-einem-ochsen-das-leben-rettete](https://www.spiegel.de/panorama/lothar-fornfett-und-hugo-wie-ein-schlachter-einem-ochsen-das-leben-rettete-a-cb4720a8-cd1d-45fe-a914-1580b5beba67#ref=rss)
+### hugo
+
+* [https://www.spiegel.de/panorama/lothar-fornfett-und-hugo-wie-ein-schlachter-einem-ochsen-das-leben-rettete](https://www.spiegel.de/panorama/lothar-fornfett-und-hugo-wie-ein-schlachter-einem-ochsen-das-leben-rettete-a-cb4720a8-cd1d-45fe-a914-1580b5beba67#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/panorama/lothar-fornfett-und-hugo-wie-ein-schlachter-einem-ochsen-das-leben-rettete](https://www.spiegel.de/panorama/lothar-fornfett-und-hugo-wie-ein-schlachter-einem-ochsen-das-leben-rettete-a-cb4720a8-cd1d-45fe-a914-1580b5beba67#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gesundheitsministerin-nina-warken-ich-moechte-keinen-beliebtheitspreis-gewinnen](https://www.spiegel.de/politik/deutschland/gesundheitsministerin-nina-warken-ich-moechte-keinen-beliebtheitspreis-gewinnen-a-31a79ff8-fe10-418e-8d10-3101aa3cb5ae#ref=rss)
+### nina
+
+* [https://www.spiegel.de/politik/deutschland/gesundheitsministerin-nina-warken-ich-moechte-keinen-beliebtheitspreis-gewinnen](https://www.spiegel.de/politik/deutschland/gesundheitsministerin-nina-warken-ich-moechte-keinen-beliebtheitspreis-gewinnen-a-31a79ff8-fe10-418e-8d10-3101aa3cb5ae#ref=rss)
+### warken
+
+* [https://www.spiegel.de/politik/deutschland/gesundheitsministerin-nina-warken-ich-moechte-keinen-beliebtheitspreis-gewinnen](https://www.spiegel.de/politik/deutschland/gesundheitsministerin-nina-warken-ich-moechte-keinen-beliebtheitspreis-gewinnen-a-31a79ff8-fe10-418e-8d10-3101aa3cb5ae#ref=rss)
+### weihnachten
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-guardiola-kontrolliert-spielergewicht-nach-feiertagen](https://www.spiegel.de/sport/fussball/manchester-city-guardiola-kontrolliert-spielergewicht-nach-feiertagen-a-12f6c100-084c-4ca8-96e0-d42f4e7fbc3d#ref=rss)
+* [https://www.spiegel.de/panorama/weihnachten-wettervorhersage-fuer-die-festtage-schneit-es](https://www.spiegel.de/panorama/weihnachten-wettervorhersage-fuer-die-festtage-schneit-es-a-8b4ad54a-d7ca-41cf-8042-b23bbed31a6d#ref=rss)
+### pep
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-guardiola-kontrolliert-spielergewicht-nach-feiertagen](https://www.spiegel.de/sport/fussball/manchester-city-guardiola-kontrolliert-spielergewicht-nach-feiertagen-a-12f6c100-084c-4ca8-96e0-d42f4e7fbc3d#ref=rss)
+### guardiola
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-guardiola-kontrolliert-spielergewicht-nach-feiertagen](https://www.spiegel.de/sport/fussball/manchester-city-guardiola-kontrolliert-spielergewicht-nach-feiertagen-a-12f6c100-084c-4ca8-96e0-d42f4e7fbc3d#ref=rss)
+### viele
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-guardiola-kontrolliert-spielergewicht-nach-feiertagen](https://www.spiegel.de/sport/fussball/manchester-city-guardiola-kontrolliert-spielergewicht-nach-feiertagen-a-12f6c100-084c-4ca8-96e0-d42f4e7fbc3d#ref=rss)
+* [https://www.spiegel.de/panorama/weihnachten-wettervorhersage-fuer-die-festtage-schneit-es](https://www.spiegel.de/panorama/weihnachten-wettervorhersage-fuer-die-festtage-schneit-es-a-8b4ad54a-d7ca-41cf-8042-b23bbed31a6d#ref=rss)
+### kate
+
+* [https://www.spiegel.de/kultur/kate-hudson-und-hugh-jackman-ueber-hollywood-und-ihren-film-song-sung-blue](https://www.spiegel.de/kultur/kate-hudson-und-hugh-jackman-ueber-hollywood-und-ihren-film-song-sung-blue-a-91c7426f-90bb-4563-9bfe-5033250832e5#ref=rss)
+### hudson
+
+* [https://www.spiegel.de/kultur/kate-hudson-und-hugh-jackman-ueber-hollywood-und-ihren-film-song-sung-blue](https://www.spiegel.de/kultur/kate-hudson-und-hugh-jackman-ueber-hollywood-und-ihren-film-song-sung-blue-a-91c7426f-90bb-4563-9bfe-5033250832e5#ref=rss)
+### hugh
+
+* [https://www.spiegel.de/kultur/kate-hudson-und-hugh-jackman-ueber-hollywood-und-ihren-film-song-sung-blue](https://www.spiegel.de/kultur/kate-hudson-und-hugh-jackman-ueber-hollywood-und-ihren-film-song-sung-blue-a-91c7426f-90bb-4563-9bfe-5033250832e5#ref=rss)
+### jackman
+
+* [https://www.spiegel.de/kultur/kate-hudson-und-hugh-jackman-ueber-hollywood-und-ihren-film-song-sung-blue](https://www.spiegel.de/kultur/kate-hudson-und-hugh-jackman-ueber-hollywood-und-ihren-film-song-sung-blue-a-91c7426f-90bb-4563-9bfe-5033250832e5#ref=rss)
+### hollywood
+
+* [https://www.spiegel.de/kultur/kate-hudson-und-hugh-jackman-ueber-hollywood-und-ihren-film-song-sung-blue](https://www.spiegel.de/kultur/kate-hudson-und-hugh-jackman-ueber-hollywood-und-ihren-film-song-sung-blue-a-91c7426f-90bb-4563-9bfe-5033250832e5#ref=rss)
+### song
+
+* [https://www.spiegel.de/kultur/kate-hudson-und-hugh-jackman-ueber-hollywood-und-ihren-film-song-sung-blue](https://www.spiegel.de/kultur/kate-hudson-und-hugh-jackman-ueber-hollywood-und-ihren-film-song-sung-blue-a-91c7426f-90bb-4563-9bfe-5033250832e5#ref=rss)
+### sung
+
+* [https://www.spiegel.de/kultur/kate-hudson-und-hugh-jackman-ueber-hollywood-und-ihren-film-song-sung-blue](https://www.spiegel.de/kultur/kate-hudson-und-hugh-jackman-ueber-hollywood-und-ihren-film-song-sung-blue-a-91c7426f-90bb-4563-9bfe-5033250832e5#ref=rss)
+### blue
+
+* [https://www.spiegel.de/kultur/kate-hudson-und-hugh-jackman-ueber-hollywood-und-ihren-film-song-sung-blue](https://www.spiegel.de/kultur/kate-hudson-und-hugh-jackman-ueber-hollywood-und-ihren-film-song-sung-blue-a-91c7426f-90bb-4563-9bfe-5033250832e5#ref=rss)
+### rob
+
+* [https://www.spiegel.de/sport/darts-wm-rob-cross-spricht-ueber-mentale-probleme-und-medikamentenverzicht](https://www.spiegel.de/sport/darts-wm-rob-cross-spricht-ueber-mentale-probleme-und-medikamentenverzicht-a-4f4b5d9f-6694-4c2c-84ba-bd132c9bada4#ref=rss)
+### cross
+
+* [https://www.spiegel.de/sport/darts-wm-rob-cross-spricht-ueber-mentale-probleme-und-medikamentenverzicht](https://www.spiegel.de/sport/darts-wm-rob-cross-spricht-ueber-mentale-probleme-und-medikamentenverzicht-a-4f4b5d9f-6694-4c2c-84ba-bd132c9bada4#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/darts-wm-rob-cross-spricht-ueber-mentale-probleme-und-medikamentenverzicht](https://www.spiegel.de/sport/darts-wm-rob-cross-spricht-ueber-mentale-probleme-und-medikamentenverzicht-a-4f4b5d9f-6694-4c2c-84ba-bd132c9bada4#ref=rss)
+### probleme
+
+* [https://www.spiegel.de/sport/darts-wm-rob-cross-spricht-ueber-mentale-probleme-und-medikamentenverzicht](https://www.spiegel.de/sport/darts-wm-rob-cross-spricht-ueber-mentale-probleme-und-medikamentenverzicht-a-4f4b5d9f-6694-4c2c-84ba-bd132c9bada4#ref=rss)
+### lange
+
+* [https://www.spiegel.de/sport/darts-wm-rob-cross-spricht-ueber-mentale-probleme-und-medikamentenverzicht](https://www.spiegel.de/sport/darts-wm-rob-cross-spricht-ueber-mentale-probleme-und-medikamentenverzicht-a-4f4b5d9f-6694-4c2c-84ba-bd132c9bada4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/fritz-kola-testphase-mit-dosen-in-hamburg](https://www.spiegel.de/wissenschaft/natur/fritz-kola-testphase-mit-dosen-in-hamburg-a-5fb85c10-2675-48dc-b35c-9cb2503446cb#ref=rss)
+### andere
+
+* [https://www.spiegel.de/panorama/weihnachten-wettervorhersage-fuer-die-festtage-schneit-es](https://www.spiegel.de/panorama/weihnachten-wettervorhersage-fuer-die-festtage-schneit-es-a-8b4ad54a-d7ca-41cf-8042-b23bbed31a6d#ref=rss)
+* [https://www.spiegel.de/auto/a45-rahmedetal-bruecke-fuer-den-verkehr-freigegeben](https://www.spiegel.de/auto/a45-rahmedetal-bruecke-fuer-den-verkehr-freigegeben-a-910e37f2-9af9-433e-9e53-d15b2188cb71#ref=rss)
+### a45
+
+* [https://www.spiegel.de/auto/a45-rahmedetal-bruecke-fuer-den-verkehr-freigegeben](https://www.spiegel.de/auto/a45-rahmedetal-bruecke-fuer-den-verkehr-freigegeben-a-910e37f2-9af9-433e-9e53-d15b2188cb71#ref=rss)
+### lüdenscheid
+
+* [https://www.spiegel.de/auto/a45-rahmedetal-bruecke-fuer-den-verkehr-freigegeben](https://www.spiegel.de/auto/a45-rahmedetal-bruecke-fuer-den-verkehr-freigegeben-a-910e37f2-9af9-433e-9e53-d15b2188cb71#ref=rss)
+### rahmedetalbrücke
+
+* [https://www.spiegel.de/auto/a45-rahmedetal-bruecke-fuer-den-verkehr-freigegeben](https://www.spiegel.de/auto/a45-rahmedetal-bruecke-fuer-den-verkehr-freigegeben-a-910e37f2-9af9-433e-9e53-d15b2188cb71#ref=rss)
+### fritzkola
+
+* [https://www.spiegel.de/wissenschaft/natur/fritz-kola-testphase-mit-dosen-in-hamburg](https://www.spiegel.de/wissenschaft/natur/fritz-kola-testphase-mit-dosen-in-hamburg-a-5fb85c10-2675-48dc-b35c-9cb2503446cb#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### calden
+
+* [https://www.spiegel.de/panorama/justiz/calden-feuerwerk-schreckt-pferd-auf-22-jaehrige-stirbt](https://www.spiegel.de/panorama/justiz/calden-feuerwerk-schreckt-pferd-auf-22-jaehrige-stirbt-a-6f74d103-8a7f-451e-b853-8d66619602cc#ref=rss)
+### pferd
+
+* [https://www.spiegel.de/panorama/justiz/calden-feuerwerk-schreckt-pferd-auf-22-jaehrige-stirbt](https://www.spiegel.de/panorama/justiz/calden-feuerwerk-schreckt-pferd-auf-22-jaehrige-stirbt-a-6f74d103-8a7f-451e-b853-8d66619602cc#ref=rss)
 
