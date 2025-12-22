@@ -4,308 +4,350 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### zwei
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/darts-wm-max-hopps-comeback-endet-in-runde-zwei](https://www.spiegel.de/sport/fussball/darts-wm-max-hopps-comeback-endet-in-runde-zwei-a-8a1d8401-e0b4-44ee-840e-d9c06826b032#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bayern-gerichtsurteil-zu-kruzifix-im-schulfoyer](https://www.spiegel.de/panorama/bildung/bayern-gerichtsurteil-zu-kruzifix-im-schulfoyer-a-d353457e-dcab-47b3-bcdf-dd4f0d7a1a2b#ref=rss)
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-gefaehrdet-eine-vermeintliche-dienstreise-nach-disneyland-einen-wahlerfolg](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-gefaehrdet-eine-vermeintliche-dienstreise-nach-disneyland-einen-wahlerfolg-a-905a71bb-f2e7-4ffb-8268-950c752ecf3f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bayern-14-jaehrige-verletzt-zwei-maedchen-mit-kuechenmesser](https://www.spiegel.de/panorama/justiz/bayern-14-jaehrige-verletzt-zwei-maedchen-mit-kuechenmesser-a-a7567378-785a-401b-92f7-74a0883f4767#ref=rss)
-### trump
+* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
+* [https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie](https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie-a-d4326ec7-4e68-4e82-a5ce-1c97dabcbb0e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gold-kostet-erstmals-mehr-als-4400-us-dollar](https://www.spiegel.de/wirtschaft/gold-kostet-erstmals-mehr-als-4400-us-dollar-a-354e6149-e2be-48a4-a60f-77f9a7362947#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit](https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit-a-bed1d141-e947-41f3-82b0-d2d0dd76834d#ref=rss)
+* [https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen](https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen-a-28107701-93f2-4979-bc4a-436a3736dec0#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-aeussert-sich-zu-geloeschten-fotos](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-aeussert-sich-zu-geloeschten-fotos-a-87be0c7a-4677-453b-8eef-b735c3f27ae8#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren](https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren-a-d38c18ea-31e0-48d0-b4f2-8f794e56063d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wie-die-maga-bewegung-die-zukunft-plant-ohne-trump](https://www.spiegel.de/ausland/donald-trump-wie-die-maga-bewegung-die-zukunft-plant-ohne-trump-a-f514860c-d704-48b6-982c-ac9287e9c441#ref=rss)
-### neue
+* [https://www.spiegel.de/panorama/justiz/axel-fischer-ex-cdu-politiker-in-klinik-festgenommen](https://www.spiegel.de/panorama/justiz/axel-fischer-ex-cdu-politiker-in-klinik-festgenommen-a-6c9f2d38-544c-4f13-ba3e-621afaaf332c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu](https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu-a-fda76973-c2dd-4f5a-8434-ce098af2fa50#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/usa-und-europa-die-amerikanische-strategie-war-immer-ein-geeintes-europa-zu-verhindern](https://www.spiegel.de/ausland/usa-und-europa-die-amerikanische-strategie-war-immer-ein-geeintes-europa-zu-verhindern-a-7566fd8a-7be8-4b3c-a70b-66599c1e661a#ref=rss)
-* [https://www.spiegel.de/familie/patchwork-familie-die-herausforderungen-von-stiefeltern-und-was-helfen-wuerde](https://www.spiegel.de/familie/patchwork-familie-die-herausforderungen-von-stiefeltern-und-was-helfen-wuerde-a-2af4f4cf-8953-48fb-98ec-785a2631900f#ref=rss)
-* [https://www.spiegel.de/auto/rahmedetalbruecke-wie-eine-gesperrte-bruecke-eine-ganze-region-lahmlegte](https://www.spiegel.de/auto/rahmedetalbruecke-wie-eine-gesperrte-bruecke-eine-ganze-region-lahmlegte-a-788db7fb-e934-49bc-990f-967ff704f8a1#ref=rss)
-* [https://www.spiegel.de/ausland/westjordanland-israel-billigt-19-neue-illegale-siedlungen](https://www.spiegel.de/ausland/westjordanland-israel-billigt-19-neue-illegale-siedlungen-a-0f569887-56b1-44da-90c1-2768cdf4c7c7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen](https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gold-kostet-erstmals-mehr-als-4400-us-dollar](https://www.spiegel.de/wirtschaft/gold-kostet-erstmals-mehr-als-4400-us-dollar-a-354e6149-e2be-48a4-a60f-77f9a7362947#ref=rss)
+* [https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet](https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet-a-dc57110a-7348-4e03-9134-0766aa53132d#ref=rss)
+* [https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen](https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen-a-d69ebe55-8bf5-43f6-a051-d8d3c2c2e2e9#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
+* [https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert](https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert-a-47133834-d6a3-418c-8170-bc8b7c0af06b#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen-a-784916d9-a482-4607-abe2-211d65ffb93e#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/sport/handball/handball-weltverband-ihf-der-handball-pharao-hassan-moustafa-darf-auch-mit-81-jahren-weiter-praesident-sein](https://www.spiegel.de/sport/handball/handball-weltverband-ihf-der-handball-pharao-hassan-moustafa-darf-auch-mit-81-jahren-weiter-praesident-sein-a-6a4fa968-c618-4acc-b82d-062ba0219778#ref=rss)
-* [https://www.spiegel.de/auto/rahmedetalbruecke-wie-eine-gesperrte-bruecke-eine-ganze-region-lahmlegte](https://www.spiegel.de/auto/rahmedetalbruecke-wie-eine-gesperrte-bruecke-eine-ganze-region-lahmlegte-a-788db7fb-e934-49bc-990f-967ff704f8a1#ref=rss)
-* [https://www.spiegel.de/ausland/westjordanland-israel-billigt-19-neue-illegale-siedlungen](https://www.spiegel.de/ausland/westjordanland-israel-billigt-19-neue-illegale-siedlungen-a-0f569887-56b1-44da-90c1-2768cdf4c7c7#ref=rss)
-### dartswm
+* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
+* [https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie](https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie-a-d4326ec7-4e68-4e82-a5ce-1c97dabcbb0e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren](https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren-a-efdcfd99-cccd-4841-96ab-256f49ea5fc7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit](https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit-a-bed1d141-e947-41f3-82b0-d2d0dd76834d#ref=rss)
+### holcim
 
-* [https://www.spiegel.de/sport/darts-wm-joe-cullen-wirft-mensur-suljovic-betrug-vor](https://www.spiegel.de/sport/darts-wm-joe-cullen-wirft-mensur-suljovic-betrug-vor-a-c1a12f22-55ba-44d6-ac36-92ded7d59755#ref=rss)
-* [https://www.spiegel.de/sport/fussball/darts-wm-max-hopps-comeback-endet-in-runde-zwei](https://www.spiegel.de/sport/fussball/darts-wm-max-hopps-comeback-endet-in-runde-zwei-a-8a1d8401-e0b4-44ee-840e-d9c06826b032#ref=rss)
-### jeffrey
+* [https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu](https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu-a-fda76973-c2dd-4f5a-8434-ce098af2fa50#ref=rss)
+### bondi
 
-* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-aeussert-sich-zu-geloeschten-fotos](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-aeussert-sich-zu-geloeschten-fotos-a-87be0c7a-4677-453b-8eef-b735c3f27ae8#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren](https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren-a-d38c18ea-31e0-48d0-b4f2-8f794e56063d#ref=rss)
-* [https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video](https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video-a-afbecd41-cc56-4fd8-b671-02fcff5e7d6e#ref=rss)
-### epstein
+* [https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert](https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert-a-47133834-d6a3-418c-8170-bc8b7c0af06b#ref=rss)
+* [https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen](https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen-a-529e5362-4de7-4d22-8386-51cd92a9bbeb#ref=rss)
+* [https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen](https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen-a-d69ebe55-8bf5-43f6-a051-d8d3c2c2e2e9#ref=rss)
+### ich
 
-* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-aeussert-sich-zu-geloeschten-fotos](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-aeussert-sich-zu-geloeschten-fotos-a-87be0c7a-4677-453b-8eef-b735c3f27ae8#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren](https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren-a-d38c18ea-31e0-48d0-b4f2-8f794e56063d#ref=rss)
-* [https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video](https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video-a-afbecd41-cc56-4fd8-b671-02fcff5e7d6e#ref=rss)
-### fotos
+* [https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen](https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen-a-28107701-93f2-4979-bc4a-436a3736dec0#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-aeussert-sich-zu-geloeschten-fotos](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-aeussert-sich-zu-geloeschten-fotos-a-87be0c7a-4677-453b-8eef-b735c3f27ae8#ref=rss)
-* [https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video](https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video-a-afbecd41-cc56-4fd8-b671-02fcff5e7d6e#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren](https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren-a-d38c18ea-31e0-48d0-b4f2-8f794e56063d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wie-die-maga-bewegung-die-zukunft-plant-ohne-trump](https://www.spiegel.de/ausland/donald-trump-wie-die-maga-bewegung-die-zukunft-plant-ohne-trump-a-f514860c-d704-48b6-982c-ac9287e9c441#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/usa-und-europa-die-amerikanische-strategie-war-immer-ein-geeintes-europa-zu-verhindern](https://www.spiegel.de/ausland/usa-und-europa-die-amerikanische-strategie-war-immer-ein-geeintes-europa-zu-verhindern-a-7566fd8a-7be8-4b3c-a70b-66599c1e661a#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/bildung/bayern-gerichtsurteil-zu-kruzifix-im-schulfoyer](https://www.spiegel.de/panorama/bildung/bayern-gerichtsurteil-zu-kruzifix-im-schulfoyer-a-d353457e-dcab-47b3-bcdf-dd4f0d7a1a2b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bayern-14-jaehrige-verletzt-zwei-maedchen-mit-kuechenmesser](https://www.spiegel.de/panorama/justiz/bayern-14-jaehrige-verletzt-zwei-maedchen-mit-kuechenmesser-a-a7567378-785a-401b-92f7-74a0883f4767#ref=rss)
-### prinz
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-prinz-george-folgt-dianas-tradition-im-obdachlosenzentrum](https://www.spiegel.de/panorama/leute/prinz-william-prinz-george-folgt-dianas-tradition-im-obdachlosenzentrum-a-23cd2be6-6c8a-4f42-a224-c5545040e56c#ref=rss)
-### joe
-
-* [https://www.spiegel.de/sport/darts-wm-joe-cullen-wirft-mensur-suljovic-betrug-vor](https://www.spiegel.de/sport/darts-wm-joe-cullen-wirft-mensur-suljovic-betrug-vor-a-c1a12f22-55ba-44d6-ac36-92ded7d59755#ref=rss)
-### cullen
-
-* [https://www.spiegel.de/sport/darts-wm-joe-cullen-wirft-mensur-suljovic-betrug-vor](https://www.spiegel.de/sport/darts-wm-joe-cullen-wirft-mensur-suljovic-betrug-vor-a-c1a12f22-55ba-44d6-ac36-92ded7d59755#ref=rss)
-### mensur
-
-* [https://www.spiegel.de/sport/darts-wm-joe-cullen-wirft-mensur-suljovic-betrug-vor](https://www.spiegel.de/sport/darts-wm-joe-cullen-wirft-mensur-suljovic-betrug-vor-a-c1a12f22-55ba-44d6-ac36-92ded7d59755#ref=rss)
-### suljović
-
-* [https://www.spiegel.de/sport/darts-wm-joe-cullen-wirft-mensur-suljovic-betrug-vor](https://www.spiegel.de/sport/darts-wm-joe-cullen-wirft-mensur-suljovic-betrug-vor-a-c1a12f22-55ba-44d6-ac36-92ded7d59755#ref=rss)
-### dateien
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-aeussert-sich-zu-geloeschten-fotos](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-aeussert-sich-zu-geloeschten-fotos-a-87be0c7a-4677-453b-8eef-b735c3f27ae8#ref=rss)
-* [https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video](https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video-a-afbecd41-cc56-4fd8-b671-02fcff5e7d6e#ref=rss)
-### gelöscht
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-aeussert-sich-zu-geloeschten-fotos](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-aeussert-sich-zu-geloeschten-fotos-a-87be0c7a-4677-453b-8eef-b735c3f27ae8#ref=rss)
-* [https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video](https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video-a-afbecd41-cc56-4fd8-b671-02fcff5e7d6e#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-aeussert-sich-zu-geloeschten-fotos](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-aeussert-sich-zu-geloeschten-fotos-a-87be0c7a-4677-453b-8eef-b735c3f27ae8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/patchwork-familien-waren-frueher-der-normalfall-historikerin-ueber-familienbilder](https://www.spiegel.de/wissenschaft/patchwork-familien-waren-frueher-der-normalfall-historikerin-ueber-familienbilder-a-c2cc9dd1-95fc-4442-9af5-a37748807b13#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-aeussert-sich-zu-geloeschten-fotos](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-aeussert-sich-zu-geloeschten-fotos-a-87be0c7a-4677-453b-8eef-b735c3f27ae8#ref=rss)
-* [https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video](https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video-a-afbecd41-cc56-4fd8-b671-02fcff5e7d6e#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/kultur/stefan-zweig-so-hellsichtig-sah-er-1929-den-typus-des-machtfluesterers](https://www.spiegel.de/kultur/stefan-zweig-so-hellsichtig-sah-er-1929-den-typus-des-machtfluesterers-a-89fa7871-7735-46ea-b04d-cbeed670ebbc#ref=rss)
-### zweig
-
-* [https://www.spiegel.de/kultur/stefan-zweig-so-hellsichtig-sah-er-1929-den-typus-des-machtfluesterers](https://www.spiegel.de/kultur/stefan-zweig-so-hellsichtig-sah-er-1929-den-typus-des-machtfluesterers-a-89fa7871-7735-46ea-b04d-cbeed670ebbc#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/kultur/stefan-zweig-so-hellsichtig-sah-er-1929-den-typus-des-machtfluesterers](https://www.spiegel.de/kultur/stefan-zweig-so-hellsichtig-sah-er-1929-den-typus-des-machtfluesterers-a-89fa7871-7735-46ea-b04d-cbeed670ebbc#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren](https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren-a-d38c18ea-31e0-48d0-b4f2-8f794e56063d#ref=rss)
-### gespür
-
-* [https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren](https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren-a-d38c18ea-31e0-48d0-b4f2-8f794e56063d#ref=rss)
-### basis
-
-* [https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren](https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren-a-d38c18ea-31e0-48d0-b4f2-8f794e56063d#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren](https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren-a-d38c18ea-31e0-48d0-b4f2-8f794e56063d#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-europa-die-amerikanische-strategie-war-immer-ein-geeintes-europa-zu-verhindern](https://www.spiegel.de/ausland/usa-und-europa-die-amerikanische-strategie-war-immer-ein-geeintes-europa-zu-verhindern-a-7566fd8a-7be8-4b3c-a70b-66599c1e661a#ref=rss)
-### uspräsidenten
-
-* [https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren](https://www.spiegel.de/ausland/donald-trump-und-der-fall-jeffrey-epstein-gespuer-fuer-die-basis-verloren-a-d38c18ea-31e0-48d0-b4f2-8f794e56063d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wie-die-maga-bewegung-die-zukunft-plant-ohne-trump](https://www.spiegel.de/ausland/donald-trump-wie-die-maga-bewegung-die-zukunft-plant-ohne-trump-a-f514860c-d704-48b6-982c-ac9287e9c441#ref=rss)
-### ludwigshafen
-
-* [https://www.spiegel.de/politik/ludwigshafen-noch-oberbuergermeisterin-jutta-steinruck-tritt-wieder-in-die-spd-ein](https://www.spiegel.de/politik/ludwigshafen-noch-oberbuergermeisterin-jutta-steinruck-tritt-wieder-in-die-spd-ein-a-ccd87f25-c9e2-4b22-b0ce-02a9e23731cc#ref=rss)
-### jutta
-
-* [https://www.spiegel.de/politik/ludwigshafen-noch-oberbuergermeisterin-jutta-steinruck-tritt-wieder-in-die-spd-ein](https://www.spiegel.de/politik/ludwigshafen-noch-oberbuergermeisterin-jutta-steinruck-tritt-wieder-in-die-spd-ein-a-ccd87f25-c9e2-4b22-b0ce-02a9e23731cc#ref=rss)
-### steinruck
-
-* [https://www.spiegel.de/politik/ludwigshafen-noch-oberbuergermeisterin-jutta-steinruck-tritt-wieder-in-die-spd-ein](https://www.spiegel.de/politik/ludwigshafen-noch-oberbuergermeisterin-jutta-steinruck-tritt-wieder-in-die-spd-ein-a-ccd87f25-c9e2-4b22-b0ce-02a9e23731cc#ref=rss)
-### letzten
-
-* [https://www.spiegel.de/politik/ludwigshafen-noch-oberbuergermeisterin-jutta-steinruck-tritt-wieder-in-die-spd-ein](https://www.spiegel.de/politik/ludwigshafen-noch-oberbuergermeisterin-jutta-steinruck-tritt-wieder-in-die-spd-ein-a-ccd87f25-c9e2-4b22-b0ce-02a9e23731cc#ref=rss)
-* [https://www.spiegel.de/panorama/advent-weihnachtsmaenner-im-boot-auf-dem-motorrad-beim-klettern-die-bilder](https://www.spiegel.de/panorama/advent-weihnachtsmaenner-im-boot-auf-dem-motorrad-beim-klettern-die-bilder-a-6efbd57c-9be7-4d34-8b9a-be34617a23d4#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/ludwigshafen-noch-oberbuergermeisterin-jutta-steinruck-tritt-wieder-in-die-spd-ein](https://www.spiegel.de/politik/ludwigshafen-noch-oberbuergermeisterin-jutta-steinruck-tritt-wieder-in-die-spd-ein-a-ccd87f25-c9e2-4b22-b0ce-02a9e23731cc#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wie-die-maga-bewegung-die-zukunft-plant-ohne-trump](https://www.spiegel.de/ausland/donald-trump-wie-die-maga-bewegung-die-zukunft-plant-ohne-trump-a-f514860c-d704-48b6-982c-ac9287e9c441#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/fussball/darts-wm-max-hopps-comeback-endet-in-runde-zwei](https://www.spiegel.de/sport/fussball/darts-wm-max-hopps-comeback-endet-in-runde-zwei-a-8a1d8401-e0b4-44ee-840e-d9c06826b032#ref=rss)
-### runde
-
-* [https://www.spiegel.de/sport/fussball/darts-wm-max-hopps-comeback-endet-in-runde-zwei](https://www.spiegel.de/sport/fussball/darts-wm-max-hopps-comeback-endet-in-runde-zwei-a-8a1d8401-e0b4-44ee-840e-d9c06826b032#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/sport/fussball/darts-wm-max-hopps-comeback-endet-in-runde-zwei](https://www.spiegel.de/sport/fussball/darts-wm-max-hopps-comeback-endet-in-runde-zwei-a-8a1d8401-e0b4-44ee-840e-d9c06826b032#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wie-die-maga-bewegung-die-zukunft-plant-ohne-trump](https://www.spiegel.de/ausland/donald-trump-wie-die-maga-bewegung-die-zukunft-plant-ohne-trump-a-f514860c-d704-48b6-982c-ac9287e9c441#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/sport/fussball/darts-wm-max-hopps-comeback-endet-in-runde-zwei](https://www.spiegel.de/sport/fussball/darts-wm-max-hopps-comeback-endet-in-runde-zwei-a-8a1d8401-e0b4-44ee-840e-d9c06826b032#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bayern-gerichtsurteil-zu-kruzifix-im-schulfoyer](https://www.spiegel.de/panorama/bildung/bayern-gerichtsurteil-zu-kruzifix-im-schulfoyer-a-d353457e-dcab-47b3-bcdf-dd4f0d7a1a2b#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/politische-weihnachtsgruesse-kloeckner-uebertrumpft-soeder-mit-schwerem-backwerk](https://www.spiegel.de/politik/deutschland/politische-weihnachtsgruesse-kloeckner-uebertrumpft-soeder-mit-schwerem-backwerk-a-9445cac8-e687-44cf-a4b2-ca7db88dab1e#ref=rss)
-### schwerem
-
-* [https://www.spiegel.de/politik/deutschland/politische-weihnachtsgruesse-kloeckner-uebertrumpft-soeder-mit-schwerem-backwerk](https://www.spiegel.de/politik/deutschland/politische-weihnachtsgruesse-kloeckner-uebertrumpft-soeder-mit-schwerem-backwerk-a-9445cac8-e687-44cf-a4b2-ca7db88dab1e#ref=rss)
-### backwerk
-
-* [https://www.spiegel.de/politik/deutschland/politische-weihnachtsgruesse-kloeckner-uebertrumpft-soeder-mit-schwerem-backwerk](https://www.spiegel.de/politik/deutschland/politische-weihnachtsgruesse-kloeckner-uebertrumpft-soeder-mit-schwerem-backwerk-a-9445cac8-e687-44cf-a4b2-ca7db88dab1e#ref=rss)
-### weihnachtsmänner
-
-* [https://www.spiegel.de/panorama/advent-weihnachtsmaenner-im-boot-auf-dem-motorrad-beim-klettern-die-bilder](https://www.spiegel.de/panorama/advent-weihnachtsmaenner-im-boot-auf-dem-motorrad-beim-klettern-die-bilder-a-6efbd57c-9be7-4d34-8b9a-be34617a23d4#ref=rss)
-### boot
-
-* [https://www.spiegel.de/panorama/advent-weihnachtsmaenner-im-boot-auf-dem-motorrad-beim-klettern-die-bilder](https://www.spiegel.de/panorama/advent-weihnachtsmaenner-im-boot-auf-dem-motorrad-beim-klettern-die-bilder-a-6efbd57c-9be7-4d34-8b9a-be34617a23d4#ref=rss)
-### motorrad
-
-* [https://www.spiegel.de/panorama/advent-weihnachtsmaenner-im-boot-auf-dem-motorrad-beim-klettern-die-bilder](https://www.spiegel.de/panorama/advent-weihnachtsmaenner-im-boot-auf-dem-motorrad-beim-klettern-die-bilder-a-6efbd57c-9be7-4d34-8b9a-be34617a23d4#ref=rss)
-### klettern
-
-* [https://www.spiegel.de/panorama/advent-weihnachtsmaenner-im-boot-auf-dem-motorrad-beim-klettern-die-bilder](https://www.spiegel.de/panorama/advent-weihnachtsmaenner-im-boot-auf-dem-motorrad-beim-klettern-die-bilder-a-6efbd57c-9be7-4d34-8b9a-be34617a23d4#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/advent-weihnachtsmaenner-im-boot-auf-dem-motorrad-beim-klettern-die-bilder](https://www.spiegel.de/panorama/advent-weihnachtsmaenner-im-boot-auf-dem-motorrad-beim-klettern-die-bilder-a-6efbd57c-9be7-4d34-8b9a-be34617a23d4#ref=rss)
-* [https://www.spiegel.de/kultur/hetero-fatalismus-kein-partner-kein-problem](https://www.spiegel.de/kultur/hetero-fatalismus-kein-partner-kein-problem-a-315311b8-c7db-4fdd-8885-ad2161ef4a47#ref=rss)
-### plant
-
-* [https://www.spiegel.de/politik/deutschland/cdu-schleswig-holstein-draengt-auf-bundesweite-zuckersteuer](https://www.spiegel.de/politik/deutschland/cdu-schleswig-holstein-draengt-auf-bundesweite-zuckersteuer-a-bfe3cb49-9fc8-465d-bb86-6adc1d4de339#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-wie-die-maga-bewegung-die-zukunft-plant-ohne-trump](https://www.spiegel.de/ausland/donald-trump-wie-die-maga-bewegung-die-zukunft-plant-ohne-trump-a-f514860c-d704-48b6-982c-ac9287e9c441#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen](https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss)
+* [https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt](https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt-a-a34a9f6d-f400-4256-ba1f-1f7306c8dd96#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/usa-und-europa-die-amerikanische-strategie-war-immer-ein-geeintes-europa-zu-verhindern](https://www.spiegel.de/ausland/usa-und-europa-die-amerikanische-strategie-war-immer-ein-geeintes-europa-zu-verhindern-a-7566fd8a-7be8-4b3c-a70b-66599c1e661a#ref=rss)
-### kruzifix
+* [https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen](https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klima-und-lieferkettengesetze-europa-laesst-sich-von-den-usa-und-katar-erpressen-meinung](https://www.spiegel.de/wissenschaft/klima-und-lieferkettengesetze-europa-laesst-sich-von-den-usa-und-katar-erpressen-meinung-a-38bc2cc8-c8a7-40df-9be9-73b0852ad83b#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten](https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten-a-913cc4ce-cac2-4e5f-be76-a1cc2edd0df4#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/bildung/bayern-gerichtsurteil-zu-kruzifix-im-schulfoyer](https://www.spiegel.de/panorama/bildung/bayern-gerichtsurteil-zu-kruzifix-im-schulfoyer-a-d353457e-dcab-47b3-bcdf-dd4f0d7a1a2b#ref=rss)
-### schalke
+* [https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen](https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu](https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu-a-fda76973-c2dd-4f5a-8434-ce098af2fa50#ref=rss)
+* [https://www.spiegel.de/panorama/leute/george-clooney-trauert-um-seine-schwester](https://www.spiegel.de/panorama/leute/george-clooney-trauert-um-seine-schwester-a-416b5c5c-e908-4671-b835-7b3627d0b311#ref=rss)
+### neue
 
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-tabellenfuehrer-schalke-04-unterliegt-bei-eintracht-braunschweig](https://www.spiegel.de/sport/fussball/2-bundesliga-tabellenfuehrer-schalke-04-unterliegt-bei-eintracht-braunschweig-a-588e6e14-f586-4b76-9cf6-56258f01a694#ref=rss)
-### 04
+* [https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen](https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss)
+* [https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag](https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag-a-d82cf5c4-7aaa-44b7-84c5-a7912e6b11f2#ref=rss)
+* [https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen](https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen-a-529e5362-4de7-4d22-8386-51cd92a9bbeb#ref=rss)
+### viele
 
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-tabellenfuehrer-schalke-04-unterliegt-bei-eintracht-braunschweig](https://www.spiegel.de/sport/fussball/2-bundesliga-tabellenfuehrer-schalke-04-unterliegt-bei-eintracht-braunschweig-a-588e6e14-f586-4b76-9cf6-56258f01a694#ref=rss)
-### eintracht
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-tabellenfuehrer-schalke-04-unterliegt-bei-eintracht-braunschweig](https://www.spiegel.de/sport/fussball/2-bundesliga-tabellenfuehrer-schalke-04-unterliegt-bei-eintracht-braunschweig-a-588e6e14-f586-4b76-9cf6-56258f01a694#ref=rss)
-### braunschweig
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-tabellenfuehrer-schalke-04-unterliegt-bei-eintracht-braunschweig](https://www.spiegel.de/sport/fussball/2-bundesliga-tabellenfuehrer-schalke-04-unterliegt-bei-eintracht-braunschweig-a-588e6e14-f586-4b76-9cf6-56258f01a694#ref=rss)
-### traf
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-tabellenfuehrer-schalke-04-unterliegt-bei-eintracht-braunschweig](https://www.spiegel.de/sport/fussball/2-bundesliga-tabellenfuehrer-schalke-04-unterliegt-bei-eintracht-braunschweig-a-588e6e14-f586-4b76-9cf6-56258f01a694#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bayern-14-jaehrige-verletzt-zwei-maedchen-mit-kuechenmesser](https://www.spiegel.de/panorama/justiz/bayern-14-jaehrige-verletzt-zwei-maedchen-mit-kuechenmesser-a-a7567378-785a-401b-92f7-74a0883f4767#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/panorama/montenegro-deutscher-urlauber-stuerzt-aus-sessellift-und-stirbt](https://www.spiegel.de/panorama/montenegro-deutscher-urlauber-stuerzt-aus-sessellift-und-stirbt-a-4b67394c-07f1-4f9a-b572-80ee7283ae08#ref=rss)
-### urlauber
-
-* [https://www.spiegel.de/panorama/montenegro-deutscher-urlauber-stuerzt-aus-sessellift-und-stirbt](https://www.spiegel.de/panorama/montenegro-deutscher-urlauber-stuerzt-aus-sessellift-und-stirbt-a-4b67394c-07f1-4f9a-b572-80ee7283ae08#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/montenegro-deutscher-urlauber-stuerzt-aus-sessellift-und-stirbt](https://www.spiegel.de/panorama/montenegro-deutscher-urlauber-stuerzt-aus-sessellift-und-stirbt-a-4b67394c-07f1-4f9a-b572-80ee7283ae08#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bayern-14-jaehrige-verletzt-zwei-maedchen-mit-kuechenmesser](https://www.spiegel.de/panorama/justiz/bayern-14-jaehrige-verletzt-zwei-maedchen-mit-kuechenmesser-a-a7567378-785a-401b-92f7-74a0883f4767#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-gefaehrdet-eine-vermeintliche-dienstreise-nach-disneyland-einen-wahlerfolg](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-gefaehrdet-eine-vermeintliche-dienstreise-nach-disneyland-einen-wahlerfolg-a-905a71bb-f2e7-4ffb-8268-950c752ecf3f#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-gefaehrdet-eine-vermeintliche-dienstreise-nach-disneyland-einen-wahlerfolg](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-gefaehrdet-eine-vermeintliche-dienstreise-nach-disneyland-einen-wahlerfolg-a-905a71bb-f2e7-4ffb-8268-950c752ecf3f#ref=rss)
-### chaos
-
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-gefaehrdet-eine-vermeintliche-dienstreise-nach-disneyland-einen-wahlerfolg](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-gefaehrdet-eine-vermeintliche-dienstreise-nach-disneyland-einen-wahlerfolg-a-905a71bb-f2e7-4ffb-8268-950c752ecf3f#ref=rss)
-* [https://www.spiegel.de/auto/rahmedetalbruecke-wie-eine-gesperrte-bruecke-eine-ganze-region-lahmlegte](https://www.spiegel.de/auto/rahmedetalbruecke-wie-eine-gesperrte-bruecke-eine-ganze-region-lahmlegte-a-788db7fb-e934-49bc-990f-967ff704f8a1#ref=rss)
-### werfen
-
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-gefaehrdet-eine-vermeintliche-dienstreise-nach-disneyland-einen-wahlerfolg](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-gefaehrdet-eine-vermeintliche-dienstreise-nach-disneyland-einen-wahlerfolg-a-905a71bb-f2e7-4ffb-8268-950c752ecf3f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sachsen-unbekannte-werfen-stein-mit-hakenkreuz-in-wohnung-eines-syrers](https://www.spiegel.de/panorama/justiz/sachsen-unbekannte-werfen-stein-mit-hakenkreuz-in-wohnung-eines-syrers-a-067fbe40-21a4-4f3b-a4c4-f1baf7d2ceaf#ref=rss)
-### korruption
-
-* [https://www.spiegel.de/politik/afd-in-sachsen-anhalt-gefaehrdet-eine-vermeintliche-dienstreise-nach-disneyland-einen-wahlerfolg](https://www.spiegel.de/politik/afd-in-sachsen-anhalt-gefaehrdet-eine-vermeintliche-dienstreise-nach-disneyland-einen-wahlerfolg-a-905a71bb-f2e7-4ffb-8268-950c752ecf3f#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-weltverband-ihf-der-handball-pharao-hassan-moustafa-darf-auch-mit-81-jahren-weiter-praesident-sein](https://www.spiegel.de/sport/handball/handball-weltverband-ihf-der-handball-pharao-hassan-moustafa-darf-auch-mit-81-jahren-weiter-praesident-sein-a-6a4fa968-c618-4acc-b82d-062ba0219778#ref=rss)
-### handballweltverband
-
-* [https://www.spiegel.de/sport/handball/handball-weltverband-ihf-der-handball-pharao-hassan-moustafa-darf-auch-mit-81-jahren-weiter-praesident-sein](https://www.spiegel.de/sport/handball/handball-weltverband-ihf-der-handball-pharao-hassan-moustafa-darf-auch-mit-81-jahren-weiter-praesident-sein-a-6a4fa968-c618-4acc-b82d-062ba0219778#ref=rss)
-### hassan
-
-* [https://www.spiegel.de/sport/handball/handball-weltverband-ihf-der-handball-pharao-hassan-moustafa-darf-auch-mit-81-jahren-weiter-praesident-sein](https://www.spiegel.de/sport/handball/handball-weltverband-ihf-der-handball-pharao-hassan-moustafa-darf-auch-mit-81-jahren-weiter-praesident-sein-a-6a4fa968-c618-4acc-b82d-062ba0219778#ref=rss)
-### moustafa
-
-* [https://www.spiegel.de/sport/handball/handball-weltverband-ihf-der-handball-pharao-hassan-moustafa-darf-auch-mit-81-jahren-weiter-praesident-sein](https://www.spiegel.de/sport/handball/handball-weltverband-ihf-der-handball-pharao-hassan-moustafa-darf-auch-mit-81-jahren-weiter-praesident-sein-a-6a4fa968-c618-4acc-b82d-062ba0219778#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-schwarzer-schnee-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-schwarzer-schnee-im-schnellcheck-a-4b034f38-290d-4a1a-adcd-9bb963bfb03e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sachsen-unbekannte-werfen-stein-mit-hakenkreuz-in-wohnung-eines-syrers](https://www.spiegel.de/panorama/justiz/sachsen-unbekannte-werfen-stein-mit-hakenkreuz-in-wohnung-eines-syrers-a-067fbe40-21a4-4f3b-a4c4-f1baf7d2ceaf#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-schwarzer-schnee-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-mit-wotan-wilke-moehring-schwarzer-schnee-im-schnellcheck-a-4b034f38-290d-4a1a-adcd-9bb963bfb03e#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-bundesregierung-will-ip-adressen-drei-monate-lang-speichern](https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-bundesregierung-will-ip-adressen-drei-monate-lang-speichern-a-ed423d53-0204-435d-8899-bee2176a7b64#ref=rss)
-### serien
-
-* [https://www.spiegel.de/kultur/tv/pluribus-bis-the-last-of-us-das-sind-die-besten-serien-des-jahres](https://www.spiegel.de/kultur/tv/pluribus-bis-the-last-of-us-das-sind-die-besten-serien-des-jahres-a-b1ec5168-3a84-4e06-ba70-021885d3c6b8#ref=rss)
-### waren
-
-* [https://www.spiegel.de/kultur/tv/pluribus-bis-the-last-of-us-das-sind-die-besten-serien-des-jahres](https://www.spiegel.de/kultur/tv/pluribus-bis-the-last-of-us-das-sind-die-besten-serien-des-jahres-a-b1ec5168-3a84-4e06-ba70-021885d3c6b8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/patchwork-familien-waren-frueher-der-normalfall-historikerin-ueber-familienbilder](https://www.spiegel.de/wissenschaft/patchwork-familien-waren-frueher-der-normalfall-historikerin-ueber-familienbilder-a-c2cc9dd1-95fc-4442-9af5-a37748807b13#ref=rss)
-### patchworkfamilien
-
-* [https://www.spiegel.de/wissenschaft/patchwork-familien-waren-frueher-der-normalfall-historikerin-ueber-familienbilder](https://www.spiegel.de/wissenschaft/patchwork-familien-waren-frueher-der-normalfall-historikerin-ueber-familienbilder-a-c2cc9dd1-95fc-4442-9af5-a37748807b13#ref=rss)
-* [https://www.spiegel.de/familie/patchwork-familie-die-herausforderungen-von-stiefeltern-und-was-helfen-wuerde](https://www.spiegel.de/familie/patchwork-familie-die-herausforderungen-von-stiefeltern-und-was-helfen-wuerde-a-2af4f4cf-8953-48fb-98ec-785a2631900f#ref=rss)
-### normalfall
-
-* [https://www.spiegel.de/wissenschaft/patchwork-familien-waren-frueher-der-normalfall-historikerin-ueber-familienbilder](https://www.spiegel.de/wissenschaft/patchwork-familien-waren-frueher-der-normalfall-historikerin-ueber-familienbilder-a-c2cc9dd1-95fc-4442-9af5-a37748807b13#ref=rss)
-### historikerin
-
-* [https://www.spiegel.de/wissenschaft/patchwork-familien-waren-frueher-der-normalfall-historikerin-ueber-familienbilder](https://www.spiegel.de/wissenschaft/patchwork-familien-waren-frueher-der-normalfall-historikerin-ueber-familienbilder-a-c2cc9dd1-95fc-4442-9af5-a37748807b13#ref=rss)
-### patchworkfamilie
-
-* [https://www.spiegel.de/wissenschaft/patchwork-familien-waren-frueher-der-normalfall-historikerin-ueber-familienbilder](https://www.spiegel.de/wissenschaft/patchwork-familien-waren-frueher-der-normalfall-historikerin-ueber-familienbilder-a-c2cc9dd1-95fc-4442-9af5-a37748807b13#ref=rss)
-* [https://www.spiegel.de/familie/patchwork-familie-die-herausforderungen-von-stiefeltern-und-was-helfen-wuerde](https://www.spiegel.de/familie/patchwork-familie-die-herausforderungen-von-stiefeltern-und-was-helfen-wuerde-a-2af4f4cf-8953-48fb-98ec-785a2631900f#ref=rss)
-### stiefeltern
-
-* [https://www.spiegel.de/familie/patchwork-familie-die-herausforderungen-von-stiefeltern-und-was-helfen-wuerde](https://www.spiegel.de/familie/patchwork-familie-die-herausforderungen-von-stiefeltern-und-was-helfen-wuerde-a-2af4f4cf-8953-48fb-98ec-785a2631900f#ref=rss)
-### helfen
-
-* [https://www.spiegel.de/familie/patchwork-familie-die-herausforderungen-von-stiefeltern-und-was-helfen-wuerde](https://www.spiegel.de/familie/patchwork-familie-die-herausforderungen-von-stiefeltern-und-was-helfen-wuerde-a-2af4f4cf-8953-48fb-98ec-785a2631900f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-william-prinz-george-folgt-dianas-tradition-im-obdachlosenzentrum](https://www.spiegel.de/panorama/leute/prinz-william-prinz-george-folgt-dianas-tradition-im-obdachlosenzentrum-a-23cd2be6-6c8a-4f42-a224-c5545040e56c#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/donald-trump-wie-die-maga-bewegung-die-zukunft-plant-ohne-trump](https://www.spiegel.de/ausland/donald-trump-wie-die-maga-bewegung-die-zukunft-plant-ohne-trump-a-f514860c-d704-48b6-982c-ac9287e9c441#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-bundesregierung-will-ip-adressen-drei-monate-lang-speichern](https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-bundesregierung-will-ip-adressen-drei-monate-lang-speichern-a-ed423d53-0204-435d-8899-bee2176a7b64#ref=rss)
-### rahmedetalbrücke
-
-* [https://www.spiegel.de/auto/rahmedetalbruecke-wie-eine-gesperrte-bruecke-eine-ganze-region-lahmlegte](https://www.spiegel.de/auto/rahmedetalbruecke-wie-eine-gesperrte-bruecke-eine-ganze-region-lahmlegte-a-788db7fb-e934-49bc-990f-967ff704f8a1#ref=rss)
-### kate
-
-* [https://www.spiegel.de/kultur/kate-winslet-half-ein-guter-stuhlgang-um-mit-medienhype-umzugehen](https://www.spiegel.de/kultur/kate-winslet-half-ein-guter-stuhlgang-um-mit-medienhype-umzugehen-a-f87c69f2-88f5-492f-bba7-1ce84ea2b006#ref=rss)
-### winslet
-
-* [https://www.spiegel.de/kultur/kate-winslet-half-ein-guter-stuhlgang-um-mit-medienhype-umzugehen](https://www.spiegel.de/kultur/kate-winslet-half-ein-guter-stuhlgang-um-mit-medienhype-umzugehen-a-f87c69f2-88f5-492f-bba7-1ce84ea2b006#ref=rss)
-### siedlungen
-
-* [https://www.spiegel.de/ausland/westjordanland-israel-billigt-19-neue-illegale-siedlungen](https://www.spiegel.de/ausland/westjordanland-israel-billigt-19-neue-illegale-siedlungen-a-0f569887-56b1-44da-90c1-2768cdf4c7c7#ref=rss)
-### flamingo
-
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-wilder-flamingo-bei-ulm-entdeckt](https://www.spiegel.de/panorama/baden-wuerttemberg-wilder-flamingo-bei-ulm-entdeckt-a-bb1439da-50fe-4167-ad72-4de53ee0cce6#ref=rss)
-### ulm
-
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-wilder-flamingo-bei-ulm-entdeckt](https://www.spiegel.de/panorama/baden-wuerttemberg-wilder-flamingo-bei-ulm-entdeckt-a-bb1439da-50fe-4167-ad72-4de53ee0cce6#ref=rss)
-### entdeckt
-
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-wilder-flamingo-bei-ulm-entdeckt](https://www.spiegel.de/panorama/baden-wuerttemberg-wilder-flamingo-bei-ulm-entdeckt-a-bb1439da-50fe-4167-ad72-4de53ee0cce6#ref=rss)
-### vorratsdatenspeicherung
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-bundesregierung-will-ip-adressen-drei-monate-lang-speichern](https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-bundesregierung-will-ip-adressen-drei-monate-lang-speichern-a-ed423d53-0204-435d-8899-bee2176a7b64#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut](https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut-a-f9bd527e-f836-4e6f-a3af-2a6f1115819c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt](https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt-a-bc24153f-8f7e-40f4-a21c-1a6a15b1016f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit](https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit-a-bed1d141-e947-41f3-82b0-d2d0dd76834d#ref=rss)
 ### new
 
-* [https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video](https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video-a-afbecd41-cc56-4fd8-b671-02fcff5e7d6e#ref=rss)
-### reagieren
+* [https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie](https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie-a-d4326ec7-4e68-4e82-a5ce-1c97dabcbb0e#ref=rss)
+* [https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen](https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen-a-529e5362-4de7-4d22-8386-51cd92a9bbeb#ref=rss)
+### ende
 
-* [https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video](https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video-a-afbecd41-cc56-4fd8-b671-02fcff5e7d6e#ref=rss)
-### video
+* [https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie](https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie-a-d4326ec7-4e68-4e82-a5ce-1c97dabcbb0e#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-schwarzer-schnee-mit-wotan-wilke-moehring](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-schwarzer-schnee-mit-wotan-wilke-moehring-a-e8e88e53-2261-4447-a94f-44310f0b12f8#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video](https://www.spiegel.de/ausland/jeffrey-epstein-new-yorker-reagieren-mit-misstrauen-und-frust-video-a-afbecd41-cc56-4fd8-b671-02fcff5e7d6e#ref=rss)
-### william
+* [https://www.spiegel.de/panorama/leute/altkanzler-gerhard-schroeder-schultert-tannenbaum](https://www.spiegel.de/panorama/leute/altkanzler-gerhard-schroeder-schultert-tannenbaum-a-d66d238c-5c73-46c2-81f4-f45c9234086e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren](https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren-a-efdcfd99-cccd-4841-96ab-256f49ea5fc7#ref=rss)
+* [https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik](https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik-a-6406cf6e-9311-4a56-ad58-e3e1b277c5f7#ref=rss)
+### grönland
 
-* [https://www.spiegel.de/panorama/leute/prinz-william-prinz-george-folgt-dianas-tradition-im-obdachlosenzentrum](https://www.spiegel.de/panorama/leute/prinz-william-prinz-george-folgt-dianas-tradition-im-obdachlosenzentrum-a-23cd2be6-6c8a-4f42-a224-c5545040e56c#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten](https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten-a-913cc4ce-cac2-4e5f-be76-a1cc2edd0df4#ref=rss)
+### sydney
+
+* [https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert](https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert-a-47133834-d6a3-418c-8170-bc8b7c0af06b#ref=rss)
+* [https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen](https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen-a-529e5362-4de7-4d22-8386-51cd92a9bbeb#ref=rss)
+### axel
+
+* [https://www.spiegel.de/panorama/justiz/axel-fischer-ex-cdu-politiker-in-klinik-festgenommen](https://www.spiegel.de/panorama/justiz/axel-fischer-ex-cdu-politiker-in-klinik-festgenommen-a-6c9f2d38-544c-4f13-ba3e-621afaaf332c#ref=rss)
+### fischer
+
+* [https://www.spiegel.de/panorama/justiz/axel-fischer-ex-cdu-politiker-in-klinik-festgenommen](https://www.spiegel.de/panorama/justiz/axel-fischer-ex-cdu-politiker-in-klinik-festgenommen-a-6c9f2d38-544c-4f13-ba3e-621afaaf332c#ref=rss)
+### prozess
+
+* [https://www.spiegel.de/panorama/justiz/axel-fischer-ex-cdu-politiker-in-klinik-festgenommen](https://www.spiegel.de/panorama/justiz/axel-fischer-ex-cdu-politiker-in-klinik-festgenommen-a-6c9f2d38-544c-4f13-ba3e-621afaaf332c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
+### the
+
+* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
+### big
+
+* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
+### bang
+
+* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
+### theory
+
+* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
+### kunal
+
+* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
+### nayyar
+
+* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
+### zahlt
+
+* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
+### nachts
+
+* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
+### arztrechnungen
+
+* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen-a-784916d9-a482-4607-abe2-211d65ffb93e#ref=rss)
+### andere
+
+* [https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen](https://www.spiegel.de/panorama/leute/the-big-bang-theory-kunal-nayyar-zahlt-nachts-arztrechnungen-fremder-menschen-a-73412279-ad9d-461b-a909-08ce8fd77ee0#ref=rss)
+* [https://www.spiegel.de/karriere/multitasking-und-prioritaeten-setzen-tools-fuer-produktiveres-arbeiten](https://www.spiegel.de/karriere/multitasking-und-prioritaeten-setzen-tools-fuer-produktiveres-arbeiten-a-176fbb91-c489-4849-a9eb-99db239ac224#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen](https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen](https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mehrwertsteuer-senkung-warum-gans-und-schnitzel-im-restaurant-nicht-billiger-werden](https://www.spiegel.de/wirtschaft/mehrwertsteuer-senkung-warum-gans-und-schnitzel-im-restaurant-nicht-billiger-werden-a-57be03e8-ef1d-495a-94e3-c8e47c0f87cc#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen](https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss)
+* [https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt](https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt-a-a34a9f6d-f400-4256-ba1f-1f7306c8dd96#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut](https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut-a-f9bd527e-f836-4e6f-a3af-2a6f1115819c#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut](https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut-a-f9bd527e-f836-4e6f-a3af-2a6f1115819c#ref=rss)
+### dominanz
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut](https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut-a-f9bd527e-f836-4e6f-a3af-2a6f1115819c#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut](https://www.spiegel.de/sport/fussball/bundesliga-hinrunde-der-fc-bayern-muenchen-hat-seine-dominanz-noch-ausgebaut-a-f9bd527e-f836-4e6f-a3af-2a6f1115819c#ref=rss)
+* [https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen](https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen-a-28107701-93f2-4979-bc4a-436a3736dec0#ref=rss)
+### journalisten
+
+* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
+### neu
+
+* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren](https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren-a-efdcfd99-cccd-4841-96ab-256f49ea5fc7#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen-a-784916d9-a482-4607-abe2-211d65ffb93e#ref=rss)
+### fall
+
+* [https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt](https://www.spiegel.de/panorama/justiz/fretterode-in-thueringen-rechtsextremer-angriff-auf-journalisten-prozess-wird-neu-aufgerollt-a-3d5f4ca6-3a92-43f3-9724-54f1a4f377fc#ref=rss)
+* [https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen](https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen-a-d69ebe55-8bf5-43f6-a051-d8d3c2c2e2e9#ref=rss)
+### oskarmariagrafstammtisch
+
+* [https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie](https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie-a-d4326ec7-4e68-4e82-a5ce-1c97dabcbb0e#ref=rss)
+### york
+
+* [https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie](https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie-a-d4326ec7-4e68-4e82-a5ce-1c97dabcbb0e#ref=rss)
+### gastgeber
+
+* [https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie](https://www.spiegel.de/kultur/oskar-maria-graf-stammtisch-in-new-york-der-stammtisch-war-wie-eine-zweite-familie-a-d4326ec7-4e68-4e82-a5ce-1c97dabcbb0e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren](https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren-a-7254ae3d-4e59-45ed-abf9-ec33b5452c20#ref=rss)
+### altkanzler
+
+* [https://www.spiegel.de/panorama/leute/altkanzler-gerhard-schroeder-schultert-tannenbaum](https://www.spiegel.de/panorama/leute/altkanzler-gerhard-schroeder-schultert-tannenbaum-a-d66d238c-5c73-46c2-81f4-f45c9234086e#ref=rss)
+### gerhard
+
+* [https://www.spiegel.de/panorama/leute/altkanzler-gerhard-schroeder-schultert-tannenbaum](https://www.spiegel.de/panorama/leute/altkanzler-gerhard-schroeder-schultert-tannenbaum-a-d66d238c-5c73-46c2-81f4-f45c9234086e#ref=rss)
+### schröder
+
+* [https://www.spiegel.de/panorama/leute/altkanzler-gerhard-schroeder-schultert-tannenbaum](https://www.spiegel.de/panorama/leute/altkanzler-gerhard-schroeder-schultert-tannenbaum-a-d66d238c-5c73-46c2-81f4-f45c9234086e#ref=rss)
+### meinung
+
+* [https://www.spiegel.de/wissenschaft/klima-und-lieferkettengesetze-europa-laesst-sich-von-den-usa-und-katar-erpressen-meinung](https://www.spiegel.de/wissenschaft/klima-und-lieferkettengesetze-europa-laesst-sich-von-den-usa-und-katar-erpressen-meinung-a-38bc2cc8-c8a7-40df-9be9-73b0852ad83b#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-schwarzer-schnee-mit-wotan-wilke-moehring](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-schwarzer-schnee-mit-wotan-wilke-moehring-a-e8e88e53-2261-4447-a94f-44310f0b12f8#ref=rss)
+### schulden
+
+* [https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt](https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt-a-bc24153f-8f7e-40f4-a21c-1a6a15b1016f#ref=rss)
+### buy
+
+* [https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt](https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt-a-bc24153f-8f7e-40f4-a21c-1a6a15b1016f#ref=rss)
+### now
+
+* [https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt](https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt-a-bc24153f-8f7e-40f4-a21c-1a6a15b1016f#ref=rss)
+### pay
+
+* [https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt](https://www.spiegel.de/wirtschaft/service/schulden-durch-online-shopping-wenn-buy-now-pay-later-zu-ueberschuldung-fuehrt-a-bc24153f-8f7e-40f4-a21c-1a6a15b1016f#ref=rss)
+### fukushima
+
+* [https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren](https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren-a-efdcfd99-cccd-4841-96ab-256f49ea5fc7#ref=rss)
+### hochfahren
+
+* [https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren](https://www.spiegel.de/wissenschaft/technik/fukushima-japan-will-groesstes-akw-der-welt-wieder-hochfahren-a-efdcfd99-cccd-4841-96ab-256f49ea5fc7#ref=rss)
+### neues
+
+* [https://www.spiegel.de/wirtschaft/gold-kostet-erstmals-mehr-als-4400-us-dollar](https://www.spiegel.de/wirtschaft/gold-kostet-erstmals-mehr-als-4400-us-dollar-a-354e6149-e2be-48a4-a60f-77f9a7362947#ref=rss)
+* [https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag](https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag-a-d82cf5c4-7aaa-44b7-84c5-a7912e6b11f2#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/gold-kostet-erstmals-mehr-als-4400-us-dollar](https://www.spiegel.de/wirtschaft/gold-kostet-erstmals-mehr-als-4400-us-dollar-a-354e6149-e2be-48a4-a60f-77f9a7362947#ref=rss)
+* [https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag](https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag-a-d82cf5c4-7aaa-44b7-84c5-a7912e6b11f2#ref=rss)
+### generalleutnant
+
+* [https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet](https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet-a-dc57110a-7348-4e03-9134-0766aa53132d#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet](https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet-a-dc57110a-7348-4e03-9134-0766aa53132d#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet](https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet-a-dc57110a-7348-4e03-9134-0766aa53132d#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen-a-784916d9-a482-4607-abe2-211d65ffb93e#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet](https://www.spiegel.de/ausland/russland-generalleutnant-bei-autoexplosion-in-moskau-getoetet-a-dc57110a-7348-4e03-9134-0766aa53132d#ref=rss)
+* [https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert](https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert-a-47133834-d6a3-418c-8170-bc8b7c0af06b#ref=rss)
+### schweizer
+
+* [https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu](https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu-a-fda76973-c2dd-4f5a-8434-ce098af2fa50#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu](https://www.spiegel.de/wirtschaft/holcim-gericht-in-der-schweiz-laesst-klimaklage-gegen-zementhersteller-zu-a-fda76973-c2dd-4f5a-8434-ce098af2fa50#ref=rss)
+* [https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik](https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik-a-6406cf6e-9311-4a56-ad58-e3e1b277c5f7#ref=rss)
 ### george
 
-* [https://www.spiegel.de/panorama/leute/prinz-william-prinz-george-folgt-dianas-tradition-im-obdachlosenzentrum](https://www.spiegel.de/panorama/leute/prinz-william-prinz-george-folgt-dianas-tradition-im-obdachlosenzentrum-a-23cd2be6-6c8a-4f42-a224-c5545040e56c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/george-clooney-trauert-um-seine-schwester](https://www.spiegel.de/panorama/leute/george-clooney-trauert-um-seine-schwester-a-416b5c5c-e908-4671-b835-7b3627d0b311#ref=rss)
+### clooney
+
+* [https://www.spiegel.de/panorama/leute/george-clooney-trauert-um-seine-schwester](https://www.spiegel.de/panorama/leute/george-clooney-trauert-um-seine-schwester-a-416b5c5c-e908-4671-b835-7b3627d0b311#ref=rss)
+### satelliten
+
+* [https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit](https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit-a-bed1d141-e947-41f3-82b0-d2d0dd76834d#ref=rss)
+### astronomen
+
+* [https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit](https://www.spiegel.de/wissenschaft/weltall/weltraum-bald-mehr-satelliten-als-sterne-astronomen-warnen-vor-verlust-der-dunkelheit-a-bed1d141-e947-41f3-82b0-d2d0dd76834d#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten](https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten-a-913cc4ce-cac2-4e5f-be76-a1cc2edd0df4#ref=rss)
+### gouverneur
+
+* [https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten](https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten-a-913cc4ce-cac2-4e5f-be76-a1cc2edd0df4#ref=rss)
+### louisiana
+
+* [https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten](https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten-a-913cc4ce-cac2-4e5f-be76-a1cc2edd0df4#ref=rss)
+### sondergesandten
+
+* [https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten](https://www.spiegel.de/ausland/groenland-trump-ernennt-sondergesandten-a-913cc4ce-cac2-4e5f-be76-a1cc2edd0df4#ref=rss)
+### afrikacup
+
+* [https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren](https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren-a-7254ae3d-4e59-45ed-abf9-ec33b5452c20#ref=rss)
+### fallrückzieher
+
+* [https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren](https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren-a-7254ae3d-4e59-45ed-abf9-ec33b5452c20#ref=rss)
+### marokko
+
+* [https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren](https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren-a-7254ae3d-4e59-45ed-abf9-ec33b5452c20#ref=rss)
+### komoren
+
+* [https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren](https://www.spiegel.de/sport/fussball/afrika-cup-fallrueckzieher-sichert-marokko-den-auftaktsieg-gegen-komoren-a-7254ae3d-4e59-45ed-abf9-ec33b5452c20#ref=rss)
+### ägypten
+
+* [https://www.spiegel.de/panorama/kreuzfahrtschiffe-kollidieren-auf-dem-nil-eine-tote](https://www.spiegel.de/panorama/kreuzfahrtschiffe-kollidieren-auf-dem-nil-eine-tote-a-05437ff3-6a0d-407c-ac93-b5cecbef2de0#ref=rss)
+### sportler
+
+* [https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt](https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt-a-a34a9f6d-f400-4256-ba1f-1f7306c8dd96#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt](https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt-a-a34a9f6d-f400-4256-ba1f-1f7306c8dd96#ref=rss)
+### neugebauer
+
+* [https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt](https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt-a-a34a9f6d-f400-4256-ba1f-1f7306c8dd96#ref=rss)
+### preuß
+
+* [https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt](https://www.spiegel.de/sport/sportler-des-jahres-leo-neugebauer-als-deutschlands-sportler-des-jahres-geehrt-a-a34a9f6d-f400-4256-ba1f-1f7306c8dd96#ref=rss)
+### beach
+
+* [https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert](https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert-a-47133834-d6a3-418c-8170-bc8b7c0af06b#ref=rss)
+* [https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen](https://www.spiegel.de/ausland/australiens-bevoelkerungsreichster-staat-will-waffengesetze-verschaerfen-a-529e5362-4de7-4d22-8386-51cd92a9bbeb#ref=rss)
+### täter
+
+* [https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert](https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert-a-47133834-d6a3-418c-8170-bc8b7c0af06b#ref=rss)
+### davon
+
+* [https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert](https://www.spiegel.de/panorama/anschlag-am-bondi-beach-taeter-von-bondi-beach-haben-fuer-angriff-trainiert-a-47133834-d6a3-418c-8170-bc8b7c0af06b#ref=rss)
+* [https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag](https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag-a-d82cf5c4-7aaa-44b7-84c5-a7912e6b11f2#ref=rss)
+### beschädigt
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen-a-784916d9-a482-4607-abe2-211d65ffb93e#ref=rss)
+### schiffe
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen-a-784916d9-a482-4607-abe2-211d65ffb93e#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen-a-784916d9-a482-4607-abe2-211d65ffb93e#ref=rss)
+### visier
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kyjiw-beschaedigt-schiffe-in-russischem-schwarzmeer-hafen-a-784916d9-a482-4607-abe2-211d65ffb93e#ref=rss)
+* [https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik](https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik-a-6406cf6e-9311-4a56-ad58-e3e1b277c5f7#ref=rss)
+### bin
+
+* [https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen](https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen-a-28107701-93f2-4979-bc4a-436a3736dec0#ref=rss)
+### meinem
+
+* [https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen](https://www.spiegel.de/psychologie/elternschaft-und-adipositas-bin-ich-bereit-verantwortung-fuer-ein-kind-zu-uebernehmen-a-28107701-93f2-4979-bc4a-436a3736dec0#ref=rss)
+### drei
+
+* [https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag](https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag-a-d82cf5c4-7aaa-44b7-84c5-a7912e6b11f2#ref=rss)
+### effizienter
+
+* [https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag](https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag-a-d82cf5c4-7aaa-44b7-84c5-a7912e6b11f2#ref=rss)
+* [https://www.spiegel.de/karriere/multitasking-und-prioritaeten-setzen-tools-fuer-produktiveres-arbeiten](https://www.spiegel.de/karriere/multitasking-und-prioritaeten-setzen-tools-fuer-produktiveres-arbeiten-a-176fbb91-c489-4849-a9eb-99db239ac224#ref=rss)
+### arbeiten
+
+* [https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag](https://www.spiegel.de/karriere/effizienz-drei-einfache-kniffe-fuer-einen-leichteren-arbeitstag-a-d82cf5c4-7aaa-44b7-84c5-a7912e6b11f2#ref=rss)
+* [https://www.spiegel.de/karriere/multitasking-und-prioritaeten-setzen-tools-fuer-produktiveres-arbeiten](https://www.spiegel.de/karriere/multitasking-und-prioritaeten-setzen-tools-fuer-produktiveres-arbeiten-a-176fbb91-c489-4849-a9eb-99db239ac224#ref=rss)
+### schrecken
+
+* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-schwarzer-schnee-mit-wotan-wilke-moehring](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-schwarzer-schnee-mit-wotan-wilke-moehring-a-e8e88e53-2261-4447-a94f-44310f0b12f8#ref=rss)
+### druck
+
+* [https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen](https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen-a-d69ebe55-8bf5-43f6-a051-d8d3c2c2e2e9#ref=rss)
+### bisher
+
+* [https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen](https://www.spiegel.de/ausland/pam-bondi-abgeordnete-wollen-restliche-epstein-akten-von-ministerin-freipressen-a-d69ebe55-8bf5-43f6-a051-d8d3c2c2e2e9#ref=rss)
+* [https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik](https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik-a-6406cf6e-9311-4a56-ad58-e3e1b277c5f7#ref=rss)
+### venezuela
+
+* [https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik](https://www.spiegel.de/ausland/eskalation-gegen-venezuela-us-einheiten-verfolgen-oeltanker-im-atlantik-a-6406cf6e-9311-4a56-ad58-e3e1b277c5f7#ref=rss)
 
