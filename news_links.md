@@ -4,337 +4,353 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/hof-in-bayern-ex-soldat-wegen-vergewaltigung-zu-mehr-als-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/hof-in-bayern-ex-soldat-wegen-vergewaltigung-zu-mehr-als-sechs-jahren-haft-verurteilt-a-584a8760-aa9d-4d62-b2a1-4f6f067633a9#ref=rss)
-* [https://www.spiegel.de/fitness/schlittschuhlaufen-lernen-sicher-ueber-die-weihnachtsmarkt-eisbahn](https://www.spiegel.de/fitness/schlittschuhlaufen-lernen-sicher-ueber-die-weihnachtsmarkt-eisbahn-a-85cccc7c-ed5e-40f9-b251-6f7cfb218341#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-tote-und-verletzte-nach-russischem-grossangriff](https://www.spiegel.de/ausland/ukraine-krieg-tote-und-verletzte-nach-russischem-grossangriff-a-6c2e7d8e-2709-411b-8e4e-dd622c415154#ref=rss)
-* [https://www.spiegel.de/wirtschaft/die-deutschen-trinken-weniger-sekt-und-champagner](https://www.spiegel.de/wirtschaft/die-deutschen-trinken-weniger-sekt-und-champagner-a-8d517636-949e-42d6-86e9-2b9b450373a2#ref=rss)
-* [https://www.spiegel.de/reise/schweiz-unternehmer-oeffnet-skigebiet-kostenlos-fuer-alle-gaeste](https://www.spiegel.de/reise/schweiz-unternehmer-oeffnet-skigebiet-kostenlos-fuer-alle-gaeste-a-bc8a12bc-deea-4a08-aca0-cce700a4a906#ref=rss)
-### reiche
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten](https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten-a-fe6f7e52-e620-4bd9-888e-7f6f1344742a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-kritik-an-reiches-tiroler-treffen-als-weihnachtsgeschenk-fuer-die-gegner-der-demokratie](https://www.spiegel.de/politik/deutschland/katherina-reiche-kritik-an-reiches-tiroler-treffen-als-weihnachtsgeschenk-fuer-die-gegner-der-demokratie-a-21769cff-6a23-4cbb-8995-80709174ca75#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wissenschaft/zahnstocher-mit-geschmack-wie-bedenklich-sind-sie](https://www.spiegel.de/wissenschaft/zahnstocher-mit-geschmack-wie-bedenklich-sind-sie-a-4f4d6101-4458-49e5-96ff-c3df806064b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/schwedt-bund-verlaengert-garantie-fuer-beschaeftigte-der-raffinerie](https://www.spiegel.de/wirtschaft/unternehmen/schwedt-bund-verlaengert-garantie-fuer-beschaeftigte-der-raffinerie-a-d0934572-b0ec-4936-844c-85b31cdee114#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/giessen-kein-hinweis-auf-terrormotive-nach-crash-fahrt](https://www.spiegel.de/panorama/justiz/giessen-kein-hinweis-auf-terrormotive-nach-crash-fahrt-a-21e4d909-a165-4de2-be50-b27bd673c4c9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/usa-stoppen-fuenf-offshore-windparkprojekte](https://www.spiegel.de/wissenschaft/technik/usa-stoppen-fuenf-offshore-windparkprojekte-a-45af107e-917f-4d71-8a78-f22eb8c4a1f0#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/zahnstocher-mit-geschmack-wie-bedenklich-sind-sie](https://www.spiegel.de/wissenschaft/zahnstocher-mit-geschmack-wie-bedenklich-sind-sie-a-4f4d6101-4458-49e5-96ff-c3df806064b5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/syrien-deutschland-schiebt-erstmals-seit-beginn-des-buergerkriegs-straftaeter-nach-syrien-ab](https://www.spiegel.de/politik/deutschland/syrien-deutschland-schiebt-erstmals-seit-beginn-des-buergerkriegs-straftaeter-nach-syrien-ab-a-f8016a95-f69e-4f17-8fda-b70756ea5020#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/paris-einbruch-fenster-im-louvre-jetzt-vergittert](https://www.spiegel.de/panorama/paris-einbruch-fenster-im-louvre-jetzt-vergittert-a-a7dfc624-93e9-4826-b577-074e49149012#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-als-baby-vertauschte-frau-erhaelt-fast-eine-million-euro](https://www.spiegel.de/panorama/spanien-als-baby-vertauschte-frau-erhaelt-fast-eine-million-euro-a-847ebe5a-8774-4032-8df5-247f4cc707d5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ryanair-soll-in-italien-255-millionen-euro-strafe-zahlen-missbrauch-der-marktmacht](https://www.spiegel.de/wirtschaft/unternehmen/ryanair-soll-in-italien-255-millionen-euro-strafe-zahlen-missbrauch-der-marktmacht-a-9e3c85ce-8632-43d5-90d6-a19fbaeb7732#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-tausende-weitere-dokumente-veroeffentlicht](https://www.spiegel.de/ausland/jeffrey-epstein-tausende-weitere-dokumente-veroeffentlicht-a-d4162642-57ec-4576-96a5-a806ceb5aa6d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-will-design-neuer-kriegsschiffe-mitgestalten](https://www.spiegel.de/ausland/donald-trump-us-praesident-will-design-neuer-kriegsschiffe-mitgestalten-a-c39a504a-073d-437c-8f8f-68606a05b6c5#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-tausende-weitere-dokumente-veroeffentlicht](https://www.spiegel.de/ausland/jeffrey-epstein-tausende-weitere-dokumente-veroeffentlicht-a-d4162642-57ec-4576-96a5-a806ceb5aa6d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-will-design-neuer-kriegsschiffe-mitgestalten](https://www.spiegel.de/ausland/donald-trump-us-praesident-will-design-neuer-kriegsschiffe-mitgestalten-a-c39a504a-073d-437c-8f8f-68606a05b6c5#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/politik/deutschland/weihnachtspost-behoerden-und-politiker-halten-an-brieftradition-fest](https://www.spiegel.de/politik/deutschland/weihnachtspost-behoerden-und-politiker-halten-an-brieftradition-fest-a-994bc115-1581-4ae7-bb08-546efd36412f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/syrien-deutschland-schiebt-erstmals-seit-beginn-des-buergerkriegs-straftaeter-nach-syrien-ab](https://www.spiegel.de/politik/deutschland/syrien-deutschland-schiebt-erstmals-seit-beginn-des-buergerkriegs-straftaeter-nach-syrien-ab-a-f8016a95-f69e-4f17-8fda-b70756ea5020#ref=rss)
-### tages
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten](https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten-a-fe6f7e52-e620-4bd9-888e-7f6f1344742a#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### ministerin
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten](https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten-a-fe6f7e52-e620-4bd9-888e-7f6f1344742a#ref=rss)
-### vipgipfel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten](https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten-a-fe6f7e52-e620-4bd9-888e-7f6f1344742a#ref=rss)
-### tirol
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten](https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten-a-fe6f7e52-e620-4bd9-888e-7f6f1344742a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-kritik-an-reiches-tiroler-treffen-als-weihnachtsgeschenk-fuer-die-gegner-der-demokratie](https://www.spiegel.de/politik/deutschland/katherina-reiche-kritik-an-reiches-tiroler-treffen-als-weihnachtsgeschenk-fuer-die-gegner-der-demokratie-a-21769cff-6a23-4cbb-8995-80709174ca75#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten](https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten-a-fe6f7e52-e620-4bd9-888e-7f6f1344742a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-katz-verteidigungsminister-will-siedlungen-in-gaza-errichten-und-erklaert-dann-das-gegenteil](https://www.spiegel.de/ausland/israel-katz-verteidigungsminister-will-siedlungen-in-gaza-errichten-und-erklaert-dann-das-gegenteil-a-dfa57776-9914-4270-9404-ac3f76480caa#ref=rss)
-### sekte
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten](https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten-a-fe6f7e52-e620-4bd9-888e-7f6f1344742a#ref=rss)
-### verkauft
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten](https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten-a-fe6f7e52-e620-4bd9-888e-7f6f1344742a#ref=rss)
-### weihnachtsmärkten
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten](https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten-a-fe6f7e52-e620-4bd9-888e-7f6f1344742a#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten](https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten-a-fe6f7e52-e620-4bd9-888e-7f6f1344742a#ref=rss)
-* [https://www.spiegel.de/ausland/jeffrey-epstein-tausende-weitere-dokumente-veroeffentlicht](https://www.spiegel.de/ausland/jeffrey-epstein-tausende-weitere-dokumente-veroeffentlicht-a-d4162642-57ec-4576-96a5-a806ceb5aa6d#ref=rss)
-### dokumente
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten](https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten-a-fe6f7e52-e620-4bd9-888e-7f6f1344742a#ref=rss)
-* [https://www.spiegel.de/ausland/jeffrey-epstein-tausende-weitere-dokumente-veroeffentlicht](https://www.spiegel.de/ausland/jeffrey-epstein-tausende-weitere-dokumente-veroeffentlicht-a-d4162642-57ec-4576-96a5-a806ceb5aa6d#ref=rss)
-### epstein
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten](https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten-a-fe6f7e52-e620-4bd9-888e-7f6f1344742a#ref=rss)
-* [https://www.spiegel.de/ausland/jeffrey-epstein-tausende-weitere-dokumente-veroeffentlicht](https://www.spiegel.de/ausland/jeffrey-epstein-tausende-weitere-dokumente-veroeffentlicht-a-d4162642-57ec-4576-96a5-a806ceb5aa6d#ref=rss)
-### veröffentlicht
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten](https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten-a-fe6f7e52-e620-4bd9-888e-7f6f1344742a#ref=rss)
-* [https://www.spiegel.de/ausland/jeffrey-epstein-tausende-weitere-dokumente-veroeffentlicht](https://www.spiegel.de/ausland/jeffrey-epstein-tausende-weitere-dokumente-veroeffentlicht-a-d4162642-57ec-4576-96a5-a806ceb5aa6d#ref=rss)
-### womöglich
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten](https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten-a-fe6f7e52-e620-4bd9-888e-7f6f1344742a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/die-deutschen-trinken-weniger-sekt-und-champagner](https://www.spiegel.de/wirtschaft/die-deutschen-trinken-weniger-sekt-und-champagner-a-8d517636-949e-42d6-86e9-2b9b450373a2#ref=rss)
-### privat
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten](https://www.spiegel.de/politik/deutschland/news-des-tages-ministerin-reiche-auf-vip-gipfel-in-tirol-neue-epstein-veroeffentlichungen-sekte-verkauft-auf-weihnachtsmaerkten-a-fe6f7e52-e620-4bd9-888e-7f6f1344742a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-kritik-an-reiches-tiroler-treffen-als-weihnachtsgeschenk-fuer-die-gegner-der-demokratie](https://www.spiegel.de/politik/deutschland/katherina-reiche-kritik-an-reiches-tiroler-treffen-als-weihnachtsgeschenk-fuer-die-gegner-der-demokratie-a-21769cff-6a23-4cbb-8995-80709174ca75#ref=rss)
-### greta
-
-* [https://www.spiegel.de/ausland/greta-thunberg-aktivistin-auf-gaza-protest-in-london-festgenommen](https://www.spiegel.de/ausland/greta-thunberg-aktivistin-auf-gaza-protest-in-london-festgenommen-a-af197872-249f-4a24-aad0-07e36182bc96#ref=rss)
-### thunberg
-
-* [https://www.spiegel.de/ausland/greta-thunberg-aktivistin-auf-gaza-protest-in-london-festgenommen](https://www.spiegel.de/ausland/greta-thunberg-aktivistin-auf-gaza-protest-in-london-festgenommen-a-af197872-249f-4a24-aad0-07e36182bc96#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/ausland/greta-thunberg-aktivistin-auf-gaza-protest-in-london-festgenommen](https://www.spiegel.de/ausland/greta-thunberg-aktivistin-auf-gaza-protest-in-london-festgenommen-a-af197872-249f-4a24-aad0-07e36182bc96#ref=rss)
-### regionalverkehr
-
-* [https://www.spiegel.de/wirtschaft/service/regionalverkehr-deutschlandkarte-zeigt-wo-die-probleme-am-groessten-sind](https://www.spiegel.de/wirtschaft/service/regionalverkehr-deutschlandkarte-zeigt-wo-die-probleme-am-groessten-sind-a-95115be2-2f39-46c7-8e05-9aa2f1dc4dc5#ref=rss)
-### deutschlandkarte
-
-* [https://www.spiegel.de/wirtschaft/service/regionalverkehr-deutschlandkarte-zeigt-wo-die-probleme-am-groessten-sind](https://www.spiegel.de/wirtschaft/service/regionalverkehr-deutschlandkarte-zeigt-wo-die-probleme-am-groessten-sind-a-95115be2-2f39-46c7-8e05-9aa2f1dc4dc5#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wirtschaft/service/regionalverkehr-deutschlandkarte-zeigt-wo-die-probleme-am-groessten-sind](https://www.spiegel.de/wirtschaft/service/regionalverkehr-deutschlandkarte-zeigt-wo-die-probleme-am-groessten-sind-a-95115be2-2f39-46c7-8e05-9aa2f1dc4dc5#ref=rss)
-### wo
-
-* [https://www.spiegel.de/wirtschaft/service/regionalverkehr-deutschlandkarte-zeigt-wo-die-probleme-am-groessten-sind](https://www.spiegel.de/wirtschaft/service/regionalverkehr-deutschlandkarte-zeigt-wo-die-probleme-am-groessten-sind-a-95115be2-2f39-46c7-8e05-9aa2f1dc4dc5#ref=rss)
-### probleme
-
-* [https://www.spiegel.de/wirtschaft/service/regionalverkehr-deutschlandkarte-zeigt-wo-die-probleme-am-groessten-sind](https://www.spiegel.de/wirtschaft/service/regionalverkehr-deutschlandkarte-zeigt-wo-die-probleme-am-groessten-sind-a-95115be2-2f39-46c7-8e05-9aa2f1dc4dc5#ref=rss)
-### größten
-
-* [https://www.spiegel.de/wirtschaft/service/regionalverkehr-deutschlandkarte-zeigt-wo-die-probleme-am-groessten-sind](https://www.spiegel.de/wirtschaft/service/regionalverkehr-deutschlandkarte-zeigt-wo-die-probleme-am-groessten-sind-a-95115be2-2f39-46c7-8e05-9aa2f1dc4dc5#ref=rss)
-### katz
-
-* [https://www.spiegel.de/ausland/israel-katz-verteidigungsminister-will-siedlungen-in-gaza-errichten-und-erklaert-dann-das-gegenteil](https://www.spiegel.de/ausland/israel-katz-verteidigungsminister-will-siedlungen-in-gaza-errichten-und-erklaert-dann-das-gegenteil-a-dfa57776-9914-4270-9404-ac3f76480caa#ref=rss)
-### siedlungen
-
-* [https://www.spiegel.de/ausland/israel-katz-verteidigungsminister-will-siedlungen-in-gaza-errichten-und-erklaert-dann-das-gegenteil](https://www.spiegel.de/ausland/israel-katz-verteidigungsminister-will-siedlungen-in-gaza-errichten-und-erklaert-dann-das-gegenteil-a-dfa57776-9914-4270-9404-ac3f76480caa#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/ausland/israel-katz-verteidigungsminister-will-siedlungen-in-gaza-errichten-und-erklaert-dann-das-gegenteil](https://www.spiegel.de/ausland/israel-katz-verteidigungsminister-will-siedlungen-in-gaza-errichten-und-erklaert-dann-das-gegenteil-a-dfa57776-9914-4270-9404-ac3f76480caa#ref=rss)
-* [https://www.spiegel.de/fitness/schlittschuhlaufen-lernen-sicher-ueber-die-weihnachtsmarkt-eisbahn](https://www.spiegel.de/fitness/schlittschuhlaufen-lernen-sicher-ueber-die-weihnachtsmarkt-eisbahn-a-85cccc7c-ed5e-40f9-b251-6f7cfb218341#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/ausland/israel-katz-verteidigungsminister-will-siedlungen-in-gaza-errichten-und-erklaert-dann-das-gegenteil](https://www.spiegel.de/ausland/israel-katz-verteidigungsminister-will-siedlungen-in-gaza-errichten-und-erklaert-dann-das-gegenteil-a-dfa57776-9914-4270-9404-ac3f76480caa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-kritik-an-reiches-tiroler-treffen-als-weihnachtsgeschenk-fuer-die-gegner-der-demokratie](https://www.spiegel.de/politik/deutschland/katherina-reiche-kritik-an-reiches-tiroler-treffen-als-weihnachtsgeschenk-fuer-die-gegner-der-demokratie-a-21769cff-6a23-4cbb-8995-80709174ca75#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/israel-katz-verteidigungsminister-will-siedlungen-in-gaza-errichten-und-erklaert-dann-das-gegenteil](https://www.spiegel.de/ausland/israel-katz-verteidigungsminister-will-siedlungen-in-gaza-errichten-und-erklaert-dann-das-gegenteil-a-dfa57776-9914-4270-9404-ac3f76480caa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/die-deutschen-trinken-weniger-sekt-und-champagner](https://www.spiegel.de/wirtschaft/die-deutschen-trinken-weniger-sekt-und-champagner-a-8d517636-949e-42d6-86e9-2b9b450373a2#ref=rss)
-### bundesliga
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-manuel-baum-bleibt-trainer-beim-fc-augsburg](https://www.spiegel.de/sport/fussball/bundesliga-manuel-baum-bleibt-trainer-beim-fc-augsburg-a-46443f2c-8b53-423d-a6b7-e1789b71e416#ref=rss)
-### manuel
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-manuel-baum-bleibt-trainer-beim-fc-augsburg](https://www.spiegel.de/sport/fussball/bundesliga-manuel-baum-bleibt-trainer-beim-fc-augsburg-a-46443f2c-8b53-423d-a6b7-e1789b71e416#ref=rss)
-### baum
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-manuel-baum-bleibt-trainer-beim-fc-augsburg](https://www.spiegel.de/sport/fussball/bundesliga-manuel-baum-bleibt-trainer-beim-fc-augsburg-a-46443f2c-8b53-423d-a6b7-e1789b71e416#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-manuel-baum-bleibt-trainer-beim-fc-augsburg](https://www.spiegel.de/sport/fussball/bundesliga-manuel-baum-bleibt-trainer-beim-fc-augsburg-a-46443f2c-8b53-423d-a6b7-e1789b71e416#ref=rss)
-### augsburg
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-manuel-baum-bleibt-trainer-beim-fc-augsburg](https://www.spiegel.de/sport/fussball/bundesliga-manuel-baum-bleibt-trainer-beim-fc-augsburg-a-46443f2c-8b53-423d-a6b7-e1789b71e416#ref=rss)
-### zahnstocher
-
-* [https://www.spiegel.de/wissenschaft/zahnstocher-mit-geschmack-wie-bedenklich-sind-sie](https://www.spiegel.de/wissenschaft/zahnstocher-mit-geschmack-wie-bedenklich-sind-sie-a-4f4d6101-4458-49e5-96ff-c3df806064b5#ref=rss)
-### geschmack
-
-* [https://www.spiegel.de/wissenschaft/zahnstocher-mit-geschmack-wie-bedenklich-sind-sie](https://www.spiegel.de/wissenschaft/zahnstocher-mit-geschmack-wie-bedenklich-sind-sie-a-4f4d6101-4458-49e5-96ff-c3df806064b5#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/panorama/paris-einbruch-fenster-im-louvre-jetzt-vergittert](https://www.spiegel.de/panorama/paris-einbruch-fenster-im-louvre-jetzt-vergittert-a-a7dfc624-93e9-4826-b577-074e49149012#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ryanair-soll-in-italien-255-millionen-euro-strafe-zahlen-missbrauch-der-marktmacht](https://www.spiegel.de/wirtschaft/unternehmen/ryanair-soll-in-italien-255-millionen-euro-strafe-zahlen-missbrauch-der-marktmacht-a-9e3c85ce-8632-43d5-90d6-a19fbaeb7732#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/paris-einbruch-fenster-im-louvre-jetzt-vergittert](https://www.spiegel.de/panorama/paris-einbruch-fenster-im-louvre-jetzt-vergittert-a-a7dfc624-93e9-4826-b577-074e49149012#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-als-baby-vertauschte-frau-erhaelt-fast-eine-million-euro](https://www.spiegel.de/panorama/spanien-als-baby-vertauschte-frau-erhaelt-fast-eine-million-euro-a-847ebe5a-8774-4032-8df5-247f4cc707d5#ref=rss)
-### später
-
-* [https://www.spiegel.de/panorama/paris-einbruch-fenster-im-louvre-jetzt-vergittert](https://www.spiegel.de/panorama/paris-einbruch-fenster-im-louvre-jetzt-vergittert-a-a7dfc624-93e9-4826-b577-074e49149012#ref=rss)
-* [https://www.spiegel.de/sport/olympia/roland-bock-der-fruehere-ringer-kaempfte-gegen-stiere-braunbaeren-und-sich-selbst](https://www.spiegel.de/sport/olympia/roland-bock-der-fruehere-ringer-kaempfte-gegen-stiere-braunbaeren-und-sich-selbst-a-a9e1439c-1578-4b54-8fd9-2cb8a76235cd#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/spanien-als-baby-vertauschte-frau-erhaelt-fast-eine-million-euro](https://www.spiegel.de/panorama/spanien-als-baby-vertauschte-frau-erhaelt-fast-eine-million-euro-a-847ebe5a-8774-4032-8df5-247f4cc707d5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/isabel-schnabel-kann-diese-frau-die-erste-deutsche-ezb-chefin-werden](https://www.spiegel.de/wirtschaft/isabel-schnabel-kann-diese-frau-die-erste-deutsche-ezb-chefin-werden-a-c4d6b788-7518-4702-ab0e-2e0c51fe597e#ref=rss)
-### fast
-
-* [https://www.spiegel.de/panorama/spanien-als-baby-vertauschte-frau-erhaelt-fast-eine-million-euro](https://www.spiegel.de/panorama/spanien-als-baby-vertauschte-frau-erhaelt-fast-eine-million-euro-a-847ebe5a-8774-4032-8df5-247f4cc707d5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rene-benko-muss-auch-weihnachten-im-gefaengnis-bleiben](https://www.spiegel.de/wirtschaft/rene-benko-muss-auch-weihnachten-im-gefaengnis-bleiben-a-75d1cfc2-f349-4a7a-a9ee-be52db0b6c87#ref=rss)
-### abblendlicht
-
-* [https://www.spiegel.de/auto/abblendlicht-tuev-sued-warnt-vor-nutzung-der-lichtautomatik](https://www.spiegel.de/auto/abblendlicht-tuev-sued-warnt-vor-nutzung-der-lichtautomatik-a-c47e2c6b-3e2f-4b4a-bc08-99c0a859c042#ref=rss)
-### tüv
-
-* [https://www.spiegel.de/auto/abblendlicht-tuev-sued-warnt-vor-nutzung-der-lichtautomatik](https://www.spiegel.de/auto/abblendlicht-tuev-sued-warnt-vor-nutzung-der-lichtautomatik-a-c47e2c6b-3e2f-4b4a-bc08-99c0a859c042#ref=rss)
-### süd
-
-* [https://www.spiegel.de/auto/abblendlicht-tuev-sued-warnt-vor-nutzung-der-lichtautomatik](https://www.spiegel.de/auto/abblendlicht-tuev-sued-warnt-vor-nutzung-der-lichtautomatik-a-c47e2c6b-3e2f-4b4a-bc08-99c0a859c042#ref=rss)
-### viele
-
-* [https://www.spiegel.de/auto/abblendlicht-tuev-sued-warnt-vor-nutzung-der-lichtautomatik](https://www.spiegel.de/auto/abblendlicht-tuev-sued-warnt-vor-nutzung-der-lichtautomatik-a-c47e2c6b-3e2f-4b4a-bc08-99c0a859c042#ref=rss)
-* [https://www.spiegel.de/reise/schweiz-unternehmer-oeffnet-skigebiet-kostenlos-fuer-alle-gaeste](https://www.spiegel.de/reise/schweiz-unternehmer-oeffnet-skigebiet-kostenlos-fuer-alle-gaeste-a-bc8a12bc-deea-4a08-aca0-cce700a4a906#ref=rss)
-### isabel
-
-* [https://www.spiegel.de/wirtschaft/isabel-schnabel-kann-diese-frau-die-erste-deutsche-ezb-chefin-werden](https://www.spiegel.de/wirtschaft/isabel-schnabel-kann-diese-frau-die-erste-deutsche-ezb-chefin-werden-a-c4d6b788-7518-4702-ab0e-2e0c51fe597e#ref=rss)
-### schnabel
-
-* [https://www.spiegel.de/wirtschaft/isabel-schnabel-kann-diese-frau-die-erste-deutsche-ezb-chefin-werden](https://www.spiegel.de/wirtschaft/isabel-schnabel-kann-diese-frau-die-erste-deutsche-ezb-chefin-werden-a-c4d6b788-7518-4702-ab0e-2e0c51fe597e#ref=rss)
-### sitzt
-
-* [https://www.spiegel.de/wirtschaft/isabel-schnabel-kann-diese-frau-die-erste-deutsche-ezb-chefin-werden](https://www.spiegel.de/wirtschaft/isabel-schnabel-kann-diese-frau-die-erste-deutsche-ezb-chefin-werden-a-c4d6b788-7518-4702-ab0e-2e0c51fe597e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rene-benko-muss-auch-weihnachten-im-gefaengnis-bleiben](https://www.spiegel.de/wirtschaft/rene-benko-muss-auch-weihnachten-im-gefaengnis-bleiben-a-75d1cfc2-f349-4a7a-a9ee-be52db0b6c87#ref=rss)
-### schwedt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/schwedt-bund-verlaengert-garantie-fuer-beschaeftigte-der-raffinerie](https://www.spiegel.de/wirtschaft/unternehmen/schwedt-bund-verlaengert-garantie-fuer-beschaeftigte-der-raffinerie-a-d0934572-b0ec-4936-844c-85b31cdee114#ref=rss)
-### raffinerie
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/schwedt-bund-verlaengert-garantie-fuer-beschaeftigte-der-raffinerie](https://www.spiegel.de/wirtschaft/unternehmen/schwedt-bund-verlaengert-garantie-fuer-beschaeftigte-der-raffinerie-a-d0934572-b0ec-4936-844c-85b31cdee114#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-tausende-weitere-dokumente-veroeffentlicht](https://www.spiegel.de/ausland/jeffrey-epstein-tausende-weitere-dokumente-veroeffentlicht-a-d4162642-57ec-4576-96a5-a806ceb5aa6d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-tote-und-verletzte-nach-russischem-grossangriff](https://www.spiegel.de/ausland/ukraine-krieg-tote-und-verletzte-nach-russischem-grossangriff-a-6c2e7d8e-2709-411b-8e4e-dd622c415154#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-kritik-an-reiches-tiroler-treffen-als-weihnachtsgeschenk-fuer-die-gegner-der-demokratie](https://www.spiegel.de/politik/deutschland/katherina-reiche-kritik-an-reiches-tiroler-treffen-als-weihnachtsgeschenk-fuer-die-gegner-der-demokratie-a-21769cff-6a23-4cbb-8995-80709174ca75#ref=rss)
-### hartnäckig
-
-* [https://www.spiegel.de/politik/deutschland/katherina-reiche-kritik-an-reiches-tiroler-treffen-als-weihnachtsgeschenk-fuer-die-gegner-der-demokratie](https://www.spiegel.de/politik/deutschland/katherina-reiche-kritik-an-reiches-tiroler-treffen-als-weihnachtsgeschenk-fuer-die-gegner-der-demokratie-a-21769cff-6a23-4cbb-8995-80709174ca75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/weihnachtspost-behoerden-und-politiker-halten-an-brieftradition-fest](https://www.spiegel.de/politik/deutschland/weihnachtspost-behoerden-und-politiker-halten-an-brieftradition-fest-a-994bc115-1581-4ae7-bb08-546efd36412f#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### hof
-
-* [https://www.spiegel.de/panorama/justiz/hof-in-bayern-ex-soldat-wegen-vergewaltigung-zu-mehr-als-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/hof-in-bayern-ex-soldat-wegen-vergewaltigung-zu-mehr-als-sechs-jahren-haft-verurteilt-a-584a8760-aa9d-4d62-b2a1-4f6f067633a9#ref=rss)
-### vergewaltigung
-
-* [https://www.spiegel.de/panorama/justiz/hof-in-bayern-ex-soldat-wegen-vergewaltigung-zu-mehr-als-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/hof-in-bayern-ex-soldat-wegen-vergewaltigung-zu-mehr-als-sechs-jahren-haft-verurteilt-a-584a8760-aa9d-4d62-b2a1-4f6f067633a9#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/justiz/hof-in-bayern-ex-soldat-wegen-vergewaltigung-zu-mehr-als-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/hof-in-bayern-ex-soldat-wegen-vergewaltigung-zu-mehr-als-sechs-jahren-haft-verurteilt-a-584a8760-aa9d-4d62-b2a1-4f6f067633a9#ref=rss)
-* [https://www.spiegel.de/sport/olympia/roland-bock-der-fruehere-ringer-kaempfte-gegen-stiere-braunbaeren-und-sich-selbst](https://www.spiegel.de/sport/olympia/roland-bock-der-fruehere-ringer-kaempfte-gegen-stiere-braunbaeren-und-sich-selbst-a-a9e1439c-1578-4b54-8fd9-2cb8a76235cd#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/hof-in-bayern-ex-soldat-wegen-vergewaltigung-zu-mehr-als-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/hof-in-bayern-ex-soldat-wegen-vergewaltigung-zu-mehr-als-sechs-jahren-haft-verurteilt-a-584a8760-aa9d-4d62-b2a1-4f6f067633a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rene-benko-muss-auch-weihnachten-im-gefaengnis-bleiben](https://www.spiegel.de/wirtschaft/rene-benko-muss-auch-weihnachten-im-gefaengnis-bleiben-a-75d1cfc2-f349-4a7a-a9ee-be52db0b6c87#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/hof-in-bayern-ex-soldat-wegen-vergewaltigung-zu-mehr-als-sechs-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/hof-in-bayern-ex-soldat-wegen-vergewaltigung-zu-mehr-als-sechs-jahren-haft-verurteilt-a-584a8760-aa9d-4d62-b2a1-4f6f067633a9#ref=rss)
-### rené
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-muss-auch-weihnachten-im-gefaengnis-bleiben](https://www.spiegel.de/wirtschaft/rene-benko-muss-auch-weihnachten-im-gefaengnis-bleiben-a-75d1cfc2-f349-4a7a-a9ee-be52db0b6c87#ref=rss)
-### benko
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-muss-auch-weihnachten-im-gefaengnis-bleiben](https://www.spiegel.de/wirtschaft/rene-benko-muss-auch-weihnachten-im-gefaengnis-bleiben-a-75d1cfc2-f349-4a7a-a9ee-be52db0b6c87#ref=rss)
 ### weihnachten
 
-* [https://www.spiegel.de/wirtschaft/rene-benko-muss-auch-weihnachten-im-gefaengnis-bleiben](https://www.spiegel.de/wirtschaft/rene-benko-muss-auch-weihnachten-im-gefaengnis-bleiben-a-75d1cfc2-f349-4a7a-a9ee-be52db0b6c87#ref=rss)
-* [https://www.spiegel.de/wirtschaft/die-deutschen-trinken-weniger-sekt-und-champagner](https://www.spiegel.de/wirtschaft/die-deutschen-trinken-weniger-sekt-und-champagner-a-8d517636-949e-42d6-86e9-2b9b450373a2#ref=rss)
-### politiker
+* [https://www.spiegel.de/panorama/norwegen-mette-marit-schmueckt-den-weihnachtsbaum-ohne-sohn](https://www.spiegel.de/panorama/norwegen-mette-marit-schmueckt-den-weihnachtsbaum-ohne-sohn-a-c86ca3a0-d72d-4e9a-86de-bf4d9added4f#ref=rss)
+* [https://www.spiegel.de/familie/stressige-weihnachten-wie-wir-uns-das-fest-schoen-machen-kolumne](https://www.spiegel.de/familie/stressige-weihnachten-wie-wir-uns-das-fest-schoen-machen-kolumne-a-4e1459b6-5392-4ef7-a760-9d3de1392a6e#ref=rss)
+* [https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine-a-c0470ba3-6c6e-4e20-846b-bb04a38977b3#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-xiv-ruft-zu-weltweiter-weihnachts-waffenruhe-auf](https://www.spiegel.de/ausland/papst-leo-xiv-ruft-zu-weltweiter-weihnachts-waffenruhe-auf-a-b714102c-0e0d-43c8-a479-48c2c1244844#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/politik/deutschland/weihnachtspost-behoerden-und-politiker-halten-an-brieftradition-fest](https://www.spiegel.de/politik/deutschland/weihnachtspost-behoerden-und-politiker-halten-an-brieftradition-fest-a-994bc115-1581-4ae7-bb08-546efd36412f#ref=rss)
-### halten
+* [https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel](https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel-a-0f89ea10-ae37-4017-8516-65cb63f8e965#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2026-arno-merk-wirft-ex-weltmeister-peter-wright-aus-dem-turnier](https://www.spiegel.de/sport/darts-wm-2026-arno-merk-wirft-ex-weltmeister-peter-wright-aus-dem-turnier-a-91ff58b4-536d-470f-bb30-8f6ee1a1e839#ref=rss)
+* [https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation](https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation-a-953a5da6-5f5a-4b93-b3b3-a291f03022f5#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/politik/deutschland/weihnachtspost-behoerden-und-politiker-halten-an-brieftradition-fest](https://www.spiegel.de/politik/deutschland/weihnachtspost-behoerden-und-politiker-halten-an-brieftradition-fest-a-994bc115-1581-4ae7-bb08-546efd36412f#ref=rss)
-### fest
+* [https://www.spiegel.de/ausland/armenien-groesste-christus-statue-der-welt-entsteht-auf-einem-berg](https://www.spiegel.de/ausland/armenien-groesste-christus-statue-der-welt-entsteht-auf-einem-berg-a-673f2890-3408-445b-b5c9-a76243e84c16#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2026-arno-merk-wirft-ex-weltmeister-peter-wright-aus-dem-turnier](https://www.spiegel.de/sport/darts-wm-2026-arno-merk-wirft-ex-weltmeister-peter-wright-aus-dem-turnier-a-91ff58b4-536d-470f-bb30-8f6ee1a1e839#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-parlament-findet-notloesung-im-haushaltsstreit](https://www.spiegel.de/ausland/frankreich-parlament-findet-notloesung-im-haushaltsstreit-a-8c06e4c6-04a1-4f5c-9be4-1b2620e328b7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-2026-experten-tipps-fuer-ihre-finanzen-im-neuen-jahr](https://www.spiegel.de/wirtschaft/service/geldanlage-2026-experten-tipps-fuer-ihre-finanzen-im-neuen-jahr-a-6a12eadc-da61-4079-9473-c41250113fc4#ref=rss)
+### hateaid
 
-* [https://www.spiegel.de/politik/deutschland/weihnachtspost-behoerden-und-politiker-halten-an-brieftradition-fest](https://www.spiegel.de/politik/deutschland/weihnachtspost-behoerden-und-politiker-halten-an-brieftradition-fest-a-994bc115-1581-4ae7-bb08-546efd36412f#ref=rss)
-### gießen
+* [https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel](https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel-a-0f89ea10-ae37-4017-8516-65cb63f8e965#ref=rss)
+* [https://www.spiegel.de/ausland/usa-sanktionen-gegen-hateaid-leiterinnen-sorgen-fuer-empoerung](https://www.spiegel.de/ausland/usa-sanktionen-gegen-hateaid-leiterinnen-sorgen-fuer-empoerung-a-02039632-ec01-40da-b8d6-2e9046f151cd#ref=rss)
+* [https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation](https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation-a-953a5da6-5f5a-4b93-b3b3-a291f03022f5#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/justiz/giessen-kein-hinweis-auf-terrormotive-nach-crash-fahrt](https://www.spiegel.de/panorama/justiz/giessen-kein-hinweis-auf-terrormotive-nach-crash-fahrt-a-21e4d909-a165-4de2-be50-b27bd673c4c9#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/justiz/giessen-kein-hinweis-auf-terrormotive-nach-crash-fahrt](https://www.spiegel.de/panorama/justiz/giessen-kein-hinweis-auf-terrormotive-nach-crash-fahrt-a-21e4d909-a165-4de2-be50-b27bd673c4c9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/usa-stoppen-fuenf-offshore-windparkprojekte](https://www.spiegel.de/wissenschaft/technik/usa-stoppen-fuenf-offshore-windparkprojekte-a-45af107e-917f-4d71-8a78-f22eb8c4a1f0#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/giessen-kein-hinweis-auf-terrormotive-nach-crash-fahrt](https://www.spiegel.de/panorama/justiz/giessen-kein-hinweis-auf-terrormotive-nach-crash-fahrt-a-21e4d909-a165-4de2-be50-b27bd673c4c9#ref=rss)
-* [https://www.spiegel.de/fitness/schlittschuhlaufen-lernen-sicher-ueber-die-weihnachtsmarkt-eisbahn](https://www.spiegel.de/fitness/schlittschuhlaufen-lernen-sicher-ueber-die-weihnachtsmarkt-eisbahn-a-85cccc7c-ed5e-40f9-b251-6f7cfb218341#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/politik/deutschland/syrien-deutschland-schiebt-erstmals-seit-beginn-des-buergerkriegs-straftaeter-nach-syrien-ab](https://www.spiegel.de/politik/deutschland/syrien-deutschland-schiebt-erstmals-seit-beginn-des-buergerkriegs-straftaeter-nach-syrien-ab-a-f8016a95-f69e-4f17-8fda-b70756ea5020#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/politik/deutschland/syrien-deutschland-schiebt-erstmals-seit-beginn-des-buergerkriegs-straftaeter-nach-syrien-ab](https://www.spiegel.de/politik/deutschland/syrien-deutschland-schiebt-erstmals-seit-beginn-des-buergerkriegs-straftaeter-nach-syrien-ab-a-f8016a95-f69e-4f17-8fda-b70756ea5020#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/teltow-in-brandenburg-schulleiter-alexander-otto-ueber-afd-hetze-nach-praktikumsverbot](https://www.spiegel.de/panorama/gesellschaft/teltow-in-brandenburg-schulleiter-alexander-otto-ueber-afd-hetze-nach-praktikumsverbot-a-2a244f17-0ff4-4be1-a833-a2eaa1f2202f#ref=rss)
-### bürgerkriegs
-
-* [https://www.spiegel.de/politik/deutschland/syrien-deutschland-schiebt-erstmals-seit-beginn-des-buergerkriegs-straftaeter-nach-syrien-ab](https://www.spiegel.de/politik/deutschland/syrien-deutschland-schiebt-erstmals-seit-beginn-des-buergerkriegs-straftaeter-nach-syrien-ab-a-f8016a95-f69e-4f17-8fda-b70756ea5020#ref=rss)
-### straftäter
-
-* [https://www.spiegel.de/politik/deutschland/syrien-deutschland-schiebt-erstmals-seit-beginn-des-buergerkriegs-straftaeter-nach-syrien-ab](https://www.spiegel.de/politik/deutschland/syrien-deutschland-schiebt-erstmals-seit-beginn-des-buergerkriegs-straftaeter-nach-syrien-ab-a-f8016a95-f69e-4f17-8fda-b70756ea5020#ref=rss)
-### teltow
-
-* [https://www.spiegel.de/panorama/gesellschaft/teltow-in-brandenburg-schulleiter-alexander-otto-ueber-afd-hetze-nach-praktikumsverbot](https://www.spiegel.de/panorama/gesellschaft/teltow-in-brandenburg-schulleiter-alexander-otto-ueber-afd-hetze-nach-praktikumsverbot-a-2a244f17-0ff4-4be1-a833-a2eaa1f2202f#ref=rss)
-### schulleiter
-
-* [https://www.spiegel.de/panorama/gesellschaft/teltow-in-brandenburg-schulleiter-alexander-otto-ueber-afd-hetze-nach-praktikumsverbot](https://www.spiegel.de/panorama/gesellschaft/teltow-in-brandenburg-schulleiter-alexander-otto-ueber-afd-hetze-nach-praktikumsverbot-a-2a244f17-0ff4-4be1-a833-a2eaa1f2202f#ref=rss)
+* [https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel](https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel-a-0f89ea10-ae37-4017-8516-65cb63f8e965#ref=rss)
+* [https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes](https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes-a-e66ea0af-34fe-46fb-962e-d8fe1bc6c769#ref=rss)
+* [https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation](https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation-a-953a5da6-5f5a-4b93-b3b3-a291f03022f5#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/wissenschaft/technik/usa-stoppen-fuenf-offshore-windparkprojekte](https://www.spiegel.de/wissenschaft/technik/usa-stoppen-fuenf-offshore-windparkprojekte-a-45af107e-917f-4d71-8a78-f22eb8c4a1f0#ref=rss)
-### deutschen
+* [https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel](https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel-a-0f89ea10-ae37-4017-8516-65cb63f8e965#ref=rss)
+* [https://www.spiegel.de/ausland/usa-sanktionen-gegen-hateaid-leiterinnen-sorgen-fuer-empoerung](https://www.spiegel.de/ausland/usa-sanktionen-gegen-hateaid-leiterinnen-sorgen-fuer-empoerung-a-02039632-ec01-40da-b8d6-2e9046f151cd#ref=rss)
+* [https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation](https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation-a-953a5da6-5f5a-4b93-b3b3-a291f03022f5#ref=rss)
+### einsetzen
 
-* [https://www.spiegel.de/wirtschaft/die-deutschen-trinken-weniger-sekt-und-champagner](https://www.spiegel.de/wirtschaft/die-deutschen-trinken-weniger-sekt-und-champagner-a-8d517636-949e-42d6-86e9-2b9b450373a2#ref=rss)
-### schweiz
+* [https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel](https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel-a-0f89ea10-ae37-4017-8516-65cb63f8e965#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-oberster-gerichtshof-stoppt-plaene-fuer-nationalgarde-in-chicago](https://www.spiegel.de/ausland/donald-trump-oberster-gerichtshof-stoppt-plaene-fuer-nationalgarde-in-chicago-a-bde53c68-11e4-4925-9d23-f34fa5800d4e#ref=rss)
+* [https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine-a-c0470ba3-6c6e-4e20-846b-bb04a38977b3#ref=rss)
+### kam
 
-* [https://www.spiegel.de/reise/schweiz-unternehmer-oeffnet-skigebiet-kostenlos-fuer-alle-gaeste](https://www.spiegel.de/reise/schweiz-unternehmer-oeffnet-skigebiet-kostenlos-fuer-alle-gaeste-a-bc8a12bc-deea-4a08-aca0-cce700a4a906#ref=rss)
-### unternehmer
+* [https://www.spiegel.de/ausland/stille-nacht-wie-das-weihnachtslied-zum-ersten-welthit-wurde](https://www.spiegel.de/ausland/stille-nacht-wie-das-weihnachtslied-zum-ersten-welthit-wurde-a-e6315b6d-8541-4381-90d8-791dd8b98c34#ref=rss)
+* [https://www.spiegel.de/panorama/niederlande-dieb-klaut-auto-mit-kleinen-kindern-auf-dem-ruecksitz](https://www.spiegel.de/panorama/niederlande-dieb-klaut-auto-mit-kleinen-kindern-auf-dem-ruecksitz-a-bd2e1acf-93f7-4d2e-8d56-7443a3fb24d9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/waldkraiburg-in-bayern-angestellter-bei-raubueberfall-angeschossen](https://www.spiegel.de/panorama/justiz/waldkraiburg-in-bayern-angestellter-bei-raubueberfall-angeschossen-a-c48e248f-09a6-4048-94b7-df5330420c42#ref=rss)
+### kalifornien
 
-* [https://www.spiegel.de/reise/schweiz-unternehmer-oeffnet-skigebiet-kostenlos-fuer-alle-gaeste](https://www.spiegel.de/reise/schweiz-unternehmer-oeffnet-skigebiet-kostenlos-fuer-alle-gaeste-a-bc8a12bc-deea-4a08-aca0-cce700a4a906#ref=rss)
-### skigebiet
+* [https://www.spiegel.de/wirtschaft/seltene-erden-dieser-mann-will-chinas-vormacht-brechen](https://www.spiegel.de/wirtschaft/seltene-erden-dieser-mann-will-chinas-vormacht-brechen-a-fb86f4b2-cb49-4a57-b092-b2c7f992e19e#ref=rss)
+* [https://www.spiegel.de/panorama/kalifornien-weihnachtssturm-sorgt-fuer-evakuierungen-und-ueberschwemmungsgefahr-in-los-angeles](https://www.spiegel.de/panorama/kalifornien-weihnachtssturm-sorgt-fuer-evakuierungen-und-ueberschwemmungsgefahr-in-los-angeles-a-40792a07-f1a4-4357-a29f-e69f3f6ec02f#ref=rss)
+### ich
 
-* [https://www.spiegel.de/reise/schweiz-unternehmer-oeffnet-skigebiet-kostenlos-fuer-alle-gaeste](https://www.spiegel.de/reise/schweiz-unternehmer-oeffnet-skigebiet-kostenlos-fuer-alle-gaeste-a-bc8a12bc-deea-4a08-aca0-cce700a4a906#ref=rss)
-### gäste
+* [https://www.spiegel.de/familie/stressige-weihnachten-wie-wir-uns-das-fest-schoen-machen-kolumne](https://www.spiegel.de/familie/stressige-weihnachten-wie-wir-uns-das-fest-schoen-machen-kolumne-a-4e1459b6-5392-4ef7-a760-9d3de1392a6e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-2026-experten-tipps-fuer-ihre-finanzen-im-neuen-jahr](https://www.spiegel.de/wirtschaft/service/geldanlage-2026-experten-tipps-fuer-ihre-finanzen-im-neuen-jahr-a-6a12eadc-da61-4079-9473-c41250113fc4#ref=rss)
+### donald
 
-* [https://www.spiegel.de/reise/schweiz-unternehmer-oeffnet-skigebiet-kostenlos-fuer-alle-gaeste](https://www.spiegel.de/reise/schweiz-unternehmer-oeffnet-skigebiet-kostenlos-fuer-alle-gaeste-a-bc8a12bc-deea-4a08-aca0-cce700a4a906#ref=rss)
-### roland
+* [https://www.spiegel.de/ausland/donald-trump-oberster-gerichtshof-stoppt-plaene-fuer-nationalgarde-in-chicago](https://www.spiegel.de/ausland/donald-trump-oberster-gerichtshof-stoppt-plaene-fuer-nationalgarde-in-chicago-a-bde53c68-11e4-4925-9d23-f34fa5800d4e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-was-im-frisch-veroeffentlichten-datensatz-ueber-den-praesidenten-steht](https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-was-im-frisch-veroeffentlichten-datensatz-ueber-den-praesidenten-steht-a-3b9716de-79b7-4e82-af0c-e081b986c157#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/olympia/roland-bock-der-fruehere-ringer-kaempfte-gegen-stiere-braunbaeren-und-sich-selbst](https://www.spiegel.de/sport/olympia/roland-bock-der-fruehere-ringer-kaempfte-gegen-stiere-braunbaeren-und-sich-selbst-a-a9e1439c-1578-4b54-8fd9-2cb8a76235cd#ref=rss)
-### bock
+* [https://www.spiegel.de/ausland/donald-trump-oberster-gerichtshof-stoppt-plaene-fuer-nationalgarde-in-chicago](https://www.spiegel.de/ausland/donald-trump-oberster-gerichtshof-stoppt-plaene-fuer-nationalgarde-in-chicago-a-bde53c68-11e4-4925-9d23-f34fa5800d4e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-was-im-frisch-veroeffentlichten-datensatz-ueber-den-praesidenten-steht](https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-was-im-frisch-veroeffentlichten-datensatz-ueber-den-praesidenten-steht-a-3b9716de-79b7-4e82-af0c-e081b986c157#ref=rss)
+### ussanktionen
 
-* [https://www.spiegel.de/sport/olympia/roland-bock-der-fruehere-ringer-kaempfte-gegen-stiere-braunbaeren-und-sich-selbst](https://www.spiegel.de/sport/olympia/roland-bock-der-fruehere-ringer-kaempfte-gegen-stiere-braunbaeren-und-sich-selbst-a-a9e1439c-1578-4b54-8fd9-2cb8a76235cd#ref=rss)
-### ringer
+* [https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel](https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel-a-0f89ea10-ae37-4017-8516-65cb63f8e965#ref=rss)
+* [https://www.spiegel.de/ausland/usa-sanktionen-gegen-hateaid-leiterinnen-sorgen-fuer-empoerung](https://www.spiegel.de/ausland/usa-sanktionen-gegen-hateaid-leiterinnen-sorgen-fuer-empoerung-a-02039632-ec01-40da-b8d6-2e9046f151cd#ref=rss)
+### eukommissar
 
-* [https://www.spiegel.de/sport/olympia/roland-bock-der-fruehere-ringer-kaempfte-gegen-stiere-braunbaeren-und-sich-selbst](https://www.spiegel.de/sport/olympia/roland-bock-der-fruehere-ringer-kaempfte-gegen-stiere-braunbaeren-und-sich-selbst-a-a9e1439c-1578-4b54-8fd9-2cb8a76235cd#ref=rss)
-### selbst
+* [https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel](https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel-a-0f89ea10-ae37-4017-8516-65cb63f8e965#ref=rss)
+* [https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation](https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation-a-953a5da6-5f5a-4b93-b3b3-a291f03022f5#ref=rss)
+### aktivistinnen
 
-* [https://www.spiegel.de/sport/olympia/roland-bock-der-fruehere-ringer-kaempfte-gegen-stiere-braunbaeren-und-sich-selbst](https://www.spiegel.de/sport/olympia/roland-bock-der-fruehere-ringer-kaempfte-gegen-stiere-braunbaeren-und-sich-selbst-a-a9e1439c-1578-4b54-8fd9-2cb8a76235cd#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-will-design-neuer-kriegsschiffe-mitgestalten](https://www.spiegel.de/ausland/donald-trump-us-praesident-will-design-neuer-kriegsschiffe-mitgestalten-a-c39a504a-073d-437c-8f8f-68606a05b6c5#ref=rss)
-### ryanair
+* [https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel](https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel-a-0f89ea10-ae37-4017-8516-65cb63f8e965#ref=rss)
+* [https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation](https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation-a-953a5da6-5f5a-4b93-b3b3-a291f03022f5#ref=rss)
+### hasskommentare
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ryanair-soll-in-italien-255-millionen-euro-strafe-zahlen-missbrauch-der-marktmacht](https://www.spiegel.de/wirtschaft/unternehmen/ryanair-soll-in-italien-255-millionen-euro-strafe-zahlen-missbrauch-der-marktmacht-a-9e3c85ce-8632-43d5-90d6-a19fbaeb7732#ref=rss)
-### marktmacht
+* [https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel](https://www.spiegel.de/politik/us-sanktionen-fuer-hateaid-aussenministerium-nennt-einreiseverbot-nicht-akzeptabel-a-0f89ea10-ae37-4017-8516-65cb63f8e965#ref=rss)
+* [https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation](https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation-a-953a5da6-5f5a-4b93-b3b3-a291f03022f5#ref=rss)
+### weihnachtslied
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ryanair-soll-in-italien-255-millionen-euro-strafe-zahlen-missbrauch-der-marktmacht](https://www.spiegel.de/wirtschaft/unternehmen/ryanair-soll-in-italien-255-millionen-euro-strafe-zahlen-missbrauch-der-marktmacht-a-9e3c85ce-8632-43d5-90d6-a19fbaeb7732#ref=rss)
-### stern
+* [https://www.spiegel.de/ausland/stille-nacht-wie-das-weihnachtslied-zum-ersten-welthit-wurde](https://www.spiegel.de/ausland/stille-nacht-wie-das-weihnachtslied-zum-ersten-welthit-wurde-a-e6315b6d-8541-4381-90d8-791dd8b98c34#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/wissenschaft/weltall/stern-von-betlehem-koennte-laut-studie-ein-komet-gewesen-sein-flugbahn-berechnet](https://www.spiegel.de/wissenschaft/weltall/stern-von-betlehem-koennte-laut-studie-ein-komet-gewesen-sein-flugbahn-berechnet-a-442752dc-c6dd-4397-b946-02899a67df34#ref=rss)
-### betlehem
+* [https://www.spiegel.de/ausland/stille-nacht-wie-das-weihnachtslied-zum-ersten-welthit-wurde](https://www.spiegel.de/ausland/stille-nacht-wie-das-weihnachtslied-zum-ersten-welthit-wurde-a-e6315b6d-8541-4381-90d8-791dd8b98c34#ref=rss)
+* [https://www.spiegel.de/ausland/usa-sanktionen-gegen-hateaid-leiterinnen-sorgen-fuer-empoerung](https://www.spiegel.de/ausland/usa-sanktionen-gegen-hateaid-leiterinnen-sorgen-fuer-empoerung-a-02039632-ec01-40da-b8d6-2e9046f151cd#ref=rss)
+### brooks
 
-* [https://www.spiegel.de/wissenschaft/weltall/stern-von-betlehem-koennte-laut-studie-ein-komet-gewesen-sein-flugbahn-berechnet](https://www.spiegel.de/wissenschaft/weltall/stern-von-betlehem-koennte-laut-studie-ein-komet-gewesen-sein-flugbahn-berechnet-a-442752dc-c6dd-4397-b946-02899a67df34#ref=rss)
-### design
+* [https://www.spiegel.de/sport/golf/brooks-koepka-golfstar-verlaesst-liv-golf-rueckkehr-zur-pga-tour-moeglich](https://www.spiegel.de/sport/golf/brooks-koepka-golfstar-verlaesst-liv-golf-rueckkehr-zur-pga-tour-moeglich-a-afd053d9-ed31-460b-85e1-947e5afac136#ref=rss)
+### koepka
 
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-will-design-neuer-kriegsschiffe-mitgestalten](https://www.spiegel.de/ausland/donald-trump-us-praesident-will-design-neuer-kriegsschiffe-mitgestalten-a-c39a504a-073d-437c-8f8f-68606a05b6c5#ref=rss)
+* [https://www.spiegel.de/sport/golf/brooks-koepka-golfstar-verlaesst-liv-golf-rueckkehr-zur-pga-tour-moeglich](https://www.spiegel.de/sport/golf/brooks-koepka-golfstar-verlaesst-liv-golf-rueckkehr-zur-pga-tour-moeglich-a-afd053d9-ed31-460b-85e1-947e5afac136#ref=rss)
+### verlässt
+
+* [https://www.spiegel.de/sport/golf/brooks-koepka-golfstar-verlaesst-liv-golf-rueckkehr-zur-pga-tour-moeglich](https://www.spiegel.de/sport/golf/brooks-koepka-golfstar-verlaesst-liv-golf-rueckkehr-zur-pga-tour-moeglich-a-afd053d9-ed31-460b-85e1-947e5afac136#ref=rss)
+### liv
+
+* [https://www.spiegel.de/sport/golf/brooks-koepka-golfstar-verlaesst-liv-golf-rueckkehr-zur-pga-tour-moeglich](https://www.spiegel.de/sport/golf/brooks-koepka-golfstar-verlaesst-liv-golf-rueckkehr-zur-pga-tour-moeglich-a-afd053d9-ed31-460b-85e1-947e5afac136#ref=rss)
+### golf
+
+* [https://www.spiegel.de/sport/golf/brooks-koepka-golfstar-verlaesst-liv-golf-rueckkehr-zur-pga-tour-moeglich](https://www.spiegel.de/sport/golf/brooks-koepka-golfstar-verlaesst-liv-golf-rueckkehr-zur-pga-tour-moeglich-a-afd053d9-ed31-460b-85e1-947e5afac136#ref=rss)
+### pgatour
+
+* [https://www.spiegel.de/sport/golf/brooks-koepka-golfstar-verlaesst-liv-golf-rueckkehr-zur-pga-tour-moeglich](https://www.spiegel.de/sport/golf/brooks-koepka-golfstar-verlaesst-liv-golf-rueckkehr-zur-pga-tour-moeglich-a-afd053d9-ed31-460b-85e1-947e5afac136#ref=rss)
+### auto
+
+* [https://www.spiegel.de/panorama/niederlande-dieb-klaut-auto-mit-kleinen-kindern-auf-dem-ruecksitz](https://www.spiegel.de/panorama/niederlande-dieb-klaut-auto-mit-kleinen-kindern-auf-dem-ruecksitz-a-bd2e1acf-93f7-4d2e-8d56-7443a3fb24d9#ref=rss)
+### rücksitz
+
+* [https://www.spiegel.de/panorama/niederlande-dieb-klaut-auto-mit-kleinen-kindern-auf-dem-ruecksitz](https://www.spiegel.de/panorama/niederlande-dieb-klaut-auto-mit-kleinen-kindern-auf-dem-ruecksitz-a-bd2e1acf-93f7-4d2e-8d56-7443a3fb24d9#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/niederlande-dieb-klaut-auto-mit-kleinen-kindern-auf-dem-ruecksitz](https://www.spiegel.de/panorama/niederlande-dieb-klaut-auto-mit-kleinen-kindern-auf-dem-ruecksitz-a-bd2e1acf-93f7-4d2e-8d56-7443a3fb24d9#ref=rss)
+* [https://www.spiegel.de/ausland/fukushima-japan-nimmt-weltgroessten-atomreaktor-am-20-januar-wieder-in-betrieb](https://www.spiegel.de/ausland/fukushima-japan-nimmt-weltgroessten-atomreaktor-am-20-januar-wieder-in-betrieb-a-e422a966-6ddf-4453-ac4d-36b34e9d70d6#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/panorama/niederlande-dieb-klaut-auto-mit-kleinen-kindern-auf-dem-ruecksitz](https://www.spiegel.de/panorama/niederlande-dieb-klaut-auto-mit-kleinen-kindern-auf-dem-ruecksitz-a-bd2e1acf-93f7-4d2e-8d56-7443a3fb24d9#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kita-eingewoehnung-mutter-scheitert-mit-klage-auf-lohnersatz-fuer-eingewoehnungszeit](https://www.spiegel.de/panorama/bildung/kita-eingewoehnung-mutter-scheitert-mit-klage-auf-lohnersatz-fuer-eingewoehnungszeit-a-884f6d0e-7c85-49ea-8f56-ea3f2aa61181#ref=rss)
+### waldkraiburg
+
+* [https://www.spiegel.de/panorama/justiz/waldkraiburg-in-bayern-angestellter-bei-raubueberfall-angeschossen](https://www.spiegel.de/panorama/justiz/waldkraiburg-in-bayern-angestellter-bei-raubueberfall-angeschossen-a-c48e248f-09a6-4048-94b7-df5330420c42#ref=rss)
+### angeschossen
+
+* [https://www.spiegel.de/panorama/justiz/waldkraiburg-in-bayern-angestellter-bei-raubueberfall-angeschossen](https://www.spiegel.de/panorama/justiz/waldkraiburg-in-bayern-angestellter-bei-raubueberfall-angeschossen-a-c48e248f-09a6-4048-94b7-df5330420c42#ref=rss)
+### heiligabend
+
+* [https://www.spiegel.de/panorama/justiz/waldkraiburg-in-bayern-angestellter-bei-raubueberfall-angeschossen](https://www.spiegel.de/panorama/justiz/waldkraiburg-in-bayern-angestellter-bei-raubueberfall-angeschossen-a-c48e248f-09a6-4048-94b7-df5330420c42#ref=rss)
+* [https://www.spiegel.de/panorama/kalifornien-weihnachtssturm-sorgt-fuer-evakuierungen-und-ueberschwemmungsgefahr-in-los-angeles](https://www.spiegel.de/panorama/kalifornien-weihnachtssturm-sorgt-fuer-evakuierungen-und-ueberschwemmungsgefahr-in-los-angeles-a-40792a07-f1a4-4357-a29f-e69f3f6ec02f#ref=rss)
+### brief
+
+* [https://www.spiegel.de/politik/afghanistan-offener-brief-an-friedrich-merz-zur-aufnahme-von-afghanen](https://www.spiegel.de/politik/afghanistan-offener-brief-an-friedrich-merz-zur-aufnahme-von-afghanen-a-07fb5069-a874-4ae1-a5a8-00547dcb3b04#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/afghanistan-offener-brief-an-friedrich-merz-zur-aufnahme-von-afghanen](https://www.spiegel.de/politik/afghanistan-offener-brief-an-friedrich-merz-zur-aufnahme-von-afghanen-a-07fb5069-a874-4ae1-a5a8-00547dcb3b04#ref=rss)
+### afghanen
+
+* [https://www.spiegel.de/politik/afghanistan-offener-brief-an-friedrich-merz-zur-aufnahme-von-afghanen](https://www.spiegel.de/politik/afghanistan-offener-brief-an-friedrich-merz-zur-aufnahme-von-afghanen-a-07fb5069-a874-4ae1-a5a8-00547dcb3b04#ref=rss)
+### dazu
+
+* [https://www.spiegel.de/politik/afghanistan-offener-brief-an-friedrich-merz-zur-aufnahme-von-afghanen](https://www.spiegel.de/politik/afghanistan-offener-brief-an-friedrich-merz-zur-aufnahme-von-afghanen-a-07fb5069-a874-4ae1-a5a8-00547dcb3b04#ref=rss)
+* [https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine-a-c0470ba3-6c6e-4e20-846b-bb04a38977b3#ref=rss)
+### wir
+
+* [https://www.spiegel.de/politik/afghanistan-offener-brief-an-friedrich-merz-zur-aufnahme-von-afghanen](https://www.spiegel.de/politik/afghanistan-offener-brief-an-friedrich-merz-zur-aufnahme-von-afghanen-a-07fb5069-a874-4ae1-a5a8-00547dcb3b04#ref=rss)
+* [https://www.spiegel.de/familie/stressige-weihnachten-wie-wir-uns-das-fest-schoen-machen-kolumne](https://www.spiegel.de/familie/stressige-weihnachten-wie-wir-uns-das-fest-schoen-machen-kolumne-a-4e1459b6-5392-4ef7-a760-9d3de1392a6e#ref=rss)
+### uns
+
+* [https://www.spiegel.de/politik/afghanistan-offener-brief-an-friedrich-merz-zur-aufnahme-von-afghanen](https://www.spiegel.de/politik/afghanistan-offener-brief-an-friedrich-merz-zur-aufnahme-von-afghanen-a-07fb5069-a874-4ae1-a5a8-00547dcb3b04#ref=rss)
+* [https://www.spiegel.de/familie/stressige-weihnachten-wie-wir-uns-das-fest-schoen-machen-kolumne](https://www.spiegel.de/familie/stressige-weihnachten-wie-wir-uns-das-fest-schoen-machen-kolumne-a-4e1459b6-5392-4ef7-a760-9d3de1392a6e#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/panorama/norwegen-mette-marit-schmueckt-den-weihnachtsbaum-ohne-sohn](https://www.spiegel.de/panorama/norwegen-mette-marit-schmueckt-den-weihnachtsbaum-ohne-sohn-a-c86ca3a0-d72d-4e9a-86de-bf4d9added4f#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/panorama/norwegen-mette-marit-schmueckt-den-weihnachtsbaum-ohne-sohn](https://www.spiegel.de/panorama/norwegen-mette-marit-schmueckt-den-weihnachtsbaum-ohne-sohn-a-c86ca3a0-d72d-4e9a-86de-bf4d9added4f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-2026-experten-tipps-fuer-ihre-finanzen-im-neuen-jahr](https://www.spiegel.de/wirtschaft/service/geldanlage-2026-experten-tipps-fuer-ihre-finanzen-im-neuen-jahr-a-6a12eadc-da61-4079-9473-c41250113fc4#ref=rss)
+### fukushima
+
+* [https://www.spiegel.de/ausland/fukushima-japan-nimmt-weltgroessten-atomreaktor-am-20-januar-wieder-in-betrieb](https://www.spiegel.de/ausland/fukushima-japan-nimmt-weltgroessten-atomreaktor-am-20-januar-wieder-in-betrieb-a-e422a966-6ddf-4453-ac4d-36b34e9d70d6#ref=rss)
+### japan
+
+* [https://www.spiegel.de/ausland/fukushima-japan-nimmt-weltgroessten-atomreaktor-am-20-januar-wieder-in-betrieb](https://www.spiegel.de/ausland/fukushima-japan-nimmt-weltgroessten-atomreaktor-am-20-januar-wieder-in-betrieb-a-e422a966-6ddf-4453-ac4d-36b34e9d70d6#ref=rss)
+### gesellschaft
+
+* [https://www.spiegel.de/politik/spd-linke-wollen-gegen-buergergeld-reform-auf-die-strasse](https://www.spiegel.de/politik/spd-linke-wollen-gegen-buergergeld-reform-auf-die-strasse-a-69c7db24-e81d-402c-8fb7-9df0bc6c6941#ref=rss)
+* [https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine-a-c0470ba3-6c6e-4e20-846b-bb04a38977b3#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-hilft-drusen-in-syrien-laut-bericht-mit-waffen-und-viel-geld](https://www.spiegel.de/ausland/israel-hilft-drusen-in-syrien-laut-bericht-mit-waffen-und-viel-geld-a-3a6704ad-2aba-4b71-a1d6-7d157cb6aca8#ref=rss)
+### syrien
+
+* [https://www.spiegel.de/ausland/israel-hilft-drusen-in-syrien-laut-bericht-mit-waffen-und-viel-geld](https://www.spiegel.de/ausland/israel-hilft-drusen-in-syrien-laut-bericht-mit-waffen-und-viel-geld-a-3a6704ad-2aba-4b71-a1d6-7d157cb6aca8#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/israel-hilft-drusen-in-syrien-laut-bericht-mit-waffen-und-viel-geld](https://www.spiegel.de/ausland/israel-hilft-drusen-in-syrien-laut-bericht-mit-waffen-und-viel-geld-a-3a6704ad-2aba-4b71-a1d6-7d157cb6aca8#ref=rss)
+### bericht
+
+* [https://www.spiegel.de/ausland/israel-hilft-drusen-in-syrien-laut-bericht-mit-waffen-und-viel-geld](https://www.spiegel.de/ausland/israel-hilft-drusen-in-syrien-laut-bericht-mit-waffen-und-viel-geld-a-3a6704ad-2aba-4b71-a1d6-7d157cb6aca8#ref=rss)
+### bekommen
+
+* [https://www.spiegel.de/ausland/israel-hilft-drusen-in-syrien-laut-bericht-mit-waffen-und-viel-geld](https://www.spiegel.de/ausland/israel-hilft-drusen-in-syrien-laut-bericht-mit-waffen-und-viel-geld-a-3a6704ad-2aba-4b71-a1d6-7d157cb6aca8#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kita-eingewoehnung-mutter-scheitert-mit-klage-auf-lohnersatz-fuer-eingewoehnungszeit](https://www.spiegel.de/panorama/bildung/kita-eingewoehnung-mutter-scheitert-mit-klage-auf-lohnersatz-fuer-eingewoehnungszeit-a-884f6d0e-7c85-49ea-8f56-ea3f2aa61181#ref=rss)
+### sebastian
+
+* [https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt](https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt-a-d9b2c75a-1a91-4ff6-a536-bdd717fd4d5f#ref=rss)
+### hertner
+
+* [https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt](https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt-a-d9b2c75a-1a91-4ff6-a536-bdd717fd4d5f#ref=rss)
+### deutscher
+
+* [https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt](https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt-a-d9b2c75a-1a91-4ff6-a536-bdd717fd4d5f#ref=rss)
+* [https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation](https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation-a-953a5da6-5f5a-4b93-b3b3-a291f03022f5#ref=rss)
+### sesselliftunglück
+
+* [https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt](https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt-a-d9b2c75a-1a91-4ff6-a536-bdd717fd4d5f#ref=rss)
+### tödlich
+
+* [https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt](https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt-a-d9b2c75a-1a91-4ff6-a536-bdd717fd4d5f#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-libyens-armeechef-mohammed-al-haddad-bei-flugzeugabsturz-toedlich-verunglueckt](https://www.spiegel.de/ausland/tuerkei-libyens-armeechef-mohammed-al-haddad-bei-flugzeugabsturz-toedlich-verunglueckt-a-29248128-b089-4712-ac64-cc2ccffa1c6a#ref=rss)
+### verunglückt
+
+* [https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt](https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt-a-d9b2c75a-1a91-4ff6-a536-bdd717fd4d5f#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-libyens-armeechef-mohammed-al-haddad-bei-flugzeugabsturz-toedlich-verunglueckt](https://www.spiegel.de/ausland/tuerkei-libyens-armeechef-mohammed-al-haddad-bei-flugzeugabsturz-toedlich-verunglueckt-a-29248128-b089-4712-ac64-cc2ccffa1c6a#ref=rss)
+### ums
+
+* [https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt](https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt-a-d9b2c75a-1a91-4ff6-a536-bdd717fd4d5f#ref=rss)
+* [https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes](https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes-a-e66ea0af-34fe-46fb-962e-d8fe1bc6c769#ref=rss)
+### leben
+
+* [https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt](https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt-a-d9b2c75a-1a91-4ff6-a536-bdd717fd4d5f#ref=rss)
+* [https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes](https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes-a-e66ea0af-34fe-46fb-962e-d8fe1bc6c769#ref=rss)
+### gekommen
+
+* [https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt](https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt-a-d9b2c75a-1a91-4ff6-a536-bdd717fd4d5f#ref=rss)
+* [https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes](https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes-a-e66ea0af-34fe-46fb-962e-d8fe1bc6c769#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt](https://www.spiegel.de/sport/fussball/sebastian-hertner-deutscher-ex-zweitligaprofi-bei-sessellift-unglueck-toedlich-verunglueckt-a-d9b2c75a-1a91-4ff6-a536-bdd717fd4d5f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-oberster-gerichtshof-stoppt-plaene-fuer-nationalgarde-in-chicago](https://www.spiegel.de/ausland/donald-trump-oberster-gerichtshof-stoppt-plaene-fuer-nationalgarde-in-chicago-a-bde53c68-11e4-4925-9d23-f34fa5800d4e#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/bildung/kita-eingewoehnung-mutter-scheitert-mit-klage-auf-lohnersatz-fuer-eingewoehnungszeit](https://www.spiegel.de/panorama/bildung/kita-eingewoehnung-mutter-scheitert-mit-klage-auf-lohnersatz-fuer-eingewoehnungszeit-a-884f6d0e-7c85-49ea-8f56-ea3f2aa61181#ref=rss)
+* [https://www.spiegel.de/familie/stressige-weihnachten-wie-wir-uns-das-fest-schoen-machen-kolumne](https://www.spiegel.de/familie/stressige-weihnachten-wie-wir-uns-das-fest-schoen-machen-kolumne-a-4e1459b6-5392-4ef7-a760-9d3de1392a6e#ref=rss)
+### lohnersatz
+
+* [https://www.spiegel.de/panorama/bildung/kita-eingewoehnung-mutter-scheitert-mit-klage-auf-lohnersatz-fuer-eingewoehnungszeit](https://www.spiegel.de/panorama/bildung/kita-eingewoehnung-mutter-scheitert-mit-klage-auf-lohnersatz-fuer-eingewoehnungszeit-a-884f6d0e-7c85-49ea-8f56-ea3f2aa61181#ref=rss)
+### arno
+
+* [https://www.spiegel.de/sport/darts-wm-2026-arno-merk-wirft-ex-weltmeister-peter-wright-aus-dem-turnier](https://www.spiegel.de/sport/darts-wm-2026-arno-merk-wirft-ex-weltmeister-peter-wright-aus-dem-turnier-a-91ff58b4-536d-470f-bb30-8f6ee1a1e839#ref=rss)
+### merk
+
+* [https://www.spiegel.de/sport/darts-wm-2026-arno-merk-wirft-ex-weltmeister-peter-wright-aus-dem-turnier](https://www.spiegel.de/sport/darts-wm-2026-arno-merk-wirft-ex-weltmeister-peter-wright-aus-dem-turnier-a-91ff58b4-536d-470f-bb30-8f6ee1a1e839#ref=rss)
+### peter
+
+* [https://www.spiegel.de/sport/darts-wm-2026-arno-merk-wirft-ex-weltmeister-peter-wright-aus-dem-turnier](https://www.spiegel.de/sport/darts-wm-2026-arno-merk-wirft-ex-weltmeister-peter-wright-aus-dem-turnier-a-91ff58b4-536d-470f-bb30-8f6ee1a1e839#ref=rss)
+### wright
+
+* [https://www.spiegel.de/sport/darts-wm-2026-arno-merk-wirft-ex-weltmeister-peter-wright-aus-dem-turnier](https://www.spiegel.de/sport/darts-wm-2026-arno-merk-wirft-ex-weltmeister-peter-wright-aus-dem-turnier-a-91ff58b4-536d-470f-bb30-8f6ee1a1e839#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes](https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes-a-e66ea0af-34fe-46fb-962e-d8fe1bc6c769#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-xiv-ruft-zu-weltweiter-weihnachts-waffenruhe-auf](https://www.spiegel.de/ausland/papst-leo-xiv-ruft-zu-weltweiter-weihnachts-waffenruhe-auf-a-b714102c-0e0d-43c8-a479-48c2c1244844#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes](https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes-a-e66ea0af-34fe-46fb-962e-d8fe1bc6c769#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes](https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes-a-e66ea0af-34fe-46fb-962e-d8fe1bc6c769#ref=rss)
+### wo
+
+* [https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes](https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes-a-e66ea0af-34fe-46fb-962e-d8fe1bc6c769#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-2026-experten-tipps-fuer-ihre-finanzen-im-neuen-jahr](https://www.spiegel.de/wirtschaft/service/geldanlage-2026-experten-tipps-fuer-ihre-finanzen-im-neuen-jahr-a-6a12eadc-da61-4079-9473-c41250113fc4#ref=rss)
+### general
+
+* [https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes](https://www.spiegel.de/ausland/russland-polizisten-sterben-in-moskau-bei-detonation-eines-sprengsatzes-a-e66ea0af-34fe-46fb-962e-d8fe1bc6c769#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-libyens-armeechef-mohammed-al-haddad-bei-flugzeugabsturz-toedlich-verunglueckt](https://www.spiegel.de/ausland/tuerkei-libyens-armeechef-mohammed-al-haddad-bei-flugzeugabsturz-toedlich-verunglueckt-a-29248128-b089-4712-ac64-cc2ccffa1c6a#ref=rss)
+### seltene
+
+* [https://www.spiegel.de/wirtschaft/seltene-erden-dieser-mann-will-chinas-vormacht-brechen](https://www.spiegel.de/wirtschaft/seltene-erden-dieser-mann-will-chinas-vormacht-brechen-a-fb86f4b2-cb49-4a57-b092-b2c7f992e19e#ref=rss)
+### erden
+
+* [https://www.spiegel.de/wirtschaft/seltene-erden-dieser-mann-will-chinas-vormacht-brechen](https://www.spiegel.de/wirtschaft/seltene-erden-dieser-mann-will-chinas-vormacht-brechen-a-fb86f4b2-cb49-4a57-b092-b2c7f992e19e#ref=rss)
+### parlament
+
+* [https://www.spiegel.de/ausland/frankreich-parlament-findet-notloesung-im-haushaltsstreit](https://www.spiegel.de/ausland/frankreich-parlament-findet-notloesung-im-haushaltsstreit-a-8c06e4c6-04a1-4f5c-9be4-1b2620e328b7#ref=rss)
+### preis
+
+* [https://www.spiegel.de/ausland/frankreich-parlament-findet-notloesung-im-haushaltsstreit](https://www.spiegel.de/ausland/frankreich-parlament-findet-notloesung-im-haushaltsstreit-a-8c06e4c6-04a1-4f5c-9be4-1b2620e328b7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/weniger-bewegungsfreiheit-fuer-fluechtlinge-da-zoffen-sich-spd-und-union](https://www.spiegel.de/politik/deutschland/weniger-bewegungsfreiheit-fuer-fluechtlinge-da-zoffen-sich-spd-und-union-a-9641b551-daeb-4b1d-9796-a7a8c63e543a#ref=rss)
+### duftkerzen
+
+* [https://www.spiegel.de/wissenschaft/medizin/duftkerzen-wie-schaedlich-sind-sie-fuer-die-gesundheit](https://www.spiegel.de/wissenschaft/medizin/duftkerzen-wie-schaedlich-sind-sie-fuer-die-gesundheit-a-0792b570-3dcd-4625-9813-67a9ef796a96#ref=rss)
+### gerichtshof
+
+* [https://www.spiegel.de/ausland/donald-trump-oberster-gerichtshof-stoppt-plaene-fuer-nationalgarde-in-chicago](https://www.spiegel.de/ausland/donald-trump-oberster-gerichtshof-stoppt-plaene-fuer-nationalgarde-in-chicago-a-bde53c68-11e4-4925-9d23-f34fa5800d4e#ref=rss)
+### pläne
+
+* [https://www.spiegel.de/ausland/donald-trump-oberster-gerichtshof-stoppt-plaene-fuer-nationalgarde-in-chicago](https://www.spiegel.de/ausland/donald-trump-oberster-gerichtshof-stoppt-plaene-fuer-nationalgarde-in-chicago-a-bde53c68-11e4-4925-9d23-f34fa5800d4e#ref=rss)
+### chicago
+
+* [https://www.spiegel.de/ausland/donald-trump-oberster-gerichtshof-stoppt-plaene-fuer-nationalgarde-in-chicago](https://www.spiegel.de/ausland/donald-trump-oberster-gerichtshof-stoppt-plaene-fuer-nationalgarde-in-chicago-a-bde53c68-11e4-4925-9d23-f34fa5800d4e#ref=rss)
+### finanzen
+
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-2026-experten-tipps-fuer-ihre-finanzen-im-neuen-jahr](https://www.spiegel.de/wirtschaft/service/geldanlage-2026-experten-tipps-fuer-ihre-finanzen-im-neuen-jahr-a-6a12eadc-da61-4079-9473-c41250113fc4#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-2026-experten-tipps-fuer-ihre-finanzen-im-neuen-jahr](https://www.spiegel.de/wirtschaft/service/geldanlage-2026-experten-tipps-fuer-ihre-finanzen-im-neuen-jahr-a-6a12eadc-da61-4079-9473-c41250113fc4#ref=rss)
+* [https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine-a-c0470ba3-6c6e-4e20-846b-bb04a38977b3#ref=rss)
+### los
+
+* [https://www.spiegel.de/panorama/kalifornien-weihnachtssturm-sorgt-fuer-evakuierungen-und-ueberschwemmungsgefahr-in-los-angeles](https://www.spiegel.de/panorama/kalifornien-weihnachtssturm-sorgt-fuer-evakuierungen-und-ueberschwemmungsgefahr-in-los-angeles-a-40792a07-f1a4-4357-a29f-e69f3f6ec02f#ref=rss)
+### angeles
+
+* [https://www.spiegel.de/panorama/kalifornien-weihnachtssturm-sorgt-fuer-evakuierungen-und-ueberschwemmungsgefahr-in-los-angeles](https://www.spiegel.de/panorama/kalifornien-weihnachtssturm-sorgt-fuer-evakuierungen-und-ueberschwemmungsgefahr-in-los-angeles-a-40792a07-f1a4-4357-a29f-e69f3f6ec02f#ref=rss)
+### viele
+
+* [https://www.spiegel.de/panorama/kalifornien-weihnachtssturm-sorgt-fuer-evakuierungen-und-ueberschwemmungsgefahr-in-los-angeles](https://www.spiegel.de/panorama/kalifornien-weihnachtssturm-sorgt-fuer-evakuierungen-und-ueberschwemmungsgefahr-in-los-angeles-a-40792a07-f1a4-4357-a29f-e69f3f6ec02f#ref=rss)
+* [https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine-a-c0470ba3-6c6e-4e20-846b-bb04a38977b3#ref=rss)
+### sanktionen
+
+* [https://www.spiegel.de/ausland/usa-sanktionen-gegen-hateaid-leiterinnen-sorgen-fuer-empoerung](https://www.spiegel.de/ausland/usa-sanktionen-gegen-hateaid-leiterinnen-sorgen-fuer-empoerung-a-02039632-ec01-40da-b8d6-2e9046f151cd#ref=rss)
+* [https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation](https://www.spiegel.de/netzwelt/hateaid-usa-sanktionieren-fuehrung-von-deutscher-organisation-a-953a5da6-5f5a-4b93-b3b3-a291f03022f5#ref=rss)
+### jeffrey
+
+* [https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-was-im-frisch-veroeffentlichten-datensatz-ueber-den-praesidenten-steht](https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-was-im-frisch-veroeffentlichten-datensatz-ueber-den-praesidenten-steht-a-3b9716de-79b7-4e82-af0c-e081b986c157#ref=rss)
+### epstein
+
+* [https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-was-im-frisch-veroeffentlichten-datensatz-ueber-den-praesidenten-steht](https://www.spiegel.de/ausland/donald-trump-und-jeffrey-epstein-was-im-frisch-veroeffentlichten-datensatz-ueber-den-praesidenten-steht-a-3b9716de-79b7-4e82-af0c-e081b986c157#ref=rss)
+### weihnachtsansprache
+
+* [https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine-a-c0470ba3-6c6e-4e20-846b-bb04a38977b3#ref=rss)
+### ruft
+
+* [https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine-a-c0470ba3-6c6e-4e20-846b-bb04a38977b3#ref=rss)
+* [https://www.spiegel.de/ausland/papst-leo-xiv-ruft-zu-weltweiter-weihnachts-waffenruhe-auf](https://www.spiegel.de/ausland/papst-leo-xiv-ruft-zu-weltweiter-weihnachts-waffenruhe-auf-a-b714102c-0e0d-43c8-a479-48c2c1244844#ref=rss)
+### andere
+
+* [https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine](https://www.spiegel.de/politik/weihnachten-frank-walter-steinmeier-wirbt-in-weihnachtsansprache-fuer-solidaritaet-mit-der-ukraine-a-c0470ba3-6c6e-4e20-846b-bb04a38977b3#ref=rss)
+### papst
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-ruft-zu-weltweiter-weihnachts-waffenruhe-auf](https://www.spiegel.de/ausland/papst-leo-xiv-ruft-zu-weltweiter-weihnachts-waffenruhe-auf-a-b714102c-0e0d-43c8-a479-48c2c1244844#ref=rss)
+### leo
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-ruft-zu-weltweiter-weihnachts-waffenruhe-auf](https://www.spiegel.de/ausland/papst-leo-xiv-ruft-zu-weltweiter-weihnachts-waffenruhe-auf-a-b714102c-0e0d-43c8-a479-48c2c1244844#ref=rss)
+### xiv
+
+* [https://www.spiegel.de/ausland/papst-leo-xiv-ruft-zu-weltweiter-weihnachts-waffenruhe-auf](https://www.spiegel.de/ausland/papst-leo-xiv-ruft-zu-weltweiter-weihnachts-waffenruhe-auf-a-b714102c-0e0d-43c8-a479-48c2c1244844#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/ausland/tuerkei-libyens-armeechef-mohammed-al-haddad-bei-flugzeugabsturz-toedlich-verunglueckt](https://www.spiegel.de/ausland/tuerkei-libyens-armeechef-mohammed-al-haddad-bei-flugzeugabsturz-toedlich-verunglueckt-a-29248128-b089-4712-ac64-cc2ccffa1c6a#ref=rss)
+### mohammed
+
+* [https://www.spiegel.de/ausland/tuerkei-libyens-armeechef-mohammed-al-haddad-bei-flugzeugabsturz-toedlich-verunglueckt](https://www.spiegel.de/ausland/tuerkei-libyens-armeechef-mohammed-al-haddad-bei-flugzeugabsturz-toedlich-verunglueckt-a-29248128-b089-4712-ac64-cc2ccffa1c6a#ref=rss)
+### alhaddad
+
+* [https://www.spiegel.de/ausland/tuerkei-libyens-armeechef-mohammed-al-haddad-bei-flugzeugabsturz-toedlich-verunglueckt](https://www.spiegel.de/ausland/tuerkei-libyens-armeechef-mohammed-al-haddad-bei-flugzeugabsturz-toedlich-verunglueckt-a-29248128-b089-4712-ac64-cc2ccffa1c6a#ref=rss)
+### badenbaden
+
+* [https://www.spiegel.de/panorama/justiz/baden-baden-franz-burda-von-vergewaltigungsvorwurf-freigesprochen](https://www.spiegel.de/panorama/justiz/baden-baden-franz-burda-von-vergewaltigungsvorwurf-freigesprochen-a-8d845cad-bb3f-4f65-ae18-0cb1977f4cb4#ref=rss)
+### franz
+
+* [https://www.spiegel.de/panorama/justiz/baden-baden-franz-burda-von-vergewaltigungsvorwurf-freigesprochen](https://www.spiegel.de/panorama/justiz/baden-baden-franz-burda-von-vergewaltigungsvorwurf-freigesprochen-a-8d845cad-bb3f-4f65-ae18-0cb1977f4cb4#ref=rss)
+### burda
+
+* [https://www.spiegel.de/panorama/justiz/baden-baden-franz-burda-von-vergewaltigungsvorwurf-freigesprochen](https://www.spiegel.de/panorama/justiz/baden-baden-franz-burda-von-vergewaltigungsvorwurf-freigesprochen-a-8d845cad-bb3f-4f65-ae18-0cb1977f4cb4#ref=rss)
+### aussage
+
+* [https://www.spiegel.de/panorama/justiz/baden-baden-franz-burda-von-vergewaltigungsvorwurf-freigesprochen](https://www.spiegel.de/panorama/justiz/baden-baden-franz-burda-von-vergewaltigungsvorwurf-freigesprochen-a-8d845cad-bb3f-4f65-ae18-0cb1977f4cb4#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/weniger-bewegungsfreiheit-fuer-fluechtlinge-da-zoffen-sich-spd-und-union](https://www.spiegel.de/politik/deutschland/weniger-bewegungsfreiheit-fuer-fluechtlinge-da-zoffen-sich-spd-und-union-a-9641b551-daeb-4b1d-9796-a7a8c63e543a#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/weniger-bewegungsfreiheit-fuer-fluechtlinge-da-zoffen-sich-spd-und-union](https://www.spiegel.de/politik/deutschland/weniger-bewegungsfreiheit-fuer-fluechtlinge-da-zoffen-sich-spd-und-union-a-9641b551-daeb-4b1d-9796-a7a8c63e543a#ref=rss)
 
