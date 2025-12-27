@@ -4,266 +4,305 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/start/janas-kleine-buchhandlung-jana-brammer-ueber-den-weg-zum-buchcafe-calibri](https://www.spiegel.de/start/janas-kleine-buchhandlung-jana-brammer-ueber-den-weg-zum-buchcafe-calibri-a-32008780-7a6c-4898-a82c-b9ad12b77892#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifo-institut-clemens-fuest-warnt-vor-dauerstagnation-in-deutschland](https://www.spiegel.de/wirtschaft/ifo-institut-clemens-fuest-warnt-vor-dauerstagnation-in-deutschland-a-d1704bb4-fd74-40e4-8886-64236c2a9ba1#ref=rss)
-* [https://www.spiegel.de/panorama/weihnachtsbaeume-entsorgung-nach-dem-fest-tipps-und-ungewoehnliche-methoden](https://www.spiegel.de/panorama/weihnachtsbaeume-entsorgung-nach-dem-fest-tipps-und-ungewoehnliche-methoden-a-39fd2660-a12c-4d96-86d2-d011d55369f6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/deutschland-richterbund-kritisiert-zu-lasche-massnahmen-gegen-organisierte-kriminalitaet](https://www.spiegel.de/panorama/justiz/deutschland-richterbund-kritisiert-zu-lasche-massnahmen-gegen-organisierte-kriminalitaet-a-99594450-8bc7-4af1-94e4-39ce2b8dc9ff#ref=rss)
-### welt
-
-* [https://www.spiegel.de/panorama/bilderstrecke-so-feierte-die-welt-weihnachten](https://www.spiegel.de/panorama/bilderstrecke-so-feierte-die-welt-weihnachten-a-642cf4b6-db33-46a3-a52e-62cc6c7a2a4a#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-aka-jimmy-donaldson-wie-er-in-zehn-jahren-zum-groessten-entertainer-der-welt-wurde](https://www.spiegel.de/netzwelt/web/mrbeast-aka-jimmy-donaldson-wie-er-in-zehn-jahren-zum-groessten-entertainer-der-welt-wurde-a-a6ee727b-911d-40f9-a299-d1b686325725#ref=rss)
-* [https://www.spiegel.de/kultur/stranger-things-die-letzten-folgen-vor-dem-finale-bei-netflix-wo-ein-will-ist-ist-auch-ein-weg](https://www.spiegel.de/kultur/stranger-things-die-letzten-folgen-vor-dem-finale-bei-netflix-wo-ein-will-ist-ist-auch-ein-weg-a-9707b77c-73e3-4187-b90a-90cf351c27bc#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/bilderstrecke-so-feierte-die-welt-weihnachten](https://www.spiegel.de/panorama/bilderstrecke-so-feierte-die-welt-weihnachten-a-642cf4b6-db33-46a3-a52e-62cc6c7a2a4a#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-aka-jimmy-donaldson-wie-er-in-zehn-jahren-zum-groessten-entertainer-der-welt-wurde](https://www.spiegel.de/netzwelt/web/mrbeast-aka-jimmy-donaldson-wie-er-in-zehn-jahren-zum-groessten-entertainer-der-welt-wurde-a-a6ee727b-911d-40f9-a299-d1b686325725#ref=rss)
-* [https://www.spiegel.de/ausland/jeffrey-epstein-user-entschwaerzen-epstein-files](https://www.spiegel.de/ausland/jeffrey-epstein-user-entschwaerzen-epstein-files-a-2c9a5ce2-6169-452c-980c-2f1a351ed06a#ref=rss)
-* [https://www.spiegel.de/panorama/japan-mindestens-14-verletzte-bei-messerangriff-in-fabrik](https://www.spiegel.de/panorama/japan-mindestens-14-verletzte-bei-messerangriff-in-fabrik-a-f4c97a62-0deb-40e0-a65e-f0d3ccb44bc1#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-aka-jimmy-donaldson-wie-er-in-zehn-jahren-zum-groessten-entertainer-der-welt-wurde](https://www.spiegel.de/netzwelt/web/mrbeast-aka-jimmy-donaldson-wie-er-in-zehn-jahren-zum-groessten-entertainer-der-welt-wurde-a-a6ee727b-911d-40f9-a299-d1b686325725#ref=rss)
-* [https://www.spiegel.de/panorama/weihnachtsbaeume-entsorgung-nach-dem-fest-tipps-und-ungewoehnliche-methoden](https://www.spiegel.de/panorama/weihnachtsbaeume-entsorgung-nach-dem-fest-tipps-und-ungewoehnliche-methoden-a-39fd2660-a12c-4d96-86d2-d011d55369f6#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-zerstoerung-61-millionen-tonnen-schutt-neun-funktionierende-bagger](https://www.spiegel.de/ausland/gaza-zerstoerung-61-millionen-tonnen-schutt-neun-funktionierende-bagger-a-9ec8ba5f-2545-40a3-ade2-40f8e6df4a68#ref=rss)
-* [https://www.spiegel.de/ausland/najib-razak-malaysias-ex-premier-wegen-veruntreuung-von-mehr-als-500-millionen-dollar-verurteilt](https://www.spiegel.de/ausland/najib-razak-malaysias-ex-premier-wegen-veruntreuung-von-mehr-als-500-millionen-dollar-verurteilt-a-59f4097c-4003-47de-8e5a-325becc33c8b#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/kultur/vereinbarkeit-von-familie-und-karriere-das-baby-hat-ein-jahr-mit-mir-im-buero-gelebt](https://www.spiegel.de/kultur/vereinbarkeit-von-familie-und-karriere-das-baby-hat-ein-jahr-mit-mir-im-buero-gelebt-a-64ffe445-bd1a-435c-8d1f-8d9b0e6ad373#ref=rss)
-* [https://www.spiegel.de/ausland/friedensverhandlungen-mit-russland-vieles-kann-noch-vor-dem-neuen-jahr-entschieden-werden](https://www.spiegel.de/ausland/friedensverhandlungen-mit-russland-vieles-kann-noch-vor-dem-neuen-jahr-entschieden-werden-a-c390badc-78cb-448d-928b-5fa3ba8612b6#ref=rss)
-* [https://www.spiegel.de/panorama/weihnachtsbaeume-entsorgung-nach-dem-fest-tipps-und-ungewoehnliche-methoden](https://www.spiegel.de/panorama/weihnachtsbaeume-entsorgung-nach-dem-fest-tipps-und-ungewoehnliche-methoden-a-39fd2660-a12c-4d96-86d2-d011d55369f6#ref=rss)
-* [https://www.spiegel.de/kultur/max-strohe-das-sind-die-kulinarischen-prognosen-des-sternekochs-fuer-2026](https://www.spiegel.de/kultur/max-strohe-das-sind-die-kulinarischen-prognosen-des-sternekochs-fuer-2026-a-3b0ee928-9c31-4623-bb5d-a0645ad26f34#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-user-entschwaerzen-epstein-files](https://www.spiegel.de/ausland/jeffrey-epstein-user-entschwaerzen-epstein-files-a-2c9a5ce2-6169-452c-980c-2f1a351ed06a#ref=rss)
-* [https://www.spiegel.de/ausland/uiguren-schuften-in-china-zwangsarbeiter-fuer-deutsche-konzerne-podcast](https://www.spiegel.de/ausland/uiguren-schuften-in-china-zwangsarbeiter-fuer-deutsche-konzerne-podcast-a-baa5b48b-db15-46e5-a9bd-657784ae5dbc#ref=rss)
-* [https://www.spiegel.de/panorama/leute/kevin-allein-zu-haus-macaulay-culkins-kinder-wissen-nicht-dass-ihr-vater-kevin-war](https://www.spiegel.de/panorama/leute/kevin-allein-zu-haus-macaulay-culkins-kinder-wissen-nicht-dass-ihr-vater-kevin-war-a-c28ee308-502c-4258-87c3-4d4674bbf197#ref=rss)
-* [https://www.spiegel.de/ausland/najib-razak-malaysias-ex-premier-wegen-veruntreuung-von-mehr-als-500-millionen-dollar-verurteilt](https://www.spiegel.de/ausland/najib-razak-malaysias-ex-premier-wegen-veruntreuung-von-mehr-als-500-millionen-dollar-verurteilt-a-59f4097c-4003-47de-8e5a-325becc33c8b#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/start/janas-kleine-buchhandlung-jana-brammer-ueber-den-weg-zum-buchcafe-calibri](https://www.spiegel.de/start/janas-kleine-buchhandlung-jana-brammer-ueber-den-weg-zum-buchcafe-calibri-a-32008780-7a6c-4898-a82c-b9ad12b77892#ref=rss)
-* [https://www.spiegel.de/auto/muelheim-an-der-ruhr-toedliches-rasen-der-crash-der-alles-veraendert-hat](https://www.spiegel.de/auto/muelheim-an-der-ruhr-toedliches-rasen-der-crash-der-alles-veraendert-hat-a-b65585de-2736-4103-991d-d0224a7593a6#ref=rss)
-* [https://www.spiegel.de/ausland/najib-razak-malaysias-ex-premier-wegen-veruntreuung-von-mehr-als-500-millionen-dollar-verurteilt](https://www.spiegel.de/ausland/najib-razak-malaysias-ex-premier-wegen-veruntreuung-von-mehr-als-500-millionen-dollar-verurteilt-a-59f4097c-4003-47de-8e5a-325becc33c8b#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/start/janas-kleine-buchhandlung-jana-brammer-ueber-den-weg-zum-buchcafe-calibri](https://www.spiegel.de/start/janas-kleine-buchhandlung-jana-brammer-ueber-den-weg-zum-buchcafe-calibri-a-32008780-7a6c-4898-a82c-b9ad12b77892#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mrbeast-aka-jimmy-donaldson-wie-er-in-zehn-jahren-zum-groessten-entertainer-der-welt-wurde](https://www.spiegel.de/netzwelt/web/mrbeast-aka-jimmy-donaldson-wie-er-in-zehn-jahren-zum-groessten-entertainer-der-welt-wurde-a-a6ee727b-911d-40f9-a299-d1b686325725#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-zerstoerung-61-millionen-tonnen-schutt-neun-funktionierende-bagger](https://www.spiegel.de/ausland/gaza-zerstoerung-61-millionen-tonnen-schutt-neun-funktionierende-bagger-a-9ec8ba5f-2545-40a3-ade2-40f8e6df4a68#ref=rss)
-### fans
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-aka-jimmy-donaldson-wie-er-in-zehn-jahren-zum-groessten-entertainer-der-welt-wurde](https://www.spiegel.de/netzwelt/web/mrbeast-aka-jimmy-donaldson-wie-er-in-zehn-jahren-zum-groessten-entertainer-der-welt-wurde-a-a6ee727b-911d-40f9-a299-d1b686325725#ref=rss)
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-praesident-mathias-beck-nach-uefa-und-dfb-strafen-wuetend-auf-eigene-fans](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-praesident-mathias-beck-nach-uefa-und-dfb-strafen-wuetend-auf-eigene-fans-a-8ac69dd6-2a8a-413f-9071-f14cf0d9730c#ref=rss)
-### großen
-
-* [https://www.spiegel.de/kultur/babylon-berlin-breaking-bad-und-co-wer-serien-schaut-hat-die-kontrolle-ueber-seine-lebenszeit-verloren](https://www.spiegel.de/kultur/babylon-berlin-breaking-bad-und-co-wer-serien-schaut-hat-die-kontrolle-ueber-seine-lebenszeit-verloren-a-d74232f9-4056-410f-ad4a-c3e1aa08b568#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutscher-weinanbau-steckt-laut-verband-in-historischer-krise](https://www.spiegel.de/wirtschaft/unternehmen/deutscher-weinanbau-steckt-laut-verband-in-historischer-krise-a-673e4006-4cfa-4f72-82d7-a11db3e1ad52#ref=rss)
-* [https://www.spiegel.de/ausland/najib-razak-malaysias-ex-premier-wegen-veruntreuung-von-mehr-als-500-millionen-dollar-verurteilt](https://www.spiegel.de/ausland/najib-razak-malaysias-ex-premier-wegen-veruntreuung-von-mehr-als-500-millionen-dollar-verurteilt-a-59f4097c-4003-47de-8e5a-325becc33c8b#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-frau-sticht-auf-freund-ihrer-tochter-ein](https://www.spiegel.de/panorama/nordrhein-westfalen-frau-sticht-auf-freund-ihrer-tochter-ein-a-39788e02-0325-4c56-93e7-30eeb500d0a5#ref=rss)
-* [https://www.spiegel.de/auto/muelheim-an-der-ruhr-toedliches-rasen-der-crash-der-alles-veraendert-hat](https://www.spiegel.de/auto/muelheim-an-der-ruhr-toedliches-rasen-der-crash-der-alles-veraendert-hat-a-b65585de-2736-4103-991d-d0224a7593a6#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-das-verlangen-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-das-verlangen-im-schnellcheck-a-ec73aa38-8cdb-4581-a156-0a37d46838fb#ref=rss)
-* [https://www.spiegel.de/panorama/circus-krone-tierschuetzer-stoeren-premiere](https://www.spiegel.de/panorama/circus-krone-tierschuetzer-stoeren-premiere-a-d2c0c4e1-f937-4190-94cc-1b6528a73440#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-surfer-brechen-versuch-zur-rettung-der-eisbach-welle-vorerst-ab](https://www.spiegel.de/panorama/gesellschaft/muenchen-surfer-brechen-versuch-zur-rettung-der-eisbach-welle-vorerst-ab-a-0c37576b-bc0c-4373-84c2-d7947e0e8f59#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/kultur/vereinbarkeit-von-familie-und-karriere-das-baby-hat-ein-jahr-mit-mir-im-buero-gelebt](https://www.spiegel.de/kultur/vereinbarkeit-von-familie-und-karriere-das-baby-hat-ein-jahr-mit-mir-im-buero-gelebt-a-64ffe445-bd1a-435c-8d1f-8d9b0e6ad373#ref=rss)
-* [https://www.spiegel.de/deinspiegel/polarisierung-fuer-kinder-erklaert-von-wegen-spaltung](https://www.spiegel.de/deinspiegel/polarisierung-fuer-kinder-erklaert-von-wegen-spaltung-a-1cc3b3a4-4a86-49b3-bc2d-56e234f153b9#ref=rss)
-* [https://www.spiegel.de/panorama/leute/kevin-allein-zu-haus-macaulay-culkins-kinder-wissen-nicht-dass-ihr-vater-kevin-war](https://www.spiegel.de/panorama/leute/kevin-allein-zu-haus-macaulay-culkins-kinder-wissen-nicht-dass-ihr-vater-kevin-war-a-c28ee308-502c-4258-87c3-4d4674bbf197#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/friedensverhandlungen-mit-russland-vieles-kann-noch-vor-dem-neuen-jahr-entschieden-werden](https://www.spiegel.de/ausland/friedensverhandlungen-mit-russland-vieles-kann-noch-vor-dem-neuen-jahr-entschieden-werden-a-c390badc-78cb-448d-928b-5fa3ba8612b6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-praesident-mathias-beck-nach-uefa-und-dfb-strafen-wuetend-auf-eigene-fans](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-praesident-mathias-beck-nach-uefa-und-dfb-strafen-wuetend-auf-eigene-fans-a-8ac69dd6-2a8a-413f-9071-f14cf0d9730c#ref=rss)
-### fest
-
-* [https://www.spiegel.de/panorama/weihnachtsbaeume-entsorgung-nach-dem-fest-tipps-und-ungewoehnliche-methoden](https://www.spiegel.de/panorama/weihnachtsbaeume-entsorgung-nach-dem-fest-tipps-und-ungewoehnliche-methoden-a-39fd2660-a12c-4d96-86d2-d011d55369f6#ref=rss)
-* [https://www.spiegel.de/panorama/japan-mindestens-14-verletzte-bei-messerangriff-in-fabrik](https://www.spiegel.de/panorama/japan-mindestens-14-verletzte-bei-messerangriff-in-fabrik-a-f4c97a62-0deb-40e0-a65e-f0d3ccb44bc1#ref=rss)
-### kevin
-
-* [https://www.spiegel.de/panorama/leute/kevin-allein-zu-haus-macaulay-culkins-kinder-wissen-nicht-dass-ihr-vater-kevin-war](https://www.spiegel.de/panorama/leute/kevin-allein-zu-haus-macaulay-culkins-kinder-wissen-nicht-dass-ihr-vater-kevin-war-a-c28ee308-502c-4258-87c3-4d4674bbf197#ref=rss)
-### jana
-
-* [https://www.spiegel.de/start/janas-kleine-buchhandlung-jana-brammer-ueber-den-weg-zum-buchcafe-calibri](https://www.spiegel.de/start/janas-kleine-buchhandlung-jana-brammer-ueber-den-weg-zum-buchcafe-calibri-a-32008780-7a6c-4898-a82c-b9ad12b77892#ref=rss)
-### brammer
-
-* [https://www.spiegel.de/start/janas-kleine-buchhandlung-jana-brammer-ueber-den-weg-zum-buchcafe-calibri](https://www.spiegel.de/start/janas-kleine-buchhandlung-jana-brammer-ueber-den-weg-zum-buchcafe-calibri-a-32008780-7a6c-4898-a82c-b9ad12b77892#ref=rss)
-### weg
-
-* [https://www.spiegel.de/start/janas-kleine-buchhandlung-jana-brammer-ueber-den-weg-zum-buchcafe-calibri](https://www.spiegel.de/start/janas-kleine-buchhandlung-jana-brammer-ueber-den-weg-zum-buchcafe-calibri-a-32008780-7a6c-4898-a82c-b9ad12b77892#ref=rss)
-* [https://www.spiegel.de/kultur/stranger-things-die-letzten-folgen-vor-dem-finale-bei-netflix-wo-ein-will-ist-ist-auch-ein-weg](https://www.spiegel.de/kultur/stranger-things-die-letzten-folgen-vor-dem-finale-bei-netflix-wo-ein-will-ist-ist-auch-ein-weg-a-9707b77c-73e3-4187-b90a-90cf351c27bc#ref=rss)
-### ifoinstitut
-
-* [https://www.spiegel.de/wirtschaft/ifo-institut-clemens-fuest-warnt-vor-dauerstagnation-in-deutschland](https://www.spiegel.de/wirtschaft/ifo-institut-clemens-fuest-warnt-vor-dauerstagnation-in-deutschland-a-d1704bb4-fd74-40e4-8886-64236c2a9ba1#ref=rss)
-### clemens
-
-* [https://www.spiegel.de/wirtschaft/ifo-institut-clemens-fuest-warnt-vor-dauerstagnation-in-deutschland](https://www.spiegel.de/wirtschaft/ifo-institut-clemens-fuest-warnt-vor-dauerstagnation-in-deutschland-a-d1704bb4-fd74-40e4-8886-64236c2a9ba1#ref=rss)
-### fuest
-
-* [https://www.spiegel.de/wirtschaft/ifo-institut-clemens-fuest-warnt-vor-dauerstagnation-in-deutschland](https://www.spiegel.de/wirtschaft/ifo-institut-clemens-fuest-warnt-vor-dauerstagnation-in-deutschland-a-d1704bb4-fd74-40e4-8886-64236c2a9ba1#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/wirtschaft/ifo-institut-clemens-fuest-warnt-vor-dauerstagnation-in-deutschland](https://www.spiegel.de/wirtschaft/ifo-institut-clemens-fuest-warnt-vor-dauerstagnation-in-deutschland-a-d1704bb4-fd74-40e4-8886-64236c2a9ba1#ref=rss)
-* [https://www.spiegel.de/kultur/max-strohe-das-sind-die-kulinarischen-prognosen-des-sternekochs-fuer-2026](https://www.spiegel.de/kultur/max-strohe-das-sind-die-kulinarischen-prognosen-des-sternekochs-fuer-2026-a-3b0ee928-9c31-4623-bb5d-a0645ad26f34#ref=rss)
-### mrbeast
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-aka-jimmy-donaldson-wie-er-in-zehn-jahren-zum-groessten-entertainer-der-welt-wurde](https://www.spiegel.de/netzwelt/web/mrbeast-aka-jimmy-donaldson-wie-er-in-zehn-jahren-zum-groessten-entertainer-der-welt-wurde-a-a6ee727b-911d-40f9-a299-d1b686325725#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/netzwelt/web/mrbeast-aka-jimmy-donaldson-wie-er-in-zehn-jahren-zum-groessten-entertainer-der-welt-wurde](https://www.spiegel.de/netzwelt/web/mrbeast-aka-jimmy-donaldson-wie-er-in-zehn-jahren-zum-groessten-entertainer-der-welt-wurde-a-a6ee727b-911d-40f9-a299-d1b686325725#ref=rss)
-* [https://www.spiegel.de/ausland/najib-razak-malaysias-ex-premier-wegen-veruntreuung-von-mehr-als-500-millionen-dollar-verurteilt](https://www.spiegel.de/ausland/najib-razak-malaysias-ex-premier-wegen-veruntreuung-von-mehr-als-500-millionen-dollar-verurteilt-a-59f4097c-4003-47de-8e5a-325becc33c8b#ref=rss)
-### verloren
-
-* [https://www.spiegel.de/kultur/babylon-berlin-breaking-bad-und-co-wer-serien-schaut-hat-die-kontrolle-ueber-seine-lebenszeit-verloren](https://www.spiegel.de/kultur/babylon-berlin-breaking-bad-und-co-wer-serien-schaut-hat-die-kontrolle-ueber-seine-lebenszeit-verloren-a-d74232f9-4056-410f-ad4a-c3e1aa08b568#ref=rss)
-* [https://www.spiegel.de/auto/muelheim-an-der-ruhr-toedliches-rasen-der-crash-der-alles-veraendert-hat](https://www.spiegel.de/auto/muelheim-an-der-ruhr-toedliches-rasen-der-crash-der-alles-veraendert-hat-a-b65585de-2736-4103-991d-d0224a7593a6#ref=rss)
-### nordrheinwestfalen
-
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-frau-sticht-auf-freund-ihrer-tochter-ein](https://www.spiegel.de/panorama/nordrhein-westfalen-frau-sticht-auf-freund-ihrer-tochter-ein-a-39788e02-0325-4c56-93e7-30eeb500d0a5#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-frau-sticht-auf-freund-ihrer-tochter-ein](https://www.spiegel.de/panorama/nordrhein-westfalen-frau-sticht-auf-freund-ihrer-tochter-ein-a-39788e02-0325-4c56-93e7-30eeb500d0a5#ref=rss)
-### messer
-
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-frau-sticht-auf-freund-ihrer-tochter-ein](https://www.spiegel.de/panorama/nordrhein-westfalen-frau-sticht-auf-freund-ihrer-tochter-ein-a-39788e02-0325-4c56-93e7-30eeb500d0a5#ref=rss)
-* [https://www.spiegel.de/panorama/japan-mindestens-14-verletzte-bei-messerangriff-in-fabrik](https://www.spiegel.de/panorama/japan-mindestens-14-verletzte-bei-messerangriff-in-fabrik-a-f4c97a62-0deb-40e0-a65e-f0d3ccb44bc1#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-als-die-ex-kanzlerin-mit-nur-einem-satz-die-verhaeltnisse-zurechtrueckte](https://www.spiegel.de/politik/deutschland/angela-merkel-als-die-ex-kanzlerin-mit-nur-einem-satz-die-verhaeltnisse-zurechtrueckte-a-a9a057b0-4c67-4dca-9b91-0558e4524106#ref=rss)
-### bisschen
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-das-verlangen-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-das-verlangen-im-schnellcheck-a-ec73aa38-8cdb-4581-a156-0a37d46838fb#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/kultur/vereinbarkeit-von-familie-und-karriere-das-baby-hat-ein-jahr-mit-mir-im-buero-gelebt](https://www.spiegel.de/kultur/vereinbarkeit-von-familie-und-karriere-das-baby-hat-ein-jahr-mit-mir-im-buero-gelebt-a-64ffe445-bd1a-435c-8d1f-8d9b0e6ad373#ref=rss)
-* [https://www.spiegel.de/ausland/gaza-zerstoerung-61-millionen-tonnen-schutt-neun-funktionierende-bagger](https://www.spiegel.de/ausland/gaza-zerstoerung-61-millionen-tonnen-schutt-neun-funktionierende-bagger-a-9ec8ba5f-2545-40a3-ade2-40f8e6df4a68#ref=rss)
-### groß
-
-* [https://www.spiegel.de/kultur/vereinbarkeit-von-familie-und-karriere-das-baby-hat-ein-jahr-mit-mir-im-buero-gelebt](https://www.spiegel.de/kultur/vereinbarkeit-von-familie-und-karriere-das-baby-hat-ein-jahr-mit-mir-im-buero-gelebt-a-64ffe445-bd1a-435c-8d1f-8d9b0e6ad373#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/solarium-sonnenbank-besuche-machen-junge-haut-genetisch-alt](https://www.spiegel.de/wissenschaft/medizin/solarium-sonnenbank-besuche-machen-junge-haut-genetisch-alt-a-3007513f-bf53-4c5c-9219-93dbc5b60ad5#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/kultur/vereinbarkeit-von-familie-und-karriere-das-baby-hat-ein-jahr-mit-mir-im-buero-gelebt](https://www.spiegel.de/kultur/vereinbarkeit-von-familie-und-karriere-das-baby-hat-ein-jahr-mit-mir-im-buero-gelebt-a-64ffe445-bd1a-435c-8d1f-8d9b0e6ad373#ref=rss)
-* [https://www.spiegel.de/deinspiegel/polarisierung-fuer-kinder-erklaert-von-wegen-spaltung](https://www.spiegel.de/deinspiegel/polarisierung-fuer-kinder-erklaert-von-wegen-spaltung-a-1cc3b3a4-4a86-49b3-bc2d-56e234f153b9#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutscher-weinanbau-steckt-laut-verband-in-historischer-krise](https://www.spiegel.de/wirtschaft/unternehmen/deutscher-weinanbau-steckt-laut-verband-in-historischer-krise-a-673e4006-4cfa-4f72-82d7-a11db3e1ad52#ref=rss)
-* [https://www.spiegel.de/ausland/uiguren-schuften-in-china-zwangsarbeiter-fuer-deutsche-konzerne-podcast](https://www.spiegel.de/ausland/uiguren-schuften-in-china-zwangsarbeiter-fuer-deutsche-konzerne-podcast-a-baa5b48b-db15-46e5-a9bd-657784ae5dbc#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/deinspiegel/polarisierung-fuer-kinder-erklaert-von-wegen-spaltung](https://www.spiegel.de/deinspiegel/polarisierung-fuer-kinder-erklaert-von-wegen-spaltung-a-1cc3b3a4-4a86-49b3-bc2d-56e234f153b9#ref=rss)
-* [https://www.spiegel.de/ausland/uiguren-schuften-in-china-zwangsarbeiter-fuer-deutsche-konzerne-podcast](https://www.spiegel.de/ausland/uiguren-schuften-in-china-zwangsarbeiter-fuer-deutsche-konzerne-podcast-a-baa5b48b-db15-46e5-a9bd-657784ae5dbc#ref=rss)
-### jeffrey
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-user-entschwaerzen-epstein-files](https://www.spiegel.de/ausland/jeffrey-epstein-user-entschwaerzen-epstein-files-a-2c9a5ce2-6169-452c-980c-2f1a351ed06a#ref=rss)
-### epstein
-
-* [https://www.spiegel.de/ausland/jeffrey-epstein-user-entschwaerzen-epstein-files](https://www.spiegel.de/ausland/jeffrey-epstein-user-entschwaerzen-epstein-files-a-2c9a5ce2-6169-452c-980c-2f1a351ed06a#ref=rss)
-### weihnachtsbäume
-
-* [https://www.spiegel.de/panorama/weihnachtsbaeume-entsorgung-nach-dem-fest-tipps-und-ungewoehnliche-methoden](https://www.spiegel.de/panorama/weihnachtsbaeume-entsorgung-nach-dem-fest-tipps-und-ungewoehnliche-methoden-a-39fd2660-a12c-4d96-86d2-d011d55369f6#ref=rss)
-### stranger
-
-* [https://www.spiegel.de/kultur/stranger-things-die-letzten-folgen-vor-dem-finale-bei-netflix-wo-ein-will-ist-ist-auch-ein-weg](https://www.spiegel.de/kultur/stranger-things-die-letzten-folgen-vor-dem-finale-bei-netflix-wo-ein-will-ist-ist-auch-ein-weg-a-9707b77c-73e3-4187-b90a-90cf351c27bc#ref=rss)
-### things
-
-* [https://www.spiegel.de/kultur/stranger-things-die-letzten-folgen-vor-dem-finale-bei-netflix-wo-ein-will-ist-ist-auch-ein-weg](https://www.spiegel.de/kultur/stranger-things-die-letzten-folgen-vor-dem-finale-bei-netflix-wo-ein-will-ist-ist-auch-ein-weg-a-9707b77c-73e3-4187-b90a-90cf351c27bc#ref=rss)
-### letzten
-
-* [https://www.spiegel.de/kultur/stranger-things-die-letzten-folgen-vor-dem-finale-bei-netflix-wo-ein-will-ist-ist-auch-ein-weg](https://www.spiegel.de/kultur/stranger-things-die-letzten-folgen-vor-dem-finale-bei-netflix-wo-ein-will-ist-ist-auch-ein-weg-a-9707b77c-73e3-4187-b90a-90cf351c27bc#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/kultur/stranger-things-die-letzten-folgen-vor-dem-finale-bei-netflix-wo-ein-will-ist-ist-auch-ein-weg](https://www.spiegel.de/kultur/stranger-things-die-letzten-folgen-vor-dem-finale-bei-netflix-wo-ein-will-ist-ist-auch-ein-weg-a-9707b77c-73e3-4187-b90a-90cf351c27bc#ref=rss)
-### 400
-
-* [https://www.spiegel.de/wissenschaft/iss-astronauten-weihnachtsbotschaft-aus-400-kilometern-hoehe](https://www.spiegel.de/wissenschaft/iss-astronauten-weihnachtsbotschaft-aus-400-kilometern-hoehe-a-1d0d5e8e-aaff-4be1-b6e9-2cfabebaac1c#ref=rss)
-### höhe
-
-* [https://www.spiegel.de/wissenschaft/iss-astronauten-weihnachtsbotschaft-aus-400-kilometern-hoehe](https://www.spiegel.de/wissenschaft/iss-astronauten-weihnachtsbotschaft-aus-400-kilometern-hoehe-a-1d0d5e8e-aaff-4be1-b6e9-2cfabebaac1c#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/kevin-allein-zu-haus-macaulay-culkins-kinder-wissen-nicht-dass-ihr-vater-kevin-war](https://www.spiegel.de/panorama/leute/kevin-allein-zu-haus-macaulay-culkins-kinder-wissen-nicht-dass-ihr-vater-kevin-war-a-c28ee308-502c-4258-87c3-4d4674bbf197#ref=rss)
-### circus
-
-* [https://www.spiegel.de/panorama/circus-krone-tierschuetzer-stoeren-premiere](https://www.spiegel.de/panorama/circus-krone-tierschuetzer-stoeren-premiere-a-d2c0c4e1-f937-4190-94cc-1b6528a73440#ref=rss)
-### krone
-
-* [https://www.spiegel.de/panorama/circus-krone-tierschuetzer-stoeren-premiere](https://www.spiegel.de/panorama/circus-krone-tierschuetzer-stoeren-premiere-a-d2c0c4e1-f937-4190-94cc-1b6528a73440#ref=rss)
-### tierschützer
-
-* [https://www.spiegel.de/panorama/circus-krone-tierschuetzer-stoeren-premiere](https://www.spiegel.de/panorama/circus-krone-tierschuetzer-stoeren-premiere-a-d2c0c4e1-f937-4190-94cc-1b6528a73440#ref=rss)
-### premiere
-
-* [https://www.spiegel.de/panorama/circus-krone-tierschuetzer-stoeren-premiere](https://www.spiegel.de/panorama/circus-krone-tierschuetzer-stoeren-premiere-a-d2c0c4e1-f937-4190-94cc-1b6528a73440#ref=rss)
-### heinrich
-
-* [https://www.spiegel.de/geschichte/heinrich-himmler-wie-henrik-lenkeit-herausfand-dass-er-enkel-des-ss-massenmoerders-ist](https://www.spiegel.de/geschichte/heinrich-himmler-wie-henrik-lenkeit-herausfand-dass-er-enkel-des-ss-massenmoerders-ist-a-5db2739d-7a91-48f9-bc50-d5c084a6fce9#ref=rss)
-### himmler
-
-* [https://www.spiegel.de/geschichte/heinrich-himmler-wie-henrik-lenkeit-herausfand-dass-er-enkel-des-ss-massenmoerders-ist](https://www.spiegel.de/geschichte/heinrich-himmler-wie-henrik-lenkeit-herausfand-dass-er-enkel-des-ss-massenmoerders-ist-a-5db2739d-7a91-48f9-bc50-d5c084a6fce9#ref=rss)
-### henrik
-
-* [https://www.spiegel.de/geschichte/heinrich-himmler-wie-henrik-lenkeit-herausfand-dass-er-enkel-des-ss-massenmoerders-ist](https://www.spiegel.de/geschichte/heinrich-himmler-wie-henrik-lenkeit-herausfand-dass-er-enkel-des-ss-massenmoerders-ist-a-5db2739d-7a91-48f9-bc50-d5c084a6fce9#ref=rss)
-### lenkeit
-
-* [https://www.spiegel.de/geschichte/heinrich-himmler-wie-henrik-lenkeit-herausfand-dass-er-enkel-des-ss-massenmoerders-ist](https://www.spiegel.de/geschichte/heinrich-himmler-wie-henrik-lenkeit-herausfand-dass-er-enkel-des-ss-massenmoerders-ist-a-5db2739d-7a91-48f9-bc50-d5c084a6fce9#ref=rss)
-### eintracht
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-praesident-mathias-beck-nach-uefa-und-dfb-strafen-wuetend-auf-eigene-fans](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-praesident-mathias-beck-nach-uefa-und-dfb-strafen-wuetend-auf-eigene-fans-a-8ac69dd6-2a8a-413f-9071-f14cf0d9730c#ref=rss)
-### mathias
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-praesident-mathias-beck-nach-uefa-und-dfb-strafen-wuetend-auf-eigene-fans](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-praesident-mathias-beck-nach-uefa-und-dfb-strafen-wuetend-auf-eigene-fans-a-8ac69dd6-2a8a-413f-9071-f14cf0d9730c#ref=rss)
-### beck
-
-* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-praesident-mathias-beck-nach-uefa-und-dfb-strafen-wuetend-auf-eigene-fans](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-praesident-mathias-beck-nach-uefa-und-dfb-strafen-wuetend-auf-eigene-fans-a-8ac69dd6-2a8a-413f-9071-f14cf0d9730c#ref=rss)
-### vorerst
-
-* [https://www.spiegel.de/kultur/max-strohe-das-sind-die-kulinarischen-prognosen-des-sternekochs-fuer-2026](https://www.spiegel.de/kultur/max-strohe-das-sind-die-kulinarischen-prognosen-des-sternekochs-fuer-2026-a-3b0ee928-9c31-4623-bb5d-a0645ad26f34#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-surfer-brechen-versuch-zur-rettung-der-eisbach-welle-vorerst-ab](https://www.spiegel.de/panorama/gesellschaft/muenchen-surfer-brechen-versuch-zur-rettung-der-eisbach-welle-vorerst-ab-a-0c37576b-bc0c-4373-84c2-d7947e0e8f59#ref=rss)
-### letzte
-
-* [https://www.spiegel.de/kultur/max-strohe-das-sind-die-kulinarischen-prognosen-des-sternekochs-fuer-2026](https://www.spiegel.de/kultur/max-strohe-das-sind-die-kulinarischen-prognosen-des-sternekochs-fuer-2026-a-3b0ee928-9c31-4623-bb5d-a0645ad26f34#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/solarium-sonnenbank-besuche-machen-junge-haut-genetisch-alt](https://www.spiegel.de/wissenschaft/medizin/solarium-sonnenbank-besuche-machen-junge-haut-genetisch-alt-a-3007513f-bf53-4c5c-9219-93dbc5b60ad5#ref=rss)
 ### ich
 
-* [https://www.spiegel.de/kultur/max-strohe-das-sind-die-kulinarischen-prognosen-des-sternekochs-fuer-2026](https://www.spiegel.de/kultur/max-strohe-das-sind-die-kulinarischen-prognosen-des-sternekochs-fuer-2026-a-3b0ee928-9c31-4623-bb5d-a0645ad26f34#ref=rss)
-### behörden
+* [https://www.spiegel.de/wirtschaft/moderne-manieren-50-tipps-fuer-ein-gutes-miteinander](https://www.spiegel.de/wirtschaft/moderne-manieren-50-tipps-fuer-ein-gutes-miteinander-a-f73512b1-6d07-40f0-a991-c756aae0e001#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-kommissarin-ulrike-folkerts-wuerde-gern-ich-liebe-dich-sagen](https://www.spiegel.de/kultur/tv/tatort-kommissarin-ulrike-folkerts-wuerde-gern-ich-liebe-dich-sagen-a-47b899c3-3801-4822-adba-5d1e85312e09#ref=rss)
+* [https://www.spiegel.de/deinspiegel/15-jaehriger-tortenbaecker-aus-oesterreich-fuer-eine-wettbewerbstorte-brauche-ich-etwa-100-stunden](https://www.spiegel.de/deinspiegel/15-jaehriger-tortenbaecker-aus-oesterreich-fuer-eine-wettbewerbstorte-brauche-ich-etwa-100-stunden-a-13cf18a2-8a41-4577-92ff-10666a15e135#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/japan-mindestens-14-verletzte-bei-messerangriff-in-fabrik](https://www.spiegel.de/panorama/japan-mindestens-14-verletzte-bei-messerangriff-in-fabrik-a-f4c97a62-0deb-40e0-a65e-f0d3ccb44bc1#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-surfer-brechen-versuch-zur-rettung-der-eisbach-welle-vorerst-ab](https://www.spiegel.de/panorama/gesellschaft/muenchen-surfer-brechen-versuch-zur-rettung-der-eisbach-welle-vorerst-ab-a-0c37576b-bc0c-4373-84c2-d7947e0e8f59#ref=rss)
-### solarium
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar-a-f8deb8aa-9e7c-4252-959a-d62638892ae2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-trifft-wolodymyr-selenskyj-am-sonntag](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-trifft-wolodymyr-selenskyj-am-sonntag-a-fa4a9ea1-2150-46f5-b5ef-9599322de154#ref=rss)
+* [https://www.spiegel.de/ausland/karoline-leavitt-sprecherin-von-donald-trump-erwartet-zweites-kind](https://www.spiegel.de/ausland/karoline-leavitt-sprecherin-von-donald-trump-erwartet-zweites-kind-a-11c46ef9-ea0c-4f8a-875c-5a5d25d465c8#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/wissenschaft/medizin/solarium-sonnenbank-besuche-machen-junge-haut-genetisch-alt](https://www.spiegel.de/wissenschaft/medizin/solarium-sonnenbank-besuche-machen-junge-haut-genetisch-alt-a-3007513f-bf53-4c5c-9219-93dbc5b60ad5#ref=rss)
-### davon
+* [https://www.spiegel.de/familie/erziehung-lehrjahre-eines-vaters-elternnewsletter](https://www.spiegel.de/familie/erziehung-lehrjahre-eines-vaters-elternnewsletter-a-96f2f430-ebd5-407e-a66a-db205a8fb4eb#ref=rss)
+* [https://www.spiegel.de/ausland/borreliose-berlin-meldet-so-hohe-zahlen-wie-noch-nie](https://www.spiegel.de/ausland/borreliose-berlin-meldet-so-hohe-zahlen-wie-noch-nie-a-98e4b511-f02e-4a8d-8eed-49a9815cd4f6#ref=rss)
+* [https://www.spiegel.de/kultur/die-toten-des-jahres-2025-von-diesen-prominenten-mussten-wir-uns-verabschieden](https://www.spiegel.de/kultur/die-toten-des-jahres-2025-von-diesen-prominenten-mussten-wir-uns-verabschieden-a-b93f6af0-cb2a-4cc2-b646-e4925f9be7c2#ref=rss)
+* [https://www.spiegel.de/panorama/jahresrueckblick-das-pferd-von-papst-leo-melania-trumps-hut-und-eine-kaesepackung](https://www.spiegel.de/panorama/jahresrueckblick-das-pferd-von-papst-leo-melania-trumps-hut-und-eine-kaesepackung-a-65574045-d3cd-417b-85e8-9b38e59d1c1d#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/wissenschaft/medizin/solarium-sonnenbank-besuche-machen-junge-haut-genetisch-alt](https://www.spiegel.de/wissenschaft/medizin/solarium-sonnenbank-besuche-machen-junge-haut-genetisch-alt-a-3007513f-bf53-4c5c-9219-93dbc5b60ad5#ref=rss)
-* [https://www.spiegel.de/ausland/najib-razak-malaysias-ex-premier-wegen-veruntreuung-von-mehr-als-500-millionen-dollar-verurteilt](https://www.spiegel.de/ausland/najib-razak-malaysias-ex-premier-wegen-veruntreuung-von-mehr-als-500-millionen-dollar-verurteilt-a-59f4097c-4003-47de-8e5a-325becc33c8b#ref=rss)
-### uiguren
+* [https://www.spiegel.de/ausland/borreliose-berlin-meldet-so-hohe-zahlen-wie-noch-nie](https://www.spiegel.de/ausland/borreliose-berlin-meldet-so-hohe-zahlen-wie-noch-nie-a-98e4b511-f02e-4a8d-8eed-49a9815cd4f6#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-wie-die-csu-frau-martina-klement-ordnung-ins-chaos-der-hauptstadt-bringt](https://www.spiegel.de/panorama/berlin-wie-die-csu-frau-martina-klement-ordnung-ins-chaos-der-hauptstadt-bringt-a-ae116bb4-2f61-4389-aa4c-7a1a87d2366e#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/uiguren-schuften-in-china-zwangsarbeiter-fuer-deutsche-konzerne-podcast](https://www.spiegel.de/ausland/uiguren-schuften-in-china-zwangsarbeiter-fuer-deutsche-konzerne-podcast-a-baa5b48b-db15-46e5-a9bd-657784ae5dbc#ref=rss)
-### konzerne
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar-a-f8deb8aa-9e7c-4252-959a-d62638892ae2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-trifft-wolodymyr-selenskyj-am-sonntag](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-trifft-wolodymyr-selenskyj-am-sonntag-a-fa4a9ea1-2150-46f5-b5ef-9599322de154#ref=rss)
+* [https://www.spiegel.de/ausland/karoline-leavitt-sprecherin-von-donald-trump-erwartet-zweites-kind](https://www.spiegel.de/ausland/karoline-leavitt-sprecherin-von-donald-trump-erwartet-zweites-kind-a-11c46ef9-ea0c-4f8a-875c-5a5d25d465c8#ref=rss)
+### selenskyj
 
-* [https://www.spiegel.de/ausland/uiguren-schuften-in-china-zwangsarbeiter-fuer-deutsche-konzerne-podcast](https://www.spiegel.de/ausland/uiguren-schuften-in-china-zwangsarbeiter-fuer-deutsche-konzerne-podcast-a-baa5b48b-db15-46e5-a9bd-657784ae5dbc#ref=rss)
-### allein
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar-a-f8deb8aa-9e7c-4252-959a-d62638892ae2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-trifft-wolodymyr-selenskyj-am-sonntag](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-trifft-wolodymyr-selenskyj-am-sonntag-a-fa4a9ea1-2150-46f5-b5ef-9599322de154#ref=rss)
+### kambodscha
 
-* [https://www.spiegel.de/panorama/leute/kevin-allein-zu-haus-macaulay-culkins-kinder-wissen-nicht-dass-ihr-vater-kevin-war](https://www.spiegel.de/panorama/leute/kevin-allein-zu-haus-macaulay-culkins-kinder-wissen-nicht-dass-ihr-vater-kevin-war-a-c28ee308-502c-4258-87c3-4d4674bbf197#ref=rss)
-### haus
+* [https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-sofortige-waffenruhe](https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-sofortige-waffenruhe-a-9eed2210-38a4-4ea3-aeb2-ccec47109b9c#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe](https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe-a-252fbe97-956b-452d-9f64-a278ec5a4f0d#ref=rss)
+### achtelfinale
 
-* [https://www.spiegel.de/panorama/leute/kevin-allein-zu-haus-macaulay-culkins-kinder-wissen-nicht-dass-ihr-vater-kevin-war](https://www.spiegel.de/panorama/leute/kevin-allein-zu-haus-macaulay-culkins-kinder-wissen-nicht-dass-ihr-vater-kevin-war-a-c28ee308-502c-4258-87c3-4d4674bbf197#ref=rss)
-### macaulay
+* [https://www.spiegel.de/sport/darts-wm-2026-chancen-von-ricardo-pietreczko-martin-schindler-gabriel-clemens-und-arno-merk](https://www.spiegel.de/sport/darts-wm-2026-chancen-von-ricardo-pietreczko-martin-schindler-gabriel-clemens-und-arno-merk-a-d3161b84-9848-46e2-a449-e4a92e5fb506#ref=rss)
+* [https://www.spiegel.de/sport/fussball/afrika-cup-mohamed-salahs-tor-sichert-aegypten-den-einzug-ins-achtelfinale](https://www.spiegel.de/sport/fussball/afrika-cup-mohamed-salahs-tor-sichert-aegypten-den-einzug-ins-achtelfinale-a-8b9788c3-0ab8-4cbb-8cdf-17e70512ec4e#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/panorama/leute/kevin-allein-zu-haus-macaulay-culkins-kinder-wissen-nicht-dass-ihr-vater-kevin-war](https://www.spiegel.de/panorama/leute/kevin-allein-zu-haus-macaulay-culkins-kinder-wissen-nicht-dass-ihr-vater-kevin-war-a-c28ee308-502c-4258-87c3-4d4674bbf197#ref=rss)
-### najib
+* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-ein-katastrophales-jahr-fuer-die-eu-kommissionschefin](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-ein-katastrophales-jahr-fuer-die-eu-kommissionschefin-a-2b32ee6b-c967-4993-a52f-fd36924d191c#ref=rss)
+* [https://www.spiegel.de/ausland/borreliose-berlin-meldet-so-hohe-zahlen-wie-noch-nie](https://www.spiegel.de/ausland/borreliose-berlin-meldet-so-hohe-zahlen-wie-noch-nie-a-98e4b511-f02e-4a8d-8eed-49a9815cd4f6#ref=rss)
+* [https://www.spiegel.de/kultur/die-toten-des-jahres-2025-von-diesen-prominenten-mussten-wir-uns-verabschieden](https://www.spiegel.de/kultur/die-toten-des-jahres-2025-von-diesen-prominenten-mussten-wir-uns-verabschieden-a-b93f6af0-cb2a-4cc2-b646-e4925f9be7c2#ref=rss)
+### jahres
 
-* [https://www.spiegel.de/ausland/najib-razak-malaysias-ex-premier-wegen-veruntreuung-von-mehr-als-500-millionen-dollar-verurteilt](https://www.spiegel.de/ausland/najib-razak-malaysias-ex-premier-wegen-veruntreuung-von-mehr-als-500-millionen-dollar-verurteilt-a-59f4097c-4003-47de-8e5a-325becc33c8b#ref=rss)
-### razak
+* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-ein-katastrophales-jahr-fuer-die-eu-kommissionschefin](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-ein-katastrophales-jahr-fuer-die-eu-kommissionschefin-a-2b32ee6b-c967-4993-a52f-fd36924d191c#ref=rss)
+* [https://www.spiegel.de/kultur/die-toten-des-jahres-2025-von-diesen-prominenten-mussten-wir-uns-verabschieden](https://www.spiegel.de/kultur/die-toten-des-jahres-2025-von-diesen-prominenten-mussten-wir-uns-verabschieden-a-b93f6af0-cb2a-4cc2-b646-e4925f9be7c2#ref=rss)
+* [https://www.spiegel.de/panorama/jahresrueckblick-das-pferd-von-papst-leo-melania-trumps-hut-und-eine-kaesepackung](https://www.spiegel.de/panorama/jahresrueckblick-das-pferd-von-papst-leo-melania-trumps-hut-und-eine-kaesepackung-a-65574045-d3cd-417b-85e8-9b38e59d1c1d#ref=rss)
+### leben
 
-* [https://www.spiegel.de/ausland/najib-razak-malaysias-ex-premier-wegen-veruntreuung-von-mehr-als-500-millionen-dollar-verurteilt](https://www.spiegel.de/ausland/najib-razak-malaysias-ex-premier-wegen-veruntreuung-von-mehr-als-500-millionen-dollar-verurteilt-a-59f4097c-4003-47de-8e5a-325becc33c8b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/abschied-vom-schwulenclub-schwuz-es-war-die-beste-schule-fuers-leben](https://www.spiegel.de/panorama/leute/abschied-vom-schwulenclub-schwuz-es-war-die-beste-schule-fuers-leben-a-7e3c8b26-2add-4c63-8323-01ab3ad06dc6#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-feiert-kooperation-mit-russland-blut-leben-und-tod-im-selben-graben](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-feiert-kooperation-mit-russland-blut-leben-und-tod-im-selben-graben-a-d0b59886-73d4-4e7b-b668-fed2d865e008#ref=rss)
+### weber
+
+* [https://www.spiegel.de/panorama/leute/abschied-vom-schwulenclub-schwuz-es-war-die-beste-schule-fuers-leben](https://www.spiegel.de/panorama/leute/abschied-vom-schwulenclub-schwuz-es-war-die-beste-schule-fuers-leben-a-7e3c8b26-2add-4c63-8323-01ab3ad06dc6#ref=rss)
+* [https://www.spiegel.de/politik/manfred-weber-evp-chef-schliesst-erneute-mehrheiten-mit-rechtsextremen-nicht-aus](https://www.spiegel.de/politik/manfred-weber-evp-chef-schliesst-erneute-mehrheiten-mit-rechtsextremen-nicht-aus-a-9d6d4cd0-f469-4e19-8375-ec4082be5b34#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/moderne-manieren-50-tipps-fuer-ein-gutes-miteinander](https://www.spiegel.de/wirtschaft/moderne-manieren-50-tipps-fuer-ein-gutes-miteinander-a-f73512b1-6d07-40f0-a991-c756aae0e001#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bundesnetzagentur-verhaengt-zwangsgeld](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bundesnetzagentur-verhaengt-zwangsgeld-a-8e7e1dff-c5ba-4ac6-9505-86f3339c7e2f#ref=rss)
+### länder
+
+* [https://www.spiegel.de/ausland/somaliland-zahlreiche-laender-kritisieren-israel-fuer-anerkennung](https://www.spiegel.de/ausland/somaliland-zahlreiche-laender-kritisieren-israel-fuer-anerkennung-a-e27e3c3c-389f-4540-a880-dad192353811#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-sofortige-waffenruhe](https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-sofortige-waffenruhe-a-9eed2210-38a4-4ea3-aeb2-ccec47109b9c#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe](https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe-a-252fbe97-956b-452d-9f64-a278ec5a4f0d#ref=rss)
+### chaos
+
+* [https://www.spiegel.de/netzwelt/chaos-computer-club-sucht-mittel-gegen-die-ki-overlords](https://www.spiegel.de/netzwelt/chaos-computer-club-sucht-mittel-gegen-die-ki-overlords-a-9e93ba37-c43c-4f6d-9307-26f5c9886aca#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-wie-die-csu-frau-martina-klement-ordnung-ins-chaos-der-hauptstadt-bringt](https://www.spiegel.de/panorama/berlin-wie-die-csu-frau-martina-klement-ordnung-ins-chaos-der-hauptstadt-bringt-a-ae116bb4-2f61-4389-aa4c-7a1a87d2366e#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/borreliose-berlin-meldet-so-hohe-zahlen-wie-noch-nie](https://www.spiegel.de/ausland/borreliose-berlin-meldet-so-hohe-zahlen-wie-noch-nie-a-98e4b511-f02e-4a8d-8eed-49a9815cd4f6#ref=rss)
+* [https://www.spiegel.de/kultur/die-toten-des-jahres-2025-von-diesen-prominenten-mussten-wir-uns-verabschieden](https://www.spiegel.de/kultur/die-toten-des-jahres-2025-von-diesen-prominenten-mussten-wir-uns-verabschieden-a-b93f6af0-cb2a-4cc2-b646-e4925f9be7c2#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-wie-die-csu-frau-martina-klement-ordnung-ins-chaos-der-hauptstadt-bringt](https://www.spiegel.de/panorama/berlin-wie-die-csu-frau-martina-klement-ordnung-ins-chaos-der-hauptstadt-bringt-a-ae116bb4-2f61-4389-aa4c-7a1a87d2366e#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-feiert-kooperation-mit-russland-blut-leben-und-tod-im-selben-graben](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-feiert-kooperation-mit-russland-blut-leben-und-tod-im-selben-graben-a-d0b59886-73d4-4e7b-b668-fed2d865e008#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-trifft-wolodymyr-selenskyj-am-sonntag](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-trifft-wolodymyr-selenskyj-am-sonntag-a-fa4a9ea1-2150-46f5-b5ef-9599322de154#ref=rss)
+### wolodymyr
+
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar-a-f8deb8aa-9e7c-4252-959a-d62638892ae2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-trifft-wolodymyr-selenskyj-am-sonntag](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-trifft-wolodymyr-selenskyj-am-sonntag-a-fa4a9ea1-2150-46f5-b5ef-9599322de154#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar-a-f8deb8aa-9e7c-4252-959a-d62638892ae2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-trifft-wolodymyr-selenskyj-am-sonntag](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-trifft-wolodymyr-selenskyj-am-sonntag-a-fa4a9ea1-2150-46f5-b5ef-9599322de154#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe](https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe-a-252fbe97-956b-452d-9f64-a278ec5a4f0d#ref=rss)
+### thailand
+
+* [https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-sofortige-waffenruhe](https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-sofortige-waffenruhe-a-9eed2210-38a4-4ea3-aeb2-ccec47109b9c#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe](https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe-a-252fbe97-956b-452d-9f64-a278ec5a4f0d#ref=rss)
+### waffenruhe
+
+* [https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-sofortige-waffenruhe](https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-sofortige-waffenruhe-a-9eed2210-38a4-4ea3-aeb2-ccec47109b9c#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe](https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe-a-252fbe97-956b-452d-9f64-a278ec5a4f0d#ref=rss)
+### dartswm
+
+* [https://www.spiegel.de/sport/darts-wm-2026-chancen-von-ricardo-pietreczko-martin-schindler-gabriel-clemens-und-arno-merk](https://www.spiegel.de/sport/darts-wm-2026-chancen-von-ricardo-pietreczko-martin-schindler-gabriel-clemens-und-arno-merk-a-d3161b84-9848-46e2-a449-e4a92e5fb506#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/darts-wm-2026-chancen-von-ricardo-pietreczko-martin-schindler-gabriel-clemens-und-arno-merk](https://www.spiegel.de/sport/darts-wm-2026-chancen-von-ricardo-pietreczko-martin-schindler-gabriel-clemens-und-arno-merk-a-d3161b84-9848-46e2-a449-e4a92e5fb506#ref=rss)
+* [https://www.spiegel.de/wirtschaft/metallindustrie-rechnet-mit-verlust-zehntausender-weiterer-arbeitsplaetze](https://www.spiegel.de/wirtschaft/metallindustrie-rechnet-mit-verlust-zehntausender-weiterer-arbeitsplaetze-a-f15fec9e-6e35-459b-b893-ea9098c1cfdd#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/darts-wm-2026-chancen-von-ricardo-pietreczko-martin-schindler-gabriel-clemens-und-arno-merk](https://www.spiegel.de/sport/darts-wm-2026-chancen-von-ricardo-pietreczko-martin-schindler-gabriel-clemens-und-arno-merk-a-d3161b84-9848-46e2-a449-e4a92e5fb506#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bundesnetzagentur-verhaengt-zwangsgeld](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bundesnetzagentur-verhaengt-zwangsgeld-a-8e7e1dff-c5ba-4ac6-9505-86f3339c7e2f#ref=rss)
+### dinge
+
+* [https://www.spiegel.de/sport/darts-wm-2026-chancen-von-ricardo-pietreczko-martin-schindler-gabriel-clemens-und-arno-merk](https://www.spiegel.de/sport/darts-wm-2026-chancen-von-ricardo-pietreczko-martin-schindler-gabriel-clemens-und-arno-merk-a-d3161b84-9848-46e2-a449-e4a92e5fb506#ref=rss)
+* [https://www.spiegel.de/panorama/jahresrueckblick-das-pferd-von-papst-leo-melania-trumps-hut-und-eine-kaesepackung](https://www.spiegel.de/panorama/jahresrueckblick-das-pferd-von-papst-leo-melania-trumps-hut-und-eine-kaesepackung-a-65574045-d3cd-417b-85e8-9b38e59d1c1d#ref=rss)
+### drei
+
+* [https://www.spiegel.de/sport/darts-wm-2026-chancen-von-ricardo-pietreczko-martin-schindler-gabriel-clemens-und-arno-merk](https://www.spiegel.de/sport/darts-wm-2026-chancen-von-ricardo-pietreczko-martin-schindler-gabriel-clemens-und-arno-merk-a-d3161b84-9848-46e2-a449-e4a92e5fb506#ref=rss)
+* [https://www.spiegel.de/ausland/jeffrey-epstein-warum-reiste-er-heimlich-nach-wien](https://www.spiegel.de/ausland/jeffrey-epstein-warum-reiste-er-heimlich-nach-wien-a-a955c18a-0581-4067-8202-0494dc0557f0#ref=rss)
+### leyen
+
+* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-ein-katastrophales-jahr-fuer-die-eu-kommissionschefin](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-ein-katastrophales-jahr-fuer-die-eu-kommissionschefin-a-2b32ee6b-c967-4993-a52f-fd36924d191c#ref=rss)
+### eukommissionschefin
+
+* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-ein-katastrophales-jahr-fuer-die-eu-kommissionschefin](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-ein-katastrophales-jahr-fuer-die-eu-kommissionschefin-a-2b32ee6b-c967-4993-a52f-fd36924d191c#ref=rss)
+### europas
+
+* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-ein-katastrophales-jahr-fuer-die-eu-kommissionschefin](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-ein-katastrophales-jahr-fuer-die-eu-kommissionschefin-a-2b32ee6b-c967-4993-a52f-fd36924d191c#ref=rss)
+* [https://www.spiegel.de/panorama/portugal-die-orcas-kommen-naeher-dann-rammen-sie-das-boot](https://www.spiegel.de/panorama/portugal-die-orcas-kommen-naeher-dann-rammen-sie-das-boot-a-a321f260-781a-48b1-8611-5a7cc4e86b5e#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/soziales/sozialsystem-wirtschaftsverband-der-gruenen-fordert-entschiedene-reformen](https://www.spiegel.de/wirtschaft/soziales/sozialsystem-wirtschaftsverband-der-gruenen-fordert-entschiedene-reformen-a-92b0cdb7-05cb-4677-9e29-cac9cbe07ff8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/metallindustrie-rechnet-mit-verlust-zehntausender-weiterer-arbeitsplaetze](https://www.spiegel.de/wirtschaft/metallindustrie-rechnet-mit-verlust-zehntausender-weiterer-arbeitsplaetze-a-f15fec9e-6e35-459b-b893-ea9098c1cfdd#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-knigge-experte-lobt-umgangsformen-des-bundeskanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-knigge-experte-lobt-umgangsformen-des-bundeskanzlers-a-c26fab59-6eea-45a8-95ea-575cc853f57a#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-knigge-experte-lobt-umgangsformen-des-bundeskanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-knigge-experte-lobt-umgangsformen-des-bundeskanzlers-a-c26fab59-6eea-45a8-95ea-575cc853f57a#ref=rss)
+### manieren
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-knigge-experte-lobt-umgangsformen-des-bundeskanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-knigge-experte-lobt-umgangsformen-des-bundeskanzlers-a-c26fab59-6eea-45a8-95ea-575cc853f57a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/moderne-manieren-50-tipps-fuer-ein-gutes-miteinander](https://www.spiegel.de/wirtschaft/moderne-manieren-50-tipps-fuer-ein-gutes-miteinander-a-f73512b1-6d07-40f0-a991-c756aae0e001#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-knigge-experte-lobt-umgangsformen-des-bundeskanzlers](https://www.spiegel.de/politik/deutschland/friedrich-merz-knigge-experte-lobt-umgangsformen-des-bundeskanzlers-a-c26fab59-6eea-45a8-95ea-575cc853f57a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bundesnetzagentur-verhaengt-zwangsgeld](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bundesnetzagentur-verhaengt-zwangsgeld-a-8e7e1dff-c5ba-4ac6-9505-86f3339c7e2f#ref=rss)
+### schwuz
+
+* [https://www.spiegel.de/panorama/leute/abschied-vom-schwulenclub-schwuz-es-war-die-beste-schule-fuers-leben](https://www.spiegel.de/panorama/leute/abschied-vom-schwulenclub-schwuz-es-war-die-beste-schule-fuers-leben-a-7e3c8b26-2add-4c63-8323-01ab3ad06dc6#ref=rss)
+### fürs
+
+* [https://www.spiegel.de/panorama/leute/abschied-vom-schwulenclub-schwuz-es-war-die-beste-schule-fuers-leben](https://www.spiegel.de/panorama/leute/abschied-vom-schwulenclub-schwuz-es-war-die-beste-schule-fuers-leben-a-7e3c8b26-2add-4c63-8323-01ab3ad06dc6#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/panorama/leute/abschied-vom-schwulenclub-schwuz-es-war-die-beste-schule-fuers-leben](https://www.spiegel.de/panorama/leute/abschied-vom-schwulenclub-schwuz-es-war-die-beste-schule-fuers-leben-a-7e3c8b26-2add-4c63-8323-01ab3ad06dc6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/metallindustrie-rechnet-mit-verlust-zehntausender-weiterer-arbeitsplaetze](https://www.spiegel.de/wirtschaft/metallindustrie-rechnet-mit-verlust-zehntausender-weiterer-arbeitsplaetze-a-f15fec9e-6e35-459b-b893-ea9098c1cfdd#ref=rss)
+### kurzem
+
+* [https://www.spiegel.de/panorama/leute/abschied-vom-schwulenclub-schwuz-es-war-die-beste-schule-fuers-leben](https://www.spiegel.de/panorama/leute/abschied-vom-schwulenclub-schwuz-es-war-die-beste-schule-fuers-leben-a-7e3c8b26-2add-4c63-8323-01ab3ad06dc6#ref=rss)
+* [https://www.spiegel.de/ausland/karoline-leavitt-sprecherin-von-donald-trump-erwartet-zweites-kind](https://www.spiegel.de/ausland/karoline-leavitt-sprecherin-von-donald-trump-erwartet-zweites-kind-a-11c46ef9-ea0c-4f8a-875c-5a5d25d465c8#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/panorama/leute/abschied-vom-schwulenclub-schwuz-es-war-die-beste-schule-fuers-leben](https://www.spiegel.de/panorama/leute/abschied-vom-schwulenclub-schwuz-es-war-die-beste-schule-fuers-leben-a-7e3c8b26-2add-4c63-8323-01ab3ad06dc6#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-kommissarin-ulrike-folkerts-wuerde-gern-ich-liebe-dich-sagen](https://www.spiegel.de/kultur/tv/tatort-kommissarin-ulrike-folkerts-wuerde-gern-ich-liebe-dich-sagen-a-47b899c3-3801-4822-adba-5d1e85312e09#ref=rss)
+### oft
+
+* [https://www.spiegel.de/familie/erziehung-lehrjahre-eines-vaters-elternnewsletter](https://www.spiegel.de/familie/erziehung-lehrjahre-eines-vaters-elternnewsletter-a-96f2f430-ebd5-407e-a66a-db205a8fb4eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bundesnetzagentur-verhaengt-zwangsgeld](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bundesnetzagentur-verhaengt-zwangsgeld-a-8e7e1dff-c5ba-4ac6-9505-86f3339c7e2f#ref=rss)
+### mohamed
+
+* [https://www.spiegel.de/sport/fussball/afrika-cup-mohamed-salahs-tor-sichert-aegypten-den-einzug-ins-achtelfinale](https://www.spiegel.de/sport/fussball/afrika-cup-mohamed-salahs-tor-sichert-aegypten-den-einzug-ins-achtelfinale-a-8b9788c3-0ab8-4cbb-8cdf-17e70512ec4e#ref=rss)
+### ägypten
+
+* [https://www.spiegel.de/sport/fussball/afrika-cup-mohamed-salahs-tor-sichert-aegypten-den-einzug-ins-achtelfinale](https://www.spiegel.de/sport/fussball/afrika-cup-mohamed-salahs-tor-sichert-aegypten-den-einzug-ins-achtelfinale-a-8b9788c3-0ab8-4cbb-8cdf-17e70512ec4e#ref=rss)
+### hunderte
+
+* [https://www.spiegel.de/panorama/wintersturm-in-den-usa-hunderte-fluege-an-us-ostkueste-gestrichen](https://www.spiegel.de/panorama/wintersturm-in-den-usa-hunderte-fluege-an-us-ostkueste-gestrichen-a-409aaef7-dfbf-4307-9aa1-c7c49be50330#ref=rss)
+### flüge
+
+* [https://www.spiegel.de/panorama/wintersturm-in-den-usa-hunderte-fluege-an-us-ostkueste-gestrichen](https://www.spiegel.de/panorama/wintersturm-in-den-usa-hunderte-fluege-an-us-ostkueste-gestrichen-a-409aaef7-dfbf-4307-9aa1-c7c49be50330#ref=rss)
+### usostküste
+
+* [https://www.spiegel.de/panorama/wintersturm-in-den-usa-hunderte-fluege-an-us-ostkueste-gestrichen](https://www.spiegel.de/panorama/wintersturm-in-den-usa-hunderte-fluege-an-us-ostkueste-gestrichen-a-409aaef7-dfbf-4307-9aa1-c7c49be50330#ref=rss)
+### lage
+
+* [https://www.spiegel.de/wirtschaft/metallindustrie-rechnet-mit-verlust-zehntausender-weiterer-arbeitsplaetze](https://www.spiegel.de/wirtschaft/metallindustrie-rechnet-mit-verlust-zehntausender-weiterer-arbeitsplaetze-a-f15fec9e-6e35-459b-b893-ea9098c1cfdd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar-a-f8deb8aa-9e7c-4252-959a-d62638892ae2#ref=rss)
+### ulrike
+
+* [https://www.spiegel.de/kultur/tv/tatort-kommissarin-ulrike-folkerts-wuerde-gern-ich-liebe-dich-sagen](https://www.spiegel.de/kultur/tv/tatort-kommissarin-ulrike-folkerts-wuerde-gern-ich-liebe-dich-sagen-a-47b899c3-3801-4822-adba-5d1e85312e09#ref=rss)
+### folkerts
+
+* [https://www.spiegel.de/kultur/tv/tatort-kommissarin-ulrike-folkerts-wuerde-gern-ich-liebe-dich-sagen](https://www.spiegel.de/kultur/tv/tatort-kommissarin-ulrike-folkerts-wuerde-gern-ich-liebe-dich-sagen-a-47b899c3-3801-4822-adba-5d1e85312e09#ref=rss)
+### somaliland
+
+* [https://www.spiegel.de/ausland/somaliland-zahlreiche-laender-kritisieren-israel-fuer-anerkennung](https://www.spiegel.de/ausland/somaliland-zahlreiche-laender-kritisieren-israel-fuer-anerkennung-a-e27e3c3c-389f-4540-a880-dad192353811#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/somaliland-zahlreiche-laender-kritisieren-israel-fuer-anerkennung](https://www.spiegel.de/ausland/somaliland-zahlreiche-laender-kritisieren-israel-fuer-anerkennung-a-e27e3c3c-389f-4540-a880-dad192353811#ref=rss)
+### region
+
+* [https://www.spiegel.de/ausland/somaliland-zahlreiche-laender-kritisieren-israel-fuer-anerkennung](https://www.spiegel.de/ausland/somaliland-zahlreiche-laender-kritisieren-israel-fuer-anerkennung-a-e27e3c3c-389f-4540-a880-dad192353811#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-sofortige-waffenruhe](https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-sofortige-waffenruhe-a-9eed2210-38a4-4ea3-aeb2-ccec47109b9c#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/deinspiegel/15-jaehriger-tortenbaecker-aus-oesterreich-fuer-eine-wettbewerbstorte-brauche-ich-etwa-100-stunden](https://www.spiegel.de/deinspiegel/15-jaehriger-tortenbaecker-aus-oesterreich-fuer-eine-wettbewerbstorte-brauche-ich-etwa-100-stunden-a-13cf18a2-8a41-4577-92ff-10666a15e135#ref=rss)
+### jeffrey
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-warum-reiste-er-heimlich-nach-wien](https://www.spiegel.de/ausland/jeffrey-epstein-warum-reiste-er-heimlich-nach-wien-a-a955c18a-0581-4067-8202-0494dc0557f0#ref=rss)
+### epstein
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-warum-reiste-er-heimlich-nach-wien](https://www.spiegel.de/ausland/jeffrey-epstein-warum-reiste-er-heimlich-nach-wien-a-a955c18a-0581-4067-8202-0494dc0557f0#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-warum-reiste-er-heimlich-nach-wien](https://www.spiegel.de/ausland/jeffrey-epstein-warum-reiste-er-heimlich-nach-wien-a-a955c18a-0581-4067-8202-0494dc0557f0#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe](https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe-a-252fbe97-956b-452d-9f64-a278ec5a4f0d#ref=rss)
+### manfred
+
+* [https://www.spiegel.de/politik/manfred-weber-evp-chef-schliesst-erneute-mehrheiten-mit-rechtsextremen-nicht-aus](https://www.spiegel.de/politik/manfred-weber-evp-chef-schliesst-erneute-mehrheiten-mit-rechtsextremen-nicht-aus-a-9d6d4cd0-f469-4e19-8375-ec4082be5b34#ref=rss)
+### mehrheiten
+
+* [https://www.spiegel.de/politik/manfred-weber-evp-chef-schliesst-erneute-mehrheiten-mit-rechtsextremen-nicht-aus](https://www.spiegel.de/politik/manfred-weber-evp-chef-schliesst-erneute-mehrheiten-mit-rechtsextremen-nicht-aus-a-9d6d4cd0-f469-4e19-8375-ec4082be5b34#ref=rss)
+### ulm
+
+* [https://www.spiegel.de/panorama/justiz/ulm-bei-dieser-verfolgungsjagd-wurde-kaum-ein-vergehen-ausgelassen](https://www.spiegel.de/panorama/justiz/ulm-bei-dieser-verfolgungsjagd-wurde-kaum-ein-vergehen-ausgelassen-a-6dc52eb3-d32d-419d-9d39-cd34dc256e1a#ref=rss)
+### computer
+
+* [https://www.spiegel.de/netzwelt/chaos-computer-club-sucht-mittel-gegen-die-ki-overlords](https://www.spiegel.de/netzwelt/chaos-computer-club-sucht-mittel-gegen-die-ki-overlords-a-9e93ba37-c43c-4f6d-9307-26f5c9886aca#ref=rss)
+### nützen
+
+* [https://www.spiegel.de/netzwelt/chaos-computer-club-sucht-mittel-gegen-die-ki-overlords](https://www.spiegel.de/netzwelt/chaos-computer-club-sucht-mittel-gegen-die-ki-overlords-a-9e93ba37-c43c-4f6d-9307-26f5c9886aca#ref=rss)
+* [https://www.spiegel.de/ausland/borreliose-berlin-meldet-so-hohe-zahlen-wie-noch-nie](https://www.spiegel.de/ausland/borreliose-berlin-meldet-so-hohe-zahlen-wie-noch-nie-a-98e4b511-f02e-4a8d-8eed-49a9815cd4f6#ref=rss)
+### nie
+
+* [https://www.spiegel.de/ausland/borreliose-berlin-meldet-so-hohe-zahlen-wie-noch-nie](https://www.spiegel.de/ausland/borreliose-berlin-meldet-so-hohe-zahlen-wie-noch-nie-a-98e4b511-f02e-4a8d-8eed-49a9815cd4f6#ref=rss)
+### kim
+
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-feiert-kooperation-mit-russland-blut-leben-und-tod-im-selben-graben](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-feiert-kooperation-mit-russland-blut-leben-und-tod-im-selben-graben-a-d0b59886-73d4-4e7b-b668-fed2d865e008#ref=rss)
+### jong
+
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-feiert-kooperation-mit-russland-blut-leben-und-tod-im-selben-graben](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-feiert-kooperation-mit-russland-blut-leben-und-tod-im-selben-graben-a-d0b59886-73d4-4e7b-b668-fed2d865e008#ref=rss)
+### un
+
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-feiert-kooperation-mit-russland-blut-leben-und-tod-im-selben-graben](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-feiert-kooperation-mit-russland-blut-leben-und-tod-im-selben-graben-a-d0b59886-73d4-4e7b-b668-fed2d865e008#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-feiert-kooperation-mit-russland-blut-leben-und-tod-im-selben-graben](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-feiert-kooperation-mit-russland-blut-leben-und-tod-im-selben-graben-a-d0b59886-73d4-4e7b-b668-fed2d865e008#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-trifft-wolodymyr-selenskyj-am-sonntag](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-trifft-wolodymyr-selenskyj-am-sonntag-a-fa4a9ea1-2150-46f5-b5ef-9599322de154#ref=rss)
+### erst
+
+* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-feiert-kooperation-mit-russland-blut-leben-und-tod-im-selben-graben](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-feiert-kooperation-mit-russland-blut-leben-und-tod-im-selben-graben-a-d0b59886-73d4-4e7b-b668-fed2d865e008#ref=rss)
+* [https://www.spiegel.de/ausland/karoline-leavitt-sprecherin-von-donald-trump-erwartet-zweites-kind](https://www.spiegel.de/ausland/karoline-leavitt-sprecherin-von-donald-trump-erwartet-zweites-kind-a-11c46ef9-ea0c-4f8a-875c-5a5d25d465c8#ref=rss)
+### bundesnetzagentur
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bundesnetzagentur-verhaengt-zwangsgeld](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bundesnetzagentur-verhaengt-zwangsgeld-a-8e7e1dff-c5ba-4ac6-9505-86f3339c7e2f#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bundesnetzagentur-verhaengt-zwangsgeld](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-bundesnetzagentur-verhaengt-zwangsgeld-a-8e7e1dff-c5ba-4ac6-9505-86f3339c7e2f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar-a-f8deb8aa-9e7c-4252-959a-d62638892ae2#ref=rss)
+### uns
+
+* [https://www.spiegel.de/kultur/die-toten-des-jahres-2025-von-diesen-prominenten-mussten-wir-uns-verabschieden](https://www.spiegel.de/kultur/die-toten-des-jahres-2025-von-diesen-prominenten-mussten-wir-uns-verabschieden-a-b93f6af0-cb2a-4cc2-b646-e4925f9be7c2#ref=rss)
+* [https://www.spiegel.de/panorama/jahresrueckblick-das-pferd-von-papst-leo-melania-trumps-hut-und-eine-kaesepackung](https://www.spiegel.de/panorama/jahresrueckblick-das-pferd-von-papst-leo-melania-trumps-hut-und-eine-kaesepackung-a-65574045-d3cd-417b-85e8-9b38e59d1c1d#ref=rss)
+### ende
+
+* [https://www.spiegel.de/kultur/die-toten-des-jahres-2025-von-diesen-prominenten-mussten-wir-uns-verabschieden](https://www.spiegel.de/kultur/die-toten-des-jahres-2025-von-diesen-prominenten-mussten-wir-uns-verabschieden-a-b93f6af0-cb2a-4cc2-b646-e4925f9be7c2#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-das-verlangen-mit-batic-und-leitmayr](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-das-verlangen-mit-batic-und-leitmayr-a-6add4057-f9fb-4fe6-9ffa-b65c88a8d20c#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar-a-f8deb8aa-9e7c-4252-959a-d62638892ae2#ref=rss)
+### myanmar
+
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar](https://www.spiegel.de/politik/deutschland/news-donald-trump-und-wolodymyr-selenskyj-heiraten-in-gaza-wahlen-in-myanmar-a-f8deb8aa-9e7c-4252-959a-d62638892ae2#ref=rss)
+### csufrau
+
+* [https://www.spiegel.de/panorama/berlin-wie-die-csu-frau-martina-klement-ordnung-ins-chaos-der-hauptstadt-bringt](https://www.spiegel.de/panorama/berlin-wie-die-csu-frau-martina-klement-ordnung-ins-chaos-der-hauptstadt-bringt-a-ae116bb4-2f61-4389-aa4c-7a1a87d2366e#ref=rss)
+### martina
+
+* [https://www.spiegel.de/panorama/berlin-wie-die-csu-frau-martina-klement-ordnung-ins-chaos-der-hauptstadt-bringt](https://www.spiegel.de/panorama/berlin-wie-die-csu-frau-martina-klement-ordnung-ins-chaos-der-hauptstadt-bringt-a-ae116bb4-2f61-4389-aa4c-7a1a87d2366e#ref=rss)
+### klement
+
+* [https://www.spiegel.de/panorama/berlin-wie-die-csu-frau-martina-klement-ordnung-ins-chaos-der-hauptstadt-bringt](https://www.spiegel.de/panorama/berlin-wie-die-csu-frau-martina-klement-ordnung-ins-chaos-der-hauptstadt-bringt-a-ae116bb4-2f61-4389-aa4c-7a1a87d2366e#ref=rss)
+### batic
+
+* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-das-verlangen-mit-batic-und-leitmayr](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-das-verlangen-mit-batic-und-leitmayr-a-6add4057-f9fb-4fe6-9ffa-b65c88a8d20c#ref=rss)
+### leitmayr
+
+* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-das-verlangen-mit-batic-und-leitmayr](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-das-verlangen-mit-batic-und-leitmayr-a-6add4057-f9fb-4fe6-9ffa-b65c88a8d20c#ref=rss)
+### verteidigungsminister
+
+* [https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-sofortige-waffenruhe](https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-sofortige-waffenruhe-a-9eed2210-38a4-4ea3-aeb2-ccec47109b9c#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe](https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe-a-252fbe97-956b-452d-9f64-a278ec5a4f0d#ref=rss)
+### beider
+
+* [https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-sofortige-waffenruhe](https://www.spiegel.de/ausland/thailand-und-kambodscha-vereinbaren-sofortige-waffenruhe-a-9eed2210-38a4-4ea3-aeb2-ccec47109b9c#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe](https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe-a-252fbe97-956b-452d-9f64-a278ec5a4f0d#ref=rss)
+### nachbarland
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-trifft-wolodymyr-selenskyj-am-sonntag](https://www.spiegel.de/ausland/ukraine-krieg-donald-trump-trifft-wolodymyr-selenskyj-am-sonntag-a-fa4a9ea1-2150-46f5-b5ef-9599322de154#ref=rss)
+* [https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe](https://www.spiegel.de/ausland/thailand-attackiert-kambodscha-trotz-gespraechen-ueber-waffenruhe-a-252fbe97-956b-452d-9f64-a278ec5a4f0d#ref=rss)
+### karoline
+
+* [https://www.spiegel.de/ausland/karoline-leavitt-sprecherin-von-donald-trump-erwartet-zweites-kind](https://www.spiegel.de/ausland/karoline-leavitt-sprecherin-von-donald-trump-erwartet-zweites-kind-a-11c46ef9-ea0c-4f8a-875c-5a5d25d465c8#ref=rss)
+### leavitt
+
+* [https://www.spiegel.de/ausland/karoline-leavitt-sprecherin-von-donald-trump-erwartet-zweites-kind](https://www.spiegel.de/ausland/karoline-leavitt-sprecherin-von-donald-trump-erwartet-zweites-kind-a-11c46ef9-ea0c-4f8a-875c-5a5d25d465c8#ref=rss)
 
