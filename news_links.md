@@ -4,342 +4,344 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus](https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus-a-c84d0e58-d3d5-4887-a739-4a3b2b528c50#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz-a-c8d7dac9-2b53-40a2-8161-262e630e09ef#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr](https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr-a-5a86490f-9afd-48b1-bdc5-dd5894102ef9#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/kino/brigitte-bardot-franzoesische-star-schauspielerin-ist-tot](https://www.spiegel.de/kultur/kino/brigitte-bardot-franzoesische-star-schauspielerin-ist-tot-a-629c473c-905c-450c-9696-7c3c8982b25b#ref=rss)
-* [https://www.spiegel.de/partnerschaft/lust-auf-liebe-und-sex-mein-leben-als-spiegel-sexkolumnistin](https://www.spiegel.de/partnerschaft/lust-auf-liebe-und-sex-mein-leben-als-spiegel-sexkolumnistin-a-4648c54f-207a-4c58-bd4f-8bdd9e9f6acc#ref=rss)
-* [https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft](https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft-a-4ebb1835-21b2-4b53-8e24-243b834d67e2#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr](https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr-a-5a86490f-9afd-48b1-bdc5-dd5894102ef9#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht](https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht-a-eae5a669-55ac-4673-a8cd-f1b51459beda#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis](https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis-a-e11b0426-f808-438c-9879-c5b7c5c03013#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-polizei-warnt-vor-uebermut-beim-boellern](https://www.spiegel.de/panorama/silvester-polizei-warnt-vor-uebermut-beim-boellern-a-f50f8bbc-63fd-4526-93dc-e33d8a2e6d41#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr](https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr-a-5a86490f-9afd-48b1-bdc5-dd5894102ef9#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall](https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall-a-da7707f1-f2ab-4639-a064-37eb9d2b00e5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/wechseljahre-was-der-spiegel-titel-ueber-frauen-in-dieser-lebensphase-bewirkt-hat](https://www.spiegel.de/wissenschaft/medizin/wechseljahre-was-der-spiegel-titel-ueber-frauen-in-dieser-lebensphase-bewirkt-hat-a-1c64876a-7520-4596-aeb5-3cf16d51d241#ref=rss)
-* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
 ### ich
 
-* [https://www.spiegel.de/wissenschaft/klimawandel-wie-aktivisten-strengere-klimaziele-vor-gericht-erstreiten](https://www.spiegel.de/wissenschaft/klimawandel-wie-aktivisten-strengere-klimaziele-vor-gericht-erstreiten-a-9a7826cb-5b73-48e8-8ce4-74d26ae71d31#ref=rss)
-* [https://www.spiegel.de/partnerschaft/lust-auf-liebe-und-sex-mein-leben-als-spiegel-sexkolumnistin](https://www.spiegel.de/partnerschaft/lust-auf-liebe-und-sex-mein-leben-als-spiegel-sexkolumnistin-a-4648c54f-207a-4c58-bd4f-8bdd9e9f6acc#ref=rss)
-### geld
+* [https://www.spiegel.de/netzwelt/web/food-influencer-bernd-zehner-leute-wie-ich-entscheiden-ob-ein-gastronom-millionaer-wird](https://www.spiegel.de/netzwelt/web/food-influencer-bernd-zehner-leute-wie-ich-entscheiden-ob-ein-gastronom-millionaer-wird-a-279fa244-e0a4-4ab2-bfd3-3f3be48dcf30#ref=rss)
+* [https://www.spiegel.de/ausland/vietnam-wie-ich-mit-us-veteranen-durch-das-land-fuhr](https://www.spiegel.de/ausland/vietnam-wie-ich-mit-us-veteranen-durch-das-land-fuhr-a-bee0f611-7a4e-4e1a-a3ee-b415fa72e839#ref=rss)
+* [https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere](https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere-a-8cd1cd09-4784-4ba8-8136-4cd39728fb4b#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus](https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus-a-c84d0e58-d3d5-4887-a739-4a3b2b528c50#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz-a-c8d7dac9-2b53-40a2-8161-262e630e09ef#ref=rss)
-* [https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht](https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht-a-b5b74044-439d-4582-8cfa-8d8413f2abf1#ref=rss)
-### 2025
+* [https://www.spiegel.de/panorama/papua-neuguinea-australischer-luxuskreuzer-laeuft-auf-grund](https://www.spiegel.de/panorama/papua-neuguinea-australischer-luxuskreuzer-laeuft-auf-grund-a-54c16f57-1c47-48d8-a329-95a742704b9f#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-spandau-hochhaus-brand-nach-neun-stunden-geloescht](https://www.spiegel.de/panorama/berlin-spandau-hochhaus-brand-nach-neun-stunden-geloescht-a-2f8ba14f-7242-45ed-99b4-ce636a0666d2#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-unbekannter-zuendet-kaeltebus-fuer-hilfsbeduerftige-an](https://www.spiegel.de/panorama/berlin-unbekannter-zuendet-kaeltebus-fuer-hilfsbeduerftige-an-a-1e0e35e0-c30c-48eb-9eef-83b476dc3e08#ref=rss)
+* [https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere](https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere-a-8cd1cd09-4784-4ba8-8136-4cd39728fb4b#ref=rss)
+* [https://www.spiegel.de/ausland/wintersturm-johannes-chaos-in-skandinavien-mit-todesopfern-in-schweden](https://www.spiegel.de/ausland/wintersturm-johannes-chaos-in-skandinavien-mit-todesopfern-in-schweden-a-a9f30143-4a8c-4454-b871-da6445c6947d#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus](https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus-a-c84d0e58-d3d5-4887-a739-4a3b2b528c50#ref=rss)
-* [https://www.spiegel.de/panorama/jahresrueckblick-2025-das-ultimative-quiz-zum-ende-des-jahres](https://www.spiegel.de/panorama/jahresrueckblick-2025-das-ultimative-quiz-zum-ende-des-jahres-a-ac20d14f-95bd-4d0b-9a73-be5e4bbf1207#ref=rss)
-### kinder
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-karl-geiger-nach-qualifikation-in-oberstdorf-ausgeschieden](https://www.spiegel.de/sport/wintersport/vierschanzentournee-karl-geiger-nach-qualifikation-in-oberstdorf-ausgeschieden-a-243e1fac-1770-49d2-a48f-c8d493b892f6#ref=rss)
+* [https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen](https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen-a-cec63e37-dc1b-4e4f-94a5-f3f552ecf210#ref=rss)
+* [https://www.spiegel.de/wirtschaft/psychologe-stephan-gruenewald-wir-deutschen-haben-ein-starkes-beduerfnis-nach-normen](https://www.spiegel.de/wirtschaft/psychologe-stephan-gruenewald-wir-deutschen-haben-ein-starkes-beduerfnis-nach-normen-a-3645c91e-4c9a-46b1-bda5-1a7ca33d3112#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall](https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall-a-da7707f1-f2ab-4639-a064-37eb9d2b00e5#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht](https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht-a-eae5a669-55ac-4673-a8cd-f1b51459beda#ref=rss)
-### leben
-
-* [https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall](https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall-a-da7707f1-f2ab-4639-a064-37eb9d2b00e5#ref=rss)
-* [https://www.spiegel.de/netzwelt/hackerkonferenz-39c3-warum-eine-multiple-sklerose-erkrankte-ihren-rollstuhl-hackte](https://www.spiegel.de/netzwelt/hackerkonferenz-39c3-warum-eine-multiple-sklerose-erkrankte-ihren-rollstuhl-hackte-a-169573b3-dbc9-4aed-bc33-1cc39cee6971#ref=rss)
-* [https://www.spiegel.de/partnerschaft/lust-auf-liebe-und-sex-mein-leben-als-spiegel-sexkolumnistin](https://www.spiegel.de/partnerschaft/lust-auf-liebe-und-sex-mein-leben-als-spiegel-sexkolumnistin-a-4648c54f-207a-4c58-bd4f-8bdd9e9f6acc#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz-a-c8d7dac9-2b53-40a2-8161-262e630e09ef#ref=rss)
-* [https://www.spiegel.de/panorama/jahresrueckblick-2025-das-ultimative-quiz-zum-ende-des-jahres](https://www.spiegel.de/panorama/jahresrueckblick-2025-das-ultimative-quiz-zum-ende-des-jahres-a-ac20d14f-95bd-4d0b-9a73-be5e4bbf1207#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-acht-politische-wuensche-fuer-2026](https://www.spiegel.de/politik/deutschland/news-acht-politische-wuensche-fuer-2026-a-723ce69b-b7ca-4cfb-aed9-1fad3d6f8d5c#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
-* [https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht](https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht-a-b5b74044-439d-4582-8cfa-8d8413f2abf1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk](https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk-a-a0af990e-defe-449d-921b-d3458d01a5ec#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
-* [https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht](https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht-a-b5b74044-439d-4582-8cfa-8d8413f2abf1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk](https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk-a-a0af990e-defe-449d-921b-d3458d01a5ec#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht](https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht-a-b5b74044-439d-4582-8cfa-8d8413f2abf1#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-08f3b931-fb6f-41a8-b93f-57635eed48ba#ref=rss)
-### mann
-
-* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bochum-mann-bei-sek-einsatz-angeschossen](https://www.spiegel.de/panorama/justiz/bochum-mann-bei-sek-einsatz-angeschossen-a-95bb7903-e399-4ac5-b0f7-59a4c196c361#ref=rss)
-### myanmar
-
-* [https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert](https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert-a-727bdd0b-a4d8-4423-95c9-b22b3f5cfe99#ref=rss)
-* [https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft](https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft-a-4ebb1835-21b2-4b53-8e24-243b834d67e2#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis](https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis-a-e11b0426-f808-438c-9879-c5b7c5c03013#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-polizei-warnt-vor-uebermut-beim-boellern](https://www.spiegel.de/panorama/silvester-polizei-warnt-vor-uebermut-beim-boellern-a-f50f8bbc-63fd-4526-93dc-e33d8a2e6d41#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus](https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus-a-c84d0e58-d3d5-4887-a739-4a3b2b528c50#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz-a-c8d7dac9-2b53-40a2-8161-262e630e09ef#ref=rss)
-### stark
-
-* [https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus](https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus-a-c84d0e58-d3d5-4887-a739-4a3b2b528c50#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus-a-4083870c-5eaa-4b34-989d-b9379db8d9e3#ref=rss)
-### fernando
-
-* [https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall](https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall-a-da7707f1-f2ab-4639-a064-37eb9d2b00e5#ref=rss)
-### martín
-
-* [https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall](https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall-a-da7707f1-f2ab-4639-a064-37eb9d2b00e5#ref=rss)
-### bootsunfall
-
-* [https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall](https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall-a-da7707f1-f2ab-4639-a064-37eb9d2b00e5#ref=rss)
-### drei
-
-* [https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall](https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall-a-da7707f1-f2ab-4639-a064-37eb9d2b00e5#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus-a-4083870c-5eaa-4b34-989d-b9379db8d9e3#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz-a-c8d7dac9-2b53-40a2-8161-262e630e09ef#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz-a-c8d7dac9-2b53-40a2-8161-262e630e09ef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-acht-politische-wuensche-fuer-2026](https://www.spiegel.de/politik/deutschland/news-acht-politische-wuensche-fuer-2026-a-723ce69b-b7ca-4cfb-aed9-1fad3d6f8d5c#ref=rss)
-### stecken
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz-a-c8d7dac9-2b53-40a2-8161-262e630e09ef#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk](https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk-a-a0af990e-defe-449d-921b-d3458d01a5ec#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
-* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk](https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk-a-a0af990e-defe-449d-921b-d3458d01a5ec#ref=rss)
-### alle
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht](https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht-a-eae5a669-55ac-4673-a8cd-f1b51459beda#ref=rss)
+* [https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen](https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen-a-cec63e37-dc1b-4e4f-94a5-f3f552ecf210#ref=rss)
+* [https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben](https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben-a-ad33edd6-46bf-466e-a12d-f87d83ed54f7#ref=rss)
+* [https://www.spiegel.de/ausland/vietnam-wie-ich-mit-us-veteranen-durch-das-land-fuhr](https://www.spiegel.de/ausland/vietnam-wie-ich-mit-us-veteranen-durch-das-land-fuhr-a-bee0f611-7a4e-4e1a-a3ee-b415fa72e839#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-ailton-kauft-torjaegerkanone-nach-18-jahren-zurueck](https://www.spiegel.de/sport/fussball/bundesliga-ailton-kauft-torjaegerkanone-nach-18-jahren-zurueck-a-9b76939f-87a6-4aeb-bdf6-3037f216ee95#ref=rss)
 ### brigitte
 
-* [https://www.spiegel.de/kultur/kino/brigitte-bardot-franzoesische-star-schauspielerin-ist-tot](https://www.spiegel.de/kultur/kino/brigitte-bardot-franzoesische-star-schauspielerin-ist-tot-a-629c473c-905c-450c-9696-7c3c8982b25b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/brigitte-bardot-nachruf-auf-eine-ikone-des-franzoesischen-kinos](https://www.spiegel.de/kultur/kino/brigitte-bardot-nachruf-auf-eine-ikone-des-franzoesischen-kinos-a-45db3b04-b12b-469b-a651-c4009d658475#ref=rss)
+* [https://www.spiegel.de/kultur/brigitte-bardot-ein-leben-in-bildern-nachruf-auf-eine-ikone](https://www.spiegel.de/kultur/brigitte-bardot-ein-leben-in-bildern-nachruf-auf-eine-ikone-a-478571e8-8329-4a08-aff4-2669e4dd0453#ref=rss)
 ### bardot
 
-* [https://www.spiegel.de/kultur/kino/brigitte-bardot-franzoesische-star-schauspielerin-ist-tot](https://www.spiegel.de/kultur/kino/brigitte-bardot-franzoesische-star-schauspielerin-ist-tot-a-629c473c-905c-450c-9696-7c3c8982b25b#ref=rss)
-### epsteinakten
+* [https://www.spiegel.de/kultur/kino/brigitte-bardot-nachruf-auf-eine-ikone-des-franzoesischen-kinos](https://www.spiegel.de/kultur/kino/brigitte-bardot-nachruf-auf-eine-ikone-des-franzoesischen-kinos-a-45db3b04-b12b-469b-a651-c4009d658475#ref=rss)
+* [https://www.spiegel.de/kultur/brigitte-bardot-ein-leben-in-bildern-nachruf-auf-eine-ikone](https://www.spiegel.de/kultur/brigitte-bardot-ein-leben-in-bildern-nachruf-auf-eine-ikone-a-478571e8-8329-4a08-aff4-2669e4dd0453#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht](https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht-a-b5b74044-439d-4582-8cfa-8d8413f2abf1#ref=rss)
-### macht
+* [https://www.spiegel.de/ausland/vietnam-wie-ich-mit-us-veteranen-durch-das-land-fuhr](https://www.spiegel.de/ausland/vietnam-wie-ich-mit-us-veteranen-durch-das-land-fuhr-a-bee0f611-7a4e-4e1a-a3ee-b415fa72e839#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-ailton-kauft-torjaegerkanone-nach-18-jahren-zurueck](https://www.spiegel.de/sport/fussball/bundesliga-ailton-kauft-torjaegerkanone-nach-18-jahren-zurueck-a-9b76939f-87a6-4aeb-bdf6-3037f216ee95#ref=rss)
+* [https://www.spiegel.de/panorama/leute/kevin-kuehnert-ex-spd-generalsekretaer-kehrt-auf-die-buehne-zurueck](https://www.spiegel.de/panorama/leute/kevin-kuehnert-ex-spd-generalsekretaer-kehrt-auf-die-buehne-zurueck-a-71c45baf-d85e-4abc-9819-65ddac717b5f#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht](https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht-a-b5b74044-439d-4582-8cfa-8d8413f2abf1#ref=rss)
-* [https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft](https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft-a-4ebb1835-21b2-4b53-8e24-243b834d67e2#ref=rss)
-### hinter
+* [https://www.spiegel.de/panorama/fischvergiftung-vermutet-mutter-und-tochter-sterben-nach-weihnachtsessen](https://www.spiegel.de/panorama/fischvergiftung-vermutet-mutter-und-tochter-sterben-nach-weihnachtsessen-a-a592cf9c-49ae-4e40-8142-d76d4c64a5a3#ref=rss)
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen-a-ea401d07-3904-4377-8b9e-d257d27f9f9e#ref=rss)
+* [https://www.spiegel.de/panorama/suizid-nach-ki-chat-wie-geht-es-der-mutter-von-sewell-setzer-heute](https://www.spiegel.de/panorama/suizid-nach-ki-chat-wie-geht-es-der-mutter-von-sewell-setzer-heute-a-0c1d331f-afbe-4b5e-859b-bebe72d46bd9#ref=rss)
+### wäre
 
-* [https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht](https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht-a-b5b74044-439d-4582-8cfa-8d8413f2abf1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk](https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk-a-a0af990e-defe-449d-921b-d3458d01a5ec#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht](https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht-a-b5b74044-439d-4582-8cfa-8d8413f2abf1#ref=rss)
-* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
-### plaßmann
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-08f3b931-fb6f-41a8-b93f-57635eed48ba#ref=rss)
-### klaus
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-08f3b931-fb6f-41a8-b93f-57635eed48ba#ref=rss)
-### stuttmann
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-08f3b931-fb6f-41a8-b93f-57635eed48ba#ref=rss)
-### böllern
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-08f3b931-fb6f-41a8-b93f-57635eed48ba#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-polizei-warnt-vor-uebermut-beim-boellern](https://www.spiegel.de/panorama/silvester-polizei-warnt-vor-uebermut-beim-boellern-a-f50f8bbc-63fd-4526-93dc-e33d8a2e6d41#ref=rss)
-### wechseljahre
-
-* [https://www.spiegel.de/wissenschaft/medizin/wechseljahre-was-der-spiegel-titel-ueber-frauen-in-dieser-lebensphase-bewirkt-hat](https://www.spiegel.de/wissenschaft/medizin/wechseljahre-was-der-spiegel-titel-ueber-frauen-in-dieser-lebensphase-bewirkt-hat-a-1c64876a-7520-4596-aeb5-3cf16d51d241#ref=rss)
-### lebensphase
-
-* [https://www.spiegel.de/wissenschaft/medizin/wechseljahre-was-der-spiegel-titel-ueber-frauen-in-dieser-lebensphase-bewirkt-hat](https://www.spiegel.de/wissenschaft/medizin/wechseljahre-was-der-spiegel-titel-ueber-frauen-in-dieser-lebensphase-bewirkt-hat-a-1c64876a-7520-4596-aeb5-3cf16d51d241#ref=rss)
-### thema
-
-* [https://www.spiegel.de/wissenschaft/medizin/wechseljahre-was-der-spiegel-titel-ueber-frauen-in-dieser-lebensphase-bewirkt-hat](https://www.spiegel.de/wissenschaft/medizin/wechseljahre-was-der-spiegel-titel-ueber-frauen-in-dieser-lebensphase-bewirkt-hat-a-1c64876a-7520-4596-aeb5-3cf16d51d241#ref=rss)
-* [https://www.spiegel.de/ausland/nahost-israelische-armee-setzt-einsatz-in-westjordanland-fort](https://www.spiegel.de/ausland/nahost-israelische-armee-setzt-einsatz-in-westjordanland-fort-a-e716bd6c-cbe4-4310-826e-5dd0aff5f9f2#ref=rss)
-### battle
-
-* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
-### of
-
-* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
-### the
-
-* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
-### sexes
-
-* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
-### aryna
-
-* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
-### sabalenka
-
-* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
-### nick
-
-* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
-### kyrgios
-
-* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
-### frau
-
-* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
-* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
-### magnus
-
-* [https://www.spiegel.de/sport/schach/magnus-carlsen-schachstar-schlaegt-nach-niederlage-kamera-weg](https://www.spiegel.de/sport/schach/magnus-carlsen-schachstar-schlaegt-nach-niederlage-kamera-weg-a-78b9c438-206f-42dc-af42-368e716aae80#ref=rss)
-### carlsen
-
-* [https://www.spiegel.de/sport/schach/magnus-carlsen-schachstar-schlaegt-nach-niederlage-kamera-weg](https://www.spiegel.de/sport/schach/magnus-carlsen-schachstar-schlaegt-nach-niederlage-kamera-weg-a-78b9c438-206f-42dc-af42-368e716aae80#ref=rss)
-### verliert
-
-* [https://www.spiegel.de/sport/schach/magnus-carlsen-schachstar-schlaegt-nach-niederlage-kamera-weg](https://www.spiegel.de/sport/schach/magnus-carlsen-schachstar-schlaegt-nach-niederlage-kamera-weg-a-78b9c438-206f-42dc-af42-368e716aae80#ref=rss)
-### grad
-
-* [https://www.spiegel.de/netzwelt/hackerkonferenz-39c3-warum-eine-multiple-sklerose-erkrankte-ihren-rollstuhl-hackte](https://www.spiegel.de/netzwelt/hackerkonferenz-39c3-warum-eine-multiple-sklerose-erkrankte-ihren-rollstuhl-hackte-a-169573b3-dbc9-4aed-bc33-1cc39cee6971#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr](https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr-a-5a86490f-9afd-48b1-bdc5-dd5894102ef9#ref=rss)
-### valeria
-
-* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
-### napoleone
-
-* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
-### sammelt
-
-* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
-### kunst
-
-* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
-### hobby
-
-* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
-### feminismus
-
-* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen-a-ea401d07-3904-4377-8b9e-d257d27f9f9e#ref=rss)
+* [https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere](https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere-a-8cd1cd09-4784-4ba8-8136-4cd39728fb4b#ref=rss)
 ### ende
 
-* [https://www.spiegel.de/panorama/jahresrueckblick-2025-das-ultimative-quiz-zum-ende-des-jahres](https://www.spiegel.de/panorama/jahresrueckblick-2025-das-ultimative-quiz-zum-ende-des-jahres-a-ac20d14f-95bd-4d0b-9a73-be5e4bbf1207#ref=rss)
-### bochum
+* [https://www.spiegel.de/kultur/finn-wolfhard-ueber-das-ende-von-stranger-things-jeder-fing-irgendwann-einfach-an-zu-weinen](https://www.spiegel.de/kultur/finn-wolfhard-ueber-das-ende-von-stranger-things-jeder-fing-irgendwann-einfach-an-zu-weinen-a-3ce7b5c9-3218-47f3-8512-bb13327660b6#ref=rss)
+* [https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen](https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen-a-cec63e37-dc1b-4e4f-94a5-f3f552ecf210#ref=rss)
+* [https://www.spiegel.de/kultur/kino/brigitte-bardot-nachruf-auf-eine-ikone-des-franzoesischen-kinos](https://www.spiegel.de/kultur/kino/brigitte-bardot-nachruf-auf-eine-ikone-des-franzoesischen-kinos-a-45db3b04-b12b-469b-a651-c4009d658475#ref=rss)
+### schauspieler
 
-* [https://www.spiegel.de/panorama/justiz/bochum-mann-bei-sek-einsatz-angeschossen](https://www.spiegel.de/panorama/justiz/bochum-mann-bei-sek-einsatz-angeschossen-a-95bb7903-e399-4ac5-b0f7-59a4c196c361#ref=rss)
+* [https://www.spiegel.de/kultur/finn-wolfhard-ueber-das-ende-von-stranger-things-jeder-fing-irgendwann-einfach-an-zu-weinen](https://www.spiegel.de/kultur/finn-wolfhard-ueber-das-ende-von-stranger-things-jeder-fing-irgendwann-einfach-an-zu-weinen-a-3ce7b5c9-3218-47f3-8512-bb13327660b6#ref=rss)
+* [https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben](https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben-a-ad33edd6-46bf-466e-a12d-f87d83ed54f7#ref=rss)
+### wir
+
+* [https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen](https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen-a-cec63e37-dc1b-4e4f-94a5-f3f552ecf210#ref=rss)
+* [https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere](https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere-a-8cd1cd09-4784-4ba8-8136-4cd39728fb4b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/psychologe-stephan-gruenewald-wir-deutschen-haben-ein-starkes-beduerfnis-nach-normen](https://www.spiegel.de/wirtschaft/psychologe-stephan-gruenewald-wir-deutschen-haben-ein-starkes-beduerfnis-nach-normen-a-3645c91e-4c9a-46b1-bda5-1a7ca33d3112#ref=rss)
+### waren
+
+* [https://www.spiegel.de/panorama/papua-neuguinea-australischer-luxuskreuzer-laeuft-auf-grund](https://www.spiegel.de/panorama/papua-neuguinea-australischer-luxuskreuzer-laeuft-auf-grund-a-54c16f57-1c47-48d8-a329-95a742704b9f#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-spandau-hochhaus-brand-nach-neun-stunden-geloescht](https://www.spiegel.de/panorama/berlin-spandau-hochhaus-brand-nach-neun-stunden-geloescht-a-2f8ba14f-7242-45ed-99b4-ce636a0666d2#ref=rss)
+* [https://www.spiegel.de/panorama/fischvergiftung-vermutet-mutter-und-tochter-sterben-nach-weihnachtsessen](https://www.spiegel.de/panorama/fischvergiftung-vermutet-mutter-und-tochter-sterben-nach-weihnachtsessen-a-a592cf9c-49ae-4e40-8142-d76d4c64a5a3#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/panorama/papua-neuguinea-australischer-luxuskreuzer-laeuft-auf-grund](https://www.spiegel.de/panorama/papua-neuguinea-australischer-luxuskreuzer-laeuft-auf-grund-a-54c16f57-1c47-48d8-a329-95a742704b9f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pflege-kann-die-bundesregierung-die-reform-wuppen](https://www.spiegel.de/politik/deutschland/pflege-kann-die-bundesregierung-die-reform-wuppen-a-4befa0df-f189-4211-ab7f-fb0d946428b9#ref=rss)
+* [https://www.spiegel.de/panorama/muenchen-feuerwehr-baut-eisbachwelle-wieder-ab-surfer-sprechen-von-kampfansage](https://www.spiegel.de/panorama/muenchen-feuerwehr-baut-eisbachwelle-wieder-ab-surfer-sprechen-von-kampfansage-a-61e2fd71-3787-4b31-abc0-5b7bd0740cb7#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/berlin-spandau-hochhaus-brand-nach-neun-stunden-geloescht](https://www.spiegel.de/panorama/berlin-spandau-hochhaus-brand-nach-neun-stunden-geloescht-a-2f8ba14f-7242-45ed-99b4-ce636a0666d2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/darts-wm-nach-ricardo-pietreczko-scheidet-auch-martin-schindler-in-runde-drei-aus](https://www.spiegel.de/sport/fussball/darts-wm-nach-ricardo-pietreczko-scheidet-auch-martin-schindler-in-runde-drei-aus-a-e9635b42-8762-4d82-94ea-cd3a6f3218df#ref=rss)
+* [https://www.spiegel.de/ausland/wintersturm-johannes-chaos-in-skandinavien-mit-todesopfern-in-schweden](https://www.spiegel.de/ausland/wintersturm-johannes-chaos-in-skandinavien-mit-todesopfern-in-schweden-a-a9f30143-4a8c-4454-b871-da6445c6947d#ref=rss)
+### leben
+
+* [https://www.spiegel.de/kultur/brigitte-bardot-ein-leben-in-bildern-nachruf-auf-eine-ikone](https://www.spiegel.de/kultur/brigitte-bardot-ein-leben-in-bildern-nachruf-auf-eine-ikone-a-478571e8-8329-4a08-aff4-2669e4dd0453#ref=rss)
+* [https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere](https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere-a-8cd1cd09-4784-4ba8-8136-4cd39728fb4b#ref=rss)
+* [https://www.spiegel.de/panorama/suizid-nach-ki-chat-wie-geht-es-der-mutter-von-sewell-setzer-heute](https://www.spiegel.de/panorama/suizid-nach-ki-chat-wie-geht-es-der-mutter-von-sewell-setzer-heute-a-0c1d331f-afbe-4b5e-859b-bebe72d46bd9#ref=rss)
+### gutem
+
+* [https://www.spiegel.de/ausland/donald-trump-berichtet-von-gutem-und-sehr-produktivem-telefonat-mit-wladimir-putin](https://www.spiegel.de/ausland/donald-trump-berichtet-von-gutem-und-sehr-produktivem-telefonat-mit-wladimir-putin-a-614716ae-2a75-4dbb-8a08-aa45334adb0d#ref=rss)
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen-a-ea401d07-3904-4377-8b9e-d257d27f9f9e#ref=rss)
+### sprechen
+
+* [https://www.spiegel.de/ausland/donald-trump-berichtet-von-gutem-und-sehr-produktivem-telefonat-mit-wladimir-putin](https://www.spiegel.de/ausland/donald-trump-berichtet-von-gutem-und-sehr-produktivem-telefonat-mit-wladimir-putin-a-614716ae-2a75-4dbb-8a08-aa45334adb0d#ref=rss)
+* [https://www.spiegel.de/panorama/muenchen-feuerwehr-baut-eisbachwelle-wieder-ab-surfer-sprechen-von-kampfansage](https://www.spiegel.de/panorama/muenchen-feuerwehr-baut-eisbachwelle-wieder-ab-surfer-sprechen-von-kampfansage-a-61e2fd71-3787-4b31-abc0-5b7bd0740cb7#ref=rss)
+### dürfen
+
+* [https://www.spiegel.de/politik/deutschland/afd-abgeordnete-duerfen-ab-2026-wieder-zur-msc](https://www.spiegel.de/politik/deutschland/afd-abgeordnete-duerfen-ab-2026-wieder-zur-msc-a-43bcd098-1a4f-422f-8171-cb68b30af310#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/politik/deutschland/afd-abgeordnete-duerfen-ab-2026-wieder-zur-msc](https://www.spiegel.de/politik/deutschland/afd-abgeordnete-duerfen-ab-2026-wieder-zur-msc-a-43bcd098-1a4f-422f-8171-cb68b30af310#ref=rss)
+### münchner
+
+* [https://www.spiegel.de/politik/deutschland/afd-abgeordnete-duerfen-ab-2026-wieder-zur-msc](https://www.spiegel.de/politik/deutschland/afd-abgeordnete-duerfen-ab-2026-wieder-zur-msc-a-43bcd098-1a4f-422f-8171-cb68b30af310#ref=rss)
+* [https://www.spiegel.de/panorama/muenchen-feuerwehr-baut-eisbachwelle-wieder-ab-surfer-sprechen-von-kampfansage](https://www.spiegel.de/panorama/muenchen-feuerwehr-baut-eisbachwelle-wieder-ab-surfer-sprechen-von-kampfansage-a-61e2fd71-3787-4b31-abc0-5b7bd0740cb7#ref=rss)
+### vierschanzentournee
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-karl-geiger-nach-qualifikation-in-oberstdorf-ausgeschieden](https://www.spiegel.de/sport/wintersport/vierschanzentournee-karl-geiger-nach-qualifikation-in-oberstdorf-ausgeschieden-a-243e1fac-1770-49d2-a48f-c8d493b892f6#ref=rss)
+### karl
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-karl-geiger-nach-qualifikation-in-oberstdorf-ausgeschieden](https://www.spiegel.de/sport/wintersport/vierschanzentournee-karl-geiger-nach-qualifikation-in-oberstdorf-ausgeschieden-a-243e1fac-1770-49d2-a48f-c8d493b892f6#ref=rss)
+### geiger
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-karl-geiger-nach-qualifikation-in-oberstdorf-ausgeschieden](https://www.spiegel.de/sport/wintersport/vierschanzentournee-karl-geiger-nach-qualifikation-in-oberstdorf-ausgeschieden-a-243e1fac-1770-49d2-a48f-c8d493b892f6#ref=rss)
+### finn
+
+* [https://www.spiegel.de/kultur/finn-wolfhard-ueber-das-ende-von-stranger-things-jeder-fing-irgendwann-einfach-an-zu-weinen](https://www.spiegel.de/kultur/finn-wolfhard-ueber-das-ende-von-stranger-things-jeder-fing-irgendwann-einfach-an-zu-weinen-a-3ce7b5c9-3218-47f3-8512-bb13327660b6#ref=rss)
+### wolfhard
+
+* [https://www.spiegel.de/kultur/finn-wolfhard-ueber-das-ende-von-stranger-things-jeder-fing-irgendwann-einfach-an-zu-weinen](https://www.spiegel.de/kultur/finn-wolfhard-ueber-das-ende-von-stranger-things-jeder-fing-irgendwann-einfach-an-zu-weinen-a-3ce7b5c9-3218-47f3-8512-bb13327660b6#ref=rss)
+### stranger
+
+* [https://www.spiegel.de/kultur/finn-wolfhard-ueber-das-ende-von-stranger-things-jeder-fing-irgendwann-einfach-an-zu-weinen](https://www.spiegel.de/kultur/finn-wolfhard-ueber-das-ende-von-stranger-things-jeder-fing-irgendwann-einfach-an-zu-weinen-a-3ce7b5c9-3218-47f3-8512-bb13327660b6#ref=rss)
+### things
+
+* [https://www.spiegel.de/kultur/finn-wolfhard-ueber-das-ende-von-stranger-things-jeder-fing-irgendwann-einfach-an-zu-weinen](https://www.spiegel.de/kultur/finn-wolfhard-ueber-das-ende-von-stranger-things-jeder-fing-irgendwann-einfach-an-zu-weinen-a-3ce7b5c9-3218-47f3-8512-bb13327660b6#ref=rss)
+### schluss
+
+* [https://www.spiegel.de/kultur/finn-wolfhard-ueber-das-ende-von-stranger-things-jeder-fing-irgendwann-einfach-an-zu-weinen](https://www.spiegel.de/kultur/finn-wolfhard-ueber-das-ende-von-stranger-things-jeder-fing-irgendwann-einfach-an-zu-weinen-a-3ce7b5c9-3218-47f3-8512-bb13327660b6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/darts-wm-nach-ricardo-pietreczko-scheidet-auch-martin-schindler-in-runde-drei-aus](https://www.spiegel.de/sport/fussball/darts-wm-nach-ricardo-pietreczko-scheidet-auch-martin-schindler-in-runde-drei-aus-a-e9635b42-8762-4d82-94ea-cd3a6f3218df#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wie-ein-soldat-allein-aus-asow-stahl-entkam](https://www.spiegel.de/ausland/ukraine-krieg-wie-ein-soldat-allein-aus-asow-stahl-entkam-a-af28ff52-af52-4563-b203-8225f6340573#ref=rss)
+* [https://www.spiegel.de/kultur/kino/brigitte-bardot-nachruf-auf-eine-ikone-des-franzoesischen-kinos](https://www.spiegel.de/kultur/kino/brigitte-bardot-nachruf-auf-eine-ikone-des-franzoesischen-kinos-a-45db3b04-b12b-469b-a651-c4009d658475#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen](https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen-a-cec63e37-dc1b-4e4f-94a5-f3f552ecf210#ref=rss)
+* [https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben](https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben-a-ad33edd6-46bf-466e-a12d-f87d83ed54f7#ref=rss)
+### demokratie
+
+* [https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen](https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen-a-cec63e37-dc1b-4e4f-94a5-f3f552ecf210#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen](https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen-a-cec63e37-dc1b-4e4f-94a5-f3f552ecf210#ref=rss)
+* [https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere](https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere-a-8cd1cd09-4784-4ba8-8136-4cd39728fb4b#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen](https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen-a-cec63e37-dc1b-4e4f-94a5-f3f552ecf210#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen](https://www.spiegel.de/geschichte/weimarer-republik-was-wir-aus-dem-untergang-der-ersten-deutschen-demokratie-heute-lernen-koennen-a-cec63e37-dc1b-4e4f-94a5-f3f552ecf210#ref=rss)
+* [https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben](https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben-a-ad33edd6-46bf-466e-a12d-f87d83ed54f7#ref=rss)
+### peter
+
+* [https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben](https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben-a-ad33edd6-46bf-466e-a12d-f87d83ed54f7#ref=rss)
+### sattmann
+
+* [https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben](https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben-a-ad33edd6-46bf-466e-a12d-f87d83ed54f7#ref=rss)
+### 77
+
+* [https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben](https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben-a-ad33edd6-46bf-466e-a12d-f87d83ed54f7#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben](https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben-a-ad33edd6-46bf-466e-a12d-f87d83ed54f7#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben](https://www.spiegel.de/kultur/peter-sattmann-ist-tot-schauspieler-im-alter-von-77-jahren-gestorben-a-ad33edd6-46bf-466e-a12d-f87d83ed54f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/psychologe-stephan-gruenewald-wir-deutschen-haben-ein-starkes-beduerfnis-nach-normen](https://www.spiegel.de/wirtschaft/psychologe-stephan-gruenewald-wir-deutschen-haben-ein-starkes-beduerfnis-nach-normen-a-3645c91e-4c9a-46b1-bda5-1a7ca33d3112#ref=rss)
+### nachruf
+
+* [https://www.spiegel.de/kultur/kino/brigitte-bardot-nachruf-auf-eine-ikone-des-franzoesischen-kinos](https://www.spiegel.de/kultur/kino/brigitte-bardot-nachruf-auf-eine-ikone-des-franzoesischen-kinos-a-45db3b04-b12b-469b-a651-c4009d658475#ref=rss)
+* [https://www.spiegel.de/kultur/brigitte-bardot-ein-leben-in-bildern-nachruf-auf-eine-ikone](https://www.spiegel.de/kultur/brigitte-bardot-ein-leben-in-bildern-nachruf-auf-eine-ikone-a-478571e8-8329-4a08-aff4-2669e4dd0453#ref=rss)
+### ikone
+
+* [https://www.spiegel.de/kultur/kino/brigitte-bardot-nachruf-auf-eine-ikone-des-franzoesischen-kinos](https://www.spiegel.de/kultur/kino/brigitte-bardot-nachruf-auf-eine-ikone-des-franzoesischen-kinos-a-45db3b04-b12b-469b-a651-c4009d658475#ref=rss)
+* [https://www.spiegel.de/kultur/brigitte-bardot-ein-leben-in-bildern-nachruf-auf-eine-ikone](https://www.spiegel.de/kultur/brigitte-bardot-ein-leben-in-bildern-nachruf-auf-eine-ikone-a-478571e8-8329-4a08-aff4-2669e4dd0453#ref=rss)
+### sprachrohr
+
+* [https://www.spiegel.de/kultur/kino/brigitte-bardot-nachruf-auf-eine-ikone-des-franzoesischen-kinos](https://www.spiegel.de/kultur/kino/brigitte-bardot-nachruf-auf-eine-ikone-des-franzoesischen-kinos-a-45db3b04-b12b-469b-a651-c4009d658475#ref=rss)
+* [https://www.spiegel.de/panorama/suizid-nach-ki-chat-wie-geht-es-der-mutter-von-sewell-setzer-heute](https://www.spiegel.de/panorama/suizid-nach-ki-chat-wie-geht-es-der-mutter-von-sewell-setzer-heute-a-0c1d331f-afbe-4b5e-859b-bebe72d46bd9#ref=rss)
+### grund
+
+* [https://www.spiegel.de/panorama/papua-neuguinea-australischer-luxuskreuzer-laeuft-auf-grund](https://www.spiegel.de/panorama/papua-neuguinea-australischer-luxuskreuzer-laeuft-auf-grund-a-54c16f57-1c47-48d8-a329-95a742704b9f#ref=rss)
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen-a-ea401d07-3904-4377-8b9e-d257d27f9f9e#ref=rss)
 ### erst
 
-* [https://www.spiegel.de/panorama/justiz/bochum-mann-bei-sek-einsatz-angeschossen](https://www.spiegel.de/panorama/justiz/bochum-mann-bei-sek-einsatz-angeschossen-a-95bb7903-e399-4ac5-b0f7-59a4c196c361#ref=rss)
-* [https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert](https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert-a-ebf228a0-9472-42c4-a62e-09f8683e9c54#ref=rss)
-### wählen
+* [https://www.spiegel.de/panorama/papua-neuguinea-australischer-luxuskreuzer-laeuft-auf-grund](https://www.spiegel.de/panorama/papua-neuguinea-australischer-luxuskreuzer-laeuft-auf-grund-a-54c16f57-1c47-48d8-a329-95a742704b9f#ref=rss)
+* [https://www.spiegel.de/ausland/wintersturm-johannes-chaos-in-skandinavien-mit-todesopfern-in-schweden](https://www.spiegel.de/ausland/wintersturm-johannes-chaos-in-skandinavien-mit-todesopfern-in-schweden-a-a9f30143-4a8c-4454-b871-da6445c6947d#ref=rss)
+### bernd
 
-* [https://www.spiegel.de/wissenschaft/klimawandel-wie-aktivisten-strengere-klimaziele-vor-gericht-erstreiten](https://www.spiegel.de/wissenschaft/klimawandel-wie-aktivisten-strengere-klimaziele-vor-gericht-erstreiten-a-9a7826cb-5b73-48e8-8ce4-74d26ae71d31#ref=rss)
-* [https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert](https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert-a-727bdd0b-a4d8-4423-95c9-b22b3f5cfe99#ref=rss)
-### israel
+* [https://www.spiegel.de/netzwelt/web/food-influencer-bernd-zehner-leute-wie-ich-entscheiden-ob-ein-gastronom-millionaer-wird](https://www.spiegel.de/netzwelt/web/food-influencer-bernd-zehner-leute-wie-ich-entscheiden-ob-ein-gastronom-millionaer-wird-a-279fa244-e0a4-4ab2-bfd3-3f3be48dcf30#ref=rss)
+### zehner
 
-* [https://www.spiegel.de/ausland/nahost-israelische-armee-setzt-einsatz-in-westjordanland-fort](https://www.spiegel.de/ausland/nahost-israelische-armee-setzt-einsatz-in-westjordanland-fort-a-e716bd6c-cbe4-4310-826e-5dd0aff5f9f2#ref=rss)
-### armee
+* [https://www.spiegel.de/netzwelt/web/food-influencer-bernd-zehner-leute-wie-ich-entscheiden-ob-ein-gastronom-millionaer-wird](https://www.spiegel.de/netzwelt/web/food-influencer-bernd-zehner-leute-wie-ich-entscheiden-ob-ein-gastronom-millionaer-wird-a-279fa244-e0a4-4ab2-bfd3-3f3be48dcf30#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/ausland/nahost-israelische-armee-setzt-einsatz-in-westjordanland-fort](https://www.spiegel.de/ausland/nahost-israelische-armee-setzt-einsatz-in-westjordanland-fort-a-e716bd6c-cbe4-4310-826e-5dd0aff5f9f2#ref=rss)
-### militärregime
+* [https://www.spiegel.de/netzwelt/web/food-influencer-bernd-zehner-leute-wie-ich-entscheiden-ob-ein-gastronom-millionaer-wird](https://www.spiegel.de/netzwelt/web/food-influencer-bernd-zehner-leute-wie-ich-entscheiden-ob-ein-gastronom-millionaer-wird-a-279fa244-e0a4-4ab2-bfd3-3f3be48dcf30#ref=rss)
+* [https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere](https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere-a-8cd1cd09-4784-4ba8-8136-4cd39728fb4b#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert](https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert-a-727bdd0b-a4d8-4423-95c9-b22b3f5cfe99#ref=rss)
-### wahl
+* [https://www.spiegel.de/netzwelt/web/food-influencer-bernd-zehner-leute-wie-ich-entscheiden-ob-ein-gastronom-millionaer-wird](https://www.spiegel.de/netzwelt/web/food-influencer-bernd-zehner-leute-wie-ich-entscheiden-ob-ein-gastronom-millionaer-wird-a-279fa244-e0a4-4ab2-bfd3-3f3be48dcf30#ref=rss)
+* [https://www.spiegel.de/wirtschaft/psychologe-stephan-gruenewald-wir-deutschen-haben-ein-starkes-beduerfnis-nach-normen](https://www.spiegel.de/wirtschaft/psychologe-stephan-gruenewald-wir-deutschen-haben-ein-starkes-beduerfnis-nach-normen-a-3645c91e-4c9a-46b1-bda5-1a7ca33d3112#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert](https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert-a-727bdd0b-a4d8-4423-95c9-b22b3f5cfe99#ref=rss)
-* [https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft](https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft-a-4ebb1835-21b2-4b53-8e24-243b834d67e2#ref=rss)
-### erstmals
+* [https://www.spiegel.de/netzwelt/web/food-influencer-bernd-zehner-leute-wie-ich-entscheiden-ob-ein-gastronom-millionaer-wird](https://www.spiegel.de/netzwelt/web/food-influencer-bernd-zehner-leute-wie-ich-entscheiden-ob-ein-gastronom-millionaer-wird-a-279fa244-e0a4-4ab2-bfd3-3f3be48dcf30#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pflege-kann-die-bundesregierung-die-reform-wuppen](https://www.spiegel.de/politik/deutschland/pflege-kann-die-bundesregierung-die-reform-wuppen-a-4befa0df-f189-4211-ab7f-fb0d946428b9#ref=rss)
+### wissen
 
-* [https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert](https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert-a-727bdd0b-a4d8-4423-95c9-b22b3f5cfe99#ref=rss)
-* [https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft](https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft-a-4ebb1835-21b2-4b53-8e24-243b834d67e2#ref=rss)
-### bürger
+* [https://www.spiegel.de/ausland/vietnam-wie-ich-mit-us-veteranen-durch-das-land-fuhr](https://www.spiegel.de/ausland/vietnam-wie-ich-mit-us-veteranen-durch-das-land-fuhr-a-bee0f611-7a4e-4e1a-a3ee-b415fa72e839#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### berlinspandau
 
-* [https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert](https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert-a-727bdd0b-a4d8-4423-95c9-b22b3f5cfe99#ref=rss)
-* [https://www.spiegel.de/ausland/niger-verkuendet-generalmobilmachung-gegen-dschihadisten](https://www.spiegel.de/ausland/niger-verkuendet-generalmobilmachung-gegen-dschihadisten-a-e9e97cc6-acba-44d9-97b1-08079347718b#ref=rss)
-### dänemark
+* [https://www.spiegel.de/panorama/berlin-spandau-hochhaus-brand-nach-neun-stunden-geloescht](https://www.spiegel.de/panorama/berlin-spandau-hochhaus-brand-nach-neun-stunden-geloescht-a-2f8ba14f-7242-45ed-99b4-ce636a0666d2#ref=rss)
+### fast
 
-* [https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht](https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht-a-eae5a669-55ac-4673-a8cd-f1b51459beda#ref=rss)
-### neuen
+* [https://www.spiegel.de/panorama/berlin-spandau-hochhaus-brand-nach-neun-stunden-geloescht](https://www.spiegel.de/panorama/berlin-spandau-hochhaus-brand-nach-neun-stunden-geloescht-a-2f8ba14f-7242-45ed-99b4-ce636a0666d2#ref=rss)
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen-a-ea401d07-3904-4377-8b9e-d257d27f9f9e#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht](https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht-a-eae5a669-55ac-4673-a8cd-f1b51459beda#ref=rss)
-### wetter
+* [https://www.spiegel.de/panorama/berlin-spandau-hochhaus-brand-nach-neun-stunden-geloescht](https://www.spiegel.de/panorama/berlin-spandau-hochhaus-brand-nach-neun-stunden-geloescht-a-2f8ba14f-7242-45ed-99b4-ce636a0666d2#ref=rss)
+* [https://www.spiegel.de/sport/apnoetauchen-vitomir-maricic-und-das-luftanhalten-als-grenzerfahrung](https://www.spiegel.de/sport/apnoetauchen-vitomir-maricic-und-das-luftanhalten-als-grenzerfahrung-a-1e684f6d-e35e-4970-8516-a66854d341c1#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis](https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis-a-e11b0426-f808-438c-9879-c5b7c5c03013#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr](https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr-a-5a86490f-9afd-48b1-bdc5-dd5894102ef9#ref=rss)
-### zahlreiche
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis](https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis-a-e11b0426-f808-438c-9879-c5b7c5c03013#ref=rss)
-### glatteis
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### youtube
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis](https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis-a-e11b0426-f808-438c-9879-c5b7c5c03013#ref=rss)
-### sonntag
+* [https://www.spiegel.de/netzwelt/web/ai-slop-auf-youtube-milliarden-aufrufe-fuer-sinnfreie-ki-videos](https://www.spiegel.de/netzwelt/web/ai-slop-auf-youtube-milliarden-aufrufe-fuer-sinnfreie-ki-videos-a-eb1da7db-5b0e-48bb-9675-d3395a0b14ff#ref=rss)
+### ailton
 
-* [https://www.spiegel.de/politik/deutschland/news-acht-politische-wuensche-fuer-2026](https://www.spiegel.de/politik/deutschland/news-acht-politische-wuensche-fuer-2026-a-723ce69b-b7ca-4cfb-aed9-1fad3d6f8d5c#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus-a-4083870c-5eaa-4b34-989d-b9379db8d9e3#ref=rss)
-### einblicke
+* [https://www.spiegel.de/sport/fussball/bundesliga-ailton-kauft-torjaegerkanone-nach-18-jahren-zurueck](https://www.spiegel.de/sport/fussball/bundesliga-ailton-kauft-torjaegerkanone-nach-18-jahren-zurueck-a-9b76939f-87a6-4aeb-bdf6-3037f216ee95#ref=rss)
+### torjägerkanone
 
-* [https://www.spiegel.de/partnerschaft/lust-auf-liebe-und-sex-mein-leben-als-spiegel-sexkolumnistin](https://www.spiegel.de/partnerschaft/lust-auf-liebe-und-sex-mein-leben-als-spiegel-sexkolumnistin-a-4648c54f-207a-4c58-bd4f-8bdd9e9f6acc#ref=rss)
-* [https://www.spiegel.de/panorama/leute/boris-becker-so-feierte-der-ex-tennis-star-weihnachten](https://www.spiegel.de/panorama/leute/boris-becker-so-feierte-der-ex-tennis-star-weihnachten-a-db303aaf-fd7c-4c0a-98c2-d274db119b42#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-ailton-kauft-torjaegerkanone-nach-18-jahren-zurueck](https://www.spiegel.de/sport/fussball/bundesliga-ailton-kauft-torjaegerkanone-nach-18-jahren-zurueck-a-9b76939f-87a6-4aeb-bdf6-3037f216ee95#ref=rss)
+### kevin
+
+* [https://www.spiegel.de/panorama/leute/kevin-kuehnert-ex-spd-generalsekretaer-kehrt-auf-die-buehne-zurueck](https://www.spiegel.de/panorama/leute/kevin-kuehnert-ex-spd-generalsekretaer-kehrt-auf-die-buehne-zurueck-a-71c45baf-d85e-4abc-9819-65ddac717b5f#ref=rss)
+### kühnert
+
+* [https://www.spiegel.de/panorama/leute/kevin-kuehnert-ex-spd-generalsekretaer-kehrt-auf-die-buehne-zurueck](https://www.spiegel.de/panorama/leute/kevin-kuehnert-ex-spd-generalsekretaer-kehrt-auf-die-buehne-zurueck-a-71c45baf-d85e-4abc-9819-65ddac717b5f#ref=rss)
+### kehrt
+
+* [https://www.spiegel.de/panorama/leute/kevin-kuehnert-ex-spd-generalsekretaer-kehrt-auf-die-buehne-zurueck](https://www.spiegel.de/panorama/leute/kevin-kuehnert-ex-spd-generalsekretaer-kehrt-auf-die-buehne-zurueck-a-71c45baf-d85e-4abc-9819-65ddac717b5f#ref=rss)
+### bühne
+
+* [https://www.spiegel.de/panorama/leute/kevin-kuehnert-ex-spd-generalsekretaer-kehrt-auf-die-buehne-zurueck](https://www.spiegel.de/panorama/leute/kevin-kuehnert-ex-spd-generalsekretaer-kehrt-auf-die-buehne-zurueck-a-71c45baf-d85e-4abc-9819-65ddac717b5f#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/panorama/fischvergiftung-vermutet-mutter-und-tochter-sterben-nach-weihnachtsessen](https://www.spiegel.de/panorama/fischvergiftung-vermutet-mutter-und-tochter-sterben-nach-weihnachtsessen-a-a592cf9c-49ae-4e40-8142-d76d4c64a5a3#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-unbekannter-zuendet-kaeltebus-fuer-hilfsbeduerftige-an](https://www.spiegel.de/panorama/berlin-unbekannter-zuendet-kaeltebus-fuer-hilfsbeduerftige-an-a-1e0e35e0-c30c-48eb-9eef-83b476dc3e08#ref=rss)
+### unbekannter
+
+* [https://www.spiegel.de/panorama/berlin-unbekannter-zuendet-kaeltebus-fuer-hilfsbeduerftige-an](https://www.spiegel.de/panorama/berlin-unbekannter-zuendet-kaeltebus-fuer-hilfsbeduerftige-an-a-1e0e35e0-c30c-48eb-9eef-83b476dc3e08#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/panorama/berlin-unbekannter-zuendet-kaeltebus-fuer-hilfsbeduerftige-an](https://www.spiegel.de/panorama/berlin-unbekannter-zuendet-kaeltebus-fuer-hilfsbeduerftige-an-a-1e0e35e0-c30c-48eb-9eef-83b476dc3e08#ref=rss)
+* [https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere](https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere-a-8cd1cd09-4784-4ba8-8136-4cd39728fb4b#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/kultur/brigitte-bardot-ein-leben-in-bildern-nachruf-auf-eine-ikone](https://www.spiegel.de/kultur/brigitte-bardot-ein-leben-in-bildern-nachruf-auf-eine-ikone-a-478571e8-8329-4a08-aff4-2669e4dd0453#ref=rss)
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen-a-ea401d07-3904-4377-8b9e-d257d27f9f9e#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-mit-ulrich-tukur-murot-und-der-elefant-im-raum-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-mit-ulrich-tukur-murot-und-der-elefant-im-raum-im-schnellcheck-a-a51d2767-e018-4a86-83d3-72ac8d89d8b2#ref=rss)
+### murot
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-mit-ulrich-tukur-murot-und-der-elefant-im-raum-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-mit-ulrich-tukur-murot-und-der-elefant-im-raum-im-schnellcheck-a-a51d2767-e018-4a86-83d3-72ac8d89d8b2#ref=rss)
+### dartswm
+
+* [https://www.spiegel.de/sport/fussball/darts-wm-nach-ricardo-pietreczko-scheidet-auch-martin-schindler-in-runde-drei-aus](https://www.spiegel.de/sport/fussball/darts-wm-nach-ricardo-pietreczko-scheidet-auch-martin-schindler-in-runde-drei-aus-a-e9635b42-8762-4d82-94ea-cd3a6f3218df#ref=rss)
+### martin
+
+* [https://www.spiegel.de/sport/fussball/darts-wm-nach-ricardo-pietreczko-scheidet-auch-martin-schindler-in-runde-drei-aus](https://www.spiegel.de/sport/fussball/darts-wm-nach-ricardo-pietreczko-scheidet-auch-martin-schindler-in-runde-drei-aus-a-e9635b42-8762-4d82-94ea-cd3a6f3218df#ref=rss)
+### schindler
+
+* [https://www.spiegel.de/sport/fussball/darts-wm-nach-ricardo-pietreczko-scheidet-auch-martin-schindler-in-runde-drei-aus](https://www.spiegel.de/sport/fussball/darts-wm-nach-ricardo-pietreczko-scheidet-auch-martin-schindler-in-runde-drei-aus-a-e9635b42-8762-4d82-94ea-cd3a6f3218df#ref=rss)
 ### runde
 
-* [https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft](https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft-a-4ebb1835-21b2-4b53-8e24-243b834d67e2#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus-a-4083870c-5eaa-4b34-989d-b9379db8d9e3#ref=rss)
-### nigeria
+* [https://www.spiegel.de/sport/fussball/darts-wm-nach-ricardo-pietreczko-scheidet-auch-martin-schindler-in-runde-drei-aus](https://www.spiegel.de/sport/fussball/darts-wm-nach-ricardo-pietreczko-scheidet-auch-martin-schindler-in-runde-drei-aus-a-e9635b42-8762-4d82-94ea-cd3a6f3218df#ref=rss)
+### vitomir
 
-* [https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk](https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk-a-a0af990e-defe-449d-921b-d3458d01a5ec#ref=rss)
-### niger
+* [https://www.spiegel.de/sport/apnoetauchen-vitomir-maricic-und-das-luftanhalten-als-grenzerfahrung](https://www.spiegel.de/sport/apnoetauchen-vitomir-maricic-und-das-luftanhalten-als-grenzerfahrung-a-1e684f6d-e35e-4970-8516-a66854d341c1#ref=rss)
+### maričić
 
-* [https://www.spiegel.de/ausland/niger-verkuendet-generalmobilmachung-gegen-dschihadisten](https://www.spiegel.de/ausland/niger-verkuendet-generalmobilmachung-gegen-dschihadisten-a-e9e97cc6-acba-44d9-97b1-08079347718b#ref=rss)
-### jair
+* [https://www.spiegel.de/sport/apnoetauchen-vitomir-maricic-und-das-luftanhalten-als-grenzerfahrung](https://www.spiegel.de/sport/apnoetauchen-vitomir-maricic-und-das-luftanhalten-als-grenzerfahrung-a-1e684f6d-e35e-4970-8516-a66854d341c1#ref=rss)
+### luftanhalten
 
-* [https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert](https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert-a-ebf228a0-9472-42c4-a62e-09f8683e9c54#ref=rss)
-### bolsonaro
+* [https://www.spiegel.de/sport/apnoetauchen-vitomir-maricic-und-das-luftanhalten-als-grenzerfahrung](https://www.spiegel.de/sport/apnoetauchen-vitomir-maricic-und-das-luftanhalten-als-grenzerfahrung-a-1e684f6d-e35e-4970-8516-a66854d341c1#ref=rss)
+### jamie
 
-* [https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert](https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert-a-ebf228a0-9472-42c4-a62e-09f8683e9c54#ref=rss)
-### brasiliens
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen-a-ea401d07-3904-4377-8b9e-d257d27f9f9e#ref=rss)
+### lee
 
-* [https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert](https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert-a-ebf228a0-9472-42c4-a62e-09f8683e9c54#ref=rss)
-### expräsident
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen-a-ea401d07-3904-4377-8b9e-d257d27f9f9e#ref=rss)
+### curtis
 
-* [https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert](https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert-a-ebf228a0-9472-42c4-a62e-09f8683e9c54#ref=rss)
-### weihnachten
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen-a-ea401d07-3904-4377-8b9e-d257d27f9f9e#ref=rss)
+### geworden
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr](https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr-a-5a86490f-9afd-48b1-bdc5-dd5894102ef9#ref=rss)
-* [https://www.spiegel.de/panorama/leute/boris-becker-so-feierte-der-ex-tennis-star-weihnachten](https://www.spiegel.de/panorama/leute/boris-becker-so-feierte-der-ex-tennis-star-weihnachten-a-db303aaf-fd7c-4c0a-98c2-d274db119b42#ref=rss)
-### temperaturen
+* [https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen](https://www.spiegel.de/kultur/kino/jamie-lee-curtis-schauspielerin-sollte-als-teenager-fuer-der-exorzist-vorsprechen-a-ea401d07-3904-4377-8b9e-d257d27f9f9e#ref=rss)
+* [https://www.spiegel.de/panorama/suizid-nach-ki-chat-wie-geht-es-der-mutter-von-sewell-setzer-heute](https://www.spiegel.de/panorama/suizid-nach-ki-chat-wie-geht-es-der-mutter-von-sewell-setzer-heute-a-0c1d331f-afbe-4b5e-859b-bebe72d46bd9#ref=rss)
+### scharfe
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr](https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr-a-5a86490f-9afd-48b1-bdc5-dd5894102ef9#ref=rss)
-### ricardo
+* [https://www.spiegel.de/politik/deutschland/pflege-kann-die-bundesregierung-die-reform-wuppen](https://www.spiegel.de/politik/deutschland/pflege-kann-die-bundesregierung-die-reform-wuppen-a-4befa0df-f189-4211-ab7f-fb0d946428b9#ref=rss)
+* [https://www.spiegel.de/panorama/muenchen-feuerwehr-baut-eisbachwelle-wieder-ab-surfer-sprechen-von-kampfansage](https://www.spiegel.de/panorama/muenchen-feuerwehr-baut-eisbachwelle-wieder-ab-surfer-sprechen-von-kampfansage-a-61e2fd71-3787-4b31-abc0-5b7bd0740cb7#ref=rss)
+### smartphone
 
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus-a-4083870c-5eaa-4b34-989d-b9379db8d9e3#ref=rss)
-### pietreczko
+* [https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere](https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere-a-8cd1cd09-4784-4ba8-8136-4cd39728fb4b#ref=rss)
+### mensch
 
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus-a-4083870c-5eaa-4b34-989d-b9379db8d9e3#ref=rss)
-### andreas
+* [https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere](https://www.spiegel.de/start/smartphone-waere-mein-leben-besser-wenn-ich-endlich-meine-bildschirmzeit-reduziere-a-8cd1cd09-4784-4ba8-8136-4cd39728fb4b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/psychologe-stephan-gruenewald-wir-deutschen-haben-ein-starkes-beduerfnis-nach-normen](https://www.spiegel.de/wirtschaft/psychologe-stephan-gruenewald-wir-deutschen-haben-ein-starkes-beduerfnis-nach-normen-a-3645c91e-4c9a-46b1-bda5-1a7ca33d3112#ref=rss)
+### wintersturm
 
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus-a-4083870c-5eaa-4b34-989d-b9379db8d9e3#ref=rss)
-### harrysson
+* [https://www.spiegel.de/ausland/wintersturm-johannes-chaos-in-skandinavien-mit-todesopfern-in-schweden](https://www.spiegel.de/ausland/wintersturm-johannes-chaos-in-skandinavien-mit-todesopfern-in-schweden-a-a9f30143-4a8c-4454-b871-da6445c6947d#ref=rss)
+### johannes
 
-* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus-a-4083870c-5eaa-4b34-989d-b9379db8d9e3#ref=rss)
-### boris
+* [https://www.spiegel.de/ausland/wintersturm-johannes-chaos-in-skandinavien-mit-todesopfern-in-schweden](https://www.spiegel.de/ausland/wintersturm-johannes-chaos-in-skandinavien-mit-todesopfern-in-schweden-a-a9f30143-4a8c-4454-b871-da6445c6947d#ref=rss)
+### chaos
 
-* [https://www.spiegel.de/panorama/leute/boris-becker-so-feierte-der-ex-tennis-star-weihnachten](https://www.spiegel.de/panorama/leute/boris-becker-so-feierte-der-ex-tennis-star-weihnachten-a-db303aaf-fd7c-4c0a-98c2-d274db119b42#ref=rss)
-### becker
+* [https://www.spiegel.de/ausland/wintersturm-johannes-chaos-in-skandinavien-mit-todesopfern-in-schweden](https://www.spiegel.de/ausland/wintersturm-johannes-chaos-in-skandinavien-mit-todesopfern-in-schweden-a-a9f30143-4a8c-4454-b871-da6445c6947d#ref=rss)
+### nordeuropa
 
-* [https://www.spiegel.de/panorama/leute/boris-becker-so-feierte-der-ex-tennis-star-weihnachten](https://www.spiegel.de/panorama/leute/boris-becker-so-feierte-der-ex-tennis-star-weihnachten-a-db303aaf-fd7c-4c0a-98c2-d274db119b42#ref=rss)
+* [https://www.spiegel.de/ausland/wintersturm-johannes-chaos-in-skandinavien-mit-todesopfern-in-schweden](https://www.spiegel.de/ausland/wintersturm-johannes-chaos-in-skandinavien-mit-todesopfern-in-schweden-a-a9f30143-4a8c-4454-b871-da6445c6947d#ref=rss)
+### schweden
+
+* [https://www.spiegel.de/ausland/wintersturm-johannes-chaos-in-skandinavien-mit-todesopfern-in-schweden](https://www.spiegel.de/ausland/wintersturm-johannes-chaos-in-skandinavien-mit-todesopfern-in-schweden-a-a9f30143-4a8c-4454-b871-da6445c6947d#ref=rss)
+### psychologe
+
+* [https://www.spiegel.de/wirtschaft/psychologe-stephan-gruenewald-wir-deutschen-haben-ein-starkes-beduerfnis-nach-normen](https://www.spiegel.de/wirtschaft/psychologe-stephan-gruenewald-wir-deutschen-haben-ein-starkes-beduerfnis-nach-normen-a-3645c91e-4c9a-46b1-bda5-1a7ca33d3112#ref=rss)
+### stephan
+
+* [https://www.spiegel.de/wirtschaft/psychologe-stephan-gruenewald-wir-deutschen-haben-ein-starkes-beduerfnis-nach-normen](https://www.spiegel.de/wirtschaft/psychologe-stephan-gruenewald-wir-deutschen-haben-ein-starkes-beduerfnis-nach-normen-a-3645c91e-4c9a-46b1-bda5-1a7ca33d3112#ref=rss)
+### grünewald
+
+* [https://www.spiegel.de/wirtschaft/psychologe-stephan-gruenewald-wir-deutschen-haben-ein-starkes-beduerfnis-nach-normen](https://www.spiegel.de/wirtschaft/psychologe-stephan-gruenewald-wir-deutschen-haben-ein-starkes-beduerfnis-nach-normen-a-3645c91e-4c9a-46b1-bda5-1a7ca33d3112#ref=rss)
+### sewell
+
+* [https://www.spiegel.de/panorama/suizid-nach-ki-chat-wie-geht-es-der-mutter-von-sewell-setzer-heute](https://www.spiegel.de/panorama/suizid-nach-ki-chat-wie-geht-es-der-mutter-von-sewell-setzer-heute-a-0c1d331f-afbe-4b5e-859b-bebe72d46bd9#ref=rss)
+### setzer
+
+* [https://www.spiegel.de/panorama/suizid-nach-ki-chat-wie-geht-es-der-mutter-von-sewell-setzer-heute](https://www.spiegel.de/panorama/suizid-nach-ki-chat-wie-geht-es-der-mutter-von-sewell-setzer-heute-a-0c1d331f-afbe-4b5e-859b-bebe72d46bd9#ref=rss)
+### surfer
+
+* [https://www.spiegel.de/panorama/muenchen-feuerwehr-baut-eisbachwelle-wieder-ab-surfer-sprechen-von-kampfansage](https://www.spiegel.de/panorama/muenchen-feuerwehr-baut-eisbachwelle-wieder-ab-surfer-sprechen-von-kampfansage-a-61e2fd71-3787-4b31-abc0-5b7bd0740cb7#ref=rss)
 
