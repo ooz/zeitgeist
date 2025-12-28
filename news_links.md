@@ -4,274 +4,342 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### berlin
-
-* [https://www.spiegel.de/panorama/glaette-mehrere-berliner-kliniken-ueberlastet-wegen-knochenbruechen](https://www.spiegel.de/panorama/glaette-mehrere-berliner-kliniken-ueberlastet-wegen-knochenbruechen-a-9404dda5-93f0-48a7-adbc-1753a6f6b815#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-anteil-von-kindern-und-jugendlichen-an-gewalttaten-bleibt-besorgniserregend-hoch](https://www.spiegel.de/panorama/justiz/berlin-anteil-von-kindern-und-jugendlichen-an-gewalttaten-bleibt-besorgniserregend-hoch-a-b957bf3c-efe4-466c-a751-e120e671f449#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-glatteis-ueberrascht-autos-und-fussgaenger-565-unfaelle-allein-in-berlin](https://www.spiegel.de/panorama/wetter-glatteis-ueberrascht-autos-und-fussgaenger-565-unfaelle-allein-in-berlin-a-611685ba-ec6f-41d4-99fa-7e81248d6385#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mutmassliche-foerderaffaere-in-berlin-wie-die-cdu-projekten-gegen-antisemitismus-ohne-pruefung-geld-zuschanzte](https://www.spiegel.de/politik/deutschland/mutmassliche-foerderaffaere-in-berlin-wie-die-cdu-projekten-gegen-antisemitismus-ohne-pruefung-geld-zuschanzte-a-a7d7a093-e375-4744-9bfe-a9499ad4875d#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/hagen-wie-unser-autor-die-recherche-zu-armutsmigration-erlebt-hat](https://www.spiegel.de/panorama/hagen-wie-unser-autor-die-recherche-zu-armutsmigration-erlebt-hat-a-681f5ffc-56f6-4ab8-af15-d86d34475db1#ref=rss)
-* [https://www.spiegel.de/panorama/kinderlaehmung-in-deutschland-ich-nehme-jede-impfung-mit](https://www.spiegel.de/panorama/kinderlaehmung-in-deutschland-ich-nehme-jede-impfung-mit-a-60d21404-a5ef-4e3d-9412-75b554140cb1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bitterfeld-wolfen-ich-schrieb-ueber-rechtsextremismus-und-ploetzlich-war-ich-das-problem](https://www.spiegel.de/politik/deutschland/bitterfeld-wolfen-ich-schrieb-ueber-rechtsextremismus-und-ploetzlich-war-ich-das-problem-a-65551b64-3f00-42a0-b26a-032739397cf8#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/glaette-mehrere-berliner-kliniken-ueberlastet-wegen-knochenbruechen](https://www.spiegel.de/panorama/glaette-mehrere-berliner-kliniken-ueberlastet-wegen-knochenbruechen-a-9404dda5-93f0-48a7-adbc-1753a6f6b815#ref=rss)
-* [https://www.spiegel.de/panorama/hagen-wie-unser-autor-die-recherche-zu-armutsmigration-erlebt-hat](https://www.spiegel.de/panorama/hagen-wie-unser-autor-die-recherche-zu-armutsmigration-erlebt-hat-a-681f5ffc-56f6-4ab8-af15-d86d34475db1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-anteil-von-kindern-und-jugendlichen-an-gewalttaten-bleibt-besorgniserregend-hoch](https://www.spiegel.de/panorama/justiz/berlin-anteil-von-kindern-und-jugendlichen-an-gewalttaten-bleibt-besorgniserregend-hoch-a-b957bf3c-efe4-466c-a751-e120e671f449#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-glatteis-ueberrascht-autos-und-fussgaenger-565-unfaelle-allein-in-berlin](https://www.spiegel.de/panorama/wetter-glatteis-ueberrascht-autos-und-fussgaenger-565-unfaelle-allein-in-berlin-a-611685ba-ec6f-41d4-99fa-7e81248d6385#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/glaette-mehrere-berliner-kliniken-ueberlastet-wegen-knochenbruechen](https://www.spiegel.de/panorama/glaette-mehrere-berliner-kliniken-ueberlastet-wegen-knochenbruechen-a-9404dda5-93f0-48a7-adbc-1753a6f6b815#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-altinha-bringt-gemeinschaft-zurueck-an-rios-straende](https://www.spiegel.de/ausland/brasilien-altinha-bringt-gemeinschaft-zurueck-an-rios-straende-a-f91d3db7-eaa3-4348-823d-62be8d139ff1#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-sieben-menschen-in-italien-wegen-verdachts-der-terrorfinanzierung-festgenommen](https://www.spiegel.de/ausland/hamas-sieben-menschen-in-italien-wegen-verdachts-der-terrorfinanzierung-festgenommen-a-3da3006f-a47e-4577-9e4e-ca25e185b904#ref=rss)
-* [https://www.spiegel.de/panorama/el-gordo-lottogewinner-waeren-fast-leer-ausgegangen-doch-die-gemeinde-findet-eine-loesung](https://www.spiegel.de/panorama/el-gordo-lottogewinner-waeren-fast-leer-ausgegangen-doch-die-gemeinde-findet-eine-loesung-a-8292954e-1f32-40d6-b97a-dd7ddb4e02f6#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-trifft-erstmals-fuer-den-fc-liverpool](https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-trifft-erstmals-fuer-den-fc-liverpool-a-6220e2fe-0212-4514-9372-9371aad66687#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-soehne-von-diogo-jota-als-einlaufkinder-bei-spiel-gegen-wolverhampton](https://www.spiegel.de/sport/fussball/fc-liverpool-soehne-von-diogo-jota-als-einlaufkinder-bei-spiel-gegen-wolverhampton-a-509939f2-aae8-4d8b-baf7-1a0c4e452a92#ref=rss)
-### liverpool
-
-* [https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-trifft-erstmals-fuer-den-fc-liverpool](https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-trifft-erstmals-fuer-den-fc-liverpool-a-6220e2fe-0212-4514-9372-9371aad66687#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-soehne-von-diogo-jota-als-einlaufkinder-bei-spiel-gegen-wolverhampton](https://www.spiegel.de/sport/fussball/fc-liverpool-soehne-von-diogo-jota-als-einlaufkinder-bei-spiel-gegen-wolverhampton-a-509939f2-aae8-4d8b-baf7-1a0c4e452a92#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/wirtschaft/knigge-quiz-wie-gut-kennen-sie-die-benimmregeln](https://www.spiegel.de/wirtschaft/knigge-quiz-wie-gut-kennen-sie-die-benimmregeln-a-3215a2e4-3079-4214-b201-a303ce6a81a7#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/glaette-mehrere-berliner-kliniken-ueberlastet-wegen-knochenbruechen](https://www.spiegel.de/panorama/glaette-mehrere-berliner-kliniken-ueberlastet-wegen-knochenbruechen-a-9404dda5-93f0-48a7-adbc-1753a6f6b815#ref=rss)
-* [https://www.spiegel.de/ausland/abgeordnete-sollen-fuer-ihr-abstimmungsverhalten-systematisch-illegale-vorteile-erhalten-haben](https://www.spiegel.de/ausland/abgeordnete-sollen-fuer-ihr-abstimmungsverhalten-systematisch-illegale-vorteile-erhalten-haben-a-91a4dc7d-59cd-475e-9531-0da6c1e55689#ref=rss)
-* [https://www.spiegel.de/panorama/feuerwerk-an-silvester-in-diesen-staedten-gelten-bereits-boellerverbote](https://www.spiegel.de/panorama/feuerwerk-an-silvester-in-diesen-staedten-gelten-bereits-boellerverbote-a-5ddb6343-6151-4da1-88bf-3c413d7c34d4#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/hagen-wie-unser-autor-die-recherche-zu-armutsmigration-erlebt-hat](https://www.spiegel.de/panorama/hagen-wie-unser-autor-die-recherche-zu-armutsmigration-erlebt-hat-a-681f5ffc-56f6-4ab8-af15-d86d34475db1#ref=rss)
-* [https://www.spiegel.de/sport/sportswashing-in-diesen-sportarten-stecken-milliarden-aus-saudi-arabien](https://www.spiegel.de/sport/sportswashing-in-diesen-sportarten-stecken-milliarden-aus-saudi-arabien-a-bd3ca954-4470-44c1-9a12-85415fdb4e54#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-trifft-erstmals-fuer-den-fc-liverpool](https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-trifft-erstmals-fuer-den-fc-liverpool-a-6220e2fe-0212-4514-9372-9371aad66687#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-chatbots-eine-seele-bekommen-und-von-wem](https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-chatbots-eine-seele-bekommen-und-von-wem-a-7b37d183-eb28-4f0a-b9dd-198fae7af4af#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-soehne-von-diogo-jota-als-einlaufkinder-bei-spiel-gegen-wolverhampton](https://www.spiegel.de/sport/fussball/fc-liverpool-soehne-von-diogo-jota-als-einlaufkinder-bei-spiel-gegen-wolverhampton-a-509939f2-aae8-4d8b-baf7-1a0c4e452a92#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/brasilien-altinha-bringt-gemeinschaft-zurueck-an-rios-straende](https://www.spiegel.de/ausland/brasilien-altinha-bringt-gemeinschaft-zurueck-an-rios-straende-a-f91d3db7-eaa3-4348-823d-62be8d139ff1#ref=rss)
-* [https://www.spiegel.de/panorama/in-hamburg-bronzefiguren-verschwunden-diebe-holten-goethe-vom-sockel](https://www.spiegel.de/panorama/in-hamburg-bronzefiguren-verschwunden-diebe-holten-goethe-vom-sockel-a-4256e2bd-4b15-45db-b93b-313c950856b6#ref=rss)
-* [https://www.spiegel.de/sport/schach/magnus-carlsen-bei-schach-wm-alle-schauen-auf-seine-hose](https://www.spiegel.de/sport/schach/magnus-carlsen-bei-schach-wm-alle-schauen-auf-seine-hose-a-0bbba239-7796-4205-a076-4c9aad013b64#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/ausland/hamas-sieben-menschen-in-italien-wegen-verdachts-der-terrorfinanzierung-festgenommen](https://www.spiegel.de/ausland/hamas-sieben-menschen-in-italien-wegen-verdachts-der-terrorfinanzierung-festgenommen-a-3da3006f-a47e-4577-9e4e-ca25e185b904#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### euro
-
-* [https://www.spiegel.de/sport/sportswashing-in-diesen-sportarten-stecken-milliarden-aus-saudi-arabien](https://www.spiegel.de/sport/sportswashing-in-diesen-sportarten-stecken-milliarden-aus-saudi-arabien-a-bd3ca954-4470-44c1-9a12-85415fdb4e54#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mutmassliche-foerderaffaere-in-berlin-wie-die-cdu-projekten-gegen-antisemitismus-ohne-pruefung-geld-zuschanzte](https://www.spiegel.de/politik/deutschland/mutmassliche-foerderaffaere-in-berlin-wie-die-cdu-projekten-gegen-antisemitismus-ohne-pruefung-geld-zuschanzte-a-a7d7a093-e375-4744-9bfe-a9499ad4875d#ref=rss)
-* [https://www.spiegel.de/panorama/el-gordo-lottogewinner-waeren-fast-leer-ausgegangen-doch-die-gemeinde-findet-eine-loesung](https://www.spiegel.de/panorama/el-gordo-lottogewinner-waeren-fast-leer-ausgegangen-doch-die-gemeinde-findet-eine-loesung-a-8292954e-1f32-40d6-b97a-dd7ddb4e02f6#ref=rss)
-### gut
-
-* [https://www.spiegel.de/wirtschaft/knigge-quiz-wie-gut-kennen-sie-die-benimmregeln](https://www.spiegel.de/wirtschaft/knigge-quiz-wie-gut-kennen-sie-die-benimmregeln-a-3215a2e4-3079-4214-b201-a303ce6a81a7#ref=rss)
-* [https://www.spiegel.de/panorama/hagen-wie-unser-autor-die-recherche-zu-armutsmigration-erlebt-hat](https://www.spiegel.de/panorama/hagen-wie-unser-autor-die-recherche-zu-armutsmigration-erlebt-hat-a-681f5ffc-56f6-4ab8-af15-d86d34475db1#ref=rss)
-### alle
-
-* [https://www.spiegel.de/wirtschaft/knigge-quiz-wie-gut-kennen-sie-die-benimmregeln](https://www.spiegel.de/wirtschaft/knigge-quiz-wie-gut-kennen-sie-die-benimmregeln-a-3215a2e4-3079-4214-b201-a303ce6a81a7#ref=rss)
-* [https://www.spiegel.de/sport/schach/magnus-carlsen-bei-schach-wm-alle-schauen-auf-seine-hose](https://www.spiegel.de/sport/schach/magnus-carlsen-bei-schach-wm-alle-schauen-auf-seine-hose-a-0bbba239-7796-4205-a076-4c9aad013b64#ref=rss)
-### hauptstadt
-
-* [https://www.spiegel.de/panorama/glaette-mehrere-berliner-kliniken-ueberlastet-wegen-knochenbruechen](https://www.spiegel.de/panorama/glaette-mehrere-berliner-kliniken-ueberlastet-wegen-knochenbruechen-a-9404dda5-93f0-48a7-adbc-1753a6f6b815#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-anteil-von-kindern-und-jugendlichen-an-gewalttaten-bleibt-besorgniserregend-hoch](https://www.spiegel.de/panorama/justiz/berlin-anteil-von-kindern-und-jugendlichen-an-gewalttaten-bleibt-besorgniserregend-hoch-a-b957bf3c-efe4-466c-a751-e120e671f449#ref=rss)
-### hagen
-
-* [https://www.spiegel.de/panorama/hagen-wie-unser-autor-die-recherche-zu-armutsmigration-erlebt-hat](https://www.spiegel.de/panorama/hagen-wie-unser-autor-die-recherche-zu-armutsmigration-erlebt-hat-a-681f5ffc-56f6-4ab8-af15-d86d34475db1#ref=rss)
-### recherche
-
-* [https://www.spiegel.de/panorama/hagen-wie-unser-autor-die-recherche-zu-armutsmigration-erlebt-hat](https://www.spiegel.de/panorama/hagen-wie-unser-autor-die-recherche-zu-armutsmigration-erlebt-hat-a-681f5ffc-56f6-4ab8-af15-d86d34475db1#ref=rss)
-* [https://www.spiegel.de/geschichte/oesterreich-als-frau-in-die-verstaubte-welt-der-burschenschaften-eintauchen](https://www.spiegel.de/geschichte/oesterreich-als-frau-in-die-verstaubte-welt-der-burschenschaften-eintauchen-a-dcdc3ff0-43f5-4054-b0a8-bc4cca4db624#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/panorama/hagen-wie-unser-autor-die-recherche-zu-armutsmigration-erlebt-hat](https://www.spiegel.de/panorama/hagen-wie-unser-autor-die-recherche-zu-armutsmigration-erlebt-hat-a-681f5ffc-56f6-4ab8-af15-d86d34475db1#ref=rss)
-* [https://www.spiegel.de/panorama/drohnen-sichtungen-luftraum-ueber-hannover-zeitweise-gesperrt](https://www.spiegel.de/panorama/drohnen-sichtungen-luftraum-ueber-hannover-zeitweise-gesperrt-a-7cef3af1-2399-4b03-83fa-4ac09c9e3af5#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/panorama/hagen-wie-unser-autor-die-recherche-zu-armutsmigration-erlebt-hat](https://www.spiegel.de/panorama/hagen-wie-unser-autor-die-recherche-zu-armutsmigration-erlebt-hat-a-681f5ffc-56f6-4ab8-af15-d86d34475db1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bitterfeld-wolfen-ich-schrieb-ueber-rechtsextremismus-und-ploetzlich-war-ich-das-problem](https://www.spiegel.de/politik/deutschland/bitterfeld-wolfen-ich-schrieb-ueber-rechtsextremismus-und-ploetzlich-war-ich-das-problem-a-65551b64-3f00-42a0-b26a-032739397cf8#ref=rss)
-### florian
-
-* [https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-trifft-erstmals-fuer-den-fc-liverpool](https://www.spiegel.de/sport/fussball/premier-league-florian-wirtz-trifft-erstmals-fuer-den-fc-liverpool-a-6220e2fe-0212-4514-9372-9371aad66687#ref=rss)
-### katharina
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-katharina-schmid-will-karriere-nach-olympischen-spielen-beenden](https://www.spiegel.de/sport/wintersport/skispringen-katharina-schmid-will-karriere-nach-olympischen-spielen-beenden-a-23588cb7-ce11-4da4-acbc-5016d8cfc993#ref=rss)
-### schmid
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-katharina-schmid-will-karriere-nach-olympischen-spielen-beenden](https://www.spiegel.de/sport/wintersport/skispringen-katharina-schmid-will-karriere-nach-olympischen-spielen-beenden-a-23588cb7-ce11-4da4-acbc-5016d8cfc993#ref=rss)
-### unter
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-katharina-schmid-will-karriere-nach-olympischen-spielen-beenden](https://www.spiegel.de/sport/wintersport/skispringen-katharina-schmid-will-karriere-nach-olympischen-spielen-beenden-a-23588cb7-ce11-4da4-acbc-5016d8cfc993#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zollstreit-mit-den-usa-wie-der-eu-handelsdeal-mit-washington-von-beiden-seiten-ausgehoehlt-wird](https://www.spiegel.de/wirtschaft/zollstreit-mit-den-usa-wie-der-eu-handelsdeal-mit-washington-von-beiden-seiten-ausgehoehlt-wird-a-5d3bfdf5-e884-45a2-abf5-105d5935f23a#ref=rss)
-### muskeln
-
-* [https://www.spiegel.de/gesundheit/fitness-wie-muskeln-uns-helfen-gesund-und-schlank-zu-bleiben-podcast-mit-ingo-froboese](https://www.spiegel.de/gesundheit/fitness-wie-muskeln-uns-helfen-gesund-und-schlank-zu-bleiben-podcast-mit-ingo-froboese-a-8eab9429-b643-4b70-b65a-aef21ff45059#ref=rss)
-### uns
-
-* [https://www.spiegel.de/gesundheit/fitness-wie-muskeln-uns-helfen-gesund-und-schlank-zu-bleiben-podcast-mit-ingo-froboese](https://www.spiegel.de/gesundheit/fitness-wie-muskeln-uns-helfen-gesund-und-schlank-zu-bleiben-podcast-mit-ingo-froboese-a-8eab9429-b643-4b70-b65a-aef21ff45059#ref=rss)
-### ingo
-
-* [https://www.spiegel.de/gesundheit/fitness-wie-muskeln-uns-helfen-gesund-und-schlank-zu-bleiben-podcast-mit-ingo-froboese](https://www.spiegel.de/gesundheit/fitness-wie-muskeln-uns-helfen-gesund-und-schlank-zu-bleiben-podcast-mit-ingo-froboese-a-8eab9429-b643-4b70-b65a-aef21ff45059#ref=rss)
-### froböse
-
-* [https://www.spiegel.de/gesundheit/fitness-wie-muskeln-uns-helfen-gesund-und-schlank-zu-bleiben-podcast-mit-ingo-froboese](https://www.spiegel.de/gesundheit/fitness-wie-muskeln-uns-helfen-gesund-und-schlank-zu-bleiben-podcast-mit-ingo-froboese-a-8eab9429-b643-4b70-b65a-aef21ff45059#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/gesundheit/fitness-wie-muskeln-uns-helfen-gesund-und-schlank-zu-bleiben-podcast-mit-ingo-froboese](https://www.spiegel.de/gesundheit/fitness-wie-muskeln-uns-helfen-gesund-und-schlank-zu-bleiben-podcast-mit-ingo-froboese-a-8eab9429-b643-4b70-b65a-aef21ff45059#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nachgeforscht-hilft-salz-gegen-rotweinflecken](https://www.spiegel.de/wissenschaft/nachgeforscht-hilft-salz-gegen-rotweinflecken-a-99371aae-4b34-4af2-a60a-9e6253940b62#ref=rss)
-### gewalttaten
-
-* [https://www.spiegel.de/panorama/justiz/berlin-anteil-von-kindern-und-jugendlichen-an-gewalttaten-bleibt-besorgniserregend-hoch](https://www.spiegel.de/panorama/justiz/berlin-anteil-von-kindern-und-jugendlichen-an-gewalttaten-bleibt-besorgniserregend-hoch-a-b957bf3c-efe4-466c-a751-e120e671f449#ref=rss)
-### leicht
-
-* [https://www.spiegel.de/panorama/justiz/berlin-anteil-von-kindern-und-jugendlichen-an-gewalttaten-bleibt-besorgniserregend-hoch](https://www.spiegel.de/panorama/justiz/berlin-anteil-von-kindern-und-jugendlichen-an-gewalttaten-bleibt-besorgniserregend-hoch-a-b957bf3c-efe4-466c-a751-e120e671f449#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nachgeforscht-hilft-salz-gegen-rotweinflecken](https://www.spiegel.de/wissenschaft/nachgeforscht-hilft-salz-gegen-rotweinflecken-a-99371aae-4b34-4af2-a60a-9e6253940b62#ref=rss)
-### chatbots
-
-* [https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-chatbots-eine-seele-bekommen-und-von-wem](https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-chatbots-eine-seele-bekommen-und-von-wem-a-7b37d183-eb28-4f0a-b9dd-198fae7af4af#ref=rss)
-### art
-
-* [https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-chatbots-eine-seele-bekommen-und-von-wem](https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-wie-chatbots-eine-seele-bekommen-und-von-wem-a-7b37d183-eb28-4f0a-b9dd-198fae7af4af#ref=rss)
-* [https://www.spiegel.de/panorama/in-hamburg-bronzefiguren-verschwunden-diebe-holten-goethe-vom-sockel](https://www.spiegel.de/panorama/in-hamburg-bronzefiguren-verschwunden-diebe-holten-goethe-vom-sockel-a-4256e2bd-4b15-45db-b93b-313c950856b6#ref=rss)
-### diogo
-
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-soehne-von-diogo-jota-als-einlaufkinder-bei-spiel-gegen-wolverhampton](https://www.spiegel.de/sport/fussball/fc-liverpool-soehne-von-diogo-jota-als-einlaufkinder-bei-spiel-gegen-wolverhampton-a-509939f2-aae8-4d8b-baf7-1a0c4e452a92#ref=rss)
-### jota
-
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-soehne-von-diogo-jota-als-einlaufkinder-bei-spiel-gegen-wolverhampton](https://www.spiegel.de/sport/fussball/fc-liverpool-soehne-von-diogo-jota-als-einlaufkinder-bei-spiel-gegen-wolverhampton-a-509939f2-aae8-4d8b-baf7-1a0c4e452a92#ref=rss)
-### wolverhampton
-
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-soehne-von-diogo-jota-als-einlaufkinder-bei-spiel-gegen-wolverhampton](https://www.spiegel.de/sport/fussball/fc-liverpool-soehne-von-diogo-jota-als-einlaufkinder-bei-spiel-gegen-wolverhampton-a-509939f2-aae8-4d8b-baf7-1a0c4e452a92#ref=rss)
-### fans
-
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-soehne-von-diogo-jota-als-einlaufkinder-bei-spiel-gegen-wolverhampton](https://www.spiegel.de/sport/fussball/fc-liverpool-soehne-von-diogo-jota-als-einlaufkinder-bei-spiel-gegen-wolverhampton-a-509939f2-aae8-4d8b-baf7-1a0c4e452a92#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-john-robertson-der-held-mit-dem-fischerhut-der-hamburg-den-titel-klaute](https://www.spiegel.de/sport/fussball/nachruf-auf-john-robertson-der-held-mit-dem-fischerhut-der-hamburg-den-titel-klaute-a-a8a9ae53-a4c7-4645-9c9b-b19064b2453e#ref=rss)
-### gemeinsam
-
-* [https://www.spiegel.de/sport/fussball/fc-liverpool-soehne-von-diogo-jota-als-einlaufkinder-bei-spiel-gegen-wolverhampton](https://www.spiegel.de/sport/fussball/fc-liverpool-soehne-von-diogo-jota-als-einlaufkinder-bei-spiel-gegen-wolverhampton-a-509939f2-aae8-4d8b-baf7-1a0c4e452a92#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-altinha-bringt-gemeinschaft-zurueck-an-rios-straende](https://www.spiegel.de/ausland/brasilien-altinha-bringt-gemeinschaft-zurueck-an-rios-straende-a-f91d3db7-eaa3-4348-823d-62be8d139ff1#ref=rss)
-### altinha
-
-* [https://www.spiegel.de/ausland/brasilien-altinha-bringt-gemeinschaft-zurueck-an-rios-straende](https://www.spiegel.de/ausland/brasilien-altinha-bringt-gemeinschaft-zurueck-an-rios-straende-a-f91d3db7-eaa3-4348-823d-62be8d139ff1#ref=rss)
-### bringt
-
-* [https://www.spiegel.de/ausland/brasilien-altinha-bringt-gemeinschaft-zurueck-an-rios-straende](https://www.spiegel.de/ausland/brasilien-altinha-bringt-gemeinschaft-zurueck-an-rios-straende-a-f91d3db7-eaa3-4348-823d-62be8d139ff1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nachgeforscht-hilft-salz-gegen-rotweinflecken](https://www.spiegel.de/wissenschaft/nachgeforscht-hilft-salz-gegen-rotweinflecken-a-99371aae-4b34-4af2-a60a-9e6253940b62#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus](https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus-a-c84d0e58-d3d5-4887-a739-4a3b2b528c50#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz-a-c8d7dac9-2b53-40a2-8161-262e630e09ef#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr](https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr-a-5a86490f-9afd-48b1-bdc5-dd5894102ef9#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/ausland/brasilien-altinha-bringt-gemeinschaft-zurueck-an-rios-straende](https://www.spiegel.de/ausland/brasilien-altinha-bringt-gemeinschaft-zurueck-an-rios-straende-a-f91d3db7-eaa3-4348-823d-62be8d139ff1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-john-robertson-der-held-mit-dem-fischerhut-der-hamburg-den-titel-klaute](https://www.spiegel.de/sport/fussball/nachruf-auf-john-robertson-der-held-mit-dem-fischerhut-der-hamburg-den-titel-klaute-a-a8a9ae53-a4c7-4645-9c9b-b19064b2453e#ref=rss)
-### hamburg
+* [https://www.spiegel.de/kultur/kino/brigitte-bardot-franzoesische-star-schauspielerin-ist-tot](https://www.spiegel.de/kultur/kino/brigitte-bardot-franzoesische-star-schauspielerin-ist-tot-a-629c473c-905c-450c-9696-7c3c8982b25b#ref=rss)
+* [https://www.spiegel.de/partnerschaft/lust-auf-liebe-und-sex-mein-leben-als-spiegel-sexkolumnistin](https://www.spiegel.de/partnerschaft/lust-auf-liebe-und-sex-mein-leben-als-spiegel-sexkolumnistin-a-4648c54f-207a-4c58-bd4f-8bdd9e9f6acc#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft](https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft-a-4ebb1835-21b2-4b53-8e24-243b834d67e2#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr](https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr-a-5a86490f-9afd-48b1-bdc5-dd5894102ef9#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/in-hamburg-bronzefiguren-verschwunden-diebe-holten-goethe-vom-sockel](https://www.spiegel.de/panorama/in-hamburg-bronzefiguren-verschwunden-diebe-holten-goethe-vom-sockel-a-4256e2bd-4b15-45db-b93b-313c950856b6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-john-robertson-der-held-mit-dem-fischerhut-der-hamburg-den-titel-klaute](https://www.spiegel.de/sport/fussball/nachruf-auf-john-robertson-der-held-mit-dem-fischerhut-der-hamburg-den-titel-klaute-a-a8a9ae53-a4c7-4645-9c9b-b19064b2453e#ref=rss)
-### fall
+* [https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht](https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht-a-eae5a669-55ac-4673-a8cd-f1b51459beda#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis](https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis-a-e11b0426-f808-438c-9879-c5b7c5c03013#ref=rss)
+* [https://www.spiegel.de/panorama/silvester-polizei-warnt-vor-uebermut-beim-boellern](https://www.spiegel.de/panorama/silvester-polizei-warnt-vor-uebermut-beim-boellern-a-f50f8bbc-63fd-4526-93dc-e33d8a2e6d41#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr](https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr-a-5a86490f-9afd-48b1-bdc5-dd5894102ef9#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/panorama/in-hamburg-bronzefiguren-verschwunden-diebe-holten-goethe-vom-sockel](https://www.spiegel.de/panorama/in-hamburg-bronzefiguren-verschwunden-diebe-holten-goethe-vom-sockel-a-4256e2bd-4b15-45db-b93b-313c950856b6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bitterfeld-wolfen-ich-schrieb-ueber-rechtsextremismus-und-ploetzlich-war-ich-das-problem](https://www.spiegel.de/politik/deutschland/bitterfeld-wolfen-ich-schrieb-ueber-rechtsextremismus-und-ploetzlich-war-ich-das-problem-a-65551b64-3f00-42a0-b26a-032739397cf8#ref=rss)
-### pendlerpauschale
+* [https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall](https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall-a-da7707f1-f2ab-4639-a064-37eb9d2b00e5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/wechseljahre-was-der-spiegel-titel-ueber-frauen-in-dieser-lebensphase-bewirkt-hat](https://www.spiegel.de/wissenschaft/medizin/wechseljahre-was-der-spiegel-titel-ueber-frauen-in-dieser-lebensphase-bewirkt-hat-a-1c64876a-7520-4596-aeb5-3cf16d51d241#ref=rss)
+* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
+### ich
 
-* [https://www.spiegel.de/auto/deutschlandticket-pendlerpauschale-neuwagen-foerderung-das-aendert-sich-2026-fuer-auto-und-bahnfahrer](https://www.spiegel.de/auto/deutschlandticket-pendlerpauschale-neuwagen-foerderung-das-aendert-sich-2026-fuer-auto-und-bahnfahrer-a-bf9655e8-fdf6-434f-97db-cd928b338769#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/auto/deutschlandticket-pendlerpauschale-neuwagen-foerderung-das-aendert-sich-2026-fuer-auto-und-bahnfahrer](https://www.spiegel.de/auto/deutschlandticket-pendlerpauschale-neuwagen-foerderung-das-aendert-sich-2026-fuer-auto-und-bahnfahrer-a-bf9655e8-fdf6-434f-97db-cd928b338769#ref=rss)
-### neue
-
-* [https://www.spiegel.de/auto/deutschlandticket-pendlerpauschale-neuwagen-foerderung-das-aendert-sich-2026-fuer-auto-und-bahnfahrer](https://www.spiegel.de/auto/deutschlandticket-pendlerpauschale-neuwagen-foerderung-das-aendert-sich-2026-fuer-auto-und-bahnfahrer-a-bf9655e8-fdf6-434f-97db-cd928b338769#ref=rss)
-* [https://www.spiegel.de/kultur/tv/kudamm-77-im-zdf-absturz-auf-telenovela-niveau](https://www.spiegel.de/kultur/tv/kudamm-77-im-zdf-absturz-auf-telenovela-niveau-a-37a1bb03-85d7-4316-99cd-6dff8ef4e632#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/auto/deutschlandticket-pendlerpauschale-neuwagen-foerderung-das-aendert-sich-2026-fuer-auto-und-bahnfahrer](https://www.spiegel.de/auto/deutschlandticket-pendlerpauschale-neuwagen-foerderung-das-aendert-sich-2026-fuer-auto-und-bahnfahrer-a-bf9655e8-fdf6-434f-97db-cd928b338769#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/zollstreit-mit-den-usa-wie-der-eu-handelsdeal-mit-washington-von-beiden-seiten-ausgehoehlt-wird](https://www.spiegel.de/wirtschaft/zollstreit-mit-den-usa-wie-der-eu-handelsdeal-mit-washington-von-beiden-seiten-ausgehoehlt-wird-a-5d3bfdf5-e884-45a2-abf5-105d5935f23a#ref=rss)
-### burschenschaften
-
-* [https://www.spiegel.de/geschichte/oesterreich-als-frau-in-die-verstaubte-welt-der-burschenschaften-eintauchen](https://www.spiegel.de/geschichte/oesterreich-als-frau-in-die-verstaubte-welt-der-burschenschaften-eintauchen-a-dcdc3ff0-43f5-4054-b0a8-bc4cca4db624#ref=rss)
-### john
-
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-john-robertson-der-held-mit-dem-fischerhut-der-hamburg-den-titel-klaute](https://www.spiegel.de/sport/fussball/nachruf-auf-john-robertson-der-held-mit-dem-fischerhut-der-hamburg-den-titel-klaute-a-a8a9ae53-a4c7-4645-9c9b-b19064b2453e#ref=rss)
-### robertson
-
-* [https://www.spiegel.de/sport/fussball/nachruf-auf-john-robertson-der-held-mit-dem-fischerhut-der-hamburg-den-titel-klaute](https://www.spiegel.de/sport/fussball/nachruf-auf-john-robertson-der-held-mit-dem-fischerhut-der-hamburg-den-titel-klaute-a-a8a9ae53-a4c7-4645-9c9b-b19064b2453e#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/ausland/abgeordnete-sollen-fuer-ihr-abstimmungsverhalten-systematisch-illegale-vorteile-erhalten-haben](https://www.spiegel.de/ausland/abgeordnete-sollen-fuer-ihr-abstimmungsverhalten-systematisch-illegale-vorteile-erhalten-haben-a-91a4dc7d-59cd-475e-9531-0da6c1e55689#ref=rss)
-* [https://www.spiegel.de/ausland/selenskyj-macht-zwischenstopp-in-kanada](https://www.spiegel.de/ausland/selenskyj-macht-zwischenstopp-in-kanada-a-73486b20-0dfd-4d16-809e-1bda9692510f#ref=rss)
-### verdachts
-
-* [https://www.spiegel.de/ausland/abgeordnete-sollen-fuer-ihr-abstimmungsverhalten-systematisch-illegale-vorteile-erhalten-haben](https://www.spiegel.de/ausland/abgeordnete-sollen-fuer-ihr-abstimmungsverhalten-systematisch-illegale-vorteile-erhalten-haben-a-91a4dc7d-59cd-475e-9531-0da6c1e55689#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-sieben-menschen-in-italien-wegen-verdachts-der-terrorfinanzierung-festgenommen](https://www.spiegel.de/ausland/hamas-sieben-menschen-in-italien-wegen-verdachts-der-terrorfinanzierung-festgenommen-a-3da3006f-a47e-4577-9e4e-ca25e185b904#ref=rss)
-### hamas
-
-* [https://www.spiegel.de/ausland/hamas-sieben-menschen-in-italien-wegen-verdachts-der-terrorfinanzierung-festgenommen](https://www.spiegel.de/ausland/hamas-sieben-menschen-in-italien-wegen-verdachts-der-terrorfinanzierung-festgenommen-a-3da3006f-a47e-4577-9e4e-ca25e185b904#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/ausland/hamas-sieben-menschen-in-italien-wegen-verdachts-der-terrorfinanzierung-festgenommen](https://www.spiegel.de/ausland/hamas-sieben-menschen-in-italien-wegen-verdachts-der-terrorfinanzierung-festgenommen-a-3da3006f-a47e-4577-9e4e-ca25e185b904#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimawandel-wie-aktivisten-strengere-klimaziele-vor-gericht-erstreiten](https://www.spiegel.de/wissenschaft/klimawandel-wie-aktivisten-strengere-klimaziele-vor-gericht-erstreiten-a-9a7826cb-5b73-48e8-8ce4-74d26ae71d31#ref=rss)
+* [https://www.spiegel.de/partnerschaft/lust-auf-liebe-und-sex-mein-leben-als-spiegel-sexkolumnistin](https://www.spiegel.de/partnerschaft/lust-auf-liebe-und-sex-mein-leben-als-spiegel-sexkolumnistin-a-4648c54f-207a-4c58-bd4f-8bdd9e9f6acc#ref=rss)
 ### geld
 
-* [https://www.spiegel.de/ausland/hamas-sieben-menschen-in-italien-wegen-verdachts-der-terrorfinanzierung-festgenommen](https://www.spiegel.de/ausland/hamas-sieben-menschen-in-italien-wegen-verdachts-der-terrorfinanzierung-festgenommen-a-3da3006f-a47e-4577-9e4e-ca25e185b904#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mutmassliche-foerderaffaere-in-berlin-wie-die-cdu-projekten-gegen-antisemitismus-ohne-pruefung-geld-zuschanzte](https://www.spiegel.de/politik/deutschland/mutmassliche-foerderaffaere-in-berlin-wie-die-cdu-projekten-gegen-antisemitismus-ohne-pruefung-geld-zuschanzte-a-a7d7a093-e375-4744-9bfe-a9499ad4875d#ref=rss)
-### mutmaßliche
+* [https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus](https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus-a-c84d0e58-d3d5-4887-a739-4a3b2b528c50#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz-a-c8d7dac9-2b53-40a2-8161-262e630e09ef#ref=rss)
+* [https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht](https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht-a-b5b74044-439d-4582-8cfa-8d8413f2abf1#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/ausland/hamas-sieben-menschen-in-italien-wegen-verdachts-der-terrorfinanzierung-festgenommen](https://www.spiegel.de/ausland/hamas-sieben-menschen-in-italien-wegen-verdachts-der-terrorfinanzierung-festgenommen-a-3da3006f-a47e-4577-9e4e-ca25e185b904#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mutmassliche-foerderaffaere-in-berlin-wie-die-cdu-projekten-gegen-antisemitismus-ohne-pruefung-geld-zuschanzte](https://www.spiegel.de/politik/deutschland/mutmassliche-foerderaffaere-in-berlin-wie-die-cdu-projekten-gegen-antisemitismus-ohne-pruefung-geld-zuschanzte-a-a7d7a093-e375-4744-9bfe-a9499ad4875d#ref=rss)
-### diesen
+* [https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus](https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus-a-c84d0e58-d3d5-4887-a739-4a3b2b528c50#ref=rss)
+* [https://www.spiegel.de/panorama/jahresrueckblick-2025-das-ultimative-quiz-zum-ende-des-jahres](https://www.spiegel.de/panorama/jahresrueckblick-2025-das-ultimative-quiz-zum-ende-des-jahres-a-ac20d14f-95bd-4d0b-9a73-be5e4bbf1207#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/panorama/feuerwerk-an-silvester-in-diesen-staedten-gelten-bereits-boellerverbote](https://www.spiegel.de/panorama/feuerwerk-an-silvester-in-diesen-staedten-gelten-bereits-boellerverbote-a-5ddb6343-6151-4da1-88bf-3c413d7c34d4#ref=rss)
-* [https://www.spiegel.de/sport/sportswashing-in-diesen-sportarten-stecken-milliarden-aus-saudi-arabien](https://www.spiegel.de/sport/sportswashing-in-diesen-sportarten-stecken-milliarden-aus-saudi-arabien-a-bd3ca954-4470-44c1-9a12-85415fdb4e54#ref=rss)
-### hannover
+* [https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall](https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall-a-da7707f1-f2ab-4639-a064-37eb9d2b00e5#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht](https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht-a-eae5a669-55ac-4673-a8cd-f1b51459beda#ref=rss)
+### leben
 
-* [https://www.spiegel.de/panorama/drohnen-sichtungen-luftraum-ueber-hannover-zeitweise-gesperrt](https://www.spiegel.de/panorama/drohnen-sichtungen-luftraum-ueber-hannover-zeitweise-gesperrt-a-7cef3af1-2399-4b03-83fa-4ac09c9e3af5#ref=rss)
-### sportarten
+* [https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall](https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall-a-da7707f1-f2ab-4639-a064-37eb9d2b00e5#ref=rss)
+* [https://www.spiegel.de/netzwelt/hackerkonferenz-39c3-warum-eine-multiple-sklerose-erkrankte-ihren-rollstuhl-hackte](https://www.spiegel.de/netzwelt/hackerkonferenz-39c3-warum-eine-multiple-sklerose-erkrankte-ihren-rollstuhl-hackte-a-169573b3-dbc9-4aed-bc33-1cc39cee6971#ref=rss)
+* [https://www.spiegel.de/partnerschaft/lust-auf-liebe-und-sex-mein-leben-als-spiegel-sexkolumnistin](https://www.spiegel.de/partnerschaft/lust-auf-liebe-und-sex-mein-leben-als-spiegel-sexkolumnistin-a-4648c54f-207a-4c58-bd4f-8bdd9e9f6acc#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/sport/sportswashing-in-diesen-sportarten-stecken-milliarden-aus-saudi-arabien](https://www.spiegel.de/sport/sportswashing-in-diesen-sportarten-stecken-milliarden-aus-saudi-arabien-a-bd3ca954-4470-44c1-9a12-85415fdb4e54#ref=rss)
-### milliarden
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz-a-c8d7dac9-2b53-40a2-8161-262e630e09ef#ref=rss)
+* [https://www.spiegel.de/panorama/jahresrueckblick-2025-das-ultimative-quiz-zum-ende-des-jahres](https://www.spiegel.de/panorama/jahresrueckblick-2025-das-ultimative-quiz-zum-ende-des-jahres-a-ac20d14f-95bd-4d0b-9a73-be5e4bbf1207#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-acht-politische-wuensche-fuer-2026](https://www.spiegel.de/politik/deutschland/news-acht-politische-wuensche-fuer-2026-a-723ce69b-b7ca-4cfb-aed9-1fad3d6f8d5c#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/sportswashing-in-diesen-sportarten-stecken-milliarden-aus-saudi-arabien](https://www.spiegel.de/sport/sportswashing-in-diesen-sportarten-stecken-milliarden-aus-saudi-arabien-a-bd3ca954-4470-44c1-9a12-85415fdb4e54#ref=rss)
-### saudiarabien
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
+* [https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht](https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht-a-b5b74044-439d-4582-8cfa-8d8413f2abf1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk](https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk-a-a0af990e-defe-449d-921b-d3458d01a5ec#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/sportswashing-in-diesen-sportarten-stecken-milliarden-aus-saudi-arabien](https://www.spiegel.de/sport/sportswashing-in-diesen-sportarten-stecken-milliarden-aus-saudi-arabien-a-bd3ca954-4470-44c1-9a12-85415fdb4e54#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
+* [https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht](https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht-a-b5b74044-439d-4582-8cfa-8d8413f2abf1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk](https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk-a-a0af990e-defe-449d-921b-d3458d01a5ec#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht](https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht-a-b5b74044-439d-4582-8cfa-8d8413f2abf1#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-08f3b931-fb6f-41a8-b93f-57635eed48ba#ref=rss)
+### mann
+
+* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bochum-mann-bei-sek-einsatz-angeschossen](https://www.spiegel.de/panorama/justiz/bochum-mann-bei-sek-einsatz-angeschossen-a-95bb7903-e399-4ac5-b0f7-59a4c196c361#ref=rss)
+### myanmar
+
+* [https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert](https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert-a-727bdd0b-a4d8-4423-95c9-b22b3f5cfe99#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft](https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft-a-4ebb1835-21b2-4b53-8e24-243b834d67e2#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis](https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis-a-e11b0426-f808-438c-9879-c5b7c5c03013#ref=rss)
+* [https://www.spiegel.de/panorama/silvester-polizei-warnt-vor-uebermut-beim-boellern](https://www.spiegel.de/panorama/silvester-polizei-warnt-vor-uebermut-beim-boellern-a-f50f8bbc-63fd-4526-93dc-e33d8a2e6d41#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus](https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus-a-c84d0e58-d3d5-4887-a739-4a3b2b528c50#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz-a-c8d7dac9-2b53-40a2-8161-262e630e09ef#ref=rss)
+### stark
+
+* [https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus](https://www.spiegel.de/wirtschaft/bio-lebensmittel-deutsche-geben-deutlich-mehr-geld-aus-a-c84d0e58-d3d5-4887-a739-4a3b2b528c50#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus-a-4083870c-5eaa-4b34-989d-b9379db8d9e3#ref=rss)
+### fernando
+
+* [https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall](https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall-a-da7707f1-f2ab-4639-a064-37eb9d2b00e5#ref=rss)
+### martín
+
+* [https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall](https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall-a-da7707f1-f2ab-4639-a064-37eb9d2b00e5#ref=rss)
+### bootsunfall
+
+* [https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall](https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall-a-da7707f1-f2ab-4639-a064-37eb9d2b00e5#ref=rss)
+### drei
+
+* [https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall](https://www.spiegel.de/sport/fussball/fernando-martin-spanischer-fussballtrainer-und-kinder-sterben-bei-bootsunfall-a-da7707f1-f2ab-4639-a064-37eb9d2b00e5#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus-a-4083870c-5eaa-4b34-989d-b9379db8d9e3#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz-a-c8d7dac9-2b53-40a2-8161-262e630e09ef#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz-a-c8d7dac9-2b53-40a2-8161-262e630e09ef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-acht-politische-wuensche-fuer-2026](https://www.spiegel.de/politik/deutschland/news-acht-politische-wuensche-fuer-2026-a-723ce69b-b7ca-4cfb-aed9-1fad3d6f8d5c#ref=rss)
+### stecken
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-plant-2026-mit-mehr-als-23-milliarden-euro-fuer-das-schienennetz-a-c8d7dac9-2b53-40a2-8161-262e630e09ef#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk](https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk-a-a0af990e-defe-449d-921b-d3458d01a5ec#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
+* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk](https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk-a-a0af990e-defe-449d-921b-d3458d01a5ec#ref=rss)
+### alle
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-mit-mehr-gewalt-a-57e2e3f7-e6f8-4dff-85d0-7f959e4ca894#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht](https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht-a-eae5a669-55ac-4673-a8cd-f1b51459beda#ref=rss)
+### brigitte
+
+* [https://www.spiegel.de/kultur/kino/brigitte-bardot-franzoesische-star-schauspielerin-ist-tot](https://www.spiegel.de/kultur/kino/brigitte-bardot-franzoesische-star-schauspielerin-ist-tot-a-629c473c-905c-450c-9696-7c3c8982b25b#ref=rss)
+### bardot
+
+* [https://www.spiegel.de/kultur/kino/brigitte-bardot-franzoesische-star-schauspielerin-ist-tot](https://www.spiegel.de/kultur/kino/brigitte-bardot-franzoesische-star-schauspielerin-ist-tot-a-629c473c-905c-450c-9696-7c3c8982b25b#ref=rss)
+### epsteinakten
+
+* [https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht](https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht-a-b5b74044-439d-4582-8cfa-8d8413f2abf1#ref=rss)
+### macht
+
+* [https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht](https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht-a-b5b74044-439d-4582-8cfa-8d8413f2abf1#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft](https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft-a-4ebb1835-21b2-4b53-8e24-243b834d67e2#ref=rss)
+### hinter
+
+* [https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht](https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht-a-b5b74044-439d-4582-8cfa-8d8413f2abf1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk](https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk-a-a0af990e-defe-449d-921b-d3458d01a5ec#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht](https://www.spiegel.de/panorama/epstein-akten-wie-ein-republikaner-eine-trump-attacke-pariert-und-zu-geld-macht-a-b5b74044-439d-4582-8cfa-8d8413f2abf1#ref=rss)
+* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
+### plaßmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-08f3b931-fb6f-41a8-b93f-57635eed48ba#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-08f3b931-fb6f-41a8-b93f-57635eed48ba#ref=rss)
+### stuttmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-08f3b931-fb6f-41a8-b93f-57635eed48ba#ref=rss)
+### böllern
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-chappatte-thomas-plassmann-klaus-stuttmann-a-08f3b931-fb6f-41a8-b93f-57635eed48ba#ref=rss)
+* [https://www.spiegel.de/panorama/silvester-polizei-warnt-vor-uebermut-beim-boellern](https://www.spiegel.de/panorama/silvester-polizei-warnt-vor-uebermut-beim-boellern-a-f50f8bbc-63fd-4526-93dc-e33d8a2e6d41#ref=rss)
+### wechseljahre
+
+* [https://www.spiegel.de/wissenschaft/medizin/wechseljahre-was-der-spiegel-titel-ueber-frauen-in-dieser-lebensphase-bewirkt-hat](https://www.spiegel.de/wissenschaft/medizin/wechseljahre-was-der-spiegel-titel-ueber-frauen-in-dieser-lebensphase-bewirkt-hat-a-1c64876a-7520-4596-aeb5-3cf16d51d241#ref=rss)
+### lebensphase
+
+* [https://www.spiegel.de/wissenschaft/medizin/wechseljahre-was-der-spiegel-titel-ueber-frauen-in-dieser-lebensphase-bewirkt-hat](https://www.spiegel.de/wissenschaft/medizin/wechseljahre-was-der-spiegel-titel-ueber-frauen-in-dieser-lebensphase-bewirkt-hat-a-1c64876a-7520-4596-aeb5-3cf16d51d241#ref=rss)
+### thema
+
+* [https://www.spiegel.de/wissenschaft/medizin/wechseljahre-was-der-spiegel-titel-ueber-frauen-in-dieser-lebensphase-bewirkt-hat](https://www.spiegel.de/wissenschaft/medizin/wechseljahre-was-der-spiegel-titel-ueber-frauen-in-dieser-lebensphase-bewirkt-hat-a-1c64876a-7520-4596-aeb5-3cf16d51d241#ref=rss)
+* [https://www.spiegel.de/ausland/nahost-israelische-armee-setzt-einsatz-in-westjordanland-fort](https://www.spiegel.de/ausland/nahost-israelische-armee-setzt-einsatz-in-westjordanland-fort-a-e716bd6c-cbe4-4310-826e-5dd0aff5f9f2#ref=rss)
+### battle
+
+* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
+### of
+
+* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
+### the
+
+* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
+### sexes
+
+* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
+### aryna
+
+* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
+### sabalenka
+
+* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
+### nick
+
+* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
+### kyrgios
+
+* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
+### frau
+
+* [https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch](https://www.spiegel.de/sport/tennis/aryna-sabalenka-und-nick-kyrgios-neuauflage-der-battle-of-the-sexes-was-soll-das-heute-noch-a-8ae93481-c33c-400d-ac05-95767577d2a4#ref=rss)
+* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
 ### magnus
 
-* [https://www.spiegel.de/sport/schach/magnus-carlsen-bei-schach-wm-alle-schauen-auf-seine-hose](https://www.spiegel.de/sport/schach/magnus-carlsen-bei-schach-wm-alle-schauen-auf-seine-hose-a-0bbba239-7796-4205-a076-4c9aad013b64#ref=rss)
+* [https://www.spiegel.de/sport/schach/magnus-carlsen-schachstar-schlaegt-nach-niederlage-kamera-weg](https://www.spiegel.de/sport/schach/magnus-carlsen-schachstar-schlaegt-nach-niederlage-kamera-weg-a-78b9c438-206f-42dc-af42-368e716aae80#ref=rss)
 ### carlsen
 
-* [https://www.spiegel.de/sport/schach/magnus-carlsen-bei-schach-wm-alle-schauen-auf-seine-hose](https://www.spiegel.de/sport/schach/magnus-carlsen-bei-schach-wm-alle-schauen-auf-seine-hose-a-0bbba239-7796-4205-a076-4c9aad013b64#ref=rss)
-### 565
+* [https://www.spiegel.de/sport/schach/magnus-carlsen-schachstar-schlaegt-nach-niederlage-kamera-weg](https://www.spiegel.de/sport/schach/magnus-carlsen-schachstar-schlaegt-nach-niederlage-kamera-weg-a-78b9c438-206f-42dc-af42-368e716aae80#ref=rss)
+### verliert
 
-* [https://www.spiegel.de/panorama/wetter-glatteis-ueberrascht-autos-und-fussgaenger-565-unfaelle-allein-in-berlin](https://www.spiegel.de/panorama/wetter-glatteis-ueberrascht-autos-und-fussgaenger-565-unfaelle-allein-in-berlin-a-611685ba-ec6f-41d4-99fa-7e81248d6385#ref=rss)
-### unfälle
+* [https://www.spiegel.de/sport/schach/magnus-carlsen-schachstar-schlaegt-nach-niederlage-kamera-weg](https://www.spiegel.de/sport/schach/magnus-carlsen-schachstar-schlaegt-nach-niederlage-kamera-weg-a-78b9c438-206f-42dc-af42-368e716aae80#ref=rss)
+### grad
 
-* [https://www.spiegel.de/panorama/wetter-glatteis-ueberrascht-autos-und-fussgaenger-565-unfaelle-allein-in-berlin](https://www.spiegel.de/panorama/wetter-glatteis-ueberrascht-autos-und-fussgaenger-565-unfaelle-allein-in-berlin-a-611685ba-ec6f-41d4-99fa-7e81248d6385#ref=rss)
-### allein
+* [https://www.spiegel.de/netzwelt/hackerkonferenz-39c3-warum-eine-multiple-sklerose-erkrankte-ihren-rollstuhl-hackte](https://www.spiegel.de/netzwelt/hackerkonferenz-39c3-warum-eine-multiple-sklerose-erkrankte-ihren-rollstuhl-hackte-a-169573b3-dbc9-4aed-bc33-1cc39cee6971#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr](https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr-a-5a86490f-9afd-48b1-bdc5-dd5894102ef9#ref=rss)
+### valeria
 
-* [https://www.spiegel.de/panorama/wetter-glatteis-ueberrascht-autos-und-fussgaenger-565-unfaelle-allein-in-berlin](https://www.spiegel.de/panorama/wetter-glatteis-ueberrascht-autos-und-fussgaenger-565-unfaelle-allein-in-berlin-a-611685ba-ec6f-41d4-99fa-7e81248d6385#ref=rss)
-### allem
+* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
+### napoleone
 
-* [https://www.spiegel.de/panorama/wetter-glatteis-ueberrascht-autos-und-fussgaenger-565-unfaelle-allein-in-berlin](https://www.spiegel.de/panorama/wetter-glatteis-ueberrascht-autos-und-fussgaenger-565-unfaelle-allein-in-berlin-a-611685ba-ec6f-41d4-99fa-7e81248d6385#ref=rss)
-* [https://www.spiegel.de/kultur/tv/kudamm-77-im-zdf-absturz-auf-telenovela-niveau](https://www.spiegel.de/kultur/tv/kudamm-77-im-zdf-absturz-auf-telenovela-niveau-a-37a1bb03-85d7-4316-99cd-6dff8ef4e632#ref=rss)
-### bitterfeldwolfen
+* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
+### sammelt
 
-* [https://www.spiegel.de/politik/deutschland/bitterfeld-wolfen-ich-schrieb-ueber-rechtsextremismus-und-ploetzlich-war-ich-das-problem](https://www.spiegel.de/politik/deutschland/bitterfeld-wolfen-ich-schrieb-ueber-rechtsextremismus-und-ploetzlich-war-ich-das-problem-a-65551b64-3f00-42a0-b26a-032739397cf8#ref=rss)
-### cdu
+* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
+### kunst
 
-* [https://www.spiegel.de/politik/deutschland/mutmassliche-foerderaffaere-in-berlin-wie-die-cdu-projekten-gegen-antisemitismus-ohne-pruefung-geld-zuschanzte](https://www.spiegel.de/politik/deutschland/mutmassliche-foerderaffaere-in-berlin-wie-die-cdu-projekten-gegen-antisemitismus-ohne-pruefung-geld-zuschanzte-a-a7d7a093-e375-4744-9bfe-a9499ad4875d#ref=rss)
-### antisemitismus
+* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
+### hobby
 
-* [https://www.spiegel.de/politik/deutschland/mutmassliche-foerderaffaere-in-berlin-wie-die-cdu-projekten-gegen-antisemitismus-ohne-pruefung-geld-zuschanzte](https://www.spiegel.de/politik/deutschland/mutmassliche-foerderaffaere-in-berlin-wie-die-cdu-projekten-gegen-antisemitismus-ohne-pruefung-geld-zuschanzte-a-a7d7a093-e375-4744-9bfe-a9499ad4875d#ref=rss)
-### gewinnen
+* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
+### feminismus
 
-* [https://www.spiegel.de/panorama/el-gordo-lottogewinner-waeren-fast-leer-ausgegangen-doch-die-gemeinde-findet-eine-loesung](https://www.spiegel.de/panorama/el-gordo-lottogewinner-waeren-fast-leer-ausgegangen-doch-die-gemeinde-findet-eine-loesung-a-8292954e-1f32-40d6-b97a-dd7ddb4e02f6#ref=rss)
-### schein
+* [https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin](https://www.spiegel.de/kultur/valeria-napoleone-und-die-kunst-die-frauensammlerin-a-aefc652a-accb-45fc-af66-592945df333c#ref=rss)
+### ende
 
-* [https://www.spiegel.de/panorama/el-gordo-lottogewinner-waeren-fast-leer-ausgegangen-doch-die-gemeinde-findet-eine-loesung](https://www.spiegel.de/panorama/el-gordo-lottogewinner-waeren-fast-leer-ausgegangen-doch-die-gemeinde-findet-eine-loesung-a-8292954e-1f32-40d6-b97a-dd7ddb4e02f6#ref=rss)
-### tag
+* [https://www.spiegel.de/panorama/jahresrueckblick-2025-das-ultimative-quiz-zum-ende-des-jahres](https://www.spiegel.de/panorama/jahresrueckblick-2025-das-ultimative-quiz-zum-ende-des-jahres-a-ac20d14f-95bd-4d0b-9a73-be5e4bbf1207#ref=rss)
+### bochum
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bochum-mann-bei-sek-einsatz-angeschossen](https://www.spiegel.de/panorama/justiz/bochum-mann-bei-sek-einsatz-angeschossen-a-95bb7903-e399-4ac5-b0f7-59a4c196c361#ref=rss)
+### erst
+
+* [https://www.spiegel.de/panorama/justiz/bochum-mann-bei-sek-einsatz-angeschossen](https://www.spiegel.de/panorama/justiz/bochum-mann-bei-sek-einsatz-angeschossen-a-95bb7903-e399-4ac5-b0f7-59a4c196c361#ref=rss)
+* [https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert](https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert-a-ebf228a0-9472-42c4-a62e-09f8683e9c54#ref=rss)
+### wählen
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-wie-aktivisten-strengere-klimaziele-vor-gericht-erstreiten](https://www.spiegel.de/wissenschaft/klimawandel-wie-aktivisten-strengere-klimaziele-vor-gericht-erstreiten-a-9a7826cb-5b73-48e8-8ce4-74d26ae71d31#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert](https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert-a-727bdd0b-a4d8-4423-95c9-b22b3f5cfe99#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/nahost-israelische-armee-setzt-einsatz-in-westjordanland-fort](https://www.spiegel.de/ausland/nahost-israelische-armee-setzt-einsatz-in-westjordanland-fort-a-e716bd6c-cbe4-4310-826e-5dd0aff5f9f2#ref=rss)
+### armee
+
+* [https://www.spiegel.de/ausland/nahost-israelische-armee-setzt-einsatz-in-westjordanland-fort](https://www.spiegel.de/ausland/nahost-israelische-armee-setzt-einsatz-in-westjordanland-fort-a-e716bd6c-cbe4-4310-826e-5dd0aff5f9f2#ref=rss)
+### militärregime
+
+* [https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert](https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert-a-727bdd0b-a4d8-4423-95c9-b22b3f5cfe99#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert](https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert-a-727bdd0b-a4d8-4423-95c9-b22b3f5cfe99#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft](https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft-a-4ebb1835-21b2-4b53-8e24-243b834d67e2#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert](https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert-a-727bdd0b-a4d8-4423-95c9-b22b3f5cfe99#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft](https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft-a-4ebb1835-21b2-4b53-8e24-243b834d67e2#ref=rss)
+### bürger
+
+* [https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert](https://www.spiegel.de/ausland/myanmar-wieso-das-militaerregime-eine-wahl-inszeniert-a-727bdd0b-a4d8-4423-95c9-b22b3f5cfe99#ref=rss)
+* [https://www.spiegel.de/ausland/niger-verkuendet-generalmobilmachung-gegen-dschihadisten](https://www.spiegel.de/ausland/niger-verkuendet-generalmobilmachung-gegen-dschihadisten-a-e9e97cc6-acba-44d9-97b1-08079347718b#ref=rss)
+### dänemark
+
+* [https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht](https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht-a-eae5a669-55ac-4673-a8cd-f1b51459beda#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht](https://www.spiegel.de/panorama/bildung/homeschooling-was-schulfluechtlinge-aus-deutschland-nach-daenemark-zieht-a-eae5a669-55ac-4673-a8cd-f1b51459beda#ref=rss)
+### wetter
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis](https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis-a-e11b0426-f808-438c-9879-c5b7c5c03013#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr](https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr-a-5a86490f-9afd-48b1-bdc5-dd5894102ef9#ref=rss)
+### zahlreiche
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis](https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis-a-e11b0426-f808-438c-9879-c5b7c5c03013#ref=rss)
+### glatteis
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis](https://www.spiegel.de/panorama/wetter-in-deutschland-polizei-meldet-zahlreiche-unfaelle-wegen-glatteis-a-e11b0426-f808-438c-9879-c5b7c5c03013#ref=rss)
+### sonntag
+
+* [https://www.spiegel.de/politik/deutschland/news-acht-politische-wuensche-fuer-2026](https://www.spiegel.de/politik/deutschland/news-acht-politische-wuensche-fuer-2026-a-723ce69b-b7ca-4cfb-aed9-1fad3d6f8d5c#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus-a-4083870c-5eaa-4b34-989d-b9379db8d9e3#ref=rss)
+### einblicke
+
+* [https://www.spiegel.de/partnerschaft/lust-auf-liebe-und-sex-mein-leben-als-spiegel-sexkolumnistin](https://www.spiegel.de/partnerschaft/lust-auf-liebe-und-sex-mein-leben-als-spiegel-sexkolumnistin-a-4648c54f-207a-4c58-bd4f-8bdd9e9f6acc#ref=rss)
+* [https://www.spiegel.de/panorama/leute/boris-becker-so-feierte-der-ex-tennis-star-weihnachten](https://www.spiegel.de/panorama/leute/boris-becker-so-feierte-der-ex-tennis-star-weihnachten-a-db303aaf-fd7c-4c0a-98c2-d274db119b42#ref=rss)
+### runde
+
+* [https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft](https://www.spiegel.de/ausland/myanmar-erste-runde-der-sogenannten-wahl-laeuft-a-4ebb1835-21b2-4b53-8e24-243b834d67e2#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus-a-4083870c-5eaa-4b34-989d-b9379db8d9e3#ref=rss)
+### nigeria
+
+* [https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk](https://www.spiegel.de/ausland/donald-trump-maga-fans-bejubeln-angriffe-in-nigeria-als-weihnachtsgeschenk-a-a0af990e-defe-449d-921b-d3458d01a5ec#ref=rss)
+### niger
+
+* [https://www.spiegel.de/ausland/niger-verkuendet-generalmobilmachung-gegen-dschihadisten](https://www.spiegel.de/ausland/niger-verkuendet-generalmobilmachung-gegen-dschihadisten-a-e9e97cc6-acba-44d9-97b1-08079347718b#ref=rss)
+### jair
+
+* [https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert](https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert-a-ebf228a0-9472-42c4-a62e-09f8683e9c54#ref=rss)
+### bolsonaro
+
+* [https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert](https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert-a-ebf228a0-9472-42c4-a62e-09f8683e9c54#ref=rss)
+### brasiliens
+
+* [https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert](https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert-a-ebf228a0-9472-42c4-a62e-09f8683e9c54#ref=rss)
+### expräsident
+
+* [https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert](https://www.spiegel.de/politik/jair-bolsonaro-brasiliens-ex-praesident-wird-wegen-chronischen-schluckaufs-operiert-a-ebf228a0-9472-42c4-a62e-09f8683e9c54#ref=rss)
+### weihnachten
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr](https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr-a-5a86490f-9afd-48b1-bdc5-dd5894102ef9#ref=rss)
+* [https://www.spiegel.de/panorama/leute/boris-becker-so-feierte-der-ex-tennis-star-weihnachten](https://www.spiegel.de/panorama/leute/boris-becker-so-feierte-der-ex-tennis-star-weihnachten-a-db303aaf-fd7c-4c0a-98c2-d274db119b42#ref=rss)
+### temperaturen
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr](https://www.spiegel.de/panorama/wetter-in-deutschland-so-kalt-war-es-an-weihnachten-seit-15-jahren-nicht-mehr-a-5a86490f-9afd-48b1-bdc5-dd5894102ef9#ref=rss)
+### ricardo
+
+* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus-a-4083870c-5eaa-4b34-989d-b9379db8d9e3#ref=rss)
+### pietreczko
+
+* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus-a-4083870c-5eaa-4b34-989d-b9379db8d9e3#ref=rss)
+### andreas
+
+* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus-a-4083870c-5eaa-4b34-989d-b9379db8d9e3#ref=rss)
+### harrysson
+
+* [https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus](https://www.spiegel.de/sport/darts-wm-ricardo-pietreczko-scheidet-in-runde-drei-gegen-andreas-harrysson-aus-a-4083870c-5eaa-4b34-989d-b9379db8d9e3#ref=rss)
+### boris
+
+* [https://www.spiegel.de/panorama/leute/boris-becker-so-feierte-der-ex-tennis-star-weihnachten](https://www.spiegel.de/panorama/leute/boris-becker-so-feierte-der-ex-tennis-star-weihnachten-a-db303aaf-fd7c-4c0a-98c2-d274db119b42#ref=rss)
+### becker
+
+* [https://www.spiegel.de/panorama/leute/boris-becker-so-feierte-der-ex-tennis-star-weihnachten](https://www.spiegel.de/panorama/leute/boris-becker-so-feierte-der-ex-tennis-star-weihnachten-a-db303aaf-fd7c-4c0a-98c2-d274db119b42#ref=rss)
 
