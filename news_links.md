@@ -4,352 +4,321 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/ausland/mar-a-lago-donald-trump-und-wolodymyr-selenskyjs-laecheln-des-abends](https://www.spiegel.de/ausland/mar-a-lago-donald-trump-und-wolodymyr-selenskyjs-laecheln-des-abends-a-ad8a0d88-0423-41db-bbd9-2452297c9538#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch](https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch-a-d3d51290-79b4-4b32-bb69-6b81232215f5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei-a-4ee2ee1c-fcef-4711-8790-4ea497498a41#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/mar-a-lago-donald-trump-und-wolodymyr-selenskyjs-laecheln-des-abends](https://www.spiegel.de/ausland/mar-a-lago-donald-trump-und-wolodymyr-selenskyjs-laecheln-des-abends-a-ad8a0d88-0423-41db-bbd9-2452297c9538#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch](https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch-a-d3d51290-79b4-4b32-bb69-6b81232215f5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei-a-4ee2ee1c-fcef-4711-8790-4ea497498a41#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/mar-a-lago-donald-trump-und-wolodymyr-selenskyjs-laecheln-des-abends](https://www.spiegel.de/ausland/mar-a-lago-donald-trump-und-wolodymyr-selenskyjs-laecheln-des-abends-a-ad8a0d88-0423-41db-bbd9-2452297c9538#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch](https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch-a-d3d51290-79b4-4b32-bb69-6b81232215f5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei-a-4ee2ee1c-fcef-4711-8790-4ea497498a41#ref=rss)
-### wolodymyr
-
-* [https://www.spiegel.de/ausland/mar-a-lago-donald-trump-und-wolodymyr-selenskyjs-laecheln-des-abends](https://www.spiegel.de/ausland/mar-a-lago-donald-trump-und-wolodymyr-selenskyjs-laecheln-des-abends-a-ad8a0d88-0423-41db-bbd9-2452297c9538#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch](https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch-a-d3d51290-79b4-4b32-bb69-6b81232215f5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei-a-4ee2ee1c-fcef-4711-8790-4ea497498a41#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-gewinneinbruch-und-weniger-jobs-bei-deutschlands-top-konzernen](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-gewinneinbruch-und-weniger-jobs-bei-deutschlands-top-konzernen-a-a72b9f7d-27a5-4e3c-a868-21a60a3ef965#ref=rss)
-* [https://www.spiegel.de/start/iu-internationale-hochschule-warum-deutschlands-groesste-hochschule-so-polarisiert](https://www.spiegel.de/start/iu-internationale-hochschule-warum-deutschlands-groesste-hochschule-so-polarisiert-a-e07c598c-8495-4da1-935c-f587972f283c#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-glatteisgefahr-haelt-an-vorsicht-auf-den-strassen](https://www.spiegel.de/panorama/wetter-in-deutschland-glatteisgefahr-haelt-an-vorsicht-auf-den-strassen-a-9c665a7d-c21b-4892-8e97-ddec40f76fc5#ref=rss)
-### adorf
-
-* [https://www.spiegel.de/kultur/brigitte-bardot-mario-adorf-traf-seine-frau-dank-des-franzoesischen-filmstars](https://www.spiegel.de/kultur/brigitte-bardot-mario-adorf-traf-seine-frau-dank-des-franzoesischen-filmstars-a-f617399b-a436-4d00-8665-08cd088fa1d4#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/kultur/das-kanu-des-manitu-ist-erfolgreichster-film-des-jahres](https://www.spiegel.de/kultur/das-kanu-des-manitu-ist-erfolgreichster-film-des-jahres-a-0e61af42-0839-4bc6-911c-12dd85bbf096#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ruestung-deutsche-ruestungsexporte-sind-2025-deutlich-zurueckgegangen](https://www.spiegel.de/wirtschaft/ruestung-deutsche-ruestungsexporte-sind-2025-deutlich-zurueckgegangen-a-69c4b44e-a001-4355-af72-10687621b825#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei-a-4ee2ee1c-fcef-4711-8790-4ea497498a41#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/kultur/das-kanu-des-manitu-ist-erfolgreichster-film-des-jahres](https://www.spiegel.de/kultur/das-kanu-des-manitu-ist-erfolgreichster-film-des-jahres-a-0e61af42-0839-4bc6-911c-12dd85bbf096#ref=rss)
-* [https://www.spiegel.de/sport/sportfotos-2025-duplantis-mcilroy-salah-das-jahr-in-bildern](https://www.spiegel.de/sport/sportfotos-2025-duplantis-mcilroy-salah-das-jahr-in-bildern-a-0985c855-f83b-42ce-a8a2-ab731c49fd11#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-gewinneinbruch-und-weniger-jobs-bei-deutschlands-top-konzernen](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-gewinneinbruch-und-weniger-jobs-bei-deutschlands-top-konzernen-a-a72b9f7d-27a5-4e3c-a868-21a60a3ef965#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/kultur/das-kanu-des-manitu-ist-erfolgreichster-film-des-jahres](https://www.spiegel.de/kultur/das-kanu-des-manitu-ist-erfolgreichster-film-des-jahres-a-0e61af42-0839-4bc6-911c-12dd85bbf096#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-das-koennte-hinter-den-anschlaegen-auf-die-bahn-stecken](https://www.spiegel.de/panorama/justiz/deutsche-bahn-das-koennte-hinter-den-anschlaegen-auf-die-bahn-stecken-a-d7114ade-2888-4aac-92c5-0cf1485dd5fa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ruestung-deutsche-ruestungsexporte-sind-2025-deutlich-zurueckgegangen](https://www.spiegel.de/wirtschaft/ruestung-deutsche-ruestungsexporte-sind-2025-deutlich-zurueckgegangen-a-69c4b44e-a001-4355-af72-10687621b825#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/wirtschaft/feiertage-2026-diw-praesident-marcel-fratzscher-bezeichnet-diskussion-ueber-ersatz-feiertage-als-phantomdebatte](https://www.spiegel.de/wirtschaft/feiertage-2026-diw-praesident-marcel-fratzscher-bezeichnet-diskussion-ueber-ersatz-feiertage-als-phantomdebatte-a-78131ccf-1ee7-4730-be47-04582d4a8cd7#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-geht-ohne-deutsche-weiter-gabriel-clemens-und-co-sind-raus](https://www.spiegel.de/sport/darts-wm-geht-ohne-deutsche-weiter-gabriel-clemens-und-co-sind-raus-a-21c8f169-d9c1-4c8c-a3a1-c0e80ab1cf37#ref=rss)
-### anna
-
-* [https://www.spiegel.de/reise/fernweh/reise-influencer-anna-wuest-und-kevin-hennings-in-skandinavien-hat-sich-anna-bei-einer-panikattacke-gefilmt](https://www.spiegel.de/reise/fernweh/reise-influencer-anna-wuest-und-kevin-hennings-in-skandinavien-hat-sich-anna-bei-einer-panikattacke-gefilmt-a-e0f69dbc-6ea8-4edc-9d24-03dd7555eb05#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/sport/sportfotos-2025-duplantis-mcilroy-salah-das-jahr-in-bildern](https://www.spiegel.de/sport/sportfotos-2025-duplantis-mcilroy-salah-das-jahr-in-bildern-a-0985c855-f83b-42ce-a8a2-ab731c49fd11#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ruestung-deutsche-ruestungsexporte-sind-2025-deutlich-zurueckgegangen](https://www.spiegel.de/wirtschaft/ruestung-deutsche-ruestungsexporte-sind-2025-deutlich-zurueckgegangen-a-69c4b44e-a001-4355-af72-10687621b825#ref=rss)
-### maralago
-
-* [https://www.spiegel.de/ausland/mar-a-lago-donald-trump-und-wolodymyr-selenskyjs-laecheln-des-abends](https://www.spiegel.de/ausland/mar-a-lago-donald-trump-und-wolodymyr-selenskyjs-laecheln-des-abends-a-ad8a0d88-0423-41db-bbd9-2452297c9538#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch](https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch-a-d3d51290-79b4-4b32-bb69-6b81232215f5#ref=rss)
-### durchbruch
-
-* [https://www.spiegel.de/ausland/mar-a-lago-donald-trump-und-wolodymyr-selenskyjs-laecheln-des-abends](https://www.spiegel.de/ausland/mar-a-lago-donald-trump-und-wolodymyr-selenskyjs-laecheln-des-abends-a-ad8a0d88-0423-41db-bbd9-2452297c9538#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch](https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch-a-d3d51290-79b4-4b32-bb69-6b81232215f5#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/tuerkei-einsatz-gegen-mutmassliche-is-mitglieder-nahe-istanbul-sieben-polizisten-verletzt](https://www.spiegel.de/ausland/tuerkei-einsatz-gegen-mutmassliche-is-mitglieder-nahe-istanbul-sieben-polizisten-verletzt-a-22a536fe-bb1e-41dc-a66c-86cfd0234790#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-mehrere-tote-bei-auseinandersetzungen-im-westen-des-landes](https://www.spiegel.de/ausland/syrien-mehrere-tote-bei-auseinandersetzungen-im-westen-des-landes-a-c67592e2-2cec-4da4-b937-d9560363d94b#ref=rss)
-### polizisten
-
-* [https://www.spiegel.de/ausland/tuerkei-einsatz-gegen-mutmassliche-is-mitglieder-nahe-istanbul-sieben-polizisten-verletzt](https://www.spiegel.de/ausland/tuerkei-einsatz-gegen-mutmassliche-is-mitglieder-nahe-istanbul-sieben-polizisten-verletzt-a-22a536fe-bb1e-41dc-a66c-86cfd0234790#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-polizisten-bundesjustizministerin-stefanie-hubig-will-angriffe-auf-einsatzkraefte-haerter-bestrafen](https://www.spiegel.de/panorama/justiz/gewalt-gegen-polizisten-bundesjustizministerin-stefanie-hubig-will-angriffe-auf-einsatzkraefte-haerter-bestrafen-a-ac69a1c3-d05e-42e1-9733-7a0e972698b8#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/digitalisierung-daenemark-haengt-letzte-briefkaesten-ab](https://www.spiegel.de/wirtschaft/digitalisierung-daenemark-haengt-letzte-briefkaesten-ab-a-2595ae6a-fe2d-4357-8524-ec3d685f3b20#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-geht-ohne-deutsche-weiter-gabriel-clemens-und-co-sind-raus](https://www.spiegel.de/sport/darts-wm-geht-ohne-deutsche-weiter-gabriel-clemens-und-co-sind-raus-a-21c8f169-d9c1-4c8c-a3a1-c0e80ab1cf37#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-glatteisgefahr-haelt-an-vorsicht-auf-den-strassen](https://www.spiegel.de/panorama/wetter-in-deutschland-glatteisgefahr-haelt-an-vorsicht-auf-den-strassen-a-9c665a7d-c21b-4892-8e97-ddec40f76fc5#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/wirtschaft/ruestung-deutsche-ruestungsexporte-sind-2025-deutlich-zurueckgegangen](https://www.spiegel.de/wirtschaft/ruestung-deutsche-ruestungsexporte-sind-2025-deutlich-zurueckgegangen-a-69c4b44e-a001-4355-af72-10687621b825#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch](https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch-a-d3d51290-79b4-4b32-bb69-6b81232215f5#ref=rss)
-### hochschule
-
-* [https://www.spiegel.de/start/iu-internationale-hochschule-warum-deutschlands-groesste-hochschule-so-polarisiert](https://www.spiegel.de/start/iu-internationale-hochschule-warum-deutschlands-groesste-hochschule-so-polarisiert-a-e07c598c-8495-4da1-935c-f587972f283c#ref=rss)
-### balendra
-
-* [https://www.spiegel.de/ausland/balendra-shah-ex-rapper-will-nepals-ministerpraesident-werden](https://www.spiegel.de/ausland/balendra-shah-ex-rapper-will-nepals-ministerpraesident-werden-a-27943181-4783-441b-8a73-4c8bf3a5a69e#ref=rss)
-### shah
-
-* [https://www.spiegel.de/ausland/balendra-shah-ex-rapper-will-nepals-ministerpraesident-werden](https://www.spiegel.de/ausland/balendra-shah-ex-rapper-will-nepals-ministerpraesident-werden-a-27943181-4783-441b-8a73-4c8bf3a5a69e#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/balendra-shah-ex-rapper-will-nepals-ministerpraesident-werden](https://www.spiegel.de/ausland/balendra-shah-ex-rapper-will-nepals-ministerpraesident-werden-a-27943181-4783-441b-8a73-4c8bf3a5a69e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/digitalisierung-daenemark-haengt-letzte-briefkaesten-ab](https://www.spiegel.de/wirtschaft/digitalisierung-daenemark-haengt-letzte-briefkaesten-ab-a-2595ae6a-fe2d-4357-8524-ec3d685f3b20#ref=rss)
-### 764
-
-* [https://www.spiegel.de/panorama/justiz/dem-boesen-auf-der-spur](https://www.spiegel.de/panorama/justiz/dem-boesen-auf-der-spur-a-96958e72-1a46-49a2-ab68-e05c62ece286#ref=rss)
-### gar
-
-* [https://www.spiegel.de/panorama/justiz/dem-boesen-auf-der-spur](https://www.spiegel.de/panorama/justiz/dem-boesen-auf-der-spur-a-96958e72-1a46-49a2-ab68-e05c62ece286#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ruestung-deutsche-ruestungsexporte-sind-2025-deutlich-zurueckgegangen](https://www.spiegel.de/wirtschaft/ruestung-deutsche-ruestungsexporte-sind-2025-deutlich-zurueckgegangen-a-69c4b44e-a001-4355-af72-10687621b825#ref=rss)
-### autobahn
-
-* [https://www.spiegel.de/auto/autobahn-als-rennstrecke-warum-christian-vogl-gern-200-km-h-faehrt](https://www.spiegel.de/auto/autobahn-als-rennstrecke-warum-christian-vogl-gern-200-km-h-faehrt-a-83701395-4174-4f6b-a574-8d3bc0e5dcfa#ref=rss)
-### christian
-
-* [https://www.spiegel.de/auto/autobahn-als-rennstrecke-warum-christian-vogl-gern-200-km-h-faehrt](https://www.spiegel.de/auto/autobahn-als-rennstrecke-warum-christian-vogl-gern-200-km-h-faehrt-a-83701395-4174-4f6b-a574-8d3bc0e5dcfa#ref=rss)
-### vogl
-
-* [https://www.spiegel.de/auto/autobahn-als-rennstrecke-warum-christian-vogl-gern-200-km-h-faehrt](https://www.spiegel.de/auto/autobahn-als-rennstrecke-warum-christian-vogl-gern-200-km-h-faehrt-a-83701395-4174-4f6b-a574-8d3bc0e5dcfa#ref=rss)
-### gern
-
-* [https://www.spiegel.de/auto/autobahn-als-rennstrecke-warum-christian-vogl-gern-200-km-h-faehrt](https://www.spiegel.de/auto/autobahn-als-rennstrecke-warum-christian-vogl-gern-200-km-h-faehrt-a-83701395-4174-4f6b-a574-8d3bc0e5dcfa#ref=rss)
-### manche
-
-* [https://www.spiegel.de/auto/autobahn-als-rennstrecke-warum-christian-vogl-gern-200-km-h-faehrt](https://www.spiegel.de/auto/autobahn-als-rennstrecke-warum-christian-vogl-gern-200-km-h-faehrt-a-83701395-4174-4f6b-a574-8d3bc0e5dcfa#ref=rss)
-* [https://www.spiegel.de/start/iu-internationale-hochschule-warum-deutschlands-groesste-hochschule-so-polarisiert](https://www.spiegel.de/start/iu-internationale-hochschule-warum-deutschlands-groesste-hochschule-so-polarisiert-a-e07c598c-8495-4da1-935c-f587972f283c#ref=rss)
-### viele
-
-* [https://www.spiegel.de/auto/autobahn-als-rennstrecke-warum-christian-vogl-gern-200-km-h-faehrt](https://www.spiegel.de/auto/autobahn-als-rennstrecke-warum-christian-vogl-gern-200-km-h-faehrt-a-83701395-4174-4f6b-a574-8d3bc0e5dcfa#ref=rss)
-* [https://www.spiegel.de/kultur/brigitte-bardot-mario-adorf-traf-seine-frau-dank-des-franzoesischen-filmstars](https://www.spiegel.de/kultur/brigitte-bardot-mario-adorf-traf-seine-frau-dank-des-franzoesischen-filmstars-a-f617399b-a436-4d00-8665-08cd088fa1d4#ref=rss)
-### männer
-
-* [https://www.spiegel.de/auto/autobahn-als-rennstrecke-warum-christian-vogl-gern-200-km-h-faehrt](https://www.spiegel.de/auto/autobahn-als-rennstrecke-warum-christian-vogl-gern-200-km-h-faehrt-a-83701395-4174-4f6b-a574-8d3bc0e5dcfa#ref=rss)
-* [https://www.spiegel.de/sport/sportfotos-2025-duplantis-mcilroy-salah-das-jahr-in-bildern](https://www.spiegel.de/sport/sportfotos-2025-duplantis-mcilroy-salah-das-jahr-in-bildern-a-0985c855-f83b-42ce-a8a2-ab731c49fd11#ref=rss)
-### bardot
-
-* [https://www.spiegel.de/kultur/brigitte-bardot-mario-adorf-traf-seine-frau-dank-des-franzoesischen-filmstars](https://www.spiegel.de/kultur/brigitte-bardot-mario-adorf-traf-seine-frau-dank-des-franzoesischen-filmstars-a-f617399b-a436-4d00-8665-08cd088fa1d4#ref=rss)
-### mario
-
-* [https://www.spiegel.de/kultur/brigitte-bardot-mario-adorf-traf-seine-frau-dank-des-franzoesischen-filmstars](https://www.spiegel.de/kultur/brigitte-bardot-mario-adorf-traf-seine-frau-dank-des-franzoesischen-filmstars-a-f617399b-a436-4d00-8665-08cd088fa1d4#ref=rss)
-### frau
-
-* [https://www.spiegel.de/kultur/brigitte-bardot-mario-adorf-traf-seine-frau-dank-des-franzoesischen-filmstars](https://www.spiegel.de/kultur/brigitte-bardot-mario-adorf-traf-seine-frau-dank-des-franzoesischen-filmstars-a-f617399b-a436-4d00-8665-08cd088fa1d4#ref=rss)
-* [https://www.spiegel.de/sport/sportfotos-2025-duplantis-mcilroy-salah-das-jahr-in-bildern](https://www.spiegel.de/sport/sportfotos-2025-duplantis-mcilroy-salah-das-jahr-in-bildern-a-0985c855-f83b-42ce-a8a2-ab731c49fd11#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/kultur/brigitte-bardot-mario-adorf-traf-seine-frau-dank-des-franzoesischen-filmstars](https://www.spiegel.de/kultur/brigitte-bardot-mario-adorf-traf-seine-frau-dank-des-franzoesischen-filmstars-a-f617399b-a436-4d00-8665-08cd088fa1d4#ref=rss)
-* [https://www.spiegel.de/karriere/ueberstunden-schichtarbeit-und-die-unterschaetzten-gesundheitsrisiken](https://www.spiegel.de/karriere/ueberstunden-schichtarbeit-und-die-unterschaetzten-gesundheitsrisiken-a-0bbe12be-84b3-49d2-8a7a-15e8b9cf8f38#ref=rss)
-### fuchs
-
-* [https://www.spiegel.de/panorama/northeim-fuchs-beisst-fuenfjaehriges-maedchen-ins-bein](https://www.spiegel.de/panorama/northeim-fuchs-beisst-fuenfjaehriges-maedchen-ins-bein-a-aa8dce40-cf88-4f35-a808-721e7a9682cf#ref=rss)
-### kam
-
-* [https://www.spiegel.de/panorama/northeim-fuchs-beisst-fuenfjaehriges-maedchen-ins-bein](https://www.spiegel.de/panorama/northeim-fuchs-beisst-fuenfjaehriges-maedchen-ins-bein-a-aa8dce40-cf88-4f35-a808-721e7a9682cf#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-glatteisgefahr-haelt-an-vorsicht-auf-den-strassen](https://www.spiegel.de/panorama/wetter-in-deutschland-glatteisgefahr-haelt-an-vorsicht-auf-den-strassen-a-9c665a7d-c21b-4892-8e97-ddec40f76fc5#ref=rss)
-### krankenhaus
-
-* [https://www.spiegel.de/panorama/northeim-fuchs-beisst-fuenfjaehriges-maedchen-ins-bein](https://www.spiegel.de/panorama/northeim-fuchs-beisst-fuenfjaehriges-maedchen-ins-bein-a-aa8dce40-cf88-4f35-a808-721e7a9682cf#ref=rss)
-* [https://www.spiegel.de/panorama/dolomiten-in-italien-31-jaehriger-wintersportler-stirbt-nach-lawinenabgang](https://www.spiegel.de/panorama/dolomiten-in-italien-31-jaehriger-wintersportler-stirbt-nach-lawinenabgang-a-67f89f62-5340-464a-a9a5-f1fb9d5e5e88#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/panorama/northeim-fuchs-beisst-fuenfjaehriges-maedchen-ins-bein](https://www.spiegel.de/panorama/northeim-fuchs-beisst-fuenfjaehriges-maedchen-ins-bein-a-aa8dce40-cf88-4f35-a808-721e7a9682cf#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-einsatz-gegen-mutmassliche-is-mitglieder-nahe-istanbul-sieben-polizisten-verletzt](https://www.spiegel.de/ausland/tuerkei-einsatz-gegen-mutmassliche-is-mitglieder-nahe-istanbul-sieben-polizisten-verletzt-a-22a536fe-bb1e-41dc-a66c-86cfd0234790#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/kultur/das-kanu-des-manitu-ist-erfolgreichster-film-des-jahres](https://www.spiegel.de/kultur/das-kanu-des-manitu-ist-erfolgreichster-film-des-jahres-a-0e61af42-0839-4bc6-911c-12dd85bbf096#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-polizisten-bundesjustizministerin-stefanie-hubig-will-angriffe-auf-einsatzkraefte-haerter-bestrafen](https://www.spiegel.de/panorama/justiz/gewalt-gegen-polizisten-bundesjustizministerin-stefanie-hubig-will-angriffe-auf-einsatzkraefte-haerter-bestrafen-a-ac69a1c3-d05e-42e1-9733-7a0e972698b8#ref=rss)
-### alles
-
-* [https://www.spiegel.de/kultur/das-kanu-des-manitu-ist-erfolgreichster-film-des-jahres](https://www.spiegel.de/kultur/das-kanu-des-manitu-ist-erfolgreichster-film-des-jahres-a-0e61af42-0839-4bc6-911c-12dd85bbf096#ref=rss)
-* [https://www.spiegel.de/sport/american-football/simone-biles-weltstar-fotografiert-ehemann-bei-nfl-spielen](https://www.spiegel.de/sport/american-football/simone-biles-weltstar-fotografiert-ehemann-bei-nfl-spielen-a-37967182-dbd9-421a-af32-38f4204cdd78#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/kultur/das-kanu-des-manitu-ist-erfolgreichster-film-des-jahres](https://www.spiegel.de/kultur/das-kanu-des-manitu-ist-erfolgreichster-film-des-jahres-a-0e61af42-0839-4bc6-911c-12dd85bbf096#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch](https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch-a-d3d51290-79b4-4b32-bb69-6b81232215f5#ref=rss)
-### feiertage
-
-* [https://www.spiegel.de/wirtschaft/feiertage-2026-diw-praesident-marcel-fratzscher-bezeichnet-diskussion-ueber-ersatz-feiertage-als-phantomdebatte](https://www.spiegel.de/wirtschaft/feiertage-2026-diw-praesident-marcel-fratzscher-bezeichnet-diskussion-ueber-ersatz-feiertage-als-phantomdebatte-a-78131ccf-1ee7-4730-be47-04582d4a8cd7#ref=rss)
-### wochenende
-
-* [https://www.spiegel.de/wirtschaft/feiertage-2026-diw-praesident-marcel-fratzscher-bezeichnet-diskussion-ueber-ersatz-feiertage-als-phantomdebatte](https://www.spiegel.de/wirtschaft/feiertage-2026-diw-praesident-marcel-fratzscher-bezeichnet-diskussion-ueber-ersatz-feiertage-als-phantomdebatte-a-78131ccf-1ee7-4730-be47-04582d4a8cd7#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-glatteisgefahr-haelt-an-vorsicht-auf-den-strassen](https://www.spiegel.de/panorama/wetter-in-deutschland-glatteisgefahr-haelt-an-vorsicht-auf-den-strassen-a-9c665a7d-c21b-4892-8e97-ddec40f76fc5#ref=rss)
-### fallen
-
-* [https://www.spiegel.de/wirtschaft/feiertage-2026-diw-praesident-marcel-fratzscher-bezeichnet-diskussion-ueber-ersatz-feiertage-als-phantomdebatte](https://www.spiegel.de/wirtschaft/feiertage-2026-diw-praesident-marcel-fratzscher-bezeichnet-diskussion-ueber-ersatz-feiertage-als-phantomdebatte-a-78131ccf-1ee7-4730-be47-04582d4a8cd7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-das-koennte-hinter-den-anschlaegen-auf-die-bahn-stecken](https://www.spiegel.de/panorama/justiz/deutsche-bahn-das-koennte-hinter-den-anschlaegen-auf-die-bahn-stecken-a-d7114ade-2888-4aac-92c5-0cf1485dd5fa#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/feiertage-2026-diw-praesident-marcel-fratzscher-bezeichnet-diskussion-ueber-ersatz-feiertage-als-phantomdebatte](https://www.spiegel.de/wirtschaft/feiertage-2026-diw-praesident-marcel-fratzscher-bezeichnet-diskussion-ueber-ersatz-feiertage-als-phantomdebatte-a-78131ccf-1ee7-4730-be47-04582d4a8cd7#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-mehrere-tote-bei-auseinandersetzungen-im-westen-des-landes](https://www.spiegel.de/ausland/syrien-mehrere-tote-bei-auseinandersetzungen-im-westen-des-landes-a-c67592e2-2cec-4da4-b937-d9560363d94b#ref=rss)
-### amöbe
-
-* [https://www.spiegel.de/wissenschaft/natur/kalifornien-amoebe-trotzt-temperaturen-ueber-60-grad-celsius](https://www.spiegel.de/wissenschaft/natur/kalifornien-amoebe-trotzt-temperaturen-ueber-60-grad-celsius-a-aab69cac-291e-4fdb-b712-fd41e3babe94#ref=rss)
-### trotzt
-
-* [https://www.spiegel.de/wissenschaft/natur/kalifornien-amoebe-trotzt-temperaturen-ueber-60-grad-celsius](https://www.spiegel.de/wissenschaft/natur/kalifornien-amoebe-trotzt-temperaturen-ueber-60-grad-celsius-a-aab69cac-291e-4fdb-b712-fd41e3babe94#ref=rss)
-### temperaturen
-
-* [https://www.spiegel.de/wissenschaft/natur/kalifornien-amoebe-trotzt-temperaturen-ueber-60-grad-celsius](https://www.spiegel.de/wissenschaft/natur/kalifornien-amoebe-trotzt-temperaturen-ueber-60-grad-celsius-a-aab69cac-291e-4fdb-b712-fd41e3babe94#ref=rss)
-### 60
-
-* [https://www.spiegel.de/wissenschaft/natur/kalifornien-amoebe-trotzt-temperaturen-ueber-60-grad-celsius](https://www.spiegel.de/wissenschaft/natur/kalifornien-amoebe-trotzt-temperaturen-ueber-60-grad-celsius-a-aab69cac-291e-4fdb-b712-fd41e3babe94#ref=rss)
-### grad
-
-* [https://www.spiegel.de/wissenschaft/natur/kalifornien-amoebe-trotzt-temperaturen-ueber-60-grad-celsius](https://www.spiegel.de/wissenschaft/natur/kalifornien-amoebe-trotzt-temperaturen-ueber-60-grad-celsius-a-aab69cac-291e-4fdb-b712-fd41e3babe94#ref=rss)
-### celsius
-
-* [https://www.spiegel.de/wissenschaft/natur/kalifornien-amoebe-trotzt-temperaturen-ueber-60-grad-celsius](https://www.spiegel.de/wissenschaft/natur/kalifornien-amoebe-trotzt-temperaturen-ueber-60-grad-celsius-a-aab69cac-291e-4fdb-b712-fd41e3babe94#ref=rss)
-### wüst
-
-* [https://www.spiegel.de/reise/fernweh/reise-influencer-anna-wuest-und-kevin-hennings-in-skandinavien-hat-sich-anna-bei-einer-panikattacke-gefilmt](https://www.spiegel.de/reise/fernweh/reise-influencer-anna-wuest-und-kevin-hennings-in-skandinavien-hat-sich-anna-bei-einer-panikattacke-gefilmt-a-e0f69dbc-6ea8-4edc-9d24-03dd7555eb05#ref=rss)
-### kevin
-
-* [https://www.spiegel.de/reise/fernweh/reise-influencer-anna-wuest-und-kevin-hennings-in-skandinavien-hat-sich-anna-bei-einer-panikattacke-gefilmt](https://www.spiegel.de/reise/fernweh/reise-influencer-anna-wuest-und-kevin-hennings-in-skandinavien-hat-sich-anna-bei-einer-panikattacke-gefilmt-a-e0f69dbc-6ea8-4edc-9d24-03dd7555eb05#ref=rss)
-### hennings
-
-* [https://www.spiegel.de/reise/fernweh/reise-influencer-anna-wuest-und-kevin-hennings-in-skandinavien-hat-sich-anna-bei-einer-panikattacke-gefilmt](https://www.spiegel.de/reise/fernweh/reise-influencer-anna-wuest-und-kevin-hennings-in-skandinavien-hat-sich-anna-bei-einer-panikattacke-gefilmt-a-e0f69dbc-6ea8-4edc-9d24-03dd7555eb05#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-das-koennte-hinter-den-anschlaegen-auf-die-bahn-stecken](https://www.spiegel.de/panorama/justiz/deutsche-bahn-das-koennte-hinter-den-anschlaegen-auf-die-bahn-stecken-a-d7114ade-2888-4aac-92c5-0cf1485dd5fa#ref=rss)
-### täter
-
-* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-das-koennte-hinter-den-anschlaegen-auf-die-bahn-stecken](https://www.spiegel.de/panorama/justiz/deutsche-bahn-das-koennte-hinter-den-anschlaegen-auf-die-bahn-stecken-a-d7114ade-2888-4aac-92c5-0cf1485dd5fa#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-unbekannte-bohren-loch-in-wand-von-tresorraum](https://www.spiegel.de/panorama/justiz/gelsenkirchen-unbekannte-bohren-loch-in-wand-von-tresorraum-a-5f69cbbf-67f6-470c-bc3b-1d185f73aa6a#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/mar-a-lago-donald-trump-und-wolodymyr-selenskyjs-laecheln-des-abends](https://www.spiegel.de/ausland/mar-a-lago-donald-trump-und-wolodymyr-selenskyjs-laecheln-des-abends-a-ad8a0d88-0423-41db-bbd9-2452297c9538#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei-a-4ee2ee1c-fcef-4711-8790-4ea497498a41#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/mar-a-lago-donald-trump-und-wolodymyr-selenskyjs-laecheln-des-abends](https://www.spiegel.de/ausland/mar-a-lago-donald-trump-und-wolodymyr-selenskyjs-laecheln-des-abends-a-ad8a0d88-0423-41db-bbd9-2452297c9538#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei-a-4ee2ee1c-fcef-4711-8790-4ea497498a41#ref=rss)
-### unbekannte
-
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-unbekannte-bohren-loch-in-wand-von-tresorraum](https://www.spiegel.de/panorama/justiz/gelsenkirchen-unbekannte-bohren-loch-in-wand-von-tresorraum-a-5f69cbbf-67f6-470c-bc3b-1d185f73aa6a#ref=rss)
-### loch
-
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-unbekannte-bohren-loch-in-wand-von-tresorraum](https://www.spiegel.de/panorama/justiz/gelsenkirchen-unbekannte-bohren-loch-in-wand-von-tresorraum-a-5f69cbbf-67f6-470c-bc3b-1d185f73aa6a#ref=rss)
-### tresorraum
-
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-unbekannte-bohren-loch-in-wand-von-tresorraum](https://www.spiegel.de/panorama/justiz/gelsenkirchen-unbekannte-bohren-loch-in-wand-von-tresorraum-a-5f69cbbf-67f6-470c-bc3b-1d185f73aa6a#ref=rss)
-### einsatzkräfte
-
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-unbekannte-bohren-loch-in-wand-von-tresorraum](https://www.spiegel.de/panorama/justiz/gelsenkirchen-unbekannte-bohren-loch-in-wand-von-tresorraum-a-5f69cbbf-67f6-470c-bc3b-1d185f73aa6a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-polizisten-bundesjustizministerin-stefanie-hubig-will-angriffe-auf-einsatzkraefte-haerter-bestrafen](https://www.spiegel.de/panorama/justiz/gewalt-gegen-polizisten-bundesjustizministerin-stefanie-hubig-will-angriffe-auf-einsatzkraefte-haerter-bestrafen-a-ac69a1c3-d05e-42e1-9733-7a0e972698b8#ref=rss)
-### simone
-
-* [https://www.spiegel.de/sport/american-football/simone-biles-weltstar-fotografiert-ehemann-bei-nfl-spielen](https://www.spiegel.de/sport/american-football/simone-biles-weltstar-fotografiert-ehemann-bei-nfl-spielen-a-37967182-dbd9-421a-af32-38f4204cdd78#ref=rss)
-### biles
-
-* [https://www.spiegel.de/sport/american-football/simone-biles-weltstar-fotografiert-ehemann-bei-nfl-spielen](https://www.spiegel.de/sport/american-football/simone-biles-weltstar-fotografiert-ehemann-bei-nfl-spielen-a-37967182-dbd9-421a-af32-38f4204cdd78#ref=rss)
-### ehemann
-
-* [https://www.spiegel.de/sport/american-football/simone-biles-weltstar-fotografiert-ehemann-bei-nfl-spielen](https://www.spiegel.de/sport/american-football/simone-biles-weltstar-fotografiert-ehemann-bei-nfl-spielen-a-37967182-dbd9-421a-af32-38f4204cdd78#ref=rss)
-### dritte
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-gewinneinbruch-und-weniger-jobs-bei-deutschlands-top-konzernen](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-gewinneinbruch-und-weniger-jobs-bei-deutschlands-top-konzernen-a-a72b9f7d-27a5-4e3c-a868-21a60a3ef965#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-geht-ohne-deutsche-weiter-gabriel-clemens-und-co-sind-raus](https://www.spiegel.de/sport/darts-wm-geht-ohne-deutsche-weiter-gabriel-clemens-und-co-sind-raus-a-21c8f169-d9c1-4c8c-a3a1-c0e80ab1cf37#ref=rss)
-### andere
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-gewinneinbruch-und-weniger-jobs-bei-deutschlands-top-konzernen](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-gewinneinbruch-und-weniger-jobs-bei-deutschlands-top-konzernen-a-a72b9f7d-27a5-4e3c-a868-21a60a3ef965#ref=rss)
-* [https://www.spiegel.de/start/iu-internationale-hochschule-warum-deutschlands-groesste-hochschule-so-polarisiert](https://www.spiegel.de/start/iu-internationale-hochschule-warum-deutschlands-groesste-hochschule-so-polarisiert-a-e07c598c-8495-4da1-935c-f587972f283c#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-gewinneinbruch-und-weniger-jobs-bei-deutschlands-top-konzernen](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-gewinneinbruch-und-weniger-jobs-bei-deutschlands-top-konzernen-a-a72b9f7d-27a5-4e3c-a868-21a60a3ef965#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ruestung-deutsche-ruestungsexporte-sind-2025-deutlich-zurueckgegangen](https://www.spiegel.de/wirtschaft/ruestung-deutsche-ruestungsexporte-sind-2025-deutlich-zurueckgegangen-a-69c4b44e-a001-4355-af72-10687621b825#ref=rss)
-### aktivrente
-
-* [https://www.spiegel.de/wirtschaft/service/aktivrente-wie-funktioniert-sie-und-was-bringt-sie](https://www.spiegel.de/wirtschaft/service/aktivrente-wie-funktioniert-sie-und-was-bringt-sie-a-60bd2e98-c644-4ab4-9c15-668f510604ed#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/ausland/tuerkei-einsatz-gegen-mutmassliche-is-mitglieder-nahe-istanbul-sieben-polizisten-verletzt](https://www.spiegel.de/ausland/tuerkei-einsatz-gegen-mutmassliche-is-mitglieder-nahe-istanbul-sieben-polizisten-verletzt-a-22a536fe-bb1e-41dc-a66c-86cfd0234790#ref=rss)
-### mutmaßliche
-
-* [https://www.spiegel.de/ausland/tuerkei-einsatz-gegen-mutmassliche-is-mitglieder-nahe-istanbul-sieben-polizisten-verletzt](https://www.spiegel.de/ausland/tuerkei-einsatz-gegen-mutmassliche-is-mitglieder-nahe-istanbul-sieben-polizisten-verletzt-a-22a536fe-bb1e-41dc-a66c-86cfd0234790#ref=rss)
-### istanbul
-
-* [https://www.spiegel.de/ausland/tuerkei-einsatz-gegen-mutmassliche-is-mitglieder-nahe-istanbul-sieben-polizisten-verletzt](https://www.spiegel.de/ausland/tuerkei-einsatz-gegen-mutmassliche-is-mitglieder-nahe-istanbul-sieben-polizisten-verletzt-a-22a536fe-bb1e-41dc-a66c-86cfd0234790#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/ausland/tuerkei-einsatz-gegen-mutmassliche-is-mitglieder-nahe-istanbul-sieben-polizisten-verletzt](https://www.spiegel.de/ausland/tuerkei-einsatz-gegen-mutmassliche-is-mitglieder-nahe-istanbul-sieben-polizisten-verletzt-a-22a536fe-bb1e-41dc-a66c-86cfd0234790#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-mehrere-tote-bei-auseinandersetzungen-im-westen-des-landes](https://www.spiegel.de/ausland/syrien-mehrere-tote-bei-auseinandersetzungen-im-westen-des-landes-a-c67592e2-2cec-4da4-b937-d9560363d94b#ref=rss)
-### digitalisierung
-
-* [https://www.spiegel.de/wirtschaft/digitalisierung-daenemark-haengt-letzte-briefkaesten-ab](https://www.spiegel.de/wirtschaft/digitalisierung-daenemark-haengt-letzte-briefkaesten-ab-a-2595ae6a-fe2d-4357-8524-ec3d685f3b20#ref=rss)
-### dänemark
-
-* [https://www.spiegel.de/wirtschaft/digitalisierung-daenemark-haengt-letzte-briefkaesten-ab](https://www.spiegel.de/wirtschaft/digitalisierung-daenemark-haengt-letzte-briefkaesten-ab-a-2595ae6a-fe2d-4357-8524-ec3d685f3b20#ref=rss)
-### briefkästen
-
-* [https://www.spiegel.de/wirtschaft/digitalisierung-daenemark-haengt-letzte-briefkaesten-ab](https://www.spiegel.de/wirtschaft/digitalisierung-daenemark-haengt-letzte-briefkaesten-ab-a-2595ae6a-fe2d-4357-8524-ec3d685f3b20#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wirtschaft/digitalisierung-daenemark-haengt-letzte-briefkaesten-ab](https://www.spiegel.de/wirtschaft/digitalisierung-daenemark-haengt-letzte-briefkaesten-ab-a-2595ae6a-fe2d-4357-8524-ec3d685f3b20#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ruestung-deutsche-ruestungsexporte-sind-2025-deutlich-zurueckgegangen](https://www.spiegel.de/wirtschaft/ruestung-deutsche-ruestungsexporte-sind-2025-deutlich-zurueckgegangen-a-69c4b44e-a001-4355-af72-10687621b825#ref=rss)
-### hubig
-
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-polizisten-bundesjustizministerin-stefanie-hubig-will-angriffe-auf-einsatzkraefte-haerter-bestrafen](https://www.spiegel.de/panorama/justiz/gewalt-gegen-polizisten-bundesjustizministerin-stefanie-hubig-will-angriffe-auf-einsatzkraefte-haerter-bestrafen-a-ac69a1c3-d05e-42e1-9733-7a0e972698b8#ref=rss)
-### angriffe
-
-* [https://www.spiegel.de/panorama/justiz/gewalt-gegen-polizisten-bundesjustizministerin-stefanie-hubig-will-angriffe-auf-einsatzkraefte-haerter-bestrafen](https://www.spiegel.de/panorama/justiz/gewalt-gegen-polizisten-bundesjustizministerin-stefanie-hubig-will-angriffe-auf-einsatzkraefte-haerter-bestrafen-a-ac69a1c3-d05e-42e1-9733-7a0e972698b8#ref=rss)
-### kosovo
-
-* [https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-gewinnt-parlamentswahl-klar-moegliches-ende-der-regierungsblockade](https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-gewinnt-parlamentswahl-klar-moegliches-ende-der-regierungsblockade-a-c901831b-8209-4048-aeed-08329ca3b7c9#ref=rss)
-### albin
-
-* [https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-gewinnt-parlamentswahl-klar-moegliches-ende-der-regierungsblockade](https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-gewinnt-parlamentswahl-klar-moegliches-ende-der-regierungsblockade-a-c901831b-8209-4048-aeed-08329ca3b7c9#ref=rss)
-### kurti
-
-* [https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-gewinnt-parlamentswahl-klar-moegliches-ende-der-regierungsblockade](https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-gewinnt-parlamentswahl-klar-moegliches-ende-der-regierungsblockade-a-c901831b-8209-4048-aeed-08329ca3b7c9#ref=rss)
-### parlamentswahl
-
-* [https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-gewinnt-parlamentswahl-klar-moegliches-ende-der-regierungsblockade](https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-gewinnt-parlamentswahl-klar-moegliches-ende-der-regierungsblockade-a-c901831b-8209-4048-aeed-08329ca3b7c9#ref=rss)
-### ende
-
-* [https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-gewinnt-parlamentswahl-klar-moegliches-ende-der-regierungsblockade](https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-gewinnt-parlamentswahl-klar-moegliches-ende-der-regierungsblockade-a-c901831b-8209-4048-aeed-08329ca3b7c9#ref=rss)
-### blockade
-
-* [https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-gewinnt-parlamentswahl-klar-moegliches-ende-der-regierungsblockade](https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-gewinnt-parlamentswahl-klar-moegliches-ende-der-regierungsblockade-a-c901831b-8209-4048-aeed-08329ca3b7c9#ref=rss)
-### premier
-
-* [https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-gewinnt-parlamentswahl-klar-moegliches-ende-der-regierungsblockade](https://www.spiegel.de/ausland/kosovo-regierungschef-albin-kurti-gewinnt-parlamentswahl-klar-moegliches-ende-der-regierungsblockade-a-c901831b-8209-4048-aeed-08329ca3b7c9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei-a-4ee2ee1c-fcef-4711-8790-4ea497498a41#ref=rss)
-### iu
-
-* [https://www.spiegel.de/start/iu-internationale-hochschule-warum-deutschlands-groesste-hochschule-so-polarisiert](https://www.spiegel.de/start/iu-internationale-hochschule-warum-deutschlands-groesste-hochschule-so-polarisiert-a-e07c598c-8495-4da1-935c-f587972f283c#ref=rss)
-### dolomiten
-
-* [https://www.spiegel.de/panorama/dolomiten-in-italien-31-jaehriger-wintersportler-stirbt-nach-lawinenabgang](https://www.spiegel.de/panorama/dolomiten-in-italien-31-jaehriger-wintersportler-stirbt-nach-lawinenabgang-a-67f89f62-5340-464a-a9a5-f1fb9d5e5e88#ref=rss)
-### dartswm
-
-* [https://www.spiegel.de/sport/darts-wm-geht-ohne-deutsche-weiter-gabriel-clemens-und-co-sind-raus](https://www.spiegel.de/sport/darts-wm-geht-ohne-deutsche-weiter-gabriel-clemens-und-co-sind-raus-a-21c8f169-d9c1-4c8c-a3a1-c0e80ab1cf37#ref=rss)
-### vier
-
-* [https://www.spiegel.de/sport/darts-wm-geht-ohne-deutsche-weiter-gabriel-clemens-und-co-sind-raus](https://www.spiegel.de/sport/darts-wm-geht-ohne-deutsche-weiter-gabriel-clemens-und-co-sind-raus-a-21c8f169-d9c1-4c8c-a3a1-c0e80ab1cf37#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-mehrere-tote-bei-auseinandersetzungen-im-westen-des-landes](https://www.spiegel.de/ausland/syrien-mehrere-tote-bei-auseinandersetzungen-im-westen-des-landes-a-c67592e2-2cec-4da4-b937-d9560363d94b#ref=rss)
-### pretendians
-
-* [https://www.spiegel.de/wissenschaft/mensch/pretendians-in-kanada-warum-luegen-menschen-ueber-ihre-herkunft](https://www.spiegel.de/wissenschaft/mensch/pretendians-in-kanada-warum-luegen-menschen-ueber-ihre-herkunft-a-3ddd95fb-fdda-455c-afa6-0c7cd99ff7a1#ref=rss)
-### kanada
-
-* [https://www.spiegel.de/wissenschaft/mensch/pretendians-in-kanada-warum-luegen-menschen-ueber-ihre-herkunft](https://www.spiegel.de/wissenschaft/mensch/pretendians-in-kanada-warum-luegen-menschen-ueber-ihre-herkunft-a-3ddd95fb-fdda-455c-afa6-0c7cd99ff7a1#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/nvidia-loest-apple-als-wertvollstes-unternehmen-ab-sap-faellt-zurueck](https://www.spiegel.de/wirtschaft/nvidia-loest-apple-als-wertvollstes-unternehmen-ab-sap-faellt-zurueck-a-efac0ee4-dc19-4421-8ec0-b7777e2c92f2#ref=rss)
+* [https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt](https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt-a-08b9c2ac-0f0b-4081-9702-19fc2cd5586f#ref=rss)
+* [https://www.spiegel.de/kultur/kino/albert-camus-roman-der-fremde-neu-verfilmt-showdown-am-strand](https://www.spiegel.de/kultur/kino/albert-camus-roman-der-fremde-neu-verfilmt-showdown-am-strand-a-c5f73d27-d1a4-4f56-9569-cbfc877ffaee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr](https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr-a-542e7622-8087-4aad-8c71-cf5461e3540e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht](https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht-a-5525da0b-a23e-4c16-aa4f-6ee13eeba547#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/panorama/justiz/breisach-am-rhein-ladendiebin-kommt-selbst-zur-polizei-und-wird-wegen-weiterer-vergehen-festgenommen](https://www.spiegel.de/panorama/justiz/breisach-am-rhein-ladendiebin-kommt-selbst-zur-polizei-und-wird-wegen-weiterer-vergehen-festgenommen-a-a195eff3-3364-4b7e-8505-4d747055bcfe#ref=rss)
+* [https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben](https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben-a-87290aa3-949b-4eeb-b4d7-12f311d76d1f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei](https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei-a-057f97df-14ad-48e4-bf24-a214a280a6ec#ref=rss)
+* [https://www.spiegel.de/ausland/ahmed-al-ahmed-held-vom-bondi-beach-spricht-erstmals-ueber-entwaffnung-des-attentaeters](https://www.spiegel.de/ausland/ahmed-al-ahmed-held-vom-bondi-beach-spricht-erstmals-ueber-entwaffnung-des-attentaeters-a-9acfae22-850f-48c6-8c0a-6b8e4672bd0e#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/breisach-am-rhein-ladendiebin-kommt-selbst-zur-polizei-und-wird-wegen-weiterer-vergehen-festgenommen](https://www.spiegel.de/panorama/justiz/breisach-am-rhein-ladendiebin-kommt-selbst-zur-polizei-und-wird-wegen-weiterer-vergehen-festgenommen-a-a195eff3-3364-4b7e-8505-4d747055bcfe#ref=rss)
+* [https://www.spiegel.de/panorama/gelsenkirchen-tumulte-nach-tresoreinbruch-in-sparkasse-in-buer](https://www.spiegel.de/panorama/gelsenkirchen-tumulte-nach-tresoreinbruch-in-sparkasse-in-buer-a-3fa1f113-cf41-49c8-a5d7-d732e37ad3b5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei](https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei-a-057f97df-14ad-48e4-bf24-a214a280a6ec#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen](https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen-a-8c411945-6c17-4eb5-bdae-6b0991726713#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025](https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025-a-6855aea1-2170-4b8b-a543-3afb1614457c#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever](https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever-a-b93e6373-619c-4851-a6fc-2288c8e67c71#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren](https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren-a-fd0d57d4-daeb-47e5-8089-6cf9f94132a1#ref=rss)
+* [https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben](https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben-a-87290aa3-949b-4eeb-b4d7-12f311d76d1f#ref=rss)
+* [https://www.spiegel.de/ausland/ahmed-al-ahmed-held-vom-bondi-beach-spricht-erstmals-ueber-entwaffnung-des-attentaeters](https://www.spiegel.de/ausland/ahmed-al-ahmed-held-vom-bondi-beach-spricht-erstmals-ueber-entwaffnung-des-attentaeters-a-9acfae22-850f-48c6-8c0a-6b8e4672bd0e#ref=rss)
+### wo
+
+* [https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden](https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden-a-956fe4ff-faf6-4606-a1da-3ce2913b6dd3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht](https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht-a-5525da0b-a23e-4c16-aa4f-6ee13eeba547#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/wissenschaft/mensch/pretendians-in-kanada-warum-luegen-menschen-ueber-ihre-herkunft](https://www.spiegel.de/wissenschaft/mensch/pretendians-in-kanada-warum-luegen-menschen-ueber-ihre-herkunft-a-3ddd95fb-fdda-455c-afa6-0c7cd99ff7a1#ref=rss)
-### bleibt
+* [https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben](https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben-a-87290aa3-949b-4eeb-b4d7-12f311d76d1f#ref=rss)
+* [https://www.spiegel.de/kultur/podcast-leftovers-wann-darf-man-schon-einem-so-intimen-moment-zwischen-zwei-menschen-beiwohnen](https://www.spiegel.de/kultur/podcast-leftovers-wann-darf-man-schon-einem-so-intimen-moment-zwischen-zwei-menschen-beiwohnen-a-be832c9c-6bf9-416b-8cbb-2a8f39e3d586#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht](https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht-a-5525da0b-a23e-4c16-aa4f-6ee13eeba547#ref=rss)
+### moskau
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-glatteisgefahr-haelt-an-vorsicht-auf-den-strassen](https://www.spiegel.de/panorama/wetter-in-deutschland-glatteisgefahr-haelt-an-vorsicht-auf-den-strassen-a-9c665a7d-c21b-4892-8e97-ddec40f76fc5#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch](https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch-a-d3d51290-79b4-4b32-bb69-6b81232215f5#ref=rss)
-### frieden
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wirft-moskau-vor-den-krieg-nicht-beenden-zu-wollen](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wirft-moskau-vor-den-krieg-nicht-beenden-zu-wollen-a-aba419b8-b3e2-4984-8dfb-ae0f4f4712c1#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-lobt-friedensgespraeche-und-droht-der-ukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-lobt-friedensgespraeche-und-droht-der-ukraine-a-b46b0cd2-f95e-459b-bfd1-b52aec9ee23b#ref=rss)
+### tag
 
-* [https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch](https://www.spiegel.de/ausland/donald-trump-empfaengt-wolodymyr-selenskyj-in-mar-a-lago-zuversicht-aber-kein-durchbruch-a-d3d51290-79b4-4b32-bb69-6b81232215f5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei-a-4ee2ee1c-fcef-4711-8790-4ea497498a41#ref=rss)
-### netanyahu
+* [https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re-a-5a3db38c-df6a-4c00-a940-8fd757a74380#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei](https://www.spiegel.de/politik/deutschland/news-donald-trump-wladimir-putin-wolodymyr-selenskyj-benjamin-netanyahu-feuerwerk-boeller-thorsten-frei-a-4ee2ee1c-fcef-4711-8790-4ea497498a41#ref=rss)
+* [https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re-a-5a3db38c-df6a-4c00-a940-8fd757a74380#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025](https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025-a-6855aea1-2170-4b8b-a543-3afb1614457c#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever](https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever-a-b93e6373-619c-4851-a6fc-2288c8e67c71#ref=rss)
+### auto
+
+* [https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren](https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren-a-fd0d57d4-daeb-47e5-8089-6cf9f94132a1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen](https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen-a-8c411945-6c17-4eb5-bdae-6b0991726713#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united-a-797b1157-449c-47d7-8177-5f76d53e959b#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united-a-797b1157-449c-47d7-8177-5f76d53e959b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen](https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen-a-8c411945-6c17-4eb5-bdae-6b0991726713#ref=rss)
+### bardot
+
+* [https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden](https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden-a-956fe4ff-faf6-4606-a1da-3ce2913b6dd3#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben](https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben-a-87290aa3-949b-4eeb-b4d7-12f311d76d1f#ref=rss)
+* [https://www.spiegel.de/kultur/podcast-leftovers-wann-darf-man-schon-einem-so-intimen-moment-zwischen-zwei-menschen-beiwohnen](https://www.spiegel.de/kultur/podcast-leftovers-wann-darf-man-schon-einem-so-intimen-moment-zwischen-zwei-menschen-beiwohnen-a-be832c9c-6bf9-416b-8cbb-2a8f39e3d586#ref=rss)
+### nvidia
+
+* [https://www.spiegel.de/wirtschaft/nvidia-loest-apple-als-wertvollstes-unternehmen-ab-sap-faellt-zurueck](https://www.spiegel.de/wirtschaft/nvidia-loest-apple-als-wertvollstes-unternehmen-ab-sap-faellt-zurueck-a-efac0ee4-dc19-4421-8ec0-b7777e2c92f2#ref=rss)
+### welt
+
+* [https://www.spiegel.de/wirtschaft/nvidia-loest-apple-als-wertvollstes-unternehmen-ab-sap-faellt-zurueck](https://www.spiegel.de/wirtschaft/nvidia-loest-apple-als-wertvollstes-unternehmen-ab-sap-faellt-zurueck-a-efac0ee4-dc19-4421-8ec0-b7777e2c92f2#ref=rss)
+* [https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden](https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden-a-956fe4ff-faf6-4606-a1da-3ce2913b6dd3#ref=rss)
+### erst
+
+* [https://www.spiegel.de/wirtschaft/nvidia-loest-apple-als-wertvollstes-unternehmen-ab-sap-faellt-zurueck](https://www.spiegel.de/wirtschaft/nvidia-loest-apple-als-wertvollstes-unternehmen-ab-sap-faellt-zurueck-a-efac0ee4-dc19-4421-8ec0-b7777e2c92f2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen](https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen-a-8c411945-6c17-4eb5-bdae-6b0991726713#ref=rss)
+### beyoncé
+
+* [https://www.spiegel.de/panorama/beyonce-ist-jetzt-milliardaerin](https://www.spiegel.de/panorama/beyonce-ist-jetzt-milliardaerin-a-ada2b8c5-56c7-40d1-bcd4-887df9ca3255#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/beyonce-ist-jetzt-milliardaerin](https://www.spiegel.de/panorama/beyonce-ist-jetzt-milliardaerin-a-ada2b8c5-56c7-40d1-bcd4-887df9ca3255#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht](https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht-a-5525da0b-a23e-4c16-aa4f-6ee13eeba547#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/beyonce-ist-jetzt-milliardaerin](https://www.spiegel.de/panorama/beyonce-ist-jetzt-milliardaerin-a-ada2b8c5-56c7-40d1-bcd4-887df9ca3255#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr](https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr-a-542e7622-8087-4aad-8c71-cf5461e3540e#ref=rss)
+### eigene
+
+* [https://www.spiegel.de/panorama/beyonce-ist-jetzt-milliardaerin](https://www.spiegel.de/panorama/beyonce-ist-jetzt-milliardaerin-a-ada2b8c5-56c7-40d1-bcd4-887df9ca3255#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht](https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht-a-5525da0b-a23e-4c16-aa4f-6ee13eeba547#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/panorama/justiz/breisach-am-rhein-ladendiebin-kommt-selbst-zur-polizei-und-wird-wegen-weiterer-vergehen-festgenommen](https://www.spiegel.de/panorama/justiz/breisach-am-rhein-ladendiebin-kommt-selbst-zur-polizei-und-wird-wegen-weiterer-vergehen-festgenommen-a-a195eff3-3364-4b7e-8505-4d747055bcfe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei](https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei-a-057f97df-14ad-48e4-bf24-a214a280a6ec#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/breisach-am-rhein-ladendiebin-kommt-selbst-zur-polizei-und-wird-wegen-weiterer-vergehen-festgenommen](https://www.spiegel.de/panorama/justiz/breisach-am-rhein-ladendiebin-kommt-selbst-zur-polizei-und-wird-wegen-weiterer-vergehen-festgenommen-a-a195eff3-3364-4b7e-8505-4d747055bcfe#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt](https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt-a-08b9c2ac-0f0b-4081-9702-19fc2cd5586f#ref=rss)
+### somaliland
+
+* [https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt](https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt-a-08b9c2ac-0f0b-4081-9702-19fc2cd5586f#ref=rss)
+### hinter
+
+* [https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt](https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt-a-08b9c2ac-0f0b-4081-9702-19fc2cd5586f#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever](https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever-a-b93e6373-619c-4851-a6fc-2288c8e67c71#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt](https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt-a-08b9c2ac-0f0b-4081-9702-19fc2cd5586f#ref=rss)
+* [https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder](https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder-a-e2af2a66-ae5d-4f00-af68-e0ff1eb4d4d2#ref=rss)
+### interessen
+
+* [https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt](https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt-a-08b9c2ac-0f0b-4081-9702-19fc2cd5586f#ref=rss)
+* [https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf](https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf-a-9ea8d154-6b39-4442-b508-9f814ad860d8#ref=rss)
+### mtv
+
+* [https://www.spiegel.de/kultur/tv/nachruf-auf-mtv-musikvideos-hier-schliesst-sich-ein-fenster-nach-amerika](https://www.spiegel.de/kultur/tv/nachruf-auf-mtv-musikvideos-hier-schliesst-sich-ein-fenster-nach-amerika-a-a39283b6-71a7-4191-b1a3-7fee83c3989a#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wirft-moskau-vor-den-krieg-nicht-beenden-zu-wollen](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wirft-moskau-vor-den-krieg-nicht-beenden-zu-wollen-a-aba419b8-b3e2-4984-8dfb-ae0f4f4712c1#ref=rss)
+### sicher
+
+* [https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee](https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee-a-e8f81a5b-9762-42e4-b968-6ae9efaa3239#ref=rss)
+### schnee
+
+* [https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee](https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee-a-e8f81a5b-9762-42e4-b968-6ae9efaa3239#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee](https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee-a-e8f81a5b-9762-42e4-b968-6ae9efaa3239#ref=rss)
+* [https://www.spiegel.de/wirtschaft/logistikbranche-in-deutschland-fehlen-120-000-lkw-fahrer](https://www.spiegel.de/wirtschaft/logistikbranche-in-deutschland-fehlen-120-000-lkw-fahrer-a-8b0b7e14-aaa4-4891-9168-f3db78ae0f3b#ref=rss)
+### sorgen
+
+* [https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee](https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee-a-e8f81a5b-9762-42e4-b968-6ae9efaa3239#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr](https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr-a-542e7622-8087-4aad-8c71-cf5461e3540e#ref=rss)
+### halten
+
+* [https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee](https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee-a-e8f81a5b-9762-42e4-b968-6ae9efaa3239#ref=rss)
+* [https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re-a-5a3db38c-df6a-4c00-a940-8fd757a74380#ref=rss)
+### aufs
+
+* [https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee](https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee-a-e8f81a5b-9762-42e4-b968-6ae9efaa3239#ref=rss)
+### tv
+
+* [https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re-a-5a3db38c-df6a-4c00-a940-8fd757a74380#ref=rss)
+### arte
+
+* [https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re-a-5a3db38c-df6a-4c00-a940-8fd757a74380#ref=rss)
+### weiß
+
+* [https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re-a-5a3db38c-df6a-4c00-a940-8fd757a74380#ref=rss)
+### fremde
+
+* [https://www.spiegel.de/kultur/kino/albert-camus-roman-der-fremde-neu-verfilmt-showdown-am-strand](https://www.spiegel.de/kultur/kino/albert-camus-roman-der-fremde-neu-verfilmt-showdown-am-strand-a-c5f73d27-d1a4-4f56-9569-cbfc877ffaee#ref=rss)
+### mann
+
+* [https://www.spiegel.de/kultur/kino/albert-camus-roman-der-fremde-neu-verfilmt-showdown-am-strand](https://www.spiegel.de/kultur/kino/albert-camus-roman-der-fremde-neu-verfilmt-showdown-am-strand-a-c5f73d27-d1a4-4f56-9569-cbfc877ffaee#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei](https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei-a-057f97df-14ad-48e4-bf24-a214a280a6ec#ref=rss)
 ### überstunden
 
 * [https://www.spiegel.de/karriere/ueberstunden-schichtarbeit-und-die-unterschaetzten-gesundheitsrisiken](https://www.spiegel.de/karriere/ueberstunden-schichtarbeit-und-die-unterschaetzten-gesundheitsrisiken-a-0bbe12be-84b3-49d2-8a7a-15e8b9cf8f38#ref=rss)
+### honduras
+
+* [https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf](https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf-a-9ea8d154-6b39-4442-b508-9f814ad860d8#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf](https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf-a-9ea8d154-6b39-4442-b508-9f814ad860d8#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf](https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf-a-9ea8d154-6b39-4442-b508-9f814ad860d8#ref=rss)
+### nasry
+
+* [https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf](https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf-a-9ea8d154-6b39-4442-b508-9f814ad860d8#ref=rss)
+### asfura
+
+* [https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf](https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf-a-9ea8d154-6b39-4442-b508-9f814ad860d8#ref=rss)
+### rheinlandpfalz
+
+* [https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder](https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder-a-e2af2a66-ae5d-4f00-af68-e0ff1eb4d4d2#ref=rss)
+### großen
+
+* [https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder](https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder-a-e2af2a66-ae5d-4f00-af68-e0ff1eb4d4d2#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever](https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever-a-b93e6373-619c-4851-a6fc-2288c8e67c71#ref=rss)
+### bruder
+
+* [https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder](https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder-a-e2af2a66-ae5d-4f00-af68-e0ff1eb4d4d2#ref=rss)
+### chancen
+
+* [https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder](https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder-a-e2af2a66-ae5d-4f00-af68-e0ff1eb4d4d2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united-a-797b1157-449c-47d7-8177-5f76d53e959b#ref=rss)
+### militärmanöver
+
+* [https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025](https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025-a-6855aea1-2170-4b8b-a543-3afb1614457c#ref=rss)
+### mission
+
+* [https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025](https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025-a-6855aea1-2170-4b8b-a543-3afb1614457c#ref=rss)
+### gerechtigkeit
+
+* [https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025](https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025-a-6855aea1-2170-4b8b-a543-3afb1614457c#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025](https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025-a-6855aea1-2170-4b8b-a543-3afb1614457c#ref=rss)
+### botschaft
+
+* [https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025](https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025-a-6855aea1-2170-4b8b-a543-3afb1614457c#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever](https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever-a-b93e6373-619c-4851-a6fc-2288c8e67c71#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever](https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever-a-b93e6373-619c-4851-a6fc-2288c8e67c71#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht](https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht-a-5525da0b-a23e-4c16-aa4f-6ee13eeba547#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever](https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever-a-b93e6373-619c-4851-a6fc-2288c8e67c71#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr](https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr-a-542e7622-8087-4aad-8c71-cf5461e3540e#ref=rss)
+### aalen
+
+* [https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren](https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren-a-fd0d57d4-daeb-47e5-8089-6cf9f94132a1#ref=rss)
+### känguru
+
+* [https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren](https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren-a-fd0d57d4-daeb-47e5-8089-6cf9f94132a1#ref=rss)
+### zirkus
+
+* [https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren](https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren-a-fd0d57d4-daeb-47e5-8089-6cf9f94132a1#ref=rss)
+### angefahren
+
+* [https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren](https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren-a-fd0d57d4-daeb-47e5-8089-6cf9f94132a1#ref=rss)
+### lea
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united-a-797b1157-449c-47d7-8177-5f76d53e959b#ref=rss)
+### schüller
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united-a-797b1157-449c-47d7-8177-5f76d53e959b#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united-a-797b1157-449c-47d7-8177-5f76d53e959b#ref=rss)
+### united
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united-a-797b1157-449c-47d7-8177-5f76d53e959b#ref=rss)
+### verbessern
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united-a-797b1157-449c-47d7-8177-5f76d53e959b#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/smartphones-und-kinder-forscher-warnen-vor-unsicherer-kinder-smartwatch](https://www.spiegel.de/netzwelt/gadgets/smartphones-und-kinder-forscher-warnen-vor-unsicherer-kinder-smartwatch-a-17e8d6ca-c69c-4c16-90e8-7ef15d00fdbb#ref=rss)
+### gelsenkirchen
+
+* [https://www.spiegel.de/panorama/gelsenkirchen-tumulte-nach-tresoreinbruch-in-sparkasse-in-buer](https://www.spiegel.de/panorama/gelsenkirchen-tumulte-nach-tresoreinbruch-in-sparkasse-in-buer-a-3fa1f113-cf41-49c8-a5d7-d732e37ad3b5#ref=rss)
+### sparkasse
+
+* [https://www.spiegel.de/panorama/gelsenkirchen-tumulte-nach-tresoreinbruch-in-sparkasse-in-buer](https://www.spiegel.de/panorama/gelsenkirchen-tumulte-nach-tresoreinbruch-in-sparkasse-in-buer-a-3fa1f113-cf41-49c8-a5d7-d732e37ad3b5#ref=rss)
+### beschäftigt
+
+* [https://www.spiegel.de/panorama/gelsenkirchen-tumulte-nach-tresoreinbruch-in-sparkasse-in-buer](https://www.spiegel.de/panorama/gelsenkirchen-tumulte-nach-tresoreinbruch-in-sparkasse-in-buer-a-3fa1f113-cf41-49c8-a5d7-d732e37ad3b5#ref=rss)
+* [https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden](https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden-a-956fe4ff-faf6-4606-a1da-3ce2913b6dd3#ref=rss)
+### lkwfahrer
+
+* [https://www.spiegel.de/wirtschaft/logistikbranche-in-deutschland-fehlen-120-000-lkw-fahrer](https://www.spiegel.de/wirtschaft/logistikbranche-in-deutschland-fehlen-120-000-lkw-fahrer-a-8b0b7e14-aaa4-4891-9168-f3db78ae0f3b#ref=rss)
+### brigitte
+
+* [https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden](https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden-a-956fe4ff-faf6-4606-a1da-3ce2913b6dd3#ref=rss)
+### anthony
+
+* [https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben](https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben-a-87290aa3-949b-4eeb-b4d7-12f311d76d1f#ref=rss)
+### joshua
+
+* [https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben](https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben-a-87290aa3-949b-4eeb-b4d7-12f311d76d1f#ref=rss)
+### unfall
+
+* [https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben](https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben-a-87290aa3-949b-4eeb-b4d7-12f311d76d1f#ref=rss)
+### nigeria
+
+* [https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben](https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben-a-87290aa3-949b-4eeb-b4d7-12f311d76d1f#ref=rss)
+### unterhaching
+
+* [https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei](https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei-a-057f97df-14ad-48e4-bf24-a214a280a6ec#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei](https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei-a-057f97df-14ad-48e4-bf24-a214a280a6ec#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr](https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr-a-542e7622-8087-4aad-8c71-cf5461e3540e#ref=rss)
+### galeria
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr](https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr-a-542e7622-8087-4aad-8c71-cf5461e3540e#ref=rss)
+### forscher
+
+* [https://www.spiegel.de/netzwelt/gadgets/smartphones-und-kinder-forscher-warnen-vor-unsicherer-kinder-smartwatch](https://www.spiegel.de/netzwelt/gadgets/smartphones-und-kinder-forscher-warnen-vor-unsicherer-kinder-smartwatch-a-17e8d6ca-c69c-4c16-90e8-7ef15d00fdbb#ref=rss)
+### ahmed
+
+* [https://www.spiegel.de/ausland/ahmed-al-ahmed-held-vom-bondi-beach-spricht-erstmals-ueber-entwaffnung-des-attentaeters](https://www.spiegel.de/ausland/ahmed-al-ahmed-held-vom-bondi-beach-spricht-erstmals-ueber-entwaffnung-des-attentaeters-a-9acfae22-850f-48c6-8c0a-6b8e4672bd0e#ref=rss)
+### alahmed
+
+* [https://www.spiegel.de/ausland/ahmed-al-ahmed-held-vom-bondi-beach-spricht-erstmals-ueber-entwaffnung-des-attentaeters](https://www.spiegel.de/ausland/ahmed-al-ahmed-held-vom-bondi-beach-spricht-erstmals-ueber-entwaffnung-des-attentaeters-a-9acfae22-850f-48c6-8c0a-6b8e4672bd0e#ref=rss)
+### england
+
+* [https://www.spiegel.de/wissenschaft/natur/tierschutz-england-will-kochen-lebender-hummer-verbieten](https://www.spiegel.de/wissenschaft/natur/tierschutz-england-will-kochen-lebender-hummer-verbieten-a-c107a245-7a79-468d-a5c7-5365e9ae8731#ref=rss)
+### kochen
+
+* [https://www.spiegel.de/wissenschaft/natur/tierschutz-england-will-kochen-lebender-hummer-verbieten](https://www.spiegel.de/wissenschaft/natur/tierschutz-england-will-kochen-lebender-hummer-verbieten-a-c107a245-7a79-468d-a5c7-5365e9ae8731#ref=rss)
+### hummer
+
+* [https://www.spiegel.de/wissenschaft/natur/tierschutz-england-will-kochen-lebender-hummer-verbieten](https://www.spiegel.de/wissenschaft/natur/tierschutz-england-will-kochen-lebender-hummer-verbieten-a-c107a245-7a79-468d-a5c7-5365e9ae8731#ref=rss)
+### circus
+
+* [https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen](https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen-a-8c411945-6c17-4eb5-bdae-6b0991726713#ref=rss)
+### krone
+
+* [https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen](https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen-a-8c411945-6c17-4eb5-bdae-6b0991726713#ref=rss)
+### leftovers
+
+* [https://www.spiegel.de/kultur/podcast-leftovers-wann-darf-man-schon-einem-so-intimen-moment-zwischen-zwei-menschen-beiwohnen](https://www.spiegel.de/kultur/podcast-leftovers-wann-darf-man-schon-einem-so-intimen-moment-zwischen-zwei-menschen-beiwohnen-a-be832c9c-6bf9-416b-8cbb-2a8f39e3d586#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
 
