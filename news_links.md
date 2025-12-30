@@ -4,321 +4,314 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### neue
+### jahr
 
-* [https://www.spiegel.de/wirtschaft/nvidia-loest-apple-als-wertvollstes-unternehmen-ab-sap-faellt-zurueck](https://www.spiegel.de/wirtschaft/nvidia-loest-apple-als-wertvollstes-unternehmen-ab-sap-faellt-zurueck-a-efac0ee4-dc19-4421-8ec0-b7777e2c92f2#ref=rss)
-* [https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt](https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt-a-08b9c2ac-0f0b-4081-9702-19fc2cd5586f#ref=rss)
-* [https://www.spiegel.de/kultur/kino/albert-camus-roman-der-fremde-neu-verfilmt-showdown-am-strand](https://www.spiegel.de/kultur/kino/albert-camus-roman-der-fremde-neu-verfilmt-showdown-am-strand-a-c5f73d27-d1a4-4f56-9569-cbfc877ffaee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr](https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr-a-542e7622-8087-4aad-8c71-cf5461e3540e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht](https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht-a-5525da0b-a23e-4c16-aa4f-6ee13eeba547#ref=rss)
-### selbst
+* [https://www.spiegel.de/wirtschaft/unternehmen/warum-amerikanische-whiskey-firmen-auf-ihrem-bourbon-sitzen-bleiben](https://www.spiegel.de/wirtschaft/unternehmen/warum-amerikanische-whiskey-firmen-auf-ihrem-bourbon-sitzen-bleiben-a-91e382a9-e32d-40ab-922c-e50311df1315#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar](https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar-a-7346a62a-f72b-49dc-a8df-8bd11feab688#ref=rss)
+* [https://www.spiegel.de/sport/sport-quiz-wie-gut-kennen-sie-das-jahr-2025](https://www.spiegel.de/sport/sport-quiz-wie-gut-kennen-sie-das-jahr-2025-a-c9415697-21b1-427a-b912-4246d525723d#ref=rss)
+* [https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes](https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes-a-b2dfe2c5-aa00-4f91-91f2-ef053c6d67cb#ref=rss)
+* [https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln](https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln-a-ab7bfdcb-deee-49c2-b59a-a197a5dbbcd8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung](https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung-a-d28ff7c1-ef67-4822-a85b-3a2c928e991a#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/panorama/justiz/breisach-am-rhein-ladendiebin-kommt-selbst-zur-polizei-und-wird-wegen-weiterer-vergehen-festgenommen](https://www.spiegel.de/panorama/justiz/breisach-am-rhein-ladendiebin-kommt-selbst-zur-polizei-und-wird-wegen-weiterer-vergehen-festgenommen-a-a195eff3-3364-4b7e-8505-4d747055bcfe#ref=rss)
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben](https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben-a-87290aa3-949b-4eeb-b4d7-12f311d76d1f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei](https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei-a-057f97df-14ad-48e4-bf24-a214a280a6ec#ref=rss)
-* [https://www.spiegel.de/ausland/ahmed-al-ahmed-held-vom-bondi-beach-spricht-erstmals-ueber-entwaffnung-des-attentaeters](https://www.spiegel.de/ausland/ahmed-al-ahmed-held-vom-bondi-beach-spricht-erstmals-ueber-entwaffnung-des-attentaeters-a-9acfae22-850f-48c6-8c0a-6b8e4672bd0e#ref=rss)
-### polizei
+* [https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt](https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt-a-e0839759-3010-4d59-ae81-5089d0b8c6b5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar](https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar-a-7346a62a-f72b-49dc-a8df-8bd11feab688#ref=rss)
+* [https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas](https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas-a-587f1de0-0b65-4180-b081-fc3358f7019d#ref=rss)
+* [https://www.spiegel.de/psychologie/gewinnen-was-waere-die-welt-ohne-siege](https://www.spiegel.de/psychologie/gewinnen-was-waere-die-welt-ohne-siege-a-1a5d6f3c-2c7e-452c-9cd0-21fa6c46f7f5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung](https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung-a-d28ff7c1-ef67-4822-a85b-3a2c928e991a#ref=rss)
+### drei
 
-* [https://www.spiegel.de/panorama/justiz/breisach-am-rhein-ladendiebin-kommt-selbst-zur-polizei-und-wird-wegen-weiterer-vergehen-festgenommen](https://www.spiegel.de/panorama/justiz/breisach-am-rhein-ladendiebin-kommt-selbst-zur-polizei-und-wird-wegen-weiterer-vergehen-festgenommen-a-a195eff3-3364-4b7e-8505-4d747055bcfe#ref=rss)
-* [https://www.spiegel.de/panorama/gelsenkirchen-tumulte-nach-tresoreinbruch-in-sparkasse-in-buer](https://www.spiegel.de/panorama/gelsenkirchen-tumulte-nach-tresoreinbruch-in-sparkasse-in-buer-a-3fa1f113-cf41-49c8-a5d7-d732e37ad3b5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei](https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei-a-057f97df-14ad-48e4-bf24-a214a280a6ec#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen](https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen-a-8c411945-6c17-4eb5-bdae-6b0991726713#ref=rss)
-### taiwan
-
-* [https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025](https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025-a-6855aea1-2170-4b8b-a543-3afb1614457c#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever](https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever-a-b93e6373-619c-4851-a6fc-2288c8e67c71#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren](https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren-a-fd0d57d4-daeb-47e5-8089-6cf9f94132a1#ref=rss)
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben](https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben-a-87290aa3-949b-4eeb-b4d7-12f311d76d1f#ref=rss)
-* [https://www.spiegel.de/ausland/ahmed-al-ahmed-held-vom-bondi-beach-spricht-erstmals-ueber-entwaffnung-des-attentaeters](https://www.spiegel.de/ausland/ahmed-al-ahmed-held-vom-bondi-beach-spricht-erstmals-ueber-entwaffnung-des-attentaeters-a-9acfae22-850f-48c6-8c0a-6b8e4672bd0e#ref=rss)
-### wo
-
-* [https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden](https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden-a-956fe4ff-faf6-4606-a1da-3ce2913b6dd3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht](https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht-a-5525da0b-a23e-4c16-aa4f-6ee13eeba547#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben](https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben-a-87290aa3-949b-4eeb-b4d7-12f311d76d1f#ref=rss)
-* [https://www.spiegel.de/kultur/podcast-leftovers-wann-darf-man-schon-einem-so-intimen-moment-zwischen-zwei-menschen-beiwohnen](https://www.spiegel.de/kultur/podcast-leftovers-wann-darf-man-schon-einem-so-intimen-moment-zwischen-zwei-menschen-beiwohnen-a-be832c9c-6bf9-416b-8cbb-2a8f39e3d586#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht](https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht-a-5525da0b-a23e-4c16-aa4f-6ee13eeba547#ref=rss)
-### moskau
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wirft-moskau-vor-den-krieg-nicht-beenden-zu-wollen](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wirft-moskau-vor-den-krieg-nicht-beenden-zu-wollen-a-aba419b8-b3e2-4984-8dfb-ae0f4f4712c1#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-lobt-friedensgespraeche-und-droht-der-ukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-kreml-lobt-friedensgespraeche-und-droht-der-ukraine-a-b46b0cd2-f95e-459b-bfd1-b52aec9ee23b#ref=rss)
-### tag
-
-* [https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re-a-5a3db38c-df6a-4c00-a940-8fd757a74380#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re-a-5a3db38c-df6a-4c00-a940-8fd757a74380#ref=rss)
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025](https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025-a-6855aea1-2170-4b8b-a543-3afb1614457c#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever](https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever-a-b93e6373-619c-4851-a6fc-2288c8e67c71#ref=rss)
-### auto
-
-* [https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren](https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren-a-fd0d57d4-daeb-47e5-8089-6cf9f94132a1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen](https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen-a-8c411945-6c17-4eb5-bdae-6b0991726713#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united-a-797b1157-449c-47d7-8177-5f76d53e959b#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united-a-797b1157-449c-47d7-8177-5f76d53e959b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen](https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen-a-8c411945-6c17-4eb5-bdae-6b0991726713#ref=rss)
-### bardot
-
-* [https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden](https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden-a-956fe4ff-faf6-4606-a1da-3ce2913b6dd3#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben](https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben-a-87290aa3-949b-4eeb-b4d7-12f311d76d1f#ref=rss)
-* [https://www.spiegel.de/kultur/podcast-leftovers-wann-darf-man-schon-einem-so-intimen-moment-zwischen-zwei-menschen-beiwohnen](https://www.spiegel.de/kultur/podcast-leftovers-wann-darf-man-schon-einem-so-intimen-moment-zwischen-zwei-menschen-beiwohnen-a-be832c9c-6bf9-416b-8cbb-2a8f39e3d586#ref=rss)
-### nvidia
-
-* [https://www.spiegel.de/wirtschaft/nvidia-loest-apple-als-wertvollstes-unternehmen-ab-sap-faellt-zurueck](https://www.spiegel.de/wirtschaft/nvidia-loest-apple-als-wertvollstes-unternehmen-ab-sap-faellt-zurueck-a-efac0ee4-dc19-4421-8ec0-b7777e2c92f2#ref=rss)
-### welt
-
-* [https://www.spiegel.de/wirtschaft/nvidia-loest-apple-als-wertvollstes-unternehmen-ab-sap-faellt-zurueck](https://www.spiegel.de/wirtschaft/nvidia-loest-apple-als-wertvollstes-unternehmen-ab-sap-faellt-zurueck-a-efac0ee4-dc19-4421-8ec0-b7777e2c92f2#ref=rss)
-* [https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden](https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden-a-956fe4ff-faf6-4606-a1da-3ce2913b6dd3#ref=rss)
-### erst
-
-* [https://www.spiegel.de/wirtschaft/nvidia-loest-apple-als-wertvollstes-unternehmen-ab-sap-faellt-zurueck](https://www.spiegel.de/wirtschaft/nvidia-loest-apple-als-wertvollstes-unternehmen-ab-sap-faellt-zurueck-a-efac0ee4-dc19-4421-8ec0-b7777e2c92f2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen](https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen-a-8c411945-6c17-4eb5-bdae-6b0991726713#ref=rss)
-### beyoncé
-
-* [https://www.spiegel.de/panorama/beyonce-ist-jetzt-milliardaerin](https://www.spiegel.de/panorama/beyonce-ist-jetzt-milliardaerin-a-ada2b8c5-56c7-40d1-bcd4-887df9ca3255#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/beyonce-ist-jetzt-milliardaerin](https://www.spiegel.de/panorama/beyonce-ist-jetzt-milliardaerin-a-ada2b8c5-56c7-40d1-bcd4-887df9ca3255#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht](https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht-a-5525da0b-a23e-4c16-aa4f-6ee13eeba547#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/beyonce-ist-jetzt-milliardaerin](https://www.spiegel.de/panorama/beyonce-ist-jetzt-milliardaerin-a-ada2b8c5-56c7-40d1-bcd4-887df9ca3255#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr](https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr-a-542e7622-8087-4aad-8c71-cf5461e3540e#ref=rss)
-### eigene
-
-* [https://www.spiegel.de/panorama/beyonce-ist-jetzt-milliardaerin](https://www.spiegel.de/panorama/beyonce-ist-jetzt-milliardaerin-a-ada2b8c5-56c7-40d1-bcd4-887df9ca3255#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht](https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht-a-5525da0b-a23e-4c16-aa4f-6ee13eeba547#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/panorama/justiz/breisach-am-rhein-ladendiebin-kommt-selbst-zur-polizei-und-wird-wegen-weiterer-vergehen-festgenommen](https://www.spiegel.de/panorama/justiz/breisach-am-rhein-ladendiebin-kommt-selbst-zur-polizei-und-wird-wegen-weiterer-vergehen-festgenommen-a-a195eff3-3364-4b7e-8505-4d747055bcfe#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei](https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei-a-057f97df-14ad-48e4-bf24-a214a280a6ec#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/justiz/breisach-am-rhein-ladendiebin-kommt-selbst-zur-polizei-und-wird-wegen-weiterer-vergehen-festgenommen](https://www.spiegel.de/panorama/justiz/breisach-am-rhein-ladendiebin-kommt-selbst-zur-polizei-und-wird-wegen-weiterer-vergehen-festgenommen-a-a195eff3-3364-4b7e-8505-4d747055bcfe#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt](https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt-a-08b9c2ac-0f0b-4081-9702-19fc2cd5586f#ref=rss)
-### somaliland
-
-* [https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt](https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt-a-08b9c2ac-0f0b-4081-9702-19fc2cd5586f#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt](https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt-a-08b9c2ac-0f0b-4081-9702-19fc2cd5586f#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever](https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever-a-b93e6373-619c-4851-a6fc-2288c8e67c71#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt](https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt-a-08b9c2ac-0f0b-4081-9702-19fc2cd5586f#ref=rss)
-* [https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder](https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder-a-e2af2a66-ae5d-4f00-af68-e0ff1eb4d4d2#ref=rss)
-### interessen
-
-* [https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt](https://www.spiegel.de/ausland/umstrittene-anerkennung-warum-israel-auf-somaliland-setzt-a-08b9c2ac-0f0b-4081-9702-19fc2cd5586f#ref=rss)
-* [https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf](https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf-a-9ea8d154-6b39-4442-b508-9f814ad860d8#ref=rss)
-### mtv
-
-* [https://www.spiegel.de/kultur/tv/nachruf-auf-mtv-musikvideos-hier-schliesst-sich-ein-fenster-nach-amerika](https://www.spiegel.de/kultur/tv/nachruf-auf-mtv-musikvideos-hier-schliesst-sich-ein-fenster-nach-amerika-a-a39283b6-71a7-4191-b1a3-7fee83c3989a#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wirft-moskau-vor-den-krieg-nicht-beenden-zu-wollen](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wirft-moskau-vor-den-krieg-nicht-beenden-zu-wollen-a-aba419b8-b3e2-4984-8dfb-ae0f4f4712c1#ref=rss)
-### sicher
-
-* [https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee](https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee-a-e8f81a5b-9762-42e4-b968-6ae9efaa3239#ref=rss)
-### schnee
-
-* [https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee](https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee-a-e8f81a5b-9762-42e4-b968-6ae9efaa3239#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee](https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee-a-e8f81a5b-9762-42e4-b968-6ae9efaa3239#ref=rss)
-* [https://www.spiegel.de/wirtschaft/logistikbranche-in-deutschland-fehlen-120-000-lkw-fahrer](https://www.spiegel.de/wirtschaft/logistikbranche-in-deutschland-fehlen-120-000-lkw-fahrer-a-8b0b7e14-aaa4-4891-9168-f3db78ae0f3b#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee](https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee-a-e8f81a5b-9762-42e4-b968-6ae9efaa3239#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr](https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr-a-542e7622-8087-4aad-8c71-cf5461e3540e#ref=rss)
-### halten
-
-* [https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee](https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee-a-e8f81a5b-9762-42e4-b968-6ae9efaa3239#ref=rss)
-* [https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re-a-5a3db38c-df6a-4c00-a940-8fd757a74380#ref=rss)
-### aufs
-
-* [https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee](https://www.spiegel.de/auto/glatteis-gefahr-achtung-rutschig-so-fahren-sie-sicher-bei-eis-und-schnee-a-e8f81a5b-9762-42e4-b968-6ae9efaa3239#ref=rss)
-### tv
-
-* [https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re-a-5a3db38c-df6a-4c00-a940-8fd757a74380#ref=rss)
-### arte
-
-* [https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re-a-5a3db38c-df6a-4c00-a940-8fd757a74380#ref=rss)
-### weiß
-
-* [https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re](https://www.spiegel.de/panorama/gruene-hochzeit-oder-luxusparty-der-schoenste-tag-des-lebens-spiegel-tv-fuer-arte-re-a-5a3db38c-df6a-4c00-a940-8fd757a74380#ref=rss)
-### fremde
-
-* [https://www.spiegel.de/kultur/kino/albert-camus-roman-der-fremde-neu-verfilmt-showdown-am-strand](https://www.spiegel.de/kultur/kino/albert-camus-roman-der-fremde-neu-verfilmt-showdown-am-strand-a-c5f73d27-d1a4-4f56-9569-cbfc877ffaee#ref=rss)
-### mann
-
-* [https://www.spiegel.de/kultur/kino/albert-camus-roman-der-fremde-neu-verfilmt-showdown-am-strand](https://www.spiegel.de/kultur/kino/albert-camus-roman-der-fremde-neu-verfilmt-showdown-am-strand-a-c5f73d27-d1a4-4f56-9569-cbfc877ffaee#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei](https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei-a-057f97df-14ad-48e4-bf24-a214a280a6ec#ref=rss)
-### überstunden
-
-* [https://www.spiegel.de/karriere/ueberstunden-schichtarbeit-und-die-unterschaetzten-gesundheitsrisiken](https://www.spiegel.de/karriere/ueberstunden-schichtarbeit-und-die-unterschaetzten-gesundheitsrisiken-a-0bbe12be-84b3-49d2-8a7a-15e8b9cf8f38#ref=rss)
-### honduras
-
-* [https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf](https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf-a-9ea8d154-6b39-4442-b508-9f814ad860d8#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf](https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf-a-9ea8d154-6b39-4442-b508-9f814ad860d8#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf](https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf-a-9ea8d154-6b39-4442-b508-9f814ad860d8#ref=rss)
-### nasry
-
-* [https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf](https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf-a-9ea8d154-6b39-4442-b508-9f814ad860d8#ref=rss)
-### asfura
-
-* [https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf](https://www.spiegel.de/ausland/honduras-warum-donald-trump-dem-konservativen-nasry-asfura-zum-sieg-verhalf-a-9ea8d154-6b39-4442-b508-9f814ad860d8#ref=rss)
-### rheinlandpfalz
-
-* [https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder](https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder-a-e2af2a66-ae5d-4f00-af68-e0ff1eb4d4d2#ref=rss)
-### großen
-
-* [https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder](https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder-a-e2af2a66-ae5d-4f00-af68-e0ff1eb4d4d2#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever](https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever-a-b93e6373-619c-4851-a6fc-2288c8e67c71#ref=rss)
-### bruder
-
-* [https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder](https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder-a-e2af2a66-ae5d-4f00-af68-e0ff1eb4d4d2#ref=rss)
-### chancen
-
-* [https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder](https://www.spiegel.de/politik/landtagswahl-in-rheinland-pfalz-keine-hilfe-vom-grossen-bruder-a-e2af2a66-ae5d-4f00-af68-e0ff1eb4d4d2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united-a-797b1157-449c-47d7-8177-5f76d53e959b#ref=rss)
-### militärmanöver
-
-* [https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025](https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025-a-6855aea1-2170-4b8b-a543-3afb1614457c#ref=rss)
-### mission
-
-* [https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025](https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025-a-6855aea1-2170-4b8b-a543-3afb1614457c#ref=rss)
-### gerechtigkeit
-
-* [https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025](https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025-a-6855aea1-2170-4b8b-a543-3afb1614457c#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest](https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest-a-3793ae3d-569c-4133-a7f4-319289c3e29b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft-a-f45d46de-10ba-4bff-9726-cc2e9c346488#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten](https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten-a-456e4e4f-9dc5-4e22-ad75-a82d8e4b1934#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch](https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch-a-224b7448-43fe-45c8-a32b-8b13f4f98ac9#ref=rss)
 ### 2025
 
-* [https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025](https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025-a-6855aea1-2170-4b8b-a543-3afb1614457c#ref=rss)
-### botschaft
+* [https://www.spiegel.de/sport/sport-quiz-wie-gut-kennen-sie-das-jahr-2025](https://www.spiegel.de/sport/sport-quiz-wie-gut-kennen-sie-das-jahr-2025-a-c9415697-21b1-427a-b912-4246d525723d#ref=rss)
+* [https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas](https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas-a-587f1de0-0b65-4180-b081-fc3358f7019d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-das-waren-die-groessten-preisspruenge-bei-lebensmitteln-2025](https://www.spiegel.de/wirtschaft/inflation-das-waren-die-groessten-preisspruenge-bei-lebensmitteln-2025-a-b0257ccb-6bfb-4313-ba4b-f0ec69e73cda#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-sophia-und-noah-fuehren-die-liste-der-beliebtesten-namen-2025-an](https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-sophia-und-noah-fuehren-die-liste-der-beliebtesten-namen-2025-an-a-3eca2494-713d-4a7d-b9c9-020bde673500#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung](https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung-a-d28ff7c1-ef67-4822-a85b-3a2c928e991a#ref=rss)
+### silvester
 
-* [https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025](https://www.spiegel.de/ausland/taiwan-china-startet-militaermanoever-mission-der-gerechtigkeit-2025-a-6855aea1-2170-4b8b-a543-3afb1614457c#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever](https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever-a-b93e6373-619c-4851-a6fc-2288c8e67c71#ref=rss)
-### zeigt
+* [https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar](https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar-a-7346a62a-f72b-49dc-a8df-8bd11feab688#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-jazz-ensemble-sagt-neujahrskonzert-im-kennedy-center-in-washington-ab](https://www.spiegel.de/ausland/donald-trump-jazz-ensemble-sagt-neujahrskonzert-im-kennedy-center-in-washington-ab-a-3e237a66-10a5-4ee5-bc27-1a40bbf9458b#ref=rss)
+* [https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln](https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln-a-ab7bfdcb-deee-49c2-b59a-a197a5dbbcd8#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever](https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever-a-b93e6373-619c-4851-a6fc-2288c8e67c71#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht](https://www.spiegel.de/wirtschaft/service/wo-sich-gutverdiener-eine-eigentumswohnung-leisten-koennen-und-wo-nicht-a-5525da0b-a23e-4c16-aa4f-6ee13eeba547#ref=rss)
-### macht
+* [https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein](https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein-a-2a7d3a8b-3454-4e0f-b32f-231433635517#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sanktionen-gegen-hate-aid-weitere-us-massnahmen-gegen-deutsche-befuerchtet](https://www.spiegel.de/politik/deutschland/sanktionen-gegen-hate-aid-weitere-us-massnahmen-gegen-deutsche-befuerchtet-a-e0c8b6d9-95e2-4e76-8360-4ea9e3e1dc3d#ref=rss)
+### wechsel
 
-* [https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever](https://www.spiegel.de/ausland/taiwan-china-das-steckt-hinter-chinas-grossmanoever-a-b93e6373-619c-4851-a6fc-2288c8e67c71#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr](https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr-a-542e7622-8087-4aad-8c71-cf5461e3540e#ref=rss)
-### aalen
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech-a-7e5c52c0-f4b6-428e-8b93-4e49febecddc#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-sophia-und-noah-fuehren-die-liste-der-beliebtesten-namen-2025-an](https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-sophia-und-noah-fuehren-die-liste-der-beliebtesten-namen-2025-an-a-3eca2494-713d-4a7d-b9c9-020bde673500#ref=rss)
+### feuerwerk
 
-* [https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren](https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren-a-fd0d57d4-daeb-47e5-8089-6cf9f94132a1#ref=rss)
-### känguru
+* [https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar](https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar-a-7346a62a-f72b-49dc-a8df-8bd11feab688#ref=rss)
+* [https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln](https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln-a-ab7bfdcb-deee-49c2-b59a-a197a5dbbcd8#ref=rss)
+### schnell
 
-* [https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren](https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren-a-fd0d57d4-daeb-47e5-8089-6cf9f94132a1#ref=rss)
-### zirkus
-
-* [https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren](https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren-a-fd0d57d4-daeb-47e5-8089-6cf9f94132a1#ref=rss)
-### angefahren
-
-* [https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren](https://www.spiegel.de/panorama/justiz/aalen-kaenguru-flieht-aus-zirkus-und-wird-von-auto-angefahren-a-fd0d57d4-daeb-47e5-8089-6cf9f94132a1#ref=rss)
-### lea
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united-a-797b1157-449c-47d7-8177-5f76d53e959b#ref=rss)
-### schüller
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united-a-797b1157-449c-47d7-8177-5f76d53e959b#ref=rss)
-### manchester
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united-a-797b1157-449c-47d7-8177-5f76d53e959b#ref=rss)
-### united
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united-a-797b1157-449c-47d7-8177-5f76d53e959b#ref=rss)
-### verbessern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lea-schueller-verlaesst-bayern-und-wechselt-zu-manchester-united-a-797b1157-449c-47d7-8177-5f76d53e959b#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/smartphones-und-kinder-forscher-warnen-vor-unsicherer-kinder-smartwatch](https://www.spiegel.de/netzwelt/gadgets/smartphones-und-kinder-forscher-warnen-vor-unsicherer-kinder-smartwatch-a-17e8d6ca-c69c-4c16-90e8-7ef15d00fdbb#ref=rss)
-### gelsenkirchen
-
-* [https://www.spiegel.de/panorama/gelsenkirchen-tumulte-nach-tresoreinbruch-in-sparkasse-in-buer](https://www.spiegel.de/panorama/gelsenkirchen-tumulte-nach-tresoreinbruch-in-sparkasse-in-buer-a-3fa1f113-cf41-49c8-a5d7-d732e37ad3b5#ref=rss)
-### sparkasse
-
-* [https://www.spiegel.de/panorama/gelsenkirchen-tumulte-nach-tresoreinbruch-in-sparkasse-in-buer](https://www.spiegel.de/panorama/gelsenkirchen-tumulte-nach-tresoreinbruch-in-sparkasse-in-buer-a-3fa1f113-cf41-49c8-a5d7-d732e37ad3b5#ref=rss)
-### beschäftigt
-
-* [https://www.spiegel.de/panorama/gelsenkirchen-tumulte-nach-tresoreinbruch-in-sparkasse-in-buer](https://www.spiegel.de/panorama/gelsenkirchen-tumulte-nach-tresoreinbruch-in-sparkasse-in-buer-a-3fa1f113-cf41-49c8-a5d7-d732e37ad3b5#ref=rss)
-* [https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden](https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden-a-956fe4ff-faf6-4606-a1da-3ce2913b6dd3#ref=rss)
-### lkwfahrer
-
-* [https://www.spiegel.de/wirtschaft/logistikbranche-in-deutschland-fehlen-120-000-lkw-fahrer](https://www.spiegel.de/wirtschaft/logistikbranche-in-deutschland-fehlen-120-000-lkw-fahrer-a-8b0b7e14-aaa4-4891-9168-f3db78ae0f3b#ref=rss)
-### brigitte
-
-* [https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden](https://www.spiegel.de/kultur/brigitte-bardot-filmstar-soll-auf-friedhof-am-meer-beigesetzt-werden-a-956fe4ff-faf6-4606-a1da-3ce2913b6dd3#ref=rss)
-### anthony
-
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben](https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben-a-87290aa3-949b-4eeb-b4d7-12f311d76d1f#ref=rss)
-### joshua
-
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben](https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben-a-87290aa3-949b-4eeb-b4d7-12f311d76d1f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bissendorf-landkreis-osnabrueck-spinne-loest-naechtlichen-polizeieinsatz-aus](https://www.spiegel.de/panorama/justiz/bissendorf-landkreis-osnabrueck-spinne-loest-naechtlichen-polizeieinsatz-aus-a-3de78c8d-c0dd-434d-9441-4c20d4e27148#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft-a-f45d46de-10ba-4bff-9726-cc2e9c346488#ref=rss)
+* [https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten](https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten-a-1119c22a-860b-4174-9d07-cd7408b942c2#ref=rss)
 ### unfall
 
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben](https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben-a-87290aa3-949b-4eeb-b4d7-12f311d76d1f#ref=rss)
-### nigeria
+* [https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft-a-f45d46de-10ba-4bff-9726-cc2e9c346488#ref=rss)
+* [https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten](https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten-a-1119c22a-860b-4174-9d07-cd7408b942c2#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben](https://www.spiegel.de/sport/boxen/anthony-joshua-box-star-bei-unfall-in-nigeria-verletzt-zwei-menschen-sterben-a-87290aa3-949b-4eeb-b4d7-12f311d76d1f#ref=rss)
-### unterhaching
+* [https://www.spiegel.de/ausland/jemen-praesidentschaftsrat-fordert-abzug-emiratischer-truppen-binnen-24-stunden](https://www.spiegel.de/ausland/jemen-praesidentschaftsrat-fordert-abzug-emiratischer-truppen-binnen-24-stunden-a-d2c151b7-adc4-4a7e-8607-f8914e1c1806#ref=rss)
+* [https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln](https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln-a-ab7bfdcb-deee-49c2-b59a-a197a5dbbcd8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein](https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein-a-2a7d3a8b-3454-4e0f-b32f-231433635517#ref=rss)
+### vier
 
-* [https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei](https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei-a-057f97df-14ad-48e4-bf24-a214a280a6ec#ref=rss)
-### offenbar
+* [https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas](https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas-a-587f1de0-0b65-4180-b081-fc3358f7019d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/iw-studie-ein-job-im-haushalt-ist-in-der-regel-schwarzarbeit](https://www.spiegel.de/wirtschaft/iw-studie-ein-job-im-haushalt-ist-in-der-regel-schwarzarbeit-a-800fa72a-6933-4ba4-804b-c80fe64b0237#ref=rss)
+### littler
 
-* [https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei](https://www.spiegel.de/panorama/justiz/unterhaching-mann-randaliert-tagelang-in-wohnung-wirft-wurfsterne-auf-polizei-a-057f97df-14ad-48e4-bf24-a214a280a6ec#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr](https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr-a-542e7622-8087-4aad-8c71-cf5461e3540e#ref=rss)
-### galeria
+* [https://www.spiegel.de/sport/darts-wm-luke-littler-reagiert-auf-piffe-der-fans](https://www.spiegel.de/sport/darts-wm-luke-littler-reagiert-auf-piffe-der-fans-a-0fcb2e56-173c-4818-bd46-b3997fcd0dac#ref=rss)
+### mehrheit
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr](https://www.spiegel.de/wirtschaft/unternehmen/galeria-kaufhauskonzern-taumelt-geschwaecht-ins-neue-jahr-a-542e7622-8087-4aad-8c71-cf5461e3540e#ref=rss)
-### forscher
+* [https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln](https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln-a-ab7bfdcb-deee-49c2-b59a-a197a5dbbcd8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch](https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch-a-224b7448-43fe-45c8-a32b-8b13f4f98ac9#ref=rss)
+### pkw
 
-* [https://www.spiegel.de/netzwelt/gadgets/smartphones-und-kinder-forscher-warnen-vor-unsicherer-kinder-smartwatch](https://www.spiegel.de/netzwelt/gadgets/smartphones-und-kinder-forscher-warnen-vor-unsicherer-kinder-smartwatch-a-17e8d6ca-c69c-4c16-90e8-7ef15d00fdbb#ref=rss)
-### ahmed
+* [https://www.spiegel.de/panorama/justiz/kleve-unbekannte-fahren-mit-pkw-in-schaufensterscheibe-von-juwelier](https://www.spiegel.de/panorama/justiz/kleve-unbekannte-fahren-mit-pkw-in-schaufensterscheibe-von-juwelier-a-235af7c0-4e4c-45c4-87a6-8d35729b16c1#ref=rss)
+* [https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten](https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten-a-1119c22a-860b-4174-9d07-cd7408b942c2#ref=rss)
+### laut
 
-* [https://www.spiegel.de/ausland/ahmed-al-ahmed-held-vom-bondi-beach-spricht-erstmals-ueber-entwaffnung-des-attentaeters](https://www.spiegel.de/ausland/ahmed-al-ahmed-held-vom-bondi-beach-spricht-erstmals-ueber-entwaffnung-des-attentaeters-a-9acfae22-850f-48c6-8c0a-6b8e4672bd0e#ref=rss)
-### alahmed
+* [https://www.spiegel.de/panorama/justiz/kleve-unbekannte-fahren-mit-pkw-in-schaufensterscheibe-von-juwelier](https://www.spiegel.de/panorama/justiz/kleve-unbekannte-fahren-mit-pkw-in-schaufensterscheibe-von-juwelier-a-235af7c0-4e4c-45c4-87a6-8d35729b16c1#ref=rss)
+* [https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln](https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln-a-ab7bfdcb-deee-49c2-b59a-a197a5dbbcd8#ref=rss)
+### erst
 
-* [https://www.spiegel.de/ausland/ahmed-al-ahmed-held-vom-bondi-beach-spricht-erstmals-ueber-entwaffnung-des-attentaeters](https://www.spiegel.de/ausland/ahmed-al-ahmed-held-vom-bondi-beach-spricht-erstmals-ueber-entwaffnung-des-attentaeters-a-9acfae22-850f-48c6-8c0a-6b8e4672bd0e#ref=rss)
-### england
+* [https://www.spiegel.de/panorama/justiz/kleve-unbekannte-fahren-mit-pkw-in-schaufensterscheibe-von-juwelier](https://www.spiegel.de/panorama/justiz/kleve-unbekannte-fahren-mit-pkw-in-schaufensterscheibe-von-juwelier-a-235af7c0-4e4c-45c4-87a6-8d35729b16c1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sanktionen-gegen-hate-aid-weitere-us-massnahmen-gegen-deutsche-befuerchtet](https://www.spiegel.de/politik/deutschland/sanktionen-gegen-hate-aid-weitere-us-massnahmen-gegen-deutsche-befuerchtet-a-e0c8b6d9-95e2-4e76-8360-4ea9e3e1dc3d#ref=rss)
+### jim
 
-* [https://www.spiegel.de/wissenschaft/natur/tierschutz-england-will-kochen-lebender-hummer-verbieten](https://www.spiegel.de/wissenschaft/natur/tierschutz-england-will-kochen-lebender-hummer-verbieten-a-c107a245-7a79-468d-a5c7-5365e9ae8731#ref=rss)
-### kochen
+* [https://www.spiegel.de/wirtschaft/unternehmen/warum-amerikanische-whiskey-firmen-auf-ihrem-bourbon-sitzen-bleiben](https://www.spiegel.de/wirtschaft/unternehmen/warum-amerikanische-whiskey-firmen-auf-ihrem-bourbon-sitzen-bleiben-a-91e382a9-e32d-40ab-922c-e50311df1315#ref=rss)
+### beam
 
-* [https://www.spiegel.de/wissenschaft/natur/tierschutz-england-will-kochen-lebender-hummer-verbieten](https://www.spiegel.de/wissenschaft/natur/tierschutz-england-will-kochen-lebender-hummer-verbieten-a-c107a245-7a79-468d-a5c7-5365e9ae8731#ref=rss)
-### hummer
+* [https://www.spiegel.de/wirtschaft/unternehmen/warum-amerikanische-whiskey-firmen-auf-ihrem-bourbon-sitzen-bleiben](https://www.spiegel.de/wirtschaft/unternehmen/warum-amerikanische-whiskey-firmen-auf-ihrem-bourbon-sitzen-bleiben-a-91e382a9-e32d-40ab-922c-e50311df1315#ref=rss)
+### türkei
 
-* [https://www.spiegel.de/wissenschaft/natur/tierschutz-england-will-kochen-lebender-hummer-verbieten](https://www.spiegel.de/wissenschaft/natur/tierschutz-england-will-kochen-lebender-hummer-verbieten-a-c107a245-7a79-468d-a5c7-5365e9ae8731#ref=rss)
-### circus
+* [https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest](https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest-a-3793ae3d-569c-4133-a7f4-319289c3e29b#ref=rss)
+### polizeieinsatz
 
-* [https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen](https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen-a-8c411945-6c17-4eb5-bdae-6b0991726713#ref=rss)
-### krone
+* [https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest](https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest-a-3793ae3d-569c-4133-a7f4-319289c3e29b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bissendorf-landkreis-osnabrueck-spinne-loest-naechtlichen-polizeieinsatz-aus](https://www.spiegel.de/panorama/justiz/bissendorf-landkreis-osnabrueck-spinne-loest-naechtlichen-polizeieinsatz-aus-a-3de78c8d-c0dd-434d-9441-4c20d4e27148#ref=rss)
+### toten
 
-* [https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen](https://www.spiegel.de/panorama/justiz/circus-krone-mutmassliche-brandstiftung-in-muenchen-a-8c411945-6c17-4eb5-bdae-6b0991726713#ref=rss)
-### leftovers
+* [https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest](https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest-a-3793ae3d-569c-4133-a7f4-319289c3e29b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft-a-f45d46de-10ba-4bff-9726-cc2e9c346488#ref=rss)
+### behörden
 
-* [https://www.spiegel.de/kultur/podcast-leftovers-wann-darf-man-schon-einem-so-intimen-moment-zwischen-zwei-menschen-beiwohnen](https://www.spiegel.de/kultur/podcast-leftovers-wann-darf-man-schon-einem-so-intimen-moment-zwischen-zwei-menschen-beiwohnen-a-be832c9c-6bf9-416b-8cbb-2a8f39e3d586#ref=rss)
-### fragen
+* [https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest](https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest-a-3793ae3d-569c-4133-a7f4-319289c3e29b#ref=rss)
+### eskaliert
 
-* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest](https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest-a-3793ae3d-569c-4133-a7f4-319289c3e29b#ref=rss)
+* [https://www.spiegel.de/ausland/jemen-praesidentschaftsrat-fordert-abzug-emiratischer-truppen-binnen-24-stunden](https://www.spiegel.de/ausland/jemen-praesidentschaftsrat-fordert-abzug-emiratischer-truppen-binnen-24-stunden-a-d2c151b7-adc4-4a7e-8607-f8914e1c1806#ref=rss)
+### alischer
+
+* [https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt](https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt-a-e0839759-3010-4d59-ae81-5089d0b8c6b5#ref=rss)
+### usmanow
+
+* [https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt](https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt-a-e0839759-3010-4d59-ae81-5089d0b8c6b5#ref=rss)
+### ermittlungen
+
+* [https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt](https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt-a-e0839759-3010-4d59-ae81-5089d0b8c6b5#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt](https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt-a-e0839759-3010-4d59-ae81-5089d0b8c6b5#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten](https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten-a-456e4e4f-9dc5-4e22-ad75-a82d8e4b1934#ref=rss)
+### geldauflage
+
+* [https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt](https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt-a-e0839759-3010-4d59-ae81-5089d0b8c6b5#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt](https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt-a-e0839759-3010-4d59-ae81-5089d0b8c6b5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch](https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch-a-224b7448-43fe-45c8-a32b-8b13f4f98ac9#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt](https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt-a-e0839759-3010-4d59-ae81-5089d0b8c6b5#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-sophia-und-noah-fuehren-die-liste-der-beliebtesten-namen-2025-an](https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-sophia-und-noah-fuehren-die-liste-der-beliebtesten-namen-2025-an-a-3eca2494-713d-4a7d-b9c9-020bde673500#ref=rss)
+### marcandré
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech-a-7e5c52c0-f4b6-428e-8b93-4e49febecddc#ref=rss)
+### ter
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech-a-7e5c52c0-f4b6-428e-8b93-4e49febecddc#ref=rss)
+### stegen
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech-a-7e5c52c0-f4b6-428e-8b93-4e49febecddc#ref=rss)
+### barça
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech-a-7e5c52c0-f4b6-428e-8b93-4e49febecddc#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech-a-7e5c52c0-f4b6-428e-8b93-4e49febecddc#ref=rss)
+### girona
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech-a-7e5c52c0-f4b6-428e-8b93-4e49febecddc#ref=rss)
+### wäre
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech-a-7e5c52c0-f4b6-428e-8b93-4e49febecddc#ref=rss)
+* [https://www.spiegel.de/psychologie/gewinnen-was-waere-die-welt-ohne-siege](https://www.spiegel.de/psychologie/gewinnen-was-waere-die-welt-ohne-siege-a-1a5d6f3c-2c7e-452c-9cd0-21fa6c46f7f5#ref=rss)
+### hubble
+
+* [https://www.spiegel.de/wissenschaft/weltall/weltraumteleskop-hubble-registriert-verblueffende-kollisionen-in-jungem-planetensystem](https://www.spiegel.de/wissenschaft/weltall/weltraumteleskop-hubble-registriert-verblueffende-kollisionen-in-jungem-planetensystem-a-64b77981-0208-4dc0-a581-4ca43cbb46d3#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wissenschaft/weltall/weltraumteleskop-hubble-registriert-verblueffende-kollisionen-in-jungem-planetensystem](https://www.spiegel.de/wissenschaft/weltall/weltraumteleskop-hubble-registriert-verblueffende-kollisionen-in-jungem-planetensystem-a-64b77981-0208-4dc0-a581-4ca43cbb46d3#ref=rss)
+* [https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot](https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot-a-15a2ada3-f2d9-4eb6-9ce3-7865bc0c5ece#ref=rss)
+### orion
+
+* [https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar](https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar-a-7346a62a-f72b-49dc-a8df-8bd11feab688#ref=rss)
+### landkreis
+
+* [https://www.spiegel.de/panorama/justiz/bissendorf-landkreis-osnabrueck-spinne-loest-naechtlichen-polizeieinsatz-aus](https://www.spiegel.de/panorama/justiz/bissendorf-landkreis-osnabrueck-spinne-loest-naechtlichen-polizeieinsatz-aus-a-3de78c8d-c0dd-434d-9441-4c20d4e27148#ref=rss)
+### osnabrück
+
+* [https://www.spiegel.de/panorama/justiz/bissendorf-landkreis-osnabrueck-spinne-loest-naechtlichen-polizeieinsatz-aus](https://www.spiegel.de/panorama/justiz/bissendorf-landkreis-osnabrueck-spinne-loest-naechtlichen-polizeieinsatz-aus-a-3de78c8d-c0dd-434d-9441-4c20d4e27148#ref=rss)
+### untersuchungshaft
+
+* [https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft-a-f45d46de-10ba-4bff-9726-cc2e9c346488#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft-a-f45d46de-10ba-4bff-9726-cc2e9c346488#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-das-waren-die-groessten-preisspruenge-bei-lebensmitteln-2025](https://www.spiegel.de/wirtschaft/inflation-das-waren-die-groessten-preisspruenge-bei-lebensmitteln-2025-a-b0257ccb-6bfb-4313-ba4b-f0ec69e73cda#ref=rss)
+### jemen
+
+* [https://www.spiegel.de/ausland/jemen-praesidentschaftsrat-fordert-abzug-emiratischer-truppen-binnen-24-stunden](https://www.spiegel.de/ausland/jemen-praesidentschaftsrat-fordert-abzug-emiratischer-truppen-binnen-24-stunden-a-d2c151b7-adc4-4a7e-8607-f8914e1c1806#ref=rss)
+### truppen
+
+* [https://www.spiegel.de/ausland/jemen-praesidentschaftsrat-fordert-abzug-emiratischer-truppen-binnen-24-stunden](https://www.spiegel.de/ausland/jemen-praesidentschaftsrat-fordert-abzug-emiratischer-truppen-binnen-24-stunden-a-d2c151b7-adc4-4a7e-8607-f8914e1c1806#ref=rss)
+### idris
+
+* [https://www.spiegel.de/panorama/leute/idris-elba-wird-zum-ritter-geschlagen](https://www.spiegel.de/panorama/leute/idris-elba-wird-zum-ritter-geschlagen-a-c9459a11-669a-4dfd-85c8-ec50f0418fc0#ref=rss)
+### elba
+
+* [https://www.spiegel.de/panorama/leute/idris-elba-wird-zum-ritter-geschlagen](https://www.spiegel.de/panorama/leute/idris-elba-wird-zum-ritter-geschlagen-a-c9459a11-669a-4dfd-85c8-ec50f0418fc0#ref=rss)
+### liste
+
+* [https://www.spiegel.de/panorama/leute/idris-elba-wird-zum-ritter-geschlagen](https://www.spiegel.de/panorama/leute/idris-elba-wird-zum-ritter-geschlagen-a-c9459a11-669a-4dfd-85c8-ec50f0418fc0#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-sophia-und-noah-fuehren-die-liste-der-beliebtesten-namen-2025-an](https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-sophia-und-noah-fuehren-die-liste-der-beliebtesten-namen-2025-an-a-3eca2494-713d-4a7d-b9c9-020bde673500#ref=rss)
+### highlights
+
+* [https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas](https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas-a-587f1de0-0b65-4180-b081-fc3358f7019d#ref=rss)
+### unser
+
+* [https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas](https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas-a-587f1de0-0b65-4180-b081-fc3358f7019d#ref=rss)
+* [https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes](https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes-a-b2dfe2c5-aa00-4f91-91f2-ef053c6d67cb#ref=rss)
+### autor
+
+* [https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas](https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas-a-587f1de0-0b65-4180-b081-fc3358f7019d#ref=rss)
+* [https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes](https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes-a-b2dfe2c5-aa00-4f91-91f2-ef053c6d67cb#ref=rss)
+### gelsenkirchen
+
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-sparkasse-soll-nach-einbruch-in-tresorraum-wieder-oeffnen](https://www.spiegel.de/panorama/justiz/gelsenkirchen-sparkasse-soll-nach-einbruch-in-tresorraum-wieder-oeffnen-a-3387636d-2b60-4707-a4cb-31689e35cb7f#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten](https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten-a-456e4e4f-9dc5-4e22-ad75-a82d8e4b1934#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten](https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten-a-456e4e4f-9dc5-4e22-ad75-a82d8e4b1934#ref=rss)
+### großen
+
+* [https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten](https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten-a-456e4e4f-9dc5-4e22-ad75-a82d8e4b1934#ref=rss)
+* [https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten](https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten-a-1119c22a-860b-4174-9d07-cd7408b942c2#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten](https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten-a-456e4e4f-9dc5-4e22-ad75-a82d8e4b1934#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-jazz-ensemble-sagt-neujahrskonzert-im-kennedy-center-in-washington-ab](https://www.spiegel.de/ausland/donald-trump-jazz-ensemble-sagt-neujahrskonzert-im-kennedy-center-in-washington-ab-a-3e237a66-10a5-4ee5-bc27-1a40bbf9458b#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-jazz-ensemble-sagt-neujahrskonzert-im-kennedy-center-in-washington-ab](https://www.spiegel.de/ausland/donald-trump-jazz-ensemble-sagt-neujahrskonzert-im-kennedy-center-in-washington-ab-a-3e237a66-10a5-4ee5-bc27-1a40bbf9458b#ref=rss)
+### kennedy
+
+* [https://www.spiegel.de/ausland/donald-trump-jazz-ensemble-sagt-neujahrskonzert-im-kennedy-center-in-washington-ab](https://www.spiegel.de/ausland/donald-trump-jazz-ensemble-sagt-neujahrskonzert-im-kennedy-center-in-washington-ab-a-3e237a66-10a5-4ee5-bc27-1a40bbf9458b#ref=rss)
+### dartswm
+
+* [https://www.spiegel.de/sport/darts-wm-luke-littler-reagiert-auf-piffe-der-fans](https://www.spiegel.de/sport/darts-wm-luke-littler-reagiert-auf-piffe-der-fans-a-0fcb2e56-173c-4818-bd46-b3997fcd0dac#ref=rss)
+### luke
+
+* [https://www.spiegel.de/sport/darts-wm-luke-littler-reagiert-auf-piffe-der-fans](https://www.spiegel.de/sport/darts-wm-luke-littler-reagiert-auf-piffe-der-fans-a-0fcb2e56-173c-4818-bd46-b3997fcd0dac#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/sport/darts-wm-luke-littler-reagiert-auf-piffe-der-fans](https://www.spiegel.de/sport/darts-wm-luke-littler-reagiert-auf-piffe-der-fans-a-0fcb2e56-173c-4818-bd46-b3997fcd0dac#ref=rss)
+* [https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten](https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten-a-1119c22a-860b-4174-9d07-cd7408b942c2#ref=rss)
+### markus
+
+* [https://www.spiegel.de/panorama/leute/markus-soeder-hat-sich-hueft-op-unterzogen](https://www.spiegel.de/panorama/leute/markus-soeder-hat-sich-hueft-op-unterzogen-a-c4efeee5-9888-458e-939c-98485144396e#ref=rss)
+### söder
+
+* [https://www.spiegel.de/panorama/leute/markus-soeder-hat-sich-hueft-op-unterzogen](https://www.spiegel.de/panorama/leute/markus-soeder-hat-sich-hueft-op-unterzogen-a-c4efeee5-9888-458e-939c-98485144396e#ref=rss)
+### unterwegs
+
+* [https://www.spiegel.de/panorama/leute/markus-soeder-hat-sich-hueft-op-unterzogen](https://www.spiegel.de/panorama/leute/markus-soeder-hat-sich-hueft-op-unterzogen-a-c4efeee5-9888-458e-939c-98485144396e#ref=rss)
+* [https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten](https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten-a-1119c22a-860b-4174-9d07-cd7408b942c2#ref=rss)
+### bhz
+
+* [https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes](https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes-a-b2dfe2c5-aa00-4f91-91f2-ef053c6d67cb#ref=rss)
+### tod
+
+* [https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes](https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes-a-b2dfe2c5-aa00-4f91-91f2-ef053c6d67cb#ref=rss)
+### stirbt
+
+* [https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes](https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes-a-b2dfe2c5-aa00-4f91-91f2-ef053c6d67cb#ref=rss)
+* [https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot](https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot-a-15a2ada3-f2d9-4eb6-9ce3-7865bc0c5ece#ref=rss)
+### wo
+
+* [https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln](https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln-a-ab7bfdcb-deee-49c2-b59a-a197a5dbbcd8#ref=rss)
+### bankenpräsident
+
+* [https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein](https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein-a-2a7d3a8b-3454-4e0f-b32f-231433635517#ref=rss)
+### sewing
+
+* [https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein](https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein-a-2a7d3a8b-3454-4e0f-b32f-231433635517#ref=rss)
+### deshalb
+
+* [https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein](https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein-a-2a7d3a8b-3454-4e0f-b32f-231433635517#ref=rss)
+* [https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten](https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten-a-1119c22a-860b-4174-9d07-cd7408b942c2#ref=rss)
+### schwarzarbeit
+
+* [https://www.spiegel.de/wirtschaft/iw-studie-ein-job-im-haushalt-ist-in-der-regel-schwarzarbeit](https://www.spiegel.de/wirtschaft/iw-studie-ein-job-im-haushalt-ist-in-der-regel-schwarzarbeit-a-800fa72a-6933-4ba4-804b-c80fe64b0237#ref=rss)
+### große
+
+* [https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch](https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch-a-224b7448-43fe-45c8-a32b-8b13f4f98ac9#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch](https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch-a-224b7448-43fe-45c8-a32b-8b13f4f98ac9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung](https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung-a-d28ff7c1-ef67-4822-a85b-3a2c928e991a#ref=rss)
+### größten
+
+* [https://www.spiegel.de/wirtschaft/inflation-das-waren-die-groessten-preisspruenge-bei-lebensmitteln-2025](https://www.spiegel.de/wirtschaft/inflation-das-waren-die-groessten-preisspruenge-bei-lebensmitteln-2025-a-b0257ccb-6bfb-4313-ba4b-f0ec69e73cda#ref=rss)
+### bangladesch
+
+* [https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot](https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot-a-15a2ada3-f2d9-4eb6-9ce3-7865bc0c5ece#ref=rss)
+### khaleda
+
+* [https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot](https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot-a-15a2ada3-f2d9-4eb6-9ce3-7865bc0c5ece#ref=rss)
+### zia
+
+* [https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot](https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot-a-15a2ada3-f2d9-4eb6-9ce3-7865bc0c5ece#ref=rss)
+### sanktionen
+
+* [https://www.spiegel.de/politik/deutschland/sanktionen-gegen-hate-aid-weitere-us-massnahmen-gegen-deutsche-befuerchtet](https://www.spiegel.de/politik/deutschland/sanktionen-gegen-hate-aid-weitere-us-massnahmen-gegen-deutsche-befuerchtet-a-e0c8b6d9-95e2-4e76-8360-4ea9e3e1dc3d#ref=rss)
+### gewinnen
+
+* [https://www.spiegel.de/psychologie/gewinnen-was-waere-die-welt-ohne-siege](https://www.spiegel.de/psychologie/gewinnen-was-waere-die-welt-ohne-siege-a-1a5d6f3c-2c7e-452c-9cd0-21fa6c46f7f5#ref=rss)
+### welt
+
+* [https://www.spiegel.de/psychologie/gewinnen-was-waere-die-welt-ohne-siege](https://www.spiegel.de/psychologie/gewinnen-was-waere-die-welt-ohne-siege-a-1a5d6f3c-2c7e-452c-9cd0-21fa6c46f7f5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung](https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung-a-d28ff7c1-ef67-4822-a85b-3a2c928e991a#ref=rss)
+### realität
+
+* [https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten](https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten-a-1119c22a-860b-4174-9d07-cd7408b942c2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung](https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung-a-d28ff7c1-ef67-4822-a85b-3a2c928e991a#ref=rss)
+### extremwetter
+
+* [https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung](https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung-a-d28ff7c1-ef67-4822-a85b-3a2c928e991a#ref=rss)
+### klimawandel
+
+* [https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung](https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung-a-d28ff7c1-ef67-4822-a85b-3a2c928e991a#ref=rss)
 
