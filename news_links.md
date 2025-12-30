@@ -4,314 +4,333 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warum-amerikanische-whiskey-firmen-auf-ihrem-bourbon-sitzen-bleiben](https://www.spiegel.de/wirtschaft/unternehmen/warum-amerikanische-whiskey-firmen-auf-ihrem-bourbon-sitzen-bleiben-a-91e382a9-e32d-40ab-922c-e50311df1315#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar](https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar-a-7346a62a-f72b-49dc-a8df-8bd11feab688#ref=rss)
-* [https://www.spiegel.de/sport/sport-quiz-wie-gut-kennen-sie-das-jahr-2025](https://www.spiegel.de/sport/sport-quiz-wie-gut-kennen-sie-das-jahr-2025-a-c9415697-21b1-427a-b912-4246d525723d#ref=rss)
-* [https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes](https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes-a-b2dfe2c5-aa00-4f91-91f2-ef053c6d67cb#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln](https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln-a-ab7bfdcb-deee-49c2-b59a-a197a5dbbcd8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung](https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung-a-d28ff7c1-ef67-4822-a85b-3a2c928e991a#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt](https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt-a-e0839759-3010-4d59-ae81-5089d0b8c6b5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar](https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar-a-7346a62a-f72b-49dc-a8df-8bd11feab688#ref=rss)
-* [https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas](https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas-a-587f1de0-0b65-4180-b081-fc3358f7019d#ref=rss)
-* [https://www.spiegel.de/psychologie/gewinnen-was-waere-die-welt-ohne-siege](https://www.spiegel.de/psychologie/gewinnen-was-waere-die-welt-ohne-siege-a-1a5d6f3c-2c7e-452c-9cd0-21fa6c46f7f5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung](https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung-a-d28ff7c1-ef67-4822-a85b-3a2c928e991a#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest](https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest-a-3793ae3d-569c-4133-a7f4-319289c3e29b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft-a-f45d46de-10ba-4bff-9726-cc2e9c346488#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten](https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten-a-456e4e4f-9dc5-4e22-ad75-a82d8e4b1934#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch](https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch-a-224b7448-43fe-45c8-a32b-8b13f4f98ac9#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/sport/sport-quiz-wie-gut-kennen-sie-das-jahr-2025](https://www.spiegel.de/sport/sport-quiz-wie-gut-kennen-sie-das-jahr-2025-a-c9415697-21b1-427a-b912-4246d525723d#ref=rss)
-* [https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas](https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas-a-587f1de0-0b65-4180-b081-fc3358f7019d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/inflation-das-waren-die-groessten-preisspruenge-bei-lebensmitteln-2025](https://www.spiegel.de/wirtschaft/inflation-das-waren-die-groessten-preisspruenge-bei-lebensmitteln-2025-a-b0257ccb-6bfb-4313-ba4b-f0ec69e73cda#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-sophia-und-noah-fuehren-die-liste-der-beliebtesten-namen-2025-an](https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-sophia-und-noah-fuehren-die-liste-der-beliebtesten-namen-2025-an-a-3eca2494-713d-4a7d-b9c9-020bde673500#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung](https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung-a-d28ff7c1-ef67-4822-a85b-3a2c928e991a#ref=rss)
-### silvester
-
-* [https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar](https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar-a-7346a62a-f72b-49dc-a8df-8bd11feab688#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-jazz-ensemble-sagt-neujahrskonzert-im-kennedy-center-in-washington-ab](https://www.spiegel.de/ausland/donald-trump-jazz-ensemble-sagt-neujahrskonzert-im-kennedy-center-in-washington-ab-a-3e237a66-10a5-4ee5-bc27-1a40bbf9458b#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln](https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln-a-ab7bfdcb-deee-49c2-b59a-a197a5dbbcd8#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein](https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein-a-2a7d3a8b-3454-4e0f-b32f-231433635517#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sanktionen-gegen-hate-aid-weitere-us-massnahmen-gegen-deutsche-befuerchtet](https://www.spiegel.de/politik/deutschland/sanktionen-gegen-hate-aid-weitere-us-massnahmen-gegen-deutsche-befuerchtet-a-e0c8b6d9-95e2-4e76-8360-4ea9e3e1dc3d#ref=rss)
-### wechsel
-
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech-a-7e5c52c0-f4b6-428e-8b93-4e49febecddc#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-sophia-und-noah-fuehren-die-liste-der-beliebtesten-namen-2025-an](https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-sophia-und-noah-fuehren-die-liste-der-beliebtesten-namen-2025-an-a-3eca2494-713d-4a7d-b9c9-020bde673500#ref=rss)
-### feuerwerk
-
-* [https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar](https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar-a-7346a62a-f72b-49dc-a8df-8bd11feab688#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln](https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln-a-ab7bfdcb-deee-49c2-b59a-a197a5dbbcd8#ref=rss)
-### schnell
-
-* [https://www.spiegel.de/panorama/justiz/bissendorf-landkreis-osnabrueck-spinne-loest-naechtlichen-polizeieinsatz-aus](https://www.spiegel.de/panorama/justiz/bissendorf-landkreis-osnabrueck-spinne-loest-naechtlichen-polizeieinsatz-aus-a-3de78c8d-c0dd-434d-9441-4c20d4e27148#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft-a-f45d46de-10ba-4bff-9726-cc2e9c346488#ref=rss)
-* [https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten](https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten-a-1119c22a-860b-4174-9d07-cd7408b942c2#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft-a-f45d46de-10ba-4bff-9726-cc2e9c346488#ref=rss)
-* [https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten](https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten-a-1119c22a-860b-4174-9d07-cd7408b942c2#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/ausland/jemen-praesidentschaftsrat-fordert-abzug-emiratischer-truppen-binnen-24-stunden](https://www.spiegel.de/ausland/jemen-praesidentschaftsrat-fordert-abzug-emiratischer-truppen-binnen-24-stunden-a-d2c151b7-adc4-4a7e-8607-f8914e1c1806#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln](https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln-a-ab7bfdcb-deee-49c2-b59a-a197a5dbbcd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein](https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein-a-2a7d3a8b-3454-4e0f-b32f-231433635517#ref=rss)
-### vier
-
-* [https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas](https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas-a-587f1de0-0b65-4180-b081-fc3358f7019d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/iw-studie-ein-job-im-haushalt-ist-in-der-regel-schwarzarbeit](https://www.spiegel.de/wirtschaft/iw-studie-ein-job-im-haushalt-ist-in-der-regel-schwarzarbeit-a-800fa72a-6933-4ba4-804b-c80fe64b0237#ref=rss)
-### littler
-
-* [https://www.spiegel.de/sport/darts-wm-luke-littler-reagiert-auf-piffe-der-fans](https://www.spiegel.de/sport/darts-wm-luke-littler-reagiert-auf-piffe-der-fans-a-0fcb2e56-173c-4818-bd46-b3997fcd0dac#ref=rss)
-### mehrheit
-
-* [https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln](https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln-a-ab7bfdcb-deee-49c2-b59a-a197a5dbbcd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch](https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch-a-224b7448-43fe-45c8-a32b-8b13f4f98ac9#ref=rss)
-### pkw
-
-* [https://www.spiegel.de/panorama/justiz/kleve-unbekannte-fahren-mit-pkw-in-schaufensterscheibe-von-juwelier](https://www.spiegel.de/panorama/justiz/kleve-unbekannte-fahren-mit-pkw-in-schaufensterscheibe-von-juwelier-a-235af7c0-4e4c-45c4-87a6-8d35729b16c1#ref=rss)
-* [https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten](https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten-a-1119c22a-860b-4174-9d07-cd7408b942c2#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/justiz/kleve-unbekannte-fahren-mit-pkw-in-schaufensterscheibe-von-juwelier](https://www.spiegel.de/panorama/justiz/kleve-unbekannte-fahren-mit-pkw-in-schaufensterscheibe-von-juwelier-a-235af7c0-4e4c-45c4-87a6-8d35729b16c1#ref=rss)
-* [https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln](https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln-a-ab7bfdcb-deee-49c2-b59a-a197a5dbbcd8#ref=rss)
-### erst
-
-* [https://www.spiegel.de/panorama/justiz/kleve-unbekannte-fahren-mit-pkw-in-schaufensterscheibe-von-juwelier](https://www.spiegel.de/panorama/justiz/kleve-unbekannte-fahren-mit-pkw-in-schaufensterscheibe-von-juwelier-a-235af7c0-4e4c-45c4-87a6-8d35729b16c1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sanktionen-gegen-hate-aid-weitere-us-massnahmen-gegen-deutsche-befuerchtet](https://www.spiegel.de/politik/deutschland/sanktionen-gegen-hate-aid-weitere-us-massnahmen-gegen-deutsche-befuerchtet-a-e0c8b6d9-95e2-4e76-8360-4ea9e3e1dc3d#ref=rss)
-### jim
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warum-amerikanische-whiskey-firmen-auf-ihrem-bourbon-sitzen-bleiben](https://www.spiegel.de/wirtschaft/unternehmen/warum-amerikanische-whiskey-firmen-auf-ihrem-bourbon-sitzen-bleiben-a-91e382a9-e32d-40ab-922c-e50311df1315#ref=rss)
-### beam
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warum-amerikanische-whiskey-firmen-auf-ihrem-bourbon-sitzen-bleiben](https://www.spiegel.de/wirtschaft/unternehmen/warum-amerikanische-whiskey-firmen-auf-ihrem-bourbon-sitzen-bleiben-a-91e382a9-e32d-40ab-922c-e50311df1315#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest](https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest-a-3793ae3d-569c-4133-a7f4-319289c3e29b#ref=rss)
-### polizeieinsatz
-
-* [https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest](https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest-a-3793ae3d-569c-4133-a7f4-319289c3e29b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bissendorf-landkreis-osnabrueck-spinne-loest-naechtlichen-polizeieinsatz-aus](https://www.spiegel.de/panorama/justiz/bissendorf-landkreis-osnabrueck-spinne-loest-naechtlichen-polizeieinsatz-aus-a-3de78c8d-c0dd-434d-9441-4c20d4e27148#ref=rss)
-### toten
-
-* [https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest](https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest-a-3793ae3d-569c-4133-a7f4-319289c3e29b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft-a-f45d46de-10ba-4bff-9726-cc2e9c346488#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest](https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest-a-3793ae3d-569c-4133-a7f4-319289c3e29b#ref=rss)
-### eskaliert
-
-* [https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest](https://www.spiegel.de/ausland/tuerkei-polizeieinsatz-mit-neun-toten-behoerden-nehmen-hunderte-is-verdaechtige-fest-a-3793ae3d-569c-4133-a7f4-319289c3e29b#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-praesidentschaftsrat-fordert-abzug-emiratischer-truppen-binnen-24-stunden](https://www.spiegel.de/ausland/jemen-praesidentschaftsrat-fordert-abzug-emiratischer-truppen-binnen-24-stunden-a-d2c151b7-adc4-4a7e-8607-f8914e1c1806#ref=rss)
-### alischer
-
-* [https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt](https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt-a-e0839759-3010-4d59-ae81-5089d0b8c6b5#ref=rss)
-### usmanow
-
-* [https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt](https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt-a-e0839759-3010-4d59-ae81-5089d0b8c6b5#ref=rss)
-### ermittlungen
-
-* [https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt](https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt-a-e0839759-3010-4d59-ae81-5089d0b8c6b5#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt](https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt-a-e0839759-3010-4d59-ae81-5089d0b8c6b5#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten](https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten-a-456e4e4f-9dc5-4e22-ad75-a82d8e4b1934#ref=rss)
-### geldauflage
-
-* [https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt](https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt-a-e0839759-3010-4d59-ae81-5089d0b8c6b5#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt](https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt-a-e0839759-3010-4d59-ae81-5089d0b8c6b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch](https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch-a-224b7448-43fe-45c8-a32b-8b13f4f98ac9#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt](https://www.spiegel.de/politik/deutschland/alischer-usmanow-ermittlungen-gegen-russischen-oligarchen-gegen-geldauflage-eingestellt-a-e0839759-3010-4d59-ae81-5089d0b8c6b5#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-sophia-und-noah-fuehren-die-liste-der-beliebtesten-namen-2025-an](https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-sophia-und-noah-fuehren-die-liste-der-beliebtesten-namen-2025-an-a-3eca2494-713d-4a7d-b9c9-020bde673500#ref=rss)
-### marcandré
-
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech-a-7e5c52c0-f4b6-428e-8b93-4e49febecddc#ref=rss)
-### ter
-
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech-a-7e5c52c0-f4b6-428e-8b93-4e49febecddc#ref=rss)
-### stegen
-
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech-a-7e5c52c0-f4b6-428e-8b93-4e49febecddc#ref=rss)
-### barça
-
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech-a-7e5c52c0-f4b6-428e-8b93-4e49febecddc#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech-a-7e5c52c0-f4b6-428e-8b93-4e49febecddc#ref=rss)
-### girona
-
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech-a-7e5c52c0-f4b6-428e-8b93-4e49febecddc#ref=rss)
-### wäre
-
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-ersatzrolle-bei-barca-wechsel-zum-fc-girona-im-gespraech-a-7e5c52c0-f4b6-428e-8b93-4e49febecddc#ref=rss)
-* [https://www.spiegel.de/psychologie/gewinnen-was-waere-die-welt-ohne-siege](https://www.spiegel.de/psychologie/gewinnen-was-waere-die-welt-ohne-siege-a-1a5d6f3c-2c7e-452c-9cd0-21fa6c46f7f5#ref=rss)
-### hubble
-
-* [https://www.spiegel.de/wissenschaft/weltall/weltraumteleskop-hubble-registriert-verblueffende-kollisionen-in-jungem-planetensystem](https://www.spiegel.de/wissenschaft/weltall/weltraumteleskop-hubble-registriert-verblueffende-kollisionen-in-jungem-planetensystem-a-64b77981-0208-4dc0-a581-4ca43cbb46d3#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wissenschaft/weltall/weltraumteleskop-hubble-registriert-verblueffende-kollisionen-in-jungem-planetensystem](https://www.spiegel.de/wissenschaft/weltall/weltraumteleskop-hubble-registriert-verblueffende-kollisionen-in-jungem-planetensystem-a-64b77981-0208-4dc0-a581-4ca43cbb46d3#ref=rss)
-* [https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot](https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot-a-15a2ada3-f2d9-4eb6-9ce3-7865bc0c5ece#ref=rss)
-### orion
-
-* [https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar](https://www.spiegel.de/wissenschaft/weltall/sternenhimmel-wintersechseck-und-orion-an-silvester-sichtbar-a-7346a62a-f72b-49dc-a8df-8bd11feab688#ref=rss)
-### landkreis
-
-* [https://www.spiegel.de/panorama/justiz/bissendorf-landkreis-osnabrueck-spinne-loest-naechtlichen-polizeieinsatz-aus](https://www.spiegel.de/panorama/justiz/bissendorf-landkreis-osnabrueck-spinne-loest-naechtlichen-polizeieinsatz-aus-a-3de78c8d-c0dd-434d-9441-4c20d4e27148#ref=rss)
-### osnabrück
-
-* [https://www.spiegel.de/panorama/justiz/bissendorf-landkreis-osnabrueck-spinne-loest-naechtlichen-polizeieinsatz-aus](https://www.spiegel.de/panorama/justiz/bissendorf-landkreis-osnabrueck-spinne-loest-naechtlichen-polizeieinsatz-aus-a-3de78c8d-c0dd-434d-9441-4c20d4e27148#ref=rss)
-### untersuchungshaft
-
-* [https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft-a-f45d46de-10ba-4bff-9726-cc2e9c346488#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/offenbach-autofahrer-nach-unfall-mit-drei-toten-in-untersuchungshaft-a-f45d46de-10ba-4bff-9726-cc2e9c346488#ref=rss)
-* [https://www.spiegel.de/wirtschaft/inflation-das-waren-die-groessten-preisspruenge-bei-lebensmitteln-2025](https://www.spiegel.de/wirtschaft/inflation-das-waren-die-groessten-preisspruenge-bei-lebensmitteln-2025-a-b0257ccb-6bfb-4313-ba4b-f0ec69e73cda#ref=rss)
-### jemen
-
-* [https://www.spiegel.de/ausland/jemen-praesidentschaftsrat-fordert-abzug-emiratischer-truppen-binnen-24-stunden](https://www.spiegel.de/ausland/jemen-praesidentschaftsrat-fordert-abzug-emiratischer-truppen-binnen-24-stunden-a-d2c151b7-adc4-4a7e-8607-f8914e1c1806#ref=rss)
-### truppen
-
-* [https://www.spiegel.de/ausland/jemen-praesidentschaftsrat-fordert-abzug-emiratischer-truppen-binnen-24-stunden](https://www.spiegel.de/ausland/jemen-praesidentschaftsrat-fordert-abzug-emiratischer-truppen-binnen-24-stunden-a-d2c151b7-adc4-4a7e-8607-f8914e1c1806#ref=rss)
-### idris
-
-* [https://www.spiegel.de/panorama/leute/idris-elba-wird-zum-ritter-geschlagen](https://www.spiegel.de/panorama/leute/idris-elba-wird-zum-ritter-geschlagen-a-c9459a11-669a-4dfd-85c8-ec50f0418fc0#ref=rss)
-### elba
-
-* [https://www.spiegel.de/panorama/leute/idris-elba-wird-zum-ritter-geschlagen](https://www.spiegel.de/panorama/leute/idris-elba-wird-zum-ritter-geschlagen-a-c9459a11-669a-4dfd-85c8-ec50f0418fc0#ref=rss)
-### liste
-
-* [https://www.spiegel.de/panorama/leute/idris-elba-wird-zum-ritter-geschlagen](https://www.spiegel.de/panorama/leute/idris-elba-wird-zum-ritter-geschlagen-a-c9459a11-669a-4dfd-85c8-ec50f0418fc0#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-sophia-und-noah-fuehren-die-liste-der-beliebtesten-namen-2025-an](https://www.spiegel.de/panorama/gesellschaft/vornamen-ranking-sophia-und-noah-fuehren-die-liste-der-beliebtesten-namen-2025-an-a-3eca2494-713d-4a7d-b9c9-020bde673500#ref=rss)
-### highlights
-
-* [https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas](https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas-a-587f1de0-0b65-4180-b081-fc3358f7019d#ref=rss)
-### unser
-
-* [https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas](https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas-a-587f1de0-0b65-4180-b081-fc3358f7019d#ref=rss)
-* [https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes](https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes-a-b2dfe2c5-aa00-4f91-91f2-ef053c6d67cb#ref=rss)
-### autor
-
-* [https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas](https://www.spiegel.de/start/guenstige-rezepte-jahresrueckblick-kochen-ohne-kohle-vier-highlights-und-ein-fauxpas-a-587f1de0-0b65-4180-b081-fc3358f7019d#ref=rss)
-* [https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes](https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes-a-b2dfe2c5-aa00-4f91-91f2-ef053c6d67cb#ref=rss)
 ### gelsenkirchen
 
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-sparkasse-soll-nach-einbruch-in-tresorraum-wieder-oeffnen](https://www.spiegel.de/panorama/justiz/gelsenkirchen-sparkasse-soll-nach-einbruch-in-tresorraum-wieder-oeffnen-a-3387636d-2b60-4707-a4cb-31689e35cb7f#ref=rss)
-### wladimir
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gelsenkirchen-und-die-kammer-des-schreckens-angeblicher-drohnen-angriff-auf-putins-anwesen](https://www.spiegel.de/politik/deutschland/news-des-tages-gelsenkirchen-und-die-kammer-des-schreckens-angeblicher-drohnen-angriff-auf-putins-anwesen-a-bfa9304e-f3b0-4f43-8862-2d0842c98dfc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-sparkasse-ermittler-verfolgen-spur-nach-coup-im-tresorraum](https://www.spiegel.de/panorama/justiz/gelsenkirchen-sparkasse-ermittler-verfolgen-spur-nach-coup-im-tresorraum-a-3d97a0a1-460c-45e2-8af1-b2d0ddc80063#ref=rss)
+* [https://www.spiegel.de/panorama/bankraub-in-gelsenkirchen-sie-erhalten-weitere-informationen-ueber-das-onlineportal-der-sparkasse](https://www.spiegel.de/panorama/bankraub-in-gelsenkirchen-sie-erhalten-weitere-informationen-ueber-das-onlineportal-der-sparkasse-a-417da963-a4fb-4ac4-9aef-e0e80731e48a#ref=rss)
+### wir
 
-* [https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten](https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten-a-456e4e4f-9dc5-4e22-ad75-a82d8e4b1934#ref=rss)
-### putin
+* [https://www.spiegel.de/ausland/drogengewalt-in-den-sozialbauviertel-von-marseille-ich-wurde-noch-nie-geschnappt-wir-sind-jung-schnell-und-taff-spiegel-tv](https://www.spiegel.de/ausland/drogengewalt-in-den-sozialbauviertel-von-marseille-ich-wurde-noch-nie-geschnappt-wir-sind-jung-schnell-und-taff-spiegel-tv-a-97b8bbc6-7b29-4dd6-9d2f-0e9b45fe9db1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-wie-wir-das-gutachten-des-verfassungsschutzes-durchsuchbar-machten](https://www.spiegel.de/politik/deutschland/afd-wie-wir-das-gutachten-des-verfassungsschutzes-durchsuchbar-machten-a-4d872db2-e64e-4f4a-92fc-8548117654d5#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten](https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten-a-456e4e4f-9dc5-4e22-ad75-a82d8e4b1934#ref=rss)
-### großen
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj-a-e39faa1b-04a0-4562-99e7-87bdbda23a7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gelsenkirchen-und-die-kammer-des-schreckens-angeblicher-drohnen-angriff-auf-putins-anwesen](https://www.spiegel.de/politik/deutschland/news-des-tages-gelsenkirchen-und-die-kammer-des-schreckens-angeblicher-drohnen-angriff-auf-putins-anwesen-a-bfa9304e-f3b0-4f43-8862-2d0842c98dfc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frankfurt-am-main-dax-legt-bestes-boersenjahr-seit-2019-hin](https://www.spiegel.de/wirtschaft/frankfurt-am-main-dax-legt-bestes-boersenjahr-seit-2019-hin-a-520ffc8d-2755-49cc-a547-adfa746a4ec1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj](https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj-a-08c9846e-6af5-4c69-b53a-8e802dc7aa77#ref=rss)
+### sparkasse
 
-* [https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten](https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten-a-456e4e4f-9dc5-4e22-ad75-a82d8e4b1934#ref=rss)
-* [https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten](https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten-a-1119c22a-860b-4174-9d07-cd7408b942c2#ref=rss)
-### trump
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gelsenkirchen-und-die-kammer-des-schreckens-angeblicher-drohnen-angriff-auf-putins-anwesen](https://www.spiegel.de/politik/deutschland/news-des-tages-gelsenkirchen-und-die-kammer-des-schreckens-angeblicher-drohnen-angriff-auf-putins-anwesen-a-bfa9304e-f3b0-4f43-8862-2d0842c98dfc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-sparkasse-ermittler-verfolgen-spur-nach-coup-im-tresorraum](https://www.spiegel.de/panorama/justiz/gelsenkirchen-sparkasse-ermittler-verfolgen-spur-nach-coup-im-tresorraum-a-3d97a0a1-460c-45e2-8af1-b2d0ddc80063#ref=rss)
+* [https://www.spiegel.de/panorama/bankraub-in-gelsenkirchen-sie-erhalten-weitere-informationen-ueber-das-onlineportal-der-sparkasse](https://www.spiegel.de/panorama/bankraub-in-gelsenkirchen-sie-erhalten-weitere-informationen-ueber-das-onlineportal-der-sparkasse-a-417da963-a4fb-4ac4-9aef-e0e80731e48a#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten](https://www.spiegel.de/ausland/wladimir-putin-angeblicher-angriff-auf-residenz-zweifel-an-russischen-vorwuerfen-91-angeblich-abgewehrte-drohnen-und-viele-ungereimtheiten-a-456e4e4f-9dc5-4e22-ad75-a82d8e4b1934#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-jazz-ensemble-sagt-neujahrskonzert-im-kennedy-center-in-washington-ab](https://www.spiegel.de/ausland/donald-trump-jazz-ensemble-sagt-neujahrskonzert-im-kennedy-center-in-washington-ab-a-3e237a66-10a5-4ee5-bc27-1a40bbf9458b#ref=rss)
-### donald
+* [https://www.spiegel.de/wirtschaft/frankfurt-am-main-dax-legt-bestes-boersenjahr-seit-2019-hin](https://www.spiegel.de/wirtschaft/frankfurt-am-main-dax-legt-bestes-boersenjahr-seit-2019-hin-a-520ffc8d-2755-49cc-a547-adfa746a4ec1#ref=rss)
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-in-florida-bibis-happy-end-in-mar-a-lago](https://www.spiegel.de/ausland/benjamin-netanyahu-in-florida-bibis-happy-end-in-mar-a-lago-a-784afea4-f092-40f6-8a51-9b1ffef3dce4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/entgelttransparenzgesetz-gehaltsverhandlungen-sollen-im-neuen-jahr-einfacher-werden-doch-die-arbeitgeber-wehren-sich](https://www.spiegel.de/politik/deutschland/entgelttransparenzgesetz-gehaltsverhandlungen-sollen-im-neuen-jahr-einfacher-werden-doch-die-arbeitgeber-wehren-sich-a-9b7a9216-75e1-4656-8302-61606b94ad28#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-ausgangssperre-in-syriens-latakia-nach-toedlichen-kaempfen](https://www.spiegel.de/ausland/syrien-ausgangssperre-in-syriens-latakia-nach-toedlichen-kaempfen-a-0d94c231-96b0-459a-a90e-4a0dcdca8830#ref=rss)
+### iran
 
-* [https://www.spiegel.de/ausland/donald-trump-jazz-ensemble-sagt-neujahrskonzert-im-kennedy-center-in-washington-ab](https://www.spiegel.de/ausland/donald-trump-jazz-ensemble-sagt-neujahrskonzert-im-kennedy-center-in-washington-ab-a-3e237a66-10a5-4ee5-bc27-1a40bbf9458b#ref=rss)
-### kennedy
+* [https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck](https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck-a-1d6ed705-94e7-4e8a-a715-fc9408c36457#ref=rss)
+* [https://www.spiegel.de/ausland/iran-reagiert-auf-drohung-von-donald-trump](https://www.spiegel.de/ausland/iran-reagiert-auf-drohung-von-donald-trump-a-7b8de20f-f8f5-46e2-bc28-d6bf08fb0f27#ref=rss)
+### innenministerium
 
-* [https://www.spiegel.de/ausland/donald-trump-jazz-ensemble-sagt-neujahrskonzert-im-kennedy-center-in-washington-ab](https://www.spiegel.de/ausland/donald-trump-jazz-ensemble-sagt-neujahrskonzert-im-kennedy-center-in-washington-ab-a-3e237a66-10a5-4ee5-bc27-1a40bbf9458b#ref=rss)
-### dartswm
+* [https://www.spiegel.de/panorama/gesellschaft/brandenburg-innenministerium-warnt-mit-traueranzeige-vor-silvesterfeuerwerk](https://www.spiegel.de/panorama/gesellschaft/brandenburg-innenministerium-warnt-mit-traueranzeige-vor-silvesterfeuerwerk-a-f59adea6-61af-44ff-81e5-d1256adcec10#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verfolgte-in-der-ns-zeit-jenische-wollen-als-nationale-minderheit-anerkannt-werden](https://www.spiegel.de/politik/deutschland/verfolgte-in-der-ns-zeit-jenische-wollen-als-nationale-minderheit-anerkannt-werden-a-ad2f812d-7cb4-46ec-aac3-f4d6a62c7252#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/sport/darts-wm-luke-littler-reagiert-auf-piffe-der-fans](https://www.spiegel.de/sport/darts-wm-luke-littler-reagiert-auf-piffe-der-fans-a-0fcb2e56-173c-4818-bd46-b3997fcd0dac#ref=rss)
-### luke
+* [https://www.spiegel.de/ausland/drogengewalt-in-den-sozialbauviertel-von-marseille-ich-wurde-noch-nie-geschnappt-wir-sind-jung-schnell-und-taff-spiegel-tv](https://www.spiegel.de/ausland/drogengewalt-in-den-sozialbauviertel-von-marseille-ich-wurde-noch-nie-geschnappt-wir-sind-jung-schnell-und-taff-spiegel-tv-a-97b8bbc6-7b29-4dd6-9d2f-0e9b45fe9db1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj](https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj-a-08c9846e-6af5-4c69-b53a-8e802dc7aa77#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/sport/darts-wm-luke-littler-reagiert-auf-piffe-der-fans](https://www.spiegel.de/sport/darts-wm-luke-littler-reagiert-auf-piffe-der-fans-a-0fcb2e56-173c-4818-bd46-b3997fcd0dac#ref=rss)
-### zurück
+* [https://www.spiegel.de/kultur/tv/die-bachelors-und-princess-charming-lieber-jemandem-die-letzte-rose-aufnoetigen-als-ganz-allein](https://www.spiegel.de/kultur/tv/die-bachelors-und-princess-charming-lieber-jemandem-die-letzte-rose-aufnoetigen-als-ganz-allein-a-87ff2ddd-960f-4b6b-97ca-c0d53d596608#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frankfurt-am-main-dax-legt-bestes-boersenjahr-seit-2019-hin](https://www.spiegel.de/wirtschaft/frankfurt-am-main-dax-legt-bestes-boersenjahr-seit-2019-hin-a-520ffc8d-2755-49cc-a547-adfa746a4ec1#ref=rss)
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-in-florida-bibis-happy-end-in-mar-a-lago](https://www.spiegel.de/ausland/benjamin-netanyahu-in-florida-bibis-happy-end-in-mar-a-lago-a-784afea4-f092-40f6-8a51-9b1ffef3dce4#ref=rss)
+### eisbachwelle
 
-* [https://www.spiegel.de/sport/darts-wm-luke-littler-reagiert-auf-piffe-der-fans](https://www.spiegel.de/sport/darts-wm-luke-littler-reagiert-auf-piffe-der-fans-a-0fcb2e56-173c-4818-bd46-b3997fcd0dac#ref=rss)
-* [https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten](https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten-a-1119c22a-860b-4174-9d07-cd7408b942c2#ref=rss)
-### markus
+* [https://www.spiegel.de/reise/eisbachwelle-flusssurfen-alternativen-zur-muenchener-eisbachwelle](https://www.spiegel.de/reise/eisbachwelle-flusssurfen-alternativen-zur-muenchener-eisbachwelle-a-0a490081-ef39-48c9-88da-5c71d8b1e5fa#ref=rss)
+### russland
 
-* [https://www.spiegel.de/panorama/leute/markus-soeder-hat-sich-hueft-op-unterzogen](https://www.spiegel.de/panorama/leute/markus-soeder-hat-sich-hueft-op-unterzogen-a-c4efeee5-9888-458e-939c-98485144396e#ref=rss)
-### söder
+* [https://www.spiegel.de/politik/deutschland/fall-hateaid-hybrider-krieg-mit-russland-darum-sanktioniert-auch-die-eu-einzelpersonen](https://www.spiegel.de/politik/deutschland/fall-hateaid-hybrider-krieg-mit-russland-darum-sanktioniert-auch-die-eu-einzelpersonen-a-0ec84944-ccb5-4864-9dee-fd52c93ab3db#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gelsenkirchen-und-die-kammer-des-schreckens-angeblicher-drohnen-angriff-auf-putins-anwesen](https://www.spiegel.de/politik/deutschland/news-des-tages-gelsenkirchen-und-die-kammer-des-schreckens-angeblicher-drohnen-angriff-auf-putins-anwesen-a-bfa9304e-f3b0-4f43-8862-2d0842c98dfc#ref=rss)
+* [https://www.spiegel.de/ausland/shahed-107-das-ist-russlands-neue-billigwaffe](https://www.spiegel.de/ausland/shahed-107-das-ist-russlands-neue-billigwaffe-a-15c5583c-34f4-497e-99bc-decbb220d750#ref=rss)
+### eu
 
-* [https://www.spiegel.de/panorama/leute/markus-soeder-hat-sich-hueft-op-unterzogen](https://www.spiegel.de/panorama/leute/markus-soeder-hat-sich-hueft-op-unterzogen-a-c4efeee5-9888-458e-939c-98485144396e#ref=rss)
-### unterwegs
+* [https://www.spiegel.de/politik/deutschland/fall-hateaid-hybrider-krieg-mit-russland-darum-sanktioniert-auch-die-eu-einzelpersonen](https://www.spiegel.de/politik/deutschland/fall-hateaid-hybrider-krieg-mit-russland-darum-sanktioniert-auch-die-eu-einzelpersonen-a-0ec84944-ccb5-4864-9dee-fd52c93ab3db#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/entgelttransparenzgesetz-gehaltsverhandlungen-sollen-im-neuen-jahr-einfacher-werden-doch-die-arbeitgeber-wehren-sich](https://www.spiegel.de/politik/deutschland/entgelttransparenzgesetz-gehaltsverhandlungen-sollen-im-neuen-jahr-einfacher-werden-doch-die-arbeitgeber-wehren-sich-a-9b7a9216-75e1-4656-8302-61606b94ad28#ref=rss)
+### europäer
 
-* [https://www.spiegel.de/panorama/leute/markus-soeder-hat-sich-hueft-op-unterzogen](https://www.spiegel.de/panorama/leute/markus-soeder-hat-sich-hueft-op-unterzogen-a-c4efeee5-9888-458e-939c-98485144396e#ref=rss)
-* [https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten](https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten-a-1119c22a-860b-4174-9d07-cd7408b942c2#ref=rss)
-### bhz
+* [https://www.spiegel.de/politik/deutschland/fall-hateaid-hybrider-krieg-mit-russland-darum-sanktioniert-auch-die-eu-einzelpersonen](https://www.spiegel.de/politik/deutschland/fall-hateaid-hybrider-krieg-mit-russland-darum-sanktioniert-auch-die-eu-einzelpersonen-a-0ec84944-ccb5-4864-9dee-fd52c93ab3db#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj](https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj-a-08c9846e-6af5-4c69-b53a-8e802dc7aa77#ref=rss)
+### vielen
 
-* [https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes](https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes-a-b2dfe2c5-aa00-4f91-91f2-ef053c6d67cb#ref=rss)
-### tod
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj-a-e39faa1b-04a0-4562-99e7-87bdbda23a7f#ref=rss)
+* [https://www.spiegel.de/ausland/shahed-107-das-ist-russlands-neue-billigwaffe](https://www.spiegel.de/ausland/shahed-107-das-ist-russlands-neue-billigwaffe-a-15c5583c-34f4-497e-99bc-decbb220d750#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/japan-jahreswechsel-in-tokio-shinto-tempel-und-soba-restaurants-erleben](https://www.spiegel.de/reise/fernweh/japan-jahreswechsel-in-tokio-shinto-tempel-und-soba-restaurants-erleben-a-2196f9e7-c085-4b60-95bf-9c714e1d5803#ref=rss)
+### verfassungsschutzes
 
-* [https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes](https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes-a-b2dfe2c5-aa00-4f91-91f2-ef053c6d67cb#ref=rss)
-### stirbt
+* [https://www.spiegel.de/politik/deutschland/thueringer-verfassungsschutzchef-kritisiert-afd-einladung-zur-muenchner-sicherheitskonferenz](https://www.spiegel.de/politik/deutschland/thueringer-verfassungsschutzchef-kritisiert-afd-einladung-zur-muenchner-sicherheitskonferenz-a-4daf2361-f383-4afa-89a0-33b717ee77bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-wie-wir-das-gutachten-des-verfassungsschutzes-durchsuchbar-machten](https://www.spiegel.de/politik/deutschland/afd-wie-wir-das-gutachten-des-verfassungsschutzes-durchsuchbar-machten-a-4d872db2-e64e-4f4a-92fc-8548117654d5#ref=rss)
+### lage
 
-* [https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes](https://www.spiegel.de/start/bhz-wie-veraendert-einen-der-tod-des-besten-freundes-a-b2dfe2c5-aa00-4f91-91f2-ef053c6d67cb#ref=rss)
-* [https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot](https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot-a-15a2ada3-f2d9-4eb6-9ce3-7865bc0c5ece#ref=rss)
-### wo
-
-* [https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln](https://www.spiegel.de/panorama/silvester-boellerverbot-bundeslaender-wollen-feuerwerk-selbst-regeln-a-ab7bfdcb-deee-49c2-b59a-a197a5dbbcd8#ref=rss)
-### bankenpräsident
-
-* [https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein](https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein-a-2a7d3a8b-3454-4e0f-b32f-231433635517#ref=rss)
-### sewing
-
-* [https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein](https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein-a-2a7d3a8b-3454-4e0f-b32f-231433635517#ref=rss)
-### deshalb
-
-* [https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein](https://www.spiegel.de/wirtschaft/wettbewerbsfaehigkeit-bankenpraesident-sewing-schwoert-deutsche-auf-mehrarbeit-ein-a-2a7d3a8b-3454-4e0f-b32f-231433635517#ref=rss)
-* [https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten](https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten-a-1119c22a-860b-4174-9d07-cd7408b942c2#ref=rss)
-### schwarzarbeit
-
-* [https://www.spiegel.de/wirtschaft/iw-studie-ein-job-im-haushalt-ist-in-der-regel-schwarzarbeit](https://www.spiegel.de/wirtschaft/iw-studie-ein-job-im-haushalt-ist-in-der-regel-schwarzarbeit-a-800fa72a-6933-4ba4-804b-c80fe64b0237#ref=rss)
-### große
-
-* [https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch](https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch-a-224b7448-43fe-45c8-a32b-8b13f4f98ac9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gelsenkirchen-und-die-kammer-des-schreckens-angeblicher-drohnen-angriff-auf-putins-anwesen](https://www.spiegel.de/politik/deutschland/news-des-tages-gelsenkirchen-und-die-kammer-des-schreckens-angeblicher-drohnen-angriff-auf-putins-anwesen-a-bfa9304e-f3b0-4f43-8862-2d0842c98dfc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck](https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck-a-1d6ed705-94e7-4e8a-a715-fc9408c36457#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch](https://www.spiegel.de/wirtschaft/ifo-umfrage-grosse-mehrheit-der-unternehmen-findet-steuern-zu-hoch-a-224b7448-43fe-45c8-a32b-8b13f4f98ac9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung](https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung-a-d28ff7c1-ef67-4822-a85b-3a2c928e991a#ref=rss)
-### größten
+* [https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck](https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck-a-1d6ed705-94e7-4e8a-a715-fc9408c36457#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eurotunnel-zuege-fahren-teilweise-wieder-unter-dem-aermelkanal](https://www.spiegel.de/wirtschaft/eurotunnel-zuege-fahren-teilweise-wieder-unter-dem-aermelkanal-a-0b06bb6c-2b9a-4535-ba28-fd3f482bb796#ref=rss)
+### land
 
-* [https://www.spiegel.de/wirtschaft/inflation-das-waren-die-groessten-preisspruenge-bei-lebensmitteln-2025](https://www.spiegel.de/wirtschaft/inflation-das-waren-die-groessten-preisspruenge-bei-lebensmitteln-2025-a-b0257ccb-6bfb-4313-ba4b-f0ec69e73cda#ref=rss)
-### bangladesch
+* [https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck](https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck-a-1d6ed705-94e7-4e8a-a715-fc9408c36457#ref=rss)
+* [https://www.spiegel.de/ausland/iran-reagiert-auf-drohung-von-donald-trump](https://www.spiegel.de/ausland/iran-reagiert-auf-drohung-von-donald-trump-a-7b8de20f-f8f5-46e2-bc28-d6bf08fb0f27#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot](https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot-a-15a2ada3-f2d9-4eb6-9ce3-7865bc0c5ece#ref=rss)
-### khaleda
+* [https://www.spiegel.de/ausland/iran-reagiert-auf-drohung-von-donald-trump](https://www.spiegel.de/ausland/iran-reagiert-auf-drohung-von-donald-trump-a-7b8de20f-f8f5-46e2-bc28-d6bf08fb0f27#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj](https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj-a-08c9846e-6af5-4c69-b53a-8e802dc7aa77#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-fast-ein-jahr-im-amt-der-geschrumpfte-praesident](https://www.spiegel.de/ausland/donald-trump-fast-ein-jahr-im-amt-der-geschrumpfte-praesident-a-8d50f710-c38f-44ac-b36c-ee9ddf5c2f53#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot](https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot-a-15a2ada3-f2d9-4eb6-9ce3-7865bc0c5ece#ref=rss)
-### zia
+* [https://www.spiegel.de/ausland/iran-reagiert-auf-drohung-von-donald-trump](https://www.spiegel.de/ausland/iran-reagiert-auf-drohung-von-donald-trump-a-7b8de20f-f8f5-46e2-bc28-d6bf08fb0f27#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj](https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj-a-08c9846e-6af5-4c69-b53a-8e802dc7aa77#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-fast-ein-jahr-im-amt-der-geschrumpfte-praesident](https://www.spiegel.de/ausland/donald-trump-fast-ein-jahr-im-amt-der-geschrumpfte-praesident-a-8d50f710-c38f-44ac-b36c-ee9ddf5c2f53#ref=rss)
+### jahreswechsel
 
-* [https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot](https://www.spiegel.de/ausland/khaleda-zia-ex-premierministerin-von-bangladesch-ist-tot-a-15a2ada3-f2d9-4eb6-9ce3-7865bc0c5ece#ref=rss)
-### sanktionen
+* [https://www.spiegel.de/panorama/niederlande-bereiten-sich-auf-letztes-silvester-vor-boellerverbot-vor](https://www.spiegel.de/panorama/niederlande-bereiten-sich-auf-letztes-silvester-vor-boellerverbot-vor-a-2f6e016b-6641-4aac-b288-08cd2225196c#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/japan-jahreswechsel-in-tokio-shinto-tempel-und-soba-restaurants-erleben](https://www.spiegel.de/reise/fernweh/japan-jahreswechsel-in-tokio-shinto-tempel-und-soba-restaurants-erleben-a-2196f9e7-c085-4b60-95bf-9c714e1d5803#ref=rss)
+### brandenburg
 
-* [https://www.spiegel.de/politik/deutschland/sanktionen-gegen-hate-aid-weitere-us-massnahmen-gegen-deutsche-befuerchtet](https://www.spiegel.de/politik/deutschland/sanktionen-gegen-hate-aid-weitere-us-massnahmen-gegen-deutsche-befuerchtet-a-e0c8b6d9-95e2-4e76-8360-4ea9e3e1dc3d#ref=rss)
-### gewinnen
+* [https://www.spiegel.de/panorama/gesellschaft/brandenburg-innenministerium-warnt-mit-traueranzeige-vor-silvesterfeuerwerk](https://www.spiegel.de/panorama/gesellschaft/brandenburg-innenministerium-warnt-mit-traueranzeige-vor-silvesterfeuerwerk-a-f59adea6-61af-44ff-81e5-d1256adcec10#ref=rss)
+### feuerwerk
 
-* [https://www.spiegel.de/psychologie/gewinnen-was-waere-die-welt-ohne-siege](https://www.spiegel.de/psychologie/gewinnen-was-waere-die-welt-ohne-siege-a-1a5d6f3c-2c7e-452c-9cd0-21fa6c46f7f5#ref=rss)
-### welt
+* [https://www.spiegel.de/panorama/gesellschaft/brandenburg-innenministerium-warnt-mit-traueranzeige-vor-silvesterfeuerwerk](https://www.spiegel.de/panorama/gesellschaft/brandenburg-innenministerium-warnt-mit-traueranzeige-vor-silvesterfeuerwerk-a-f59adea6-61af-44ff-81e5-d1256adcec10#ref=rss)
+* [https://www.spiegel.de/panorama/niederlande-bereiten-sich-auf-letztes-silvester-vor-boellerverbot-vor](https://www.spiegel.de/panorama/niederlande-bereiten-sich-auf-letztes-silvester-vor-boellerverbot-vor-a-2f6e016b-6641-4aac-b288-08cd2225196c#ref=rss)
+### leben
 
-* [https://www.spiegel.de/psychologie/gewinnen-was-waere-die-welt-ohne-siege](https://www.spiegel.de/psychologie/gewinnen-was-waere-die-welt-ohne-siege-a-1a5d6f3c-2c7e-452c-9cd0-21fa6c46f7f5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung](https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung-a-d28ff7c1-ef67-4822-a85b-3a2c928e991a#ref=rss)
-### realität
+* [https://www.spiegel.de/panorama/gesellschaft/brandenburg-innenministerium-warnt-mit-traueranzeige-vor-silvesterfeuerwerk](https://www.spiegel.de/panorama/gesellschaft/brandenburg-innenministerium-warnt-mit-traueranzeige-vor-silvesterfeuerwerk-a-f59adea6-61af-44ff-81e5-d1256adcec10#ref=rss)
+* [https://www.spiegel.de/kultur/tv/die-bachelors-und-princess-charming-lieber-jemandem-die-letzte-rose-aufnoetigen-als-ganz-allein](https://www.spiegel.de/kultur/tv/die-bachelors-und-princess-charming-lieber-jemandem-die-letzte-rose-aufnoetigen-als-ganz-allein-a-87ff2ddd-960f-4b6b-97ca-c0d53d596608#ref=rss)
+### marseille
 
-* [https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten](https://www.spiegel.de/auto/verkehr-truegerische-sicherheit-wie-uns-moderne-pkw-zum-rasen-verleiten-a-1119c22a-860b-4174-9d07-cd7408b942c2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung](https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung-a-d28ff7c1-ef67-4822-a85b-3a2c928e991a#ref=rss)
-### extremwetter
+* [https://www.spiegel.de/ausland/drogengewalt-in-den-sozialbauviertel-von-marseille-ich-wurde-noch-nie-geschnappt-wir-sind-jung-schnell-und-taff-spiegel-tv](https://www.spiegel.de/ausland/drogengewalt-in-den-sozialbauviertel-von-marseille-ich-wurde-noch-nie-geschnappt-wir-sind-jung-schnell-und-taff-spiegel-tv-a-97b8bbc6-7b29-4dd6-9d2f-0e9b45fe9db1#ref=rss)
+### ich
 
-* [https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung](https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung-a-d28ff7c1-ef67-4822-a85b-3a2c928e991a#ref=rss)
-### klimawandel
+* [https://www.spiegel.de/ausland/drogengewalt-in-den-sozialbauviertel-von-marseille-ich-wurde-noch-nie-geschnappt-wir-sind-jung-schnell-und-taff-spiegel-tv](https://www.spiegel.de/ausland/drogengewalt-in-den-sozialbauviertel-von-marseille-ich-wurde-noch-nie-geschnappt-wir-sind-jung-schnell-und-taff-spiegel-tv-a-97b8bbc6-7b29-4dd6-9d2f-0e9b45fe9db1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj-a-e39faa1b-04a0-4562-99e7-87bdbda23a7f#ref=rss)
+### sorgen
 
-* [https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung](https://www.spiegel.de/wissenschaft/natur/extremwetter-und-klimawandel-bericht-zeigt-brutale-realitaet-der-erderwaermung-a-d28ff7c1-ef67-4822-a85b-3a2c928e991a#ref=rss)
+* [https://www.spiegel.de/ausland/drogengewalt-in-den-sozialbauviertel-von-marseille-ich-wurde-noch-nie-geschnappt-wir-sind-jung-schnell-und-taff-spiegel-tv](https://www.spiegel.de/ausland/drogengewalt-in-den-sozialbauviertel-von-marseille-ich-wurde-noch-nie-geschnappt-wir-sind-jung-schnell-und-taff-spiegel-tv-a-97b8bbc6-7b29-4dd6-9d2f-0e9b45fe9db1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frankfurt-am-main-dax-legt-bestes-boersenjahr-seit-2019-hin](https://www.spiegel.de/wirtschaft/frankfurt-am-main-dax-legt-bestes-boersenjahr-seit-2019-hin-a-520ffc8d-2755-49cc-a547-adfa746a4ec1#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/drogengewalt-in-den-sozialbauviertel-von-marseille-ich-wurde-noch-nie-geschnappt-wir-sind-jung-schnell-und-taff-spiegel-tv](https://www.spiegel.de/ausland/drogengewalt-in-den-sozialbauviertel-von-marseille-ich-wurde-noch-nie-geschnappt-wir-sind-jung-schnell-und-taff-spiegel-tv-a-97b8bbc6-7b29-4dd6-9d2f-0e9b45fe9db1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fall-hateaid-hybrider-krieg-mit-russland-darum-sanktioniert-auch-die-eu-einzelpersonen](https://www.spiegel.de/politik/deutschland/fall-hateaid-hybrider-krieg-mit-russland-darum-sanktioniert-auch-die-eu-einzelpersonen-a-0ec84944-ccb5-4864-9dee-fd52c93ab3db#ref=rss)
+### bachelors
+
+* [https://www.spiegel.de/kultur/tv/die-bachelors-und-princess-charming-lieber-jemandem-die-letzte-rose-aufnoetigen-als-ganz-allein](https://www.spiegel.de/kultur/tv/die-bachelors-und-princess-charming-lieber-jemandem-die-letzte-rose-aufnoetigen-als-ganz-allein-a-87ff2ddd-960f-4b6b-97ca-c0d53d596608#ref=rss)
+### princess
+
+* [https://www.spiegel.de/kultur/tv/die-bachelors-und-princess-charming-lieber-jemandem-die-letzte-rose-aufnoetigen-als-ganz-allein](https://www.spiegel.de/kultur/tv/die-bachelors-und-princess-charming-lieber-jemandem-die-letzte-rose-aufnoetigen-als-ganz-allein-a-87ff2ddd-960f-4b6b-97ca-c0d53d596608#ref=rss)
+### charming
+
+* [https://www.spiegel.de/kultur/tv/die-bachelors-und-princess-charming-lieber-jemandem-die-letzte-rose-aufnoetigen-als-ganz-allein](https://www.spiegel.de/kultur/tv/die-bachelors-und-princess-charming-lieber-jemandem-die-letzte-rose-aufnoetigen-als-ganz-allein-a-87ff2ddd-960f-4b6b-97ca-c0d53d596608#ref=rss)
+### letzte
+
+* [https://www.spiegel.de/kultur/tv/die-bachelors-und-princess-charming-lieber-jemandem-die-letzte-rose-aufnoetigen-als-ganz-allein](https://www.spiegel.de/kultur/tv/die-bachelors-und-princess-charming-lieber-jemandem-die-letzte-rose-aufnoetigen-als-ganz-allein-a-87ff2ddd-960f-4b6b-97ca-c0d53d596608#ref=rss)
+* [https://www.spiegel.de/panorama/niederlande-bereiten-sich-auf-letztes-silvester-vor-boellerverbot-vor](https://www.spiegel.de/panorama/niederlande-bereiten-sich-auf-letztes-silvester-vor-boellerverbot-vor-a-2f6e016b-6641-4aac-b288-08cd2225196c#ref=rss)
+### ganz
+
+* [https://www.spiegel.de/kultur/tv/die-bachelors-und-princess-charming-lieber-jemandem-die-letzte-rose-aufnoetigen-als-ganz-allein](https://www.spiegel.de/kultur/tv/die-bachelors-und-princess-charming-lieber-jemandem-die-letzte-rose-aufnoetigen-als-ganz-allein-a-87ff2ddd-960f-4b6b-97ca-c0d53d596608#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/kultur/tv/die-bachelors-und-princess-charming-lieber-jemandem-die-letzte-rose-aufnoetigen-als-ganz-allein](https://www.spiegel.de/kultur/tv/die-bachelors-und-princess-charming-lieber-jemandem-die-letzte-rose-aufnoetigen-als-ganz-allein-a-87ff2ddd-960f-4b6b-97ca-c0d53d596608#ref=rss)
+* [https://www.spiegel.de/ausland/iran-reagiert-auf-drohung-von-donald-trump](https://www.spiegel.de/ausland/iran-reagiert-auf-drohung-von-donald-trump-a-7b8de20f-f8f5-46e2-bc28-d6bf08fb0f27#ref=rss)
+### einzelpersonen
+
+* [https://www.spiegel.de/politik/deutschland/fall-hateaid-hybrider-krieg-mit-russland-darum-sanktioniert-auch-die-eu-einzelpersonen](https://www.spiegel.de/politik/deutschland/fall-hateaid-hybrider-krieg-mit-russland-darum-sanktioniert-auch-die-eu-einzelpersonen-a-0ec84944-ccb5-4864-9dee-fd52c93ab3db#ref=rss)
+### zuletzt
+
+* [https://www.spiegel.de/politik/deutschland/fall-hateaid-hybrider-krieg-mit-russland-darum-sanktioniert-auch-die-eu-einzelpersonen](https://www.spiegel.de/politik/deutschland/fall-hateaid-hybrider-krieg-mit-russland-darum-sanktioniert-auch-die-eu-einzelpersonen-a-0ec84944-ccb5-4864-9dee-fd52c93ab3db#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-fast-ein-jahr-im-amt-der-geschrumpfte-praesident](https://www.spiegel.de/ausland/donald-trump-fast-ein-jahr-im-amt-der-geschrumpfte-praesident-a-8d50f710-c38f-44ac-b36c-ee9ddf5c2f53#ref=rss)
+### sigmar
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj-a-e39faa1b-04a0-4562-99e7-87bdbda23a7f#ref=rss)
+### gabriel
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj-a-e39faa1b-04a0-4562-99e7-87bdbda23a7f#ref=rss)
+### sorge
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj-a-e39faa1b-04a0-4562-99e7-87bdbda23a7f#ref=rss)
+* [https://www.spiegel.de/panorama/bankraub-in-gelsenkirchen-sie-erhalten-weitere-informationen-ueber-das-onlineportal-der-sparkasse](https://www.spiegel.de/panorama/bankraub-in-gelsenkirchen-sie-erhalten-weitere-informationen-ueber-das-onlineportal-der-sparkasse-a-417da963-a4fb-4ac4-9aef-e0e80731e48a#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj-a-e39faa1b-04a0-4562-99e7-87bdbda23a7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj](https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj-a-08c9846e-6af5-4c69-b53a-8e802dc7aa77#ref=rss)
+### hatten
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj-a-e39faa1b-04a0-4562-99e7-87bdbda23a7f#ref=rss)
+* [https://www.spiegel.de/panorama/ruegen-baabe-retter-holen-kitesurfer-aus-kalter-ostsee](https://www.spiegel.de/panorama/ruegen-baabe-retter-holen-kitesurfer-aus-kalter-ostsee-a-ebafa5ed-f700-42f7-8ddd-a8be7b7ddc8c#ref=rss)
+### ukrainischen
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj-a-e39faa1b-04a0-4562-99e7-87bdbda23a7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj](https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj-a-08c9846e-6af5-4c69-b53a-8e802dc7aa77#ref=rss)
+### präsidenten
+
+* [https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj](https://www.spiegel.de/politik/deutschland/sigmar-gabriel-spricht-ueber-sorge-vor-moeglichem-mord-an-wolodymyr-selenskyj-a-e39faa1b-04a0-4562-99e7-87bdbda23a7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj](https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj-a-08c9846e-6af5-4c69-b53a-8e802dc7aa77#ref=rss)
+### thüringer
+
+* [https://www.spiegel.de/politik/deutschland/thueringer-verfassungsschutzchef-kritisiert-afd-einladung-zur-muenchner-sicherheitskonferenz](https://www.spiegel.de/politik/deutschland/thueringer-verfassungsschutzchef-kritisiert-afd-einladung-zur-muenchner-sicherheitskonferenz-a-4daf2361-f383-4afa-89a0-33b717ee77bc#ref=rss)
+### münchner
+
+* [https://www.spiegel.de/politik/deutschland/thueringer-verfassungsschutzchef-kritisiert-afd-einladung-zur-muenchner-sicherheitskonferenz](https://www.spiegel.de/politik/deutschland/thueringer-verfassungsschutzchef-kritisiert-afd-einladung-zur-muenchner-sicherheitskonferenz-a-4daf2361-f383-4afa-89a0-33b717ee77bc#ref=rss)
+### sicherheitskonferenz
+
+* [https://www.spiegel.de/politik/deutschland/thueringer-verfassungsschutzchef-kritisiert-afd-einladung-zur-muenchner-sicherheitskonferenz](https://www.spiegel.de/politik/deutschland/thueringer-verfassungsschutzchef-kritisiert-afd-einladung-zur-muenchner-sicherheitskonferenz-a-4daf2361-f383-4afa-89a0-33b717ee77bc#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/politik/deutschland/thueringer-verfassungsschutzchef-kritisiert-afd-einladung-zur-muenchner-sicherheitskonferenz](https://www.spiegel.de/politik/deutschland/thueringer-verfassungsschutzchef-kritisiert-afd-einladung-zur-muenchner-sicherheitskonferenz-a-4daf2361-f383-4afa-89a0-33b717ee77bc#ref=rss)
+* [https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck](https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck-a-1d6ed705-94e7-4e8a-a715-fc9408c36457#ref=rss)
+### rügen
+
+* [https://www.spiegel.de/panorama/ruegen-baabe-retter-holen-kitesurfer-aus-kalter-ostsee](https://www.spiegel.de/panorama/ruegen-baabe-retter-holen-kitesurfer-aus-kalter-ostsee-a-ebafa5ed-f700-42f7-8ddd-a8be7b7ddc8c#ref=rss)
+### kitesurfer
+
+* [https://www.spiegel.de/panorama/ruegen-baabe-retter-holen-kitesurfer-aus-kalter-ostsee](https://www.spiegel.de/panorama/ruegen-baabe-retter-holen-kitesurfer-aus-kalter-ostsee-a-ebafa5ed-f700-42f7-8ddd-a8be7b7ddc8c#ref=rss)
+### ostsee
+
+* [https://www.spiegel.de/panorama/ruegen-baabe-retter-holen-kitesurfer-aus-kalter-ostsee](https://www.spiegel.de/panorama/ruegen-baabe-retter-holen-kitesurfer-aus-kalter-ostsee-a-ebafa5ed-f700-42f7-8ddd-a8be7b7ddc8c#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gelsenkirchen-und-die-kammer-des-schreckens-angeblicher-drohnen-angriff-auf-putins-anwesen](https://www.spiegel.de/politik/deutschland/news-des-tages-gelsenkirchen-und-die-kammer-des-schreckens-angeblicher-drohnen-angriff-auf-putins-anwesen-a-bfa9304e-f3b0-4f43-8862-2d0842c98dfc#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### einbruch
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gelsenkirchen-und-die-kammer-des-schreckens-angeblicher-drohnen-angriff-auf-putins-anwesen](https://www.spiegel.de/politik/deutschland/news-des-tages-gelsenkirchen-und-die-kammer-des-schreckens-angeblicher-drohnen-angriff-auf-putins-anwesen-a-bfa9304e-f3b0-4f43-8862-2d0842c98dfc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-sparkasse-ermittler-verfolgen-spur-nach-coup-im-tresorraum](https://www.spiegel.de/panorama/justiz/gelsenkirchen-sparkasse-ermittler-verfolgen-spur-nach-coup-im-tresorraum-a-3d97a0a1-460c-45e2-8af1-b2d0ddc80063#ref=rss)
+### geben
+
+* [https://www.spiegel.de/ausland/konflikt-mit-saudi-arabien-emirate-geben-im-streit-ueber-jemen-nach](https://www.spiegel.de/ausland/konflikt-mit-saudi-arabien-emirate-geben-im-streit-ueber-jemen-nach-a-d4a73bc4-eb1b-469e-87a1-322edc26302b#ref=rss)
+### jemen
+
+* [https://www.spiegel.de/ausland/konflikt-mit-saudi-arabien-emirate-geben-im-streit-ueber-jemen-nach](https://www.spiegel.de/ausland/konflikt-mit-saudi-arabien-emirate-geben-im-streit-ueber-jemen-nach-a-d4a73bc4-eb1b-469e-87a1-322edc26302b#ref=rss)
+### nationale
+
+* [https://www.spiegel.de/politik/deutschland/verfolgte-in-der-ns-zeit-jenische-wollen-als-nationale-minderheit-anerkannt-werden](https://www.spiegel.de/politik/deutschland/verfolgte-in-der-ns-zeit-jenische-wollen-als-nationale-minderheit-anerkannt-werden-a-ad2f812d-7cb4-46ec-aac3-f4d6a62c7252#ref=rss)
+### minderheit
+
+* [https://www.spiegel.de/politik/deutschland/verfolgte-in-der-ns-zeit-jenische-wollen-als-nationale-minderheit-anerkannt-werden](https://www.spiegel.de/politik/deutschland/verfolgte-in-der-ns-zeit-jenische-wollen-als-nationale-minderheit-anerkannt-werden-a-ad2f812d-7cb4-46ec-aac3-f4d6a62c7252#ref=rss)
+### anerkannt
+
+* [https://www.spiegel.de/politik/deutschland/verfolgte-in-der-ns-zeit-jenische-wollen-als-nationale-minderheit-anerkannt-werden](https://www.spiegel.de/politik/deutschland/verfolgte-in-der-ns-zeit-jenische-wollen-als-nationale-minderheit-anerkannt-werden-a-ad2f812d-7cb4-46ec-aac3-f4d6a62c7252#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/verfolgte-in-der-ns-zeit-jenische-wollen-als-nationale-minderheit-anerkannt-werden](https://www.spiegel.de/politik/deutschland/verfolgte-in-der-ns-zeit-jenische-wollen-als-nationale-minderheit-anerkannt-werden-a-ad2f812d-7cb4-46ec-aac3-f4d6a62c7252#ref=rss)
+* [https://www.spiegel.de/wirtschaft/frankfurt-am-main-dax-legt-bestes-boersenjahr-seit-2019-hin](https://www.spiegel.de/wirtschaft/frankfurt-am-main-dax-legt-bestes-boersenjahr-seit-2019-hin-a-520ffc8d-2755-49cc-a547-adfa746a4ec1#ref=rss)
+### gutachten
+
+* [https://www.spiegel.de/politik/deutschland/verfolgte-in-der-ns-zeit-jenische-wollen-als-nationale-minderheit-anerkannt-werden](https://www.spiegel.de/politik/deutschland/verfolgte-in-der-ns-zeit-jenische-wollen-als-nationale-minderheit-anerkannt-werden-a-ad2f812d-7cb4-46ec-aac3-f4d6a62c7252#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-wie-wir-das-gutachten-des-verfassungsschutzes-durchsuchbar-machten](https://www.spiegel.de/politik/deutschland/afd-wie-wir-das-gutachten-des-verfassungsschutzes-durchsuchbar-machten-a-4d872db2-e64e-4f4a-92fc-8548117654d5#ref=rss)
+### dax
+
+* [https://www.spiegel.de/wirtschaft/frankfurt-am-main-dax-legt-bestes-boersenjahr-seit-2019-hin](https://www.spiegel.de/wirtschaft/frankfurt-am-main-dax-legt-bestes-boersenjahr-seit-2019-hin-a-520ffc8d-2755-49cc-a547-adfa746a4ec1#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/shahed-107-das-ist-russlands-neue-billigwaffe](https://www.spiegel.de/ausland/shahed-107-das-ist-russlands-neue-billigwaffe-a-15c5583c-34f4-497e-99bc-decbb220d750#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj](https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj-a-08c9846e-6af5-4c69-b53a-8e802dc7aa77#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/ausland/shahed-107-das-ist-russlands-neue-billigwaffe](https://www.spiegel.de/ausland/shahed-107-das-ist-russlands-neue-billigwaffe-a-15c5583c-34f4-497e-99bc-decbb220d750#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/entgelttransparenzgesetz-gehaltsverhandlungen-sollen-im-neuen-jahr-einfacher-werden-doch-die-arbeitgeber-wehren-sich](https://www.spiegel.de/politik/deutschland/entgelttransparenzgesetz-gehaltsverhandlungen-sollen-im-neuen-jahr-einfacher-werden-doch-die-arbeitgeber-wehren-sich-a-9b7a9216-75e1-4656-8302-61606b94ad28#ref=rss)
+### proteste
+
+* [https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck](https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck-a-1d6ed705-94e7-4e8a-a715-fc9408c36457#ref=rss)
+### wirtschaftliche
+
+* [https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck](https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck-a-1d6ed705-94e7-4e8a-a715-fc9408c36457#ref=rss)
+### regime
+
+* [https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck](https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck-a-1d6ed705-94e7-4e8a-a715-fc9408c36457#ref=rss)
+### druck
+
+* [https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck](https://www.spiegel.de/ausland/iran-proteste-gegen-wirtschaftliche-lage-setzen-regime-unter-druck-a-1d6ed705-94e7-4e8a-a715-fc9408c36457#ref=rss)
+### besuch
+
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-in-florida-bibis-happy-end-in-mar-a-lago](https://www.spiegel.de/ausland/benjamin-netanyahu-in-florida-bibis-happy-end-in-mar-a-lago-a-784afea4-f092-40f6-8a51-9b1ffef3dce4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj](https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj-a-08c9846e-6af5-4c69-b53a-8e802dc7aa77#ref=rss)
+### uspräsidenten
+
+* [https://www.spiegel.de/ausland/benjamin-netanyahu-in-florida-bibis-happy-end-in-mar-a-lago](https://www.spiegel.de/ausland/benjamin-netanyahu-in-florida-bibis-happy-end-in-mar-a-lago-a-784afea4-f092-40f6-8a51-9b1ffef3dce4#ref=rss)
+* [https://www.spiegel.de/ausland/iran-reagiert-auf-drohung-von-donald-trump](https://www.spiegel.de/ausland/iran-reagiert-auf-drohung-von-donald-trump-a-7b8de20f-f8f5-46e2-bc28-d6bf08fb0f27#ref=rss)
+### hessen
+
+* [https://www.spiegel.de/panorama/alsfeld-hessen-lagerhalle-von-grillanzuender-hersteller-durch-brand-stark-beschaedigt](https://www.spiegel.de/panorama/alsfeld-hessen-lagerhalle-von-grillanzuender-hersteller-durch-brand-stark-beschaedigt-a-4f04386d-cd31-4722-b3b5-9d5bce0156d1#ref=rss)
+### lagerhalle
+
+* [https://www.spiegel.de/panorama/alsfeld-hessen-lagerhalle-von-grillanzuender-hersteller-durch-brand-stark-beschaedigt](https://www.spiegel.de/panorama/alsfeld-hessen-lagerhalle-von-grillanzuender-hersteller-durch-brand-stark-beschaedigt-a-4f04386d-cd31-4722-b3b5-9d5bce0156d1#ref=rss)
+### brand
+
+* [https://www.spiegel.de/panorama/alsfeld-hessen-lagerhalle-von-grillanzuender-hersteller-durch-brand-stark-beschaedigt](https://www.spiegel.de/panorama/alsfeld-hessen-lagerhalle-von-grillanzuender-hersteller-durch-brand-stark-beschaedigt-a-4f04386d-cd31-4722-b3b5-9d5bce0156d1#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/alsfeld-hessen-lagerhalle-von-grillanzuender-hersteller-durch-brand-stark-beschaedigt](https://www.spiegel.de/panorama/alsfeld-hessen-lagerhalle-von-grillanzuender-hersteller-durch-brand-stark-beschaedigt-a-4f04386d-cd31-4722-b3b5-9d5bce0156d1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-sparkasse-ermittler-verfolgen-spur-nach-coup-im-tresorraum](https://www.spiegel.de/panorama/justiz/gelsenkirchen-sparkasse-ermittler-verfolgen-spur-nach-coup-im-tresorraum-a-3d97a0a1-460c-45e2-8af1-b2d0ddc80063#ref=rss)
+### arbeitgeber
+
+* [https://www.spiegel.de/politik/deutschland/entgelttransparenzgesetz-gehaltsverhandlungen-sollen-im-neuen-jahr-einfacher-werden-doch-die-arbeitgeber-wehren-sich](https://www.spiegel.de/politik/deutschland/entgelttransparenzgesetz-gehaltsverhandlungen-sollen-im-neuen-jahr-einfacher-werden-doch-die-arbeitgeber-wehren-sich-a-9b7a9216-75e1-4656-8302-61606b94ad28#ref=rss)
+### eurotunnel
+
+* [https://www.spiegel.de/wirtschaft/eurotunnel-zuege-fahren-teilweise-wieder-unter-dem-aermelkanal](https://www.spiegel.de/wirtschaft/eurotunnel-zuege-fahren-teilweise-wieder-unter-dem-aermelkanal-a-0b06bb6c-2b9a-4535-ba28-fd3f482bb796#ref=rss)
+### silvester
+
+* [https://www.spiegel.de/wirtschaft/eurotunnel-zuege-fahren-teilweise-wieder-unter-dem-aermelkanal](https://www.spiegel.de/wirtschaft/eurotunnel-zuege-fahren-teilweise-wieder-unter-dem-aermelkanal-a-0b06bb6c-2b9a-4535-ba28-fd3f482bb796#ref=rss)
+* [https://www.spiegel.de/panorama/niederlande-bereiten-sich-auf-letztes-silvester-vor-boellerverbot-vor](https://www.spiegel.de/panorama/niederlande-bereiten-sich-auf-letztes-silvester-vor-boellerverbot-vor-a-2f6e016b-6641-4aac-b288-08cd2225196c#ref=rss)
+### durchsuchbar
+
+* [https://www.spiegel.de/politik/deutschland/afd-wie-wir-das-gutachten-des-verfassungsschutzes-durchsuchbar-machten](https://www.spiegel.de/politik/deutschland/afd-wie-wir-das-gutachten-des-verfassungsschutzes-durchsuchbar-machten-a-4d872db2-e64e-4f4a-92fc-8548117654d5#ref=rss)
+### machten
+
+* [https://www.spiegel.de/politik/deutschland/afd-wie-wir-das-gutachten-des-verfassungsschutzes-durchsuchbar-machten](https://www.spiegel.de/politik/deutschland/afd-wie-wir-das-gutachten-des-verfassungsschutzes-durchsuchbar-machten-a-4d872db2-e64e-4f4a-92fc-8548117654d5#ref=rss)
+### weg
+
+* [https://www.spiegel.de/politik/deutschland/afd-wie-wir-das-gutachten-des-verfassungsschutzes-durchsuchbar-machten](https://www.spiegel.de/politik/deutschland/afd-wie-wir-das-gutachten-des-verfassungsschutzes-durchsuchbar-machten-a-4d872db2-e64e-4f4a-92fc-8548117654d5#ref=rss)
+* [https://www.spiegel.de/panorama/bankraub-in-gelsenkirchen-sie-erhalten-weitere-informationen-ueber-das-onlineportal-der-sparkasse](https://www.spiegel.de/panorama/bankraub-in-gelsenkirchen-sie-erhalten-weitere-informationen-ueber-das-onlineportal-der-sparkasse-a-417da963-a4fb-4ac4-9aef-e0e80731e48a#ref=rss)
+### syrien
+
+* [https://www.spiegel.de/ausland/syrien-ausgangssperre-in-syriens-latakia-nach-toedlichen-kaempfen](https://www.spiegel.de/ausland/syrien-ausgangssperre-in-syriens-latakia-nach-toedlichen-kaempfen-a-0d94c231-96b0-459a-a90e-4a0dcdca8830#ref=rss)
+### ausgangssperre
+
+* [https://www.spiegel.de/ausland/syrien-ausgangssperre-in-syriens-latakia-nach-toedlichen-kaempfen](https://www.spiegel.de/ausland/syrien-ausgangssperre-in-syriens-latakia-nach-toedlichen-kaempfen-a-0d94c231-96b0-459a-a90e-4a0dcdca8830#ref=rss)
+### latakia
+
+* [https://www.spiegel.de/ausland/syrien-ausgangssperre-in-syriens-latakia-nach-toedlichen-kaempfen](https://www.spiegel.de/ausland/syrien-ausgangssperre-in-syriens-latakia-nach-toedlichen-kaempfen-a-0d94c231-96b0-459a-a90e-4a0dcdca8830#ref=rss)
+### große
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj](https://www.spiegel.de/politik/deutschland/ukraine-gespraeche-hinter-den-kulissen-warnen-die-europaeer-selenskyj-a-08c9846e-6af5-4c69-b53a-8e802dc7aa77#ref=rss)
+* [https://www.spiegel.de/panorama/bankraub-in-gelsenkirchen-sie-erhalten-weitere-informationen-ueber-das-onlineportal-der-sparkasse](https://www.spiegel.de/panorama/bankraub-in-gelsenkirchen-sie-erhalten-weitere-informationen-ueber-das-onlineportal-der-sparkasse-a-417da963-a4fb-4ac4-9aef-e0e80731e48a#ref=rss)
+### tresorraum
+
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-sparkasse-ermittler-verfolgen-spur-nach-coup-im-tresorraum](https://www.spiegel.de/panorama/justiz/gelsenkirchen-sparkasse-ermittler-verfolgen-spur-nach-coup-im-tresorraum-a-3d97a0a1-460c-45e2-8af1-b2d0ddc80063#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-sparkasse-ermittler-verfolgen-spur-nach-coup-im-tresorraum](https://www.spiegel.de/panorama/justiz/gelsenkirchen-sparkasse-ermittler-verfolgen-spur-nach-coup-im-tresorraum-a-3d97a0a1-460c-45e2-8af1-b2d0ddc80063#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/japan-jahreswechsel-in-tokio-shinto-tempel-und-soba-restaurants-erleben](https://www.spiegel.de/reise/fernweh/japan-jahreswechsel-in-tokio-shinto-tempel-und-soba-restaurants-erleben-a-2196f9e7-c085-4b60-95bf-9c714e1d5803#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### stranger
+
+* [https://www.spiegel.de/kultur/tv/stranger-things-musk-und-die-homophobe-kampagne-gegen-die-netflix-serie](https://www.spiegel.de/kultur/tv/stranger-things-musk-und-die-homophobe-kampagne-gegen-die-netflix-serie-a-0c594d04-51e0-4a8f-bd9e-d085b170e7ac#ref=rss)
+### things
+
+* [https://www.spiegel.de/kultur/tv/stranger-things-musk-und-die-homophobe-kampagne-gegen-die-netflix-serie](https://www.spiegel.de/kultur/tv/stranger-things-musk-und-die-homophobe-kampagne-gegen-die-netflix-serie-a-0c594d04-51e0-4a8f-bd9e-d085b170e7ac#ref=rss)
+### musk
+
+* [https://www.spiegel.de/kultur/tv/stranger-things-musk-und-die-homophobe-kampagne-gegen-die-netflix-serie](https://www.spiegel.de/kultur/tv/stranger-things-musk-und-die-homophobe-kampagne-gegen-die-netflix-serie-a-0c594d04-51e0-4a8f-bd9e-d085b170e7ac#ref=rss)
+### sobarestaurants
+
+* [https://www.spiegel.de/reise/fernweh/japan-jahreswechsel-in-tokio-shinto-tempel-und-soba-restaurants-erleben](https://www.spiegel.de/reise/fernweh/japan-jahreswechsel-in-tokio-shinto-tempel-und-soba-restaurants-erleben-a-2196f9e7-c085-4b60-95bf-9c714e1d5803#ref=rss)
 
