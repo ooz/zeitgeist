@@ -4,377 +4,370 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### polizei
-
-* [https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana](https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana-a-798c53bc-6690-43c3-bbec-1d95331df5f0#ref=rss)
-* [https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin](https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin-a-ce55bc85-6254-4df7-a13e-6ac8b18cc98c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-meldet-zahlreiche-festnahmen-wegen-gefaehrlicher-boellerei](https://www.spiegel.de/panorama/justiz/polizei-meldet-zahlreiche-festnahmen-wegen-gefaehrlicher-boellerei-a-ec290e63-ccf5-447e-86ac-2276c0f3bb93#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-polizei-findet-bei-durchsuchungen-illegale-pyrotechnik](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-polizei-findet-bei-durchsuchungen-illegale-pyrotechnik-a-8cf19e8e-2913-4243-adff-6a02c09d825b#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/barack-obama-musical-in-new-york-2-stunden-und-20-minuten-um-trump-mal-kurz-zu-vergessen](https://www.spiegel.de/ausland/barack-obama-musical-in-new-york-2-stunden-und-20-minuten-um-trump-mal-kurz-zu-vergessen-a-4080972b-246a-49b1-9d0b-5e084c04a0bb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kuendigt-abzug-der-nationalgarde-aus-chicago-los-angeles-und-portland-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-abzug-der-nationalgarde-aus-chicago-los-angeles-und-portland-an-a-3e46edda-aff7-46e6-badd-553c8122ce06#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-teilt-kritischen-artikel-ueber-wladimir-putin](https://www.spiegel.de/ausland/donald-trump-teilt-kritischen-artikel-ueber-wladimir-putin-a-1e5acbdd-2328-4dea-94d1-b8fb0140316d#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/wirtschaft/verdienen-sie-was-sie-verdienen-6-menschen-sprechen-ueber-geld](https://www.spiegel.de/wirtschaft/verdienen-sie-was-sie-verdienen-6-menschen-sprechen-ueber-geld-a-551b3012-cc12-4014-b59c-2ab57f0b21a0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz](https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz-a-31811fb0-678d-4400-a55f-40c3cc3df4b6#ref=rss)
-* [https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana](https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana-a-798c53bc-6690-43c3-bbec-1d95331df5f0#ref=rss)
-### donald
+* [https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist](https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist-a-9fe0096b-dc7f-49e8-99b6-f24d0ee4af18#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-augenzeugen-berichten-von-feuer-in-der-bar](https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-augenzeugen-berichten-von-feuer-in-der-bar-a-c055e69f-d3e2-49b3-b127-03a2be74fa11#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien](https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien-a-dcdb62a4-ad2f-47b9-a199-dd1681662044#ref=rss)
+* [https://www.spiegel.de/panorama/erstmals-mehr-als-eine-halbe-million-pilger-auf-dem-jakobsweg](https://www.spiegel.de/panorama/erstmals-mehr-als-eine-halbe-million-pilger-auf-dem-jakobsweg-a-d9680bad-e294-43f9-91a0-f995060d4fd4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bulgarien-fuehrt-euro-als-waehrung-ein](https://www.spiegel.de/wirtschaft/bulgarien-fuehrt-euro-als-waehrung-ein-a-009d26cc-db43-4693-b28e-b736df3f973e#ref=rss)
+* [https://www.spiegel.de/panorama/wallis-die-feuerkatastrophe-von-crans-montana](https://www.spiegel.de/panorama/wallis-die-feuerkatastrophe-von-crans-montana-a-f2ff895e-ae78-4b60-bb81-fd3ff0b31d6e#ref=rss)
+* [https://www.spiegel.de/kultur/musik/wolfgang-niedecken-geht-positiv-ins-neue-jahr-weil-er-muss](https://www.spiegel.de/kultur/musik/wolfgang-niedecken-geht-positiv-ins-neue-jahr-weil-er-muss-a-f490bcca-5834-4b7d-9aad-c23e6b6da8e8#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-amateuraufnahmen-zeigen-feuer-in-bar](https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-amateuraufnahmen-zeigen-feuer-in-bar-a-bcc7904d-5bf0-4cac-8682-3f612cc28f0d#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/ausland/barack-obama-musical-in-new-york-2-stunden-und-20-minuten-um-trump-mal-kurz-zu-vergessen](https://www.spiegel.de/ausland/barack-obama-musical-in-new-york-2-stunden-und-20-minuten-um-trump-mal-kurz-zu-vergessen-a-4080972b-246a-49b1-9d0b-5e084c04a0bb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-kuendigt-abzug-der-nationalgarde-aus-chicago-los-angeles-und-portland-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-abzug-der-nationalgarde-aus-chicago-los-angeles-und-portland-an-a-3e46edda-aff7-46e6-badd-553c8122ce06#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-teilt-kritischen-artikel-ueber-wladimir-putin](https://www.spiegel.de/ausland/donald-trump-teilt-kritischen-artikel-ueber-wladimir-putin-a-1e5acbdd-2328-4dea-94d1-b8fb0140316d#ref=rss)
-### geld
+* [https://www.spiegel.de/kultur/pink-beginnt-das-neue-jahr-mit-bandscheiben-op](https://www.spiegel.de/kultur/pink-beginnt-das-neue-jahr-mit-bandscheiben-op-a-7d52d866-0613-4608-a425-d4fc17a95dfa#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist](https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist-a-9fe0096b-dc7f-49e8-99b6-f24d0ee4af18#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien](https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien-a-dcdb62a4-ad2f-47b9-a199-dd1681662044#ref=rss)
+* [https://www.spiegel.de/wissenschaft/ellen-moons-ist-erste-frau-an-der-spitze-der-koeniglich-schwedischen-akademie](https://www.spiegel.de/wissenschaft/ellen-moons-ist-erste-frau-an-der-spitze-der-koeniglich-schwedischen-akademie-a-56d35a62-98f3-494f-b30c-2ed391966045#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krankenkassen-fast-die-haelfte-der-kassen-erhoeht-2026-ihre-beitraege](https://www.spiegel.de/wirtschaft/krankenkassen-fast-die-haelfte-der-kassen-erhoeht-2026-ihre-beitraege-a-ef9fb188-ecba-46f0-bfb8-87c47cc8c0e1#ref=rss)
+* [https://www.spiegel.de/kultur/musik/wolfgang-niedecken-geht-positiv-ins-neue-jahr-weil-er-muss](https://www.spiegel.de/kultur/musik/wolfgang-niedecken-geht-positiv-ins-neue-jahr-weil-er-muss-a-f490bcca-5834-4b7d-9aad-c23e6b6da8e8#ref=rss)
+### prevc
 
-* [https://www.spiegel.de/wirtschaft/verdienen-sie-was-sie-verdienen-6-menschen-sprechen-ueber-geld](https://www.spiegel.de/wirtschaft/verdienen-sie-was-sie-verdienen-6-menschen-sprechen-ueber-geld-a-551b3012-cc12-4014-b59c-2ab57f0b21a0#ref=rss)
-* [https://www.spiegel.de/panorama/leute/taylor-swift-schenkt-stadionmitarbeiterin-an-weihnachten-600-dollar](https://www.spiegel.de/panorama/leute/taylor-swift-schenkt-stadionmitarbeiterin-an-weihnachten-600-dollar-a-45440be5-b6d5-4424-b4a1-67b727aed3ba#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-polizei-findet-bei-durchsuchungen-illegale-pyrotechnik](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-polizei-findet-bei-durchsuchungen-illegale-pyrotechnik-a-8cf19e8e-2913-4243-adff-6a02c09d825b#ref=rss)
-### iran
+* [https://www.spiegel.de/sport/wintersport/two-nights-tour-skispringerin-nika-prevc-gewinnt-trotz-patzer-auch-dritte-ausgabe](https://www.spiegel.de/sport/wintersport/two-nights-tour-skispringerin-nika-prevc-gewinnt-trotz-patzer-auch-dritte-ausgabe-a-07ffc7a8-f815-4b7a-92ce-e2a1045d892d#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-dominiert-in-garmisch-vorwuerfe-sorgen-fuer-aufruhr](https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-dominiert-in-garmisch-vorwuerfe-sorgen-fuer-aufruhr-a-769b8b98-1b11-45ec-b590-eb0d74a75eba#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-gewinnt-das-neujahrsspringen-in-garmisch-felix-hoffmann-sechster](https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-gewinnt-das-neujahrsspringen-in-garmisch-felix-hoffmann-sechster-a-fa352c88-68ce-42a9-a3b8-1fb8b8fce801#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/iran-proteste-staatsmedien-melden-tod-einer-sicherheitskraft](https://www.spiegel.de/ausland/iran-proteste-staatsmedien-melden-tod-einer-sicherheitskraft-a-c19802bd-e39b-42ed-b407-85a2e878d70e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-offenbar-mehrere-studenten-nach-protesten-verhaftet](https://www.spiegel.de/ausland/iran-offenbar-mehrere-studenten-nach-protesten-verhaftet-a-dcc3da3f-5a9b-411d-adf4-f83aec6fa98e#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/iran-proteste-staatsmedien-melden-tod-einer-sicherheitskraft](https://www.spiegel.de/ausland/iran-proteste-staatsmedien-melden-tod-einer-sicherheitskraft-a-c19802bd-e39b-42ed-b407-85a2e878d70e#ref=rss)
-* [https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz](https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz-a-94914468-fcda-4c13-86b3-c932f1f9f49f#ref=rss)
-* [https://www.spiegel.de/ausland/suedamerika-us-militaer-versenkt-erneut-mutmassliche-drogenboote](https://www.spiegel.de/ausland/suedamerika-us-militaer-versenkt-erneut-mutmassliche-drogenboote-a-73acd7ed-8dc9-4f9d-b2c9-839a84a56c88#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-emmanuel-macron-will-soziale-medien-fuer-unter-15-jaehrige-verbieten](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-emmanuel-macron-will-soziale-medien-fuer-unter-15-jaehrige-verbieten-a-4212023c-d86f-456a-809e-e543f305f18c#ref=rss)
-### new
-
-* [https://www.spiegel.de/ausland/zohran-mamdani-tritt-buergermeisteramt-in-new-york-an](https://www.spiegel.de/ausland/zohran-mamdani-tritt-buergermeisteramt-in-new-york-an-a-d29c5e4e-cfa3-4df6-bf76-52e732c799ca#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-musical-in-new-york-2-stunden-und-20-minuten-um-trump-mal-kurz-zu-vergessen](https://www.spiegel.de/ausland/barack-obama-musical-in-new-york-2-stunden-und-20-minuten-um-trump-mal-kurz-zu-vergessen-a-4080972b-246a-49b1-9d0b-5e084c04a0bb#ref=rss)
-### cransmontana
-
-* [https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz](https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz-a-31811fb0-678d-4400-a55f-40c3cc3df4b6#ref=rss)
-* [https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana](https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana-a-798c53bc-6690-43c3-bbec-1d95331df5f0#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin](https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin-a-ce55bc85-6254-4df7-a13e-6ac8b18cc98c#ref=rss)
-* [https://www.spiegel.de/panorama/kitzbuehel-zwei-jugendliche-bei-lawinenabgang-auf-streif-abfahrt-teils-verschuettet](https://www.spiegel.de/panorama/kitzbuehel-zwei-jugendliche-bei-lawinenabgang-auf-streif-abfahrt-teils-verschuettet-a-974ca114-491b-4ec7-9945-6675762b656a#ref=rss)
-### verdienen
-
-* [https://www.spiegel.de/wirtschaft/verdienen-sie-was-sie-verdienen-6-menschen-sprechen-ueber-geld](https://www.spiegel.de/wirtschaft/verdienen-sie-was-sie-verdienen-6-menschen-sprechen-ueber-geld-a-551b3012-cc12-4014-b59c-2ab57f0b21a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/loehne-und-gehaelter-so-verdient-deutschland](https://www.spiegel.de/wirtschaft/loehne-und-gehaelter-so-verdient-deutschland-a-25259442-accf-4b54-9188-af9e108c90e2#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/loehne-und-gehaelter-so-verdient-deutschland](https://www.spiegel.de/wirtschaft/loehne-und-gehaelter-so-verdient-deutschland-a-25259442-accf-4b54-9188-af9e108c90e2#ref=rss)
-* [https://www.spiegel.de/panorama/niederlande-letztes-mal-boellern-kirche-in-amsterdam-in-flammen](https://www.spiegel.de/panorama/niederlande-letztes-mal-boellern-kirche-in-amsterdam-in-flammen-a-1628a235-0142-47bf-bc15-656a7788ff7c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/angst-bei-dunkelheit-warum-die-nacht-angst-macht-und-was-frauen-dagegen-machen](https://www.spiegel.de/wissenschaft/mensch/angst-bei-dunkelheit-warum-die-nacht-angst-macht-und-was-frauen-dagegen-machen-a-bf727e20-0baa-49e6-8d62-e72e6a2afbf2#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/loehne-und-gehaelter-so-verdient-deutschland](https://www.spiegel.de/wirtschaft/loehne-und-gehaelter-so-verdient-deutschland-a-25259442-accf-4b54-9188-af9e108c90e2#ref=rss)
-* [https://www.spiegel.de/ausland/iran-proteste-staatsmedien-melden-tod-einer-sicherheitskraft](https://www.spiegel.de/ausland/iran-proteste-staatsmedien-melden-tod-einer-sicherheitskraft-a-c19802bd-e39b-42ed-b407-85a2e878d70e#ref=rss)
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-wow-sky-neue-serien-und-filme-im-januar-2026](https://www.spiegel.de/kultur/tv/netflix-amazon-wow-sky-neue-serien-und-filme-im-januar-2026-a-63919f99-a35c-4c4a-8055-60cbbef976b8#ref=rss)
-### york
-
-* [https://www.spiegel.de/ausland/zohran-mamdani-tritt-buergermeisteramt-in-new-york-an](https://www.spiegel.de/ausland/zohran-mamdani-tritt-buergermeisteramt-in-new-york-an-a-d29c5e4e-cfa3-4df6-bf76-52e732c799ca#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-musical-in-new-york-2-stunden-und-20-minuten-um-trump-mal-kurz-zu-vergessen](https://www.spiegel.de/ausland/barack-obama-musical-in-new-york-2-stunden-und-20-minuten-um-trump-mal-kurz-zu-vergessen-a-4080972b-246a-49b1-9d0b-5e084c04a0bb#ref=rss)
-### silvester
-
-* [https://www.spiegel.de/ausland/zohran-mamdani-tritt-buergermeisteramt-in-new-york-an](https://www.spiegel.de/ausland/zohran-mamdani-tritt-buergermeisteramt-in-new-york-an-a-d29c5e4e-cfa3-4df6-bf76-52e732c799ca#ref=rss)
-* [https://www.spiegel.de/panorama/niederlande-letztes-mal-boellern-kirche-in-amsterdam-in-flammen](https://www.spiegel.de/panorama/niederlande-letztes-mal-boellern-kirche-in-amsterdam-in-flammen-a-1628a235-0142-47bf-bc15-656a7788ff7c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-meldet-zahlreiche-festnahmen-wegen-gefaehrlicher-boellerei](https://www.spiegel.de/panorama/justiz/polizei-meldet-zahlreiche-festnahmen-wegen-gefaehrlicher-boellerei-a-ec290e63-ccf5-447e-86ac-2276c0f3bb93#ref=rss)
-### tote
-
-* [https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz](https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz-a-31811fb0-678d-4400-a55f-40c3cc3df4b6#ref=rss)
-* [https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin](https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin-a-ce55bc85-6254-4df7-a13e-6ac8b18cc98c#ref=rss)
-* [https://www.spiegel.de/ausland/suedamerika-us-militaer-versenkt-erneut-mutmassliche-drogenboote](https://www.spiegel.de/ausland/suedamerika-us-militaer-versenkt-erneut-mutmassliche-drogenboote-a-73acd7ed-8dc9-4f9d-b2c9-839a84a56c88#ref=rss)
-### skiort
-
-* [https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz](https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz-a-31811fb0-678d-4400-a55f-40c3cc3df4b6#ref=rss)
-* [https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana](https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana-a-798c53bc-6690-43c3-bbec-1d95331df5f0#ref=rss)
-### schweizer
-
-* [https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz](https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz-a-31811fb0-678d-4400-a55f-40c3cc3df4b6#ref=rss)
-* [https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana](https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana-a-798c53bc-6690-43c3-bbec-1d95331df5f0#ref=rss)
-### böllern
-
-* [https://www.spiegel.de/panorama/niederlande-letztes-mal-boellern-kirche-in-amsterdam-in-flammen](https://www.spiegel.de/panorama/niederlande-letztes-mal-boellern-kirche-in-amsterdam-in-flammen-a-1628a235-0142-47bf-bc15-656a7788ff7c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-provoziert-erneut-mit-maennerspruch](https://www.spiegel.de/politik/deutschland/jette-nietzard-provoziert-erneut-mit-maennerspruch-a-39a47106-c1a8-44dd-a8c6-6bcb6c9c37e6#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz](https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz-a-94914468-fcda-4c13-86b3-c932f1f9f49f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-teilt-kritischen-artikel-ueber-wladimir-putin](https://www.spiegel.de/ausland/donald-trump-teilt-kritischen-artikel-ueber-wladimir-putin-a-1e5acbdd-2328-4dea-94d1-b8fb0140316d#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz](https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz-a-94914468-fcda-4c13-86b3-c932f1f9f49f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-teilt-kritischen-artikel-ueber-wladimir-putin](https://www.spiegel.de/ausland/donald-trump-teilt-kritischen-artikel-ueber-wladimir-putin-a-1e5acbdd-2328-4dea-94d1-b8fb0140316d#ref=rss)
-### festnahmen
-
-* [https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin](https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin-a-ce55bc85-6254-4df7-a13e-6ac8b18cc98c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-meldet-zahlreiche-festnahmen-wegen-gefaehrlicher-boellerei](https://www.spiegel.de/panorama/justiz/polizei-meldet-zahlreiche-festnahmen-wegen-gefaehrlicher-boellerei-a-ec290e63-ccf5-447e-86ac-2276c0f3bb93#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin](https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin-a-ce55bc85-6254-4df7-a13e-6ac8b18cc98c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-meldet-zahlreiche-festnahmen-wegen-gefaehrlicher-boellerei](https://www.spiegel.de/panorama/justiz/polizei-meldet-zahlreiche-festnahmen-wegen-gefaehrlicher-boellerei-a-ec290e63-ccf5-447e-86ac-2276c0f3bb93#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-wow-sky-neue-serien-und-filme-im-januar-2026](https://www.spiegel.de/kultur/tv/netflix-amazon-wow-sky-neue-serien-und-filme-im-januar-2026-a-63919f99-a35c-4c4a-8055-60cbbef976b8#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/zuversicht-fuer-2026-wir-muessen-da-jetzt-durch-aber-bitte-mit-einem-laecheln-im-gesicht](https://www.spiegel.de/panorama/gesellschaft/zuversicht-fuer-2026-wir-muessen-da-jetzt-durch-aber-bitte-mit-einem-laecheln-im-gesicht-a-9c4868c2-c198-4138-8a18-16e74c49bd92#ref=rss)
-### jahres
-
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-wow-sky-neue-serien-und-filme-im-januar-2026](https://www.spiegel.de/kultur/tv/netflix-amazon-wow-sky-neue-serien-und-filme-im-januar-2026-a-63919f99-a35c-4c4a-8055-60cbbef976b8#ref=rss)
-* [https://www.spiegel.de/kultur/von-land-ohne-vater-bis-house-of-houmsi-das-sind-die-besten-podcasts-des-jahres](https://www.spiegel.de/kultur/von-land-ohne-vater-bis-house-of-houmsi-das-sind-die-besten-podcasts-des-jahres-a-46c26d14-6d74-4149-9d87-8567f92519bf#ref=rss)
-### swift
-
-* [https://www.spiegel.de/panorama/leute/taylor-swift-schenkt-stadionmitarbeiterin-an-weihnachten-600-dollar](https://www.spiegel.de/panorama/leute/taylor-swift-schenkt-stadionmitarbeiterin-an-weihnachten-600-dollar-a-45440be5-b6d5-4424-b4a1-67b727aed3ba#ref=rss)
-### land
-
-* [https://www.spiegel.de/kultur/von-land-ohne-vater-bis-house-of-houmsi-das-sind-die-besten-podcasts-des-jahres](https://www.spiegel.de/kultur/von-land-ohne-vater-bis-house-of-houmsi-das-sind-die-besten-podcasts-des-jahres-a-46c26d14-6d74-4149-9d87-8567f92519bf#ref=rss)
-* [https://www.spiegel.de/partnerschaft/dating-event-single-ball-im-bridgerton-stil-in-mecklenburg-vorpommern](https://www.spiegel.de/partnerschaft/dating-event-single-ball-im-bridgerton-stil-in-mecklenburg-vorpommern-a-9b7a494c-acb6-4fb1-9e53-b968c92cd431#ref=rss)
-* [https://www.spiegel.de/ausland/iran-offenbar-mehrere-studenten-nach-protesten-verhaftet](https://www.spiegel.de/ausland/iran-offenbar-mehrere-studenten-nach-protesten-verhaftet-a-dcc3da3f-5a9b-411d-adf4-f83aec6fa98e#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/wirtschaft/verdienen-sie-was-sie-verdienen-6-menschen-sprechen-ueber-geld](https://www.spiegel.de/wirtschaft/verdienen-sie-was-sie-verdienen-6-menschen-sprechen-ueber-geld-a-551b3012-cc12-4014-b59c-2ab57f0b21a0#ref=rss)
-### erzählen
-
-* [https://www.spiegel.de/wirtschaft/verdienen-sie-was-sie-verdienen-6-menschen-sprechen-ueber-geld](https://www.spiegel.de/wirtschaft/verdienen-sie-was-sie-verdienen-6-menschen-sprechen-ueber-geld-a-551b3012-cc12-4014-b59c-2ab57f0b21a0#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/zuversicht-fuer-2026-wir-muessen-da-jetzt-durch-aber-bitte-mit-einem-laecheln-im-gesicht](https://www.spiegel.de/panorama/gesellschaft/zuversicht-fuer-2026-wir-muessen-da-jetzt-durch-aber-bitte-mit-einem-laecheln-im-gesicht-a-9c4868c2-c198-4138-8a18-16e74c49bd92#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/wirtschaft/verdienen-sie-was-sie-verdienen-6-menschen-sprechen-ueber-geld](https://www.spiegel.de/wirtschaft/verdienen-sie-was-sie-verdienen-6-menschen-sprechen-ueber-geld-a-551b3012-cc12-4014-b59c-2ab57f0b21a0#ref=rss)
-* [https://www.spiegel.de/start/landwirtin-werden-vivian-boellersen-ueber-ihre-arbeit-als-walnussbaeuerin-in-brandenburg](https://www.spiegel.de/start/landwirtin-werden-vivian-boellersen-ueber-ihre-arbeit-als-walnussbaeuerin-in-brandenburg-a-a87805be-34c0-49aa-b850-773935b1d3ff#ref=rss)
-### bekommen
-
-* [https://www.spiegel.de/wirtschaft/verdienen-sie-was-sie-verdienen-6-menschen-sprechen-ueber-geld](https://www.spiegel.de/wirtschaft/verdienen-sie-was-sie-verdienen-6-menschen-sprechen-ueber-geld-a-551b3012-cc12-4014-b59c-2ab57f0b21a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/loehne-und-gehaelter-so-verdient-deutschland](https://www.spiegel.de/wirtschaft/loehne-und-gehaelter-so-verdient-deutschland-a-25259442-accf-4b54-9188-af9e108c90e2#ref=rss)
-### große
-
-* [https://www.spiegel.de/wirtschaft/loehne-und-gehaelter-so-verdient-deutschland](https://www.spiegel.de/wirtschaft/loehne-und-gehaelter-so-verdient-deutschland-a-25259442-accf-4b54-9188-af9e108c90e2#ref=rss)
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-wow-sky-neue-serien-und-filme-im-januar-2026](https://www.spiegel.de/kultur/tv/netflix-amazon-wow-sky-neue-serien-und-filme-im-januar-2026-a-63919f99-a35c-4c4a-8055-60cbbef976b8#ref=rss)
-### gern
-
-* [https://www.spiegel.de/wirtschaft/loehne-und-gehaelter-so-verdient-deutschland](https://www.spiegel.de/wirtschaft/loehne-und-gehaelter-so-verdient-deutschland-a-25259442-accf-4b54-9188-af9e108c90e2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/angst-bei-dunkelheit-warum-die-nacht-angst-macht-und-was-frauen-dagegen-machen](https://www.spiegel.de/wissenschaft/mensch/angst-bei-dunkelheit-warum-die-nacht-angst-macht-und-was-frauen-dagegen-machen-a-bf727e20-0baa-49e6-8d62-e72e6a2afbf2#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wirtschaft/loehne-und-gehaelter-so-verdient-deutschland](https://www.spiegel.de/wirtschaft/loehne-und-gehaelter-so-verdient-deutschland-a-25259442-accf-4b54-9188-af9e108c90e2#ref=rss)
-* [https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin](https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin-a-ce55bc85-6254-4df7-a13e-6ac8b18cc98c#ref=rss)
-### staatsmedien
-
-* [https://www.spiegel.de/ausland/iran-proteste-staatsmedien-melden-tod-einer-sicherheitskraft](https://www.spiegel.de/ausland/iran-proteste-staatsmedien-melden-tod-einer-sicherheitskraft-a-c19802bd-e39b-42ed-b407-85a2e878d70e#ref=rss)
-### gekommen
-
-* [https://www.spiegel.de/ausland/iran-proteste-staatsmedien-melden-tod-einer-sicherheitskraft](https://www.spiegel.de/ausland/iran-proteste-staatsmedien-melden-tod-einer-sicherheitskraft-a-c19802bd-e39b-42ed-b407-85a2e878d70e#ref=rss)
-* [https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana](https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana-a-798c53bc-6690-43c3-bbec-1d95331df5f0#ref=rss)
-### gehören
-
-* [https://www.spiegel.de/ausland/iran-proteste-staatsmedien-melden-tod-einer-sicherheitskraft](https://www.spiegel.de/ausland/iran-proteste-staatsmedien-melden-tod-einer-sicherheitskraft-a-c19802bd-e39b-42ed-b407-85a2e878d70e#ref=rss)
-* [https://www.spiegel.de/ausland/suedamerika-us-militaer-versenkt-erneut-mutmassliche-drogenboote](https://www.spiegel.de/ausland/suedamerika-us-militaer-versenkt-erneut-mutmassliche-drogenboote-a-73acd7ed-8dc9-4f9d-b2c9-839a84a56c88#ref=rss)
-### zohran
-
-* [https://www.spiegel.de/ausland/zohran-mamdani-tritt-buergermeisteramt-in-new-york-an](https://www.spiegel.de/ausland/zohran-mamdani-tritt-buergermeisteramt-in-new-york-an-a-d29c5e4e-cfa3-4df6-bf76-52e732c799ca#ref=rss)
-### mamdani
-
-* [https://www.spiegel.de/ausland/zohran-mamdani-tritt-buergermeisteramt-in-new-york-an](https://www.spiegel.de/ausland/zohran-mamdani-tritt-buergermeisteramt-in-new-york-an-a-d29c5e4e-cfa3-4df6-bf76-52e732c799ca#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/ausland/zohran-mamdani-tritt-buergermeisteramt-in-new-york-an](https://www.spiegel.de/ausland/zohran-mamdani-tritt-buergermeisteramt-in-new-york-an-a-d29c5e4e-cfa3-4df6-bf76-52e732c799ca#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-musical-in-new-york-2-stunden-und-20-minuten-um-trump-mal-kurz-zu-vergessen](https://www.spiegel.de/ausland/barack-obama-musical-in-new-york-2-stunden-und-20-minuten-um-trump-mal-kurz-zu-vergessen-a-4080972b-246a-49b1-9d0b-5e084c04a0bb#ref=rss)
-### dutzende
-
-* [https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz](https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz-a-31811fb0-678d-4400-a55f-40c3cc3df4b6#ref=rss)
-### feuer
-
-* [https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz](https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz-a-31811fb0-678d-4400-a55f-40c3cc3df4b6#ref=rss)
+* [https://www.spiegel.de/ausland/japan-weibliche-abgeordnete-fordern-mehr-frauentoiletten-im-parlamentsgebaeude](https://www.spiegel.de/ausland/japan-weibliche-abgeordnete-fordern-mehr-frauentoiletten-im-parlamentsgebaeude-a-6ebc1af6-78ce-4105-b766-a56c9b11568e#ref=rss)
+* [https://www.spiegel.de/ausland/iran-erste-tote-bei-politischen-unruhen](https://www.spiegel.de/ausland/iran-erste-tote-bei-politischen-unruhen-a-e09fc27e-40d2-4813-9fa4-497fa75769d2#ref=rss)
+* [https://www.spiegel.de/panorama/erstmals-mehr-als-eine-halbe-million-pilger-auf-dem-jakobsweg](https://www.spiegel.de/panorama/erstmals-mehr-als-eine-halbe-million-pilger-auf-dem-jakobsweg-a-d9680bad-e294-43f9-91a0-f995060d4fd4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-und-trainer-enzo-maresca-trennen-sich](https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-und-trainer-enzo-maresca-trennen-sich-a-72da7497-78bb-41e0-b7a8-87eeb5e96950#ref=rss)
 ### bar
 
-* [https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz](https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz-a-31811fb0-678d-4400-a55f-40c3cc3df4b6#ref=rss)
-### silvesternacht
+* [https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist](https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist-a-9fe0096b-dc7f-49e8-99b6-f24d0ee4af18#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-augenzeugen-berichten-von-feuer-in-der-bar](https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-augenzeugen-berichten-von-feuer-in-der-bar-a-c055e69f-d3e2-49b3-b127-03a2be74fa11#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-amateuraufnahmen-zeigen-feuer-in-bar](https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-amateuraufnahmen-zeigen-feuer-in-bar-a-bcc7904d-5bf0-4cac-8682-3f612cc28f0d#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz](https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz-a-31811fb0-678d-4400-a55f-40c3cc3df4b6#ref=rss)
-* [https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin](https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin-a-ce55bc85-6254-4df7-a13e-6ac8b18cc98c#ref=rss)
-### verletzt
+* [https://www.spiegel.de/kultur/pink-beginnt-das-neue-jahr-mit-bandscheiben-op](https://www.spiegel.de/kultur/pink-beginnt-das-neue-jahr-mit-bandscheiben-op-a-7d52d866-0613-4608-a425-d4fc17a95dfa#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist](https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist-a-9fe0096b-dc7f-49e8-99b6-f24d0ee4af18#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bulgarien-fuehrt-euro-als-waehrung-ein](https://www.spiegel.de/wirtschaft/bulgarien-fuehrt-euro-als-waehrung-ein-a-009d26cc-db43-4693-b28e-b736df3f973e#ref=rss)
+* [https://www.spiegel.de/kultur/musik/wolfgang-niedecken-geht-positiv-ins-neue-jahr-weil-er-muss](https://www.spiegel.de/kultur/musik/wolfgang-niedecken-geht-positiv-ins-neue-jahr-weil-er-muss-a-f490bcca-5834-4b7d-9aad-c23e6b6da8e8#ref=rss)
+### cransmontana
 
-* [https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz](https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz-a-31811fb0-678d-4400-a55f-40c3cc3df4b6#ref=rss)
-* [https://www.spiegel.de/panorama/zugunglueck-bei-rosenheim-gueterwaggon-entgleist-streckensperrung-in-oberbayern](https://www.spiegel.de/panorama/zugunglueck-bei-rosenheim-gueterwaggon-entgleist-streckensperrung-in-oberbayern-a-422b05e3-fbe5-490c-90ac-d9fb51bdcc67#ref=rss)
-### hinweise
+* [https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist](https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist-a-9fe0096b-dc7f-49e8-99b6-f24d0ee4af18#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-augenzeugen-berichten-von-feuer-in-der-bar](https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-augenzeugen-berichten-von-feuer-in-der-bar-a-c055e69f-d3e2-49b3-b127-03a2be74fa11#ref=rss)
+* [https://www.spiegel.de/panorama/wallis-die-feuerkatastrophe-von-crans-montana](https://www.spiegel.de/panorama/wallis-die-feuerkatastrophe-von-crans-montana-a-f2ff895e-ae78-4b60-bb81-fd3ff0b31d6e#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-amateuraufnahmen-zeigen-feuer-in-bar](https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-amateuraufnahmen-zeigen-feuer-in-bar-a-bcc7904d-5bf0-4cac-8682-3f612cc28f0d#ref=rss)
+### vierschanzentournee
 
-* [https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz](https://www.spiegel.de/panorama/justiz/crans-montana-mehrere-tote-bei-explosion-in-bar-in-skiort-in-der-schweiz-a-31811fb0-678d-4400-a55f-40c3cc3df4b6#ref=rss)
-* [https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz](https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz-a-94914468-fcda-4c13-86b3-c932f1f9f49f#ref=rss)
-### ums
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-dominiert-in-garmisch-vorwuerfe-sorgen-fuer-aufruhr](https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-dominiert-in-garmisch-vorwuerfe-sorgen-fuer-aufruhr-a-769b8b98-1b11-45ec-b590-eb0d74a75eba#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-gewinnt-das-neujahrsspringen-in-garmisch-felix-hoffmann-sechster](https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-gewinnt-das-neujahrsspringen-in-garmisch-felix-hoffmann-sechster-a-fa352c88-68ce-42a9-a3b8-1fb8b8fce801#ref=rss)
+### domen
 
-* [https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana](https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana-a-798c53bc-6690-43c3-bbec-1d95331df5f0#ref=rss)
-* [https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin](https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin-a-ce55bc85-6254-4df7-a13e-6ac8b18cc98c#ref=rss)
-### leben
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-dominiert-in-garmisch-vorwuerfe-sorgen-fuer-aufruhr](https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-dominiert-in-garmisch-vorwuerfe-sorgen-fuer-aufruhr-a-769b8b98-1b11-45ec-b590-eb0d74a75eba#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-gewinnt-das-neujahrsspringen-in-garmisch-felix-hoffmann-sechster](https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-gewinnt-das-neujahrsspringen-in-garmisch-felix-hoffmann-sechster-a-fa352c88-68ce-42a9-a3b8-1fb8b8fce801#ref=rss)
+### erste
 
-* [https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana](https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana-a-798c53bc-6690-43c3-bbec-1d95331df5f0#ref=rss)
-* [https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin](https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin-a-ce55bc85-6254-4df7-a13e-6ac8b18cc98c#ref=rss)
-### äußert
+* [https://www.spiegel.de/ausland/iran-erste-tote-bei-politischen-unruhen](https://www.spiegel.de/ausland/iran-erste-tote-bei-politischen-unruhen-a-e09fc27e-40d2-4813-9fa4-497fa75769d2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/ellen-moons-ist-erste-frau-an-der-spitze-der-koeniglich-schwedischen-akademie](https://www.spiegel.de/wissenschaft/ellen-moons-ist-erste-frau-an-der-spitze-der-koeniglich-schwedischen-akademie-a-56d35a62-98f3-494f-b30c-2ed391966045#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ricarda-lang-ich-musste-mich-regelrecht-zwingen-das-erste-mal-ins-gym-zu-gehen](https://www.spiegel.de/politik/deutschland/ricarda-lang-ich-musste-mich-regelrecht-zwingen-das-erste-mal-ins-gym-zu-gehen-a-65b6af60-21c6-4607-b9c0-4d7df8c05046#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana](https://www.spiegel.de/panorama/das-sagt-die-schweizer-polizei-zur-explosion-in-crans-montana-a-798c53bc-6690-43c3-bbec-1d95331df5f0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-provoziert-erneut-mit-maennerspruch](https://www.spiegel.de/politik/deutschland/jette-nietzard-provoziert-erneut-mit-maennerspruch-a-39a47106-c1a8-44dd-a8c6-6bcb6c9c37e6#ref=rss)
-### kirche
+* [https://www.spiegel.de/ausland/donald-trump-und-benjamin-netanyahu-haben-zusammen-silvester-in-florida-gefeiert](https://www.spiegel.de/ausland/donald-trump-und-benjamin-netanyahu-haben-zusammen-silvester-in-florida-gefeiert-a-f22ba975-e805-4a52-9233-56a7a78a622f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-kritisiert-frankreich-wegen-staatsbuergerschaft-fuer-george-clooney](https://www.spiegel.de/ausland/donald-trump-kritisiert-frankreich-wegen-staatsbuergerschaft-fuer-george-clooney-a-3c5c67a0-8345-479f-98cd-5a12bb784adc#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/niederlande-letztes-mal-boellern-kirche-in-amsterdam-in-flammen](https://www.spiegel.de/panorama/niederlande-letztes-mal-boellern-kirche-in-amsterdam-in-flammen-a-1628a235-0142-47bf-bc15-656a7788ff7c#ref=rss)
-### amsterdam
+* [https://www.spiegel.de/ausland/donald-trump-und-benjamin-netanyahu-haben-zusammen-silvester-in-florida-gefeiert](https://www.spiegel.de/ausland/donald-trump-und-benjamin-netanyahu-haben-zusammen-silvester-in-florida-gefeiert-a-f22ba975-e805-4a52-9233-56a7a78a622f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-kritisiert-frankreich-wegen-staatsbuergerschaft-fuer-george-clooney](https://www.spiegel.de/ausland/donald-trump-kritisiert-frankreich-wegen-staatsbuergerschaft-fuer-george-clooney-a-3c5c67a0-8345-479f-98cd-5a12bb784adc#ref=rss)
+### schweiz
 
-* [https://www.spiegel.de/panorama/niederlande-letztes-mal-boellern-kirche-in-amsterdam-in-flammen](https://www.spiegel.de/panorama/niederlande-letztes-mal-boellern-kirche-in-amsterdam-in-flammen-a-1628a235-0142-47bf-bc15-656a7788ff7c#ref=rss)
-### richtig
+* [https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist](https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist-a-9fe0096b-dc7f-49e8-99b6-f24d0ee4af18#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-augenzeugen-berichten-von-feuer-in-der-bar](https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-augenzeugen-berichten-von-feuer-in-der-bar-a-c055e69f-d3e2-49b3-b127-03a2be74fa11#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-amateuraufnahmen-zeigen-feuer-in-bar](https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-amateuraufnahmen-zeigen-feuer-in-bar-a-bcc7904d-5bf0-4cac-8682-3f612cc28f0d#ref=rss)
+### berichten
 
-* [https://www.spiegel.de/panorama/niederlande-letztes-mal-boellern-kirche-in-amsterdam-in-flammen](https://www.spiegel.de/panorama/niederlande-letztes-mal-boellern-kirche-in-amsterdam-in-flammen-a-1628a235-0142-47bf-bc15-656a7788ff7c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/angst-bei-dunkelheit-warum-die-nacht-angst-macht-und-was-frauen-dagegen-machen](https://www.spiegel.de/wissenschaft/mensch/angst-bei-dunkelheit-warum-die-nacht-angst-macht-und-was-frauen-dagegen-machen-a-bf727e20-0baa-49e6-8d62-e72e6a2afbf2#ref=rss)
-### brand
+* [https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-augenzeugen-berichten-von-feuer-in-der-bar](https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-augenzeugen-berichten-von-feuer-in-der-bar-a-c055e69f-d3e2-49b3-b127-03a2be74fa11#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/mehrwertsteuersenkung-in-der-gastronomie-drei-wirte-berichten-was-sie-wirklich-bringt](https://www.spiegel.de/wirtschaft/unternehmen/mehrwertsteuersenkung-in-der-gastronomie-drei-wirte-berichten-was-sie-wirklich-bringt-a-93a77196-3014-436e-a189-7c79557d581c#ref=rss)
+### feuer
 
-* [https://www.spiegel.de/panorama/niederlande-letztes-mal-boellern-kirche-in-amsterdam-in-flammen](https://www.spiegel.de/panorama/niederlande-letztes-mal-boellern-kirche-in-amsterdam-in-flammen-a-1628a235-0142-47bf-bc15-656a7788ff7c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/polizei-meldet-zahlreiche-festnahmen-wegen-gefaehrlicher-boellerei](https://www.spiegel.de/panorama/justiz/polizei-meldet-zahlreiche-festnahmen-wegen-gefaehrlicher-boellerei-a-ec290e63-ccf5-447e-86ac-2276c0f3bb93#ref=rss)
-### putins
+* [https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-augenzeugen-berichten-von-feuer-in-der-bar](https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-augenzeugen-berichten-von-feuer-in-der-bar-a-c055e69f-d3e2-49b3-b127-03a2be74fa11#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-amateuraufnahmen-zeigen-feuer-in-bar](https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-amateuraufnahmen-zeigen-feuer-in-bar-a-bcc7904d-5bf0-4cac-8682-3f612cc28f0d#ref=rss)
+### iran
 
-* [https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz](https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz-a-94914468-fcda-4c13-86b3-c932f1f9f49f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-teilt-kritischen-artikel-ueber-wladimir-putin](https://www.spiegel.de/ausland/donald-trump-teilt-kritischen-artikel-ueber-wladimir-putin-a-1e5acbdd-2328-4dea-94d1-b8fb0140316d#ref=rss)
-### residenz
+* [https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien](https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien-a-dcdb62a4-ad2f-47b9-a199-dd1681662044#ref=rss)
+* [https://www.spiegel.de/ausland/iran-erste-tote-bei-politischen-unruhen](https://www.spiegel.de/ausland/iran-erste-tote-bei-politischen-unruhen-a-e09fc27e-40d2-4813-9fa4-497fa75769d2#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz](https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz-a-94914468-fcda-4c13-86b3-c932f1f9f49f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-teilt-kritischen-artikel-ueber-wladimir-putin](https://www.spiegel.de/ausland/donald-trump-teilt-kritischen-artikel-ueber-wladimir-putin-a-1e5acbdd-2328-4dea-94d1-b8fb0140316d#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz](https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz-a-94914468-fcda-4c13-86b3-c932f1f9f49f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-teilt-kritischen-artikel-ueber-wladimir-putin](https://www.spiegel.de/ausland/donald-trump-teilt-kritischen-artikel-ueber-wladimir-putin-a-1e5acbdd-2328-4dea-94d1-b8fb0140316d#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz](https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz-a-94914468-fcda-4c13-86b3-c932f1f9f49f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-teilt-kritischen-artikel-ueber-wladimir-putin](https://www.spiegel.de/ausland/donald-trump-teilt-kritischen-artikel-ueber-wladimir-putin-a-1e5acbdd-2328-4dea-94d1-b8fb0140316d#ref=rss)
-### attackiert
-
-* [https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz](https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz-a-94914468-fcda-4c13-86b3-c932f1f9f49f#ref=rss)
-* [https://www.spiegel.de/ausland/suedamerika-us-militaer-versenkt-erneut-mutmassliche-drogenboote](https://www.spiegel.de/ausland/suedamerika-us-militaer-versenkt-erneut-mutmassliche-drogenboote-a-73acd7ed-8dc9-4f9d-b2c9-839a84a56c88#ref=rss)
-### medienberichten
-
-* [https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz](https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz-a-94914468-fcda-4c13-86b3-c932f1f9f49f#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-emmanuel-macron-will-soziale-medien-fuer-unter-15-jaehrige-verbieten](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-emmanuel-macron-will-soziale-medien-fuer-unter-15-jaehrige-verbieten-a-4212023c-d86f-456a-809e-e543f305f18c#ref=rss)
-### keinen
-
-* [https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz](https://www.spiegel.de/ausland/cia-sieht-keine-hinweise-fuer-ukrainischen-angriff-auf-putins-residenz-a-94914468-fcda-4c13-86b3-c932f1f9f49f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-provoziert-erneut-mit-maennerspruch](https://www.spiegel.de/politik/deutschland/jette-nietzard-provoziert-erneut-mit-maennerspruch-a-39a47106-c1a8-44dd-a8c6-6bcb6c9c37e6#ref=rss)
-### bisschen
-
-* [https://www.spiegel.de/ausland/barack-obama-musical-in-new-york-2-stunden-und-20-minuten-um-trump-mal-kurz-zu-vergessen](https://www.spiegel.de/ausland/barack-obama-musical-in-new-york-2-stunden-und-20-minuten-um-trump-mal-kurz-zu-vergessen-a-4080972b-246a-49b1-9d0b-5e084c04a0bb#ref=rss)
-### wolodymyr
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-optimistisch-ueber-baldiges-friedensabkommen](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-optimistisch-ueber-baldiges-friedensabkommen-a-e657d334-edfb-4fa1-8f30-faddfa6cc38f#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-optimistisch-ueber-baldiges-friedensabkommen](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-optimistisch-ueber-baldiges-friedensabkommen-a-e657d334-edfb-4fa1-8f30-faddfa6cc38f#ref=rss)
-### baldiges
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-optimistisch-ueber-baldiges-friedensabkommen](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-optimistisch-ueber-baldiges-friedensabkommen-a-e657d334-edfb-4fa1-8f30-faddfa6cc38f#ref=rss)
-### friedensabkommen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-optimistisch-ueber-baldiges-friedensabkommen](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-optimistisch-ueber-baldiges-friedensabkommen-a-e657d334-edfb-4fa1-8f30-faddfa6cc38f#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-optimistisch-ueber-baldiges-friedensabkommen](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-optimistisch-ueber-baldiges-friedensabkommen-a-e657d334-edfb-4fa1-8f30-faddfa6cc38f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/angst-bei-dunkelheit-warum-die-nacht-angst-macht-und-was-frauen-dagegen-machen](https://www.spiegel.de/wissenschaft/mensch/angst-bei-dunkelheit-warum-die-nacht-angst-macht-und-was-frauen-dagegen-machen-a-bf727e20-0baa-49e6-8d62-e72e6a2afbf2#ref=rss)
-### hoffnung
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-optimistisch-ueber-baldiges-friedensabkommen](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-optimistisch-ueber-baldiges-friedensabkommen-a-e657d334-edfb-4fa1-8f30-faddfa6cc38f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/zuversicht-fuer-2026-wir-muessen-da-jetzt-durch-aber-bitte-mit-einem-laecheln-im-gesicht](https://www.spiegel.de/panorama/gesellschaft/zuversicht-fuer-2026-wir-muessen-da-jetzt-durch-aber-bitte-mit-einem-laecheln-im-gesicht-a-9c4868c2-c198-4138-8a18-16e74c49bd92#ref=rss)
-### bielefeld
-
-* [https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin](https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin-a-ce55bc85-6254-4df7-a13e-6ac8b18cc98c#ref=rss)
-### pyrotechnik
-
-* [https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin](https://www.spiegel.de/panorama/jahreswechsel-in-deutschland-zwei-tote-in-bielefeld-400-festnahmen-in-berlin-a-ce55bc85-6254-4df7-a13e-6ac8b18cc98c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-polizei-findet-bei-durchsuchungen-illegale-pyrotechnik](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-polizei-findet-bei-durchsuchungen-illegale-pyrotechnik-a-8cf19e8e-2913-4243-adff-6a02c09d825b#ref=rss)
-### neil
-
-* [https://www.spiegel.de/sport/ich-dachte-scheisse-was-werden-sie-im-labor-zu-den-bildern-sagen](https://www.spiegel.de/sport/ich-dachte-scheisse-was-werden-sie-im-labor-zu-den-bildern-sagen-a-1fd5d5f6-5b21-409b-9ea9-5e594ed36692#ref=rss)
-### leifer
-
-* [https://www.spiegel.de/sport/ich-dachte-scheisse-was-werden-sie-im-labor-zu-den-bildern-sagen](https://www.spiegel.de/sport/ich-dachte-scheisse-was-werden-sie-im-labor-zu-den-bildern-sagen-a-1fd5d5f6-5b21-409b-9ea9-5e594ed36692#ref=rss)
-### vivian
-
-* [https://www.spiegel.de/start/landwirtin-werden-vivian-boellersen-ueber-ihre-arbeit-als-walnussbaeuerin-in-brandenburg](https://www.spiegel.de/start/landwirtin-werden-vivian-boellersen-ueber-ihre-arbeit-als-walnussbaeuerin-in-brandenburg-a-a87805be-34c0-49aa-b850-773935b1d3ff#ref=rss)
-### böllersen
-
-* [https://www.spiegel.de/start/landwirtin-werden-vivian-boellersen-ueber-ihre-arbeit-als-walnussbaeuerin-in-brandenburg](https://www.spiegel.de/start/landwirtin-werden-vivian-boellersen-ueber-ihre-arbeit-als-walnussbaeuerin-in-brandenburg-a-a87805be-34c0-49aa-b850-773935b1d3ff#ref=rss)
-### walnussbäuerin
-
-* [https://www.spiegel.de/start/landwirtin-werden-vivian-boellersen-ueber-ihre-arbeit-als-walnussbaeuerin-in-brandenburg](https://www.spiegel.de/start/landwirtin-werden-vivian-boellersen-ueber-ihre-arbeit-als-walnussbaeuerin-in-brandenburg-a-a87805be-34c0-49aa-b850-773935b1d3ff#ref=rss)
-### brandenburg
-
-* [https://www.spiegel.de/start/landwirtin-werden-vivian-boellersen-ueber-ihre-arbeit-als-walnussbaeuerin-in-brandenburg](https://www.spiegel.de/start/landwirtin-werden-vivian-boellersen-ueber-ihre-arbeit-als-walnussbaeuerin-in-brandenburg-a-a87805be-34c0-49aa-b850-773935b1d3ff#ref=rss)
-### januar
-
-* [https://www.spiegel.de/kultur/tv/netflix-amazon-wow-sky-neue-serien-und-filme-im-januar-2026](https://www.spiegel.de/kultur/tv/netflix-amazon-wow-sky-neue-serien-und-filme-im-januar-2026-a-63919f99-a35c-4c4a-8055-60cbbef976b8#ref=rss)
-### liebesgarten
-
-* [https://www.spiegel.de/geschichte/rubens-gemaelde-der-liebesgarten-hand-auf-brust-verliebte-blicke-wasserspiele](https://www.spiegel.de/geschichte/rubens-gemaelde-der-liebesgarten-hand-auf-brust-verliebte-blicke-wasserspiele-a-1c6a94f4-17ac-4dff-9982-b9542aa23fb4#ref=rss)
-### hand
-
-* [https://www.spiegel.de/geschichte/rubens-gemaelde-der-liebesgarten-hand-auf-brust-verliebte-blicke-wasserspiele](https://www.spiegel.de/geschichte/rubens-gemaelde-der-liebesgarten-hand-auf-brust-verliebte-blicke-wasserspiele-a-1c6a94f4-17ac-4dff-9982-b9542aa23fb4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-provoziert-erneut-mit-maennerspruch](https://www.spiegel.de/politik/deutschland/jette-nietzard-provoziert-erneut-mit-maennerspruch-a-39a47106-c1a8-44dd-a8c6-6bcb6c9c37e6#ref=rss)
-### verliebte
-
-* [https://www.spiegel.de/geschichte/rubens-gemaelde-der-liebesgarten-hand-auf-brust-verliebte-blicke-wasserspiele](https://www.spiegel.de/geschichte/rubens-gemaelde-der-liebesgarten-hand-auf-brust-verliebte-blicke-wasserspiele-a-1c6a94f4-17ac-4dff-9982-b9542aa23fb4#ref=rss)
-### blicke
-
-* [https://www.spiegel.de/geschichte/rubens-gemaelde-der-liebesgarten-hand-auf-brust-verliebte-blicke-wasserspiele](https://www.spiegel.de/geschichte/rubens-gemaelde-der-liebesgarten-hand-auf-brust-verliebte-blicke-wasserspiele-a-1c6a94f4-17ac-4dff-9982-b9542aa23fb4#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien](https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien-a-dcdb62a4-ad2f-47b9-a199-dd1681662044#ref=rss)
+* [https://www.spiegel.de/wissenschaft/ellen-moons-ist-erste-frau-an-der-spitze-der-koeniglich-schwedischen-akademie](https://www.spiegel.de/wissenschaft/ellen-moons-ist-erste-frau-an-der-spitze-der-koeniglich-schwedischen-akademie-a-56d35a62-98f3-494f-b30c-2ed391966045#ref=rss)
+* [https://www.spiegel.de/panorama/erstmals-mehr-als-eine-halbe-million-pilger-auf-dem-jakobsweg](https://www.spiegel.de/panorama/erstmals-mehr-als-eine-halbe-million-pilger-auf-dem-jakobsweg-a-d9680bad-e294-43f9-91a0-f995060d4fd4#ref=rss)
 ### drei
 
-* [https://www.spiegel.de/ausland/suedamerika-us-militaer-versenkt-erneut-mutmassliche-drogenboote](https://www.spiegel.de/ausland/suedamerika-us-militaer-versenkt-erneut-mutmassliche-drogenboote-a-73acd7ed-8dc9-4f9d-b2c9-839a84a56c88#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-polizei-findet-bei-durchsuchungen-illegale-pyrotechnik](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-polizei-findet-bei-durchsuchungen-illegale-pyrotechnik-a-8cf19e8e-2913-4243-adff-6a02c09d825b#ref=rss)
-### offenbar
+* [https://www.spiegel.de/wissenschaft/ellen-moons-ist-erste-frau-an-der-spitze-der-koeniglich-schwedischen-akademie](https://www.spiegel.de/wissenschaft/ellen-moons-ist-erste-frau-an-der-spitze-der-koeniglich-schwedischen-akademie-a-56d35a62-98f3-494f-b30c-2ed391966045#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/mehrwertsteuersenkung-in-der-gastronomie-drei-wirte-berichten-was-sie-wirklich-bringt](https://www.spiegel.de/wirtschaft/unternehmen/mehrwertsteuersenkung-in-der-gastronomie-drei-wirte-berichten-was-sie-wirklich-bringt-a-93a77196-3014-436e-a189-7c79557d581c#ref=rss)
+### endet
 
-* [https://www.spiegel.de/politik/deutschland/jette-nietzard-provoziert-erneut-mit-maennerspruch](https://www.spiegel.de/politik/deutschland/jette-nietzard-provoziert-erneut-mit-maennerspruch-a-39a47106-c1a8-44dd-a8c6-6bcb6c9c37e6#ref=rss)
-* [https://www.spiegel.de/ausland/iran-offenbar-mehrere-studenten-nach-protesten-verhaftet](https://www.spiegel.de/ausland/iran-offenbar-mehrere-studenten-nach-protesten-verhaftet-a-dcc3da3f-5a9b-411d-adf4-f83aec6fa98e#ref=rss)
-### nationalgarde
+* [https://www.spiegel.de/kultur/tv/finale-von-stranger-things-nimm-dies-elon-musk](https://www.spiegel.de/kultur/tv/finale-von-stranger-things-nimm-dies-elon-musk-a-31f799b7-2c77-49ce-8654-458b4c789b5f#ref=rss)
+* [https://www.spiegel.de/panorama/wallis-die-feuerkatastrophe-von-crans-montana](https://www.spiegel.de/panorama/wallis-die-feuerkatastrophe-von-crans-montana-a-f2ff895e-ae78-4b60-bb81-fd3ff0b31d6e#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-amateuraufnahmen-zeigen-feuer-in-bar](https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-amateuraufnahmen-zeigen-feuer-in-bar-a-bcc7904d-5bf0-4cac-8682-3f612cc28f0d#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/ausland/donald-trump-kuendigt-abzug-der-nationalgarde-aus-chicago-los-angeles-und-portland-an](https://www.spiegel.de/ausland/donald-trump-kuendigt-abzug-der-nationalgarde-aus-chicago-los-angeles-und-portland-an-a-3e46edda-aff7-46e6-badd-553c8122ce06#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-das-kommt-2026-auf-die-deutsche-politik-zu](https://www.spiegel.de/politik/deutschland/deutschland-das-kommt-2026-auf-die-deutsche-politik-zu-a-13fcea6e-659c-41bc-b39b-12026debcf28#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krankenkassen-fast-die-haelfte-der-kassen-erhoeht-2026-ihre-beitraege](https://www.spiegel.de/wirtschaft/krankenkassen-fast-die-haelfte-der-kassen-erhoeht-2026-ihre-beitraege-a-ef9fb188-ecba-46f0-bfb8-87c47cc8c0e1#ref=rss)
+### pink
+
+* [https://www.spiegel.de/kultur/pink-beginnt-das-neue-jahr-mit-bandscheiben-op](https://www.spiegel.de/kultur/pink-beginnt-das-neue-jahr-mit-bandscheiben-op-a-7d52d866-0613-4608-a425-d4fc17a95dfa#ref=rss)
+### two
+
+* [https://www.spiegel.de/sport/wintersport/two-nights-tour-skispringerin-nika-prevc-gewinnt-trotz-patzer-auch-dritte-ausgabe](https://www.spiegel.de/sport/wintersport/two-nights-tour-skispringerin-nika-prevc-gewinnt-trotz-patzer-auch-dritte-ausgabe-a-07ffc7a8-f815-4b7a-92ce-e2a1045d892d#ref=rss)
+### nights
+
+* [https://www.spiegel.de/sport/wintersport/two-nights-tour-skispringerin-nika-prevc-gewinnt-trotz-patzer-auch-dritte-ausgabe](https://www.spiegel.de/sport/wintersport/two-nights-tour-skispringerin-nika-prevc-gewinnt-trotz-patzer-auch-dritte-ausgabe-a-07ffc7a8-f815-4b7a-92ce-e2a1045d892d#ref=rss)
+### tour
+
+* [https://www.spiegel.de/sport/wintersport/two-nights-tour-skispringerin-nika-prevc-gewinnt-trotz-patzer-auch-dritte-ausgabe](https://www.spiegel.de/sport/wintersport/two-nights-tour-skispringerin-nika-prevc-gewinnt-trotz-patzer-auch-dritte-ausgabe-a-07ffc7a8-f815-4b7a-92ce-e2a1045d892d#ref=rss)
+### nika
+
+* [https://www.spiegel.de/sport/wintersport/two-nights-tour-skispringerin-nika-prevc-gewinnt-trotz-patzer-auch-dritte-ausgabe](https://www.spiegel.de/sport/wintersport/two-nights-tour-skispringerin-nika-prevc-gewinnt-trotz-patzer-auch-dritte-ausgabe-a-07ffc7a8-f815-4b7a-92ce-e2a1045d892d#ref=rss)
+### gewinnt
+
+* [https://www.spiegel.de/sport/wintersport/two-nights-tour-skispringerin-nika-prevc-gewinnt-trotz-patzer-auch-dritte-ausgabe](https://www.spiegel.de/sport/wintersport/two-nights-tour-skispringerin-nika-prevc-gewinnt-trotz-patzer-auch-dritte-ausgabe-a-07ffc7a8-f815-4b7a-92ce-e2a1045d892d#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-gewinnt-das-neujahrsspringen-in-garmisch-felix-hoffmann-sechster](https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-gewinnt-das-neujahrsspringen-in-garmisch-felix-hoffmann-sechster-a-fa352c88-68ce-42a9-a3b8-1fb8b8fce801#ref=rss)
+### ende
+
+* [https://www.spiegel.de/sport/wintersport/two-nights-tour-skispringerin-nika-prevc-gewinnt-trotz-patzer-auch-dritte-ausgabe](https://www.spiegel.de/sport/wintersport/two-nights-tour-skispringerin-nika-prevc-gewinnt-trotz-patzer-auch-dritte-ausgabe-a-07ffc7a8-f815-4b7a-92ce-e2a1045d892d#ref=rss)
+* [https://www.spiegel.de/panorama/erstmals-mehr-als-eine-halbe-million-pilger-auf-dem-jakobsweg](https://www.spiegel.de/panorama/erstmals-mehr-als-eine-halbe-million-pilger-auf-dem-jakobsweg-a-d9680bad-e294-43f9-91a0-f995060d4fd4#ref=rss)
+### sterben
+
+* [https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist](https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist-a-9fe0096b-dc7f-49e8-99b6-f24d0ee4af18#ref=rss)
+* [https://www.spiegel.de/panorama/wallis-die-feuerkatastrophe-von-crans-montana](https://www.spiegel.de/panorama/wallis-die-feuerkatastrophe-von-crans-montana-a-f2ff895e-ae78-4b60-bb81-fd3ff0b31d6e#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist](https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist-a-9fe0096b-dc7f-49e8-99b6-f24d0ee4af18#ref=rss)
+* [https://www.spiegel.de/panorama/wallis-die-feuerkatastrophe-von-crans-montana](https://www.spiegel.de/panorama/wallis-die-feuerkatastrophe-von-crans-montana-a-f2ff895e-ae78-4b60-bb81-fd3ff0b31d6e#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist](https://www.spiegel.de/ausland/schweiz-crans-montana-was-ueber-das-brand-unglueck-bekannt-ist-a-9fe0096b-dc7f-49e8-99b6-f24d0ee4af18#ref=rss)
+* [https://www.spiegel.de/panorama/wallis-die-feuerkatastrophe-von-crans-montana](https://www.spiegel.de/panorama/wallis-die-feuerkatastrophe-von-crans-montana-a-f2ff895e-ae78-4b60-bb81-fd3ff0b31d6e#ref=rss)
+### senta
+
+* [https://www.spiegel.de/panorama/senta-berger-muss-das-altwerden-lernen-und-das-alleinsein](https://www.spiegel.de/panorama/senta-berger-muss-das-altwerden-lernen-und-das-alleinsein-a-5caa3a15-4b21-41fd-bb7a-abdc2d54314d#ref=rss)
+### garmisch
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-dominiert-in-garmisch-vorwuerfe-sorgen-fuer-aufruhr](https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-dominiert-in-garmisch-vorwuerfe-sorgen-fuer-aufruhr-a-769b8b98-1b11-45ec-b590-eb0d74a75eba#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-gewinnt-das-neujahrsspringen-in-garmisch-felix-hoffmann-sechster](https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-gewinnt-das-neujahrsspringen-in-garmisch-felix-hoffmann-sechster-a-fa352c88-68ce-42a9-a3b8-1fb8b8fce801#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-dominiert-in-garmisch-vorwuerfe-sorgen-fuer-aufruhr](https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-dominiert-in-garmisch-vorwuerfe-sorgen-fuer-aufruhr-a-769b8b98-1b11-45ec-b590-eb0d74a75eba#ref=rss)
+### davon
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-dominiert-in-garmisch-vorwuerfe-sorgen-fuer-aufruhr](https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-dominiert-in-garmisch-vorwuerfe-sorgen-fuer-aufruhr-a-769b8b98-1b11-45ec-b590-eb0d74a75eba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/mehrwertsteuersenkung-in-der-gastronomie-drei-wirte-berichten-was-sie-wirklich-bringt](https://www.spiegel.de/wirtschaft/unternehmen/mehrwertsteuersenkung-in-der-gastronomie-drei-wirte-berichten-was-sie-wirklich-bringt-a-93a77196-3014-436e-a189-7c79557d581c#ref=rss)
 ### medien
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-emmanuel-macron-will-soziale-medien-fuer-unter-15-jaehrige-verbieten](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-emmanuel-macron-will-soziale-medien-fuer-unter-15-jaehrige-verbieten-a-4212023c-d86f-456a-809e-e543f305f18c#ref=rss)
-### unter
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-dominiert-in-garmisch-vorwuerfe-sorgen-fuer-aufruhr](https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-dominiert-in-garmisch-vorwuerfe-sorgen-fuer-aufruhr-a-769b8b98-1b11-45ec-b590-eb0d74a75eba#ref=rss)
+* [https://www.spiegel.de/ausland/iran-erste-tote-bei-politischen-unruhen](https://www.spiegel.de/ausland/iran-erste-tote-bei-politischen-unruhen-a-e09fc27e-40d2-4813-9fa4-497fa75769d2#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/frankreich-emmanuel-macron-will-soziale-medien-fuer-unter-15-jaehrige-verbieten](https://www.spiegel.de/netzwelt/netzpolitik/frankreich-emmanuel-macron-will-soziale-medien-fuer-unter-15-jaehrige-verbieten-a-4212023c-d86f-456a-809e-e543f305f18c#ref=rss)
-### berliner
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-dominiert-in-garmisch-vorwuerfe-sorgen-fuer-aufruhr](https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-dominiert-in-garmisch-vorwuerfe-sorgen-fuer-aufruhr-a-769b8b98-1b11-45ec-b590-eb0d74a75eba#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-vision-pro-apple-kuerzt-werbebudget-fuer-seine-computerbrille](https://www.spiegel.de/netzwelt/gadgets/apple-vision-pro-apple-kuerzt-werbebudget-fuer-seine-computerbrille-a-8c9d92de-83d7-4257-87e5-d7453d6f9d36#ref=rss)
+### schweizer
 
-* [https://www.spiegel.de/panorama/justiz/polizei-meldet-zahlreiche-festnahmen-wegen-gefaehrlicher-boellerei](https://www.spiegel.de/panorama/justiz/polizei-meldet-zahlreiche-festnahmen-wegen-gefaehrlicher-boellerei-a-ec290e63-ccf5-447e-86ac-2276c0f3bb93#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-neukoelln-polizei-findet-bei-durchsuchungen-illegale-pyrotechnik](https://www.spiegel.de/panorama/justiz/berlin-neukoelln-polizei-findet-bei-durchsuchungen-illegale-pyrotechnik-a-8cf19e8e-2913-4243-adff-6a02c09d825b#ref=rss)
-### kitzbühel
+* [https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-augenzeugen-berichten-von-feuer-in-der-bar](https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-augenzeugen-berichten-von-feuer-in-der-bar-a-c055e69f-d3e2-49b3-b127-03a2be74fa11#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-amateuraufnahmen-zeigen-feuer-in-bar](https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-amateuraufnahmen-zeigen-feuer-in-bar-a-bcc7904d-5bf0-4cac-8682-3f612cc28f0d#ref=rss)
+### restaurant
 
-* [https://www.spiegel.de/panorama/kitzbuehel-zwei-jugendliche-bei-lawinenabgang-auf-streif-abfahrt-teils-verschuettet](https://www.spiegel.de/panorama/kitzbuehel-zwei-jugendliche-bei-lawinenabgang-auf-streif-abfahrt-teils-verschuettet-a-974ca114-491b-4ec7-9945-6675762b656a#ref=rss)
-### streifabfahrt
+* [https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-augenzeugen-berichten-von-feuer-in-der-bar](https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-augenzeugen-berichten-von-feuer-in-der-bar-a-c055e69f-d3e2-49b3-b127-03a2be74fa11#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/mehrwertsteuersenkung-in-der-gastronomie-drei-wirte-berichten-was-sie-wirklich-bringt](https://www.spiegel.de/wirtschaft/unternehmen/mehrwertsteuersenkung-in-der-gastronomie-drei-wirte-berichten-was-sie-wirklich-bringt-a-93a77196-3014-436e-a189-7c79557d581c#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/panorama/kitzbuehel-zwei-jugendliche-bei-lawinenabgang-auf-streif-abfahrt-teils-verschuettet](https://www.spiegel.de/panorama/kitzbuehel-zwei-jugendliche-bei-lawinenabgang-auf-streif-abfahrt-teils-verschuettet-a-974ca114-491b-4ec7-9945-6675762b656a#ref=rss)
-### verschüttet
+* [https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien](https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien-a-dcdb62a4-ad2f-47b9-a199-dd1681662044#ref=rss)
+* [https://www.spiegel.de/panorama/erstmals-mehr-als-eine-halbe-million-pilger-auf-dem-jakobsweg](https://www.spiegel.de/panorama/erstmals-mehr-als-eine-halbe-million-pilger-auf-dem-jakobsweg-a-d9680bad-e294-43f9-91a0-f995060d4fd4#ref=rss)
+### 1500
 
-* [https://www.spiegel.de/panorama/kitzbuehel-zwei-jugendliche-bei-lawinenabgang-auf-streif-abfahrt-teils-verschuettet](https://www.spiegel.de/panorama/kitzbuehel-zwei-jugendliche-bei-lawinenabgang-auf-streif-abfahrt-teils-verschuettet-a-974ca114-491b-4ec7-9945-6675762b656a#ref=rss)
-### taylor
+* [https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien](https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien-a-dcdb62a4-ad2f-47b9-a199-dd1681662044#ref=rss)
+### hingerichtet
 
-* [https://www.spiegel.de/panorama/leute/taylor-swift-schenkt-stadionmitarbeiterin-an-weihnachten-600-dollar](https://www.spiegel.de/panorama/leute/taylor-swift-schenkt-stadionmitarbeiterin-an-weihnachten-600-dollar-a-45440be5-b6d5-4424-b4a1-67b727aed3ba#ref=rss)
-### stadionmitarbeiterin
+* [https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien](https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien-a-dcdb62a4-ad2f-47b9-a199-dd1681662044#ref=rss)
+### höchststand
 
-* [https://www.spiegel.de/panorama/leute/taylor-swift-schenkt-stadionmitarbeiterin-an-weihnachten-600-dollar](https://www.spiegel.de/panorama/leute/taylor-swift-schenkt-stadionmitarbeiterin-an-weihnachten-600-dollar-a-45440be5-b6d5-4424-b4a1-67b727aed3ba#ref=rss)
-### weihnachten
+* [https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien](https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien-a-dcdb62a4-ad2f-47b9-a199-dd1681662044#ref=rss)
+### saudiarabien
 
-* [https://www.spiegel.de/panorama/leute/taylor-swift-schenkt-stadionmitarbeiterin-an-weihnachten-600-dollar](https://www.spiegel.de/panorama/leute/taylor-swift-schenkt-stadionmitarbeiterin-an-weihnachten-600-dollar-a-45440be5-b6d5-4424-b4a1-67b727aed3ba#ref=rss)
-### 600
+* [https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien](https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien-a-dcdb62a4-ad2f-47b9-a199-dd1681662044#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/leute/taylor-swift-schenkt-stadionmitarbeiterin-an-weihnachten-600-dollar](https://www.spiegel.de/panorama/leute/taylor-swift-schenkt-stadionmitarbeiterin-an-weihnachten-600-dollar-a-45440be5-b6d5-4424-b4a1-67b727aed3ba#ref=rss)
-### dollar
+* [https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien](https://www.spiegel.de/ausland/iran-hat-2025-wohl-1500-menschen-hingerichtet-neuer-hoechststand-auch-in-saudi-arabien-a-dcdb62a4-ad2f-47b9-a199-dd1681662044#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-amateuraufnahmen-zeigen-feuer-in-bar](https://www.spiegel.de/panorama/crans-montana-in-der-schweiz-amateuraufnahmen-zeigen-feuer-in-bar-a-bcc7904d-5bf0-4cac-8682-3f612cc28f0d#ref=rss)
+### fordern
 
-* [https://www.spiegel.de/panorama/leute/taylor-swift-schenkt-stadionmitarbeiterin-an-weihnachten-600-dollar](https://www.spiegel.de/panorama/leute/taylor-swift-schenkt-stadionmitarbeiterin-an-weihnachten-600-dollar-a-45440be5-b6d5-4424-b4a1-67b727aed3ba#ref=rss)
-### rosenheim
+* [https://www.spiegel.de/ausland/japan-weibliche-abgeordnete-fordern-mehr-frauentoiletten-im-parlamentsgebaeude](https://www.spiegel.de/ausland/japan-weibliche-abgeordnete-fordern-mehr-frauentoiletten-im-parlamentsgebaeude-a-6ebc1af6-78ce-4105-b766-a56c9b11568e#ref=rss)
+* [https://www.spiegel.de/panorama/silvester-angriffe-auf-einsatzkraefte-gewerkschaften-fordern-konsequenzen](https://www.spiegel.de/panorama/silvester-angriffe-auf-einsatzkraefte-gewerkschaften-fordern-konsequenzen-a-fb9a90c2-739c-43bc-aea4-d6df659febb7#ref=rss)
+### unterstützung
 
-* [https://www.spiegel.de/panorama/zugunglueck-bei-rosenheim-gueterwaggon-entgleist-streckensperrung-in-oberbayern](https://www.spiegel.de/panorama/zugunglueck-bei-rosenheim-gueterwaggon-entgleist-streckensperrung-in-oberbayern-a-422b05e3-fbe5-490c-90ac-d9fb51bdcc67#ref=rss)
-### podcasts
+* [https://www.spiegel.de/ausland/japan-weibliche-abgeordnete-fordern-mehr-frauentoiletten-im-parlamentsgebaeude](https://www.spiegel.de/ausland/japan-weibliche-abgeordnete-fordern-mehr-frauentoiletten-im-parlamentsgebaeude-a-6ebc1af6-78ce-4105-b766-a56c9b11568e#ref=rss)
+* [https://www.spiegel.de/ausland/iran-erste-tote-bei-politischen-unruhen](https://www.spiegel.de/ausland/iran-erste-tote-bei-politischen-unruhen-a-e09fc27e-40d2-4813-9fa4-497fa75769d2#ref=rss)
+### silvester
 
-* [https://www.spiegel.de/kultur/von-land-ohne-vater-bis-house-of-houmsi-das-sind-die-besten-podcasts-des-jahres](https://www.spiegel.de/kultur/von-land-ohne-vater-bis-house-of-houmsi-das-sind-die-besten-podcasts-des-jahres-a-46c26d14-6d74-4149-9d87-8567f92519bf#ref=rss)
-### studenten
+* [https://www.spiegel.de/panorama/silvester-angriffe-auf-einsatzkraefte-gewerkschaften-fordern-konsequenzen](https://www.spiegel.de/panorama/silvester-angriffe-auf-einsatzkraefte-gewerkschaften-fordern-konsequenzen-a-fb9a90c2-739c-43bc-aea4-d6df659febb7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-benjamin-netanyahu-haben-zusammen-silvester-in-florida-gefeiert](https://www.spiegel.de/ausland/donald-trump-und-benjamin-netanyahu-haben-zusammen-silvester-in-florida-gefeiert-a-f22ba975-e805-4a52-9233-56a7a78a622f#ref=rss)
+### angriffe
 
-* [https://www.spiegel.de/ausland/iran-offenbar-mehrere-studenten-nach-protesten-verhaftet](https://www.spiegel.de/ausland/iran-offenbar-mehrere-studenten-nach-protesten-verhaftet-a-dcc3da3f-5a9b-411d-adf4-f83aec6fa98e#ref=rss)
-### verhaftet
+* [https://www.spiegel.de/panorama/silvester-angriffe-auf-einsatzkraefte-gewerkschaften-fordern-konsequenzen](https://www.spiegel.de/panorama/silvester-angriffe-auf-einsatzkraefte-gewerkschaften-fordern-konsequenzen-a-fb9a90c2-739c-43bc-aea4-d6df659febb7#ref=rss)
+### einsatzkräfte
 
-* [https://www.spiegel.de/ausland/iran-offenbar-mehrere-studenten-nach-protesten-verhaftet](https://www.spiegel.de/ausland/iran-offenbar-mehrere-studenten-nach-protesten-verhaftet-a-dcc3da3f-5a9b-411d-adf4-f83aec6fa98e#ref=rss)
-### angst
+* [https://www.spiegel.de/panorama/silvester-angriffe-auf-einsatzkraefte-gewerkschaften-fordern-konsequenzen](https://www.spiegel.de/panorama/silvester-angriffe-auf-einsatzkraefte-gewerkschaften-fordern-konsequenzen-a-fb9a90c2-739c-43bc-aea4-d6df659febb7#ref=rss)
+### gewerkschaften
 
-* [https://www.spiegel.de/wissenschaft/mensch/angst-bei-dunkelheit-warum-die-nacht-angst-macht-und-was-frauen-dagegen-machen](https://www.spiegel.de/wissenschaft/mensch/angst-bei-dunkelheit-warum-die-nacht-angst-macht-und-was-frauen-dagegen-machen-a-bf727e20-0baa-49e6-8d62-e72e6a2afbf2#ref=rss)
-### dunkelheit
+* [https://www.spiegel.de/panorama/silvester-angriffe-auf-einsatzkraefte-gewerkschaften-fordern-konsequenzen](https://www.spiegel.de/panorama/silvester-angriffe-auf-einsatzkraefte-gewerkschaften-fordern-konsequenzen-a-fb9a90c2-739c-43bc-aea4-d6df659febb7#ref=rss)
+### sicht
 
-* [https://www.spiegel.de/wissenschaft/mensch/angst-bei-dunkelheit-warum-die-nacht-angst-macht-und-was-frauen-dagegen-machen](https://www.spiegel.de/wissenschaft/mensch/angst-bei-dunkelheit-warum-die-nacht-angst-macht-und-was-frauen-dagegen-machen-a-bf727e20-0baa-49e6-8d62-e72e6a2afbf2#ref=rss)
-### frauen
+* [https://www.spiegel.de/panorama/silvester-angriffe-auf-einsatzkraefte-gewerkschaften-fordern-konsequenzen](https://www.spiegel.de/panorama/silvester-angriffe-auf-einsatzkraefte-gewerkschaften-fordern-konsequenzen-a-fb9a90c2-739c-43bc-aea4-d6df659febb7#ref=rss)
+* [https://www.spiegel.de/panorama/erstmals-mehr-als-eine-halbe-million-pilger-auf-dem-jakobsweg](https://www.spiegel.de/panorama/erstmals-mehr-als-eine-halbe-million-pilger-auf-dem-jakobsweg-a-d9680bad-e294-43f9-91a0-f995060d4fd4#ref=rss)
+### tote
 
-* [https://www.spiegel.de/wissenschaft/mensch/angst-bei-dunkelheit-warum-die-nacht-angst-macht-und-was-frauen-dagegen-machen](https://www.spiegel.de/wissenschaft/mensch/angst-bei-dunkelheit-warum-die-nacht-angst-macht-und-was-frauen-dagegen-machen-a-bf727e20-0baa-49e6-8d62-e72e6a2afbf2#ref=rss)
+* [https://www.spiegel.de/ausland/iran-erste-tote-bei-politischen-unruhen](https://www.spiegel.de/ausland/iran-erste-tote-bei-politischen-unruhen-a-e09fc27e-40d2-4813-9fa4-497fa75769d2#ref=rss)
+### politischen
+
+* [https://www.spiegel.de/ausland/iran-erste-tote-bei-politischen-unruhen](https://www.spiegel.de/ausland/iran-erste-tote-bei-politischen-unruhen-a-e09fc27e-40d2-4813-9fa4-497fa75769d2#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/neujahrsaktion-in-koeln-warum-muslimische-jugendliche-fegen-waehrend-andere-ihren-rausch-ausschlafen](https://www.spiegel.de/panorama/gesellschaft/neujahrsaktion-in-koeln-warum-muslimische-jugendliche-fegen-waehrend-andere-ihren-rausch-ausschlafen-a-b3a49893-ce40-44b1-b903-2c8db59c1477#ref=rss)
+### unruhen
+
+* [https://www.spiegel.de/ausland/iran-erste-tote-bei-politischen-unruhen](https://www.spiegel.de/ausland/iran-erste-tote-bei-politischen-unruhen-a-e09fc27e-40d2-4813-9fa4-497fa75769d2#ref=rss)
+### zusammen
+
+* [https://www.spiegel.de/ausland/donald-trump-und-benjamin-netanyahu-haben-zusammen-silvester-in-florida-gefeiert](https://www.spiegel.de/ausland/donald-trump-und-benjamin-netanyahu-haben-zusammen-silvester-in-florida-gefeiert-a-f22ba975-e805-4a52-9233-56a7a78a622f#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-vision-pro-apple-kuerzt-werbebudget-fuer-seine-computerbrille](https://www.spiegel.de/netzwelt/gadgets/apple-vision-pro-apple-kuerzt-werbebudget-fuer-seine-computerbrille-a-8c9d92de-83d7-4257-87e5-d7453d6f9d36#ref=rss)
+### gehalten
+
+* [https://www.spiegel.de/ausland/donald-trump-und-benjamin-netanyahu-haben-zusammen-silvester-in-florida-gefeiert](https://www.spiegel.de/ausland/donald-trump-und-benjamin-netanyahu-haben-zusammen-silvester-in-florida-gefeiert-a-f22ba975-e805-4a52-9233-56a7a78a622f#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dresden-nachtschatten-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dresden-nachtschatten-im-schnellcheck-a-190c67c5-8cf5-4bca-9c96-1cf62f5cd572#ref=rss)
+### premier
+
+* [https://www.spiegel.de/ausland/donald-trump-und-benjamin-netanyahu-haben-zusammen-silvester-in-florida-gefeiert](https://www.spiegel.de/ausland/donald-trump-und-benjamin-netanyahu-haben-zusammen-silvester-in-florida-gefeiert-a-f22ba975-e805-4a52-9233-56a7a78a622f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-und-trainer-enzo-maresca-trennen-sich](https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-und-trainer-enzo-maresca-trennen-sich-a-72da7497-78bb-41e0-b7a8-87eeb5e96950#ref=rss)
+### silvesterfeier
+
+* [https://www.spiegel.de/ausland/donald-trump-und-benjamin-netanyahu-haben-zusammen-silvester-in-florida-gefeiert](https://www.spiegel.de/ausland/donald-trump-und-benjamin-netanyahu-haben-zusammen-silvester-in-florida-gefeiert-a-f22ba975-e805-4a52-9233-56a7a78a622f#ref=rss)
+* [https://www.spiegel.de/panorama/wallis-die-feuerkatastrophe-von-crans-montana](https://www.spiegel.de/panorama/wallis-die-feuerkatastrophe-von-crans-montana-a-f2ff895e-ae78-4b60-bb81-fd3ff0b31d6e#ref=rss)
+### landkreis
+
+* [https://www.spiegel.de/panorama/landkreis-vechta-junge-laeuft-in-silvesternacht-auf-strasse-und-stirbt](https://www.spiegel.de/panorama/landkreis-vechta-junge-laeuft-in-silvesternacht-auf-strasse-und-stirbt-a-4f6c6c76-f165-4724-9ef4-db7b89f4c09f#ref=rss)
+### vechta
+
+* [https://www.spiegel.de/panorama/landkreis-vechta-junge-laeuft-in-silvesternacht-auf-strasse-und-stirbt](https://www.spiegel.de/panorama/landkreis-vechta-junge-laeuft-in-silvesternacht-auf-strasse-und-stirbt-a-4f6c6c76-f165-4724-9ef4-db7b89f4c09f#ref=rss)
+### läuft
+
+* [https://www.spiegel.de/panorama/landkreis-vechta-junge-laeuft-in-silvesternacht-auf-strasse-und-stirbt](https://www.spiegel.de/panorama/landkreis-vechta-junge-laeuft-in-silvesternacht-auf-strasse-und-stirbt-a-4f6c6c76-f165-4724-9ef4-db7b89f4c09f#ref=rss)
+### straße
+
+* [https://www.spiegel.de/panorama/landkreis-vechta-junge-laeuft-in-silvesternacht-auf-strasse-und-stirbt](https://www.spiegel.de/panorama/landkreis-vechta-junge-laeuft-in-silvesternacht-auf-strasse-und-stirbt-a-4f6c6c76-f165-4724-9ef4-db7b89f4c09f#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-gewinnt-das-neujahrsspringen-in-garmisch-felix-hoffmann-sechster](https://www.spiegel.de/sport/wintersport/vierschanzentournee-domen-prevc-gewinnt-das-neujahrsspringen-in-garmisch-felix-hoffmann-sechster-a-fa352c88-68ce-42a9-a3b8-1fb8b8fce801#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-das-kommt-2026-auf-die-deutsche-politik-zu](https://www.spiegel.de/politik/deutschland/deutschland-das-kommt-2026-auf-die-deutsche-politik-zu-a-13fcea6e-659c-41bc-b39b-12026debcf28#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/ausland/donald-trump-kritisiert-frankreich-wegen-staatsbuergerschaft-fuer-george-clooney](https://www.spiegel.de/ausland/donald-trump-kritisiert-frankreich-wegen-staatsbuergerschaft-fuer-george-clooney-a-3c5c67a0-8345-479f-98cd-5a12bb784adc#ref=rss)
+### george
+
+* [https://www.spiegel.de/ausland/donald-trump-kritisiert-frankreich-wegen-staatsbuergerschaft-fuer-george-clooney](https://www.spiegel.de/ausland/donald-trump-kritisiert-frankreich-wegen-staatsbuergerschaft-fuer-george-clooney-a-3c5c67a0-8345-479f-98cd-5a12bb784adc#ref=rss)
+### clooney
+
+* [https://www.spiegel.de/ausland/donald-trump-kritisiert-frankreich-wegen-staatsbuergerschaft-fuer-george-clooney](https://www.spiegel.de/ausland/donald-trump-kritisiert-frankreich-wegen-staatsbuergerschaft-fuer-george-clooney-a-3c5c67a0-8345-479f-98cd-5a12bb784adc#ref=rss)
+### entscheidung
+
+* [https://www.spiegel.de/ausland/donald-trump-kritisiert-frankreich-wegen-staatsbuergerschaft-fuer-george-clooney](https://www.spiegel.de/ausland/donald-trump-kritisiert-frankreich-wegen-staatsbuergerschaft-fuer-george-clooney-a-3c5c67a0-8345-479f-98cd-5a12bb784adc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/mehrwertsteuersenkung-in-der-gastronomie-drei-wirte-berichten-was-sie-wirklich-bringt](https://www.spiegel.de/wirtschaft/unternehmen/mehrwertsteuersenkung-in-der-gastronomie-drei-wirte-berichten-was-sie-wirklich-bringt-a-93a77196-3014-436e-a189-7c79557d581c#ref=rss)
+### moons
+
+* [https://www.spiegel.de/wissenschaft/ellen-moons-ist-erste-frau-an-der-spitze-der-koeniglich-schwedischen-akademie](https://www.spiegel.de/wissenschaft/ellen-moons-ist-erste-frau-an-der-spitze-der-koeniglich-schwedischen-akademie-a-56d35a62-98f3-494f-b30c-2ed391966045#ref=rss)
+### tritt
+
+* [https://www.spiegel.de/wissenschaft/ellen-moons-ist-erste-frau-an-der-spitze-der-koeniglich-schwedischen-akademie](https://www.spiegel.de/wissenschaft/ellen-moons-ist-erste-frau-an-der-spitze-der-koeniglich-schwedischen-akademie-a-56d35a62-98f3-494f-b30c-2ed391966045#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bulgarien-fuehrt-euro-als-waehrung-ein](https://www.spiegel.de/wirtschaft/bulgarien-fuehrt-euro-als-waehrung-ein-a-009d26cc-db43-4693-b28e-b736df3f973e#ref=rss)
+### wirte
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mehrwertsteuersenkung-in-der-gastronomie-drei-wirte-berichten-was-sie-wirklich-bringt](https://www.spiegel.de/wirtschaft/unternehmen/mehrwertsteuersenkung-in-der-gastronomie-drei-wirte-berichten-was-sie-wirklich-bringt-a-93a77196-3014-436e-a189-7c79557d581c#ref=rss)
+### wo
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mehrwertsteuersenkung-in-der-gastronomie-drei-wirte-berichten-was-sie-wirklich-bringt](https://www.spiegel.de/wirtschaft/unternehmen/mehrwertsteuersenkung-in-der-gastronomie-drei-wirte-berichten-was-sie-wirklich-bringt-a-93a77196-3014-436e-a189-7c79557d581c#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/neujahrsaktion-in-koeln-warum-muslimische-jugendliche-fegen-waehrend-andere-ihren-rausch-ausschlafen](https://www.spiegel.de/panorama/gesellschaft/neujahrsaktion-in-koeln-warum-muslimische-jugendliche-fegen-waehrend-andere-ihren-rausch-ausschlafen-a-b3a49893-ce40-44b1-b903-2c8db59c1477#ref=rss)
+### ricarda
+
+* [https://www.spiegel.de/politik/deutschland/ricarda-lang-ich-musste-mich-regelrecht-zwingen-das-erste-mal-ins-gym-zu-gehen](https://www.spiegel.de/politik/deutschland/ricarda-lang-ich-musste-mich-regelrecht-zwingen-das-erste-mal-ins-gym-zu-gehen-a-65b6af60-21c6-4607-b9c0-4d7df8c05046#ref=rss)
+### lang
+
+* [https://www.spiegel.de/politik/deutschland/ricarda-lang-ich-musste-mich-regelrecht-zwingen-das-erste-mal-ins-gym-zu-gehen](https://www.spiegel.de/politik/deutschland/ricarda-lang-ich-musste-mich-regelrecht-zwingen-das-erste-mal-ins-gym-zu-gehen-a-65b6af60-21c6-4607-b9c0-4d7df8c05046#ref=rss)
+### politik
+
+* [https://www.spiegel.de/politik/deutschland/ricarda-lang-ich-musste-mich-regelrecht-zwingen-das-erste-mal-ins-gym-zu-gehen](https://www.spiegel.de/politik/deutschland/ricarda-lang-ich-musste-mich-regelrecht-zwingen-das-erste-mal-ins-gym-zu-gehen-a-65b6af60-21c6-4607-b9c0-4d7df8c05046#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-das-kommt-2026-auf-die-deutsche-politik-zu](https://www.spiegel.de/politik/deutschland/deutschland-das-kommt-2026-auf-die-deutsche-politik-zu-a-13fcea6e-659c-41bc-b39b-12026debcf28#ref=rss)
+### jakobsweg
+
+* [https://www.spiegel.de/panorama/erstmals-mehr-als-eine-halbe-million-pilger-auf-dem-jakobsweg](https://www.spiegel.de/panorama/erstmals-mehr-als-eine-halbe-million-pilger-auf-dem-jakobsweg-a-d9680bad-e294-43f9-91a0-f995060d4fd4#ref=rss)
+### bulgarien
+
+* [https://www.spiegel.de/wirtschaft/bulgarien-fuehrt-euro-als-waehrung-ein](https://www.spiegel.de/wirtschaft/bulgarien-fuehrt-euro-als-waehrung-ein-a-009d26cc-db43-4693-b28e-b736df3f973e#ref=rss)
+### währung
+
+* [https://www.spiegel.de/wirtschaft/bulgarien-fuehrt-euro-als-waehrung-ein](https://www.spiegel.de/wirtschaft/bulgarien-fuehrt-euro-als-waehrung-ein-a-009d26cc-db43-4693-b28e-b736df3f973e#ref=rss)
+### preise
+
+* [https://www.spiegel.de/wirtschaft/bulgarien-fuehrt-euro-als-waehrung-ein](https://www.spiegel.de/wirtschaft/bulgarien-fuehrt-euro-als-waehrung-ein-a-009d26cc-db43-4693-b28e-b736df3f973e#ref=rss)
+* [https://www.spiegel.de/kultur/musik/wolfgang-niedecken-geht-positiv-ins-neue-jahr-weil-er-muss](https://www.spiegel.de/kultur/musik/wolfgang-niedecken-geht-positiv-ins-neue-jahr-weil-er-muss-a-f490bcca-5834-4b7d-9aad-c23e6b6da8e8#ref=rss)
+### stranger
+
+* [https://www.spiegel.de/kultur/tv/finale-von-stranger-things-nimm-dies-elon-musk](https://www.spiegel.de/kultur/tv/finale-von-stranger-things-nimm-dies-elon-musk-a-31f799b7-2c77-49ce-8654-458b4c789b5f#ref=rss)
+### things
+
+* [https://www.spiegel.de/kultur/tv/finale-von-stranger-things-nimm-dies-elon-musk](https://www.spiegel.de/kultur/tv/finale-von-stranger-things-nimm-dies-elon-musk-a-31f799b7-2c77-49ce-8654-458b4c789b5f#ref=rss)
+### wallis
+
+* [https://www.spiegel.de/panorama/wallis-die-feuerkatastrophe-von-crans-montana](https://www.spiegel.de/panorama/wallis-die-feuerkatastrophe-von-crans-montana-a-f2ff895e-ae78-4b60-bb81-fd3ff0b31d6e#ref=rss)
+### köln
+
+* [https://www.spiegel.de/panorama/gesellschaft/neujahrsaktion-in-koeln-warum-muslimische-jugendliche-fegen-waehrend-andere-ihren-rausch-ausschlafen](https://www.spiegel.de/panorama/gesellschaft/neujahrsaktion-in-koeln-warum-muslimische-jugendliche-fegen-waehrend-andere-ihren-rausch-ausschlafen-a-b3a49893-ce40-44b1-b903-2c8db59c1477#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/panorama/gesellschaft/neujahrsaktion-in-koeln-warum-muslimische-jugendliche-fegen-waehrend-andere-ihren-rausch-ausschlafen](https://www.spiegel.de/panorama/gesellschaft/neujahrsaktion-in-koeln-warum-muslimische-jugendliche-fegen-waehrend-andere-ihren-rausch-ausschlafen-a-b3a49893-ce40-44b1-b903-2c8db59c1477#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-das-kommt-2026-auf-die-deutsche-politik-zu](https://www.spiegel.de/politik/deutschland/deutschland-das-kommt-2026-auf-die-deutsche-politik-zu-a-13fcea6e-659c-41bc-b39b-12026debcf28#ref=rss)
+### merz
+
+* [https://www.spiegel.de/panorama/gesellschaft/neujahrsaktion-in-koeln-warum-muslimische-jugendliche-fegen-waehrend-andere-ihren-rausch-ausschlafen](https://www.spiegel.de/panorama/gesellschaft/neujahrsaktion-in-koeln-warum-muslimische-jugendliche-fegen-waehrend-andere-ihren-rausch-ausschlafen-a-b3a49893-ce40-44b1-b903-2c8db59c1477#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-das-kommt-2026-auf-die-deutsche-politik-zu](https://www.spiegel.de/politik/deutschland/deutschland-das-kommt-2026-auf-die-deutsche-politik-zu-a-13fcea6e-659c-41bc-b39b-12026debcf28#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-und-trainer-enzo-maresca-trennen-sich](https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-und-trainer-enzo-maresca-trennen-sich-a-72da7497-78bb-41e0-b7a8-87eeb5e96950#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-und-trainer-enzo-maresca-trennen-sich](https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-und-trainer-enzo-maresca-trennen-sich-a-72da7497-78bb-41e0-b7a8-87eeb5e96950#ref=rss)
+### chelsea
+
+* [https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-und-trainer-enzo-maresca-trennen-sich](https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-und-trainer-enzo-maresca-trennen-sich-a-72da7497-78bb-41e0-b7a8-87eeb5e96950#ref=rss)
+### enzo
+
+* [https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-und-trainer-enzo-maresca-trennen-sich](https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-und-trainer-enzo-maresca-trennen-sich-a-72da7497-78bb-41e0-b7a8-87eeb5e96950#ref=rss)
+### maresca
+
+* [https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-und-trainer-enzo-maresca-trennen-sich](https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-und-trainer-enzo-maresca-trennen-sich-a-72da7497-78bb-41e0-b7a8-87eeb5e96950#ref=rss)
+### krankenkassen
+
+* [https://www.spiegel.de/wirtschaft/krankenkassen-fast-die-haelfte-der-kassen-erhoeht-2026-ihre-beitraege](https://www.spiegel.de/wirtschaft/krankenkassen-fast-die-haelfte-der-kassen-erhoeht-2026-ihre-beitraege-a-ef9fb188-ecba-46f0-bfb8-87c47cc8c0e1#ref=rss)
+### beiträge
+
+* [https://www.spiegel.de/wirtschaft/krankenkassen-fast-die-haelfte-der-kassen-erhoeht-2026-ihre-beitraege](https://www.spiegel.de/wirtschaft/krankenkassen-fast-die-haelfte-der-kassen-erhoeht-2026-ihre-beitraege-a-ef9fb188-ecba-46f0-bfb8-87c47cc8c0e1#ref=rss)
+### apple
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-vision-pro-apple-kuerzt-werbebudget-fuer-seine-computerbrille](https://www.spiegel.de/netzwelt/gadgets/apple-vision-pro-apple-kuerzt-werbebudget-fuer-seine-computerbrille-a-8c9d92de-83d7-4257-87e5-d7453d6f9d36#ref=rss)
+### vision
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-vision-pro-apple-kuerzt-werbebudget-fuer-seine-computerbrille](https://www.spiegel.de/netzwelt/gadgets/apple-vision-pro-apple-kuerzt-werbebudget-fuer-seine-computerbrille-a-8c9d92de-83d7-4257-87e5-d7453d6f9d36#ref=rss)
+### pro
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-vision-pro-apple-kuerzt-werbebudget-fuer-seine-computerbrille](https://www.spiegel.de/netzwelt/gadgets/apple-vision-pro-apple-kuerzt-werbebudget-fuer-seine-computerbrille-a-8c9d92de-83d7-4257-87e5-d7453d6f9d36#ref=rss)
+### werbebudget
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-vision-pro-apple-kuerzt-werbebudget-fuer-seine-computerbrille](https://www.spiegel.de/netzwelt/gadgets/apple-vision-pro-apple-kuerzt-werbebudget-fuer-seine-computerbrille-a-8c9d92de-83d7-4257-87e5-d7453d6f9d36#ref=rss)
+### computerbrille
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-vision-pro-apple-kuerzt-werbebudget-fuer-seine-computerbrille](https://www.spiegel.de/netzwelt/gadgets/apple-vision-pro-apple-kuerzt-werbebudget-fuer-seine-computerbrille-a-8c9d92de-83d7-4257-87e5-d7453d6f9d36#ref=rss)
+### wolfgang
+
+* [https://www.spiegel.de/kultur/musik/wolfgang-niedecken-geht-positiv-ins-neue-jahr-weil-er-muss](https://www.spiegel.de/kultur/musik/wolfgang-niedecken-geht-positiv-ins-neue-jahr-weil-er-muss-a-f490bcca-5834-4b7d-9aad-c23e6b6da8e8#ref=rss)
+### niedecken
+
+* [https://www.spiegel.de/kultur/musik/wolfgang-niedecken-geht-positiv-ins-neue-jahr-weil-er-muss](https://www.spiegel.de/kultur/musik/wolfgang-niedecken-geht-positiv-ins-neue-jahr-weil-er-muss-a-f490bcca-5834-4b7d-9aad-c23e6b6da8e8#ref=rss)
 
