@@ -4,282 +4,330 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### 2025
+### iran
 
-* [https://www.spiegel.de/wirtschaft/co-zuschlag-spritpreise-steigen-zum-jahreswechsel-kraeftig](https://www.spiegel.de/wirtschaft/co-zuschlag-spritpreise-steigen-zum-jahreswechsel-kraeftig-a-f74a8c67-da4b-4261-a6d5-f92b2e1fedf7#ref=rss)
-* [https://www.spiegel.de/auto/norwegen-96-prozent-aller-neu-zugelassenen-autos-fahren-elektrisch](https://www.spiegel.de/auto/norwegen-96-prozent-aller-neu-zugelassenen-autos-fahren-elektrisch-a-f3112631-1a2f-479b-b5d0-92fb79ed3cea#ref=rss)
-* [https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren](https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren-a-bd35a51c-5def-46de-9f66-17dfb9c4c0ea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen](https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen-a-7c5fa062-cac9-4618-b9cb-18c66eb046ad#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-erneut-kaeltebus-angezuendet-tatverdaechtiger-gefasst](https://www.spiegel.de/panorama/justiz/berlin-erneut-kaeltebus-angezuendet-tatverdaechtiger-gefasst-a-fc605347-78c1-462a-a4ca-50be60da3495#ref=rss)
-* [https://www.spiegel.de/auto/fahrkultur/e-scooter-besuch-bei-einem-training-fuer-senioren-in-berlin](https://www.spiegel.de/auto/fahrkultur/e-scooter-besuch-bei-einem-training-fuer-senioren-in-berlin-a-752719c0-1a2b-45e7-a2e4-e63fbc981f86#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/kultur/bushido-zieht-zurueck-nach-deutschland-aber-nur-halb](https://www.spiegel.de/kultur/bushido-zieht-zurueck-nach-deutschland-aber-nur-halb-a-0df1e19f-c4ec-4e1d-be5a-0b63fb2d6a5f#ref=rss)
-* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-sturm-und-gewitter](https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-sturm-und-gewitter-a-0baf719f-f5e2-424d-b12c-609770973c88#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gleichbehandlung-zahl-der-frauen-in-deutschen-vorstandsetagen-gesunken](https://www.spiegel.de/wirtschaft/gleichbehandlung-zahl-der-frauen-in-deutschen-vorstandsetagen-gesunken-a-9707c57f-e62d-475c-87fa-07c1f8e7e2c0#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/justiz/dresden-anklage-nach-messerangriff-in-strassenbahn-erhoben](https://www.spiegel.de/panorama/justiz/dresden-anklage-nach-messerangriff-in-strassenbahn-erhoben-a-1fd9ea5d-2abe-4914-9974-3ad9ab88a707#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gleichbehandlung-zahl-der-frauen-in-deutschen-vorstandsetagen-gesunken](https://www.spiegel.de/wirtschaft/gleichbehandlung-zahl-der-frauen-in-deutschen-vorstandsetagen-gesunken-a-9707c57f-e62d-475c-87fa-07c1f8e7e2c0#ref=rss)
-### jahreswechsel
-
-* [https://www.spiegel.de/wirtschaft/co-zuschlag-spritpreise-steigen-zum-jahreswechsel-kraeftig](https://www.spiegel.de/wirtschaft/co-zuschlag-spritpreise-steigen-zum-jahreswechsel-kraeftig-a-f74a8c67-da4b-4261-a6d5-f92b2e1fedf7#ref=rss)
-* [https://www.spiegel.de/start/neuen-job-suchen-zum-jahresbeginn-ist-das-eine-gute-idee](https://www.spiegel.de/start/neuen-job-suchen-zum-jahresbeginn-ist-das-eine-gute-idee-a-30343d80-2557-4ed9-810e-c5c41d98beef#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-hier-herrscht-militaerischer-ausnahmezustand](https://www.spiegel.de/ausland/proteste-in-iran-hier-herrscht-militaerischer-ausnahmezustand-a-43b041ed-78c0-4776-aa80-99ea0d0f628e#ref=rss)
+* [https://www.spiegel.de/politik/iran-bietet-offenbar-verkauf-von-fortschrittlichen-waffensystemen-gegen-kryptogeld-an](https://www.spiegel.de/politik/iran-bietet-offenbar-verkauf-von-fortschrittlichen-waffensystemen-gegen-kryptogeld-an-a-97c6b0b7-4f4a-4de2-b919-331af5105b2a#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-demonstranten-setzen-polizeistation-in-brand](https://www.spiegel.de/ausland/proteste-in-iran-demonstranten-setzen-polizeistation-in-brand-a-798c9c89-2acc-4908-9ccc-2a4afd8950f5#ref=rss)
+* [https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen](https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen-a-92f71102-c682-4e71-b79f-66977aeb0798#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-crans-montana-residenz-von-wladimir-putin-donald-trump-und-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-crans-montana-residenz-von-wladimir-putin-donald-trump-und-iran-a-7bc5771c-fedb-4cb1-a2dc-694b4e5faa52#ref=rss)
 ### cransmontana
 
-* [https://www.spiegel.de/ausland/crans-montana-schweiz-kritik-an-sicherheitsvorkehrungen-nach-barbrand](https://www.spiegel.de/ausland/crans-montana-schweiz-kritik-an-sicherheitsvorkehrungen-nach-barbrand-a-8f2ff214-c852-467b-b779-15cb81865e4d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-crans-montana-ricarda-lang](https://www.spiegel.de/politik/deutschland/news-ukraine-crans-montana-ricarda-lang-a-0c0064a5-6116-4700-b99c-fed74e366cdf#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/ausland/crans-montana-schweiz-kritik-an-sicherheitsvorkehrungen-nach-barbrand](https://www.spiegel.de/ausland/crans-montana-schweiz-kritik-an-sicherheitsvorkehrungen-nach-barbrand-a-8f2ff214-c852-467b-b779-15cb81865e4d#ref=rss)
-* [https://www.spiegel.de/ausland/protestwelle-in-iran-donald-trump-droht-teheran-mit-eingreifen](https://www.spiegel.de/ausland/protestwelle-in-iran-donald-trump-droht-teheran-mit-eingreifen-a-bfe02fe6-ceb1-45cc-8e04-3ab524eeaf3c#ref=rss)
-* [https://www.spiegel.de/auto/fahrkultur/e-scooter-besuch-bei-einem-training-fuer-senioren-in-berlin](https://www.spiegel.de/auto/fahrkultur/e-scooter-besuch-bei-einem-training-fuer-senioren-in-berlin-a-752719c0-1a2b-45e7-a2e4-e63fbc981f86#ref=rss)
-### erst
-
-* [https://www.spiegel.de/panorama/justiz/berlin-erneut-kaeltebus-angezuendet-tatverdaechtiger-gefasst](https://www.spiegel.de/panorama/justiz/berlin-erneut-kaeltebus-angezuendet-tatverdaechtiger-gefasst-a-fc605347-78c1-462a-a4ca-50be60da3495#ref=rss)
-* [https://www.spiegel.de/kultur/bushido-zieht-zurueck-nach-deutschland-aber-nur-halb](https://www.spiegel.de/kultur/bushido-zieht-zurueck-nach-deutschland-aber-nur-halb-a-0df1e19f-c4ec-4e1d-be5a-0b63fb2d6a5f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/veganuary-wie-fermentation-hilft-vegan-zu-kochen](https://www.spiegel.de/wissenschaft/mensch/veganuary-wie-fermentation-hilft-vegan-zu-kochen-a-395f64c6-fbb9-4354-aa3b-7f97d0eccdf4#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/protestwelle-in-iran-donald-trump-droht-teheran-mit-eingreifen](https://www.spiegel.de/ausland/protestwelle-in-iran-donald-trump-droht-teheran-mit-eingreifen-a-bfe02fe6-ceb1-45cc-8e04-3ab524eeaf3c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/george-clooney-reagiert-auf-spott-von-quatschkopf-donald-trump](https://www.spiegel.de/panorama/leute/george-clooney-reagiert-auf-spott-von-quatschkopf-donald-trump-a-08cdcb09-8db6-41cf-9019-257301d41585#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/protestwelle-in-iran-donald-trump-droht-teheran-mit-eingreifen](https://www.spiegel.de/ausland/protestwelle-in-iran-donald-trump-droht-teheran-mit-eingreifen-a-bfe02fe6-ceb1-45cc-8e04-3ab524eeaf3c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/george-clooney-reagiert-auf-spott-von-quatschkopf-donald-trump](https://www.spiegel.de/panorama/leute/george-clooney-reagiert-auf-spott-von-quatschkopf-donald-trump-a-08cdcb09-8db6-41cf-9019-257301d41585#ref=rss)
-### drei
-
-* [https://www.spiegel.de/sport/fussball/pierre-emerick-aubameyang-gabuns-team-nach-afrika-cup-ausscheiden-suspendiert](https://www.spiegel.de/sport/fussball/pierre-emerick-aubameyang-gabuns-team-nach-afrika-cup-ausscheiden-suspendiert-a-d78d9177-9468-4c39-b4c1-445b458dc960#ref=rss)
-* [https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren](https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren-a-bd35a51c-5def-46de-9f66-17dfb9c4c0ea#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/kultur/bushido-zieht-zurueck-nach-deutschland-aber-nur-halb](https://www.spiegel.de/kultur/bushido-zieht-zurueck-nach-deutschland-aber-nur-halb-a-0df1e19f-c4ec-4e1d-be5a-0b63fb2d6a5f#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-muss-nach-operationen-wieder-in-haft](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-muss-nach-operationen-wieder-in-haft-a-83934884-a5f6-4038-bf42-2627a37caf41#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gleichbehandlung-zahl-der-frauen-in-deutschen-vorstandsetagen-gesunken](https://www.spiegel.de/wirtschaft/gleichbehandlung-zahl-der-frauen-in-deutschen-vorstandsetagen-gesunken-a-9707c57f-e62d-475c-87fa-07c1f8e7e2c0#ref=rss)
-### viele
-
-* [https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren](https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren-a-bd35a51c-5def-46de-9f66-17dfb9c4c0ea#ref=rss)
-* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-sturm-und-gewitter](https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-sturm-und-gewitter-a-0baf719f-f5e2-424d-b12c-609770973c88#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen](https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen-a-7c5fa062-cac9-4618-b9cb-18c66eb046ad#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren](https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren-a-bd35a51c-5def-46de-9f66-17dfb9c4c0ea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-besitzen-inzwischen-mehr-als-zehn-billionen-als-geldvermoegen](https://www.spiegel.de/wirtschaft/deutsche-besitzen-inzwischen-mehr-als-zehn-billionen-als-geldvermoegen-a-556ad993-c534-488b-819c-76feb5b2fa37#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen](https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen-a-7c5fa062-cac9-4618-b9cb-18c66eb046ad#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren](https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren-a-bd35a51c-5def-46de-9f66-17dfb9c4c0ea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gleichbehandlung-zahl-der-frauen-in-deutschen-vorstandsetagen-gesunken](https://www.spiegel.de/wirtschaft/gleichbehandlung-zahl-der-frauen-in-deutschen-vorstandsetagen-gesunken-a-9707c57f-e62d-475c-87fa-07c1f8e7e2c0#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren](https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren-a-bd35a51c-5def-46de-9f66-17dfb9c4c0ea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen](https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen-a-7c5fa062-cac9-4618-b9cb-18c66eb046ad#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dillingen-an-der-donau-feuerwerk-auf-autodach-polizei-stoppt-fahrer](https://www.spiegel.de/panorama/justiz/dillingen-an-der-donau-feuerwerk-auf-autodach-polizei-stoppt-fahrer-a-7bcd2480-0553-4b54-95d4-641146c283b7#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-sturm-und-gewitter](https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-sturm-und-gewitter-a-0baf719f-f5e2-424d-b12c-609770973c88#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dillingen-an-der-donau-feuerwerk-auf-autodach-polizei-stoppt-fahrer](https://www.spiegel.de/panorama/justiz/dillingen-an-der-donau-feuerwerk-auf-autodach-polizei-stoppt-fahrer-a-7bcd2480-0553-4b54-95d4-641146c283b7#ref=rss)
-### straßenbahn
-
-* [https://www.spiegel.de/panorama/justiz/dresden-anklage-nach-messerangriff-in-strassenbahn-erhoben](https://www.spiegel.de/panorama/justiz/dresden-anklage-nach-messerangriff-in-strassenbahn-erhoben-a-1fd9ea5d-2abe-4914-9974-3ad9ab88a707#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/dresden-anklage-nach-messerangriff-in-strassenbahn-erhoben](https://www.spiegel.de/panorama/justiz/dresden-anklage-nach-messerangriff-in-strassenbahn-erhoben-a-1fd9ea5d-2abe-4914-9974-3ad9ab88a707#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-ulrich-siegmund-will-sachsen-anhalt-regieren-wer-ist-der-mann](https://www.spiegel.de/politik/deutschland/afd-ulrich-siegmund-will-sachsen-anhalt-regieren-wer-ist-der-mann-a-2d4d656c-6f74-4f77-bff7-008da7e9f923#ref=rss)
-### autofahrer
-
-* [https://www.spiegel.de/wirtschaft/co-zuschlag-spritpreise-steigen-zum-jahreswechsel-kraeftig](https://www.spiegel.de/wirtschaft/co-zuschlag-spritpreise-steigen-zum-jahreswechsel-kraeftig-a-f74a8c67-da4b-4261-a6d5-f92b2e1fedf7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dillingen-an-der-donau-feuerwerk-auf-autodach-polizei-stoppt-fahrer](https://www.spiegel.de/panorama/justiz/dillingen-an-der-donau-feuerwerk-auf-autodach-polizei-stoppt-fahrer-a-7bcd2480-0553-4b54-95d4-641146c283b7#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/ausland/crans-montana-schweiz-kritik-an-sicherheitsvorkehrungen-nach-barbrand](https://www.spiegel.de/ausland/crans-montana-schweiz-kritik-an-sicherheitsvorkehrungen-nach-barbrand-a-8f2ff214-c852-467b-b779-15cb81865e4d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-crans-montana-ricarda-lang](https://www.spiegel.de/politik/deutschland/news-ukraine-crans-montana-ricarda-lang-a-0c0064a5-6116-4700-b99c-fed74e366cdf#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/crans-montana-schweiz-kritik-an-sicherheitsvorkehrungen-nach-barbrand](https://www.spiegel.de/ausland/crans-montana-schweiz-kritik-an-sicherheitsvorkehrungen-nach-barbrand-a-8f2ff214-c852-467b-b779-15cb81865e4d#ref=rss)
-* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-sturm-und-gewitter](https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-sturm-und-gewitter-a-0baf719f-f5e2-424d-b12c-609770973c88#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/start/neuen-job-suchen-zum-jahresbeginn-ist-das-eine-gute-idee](https://www.spiegel.de/start/neuen-job-suchen-zum-jahresbeginn-ist-das-eine-gute-idee-a-30343d80-2557-4ed9-810e-c5c41d98beef#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/amazon-echo-studio-im-test-fuenf-droehner-bitte](https://www.spiegel.de/netzwelt/gadgets/amazon-echo-studio-im-test-fuenf-droehner-bitte-a-bc02db49-dd2a-4ec0-8688-8cc438148da0#ref=rss)
-### jahresbeginn
-
-* [https://www.spiegel.de/start/neuen-job-suchen-zum-jahresbeginn-ist-das-eine-gute-idee](https://www.spiegel.de/start/neuen-job-suchen-zum-jahresbeginn-ist-das-eine-gute-idee-a-30343d80-2557-4ed9-810e-c5c41d98beef#ref=rss)
-* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-sturm-und-gewitter](https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-sturm-und-gewitter-a-0baf719f-f5e2-424d-b12c-609770973c88#ref=rss)
-### vielen
-
-* [https://www.spiegel.de/start/neuen-job-suchen-zum-jahresbeginn-ist-das-eine-gute-idee](https://www.spiegel.de/start/neuen-job-suchen-zum-jahresbeginn-ist-das-eine-gute-idee-a-30343d80-2557-4ed9-810e-c5c41d98beef#ref=rss)
-* [https://www.spiegel.de/psychologie/coaching-konfliktgespraeche-souveraen-fuehren-schritt-vier-mit-diesen-worten-stehen-sie-anderen-bei](https://www.spiegel.de/psychologie/coaching-konfliktgespraeche-souveraen-fuehren-schritt-vier-mit-diesen-worten-stehen-sie-anderen-bei-a-48c12765-2c9e-4cfd-a8a6-fbd3fd93171b#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/start/neuen-job-suchen-zum-jahresbeginn-ist-das-eine-gute-idee](https://www.spiegel.de/start/neuen-job-suchen-zum-jahresbeginn-ist-das-eine-gute-idee-a-30343d80-2557-4ed9-810e-c5c41d98beef#ref=rss)
-* [https://www.spiegel.de/ausland/protestwelle-in-iran-donald-trump-droht-teheran-mit-eingreifen](https://www.spiegel.de/ausland/protestwelle-in-iran-donald-trump-droht-teheran-mit-eingreifen-a-bfe02fe6-ceb1-45cc-8e04-3ab524eeaf3c#ref=rss)
-### vier
-
-* [https://www.spiegel.de/start/neuen-job-suchen-zum-jahresbeginn-ist-das-eine-gute-idee](https://www.spiegel.de/start/neuen-job-suchen-zum-jahresbeginn-ist-das-eine-gute-idee-a-30343d80-2557-4ed9-810e-c5c41d98beef#ref=rss)
-* [https://www.spiegel.de/psychologie/coaching-konfliktgespraeche-souveraen-fuehren-schritt-vier-mit-diesen-worten-stehen-sie-anderen-bei](https://www.spiegel.de/psychologie/coaching-konfliktgespraeche-souveraen-fuehren-schritt-vier-mit-diesen-worten-stehen-sie-anderen-bei-a-48c12765-2c9e-4cfd-a8a6-fbd3fd93171b#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/psychologie/coaching-konfliktgespraeche-souveraen-fuehren-schritt-vier-mit-diesen-worten-stehen-sie-anderen-bei](https://www.spiegel.de/psychologie/coaching-konfliktgespraeche-souveraen-fuehren-schritt-vier-mit-diesen-worten-stehen-sie-anderen-bei-a-48c12765-2c9e-4cfd-a8a6-fbd3fd93171b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/verbrennerverbot-der-anti-auto-kulturkampf-geht-weiter-kolumne](https://www.spiegel.de/politik/deutschland/verbrennerverbot-der-anti-auto-kulturkampf-geht-weiter-kolumne-a-e64d00ac-b934-4b26-9606-b78475939ead#ref=rss)
-### restaurant
-
-* [https://www.spiegel.de/panorama/justiz/timmendorfer-strand-verletzte-in-restaurant-putzmittel-als-getraenk-serviert](https://www.spiegel.de/panorama/justiz/timmendorfer-strand-verletzte-in-restaurant-putzmittel-als-getraenk-serviert-a-7044dafc-8d1e-4085-9880-157257c3d41b#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/panorama/justiz/timmendorfer-strand-verletzte-in-restaurant-putzmittel-als-getraenk-serviert](https://www.spiegel.de/panorama/justiz/timmendorfer-strand-verletzte-in-restaurant-putzmittel-als-getraenk-serviert-a-7044dafc-8d1e-4085-9880-157257c3d41b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-besitzen-inzwischen-mehr-als-zehn-billionen-als-geldvermoegen](https://www.spiegel.de/wirtschaft/deutsche-besitzen-inzwischen-mehr-als-zehn-billionen-als-geldvermoegen-a-556ad993-c534-488b-819c-76feb5b2fa37#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/brandtragoedie-in-der-schweiz-wie-aerzte-jetzt-um-das-ueberleben-der-brandverletzten-kaempfen](https://www.spiegel.de/wissenschaft/medizin/brandtragoedie-in-der-schweiz-wie-aerzte-jetzt-um-das-ueberleben-der-brandverletzten-kaempfen-a-16066fcd-de7f-4e04-b078-4f8cc7f0b294#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-crans-montana-residenz-von-wladimir-putin-donald-trump-und-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-crans-montana-residenz-von-wladimir-putin-donald-trump-und-iran-a-7bc5771c-fedb-4cb1-a2dc-694b4e5faa52#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln](https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln-a-24867074-b169-48c4-8f35-b95ed52ea7e4#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-experten-erklaeren-flashover-und-brandschutzmassnahmen](https://www.spiegel.de/panorama/crans-montana-experten-erklaeren-flashover-und-brandschutzmassnahmen-a-315780c8-6854-4d10-b2aa-18e922c186cb#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus](https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus-a-2fca69ae-f17e-498f-a1ac-bd5073c558bf#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/justiz/timmendorfer-strand-verletzte-in-restaurant-putzmittel-als-getraenk-serviert](https://www.spiegel.de/panorama/justiz/timmendorfer-strand-verletzte-in-restaurant-putzmittel-als-getraenk-serviert-a-7044dafc-8d1e-4085-9880-157257c3d41b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-besitzen-inzwischen-mehr-als-zehn-billionen-als-geldvermoegen](https://www.spiegel.de/wirtschaft/deutsche-besitzen-inzwischen-mehr-als-zehn-billionen-als-geldvermoegen-a-556ad993-c534-488b-819c-76feb5b2fa37#ref=rss)
-### norwegen
+* [https://www.spiegel.de/ausland/proteste-in-iran-hier-herrscht-militaerischer-ausnahmezustand](https://www.spiegel.de/ausland/proteste-in-iran-hier-herrscht-militaerischer-ausnahmezustand-a-43b041ed-78c0-4776-aa80-99ea0d0f628e#ref=rss)
+* [https://www.spiegel.de/kultur/j-r-r-tolkien-taylor-swift-die-simpsons-der-grosse-popkultur-kalender-2026](https://www.spiegel.de/kultur/j-r-r-tolkien-taylor-swift-die-simpsons-der-grosse-popkultur-kalender-2026-a-572e75b1-13b6-433b-9e47-0ac7fc8546c7#ref=rss)
+* [https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen](https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen-a-92f71102-c682-4e71-b79f-66977aeb0798#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln](https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln-a-24867074-b169-48c4-8f35-b95ed52ea7e4#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus](https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus-a-2fca69ae-f17e-498f-a1ac-bd5073c558bf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bankschliessfaecher-sicherheit-und-versicherung-was-sie-wissen-sollten](https://www.spiegel.de/wirtschaft/bankschliessfaecher-sicherheit-und-versicherung-was-sie-wissen-sollten-a-82cf2554-ee20-4410-8e54-4898afaaf030#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/auto/norwegen-96-prozent-aller-neu-zugelassenen-autos-fahren-elektrisch](https://www.spiegel.de/auto/norwegen-96-prozent-aller-neu-zugelassenen-autos-fahren-elektrisch-a-f3112631-1a2f-479b-b5d0-92fb79ed3cea#ref=rss)
-### prozent
+* [https://www.spiegel.de/panorama/wetter-linienbus-rutscht-boeschung-hinab-glaette-sorgt-fuer-viele-verkehrsunfaelle](https://www.spiegel.de/panorama/wetter-linienbus-rutscht-boeschung-hinab-glaette-sorgt-fuer-viele-verkehrsunfaelle-a-530be4eb-0c02-4dff-b85f-22db5c1a1ad5#ref=rss)
+* [https://www.spiegel.de/panorama/s-bahn-surfen-zwoelfjaehrige-stirbt-nach-sprung-auf-fahrenden-zug](https://www.spiegel.de/panorama/s-bahn-surfen-zwoelfjaehrige-stirbt-nach-sprung-auf-fahrenden-zug-a-4e59b627-45a6-4c5f-a3f1-18b06373972f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-gruendet-sonderorganisation-wegen-des-einbruchs-in-sparkasse](https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-gruendet-sonderorganisation-wegen-des-einbruchs-in-sparkasse-a-9f9db7ee-5ae6-4fd6-9dce-43404626c5af#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/halle-westfalen-erneut-bankschliessfaecher-in-nrw-aufgebrochen](https://www.spiegel.de/panorama/justiz/halle-westfalen-erneut-bankschliessfaecher-in-nrw-aufgebrochen-a-d8236365-a987-4ee4-865c-983067560846#ref=rss)
+### sparkasse
 
-* [https://www.spiegel.de/auto/norwegen-96-prozent-aller-neu-zugelassenen-autos-fahren-elektrisch](https://www.spiegel.de/auto/norwegen-96-prozent-aller-neu-zugelassenen-autos-fahren-elektrisch-a-f3112631-1a2f-479b-b5d0-92fb79ed3cea#ref=rss)
-* [https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren](https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren-a-bd35a51c-5def-46de-9f66-17dfb9c4c0ea#ref=rss)
-### neu
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-gruendet-sonderorganisation-wegen-des-einbruchs-in-sparkasse](https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-gruendet-sonderorganisation-wegen-des-einbruchs-in-sparkasse-a-9f9db7ee-5ae6-4fd6-9dce-43404626c5af#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/halle-westfalen-erneut-bankschliessfaecher-in-nrw-aufgebrochen](https://www.spiegel.de/panorama/justiz/halle-westfalen-erneut-bankschliessfaecher-in-nrw-aufgebrochen-a-d8236365-a987-4ee4-865c-983067560846#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bankschliessfaecher-sicherheit-und-versicherung-was-sie-wissen-sollten](https://www.spiegel.de/wirtschaft/bankschliessfaecher-sicherheit-und-versicherung-was-sie-wissen-sollten-a-82cf2554-ee20-4410-8e54-4898afaaf030#ref=rss)
+### viele
 
-* [https://www.spiegel.de/auto/norwegen-96-prozent-aller-neu-zugelassenen-autos-fahren-elektrisch](https://www.spiegel.de/auto/norwegen-96-prozent-aller-neu-zugelassenen-autos-fahren-elektrisch-a-f3112631-1a2f-479b-b5d0-92fb79ed3cea#ref=rss)
-### kältebus
+* [https://www.spiegel.de/panorama/wetter-linienbus-rutscht-boeschung-hinab-glaette-sorgt-fuer-viele-verkehrsunfaelle](https://www.spiegel.de/panorama/wetter-linienbus-rutscht-boeschung-hinab-glaette-sorgt-fuer-viele-verkehrsunfaelle-a-530be4eb-0c02-4dff-b85f-22db5c1a1ad5#ref=rss)
+* [https://www.spiegel.de/kultur/j-r-r-tolkien-taylor-swift-die-simpsons-der-grosse-popkultur-kalender-2026](https://www.spiegel.de/kultur/j-r-r-tolkien-taylor-swift-die-simpsons-der-grosse-popkultur-kalender-2026-a-572e75b1-13b6-433b-9e47-0ac7fc8546c7#ref=rss)
+* [https://www.spiegel.de/politik/viele-verletzte-nach-raketenangriff-auf-charkiw](https://www.spiegel.de/politik/viele-verletzte-nach-raketenangriff-auf-charkiw-a-d9201e31-a8e8-47b1-9f97-27d3842e1b64#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bankschliessfaecher-sicherheit-und-versicherung-was-sie-wissen-sollten](https://www.spiegel.de/wirtschaft/bankschliessfaecher-sicherheit-und-versicherung-was-sie-wissen-sollten-a-82cf2554-ee20-4410-8e54-4898afaaf030#ref=rss)
+### proteste
 
-* [https://www.spiegel.de/panorama/justiz/berlin-erneut-kaeltebus-angezuendet-tatverdaechtiger-gefasst](https://www.spiegel.de/panorama/justiz/berlin-erneut-kaeltebus-angezuendet-tatverdaechtiger-gefasst-a-fc605347-78c1-462a-a4ca-50be60da3495#ref=rss)
-### teheran
-
-* [https://www.spiegel.de/ausland/protestwelle-in-iran-donald-trump-droht-teheran-mit-eingreifen](https://www.spiegel.de/ausland/protestwelle-in-iran-donald-trump-droht-teheran-mit-eingreifen-a-bfe02fe6-ceb1-45cc-8e04-3ab524eeaf3c#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-hier-herrscht-militaerischer-ausnahmezustand](https://www.spiegel.de/ausland/proteste-in-iran-hier-herrscht-militaerischer-ausnahmezustand-a-43b041ed-78c0-4776-aa80-99ea0d0f628e#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-demonstranten-setzen-polizeistation-in-brand](https://www.spiegel.de/ausland/proteste-in-iran-demonstranten-setzen-polizeistation-in-brand-a-798c9c89-2acc-4908-9ccc-2a4afd8950f5#ref=rss)
+* [https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen](https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen-a-92f71102-c682-4e71-b79f-66977aeb0798#ref=rss)
 ### regime
 
-* [https://www.spiegel.de/ausland/protestwelle-in-iran-donald-trump-droht-teheran-mit-eingreifen](https://www.spiegel.de/ausland/protestwelle-in-iran-donald-trump-droht-teheran-mit-eingreifen-a-bfe02fe6-ceb1-45cc-8e04-3ab524eeaf3c#ref=rss)
-### reagiert
+* [https://www.spiegel.de/politik/iran-bietet-offenbar-verkauf-von-fortschrittlichen-waffensystemen-gegen-kryptogeld-an](https://www.spiegel.de/politik/iran-bietet-offenbar-verkauf-von-fortschrittlichen-waffensystemen-gegen-kryptogeld-an-a-97c6b0b7-4f4a-4de2-b919-331af5105b2a#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-demonstranten-setzen-polizeistation-in-brand](https://www.spiegel.de/ausland/proteste-in-iran-demonstranten-setzen-polizeistation-in-brand-a-798c9c89-2acc-4908-9ccc-2a4afd8950f5#ref=rss)
+* [https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen](https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen-a-92f71102-c682-4e71-b79f-66977aeb0798#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/protestwelle-in-iran-donald-trump-droht-teheran-mit-eingreifen](https://www.spiegel.de/ausland/protestwelle-in-iran-donald-trump-droht-teheran-mit-eingreifen-a-bfe02fe6-ceb1-45cc-8e04-3ab524eeaf3c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/george-clooney-reagiert-auf-spott-von-quatschkopf-donald-trump](https://www.spiegel.de/panorama/leute/george-clooney-reagiert-auf-spott-von-quatschkopf-donald-trump-a-08cdcb09-8db6-41cf-9019-257301d41585#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/wissenschaft/medizin/brandtragoedie-in-der-schweiz-wie-aerzte-jetzt-um-das-ueberleben-der-brandverletzten-kaempfen](https://www.spiegel.de/wissenschaft/medizin/brandtragoedie-in-der-schweiz-wie-aerzte-jetzt-um-das-ueberleben-der-brandverletzten-kaempfen-a-16066fcd-de7f-4e04-b078-4f8cc7f0b294#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-und-die-migration-warum-der-neue-abschiebeplan-fast-alle-zu-verlierern-machen-wuerde](https://www.spiegel.de/politik/deutschland/csu-und-die-migration-warum-der-neue-abschiebeplan-fast-alle-zu-verlierern-machen-wuerde-a-624e63ad-2df4-4ec8-bf31-78bb893ebd26#ref=rss)
+* [https://www.spiegel.de/wissenschaft/energiewende-kohleverstromung-faellt-auf-niedrigsten-stand-seit-den-fuenfzigerjahren](https://www.spiegel.de/wissenschaft/energiewende-kohleverstromung-faellt-auf-niedrigsten-stand-seit-den-fuenfzigerjahren-a-f3f0e173-9ca7-4dfa-8f57-07b6fcb2fef0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bankschliessfaecher-sicherheit-und-versicherung-was-sie-wissen-sollten](https://www.spiegel.de/wirtschaft/bankschliessfaecher-sicherheit-und-versicherung-was-sie-wissen-sollten-a-82cf2554-ee20-4410-8e54-4898afaaf030#ref=rss)
+### lage
 
-* [https://www.spiegel.de/ausland/protestwelle-in-iran-donald-trump-droht-teheran-mit-eingreifen](https://www.spiegel.de/ausland/protestwelle-in-iran-donald-trump-droht-teheran-mit-eingreifen-a-bfe02fe6-ceb1-45cc-8e04-3ab524eeaf3c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/george-clooney-reagiert-auf-spott-von-quatschkopf-donald-trump](https://www.spiegel.de/panorama/leute/george-clooney-reagiert-auf-spott-von-quatschkopf-donald-trump-a-08cdcb09-8db6-41cf-9019-257301d41585#ref=rss)
-### bushido
+* [https://www.spiegel.de/ausland/proteste-in-iran-hier-herrscht-militaerischer-ausnahmezustand](https://www.spiegel.de/ausland/proteste-in-iran-hier-herrscht-militaerischer-ausnahmezustand-a-43b041ed-78c0-4776-aa80-99ea0d0f628e#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-demonstranten-setzen-polizeistation-in-brand](https://www.spiegel.de/ausland/proteste-in-iran-demonstranten-setzen-polizeistation-in-brand-a-798c9c89-2acc-4908-9ccc-2a4afd8950f5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-crans-montana-residenz-von-wladimir-putin-donald-trump-und-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-crans-montana-residenz-von-wladimir-putin-donald-trump-und-iran-a-7bc5771c-fedb-4cb1-a2dc-694b4e5faa52#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/kultur/bushido-zieht-zurueck-nach-deutschland-aber-nur-halb](https://www.spiegel.de/kultur/bushido-zieht-zurueck-nach-deutschland-aber-nur-halb-a-0df1e19f-c4ec-4e1d-be5a-0b63fb2d6a5f#ref=rss)
-### bayern
+* [https://www.spiegel.de/politik/iran-bietet-offenbar-verkauf-von-fortschrittlichen-waffensystemen-gegen-kryptogeld-an](https://www.spiegel.de/politik/iran-bietet-offenbar-verkauf-von-fortschrittlichen-waffensystemen-gegen-kryptogeld-an-a-97c6b0b7-4f4a-4de2-b919-331af5105b2a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/halle-westfalen-erneut-bankschliessfaecher-in-nrw-aufgebrochen](https://www.spiegel.de/panorama/justiz/halle-westfalen-erneut-bankschliessfaecher-in-nrw-aufgebrochen-a-d8236365-a987-4ee4-865c-983067560846#ref=rss)
+### schweiz
 
-* [https://www.spiegel.de/kultur/bushido-zieht-zurueck-nach-deutschland-aber-nur-halb](https://www.spiegel.de/kultur/bushido-zieht-zurueck-nach-deutschland-aber-nur-halb-a-0df1e19f-c4ec-4e1d-be5a-0b63fb2d6a5f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dillingen-an-der-donau-feuerwerk-auf-autodach-polizei-stoppt-fahrer](https://www.spiegel.de/panorama/justiz/dillingen-an-der-donau-feuerwerk-auf-autodach-polizei-stoppt-fahrer-a-7bcd2480-0553-4b54-95d4-641146c283b7#ref=rss)
-### jair
+* [https://www.spiegel.de/wissenschaft/medizin/brandtragoedie-in-der-schweiz-wie-aerzte-jetzt-um-das-ueberleben-der-brandverletzten-kaempfen](https://www.spiegel.de/wissenschaft/medizin/brandtragoedie-in-der-schweiz-wie-aerzte-jetzt-um-das-ueberleben-der-brandverletzten-kaempfen-a-16066fcd-de7f-4e04-b078-4f8cc7f0b294#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln](https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln-a-24867074-b169-48c4-8f35-b95ed52ea7e4#ref=rss)
+### demonstranten
 
-* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-muss-nach-operationen-wieder-in-haft](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-muss-nach-operationen-wieder-in-haft-a-83934884-a5f6-4038-bf42-2627a37caf41#ref=rss)
-### bolsonaro
-
-* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-muss-nach-operationen-wieder-in-haft](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-muss-nach-operationen-wieder-in-haft-a-83934884-a5f6-4038-bf42-2627a37caf41#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-sportvorstand-stefan-kuntz-verlaesst-den-klub](https://www.spiegel.de/sport/fussball/hamburger-sv-sportvorstand-stefan-kuntz-verlaesst-den-klub-a-9efbdb25-0f89-42d4-b7fa-ea29eb282e4e#ref=rss)
-### sv
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-sportvorstand-stefan-kuntz-verlaesst-den-klub](https://www.spiegel.de/sport/fussball/hamburger-sv-sportvorstand-stefan-kuntz-verlaesst-den-klub-a-9efbdb25-0f89-42d4-b7fa-ea29eb282e4e#ref=rss)
-### sportvorstand
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-sportvorstand-stefan-kuntz-verlaesst-den-klub](https://www.spiegel.de/sport/fussball/hamburger-sv-sportvorstand-stefan-kuntz-verlaesst-den-klub-a-9efbdb25-0f89-42d4-b7fa-ea29eb282e4e#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-sportvorstand-stefan-kuntz-verlaesst-den-klub](https://www.spiegel.de/sport/fussball/hamburger-sv-sportvorstand-stefan-kuntz-verlaesst-den-klub-a-9efbdb25-0f89-42d4-b7fa-ea29eb282e4e#ref=rss)
-### kuntz
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-sportvorstand-stefan-kuntz-verlaesst-den-klub](https://www.spiegel.de/sport/fussball/hamburger-sv-sportvorstand-stefan-kuntz-verlaesst-den-klub-a-9efbdb25-0f89-42d4-b7fa-ea29eb282e4e#ref=rss)
-### escooter
-
-* [https://www.spiegel.de/auto/fahrkultur/e-scooter-besuch-bei-einem-training-fuer-senioren-in-berlin](https://www.spiegel.de/auto/fahrkultur/e-scooter-besuch-bei-einem-training-fuer-senioren-in-berlin-a-752719c0-1a2b-45e7-a2e4-e63fbc981f86#ref=rss)
-### senioren
-
-* [https://www.spiegel.de/auto/fahrkultur/e-scooter-besuch-bei-einem-training-fuer-senioren-in-berlin](https://www.spiegel.de/auto/fahrkultur/e-scooter-besuch-bei-einem-training-fuer-senioren-in-berlin-a-752719c0-1a2b-45e7-a2e4-e63fbc981f86#ref=rss)
-### unfälle
-
-* [https://www.spiegel.de/auto/fahrkultur/e-scooter-besuch-bei-einem-training-fuer-senioren-in-berlin](https://www.spiegel.de/auto/fahrkultur/e-scooter-besuch-bei-einem-training-fuer-senioren-in-berlin-a-752719c0-1a2b-45e7-a2e4-e63fbc981f86#ref=rss)
-* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-sturm-und-gewitter](https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-sturm-und-gewitter-a-0baf719f-f5e2-424d-b12c-609770973c88#ref=rss)
-### verbrennerverbot
-
-* [https://www.spiegel.de/politik/deutschland/verbrennerverbot-der-anti-auto-kulturkampf-geht-weiter-kolumne](https://www.spiegel.de/politik/deutschland/verbrennerverbot-der-anti-auto-kulturkampf-geht-weiter-kolumne-a-e64d00ac-b934-4b26-9606-b78475939ead#ref=rss)
-### george
-
-* [https://www.spiegel.de/panorama/leute/george-clooney-reagiert-auf-spott-von-quatschkopf-donald-trump](https://www.spiegel.de/panorama/leute/george-clooney-reagiert-auf-spott-von-quatschkopf-donald-trump-a-08cdcb09-8db6-41cf-9019-257301d41585#ref=rss)
-### clooney
-
-* [https://www.spiegel.de/panorama/leute/george-clooney-reagiert-auf-spott-von-quatschkopf-donald-trump](https://www.spiegel.de/panorama/leute/george-clooney-reagiert-auf-spott-von-quatschkopf-donald-trump-a-08cdcb09-8db6-41cf-9019-257301d41585#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/panorama/leute/george-clooney-reagiert-auf-spott-von-quatschkopf-donald-trump](https://www.spiegel.de/panorama/leute/george-clooney-reagiert-auf-spott-von-quatschkopf-donald-trump-a-08cdcb09-8db6-41cf-9019-257301d41585#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-russland-uebergibt-angebliche-beweise-fuer-angriff-auf-putin-residenz-an-die-usa](https://www.spiegel.de/ausland/wladimir-putin-russland-uebergibt-angebliche-beweise-fuer-angriff-auf-putin-residenz-an-die-usa-a-e626e765-5465-4794-bf87-8645d5a11819#ref=rss)
-### zumindest
-
-* [https://www.spiegel.de/panorama/leute/george-clooney-reagiert-auf-spott-von-quatschkopf-donald-trump](https://www.spiegel.de/panorama/leute/george-clooney-reagiert-auf-spott-von-quatschkopf-donald-trump-a-08cdcb09-8db6-41cf-9019-257301d41585#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen](https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen-a-7c5fa062-cac9-4618-b9cb-18c66eb046ad#ref=rss)
-### ulrich
-
-* [https://www.spiegel.de/politik/deutschland/afd-ulrich-siegmund-will-sachsen-anhalt-regieren-wer-ist-der-mann](https://www.spiegel.de/politik/deutschland/afd-ulrich-siegmund-will-sachsen-anhalt-regieren-wer-ist-der-mann-a-2d4d656c-6f74-4f77-bff7-008da7e9f923#ref=rss)
-### siegmund
-
-* [https://www.spiegel.de/politik/deutschland/afd-ulrich-siegmund-will-sachsen-anhalt-regieren-wer-ist-der-mann](https://www.spiegel.de/politik/deutschland/afd-ulrich-siegmund-will-sachsen-anhalt-regieren-wer-ist-der-mann-a-2d4d656c-6f74-4f77-bff7-008da7e9f923#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/deutschland/afd-ulrich-siegmund-will-sachsen-anhalt-regieren-wer-ist-der-mann](https://www.spiegel.de/politik/deutschland/afd-ulrich-siegmund-will-sachsen-anhalt-regieren-wer-ist-der-mann-a-2d4d656c-6f74-4f77-bff7-008da7e9f923#ref=rss)
-### extrem
-
-* [https://www.spiegel.de/politik/deutschland/afd-ulrich-siegmund-will-sachsen-anhalt-regieren-wer-ist-der-mann](https://www.spiegel.de/politik/deutschland/afd-ulrich-siegmund-will-sachsen-anhalt-regieren-wer-ist-der-mann-a-2d4d656c-6f74-4f77-bff7-008da7e9f923#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-nachtschatten-mit-cornelia-groeschel](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-nachtschatten-mit-cornelia-groeschel-a-1b480758-bac9-4f4a-b718-155634da3e5b#ref=rss)
-### venus
-
-* [https://www.spiegel.de/sport/tennis/venus-williams-vor-altersrekord-bei-australian-open](https://www.spiegel.de/sport/tennis/venus-williams-vor-altersrekord-bei-australian-open-a-06153ff4-792e-40f6-88f4-f3c8afc4e323#ref=rss)
-### williams
-
-* [https://www.spiegel.de/sport/tennis/venus-williams-vor-altersrekord-bei-australian-open](https://www.spiegel.de/sport/tennis/venus-williams-vor-altersrekord-bei-australian-open-a-06153ff4-792e-40f6-88f4-f3c8afc4e323#ref=rss)
-### australian
-
-* [https://www.spiegel.de/sport/tennis/venus-williams-vor-altersrekord-bei-australian-open](https://www.spiegel.de/sport/tennis/venus-williams-vor-altersrekord-bei-australian-open-a-06153ff4-792e-40f6-88f4-f3c8afc4e323#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/tennis/venus-williams-vor-altersrekord-bei-australian-open](https://www.spiegel.de/sport/tennis/venus-williams-vor-altersrekord-bei-australian-open-a-06153ff4-792e-40f6-88f4-f3c8afc4e323#ref=rss)
-### pferde
-
-* [https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren](https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren-a-bd35a51c-5def-46de-9f66-17dfb9c4c0ea#ref=rss)
-### vergangenen
-
-* [https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren](https://www.spiegel.de/sport/reiten-bilanz-2025-so-viele-pferde-starben-bei-internationalen-turnieren-a-bd35a51c-5def-46de-9f66-17dfb9c4c0ea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen](https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen-a-7c5fa062-cac9-4618-b9cb-18c66eb046ad#ref=rss)
-### geldvermögen
-
-* [https://www.spiegel.de/wirtschaft/deutsche-besitzen-inzwischen-mehr-als-zehn-billionen-als-geldvermoegen](https://www.spiegel.de/wirtschaft/deutsche-besitzen-inzwischen-mehr-als-zehn-billionen-als-geldvermoegen-a-556ad993-c534-488b-819c-76feb5b2fa37#ref=rss)
-### bundesnetzagentur
-
-* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen](https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen-a-7c5fa062-cac9-4618-b9cb-18c66eb046ad#ref=rss)
-### kilometer
-
-* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen](https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen-a-7c5fa062-cac9-4618-b9cb-18c66eb046ad#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-demonstranten-setzen-polizeistation-in-brand](https://www.spiegel.de/ausland/proteste-in-iran-demonstranten-setzen-polizeistation-in-brand-a-798c9c89-2acc-4908-9ccc-2a4afd8950f5#ref=rss)
+* [https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen](https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen-a-92f71102-c682-4e71-b79f-66977aeb0798#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen](https://www.spiegel.de/wirtschaft/bundesnetzagentur-genehmigt-mehr-als-2000-kilometer-neue-stromautobahnen-a-7c5fa062-cac9-4618-b9cb-18c66eb046ad#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dillingen-an-der-donau-feuerwerk-auf-autodach-polizei-stoppt-fahrer](https://www.spiegel.de/panorama/justiz/dillingen-an-der-donau-feuerwerk-auf-autodach-polizei-stoppt-fahrer-a-7bcd2480-0553-4b54-95d4-641146c283b7#ref=rss)
-### russland
+* [https://www.spiegel.de/politik/deutschland/csu-und-die-migration-warum-der-neue-abschiebeplan-fast-alle-zu-verlierern-machen-wuerde](https://www.spiegel.de/politik/deutschland/csu-und-die-migration-warum-der-neue-abschiebeplan-fast-alle-zu-verlierern-machen-wuerde-a-624e63ad-2df4-4ec8-bf31-78bb893ebd26#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energie-woher-der-deutsche-strom-2025-kam-sechs-trends-und-fakten](https://www.spiegel.de/wirtschaft/energie-woher-der-deutsche-strom-2025-kam-sechs-trends-und-fakten-a-70c4a250-b973-4335-bb13-04aa7a85a701#ref=rss)
+* [https://www.spiegel.de/wissenschaft/energiewende-kohleverstromung-faellt-auf-niedrigsten-stand-seit-den-fuenfzigerjahren](https://www.spiegel.de/wissenschaft/energiewende-kohleverstromung-faellt-auf-niedrigsten-stand-seit-den-fuenfzigerjahren-a-f3f0e173-9ca7-4dfa-8f57-07b6fcb2fef0#ref=rss)
+### gelsenkirchen
 
-* [https://www.spiegel.de/ausland/wladimir-putin-russland-uebergibt-angebliche-beweise-fuer-angriff-auf-putin-residenz-an-die-usa](https://www.spiegel.de/ausland/wladimir-putin-russland-uebergibt-angebliche-beweise-fuer-angriff-auf-putin-residenz-an-die-usa-a-e626e765-5465-4794-bf87-8645d5a11819#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-crans-montana-ricarda-lang](https://www.spiegel.de/politik/deutschland/news-ukraine-crans-montana-ricarda-lang-a-0c0064a5-6116-4700-b99c-fed74e366cdf#ref=rss)
-### putinresidenz
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-gruendet-sonderorganisation-wegen-des-einbruchs-in-sparkasse](https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-gruendet-sonderorganisation-wegen-des-einbruchs-in-sparkasse-a-9f9db7ee-5ae6-4fd6-9dce-43404626c5af#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bankschliessfaecher-sicherheit-und-versicherung-was-sie-wissen-sollten](https://www.spiegel.de/wirtschaft/bankschliessfaecher-sicherheit-und-versicherung-was-sie-wissen-sollten-a-82cf2554-ee20-4410-8e54-4898afaaf030#ref=rss)
+### bankschließfächer
 
-* [https://www.spiegel.de/ausland/wladimir-putin-russland-uebergibt-angebliche-beweise-fuer-angriff-auf-putin-residenz-an-die-usa](https://www.spiegel.de/ausland/wladimir-putin-russland-uebergibt-angebliche-beweise-fuer-angriff-auf-putin-residenz-an-die-usa-a-e626e765-5465-4794-bf87-8645d5a11819#ref=rss)
-### ukraine
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-gruendet-sonderorganisation-wegen-des-einbruchs-in-sparkasse](https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-gruendet-sonderorganisation-wegen-des-einbruchs-in-sparkasse-a-9f9db7ee-5ae6-4fd6-9dce-43404626c5af#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/halle-westfalen-erneut-bankschliessfaecher-in-nrw-aufgebrochen](https://www.spiegel.de/panorama/justiz/halle-westfalen-erneut-bankschliessfaecher-in-nrw-aufgebrochen-a-d8236365-a987-4ee4-865c-983067560846#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bankschliessfaecher-sicherheit-und-versicherung-was-sie-wissen-sollten](https://www.spiegel.de/wirtschaft/bankschliessfaecher-sicherheit-und-versicherung-was-sie-wissen-sollten-a-82cf2554-ee20-4410-8e54-4898afaaf030#ref=rss)
+### täter
 
-* [https://www.spiegel.de/ausland/wladimir-putin-russland-uebergibt-angebliche-beweise-fuer-angriff-auf-putin-residenz-an-die-usa](https://www.spiegel.de/ausland/wladimir-putin-russland-uebergibt-angebliche-beweise-fuer-angriff-auf-putin-residenz-an-die-usa-a-e626e765-5465-4794-bf87-8645d5a11819#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-crans-montana-ricarda-lang](https://www.spiegel.de/politik/deutschland/news-ukraine-crans-montana-ricarda-lang-a-0c0064a5-6116-4700-b99c-fed74e366cdf#ref=rss)
-### dillingen
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-gruendet-sonderorganisation-wegen-des-einbruchs-in-sparkasse](https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-gruendet-sonderorganisation-wegen-des-einbruchs-in-sparkasse-a-9f9db7ee-5ae6-4fd6-9dce-43404626c5af#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/halle-westfalen-erneut-bankschliessfaecher-in-nrw-aufgebrochen](https://www.spiegel.de/panorama/justiz/halle-westfalen-erneut-bankschliessfaecher-in-nrw-aufgebrochen-a-d8236365-a987-4ee4-865c-983067560846#ref=rss)
+### angelina
 
-* [https://www.spiegel.de/panorama/justiz/dillingen-an-der-donau-feuerwerk-auf-autodach-polizei-stoppt-fahrer](https://www.spiegel.de/panorama/justiz/dillingen-an-der-donau-feuerwerk-auf-autodach-polizei-stoppt-fahrer-a-7bcd2480-0553-4b54-95d4-641146c283b7#ref=rss)
-### ricarda
+* [https://www.spiegel.de/panorama/leute/uebergang-zu-gaza-angelina-jolie-besucht-den-grenzuebergang-rafah](https://www.spiegel.de/panorama/leute/uebergang-zu-gaza-angelina-jolie-besucht-den-grenzuebergang-rafah-a-06ead59c-2600-4b3d-b7ab-b46d25e286cd#ref=rss)
+### jolie
 
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-crans-montana-ricarda-lang](https://www.spiegel.de/politik/deutschland/news-ukraine-crans-montana-ricarda-lang-a-0c0064a5-6116-4700-b99c-fed74e366cdf#ref=rss)
-### lang
+* [https://www.spiegel.de/panorama/leute/uebergang-zu-gaza-angelina-jolie-besucht-den-grenzuebergang-rafah](https://www.spiegel.de/panorama/leute/uebergang-zu-gaza-angelina-jolie-besucht-den-grenzuebergang-rafah-a-06ead59c-2600-4b3d-b7ab-b46d25e286cd#ref=rss)
+### rafah
 
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-crans-montana-ricarda-lang](https://www.spiegel.de/politik/deutschland/news-ukraine-crans-montana-ricarda-lang-a-0c0064a5-6116-4700-b99c-fed74e366cdf#ref=rss)
+* [https://www.spiegel.de/panorama/leute/uebergang-zu-gaza-angelina-jolie-besucht-den-grenzuebergang-rafah](https://www.spiegel.de/panorama/leute/uebergang-zu-gaza-angelina-jolie-besucht-den-grenzuebergang-rafah-a-06ead59c-2600-4b3d-b7ab-b46d25e286cd#ref=rss)
+### getroffen
+
+* [https://www.spiegel.de/panorama/leute/uebergang-zu-gaza-angelina-jolie-besucht-den-grenzuebergang-rafah](https://www.spiegel.de/panorama/leute/uebergang-zu-gaza-angelina-jolie-besucht-den-grenzuebergang-rafah-a-06ead59c-2600-4b3d-b7ab-b46d25e286cd#ref=rss)
+* [https://www.spiegel.de/politik/viele-verletzte-nach-raketenangriff-auf-charkiw](https://www.spiegel.de/politik/viele-verletzte-nach-raketenangriff-auf-charkiw-a-d9201e31-a8e8-47b1-9f97-27d3842e1b64#ref=rss)
+### weiterhin
+
+* [https://www.spiegel.de/panorama/leute/uebergang-zu-gaza-angelina-jolie-besucht-den-grenzuebergang-rafah](https://www.spiegel.de/panorama/leute/uebergang-zu-gaza-angelina-jolie-besucht-den-grenzuebergang-rafah-a-06ead59c-2600-4b3d-b7ab-b46d25e286cd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-gruendet-sonderorganisation-wegen-des-einbruchs-in-sparkasse](https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-gruendet-sonderorganisation-wegen-des-einbruchs-in-sparkasse-a-9f9db7ee-5ae6-4fd6-9dce-43404626c5af#ref=rss)
+### mehreren
+
+* [https://www.spiegel.de/panorama/wetter-linienbus-rutscht-boeschung-hinab-glaette-sorgt-fuer-viele-verkehrsunfaelle](https://www.spiegel.de/panorama/wetter-linienbus-rutscht-boeschung-hinab-glaette-sorgt-fuer-viele-verkehrsunfaelle-a-530be4eb-0c02-4dff-b85f-22db5c1a1ad5#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-hier-herrscht-militaerischer-ausnahmezustand](https://www.spiegel.de/ausland/proteste-in-iran-hier-herrscht-militaerischer-ausnahmezustand-a-43b041ed-78c0-4776-aa80-99ea0d0f628e#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/panorama/wetter-linienbus-rutscht-boeschung-hinab-glaette-sorgt-fuer-viele-verkehrsunfaelle](https://www.spiegel.de/panorama/wetter-linienbus-rutscht-boeschung-hinab-glaette-sorgt-fuer-viele-verkehrsunfaelle-a-530be4eb-0c02-4dff-b85f-22db5c1a1ad5#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-demonstranten-setzen-polizeistation-in-brand](https://www.spiegel.de/ausland/proteste-in-iran-demonstranten-setzen-polizeistation-in-brand-a-798c9c89-2acc-4908-9ccc-2a4afd8950f5#ref=rss)
+### landes
+
+* [https://www.spiegel.de/ausland/proteste-in-iran-hier-herrscht-militaerischer-ausnahmezustand](https://www.spiegel.de/ausland/proteste-in-iran-hier-herrscht-militaerischer-ausnahmezustand-a-43b041ed-78c0-4776-aa80-99ea0d0f628e#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus](https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus-a-2fca69ae-f17e-498f-a1ac-bd5073c558bf#ref=rss)
+### preise
+
+* [https://www.spiegel.de/ausland/proteste-in-iran-hier-herrscht-militaerischer-ausnahmezustand](https://www.spiegel.de/ausland/proteste-in-iran-hier-herrscht-militaerischer-ausnahmezustand-a-43b041ed-78c0-4776-aa80-99ea0d0f628e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energie-woher-der-deutsche-strom-2025-kam-sechs-trends-und-fakten](https://www.spiegel.de/wirtschaft/energie-woher-der-deutsche-strom-2025-kam-sechs-trends-und-fakten-a-70c4a250-b973-4335-bb13-04aa7a85a701#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/proteste-in-iran-hier-herrscht-militaerischer-ausnahmezustand](https://www.spiegel.de/ausland/proteste-in-iran-hier-herrscht-militaerischer-ausnahmezustand-a-43b041ed-78c0-4776-aa80-99ea0d0f628e#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln](https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln-a-24867074-b169-48c4-8f35-b95ed52ea7e4#ref=rss)
+### r
+
+* [https://www.spiegel.de/kultur/j-r-r-tolkien-taylor-swift-die-simpsons-der-grosse-popkultur-kalender-2026](https://www.spiegel.de/kultur/j-r-r-tolkien-taylor-swift-die-simpsons-der-grosse-popkultur-kalender-2026-a-572e75b1-13b6-433b-9e47-0ac7fc8546c7#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/kultur/j-r-r-tolkien-taylor-swift-die-simpsons-der-grosse-popkultur-kalender-2026](https://www.spiegel.de/kultur/j-r-r-tolkien-taylor-swift-die-simpsons-der-grosse-popkultur-kalender-2026-a-572e75b1-13b6-433b-9e47-0ac7fc8546c7#ref=rss)
+### gut
+
+* [https://www.spiegel.de/kultur/j-r-r-tolkien-taylor-swift-die-simpsons-der-grosse-popkultur-kalender-2026](https://www.spiegel.de/kultur/j-r-r-tolkien-taylor-swift-die-simpsons-der-grosse-popkultur-kalender-2026-a-572e75b1-13b6-433b-9e47-0ac7fc8546c7#ref=rss)
+### raketen
+
+* [https://www.spiegel.de/politik/iran-bietet-offenbar-verkauf-von-fortschrittlichen-waffensystemen-gegen-kryptogeld-an](https://www.spiegel.de/politik/iran-bietet-offenbar-verkauf-von-fortschrittlichen-waffensystemen-gegen-kryptogeld-an-a-97c6b0b7-4f4a-4de2-b919-331af5105b2a#ref=rss)
+* [https://www.spiegel.de/politik/viele-verletzte-nach-raketenangriff-auf-charkiw](https://www.spiegel.de/politik/viele-verletzte-nach-raketenangriff-auf-charkiw-a-d9201e31-a8e8-47b1-9f97-27d3842e1b64#ref=rss)
+### teheran
+
+* [https://www.spiegel.de/politik/iran-bietet-offenbar-verkauf-von-fortschrittlichen-waffensystemen-gegen-kryptogeld-an](https://www.spiegel.de/politik/iran-bietet-offenbar-verkauf-von-fortschrittlichen-waffensystemen-gegen-kryptogeld-an-a-97c6b0b7-4f4a-4de2-b919-331af5105b2a#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-demonstranten-setzen-polizeistation-in-brand](https://www.spiegel.de/ausland/proteste-in-iran-demonstranten-setzen-polizeistation-in-brand-a-798c9c89-2acc-4908-9ccc-2a4afd8950f5#ref=rss)
+### verletzten
+
+* [https://www.spiegel.de/wissenschaft/medizin/brandtragoedie-in-der-schweiz-wie-aerzte-jetzt-um-das-ueberleben-der-brandverletzten-kaempfen](https://www.spiegel.de/wissenschaft/medizin/brandtragoedie-in-der-schweiz-wie-aerzte-jetzt-um-das-ueberleben-der-brandverletzten-kaempfen-a-16066fcd-de7f-4e04-b078-4f8cc7f0b294#ref=rss)
+* [https://www.spiegel.de/politik/viele-verletzte-nach-raketenangriff-auf-charkiw](https://www.spiegel.de/politik/viele-verletzte-nach-raketenangriff-auf-charkiw-a-d9201e31-a8e8-47b1-9f97-27d3842e1b64#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen](https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen-a-92f71102-c682-4e71-b79f-66977aeb0798#ref=rss)
+### toten
+
+* [https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen](https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen-a-92f71102-c682-4e71-b79f-66977aeb0798#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/archaeologie-forschende-entdecken-aeltesten-scheiterhaufen-in-afrika](https://www.spiegel.de/wissenschaft/mensch/archaeologie-forschende-entdecken-aeltesten-scheiterhaufen-in-afrika-a-f64f1b77-bad9-45bb-bc16-6cecd2d50718#ref=rss)
+### jüngsten
+
+* [https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen](https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen-a-92f71102-c682-4e71-b79f-66977aeb0798#ref=rss)
+* [https://www.spiegel.de/politik/viele-verletzte-nach-raketenangriff-auf-charkiw](https://www.spiegel.de/politik/viele-verletzte-nach-raketenangriff-auf-charkiw-a-d9201e31-a8e8-47b1-9f97-27d3842e1b64#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen](https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen-a-92f71102-c682-4e71-b79f-66977aeb0798#ref=rss)
+* [https://www.spiegel.de/kultur/walter-schultheiss-tatort-darsteller-und-volksschauspieler-ist-tot](https://www.spiegel.de/kultur/walter-schultheiss-tatort-darsteller-und-volksschauspieler-ist-tot-a-ce07beb5-fac3-4f21-8bba-79919ccd0715#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen](https://www.spiegel.de/politik/proteste-in-iran-bundesregierung-ermahnt-irans-regime-nach-toten-bei-demonstrationen-a-92f71102-c682-4e71-b79f-66977aeb0798#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bankschliessfaecher-sicherheit-und-versicherung-was-sie-wissen-sollten](https://www.spiegel.de/wirtschaft/bankschliessfaecher-sicherheit-und-versicherung-was-sie-wissen-sollten-a-82cf2554-ee20-4410-8e54-4898afaaf030#ref=rss)
+### israel
+
+* [https://www.spiegel.de/geschichte/israel-und-der-nahostkonflikt-es-geht-darum-das-trauma-des-anderen-wirklich-zu-verstehen](https://www.spiegel.de/geschichte/israel-und-der-nahostkonflikt-es-geht-darum-das-trauma-des-anderen-wirklich-zu-verstehen-a-ff4cb817-7b89-45a8-94f0-4e3c69f5251c#ref=rss)
+### csu
+
+* [https://www.spiegel.de/politik/deutschland/csu-und-die-migration-warum-der-neue-abschiebeplan-fast-alle-zu-verlierern-machen-wuerde](https://www.spiegel.de/politik/deutschland/csu-und-die-migration-warum-der-neue-abschiebeplan-fast-alle-zu-verlierern-machen-wuerde-a-624e63ad-2df4-4ec8-bf31-78bb893ebd26#ref=rss)
+### fast
+
+* [https://www.spiegel.de/politik/deutschland/csu-und-die-migration-warum-der-neue-abschiebeplan-fast-alle-zu-verlierern-machen-wuerde](https://www.spiegel.de/politik/deutschland/csu-und-die-migration-warum-der-neue-abschiebeplan-fast-alle-zu-verlierern-machen-wuerde-a-624e63ad-2df4-4ec8-bf31-78bb893ebd26#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/wegen-kollisionsgefahr-spacex-schickt-starlink-satelliten-in-tiefere-umlaufbahn](https://www.spiegel.de/wissenschaft/weltall/wegen-kollisionsgefahr-spacex-schickt-starlink-satelliten-in-tiefere-umlaufbahn-a-39e868d4-b6c5-4875-85fa-fdef22e13753#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/politik/deutschland/csu-und-die-migration-warum-der-neue-abschiebeplan-fast-alle-zu-verlierern-machen-wuerde](https://www.spiegel.de/politik/deutschland/csu-und-die-migration-warum-der-neue-abschiebeplan-fast-alle-zu-verlierern-machen-wuerde-a-624e63ad-2df4-4ec8-bf31-78bb893ebd26#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tesla-elon-musks-konzern-liefert-deutlich-weniger-autos-aus](https://www.spiegel.de/wirtschaft/tesla-elon-musks-konzern-liefert-deutlich-weniger-autos-aus-a-584c9284-4f40-42de-b102-a7d3f4e1fd8a#ref=rss)
+### walter
+
+* [https://www.spiegel.de/kultur/walter-schultheiss-tatort-darsteller-und-volksschauspieler-ist-tot](https://www.spiegel.de/kultur/walter-schultheiss-tatort-darsteller-und-volksschauspieler-ist-tot-a-ce07beb5-fac3-4f21-8bba-79919ccd0715#ref=rss)
+### schultheiß
+
+* [https://www.spiegel.de/kultur/walter-schultheiss-tatort-darsteller-und-volksschauspieler-ist-tot](https://www.spiegel.de/kultur/walter-schultheiss-tatort-darsteller-und-volksschauspieler-ist-tot-a-ce07beb5-fac3-4f21-8bba-79919ccd0715#ref=rss)
+### stand
+
+* [https://www.spiegel.de/kultur/walter-schultheiss-tatort-darsteller-und-volksschauspieler-ist-tot](https://www.spiegel.de/kultur/walter-schultheiss-tatort-darsteller-und-volksschauspieler-ist-tot-a-ce07beb5-fac3-4f21-8bba-79919ccd0715#ref=rss)
+* [https://www.spiegel.de/wissenschaft/energiewende-kohleverstromung-faellt-auf-niedrigsten-stand-seit-den-fuenfzigerjahren](https://www.spiegel.de/wissenschaft/energiewende-kohleverstromung-faellt-auf-niedrigsten-stand-seit-den-fuenfzigerjahren-a-f3f0e173-9ca7-4dfa-8f57-07b6fcb2fef0#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/kultur/walter-schultheiss-tatort-darsteller-und-volksschauspieler-ist-tot](https://www.spiegel.de/kultur/walter-schultheiss-tatort-darsteller-und-volksschauspieler-ist-tot-a-ce07beb5-fac3-4f21-8bba-79919ccd0715#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/archaeologie-forschende-entdecken-aeltesten-scheiterhaufen-in-afrika](https://www.spiegel.de/wissenschaft/mensch/archaeologie-forschende-entdecken-aeltesten-scheiterhaufen-in-afrika-a-f64f1b77-bad9-45bb-bc16-6cecd2d50718#ref=rss)
+### feuer
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-crans-montana-residenz-von-wladimir-putin-donald-trump-und-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-crans-montana-residenz-von-wladimir-putin-donald-trump-und-iran-a-7bc5771c-fedb-4cb1-a2dc-694b4e5faa52#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus](https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus-a-2fca69ae-f17e-498f-a1ac-bd5073c558bf#ref=rss)
+### trump
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-crans-montana-residenz-von-wladimir-putin-donald-trump-und-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-crans-montana-residenz-von-wladimir-putin-donald-trump-und-iran-a-7bc5771c-fedb-4cb1-a2dc-694b4e5faa52#ref=rss)
+### scheint
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-crans-montana-residenz-von-wladimir-putin-donald-trump-und-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-crans-montana-residenz-von-wladimir-putin-donald-trump-und-iran-a-7bc5771c-fedb-4cb1-a2dc-694b4e5faa52#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus](https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus-a-2fca69ae-f17e-498f-a1ac-bd5073c558bf#ref=rss)
+### klar
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-crans-montana-residenz-von-wladimir-putin-donald-trump-und-iran](https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-crans-montana-residenz-von-wladimir-putin-donald-trump-und-iran-a-7bc5771c-fedb-4cb1-a2dc-694b4e5faa52#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus](https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus-a-2fca69ae-f17e-498f-a1ac-bd5073c558bf#ref=rss)
+### 40
+
+* [https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln](https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln-a-24867074-b169-48c4-8f35-b95ed52ea7e4#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus](https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus-a-2fca69ae-f17e-498f-a1ac-bd5073c558bf#ref=rss)
+### bar
+
+* [https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln](https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln-a-24867074-b169-48c4-8f35-b95ed52ea7e4#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus](https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus-a-2fca69ae-f17e-498f-a1ac-bd5073c558bf#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln](https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln-a-24867074-b169-48c4-8f35-b95ed52ea7e4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energie-woher-der-deutsche-strom-2025-kam-sechs-trends-und-fakten](https://www.spiegel.de/wirtschaft/energie-woher-der-deutsche-strom-2025-kam-sechs-trends-und-fakten-a-70c4a250-b973-4335-bb13-04aa7a85a701#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln](https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln-a-24867074-b169-48c4-8f35-b95ed52ea7e4#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus](https://www.spiegel.de/ausland/crans-montana-ermittler-gehen-von-champagnerflaschen-als-brandausloeser-aus-a-2fca69ae-f17e-498f-a1ac-bd5073c558bf#ref=rss)
+### betreiber
+
+* [https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln](https://www.spiegel.de/ausland/crans-montana-diese-katastrophe-muss-die-schweiz-wachruetteln-a-24867074-b169-48c4-8f35-b95ed52ea7e4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/wegen-kollisionsgefahr-spacex-schickt-starlink-satelliten-in-tiefere-umlaufbahn](https://www.spiegel.de/wissenschaft/weltall/wegen-kollisionsgefahr-spacex-schickt-starlink-satelliten-in-tiefere-umlaufbahn-a-39e868d4-b6c5-4875-85fa-fdef22e13753#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/politik/viele-verletzte-nach-raketenangriff-auf-charkiw](https://www.spiegel.de/politik/viele-verletzte-nach-raketenangriff-auf-charkiw-a-d9201e31-a8e8-47b1-9f97-27d3842e1b64#ref=rss)
+### sbahnsurfen
+
+* [https://www.spiegel.de/panorama/s-bahn-surfen-zwoelfjaehrige-stirbt-nach-sprung-auf-fahrenden-zug](https://www.spiegel.de/panorama/s-bahn-surfen-zwoelfjaehrige-stirbt-nach-sprung-auf-fahrenden-zug-a-4e59b627-45a6-4c5f-a3f1-18b06373972f#ref=rss)
+### stirbt
+
+* [https://www.spiegel.de/panorama/s-bahn-surfen-zwoelfjaehrige-stirbt-nach-sprung-auf-fahrenden-zug](https://www.spiegel.de/panorama/s-bahn-surfen-zwoelfjaehrige-stirbt-nach-sprung-auf-fahrenden-zug-a-4e59b627-45a6-4c5f-a3f1-18b06373972f#ref=rss)
+### zug
+
+* [https://www.spiegel.de/panorama/s-bahn-surfen-zwoelfjaehrige-stirbt-nach-sprung-auf-fahrenden-zug](https://www.spiegel.de/panorama/s-bahn-surfen-zwoelfjaehrige-stirbt-nach-sprung-auf-fahrenden-zug-a-4e59b627-45a6-4c5f-a3f1-18b06373972f#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/panorama/crans-montana-experten-erklaeren-flashover-und-brandschutzmassnahmen](https://www.spiegel.de/panorama/crans-montana-experten-erklaeren-flashover-und-brandschutzmassnahmen-a-315780c8-6854-4d10-b2aa-18e922c186cb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/halle-westfalen-erneut-bankschliessfaecher-in-nrw-aufgebrochen](https://www.spiegel.de/panorama/justiz/halle-westfalen-erneut-bankschliessfaecher-in-nrw-aufgebrochen-a-d8236365-a987-4ee4-865c-983067560846#ref=rss)
+### rund
+
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-gruendet-sonderorganisation-wegen-des-einbruchs-in-sparkasse](https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-gruendet-sonderorganisation-wegen-des-einbruchs-in-sparkasse-a-9f9db7ee-5ae6-4fd6-9dce-43404626c5af#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/archaeologie-forschende-entdecken-aeltesten-scheiterhaufen-in-afrika](https://www.spiegel.de/wissenschaft/mensch/archaeologie-forschende-entdecken-aeltesten-scheiterhaufen-in-afrika-a-f64f1b77-bad9-45bb-bc16-6cecd2d50718#ref=rss)
+### möchte
+
+* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-gruendet-sonderorganisation-wegen-des-einbruchs-in-sparkasse](https://www.spiegel.de/panorama/justiz/gelsenkirchen-polizei-gruendet-sonderorganisation-wegen-des-einbruchs-in-sparkasse-a-9f9db7ee-5ae6-4fd6-9dce-43404626c5af#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/wegen-kollisionsgefahr-spacex-schickt-starlink-satelliten-in-tiefere-umlaufbahn](https://www.spiegel.de/wissenschaft/weltall/wegen-kollisionsgefahr-spacex-schickt-starlink-satelliten-in-tiefere-umlaufbahn-a-39e868d4-b6c5-4875-85fa-fdef22e13753#ref=rss)
+### haus
+
+* [https://www.spiegel.de/ausland/weisses-haus-kommentiert-bericht-ueber-angebliche-epstein-besuche-aus-mar-a-lago](https://www.spiegel.de/ausland/weisses-haus-kommentiert-bericht-ueber-angebliche-epstein-besuche-aus-mar-a-lago-a-dcb9890d-9165-4fd4-a781-4fc6e69ead55#ref=rss)
+### maralago
+
+* [https://www.spiegel.de/ausland/weisses-haus-kommentiert-bericht-ueber-angebliche-epstein-besuche-aus-mar-a-lago](https://www.spiegel.de/ausland/weisses-haus-kommentiert-bericht-ueber-angebliche-epstein-besuche-aus-mar-a-lago-a-dcb9890d-9165-4fd4-a781-4fc6e69ead55#ref=rss)
+### strom
+
+* [https://www.spiegel.de/wirtschaft/energie-woher-der-deutsche-strom-2025-kam-sechs-trends-und-fakten](https://www.spiegel.de/wirtschaft/energie-woher-der-deutsche-strom-2025-kam-sechs-trends-und-fakten-a-70c4a250-b973-4335-bb13-04aa7a85a701#ref=rss)
+* [https://www.spiegel.de/wissenschaft/energiewende-kohleverstromung-faellt-auf-niedrigsten-stand-seit-den-fuenfzigerjahren](https://www.spiegel.de/wissenschaft/energiewende-kohleverstromung-faellt-auf-niedrigsten-stand-seit-den-fuenfzigerjahren-a-f3f0e173-9ca7-4dfa-8f57-07b6fcb2fef0#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/energie-woher-der-deutsche-strom-2025-kam-sechs-trends-und-fakten](https://www.spiegel.de/wirtschaft/energie-woher-der-deutsche-strom-2025-kam-sechs-trends-und-fakten-a-70c4a250-b973-4335-bb13-04aa7a85a701#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tesla-elon-musks-konzern-liefert-deutlich-weniger-autos-aus](https://www.spiegel.de/wirtschaft/tesla-elon-musks-konzern-liefert-deutlich-weniger-autos-aus-a-584c9284-4f40-42de-b102-a7d3f4e1fd8a#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/energie-woher-der-deutsche-strom-2025-kam-sechs-trends-und-fakten](https://www.spiegel.de/wirtschaft/energie-woher-der-deutsche-strom-2025-kam-sechs-trends-und-fakten-a-70c4a250-b973-4335-bb13-04aa7a85a701#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tesla-elon-musks-konzern-liefert-deutlich-weniger-autos-aus](https://www.spiegel.de/wirtschaft/tesla-elon-musks-konzern-liefert-deutlich-weniger-autos-aus-a-584c9284-4f40-42de-b102-a7d3f4e1fd8a#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/wirtschaft/energie-woher-der-deutsche-strom-2025-kam-sechs-trends-und-fakten](https://www.spiegel.de/wirtschaft/energie-woher-der-deutsche-strom-2025-kam-sechs-trends-und-fakten-a-70c4a250-b973-4335-bb13-04aa7a85a701#ref=rss)
+* [https://www.spiegel.de/kultur/k-pop-koreanische-boygroup-bts-kuendigt-nach-wehrdienst-neues-album-an](https://www.spiegel.de/kultur/k-pop-koreanische-boygroup-bts-kuendigt-nach-wehrdienst-neues-album-an-a-7f7ee865-bdb6-410f-9333-448c2b0864a5#ref=rss)
+### tesla
+
+* [https://www.spiegel.de/wirtschaft/tesla-elon-musks-konzern-liefert-deutlich-weniger-autos-aus](https://www.spiegel.de/wirtschaft/tesla-elon-musks-konzern-liefert-deutlich-weniger-autos-aus-a-584c9284-4f40-42de-b102-a7d3f4e1fd8a#ref=rss)
+### konzern
+
+* [https://www.spiegel.de/wirtschaft/tesla-elon-musks-konzern-liefert-deutlich-weniger-autos-aus](https://www.spiegel.de/wirtschaft/tesla-elon-musks-konzern-liefert-deutlich-weniger-autos-aus-a-584c9284-4f40-42de-b102-a7d3f4e1fd8a#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/tesla-elon-musks-konzern-liefert-deutlich-weniger-autos-aus](https://www.spiegel.de/wirtschaft/tesla-elon-musks-konzern-liefert-deutlich-weniger-autos-aus-a-584c9284-4f40-42de-b102-a7d3f4e1fd8a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/energiewende-kohleverstromung-faellt-auf-niedrigsten-stand-seit-den-fuenfzigerjahren](https://www.spiegel.de/wissenschaft/energiewende-kohleverstromung-faellt-auf-niedrigsten-stand-seit-den-fuenfzigerjahren-a-f3f0e173-9ca7-4dfa-8f57-07b6fcb2fef0#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/wirtschaft/tesla-elon-musks-konzern-liefert-deutlich-weniger-autos-aus](https://www.spiegel.de/wirtschaft/tesla-elon-musks-konzern-liefert-deutlich-weniger-autos-aus-a-584c9284-4f40-42de-b102-a7d3f4e1fd8a#ref=rss)
+* [https://www.spiegel.de/kultur/k-pop-koreanische-boygroup-bts-kuendigt-nach-wehrdienst-neues-album-an](https://www.spiegel.de/kultur/k-pop-koreanische-boygroup-bts-kuendigt-nach-wehrdienst-neues-album-an-a-7f7ee865-bdb6-410f-9333-448c2b0864a5#ref=rss)
+### bts
+
+* [https://www.spiegel.de/kultur/k-pop-koreanische-boygroup-bts-kuendigt-nach-wehrdienst-neues-album-an](https://www.spiegel.de/kultur/k-pop-koreanische-boygroup-bts-kuendigt-nach-wehrdienst-neues-album-an-a-7f7ee865-bdb6-410f-9333-448c2b0864a5#ref=rss)
+### album
+
+* [https://www.spiegel.de/kultur/k-pop-koreanische-boygroup-bts-kuendigt-nach-wehrdienst-neues-album-an](https://www.spiegel.de/kultur/k-pop-koreanische-boygroup-bts-kuendigt-nach-wehrdienst-neues-album-an-a-7f7ee865-bdb6-410f-9333-448c2b0864a5#ref=rss)
+### afrika
+
+* [https://www.spiegel.de/wissenschaft/mensch/archaeologie-forschende-entdecken-aeltesten-scheiterhaufen-in-afrika](https://www.spiegel.de/wissenschaft/mensch/archaeologie-forschende-entdecken-aeltesten-scheiterhaufen-in-afrika-a-f64f1b77-bad9-45bb-bc16-6cecd2d50718#ref=rss)
+### spacex
+
+* [https://www.spiegel.de/wissenschaft/weltall/wegen-kollisionsgefahr-spacex-schickt-starlink-satelliten-in-tiefere-umlaufbahn](https://www.spiegel.de/wissenschaft/weltall/wegen-kollisionsgefahr-spacex-schickt-starlink-satelliten-in-tiefere-umlaufbahn-a-39e868d4-b6c5-4875-85fa-fdef22e13753#ref=rss)
+### starlinksatelliten
+
+* [https://www.spiegel.de/wissenschaft/weltall/wegen-kollisionsgefahr-spacex-schickt-starlink-satelliten-in-tiefere-umlaufbahn](https://www.spiegel.de/wissenschaft/weltall/wegen-kollisionsgefahr-spacex-schickt-starlink-satelliten-in-tiefere-umlaufbahn-a-39e868d4-b6c5-4875-85fa-fdef22e13753#ref=rss)
+### halle
+
+* [https://www.spiegel.de/panorama/justiz/halle-westfalen-erneut-bankschliessfaecher-in-nrw-aufgebrochen](https://www.spiegel.de/panorama/justiz/halle-westfalen-erneut-bankschliessfaecher-in-nrw-aufgebrochen-a-d8236365-a987-4ee4-865c-983067560846#ref=rss)
+### westfalen
+
+* [https://www.spiegel.de/panorama/justiz/halle-westfalen-erneut-bankschliessfaecher-in-nrw-aufgebrochen](https://www.spiegel.de/panorama/justiz/halle-westfalen-erneut-bankschliessfaecher-in-nrw-aufgebrochen-a-d8236365-a987-4ee4-865c-983067560846#ref=rss)
+### niclas
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfer-news-niclas-fuellkrug-zur-ac-mailand](https://www.spiegel.de/sport/fussball/fussball-transfer-news-niclas-fuellkrug-zur-ac-mailand-a-cf1dae84-59eb-46f4-b4d6-849c0d9fc7bf#ref=rss)
+### füllkrug
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfer-news-niclas-fuellkrug-zur-ac-mailand](https://www.spiegel.de/sport/fussball/fussball-transfer-news-niclas-fuellkrug-zur-ac-mailand-a-cf1dae84-59eb-46f4-b4d6-849c0d9fc7bf#ref=rss)
+### zoll
+
+* [https://www.spiegel.de/panorama/flughafen-frankfurt-zoll-stellt-krone-bei-reisender-aus-katar-sicher](https://www.spiegel.de/panorama/flughafen-frankfurt-zoll-stellt-krone-bei-reisender-aus-katar-sicher-a-77b4c67a-10be-4e77-ac0e-7a4dd813b3ff#ref=rss)
+### flughafen
+
+* [https://www.spiegel.de/panorama/flughafen-frankfurt-zoll-stellt-krone-bei-reisender-aus-katar-sicher](https://www.spiegel.de/panorama/flughafen-frankfurt-zoll-stellt-krone-bei-reisender-aus-katar-sicher-a-77b4c67a-10be-4e77-ac0e-7a4dd813b3ff#ref=rss)
+### sicherheit
+
+* [https://www.spiegel.de/wirtschaft/bankschliessfaecher-sicherheit-und-versicherung-was-sie-wissen-sollten](https://www.spiegel.de/wirtschaft/bankschliessfaecher-sicherheit-und-versicherung-was-sie-wissen-sollten-a-82cf2554-ee20-4410-8e54-4898afaaf030#ref=rss)
 
