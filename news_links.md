@@ -4,318 +4,419 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### caracas
-
-* [https://www.spiegel.de/ausland/aufnahmen-zeigen-explosionen-ueber-venezolanischer-hauptstadt](https://www.spiegel.de/ausland/aufnahmen-zeigen-explosionen-ueber-venezolanischer-hauptstadt-a-e8735c2e-c38b-4af9-b3bb-b03ccfb84efd#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz](https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz-a-983fda89-f26b-4f7c-b70e-22d8e50cd578#ref=rss)
-* [https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor](https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor-a-f9813f8d-7999-45a7-b03a-3538173e36c6#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas](https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas-a-9a96f1ce-d18b-4817-913a-4a0d41629289#ref=rss)
 ### venezuela
 
-* [https://www.spiegel.de/ausland/aufnahmen-zeigen-explosionen-ueber-venezolanischer-hauptstadt](https://www.spiegel.de/ausland/aufnahmen-zeigen-explosionen-ueber-venezolanischer-hauptstadt-a-e8735c2e-c38b-4af9-b3bb-b03ccfb84efd#ref=rss)
+* [https://www.spiegel.de/ausland/venezuelas-militaer-im-vergleich](https://www.spiegel.de/ausland/venezuelas-militaer-im-vergleich-a-fb1e36de-7fcd-4622-bf8b-5b66be2c4af4#ref=rss)
 * [https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz](https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz-a-983fda89-f26b-4f7c-b70e-22d8e50cd578#ref=rss)
-* [https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor](https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor-a-f9813f8d-7999-45a7-b03a-3538173e36c6#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas](https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas-a-9a96f1ce-d18b-4817-913a-4a0d41629289#ref=rss)
-### ukraine
+* [https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst](https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst-a-e566de7b-5d52-485f-8fb6-47d2aa6a002b#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro](https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro-a-ab1deea5-c7f4-40ce-8a22-6d730783463c#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-wer-auf-nicolas-maduro-folgen-koennte](https://www.spiegel.de/ausland/venezuela-wer-auf-nicolas-maduro-folgen-koennte-a-8defa68a-83a9-4244-8f0b-435cc0225f94#ref=rss)
+* [https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz](https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz-a-7af7e445-ef33-4251-af4e-90439f33435c#ref=rss)
+* [https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist](https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist-a-b33d7029-9c22-4e0d-92c6-1dff3915bf0b#ref=rss)
+* [https://www.spiegel.de/politik/deutsche-reaktionen-auf-us-militaereinsatz-in-venezuela-von-putsch-bis-signal-der-hoffnung](https://www.spiegel.de/politik/deutsche-reaktionen-auf-us-militaereinsatz-in-venezuela-von-putsch-bis-signal-der-hoffnung-a-c0760240-99cb-4661-8adf-6fe791aee755#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen](https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen-a-cd4ebbb8-45a6-477a-a04b-fe70cd02f5ce#ref=rss)
+* [https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet](https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet-a-45eb0396-c56b-4ac6-aea7-36f3f79367e5#ref=rss)
+* [https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen](https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen-a-b5af7872-26c4-4558-be6d-33c76f4f74f7#ref=rss)
+### maduro
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-marie-agnes-strack-zimmermann-und-roderich-kiesewetter-halten-bundeswehrbeteiligung-nach-friedensplan-fuer-moeglich](https://www.spiegel.de/politik/deutschland/ukraine-krieg-marie-agnes-strack-zimmermann-und-roderich-kiesewetter-halten-bundeswehrbeteiligung-nach-friedensplan-fuer-moeglich-a-c7ad4acf-859f-41e1-8582-a581fea033a0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-deutschlands-rolle-in-der-ukraine-csu-in-seeon-linken-chef-jan-van-aken](https://www.spiegel.de/politik/deutschland/news-deutschlands-rolle-in-der-ukraine-csu-in-seeon-linken-chef-jan-van-aken-a-f3649da5-825e-45fd-8b1e-d002e0cb4cc9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-mychajlo-fedorow-soll-naechster-verteidigungsminister-werden](https://www.spiegel.de/ausland/ukraine-mychajlo-fedorow-soll-naechster-verteidigungsminister-werden-a-9d446a62-2b9d-4c83-8adc-98a3cb95ce13#ref=rss)
-### explosionen
+* [https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz](https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz-a-983fda89-f26b-4f7c-b70e-22d8e50cd578#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst](https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst-a-e566de7b-5d52-485f-8fb6-47d2aa6a002b#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro](https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro-a-ab1deea5-c7f4-40ce-8a22-6d730783463c#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-wer-auf-nicolas-maduro-folgen-koennte](https://www.spiegel.de/ausland/venezuela-wer-auf-nicolas-maduro-folgen-koennte-a-8defa68a-83a9-4244-8f0b-435cc0225f94#ref=rss)
+* [https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz](https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz-a-7af7e445-ef33-4251-af4e-90439f33435c#ref=rss)
+* [https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist](https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist-a-b33d7029-9c22-4e0d-92c6-1dff3915bf0b#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig](https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig-a-6aedccb0-cc45-416f-9aa9-6dd6f7b92cba#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen](https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen-a-cd4ebbb8-45a6-477a-a04b-fe70cd02f5ce#ref=rss)
+* [https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen](https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen-a-b5af7872-26c4-4558-be6d-33c76f4f74f7#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/aufnahmen-zeigen-explosionen-ueber-venezolanischer-hauptstadt](https://www.spiegel.de/ausland/aufnahmen-zeigen-explosionen-ueber-venezolanischer-hauptstadt-a-e8735c2e-c38b-4af9-b3bb-b03ccfb84efd#ref=rss)
-* [https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor](https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor-a-f9813f8d-7999-45a7-b03a-3538173e36c6#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas](https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas-a-9a96f1ce-d18b-4817-913a-4a0d41629289#ref=rss)
-### strom
+* [https://www.spiegel.de/netzwelt/gadgets/antigravity-a1-diese-drohne-sieht-alles](https://www.spiegel.de/netzwelt/gadgets/antigravity-a1-diese-drohne-sieht-alles-a-9138e473-42ea-460a-b677-123cc130ccb0#ref=rss)
+* [https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik](https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik-a-6e4a6acd-3fa4-49dc-910d-e31001adc34d#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro](https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro-a-ab1deea5-c7f4-40ce-8a22-6d730783463c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/neue-studie-auslaenderinnen-koennten-die-fachkraefteluecke-verkleinern](https://www.spiegel.de/wirtschaft/neue-studie-auslaenderinnen-koennten-die-fachkraefteluecke-verkleinern-a-b965f22a-7387-406c-89fc-7a91f7a0e61d#ref=rss)
+* [https://www.spiegel.de/kultur/musik/wicked-komponist-stephen-schwartz-will-nicht-mehr-im-kennedy-center-auftreten](https://www.spiegel.de/kultur/musik/wicked-komponist-stephen-schwartz-will-nicht-mehr-im-kennedy-center-auftreten-a-9fdc9f65-7f94-48ff-b518-1190f7e5fb05#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/erlangen-keine-gratis-kotbeutel-mehr-geschaeftsinhaberin-startet-patenschaftsinitiative](https://www.spiegel.de/panorama/gesellschaft/erlangen-keine-gratis-kotbeutel-mehr-geschaeftsinhaberin-startet-patenschaftsinitiative-a-459943e2-171d-453a-bcba-d7368fd2c57e#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/berlin-50-000-haushalte-nach-brand-einer-kabelbruecke-ohne-strom](https://www.spiegel.de/panorama/berlin-50-000-haushalte-nach-brand-einer-kabelbruecke-ohne-strom-a-571f7b3d-3373-416e-9380-e474ca318c2a#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas](https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas-a-9a96f1ce-d18b-4817-913a-4a0d41629289#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiepreise-rwe-chef-krebber-prognostiziert-sinkende-strom-und-gaspreise](https://www.spiegel.de/wirtschaft/energiepreise-rwe-chef-krebber-prognostiziert-sinkende-strom-und-gaspreise-a-9c7e87f9-f752-4527-b3e6-e600f1fdd43f#ref=rss)
+* [https://www.spiegel.de/ausland/venezuelas-militaer-im-vergleich](https://www.spiegel.de/ausland/venezuelas-militaer-im-vergleich-a-fb1e36de-7fcd-4622-bf8b-5b66be2c4af4#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz](https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz-a-983fda89-f26b-4f7c-b70e-22d8e50cd578#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro](https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro-a-ab1deea5-c7f4-40ce-8a22-6d730783463c#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-wer-auf-nicolas-maduro-folgen-koennte](https://www.spiegel.de/ausland/venezuela-wer-auf-nicolas-maduro-folgen-koennte-a-8defa68a-83a9-4244-8f0b-435cc0225f94#ref=rss)
+* [https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz](https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz-a-7af7e445-ef33-4251-af4e-90439f33435c#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig](https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig-a-6aedccb0-cc45-416f-9aa9-6dd6f7b92cba#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen](https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen-a-cd4ebbb8-45a6-477a-a04b-fe70cd02f5ce#ref=rss)
+### gefangen
+
+* [https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro](https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro-a-ab1deea5-c7f4-40ce-8a22-6d730783463c#ref=rss)
+* [https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist](https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist-a-b33d7029-9c22-4e0d-92c6-1dff3915bf0b#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig](https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig-a-6aedccb0-cc45-416f-9aa9-6dd6f7b92cba#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen](https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen-a-cd4ebbb8-45a6-477a-a04b-fe70cd02f5ce#ref=rss)
+* [https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen](https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen-a-b5af7872-26c4-4558-be6d-33c76f4f74f7#ref=rss)
+### nicolás
+
+* [https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst](https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst-a-e566de7b-5d52-485f-8fb6-47d2aa6a002b#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro](https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro-a-ab1deea5-c7f4-40ce-8a22-6d730783463c#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-wer-auf-nicolas-maduro-folgen-koennte](https://www.spiegel.de/ausland/venezuela-wer-auf-nicolas-maduro-folgen-koennte-a-8defa68a-83a9-4244-8f0b-435cc0225f94#ref=rss)
+* [https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist](https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist-a-b33d7029-9c22-4e0d-92c6-1dff3915bf0b#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen](https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen-a-cd4ebbb8-45a6-477a-a04b-fe70cd02f5ce#ref=rss)
+### genommen
+
+* [https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro](https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro-a-ab1deea5-c7f4-40ce-8a22-6d730783463c#ref=rss)
+* [https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist](https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist-a-b33d7029-9c22-4e0d-92c6-1dff3915bf0b#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig](https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig-a-6aedccb0-cc45-416f-9aa9-6dd6f7b92cba#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen](https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen-a-cd4ebbb8-45a6-477a-a04b-fe70cd02f5ce#ref=rss)
+* [https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen](https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen-a-b5af7872-26c4-4558-be6d-33c76f4f74f7#ref=rss)
+### venezuelakrise
+
+* [https://www.spiegel.de/ausland/venezuelas-militaer-im-vergleich](https://www.spiegel.de/ausland/venezuelas-militaer-im-vergleich-a-fb1e36de-7fcd-4622-bf8b-5b66be2c4af4#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz](https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz-a-983fda89-f26b-4f7c-b70e-22d8e50cd578#ref=rss)
+* [https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz](https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz-a-7af7e445-ef33-4251-af4e-90439f33435c#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig](https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig-a-6aedccb0-cc45-416f-9aa9-6dd6f7b92cba#ref=rss)
+### venezuelas
+
+* [https://www.spiegel.de/ausland/venezuelas-militaer-im-vergleich](https://www.spiegel.de/ausland/venezuelas-militaer-im-vergleich-a-fb1e36de-7fcd-4622-bf8b-5b66be2c4af4#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz](https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz-a-983fda89-f26b-4f7c-b70e-22d8e50cd578#ref=rss)
+* [https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist](https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist-a-b33d7029-9c22-4e0d-92c6-1dff3915bf0b#ref=rss)
+* [https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet](https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet-a-45eb0396-c56b-4ac6-aea7-36f3f79367e5#ref=rss)
+### wir
+
+* [https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst](https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst-a-e566de7b-5d52-485f-8fb6-47d2aa6a002b#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/antigravity-a1-diese-drohne-sieht-alles](https://www.spiegel.de/netzwelt/gadgets/antigravity-a1-diese-drohne-sieht-alles-a-9138e473-42ea-460a-b677-123cc130ccb0#ref=rss)
+* [https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik](https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik-a-6e4a6acd-3fa4-49dc-910d-e31001adc34d#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/panorama/bei-der-fremdenlegion-gabs-fuer-uns-deutsche-nur-nazi-namen](https://www.spiegel.de/panorama/bei-der-fremdenlegion-gabs-fuer-uns-deutsche-nur-nazi-namen-a-267a8ba2-7517-4311-ade3-99ceaa440040#ref=rss)
+* [https://www.spiegel.de/wirtschaft/neue-studie-auslaenderinnen-koennten-die-fachkraefteluecke-verkleinern](https://www.spiegel.de/wirtschaft/neue-studie-auslaenderinnen-koennten-die-fachkraefteluecke-verkleinern-a-b965f22a-7387-406c-89fc-7a91f7a0e61d#ref=rss)
+* [https://www.spiegel.de/politik/deutsche-reaktionen-auf-us-militaereinsatz-in-venezuela-von-putsch-bis-signal-der-hoffnung](https://www.spiegel.de/politik/deutsche-reaktionen-auf-us-militaereinsatz-in-venezuela-von-putsch-bis-signal-der-hoffnung-a-c0760240-99cb-4661-8adf-6fe791aee755#ref=rss)
+### caracas
+
+* [https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz](https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz-a-7af7e445-ef33-4251-af4e-90439f33435c#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig](https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig-a-6aedccb0-cc45-416f-9aa9-6dd6f7b92cba#ref=rss)
+* [https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen](https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen-a-b5af7872-26c4-4558-be6d-33c76f4f74f7#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/panorama/berlin-stromausfall-im-berliner-suedwesten-koennte-bis-donnerstag-dauern](https://www.spiegel.de/panorama/berlin-stromausfall-im-berliner-suedwesten-koennte-bis-donnerstag-dauern-a-0d9d6bde-caa2-4622-828a-1f723d8c6c5c#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-polizei-ermittelt-gegen-betreiber-von-ausgebrannter-bar-in-crrans-montana](https://www.spiegel.de/ausland/schweiz-polizei-ermittelt-gegen-betreiber-von-ausgebrannter-bar-in-crrans-montana-a-814fa61b-d7a8-4b3e-a4c1-106bc27da266#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/berlin-stromausfall-im-berliner-suedwesten-koennte-bis-donnerstag-dauern](https://www.spiegel.de/panorama/berlin-stromausfall-im-berliner-suedwesten-koennte-bis-donnerstag-dauern-a-0d9d6bde-caa2-4622-828a-1f723d8c6c5c#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-polizei-ermittelt-gegen-betreiber-von-ausgebrannter-bar-in-crrans-montana](https://www.spiegel.de/ausland/schweiz-polizei-ermittelt-gegen-betreiber-von-ausgebrannter-bar-in-crrans-montana-a-814fa61b-d7a8-4b3e-a4c1-106bc27da266#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz](https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz-a-983fda89-f26b-4f7c-b70e-22d8e50cd578#ref=rss)
+* [https://www.spiegel.de/kultur/diddl-comeback-tapsiger-bote-der-gefuehlserpressung](https://www.spiegel.de/kultur/diddl-comeback-tapsiger-bote-der-gefuehlserpressung-a-205d76b2-b5c3-4b21-bad3-8afe245ff262#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/erlangen-keine-gratis-kotbeutel-mehr-geschaeftsinhaberin-startet-patenschaftsinitiative](https://www.spiegel.de/panorama/gesellschaft/erlangen-keine-gratis-kotbeutel-mehr-geschaeftsinhaberin-startet-patenschaftsinitiative-a-459943e2-171d-453a-bcba-d7368fd2c57e#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz](https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz-a-983fda89-f26b-4f7c-b70e-22d8e50cd578#ref=rss)
+* [https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet](https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet-a-45eb0396-c56b-4ac6-aea7-36f3f79367e5#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst](https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst-a-e566de7b-5d52-485f-8fb6-47d2aa6a002b#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-in-kranjska-gora-riesenslalom-siegerin-camille-rast-erinnert-an-opfer-von-crans-montana](https://www.spiegel.de/sport/wintersport/ski-alpin-in-kranjska-gora-riesenslalom-siegerin-camille-rast-erinnert-an-opfer-von-crans-montana-a-1c55d0b5-a56b-4046-a526-4f076f734eff#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-polizei-ermittelt-gegen-betreiber-von-ausgebrannter-bar-in-crrans-montana](https://www.spiegel.de/ausland/schweiz-polizei-ermittelt-gegen-betreiber-von-ausgebrannter-bar-in-crrans-montana-a-814fa61b-d7a8-4b3e-a4c1-106bc27da266#ref=rss)
+### alles
+
+* [https://www.spiegel.de/netzwelt/gadgets/antigravity-a1-diese-drohne-sieht-alles](https://www.spiegel.de/netzwelt/gadgets/antigravity-a1-diese-drohne-sieht-alles-a-9138e473-42ea-460a-b677-123cc130ccb0#ref=rss)
+* [https://www.spiegel.de/kultur/diddl-comeback-tapsiger-bote-der-gefuehlserpressung](https://www.spiegel.de/kultur/diddl-comeback-tapsiger-bote-der-gefuehlserpressung-a-205d76b2-b5c3-4b21-bad3-8afe245ff262#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-in-innsbruck-domen-prevc-schwaechelt-philipp-raimund-kracht-in-bande](https://www.spiegel.de/sport/wintersport/vierschanzentournee-in-innsbruck-domen-prevc-schwaechelt-philipp-raimund-kracht-in-bande-a-71b96cab-ebbd-405a-9bc8-cc30ac4459d4#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/ausland/wintersport-in-oesterreich-hat-skifahren-eine-zukunft-podcast](https://www.spiegel.de/ausland/wintersport-in-oesterreich-hat-skifahren-eine-zukunft-podcast-a-a0a4dced-d823-4f12-ad02-46a1a86a54bc#ref=rss)
+* [https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik](https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik-a-6e4a6acd-3fa4-49dc-910d-e31001adc34d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jan-van-aken-und-dann-vergleicht-er-das-linkenprogramm-mit-der-bibel](https://www.spiegel.de/politik/deutschland/jan-van-aken-und-dann-vergleicht-er-das-linkenprogramm-mit-der-bibel-a-e372992f-af97-4b87-acc1-816b4aa1942e#ref=rss)
+### ende
+
+* [https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro](https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro-a-ab1deea5-c7f4-40ce-8a22-6d730783463c#ref=rss)
+* [https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist](https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist-a-b33d7029-9c22-4e0d-92c6-1dff3915bf0b#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro](https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro-a-ab1deea5-c7f4-40ce-8a22-6d730783463c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dimitar-penew-der-mann-der-deutschland-bei-der-wm-1994-schockierte-ist-tot](https://www.spiegel.de/sport/fussball/dimitar-penew-der-mann-der-deutschland-bei-der-wm-1994-schockierte-ist-tot-a-f1c02339-ad2e-47e7-a82d-60e5a62ea7e6#ref=rss)
+* [https://www.spiegel.de/panorama/amboseli-nationalpark-kenia-beruehmter-elefantenbulle-craig-ist-gestorben](https://www.spiegel.de/panorama/amboseli-nationalpark-kenia-beruehmter-elefantenbulle-craig-ist-gestorben-a-fad64013-148e-4ccb-aa62-fab64494d3cd#ref=rss)
+### seines
+
+* [https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro](https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro-a-ab1deea5-c7f4-40ce-8a22-6d730783463c#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig](https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig-a-6aedccb0-cc45-416f-9aa9-6dd6f7b92cba#ref=rss)
+* [https://www.spiegel.de/panorama/amboseli-nationalpark-kenia-beruehmter-elefantenbulle-craig-ist-gestorben](https://www.spiegel.de/panorama/amboseli-nationalpark-kenia-beruehmter-elefantenbulle-craig-ist-gestorben-a-fad64013-148e-4ccb-aa62-fab64494d3cd#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-unfaelle-bei-schnee-und-glaette-lachs-auf-der-autobahn](https://www.spiegel.de/panorama/wetter-in-deutschland-unfaelle-bei-schnee-und-glaette-lachs-auf-der-autobahn-a-f1023d08-1c14-445c-8a1d-2f27da9c83da#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiepreise-rwe-chef-krebber-prognostiziert-sinkende-strom-und-gaspreise](https://www.spiegel.de/wirtschaft/energiepreise-rwe-chef-krebber-prognostiziert-sinkende-strom-und-gaspreise-a-9c7e87f9-f752-4527-b3e6-e600f1fdd43f#ref=rss)
-* [https://www.spiegel.de/panorama/migration-warum-deutschland-fuer-viele-polen-nicht-mehr-attraktiv-ist](https://www.spiegel.de/panorama/migration-warum-deutschland-fuer-viele-polen-nicht-mehr-attraktiv-ist-a-32d8778b-e46e-4845-8594-a272f8d9db22#ref=rss)
-### oft
+* [https://www.spiegel.de/sport/fussball/dimitar-penew-der-mann-der-deutschland-bei-der-wm-1994-schockierte-ist-tot](https://www.spiegel.de/sport/fussball/dimitar-penew-der-mann-der-deutschland-bei-der-wm-1994-schockierte-ist-tot-a-f1c02339-ad2e-47e7-a82d-60e5a62ea7e6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/neue-studie-auslaenderinnen-koennten-die-fachkraefteluecke-verkleinern](https://www.spiegel.de/wirtschaft/neue-studie-auslaenderinnen-koennten-die-fachkraefteluecke-verkleinern-a-b965f22a-7387-406c-89fc-7a91f7a0e61d#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/politik/buecher-wie-sachbuecher-helfen-stress-zu-reduzieren](https://www.spiegel.de/politik/buecher-wie-sachbuecher-helfen-stress-zu-reduzieren-a-20b9c79d-8970-4491-9357-1f3b0005be51#ref=rss)
-* [https://www.spiegel.de/ausland/katastrophe-von-crans-montana-der-lange-leidensweg-der-opfer](https://www.spiegel.de/ausland/katastrophe-von-crans-montana-der-lange-leidensweg-der-opfer-a-1cd5760c-2049-4cda-b1bd-bcd26f61e79c#ref=rss)
-* [https://www.spiegel.de/familie/leben-mit-downsyndrom-wie-siehst-du-die-welt](https://www.spiegel.de/familie/leben-mit-downsyndrom-wie-siehst-du-die-welt-a-faeaf506-f0de-4457-950f-ede0e7e26e8c#ref=rss)
-### berlin
+* [https://www.spiegel.de/sport/fussball/dimitar-penew-der-mann-der-deutschland-bei-der-wm-1994-schockierte-ist-tot](https://www.spiegel.de/sport/fussball/dimitar-penew-der-mann-der-deutschland-bei-der-wm-1994-schockierte-ist-tot-a-f1c02339-ad2e-47e7-a82d-60e5a62ea7e6#ref=rss)
+* [https://www.spiegel.de/panorama/amboseli-nationalpark-kenia-beruehmter-elefantenbulle-craig-ist-gestorben](https://www.spiegel.de/panorama/amboseli-nationalpark-kenia-beruehmter-elefantenbulle-craig-ist-gestorben-a-fad64013-148e-4ccb-aa62-fab64494d3cd#ref=rss)
+### cransmontana
 
-* [https://www.spiegel.de/wissenschaft/berlin-warum-diese-frau-ein-haus-aus-pilzen-bauen-will](https://www.spiegel.de/wissenschaft/berlin-warum-diese-frau-ein-haus-aus-pilzen-bauen-will-a-c342cfbe-93a1-4097-8ea5-0263738458c1#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-50-000-haushalte-nach-brand-einer-kabelbruecke-ohne-strom](https://www.spiegel.de/panorama/berlin-50-000-haushalte-nach-brand-einer-kabelbruecke-ohne-strom-a-571f7b3d-3373-416e-9380-e474ca318c2a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-kaeltebus-angezuendet-obdachloser-tatverdaechtig](https://www.spiegel.de/panorama/justiz/berlin-kaeltebus-angezuendet-obdachloser-tatverdaechtig-a-98debdf6-5539-4277-ba30-7692c6cb3e3a#ref=rss)
-### nacht
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-in-kranjska-gora-riesenslalom-siegerin-camille-rast-erinnert-an-opfer-von-crans-montana](https://www.spiegel.de/sport/wintersport/ski-alpin-in-kranjska-gora-riesenslalom-siegerin-camille-rast-erinnert-an-opfer-von-crans-montana-a-1c55d0b5-a56b-4046-a526-4f076f734eff#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-polizei-ermittelt-gegen-betreiber-von-ausgebrannter-bar-in-crrans-montana](https://www.spiegel.de/ausland/schweiz-polizei-ermittelt-gegen-betreiber-von-ausgebrannter-bar-in-crrans-montana-a-814fa61b-d7a8-4b3e-a4c1-106bc27da266#ref=rss)
+### angegriffen
 
-* [https://www.spiegel.de/ausland/aufnahmen-zeigen-explosionen-ueber-venezolanischer-hauptstadt](https://www.spiegel.de/ausland/aufnahmen-zeigen-explosionen-ueber-venezolanischer-hauptstadt-a-e8735c2e-c38b-4af9-b3bb-b03ccfb84efd#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas](https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas-a-9a96f1ce-d18b-4817-913a-4a0d41629289#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-unfaelle-bei-schnee-und-glaette-lachs-auf-der-autobahn](https://www.spiegel.de/panorama/wetter-in-deutschland-unfaelle-bei-schnee-und-glaette-lachs-auf-der-autobahn-a-f1023d08-1c14-445c-8a1d-2f27da9c83da#ref=rss)
-### ohne
+* [https://www.spiegel.de/ausland/venezuelas-militaer-im-vergleich](https://www.spiegel.de/ausland/venezuelas-militaer-im-vergleich-a-fb1e36de-7fcd-4622-bf8b-5b66be2c4af4#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig](https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig-a-6aedccb0-cc45-416f-9aa9-6dd6f7b92cba#ref=rss)
+### stromausfall
 
-* [https://www.spiegel.de/panorama/berlin-50-000-haushalte-nach-brand-einer-kabelbruecke-ohne-strom](https://www.spiegel.de/panorama/berlin-50-000-haushalte-nach-brand-einer-kabelbruecke-ohne-strom-a-571f7b3d-3373-416e-9380-e474ca318c2a#ref=rss)
-* [https://www.spiegel.de/netzwelt/grok-musks-ki-chatbot-gesteht-fehler-bei-anzueglichen-fotogenerierungen](https://www.spiegel.de/netzwelt/grok-musks-ki-chatbot-gesteht-fehler-bei-anzueglichen-fotogenerierungen-a-6da0b1ff-2883-42e0-a327-1dffd2d3db71#ref=rss)
-### hauptstadt
+* [https://www.spiegel.de/panorama/berlin-stromausfall-im-berliner-suedwesten-koennte-bis-donnerstag-dauern](https://www.spiegel.de/panorama/berlin-stromausfall-im-berliner-suedwesten-koennte-bis-donnerstag-dauern-a-0d9d6bde-caa2-4622-828a-1f723d8c6c5c#ref=rss)
+### südwesten
 
-* [https://www.spiegel.de/panorama/berlin-50-000-haushalte-nach-brand-einer-kabelbruecke-ohne-strom](https://www.spiegel.de/panorama/berlin-50-000-haushalte-nach-brand-einer-kabelbruecke-ohne-strom-a-571f7b3d-3373-416e-9380-e474ca318c2a#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas](https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas-a-9a96f1ce-d18b-4817-913a-4a0d41629289#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-stromausfall-im-berliner-suedwesten-koennte-bis-donnerstag-dauern](https://www.spiegel.de/panorama/berlin-stromausfall-im-berliner-suedwesten-koennte-bis-donnerstag-dauern-a-0d9d6bde-caa2-4622-828a-1f723d8c6c5c#ref=rss)
+### tagen
+
+* [https://www.spiegel.de/panorama/berlin-stromausfall-im-berliner-suedwesten-koennte-bis-donnerstag-dauern](https://www.spiegel.de/panorama/berlin-stromausfall-im-berliner-suedwesten-koennte-bis-donnerstag-dauern-a-0d9d6bde-caa2-4622-828a-1f723d8c6c5c#ref=rss)
+* [https://www.spiegel.de/panorama/bei-der-fremdenlegion-gabs-fuer-uns-deutsche-nur-nazi-namen](https://www.spiegel.de/panorama/bei-der-fremdenlegion-gabs-fuer-uns-deutsche-nur-nazi-namen-a-267a8ba2-7517-4311-ade3-99ceaa440040#ref=rss)
+### führen
+
+* [https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz](https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz-a-983fda89-f26b-4f7c-b70e-22d8e50cd578#ref=rss)
 ### sagt
 
 * [https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz](https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz-a-983fda89-f26b-4f7c-b70e-22d8e50cd578#ref=rss)
-* [https://www.spiegel.de/auto/verkehrssicherheit-tempo-30-in-staedten-bremst-das-unfallrisiko-erhoeht-die-fahrzeit-aber-kaum](https://www.spiegel.de/auto/verkehrssicherheit-tempo-30-in-staedten-bremst-das-unfallrisiko-erhoeht-die-fahrzeit-aber-kaum-a-8cfaaf8b-aa22-4651-8977-f04f2b5b7ab4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiepreise-rwe-chef-krebber-prognostiziert-sinkende-strom-und-gaspreise](https://www.spiegel.de/wirtschaft/energiepreise-rwe-chef-krebber-prognostiziert-sinkende-strom-und-gaspreise-a-9c7e87f9-f752-4527-b3e6-e600f1fdd43f#ref=rss)
-### straßen
-
-* [https://www.spiegel.de/auto/verkehrssicherheit-tempo-30-in-staedten-bremst-das-unfallrisiko-erhoeht-die-fahrzeit-aber-kaum](https://www.spiegel.de/auto/verkehrssicherheit-tempo-30-in-staedten-bremst-das-unfallrisiko-erhoeht-die-fahrzeit-aber-kaum-a-8cfaaf8b-aa22-4651-8977-f04f2b5b7ab4#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-unfaelle-bei-schnee-und-glaette-lachs-auf-der-autobahn](https://www.spiegel.de/panorama/wetter-in-deutschland-unfaelle-bei-schnee-und-glaette-lachs-auf-der-autobahn-a-f1023d08-1c14-445c-8a1d-2f27da9c83da#ref=rss)
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-fahrer-nach-toedlichem-unfall-in-nigeria-angeklagt](https://www.spiegel.de/sport/boxen/anthony-joshua-fahrer-nach-toedlichem-unfall-in-nigeria-angeklagt-a-347a78e2-2577-4cc2-81a8-f5a439c5bb0c#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/auto/verkehrssicherheit-tempo-30-in-staedten-bremst-das-unfallrisiko-erhoeht-die-fahrzeit-aber-kaum](https://www.spiegel.de/auto/verkehrssicherheit-tempo-30-in-staedten-bremst-das-unfallrisiko-erhoeht-die-fahrzeit-aber-kaum-a-8cfaaf8b-aa22-4651-8977-f04f2b5b7ab4#ref=rss)
-* [https://www.spiegel.de/panorama/migration-warum-deutschland-fuer-viele-polen-nicht-mehr-attraktiv-ist](https://www.spiegel.de/panorama/migration-warum-deutschland-fuer-viele-polen-nicht-mehr-attraktiv-ist-a-32d8778b-e46e-4845-8594-a272f8d9db22#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor](https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor-a-f9813f8d-7999-45a7-b03a-3538173e36c6#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas](https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas-a-9a96f1ce-d18b-4817-913a-4a0d41629289#ref=rss)
-* [https://www.spiegel.de/panorama/leute/will-smith-warum-ein-tourmusiker-den-rapper-verklagt](https://www.spiegel.de/panorama/leute/will-smith-warum-ein-tourmusiker-den-rapper-verklagt-a-04d42905-f48f-47c2-9aa9-9fa9c8ebcfdb#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/familie/leben-mit-downsyndrom-wie-siehst-du-die-welt](https://www.spiegel.de/familie/leben-mit-downsyndrom-wie-siehst-du-die-welt-a-faeaf506-f0de-4457-950f-ede0e7e26e8c#ref=rss)
-* [https://www.spiegel.de/politik/eu-zahl-der-abschiebungen-2025-deutlich-gestiegen](https://www.spiegel.de/politik/eu-zahl-der-abschiebungen-2025-deutlich-gestiegen-a-4d612913-3577-40eb-ad30-1ea33a659fbe#ref=rss)
-* [https://www.spiegel.de/panorama/migration-warum-deutschland-fuer-viele-polen-nicht-mehr-attraktiv-ist](https://www.spiegel.de/panorama/migration-warum-deutschland-fuer-viele-polen-nicht-mehr-attraktiv-ist-a-32d8778b-e46e-4845-8594-a272f8d9db22#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/panorama/bildung/schulpflicht-lehrergewerkschaft-kritisiert-arrest-fuer-schulschwaenzen](https://www.spiegel.de/panorama/bildung/schulpflicht-lehrergewerkschaft-kritisiert-arrest-fuer-schulschwaenzen-a-f1876b2f-7bd6-4342-a58b-d90606f6198b#ref=rss)
-* [https://www.spiegel.de/politik/eu-zahl-der-abschiebungen-2025-deutlich-gestiegen](https://www.spiegel.de/politik/eu-zahl-der-abschiebungen-2025-deutlich-gestiegen-a-4d612913-3577-40eb-ad30-1ea33a659fbe#ref=rss)
-### hilfsorganisationen
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-un-chef-fordert-aufhebung-des-lizenzentzugs-fuer-hilfsorganisationen](https://www.spiegel.de/ausland/israel-gaza-krieg-un-chef-fordert-aufhebung-des-lizenzentzugs-fuer-hilfsorganisationen-a-f4ff0848-dede-45a6-906d-c562b13b8a81#ref=rss)
-### welt
-
-* [https://www.spiegel.de/politik/buecher-wie-sachbuecher-helfen-stress-zu-reduzieren](https://www.spiegel.de/politik/buecher-wie-sachbuecher-helfen-stress-zu-reduzieren-a-20b9c79d-8970-4491-9357-1f3b0005be51#ref=rss)
-* [https://www.spiegel.de/familie/leben-mit-downsyndrom-wie-siehst-du-die-welt](https://www.spiegel.de/familie/leben-mit-downsyndrom-wie-siehst-du-die-welt-a-faeaf506-f0de-4457-950f-ede0e7e26e8c#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/politik/buecher-wie-sachbuecher-helfen-stress-zu-reduzieren](https://www.spiegel.de/politik/buecher-wie-sachbuecher-helfen-stress-zu-reduzieren-a-20b9c79d-8970-4491-9357-1f3b0005be51#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-2026-gian-van-veen-ist-neuer-darts-koenig-der-niederlande-und-trifft-im-finale-auf-luke-littler](https://www.spiegel.de/sport/darts-wm-2026-gian-van-veen-ist-neuer-darts-koenig-der-niederlande-und-trifft-im-finale-auf-luke-littler-a-4f8cd45c-1167-4ac8-bed8-b0cc0133f984#ref=rss)
-### opfer
-
-* [https://www.spiegel.de/ausland/katastrophe-von-crans-montana-der-lange-leidensweg-der-opfer](https://www.spiegel.de/ausland/katastrophe-von-crans-montana-der-lange-leidensweg-der-opfer-a-1cd5760c-2049-4cda-b1bd-bcd26f61e79c#ref=rss)
-### haus
-
-* [https://www.spiegel.de/wissenschaft/berlin-warum-diese-frau-ein-haus-aus-pilzen-bauen-will](https://www.spiegel.de/wissenschaft/berlin-warum-diese-frau-ein-haus-aus-pilzen-bauen-will-a-c342cfbe-93a1-4097-8ea5-0263738458c1#ref=rss)
-### pilzen
-
-* [https://www.spiegel.de/wissenschaft/berlin-warum-diese-frau-ein-haus-aus-pilzen-bauen-will](https://www.spiegel.de/wissenschaft/berlin-warum-diese-frau-ein-haus-aus-pilzen-bauen-will-a-c342cfbe-93a1-4097-8ea5-0263738458c1#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/wissenschaft/berlin-warum-diese-frau-ein-haus-aus-pilzen-bauen-will](https://www.spiegel.de/wissenschaft/berlin-warum-diese-frau-ein-haus-aus-pilzen-bauen-will-a-c342cfbe-93a1-4097-8ea5-0263738458c1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-kaeltebus-angezuendet-obdachloser-tatverdaechtig](https://www.spiegel.de/panorama/justiz/berlin-kaeltebus-angezuendet-obdachloser-tatverdaechtig-a-98debdf6-5539-4277-ba30-7692c6cb3e3a#ref=rss)
-### pascal
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfer-news-pascal-gross-kehrt-von-dortmund-nach-brighton-zurueck](https://www.spiegel.de/sport/fussball/fussball-transfer-news-pascal-gross-kehrt-von-dortmund-nach-brighton-zurueck-a-0e93f90d-23e1-4e58-affe-f1398c891cca#ref=rss)
-### groß
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfer-news-pascal-gross-kehrt-von-dortmund-nach-brighton-zurueck](https://www.spiegel.de/sport/fussball/fussball-transfer-news-pascal-gross-kehrt-von-dortmund-nach-brighton-zurueck-a-0e93f90d-23e1-4e58-affe-f1398c891cca#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfer-news-pascal-gross-kehrt-von-dortmund-nach-brighton-zurueck](https://www.spiegel.de/sport/fussball/fussball-transfer-news-pascal-gross-kehrt-von-dortmund-nach-brighton-zurueck-a-0e93f90d-23e1-4e58-affe-f1398c891cca#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-2026-gian-van-veen-ist-neuer-darts-koenig-der-niederlande-und-trifft-im-finale-auf-luke-littler](https://www.spiegel.de/sport/darts-wm-2026-gian-van-veen-ist-neuer-darts-koenig-der-niederlande-und-trifft-im-finale-auf-luke-littler-a-4f8cd45c-1167-4ac8-bed8-b0cc0133f984#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/aufnahmen-zeigen-explosionen-ueber-venezolanischer-hauptstadt](https://www.spiegel.de/ausland/aufnahmen-zeigen-explosionen-ueber-venezolanischer-hauptstadt-a-e8735c2e-c38b-4af9-b3bb-b03ccfb84efd#ref=rss)
 * [https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz](https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz-a-983fda89-f26b-4f7c-b70e-22d8e50cd578#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/aufnahmen-zeigen-explosionen-ueber-venezolanischer-hauptstadt](https://www.spiegel.de/ausland/aufnahmen-zeigen-explosionen-ueber-venezolanischer-hauptstadt-a-e8735c2e-c38b-4af9-b3bb-b03ccfb84efd#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz](https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz-a-983fda89-f26b-4f7c-b70e-22d8e50cd578#ref=rss)
-### gemacht
-
-* [https://www.spiegel.de/ausland/aufnahmen-zeigen-explosionen-ueber-venezolanischer-hauptstadt](https://www.spiegel.de/ausland/aufnahmen-zeigen-explosionen-ueber-venezolanischer-hauptstadt-a-e8735c2e-c38b-4af9-b3bb-b03ccfb84efd#ref=rss)
-* [https://www.spiegel.de/ausland/separatisten-im-jemen-forcieren-referendum-zur-unabhaengigkeit](https://www.spiegel.de/ausland/separatisten-im-jemen-forcieren-referendum-zur-unabhaengigkeit-a-42733623-247d-40cc-8cf2-dc4a6df4e560#ref=rss)
-### angegriffen
-
-* [https://www.spiegel.de/ausland/aufnahmen-zeigen-explosionen-ueber-venezolanischer-hauptstadt](https://www.spiegel.de/ausland/aufnahmen-zeigen-explosionen-ueber-venezolanischer-hauptstadt-a-e8735c2e-c38b-4af9-b3bb-b03ccfb84efd#ref=rss)
-* [https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor](https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor-a-f9813f8d-7999-45a7-b03a-3538173e36c6#ref=rss)
-### haushalte
-
-* [https://www.spiegel.de/panorama/berlin-50-000-haushalte-nach-brand-einer-kabelbruecke-ohne-strom](https://www.spiegel.de/panorama/berlin-50-000-haushalte-nach-brand-einer-kabelbruecke-ohne-strom-a-571f7b3d-3373-416e-9380-e474ca318c2a#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/berlin-50-000-haushalte-nach-brand-einer-kabelbruecke-ohne-strom](https://www.spiegel.de/panorama/berlin-50-000-haushalte-nach-brand-einer-kabelbruecke-ohne-strom-a-571f7b3d-3373-416e-9380-e474ca318c2a#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-un-chef-fordert-aufhebung-des-lizenzentzugs-fuer-hilfsorganisationen](https://www.spiegel.de/ausland/israel-gaza-krieg-un-chef-fordert-aufhebung-des-lizenzentzugs-fuer-hilfsorganisationen-a-f4ff0848-dede-45a6-906d-c562b13b8a81#ref=rss)
-### brandstiftung
-
-* [https://www.spiegel.de/panorama/berlin-50-000-haushalte-nach-brand-einer-kabelbruecke-ohne-strom](https://www.spiegel.de/panorama/berlin-50-000-haushalte-nach-brand-einer-kabelbruecke-ohne-strom-a-571f7b3d-3373-416e-9380-e474ca318c2a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-kaeltebus-angezuendet-obdachloser-tatverdaechtig](https://www.spiegel.de/panorama/justiz/berlin-kaeltebus-angezuendet-obdachloser-tatverdaechtig-a-98debdf6-5539-4277-ba30-7692c6cb3e3a#ref=rss)
-### intervallfasten
-
-* [https://www.spiegel.de/wissenschaft/mensch/intervallfasten-als-medizin-und-rasen-fuer-die-reichweite-die-lese-empfehlungen-vom-spiegel](https://www.spiegel.de/wissenschaft/mensch/intervallfasten-als-medizin-und-rasen-fuer-die-reichweite-die-lese-empfehlungen-vom-spiegel-a-d6a8613d-ebb2-4ab7-8010-a2529e83fcf8#ref=rss)
-### medizin
-
-* [https://www.spiegel.de/wissenschaft/mensch/intervallfasten-als-medizin-und-rasen-fuer-die-reichweite-die-lese-empfehlungen-vom-spiegel](https://www.spiegel.de/wissenschaft/mensch/intervallfasten-als-medizin-und-rasen-fuer-die-reichweite-die-lese-empfehlungen-vom-spiegel-a-d6a8613d-ebb2-4ab7-8010-a2529e83fcf8#ref=rss)
-### rasen
-
-* [https://www.spiegel.de/wissenschaft/mensch/intervallfasten-als-medizin-und-rasen-fuer-die-reichweite-die-lese-empfehlungen-vom-spiegel](https://www.spiegel.de/wissenschaft/mensch/intervallfasten-als-medizin-und-rasen-fuer-die-reichweite-die-lese-empfehlungen-vom-spiegel-a-d6a8613d-ebb2-4ab7-8010-a2529e83fcf8#ref=rss)
-### reichweite
-
-* [https://www.spiegel.de/wissenschaft/mensch/intervallfasten-als-medizin-und-rasen-fuer-die-reichweite-die-lese-empfehlungen-vom-spiegel](https://www.spiegel.de/wissenschaft/mensch/intervallfasten-als-medizin-und-rasen-fuer-die-reichweite-die-lese-empfehlungen-vom-spiegel-a-d6a8613d-ebb2-4ab7-8010-a2529e83fcf8#ref=rss)
-### leseempfehlungen
-
-* [https://www.spiegel.de/wissenschaft/mensch/intervallfasten-als-medizin-und-rasen-fuer-die-reichweite-die-lese-empfehlungen-vom-spiegel](https://www.spiegel.de/wissenschaft/mensch/intervallfasten-als-medizin-und-rasen-fuer-die-reichweite-die-lese-empfehlungen-vom-spiegel-a-d6a8613d-ebb2-4ab7-8010-a2529e83fcf8#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/wissenschaft/mensch/intervallfasten-als-medizin-und-rasen-fuer-die-reichweite-die-lese-empfehlungen-vom-spiegel](https://www.spiegel.de/wissenschaft/mensch/intervallfasten-als-medizin-und-rasen-fuer-die-reichweite-die-lese-empfehlungen-vom-spiegel-a-d6a8613d-ebb2-4ab7-8010-a2529e83fcf8#ref=rss)
-### woche
-
-* [https://www.spiegel.de/wissenschaft/mensch/intervallfasten-als-medizin-und-rasen-fuer-die-reichweite-die-lese-empfehlungen-vom-spiegel](https://www.spiegel.de/wissenschaft/mensch/intervallfasten-als-medizin-und-rasen-fuer-die-reichweite-die-lese-empfehlungen-vom-spiegel-a-d6a8613d-ebb2-4ab7-8010-a2529e83fcf8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-marie-agnes-strack-zimmermann-und-roderich-kiesewetter-halten-bundeswehrbeteiligung-nach-friedensplan-fuer-moeglich](https://www.spiegel.de/politik/deutschland/ukraine-krieg-marie-agnes-strack-zimmermann-und-roderich-kiesewetter-halten-bundeswehrbeteiligung-nach-friedensplan-fuer-moeglich-a-c7ad4acf-859f-41e1-8582-a581fea033a0#ref=rss)
-### angriff
+* [https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet](https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet-a-45eb0396-c56b-4ac6-aea7-36f3f79367e5#ref=rss)
+### machthaber
 
 * [https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz](https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz-a-983fda89-f26b-4f7c-b70e-22d8e50cd578#ref=rss)
-* [https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor](https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor-a-f9813f8d-7999-45a7-b03a-3538173e36c6#ref=rss)
-### einsatz
+* [https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet](https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet-a-45eb0396-c56b-4ac6-aea7-36f3f79367e5#ref=rss)
+### land
 
 * [https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz](https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz-a-983fda89-f26b-4f7c-b70e-22d8e50cd578#ref=rss)
-* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-erobert-bei-debuet-mit-milan-die-tabellenspitze](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-erobert-bei-debuet-mit-milan-die-tabellenspitze-a-d0c79e25-e171-4a95-8238-33aa1ef97f89#ref=rss)
-### angezündet
+* [https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst](https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst-a-e566de7b-5d52-485f-8fb6-47d2aa6a002b#ref=rss)
+### kuba
 
-* [https://www.spiegel.de/panorama/justiz/berlin-kaeltebus-angezuendet-obdachloser-tatverdaechtig](https://www.spiegel.de/panorama/justiz/berlin-kaeltebus-angezuendet-obdachloser-tatverdaechtig-a-98debdf6-5539-4277-ba30-7692c6cb3e3a#ref=rss)
-### 30
+* [https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz](https://www.spiegel.de/ausland/venezuela-us-beamte-bestaetigen-militaereinsatz-a-983fda89-f26b-4f7c-b70e-22d8e50cd578#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig](https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig-a-6aedccb0-cc45-416f-9aa9-6dd6f7b92cba#ref=rss)
+### autokrat
 
-* [https://www.spiegel.de/auto/verkehrssicherheit-tempo-30-in-staedten-bremst-das-unfallrisiko-erhoeht-die-fahrzeit-aber-kaum](https://www.spiegel.de/auto/verkehrssicherheit-tempo-30-in-staedten-bremst-das-unfallrisiko-erhoeht-die-fahrzeit-aber-kaum-a-8cfaaf8b-aa22-4651-8977-f04f2b5b7ab4#ref=rss)
-### städten
+* [https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst](https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst-a-e566de7b-5d52-485f-8fb6-47d2aa6a002b#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro](https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro-a-ab1deea5-c7f4-40ce-8a22-6d730783463c#ref=rss)
+### gestürzt
 
-* [https://www.spiegel.de/auto/verkehrssicherheit-tempo-30-in-staedten-bremst-das-unfallrisiko-erhoeht-die-fahrzeit-aber-kaum](https://www.spiegel.de/auto/verkehrssicherheit-tempo-30-in-staedten-bremst-das-unfallrisiko-erhoeht-die-fahrzeit-aber-kaum-a-8cfaaf8b-aa22-4651-8977-f04f2b5b7ab4#ref=rss)
-### kilometer
+* [https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst](https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst-a-e566de7b-5d52-485f-8fb6-47d2aa6a002b#ref=rss)
+* [https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet](https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet-a-45eb0396-c56b-4ac6-aea7-36f3f79367e5#ref=rss)
+### regime
 
-* [https://www.spiegel.de/auto/verkehrssicherheit-tempo-30-in-staedten-bremst-das-unfallrisiko-erhoeht-die-fahrzeit-aber-kaum](https://www.spiegel.de/auto/verkehrssicherheit-tempo-30-in-staedten-bremst-das-unfallrisiko-erhoeht-die-fahrzeit-aber-kaum-a-8cfaaf8b-aa22-4651-8977-f04f2b5b7ab4#ref=rss)
-* [https://www.spiegel.de/ausland/kambodscha-wirft-thailand-annexion-von-territorien-vor](https://www.spiegel.de/ausland/kambodscha-wirft-thailand-annexion-von-territorien-vor-a-a7ae73d8-d6be-434a-9f00-410b71e09dad#ref=rss)
-### fordert
+* [https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst](https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst-a-e566de7b-5d52-485f-8fb6-47d2aa6a002b#ref=rss)
+* [https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist](https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist-a-b33d7029-9c22-4e0d-92c6-1dff3915bf0b#ref=rss)
+### hoffnung
 
-* [https://www.spiegel.de/auto/verkehrssicherheit-tempo-30-in-staedten-bremst-das-unfallrisiko-erhoeht-die-fahrzeit-aber-kaum](https://www.spiegel.de/auto/verkehrssicherheit-tempo-30-in-staedten-bremst-das-unfallrisiko-erhoeht-die-fahrzeit-aber-kaum-a-8cfaaf8b-aa22-4651-8977-f04f2b5b7ab4#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-un-chef-fordert-aufhebung-des-lizenzentzugs-fuer-hilfsorganisationen](https://www.spiegel.de/ausland/israel-gaza-krieg-un-chef-fordert-aufhebung-des-lizenzentzugs-fuer-hilfsorganisationen-a-f4ff0848-dede-45a6-906d-c562b13b8a81#ref=rss)
-### wirft
+* [https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst](https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst-a-e566de7b-5d52-485f-8fb6-47d2aa6a002b#ref=rss)
+* [https://www.spiegel.de/politik/deutsche-reaktionen-auf-us-militaereinsatz-in-venezuela-von-putsch-bis-signal-der-hoffnung](https://www.spiegel.de/politik/deutsche-reaktionen-auf-us-militaereinsatz-in-venezuela-von-putsch-bis-signal-der-hoffnung-a-c0760240-99cb-4661-8adf-6fe791aee755#ref=rss)
+### sorge
 
-* [https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor](https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor-a-f9813f8d-7999-45a7-b03a-3538173e36c6#ref=rss)
-* [https://www.spiegel.de/ausland/kambodscha-wirft-thailand-annexion-von-territorien-vor](https://www.spiegel.de/ausland/kambodscha-wirft-thailand-annexion-von-territorien-vor-a-a7ae73d8-d6be-434a-9f00-410b71e09dad#ref=rss)
-### schweren
+* [https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst](https://www.spiegel.de/ausland/venezuela-nach-nicolas-maduro-wir-sind-voll-euphorie-aufgewacht-aber-auch-mit-angst-a-e566de7b-5d52-485f-8fb6-47d2aa6a002b#ref=rss)
+* [https://www.spiegel.de/politik/deutsche-reaktionen-auf-us-militaereinsatz-in-venezuela-von-putsch-bis-signal-der-hoffnung](https://www.spiegel.de/politik/deutsche-reaktionen-auf-us-militaereinsatz-in-venezuela-von-putsch-bis-signal-der-hoffnung-a-c0760240-99cb-4661-8adf-6fe791aee755#ref=rss)
+### antigravity
 
-* [https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor](https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor-a-f9813f8d-7999-45a7-b03a-3538173e36c6#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas](https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas-a-9a96f1ce-d18b-4817-913a-4a0d41629289#ref=rss)
-### venezuelas
+* [https://www.spiegel.de/netzwelt/gadgets/antigravity-a1-diese-drohne-sieht-alles](https://www.spiegel.de/netzwelt/gadgets/antigravity-a1-diese-drohne-sieht-alles-a-9138e473-42ea-460a-b677-123cc130ccb0#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor](https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor-a-f9813f8d-7999-45a7-b03a-3538173e36c6#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas](https://www.spiegel.de/ausland/venezuela-medien-berichten-ueber-explosionen-in-caracas-a-9a96f1ce-d18b-4817-913a-4a0d41629289#ref=rss)
-### nachbarland
+* [https://www.spiegel.de/kultur/diddl-comeback-tapsiger-bote-der-gefuehlserpressung](https://www.spiegel.de/kultur/diddl-comeback-tapsiger-bote-der-gefuehlserpressung-a-205d76b2-b5c3-4b21-bad3-8afe245ff262#ref=rss)
+* [https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik](https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik-a-6e4a6acd-3fa4-49dc-910d-e31001adc34d#ref=rss)
+### gut
 
-* [https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor](https://www.spiegel.de/ausland/explosionen-in-caracas-venezuela-wirft-den-usa-schweren-militaerischen-angriff-vor-a-f9813f8d-7999-45a7-b03a-3538173e36c6#ref=rss)
-* [https://www.spiegel.de/ausland/separatisten-im-jemen-forcieren-referendum-zur-unabhaengigkeit](https://www.spiegel.de/ausland/separatisten-im-jemen-forcieren-referendum-zur-unabhaengigkeit-a-42733623-247d-40cc-8cf2-dc4a6df4e560#ref=rss)
-### downsyndrom
+* [https://www.spiegel.de/kultur/diddl-comeback-tapsiger-bote-der-gefuehlserpressung](https://www.spiegel.de/kultur/diddl-comeback-tapsiger-bote-der-gefuehlserpressung-a-205d76b2-b5c3-4b21-bad3-8afe245ff262#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jan-van-aken-und-dann-vergleicht-er-das-linkenprogramm-mit-der-bibel](https://www.spiegel.de/politik/deutschland/jan-van-aken-und-dann-vergleicht-er-das-linkenprogramm-mit-der-bibel-a-e372992f-af97-4b87-acc1-816b4aa1942e#ref=rss)
+### nordstadt
 
-* [https://www.spiegel.de/familie/leben-mit-downsyndrom-wie-siehst-du-die-welt](https://www.spiegel.de/familie/leben-mit-downsyndrom-wie-siehst-du-die-welt-a-faeaf506-f0de-4457-950f-ede0e7e26e8c#ref=rss)
-### lehrergewerkschaft
+* [https://www.spiegel.de/deinspiegel/integratives-fussballprojekt-in-der-dortmunder-nordstadt-platz-da](https://www.spiegel.de/deinspiegel/integratives-fussballprojekt-in-der-dortmunder-nordstadt-platz-da-a-a3613f7e-80e3-4135-ae72-f3aa9ac3d4f1#ref=rss)
+### fremdenlegion
 
-* [https://www.spiegel.de/panorama/bildung/schulpflicht-lehrergewerkschaft-kritisiert-arrest-fuer-schulschwaenzen](https://www.spiegel.de/panorama/bildung/schulpflicht-lehrergewerkschaft-kritisiert-arrest-fuer-schulschwaenzen-a-f1876b2f-7bd6-4342-a58b-d90606f6198b#ref=rss)
+* [https://www.spiegel.de/panorama/bei-der-fremdenlegion-gabs-fuer-uns-deutsche-nur-nazi-namen](https://www.spiegel.de/panorama/bei-der-fremdenlegion-gabs-fuer-uns-deutsche-nur-nazi-namen-a-267a8ba2-7517-4311-ade3-99ceaa440040#ref=rss)
+### uns
+
+* [https://www.spiegel.de/panorama/bei-der-fremdenlegion-gabs-fuer-uns-deutsche-nur-nazi-namen](https://www.spiegel.de/panorama/bei-der-fremdenlegion-gabs-fuer-uns-deutsche-nur-nazi-namen-a-267a8ba2-7517-4311-ade3-99ceaa440040#ref=rss)
+* [https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik](https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik-a-6e4a6acd-3fa4-49dc-910d-e31001adc34d#ref=rss)
+### wintersport
+
+* [https://www.spiegel.de/ausland/wintersport-in-oesterreich-hat-skifahren-eine-zukunft-podcast](https://www.spiegel.de/ausland/wintersport-in-oesterreich-hat-skifahren-eine-zukunft-podcast-a-a0a4dced-d823-4f12-ad02-46a1a86a54bc#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/ausland/wintersport-in-oesterreich-hat-skifahren-eine-zukunft-podcast](https://www.spiegel.de/ausland/wintersport-in-oesterreich-hat-skifahren-eine-zukunft-podcast-a-a0a4dced-d823-4f12-ad02-46a1a86a54bc#ref=rss)
+* [https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik](https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik-a-6e4a6acd-3fa4-49dc-910d-e31001adc34d#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/ausland/wintersport-in-oesterreich-hat-skifahren-eine-zukunft-podcast](https://www.spiegel.de/ausland/wintersport-in-oesterreich-hat-skifahren-eine-zukunft-podcast-a-a0a4dced-d823-4f12-ad02-46a1a86a54bc#ref=rss)
+* [https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik](https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik-a-6e4a6acd-3fa4-49dc-910d-e31001adc34d#ref=rss)
+### gemeinde
+
+* [https://www.spiegel.de/ausland/wintersport-in-oesterreich-hat-skifahren-eine-zukunft-podcast](https://www.spiegel.de/ausland/wintersport-in-oesterreich-hat-skifahren-eine-zukunft-podcast-a-a0a4dced-d823-4f12-ad02-46a1a86a54bc#ref=rss)
+* [https://www.spiegel.de/ausland/schweiz-polizei-ermittelt-gegen-betreiber-von-ausgebrannter-bar-in-crrans-montana](https://www.spiegel.de/ausland/schweiz-polizei-ermittelt-gegen-betreiber-von-ausgebrannter-bar-in-crrans-montana-a-814fa61b-d7a8-4b3e-a4c1-106bc27da266#ref=rss)
 ### folgen
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-unfaelle-bei-schnee-und-glaette-lachs-auf-der-autobahn](https://www.spiegel.de/panorama/wetter-in-deutschland-unfaelle-bei-schnee-und-glaette-lachs-auf-der-autobahn-a-f1023d08-1c14-445c-8a1d-2f27da9c83da#ref=rss)
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-un-chef-fordert-aufhebung-des-lizenzentzugs-fuer-hilfsorganisationen](https://www.spiegel.de/ausland/israel-gaza-krieg-un-chef-fordert-aufhebung-des-lizenzentzugs-fuer-hilfsorganisationen-a-f4ff0848-dede-45a6-906d-c562b13b8a81#ref=rss)
-### rolle
+* [https://www.spiegel.de/ausland/wintersport-in-oesterreich-hat-skifahren-eine-zukunft-podcast](https://www.spiegel.de/ausland/wintersport-in-oesterreich-hat-skifahren-eine-zukunft-podcast-a-a0a4dced-d823-4f12-ad02-46a1a86a54bc#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-wer-auf-nicolas-maduro-folgen-koennte](https://www.spiegel.de/ausland/venezuela-wer-auf-nicolas-maduro-folgen-koennte-a-8defa68a-83a9-4244-8f0b-435cc0225f94#ref=rss)
+### vorsätze
 
-* [https://www.spiegel.de/politik/deutschland/news-deutschlands-rolle-in-der-ukraine-csu-in-seeon-linken-chef-jan-van-aken](https://www.spiegel.de/politik/deutschland/news-deutschlands-rolle-in-der-ukraine-csu-in-seeon-linken-chef-jan-van-aken-a-f3649da5-825e-45fd-8b1e-d002e0cb4cc9#ref=rss)
-### csu
+* [https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik](https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik-a-6e4a6acd-3fa4-49dc-910d-e31001adc34d#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/news-deutschlands-rolle-in-der-ukraine-csu-in-seeon-linken-chef-jan-van-aken](https://www.spiegel.de/politik/deutschland/news-deutschlands-rolle-in-der-ukraine-csu-in-seeon-linken-chef-jan-van-aken-a-f3649da5-825e-45fd-8b1e-d002e0cb4cc9#ref=rss)
+* [https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik](https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik-a-6e4a6acd-3fa4-49dc-910d-e31001adc34d#ref=rss)
+* [https://www.spiegel.de/kultur/musik/wicked-komponist-stephen-schwartz-will-nicht-mehr-im-kennedy-center-auftreten](https://www.spiegel.de/kultur/musik/wicked-komponist-stephen-schwartz-will-nicht-mehr-im-kennedy-center-auftreten-a-9fdc9f65-7f94-48ff-b518-1190f7e5fb05#ref=rss)
+### karin
+
+* [https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik](https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik-a-6e4a6acd-3fa4-49dc-910d-e31001adc34d#ref=rss)
+### kuschik
+
+* [https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik](https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik-a-6e4a6acd-3fa4-49dc-910d-e31001adc34d#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik](https://www.spiegel.de/psychologie/vorsaetze-wie-wir-mit-mehr-leichtigkeit-ins-neue-jahr-starten-podcast-mir-karin-kuschik-a-6e4a6acd-3fa4-49dc-910d-e31001adc34d#ref=rss)
+* [https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist](https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist-a-b33d7029-9c22-4e0d-92c6-1dff3915bf0b#ref=rss)
+### busfahrer
+
+* [https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro](https://www.spiegel.de/ausland/venezuela-vom-busfahrer-zum-diktator-das-ende-des-nicolas-maduro-a-ab1deea5-c7f4-40ce-8a22-6d730783463c#ref=rss)
+### dimitar
+
+* [https://www.spiegel.de/sport/fussball/dimitar-penew-der-mann-der-deutschland-bei-der-wm-1994-schockierte-ist-tot](https://www.spiegel.de/sport/fussball/dimitar-penew-der-mann-der-deutschland-bei-der-wm-1994-schockierte-ist-tot-a-f1c02339-ad2e-47e7-a82d-60e5a62ea7e6#ref=rss)
+### penew
+
+* [https://www.spiegel.de/sport/fussball/dimitar-penew-der-mann-der-deutschland-bei-der-wm-1994-schockierte-ist-tot](https://www.spiegel.de/sport/fussball/dimitar-penew-der-mann-der-deutschland-bei-der-wm-1994-schockierte-ist-tot-a-f1c02339-ad2e-47e7-a82d-60e5a62ea7e6#ref=rss)
+### 1994
+
+* [https://www.spiegel.de/sport/fussball/dimitar-penew-der-mann-der-deutschland-bei-der-wm-1994-schockierte-ist-tot](https://www.spiegel.de/sport/fussball/dimitar-penew-der-mann-der-deutschland-bei-der-wm-1994-schockierte-ist-tot-a-f1c02339-ad2e-47e7-a82d-60e5a62ea7e6#ref=rss)
+### erfolg
+
+* [https://www.spiegel.de/sport/fussball/dimitar-penew-der-mann-der-deutschland-bei-der-wm-1994-schockierte-ist-tot](https://www.spiegel.de/sport/fussball/dimitar-penew-der-mann-der-deutschland-bei-der-wm-1994-schockierte-ist-tot-a-f1c02339-ad2e-47e7-a82d-60e5a62ea7e6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jan-van-aken-und-dann-vergleicht-er-das-linkenprogramm-mit-der-bibel](https://www.spiegel.de/politik/deutschland/jan-van-aken-und-dann-vergleicht-er-das-linkenprogramm-mit-der-bibel-a-e372992f-af97-4b87-acc1-816b4aa1942e#ref=rss)
+### alter
+
+* [https://www.spiegel.de/sport/fussball/dimitar-penew-der-mann-der-deutschland-bei-der-wm-1994-schockierte-ist-tot](https://www.spiegel.de/sport/fussball/dimitar-penew-der-mann-der-deutschland-bei-der-wm-1994-schockierte-ist-tot-a-f1c02339-ad2e-47e7-a82d-60e5a62ea7e6#ref=rss)
+* [https://www.spiegel.de/panorama/amboseli-nationalpark-kenia-beruehmter-elefantenbulle-craig-ist-gestorben](https://www.spiegel.de/panorama/amboseli-nationalpark-kenia-beruehmter-elefantenbulle-craig-ist-gestorben-a-fad64013-148e-4ccb-aa62-fab64494d3cd#ref=rss)
+### vierschanzentournee
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-in-innsbruck-domen-prevc-schwaechelt-philipp-raimund-kracht-in-bande](https://www.spiegel.de/sport/wintersport/vierschanzentournee-in-innsbruck-domen-prevc-schwaechelt-philipp-raimund-kracht-in-bande-a-71b96cab-ebbd-405a-9bc8-cc30ac4459d4#ref=rss)
+### domen
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-in-innsbruck-domen-prevc-schwaechelt-philipp-raimund-kracht-in-bande](https://www.spiegel.de/sport/wintersport/vierschanzentournee-in-innsbruck-domen-prevc-schwaechelt-philipp-raimund-kracht-in-bande-a-71b96cab-ebbd-405a-9bc8-cc30ac4459d4#ref=rss)
+### prevc
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-in-innsbruck-domen-prevc-schwaechelt-philipp-raimund-kracht-in-bande](https://www.spiegel.de/sport/wintersport/vierschanzentournee-in-innsbruck-domen-prevc-schwaechelt-philipp-raimund-kracht-in-bande-a-71b96cab-ebbd-405a-9bc8-cc30ac4459d4#ref=rss)
+### philipp
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-in-innsbruck-domen-prevc-schwaechelt-philipp-raimund-kracht-in-bande](https://www.spiegel.de/sport/wintersport/vierschanzentournee-in-innsbruck-domen-prevc-schwaechelt-philipp-raimund-kracht-in-bande-a-71b96cab-ebbd-405a-9bc8-cc30ac4459d4#ref=rss)
+### raimund
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-in-innsbruck-domen-prevc-schwaechelt-philipp-raimund-kracht-in-bande](https://www.spiegel.de/sport/wintersport/vierschanzentournee-in-innsbruck-domen-prevc-schwaechelt-philipp-raimund-kracht-in-bande-a-71b96cab-ebbd-405a-9bc8-cc30ac4459d4#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-in-innsbruck-domen-prevc-schwaechelt-philipp-raimund-kracht-in-bande](https://www.spiegel.de/sport/wintersport/vierschanzentournee-in-innsbruck-domen-prevc-schwaechelt-philipp-raimund-kracht-in-bande-a-71b96cab-ebbd-405a-9bc8-cc30ac4459d4#ref=rss)
+* [https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz](https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz-a-7af7e445-ef33-4251-af4e-90439f33435c#ref=rss)
+### camille
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-in-kranjska-gora-riesenslalom-siegerin-camille-rast-erinnert-an-opfer-von-crans-montana](https://www.spiegel.de/sport/wintersport/ski-alpin-in-kranjska-gora-riesenslalom-siegerin-camille-rast-erinnert-an-opfer-von-crans-montana-a-1c55d0b5-a56b-4046-a526-4f076f734eff#ref=rss)
+### rast
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-in-kranjska-gora-riesenslalom-siegerin-camille-rast-erinnert-an-opfer-von-crans-montana](https://www.spiegel.de/sport/wintersport/ski-alpin-in-kranjska-gora-riesenslalom-siegerin-camille-rast-erinnert-an-opfer-von-crans-montana-a-1c55d0b5-a56b-4046-a526-4f076f734eff#ref=rss)
+### vizepräsidentin
+
+* [https://www.spiegel.de/ausland/venezuela-wer-auf-nicolas-maduro-folgen-koennte](https://www.spiegel.de/ausland/venezuela-wer-auf-nicolas-maduro-folgen-koennte-a-8defa68a-83a9-4244-8f0b-435cc0225f94#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen](https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen-a-cd4ebbb8-45a6-477a-a04b-fe70cd02f5ce#ref=rss)
+### delcy
+
+* [https://www.spiegel.de/ausland/venezuela-wer-auf-nicolas-maduro-folgen-koennte](https://www.spiegel.de/ausland/venezuela-wer-auf-nicolas-maduro-folgen-koennte-a-8defa68a-83a9-4244-8f0b-435cc0225f94#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen](https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen-a-cd4ebbb8-45a6-477a-a04b-fe70cd02f5ce#ref=rss)
+### rodríguez
+
+* [https://www.spiegel.de/ausland/venezuela-wer-auf-nicolas-maduro-folgen-koennte](https://www.spiegel.de/ausland/venezuela-wer-auf-nicolas-maduro-folgen-koennte-a-8defa68a-83a9-4244-8f0b-435cc0225f94#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen](https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen-a-cd4ebbb8-45a6-477a-a04b-fe70cd02f5ce#ref=rss)
+### bar
+
+* [https://www.spiegel.de/ausland/schweiz-polizei-ermittelt-gegen-betreiber-von-ausgebrannter-bar-in-crrans-montana](https://www.spiegel.de/ausland/schweiz-polizei-ermittelt-gegen-betreiber-von-ausgebrannter-bar-in-crrans-montana-a-814fa61b-d7a8-4b3e-a4c1-106bc27da266#ref=rss)
+### unklar
+
+* [https://www.spiegel.de/ausland/schweiz-polizei-ermittelt-gegen-betreiber-von-ausgebrannter-bar-in-crrans-montana](https://www.spiegel.de/ausland/schweiz-polizei-ermittelt-gegen-betreiber-von-ausgebrannter-bar-in-crrans-montana-a-814fa61b-d7a8-4b3e-a4c1-106bc27da266#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen](https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen-a-cd4ebbb8-45a6-477a-a04b-fe70cd02f5ce#ref=rss)
+### sturz
+
+* [https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz](https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz-a-7af7e445-ef33-4251-af4e-90439f33435c#ref=rss)
+* [https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet](https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet-a-45eb0396-c56b-4ac6-aea7-36f3f79367e5#ref=rss)
+### nicolas
+
+* [https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz](https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz-a-7af7e445-ef33-4251-af4e-90439f33435c#ref=rss)
+* [https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen](https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen-a-b5af7872-26c4-4558-be6d-33c76f4f74f7#ref=rss)
+### spezialeinheiten
+
+* [https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz](https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz-a-7af7e445-ef33-4251-af4e-90439f33435c#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig](https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig-a-6aedccb0-cc45-416f-9aa9-6dd6f7b92cba#ref=rss)
+### delta
+
+* [https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz](https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz-a-7af7e445-ef33-4251-af4e-90439f33435c#ref=rss)
+* [https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen](https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen-a-b5af7872-26c4-4558-be6d-33c76f4f74f7#ref=rss)
+### force
+
+* [https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz](https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz-a-7af7e445-ef33-4251-af4e-90439f33435c#ref=rss)
+* [https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen](https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen-a-b5af7872-26c4-4558-be6d-33c76f4f74f7#ref=rss)
+### aktion
+
+* [https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz](https://www.spiegel.de/ausland/sturz-von-machthaber-maduro-in-venezuela-wie-gelang-der-us-militaereinsatz-a-7af7e445-ef33-4251-af4e-90439f33435c#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/erlangen-keine-gratis-kotbeutel-mehr-geschaeftsinhaberin-startet-patenschaftsinitiative](https://www.spiegel.de/panorama/gesellschaft/erlangen-keine-gratis-kotbeutel-mehr-geschaeftsinhaberin-startet-patenschaftsinitiative-a-459943e2-171d-453a-bcba-d7368fd2c57e#ref=rss)
+### usangriff
+
+* [https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist](https://www.spiegel.de/ausland/us-angriff-auf-venezuela-warum-venezuelas-regime-noch-nicht-am-ende-ist-a-b33d7029-9c22-4e0d-92c6-1dff3915bf0b#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig](https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig-a-6aedccb0-cc45-416f-9aa9-6dd6f7b92cba#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen](https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen-a-cd4ebbb8-45a6-477a-a04b-fe70cd02f5ce#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig](https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig-a-6aedccb0-cc45-416f-9aa9-6dd6f7b92cba#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig](https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig-a-6aedccb0-cc45-416f-9aa9-6dd6f7b92cba#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig](https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig-a-6aedccb0-cc45-416f-9aa9-6dd6f7b92cba#ref=rss)
+* [https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen](https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen-a-b5af7872-26c4-4558-be6d-33c76f4f74f7#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig](https://www.spiegel.de/ausland/venezuela-krise-nach-angriff-der-usa-russland-reagiert-wuetend-europa-vorsichtig-a-6aedccb0-cc45-416f-9aa9-6dd6f7b92cba#ref=rss)
+* [https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen](https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen-a-b5af7872-26c4-4558-be6d-33c76f4f74f7#ref=rss)
+### stephen
+
+* [https://www.spiegel.de/kultur/musik/wicked-komponist-stephen-schwartz-will-nicht-mehr-im-kennedy-center-auftreten](https://www.spiegel.de/kultur/musik/wicked-komponist-stephen-schwartz-will-nicht-mehr-im-kennedy-center-auftreten-a-9fdc9f65-7f94-48ff-b518-1190f7e5fb05#ref=rss)
+### schwartz
+
+* [https://www.spiegel.de/kultur/musik/wicked-komponist-stephen-schwartz-will-nicht-mehr-im-kennedy-center-auftreten](https://www.spiegel.de/kultur/musik/wicked-komponist-stephen-schwartz-will-nicht-mehr-im-kennedy-center-auftreten-a-9fdc9f65-7f94-48ff-b518-1190f7e5fb05#ref=rss)
+### gar
+
+* [https://www.spiegel.de/kultur/musik/wicked-komponist-stephen-schwartz-will-nicht-mehr-im-kennedy-center-auftreten](https://www.spiegel.de/kultur/musik/wicked-komponist-stephen-schwartz-will-nicht-mehr-im-kennedy-center-auftreten-a-9fdc9f65-7f94-48ff-b518-1190f7e5fb05#ref=rss)
+* [https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet](https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet-a-45eb0396-c56b-4ac6-aea7-36f3f79367e5#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutsche-reaktionen-auf-us-militaereinsatz-in-venezuela-von-putsch-bis-signal-der-hoffnung](https://www.spiegel.de/politik/deutsche-reaktionen-auf-us-militaereinsatz-in-venezuela-von-putsch-bis-signal-der-hoffnung-a-c0760240-99cb-4661-8adf-6fe791aee755#ref=rss)
+* [https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen](https://www.spiegel.de/ausland/praesident-maduro-wurde-offenbar-von-us-eliteeinheit-gefangen-genommen-a-b5af7872-26c4-4558-be6d-33c76f4f74f7#ref=rss)
+### reagieren
+
+* [https://www.spiegel.de/politik/deutsche-reaktionen-auf-us-militaereinsatz-in-venezuela-von-putsch-bis-signal-der-hoffnung](https://www.spiegel.de/politik/deutsche-reaktionen-auf-us-militaereinsatz-in-venezuela-von-putsch-bis-signal-der-hoffnung-a-c0760240-99cb-4661-8adf-6fe791aee755#ref=rss)
+* [https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet](https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet-a-45eb0396-c56b-4ac6-aea7-36f3f79367e5#ref=rss)
+### halten
+
+* [https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen](https://www.spiegel.de/ausland/venezuela-maduro-nach-naechtlichem-angriff-der-usa-gefangen-genommen-a-cd4ebbb8-45a6-477a-a04b-fe70cd02f5ce#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/erlangen-keine-gratis-kotbeutel-mehr-geschaeftsinhaberin-startet-patenschaftsinitiative](https://www.spiegel.de/panorama/gesellschaft/erlangen-keine-gratis-kotbeutel-mehr-geschaeftsinhaberin-startet-patenschaftsinitiative-a-459943e2-171d-453a-bcba-d7368fd2c57e#ref=rss)
+### jan
+
+* [https://www.spiegel.de/politik/deutschland/jan-van-aken-und-dann-vergleicht-er-das-linkenprogramm-mit-der-bibel](https://www.spiegel.de/politik/deutschland/jan-van-aken-und-dann-vergleicht-er-das-linkenprogramm-mit-der-bibel-a-e372992f-af97-4b87-acc1-816b4aa1942e#ref=rss)
 ### van
 
-* [https://www.spiegel.de/politik/deutschland/news-deutschlands-rolle-in-der-ukraine-csu-in-seeon-linken-chef-jan-van-aken](https://www.spiegel.de/politik/deutschland/news-deutschlands-rolle-in-der-ukraine-csu-in-seeon-linken-chef-jan-van-aken-a-f3649da5-825e-45fd-8b1e-d002e0cb4cc9#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-2026-gian-van-veen-ist-neuer-darts-koenig-der-niederlande-und-trifft-im-finale-auf-luke-littler](https://www.spiegel.de/sport/darts-wm-2026-gian-van-veen-ist-neuer-darts-koenig-der-niederlande-und-trifft-im-finale-auf-luke-littler-a-4f8cd45c-1167-4ac8-bed8-b0cc0133f984#ref=rss)
-### deutschen
+* [https://www.spiegel.de/politik/deutschland/jan-van-aken-und-dann-vergleicht-er-das-linkenprogramm-mit-der-bibel](https://www.spiegel.de/politik/deutschland/jan-van-aken-und-dann-vergleicht-er-das-linkenprogramm-mit-der-bibel-a-e372992f-af97-4b87-acc1-816b4aa1942e#ref=rss)
+### aken
 
-* [https://www.spiegel.de/panorama/kinofilme-in-einer-ehemaligen-mayonnaise-fabrik-lagert-einer-der-groessten-schaetze-des-landes](https://www.spiegel.de/panorama/kinofilme-in-einer-ehemaligen-mayonnaise-fabrik-lagert-einer-der-groessten-schaetze-des-landes-a-4b19cfe0-caa2-4609-a5e1-035d9febadd9#ref=rss)
-### eu
+* [https://www.spiegel.de/politik/deutschland/jan-van-aken-und-dann-vergleicht-er-das-linkenprogramm-mit-der-bibel](https://www.spiegel.de/politik/deutschland/jan-van-aken-und-dann-vergleicht-er-das-linkenprogramm-mit-der-bibel-a-e372992f-af97-4b87-acc1-816b4aa1942e#ref=rss)
+### erlangen
 
-* [https://www.spiegel.de/politik/eu-zahl-der-abschiebungen-2025-deutlich-gestiegen](https://www.spiegel.de/politik/eu-zahl-der-abschiebungen-2025-deutlich-gestiegen-a-4d612913-3577-40eb-ad30-1ea33a659fbe#ref=rss)
-### abschiebungen
+* [https://www.spiegel.de/panorama/gesellschaft/erlangen-keine-gratis-kotbeutel-mehr-geschaeftsinhaberin-startet-patenschaftsinitiative](https://www.spiegel.de/panorama/gesellschaft/erlangen-keine-gratis-kotbeutel-mehr-geschaeftsinhaberin-startet-patenschaftsinitiative-a-459943e2-171d-453a-bcba-d7368fd2c57e#ref=rss)
+### gratiskotbeutel
 
-* [https://www.spiegel.de/politik/eu-zahl-der-abschiebungen-2025-deutlich-gestiegen](https://www.spiegel.de/politik/eu-zahl-der-abschiebungen-2025-deutlich-gestiegen-a-4d612913-3577-40eb-ad30-1ea33a659fbe#ref=rss)
-### deutlich
+* [https://www.spiegel.de/panorama/gesellschaft/erlangen-keine-gratis-kotbeutel-mehr-geschaeftsinhaberin-startet-patenschaftsinitiative](https://www.spiegel.de/panorama/gesellschaft/erlangen-keine-gratis-kotbeutel-mehr-geschaeftsinhaberin-startet-patenschaftsinitiative-a-459943e2-171d-453a-bcba-d7368fd2c57e#ref=rss)
+### usimperialismus
 
-* [https://www.spiegel.de/politik/eu-zahl-der-abschiebungen-2025-deutlich-gestiegen](https://www.spiegel.de/politik/eu-zahl-der-abschiebungen-2025-deutlich-gestiegen-a-4d612913-3577-40eb-ad30-1ea33a659fbe#ref=rss)
-### gestiegen
+* [https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet](https://www.spiegel.de/ausland/der-coup-von-caracas-was-der-sturz-maduros-bedeutet-a-45eb0396-c56b-4ac6-aea7-36f3f79367e5#ref=rss)
+### craig
 
-* [https://www.spiegel.de/politik/eu-zahl-der-abschiebungen-2025-deutlich-gestiegen](https://www.spiegel.de/politik/eu-zahl-der-abschiebungen-2025-deutlich-gestiegen-a-4d612913-3577-40eb-ad30-1ea33a659fbe#ref=rss)
-### frankreich
+* [https://www.spiegel.de/panorama/amboseli-nationalpark-kenia-beruehmter-elefantenbulle-craig-ist-gestorben](https://www.spiegel.de/panorama/amboseli-nationalpark-kenia-beruehmter-elefantenbulle-craig-ist-gestorben-a-fad64013-148e-4ccb-aa62-fab64494d3cd#ref=rss)
+### gelsenkirchen
 
-* [https://www.spiegel.de/netzwelt/grok-musks-ki-chatbot-gesteht-fehler-bei-anzueglichen-fotogenerierungen](https://www.spiegel.de/netzwelt/grok-musks-ki-chatbot-gesteht-fehler-bei-anzueglichen-fotogenerierungen-a-6da0b1ff-2883-42e0-a327-1dffd2d3db71#ref=rss)
-* [https://www.spiegel.de/ausland/kambodscha-wirft-thailand-annexion-von-territorien-vor](https://www.spiegel.de/ausland/kambodscha-wirft-thailand-annexion-von-territorien-vor-a-a7ae73d8-d6be-434a-9f00-410b71e09dad#ref=rss)
-### unochef
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-un-chef-fordert-aufhebung-des-lizenzentzugs-fuer-hilfsorganisationen](https://www.spiegel.de/ausland/israel-gaza-krieg-un-chef-fordert-aufhebung-des-lizenzentzugs-fuer-hilfsorganisationen-a-f4ff0848-dede-45a6-906d-c562b13b8a81#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-gaza-krieg-un-chef-fordert-aufhebung-des-lizenzentzugs-fuer-hilfsorganisationen](https://www.spiegel.de/ausland/israel-gaza-krieg-un-chef-fordert-aufhebung-des-lizenzentzugs-fuer-hilfsorganisationen-a-f4ff0848-dede-45a6-906d-c562b13b8a81#ref=rss)
-### luke
-
-* [https://www.spiegel.de/sport/darts-wm-2026-gian-van-veen-ist-neuer-darts-koenig-der-niederlande-und-trifft-im-finale-auf-luke-littler](https://www.spiegel.de/sport/darts-wm-2026-gian-van-veen-ist-neuer-darts-koenig-der-niederlande-und-trifft-im-finale-auf-luke-littler-a-4f8cd45c-1167-4ac8-bed8-b0cc0133f984#ref=rss)
-### littler
-
-* [https://www.spiegel.de/sport/darts-wm-2026-gian-van-veen-ist-neuer-darts-koenig-der-niederlande-und-trifft-im-finale-auf-luke-littler](https://www.spiegel.de/sport/darts-wm-2026-gian-van-veen-ist-neuer-darts-koenig-der-niederlande-und-trifft-im-finale-auf-luke-littler-a-4f8cd45c-1167-4ac8-bed8-b0cc0133f984#ref=rss)
-### große
-
-* [https://www.spiegel.de/sport/darts-wm-2026-gian-van-veen-ist-neuer-darts-koenig-der-niederlande-und-trifft-im-finale-auf-luke-littler](https://www.spiegel.de/sport/darts-wm-2026-gian-van-veen-ist-neuer-darts-koenig-der-niederlande-und-trifft-im-finale-auf-luke-littler-a-4f8cd45c-1167-4ac8-bed8-b0cc0133f984#ref=rss)
-* [https://www.spiegel.de/ausland/separatisten-im-jemen-forcieren-referendum-zur-unabhaengigkeit](https://www.spiegel.de/ausland/separatisten-im-jemen-forcieren-referendum-zur-unabhaengigkeit-a-42733623-247d-40cc-8cf2-dc4a6df4e560#ref=rss)
-### energiepreise
-
-* [https://www.spiegel.de/wirtschaft/energiepreise-rwe-chef-krebber-prognostiziert-sinkende-strom-und-gaspreise](https://www.spiegel.de/wirtschaft/energiepreise-rwe-chef-krebber-prognostiziert-sinkende-strom-und-gaspreise-a-9c7e87f9-f752-4527-b3e6-e600f1fdd43f#ref=rss)
-### krebber
-
-* [https://www.spiegel.de/wirtschaft/energiepreise-rwe-chef-krebber-prognostiziert-sinkende-strom-und-gaspreise](https://www.spiegel.de/wirtschaft/energiepreise-rwe-chef-krebber-prognostiziert-sinkende-strom-und-gaspreise-a-9c7e87f9-f752-4527-b3e6-e600f1fdd43f#ref=rss)
-### niclas
-
-* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-erobert-bei-debuet-mit-milan-die-tabellenspitze](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-erobert-bei-debuet-mit-milan-die-tabellenspitze-a-d0c79e25-e171-4a95-8238-33aa1ef97f89#ref=rss)
-### füllkrug
-
-* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-erobert-bei-debuet-mit-milan-die-tabellenspitze](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-erobert-bei-debuet-mit-milan-die-tabellenspitze-a-d0c79e25-e171-4a95-8238-33aa1ef97f89#ref=rss)
-### ac
-
-* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-erobert-bei-debuet-mit-milan-die-tabellenspitze](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-erobert-bei-debuet-mit-milan-die-tabellenspitze-a-d0c79e25-e171-4a95-8238-33aa1ef97f89#ref=rss)
-### mailand
-
-* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-erobert-bei-debuet-mit-milan-die-tabellenspitze](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-erobert-bei-debuet-mit-milan-die-tabellenspitze-a-d0c79e25-e171-4a95-8238-33aa1ef97f89#ref=rss)
-### kambodscha
-
-* [https://www.spiegel.de/ausland/kambodscha-wirft-thailand-annexion-von-territorien-vor](https://www.spiegel.de/ausland/kambodscha-wirft-thailand-annexion-von-territorien-vor-a-a7ae73d8-d6be-434a-9f00-410b71e09dad#ref=rss)
-### thailand
-
-* [https://www.spiegel.de/ausland/kambodscha-wirft-thailand-annexion-von-territorien-vor](https://www.spiegel.de/ausland/kambodscha-wirft-thailand-annexion-von-territorien-vor-a-a7ae73d8-d6be-434a-9f00-410b71e09dad#ref=rss)
-### smith
-
-* [https://www.spiegel.de/panorama/leute/will-smith-warum-ein-tourmusiker-den-rapper-verklagt](https://www.spiegel.de/panorama/leute/will-smith-warum-ein-tourmusiker-den-rapper-verklagt-a-04d42905-f48f-47c2-9aa9-9fa9c8ebcfdb#ref=rss)
-### verteidigungsminister
-
-* [https://www.spiegel.de/ausland/ukraine-mychajlo-fedorow-soll-naechster-verteidigungsminister-werden](https://www.spiegel.de/ausland/ukraine-mychajlo-fedorow-soll-naechster-verteidigungsminister-werden-a-9d446a62-2b9d-4c83-8adc-98a3cb95ce13#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/ukraine-mychajlo-fedorow-soll-naechster-verteidigungsminister-werden](https://www.spiegel.de/ausland/ukraine-mychajlo-fedorow-soll-naechster-verteidigungsminister-werden-a-9d446a62-2b9d-4c83-8adc-98a3cb95ce13#ref=rss)
-* [https://www.spiegel.de/ausland/separatisten-im-jemen-forcieren-referendum-zur-unabhaengigkeit](https://www.spiegel.de/ausland/separatisten-im-jemen-forcieren-referendum-zur-unabhaengigkeit-a-42733623-247d-40cc-8cf2-dc4a6df4e560#ref=rss)
-### anthony
-
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-fahrer-nach-toedlichem-unfall-in-nigeria-angeklagt](https://www.spiegel.de/sport/boxen/anthony-joshua-fahrer-nach-toedlichem-unfall-in-nigeria-angeklagt-a-347a78e2-2577-4cc2-81a8-f5a439c5bb0c#ref=rss)
-### joshua
-
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-fahrer-nach-toedlichem-unfall-in-nigeria-angeklagt](https://www.spiegel.de/sport/boxen/anthony-joshua-fahrer-nach-toedlichem-unfall-in-nigeria-angeklagt-a-347a78e2-2577-4cc2-81a8-f5a439c5bb0c#ref=rss)
-### fahrer
-
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-fahrer-nach-toedlichem-unfall-in-nigeria-angeklagt](https://www.spiegel.de/sport/boxen/anthony-joshua-fahrer-nach-toedlichem-unfall-in-nigeria-angeklagt-a-347a78e2-2577-4cc2-81a8-f5a439c5bb0c#ref=rss)
-### polen
-
-* [https://www.spiegel.de/panorama/migration-warum-deutschland-fuer-viele-polen-nicht-mehr-attraktiv-ist](https://www.spiegel.de/panorama/migration-warum-deutschland-fuer-viele-polen-nicht-mehr-attraktiv-ist-a-32d8778b-e46e-4845-8594-a272f8d9db22#ref=rss)
-### separatisten
-
-* [https://www.spiegel.de/ausland/separatisten-im-jemen-forcieren-referendum-zur-unabhaengigkeit](https://www.spiegel.de/ausland/separatisten-im-jemen-forcieren-referendum-zur-unabhaengigkeit-a-42733623-247d-40cc-8cf2-dc4a6df4e560#ref=rss)
-### forcieren
-
-* [https://www.spiegel.de/ausland/separatisten-im-jemen-forcieren-referendum-zur-unabhaengigkeit](https://www.spiegel.de/ausland/separatisten-im-jemen-forcieren-referendum-zur-unabhaengigkeit-a-42733623-247d-40cc-8cf2-dc4a6df4e560#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nach-millionencoup-in-gelsenkirchen-fotos-von-tatverdaechtigen-veroeffentlicht](https://www.spiegel.de/panorama/justiz/nach-millionencoup-in-gelsenkirchen-fotos-von-tatverdaechtigen-veroeffentlicht-a-4c77e9ff-0746-4626-80d6-e9f05089b204#ref=rss)
 
