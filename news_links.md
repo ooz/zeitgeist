@@ -4,302 +4,322 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### stromausfall
-
-* [https://www.spiegel.de/politik/stromausfall-im-reichen-zehlendorf-jetzt-wollen-alle-generatoren](https://www.spiegel.de/politik/stromausfall-im-reichen-zehlendorf-jetzt-wollen-alle-generatoren-a-3b38cb06-028e-4859-8034-03632fd4eb27#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/berlin-stromausfall-so-wappnen-sie-sich](https://www.spiegel.de/wissenschaft/technik/berlin-stromausfall-so-wappnen-sie-sich-a-8916c2e0-f48b-4633-8d99-cc87f0453264#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nach-stromausfall-in-berlin-generalbundesanwalt-ermittelt-wegen-terrorverdachts](https://www.spiegel.de/panorama/justiz/nach-stromausfall-in-berlin-generalbundesanwalt-ermittelt-wegen-terrorverdachts-a-6bc30cef-d7a4-4f1b-844a-36d692786de0#ref=rss)
-* [https://www.spiegel.de/netzwelt/stromausfall-soll-man-die-stecker-ziehen-wie-man-am-besten-vorsorgt](https://www.spiegel.de/netzwelt/stromausfall-soll-man-die-stecker-ziehen-wie-man-am-besten-vorsorgt-a-9df029fd-3655-4cd8-8d37-7be2de2e03e6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-so-trifft-der-stromausfall-die-unternehmen-millionenschaeden-befuerchtet](https://www.spiegel.de/wirtschaft/unternehmen/berlin-so-trifft-der-stromausfall-die-unternehmen-millionenschaeden-befuerchtet-a-0ab5b521-aaff-4e3a-9d9b-6d4543066014#ref=rss)
-* [https://www.spiegel.de/panorama/stromausfall-in-berlin-schwimmbaeder-oeffnen-zum-duschen](https://www.spiegel.de/panorama/stromausfall-in-berlin-schwimmbaeder-oeffnen-zum-duschen-a-6572f039-40f7-4c83-9cc8-c08ab6dd7962#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/wissenschaft/technik/berlin-stromausfall-so-wappnen-sie-sich](https://www.spiegel.de/wissenschaft/technik/berlin-stromausfall-so-wappnen-sie-sich-a-8916c2e0-f48b-4633-8d99-cc87f0453264#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nach-stromausfall-in-berlin-generalbundesanwalt-ermittelt-wegen-terrorverdachts](https://www.spiegel.de/panorama/justiz/nach-stromausfall-in-berlin-generalbundesanwalt-ermittelt-wegen-terrorverdachts-a-6bc30cef-d7a4-4f1b-844a-36d692786de0#ref=rss)
-* [https://www.spiegel.de/netzwelt/stromausfall-soll-man-die-stecker-ziehen-wie-man-am-besten-vorsorgt](https://www.spiegel.de/netzwelt/stromausfall-soll-man-die-stecker-ziehen-wie-man-am-besten-vorsorgt-a-9df029fd-3655-4cd8-8d37-7be2de2e03e6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-so-trifft-der-stromausfall-die-unternehmen-millionenschaeden-befuerchtet](https://www.spiegel.de/wirtschaft/unternehmen/berlin-so-trifft-der-stromausfall-die-unternehmen-millionenschaeden-befuerchtet-a-0ab5b521-aaff-4e3a-9d9b-6d4543066014#ref=rss)
-* [https://www.spiegel.de/panorama/stromausfall-in-berlin-schwimmbaeder-oeffnen-zum-duschen](https://www.spiegel.de/panorama/stromausfall-in-berlin-schwimmbaeder-oeffnen-zum-duschen-a-6572f039-40f7-4c83-9cc8-c08ab6dd7962#ref=rss)
-* [https://www.spiegel.de/panorama/crans-montana-charite-aerztin-behandelt-brandopfer-aus-der-schweiz](https://www.spiegel.de/panorama/crans-montana-charite-aerztin-behandelt-brandopfer-aus-der-schweiz-a-193bbdc0-39b3-4838-93e8-68ee4c785f75#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/panorama/winter-in-deutschland-pflichten-fuer-eigentuemer-und-vermieter-bei-schnee-und-eis](https://www.spiegel.de/panorama/winter-in-deutschland-pflichten-fuer-eigentuemer-und-vermieter-bei-schnee-und-eis-a-8546a03d-d29e-46ad-be17-2f6bcf12d7a8#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-weiter-schnee-und-frost-und-in-der-nacht-auf-freitag-kommt-ein-sturmtief](https://www.spiegel.de/panorama/wetter-in-deutschland-weiter-schnee-und-frost-und-in-der-nacht-auf-freitag-kommt-ein-sturmtief-a-ea8df983-76f3-4c47-a6f3-ad6f4754a49a#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-rekord-mehr-als-545-000-batterie-pkw-2025-in-deutschland-zugelassen](https://www.spiegel.de/auto/elektroauto-rekord-mehr-als-545-000-batterie-pkw-2025-in-deutschland-zugelassen-a-36062085-0eaa-4b98-b325-44b068b868b8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kinos-verkauften-2025-in-deutschland-mehr-tickets](https://www.spiegel.de/wirtschaft/kinos-verkauften-2025-in-deutschland-mehr-tickets-a-06a9ff5b-e9ae-4a78-b722-b10eb8daa3f0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-arbeitslosenzahl-steigt-im-dezember-wieder](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-arbeitslosenzahl-steigt-im-dezember-wieder-a-2800f4a4-256d-490b-a7b5-fbdca8b8f677#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-in-nrw-koennten-zehn-zentimeter-neuschnee-fallen](https://www.spiegel.de/panorama/wetter-in-deutschland-in-nrw-koennten-zehn-zentimeter-neuschnee-fallen-a-bfcfe21c-9378-41b8-a1de-5e4620c453fd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/co2-rechte-deutschland-erzielt-einnahmerekord-im-emissionshandel](https://www.spiegel.de/wirtschaft/unternehmen/co2-rechte-deutschland-erzielt-einnahmerekord-im-emissionshandel-a-6ae44a84-8b4b-4d54-b25b-9068b98660c5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/aschaffenburg-zeuge-des-attentats-zur-festnahme-ausgeschrieben](https://www.spiegel.de/panorama/justiz/aschaffenburg-zeuge-des-attentats-zur-festnahme-ausgeschrieben-a-76979f06-0857-4cfd-a82e-bbc0eac5e5c0#ref=rss)
+* [https://www.spiegel.de/geschichte/venezuela-als-die-deutsche-marine-im-januar-1903-die-kueste-beschoss](https://www.spiegel.de/geschichte/venezuela-als-die-deutsche-marine-im-januar-1903-die-kueste-beschoss-a-d04a9271-5a03-481c-a39e-a5414c666b45#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klima-politik-deutschland-drohen-34-milliarden-euro-strafen](https://www.spiegel.de/wissenschaft/klima-politik-deutschland-drohen-34-milliarden-euro-strafen-a-87aa3d67-0c90-49ee-a4a5-51501a11ec96#ref=rss)
+### venezuela
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-wie-europaeische-zeitungen-das-gebahren-der-usa-kommentieren](https://www.spiegel.de/politik/deutschland/donald-trump-wie-europaeische-zeitungen-das-gebahren-der-usa-kommentieren-a-2bbf0368-be49-4fbf-982e-200bd6e8e105#ref=rss)
+* [https://www.spiegel.de/ausland/russland-soll-u-boot-als-eskorte-fuer-oeltanker-aus-venezuela-entsendet-haben](https://www.spiegel.de/ausland/russland-soll-u-boot-als-eskorte-fuer-oeltanker-aus-venezuela-entsendet-haben-a-9f8df781-9549-457d-8a99-8489d8c811a7#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-delcy-rodriguez-verwehrt-sich-gegen-einfluss-auslaendischer-akteure](https://www.spiegel.de/ausland/venezuela-delcy-rodriguez-verwehrt-sich-gegen-einfluss-auslaendischer-akteure-a-aa1cc43b-3a1f-485d-a816-f5273965f478#ref=rss)
+* [https://www.spiegel.de/geschichte/venezuela-als-die-deutsche-marine-im-januar-1903-die-kueste-beschoss](https://www.spiegel.de/geschichte/venezuela-als-die-deutsche-marine-im-januar-1903-die-kueste-beschoss-a-d04a9271-5a03-481c-a39e-a5414c666b45#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/service/oeko-test-weist-antibiotikaresistente-keime-auch-in-bio-haehnchenfleisch-nach](https://www.spiegel.de/wirtschaft/service/oeko-test-weist-antibiotikaresistente-keime-auch-in-bio-haehnchenfleisch-nach-a-aa80578d-602a-4a3f-8f04-1b58684aa545#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/spektakulaerer-einbruch-in-gelsenkirchen-buer-polizei-durchsucht-sparkassen-filiale](https://www.spiegel.de/panorama/justiz/spektakulaerer-einbruch-in-gelsenkirchen-buer-polizei-durchsucht-sparkassen-filiale-a-4f83b628-3fa0-45a9-9057-935ceea40875#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-rekord-mehr-als-545-000-batterie-pkw-2025-in-deutschland-zugelassen](https://www.spiegel.de/auto/elektroauto-rekord-mehr-als-545-000-batterie-pkw-2025-in-deutschland-zugelassen-a-36062085-0eaa-4b98-b325-44b068b868b8#ref=rss)
-* [https://www.spiegel.de/panorama/stromausfall-in-berlin-schwimmbaeder-oeffnen-zum-duschen](https://www.spiegel.de/panorama/stromausfall-in-berlin-schwimmbaeder-oeffnen-zum-duschen-a-6572f039-40f7-4c83-9cc8-c08ab6dd7962#ref=rss)
-### cransmontana
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-koalitions-aus-in-brandenburg-friedrich-merz-und-jacob-schrot-crans-montana](https://www.spiegel.de/politik/deutschland/news-des-tages-koalitions-aus-in-brandenburg-friedrich-merz-und-jacob-schrot-crans-montana-a-d8df6dd0-cefd-46c2-ad44-79bd1b303e32#ref=rss)
-* [https://www.spiegel.de/panorama/crans-montana-charite-aerztin-behandelt-brandopfer-aus-der-schweiz](https://www.spiegel.de/panorama/crans-montana-charite-aerztin-behandelt-brandopfer-aus-der-schweiz-a-193bbdc0-39b3-4838-93e8-68ee4c785f75#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-domen-prevc-triumphiert-bei-der-vierschanzentournee](https://www.spiegel.de/sport/wintersport/skispringen-domen-prevc-triumphiert-bei-der-vierschanzentournee-a-2b23cab1-4c35-44ee-a25b-d1e66ba1b067#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-der-monroe-doktrin-amerikas-lizenz-zum-angriff](https://www.spiegel.de/geschichte/geschichte-der-monroe-doktrin-amerikas-lizenz-zum-angriff-a-4af9fa0d-f16c-4e74-80e5-0b2502bb819b#ref=rss)
-* [https://www.spiegel.de/kultur/kino/bela-tarr-berlinale-sieger-von-2011-ist-tot](https://www.spiegel.de/kultur/kino/bela-tarr-berlinale-sieger-von-2011-ist-tot-a-ee700504-81ad-4990-a90e-d6e8df47b117#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/politik/stromausfall-im-reichen-zehlendorf-jetzt-wollen-alle-generatoren](https://www.spiegel.de/politik/stromausfall-im-reichen-zehlendorf-jetzt-wollen-alle-generatoren-a-3b38cb06-028e-4859-8034-03632fd4eb27#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nach-stromausfall-in-berlin-generalbundesanwalt-ermittelt-wegen-terrorverdachts](https://www.spiegel.de/panorama/justiz/nach-stromausfall-in-berlin-generalbundesanwalt-ermittelt-wegen-terrorverdachts-a-6bc30cef-d7a4-4f1b-844a-36d692786de0#ref=rss)
-* [https://www.spiegel.de/panorama/stromausfall-in-berlin-schwimmbaeder-oeffnen-zum-duschen](https://www.spiegel.de/panorama/stromausfall-in-berlin-schwimmbaeder-oeffnen-zum-duschen-a-6572f039-40f7-4c83-9cc8-c08ab6dd7962#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/netzwelt/apps/ki-chatbot-grok-zieht-frauen-und-kinder-digital-aus-gegen-ihren-willen](https://www.spiegel.de/netzwelt/apps/ki-chatbot-grok-zieht-frauen-und-kinder-digital-aus-gegen-ihren-willen-a-09d8ff07-d940-46e6-9a0a-792e7ae430fa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-so-trifft-der-stromausfall-die-unternehmen-millionenschaeden-befuerchtet](https://www.spiegel.de/wirtschaft/unternehmen/berlin-so-trifft-der-stromausfall-die-unternehmen-millionenschaeden-befuerchtet-a-0ab5b521-aaff-4e3a-9d9b-6d4543066014#ref=rss)
-### schnee
-
-* [https://www.spiegel.de/panorama/winter-in-deutschland-pflichten-fuer-eigentuemer-und-vermieter-bei-schnee-und-eis](https://www.spiegel.de/panorama/winter-in-deutschland-pflichten-fuer-eigentuemer-und-vermieter-bei-schnee-und-eis-a-8546a03d-d29e-46ad-be17-2f6bcf12d7a8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/salz-splitt-asche-oder-sand-welches-streumittel-ist-das-beste-ein-verbraucherschuetzer-klaert-auf](https://www.spiegel.de/wissenschaft/mensch/salz-splitt-asche-oder-sand-welches-streumittel-ist-das-beste-ein-verbraucherschuetzer-klaert-auf-a-8ae86c53-8687-4487-b679-a22a797e4e8e#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-weiter-schnee-und-frost-und-in-der-nacht-auf-freitag-kommt-ein-sturmtief](https://www.spiegel.de/panorama/wetter-in-deutschland-weiter-schnee-und-frost-und-in-der-nacht-auf-freitag-kommt-ein-sturmtief-a-ea8df983-76f3-4c47-a6f3-ad6f4754a49a#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/taylor-swift-beschert-franzoesischem-weingut-terres-blanches-einen-boom](https://www.spiegel.de/wirtschaft/unternehmen/taylor-swift-beschert-franzoesischem-weingut-terres-blanches-einen-boom-a-62e46346-0327-4d01-badc-2db7351d053d#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-rekord-mehr-als-545-000-batterie-pkw-2025-in-deutschland-zugelassen](https://www.spiegel.de/auto/elektroauto-rekord-mehr-als-545-000-batterie-pkw-2025-in-deutschland-zugelassen-a-36062085-0eaa-4b98-b325-44b068b868b8#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/taylor-swift-beschert-franzoesischem-weingut-terres-blanches-einen-boom](https://www.spiegel.de/wirtschaft/unternehmen/taylor-swift-beschert-franzoesischem-weingut-terres-blanches-einen-boom-a-62e46346-0327-4d01-badc-2db7351d053d#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/ki-chatbot-grok-zieht-frauen-und-kinder-digital-aus-gegen-ihren-willen](https://www.spiegel.de/netzwelt/apps/ki-chatbot-grok-zieht-frauen-und-kinder-digital-aus-gegen-ihren-willen-a-09d8ff07-d940-46e6-9a0a-792e7ae430fa#ref=rss)
-### domen
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-domen-prevc-triumphiert-bei-der-vierschanzentournee](https://www.spiegel.de/sport/wintersport/skispringen-domen-prevc-triumphiert-bei-der-vierschanzentournee-a-2b23cab1-4c35-44ee-a25b-d1e66ba1b067#ref=rss)
-### prevc
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-domen-prevc-triumphiert-bei-der-vierschanzentournee](https://www.spiegel.de/sport/wintersport/skispringen-domen-prevc-triumphiert-bei-der-vierschanzentournee-a-2b23cab1-4c35-44ee-a25b-d1e66ba1b067#ref=rss)
-### vierschanzentournee
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-domen-prevc-triumphiert-bei-der-vierschanzentournee](https://www.spiegel.de/sport/wintersport/skispringen-domen-prevc-triumphiert-bei-der-vierschanzentournee-a-2b23cab1-4c35-44ee-a25b-d1e66ba1b067#ref=rss)
-### letzten
-
-* [https://www.spiegel.de/sport/wintersport/skispringen-domen-prevc-triumphiert-bei-der-vierschanzentournee](https://www.spiegel.de/sport/wintersport/skispringen-domen-prevc-triumphiert-bei-der-vierschanzentournee-a-2b23cab1-4c35-44ee-a25b-d1e66ba1b067#ref=rss)
-* [https://www.spiegel.de/kultur/kino/bela-tarr-berlinale-sieger-von-2011-ist-tot](https://www.spiegel.de/kultur/kino/bela-tarr-berlinale-sieger-von-2011-ist-tot-a-ee700504-81ad-4990-a90e-d6e8df47b117#ref=rss)
-### anschlag
-
-* [https://www.spiegel.de/politik/stromausfall-im-reichen-zehlendorf-jetzt-wollen-alle-generatoren](https://www.spiegel.de/politik/stromausfall-im-reichen-zehlendorf-jetzt-wollen-alle-generatoren-a-3b38cb06-028e-4859-8034-03632fd4eb27#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nach-stromausfall-in-berlin-generalbundesanwalt-ermittelt-wegen-terrorverdachts](https://www.spiegel.de/panorama/justiz/nach-stromausfall-in-berlin-generalbundesanwalt-ermittelt-wegen-terrorverdachts-a-6bc30cef-d7a4-4f1b-844a-36d692786de0#ref=rss)
-### stromnetz
-
-* [https://www.spiegel.de/politik/stromausfall-im-reichen-zehlendorf-jetzt-wollen-alle-generatoren](https://www.spiegel.de/politik/stromausfall-im-reichen-zehlendorf-jetzt-wollen-alle-generatoren-a-3b38cb06-028e-4859-8034-03632fd4eb27#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nach-stromausfall-in-berlin-generalbundesanwalt-ermittelt-wegen-terrorverdachts](https://www.spiegel.de/panorama/justiz/nach-stromausfall-in-berlin-generalbundesanwalt-ermittelt-wegen-terrorverdachts-a-6bc30cef-d7a4-4f1b-844a-36d692786de0#ref=rss)
-### trifft
-
-* [https://www.spiegel.de/politik/stromausfall-im-reichen-zehlendorf-jetzt-wollen-alle-generatoren](https://www.spiegel.de/politik/stromausfall-im-reichen-zehlendorf-jetzt-wollen-alle-generatoren-a-3b38cb06-028e-4859-8034-03632fd4eb27#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-so-trifft-der-stromausfall-die-unternehmen-millionenschaeden-befuerchtet](https://www.spiegel.de/wirtschaft/unternehmen/berlin-so-trifft-der-stromausfall-die-unternehmen-millionenschaeden-befuerchtet-a-0ab5b521-aaff-4e3a-9d9b-6d4543066014#ref=rss)
-### allem
-
-* [https://www.spiegel.de/politik/stromausfall-im-reichen-zehlendorf-jetzt-wollen-alle-generatoren](https://www.spiegel.de/politik/stromausfall-im-reichen-zehlendorf-jetzt-wollen-alle-generatoren-a-3b38cb06-028e-4859-8034-03632fd4eb27#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/ki-chatbot-grok-zieht-frauen-und-kinder-digital-aus-gegen-ihren-willen](https://www.spiegel.de/netzwelt/apps/ki-chatbot-grok-zieht-frauen-und-kinder-digital-aus-gegen-ihren-willen-a-09d8ff07-d940-46e6-9a0a-792e7ae430fa#ref=rss)
-### hauptstadt
-
-* [https://www.spiegel.de/politik/stromausfall-im-reichen-zehlendorf-jetzt-wollen-alle-generatoren](https://www.spiegel.de/politik/stromausfall-im-reichen-zehlendorf-jetzt-wollen-alle-generatoren-a-3b38cb06-028e-4859-8034-03632fd4eb27#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-so-trifft-der-stromausfall-die-unternehmen-millionenschaeden-befuerchtet](https://www.spiegel.de/wirtschaft/unternehmen/berlin-so-trifft-der-stromausfall-die-unternehmen-millionenschaeden-befuerchtet-a-0ab5b521-aaff-4e3a-9d9b-6d4543066014#ref=rss)
-### saunafass
-
-* [https://www.spiegel.de/panorama/walshausen-a8-saunafass-legt-autobahn-lahm](https://www.spiegel.de/panorama/walshausen-a8-saunafass-legt-autobahn-lahm-a-3c80a783-bae2-4adb-a27b-181b96faa726#ref=rss)
-### lahm
-
-* [https://www.spiegel.de/panorama/walshausen-a8-saunafass-legt-autobahn-lahm](https://www.spiegel.de/panorama/walshausen-a8-saunafass-legt-autobahn-lahm-a-3c80a783-bae2-4adb-a27b-181b96faa726#ref=rss)
-* [https://www.spiegel.de/kultur/kino/ben-affleck-legte-einen-dreh-lahm-weil-er-eine-baseballkappe-ablehnte](https://www.spiegel.de/kultur/kino/ben-affleck-legte-einen-dreh-lahm-weil-er-eine-baseballkappe-ablehnte-a-52013bda-5afe-4498-bdd9-1533abf63b8e#ref=rss)
-### brandanschlag
-
-* [https://www.spiegel.de/wissenschaft/technik/berlin-stromausfall-so-wappnen-sie-sich](https://www.spiegel.de/wissenschaft/technik/berlin-stromausfall-so-wappnen-sie-sich-a-8916c2e0-f48b-4633-8d99-cc87f0453264#ref=rss)
-* [https://www.spiegel.de/panorama/die-linke-ines-schwerdter-und-jan-van-aken-verurteilen-antisemitische-gewalt](https://www.spiegel.de/panorama/die-linke-ines-schwerdter-und-jan-van-aken-verurteilen-antisemitische-gewalt-a-e399ce06-623f-4bc4-8e82-b7062a578c16#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/wissenschaft/technik/berlin-stromausfall-so-wappnen-sie-sich](https://www.spiegel.de/wissenschaft/technik/berlin-stromausfall-so-wappnen-sie-sich-a-8916c2e0-f48b-4633-8d99-cc87f0453264#ref=rss)
-* [https://www.spiegel.de/panorama/stromausfall-in-berlin-schwimmbaeder-oeffnen-zum-duschen](https://www.spiegel.de/panorama/stromausfall-in-berlin-schwimmbaeder-oeffnen-zum-duschen-a-6572f039-40f7-4c83-9cc8-c08ab6dd7962#ref=rss)
-### strom
-
-* [https://www.spiegel.de/wissenschaft/technik/berlin-stromausfall-so-wappnen-sie-sich](https://www.spiegel.de/wissenschaft/technik/berlin-stromausfall-so-wappnen-sie-sich-a-8916c2e0-f48b-4633-8d99-cc87f0453264#ref=rss)
-* [https://www.spiegel.de/panorama/stromausfall-in-berlin-schwimmbaeder-oeffnen-zum-duschen](https://www.spiegel.de/panorama/stromausfall-in-berlin-schwimmbaeder-oeffnen-zum-duschen-a-6572f039-40f7-4c83-9cc8-c08ab6dd7962#ref=rss)
-### betroffene
-
-* [https://www.spiegel.de/wissenschaft/technik/berlin-stromausfall-so-wappnen-sie-sich](https://www.spiegel.de/wissenschaft/technik/berlin-stromausfall-so-wappnen-sie-sich-a-8916c2e0-f48b-4633-8d99-cc87f0453264#ref=rss)
-* [https://www.spiegel.de/panorama/stromausfall-in-berlin-schwimmbaeder-oeffnen-zum-duschen](https://www.spiegel.de/panorama/stromausfall-in-berlin-schwimmbaeder-oeffnen-zum-duschen-a-6572f039-40f7-4c83-9cc8-c08ab6dd7962#ref=rss)
-### gut
-
-* [https://www.spiegel.de/wissenschaft/technik/berlin-stromausfall-so-wappnen-sie-sich](https://www.spiegel.de/wissenschaft/technik/berlin-stromausfall-so-wappnen-sie-sich-a-8916c2e0-f48b-4633-8d99-cc87f0453264#ref=rss)
-* [https://www.spiegel.de/ausland/nicolas-maduro-ex-machthaber-in-gefaehrlichem-new-yorker-gefaengnis](https://www.spiegel.de/ausland/nicolas-maduro-ex-machthaber-in-gefaehrlichem-new-yorker-gefaengnis-a-b1f5677b-531b-446e-8f57-2a5fbf4cc033#ref=rss)
-### sony
-
-* [https://www.spiegel.de/auto/sony-honda-bosch-nvidia-so-wollen-hersteller-die-ki-ins-auto-bringen](https://www.spiegel.de/auto/sony-honda-bosch-nvidia-so-wollen-hersteller-die-ki-ins-auto-bringen-a-f8e95997-c72a-4dde-a022-5230bdd0dde0#ref=rss)
-### honda
-
-* [https://www.spiegel.de/auto/sony-honda-bosch-nvidia-so-wollen-hersteller-die-ki-ins-auto-bringen](https://www.spiegel.de/auto/sony-honda-bosch-nvidia-so-wollen-hersteller-die-ki-ins-auto-bringen-a-f8e95997-c72a-4dde-a022-5230bdd0dde0#ref=rss)
-### nvidia
-
-* [https://www.spiegel.de/auto/sony-honda-bosch-nvidia-so-wollen-hersteller-die-ki-ins-auto-bringen](https://www.spiegel.de/auto/sony-honda-bosch-nvidia-so-wollen-hersteller-die-ki-ins-auto-bringen-a-f8e95997-c72a-4dde-a022-5230bdd0dde0#ref=rss)
-### hersteller
-
-* [https://www.spiegel.de/auto/sony-honda-bosch-nvidia-so-wollen-hersteller-die-ki-ins-auto-bringen](https://www.spiegel.de/auto/sony-honda-bosch-nvidia-so-wollen-hersteller-die-ki-ins-auto-bringen-a-f8e95997-c72a-4dde-a022-5230bdd0dde0#ref=rss)
-### ki
-
-* [https://www.spiegel.de/auto/sony-honda-bosch-nvidia-so-wollen-hersteller-die-ki-ins-auto-bringen](https://www.spiegel.de/auto/sony-honda-bosch-nvidia-so-wollen-hersteller-die-ki-ins-auto-bringen-a-f8e95997-c72a-4dde-a022-5230bdd0dde0#ref=rss)
-### auto
-
-* [https://www.spiegel.de/auto/sony-honda-bosch-nvidia-so-wollen-hersteller-die-ki-ins-auto-bringen](https://www.spiegel.de/auto/sony-honda-bosch-nvidia-so-wollen-hersteller-die-ki-ins-auto-bringen-a-f8e95997-c72a-4dde-a022-5230bdd0dde0#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/auto/sony-honda-bosch-nvidia-so-wollen-hersteller-die-ki-ins-auto-bringen](https://www.spiegel.de/auto/sony-honda-bosch-nvidia-so-wollen-hersteller-die-ki-ins-auto-bringen-a-f8e95997-c72a-4dde-a022-5230bdd0dde0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-denis-vavro-soll-jugendlichen-geschlagen-haben](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-denis-vavro-soll-jugendlichen-geschlagen-haben-a-c19a6cb8-b701-430d-8267-a8fab8324bba#ref=rss)
-### winter
-
-* [https://www.spiegel.de/panorama/dreikoenigstauchen-in-ueberlingen-es-kann-sich-lohnen-im-winter-zu-tauchen](https://www.spiegel.de/panorama/dreikoenigstauchen-in-ueberlingen-es-kann-sich-lohnen-im-winter-zu-tauchen-a-be181c01-dd8c-4f86-a729-2e15e611d1e8#ref=rss)
-* [https://www.spiegel.de/panorama/winter-in-deutschland-pflichten-fuer-eigentuemer-und-vermieter-bei-schnee-und-eis](https://www.spiegel.de/panorama/winter-in-deutschland-pflichten-fuer-eigentuemer-und-vermieter-bei-schnee-und-eis-a-8546a03d-d29e-46ad-be17-2f6bcf12d7a8#ref=rss)
-### womit
-
-* [https://www.spiegel.de/panorama/dreikoenigstauchen-in-ueberlingen-es-kann-sich-lohnen-im-winter-zu-tauchen](https://www.spiegel.de/panorama/dreikoenigstauchen-in-ueberlingen-es-kann-sich-lohnen-im-winter-zu-tauchen-a-be181c01-dd8c-4f86-a729-2e15e611d1e8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/salz-splitt-asche-oder-sand-welches-streumittel-ist-das-beste-ein-verbraucherschuetzer-klaert-auf](https://www.spiegel.de/wissenschaft/mensch/salz-splitt-asche-oder-sand-welches-streumittel-ist-das-beste-ein-verbraucherschuetzer-klaert-auf-a-8ae86c53-8687-4487-b679-a22a797e4e8e#ref=rss)
-### nicolás
-
-* [https://www.spiegel.de/ausland/nicolas-maduro-ex-machthaber-in-gefaehrlichem-new-yorker-gefaengnis](https://www.spiegel.de/ausland/nicolas-maduro-ex-machthaber-in-gefaehrlichem-new-yorker-gefaengnis-a-b1f5677b-531b-446e-8f57-2a5fbf4cc033#ref=rss)
-### maduro
-
-* [https://www.spiegel.de/ausland/nicolas-maduro-ex-machthaber-in-gefaehrlichem-new-yorker-gefaengnis](https://www.spiegel.de/ausland/nicolas-maduro-ex-machthaber-in-gefaehrlichem-new-yorker-gefaengnis-a-b1f5677b-531b-446e-8f57-2a5fbf4cc033#ref=rss)
-### exmachthaber
-
-* [https://www.spiegel.de/ausland/nicolas-maduro-ex-machthaber-in-gefaehrlichem-new-yorker-gefaengnis](https://www.spiegel.de/ausland/nicolas-maduro-ex-machthaber-in-gefaehrlichem-new-yorker-gefaengnis-a-b1f5677b-531b-446e-8f57-2a5fbf4cc033#ref=rss)
-### new
-
-* [https://www.spiegel.de/ausland/nicolas-maduro-ex-machthaber-in-gefaehrlichem-new-yorker-gefaengnis](https://www.spiegel.de/ausland/nicolas-maduro-ex-machthaber-in-gefaehrlichem-new-yorker-gefaengnis-a-b1f5677b-531b-446e-8f57-2a5fbf4cc033#ref=rss)
-### yorker
-
-* [https://www.spiegel.de/ausland/nicolas-maduro-ex-machthaber-in-gefaehrlichem-new-yorker-gefaengnis](https://www.spiegel.de/ausland/nicolas-maduro-ex-machthaber-in-gefaehrlichem-new-yorker-gefaengnis-a-b1f5677b-531b-446e-8f57-2a5fbf4cc033#ref=rss)
-### gefängnis
-
-* [https://www.spiegel.de/ausland/nicolas-maduro-ex-machthaber-in-gefaehrlichem-new-yorker-gefaengnis](https://www.spiegel.de/ausland/nicolas-maduro-ex-machthaber-in-gefaehrlichem-new-yorker-gefaengnis-a-b1f5677b-531b-446e-8f57-2a5fbf4cc033#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/netzwelt/apps/ki-chatbot-grok-zieht-frauen-und-kinder-digital-aus-gegen-ihren-willen](https://www.spiegel.de/netzwelt/apps/ki-chatbot-grok-zieht-frauen-und-kinder-digital-aus-gegen-ihren-willen-a-09d8ff07-d940-46e6-9a0a-792e7ae430fa#ref=rss)
-### eigentümer
-
-* [https://www.spiegel.de/panorama/winter-in-deutschland-pflichten-fuer-eigentuemer-und-vermieter-bei-schnee-und-eis](https://www.spiegel.de/panorama/winter-in-deutschland-pflichten-fuer-eigentuemer-und-vermieter-bei-schnee-und-eis-a-8546a03d-d29e-46ad-be17-2f6bcf12d7a8#ref=rss)
-### eis
-
-* [https://www.spiegel.de/panorama/winter-in-deutschland-pflichten-fuer-eigentuemer-und-vermieter-bei-schnee-und-eis](https://www.spiegel.de/panorama/winter-in-deutschland-pflichten-fuer-eigentuemer-und-vermieter-bei-schnee-und-eis-a-8546a03d-d29e-46ad-be17-2f6bcf12d7a8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/salz-splitt-asche-oder-sand-welches-streumittel-ist-das-beste-ein-verbraucherschuetzer-klaert-auf](https://www.spiegel.de/wissenschaft/mensch/salz-splitt-asche-oder-sand-welches-streumittel-ist-das-beste-ein-verbraucherschuetzer-klaert-auf-a-8ae86c53-8687-4487-b679-a22a797e4e8e#ref=rss)
-### straßen
-
-* [https://www.spiegel.de/panorama/winter-in-deutschland-pflichten-fuer-eigentuemer-und-vermieter-bei-schnee-und-eis](https://www.spiegel.de/panorama/winter-in-deutschland-pflichten-fuer-eigentuemer-und-vermieter-bei-schnee-und-eis-a-8546a03d-d29e-46ad-be17-2f6bcf12d7a8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/salz-splitt-asche-oder-sand-welches-streumittel-ist-das-beste-ein-verbraucherschuetzer-klaert-auf](https://www.spiegel.de/wissenschaft/mensch/salz-splitt-asche-oder-sand-welches-streumittel-ist-das-beste-ein-verbraucherschuetzer-klaert-auf-a-8ae86c53-8687-4487-b679-a22a797e4e8e#ref=rss)
-### mieter
-
-* [https://www.spiegel.de/panorama/winter-in-deutschland-pflichten-fuer-eigentuemer-und-vermieter-bei-schnee-und-eis](https://www.spiegel.de/panorama/winter-in-deutschland-pflichten-fuer-eigentuemer-und-vermieter-bei-schnee-und-eis-a-8546a03d-d29e-46ad-be17-2f6bcf12d7a8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/salz-splitt-asche-oder-sand-welches-streumittel-ist-das-beste-ein-verbraucherschuetzer-klaert-auf](https://www.spiegel.de/wissenschaft/mensch/salz-splitt-asche-oder-sand-welches-streumittel-ist-das-beste-ein-verbraucherschuetzer-klaert-auf-a-8ae86c53-8687-4487-b679-a22a797e4e8e#ref=rss)
-### keime
-
-* [https://www.spiegel.de/wirtschaft/service/oeko-test-weist-antibiotikaresistente-keime-auch-in-bio-haehnchenfleisch-nach](https://www.spiegel.de/wirtschaft/service/oeko-test-weist-antibiotikaresistente-keime-auch-in-bio-haehnchenfleisch-nach-a-aa80578d-602a-4a3f-8f04-1b58684aa545#ref=rss)
-### brandenburg
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-koalitions-aus-in-brandenburg-friedrich-merz-und-jacob-schrot-crans-montana](https://www.spiegel.de/politik/deutschland/news-des-tages-koalitions-aus-in-brandenburg-friedrich-merz-und-jacob-schrot-crans-montana-a-d8df6dd0-cefd-46c2-ad44-79bd1b303e32#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-koalitions-aus-in-brandenburg-friedrich-merz-und-jacob-schrot-crans-montana](https://www.spiegel.de/politik/deutschland/news-des-tages-koalitions-aus-in-brandenburg-friedrich-merz-und-jacob-schrot-crans-montana-a-d8df6dd0-cefd-46c2-ad44-79bd1b303e32#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-der-monroe-doktrin-amerikas-lizenz-zum-angriff](https://www.spiegel.de/geschichte/geschichte-der-monroe-doktrin-amerikas-lizenz-zum-angriff-a-4af9fa0d-f16c-4e74-80e5-0b2502bb819b#ref=rss)
-### ermittlungen
-
-* [https://www.spiegel.de/panorama/justiz/nach-stromausfall-in-berlin-generalbundesanwalt-ermittelt-wegen-terrorverdachts](https://www.spiegel.de/panorama/justiz/nach-stromausfall-in-berlin-generalbundesanwalt-ermittelt-wegen-terrorverdachts-a-6bc30cef-d7a4-4f1b-844a-36d692786de0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/spektakulaerer-einbruch-in-gelsenkirchen-buer-polizei-durchsucht-sparkassen-filiale](https://www.spiegel.de/panorama/justiz/spektakulaerer-einbruch-in-gelsenkirchen-buer-polizei-durchsucht-sparkassen-filiale-a-4f83b628-3fa0-45a9-9057-935ceea40875#ref=rss)
-### besten
-
-* [https://www.spiegel.de/wissenschaft/mensch/salz-splitt-asche-oder-sand-welches-streumittel-ist-das-beste-ein-verbraucherschuetzer-klaert-auf](https://www.spiegel.de/wissenschaft/mensch/salz-splitt-asche-oder-sand-welches-streumittel-ist-das-beste-ein-verbraucherschuetzer-klaert-auf-a-8ae86c53-8687-4487-b679-a22a797e4e8e#ref=rss)
-* [https://www.spiegel.de/netzwelt/stromausfall-soll-man-die-stecker-ziehen-wie-man-am-besten-vorsorgt](https://www.spiegel.de/netzwelt/stromausfall-soll-man-die-stecker-ziehen-wie-man-am-besten-vorsorgt-a-9df029fd-3655-4cd8-8d37-7be2de2e03e6#ref=rss)
-### außenminister
-
-* [https://www.spiegel.de/ausland/somalia-israels-aussenminister-gideon-saar-besucht-trotz-kritik-somaliland](https://www.spiegel.de/ausland/somalia-israels-aussenminister-gideon-saar-besucht-trotz-kritik-somaliland-a-5612d6ab-3ab2-4409-925c-6522c416db03#ref=rss)
-### gideon
-
-* [https://www.spiegel.de/ausland/somalia-israels-aussenminister-gideon-saar-besucht-trotz-kritik-somaliland](https://www.spiegel.de/ausland/somalia-israels-aussenminister-gideon-saar-besucht-trotz-kritik-somaliland-a-5612d6ab-3ab2-4409-925c-6522c416db03#ref=rss)
-### somaliland
-
-* [https://www.spiegel.de/ausland/somalia-israels-aussenminister-gideon-saar-besucht-trotz-kritik-somaliland](https://www.spiegel.de/ausland/somalia-israels-aussenminister-gideon-saar-besucht-trotz-kritik-somaliland-a-5612d6ab-3ab2-4409-925c-6522c416db03#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/somalia-israels-aussenminister-gideon-saar-besucht-trotz-kritik-somaliland](https://www.spiegel.de/ausland/somalia-israels-aussenminister-gideon-saar-besucht-trotz-kritik-somaliland-a-5612d6ab-3ab2-4409-925c-6522c416db03#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-hunderte-touristen-auf-insel-sokotra-gestrandet](https://www.spiegel.de/ausland/jemen-hunderte-touristen-auf-insel-sokotra-gestrandet-a-03b0f617-54e6-42e6-9b62-ac418c0565a5#ref=rss)
-### gesorgt
-
-* [https://www.spiegel.de/ausland/somalia-israels-aussenminister-gideon-saar-besucht-trotz-kritik-somaliland](https://www.spiegel.de/ausland/somalia-israels-aussenminister-gideon-saar-besucht-trotz-kritik-somaliland-a-5612d6ab-3ab2-4409-925c-6522c416db03#ref=rss)
-* [https://www.spiegel.de/kultur/kino/ben-affleck-legte-einen-dreh-lahm-weil-er-eine-baseballkappe-ablehnte](https://www.spiegel.de/kultur/kino/ben-affleck-legte-einen-dreh-lahm-weil-er-eine-baseballkappe-ablehnte-a-52013bda-5afe-4498-bdd9-1533abf63b8e#ref=rss)
-### galaxy
-
-* [https://www.spiegel.de/netzwelt/gadgets/galaxy-xr-das-ist-samsungs-antwort-auf-die-vision-pro](https://www.spiegel.de/netzwelt/gadgets/galaxy-xr-das-ist-samsungs-antwort-auf-die-vision-pro-a-b7875862-5dc7-4e94-a4a8-9328b39dbdd0#ref=rss)
-### xr
-
-* [https://www.spiegel.de/netzwelt/gadgets/galaxy-xr-das-ist-samsungs-antwort-auf-die-vision-pro](https://www.spiegel.de/netzwelt/gadgets/galaxy-xr-das-ist-samsungs-antwort-auf-die-vision-pro-a-b7875862-5dc7-4e94-a4a8-9328b39dbdd0#ref=rss)
-### samsungs
-
-* [https://www.spiegel.de/netzwelt/gadgets/galaxy-xr-das-ist-samsungs-antwort-auf-die-vision-pro](https://www.spiegel.de/netzwelt/gadgets/galaxy-xr-das-ist-samsungs-antwort-auf-die-vision-pro-a-b7875862-5dc7-4e94-a4a8-9328b39dbdd0#ref=rss)
-### usa
-
-* [https://www.spiegel.de/netzwelt/gadgets/galaxy-xr-das-ist-samsungs-antwort-auf-die-vision-pro](https://www.spiegel.de/netzwelt/gadgets/galaxy-xr-das-ist-samsungs-antwort-auf-die-vision-pro-a-b7875862-5dc7-4e94-a4a8-9328b39dbdd0#ref=rss)
-* [https://www.spiegel.de/geschichte/geschichte-der-monroe-doktrin-amerikas-lizenz-zum-angriff](https://www.spiegel.de/geschichte/geschichte-der-monroe-doktrin-amerikas-lizenz-zum-angriff-a-4af9fa0d-f16c-4e74-80e5-0b2502bb819b#ref=rss)
-### béla
-
-* [https://www.spiegel.de/kultur/kino/bela-tarr-berlinale-sieger-von-2011-ist-tot](https://www.spiegel.de/kultur/kino/bela-tarr-berlinale-sieger-von-2011-ist-tot-a-ee700504-81ad-4990-a90e-d6e8df47b117#ref=rss)
-### tarr
-
-* [https://www.spiegel.de/kultur/kino/bela-tarr-berlinale-sieger-von-2011-ist-tot](https://www.spiegel.de/kultur/kino/bela-tarr-berlinale-sieger-von-2011-ist-tot-a-ee700504-81ad-4990-a90e-d6e8df47b117#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/spektakulaerer-einbruch-in-gelsenkirchen-buer-polizei-durchsucht-sparkassen-filiale](https://www.spiegel.de/panorama/justiz/spektakulaerer-einbruch-in-gelsenkirchen-buer-polizei-durchsucht-sparkassen-filiale-a-4f83b628-3fa0-45a9-9057-935ceea40875#ref=rss)
-### jemen
-
-* [https://www.spiegel.de/ausland/jemen-hunderte-touristen-auf-insel-sokotra-gestrandet](https://www.spiegel.de/ausland/jemen-hunderte-touristen-auf-insel-sokotra-gestrandet-a-03b0f617-54e6-42e6-9b62-ac418c0565a5#ref=rss)
-### touristen
-
-* [https://www.spiegel.de/ausland/jemen-hunderte-touristen-auf-insel-sokotra-gestrandet](https://www.spiegel.de/ausland/jemen-hunderte-touristen-auf-insel-sokotra-gestrandet-a-03b0f617-54e6-42e6-9b62-ac418c0565a5#ref=rss)
-### insel
-
-* [https://www.spiegel.de/ausland/jemen-hunderte-touristen-auf-insel-sokotra-gestrandet](https://www.spiegel.de/ausland/jemen-hunderte-touristen-auf-insel-sokotra-gestrandet-a-03b0f617-54e6-42e6-9b62-ac418c0565a5#ref=rss)
-### sokotra
-
-* [https://www.spiegel.de/ausland/jemen-hunderte-touristen-auf-insel-sokotra-gestrandet](https://www.spiegel.de/ausland/jemen-hunderte-touristen-auf-insel-sokotra-gestrandet-a-03b0f617-54e6-42e6-9b62-ac418c0565a5#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-so-trifft-der-stromausfall-die-unternehmen-millionenschaeden-befuerchtet](https://www.spiegel.de/wirtschaft/unternehmen/berlin-so-trifft-der-stromausfall-die-unternehmen-millionenschaeden-befuerchtet-a-0ab5b521-aaff-4e3a-9d9b-6d4543066014#ref=rss)
-* [https://www.spiegel.de/panorama/crans-montana-charite-aerztin-behandelt-brandopfer-aus-der-schweiz](https://www.spiegel.de/panorama/crans-montana-charite-aerztin-behandelt-brandopfer-aus-der-schweiz-a-193bbdc0-39b3-4838-93e8-68ee4c785f75#ref=rss)
-### davon
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/berlin-so-trifft-der-stromausfall-die-unternehmen-millionenschaeden-befuerchtet](https://www.spiegel.de/wirtschaft/unternehmen/berlin-so-trifft-der-stromausfall-die-unternehmen-millionenschaeden-befuerchtet-a-0ab5b521-aaff-4e3a-9d9b-6d4543066014#ref=rss)
-* [https://www.spiegel.de/karriere/ruhrgebiet-polizistinnen-liessen-kollegen-im-stich-nun-sollen-sie-ihre-jobs-verlieren](https://www.spiegel.de/karriere/ruhrgebiet-polizistinnen-liessen-kollegen-im-stich-nun-sollen-sie-ihre-jobs-verlieren-a-4289e448-dcef-46fd-9550-274ee90a4f54#ref=rss)
-### denis
-
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-denis-vavro-soll-jugendlichen-geschlagen-haben](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-denis-vavro-soll-jugendlichen-geschlagen-haben-a-c19a6cb8-b701-430d-8267-a8fab8324bba#ref=rss)
-### vavro
-
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-denis-vavro-soll-jugendlichen-geschlagen-haben](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-denis-vavro-soll-jugendlichen-geschlagen-haben-a-c19a6cb8-b701-430d-8267-a8fab8324bba#ref=rss)
-### jugendlichen
-
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-denis-vavro-soll-jugendlichen-geschlagen-haben](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-denis-vavro-soll-jugendlichen-geschlagen-haben-a-c19a6cb8-b701-430d-8267-a8fab8324bba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kinos-verkauften-2025-in-deutschland-mehr-tickets](https://www.spiegel.de/wirtschaft/kinos-verkauften-2025-in-deutschland-mehr-tickets-a-06a9ff5b-e9ae-4a78-b722-b10eb8daa3f0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/finanzmaerkte-nach-dem-venezuela-schock-holt-das-gold-zurueck-kommentar](https://www.spiegel.de/wirtschaft/finanzmaerkte-nach-dem-venezuela-schock-holt-das-gold-zurueck-kommentar-a-127a4a69-b22b-47e1-bcd4-a2adb730602c#ref=rss)
+* [https://www.spiegel.de/auto/ruhrgebiet-bahn-sperrt-zentrale-strecke-kein-fernverkehr-zwischen-duesseldorf-und-essen](https://www.spiegel.de/auto/ruhrgebiet-bahn-sperrt-zentrale-strecke-kein-fernverkehr-zwischen-duesseldorf-und-essen-a-261ebe53-41a2-4764-bef4-13b787fc8fb1#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-in-nrw-koennten-zehn-zentimeter-neuschnee-fallen](https://www.spiegel.de/panorama/wetter-in-deutschland-in-nrw-koennten-zehn-zentimeter-neuschnee-fallen-a-bfcfe21c-9378-41b8-a1de-5e4620c453fd#ref=rss)
+* [https://www.spiegel.de/ausland/rauchen-zigaretten-als-soziales-ritual-unter-chinesischen-maennern](https://www.spiegel.de/ausland/rauchen-zigaretten-als-soziales-ritual-unter-chinesischen-maennern-a-90a6b31e-9245-40b3-bd11-31d18c9bb434#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wissenschaft/technik/klimawirkung-der-luftfahrt-so-kommen-flugzeuge-mit-der-haelfte-des-kerosins-ans-ziel](https://www.spiegel.de/wissenschaft/technik/klimawirkung-der-luftfahrt-so-kommen-flugzeuge-mit-der-haelfte-des-kerosins-ans-ziel-a-c34c33cc-e8c8-48dc-ad5f-f2329c96faba#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein-a-d70fb0ee-568f-4464-86bb-3701beb58dc7#ref=rss)
+* [https://www.spiegel.de/ausland/russland-soll-u-boot-als-eskorte-fuer-oeltanker-aus-venezuela-entsendet-haben](https://www.spiegel.de/ausland/russland-soll-u-boot-als-eskorte-fuer-oeltanker-aus-venezuela-entsendet-haben-a-9f8df781-9549-457d-8a99-8489d8c811a7#ref=rss)
+* [https://www.spiegel.de/ausland/rauchen-zigaretten-als-soziales-ritual-unter-chinesischen-maennern](https://www.spiegel.de/ausland/rauchen-zigaretten-als-soziales-ritual-unter-chinesischen-maennern-a-90a6b31e-9245-40b3-bd11-31d18c9bb434#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-neue-vorwuerfe-belasten-gruenen-politiker](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-neue-vorwuerfe-belasten-gruenen-politiker-a-0b0ca902-6505-4692-ae1a-f4af1ffee58c#ref=rss)
 ### 2025
 
-* [https://www.spiegel.de/auto/elektroauto-rekord-mehr-als-545-000-batterie-pkw-2025-in-deutschland-zugelassen](https://www.spiegel.de/auto/elektroauto-rekord-mehr-als-545-000-batterie-pkw-2025-in-deutschland-zugelassen-a-36062085-0eaa-4b98-b325-44b068b868b8#ref=rss)
-### polizistinnen
+* [https://www.spiegel.de/wirtschaft/kinos-verkauften-2025-in-deutschland-mehr-tickets](https://www.spiegel.de/wirtschaft/kinos-verkauften-2025-in-deutschland-mehr-tickets-a-06a9ff5b-e9ae-4a78-b722-b10eb8daa3f0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-arbeitslosenzahl-steigt-im-dezember-wieder](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-arbeitslosenzahl-steigt-im-dezember-wieder-a-2800f4a4-256d-490b-a7b5-fbdca8b8f677#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/co2-rechte-deutschland-erzielt-einnahmerekord-im-emissionshandel](https://www.spiegel.de/wirtschaft/unternehmen/co2-rechte-deutschland-erzielt-einnahmerekord-im-emissionshandel-a-6ae44a84-8b4b-4d54-b25b-9068b98660c5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klima-politik-deutschland-drohen-34-milliarden-euro-strafen](https://www.spiegel.de/wissenschaft/klima-politik-deutschland-drohen-34-milliarden-euro-strafen-a-87aa3d67-0c90-49ee-a4a5-51501a11ec96#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/karriere/ruhrgebiet-polizistinnen-liessen-kollegen-im-stich-nun-sollen-sie-ihre-jobs-verlieren](https://www.spiegel.de/karriere/ruhrgebiet-polizistinnen-liessen-kollegen-im-stich-nun-sollen-sie-ihre-jobs-verlieren-a-4289e448-dcef-46fd-9550-274ee90a4f54#ref=rss)
-### kollegen
+* [https://www.spiegel.de/panorama/berlin-stromversorgung-im-suedwesten-wieder-angelaufen](https://www.spiegel.de/panorama/berlin-stromversorgung-im-suedwesten-wieder-angelaufen-a-59cbd87d-3d77-42ad-aa57-7af9b00478fe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/finanzmaerkte-nach-dem-venezuela-schock-holt-das-gold-zurueck-kommentar](https://www.spiegel.de/wirtschaft/finanzmaerkte-nach-dem-venezuela-schock-holt-das-gold-zurueck-kommentar-a-127a4a69-b22b-47e1-bcd4-a2adb730602c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-anschlag-auf-stromnetz-zweites-bekennerschreiben](https://www.spiegel.de/panorama/justiz/berlin-anschlag-auf-stromnetz-zweites-bekennerschreiben-a-49bef2f6-323b-4fd0-ba3d-bb8c4c086870#ref=rss)
+### video
 
-* [https://www.spiegel.de/karriere/ruhrgebiet-polizistinnen-liessen-kollegen-im-stich-nun-sollen-sie-ihre-jobs-verlieren](https://www.spiegel.de/karriere/ruhrgebiet-polizistinnen-liessen-kollegen-im-stich-nun-sollen-sie-ihre-jobs-verlieren-a-4289e448-dcef-46fd-9550-274ee90a4f54#ref=rss)
-### jobs
+* [https://www.spiegel.de/ausland/crans-montana-altes-video-belastet-betreiber-der-le-constellation](https://www.spiegel.de/ausland/crans-montana-altes-video-belastet-betreiber-der-le-constellation-a-ff50f6d2-d894-4f1e-8007-0bf054395eb2#ref=rss)
+* [https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren](https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren-a-7c0d4d1c-af00-4bd7-b5d3-cf758c67808f#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/karriere/ruhrgebiet-polizistinnen-liessen-kollegen-im-stich-nun-sollen-sie-ihre-jobs-verlieren](https://www.spiegel.de/karriere/ruhrgebiet-polizistinnen-liessen-kollegen-im-stich-nun-sollen-sie-ihre-jobs-verlieren-a-4289e448-dcef-46fd-9550-274ee90a4f54#ref=rss)
-### verlieren
+* [https://www.spiegel.de/wirtschaft/unternehmen/dax-springt-erstmals-ueber-marke-von-25-000-punkten](https://www.spiegel.de/wirtschaft/unternehmen/dax-springt-erstmals-ueber-marke-von-25-000-punkten-a-2b00edbd-4434-49ec-9fdc-1b3d2e786014#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/skispringen-das-deutsche-team-ist-gespalten-fuenf-lehren-aus-der-vierschanzentournee](https://www.spiegel.de/sport/wintersport/skispringen-das-deutsche-team-ist-gespalten-fuenf-lehren-aus-der-vierschanzentournee-a-8fc7d132-436d-4a56-b160-c3aa38b96927#ref=rss)
+* [https://www.spiegel.de/geschichte/venezuela-als-die-deutsche-marine-im-januar-1903-die-kueste-beschoss](https://www.spiegel.de/geschichte/venezuela-als-die-deutsche-marine-im-januar-1903-die-kueste-beschoss-a-d04a9271-5a03-481c-a39e-a5414c666b45#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/karriere/ruhrgebiet-polizistinnen-liessen-kollegen-im-stich-nun-sollen-sie-ihre-jobs-verlieren](https://www.spiegel.de/karriere/ruhrgebiet-polizistinnen-liessen-kollegen-im-stich-nun-sollen-sie-ihre-jobs-verlieren-a-4289e448-dcef-46fd-9550-274ee90a4f54#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kinos-verkauften-2025-in-deutschland-mehr-tickets](https://www.spiegel.de/wirtschaft/kinos-verkauften-2025-in-deutschland-mehr-tickets-a-06a9ff5b-e9ae-4a78-b722-b10eb8daa3f0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-arbeitslosenzahl-steigt-im-dezember-wieder](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-arbeitslosenzahl-steigt-im-dezember-wieder-a-2800f4a4-256d-490b-a7b5-fbdca8b8f677#ref=rss)
+* [https://www.spiegel.de/ausland/rauchen-zigaretten-als-soziales-ritual-unter-chinesischen-maennern](https://www.spiegel.de/ausland/rauchen-zigaretten-als-soziales-ritual-unter-chinesischen-maennern-a-90a6b31e-9245-40b3-bd11-31d18c9bb434#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/deinspiegel/checker-tobi-ueber-seinen-neuen-kinofilm-und-blaue-flecken-bei-den-dreharbeiten](https://www.spiegel.de/deinspiegel/checker-tobi-ueber-seinen-neuen-kinofilm-und-blaue-flecken-bei-den-dreharbeiten-a-5e794129-3515-42ac-97fe-085b2b423d48#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-neue-vorwuerfe-belasten-gruenen-politiker](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-neue-vorwuerfe-belasten-gruenen-politiker-a-0b0ca902-6505-4692-ae1a-f4af1ffee58c#ref=rss)
+### hotel
+
+* [https://www.spiegel.de/ausland/minnesota-hotel-verweigert-ice-beamten-aufenthalt-und-wird-von-hilton-aus-dem-system-gestrichen](https://www.spiegel.de/ausland/minnesota-hotel-verweigert-ice-beamten-aufenthalt-und-wird-von-hilton-aus-dem-system-gestrichen-a-38f2d711-898e-4745-b689-747796907e06#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/berlin-stromversorgung-im-suedwesten-wieder-angelaufen](https://www.spiegel.de/panorama/berlin-stromversorgung-im-suedwesten-wieder-angelaufen-a-59cbd87d-3d77-42ad-aa57-7af9b00478fe#ref=rss)
+* [https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren](https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren-a-7c0d4d1c-af00-4bd7-b5d3-cf758c67808f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-arbeitslosenzahl-steigt-im-dezember-wieder](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-arbeitslosenzahl-steigt-im-dezember-wieder-a-2800f4a4-256d-490b-a7b5-fbdca8b8f677#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wissenschaft/technik/klimawirkung-der-luftfahrt-so-kommen-flugzeuge-mit-der-haelfte-des-kerosins-ans-ziel](https://www.spiegel.de/wissenschaft/technik/klimawirkung-der-luftfahrt-so-kommen-flugzeuge-mit-der-haelfte-des-kerosins-ans-ziel-a-c34c33cc-e8c8-48dc-ad5f-f2329c96faba#ref=rss)
+* [https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren](https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren-a-7c0d4d1c-af00-4bd7-b5d3-cf758c67808f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hessen-ministerpraesident-boris-rhein-von-der-cdu-zeigt-verstaendnis-fuer-jenische](https://www.spiegel.de/politik/deutschland/hessen-ministerpraesident-boris-rhein-von-der-cdu-zeigt-verstaendnis-fuer-jenische-a-f88f4873-66db-48a7-b046-99d9af912102#ref=rss)
+### trump
+
+* [https://www.spiegel.de/wirtschaft/finanzmaerkte-nach-dem-venezuela-schock-holt-das-gold-zurueck-kommentar](https://www.spiegel.de/wirtschaft/finanzmaerkte-nach-dem-venezuela-schock-holt-das-gold-zurueck-kommentar-a-127a4a69-b22b-47e1-bcd4-a2adb730602c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-wie-europaeische-zeitungen-das-gebahren-der-usa-kommentieren](https://www.spiegel.de/politik/deutschland/donald-trump-wie-europaeische-zeitungen-das-gebahren-der-usa-kommentieren-a-2bbf0368-be49-4fbf-982e-200bd6e8e105#ref=rss)
+* [https://www.spiegel.de/geschichte/venezuela-als-die-deutsche-marine-im-januar-1903-die-kueste-beschoss](https://www.spiegel.de/geschichte/venezuela-als-die-deutsche-marine-im-januar-1903-die-kueste-beschoss-a-d04a9271-5a03-481c-a39e-a5414c666b45#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein-a-d70fb0ee-568f-4464-86bb-3701beb58dc7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klima-politik-deutschland-drohen-34-milliarden-euro-strafen](https://www.spiegel.de/wissenschaft/klima-politik-deutschland-drohen-34-milliarden-euro-strafen-a-87aa3d67-0c90-49ee-a4a5-51501a11ec96#ref=rss)
+### kinos
+
+* [https://www.spiegel.de/wirtschaft/kinos-verkauften-2025-in-deutschland-mehr-tickets](https://www.spiegel.de/wirtschaft/kinos-verkauften-2025-in-deutschland-mehr-tickets-a-06a9ff5b-e9ae-4a78-b722-b10eb8daa3f0#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/wirtschaft/kinos-verkauften-2025-in-deutschland-mehr-tickets](https://www.spiegel.de/wirtschaft/kinos-verkauften-2025-in-deutschland-mehr-tickets-a-06a9ff5b-e9ae-4a78-b722-b10eb8daa3f0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/finanzmaerkte-nach-dem-venezuela-schock-holt-das-gold-zurueck-kommentar](https://www.spiegel.de/wirtschaft/finanzmaerkte-nach-dem-venezuela-schock-holt-das-gold-zurueck-kommentar-a-127a4a69-b22b-47e1-bcd4-a2adb730602c#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/kinos-verkauften-2025-in-deutschland-mehr-tickets](https://www.spiegel.de/wirtschaft/kinos-verkauften-2025-in-deutschland-mehr-tickets-a-06a9ff5b-e9ae-4a78-b722-b10eb8daa3f0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-neue-vorwuerfe-belasten-gruenen-politiker](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-neue-vorwuerfe-belasten-gruenen-politiker-a-0b0ca902-6505-4692-ae1a-f4af1ffee58c#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/kinos-verkauften-2025-in-deutschland-mehr-tickets](https://www.spiegel.de/wirtschaft/kinos-verkauften-2025-in-deutschland-mehr-tickets-a-06a9ff5b-e9ae-4a78-b722-b10eb8daa3f0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klima-politik-deutschland-drohen-34-milliarden-euro-strafen](https://www.spiegel.de/wissenschaft/klima-politik-deutschland-drohen-34-milliarden-euro-strafen-a-87aa3d67-0c90-49ee-a4a5-51501a11ec96#ref=rss)
+### checker
+
+* [https://www.spiegel.de/deinspiegel/checker-tobi-ueber-seinen-neuen-kinofilm-und-blaue-flecken-bei-den-dreharbeiten](https://www.spiegel.de/deinspiegel/checker-tobi-ueber-seinen-neuen-kinofilm-und-blaue-flecken-bei-den-dreharbeiten-a-5e794129-3515-42ac-97fe-085b2b423d48#ref=rss)
+### tobi
+
+* [https://www.spiegel.de/deinspiegel/checker-tobi-ueber-seinen-neuen-kinofilm-und-blaue-flecken-bei-den-dreharbeiten](https://www.spiegel.de/deinspiegel/checker-tobi-ueber-seinen-neuen-kinofilm-und-blaue-flecken-bei-den-dreharbeiten-a-5e794129-3515-42ac-97fe-085b2b423d48#ref=rss)
+### kinofilm
+
+* [https://www.spiegel.de/deinspiegel/checker-tobi-ueber-seinen-neuen-kinofilm-und-blaue-flecken-bei-den-dreharbeiten](https://www.spiegel.de/deinspiegel/checker-tobi-ueber-seinen-neuen-kinofilm-und-blaue-flecken-bei-den-dreharbeiten-a-5e794129-3515-42ac-97fe-085b2b423d48#ref=rss)
+### blaue
+
+* [https://www.spiegel.de/deinspiegel/checker-tobi-ueber-seinen-neuen-kinofilm-und-blaue-flecken-bei-den-dreharbeiten](https://www.spiegel.de/deinspiegel/checker-tobi-ueber-seinen-neuen-kinofilm-und-blaue-flecken-bei-den-dreharbeiten-a-5e794129-3515-42ac-97fe-085b2b423d48#ref=rss)
+### flecken
+
+* [https://www.spiegel.de/deinspiegel/checker-tobi-ueber-seinen-neuen-kinofilm-und-blaue-flecken-bei-den-dreharbeiten](https://www.spiegel.de/deinspiegel/checker-tobi-ueber-seinen-neuen-kinofilm-und-blaue-flecken-bei-den-dreharbeiten-a-5e794129-3515-42ac-97fe-085b2b423d48#ref=rss)
+### macht
+
+* [https://www.spiegel.de/deinspiegel/checker-tobi-ueber-seinen-neuen-kinofilm-und-blaue-flecken-bei-den-dreharbeiten](https://www.spiegel.de/deinspiegel/checker-tobi-ueber-seinen-neuen-kinofilm-und-blaue-flecken-bei-den-dreharbeiten-a-5e794129-3515-42ac-97fe-085b2b423d48#ref=rss)
+* [https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren](https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren-a-7c0d4d1c-af00-4bd7-b5d3-cf758c67808f#ref=rss)
+### minnesota
+
+* [https://www.spiegel.de/ausland/minnesota-hotel-verweigert-ice-beamten-aufenthalt-und-wird-von-hilton-aus-dem-system-gestrichen](https://www.spiegel.de/ausland/minnesota-hotel-verweigert-ice-beamten-aufenthalt-und-wird-von-hilton-aus-dem-system-gestrichen-a-38f2d711-898e-4745-b689-747796907e06#ref=rss)
+### hilton
+
+* [https://www.spiegel.de/ausland/minnesota-hotel-verweigert-ice-beamten-aufenthalt-und-wird-von-hilton-aus-dem-system-gestrichen](https://www.spiegel.de/ausland/minnesota-hotel-verweigert-ice-beamten-aufenthalt-und-wird-von-hilton-aus-dem-system-gestrichen-a-38f2d711-898e-4745-b689-747796907e06#ref=rss)
+### system
+
+* [https://www.spiegel.de/ausland/minnesota-hotel-verweigert-ice-beamten-aufenthalt-und-wird-von-hilton-aus-dem-system-gestrichen](https://www.spiegel.de/ausland/minnesota-hotel-verweigert-ice-beamten-aufenthalt-und-wird-von-hilton-aus-dem-system-gestrichen-a-38f2d711-898e-4745-b689-747796907e06#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/panorama/berlin-stromversorgung-im-suedwesten-wieder-angelaufen](https://www.spiegel.de/panorama/berlin-stromversorgung-im-suedwesten-wieder-angelaufen-a-59cbd87d-3d77-42ad-aa57-7af9b00478fe#ref=rss)
+* [https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren](https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren-a-7c0d4d1c-af00-4bd7-b5d3-cf758c67808f#ref=rss)
+### cransmontana
+
+* [https://www.spiegel.de/ausland/crans-montana-altes-video-belastet-betreiber-der-le-constellation](https://www.spiegel.de/ausland/crans-montana-altes-video-belastet-betreiber-der-le-constellation-a-ff50f6d2-d894-4f1e-8007-0bf054395eb2#ref=rss)
+### lange
+
+* [https://www.spiegel.de/ausland/crans-montana-altes-video-belastet-betreiber-der-le-constellation](https://www.spiegel.de/ausland/crans-montana-altes-video-belastet-betreiber-der-le-constellation-a-ff50f6d2-d894-4f1e-8007-0bf054395eb2#ref=rss)
+* [https://www.spiegel.de/geschichte/venezuela-als-die-deutsche-marine-im-januar-1903-die-kueste-beschoss](https://www.spiegel.de/geschichte/venezuela-als-die-deutsche-marine-im-januar-1903-die-kueste-beschoss-a-d04a9271-5a03-481c-a39e-a5414c666b45#ref=rss)
+### veröffentlicht
+
+* [https://www.spiegel.de/ausland/crans-montana-altes-video-belastet-betreiber-der-le-constellation](https://www.spiegel.de/ausland/crans-montana-altes-video-belastet-betreiber-der-le-constellation-a-ff50f6d2-d894-4f1e-8007-0bf054395eb2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-anschlag-auf-stromnetz-zweites-bekennerschreiben](https://www.spiegel.de/panorama/justiz/berlin-anschlag-auf-stromnetz-zweites-bekennerschreiben-a-49bef2f6-323b-4fd0-ba3d-bb8c4c086870#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wissenschaft/technik/klimawirkung-der-luftfahrt-so-kommen-flugzeuge-mit-der-haelfte-des-kerosins-ans-ziel](https://www.spiegel.de/wissenschaft/technik/klimawirkung-der-luftfahrt-so-kommen-flugzeuge-mit-der-haelfte-des-kerosins-ans-ziel-a-c34c33cc-e8c8-48dc-ad5f-f2329c96faba#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein-a-d70fb0ee-568f-4464-86bb-3701beb58dc7#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wissenschaft/technik/klimawirkung-der-luftfahrt-so-kommen-flugzeuge-mit-der-haelfte-des-kerosins-ans-ziel](https://www.spiegel.de/wissenschaft/technik/klimawirkung-der-luftfahrt-so-kommen-flugzeuge-mit-der-haelfte-des-kerosins-ans-ziel-a-c34c33cc-e8c8-48dc-ad5f-f2329c96faba#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klima-politik-deutschland-drohen-34-milliarden-euro-strafen](https://www.spiegel.de/wissenschaft/klima-politik-deutschland-drohen-34-milliarden-euro-strafen-a-87aa3d67-0c90-49ee-a4a5-51501a11ec96#ref=rss)
+### nicole
+
+* [https://www.spiegel.de/panorama/leute/nicole-kidman-ist-offiziell-geschieden-langjaehrige-ehe-mit-keith-urban](https://www.spiegel.de/panorama/leute/nicole-kidman-ist-offiziell-geschieden-langjaehrige-ehe-mit-keith-urban-a-b5ef74c6-8e90-4a22-9091-cb92a56ac861#ref=rss)
+### kidman
+
+* [https://www.spiegel.de/panorama/leute/nicole-kidman-ist-offiziell-geschieden-langjaehrige-ehe-mit-keith-urban](https://www.spiegel.de/panorama/leute/nicole-kidman-ist-offiziell-geschieden-langjaehrige-ehe-mit-keith-urban-a-b5ef74c6-8e90-4a22-9091-cb92a56ac861#ref=rss)
+### offiziell
+
+* [https://www.spiegel.de/panorama/leute/nicole-kidman-ist-offiziell-geschieden-langjaehrige-ehe-mit-keith-urban](https://www.spiegel.de/panorama/leute/nicole-kidman-ist-offiziell-geschieden-langjaehrige-ehe-mit-keith-urban-a-b5ef74c6-8e90-4a22-9091-cb92a56ac861#ref=rss)
+### ehe
+
+* [https://www.spiegel.de/panorama/leute/nicole-kidman-ist-offiziell-geschieden-langjaehrige-ehe-mit-keith-urban](https://www.spiegel.de/panorama/leute/nicole-kidman-ist-offiziell-geschieden-langjaehrige-ehe-mit-keith-urban-a-b5ef74c6-8e90-4a22-9091-cb92a56ac861#ref=rss)
+### keith
+
+* [https://www.spiegel.de/panorama/leute/nicole-kidman-ist-offiziell-geschieden-langjaehrige-ehe-mit-keith-urban](https://www.spiegel.de/panorama/leute/nicole-kidman-ist-offiziell-geschieden-langjaehrige-ehe-mit-keith-urban-a-b5ef74c6-8e90-4a22-9091-cb92a56ac861#ref=rss)
+### urban
+
+* [https://www.spiegel.de/panorama/leute/nicole-kidman-ist-offiziell-geschieden-langjaehrige-ehe-mit-keith-urban](https://www.spiegel.de/panorama/leute/nicole-kidman-ist-offiziell-geschieden-langjaehrige-ehe-mit-keith-urban-a-b5ef74c6-8e90-4a22-9091-cb92a56ac861#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/leute/nicole-kidman-ist-offiziell-geschieden-langjaehrige-ehe-mit-keith-urban](https://www.spiegel.de/panorama/leute/nicole-kidman-ist-offiziell-geschieden-langjaehrige-ehe-mit-keith-urban-a-b5ef74c6-8e90-4a22-9091-cb92a56ac861#ref=rss)
+* [https://www.spiegel.de/ausland/russland-soll-u-boot-als-eskorte-fuer-oeltanker-aus-venezuela-entsendet-haben](https://www.spiegel.de/ausland/russland-soll-u-boot-als-eskorte-fuer-oeltanker-aus-venezuela-entsendet-haben-a-9f8df781-9549-457d-8a99-8489d8c811a7#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/panorama/leute/nicole-kidman-ist-offiziell-geschieden-langjaehrige-ehe-mit-keith-urban](https://www.spiegel.de/panorama/leute/nicole-kidman-ist-offiziell-geschieden-langjaehrige-ehe-mit-keith-urban-a-b5ef74c6-8e90-4a22-9091-cb92a56ac861#ref=rss)
+* [https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren](https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren-a-7c0d4d1c-af00-4bd7-b5d3-cf758c67808f#ref=rss)
+### donald
+
+* [https://www.spiegel.de/wirtschaft/finanzmaerkte-nach-dem-venezuela-schock-holt-das-gold-zurueck-kommentar](https://www.spiegel.de/wirtschaft/finanzmaerkte-nach-dem-venezuela-schock-holt-das-gold-zurueck-kommentar-a-127a4a69-b22b-47e1-bcd4-a2adb730602c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-wie-europaeische-zeitungen-das-gebahren-der-usa-kommentieren](https://www.spiegel.de/politik/deutschland/donald-trump-wie-europaeische-zeitungen-das-gebahren-der-usa-kommentieren-a-2bbf0368-be49-4fbf-982e-200bd6e8e105#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren](https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren-a-7c0d4d1c-af00-4bd7-b5d3-cf758c67808f#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren](https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren-a-7c0d4d1c-af00-4bd7-b5d3-cf758c67808f#ref=rss)
+### darauf
+
+* [https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren](https://www.spiegel.de/ausland/iran-video-soll-polizisten-zeigen-die-sich-mit-demonstrierenden-solidarisieren-a-7c0d4d1c-af00-4bd7-b5d3-cf758c67808f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-anschlag-auf-stromnetz-zweites-bekennerschreiben](https://www.spiegel.de/panorama/justiz/berlin-anschlag-auf-stromnetz-zweites-bekennerschreiben-a-49bef2f6-323b-4fd0-ba3d-bb8c4c086870#ref=rss)
+### zeitungen
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-wie-europaeische-zeitungen-das-gebahren-der-usa-kommentieren](https://www.spiegel.de/politik/deutschland/donald-trump-wie-europaeische-zeitungen-das-gebahren-der-usa-kommentieren-a-2bbf0368-be49-4fbf-982e-200bd6e8e105#ref=rss)
+### usa
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-wie-europaeische-zeitungen-das-gebahren-der-usa-kommentieren](https://www.spiegel.de/politik/deutschland/donald-trump-wie-europaeische-zeitungen-das-gebahren-der-usa-kommentieren-a-2bbf0368-be49-4fbf-982e-200bd6e8e105#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-delcy-rodriguez-verwehrt-sich-gegen-einfluss-auslaendischer-akteure](https://www.spiegel.de/ausland/venezuela-delcy-rodriguez-verwehrt-sich-gegen-einfluss-auslaendischer-akteure-a-aa1cc43b-3a1f-485d-a816-f5273965f478#ref=rss)
+### zusammen
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-wie-europaeische-zeitungen-das-gebahren-der-usa-kommentieren](https://www.spiegel.de/politik/deutschland/donald-trump-wie-europaeische-zeitungen-das-gebahren-der-usa-kommentieren-a-2bbf0368-be49-4fbf-982e-200bd6e8e105#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-in-nrw-koennten-zehn-zentimeter-neuschnee-fallen](https://www.spiegel.de/panorama/wetter-in-deutschland-in-nrw-koennten-zehn-zentimeter-neuschnee-fallen-a-bfcfe21c-9378-41b8-a1de-5e4620c453fd#ref=rss)
+### ministerpräsident
+
+* [https://www.spiegel.de/politik/deutschland/hessen-ministerpraesident-boris-rhein-von-der-cdu-zeigt-verstaendnis-fuer-jenische](https://www.spiegel.de/politik/deutschland/hessen-ministerpraesident-boris-rhein-von-der-cdu-zeigt-verstaendnis-fuer-jenische-a-f88f4873-66db-48a7-b046-99d9af912102#ref=rss)
+### rhein
+
+* [https://www.spiegel.de/politik/deutschland/hessen-ministerpraesident-boris-rhein-von-der-cdu-zeigt-verstaendnis-fuer-jenische](https://www.spiegel.de/politik/deutschland/hessen-ministerpraesident-boris-rhein-von-der-cdu-zeigt-verstaendnis-fuer-jenische-a-f88f4873-66db-48a7-b046-99d9af912102#ref=rss)
+### dezember
+
+* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-arbeitslosenzahl-steigt-im-dezember-wieder](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-arbeitslosenzahl-steigt-im-dezember-wieder-a-2800f4a4-256d-490b-a7b5-fbdca8b8f677#ref=rss)
+### ruhrgebiet
+
+* [https://www.spiegel.de/auto/ruhrgebiet-bahn-sperrt-zentrale-strecke-kein-fernverkehr-zwischen-duesseldorf-und-essen](https://www.spiegel.de/auto/ruhrgebiet-bahn-sperrt-zentrale-strecke-kein-fernverkehr-zwischen-duesseldorf-und-essen-a-261ebe53-41a2-4764-bef4-13b787fc8fb1#ref=rss)
 ### vier
 
-* [https://www.spiegel.de/karriere/ruhrgebiet-polizistinnen-liessen-kollegen-im-stich-nun-sollen-sie-ihre-jobs-verlieren](https://www.spiegel.de/karriere/ruhrgebiet-polizistinnen-liessen-kollegen-im-stich-nun-sollen-sie-ihre-jobs-verlieren-a-4289e448-dcef-46fd-9550-274ee90a4f54#ref=rss)
-* [https://www.spiegel.de/panorama/stromausfall-in-berlin-schwimmbaeder-oeffnen-zum-duschen](https://www.spiegel.de/panorama/stromausfall-in-berlin-schwimmbaeder-oeffnen-zum-duschen-a-6572f039-40f7-4c83-9cc8-c08ab6dd7962#ref=rss)
-### ben
+* [https://www.spiegel.de/auto/ruhrgebiet-bahn-sperrt-zentrale-strecke-kein-fernverkehr-zwischen-duesseldorf-und-essen](https://www.spiegel.de/auto/ruhrgebiet-bahn-sperrt-zentrale-strecke-kein-fernverkehr-zwischen-duesseldorf-und-essen-a-261ebe53-41a2-4764-bef4-13b787fc8fb1#ref=rss)
+### wochen
 
-* [https://www.spiegel.de/kultur/kino/ben-affleck-legte-einen-dreh-lahm-weil-er-eine-baseballkappe-ablehnte](https://www.spiegel.de/kultur/kino/ben-affleck-legte-einen-dreh-lahm-weil-er-eine-baseballkappe-ablehnte-a-52013bda-5afe-4498-bdd9-1533abf63b8e#ref=rss)
-### affleck
+* [https://www.spiegel.de/auto/ruhrgebiet-bahn-sperrt-zentrale-strecke-kein-fernverkehr-zwischen-duesseldorf-und-essen](https://www.spiegel.de/auto/ruhrgebiet-bahn-sperrt-zentrale-strecke-kein-fernverkehr-zwischen-duesseldorf-und-essen-a-261ebe53-41a2-4764-bef4-13b787fc8fb1#ref=rss)
+### lang
 
-* [https://www.spiegel.de/kultur/kino/ben-affleck-legte-einen-dreh-lahm-weil-er-eine-baseballkappe-ablehnte](https://www.spiegel.de/kultur/kino/ben-affleck-legte-einen-dreh-lahm-weil-er-eine-baseballkappe-ablehnte-a-52013bda-5afe-4498-bdd9-1533abf63b8e#ref=rss)
-### ärztin
+* [https://www.spiegel.de/auto/ruhrgebiet-bahn-sperrt-zentrale-strecke-kein-fernverkehr-zwischen-duesseldorf-und-essen](https://www.spiegel.de/auto/ruhrgebiet-bahn-sperrt-zentrale-strecke-kein-fernverkehr-zwischen-duesseldorf-und-essen-a-261ebe53-41a2-4764-bef4-13b787fc8fb1#ref=rss)
+### 15
 
-* [https://www.spiegel.de/panorama/crans-montana-charite-aerztin-behandelt-brandopfer-aus-der-schweiz](https://www.spiegel.de/panorama/crans-montana-charite-aerztin-behandelt-brandopfer-aus-der-schweiz-a-193bbdc0-39b3-4838-93e8-68ee4c785f75#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-in-nrw-koennten-zehn-zentimeter-neuschnee-fallen](https://www.spiegel.de/panorama/wetter-in-deutschland-in-nrw-koennten-zehn-zentimeter-neuschnee-fallen-a-bfcfe21c-9378-41b8-a1de-5e4620c453fd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klima-politik-deutschland-drohen-34-milliarden-euro-strafen](https://www.spiegel.de/wissenschaft/klima-politik-deutschland-drohen-34-milliarden-euro-strafen-a-87aa3d67-0c90-49ee-a4a5-51501a11ec96#ref=rss)
+### börse
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/dax-springt-erstmals-ueber-marke-von-25-000-punkten](https://www.spiegel.de/wirtschaft/unternehmen/dax-springt-erstmals-ueber-marke-von-25-000-punkten-a-2b00edbd-4434-49ec-9fdc-1b3d2e786014#ref=rss)
+### dax
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/dax-springt-erstmals-ueber-marke-von-25-000-punkten](https://www.spiegel.de/wirtschaft/unternehmen/dax-springt-erstmals-ueber-marke-von-25-000-punkten-a-2b00edbd-4434-49ec-9fdc-1b3d2e786014#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/dax-springt-erstmals-ueber-marke-von-25-000-punkten](https://www.spiegel.de/wirtschaft/unternehmen/dax-springt-erstmals-ueber-marke-von-25-000-punkten-a-2b00edbd-4434-49ec-9fdc-1b3d2e786014#ref=rss)
+### bekennerschreiben
+
+* [https://www.spiegel.de/panorama/justiz/berlin-anschlag-auf-stromnetz-zweites-bekennerschreiben](https://www.spiegel.de/panorama/justiz/berlin-anschlag-auf-stromnetz-zweites-bekennerschreiben-a-49bef2f6-323b-4fd0-ba3d-bb8c4c086870#ref=rss)
+### elon
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein-a-d70fb0ee-568f-4464-86bb-3701beb58dc7#ref=rss)
+### musk
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein-a-d70fb0ee-568f-4464-86bb-3701beb58dc7#ref=rss)
+### xai
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein-a-d70fb0ee-568f-4464-86bb-3701beb58dc7#ref=rss)
+### 20
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein-a-d70fb0ee-568f-4464-86bb-3701beb58dc7#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein-a-d70fb0ee-568f-4464-86bb-3701beb58dc7#ref=rss)
+### eingenommen
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein-a-d70fb0ee-568f-4464-86bb-3701beb58dc7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/co2-rechte-deutschland-erzielt-einnahmerekord-im-emissionshandel](https://www.spiegel.de/wirtschaft/unternehmen/co2-rechte-deutschland-erzielt-einnahmerekord-im-emissionshandel-a-6ae44a84-8b4b-4d54-b25b-9068b98660c5#ref=rss)
+### geld
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-ki-firma-xai-sammelt-20-milliarden-dollar-bei-investoren-ein-a-d70fb0ee-568f-4464-86bb-3701beb58dc7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/co2-rechte-deutschland-erzielt-einnahmerekord-im-emissionshandel](https://www.spiegel.de/wirtschaft/unternehmen/co2-rechte-deutschland-erzielt-einnahmerekord-im-emissionshandel-a-6ae44a84-8b4b-4d54-b25b-9068b98660c5#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-soll-u-boot-als-eskorte-fuer-oeltanker-aus-venezuela-entsendet-haben](https://www.spiegel.de/ausland/russland-soll-u-boot-als-eskorte-fuer-oeltanker-aus-venezuela-entsendet-haben-a-9f8df781-9549-457d-8a99-8489d8c811a7#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-warnt-trotz-fortschritten-vor-bestehendem-territorialstreit-mit-russland](https://www.spiegel.de/ausland/wolodymyr-selenskyj-warnt-trotz-fortschritten-vor-bestehendem-territorialstreit-mit-russland-a-faab923b-4d7b-4747-a369-d4a2d3469b18#ref=rss)
+### plötzlich
+
+* [https://www.spiegel.de/ausland/russland-soll-u-boot-als-eskorte-fuer-oeltanker-aus-venezuela-entsendet-haben](https://www.spiegel.de/ausland/russland-soll-u-boot-als-eskorte-fuer-oeltanker-aus-venezuela-entsendet-haben-a-9f8df781-9549-457d-8a99-8489d8c811a7#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/die-verwilderung-von-martin-lechner-ploetzlich-waechst-marlies-eine-klaue](https://www.spiegel.de/kultur/literatur/die-verwilderung-von-martin-lechner-ploetzlich-waechst-marlies-eine-klaue-a-f6345f60-da2a-42c9-87c9-71e9d84b4628#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/sport/wintersport/skispringen-das-deutsche-team-ist-gespalten-fuenf-lehren-aus-der-vierschanzentournee](https://www.spiegel.de/sport/wintersport/skispringen-das-deutsche-team-ist-gespalten-fuenf-lehren-aus-der-vierschanzentournee-a-8fc7d132-436d-4a56-b160-c3aa38b96927#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-warnt-trotz-fortschritten-vor-bestehendem-territorialstreit-mit-russland](https://www.spiegel.de/ausland/wolodymyr-selenskyj-warnt-trotz-fortschritten-vor-bestehendem-territorialstreit-mit-russland-a-faab923b-4d7b-4747-a369-d4a2d3469b18#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-warnt-trotz-fortschritten-vor-bestehendem-territorialstreit-mit-russland](https://www.spiegel.de/ausland/wolodymyr-selenskyj-warnt-trotz-fortschritten-vor-bestehendem-territorialstreit-mit-russland-a-faab923b-4d7b-4747-a369-d4a2d3469b18#ref=rss)
+* [https://www.spiegel.de/geschichte/venezuela-als-die-deutsche-marine-im-januar-1903-die-kueste-beschoss](https://www.spiegel.de/geschichte/venezuela-als-die-deutsche-marine-im-januar-1903-die-kueste-beschoss-a-d04a9271-5a03-481c-a39e-a5414c666b45#ref=rss)
+### rodríguez
+
+* [https://www.spiegel.de/ausland/venezuela-delcy-rodriguez-verwehrt-sich-gegen-einfluss-auslaendischer-akteure](https://www.spiegel.de/ausland/venezuela-delcy-rodriguez-verwehrt-sich-gegen-einfluss-auslaendischer-akteure-a-aa1cc43b-3a1f-485d-a816-f5273965f478#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/venezuela-delcy-rodriguez-verwehrt-sich-gegen-einfluss-auslaendischer-akteure](https://www.spiegel.de/ausland/venezuela-delcy-rodriguez-verwehrt-sich-gegen-einfluss-auslaendischer-akteure-a-aa1cc43b-3a1f-485d-a816-f5273965f478#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klima-politik-deutschland-drohen-34-milliarden-euro-strafen](https://www.spiegel.de/wissenschaft/klima-politik-deutschland-drohen-34-milliarden-euro-strafen-a-87aa3d67-0c90-49ee-a4a5-51501a11ec96#ref=rss)
+### aschaffenburg
+
+* [https://www.spiegel.de/panorama/justiz/aschaffenburg-zeuge-des-attentats-zur-festnahme-ausgeschrieben](https://www.spiegel.de/panorama/justiz/aschaffenburg-zeuge-des-attentats-zur-festnahme-ausgeschrieben-a-76979f06-0857-4cfd-a82e-bbc0eac5e5c0#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/politik/deutschland/arrow-3-in-brandenburg-verdaechtige-drohnen-ueber-stuetzpunkt-bundeswehr-scheitert-mit-abschuss](https://www.spiegel.de/politik/deutschland/arrow-3-in-brandenburg-verdaechtige-drohnen-ueber-stuetzpunkt-bundeswehr-scheitert-mit-abschuss-a-5ac615d5-f8a2-47e7-b1e1-4aea340ac6c4#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/politik/deutschland/arrow-3-in-brandenburg-verdaechtige-drohnen-ueber-stuetzpunkt-bundeswehr-scheitert-mit-abschuss](https://www.spiegel.de/politik/deutschland/arrow-3-in-brandenburg-verdaechtige-drohnen-ueber-stuetzpunkt-bundeswehr-scheitert-mit-abschuss-a-5ac615d5-f8a2-47e7-b1e1-4aea340ac6c4#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/arrow-3-in-brandenburg-verdaechtige-drohnen-ueber-stuetzpunkt-bundeswehr-scheitert-mit-abschuss](https://www.spiegel.de/politik/deutschland/arrow-3-in-brandenburg-verdaechtige-drohnen-ueber-stuetzpunkt-bundeswehr-scheitert-mit-abschuss-a-5ac615d5-f8a2-47e7-b1e1-4aea340ac6c4#ref=rss)
+### rauchen
+
+* [https://www.spiegel.de/ausland/rauchen-zigaretten-als-soziales-ritual-unter-chinesischen-maennern](https://www.spiegel.de/ausland/rauchen-zigaretten-als-soziales-ritual-unter-chinesischen-maennern-a-90a6b31e-9245-40b3-bd11-31d18c9bb434#ref=rss)
+### zigaretten
+
+* [https://www.spiegel.de/ausland/rauchen-zigaretten-als-soziales-ritual-unter-chinesischen-maennern](https://www.spiegel.de/ausland/rauchen-zigaretten-als-soziales-ritual-unter-chinesischen-maennern-a-90a6b31e-9245-40b3-bd11-31d18c9bb434#ref=rss)
+### ritual
+
+* [https://www.spiegel.de/ausland/rauchen-zigaretten-als-soziales-ritual-unter-chinesischen-maennern](https://www.spiegel.de/ausland/rauchen-zigaretten-als-soziales-ritual-unter-chinesischen-maennern-a-90a6b31e-9245-40b3-bd11-31d18c9bb434#ref=rss)
+### männern
+
+* [https://www.spiegel.de/ausland/rauchen-zigaretten-als-soziales-ritual-unter-chinesischen-maennern](https://www.spiegel.de/ausland/rauchen-zigaretten-als-soziales-ritual-unter-chinesischen-maennern-a-90a6b31e-9245-40b3-bd11-31d18c9bb434#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-neue-vorwuerfe-belasten-gruenen-politiker](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-neue-vorwuerfe-belasten-gruenen-politiker-a-0b0ca902-6505-4692-ae1a-f4af1ffee58c#ref=rss)
+### gelbhaar
+
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-neue-vorwuerfe-belasten-gruenen-politiker](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-neue-vorwuerfe-belasten-gruenen-politiker-a-0b0ca902-6505-4692-ae1a-f4af1ffee58c#ref=rss)
+### verwilderung
+
+* [https://www.spiegel.de/kultur/literatur/die-verwilderung-von-martin-lechner-ploetzlich-waechst-marlies-eine-klaue](https://www.spiegel.de/kultur/literatur/die-verwilderung-von-martin-lechner-ploetzlich-waechst-marlies-eine-klaue-a-f6345f60-da2a-42c9-87c9-71e9d84b4628#ref=rss)
+### martin
+
+* [https://www.spiegel.de/kultur/literatur/die-verwilderung-von-martin-lechner-ploetzlich-waechst-marlies-eine-klaue](https://www.spiegel.de/kultur/literatur/die-verwilderung-von-martin-lechner-ploetzlich-waechst-marlies-eine-klaue-a-f6345f60-da2a-42c9-87c9-71e9d84b4628#ref=rss)
 
