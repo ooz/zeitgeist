@@ -4,327 +4,347 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/ausland/usa-robert-f-kennedy-jr-veroeffentlicht-ernaehrungsrichtlinie-fuer-mehr-gesundheit](https://www.spiegel.de/ausland/usa-robert-f-kennedy-jr-veroeffentlicht-ernaehrungsrichtlinie-fuer-mehr-gesundheit-a-a71d0676-f6c5-4753-a3ce-b1533cfe0a35#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/brandenburg-zwei-verbliebene-bsw-minister-verlassen-ebenfalls-partei](https://www.spiegel.de/politik/deutschland/brandenburg-zwei-verbliebene-bsw-minister-verlassen-ebenfalls-partei-a-29fb2b89-3bc3-481a-a347-a11accc1aa6d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht](https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht-a-1e7d5161-0ed6-4179-861e-34ef5a55be12#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-fraktionsklausur-abgeordnete-fordern-bleiberecht-fuer-fluechtlinge-mit-job](https://www.spiegel.de/politik/deutschland/spd-fraktionsklausur-abgeordnete-fordern-bleiberecht-fuer-fluechtlinge-mit-job-a-cb6c6d35-20ae-45b7-bead-0ad71b2966a8#ref=rss)
-* [https://www.spiegel.de/panorama/krisen-zu-jahresbeginn-fasst-mehr-schlechte-vorsaetze-kolumne-von-jochen-martin-gutsch](https://www.spiegel.de/panorama/krisen-zu-jahresbeginn-fasst-mehr-schlechte-vorsaetze-kolumne-von-jochen-martin-gutsch-a-e65a59bc-1b34-4e9e-8b86-b7ac4fccf36b#ref=rss)
-* [https://www.spiegel.de/ausland/nicolas-maduro-ehefrau-cilia-flores-mehr-als-eine-first-lady](https://www.spiegel.de/ausland/nicolas-maduro-ehefrau-cilia-flores-mehr-als-eine-first-lady-a-638fad00-7cec-43e9-8567-85278d0efc1b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verlangt-in-china-offenbar-vorkasse-fuer-h200-chips](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verlangt-in-china-offenbar-vorkasse-fuer-h200-chips-a-ae8bdd00-d931-475b-8b18-375aa5ddb009#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/beschlagnahmter-oeltanker-china-wirft-den-usa-verstoss-gegen-voelkerrecht-vor](https://www.spiegel.de/ausland/beschlagnahmter-oeltanker-china-wirft-den-usa-verstoss-gegen-voelkerrecht-vor-a-23aba315-cdd1-44ba-b885-8d75c5bc37fb#ref=rss)
-* [https://www.spiegel.de/ausland/usa-robert-f-kennedy-jr-veroeffentlicht-ernaehrungsrichtlinie-fuer-mehr-gesundheit](https://www.spiegel.de/ausland/usa-robert-f-kennedy-jr-veroeffentlicht-ernaehrungsrichtlinie-fuer-mehr-gesundheit-a-a71d0676-f6c5-4753-a3ce-b1533cfe0a35#ref=rss)
-* [https://www.spiegel.de/ausland/usa-republikanischer-senator-warnt-vor-raketenmaessig-dummem-angriff-auf-groenland](https://www.spiegel.de/ausland/usa-republikanischer-senator-warnt-vor-raketenmaessig-dummem-angriff-auf-groenland-a-d49fa0d3-0af3-4bcd-bd6f-d863264c2266#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-deutet-us-aufsicht-ueber-venezuela-fuer-jahre-an](https://www.spiegel.de/ausland/donald-trump-deutet-us-aufsicht-ueber-venezuela-fuer-jahre-an-a-76b5f3f5-fae2-4400-973d-136cc0b7086e#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-frau-stirbt-nach-schuessen-durch-ice-beamte-in-ihrem-auto](https://www.spiegel.de/ausland/minneapolis-frau-stirbt-nach-schuessen-durch-ice-beamte-in-ihrem-auto-a-e900ec93-d7f7-4674-b30e-55f77c7bb9dd#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-usa-ziehen-sich-aus-66-internationalen-organisationen-zurueck](https://www.spiegel.de/ausland/donald-trump-usa-ziehen-sich-aus-66-internationalen-organisationen-zurueck-a-ac3e3ee5-770b-4f60-9d4c-e07ab4b3f581#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/donald-trump-deutet-us-aufsicht-ueber-venezuela-fuer-jahre-an](https://www.spiegel.de/ausland/donald-trump-deutet-us-aufsicht-ueber-venezuela-fuer-jahre-an-a-76b5f3f5-fae2-4400-973d-136cc0b7086e#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-frau-stirbt-nach-schuessen-durch-ice-beamte-in-ihrem-auto](https://www.spiegel.de/ausland/minneapolis-frau-stirbt-nach-schuessen-durch-ice-beamte-in-ihrem-auto-a-e900ec93-d7f7-4674-b30e-55f77c7bb9dd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/us-militaer-und-groenland-plaene-von-donald-trump-wer-hat-welche-waffen-in-der-arktis](https://www.spiegel.de/wissenschaft/mensch/us-militaer-und-groenland-plaene-von-donald-trump-wer-hat-welche-waffen-in-der-arktis-a-6533b796-5f87-43a2-8f44-8f2e8ac6c824#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-usa-ziehen-sich-aus-66-internationalen-organisationen-zurueck](https://www.spiegel.de/ausland/donald-trump-usa-ziehen-sich-aus-66-internationalen-organisationen-zurueck-a-ac3e3ee5-770b-4f60-9d4c-e07ab4b3f581#ref=rss)
-### donald
+* [https://www.spiegel.de/ausland/usa-was-trump-mit-groenland-vorhat](https://www.spiegel.de/ausland/usa-was-trump-mit-groenland-vorhat-a-8b49f0e6-6863-4d31-897a-912753d39c71#ref=rss)
+* [https://www.spiegel.de/ausland/ice-einsatz-in-minneapolis-frau-per-kopfschuss-im-auto-getoetet-donald-trump-nennt-es-notwehr](https://www.spiegel.de/ausland/ice-einsatz-in-minneapolis-frau-per-kopfschuss-im-auto-getoetet-donald-trump-nennt-es-notwehr-a-c9f0685c-6910-4ee9-ae5f-2ce7d82364e5#ref=rss)
+* [https://www.spiegel.de/panorama/usa-vs-venezuela-dieser-angriff-war-ein-voelkerrechtsverbrechen](https://www.spiegel.de/panorama/usa-vs-venezuela-dieser-angriff-war-ein-voelkerrechtsverbrechen-a-b65c66f9-6f50-40fc-876b-1470a450b45d#ref=rss)
+* [https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat](https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat-a-fc4dd90a-5ac1-41a2-959e-9ddd2f51ce2e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-entfesselter-imperialismus-welt-am-wendepunkt](https://www.spiegel.de/ausland/donald-trump-und-sein-entfesselter-imperialismus-welt-am-wendepunkt-a-4e747cf0-2e2d-4b06-90f9-36e5b2f8bd49#ref=rss)
+### schnee
 
-* [https://www.spiegel.de/ausland/donald-trump-deutet-us-aufsicht-ueber-venezuela-fuer-jahre-an](https://www.spiegel.de/ausland/donald-trump-deutet-us-aufsicht-ueber-venezuela-fuer-jahre-an-a-76b5f3f5-fae2-4400-973d-136cc0b7086e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/us-militaer-und-groenland-plaene-von-donald-trump-wer-hat-welche-waffen-in-der-arktis](https://www.spiegel.de/wissenschaft/mensch/us-militaer-und-groenland-plaene-von-donald-trump-wer-hat-welche-waffen-in-der-arktis-a-6533b796-5f87-43a2-8f44-8f2e8ac6c824#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-usa-ziehen-sich-aus-66-internationalen-organisationen-zurueck](https://www.spiegel.de/ausland/donald-trump-usa-ziehen-sich-aus-66-internationalen-organisationen-zurueck-a-ac3e3ee5-770b-4f60-9d4c-e07ab4b3f581#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/deutschland-frankreich-landwirte-protestieren-gegen-mercosur-abkommen](https://www.spiegel.de/wirtschaft/deutschland-frankreich-landwirte-protestieren-gegen-mercosur-abkommen-a-bee08dc7-920f-4932-80ea-efda3f4b5332#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-fast-minus-20-grad-im-osten-heftige-schneefaelle-erwartet](https://www.spiegel.de/panorama/wetter-in-deutschland-fast-minus-20-grad-im-osten-heftige-schneefaelle-erwartet-a-36e08753-a50b-41b7-9d37-2c0a0fda20d6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-sendet-hoffnungszeichen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-sendet-hoffnungszeichen-a-d095c6cc-9414-46a0-810f-941c87008bbd#ref=rss)
-* [https://www.spiegel.de/ausland/deutschland-schiebt-weiteren-straftaeter-nach-syrien-ab](https://www.spiegel.de/ausland/deutschland-schiebt-weiteren-straftaeter-nach-syrien-ab-a-ab7b25ac-3150-4469-acd1-f33b670207f1#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/jemen-separatistenfuehrer-aidarus-al-subaidi-flieht-aus-dem-jemen](https://www.spiegel.de/ausland/jemen-separatistenfuehrer-aidarus-al-subaidi-flieht-aus-dem-jemen-a-4977886d-c999-496a-a942-80c4be2f5c5f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jodie-foster-spricht-ueber-loewenangriff-bei-dreharbeiten](https://www.spiegel.de/panorama/leute/jodie-foster-spricht-ueber-loewenangriff-bei-dreharbeiten-a-eaae20e4-c71e-42af-847e-c73e9c2df6aa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verlangt-in-china-offenbar-vorkasse-fuer-h200-chips](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verlangt-in-china-offenbar-vorkasse-fuer-h200-chips-a-ae8bdd00-d931-475b-8b18-375aa5ddb009#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/beckeln-jaeger-schiesst-auf-spaziergaengerin-in-niedersachsen](https://www.spiegel.de/panorama/justiz/beckeln-jaeger-schiesst-auf-spaziergaengerin-in-niedersachsen-a-93b5f892-b015-435e-8ff4-36f6421782ed#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/beschlagnahmter-oeltanker-china-wirft-den-usa-verstoss-gegen-voelkerrecht-vor](https://www.spiegel.de/ausland/beschlagnahmter-oeltanker-china-wirft-den-usa-verstoss-gegen-voelkerrecht-vor-a-23aba315-cdd1-44ba-b885-8d75c5bc37fb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verlangt-in-china-offenbar-vorkasse-fuer-h200-chips](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verlangt-in-china-offenbar-vorkasse-fuer-h200-chips-a-ae8bdd00-d931-475b-8b18-375aa5ddb009#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/sport/handball/dika-mem-zu-den-fuechsen-einer-der-weltbesten-handballer-spielt-kuenftig-in-berlin](https://www.spiegel.de/sport/handball/dika-mem-zu-den-fuechsen-einer-der-weltbesten-handballer-spielt-kuenftig-in-berlin-a-b7b2a9c7-ef33-458b-8237-14afebad16f4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-beraet-ueber-wegner-und-stromausfall](https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-beraet-ueber-wegner-und-stromausfall-a-701ff287-1a2d-477c-8d22-38c51a154359#ref=rss)
-### jemen
-
-* [https://www.spiegel.de/ausland/jemen-separatistenfuehrer-aidarus-al-subaidi-flieht-aus-dem-jemen](https://www.spiegel.de/ausland/jemen-separatistenfuehrer-aidarus-al-subaidi-flieht-aus-dem-jemen-a-4977886d-c999-496a-a942-80c4be2f5c5f#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-fast-minus-20-grad-im-osten-heftige-schneefaelle-erwartet](https://www.spiegel.de/panorama/wetter-in-deutschland-fast-minus-20-grad-im-osten-heftige-schneefaelle-erwartet-a-36e08753-a50b-41b7-9d37-2c0a0fda20d6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-sendet-hoffnungszeichen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-sendet-hoffnungszeichen-a-d095c6cc-9414-46a0-810f-941c87008bbd#ref=rss)
-* [https://www.spiegel.de/ausland/deutschland-schiebt-weiteren-straftaeter-nach-syrien-ab](https://www.spiegel.de/ausland/deutschland-schiebt-weiteren-straftaeter-nach-syrien-ab-a-ab7b25ac-3150-4469-acd1-f33b670207f1#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-pistorius-hofft-auf-20-000-freiwillige-in-diesem-jahr](https://www.spiegel.de/politik/deutschland/bundeswehr-pistorius-hofft-auf-20-000-freiwillige-in-diesem-jahr-a-486342a4-2500-434b-8d16-a496c093684a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/militaerhistoriker-soenke-neitzel-spricht-ueber-eliteeinheiten](https://www.spiegel.de/politik/deutschland/militaerhistoriker-soenke-neitzel-spricht-ueber-eliteeinheiten-a-2210f291-ca8c-4c28-9b79-80955b2c70ec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht](https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht-a-1e7d5161-0ed6-4179-861e-34ef5a55be12#ref=rss)
-### pistorius
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-pistorius-hofft-auf-20-000-freiwillige-in-diesem-jahr](https://www.spiegel.de/politik/deutschland/bundeswehr-pistorius-hofft-auf-20-000-freiwillige-in-diesem-jahr-a-486342a4-2500-434b-8d16-a496c093684a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht](https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht-a-1e7d5161-0ed6-4179-861e-34ef5a55be12#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-pistorius-hofft-auf-20-000-freiwillige-in-diesem-jahr](https://www.spiegel.de/politik/deutschland/bundeswehr-pistorius-hofft-auf-20-000-freiwillige-in-diesem-jahr-a-486342a4-2500-434b-8d16-a496c093684a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht](https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht-a-1e7d5161-0ed6-4179-861e-34ef5a55be12#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-sendet-hoffnungszeichen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-sendet-hoffnungszeichen-a-d095c6cc-9414-46a0-810f-941c87008bbd#ref=rss)
-### skandal
-
-* [https://www.spiegel.de/politik/deutschland/militaerhistoriker-soenke-neitzel-spricht-ueber-eliteeinheiten](https://www.spiegel.de/politik/deutschland/militaerhistoriker-soenke-neitzel-spricht-ueber-eliteeinheiten-a-2210f291-ca8c-4c28-9b79-80955b2c70ec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht](https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht-a-1e7d5161-0ed6-4179-861e-34ef5a55be12#ref=rss)
-### fallschirmjägern
-
-* [https://www.spiegel.de/politik/deutschland/militaerhistoriker-soenke-neitzel-spricht-ueber-eliteeinheiten](https://www.spiegel.de/politik/deutschland/militaerhistoriker-soenke-neitzel-spricht-ueber-eliteeinheiten-a-2210f291-ca8c-4c28-9b79-80955b2c70ec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht](https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht-a-1e7d5161-0ed6-4179-861e-34ef5a55be12#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/brandenburg-zwei-verbliebene-bsw-minister-verlassen-ebenfalls-partei](https://www.spiegel.de/politik/deutschland/brandenburg-zwei-verbliebene-bsw-minister-verlassen-ebenfalls-partei-a-29fb2b89-3bc3-481a-a347-a11accc1aa6d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verlangt-in-china-offenbar-vorkasse-fuer-h200-chips](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verlangt-in-china-offenbar-vorkasse-fuer-h200-chips-a-ae8bdd00-d931-475b-8b18-375aa5ddb009#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/ausland/donald-trump-deutet-us-aufsicht-ueber-venezuela-fuer-jahre-an](https://www.spiegel.de/ausland/donald-trump-deutet-us-aufsicht-ueber-venezuela-fuer-jahre-an-a-76b5f3f5-fae2-4400-973d-136cc0b7086e#ref=rss)
-* [https://www.spiegel.de/panorama/krisen-zu-jahresbeginn-fasst-mehr-schlechte-vorsaetze-kolumne-von-jochen-martin-gutsch](https://www.spiegel.de/panorama/krisen-zu-jahresbeginn-fasst-mehr-schlechte-vorsaetze-kolumne-von-jochen-martin-gutsch-a-e65a59bc-1b34-4e9e-8b86-b7ac4fccf36b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/us-militaer-und-groenland-plaene-von-donald-trump-wer-hat-welche-waffen-in-der-arktis](https://www.spiegel.de/wissenschaft/mensch/us-militaer-und-groenland-plaene-von-donald-trump-wer-hat-welche-waffen-in-der-arktis-a-6533b796-5f87-43a2-8f44-8f2e8ac6c824#ref=rss)
-### frau
-
-* [https://www.spiegel.de/ausland/minneapolis-frau-stirbt-nach-schuessen-durch-ice-beamte-in-ihrem-auto](https://www.spiegel.de/ausland/minneapolis-frau-stirbt-nach-schuessen-durch-ice-beamte-in-ihrem-auto-a-e900ec93-d7f7-4674-b30e-55f77c7bb9dd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/beckeln-jaeger-schiesst-auf-spaziergaengerin-in-niedersachsen](https://www.spiegel.de/panorama/justiz/beckeln-jaeger-schiesst-auf-spaziergaengerin-in-niedersachsen-a-93b5f892-b015-435e-8ff4-36f6421782ed#ref=rss)
-### bürgermeister
-
-* [https://www.spiegel.de/ausland/minneapolis-frau-stirbt-nach-schuessen-durch-ice-beamte-in-ihrem-auto](https://www.spiegel.de/ausland/minneapolis-frau-stirbt-nach-schuessen-durch-ice-beamte-in-ihrem-auto-a-e900ec93-d7f7-4674-b30e-55f77c7bb9dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-beraet-ueber-wegner-und-stromausfall](https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-beraet-ueber-wegner-und-stromausfall-a-701ff287-1a2d-477c-8d22-38c51a154359#ref=rss)
-### iss
-
-* [https://www.spiegel.de/wissenschaft/weltall/iss-ausseneinsatz-abgesagt-wegen-gesundheitlicher-probleme-eines-astronauten](https://www.spiegel.de/wissenschaft/weltall/iss-ausseneinsatz-abgesagt-wegen-gesundheitlicher-probleme-eines-astronauten-a-16473ef0-c82c-4888-8233-cb945beaf889#ref=rss)
-### abgesagt
-
-* [https://www.spiegel.de/wissenschaft/weltall/iss-ausseneinsatz-abgesagt-wegen-gesundheitlicher-probleme-eines-astronauten](https://www.spiegel.de/wissenschaft/weltall/iss-ausseneinsatz-abgesagt-wegen-gesundheitlicher-probleme-eines-astronauten-a-16473ef0-c82c-4888-8233-cb945beaf889#ref=rss)
-* [https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab](https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab-a-5bbc6ba2-1e63-42e9-9368-471c461c412e#ref=rss)
-### gesundheitlicher
-
-* [https://www.spiegel.de/wissenschaft/weltall/iss-ausseneinsatz-abgesagt-wegen-gesundheitlicher-probleme-eines-astronauten](https://www.spiegel.de/wissenschaft/weltall/iss-ausseneinsatz-abgesagt-wegen-gesundheitlicher-probleme-eines-astronauten-a-16473ef0-c82c-4888-8233-cb945beaf889#ref=rss)
-### probleme
-
-* [https://www.spiegel.de/wissenschaft/weltall/iss-ausseneinsatz-abgesagt-wegen-gesundheitlicher-probleme-eines-astronauten](https://www.spiegel.de/wissenschaft/weltall/iss-ausseneinsatz-abgesagt-wegen-gesundheitlicher-probleme-eines-astronauten-a-16473ef0-c82c-4888-8233-cb945beaf889#ref=rss)
-### astronauten
-
-* [https://www.spiegel.de/wissenschaft/weltall/iss-ausseneinsatz-abgesagt-wegen-gesundheitlicher-probleme-eines-astronauten](https://www.spiegel.de/wissenschaft/weltall/iss-ausseneinsatz-abgesagt-wegen-gesundheitlicher-probleme-eines-astronauten-a-16473ef0-c82c-4888-8233-cb945beaf889#ref=rss)
-### klage
-
-* [https://www.spiegel.de/netzwelt/apps/google-und-character-ai-legen-klage-wegen-suizid-eines-teenagers-bei](https://www.spiegel.de/netzwelt/apps/google-und-character-ai-legen-klage-wegen-suizid-eines-teenagers-bei-a-e9e7c379-46d1-4c19-9e1e-55f957b028e2#ref=rss)
-### landwirte
-
-* [https://www.spiegel.de/wirtschaft/deutschland-frankreich-landwirte-protestieren-gegen-mercosur-abkommen](https://www.spiegel.de/wirtschaft/deutschland-frankreich-landwirte-protestieren-gegen-mercosur-abkommen-a-bee08dc7-920f-4932-80ea-efda3f4b5332#ref=rss)
-### mercosurabkommen
-
-* [https://www.spiegel.de/wirtschaft/deutschland-frankreich-landwirte-protestieren-gegen-mercosur-abkommen](https://www.spiegel.de/wirtschaft/deutschland-frankreich-landwirte-protestieren-gegen-mercosur-abkommen-a-bee08dc7-920f-4932-80ea-efda3f4b5332#ref=rss)
-### vielerorts
-
-* [https://www.spiegel.de/wirtschaft/deutschland-frankreich-landwirte-protestieren-gegen-mercosur-abkommen](https://www.spiegel.de/wirtschaft/deutschland-frankreich-landwirte-protestieren-gegen-mercosur-abkommen-a-bee08dc7-920f-4932-80ea-efda3f4b5332#ref=rss)
-* [https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab](https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab-a-5bbc6ba2-1e63-42e9-9368-471c461c412e#ref=rss)
-### französische
-
-* [https://www.spiegel.de/wirtschaft/deutschland-frankreich-landwirte-protestieren-gegen-mercosur-abkommen](https://www.spiegel.de/wirtschaft/deutschland-frankreich-landwirte-protestieren-gegen-mercosur-abkommen-a-bee08dc7-920f-4932-80ea-efda3f4b5332#ref=rss)
-* [https://www.spiegel.de/sport/handball/dika-mem-zu-den-fuechsen-einer-der-weltbesten-handballer-spielt-kuenftig-in-berlin](https://www.spiegel.de/sport/handball/dika-mem-zu-den-fuechsen-einer-der-weltbesten-handballer-spielt-kuenftig-in-berlin-a-b7b2a9c7-ef33-458b-8237-14afebad16f4#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/wirtschaft/deutschland-frankreich-landwirte-protestieren-gegen-mercosur-abkommen](https://www.spiegel.de/wirtschaft/deutschland-frankreich-landwirte-protestieren-gegen-mercosur-abkommen-a-bee08dc7-920f-4932-80ea-efda3f4b5332#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/beckeln-jaeger-schiesst-auf-spaziergaengerin-in-niedersachsen](https://www.spiegel.de/panorama/justiz/beckeln-jaeger-schiesst-auf-spaziergaengerin-in-niedersachsen-a-93b5f892-b015-435e-8ff4-36f6421782ed#ref=rss)
-### dika
-
-* [https://www.spiegel.de/sport/handball/dika-mem-zu-den-fuechsen-einer-der-weltbesten-handballer-spielt-kuenftig-in-berlin](https://www.spiegel.de/sport/handball/dika-mem-zu-den-fuechsen-einer-der-weltbesten-handballer-spielt-kuenftig-in-berlin-a-b7b2a9c7-ef33-458b-8237-14afebad16f4#ref=rss)
-### mem
-
-* [https://www.spiegel.de/sport/handball/dika-mem-zu-den-fuechsen-einer-der-weltbesten-handballer-spielt-kuenftig-in-berlin](https://www.spiegel.de/sport/handball/dika-mem-zu-den-fuechsen-einer-der-weltbesten-handballer-spielt-kuenftig-in-berlin-a-b7b2a9c7-ef33-458b-8237-14afebad16f4#ref=rss)
-### füchsen
-
-* [https://www.spiegel.de/sport/handball/dika-mem-zu-den-fuechsen-einer-der-weltbesten-handballer-spielt-kuenftig-in-berlin](https://www.spiegel.de/sport/handball/dika-mem-zu-den-fuechsen-einer-der-weltbesten-handballer-spielt-kuenftig-in-berlin-a-b7b2a9c7-ef33-458b-8237-14afebad16f4#ref=rss)
-### spielt
-
-* [https://www.spiegel.de/sport/handball/dika-mem-zu-den-fuechsen-einer-der-weltbesten-handballer-spielt-kuenftig-in-berlin](https://www.spiegel.de/sport/handball/dika-mem-zu-den-fuechsen-einer-der-weltbesten-handballer-spielt-kuenftig-in-berlin-a-b7b2a9c7-ef33-458b-8237-14afebad16f4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-beraet-ueber-wegner-und-stromausfall](https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-beraet-ueber-wegner-und-stromausfall-a-701ff287-1a2d-477c-8d22-38c51a154359#ref=rss)
-### separatistenführer
-
-* [https://www.spiegel.de/ausland/jemen-separatistenfuehrer-aidarus-al-subaidi-flieht-aus-dem-jemen](https://www.spiegel.de/ausland/jemen-separatistenfuehrer-aidarus-al-subaidi-flieht-aus-dem-jemen-a-4977886d-c999-496a-a942-80c4be2f5c5f#ref=rss)
-### partner
-
-* [https://www.spiegel.de/ausland/jemen-separatistenfuehrer-aidarus-al-subaidi-flieht-aus-dem-jemen](https://www.spiegel.de/ausland/jemen-separatistenfuehrer-aidarus-al-subaidi-flieht-aus-dem-jemen-a-4977886d-c999-496a-a942-80c4be2f5c5f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jodie-foster-spricht-ueber-loewenangriff-bei-dreharbeiten](https://www.spiegel.de/panorama/leute/jodie-foster-spricht-ueber-loewenangriff-bei-dreharbeiten-a-eaae20e4-c71e-42af-847e-c73e9c2df6aa#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab](https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab-a-5bbc6ba2-1e63-42e9-9368-471c461c412e#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab](https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab-a-5bbc6ba2-1e63-42e9-9368-471c461c412e#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-fast-minus-20-grad-im-osten-heftige-schneefaelle-erwartet](https://www.spiegel.de/panorama/wetter-in-deutschland-fast-minus-20-grad-im-osten-heftige-schneefaelle-erwartet-a-36e08753-a50b-41b7-9d37-2c0a0fda20d6#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab](https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab-a-5bbc6ba2-1e63-42e9-9368-471c461c412e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/brandenburg-zwei-verbliebene-bsw-minister-verlassen-ebenfalls-partei](https://www.spiegel.de/politik/deutschland/brandenburg-zwei-verbliebene-bsw-minister-verlassen-ebenfalls-partei-a-29fb2b89-3bc3-481a-a347-a11accc1aa6d#ref=rss)
-### peking
-
-* [https://www.spiegel.de/ausland/beschlagnahmter-oeltanker-china-wirft-den-usa-verstoss-gegen-voelkerrecht-vor](https://www.spiegel.de/ausland/beschlagnahmter-oeltanker-china-wirft-den-usa-verstoss-gegen-voelkerrecht-vor-a-23aba315-cdd1-44ba-b885-8d75c5bc37fb#ref=rss)
-### heftige
-
-* [https://www.spiegel.de/ausland/beschlagnahmter-oeltanker-china-wirft-den-usa-verstoss-gegen-voelkerrecht-vor](https://www.spiegel.de/ausland/beschlagnahmter-oeltanker-china-wirft-den-usa-verstoss-gegen-voelkerrecht-vor-a-23aba315-cdd1-44ba-b885-8d75c5bc37fb#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-fast-minus-20-grad-im-osten-heftige-schneefaelle-erwartet](https://www.spiegel.de/panorama/wetter-in-deutschland-fast-minus-20-grad-im-osten-heftige-schneefaelle-erwartet-a-36e08753-a50b-41b7-9d37-2c0a0fda20d6#ref=rss)
-### nennt
-
-* [https://www.spiegel.de/ausland/beschlagnahmter-oeltanker-china-wirft-den-usa-verstoss-gegen-voelkerrecht-vor](https://www.spiegel.de/ausland/beschlagnahmter-oeltanker-china-wirft-den-usa-verstoss-gegen-voelkerrecht-vor-a-23aba315-cdd1-44ba-b885-8d75c5bc37fb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-usa-ziehen-sich-aus-66-internationalen-organisationen-zurueck](https://www.spiegel.de/ausland/donald-trump-usa-ziehen-sich-aus-66-internationalen-organisationen-zurueck-a-ac3e3ee5-770b-4f60-9d4c-e07ab4b3f581#ref=rss)
-### fast
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-fast-minus-20-grad-im-osten-heftige-schneefaelle-erwartet](https://www.spiegel.de/panorama/wetter-in-deutschland-fast-minus-20-grad-im-osten-heftige-schneefaelle-erwartet-a-36e08753-a50b-41b7-9d37-2c0a0fda20d6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-sendet-hoffnungszeichen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-sendet-hoffnungszeichen-a-d095c6cc-9414-46a0-810f-941c87008bbd#ref=rss)
-### minus
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-fast-minus-20-grad-im-osten-heftige-schneefaelle-erwartet](https://www.spiegel.de/panorama/wetter-in-deutschland-fast-minus-20-grad-im-osten-heftige-schneefaelle-erwartet-a-36e08753-a50b-41b7-9d37-2c0a0fda20d6#ref=rss)
-### grad
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-fast-minus-20-grad-im-osten-heftige-schneefaelle-erwartet](https://www.spiegel.de/panorama/wetter-in-deutschland-fast-minus-20-grad-im-osten-heftige-schneefaelle-erwartet-a-36e08753-a50b-41b7-9d37-2c0a0fda20d6#ref=rss)
-### kennedy
-
-* [https://www.spiegel.de/ausland/usa-robert-f-kennedy-jr-veroeffentlicht-ernaehrungsrichtlinie-fuer-mehr-gesundheit](https://www.spiegel.de/ausland/usa-robert-f-kennedy-jr-veroeffentlicht-ernaehrungsrichtlinie-fuer-mehr-gesundheit-a-a71d0676-f6c5-4753-a3ce-b1533cfe0a35#ref=rss)
+* [https://www.spiegel.de/reise/schnee-in-hamburg-wie-der-schnee-selbst-die-haesslichsten-strassen-veraendert](https://www.spiegel.de/reise/schnee-in-hamburg-wie-der-schnee-selbst-die-haesslichsten-strassen-veraendert-a-963aef76-d6d3-4240-ac2f-e61d8840e04d#ref=rss)
+* [https://www.spiegel.de/panorama/sturm-tief-elli-was-tun-bei-einem-schneesturm](https://www.spiegel.de/panorama/sturm-tief-elli-was-tun-bei-einem-schneesturm-a-2a1d1cb1-2dfa-4359-9bc0-c71ed228737a#ref=rss)
+* [https://www.spiegel.de/auto/winterwetter-wie-man-mit-dem-auto-sicher-durch-eis-und-schnee-kommt](https://www.spiegel.de/auto/winterwetter-wie-man-mit-dem-auto-sicher-durch-eis-und-schnee-kommt-a-a9bdc809-fe43-4d3e-ad00-3ab5a1978ad3#ref=rss)
 ### grönland
 
-* [https://www.spiegel.de/ausland/usa-republikanischer-senator-warnt-vor-raketenmaessig-dummem-angriff-auf-groenland](https://www.spiegel.de/ausland/usa-republikanischer-senator-warnt-vor-raketenmaessig-dummem-angriff-auf-groenland-a-d49fa0d3-0af3-4bcd-bd6f-d863264c2266#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/us-militaer-und-groenland-plaene-von-donald-trump-wer-hat-welche-waffen-in-der-arktis](https://www.spiegel.de/wissenschaft/mensch/us-militaer-und-groenland-plaene-von-donald-trump-wer-hat-welche-waffen-in-der-arktis-a-6533b796-5f87-43a2-8f44-8f2e8ac6c824#ref=rss)
-### nazitümelei
+* [https://www.spiegel.de/ausland/usa-was-trump-mit-groenland-vorhat](https://www.spiegel.de/ausland/usa-was-trump-mit-groenland-vorhat-a-8b49f0e6-6863-4d31-897a-912753d39c71#ref=rss)
+* [https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat](https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat-a-fc4dd90a-5ac1-41a2-959e-9ddd2f51ce2e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-entfesselter-imperialismus-welt-am-wendepunkt](https://www.spiegel.de/ausland/donald-trump-und-sein-entfesselter-imperialismus-welt-am-wendepunkt-a-4e747cf0-2e2d-4b06-90f9-36e5b2f8bd49#ref=rss)
+### usa
 
-* [https://www.spiegel.de/politik/deutschland/militaerhistoriker-soenke-neitzel-spricht-ueber-eliteeinheiten](https://www.spiegel.de/politik/deutschland/militaerhistoriker-soenke-neitzel-spricht-ueber-eliteeinheiten-a-2210f291-ca8c-4c28-9b79-80955b2c70ec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht](https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht-a-1e7d5161-0ed6-4179-861e-34ef5a55be12#ref=rss)
-### brandenburg
+* [https://www.spiegel.de/ausland/usa-was-trump-mit-groenland-vorhat](https://www.spiegel.de/ausland/usa-was-trump-mit-groenland-vorhat-a-8b49f0e6-6863-4d31-897a-912753d39c71#ref=rss)
+* [https://www.spiegel.de/panorama/usa-vs-venezuela-dieser-angriff-war-ein-voelkerrechtsverbrechen](https://www.spiegel.de/panorama/usa-vs-venezuela-dieser-angriff-war-ein-voelkerrechtsverbrechen-a-b65c66f9-6f50-40fc-876b-1470a450b45d#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-entfesselter-imperialismus-welt-am-wendepunkt](https://www.spiegel.de/ausland/donald-trump-und-sein-entfesselter-imperialismus-welt-am-wendepunkt-a-4e747cf0-2e2d-4b06-90f9-36e5b2f8bd49#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/deutschland/brandenburg-zwei-verbliebene-bsw-minister-verlassen-ebenfalls-partei](https://www.spiegel.de/politik/deutschland/brandenburg-zwei-verbliebene-bsw-minister-verlassen-ebenfalls-partei-a-29fb2b89-3bc3-481a-a347-a11accc1aa6d#ref=rss)
-### ebenfalls
+* [https://www.spiegel.de/ausland/usa-was-trump-mit-groenland-vorhat](https://www.spiegel.de/ausland/usa-was-trump-mit-groenland-vorhat-a-8b49f0e6-6863-4d31-897a-912753d39c71#ref=rss)
+* [https://www.spiegel.de/ausland/ice-einsatz-in-minneapolis-frau-per-kopfschuss-im-auto-getoetet-donald-trump-nennt-es-notwehr](https://www.spiegel.de/ausland/ice-einsatz-in-minneapolis-frau-per-kopfschuss-im-auto-getoetet-donald-trump-nennt-es-notwehr-a-c9f0685c-6910-4ee9-ae5f-2ce7d82364e5#ref=rss)
+* [https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat](https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat-a-fc4dd90a-5ac1-41a2-959e-9ddd2f51ce2e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-entfesselter-imperialismus-welt-am-wendepunkt](https://www.spiegel.de/ausland/donald-trump-und-sein-entfesselter-imperialismus-welt-am-wendepunkt-a-4e747cf0-2e2d-4b06-90f9-36e5b2f8bd49#ref=rss)
+### sturmtief
 
-* [https://www.spiegel.de/politik/deutschland/brandenburg-zwei-verbliebene-bsw-minister-verlassen-ebenfalls-partei](https://www.spiegel.de/politik/deutschland/brandenburg-zwei-verbliebene-bsw-minister-verlassen-ebenfalls-partei-a-29fb2b89-3bc3-481a-a347-a11accc1aa6d#ref=rss)
-* [https://www.spiegel.de/ausland/nicolas-maduro-ehefrau-cilia-flores-mehr-als-eine-first-lady](https://www.spiegel.de/ausland/nicolas-maduro-ehefrau-cilia-flores-mehr-als-eine-first-lady-a-638fad00-7cec-43e9-8567-85278d0efc1b#ref=rss)
-### zeigen
+* [https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab](https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab-a-5bbc6ba2-1e63-42e9-9368-471c461c412e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wintersturm-ueber-deutschland-skandal-bei-der-bundeswehr-jojo-effekt-bei-abnehmspritzen](https://www.spiegel.de/politik/deutschland/news-des-tages-wintersturm-ueber-deutschland-skandal-bei-der-bundeswehr-jojo-effekt-bei-abnehmspritzen-a-b4c6076e-aa04-4868-add0-fc3f7416a5f3#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-unwetterwarnung-fuer-norddeutschland-wegen-schneefall](https://www.spiegel.de/panorama/wetter-in-deutschland-unwetterwarnung-fuer-norddeutschland-wegen-schneefall-a-f569b677-cfc6-42c8-ba79-d6cece03c432#ref=rss)
+* [https://www.spiegel.de/panorama/sturm-tief-elli-was-tun-bei-einem-schneesturm](https://www.spiegel.de/panorama/sturm-tief-elli-was-tun-bei-einem-schneesturm-a-2a1d1cb1-2dfa-4359-9bc0-c71ed228737a#ref=rss)
+### elli
 
-* [https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht](https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht-a-1e7d5161-0ed6-4179-861e-34ef5a55be12#ref=rss)
-### lange
+* [https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab](https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab-a-5bbc6ba2-1e63-42e9-9368-471c461c412e#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-unwetterwarnung-fuer-norddeutschland-wegen-schneefall](https://www.spiegel.de/panorama/wetter-in-deutschland-unwetterwarnung-fuer-norddeutschland-wegen-schneefall-a-f569b677-cfc6-42c8-ba79-d6cece03c432#ref=rss)
+* [https://www.spiegel.de/panorama/sturm-tief-elli-was-tun-bei-einem-schneesturm](https://www.spiegel.de/panorama/sturm-tief-elli-was-tun-bei-einem-schneesturm-a-2a1d1cb1-2dfa-4359-9bc0-c71ed228737a#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht](https://www.spiegel.de/politik/deutschland/skandal-bei-der-bundeswehr-soldaten-zeigen-den-hitlergruss-und-frauen-wird-mit-vergewaltigung-gedroht-a-1e7d5161-0ed6-4179-861e-34ef5a55be12#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-deutet-us-aufsicht-ueber-venezuela-fuer-jahre-an](https://www.spiegel.de/ausland/donald-trump-deutet-us-aufsicht-ueber-venezuela-fuer-jahre-an-a-76b5f3f5-fae2-4400-973d-136cc0b7086e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-klausurtagung-in-seeon-ohne-die-csu-laeuft-nichts-in-der-koalition-glaubt-die-csu](https://www.spiegel.de/politik/deutschland/csu-klausurtagung-in-seeon-ohne-die-csu-laeuft-nichts-in-der-koalition-glaubt-die-csu-a-1e12bee5-3ea7-48a0-8941-fa5ea816530a#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-militaerregime-inszeniert-wahlen-ohne-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-militaerregime-inszeniert-wahlen-ohne-aung-san-suu-kyi-a-a8954990-6fb0-4f7e-adaf-748deae16b3d#ref=rss)
+* [https://www.spiegel.de/panorama/schweinfurt-katze-faehrt-tausende-kilometer-als-blinder-passagier-von-der-tuerkei](https://www.spiegel.de/panorama/schweinfurt-katze-faehrt-tausende-kilometer-als-blinder-passagier-von-der-tuerkei-a-c8039ff5-a7fe-498d-b0c9-48e945e5e01c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-kai-wegner-verteidigt-tennismatch-waehrend-stromausfall](https://www.spiegel.de/politik/deutschland/berlin-kai-wegner-verteidigt-tennismatch-waehrend-stromausfall-a-dfbc22be-77db-40bd-a2cc-6a03db4de880#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/deutschland/csu-klausurtagung-in-seeon-ohne-die-csu-laeuft-nichts-in-der-koalition-glaubt-die-csu](https://www.spiegel.de/politik/deutschland/csu-klausurtagung-in-seeon-ohne-die-csu-laeuft-nichts-in-der-koalition-glaubt-die-csu-a-1e12bee5-3ea7-48a0-8941-fa5ea816530a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/beba-und-alfamino-nestle-ruft-saeuglingsnahrung-in-weiteren-laendern-zurueck](https://www.spiegel.de/wirtschaft/service/beba-und-alfamino-nestle-ruft-saeuglingsnahrung-in-weiteren-laendern-zurueck-a-e58f4da8-4636-4ab6-87e1-ffd40dd89746#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilien-wohnungen-steigen-im-preis-so-stark-wie-seit-jahren-nicht-mehr](https://www.spiegel.de/wirtschaft/service/immobilien-wohnungen-steigen-im-preis-so-stark-wie-seit-jahren-nicht-mehr-a-e83ab5d6-c8e9-4697-bfe7-2feb74b85943#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-forscher-entdecken-rekord-asteroid](https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-forscher-entdecken-rekord-asteroid-a-8c7442fc-a29c-4389-b575-59d5b11112f1#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wintersturm-ueber-deutschland-skandal-bei-der-bundeswehr-jojo-effekt-bei-abnehmspritzen](https://www.spiegel.de/politik/deutschland/news-des-tages-wintersturm-ueber-deutschland-skandal-bei-der-bundeswehr-jojo-effekt-bei-abnehmspritzen-a-b4c6076e-aa04-4868-add0-fc3f7416a5f3#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-unwetterwarnung-fuer-norddeutschland-wegen-schneefall](https://www.spiegel.de/panorama/wetter-in-deutschland-unwetterwarnung-fuer-norddeutschland-wegen-schneefall-a-f569b677-cfc6-42c8-ba79-d6cece03c432#ref=rss)
+* [https://www.spiegel.de/panorama/sturm-tief-elli-was-tun-bei-einem-schneesturm](https://www.spiegel.de/panorama/sturm-tief-elli-was-tun-bei-einem-schneesturm-a-2a1d1cb1-2dfa-4359-9bc0-c71ed228737a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilien-wohnungen-steigen-im-preis-so-stark-wie-seit-jahren-nicht-mehr](https://www.spiegel.de/wirtschaft/service/immobilien-wohnungen-steigen-im-preis-so-stark-wie-seit-jahren-nicht-mehr-a-e83ab5d6-c8e9-4697-bfe7-2feb74b85943#ref=rss)
 ### venezuela
 
-* [https://www.spiegel.de/ausland/donald-trump-deutet-us-aufsicht-ueber-venezuela-fuer-jahre-an](https://www.spiegel.de/ausland/donald-trump-deutet-us-aufsicht-ueber-venezuela-fuer-jahre-an-a-76b5f3f5-fae2-4400-973d-136cc0b7086e#ref=rss)
-### staatschef
+* [https://www.spiegel.de/panorama/usa-vs-venezuela-dieser-angriff-war-ein-voelkerrechtsverbrechen](https://www.spiegel.de/panorama/usa-vs-venezuela-dieser-angriff-war-ein-voelkerrechtsverbrechen-a-b65c66f9-6f50-40fc-876b-1470a450b45d#ref=rss)
+* [https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat](https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat-a-fc4dd90a-5ac1-41a2-959e-9ddd2f51ce2e#ref=rss)
+### chatgpt
 
-* [https://www.spiegel.de/ausland/donald-trump-deutet-us-aufsicht-ueber-venezuela-fuer-jahre-an](https://www.spiegel.de/ausland/donald-trump-deutet-us-aufsicht-ueber-venezuela-fuer-jahre-an-a-76b5f3f5-fae2-4400-973d-136cc0b7086e#ref=rss)
-* [https://www.spiegel.de/ausland/nicolas-maduro-ehefrau-cilia-flores-mehr-als-eine-first-lady](https://www.spiegel.de/ausland/nicolas-maduro-ehefrau-cilia-flores-mehr-als-eine-first-lady-a-638fad00-7cec-43e9-8567-85278d0efc1b#ref=rss)
-### präsident
+* [https://www.spiegel.de/panorama/zwolle-hochzeit-in-den-niederlanden-ungueltig-weil-chatgpt-nicht-den-richtigen-eheschwur-verwendete](https://www.spiegel.de/panorama/zwolle-hochzeit-in-den-niederlanden-ungueltig-weil-chatgpt-nicht-den-richtigen-eheschwur-verwendete-a-fe3e5698-232d-4a8e-9c19-db6403026991#ref=rss)
+* [https://www.spiegel.de/netzwelt/chatgpt-soll-zum-gesundheitsberater-werden](https://www.spiegel.de/netzwelt/chatgpt-soll-zum-gesundheitsberater-werden-a-a0130eed-2e75-4ddb-82e8-d975eaeb9b98#ref=rss)
+### aufs
 
-* [https://www.spiegel.de/ausland/donald-trump-deutet-us-aufsicht-ueber-venezuela-fuer-jahre-an](https://www.spiegel.de/ausland/donald-trump-deutet-us-aufsicht-ueber-venezuela-fuer-jahre-an-a-76b5f3f5-fae2-4400-973d-136cc0b7086e#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-frau-stirbt-nach-schuessen-durch-ice-beamte-in-ihrem-auto](https://www.spiegel.de/ausland/minneapolis-frau-stirbt-nach-schuessen-durch-ice-beamte-in-ihrem-auto-a-e900ec93-d7f7-4674-b30e-55f77c7bb9dd#ref=rss)
-### lionel
+* [https://www.spiegel.de/ausland/usa-was-trump-mit-groenland-vorhat](https://www.spiegel.de/ausland/usa-was-trump-mit-groenland-vorhat-a-8b49f0e6-6863-4d31-897a-912753d39c71#ref=rss)
+* [https://www.spiegel.de/auto/winterwetter-wie-man-mit-dem-auto-sicher-durch-eis-und-schnee-kommt](https://www.spiegel.de/auto/winterwetter-wie-man-mit-dem-auto-sicher-durch-eis-und-schnee-kommt-a-a9bdc809-fe43-4d3e-ad00-3ab5a1978ad3#ref=rss)
+### alle
 
-* [https://www.spiegel.de/sport/fussball/lionel-messi-will-nach-seinem-karriereende-kein-trainer-werden-sondern-klubbesitzer](https://www.spiegel.de/sport/fussball/lionel-messi-will-nach-seinem-karriereende-kein-trainer-werden-sondern-klubbesitzer-a-e25862ca-00b3-476a-b68e-ce095ecb2332#ref=rss)
-### messi
+* [https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab](https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab-a-5bbc6ba2-1e63-42e9-9368-471c461c412e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/erfurt-thueringen-bodo-ramelow-wirft-zalando-raubtierkapitalismus-vor](https://www.spiegel.de/wirtschaft/unternehmen/erfurt-thueringen-bodo-ramelow-wirft-zalando-raubtierkapitalismus-vor-a-6f070a3c-61f5-4d1b-8751-e4a562eb2429#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-forscher-entdecken-rekord-asteroid](https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-forscher-entdecken-rekord-asteroid-a-8c7442fc-a29c-4389-b575-59d5b11112f1#ref=rss)
+### ministerpräsident
 
-* [https://www.spiegel.de/sport/fussball/lionel-messi-will-nach-seinem-karriereende-kein-trainer-werden-sondern-klubbesitzer](https://www.spiegel.de/sport/fussball/lionel-messi-will-nach-seinem-karriereende-kein-trainer-werden-sondern-klubbesitzer-a-e25862ca-00b3-476a-b68e-ce095ecb2332#ref=rss)
-### schlechte
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-das-kalkuel-hinter-dem-haseloff-manoever](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-das-kalkuel-hinter-dem-haseloff-manoever-a-7f42e402-3f71-4c25-9211-2ab445987a69#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-will-amt-als-ministerpraesident-vorzeitig-abgeben](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-will-amt-als-ministerpraesident-vorzeitig-abgeben-a-43d33d9e-1a90-481a-9db1-d17b9056fe95#ref=rss)
+### haseloff
 
-* [https://www.spiegel.de/sport/fussball/lionel-messi-will-nach-seinem-karriereende-kein-trainer-werden-sondern-klubbesitzer](https://www.spiegel.de/sport/fussball/lionel-messi-will-nach-seinem-karriereende-kein-trainer-werden-sondern-klubbesitzer-a-e25862ca-00b3-476a-b68e-ce095ecb2332#ref=rss)
-* [https://www.spiegel.de/panorama/krisen-zu-jahresbeginn-fasst-mehr-schlechte-vorsaetze-kolumne-von-jochen-martin-gutsch](https://www.spiegel.de/panorama/krisen-zu-jahresbeginn-fasst-mehr-schlechte-vorsaetze-kolumne-von-jochen-martin-gutsch-a-e65a59bc-1b34-4e9e-8b86-b7ac4fccf36b#ref=rss)
-### zeit
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-das-kalkuel-hinter-dem-haseloff-manoever](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-das-kalkuel-hinter-dem-haseloff-manoever-a-7f42e402-3f71-4c25-9211-2ab445987a69#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-will-amt-als-ministerpraesident-vorzeitig-abgeben](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-will-amt-als-ministerpraesident-vorzeitig-abgeben-a-43d33d9e-1a90-481a-9db1-d17b9056fe95#ref=rss)
+### csu
 
-* [https://www.spiegel.de/sport/fussball/lionel-messi-will-nach-seinem-karriereende-kein-trainer-werden-sondern-klubbesitzer](https://www.spiegel.de/sport/fussball/lionel-messi-will-nach-seinem-karriereende-kein-trainer-werden-sondern-klubbesitzer-a-e25862ca-00b3-476a-b68e-ce095ecb2332#ref=rss)
-* [https://www.spiegel.de/sport/fussball/kevin-keegan-englands-fussballidol-an-krebs-erkrankt](https://www.spiegel.de/sport/fussball/kevin-keegan-englands-fussballidol-an-krebs-erkrankt-a-61694779-d123-4d2b-9262-ff9a48463d22#ref=rss)
-### paramount
+* [https://www.spiegel.de/politik/deutschland/csu-klausurtagung-in-seeon-ohne-die-csu-laeuft-nichts-in-der-koalition-glaubt-die-csu](https://www.spiegel.de/politik/deutschland/csu-klausurtagung-in-seeon-ohne-die-csu-laeuft-nichts-in-der-koalition-glaubt-die-csu-a-1e12bee5-3ea7-48a0-8941-fa5ea816530a#ref=rss)
+### woche
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-lehnt-uebernahmeangebot-von-paramount-ab-und-will-deal-mit-netflix](https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-lehnt-uebernahmeangebot-von-paramount-ab-und-will-deal-mit-netflix-a-c720bd34-ea89-4c18-a26e-4fd2f8d5c4b3#ref=rss)
-### warner
+* [https://www.spiegel.de/politik/deutschland/csu-klausurtagung-in-seeon-ohne-die-csu-laeuft-nichts-in-der-koalition-glaubt-die-csu](https://www.spiegel.de/politik/deutschland/csu-klausurtagung-in-seeon-ohne-die-csu-laeuft-nichts-in-der-koalition-glaubt-die-csu-a-1e12bee5-3ea7-48a0-8941-fa5ea816530a#ref=rss)
+* [https://www.spiegel.de/panorama/schweinfurt-katze-faehrt-tausende-kilometer-als-blinder-passagier-von-der-tuerkei](https://www.spiegel.de/panorama/schweinfurt-katze-faehrt-tausende-kilometer-als-blinder-passagier-von-der-tuerkei-a-c8039ff5-a7fe-498d-b0c9-48e945e5e01c#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-lehnt-uebernahmeangebot-von-paramount-ab-und-will-deal-mit-netflix](https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-lehnt-uebernahmeangebot-von-paramount-ab-und-will-deal-mit-netflix-a-c720bd34-ea89-4c18-a26e-4fd2f8d5c4b3#ref=rss)
-### bros
+* [https://www.spiegel.de/ausland/laurent-vinatier-aus-russischer-haft-zurueck-in-frankreich](https://www.spiegel.de/ausland/laurent-vinatier-aus-russischer-haft-zurueck-in-frankreich-a-c2d835b5-bd98-467a-962f-4bc267a22aad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immobilien-wohnungen-steigen-im-preis-so-stark-wie-seit-jahren-nicht-mehr](https://www.spiegel.de/wirtschaft/service/immobilien-wohnungen-steigen-im-preis-so-stark-wie-seit-jahren-nicht-mehr-a-e83ab5d6-c8e9-4697-bfe7-2feb74b85943#ref=rss)
+### verwendete
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-lehnt-uebernahmeangebot-von-paramount-ab-und-will-deal-mit-netflix](https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-lehnt-uebernahmeangebot-von-paramount-ab-und-will-deal-mit-netflix-a-c720bd34-ea89-4c18-a26e-4fd2f8d5c4b3#ref=rss)
-### netflix
+* [https://www.spiegel.de/panorama/zwolle-hochzeit-in-den-niederlanden-ungueltig-weil-chatgpt-nicht-den-richtigen-eheschwur-verwendete](https://www.spiegel.de/panorama/zwolle-hochzeit-in-den-niederlanden-ungueltig-weil-chatgpt-nicht-den-richtigen-eheschwur-verwendete-a-fe3e5698-232d-4a8e-9c19-db6403026991#ref=rss)
+### intelligenz
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-lehnt-uebernahmeangebot-von-paramount-ab-und-will-deal-mit-netflix](https://www.spiegel.de/wirtschaft/unternehmen/warner-bros-lehnt-uebernahmeangebot-von-paramount-ab-und-will-deal-mit-netflix-a-c720bd34-ea89-4c18-a26e-4fd2f8d5c4b3#ref=rss)
-### auto
+* [https://www.spiegel.de/panorama/zwolle-hochzeit-in-den-niederlanden-ungueltig-weil-chatgpt-nicht-den-richtigen-eheschwur-verwendete](https://www.spiegel.de/panorama/zwolle-hochzeit-in-den-niederlanden-ungueltig-weil-chatgpt-nicht-den-richtigen-eheschwur-verwendete-a-fe3e5698-232d-4a8e-9c19-db6403026991#ref=rss)
+* [https://www.spiegel.de/netzwelt/cyberagentur-enisa-eu-sicherheitsbehoerde-blamiert-sich-mit-ki-einsatz](https://www.spiegel.de/netzwelt/cyberagentur-enisa-eu-sicherheitsbehoerde-blamiert-sich-mit-ki-einsatz-a-5d7c0ab2-71cd-458a-b503-4e0d12ac4518#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/ausland/minneapolis-frau-stirbt-nach-schuessen-durch-ice-beamte-in-ihrem-auto](https://www.spiegel.de/ausland/minneapolis-frau-stirbt-nach-schuessen-durch-ice-beamte-in-ihrem-auto-a-e900ec93-d7f7-4674-b30e-55f77c7bb9dd#ref=rss)
-### spd
+* [https://www.spiegel.de/ausland/usa-was-trump-mit-groenland-vorhat](https://www.spiegel.de/ausland/usa-was-trump-mit-groenland-vorhat-a-8b49f0e6-6863-4d31-897a-912753d39c71#ref=rss)
+* [https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat](https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat-a-fc4dd90a-5ac1-41a2-959e-9ddd2f51ce2e#ref=rss)
+### macht
 
-* [https://www.spiegel.de/politik/deutschland/spd-fraktionsklausur-abgeordnete-fordern-bleiberecht-fuer-fluechtlinge-mit-job](https://www.spiegel.de/politik/deutschland/spd-fraktionsklausur-abgeordnete-fordern-bleiberecht-fuer-fluechtlinge-mit-job-a-cb6c6d35-20ae-45b7-bead-0ad71b2966a8#ref=rss)
-### sache
+* [https://www.spiegel.de/ausland/usa-was-trump-mit-groenland-vorhat](https://www.spiegel.de/ausland/usa-was-trump-mit-groenland-vorhat-a-8b49f0e6-6863-4d31-897a-912753d39c71#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/erfurt-thueringen-bodo-ramelow-wirft-zalando-raubtierkapitalismus-vor](https://www.spiegel.de/wirtschaft/unternehmen/erfurt-thueringen-bodo-ramelow-wirft-zalando-raubtierkapitalismus-vor-a-6f070a3c-61f5-4d1b-8751-e4a562eb2429#ref=rss)
+### setzt
 
-* [https://www.spiegel.de/panorama/krisen-zu-jahresbeginn-fasst-mehr-schlechte-vorsaetze-kolumne-von-jochen-martin-gutsch](https://www.spiegel.de/panorama/krisen-zu-jahresbeginn-fasst-mehr-schlechte-vorsaetze-kolumne-von-jochen-martin-gutsch-a-e65a59bc-1b34-4e9e-8b86-b7ac4fccf36b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-beraet-ueber-wegner-und-stromausfall](https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-beraet-ueber-wegner-und-stromausfall-a-701ff287-1a2d-477c-8d22-38c51a154359#ref=rss)
-### arktis
+* [https://www.spiegel.de/ausland/usa-was-trump-mit-groenland-vorhat](https://www.spiegel.de/ausland/usa-was-trump-mit-groenland-vorhat-a-8b49f0e6-6863-4d31-897a-912753d39c71#ref=rss)
+* [https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab](https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab-a-5bbc6ba2-1e63-42e9-9368-471c461c412e#ref=rss)
+### schneesturm
 
-* [https://www.spiegel.de/wissenschaft/mensch/us-militaer-und-groenland-plaene-von-donald-trump-wer-hat-welche-waffen-in-der-arktis](https://www.spiegel.de/wissenschaft/mensch/us-militaer-und-groenland-plaene-von-donald-trump-wer-hat-welche-waffen-in-der-arktis-a-6533b796-5f87-43a2-8f44-8f2e8ac6c824#ref=rss)
-### cilia
+* [https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab](https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab-a-5bbc6ba2-1e63-42e9-9368-471c461c412e#ref=rss)
+* [https://www.spiegel.de/panorama/sturm-tief-elli-was-tun-bei-einem-schneesturm](https://www.spiegel.de/panorama/sturm-tief-elli-was-tun-bei-einem-schneesturm-a-2a1d1cb1-2dfa-4359-9bc0-c71ed228737a#ref=rss)
+### knapp
 
-* [https://www.spiegel.de/ausland/nicolas-maduro-ehefrau-cilia-flores-mehr-als-eine-first-lady](https://www.spiegel.de/ausland/nicolas-maduro-ehefrau-cilia-flores-mehr-als-eine-first-lady-a-638fad00-7cec-43e9-8567-85278d0efc1b#ref=rss)
-### flores
+* [https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab](https://www.spiegel.de/panorama/schneesturm-heute-im-live-blog-cdu-sagt-bundesvorstandsklausur-in-mainz-wegen-wetters-ab-a-5bbc6ba2-1e63-42e9-9368-471c461c412e#ref=rss)
+* [https://www.spiegel.de/panorama/schweinfurt-katze-faehrt-tausende-kilometer-als-blinder-passagier-von-der-tuerkei](https://www.spiegel.de/panorama/schweinfurt-katze-faehrt-tausende-kilometer-als-blinder-passagier-von-der-tuerkei-a-c8039ff5-a7fe-498d-b0c9-48e945e5e01c#ref=rss)
+### sachsenanhalt
 
-* [https://www.spiegel.de/ausland/nicolas-maduro-ehefrau-cilia-flores-mehr-als-eine-first-lady](https://www.spiegel.de/ausland/nicolas-maduro-ehefrau-cilia-flores-mehr-als-eine-first-lady-a-638fad00-7cec-43e9-8567-85278d0efc1b#ref=rss)
-### first
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-das-kalkuel-hinter-dem-haseloff-manoever](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-das-kalkuel-hinter-dem-haseloff-manoever-a-7f42e402-3f71-4c25-9211-2ab445987a69#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-will-amt-als-ministerpraesident-vorzeitig-abgeben](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-will-amt-als-ministerpraesident-vorzeitig-abgeben-a-43d33d9e-1a90-481a-9db1-d17b9056fe95#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/ausland/nicolas-maduro-ehefrau-cilia-flores-mehr-als-eine-first-lady](https://www.spiegel.de/ausland/nicolas-maduro-ehefrau-cilia-flores-mehr-als-eine-first-lady-a-638fad00-7cec-43e9-8567-85278d0efc1b#ref=rss)
-### lady
+* [https://www.spiegel.de/reise/schnee-in-hamburg-wie-der-schnee-selbst-die-haesslichsten-strassen-veraendert](https://www.spiegel.de/reise/schnee-in-hamburg-wie-der-schnee-selbst-die-haesslichsten-strassen-veraendert-a-963aef76-d6d3-4240-ac2f-e61d8840e04d#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/ausland/nicolas-maduro-ehefrau-cilia-flores-mehr-als-eine-first-lady](https://www.spiegel.de/ausland/nicolas-maduro-ehefrau-cilia-flores-mehr-als-eine-first-lady-a-638fad00-7cec-43e9-8567-85278d0efc1b#ref=rss)
-### jodie
+* [https://www.spiegel.de/reise/schnee-in-hamburg-wie-der-schnee-selbst-die-haesslichsten-strassen-veraendert](https://www.spiegel.de/reise/schnee-in-hamburg-wie-der-schnee-selbst-die-haesslichsten-strassen-veraendert-a-963aef76-d6d3-4240-ac2f-e61d8840e04d#ref=rss)
+* [https://www.spiegel.de/netzwelt/cyberagentur-enisa-eu-sicherheitsbehoerde-blamiert-sich-mit-ki-einsatz](https://www.spiegel.de/netzwelt/cyberagentur-enisa-eu-sicherheitsbehoerde-blamiert-sich-mit-ki-einsatz-a-5d7c0ab2-71cd-458a-b503-4e0d12ac4518#ref=rss)
+### straßen
 
-* [https://www.spiegel.de/panorama/leute/jodie-foster-spricht-ueber-loewenangriff-bei-dreharbeiten](https://www.spiegel.de/panorama/leute/jodie-foster-spricht-ueber-loewenangriff-bei-dreharbeiten-a-eaae20e4-c71e-42af-847e-c73e9c2df6aa#ref=rss)
-### foster
+* [https://www.spiegel.de/reise/schnee-in-hamburg-wie-der-schnee-selbst-die-haesslichsten-strassen-veraendert](https://www.spiegel.de/reise/schnee-in-hamburg-wie-der-schnee-selbst-die-haesslichsten-strassen-veraendert-a-963aef76-d6d3-4240-ac2f-e61d8840e04d#ref=rss)
+### eigentlich
 
-* [https://www.spiegel.de/panorama/leute/jodie-foster-spricht-ueber-loewenangriff-bei-dreharbeiten](https://www.spiegel.de/panorama/leute/jodie-foster-spricht-ueber-loewenangriff-bei-dreharbeiten-a-eaae20e4-c71e-42af-847e-c73e9c2df6aa#ref=rss)
-### kevin
+* [https://www.spiegel.de/reise/schnee-in-hamburg-wie-der-schnee-selbst-die-haesslichsten-strassen-veraendert](https://www.spiegel.de/reise/schnee-in-hamburg-wie-der-schnee-selbst-die-haesslichsten-strassen-veraendert-a-963aef76-d6d3-4240-ac2f-e61d8840e04d#ref=rss)
+* [https://www.spiegel.de/panorama/usa-vs-venezuela-dieser-angriff-war-ein-voelkerrechtsverbrechen](https://www.spiegel.de/panorama/usa-vs-venezuela-dieser-angriff-war-ein-voelkerrechtsverbrechen-a-b65c66f9-6f50-40fc-876b-1470a450b45d#ref=rss)
+### freestyle
 
-* [https://www.spiegel.de/sport/fussball/kevin-keegan-englands-fussballidol-an-krebs-erkrankt](https://www.spiegel.de/sport/fussball/kevin-keegan-englands-fussballidol-an-krebs-erkrankt-a-61694779-d123-4d2b-9262-ff9a48463d22#ref=rss)
-### keegan
+* [https://www.spiegel.de/sport/schach/freestyle-chess-warum-schach-star-magnus-carlsen-eine-neue-wm-chance-bekommt](https://www.spiegel.de/sport/schach/freestyle-chess-warum-schach-star-magnus-carlsen-eine-neue-wm-chance-bekommt-a-876b5c8a-1a29-4dce-b130-a658a4f4d59b#ref=rss)
+### chess
 
-* [https://www.spiegel.de/sport/fussball/kevin-keegan-englands-fussballidol-an-krebs-erkrankt](https://www.spiegel.de/sport/fussball/kevin-keegan-englands-fussballidol-an-krebs-erkrankt-a-61694779-d123-4d2b-9262-ff9a48463d22#ref=rss)
-### krebs
+* [https://www.spiegel.de/sport/schach/freestyle-chess-warum-schach-star-magnus-carlsen-eine-neue-wm-chance-bekommt](https://www.spiegel.de/sport/schach/freestyle-chess-warum-schach-star-magnus-carlsen-eine-neue-wm-chance-bekommt-a-876b5c8a-1a29-4dce-b130-a658a4f4d59b#ref=rss)
+### militärregime
 
-* [https://www.spiegel.de/sport/fussball/kevin-keegan-englands-fussballidol-an-krebs-erkrankt](https://www.spiegel.de/sport/fussball/kevin-keegan-englands-fussballidol-an-krebs-erkrankt-a-61694779-d123-4d2b-9262-ff9a48463d22#ref=rss)
-### nvidia
+* [https://www.spiegel.de/ausland/myanmar-militaerregime-inszeniert-wahlen-ohne-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-militaerregime-inszeniert-wahlen-ohne-aung-san-suu-kyi-a-a8954990-6fb0-4f7e-adaf-748deae16b3d#ref=rss)
+### inszeniert
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verlangt-in-china-offenbar-vorkasse-fuer-h200-chips](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verlangt-in-china-offenbar-vorkasse-fuer-h200-chips-a-ae8bdd00-d931-475b-8b18-375aa5ddb009#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-militaerregime-inszeniert-wahlen-ohne-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-militaerregime-inszeniert-wahlen-ohne-aung-san-suu-kyi-a-a8954990-6fb0-4f7e-adaf-748deae16b3d#ref=rss)
+### aung
+
+* [https://www.spiegel.de/ausland/myanmar-militaerregime-inszeniert-wahlen-ohne-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-militaerregime-inszeniert-wahlen-ohne-aung-san-suu-kyi-a-a8954990-6fb0-4f7e-adaf-748deae16b3d#ref=rss)
+### san
+
+* [https://www.spiegel.de/ausland/myanmar-militaerregime-inszeniert-wahlen-ohne-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-militaerregime-inszeniert-wahlen-ohne-aung-san-suu-kyi-a-a8954990-6fb0-4f7e-adaf-748deae16b3d#ref=rss)
+### suu
+
+* [https://www.spiegel.de/ausland/myanmar-militaerregime-inszeniert-wahlen-ohne-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-militaerregime-inszeniert-wahlen-ohne-aung-san-suu-kyi-a-a8954990-6fb0-4f7e-adaf-748deae16b3d#ref=rss)
+### kyi
+
+* [https://www.spiegel.de/ausland/myanmar-militaerregime-inszeniert-wahlen-ohne-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-militaerregime-inszeniert-wahlen-ohne-aung-san-suu-kyi-a-a8954990-6fb0-4f7e-adaf-748deae16b3d#ref=rss)
+### haft
+
+* [https://www.spiegel.de/ausland/myanmar-militaerregime-inszeniert-wahlen-ohne-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-militaerregime-inszeniert-wahlen-ohne-aung-san-suu-kyi-a-a8954990-6fb0-4f7e-adaf-748deae16b3d#ref=rss)
+* [https://www.spiegel.de/ausland/laurent-vinatier-aus-russischer-haft-zurueck-in-frankreich](https://www.spiegel.de/ausland/laurent-vinatier-aus-russischer-haft-zurueck-in-frankreich-a-c2d835b5-bd98-467a-962f-4bc267a22aad#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wintersturm-ueber-deutschland-skandal-bei-der-bundeswehr-jojo-effekt-bei-abnehmspritzen](https://www.spiegel.de/politik/deutschland/news-des-tages-wintersturm-ueber-deutschland-skandal-bei-der-bundeswehr-jojo-effekt-bei-abnehmspritzen-a-b4c6076e-aa04-4868-add0-fc3f7416a5f3#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### skandal
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wintersturm-ueber-deutschland-skandal-bei-der-bundeswehr-jojo-effekt-bei-abnehmspritzen](https://www.spiegel.de/politik/deutschland/news-des-tages-wintersturm-ueber-deutschland-skandal-bei-der-bundeswehr-jojo-effekt-bei-abnehmspritzen-a-b4c6076e-aa04-4868-add0-fc3f7416a5f3#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wintersturm-ueber-deutschland-skandal-bei-der-bundeswehr-jojo-effekt-bei-abnehmspritzen](https://www.spiegel.de/politik/deutschland/news-des-tages-wintersturm-ueber-deutschland-skandal-bei-der-bundeswehr-jojo-effekt-bei-abnehmspritzen-a-b4c6076e-aa04-4868-add0-fc3f7416a5f3#ref=rss)
+### abnehmspritzen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wintersturm-ueber-deutschland-skandal-bei-der-bundeswehr-jojo-effekt-bei-abnehmspritzen](https://www.spiegel.de/politik/deutschland/news-des-tages-wintersturm-ueber-deutschland-skandal-bei-der-bundeswehr-jojo-effekt-bei-abnehmspritzen-a-b4c6076e-aa04-4868-add0-fc3f7416a5f3#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wintersturm-ueber-deutschland-skandal-bei-der-bundeswehr-jojo-effekt-bei-abnehmspritzen](https://www.spiegel.de/politik/deutschland/news-des-tages-wintersturm-ueber-deutschland-skandal-bei-der-bundeswehr-jojo-effekt-bei-abnehmspritzen-a-b4c6076e-aa04-4868-add0-fc3f7416a5f3#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-unwetterwarnung-fuer-norddeutschland-wegen-schneefall](https://www.spiegel.de/panorama/wetter-in-deutschland-unwetterwarnung-fuer-norddeutschland-wegen-schneefall-a-f569b677-cfc6-42c8-ba79-d6cece03c432#ref=rss)
+### laurent
+
+* [https://www.spiegel.de/ausland/laurent-vinatier-aus-russischer-haft-zurueck-in-frankreich](https://www.spiegel.de/ausland/laurent-vinatier-aus-russischer-haft-zurueck-in-frankreich-a-c2d835b5-bd98-467a-962f-4bc267a22aad#ref=rss)
+### vinatier
+
+* [https://www.spiegel.de/ausland/laurent-vinatier-aus-russischer-haft-zurueck-in-frankreich](https://www.spiegel.de/ausland/laurent-vinatier-aus-russischer-haft-zurueck-in-frankreich-a-c2d835b5-bd98-467a-962f-4bc267a22aad#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/ausland/laurent-vinatier-aus-russischer-haft-zurueck-in-frankreich](https://www.spiegel.de/ausland/laurent-vinatier-aus-russischer-haft-zurueck-in-frankreich-a-c2d835b5-bd98-467a-962f-4bc267a22aad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/beba-und-alfamino-nestle-ruft-saeuglingsnahrung-in-weiteren-laendern-zurueck](https://www.spiegel.de/wirtschaft/service/beba-und-alfamino-nestle-ruft-saeuglingsnahrung-in-weiteren-laendern-zurueck-a-e58f4da8-4636-4ab6-87e1-ffd40dd89746#ref=rss)
+### wissenschaftler
+
+* [https://www.spiegel.de/ausland/laurent-vinatier-aus-russischer-haft-zurueck-in-frankreich](https://www.spiegel.de/ausland/laurent-vinatier-aus-russischer-haft-zurueck-in-frankreich-a-c2d835b5-bd98-467a-962f-4bc267a22aad#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-forscher-entdecken-rekord-asteroid](https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-forscher-entdecken-rekord-asteroid-a-8c7442fc-a29c-4389-b575-59d5b11112f1#ref=rss)
+### denken
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-unwetterwarnung-fuer-norddeutschland-wegen-schneefall](https://www.spiegel.de/panorama/wetter-in-deutschland-unwetterwarnung-fuer-norddeutschland-wegen-schneefall-a-f569b677-cfc6-42c8-ba79-d6cece03c432#ref=rss)
+* [https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat](https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat-a-fc4dd90a-5ac1-41a2-959e-9ddd2f51ce2e#ref=rss)
+### winter
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-unwetterwarnung-fuer-norddeutschland-wegen-schneefall](https://www.spiegel.de/panorama/wetter-in-deutschland-unwetterwarnung-fuer-norddeutschland-wegen-schneefall-a-f569b677-cfc6-42c8-ba79-d6cece03c432#ref=rss)
+* [https://www.spiegel.de/auto/winterwetter-wie-man-mit-dem-auto-sicher-durch-eis-und-schnee-kommt](https://www.spiegel.de/auto/winterwetter-wie-man-mit-dem-auto-sicher-durch-eis-und-schnee-kommt-a-a9bdc809-fe43-4d3e-ad00-3ab5a1978ad3#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verlangt-in-china-offenbar-vorkasse-fuer-h200-chips](https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verlangt-in-china-offenbar-vorkasse-fuer-h200-chips-a-ae8bdd00-d931-475b-8b18-375aa5ddb009#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/beckeln-jaeger-schiesst-auf-spaziergaengerin-in-niedersachsen](https://www.spiegel.de/panorama/justiz/beckeln-jaeger-schiesst-auf-spaziergaengerin-in-niedersachsen-a-93b5f892-b015-435e-8ff4-36f6421782ed#ref=rss)
-### rückzug
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-unwetterwarnung-fuer-norddeutschland-wegen-schneefall](https://www.spiegel.de/panorama/wetter-in-deutschland-unwetterwarnung-fuer-norddeutschland-wegen-schneefall-a-f569b677-cfc6-42c8-ba79-d6cece03c432#ref=rss)
+* [https://www.spiegel.de/panorama/schweinfurt-katze-faehrt-tausende-kilometer-als-blinder-passagier-von-der-tuerkei](https://www.spiegel.de/panorama/schweinfurt-katze-faehrt-tausende-kilometer-als-blinder-passagier-von-der-tuerkei-a-c8039ff5-a7fe-498d-b0c9-48e945e5e01c#ref=rss)
+### beba
 
-* [https://www.spiegel.de/ausland/donald-trump-usa-ziehen-sich-aus-66-internationalen-organisationen-zurueck](https://www.spiegel.de/ausland/donald-trump-usa-ziehen-sich-aus-66-internationalen-organisationen-zurueck-a-ac3e3ee5-770b-4f60-9d4c-e07ab4b3f581#ref=rss)
-### internationalen
+* [https://www.spiegel.de/wirtschaft/service/beba-und-alfamino-nestle-ruft-saeuglingsnahrung-in-weiteren-laendern-zurueck](https://www.spiegel.de/wirtschaft/service/beba-und-alfamino-nestle-ruft-saeuglingsnahrung-in-weiteren-laendern-zurueck-a-e58f4da8-4636-4ab6-87e1-ffd40dd89746#ref=rss)
+### alfamino
 
-* [https://www.spiegel.de/ausland/donald-trump-usa-ziehen-sich-aus-66-internationalen-organisationen-zurueck](https://www.spiegel.de/ausland/donald-trump-usa-ziehen-sich-aus-66-internationalen-organisationen-zurueck-a-ac3e3ee5-770b-4f60-9d4c-e07ab4b3f581#ref=rss)
-### organisationen
+* [https://www.spiegel.de/wirtschaft/service/beba-und-alfamino-nestle-ruft-saeuglingsnahrung-in-weiteren-laendern-zurueck](https://www.spiegel.de/wirtschaft/service/beba-und-alfamino-nestle-ruft-saeuglingsnahrung-in-weiteren-laendern-zurueck-a-e58f4da8-4636-4ab6-87e1-ffd40dd89746#ref=rss)
+### nestlé
 
-* [https://www.spiegel.de/ausland/donald-trump-usa-ziehen-sich-aus-66-internationalen-organisationen-zurueck](https://www.spiegel.de/ausland/donald-trump-usa-ziehen-sich-aus-66-internationalen-organisationen-zurueck-a-ac3e3ee5-770b-4f60-9d4c-e07ab4b3f581#ref=rss)
-### niedersachsen
+* [https://www.spiegel.de/wirtschaft/service/beba-und-alfamino-nestle-ruft-saeuglingsnahrung-in-weiteren-laendern-zurueck](https://www.spiegel.de/wirtschaft/service/beba-und-alfamino-nestle-ruft-saeuglingsnahrung-in-weiteren-laendern-zurueck-a-e58f4da8-4636-4ab6-87e1-ffd40dd89746#ref=rss)
+### ländern
 
-* [https://www.spiegel.de/panorama/justiz/beckeln-jaeger-schiesst-auf-spaziergaengerin-in-niedersachsen](https://www.spiegel.de/panorama/justiz/beckeln-jaeger-schiesst-auf-spaziergaengerin-in-niedersachsen-a-93b5f892-b015-435e-8ff4-36f6421782ed#ref=rss)
-### spaziergängerin
+* [https://www.spiegel.de/wirtschaft/service/beba-und-alfamino-nestle-ruft-saeuglingsnahrung-in-weiteren-laendern-zurueck](https://www.spiegel.de/wirtschaft/service/beba-und-alfamino-nestle-ruft-saeuglingsnahrung-in-weiteren-laendern-zurueck-a-e58f4da8-4636-4ab6-87e1-ffd40dd89746#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/panorama/justiz/beckeln-jaeger-schiesst-auf-spaziergaengerin-in-niedersachsen](https://www.spiegel.de/panorama/justiz/beckeln-jaeger-schiesst-auf-spaziergaengerin-in-niedersachsen-a-93b5f892-b015-435e-8ff4-36f6421782ed#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/beba-und-alfamino-nestle-ruft-saeuglingsnahrung-in-weiteren-laendern-zurueck](https://www.spiegel.de/wirtschaft/service/beba-und-alfamino-nestle-ruft-saeuglingsnahrung-in-weiteren-laendern-zurueck-a-e58f4da8-4636-4ab6-87e1-ffd40dd89746#ref=rss)
+* [https://www.spiegel.de/panorama/sturm-tief-elli-was-tun-bei-einem-schneesturm](https://www.spiegel.de/panorama/sturm-tief-elli-was-tun-bei-einem-schneesturm-a-2a1d1cb1-2dfa-4359-9bc0-c71ed228737a#ref=rss)
+### welt
+
+* [https://www.spiegel.de/wirtschaft/service/beba-und-alfamino-nestle-ruft-saeuglingsnahrung-in-weiteren-laendern-zurueck](https://www.spiegel.de/wirtschaft/service/beba-und-alfamino-nestle-ruft-saeuglingsnahrung-in-weiteren-laendern-zurueck-a-e58f4da8-4636-4ab6-87e1-ffd40dd89746#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-sein-entfesselter-imperialismus-welt-am-wendepunkt](https://www.spiegel.de/ausland/donald-trump-und-sein-entfesselter-imperialismus-welt-am-wendepunkt-a-4e747cf0-2e2d-4b06-90f9-36e5b2f8bd49#ref=rss)
+### münchner
+
+* [https://www.spiegel.de/panorama/reichsbuergerprozess-in-muenchen-lebensbeichte-eines-selbsternannten-hellsehers](https://www.spiegel.de/panorama/reichsbuergerprozess-in-muenchen-lebensbeichte-eines-selbsternannten-hellsehers-a-271e2b87-f6b5-48cd-bab6-aebb40cd0d8d#ref=rss)
+* [https://www.spiegel.de/panorama/usa-vs-venezuela-dieser-angriff-war-ein-voelkerrechtsverbrechen](https://www.spiegel.de/panorama/usa-vs-venezuela-dieser-angriff-war-ein-voelkerrechtsverbrechen-a-b65c66f9-6f50-40fc-876b-1470a450b45d#ref=rss)
+### katze
+
+* [https://www.spiegel.de/panorama/schweinfurt-katze-faehrt-tausende-kilometer-als-blinder-passagier-von-der-tuerkei](https://www.spiegel.de/panorama/schweinfurt-katze-faehrt-tausende-kilometer-als-blinder-passagier-von-der-tuerkei-a-c8039ff5-a7fe-498d-b0c9-48e945e5e01c#ref=rss)
+### kilometer
+
+* [https://www.spiegel.de/panorama/schweinfurt-katze-faehrt-tausende-kilometer-als-blinder-passagier-von-der-tuerkei](https://www.spiegel.de/panorama/schweinfurt-katze-faehrt-tausende-kilometer-als-blinder-passagier-von-der-tuerkei-a-c8039ff5-a7fe-498d-b0c9-48e945e5e01c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-forscher-entdecken-rekord-asteroid](https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-forscher-entdecken-rekord-asteroid-a-8c7442fc-a29c-4389-b575-59d5b11112f1#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/panorama/schweinfurt-katze-faehrt-tausende-kilometer-als-blinder-passagier-von-der-tuerkei](https://www.spiegel.de/panorama/schweinfurt-katze-faehrt-tausende-kilometer-als-blinder-passagier-von-der-tuerkei-a-c8039ff5-a7fe-498d-b0c9-48e945e5e01c#ref=rss)
+### frau
+
+* [https://www.spiegel.de/ausland/ice-einsatz-in-minneapolis-frau-per-kopfschuss-im-auto-getoetet-donald-trump-nennt-es-notwehr](https://www.spiegel.de/ausland/ice-einsatz-in-minneapolis-frau-per-kopfschuss-im-auto-getoetet-donald-trump-nennt-es-notwehr-a-c9f0685c-6910-4ee9-ae5f-2ce7d82364e5#ref=rss)
+### auto
+
+* [https://www.spiegel.de/ausland/ice-einsatz-in-minneapolis-frau-per-kopfschuss-im-auto-getoetet-donald-trump-nennt-es-notwehr](https://www.spiegel.de/ausland/ice-einsatz-in-minneapolis-frau-per-kopfschuss-im-auto-getoetet-donald-trump-nennt-es-notwehr-a-c9f0685c-6910-4ee9-ae5f-2ce7d82364e5#ref=rss)
+* [https://www.spiegel.de/auto/winterwetter-wie-man-mit-dem-auto-sicher-durch-eis-und-schnee-kommt](https://www.spiegel.de/auto/winterwetter-wie-man-mit-dem-auto-sicher-durch-eis-und-schnee-kommt-a-a9bdc809-fe43-4d3e-ad00-3ab5a1978ad3#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/ice-einsatz-in-minneapolis-frau-per-kopfschuss-im-auto-getoetet-donald-trump-nennt-es-notwehr](https://www.spiegel.de/ausland/ice-einsatz-in-minneapolis-frau-per-kopfschuss-im-auto-getoetet-donald-trump-nennt-es-notwehr-a-c9f0685c-6910-4ee9-ae5f-2ce7d82364e5#ref=rss)
+* [https://www.spiegel.de/panorama/usa-vs-venezuela-dieser-angriff-war-ein-voelkerrechtsverbrechen](https://www.spiegel.de/panorama/usa-vs-venezuela-dieser-angriff-war-ein-voelkerrechtsverbrechen-a-b65c66f9-6f50-40fc-876b-1470a450b45d#ref=rss)
+### anderes
+
+* [https://www.spiegel.de/ausland/ice-einsatz-in-minneapolis-frau-per-kopfschuss-im-auto-getoetet-donald-trump-nennt-es-notwehr](https://www.spiegel.de/ausland/ice-einsatz-in-minneapolis-frau-per-kopfschuss-im-auto-getoetet-donald-trump-nennt-es-notwehr-a-c9f0685c-6910-4ee9-ae5f-2ce7d82364e5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-forscher-entdecken-rekord-asteroid](https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-forscher-entdecken-rekord-asteroid-a-8c7442fc-a29c-4389-b575-59d5b11112f1#ref=rss)
+### republik
+
+* [https://www.spiegel.de/wissenschaft/demokratische-republik-kongo-seltene-geburt-bei-berggorillas-im-virunga-nationalpark](https://www.spiegel.de/wissenschaft/demokratische-republik-kongo-seltene-geburt-bei-berggorillas-im-virunga-nationalpark-a-c204ddd2-8df8-4b8c-96aa-83bdfe9e930f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-will-amt-als-ministerpraesident-vorzeitig-abgeben](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-will-amt-als-ministerpraesident-vorzeitig-abgeben-a-43d33d9e-1a90-481a-9db1-d17b9056fe95#ref=rss)
+### virunganationalpark
+
+* [https://www.spiegel.de/wissenschaft/demokratische-republik-kongo-seltene-geburt-bei-berggorillas-im-virunga-nationalpark](https://www.spiegel.de/wissenschaft/demokratische-republik-kongo-seltene-geburt-bei-berggorillas-im-virunga-nationalpark-a-c204ddd2-8df8-4b8c-96aa-83bdfe9e930f#ref=rss)
+### bekommen
+
+* [https://www.spiegel.de/wissenschaft/demokratische-republik-kongo-seltene-geburt-bei-berggorillas-im-virunga-nationalpark](https://www.spiegel.de/wissenschaft/demokratische-republik-kongo-seltene-geburt-bei-berggorillas-im-virunga-nationalpark-a-c204ddd2-8df8-4b8c-96aa-83bdfe9e930f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/erfurt-thueringen-bodo-ramelow-wirft-zalando-raubtierkapitalismus-vor](https://www.spiegel.de/wirtschaft/unternehmen/erfurt-thueringen-bodo-ramelow-wirft-zalando-raubtierkapitalismus-vor-a-6f070a3c-61f5-4d1b-8751-e4a562eb2429#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/wissenschaft/demokratische-republik-kongo-seltene-geburt-bei-berggorillas-im-virunga-nationalpark](https://www.spiegel.de/wissenschaft/demokratische-republik-kongo-seltene-geburt-bei-berggorillas-im-virunga-nationalpark-a-c204ddd2-8df8-4b8c-96aa-83bdfe9e930f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-forscher-entdecken-rekord-asteroid](https://www.spiegel.de/wissenschaft/weltall/vera-c-rubin-observatory-forscher-entdecken-rekord-asteroid-a-8c7442fc-a29c-4389-b575-59d5b11112f1#ref=rss)
 ### kai
 
-* [https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-beraet-ueber-wegner-und-stromausfall](https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-beraet-ueber-wegner-und-stromausfall-a-701ff287-1a2d-477c-8d22-38c51a154359#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-kai-wegner-verteidigt-tennismatch-waehrend-stromausfall](https://www.spiegel.de/politik/deutschland/berlin-kai-wegner-verteidigt-tennismatch-waehrend-stromausfall-a-dfbc22be-77db-40bd-a2cc-6a03db4de880#ref=rss)
 ### wegner
 
-* [https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-beraet-ueber-wegner-und-stromausfall](https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-beraet-ueber-wegner-und-stromausfall-a-701ff287-1a2d-477c-8d22-38c51a154359#ref=rss)
-### cdufraktion
+* [https://www.spiegel.de/politik/deutschland/berlin-kai-wegner-verteidigt-tennismatch-waehrend-stromausfall](https://www.spiegel.de/politik/deutschland/berlin-kai-wegner-verteidigt-tennismatch-waehrend-stromausfall-a-dfbc22be-77db-40bd-a2cc-6a03db4de880#ref=rss)
+### problem
 
-* [https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-beraet-ueber-wegner-und-stromausfall](https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-beraet-ueber-wegner-und-stromausfall-a-701ff287-1a2d-477c-8d22-38c51a154359#ref=rss)
-### berät
+* [https://www.spiegel.de/politik/deutschland/berlin-kai-wegner-verteidigt-tennismatch-waehrend-stromausfall](https://www.spiegel.de/politik/deutschland/berlin-kai-wegner-verteidigt-tennismatch-waehrend-stromausfall-a-dfbc22be-77db-40bd-a2cc-6a03db4de880#ref=rss)
+* [https://www.spiegel.de/netzwelt/cyberagentur-enisa-eu-sicherheitsbehoerde-blamiert-sich-mit-ki-einsatz](https://www.spiegel.de/netzwelt/cyberagentur-enisa-eu-sicherheitsbehoerde-blamiert-sich-mit-ki-einsatz-a-5d7c0ab2-71cd-458a-b503-4e0d12ac4518#ref=rss)
+### zalando
 
-* [https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-beraet-ueber-wegner-und-stromausfall](https://www.spiegel.de/politik/deutschland/berlin-cdu-fraktion-beraet-ueber-wegner-und-stromausfall-a-701ff287-1a2d-477c-8d22-38c51a154359#ref=rss)
-### syrien
+* [https://www.spiegel.de/wirtschaft/unternehmen/erfurt-thueringen-bodo-ramelow-wirft-zalando-raubtierkapitalismus-vor](https://www.spiegel.de/wirtschaft/unternehmen/erfurt-thueringen-bodo-ramelow-wirft-zalando-raubtierkapitalismus-vor-a-6f070a3c-61f5-4d1b-8751-e4a562eb2429#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/ausland/deutschland-schiebt-weiteren-straftaeter-nach-syrien-ab](https://www.spiegel.de/ausland/deutschland-schiebt-weiteren-straftaeter-nach-syrien-ab-a-ab7b25ac-3150-4469-acd1-f33b670207f1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/erfurt-thueringen-bodo-ramelow-wirft-zalando-raubtierkapitalismus-vor](https://www.spiegel.de/wirtschaft/unternehmen/erfurt-thueringen-bodo-ramelow-wirft-zalando-raubtierkapitalismus-vor-a-6f070a3c-61f5-4d1b-8751-e4a562eb2429#ref=rss)
+* [https://www.spiegel.de/panorama/usa-vs-venezuela-dieser-angriff-war-ein-voelkerrechtsverbrechen](https://www.spiegel.de/panorama/usa-vs-venezuela-dieser-angriff-war-ein-voelkerrechtsverbrechen-a-b65c66f9-6f50-40fc-876b-1470a450b45d#ref=rss)
+### erfurt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/erfurt-thueringen-bodo-ramelow-wirft-zalando-raubtierkapitalismus-vor](https://www.spiegel.de/wirtschaft/unternehmen/erfurt-thueringen-bodo-ramelow-wirft-zalando-raubtierkapitalismus-vor-a-6f070a3c-61f5-4d1b-8751-e4a562eb2429#ref=rss)
+### enisa
+
+* [https://www.spiegel.de/netzwelt/cyberagentur-enisa-eu-sicherheitsbehoerde-blamiert-sich-mit-ki-einsatz](https://www.spiegel.de/netzwelt/cyberagentur-enisa-eu-sicherheitsbehoerde-blamiert-sich-mit-ki-einsatz-a-5d7c0ab2-71cd-458a-b503-4e0d12ac4518#ref=rss)
+### ki
+
+* [https://www.spiegel.de/netzwelt/cyberagentur-enisa-eu-sicherheitsbehoerde-blamiert-sich-mit-ki-einsatz](https://www.spiegel.de/netzwelt/cyberagentur-enisa-eu-sicherheitsbehoerde-blamiert-sich-mit-ki-einsatz-a-5d7c0ab2-71cd-458a-b503-4e0d12ac4518#ref=rss)
+* [https://www.spiegel.de/netzwelt/chatgpt-soll-zum-gesundheitsberater-werden](https://www.spiegel.de/netzwelt/chatgpt-soll-zum-gesundheitsberater-werden-a-a0130eed-2e75-4ddb-82e8-d975eaeb9b98#ref=rss)
+### viele
+
+* [https://www.spiegel.de/netzwelt/cyberagentur-enisa-eu-sicherheitsbehoerde-blamiert-sich-mit-ki-einsatz](https://www.spiegel.de/netzwelt/cyberagentur-enisa-eu-sicherheitsbehoerde-blamiert-sich-mit-ki-einsatz-a-5d7c0ab2-71cd-458a-b503-4e0d12ac4518#ref=rss)
+* [https://www.spiegel.de/kultur/dschungelcamp-gil-ofarim-reagiert-auf-kritik-an-seiner-teilnahme](https://www.spiegel.de/kultur/dschungelcamp-gil-ofarim-reagiert-auf-kritik-an-seiner-teilnahme-a-a21408cf-27ae-40cf-b484-47d141d67af2#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/panorama/usa-vs-venezuela-dieser-angriff-war-ein-voelkerrechtsverbrechen](https://www.spiegel.de/panorama/usa-vs-venezuela-dieser-angriff-war-ein-voelkerrechtsverbrechen-a-b65c66f9-6f50-40fc-876b-1470a450b45d#ref=rss)
+* [https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat](https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat-a-fc4dd90a-5ac1-41a2-959e-9ddd2f51ce2e#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### reiner
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-will-amt-als-ministerpraesident-vorzeitig-abgeben](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-will-amt-als-ministerpraesident-vorzeitig-abgeben-a-43d33d9e-1a90-481a-9db1-d17b9056fe95#ref=rss)
+### nächsten
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-will-amt-als-ministerpraesident-vorzeitig-abgeben](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-will-amt-als-ministerpraesident-vorzeitig-abgeben-a-43d33d9e-1a90-481a-9db1-d17b9056fe95#ref=rss)
+* [https://www.spiegel.de/kultur/dschungelcamp-gil-ofarim-reagiert-auf-kritik-an-seiner-teilnahme](https://www.spiegel.de/kultur/dschungelcamp-gil-ofarim-reagiert-auf-kritik-an-seiner-teilnahme-a-a21408cf-27ae-40cf-b484-47d141d67af2#ref=rss)
+### steigen
+
+* [https://www.spiegel.de/wirtschaft/service/immobilien-wohnungen-steigen-im-preis-so-stark-wie-seit-jahren-nicht-mehr](https://www.spiegel.de/wirtschaft/service/immobilien-wohnungen-steigen-im-preis-so-stark-wie-seit-jahren-nicht-mehr-a-e83ab5d6-c8e9-4697-bfe7-2feb74b85943#ref=rss)
+* [https://www.spiegel.de/auto/winterwetter-wie-man-mit-dem-auto-sicher-durch-eis-und-schnee-kommt](https://www.spiegel.de/auto/winterwetter-wie-man-mit-dem-auto-sicher-durch-eis-und-schnee-kommt-a-a9bdc809-fe43-4d3e-ad00-3ab5a1978ad3#ref=rss)
+### gil
+
+* [https://www.spiegel.de/kultur/dschungelcamp-gil-ofarim-reagiert-auf-kritik-an-seiner-teilnahme](https://www.spiegel.de/kultur/dschungelcamp-gil-ofarim-reagiert-auf-kritik-an-seiner-teilnahme-a-a21408cf-27ae-40cf-b484-47d141d67af2#ref=rss)
+### ofarim
+
+* [https://www.spiegel.de/kultur/dschungelcamp-gil-ofarim-reagiert-auf-kritik-an-seiner-teilnahme](https://www.spiegel.de/kultur/dschungelcamp-gil-ofarim-reagiert-auf-kritik-an-seiner-teilnahme-a-a21408cf-27ae-40cf-b484-47d141d67af2#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/kultur/dschungelcamp-gil-ofarim-reagiert-auf-kritik-an-seiner-teilnahme](https://www.spiegel.de/kultur/dschungelcamp-gil-ofarim-reagiert-auf-kritik-an-seiner-teilnahme-a-a21408cf-27ae-40cf-b484-47d141d67af2#ref=rss)
+### sicher
+
+* [https://www.spiegel.de/auto/winterwetter-wie-man-mit-dem-auto-sicher-durch-eis-und-schnee-kommt](https://www.spiegel.de/auto/winterwetter-wie-man-mit-dem-auto-sicher-durch-eis-und-schnee-kommt-a-a9bdc809-fe43-4d3e-ad00-3ab5a1978ad3#ref=rss)
+### carl
+
+* [https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat](https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat-a-fc4dd90a-5ac1-41a2-959e-9ddd2f51ce2e#ref=rss)
+### schmitt
+
+* [https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat](https://www.spiegel.de/geschichte/venezuela-und-groenland-was-die-donroe-doktrin-mit-hitlers-kronjurist-carl-schmitt-zu-tun-hat-a-fc4dd90a-5ac1-41a2-959e-9ddd2f51ce2e#ref=rss)
 
