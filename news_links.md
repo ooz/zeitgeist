@@ -4,332 +4,332 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
+### bsw
 
-* [https://www.spiegel.de/ausland/marco-rubio-wie-donald-trumps-aussenminister-die-kunst-des-politischen-chamaeleons-perfektionierte](https://www.spiegel.de/ausland/marco-rubio-wie-donald-trumps-aussenminister-die-kunst-des-politischen-chamaeleons-perfektionierte-a-df7da145-60bd-4f98-8290-4e2b3c8e0002#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-wollen-wir-dass-der-eiffelturm-im-central-park-steht](https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-wollen-wir-dass-der-eiffelturm-im-central-park-steht-a-d5fdd6b7-e772-4ffe-9f48-bf0ecd75800e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-ordnet-massive-kaeufe-von-hypothekenanleihen-an](https://www.spiegel.de/wirtschaft/donald-trump-ordnet-massive-kaeufe-von-hypothekenanleihen-an-a-a5141a23-dbd9-4040-bc78-ec166d1f8774#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-us-praesident-donald-trump-soll-oppositionsfuehrerin-maria-corina-machado-treffen](https://www.spiegel.de/ausland/venezuela-us-praesident-donald-trump-soll-oppositionsfuehrerin-maria-corina-machado-treffen-a-92b6d2ca-f08c-479b-9119-827a9d445955#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz](https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz-a-8568b5f1-1d76-44db-80b7-ea7c24e7cfb7#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/marco-rubio-wie-donald-trumps-aussenminister-die-kunst-des-politischen-chamaeleons-perfektionierte](https://www.spiegel.de/ausland/marco-rubio-wie-donald-trumps-aussenminister-die-kunst-des-politischen-chamaeleons-perfektionierte-a-df7da145-60bd-4f98-8290-4e2b3c8e0002#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-ordnet-massive-kaeufe-von-hypothekenanleihen-an](https://www.spiegel.de/wirtschaft/donald-trump-ordnet-massive-kaeufe-von-hypothekenanleihen-an-a-a5141a23-dbd9-4040-bc78-ec166d1f8774#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-us-praesident-donald-trump-soll-oppositionsfuehrerin-maria-corina-machado-treffen](https://www.spiegel.de/ausland/venezuela-us-praesident-donald-trump-soll-oppositionsfuehrerin-maria-corina-machado-treffen-a-92b6d2ca-f08c-479b-9119-827a9d445955#ref=rss)
-* [https://www.spiegel.de/panorama/usa-vs-venezuela-krass-was-trump-da-gemacht-hat](https://www.spiegel.de/panorama/usa-vs-venezuela-krass-was-trump-da-gemacht-hat-a-dab78512-aa45-45fe-8e83-693bdd14c466#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz](https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz-a-8568b5f1-1d76-44db-80b7-ea7c24e7cfb7#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/marco-rubio-wie-donald-trumps-aussenminister-die-kunst-des-politischen-chamaeleons-perfektionierte](https://www.spiegel.de/ausland/marco-rubio-wie-donald-trumps-aussenminister-die-kunst-des-politischen-chamaeleons-perfektionierte-a-df7da145-60bd-4f98-8290-4e2b3c8e0002#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mittelstand-viele-unternehmen-wollen-wegen-nachwuchs-sorgen-schliessen](https://www.spiegel.de/wirtschaft/mittelstand-viele-unternehmen-wollen-wegen-nachwuchs-sorgen-schliessen-a-f9e088da-a84c-4a3b-b7ca-b15cc64fd536#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-beitragserhoehung-zum-jahreswechsel-was-tun](https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-beitragserhoehung-zum-jahreswechsel-was-tun-a-aa23ab62-325f-4e1d-9692-4505595a5ec3#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/groenland-usa-wollen-zustimmung-der-einheimischen-kaufen-fuer-bis-zu-100-000-dollar](https://www.spiegel.de/wirtschaft/groenland-usa-wollen-zustimmung-der-einheimischen-kaufen-fuer-bis-zu-100-000-dollar-a-18c1ff45-554e-4478-8eb4-9e2400949b74#ref=rss)
-* [https://www.spiegel.de/panorama/usa-vs-venezuela-krass-was-trump-da-gemacht-hat](https://www.spiegel.de/panorama/usa-vs-venezuela-krass-was-trump-da-gemacht-hat-a-dab78512-aa45-45fe-8e83-693bdd14c466#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz](https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz-a-8568b5f1-1d76-44db-80b7-ea7c24e7cfb7#ref=rss)
-* [https://www.spiegel.de/ausland/portland-zwei-verletzte-bei-schuessen-von-bundespolizisten-in-den-usa](https://www.spiegel.de/ausland/portland-zwei-verletzte-bei-schuessen-von-bundespolizisten-in-den-usa-a-103d9128-7877-4f14-adff-aa39eccfa949#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-wollen-wir-dass-der-eiffelturm-im-central-park-steht](https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-wollen-wir-dass-der-eiffelturm-im-central-park-steht-a-d5fdd6b7-e772-4ffe-9f48-bf0ecd75800e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-ordnet-massive-kaeufe-von-hypothekenanleihen-an](https://www.spiegel.de/wirtschaft/donald-trump-ordnet-massive-kaeufe-von-hypothekenanleihen-an-a-a5141a23-dbd9-4040-bc78-ec166d1f8774#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-us-praesident-donald-trump-soll-oppositionsfuehrerin-maria-corina-machado-treffen](https://www.spiegel.de/ausland/venezuela-us-praesident-donald-trump-soll-oppositionsfuehrerin-maria-corina-machado-treffen-a-92b6d2ca-f08c-479b-9119-827a9d445955#ref=rss)
-### mindestens
+* [https://www.spiegel.de/politik/deutschland/bsw-im-brandenburger-landtag-das-ende-einer-fraktion-auf-offener-buehne](https://www.spiegel.de/politik/deutschland/bsw-im-brandenburger-landtag-das-ende-einer-fraktion-auf-offener-buehne-a-64fae729-946a-4108-97e8-9706c0d33302#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bsw-eine-partei-als-fast-food-unternehmen-das-musste-schiefgehen](https://www.spiegel.de/politik/deutschland/bsw-eine-partei-als-fast-food-unternehmen-das-musste-schiefgehen-a-94de2888-27ca-47c3-8d6b-3cfa7cf08dcf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab](https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab-a-081bc6ff-4e72-4031-a65b-88643cd655c0#ref=rss)
+### schnee
 
 * [https://www.spiegel.de/panorama/schneesturm-elli-heute-im-live-blog-s-bahn-hannover-stellt-betrieb-ein-vielerorts-fahren-auch-keine-busse](https://www.spiegel.de/panorama/schneesturm-elli-heute-im-live-blog-s-bahn-hannover-stellt-betrieb-ein-vielerorts-fahren-auch-keine-busse-a-248dde81-bca4-42af-bbc0-7d4aa2bd0571#ref=rss)
-* [https://www.spiegel.de/panorama/philippinen-mindestens-ein-mensch-stirbt-bei-muelllawine](https://www.spiegel.de/panorama/philippinen-mindestens-ein-mensch-stirbt-bei-muelllawine-a-1c3c2d45-aad3-4b0e-9458-0657a11db6ad#ref=rss)
-### offenbar
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wetter-schnee-mercosur-abkommen-syrien](https://www.spiegel.de/politik/deutschland/news-des-tages-wetter-schnee-mercosur-abkommen-syrien-a-dc40ffc5-a4d2-4fe6-83ac-b1df9d6e4447#ref=rss)
+* [https://www.spiegel.de/auto/fahrkultur/adac-experte-zum-winter-wetter-manche-fahren-als-sei-der-schnee-nur-eine-huebsche-deko](https://www.spiegel.de/auto/fahrkultur/adac-experte-zum-winter-wetter-manche-fahren-als-sei-der-schnee-nur-eine-huebsche-deko-a-e340f373-ae96-44e3-af56-0c79bb23e428#ref=rss)
+### iran
 
-* [https://www.spiegel.de/panorama/justiz/mainz-busfahrer-faehrt-mutmasslichen-besitzer-einer-tasche-mit-drogen-zur-polizei](https://www.spiegel.de/panorama/justiz/mainz-busfahrer-faehrt-mutmasslichen-besitzer-einer-tasche-mit-drogen-zur-polizei-a-9034ecfb-3428-47a1-8c77-66e5d411485a#ref=rss)
-* [https://www.spiegel.de/kultur/kino/jackass-johnny-knoxville-kuendigt-fortsetzung-der-show-und-kinofilm-an](https://www.spiegel.de/kultur/kino/jackass-johnny-knoxville-kuendigt-fortsetzung-der-show-und-kinofilm-an-a-df20d747-47d2-467e-9e9e-ef2a64904730#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jennifer-garner-ueber-ihre-scheidung-und-den-umgang-mit-der-klatschpresse](https://www.spiegel.de/panorama/leute/jennifer-garner-ueber-ihre-scheidung-und-den-umgang-mit-der-klatschpresse-a-b13bcab1-ed50-4536-9ca3-5a0439182563#ref=rss)
-### dollar
+* [https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus](https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus-a-46c9e04f-6556-4211-83d7-4fbcf0022e17#ref=rss)
+* [https://www.spiegel.de/ausland/iran-tote-bei-protestwelle-praesident-ruft-sicherheitskraefte-zur-zurueckhaltung-auf](https://www.spiegel.de/ausland/iran-tote-bei-protestwelle-praesident-ruft-sicherheitskraefte-zur-zurueckhaltung-auf-a-b19559a2-546b-405c-b5b4-3963c6a6cf74#ref=rss)
+### cransmontana
 
-* [https://www.spiegel.de/wirtschaft/groenland-usa-wollen-zustimmung-der-einheimischen-kaufen-fuer-bis-zu-100-000-dollar](https://www.spiegel.de/wirtschaft/groenland-usa-wollen-zustimmung-der-einheimischen-kaufen-fuer-bis-zu-100-000-dollar-a-18c1ff45-554e-4478-8eb4-9e2400949b74#ref=rss)
-* [https://www.spiegel.de/stil/erewhon-in-los-angeles-der-supermarkt-der-superstars-wo-acht-eiswuerfel-dreissig-dollar-kosten](https://www.spiegel.de/stil/erewhon-in-los-angeles-der-supermarkt-der-superstars-wo-acht-eiswuerfel-dreissig-dollar-kosten-a-dba4dea3-1cfb-45cc-8331-94646d2153dc#ref=rss)
-### deutsche
+* [https://www.spiegel.de/panorama/justiz/crans-montana-le-constellation-behoerden-nehmen-betreiber-fest](https://www.spiegel.de/panorama/justiz/crans-montana-le-constellation-behoerden-nehmen-betreiber-fest-a-6e7934df-8fc9-4696-bd05-9589e6976e92#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-in-italien-ist-das-vertrauen-in-die-schweizer-justiz-erschuettert](https://www.spiegel.de/ausland/crans-montana-in-italien-ist-das-vertrauen-in-die-schweizer-justiz-erschuettert-a-e47289c5-41b4-4128-bd9c-c2526a39121b#ref=rss)
+### italien
 
-* [https://www.spiegel.de/wirtschaft/konjunktur-deutsche-industrieproduktion-steigt-dritten-monat-in-folge](https://www.spiegel.de/wirtschaft/konjunktur-deutsche-industrieproduktion-steigt-dritten-monat-in-folge-a-bc6d1027-7d50-45cb-ae1a-b49b9ee7ffd4#ref=rss)
-* [https://www.spiegel.de/panorama/schneesturm-elli-heute-im-live-blog-s-bahn-hannover-stellt-betrieb-ein-vielerorts-fahren-auch-keine-busse](https://www.spiegel.de/panorama/schneesturm-elli-heute-im-live-blog-s-bahn-hannover-stellt-betrieb-ein-vielerorts-fahren-auch-keine-busse-a-248dde81-bca4-42af-bbc0-7d4aa2bd0571#ref=rss)
+* [https://www.spiegel.de/ausland/italien-giorgia-meloni-will-europaeischen-dialog-mit-russland](https://www.spiegel.de/ausland/italien-giorgia-meloni-will-europaeischen-dialog-mit-russland-a-51ef1901-848f-4268-a919-6758c0e8e4aa#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-in-italien-ist-das-vertrauen-in-die-schweizer-justiz-erschuettert](https://www.spiegel.de/ausland/crans-montana-in-italien-ist-das-vertrauen-in-die-schweizer-justiz-erschuettert-a-e47289c5-41b4-4128-bd9c-c2526a39121b#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/italien-giorgia-meloni-will-europaeischen-dialog-mit-russland](https://www.spiegel.de/ausland/italien-giorgia-meloni-will-europaeischen-dialog-mit-russland-a-51ef1901-848f-4268-a919-6758c0e8e4aa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wetter-schnee-mercosur-abkommen-syrien](https://www.spiegel.de/politik/deutschland/news-des-tages-wetter-schnee-mercosur-abkommen-syrien-a-dc40ffc5-a4d2-4fe6-83ac-b1df9d6e4447#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gaskraftwerke-eu-will-12-gigawatt-bis-2031-genehmigen](https://www.spiegel.de/wirtschaft/soziales/gaskraftwerke-eu-will-12-gigawatt-bis-2031-genehmigen-a-3ec54de5-6a18-49a6-bd9b-4029ebfc6ce6#ref=rss)
 ### elli
 
 * [https://www.spiegel.de/panorama/schneesturm-elli-heute-im-live-blog-s-bahn-hannover-stellt-betrieb-ein-vielerorts-fahren-auch-keine-busse](https://www.spiegel.de/panorama/schneesturm-elli-heute-im-live-blog-s-bahn-hannover-stellt-betrieb-ein-vielerorts-fahren-auch-keine-busse-a-248dde81-bca4-42af-bbc0-7d4aa2bd0571#ref=rss)
-* [https://www.spiegel.de/panorama/winter-wetter-in-deutschland-schulen-und-verkehr-betroffen-durch-schneesturm](https://www.spiegel.de/panorama/winter-wetter-in-deutschland-schulen-und-verkehr-betroffen-durch-schneesturm-a-59009ae1-a671-4803-aa82-bf130439f497#ref=rss)
-### el
+* [https://www.spiegel.de/kultur/sturmtief-elli-im-norden-warum-wir-so-gut-ueber-schneechaos-reden-koennen](https://www.spiegel.de/kultur/sturmtief-elli-im-norden-warum-wir-so-gut-ueber-schneechaos-reden-koennen-a-561cbbb5-0861-4540-8abc-63d5d35757aa#ref=rss)
+### landtag
 
-* [https://www.spiegel.de/politik/el-hotzo-ich-bin-als-moralische-linke-stimme-zu-recht-gescheitert](https://www.spiegel.de/politik/el-hotzo-ich-bin-als-moralische-linke-stimme-zu-recht-gescheitert-a-38532659-dd11-4fd9-9104-07a9846be122#ref=rss)
-### hotzo
+* [https://www.spiegel.de/politik/deutschland/bsw-im-brandenburger-landtag-das-ende-einer-fraktion-auf-offener-buehne](https://www.spiegel.de/politik/deutschland/bsw-im-brandenburger-landtag-das-ende-einer-fraktion-auf-offener-buehne-a-64fae729-946a-4108-97e8-9706c0d33302#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab](https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab-a-081bc6ff-4e72-4031-a65b-88643cd655c0#ref=rss)
+### brandenburg
 
-* [https://www.spiegel.de/politik/el-hotzo-ich-bin-als-moralische-linke-stimme-zu-recht-gescheitert](https://www.spiegel.de/politik/el-hotzo-ich-bin-als-moralische-linke-stimme-zu-recht-gescheitert-a-38532659-dd11-4fd9-9104-07a9846be122#ref=rss)
-### kam
+* [https://www.spiegel.de/politik/deutschland/bsw-im-brandenburger-landtag-das-ende-einer-fraktion-auf-offener-buehne](https://www.spiegel.de/politik/deutschland/bsw-im-brandenburger-landtag-das-ende-einer-fraktion-auf-offener-buehne-a-64fae729-946a-4108-97e8-9706c0d33302#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab](https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab-a-081bc6ff-4e72-4031-a65b-88643cd655c0#ref=rss)
+### viele
 
-* [https://www.spiegel.de/politik/el-hotzo-ich-bin-als-moralische-linke-stimme-zu-recht-gescheitert](https://www.spiegel.de/politik/el-hotzo-ich-bin-als-moralische-linke-stimme-zu-recht-gescheitert-a-38532659-dd11-4fd9-9104-07a9846be122#ref=rss)
-* [https://www.spiegel.de/panorama/philippinen-mindestens-ein-mensch-stirbt-bei-muelllawine](https://www.spiegel.de/panorama/philippinen-mindestens-ein-mensch-stirbt-bei-muelllawine-a-1c3c2d45-aad3-4b0e-9458-0657a11db6ad#ref=rss)
-### marco
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wetter-schnee-mercosur-abkommen-syrien](https://www.spiegel.de/politik/deutschland/news-des-tages-wetter-schnee-mercosur-abkommen-syrien-a-dc40ffc5-a4d2-4fe6-83ac-b1df9d6e4447#ref=rss)
+* [https://www.spiegel.de/auto/fahrkultur/adac-experte-zum-winter-wetter-manche-fahren-als-sei-der-schnee-nur-eine-huebsche-deko](https://www.spiegel.de/auto/fahrkultur/adac-experte-zum-winter-wetter-manche-fahren-als-sei-der-schnee-nur-eine-huebsche-deko-a-e340f373-ae96-44e3-af56-0c79bb23e428#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/crans-montana-le-constellation-behoerden-nehmen-betreiber-fest](https://www.spiegel.de/panorama/justiz/crans-montana-le-constellation-behoerden-nehmen-betreiber-fest-a-6e7934df-8fc9-4696-bd05-9589e6976e92#ref=rss)
+### kyjiw
 
-* [https://www.spiegel.de/ausland/marco-rubio-wie-donald-trumps-aussenminister-die-kunst-des-politischen-chamaeleons-perfektionierte](https://www.spiegel.de/ausland/marco-rubio-wie-donald-trumps-aussenminister-die-kunst-des-politischen-chamaeleons-perfektionierte-a-df7da145-60bd-4f98-8290-4e2b3c8e0002#ref=rss)
-### rubio
+* [https://www.spiegel.de/ausland/kyjiw-ukraine-vitali-klitschko-raet-buergern-von-kyjiw-zum-verlassen-der-stadt](https://www.spiegel.de/ausland/kyjiw-ukraine-vitali-klitschko-raet-buergern-von-kyjiw-zum-verlassen-der-stadt-a-a753a7e7-9dae-4b77-958b-eb6ffb61bcb3#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/marco-rubio-wie-donald-trumps-aussenminister-die-kunst-des-politischen-chamaeleons-perfektionierte](https://www.spiegel.de/ausland/marco-rubio-wie-donald-trumps-aussenminister-die-kunst-des-politischen-chamaeleons-perfektionierte-a-df7da145-60bd-4f98-8290-4e2b3c8e0002#ref=rss)
-### trumps
+* [https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus](https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus-a-46c9e04f-6556-4211-83d7-4fbcf0022e17#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-frankreich-verschiebt-g7-gipfel-angeblich-wegen-trumps-kaefigkampf](https://www.spiegel.de/ausland/donald-trump-frankreich-verschiebt-g7-gipfel-angeblich-wegen-trumps-kaefigkampf-a-f6f014b5-68e8-4de3-ae7b-a9927ad6e05b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-lebenslange-haft-nach-femizid-an-bekanntschaft-aus-dem-fitnessstudio](https://www.spiegel.de/panorama/justiz/stuttgart-lebenslange-haft-nach-femizid-an-bekanntschaft-aus-dem-fitnessstudio-a-64d2250c-9c55-49e0-b122-73ce33b52710#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/marco-rubio-wie-donald-trumps-aussenminister-die-kunst-des-politischen-chamaeleons-perfektionierte](https://www.spiegel.de/ausland/marco-rubio-wie-donald-trumps-aussenminister-die-kunst-des-politischen-chamaeleons-perfektionierte-a-df7da145-60bd-4f98-8290-4e2b3c8e0002#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-wollen-wir-dass-der-eiffelturm-im-central-park-steht](https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-wollen-wir-dass-der-eiffelturm-im-central-park-steht-a-d5fdd6b7-e772-4ffe-9f48-bf0ecd75800e#ref=rss)
-### umgang
+* [https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus](https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus-a-46c9e04f-6556-4211-83d7-4fbcf0022e17#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/crans-montana-le-constellation-behoerden-nehmen-betreiber-fest](https://www.spiegel.de/panorama/justiz/crans-montana-le-constellation-behoerden-nehmen-betreiber-fest-a-6e7934df-8fc9-4696-bd05-9589e6976e92#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-in-italien-ist-das-vertrauen-in-die-schweizer-justiz-erschuettert](https://www.spiegel.de/ausland/crans-montana-in-italien-ist-das-vertrauen-in-die-schweizer-justiz-erschuettert-a-e47289c5-41b4-4128-bd9c-c2526a39121b#ref=rss)
+### protestwelle
 
-* [https://www.spiegel.de/ausland/marco-rubio-wie-donald-trumps-aussenminister-die-kunst-des-politischen-chamaeleons-perfektionierte](https://www.spiegel.de/ausland/marco-rubio-wie-donald-trumps-aussenminister-die-kunst-des-politischen-chamaeleons-perfektionierte-a-df7da145-60bd-4f98-8290-4e2b3c8e0002#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jennifer-garner-ueber-ihre-scheidung-und-den-umgang-mit-der-klatschpresse](https://www.spiegel.de/panorama/leute/jennifer-garner-ueber-ihre-scheidung-und-den-umgang-mit-der-klatschpresse-a-b13bcab1-ed50-4536-9ca3-5a0439182563#ref=rss)
-### republikaner
+* [https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus](https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus-a-46c9e04f-6556-4211-83d7-4fbcf0022e17#ref=rss)
+* [https://www.spiegel.de/ausland/iran-tote-bei-protestwelle-praesident-ruft-sicherheitskraefte-zur-zurueckhaltung-auf](https://www.spiegel.de/ausland/iran-tote-bei-protestwelle-praesident-ruft-sicherheitskraefte-zur-zurueckhaltung-auf-a-b19559a2-546b-405c-b5b4-3963c6a6cf74#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/marco-rubio-wie-donald-trumps-aussenminister-die-kunst-des-politischen-chamaeleons-perfektionierte](https://www.spiegel.de/ausland/marco-rubio-wie-donald-trumps-aussenminister-die-kunst-des-politischen-chamaeleons-perfektionierte-a-df7da145-60bd-4f98-8290-4e2b3c8e0002#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-ordnet-massive-kaeufe-von-hypothekenanleihen-an](https://www.spiegel.de/wirtschaft/donald-trump-ordnet-massive-kaeufe-von-hypothekenanleihen-an-a-a5141a23-dbd9-4040-bc78-ec166d1f8774#ref=rss)
-### besonders
+* [https://www.spiegel.de/ausland/usa-entern-erneut-oeltanker-in-der-karibik](https://www.spiegel.de/ausland/usa-entern-erneut-oeltanker-in-der-karibik-a-c10b59c6-008c-463b-9e21-80e8a42f32d0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-dfb-nationalmannschaft-bezieht-quartier-in-north-carolina](https://www.spiegel.de/sport/fussball/fussball-wm-dfb-nationalmannschaft-bezieht-quartier-in-north-carolina-a-9c7deb4b-4b41-45a9-b086-4a4cf4aec509#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-usa-warum-widerstand-gegen-trumps-ice-so-gefaehrlich-ist](https://www.spiegel.de/ausland/minneapolis-usa-warum-widerstand-gegen-trumps-ice-so-gefaehrlich-ist-a-9dc26c56-9e94-413e-935c-d5548f7fb2aa#ref=rss)
+### mann
 
-* [https://www.spiegel.de/wirtschaft/mittelstand-viele-unternehmen-wollen-wegen-nachwuchs-sorgen-schliessen](https://www.spiegel.de/wirtschaft/mittelstand-viele-unternehmen-wollen-wegen-nachwuchs-sorgen-schliessen-a-f9e088da-a84c-4a3b-b7ca-b15cc64fd536#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/hochbegabte-haustiere-einige-hunde-lernen-woerter-durch-zuhoeren](https://www.spiegel.de/wissenschaft/natur/hochbegabte-haustiere-einige-hunde-lernen-woerter-durch-zuhoeren-a-56c86b59-5870-4a37-bb69-5a4c769805e4#ref=rss)
-### mutmaßlichen
+* [https://www.spiegel.de/panorama/justiz/goslar-braunschweig-mann-zu-lebenslanger-haft-verurteilt-weil-er-seine-schlafende-ehefrau-anzuendete](https://www.spiegel.de/panorama/justiz/goslar-braunschweig-mann-zu-lebenslanger-haft-verurteilt-weil-er-seine-schlafende-ehefrau-anzuendete-a-ef4bf800-faf9-4328-81c8-27211a9a12c5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-lebenslange-haft-nach-femizid-an-bekanntschaft-aus-dem-fitnessstudio](https://www.spiegel.de/panorama/justiz/stuttgart-lebenslange-haft-nach-femizid-an-bekanntschaft-aus-dem-fitnessstudio-a-64d2250c-9c55-49e0-b122-73ce33b52710#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/justiz/mainz-busfahrer-faehrt-mutmasslichen-besitzer-einer-tasche-mit-drogen-zur-polizei](https://www.spiegel.de/panorama/justiz/mainz-busfahrer-faehrt-mutmasslichen-besitzer-einer-tasche-mit-drogen-zur-polizei-a-9034ecfb-3428-47a1-8c77-66e5d411485a#ref=rss)
-### besitzer
+* [https://www.spiegel.de/kultur/musik/dry-cleaning-die-sterne-daniel-lopatin-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/dry-cleaning-die-sterne-daniel-lopatin-abgehoert-album-der-woche-a-3c61dd45-b4b1-4f03-9e55-f64e1a7660d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gaskraftwerke-eu-will-12-gigawatt-bis-2031-genehmigen](https://www.spiegel.de/wirtschaft/soziales/gaskraftwerke-eu-will-12-gigawatt-bis-2031-genehmigen-a-3ec54de5-6a18-49a6-bd9b-4029ebfc6ce6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-vizepraesident-omid-nouripour-von-den-gruenen-sieht-neue-kosten-bei-neubauten](https://www.spiegel.de/politik/deutschland/bundestag-vizepraesident-omid-nouripour-von-den-gruenen-sieht-neue-kosten-bei-neubauten-a-b7d4942e-7841-40fb-898d-4970676be642#ref=rss)
+### droht
 
-* [https://www.spiegel.de/panorama/justiz/mainz-busfahrer-faehrt-mutmasslichen-besitzer-einer-tasche-mit-drogen-zur-polizei](https://www.spiegel.de/panorama/justiz/mainz-busfahrer-faehrt-mutmasslichen-besitzer-einer-tasche-mit-drogen-zur-polizei-a-9034ecfb-3428-47a1-8c77-66e5d411485a#ref=rss)
-### tasche
+* [https://www.spiegel.de/politik/deutschland/migration-box-champion-abdelkader-selmi-von-eintracht-frankfurt-droht-trotz-guter-integration-abschiebung](https://www.spiegel.de/politik/deutschland/migration-box-champion-abdelkader-selmi-von-eintracht-frankfurt-droht-trotz-guter-integration-abschiebung-a-d45a3ae9-07bb-4823-a374-885bca137ae8#ref=rss)
+* [https://www.spiegel.de/ausland/iran-tote-bei-protestwelle-praesident-ruft-sicherheitskraefte-zur-zurueckhaltung-auf](https://www.spiegel.de/ausland/iran-tote-bei-protestwelle-praesident-ruft-sicherheitskraefte-zur-zurueckhaltung-auf-a-b19559a2-546b-405c-b5b4-3963c6a6cf74#ref=rss)
+### ministerpräsident
 
-* [https://www.spiegel.de/panorama/justiz/mainz-busfahrer-faehrt-mutmasslichen-besitzer-einer-tasche-mit-drogen-zur-polizei](https://www.spiegel.de/panorama/justiz/mainz-busfahrer-faehrt-mutmasslichen-besitzer-einer-tasche-mit-drogen-zur-polizei-a-9034ecfb-3428-47a1-8c77-66e5d411485a#ref=rss)
-### drogen
+* [https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab](https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab-a-081bc6ff-4e72-4031-a65b-88643cd655c0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ministerpraesident-hilft-der-amtsbonus-einem-nachfolger](https://www.spiegel.de/politik/deutschland/ministerpraesident-hilft-der-amtsbonus-einem-nachfolger-a-db31e47a-1045-4983-b1ba-6a57b0c03096#ref=rss)
+### behörden
 
-* [https://www.spiegel.de/panorama/justiz/mainz-busfahrer-faehrt-mutmasslichen-besitzer-einer-tasche-mit-drogen-zur-polizei](https://www.spiegel.de/panorama/justiz/mainz-busfahrer-faehrt-mutmasslichen-besitzer-einer-tasche-mit-drogen-zur-polizei-a-9034ecfb-3428-47a1-8c77-66e5d411485a#ref=rss)
-### polizei
+* [https://www.spiegel.de/panorama/justiz/crans-montana-le-constellation-behoerden-nehmen-betreiber-fest](https://www.spiegel.de/panorama/justiz/crans-montana-le-constellation-behoerden-nehmen-betreiber-fest-a-6e7934df-8fc9-4696-bd05-9589e6976e92#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-in-italien-ist-das-vertrauen-in-die-schweizer-justiz-erschuettert](https://www.spiegel.de/ausland/crans-montana-in-italien-ist-das-vertrauen-in-die-schweizer-justiz-erschuettert-a-e47289c5-41b4-4128-bd9c-c2526a39121b#ref=rss)
+### schweizer
 
-* [https://www.spiegel.de/panorama/justiz/mainz-busfahrer-faehrt-mutmasslichen-besitzer-einer-tasche-mit-drogen-zur-polizei](https://www.spiegel.de/panorama/justiz/mainz-busfahrer-faehrt-mutmasslichen-besitzer-einer-tasche-mit-drogen-zur-polizei-a-9034ecfb-3428-47a1-8c77-66e5d411485a#ref=rss)
-### grönland
+* [https://www.spiegel.de/panorama/justiz/crans-montana-le-constellation-behoerden-nehmen-betreiber-fest](https://www.spiegel.de/panorama/justiz/crans-montana-le-constellation-behoerden-nehmen-betreiber-fest-a-6e7934df-8fc9-4696-bd05-9589e6976e92#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-in-italien-ist-das-vertrauen-in-die-schweizer-justiz-erschuettert](https://www.spiegel.de/ausland/crans-montana-in-italien-ist-das-vertrauen-in-die-schweizer-justiz-erschuettert-a-e47289c5-41b4-4128-bd9c-c2526a39121b#ref=rss)
+### fußballjahr
 
-* [https://www.spiegel.de/wirtschaft/groenland-usa-wollen-zustimmung-der-einheimischen-kaufen-fuer-bis-zu-100-000-dollar](https://www.spiegel.de/wirtschaft/groenland-usa-wollen-zustimmung-der-einheimischen-kaufen-fuer-bis-zu-100-000-dollar-a-18c1ff45-554e-4478-8eb4-9e2400949b74#ref=rss)
-### kaufen
+* [https://www.spiegel.de/sport/fussball/fussball-jahr-2026-in-thesen-deutschlands-wm-chancen-klara-buehl-juergen-klopp](https://www.spiegel.de/sport/fussball/fussball-jahr-2026-in-thesen-deutschlands-wm-chancen-klara-buehl-juergen-klopp-a-54416df9-fe81-4761-b1c8-adffa943f0f8#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/wirtschaft/groenland-usa-wollen-zustimmung-der-einheimischen-kaufen-fuer-bis-zu-100-000-dollar](https://www.spiegel.de/wirtschaft/groenland-usa-wollen-zustimmung-der-einheimischen-kaufen-fuer-bis-zu-100-000-dollar-a-18c1ff45-554e-4478-8eb4-9e2400949b74#ref=rss)
-### krieg
+* [https://www.spiegel.de/sport/fussball/fussball-jahr-2026-in-thesen-deutschlands-wm-chancen-klara-buehl-juergen-klopp](https://www.spiegel.de/sport/fussball/fussball-jahr-2026-in-thesen-deutschlands-wm-chancen-klara-buehl-juergen-klopp-a-54416df9-fe81-4761-b1c8-adffa943f0f8#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-in-cortina-dampezzo-zeitplan-sportarten-medaillenspiegel](https://www.spiegel.de/sport/olympia/olympia-2026-in-cortina-dampezzo-zeitplan-sportarten-medaillenspiegel-a-f17c628f-ff0b-42c1-906e-40b69f5df0fd#ref=rss)
+### wm
 
-* [https://www.spiegel.de/wirtschaft/groenland-usa-wollen-zustimmung-der-einheimischen-kaufen-fuer-bis-zu-100-000-dollar](https://www.spiegel.de/wirtschaft/groenland-usa-wollen-zustimmung-der-einheimischen-kaufen-fuer-bis-zu-100-000-dollar-a-18c1ff45-554e-4478-8eb4-9e2400949b74#ref=rss)
-* [https://www.spiegel.de/ausland/iran-proteste-spitzen-sich-zu-augenzeuge-es-ist-wie-im-krieg](https://www.spiegel.de/ausland/iran-proteste-spitzen-sich-zu-augenzeuge-es-ist-wie-im-krieg-a-967ced2c-df19-4b04-b879-f4f5929ff178#ref=rss)
-### jackass
+* [https://www.spiegel.de/sport/fussball/fussball-jahr-2026-in-thesen-deutschlands-wm-chancen-klara-buehl-juergen-klopp](https://www.spiegel.de/sport/fussball/fussball-jahr-2026-in-thesen-deutschlands-wm-chancen-klara-buehl-juergen-klopp-a-54416df9-fe81-4761-b1c8-adffa943f0f8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-dfb-nationalmannschaft-bezieht-quartier-in-north-carolina](https://www.spiegel.de/sport/fussball/fussball-wm-dfb-nationalmannschaft-bezieht-quartier-in-north-carolina-a-9c7deb4b-4b41-45a9-b086-4a4cf4aec509#ref=rss)
+### höhepunkt
 
-* [https://www.spiegel.de/kultur/kino/jackass-johnny-knoxville-kuendigt-fortsetzung-der-show-und-kinofilm-an](https://www.spiegel.de/kultur/kino/jackass-johnny-knoxville-kuendigt-fortsetzung-der-show-und-kinofilm-an-a-df20d747-47d2-467e-9e9e-ef2a64904730#ref=rss)
-### johnny
+* [https://www.spiegel.de/sport/fussball/fussball-jahr-2026-in-thesen-deutschlands-wm-chancen-klara-buehl-juergen-klopp](https://www.spiegel.de/sport/fussball/fussball-jahr-2026-in-thesen-deutschlands-wm-chancen-klara-buehl-juergen-klopp-a-54416df9-fe81-4761-b1c8-adffa943f0f8#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-in-cortina-dampezzo-zeitplan-sportarten-medaillenspiegel](https://www.spiegel.de/sport/olympia/olympia-2026-in-cortina-dampezzo-zeitplan-sportarten-medaillenspiegel-a-f17c628f-ff0b-42c1-906e-40b69f5df0fd#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/kultur/kino/jackass-johnny-knoxville-kuendigt-fortsetzung-der-show-und-kinofilm-an](https://www.spiegel.de/kultur/kino/jackass-johnny-knoxville-kuendigt-fortsetzung-der-show-und-kinofilm-an-a-df20d747-47d2-467e-9e9e-ef2a64904730#ref=rss)
-### knoxville
+* [https://www.spiegel.de/sport/fussball/fussball-jahr-2026-in-thesen-deutschlands-wm-chancen-klara-buehl-juergen-klopp](https://www.spiegel.de/sport/fussball/fussball-jahr-2026-in-thesen-deutschlands-wm-chancen-klara-buehl-juergen-klopp-a-54416df9-fe81-4761-b1c8-adffa943f0f8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gaskraftwerke-eu-will-12-gigawatt-bis-2031-genehmigen](https://www.spiegel.de/wirtschaft/soziales/gaskraftwerke-eu-will-12-gigawatt-bis-2031-genehmigen-a-3ec54de5-6a18-49a6-bd9b-4029ebfc6ce6#ref=rss)
+### russland
 
-* [https://www.spiegel.de/kultur/kino/jackass-johnny-knoxville-kuendigt-fortsetzung-der-show-und-kinofilm-an](https://www.spiegel.de/kultur/kino/jackass-johnny-knoxville-kuendigt-fortsetzung-der-show-und-kinofilm-an-a-df20d747-47d2-467e-9e9e-ef2a64904730#ref=rss)
-### kinofilm
+* [https://www.spiegel.de/ausland/italien-giorgia-meloni-will-europaeischen-dialog-mit-russland](https://www.spiegel.de/ausland/italien-giorgia-meloni-will-europaeischen-dialog-mit-russland-a-51ef1901-848f-4268-a919-6758c0e8e4aa#ref=rss)
+### sollte
 
-* [https://www.spiegel.de/kultur/kino/jackass-johnny-knoxville-kuendigt-fortsetzung-der-show-und-kinofilm-an](https://www.spiegel.de/kultur/kino/jackass-johnny-knoxville-kuendigt-fortsetzung-der-show-und-kinofilm-an-a-df20d747-47d2-467e-9e9e-ef2a64904730#ref=rss)
-### angekündigt
+* [https://www.spiegel.de/ausland/italien-giorgia-meloni-will-europaeischen-dialog-mit-russland](https://www.spiegel.de/ausland/italien-giorgia-meloni-will-europaeischen-dialog-mit-russland-a-51ef1901-848f-4268-a919-6758c0e8e4aa#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-frankreich-verschiebt-g7-gipfel-angeblich-wegen-trumps-kaefigkampf](https://www.spiegel.de/ausland/donald-trump-frankreich-verschiebt-g7-gipfel-angeblich-wegen-trumps-kaefigkampf-a-f6f014b5-68e8-4de3-ae7b-a9927ad6e05b#ref=rss)
+### niederlande
 
-* [https://www.spiegel.de/kultur/kino/jackass-johnny-knoxville-kuendigt-fortsetzung-der-show-und-kinofilm-an](https://www.spiegel.de/kultur/kino/jackass-johnny-knoxville-kuendigt-fortsetzung-der-show-und-kinofilm-an-a-df20d747-47d2-467e-9e9e-ef2a64904730#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-ordnet-massive-kaeufe-von-hypothekenanleihen-an](https://www.spiegel.de/wirtschaft/donald-trump-ordnet-massive-kaeufe-von-hypothekenanleihen-an-a-a5141a23-dbd9-4040-bc78-ec166d1f8774#ref=rss)
-### geplant
+* [https://www.spiegel.de/ausland/niederlande-parteien-einigen-sich-auf-minderheitsregierung](https://www.spiegel.de/ausland/niederlande-parteien-einigen-sich-auf-minderheitsregierung-a-2d7f1714-bc54-44c8-801c-fb7e0d604c48#ref=rss)
+### minderheitsregierung
 
-* [https://www.spiegel.de/kultur/kino/jackass-johnny-knoxville-kuendigt-fortsetzung-der-show-und-kinofilm-an](https://www.spiegel.de/kultur/kino/jackass-johnny-knoxville-kuendigt-fortsetzung-der-show-und-kinofilm-an-a-df20d747-47d2-467e-9e9e-ef2a64904730#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-feuchtes-parkett-spiel-zwischen-chicago-bulls-und-miami-heat-kurzfristig-abgesagt](https://www.spiegel.de/sport/basketball/nba-feuchtes-parkett-spiel-zwischen-chicago-bulls-und-miami-heat-kurzfristig-abgesagt-a-d6c3d345-72c4-481a-9ef2-48eaa9c1bee6#ref=rss)
-### jahreswechsel
+* [https://www.spiegel.de/ausland/niederlande-parteien-einigen-sich-auf-minderheitsregierung](https://www.spiegel.de/ausland/niederlande-parteien-einigen-sich-auf-minderheitsregierung-a-2d7f1714-bc54-44c8-801c-fb7e0d604c48#ref=rss)
+### verhandlungen
 
-* [https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-beitragserhoehung-zum-jahreswechsel-was-tun](https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-beitragserhoehung-zum-jahreswechsel-was-tun-a-aa23ab62-325f-4e1d-9692-4505595a5ec3#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-beitragserhoehung-zum-jahreswechsel-was-tun](https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-beitragserhoehung-zum-jahreswechsel-was-tun-a-aa23ab62-325f-4e1d-9692-4505595a5ec3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konjunktur-deutsche-industrieproduktion-steigt-dritten-monat-in-folge](https://www.spiegel.de/wirtschaft/konjunktur-deutsche-industrieproduktion-steigt-dritten-monat-in-folge-a-bc6d1027-7d50-45cb-ae1a-b49b9ee7ffd4#ref=rss)
-### zweiten
-
-* [https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-beitragserhoehung-zum-jahreswechsel-was-tun](https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-beitragserhoehung-zum-jahreswechsel-was-tun-a-aa23ab62-325f-4e1d-9692-4505595a5ec3#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-setzt-nach-eigenen-angaben-oreschnik-mittelstreckenrakete-erneut-ein](https://www.spiegel.de/ausland/ukraine-krieg-russland-setzt-nach-eigenen-angaben-oreschnik-mittelstreckenrakete-erneut-ein-a-81c6605e-71ad-486c-a118-e970f325a011#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-beitragserhoehung-zum-jahreswechsel-was-tun](https://www.spiegel.de/wirtschaft/gesetzliche-krankenkassen-beitragserhoehung-zum-jahreswechsel-was-tun-a-aa23ab62-325f-4e1d-9692-4505595a5ec3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/skoda-verdoppelt-marktanteil-tesla-ist-verlierer-des-jahres](https://www.spiegel.de/wirtschaft/skoda-verdoppelt-marktanteil-tesla-ist-verlierer-des-jahres-a-cea5e3f6-59dc-41f1-a087-cc6a631cb1e7#ref=rss)
-### industrieproduktion
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-deutsche-industrieproduktion-steigt-dritten-monat-in-folge](https://www.spiegel.de/wirtschaft/konjunktur-deutsche-industrieproduktion-steigt-dritten-monat-in-folge-a-bc6d1027-7d50-45cb-ae1a-b49b9ee7ffd4#ref=rss)
-### dritten
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-deutsche-industrieproduktion-steigt-dritten-monat-in-folge](https://www.spiegel.de/wirtschaft/konjunktur-deutsche-industrieproduktion-steigt-dritten-monat-in-folge-a-bc6d1027-7d50-45cb-ae1a-b49b9ee7ffd4#ref=rss)
-### folge
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-deutsche-industrieproduktion-steigt-dritten-monat-in-folge](https://www.spiegel.de/wirtschaft/konjunktur-deutsche-industrieproduktion-steigt-dritten-monat-in-folge-a-bc6d1027-7d50-45cb-ae1a-b49b9ee7ffd4#ref=rss)
-### hatten
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-deutsche-industrieproduktion-steigt-dritten-monat-in-folge](https://www.spiegel.de/wirtschaft/konjunktur-deutsche-industrieproduktion-steigt-dritten-monat-in-folge-a-bc6d1027-7d50-45cb-ae1a-b49b9ee7ffd4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/skoda-verdoppelt-marktanteil-tesla-ist-verlierer-des-jahres](https://www.spiegel.de/wirtschaft/skoda-verdoppelt-marktanteil-tesla-ist-verlierer-des-jahres-a-cea5e3f6-59dc-41f1-a087-cc6a631cb1e7#ref=rss)
-### schneesturm
+* [https://www.spiegel.de/ausland/niederlande-parteien-einigen-sich-auf-minderheitsregierung](https://www.spiegel.de/ausland/niederlande-parteien-einigen-sich-auf-minderheitsregierung-a-2d7f1714-bc54-44c8-801c-fb7e0d604c48#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gaskraftwerke-eu-will-12-gigawatt-bis-2031-genehmigen](https://www.spiegel.de/wirtschaft/soziales/gaskraftwerke-eu-will-12-gigawatt-bis-2031-genehmigen-a-3ec54de5-6a18-49a6-bd9b-4029ebfc6ce6#ref=rss)
+### bergen
 
 * [https://www.spiegel.de/panorama/schneesturm-elli-heute-im-live-blog-s-bahn-hannover-stellt-betrieb-ein-vielerorts-fahren-auch-keine-busse](https://www.spiegel.de/panorama/schneesturm-elli-heute-im-live-blog-s-bahn-hannover-stellt-betrieb-ein-vielerorts-fahren-auch-keine-busse-a-248dde81-bca4-42af-bbc0-7d4aa2bd0571#ref=rss)
-* [https://www.spiegel.de/panorama/winter-wetter-in-deutschland-schulen-und-verkehr-betroffen-durch-schneesturm](https://www.spiegel.de/panorama/winter-wetter-in-deutschland-schulen-und-verkehr-betroffen-durch-schneesturm-a-59009ae1-a671-4803-aa82-bf130439f497#ref=rss)
-### bahn
+### norden
 
 * [https://www.spiegel.de/panorama/schneesturm-elli-heute-im-live-blog-s-bahn-hannover-stellt-betrieb-ein-vielerorts-fahren-auch-keine-busse](https://www.spiegel.de/panorama/schneesturm-elli-heute-im-live-blog-s-bahn-hannover-stellt-betrieb-ein-vielerorts-fahren-auch-keine-busse-a-248dde81-bca4-42af-bbc0-7d4aa2bd0571#ref=rss)
+* [https://www.spiegel.de/kultur/sturmtief-elli-im-norden-warum-wir-so-gut-ueber-schneechaos-reden-koennen](https://www.spiegel.de/kultur/sturmtief-elli-im-norden-warum-wir-so-gut-ueber-schneechaos-reden-koennen-a-561cbbb5-0861-4540-8abc-63d5d35757aa#ref=rss)
+### alle
+
+* [https://www.spiegel.de/panorama/schneesturm-elli-heute-im-live-blog-s-bahn-hannover-stellt-betrieb-ein-vielerorts-fahren-auch-keine-busse](https://www.spiegel.de/panorama/schneesturm-elli-heute-im-live-blog-s-bahn-hannover-stellt-betrieb-ein-vielerorts-fahren-auch-keine-busse-a-248dde81-bca4-42af-bbc0-7d4aa2bd0571#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-in-cortina-dampezzo-zeitplan-sportarten-medaillenspiegel](https://www.spiegel.de/sport/olympia/olympia-2026-in-cortina-dampezzo-zeitplan-sportarten-medaillenspiegel-a-f17c628f-ff0b-42c1-906e-40b69f5df0fd#ref=rss)
 ### news
 
 * [https://www.spiegel.de/panorama/schneesturm-elli-heute-im-live-blog-s-bahn-hannover-stellt-betrieb-ein-vielerorts-fahren-auch-keine-busse](https://www.spiegel.de/panorama/schneesturm-elli-heute-im-live-blog-s-bahn-hannover-stellt-betrieb-ein-vielerorts-fahren-auch-keine-busse-a-248dde81-bca4-42af-bbc0-7d4aa2bd0571#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz](https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz-a-8568b5f1-1d76-44db-80b7-ea7c24e7cfb7#ref=rss)
-### philippinen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wetter-schnee-mercosur-abkommen-syrien](https://www.spiegel.de/politik/deutschland/news-des-tages-wetter-schnee-mercosur-abkommen-syrien-a-dc40ffc5-a4d2-4fe6-83ac-b1df9d6e4447#ref=rss)
+### offener
 
-* [https://www.spiegel.de/panorama/philippinen-mindestens-ein-mensch-stirbt-bei-muelllawine](https://www.spiegel.de/panorama/philippinen-mindestens-ein-mensch-stirbt-bei-muelllawine-a-1c3c2d45-aad3-4b0e-9458-0657a11db6ad#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bsw-im-brandenburger-landtag-das-ende-einer-fraktion-auf-offener-buehne](https://www.spiegel.de/politik/deutschland/bsw-im-brandenburger-landtag-das-ende-einer-fraktion-auf-offener-buehne-a-64fae729-946a-4108-97e8-9706c0d33302#ref=rss)
+### bühne
+
+* [https://www.spiegel.de/politik/deutschland/bsw-im-brandenburger-landtag-das-ende-einer-fraktion-auf-offener-buehne](https://www.spiegel.de/politik/deutschland/bsw-im-brandenburger-landtag-das-ende-einer-fraktion-auf-offener-buehne-a-64fae729-946a-4108-97e8-9706c0d33302#ref=rss)
+### koalitionsaus
+
+* [https://www.spiegel.de/politik/deutschland/bsw-im-brandenburger-landtag-das-ende-einer-fraktion-auf-offener-buehne](https://www.spiegel.de/politik/deutschland/bsw-im-brandenburger-landtag-das-ende-einer-fraktion-auf-offener-buehne-a-64fae729-946a-4108-97e8-9706c0d33302#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab](https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab-a-081bc6ff-4e72-4031-a65b-88643cd655c0#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/politik/deutschland/bsw-im-brandenburger-landtag-das-ende-einer-fraktion-auf-offener-buehne](https://www.spiegel.de/politik/deutschland/bsw-im-brandenburger-landtag-das-ende-einer-fraktion-auf-offener-buehne-a-64fae729-946a-4108-97e8-9706c0d33302#ref=rss)
+* [https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus](https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus-a-46c9e04f-6556-4211-83d7-4fbcf0022e17#ref=rss)
+### mercosurabkommen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wetter-schnee-mercosur-abkommen-syrien](https://www.spiegel.de/politik/deutschland/news-des-tages-wetter-schnee-mercosur-abkommen-syrien-a-dc40ffc5-a4d2-4fe6-83ac-b1df9d6e4447#ref=rss)
+### macht
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wetter-schnee-mercosur-abkommen-syrien](https://www.spiegel.de/politik/deutschland/news-des-tages-wetter-schnee-mercosur-abkommen-syrien-a-dc40ffc5-a4d2-4fe6-83ac-b1df9d6e4447#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-lebenslange-haft-nach-femizid-an-bekanntschaft-aus-dem-fitnessstudio](https://www.spiegel.de/panorama/justiz/stuttgart-lebenslange-haft-nach-femizid-an-bekanntschaft-aus-dem-fitnessstudio-a-64d2250c-9c55-49e0-b122-73ce33b52710#ref=rss)
+### ländern
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wetter-schnee-mercosur-abkommen-syrien](https://www.spiegel.de/politik/deutschland/news-des-tages-wetter-schnee-mercosur-abkommen-syrien-a-dc40ffc5-a4d2-4fe6-83ac-b1df9d6e4447#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-in-italien-ist-das-vertrauen-in-die-schweizer-justiz-erschuettert](https://www.spiegel.de/ausland/crans-montana-in-italien-ist-das-vertrauen-in-die-schweizer-justiz-erschuettert-a-e47289c5-41b4-4128-bd9c-c2526a39121b#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wetter-schnee-mercosur-abkommen-syrien](https://www.spiegel.de/politik/deutschland/news-des-tages-wetter-schnee-mercosur-abkommen-syrien-a-dc40ffc5-a4d2-4fe6-83ac-b1df9d6e4447#ref=rss)
+* [https://www.spiegel.de/auto/fahrkultur/adac-experte-zum-winter-wetter-manche-fahren-als-sei-der-schnee-nur-eine-huebsche-deko](https://www.spiegel.de/auto/fahrkultur/adac-experte-zum-winter-wetter-manche-fahren-als-sei-der-schnee-nur-eine-huebsche-deko-a-e340f373-ae96-44e3-af56-0c79bb23e428#ref=rss)
+### wir
+
+* [https://www.spiegel.de/kultur/sturmtief-elli-im-norden-warum-wir-so-gut-ueber-schneechaos-reden-koennen](https://www.spiegel.de/kultur/sturmtief-elli-im-norden-warum-wir-so-gut-ueber-schneechaos-reden-koennen-a-561cbbb5-0861-4540-8abc-63d5d35757aa#ref=rss)
+### straßen
+
+* [https://www.spiegel.de/auto/fahrkultur/adac-experte-zum-winter-wetter-manche-fahren-als-sei-der-schnee-nur-eine-huebsche-deko](https://www.spiegel.de/auto/fahrkultur/adac-experte-zum-winter-wetter-manche-fahren-als-sei-der-schnee-nur-eine-huebsche-deko-a-e340f373-ae96-44e3-af56-0c79bb23e428#ref=rss)
+* [https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus](https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus-a-46c9e04f-6556-4211-83d7-4fbcf0022e17#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/auto/fahrkultur/adac-experte-zum-winter-wetter-manche-fahren-als-sei-der-schnee-nur-eine-huebsche-deko](https://www.spiegel.de/auto/fahrkultur/adac-experte-zum-winter-wetter-manche-fahren-als-sei-der-schnee-nur-eine-huebsche-deko-a-e340f373-ae96-44e3-af56-0c79bb23e428#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-vizepraesident-omid-nouripour-von-den-gruenen-sieht-neue-kosten-bei-neubauten](https://www.spiegel.de/politik/deutschland/bundestag-vizepraesident-omid-nouripour-von-den-gruenen-sieht-neue-kosten-bei-neubauten-a-b7d4942e-7841-40fb-898d-4970676be642#ref=rss)
+### klitschko
+
+* [https://www.spiegel.de/ausland/kyjiw-ukraine-vitali-klitschko-raet-buergern-von-kyjiw-zum-verlassen-der-stadt](https://www.spiegel.de/ausland/kyjiw-ukraine-vitali-klitschko-raet-buergern-von-kyjiw-zum-verlassen-der-stadt-a-a753a7e7-9dae-4b77-958b-eb6ffb61bcb3#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/ausland/kyjiw-ukraine-vitali-klitschko-raet-buergern-von-kyjiw-zum-verlassen-der-stadt](https://www.spiegel.de/ausland/kyjiw-ukraine-vitali-klitschko-raet-buergern-von-kyjiw-zum-verlassen-der-stadt-a-a753a7e7-9dae-4b77-958b-eb6ffb61bcb3#ref=rss)
+### jüngste
+
+* [https://www.spiegel.de/ausland/kyjiw-ukraine-vitali-klitschko-raet-buergern-von-kyjiw-zum-verlassen-der-stadt](https://www.spiegel.de/ausland/kyjiw-ukraine-vitali-klitschko-raet-buergern-von-kyjiw-zum-verlassen-der-stadt-a-a753a7e7-9dae-4b77-958b-eb6ffb61bcb3#ref=rss)
+* [https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus](https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus-a-46c9e04f-6556-4211-83d7-4fbcf0022e17#ref=rss)
+### wärme
+
+* [https://www.spiegel.de/ausland/kyjiw-ukraine-vitali-klitschko-raet-buergern-von-kyjiw-zum-verlassen-der-stadt](https://www.spiegel.de/ausland/kyjiw-ukraine-vitali-klitschko-raet-buergern-von-kyjiw-zum-verlassen-der-stadt-a-a753a7e7-9dae-4b77-958b-eb6ffb61bcb3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-ozeane-nahmen-2025-rekordmenge-an-waerme-auf-zum-neunten-mal-in-folge](https://www.spiegel.de/wissenschaft/natur/klimawandel-ozeane-nahmen-2025-rekordmenge-an-waerme-auf-zum-neunten-mal-in-folge-a-efa2e493-0227-4118-81fe-8fb42d546cf4#ref=rss)
+### proteste
+
+* [https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus](https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus-a-46c9e04f-6556-4211-83d7-4fbcf0022e17#ref=rss)
+* [https://www.spiegel.de/ausland/iran-tote-bei-protestwelle-praesident-ruft-sicherheitskraefte-zur-zurueckhaltung-auf](https://www.spiegel.de/ausland/iran-tote-bei-protestwelle-praesident-ruft-sicherheitskraefte-zur-zurueckhaltung-auf-a-b19559a2-546b-405c-b5b4-3963c6a6cf74#ref=rss)
+### regime
+
+* [https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus](https://www.spiegel.de/ausland/iran-so-breiten-sich-die-regimekritischen-proteste-aus-a-46c9e04f-6556-4211-83d7-4fbcf0022e17#ref=rss)
+* [https://www.spiegel.de/ausland/iran-tote-bei-protestwelle-praesident-ruft-sicherheitskraefte-zur-zurueckhaltung-auf](https://www.spiegel.de/ausland/iran-tote-bei-protestwelle-praesident-ruft-sicherheitskraefte-zur-zurueckhaltung-auf-a-b19559a2-546b-405c-b5b4-3963c6a6cf74#ref=rss)
+### nahmen
+
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-ozeane-nahmen-2025-rekordmenge-an-waerme-auf-zum-neunten-mal-in-folge](https://www.spiegel.de/wissenschaft/natur/klimawandel-ozeane-nahmen-2025-rekordmenge-an-waerme-auf-zum-neunten-mal-in-folge-a-efa2e493-0227-4118-81fe-8fb42d546cf4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/crans-montana-le-constellation-behoerden-nehmen-betreiber-fest](https://www.spiegel.de/panorama/justiz/crans-montana-le-constellation-behoerden-nehmen-betreiber-fest-a-6e7934df-8fc9-4696-bd05-9589e6976e92#ref=rss)
+### vergangenen
+
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-ozeane-nahmen-2025-rekordmenge-an-waerme-auf-zum-neunten-mal-in-folge](https://www.spiegel.de/wissenschaft/natur/klimawandel-ozeane-nahmen-2025-rekordmenge-an-waerme-auf-zum-neunten-mal-in-folge-a-efa2e493-0227-4118-81fe-8fb42d546cf4#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-frankreich-verschiebt-g7-gipfel-angeblich-wegen-trumps-kaefigkampf](https://www.spiegel.de/ausland/donald-trump-frankreich-verschiebt-g7-gipfel-angeblich-wegen-trumps-kaefigkampf-a-f6f014b5-68e8-4de3-ae7b-a9927ad6e05b#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-frankreich-verschiebt-g7-gipfel-angeblich-wegen-trumps-kaefigkampf](https://www.spiegel.de/ausland/donald-trump-frankreich-verschiebt-g7-gipfel-angeblich-wegen-trumps-kaefigkampf-a-f6f014b5-68e8-4de3-ae7b-a9927ad6e05b#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/ausland/donald-trump-frankreich-verschiebt-g7-gipfel-angeblich-wegen-trumps-kaefigkampf](https://www.spiegel.de/ausland/donald-trump-frankreich-verschiebt-g7-gipfel-angeblich-wegen-trumps-kaefigkampf-a-f6f014b5-68e8-4de3-ae7b-a9927ad6e05b#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-in-italien-ist-das-vertrauen-in-die-schweizer-justiz-erschuettert](https://www.spiegel.de/ausland/crans-montana-in-italien-ist-das-vertrauen-in-die-schweizer-justiz-erschuettert-a-e47289c5-41b4-4128-bd9c-c2526a39121b#ref=rss)
+### g7gipfel
+
+* [https://www.spiegel.de/ausland/donald-trump-frankreich-verschiebt-g7-gipfel-angeblich-wegen-trumps-kaefigkampf](https://www.spiegel.de/ausland/donald-trump-frankreich-verschiebt-g7-gipfel-angeblich-wegen-trumps-kaefigkampf-a-f6f014b5-68e8-4de3-ae7b-a9927ad6e05b#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/donald-trump-frankreich-verschiebt-g7-gipfel-angeblich-wegen-trumps-kaefigkampf](https://www.spiegel.de/ausland/donald-trump-frankreich-verschiebt-g7-gipfel-angeblich-wegen-trumps-kaefigkampf-a-f6f014b5-68e8-4de3-ae7b-a9927ad6e05b#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-usa-warum-widerstand-gegen-trumps-ice-so-gefaehrlich-ist](https://www.spiegel.de/ausland/minneapolis-usa-warum-widerstand-gegen-trumps-ice-so-gefaehrlich-ist-a-9dc26c56-9e94-413e-935c-d5548f7fb2aa#ref=rss)
+### öltanker
+
+* [https://www.spiegel.de/ausland/usa-entern-erneut-oeltanker-in-der-karibik](https://www.spiegel.de/ausland/usa-entern-erneut-oeltanker-in-der-karibik-a-c10b59c6-008c-463b-9e21-80e8a42f32d0#ref=rss)
+### karibik
+
+* [https://www.spiegel.de/ausland/usa-entern-erneut-oeltanker-in-der-karibik](https://www.spiegel.de/ausland/usa-entern-erneut-oeltanker-in-der-karibik-a-c10b59c6-008c-463b-9e21-80e8a42f32d0#ref=rss)
+### braunschweig
+
+* [https://www.spiegel.de/panorama/justiz/goslar-braunschweig-mann-zu-lebenslanger-haft-verurteilt-weil-er-seine-schlafende-ehefrau-anzuendete](https://www.spiegel.de/panorama/justiz/goslar-braunschweig-mann-zu-lebenslanger-haft-verurteilt-weil-er-seine-schlafende-ehefrau-anzuendete-a-ef4bf800-faf9-4328-81c8-27211a9a12c5#ref=rss)
+### haft
+
+* [https://www.spiegel.de/panorama/justiz/goslar-braunschweig-mann-zu-lebenslanger-haft-verurteilt-weil-er-seine-schlafende-ehefrau-anzuendete](https://www.spiegel.de/panorama/justiz/goslar-braunschweig-mann-zu-lebenslanger-haft-verurteilt-weil-er-seine-schlafende-ehefrau-anzuendete-a-ef4bf800-faf9-4328-81c8-27211a9a12c5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-lebenslange-haft-nach-femizid-an-bekanntschaft-aus-dem-fitnessstudio](https://www.spiegel.de/panorama/justiz/stuttgart-lebenslange-haft-nach-femizid-an-bekanntschaft-aus-dem-fitnessstudio-a-64d2250c-9c55-49e0-b122-73ce33b52710#ref=rss)
+### ehefrau
+
+* [https://www.spiegel.de/panorama/justiz/goslar-braunschweig-mann-zu-lebenslanger-haft-verurteilt-weil-er-seine-schlafende-ehefrau-anzuendete](https://www.spiegel.de/panorama/justiz/goslar-braunschweig-mann-zu-lebenslanger-haft-verurteilt-weil-er-seine-schlafende-ehefrau-anzuendete-a-ef4bf800-faf9-4328-81c8-27211a9a12c5#ref=rss)
+### bad
+
+* [https://www.spiegel.de/kultur/musik/bad-bunny-wegen-gesangs-diebstahls-verklagt](https://www.spiegel.de/kultur/musik/bad-bunny-wegen-gesangs-diebstahls-verklagt-a-de210cc4-1063-475f-bca0-fda989bb98d0#ref=rss)
+### bunny
+
+* [https://www.spiegel.de/kultur/musik/bad-bunny-wegen-gesangs-diebstahls-verklagt](https://www.spiegel.de/kultur/musik/bad-bunny-wegen-gesangs-diebstahls-verklagt-a-de210cc4-1063-475f-bca0-fda989bb98d0#ref=rss)
 ### frau
 
-* [https://www.spiegel.de/panorama/philippinen-mindestens-ein-mensch-stirbt-bei-muelllawine](https://www.spiegel.de/panorama/philippinen-mindestens-ein-mensch-stirbt-bei-muelllawine-a-1c3c2d45-aad3-4b0e-9458-0657a11db6ad#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz](https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz-a-8568b5f1-1d76-44db-80b7-ea7c24e7cfb7#ref=rss)
-### leben
+* [https://www.spiegel.de/kultur/musik/bad-bunny-wegen-gesangs-diebstahls-verklagt](https://www.spiegel.de/kultur/musik/bad-bunny-wegen-gesangs-diebstahls-verklagt-a-de210cc4-1063-475f-bca0-fda989bb98d0#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-usa-warum-widerstand-gegen-trumps-ice-so-gefaehrlich-ist](https://www.spiegel.de/ausland/minneapolis-usa-warum-widerstand-gegen-trumps-ice-so-gefaehrlich-ist-a-9dc26c56-9e94-413e-935c-d5548f7fb2aa#ref=rss)
+### dry
 
-* [https://www.spiegel.de/panorama/philippinen-mindestens-ein-mensch-stirbt-bei-muelllawine](https://www.spiegel.de/panorama/philippinen-mindestens-ein-mensch-stirbt-bei-muelllawine-a-1c3c2d45-aad3-4b0e-9458-0657a11db6ad#ref=rss)
-* [https://www.spiegel.de/panorama/usa-vs-venezuela-krass-was-trump-da-gemacht-hat](https://www.spiegel.de/panorama/usa-vs-venezuela-krass-was-trump-da-gemacht-hat-a-dab78512-aa45-45fe-8e83-693bdd14c466#ref=rss)
-### personen
+* [https://www.spiegel.de/kultur/musik/dry-cleaning-die-sterne-daniel-lopatin-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/dry-cleaning-die-sterne-daniel-lopatin-abgehoert-album-der-woche-a-3c61dd45-b4b1-4f03-9e55-f64e1a7660d5#ref=rss)
+### cleaning
 
-* [https://www.spiegel.de/panorama/philippinen-mindestens-ein-mensch-stirbt-bei-muelllawine](https://www.spiegel.de/panorama/philippinen-mindestens-ein-mensch-stirbt-bei-muelllawine-a-1c3c2d45-aad3-4b0e-9458-0657a11db6ad#ref=rss)
-* [https://www.spiegel.de/ausland/portland-zwei-verletzte-bei-schuessen-von-bundespolizisten-in-den-usa](https://www.spiegel.de/ausland/portland-zwei-verletzte-bei-schuessen-von-bundespolizisten-in-den-usa-a-103d9128-7877-4f14-adff-aa39eccfa949#ref=rss)
-### chicago
+* [https://www.spiegel.de/kultur/musik/dry-cleaning-die-sterne-daniel-lopatin-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/dry-cleaning-die-sterne-daniel-lopatin-abgehoert-album-der-woche-a-3c61dd45-b4b1-4f03-9e55-f64e1a7660d5#ref=rss)
+### sterne
 
-* [https://www.spiegel.de/sport/basketball/nba-feuchtes-parkett-spiel-zwischen-chicago-bulls-und-miami-heat-kurzfristig-abgesagt](https://www.spiegel.de/sport/basketball/nba-feuchtes-parkett-spiel-zwischen-chicago-bulls-und-miami-heat-kurzfristig-abgesagt-a-d6c3d345-72c4-481a-9ef2-48eaa9c1bee6#ref=rss)
-### bulls
+* [https://www.spiegel.de/kultur/musik/dry-cleaning-die-sterne-daniel-lopatin-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/dry-cleaning-die-sterne-daniel-lopatin-abgehoert-album-der-woche-a-3c61dd45-b4b1-4f03-9e55-f64e1a7660d5#ref=rss)
+### bündnis
 
-* [https://www.spiegel.de/sport/basketball/nba-feuchtes-parkett-spiel-zwischen-chicago-bulls-und-miami-heat-kurzfristig-abgesagt](https://www.spiegel.de/sport/basketball/nba-feuchtes-parkett-spiel-zwischen-chicago-bulls-und-miami-heat-kurzfristig-abgesagt-a-d6c3d345-72c4-481a-9ef2-48eaa9c1bee6#ref=rss)
-### miami
+* [https://www.spiegel.de/politik/deutschland/bsw-eine-partei-als-fast-food-unternehmen-das-musste-schiefgehen](https://www.spiegel.de/politik/deutschland/bsw-eine-partei-als-fast-food-unternehmen-das-musste-schiefgehen-a-94de2888-27ca-47c3-8d6b-3cfa7cf08dcf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab](https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab-a-081bc6ff-4e72-4031-a65b-88643cd655c0#ref=rss)
+### gaskraftwerke
 
-* [https://www.spiegel.de/sport/basketball/nba-feuchtes-parkett-spiel-zwischen-chicago-bulls-und-miami-heat-kurzfristig-abgesagt](https://www.spiegel.de/sport/basketball/nba-feuchtes-parkett-spiel-zwischen-chicago-bulls-und-miami-heat-kurzfristig-abgesagt-a-d6c3d345-72c4-481a-9ef2-48eaa9c1bee6#ref=rss)
-### heat
+* [https://www.spiegel.de/wirtschaft/soziales/gaskraftwerke-eu-will-12-gigawatt-bis-2031-genehmigen](https://www.spiegel.de/wirtschaft/soziales/gaskraftwerke-eu-will-12-gigawatt-bis-2031-genehmigen-a-3ec54de5-6a18-49a6-bd9b-4029ebfc6ce6#ref=rss)
+### abdelkader
 
-* [https://www.spiegel.de/sport/basketball/nba-feuchtes-parkett-spiel-zwischen-chicago-bulls-und-miami-heat-kurzfristig-abgesagt](https://www.spiegel.de/sport/basketball/nba-feuchtes-parkett-spiel-zwischen-chicago-bulls-und-miami-heat-kurzfristig-abgesagt-a-d6c3d345-72c4-481a-9ef2-48eaa9c1bee6#ref=rss)
-### kosten
+* [https://www.spiegel.de/politik/deutschland/migration-box-champion-abdelkader-selmi-von-eintracht-frankfurt-droht-trotz-guter-integration-abschiebung](https://www.spiegel.de/politik/deutschland/migration-box-champion-abdelkader-selmi-von-eintracht-frankfurt-droht-trotz-guter-integration-abschiebung-a-d45a3ae9-07bb-4823-a374-885bca137ae8#ref=rss)
+### selmi
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-ordnet-massive-kaeufe-von-hypothekenanleihen-an](https://www.spiegel.de/wirtschaft/donald-trump-ordnet-massive-kaeufe-von-hypothekenanleihen-an-a-a5141a23-dbd9-4040-bc78-ec166d1f8774#ref=rss)
-* [https://www.spiegel.de/stil/erewhon-in-los-angeles-der-supermarkt-der-superstars-wo-acht-eiswuerfel-dreissig-dollar-kosten](https://www.spiegel.de/stil/erewhon-in-los-angeles-der-supermarkt-der-superstars-wo-acht-eiswuerfel-dreissig-dollar-kosten-a-dba4dea3-1cfb-45cc-8331-94646d2153dc#ref=rss)
-### druck
+* [https://www.spiegel.de/politik/deutschland/migration-box-champion-abdelkader-selmi-von-eintracht-frankfurt-droht-trotz-guter-integration-abschiebung](https://www.spiegel.de/politik/deutschland/migration-box-champion-abdelkader-selmi-von-eintracht-frankfurt-droht-trotz-guter-integration-abschiebung-a-d45a3ae9-07bb-4823-a374-885bca137ae8#ref=rss)
+### eintracht
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-ordnet-massive-kaeufe-von-hypothekenanleihen-an](https://www.spiegel.de/wirtschaft/donald-trump-ordnet-massive-kaeufe-von-hypothekenanleihen-an-a-a5141a23-dbd9-4040-bc78-ec166d1f8774#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verdi-droht-mit-warnstreiks-bei-autobahn-gmbh](https://www.spiegel.de/wirtschaft/verdi-droht-mit-warnstreiks-bei-autobahn-gmbh-a-3912304e-f3b9-4d54-8394-505c8356cd31#ref=rss)
-### venezuela
+* [https://www.spiegel.de/politik/deutschland/migration-box-champion-abdelkader-selmi-von-eintracht-frankfurt-droht-trotz-guter-integration-abschiebung](https://www.spiegel.de/politik/deutschland/migration-box-champion-abdelkader-selmi-von-eintracht-frankfurt-droht-trotz-guter-integration-abschiebung-a-d45a3ae9-07bb-4823-a374-885bca137ae8#ref=rss)
+### frankfurt
 
-* [https://www.spiegel.de/ausland/venezuela-us-praesident-donald-trump-soll-oppositionsfuehrerin-maria-corina-machado-treffen](https://www.spiegel.de/ausland/venezuela-us-praesident-donald-trump-soll-oppositionsfuehrerin-maria-corina-machado-treffen-a-92b6d2ca-f08c-479b-9119-827a9d445955#ref=rss)
-* [https://www.spiegel.de/panorama/usa-vs-venezuela-krass-was-trump-da-gemacht-hat](https://www.spiegel.de/panorama/usa-vs-venezuela-krass-was-trump-da-gemacht-hat-a-dab78512-aa45-45fe-8e83-693bdd14c466#ref=rss)
-### maría
+* [https://www.spiegel.de/politik/deutschland/migration-box-champion-abdelkader-selmi-von-eintracht-frankfurt-droht-trotz-guter-integration-abschiebung](https://www.spiegel.de/politik/deutschland/migration-box-champion-abdelkader-selmi-von-eintracht-frankfurt-droht-trotz-guter-integration-abschiebung-a-d45a3ae9-07bb-4823-a374-885bca137ae8#ref=rss)
+### spd
 
-* [https://www.spiegel.de/ausland/venezuela-us-praesident-donald-trump-soll-oppositionsfuehrerin-maria-corina-machado-treffen](https://www.spiegel.de/ausland/venezuela-us-praesident-donald-trump-soll-oppositionsfuehrerin-maria-corina-machado-treffen-a-92b6d2ca-f08c-479b-9119-827a9d445955#ref=rss)
-### corina
+* [https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab](https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab-a-081bc6ff-4e72-4031-a65b-88643cd655c0#ref=rss)
+### parlaments
 
-* [https://www.spiegel.de/ausland/venezuela-us-praesident-donald-trump-soll-oppositionsfuehrerin-maria-corina-machado-treffen](https://www.spiegel.de/ausland/venezuela-us-praesident-donald-trump-soll-oppositionsfuehrerin-maria-corina-machado-treffen-a-92b6d2ca-f08c-479b-9119-827a9d445955#ref=rss)
-### machado
+* [https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab](https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab-a-081bc6ff-4e72-4031-a65b-88643cd655c0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-vizepraesident-omid-nouripour-von-den-gruenen-sieht-neue-kosten-bei-neubauten](https://www.spiegel.de/politik/deutschland/bundestag-vizepraesident-omid-nouripour-von-den-gruenen-sieht-neue-kosten-bei-neubauten-a-b7d4942e-7841-40fb-898d-4970676be642#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/ausland/venezuela-us-praesident-donald-trump-soll-oppositionsfuehrerin-maria-corina-machado-treffen](https://www.spiegel.de/ausland/venezuela-us-praesident-donald-trump-soll-oppositionsfuehrerin-maria-corina-machado-treffen-a-92b6d2ca-f08c-479b-9119-827a9d445955#ref=rss)
-### treffen
+* [https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab](https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab-a-081bc6ff-4e72-4031-a65b-88643cd655c0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-vizepraesident-omid-nouripour-von-den-gruenen-sieht-neue-kosten-bei-neubauten](https://www.spiegel.de/politik/deutschland/bundestag-vizepraesident-omid-nouripour-von-den-gruenen-sieht-neue-kosten-bei-neubauten-a-b7d4942e-7841-40fb-898d-4970676be642#ref=rss)
+### entscheidung
 
-* [https://www.spiegel.de/ausland/venezuela-us-praesident-donald-trump-soll-oppositionsfuehrerin-maria-corina-machado-treffen](https://www.spiegel.de/ausland/venezuela-us-praesident-donald-trump-soll-oppositionsfuehrerin-maria-corina-machado-treffen-a-92b6d2ca-f08c-479b-9119-827a9d445955#ref=rss)
-### jennifer
+* [https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab](https://www.spiegel.de/politik/deutschland/brandenburg-nach-koalitionsaus-von-bsw-und-spd-landtag-lehnt-neuwahl-ab-a-081bc6ff-4e72-4031-a65b-88643cd655c0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-dfb-nationalmannschaft-bezieht-quartier-in-north-carolina](https://www.spiegel.de/sport/fussball/fussball-wm-dfb-nationalmannschaft-bezieht-quartier-in-north-carolina-a-9c7deb4b-4b41-45a9-b086-4a4cf4aec509#ref=rss)
+### betreiber
 
-* [https://www.spiegel.de/panorama/leute/jennifer-garner-ueber-ihre-scheidung-und-den-umgang-mit-der-klatschpresse](https://www.spiegel.de/panorama/leute/jennifer-garner-ueber-ihre-scheidung-und-den-umgang-mit-der-klatschpresse-a-b13bcab1-ed50-4536-9ca3-5a0439182563#ref=rss)
-### garner
+* [https://www.spiegel.de/panorama/justiz/crans-montana-le-constellation-behoerden-nehmen-betreiber-fest](https://www.spiegel.de/panorama/justiz/crans-montana-le-constellation-behoerden-nehmen-betreiber-fest-a-6e7934df-8fc9-4696-bd05-9589e6976e92#ref=rss)
+### cortina
 
-* [https://www.spiegel.de/panorama/leute/jennifer-garner-ueber-ihre-scheidung-und-den-umgang-mit-der-klatschpresse](https://www.spiegel.de/panorama/leute/jennifer-garner-ueber-ihre-scheidung-und-den-umgang-mit-der-klatschpresse-a-b13bcab1-ed50-4536-9ca3-5a0439182563#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/leute/jennifer-garner-ueber-ihre-scheidung-und-den-umgang-mit-der-klatschpresse](https://www.spiegel.de/panorama/leute/jennifer-garner-ueber-ihre-scheidung-und-den-umgang-mit-der-klatschpresse-a-b13bcab1-ed50-4536-9ca3-5a0439182563#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-lula-verhindert-strafmilderung-fuer-bolsonaro-und-anhaenger-nach-putschversuch](https://www.spiegel.de/ausland/brasilien-lula-verhindert-strafmilderung-fuer-bolsonaro-und-anhaenger-nach-putschversuch-a-aa3f3c03-6b20-4928-b234-95c6471dadb8#ref=rss)
-### etwas
-
-* [https://www.spiegel.de/panorama/leute/jennifer-garner-ueber-ihre-scheidung-und-den-umgang-mit-der-klatschpresse](https://www.spiegel.de/panorama/leute/jennifer-garner-ueber-ihre-scheidung-und-den-umgang-mit-der-klatschpresse-a-b13bcab1-ed50-4536-9ca3-5a0439182563#ref=rss)
-* [https://www.spiegel.de/stil/kochen-diese-fuenf-geschmacksbooster-machen-ihre-gerichte-perfekt](https://www.spiegel.de/stil/kochen-diese-fuenf-geschmacksbooster-machen-ihre-gerichte-perfekt-a-fc1b675b-07e3-4ef7-af2c-b003a9802456#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/panorama/usa-vs-venezuela-krass-was-trump-da-gemacht-hat](https://www.spiegel.de/panorama/usa-vs-venezuela-krass-was-trump-da-gemacht-hat-a-dab78512-aa45-45fe-8e83-693bdd14c466#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-lula-verhindert-strafmilderung-fuer-bolsonaro-und-anhaenger-nach-putschversuch](https://www.spiegel.de/ausland/brasilien-lula-verhindert-strafmilderung-fuer-bolsonaro-und-anhaenger-nach-putschversuch-a-aa3f3c03-6b20-4928-b234-95c6471dadb8#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/usa-vs-venezuela-krass-was-trump-da-gemacht-hat](https://www.spiegel.de/panorama/usa-vs-venezuela-krass-was-trump-da-gemacht-hat-a-dab78512-aa45-45fe-8e83-693bdd14c466#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-lula-verhindert-strafmilderung-fuer-bolsonaro-und-anhaenger-nach-putschversuch](https://www.spiegel.de/ausland/brasilien-lula-verhindert-strafmilderung-fuer-bolsonaro-und-anhaenger-nach-putschversuch-a-aa3f3c03-6b20-4928-b234-95c6471dadb8#ref=rss)
-### skoda
-
-* [https://www.spiegel.de/wirtschaft/skoda-verdoppelt-marktanteil-tesla-ist-verlierer-des-jahres](https://www.spiegel.de/wirtschaft/skoda-verdoppelt-marktanteil-tesla-ist-verlierer-des-jahres-a-cea5e3f6-59dc-41f1-a087-cc6a631cb1e7#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/wirtschaft/skoda-verdoppelt-marktanteil-tesla-ist-verlierer-des-jahres](https://www.spiegel.de/wirtschaft/skoda-verdoppelt-marktanteil-tesla-ist-verlierer-des-jahres-a-cea5e3f6-59dc-41f1-a087-cc6a631cb1e7#ref=rss)
-### allem
-
-* [https://www.spiegel.de/wirtschaft/skoda-verdoppelt-marktanteil-tesla-ist-verlierer-des-jahres](https://www.spiegel.de/wirtschaft/skoda-verdoppelt-marktanteil-tesla-ist-verlierer-des-jahres-a-cea5e3f6-59dc-41f1-a087-cc6a631cb1e7#ref=rss)
-* [https://www.spiegel.de/panorama/winter-wetter-in-deutschland-schulen-und-verkehr-betroffen-durch-schneesturm](https://www.spiegel.de/panorama/winter-wetter-in-deutschland-schulen-und-verkehr-betroffen-durch-schneesturm-a-59009ae1-a671-4803-aa82-bf130439f497#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/wirtschaft/skoda-verdoppelt-marktanteil-tesla-ist-verlierer-des-jahres](https://www.spiegel.de/wirtschaft/skoda-verdoppelt-marktanteil-tesla-ist-verlierer-des-jahres-a-cea5e3f6-59dc-41f1-a087-cc6a631cb1e7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/hochbegabte-haustiere-einige-hunde-lernen-woerter-durch-zuhoeren](https://www.spiegel.de/wissenschaft/natur/hochbegabte-haustiere-einige-hunde-lernen-woerter-durch-zuhoeren-a-56c86b59-5870-4a37-bb69-5a4c769805e4#ref=rss)
-### nutzen
-
-* [https://www.spiegel.de/wirtschaft/buerokratieabbau-sozialversicherungstraeger-wollen-steuer-id-nutzen-duerfen](https://www.spiegel.de/wirtschaft/buerokratieabbau-sozialversicherungstraeger-wollen-steuer-id-nutzen-duerfen-a-e0094791-c2d8-433f-9ebe-28f44ec365f8#ref=rss)
-### dürfen
-
-* [https://www.spiegel.de/wirtschaft/buerokratieabbau-sozialversicherungstraeger-wollen-steuer-id-nutzen-duerfen](https://www.spiegel.de/wirtschaft/buerokratieabbau-sozialversicherungstraeger-wollen-steuer-id-nutzen-duerfen-a-e0094791-c2d8-433f-9ebe-28f44ec365f8#ref=rss)
-### reisejahr
-
-* [https://www.spiegel.de/reise/reise-newsletter-wie-sie-im-weganuary-ihr-reisejahr-planen](https://www.spiegel.de/reise/reise-newsletter-wie-sie-im-weganuary-ihr-reisejahr-planen-a-3b69e2a5-3f6b-421d-adef-0234debb8b55#ref=rss)
-### hunde
-
-* [https://www.spiegel.de/wissenschaft/natur/hochbegabte-haustiere-einige-hunde-lernen-woerter-durch-zuhoeren](https://www.spiegel.de/wissenschaft/natur/hochbegabte-haustiere-einige-hunde-lernen-woerter-durch-zuhoeren-a-56c86b59-5870-4a37-bb69-5a4c769805e4#ref=rss)
-### zuhören
-
-* [https://www.spiegel.de/wissenschaft/natur/hochbegabte-haustiere-einige-hunde-lernen-woerter-durch-zuhoeren](https://www.spiegel.de/wissenschaft/natur/hochbegabte-haustiere-einige-hunde-lernen-woerter-durch-zuhoeren-a-56c86b59-5870-4a37-bb69-5a4c769805e4#ref=rss)
-### training
-
-* [https://www.spiegel.de/wissenschaft/natur/hochbegabte-haustiere-einige-hunde-lernen-woerter-durch-zuhoeren](https://www.spiegel.de/wissenschaft/natur/hochbegabte-haustiere-einige-hunde-lernen-woerter-durch-zuhoeren-a-56c86b59-5870-4a37-bb69-5a4c769805e4#ref=rss)
-* [https://www.spiegel.de/stil/kochen-diese-fuenf-geschmacksbooster-machen-ihre-gerichte-perfekt](https://www.spiegel.de/stil/kochen-diese-fuenf-geschmacksbooster-machen-ihre-gerichte-perfekt-a-fc1b675b-07e3-4ef7-af2c-b003a9802456#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-in-cortina-dampezzo-zeitplan-sportarten-medaillenspiegel](https://www.spiegel.de/sport/olympia/olympia-2026-in-cortina-dampezzo-zeitplan-sportarten-medaillenspiegel-a-f17c628f-ff0b-42c1-906e-40b69f5df0fd#ref=rss)
 ### ice
 
-* [https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz](https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz-a-8568b5f1-1d76-44db-80b7-ea7c24e7cfb7#ref=rss)
-### syrien
+* [https://www.spiegel.de/ausland/minneapolis-usa-warum-widerstand-gegen-trumps-ice-so-gefaehrlich-ist](https://www.spiegel.de/ausland/minneapolis-usa-warum-widerstand-gegen-trumps-ice-so-gefaehrlich-ist-a-9dc26c56-9e94-413e-935c-d5548f7fb2aa#ref=rss)
+### genau
 
-* [https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz](https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz-a-8568b5f1-1d76-44db-80b7-ea7c24e7cfb7#ref=rss)
-### cransmontana
+* [https://www.spiegel.de/ausland/minneapolis-usa-warum-widerstand-gegen-trumps-ice-so-gefaehrlich-ist](https://www.spiegel.de/ausland/minneapolis-usa-warum-widerstand-gegen-trumps-ice-so-gefaehrlich-ist-a-9dc26c56-9e94-413e-935c-d5548f7fb2aa#ref=rss)
+* [https://www.spiegel.de/ausland/crans-montana-in-italien-ist-das-vertrauen-in-die-schweizer-justiz-erschuettert](https://www.spiegel.de/ausland/crans-montana-in-italien-ist-das-vertrauen-in-die-schweizer-justiz-erschuettert-a-e47289c5-41b4-4128-bd9c-c2526a39121b#ref=rss)
+### demonstranten
 
-* [https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz](https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz-a-8568b5f1-1d76-44db-80b7-ea7c24e7cfb7#ref=rss)
-### schweiz
+* [https://www.spiegel.de/ausland/iran-tote-bei-protestwelle-praesident-ruft-sicherheitskraefte-zur-zurueckhaltung-auf](https://www.spiegel.de/ausland/iran-tote-bei-protestwelle-praesident-ruft-sicherheitskraefte-zur-zurueckhaltung-auf-a-b19559a2-546b-405c-b5b4-3963c6a6cf74#ref=rss)
+### nabu
 
-* [https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz](https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz-a-8568b5f1-1d76-44db-80b7-ea7c24e7cfb7#ref=rss)
-### freitagmorgen
+* [https://www.spiegel.de/wissenschaft/natur/stunde-der-wintervoegel-nabu-ruft-zum-vogel-zaehlen-auf](https://www.spiegel.de/wissenschaft/natur/stunde-der-wintervoegel-nabu-ruft-zum-vogel-zaehlen-auf-a-0abdb2de-7da2-4d40-84f4-f6b75e163597#ref=rss)
+### ruft
 
-* [https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz](https://www.spiegel.de/politik/deutschland/news-usa-donald-trump-ice-syrien-crans-montana-schweiz-a-8568b5f1-1d76-44db-80b7-ea7c24e7cfb7#ref=rss)
-* [https://www.spiegel.de/panorama/winter-wetter-in-deutschland-schulen-und-verkehr-betroffen-durch-schneesturm](https://www.spiegel.de/panorama/winter-wetter-in-deutschland-schulen-und-verkehr-betroffen-durch-schneesturm-a-59009ae1-a671-4803-aa82-bf130439f497#ref=rss)
-### gerichte
+* [https://www.spiegel.de/wissenschaft/natur/stunde-der-wintervoegel-nabu-ruft-zum-vogel-zaehlen-auf](https://www.spiegel.de/wissenschaft/natur/stunde-der-wintervoegel-nabu-ruft-zum-vogel-zaehlen-auf-a-0abdb2de-7da2-4d40-84f4-f6b75e163597#ref=rss)
+### omid
 
-* [https://www.spiegel.de/stil/kochen-diese-fuenf-geschmacksbooster-machen-ihre-gerichte-perfekt](https://www.spiegel.de/stil/kochen-diese-fuenf-geschmacksbooster-machen-ihre-gerichte-perfekt-a-fc1b675b-07e3-4ef7-af2c-b003a9802456#ref=rss)
-### erewhon
+* [https://www.spiegel.de/politik/deutschland/bundestag-vizepraesident-omid-nouripour-von-den-gruenen-sieht-neue-kosten-bei-neubauten](https://www.spiegel.de/politik/deutschland/bundestag-vizepraesident-omid-nouripour-von-den-gruenen-sieht-neue-kosten-bei-neubauten-a-b7d4942e-7841-40fb-898d-4970676be642#ref=rss)
+### nouripour
 
-* [https://www.spiegel.de/stil/erewhon-in-los-angeles-der-supermarkt-der-superstars-wo-acht-eiswuerfel-dreissig-dollar-kosten](https://www.spiegel.de/stil/erewhon-in-los-angeles-der-supermarkt-der-superstars-wo-acht-eiswuerfel-dreissig-dollar-kosten-a-dba4dea3-1cfb-45cc-8331-94646d2153dc#ref=rss)
-### los
+* [https://www.spiegel.de/politik/deutschland/bundestag-vizepraesident-omid-nouripour-von-den-gruenen-sieht-neue-kosten-bei-neubauten](https://www.spiegel.de/politik/deutschland/bundestag-vizepraesident-omid-nouripour-von-den-gruenen-sieht-neue-kosten-bei-neubauten-a-b7d4942e-7841-40fb-898d-4970676be642#ref=rss)
+### kosten
 
-* [https://www.spiegel.de/stil/erewhon-in-los-angeles-der-supermarkt-der-superstars-wo-acht-eiswuerfel-dreissig-dollar-kosten](https://www.spiegel.de/stil/erewhon-in-los-angeles-der-supermarkt-der-superstars-wo-acht-eiswuerfel-dreissig-dollar-kosten-a-dba4dea3-1cfb-45cc-8331-94646d2153dc#ref=rss)
-### angeles
-
-* [https://www.spiegel.de/stil/erewhon-in-los-angeles-der-supermarkt-der-superstars-wo-acht-eiswuerfel-dreissig-dollar-kosten](https://www.spiegel.de/stil/erewhon-in-los-angeles-der-supermarkt-der-superstars-wo-acht-eiswuerfel-dreissig-dollar-kosten-a-dba4dea3-1cfb-45cc-8331-94646d2153dc#ref=rss)
-### wo
-
-* [https://www.spiegel.de/stil/erewhon-in-los-angeles-der-supermarkt-der-superstars-wo-acht-eiswuerfel-dreissig-dollar-kosten](https://www.spiegel.de/stil/erewhon-in-los-angeles-der-supermarkt-der-superstars-wo-acht-eiswuerfel-dreissig-dollar-kosten-a-dba4dea3-1cfb-45cc-8331-94646d2153dc#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-australien-behoerden-warnen-vor-katastrophalen-bedingungen](https://www.spiegel.de/panorama/waldbraende-in-australien-behoerden-warnen-vor-katastrophalen-bedingungen-a-f72c86fd-280d-4280-94c9-aa897da67022#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/winter-wetter-in-deutschland-schulen-und-verkehr-betroffen-durch-schneesturm](https://www.spiegel.de/panorama/winter-wetter-in-deutschland-schulen-und-verkehr-betroffen-durch-schneesturm-a-59009ae1-a671-4803-aa82-bf130439f497#ref=rss)
-### große
-
-* [https://www.spiegel.de/panorama/winter-wetter-in-deutschland-schulen-und-verkehr-betroffen-durch-schneesturm](https://www.spiegel.de/panorama/winter-wetter-in-deutschland-schulen-und-verkehr-betroffen-durch-schneesturm-a-59009ae1-a671-4803-aa82-bf130439f497#ref=rss)
-* [https://www.spiegel.de/ausland/iran-proteste-spitzen-sich-zu-augenzeuge-es-ist-wie-im-krieg](https://www.spiegel.de/ausland/iran-proteste-spitzen-sich-zu-augenzeuge-es-ist-wie-im-krieg-a-967ced2c-df19-4b04-b879-f4f5929ff178#ref=rss)
-### lula
-
-* [https://www.spiegel.de/ausland/brasilien-lula-verhindert-strafmilderung-fuer-bolsonaro-und-anhaenger-nach-putschversuch](https://www.spiegel.de/ausland/brasilien-lula-verhindert-strafmilderung-fuer-bolsonaro-und-anhaenger-nach-putschversuch-a-aa3f3c03-6b20-4928-b234-95c6471dadb8#ref=rss)
-### verhindert
-
-* [https://www.spiegel.de/ausland/brasilien-lula-verhindert-strafmilderung-fuer-bolsonaro-und-anhaenger-nach-putschversuch](https://www.spiegel.de/ausland/brasilien-lula-verhindert-strafmilderung-fuer-bolsonaro-und-anhaenger-nach-putschversuch-a-aa3f3c03-6b20-4928-b234-95c6471dadb8#ref=rss)
-### anhänger
-
-* [https://www.spiegel.de/ausland/brasilien-lula-verhindert-strafmilderung-fuer-bolsonaro-und-anhaenger-nach-putschversuch](https://www.spiegel.de/ausland/brasilien-lula-verhindert-strafmilderung-fuer-bolsonaro-und-anhaenger-nach-putschversuch-a-aa3f3c03-6b20-4928-b234-95c6471dadb8#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/portland-zwei-verletzte-bei-schuessen-von-bundespolizisten-in-den-usa](https://www.spiegel.de/ausland/portland-zwei-verletzte-bei-schuessen-von-bundespolizisten-in-den-usa-a-103d9128-7877-4f14-adff-aa39eccfa949#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/panorama/waldbraende-in-australien-behoerden-warnen-vor-katastrophalen-bedingungen](https://www.spiegel.de/panorama/waldbraende-in-australien-behoerden-warnen-vor-katastrophalen-bedingungen-a-f72c86fd-280d-4280-94c9-aa897da67022#ref=rss)
-* [https://www.spiegel.de/ausland/iran-proteste-spitzen-sich-zu-augenzeuge-es-ist-wie-im-krieg](https://www.spiegel.de/ausland/iran-proteste-spitzen-sich-zu-augenzeuge-es-ist-wie-im-krieg-a-967ced2c-df19-4b04-b879-f4f5929ff178#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-vizepraesident-omid-nouripour-von-den-gruenen-sieht-neue-kosten-bei-neubauten](https://www.spiegel.de/politik/deutschland/bundestag-vizepraesident-omid-nouripour-von-den-gruenen-sieht-neue-kosten-bei-neubauten-a-b7d4942e-7841-40fb-898d-4970676be642#ref=rss)
 
