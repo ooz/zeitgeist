@@ -4,323 +4,387 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### indien
+### schnee
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette-a-041a080c-d0d8-4267-82c1-9173eb99d45c#ref=rss)
-### 2026
+* [https://www.spiegel.de/panorama/bildung/schulen-wer-entscheidet-ueber-schliessungen-bei-schnee-und-eis](https://www.spiegel.de/panorama/bildung/schulen-wer-entscheidet-ueber-schliessungen-bei-schnee-und-eis-a-92559181-1f7e-40c2-9f14-f5664d2fc410#ref=rss)
+* [https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen](https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen-a-47deca9a-36f1-492d-9ecf-daf5113b55f1#ref=rss)
+* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-glatteis-durch-tief-gunda-fuehren-zu-flugausfaellen](https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-glatteis-durch-tief-gunda-fuehren-zu-flugausfaellen-a-cc4ee177-5642-487e-bba2-72cd2c1367a0#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin](https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin-a-2d8eb6b5-7e46-4e48-aab5-841133e56c57#ref=rss)
-* [https://www.spiegel.de/start/niedriger-nc-wo-der-studienstart-2026-leichter-wird](https://www.spiegel.de/start/niedriger-nc-wo-der-studienstart-2026-leichter-wird-a-f308e244-0eb6-46da-8056-c2d94a8f6d8a#ref=rss)
-* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht](https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht-a-75fd1bfb-ba0f-497d-a9d8-c0fccce3e81a#ref=rss)
-* [https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen](https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen-a-0307bd0b-f7a6-4e36-a77a-91d6e1b89d65#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-iran-internationale-justiz-johann-wadephul-und-lars-klingbeil-in-washington](https://www.spiegel.de/politik/deutschland/news-iran-internationale-justiz-johann-wadephul-und-lars-klingbeil-in-washington-a-7ff5da28-bfee-457d-ac8e-b0d4b5493f52#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette-a-041a080c-d0d8-4267-82c1-9173eb99d45c#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette-a-041a080c-d0d8-4267-82c1-9173eb99d45c#ref=rss)
-### kuntz
-
-* [https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft](https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft-a-c83cec7e-79cd-46a9-a89b-c8e6affd57f9#ref=rss)
-### golden
-
-* [https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin](https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin-a-2d8eb6b5-7e46-4e48-aab5-841133e56c57#ref=rss)
-* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
-### globes
-
-* [https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin](https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin-a-2d8eb6b5-7e46-4e48-aab5-841133e56c57#ref=rss)
-* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht](https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht-a-75fd1bfb-ba0f-497d-a9d8-c0fccce3e81a#ref=rss)
-* [https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen](https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen-a-0307bd0b-f7a6-4e36-a77a-91d6e1b89d65#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/studie-abwanderung-von-pflegekraeften-erhoeht-sterblichkeit](https://www.spiegel.de/wirtschaft/studie-abwanderung-von-pflegekraeften-erhoeht-sterblichkeit-a-09a2bc1e-5b17-4967-9a10-3e501c2ba701#ref=rss)
-* [https://www.spiegel.de/panorama/glaette-in-deutschland-fluege-abgesagt-bahn-drosselt-geschwindigkeit-staus-im-berufsverkehr](https://www.spiegel.de/panorama/glaette-in-deutschland-fluege-abgesagt-bahn-drosselt-geschwindigkeit-staus-im-berufsverkehr-a-f4de63dd-1af9-46f2-a2d3-b849cb04c4ac#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wirtschaft/trump-familie-an-milliardenschwerem-hotelprojekt-in-saudi-arabien-beteiligt](https://www.spiegel.de/wirtschaft/trump-familie-an-milliardenschwerem-hotelprojekt-in-saudi-arabien-beteiligt-a-ab7b8c62-6f92-4bb7-a984-259d6b720e47#ref=rss)
-* [https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht](https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht-a-75fd1bfb-ba0f-497d-a9d8-c0fccce3e81a#ref=rss)
-* [https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen](https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen-a-0307bd0b-f7a6-4e36-a77a-91d6e1b89d65#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette-a-041a080c-d0d8-4267-82c1-9173eb99d45c#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet](https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet-a-4296006d-e8b2-4955-b963-25a7353a72af#ref=rss)
-* [https://www.spiegel.de/karriere/aktivrente-wie-sie-die-aktivrente-optimal-nutzen-und-schon-vor-dem-ruhestand-tausende-euro-dazuverdienen-koennen](https://www.spiegel.de/karriere/aktivrente-wie-sie-die-aktivrente-optimal-nutzen-und-schon-vor-dem-ruhestand-tausende-euro-dazuverdienen-koennen-a-f11a544a-c71a-4516-b137-6e774c41e1d4#ref=rss)
-### auto
-
-* [https://www.spiegel.de/panorama/hamburg-kind-kommt-im-auto-zur-welt](https://www.spiegel.de/panorama/hamburg-kind-kommt-im-auto-zur-welt-a-4d3e0ab5-ceca-452b-9b6c-e2f9c888d7a5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mercedes-gibt-der-neuen-s-klasse-weniger-autonomie](https://www.spiegel.de/wirtschaft/mercedes-gibt-der-neuen-s-klasse-weniger-autonomie-a-402ddb66-3ab7-43c7-89a4-298ab010452e#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht](https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht-a-1b8bc8a6-cd17-4117-8fc5-40ac351d084d#ref=rss)
+* [https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn](https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn-a-a3040d30-c23b-4f08-b3a3-1f4b8a26e98e#ref=rss)
+* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
+* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen](https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen-a-c5cffcae-8052-4217-8382-d82305ea5333#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht](https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht-a-1b8bc8a6-cd17-4117-8fc5-40ac351d084d#ref=rss)
-* [https://www.spiegel.de/panorama/glaette-in-deutschland-fluege-abgesagt-bahn-drosselt-geschwindigkeit-staus-im-berufsverkehr](https://www.spiegel.de/panorama/glaette-in-deutschland-fluege-abgesagt-bahn-drosselt-geschwindigkeit-staus-im-berufsverkehr-a-f4de63dd-1af9-46f2-a2d3-b849cb04c4ac#ref=rss)
-* [https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen](https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen-a-0307bd0b-f7a6-4e36-a77a-91d6e1b89d65#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht](https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht-a-75fd1bfb-ba0f-497d-a9d8-c0fccce3e81a#ref=rss)
-* [https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen](https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen-a-0307bd0b-f7a6-4e36-a77a-91d6e1b89d65#ref=rss)
-### regime
-
-* [https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht](https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht-a-75fd1bfb-ba0f-497d-a9d8-c0fccce3e81a#ref=rss)
-* [https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen](https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen-a-0307bd0b-f7a6-4e36-a77a-91d6e1b89d65#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-iran-internationale-justiz-johann-wadephul-und-lars-klingbeil-in-washington](https://www.spiegel.de/politik/deutschland/news-iran-internationale-justiz-johann-wadephul-und-lars-klingbeil-in-washington-a-7ff5da28-bfee-457d-ac8e-b0d4b5493f52#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/karriere/rente-und-arbeit-steuervorteile-und-rentenzahlungen-fuer-aktive-senioren](https://www.spiegel.de/karriere/rente-und-arbeit-steuervorteile-und-rentenzahlungen-fuer-aktive-senioren-a-e01898c8-abdb-463a-9905-d083d1d5631f#ref=rss)
-* [https://www.spiegel.de/karriere/karriere-andere-steigen-auf-und-sie-stagnieren-coach-gibt-tipps](https://www.spiegel.de/karriere/karriere-andere-steigen-auf-und-sie-stagnieren-coach-gibt-tipps-a-8dc745d5-01ae-48a5-a18d-fb69fd3dd48a#ref=rss)
-### teile
-
-* [https://www.spiegel.de/panorama/justiz/worms-menschlicher-schaedel-in-der-naehe-eines-bolzplatzes-gefunden](https://www.spiegel.de/panorama/justiz/worms-menschlicher-schaedel-in-der-naehe-eines-bolzplatzes-gefunden-a-400e750a-e10a-406e-9dd0-c88f244e0a34#ref=rss)
-* [https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht](https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht-a-1b8bc8a6-cd17-4117-8fc5-40ac351d084d#ref=rss)
-### arbeiten
-
-* [https://www.spiegel.de/wirtschaft/studie-abwanderung-von-pflegekraeften-erhoeht-sterblichkeit](https://www.spiegel.de/wirtschaft/studie-abwanderung-von-pflegekraeften-erhoeht-sterblichkeit-a-09a2bc1e-5b17-4967-9a10-3e501c2ba701#ref=rss)
-* [https://www.spiegel.de/karriere/rente-und-arbeit-steuervorteile-und-rentenzahlungen-fuer-aktive-senioren](https://www.spiegel.de/karriere/rente-und-arbeit-steuervorteile-und-rentenzahlungen-fuer-aktive-senioren-a-e01898c8-abdb-463a-9905-d083d1d5631f#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/wirtschaft/studie-abwanderung-von-pflegekraeften-erhoeht-sterblichkeit](https://www.spiegel.de/wirtschaft/studie-abwanderung-von-pflegekraeften-erhoeht-sterblichkeit-a-09a2bc1e-5b17-4967-9a10-3e501c2ba701#ref=rss)
-* [https://www.spiegel.de/geschichte/niedergang-des-roemischen-reichs-alemannen-ante-portas](https://www.spiegel.de/geschichte/niedergang-des-roemischen-reichs-alemannen-ante-portas-a-d6456261-a54f-4e4c-b645-021ee71df7db#ref=rss)
-### saudiarabien
-
-* [https://www.spiegel.de/wirtschaft/trump-familie-an-milliardenschwerem-hotelprojekt-in-saudi-arabien-beteiligt](https://www.spiegel.de/wirtschaft/trump-familie-an-milliardenschwerem-hotelprojekt-in-saudi-arabien-beteiligt-a-ab7b8c62-6f92-4bb7-a984-259d6b720e47#ref=rss)
-### besuch
-
-* [https://www.spiegel.de/wirtschaft/trump-familie-an-milliardenschwerem-hotelprojekt-in-saudi-arabien-beteiligt](https://www.spiegel.de/wirtschaft/trump-familie-an-milliardenschwerem-hotelprojekt-in-saudi-arabien-beteiligt-a-ab7b8c62-6f92-4bb7-a984-259d6b720e47#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette-a-041a080c-d0d8-4267-82c1-9173eb99d45c#ref=rss)
-### bevor
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-kind-kommt-im-auto-zur-welt](https://www.spiegel.de/panorama/hamburg-kind-kommt-im-auto-zur-welt-a-4d3e0ab5-ceca-452b-9b6c-e2f9c888d7a5#ref=rss)
-### land
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette-a-041a080c-d0d8-4267-82c1-9173eb99d45c#ref=rss)
-### narendra
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette-a-041a080c-d0d8-4267-82c1-9173eb99d45c#ref=rss)
-### modi
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette-a-041a080c-d0d8-4267-82c1-9173eb99d45c#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/hamburg-kind-kommt-im-auto-zur-welt](https://www.spiegel.de/panorama/hamburg-kind-kommt-im-auto-zur-welt-a-4d3e0ab5-ceca-452b-9b6c-e2f9c888d7a5#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet](https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet-a-4296006d-e8b2-4955-b963-25a7353a72af#ref=rss)
-### philippinen
-
-* [https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht](https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht-a-1b8bc8a6-cd17-4117-8fc5-40ac351d084d#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht](https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht-a-1b8bc8a6-cd17-4117-8fc5-40ac351d084d#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht](https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht-a-1b8bc8a6-cd17-4117-8fc5-40ac351d084d#ref=rss)
-### acht
-
-* [https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht](https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht-a-1b8bc8a6-cd17-4117-8fc5-40ac351d084d#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft](https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft-a-c83cec7e-79cd-46a9-a89b-c8e6affd57f9#ref=rss)
-### aufsichtsrat
-
-* [https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft](https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft-a-c83cec7e-79cd-46a9-a89b-c8e6affd57f9#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft](https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft-a-c83cec7e-79cd-46a9-a89b-c8e6affd57f9#ref=rss)
-### sv
-
-* [https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft](https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft-a-c83cec7e-79cd-46a9-a89b-c8e6affd57f9#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft](https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft-a-c83cec7e-79cd-46a9-a89b-c8e6affd57f9#ref=rss)
-### römer
-
-* [https://www.spiegel.de/geschichte/niedergang-des-roemischen-reichs-alemannen-ante-portas](https://www.spiegel.de/geschichte/niedergang-des-roemischen-reichs-alemannen-ante-portas-a-d6456261-a54f-4e4c-b645-021ee71df7db#ref=rss)
-### limes
-
-* [https://www.spiegel.de/geschichte/niedergang-des-roemischen-reichs-alemannen-ante-portas](https://www.spiegel.de/geschichte/niedergang-des-roemischen-reichs-alemannen-ante-portas-a-d6456261-a54f-4e4c-b645-021ee71df7db#ref=rss)
-### aufgaben
-
-* [https://www.spiegel.de/geschichte/niedergang-des-roemischen-reichs-alemannen-ante-portas](https://www.spiegel.de/geschichte/niedergang-des-roemischen-reichs-alemannen-ante-portas-a-d6456261-a54f-4e4c-b645-021ee71df7db#ref=rss)
-### elle
-
-* [https://www.spiegel.de/panorama/leute/elle-fanning-und-dakota-fanning-stellen-regeln-fuer-ersten-gemeinsamen-film-auf](https://www.spiegel.de/panorama/leute/elle-fanning-und-dakota-fanning-stellen-regeln-fuer-ersten-gemeinsamen-film-auf-a-66abf2b5-5497-419a-97b8-cd4039352397#ref=rss)
-### fanning
-
-* [https://www.spiegel.de/panorama/leute/elle-fanning-und-dakota-fanning-stellen-regeln-fuer-ersten-gemeinsamen-film-auf](https://www.spiegel.de/panorama/leute/elle-fanning-und-dakota-fanning-stellen-regeln-fuer-ersten-gemeinsamen-film-auf-a-66abf2b5-5497-419a-97b8-cd4039352397#ref=rss)
-### dakota
-
-* [https://www.spiegel.de/panorama/leute/elle-fanning-und-dakota-fanning-stellen-regeln-fuer-ersten-gemeinsamen-film-auf](https://www.spiegel.de/panorama/leute/elle-fanning-und-dakota-fanning-stellen-regeln-fuer-ersten-gemeinsamen-film-auf-a-66abf2b5-5497-419a-97b8-cd4039352397#ref=rss)
-### film
-
-* [https://www.spiegel.de/panorama/leute/elle-fanning-und-dakota-fanning-stellen-regeln-fuer-ersten-gemeinsamen-film-auf](https://www.spiegel.de/panorama/leute/elle-fanning-und-dakota-fanning-stellen-regeln-fuer-ersten-gemeinsamen-film-auf-a-66abf2b5-5497-419a-97b8-cd4039352397#ref=rss)
-### bleiben
-
-* [https://www.spiegel.de/psychologie/einsamkeit-die-risiken-der-bequemlichkeit-im-digitalen-zeitalter](https://www.spiegel.de/psychologie/einsamkeit-die-risiken-der-bequemlichkeit-im-digitalen-zeitalter-a-10ab418e-ba67-414f-9af3-9102baa4908e#ref=rss)
-* [https://www.spiegel.de/karriere/karriere-andere-steigen-auf-und-sie-stagnieren-coach-gibt-tipps](https://www.spiegel.de/karriere/karriere-andere-steigen-auf-und-sie-stagnieren-coach-gibt-tipps-a-8dc745d5-01ae-48a5-a18d-fb69fd3dd48a#ref=rss)
-### apple
-
-* [https://www.spiegel.de/wirtschaft/apple-hat-2025-weltweit-die-meisten-smartphones-verkauft](https://www.spiegel.de/wirtschaft/apple-hat-2025-weltweit-die-meisten-smartphones-verkauft-a-3885c7da-2f3b-4b58-9746-318508003daa#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/wirtschaft/apple-hat-2025-weltweit-die-meisten-smartphones-verkauft](https://www.spiegel.de/wirtschaft/apple-hat-2025-weltweit-die-meisten-smartphones-verkauft-a-3885c7da-2f3b-4b58-9746-318508003daa#ref=rss)
-### meisten
-
-* [https://www.spiegel.de/wirtschaft/apple-hat-2025-weltweit-die-meisten-smartphones-verkauft](https://www.spiegel.de/wirtschaft/apple-hat-2025-weltweit-die-meisten-smartphones-verkauft-a-3885c7da-2f3b-4b58-9746-318508003daa#ref=rss)
-* [https://www.spiegel.de/start/niedriger-nc-wo-der-studienstart-2026-leichter-wird](https://www.spiegel.de/start/niedriger-nc-wo-der-studienstart-2026-leichter-wird-a-f308e244-0eb6-46da-8056-c2d94a8f6d8a#ref=rss)
-### wanda
-
-* [https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin](https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin-a-2d8eb6b5-7e46-4e48-aab5-841133e56c57#ref=rss)
-### sykes
-
-* [https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin](https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin-a-2d8eb6b5-7e46-4e48-aab5-841133e56c57#ref=rss)
-### wenig
-
-* [https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin](https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin-a-2d8eb6b5-7e46-4e48-aab5-841133e56c57#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet](https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet-a-4296006d-e8b2-4955-b963-25a7353a72af#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid](https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid-a-5b5a73f2-2137-4da0-a4a8-b4cf58e85666#ref=rss)
-### barcelona
-
-* [https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid](https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid-a-5b5a73f2-2137-4da0-a4a8-b4cf58e85666#ref=rss)
-### real
-
-* [https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid](https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid-a-5b5a73f2-2137-4da0-a4a8-b4cf58e85666#ref=rss)
-### madrid
-
-* [https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid](https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid-a-5b5a73f2-2137-4da0-a4a8-b4cf58e85666#ref=rss)
-### spanischen
-
-* [https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid](https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid-a-5b5a73f2-2137-4da0-a4a8-b4cf58e85666#ref=rss)
-### supercup
-
-* [https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid](https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid-a-5b5a73f2-2137-4da0-a4a8-b4cf58e85666#ref=rss)
-### ende
-
-* [https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid](https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid-a-5b5a73f2-2137-4da0-a4a8-b4cf58e85666#ref=rss)
-* [https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers](https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers-a-4c89fd17-ae9e-4304-8b08-15932d6f06dd#ref=rss)
-### glätte
-
-* [https://www.spiegel.de/panorama/glaette-in-deutschland-fluege-abgesagt-bahn-drosselt-geschwindigkeit-staus-im-berufsverkehr](https://www.spiegel.de/panorama/glaette-in-deutschland-fluege-abgesagt-bahn-drosselt-geschwindigkeit-staus-im-berufsverkehr-a-f4de63dd-1af9-46f2-a2d3-b849cb04c4ac#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/panorama/glaette-in-deutschland-fluege-abgesagt-bahn-drosselt-geschwindigkeit-staus-im-berufsverkehr](https://www.spiegel.de/panorama/glaette-in-deutschland-fluege-abgesagt-bahn-drosselt-geschwindigkeit-staus-im-berufsverkehr-a-f4de63dd-1af9-46f2-a2d3-b849cb04c4ac#ref=rss)
+* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
+* [https://www.spiegel.de/sport/american-football/chicago-bears-nfl-playoffs-warum-die-menschen-ueberall-in-illinois-kaese-reiben](https://www.spiegel.de/sport/american-football/chicago-bears-nfl-playoffs-warum-die-menschen-ueberall-in-illinois-kaese-reiben-a-f8e231ca-bb1b-407a-ad5a-a99bf3f1dc26#ref=rss)
+* [https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re](https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re-a-72570360-9a3e-44e1-bd35-8fc40ee10267#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt](https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt-a-2ac2abe3-dbd1-4e7a-b1c6-d165f095edee#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an](https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an-a-9c5bf0b5-33d4-410d-a50e-6620a4cf3d82#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/wirtschaft/soziales/usa-staroekonom-joseph-stiglitz-venezuela-krise-draengt-epstein-affaere-in-den-hintergrund](https://www.spiegel.de/wirtschaft/soziales/usa-staroekonom-joseph-stiglitz-venezuela-krise-draengt-epstein-affaere-in-den-hintergrund-a-5939efcc-0b6c-4869-99b9-392d23bad379#ref=rss)
-* [https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht](https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht-a-75fd1bfb-ba0f-497d-a9d8-c0fccce3e81a#ref=rss)
-### joseph
+* [https://www.spiegel.de/ausland/nato-sucht-ausweg-aus-streit-um-groenland-arctic-sentry-als-loesung](https://www.spiegel.de/ausland/nato-sucht-ausweg-aus-streit-um-groenland-arctic-sentry-als-loesung-a-229d162e-d013-400c-87a8-3eaa981956d1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vw-absatz-in-china-und-den-usa-bricht-ein](https://www.spiegel.de/wirtschaft/vw-absatz-in-china-und-den-usa-bricht-ein-a-cb76e37e-bd42-4056-865f-6d585abd17cc#ref=rss)
+### grönland
 
-* [https://www.spiegel.de/wirtschaft/soziales/usa-staroekonom-joseph-stiglitz-venezuela-krise-draengt-epstein-affaere-in-den-hintergrund](https://www.spiegel.de/wirtschaft/soziales/usa-staroekonom-joseph-stiglitz-venezuela-krise-draengt-epstein-affaere-in-den-hintergrund-a-5939efcc-0b6c-4869-99b9-392d23bad379#ref=rss)
-### stiglitz
+* [https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen](https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen-a-5e219748-4d8b-43af-978c-5145a909b3fd#ref=rss)
+* [https://www.spiegel.de/ausland/nato-sucht-ausweg-aus-streit-um-groenland-arctic-sentry-als-loesung](https://www.spiegel.de/ausland/nato-sucht-ausweg-aus-streit-um-groenland-arctic-sentry-als-loesung-a-229d162e-d013-400c-87a8-3eaa981956d1#ref=rss)
+### merz
 
-* [https://www.spiegel.de/wirtschaft/soziales/usa-staroekonom-joseph-stiglitz-venezuela-krise-draengt-epstein-affaere-in-den-hintergrund](https://www.spiegel.de/wirtschaft/soziales/usa-staroekonom-joseph-stiglitz-venezuela-krise-draengt-epstein-affaere-in-den-hintergrund-a-5939efcc-0b6c-4869-99b9-392d23bad379#ref=rss)
-### philadelphia
+* [https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen](https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen-a-5e219748-4d8b-43af-978c-5145a909b3fd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
+### neue
 
-* [https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers](https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers-a-4c89fd17-ae9e-4304-8b08-15932d6f06dd#ref=rss)
-### eagles
+* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen](https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen-a-1e49f24a-23ea-414b-a1f7-f4d3f3e0f659#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an](https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an-a-9c5bf0b5-33d4-410d-a50e-6620a4cf3d82#ref=rss)
+### iran
 
-* [https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers](https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers-a-4c89fd17-ae9e-4304-8b08-15932d6f06dd#ref=rss)
-### san
+* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden](https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden-a-116a03d2-2d2c-4eb9-9698-c0b51f412c22#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an](https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an-a-9c5bf0b5-33d4-410d-a50e-6620a4cf3d82#ref=rss)
+### internet
 
-* [https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers](https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers-a-4c89fd17-ae9e-4304-8b08-15932d6f06dd#ref=rss)
-### 49ers
+* [https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen](https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen-a-47deca9a-36f1-492d-9ecf-daf5113b55f1#ref=rss)
+* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers](https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers-a-4c89fd17-ae9e-4304-8b08-15932d6f06dd#ref=rss)
-### anna
+* [https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso-a-195f45bf-d9a1-4442-84bf-c35afb47cb14#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-gibt-freilassung-von-116-politischen-gefangenen-bekannt](https://www.spiegel.de/ausland/venezuela-gibt-freilassung-von-116-politischen-gefangenen-bekannt-a-d4971ed2-f158-4d23-8c10-f8b91a1fa21e#ref=rss)
+* [https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re](https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re-a-72570360-9a3e-44e1-bd35-8fc40ee10267#ref=rss)
+### ziobro
 
-* [https://www.spiegel.de/kultur/anna-loos-will-intendantin-am-brandenburger-theater-werden](https://www.spiegel.de/kultur/anna-loos-will-intendantin-am-brandenburger-theater-werden-a-3f3e8200-4535-43ff-adaa-b923cefbcfa2#ref=rss)
-### loos
+* [https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn](https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn-a-a3040d30-c23b-4f08-b3a3-1f4b8a26e98e#ref=rss)
+### regime
 
-* [https://www.spiegel.de/kultur/anna-loos-will-intendantin-am-brandenburger-theater-werden](https://www.spiegel.de/kultur/anna-loos-will-intendantin-am-brandenburger-theater-werden-a-3f3e8200-4535-43ff-adaa-b923cefbcfa2#ref=rss)
-### schauspielerin
+* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden](https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden-a-116a03d2-2d2c-4eb9-9698-c0b51f412c22#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an](https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an-a-9c5bf0b5-33d4-410d-a50e-6620a4cf3d82#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/kultur/anna-loos-will-intendantin-am-brandenburger-theater-werden](https://www.spiegel.de/kultur/anna-loos-will-intendantin-am-brandenburger-theater-werden-a-3f3e8200-4535-43ff-adaa-b923cefbcfa2#ref=rss)
-### mercedes
+* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an](https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an-a-9c5bf0b5-33d4-410d-a50e-6620a4cf3d82#ref=rss)
+* [https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie](https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie-a-9134f56e-7730-4ee5-8b42-e986ae1a57c4#ref=rss)
+### straße
 
-* [https://www.spiegel.de/wirtschaft/mercedes-gibt-der-neuen-s-klasse-weniger-autonomie](https://www.spiegel.de/wirtschaft/mercedes-gibt-der-neuen-s-klasse-weniger-autonomie-a-402ddb66-3ab7-43c7-89a4-298ab010452e#ref=rss)
-### mathe
+* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
+* [https://www.spiegel.de/panorama/bayern-lkw-kommt-von-der-strasse-ab-und-bleibt-ueber-abhang-stecken](https://www.spiegel.de/panorama/bayern-lkw-kommt-von-der-strasse-ab-und-bleibt-ueber-abhang-stecken-a-31be2ef4-641b-4482-bee4-b9457a0f95e9#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an](https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an-a-9c5bf0b5-33d4-410d-a50e-6620a4cf3d82#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet](https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet-a-4296006d-e8b2-4955-b963-25a7353a72af#ref=rss)
-### dividieren
+* [https://www.spiegel.de/sport/american-football/chicago-bears-nfl-playoffs-warum-die-menschen-ueberall-in-illinois-kaese-reiben](https://www.spiegel.de/sport/american-football/chicago-bears-nfl-playoffs-warum-die-menschen-ueberall-in-illinois-kaese-reiben-a-f8e231ca-bb1b-407a-ad5a-a99bf3f1dc26#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen](https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen-a-c5cffcae-8052-4217-8382-d82305ea5333#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet](https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet-a-4296006d-e8b2-4955-b963-25a7353a72af#ref=rss)
-### grundschulen
+* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-glatteis-durch-tief-gunda-fuehren-zu-flugausfaellen](https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-glatteis-durch-tief-gunda-fuehren-zu-flugausfaellen-a-cc4ee177-5642-487e-bba2-72cd2c1367a0#ref=rss)
+* [https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen](https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen-a-ee6248ab-e595-440e-9fda-78fafeec49dd#ref=rss)
+### schulen
 
-* [https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet](https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet-a-4296006d-e8b2-4955-b963-25a7353a72af#ref=rss)
-### setzt
+* [https://www.spiegel.de/panorama/bildung/schulen-wer-entscheidet-ueber-schliessungen-bei-schnee-und-eis](https://www.spiegel.de/panorama/bildung/schulen-wer-entscheidet-ueber-schliessungen-bei-schnee-und-eis-a-92559181-1f7e-40c2-9f14-f5664d2fc410#ref=rss)
+### eis
 
-* [https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet](https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet-a-4296006d-e8b2-4955-b963-25a7353a72af#ref=rss)
-* [https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen](https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen-a-0307bd0b-f7a6-4e36-a77a-91d6e1b89d65#ref=rss)
-### toppreise
+* [https://www.spiegel.de/panorama/bildung/schulen-wer-entscheidet-ueber-schliessungen-bei-schnee-und-eis](https://www.spiegel.de/panorama/bildung/schulen-wer-entscheidet-ueber-schliessungen-bei-schnee-und-eis-a-92559181-1f7e-40c2-9f14-f5664d2fc410#ref=rss)
+### überhaupt
 
-* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
-### one
+* [https://www.spiegel.de/panorama/bildung/schulen-wer-entscheidet-ueber-schliessungen-bei-schnee-und-eis](https://www.spiegel.de/panorama/bildung/schulen-wer-entscheidet-ueber-schliessungen-bei-schnee-und-eis-a-92559181-1f7e-40c2-9f14-f5664d2fc410#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt](https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt-a-2ac2abe3-dbd1-4e7a-b1c6-d165f095edee#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
-### battle
+* [https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen](https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen-a-5e219748-4d8b-43af-978c-5145a909b3fd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
+### trumps
 
-* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
-### after
+* [https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen](https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen-a-5e219748-4d8b-43af-978c-5145a909b3fd#ref=rss)
+### donald
 
-* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
-### another
+* [https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen](https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen-a-5e219748-4d8b-43af-978c-5145a909b3fd#ref=rss)
+* [https://www.spiegel.de/ausland/nato-sucht-ausweg-aus-streit-um-groenland-arctic-sentry-als-loesung](https://www.spiegel.de/ausland/nato-sucht-ausweg-aus-streit-um-groenland-arctic-sentry-als-loesung-a-229d162e-d013-400c-87a8-3eaa981956d1#ref=rss)
+### übernahme
 
-* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
-### hamnet
+* [https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen](https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen-a-5e219748-4d8b-43af-978c-5145a909b3fd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/paramount-klagt-gegen-warner-konzern](https://www.spiegel.de/wirtschaft/unternehmen/paramount-klagt-gegen-warner-konzern-a-2e7b7adf-de28-46be-9c98-043b627c55ba#ref=rss)
+### unter
 
-* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
-### the
+* [https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen](https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen-a-5e219748-4d8b-43af-978c-5145a909b3fd#ref=rss)
+* [https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn](https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn-a-a3040d30-c23b-4f08-b3a3-1f4b8a26e98e#ref=rss)
+### insel
 
-* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
-### internationale
+* [https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen](https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen-a-5e219748-4d8b-43af-978c-5145a909b3fd#ref=rss)
+* [https://www.spiegel.de/ausland/nato-sucht-ausweg-aus-streit-um-groenland-arctic-sentry-als-loesung](https://www.spiegel.de/ausland/nato-sucht-ausweg-aus-streit-um-groenland-arctic-sentry-als-loesung-a-229d162e-d013-400c-87a8-3eaa981956d1#ref=rss)
+### superschweres
 
-* [https://www.spiegel.de/politik/deutschland/news-iran-internationale-justiz-johann-wadephul-und-lars-klingbeil-in-washington](https://www.spiegel.de/politik/deutschland/news-iran-internationale-justiz-johann-wadephul-und-lars-klingbeil-in-washington-a-7ff5da28-bfee-457d-ac8e-b0d4b5493f52#ref=rss)
-### washington
+* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen](https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen-a-1e49f24a-23ea-414b-a1f7-f4d3f3e0f659#ref=rss)
+### schwarzes
 
-* [https://www.spiegel.de/politik/deutschland/news-iran-internationale-justiz-johann-wadephul-und-lars-klingbeil-in-washington](https://www.spiegel.de/politik/deutschland/news-iran-internationale-justiz-johann-wadephul-und-lars-klingbeil-in-washington-a-7ff5da28-bfee-457d-ac8e-b0d4b5493f52#ref=rss)
-### rente
+* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen](https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen-a-1e49f24a-23ea-414b-a1f7-f4d3f3e0f659#ref=rss)
+### loch
 
-* [https://www.spiegel.de/karriere/rente-und-arbeit-steuervorteile-und-rentenzahlungen-fuer-aktive-senioren](https://www.spiegel.de/karriere/rente-und-arbeit-steuervorteile-und-rentenzahlungen-fuer-aktive-senioren-a-e01898c8-abdb-463a-9905-d083d1d5631f#ref=rss)
-* [https://www.spiegel.de/karriere/aktivrente-wie-sie-die-aktivrente-optimal-nutzen-und-schon-vor-dem-ruhestand-tausende-euro-dazuverdienen-koennen](https://www.spiegel.de/karriere/aktivrente-wie-sie-die-aktivrente-optimal-nutzen-und-schon-vor-dem-ruhestand-tausende-euro-dazuverdienen-koennen-a-f11a544a-c71a-4516-b137-6e774c41e1d4#ref=rss)
-### bekommen
+* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen](https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen-a-1e49f24a-23ea-414b-a1f7-f4d3f3e0f659#ref=rss)
+### zentrum
 
-* [https://www.spiegel.de/karriere/rente-und-arbeit-steuervorteile-und-rentenzahlungen-fuer-aktive-senioren](https://www.spiegel.de/karriere/rente-und-arbeit-steuervorteile-und-rentenzahlungen-fuer-aktive-senioren-a-e01898c8-abdb-463a-9905-d083d1d5631f#ref=rss)
-* [https://www.spiegel.de/karriere/aktivrente-wie-sie-die-aktivrente-optimal-nutzen-und-schon-vor-dem-ruhestand-tausende-euro-dazuverdienen-koennen](https://www.spiegel.de/karriere/aktivrente-wie-sie-die-aktivrente-optimal-nutzen-und-schon-vor-dem-ruhestand-tausende-euro-dazuverdienen-koennen-a-f11a544a-c71a-4516-b137-6e774c41e1d4#ref=rss)
-### aktivrente
+* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen](https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen-a-1e49f24a-23ea-414b-a1f7-f4d3f3e0f659#ref=rss)
+### fördert
 
-* [https://www.spiegel.de/karriere/aktivrente-wie-sie-die-aktivrente-optimal-nutzen-und-schon-vor-dem-ruhestand-tausende-euro-dazuverdienen-koennen](https://www.spiegel.de/karriere/aktivrente-wie-sie-die-aktivrente-optimal-nutzen-und-schon-vor-dem-ruhestand-tausende-euro-dazuverdienen-koennen-a-f11a544a-c71a-4516-b137-6e774c41e1d4#ref=rss)
-### karriere
+* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen](https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen-a-1e49f24a-23ea-414b-a1f7-f4d3f3e0f659#ref=rss)
+### sonnen
 
-* [https://www.spiegel.de/karriere/karriere-andere-steigen-auf-und-sie-stagnieren-coach-gibt-tipps](https://www.spiegel.de/karriere/karriere-andere-steigen-auf-und-sie-stagnieren-coach-gibt-tipps-a-8dc745d5-01ae-48a5-a18d-fb69fd3dd48a#ref=rss)
-### andere
+* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen](https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen-a-1e49f24a-23ea-414b-a1f7-f4d3f3e0f659#ref=rss)
+### zeigen
 
-* [https://www.spiegel.de/karriere/karriere-andere-steigen-auf-und-sie-stagnieren-coach-gibt-tipps](https://www.spiegel.de/karriere/karriere-andere-steigen-auf-und-sie-stagnieren-coach-gibt-tipps-a-8dc745d5-01ae-48a5-a18d-fb69fd3dd48a#ref=rss)
-### ecuador
+* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen](https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen-a-1e49f24a-23ea-414b-a1f7-f4d3f3e0f659#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an](https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an-a-9c5bf0b5-33d4-410d-a50e-6620a4cf3d82#ref=rss)
+### winter
 
-* [https://www.spiegel.de/panorama/ecuador-polizei-findet-menschliche-koepfe-an-strand-von-puerto-lopez](https://www.spiegel.de/panorama/ecuador-polizei-findet-menschliche-koepfe-an-strand-von-puerto-lopez-a-3575e242-ffc6-4f7d-a771-845cc54da09b#ref=rss)
-### menschliche
+* [https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen](https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen-a-47deca9a-36f1-492d-9ecf-daf5113b55f1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/frost-und-futtermangel-so-helfen-sie-voegeln-im-garten-und-auf-dem-balkon](https://www.spiegel.de/wissenschaft/natur/frost-und-futtermangel-so-helfen-sie-voegeln-im-garten-und-auf-dem-balkon-a-cbed6ba9-f864-44fc-b9ac-3e863b7f91d0#ref=rss)
+### finden
 
-* [https://www.spiegel.de/panorama/ecuador-polizei-findet-menschliche-koepfe-an-strand-von-puerto-lopez](https://www.spiegel.de/panorama/ecuador-polizei-findet-menschliche-koepfe-an-strand-von-puerto-lopez-a-3575e242-ffc6-4f7d-a771-845cc54da09b#ref=rss)
-### köpfe
+* [https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen](https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen-a-47deca9a-36f1-492d-9ecf-daf5113b55f1#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt](https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt-a-2ac2abe3-dbd1-4e7a-b1c6-d165f095edee#ref=rss)
+### finger
 
-* [https://www.spiegel.de/panorama/ecuador-polizei-findet-menschliche-koepfe-an-strand-von-puerto-lopez](https://www.spiegel.de/panorama/ecuador-polizei-findet-menschliche-koepfe-an-strand-von-puerto-lopez-a-3575e242-ffc6-4f7d-a771-845cc54da09b#ref=rss)
+* [https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen](https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen-a-47deca9a-36f1-492d-9ecf-daf5113b55f1#ref=rss)
+* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
+### paramount
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/paramount-klagt-gegen-warner-konzern](https://www.spiegel.de/wirtschaft/unternehmen/paramount-klagt-gegen-warner-konzern-a-2e7b7adf-de28-46be-9c98-043b627c55ba#ref=rss)
+### kampf
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/paramount-klagt-gegen-warner-konzern](https://www.spiegel.de/wirtschaft/unternehmen/paramount-klagt-gegen-warner-konzern-a-2e7b7adf-de28-46be-9c98-043b627c55ba#ref=rss)
+* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
+### real
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso-a-195f45bf-d9a1-4442-84bf-c35afb47cb14#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso-a-195f45bf-d9a1-4442-84bf-c35afb47cb14#ref=rss)
+### trennt
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso-a-195f45bf-d9a1-4442-84bf-c35afb47cb14#ref=rss)
+* [https://www.spiegel.de/netzwelt/hoss-hopf-kontroverses-podcast-duo-trennt-sich-im-offenen-zoff](https://www.spiegel.de/netzwelt/hoss-hopf-kontroverses-podcast-duo-trennt-sich-im-offenen-zoff-a-76ddf950-60c3-4f24-80f9-181ff69cccb6#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso-a-195f45bf-d9a1-4442-84bf-c35afb47cb14#ref=rss)
+### xabi
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso-a-195f45bf-d9a1-4442-84bf-c35afb47cb14#ref=rss)
+### alonso
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso-a-195f45bf-d9a1-4442-84bf-c35afb47cb14#ref=rss)
+### entlassen
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso-a-195f45bf-d9a1-4442-84bf-c35afb47cb14#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-gibt-freilassung-von-116-politischen-gefangenen-bekannt](https://www.spiegel.de/ausland/venezuela-gibt-freilassung-von-116-politischen-gefangenen-bekannt-a-d4971ed2-f158-4d23-8c10-f8b91a1fa21e#ref=rss)
+### zbigniew
+
+* [https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn](https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn-a-a3040d30-c23b-4f08-b3a3-1f4b8a26e98e#ref=rss)
+### minister
+
+* [https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn](https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn-a-a3040d30-c23b-4f08-b3a3-1f4b8a26e98e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
+### asyl
+
+* [https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn](https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn-a-a3040d30-c23b-4f08-b3a3-1f4b8a26e98e#ref=rss)
+### droht
+
+* [https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn](https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn-a-a3040d30-c23b-4f08-b3a3-1f4b8a26e98e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
+### macht
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-macht-googles-gemini-zu-siri-ki](https://www.spiegel.de/netzwelt/gadgets/apple-macht-googles-gemini-zu-siri-ki-a-96df0086-40c0-4262-aec3-6d1d53f90314#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden](https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden-a-116a03d2-2d2c-4eb9-9698-c0b51f412c22#ref=rss)
+### googles
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-macht-googles-gemini-zu-siri-ki](https://www.spiegel.de/netzwelt/gadgets/apple-macht-googles-gemini-zu-siri-ki-a-96df0086-40c0-4262-aec3-6d1d53f90314#ref=rss)
+### news
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-macht-googles-gemini-zu-siri-ki](https://www.spiegel.de/netzwelt/gadgets/apple-macht-googles-gemini-zu-siri-ki-a-96df0086-40c0-4262-aec3-6d1d53f90314#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
+### iranische
+
+* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden](https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden-a-116a03d2-2d2c-4eb9-9698-c0b51f412c22#ref=rss)
+### fed
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
+### indien
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
+### abwanderung
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
+### pflegekräften
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
+* [https://www.spiegel.de/panorama/bayern-lkw-kommt-von-der-strasse-ab-und-bleibt-ueber-abhang-stecken](https://www.spiegel.de/panorama/bayern-lkw-kommt-von-der-strasse-ab-und-bleibt-ueber-abhang-stecken-a-31be2ef4-641b-4482-bee4-b9457a0f95e9#ref=rss)
+### matthias
+
+* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
+### schweighöfer
+
+* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
+### ruby
+
+* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
+### o
+
+* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
+### fee
+
+* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
+### schauspieler
+
+* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
+* [https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie](https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie-a-9134f56e-7730-4ee5-8b42-e986ae1a57c4#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dritte-verkaufsphase-der-fifa-endet-nur-wenige-60-euro-tickets](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dritte-verkaufsphase-der-fifa-endet-nur-wenige-60-euro-tickets-a-0967c117-c630-41d5-bcf5-e2f29060fe26#ref=rss)
+### euparlament
+
+* [https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden](https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden-a-116a03d2-2d2c-4eb9-9698-c0b51f412c22#ref=rss)
+### diplomaten
+
+* [https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden](https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden-a-116a03d2-2d2c-4eb9-9698-c0b51f412c22#ref=rss)
+### stecken
+
+* [https://www.spiegel.de/panorama/bayern-lkw-kommt-von-der-strasse-ab-und-bleibt-ueber-abhang-stecken](https://www.spiegel.de/panorama/bayern-lkw-kommt-von-der-strasse-ab-und-bleibt-ueber-abhang-stecken-a-31be2ef4-641b-4482-bee4-b9457a0f95e9#ref=rss)
+### melanie
+
+* [https://www.spiegel.de/panorama/justiz/hitler-gruss-prozess-melanie-mueller-auch-in-zweiter-instanz-verurteilt](https://www.spiegel.de/panorama/justiz/hitler-gruss-prozess-melanie-mueller-auch-in-zweiter-instanz-verurteilt-a-2dee08be-e224-43f8-ae46-fc06eaa1dcda#ref=rss)
+### müller
+
+* [https://www.spiegel.de/panorama/justiz/hitler-gruss-prozess-melanie-mueller-auch-in-zweiter-instanz-verurteilt](https://www.spiegel.de/panorama/justiz/hitler-gruss-prozess-melanie-mueller-auch-in-zweiter-instanz-verurteilt-a-2dee08be-e224-43f8-ae46-fc06eaa1dcda#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/panorama/justiz/hitler-gruss-prozess-melanie-mueller-auch-in-zweiter-instanz-verurteilt](https://www.spiegel.de/panorama/justiz/hitler-gruss-prozess-melanie-mueller-auch-in-zweiter-instanz-verurteilt-a-2dee08be-e224-43f8-ae46-fc06eaa1dcda#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vw-absatz-in-china-und-den-usa-bricht-ein](https://www.spiegel.de/wirtschaft/vw-absatz-in-china-und-den-usa-bricht-ein-a-cb76e37e-bd42-4056-865f-6d585abd17cc#ref=rss)
+### illinois
+
+* [https://www.spiegel.de/sport/american-football/chicago-bears-nfl-playoffs-warum-die-menschen-ueberall-in-illinois-kaese-reiben](https://www.spiegel.de/sport/american-football/chicago-bears-nfl-playoffs-warum-die-menschen-ueberall-in-illinois-kaese-reiben-a-f8e231ca-bb1b-407a-ad5a-a99bf3f1dc26#ref=rss)
+### käse
+
+* [https://www.spiegel.de/sport/american-football/chicago-bears-nfl-playoffs-warum-die-menschen-ueberall-in-illinois-kaese-reiben](https://www.spiegel.de/sport/american-football/chicago-bears-nfl-playoffs-warum-die-menschen-ueberall-in-illinois-kaese-reiben-a-f8e231ca-bb1b-407a-ad5a-a99bf3f1dc26#ref=rss)
+### hoss
+
+* [https://www.spiegel.de/netzwelt/hoss-hopf-kontroverses-podcast-duo-trennt-sich-im-offenen-zoff](https://www.spiegel.de/netzwelt/hoss-hopf-kontroverses-podcast-duo-trennt-sich-im-offenen-zoff-a-76ddf950-60c3-4f24-80f9-181ff69cccb6#ref=rss)
+### hopf
+
+* [https://www.spiegel.de/netzwelt/hoss-hopf-kontroverses-podcast-duo-trennt-sich-im-offenen-zoff](https://www.spiegel.de/netzwelt/hoss-hopf-kontroverses-podcast-duo-trennt-sich-im-offenen-zoff-a-76ddf950-60c3-4f24-80f9-181ff69cccb6#ref=rss)
+### endet
+
+* [https://www.spiegel.de/netzwelt/hoss-hopf-kontroverses-podcast-duo-trennt-sich-im-offenen-zoff](https://www.spiegel.de/netzwelt/hoss-hopf-kontroverses-podcast-duo-trennt-sich-im-offenen-zoff-a-76ddf950-60c3-4f24-80f9-181ff69cccb6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dritte-verkaufsphase-der-fifa-endet-nur-wenige-60-euro-tickets](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dritte-verkaufsphase-der-fifa-endet-nur-wenige-60-euro-tickets-a-0967c117-c630-41d5-bcf5-e2f29060fe26#ref=rss)
+### venezuela
+
+* [https://www.spiegel.de/ausland/venezuela-gibt-freilassung-von-116-politischen-gefangenen-bekannt](https://www.spiegel.de/ausland/venezuela-gibt-freilassung-von-116-politischen-gefangenen-bekannt-a-d4971ed2-f158-4d23-8c10-f8b91a1fa21e#ref=rss)
+### caracas
+
+* [https://www.spiegel.de/ausland/venezuela-gibt-freilassung-von-116-politischen-gefangenen-bekannt](https://www.spiegel.de/ausland/venezuela-gibt-freilassung-von-116-politischen-gefangenen-bekannt-a-d4971ed2-f158-4d23-8c10-f8b91a1fa21e#ref=rss)
+### monteviasco
+
+* [https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re](https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re-a-72570360-9a3e-44e1-bd35-8fc40ee10267#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re](https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re-a-72570360-9a3e-44e1-bd35-8fc40ee10267#ref=rss)
+### tv
+
+* [https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re](https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re-a-72570360-9a3e-44e1-bd35-8fc40ee10267#ref=rss)
+### arte
+
+* [https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re](https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re-a-72570360-9a3e-44e1-bd35-8fc40ee10267#ref=rss)
+### betrieb
+
+* [https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re](https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re-a-72570360-9a3e-44e1-bd35-8fc40ee10267#ref=rss)
+* [https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt](https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt-a-2ac2abe3-dbd1-4e7a-b1c6-d165f095edee#ref=rss)
+### schimpansin
+
+* [https://www.spiegel.de/wissenschaft/natur/als-genie-bekannte-schimpansin-ai-mit-49-jahren-in-japan-gestorben](https://www.spiegel.de/wissenschaft/natur/als-genie-bekannte-schimpansin-ai-mit-49-jahren-in-japan-gestorben-a-1cd1f4ce-ff17-4758-96fc-7ffe957f2765#ref=rss)
+### ai
+
+* [https://www.spiegel.de/wissenschaft/natur/als-genie-bekannte-schimpansin-ai-mit-49-jahren-in-japan-gestorben](https://www.spiegel.de/wissenschaft/natur/als-genie-bekannte-schimpansin-ai-mit-49-jahren-in-japan-gestorben-a-1cd1f4ce-ff17-4758-96fc-7ffe957f2765#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/wissenschaft/natur/als-genie-bekannte-schimpansin-ai-mit-49-jahren-in-japan-gestorben](https://www.spiegel.de/wissenschaft/natur/als-genie-bekannte-schimpansin-ai-mit-49-jahren-in-japan-gestorben-a-1cd1f4ce-ff17-4758-96fc-7ffe957f2765#ref=rss)
+### besser
+
+* [https://www.spiegel.de/wissenschaft/natur/als-genie-bekannte-schimpansin-ai-mit-49-jahren-in-japan-gestorben](https://www.spiegel.de/wissenschaft/natur/als-genie-bekannte-schimpansin-ai-mit-49-jahren-in-japan-gestorben-a-1cd1f4ce-ff17-4758-96fc-7ffe957f2765#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vw-absatz-in-china-und-den-usa-bricht-ein](https://www.spiegel.de/wirtschaft/vw-absatz-in-china-und-den-usa-bricht-ein-a-cb76e37e-bd42-4056-865f-6d585abd17cc#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-glatteis-durch-tief-gunda-fuehren-zu-flugausfaellen](https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-glatteis-durch-tief-gunda-fuehren-zu-flugausfaellen-a-cc4ee177-5642-487e-bba2-72cd2c1367a0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen](https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen-a-c5cffcae-8052-4217-8382-d82305ea5333#ref=rss)
+### johann
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
+### wadephul
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
+### lars
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
+### reisen
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
+### jets
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dritte-verkaufsphase-der-fifa-endet-nur-wenige-60-euro-tickets](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dritte-verkaufsphase-der-fifa-endet-nur-wenige-60-euro-tickets-a-0967c117-c630-41d5-bcf5-e2f29060fe26#ref=rss)
+### hendrik
+
+* [https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen](https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen-a-ee6248ab-e595-440e-9fda-78fafeec49dd#ref=rss)
+### wüst
+
+* [https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen](https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen-a-ee6248ab-e595-440e-9fda-78fafeec49dd#ref=rss)
+### missbrauchsdarstellungen
+
+* [https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen](https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen-a-ee6248ab-e595-440e-9fda-78fafeec49dd#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen](https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen-a-ee6248ab-e595-440e-9fda-78fafeec49dd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen](https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen-a-c5cffcae-8052-4217-8382-d82305ea5333#ref=rss)
+### cransmontana
+
+* [https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt](https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt-a-2ac2abe3-dbd1-4e7a-b1c6-d165f095edee#ref=rss)
+### golden
+
+* [https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie](https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie-a-9134f56e-7730-4ee5-8b42-e986ae1a57c4#ref=rss)
+### globes
+
+* [https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie](https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie-a-9134f56e-7730-4ee5-8b42-e986ae1a57c4#ref=rss)
+### hudson
+
+* [https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie](https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie-a-9134f56e-7730-4ee5-8b42-e986ae1a57c4#ref=rss)
+### williams
+
+* [https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie](https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie-a-9134f56e-7730-4ee5-8b42-e986ae1a57c4#ref=rss)
+### connor
+
+* [https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie](https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie-a-9134f56e-7730-4ee5-8b42-e986ae1a57c4#ref=rss)
+### storrie
+
+* [https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie](https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie-a-9134f56e-7730-4ee5-8b42-e986ae1a57c4#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/vw-absatz-in-china-und-den-usa-bricht-ein](https://www.spiegel.de/wirtschaft/vw-absatz-in-china-und-den-usa-bricht-ein-a-cb76e37e-bd42-4056-865f-6d585abd17cc#ref=rss)
+### menden
+
+* [https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen](https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen-a-c5cffcae-8052-4217-8382-d82305ea5333#ref=rss)
+### verwahrlosten
+
+* [https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen](https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen-a-c5cffcae-8052-4217-8382-d82305ea5333#ref=rss)
 
