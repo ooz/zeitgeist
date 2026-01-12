@@ -4,323 +4,323 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### droht
-
-* [https://www.spiegel.de/politik/deutschland/x-von-elon-musk-ursula-von-der-leyen-droht-plattform-x-mit-konsequenzen](https://www.spiegel.de/politik/deutschland/x-von-elon-musk-ursula-von-der-leyen-droht-plattform-x-mit-konsequenzen-a-3424df48-0a06-4241-9686-204e64c633d1#ref=rss)
-* [https://www.spiegel.de/ausland/iran-proteste-eskalieren-berichte-von-schuessen-gegen-demonstranten](https://www.spiegel.de/ausland/iran-proteste-eskalieren-berichte-von-schuessen-gegen-demonstranten-a-6eb4f15b-b3e7-47eb-af28-84f539f93fdc#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-droht-jetzt-kuba](https://www.spiegel.de/ausland/donald-trump-droht-jetzt-kuba-a-618197f0-2de6-480b-babf-94164c8b315c#ref=rss)
-### donald
-
-* [https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell](https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell-a-06dab6af-f9f5-4643-bcb2-8e2f87611491#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-droht-jetzt-kuba](https://www.spiegel.de/ausland/donald-trump-droht-jetzt-kuba-a-618197f0-2de6-480b-babf-94164c8b315c#ref=rss)
-* [https://www.spiegel.de/kultur/us-museum-entfernt-hinweise-auf-trumps-amtsenthebungsverfahren](https://www.spiegel.de/kultur/us-museum-entfernt-hinweise-auf-trumps-amtsenthebungsverfahren-a-d7dc3895-61e2-47c5-a972-b6153984bb93#ref=rss)
-### trump
-
-* [https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell](https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell-a-06dab6af-f9f5-4643-bcb2-8e2f87611491#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-droht-jetzt-kuba](https://www.spiegel.de/ausland/donald-trump-droht-jetzt-kuba-a-618197f0-2de6-480b-babf-94164c8b315c#ref=rss)
-* [https://www.spiegel.de/kultur/us-museum-entfernt-hinweise-auf-trumps-amtsenthebungsverfahren](https://www.spiegel.de/kultur/us-museum-entfernt-hinweise-auf-trumps-amtsenthebungsverfahren-a-d7dc3895-61e2-47c5-a972-b6153984bb93#ref=rss)
-### erich
-
-* [https://www.spiegel.de/wissenschaft/erich-von-daeniken-ist-tot-prophet-der-alien-goetter-nachruf](https://www.spiegel.de/wissenschaft/erich-von-daeniken-ist-tot-prophet-der-alien-goetter-nachruf-a-5b2926a8-98eb-4ab7-8fde-2e4d21c4213a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/erich-von-daeniken-ist-tot-ufo-forscher-mit-90-jahren-gestorben](https://www.spiegel.de/wissenschaft/weltall/erich-von-daeniken-ist-tot-ufo-forscher-mit-90-jahren-gestorben-a-f4316123-b590-492f-ab9a-a24111d5c866#ref=rss)
-### däniken
-
-* [https://www.spiegel.de/wissenschaft/erich-von-daeniken-ist-tot-prophet-der-alien-goetter-nachruf](https://www.spiegel.de/wissenschaft/erich-von-daeniken-ist-tot-prophet-der-alien-goetter-nachruf-a-5b2926a8-98eb-4ab7-8fde-2e4d21c4213a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/erich-von-daeniken-ist-tot-ufo-forscher-mit-90-jahren-gestorben](https://www.spiegel.de/wissenschaft/weltall/erich-von-daeniken-ist-tot-ufo-forscher-mit-90-jahren-gestorben-a-f4316123-b590-492f-ab9a-a24111d5c866#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/politik/deutschland/x-von-elon-musk-ursula-von-der-leyen-droht-plattform-x-mit-konsequenzen](https://www.spiegel.de/politik/deutschland/x-von-elon-musk-ursula-von-der-leyen-droht-plattform-x-mit-konsequenzen-a-3424df48-0a06-4241-9686-204e64c633d1#ref=rss)
-* [https://www.spiegel.de/ausland/ausschluss-von-37-ngos-aus-dem-gazastreifen-das-ist-ganz-klar-der-versuch-das-leid-der-palaestinenser-zu-vergroessern](https://www.spiegel.de/ausland/ausschluss-von-37-ngos-aus-dem-gazastreifen-das-ist-ganz-klar-der-versuch-das-leid-der-palaestinenser-zu-vergroessern-a-cd401c45-afb7-4044-b742-e4521118be99#ref=rss)
-* [https://www.spiegel.de/auto/fliegen-bund-lehnt-verpflichtende-ausweiskontrolle-beim-boarding-ab](https://www.spiegel.de/auto/fliegen-bund-lehnt-verpflichtende-ausweiskontrolle-beim-boarding-ab-a-52439672-df05-4db6-835f-a51171846ee7#ref=rss)
-### washington
-
-* [https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell](https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell-a-06dab6af-f9f5-4643-bcb2-8e2f87611491#ref=rss)
-* [https://www.spiegel.de/kultur/us-museum-entfernt-hinweise-auf-trumps-amtsenthebungsverfahren](https://www.spiegel.de/kultur/us-museum-entfernt-hinweise-auf-trumps-amtsenthebungsverfahren-a-d7dc3895-61e2-47c5-a972-b6153984bb93#ref=rss)
-### national
-
-* [https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell](https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell-a-06dab6af-f9f5-4643-bcb2-8e2f87611491#ref=rss)
-* [https://www.spiegel.de/kultur/us-museum-entfernt-hinweise-auf-trumps-amtsenthebungsverfahren](https://www.spiegel.de/kultur/us-museum-entfernt-hinweise-auf-trumps-amtsenthebungsverfahren-a-d7dc3895-61e2-47c5-a972-b6153984bb93#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/minneapolis-demonstrationen-in-usa-gegen-ice-gewalt](https://www.spiegel.de/ausland/minneapolis-demonstrationen-in-usa-gegen-ice-gewalt-a-9f7989b5-4cbc-4ece-9449-1c0e7a3ca812#ref=rss)
-* [https://www.spiegel.de/ausland/iran-proteste-eskalieren-berichte-von-schuessen-gegen-demonstranten](https://www.spiegel.de/ausland/iran-proteste-eskalieren-berichte-von-schuessen-gegen-demonstranten-a-6eb4f15b-b3e7-47eb-af28-84f539f93fdc#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-vier-veteraninnen-sagen-den-republikanern-den-kampf-an](https://www.spiegel.de/ausland/midterms-in-den-usa-vier-veteraninnen-sagen-den-republikanern-den-kampf-an-a-513a0d7a-2b4c-4613-99c7-682e7a88172e#ref=rss)
-### köln
-
-* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-polizeieinsatz-im-ice-nach-koeln-wegen-machete-mit-vermeintlichem-blut](https://www.spiegel.de/panorama/justiz/deutsche-bahn-polizeieinsatz-im-ice-nach-koeln-wegen-machete-mit-vermeintlichem-blut-a-bb1e7cf0-60e7-4dbe-8c34-fc6414c06bd8#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-koeln-die-schoepfung-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-koeln-die-schoepfung-im-schnellcheck-a-26b6725d-1b63-4b21-801d-fbc87f933982#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-polizeieinsatz-im-ice-nach-koeln-wegen-machete-mit-vermeintlichem-blut](https://www.spiegel.de/panorama/justiz/deutsche-bahn-polizeieinsatz-im-ice-nach-koeln-wegen-machete-mit-vermeintlichem-blut-a-bb1e7cf0-60e7-4dbe-8c34-fc6414c06bd8#ref=rss)
-* [https://www.spiegel.de/panorama/toetungsdelikt-75-jaehrige-soll-ehemann-erstochen-haben](https://www.spiegel.de/panorama/toetungsdelikt-75-jaehrige-soll-ehemann-erstochen-haben-a-f0c7a624-33ff-43c8-b0cc-8f236da89a58#ref=rss)
-* [https://www.spiegel.de/auto/fliegen-bund-lehnt-verpflichtende-ausweiskontrolle-beim-boarding-ab](https://www.spiegel.de/auto/fliegen-bund-lehnt-verpflichtende-ausweiskontrolle-beim-boarding-ab-a-52439672-df05-4db6-835f-a51171846ee7#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/leute/andrea-plewig-verliert-auge-bei-feuerwerksunfall-wirbt-fuer-boellerverbot](https://www.spiegel.de/panorama/leute/andrea-plewig-verliert-auge-bei-feuerwerksunfall-wirbt-fuer-boellerverbot-a-0f86754a-c91f-4e1e-9468-1ed4f3d0a508#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-droht-jetzt-kuba](https://www.spiegel.de/ausland/donald-trump-droht-jetzt-kuba-a-618197f0-2de6-480b-babf-94164c8b315c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-wirft-bundesministern-mangelnde-eigenstaendigkeit-vor](https://www.spiegel.de/politik/deutschland/armin-laschet-wirft-bundesministern-mangelnde-eigenstaendigkeit-vor-a-be1030b4-56da-4d38-bf39-09c1e734effb#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/panorama/nrw-schulen-in-ganz-in-nordrhein-westfalen-bleiben-am-montag-wegen-glatteisgefahr-geschlossen](https://www.spiegel.de/panorama/nrw-schulen-in-ganz-in-nordrhein-westfalen-bleiben-am-montag-wegen-glatteisgefahr-geschlossen-a-f536a006-1bba-47cb-a843-f5b0dfcbecb4#ref=rss)
-* [https://www.spiegel.de/ausland/iran-proteste-eskalieren-berichte-von-schuessen-gegen-demonstranten](https://www.spiegel.de/ausland/iran-proteste-eskalieren-berichte-von-schuessen-gegen-demonstranten-a-6eb4f15b-b3e7-47eb-af28-84f539f93fdc#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-droht-jetzt-kuba](https://www.spiegel.de/ausland/donald-trump-droht-jetzt-kuba-a-618197f0-2de6-480b-babf-94164c8b315c#ref=rss)
-### kuba
-
-* [https://www.spiegel.de/ausland/donald-trump-droht-jetzt-kuba](https://www.spiegel.de/ausland/donald-trump-droht-jetzt-kuba-a-618197f0-2de6-480b-babf-94164c8b315c#ref=rss)
-### leyen
-
-* [https://www.spiegel.de/politik/deutschland/x-von-elon-musk-ursula-von-der-leyen-droht-plattform-x-mit-konsequenzen](https://www.spiegel.de/politik/deutschland/x-von-elon-musk-ursula-von-der-leyen-droht-plattform-x-mit-konsequenzen-a-3424df48-0a06-4241-9686-204e64c633d1#ref=rss)
-### plattform
-
-* [https://www.spiegel.de/politik/deutschland/x-von-elon-musk-ursula-von-der-leyen-droht-plattform-x-mit-konsequenzen](https://www.spiegel.de/politik/deutschland/x-von-elon-musk-ursula-von-der-leyen-droht-plattform-x-mit-konsequenzen-a-3424df48-0a06-4241-9686-204e64c633d1#ref=rss)
-### konsequenzen
-
-* [https://www.spiegel.de/politik/deutschland/x-von-elon-musk-ursula-von-der-leyen-droht-plattform-x-mit-konsequenzen](https://www.spiegel.de/politik/deutschland/x-von-elon-musk-ursula-von-der-leyen-droht-plattform-x-mit-konsequenzen-a-3424df48-0a06-4241-9686-204e64c633d1#ref=rss)
-### kennedy
-
-* [https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell](https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell-a-06dab6af-f9f5-4643-bcb2-8e2f87611491#ref=rss)
-### center
-
-* [https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell](https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell-a-06dab6af-f9f5-4643-bcb2-8e2f87611491#ref=rss)
-### opera
-
-* [https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell](https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell-a-06dab6af-f9f5-4643-bcb2-8e2f87611491#ref=rss)
-### beendet
-
-* [https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell](https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell-a-06dab6af-f9f5-4643-bcb2-8e2f87611491#ref=rss)
-### partnerschaft
-
-* [https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell](https://www.spiegel.de/kultur/kennedy-center-washington-national-opera-beendet-partnerschaft-wegen-neuem-geschaeftsmodell-a-06dab6af-f9f5-4643-bcb2-8e2f87611491#ref=rss)
-### minneapolis
-
-* [https://www.spiegel.de/ausland/minneapolis-demonstrationen-in-usa-gegen-ice-gewalt](https://www.spiegel.de/ausland/minneapolis-demonstrationen-in-usa-gegen-ice-gewalt-a-9f7989b5-4cbc-4ece-9449-1c0e7a3ca812#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zara-larsson-haette-lieber-einen-crackraucher-auf-der-couch-als-einen-ice-agenten](https://www.spiegel.de/kultur/musik/zara-larsson-haette-lieber-einen-crackraucher-auf-der-couch-als-einen-ice-agenten-a-d42c59e4-9461-484f-8a29-221d648116f9#ref=rss)
-### tödlichen
-
-* [https://www.spiegel.de/ausland/minneapolis-demonstrationen-in-usa-gegen-ice-gewalt](https://www.spiegel.de/ausland/minneapolis-demonstrationen-in-usa-gegen-ice-gewalt-a-9f7989b5-4cbc-4ece-9449-1c0e7a3ca812#ref=rss)
-* [https://www.spiegel.de/kultur/musik/zara-larsson-haette-lieber-einen-crackraucher-auf-der-couch-als-einen-ice-agenten](https://www.spiegel.de/kultur/musik/zara-larsson-haette-lieber-einen-crackraucher-auf-der-couch-als-einen-ice-agenten-a-d42c59e4-9461-484f-8a29-221d648116f9#ref=rss)
-### schüssen
-
-* [https://www.spiegel.de/ausland/minneapolis-demonstrationen-in-usa-gegen-ice-gewalt](https://www.spiegel.de/ausland/minneapolis-demonstrationen-in-usa-gegen-ice-gewalt-a-9f7989b5-4cbc-4ece-9449-1c0e7a3ca812#ref=rss)
-* [https://www.spiegel.de/ausland/iran-proteste-eskalieren-berichte-von-schuessen-gegen-demonstranten](https://www.spiegel.de/ausland/iran-proteste-eskalieren-berichte-von-schuessen-gegen-demonstranten-a-6eb4f15b-b3e7-47eb-af28-84f539f93fdc#ref=rss)
-### cortina
-
-* [https://www.spiegel.de/sport/olympia/cortina-dampezzo-wachmann-stirbt-waehrend-nachtschicht-nahe-olympia-staette](https://www.spiegel.de/sport/olympia/cortina-dampezzo-wachmann-stirbt-waehrend-nachtschicht-nahe-olympia-staette-a-16d6fbfc-0fe1-4174-8f84-6c1b3970dca8#ref=rss)
-### stirbt
-
-* [https://www.spiegel.de/sport/olympia/cortina-dampezzo-wachmann-stirbt-waehrend-nachtschicht-nahe-olympia-staette](https://www.spiegel.de/sport/olympia/cortina-dampezzo-wachmann-stirbt-waehrend-nachtschicht-nahe-olympia-staette-a-16d6fbfc-0fe1-4174-8f84-6c1b3970dca8#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/istanbul-studentin-marlene-stirbt-nach-pestizideinsatz-wer-ist-schuld](https://www.spiegel.de/panorama/gesellschaft/istanbul-studentin-marlene-stirbt-nach-pestizideinsatz-wer-ist-schuld-a-cf1e0fd2-1f8f-4140-9581-2c6c0134cf4d#ref=rss)
-### nahe
-
-* [https://www.spiegel.de/sport/olympia/cortina-dampezzo-wachmann-stirbt-waehrend-nachtschicht-nahe-olympia-staette](https://www.spiegel.de/sport/olympia/cortina-dampezzo-wachmann-stirbt-waehrend-nachtschicht-nahe-olympia-staette-a-16d6fbfc-0fe1-4174-8f84-6c1b3970dca8#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/sport/olympia/cortina-dampezzo-wachmann-stirbt-waehrend-nachtschicht-nahe-olympia-staette](https://www.spiegel.de/sport/olympia/cortina-dampezzo-wachmann-stirbt-waehrend-nachtschicht-nahe-olympia-staette-a-16d6fbfc-0fe1-4174-8f84-6c1b3970dca8#ref=rss)
-* [https://www.spiegel.de/panorama/leute/andrea-plewig-verliert-auge-bei-feuerwerksunfall-wirbt-fuer-boellerverbot](https://www.spiegel.de/panorama/leute/andrea-plewig-verliert-auge-bei-feuerwerksunfall-wirbt-fuer-boellerverbot-a-0f86754a-c91f-4e1e-9468-1ed4f3d0a508#ref=rss)
-### zara
-
-* [https://www.spiegel.de/kultur/musik/zara-larsson-haette-lieber-einen-crackraucher-auf-der-couch-als-einen-ice-agenten](https://www.spiegel.de/kultur/musik/zara-larsson-haette-lieber-einen-crackraucher-auf-der-couch-als-einen-ice-agenten-a-d42c59e4-9461-484f-8a29-221d648116f9#ref=rss)
-### larsson
-
-* [https://www.spiegel.de/kultur/musik/zara-larsson-haette-lieber-einen-crackraucher-auf-der-couch-als-einen-ice-agenten](https://www.spiegel.de/kultur/musik/zara-larsson-haette-lieber-einen-crackraucher-auf-der-couch-als-einen-ice-agenten-a-d42c59e4-9461-484f-8a29-221d648116f9#ref=rss)
-### zah1de
-
-* [https://www.spiegel.de/kultur/musik/rapperin-zah1de-ey-leute-eure-energie-ist-so-krass](https://www.spiegel.de/kultur/musik/rapperin-zah1de-ey-leute-eure-energie-ist-so-krass-a-cac29d37-bae9-4d91-8e17-e6b9018562c1#ref=rss)
-### augsburg
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-moenchengladbach-fertigt-fc-augsburg-4-0-ab](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-moenchengladbach-fertigt-fc-augsburg-4-0-ab-a-c4d692d6-8b1f-4ca6-882a-87fae9ffcd1a#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-moenchengladbach-fertigt-fc-augsburg-4-0-ab](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-moenchengladbach-fertigt-fc-augsburg-4-0-ab-a-c4d692d6-8b1f-4ca6-882a-87fae9ffcd1a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-wirft-bundesministern-mangelnde-eigenstaendigkeit-vor](https://www.spiegel.de/politik/deutschland/armin-laschet-wirft-bundesministern-mangelnde-eigenstaendigkeit-vor-a-be1030b4-56da-4d38-bf39-09c1e734effb#ref=rss)
-### istanbul
-
-* [https://www.spiegel.de/panorama/gesellschaft/istanbul-studentin-marlene-stirbt-nach-pestizideinsatz-wer-ist-schuld](https://www.spiegel.de/panorama/gesellschaft/istanbul-studentin-marlene-stirbt-nach-pestizideinsatz-wer-ist-schuld-a-cf1e0fd2-1f8f-4140-9581-2c6c0134cf4d#ref=rss)
-### studentin
-
-* [https://www.spiegel.de/panorama/gesellschaft/istanbul-studentin-marlene-stirbt-nach-pestizideinsatz-wer-ist-schuld](https://www.spiegel.de/panorama/gesellschaft/istanbul-studentin-marlene-stirbt-nach-pestizideinsatz-wer-ist-schuld-a-cf1e0fd2-1f8f-4140-9581-2c6c0134cf4d#ref=rss)
-### marlene
-
-* [https://www.spiegel.de/panorama/gesellschaft/istanbul-studentin-marlene-stirbt-nach-pestizideinsatz-wer-ist-schuld](https://www.spiegel.de/panorama/gesellschaft/istanbul-studentin-marlene-stirbt-nach-pestizideinsatz-wer-ist-schuld-a-cf1e0fd2-1f8f-4140-9581-2c6c0134cf4d#ref=rss)
-### trägt
-
-* [https://www.spiegel.de/panorama/gesellschaft/istanbul-studentin-marlene-stirbt-nach-pestizideinsatz-wer-ist-schuld](https://www.spiegel.de/panorama/gesellschaft/istanbul-studentin-marlene-stirbt-nach-pestizideinsatz-wer-ist-schuld-a-cf1e0fd2-1f8f-4140-9581-2c6c0134cf4d#ref=rss)
-### schuld
-
-* [https://www.spiegel.de/panorama/gesellschaft/istanbul-studentin-marlene-stirbt-nach-pestizideinsatz-wer-ist-schuld](https://www.spiegel.de/panorama/gesellschaft/istanbul-studentin-marlene-stirbt-nach-pestizideinsatz-wer-ist-schuld-a-cf1e0fd2-1f8f-4140-9581-2c6c0134cf4d#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/panorama/gesellschaft/istanbul-studentin-marlene-stirbt-nach-pestizideinsatz-wer-ist-schuld](https://www.spiegel.de/panorama/gesellschaft/istanbul-studentin-marlene-stirbt-nach-pestizideinsatz-wer-ist-schuld-a-cf1e0fd2-1f8f-4140-9581-2c6c0134cf4d#ref=rss)
-* [https://www.spiegel.de/ausland/iran-proteste-eskalieren-berichte-von-schuessen-gegen-demonstranten](https://www.spiegel.de/ausland/iran-proteste-eskalieren-berichte-von-schuessen-gegen-demonstranten-a-6eb4f15b-b3e7-47eb-af28-84f539f93fdc#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-polizeieinsatz-im-ice-nach-koeln-wegen-machete-mit-vermeintlichem-blut](https://www.spiegel.de/panorama/justiz/deutsche-bahn-polizeieinsatz-im-ice-nach-koeln-wegen-machete-mit-vermeintlichem-blut-a-bb1e7cf0-60e7-4dbe-8c34-fc6414c06bd8#ref=rss)
-* [https://www.spiegel.de/kultur/ernst-wolfgang-boeckenfoerde-was-die-schwachkopf-debatte-mit-unserer-freiheit-zu-tun-hat](https://www.spiegel.de/kultur/ernst-wolfgang-boeckenfoerde-was-die-schwachkopf-debatte-mit-unserer-freiheit-zu-tun-hat-a-64d50173-c6c4-41e9-8bd6-48b1ba13645a#ref=rss)
-### ice
-
-* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-polizeieinsatz-im-ice-nach-koeln-wegen-machete-mit-vermeintlichem-blut](https://www.spiegel.de/panorama/justiz/deutsche-bahn-polizeieinsatz-im-ice-nach-koeln-wegen-machete-mit-vermeintlichem-blut-a-bb1e7cf0-60e7-4dbe-8c34-fc6414c06bd8#ref=rss)
-### machete
-
-* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-polizeieinsatz-im-ice-nach-koeln-wegen-machete-mit-vermeintlichem-blut](https://www.spiegel.de/panorama/justiz/deutsche-bahn-polizeieinsatz-im-ice-nach-koeln-wegen-machete-mit-vermeintlichem-blut-a-bb1e7cf0-60e7-4dbe-8c34-fc6414c06bd8#ref=rss)
-### blut
-
-* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-polizeieinsatz-im-ice-nach-koeln-wegen-machete-mit-vermeintlichem-blut](https://www.spiegel.de/panorama/justiz/deutsche-bahn-polizeieinsatz-im-ice-nach-koeln-wegen-machete-mit-vermeintlichem-blut-a-bb1e7cf0-60e7-4dbe-8c34-fc6414c06bd8#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/deutsche-bahn-polizeieinsatz-im-ice-nach-koeln-wegen-machete-mit-vermeintlichem-blut](https://www.spiegel.de/panorama/justiz/deutsche-bahn-polizeieinsatz-im-ice-nach-koeln-wegen-machete-mit-vermeintlichem-blut-a-bb1e7cf0-60e7-4dbe-8c34-fc6414c06bd8#ref=rss)
-* [https://www.spiegel.de/panorama/zivilcourage-mann-will-streit-schlichten-und-wird-mit-schlagring-attackiert](https://www.spiegel.de/panorama/zivilcourage-mann-will-streit-schlichten-und-wird-mit-schlagring-attackiert-a-edc25e2d-f34e-4aaa-9d17-e958244353d3#ref=rss)
-### demokratie
-
-* [https://www.spiegel.de/kultur/demokratie-vertrauen-ist-gut-misstrauen-fuehlt-sich-besser-an](https://www.spiegel.de/kultur/demokratie-vertrauen-ist-gut-misstrauen-fuehlt-sich-besser-an-a-c75527f4-fec6-4f28-a00d-6732792990d6#ref=rss)
-### gut
-
-* [https://www.spiegel.de/kultur/demokratie-vertrauen-ist-gut-misstrauen-fuehlt-sich-besser-an](https://www.spiegel.de/kultur/demokratie-vertrauen-ist-gut-misstrauen-fuehlt-sich-besser-an-a-c75527f4-fec6-4f28-a00d-6732792990d6#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-droht-jetzt-kuba](https://www.spiegel.de/ausland/donald-trump-droht-jetzt-kuba-a-618197f0-2de6-480b-babf-94164c8b315c#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/kultur/demokratie-vertrauen-ist-gut-misstrauen-fuehlt-sich-besser-an](https://www.spiegel.de/kultur/demokratie-vertrauen-ist-gut-misstrauen-fuehlt-sich-besser-an-a-c75527f4-fec6-4f28-a00d-6732792990d6#ref=rss)
-* [https://www.spiegel.de/auto/fliegen-bund-lehnt-verpflichtende-ausweiskontrolle-beim-boarding-ab](https://www.spiegel.de/auto/fliegen-bund-lehnt-verpflichtende-ausweiskontrolle-beim-boarding-ab-a-52439672-df05-4db6-835f-a51171846ee7#ref=rss)
-### verliert
-
-* [https://www.spiegel.de/kultur/demokratie-vertrauen-ist-gut-misstrauen-fuehlt-sich-besser-an](https://www.spiegel.de/kultur/demokratie-vertrauen-ist-gut-misstrauen-fuehlt-sich-besser-an-a-c75527f4-fec6-4f28-a00d-6732792990d6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/andrea-plewig-verliert-auge-bei-feuerwerksunfall-wirbt-fuer-boellerverbot](https://www.spiegel.de/panorama/leute/andrea-plewig-verliert-auge-bei-feuerwerksunfall-wirbt-fuer-boellerverbot-a-0f86754a-c91f-4e1e-9468-1ed4f3d0a508#ref=rss)
-### bob
-
-* [https://www.spiegel.de/sport/wintersport/bob-gefaehrliche-pannen-bei-em-sieg-von-adam-ammour-in-st-moritz](https://www.spiegel.de/sport/wintersport/bob-gefaehrliche-pannen-bei-em-sieg-von-adam-ammour-in-st-moritz-a-0b29bf4e-a8de-4d4e-8d95-d0e8e2337c3f#ref=rss)
-### st
-
-* [https://www.spiegel.de/sport/wintersport/bob-gefaehrliche-pannen-bei-em-sieg-von-adam-ammour-in-st-moritz](https://www.spiegel.de/sport/wintersport/bob-gefaehrliche-pannen-bei-em-sieg-von-adam-ammour-in-st-moritz-a-0b29bf4e-a8de-4d4e-8d95-d0e8e2337c3f#ref=rss)
-### moritz
-
-* [https://www.spiegel.de/sport/wintersport/bob-gefaehrliche-pannen-bei-em-sieg-von-adam-ammour-in-st-moritz](https://www.spiegel.de/sport/wintersport/bob-gefaehrliche-pannen-bei-em-sieg-von-adam-ammour-in-st-moritz-a-0b29bf4e-a8de-4d4e-8d95-d0e8e2337c3f#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/sport/wintersport/bob-gefaehrliche-pannen-bei-em-sieg-von-adam-ammour-in-st-moritz](https://www.spiegel.de/sport/wintersport/bob-gefaehrliche-pannen-bei-em-sieg-von-adam-ammour-in-st-moritz-a-0b29bf4e-a8de-4d4e-8d95-d0e8e2337c3f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-wirft-bundesministern-mangelnde-eigenstaendigkeit-vor](https://www.spiegel.de/politik/deutschland/armin-laschet-wirft-bundesministern-mangelnde-eigenstaendigkeit-vor-a-be1030b4-56da-4d38-bf39-09c1e734effb#ref=rss)
-### 37
-
-* [https://www.spiegel.de/ausland/ausschluss-von-37-ngos-aus-dem-gazastreifen-das-ist-ganz-klar-der-versuch-das-leid-der-palaestinenser-zu-vergroessern](https://www.spiegel.de/ausland/ausschluss-von-37-ngos-aus-dem-gazastreifen-das-ist-ganz-klar-der-versuch-das-leid-der-palaestinenser-zu-vergroessern-a-cd401c45-afb7-4044-b742-e4521118be99#ref=rss)
-### gazastreifen
-
-* [https://www.spiegel.de/ausland/ausschluss-von-37-ngos-aus-dem-gazastreifen-das-ist-ganz-klar-der-versuch-das-leid-der-palaestinenser-zu-vergroessern](https://www.spiegel.de/ausland/ausschluss-von-37-ngos-aus-dem-gazastreifen-das-ist-ganz-klar-der-versuch-das-leid-der-palaestinenser-zu-vergroessern-a-cd401c45-afb7-4044-b742-e4521118be99#ref=rss)
-### leid
-
-* [https://www.spiegel.de/ausland/ausschluss-von-37-ngos-aus-dem-gazastreifen-das-ist-ganz-klar-der-versuch-das-leid-der-palaestinenser-zu-vergroessern](https://www.spiegel.de/ausland/ausschluss-von-37-ngos-aus-dem-gazastreifen-das-ist-ganz-klar-der-versuch-das-leid-der-palaestinenser-zu-vergroessern-a-cd401c45-afb7-4044-b742-e4521118be99#ref=rss)
-### vergrößern
-
-* [https://www.spiegel.de/ausland/ausschluss-von-37-ngos-aus-dem-gazastreifen-das-ist-ganz-klar-der-versuch-das-leid-der-palaestinenser-zu-vergroessern](https://www.spiegel.de/ausland/ausschluss-von-37-ngos-aus-dem-gazastreifen-das-ist-ganz-klar-der-versuch-das-leid-der-palaestinenser-zu-vergroessern-a-cd401c45-afb7-4044-b742-e4521118be99#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/ausschluss-von-37-ngos-aus-dem-gazastreifen-das-ist-ganz-klar-der-versuch-das-leid-der-palaestinenser-zu-vergroessern](https://www.spiegel.de/ausland/ausschluss-von-37-ngos-aus-dem-gazastreifen-das-ist-ganz-klar-der-versuch-das-leid-der-palaestinenser-zu-vergroessern-a-cd401c45-afb7-4044-b742-e4521118be99#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-wirft-bundesministern-mangelnde-eigenstaendigkeit-vor](https://www.spiegel.de/politik/deutschland/armin-laschet-wirft-bundesministern-mangelnde-eigenstaendigkeit-vor-a-be1030b4-56da-4d38-bf39-09c1e734effb#ref=rss)
-### andrea
-
-* [https://www.spiegel.de/panorama/leute/andrea-plewig-verliert-auge-bei-feuerwerksunfall-wirbt-fuer-boellerverbot](https://www.spiegel.de/panorama/leute/andrea-plewig-verliert-auge-bei-feuerwerksunfall-wirbt-fuer-boellerverbot-a-0f86754a-c91f-4e1e-9468-1ed4f3d0a508#ref=rss)
-### plewig
-
-* [https://www.spiegel.de/panorama/leute/andrea-plewig-verliert-auge-bei-feuerwerksunfall-wirbt-fuer-boellerverbot](https://www.spiegel.de/panorama/leute/andrea-plewig-verliert-auge-bei-feuerwerksunfall-wirbt-fuer-boellerverbot-a-0f86754a-c91f-4e1e-9468-1ed4f3d0a508#ref=rss)
-### auge
-
-* [https://www.spiegel.de/panorama/leute/andrea-plewig-verliert-auge-bei-feuerwerksunfall-wirbt-fuer-boellerverbot](https://www.spiegel.de/panorama/leute/andrea-plewig-verliert-auge-bei-feuerwerksunfall-wirbt-fuer-boellerverbot-a-0f86754a-c91f-4e1e-9468-1ed4f3d0a508#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-koeln-die-schoepfung-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-koeln-die-schoepfung-im-schnellcheck-a-26b6725d-1b63-4b21-801d-fbc87f933982#ref=rss)
-### niedersachsen
-
-* [https://www.spiegel.de/panorama/nrw-schulen-in-ganz-in-nordrhein-westfalen-bleiben-am-montag-wegen-glatteisgefahr-geschlossen](https://www.spiegel.de/panorama/nrw-schulen-in-ganz-in-nordrhein-westfalen-bleiben-am-montag-wegen-glatteisgefahr-geschlossen-a-f536a006-1bba-47cb-a843-f5b0dfcbecb4#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/nrw-schulen-in-ganz-in-nordrhein-westfalen-bleiben-am-montag-wegen-glatteisgefahr-geschlossen](https://www.spiegel.de/panorama/nrw-schulen-in-ganz-in-nordrhein-westfalen-bleiben-am-montag-wegen-glatteisgefahr-geschlossen-a-f536a006-1bba-47cb-a843-f5b0dfcbecb4#ref=rss)
-### glatteis
-
-* [https://www.spiegel.de/panorama/nrw-schulen-in-ganz-in-nordrhein-westfalen-bleiben-am-montag-wegen-glatteisgefahr-geschlossen](https://www.spiegel.de/panorama/nrw-schulen-in-ganz-in-nordrhein-westfalen-bleiben-am-montag-wegen-glatteisgefahr-geschlossen-a-f536a006-1bba-47cb-a843-f5b0dfcbecb4#ref=rss)
-### ernstwolfgang
-
-* [https://www.spiegel.de/kultur/ernst-wolfgang-boeckenfoerde-was-die-schwachkopf-debatte-mit-unserer-freiheit-zu-tun-hat](https://www.spiegel.de/kultur/ernst-wolfgang-boeckenfoerde-was-die-schwachkopf-debatte-mit-unserer-freiheit-zu-tun-hat-a-64d50173-c6c4-41e9-8bd6-48b1ba13645a#ref=rss)
-### böckenförde
-
-* [https://www.spiegel.de/kultur/ernst-wolfgang-boeckenfoerde-was-die-schwachkopf-debatte-mit-unserer-freiheit-zu-tun-hat](https://www.spiegel.de/kultur/ernst-wolfgang-boeckenfoerde-was-die-schwachkopf-debatte-mit-unserer-freiheit-zu-tun-hat-a-64d50173-c6c4-41e9-8bd6-48b1ba13645a#ref=rss)
-### tot
-
-* [https://www.spiegel.de/wissenschaft/erich-von-daeniken-ist-tot-prophet-der-alien-goetter-nachruf](https://www.spiegel.de/wissenschaft/erich-von-daeniken-ist-tot-prophet-der-alien-goetter-nachruf-a-5b2926a8-98eb-4ab7-8fde-2e4d21c4213a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/erich-von-daeniken-ist-tot-ufo-forscher-mit-90-jahren-gestorben](https://www.spiegel.de/wissenschaft/weltall/erich-von-daeniken-ist-tot-ufo-forscher-mit-90-jahren-gestorben-a-f4316123-b590-492f-ab9a-a24111d5c866#ref=rss)
-### thesen
-
-* [https://www.spiegel.de/wissenschaft/erich-von-daeniken-ist-tot-prophet-der-alien-goetter-nachruf](https://www.spiegel.de/wissenschaft/erich-von-daeniken-ist-tot-prophet-der-alien-goetter-nachruf-a-5b2926a8-98eb-4ab7-8fde-2e4d21c4213a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/erich-von-daeniken-ist-tot-ufo-forscher-mit-90-jahren-gestorben](https://www.spiegel.de/wissenschaft/weltall/erich-von-daeniken-ist-tot-ufo-forscher-mit-90-jahren-gestorben-a-f4316123-b590-492f-ab9a-a24111d5c866#ref=rss)
+### indien
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette-a-041a080c-d0d8-4267-82c1-9173eb99d45c#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin](https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin-a-2d8eb6b5-7e46-4e48-aab5-841133e56c57#ref=rss)
+* [https://www.spiegel.de/start/niedriger-nc-wo-der-studienstart-2026-leichter-wird](https://www.spiegel.de/start/niedriger-nc-wo-der-studienstart-2026-leichter-wird-a-f308e244-0eb6-46da-8056-c2d94a8f6d8a#ref=rss)
+* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
 ### iran
 
-* [https://www.spiegel.de/ausland/iran-proteste-eskalieren-berichte-von-schuessen-gegen-demonstranten](https://www.spiegel.de/ausland/iran-proteste-eskalieren-berichte-von-schuessen-gegen-demonstranten-a-6eb4f15b-b3e7-47eb-af28-84f539f93fdc#ref=rss)
-### thore
+* [https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht](https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht-a-75fd1bfb-ba0f-497d-a9d8-c0fccce3e81a#ref=rss)
+* [https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen](https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen-a-0307bd0b-f7a6-4e36-a77a-91d6e1b89d65#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-internationale-justiz-johann-wadephul-und-lars-klingbeil-in-washington](https://www.spiegel.de/politik/deutschland/news-iran-internationale-justiz-johann-wadephul-und-lars-klingbeil-in-washington-a-7ff5da28-bfee-457d-ac8e-b0d4b5493f52#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/panorama/leute/neue-karriere-ex-moderator-thore-schoelerman-leitet-jetzt-burger-filialen](https://www.spiegel.de/panorama/leute/neue-karriere-ex-moderator-thore-schoelerman-leitet-jetzt-burger-filialen-a-3815076c-6559-438d-beb9-59473f44b043#ref=rss)
-### schölermann
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette-a-041a080c-d0d8-4267-82c1-9173eb99d45c#ref=rss)
+### merz
 
-* [https://www.spiegel.de/panorama/leute/neue-karriere-ex-moderator-thore-schoelerman-leitet-jetzt-burger-filialen](https://www.spiegel.de/panorama/leute/neue-karriere-ex-moderator-thore-schoelerman-leitet-jetzt-burger-filialen-a-3815076c-6559-438d-beb9-59473f44b043#ref=rss)
-### zivilcourage
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette-a-041a080c-d0d8-4267-82c1-9173eb99d45c#ref=rss)
+### kuntz
 
-* [https://www.spiegel.de/panorama/zivilcourage-mann-will-streit-schlichten-und-wird-mit-schlagring-attackiert](https://www.spiegel.de/panorama/zivilcourage-mann-will-streit-schlichten-und-wird-mit-schlagring-attackiert-a-edc25e2d-f34e-4aaa-9d17-e958244353d3#ref=rss)
-### streit
+* [https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft](https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft-a-c83cec7e-79cd-46a9-a89b-c8e6affd57f9#ref=rss)
+### golden
 
-* [https://www.spiegel.de/panorama/zivilcourage-mann-will-streit-schlichten-und-wird-mit-schlagring-attackiert](https://www.spiegel.de/panorama/zivilcourage-mann-will-streit-schlichten-und-wird-mit-schlagring-attackiert-a-edc25e2d-f34e-4aaa-9d17-e958244353d3#ref=rss)
-### schlagring
+* [https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin](https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin-a-2d8eb6b5-7e46-4e48-aab5-841133e56c57#ref=rss)
+* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
+### globes
 
-* [https://www.spiegel.de/panorama/zivilcourage-mann-will-streit-schlichten-und-wird-mit-schlagring-attackiert](https://www.spiegel.de/panorama/zivilcourage-mann-will-streit-schlichten-und-wird-mit-schlagring-attackiert-a-edc25e2d-f34e-4aaa-9d17-e958244353d3#ref=rss)
-### fitgreenmind
+* [https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin](https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin-a-2d8eb6b5-7e46-4e48-aab5-841133e56c57#ref=rss)
+* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
+### trump
 
-* [https://www.spiegel.de/start/fitgreenmind-maya-leinenbach-ueber-ihren-weg-vom-food-blogging-zum-kellnern-im-cafe](https://www.spiegel.de/start/fitgreenmind-maya-leinenbach-ueber-ihren-weg-vom-food-blogging-zum-kellnern-im-cafe-a-eaba6e48-7dd8-4d7f-95c1-cb3fdf4c3b96#ref=rss)
-### maya
+* [https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht](https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht-a-75fd1bfb-ba0f-497d-a9d8-c0fccce3e81a#ref=rss)
+* [https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen](https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen-a-0307bd0b-f7a6-4e36-a77a-91d6e1b89d65#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/start/fitgreenmind-maya-leinenbach-ueber-ihren-weg-vom-food-blogging-zum-kellnern-im-cafe](https://www.spiegel.de/start/fitgreenmind-maya-leinenbach-ueber-ihren-weg-vom-food-blogging-zum-kellnern-im-cafe-a-eaba6e48-7dd8-4d7f-95c1-cb3fdf4c3b96#ref=rss)
-### leinenbach
+* [https://www.spiegel.de/wirtschaft/studie-abwanderung-von-pflegekraeften-erhoeht-sterblichkeit](https://www.spiegel.de/wirtschaft/studie-abwanderung-von-pflegekraeften-erhoeht-sterblichkeit-a-09a2bc1e-5b17-4967-9a10-3e501c2ba701#ref=rss)
+* [https://www.spiegel.de/panorama/glaette-in-deutschland-fluege-abgesagt-bahn-drosselt-geschwindigkeit-staus-im-berufsverkehr](https://www.spiegel.de/panorama/glaette-in-deutschland-fluege-abgesagt-bahn-drosselt-geschwindigkeit-staus-im-berufsverkehr-a-f4de63dd-1af9-46f2-a2d3-b849cb04c4ac#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/start/fitgreenmind-maya-leinenbach-ueber-ihren-weg-vom-food-blogging-zum-kellnern-im-cafe](https://www.spiegel.de/start/fitgreenmind-maya-leinenbach-ueber-ihren-weg-vom-food-blogging-zum-kellnern-im-cafe-a-eaba6e48-7dd8-4d7f-95c1-cb3fdf4c3b96#ref=rss)
-### jahr
+* [https://www.spiegel.de/wirtschaft/trump-familie-an-milliardenschwerem-hotelprojekt-in-saudi-arabien-beteiligt](https://www.spiegel.de/wirtschaft/trump-familie-an-milliardenschwerem-hotelprojekt-in-saudi-arabien-beteiligt-a-ab7b8c62-6f92-4bb7-a984-259d6b720e47#ref=rss)
+* [https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht](https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht-a-75fd1bfb-ba0f-497d-a9d8-c0fccce3e81a#ref=rss)
+* [https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen](https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen-a-0307bd0b-f7a6-4e36-a77a-91d6e1b89d65#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/start/fitgreenmind-maya-leinenbach-ueber-ihren-weg-vom-food-blogging-zum-kellnern-im-cafe](https://www.spiegel.de/start/fitgreenmind-maya-leinenbach-ueber-ihren-weg-vom-food-blogging-zum-kellnern-im-cafe-a-eaba6e48-7dd8-4d7f-95c1-cb3fdf4c3b96#ref=rss)
-* [https://www.spiegel.de/kultur/syrien-kampf-um-das-kulturelle-erbe-in-den-ruinen-von-aleppo-und-palmyra](https://www.spiegel.de/kultur/syrien-kampf-um-das-kulturelle-erbe-in-den-ruinen-von-aleppo-und-palmyra-a-2b34e23b-e907-49ad-8321-7b12936bf59a#ref=rss)
-### leben
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette-a-041a080c-d0d8-4267-82c1-9173eb99d45c#ref=rss)
+### neue
 
-* [https://www.spiegel.de/start/fitgreenmind-maya-leinenbach-ueber-ihren-weg-vom-food-blogging-zum-kellnern-im-cafe](https://www.spiegel.de/start/fitgreenmind-maya-leinenbach-ueber-ihren-weg-vom-food-blogging-zum-kellnern-im-cafe-a-eaba6e48-7dd8-4d7f-95c1-cb3fdf4c3b96#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/erich-von-daeniken-ist-tot-ufo-forscher-mit-90-jahren-gestorben](https://www.spiegel.de/wissenschaft/weltall/erich-von-daeniken-ist-tot-ufo-forscher-mit-90-jahren-gestorben-a-f4316123-b590-492f-ab9a-a24111d5c866#ref=rss)
-### armin
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet](https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet-a-4296006d-e8b2-4955-b963-25a7353a72af#ref=rss)
+* [https://www.spiegel.de/karriere/aktivrente-wie-sie-die-aktivrente-optimal-nutzen-und-schon-vor-dem-ruhestand-tausende-euro-dazuverdienen-koennen](https://www.spiegel.de/karriere/aktivrente-wie-sie-die-aktivrente-optimal-nutzen-und-schon-vor-dem-ruhestand-tausende-euro-dazuverdienen-koennen-a-f11a544a-c71a-4516-b137-6e774c41e1d4#ref=rss)
+### auto
 
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-wirft-bundesministern-mangelnde-eigenstaendigkeit-vor](https://www.spiegel.de/politik/deutschland/armin-laschet-wirft-bundesministern-mangelnde-eigenstaendigkeit-vor-a-be1030b4-56da-4d38-bf39-09c1e734effb#ref=rss)
-### laschet
+* [https://www.spiegel.de/panorama/hamburg-kind-kommt-im-auto-zur-welt](https://www.spiegel.de/panorama/hamburg-kind-kommt-im-auto-zur-welt-a-4d3e0ab5-ceca-452b-9b6c-e2f9c888d7a5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mercedes-gibt-der-neuen-s-klasse-weniger-autonomie](https://www.spiegel.de/wirtschaft/mercedes-gibt-der-neuen-s-klasse-weniger-autonomie-a-402ddb66-3ab7-43c7-89a4-298ab010452e#ref=rss)
+### mindestens
 
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-wirft-bundesministern-mangelnde-eigenstaendigkeit-vor](https://www.spiegel.de/politik/deutschland/armin-laschet-wirft-bundesministern-mangelnde-eigenstaendigkeit-vor-a-be1030b4-56da-4d38-bf39-09c1e734effb#ref=rss)
-### 90
+* [https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht](https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht-a-1b8bc8a6-cd17-4117-8fc5-40ac351d084d#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wissenschaft/weltall/erich-von-daeniken-ist-tot-ufo-forscher-mit-90-jahren-gestorben](https://www.spiegel.de/wissenschaft/weltall/erich-von-daeniken-ist-tot-ufo-forscher-mit-90-jahren-gestorben-a-f4316123-b590-492f-ab9a-a24111d5c866#ref=rss)
-### jahren
+* [https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht](https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht-a-1b8bc8a6-cd17-4117-8fc5-40ac351d084d#ref=rss)
+* [https://www.spiegel.de/panorama/glaette-in-deutschland-fluege-abgesagt-bahn-drosselt-geschwindigkeit-staus-im-berufsverkehr](https://www.spiegel.de/panorama/glaette-in-deutschland-fluege-abgesagt-bahn-drosselt-geschwindigkeit-staus-im-berufsverkehr-a-f4de63dd-1af9-46f2-a2d3-b849cb04c4ac#ref=rss)
+* [https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen](https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen-a-0307bd0b-f7a6-4e36-a77a-91d6e1b89d65#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wissenschaft/weltall/erich-von-daeniken-ist-tot-ufo-forscher-mit-90-jahren-gestorben](https://www.spiegel.de/wissenschaft/weltall/erich-von-daeniken-ist-tot-ufo-forscher-mit-90-jahren-gestorben-a-f4316123-b590-492f-ab9a-a24111d5c866#ref=rss)
-### gestorben
+* [https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht](https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht-a-75fd1bfb-ba0f-497d-a9d8-c0fccce3e81a#ref=rss)
+* [https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen](https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen-a-0307bd0b-f7a6-4e36-a77a-91d6e1b89d65#ref=rss)
+### regime
 
-* [https://www.spiegel.de/wissenschaft/weltall/erich-von-daeniken-ist-tot-ufo-forscher-mit-90-jahren-gestorben](https://www.spiegel.de/wissenschaft/weltall/erich-von-daeniken-ist-tot-ufo-forscher-mit-90-jahren-gestorben-a-f4316123-b590-492f-ab9a-a24111d5c866#ref=rss)
-### kampf
+* [https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht](https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht-a-75fd1bfb-ba0f-497d-a9d8-c0fccce3e81a#ref=rss)
+* [https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen](https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen-a-0307bd0b-f7a6-4e36-a77a-91d6e1b89d65#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-iran-internationale-justiz-johann-wadephul-und-lars-klingbeil-in-washington](https://www.spiegel.de/politik/deutschland/news-iran-internationale-justiz-johann-wadephul-und-lars-klingbeil-in-washington-a-7ff5da28-bfee-457d-ac8e-b0d4b5493f52#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-vier-veteraninnen-sagen-den-republikanern-den-kampf-an](https://www.spiegel.de/ausland/midterms-in-den-usa-vier-veteraninnen-sagen-den-republikanern-den-kampf-an-a-513a0d7a-2b4c-4613-99c7-682e7a88172e#ref=rss)
-* [https://www.spiegel.de/kultur/syrien-kampf-um-das-kulturelle-erbe-in-den-ruinen-von-aleppo-und-palmyra](https://www.spiegel.de/kultur/syrien-kampf-um-das-kulturelle-erbe-in-den-ruinen-von-aleppo-und-palmyra-a-2b34e23b-e907-49ad-8321-7b12936bf59a#ref=rss)
-### syrien
+* [https://www.spiegel.de/karriere/rente-und-arbeit-steuervorteile-und-rentenzahlungen-fuer-aktive-senioren](https://www.spiegel.de/karriere/rente-und-arbeit-steuervorteile-und-rentenzahlungen-fuer-aktive-senioren-a-e01898c8-abdb-463a-9905-d083d1d5631f#ref=rss)
+* [https://www.spiegel.de/karriere/karriere-andere-steigen-auf-und-sie-stagnieren-coach-gibt-tipps](https://www.spiegel.de/karriere/karriere-andere-steigen-auf-und-sie-stagnieren-coach-gibt-tipps-a-8dc745d5-01ae-48a5-a18d-fb69fd3dd48a#ref=rss)
+### teile
 
-* [https://www.spiegel.de/kultur/syrien-kampf-um-das-kulturelle-erbe-in-den-ruinen-von-aleppo-und-palmyra](https://www.spiegel.de/kultur/syrien-kampf-um-das-kulturelle-erbe-in-den-ruinen-von-aleppo-und-palmyra-a-2b34e23b-e907-49ad-8321-7b12936bf59a#ref=rss)
-### erbe
+* [https://www.spiegel.de/panorama/justiz/worms-menschlicher-schaedel-in-der-naehe-eines-bolzplatzes-gefunden](https://www.spiegel.de/panorama/justiz/worms-menschlicher-schaedel-in-der-naehe-eines-bolzplatzes-gefunden-a-400e750a-e10a-406e-9dd0-c88f244e0a34#ref=rss)
+* [https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht](https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht-a-1b8bc8a6-cd17-4117-8fc5-40ac351d084d#ref=rss)
+### arbeiten
 
-* [https://www.spiegel.de/kultur/syrien-kampf-um-das-kulturelle-erbe-in-den-ruinen-von-aleppo-und-palmyra](https://www.spiegel.de/kultur/syrien-kampf-um-das-kulturelle-erbe-in-den-ruinen-von-aleppo-und-palmyra-a-2b34e23b-e907-49ad-8321-7b12936bf59a#ref=rss)
-### palmyra
+* [https://www.spiegel.de/wirtschaft/studie-abwanderung-von-pflegekraeften-erhoeht-sterblichkeit](https://www.spiegel.de/wirtschaft/studie-abwanderung-von-pflegekraeften-erhoeht-sterblichkeit-a-09a2bc1e-5b17-4967-9a10-3e501c2ba701#ref=rss)
+* [https://www.spiegel.de/karriere/rente-und-arbeit-steuervorteile-und-rentenzahlungen-fuer-aktive-senioren](https://www.spiegel.de/karriere/rente-und-arbeit-steuervorteile-und-rentenzahlungen-fuer-aktive-senioren-a-e01898c8-abdb-463a-9905-d083d1d5631f#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/kultur/syrien-kampf-um-das-kulturelle-erbe-in-den-ruinen-von-aleppo-und-palmyra](https://www.spiegel.de/kultur/syrien-kampf-um-das-kulturelle-erbe-in-den-ruinen-von-aleppo-und-palmyra-a-2b34e23b-e907-49ad-8321-7b12936bf59a#ref=rss)
-### shay
+* [https://www.spiegel.de/wirtschaft/studie-abwanderung-von-pflegekraeften-erhoeht-sterblichkeit](https://www.spiegel.de/wirtschaft/studie-abwanderung-von-pflegekraeften-erhoeht-sterblichkeit-a-09a2bc1e-5b17-4967-9a10-3e501c2ba701#ref=rss)
+* [https://www.spiegel.de/geschichte/niedergang-des-roemischen-reichs-alemannen-ante-portas](https://www.spiegel.de/geschichte/niedergang-des-roemischen-reichs-alemannen-ante-portas-a-d6456261-a54f-4e4c-b645-021ee71df7db#ref=rss)
+### saudiarabien
 
-* [https://www.spiegel.de/sport/fussball/shay-given-absoluter-holocaust-irlands-rekordtorwart-entschuldigt-sich-fuer-wortwahl](https://www.spiegel.de/sport/fussball/shay-given-absoluter-holocaust-irlands-rekordtorwart-entschuldigt-sich-fuer-wortwahl-a-ed9816f2-7823-4606-9756-9b7c1f4858f6#ref=rss)
-### given
+* [https://www.spiegel.de/wirtschaft/trump-familie-an-milliardenschwerem-hotelprojekt-in-saudi-arabien-beteiligt](https://www.spiegel.de/wirtschaft/trump-familie-an-milliardenschwerem-hotelprojekt-in-saudi-arabien-beteiligt-a-ab7b8c62-6f92-4bb7-a984-259d6b720e47#ref=rss)
+### besuch
 
-* [https://www.spiegel.de/sport/fussball/shay-given-absoluter-holocaust-irlands-rekordtorwart-entschuldigt-sich-fuer-wortwahl](https://www.spiegel.de/sport/fussball/shay-given-absoluter-holocaust-irlands-rekordtorwart-entschuldigt-sich-fuer-wortwahl-a-ed9816f2-7823-4606-9756-9b7c1f4858f6#ref=rss)
-### holocaust
+* [https://www.spiegel.de/wirtschaft/trump-familie-an-milliardenschwerem-hotelprojekt-in-saudi-arabien-beteiligt](https://www.spiegel.de/wirtschaft/trump-familie-an-milliardenschwerem-hotelprojekt-in-saudi-arabien-beteiligt-a-ab7b8c62-6f92-4bb7-a984-259d6b720e47#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette-a-041a080c-d0d8-4267-82c1-9173eb99d45c#ref=rss)
+### bevor
 
-* [https://www.spiegel.de/sport/fussball/shay-given-absoluter-holocaust-irlands-rekordtorwart-entschuldigt-sich-fuer-wortwahl](https://www.spiegel.de/sport/fussball/shay-given-absoluter-holocaust-irlands-rekordtorwart-entschuldigt-sich-fuer-wortwahl-a-ed9816f2-7823-4606-9756-9b7c1f4858f6#ref=rss)
-### entschuldigt
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
+* [https://www.spiegel.de/panorama/hamburg-kind-kommt-im-auto-zur-welt](https://www.spiegel.de/panorama/hamburg-kind-kommt-im-auto-zur-welt-a-4d3e0ab5-ceca-452b-9b6c-e2f9c888d7a5#ref=rss)
+### land
 
-* [https://www.spiegel.de/sport/fussball/shay-given-absoluter-holocaust-irlands-rekordtorwart-entschuldigt-sich-fuer-wortwahl](https://www.spiegel.de/sport/fussball/shay-given-absoluter-holocaust-irlands-rekordtorwart-entschuldigt-sich-fuer-wortwahl-a-ed9816f2-7823-4606-9756-9b7c1f4858f6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette-a-041a080c-d0d8-4267-82c1-9173eb99d45c#ref=rss)
+### narendra
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette-a-041a080c-d0d8-4267-82c1-9173eb99d45c#ref=rss)
+### modi
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-der-kanzler-sucht-neue-freunde-und-faengt-in-indien-an-a-dcc6d4e3-92b4-43b1-8e3c-6993e9811519#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette](https://www.spiegel.de/politik/deutschland/friedrich-merz-in-indien-narendra-modi-empfaengt-den-kanzler-in-gandhi-gedenkstaette-a-041a080c-d0d8-4267-82c1-9173eb99d45c#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/hamburg-kind-kommt-im-auto-zur-welt](https://www.spiegel.de/panorama/hamburg-kind-kommt-im-auto-zur-welt-a-4d3e0ab5-ceca-452b-9b6c-e2f9c888d7a5#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet](https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet-a-4296006d-e8b2-4955-b963-25a7353a72af#ref=rss)
+### philippinen
+
+* [https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht](https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht-a-1b8bc8a6-cd17-4117-8fc5-40ac351d084d#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht](https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht-a-1b8bc8a6-cd17-4117-8fc5-40ac351d084d#ref=rss)
+### steigt
+
+* [https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht](https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht-a-1b8bc8a6-cd17-4117-8fc5-40ac351d084d#ref=rss)
+### acht
+
+* [https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht](https://www.spiegel.de/panorama/philippinen-zahl-der-toten-steigt-nach-muelllawine-auf-mindestens-acht-a-1b8bc8a6-cd17-4117-8fc5-40ac351d084d#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft](https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft-a-c83cec7e-79cd-46a9-a89b-c8e6affd57f9#ref=rss)
+### aufsichtsrat
+
+* [https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft](https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft-a-c83cec7e-79cd-46a9-a89b-c8e6affd57f9#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft](https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft-a-c83cec7e-79cd-46a9-a89b-c8e6affd57f9#ref=rss)
+### sv
+
+* [https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft](https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft-a-c83cec7e-79cd-46a9-a89b-c8e6affd57f9#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft](https://www.spiegel.de/sport/fussball/ex-sportvorstand-stefan-kuntz-aufsichtsrat-des-hamburger-sv-haelt-vorwuerfe-sexueller-belaestigung-gegen-kuntz-fuer-glaubhaft-a-c83cec7e-79cd-46a9-a89b-c8e6affd57f9#ref=rss)
+### römer
+
+* [https://www.spiegel.de/geschichte/niedergang-des-roemischen-reichs-alemannen-ante-portas](https://www.spiegel.de/geschichte/niedergang-des-roemischen-reichs-alemannen-ante-portas-a-d6456261-a54f-4e4c-b645-021ee71df7db#ref=rss)
+### limes
+
+* [https://www.spiegel.de/geschichte/niedergang-des-roemischen-reichs-alemannen-ante-portas](https://www.spiegel.de/geschichte/niedergang-des-roemischen-reichs-alemannen-ante-portas-a-d6456261-a54f-4e4c-b645-021ee71df7db#ref=rss)
+### aufgaben
+
+* [https://www.spiegel.de/geschichte/niedergang-des-roemischen-reichs-alemannen-ante-portas](https://www.spiegel.de/geschichte/niedergang-des-roemischen-reichs-alemannen-ante-portas-a-d6456261-a54f-4e4c-b645-021ee71df7db#ref=rss)
+### elle
+
+* [https://www.spiegel.de/panorama/leute/elle-fanning-und-dakota-fanning-stellen-regeln-fuer-ersten-gemeinsamen-film-auf](https://www.spiegel.de/panorama/leute/elle-fanning-und-dakota-fanning-stellen-regeln-fuer-ersten-gemeinsamen-film-auf-a-66abf2b5-5497-419a-97b8-cd4039352397#ref=rss)
+### fanning
+
+* [https://www.spiegel.de/panorama/leute/elle-fanning-und-dakota-fanning-stellen-regeln-fuer-ersten-gemeinsamen-film-auf](https://www.spiegel.de/panorama/leute/elle-fanning-und-dakota-fanning-stellen-regeln-fuer-ersten-gemeinsamen-film-auf-a-66abf2b5-5497-419a-97b8-cd4039352397#ref=rss)
+### dakota
+
+* [https://www.spiegel.de/panorama/leute/elle-fanning-und-dakota-fanning-stellen-regeln-fuer-ersten-gemeinsamen-film-auf](https://www.spiegel.de/panorama/leute/elle-fanning-und-dakota-fanning-stellen-regeln-fuer-ersten-gemeinsamen-film-auf-a-66abf2b5-5497-419a-97b8-cd4039352397#ref=rss)
+### film
+
+* [https://www.spiegel.de/panorama/leute/elle-fanning-und-dakota-fanning-stellen-regeln-fuer-ersten-gemeinsamen-film-auf](https://www.spiegel.de/panorama/leute/elle-fanning-und-dakota-fanning-stellen-regeln-fuer-ersten-gemeinsamen-film-auf-a-66abf2b5-5497-419a-97b8-cd4039352397#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/psychologie/einsamkeit-die-risiken-der-bequemlichkeit-im-digitalen-zeitalter](https://www.spiegel.de/psychologie/einsamkeit-die-risiken-der-bequemlichkeit-im-digitalen-zeitalter-a-10ab418e-ba67-414f-9af3-9102baa4908e#ref=rss)
+* [https://www.spiegel.de/karriere/karriere-andere-steigen-auf-und-sie-stagnieren-coach-gibt-tipps](https://www.spiegel.de/karriere/karriere-andere-steigen-auf-und-sie-stagnieren-coach-gibt-tipps-a-8dc745d5-01ae-48a5-a18d-fb69fd3dd48a#ref=rss)
+### apple
+
+* [https://www.spiegel.de/wirtschaft/apple-hat-2025-weltweit-die-meisten-smartphones-verkauft](https://www.spiegel.de/wirtschaft/apple-hat-2025-weltweit-die-meisten-smartphones-verkauft-a-3885c7da-2f3b-4b58-9746-318508003daa#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/wirtschaft/apple-hat-2025-weltweit-die-meisten-smartphones-verkauft](https://www.spiegel.de/wirtschaft/apple-hat-2025-weltweit-die-meisten-smartphones-verkauft-a-3885c7da-2f3b-4b58-9746-318508003daa#ref=rss)
+### meisten
+
+* [https://www.spiegel.de/wirtschaft/apple-hat-2025-weltweit-die-meisten-smartphones-verkauft](https://www.spiegel.de/wirtschaft/apple-hat-2025-weltweit-die-meisten-smartphones-verkauft-a-3885c7da-2f3b-4b58-9746-318508003daa#ref=rss)
+* [https://www.spiegel.de/start/niedriger-nc-wo-der-studienstart-2026-leichter-wird](https://www.spiegel.de/start/niedriger-nc-wo-der-studienstart-2026-leichter-wird-a-f308e244-0eb6-46da-8056-c2d94a8f6d8a#ref=rss)
+### wanda
+
+* [https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin](https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin-a-2d8eb6b5-7e46-4e48-aab5-841133e56c57#ref=rss)
+### sykes
+
+* [https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin](https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin-a-2d8eb6b5-7e46-4e48-aab5-841133e56c57#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin](https://www.spiegel.de/kultur/golden-globes-2026-wanda-sykes-triumphiert-als-laudatorin-a-2d8eb6b5-7e46-4e48-aab5-841133e56c57#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet](https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet-a-4296006d-e8b2-4955-b963-25a7353a72af#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid](https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid-a-5b5a73f2-2137-4da0-a4a8-b4cf58e85666#ref=rss)
+### barcelona
+
+* [https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid](https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid-a-5b5a73f2-2137-4da0-a4a8-b4cf58e85666#ref=rss)
+### real
+
+* [https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid](https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid-a-5b5a73f2-2137-4da0-a4a8-b4cf58e85666#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid](https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid-a-5b5a73f2-2137-4da0-a4a8-b4cf58e85666#ref=rss)
+### spanischen
+
+* [https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid](https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid-a-5b5a73f2-2137-4da0-a4a8-b4cf58e85666#ref=rss)
+### supercup
+
+* [https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid](https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid-a-5b5a73f2-2137-4da0-a4a8-b4cf58e85666#ref=rss)
+### ende
+
+* [https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid](https://www.spiegel.de/sport/fussball/spanischer-supercup-fc-barcelona-besiegt-dank-raphinha-real-madrid-a-5b5a73f2-2137-4da0-a4a8-b4cf58e85666#ref=rss)
+* [https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers](https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers-a-4c89fd17-ae9e-4304-8b08-15932d6f06dd#ref=rss)
+### glätte
+
+* [https://www.spiegel.de/panorama/glaette-in-deutschland-fluege-abgesagt-bahn-drosselt-geschwindigkeit-staus-im-berufsverkehr](https://www.spiegel.de/panorama/glaette-in-deutschland-fluege-abgesagt-bahn-drosselt-geschwindigkeit-staus-im-berufsverkehr-a-f4de63dd-1af9-46f2-a2d3-b849cb04c4ac#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/panorama/glaette-in-deutschland-fluege-abgesagt-bahn-drosselt-geschwindigkeit-staus-im-berufsverkehr](https://www.spiegel.de/panorama/glaette-in-deutschland-fluege-abgesagt-bahn-drosselt-geschwindigkeit-staus-im-berufsverkehr-a-f4de63dd-1af9-46f2-a2d3-b849cb04c4ac#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/soziales/usa-staroekonom-joseph-stiglitz-venezuela-krise-draengt-epstein-affaere-in-den-hintergrund](https://www.spiegel.de/wirtschaft/soziales/usa-staroekonom-joseph-stiglitz-venezuela-krise-draengt-epstein-affaere-in-den-hintergrund-a-5939efcc-0b6c-4869-99b9-392d23bad379#ref=rss)
+* [https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht](https://www.spiegel.de/ausland/iran-donald-trump-stellt-moegliche-gespraeche-mit-iran-in-aussicht-a-75fd1bfb-ba0f-497d-a9d8-c0fccce3e81a#ref=rss)
+### joseph
+
+* [https://www.spiegel.de/wirtschaft/soziales/usa-staroekonom-joseph-stiglitz-venezuela-krise-draengt-epstein-affaere-in-den-hintergrund](https://www.spiegel.de/wirtschaft/soziales/usa-staroekonom-joseph-stiglitz-venezuela-krise-draengt-epstein-affaere-in-den-hintergrund-a-5939efcc-0b6c-4869-99b9-392d23bad379#ref=rss)
+### stiglitz
+
+* [https://www.spiegel.de/wirtschaft/soziales/usa-staroekonom-joseph-stiglitz-venezuela-krise-draengt-epstein-affaere-in-den-hintergrund](https://www.spiegel.de/wirtschaft/soziales/usa-staroekonom-joseph-stiglitz-venezuela-krise-draengt-epstein-affaere-in-den-hintergrund-a-5939efcc-0b6c-4869-99b9-392d23bad379#ref=rss)
+### philadelphia
+
+* [https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers](https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers-a-4c89fd17-ae9e-4304-8b08-15932d6f06dd#ref=rss)
+### eagles
+
+* [https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers](https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers-a-4c89fd17-ae9e-4304-8b08-15932d6f06dd#ref=rss)
+### san
+
+* [https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers](https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers-a-4c89fd17-ae9e-4304-8b08-15932d6f06dd#ref=rss)
+### 49ers
+
+* [https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers](https://www.spiegel.de/sport/american-football/american-football-titelverteidiger-philadelphia-eagles-scheitern-an-san-fancisco-49ers-a-4c89fd17-ae9e-4304-8b08-15932d6f06dd#ref=rss)
+### anna
+
+* [https://www.spiegel.de/kultur/anna-loos-will-intendantin-am-brandenburger-theater-werden](https://www.spiegel.de/kultur/anna-loos-will-intendantin-am-brandenburger-theater-werden-a-3f3e8200-4535-43ff-adaa-b923cefbcfa2#ref=rss)
+### loos
+
+* [https://www.spiegel.de/kultur/anna-loos-will-intendantin-am-brandenburger-theater-werden](https://www.spiegel.de/kultur/anna-loos-will-intendantin-am-brandenburger-theater-werden-a-3f3e8200-4535-43ff-adaa-b923cefbcfa2#ref=rss)
+### schauspielerin
+
+* [https://www.spiegel.de/kultur/anna-loos-will-intendantin-am-brandenburger-theater-werden](https://www.spiegel.de/kultur/anna-loos-will-intendantin-am-brandenburger-theater-werden-a-3f3e8200-4535-43ff-adaa-b923cefbcfa2#ref=rss)
+### mercedes
+
+* [https://www.spiegel.de/wirtschaft/mercedes-gibt-der-neuen-s-klasse-weniger-autonomie](https://www.spiegel.de/wirtschaft/mercedes-gibt-der-neuen-s-klasse-weniger-autonomie-a-402ddb66-3ab7-43c7-89a4-298ab010452e#ref=rss)
+### mathe
+
+* [https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet](https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet-a-4296006d-e8b2-4955-b963-25a7353a72af#ref=rss)
+### dividieren
+
+* [https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet](https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet-a-4296006d-e8b2-4955-b963-25a7353a72af#ref=rss)
+### grundschulen
+
+* [https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet](https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet-a-4296006d-e8b2-4955-b963-25a7353a72af#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet](https://www.spiegel.de/panorama/bildung/mathe-warum-niedersachsen-auf-das-schriftliche-dividieren-an-grundschulen-verzichtet-a-4296006d-e8b2-4955-b963-25a7353a72af#ref=rss)
+* [https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen](https://www.spiegel.de/ausland/iran-setzt-donald-trump-das-militaer-ein-um-der-protest-bewegung-zu-helfen-a-0307bd0b-f7a6-4e36-a77a-91d6e1b89d65#ref=rss)
+### toppreise
+
+* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
+### one
+
+* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
+### battle
+
+* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
+### after
+
+* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
+### another
+
+* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
+### hamnet
+
+* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie](https://www.spiegel.de/kultur/golden-globes-2026-hamnet-als-bestes-filmdrama-ausgezeichnet-one-battle-after-another-als-beste-komoedie-a-9ca6a8c1-0ab6-435d-a49c-cae4fff58942#ref=rss)
+### internationale
+
+* [https://www.spiegel.de/politik/deutschland/news-iran-internationale-justiz-johann-wadephul-und-lars-klingbeil-in-washington](https://www.spiegel.de/politik/deutschland/news-iran-internationale-justiz-johann-wadephul-und-lars-klingbeil-in-washington-a-7ff5da28-bfee-457d-ac8e-b0d4b5493f52#ref=rss)
+### washington
+
+* [https://www.spiegel.de/politik/deutschland/news-iran-internationale-justiz-johann-wadephul-und-lars-klingbeil-in-washington](https://www.spiegel.de/politik/deutschland/news-iran-internationale-justiz-johann-wadephul-und-lars-klingbeil-in-washington-a-7ff5da28-bfee-457d-ac8e-b0d4b5493f52#ref=rss)
+### rente
+
+* [https://www.spiegel.de/karriere/rente-und-arbeit-steuervorteile-und-rentenzahlungen-fuer-aktive-senioren](https://www.spiegel.de/karriere/rente-und-arbeit-steuervorteile-und-rentenzahlungen-fuer-aktive-senioren-a-e01898c8-abdb-463a-9905-d083d1d5631f#ref=rss)
+* [https://www.spiegel.de/karriere/aktivrente-wie-sie-die-aktivrente-optimal-nutzen-und-schon-vor-dem-ruhestand-tausende-euro-dazuverdienen-koennen](https://www.spiegel.de/karriere/aktivrente-wie-sie-die-aktivrente-optimal-nutzen-und-schon-vor-dem-ruhestand-tausende-euro-dazuverdienen-koennen-a-f11a544a-c71a-4516-b137-6e774c41e1d4#ref=rss)
+### bekommen
+
+* [https://www.spiegel.de/karriere/rente-und-arbeit-steuervorteile-und-rentenzahlungen-fuer-aktive-senioren](https://www.spiegel.de/karriere/rente-und-arbeit-steuervorteile-und-rentenzahlungen-fuer-aktive-senioren-a-e01898c8-abdb-463a-9905-d083d1d5631f#ref=rss)
+* [https://www.spiegel.de/karriere/aktivrente-wie-sie-die-aktivrente-optimal-nutzen-und-schon-vor-dem-ruhestand-tausende-euro-dazuverdienen-koennen](https://www.spiegel.de/karriere/aktivrente-wie-sie-die-aktivrente-optimal-nutzen-und-schon-vor-dem-ruhestand-tausende-euro-dazuverdienen-koennen-a-f11a544a-c71a-4516-b137-6e774c41e1d4#ref=rss)
+### aktivrente
+
+* [https://www.spiegel.de/karriere/aktivrente-wie-sie-die-aktivrente-optimal-nutzen-und-schon-vor-dem-ruhestand-tausende-euro-dazuverdienen-koennen](https://www.spiegel.de/karriere/aktivrente-wie-sie-die-aktivrente-optimal-nutzen-und-schon-vor-dem-ruhestand-tausende-euro-dazuverdienen-koennen-a-f11a544a-c71a-4516-b137-6e774c41e1d4#ref=rss)
+### karriere
+
+* [https://www.spiegel.de/karriere/karriere-andere-steigen-auf-und-sie-stagnieren-coach-gibt-tipps](https://www.spiegel.de/karriere/karriere-andere-steigen-auf-und-sie-stagnieren-coach-gibt-tipps-a-8dc745d5-01ae-48a5-a18d-fb69fd3dd48a#ref=rss)
+### andere
+
+* [https://www.spiegel.de/karriere/karriere-andere-steigen-auf-und-sie-stagnieren-coach-gibt-tipps](https://www.spiegel.de/karriere/karriere-andere-steigen-auf-und-sie-stagnieren-coach-gibt-tipps-a-8dc745d5-01ae-48a5-a18d-fb69fd3dd48a#ref=rss)
+### ecuador
+
+* [https://www.spiegel.de/panorama/ecuador-polizei-findet-menschliche-koepfe-an-strand-von-puerto-lopez](https://www.spiegel.de/panorama/ecuador-polizei-findet-menschliche-koepfe-an-strand-von-puerto-lopez-a-3575e242-ffc6-4f7d-a771-845cc54da09b#ref=rss)
+### menschliche
+
+* [https://www.spiegel.de/panorama/ecuador-polizei-findet-menschliche-koepfe-an-strand-von-puerto-lopez](https://www.spiegel.de/panorama/ecuador-polizei-findet-menschliche-koepfe-an-strand-von-puerto-lopez-a-3575e242-ffc6-4f7d-a771-845cc54da09b#ref=rss)
+### köpfe
+
+* [https://www.spiegel.de/panorama/ecuador-polizei-findet-menschliche-koepfe-an-strand-von-puerto-lopez](https://www.spiegel.de/panorama/ecuador-polizei-findet-menschliche-koepfe-an-strand-von-puerto-lopez-a-3575e242-ffc6-4f7d-a771-845cc54da09b#ref=rss)
 
