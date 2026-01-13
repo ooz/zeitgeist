@@ -4,387 +4,317 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### schnee
-
-* [https://www.spiegel.de/panorama/bildung/schulen-wer-entscheidet-ueber-schliessungen-bei-schnee-und-eis](https://www.spiegel.de/panorama/bildung/schulen-wer-entscheidet-ueber-schliessungen-bei-schnee-und-eis-a-92559181-1f7e-40c2-9f14-f5664d2fc410#ref=rss)
-* [https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen](https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen-a-47deca9a-36f1-492d-9ecf-daf5113b55f1#ref=rss)
-* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-glatteis-durch-tief-gunda-fuehren-zu-flugausfaellen](https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-glatteis-durch-tief-gunda-fuehren-zu-flugausfaellen-a-cc4ee177-5642-487e-bba2-72cd2c1367a0#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn](https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn-a-a3040d30-c23b-4f08-b3a3-1f4b8a26e98e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
-* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen](https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen-a-c5cffcae-8052-4217-8382-d82305ea5333#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
-* [https://www.spiegel.de/sport/american-football/chicago-bears-nfl-playoffs-warum-die-menschen-ueberall-in-illinois-kaese-reiben](https://www.spiegel.de/sport/american-football/chicago-bears-nfl-playoffs-warum-die-menschen-ueberall-in-illinois-kaese-reiben-a-f8e231ca-bb1b-407a-ad5a-a99bf3f1dc26#ref=rss)
-* [https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re](https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re-a-72570360-9a3e-44e1-bd35-8fc40ee10267#ref=rss)
-* [https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt](https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt-a-2ac2abe3-dbd1-4e7a-b1c6-d165f095edee#ref=rss)
-* [https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an](https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an-a-9c5bf0b5-33d4-410d-a50e-6620a4cf3d82#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/nato-sucht-ausweg-aus-streit-um-groenland-arctic-sentry-als-loesung](https://www.spiegel.de/ausland/nato-sucht-ausweg-aus-streit-um-groenland-arctic-sentry-als-loesung-a-229d162e-d013-400c-87a8-3eaa981956d1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-absatz-in-china-und-den-usa-bricht-ein](https://www.spiegel.de/wirtschaft/vw-absatz-in-china-und-den-usa-bricht-ein-a-cb76e37e-bd42-4056-865f-6d585abd17cc#ref=rss)
-### grönland
-
-* [https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen](https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen-a-5e219748-4d8b-43af-978c-5145a909b3fd#ref=rss)
-* [https://www.spiegel.de/ausland/nato-sucht-ausweg-aus-streit-um-groenland-arctic-sentry-als-loesung](https://www.spiegel.de/ausland/nato-sucht-ausweg-aus-streit-um-groenland-arctic-sentry-als-loesung-a-229d162e-d013-400c-87a8-3eaa981956d1#ref=rss)
-### merz
-
-* [https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen](https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen-a-5e219748-4d8b-43af-978c-5145a909b3fd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen](https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen-a-1e49f24a-23ea-414b-a1f7-f4d3f3e0f659#ref=rss)
-* [https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an](https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an-a-9c5bf0b5-33d4-410d-a50e-6620a4cf3d82#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
-* [https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden](https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden-a-116a03d2-2d2c-4eb9-9698-c0b51f412c22#ref=rss)
-* [https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an](https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an-a-9c5bf0b5-33d4-410d-a50e-6620a4cf3d82#ref=rss)
-### internet
-
-* [https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen](https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen-a-47deca9a-36f1-492d-9ecf-daf5113b55f1#ref=rss)
-* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso-a-195f45bf-d9a1-4442-84bf-c35afb47cb14#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-gibt-freilassung-von-116-politischen-gefangenen-bekannt](https://www.spiegel.de/ausland/venezuela-gibt-freilassung-von-116-politischen-gefangenen-bekannt-a-d4971ed2-f158-4d23-8c10-f8b91a1fa21e#ref=rss)
-* [https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re](https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re-a-72570360-9a3e-44e1-bd35-8fc40ee10267#ref=rss)
-### ziobro
-
-* [https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn](https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn-a-a3040d30-c23b-4f08-b3a3-1f4b8a26e98e#ref=rss)
-### regime
-
-* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
-* [https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden](https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden-a-116a03d2-2d2c-4eb9-9698-c0b51f412c22#ref=rss)
-* [https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an](https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an-a-9c5bf0b5-33d4-410d-a50e-6620a4cf3d82#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
-* [https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an](https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an-a-9c5bf0b5-33d4-410d-a50e-6620a4cf3d82#ref=rss)
-* [https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie](https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie-a-9134f56e-7730-4ee5-8b42-e986ae1a57c4#ref=rss)
-### straße
-
-* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-lkw-kommt-von-der-strasse-ab-und-bleibt-ueber-abhang-stecken](https://www.spiegel.de/panorama/bayern-lkw-kommt-von-der-strasse-ab-und-bleibt-ueber-abhang-stecken-a-31be2ef4-641b-4482-bee4-b9457a0f95e9#ref=rss)
-* [https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an](https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an-a-9c5bf0b5-33d4-410d-a50e-6620a4cf3d82#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/sport/american-football/chicago-bears-nfl-playoffs-warum-die-menschen-ueberall-in-illinois-kaese-reiben](https://www.spiegel.de/sport/american-football/chicago-bears-nfl-playoffs-warum-die-menschen-ueberall-in-illinois-kaese-reiben-a-f8e231ca-bb1b-407a-ad5a-a99bf3f1dc26#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen](https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen-a-c5cffcae-8052-4217-8382-d82305ea5333#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/usa-ex-kongressmitarbeiter-wegen-diebstahls-von-240-regierungshandys-angeklagt](https://www.spiegel.de/panorama/justiz/usa-ex-kongressmitarbeiter-wegen-diebstahls-von-240-regierungshandys-angeklagt-a-edc1f358-a6b1-4d53-8152-000912b5dc21#ref=rss)
+* [https://www.spiegel.de/wirtschaft/los-angeles-waldbraende-waren-teuerste-naturkatastrophe-im-jahr-2025](https://www.spiegel.de/wirtschaft/los-angeles-waldbraende-waren-teuerste-naturkatastrophe-im-jahr-2025-a-2ebc7f11-87b9-4ec1-a04b-ebc4b09be8cd#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pentagon-soll-mutmassliches-drogenboot-mit-getarntem-flugzeug-attackiert-haben](https://www.spiegel.de/ausland/usa-pentagon-soll-mutmassliches-drogenboot-mit-getarntem-flugzeug-attackiert-haben-a-c5740475-adc7-43cf-9cae-f6766d786fe0#ref=rss)
+* [https://www.spiegel.de/ausland/usa-ice-meldet-vier-tote-migranten-in-haft-binnen-weniger-tage](https://www.spiegel.de/ausland/usa-ice-meldet-vier-tote-migranten-in-haft-binnen-weniger-tage-a-7aba42e0-9460-412e-9c02-6d437b65648c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-erkundigt-sich-in-washington-nach-plaenen-von-donald-trump-fuer-groenland](https://www.spiegel.de/politik/deutschland/johann-wadephul-erkundigt-sich-in-washington-nach-plaenen-von-donald-trump-fuer-groenland-a-00e7d9c5-28d2-42d0-89fb-34761f023cda#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-glatteis-durch-tief-gunda-fuehren-zu-flugausfaellen](https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-glatteis-durch-tief-gunda-fuehren-zu-flugausfaellen-a-cc4ee177-5642-487e-bba2-72cd2c1367a0#ref=rss)
-* [https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen](https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen-a-ee6248ab-e595-440e-9fda-78fafeec49dd#ref=rss)
-### schulen
+* [https://www.spiegel.de/gesundheit/diagnose/medizin-und-transplantationen-zahl-der-organspenden-steigt-auf-hoechsten-stand-seit-2012](https://www.spiegel.de/gesundheit/diagnose/medizin-und-transplantationen-zahl-der-organspenden-steigt-auf-hoechsten-stand-seit-2012-a-899f9b13-5282-47a9-b40b-0fb094eba50c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/hbo-max-startet-in-deutschland-der-neue-im-streaming-haifischbecken](https://www.spiegel.de/kultur/tv/hbo-max-startet-in-deutschland-der-neue-im-streaming-haifischbecken-a-90152009-e785-4512-845b-ddb655cfc48b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/dieter-bohlen-und-carina-walz-sind-nun-auch-standesamtlich-verheiratet](https://www.spiegel.de/panorama/leute/dieter-bohlen-und-carina-walz-sind-nun-auch-standesamtlich-verheiratet-a-35369925-ebec-4409-860a-60c72fbe3560#ref=rss)
+### iran
 
-* [https://www.spiegel.de/panorama/bildung/schulen-wer-entscheidet-ueber-schliessungen-bei-schnee-und-eis](https://www.spiegel.de/panorama/bildung/schulen-wer-entscheidet-ueber-schliessungen-bei-schnee-und-eis-a-92559181-1f7e-40c2-9f14-f5664d2fc410#ref=rss)
-### eis
+* [https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich](https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich-a-96ac6c5e-19c7-44df-a825-6c0a1576799b#ref=rss)
+* [https://www.spiegel.de/ausland/iran-das-regime-hat-kaum-noch-optionen](https://www.spiegel.de/ausland/iran-das-regime-hat-kaum-noch-optionen-a-c0f610ed-cbdf-4390-a30f-cbc664161eb8#ref=rss)
+* [https://www.spiegel.de/politik/iran-friedrich-merz-rechnet-mit-baldigem-ende-der-iranischen-staatsfuehrung](https://www.spiegel.de/politik/iran-friedrich-merz-rechnet-mit-baldigem-ende-der-iranischen-staatsfuehrung-a-119b3054-68e3-487c-8c8a-2d7273d73db0#ref=rss)
+### vier
 
-* [https://www.spiegel.de/panorama/bildung/schulen-wer-entscheidet-ueber-schliessungen-bei-schnee-und-eis](https://www.spiegel.de/panorama/bildung/schulen-wer-entscheidet-ueber-schliessungen-bei-schnee-und-eis-a-92559181-1f7e-40c2-9f14-f5664d2fc410#ref=rss)
-### überhaupt
+* [https://www.spiegel.de/backstage/neue-spiele-fuer-sie-solitaer-kreuzwortraetsel-sudoku-und-mini-sudoku](https://www.spiegel.de/backstage/neue-spiele-fuer-sie-solitaer-kreuzwortraetsel-sudoku-und-mini-sudoku-a-411dd283-b443-4b98-a636-0a2e896cbc3a#ref=rss)
+* [https://www.spiegel.de/ausland/usa-ice-meldet-vier-tote-migranten-in-haft-binnen-weniger-tage](https://www.spiegel.de/ausland/usa-ice-meldet-vier-tote-migranten-in-haft-binnen-weniger-tage-a-7aba42e0-9460-412e-9c02-6d437b65648c#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/bildung/schulen-wer-entscheidet-ueber-schliessungen-bei-schnee-und-eis](https://www.spiegel.de/panorama/bildung/schulen-wer-entscheidet-ueber-schliessungen-bei-schnee-und-eis-a-92559181-1f7e-40c2-9f14-f5664d2fc410#ref=rss)
-* [https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt](https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt-a-2ac2abe3-dbd1-4e7a-b1c6-d165f095edee#ref=rss)
-### friedrich
+* [https://www.spiegel.de/gesundheit/diagnose/medizin-und-transplantationen-zahl-der-organspenden-steigt-auf-hoechsten-stand-seit-2012](https://www.spiegel.de/gesundheit/diagnose/medizin-und-transplantationen-zahl-der-organspenden-steigt-auf-hoechsten-stand-seit-2012-a-899f9b13-5282-47a9-b40b-0fb094eba50c#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-eis-droht-auf-a7-in-hamburg-zu-fallen-elbtunnel-gen-norden-gesperrt](https://www.spiegel.de/panorama/wetter-eis-droht-auf-a7-in-hamburg-zu-fallen-elbtunnel-gen-norden-gesperrt-a-fd928654-6c25-4ba4-8153-47ace484e8e9#ref=rss)
+* [https://www.spiegel.de/ausland/usa-ice-meldet-vier-tote-migranten-in-haft-binnen-weniger-tage](https://www.spiegel.de/ausland/usa-ice-meldet-vier-tote-migranten-in-haft-binnen-weniger-tage-a-7aba42e0-9460-412e-9c02-6d437b65648c#ref=rss)
+### regime
 
-* [https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen](https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen-a-5e219748-4d8b-43af-978c-5145a909b3fd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
-### trumps
+* [https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich](https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich-a-96ac6c5e-19c7-44df-a825-6c0a1576799b#ref=rss)
+* [https://www.spiegel.de/ausland/iran-das-regime-hat-kaum-noch-optionen](https://www.spiegel.de/ausland/iran-das-regime-hat-kaum-noch-optionen-a-c0f610ed-cbdf-4390-a30f-cbc664161eb8#ref=rss)
+* [https://www.spiegel.de/politik/iran-friedrich-merz-rechnet-mit-baldigem-ende-der-iranischen-staatsfuehrung](https://www.spiegel.de/politik/iran-friedrich-merz-rechnet-mit-baldigem-ende-der-iranischen-staatsfuehrung-a-119b3054-68e3-487c-8c8a-2d7273d73db0#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen](https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen-a-5e219748-4d8b-43af-978c-5145a909b3fd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/los-angeles-waldbraende-waren-teuerste-naturkatastrophe-im-jahr-2025](https://www.spiegel.de/wirtschaft/los-angeles-waldbraende-waren-teuerste-naturkatastrophe-im-jahr-2025-a-2ebc7f11-87b9-4ec1-a04b-ebc4b09be8cd#ref=rss)
+* [https://www.spiegel.de/ausland/usa-ice-meldet-vier-tote-migranten-in-haft-binnen-weniger-tage](https://www.spiegel.de/ausland/usa-ice-meldet-vier-tote-migranten-in-haft-binnen-weniger-tage-a-7aba42e0-9460-412e-9c02-6d437b65648c#ref=rss)
+### bohlen
+
+* [https://www.spiegel.de/panorama/leute/dieter-bohlen-und-carina-walz-sind-nun-auch-standesamtlich-verheiratet](https://www.spiegel.de/panorama/leute/dieter-bohlen-und-carina-walz-sind-nun-auch-standesamtlich-verheiratet-a-35369925-ebec-4409-860a-60c72fbe3560#ref=rss)
+### paris
+
+* [https://www.spiegel.de/sport/fussball/pokal-aus-fuer-psg-paris-fc-sorgt-fuer-ueberraschung-im-derby](https://www.spiegel.de/sport/fussball/pokal-aus-fuer-psg-paris-fc-sorgt-fuer-ueberraschung-im-derby-a-3ea5fd30-4c52-4c77-8d70-032afc50cd9b#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen](https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen-a-5e219748-4d8b-43af-978c-5145a909b3fd#ref=rss)
-* [https://www.spiegel.de/ausland/nato-sucht-ausweg-aus-streit-um-groenland-arctic-sentry-als-loesung](https://www.spiegel.de/ausland/nato-sucht-ausweg-aus-streit-um-groenland-arctic-sentry-als-loesung-a-229d162e-d013-400c-87a8-3eaa981956d1#ref=rss)
-### übernahme
+* [https://www.spiegel.de/ausland/usa-trump-sondermittler-jack-smith-bekommt-oeffentliche-anhoerung](https://www.spiegel.de/ausland/usa-trump-sondermittler-jack-smith-bekommt-oeffentliche-anhoerung-a-c1318c8a-9c8c-4ab3-a17c-0ae76a4a93a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-erkundigt-sich-in-washington-nach-plaenen-von-donald-trump-fuer-groenland](https://www.spiegel.de/politik/deutschland/johann-wadephul-erkundigt-sich-in-washington-nach-plaenen-von-donald-trump-fuer-groenland-a-00e7d9c5-28d2-42d0-89fb-34761f023cda#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen](https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen-a-5e219748-4d8b-43af-978c-5145a909b3fd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/paramount-klagt-gegen-warner-konzern](https://www.spiegel.de/wirtschaft/unternehmen/paramount-klagt-gegen-warner-konzern-a-2e7b7adf-de28-46be-9c98-043b627c55ba#ref=rss)
-### unter
+* [https://www.spiegel.de/ausland/usa-trump-sondermittler-jack-smith-bekommt-oeffentliche-anhoerung](https://www.spiegel.de/ausland/usa-trump-sondermittler-jack-smith-bekommt-oeffentliche-anhoerung-a-c1318c8a-9c8c-4ab3-a17c-0ae76a4a93a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-erkundigt-sich-in-washington-nach-plaenen-von-donald-trump-fuer-groenland](https://www.spiegel.de/politik/deutschland/johann-wadephul-erkundigt-sich-in-washington-nach-plaenen-von-donald-trump-fuer-groenland-a-00e7d9c5-28d2-42d0-89fb-34761f023cda#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen](https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen-a-5e219748-4d8b-43af-978c-5145a909b3fd#ref=rss)
-* [https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn](https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn-a-a3040d30-c23b-4f08-b3a3-1f4b8a26e98e#ref=rss)
-### insel
+* [https://www.spiegel.de/backstage/neue-spiele-fuer-sie-solitaer-kreuzwortraetsel-sudoku-und-mini-sudoku](https://www.spiegel.de/backstage/neue-spiele-fuer-sie-solitaer-kreuzwortraetsel-sudoku-und-mini-sudoku-a-411dd283-b443-4b98-a636-0a2e896cbc3a#ref=rss)
+* [https://www.spiegel.de/kultur/tv/hbo-max-startet-in-deutschland-der-neue-im-streaming-haifischbecken](https://www.spiegel.de/kultur/tv/hbo-max-startet-in-deutschland-der-neue-im-streaming-haifischbecken-a-90152009-e785-4512-845b-ddb655cfc48b#ref=rss)
+### solitär
 
-* [https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen](https://www.spiegel.de/ausland/groenland-friedrich-merz-aeussert-sich-zu-trumps-annektionsplaenen-a-5e219748-4d8b-43af-978c-5145a909b3fd#ref=rss)
-* [https://www.spiegel.de/ausland/nato-sucht-ausweg-aus-streit-um-groenland-arctic-sentry-als-loesung](https://www.spiegel.de/ausland/nato-sucht-ausweg-aus-streit-um-groenland-arctic-sentry-als-loesung-a-229d162e-d013-400c-87a8-3eaa981956d1#ref=rss)
-### superschweres
+* [https://www.spiegel.de/backstage/neue-spiele-fuer-sie-solitaer-kreuzwortraetsel-sudoku-und-mini-sudoku](https://www.spiegel.de/backstage/neue-spiele-fuer-sie-solitaer-kreuzwortraetsel-sudoku-und-mini-sudoku-a-411dd283-b443-4b98-a636-0a2e896cbc3a#ref=rss)
+### kreuzworträtsel
 
-* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen](https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen-a-1e49f24a-23ea-414b-a1f7-f4d3f3e0f659#ref=rss)
-### schwarzes
+* [https://www.spiegel.de/backstage/neue-spiele-fuer-sie-solitaer-kreuzwortraetsel-sudoku-und-mini-sudoku](https://www.spiegel.de/backstage/neue-spiele-fuer-sie-solitaer-kreuzwortraetsel-sudoku-und-mini-sudoku-a-411dd283-b443-4b98-a636-0a2e896cbc3a#ref=rss)
+### sudoku
 
-* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen](https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen-a-1e49f24a-23ea-414b-a1f7-f4d3f3e0f659#ref=rss)
-### loch
+* [https://www.spiegel.de/backstage/neue-spiele-fuer-sie-solitaer-kreuzwortraetsel-sudoku-und-mini-sudoku](https://www.spiegel.de/backstage/neue-spiele-fuer-sie-solitaer-kreuzwortraetsel-sudoku-und-mini-sudoku-a-411dd283-b443-4b98-a636-0a2e896cbc3a#ref=rss)
+### minisudoku
 
-* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen](https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen-a-1e49f24a-23ea-414b-a1f7-f4d3f3e0f659#ref=rss)
-### zentrum
+* [https://www.spiegel.de/backstage/neue-spiele-fuer-sie-solitaer-kreuzwortraetsel-sudoku-und-mini-sudoku](https://www.spiegel.de/backstage/neue-spiele-fuer-sie-solitaer-kreuzwortraetsel-sudoku-und-mini-sudoku-a-411dd283-b443-4b98-a636-0a2e896cbc3a#ref=rss)
+### gut
 
-* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen](https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen-a-1e49f24a-23ea-414b-a1f7-f4d3f3e0f659#ref=rss)
-### fördert
+* [https://www.spiegel.de/panorama/justiz/usa-ex-kongressmitarbeiter-wegen-diebstahls-von-240-regierungshandys-angeklagt](https://www.spiegel.de/panorama/justiz/usa-ex-kongressmitarbeiter-wegen-diebstahls-von-240-regierungshandys-angeklagt-a-edc1f358-a6b1-4d53-8152-000912b5dc21#ref=rss)
+* [https://www.spiegel.de/sport/fussball/real-madrid-so-wurde-xabi-alonso-zu-einem-beliebigen-trainer-in-der-krise](https://www.spiegel.de/sport/fussball/real-madrid-so-wurde-xabi-alonso-zu-einem-beliebigen-trainer-in-der-krise-a-186ff0a8-4aeb-4dbb-b172-3d2ba0b0d08e#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen](https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen-a-1e49f24a-23ea-414b-a1f7-f4d3f3e0f659#ref=rss)
-### sonnen
+* [https://www.spiegel.de/gesundheit/diagnose/medizin-und-transplantationen-zahl-der-organspenden-steigt-auf-hoechsten-stand-seit-2012](https://www.spiegel.de/gesundheit/diagnose/medizin-und-transplantationen-zahl-der-organspenden-steigt-auf-hoechsten-stand-seit-2012-a-899f9b13-5282-47a9-b40b-0fb094eba50c#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-houston-texans-demuetigen-steelers-aaron-rodgers-vor-karriereende](https://www.spiegel.de/sport/american-football/nfl-houston-texans-demuetigen-steelers-aaron-rodgers-vor-karriereende-a-4a98e5b9-ca33-43d4-964d-585789c61821#ref=rss)
+### pompeji
 
-* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen](https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen-a-1e49f24a-23ea-414b-a1f7-f4d3f3e0f659#ref=rss)
-### zeigen
+* [https://www.spiegel.de/wissenschaft/mensch/wellness-in-pompeji-pompejis-badegaeste-tauchten-ins-schmuddelwasser](https://www.spiegel.de/wissenschaft/mensch/wellness-in-pompeji-pompejis-badegaeste-tauchten-ins-schmuddelwasser-a-8ac66b70-1ee1-4e10-8244-58bcff92ec03#ref=rss)
+### selten
 
-* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen](https://www.spiegel.de/wissenschaft/weltall/kosmologie-superschweres-schwarzes-loch-im-zentrum-der-milchstrasse-foerdert-neue-sonnen-a-1e49f24a-23ea-414b-a1f7-f4d3f3e0f659#ref=rss)
-* [https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an](https://www.spiegel.de/ausland/iran-hunderte-tote-bei-demonstrationen-proteste-halten-an-a-9c5bf0b5-33d4-410d-a50e-6620a4cf3d82#ref=rss)
-### winter
+* [https://www.spiegel.de/wissenschaft/mensch/wellness-in-pompeji-pompejis-badegaeste-tauchten-ins-schmuddelwasser](https://www.spiegel.de/wissenschaft/mensch/wellness-in-pompeji-pompejis-badegaeste-tauchten-ins-schmuddelwasser-a-8ac66b70-1ee1-4e10-8244-58bcff92ec03#ref=rss)
+* [https://www.spiegel.de/sport/fussball/real-madrid-so-wurde-xabi-alonso-zu-einem-beliebigen-trainer-in-der-krise](https://www.spiegel.de/sport/fussball/real-madrid-so-wurde-xabi-alonso-zu-einem-beliebigen-trainer-in-der-krise-a-186ff0a8-4aeb-4dbb-b172-3d2ba0b0d08e#ref=rss)
+### internationale
 
-* [https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen](https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen-a-47deca9a-36f1-492d-9ecf-daf5113b55f1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/frost-und-futtermangel-so-helfen-sie-voegeln-im-garten-und-auf-dem-balkon](https://www.spiegel.de/wissenschaft/natur/frost-und-futtermangel-so-helfen-sie-voegeln-im-garten-und-auf-dem-balkon-a-cbed6ba9-f864-44fc-b9ac-3e863b7f91d0#ref=rss)
-### finden
+* [https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich](https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich-a-96ac6c5e-19c7-44df-a825-6c0a1576799b#ref=rss)
+### anrufe
 
-* [https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen](https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen-a-47deca9a-36f1-492d-9ecf-daf5113b55f1#ref=rss)
-* [https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt](https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt-a-2ac2abe3-dbd1-4e7a-b1c6-d165f095edee#ref=rss)
-### finger
+* [https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich](https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich-a-96ac6c5e-19c7-44df-a825-6c0a1576799b#ref=rss)
+### teheran
 
-* [https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen](https://www.spiegel.de/panorama/eisbecher-und-maple-taffy-sollte-man-schnee-essen-a-47deca9a-36f1-492d-9ecf-daf5113b55f1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
-### paramount
+* [https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich](https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich-a-96ac6c5e-19c7-44df-a825-6c0a1576799b#ref=rss)
+* [https://www.spiegel.de/politik/iran-friedrich-merz-rechnet-mit-baldigem-ende-der-iranischen-staatsfuehrung](https://www.spiegel.de/politik/iran-friedrich-merz-rechnet-mit-baldigem-ende-der-iranischen-staatsfuehrung-a-119b3054-68e3-487c-8c8a-2d7273d73db0#ref=rss)
+### versucht
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/paramount-klagt-gegen-warner-konzern](https://www.spiegel.de/wirtschaft/unternehmen/paramount-klagt-gegen-warner-konzern-a-2e7b7adf-de28-46be-9c98-043b627c55ba#ref=rss)
-### kampf
+* [https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich](https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich-a-96ac6c5e-19c7-44df-a825-6c0a1576799b#ref=rss)
+* [https://www.spiegel.de/politik/iran-friedrich-merz-rechnet-mit-baldigem-ende-der-iranischen-staatsfuehrung](https://www.spiegel.de/politik/iran-friedrich-merz-rechnet-mit-baldigem-ende-der-iranischen-staatsfuehrung-a-119b3054-68e3-487c-8c8a-2d7273d73db0#ref=rss)
+### niederzuschlagen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/paramount-klagt-gegen-warner-konzern](https://www.spiegel.de/wirtschaft/unternehmen/paramount-klagt-gegen-warner-konzern-a-2e7b7adf-de28-46be-9c98-043b627c55ba#ref=rss)
-* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
-### real
+* [https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich](https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich-a-96ac6c5e-19c7-44df-a825-6c0a1576799b#ref=rss)
+* [https://www.spiegel.de/politik/iran-friedrich-merz-rechnet-mit-baldigem-ende-der-iranischen-staatsfuehrung](https://www.spiegel.de/politik/iran-friedrich-merz-rechnet-mit-baldigem-ende-der-iranischen-staatsfuehrung-a-119b3054-68e3-487c-8c8a-2d7273d73db0#ref=rss)
+### bleibt
 
-* [https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso-a-195f45bf-d9a1-4442-84bf-c35afb47cb14#ref=rss)
-### madrid
+* [https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich](https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich-a-96ac6c5e-19c7-44df-a825-6c0a1576799b#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/noriaki-kasai-skispringer-aus-japan-kehrt-in-sapporo-in-den-weltcup-zurueck](https://www.spiegel.de/sport/wintersport/noriaki-kasai-skispringer-aus-japan-kehrt-in-sapporo-in-den-weltcup-zurueck-a-5385af12-3ef1-4909-a0c0-be2559a0f350#ref=rss)
+### gesperrt
 
-* [https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso-a-195f45bf-d9a1-4442-84bf-c35afb47cb14#ref=rss)
-### trennt
+* [https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich](https://www.spiegel.de/ausland/iran-internationale-anrufe-nach-tagelangen-kommunikationsblockade-wieder-moeglich-a-96ac6c5e-19c7-44df-a825-6c0a1576799b#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-eis-droht-auf-a7-in-hamburg-zu-fallen-elbtunnel-gen-norden-gesperrt](https://www.spiegel.de/panorama/wetter-eis-droht-auf-a7-in-hamburg-zu-fallen-elbtunnel-gen-norden-gesperrt-a-fd928654-6c25-4ba4-8153-47ace484e8e9#ref=rss)
+### noriaki
 
-* [https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso-a-195f45bf-d9a1-4442-84bf-c35afb47cb14#ref=rss)
-* [https://www.spiegel.de/netzwelt/hoss-hopf-kontroverses-podcast-duo-trennt-sich-im-offenen-zoff](https://www.spiegel.de/netzwelt/hoss-hopf-kontroverses-podcast-duo-trennt-sich-im-offenen-zoff-a-76ddf950-60c3-4f24-80f9-181ff69cccb6#ref=rss)
-### trainer
+* [https://www.spiegel.de/sport/wintersport/noriaki-kasai-skispringer-aus-japan-kehrt-in-sapporo-in-den-weltcup-zurueck](https://www.spiegel.de/sport/wintersport/noriaki-kasai-skispringer-aus-japan-kehrt-in-sapporo-in-den-weltcup-zurueck-a-5385af12-3ef1-4909-a0c0-be2559a0f350#ref=rss)
+### kasai
 
-* [https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso-a-195f45bf-d9a1-4442-84bf-c35afb47cb14#ref=rss)
-### xabi
+* [https://www.spiegel.de/sport/wintersport/noriaki-kasai-skispringer-aus-japan-kehrt-in-sapporo-in-den-weltcup-zurueck](https://www.spiegel.de/sport/wintersport/noriaki-kasai-skispringer-aus-japan-kehrt-in-sapporo-in-den-weltcup-zurueck-a-5385af12-3ef1-4909-a0c0-be2559a0f350#ref=rss)
+### sapporo
 
-* [https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso-a-195f45bf-d9a1-4442-84bf-c35afb47cb14#ref=rss)
-### alonso
+* [https://www.spiegel.de/sport/wintersport/noriaki-kasai-skispringer-aus-japan-kehrt-in-sapporo-in-den-weltcup-zurueck](https://www.spiegel.de/sport/wintersport/noriaki-kasai-skispringer-aus-japan-kehrt-in-sapporo-in-den-weltcup-zurueck-a-5385af12-3ef1-4909-a0c0-be2559a0f350#ref=rss)
+### george
 
-* [https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso-a-195f45bf-d9a1-4442-84bf-c35afb47cb14#ref=rss)
-### entlassen
+* [https://www.spiegel.de/kultur/kino/george-clooney-verteidigt-kollegen-gegen-tarantino-haeme](https://www.spiegel.de/kultur/kino/george-clooney-verteidigt-kollegen-gegen-tarantino-haeme-a-160cd895-1a14-4224-8357-00ac19e423b9#ref=rss)
+### clooney
 
-* [https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso](https://www.spiegel.de/sport/fussball/real-madrid-trennt-sich-von-trainer-xabi-alonso-a-195f45bf-d9a1-4442-84bf-c35afb47cb14#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-gibt-freilassung-von-116-politischen-gefangenen-bekannt](https://www.spiegel.de/ausland/venezuela-gibt-freilassung-von-116-politischen-gefangenen-bekannt-a-d4971ed2-f158-4d23-8c10-f8b91a1fa21e#ref=rss)
-### zbigniew
+* [https://www.spiegel.de/kultur/kino/george-clooney-verteidigt-kollegen-gegen-tarantino-haeme](https://www.spiegel.de/kultur/kino/george-clooney-verteidigt-kollegen-gegen-tarantino-haeme-a-160cd895-1a14-4224-8357-00ac19e423b9#ref=rss)
+### kollegen
 
-* [https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn](https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn-a-a3040d30-c23b-4f08-b3a3-1f4b8a26e98e#ref=rss)
-### minister
+* [https://www.spiegel.de/kultur/kino/george-clooney-verteidigt-kollegen-gegen-tarantino-haeme](https://www.spiegel.de/kultur/kino/george-clooney-verteidigt-kollegen-gegen-tarantino-haeme-a-160cd895-1a14-4224-8357-00ac19e423b9#ref=rss)
+### ich
 
-* [https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn](https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn-a-a3040d30-c23b-4f08-b3a3-1f4b8a26e98e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
-### asyl
+* [https://www.spiegel.de/kultur/kino/george-clooney-verteidigt-kollegen-gegen-tarantino-haeme](https://www.spiegel.de/kultur/kino/george-clooney-verteidigt-kollegen-gegen-tarantino-haeme-a-160cd895-1a14-4224-8357-00ac19e423b9#ref=rss)
+* [https://www.spiegel.de/kultur/kino/leonardo-dicaprio-gewinnt-keinen-golden-globe-aber-die-herzen-der-fans](https://www.spiegel.de/kultur/kino/leonardo-dicaprio-gewinnt-keinen-golden-globe-aber-die-herzen-der-fans-a-ed437961-521a-48f7-b725-f73839cea7ff#ref=rss)
+### leonardo
 
-* [https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn](https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn-a-a3040d30-c23b-4f08-b3a3-1f4b8a26e98e#ref=rss)
-### droht
+* [https://www.spiegel.de/kultur/kino/leonardo-dicaprio-gewinnt-keinen-golden-globe-aber-die-herzen-der-fans](https://www.spiegel.de/kultur/kino/leonardo-dicaprio-gewinnt-keinen-golden-globe-aber-die-herzen-der-fans-a-ed437961-521a-48f7-b725-f73839cea7ff#ref=rss)
+### dicaprio
 
-* [https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn](https://www.spiegel.de/ausland/zbigniew-ziobro-wegen-korruptionsverdachte-gesuchter-polnischer-minister-erhaelt-asyl-in-ungarn-a-a3040d30-c23b-4f08-b3a3-1f4b8a26e98e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
-### macht
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-macht-googles-gemini-zu-siri-ki](https://www.spiegel.de/netzwelt/gadgets/apple-macht-googles-gemini-zu-siri-ki-a-96df0086-40c0-4262-aec3-6d1d53f90314#ref=rss)
-* [https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden](https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden-a-116a03d2-2d2c-4eb9-9698-c0b51f412c22#ref=rss)
-### googles
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-macht-googles-gemini-zu-siri-ki](https://www.spiegel.de/netzwelt/gadgets/apple-macht-googles-gemini-zu-siri-ki-a-96df0086-40c0-4262-aec3-6d1d53f90314#ref=rss)
-### news
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-macht-googles-gemini-zu-siri-ki](https://www.spiegel.de/netzwelt/gadgets/apple-macht-googles-gemini-zu-siri-ki-a-96df0086-40c0-4262-aec3-6d1d53f90314#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
-### iranische
-
-* [https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet](https://www.spiegel.de/ausland/iran-internetsperre-dann-eben-aufstand-ohne-internet-a-8bdb8ed3-95df-4eae-8864-0466c98fc1df#ref=rss)
-* [https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden](https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden-a-116a03d2-2d2c-4eb9-9698-c0b51f412c22#ref=rss)
-### fed
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
-### indien
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
-### abwanderung
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
-### pflegekräften
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften](https://www.spiegel.de/politik/deutschland/news-des-tages-us-notenbank-fed-friedrich-merz-in-indien-abwanderung-von-pflegekraeften-a-dc7b4711-86d1-40a9-a5d7-82bbdc8c6e69#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-lkw-kommt-von-der-strasse-ab-und-bleibt-ueber-abhang-stecken](https://www.spiegel.de/panorama/bayern-lkw-kommt-von-der-strasse-ab-und-bleibt-ueber-abhang-stecken-a-31be2ef4-641b-4482-bee4-b9457a0f95e9#ref=rss)
-### matthias
-
-* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
-### schweighöfer
-
-* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
-### ruby
-
-* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
-### o
-
-* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
-### fee
-
-* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie](https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie-a-9134f56e-7730-4ee5-8b42-e986ae1a57c4#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet](https://www.spiegel.de/panorama/leute/matthias-schweighoefer-ruby-o-fee-heimlich-geheiratet-und-dann-doch-gepostet-a-429d9e76-2bbc-4d95-b1c1-fcb0a67419c5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dritte-verkaufsphase-der-fifa-endet-nur-wenige-60-euro-tickets](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dritte-verkaufsphase-der-fifa-endet-nur-wenige-60-euro-tickets-a-0967c117-c630-41d5-bcf5-e2f29060fe26#ref=rss)
-### euparlament
-
-* [https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden](https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden-a-116a03d2-2d2c-4eb9-9698-c0b51f412c22#ref=rss)
-### diplomaten
-
-* [https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden](https://www.spiegel.de/ausland/proteste-in-iran-eu-parlament-verbannt-diplomaten-aus-seinen-gebaeuden-a-116a03d2-2d2c-4eb9-9698-c0b51f412c22#ref=rss)
-### stecken
-
-* [https://www.spiegel.de/panorama/bayern-lkw-kommt-von-der-strasse-ab-und-bleibt-ueber-abhang-stecken](https://www.spiegel.de/panorama/bayern-lkw-kommt-von-der-strasse-ab-und-bleibt-ueber-abhang-stecken-a-31be2ef4-641b-4482-bee4-b9457a0f95e9#ref=rss)
-### melanie
-
-* [https://www.spiegel.de/panorama/justiz/hitler-gruss-prozess-melanie-mueller-auch-in-zweiter-instanz-verurteilt](https://www.spiegel.de/panorama/justiz/hitler-gruss-prozess-melanie-mueller-auch-in-zweiter-instanz-verurteilt-a-2dee08be-e224-43f8-ae46-fc06eaa1dcda#ref=rss)
-### müller
-
-* [https://www.spiegel.de/panorama/justiz/hitler-gruss-prozess-melanie-mueller-auch-in-zweiter-instanz-verurteilt](https://www.spiegel.de/panorama/justiz/hitler-gruss-prozess-melanie-mueller-auch-in-zweiter-instanz-verurteilt-a-2dee08be-e224-43f8-ae46-fc06eaa1dcda#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/panorama/justiz/hitler-gruss-prozess-melanie-mueller-auch-in-zweiter-instanz-verurteilt](https://www.spiegel.de/panorama/justiz/hitler-gruss-prozess-melanie-mueller-auch-in-zweiter-instanz-verurteilt-a-2dee08be-e224-43f8-ae46-fc06eaa1dcda#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-absatz-in-china-und-den-usa-bricht-ein](https://www.spiegel.de/wirtschaft/vw-absatz-in-china-und-den-usa-bricht-ein-a-cb76e37e-bd42-4056-865f-6d585abd17cc#ref=rss)
-### illinois
-
-* [https://www.spiegel.de/sport/american-football/chicago-bears-nfl-playoffs-warum-die-menschen-ueberall-in-illinois-kaese-reiben](https://www.spiegel.de/sport/american-football/chicago-bears-nfl-playoffs-warum-die-menschen-ueberall-in-illinois-kaese-reiben-a-f8e231ca-bb1b-407a-ad5a-a99bf3f1dc26#ref=rss)
-### käse
-
-* [https://www.spiegel.de/sport/american-football/chicago-bears-nfl-playoffs-warum-die-menschen-ueberall-in-illinois-kaese-reiben](https://www.spiegel.de/sport/american-football/chicago-bears-nfl-playoffs-warum-die-menschen-ueberall-in-illinois-kaese-reiben-a-f8e231ca-bb1b-407a-ad5a-a99bf3f1dc26#ref=rss)
-### hoss
-
-* [https://www.spiegel.de/netzwelt/hoss-hopf-kontroverses-podcast-duo-trennt-sich-im-offenen-zoff](https://www.spiegel.de/netzwelt/hoss-hopf-kontroverses-podcast-duo-trennt-sich-im-offenen-zoff-a-76ddf950-60c3-4f24-80f9-181ff69cccb6#ref=rss)
-### hopf
-
-* [https://www.spiegel.de/netzwelt/hoss-hopf-kontroverses-podcast-duo-trennt-sich-im-offenen-zoff](https://www.spiegel.de/netzwelt/hoss-hopf-kontroverses-podcast-duo-trennt-sich-im-offenen-zoff-a-76ddf950-60c3-4f24-80f9-181ff69cccb6#ref=rss)
-### endet
-
-* [https://www.spiegel.de/netzwelt/hoss-hopf-kontroverses-podcast-duo-trennt-sich-im-offenen-zoff](https://www.spiegel.de/netzwelt/hoss-hopf-kontroverses-podcast-duo-trennt-sich-im-offenen-zoff-a-76ddf950-60c3-4f24-80f9-181ff69cccb6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dritte-verkaufsphase-der-fifa-endet-nur-wenige-60-euro-tickets](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dritte-verkaufsphase-der-fifa-endet-nur-wenige-60-euro-tickets-a-0967c117-c630-41d5-bcf5-e2f29060fe26#ref=rss)
-### venezuela
-
-* [https://www.spiegel.de/ausland/venezuela-gibt-freilassung-von-116-politischen-gefangenen-bekannt](https://www.spiegel.de/ausland/venezuela-gibt-freilassung-von-116-politischen-gefangenen-bekannt-a-d4971ed2-f158-4d23-8c10-f8b91a1fa21e#ref=rss)
-### caracas
-
-* [https://www.spiegel.de/ausland/venezuela-gibt-freilassung-von-116-politischen-gefangenen-bekannt](https://www.spiegel.de/ausland/venezuela-gibt-freilassung-von-116-politischen-gefangenen-bekannt-a-d4971ed2-f158-4d23-8c10-f8b91a1fa21e#ref=rss)
-### monteviasco
-
-* [https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re](https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re-a-72570360-9a3e-44e1-bd35-8fc40ee10267#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re](https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re-a-72570360-9a3e-44e1-bd35-8fc40ee10267#ref=rss)
-### tv
-
-* [https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re](https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re-a-72570360-9a3e-44e1-bd35-8fc40ee10267#ref=rss)
-### arte
-
-* [https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re](https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re-a-72570360-9a3e-44e1-bd35-8fc40ee10267#ref=rss)
-### betrieb
-
-* [https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re](https://www.spiegel.de/ausland/italiens-vergessenes-bergdorf-monteviasco-keine-geschaefte-keine-schule-und-von-der-aussenwelt-nahezu-abgeschnitten-spiegel-tv-fuer-arte-re-a-72570360-9a3e-44e1-bd35-8fc40ee10267#ref=rss)
-* [https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt](https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt-a-2ac2abe3-dbd1-4e7a-b1c6-d165f095edee#ref=rss)
-### schimpansin
-
-* [https://www.spiegel.de/wissenschaft/natur/als-genie-bekannte-schimpansin-ai-mit-49-jahren-in-japan-gestorben](https://www.spiegel.de/wissenschaft/natur/als-genie-bekannte-schimpansin-ai-mit-49-jahren-in-japan-gestorben-a-1cd1f4ce-ff17-4758-96fc-7ffe957f2765#ref=rss)
-### ai
-
-* [https://www.spiegel.de/wissenschaft/natur/als-genie-bekannte-schimpansin-ai-mit-49-jahren-in-japan-gestorben](https://www.spiegel.de/wissenschaft/natur/als-genie-bekannte-schimpansin-ai-mit-49-jahren-in-japan-gestorben-a-1cd1f4ce-ff17-4758-96fc-7ffe957f2765#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/wissenschaft/natur/als-genie-bekannte-schimpansin-ai-mit-49-jahren-in-japan-gestorben](https://www.spiegel.de/wissenschaft/natur/als-genie-bekannte-schimpansin-ai-mit-49-jahren-in-japan-gestorben-a-1cd1f4ce-ff17-4758-96fc-7ffe957f2765#ref=rss)
-### besser
-
-* [https://www.spiegel.de/wissenschaft/natur/als-genie-bekannte-schimpansin-ai-mit-49-jahren-in-japan-gestorben](https://www.spiegel.de/wissenschaft/natur/als-genie-bekannte-schimpansin-ai-mit-49-jahren-in-japan-gestorben-a-1cd1f4ce-ff17-4758-96fc-7ffe957f2765#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-absatz-in-china-und-den-usa-bricht-ein](https://www.spiegel.de/wirtschaft/vw-absatz-in-china-und-den-usa-bricht-ein-a-cb76e37e-bd42-4056-865f-6d585abd17cc#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-glatteis-durch-tief-gunda-fuehren-zu-flugausfaellen](https://www.spiegel.de/panorama/winterwetter-in-deutschland-schnee-und-glatteis-durch-tief-gunda-fuehren-zu-flugausfaellen-a-cc4ee177-5642-487e-bba2-72cd2c1367a0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen](https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen-a-c5cffcae-8052-4217-8382-d82305ea5333#ref=rss)
-### johann
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
-### wadephul
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
-### lars
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
-### reisen
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
-### jets
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets](https://www.spiegel.de/politik/deutschland/johann-wadephul-und-lars-klingbeil-reisen-in-die-usa-ministerien-rechtfertigen-einsatz-zweier-jets-a-0f749de5-a1b0-40a7-a4d1-ce204f5b87cd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-dritte-verkaufsphase-der-fifa-endet-nur-wenige-60-euro-tickets](https://www.spiegel.de/sport/fussball/fussball-wm-2026-dritte-verkaufsphase-der-fifa-endet-nur-wenige-60-euro-tickets-a-0967c117-c630-41d5-bcf5-e2f29060fe26#ref=rss)
-### hendrik
-
-* [https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen](https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen-a-ee6248ab-e595-440e-9fda-78fafeec49dd#ref=rss)
-### wüst
-
-* [https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen](https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen-a-ee6248ab-e595-440e-9fda-78fafeec49dd#ref=rss)
-### missbrauchsdarstellungen
-
-* [https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen](https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen-a-ee6248ab-e595-440e-9fda-78fafeec49dd#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen](https://www.spiegel.de/panorama/hendrik-wuest-will-schaerfere-gesetze-gegen-missbrauchsdarstellungen-a-ee6248ab-e595-440e-9fda-78fafeec49dd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen](https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen-a-c5cffcae-8052-4217-8382-d82305ea5333#ref=rss)
-### cransmontana
-
-* [https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt](https://www.spiegel.de/panorama/crans-montana-und-die-trauer-warum-sollten-wir-schliessen-die-menschen-haben-ihre-skipaesse-bezahlt-a-2ac2abe3-dbd1-4e7a-b1c6-d165f095edee#ref=rss)
+* [https://www.spiegel.de/kultur/kino/leonardo-dicaprio-gewinnt-keinen-golden-globe-aber-die-herzen-der-fans](https://www.spiegel.de/kultur/kino/leonardo-dicaprio-gewinnt-keinen-golden-globe-aber-die-herzen-der-fans-a-ed437961-521a-48f7-b725-f73839cea7ff#ref=rss)
 ### golden
 
-* [https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie](https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie-a-9134f56e-7730-4ee5-8b42-e986ae1a57c4#ref=rss)
-### globes
+* [https://www.spiegel.de/kultur/kino/leonardo-dicaprio-gewinnt-keinen-golden-globe-aber-die-herzen-der-fans](https://www.spiegel.de/kultur/kino/leonardo-dicaprio-gewinnt-keinen-golden-globe-aber-die-herzen-der-fans-a-ed437961-521a-48f7-b725-f73839cea7ff#ref=rss)
+### lage
 
-* [https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie](https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie-a-9134f56e-7730-4ee5-8b42-e986ae1a57c4#ref=rss)
-### hudson
+* [https://www.spiegel.de/ausland/iran-das-regime-hat-kaum-noch-optionen](https://www.spiegel.de/ausland/iran-das-regime-hat-kaum-noch-optionen-a-c0f610ed-cbdf-4390-a30f-cbc664161eb8#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-eis-droht-auf-a7-in-hamburg-zu-fallen-elbtunnel-gen-norden-gesperrt](https://www.spiegel.de/panorama/wetter-eis-droht-auf-a7-in-hamburg-zu-fallen-elbtunnel-gen-norden-gesperrt-a-fd928654-6c25-4ba4-8153-47ace484e8e9#ref=rss)
+### letzten
 
-* [https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie](https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie-a-9134f56e-7730-4ee5-8b42-e986ae1a57c4#ref=rss)
-### williams
+* [https://www.spiegel.de/ausland/iran-das-regime-hat-kaum-noch-optionen](https://www.spiegel.de/ausland/iran-das-regime-hat-kaum-noch-optionen-a-c0f610ed-cbdf-4390-a30f-cbc664161eb8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/pokal-aus-fuer-psg-paris-fc-sorgt-fuer-ueberraschung-im-derby](https://www.spiegel.de/sport/fussball/pokal-aus-fuer-psg-paris-fc-sorgt-fuer-ueberraschung-im-derby-a-3ea5fd30-4c52-4c77-8d70-032afc50cd9b#ref=rss)
+### eis
 
-* [https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie](https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie-a-9134f56e-7730-4ee5-8b42-e986ae1a57c4#ref=rss)
-### connor
+* [https://www.spiegel.de/panorama/wetter-eis-droht-auf-a7-in-hamburg-zu-fallen-elbtunnel-gen-norden-gesperrt](https://www.spiegel.de/panorama/wetter-eis-droht-auf-a7-in-hamburg-zu-fallen-elbtunnel-gen-norden-gesperrt-a-fd928654-6c25-4ba4-8153-47ace484e8e9#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie](https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie-a-9134f56e-7730-4ee5-8b42-e986ae1a57c4#ref=rss)
-### storrie
+* [https://www.spiegel.de/panorama/wetter-eis-droht-auf-a7-in-hamburg-zu-fallen-elbtunnel-gen-norden-gesperrt](https://www.spiegel.de/panorama/wetter-eis-droht-auf-a7-in-hamburg-zu-fallen-elbtunnel-gen-norden-gesperrt-a-fd928654-6c25-4ba4-8153-47ace484e8e9#ref=rss)
+### elbtunnel
 
-* [https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie](https://www.spiegel.de/kultur/tv/golden-globes-heated-rivalry-hudson-williams-und-connor-storrie-alle-sprechen-ueber-sie-a-9134f56e-7730-4ee5-8b42-e986ae1a57c4#ref=rss)
-### china
+* [https://www.spiegel.de/panorama/wetter-eis-droht-auf-a7-in-hamburg-zu-fallen-elbtunnel-gen-norden-gesperrt](https://www.spiegel.de/panorama/wetter-eis-droht-auf-a7-in-hamburg-zu-fallen-elbtunnel-gen-norden-gesperrt-a-fd928654-6c25-4ba4-8153-47ace484e8e9#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/wirtschaft/vw-absatz-in-china-und-den-usa-bricht-ein](https://www.spiegel.de/wirtschaft/vw-absatz-in-china-und-den-usa-bricht-ein-a-cb76e37e-bd42-4056-865f-6d585abd17cc#ref=rss)
-### menden
+* [https://www.spiegel.de/wirtschaft/los-angeles-waldbraende-waren-teuerste-naturkatastrophe-im-jahr-2025](https://www.spiegel.de/wirtschaft/los-angeles-waldbraende-waren-teuerste-naturkatastrophe-im-jahr-2025-a-2ebc7f11-87b9-4ec1-a04b-ebc4b09be8cd#ref=rss)
+### real
 
-* [https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen](https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen-a-c5cffcae-8052-4217-8382-d82305ea5333#ref=rss)
-### verwahrlosten
+* [https://www.spiegel.de/sport/fussball/real-madrid-so-wurde-xabi-alonso-zu-einem-beliebigen-trainer-in-der-krise](https://www.spiegel.de/sport/fussball/real-madrid-so-wurde-xabi-alonso-zu-einem-beliebigen-trainer-in-der-krise-a-186ff0a8-4aeb-4dbb-b172-3d2ba0b0d08e#ref=rss)
+### madrid
 
-* [https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen](https://www.spiegel.de/panorama/justiz/menden-ermittler-wollen-umfeld-der-offenbar-verwahrlosten-kinder-befragen-a-c5cffcae-8052-4217-8382-d82305ea5333#ref=rss)
+* [https://www.spiegel.de/sport/fussball/real-madrid-so-wurde-xabi-alonso-zu-einem-beliebigen-trainer-in-der-krise](https://www.spiegel.de/sport/fussball/real-madrid-so-wurde-xabi-alonso-zu-einem-beliebigen-trainer-in-der-krise-a-186ff0a8-4aeb-4dbb-b172-3d2ba0b0d08e#ref=rss)
+### xabi
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-so-wurde-xabi-alonso-zu-einem-beliebigen-trainer-in-der-krise](https://www.spiegel.de/sport/fussball/real-madrid-so-wurde-xabi-alonso-zu-einem-beliebigen-trainer-in-der-krise-a-186ff0a8-4aeb-4dbb-b172-3d2ba0b0d08e#ref=rss)
+### alonso
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-so-wurde-xabi-alonso-zu-einem-beliebigen-trainer-in-der-krise](https://www.spiegel.de/sport/fussball/real-madrid-so-wurde-xabi-alonso-zu-einem-beliebigen-trainer-in-der-krise-a-186ff0a8-4aeb-4dbb-b172-3d2ba0b0d08e#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-so-wurde-xabi-alonso-zu-einem-beliebigen-trainer-in-der-krise](https://www.spiegel.de/sport/fussball/real-madrid-so-wurde-xabi-alonso-zu-einem-beliebigen-trainer-in-der-krise-a-186ff0a8-4aeb-4dbb-b172-3d2ba0b0d08e#ref=rss)
+### endet
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-so-wurde-xabi-alonso-zu-einem-beliebigen-trainer-in-der-krise](https://www.spiegel.de/sport/fussball/real-madrid-so-wurde-xabi-alonso-zu-einem-beliebigen-trainer-in-der-krise-a-186ff0a8-4aeb-4dbb-b172-3d2ba0b0d08e#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-houston-texans-demuetigen-steelers-aaron-rodgers-vor-karriereende](https://www.spiegel.de/sport/american-football/nfl-houston-texans-demuetigen-steelers-aaron-rodgers-vor-karriereende-a-4a98e5b9-ca33-43d4-964d-585789c61821#ref=rss)
+### hbo
+
+* [https://www.spiegel.de/kultur/tv/hbo-max-startet-in-deutschland-der-neue-im-streaming-haifischbecken](https://www.spiegel.de/kultur/tv/hbo-max-startet-in-deutschland-der-neue-im-streaming-haifischbecken-a-90152009-e785-4512-845b-ddb655cfc48b#ref=rss)
+### max
+
+* [https://www.spiegel.de/kultur/tv/hbo-max-startet-in-deutschland-der-neue-im-streaming-haifischbecken](https://www.spiegel.de/kultur/tv/hbo-max-startet-in-deutschland-der-neue-im-streaming-haifischbecken-a-90152009-e785-4512-845b-ddb655cfc48b#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/ausland/frankreich-alain-minc-ueber-die-aussichten-der-rechten-und-den-narzissmus-von-emmanuel-macron](https://www.spiegel.de/ausland/frankreich-alain-minc-ueber-die-aussichten-der-rechten-und-den-narzissmus-von-emmanuel-macron-a-d95b2b1f-9fb3-43e9-873b-f5b8b8cff001#ref=rss)
+### alain
+
+* [https://www.spiegel.de/ausland/frankreich-alain-minc-ueber-die-aussichten-der-rechten-und-den-narzissmus-von-emmanuel-macron](https://www.spiegel.de/ausland/frankreich-alain-minc-ueber-die-aussichten-der-rechten-und-den-narzissmus-von-emmanuel-macron-a-d95b2b1f-9fb3-43e9-873b-f5b8b8cff001#ref=rss)
+### minc
+
+* [https://www.spiegel.de/ausland/frankreich-alain-minc-ueber-die-aussichten-der-rechten-und-den-narzissmus-von-emmanuel-macron](https://www.spiegel.de/ausland/frankreich-alain-minc-ueber-die-aussichten-der-rechten-und-den-narzissmus-von-emmanuel-macron-a-d95b2b1f-9fb3-43e9-873b-f5b8b8cff001#ref=rss)
+### aussichten
+
+* [https://www.spiegel.de/ausland/frankreich-alain-minc-ueber-die-aussichten-der-rechten-und-den-narzissmus-von-emmanuel-macron](https://www.spiegel.de/ausland/frankreich-alain-minc-ueber-die-aussichten-der-rechten-und-den-narzissmus-von-emmanuel-macron-a-d95b2b1f-9fb3-43e9-873b-f5b8b8cff001#ref=rss)
+### rechten
+
+* [https://www.spiegel.de/ausland/frankreich-alain-minc-ueber-die-aussichten-der-rechten-und-den-narzissmus-von-emmanuel-macron](https://www.spiegel.de/ausland/frankreich-alain-minc-ueber-die-aussichten-der-rechten-und-den-narzissmus-von-emmanuel-macron-a-d95b2b1f-9fb3-43e9-873b-f5b8b8cff001#ref=rss)
+### narzissmus
+
+* [https://www.spiegel.de/ausland/frankreich-alain-minc-ueber-die-aussichten-der-rechten-und-den-narzissmus-von-emmanuel-macron](https://www.spiegel.de/ausland/frankreich-alain-minc-ueber-die-aussichten-der-rechten-und-den-narzissmus-von-emmanuel-macron-a-d95b2b1f-9fb3-43e9-873b-f5b8b8cff001#ref=rss)
+### macron
+
+* [https://www.spiegel.de/ausland/frankreich-alain-minc-ueber-die-aussichten-der-rechten-und-den-narzissmus-von-emmanuel-macron](https://www.spiegel.de/ausland/frankreich-alain-minc-ueber-die-aussichten-der-rechten-und-den-narzissmus-von-emmanuel-macron-a-d95b2b1f-9fb3-43e9-873b-f5b8b8cff001#ref=rss)
+### prozess
+
+* [https://www.spiegel.de/ausland/frankreich-alain-minc-ueber-die-aussichten-der-rechten-und-den-narzissmus-von-emmanuel-macron](https://www.spiegel.de/ausland/frankreich-alain-minc-ueber-die-aussichten-der-rechten-und-den-narzissmus-von-emmanuel-macron-a-d95b2b1f-9fb3-43e9-873b-f5b8b8cff001#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/mannheim-lebensmittelproduzent-wacker-stellt-im-prozess-gegen-ritter-sport-auf-klageriegel-um](https://www.spiegel.de/wirtschaft/unternehmen/mannheim-lebensmittelproduzent-wacker-stellt-im-prozess-gegen-ritter-sport-auf-klageriegel-um-a-fa73df72-9a8a-490d-8f1a-86708f872f88#ref=rss)
+### dieter
+
+* [https://www.spiegel.de/panorama/leute/dieter-bohlen-und-carina-walz-sind-nun-auch-standesamtlich-verheiratet](https://www.spiegel.de/panorama/leute/dieter-bohlen-und-carina-walz-sind-nun-auch-standesamtlich-verheiratet-a-35369925-ebec-4409-860a-60c72fbe3560#ref=rss)
+### carina
+
+* [https://www.spiegel.de/panorama/leute/dieter-bohlen-und-carina-walz-sind-nun-auch-standesamtlich-verheiratet](https://www.spiegel.de/panorama/leute/dieter-bohlen-und-carina-walz-sind-nun-auch-standesamtlich-verheiratet-a-35369925-ebec-4409-860a-60c72fbe3560#ref=rss)
+### walz
+
+* [https://www.spiegel.de/panorama/leute/dieter-bohlen-und-carina-walz-sind-nun-auch-standesamtlich-verheiratet](https://www.spiegel.de/panorama/leute/dieter-bohlen-und-carina-walz-sind-nun-auch-standesamtlich-verheiratet-a-35369925-ebec-4409-860a-60c72fbe3560#ref=rss)
+### 20
+
+* [https://www.spiegel.de/panorama/leute/dieter-bohlen-und-carina-walz-sind-nun-auch-standesamtlich-verheiratet](https://www.spiegel.de/panorama/leute/dieter-bohlen-und-carina-walz-sind-nun-auch-standesamtlich-verheiratet-a-35369925-ebec-4409-860a-60c72fbe3560#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-houston-texans-demuetigen-steelers-aaron-rodgers-vor-karriereende](https://www.spiegel.de/sport/american-football/nfl-houston-texans-demuetigen-steelers-aaron-rodgers-vor-karriereende-a-4a98e5b9-ca33-43d4-964d-585789c61821#ref=rss)
+### mannheim
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mannheim-lebensmittelproduzent-wacker-stellt-im-prozess-gegen-ritter-sport-auf-klageriegel-um](https://www.spiegel.de/wirtschaft/unternehmen/mannheim-lebensmittelproduzent-wacker-stellt-im-prozess-gegen-ritter-sport-auf-klageriegel-um-a-fa73df72-9a8a-490d-8f1a-86708f872f88#ref=rss)
+### wacker
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mannheim-lebensmittelproduzent-wacker-stellt-im-prozess-gegen-ritter-sport-auf-klageriegel-um](https://www.spiegel.de/wirtschaft/unternehmen/mannheim-lebensmittelproduzent-wacker-stellt-im-prozess-gegen-ritter-sport-auf-klageriegel-um-a-fa73df72-9a8a-490d-8f1a-86708f872f88#ref=rss)
+### ritter
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mannheim-lebensmittelproduzent-wacker-stellt-im-prozess-gegen-ritter-sport-auf-klageriegel-um](https://www.spiegel.de/wirtschaft/unternehmen/mannheim-lebensmittelproduzent-wacker-stellt-im-prozess-gegen-ritter-sport-auf-klageriegel-um-a-fa73df72-9a8a-490d-8f1a-86708f872f88#ref=rss)
+### sport
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mannheim-lebensmittelproduzent-wacker-stellt-im-prozess-gegen-ritter-sport-auf-klageriegel-um](https://www.spiegel.de/wirtschaft/unternehmen/mannheim-lebensmittelproduzent-wacker-stellt-im-prozess-gegen-ritter-sport-auf-klageriegel-um-a-fa73df72-9a8a-490d-8f1a-86708f872f88#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/pokal-aus-fuer-psg-paris-fc-sorgt-fuer-ueberraschung-im-derby](https://www.spiegel.de/sport/fussball/pokal-aus-fuer-psg-paris-fc-sorgt-fuer-ueberraschung-im-derby-a-3ea5fd30-4c52-4c77-8d70-032afc50cd9b#ref=rss)
+### unwort
+
+* [https://www.spiegel.de/kultur/tv/das-unwort-des-jahres-lautet-sondervermoegen](https://www.spiegel.de/kultur/tv/das-unwort-des-jahres-lautet-sondervermoegen-a-865e1db2-968d-4a67-a356-6cdd3181cae2#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/kultur/tv/das-unwort-des-jahres-lautet-sondervermoegen](https://www.spiegel.de/kultur/tv/das-unwort-des-jahres-lautet-sondervermoegen-a-865e1db2-968d-4a67-a356-6cdd3181cae2#ref=rss)
+### sondervermögen
+
+* [https://www.spiegel.de/kultur/tv/das-unwort-des-jahres-lautet-sondervermoegen](https://www.spiegel.de/kultur/tv/das-unwort-des-jahres-lautet-sondervermoegen-a-865e1db2-968d-4a67-a356-6cdd3181cae2#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/iran-friedrich-merz-rechnet-mit-baldigem-ende-der-iranischen-staatsfuehrung](https://www.spiegel.de/politik/iran-friedrich-merz-rechnet-mit-baldigem-ende-der-iranischen-staatsfuehrung-a-119b3054-68e3-487c-8c8a-2d7273d73db0#ref=rss)
+### ende
+
+* [https://www.spiegel.de/politik/iran-friedrich-merz-rechnet-mit-baldigem-ende-der-iranischen-staatsfuehrung](https://www.spiegel.de/politik/iran-friedrich-merz-rechnet-mit-baldigem-ende-der-iranischen-staatsfuehrung-a-119b3054-68e3-487c-8c8a-2d7273d73db0#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitszeit-ist-dieses-urteil-das-ende-von-topgehaeltern-in-grosskanzleien](https://www.spiegel.de/karriere/arbeitszeit-ist-dieses-urteil-das-ende-von-topgehaeltern-in-grosskanzleien-a-74922a52-b102-4406-93bf-da328269e205#ref=rss)
+### halten
+
+* [https://www.spiegel.de/politik/iran-friedrich-merz-rechnet-mit-baldigem-ende-der-iranischen-staatsfuehrung](https://www.spiegel.de/politik/iran-friedrich-merz-rechnet-mit-baldigem-ende-der-iranischen-staatsfuehrung-a-119b3054-68e3-487c-8c8a-2d7273d73db0#ref=rss)
+* [https://www.spiegel.de/karriere/arbeitszeit-ist-dieses-urteil-das-ende-von-topgehaeltern-in-grosskanzleien](https://www.spiegel.de/karriere/arbeitszeit-ist-dieses-urteil-das-ende-von-topgehaeltern-in-grosskanzleien-a-74922a52-b102-4406-93bf-da328269e205#ref=rss)
+### jack
+
+* [https://www.spiegel.de/ausland/usa-trump-sondermittler-jack-smith-bekommt-oeffentliche-anhoerung](https://www.spiegel.de/ausland/usa-trump-sondermittler-jack-smith-bekommt-oeffentliche-anhoerung-a-c1318c8a-9c8c-4ab3-a17c-0ae76a4a93a9#ref=rss)
+### smith
+
+* [https://www.spiegel.de/ausland/usa-trump-sondermittler-jack-smith-bekommt-oeffentliche-anhoerung](https://www.spiegel.de/ausland/usa-trump-sondermittler-jack-smith-bekommt-oeffentliche-anhoerung-a-c1318c8a-9c8c-4ab3-a17c-0ae76a4a93a9#ref=rss)
+### staatsanwältin
+
+* [https://www.spiegel.de/wirtschaft/notenbank-in-den-usa-staatsanwaeltin-redet-ermittlungen-gegen-fed-chef-jerome-powell-klein](https://www.spiegel.de/wirtschaft/notenbank-in-den-usa-staatsanwaeltin-redet-ermittlungen-gegen-fed-chef-jerome-powell-klein-a-e534594e-cf9f-496a-a48c-0d6604abafa4#ref=rss)
+### reform
+
+* [https://www.spiegel.de/wirtschaft/spd-will-groessere-erbschaften-staerker-besteuern-kritik-aus-union-und-von-lobbyverbaenden](https://www.spiegel.de/wirtschaft/spd-will-groessere-erbschaften-staerker-besteuern-kritik-aus-union-und-von-lobbyverbaenden-a-31707971-09e0-49f0-be95-e1c3d7f09d38#ref=rss)
+### spd
+
+* [https://www.spiegel.de/wirtschaft/spd-will-groessere-erbschaften-staerker-besteuern-kritik-aus-union-und-von-lobbyverbaenden](https://www.spiegel.de/wirtschaft/spd-will-groessere-erbschaften-staerker-besteuern-kritik-aus-union-und-von-lobbyverbaenden-a-31707971-09e0-49f0-be95-e1c3d7f09d38#ref=rss)
+### 70
+
+* [https://www.spiegel.de/panorama/leute/berghain-saengerin-inga-humpe-wird-bald-70-und-geht-weiterhin-tanzen](https://www.spiegel.de/panorama/leute/berghain-saengerin-inga-humpe-wird-bald-70-und-geht-weiterhin-tanzen-a-74ee1561-6390-4c99-8085-7d32c0a883cf#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/leute/berghain-saengerin-inga-humpe-wird-bald-70-und-geht-weiterhin-tanzen](https://www.spiegel.de/panorama/leute/berghain-saengerin-inga-humpe-wird-bald-70-und-geht-weiterhin-tanzen-a-74ee1561-6390-4c99-8085-7d32c0a883cf#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-houston-texans-demuetigen-steelers-aaron-rodgers-vor-karriereende](https://www.spiegel.de/sport/american-football/nfl-houston-texans-demuetigen-steelers-aaron-rodgers-vor-karriereende-a-4a98e5b9-ca33-43d4-964d-585789c61821#ref=rss)
+### nfl
+
+* [https://www.spiegel.de/sport/american-football/nfl-houston-texans-demuetigen-steelers-aaron-rodgers-vor-karriereende](https://www.spiegel.de/sport/american-football/nfl-houston-texans-demuetigen-steelers-aaron-rodgers-vor-karriereende-a-4a98e5b9-ca33-43d4-964d-585789c61821#ref=rss)
+### houston
+
+* [https://www.spiegel.de/sport/american-football/nfl-houston-texans-demuetigen-steelers-aaron-rodgers-vor-karriereende](https://www.spiegel.de/sport/american-football/nfl-houston-texans-demuetigen-steelers-aaron-rodgers-vor-karriereende-a-4a98e5b9-ca33-43d4-964d-585789c61821#ref=rss)
+### aaron
+
+* [https://www.spiegel.de/sport/american-football/nfl-houston-texans-demuetigen-steelers-aaron-rodgers-vor-karriereende](https://www.spiegel.de/sport/american-football/nfl-houston-texans-demuetigen-steelers-aaron-rodgers-vor-karriereende-a-4a98e5b9-ca33-43d4-964d-585789c61821#ref=rss)
+### rodgers
+
+* [https://www.spiegel.de/sport/american-football/nfl-houston-texans-demuetigen-steelers-aaron-rodgers-vor-karriereende](https://www.spiegel.de/sport/american-football/nfl-houston-texans-demuetigen-steelers-aaron-rodgers-vor-karriereende-a-4a98e5b9-ca33-43d4-964d-585789c61821#ref=rss)
+### maintal
+
+* [https://www.spiegel.de/panorama/justiz/maintal-polizisten-schiessen-bei-einsatz-38-jaehriger-schwer-verletzt](https://www.spiegel.de/panorama/justiz/maintal-polizisten-schiessen-bei-einsatz-38-jaehriger-schwer-verletzt-a-77bb218e-4bc8-474e-9164-cea7bc709298#ref=rss)
+### bedrohungssituation
+
+* [https://www.spiegel.de/panorama/justiz/maintal-polizisten-schiessen-bei-einsatz-38-jaehriger-schwer-verletzt](https://www.spiegel.de/panorama/justiz/maintal-polizisten-schiessen-bei-einsatz-38-jaehriger-schwer-verletzt-a-77bb218e-4bc8-474e-9164-cea7bc709298#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/maintal-polizisten-schiessen-bei-einsatz-38-jaehriger-schwer-verletzt](https://www.spiegel.de/panorama/justiz/maintal-polizisten-schiessen-bei-einsatz-38-jaehriger-schwer-verletzt-a-77bb218e-4bc8-474e-9164-cea7bc709298#ref=rss)
+### 38jährigen
+
+* [https://www.spiegel.de/panorama/justiz/maintal-polizisten-schiessen-bei-einsatz-38-jaehriger-schwer-verletzt](https://www.spiegel.de/panorama/justiz/maintal-polizisten-schiessen-bei-einsatz-38-jaehriger-schwer-verletzt-a-77bb218e-4bc8-474e-9164-cea7bc709298#ref=rss)
+### johann
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-erkundigt-sich-in-washington-nach-plaenen-von-donald-trump-fuer-groenland](https://www.spiegel.de/politik/deutschland/johann-wadephul-erkundigt-sich-in-washington-nach-plaenen-von-donald-trump-fuer-groenland-a-00e7d9c5-28d2-42d0-89fb-34761f023cda#ref=rss)
+### wadephul
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-erkundigt-sich-in-washington-nach-plaenen-von-donald-trump-fuer-groenland](https://www.spiegel.de/politik/deutschland/johann-wadephul-erkundigt-sich-in-washington-nach-plaenen-von-donald-trump-fuer-groenland-a-00e7d9c5-28d2-42d0-89fb-34761f023cda#ref=rss)
+### grönland
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-erkundigt-sich-in-washington-nach-plaenen-von-donald-trump-fuer-groenland](https://www.spiegel.de/politik/deutschland/johann-wadephul-erkundigt-sich-in-washington-nach-plaenen-von-donald-trump-fuer-groenland-a-00e7d9c5-28d2-42d0-89fb-34761f023cda#ref=rss)
+### urteil
+
+* [https://www.spiegel.de/karriere/arbeitszeit-ist-dieses-urteil-das-ende-von-topgehaeltern-in-grosskanzleien](https://www.spiegel.de/karriere/arbeitszeit-ist-dieses-urteil-das-ende-von-topgehaeltern-in-grosskanzleien-a-74922a52-b102-4406-93bf-da328269e205#ref=rss)
 
