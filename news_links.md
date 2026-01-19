@@ -4,347 +4,373 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### grönland
-
-* [https://www.spiegel.de/ausland/groenland-kommandochef-beschreibt-bedingungen-fuer-militaereinsatz-als-sehr-sehr-beschwerlich](https://www.spiegel.de/ausland/groenland-kommandochef-beschreibt-bedingungen-fuer-militaereinsatz-als-sehr-sehr-beschwerlich-a-479ff3ba-db2c-4ced-9b05-3531a216c4fe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/groenland-eu-erwaegt-politischen-gegenschlag-gegen-trump](https://www.spiegel.de/politik/deutschland/groenland-eu-erwaegt-politischen-gegenschlag-gegen-trump-a-f69f1f7c-efa9-410a-ab73-398c51a2d4dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/groenland-bundeswehrsoldaten-ziehen-schon-wieder-ab](https://www.spiegel.de/politik/deutschland/groenland-bundeswehrsoldaten-ziehen-schon-wieder-ab-a-d157ced3-20b3-4ba9-b363-47be1cac2b55#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene](https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene-a-8f098498-515b-47e8-b571-9623f1a3ce94#ref=rss)
-### trainer
-
-* [https://www.spiegel.de/sport/fussball/afrika-cup-2025-das-sind-die-erkenntnisse-des-turniers](https://www.spiegel.de/sport/fussball/afrika-cup-2025-das-sind-die-erkenntnisse-des-turniers-a-6ac2c795-989a-4018-861a-68bfdf0d9f59#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-deshalb-scheiterte-dino-toppmoeller-als-trainer-bei-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-deshalb-scheiterte-dino-toppmoeller-als-trainer-bei-eintracht-frankfurt-a-bd8e209a-ecb6-49a5-b419-29643b0e490c#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-super-g-vor-superstar-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-super-g-vor-superstar-lindsey-vonn-a-67a54741-07dd-4fe5-891f-d92c76805511#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-2026-bundestrainer-alfred-gislason-nach-serbien-niederlage-in-der-kritik](https://www.spiegel.de/sport/handball/handball-em-2026-bundestrainer-alfred-gislason-nach-serbien-niederlage-in-der-kritik-a-731983a9-28e9-43f0-95e4-6b323e5a63c1#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/libyen-sicherheitskraefte-befreien-200-gefangene-aus-erdloechern](https://www.spiegel.de/ausland/libyen-sicherheitskraefte-befreien-200-gefangene-aus-erdloechern-a-934c09d9-66b7-4d42-ac59-5c6b2bd7b2ea#ref=rss)
-* [https://www.spiegel.de/panorama/chile-mehr-als-250-haeuser-durch-waldbraende-zerstoert](https://www.spiegel.de/panorama/chile-mehr-als-250-haeuser-durch-waldbraende-zerstoert-a-9ef98175-173c-490e-b138-38f44850cef9#ref=rss)
-* [https://www.spiegel.de/panorama/lawinen-gefahr-in-oesterreich-acht-menschen-sterben-bei-skitouren](https://www.spiegel.de/panorama/lawinen-gefahr-in-oesterreich-acht-menschen-sterben-bei-skitouren-a-30128eef-654d-4d08-8f93-6d905f8387d4#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene](https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene-a-8f098498-515b-47e8-b571-9623f1a3ce94#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/friedensrat-fuer-eine-milliarde-dollar-bleibt-man-in-gegen-uno-von-donald-trump-dabei](https://www.spiegel.de/ausland/friedensrat-fuer-eine-milliarde-dollar-bleibt-man-in-gegen-uno-von-donald-trump-dabei-a-7ea60b42-efa6-4abd-9e03-9fbbebbdd4f1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/groenland-eu-erwaegt-politischen-gegenschlag-gegen-trump](https://www.spiegel.de/politik/deutschland/groenland-eu-erwaegt-politischen-gegenschlag-gegen-trump-a-f69f1f7c-efa9-410a-ab73-398c51a2d4dd#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene](https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene-a-8f098498-515b-47e8-b571-9623f1a3ce94#ref=rss)
-### woche
-
-* [https://www.spiegel.de/panorama/wetterprognose-wo-diese-woche-die-wintersonne-scheint](https://www.spiegel.de/panorama/wetterprognose-wo-diese-woche-die-wintersonne-scheint-a-80d0d067-4d8a-48fa-b2db-0c8037ac9289#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/syrien-ahmed-al-sharaa-in-berlin-der-umstrittene-besuch](https://www.spiegel.de/politik/deutschland/syrien-ahmed-al-sharaa-in-berlin-der-umstrittene-besuch-a-2277021d-55cd-4363-ad00-deb88f10694c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/groenland-bundeswehrsoldaten-ziehen-schon-wieder-ab](https://www.spiegel.de/politik/deutschland/groenland-bundeswehrsoldaten-ziehen-schon-wieder-ab-a-d157ced3-20b3-4ba9-b363-47be1cac2b55#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-tausende-getoetete-demonstranten-ein-blick-auf-die-opposition](https://www.spiegel.de/ausland/iran-tausende-getoetete-demonstranten-ein-blick-auf-die-opposition-a-228083e8-2570-4aa6-956a-cf3ca7ce5387#ref=rss)
-* [https://www.spiegel.de/ausland/iran-der-hisbollah-stehen-entscheidende-wochen-bevor](https://www.spiegel.de/ausland/iran-der-hisbollah-stehen-entscheidende-wochen-bevor-a-67fefd68-fcd0-4a25-87c4-63e8bcf4f270#ref=rss)
-* [https://www.spiegel.de/ausland/iran-ajatollah-mohsen-kadivar-ueber-die-zukunft-wir-brauchen-keinen-obersten-fuehrer](https://www.spiegel.de/ausland/iran-ajatollah-mohsen-kadivar-ueber-die-zukunft-wir-brauchen-keinen-obersten-fuehrer-a-90046e45-8736-481e-939a-4736d6fc7c1b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump](https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump-a-0ed99af5-5a8a-486e-9e8e-0db565948270#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-donald-trump-fuehlt-sich-nicht-mehr-dem-frieden-verpflichtet](https://www.spiegel.de/ausland/groenland-donald-trump-fuehlt-sich-nicht-mehr-dem-frieden-verpflichtet-a-2171360f-49e0-43bd-8d24-3d7d86b4bc0b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte](https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte-a-c4d244c4-1c0f-4133-b3c9-b9358c53209a#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-von-der-leyen-trotzt-trumps-zollankuendigung-mit-solidaritaetsbekundung](https://www.spiegel.de/ausland/groenland-von-der-leyen-trotzt-trumps-zollankuendigung-mit-solidaritaetsbekundung-a-62cdbb64-3bdb-49f3-b65a-538bb592ba50#ref=rss)
+* [https://www.spiegel.de/ausland/maria-machado-nobelstiftung-stellt-sich-gegen-weitergabe-der-auszeichnung-an-donald-trump](https://www.spiegel.de/ausland/maria-machado-nobelstiftung-stellt-sich-gegen-weitergabe-der-auszeichnung-an-donald-trump-a-9c180c08-45fc-4ffe-bcd4-2b69d35d047b#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/friedensrat-fuer-eine-milliarde-dollar-bleibt-man-in-gegen-uno-von-donald-trump-dabei](https://www.spiegel.de/ausland/friedensrat-fuer-eine-milliarde-dollar-bleibt-man-in-gegen-uno-von-donald-trump-dabei-a-7ea60b42-efa6-4abd-9e03-9fbbebbdd4f1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/groenland-eu-erwaegt-politischen-gegenschlag-gegen-trump](https://www.spiegel.de/politik/deutschland/groenland-eu-erwaegt-politischen-gegenschlag-gegen-trump-a-f69f1f7c-efa9-410a-ab73-398c51a2d4dd#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene](https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene-a-8f098498-515b-47e8-b571-9623f1a3ce94#ref=rss)
-### straße
+* [https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump](https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump-a-0ed99af5-5a8a-486e-9e8e-0db565948270#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-donald-trump-fuehlt-sich-nicht-mehr-dem-frieden-verpflichtet](https://www.spiegel.de/ausland/groenland-donald-trump-fuehlt-sich-nicht-mehr-dem-frieden-verpflichtet-a-2171360f-49e0-43bd-8d24-3d7d86b4bc0b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/pimco-anleiheriese-zieht-geld-aus-den-usa-ab](https://www.spiegel.de/wirtschaft/unternehmen/pimco-anleiheriese-zieht-geld-aus-den-usa-ab-a-a4969ecc-f8c2-495d-b0ca-d42f1eb5b096#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-von-der-leyen-trotzt-trumps-zollankuendigung-mit-solidaritaetsbekundung](https://www.spiegel.de/ausland/groenland-von-der-leyen-trotzt-trumps-zollankuendigung-mit-solidaritaetsbekundung-a-62cdbb64-3bdb-49f3-b65a-538bb592ba50#ref=rss)
+* [https://www.spiegel.de/ausland/maria-machado-nobelstiftung-stellt-sich-gegen-weitergabe-der-auszeichnung-an-donald-trump](https://www.spiegel.de/ausland/maria-machado-nobelstiftung-stellt-sich-gegen-weitergabe-der-auszeichnung-an-donald-trump-a-9c180c08-45fc-4ffe-bcd4-2b69d35d047b#ref=rss)
+### grönland
 
-* [https://www.spiegel.de/ausland/iran-tausende-getoetete-demonstranten-ein-blick-auf-die-opposition](https://www.spiegel.de/ausland/iran-tausende-getoetete-demonstranten-ein-blick-auf-die-opposition-a-228083e8-2570-4aa6-956a-cf3ca7ce5387#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-13-000-demonstrieren-gegen-islamisches-system-in-iran](https://www.spiegel.de/panorama/hamburg-13-000-demonstrieren-gegen-islamisches-system-in-iran-a-e6ddfdec-1212-4e8a-98b0-73f6729d489e#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene](https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene-a-8f098498-515b-47e8-b571-9623f1a3ce94#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/iran-ajatollah-mohsen-kadivar-ueber-die-zukunft-wir-brauchen-keinen-obersten-fuehrer](https://www.spiegel.de/ausland/iran-ajatollah-mohsen-kadivar-ueber-die-zukunft-wir-brauchen-keinen-obersten-fuehrer-a-90046e45-8736-481e-939a-4736d6fc7c1b#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-raeuber-erbeuten-pokemon-karten-im-wert-von-100-000-dollar](https://www.spiegel.de/panorama/new-york-raeuber-erbeuten-pokemon-karten-im-wert-von-100-000-dollar-a-c791d249-bfc3-40cc-bf0a-35efddca334d#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-konflikt-macron-will-handels-bazooka-gegen-usa-einsetzen](https://www.spiegel.de/ausland/groenland-konflikt-macron-will-handels-bazooka-gegen-usa-einsetzen-a-620fed92-7a1c-4258-804a-8ba27d6569cc#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/libyen-sicherheitskraefte-befreien-200-gefangene-aus-erdloechern](https://www.spiegel.de/ausland/libyen-sicherheitskraefte-befreien-200-gefangene-aus-erdloechern-a-934c09d9-66b7-4d42-ac59-5c6b2bd7b2ea#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-bei-russischen-angriffen-auf-energieinfrastruktur](https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-bei-russischen-angriffen-auf-energieinfrastruktur-a-7c8062e0-44b6-431b-b4d3-ec57d108873e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump](https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump-a-0ed99af5-5a8a-486e-9e8e-0db565948270#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-donald-trump-fuehlt-sich-nicht-mehr-dem-frieden-verpflichtet](https://www.spiegel.de/ausland/groenland-donald-trump-fuehlt-sich-nicht-mehr-dem-frieden-verpflichtet-a-2171360f-49e0-43bd-8d24-3d7d86b4bc0b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte](https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte-a-c4d244c4-1c0f-4133-b3c9-b9358c53209a#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-von-der-leyen-trotzt-trumps-zollankuendigung-mit-solidaritaetsbekundung](https://www.spiegel.de/ausland/groenland-von-der-leyen-trotzt-trumps-zollankuendigung-mit-solidaritaetsbekundung-a-62cdbb64-3bdb-49f3-b65a-538bb592ba50#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/chile-mehr-als-250-haeuser-durch-waldbraende-zerstoert](https://www.spiegel.de/panorama/chile-mehr-als-250-haeuser-durch-waldbraende-zerstoert-a-9ef98175-173c-490e-b138-38f44850cef9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-bei-russischen-angriffen-auf-energieinfrastruktur](https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-bei-russischen-angriffen-auf-energieinfrastruktur-a-7c8062e0-44b6-431b-b4d3-ec57d108873e#ref=rss)
-### eu
+* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-nasa-rollt-raketensystem-fuer-mondmission-zum-startplatz](https://www.spiegel.de/wissenschaft/weltall/artemis-2-nasa-rollt-raketensystem-fuer-mondmission-zum-startplatz-a-1985d003-6fbb-40ff-b59c-336d8ce4740b#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-donald-trump-fuehlt-sich-nicht-mehr-dem-frieden-verpflichtet](https://www.spiegel.de/ausland/groenland-donald-trump-fuehlt-sich-nicht-mehr-dem-frieden-verpflichtet-a-2171360f-49e0-43bd-8d24-3d7d86b4bc0b#ref=rss)
+* [https://www.spiegel.de/kultur/tv/friedhelm-brebeck-ist-tot-ard-reporter-im-alter-von-91-jahren-gestorben](https://www.spiegel.de/kultur/tv/friedhelm-brebeck-ist-tot-ard-reporter-im-alter-von-91-jahren-gestorben-a-d7ac611c-1d43-45a3-98d7-ac59683e4a47#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-start-ups-erhielten-2025-mehr-geld](https://www.spiegel.de/wirtschaft/deutsche-start-ups-erhielten-2025-mehr-geld-a-bd9f9c1a-6d94-4f82-890e-07cd476a2437#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/demenz-bei-hunden-was-hilft-gegen-das-vergessen](https://www.spiegel.de/wissenschaft/natur/demenz-bei-hunden-was-hilft-gegen-das-vergessen-a-3a4aad70-b454-42aa-b57b-d6b5931fb731#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/groenland-konflikt-macron-will-handels-bazooka-gegen-usa-einsetzen](https://www.spiegel.de/ausland/groenland-konflikt-macron-will-handels-bazooka-gegen-usa-einsetzen-a-620fed92-7a1c-4258-804a-8ba27d6569cc#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-13-000-demonstrieren-gegen-islamisches-system-in-iran](https://www.spiegel.de/panorama/hamburg-13-000-demonstrieren-gegen-islamisches-system-in-iran-a-e6ddfdec-1212-4e8a-98b0-73f6729d489e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/groenland-eu-erwaegt-politischen-gegenschlag-gegen-trump](https://www.spiegel.de/politik/deutschland/groenland-eu-erwaegt-politischen-gegenschlag-gegen-trump-a-f69f1f7c-efa9-410a-ab73-398c51a2d4dd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-nasa-rollt-raketensystem-fuer-mondmission-zum-startplatz](https://www.spiegel.de/wissenschaft/weltall/artemis-2-nasa-rollt-raketensystem-fuer-mondmission-zum-startplatz-a-1985d003-6fbb-40ff-b59c-336d8ce4740b#ref=rss)
+* [https://www.spiegel.de/panorama/untergang-der-arandora-star-mein-vater-der-ueberlebende-einer-tragoedie](https://www.spiegel.de/panorama/untergang-der-arandora-star-mein-vater-der-ueberlebende-einer-tragoedie-a-89a1a8b9-2d7a-4c35-9a10-9fb0e37bd45f#ref=rss)
+* [https://www.spiegel.de/kultur/tv/friedhelm-brebeck-ist-tot-ard-reporter-im-alter-von-91-jahren-gestorben](https://www.spiegel.de/kultur/tv/friedhelm-brebeck-ist-tot-ard-reporter-im-alter-von-91-jahren-gestorben-a-d7ac611c-1d43-45a3-98d7-ac59683e4a47#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/demenz-bei-hunden-was-hilft-gegen-das-vergessen](https://www.spiegel.de/wissenschaft/natur/demenz-bei-hunden-was-hilft-gegen-das-vergessen-a-3a4aad70-b454-42aa-b57b-d6b5931fb731#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-nasa-rollt-raketensystem-fuer-mondmission-zum-startplatz](https://www.spiegel.de/wissenschaft/weltall/artemis-2-nasa-rollt-raketensystem-fuer-mondmission-zum-startplatz-a-1985d003-6fbb-40ff-b59c-336d8ce4740b#ref=rss)
+* [https://www.spiegel.de/panorama/winter-in-russland-kamtschatka-kaempft-mit-schneemassen](https://www.spiegel.de/panorama/winter-in-russland-kamtschatka-kaempft-mit-schneemassen-a-f9ab972f-efb8-4423-badc-233c51594763#ref=rss)
+* [https://www.spiegel.de/panorama/a42-bei-essen-26-fahrzeuge-kollidieren-auf-glatter-fahrbahn-19-verletzte](https://www.spiegel.de/panorama/a42-bei-essen-26-fahrzeuge-kollidieren-auf-glatter-fahrbahn-19-verletzte-a-64eda4d9-2add-462f-8348-fa52a4efce6b#ref=rss)
+* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba](https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba-a-225b98d1-5ec7-4836-a995-4f9881a16d66#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bausparvertrag-diese-rechnung-zeigt-wie-sie-abgezockt-werden](https://www.spiegel.de/wirtschaft/bausparvertrag-diese-rechnung-zeigt-wie-sie-abgezockt-werden-a-59a5056f-e9e2-4730-abfb-975af09a57ac#ref=rss)
+### usa
+
+* [https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump](https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump-a-0ed99af5-5a8a-486e-9e8e-0db565948270#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/pimco-anleiheriese-zieht-geld-aus-den-usa-ab](https://www.spiegel.de/wirtschaft/unternehmen/pimco-anleiheriese-zieht-geld-aus-den-usa-ab-a-a4969ecc-f8c2-495d-b0ca-d42f1eb5b096#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-militaer-plant-neue-offensiven-gegen-russische-truppen](https://www.spiegel.de/ausland/ukraine-militaer-plant-neue-offensiven-gegen-russische-truppen-a-993653a2-e526-4205-bb38-afcd735db2da#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/panorama/lawinen-gefahr-in-oesterreich-acht-menschen-sterben-bei-skitouren](https://www.spiegel.de/panorama/lawinen-gefahr-in-oesterreich-acht-menschen-sterben-bei-skitouren-a-30128eef-654d-4d08-8f93-6d905f8387d4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/schriftstellerin-leila-slimani-vor-allem-politiker-machen-sich-keine-vorstellung-davon-wie-anstrengend-es-ist-einzuwandern](https://www.spiegel.de/panorama/leute/schriftstellerin-leila-slimani-vor-allem-politiker-machen-sich-keine-vorstellung-davon-wie-anstrengend-es-ist-einzuwandern-a-490b4309-5608-4c46-abd1-3dfc239202db#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-bei-russischen-angriffen-auf-energieinfrastruktur](https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-bei-russischen-angriffen-auf-energieinfrastruktur-a-7c8062e0-44b6-431b-b4d3-ec57d108873e#ref=rss)
-### kälte
-
-* [https://www.spiegel.de/panorama/wetterprognose-wo-diese-woche-die-wintersonne-scheint](https://www.spiegel.de/panorama/wetterprognose-wo-diese-woche-die-wintersonne-scheint-a-80d0d067-4d8a-48fa-b2db-0c8037ac9289#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-bei-russischen-angriffen-auf-energieinfrastruktur](https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-bei-russischen-angriffen-auf-energieinfrastruktur-a-7c8062e0-44b6-431b-b4d3-ec57d108873e#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/ausland/iran-tausende-getoetete-demonstranten-ein-blick-auf-die-opposition](https://www.spiegel.de/ausland/iran-tausende-getoetete-demonstranten-ein-blick-auf-die-opposition-a-228083e8-2570-4aa6-956a-cf3ca7ce5387#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-13-000-demonstrieren-gegen-islamisches-system-in-iran](https://www.spiegel.de/panorama/hamburg-13-000-demonstrieren-gegen-islamisches-system-in-iran-a-e6ddfdec-1212-4e8a-98b0-73f6729d489e#ref=rss)
-### demonstranten
-
-* [https://www.spiegel.de/ausland/iran-tausende-getoetete-demonstranten-ein-blick-auf-die-opposition](https://www.spiegel.de/ausland/iran-tausende-getoetete-demonstranten-ein-blick-auf-die-opposition-a-228083e8-2570-4aa6-956a-cf3ca7ce5387#ref=rss)
-### regime
-
-* [https://www.spiegel.de/ausland/iran-tausende-getoetete-demonstranten-ein-blick-auf-die-opposition](https://www.spiegel.de/ausland/iran-tausende-getoetete-demonstranten-ein-blick-auf-die-opposition-a-228083e8-2570-4aa6-956a-cf3ca7ce5387#ref=rss)
-* [https://www.spiegel.de/ausland/iran-ajatollah-mohsen-kadivar-ueber-die-zukunft-wir-brauchen-keinen-obersten-fuehrer](https://www.spiegel.de/ausland/iran-ajatollah-mohsen-kadivar-ueber-die-zukunft-wir-brauchen-keinen-obersten-fuehrer-a-90046e45-8736-481e-939a-4736d6fc7c1b#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/ausland/iran-tausende-getoetete-demonstranten-ein-blick-auf-die-opposition](https://www.spiegel.de/ausland/iran-tausende-getoetete-demonstranten-ein-blick-auf-die-opposition-a-228083e8-2570-4aa6-956a-cf3ca7ce5387#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/groenland-eu-erwaegt-politischen-gegenschlag-gegen-trump](https://www.spiegel.de/politik/deutschland/groenland-eu-erwaegt-politischen-gegenschlag-gegen-trump-a-f69f1f7c-efa9-410a-ab73-398c51a2d4dd#ref=rss)
-### hisbollah
-
-* [https://www.spiegel.de/ausland/iran-der-hisbollah-stehen-entscheidende-wochen-bevor](https://www.spiegel.de/ausland/iran-der-hisbollah-stehen-entscheidende-wochen-bevor-a-67fefd68-fcd0-4a25-87c4-63e8bcf4f270#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/ausland/iran-der-hisbollah-stehen-entscheidende-wochen-bevor](https://www.spiegel.de/ausland/iran-der-hisbollah-stehen-entscheidende-wochen-bevor-a-67fefd68-fcd0-4a25-87c4-63e8bcf4f270#ref=rss)
-### entscheidende
-
-* [https://www.spiegel.de/ausland/iran-der-hisbollah-stehen-entscheidende-wochen-bevor](https://www.spiegel.de/ausland/iran-der-hisbollah-stehen-entscheidende-wochen-bevor-a-67fefd68-fcd0-4a25-87c4-63e8bcf4f270#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/ausland/iran-der-hisbollah-stehen-entscheidende-wochen-bevor](https://www.spiegel.de/ausland/iran-der-hisbollah-stehen-entscheidende-wochen-bevor-a-67fefd68-fcd0-4a25-87c4-63e8bcf4f270#ref=rss)
-### bevor
-
-* [https://www.spiegel.de/ausland/iran-der-hisbollah-stehen-entscheidende-wochen-bevor](https://www.spiegel.de/ausland/iran-der-hisbollah-stehen-entscheidende-wochen-bevor-a-67fefd68-fcd0-4a25-87c4-63e8bcf4f270#ref=rss)
-### irans
-
-* [https://www.spiegel.de/ausland/iran-der-hisbollah-stehen-entscheidende-wochen-bevor](https://www.spiegel.de/ausland/iran-der-hisbollah-stehen-entscheidende-wochen-bevor-a-67fefd68-fcd0-4a25-87c4-63e8bcf4f270#ref=rss)
-* [https://www.spiegel.de/ausland/iran-ajatollah-mohsen-kadivar-ueber-die-zukunft-wir-brauchen-keinen-obersten-fuehrer](https://www.spiegel.de/ausland/iran-ajatollah-mohsen-kadivar-ueber-die-zukunft-wir-brauchen-keinen-obersten-fuehrer-a-90046e45-8736-481e-939a-4736d6fc7c1b#ref=rss)
-### ajatollah
-
-* [https://www.spiegel.de/ausland/iran-ajatollah-mohsen-kadivar-ueber-die-zukunft-wir-brauchen-keinen-obersten-fuehrer](https://www.spiegel.de/ausland/iran-ajatollah-mohsen-kadivar-ueber-die-zukunft-wir-brauchen-keinen-obersten-fuehrer-a-90046e45-8736-481e-939a-4736d6fc7c1b#ref=rss)
-### mohsen
-
-* [https://www.spiegel.de/ausland/iran-ajatollah-mohsen-kadivar-ueber-die-zukunft-wir-brauchen-keinen-obersten-fuehrer](https://www.spiegel.de/ausland/iran-ajatollah-mohsen-kadivar-ueber-die-zukunft-wir-brauchen-keinen-obersten-fuehrer-a-90046e45-8736-481e-939a-4736d6fc7c1b#ref=rss)
-### kadivar
-
-* [https://www.spiegel.de/ausland/iran-ajatollah-mohsen-kadivar-ueber-die-zukunft-wir-brauchen-keinen-obersten-fuehrer](https://www.spiegel.de/ausland/iran-ajatollah-mohsen-kadivar-ueber-die-zukunft-wir-brauchen-keinen-obersten-fuehrer-a-90046e45-8736-481e-939a-4736d6fc7c1b#ref=rss)
-### schlägt
-
-* [https://www.spiegel.de/ausland/iran-ajatollah-mohsen-kadivar-ueber-die-zukunft-wir-brauchen-keinen-obersten-fuehrer](https://www.spiegel.de/ausland/iran-ajatollah-mohsen-kadivar-ueber-die-zukunft-wir-brauchen-keinen-obersten-fuehrer-a-90046e45-8736-481e-939a-4736d6fc7c1b#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-konflikt-macron-will-handels-bazooka-gegen-usa-einsetzen](https://www.spiegel.de/ausland/groenland-konflikt-macron-will-handels-bazooka-gegen-usa-einsetzen-a-620fed92-7a1c-4258-804a-8ba27d6569cc#ref=rss)
-### erkenntnisse
-
-* [https://www.spiegel.de/sport/fussball/afrika-cup-2025-das-sind-die-erkenntnisse-des-turniers](https://www.spiegel.de/sport/fussball/afrika-cup-2025-das-sind-die-erkenntnisse-des-turniers-a-6ac2c795-989a-4018-861a-68bfdf0d9f59#ref=rss)
-### vielleicht
-
-* [https://www.spiegel.de/sport/fussball/afrika-cup-2025-das-sind-die-erkenntnisse-des-turniers](https://www.spiegel.de/sport/fussball/afrika-cup-2025-das-sind-die-erkenntnisse-des-turniers-a-6ac2c795-989a-4018-861a-68bfdf0d9f59#ref=rss)
-* [https://www.spiegel.de/gesundheit/heuschnupfen-warum-pollenallergiker-jetzt-schon-leiden](https://www.spiegel.de/gesundheit/heuschnupfen-warum-pollenallergiker-jetzt-schon-leiden-a-e16e550d-9b03-4934-a553-51879212e5f6#ref=rss)
-### scheiterte
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-deshalb-scheiterte-dino-toppmoeller-als-trainer-bei-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-deshalb-scheiterte-dino-toppmoeller-als-trainer-bei-eintracht-frankfurt-a-bd8e209a-ecb6-49a5-b419-29643b0e490c#ref=rss)
-### dino
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-deshalb-scheiterte-dino-toppmoeller-als-trainer-bei-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-deshalb-scheiterte-dino-toppmoeller-als-trainer-bei-eintracht-frankfurt-a-bd8e209a-ecb6-49a5-b419-29643b0e490c#ref=rss)
-### toppmöller
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-deshalb-scheiterte-dino-toppmoeller-als-trainer-bei-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-deshalb-scheiterte-dino-toppmoeller-als-trainer-bei-eintracht-frankfurt-a-bd8e209a-ecb6-49a5-b419-29643b0e490c#ref=rss)
-### eintracht
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-deshalb-scheiterte-dino-toppmoeller-als-trainer-bei-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-deshalb-scheiterte-dino-toppmoeller-als-trainer-bei-eintracht-frankfurt-a-bd8e209a-ecb6-49a5-b419-29643b0e490c#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-deshalb-scheiterte-dino-toppmoeller-als-trainer-bei-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-deshalb-scheiterte-dino-toppmoeller-als-trainer-bei-eintracht-frankfurt-a-bd8e209a-ecb6-49a5-b419-29643b0e490c#ref=rss)
-### viele
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-deshalb-scheiterte-dino-toppmoeller-als-trainer-bei-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-deshalb-scheiterte-dino-toppmoeller-als-trainer-bei-eintracht-frankfurt-a-bd8e209a-ecb6-49a5-b419-29643b0e490c#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene](https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene-a-8f098498-515b-47e8-b571-9623f1a3ce94#ref=rss)
-### new
-
-* [https://www.spiegel.de/panorama/new-york-raeuber-erbeuten-pokemon-karten-im-wert-von-100-000-dollar](https://www.spiegel.de/panorama/new-york-raeuber-erbeuten-pokemon-karten-im-wert-von-100-000-dollar-a-c791d249-bfc3-40cc-bf0a-35efddca334d#ref=rss)
-### pokémonkarten
-
-* [https://www.spiegel.de/panorama/new-york-raeuber-erbeuten-pokemon-karten-im-wert-von-100-000-dollar](https://www.spiegel.de/panorama/new-york-raeuber-erbeuten-pokemon-karten-im-wert-von-100-000-dollar-a-c791d249-bfc3-40cc-bf0a-35efddca334d#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/panorama/new-york-raeuber-erbeuten-pokemon-karten-im-wert-von-100-000-dollar](https://www.spiegel.de/panorama/new-york-raeuber-erbeuten-pokemon-karten-im-wert-von-100-000-dollar-a-c791d249-bfc3-40cc-bf0a-35efddca334d#ref=rss)
-* [https://www.spiegel.de/ausland/friedensrat-fuer-eine-milliarde-dollar-bleibt-man-in-gegen-uno-von-donald-trump-dabei](https://www.spiegel.de/ausland/friedensrat-fuer-eine-milliarde-dollar-bleibt-man-in-gegen-uno-von-donald-trump-dabei-a-7ea60b42-efa6-4abd-9e03-9fbbebbdd4f1#ref=rss)
-### art
-
-* [https://www.spiegel.de/panorama/new-york-raeuber-erbeuten-pokemon-karten-im-wert-von-100-000-dollar](https://www.spiegel.de/panorama/new-york-raeuber-erbeuten-pokemon-karten-im-wert-von-100-000-dollar-a-c791d249-bfc3-40cc-bf0a-35efddca334d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linnemann-fordert-automatische-behoerden-genehmigungen](https://www.spiegel.de/politik/deutschland/linnemann-fordert-automatische-behoerden-genehmigungen-a-90635969-867d-470a-9f58-84a3f87483a3#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-ex-it-mit-lannert-und-bootz-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-ex-it-mit-lannert-und-bootz-im-schnellcheck-a-935fde9a-4306-4239-8f94-25b77e7414f1#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-ex-it-mit-lannert-und-bootz-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-stuttgart-ex-it-mit-lannert-und-bootz-im-schnellcheck-a-935fde9a-4306-4239-8f94-25b77e7414f1#ref=rss)
-* [https://www.spiegel.de/ausland/friedensrat-fuer-eine-milliarde-dollar-bleibt-man-in-gegen-uno-von-donald-trump-dabei](https://www.spiegel.de/ausland/friedensrat-fuer-eine-milliarde-dollar-bleibt-man-in-gegen-uno-von-donald-trump-dabei-a-7ea60b42-efa6-4abd-9e03-9fbbebbdd4f1#ref=rss)
-### reaktion
-
-* [https://www.spiegel.de/gesundheit/heuschnupfen-warum-pollenallergiker-jetzt-schon-leiden](https://www.spiegel.de/gesundheit/heuschnupfen-warum-pollenallergiker-jetzt-schon-leiden-a-e16e550d-9b03-4934-a553-51879212e5f6#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene](https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene-a-8f098498-515b-47e8-b571-9623f1a3ce94#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/gesundheit/heuschnupfen-warum-pollenallergiker-jetzt-schon-leiden](https://www.spiegel.de/gesundheit/heuschnupfen-warum-pollenallergiker-jetzt-schon-leiden-a-e16e550d-9b03-4934-a553-51879212e5f6#ref=rss)
-* [https://www.spiegel.de/panorama/lawinen-gefahr-in-oesterreich-acht-menschen-sterben-bei-skitouren](https://www.spiegel.de/panorama/lawinen-gefahr-in-oesterreich-acht-menschen-sterben-bei-skitouren-a-30128eef-654d-4d08-8f93-6d905f8387d4#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/gesundheit/heuschnupfen-warum-pollenallergiker-jetzt-schon-leiden](https://www.spiegel.de/gesundheit/heuschnupfen-warum-pollenallergiker-jetzt-schon-leiden-a-e16e550d-9b03-4934-a553-51879212e5f6#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-konflikt-macron-will-handels-bazooka-gegen-usa-einsetzen](https://www.spiegel.de/ausland/groenland-konflikt-macron-will-handels-bazooka-gegen-usa-einsetzen-a-620fed92-7a1c-4258-804a-8ba27d6569cc#ref=rss)
-### libyen
-
-* [https://www.spiegel.de/ausland/libyen-sicherheitskraefte-befreien-200-gefangene-aus-erdloechern](https://www.spiegel.de/ausland/libyen-sicherheitskraefte-befreien-200-gefangene-aus-erdloechern-a-934c09d9-66b7-4d42-ac59-5c6b2bd7b2ea#ref=rss)
-### sicherheitskräfte
-
-* [https://www.spiegel.de/ausland/libyen-sicherheitskraefte-befreien-200-gefangene-aus-erdloechern](https://www.spiegel.de/ausland/libyen-sicherheitskraefte-befreien-200-gefangene-aus-erdloechern-a-934c09d9-66b7-4d42-ac59-5c6b2bd7b2ea#ref=rss)
-### 200
-
-* [https://www.spiegel.de/ausland/libyen-sicherheitskraefte-befreien-200-gefangene-aus-erdloechern](https://www.spiegel.de/ausland/libyen-sicherheitskraefte-befreien-200-gefangene-aus-erdloechern-a-934c09d9-66b7-4d42-ac59-5c6b2bd7b2ea#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-bei-russischen-angriffen-auf-energieinfrastruktur](https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-bei-russischen-angriffen-auf-energieinfrastruktur-a-7c8062e0-44b6-431b-b4d3-ec57d108873e#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/syrien-ahmed-al-sharaa-in-berlin-der-umstrittene-besuch](https://www.spiegel.de/politik/deutschland/syrien-ahmed-al-sharaa-in-berlin-der-umstrittene-besuch-a-2277021d-55cd-4363-ad00-deb88f10694c#ref=rss)
-### besuch
-
-* [https://www.spiegel.de/politik/deutschland/syrien-ahmed-al-sharaa-in-berlin-der-umstrittene-besuch](https://www.spiegel.de/politik/deutschland/syrien-ahmed-al-sharaa-in-berlin-der-umstrittene-besuch-a-2277021d-55cd-4363-ad00-deb88f10694c#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/syrien-ahmed-al-sharaa-in-berlin-der-umstrittene-besuch](https://www.spiegel.de/politik/deutschland/syrien-ahmed-al-sharaa-in-berlin-der-umstrittene-besuch-a-2277021d-55cd-4363-ad00-deb88f10694c#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-streit-europaeer-warnen-vor-eskalation](https://www.spiegel.de/ausland/groenland-streit-europaeer-warnen-vor-eskalation-a-7e9c5920-0d14-4361-a9e4-3da5250d6705#ref=rss)
-### allem
-
-* [https://www.spiegel.de/politik/deutschland/syrien-ahmed-al-sharaa-in-berlin-der-umstrittene-besuch](https://www.spiegel.de/politik/deutschland/syrien-ahmed-al-sharaa-in-berlin-der-umstrittene-besuch-a-2277021d-55cd-4363-ad00-deb88f10694c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/schriftstellerin-leila-slimani-vor-allem-politiker-machen-sich-keine-vorstellung-davon-wie-anstrengend-es-ist-einzuwandern](https://www.spiegel.de/panorama/leute/schriftstellerin-leila-slimani-vor-allem-politiker-machen-sich-keine-vorstellung-davon-wie-anstrengend-es-ist-einzuwandern-a-490b4309-5608-4c46-abd1-3dfc239202db#ref=rss)
-### 250
-
-* [https://www.spiegel.de/panorama/chile-mehr-als-250-haeuser-durch-waldbraende-zerstoert](https://www.spiegel.de/panorama/chile-mehr-als-250-haeuser-durch-waldbraende-zerstoert-a-9ef98175-173c-490e-b138-38f44850cef9#ref=rss)
-### häuser
-
-* [https://www.spiegel.de/panorama/chile-mehr-als-250-haeuser-durch-waldbraende-zerstoert](https://www.spiegel.de/panorama/chile-mehr-als-250-haeuser-durch-waldbraende-zerstoert-a-9ef98175-173c-490e-b138-38f44850cef9#ref=rss)
-### macron
-
-* [https://www.spiegel.de/ausland/groenland-konflikt-macron-will-handels-bazooka-gegen-usa-einsetzen](https://www.spiegel.de/ausland/groenland-konflikt-macron-will-handels-bazooka-gegen-usa-einsetzen-a-620fed92-7a1c-4258-804a-8ba27d6569cc#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/groenland-konflikt-macron-will-handels-bazooka-gegen-usa-einsetzen](https://www.spiegel.de/ausland/groenland-konflikt-macron-will-handels-bazooka-gegen-usa-einsetzen-a-620fed92-7a1c-4258-804a-8ba27d6569cc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/groenland-eu-erwaegt-politischen-gegenschlag-gegen-trump](https://www.spiegel.de/politik/deutschland/groenland-eu-erwaegt-politischen-gegenschlag-gegen-trump-a-f69f1f7c-efa9-410a-ab73-398c51a2d4dd#ref=rss)
-### lawinengefahr
-
-* [https://www.spiegel.de/panorama/lawinen-gefahr-in-oesterreich-acht-menschen-sterben-bei-skitouren](https://www.spiegel.de/panorama/lawinen-gefahr-in-oesterreich-acht-menschen-sterben-bei-skitouren-a-30128eef-654d-4d08-8f93-6d905f8387d4#ref=rss)
-### acht
-
-* [https://www.spiegel.de/panorama/lawinen-gefahr-in-oesterreich-acht-menschen-sterben-bei-skitouren](https://www.spiegel.de/panorama/lawinen-gefahr-in-oesterreich-acht-menschen-sterben-bei-skitouren-a-30128eef-654d-4d08-8f93-6d905f8387d4#ref=rss)
-### wochenende
-
-* [https://www.spiegel.de/panorama/lawinen-gefahr-in-oesterreich-acht-menschen-sterben-bei-skitouren](https://www.spiegel.de/panorama/lawinen-gefahr-in-oesterreich-acht-menschen-sterben-bei-skitouren-a-30128eef-654d-4d08-8f93-6d905f8387d4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-sichert-sich-weitere-rohstoffquellen](https://www.spiegel.de/wirtschaft/china-sichert-sich-weitere-rohstoffquellen-a-d0e9926b-a4fe-497d-9293-a09d07672228#ref=rss)
-### emma
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-super-g-vor-superstar-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-super-g-vor-superstar-lindsey-vonn-a-67a54741-07dd-4fe5-891f-d92c76805511#ref=rss)
-### lindsey
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-super-g-vor-superstar-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-super-g-vor-superstar-lindsey-vonn-a-67a54741-07dd-4fe5-891f-d92c76805511#ref=rss)
-### vonn
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-super-g-vor-superstar-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-super-g-vor-superstar-lindsey-vonn-a-67a54741-07dd-4fe5-891f-d92c76805511#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-super-g-vor-superstar-lindsey-vonn](https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-siegt-im-super-g-vor-superstar-lindsey-vonn-a-67a54741-07dd-4fe5-891f-d92c76805511#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-2026-bundestrainer-alfred-gislason-nach-serbien-niederlage-in-der-kritik](https://www.spiegel.de/sport/handball/handball-em-2026-bundestrainer-alfred-gislason-nach-serbien-niederlage-in-der-kritik-a-731983a9-28e9-43f0-95e4-6b323e5a63c1#ref=rss)
-### europäer
-
-* [https://www.spiegel.de/ausland/groenland-streit-europaeer-warnen-vor-eskalation](https://www.spiegel.de/ausland/groenland-streit-europaeer-warnen-vor-eskalation-a-7e9c5920-0d14-4361-a9e4-3da5250d6705#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/groenland-eu-erwaegt-politischen-gegenschlag-gegen-trump](https://www.spiegel.de/politik/deutschland/groenland-eu-erwaegt-politischen-gegenschlag-gegen-trump-a-f69f1f7c-efa9-410a-ab73-398c51a2d4dd#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/ausland/groenland-streit-europaeer-warnen-vor-eskalation](https://www.spiegel.de/ausland/groenland-streit-europaeer-warnen-vor-eskalation-a-7e9c5920-0d14-4361-a9e4-3da5250d6705#ref=rss)
-* [https://www.spiegel.de/ausland/friedensrat-fuer-eine-milliarde-dollar-bleibt-man-in-gegen-uno-von-donald-trump-dabei](https://www.spiegel.de/ausland/friedensrat-fuer-eine-milliarde-dollar-bleibt-man-in-gegen-uno-von-donald-trump-dabei-a-7ea60b42-efa6-4abd-9e03-9fbbebbdd4f1#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/hamburg-13-000-demonstrieren-gegen-islamisches-system-in-iran](https://www.spiegel.de/panorama/hamburg-13-000-demonstrieren-gegen-islamisches-system-in-iran-a-e6ddfdec-1212-4e8a-98b0-73f6729d489e#ref=rss)
-### gegangen
-
-* [https://www.spiegel.de/panorama/hamburg-13-000-demonstrieren-gegen-islamisches-system-in-iran](https://www.spiegel.de/panorama/hamburg-13-000-demonstrieren-gegen-islamisches-system-in-iran-a-e6ddfdec-1212-4e8a-98b0-73f6729d489e#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene](https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene-a-8f098498-515b-47e8-b571-9623f1a3ce94#ref=rss)
-### bedingungen
-
-* [https://www.spiegel.de/ausland/groenland-kommandochef-beschreibt-bedingungen-fuer-militaereinsatz-als-sehr-sehr-beschwerlich](https://www.spiegel.de/ausland/groenland-kommandochef-beschreibt-bedingungen-fuer-militaereinsatz-als-sehr-sehr-beschwerlich-a-479ff3ba-db2c-4ced-9b05-3531a216c4fe#ref=rss)
-### sehr
-
-* [https://www.spiegel.de/ausland/groenland-kommandochef-beschreibt-bedingungen-fuer-militaereinsatz-als-sehr-sehr-beschwerlich](https://www.spiegel.de/ausland/groenland-kommandochef-beschreibt-bedingungen-fuer-militaereinsatz-als-sehr-sehr-beschwerlich-a-479ff3ba-db2c-4ced-9b05-3531a216c4fe#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/ausland/groenland-kommandochef-beschreibt-bedingungen-fuer-militaereinsatz-als-sehr-sehr-beschwerlich](https://www.spiegel.de/ausland/groenland-kommandochef-beschreibt-bedingungen-fuer-militaereinsatz-als-sehr-sehr-beschwerlich-a-479ff3ba-db2c-4ced-9b05-3531a216c4fe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/groenland-bundeswehrsoldaten-ziehen-schon-wieder-ab](https://www.spiegel.de/politik/deutschland/groenland-bundeswehrsoldaten-ziehen-schon-wieder-ab-a-d157ced3-20b3-4ba9-b363-47be1cac2b55#ref=rss)
-### mahnt
-
-* [https://www.spiegel.de/ausland/groenland-kommandochef-beschreibt-bedingungen-fuer-militaereinsatz-als-sehr-sehr-beschwerlich](https://www.spiegel.de/ausland/groenland-kommandochef-beschreibt-bedingungen-fuer-militaereinsatz-als-sehr-sehr-beschwerlich-a-479ff3ba-db2c-4ced-9b05-3531a216c4fe#ref=rss)
-* [https://www.spiegel.de/panorama/leute/schriftstellerin-leila-slimani-vor-allem-politiker-machen-sich-keine-vorstellung-davon-wie-anstrengend-es-ist-einzuwandern](https://www.spiegel.de/panorama/leute/schriftstellerin-leila-slimani-vor-allem-politiker-machen-sich-keine-vorstellung-davon-wie-anstrengend-es-ist-einzuwandern-a-490b4309-5608-4c46-abd1-3dfc239202db#ref=rss)
-### migration
-
-* [https://www.spiegel.de/panorama/leute/schriftstellerin-leila-slimani-vor-allem-politiker-machen-sich-keine-vorstellung-davon-wie-anstrengend-es-ist-einzuwandern](https://www.spiegel.de/panorama/leute/schriftstellerin-leila-slimani-vor-allem-politiker-machen-sich-keine-vorstellung-davon-wie-anstrengend-es-ist-einzuwandern-a-490b4309-5608-4c46-abd1-3dfc239202db#ref=rss)
-### leïla
-
-* [https://www.spiegel.de/panorama/leute/schriftstellerin-leila-slimani-vor-allem-politiker-machen-sich-keine-vorstellung-davon-wie-anstrengend-es-ist-einzuwandern](https://www.spiegel.de/panorama/leute/schriftstellerin-leila-slimani-vor-allem-politiker-machen-sich-keine-vorstellung-davon-wie-anstrengend-es-ist-einzuwandern-a-490b4309-5608-4c46-abd1-3dfc239202db#ref=rss)
-### slimani
-
-* [https://www.spiegel.de/panorama/leute/schriftstellerin-leila-slimani-vor-allem-politiker-machen-sich-keine-vorstellung-davon-wie-anstrengend-es-ist-einzuwandern](https://www.spiegel.de/panorama/leute/schriftstellerin-leila-slimani-vor-allem-politiker-machen-sich-keine-vorstellung-davon-wie-anstrengend-es-ist-einzuwandern-a-490b4309-5608-4c46-abd1-3dfc239202db#ref=rss)
-### politiker
-
-* [https://www.spiegel.de/panorama/leute/schriftstellerin-leila-slimani-vor-allem-politiker-machen-sich-keine-vorstellung-davon-wie-anstrengend-es-ist-einzuwandern](https://www.spiegel.de/panorama/leute/schriftstellerin-leila-slimani-vor-allem-politiker-machen-sich-keine-vorstellung-davon-wie-anstrengend-es-ist-einzuwandern-a-490b4309-5608-4c46-abd1-3dfc239202db#ref=rss)
-### punkt
-
-* [https://www.spiegel.de/panorama/leute/schriftstellerin-leila-slimani-vor-allem-politiker-machen-sich-keine-vorstellung-davon-wie-anstrengend-es-ist-einzuwandern](https://www.spiegel.de/panorama/leute/schriftstellerin-leila-slimani-vor-allem-politiker-machen-sich-keine-vorstellung-davon-wie-anstrengend-es-ist-einzuwandern-a-490b4309-5608-4c46-abd1-3dfc239202db#ref=rss)
-### friedensrat
-
-* [https://www.spiegel.de/ausland/friedensrat-fuer-eine-milliarde-dollar-bleibt-man-in-gegen-uno-von-donald-trump-dabei](https://www.spiegel.de/ausland/friedensrat-fuer-eine-milliarde-dollar-bleibt-man-in-gegen-uno-von-donald-trump-dabei-a-7ea60b42-efa6-4abd-9e03-9fbbebbdd4f1#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/friedensrat-fuer-eine-milliarde-dollar-bleibt-man-in-gegen-uno-von-donald-trump-dabei](https://www.spiegel.de/ausland/friedensrat-fuer-eine-milliarde-dollar-bleibt-man-in-gegen-uno-von-donald-trump-dabei-a-7ea60b42-efa6-4abd-9e03-9fbbebbdd4f1#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene](https://www.spiegel.de/ausland/groenland-einwohner-protestieren-gegen-trumps-annexionsplaene-a-8f098498-515b-47e8-b571-9623f1a3ce94#ref=rss)
-### alfred
-
-* [https://www.spiegel.de/sport/handball/handball-em-2026-bundestrainer-alfred-gislason-nach-serbien-niederlage-in-der-kritik](https://www.spiegel.de/sport/handball/handball-em-2026-bundestrainer-alfred-gislason-nach-serbien-niederlage-in-der-kritik-a-731983a9-28e9-43f0-95e4-6b323e5a63c1#ref=rss)
-### gíslason
-
-* [https://www.spiegel.de/sport/handball/handball-em-2026-bundestrainer-alfred-gislason-nach-serbien-niederlage-in-der-kritik](https://www.spiegel.de/sport/handball/handball-em-2026-bundestrainer-alfred-gislason-nach-serbien-niederlage-in-der-kritik-a-731983a9-28e9-43f0-95e4-6b323e5a63c1#ref=rss)
-### paris
-
-* [https://www.spiegel.de/panorama/gaeste-auf-privatparty-fallen-durch-einstuerzenden-fussboden](https://www.spiegel.de/panorama/gaeste-auf-privatparty-fallen-durch-einstuerzenden-fussboden-a-02784158-5153-4dc2-8809-2e885f721183#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/gaeste-auf-privatparty-fallen-durch-einstuerzenden-fussboden](https://www.spiegel.de/panorama/gaeste-auf-privatparty-fallen-durch-einstuerzenden-fussboden-a-02784158-5153-4dc2-8809-2e885f721183#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linnemann-fordert-automatische-behoerden-genehmigungen](https://www.spiegel.de/politik/deutschland/linnemann-fordert-automatische-behoerden-genehmigungen-a-90635969-867d-470a-9f58-84a3f87483a3#ref=rss)
-### medienbericht
-
-* [https://www.spiegel.de/panorama/gaeste-auf-privatparty-fallen-durch-einstuerzenden-fussboden](https://www.spiegel.de/panorama/gaeste-auf-privatparty-fallen-durch-einstuerzenden-fussboden-a-02784158-5153-4dc2-8809-2e885f721183#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linnemann-fordert-automatische-behoerden-genehmigungen](https://www.spiegel.de/politik/deutschland/linnemann-fordert-automatische-behoerden-genehmigungen-a-90635969-867d-470a-9f58-84a3f87483a3#ref=rss)
-### elon
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-und-ryanair-chef-michael-oleary-bezeichnen-sich-gegenseitig-als-idioten](https://www.spiegel.de/wirtschaft/elon-musk-und-ryanair-chef-michael-oleary-bezeichnen-sich-gegenseitig-als-idioten-a-1fa93a4b-e453-49e6-a744-0810ee22aaba#ref=rss)
-### musk
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-und-ryanair-chef-michael-oleary-bezeichnen-sich-gegenseitig-als-idioten](https://www.spiegel.de/wirtschaft/elon-musk-und-ryanair-chef-michael-oleary-bezeichnen-sich-gegenseitig-als-idioten-a-1fa93a4b-e453-49e6-a744-0810ee22aaba#ref=rss)
-### o'leary
-
-* [https://www.spiegel.de/wirtschaft/elon-musk-und-ryanair-chef-michael-oleary-bezeichnen-sich-gegenseitig-als-idioten](https://www.spiegel.de/wirtschaft/elon-musk-und-ryanair-chef-michael-oleary-bezeichnen-sich-gegenseitig-als-idioten-a-1fa93a4b-e453-49e6-a744-0810ee22aaba#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus](https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus-a-6ce14330-363a-4e5e-b035-52edfce3c2b4#ref=rss)
+* [https://www.spiegel.de/auto/e-mobilitaet-bund-foerdert-kauf-von-elektroautos-mit-bis-zu-6000-euro](https://www.spiegel.de/auto/e-mobilitaet-bund-foerdert-kauf-von-elektroautos-mit-bis-zu-6000-euro-a-24d866a7-3386-45c7-ac77-0c1b9b8ef0d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte](https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte-a-c4d244c4-1c0f-4133-b3c9-b9358c53209a#ref=rss)
 ### china
 
-* [https://www.spiegel.de/wirtschaft/china-sichert-sich-weitere-rohstoffquellen](https://www.spiegel.de/wirtschaft/china-sichert-sich-weitere-rohstoffquellen-a-d0e9926b-a4fe-497d-9293-a09d07672228#ref=rss)
-### guinea
+* [https://www.spiegel.de/ausland/china-geburtenrate-faellt-auf-rekord-tief](https://www.spiegel.de/ausland/china-geburtenrate-faellt-auf-rekord-tief-a-cf9c237f-b59a-4963-8998-7a91c77f9e31#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-wirtschaft-waechst-langsamer](https://www.spiegel.de/wirtschaft/china-wirtschaft-waechst-langsamer-a-01ba1cdc-cd27-4ae1-8035-ded16362f55c#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/wirtschaft/china-sichert-sich-weitere-rohstoffquellen](https://www.spiegel.de/wirtschaft/china-sichert-sich-weitere-rohstoffquellen-a-d0e9926b-a4fe-497d-9293-a09d07672228#ref=rss)
-### junge
+* [https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump](https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump-a-0ed99af5-5a8a-486e-9e8e-0db565948270#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-donald-trump-fuehlt-sich-nicht-mehr-dem-frieden-verpflichtet](https://www.spiegel.de/ausland/groenland-donald-trump-fuehlt-sich-nicht-mehr-dem-frieden-verpflichtet-a-2171360f-49e0-43bd-8d24-3d7d86b4bc0b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte](https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte-a-c4d244c4-1c0f-4133-b3c9-b9358c53209a#ref=rss)
+### geld
 
-* [https://www.spiegel.de/panorama/justiz/niedersachsen-unbekannter-loest-fahrrad-schrauben-junge-verletzt-sich-bei-sturz](https://www.spiegel.de/panorama/justiz/niedersachsen-unbekannter-loest-fahrrad-schrauben-junge-verletzt-sich-bei-sturz-a-4b304ed2-3e37-43d1-baaa-31256c83d4a9#ref=rss)
-### verletzt
+* [https://www.spiegel.de/wirtschaft/unternehmen/pimco-anleiheriese-zieht-geld-aus-den-usa-ab](https://www.spiegel.de/wirtschaft/unternehmen/pimco-anleiheriese-zieht-geld-aus-den-usa-ab-a-a4969ecc-f8c2-495d-b0ca-d42f1eb5b096#ref=rss)
+* [https://www.spiegel.de/auto/e-mobilitaet-bund-foerdert-kauf-von-elektroautos-mit-bis-zu-6000-euro](https://www.spiegel.de/auto/e-mobilitaet-bund-foerdert-kauf-von-elektroautos-mit-bis-zu-6000-euro-a-24d866a7-3386-45c7-ac77-0c1b9b8ef0d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-start-ups-erhielten-2025-mehr-geld](https://www.spiegel.de/wirtschaft/deutsche-start-ups-erhielten-2025-mehr-geld-a-bd9f9c1a-6d94-4f82-890e-07cd476a2437#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/panorama/justiz/niedersachsen-unbekannter-loest-fahrrad-schrauben-junge-verletzt-sich-bei-sturz](https://www.spiegel.de/panorama/justiz/niedersachsen-unbekannter-loest-fahrrad-schrauben-junge-verletzt-sich-bei-sturz-a-4b304ed2-3e37-43d1-baaa-31256c83d4a9#ref=rss)
-### sturz
+* [https://www.spiegel.de/kultur/tv/friedhelm-brebeck-ist-tot-ard-reporter-im-alter-von-91-jahren-gestorben](https://www.spiegel.de/kultur/tv/friedhelm-brebeck-ist-tot-ard-reporter-im-alter-von-91-jahren-gestorben-a-d7ac611c-1d43-45a3-98d7-ac59683e4a47#ref=rss)
+* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba](https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba-a-225b98d1-5ec7-4836-a995-4f9881a16d66#ref=rss)
+### wert
 
-* [https://www.spiegel.de/panorama/justiz/niedersachsen-unbekannter-loest-fahrrad-schrauben-junge-verletzt-sich-bei-sturz](https://www.spiegel.de/panorama/justiz/niedersachsen-unbekannter-loest-fahrrad-schrauben-junge-verletzt-sich-bei-sturz-a-4b304ed2-3e37-43d1-baaa-31256c83d4a9#ref=rss)
-### linnemann
+* [https://www.spiegel.de/ausland/china-geburtenrate-faellt-auf-rekord-tief](https://www.spiegel.de/ausland/china-geburtenrate-faellt-auf-rekord-tief-a-cf9c237f-b59a-4963-8998-7a91c77f9e31#ref=rss)
+* [https://www.spiegel.de/sport/fussball/serie-a-niclas-fuellkrug-trifft-als-joker-zum-sieg-fuer-die-ac-mailand](https://www.spiegel.de/sport/fussball/serie-a-niclas-fuellkrug-trifft-als-joker-zum-sieg-fuer-die-ac-mailand-a-0fd93acf-52bd-4fd8-8bee-2770c63876f6#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/linnemann-fordert-automatische-behoerden-genehmigungen](https://www.spiegel.de/politik/deutschland/linnemann-fordert-automatische-behoerden-genehmigungen-a-90635969-867d-470a-9f58-84a3f87483a3#ref=rss)
-### cdugeneralsekretär
+* [https://www.spiegel.de/wirtschaft/e-auto-praemie-laden-muss-sich-lohnen-meinung](https://www.spiegel.de/wirtschaft/e-auto-praemie-laden-muss-sich-lohnen-meinung-a-97388e6b-162a-4184-932a-d3d6ed89b390#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-militaer-plant-neue-offensiven-gegen-russische-truppen](https://www.spiegel.de/ausland/ukraine-militaer-plant-neue-offensiven-gegen-russische-truppen-a-993653a2-e526-4205-bb38-afcd735db2da#ref=rss)
+### zugunglück
 
-* [https://www.spiegel.de/politik/deutschland/linnemann-fordert-automatische-behoerden-genehmigungen](https://www.spiegel.de/politik/deutschland/linnemann-fordert-automatische-behoerden-genehmigungen-a-90635969-867d-470a-9f58-84a3f87483a3#ref=rss)
-### ukraine
+* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba](https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba-a-225b98d1-5ec7-4836-a995-4f9881a16d66#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-zahl-der-toten-nach-zugunglueck-steigt-auf-39](https://www.spiegel.de/panorama/spanien-zahl-der-toten-nach-zugunglueck-steigt-auf-39-a-c624cfb0-0cad-4f8c-85a2-1df78d23f134#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-bei-russischen-angriffen-auf-energieinfrastruktur](https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-bei-russischen-angriffen-auf-energieinfrastruktur-a-7c8062e0-44b6-431b-b4d3-ec57d108873e#ref=rss)
-### tote
+* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba](https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba-a-225b98d1-5ec7-4836-a995-4f9881a16d66#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-zahl-der-toten-nach-zugunglueck-steigt-auf-39](https://www.spiegel.de/panorama/spanien-zahl-der-toten-nach-zugunglueck-steigt-auf-39-a-c624cfb0-0cad-4f8c-85a2-1df78d23f134#ref=rss)
+* [https://www.spiegel.de/ausland/maria-machado-nobelstiftung-stellt-sich-gegen-weitergabe-der-auszeichnung-an-donald-trump](https://www.spiegel.de/ausland/maria-machado-nobelstiftung-stellt-sich-gegen-weitergabe-der-auszeichnung-an-donald-trump-a-9c180c08-45fc-4ffe-bcd4-2b69d35d047b#ref=rss)
+### zahl
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-bei-russischen-angriffen-auf-energieinfrastruktur](https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-bei-russischen-angriffen-auf-energieinfrastruktur-a-7c8062e0-44b6-431b-b4d3-ec57d108873e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-start-ups-erhielten-2025-mehr-geld](https://www.spiegel.de/wirtschaft/deutsche-start-ups-erhielten-2025-mehr-geld-a-bd9f9c1a-6d94-4f82-890e-07cd476a2437#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-zahl-der-toten-nach-zugunglueck-steigt-auf-39](https://www.spiegel.de/panorama/spanien-zahl-der-toten-nach-zugunglueck-steigt-auf-39-a-c624cfb0-0cad-4f8c-85a2-1df78d23f134#ref=rss)
+### artemis
+
+* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-nasa-rollt-raketensystem-fuer-mondmission-zum-startplatz](https://www.spiegel.de/wissenschaft/weltall/artemis-2-nasa-rollt-raketensystem-fuer-mondmission-zum-startplatz-a-1985d003-6fbb-40ff-b59c-336d8ce4740b#ref=rss)
+### 2
+
+* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-nasa-rollt-raketensystem-fuer-mondmission-zum-startplatz](https://www.spiegel.de/wissenschaft/weltall/artemis-2-nasa-rollt-raketensystem-fuer-mondmission-zum-startplatz-a-1985d003-6fbb-40ff-b59c-336d8ce4740b#ref=rss)
+### nasa
+
+* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-nasa-rollt-raketensystem-fuer-mondmission-zum-startplatz](https://www.spiegel.de/wissenschaft/weltall/artemis-2-nasa-rollt-raketensystem-fuer-mondmission-zum-startplatz-a-1985d003-6fbb-40ff-b59c-336d8ce4740b#ref=rss)
+### raketensystem
+
+* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-nasa-rollt-raketensystem-fuer-mondmission-zum-startplatz](https://www.spiegel.de/wissenschaft/weltall/artemis-2-nasa-rollt-raketensystem-fuer-mondmission-zum-startplatz-a-1985d003-6fbb-40ff-b59c-336d8ce4740b#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/wissenschaft/weltall/artemis-2-nasa-rollt-raketensystem-fuer-mondmission-zum-startplatz](https://www.spiegel.de/wissenschaft/weltall/artemis-2-nasa-rollt-raketensystem-fuer-mondmission-zum-startplatz-a-1985d003-6fbb-40ff-b59c-336d8ce4740b#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus](https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus-a-6ce14330-363a-4e5e-b035-52edfce3c2b4#ref=rss)
+### dorothee
+
+* [https://www.spiegel.de/wissenschaft/medizin/frauengesundheit-dorothee-baer-sieht-deutschland-als-entwicklungsland](https://www.spiegel.de/wissenschaft/medizin/frauengesundheit-dorothee-baer-sieht-deutschland-als-entwicklungsland-a-1abb7060-8080-4e9a-84ac-b9881cdaf32a#ref=rss)
+### bär
+
+* [https://www.spiegel.de/wissenschaft/medizin/frauengesundheit-dorothee-baer-sieht-deutschland-als-entwicklungsland](https://www.spiegel.de/wissenschaft/medizin/frauengesundheit-dorothee-baer-sieht-deutschland-als-entwicklungsland-a-1abb7060-8080-4e9a-84ac-b9881cdaf32a#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/wissenschaft/medizin/frauengesundheit-dorothee-baer-sieht-deutschland-als-entwicklungsland](https://www.spiegel.de/wissenschaft/medizin/frauengesundheit-dorothee-baer-sieht-deutschland-als-entwicklungsland-a-1abb7060-8080-4e9a-84ac-b9881cdaf32a#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wissenschaft/medizin/frauengesundheit-dorothee-baer-sieht-deutschland-als-entwicklungsland](https://www.spiegel.de/wissenschaft/medizin/frauengesundheit-dorothee-baer-sieht-deutschland-als-entwicklungsland-a-1abb7060-8080-4e9a-84ac-b9881cdaf32a#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-em-2026-das-muss-deutschland-jetzt-aendern-um-nicht-ganz-frueh-rauszufliegen](https://www.spiegel.de/sport/handball/handball-em-2026-das-muss-deutschland-jetzt-aendern-um-nicht-ganz-frueh-rauszufliegen-a-d722402f-200d-4f57-93e9-7fabde38517d#ref=rss)
+### jens
+
+* [https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump](https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump-a-0ed99af5-5a8a-486e-9e8e-0db565948270#ref=rss)
+### spahn
+
+* [https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump](https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump-a-0ed99af5-5a8a-486e-9e8e-0db565948270#ref=rss)
+### droht
+
+* [https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump](https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump-a-0ed99af5-5a8a-486e-9e8e-0db565948270#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-von-der-leyen-trotzt-trumps-zollankuendigung-mit-solidaritaetsbekundung](https://www.spiegel.de/ausland/groenland-von-der-leyen-trotzt-trumps-zollankuendigung-mit-solidaritaetsbekundung-a-62cdbb64-3bdb-49f3-b65a-538bb592ba50#ref=rss)
+### zöllen
+
+* [https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump](https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump-a-0ed99af5-5a8a-486e-9e8e-0db565948270#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-von-der-leyen-trotzt-trumps-zollankuendigung-mit-solidaritaetsbekundung](https://www.spiegel.de/ausland/groenland-von-der-leyen-trotzt-trumps-zollankuendigung-mit-solidaritaetsbekundung-a-62cdbb64-3bdb-49f3-b65a-538bb592ba50#ref=rss)
+### eu
+
+* [https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump](https://www.spiegel.de/politik/deutschland/zoll-streit-mit-den-usa-jens-spahn-will-besonnene-antwort-auf-donald-trump-a-0ed99af5-5a8a-486e-9e8e-0db565948270#ref=rss)
+* [https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte](https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte-a-c4d244c4-1c0f-4133-b3c9-b9358c53209a#ref=rss)
+### insel
+
+* [https://www.spiegel.de/ausland/groenland-donald-trump-fuehlt-sich-nicht-mehr-dem-frieden-verpflichtet](https://www.spiegel.de/ausland/groenland-donald-trump-fuehlt-sich-nicht-mehr-dem-frieden-verpflichtet-a-2171360f-49e0-43bd-8d24-3d7d86b4bc0b#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-von-der-leyen-trotzt-trumps-zollankuendigung-mit-solidaritaetsbekundung](https://www.spiegel.de/ausland/groenland-von-der-leyen-trotzt-trumps-zollankuendigung-mit-solidaritaetsbekundung-a-62cdbb64-3bdb-49f3-b65a-538bb592ba50#ref=rss)
+### pimco
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/pimco-anleiheriese-zieht-geld-aus-den-usa-ab](https://www.spiegel.de/wirtschaft/unternehmen/pimco-anleiheriese-zieht-geld-aus-den-usa-ab-a-a4969ecc-f8c2-495d-b0ca-d42f1eb5b096#ref=rss)
+### zieht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/pimco-anleiheriese-zieht-geld-aus-den-usa-ab](https://www.spiegel.de/wirtschaft/unternehmen/pimco-anleiheriese-zieht-geld-aus-den-usa-ab-a-a4969ecc-f8c2-495d-b0ca-d42f1eb5b096#ref=rss)
+* [https://www.spiegel.de/kultur/senta-berger-schauspielerin-zieht-sich-bei-lesung-oberschenkelbruch-zu](https://www.spiegel.de/kultur/senta-berger-schauspielerin-zieht-sich-bei-lesung-oberschenkelbruch-zu-a-7a0a39c8-2844-4d3a-bf5c-1be5b178c8cf#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/pimco-anleiheriese-zieht-geld-aus-den-usa-ab](https://www.spiegel.de/wirtschaft/unternehmen/pimco-anleiheriese-zieht-geld-aus-den-usa-ab-a-a4969ecc-f8c2-495d-b0ca-d42f1eb5b096#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-von-der-leyen-trotzt-trumps-zollankuendigung-mit-solidaritaetsbekundung](https://www.spiegel.de/ausland/groenland-von-der-leyen-trotzt-trumps-zollankuendigung-mit-solidaritaetsbekundung-a-62cdbb64-3bdb-49f3-b65a-538bb592ba50#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/pimco-anleiheriese-zieht-geld-aus-den-usa-ab](https://www.spiegel.de/wirtschaft/unternehmen/pimco-anleiheriese-zieht-geld-aus-den-usa-ab-a-a4969ecc-f8c2-495d-b0ca-d42f1eb5b096#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/guatemala-aufstaende-in-mehreren-gefaengnissen-regierung-verhaengt-ausnahmezustand](https://www.spiegel.de/panorama/justiz/guatemala-aufstaende-in-mehreren-gefaengnissen-regierung-verhaengt-ausnahmezustand-a-1ba78760-e588-4f8a-a63d-02e44f69656a#ref=rss)
+### vater
+
+* [https://www.spiegel.de/panorama/untergang-der-arandora-star-mein-vater-der-ueberlebende-einer-tragoedie](https://www.spiegel.de/panorama/untergang-der-arandora-star-mein-vater-der-ueberlebende-einer-tragoedie-a-89a1a8b9-2d7a-4c35-9a10-9fb0e37bd45f#ref=rss)
+### acht
+
+* [https://www.spiegel.de/panorama/untergang-der-arandora-star-mein-vater-der-ueberlebende-einer-tragoedie](https://www.spiegel.de/panorama/untergang-der-arandora-star-mein-vater-der-ueberlebende-einer-tragoedie-a-89a1a8b9-2d7a-4c35-9a10-9fb0e37bd45f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/guatemala-aufstaende-in-mehreren-gefaengnissen-regierung-verhaengt-ausnahmezustand](https://www.spiegel.de/panorama/justiz/guatemala-aufstaende-in-mehreren-gefaengnissen-regierung-verhaengt-ausnahmezustand-a-1ba78760-e588-4f8a-a63d-02e44f69656a#ref=rss)
+### senta
+
+* [https://www.spiegel.de/kultur/senta-berger-schauspielerin-zieht-sich-bei-lesung-oberschenkelbruch-zu](https://www.spiegel.de/kultur/senta-berger-schauspielerin-zieht-sich-bei-lesung-oberschenkelbruch-zu-a-7a0a39c8-2844-4d3a-bf5c-1be5b178c8cf#ref=rss)
+### berger
+
+* [https://www.spiegel.de/kultur/senta-berger-schauspielerin-zieht-sich-bei-lesung-oberschenkelbruch-zu](https://www.spiegel.de/kultur/senta-berger-schauspielerin-zieht-sich-bei-lesung-oberschenkelbruch-zu-a-7a0a39c8-2844-4d3a-bf5c-1be5b178c8cf#ref=rss)
+### lesung
+
+* [https://www.spiegel.de/kultur/senta-berger-schauspielerin-zieht-sich-bei-lesung-oberschenkelbruch-zu](https://www.spiegel.de/kultur/senta-berger-schauspielerin-zieht-sich-bei-lesung-oberschenkelbruch-zu-a-7a0a39c8-2844-4d3a-bf5c-1be5b178c8cf#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/kultur/senta-berger-schauspielerin-zieht-sich-bei-lesung-oberschenkelbruch-zu](https://www.spiegel.de/kultur/senta-berger-schauspielerin-zieht-sich-bei-lesung-oberschenkelbruch-zu-a-7a0a39c8-2844-4d3a-bf5c-1be5b178c8cf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte](https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte-a-c4d244c4-1c0f-4133-b3c9-b9358c53209a#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-bei-russischen-angriffen-auf-energieinfrastruktur](https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-bei-russischen-angriffen-auf-energieinfrastruktur-a-7c8062e0-44b6-431b-b4d3-ec57d108873e#ref=rss)
+* [https://www.spiegel.de/panorama/winter-in-russland-kamtschatka-kaempft-mit-schneemassen](https://www.spiegel.de/panorama/winter-in-russland-kamtschatka-kaempft-mit-schneemassen-a-f9ab972f-efb8-4423-badc-233c51594763#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-militaer-plant-neue-offensiven-gegen-russische-truppen](https://www.spiegel.de/ausland/ukraine-militaer-plant-neue-offensiven-gegen-russische-truppen-a-993653a2-e526-4205-bb38-afcd735db2da#ref=rss)
+### kamtschatka
+
+* [https://www.spiegel.de/panorama/winter-in-russland-kamtschatka-kaempft-mit-schneemassen](https://www.spiegel.de/panorama/winter-in-russland-kamtschatka-kaempft-mit-schneemassen-a-f9ab972f-efb8-4423-badc-233c51594763#ref=rss)
+### schneemassen
+
+* [https://www.spiegel.de/panorama/winter-in-russland-kamtschatka-kaempft-mit-schneemassen](https://www.spiegel.de/panorama/winter-in-russland-kamtschatka-kaempft-mit-schneemassen-a-f9ab972f-efb8-4423-badc-233c51594763#ref=rss)
+### früh
+
+* [https://www.spiegel.de/sport/handball/handball-em-2026-das-muss-deutschland-jetzt-aendern-um-nicht-ganz-frueh-rauszufliegen](https://www.spiegel.de/sport/handball/handball-em-2026-das-muss-deutschland-jetzt-aendern-um-nicht-ganz-frueh-rauszufliegen-a-d722402f-200d-4f57-93e9-7fabde38517d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/demenz-bei-hunden-was-hilft-gegen-das-vergessen](https://www.spiegel.de/wissenschaft/natur/demenz-bei-hunden-was-hilft-gegen-das-vergessen-a-3a4aad70-b454-42aa-b57b-d6b5931fb731#ref=rss)
+### tor
+
+* [https://www.spiegel.de/sport/handball/handball-em-2026-das-muss-deutschland-jetzt-aendern-um-nicht-ganz-frueh-rauszufliegen](https://www.spiegel.de/sport/handball/handball-em-2026-das-muss-deutschland-jetzt-aendern-um-nicht-ganz-frueh-rauszufliegen-a-d722402f-200d-4f57-93e9-7fabde38517d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/serie-a-niclas-fuellkrug-trifft-als-joker-zum-sieg-fuer-die-ac-mailand](https://www.spiegel.de/sport/fussball/serie-a-niclas-fuellkrug-trifft-als-joker-zum-sieg-fuer-die-ac-mailand-a-0fd93acf-52bd-4fd8-8bee-2770c63876f6#ref=rss)
+### friedhelm
+
+* [https://www.spiegel.de/kultur/tv/friedhelm-brebeck-ist-tot-ard-reporter-im-alter-von-91-jahren-gestorben](https://www.spiegel.de/kultur/tv/friedhelm-brebeck-ist-tot-ard-reporter-im-alter-von-91-jahren-gestorben-a-d7ac611c-1d43-45a3-98d7-ac59683e4a47#ref=rss)
+### brebeck
+
+* [https://www.spiegel.de/kultur/tv/friedhelm-brebeck-ist-tot-ard-reporter-im-alter-von-91-jahren-gestorben](https://www.spiegel.de/kultur/tv/friedhelm-brebeck-ist-tot-ard-reporter-im-alter-von-91-jahren-gestorben-a-d7ac611c-1d43-45a3-98d7-ac59683e4a47#ref=rss)
+### alter
+
+* [https://www.spiegel.de/kultur/tv/friedhelm-brebeck-ist-tot-ard-reporter-im-alter-von-91-jahren-gestorben](https://www.spiegel.de/kultur/tv/friedhelm-brebeck-ist-tot-ard-reporter-im-alter-von-91-jahren-gestorben-a-d7ac611c-1d43-45a3-98d7-ac59683e4a47#ref=rss)
+### 91
+
+* [https://www.spiegel.de/kultur/tv/friedhelm-brebeck-ist-tot-ard-reporter-im-alter-von-91-jahren-gestorben](https://www.spiegel.de/kultur/tv/friedhelm-brebeck-ist-tot-ard-reporter-im-alter-von-91-jahren-gestorben-a-d7ac611c-1d43-45a3-98d7-ac59683e4a47#ref=rss)
+### australian
+
+* [https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus](https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus-a-6ce14330-363a-4e5e-b035-52edfce3c2b4#ref=rss)
+### open
+
+* [https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus](https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus-a-6ce14330-363a-4e5e-b035-52edfce3c2b4#ref=rss)
+### daniel
+
+* [https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus](https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus-a-6ce14330-363a-4e5e-b035-52edfce3c2b4#ref=rss)
+### altmaier
+
+* [https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus](https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus-a-6ce14330-363a-4e5e-b035-52edfce3c2b4#ref=rss)
+### tatjana
+
+* [https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus](https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus-a-6ce14330-363a-4e5e-b035-52edfce3c2b4#ref=rss)
+### maria
+
+* [https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus](https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus-a-6ce14330-363a-4e5e-b035-52edfce3c2b4#ref=rss)
+### ella
+
+* [https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus](https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus-a-6ce14330-363a-4e5e-b035-52edfce3c2b4#ref=rss)
+### seidel
+
+* [https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus](https://www.spiegel.de/sport/tennis/australian-open-daniel-altmaier-tatjana-maria-und-ella-seidel-raus-a-6ce14330-363a-4e5e-b035-52edfce3c2b4#ref=rss)
+### geburtenrate
+
+* [https://www.spiegel.de/ausland/china-geburtenrate-faellt-auf-rekord-tief](https://www.spiegel.de/ausland/china-geburtenrate-faellt-auf-rekord-tief-a-cf9c237f-b59a-4963-8998-7a91c77f9e31#ref=rss)
+### fällt
+
+* [https://www.spiegel.de/ausland/china-geburtenrate-faellt-auf-rekord-tief](https://www.spiegel.de/ausland/china-geburtenrate-faellt-auf-rekord-tief-a-cf9c237f-b59a-4963-8998-7a91c77f9e31#ref=rss)
+* [https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte](https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte-a-c4d244c4-1c0f-4133-b3c9-b9358c53209a#ref=rss)
+### dennoch
+
+* [https://www.spiegel.de/ausland/china-geburtenrate-faellt-auf-rekord-tief](https://www.spiegel.de/ausland/china-geburtenrate-faellt-auf-rekord-tief-a-cf9c237f-b59a-4963-8998-7a91c77f9e31#ref=rss)
+* [https://www.spiegel.de/ausland/maria-machado-nobelstiftung-stellt-sich-gegen-weitergabe-der-auszeichnung-an-donald-trump](https://www.spiegel.de/ausland/maria-machado-nobelstiftung-stellt-sich-gegen-weitergabe-der-auszeichnung-an-donald-trump-a-9c180c08-45fc-4ffe-bcd4-2b69d35d047b#ref=rss)
+### erkennen
+
+* [https://www.spiegel.de/ausland/china-geburtenrate-faellt-auf-rekord-tief](https://www.spiegel.de/ausland/china-geburtenrate-faellt-auf-rekord-tief-a-cf9c237f-b59a-4963-8998-7a91c77f9e31#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/demenz-bei-hunden-was-hilft-gegen-das-vergessen](https://www.spiegel.de/wissenschaft/natur/demenz-bei-hunden-was-hilft-gegen-das-vergessen-a-3a4aad70-b454-42aa-b57b-d6b5931fb731#ref=rss)
+### bund
+
+* [https://www.spiegel.de/wirtschaft/e-auto-praemie-laden-muss-sich-lohnen-meinung](https://www.spiegel.de/wirtschaft/e-auto-praemie-laden-muss-sich-lohnen-meinung-a-97388e6b-162a-4184-932a-d3d6ed89b390#ref=rss)
+* [https://www.spiegel.de/auto/e-mobilitaet-bund-foerdert-kauf-von-elektroautos-mit-bis-zu-6000-euro](https://www.spiegel.de/auto/e-mobilitaet-bund-foerdert-kauf-von-elektroautos-mit-bis-zu-6000-euro-a-24d866a7-3386-45c7-ac77-0c1b9b8ef0d0#ref=rss)
+### elektroautos
+
+* [https://www.spiegel.de/wirtschaft/e-auto-praemie-laden-muss-sich-lohnen-meinung](https://www.spiegel.de/wirtschaft/e-auto-praemie-laden-muss-sich-lohnen-meinung-a-97388e6b-162a-4184-932a-d3d6ed89b390#ref=rss)
+* [https://www.spiegel.de/auto/e-mobilitaet-bund-foerdert-kauf-von-elektroautos-mit-bis-zu-6000-euro](https://www.spiegel.de/auto/e-mobilitaet-bund-foerdert-kauf-von-elektroautos-mit-bis-zu-6000-euro-a-24d866a7-3386-45c7-ac77-0c1b9b8ef0d0#ref=rss)
+### essen
+
+* [https://www.spiegel.de/panorama/a42-bei-essen-26-fahrzeuge-kollidieren-auf-glatter-fahrbahn-19-verletzte](https://www.spiegel.de/panorama/a42-bei-essen-26-fahrzeuge-kollidieren-auf-glatter-fahrbahn-19-verletzte-a-64eda4d9-2add-462f-8348-fa52a4efce6b#ref=rss)
+### glatter
+
+* [https://www.spiegel.de/panorama/a42-bei-essen-26-fahrzeuge-kollidieren-auf-glatter-fahrbahn-19-verletzte](https://www.spiegel.de/panorama/a42-bei-essen-26-fahrzeuge-kollidieren-auf-glatter-fahrbahn-19-verletzte-a-64eda4d9-2add-462f-8348-fa52a4efce6b#ref=rss)
+### fahrbahn
+
+* [https://www.spiegel.de/panorama/a42-bei-essen-26-fahrzeuge-kollidieren-auf-glatter-fahrbahn-19-verletzte](https://www.spiegel.de/panorama/a42-bei-essen-26-fahrzeuge-kollidieren-auf-glatter-fahrbahn-19-verletzte-a-64eda4d9-2add-462f-8348-fa52a4efce6b#ref=rss)
+### knapp
+
+* [https://www.spiegel.de/panorama/a42-bei-essen-26-fahrzeuge-kollidieren-auf-glatter-fahrbahn-19-verletzte](https://www.spiegel.de/panorama/a42-bei-essen-26-fahrzeuge-kollidieren-auf-glatter-fahrbahn-19-verletzte-a-64eda4d9-2add-462f-8348-fa52a4efce6b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-wirtschaft-waechst-langsamer](https://www.spiegel.de/wirtschaft/china-wirtschaft-waechst-langsamer-a-01ba1cdc-cd27-4ae1-8035-ded16362f55c#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba](https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba-a-225b98d1-5ec7-4836-a995-4f9881a16d66#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-zahl-der-toten-nach-zugunglueck-steigt-auf-39](https://www.spiegel.de/panorama/spanien-zahl-der-toten-nach-zugunglueck-steigt-auf-39-a-c624cfb0-0cad-4f8c-85a2-1df78d23f134#ref=rss)
+### videos
+
+* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba](https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba-a-225b98d1-5ec7-4836-a995-4f9881a16d66#ref=rss)
+### ausmaß
+
+* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba](https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba-a-225b98d1-5ec7-4836-a995-4f9881a16d66#ref=rss)
+### zerstörung
+
+* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba](https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba-a-225b98d1-5ec7-4836-a995-4f9881a16d66#ref=rss)
+### córdoba
+
+* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba](https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba-a-225b98d1-5ec7-4836-a995-4f9881a16d66#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba](https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba-a-225b98d1-5ec7-4836-a995-4f9881a16d66#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/guatemala-aufstaende-in-mehreren-gefaengnissen-regierung-verhaengt-ausnahmezustand](https://www.spiegel.de/panorama/justiz/guatemala-aufstaende-in-mehreren-gefaengnissen-regierung-verhaengt-ausnahmezustand-a-1ba78760-e588-4f8a-a63d-02e44f69656a#ref=rss)
+### 39
+
+* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba](https://www.spiegel.de/ausland/zugunglueck-in-spanien-videos-zeigen-ausmass-der-zerstoerung-in-cordoba-a-225b98d1-5ec7-4836-a995-4f9881a16d66#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-zahl-der-toten-nach-zugunglueck-steigt-auf-39](https://www.spiegel.de/panorama/spanien-zahl-der-toten-nach-zugunglueck-steigt-auf-39-a-c624cfb0-0cad-4f8c-85a2-1df78d23f134#ref=rss)
+### euro
+
+* [https://www.spiegel.de/auto/e-mobilitaet-bund-foerdert-kauf-von-elektroautos-mit-bis-zu-6000-euro](https://www.spiegel.de/auto/e-mobilitaet-bund-foerdert-kauf-von-elektroautos-mit-bis-zu-6000-euro-a-24d866a7-3386-45c7-ac77-0c1b9b8ef0d0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/serie-a-niclas-fuellkrug-trifft-als-joker-zum-sieg-fuer-die-ac-mailand](https://www.spiegel.de/sport/fussball/serie-a-niclas-fuellkrug-trifft-als-joker-zum-sieg-fuer-die-ac-mailand-a-0fd93acf-52bd-4fd8-8bee-2770c63876f6#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/auto/e-mobilitaet-bund-foerdert-kauf-von-elektroautos-mit-bis-zu-6000-euro](https://www.spiegel.de/auto/e-mobilitaet-bund-foerdert-kauf-von-elektroautos-mit-bis-zu-6000-euro-a-24d866a7-3386-45c7-ac77-0c1b9b8ef0d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bausparvertrag-diese-rechnung-zeigt-wie-sie-abgezockt-werden](https://www.spiegel.de/wirtschaft/bausparvertrag-diese-rechnung-zeigt-wie-sie-abgezockt-werden-a-59a5056f-e9e2-4730-abfb-975af09a57ac#ref=rss)
+### dax
+
+* [https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte](https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte-a-c4d244c4-1c0f-4133-b3c9-b9358c53209a#ref=rss)
+### allem
+
+* [https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte](https://www.spiegel.de/wirtschaft/dax-trump-zolldrohungen-druecken-deutschen-leitindex-unter-25-000-punkte-a-c4d244c4-1c0f-4133-b3c9-b9358c53209a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-start-ups-erhielten-2025-mehr-geld](https://www.spiegel.de/wirtschaft/deutsche-start-ups-erhielten-2025-mehr-geld-a-bd9f9c1a-6d94-4f82-890e-07cd476a2437#ref=rss)
+### green
+
+* [https://www.spiegel.de/panorama/leute/green-day-eroeffnet-superbowl-show](https://www.spiegel.de/panorama/leute/green-day-eroeffnet-superbowl-show-a-31bc33b2-7ba5-4d1f-be86-3f78bf6667c4#ref=rss)
+### day
+
+* [https://www.spiegel.de/panorama/leute/green-day-eroeffnet-superbowl-show](https://www.spiegel.de/panorama/leute/green-day-eroeffnet-superbowl-show-a-31bc33b2-7ba5-4d1f-be86-3f78bf6667c4#ref=rss)
+### wir
+
+* [https://www.spiegel.de/panorama/leute/green-day-eroeffnet-superbowl-show](https://www.spiegel.de/panorama/leute/green-day-eroeffnet-superbowl-show-a-31bc33b2-7ba5-4d1f-be86-3f78bf6667c4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/guatemala-aufstaende-in-mehreren-gefaengnissen-regierung-verhaengt-ausnahmezustand](https://www.spiegel.de/panorama/justiz/guatemala-aufstaende-in-mehreren-gefaengnissen-regierung-verhaengt-ausnahmezustand-a-1ba78760-e588-4f8a-a63d-02e44f69656a#ref=rss)
+### zuvor
+
+* [https://www.spiegel.de/panorama/leute/green-day-eroeffnet-superbowl-show](https://www.spiegel.de/panorama/leute/green-day-eroeffnet-superbowl-show-a-31bc33b2-7ba5-4d1f-be86-3f78bf6667c4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/guatemala-aufstaende-in-mehreren-gefaengnissen-regierung-verhaengt-ausnahmezustand](https://www.spiegel.de/panorama/justiz/guatemala-aufstaende-in-mehreren-gefaengnissen-regierung-verhaengt-ausnahmezustand-a-1ba78760-e588-4f8a-a63d-02e44f69656a#ref=rss)
+### wächst
+
+* [https://www.spiegel.de/wirtschaft/deutsche-start-ups-erhielten-2025-mehr-geld](https://www.spiegel.de/wirtschaft/deutsche-start-ups-erhielten-2025-mehr-geld-a-bd9f9c1a-6d94-4f82-890e-07cd476a2437#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-wirtschaft-waechst-langsamer](https://www.spiegel.de/wirtschaft/china-wirtschaft-waechst-langsamer-a-01ba1cdc-cd27-4ae1-8035-ded16362f55c#ref=rss)
+### bausparvertrag
+
+* [https://www.spiegel.de/wirtschaft/bausparvertrag-diese-rechnung-zeigt-wie-sie-abgezockt-werden](https://www.spiegel.de/wirtschaft/bausparvertrag-diese-rechnung-zeigt-wie-sie-abgezockt-werden-a-59a5056f-e9e2-4730-abfb-975af09a57ac#ref=rss)
+### vielen
+
+* [https://www.spiegel.de/wirtschaft/bausparvertrag-diese-rechnung-zeigt-wie-sie-abgezockt-werden](https://www.spiegel.de/wirtschaft/bausparvertrag-diese-rechnung-zeigt-wie-sie-abgezockt-werden-a-59a5056f-e9e2-4730-abfb-975af09a57ac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mietpreise-steigen-im-vierten-quartal-doppelt-so-stark-wie-inflation](https://www.spiegel.de/wirtschaft/mietpreise-steigen-im-vierten-quartal-doppelt-so-stark-wie-inflation-a-f27fa3e9-1344-4358-9438-c1facc9855a7#ref=rss)
+### mieten
+
+* [https://www.spiegel.de/wirtschaft/mietpreise-steigen-im-vierten-quartal-doppelt-so-stark-wie-inflation](https://www.spiegel.de/wirtschaft/mietpreise-steigen-im-vierten-quartal-doppelt-so-stark-wie-inflation-a-f27fa3e9-1344-4358-9438-c1facc9855a7#ref=rss)
+### steigen
+
+* [https://www.spiegel.de/wirtschaft/mietpreise-steigen-im-vierten-quartal-doppelt-so-stark-wie-inflation](https://www.spiegel.de/wirtschaft/mietpreise-steigen-im-vierten-quartal-doppelt-so-stark-wie-inflation-a-f27fa3e9-1344-4358-9438-c1facc9855a7#ref=rss)
+### quartal
+
+* [https://www.spiegel.de/wirtschaft/mietpreise-steigen-im-vierten-quartal-doppelt-so-stark-wie-inflation](https://www.spiegel.de/wirtschaft/mietpreise-steigen-im-vierten-quartal-doppelt-so-stark-wie-inflation-a-f27fa3e9-1344-4358-9438-c1facc9855a7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/china-wirtschaft-waechst-langsamer](https://www.spiegel.de/wirtschaft/china-wirtschaft-waechst-langsamer-a-01ba1cdc-cd27-4ae1-8035-ded16362f55c#ref=rss)
+### leyen
+
+* [https://www.spiegel.de/ausland/groenland-von-der-leyen-trotzt-trumps-zollankuendigung-mit-solidaritaetsbekundung](https://www.spiegel.de/ausland/groenland-von-der-leyen-trotzt-trumps-zollankuendigung-mit-solidaritaetsbekundung-a-62cdbb64-3bdb-49f3-b65a-538bb592ba50#ref=rss)
+### guatemala
+
+* [https://www.spiegel.de/panorama/justiz/guatemala-aufstaende-in-mehreren-gefaengnissen-regierung-verhaengt-ausnahmezustand](https://www.spiegel.de/panorama/justiz/guatemala-aufstaende-in-mehreren-gefaengnissen-regierung-verhaengt-ausnahmezustand-a-1ba78760-e588-4f8a-a63d-02e44f69656a#ref=rss)
+### niclas
+
+* [https://www.spiegel.de/sport/fussball/serie-a-niclas-fuellkrug-trifft-als-joker-zum-sieg-fuer-die-ac-mailand](https://www.spiegel.de/sport/fussball/serie-a-niclas-fuellkrug-trifft-als-joker-zum-sieg-fuer-die-ac-mailand-a-0fd93acf-52bd-4fd8-8bee-2770c63876f6#ref=rss)
+### füllkrug
+
+* [https://www.spiegel.de/sport/fussball/serie-a-niclas-fuellkrug-trifft-als-joker-zum-sieg-fuer-die-ac-mailand](https://www.spiegel.de/sport/fussball/serie-a-niclas-fuellkrug-trifft-als-joker-zum-sieg-fuer-die-ac-mailand-a-0fd93acf-52bd-4fd8-8bee-2770c63876f6#ref=rss)
+### ac
+
+* [https://www.spiegel.de/sport/fussball/serie-a-niclas-fuellkrug-trifft-als-joker-zum-sieg-fuer-die-ac-mailand](https://www.spiegel.de/sport/fussball/serie-a-niclas-fuellkrug-trifft-als-joker-zum-sieg-fuer-die-ac-mailand-a-0fd93acf-52bd-4fd8-8bee-2770c63876f6#ref=rss)
+### mailand
+
+* [https://www.spiegel.de/sport/fussball/serie-a-niclas-fuellkrug-trifft-als-joker-zum-sieg-fuer-die-ac-mailand](https://www.spiegel.de/sport/fussball/serie-a-niclas-fuellkrug-trifft-als-joker-zum-sieg-fuer-die-ac-mailand-a-0fd93acf-52bd-4fd8-8bee-2770c63876f6#ref=rss)
+### maría
+
+* [https://www.spiegel.de/ausland/maria-machado-nobelstiftung-stellt-sich-gegen-weitergabe-der-auszeichnung-an-donald-trump](https://www.spiegel.de/ausland/maria-machado-nobelstiftung-stellt-sich-gegen-weitergabe-der-auszeichnung-an-donald-trump-a-9c180c08-45fc-4ffe-bcd4-2b69d35d047b#ref=rss)
+### machado
+
+* [https://www.spiegel.de/ausland/maria-machado-nobelstiftung-stellt-sich-gegen-weitergabe-der-auszeichnung-an-donald-trump](https://www.spiegel.de/ausland/maria-machado-nobelstiftung-stellt-sich-gegen-weitergabe-der-auszeichnung-an-donald-trump-a-9c180c08-45fc-4ffe-bcd4-2b69d35d047b#ref=rss)
+### demenz
+
+* [https://www.spiegel.de/wissenschaft/natur/demenz-bei-hunden-was-hilft-gegen-das-vergessen](https://www.spiegel.de/wissenschaft/natur/demenz-bei-hunden-was-hilft-gegen-das-vergessen-a-3a4aad70-b454-42aa-b57b-d6b5931fb731#ref=rss)
+### kollegen
+
+* [https://www.spiegel.de/karriere/typologie-der-nervigen-kollegen-vorsicht-vor-leuten](https://www.spiegel.de/karriere/typologie-der-nervigen-kollegen-vorsicht-vor-leuten-a-3ece73f8-eeae-4d6d-893f-d615cd2ff010#ref=rss)
 
