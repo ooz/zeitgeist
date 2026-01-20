@@ -4,344 +4,346 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### donald
-
-* [https://www.spiegel.de/kultur/musik/bad-bunny-und-der-trailer-fuer-die-super-bowl-halbzeitshow-tanzt-mit-oder-lasst-es](https://www.spiegel.de/kultur/musik/bad-bunny-und-der-trailer-fuer-die-super-bowl-halbzeitshow-tanzt-mit-oder-lasst-es-a-1fc0a677-417f-4640-b103-1d6a27f6265d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elektroautos-donald-trump-in-davos-zugunglueck-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-elektroautos-donald-trump-in-davos-zugunglueck-in-spanien-a-940c4289-cf06-4f42-8f41-e563a752b348#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/streit-mit-donald-trump-die-doppelte-botschaft-des-kanzlers](https://www.spiegel.de/politik/deutschland/streit-mit-donald-trump-die-doppelte-botschaft-des-kanzlers-a-f508d23e-4442-4f79-89f6-79eed0d2d3a1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung](https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung-a-1579b083-333b-4e59-b29a-19a66df38b5a#ref=rss)
-* [https://www.spiegel.de/ausland/gerrymandering-donald-trump-droht-rodric-bray-wegen-wahlkreisreform](https://www.spiegel.de/ausland/gerrymandering-donald-trump-droht-rodric-bray-wegen-wahlkreisreform-a-67f7e640-3541-45df-bfc4-373f7fd1e75b#ref=rss)
-* [https://www.spiegel.de/kultur/musik/bruce-springsteen-legt-sich-erneut-mit-donald-trump-an-ice-soll-sich-aus-minneapolis-verpissen](https://www.spiegel.de/kultur/musik/bruce-springsteen-legt-sich-erneut-mit-donald-trump-an-ice-soll-sich-aus-minneapolis-verpissen-a-a0eca55b-f675-4a86-9dde-207a64683d9f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-spd-wirft-cdu-csu-fraktionschef-sympathien-fuer-donald-trump-vor](https://www.spiegel.de/politik/deutschland/jens-spahn-spd-wirft-cdu-csu-fraktionschef-sympathien-fuer-donald-trump-vor-a-f9fece8a-d5fd-453b-90c4-ef13efdee22e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-beim-weltwirtschaftsforum-in-davos-buckeln-bosse](https://www.spiegel.de/wirtschaft/soziales/donald-trump-beim-weltwirtschaftsforum-in-davos-buckeln-bosse-a-a515a2af-4b9b-48fb-b9db-9d071ce9651b#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/kultur/musik/bad-bunny-und-der-trailer-fuer-die-super-bowl-halbzeitshow-tanzt-mit-oder-lasst-es](https://www.spiegel.de/kultur/musik/bad-bunny-und-der-trailer-fuer-die-super-bowl-halbzeitshow-tanzt-mit-oder-lasst-es-a-1fc0a677-417f-4640-b103-1d6a27f6265d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elektroautos-donald-trump-in-davos-zugunglueck-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-elektroautos-donald-trump-in-davos-zugunglueck-in-spanien-a-940c4289-cf06-4f42-8f41-e563a752b348#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/streit-mit-donald-trump-die-doppelte-botschaft-des-kanzlers](https://www.spiegel.de/politik/deutschland/streit-mit-donald-trump-die-doppelte-botschaft-des-kanzlers-a-f508d23e-4442-4f79-89f6-79eed0d2d3a1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung](https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung-a-1579b083-333b-4e59-b29a-19a66df38b5a#ref=rss)
-* [https://www.spiegel.de/ausland/gerrymandering-donald-trump-droht-rodric-bray-wegen-wahlkreisreform](https://www.spiegel.de/ausland/gerrymandering-donald-trump-droht-rodric-bray-wegen-wahlkreisreform-a-67f7e640-3541-45df-bfc4-373f7fd1e75b#ref=rss)
-* [https://www.spiegel.de/kultur/musik/bruce-springsteen-legt-sich-erneut-mit-donald-trump-an-ice-soll-sich-aus-minneapolis-verpissen](https://www.spiegel.de/kultur/musik/bruce-springsteen-legt-sich-erneut-mit-donald-trump-an-ice-soll-sich-aus-minneapolis-verpissen-a-a0eca55b-f675-4a86-9dde-207a64683d9f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-spd-wirft-cdu-csu-fraktionschef-sympathien-fuer-donald-trump-vor](https://www.spiegel.de/politik/deutschland/jens-spahn-spd-wirft-cdu-csu-fraktionschef-sympathien-fuer-donald-trump-vor-a-f9fece8a-d5fd-453b-90c4-ef13efdee22e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-beim-weltwirtschaftsforum-in-davos-buckeln-bosse](https://www.spiegel.de/wirtschaft/soziales/donald-trump-beim-weltwirtschaftsforum-in-davos-buckeln-bosse-a-a515a2af-4b9b-48fb-b9db-9d071ce9651b#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/donald-trump-die-neue-wirklichkeit-des-us-praesidenten-und-wie-man-sie-durchbricht](https://www.spiegel.de/ausland/donald-trump-die-neue-wirklichkeit-des-us-praesidenten-und-wie-man-sie-durchbricht-a-0a28ff75-fb91-47eb-9414-b40ca0a159c9#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus](https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus-a-1a986f9b-1307-423f-b16c-9b1a8072e320#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen](https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen-a-b8aba24a-e528-4172-9440-799f7858756f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein](https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein-a-2ee85b07-072c-48aa-af9d-5a054577976d#ref=rss)
+* [https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein](https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein-a-34594f25-2030-4350-b473-c7aebde57256#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/nigeria-bewaffnete-entfuehren-mehr-als-150-christen-in-kaduna](https://www.spiegel.de/ausland/nigeria-bewaffnete-entfuehren-mehr-als-150-christen-in-kaduna-a-9c1befca-a02c-4270-929a-24f274233114#ref=rss)
-* [https://www.spiegel.de/karriere/gehaltsverhandlungen-zu-zweit-mehr-gehalt-fordern-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/gehaltsverhandlungen-zu-zweit-mehr-gehalt-fordern-tipps-vom-karrierecoach-a-8af0eb4b-f415-4cf8-b064-7ef1d1adaef6#ref=rss)
-### menschen
+* [https://www.spiegel.de/ausland/donald-trump-die-neue-wirklichkeit-des-us-praesidenten-und-wie-man-sie-durchbricht](https://www.spiegel.de/ausland/donald-trump-die-neue-wirklichkeit-des-us-praesidenten-und-wie-man-sie-durchbricht-a-0a28ff75-fb91-47eb-9414-b40ca0a159c9#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus](https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus-a-1a986f9b-1307-423f-b16c-9b1a8072e320#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen](https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen-a-b8aba24a-e528-4172-9440-799f7858756f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein](https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein-a-2ee85b07-072c-48aa-af9d-5a054577976d#ref=rss)
+* [https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein](https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein-a-34594f25-2030-4350-b473-c7aebde57256#ref=rss)
+### macron
 
-* [https://www.spiegel.de/ausland/nigeria-bewaffnete-entfuehren-mehr-als-150-christen-in-kaduna](https://www.spiegel.de/ausland/nigeria-bewaffnete-entfuehren-mehr-als-150-christen-in-kaduna-a-9c1befca-a02c-4270-929a-24f274233114#ref=rss)
-* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-augenzeugen-schildern-schreckliche-szenen](https://www.spiegel.de/ausland/zugunglueck-in-spanien-augenzeugen-schildern-schreckliche-szenen-a-144810e4-84a6-41c2-abd3-d292ae332116#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/freisprueche-nach-zugunglueck-in-garmisch-partenkirchen-harsche-kritik-am-system-deutsche-bahn](https://www.spiegel.de/panorama/justiz/freisprueche-nach-zugunglueck-in-garmisch-partenkirchen-harsche-kritik-am-system-deutsche-bahn-a-839adcf6-2e02-4dc6-8ed8-2984b5174872#ref=rss)
-* [https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie](https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie-a-55641f2d-f371-4ef7-a2ee-389077b2ce1c#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-augenzeugen-schildern-schreckliche-szenen](https://www.spiegel.de/ausland/zugunglueck-in-spanien-augenzeugen-schildern-schreckliche-szenen-a-144810e4-84a6-41c2-abd3-d292ae332116#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elektroautos-donald-trump-in-davos-zugunglueck-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-elektroautos-donald-trump-in-davos-zugunglueck-in-spanien-a-940c4289-cf06-4f42-8f41-e563a752b348#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/politik/deutschland/streit-mit-donald-trump-die-doppelte-botschaft-des-kanzlers](https://www.spiegel.de/politik/deutschland/streit-mit-donald-trump-die-doppelte-botschaft-des-kanzlers-a-f508d23e-4442-4f79-89f6-79eed0d2d3a1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung](https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung-a-1579b083-333b-4e59-b29a-19a66df38b5a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-spd-wirft-cdu-csu-fraktionschef-sympathien-fuer-donald-trump-vor](https://www.spiegel.de/politik/deutschland/jens-spahn-spd-wirft-cdu-csu-fraktionschef-sympathien-fuer-donald-trump-vor-a-f9fece8a-d5fd-453b-90c4-ef13efdee22e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-beim-weltwirtschaftsforum-in-davos-buckeln-bosse](https://www.spiegel.de/wirtschaft/soziales/donald-trump-beim-weltwirtschaftsforum-in-davos-buckeln-bosse-a-a515a2af-4b9b-48fb-b9db-9d071ce9651b#ref=rss)
-### zugunglück
-
-* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-augenzeugen-schildern-schreckliche-szenen](https://www.spiegel.de/ausland/zugunglueck-in-spanien-augenzeugen-schildern-schreckliche-szenen-a-144810e4-84a6-41c2-abd3-d292ae332116#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/freisprueche-nach-zugunglueck-in-garmisch-partenkirchen-harsche-kritik-am-system-deutsche-bahn](https://www.spiegel.de/panorama/justiz/freisprueche-nach-zugunglueck-in-garmisch-partenkirchen-harsche-kritik-am-system-deutsche-bahn-a-839adcf6-2e02-4dc6-8ed8-2984b5174872#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elektroautos-donald-trump-in-davos-zugunglueck-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-elektroautos-donald-trump-in-davos-zugunglueck-in-spanien-a-940c4289-cf06-4f42-8f41-e563a752b348#ref=rss)
-### neue
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie](https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie-a-55641f2d-f371-4ef7-a2ee-389077b2ce1c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung](https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung-a-1579b083-333b-4e59-b29a-19a66df38b5a#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie](https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie-a-55641f2d-f371-4ef7-a2ee-389077b2ce1c#ref=rss)
-* [https://www.spiegel.de/start/berufseinstieg-unternehmen-setzen-in-der-krise-auf-ki-kompetenzen](https://www.spiegel.de/start/berufseinstieg-unternehmen-setzen-in-der-krise-auf-ki-kompetenzen-a-20a46a43-5d5a-4a53-8dc3-903db6fe8063#ref=rss)
-* [https://www.spiegel.de/panorama/katholische-kirche-georg-baetzing-gibt-vorsitz-von-deutscher-bischofskonferenz-ab](https://www.spiegel.de/panorama/katholische-kirche-georg-baetzing-gibt-vorsitz-von-deutscher-bischofskonferenz-ab-a-f623306f-61ba-414c-a63c-270599b51760#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elektroautos-donald-trump-in-davos-zugunglueck-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-elektroautos-donald-trump-in-davos-zugunglueck-in-spanien-a-940c4289-cf06-4f42-8f41-e563a752b348#ref=rss)
-* [https://www.spiegel.de/kultur/tv/usa-cbs-news-sendet-trump-kritischen-bericht-ueber-abschiebegefaengnis-nun-doch-allerdings-mit-aenderungen](https://www.spiegel.de/kultur/tv/usa-cbs-news-sendet-trump-kritischen-bericht-ueber-abschiebegefaengnis-nun-doch-allerdings-mit-aenderungen-a-5ef84468-584b-4f2c-9f0e-536c7386f0e2#ref=rss)
-### davos
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elektroautos-donald-trump-in-davos-zugunglueck-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-elektroautos-donald-trump-in-davos-zugunglueck-in-spanien-a-940c4289-cf06-4f42-8f41-e563a752b348#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-beim-weltwirtschaftsforum-in-davos-buckeln-bosse](https://www.spiegel.de/wirtschaft/soziales/donald-trump-beim-weltwirtschaftsforum-in-davos-buckeln-bosse-a-a515a2af-4b9b-48fb-b9db-9d071ce9651b#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung](https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung-a-1579b083-333b-4e59-b29a-19a66df38b5a#ref=rss)
-* [https://www.spiegel.de/panorama/katholische-kirche-georg-baetzing-gibt-vorsitz-von-deutscher-bischofskonferenz-ab](https://www.spiegel.de/panorama/katholische-kirche-georg-baetzing-gibt-vorsitz-von-deutscher-bischofskonferenz-ab-a-f623306f-61ba-414c-a63c-270599b51760#ref=rss)
-### nigeria
-
-* [https://www.spiegel.de/ausland/nigeria-bewaffnete-entfuehren-mehr-als-150-christen-in-kaduna](https://www.spiegel.de/ausland/nigeria-bewaffnete-entfuehren-mehr-als-150-christen-in-kaduna-a-9c1befca-a02c-4270-929a-24f274233114#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/nigeria-bewaffnete-entfuehren-mehr-als-150-christen-in-kaduna](https://www.spiegel.de/ausland/nigeria-bewaffnete-entfuehren-mehr-als-150-christen-in-kaduna-a-9c1befca-a02c-4270-929a-24f274233114#ref=rss)
-* [https://www.spiegel.de/kultur/musik/bruce-springsteen-legt-sich-erneut-mit-donald-trump-an-ice-soll-sich-aus-minneapolis-verpissen](https://www.spiegel.de/kultur/musik/bruce-springsteen-legt-sich-erneut-mit-donald-trump-an-ice-soll-sich-aus-minneapolis-verpissen-a-a0eca55b-f675-4a86-9dde-207a64683d9f#ref=rss)
-### szenen
-
-* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-augenzeugen-schildern-schreckliche-szenen](https://www.spiegel.de/ausland/zugunglueck-in-spanien-augenzeugen-schildern-schreckliche-szenen-a-144810e4-84a6-41c2-abd3-d292ae332116#ref=rss)
-### geleistet
-
-* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-augenzeugen-schildern-schreckliche-szenen](https://www.spiegel.de/ausland/zugunglueck-in-spanien-augenzeugen-schildern-schreckliche-szenen-a-144810e4-84a6-41c2-abd3-d292ae332116#ref=rss)
-* [https://www.spiegel.de/karriere/gehaltsverhandlungen-zu-zweit-mehr-gehalt-fordern-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/gehaltsverhandlungen-zu-zweit-mehr-gehalt-fordern-tipps-vom-karrierecoach-a-8af0eb4b-f415-4cf8-b064-7ef1d1adaef6#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/panorama/justiz/freisprueche-nach-zugunglueck-in-garmisch-partenkirchen-harsche-kritik-am-system-deutsche-bahn](https://www.spiegel.de/panorama/justiz/freisprueche-nach-zugunglueck-in-garmisch-partenkirchen-harsche-kritik-am-system-deutsche-bahn-a-839adcf6-2e02-4dc6-8ed8-2984b5174872#ref=rss)
-* [https://www.spiegel.de/kultur/musik/bruce-springsteen-legt-sich-erneut-mit-donald-trump-an-ice-soll-sich-aus-minneapolis-verpissen](https://www.spiegel.de/kultur/musik/bruce-springsteen-legt-sich-erneut-mit-donald-trump-an-ice-soll-sich-aus-minneapolis-verpissen-a-a0eca55b-f675-4a86-9dde-207a64683d9f#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/justiz/freisprueche-nach-zugunglueck-in-garmisch-partenkirchen-harsche-kritik-am-system-deutsche-bahn](https://www.spiegel.de/panorama/justiz/freisprueche-nach-zugunglueck-in-garmisch-partenkirchen-harsche-kritik-am-system-deutsche-bahn-a-839adcf6-2e02-4dc6-8ed8-2984b5174872#ref=rss)
-* [https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung](https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung-a-1579b083-333b-4e59-b29a-19a66df38b5a#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/panorama/justiz/freisprueche-nach-zugunglueck-in-garmisch-partenkirchen-harsche-kritik-am-system-deutsche-bahn](https://www.spiegel.de/panorama/justiz/freisprueche-nach-zugunglueck-in-garmisch-partenkirchen-harsche-kritik-am-system-deutsche-bahn-a-839adcf6-2e02-4dc6-8ed8-2984b5174872#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-harry-gegen-die-daily-mail-darum-geht-es-in-dem-prozess-in-london](https://www.spiegel.de/panorama/leute/prinz-harry-gegen-die-daily-mail-darum-geht-es-in-dem-prozess-in-london-a-e1d1e4b7-b9f9-4efb-9f4c-75a6fd8f62ad#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/freisprueche-nach-zugunglueck-in-garmisch-partenkirchen-harsche-kritik-am-system-deutsche-bahn](https://www.spiegel.de/panorama/justiz/freisprueche-nach-zugunglueck-in-garmisch-partenkirchen-harsche-kritik-am-system-deutsche-bahn-a-839adcf6-2e02-4dc6-8ed8-2984b5174872#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elektroautos-donald-trump-in-davos-zugunglueck-in-spanien](https://www.spiegel.de/politik/deutschland/news-des-tages-elektroautos-donald-trump-in-davos-zugunglueck-in-spanien-a-940c4289-cf06-4f42-8f41-e563a752b348#ref=rss)
-### marokko
-
-* [https://www.spiegel.de/sport/fussball/afrika-cup-marokko-kuendigt-rechtliche-schritte-bei-fifa-und-caf-an](https://www.spiegel.de/sport/fussball/afrika-cup-marokko-kuendigt-rechtliche-schritte-bei-fifa-und-caf-an-a-734a11da-a7d5-462f-b63f-813894ece09e#ref=rss)
-### rechtliche
-
-* [https://www.spiegel.de/sport/fussball/afrika-cup-marokko-kuendigt-rechtliche-schritte-bei-fifa-und-caf-an](https://www.spiegel.de/sport/fussball/afrika-cup-marokko-kuendigt-rechtliche-schritte-bei-fifa-und-caf-an-a-734a11da-a7d5-462f-b63f-813894ece09e#ref=rss)
-### schritte
-
-* [https://www.spiegel.de/sport/fussball/afrika-cup-marokko-kuendigt-rechtliche-schritte-bei-fifa-und-caf-an](https://www.spiegel.de/sport/fussball/afrika-cup-marokko-kuendigt-rechtliche-schritte-bei-fifa-und-caf-an-a-734a11da-a7d5-462f-b63f-813894ece09e#ref=rss)
-### zuvor
-
-* [https://www.spiegel.de/sport/fussball/afrika-cup-marokko-kuendigt-rechtliche-schritte-bei-fifa-und-caf-an](https://www.spiegel.de/sport/fussball/afrika-cup-marokko-kuendigt-rechtliche-schritte-bei-fifa-und-caf-an-a-734a11da-a7d5-462f-b63f-813894ece09e#ref=rss)
-* [https://www.spiegel.de/ausland/gerrymandering-donald-trump-droht-rodric-bray-wegen-wahlkreisreform](https://www.spiegel.de/ausland/gerrymandering-donald-trump-droht-rodric-bray-wegen-wahlkreisreform-a-67f7e640-3541-45df-bfc4-373f7fd1e75b#ref=rss)
-### valentino
-
-* [https://www.spiegel.de/panorama/italien-modedesigner-valentino-garavani-ist-mit-93-jahren-gestorben](https://www.spiegel.de/panorama/italien-modedesigner-valentino-garavani-ist-mit-93-jahren-gestorben-a-2c1f720a-6aa4-49a4-ab74-ba833244e1f3#ref=rss)
-### garavani
-
-* [https://www.spiegel.de/panorama/italien-modedesigner-valentino-garavani-ist-mit-93-jahren-gestorben](https://www.spiegel.de/panorama/italien-modedesigner-valentino-garavani-ist-mit-93-jahren-gestorben-a-2c1f720a-6aa4-49a4-ab74-ba833244e1f3#ref=rss)
-### 93
-
-* [https://www.spiegel.de/panorama/italien-modedesigner-valentino-garavani-ist-mit-93-jahren-gestorben](https://www.spiegel.de/panorama/italien-modedesigner-valentino-garavani-ist-mit-93-jahren-gestorben-a-2c1f720a-6aa4-49a4-ab74-ba833244e1f3#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/italien-modedesigner-valentino-garavani-ist-mit-93-jahren-gestorben](https://www.spiegel.de/panorama/italien-modedesigner-valentino-garavani-ist-mit-93-jahren-gestorben-a-2c1f720a-6aa4-49a4-ab74-ba833244e1f3#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/panorama/italien-modedesigner-valentino-garavani-ist-mit-93-jahren-gestorben](https://www.spiegel.de/panorama/italien-modedesigner-valentino-garavani-ist-mit-93-jahren-gestorben-a-2c1f720a-6aa4-49a4-ab74-ba833244e1f3#ref=rss)
-### oft
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie](https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie-a-55641f2d-f371-4ef7-a2ee-389077b2ce1c#ref=rss)
-### verbrenner
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie](https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie-a-55641f2d-f371-4ef7-a2ee-389077b2ce1c#ref=rss)
-### prämie
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie](https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie-a-55641f2d-f371-4ef7-a2ee-389077b2ce1c#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie](https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie-a-55641f2d-f371-4ef7-a2ee-389077b2ce1c#ref=rss)
-* [https://www.spiegel.de/panorama/katholische-kirche-georg-baetzing-gibt-vorsitz-von-deutscher-bischofskonferenz-ab](https://www.spiegel.de/panorama/katholische-kirche-georg-baetzing-gibt-vorsitz-von-deutscher-bischofskonferenz-ab-a-f623306f-61ba-414c-a63c-270599b51760#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie](https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie-a-55641f2d-f371-4ef7-a2ee-389077b2ce1c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung](https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung-a-1579b083-333b-4e59-b29a-19a66df38b5a#ref=rss)
-### dürften
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie](https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie-a-55641f2d-f371-4ef7-a2ee-389077b2ce1c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung](https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung-a-1579b083-333b-4e59-b29a-19a66df38b5a#ref=rss)
-### unter
-
-* [https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie](https://www.spiegel.de/auto/elektroauto-kaufen-stromer-jetzt-oft-billiger-als-verbrenner-das-bringt-ihnen-die-neue-praemie-a-55641f2d-f371-4ef7-a2ee-389077b2ce1c#ref=rss)
-* [https://www.spiegel.de/deinspiegel/yung-pepp-17-jaehriger-rap-newcomer-aus-leipzig-mitgefuehl-als-superkraft](https://www.spiegel.de/deinspiegel/yung-pepp-17-jaehriger-rap-newcomer-aus-leipzig-mitgefuehl-als-superkraft-a-3246dacb-02f4-401f-aa10-943d9c1d7394#ref=rss)
-### bad
-
-* [https://www.spiegel.de/kultur/musik/bad-bunny-und-der-trailer-fuer-die-super-bowl-halbzeitshow-tanzt-mit-oder-lasst-es](https://www.spiegel.de/kultur/musik/bad-bunny-und-der-trailer-fuer-die-super-bowl-halbzeitshow-tanzt-mit-oder-lasst-es-a-1fc0a677-417f-4640-b103-1d6a27f6265d#ref=rss)
-### bunny
-
-* [https://www.spiegel.de/kultur/musik/bad-bunny-und-der-trailer-fuer-die-super-bowl-halbzeitshow-tanzt-mit-oder-lasst-es](https://www.spiegel.de/kultur/musik/bad-bunny-und-der-trailer-fuer-die-super-bowl-halbzeitshow-tanzt-mit-oder-lasst-es-a-1fc0a677-417f-4640-b103-1d6a27f6265d#ref=rss)
-### super
-
-* [https://www.spiegel.de/kultur/musik/bad-bunny-und-der-trailer-fuer-die-super-bowl-halbzeitshow-tanzt-mit-oder-lasst-es](https://www.spiegel.de/kultur/musik/bad-bunny-und-der-trailer-fuer-die-super-bowl-halbzeitshow-tanzt-mit-oder-lasst-es-a-1fc0a677-417f-4640-b103-1d6a27f6265d#ref=rss)
-### bowl
-
-* [https://www.spiegel.de/kultur/musik/bad-bunny-und-der-trailer-fuer-die-super-bowl-halbzeitshow-tanzt-mit-oder-lasst-es](https://www.spiegel.de/kultur/musik/bad-bunny-und-der-trailer-fuer-die-super-bowl-halbzeitshow-tanzt-mit-oder-lasst-es-a-1fc0a677-417f-4640-b103-1d6a27f6265d#ref=rss)
-### song
-
-* [https://www.spiegel.de/kultur/musik/bad-bunny-und-der-trailer-fuer-die-super-bowl-halbzeitshow-tanzt-mit-oder-lasst-es](https://www.spiegel.de/kultur/musik/bad-bunny-und-der-trailer-fuer-die-super-bowl-halbzeitshow-tanzt-mit-oder-lasst-es-a-1fc0a677-417f-4640-b103-1d6a27f6265d#ref=rss)
-* [https://www.spiegel.de/kultur/musik/bruce-springsteen-legt-sich-erneut-mit-donald-trump-an-ice-soll-sich-aus-minneapolis-verpissen](https://www.spiegel.de/kultur/musik/bruce-springsteen-legt-sich-erneut-mit-donald-trump-an-ice-soll-sich-aus-minneapolis-verpissen-a-a0eca55b-f675-4a86-9dde-207a64683d9f#ref=rss)
-### botschaft
-
-* [https://www.spiegel.de/kultur/musik/bad-bunny-und-der-trailer-fuer-die-super-bowl-halbzeitshow-tanzt-mit-oder-lasst-es](https://www.spiegel.de/kultur/musik/bad-bunny-und-der-trailer-fuer-die-super-bowl-halbzeitshow-tanzt-mit-oder-lasst-es-a-1fc0a677-417f-4640-b103-1d6a27f6265d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/streit-mit-donald-trump-die-doppelte-botschaft-des-kanzlers](https://www.spiegel.de/politik/deutschland/streit-mit-donald-trump-die-doppelte-botschaft-des-kanzlers-a-f508d23e-4442-4f79-89f6-79eed0d2d3a1#ref=rss)
-### antisemitismus
-
-* [https://www.spiegel.de/panorama/antisemitismus-an-unis-bayern-plant-exmatrikulation-fuer-stoerer](https://www.spiegel.de/panorama/antisemitismus-an-unis-bayern-plant-exmatrikulation-fuer-stoerer-a-cdffb0c7-14cb-49c4-a269-d2eadb8e9da1#ref=rss)
-### kuh
-
-* [https://www.spiegel.de/wissenschaft/natur/kuh-veronika-biologin-hat-gebrauch-von-stoeckern-und-besen-bei-einem-rind-untersucht](https://www.spiegel.de/wissenschaft/natur/kuh-veronika-biologin-hat-gebrauch-von-stoeckern-und-besen-bei-einem-rind-untersucht-a-13c29a30-5ca2-4b61-bb01-1366406bee68#ref=rss)
-### biologin
-
-* [https://www.spiegel.de/wissenschaft/natur/kuh-veronika-biologin-hat-gebrauch-von-stoeckern-und-besen-bei-einem-rind-untersucht](https://www.spiegel.de/wissenschaft/natur/kuh-veronika-biologin-hat-gebrauch-von-stoeckern-und-besen-bei-einem-rind-untersucht-a-13c29a30-5ca2-4b61-bb01-1366406bee68#ref=rss)
-### besen
-
-* [https://www.spiegel.de/wissenschaft/natur/kuh-veronika-biologin-hat-gebrauch-von-stoeckern-und-besen-bei-einem-rind-untersucht](https://www.spiegel.de/wissenschaft/natur/kuh-veronika-biologin-hat-gebrauch-von-stoeckern-und-besen-bei-einem-rind-untersucht-a-13c29a30-5ca2-4b61-bb01-1366406bee68#ref=rss)
-### untersucht
-
-* [https://www.spiegel.de/wissenschaft/natur/kuh-veronika-biologin-hat-gebrauch-von-stoeckern-und-besen-bei-einem-rind-untersucht](https://www.spiegel.de/wissenschaft/natur/kuh-veronika-biologin-hat-gebrauch-von-stoeckern-und-besen-bei-einem-rind-untersucht-a-13c29a30-5ca2-4b61-bb01-1366406bee68#ref=rss)
-### prinz
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-gegen-die-daily-mail-darum-geht-es-in-dem-prozess-in-london](https://www.spiegel.de/panorama/leute/prinz-harry-gegen-die-daily-mail-darum-geht-es-in-dem-prozess-in-london-a-e1d1e4b7-b9f9-4efb-9f4c-75a6fd8f62ad#ref=rss)
-### harry
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-gegen-die-daily-mail-darum-geht-es-in-dem-prozess-in-london](https://www.spiegel.de/panorama/leute/prinz-harry-gegen-die-daily-mail-darum-geht-es-in-dem-prozess-in-london-a-e1d1e4b7-b9f9-4efb-9f4c-75a6fd8f62ad#ref=rss)
-### daily
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-gegen-die-daily-mail-darum-geht-es-in-dem-prozess-in-london](https://www.spiegel.de/panorama/leute/prinz-harry-gegen-die-daily-mail-darum-geht-es-in-dem-prozess-in-london-a-e1d1e4b7-b9f9-4efb-9f4c-75a6fd8f62ad#ref=rss)
-### mail
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-gegen-die-daily-mail-darum-geht-es-in-dem-prozess-in-london](https://www.spiegel.de/panorama/leute/prinz-harry-gegen-die-daily-mail-darum-geht-es-in-dem-prozess-in-london-a-e1d1e4b7-b9f9-4efb-9f4c-75a6fd8f62ad#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-gegen-die-daily-mail-darum-geht-es-in-dem-prozess-in-london](https://www.spiegel.de/panorama/leute/prinz-harry-gegen-die-daily-mail-darum-geht-es-in-dem-prozess-in-london-a-e1d1e4b7-b9f9-4efb-9f4c-75a6fd8f62ad#ref=rss)
-* [https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-soll-3-5-kilo-marihuana-transportiert-haben](https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-soll-3-5-kilo-marihuana-transportiert-haben-a-26c5a295-0c3a-4f9f-95b8-2d1c89fc60a9#ref=rss)
-### zweit
-
-* [https://www.spiegel.de/karriere/gehaltsverhandlungen-zu-zweit-mehr-gehalt-fordern-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/gehaltsverhandlungen-zu-zweit-mehr-gehalt-fordern-tipps-vom-karrierecoach-a-8af0eb4b-f415-4cf8-b064-7ef1d1adaef6#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/karriere/gehaltsverhandlungen-zu-zweit-mehr-gehalt-fordern-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/gehaltsverhandlungen-zu-zweit-mehr-gehalt-fordern-tipps-vom-karrierecoach-a-8af0eb4b-f415-4cf8-b064-7ef1d1adaef6#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-meterhohe-eisberge-auf-der-elbe](https://www.spiegel.de/panorama/hamburg-meterhohe-eisberge-auf-der-elbe-a-fba5a34b-5ab2-4a9f-a375-90f7e83195f8#ref=rss)
-### geld
-
-* [https://www.spiegel.de/karriere/gehaltsverhandlungen-zu-zweit-mehr-gehalt-fordern-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/gehaltsverhandlungen-zu-zweit-mehr-gehalt-fordern-tipps-vom-karrierecoach-a-8af0eb4b-f415-4cf8-b064-7ef1d1adaef6#ref=rss)
-* [https://www.spiegel.de/kultur/kino/zoomania-2-ist-der-erfolgreichste-animationsfilm-in-hollywoods-geschichte-1-7-milliarden-eingespielt](https://www.spiegel.de/kultur/kino/zoomania-2-ist-der-erfolgreichste-animationsfilm-in-hollywoods-geschichte-1-7-milliarden-eingespielt-a-c270a2dc-2080-427a-af02-063a42841ed6#ref=rss)
-### setzen
-
-* [https://www.spiegel.de/start/berufseinstieg-unternehmen-setzen-in-der-krise-auf-ki-kompetenzen](https://www.spiegel.de/start/berufseinstieg-unternehmen-setzen-in-der-krise-auf-ki-kompetenzen-a-20a46a43-5d5a-4a53-8dc3-903db6fe8063#ref=rss)
-### uspräsidenten
-
-* [https://www.spiegel.de/politik/deutschland/streit-mit-donald-trump-die-doppelte-botschaft-des-kanzlers](https://www.spiegel.de/politik/deutschland/streit-mit-donald-trump-die-doppelte-botschaft-des-kanzlers-a-f508d23e-4442-4f79-89f6-79eed0d2d3a1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-spd-wirft-cdu-csu-fraktionschef-sympathien-fuer-donald-trump-vor](https://www.spiegel.de/politik/deutschland/jens-spahn-spd-wirft-cdu-csu-fraktionschef-sympathien-fuer-donald-trump-vor-a-f9fece8a-d5fd-453b-90c4-ef13efdee22e#ref=rss)
-### grönland
-
-* [https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung](https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung-a-1579b083-333b-4e59-b29a-19a66df38b5a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-spd-wirft-cdu-csu-fraktionschef-sympathien-fuer-donald-trump-vor](https://www.spiegel.de/politik/deutschland/jens-spahn-spd-wirft-cdu-csu-fraktionschef-sympathien-fuer-donald-trump-vor-a-f9fece8a-d5fd-453b-90c4-ef13efdee22e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus](https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus-a-1a986f9b-1307-423f-b16c-9b1a8072e320#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen](https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen-a-b8aba24a-e528-4172-9440-799f7858756f#ref=rss)
+* [https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein](https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein-a-34594f25-2030-4350-b473-c7aebde57256#ref=rss)
 ### droht
 
-* [https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung](https://www.spiegel.de/wirtschaft/groenland-streit-donald-trumps-neue-zolldrohung-gefaehrdet-den-deutschen-aufschwung-a-1579b083-333b-4e59-b29a-19a66df38b5a#ref=rss)
-* [https://www.spiegel.de/ausland/gerrymandering-donald-trump-droht-rodric-bray-wegen-wahlkreisreform](https://www.spiegel.de/ausland/gerrymandering-donald-trump-droht-rodric-bray-wegen-wahlkreisreform-a-67f7e640-3541-45df-bfc4-373f7fd1e75b#ref=rss)
-### verena
+* [https://www.spiegel.de/wissenschaft/natur/pinguine-verschieben-brutzeit-in-rekordtempo](https://www.spiegel.de/wissenschaft/natur/pinguine-verschieben-brutzeit-in-rekordtempo-a-93f28236-d998-4e0a-aa25-6814e0168216#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus](https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus-a-1a986f9b-1307-423f-b16c-9b1a8072e320#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein](https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein-a-2ee85b07-072c-48aa-af9d-5a054577976d#ref=rss)
+* [https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein](https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein-a-34594f25-2030-4350-b473-c7aebde57256#ref=rss)
+### australian
 
-* [https://www.spiegel.de/panorama/leute/verena-hubertz-bundesbauministerin-ist-mutter-geworden](https://www.spiegel.de/panorama/leute/verena-hubertz-bundesbauministerin-ist-mutter-geworden-a-63ad2187-efed-4072-9ab0-c99619b6a3b9#ref=rss)
-### hubertz
+* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-scheidet-in-der-ersten-runde-aus](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-scheidet-in-der-ersten-runde-aus-a-101d442e-1566-4bae-96f9-bf6e1964e475#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-scherzt-ueber-carlos-alcaraz-neue-aufschlagtechnik](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-scherzt-ueber-carlos-alcaraz-neue-aufschlagtechnik-a-663e5b11-6395-499d-aa93-52cb486efd43#ref=rss)
+### open
 
-* [https://www.spiegel.de/panorama/leute/verena-hubertz-bundesbauministerin-ist-mutter-geworden](https://www.spiegel.de/panorama/leute/verena-hubertz-bundesbauministerin-ist-mutter-geworden-a-63ad2187-efed-4072-9ab0-c99619b6a3b9#ref=rss)
-### bundesbauministerin
+* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-scheidet-in-der-ersten-runde-aus](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-scheidet-in-der-ersten-runde-aus-a-101d442e-1566-4bae-96f9-bf6e1964e475#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-scherzt-ueber-carlos-alcaraz-neue-aufschlagtechnik](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-scherzt-ueber-carlos-alcaraz-neue-aufschlagtechnik-a-663e5b11-6395-499d-aa93-52cb486efd43#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/leute/verena-hubertz-bundesbauministerin-ist-mutter-geworden](https://www.spiegel.de/panorama/leute/verena-hubertz-bundesbauministerin-ist-mutter-geworden-a-63ad2187-efed-4072-9ab0-c99619b6a3b9#ref=rss)
-### mutter
+* [https://www.spiegel.de/panorama/bildung/schulen-29-prozent-der-schuelerinnen-und-schueler-haben-eine-einwanderungsgeschichte](https://www.spiegel.de/panorama/bildung/schulen-29-prozent-der-schuelerinnen-und-schueler-haben-eine-einwanderungsgeschichte-a-4416f940-336e-4c5e-9c77-15fdf73fcedf#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen](https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen-a-b8aba24a-e528-4172-9440-799f7858756f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/diane-kruger-schauspielerin-wuenscht-sich-zusammenhalt-unter-frauen](https://www.spiegel.de/panorama/leute/diane-kruger-schauspielerin-wuenscht-sich-zusammenhalt-unter-frauen-a-215f6591-cf77-48c3-9bc1-f9507345d050#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-widerruft-fast-zweite-aufnahmezusage-fuer-afghanische-ortskraefte](https://www.spiegel.de/politik/deutschland/bundesregierung-widerruft-fast-zweite-aufnahmezusage-fuer-afghanische-ortskraefte-a-f460aae6-b7cf-4869-a0d5-afc138aaba91#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/leute/verena-hubertz-bundesbauministerin-ist-mutter-geworden](https://www.spiegel.de/panorama/leute/verena-hubertz-bundesbauministerin-ist-mutter-geworden-a-63ad2187-efed-4072-9ab0-c99619b6a3b9#ref=rss)
-### marius
+* [https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen](https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen-a-342018c2-05cc-4aa8-8e0f-ebf0e66bf4a7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/vermoegen-und-ungleichheit-heute-leben-wir-wieder-im-feudalismus](https://www.spiegel.de/wirtschaft/soziales/vermoegen-und-ungleichheit-heute-leben-wir-wieder-im-feudalismus-a-4c294c06-6e22-46d0-a9c6-672a8b4a1875#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-widerruft-fast-zweite-aufnahmezusage-fuer-afghanische-ortskraefte](https://www.spiegel.de/politik/deutschland/bundesregierung-widerruft-fast-zweite-aufnahmezusage-fuer-afghanische-ortskraefte-a-f460aae6-b7cf-4869-a0d5-afc138aaba91#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-soll-3-5-kilo-marihuana-transportiert-haben](https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-soll-3-5-kilo-marihuana-transportiert-haben-a-26c5a295-0c3a-4f9f-95b8-2d1c89fc60a9#ref=rss)
-### borg
+* [https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen](https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen-a-342018c2-05cc-4aa8-8e0f-ebf0e66bf4a7#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-tausende-haushalte-in-kyjiw-nach-russischem-angriff-ohne-heizung](https://www.spiegel.de/ausland/krieg-in-der-ukraine-tausende-haushalte-in-kyjiw-nach-russischem-angriff-ohne-heizung-a-201e0a5e-9677-4ad9-a239-e7de1e29c656#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/vermoegen-und-ungleichheit-heute-leben-wir-wieder-im-feudalismus](https://www.spiegel.de/wirtschaft/soziales/vermoegen-und-ungleichheit-heute-leben-wir-wieder-im-feudalismus-a-4c294c06-6e22-46d0-a9c6-672a8b4a1875#ref=rss)
+* [https://www.spiegel.de/panorama/michigan-mehr-als-100-fahrzeuge-in-massenkarambolage-verwickelt](https://www.spiegel.de/panorama/michigan-mehr-als-100-fahrzeuge-in-massenkarambolage-verwickelt-a-88fdab80-835c-4026-b191-41140d565cf8#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-soll-3-5-kilo-marihuana-transportiert-haben](https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-soll-3-5-kilo-marihuana-transportiert-haben-a-26c5a295-0c3a-4f9f-95b8-2d1c89fc60a9#ref=rss)
-### høiby
+* [https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein](https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein-a-2ee85b07-072c-48aa-af9d-5a054577976d#ref=rss)
+* [https://www.spiegel.de/geschichte/buergerkrieg-in-den-usa-wie-wahrscheinlich-ist-es-dass-sich-die-geschichte-wiederholt](https://www.spiegel.de/geschichte/buergerkrieg-in-den-usa-wie-wahrscheinlich-ist-es-dass-sich-die-geschichte-wiederholt-a-95e3a19c-83da-4d52-aa41-391dd4d93062#ref=rss)
+* [https://www.spiegel.de/panorama/michigan-mehr-als-100-fahrzeuge-in-massenkarambolage-verwickelt](https://www.spiegel.de/panorama/michigan-mehr-als-100-fahrzeuge-in-massenkarambolage-verwickelt-a-88fdab80-835c-4026-b191-41140d565cf8#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-soll-3-5-kilo-marihuana-transportiert-haben](https://www.spiegel.de/panorama/norwegen-marius-borg-hoiby-soll-3-5-kilo-marihuana-transportiert-haben-a-26c5a295-0c3a-4f9f-95b8-2d1c89fc60a9#ref=rss)
-### rodric
+* [https://www.spiegel.de/wirtschaft/deutsche-industrie-gut-gefuellte-auftragsbuecher](https://www.spiegel.de/wirtschaft/deutsche-industrie-gut-gefuellte-auftragsbuecher-a-7d7c539c-b78e-46ac-8901-585a2d10a5ad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein](https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein-a-2ee85b07-072c-48aa-af9d-5a054577976d#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-em-2026-alfred-gislason-mit-kommentar-zu-bob-hannings-kritik-nach-serbien-niederlage](https://www.spiegel.de/sport/handball/handball-em-2026-alfred-gislason-mit-kommentar-zu-bob-hannings-kritik-nach-serbien-niederlage-a-fc2668cd-394c-4012-af7e-930a30cc1e4a#ref=rss)
+### einigen
 
-* [https://www.spiegel.de/ausland/gerrymandering-donald-trump-droht-rodric-bray-wegen-wahlkreisreform](https://www.spiegel.de/ausland/gerrymandering-donald-trump-droht-rodric-bray-wegen-wahlkreisreform-a-67f7e640-3541-45df-bfc4-373f7fd1e75b#ref=rss)
-### bray
+* [https://www.spiegel.de/wissenschaft/natur/pinguine-verschieben-brutzeit-in-rekordtempo](https://www.spiegel.de/wissenschaft/natur/pinguine-verschieben-brutzeit-in-rekordtempo-a-93f28236-d998-4e0a-aa25-6814e0168216#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen](https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen-a-342018c2-05cc-4aa8-8e0f-ebf0e66bf4a7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/streik-diese-bruecken-und-tunnel-sind-im-norden-und-nordrhein-westfalen-gesperrt](https://www.spiegel.de/wirtschaft/streik-diese-bruecken-und-tunnel-sind-im-norden-und-nordrhein-westfalen-gesperrt-a-ee8ba5c2-f6e4-40cf-97ab-599a673063a6#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/gerrymandering-donald-trump-droht-rodric-bray-wegen-wahlkreisreform](https://www.spiegel.de/ausland/gerrymandering-donald-trump-droht-rodric-bray-wegen-wahlkreisreform-a-67f7e640-3541-45df-bfc4-373f7fd1e75b#ref=rss)
-### zoomania
+* [https://www.spiegel.de/ausland/donald-trump-die-neue-wirklichkeit-des-us-praesidenten-und-wie-man-sie-durchbricht](https://www.spiegel.de/ausland/donald-trump-die-neue-wirklichkeit-des-us-praesidenten-und-wie-man-sie-durchbricht-a-0a28ff75-fb91-47eb-9414-b40ca0a159c9#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-scherzt-ueber-carlos-alcaraz-neue-aufschlagtechnik](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-scherzt-ueber-carlos-alcaraz-neue-aufschlagtechnik-a-663e5b11-6395-499d-aa93-52cb486efd43#ref=rss)
+### zöllen
 
-* [https://www.spiegel.de/kultur/kino/zoomania-2-ist-der-erfolgreichste-animationsfilm-in-hollywoods-geschichte-1-7-milliarden-eingespielt](https://www.spiegel.de/kultur/kino/zoomania-2-ist-der-erfolgreichste-animationsfilm-in-hollywoods-geschichte-1-7-milliarden-eingespielt-a-c270a2dc-2080-427a-af02-063a42841ed6#ref=rss)
-### 2
+* [https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus](https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus-a-1a986f9b-1307-423f-b16c-9b1a8072e320#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein](https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein-a-2ee85b07-072c-48aa-af9d-5a054577976d#ref=rss)
+* [https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein](https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein-a-34594f25-2030-4350-b473-c7aebde57256#ref=rss)
+### emmanuel
 
-* [https://www.spiegel.de/kultur/kino/zoomania-2-ist-der-erfolgreichste-animationsfilm-in-hollywoods-geschichte-1-7-milliarden-eingespielt](https://www.spiegel.de/kultur/kino/zoomania-2-ist-der-erfolgreichste-animationsfilm-in-hollywoods-geschichte-1-7-milliarden-eingespielt-a-c270a2dc-2080-427a-af02-063a42841ed6#ref=rss)
-### eingespielt
+* [https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen](https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen-a-b8aba24a-e528-4172-9440-799f7858756f#ref=rss)
+* [https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein](https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein-a-34594f25-2030-4350-b473-c7aebde57256#ref=rss)
+### spanien
 
-* [https://www.spiegel.de/kultur/kino/zoomania-2-ist-der-erfolgreichste-animationsfilm-in-hollywoods-geschichte-1-7-milliarden-eingespielt](https://www.spiegel.de/kultur/kino/zoomania-2-ist-der-erfolgreichste-animationsfilm-in-hollywoods-geschichte-1-7-milliarden-eingespielt-a-c270a2dc-2080-427a-af02-063a42841ed6#ref=rss)
-### hamburg
+* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-zum-bremsen-blieben-nur-20-sekunden](https://www.spiegel.de/ausland/zugunglueck-in-spanien-zum-bremsen-blieben-nur-20-sekunden-a-8f945d82-78cd-42eb-a1f2-1934e7145da1#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-em-2026-alfred-gislason-mit-kommentar-zu-bob-hannings-kritik-nach-serbien-niederlage](https://www.spiegel.de/sport/handball/handball-em-2026-alfred-gislason-mit-kommentar-zu-bob-hannings-kritik-nach-serbien-niederlage-a-fc2668cd-394c-4012-af7e-930a30cc1e4a#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/panorama/hamburg-meterhohe-eisberge-auf-der-elbe](https://www.spiegel.de/panorama/hamburg-meterhohe-eisberge-auf-der-elbe-a-fba5a34b-5ab2-4a9f-a375-90f7e83195f8#ref=rss)
-### meterhohe
+* [https://www.spiegel.de/panorama/leute/diane-kruger-schauspielerin-wuenscht-sich-zusammenhalt-unter-frauen](https://www.spiegel.de/panorama/leute/diane-kruger-schauspielerin-wuenscht-sich-zusammenhalt-unter-frauen-a-215f6591-cf77-48c3-9bc1-f9507345d050#ref=rss)
+* [https://www.spiegel.de/kultur/tv/hype-um-serie-heated-rivalry-warum-stehen-frauen-auf-queeren-sex](https://www.spiegel.de/kultur/tv/hype-um-serie-heated-rivalry-warum-stehen-frauen-auf-queeren-sex-a-bc994f3e-a3f5-494a-b522-fdb2eb460dc4#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/panorama/hamburg-meterhohe-eisberge-auf-der-elbe](https://www.spiegel.de/panorama/hamburg-meterhohe-eisberge-auf-der-elbe-a-fba5a34b-5ab2-4a9f-a375-90f7e83195f8#ref=rss)
-### eisberge
+* [https://www.spiegel.de/netzwelt/gadgets/soundcore-nebula-x1-pro-im-test-outdoor-projektor-fuers-gartenkino](https://www.spiegel.de/netzwelt/gadgets/soundcore-nebula-x1-pro-im-test-outdoor-projektor-fuers-gartenkino-a-9b028c57-4a1b-40bf-80e1-792d96eda1af#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen](https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen-a-342018c2-05cc-4aa8-8e0f-ebf0e66bf4a7#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-scherzt-ueber-carlos-alcaraz-neue-aufschlagtechnik](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-scherzt-ueber-carlos-alcaraz-neue-aufschlagtechnik-a-663e5b11-6395-499d-aa93-52cb486efd43#ref=rss)
+### israelische
 
-* [https://www.spiegel.de/panorama/hamburg-meterhohe-eisberge-auf-der-elbe](https://www.spiegel.de/panorama/hamburg-meterhohe-eisberge-auf-der-elbe-a-fba5a34b-5ab2-4a9f-a375-90f7e83195f8#ref=rss)
-### elbe
+* [https://www.spiegel.de/ausland/jerusalem-israelische-bagger-zerstoeren-unrwa-zentrale](https://www.spiegel.de/ausland/jerusalem-israelische-bagger-zerstoeren-unrwa-zentrale-a-11eb8c72-bbc9-488b-a235-8533e829928b#ref=rss)
+### gut
 
-* [https://www.spiegel.de/panorama/hamburg-meterhohe-eisberge-auf-der-elbe](https://www.spiegel.de/panorama/hamburg-meterhohe-eisberge-auf-der-elbe-a-fba5a34b-5ab2-4a9f-a375-90f7e83195f8#ref=rss)
-### yung
+* [https://www.spiegel.de/wirtschaft/deutsche-industrie-gut-gefuellte-auftragsbuecher](https://www.spiegel.de/wirtschaft/deutsche-industrie-gut-gefuellte-auftragsbuecher-a-7d7c539c-b78e-46ac-8901-585a2d10a5ad#ref=rss)
+### politischen
 
-* [https://www.spiegel.de/deinspiegel/yung-pepp-17-jaehriger-rap-newcomer-aus-leipzig-mitgefuehl-als-superkraft](https://www.spiegel.de/deinspiegel/yung-pepp-17-jaehriger-rap-newcomer-aus-leipzig-mitgefuehl-als-superkraft-a-3246dacb-02f4-401f-aa10-943d9c1d7394#ref=rss)
-### pepp
+* [https://www.spiegel.de/wirtschaft/deutsche-industrie-gut-gefuellte-auftragsbuecher](https://www.spiegel.de/wirtschaft/deutsche-industrie-gut-gefuellte-auftragsbuecher-a-7d7c539c-b78e-46ac-8901-585a2d10a5ad#ref=rss)
+* [https://www.spiegel.de/ausland/zugunglueck-in-spanien-zum-bremsen-blieben-nur-20-sekunden](https://www.spiegel.de/ausland/zugunglueck-in-spanien-zum-bremsen-blieben-nur-20-sekunden-a-8f945d82-78cd-42eb-a1f2-1934e7145da1#ref=rss)
+### allerdings
 
-* [https://www.spiegel.de/deinspiegel/yung-pepp-17-jaehriger-rap-newcomer-aus-leipzig-mitgefuehl-als-superkraft](https://www.spiegel.de/deinspiegel/yung-pepp-17-jaehriger-rap-newcomer-aus-leipzig-mitgefuehl-als-superkraft-a-3246dacb-02f4-401f-aa10-943d9c1d7394#ref=rss)
-### leipzig
+* [https://www.spiegel.de/wirtschaft/deutsche-industrie-gut-gefuellte-auftragsbuecher](https://www.spiegel.de/wirtschaft/deutsche-industrie-gut-gefuellte-auftragsbuecher-a-7d7c539c-b78e-46ac-8901-585a2d10a5ad#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/soundcore-nebula-x1-pro-im-test-outdoor-projektor-fuers-gartenkino](https://www.spiegel.de/netzwelt/gadgets/soundcore-nebula-x1-pro-im-test-outdoor-projektor-fuers-gartenkino-a-9b028c57-4a1b-40bf-80e1-792d96eda1af#ref=rss)
+### midnight
 
-* [https://www.spiegel.de/deinspiegel/yung-pepp-17-jaehriger-rap-newcomer-aus-leipzig-mitgefuehl-als-superkraft](https://www.spiegel.de/deinspiegel/yung-pepp-17-jaehriger-rap-newcomer-aus-leipzig-mitgefuehl-als-superkraft-a-3246dacb-02f4-401f-aa10-943d9c1d7394#ref=rss)
-### sonja
+* [https://www.spiegel.de/kultur/musik/midnight-oil-schlagzeuger-rob-hirst-ist-tot](https://www.spiegel.de/kultur/musik/midnight-oil-schlagzeuger-rob-hirst-ist-tot-a-22499b9d-2243-4b8f-93e6-caee8b44ae98#ref=rss)
+### oil
 
-* [https://www.spiegel.de/geschichte/sonja-levsen-und-peter-neumann-was-demokratien-zusammenhaelt-und-was-sie-zerstoert](https://www.spiegel.de/geschichte/sonja-levsen-und-peter-neumann-was-demokratien-zusammenhaelt-und-was-sie-zerstoert-a-6a594186-32fc-4932-ab2c-8ab9f2f077f6#ref=rss)
-### levsen
+* [https://www.spiegel.de/kultur/musik/midnight-oil-schlagzeuger-rob-hirst-ist-tot](https://www.spiegel.de/kultur/musik/midnight-oil-schlagzeuger-rob-hirst-ist-tot-a-22499b9d-2243-4b8f-93e6-caee8b44ae98#ref=rss)
+### rob
 
-* [https://www.spiegel.de/geschichte/sonja-levsen-und-peter-neumann-was-demokratien-zusammenhaelt-und-was-sie-zerstoert](https://www.spiegel.de/geschichte/sonja-levsen-und-peter-neumann-was-demokratien-zusammenhaelt-und-was-sie-zerstoert-a-6a594186-32fc-4932-ab2c-8ab9f2f077f6#ref=rss)
-### peter
+* [https://www.spiegel.de/kultur/musik/midnight-oil-schlagzeuger-rob-hirst-ist-tot](https://www.spiegel.de/kultur/musik/midnight-oil-schlagzeuger-rob-hirst-ist-tot-a-22499b9d-2243-4b8f-93e6-caee8b44ae98#ref=rss)
+### hirst
 
-* [https://www.spiegel.de/geschichte/sonja-levsen-und-peter-neumann-was-demokratien-zusammenhaelt-und-was-sie-zerstoert](https://www.spiegel.de/geschichte/sonja-levsen-und-peter-neumann-was-demokratien-zusammenhaelt-und-was-sie-zerstoert-a-6a594186-32fc-4932-ab2c-8ab9f2f077f6#ref=rss)
-### neumann
+* [https://www.spiegel.de/kultur/musik/midnight-oil-schlagzeuger-rob-hirst-ist-tot](https://www.spiegel.de/kultur/musik/midnight-oil-schlagzeuger-rob-hirst-ist-tot-a-22499b9d-2243-4b8f-93e6-caee8b44ae98#ref=rss)
+### tot
 
-* [https://www.spiegel.de/geschichte/sonja-levsen-und-peter-neumann-was-demokratien-zusammenhaelt-und-was-sie-zerstoert](https://www.spiegel.de/geschichte/sonja-levsen-und-peter-neumann-was-demokratien-zusammenhaelt-und-was-sie-zerstoert-a-6a594186-32fc-4932-ab2c-8ab9f2f077f6#ref=rss)
-### demokratien
+* [https://www.spiegel.de/kultur/musik/midnight-oil-schlagzeuger-rob-hirst-ist-tot](https://www.spiegel.de/kultur/musik/midnight-oil-schlagzeuger-rob-hirst-ist-tot-a-22499b9d-2243-4b8f-93e6-caee8b44ae98#ref=rss)
+* [https://www.spiegel.de/panorama/australien-19-jaehrige-moeglicherweise-von-dingos-getoetet](https://www.spiegel.de/panorama/australien-19-jaehrige-moeglicherweise-von-dingos-getoetet-a-c93280c5-8b87-407f-832a-5d4995c7fb88#ref=rss)
+### melanie
 
-* [https://www.spiegel.de/geschichte/sonja-levsen-und-peter-neumann-was-demokratien-zusammenhaelt-und-was-sie-zerstoert](https://www.spiegel.de/geschichte/sonja-levsen-und-peter-neumann-was-demokratien-zusammenhaelt-und-was-sie-zerstoert-a-6a594186-32fc-4932-ab2c-8ab9f2f077f6#ref=rss)
-### zusammenhält
+* [https://www.spiegel.de/panorama/justiz/melanie-mueller-legt-nach-hitlergruss-urteil-revision-ein](https://www.spiegel.de/panorama/justiz/melanie-mueller-legt-nach-hitlergruss-urteil-revision-ein-a-2ff22536-1282-4c03-b206-d5c6e3b8b715#ref=rss)
+### müller
 
-* [https://www.spiegel.de/geschichte/sonja-levsen-und-peter-neumann-was-demokratien-zusammenhaelt-und-was-sie-zerstoert](https://www.spiegel.de/geschichte/sonja-levsen-und-peter-neumann-was-demokratien-zusammenhaelt-und-was-sie-zerstoert-a-6a594186-32fc-4932-ab2c-8ab9f2f077f6#ref=rss)
-### zerstört
+* [https://www.spiegel.de/panorama/justiz/melanie-mueller-legt-nach-hitlergruss-urteil-revision-ein](https://www.spiegel.de/panorama/justiz/melanie-mueller-legt-nach-hitlergruss-urteil-revision-ein-a-2ff22536-1282-4c03-b206-d5c6e3b8b715#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/geschichte/sonja-levsen-und-peter-neumann-was-demokratien-zusammenhaelt-und-was-sie-zerstoert](https://www.spiegel.de/geschichte/sonja-levsen-und-peter-neumann-was-demokratien-zusammenhaelt-und-was-sie-zerstoert-a-6a594186-32fc-4932-ab2c-8ab9f2f077f6#ref=rss)
-### ice
+* [https://www.spiegel.de/panorama/justiz/melanie-mueller-legt-nach-hitlergruss-urteil-revision-ein](https://www.spiegel.de/panorama/justiz/melanie-mueller-legt-nach-hitlergruss-urteil-revision-ein-a-2ff22536-1282-4c03-b206-d5c6e3b8b715#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein](https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein-a-2ee85b07-072c-48aa-af9d-5a054577976d#ref=rss)
+### pinguine
 
-* [https://www.spiegel.de/kultur/musik/bruce-springsteen-legt-sich-erneut-mit-donald-trump-an-ice-soll-sich-aus-minneapolis-verpissen](https://www.spiegel.de/kultur/musik/bruce-springsteen-legt-sich-erneut-mit-donald-trump-an-ice-soll-sich-aus-minneapolis-verpissen-a-a0eca55b-f675-4a86-9dde-207a64683d9f#ref=rss)
-### minneapolis
+* [https://www.spiegel.de/wissenschaft/natur/pinguine-verschieben-brutzeit-in-rekordtempo](https://www.spiegel.de/wissenschaft/natur/pinguine-verschieben-brutzeit-in-rekordtempo-a-93f28236-d998-4e0a-aa25-6814e0168216#ref=rss)
+### zufolge
 
-* [https://www.spiegel.de/kultur/musik/bruce-springsteen-legt-sich-erneut-mit-donald-trump-an-ice-soll-sich-aus-minneapolis-verpissen](https://www.spiegel.de/kultur/musik/bruce-springsteen-legt-sich-erneut-mit-donald-trump-an-ice-soll-sich-aus-minneapolis-verpissen-a-a0eca55b-f675-4a86-9dde-207a64683d9f#ref=rss)
-### verpissen
+* [https://www.spiegel.de/wissenschaft/natur/pinguine-verschieben-brutzeit-in-rekordtempo](https://www.spiegel.de/wissenschaft/natur/pinguine-verschieben-brutzeit-in-rekordtempo-a-93f28236-d998-4e0a-aa25-6814e0168216#ref=rss)
+* [https://www.spiegel.de/kultur/tv/bill-und-tom-kaulitz-sollen-offenbar-wetten-dass-uebernehmen](https://www.spiegel.de/kultur/tv/bill-und-tom-kaulitz-sollen-offenbar-wetten-dass-uebernehmen-a-e1071c5e-5d0a-4896-b7f7-61e158465ef9#ref=rss)
+### zoll
 
-* [https://www.spiegel.de/kultur/musik/bruce-springsteen-legt-sich-erneut-mit-donald-trump-an-ice-soll-sich-aus-minneapolis-verpissen](https://www.spiegel.de/kultur/musik/bruce-springsteen-legt-sich-erneut-mit-donald-trump-an-ice-soll-sich-aus-minneapolis-verpissen-a-a0eca55b-f675-4a86-9dde-207a64683d9f#ref=rss)
-### jens
+* [https://www.spiegel.de/panorama/justiz/potsdam-zoll-beschlagnahmt-postkarte-mit-kokainbeutel](https://www.spiegel.de/panorama/justiz/potsdam-zoll-beschlagnahmt-postkarte-mit-kokainbeutel-a-f3fcaa9d-bf38-4b3f-8cb1-d72fe87fecd1#ref=rss)
+### eva
 
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-spd-wirft-cdu-csu-fraktionschef-sympathien-fuer-donald-trump-vor](https://www.spiegel.de/politik/deutschland/jens-spahn-spd-wirft-cdu-csu-fraktionschef-sympathien-fuer-donald-trump-vor-a-f9fece8a-d5fd-453b-90c4-ef13efdee22e#ref=rss)
-### spahn
+* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-scheidet-in-der-ersten-runde-aus](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-scheidet-in-der-ersten-runde-aus-a-101d442e-1566-4bae-96f9-bf6e1964e475#ref=rss)
+### lys
 
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-spd-wirft-cdu-csu-fraktionschef-sympathien-fuer-donald-trump-vor](https://www.spiegel.de/politik/deutschland/jens-spahn-spd-wirft-cdu-csu-fraktionschef-sympathien-fuer-donald-trump-vor-a-f9fece8a-d5fd-453b-90c4-ef13efdee22e#ref=rss)
-### spd
+* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-scheidet-in-der-ersten-runde-aus](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-scheidet-in-der-ersten-runde-aus-a-101d442e-1566-4bae-96f9-bf6e1964e475#ref=rss)
+### vergangenen
 
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-spd-wirft-cdu-csu-fraktionschef-sympathien-fuer-donald-trump-vor](https://www.spiegel.de/politik/deutschland/jens-spahn-spd-wirft-cdu-csu-fraktionschef-sympathien-fuer-donald-trump-vor-a-f9fece8a-d5fd-453b-90c4-ef13efdee22e#ref=rss)
-### cbs
+* [https://www.spiegel.de/sport/tennis/australian-open-eva-lys-scheidet-in-der-ersten-runde-aus](https://www.spiegel.de/sport/tennis/australian-open-eva-lys-scheidet-in-der-ersten-runde-aus-a-101d442e-1566-4bae-96f9-bf6e1964e475#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein](https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein-a-2ee85b07-072c-48aa-af9d-5a054577976d#ref=rss)
+### davos
 
-* [https://www.spiegel.de/kultur/tv/usa-cbs-news-sendet-trump-kritischen-bericht-ueber-abschiebegefaengnis-nun-doch-allerdings-mit-aenderungen](https://www.spiegel.de/kultur/tv/usa-cbs-news-sendet-trump-kritischen-bericht-ueber-abschiebegefaengnis-nun-doch-allerdings-mit-aenderungen-a-5ef84468-584b-4f2c-9f0e-536c7386f0e2#ref=rss)
-### bericht
+* [https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus](https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus-a-1a986f9b-1307-423f-b16c-9b1a8072e320#ref=rss)
+### teilt
 
-* [https://www.spiegel.de/kultur/tv/usa-cbs-news-sendet-trump-kritischen-bericht-ueber-abschiebegefaengnis-nun-doch-allerdings-mit-aenderungen](https://www.spiegel.de/kultur/tv/usa-cbs-news-sendet-trump-kritischen-bericht-ueber-abschiebegefaengnis-nun-doch-allerdings-mit-aenderungen-a-5ef84468-584b-4f2c-9f0e-536c7386f0e2#ref=rss)
-### georg
+* [https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus](https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus-a-1a986f9b-1307-423f-b16c-9b1a8072e320#ref=rss)
+### grönland
 
-* [https://www.spiegel.de/panorama/katholische-kirche-georg-baetzing-gibt-vorsitz-von-deutscher-bischofskonferenz-ab](https://www.spiegel.de/panorama/katholische-kirche-georg-baetzing-gibt-vorsitz-von-deutscher-bischofskonferenz-ab-a-f623306f-61ba-414c-a63c-270599b51760#ref=rss)
-### bätzing
+* [https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus](https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus-a-1a986f9b-1307-423f-b16c-9b1a8072e320#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein](https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein-a-2ee85b07-072c-48aa-af9d-5a054577976d#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/panorama/katholische-kirche-georg-baetzing-gibt-vorsitz-von-deutscher-bischofskonferenz-ab](https://www.spiegel.de/panorama/katholische-kirche-georg-baetzing-gibt-vorsitz-von-deutscher-bischofskonferenz-ab-a-f623306f-61ba-414c-a63c-270599b51760#ref=rss)
-### bischofskonferenz
+* [https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus](https://www.spiegel.de/ausland/donald-trump-vor-davos-teilt-trump-gegen-macron-und-europaeer-aus-a-1a986f9b-1307-423f-b16c-9b1a8072e320#ref=rss)
+* [https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein](https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein-a-34594f25-2030-4350-b473-c7aebde57256#ref=rss)
+### bildung
 
-* [https://www.spiegel.de/panorama/katholische-kirche-georg-baetzing-gibt-vorsitz-von-deutscher-bischofskonferenz-ab](https://www.spiegel.de/panorama/katholische-kirche-georg-baetzing-gibt-vorsitz-von-deutscher-bischofskonferenz-ab-a-f623306f-61ba-414c-a63c-270599b51760#ref=rss)
-### weltwirtschaftsforum
+* [https://www.spiegel.de/panorama/bildung/schulen-29-prozent-der-schuelerinnen-und-schueler-haben-eine-einwanderungsgeschichte](https://www.spiegel.de/panorama/bildung/schulen-29-prozent-der-schuelerinnen-und-schueler-haben-eine-einwanderungsgeschichte-a-4416f940-336e-4c5e-9c77-15fdf73fcedf#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen](https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen-a-342018c2-05cc-4aa8-8e0f-ebf0e66bf4a7#ref=rss)
+### prozent
 
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-beim-weltwirtschaftsforum-in-davos-buckeln-bosse](https://www.spiegel.de/wirtschaft/soziales/donald-trump-beim-weltwirtschaftsforum-in-davos-buckeln-bosse-a-a515a2af-4b9b-48fb-b9db-9d071ce9651b#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schulen-29-prozent-der-schuelerinnen-und-schueler-haben-eine-einwanderungsgeschichte](https://www.spiegel.de/panorama/bildung/schulen-29-prozent-der-schuelerinnen-und-schueler-haben-eine-einwanderungsgeschichte-a-4416f940-336e-4c5e-9c77-15fdf73fcedf#ref=rss)
+* [https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein](https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein-a-34594f25-2030-4350-b473-c7aebde57256#ref=rss)
+### schülerinnen
+
+* [https://www.spiegel.de/panorama/bildung/schulen-29-prozent-der-schuelerinnen-und-schueler-haben-eine-einwanderungsgeschichte](https://www.spiegel.de/panorama/bildung/schulen-29-prozent-der-schuelerinnen-und-schueler-haben-eine-einwanderungsgeschichte-a-4416f940-336e-4c5e-9c77-15fdf73fcedf#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/panorama/bildung/schulen-29-prozent-der-schuelerinnen-und-schueler-haben-eine-einwanderungsgeschichte](https://www.spiegel.de/panorama/bildung/schulen-29-prozent-der-schuelerinnen-und-schueler-haben-eine-einwanderungsgeschichte-a-4416f940-336e-4c5e-9c77-15fdf73fcedf#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen](https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen-a-342018c2-05cc-4aa8-8e0f-ebf0e66bf4a7#ref=rss)
+### anteil
+
+* [https://www.spiegel.de/panorama/bildung/schulen-29-prozent-der-schuelerinnen-und-schueler-haben-eine-einwanderungsgeschichte](https://www.spiegel.de/panorama/bildung/schulen-29-prozent-der-schuelerinnen-und-schueler-haben-eine-einwanderungsgeschichte-a-4416f940-336e-4c5e-9c77-15fdf73fcedf#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen](https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen-a-342018c2-05cc-4aa8-8e0f-ebf0e66bf4a7#ref=rss)
+### höher
+
+* [https://www.spiegel.de/panorama/bildung/schulen-29-prozent-der-schuelerinnen-und-schueler-haben-eine-einwanderungsgeschichte](https://www.spiegel.de/panorama/bildung/schulen-29-prozent-der-schuelerinnen-und-schueler-haben-eine-einwanderungsgeschichte-a-4416f940-336e-4c5e-9c77-15fdf73fcedf#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen](https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen-a-342018c2-05cc-4aa8-8e0f-ebf0e66bf4a7#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen](https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen-a-b8aba24a-e528-4172-9440-799f7858756f#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-tausende-haushalte-in-kyjiw-nach-russischem-angriff-ohne-heizung](https://www.spiegel.de/ausland/krieg-in-der-ukraine-tausende-haushalte-in-kyjiw-nach-russischem-angriff-ohne-heizung-a-201e0a5e-9677-4ad9-a239-e7de1e29c656#ref=rss)
+### mark
+
+* [https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen](https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen-a-b8aba24a-e528-4172-9440-799f7858756f#ref=rss)
+### rutte
+
+* [https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen](https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen-a-b8aba24a-e528-4172-9440-799f7858756f#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen](https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen-a-b8aba24a-e528-4172-9440-799f7858756f#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen](https://www.spiegel.de/ausland/ukraine-trump-veroeffentlicht-private-nachricht-von-macron-vor-moeglichem-treffen-a-b8aba24a-e528-4172-9440-799f7858756f#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-tausende-haushalte-in-kyjiw-nach-russischem-angriff-ohne-heizung](https://www.spiegel.de/ausland/krieg-in-der-ukraine-tausende-haushalte-in-kyjiw-nach-russischem-angriff-ohne-heizung-a-201e0a5e-9677-4ad9-a239-e7de1e29c656#ref=rss)
+### diane
+
+* [https://www.spiegel.de/panorama/leute/diane-kruger-schauspielerin-wuenscht-sich-zusammenhalt-unter-frauen](https://www.spiegel.de/panorama/leute/diane-kruger-schauspielerin-wuenscht-sich-zusammenhalt-unter-frauen-a-215f6591-cf77-48c3-9bc1-f9507345d050#ref=rss)
+### kruger
+
+* [https://www.spiegel.de/panorama/leute/diane-kruger-schauspielerin-wuenscht-sich-zusammenhalt-unter-frauen](https://www.spiegel.de/panorama/leute/diane-kruger-schauspielerin-wuenscht-sich-zusammenhalt-unter-frauen-a-215f6591-cf77-48c3-9bc1-f9507345d050#ref=rss)
+### wünscht
+
+* [https://www.spiegel.de/panorama/leute/diane-kruger-schauspielerin-wuenscht-sich-zusammenhalt-unter-frauen](https://www.spiegel.de/panorama/leute/diane-kruger-schauspielerin-wuenscht-sich-zusammenhalt-unter-frauen-a-215f6591-cf77-48c3-9bc1-f9507345d050#ref=rss)
+### serie
+
+* [https://www.spiegel.de/kultur/tv/hype-um-serie-heated-rivalry-warum-stehen-frauen-auf-queeren-sex](https://www.spiegel.de/kultur/tv/hype-um-serie-heated-rivalry-warum-stehen-frauen-auf-queeren-sex-a-bc994f3e-a3f5-494a-b522-fdb2eb460dc4#ref=rss)
+### heated
+
+* [https://www.spiegel.de/kultur/tv/hype-um-serie-heated-rivalry-warum-stehen-frauen-auf-queeren-sex](https://www.spiegel.de/kultur/tv/hype-um-serie-heated-rivalry-warum-stehen-frauen-auf-queeren-sex-a-bc994f3e-a3f5-494a-b522-fdb2eb460dc4#ref=rss)
+### rivalry
+
+* [https://www.spiegel.de/kultur/tv/hype-um-serie-heated-rivalry-warum-stehen-frauen-auf-queeren-sex](https://www.spiegel.de/kultur/tv/hype-um-serie-heated-rivalry-warum-stehen-frauen-auf-queeren-sex-a-bc994f3e-a3f5-494a-b522-fdb2eb460dc4#ref=rss)
+### sex
+
+* [https://www.spiegel.de/kultur/tv/hype-um-serie-heated-rivalry-warum-stehen-frauen-auf-queeren-sex](https://www.spiegel.de/kultur/tv/hype-um-serie-heated-rivalry-warum-stehen-frauen-auf-queeren-sex-a-bc994f3e-a3f5-494a-b522-fdb2eb460dc4#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/kultur/tv/hype-um-serie-heated-rivalry-warum-stehen-frauen-auf-queeren-sex](https://www.spiegel.de/kultur/tv/hype-um-serie-heated-rivalry-warum-stehen-frauen-auf-queeren-sex-a-bc994f3e-a3f5-494a-b522-fdb2eb460dc4#ref=rss)
+* [https://www.spiegel.de/kultur/tv/bill-und-tom-kaulitz-sollen-offenbar-wetten-dass-uebernehmen](https://www.spiegel.de/kultur/tv/bill-und-tom-kaulitz-sollen-offenbar-wetten-dass-uebernehmen-a-e1071c5e-5d0a-4896-b7f7-61e158465ef9#ref=rss)
+### soundcore
+
+* [https://www.spiegel.de/netzwelt/gadgets/soundcore-nebula-x1-pro-im-test-outdoor-projektor-fuers-gartenkino](https://www.spiegel.de/netzwelt/gadgets/soundcore-nebula-x1-pro-im-test-outdoor-projektor-fuers-gartenkino-a-9b028c57-4a1b-40bf-80e1-792d96eda1af#ref=rss)
+### test
+
+* [https://www.spiegel.de/netzwelt/gadgets/soundcore-nebula-x1-pro-im-test-outdoor-projektor-fuers-gartenkino](https://www.spiegel.de/netzwelt/gadgets/soundcore-nebula-x1-pro-im-test-outdoor-projektor-fuers-gartenkino-a-9b028c57-4a1b-40bf-80e1-792d96eda1af#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/netzwelt/gadgets/soundcore-nebula-x1-pro-im-test-outdoor-projektor-fuers-gartenkino](https://www.spiegel.de/netzwelt/gadgets/soundcore-nebula-x1-pro-im-test-outdoor-projektor-fuers-gartenkino-a-9b028c57-4a1b-40bf-80e1-792d96eda1af#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein](https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein-a-2ee85b07-072c-48aa-af9d-5a054577976d#ref=rss)
+### zdf
+
+* [https://www.spiegel.de/kultur/tv/bill-und-tom-kaulitz-sollen-offenbar-wetten-dass-uebernehmen](https://www.spiegel.de/kultur/tv/bill-und-tom-kaulitz-sollen-offenbar-wetten-dass-uebernehmen-a-e1071c5e-5d0a-4896-b7f7-61e158465ef9#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/kultur/tv/bill-und-tom-kaulitz-sollen-offenbar-wetten-dass-uebernehmen](https://www.spiegel.de/kultur/tv/bill-und-tom-kaulitz-sollen-offenbar-wetten-dass-uebernehmen-a-e1071c5e-5d0a-4896-b7f7-61e158465ef9#ref=rss)
+* [https://www.spiegel.de/panorama/australien-19-jaehrige-moeglicherweise-von-dingos-getoetet](https://www.spiegel.de/panorama/australien-19-jaehrige-moeglicherweise-von-dingos-getoetet-a-c93280c5-8b87-407f-832a-5d4995c7fb88#ref=rss)
+### wetten
+
+* [https://www.spiegel.de/kultur/tv/bill-und-tom-kaulitz-sollen-offenbar-wetten-dass-uebernehmen](https://www.spiegel.de/kultur/tv/bill-und-tom-kaulitz-sollen-offenbar-wetten-dass-uebernehmen-a-e1071c5e-5d0a-4896-b7f7-61e158465ef9#ref=rss)
+### gefunden
+
+* [https://www.spiegel.de/kultur/tv/bill-und-tom-kaulitz-sollen-offenbar-wetten-dass-uebernehmen](https://www.spiegel.de/kultur/tv/bill-und-tom-kaulitz-sollen-offenbar-wetten-dass-uebernehmen-a-e1071c5e-5d0a-4896-b7f7-61e158465ef9#ref=rss)
+* [https://www.spiegel.de/panorama/australien-19-jaehrige-moeglicherweise-von-dingos-getoetet](https://www.spiegel.de/panorama/australien-19-jaehrige-moeglicherweise-von-dingos-getoetet-a-c93280c5-8b87-407f-832a-5d4995c7fb88#ref=rss)
+### nhl
+
+* [https://www.spiegel.de/sport/eishockey/nhl-eishockey-torhueter-sergej-bobrowski-und-nedeljkovic-liefern-sich-seltenen-schlagabtausch](https://www.spiegel.de/sport/eishockey/nhl-eishockey-torhueter-sergej-bobrowski-und-nedeljkovic-liefern-sich-seltenen-schlagabtausch-a-0b481438-5c44-450a-b061-6c760f21be22#ref=rss)
+### sergej
+
+* [https://www.spiegel.de/sport/eishockey/nhl-eishockey-torhueter-sergej-bobrowski-und-nedeljkovic-liefern-sich-seltenen-schlagabtausch](https://www.spiegel.de/sport/eishockey/nhl-eishockey-torhueter-sergej-bobrowski-und-nedeljkovic-liefern-sich-seltenen-schlagabtausch-a-0b481438-5c44-450a-b061-6c760f21be22#ref=rss)
+### bobrowski
+
+* [https://www.spiegel.de/sport/eishockey/nhl-eishockey-torhueter-sergej-bobrowski-und-nedeljkovic-liefern-sich-seltenen-schlagabtausch](https://www.spiegel.de/sport/eishockey/nhl-eishockey-torhueter-sergej-bobrowski-und-nedeljkovic-liefern-sich-seltenen-schlagabtausch-a-0b481438-5c44-450a-b061-6c760f21be22#ref=rss)
+### nedeljkovic
+
+* [https://www.spiegel.de/sport/eishockey/nhl-eishockey-torhueter-sergej-bobrowski-und-nedeljkovic-liefern-sich-seltenen-schlagabtausch](https://www.spiegel.de/sport/eishockey/nhl-eishockey-torhueter-sergej-bobrowski-und-nedeljkovic-liefern-sich-seltenen-schlagabtausch-a-0b481438-5c44-450a-b061-6c760f21be22#ref=rss)
+### privatschulen
+
+* [https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen](https://www.spiegel.de/panorama/bildung/bildung-in-deutschland-steigt-die-zahl-der-privatschulen-a-342018c2-05cc-4aa8-8e0f-ebf0e66bf4a7#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-tausende-haushalte-in-kyjiw-nach-russischem-angriff-ohne-heizung](https://www.spiegel.de/ausland/krieg-in-der-ukraine-tausende-haushalte-in-kyjiw-nach-russischem-angriff-ohne-heizung-a-201e0a5e-9677-4ad9-a239-e7de1e29c656#ref=rss)
+### heizung
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-tausende-haushalte-in-kyjiw-nach-russischem-angriff-ohne-heizung](https://www.spiegel.de/ausland/krieg-in-der-ukraine-tausende-haushalte-in-kyjiw-nach-russischem-angriff-ohne-heizung-a-201e0a5e-9677-4ad9-a239-e7de1e29c656#ref=rss)
+### australien
+
+* [https://www.spiegel.de/panorama/australien-19-jaehrige-moeglicherweise-von-dingos-getoetet](https://www.spiegel.de/panorama/australien-19-jaehrige-moeglicherweise-von-dingos-getoetet-a-c93280c5-8b87-407f-832a-5d4995c7fb88#ref=rss)
+### dingos
+
+* [https://www.spiegel.de/panorama/australien-19-jaehrige-moeglicherweise-von-dingos-getoetet](https://www.spiegel.de/panorama/australien-19-jaehrige-moeglicherweise-von-dingos-getoetet-a-c93280c5-8b87-407f-832a-5d4995c7fb88#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/panorama/australien-19-jaehrige-moeglicherweise-von-dingos-getoetet](https://www.spiegel.de/panorama/australien-19-jaehrige-moeglicherweise-von-dingos-getoetet-a-c93280c5-8b87-407f-832a-5d4995c7fb88#ref=rss)
+### handballem
+
+* [https://www.spiegel.de/sport/handball/handball-em-2026-alfred-gislason-mit-kommentar-zu-bob-hannings-kritik-nach-serbien-niederlage](https://www.spiegel.de/sport/handball/handball-em-2026-alfred-gislason-mit-kommentar-zu-bob-hannings-kritik-nach-serbien-niederlage-a-fc2668cd-394c-4012-af7e-930a30cc1e4a#ref=rss)
+### alfred
+
+* [https://www.spiegel.de/sport/handball/handball-em-2026-alfred-gislason-mit-kommentar-zu-bob-hannings-kritik-nach-serbien-niederlage](https://www.spiegel.de/sport/handball/handball-em-2026-alfred-gislason-mit-kommentar-zu-bob-hannings-kritik-nach-serbien-niederlage-a-fc2668cd-394c-4012-af7e-930a30cc1e4a#ref=rss)
+### gíslason
+
+* [https://www.spiegel.de/sport/handball/handball-em-2026-alfred-gislason-mit-kommentar-zu-bob-hannings-kritik-nach-serbien-niederlage](https://www.spiegel.de/sport/handball/handball-em-2026-alfred-gislason-mit-kommentar-zu-bob-hannings-kritik-nach-serbien-niederlage-a-fc2668cd-394c-4012-af7e-930a30cc1e4a#ref=rss)
+### bob
+
+* [https://www.spiegel.de/sport/handball/handball-em-2026-alfred-gislason-mit-kommentar-zu-bob-hannings-kritik-nach-serbien-niederlage](https://www.spiegel.de/sport/handball/handball-em-2026-alfred-gislason-mit-kommentar-zu-bob-hannings-kritik-nach-serbien-niederlage-a-fc2668cd-394c-4012-af7e-930a30cc1e4a#ref=rss)
+### hanning
+
+* [https://www.spiegel.de/sport/handball/handball-em-2026-alfred-gislason-mit-kommentar-zu-bob-hannings-kritik-nach-serbien-niederlage](https://www.spiegel.de/sport/handball/handball-em-2026-alfred-gislason-mit-kommentar-zu-bob-hannings-kritik-nach-serbien-niederlage-a-fc2668cd-394c-4012-af7e-930a30cc1e4a#ref=rss)
+### champagner
+
+* [https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein](https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein-a-34594f25-2030-4350-b473-c7aebde57256#ref=rss)
+### wein
+
+* [https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein](https://www.spiegel.de/ausland/trump-droht-frankreich-mit-zoellen-von-200-prozent-auf-champagner-und-wein-a-34594f25-2030-4350-b473-c7aebde57256#ref=rss)
+### bürgerkrieg
+
+* [https://www.spiegel.de/geschichte/buergerkrieg-in-den-usa-wie-wahrscheinlich-ist-es-dass-sich-die-geschichte-wiederholt](https://www.spiegel.de/geschichte/buergerkrieg-in-den-usa-wie-wahrscheinlich-ist-es-dass-sich-die-geschichte-wiederholt-a-95e3a19c-83da-4d52-aa41-391dd4d93062#ref=rss)
+### vermögen
+
+* [https://www.spiegel.de/wirtschaft/soziales/vermoegen-und-ungleichheit-heute-leben-wir-wieder-im-feudalismus](https://www.spiegel.de/wirtschaft/soziales/vermoegen-und-ungleichheit-heute-leben-wir-wieder-im-feudalismus-a-4c294c06-6e22-46d0-a9c6-672a8b4a1875#ref=rss)
+### ungleichheit
+
+* [https://www.spiegel.de/wirtschaft/soziales/vermoegen-und-ungleichheit-heute-leben-wir-wieder-im-feudalismus](https://www.spiegel.de/wirtschaft/soziales/vermoegen-und-ungleichheit-heute-leben-wir-wieder-im-feudalismus-a-4c294c06-6e22-46d0-a9c6-672a8b4a1875#ref=rss)
+### sicht
+
+* [https://www.spiegel.de/wirtschaft/soziales/vermoegen-und-ungleichheit-heute-leben-wir-wieder-im-feudalismus](https://www.spiegel.de/wirtschaft/soziales/vermoegen-und-ungleichheit-heute-leben-wir-wieder-im-feudalismus-a-4c294c06-6e22-46d0-a9c6-672a8b4a1875#ref=rss)
+* [https://www.spiegel.de/panorama/michigan-mehr-als-100-fahrzeuge-in-massenkarambolage-verwickelt](https://www.spiegel.de/panorama/michigan-mehr-als-100-fahrzeuge-in-massenkarambolage-verwickelt-a-88fdab80-835c-4026-b191-41140d565cf8#ref=rss)
+### michigan
+
+* [https://www.spiegel.de/panorama/michigan-mehr-als-100-fahrzeuge-in-massenkarambolage-verwickelt](https://www.spiegel.de/panorama/michigan-mehr-als-100-fahrzeuge-in-massenkarambolage-verwickelt-a-88fdab80-835c-4026-b191-41140d565cf8#ref=rss)
+### aufnahmezusage
+
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-widerruft-fast-zweite-aufnahmezusage-fuer-afghanische-ortskraefte](https://www.spiegel.de/politik/deutschland/bundesregierung-widerruft-fast-zweite-aufnahmezusage-fuer-afghanische-ortskraefte-a-f460aae6-b7cf-4869-a0d5-afc138aaba91#ref=rss)
+### afghanen
+
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-widerruft-fast-zweite-aufnahmezusage-fuer-afghanische-ortskraefte](https://www.spiegel.de/politik/deutschland/bundesregierung-widerruft-fast-zweite-aufnahmezusage-fuer-afghanische-ortskraefte-a-f460aae6-b7cf-4869-a0d5-afc138aaba91#ref=rss)
+### brücken
+
+* [https://www.spiegel.de/wirtschaft/streik-diese-bruecken-und-tunnel-sind-im-norden-und-nordrhein-westfalen-gesperrt](https://www.spiegel.de/wirtschaft/streik-diese-bruecken-und-tunnel-sind-im-norden-und-nordrhein-westfalen-gesperrt-a-ee8ba5c2-f6e4-40cf-97ab-599a673063a6#ref=rss)
+### novak
+
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-scherzt-ueber-carlos-alcaraz-neue-aufschlagtechnik](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-scherzt-ueber-carlos-alcaraz-neue-aufschlagtechnik-a-663e5b11-6395-499d-aa93-52cb486efd43#ref=rss)
+### djokovic
+
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-scherzt-ueber-carlos-alcaraz-neue-aufschlagtechnik](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-scherzt-ueber-carlos-alcaraz-neue-aufschlagtechnik-a-663e5b11-6395-499d-aa93-52cb486efd43#ref=rss)
+### carlos
+
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-scherzt-ueber-carlos-alcaraz-neue-aufschlagtechnik](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-scherzt-ueber-carlos-alcaraz-neue-aufschlagtechnik-a-663e5b11-6395-499d-aa93-52cb486efd43#ref=rss)
+### aufschlagtechnik
+
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-scherzt-ueber-carlos-alcaraz-neue-aufschlagtechnik](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-scherzt-ueber-carlos-alcaraz-neue-aufschlagtechnik-a-663e5b11-6395-499d-aa93-52cb486efd43#ref=rss)
 
