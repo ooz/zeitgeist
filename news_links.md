@@ -6,390 +6,350 @@ tags: __no_header__
 
 ### trump
 
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
-* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
-* [https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen](https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen-a-446474fb-e496-47ab-847f-1d05295a1016#ref=rss)
-* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche](https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche-a-4925dbf8-a256-4d7d-8d94-f2ccbafa000f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/groenland-us-militaerstuetzpunkte-als-alternative-zum-inselkauf-durch-trump](https://www.spiegel.de/politik/deutschland/groenland-us-militaerstuetzpunkte-als-alternative-zum-inselkauf-durch-trump-a-6be9969a-486e-4ffa-a6ba-48a3edd10354#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-schwadroniert-von-gaza-als-immobilienprojekt](https://www.spiegel.de/ausland/us-praesident-donald-trump-schwadroniert-von-gaza-als-immobilienprojekt-a-6073dc9d-bb36-4ab5-9c9d-f705fbfa3ffa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung](https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung-a-e0c9a31c-dcff-47b4-acf9-bf921ad1a210#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/groenland-eskalation-zwischen-usa-und-deutschland-mission-bumerang](https://www.spiegel.de/politik/deutschland/groenland-eskalation-zwischen-usa-und-deutschland-mission-bumerang-a-049242a2-de59-4687-a5b1-937a2abce497#ref=rss)
+* [https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-der-neue-baendiger-von-donald-trump](https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-der-neue-baendiger-von-donald-trump-a-b1569dd1-ef76-4b08-b3a9-b2805903b65e#ref=rss)
+* [https://www.spiegel.de/start/startklar-newsletter-wer-klaut-das-geschirr-in-der-mensa](https://www.spiegel.de/start/startklar-newsletter-wer-klaut-das-geschirr-in-der-mensa-a-0bfc194a-e656-48b3-bc57-607673ab759c#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
-* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
-* [https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen](https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen-a-446474fb-e496-47ab-847f-1d05295a1016#ref=rss)
-* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche](https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche-a-4925dbf8-a256-4d7d-8d94-f2ccbafa000f#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/leute/chris-noth-carrie-und-mr-big-sind-keine-freunde-mehr](https://www.spiegel.de/panorama/leute/chris-noth-carrie-und-mr-big-sind-keine-freunde-mehr-a-4968dea1-32b4-4e2d-87b7-1c2de2dad66e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle](https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle-a-c7794b63-2ced-49aa-8340-7fff356abd85#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne](https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne-a-3a81d200-e980-48d6-9c7d-8c9db82944bf#ref=rss)
-* [https://www.spiegel.de/start/archaeologin-und-aegyptologin-werden-klara-dietze-erzaehlt-von-grabungen-jobsuche-und-gehalt](https://www.spiegel.de/start/archaeologin-und-aegyptologin-werden-klara-dietze-erzaehlt-von-grabungen-jobsuche-und-gehalt-a-7d51803c-93c9-461b-bd3b-e375c6d2994f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/pflege-zuzahlungen-fuer-pflege-im-heim-steigen-weiter](https://www.spiegel.de/wirtschaft/service/pflege-zuzahlungen-fuer-pflege-im-heim-steigen-weiter-a-61efb34f-1d5c-4b39-8ee7-818ce72bfae9#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus](https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus-a-0b7103f2-82f6-4050-b19c-07b86cc6f4ca#ref=rss)
-* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
-### usa
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern](https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern-a-5cc6558b-a128-4664-9bd9-a98130e4a8ae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/goldreserven-der-bundesbank-in-den-usa-experten-sorgen-sich](https://www.spiegel.de/wirtschaft/soziales/goldreserven-der-bundesbank-in-den-usa-experten-sorgen-sich-a-bde2f950-ebce-4b18-aaeb-7caddbb92ecf#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
-* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle](https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle-a-c7794b63-2ced-49aa-8340-7fff356abd85#ref=rss)
-* [https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen](https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen-a-4da83430-b0f2-4f05-8549-b5a994a469d2#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen](https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen-a-a03527ce-e5cf-4512-b883-061a24e9bf83#ref=rss)
-* [https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst](https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst-a-ed415196-e5ff-4055-bc65-6e8beae71339#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/groenland-us-militaerstuetzpunkte-als-alternative-zum-inselkauf-durch-trump](https://www.spiegel.de/politik/deutschland/groenland-us-militaerstuetzpunkte-als-alternative-zum-inselkauf-durch-trump-a-6be9969a-486e-4ffa-a6ba-48a3edd10354#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-schwadroniert-von-gaza-als-immobilienprojekt](https://www.spiegel.de/ausland/us-praesident-donald-trump-schwadroniert-von-gaza-als-immobilienprojekt-a-6073dc9d-bb36-4ab5-9c9d-f705fbfa3ffa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung](https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung-a-e0c9a31c-dcff-47b4-acf9-bf921ad1a210#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/groenland-eskalation-zwischen-usa-und-deutschland-mission-bumerang](https://www.spiegel.de/politik/deutschland/groenland-eskalation-zwischen-usa-und-deutschland-mission-bumerang-a-049242a2-de59-4687-a5b1-937a2abce497#ref=rss)
+* [https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-der-neue-baendiger-von-donald-trump](https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-der-neue-baendiger-von-donald-trump-a-b1569dd1-ef76-4b08-b3a9-b2805903b65e#ref=rss)
+* [https://www.spiegel.de/start/startklar-newsletter-wer-klaut-das-geschirr-in-der-mensa](https://www.spiegel.de/start/startklar-newsletter-wer-klaut-das-geschirr-in-der-mensa-a-0bfc194a-e656-48b3-bc57-607673ab759c#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
-* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
-### grönland
+* [https://www.spiegel.de/politik/deutschland/groenland-eskalation-zwischen-usa-und-deutschland-mission-bumerang](https://www.spiegel.de/politik/deutschland/groenland-eskalation-zwischen-usa-und-deutschland-mission-bumerang-a-049242a2-de59-4687-a5b1-937a2abce497#ref=rss)
+* [https://www.spiegel.de/politik/groenland-bundeskanzler-merz-verspricht-unterstuetzung-gegen-russische-bedrohung](https://www.spiegel.de/politik/groenland-bundeskanzler-merz-verspricht-unterstuetzung-gegen-russische-bedrohung-a-e27c2318-6a83-4a65-b9c4-b3172c6603e5#ref=rss)
+* [https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-der-neue-baendiger-von-donald-trump](https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-der-neue-baendiger-von-donald-trump-a-b1569dd1-ef76-4b08-b3a9-b2805903b65e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-klimaaktivisten-wollten-offenbar-privatflugzeug-des-kanzlers-beschaedigen](https://www.spiegel.de/politik/deutschland/friedrich-merz-klimaaktivisten-wollten-offenbar-privatflugzeug-des-kanzlers-beschaedigen-a-dc372e1a-c5f2-4f15-b6a7-7e712d393522#ref=rss)
+### gaza
 
-* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/groenland-streit-im-supermarkt-viele-daenen-wollen-offenbar-us-waren-boykottieren](https://www.spiegel.de/wirtschaft/service/groenland-streit-im-supermarkt-viele-daenen-wollen-offenbar-us-waren-boykottieren-a-b1ab84a9-7879-4ad4-a1e2-c971cbb8edfa#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
-### europa
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-schwadroniert-von-gaza-als-immobilienprojekt](https://www.spiegel.de/ausland/us-praesident-donald-trump-schwadroniert-von-gaza-als-immobilienprojekt-a-6073dc9d-bb36-4ab5-9c9d-f705fbfa3ffa#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes](https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes-a-e0fbc122-bbc4-4319-bb11-3e3723c03d41#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden](https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden-a-88915914-88d8-4c0c-bd34-2feafcc0b3b2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne](https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne-a-3a81d200-e980-48d6-9c7d-8c9db82944bf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche](https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche-a-4925dbf8-a256-4d7d-8d94-f2ccbafa000f#ref=rss)
-### friedrich
+* [https://www.spiegel.de/ausland/ice-in-minnesota-us-abschiebebehoerde-schickt-offenbar-fuenfjaehrigen-in-internierungslager](https://www.spiegel.de/ausland/ice-in-minnesota-us-abschiebebehoerde-schickt-offenbar-fuenfjaehrigen-in-internierungslager-a-db680acb-93fb-44ff-8859-332a80152453#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-dreiertreffen-zwischen-der-ukraine-usa-und-russlands-an](https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-dreiertreffen-zwischen-der-ukraine-usa-und-russlands-an-a-1c72afff-300a-4680-abcb-80c121e745e1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-klimaaktivisten-wollten-offenbar-privatflugzeug-des-kanzlers-beschaedigen](https://www.spiegel.de/politik/deutschland/friedrich-merz-klimaaktivisten-wollten-offenbar-privatflugzeug-des-kanzlers-beschaedigen-a-dc372e1a-c5f2-4f15-b6a7-7e712d393522#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
-* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
-### davos
+* [https://www.spiegel.de/sport/handball/handball-em-ein-fast-noch-unbekannter-spieler-glaenzt-beim-sieg-gegen-portugal](https://www.spiegel.de/sport/handball/handball-em-ein-fast-noch-unbekannter-spieler-glaenzt-beim-sieg-gegen-portugal-a-891a30e2-8956-44d3-9420-def6bfa5f71e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/groenland-eskalation-zwischen-usa-und-deutschland-mission-bumerang](https://www.spiegel.de/politik/deutschland/groenland-eskalation-zwischen-usa-und-deutschland-mission-bumerang-a-049242a2-de59-4687-a5b1-937a2abce497#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spionage-verdacht-bundesregierung-weist-russischen-militaerattache-aus](https://www.spiegel.de/politik/deutschland/spionage-verdacht-bundesregierung-weist-russischen-militaerattache-aus-a-4ee74a8b-16a1-4d19-aee3-36dd74235658#ref=rss)
+### elizabeth
 
-* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
-* [https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen](https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen-a-446474fb-e496-47ab-847f-1d05295a1016#ref=rss)
-### friedensrat
-
-* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
-* [https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen](https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen-a-446474fb-e496-47ab-847f-1d05295a1016#ref=rss)
-### noth
-
-* [https://www.spiegel.de/panorama/leute/chris-noth-carrie-und-mr-big-sind-keine-freunde-mehr](https://www.spiegel.de/panorama/leute/chris-noth-carrie-und-mr-big-sind-keine-freunde-mehr-a-4968dea1-32b4-4e2d-87b7-1c2de2dad66e#ref=rss)
-### tot
-
-* [https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden](https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden-a-88915914-88d8-4c0c-bd34-2feafcc0b3b2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-innenpolitiker-ruediger-erben-stirbt-ueberraschend-mit-nur-58-jahren](https://www.spiegel.de/politik/deutschland/spd-innenpolitiker-ruediger-erben-stirbt-ueberraschend-mit-nur-58-jahren-a-b73c1bff-4822-45ad-8322-53b9e035e6b6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
-### familie
-
-* [https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden](https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden-a-88915914-88d8-4c0c-bd34-2feafcc0b3b2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star](https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star-a-a6271444-a4a6-45a4-9000-e1342904ecd0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
-* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
-### bundeskanzler
-
-* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
-* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern](https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern-a-5cc6558b-a128-4664-9bd9-a98130e4a8ae#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub-a-82f53fe7-76ef-4f34-b648-00dd3e5e8ec6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star](https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star-a-a6271444-a4a6-45a4-9000-e1342904ecd0#ref=rss)
-### überraschend
-
-* [https://www.spiegel.de/politik/deutschland/spd-innenpolitiker-ruediger-erben-stirbt-ueberraschend-mit-nur-58-jahren](https://www.spiegel.de/politik/deutschland/spd-innenpolitiker-ruediger-erben-stirbt-ueberraschend-mit-nur-58-jahren-a-b73c1bff-4822-45ad-8322-53b9e035e6b6#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus](https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus-a-0b7103f2-82f6-4050-b19c-07b86cc6f4ca#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/kultur/tv/grimme-preis-haftbefehl-doku-und-ard-korrespondentin-von-der-tann-nominiert](https://www.spiegel.de/kultur/tv/grimme-preis-haftbefehl-doku-und-ard-korrespondentin-von-der-tann-nominiert-a-dd7ab73f-802b-4d44-b588-edd0e4df7c84#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/goldreserven-der-bundesbank-in-den-usa-experten-sorgen-sich](https://www.spiegel.de/wirtschaft/soziales/goldreserven-der-bundesbank-in-den-usa-experten-sorgen-sich-a-bde2f950-ebce-4b18-aaeb-7caddbb92ecf#ref=rss)
-* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen](https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen-a-4da83430-b0f2-4f05-8549-b5a994a469d2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/wirtschaft/soziales/goldreserven-der-bundesbank-in-den-usa-experten-sorgen-sich](https://www.spiegel.de/wirtschaft/soziales/goldreserven-der-bundesbank-in-den-usa-experten-sorgen-sich-a-bde2f950-ebce-4b18-aaeb-7caddbb92ecf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne](https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne-a-3a81d200-e980-48d6-9c7d-8c9db82944bf#ref=rss)
-* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/start/archaeologin-und-aegyptologin-werden-klara-dietze-erzaehlt-von-grabungen-jobsuche-und-gehalt](https://www.spiegel.de/start/archaeologin-und-aegyptologin-werden-klara-dietze-erzaehlt-von-grabungen-jobsuche-und-gehalt-a-7d51803c-93c9-461b-bd3b-e375c6d2994f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/pflege-zuzahlungen-fuer-pflege-im-heim-steigen-weiter](https://www.spiegel.de/wirtschaft/service/pflege-zuzahlungen-fuer-pflege-im-heim-steigen-weiter-a-61efb34f-1d5c-4b39-8ee7-818ce72bfae9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/wirtschaft/service/groenland-streit-im-supermarkt-viele-daenen-wollen-offenbar-us-waren-boykottieren](https://www.spiegel.de/wirtschaft/service/groenland-streit-im-supermarkt-viele-daenen-wollen-offenbar-us-waren-boykottieren-a-b1ab84a9-7879-4ad4-a1e2-c971cbb8edfa#ref=rss)
-* [https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst](https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst-a-ed415196-e5ff-4055-bc65-6e8beae71339#ref=rss)
-### chris
-
-* [https://www.spiegel.de/panorama/leute/chris-noth-carrie-und-mr-big-sind-keine-freunde-mehr](https://www.spiegel.de/panorama/leute/chris-noth-carrie-und-mr-big-sind-keine-freunde-mehr-a-4968dea1-32b4-4e2d-87b7-1c2de2dad66e#ref=rss)
-### carrie
-
-* [https://www.spiegel.de/panorama/leute/chris-noth-carrie-und-mr-big-sind-keine-freunde-mehr](https://www.spiegel.de/panorama/leute/chris-noth-carrie-und-mr-big-sind-keine-freunde-mehr-a-4968dea1-32b4-4e2d-87b7-1c2de2dad66e#ref=rss)
-### aachen
-
-* [https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle](https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle-a-c7794b63-2ced-49aa-8340-7fff356abd85#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle](https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle-a-c7794b63-2ced-49aa-8340-7fff356abd85#ref=rss)
-### womöglich
-
-* [https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle](https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle-a-c7794b63-2ced-49aa-8340-7fff356abd85#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche](https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche-a-4925dbf8-a256-4d7d-8d94-f2ccbafa000f#ref=rss)
-### bosporus
-
-* [https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden](https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden-a-88915914-88d8-4c0c-bd34-2feafcc0b3b2#ref=rss)
-### teilnehmer
-
-* [https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden](https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden-a-88915914-88d8-4c0c-bd34-2feafcc0b3b2#ref=rss)
-* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
-### kämpfen
-
-* [https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden](https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden-a-88915914-88d8-4c0c-bd34-2feafcc0b3b2#ref=rss)
-* [https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst](https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst-a-ed415196-e5ff-4055-bc65-6e8beae71339#ref=rss)
-### lars
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
-### klingbeil
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
-### einige
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
-* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
-* [https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen](https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen-a-446474fb-e496-47ab-847f-1d05295a1016#ref=rss)
-### einlenken
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
-### ende
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
-### meinung
-
-* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
-* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
-### fußballwm
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern](https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern-a-5cc6558b-a128-4664-9bd9-a98130e4a8ae#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern](https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern-a-5cc6558b-a128-4664-9bd9-a98130e4a8ae#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus](https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus-a-0b7103f2-82f6-4050-b19c-07b86cc6f4ca#ref=rss)
-### joshua
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern](https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern-a-5cc6558b-a128-4664-9bd9-a98130e4a8ae#ref=rss)
-### kimmich
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern](https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern-a-5cc6558b-a128-4664-9bd9-a98130e4a8ae#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern](https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern-a-5cc6558b-a128-4664-9bd9-a98130e4a8ae#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub-a-82f53fe7-76ef-4f34-b648-00dd3e5e8ec6#ref=rss)
-### darauf
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern](https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern-a-5cc6558b-a128-4664-9bd9-a98130e4a8ae#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
-### rüdiger
-
-* [https://www.spiegel.de/politik/deutschland/spd-innenpolitiker-ruediger-erben-stirbt-ueberraschend-mit-nur-58-jahren](https://www.spiegel.de/politik/deutschland/spd-innenpolitiker-ruediger-erben-stirbt-ueberraschend-mit-nur-58-jahren-a-b73c1bff-4822-45ad-8322-53b9e035e6b6#ref=rss)
-### erben
-
-* [https://www.spiegel.de/politik/deutschland/spd-innenpolitiker-ruediger-erben-stirbt-ueberraschend-mit-nur-58-jahren](https://www.spiegel.de/politik/deutschland/spd-innenpolitiker-ruediger-erben-stirbt-ueberraschend-mit-nur-58-jahren-a-b73c1bff-4822-45ad-8322-53b9e035e6b6#ref=rss)
-### darunter
-
-* [https://www.spiegel.de/kultur/tv/grimme-preis-haftbefehl-doku-und-ard-korrespondentin-von-der-tann-nominiert](https://www.spiegel.de/kultur/tv/grimme-preis-haftbefehl-doku-und-ard-korrespondentin-von-der-tann-nominiert-a-dd7ab73f-802b-4d44-b588-edd0e4df7c84#ref=rss)
-* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
-### unter
-
-* [https://www.spiegel.de/kultur/tv/grimme-preis-haftbefehl-doku-und-ard-korrespondentin-von-der-tann-nominiert](https://www.spiegel.de/kultur/tv/grimme-preis-haftbefehl-doku-und-ard-korrespondentin-von-der-tann-nominiert-a-dd7ab73f-802b-4d44-b588-edd0e4df7c84#ref=rss)
-* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
-### griechenland
-
-* [https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen](https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen-a-4da83430-b0f2-4f05-8549-b5a994a469d2#ref=rss)
-### sterben
-
-* [https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen](https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen-a-4da83430-b0f2-4f05-8549-b5a994a469d2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen](https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen-a-4da83430-b0f2-4f05-8549-b5a994a469d2#ref=rss)
-* [https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst](https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst-a-ed415196-e5ff-4055-bc65-6e8beae71339#ref=rss)
-### nasa
-
-* [https://www.spiegel.de/wissenschaft/weltall/nasa-heimgekehrte-astronauten-berichten-vom-medizinischen-notfall-auf-der-iss](https://www.spiegel.de/wissenschaft/weltall/nasa-heimgekehrte-astronauten-berichten-vom-medizinischen-notfall-auf-der-iss-a-c9473b2a-734f-4185-9901-149c64b1b930#ref=rss)
-### astronauten
-
-* [https://www.spiegel.de/wissenschaft/weltall/nasa-heimgekehrte-astronauten-berichten-vom-medizinischen-notfall-auf-der-iss](https://www.spiegel.de/wissenschaft/weltall/nasa-heimgekehrte-astronauten-berichten-vom-medizinischen-notfall-auf-der-iss-a-c9473b2a-734f-4185-9901-149c64b1b930#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub-a-82f53fe7-76ef-4f34-b648-00dd3e5e8ec6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star](https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star-a-a6271444-a4a6-45a4-9000-e1342904ecd0#ref=rss)
-### dayot
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub-a-82f53fe7-76ef-4f34-b648-00dd3e5e8ec6#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub-a-82f53fe7-76ef-4f34-b648-00dd3e5e8ec6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne](https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne-a-3a81d200-e980-48d6-9c7d-8c9db82944bf#ref=rss)
-### viele
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub-a-82f53fe7-76ef-4f34-b648-00dd3e5e8ec6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/groenland-streit-im-supermarkt-viele-daenen-wollen-offenbar-us-waren-boykottieren](https://www.spiegel.de/wirtschaft/service/groenland-streit-im-supermarkt-viele-daenen-wollen-offenbar-us-waren-boykottieren-a-b1ab84a9-7879-4ad4-a1e2-c971cbb8edfa#ref=rss)
-### lucas
-
-* [https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star](https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star-a-a6271444-a4a6-45a4-9000-e1342904ecd0#ref=rss)
-### hernández
-
-* [https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star](https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star-a-a6271444-a4a6-45a4-9000-e1342904ecd0#ref=rss)
-### schwere
-
-* [https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star](https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star-a-a6271444-a4a6-45a4-9000-e1342904ecd0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
-### anwältin
-
-* [https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star](https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star-a-a6271444-a4a6-45a4-9000-e1342904ecd0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star](https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star-a-a6271444-a4a6-45a4-9000-e1342904ecd0#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen](https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen-a-a03527ce-e5cf-4512-b883-061a24e9bf83#ref=rss)
-### goldreserven
-
-* [https://www.spiegel.de/wirtschaft/soziales/goldreserven-der-bundesbank-in-den-usa-experten-sorgen-sich](https://www.spiegel.de/wirtschaft/soziales/goldreserven-der-bundesbank-in-den-usa-experten-sorgen-sich-a-bde2f950-ebce-4b18-aaeb-7caddbb92ecf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung](https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung-a-e0c9a31c-dcff-47b4-acf9-bf921ad1a210#ref=rss)
+* [https://www.spiegel.de/panorama/leute/elizabeth-hurley-bricht-im-prozess-gegen-boulevardmedien-vor-gericht-in-traenen-aus](https://www.spiegel.de/panorama/leute/elizabeth-hurley-bricht-im-prozess-gegen-boulevardmedien-vor-gericht-in-traenen-aus-a-dd44c158-c491-4cfd-9746-29167e3fea8f#ref=rss)
 ### grünen
 
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne](https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne-a-3a81d200-e980-48d6-9c7d-8c9db82944bf#ref=rss)
-### sollte
+* [https://www.spiegel.de/politik/ermittlungen-gegen-gruene-jugend-chef-bobga-wegen-soeder-beleidigung](https://www.spiegel.de/politik/ermittlungen-gegen-gruene-jugend-chef-bobga-wegen-soeder-beleidigung-a-90a96ff0-9a34-45bc-9cee-284879cf3c0e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/umfragen-in-baden-wuerttemberg-holen-die-gruenen-auf-in-rheinland-pfalz-die-spd](https://www.spiegel.de/politik/deutschland/umfragen-in-baden-wuerttemberg-holen-die-gruenen-auf-in-rheinland-pfalz-die-spd-a-6fa68fef-8efe-418f-b789-54c5af11ea1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-im-eu-parlament-erik-marquardt-gesteht-fehler-bei-mercosur-abstimmung-ein](https://www.spiegel.de/politik/deutschland/gruene-im-eu-parlament-erik-marquardt-gesteht-fehler-bei-mercosur-abstimmung-ein-a-1f757fb7-2e9f-4fb5-a3c0-c2757c4aeffc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-stefan-liebich-verlaesst-die-partei](https://www.spiegel.de/politik/deutschland/die-linke-stefan-liebich-verlaesst-die-partei-a-1abfb4b4-3cb1-4620-95f2-24949e601947#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne](https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne-a-3a81d200-e980-48d6-9c7d-8c9db82944bf#ref=rss)
-* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
-### uelzen
+* [https://www.spiegel.de/politik/deutschland/groenland-eskalation-zwischen-usa-und-deutschland-mission-bumerang](https://www.spiegel.de/politik/deutschland/groenland-eskalation-zwischen-usa-und-deutschland-mission-bumerang-a-049242a2-de59-4687-a5b1-937a2abce497#ref=rss)
+* [https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-der-neue-baendiger-von-donald-trump](https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-der-neue-baendiger-von-donald-trump-a-b1569dd1-ef76-4b08-b3a9-b2805903b65e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-klimaaktivisten-wollten-offenbar-privatflugzeug-des-kanzlers-beschaedigen](https://www.spiegel.de/politik/deutschland/friedrich-merz-klimaaktivisten-wollten-offenbar-privatflugzeug-des-kanzlers-beschaedigen-a-dc372e1a-c5f2-4f15-b6a7-7e712d393522#ref=rss)
+### stunden
 
-* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
-### yacouba
+* [https://www.spiegel.de/politik/deutschland/groenland-eskalation-zwischen-usa-und-deutschland-mission-bumerang](https://www.spiegel.de/politik/deutschland/groenland-eskalation-zwischen-usa-und-deutschland-mission-bumerang-a-049242a2-de59-4687-a5b1-937a2abce497#ref=rss)
+* [https://www.spiegel.de/panorama/leute/phil-collins-berichtet-dass-er-24-stunden-am-tag-betreuung-benoetigt](https://www.spiegel.de/panorama/leute/phil-collins-berichtet-dass-er-24-stunden-am-tag-betreuung-benoetigt-a-ae5e9efa-0aad-45f4-9470-b4baa740088a#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes](https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes-a-e0fbc122-bbc4-4319-bb11-3e3723c03d41#ref=rss)
+### davos
 
-* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
-### z
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-dreiertreffen-zwischen-der-ukraine-usa-und-russlands-an](https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-dreiertreffen-zwischen-der-ukraine-usa-und-russlands-an-a-1c72afff-300a-4680-abcb-80c121e745e1#ref=rss)
+* [https://www.spiegel.de/politik/groenland-bundeskanzler-merz-verspricht-unterstuetzung-gegen-russische-bedrohung](https://www.spiegel.de/politik/groenland-bundeskanzler-merz-verspricht-unterstuetzung-gegen-russische-bedrohung-a-e27c2318-6a83-4a65-b9c4-b3172c6603e5#ref=rss)
+* [https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-der-neue-baendiger-von-donald-trump](https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-der-neue-baendiger-von-donald-trump-a-b1569dd1-ef76-4b08-b3a9-b2805903b65e#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
-### kuba
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-fast-jeder-dritte-managementposten-soll-wegfallen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-fast-jeder-dritte-managementposten-soll-wegfallen-a-3a1489d5-152c-439b-aede-e9db7968ae59#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscar-nominierungen-sinners-stellt-mit-16-oscarnominierungen-rekord-auf](https://www.spiegel.de/kultur/kino/oscar-nominierungen-sinners-stellt-mit-16-oscarnominierungen-rekord-auf-a-718ba68c-4ddb-44cf-93ea-07f6ea9b0c75#ref=rss)
+### grönland
 
-* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/groenland-us-militaerstuetzpunkte-als-alternative-zum-inselkauf-durch-trump](https://www.spiegel.de/politik/deutschland/groenland-us-militaerstuetzpunkte-als-alternative-zum-inselkauf-durch-trump-a-6be9969a-486e-4ffa-a6ba-48a3edd10354#ref=rss)
+* [https://www.spiegel.de/politik/groenland-bundeskanzler-merz-verspricht-unterstuetzung-gegen-russische-bedrohung](https://www.spiegel.de/politik/groenland-bundeskanzler-merz-verspricht-unterstuetzung-gegen-russische-bedrohung-a-e27c2318-6a83-4a65-b9c4-b3172c6603e5#ref=rss)
+### usa
+
+* [https://www.spiegel.de/politik/deutschland/groenland-us-militaerstuetzpunkte-als-alternative-zum-inselkauf-durch-trump](https://www.spiegel.de/politik/deutschland/groenland-us-militaerstuetzpunkte-als-alternative-zum-inselkauf-durch-trump-a-6be9969a-486e-4ffa-a6ba-48a3edd10354#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/groenland-eskalation-zwischen-usa-und-deutschland-mission-bumerang](https://www.spiegel.de/politik/deutschland/groenland-eskalation-zwischen-usa-und-deutschland-mission-bumerang-a-049242a2-de59-4687-a5b1-937a2abce497#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-dreiertreffen-zwischen-der-ukraine-usa-und-russlands-an](https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-dreiertreffen-zwischen-der-ukraine-usa-und-russlands-an-a-1c72afff-300a-4680-abcb-80c121e745e1#ref=rss)
+### gemeinsam
+
+* [https://www.spiegel.de/ausland/ice-in-minnesota-us-abschiebebehoerde-schickt-offenbar-fuenfjaehrigen-in-internierungslager](https://www.spiegel.de/ausland/ice-in-minnesota-us-abschiebebehoerde-schickt-offenbar-fuenfjaehrigen-in-internierungslager-a-db680acb-93fb-44ff-8859-332a80152453#ref=rss)
+* [https://www.spiegel.de/panorama/leute/elizabeth-hurley-bricht-im-prozess-gegen-boulevardmedien-vor-gericht-in-traenen-aus](https://www.spiegel.de/panorama/leute/elizabeth-hurley-bricht-im-prozess-gegen-boulevardmedien-vor-gericht-in-traenen-aus-a-dd44c158-c491-4cfd-9746-29167e3fea8f#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-dreiertreffen-zwischen-der-ukraine-usa-und-russlands-an](https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-dreiertreffen-zwischen-der-ukraine-usa-und-russlands-an-a-1c72afff-300a-4680-abcb-80c121e745e1#ref=rss)
+### vater
+
+* [https://www.spiegel.de/ausland/ice-in-minnesota-us-abschiebebehoerde-schickt-offenbar-fuenfjaehrigen-in-internierungslager](https://www.spiegel.de/ausland/ice-in-minnesota-us-abschiebebehoerde-schickt-offenbar-fuenfjaehrigen-in-internierungslager-a-db680acb-93fb-44ff-8859-332a80152453#ref=rss)
+* [https://www.spiegel.de/geschichte/musiker-betterov-und-die-ddr-geschichte-die-nacht-in-der-sein-vater-flieht](https://www.spiegel.de/geschichte/musiker-betterov-und-die-ddr-geschichte-die-nacht-in-der-sein-vater-flieht-a-06c007a3-c0f0-4bef-935a-65b3d98de88e#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung](https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung-a-e0c9a31c-dcff-47b4-acf9-bf921ad1a210#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spionage-verdacht-bundesregierung-weist-russischen-militaerattache-aus](https://www.spiegel.de/politik/deutschland/spionage-verdacht-bundesregierung-weist-russischen-militaerattache-aus-a-4ee74a8b-16a1-4d19-aee3-36dd74235658#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung](https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung-a-e0c9a31c-dcff-47b4-acf9-bf921ad1a210#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spionage-verdacht-bundesregierung-weist-russischen-militaerattache-aus](https://www.spiegel.de/politik/deutschland/spionage-verdacht-bundesregierung-weist-russischen-militaerattache-aus-a-4ee74a8b-16a1-4d19-aee3-36dd74235658#ref=rss)
+### co
+
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-in-schulen-macht-ki-unsere-kinder-duemmer](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-in-schulen-macht-ki-unsere-kinder-duemmer-a-6e29f928-7bc8-4195-bcdc-1d13b082fa82#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/benchmark-fuer-kuenstliche-intelligenz-wie-bewertet-man-eigentlich-chatgpt-und-co-quiz](https://www.spiegel.de/wissenschaft/technik/benchmark-fuer-kuenstliche-intelligenz-wie-bewertet-man-eigentlich-chatgpt-und-co-quiz-a-039f6f4e-0ecb-4b80-b9ea-07d5e3a895e1#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/partnerschaft/sex-bei-jugendlichen-teenager-warten-heute-laenger-auf-das-erste-mal](https://www.spiegel.de/partnerschaft/sex-bei-jugendlichen-teenager-warten-heute-laenger-auf-das-erste-mal-a-924b7c56-8160-498e-b3cd-aae1e31c1c32#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes](https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes-a-e0fbc122-bbc4-4319-bb11-3e3723c03d41#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-zug-kollidiert-mit-kran-mehrere-verletzte](https://www.spiegel.de/panorama/spanien-zug-kollidiert-mit-kran-mehrere-verletzte-a-536752a5-1611-4591-bf20-3c3f25b7fd4e#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/politik/deutschland/umfragen-in-baden-wuerttemberg-holen-die-gruenen-auf-in-rheinland-pfalz-die-spd](https://www.spiegel.de/politik/deutschland/umfragen-in-baden-wuerttemberg-holen-die-gruenen-auf-in-rheinland-pfalz-die-spd-a-6fa68fef-8efe-418f-b789-54c5af11ea1d#ref=rss)
+* [https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-der-neue-baendiger-von-donald-trump](https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-der-neue-baendiger-von-donald-trump-a-b1569dd1-ef76-4b08-b3a9-b2805903b65e#ref=rss)
+* [https://www.spiegel.de/geschichte/musiker-betterov-und-die-ddr-geschichte-die-nacht-in-der-sein-vater-flieht](https://www.spiegel.de/geschichte/musiker-betterov-und-die-ddr-geschichte-die-nacht-in-der-sein-vater-flieht-a-06c007a3-c0f0-4bef-935a-65b3d98de88e#ref=rss)
+### musiker
+
+* [https://www.spiegel.de/panorama/leute/phil-collins-berichtet-dass-er-24-stunden-am-tag-betreuung-benoetigt](https://www.spiegel.de/panorama/leute/phil-collins-berichtet-dass-er-24-stunden-am-tag-betreuung-benoetigt-a-ae5e9efa-0aad-45f4-9470-b4baa740088a#ref=rss)
+* [https://www.spiegel.de/geschichte/musiker-betterov-und-die-ddr-geschichte-die-nacht-in-der-sein-vater-flieht](https://www.spiegel.de/geschichte/musiker-betterov-und-die-ddr-geschichte-die-nacht-in-der-sein-vater-flieht-a-06c007a3-c0f0-4bef-935a-65b3d98de88e#ref=rss)
+### bundeskanzler
+
+* [https://www.spiegel.de/politik/groenland-bundeskanzler-merz-verspricht-unterstuetzung-gegen-russische-bedrohung](https://www.spiegel.de/politik/groenland-bundeskanzler-merz-verspricht-unterstuetzung-gegen-russische-bedrohung-a-e27c2318-6a83-4a65-b9c4-b3172c6603e5#ref=rss)
+* [https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-der-neue-baendiger-von-donald-trump](https://www.spiegel.de/politik/weltwirtschaftsforum-in-davos-friedrich-merz-der-neue-baendiger-von-donald-trump-a-b1569dd1-ef76-4b08-b3a9-b2805903b65e#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-fast-jeder-dritte-managementposten-soll-wegfallen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-fast-jeder-dritte-managementposten-soll-wegfallen-a-3a1489d5-152c-439b-aede-e9db7968ae59#ref=rss)
+### fast
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-fast-jeder-dritte-managementposten-soll-wegfallen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-fast-jeder-dritte-managementposten-soll-wegfallen-a-3a1489d5-152c-439b-aede-e9db7968ae59#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-em-ein-fast-noch-unbekannter-spieler-glaenzt-beim-sieg-gegen-portugal](https://www.spiegel.de/sport/handball/handball-em-ein-fast-noch-unbekannter-spieler-glaenzt-beim-sieg-gegen-portugal-a-891a30e2-8956-44d3-9420-def6bfa5f71e#ref=rss)
+### wegfallen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-fast-jeder-dritte-managementposten-soll-wegfallen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-fast-jeder-dritte-managementposten-soll-wegfallen-a-3a1489d5-152c-439b-aede-e9db7968ae59#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-fast-jeder-dritte-managementposten-soll-wegfallen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-fast-jeder-dritte-managementposten-soll-wegfallen-a-3a1489d5-152c-439b-aede-e9db7968ae59#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/umfragen-in-baden-wuerttemberg-holen-die-gruenen-auf-in-rheinland-pfalz-die-spd](https://www.spiegel.de/politik/deutschland/umfragen-in-baden-wuerttemberg-holen-die-gruenen-auf-in-rheinland-pfalz-die-spd-a-6fa68fef-8efe-418f-b789-54c5af11ea1d#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-schwadroniert-von-gaza-als-immobilienprojekt](https://www.spiegel.de/ausland/us-praesident-donald-trump-schwadroniert-von-gaza-als-immobilienprojekt-a-6073dc9d-bb36-4ab5-9c9d-f705fbfa3ffa#ref=rss)
+### verspricht
+
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-schwadroniert-von-gaza-als-immobilienprojekt](https://www.spiegel.de/ausland/us-praesident-donald-trump-schwadroniert-von-gaza-als-immobilienprojekt-a-6073dc9d-bb36-4ab5-9c9d-f705fbfa3ffa#ref=rss)
+* [https://www.spiegel.de/politik/groenland-bundeskanzler-merz-verspricht-unterstuetzung-gegen-russische-bedrohung](https://www.spiegel.de/politik/groenland-bundeskanzler-merz-verspricht-unterstuetzung-gegen-russische-bedrohung-a-e27c2318-6a83-4a65-b9c4-b3172c6603e5#ref=rss)
+### minnesota
+
+* [https://www.spiegel.de/ausland/ice-in-minnesota-us-abschiebebehoerde-schickt-offenbar-fuenfjaehrigen-in-internierungslager](https://www.spiegel.de/ausland/ice-in-minnesota-us-abschiebebehoerde-schickt-offenbar-fuenfjaehrigen-in-internierungslager-a-db680acb-93fb-44ff-8859-332a80152453#ref=rss)
+### internierungslager
+
+* [https://www.spiegel.de/ausland/ice-in-minnesota-us-abschiebebehoerde-schickt-offenbar-fuenfjaehrigen-in-internierungslager](https://www.spiegel.de/ausland/ice-in-minnesota-us-abschiebebehoerde-schickt-offenbar-fuenfjaehrigen-in-internierungslager-a-db680acb-93fb-44ff-8859-332a80152453#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/ausland/ice-in-minnesota-us-abschiebebehoerde-schickt-offenbar-fuenfjaehrigen-in-internierungslager](https://www.spiegel.de/ausland/ice-in-minnesota-us-abschiebebehoerde-schickt-offenbar-fuenfjaehrigen-in-internierungslager-a-db680acb-93fb-44ff-8859-332a80152453#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-stefan-liebich-verlaesst-die-partei](https://www.spiegel.de/politik/deutschland/die-linke-stefan-liebich-verlaesst-die-partei-a-1abfb4b4-3cb1-4620-95f2-24949e601947#ref=rss)
+### spieler
+
+* [https://www.spiegel.de/sport/handball/handball-em-ein-fast-noch-unbekannter-spieler-glaenzt-beim-sieg-gegen-portugal](https://www.spiegel.de/sport/handball/handball-em-ein-fast-noch-unbekannter-spieler-glaenzt-beim-sieg-gegen-portugal-a-891a30e2-8956-44d3-9420-def6bfa5f71e#ref=rss)
+### schweren
+
+* [https://www.spiegel.de/sport/handball/handball-em-ein-fast-noch-unbekannter-spieler-glaenzt-beim-sieg-gegen-portugal](https://www.spiegel.de/sport/handball/handball-em-ein-fast-noch-unbekannter-spieler-glaenzt-beim-sieg-gegen-portugal-a-891a30e2-8956-44d3-9420-def6bfa5f71e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/phil-collins-berichtet-dass-er-24-stunden-am-tag-betreuung-benoetigt](https://www.spiegel.de/panorama/leute/phil-collins-berichtet-dass-er-24-stunden-am-tag-betreuung-benoetigt-a-ae5e9efa-0aad-45f4-9470-b4baa740088a#ref=rss)
+### gemacht
+
+* [https://www.spiegel.de/sport/handball/handball-em-ein-fast-noch-unbekannter-spieler-glaenzt-beim-sieg-gegen-portugal](https://www.spiegel.de/sport/handball/handball-em-ein-fast-noch-unbekannter-spieler-glaenzt-beim-sieg-gegen-portugal-a-891a30e2-8956-44d3-9420-def6bfa5f71e#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes](https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes-a-e0fbc122-bbc4-4319-bb11-3e3723c03d41#ref=rss)
+### erpressungen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung](https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung-a-e0c9a31c-dcff-47b4-acf9-bf921ad1a210#ref=rss)
+### europa
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung](https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung-a-e0c9a31c-dcff-47b4-acf9-bf921ad1a210#ref=rss)
+### wehrt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung](https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung-a-e0c9a31c-dcff-47b4-acf9-bf921ad1a210#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung](https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung-a-e0c9a31c-dcff-47b4-acf9-bf921ad1a210#ref=rss)
+* [https://www.spiegel.de/partnerschaft/sex-bei-jugendlichen-teenager-warten-heute-laenger-auf-das-erste-mal](https://www.spiegel.de/partnerschaft/sex-bei-jugendlichen-teenager-warten-heute-laenger-auf-das-erste-mal-a-924b7c56-8160-498e-b3cd-aae1e31c1c32#ref=rss)
+### weist
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung](https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung-a-e0c9a31c-dcff-47b4-acf9-bf921ad1a210#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spionage-verdacht-bundesregierung-weist-russischen-militaerattache-aus](https://www.spiegel.de/politik/deutschland/spionage-verdacht-bundesregierung-weist-russischen-militaerattache-aus-a-4ee74a8b-16a1-4d19-aee3-36dd74235658#ref=rss)
+### militärattaché
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung](https://www.spiegel.de/politik/deutschland/news-des-tages-ausweisung-des-russischen-militaerattaches-donald-trumps-erpressungen-und-wie-europa-sich-wehrt-elizabeth-holmes-antrag-auf-begnadigung-a-e0c9a31c-dcff-47b4-acf9-bf921ad1a210#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spionage-verdacht-bundesregierung-weist-russischen-militaerattache-aus](https://www.spiegel.de/politik/deutschland/spionage-verdacht-bundesregierung-weist-russischen-militaerattache-aus-a-4ee74a8b-16a1-4d19-aee3-36dd74235658#ref=rss)
+### künstliche
+
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-in-schulen-macht-ki-unsere-kinder-duemmer](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-in-schulen-macht-ki-unsere-kinder-duemmer-a-6e29f928-7bc8-4195-bcdc-1d13b082fa82#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/benchmark-fuer-kuenstliche-intelligenz-wie-bewertet-man-eigentlich-chatgpt-und-co-quiz](https://www.spiegel.de/wissenschaft/technik/benchmark-fuer-kuenstliche-intelligenz-wie-bewertet-man-eigentlich-chatgpt-und-co-quiz-a-039f6f4e-0ecb-4b80-b9ea-07d5e3a895e1#ref=rss)
+### intelligenz
+
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-in-schulen-macht-ki-unsere-kinder-duemmer](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-in-schulen-macht-ki-unsere-kinder-duemmer-a-6e29f928-7bc8-4195-bcdc-1d13b082fa82#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/benchmark-fuer-kuenstliche-intelligenz-wie-bewertet-man-eigentlich-chatgpt-und-co-quiz](https://www.spiegel.de/wissenschaft/technik/benchmark-fuer-kuenstliche-intelligenz-wie-bewertet-man-eigentlich-chatgpt-und-co-quiz-a-039f6f4e-0ecb-4b80-b9ea-07d5e3a895e1#ref=rss)
+### ki
+
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-in-schulen-macht-ki-unsere-kinder-duemmer](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-in-schulen-macht-ki-unsere-kinder-duemmer-a-6e29f928-7bc8-4195-bcdc-1d13b082fa82#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/benchmark-fuer-kuenstliche-intelligenz-wie-bewertet-man-eigentlich-chatgpt-und-co-quiz](https://www.spiegel.de/wissenschaft/technik/benchmark-fuer-kuenstliche-intelligenz-wie-bewertet-man-eigentlich-chatgpt-und-co-quiz-a-039f6f4e-0ecb-4b80-b9ea-07d5e3a895e1#ref=rss)
+### chatgpt
+
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-in-schulen-macht-ki-unsere-kinder-duemmer](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-in-schulen-macht-ki-unsere-kinder-duemmer-a-6e29f928-7bc8-4195-bcdc-1d13b082fa82#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/benchmark-fuer-kuenstliche-intelligenz-wie-bewertet-man-eigentlich-chatgpt-und-co-quiz](https://www.spiegel.de/wissenschaft/technik/benchmark-fuer-kuenstliche-intelligenz-wie-bewertet-man-eigentlich-chatgpt-und-co-quiz-a-039f6f4e-0ecb-4b80-b9ea-07d5e3a895e1#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-in-schulen-macht-ki-unsere-kinder-duemmer](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-in-schulen-macht-ki-unsere-kinder-duemmer-a-6e29f928-7bc8-4195-bcdc-1d13b082fa82#ref=rss)
+* [https://www.spiegel.de/panorama/leute/phil-collins-berichtet-dass-er-24-stunden-am-tag-betreuung-benoetigt](https://www.spiegel.de/panorama/leute/phil-collins-berichtet-dass-er-24-stunden-am-tag-betreuung-benoetigt-a-ae5e9efa-0aad-45f4-9470-b4baa740088a#ref=rss)
+### bobga
+
+* [https://www.spiegel.de/politik/ermittlungen-gegen-gruene-jugend-chef-bobga-wegen-soeder-beleidigung](https://www.spiegel.de/politik/ermittlungen-gegen-gruene-jugend-chef-bobga-wegen-soeder-beleidigung-a-90a96ff0-9a34-45bc-9cee-284879cf3c0e#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/politik/ermittlungen-gegen-gruene-jugend-chef-bobga-wegen-soeder-beleidigung](https://www.spiegel.de/politik/ermittlungen-gegen-gruene-jugend-chef-bobga-wegen-soeder-beleidigung-a-90a96ff0-9a34-45bc-9cee-284879cf3c0e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/benchmark-fuer-kuenstliche-intelligenz-wie-bewertet-man-eigentlich-chatgpt-und-co-quiz](https://www.spiegel.de/wissenschaft/technik/benchmark-fuer-kuenstliche-intelligenz-wie-bewertet-man-eigentlich-chatgpt-und-co-quiz-a-039f6f4e-0ecb-4b80-b9ea-07d5e3a895e1#ref=rss)
+### länger
+
+* [https://www.spiegel.de/partnerschaft/sex-bei-jugendlichen-teenager-warten-heute-laenger-auf-das-erste-mal](https://www.spiegel.de/partnerschaft/sex-bei-jugendlichen-teenager-warten-heute-laenger-auf-das-erste-mal-a-924b7c56-8160-498e-b3cd-aae1e31c1c32#ref=rss)
+* [https://www.spiegel.de/start/startklar-newsletter-wer-klaut-das-geschirr-in-der-mensa](https://www.spiegel.de/start/startklar-newsletter-wer-klaut-das-geschirr-in-der-mensa-a-0bfc194a-e656-48b3-bc57-607673ab759c#ref=rss)
+### 17
+
+* [https://www.spiegel.de/partnerschaft/sex-bei-jugendlichen-teenager-warten-heute-laenger-auf-das-erste-mal](https://www.spiegel.de/partnerschaft/sex-bei-jugendlichen-teenager-warten-heute-laenger-auf-das-erste-mal-a-924b7c56-8160-498e-b3cd-aae1e31c1c32#ref=rss)
+* [https://www.spiegel.de/geschichte/musiker-betterov-und-die-ddr-geschichte-die-nacht-in-der-sein-vater-flieht](https://www.spiegel.de/geschichte/musiker-betterov-und-die-ddr-geschichte-die-nacht-in-der-sein-vater-flieht-a-06c007a3-c0f0-4bef-935a-65b3d98de88e#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/partnerschaft/sex-bei-jugendlichen-teenager-warten-heute-laenger-auf-das-erste-mal](https://www.spiegel.de/partnerschaft/sex-bei-jugendlichen-teenager-warten-heute-laenger-auf-das-erste-mal-a-924b7c56-8160-498e-b3cd-aae1e31c1c32#ref=rss)
+* [https://www.spiegel.de/panorama/leute/phil-collins-berichtet-dass-er-24-stunden-am-tag-betreuung-benoetigt](https://www.spiegel.de/panorama/leute/phil-collins-berichtet-dass-er-24-stunden-am-tag-betreuung-benoetigt-a-ae5e9efa-0aad-45f4-9470-b4baa740088a#ref=rss)
+### umfragen
+
+* [https://www.spiegel.de/politik/deutschland/umfragen-in-baden-wuerttemberg-holen-die-gruenen-auf-in-rheinland-pfalz-die-spd](https://www.spiegel.de/politik/deutschland/umfragen-in-baden-wuerttemberg-holen-die-gruenen-auf-in-rheinland-pfalz-die-spd-a-6fa68fef-8efe-418f-b789-54c5af11ea1d#ref=rss)
+### badenwürttemberg
+
+* [https://www.spiegel.de/politik/deutschland/umfragen-in-baden-wuerttemberg-holen-die-gruenen-auf-in-rheinland-pfalz-die-spd](https://www.spiegel.de/politik/deutschland/umfragen-in-baden-wuerttemberg-holen-die-gruenen-auf-in-rheinland-pfalz-die-spd-a-6fa68fef-8efe-418f-b789-54c5af11ea1d#ref=rss)
+### rheinlandpfalz
+
+* [https://www.spiegel.de/politik/deutschland/umfragen-in-baden-wuerttemberg-holen-die-gruenen-auf-in-rheinland-pfalz-die-spd](https://www.spiegel.de/politik/deutschland/umfragen-in-baden-wuerttemberg-holen-die-gruenen-auf-in-rheinland-pfalz-die-spd-a-6fa68fef-8efe-418f-b789-54c5af11ea1d#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/umfragen-in-baden-wuerttemberg-holen-die-gruenen-auf-in-rheinland-pfalz-die-spd](https://www.spiegel.de/politik/deutschland/umfragen-in-baden-wuerttemberg-holen-die-gruenen-auf-in-rheinland-pfalz-die-spd-a-6fa68fef-8efe-418f-b789-54c5af11ea1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-stefan-liebich-verlaesst-die-partei](https://www.spiegel.de/politik/deutschland/die-linke-stefan-liebich-verlaesst-die-partei-a-1abfb4b4-3cb1-4620-95f2-24949e601947#ref=rss)
+### verfassungsschutz
+
+* [https://www.spiegel.de/panorama/justiz/verwaltungsgericht-koeln-verfassungsschutz-durfte-asylsuchenden-auf-malta-nicht-befragen](https://www.spiegel.de/panorama/justiz/verwaltungsgericht-koeln-verfassungsschutz-durfte-asylsuchenden-auf-malta-nicht-befragen-a-f3b83c22-b1c0-4ec7-8186-671cad62e6d4#ref=rss)
+### asylsuchenden
+
+* [https://www.spiegel.de/panorama/justiz/verwaltungsgericht-koeln-verfassungsschutz-durfte-asylsuchenden-auf-malta-nicht-befragen](https://www.spiegel.de/panorama/justiz/verwaltungsgericht-koeln-verfassungsschutz-durfte-asylsuchenden-auf-malta-nicht-befragen-a-f3b83c22-b1c0-4ec7-8186-671cad62e6d4#ref=rss)
+### malta
+
+* [https://www.spiegel.de/panorama/justiz/verwaltungsgericht-koeln-verfassungsschutz-durfte-asylsuchenden-auf-malta-nicht-befragen](https://www.spiegel.de/panorama/justiz/verwaltungsgericht-koeln-verfassungsschutz-durfte-asylsuchenden-auf-malta-nicht-befragen-a-f3b83c22-b1c0-4ec7-8186-671cad62e6d4#ref=rss)
+### manche
+
+* [https://www.spiegel.de/wissenschaft/mensch/fehlgeburten-gen-varianten-beeinflussen-das-risiko](https://www.spiegel.de/wissenschaft/mensch/fehlgeburten-gen-varianten-beeinflussen-das-risiko-a-5c989d80-51a4-48e6-8b1b-20d959a0d641#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/benchmark-fuer-kuenstliche-intelligenz-wie-bewertet-man-eigentlich-chatgpt-und-co-quiz](https://www.spiegel.de/wissenschaft/technik/benchmark-fuer-kuenstliche-intelligenz-wie-bewertet-man-eigentlich-chatgpt-und-co-quiz-a-039f6f4e-0ecb-4b80-b9ea-07d5e3a895e1#ref=rss)
+### hurley
+
+* [https://www.spiegel.de/panorama/leute/elizabeth-hurley-bricht-im-prozess-gegen-boulevardmedien-vor-gericht-in-traenen-aus](https://www.spiegel.de/panorama/leute/elizabeth-hurley-bricht-im-prozess-gegen-boulevardmedien-vor-gericht-in-traenen-aus-a-dd44c158-c491-4cfd-9746-29167e3fea8f#ref=rss)
+### fans
+
+* [https://www.spiegel.de/sport/fussball/champions-league-als-borat-verkleidet-fans-des-fc-bruegge-in-kasachstan-zu-haft-verurteilt](https://www.spiegel.de/sport/fussball/champions-league-als-borat-verkleidet-fans-des-fc-bruegge-in-kasachstan-zu-haft-verurteilt-a-ca28d613-90ad-4c14-8cce-0b4e22b4567e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/phil-collins-berichtet-dass-er-24-stunden-am-tag-betreuung-benoetigt](https://www.spiegel.de/panorama/leute/phil-collins-berichtet-dass-er-24-stunden-am-tag-betreuung-benoetigt-a-ae5e9efa-0aad-45f4-9470-b4baa740088a#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/champions-league-als-borat-verkleidet-fans-des-fc-bruegge-in-kasachstan-zu-haft-verurteilt](https://www.spiegel.de/sport/fussball/champions-league-als-borat-verkleidet-fans-des-fc-bruegge-in-kasachstan-zu-haft-verurteilt-a-ca28d613-90ad-4c14-8cce-0b4e22b4567e#ref=rss)
+### brügge
+
+* [https://www.spiegel.de/sport/fussball/champions-league-als-borat-verkleidet-fans-des-fc-bruegge-in-kasachstan-zu-haft-verurteilt](https://www.spiegel.de/sport/fussball/champions-league-als-borat-verkleidet-fans-des-fc-bruegge-in-kasachstan-zu-haft-verurteilt-a-ca28d613-90ad-4c14-8cce-0b4e22b4567e#ref=rss)
+### kasachstan
+
+* [https://www.spiegel.de/sport/fussball/champions-league-als-borat-verkleidet-fans-des-fc-bruegge-in-kasachstan-zu-haft-verurteilt](https://www.spiegel.de/sport/fussball/champions-league-als-borat-verkleidet-fans-des-fc-bruegge-in-kasachstan-zu-haft-verurteilt-a-ca28d613-90ad-4c14-8cce-0b4e22b4567e#ref=rss)
+### benchmark
+
+* [https://www.spiegel.de/wissenschaft/technik/benchmark-fuer-kuenstliche-intelligenz-wie-bewertet-man-eigentlich-chatgpt-und-co-quiz](https://www.spiegel.de/wissenschaft/technik/benchmark-fuer-kuenstliche-intelligenz-wie-bewertet-man-eigentlich-chatgpt-und-co-quiz-a-039f6f4e-0ecb-4b80-b9ea-07d5e3a895e1#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-dreiertreffen-zwischen-der-ukraine-usa-und-russlands-an](https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-dreiertreffen-zwischen-der-ukraine-usa-und-russlands-an-a-1c72afff-300a-4680-abcb-80c121e745e1#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen](https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen-a-a03527ce-e5cf-4512-b883-061a24e9bf83#ref=rss)
-### andere
-
-* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
-* [https://www.spiegel.de/kultur/tv/serientrash-the-beauty-alles-andere-als-eine-tv-schoenheit](https://www.spiegel.de/kultur/tv/serientrash-the-beauty-alles-andere-als-eine-tv-schoenheit-a-9e2101d9-39ac-4299-ae89-a60066e7d23f#ref=rss)
-### bogenseeareal
-
-* [https://www.spiegel.de/panorama/bogensee-areal-mit-goebbels-villa-grossbrand-nahe-berlin-ausgebrochen](https://www.spiegel.de/panorama/bogensee-areal-mit-goebbels-villa-grossbrand-nahe-berlin-ausgebrochen-a-736f647c-903a-4df0-94fe-6b02000150f5#ref=rss)
-### telefonische
-
-* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
-### krankschreibung
-
-* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
-### probleme
-
-* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus](https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus-a-0b7103f2-82f6-4050-b19c-07b86cc6f4ca#ref=rss)
-### rede
-
-* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
-### klara
-
-* [https://www.spiegel.de/start/archaeologin-und-aegyptologin-werden-klara-dietze-erzaehlt-von-grabungen-jobsuche-und-gehalt](https://www.spiegel.de/start/archaeologin-und-aegyptologin-werden-klara-dietze-erzaehlt-von-grabungen-jobsuche-und-gehalt-a-7d51803c-93c9-461b-bd3b-e375c6d2994f#ref=rss)
-### dietze
-
-* [https://www.spiegel.de/start/archaeologin-und-aegyptologin-werden-klara-dietze-erzaehlt-von-grabungen-jobsuche-und-gehalt](https://www.spiegel.de/start/archaeologin-und-aegyptologin-werden-klara-dietze-erzaehlt-von-grabungen-jobsuche-und-gehalt-a-7d51803c-93c9-461b-bd3b-e375c6d2994f#ref=rss)
-### pflege
-
-* [https://www.spiegel.de/wirtschaft/service/pflege-zuzahlungen-fuer-pflege-im-heim-steigen-weiter](https://www.spiegel.de/wirtschaft/service/pflege-zuzahlungen-fuer-pflege-im-heim-steigen-weiter-a-61efb34f-1d5c-4b39-8ee7-818ce72bfae9#ref=rss)
-### steigen
-
-* [https://www.spiegel.de/wirtschaft/service/pflege-zuzahlungen-fuer-pflege-im-heim-steigen-weiter](https://www.spiegel.de/wirtschaft/service/pflege-zuzahlungen-fuer-pflege-im-heim-steigen-weiter-a-61efb34f-1d5c-4b39-8ee7-818ce72bfae9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
-### kyjiw
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen](https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen-a-a03527ce-e5cf-4512-b883-061a24e9bf83#ref=rss)
-### heizung
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen](https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen-a-a03527ce-e5cf-4512-b883-061a24e9bf83#ref=rss)
-### laura
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus](https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus-a-0b7103f2-82f6-4050-b19c-07b86cc6f4ca#ref=rss)
-### siegemund
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus](https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus-a-0b7103f2-82f6-4050-b19c-07b86cc6f4ca#ref=rss)
-### erste
-
-* [https://www.spiegel.de/wirtschaft/service/groenland-streit-im-supermarkt-viele-daenen-wollen-offenbar-us-waren-boykottieren](https://www.spiegel.de/wirtschaft/service/groenland-streit-im-supermarkt-viele-daenen-wollen-offenbar-us-waren-boykottieren-a-b1ab84a9-7879-4ad4-a1e2-c971cbb8edfa#ref=rss)
-* [https://www.spiegel.de/kultur/tv/serientrash-the-beauty-alles-andere-als-eine-tv-schoenheit](https://www.spiegel.de/kultur/tv/serientrash-the-beauty-alles-andere-als-eine-tv-schoenheit-a-9e2101d9-39ac-4299-ae89-a60066e7d23f#ref=rss)
-### natogeneralsekretär
-
-* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
-### mark
-
-* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
-### rutte
-
-* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen](https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen-a-446474fb-e496-47ab-847f-1d05295a1016#ref=rss)
-### saudiarabien
-
-* [https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen](https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen-a-446474fb-e496-47ab-847f-1d05295a1016#ref=rss)
-### campingplatz
-
-* [https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst](https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst-a-ed415196-e5ff-4055-bc65-6e8beae71339#ref=rss)
-### importe
-
-* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
-### 60
-
-* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/tv/serientrash-the-beauty-alles-andere-als-eine-tv-schoenheit](https://www.spiegel.de/kultur/tv/serientrash-the-beauty-alles-andere-als-eine-tv-schoenheit-a-9e2101d9-39ac-4299-ae89-a60066e7d23f#ref=rss)
-### beauty
-
-* [https://www.spiegel.de/kultur/tv/serientrash-the-beauty-alles-andere-als-eine-tv-schoenheit](https://www.spiegel.de/kultur/tv/serientrash-the-beauty-alles-andere-als-eine-tv-schoenheit-a-9e2101d9-39ac-4299-ae89-a60066e7d23f#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-dreiertreffen-zwischen-der-ukraine-usa-und-russlands-an](https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-dreiertreffen-zwischen-der-ukraine-usa-und-russlands-an-a-1c72afff-300a-4680-abcb-80c121e745e1#ref=rss)
+* [https://www.spiegel.de/politik/groenland-bundeskanzler-merz-verspricht-unterstuetzung-gegen-russische-bedrohung](https://www.spiegel.de/politik/groenland-bundeskanzler-merz-verspricht-unterstuetzung-gegen-russische-bedrohung-a-e27c2318-6a83-4a65-b9c4-b3172c6603e5#ref=rss)
 ### euparlament
 
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche](https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche-a-4925dbf8-a256-4d7d-8d94-f2ccbafa000f#ref=rss)
-### katherina
+* [https://www.spiegel.de/politik/deutschland/gruene-im-eu-parlament-erik-marquardt-gesteht-fehler-bei-mercosur-abstimmung-ein](https://www.spiegel.de/politik/deutschland/gruene-im-eu-parlament-erik-marquardt-gesteht-fehler-bei-mercosur-abstimmung-ein-a-1f757fb7-2e9f-4fb5-a3c0-c2757c4aeffc#ref=rss)
+### erik
 
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche](https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche-a-4925dbf8-a256-4d7d-8d94-f2ccbafa000f#ref=rss)
-### reiche
+* [https://www.spiegel.de/politik/deutschland/gruene-im-eu-parlament-erik-marquardt-gesteht-fehler-bei-mercosur-abstimmung-ein](https://www.spiegel.de/politik/deutschland/gruene-im-eu-parlament-erik-marquardt-gesteht-fehler-bei-mercosur-abstimmung-ein-a-1f757fb7-2e9f-4fb5-a3c0-c2757c4aeffc#ref=rss)
+### marquardt
 
-* [https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche](https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche-a-4925dbf8-a256-4d7d-8d94-f2ccbafa000f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-im-eu-parlament-erik-marquardt-gesteht-fehler-bei-mercosur-abstimmung-ein](https://www.spiegel.de/politik/deutschland/gruene-im-eu-parlament-erik-marquardt-gesteht-fehler-bei-mercosur-abstimmung-ein-a-1f757fb7-2e9f-4fb5-a3c0-c2757c4aeffc#ref=rss)
+### fehler
+
+* [https://www.spiegel.de/politik/deutschland/gruene-im-eu-parlament-erik-marquardt-gesteht-fehler-bei-mercosur-abstimmung-ein](https://www.spiegel.de/politik/deutschland/gruene-im-eu-parlament-erik-marquardt-gesteht-fehler-bei-mercosur-abstimmung-ein-a-1f757fb7-2e9f-4fb5-a3c0-c2757c4aeffc#ref=rss)
+### phil
+
+* [https://www.spiegel.de/panorama/leute/phil-collins-berichtet-dass-er-24-stunden-am-tag-betreuung-benoetigt](https://www.spiegel.de/panorama/leute/phil-collins-berichtet-dass-er-24-stunden-am-tag-betreuung-benoetigt-a-ae5e9efa-0aad-45f4-9470-b4baa740088a#ref=rss)
+### collins
+
+* [https://www.spiegel.de/panorama/leute/phil-collins-berichtet-dass-er-24-stunden-am-tag-betreuung-benoetigt](https://www.spiegel.de/panorama/leute/phil-collins-berichtet-dass-er-24-stunden-am-tag-betreuung-benoetigt-a-ae5e9efa-0aad-45f4-9470-b4baa740088a#ref=rss)
+### regisseurin
+
+* [https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes](https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes-a-e0fbc122-bbc4-4319-bb11-3e3723c03d41#ref=rss)
+### ben
+
+* [https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes](https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes-a-e0fbc122-bbc4-4319-bb11-3e3723c03d41#ref=rss)
+### hania
+
+* [https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes](https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes-a-e0fbc122-bbc4-4319-bb11-3e3723c03d41#ref=rss)
+### letzten
+
+* [https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes](https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes-a-e0fbc122-bbc4-4319-bb11-3e3723c03d41#ref=rss)
+### getöteten
+
+* [https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes](https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes-a-e0fbc122-bbc4-4319-bb11-3e3723c03d41#ref=rss)
+### kindes
+
+* [https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes](https://www.spiegel.de/ausland/gaza-regisseurin-ben-hania-ueber-die-letzten-stunden-eines-getoeteten-kindes-a-e0fbc122-bbc4-4319-bb11-3e3723c03d41#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-stefan-liebich-verlaesst-die-partei](https://www.spiegel.de/politik/deutschland/die-linke-stefan-liebich-verlaesst-die-partei-a-1abfb4b4-3cb1-4620-95f2-24949e601947#ref=rss)
+### liebich
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-stefan-liebich-verlaesst-die-partei](https://www.spiegel.de/politik/deutschland/die-linke-stefan-liebich-verlaesst-die-partei-a-1abfb4b4-3cb1-4620-95f2-24949e601947#ref=rss)
+### partei
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-stefan-liebich-verlaesst-die-partei](https://www.spiegel.de/politik/deutschland/die-linke-stefan-liebich-verlaesst-die-partei-a-1abfb4b4-3cb1-4620-95f2-24949e601947#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-stefan-liebich-verlaesst-die-partei](https://www.spiegel.de/politik/deutschland/die-linke-stefan-liebich-verlaesst-die-partei-a-1abfb4b4-3cb1-4620-95f2-24949e601947#ref=rss)
+* [https://www.spiegel.de/gesundheit/longevity-und-anti-aging-kollagen-die-falten-damit-weg-und-was-wirklich-hilft](https://www.spiegel.de/gesundheit/longevity-und-anti-aging-kollagen-die-falten-damit-weg-und-was-wirklich-hilft-a-354d193e-8725-45da-8631-d85e4ddc9aa9#ref=rss)
+### bedrohung
+
+* [https://www.spiegel.de/politik/groenland-bundeskanzler-merz-verspricht-unterstuetzung-gegen-russische-bedrohung](https://www.spiegel.de/politik/groenland-bundeskanzler-merz-verspricht-unterstuetzung-gegen-russische-bedrohung-a-e27c2318-6a83-4a65-b9c4-b3172c6603e5#ref=rss)
+### sinners
+
+* [https://www.spiegel.de/kultur/kino/oscar-nominierungen-sinners-stellt-mit-16-oscarnominierungen-rekord-auf](https://www.spiegel.de/kultur/kino/oscar-nominierungen-sinners-stellt-mit-16-oscarnominierungen-rekord-auf-a-718ba68c-4ddb-44cf-93ea-07f6ea9b0c75#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/panorama/spanien-zug-kollidiert-mit-kran-mehrere-verletzte](https://www.spiegel.de/panorama/spanien-zug-kollidiert-mit-kran-mehrere-verletzte-a-536752a5-1611-4591-bf20-3c3f25b7fd4e#ref=rss)
+### zug
+
+* [https://www.spiegel.de/panorama/spanien-zug-kollidiert-mit-kran-mehrere-verletzte](https://www.spiegel.de/panorama/spanien-zug-kollidiert-mit-kran-mehrere-verletzte-a-536752a5-1611-4591-bf20-3c3f25b7fd4e#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/spanien-zug-kollidiert-mit-kran-mehrere-verletzte](https://www.spiegel.de/panorama/spanien-zug-kollidiert-mit-kran-mehrere-verletzte-a-536752a5-1611-4591-bf20-3c3f25b7fd4e#ref=rss)
+### falten
+
+* [https://www.spiegel.de/gesundheit/longevity-und-anti-aging-kollagen-die-falten-damit-weg-und-was-wirklich-hilft](https://www.spiegel.de/gesundheit/longevity-und-anti-aging-kollagen-die-falten-damit-weg-und-was-wirklich-hilft-a-354d193e-8725-45da-8631-d85e4ddc9aa9#ref=rss)
+### leben
+
+* [https://www.spiegel.de/gesundheit/longevity-und-anti-aging-kollagen-die-falten-damit-weg-und-was-wirklich-hilft](https://www.spiegel.de/gesundheit/longevity-und-anti-aging-kollagen-die-falten-damit-weg-und-was-wirklich-hilft-a-354d193e-8725-45da-8631-d85e4ddc9aa9#ref=rss)
+* [https://www.spiegel.de/geschichte/musiker-betterov-und-die-ddr-geschichte-die-nacht-in-der-sein-vater-flieht](https://www.spiegel.de/geschichte/musiker-betterov-und-die-ddr-geschichte-die-nacht-in-der-sein-vater-flieht-a-06c007a3-c0f0-4bef-935a-65b3d98de88e#ref=rss)
+### betterov
+
+* [https://www.spiegel.de/geschichte/musiker-betterov-und-die-ddr-geschichte-die-nacht-in-der-sein-vater-flieht](https://www.spiegel.de/geschichte/musiker-betterov-und-die-ddr-geschichte-die-nacht-in-der-sein-vater-flieht-a-06c007a3-c0f0-4bef-935a-65b3d98de88e#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/geschichte/musiker-betterov-und-die-ddr-geschichte-die-nacht-in-der-sein-vater-flieht](https://www.spiegel.de/geschichte/musiker-betterov-und-die-ddr-geschichte-die-nacht-in-der-sein-vater-flieht-a-06c007a3-c0f0-4bef-935a-65b3d98de88e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-klimaaktivisten-wollten-offenbar-privatflugzeug-des-kanzlers-beschaedigen](https://www.spiegel.de/politik/deutschland/friedrich-merz-klimaaktivisten-wollten-offenbar-privatflugzeug-des-kanzlers-beschaedigen-a-dc372e1a-c5f2-4f15-b6a7-7e712d393522#ref=rss)
+### wollten
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-klimaaktivisten-wollten-offenbar-privatflugzeug-des-kanzlers-beschaedigen](https://www.spiegel.de/politik/deutschland/friedrich-merz-klimaaktivisten-wollten-offenbar-privatflugzeug-des-kanzlers-beschaedigen-a-dc372e1a-c5f2-4f15-b6a7-7e712d393522#ref=rss)
 
