@@ -4,382 +4,392 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### iran
-
-* [https://www.spiegel.de/ausland/iran-proteste-niedergeschlagen-was-folgt-auf-das-massaker-an-der-eigenen-bevoelkerung](https://www.spiegel.de/ausland/iran-proteste-niedergeschlagen-was-folgt-auf-das-massaker-an-der-eigenen-bevoelkerung-a-3ba587db-4633-4659-9f4e-49c7128861d4#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wirtschaft/mercosur-verzoegert-donald-trump-greift-nach-groenland-das-eu-parlament-schwaecht-europa](https://www.spiegel.de/wirtschaft/mercosur-verzoegert-donald-trump-greift-nach-groenland-das-eu-parlament-schwaecht-europa-a-214e2b53-309d-47fe-a429-cd9fa4c48dd2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zollstreit-eu-parlament-setzt-arbeit-an-deal-mit-usa-aus](https://www.spiegel.de/wirtschaft/zollstreit-eu-parlament-setzt-arbeit-an-deal-mit-usa-aus-a-310eb200-8485-499c-a322-a9034c811b33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen](https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen-a-c9fa7db6-f521-4a1f-bbec-45e4ac3edb2c#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-besuchen-sie-europa-solange-es-noch-steht](https://www.spiegel.de/kultur/donald-trump-besuchen-sie-europa-solange-es-noch-steht-a-f7672d19-3641-4e28-be31-1833d9af4630#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-in-davos-was-sagt-donald-trump-bei-seiner-rede](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-in-davos-was-sagt-donald-trump-bei-seiner-rede-a-06cde2f7-07ae-4a42-9611-416336019fee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
+* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
+* [https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen](https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen-a-446474fb-e496-47ab-847f-1d05295a1016#ref=rss)
+* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche](https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche-a-4925dbf8-a256-4d7d-8d94-f2ccbafa000f#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/wirtschaft/mercosur-verzoegert-donald-trump-greift-nach-groenland-das-eu-parlament-schwaecht-europa](https://www.spiegel.de/wirtschaft/mercosur-verzoegert-donald-trump-greift-nach-groenland-das-eu-parlament-schwaecht-europa-a-214e2b53-309d-47fe-a429-cd9fa4c48dd2#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trumps-friedensrat-will-der-us-praesident-die-uno-abloesen-interview-mit-dem-politologen-jonas-wolff](https://www.spiegel.de/ausland/donald-trumps-friedensrat-will-der-us-praesident-die-uno-abloesen-interview-mit-dem-politologen-jonas-wolff-a-138eee97-986a-4b03-ae22-6fd8f2c09fed#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-besuchen-sie-europa-solange-es-noch-steht](https://www.spiegel.de/kultur/donald-trump-besuchen-sie-europa-solange-es-noch-steht-a-f7672d19-3641-4e28-be31-1833d9af4630#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-in-davos-was-sagt-donald-trump-bei-seiner-rede](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-in-davos-was-sagt-donald-trump-bei-seiner-rede-a-06cde2f7-07ae-4a42-9611-416336019fee#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wirtschaft/mercosur-verzoegert-donald-trump-greift-nach-groenland-das-eu-parlament-schwaecht-europa](https://www.spiegel.de/wirtschaft/mercosur-verzoegert-donald-trump-greift-nach-groenland-das-eu-parlament-schwaecht-europa-a-214e2b53-309d-47fe-a429-cd9fa4c48dd2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zollstreit-eu-parlament-setzt-arbeit-an-deal-mit-usa-aus](https://www.spiegel.de/wirtschaft/zollstreit-eu-parlament-setzt-arbeit-an-deal-mit-usa-aus-a-310eb200-8485-499c-a322-a9034c811b33#ref=rss)
-* [https://www.spiegel.de/kultur/donald-trump-besuchen-sie-europa-solange-es-noch-steht](https://www.spiegel.de/kultur/donald-trump-besuchen-sie-europa-solange-es-noch-steht-a-f7672d19-3641-4e28-be31-1833d9af4630#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/spectrum-von-isar-aerospace-raketenstart-verschoben-hoffnung-gewahrt](https://www.spiegel.de/wissenschaft/weltall/spectrum-von-isar-aerospace-raketenstart-verschoben-hoffnung-gewahrt-a-b6161249-7561-4055-acde-b718f530dc7e#ref=rss)
-* [https://www.spiegel.de/ausland/syriens-schlaechter-von-hama-rifaat-al-assad-ist-laut-medienbericht-tot](https://www.spiegel.de/ausland/syriens-schlaechter-von-hama-rifaat-al-assad-ist-laut-medienbericht-tot-a-d9cd8e64-fb82-451d-8211-1124831af661#ref=rss)
-### proteste
-
-* [https://www.spiegel.de/ausland/iran-proteste-niedergeschlagen-was-folgt-auf-das-massaker-an-der-eigenen-bevoelkerung](https://www.spiegel.de/ausland/iran-proteste-niedergeschlagen-was-folgt-auf-das-massaker-an-der-eigenen-bevoelkerung-a-3ba587db-4633-4659-9f4e-49c7128861d4#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### euparlament
-
-* [https://www.spiegel.de/wirtschaft/mercosur-verzoegert-donald-trump-greift-nach-groenland-das-eu-parlament-schwaecht-europa](https://www.spiegel.de/wirtschaft/mercosur-verzoegert-donald-trump-greift-nach-groenland-das-eu-parlament-schwaecht-europa-a-214e2b53-309d-47fe-a429-cd9fa4c48dd2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zollstreit-eu-parlament-setzt-arbeit-an-deal-mit-usa-aus](https://www.spiegel.de/wirtschaft/zollstreit-eu-parlament-setzt-arbeit-an-deal-mit-usa-aus-a-310eb200-8485-499c-a322-a9034c811b33#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen](https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen-a-c9fa7db6-f521-4a1f-bbec-45e4ac3edb2c#ref=rss)
-### mercosurabkommen
-
-* [https://www.spiegel.de/wirtschaft/mercosur-verzoegert-donald-trump-greift-nach-groenland-das-eu-parlament-schwaecht-europa](https://www.spiegel.de/wirtschaft/mercosur-verzoegert-donald-trump-greift-nach-groenland-das-eu-parlament-schwaecht-europa-a-214e2b53-309d-47fe-a429-cd9fa4c48dd2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen](https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen-a-c9fa7db6-f521-4a1f-bbec-45e4ac3edb2c#ref=rss)
-### amthor
-
-* [https://www.spiegel.de/panorama/philipp-amthor-im-wahlkampf-in-baden-wuerttemberg-amthor-abi-mach-doener](https://www.spiegel.de/panorama/philipp-amthor-im-wahlkampf-in-baden-wuerttemberg-amthor-abi-mach-doener-a-e3b120bf-4d55-4da3-b9a8-2bad3de96e9d#ref=rss)
-### stimmen
-
-* [https://www.spiegel.de/panorama/philipp-amthor-im-wahlkampf-in-baden-wuerttemberg-amthor-abi-mach-doener](https://www.spiegel.de/panorama/philipp-amthor-im-wahlkampf-in-baden-wuerttemberg-amthor-abi-mach-doener-a-e3b120bf-4d55-4da3-b9a8-2bad3de96e9d#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### eigene
-
-* [https://www.spiegel.de/ausland/iran-proteste-niedergeschlagen-was-folgt-auf-das-massaker-an-der-eigenen-bevoelkerung](https://www.spiegel.de/ausland/iran-proteste-niedergeschlagen-was-folgt-auf-das-massaker-an-der-eigenen-bevoelkerung-a-3ba587db-4633-4659-9f4e-49c7128861d4#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### regime
-
-* [https://www.spiegel.de/ausland/iran-proteste-niedergeschlagen-was-folgt-auf-das-massaker-an-der-eigenen-bevoelkerung](https://www.spiegel.de/ausland/iran-proteste-niedergeschlagen-was-folgt-auf-das-massaker-an-der-eigenen-bevoelkerung-a-3ba587db-4633-4659-9f4e-49c7128861d4#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### mutmaßlich
-
-* [https://www.spiegel.de/panorama/justiz/hannover-schuetzen-kuessen-polizistin-prozess-wegen-belaestigung](https://www.spiegel.de/panorama/justiz/hannover-schuetzen-kuessen-polizistin-prozess-wegen-belaestigung-a-57130479-c532-4513-aa76-07a0fca7a560#ref=rss)
-* [https://www.spiegel.de/netzwelt/elterntaxis-fotos-von-falschparkern-sorgen-fuer-aerger-mit-datenschutzbehoerde](https://www.spiegel.de/netzwelt/elterntaxis-fotos-von-falschparkern-sorgen-fuer-aerger-mit-datenschutzbehoerde-a-2d19c24a-35cb-47ec-8a6d-883524ebf737#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/unfalltod-von-frau-in-luebeck-polizei-geht-von-zeugen-als-unfallverursacher-aus](https://www.spiegel.de/panorama/justiz/unfalltod-von-frau-in-luebeck-polizei-geht-von-zeugen-als-unfallverursacher-aus-a-79c117d4-2c2f-405c-92fb-f2ef41f133c5#ref=rss)
-### gregory
-
-* [https://www.spiegel.de/ausland/gregory-bovino-auftritt-des-ice-kommandanten-weckt-erinnerungen-an-nazi-offiziere](https://www.spiegel.de/ausland/gregory-bovino-auftritt-des-ice-kommandanten-weckt-erinnerungen-an-nazi-offiziere-a-588447c0-dfc8-4d7f-b5bf-457a400bff92#ref=rss)
-* [https://www.spiegel.de/kultur/mantel-von-gregory-bovino-wie-ein-eleganter-ss-offizier-der-sich-vom-pruegelnden-sa-poebel-unterscheidet](https://www.spiegel.de/kultur/mantel-von-gregory-bovino-wie-ein-eleganter-ss-offizier-der-sich-vom-pruegelnden-sa-poebel-unterscheidet-a-048390d3-55de-46c8-9ee6-546ea0f83a9d#ref=rss)
-### bovino
-
-* [https://www.spiegel.de/ausland/gregory-bovino-auftritt-des-ice-kommandanten-weckt-erinnerungen-an-nazi-offiziere](https://www.spiegel.de/ausland/gregory-bovino-auftritt-des-ice-kommandanten-weckt-erinnerungen-an-nazi-offiziere-a-588447c0-dfc8-4d7f-b5bf-457a400bff92#ref=rss)
-* [https://www.spiegel.de/kultur/mantel-von-gregory-bovino-wie-ein-eleganter-ss-offizier-der-sich-vom-pruegelnden-sa-poebel-unterscheidet](https://www.spiegel.de/kultur/mantel-von-gregory-bovino-wie-ein-eleganter-ss-offizier-der-sich-vom-pruegelnden-sa-poebel-unterscheidet-a-048390d3-55de-46c8-9ee6-546ea0f83a9d#ref=rss)
-### davos
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen](https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen-a-c9fa7db6-f521-4a1f-bbec-45e4ac3edb2c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-in-davos-was-sagt-donald-trump-bei-seiner-rede](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-in-davos-was-sagt-donald-trump-bei-seiner-rede-a-06cde2f7-07ae-4a42-9611-416336019fee#ref=rss)
-### wetten
-
-* [https://www.spiegel.de/kultur/tv/wetten-dass-mit-bill-und-tom-kaulitz-so-kamen-die-zwillinge-ins-zdf](https://www.spiegel.de/kultur/tv/wetten-dass-mit-bill-und-tom-kaulitz-so-kamen-die-zwillinge-ins-zdf-a-6705d555-43af-43d9-a52e-a56ba0629ae4#ref=rss)
-* [https://www.spiegel.de/kultur/wetten-dass-und-die-kaulitz-brueder-der-alte-elstner-drueckt-den-beiden-ganz-fest-die-daumen](https://www.spiegel.de/kultur/wetten-dass-und-die-kaulitz-brueder-der-alte-elstner-drueckt-den-beiden-ganz-fest-die-daumen-a-b303d357-8852-4026-917f-dc21e7b57520#ref=rss)
-### bill
-
-* [https://www.spiegel.de/kultur/tv/wetten-dass-mit-bill-und-tom-kaulitz-so-kamen-die-zwillinge-ins-zdf](https://www.spiegel.de/kultur/tv/wetten-dass-mit-bill-und-tom-kaulitz-so-kamen-die-zwillinge-ins-zdf-a-6705d555-43af-43d9-a52e-a56ba0629ae4#ref=rss)
-* [https://www.spiegel.de/kultur/wetten-dass-und-die-kaulitz-brueder-der-alte-elstner-drueckt-den-beiden-ganz-fest-die-daumen](https://www.spiegel.de/kultur/wetten-dass-und-die-kaulitz-brueder-der-alte-elstner-drueckt-den-beiden-ganz-fest-die-daumen-a-b303d357-8852-4026-917f-dc21e7b57520#ref=rss)
-### tom
-
-* [https://www.spiegel.de/kultur/tv/wetten-dass-mit-bill-und-tom-kaulitz-so-kamen-die-zwillinge-ins-zdf](https://www.spiegel.de/kultur/tv/wetten-dass-mit-bill-und-tom-kaulitz-so-kamen-die-zwillinge-ins-zdf-a-6705d555-43af-43d9-a52e-a56ba0629ae4#ref=rss)
-* [https://www.spiegel.de/kultur/wetten-dass-und-die-kaulitz-brueder-der-alte-elstner-drueckt-den-beiden-ganz-fest-die-daumen](https://www.spiegel.de/kultur/wetten-dass-und-die-kaulitz-brueder-der-alte-elstner-drueckt-den-beiden-ganz-fest-die-daumen-a-b303d357-8852-4026-917f-dc21e7b57520#ref=rss)
-### kaulitz
-
-* [https://www.spiegel.de/kultur/tv/wetten-dass-mit-bill-und-tom-kaulitz-so-kamen-die-zwillinge-ins-zdf](https://www.spiegel.de/kultur/tv/wetten-dass-mit-bill-und-tom-kaulitz-so-kamen-die-zwillinge-ins-zdf-a-6705d555-43af-43d9-a52e-a56ba0629ae4#ref=rss)
-* [https://www.spiegel.de/kultur/wetten-dass-und-die-kaulitz-brueder-der-alte-elstner-drueckt-den-beiden-ganz-fest-die-daumen](https://www.spiegel.de/kultur/wetten-dass-und-die-kaulitz-brueder-der-alte-elstner-drueckt-den-beiden-ganz-fest-die-daumen-a-b303d357-8852-4026-917f-dc21e7b57520#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/kultur/tv/wetten-dass-mit-bill-und-tom-kaulitz-so-kamen-die-zwillinge-ins-zdf](https://www.spiegel.de/kultur/tv/wetten-dass-mit-bill-und-tom-kaulitz-so-kamen-die-zwillinge-ins-zdf-a-6705d555-43af-43d9-a52e-a56ba0629ae4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/spectrum-von-isar-aerospace-raketenstart-verschoben-hoffnung-gewahrt](https://www.spiegel.de/wissenschaft/weltall/spectrum-von-isar-aerospace-raketenstart-verschoben-hoffnung-gewahrt-a-b6161249-7561-4055-acde-b718f530dc7e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/syrien-und-demonstrationen-ausschreitungen-bei-pro-kurdischen-kundgebungen-in-deutschland](https://www.spiegel.de/panorama/justiz/syrien-und-demonstrationen-ausschreitungen-bei-pro-kurdischen-kundgebungen-in-deutschland-a-a21d0e09-1b1f-487f-81d5-657692e18f5e#ref=rss)
-### matthäus
-
-* [https://www.spiegel.de/sport/fussball/ski-unfall-in-oesterreich-lothar-matthaeus-muss-operiert-werden](https://www.spiegel.de/sport/fussball/ski-unfall-in-oesterreich-lothar-matthaeus-muss-operiert-werden-a-fd6b0e7b-9624-4e87-9125-cf24a7d7a551#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-hat-in-gruenheide-offenbar-mehr-als-1700-arbeitsplaetze-abgebaut](https://www.spiegel.de/wirtschaft/unternehmen/tesla-hat-in-gruenheide-offenbar-mehr-als-1700-arbeitsplaetze-abgebaut-a-2741ea4c-d50a-4b82-8af1-bbae0e2eaead#ref=rss)
-* [https://www.spiegel.de/auto/berlin-nextbike-muss-6500-leih-fahrraeder-von-berlins-strassen-holen](https://www.spiegel.de/auto/berlin-nextbike-muss-6500-leih-fahrraeder-von-berlins-strassen-holen-a-bf4494c9-414b-4bbf-be8a-e2f895dfe82b#ref=rss)
-* [https://www.spiegel.de/ausland/syriens-schlaechter-von-hama-rifaat-al-assad-ist-laut-medienbericht-tot](https://www.spiegel.de/ausland/syriens-schlaechter-von-hama-rifaat-al-assad-ist-laut-medienbericht-tot-a-d9cd8e64-fb82-451d-8211-1124831af661#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/auto/berlin-nextbike-muss-6500-leih-fahrraeder-von-berlins-strassen-holen](https://www.spiegel.de/auto/berlin-nextbike-muss-6500-leih-fahrraeder-von-berlins-strassen-holen-a-bf4494c9-414b-4bbf-be8a-e2f895dfe82b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/anschlaege-auf-das-berliner-stromnetz-dieser-quantenphysiker-ist-der-vordenker-der-vulkangruppe](https://www.spiegel.de/panorama/justiz/anschlaege-auf-das-berliner-stromnetz-dieser-quantenphysiker-ist-der-vordenker-der-vulkangruppe-a-ef059ad3-ddf3-49c6-b123-f65bce080396#ref=rss)
-### greift
-
-* [https://www.spiegel.de/wirtschaft/mercosur-verzoegert-donald-trump-greift-nach-groenland-das-eu-parlament-schwaecht-europa](https://www.spiegel.de/wirtschaft/mercosur-verzoegert-donald-trump-greift-nach-groenland-das-eu-parlament-schwaecht-europa-a-214e2b53-309d-47fe-a429-cd9fa4c48dd2#ref=rss)
-* [https://www.spiegel.de/panorama/leute/london-prinz-harry-greift-yellow-press-vor-gericht-an](https://www.spiegel.de/panorama/leute/london-prinz-harry-greift-yellow-press-vor-gericht-an-a-3a3674c8-966d-463c-aa38-df995d6203ea#ref=rss)
-### grönland
-
-* [https://www.spiegel.de/wirtschaft/mercosur-verzoegert-donald-trump-greift-nach-groenland-das-eu-parlament-schwaecht-europa](https://www.spiegel.de/wirtschaft/mercosur-verzoegert-donald-trump-greift-nach-groenland-das-eu-parlament-schwaecht-europa-a-214e2b53-309d-47fe-a429-cd9fa4c48dd2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen](https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen-a-c9fa7db6-f521-4a1f-bbec-45e4ac3edb2c#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/donald-trumps-friedensrat-will-der-us-praesident-die-uno-abloesen-interview-mit-dem-politologen-jonas-wolff](https://www.spiegel.de/ausland/donald-trumps-friedensrat-will-der-us-praesident-die-uno-abloesen-interview-mit-dem-politologen-jonas-wolff-a-138eee97-986a-4b03-ae22-6fd8f2c09fed#ref=rss)
-### friedensrat
-
-* [https://www.spiegel.de/ausland/donald-trumps-friedensrat-will-der-us-praesident-die-uno-abloesen-interview-mit-dem-politologen-jonas-wolff](https://www.spiegel.de/ausland/donald-trumps-friedensrat-will-der-us-praesident-die-uno-abloesen-interview-mit-dem-politologen-jonas-wolff-a-138eee97-986a-4b03-ae22-6fd8f2c09fed#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/donald-trumps-friedensrat-will-der-us-praesident-die-uno-abloesen-interview-mit-dem-politologen-jonas-wolff](https://www.spiegel.de/ausland/donald-trumps-friedensrat-will-der-us-praesident-die-uno-abloesen-interview-mit-dem-politologen-jonas-wolff-a-138eee97-986a-4b03-ae22-6fd8f2c09fed#ref=rss)
-### uno
-
-* [https://www.spiegel.de/ausland/donald-trumps-friedensrat-will-der-us-praesident-die-uno-abloesen-interview-mit-dem-politologen-jonas-wolff](https://www.spiegel.de/ausland/donald-trumps-friedensrat-will-der-us-praesident-die-uno-abloesen-interview-mit-dem-politologen-jonas-wolff-a-138eee97-986a-4b03-ae22-6fd8f2c09fed#ref=rss)
-### jonas
-
-* [https://www.spiegel.de/ausland/donald-trumps-friedensrat-will-der-us-praesident-die-uno-abloesen-interview-mit-dem-politologen-jonas-wolff](https://www.spiegel.de/ausland/donald-trumps-friedensrat-will-der-us-praesident-die-uno-abloesen-interview-mit-dem-politologen-jonas-wolff-a-138eee97-986a-4b03-ae22-6fd8f2c09fed#ref=rss)
-### wolff
-
-* [https://www.spiegel.de/ausland/donald-trumps-friedensrat-will-der-us-praesident-die-uno-abloesen-interview-mit-dem-politologen-jonas-wolff](https://www.spiegel.de/ausland/donald-trumps-friedensrat-will-der-us-praesident-die-uno-abloesen-interview-mit-dem-politologen-jonas-wolff-a-138eee97-986a-4b03-ae22-6fd8f2c09fed#ref=rss)
-### minnesota
-
-* [https://www.spiegel.de/kultur/literatur/krimi-minnesota-von-jo-nesbo-schuesse-in-einer-verwundeten-stadt](https://www.spiegel.de/kultur/literatur/krimi-minnesota-von-jo-nesbo-schuesse-in-einer-verwundeten-stadt-a-997f5593-7618-4c9c-bbc1-305ad141de88#ref=rss)
-### jo
-
-* [https://www.spiegel.de/kultur/literatur/krimi-minnesota-von-jo-nesbo-schuesse-in-einer-verwundeten-stadt](https://www.spiegel.de/kultur/literatur/krimi-minnesota-von-jo-nesbo-schuesse-in-einer-verwundeten-stadt-a-997f5593-7618-4c9c-bbc1-305ad141de88#ref=rss)
-### nesbø
-
-* [https://www.spiegel.de/kultur/literatur/krimi-minnesota-von-jo-nesbo-schuesse-in-einer-verwundeten-stadt](https://www.spiegel.de/kultur/literatur/krimi-minnesota-von-jo-nesbo-schuesse-in-einer-verwundeten-stadt-a-997f5593-7618-4c9c-bbc1-305ad141de88#ref=rss)
-### philipp
-
-* [https://www.spiegel.de/panorama/philipp-amthor-im-wahlkampf-in-baden-wuerttemberg-amthor-abi-mach-doener](https://www.spiegel.de/panorama/philipp-amthor-im-wahlkampf-in-baden-wuerttemberg-amthor-abi-mach-doener-a-e3b120bf-4d55-4da3-b9a8-2bad3de96e9d#ref=rss)
-### badenwürttemberg
-
-* [https://www.spiegel.de/panorama/philipp-amthor-im-wahlkampf-in-baden-wuerttemberg-amthor-abi-mach-doener](https://www.spiegel.de/panorama/philipp-amthor-im-wahlkampf-in-baden-wuerttemberg-amthor-abi-mach-doener-a-e3b120bf-4d55-4da3-b9a8-2bad3de96e9d#ref=rss)
-### döner
-
-* [https://www.spiegel.de/panorama/philipp-amthor-im-wahlkampf-in-baden-wuerttemberg-amthor-abi-mach-doener](https://www.spiegel.de/panorama/philipp-amthor-im-wahlkampf-in-baden-wuerttemberg-amthor-abi-mach-doener-a-e3b120bf-4d55-4da3-b9a8-2bad3de96e9d#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/ausland/iran-proteste-niedergeschlagen-was-folgt-auf-das-massaker-an-der-eigenen-bevoelkerung](https://www.spiegel.de/ausland/iran-proteste-niedergeschlagen-was-folgt-auf-das-massaker-an-der-eigenen-bevoelkerung-a-3ba587db-4633-4659-9f4e-49c7128861d4#ref=rss)
-* [https://www.spiegel.de/kultur/mantel-von-gregory-bovino-wie-ein-eleganter-ss-offizier-der-sich-vom-pruegelnden-sa-poebel-unterscheidet](https://www.spiegel.de/kultur/mantel-von-gregory-bovino-wie-ein-eleganter-ss-offizier-der-sich-vom-pruegelnden-sa-poebel-unterscheidet-a-048390d3-55de-46c8-9ee6-546ea0f83a9d#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/iran-proteste-niedergeschlagen-was-folgt-auf-das-massaker-an-der-eigenen-bevoelkerung](https://www.spiegel.de/ausland/iran-proteste-niedergeschlagen-was-folgt-auf-das-massaker-an-der-eigenen-bevoelkerung-a-3ba587db-4633-4659-9f4e-49c7128861d4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen](https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen-a-c9fa7db6-f521-4a1f-bbec-45e4ac3edb2c#ref=rss)
-### drohung
-
-* [https://www.spiegel.de/wirtschaft/zollstreit-eu-parlament-setzt-arbeit-an-deal-mit-usa-aus](https://www.spiegel.de/wirtschaft/zollstreit-eu-parlament-setzt-arbeit-an-deal-mit-usa-aus-a-310eb200-8485-499c-a322-a9034c811b33#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-in-davos-was-sagt-donald-trump-bei-seiner-rede](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-in-davos-was-sagt-donald-trump-bei-seiner-rede-a-06cde2f7-07ae-4a42-9611-416336019fee#ref=rss)
-### uspräsidenten
-
-* [https://www.spiegel.de/wirtschaft/zollstreit-eu-parlament-setzt-arbeit-an-deal-mit-usa-aus](https://www.spiegel.de/wirtschaft/zollstreit-eu-parlament-setzt-arbeit-an-deal-mit-usa-aus-a-310eb200-8485-499c-a322-a9034c811b33#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-in-davos-was-sagt-donald-trump-bei-seiner-rede](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-in-davos-was-sagt-donald-trump-bei-seiner-rede-a-06cde2f7-07ae-4a42-9611-416336019fee#ref=rss)
-### mullahregime
-
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### schlägt
-
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### nieder
-
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### passiert
-
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### kontakte
-
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### internetsperre
-
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### einzelne
-
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### brutal
-
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### volk
-
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### vorgeht
-
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### hört
-
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### unsere
-
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### reporterin
-
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### aktuell
-
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-a-f80f7dfd-6a1d-461b-9135-96b6cb8b1dd2#ref=rss)
-* [https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast](https://www.spiegel.de/ausland/mullah-regime-schlaegt-proteste-in-iran-nieder-was-passiert-jetzt-podcast-a-5f545db4-ccbd-4ad4-9489-2ef68f968854#ref=rss)
-### hannover
-
-* [https://www.spiegel.de/panorama/justiz/hannover-schuetzen-kuessen-polizistin-prozess-wegen-belaestigung](https://www.spiegel.de/panorama/justiz/hannover-schuetzen-kuessen-polizistin-prozess-wegen-belaestigung-a-57130479-c532-4513-aa76-07a0fca7a560#ref=rss)
-### polizistin
-
-* [https://www.spiegel.de/panorama/justiz/hannover-schuetzen-kuessen-polizistin-prozess-wegen-belaestigung](https://www.spiegel.de/panorama/justiz/hannover-schuetzen-kuessen-polizistin-prozess-wegen-belaestigung-a-57130479-c532-4513-aa76-07a0fca7a560#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/panorama/justiz/hannover-schuetzen-kuessen-polizistin-prozess-wegen-belaestigung](https://www.spiegel.de/panorama/justiz/hannover-schuetzen-kuessen-polizistin-prozess-wegen-belaestigung-a-57130479-c532-4513-aa76-07a0fca7a560#ref=rss)
-* [https://www.spiegel.de/panorama/leute/london-prinz-harry-greift-yellow-press-vor-gericht-an](https://www.spiegel.de/panorama/leute/london-prinz-harry-greift-yellow-press-vor-gericht-an-a-3a3674c8-966d-463c-aa38-df995d6203ea#ref=rss)
-### belästigung
-
-* [https://www.spiegel.de/panorama/justiz/hannover-schuetzen-kuessen-polizistin-prozess-wegen-belaestigung](https://www.spiegel.de/panorama/justiz/hannover-schuetzen-kuessen-polizistin-prozess-wegen-belaestigung-a-57130479-c532-4513-aa76-07a0fca7a560#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/hannover-schuetzen-kuessen-polizistin-prozess-wegen-belaestigung](https://www.spiegel.de/panorama/justiz/hannover-schuetzen-kuessen-polizistin-prozess-wegen-belaestigung-a-57130479-c532-4513-aa76-07a0fca7a560#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-in-davos-was-sagt-donald-trump-bei-seiner-rede](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-in-davos-was-sagt-donald-trump-bei-seiner-rede-a-06cde2f7-07ae-4a42-9611-416336019fee#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/hannover-schuetzen-kuessen-polizistin-prozess-wegen-belaestigung](https://www.spiegel.de/panorama/justiz/hannover-schuetzen-kuessen-polizistin-prozess-wegen-belaestigung-a-57130479-c532-4513-aa76-07a0fca7a560#ref=rss)
-* [https://www.spiegel.de/panorama/leute/london-prinz-harry-greift-yellow-press-vor-gericht-an](https://www.spiegel.de/panorama/leute/london-prinz-harry-greift-yellow-press-vor-gericht-an-a-3a3674c8-966d-463c-aa38-df995d6203ea#ref=rss)
-### auftritt
-
-* [https://www.spiegel.de/ausland/gregory-bovino-auftritt-des-ice-kommandanten-weckt-erinnerungen-an-nazi-offiziere](https://www.spiegel.de/ausland/gregory-bovino-auftritt-des-ice-kommandanten-weckt-erinnerungen-an-nazi-offiziere-a-588447c0-dfc8-4d7f-b5bf-457a400bff92#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-in-davos-was-sagt-donald-trump-bei-seiner-rede](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-in-davos-was-sagt-donald-trump-bei-seiner-rede-a-06cde2f7-07ae-4a42-9611-416336019fee#ref=rss)
-### mutmaßliche
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen](https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen-a-c9fa7db6-f521-4a1f-bbec-45e4ac3edb2c#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen](https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen-a-c9fa7db6-f521-4a1f-bbec-45e4ac3edb2c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/syrien-und-demonstrationen-ausschreitungen-bei-pro-kurdischen-kundgebungen-in-deutschland](https://www.spiegel.de/panorama/justiz/syrien-und-demonstrationen-ausschreitungen-bei-pro-kurdischen-kundgebungen-in-deutschland-a-a21d0e09-1b1f-487f-81d5-657692e18f5e#ref=rss)
-### mittwochabend
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen](https://www.spiegel.de/politik/deutschland/news-des-tages-wef-in-davos-mutmassliche-spionin-moskaus-mercosur-abkommen-a-c9fa7db6-f521-4a1f-bbec-45e4ac3edb2c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/spectrum-von-isar-aerospace-raketenstart-verschoben-hoffnung-gewahrt](https://www.spiegel.de/wissenschaft/weltall/spectrum-von-isar-aerospace-raketenstart-verschoben-hoffnung-gewahrt-a-b6161249-7561-4055-acde-b718f530dc7e#ref=rss)
-### hamnet
-
-* [https://www.spiegel.de/kultur/shakespeare-film-hamnet-oscar-oder-nicht-oscar-das-ist-hier-die-frage](https://www.spiegel.de/kultur/shakespeare-film-hamnet-oscar-oder-nicht-oscar-das-ist-hier-die-frage-a-2b334905-89cb-4649-9163-b8eb5b098418#ref=rss)
-### oscar
-
-* [https://www.spiegel.de/kultur/shakespeare-film-hamnet-oscar-oder-nicht-oscar-das-ist-hier-die-frage](https://www.spiegel.de/kultur/shakespeare-film-hamnet-oscar-oder-nicht-oscar-das-ist-hier-die-frage-a-2b334905-89cb-4649-9163-b8eb5b098418#ref=rss)
-### zwillinge
-
-* [https://www.spiegel.de/kultur/tv/wetten-dass-mit-bill-und-tom-kaulitz-so-kamen-die-zwillinge-ins-zdf](https://www.spiegel.de/kultur/tv/wetten-dass-mit-bill-und-tom-kaulitz-so-kamen-die-zwillinge-ins-zdf-a-6705d555-43af-43d9-a52e-a56ba0629ae4#ref=rss)
-* [https://www.spiegel.de/kultur/wetten-dass-und-die-kaulitz-brueder-der-alte-elstner-drueckt-den-beiden-ganz-fest-die-daumen](https://www.spiegel.de/kultur/wetten-dass-und-die-kaulitz-brueder-der-alte-elstner-drueckt-den-beiden-ganz-fest-die-daumen-a-b303d357-8852-4026-917f-dc21e7b57520#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/panorama/manoever-colder-iron-2026-bundeswehr-wirft-testet-flugblatt-abwuerfe-in-der-oberlausitz](https://www.spiegel.de/panorama/manoever-colder-iron-2026-bundeswehr-wirft-testet-flugblatt-abwuerfe-in-der-oberlausitz-a-0415c0d6-bbfe-447e-b3e5-09a32df16333#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
+* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
+* [https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen](https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen-a-446474fb-e496-47ab-847f-1d05295a1016#ref=rss)
+* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche](https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche-a-4925dbf8-a256-4d7d-8d94-f2ccbafa000f#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/leute/chris-noth-carrie-und-mr-big-sind-keine-freunde-mehr](https://www.spiegel.de/panorama/leute/chris-noth-carrie-und-mr-big-sind-keine-freunde-mehr-a-4968dea1-32b4-4e2d-87b7-1c2de2dad66e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle](https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle-a-c7794b63-2ced-49aa-8340-7fff356abd85#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne](https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne-a-3a81d200-e980-48d6-9c7d-8c9db82944bf#ref=rss)
+* [https://www.spiegel.de/start/archaeologin-und-aegyptologin-werden-klara-dietze-erzaehlt-von-grabungen-jobsuche-und-gehalt](https://www.spiegel.de/start/archaeologin-und-aegyptologin-werden-klara-dietze-erzaehlt-von-grabungen-jobsuche-und-gehalt-a-7d51803c-93c9-461b-bd3b-e375c6d2994f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/pflege-zuzahlungen-fuer-pflege-im-heim-steigen-weiter](https://www.spiegel.de/wirtschaft/service/pflege-zuzahlungen-fuer-pflege-im-heim-steigen-weiter-a-61efb34f-1d5c-4b39-8ee7-818ce72bfae9#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus](https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus-a-0b7103f2-82f6-4050-b19c-07b86cc6f4ca#ref=rss)
+* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
+### usa
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern](https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern-a-5cc6558b-a128-4664-9bd9-a98130e4a8ae#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/goldreserven-der-bundesbank-in-den-usa-experten-sorgen-sich](https://www.spiegel.de/wirtschaft/soziales/goldreserven-der-bundesbank-in-den-usa-experten-sorgen-sich-a-bde2f950-ebce-4b18-aaeb-7caddbb92ecf#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
+* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/manoever-colder-iron-2026-bundeswehr-wirft-testet-flugblatt-abwuerfe-in-der-oberlausitz](https://www.spiegel.de/panorama/manoever-colder-iron-2026-bundeswehr-wirft-testet-flugblatt-abwuerfe-in-der-oberlausitz-a-0415c0d6-bbfe-447e-b3e5-09a32df16333#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/syrien-und-demonstrationen-ausschreitungen-bei-pro-kurdischen-kundgebungen-in-deutschland](https://www.spiegel.de/panorama/justiz/syrien-und-demonstrationen-ausschreitungen-bei-pro-kurdischen-kundgebungen-in-deutschland-a-a21d0e09-1b1f-487f-81d5-657692e18f5e#ref=rss)
-### elterntaxis
+* [https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle](https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle-a-c7794b63-2ced-49aa-8340-7fff356abd85#ref=rss)
+* [https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen](https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen-a-4da83430-b0f2-4f05-8549-b5a994a469d2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen](https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen-a-a03527ce-e5cf-4512-b883-061a24e9bf83#ref=rss)
+* [https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst](https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst-a-ed415196-e5ff-4055-bc65-6e8beae71339#ref=rss)
+### merz
 
-* [https://www.spiegel.de/netzwelt/elterntaxis-fotos-von-falschparkern-sorgen-fuer-aerger-mit-datenschutzbehoerde](https://www.spiegel.de/netzwelt/elterntaxis-fotos-von-falschparkern-sorgen-fuer-aerger-mit-datenschutzbehoerde-a-2d19c24a-35cb-47ec-8a6d-883524ebf737#ref=rss)
-### lothar
+* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
+* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
+### grönland
 
-* [https://www.spiegel.de/sport/fussball/ski-unfall-in-oesterreich-lothar-matthaeus-muss-operiert-werden](https://www.spiegel.de/sport/fussball/ski-unfall-in-oesterreich-lothar-matthaeus-muss-operiert-werden-a-fd6b0e7b-9624-4e87-9125-cf24a7d7a551#ref=rss)
-### fällt
+* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/groenland-streit-im-supermarkt-viele-daenen-wollen-offenbar-us-waren-boykottieren](https://www.spiegel.de/wirtschaft/service/groenland-streit-im-supermarkt-viele-daenen-wollen-offenbar-us-waren-boykottieren-a-b1ab84a9-7879-4ad4-a1e2-c971cbb8edfa#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
+### europa
 
-* [https://www.spiegel.de/sport/fussball/ski-unfall-in-oesterreich-lothar-matthaeus-muss-operiert-werden](https://www.spiegel.de/sport/fussball/ski-unfall-in-oesterreich-lothar-matthaeus-muss-operiert-werden-a-fd6b0e7b-9624-4e87-9125-cf24a7d7a551#ref=rss)
-* [https://www.spiegel.de/start/resteverwertung-rezepte-um-alte-lebensmittel-aufzubrauchen-statt-immer-neu-zu-kaufen](https://www.spiegel.de/start/resteverwertung-rezepte-um-alte-lebensmittel-aufzubrauchen-statt-immer-neu-zu-kaufen-a-f5818ac6-b5e2-42bf-aebb-bf00f64075b7#ref=rss)
-### alte
+* [https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden](https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden-a-88915914-88d8-4c0c-bd34-2feafcc0b3b2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne](https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne-a-3a81d200-e980-48d6-9c7d-8c9db82944bf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche](https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche-a-4925dbf8-a256-4d7d-8d94-f2ccbafa000f#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/start/resteverwertung-rezepte-um-alte-lebensmittel-aufzubrauchen-statt-immer-neu-zu-kaufen](https://www.spiegel.de/start/resteverwertung-rezepte-um-alte-lebensmittel-aufzubrauchen-statt-immer-neu-zu-kaufen-a-f5818ac6-b5e2-42bf-aebb-bf00f64075b7#ref=rss)
-* [https://www.spiegel.de/kultur/wetten-dass-und-die-kaulitz-brueder-der-alte-elstner-drueckt-den-beiden-ganz-fest-die-daumen](https://www.spiegel.de/kultur/wetten-dass-und-die-kaulitz-brueder-der-alte-elstner-drueckt-den-beiden-ganz-fest-die-daumen-a-b303d357-8852-4026-917f-dc21e7b57520#ref=rss)
-### statt
+* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
+* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
+### davos
 
-* [https://www.spiegel.de/start/resteverwertung-rezepte-um-alte-lebensmittel-aufzubrauchen-statt-immer-neu-zu-kaufen](https://www.spiegel.de/start/resteverwertung-rezepte-um-alte-lebensmittel-aufzubrauchen-statt-immer-neu-zu-kaufen-a-f5818ac6-b5e2-42bf-aebb-bf00f64075b7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-hat-in-gruenheide-offenbar-mehr-als-1700-arbeitsplaetze-abgebaut](https://www.spiegel.de/wirtschaft/unternehmen/tesla-hat-in-gruenheide-offenbar-mehr-als-1700-arbeitsplaetze-abgebaut-a-2741ea4c-d50a-4b82-8af1-bbae0e2eaead#ref=rss)
-### überblick
+* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
+* [https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen](https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen-a-446474fb-e496-47ab-847f-1d05295a1016#ref=rss)
+### friedensrat
 
-* [https://www.spiegel.de/start/resteverwertung-rezepte-um-alte-lebensmittel-aufzubrauchen-statt-immer-neu-zu-kaufen](https://www.spiegel.de/start/resteverwertung-rezepte-um-alte-lebensmittel-aufzubrauchen-statt-immer-neu-zu-kaufen-a-f5818ac6-b5e2-42bf-aebb-bf00f64075b7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/syrien-und-demonstrationen-ausschreitungen-bei-pro-kurdischen-kundgebungen-in-deutschland](https://www.spiegel.de/panorama/justiz/syrien-und-demonstrationen-ausschreitungen-bei-pro-kurdischen-kundgebungen-in-deutschland-a-a21d0e09-1b1f-487f-81d5-657692e18f5e#ref=rss)
-### zeit
+* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
+* [https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen](https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen-a-446474fb-e496-47ab-847f-1d05295a1016#ref=rss)
+### noth
 
-* [https://www.spiegel.de/start/resteverwertung-rezepte-um-alte-lebensmittel-aufzubrauchen-statt-immer-neu-zu-kaufen](https://www.spiegel.de/start/resteverwertung-rezepte-um-alte-lebensmittel-aufzubrauchen-statt-immer-neu-zu-kaufen-a-f5818ac6-b5e2-42bf-aebb-bf00f64075b7#ref=rss)
-* [https://www.spiegel.de/kultur/wetten-dass-und-die-kaulitz-brueder-der-alte-elstner-drueckt-den-beiden-ganz-fest-die-daumen](https://www.spiegel.de/kultur/wetten-dass-und-die-kaulitz-brueder-der-alte-elstner-drueckt-den-beiden-ganz-fest-die-daumen-a-b303d357-8852-4026-917f-dc21e7b57520#ref=rss)
-### isar
+* [https://www.spiegel.de/panorama/leute/chris-noth-carrie-und-mr-big-sind-keine-freunde-mehr](https://www.spiegel.de/panorama/leute/chris-noth-carrie-und-mr-big-sind-keine-freunde-mehr-a-4968dea1-32b4-4e2d-87b7-1c2de2dad66e#ref=rss)
+### tot
 
-* [https://www.spiegel.de/wissenschaft/weltall/spectrum-von-isar-aerospace-raketenstart-verschoben-hoffnung-gewahrt](https://www.spiegel.de/wissenschaft/weltall/spectrum-von-isar-aerospace-raketenstart-verschoben-hoffnung-gewahrt-a-b6161249-7561-4055-acde-b718f530dc7e#ref=rss)
-### aerospace
+* [https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden](https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden-a-88915914-88d8-4c0c-bd34-2feafcc0b3b2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-innenpolitiker-ruediger-erben-stirbt-ueberraschend-mit-nur-58-jahren](https://www.spiegel.de/politik/deutschland/spd-innenpolitiker-ruediger-erben-stirbt-ueberraschend-mit-nur-58-jahren-a-b73c1bff-4822-45ad-8322-53b9e035e6b6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
+### familie
 
-* [https://www.spiegel.de/wissenschaft/weltall/spectrum-von-isar-aerospace-raketenstart-verschoben-hoffnung-gewahrt](https://www.spiegel.de/wissenschaft/weltall/spectrum-von-isar-aerospace-raketenstart-verschoben-hoffnung-gewahrt-a-b6161249-7561-4055-acde-b718f530dc7e#ref=rss)
-### verschoben
+* [https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden](https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden-a-88915914-88d8-4c0c-bd34-2feafcc0b3b2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star](https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star-a-a6271444-a4a6-45a4-9000-e1342904ecd0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/wissenschaft/weltall/spectrum-von-isar-aerospace-raketenstart-verschoben-hoffnung-gewahrt](https://www.spiegel.de/wissenschaft/weltall/spectrum-von-isar-aerospace-raketenstart-verschoben-hoffnung-gewahrt-a-b6161249-7561-4055-acde-b718f530dc7e#ref=rss)
-### mantel
+* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
+* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
+### bundeskanzler
 
-* [https://www.spiegel.de/kultur/mantel-von-gregory-bovino-wie-ein-eleganter-ss-offizier-der-sich-vom-pruegelnden-sa-poebel-unterscheidet](https://www.spiegel.de/kultur/mantel-von-gregory-bovino-wie-ein-eleganter-ss-offizier-der-sich-vom-pruegelnden-sa-poebel-unterscheidet-a-048390d3-55de-46c8-9ee6-546ea0f83a9d#ref=rss)
-### gefunden
+* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
+* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/kultur/mantel-von-gregory-bovino-wie-ein-eleganter-ss-offizier-der-sich-vom-pruegelnden-sa-poebel-unterscheidet](https://www.spiegel.de/kultur/mantel-von-gregory-bovino-wie-ein-eleganter-ss-offizier-der-sich-vom-pruegelnden-sa-poebel-unterscheidet-a-048390d3-55de-46c8-9ee6-546ea0f83a9d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/unfalltod-von-frau-in-luebeck-polizei-geht-von-zeugen-als-unfallverursacher-aus](https://www.spiegel.de/panorama/justiz/unfalltod-von-frau-in-luebeck-polizei-geht-von-zeugen-als-unfallverursacher-aus-a-79c117d4-2c2f-405c-92fb-f2ef41f133c5#ref=rss)
-### london
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern](https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern-a-5cc6558b-a128-4664-9bd9-a98130e4a8ae#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub-a-82f53fe7-76ef-4f34-b648-00dd3e5e8ec6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star](https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star-a-a6271444-a4a6-45a4-9000-e1342904ecd0#ref=rss)
+### überraschend
 
-* [https://www.spiegel.de/panorama/leute/london-prinz-harry-greift-yellow-press-vor-gericht-an](https://www.spiegel.de/panorama/leute/london-prinz-harry-greift-yellow-press-vor-gericht-an-a-3a3674c8-966d-463c-aa38-df995d6203ea#ref=rss)
-### prinz
+* [https://www.spiegel.de/politik/deutschland/spd-innenpolitiker-ruediger-erben-stirbt-ueberraschend-mit-nur-58-jahren](https://www.spiegel.de/politik/deutschland/spd-innenpolitiker-ruediger-erben-stirbt-ueberraschend-mit-nur-58-jahren-a-b73c1bff-4822-45ad-8322-53b9e035e6b6#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus](https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus-a-0b7103f2-82f6-4050-b19c-07b86cc6f4ca#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/panorama/leute/london-prinz-harry-greift-yellow-press-vor-gericht-an](https://www.spiegel.de/panorama/leute/london-prinz-harry-greift-yellow-press-vor-gericht-an-a-3a3674c8-966d-463c-aa38-df995d6203ea#ref=rss)
-### harry
+* [https://www.spiegel.de/kultur/tv/grimme-preis-haftbefehl-doku-und-ard-korrespondentin-von-der-tann-nominiert](https://www.spiegel.de/kultur/tv/grimme-preis-haftbefehl-doku-und-ard-korrespondentin-von-der-tann-nominiert-a-dd7ab73f-802b-4d44-b588-edd0e4df7c84#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/goldreserven-der-bundesbank-in-den-usa-experten-sorgen-sich](https://www.spiegel.de/wirtschaft/soziales/goldreserven-der-bundesbank-in-den-usa-experten-sorgen-sich-a-bde2f950-ebce-4b18-aaeb-7caddbb92ecf#ref=rss)
+* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/leute/london-prinz-harry-greift-yellow-press-vor-gericht-an](https://www.spiegel.de/panorama/leute/london-prinz-harry-greift-yellow-press-vor-gericht-an-a-3a3674c8-966d-463c-aa38-df995d6203ea#ref=rss)
-### yellow
+* [https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen](https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen-a-4da83430-b0f2-4f05-8549-b5a994a469d2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/panorama/leute/london-prinz-harry-greift-yellow-press-vor-gericht-an](https://www.spiegel.de/panorama/leute/london-prinz-harry-greift-yellow-press-vor-gericht-an-a-3a3674c8-966d-463c-aa38-df995d6203ea#ref=rss)
-### press
+* [https://www.spiegel.de/wirtschaft/soziales/goldreserven-der-bundesbank-in-den-usa-experten-sorgen-sich](https://www.spiegel.de/wirtschaft/soziales/goldreserven-der-bundesbank-in-den-usa-experten-sorgen-sich-a-bde2f950-ebce-4b18-aaeb-7caddbb92ecf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne](https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne-a-3a81d200-e980-48d6-9c7d-8c9db82944bf#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/panorama/leute/london-prinz-harry-greift-yellow-press-vor-gericht-an](https://www.spiegel.de/panorama/leute/london-prinz-harry-greift-yellow-press-vor-gericht-an-a-3a3674c8-966d-463c-aa38-df995d6203ea#ref=rss)
-### tesla
+* [https://www.spiegel.de/start/archaeologin-und-aegyptologin-werden-klara-dietze-erzaehlt-von-grabungen-jobsuche-und-gehalt](https://www.spiegel.de/start/archaeologin-und-aegyptologin-werden-klara-dietze-erzaehlt-von-grabungen-jobsuche-und-gehalt-a-7d51803c-93c9-461b-bd3b-e375c6d2994f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/pflege-zuzahlungen-fuer-pflege-im-heim-steigen-weiter](https://www.spiegel.de/wirtschaft/service/pflege-zuzahlungen-fuer-pflege-im-heim-steigen-weiter-a-61efb34f-1d5c-4b39-8ee7-818ce72bfae9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-hat-in-gruenheide-offenbar-mehr-als-1700-arbeitsplaetze-abgebaut](https://www.spiegel.de/wirtschaft/unternehmen/tesla-hat-in-gruenheide-offenbar-mehr-als-1700-arbeitsplaetze-abgebaut-a-2741ea4c-d50a-4b82-8af1-bbae0e2eaead#ref=rss)
-### arbeitsplätze
+* [https://www.spiegel.de/wirtschaft/service/groenland-streit-im-supermarkt-viele-daenen-wollen-offenbar-us-waren-boykottieren](https://www.spiegel.de/wirtschaft/service/groenland-streit-im-supermarkt-viele-daenen-wollen-offenbar-us-waren-boykottieren-a-b1ab84a9-7879-4ad4-a1e2-c971cbb8edfa#ref=rss)
+* [https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst](https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst-a-ed415196-e5ff-4055-bc65-6e8beae71339#ref=rss)
+### chris
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-hat-in-gruenheide-offenbar-mehr-als-1700-arbeitsplaetze-abgebaut](https://www.spiegel.de/wirtschaft/unternehmen/tesla-hat-in-gruenheide-offenbar-mehr-als-1700-arbeitsplaetze-abgebaut-a-2741ea4c-d50a-4b82-8af1-bbae0e2eaead#ref=rss)
-### abgebaut
+* [https://www.spiegel.de/panorama/leute/chris-noth-carrie-und-mr-big-sind-keine-freunde-mehr](https://www.spiegel.de/panorama/leute/chris-noth-carrie-und-mr-big-sind-keine-freunde-mehr-a-4968dea1-32b4-4e2d-87b7-1c2de2dad66e#ref=rss)
+### carrie
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-hat-in-gruenheide-offenbar-mehr-als-1700-arbeitsplaetze-abgebaut](https://www.spiegel.de/wirtschaft/unternehmen/tesla-hat-in-gruenheide-offenbar-mehr-als-1700-arbeitsplaetze-abgebaut-a-2741ea4c-d50a-4b82-8af1-bbae0e2eaead#ref=rss)
-### wohl
+* [https://www.spiegel.de/panorama/leute/chris-noth-carrie-und-mr-big-sind-keine-freunde-mehr](https://www.spiegel.de/panorama/leute/chris-noth-carrie-und-mr-big-sind-keine-freunde-mehr-a-4968dea1-32b4-4e2d-87b7-1c2de2dad66e#ref=rss)
+### aachen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-hat-in-gruenheide-offenbar-mehr-als-1700-arbeitsplaetze-abgebaut](https://www.spiegel.de/wirtschaft/unternehmen/tesla-hat-in-gruenheide-offenbar-mehr-als-1700-arbeitsplaetze-abgebaut-a-2741ea4c-d50a-4b82-8af1-bbae0e2eaead#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/anschlaege-auf-das-berliner-stromnetz-dieser-quantenphysiker-ist-der-vordenker-der-vulkangruppe](https://www.spiegel.de/panorama/justiz/anschlaege-auf-das-berliner-stromnetz-dieser-quantenphysiker-ist-der-vordenker-der-vulkangruppe-a-ef059ad3-ddf3-49c6-b123-f65bce080396#ref=rss)
-### nextbike
+* [https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle](https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle-a-c7794b63-2ced-49aa-8340-7fff356abd85#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/auto/berlin-nextbike-muss-6500-leih-fahrraeder-von-berlins-strassen-holen](https://www.spiegel.de/auto/berlin-nextbike-muss-6500-leih-fahrraeder-von-berlins-strassen-holen-a-bf4494c9-414b-4bbf-be8a-e2f895dfe82b#ref=rss)
-### leihfahrräder
+* [https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle](https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle-a-c7794b63-2ced-49aa-8340-7fff356abd85#ref=rss)
+### womöglich
 
-* [https://www.spiegel.de/auto/berlin-nextbike-muss-6500-leih-fahrraeder-von-berlins-strassen-holen](https://www.spiegel.de/auto/berlin-nextbike-muss-6500-leih-fahrraeder-von-berlins-strassen-holen-a-bf4494c9-414b-4bbf-be8a-e2f895dfe82b#ref=rss)
-### elstner
+* [https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle](https://www.spiegel.de/panorama/justiz/aachen-pfleger-koennte-mehr-als-100-menschen-getoetet-haben-neue-verdachtsfaelle-a-c7794b63-2ced-49aa-8340-7fff356abd85#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche](https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche-a-4925dbf8-a256-4d7d-8d94-f2ccbafa000f#ref=rss)
+### bosporus
 
-* [https://www.spiegel.de/kultur/wetten-dass-und-die-kaulitz-brueder-der-alte-elstner-drueckt-den-beiden-ganz-fest-die-daumen](https://www.spiegel.de/kultur/wetten-dass-und-die-kaulitz-brueder-der-alte-elstner-drueckt-den-beiden-ganz-fest-die-daumen-a-b303d357-8852-4026-917f-dc21e7b57520#ref=rss)
-### selbst
+* [https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden](https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden-a-88915914-88d8-4c0c-bd34-2feafcc0b3b2#ref=rss)
+### teilnehmer
 
-* [https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-in-davos-was-sagt-donald-trump-bei-seiner-rede](https://www.spiegel.de/wirtschaft/weltwirtschaftsforum-in-davos-was-sagt-donald-trump-bei-seiner-rede-a-06cde2f7-07ae-4a42-9611-416336019fee#ref=rss)
-* [https://www.spiegel.de/ausland/syriens-schlaechter-von-hama-rifaat-al-assad-ist-laut-medienbericht-tot](https://www.spiegel.de/ausland/syriens-schlaechter-von-hama-rifaat-al-assad-ist-laut-medienbericht-tot-a-d9cd8e64-fb82-451d-8211-1124831af661#ref=rss)
-### rifaat
+* [https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden](https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden-a-88915914-88d8-4c0c-bd34-2feafcc0b3b2#ref=rss)
+* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
+### kämpfen
 
-* [https://www.spiegel.de/ausland/syriens-schlaechter-von-hama-rifaat-al-assad-ist-laut-medienbericht-tot](https://www.spiegel.de/ausland/syriens-schlaechter-von-hama-rifaat-al-assad-ist-laut-medienbericht-tot-a-d9cd8e64-fb82-451d-8211-1124831af661#ref=rss)
-### alassad
+* [https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden](https://www.spiegel.de/sport/vermisster-russischer-schwimmer-tot-im-bosporus-gefunden-a-88915914-88d8-4c0c-bd34-2feafcc0b3b2#ref=rss)
+* [https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst](https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst-a-ed415196-e5ff-4055-bc65-6e8beae71339#ref=rss)
+### lars
 
-* [https://www.spiegel.de/ausland/syriens-schlaechter-von-hama-rifaat-al-assad-ist-laut-medienbericht-tot](https://www.spiegel.de/ausland/syriens-schlaechter-von-hama-rifaat-al-assad-ist-laut-medienbericht-tot-a-d9cd8e64-fb82-451d-8211-1124831af661#ref=rss)
-### lübeck
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
+### klingbeil
 
-* [https://www.spiegel.de/panorama/justiz/unfalltod-von-frau-in-luebeck-polizei-geht-von-zeugen-als-unfallverursacher-aus](https://www.spiegel.de/panorama/justiz/unfalltod-von-frau-in-luebeck-polizei-geht-von-zeugen-als-unfallverursacher-aus-a-79c117d4-2c2f-405c-92fb-f2ef41f133c5#ref=rss)
-### polizei
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
+### einige
 
-* [https://www.spiegel.de/panorama/justiz/unfalltod-von-frau-in-luebeck-polizei-geht-von-zeugen-als-unfallverursacher-aus](https://www.spiegel.de/panorama/justiz/unfalltod-von-frau-in-luebeck-polizei-geht-von-zeugen-als-unfallverursacher-aus-a-79c117d4-2c2f-405c-92fb-f2ef41f133c5#ref=rss)
-### syrien
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
+* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/panorama/justiz/syrien-und-demonstrationen-ausschreitungen-bei-pro-kurdischen-kundgebungen-in-deutschland](https://www.spiegel.de/panorama/justiz/syrien-und-demonstrationen-ausschreitungen-bei-pro-kurdischen-kundgebungen-in-deutschland-a-a21d0e09-1b1f-487f-81d5-657692e18f5e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
+* [https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen](https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen-a-446474fb-e496-47ab-847f-1d05295a1016#ref=rss)
+### einlenken
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
+### ende
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-die-usa-donald-trump-haelt-europa-den-spiegel-vor-a-308c0950-7b8a-4950-b34c-83c6fe806137#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
+### meinung
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten](https://www.spiegel.de/politik/deutschland/donald-trump-friedrich-merz-begruesst-einkldes-us-praesidenten-a-9fa7e0c0-0959-44ff-9bad-3c9d74020141#ref=rss)
+* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
+### fußballwm
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern](https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern-a-5cc6558b-a128-4664-9bd9-a98130e4a8ae#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern](https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern-a-5cc6558b-a128-4664-9bd9-a98130e4a8ae#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus](https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus-a-0b7103f2-82f6-4050-b19c-07b86cc6f4ca#ref=rss)
+### joshua
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern](https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern-a-5cc6558b-a128-4664-9bd9-a98130e4a8ae#ref=rss)
+### kimmich
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern](https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern-a-5cc6558b-a128-4664-9bd9-a98130e4a8ae#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern](https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern-a-5cc6558b-a128-4664-9bd9-a98130e4a8ae#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub-a-82f53fe7-76ef-4f34-b648-00dd3e5e8ec6#ref=rss)
+### darauf
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern](https://www.spiegel.de/sport/fussball/fussball-wm-2026-joshua-kimmich-will-sich-zu-einem-moeglichen-boykott-nicht-aeussern-a-5cc6558b-a128-4664-9bd9-a98130e4a8ae#ref=rss)
+* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
+### rüdiger
+
+* [https://www.spiegel.de/politik/deutschland/spd-innenpolitiker-ruediger-erben-stirbt-ueberraschend-mit-nur-58-jahren](https://www.spiegel.de/politik/deutschland/spd-innenpolitiker-ruediger-erben-stirbt-ueberraschend-mit-nur-58-jahren-a-b73c1bff-4822-45ad-8322-53b9e035e6b6#ref=rss)
+### erben
+
+* [https://www.spiegel.de/politik/deutschland/spd-innenpolitiker-ruediger-erben-stirbt-ueberraschend-mit-nur-58-jahren](https://www.spiegel.de/politik/deutschland/spd-innenpolitiker-ruediger-erben-stirbt-ueberraschend-mit-nur-58-jahren-a-b73c1bff-4822-45ad-8322-53b9e035e6b6#ref=rss)
+### darunter
+
+* [https://www.spiegel.de/kultur/tv/grimme-preis-haftbefehl-doku-und-ard-korrespondentin-von-der-tann-nominiert](https://www.spiegel.de/kultur/tv/grimme-preis-haftbefehl-doku-und-ard-korrespondentin-von-der-tann-nominiert-a-dd7ab73f-802b-4d44-b588-edd0e4df7c84#ref=rss)
+* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
+### unter
+
+* [https://www.spiegel.de/kultur/tv/grimme-preis-haftbefehl-doku-und-ard-korrespondentin-von-der-tann-nominiert](https://www.spiegel.de/kultur/tv/grimme-preis-haftbefehl-doku-und-ard-korrespondentin-von-der-tann-nominiert-a-dd7ab73f-802b-4d44-b588-edd0e4df7c84#ref=rss)
+* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
+### griechenland
+
+* [https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen](https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen-a-4da83430-b0f2-4f05-8549-b5a994a469d2#ref=rss)
+### sterben
+
+* [https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen](https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen-a-4da83430-b0f2-4f05-8549-b5a994a469d2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
+### leben
+
+* [https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen](https://www.spiegel.de/panorama/griechenland-zwei-menschen-sterben-bei-ueberschwemmungen-a-4da83430-b0f2-4f05-8549-b5a994a469d2#ref=rss)
+* [https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst](https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst-a-ed415196-e5ff-4055-bc65-6e8beae71339#ref=rss)
+### nasa
+
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-heimgekehrte-astronauten-berichten-vom-medizinischen-notfall-auf-der-iss](https://www.spiegel.de/wissenschaft/weltall/nasa-heimgekehrte-astronauten-berichten-vom-medizinischen-notfall-auf-der-iss-a-c9473b2a-734f-4185-9901-149c64b1b930#ref=rss)
+### astronauten
+
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-heimgekehrte-astronauten-berichten-vom-medizinischen-notfall-auf-der-iss](https://www.spiegel.de/wissenschaft/weltall/nasa-heimgekehrte-astronauten-berichten-vom-medizinischen-notfall-auf-der-iss-a-c9473b2a-734f-4185-9901-149c64b1b930#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub-a-82f53fe7-76ef-4f34-b648-00dd3e5e8ec6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star](https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star-a-a6271444-a4a6-45a4-9000-e1342904ecd0#ref=rss)
+### dayot
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub-a-82f53fe7-76ef-4f34-b648-00dd3e5e8ec6#ref=rss)
+### künftig
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub-a-82f53fe7-76ef-4f34-b648-00dd3e5e8ec6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne](https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne-a-3a81d200-e980-48d6-9c7d-8c9db82944bf#ref=rss)
+### viele
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-dayot-upamecanos-neuer-vertrag-die-eine-baustelle-im-klub-a-82f53fe7-76ef-4f34-b648-00dd3e5e8ec6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/groenland-streit-im-supermarkt-viele-daenen-wollen-offenbar-us-waren-boykottieren](https://www.spiegel.de/wirtschaft/service/groenland-streit-im-supermarkt-viele-daenen-wollen-offenbar-us-waren-boykottieren-a-b1ab84a9-7879-4ad4-a1e2-c971cbb8edfa#ref=rss)
+### lucas
+
+* [https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star](https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star-a-a6271444-a4a6-45a4-9000-e1342904ecd0#ref=rss)
+### hernández
+
+* [https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star](https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star-a-a6271444-a4a6-45a4-9000-e1342904ecd0#ref=rss)
+### schwere
+
+* [https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star](https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star-a-a6271444-a4a6-45a4-9000-e1342904ecd0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
+### anwältin
+
+* [https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star](https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star-a-a6271444-a4a6-45a4-9000-e1342904ecd0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
+### wirft
+
+* [https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star](https://www.spiegel.de/sport/fussball/lucas-hernandez-anschuldigungen-gegen-ex-bayern-star-a-a6271444-a4a6-45a4-9000-e1342904ecd0#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen](https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen-a-a03527ce-e5cf-4512-b883-061a24e9bf83#ref=rss)
+### goldreserven
+
+* [https://www.spiegel.de/wirtschaft/soziales/goldreserven-der-bundesbank-in-den-usa-experten-sorgen-sich](https://www.spiegel.de/wirtschaft/soziales/goldreserven-der-bundesbank-in-den-usa-experten-sorgen-sich-a-bde2f950-ebce-4b18-aaeb-7caddbb92ecf#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne](https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne-a-3a81d200-e980-48d6-9c7d-8c9db82944bf#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne](https://www.spiegel.de/politik/deutschland/die-gruenen-wenn-es-um-die-brandmauer-geht-sollte-die-partei-kuenftig-schweigen-kolumne-a-3a81d200-e980-48d6-9c7d-8c9db82944bf#ref=rss)
+* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
+### uelzen
+
+* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
+### yacouba
+
+* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
+### z
+
+* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
+### kuba
+
+* [https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben](https://www.spiegel.de/panorama/justiz/jva-uelzen-todesfall-yacouba-z-warum-musste-kuba-sterben-a-0ab9c5f1-c5fe-4604-9016-1449c31ae944#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen](https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen-a-a03527ce-e5cf-4512-b883-061a24e9bf83#ref=rss)
+### andere
+
+* [https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit](https://www.spiegel.de/ausland/friedensrat-diese-staatenlenker-machen-bei-trumps-friedensrat-mit-a-0efdc2f5-066b-4772-886d-462b36d123f8#ref=rss)
+* [https://www.spiegel.de/kultur/tv/serientrash-the-beauty-alles-andere-als-eine-tv-schoenheit](https://www.spiegel.de/kultur/tv/serientrash-the-beauty-alles-andere-als-eine-tv-schoenheit-a-9e2101d9-39ac-4299-ae89-a60066e7d23f#ref=rss)
+### bogenseeareal
+
+* [https://www.spiegel.de/panorama/bogensee-areal-mit-goebbels-villa-grossbrand-nahe-berlin-ausgebrochen](https://www.spiegel.de/panorama/bogensee-areal-mit-goebbels-villa-grossbrand-nahe-berlin-ausgebrochen-a-736f647c-903a-4df0-94fe-6b02000150f5#ref=rss)
+### telefonische
+
+* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
+### krankschreibung
+
+* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
+### probleme
+
+* [https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung](https://www.spiegel.de/karriere/telefonische-krankschreibung-sind-die-deutschen-zu-faul-nein-meinung-a-f2f84c8c-8629-43a7-a635-5b1d3e2c3c64#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus](https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus-a-0b7103f2-82f6-4050-b19c-07b86cc6f4ca#ref=rss)
+### rede
+
+* [https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream](https://www.spiegel.de/politik/friedrich-merz-rede-in-davos-livestream-a-77ec1b6d-2c88-4408-af95-0ff6d38a71bf#ref=rss)
+### klara
+
+* [https://www.spiegel.de/start/archaeologin-und-aegyptologin-werden-klara-dietze-erzaehlt-von-grabungen-jobsuche-und-gehalt](https://www.spiegel.de/start/archaeologin-und-aegyptologin-werden-klara-dietze-erzaehlt-von-grabungen-jobsuche-und-gehalt-a-7d51803c-93c9-461b-bd3b-e375c6d2994f#ref=rss)
+### dietze
+
+* [https://www.spiegel.de/start/archaeologin-und-aegyptologin-werden-klara-dietze-erzaehlt-von-grabungen-jobsuche-und-gehalt](https://www.spiegel.de/start/archaeologin-und-aegyptologin-werden-klara-dietze-erzaehlt-von-grabungen-jobsuche-und-gehalt-a-7d51803c-93c9-461b-bd3b-e375c6d2994f#ref=rss)
+### pflege
+
+* [https://www.spiegel.de/wirtschaft/service/pflege-zuzahlungen-fuer-pflege-im-heim-steigen-weiter](https://www.spiegel.de/wirtschaft/service/pflege-zuzahlungen-fuer-pflege-im-heim-steigen-weiter-a-61efb34f-1d5c-4b39-8ee7-818ce72bfae9#ref=rss)
+### steigen
+
+* [https://www.spiegel.de/wirtschaft/service/pflege-zuzahlungen-fuer-pflege-im-heim-steigen-weiter](https://www.spiegel.de/wirtschaft/service/pflege-zuzahlungen-fuer-pflege-im-heim-steigen-weiter-a-61efb34f-1d5c-4b39-8ee7-818ce72bfae9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
+### kyjiw
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen](https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen-a-a03527ce-e5cf-4512-b883-061a24e9bf83#ref=rss)
+### heizung
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen](https://www.spiegel.de/ausland/ukraine-krieg-3000-hochhaeuser-in-kyjiw-ohne-heizung-bei-frostigen-temperaturen-a-a03527ce-e5cf-4512-b883-061a24e9bf83#ref=rss)
+### laura
+
+* [https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus](https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus-a-0b7103f2-82f6-4050-b19c-07b86cc6f4ca#ref=rss)
+### siegemund
+
+* [https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus](https://www.spiegel.de/sport/tennis/australian-open-2026-mit-laura-siegemund-scheidet-die-letzte-deutsche-tennisspielerin-aus-a-0b7103f2-82f6-4050-b19c-07b86cc6f4ca#ref=rss)
+### erste
+
+* [https://www.spiegel.de/wirtschaft/service/groenland-streit-im-supermarkt-viele-daenen-wollen-offenbar-us-waren-boykottieren](https://www.spiegel.de/wirtschaft/service/groenland-streit-im-supermarkt-viele-daenen-wollen-offenbar-us-waren-boykottieren-a-b1ab84a9-7879-4ad4-a1e2-c971cbb8edfa#ref=rss)
+* [https://www.spiegel.de/kultur/tv/serientrash-the-beauty-alles-andere-als-eine-tv-schoenheit](https://www.spiegel.de/kultur/tv/serientrash-the-beauty-alles-andere-als-eine-tv-schoenheit-a-9e2101d9-39ac-4299-ae89-a60066e7d23f#ref=rss)
+### natogeneralsekretär
+
+* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
+### mark
+
+* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
+### rutte
+
+* [https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen](https://www.spiegel.de/ausland/groenland-lange-schwieg-mark-rutte-dann-zaehmte-er-donald-trump-zumindest-ein-bisschen-a-9b4b23f8-98f8-4cc6-9145-879e7aec19be#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen](https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen-a-446474fb-e496-47ab-847f-1d05295a1016#ref=rss)
+### saudiarabien
+
+* [https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen](https://www.spiegel.de/ausland/friedensrat-tuerkei-und-saudi-arabien-wollen-sich-donald-trumps-friedensrat-anschliessen-a-446474fb-e496-47ab-847f-1d05295a1016#ref=rss)
+### campingplatz
+
+* [https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst](https://www.spiegel.de/panorama/neuseeland-mehrere-menschen-nach-erdrutsch-auf-campingplatz-vermisst-a-ed415196-e5ff-4055-bc65-6e8beae71339#ref=rss)
+### importe
+
+* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
+### 60
+
+* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau](https://www.spiegel.de/wissenschaft/lng-fluessiggaslieferungen-aus-den-usa-nach-deutschland-steigen-auf-rekordniveau-a-20f13908-ff7f-4156-ac54-c96fb9893ad2#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/tv/serientrash-the-beauty-alles-andere-als-eine-tv-schoenheit](https://www.spiegel.de/kultur/tv/serientrash-the-beauty-alles-andere-als-eine-tv-schoenheit-a-9e2101d9-39ac-4299-ae89-a60066e7d23f#ref=rss)
+### beauty
+
+* [https://www.spiegel.de/kultur/tv/serientrash-the-beauty-alles-andere-als-eine-tv-schoenheit](https://www.spiegel.de/kultur/tv/serientrash-the-beauty-alles-andere-als-eine-tv-schoenheit-a-9e2101d9-39ac-4299-ae89-a60066e7d23f#ref=rss)
+### euparlament
+
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche](https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche-a-4925dbf8-a256-4d7d-8d94-f2ccbafa000f#ref=rss)
+### katherina
+
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche](https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche-a-4925dbf8-a256-4d7d-8d94-f2ccbafa000f#ref=rss)
+### reiche
+
+* [https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche](https://www.spiegel.de/politik/deutschland/news-donald-trump-groenland-einigung-mercosur-abstimmung-im-eu-parlament-katherina-reiche-a-4925dbf8-a256-4d7d-8d94-f2ccbafa000f#ref=rss)
 
