@@ -4,286 +4,352 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
+### usa
 
-* [https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-geschichtspolitik-als-mittel-territorialer-ansprueche](https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-geschichtspolitik-als-mittel-territorialer-ansprueche-a-14421198-2c5b-4233-a6c8-e58dd7ed916b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-groenland-einigung-mcallister-spricht-von-schwerster-krise-innerhalb-der-nato](https://www.spiegel.de/politik/deutschland/reaktionen-auf-groenland-einigung-mcallister-spricht-von-schwerster-krise-innerhalb-der-nato-a-e1ebe300-2e76-4a0d-8755-b5030d442519#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-nach-donald-trumps-davos-rede-ich-weiss-leider-auch-nicht-was-in-dem-deal-ueber-mein-land-stehen-soll](https://www.spiegel.de/ausland/groenland-nach-donald-trumps-davos-rede-ich-weiss-leider-auch-nicht-was-in-dem-deal-ueber-mein-land-stehen-soll-a-d832bedf-bcff-467f-ae84-bd0406af9677#ref=rss)
-* [https://www.spiegel.de/wirtschaft/silberpreis-steigt-erstmals-ueber-100-dollar](https://www.spiegel.de/wirtschaft/silberpreis-steigt-erstmals-ueber-100-dollar-a-1b5a1dbf-1f8f-40df-b71f-12078f709557#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-geschichtspolitik-als-mittel-territorialer-ansprueche](https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-geschichtspolitik-als-mittel-territorialer-ansprueche-a-14421198-2c5b-4233-a6c8-e58dd7ed916b#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-nach-donald-trumps-davos-rede-ich-weiss-leider-auch-nicht-was-in-dem-deal-ueber-mein-land-stehen-soll](https://www.spiegel.de/ausland/groenland-nach-donald-trumps-davos-rede-ich-weiss-leider-auch-nicht-was-in-dem-deal-ueber-mein-land-stehen-soll-a-d832bedf-bcff-467f-ae84-bd0406af9677#ref=rss)
-* [https://www.spiegel.de/wirtschaft/silberpreis-steigt-erstmals-ueber-100-dollar](https://www.spiegel.de/wirtschaft/silberpreis-steigt-erstmals-ueber-100-dollar-a-1b5a1dbf-1f8f-40df-b71f-12078f709557#ref=rss)
-### cransmontana
-
-* [https://www.spiegel.de/panorama/crans-montana-le-constellation-barbetreiber-jacques-moretti-kommt-unter-auflagen-aus-untersuchungshaft-frei](https://www.spiegel.de/panorama/crans-montana-le-constellation-barbetreiber-jacques-moretti-kommt-unter-auflagen-aus-untersuchungshaft-frei-a-d925718c-ea5a-4499-bcac-43cd47154c12#ref=rss)
-* [https://www.spiegel.de/ausland/crans-montana-immer-neue-details-lenken-von-der-verantwortung-der-behoerden-ab](https://www.spiegel.de/ausland/crans-montana-immer-neue-details-lenken-von-der-verantwortung-der-behoerden-ab-a-3b04f288-9fba-4a61-ac79-483bd56f188c#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-groenland-einigung-mcallister-spricht-von-schwerster-krise-innerhalb-der-nato](https://www.spiegel.de/politik/deutschland/reaktionen-auf-groenland-einigung-mcallister-spricht-von-schwerster-krise-innerhalb-der-nato-a-e1ebe300-2e76-4a0d-8755-b5030d442519#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-verhandlungen-was-passiert-wenn-europa-seine-meinung-sagt](https://www.spiegel.de/ausland/groenland-verhandlungen-was-passiert-wenn-europa-seine-meinung-sagt-a-e502dabd-56f8-4c7d-a330-7fb1e0c856ac#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-nach-donald-trumps-davos-rede-ich-weiss-leider-auch-nicht-was-in-dem-deal-ueber-mein-land-stehen-soll](https://www.spiegel.de/ausland/groenland-nach-donald-trumps-davos-rede-ich-weiss-leider-auch-nicht-was-in-dem-deal-ueber-mein-land-stehen-soll-a-d832bedf-bcff-467f-ae84-bd0406af9677#ref=rss)
-### grönland
-
-* [https://www.spiegel.de/ausland/groenland-verhandlungen-was-passiert-wenn-europa-seine-meinung-sagt](https://www.spiegel.de/ausland/groenland-verhandlungen-was-passiert-wenn-europa-seine-meinung-sagt-a-e502dabd-56f8-4c7d-a330-7fb1e0c856ac#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-nach-donald-trumps-davos-rede-ich-weiss-leider-auch-nicht-was-in-dem-deal-ueber-mein-land-stehen-soll](https://www.spiegel.de/ausland/groenland-nach-donald-trumps-davos-rede-ich-weiss-leider-auch-nicht-was-in-dem-deal-ueber-mein-land-stehen-soll-a-d832bedf-bcff-467f-ae84-bd0406af9677#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/silberpreis-steigt-erstmals-ueber-100-dollar](https://www.spiegel.de/wirtschaft/silberpreis-steigt-erstmals-ueber-100-dollar-a-1b5a1dbf-1f8f-40df-b71f-12078f709557#ref=rss)
-* [https://www.spiegel.de/ausland/crans-montana-immer-neue-details-lenken-von-der-verantwortung-der-behoerden-ab](https://www.spiegel.de/ausland/crans-montana-immer-neue-details-lenken-von-der-verantwortung-der-behoerden-ab-a-3b04f288-9fba-4a61-ac79-483bd56f188c#ref=rss)
-* [https://www.spiegel.de/kultur/musik/pva-avaion-the-damned-jana-horn-album-der-woche](https://www.spiegel.de/kultur/musik/pva-avaion-the-damned-jana-horn-album-der-woche-a-d05c170f-cf7d-4ed7-8ea8-83e2f36bfcb6#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/diebstahl-in-berlin-reinickendorf-falscher-polizist-ist-echter-beamter](https://www.spiegel.de/panorama/justiz/diebstahl-in-berlin-reinickendorf-falscher-polizist-ist-echter-beamter-a-ba31accd-4969-401b-8846-8a516a6f047e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hemmingen-bei-hannover-nachbarin-getoetet-mann-zu-lebenslanger-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/hemmingen-bei-hannover-nachbarin-getoetet-mann-zu-lebenslanger-haftstrafe-verurteilt-a-56cda606-9d04-4195-8b73-a89112f1464f#ref=rss)
-### jd
-
-* [https://www.spiegel.de/wirtschaft/jd-vance-spott-fuer-titanic-vergleich-in-rede-ueber-lebenshaltungskosten](https://www.spiegel.de/wirtschaft/jd-vance-spott-fuer-titanic-vergleich-in-rede-ueber-lebenshaltungskosten-a-cab2e23f-ce7c-442b-8454-235d085a5b40#ref=rss)
-* [https://www.spiegel.de/ausland/ice-in-minnesota-fuenfjaehriger-von-us-agenten-deportiert](https://www.spiegel.de/ausland/ice-in-minnesota-fuenfjaehriger-von-us-agenten-deportiert-a-4c45d624-7e79-4536-a789-1b2b26ac204a#ref=rss)
-### vance
-
-* [https://www.spiegel.de/wirtschaft/jd-vance-spott-fuer-titanic-vergleich-in-rede-ueber-lebenshaltungskosten](https://www.spiegel.de/wirtschaft/jd-vance-spott-fuer-titanic-vergleich-in-rede-ueber-lebenshaltungskosten-a-cab2e23f-ce7c-442b-8454-235d085a5b40#ref=rss)
-* [https://www.spiegel.de/ausland/ice-in-minnesota-fuenfjaehriger-von-us-agenten-deportiert](https://www.spiegel.de/ausland/ice-in-minnesota-fuenfjaehriger-von-us-agenten-deportiert-a-4c45d624-7e79-4536-a789-1b2b26ac204a#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/sport/fussball/fall-stefan-kuntz-beim-hamburger-sv-wie-sexistisch-ist-der-deutsche-fussball](https://www.spiegel.de/sport/fussball/fall-stefan-kuntz-beim-hamburger-sv-wie-sexistisch-ist-der-deutsche-fussball-a-108aed41-396c-454b-8e12-6c7d08f4e2d4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/stefan-kuntz-spricht-nach-trennung-vom-hamburger-sv-ueber-belaestigungsvorwuerfe](https://www.spiegel.de/sport/fussball/stefan-kuntz-spricht-nach-trennung-vom-hamburger-sv-ueber-belaestigungsvorwuerfe-a-54d10825-5ce7-4a0b-a8a1-0b073a2ea789#ref=rss)
-### kuntz
-
-* [https://www.spiegel.de/sport/fussball/fall-stefan-kuntz-beim-hamburger-sv-wie-sexistisch-ist-der-deutsche-fussball](https://www.spiegel.de/sport/fussball/fall-stefan-kuntz-beim-hamburger-sv-wie-sexistisch-ist-der-deutsche-fussball-a-108aed41-396c-454b-8e12-6c7d08f4e2d4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/stefan-kuntz-spricht-nach-trennung-vom-hamburger-sv-ueber-belaestigungsvorwuerfe](https://www.spiegel.de/sport/fussball/stefan-kuntz-spricht-nach-trennung-vom-hamburger-sv-ueber-belaestigungsvorwuerfe-a-54d10825-5ce7-4a0b-a8a1-0b073a2ea789#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/sport/fussball/fall-stefan-kuntz-beim-hamburger-sv-wie-sexistisch-ist-der-deutsche-fussball](https://www.spiegel.de/sport/fussball/fall-stefan-kuntz-beim-hamburger-sv-wie-sexistisch-ist-der-deutsche-fussball-a-108aed41-396c-454b-8e12-6c7d08f4e2d4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/stefan-kuntz-spricht-nach-trennung-vom-hamburger-sv-ueber-belaestigungsvorwuerfe](https://www.spiegel.de/sport/fussball/stefan-kuntz-spricht-nach-trennung-vom-hamburger-sv-ueber-belaestigungsvorwuerfe-a-54d10825-5ce7-4a0b-a8a1-0b073a2ea789#ref=rss)
-### sv
-
-* [https://www.spiegel.de/sport/fussball/fall-stefan-kuntz-beim-hamburger-sv-wie-sexistisch-ist-der-deutsche-fussball](https://www.spiegel.de/sport/fussball/fall-stefan-kuntz-beim-hamburger-sv-wie-sexistisch-ist-der-deutsche-fussball-a-108aed41-396c-454b-8e12-6c7d08f4e2d4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/stefan-kuntz-spricht-nach-trennung-vom-hamburger-sv-ueber-belaestigungsvorwuerfe](https://www.spiegel.de/sport/fussball/stefan-kuntz-spricht-nach-trennung-vom-hamburger-sv-ueber-belaestigungsvorwuerfe-a-54d10825-5ce7-4a0b-a8a1-0b073a2ea789#ref=rss)
-### problem
-
-* [https://www.spiegel.de/wissenschaft/technik/smartwatches-koennen-helfen-herzrhythmusstoerungen-zu-erkennen](https://www.spiegel.de/wissenschaft/technik/smartwatches-koennen-helfen-herzrhythmusstoerungen-zu-erkennen-a-c8060dfb-7b1f-4e95-98b6-0e1d50b88afd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-diese-kraefte-wollen-die-union-zur-anti-klima-partei-machen](https://www.spiegel.de/politik/deutschland/cdu-diese-kraefte-wollen-die-union-zur-anti-klima-partei-machen-a-3d9aebb9-7f9d-4117-9e04-84eb5548506f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bafoeg-portal-seit-wochen-nicht-erreichbar-fax-statt-fortschritt](https://www.spiegel.de/politik/deutschland/bafoeg-portal-seit-wochen-nicht-erreichbar-fax-statt-fortschritt-a-a3c77a7e-d80b-4a23-b24a-804a44b35603#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/musik/pva-avaion-the-damned-jana-horn-album-der-woche](https://www.spiegel.de/kultur/musik/pva-avaion-the-damned-jana-horn-album-der-woche-a-d05c170f-cf7d-4ed7-8ea8-83e2f36bfcb6#ref=rss)
-### schule
-
-* [https://www.spiegel.de/panorama/schule-in-waltrop-unbekannte-verspruehen-reizgas](https://www.spiegel.de/panorama/schule-in-waltrop-unbekannte-verspruehen-reizgas-a-a30e342c-5023-41ad-bf31-2ac440ed3c2e#ref=rss)
-### unbekannte
-
-* [https://www.spiegel.de/panorama/schule-in-waltrop-unbekannte-verspruehen-reizgas](https://www.spiegel.de/panorama/schule-in-waltrop-unbekannte-verspruehen-reizgas-a-a30e342c-5023-41ad-bf31-2ac440ed3c2e#ref=rss)
-### reizgas
-
-* [https://www.spiegel.de/panorama/schule-in-waltrop-unbekannte-verspruehen-reizgas](https://www.spiegel.de/panorama/schule-in-waltrop-unbekannte-verspruehen-reizgas-a-a30e342c-5023-41ad-bf31-2ac440ed3c2e#ref=rss)
-### barbetreiber
-
-* [https://www.spiegel.de/panorama/crans-montana-le-constellation-barbetreiber-jacques-moretti-kommt-unter-auflagen-aus-untersuchungshaft-frei](https://www.spiegel.de/panorama/crans-montana-le-constellation-barbetreiber-jacques-moretti-kommt-unter-auflagen-aus-untersuchungshaft-frei-a-d925718c-ea5a-4499-bcac-43cd47154c12#ref=rss)
-* [https://www.spiegel.de/ausland/crans-montana-immer-neue-details-lenken-von-der-verantwortung-der-behoerden-ab](https://www.spiegel.de/ausland/crans-montana-immer-neue-details-lenken-von-der-verantwortung-der-behoerden-ab-a-3b04f288-9fba-4a61-ac79-483bd56f188c#ref=rss)
-### jacques
-
-* [https://www.spiegel.de/panorama/crans-montana-le-constellation-barbetreiber-jacques-moretti-kommt-unter-auflagen-aus-untersuchungshaft-frei](https://www.spiegel.de/panorama/crans-montana-le-constellation-barbetreiber-jacques-moretti-kommt-unter-auflagen-aus-untersuchungshaft-frei-a-d925718c-ea5a-4499-bcac-43cd47154c12#ref=rss)
-### moretti
-
-* [https://www.spiegel.de/panorama/crans-montana-le-constellation-barbetreiber-jacques-moretti-kommt-unter-auflagen-aus-untersuchungshaft-frei](https://www.spiegel.de/panorama/crans-montana-le-constellation-barbetreiber-jacques-moretti-kommt-unter-auflagen-aus-untersuchungshaft-frei-a-d925718c-ea5a-4499-bcac-43cd47154c12#ref=rss)
+* [https://www.spiegel.de/ausland/paris-hilton-realitystar-setzt-sich-fuer-opfer-von-deepfake-pornografie-ein](https://www.spiegel.de/ausland/paris-hilton-realitystar-setzt-sich-fuer-opfer-von-deepfake-pornografie-ein-a-f39f5e10-30df-418c-b44d-3b1836eeefab#ref=rss)
+* [https://www.spiegel.de/ausland/weite-teile-der-usa-wappnen-sich-fuer-historischen-wintersturm](https://www.spiegel.de/ausland/weite-teile-der-usa-wappnen-sich-fuer-historischen-wintersturm-a-1353c524-c5e0-4b9b-a5fb-9f00921da3bf#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pentagon-will-sich-bei-der-abschreckung-nordkoreas-zurueckziehen](https://www.spiegel.de/ausland/usa-pentagon-will-sich-bei-der-abschreckung-nordkoreas-zurueckziehen-a-f4e8b4e9-569b-4739-a3d0-1aa7d9f64e9f#ref=rss)
+* [https://www.spiegel.de/ausland/die-neue-rechte-in-den-usa-wer-donald-trumps-regierungsagenda-setzt](https://www.spiegel.de/ausland/die-neue-rechte-in-den-usa-wer-donald-trumps-regierungsagenda-setzt-a-356b644f-f96a-4c1d-a605-a62385ca30a5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet](https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet-a-d1b1f693-9568-454d-9c87-f0b8171d37e0#ref=rss)
+* [https://www.spiegel.de/ausland/iran-vs-usa-teheran-droht-mit-krieg-mit-allen-mitteln-bei-us-angriff](https://www.spiegel.de/ausland/iran-vs-usa-teheran-droht-mit-krieg-mit-allen-mitteln-bei-us-angriff-a-2db6b718-cdce-4a3f-9d45-e8db7bfeb41f#ref=rss)
+* [https://www.spiegel.de/ausland/politische-krise-in-haiti-spitzt-sich-zu](https://www.spiegel.de/ausland/politische-krise-in-haiti-spitzt-sich-zu-a-efd98590-35b8-45e3-8a43-aaae9b89292d#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/panorama/crans-montana-le-constellation-barbetreiber-jacques-moretti-kommt-unter-auflagen-aus-untersuchungshaft-frei](https://www.spiegel.de/panorama/crans-montana-le-constellation-barbetreiber-jacques-moretti-kommt-unter-auflagen-aus-untersuchungshaft-frei-a-d925718c-ea5a-4499-bcac-43cd47154c12#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not](https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not-a-a08adf85-9dab-4f7f-a2a0-4ed694c5ffc7#ref=rss)
-### untersuchungshaft
+* [https://www.spiegel.de/panorama/berlin-17-jaehriger-stirbt-an-stromschlag-in-u-bahnhof-deutsche-oper](https://www.spiegel.de/panorama/berlin-17-jaehriger-stirbt-an-stromschlag-in-u-bahnhof-deutsche-oper-a-c68043c6-5e07-4b26-a4b7-958780f8e98c#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/vw-id-polo-alltagstaugliches-elektroauto-unter-25-000-euro](https://www.spiegel.de/auto/fahrberichte/vw-id-polo-alltagstaugliches-elektroauto-unter-25-000-euro-a-09303482-d151-4bfc-89f6-839351fa6e31#ref=rss)
+* [https://www.spiegel.de/sport/australian-open-2026-spiele-wegen-extremer-hitze-unterbrochen-heat-rule-greift](https://www.spiegel.de/sport/australian-open-2026-spiele-wegen-extremer-hitze-unterbrochen-heat-rule-greift-a-94487558-8848-4f57-93fc-22912ae03ca2#ref=rss)
+* [https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde](https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde-a-9219772e-17eb-4b46-a8ee-444864aca708#ref=rss)
+### tag
 
-* [https://www.spiegel.de/panorama/crans-montana-le-constellation-barbetreiber-jacques-moretti-kommt-unter-auflagen-aus-untersuchungshaft-frei](https://www.spiegel.de/panorama/crans-montana-le-constellation-barbetreiber-jacques-moretti-kommt-unter-auflagen-aus-untersuchungshaft-frei-a-d925718c-ea5a-4499-bcac-43cd47154c12#ref=rss)
-### behörden
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde](https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde-a-9219772e-17eb-4b46-a8ee-444864aca708#ref=rss)
+### ice
 
-* [https://www.spiegel.de/panorama/crans-montana-le-constellation-barbetreiber-jacques-moretti-kommt-unter-auflagen-aus-untersuchungshaft-frei](https://www.spiegel.de/panorama/crans-montana-le-constellation-barbetreiber-jacques-moretti-kommt-unter-auflagen-aus-untersuchungshaft-frei-a-d925718c-ea5a-4499-bcac-43cd47154c12#ref=rss)
-* [https://www.spiegel.de/ausland/crans-montana-immer-neue-details-lenken-von-der-verantwortung-der-behoerden-ab](https://www.spiegel.de/ausland/crans-montana-immer-neue-details-lenken-von-der-verantwortung-der-behoerden-ab-a-3b04f288-9fba-4a61-ac79-483bd56f188c#ref=rss)
-### trumps
+* [https://www.spiegel.de/ausland/minneapolis-widerstand-gegen-ice-aus-angst-und-solidaritaet](https://www.spiegel.de/ausland/minneapolis-widerstand-gegen-ice-aus-angst-und-solidaritaet-a-f73904c0-f252-41bc-9ebc-5572744a997a#ref=rss)
+* [https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde](https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde-a-9219772e-17eb-4b46-a8ee-444864aca708#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-geschichtspolitik-als-mittel-territorialer-ansprueche](https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-geschichtspolitik-als-mittel-territorialer-ansprueche-a-14421198-2c5b-4233-a6c8-e58dd7ed916b#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-nach-donald-trumps-davos-rede-ich-weiss-leider-auch-nicht-was-in-dem-deal-ueber-mein-land-stehen-soll](https://www.spiegel.de/ausland/groenland-nach-donald-trumps-davos-rede-ich-weiss-leider-auch-nicht-was-in-dem-deal-ueber-mein-land-stehen-soll-a-d832bedf-bcff-467f-ae84-bd0406af9677#ref=rss)
-### mittel
+* [https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glaette-in-mehreren-teilen-deutschlands](https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glaette-in-mehreren-teilen-deutschlands-a-419e4896-4a8c-4580-9f9a-d640da7b0bd9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an-a-876729c8-97e0-4bd1-8321-81d792677e0c#ref=rss)
+* [https://www.spiegel.de/ausland/iran-vs-usa-teheran-droht-mit-krieg-mit-allen-mitteln-bei-us-angriff](https://www.spiegel.de/ausland/iran-vs-usa-teheran-droht-mit-krieg-mit-allen-mitteln-bei-us-angriff-a-2db6b718-cdce-4a3f-9d45-e8db7bfeb41f#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-geschichtspolitik-als-mittel-territorialer-ansprueche](https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-geschichtspolitik-als-mittel-territorialer-ansprueche-a-14421198-2c5b-4233-a6c8-e58dd7ed916b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/sondervermoegen-bund-mobilisiert-milliarden-aber-sie-fliessen-nur-langsam-ab](https://www.spiegel.de/wirtschaft/soziales/sondervermoegen-bund-mobilisiert-milliarden-aber-sie-fliessen-nur-langsam-ab-a-9b82bfdb-79b8-4ae4-8be9-1f0c14506f48#ref=rss)
-### ansprüche
-
-* [https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-geschichtspolitik-als-mittel-territorialer-ansprueche](https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-geschichtspolitik-als-mittel-territorialer-ansprueche-a-14421198-2c5b-4233-a6c8-e58dd7ed916b#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-geschichtspolitik-als-mittel-territorialer-ansprueche](https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-geschichtspolitik-als-mittel-territorialer-ansprueche-a-14421198-2c5b-4233-a6c8-e58dd7ed916b#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-verhandlungen-was-passiert-wenn-europa-seine-meinung-sagt](https://www.spiegel.de/ausland/groenland-verhandlungen-was-passiert-wenn-europa-seine-meinung-sagt-a-e502dabd-56f8-4c7d-a330-7fb1e0c856ac#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-geschichtspolitik-als-mittel-territorialer-ansprueche](https://www.spiegel.de/ausland/donald-trumps-imperiale-ambitionen-geschichtspolitik-als-mittel-territorialer-ansprueche-a-14421198-2c5b-4233-a6c8-e58dd7ed916b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/landgericht-frankfurt-lange-haft-fuer-selbst-ernannte-pedo-hunter](https://www.spiegel.de/panorama/justiz/landgericht-frankfurt-lange-haft-fuer-selbst-ernannte-pedo-hunter-a-fa23c65a-d10c-4dd5-bca3-45f1a170468b#ref=rss)
-### grönlandverhandlungen
-
-* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-groenland-einigung-mcallister-spricht-von-schwerster-krise-innerhalb-der-nato](https://www.spiegel.de/politik/deutschland/reaktionen-auf-groenland-einigung-mcallister-spricht-von-schwerster-krise-innerhalb-der-nato-a-e1ebe300-2e76-4a0d-8755-b5030d442519#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-verhandlungen-was-passiert-wenn-europa-seine-meinung-sagt](https://www.spiegel.de/ausland/groenland-verhandlungen-was-passiert-wenn-europa-seine-meinung-sagt-a-e502dabd-56f8-4c7d-a330-7fb1e0c856ac#ref=rss)
-### mcallister
-
-* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-groenland-einigung-mcallister-spricht-von-schwerster-krise-innerhalb-der-nato](https://www.spiegel.de/politik/deutschland/reaktionen-auf-groenland-einigung-mcallister-spricht-von-schwerster-krise-innerhalb-der-nato-a-e1ebe300-2e76-4a0d-8755-b5030d442519#ref=rss)
-### fall
-
-* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-groenland-einigung-mcallister-spricht-von-schwerster-krise-innerhalb-der-nato](https://www.spiegel.de/politik/deutschland/reaktionen-auf-groenland-einigung-mcallister-spricht-von-schwerster-krise-innerhalb-der-nato-a-e1ebe300-2e76-4a0d-8755-b5030d442519#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fall-stefan-kuntz-beim-hamburger-sv-wie-sexistisch-ist-der-deutsche-fussball](https://www.spiegel.de/sport/fussball/fall-stefan-kuntz-beim-hamburger-sv-wie-sexistisch-ist-der-deutsche-fussball-a-108aed41-396c-454b-8e12-6c7d08f4e2d4#ref=rss)
-### meinung
-
-* [https://www.spiegel.de/politik/deutschland/reaktionen-auf-groenland-einigung-mcallister-spricht-von-schwerster-krise-innerhalb-der-nato](https://www.spiegel.de/politik/deutschland/reaktionen-auf-groenland-einigung-mcallister-spricht-von-schwerster-krise-innerhalb-der-nato-a-e1ebe300-2e76-4a0d-8755-b5030d442519#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-verhandlungen-was-passiert-wenn-europa-seine-meinung-sagt](https://www.spiegel.de/ausland/groenland-verhandlungen-was-passiert-wenn-europa-seine-meinung-sagt-a-e502dabd-56f8-4c7d-a330-7fb1e0c856ac#ref=rss)
-### sojaöl
-
-* [https://www.spiegel.de/auto/diesel-eu-will-sojaoel-von-tankstellen-verbannen](https://www.spiegel.de/auto/diesel-eu-will-sojaoel-von-tankstellen-verbannen-a-e3ead3c5-506e-4ccc-907a-5801138b7cc9#ref=rss)
-### entwarnung
-
-* [https://www.spiegel.de/ausland/groenland-verhandlungen-was-passiert-wenn-europa-seine-meinung-sagt](https://www.spiegel.de/ausland/groenland-verhandlungen-was-passiert-wenn-europa-seine-meinung-sagt-a-e502dabd-56f8-4c7d-a330-7fb1e0c856ac#ref=rss)
-### deal
-
-* [https://www.spiegel.de/ausland/groenland-nach-donald-trumps-davos-rede-ich-weiss-leider-auch-nicht-was-in-dem-deal-ueber-mein-land-stehen-soll](https://www.spiegel.de/ausland/groenland-nach-donald-trumps-davos-rede-ich-weiss-leider-auch-nicht-was-in-dem-deal-ueber-mein-land-stehen-soll-a-d832bedf-bcff-467f-ae84-bd0406af9677#ref=rss)
-### niedersachsen
-
-* [https://www.spiegel.de/panorama/justiz/borkum-niedersachsen-lastwagen-und-polizeiauto-rutschen-strandpromenade-herunter](https://www.spiegel.de/panorama/justiz/borkum-niedersachsen-lastwagen-und-polizeiauto-rutschen-strandpromenade-herunter-a-b4b4f593-9879-4864-b899-d33d69269d12#ref=rss)
-### straßen
-
-* [https://www.spiegel.de/panorama/justiz/borkum-niedersachsen-lastwagen-und-polizeiauto-rutschen-strandpromenade-herunter](https://www.spiegel.de/panorama/justiz/borkum-niedersachsen-lastwagen-und-polizeiauto-rutschen-strandpromenade-herunter-a-b4b4f593-9879-4864-b899-d33d69269d12#ref=rss)
-### davon
-
-* [https://www.spiegel.de/panorama/justiz/borkum-niedersachsen-lastwagen-und-polizeiauto-rutschen-strandpromenade-herunter](https://www.spiegel.de/panorama/justiz/borkum-niedersachsen-lastwagen-und-polizeiauto-rutschen-strandpromenade-herunter-a-b4b4f593-9879-4864-b899-d33d69269d12#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not](https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not-a-a08adf85-9dab-4f7f-a2a0-4ed694c5ffc7#ref=rss)
-### tiktok
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sparkassen-coup-in-gelsenkirchen-dschungelcamp](https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sparkassen-coup-in-gelsenkirchen-dschungelcamp-a-2aefc0bf-ef67-476e-9eef-935e1a872ed4#ref=rss)
-### dschungelcamp
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sparkassen-coup-in-gelsenkirchen-dschungelcamp](https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sparkassen-coup-in-gelsenkirchen-dschungelcamp-a-2aefc0bf-ef67-476e-9eef-935e1a872ed4#ref=rss)
+* [https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glaette-in-mehreren-teilen-deutschlands](https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glaette-in-mehreren-teilen-deutschlands-a-419e4896-4a8c-4580-9f9a-d640da7b0bd9#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-17-jaehriger-stirbt-an-stromschlag-in-u-bahnhof-deutsche-oper](https://www.spiegel.de/panorama/berlin-17-jaehriger-stirbt-an-stromschlag-in-u-bahnhof-deutsche-oper-a-c68043c6-5e07-4b26-a4b7-958780f8e98c#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/wirtschaft/service/berlin-um-verstaendlich-zu-werden-setzt-die-verwaltung-jetzt-auf-ki](https://www.spiegel.de/wirtschaft/service/berlin-um-verstaendlich-zu-werden-setzt-die-verwaltung-jetzt-auf-ki-a-47a4d398-9d26-45b5-93ab-3176c0176ffd#ref=rss)
-### wohl
+* [https://www.spiegel.de/panorama/berlin-17-jaehriger-stirbt-an-stromschlag-in-u-bahnhof-deutsche-oper](https://www.spiegel.de/panorama/berlin-17-jaehriger-stirbt-an-stromschlag-in-u-bahnhof-deutsche-oper-a-c68043c6-5e07-4b26-a4b7-958780f8e98c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-fahnder-nehmen-mutmasslichen-waffenschmuggler-der-hamas-fest](https://www.spiegel.de/politik/deutschland/berlin-fahnder-nehmen-mutmasslichen-waffenschmuggler-der-hamas-fest-a-40b6e314-742c-4b75-8373-6e4f38b2cfe0#ref=rss)
+### euro
 
-* [https://www.spiegel.de/wirtschaft/service/berlin-um-verstaendlich-zu-werden-setzt-die-verwaltung-jetzt-auf-ki](https://www.spiegel.de/wirtschaft/service/berlin-um-verstaendlich-zu-werden-setzt-die-verwaltung-jetzt-auf-ki-a-47a4d398-9d26-45b5-93ab-3176c0176ffd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/jd-vance-spott-fuer-titanic-vergleich-in-rede-ueber-lebenshaltungskosten](https://www.spiegel.de/wirtschaft/jd-vance-spott-fuer-titanic-vergleich-in-rede-ueber-lebenshaltungskosten-a-cab2e23f-ce7c-442b-8454-235d085a5b40#ref=rss)
-### ryan
+* [https://www.spiegel.de/wirtschaft/basf-streicht-hunderte-millionen-euro-steuergeld-ein](https://www.spiegel.de/wirtschaft/basf-streicht-hunderte-millionen-euro-steuergeld-ein-a-e6ced2f2-8536-4fd4-ba8d-7eb24071f520#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/vw-id-polo-alltagstaugliches-elektroauto-unter-25-000-euro](https://www.spiegel.de/auto/fahrberichte/vw-id-polo-alltagstaugliches-elektroauto-unter-25-000-euro-a-09303482-d151-4bfc-89f6-839351fa6e31#ref=rss)
+### wintersturm
 
-* [https://www.spiegel.de/sport/ryan-weding-ex-olympia-snowboarder-und-heutiger-drogenboss-gefasst](https://www.spiegel.de/sport/ryan-weding-ex-olympia-snowboarder-und-heutiger-drogenboss-gefasst-a-449ffa59-6ca7-45e0-aea4-560932bfbbdb#ref=rss)
-### wedding
+* [https://www.spiegel.de/ausland/weite-teile-der-usa-wappnen-sich-fuer-historischen-wintersturm](https://www.spiegel.de/ausland/weite-teile-der-usa-wappnen-sich-fuer-historischen-wintersturm-a-1353c524-c5e0-4b9b-a5fb-9f00921da3bf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet](https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet-a-d1b1f693-9568-454d-9c87-f0b8171d37e0#ref=rss)
+### greift
 
-* [https://www.spiegel.de/sport/ryan-weding-ex-olympia-snowboarder-und-heutiger-drogenboss-gefasst](https://www.spiegel.de/sport/ryan-weding-ex-olympia-snowboarder-und-heutiger-drogenboss-gefasst-a-449ffa59-6ca7-45e0-aea4-560932bfbbdb#ref=rss)
-### diebstahl
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an-a-876729c8-97e0-4bd1-8321-81d792677e0c#ref=rss)
+* [https://www.spiegel.de/sport/australian-open-2026-spiele-wegen-extremer-hitze-unterbrochen-heat-rule-greift](https://www.spiegel.de/sport/australian-open-2026-spiele-wegen-extremer-hitze-unterbrochen-heat-rule-greift-a-94487558-8848-4f57-93fc-22912ae03ca2#ref=rss)
+### abu
 
-* [https://www.spiegel.de/panorama/justiz/diebstahl-in-berlin-reinickendorf-falscher-polizist-ist-echter-beamter](https://www.spiegel.de/panorama/justiz/diebstahl-in-berlin-reinickendorf-falscher-polizist-ist-echter-beamter-a-ba31accd-4969-401b-8846-8a516a6f047e#ref=rss)
-### falscher
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an-a-876729c8-97e0-4bd1-8321-81d792677e0c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet](https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet-a-d1b1f693-9568-454d-9c87-f0b8171d37e0#ref=rss)
+### dhabi
 
-* [https://www.spiegel.de/panorama/justiz/diebstahl-in-berlin-reinickendorf-falscher-polizist-ist-echter-beamter](https://www.spiegel.de/panorama/justiz/diebstahl-in-berlin-reinickendorf-falscher-polizist-ist-echter-beamter-a-ba31accd-4969-401b-8846-8a516a6f047e#ref=rss)
-### polizist
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an-a-876729c8-97e0-4bd1-8321-81d792677e0c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet](https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet-a-d1b1f693-9568-454d-9c87-f0b8171d37e0#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/panorama/justiz/diebstahl-in-berlin-reinickendorf-falscher-polizist-ist-echter-beamter](https://www.spiegel.de/panorama/justiz/diebstahl-in-berlin-reinickendorf-falscher-polizist-ist-echter-beamter-a-ba31accd-4969-401b-8846-8a516a6f047e#ref=rss)
-### echter
+* [https://www.spiegel.de/psychologie/psychologie-wie-wir-enttaeuschungen-besser-verarbeiten-podcast-mit-silke-brand](https://www.spiegel.de/psychologie/psychologie-wie-wir-enttaeuschungen-besser-verarbeiten-podcast-mit-silke-brand-a-705b73b1-bc9c-4765-97c8-028a7ba9d649#ref=rss)
+* [https://www.spiegel.de/ausland/kaulitz-brueder-bringen-wetten-dass-zurueck-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/kaulitz-brueder-bringen-wetten-dass-zurueck-alles-gute-vom-spiegel-a-a6ab7772-dda7-49aa-b583-72ae1f7df8d5#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/justiz/diebstahl-in-berlin-reinickendorf-falscher-polizist-ist-echter-beamter](https://www.spiegel.de/panorama/justiz/diebstahl-in-berlin-reinickendorf-falscher-polizist-ist-echter-beamter-a-ba31accd-4969-401b-8846-8a516a6f047e#ref=rss)
-### beamter
+* [https://www.spiegel.de/psychologie/psychologie-wie-wir-enttaeuschungen-besser-verarbeiten-podcast-mit-silke-brand](https://www.spiegel.de/psychologie/psychologie-wie-wir-enttaeuschungen-besser-verarbeiten-podcast-mit-silke-brand-a-705b73b1-bc9c-4765-97c8-028a7ba9d649#ref=rss)
+* [https://www.spiegel.de/ausland/pazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/pazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot-a-bd68cdf1-20e0-4f0d-b63f-f381da03bd14#ref=rss)
+* [https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde](https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde-a-9219772e-17eb-4b46-a8ee-444864aca708#ref=rss)
+### usangriff
 
-* [https://www.spiegel.de/panorama/justiz/diebstahl-in-berlin-reinickendorf-falscher-polizist-ist-echter-beamter](https://www.spiegel.de/panorama/justiz/diebstahl-in-berlin-reinickendorf-falscher-polizist-ist-echter-beamter-a-ba31accd-4969-401b-8846-8a516a6f047e#ref=rss)
-### anderes
+* [https://www.spiegel.de/ausland/iran-vs-usa-teheran-droht-mit-krieg-mit-allen-mitteln-bei-us-angriff](https://www.spiegel.de/ausland/iran-vs-usa-teheran-droht-mit-krieg-mit-allen-mitteln-bei-us-angriff-a-2db6b718-cdce-4a3f-9d45-e8db7bfeb41f#ref=rss)
+* [https://www.spiegel.de/ausland/pazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/pazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot-a-bd68cdf1-20e0-4f0d-b63f-f381da03bd14#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/wirtschaft/jd-vance-spott-fuer-titanic-vergleich-in-rede-ueber-lebenshaltungskosten](https://www.spiegel.de/wirtschaft/jd-vance-spott-fuer-titanic-vergleich-in-rede-ueber-lebenshaltungskosten-a-cab2e23f-ce7c-442b-8454-235d085a5b40#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bafoeg-portal-seit-wochen-nicht-erreichbar-fax-statt-fortschritt](https://www.spiegel.de/politik/deutschland/bafoeg-portal-seit-wochen-nicht-erreichbar-fax-statt-fortschritt-a-a3c77a7e-d80b-4a23-b24a-804a44b35603#ref=rss)
-### gehen
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/ausland/kaulitz-brueder-bringen-wetten-dass-zurueck-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/kaulitz-brueder-bringen-wetten-dass-zurueck-alles-gute-vom-spiegel-a-a6ab7772-dda7-49aa-b583-72ae1f7df8d5#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/sport/fussball/fall-stefan-kuntz-beim-hamburger-sv-wie-sexistisch-ist-der-deutsche-fussball](https://www.spiegel.de/sport/fussball/fall-stefan-kuntz-beim-hamburger-sv-wie-sexistisch-ist-der-deutsche-fussball-a-108aed41-396c-454b-8e12-6c7d08f4e2d4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/stefan-kuntz-spricht-nach-trennung-vom-hamburger-sv-ueber-belaestigungsvorwuerfe](https://www.spiegel.de/sport/fussball/stefan-kuntz-spricht-nach-trennung-vom-hamburger-sv-ueber-belaestigungsvorwuerfe-a-54d10825-5ce7-4a0b-a8a1-0b073a2ea789#ref=rss)
-### männer
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### minneapolis
 
-* [https://www.spiegel.de/sport/fussball/fall-stefan-kuntz-beim-hamburger-sv-wie-sexistisch-ist-der-deutsche-fussball](https://www.spiegel.de/sport/fussball/fall-stefan-kuntz-beim-hamburger-sv-wie-sexistisch-ist-der-deutsche-fussball-a-108aed41-396c-454b-8e12-6c7d08f4e2d4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/landgericht-frankfurt-lange-haft-fuer-selbst-ernannte-pedo-hunter](https://www.spiegel.de/panorama/justiz/landgericht-frankfurt-lange-haft-fuer-selbst-ernannte-pedo-hunter-a-fa23c65a-d10c-4dd5-bca3-45f1a170468b#ref=rss)
-### smartwatches
+* [https://www.spiegel.de/ausland/minneapolis-widerstand-gegen-ice-aus-angst-und-solidaritaet](https://www.spiegel.de/ausland/minneapolis-widerstand-gegen-ice-aus-angst-und-solidaritaet-a-f73904c0-f252-41bc-9ebc-5572744a997a#ref=rss)
+### angst
 
-* [https://www.spiegel.de/wissenschaft/technik/smartwatches-koennen-helfen-herzrhythmusstoerungen-zu-erkennen](https://www.spiegel.de/wissenschaft/technik/smartwatches-koennen-helfen-herzrhythmusstoerungen-zu-erkennen-a-c8060dfb-7b1f-4e95-98b6-0e1d50b88afd#ref=rss)
-### pva
+* [https://www.spiegel.de/ausland/minneapolis-widerstand-gegen-ice-aus-angst-und-solidaritaet](https://www.spiegel.de/ausland/minneapolis-widerstand-gegen-ice-aus-angst-und-solidaritaet-a-f73904c0-f252-41bc-9ebc-5572744a997a#ref=rss)
+### vorgehen
 
-* [https://www.spiegel.de/kultur/musik/pva-avaion-the-damned-jana-horn-album-der-woche](https://www.spiegel.de/kultur/musik/pva-avaion-the-damned-jana-horn-album-der-woche-a-d05c170f-cf7d-4ed7-8ea8-83e2f36bfcb6#ref=rss)
-### avaion
+* [https://www.spiegel.de/ausland/minneapolis-widerstand-gegen-ice-aus-angst-und-solidaritaet](https://www.spiegel.de/ausland/minneapolis-widerstand-gegen-ice-aus-angst-und-solidaritaet-a-f73904c0-f252-41bc-9ebc-5572744a997a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesinnenminister-alexander-dobrindt-kuendigt-gegenschlaege-bei-cyberangriffen-an](https://www.spiegel.de/politik/deutschland/bundesinnenminister-alexander-dobrindt-kuendigt-gegenschlaege-bei-cyberangriffen-an-a-caa99439-5982-44b9-bd09-43e22661b48e#ref=rss)
+### tausende
 
-* [https://www.spiegel.de/kultur/musik/pva-avaion-the-damned-jana-horn-album-der-woche](https://www.spiegel.de/kultur/musik/pva-avaion-the-damned-jana-horn-album-der-woche-a-d05c170f-cf7d-4ed7-8ea8-83e2f36bfcb6#ref=rss)
-### damned
+* [https://www.spiegel.de/ausland/minneapolis-widerstand-gegen-ice-aus-angst-und-solidaritaet](https://www.spiegel.de/ausland/minneapolis-widerstand-gegen-ice-aus-angst-und-solidaritaet-a-f73904c0-f252-41bc-9ebc-5572744a997a#ref=rss)
+* [https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde](https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde-a-9219772e-17eb-4b46-a8ee-444864aca708#ref=rss)
+### axel
 
-* [https://www.spiegel.de/kultur/musik/pva-avaion-the-damned-jana-horn-album-der-woche](https://www.spiegel.de/kultur/musik/pva-avaion-the-damned-jana-horn-album-der-woche-a-d05c170f-cf7d-4ed7-8ea8-83e2f36bfcb6#ref=rss)
-### cdu
+* [https://www.spiegel.de/wirtschaft/rente-experte-axel-boersch-supan-ueber-die-wirtschaftliche-lage-und-reformbedarf](https://www.spiegel.de/wirtschaft/rente-experte-axel-boersch-supan-ueber-die-wirtschaftliche-lage-und-reformbedarf-a-7dd706e7-0da9-4624-9fc3-2f02088ce1c5#ref=rss)
+### börschsupan
 
-* [https://www.spiegel.de/politik/deutschland/cdu-diese-kraefte-wollen-die-union-zur-anti-klima-partei-machen](https://www.spiegel.de/politik/deutschland/cdu-diese-kraefte-wollen-die-union-zur-anti-klima-partei-machen-a-3d9aebb9-7f9d-4117-9e04-84eb5548506f#ref=rss)
-### weit
+* [https://www.spiegel.de/wirtschaft/rente-experte-axel-boersch-supan-ueber-die-wirtschaftliche-lage-und-reformbedarf](https://www.spiegel.de/wirtschaft/rente-experte-axel-boersch-supan-ueber-die-wirtschaftliche-lage-und-reformbedarf-a-7dd706e7-0da9-4624-9fc3-2f02088ce1c5#ref=rss)
+### lage
 
-* [https://www.spiegel.de/politik/deutschland/cdu-diese-kraefte-wollen-die-union-zur-anti-klima-partei-machen](https://www.spiegel.de/politik/deutschland/cdu-diese-kraefte-wollen-die-union-zur-anti-klima-partei-machen-a-3d9aebb9-7f9d-4117-9e04-84eb5548506f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not](https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not-a-a08adf85-9dab-4f7f-a2a0-4ed694c5ffc7#ref=rss)
-### wichtigsten
+* [https://www.spiegel.de/wirtschaft/rente-experte-axel-boersch-supan-ueber-die-wirtschaftliche-lage-und-reformbedarf](https://www.spiegel.de/wirtschaft/rente-experte-axel-boersch-supan-ueber-die-wirtschaftliche-lage-und-reformbedarf-a-7dd706e7-0da9-4624-9fc3-2f02088ce1c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet](https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet-a-d1b1f693-9568-454d-9c87-f0b8171d37e0#ref=rss)
+### rolle
 
-* [https://www.spiegel.de/politik/deutschland/cdu-diese-kraefte-wollen-die-union-zur-anti-klima-partei-machen](https://www.spiegel.de/politik/deutschland/cdu-diese-kraefte-wollen-die-union-zur-anti-klima-partei-machen-a-3d9aebb9-7f9d-4117-9e04-84eb5548506f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/asyl-warum-alexander-dobrindt-sich-ploetzlich-fuer-afrika-interessiert](https://www.spiegel.de/politik/deutschland/asyl-warum-alexander-dobrindt-sich-ploetzlich-fuer-afrika-interessiert-a-4bb066cd-1d07-418e-855b-568d63b2c2fa#ref=rss)
-### dobrindt
+* [https://www.spiegel.de/wirtschaft/rente-experte-axel-boersch-supan-ueber-die-wirtschaftliche-lage-und-reformbedarf](https://www.spiegel.de/wirtschaft/rente-experte-axel-boersch-supan-ueber-die-wirtschaftliche-lage-und-reformbedarf-a-7dd706e7-0da9-4624-9fc3-2f02088ce1c5#ref=rss)
+* [https://www.spiegel.de/ausland/usa-pentagon-will-sich-bei-der-abschreckung-nordkoreas-zurueckziehen](https://www.spiegel.de/ausland/usa-pentagon-will-sich-bei-der-abschreckung-nordkoreas-zurueckziehen-a-f4e8b4e9-569b-4739-a3d0-1aa7d9f64e9f#ref=rss)
+### wetterdienst
 
-* [https://www.spiegel.de/politik/deutschland/asyl-warum-alexander-dobrindt-sich-ploetzlich-fuer-afrika-interessiert](https://www.spiegel.de/politik/deutschland/asyl-warum-alexander-dobrindt-sich-ploetzlich-fuer-afrika-interessiert-a-4bb066cd-1d07-418e-855b-568d63b2c2fa#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glaette-in-mehreren-teilen-deutschlands](https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glaette-in-mehreren-teilen-deutschlands-a-419e4896-4a8c-4580-9f9a-d640da7b0bd9#ref=rss)
+### kündigt
 
-* [https://www.spiegel.de/panorama/justiz/hemmingen-bei-hannover-nachbarin-getoetet-mann-zu-lebenslanger-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/hemmingen-bei-hannover-nachbarin-getoetet-mann-zu-lebenslanger-haftstrafe-verurteilt-a-56cda606-9d04-4195-8b73-a89112f1464f#ref=rss)
+* [https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glaette-in-mehreren-teilen-deutschlands](https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glaette-in-mehreren-teilen-deutschlands-a-419e4896-4a8c-4580-9f9a-d640da7b0bd9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesinnenminister-alexander-dobrindt-kuendigt-gegenschlaege-bei-cyberangriffen-an](https://www.spiegel.de/politik/deutschland/bundesinnenminister-alexander-dobrindt-kuendigt-gegenschlaege-bei-cyberangriffen-an-a-caa99439-5982-44b9-bd09-43e22661b48e#ref=rss)
+### regen
+
+* [https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glaette-in-mehreren-teilen-deutschlands](https://www.spiegel.de/panorama/deutscher-wetterdienst-warnt-vor-glaette-in-mehreren-teilen-deutschlands-a-419e4896-4a8c-4580-9f9a-d640da7b0bd9#ref=rss)
+* [https://www.spiegel.de/sport/taipeh-101-alex-honnold-verschiebt-kletteraktion-wegen-regen](https://www.spiegel.de/sport/taipeh-101-alex-honnold-verschiebt-kletteraktion-wegen-regen-a-998e03ed-b29e-4d7b-b972-f4d6e5f76863#ref=rss)
+### stromschlag
+
+* [https://www.spiegel.de/panorama/berlin-17-jaehriger-stirbt-an-stromschlag-in-u-bahnhof-deutsche-oper](https://www.spiegel.de/panorama/berlin-17-jaehriger-stirbt-an-stromschlag-in-u-bahnhof-deutsche-oper-a-c68043c6-5e07-4b26-a4b7-958780f8e98c#ref=rss)
+### ubahnhof
+
+* [https://www.spiegel.de/panorama/berlin-17-jaehriger-stirbt-an-stromschlag-in-u-bahnhof-deutsche-oper](https://www.spiegel.de/panorama/berlin-17-jaehriger-stirbt-an-stromschlag-in-u-bahnhof-deutsche-oper-a-c68043c6-5e07-4b26-a4b7-958780f8e98c#ref=rss)
+### oper
+
+* [https://www.spiegel.de/panorama/berlin-17-jaehriger-stirbt-an-stromschlag-in-u-bahnhof-deutsche-oper](https://www.spiegel.de/panorama/berlin-17-jaehriger-stirbt-an-stromschlag-in-u-bahnhof-deutsche-oper-a-c68043c6-5e07-4b26-a4b7-958780f8e98c#ref=rss)
+### unterwegs
+
+* [https://www.spiegel.de/panorama/berlin-17-jaehriger-stirbt-an-stromschlag-in-u-bahnhof-deutsche-oper](https://www.spiegel.de/panorama/berlin-17-jaehriger-stirbt-an-stromschlag-in-u-bahnhof-deutsche-oper-a-c68043c6-5e07-4b26-a4b7-958780f8e98c#ref=rss)
+* [https://www.spiegel.de/panorama/verwahrlost-abgehaengt-kaputt-unterwegs-in-jaywick-dem-aermsten-dorf-englands](https://www.spiegel.de/panorama/verwahrlost-abgehaengt-kaputt-unterwegs-in-jaywick-dem-aermsten-dorf-englands-a-30d92e76-ae30-4a9e-93d9-047ed027f730#ref=rss)
+### fiel
+
+* [https://www.spiegel.de/panorama/berlin-17-jaehriger-stirbt-an-stromschlag-in-u-bahnhof-deutsche-oper](https://www.spiegel.de/panorama/berlin-17-jaehriger-stirbt-an-stromschlag-in-u-bahnhof-deutsche-oper-a-c68043c6-5e07-4b26-a4b7-958780f8e98c#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/cyprien-sarrazin-spricht-ueber-schweren-sturz-ich-hatte-einen-joker](https://www.spiegel.de/sport/wintersport/cyprien-sarrazin-spricht-ueber-schweren-sturz-ich-hatte-einen-joker-a-9136b4b4-2191-4ce5-8283-8a2bc2febe51#ref=rss)
+### zhang
+
+* [https://www.spiegel.de/ausland/zhang-youxia-china-ermittelt-gegen-top-general](https://www.spiegel.de/ausland/zhang-youxia-china-ermittelt-gegen-top-general-a-22b58101-85e5-4a7f-a61c-9bb2e1b245a8#ref=rss)
+### youxia
+
+* [https://www.spiegel.de/ausland/zhang-youxia-china-ermittelt-gegen-top-general](https://www.spiegel.de/ausland/zhang-youxia-china-ermittelt-gegen-top-general-a-22b58101-85e5-4a7f-a61c-9bb2e1b245a8#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/zhang-youxia-china-ermittelt-gegen-top-general](https://www.spiegel.de/ausland/zhang-youxia-china-ermittelt-gegen-top-general-a-22b58101-85e5-4a7f-a61c-9bb2e1b245a8#ref=rss)
+* [https://www.spiegel.de/ausland/us-verteidigungsstrategie-fokus-auf-china-weniger-unterstuetzung-fuer-europa](https://www.spiegel.de/ausland/us-verteidigungsstrategie-fokus-auf-china-weniger-unterstuetzung-fuer-europa-a-5eefc8b4-2877-4c64-a21a-0e323fa4c3d3#ref=rss)
+### paris
+
+* [https://www.spiegel.de/ausland/paris-hilton-realitystar-setzt-sich-fuer-opfer-von-deepfake-pornografie-ein](https://www.spiegel.de/ausland/paris-hilton-realitystar-setzt-sich-fuer-opfer-von-deepfake-pornografie-ein-a-f39f5e10-30df-418c-b44d-3b1836eeefab#ref=rss)
+### hilton
+
+* [https://www.spiegel.de/ausland/paris-hilton-realitystar-setzt-sich-fuer-opfer-von-deepfake-pornografie-ein](https://www.spiegel.de/ausland/paris-hilton-realitystar-setzt-sich-fuer-opfer-von-deepfake-pornografie-ein-a-f39f5e10-30df-418c-b44d-3b1836eeefab#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/ausland/paris-hilton-realitystar-setzt-sich-fuer-opfer-von-deepfake-pornografie-ein](https://www.spiegel.de/ausland/paris-hilton-realitystar-setzt-sich-fuer-opfer-von-deepfake-pornografie-ein-a-f39f5e10-30df-418c-b44d-3b1836eeefab#ref=rss)
+* [https://www.spiegel.de/ausland/die-neue-rechte-in-den-usa-wer-donald-trumps-regierungsagenda-setzt](https://www.spiegel.de/ausland/die-neue-rechte-in-den-usa-wer-donald-trumps-regierungsagenda-setzt-a-356b644f-f96a-4c1d-a605-a62385ca30a5#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/ausland/paris-hilton-realitystar-setzt-sich-fuer-opfer-von-deepfake-pornografie-ein](https://www.spiegel.de/ausland/paris-hilton-realitystar-setzt-sich-fuer-opfer-von-deepfake-pornografie-ein-a-f39f5e10-30df-418c-b44d-3b1836eeefab#ref=rss)
+### stärken
+
+* [https://www.spiegel.de/ausland/paris-hilton-realitystar-setzt-sich-fuer-opfer-von-deepfake-pornografie-ein](https://www.spiegel.de/ausland/paris-hilton-realitystar-setzt-sich-fuer-opfer-von-deepfake-pornografie-ein-a-f39f5e10-30df-418c-b44d-3b1836eeefab#ref=rss)
+* [https://www.spiegel.de/ausland/politische-krise-in-haiti-spitzt-sich-zu](https://www.spiegel.de/ausland/politische-krise-in-haiti-spitzt-sich-zu-a-efd98590-35b8-45e3-8a43-aaae9b89292d#ref=rss)
+### russland
+
+* [https://www.spiegel.de/wirtschaft/basf-streicht-hunderte-millionen-euro-steuergeld-ein](https://www.spiegel.de/wirtschaft/basf-streicht-hunderte-millionen-euro-steuergeld-ein-a-e6ced2f2-8536-4fd4-ba8d-7eb24071f520#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an-a-876729c8-97e0-4bd1-8321-81d792677e0c#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/wirtschaft/basf-streicht-hunderte-millionen-euro-steuergeld-ein](https://www.spiegel.de/wirtschaft/basf-streicht-hunderte-millionen-euro-steuergeld-ein-a-e6ced2f2-8536-4fd4-ba8d-7eb24071f520#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an-a-876729c8-97e0-4bd1-8321-81d792677e0c#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/panorama/justiz/hemmingen-bei-hannover-nachbarin-getoetet-mann-zu-lebenslanger-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/hemmingen-bei-hannover-nachbarin-getoetet-mann-zu-lebenslanger-haftstrafe-verurteilt-a-56cda606-9d04-4195-8b73-a89112f1464f#ref=rss)
-* [https://www.spiegel.de/kultur/musik/francis-buchholz-ist-tot-langjaehriger-scorpions-bassist-erliegt-krebs-erkrankung](https://www.spiegel.de/kultur/musik/francis-buchholz-ist-tot-langjaehriger-scorpions-bassist-erliegt-krebs-erkrankung-a-e9eda591-018c-45f1-9664-1d9699316ce0#ref=rss)
-### sieht
+* [https://www.spiegel.de/wirtschaft/basf-streicht-hunderte-millionen-euro-steuergeld-ein](https://www.spiegel.de/wirtschaft/basf-streicht-hunderte-millionen-euro-steuergeld-ein-a-e6ced2f2-8536-4fd4-ba8d-7eb24071f520#ref=rss)
+* [https://www.spiegel.de/auto/fahrberichte/vw-id-polo-alltagstaugliches-elektroauto-unter-25-000-euro](https://www.spiegel.de/auto/fahrberichte/vw-id-polo-alltagstaugliches-elektroauto-unter-25-000-euro-a-09303482-d151-4bfc-89f6-839351fa6e31#ref=rss)
+### fest
 
-* [https://www.spiegel.de/panorama/justiz/hemmingen-bei-hannover-nachbarin-getoetet-mann-zu-lebenslanger-haftstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/hemmingen-bei-hannover-nachbarin-getoetet-mann-zu-lebenslanger-haftstrafe-verurteilt-a-56cda606-9d04-4195-8b73-a89112f1464f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/stefan-kuntz-spricht-nach-trennung-vom-hamburger-sv-ueber-belaestigungsvorwuerfe](https://www.spiegel.de/sport/fussball/stefan-kuntz-spricht-nach-trennung-vom-hamburger-sv-ueber-belaestigungsvorwuerfe-a-54d10825-5ce7-4a0b-a8a1-0b073a2ea789#ref=rss)
-### wochen
+* [https://www.spiegel.de/politik/deutschland/berlin-fahnder-nehmen-mutmasslichen-waffenschmuggler-der-hamas-fest](https://www.spiegel.de/politik/deutschland/berlin-fahnder-nehmen-mutmasslichen-waffenschmuggler-der-hamas-fest-a-40b6e314-742c-4b75-8373-6e4f38b2cfe0#ref=rss)
+* [https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde](https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde-a-9219772e-17eb-4b46-a8ee-444864aca708#ref=rss)
+### mann
 
-* [https://www.spiegel.de/politik/deutschland/bafoeg-portal-seit-wochen-nicht-erreichbar-fax-statt-fortschritt](https://www.spiegel.de/politik/deutschland/bafoeg-portal-seit-wochen-nicht-erreichbar-fax-statt-fortschritt-a-a3c77a7e-d80b-4a23-b24a-804a44b35603#ref=rss)
-### jochen
+* [https://www.spiegel.de/politik/deutschland/berlin-fahnder-nehmen-mutmasslichen-waffenschmuggler-der-hamas-fest](https://www.spiegel.de/politik/deutschland/berlin-fahnder-nehmen-mutmasslichen-waffenschmuggler-der-hamas-fest-a-40b6e314-742c-4b75-8373-6e4f38b2cfe0#ref=rss)
+* [https://www.spiegel.de/panorama/verwahrlost-abgehaengt-kaputt-unterwegs-in-jaywick-dem-aermsten-dorf-englands](https://www.spiegel.de/panorama/verwahrlost-abgehaengt-kaputt-unterwegs-in-jaywick-dem-aermsten-dorf-englands-a-30d92e76-ae30-4a9e-93d9-047ed027f730#ref=rss)
+### vw
 
-* [https://www.spiegel.de/politik/deutschland/jochen-ott-spd-spitzenkandidat-in-nrw-der-lautsprecher](https://www.spiegel.de/politik/deutschland/jochen-ott-spd-spitzenkandidat-in-nrw-der-lautsprecher-a-65662366-579d-460d-8814-8265e3b05620#ref=rss)
-### ott
+* [https://www.spiegel.de/auto/fahrberichte/vw-id-polo-alltagstaugliches-elektroauto-unter-25-000-euro](https://www.spiegel.de/auto/fahrberichte/vw-id-polo-alltagstaugliches-elektroauto-unter-25-000-euro-a-09303482-d151-4bfc-89f6-839351fa6e31#ref=rss)
+### idpolo
 
-* [https://www.spiegel.de/politik/deutschland/jochen-ott-spd-spitzenkandidat-in-nrw-der-lautsprecher](https://www.spiegel.de/politik/deutschland/jochen-ott-spd-spitzenkandidat-in-nrw-der-lautsprecher-a-65662366-579d-460d-8814-8265e3b05620#ref=rss)
-### nrw
+* [https://www.spiegel.de/auto/fahrberichte/vw-id-polo-alltagstaugliches-elektroauto-unter-25-000-euro](https://www.spiegel.de/auto/fahrberichte/vw-id-polo-alltagstaugliches-elektroauto-unter-25-000-euro-a-09303482-d151-4bfc-89f6-839351fa6e31#ref=rss)
+### alltagstaugliches
 
-* [https://www.spiegel.de/politik/deutschland/jochen-ott-spd-spitzenkandidat-in-nrw-der-lautsprecher](https://www.spiegel.de/politik/deutschland/jochen-ott-spd-spitzenkandidat-in-nrw-der-lautsprecher-a-65662366-579d-460d-8814-8265e3b05620#ref=rss)
-### haft
+* [https://www.spiegel.de/auto/fahrberichte/vw-id-polo-alltagstaugliches-elektroauto-unter-25-000-euro](https://www.spiegel.de/auto/fahrberichte/vw-id-polo-alltagstaugliches-elektroauto-unter-25-000-euro-a-09303482-d151-4bfc-89f6-839351fa6e31#ref=rss)
+### 25000
 
-* [https://www.spiegel.de/panorama/justiz/landgericht-frankfurt-lange-haft-fuer-selbst-ernannte-pedo-hunter](https://www.spiegel.de/panorama/justiz/landgericht-frankfurt-lange-haft-fuer-selbst-ernannte-pedo-hunter-a-fa23c65a-d10c-4dd5-bca3-45f1a170468b#ref=rss)
-### francis
+* [https://www.spiegel.de/auto/fahrberichte/vw-id-polo-alltagstaugliches-elektroauto-unter-25-000-euro](https://www.spiegel.de/auto/fahrberichte/vw-id-polo-alltagstaugliches-elektroauto-unter-25-000-euro-a-09303482-d151-4bfc-89f6-839351fa6e31#ref=rss)
+### 16
 
-* [https://www.spiegel.de/kultur/musik/francis-buchholz-ist-tot-langjaehriger-scorpions-bassist-erliegt-krebs-erkrankung](https://www.spiegel.de/kultur/musik/francis-buchholz-ist-tot-langjaehriger-scorpions-bassist-erliegt-krebs-erkrankung-a-e9eda591-018c-45f1-9664-1d9699316ce0#ref=rss)
-### buchholz
+* [https://www.spiegel.de/ausland/weite-teile-der-usa-wappnen-sich-fuer-historischen-wintersturm](https://www.spiegel.de/ausland/weite-teile-der-usa-wappnen-sich-fuer-historischen-wintersturm-a-1353c524-c5e0-4b9b-a5fb-9f00921da3bf#ref=rss)
+* [https://www.spiegel.de/kultur/musik/robbie-williams-ueberholt-die-beatles-mehr-alben-auf-platz-eins-der-uk-charts](https://www.spiegel.de/kultur/musik/robbie-williams-ueberholt-die-beatles-mehr-alben-auf-platz-eins-der-uk-charts-a-0988adf1-3fdd-42a0-a32d-055cf5a48473#ref=rss)
+### washington
 
-* [https://www.spiegel.de/kultur/musik/francis-buchholz-ist-tot-langjaehriger-scorpions-bassist-erliegt-krebs-erkrankung](https://www.spiegel.de/kultur/musik/francis-buchholz-ist-tot-langjaehriger-scorpions-bassist-erliegt-krebs-erkrankung-a-e9eda591-018c-45f1-9664-1d9699316ce0#ref=rss)
-### tot
+* [https://www.spiegel.de/ausland/weite-teile-der-usa-wappnen-sich-fuer-historischen-wintersturm](https://www.spiegel.de/ausland/weite-teile-der-usa-wappnen-sich-fuer-historischen-wintersturm-a-1353c524-c5e0-4b9b-a5fb-9f00921da3bf#ref=rss)
+* [https://www.spiegel.de/ausland/pazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/pazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot-a-bd68cdf1-20e0-4f0d-b63f-f381da03bd14#ref=rss)
+### abschreckung
 
-* [https://www.spiegel.de/kultur/musik/francis-buchholz-ist-tot-langjaehriger-scorpions-bassist-erliegt-krebs-erkrankung](https://www.spiegel.de/kultur/musik/francis-buchholz-ist-tot-langjaehriger-scorpions-bassist-erliegt-krebs-erkrankung-a-e9eda591-018c-45f1-9664-1d9699316ce0#ref=rss)
-### krebserkrankung
+* [https://www.spiegel.de/ausland/usa-pentagon-will-sich-bei-der-abschreckung-nordkoreas-zurueckziehen](https://www.spiegel.de/ausland/usa-pentagon-will-sich-bei-der-abschreckung-nordkoreas-zurueckziehen-a-f4e8b4e9-569b-4739-a3d0-1aa7d9f64e9f#ref=rss)
+### nordkoreas
 
-* [https://www.spiegel.de/kultur/musik/francis-buchholz-ist-tot-langjaehriger-scorpions-bassist-erliegt-krebs-erkrankung](https://www.spiegel.de/kultur/musik/francis-buchholz-ist-tot-langjaehriger-scorpions-bassist-erliegt-krebs-erkrankung-a-e9eda591-018c-45f1-9664-1d9699316ce0#ref=rss)
-### bund
+* [https://www.spiegel.de/ausland/usa-pentagon-will-sich-bei-der-abschreckung-nordkoreas-zurueckziehen](https://www.spiegel.de/ausland/usa-pentagon-will-sich-bei-der-abschreckung-nordkoreas-zurueckziehen-a-f4e8b4e9-569b-4739-a3d0-1aa7d9f64e9f#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wirtschaft/soziales/sondervermoegen-bund-mobilisiert-milliarden-aber-sie-fliessen-nur-langsam-ab](https://www.spiegel.de/wirtschaft/soziales/sondervermoegen-bund-mobilisiert-milliarden-aber-sie-fliessen-nur-langsam-ab-a-9b82bfdb-79b8-4ae4-8be9-1f0c14506f48#ref=rss)
-### galeria
+* [https://www.spiegel.de/ausland/usa-pentagon-will-sich-bei-der-abschreckung-nordkoreas-zurueckziehen](https://www.spiegel.de/ausland/usa-pentagon-will-sich-bei-der-abschreckung-nordkoreas-zurueckziehen-a-f4e8b4e9-569b-4739-a3d0-1aa7d9f64e9f#ref=rss)
+* [https://www.spiegel.de/kultur/musik/robbie-williams-ueberholt-die-beatles-mehr-alben-auf-platz-eins-der-uk-charts](https://www.spiegel.de/kultur/musik/robbie-williams-ueberholt-die-beatles-mehr-alben-auf-platz-eins-der-uk-charts-a-0988adf1-3fdd-42a0-a32d-055cf5a48473#ref=rss)
+### drohnen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not](https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not-a-a08adf85-9dab-4f7f-a2a0-4ed694c5ffc7#ref=rss)
-### investoren
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an-a-876729c8-97e0-4bd1-8321-81d792677e0c#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not](https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not-a-a08adf85-9dab-4f7f-a2a0-4ed694c5ffc7#ref=rss)
-### bernd
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an-a-876729c8-97e0-4bd1-8321-81d792677e0c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet](https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet-a-d1b1f693-9568-454d-9c87-f0b8171d37e0#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not](https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not-a-a08adf85-9dab-4f7f-a2a0-4ed694c5ffc7#ref=rss)
-### beetz
+* [https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an](https://www.spiegel.de/ausland/ukraine-krieg-russland-greift-kyjiw-und-charkiw-mit-drohnen-und-raketen-an-a-876729c8-97e0-4bd1-8321-81d792677e0c#ref=rss)
+* [https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde](https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde-a-9219772e-17eb-4b46-a8ee-444864aca708#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not](https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not-a-a08adf85-9dab-4f7f-a2a0-4ed694c5ffc7#ref=rss)
-### richard
+* [https://www.spiegel.de/politik/deutschland/bundesinnenminister-alexander-dobrindt-kuendigt-gegenschlaege-bei-cyberangriffen-an](https://www.spiegel.de/politik/deutschland/bundesinnenminister-alexander-dobrindt-kuendigt-gegenschlaege-bei-cyberangriffen-an-a-caa99439-5982-44b9-bd09-43e22661b48e#ref=rss)
+* [https://www.spiegel.de/sport/australian-open-2026-spiele-wegen-extremer-hitze-unterbrochen-heat-rule-greift](https://www.spiegel.de/sport/australian-open-2026-spiele-wegen-extremer-hitze-unterbrochen-heat-rule-greift-a-94487558-8848-4f57-93fc-22912ae03ca2#ref=rss)
+### dobrindt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not](https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not-a-a08adf85-9dab-4f7f-a2a0-4ed694c5ffc7#ref=rss)
-### baker
+* [https://www.spiegel.de/politik/deutschland/bundesinnenminister-alexander-dobrindt-kuendigt-gegenschlaege-bei-cyberangriffen-an](https://www.spiegel.de/politik/deutschland/bundesinnenminister-alexander-dobrindt-kuendigt-gegenschlaege-bei-cyberangriffen-an-a-caa99439-5982-44b9-bd09-43e22661b48e#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not](https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not-a-a08adf85-9dab-4f7f-a2a0-4ed694c5ffc7#ref=rss)
-### not
+* [https://www.spiegel.de/ausland/die-neue-rechte-in-den-usa-wer-donald-trumps-regierungsagenda-setzt](https://www.spiegel.de/ausland/die-neue-rechte-in-den-usa-wer-donald-trumps-regierungsagenda-setzt-a-356b644f-f96a-4c1d-a605-a62385ca30a5#ref=rss)
+### rechte
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not](https://www.spiegel.de/wirtschaft/unternehmen/galeria-auch-unter-investoren-bernd-beetz-und-richard-baker-in-not-a-a08adf85-9dab-4f7f-a2a0-4ed694c5ffc7#ref=rss)
+* [https://www.spiegel.de/ausland/die-neue-rechte-in-den-usa-wer-donald-trumps-regierungsagenda-setzt](https://www.spiegel.de/ausland/die-neue-rechte-in-den-usa-wer-donald-trumps-regierungsagenda-setzt-a-356b644f-f96a-4c1d-a605-a62385ca30a5#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/die-neue-rechte-in-den-usa-wer-donald-trumps-regierungsagenda-setzt](https://www.spiegel.de/ausland/die-neue-rechte-in-den-usa-wer-donald-trumps-regierungsagenda-setzt-a-356b644f-f96a-4c1d-a605-a62385ca30a5#ref=rss)
+* [https://www.spiegel.de/ausland/us-verteidigungsstrategie-fokus-auf-china-weniger-unterstuetzung-fuer-europa](https://www.spiegel.de/ausland/us-verteidigungsstrategie-fokus-auf-china-weniger-unterstuetzung-fuer-europa-a-5eefc8b4-2877-4c64-a21a-0e323fa4c3d3#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/psychologie/psychologie-wie-wir-enttaeuschungen-besser-verarbeiten-podcast-mit-silke-brand](https://www.spiegel.de/psychologie/psychologie-wie-wir-enttaeuschungen-besser-verarbeiten-podcast-mit-silke-brand-a-705b73b1-bc9c-4765-97c8-028a7ba9d649#ref=rss)
+* [https://www.spiegel.de/ausland/kaulitz-brueder-bringen-wetten-dass-zurueck-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/kaulitz-brueder-bringen-wetten-dass-zurueck-alles-gute-vom-spiegel-a-a6ab7772-dda7-49aa-b583-72ae1f7df8d5#ref=rss)
+### cyprien
+
+* [https://www.spiegel.de/sport/wintersport/cyprien-sarrazin-spricht-ueber-schweren-sturz-ich-hatte-einen-joker](https://www.spiegel.de/sport/wintersport/cyprien-sarrazin-spricht-ueber-schweren-sturz-ich-hatte-einen-joker-a-9136b4b4-2191-4ce5-8283-8a2bc2febe51#ref=rss)
+### sarrazin
+
+* [https://www.spiegel.de/sport/wintersport/cyprien-sarrazin-spricht-ueber-schweren-sturz-ich-hatte-einen-joker](https://www.spiegel.de/sport/wintersport/cyprien-sarrazin-spricht-ueber-schweren-sturz-ich-hatte-einen-joker-a-9136b4b4-2191-4ce5-8283-8a2bc2febe51#ref=rss)
+### ich
+
+* [https://www.spiegel.de/sport/wintersport/cyprien-sarrazin-spricht-ueber-schweren-sturz-ich-hatte-einen-joker](https://www.spiegel.de/sport/wintersport/cyprien-sarrazin-spricht-ueber-schweren-sturz-ich-hatte-einen-joker-a-9136b4b4-2191-4ce5-8283-8a2bc2febe51#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/sport/wintersport/cyprien-sarrazin-spricht-ueber-schweren-sturz-ich-hatte-einen-joker](https://www.spiegel.de/sport/wintersport/cyprien-sarrazin-spricht-ueber-schweren-sturz-ich-hatte-einen-joker-a-9136b4b4-2191-4ce5-8283-8a2bc2febe51#ref=rss)
+* [https://www.spiegel.de/panorama/verwahrlost-abgehaengt-kaputt-unterwegs-in-jaywick-dem-aermsten-dorf-englands](https://www.spiegel.de/panorama/verwahrlost-abgehaengt-kaputt-unterwegs-in-jaywick-dem-aermsten-dorf-englands-a-30d92e76-ae30-4a9e-93d9-047ed027f730#ref=rss)
+### kaulitzbrüder
+
+* [https://www.spiegel.de/ausland/kaulitz-brueder-bringen-wetten-dass-zurueck-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/kaulitz-brueder-bringen-wetten-dass-zurueck-alles-gute-vom-spiegel-a-a6ab7772-dda7-49aa-b583-72ae1f7df8d5#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/ausland/kaulitz-brueder-bringen-wetten-dass-zurueck-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/kaulitz-brueder-bringen-wetten-dass-zurueck-alles-gute-vom-spiegel-a-a6ab7772-dda7-49aa-b583-72ae1f7df8d5#ref=rss)
+### wetten
+
+* [https://www.spiegel.de/ausland/kaulitz-brueder-bringen-wetten-dass-zurueck-alles-gute-vom-spiegel](https://www.spiegel.de/ausland/kaulitz-brueder-bringen-wetten-dass-zurueck-alles-gute-vom-spiegel-a-a6ab7772-dda7-49aa-b583-72ae1f7df8d5#ref=rss)
+### jessie
+
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet](https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet-a-d1b1f693-9568-454d-9c87-f0b8171d37e0#ref=rss)
+### buckley
+
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet](https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet-a-d1b1f693-9568-454d-9c87-f0b8171d37e0#ref=rss)
+### hamnet
+
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet](https://www.spiegel.de/politik/deutschland/news-ukraine-treffen-in-abu-dhabi-wintersturm-in-den-usa-jessie-buckley-in-hamnet-a-d1b1f693-9568-454d-9c87-f0b8171d37e0#ref=rss)
+### fokus
+
+* [https://www.spiegel.de/ausland/us-verteidigungsstrategie-fokus-auf-china-weniger-unterstuetzung-fuer-europa](https://www.spiegel.de/ausland/us-verteidigungsstrategie-fokus-auf-china-weniger-unterstuetzung-fuer-europa-a-5eefc8b4-2877-4c64-a21a-0e323fa4c3d3#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/us-verteidigungsstrategie-fokus-auf-china-weniger-unterstuetzung-fuer-europa](https://www.spiegel.de/ausland/us-verteidigungsstrategie-fokus-auf-china-weniger-unterstuetzung-fuer-europa-a-5eefc8b4-2877-4c64-a21a-0e323fa4c3d3#ref=rss)
+### extremer
+
+* [https://www.spiegel.de/sport/australian-open-2026-spiele-wegen-extremer-hitze-unterbrochen-heat-rule-greift](https://www.spiegel.de/sport/australian-open-2026-spiele-wegen-extremer-hitze-unterbrochen-heat-rule-greift-a-94487558-8848-4f57-93fc-22912ae03ca2#ref=rss)
+### hitze
+
+* [https://www.spiegel.de/sport/australian-open-2026-spiele-wegen-extremer-hitze-unterbrochen-heat-rule-greift](https://www.spiegel.de/sport/australian-open-2026-spiele-wegen-extremer-hitze-unterbrochen-heat-rule-greift-a-94487558-8848-4f57-93fc-22912ae03ca2#ref=rss)
+### heat
+
+* [https://www.spiegel.de/sport/australian-open-2026-spiele-wegen-extremer-hitze-unterbrochen-heat-rule-greift](https://www.spiegel.de/sport/australian-open-2026-spiele-wegen-extremer-hitze-unterbrochen-heat-rule-greift-a-94487558-8848-4f57-93fc-22912ae03ca2#ref=rss)
+### rule
+
+* [https://www.spiegel.de/sport/australian-open-2026-spiele-wegen-extremer-hitze-unterbrochen-heat-rule-greift](https://www.spiegel.de/sport/australian-open-2026-spiele-wegen-extremer-hitze-unterbrochen-heat-rule-greift-a-94487558-8848-4f57-93fc-22912ae03ca2#ref=rss)
+### alex
+
+* [https://www.spiegel.de/sport/taipeh-101-alex-honnold-verschiebt-kletteraktion-wegen-regen](https://www.spiegel.de/sport/taipeh-101-alex-honnold-verschiebt-kletteraktion-wegen-regen-a-998e03ed-b29e-4d7b-b972-f4d6e5f76863#ref=rss)
+### honnold
+
+* [https://www.spiegel.de/sport/taipeh-101-alex-honnold-verschiebt-kletteraktion-wegen-regen](https://www.spiegel.de/sport/taipeh-101-alex-honnold-verschiebt-kletteraktion-wegen-regen-a-998e03ed-b29e-4d7b-b972-f4d6e5f76863#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-vs-usa-teheran-droht-mit-krieg-mit-allen-mitteln-bei-us-angriff](https://www.spiegel.de/ausland/iran-vs-usa-teheran-droht-mit-krieg-mit-allen-mitteln-bei-us-angriff-a-2db6b718-cdce-4a3f-9d45-e8db7bfeb41f#ref=rss)
+### teheran
+
+* [https://www.spiegel.de/ausland/iran-vs-usa-teheran-droht-mit-krieg-mit-allen-mitteln-bei-us-angriff](https://www.spiegel.de/ausland/iran-vs-usa-teheran-droht-mit-krieg-mit-allen-mitteln-bei-us-angriff-a-2db6b718-cdce-4a3f-9d45-e8db7bfeb41f#ref=rss)
+### droht
+
+* [https://www.spiegel.de/ausland/iran-vs-usa-teheran-droht-mit-krieg-mit-allen-mitteln-bei-us-angriff](https://www.spiegel.de/ausland/iran-vs-usa-teheran-droht-mit-krieg-mit-allen-mitteln-bei-us-angriff-a-2db6b718-cdce-4a3f-9d45-e8db7bfeb41f#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/iran-vs-usa-teheran-droht-mit-krieg-mit-allen-mitteln-bei-us-angriff](https://www.spiegel.de/ausland/iran-vs-usa-teheran-droht-mit-krieg-mit-allen-mitteln-bei-us-angriff-a-2db6b718-cdce-4a3f-9d45-e8db7bfeb41f#ref=rss)
+* [https://www.spiegel.de/ausland/pazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/pazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot-a-bd68cdf1-20e0-4f0d-b63f-f381da03bd14#ref=rss)
+### pazifik
+
+* [https://www.spiegel.de/ausland/pazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/pazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot-a-bd68cdf1-20e0-4f0d-b63f-f381da03bd14#ref=rss)
+### mutmaßliches
+
+* [https://www.spiegel.de/ausland/pazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/pazifik-zwei-tote-bei-us-angriff-auf-mutmassliches-drogenboot-a-bd68cdf1-20e0-4f0d-b63f-f381da03bd14#ref=rss)
+### übergangsrat
+
+* [https://www.spiegel.de/ausland/politische-krise-in-haiti-spitzt-sich-zu](https://www.spiegel.de/ausland/politische-krise-in-haiti-spitzt-sich-zu-a-efd98590-35b8-45e3-8a43-aaae9b89292d#ref=rss)
+### filsaimé
+
+* [https://www.spiegel.de/ausland/politische-krise-in-haiti-spitzt-sich-zu](https://www.spiegel.de/ausland/politische-krise-in-haiti-spitzt-sich-zu-a-efd98590-35b8-45e3-8a43-aaae9b89292d#ref=rss)
+### robbie
+
+* [https://www.spiegel.de/kultur/musik/robbie-williams-ueberholt-die-beatles-mehr-alben-auf-platz-eins-der-uk-charts](https://www.spiegel.de/kultur/musik/robbie-williams-ueberholt-die-beatles-mehr-alben-auf-platz-eins-der-uk-charts-a-0988adf1-3fdd-42a0-a32d-055cf5a48473#ref=rss)
+### williams
+
+* [https://www.spiegel.de/kultur/musik/robbie-williams-ueberholt-die-beatles-mehr-alben-auf-platz-eins-der-uk-charts](https://www.spiegel.de/kultur/musik/robbie-williams-ueberholt-die-beatles-mehr-alben-auf-platz-eins-der-uk-charts-a-0988adf1-3fdd-42a0-a32d-055cf5a48473#ref=rss)
+### beatles
+
+* [https://www.spiegel.de/kultur/musik/robbie-williams-ueberholt-die-beatles-mehr-alben-auf-platz-eins-der-uk-charts](https://www.spiegel.de/kultur/musik/robbie-williams-ueberholt-die-beatles-mehr-alben-auf-platz-eins-der-uk-charts-a-0988adf1-3fdd-42a0-a32d-055cf5a48473#ref=rss)
+### minnesota
+
+* [https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde](https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde-a-9219772e-17eb-4b46-a8ee-444864aca708#ref=rss)
+### streiks
+
+* [https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde](https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde-a-9219772e-17eb-4b46-a8ee-444864aca708#ref=rss)
+### einwanderungsbehörde
+
+* [https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde](https://www.spiegel.de/ausland/ice-in-minnesota-streiks-und-demos-gegen-einwanderungsbehoerde-a-9219772e-17eb-4b46-a8ee-444864aca708#ref=rss)
+### st
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-st-pauli-und-hamburger-sv-bieten-sich-gipfeltreffen-der-harmlosigkeit](https://www.spiegel.de/sport/fussball/fussball-bundesliga-st-pauli-und-hamburger-sv-bieten-sich-gipfeltreffen-der-harmlosigkeit-a-20ae8fcd-89af-4156-8e39-0770be4ccf17#ref=rss)
+### pauli
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-st-pauli-und-hamburger-sv-bieten-sich-gipfeltreffen-der-harmlosigkeit](https://www.spiegel.de/sport/fussball/fussball-bundesliga-st-pauli-und-hamburger-sv-bieten-sich-gipfeltreffen-der-harmlosigkeit-a-20ae8fcd-89af-4156-8e39-0770be4ccf17#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-st-pauli-und-hamburger-sv-bieten-sich-gipfeltreffen-der-harmlosigkeit](https://www.spiegel.de/sport/fussball/fussball-bundesliga-st-pauli-und-hamburger-sv-bieten-sich-gipfeltreffen-der-harmlosigkeit-a-20ae8fcd-89af-4156-8e39-0770be4ccf17#ref=rss)
 
