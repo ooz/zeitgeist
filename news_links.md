@@ -4,318 +4,349 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### minneapolis
+### ski
 
-* [https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren](https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren-a-75410d7e-e2aa-4051-8763-4d9968a6db05#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug](https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug-a-71d634e0-9f9f-46e9-af40-ecefde78fefc#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer](https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer-a-2910f0da-d726-4983-8fc9-f5facc1c769a#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor](https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor-a-8614507b-3211-46c8-878f-3458b6b2e61c#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten](https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten-a-8a966e83-df2e-4312-8bac-8eb0782963ee#ref=rss)
-### trump
-
-* [https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump](https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump-a-98890cfc-9b7b-434f-a106-ca66e6d01567#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug](https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug-a-71d634e0-9f9f-46e9-af40-ecefde78fefc#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer](https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer-a-2910f0da-d726-4983-8fc9-f5facc1c769a#ref=rss)
-* [https://www.spiegel.de/panorama/melania-trump-dokumentarfilm-ueber-tage-vor-der-amtseinfuehrung](https://www.spiegel.de/panorama/melania-trump-dokumentarfilm-ueber-tage-vor-der-amtseinfuehrung-a-aa1b998e-17b9-4a2c-a0cf-754f8b2d4f46#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik](https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik-a-080673db-fbb5-4d6f-a244-64bd9d99f46c#ref=rss)
-### alex
-
-* [https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug](https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug-a-71d634e0-9f9f-46e9-af40-ecefde78fefc#ref=rss)
-* [https://www.spiegel.de/sport/taipeh-101-alex-honnold-meistert-umstrittene-kletteraktion-in-anderthalb-stunden](https://www.spiegel.de/sport/taipeh-101-alex-honnold-meistert-umstrittene-kletteraktion-in-anderthalb-stunden-a-b3e1c8f4-bdd4-4d41-86d6-634333cd1cd0#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor](https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor-a-8614507b-3211-46c8-878f-3458b6b2e61c#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
-### pretti
-
-* [https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug](https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug-a-71d634e0-9f9f-46e9-af40-ecefde78fefc#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor](https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor-a-8614507b-3211-46c8-878f-3458b6b2e61c#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-rund-1700-wohnblocks-in-kyjiw-ohne-heizung](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-rund-1700-wohnblocks-in-kyjiw-ohne-heizung-a-bfb754dd-1fdc-48f3-ab68-3bf408f37767#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen](https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen-a-51ed0263-448c-41d9-8f76-9a5d9cb36866#ref=rss)
-* [https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse](https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse-a-2da86bbf-8edf-4d3f-80ed-c76f949860f8#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
-### welt
-
-* [https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt](https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt-a-0bccf26d-fecf-4570-ae6a-1e537ce74947#ref=rss)
-* [https://www.spiegel.de/wissenschaft/barbie-puppe-mit-autismus-was-bringt-inklusives-spielzeug](https://www.spiegel.de/wissenschaft/barbie-puppe-mit-autismus-was-bringt-inklusives-spielzeug-a-1ff3d801-445a-402e-a736-46c2fe976e39#ref=rss)
-* [https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen](https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen-a-2571ede0-70ff-4ff7-a1ad-167c173a6bc4#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken](https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken-a-aa978a98-52f2-4a20-9edd-349d452a286f#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik](https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik-a-080673db-fbb5-4d6f-a244-64bd9d99f46c#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/wissenschaft/barbie-puppe-mit-autismus-was-bringt-inklusives-spielzeug](https://www.spiegel.de/wissenschaft/barbie-puppe-mit-autismus-was-bringt-inklusives-spielzeug-a-1ff3d801-445a-402e-a736-46c2fe976e39#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor](https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor-a-8614507b-3211-46c8-878f-3458b6b2e61c#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/ausland/grossbritannien-england-bekommt-neue-super-polizei-nach-vorbild-des-fbi](https://www.spiegel.de/ausland/grossbritannien-england-bekommt-neue-super-polizei-nach-vorbild-des-fbi-a-33f91301-c11a-4607-84c1-57004b13aad4#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik](https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik-a-080673db-fbb5-4d6f-a244-64bd9d99f46c#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen](https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen-a-51ed0263-448c-41d9-8f76-9a5d9cb36866#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump](https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump-a-98890cfc-9b7b-434f-a106-ca66e6d01567#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump](https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump-a-98890cfc-9b7b-434f-a106-ca66e6d01567#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik](https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik-a-080673db-fbb5-4d6f-a244-64bd9d99f46c#ref=rss)
-### tödlichen
-
-* [https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren](https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren-a-75410d7e-e2aa-4051-8763-4d9968a6db05#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug](https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug-a-71d634e0-9f9f-46e9-af40-ecefde78fefc#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten](https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten-a-8a966e83-df2e-4312-8bac-8eb0782963ee#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen](https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen-a-2571ede0-70ff-4ff7-a1ad-167c173a6bc4#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gelingt-der-waermetausch](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gelingt-der-waermetausch-a-1dceb1ea-82a9-48e7-b394-3e95e401357d#ref=rss)
-### vw
-
-* [https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen](https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen-a-2571ede0-70ff-4ff7-a1ad-167c173a6bc4#ref=rss)
-### golf
-
-* [https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen](https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen-a-2571ede0-70ff-4ff7-a1ad-167c173a6bc4#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/skiflug-wm-in-oberstdorf-domen-prevc-rutschen-vor-dem-start-die-ski-die-schanze-herunter](https://www.spiegel.de/sport/wintersport/skiflug-wm-in-oberstdorf-domen-prevc-rutschen-vor-dem-start-die-ski-die-schanze-herunter-a-b74c9d2c-6b30-4799-8b39-b620c1e26bf4#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-wird-dritter-in-kitzbuehel-manuel-feller-gewinnt](https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-wird-dritter-in-kitzbuehel-manuel-feller-gewinnt-a-f18b0653-fb3c-463f-bc05-ec4f88a20c65#ref=rss)
 ### fc
 
-* [https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse](https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse-a-2da86bbf-8edf-4d3f-80ed-c76f949860f8#ref=rss)
-### zeigt
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-siegt-souveraen-in-moenchengladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-siegt-souveraen-in-moenchengladbach-a-9de24f2e-f7ae-4b89-846f-c152d3d28fa6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-edin-dzeko-trifft-in-seinem-ersten-spiel-fuer-schalke-04-gegen-den-1-fc-kaiserlsautern](https://www.spiegel.de/sport/fussball/2-bundesliga-edin-dzeko-trifft-in-seinem-ersten-spiel-fuer-schalke-04-gegen-den-1-fc-kaiserlsautern-a-a1173b76-ac53-47f3-b63e-d16d4ba90678#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/1-fc-magdeburg-dutzende-polizisten-bei-zweitliga-fussballspiel-verletzt](https://www.spiegel.de/panorama/justiz/1-fc-magdeburg-dutzende-polizisten-bei-zweitliga-fussballspiel-verletzt-a-b491a40b-0f23-4e76-9483-f3aabe2ad9ca#ref=rss)
+### thomas
 
-* [https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer](https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer-a-2910f0da-d726-4983-8fc9-f5facc1c769a#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein-a-250fa5e7-2a9b-4e09-9acb-228fcdaf1843#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten](https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten-a-8a966e83-df2e-4312-8bac-8eb0782963ee#ref=rss)
-### melania
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2228c87-c667-44f2-a3ce-4c2e2e235aff#ref=rss)
+* [https://www.spiegel.de/sport/jules-verne-trophaee-franzose-thomas-coville-knackt-rekord-fuer-schnellste-weltumsegelung](https://www.spiegel.de/sport/jules-verne-trophaee-franzose-thomas-coville-knackt-rekord-fuer-schnellste-weltumsegelung-a-cf8cd6f0-db36-4939-8114-7f96b4b4a2c5#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/panorama/melania-trump-dokumentarfilm-ueber-tage-vor-der-amtseinfuehrung](https://www.spiegel.de/panorama/melania-trump-dokumentarfilm-ueber-tage-vor-der-amtseinfuehrung-a-aa1b998e-17b9-4a2c-a0cf-754f8b2d4f46#ref=rss)
-### angst
+* [https://www.spiegel.de/sport/wintersport/skiflug-wm-in-oberstdorf-domen-prevc-rutschen-vor-dem-start-die-ski-die-schanze-herunter](https://www.spiegel.de/sport/wintersport/skiflug-wm-in-oberstdorf-domen-prevc-rutschen-vor-dem-start-die-ski-die-schanze-herunter-a-b74c9d2c-6b30-4799-8b39-b620c1e26bf4#ref=rss)
+* [https://www.spiegel.de/panorama/wintersturm-in-den-usa-hunderttausende-haushalte-bei-eisiger-kaelte-ohne-strom](https://www.spiegel.de/panorama/wintersturm-in-den-usa-hunderttausende-haushalte-bei-eisiger-kaelte-ohne-strom-a-ae543e08-a28c-454c-a68a-414ef2c6a893#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/partnerschaft/liebeskummer-tipps-zur-bewaeltigung-von-emotionalen-verletzungen](https://www.spiegel.de/partnerschaft/liebeskummer-tipps-zur-bewaeltigung-von-emotionalen-verletzungen-a-bb9a4d20-0ab3-4071-b8ee-c9f53490aab7#ref=rss)
-* [https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen](https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen-a-17fc9cb0-5eab-46cf-95a2-9dafe671e794#ref=rss)
-### mann
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-vertrauter-heino-wiese-der-letzte-freund](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-vertrauter-heino-wiese-der-letzte-freund-a-0566e035-ee95-41f9-86c0-3a7d9e2784e7#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-us-richter-stellt-beweismittel-unter-schutz](https://www.spiegel.de/ausland/minneapolis-us-richter-stellt-beweismittel-unter-schutz-a-533c9f5c-50f4-44d9-9e3b-d83150df1078#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-mehr-verbraucher-aergern-sich-ueber-verbotene-werbeanrufe](https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-mehr-verbraucher-aergern-sich-ueber-verbotene-werbeanrufe-a-3222b1c3-d418-4f7d-a9ff-5a756322c666#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten](https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten-a-8a966e83-df2e-4312-8bac-8eb0782963ee#ref=rss)
-### ecko
-
-* [https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch](https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch-a-a25ee8af-94b6-46e7-82b9-b6ef649cf2c8#ref=rss)
-### bazz
-
-* [https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch](https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch-a-a25ee8af-94b6-46e7-82b9-b6ef649cf2c8#ref=rss)
-### durchbruch
-
-* [https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch](https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch-a-a25ee8af-94b6-46e7-82b9-b6ef649cf2c8#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch](https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch-a-a25ee8af-94b6-46e7-82b9-b6ef649cf2c8#ref=rss)
-* [https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen](https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen-a-2571ede0-70ff-4ff7-a1ad-167c173a6bc4#ref=rss)
-### land
-
-* [https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch](https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch-a-a25ee8af-94b6-46e7-82b9-b6ef649cf2c8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-manchmal-muss-man-einen-nazi-eben-auch-einen-nazi-nennen](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-manchmal-muss-man-einen-nazi-eben-auch-einen-nazi-nennen-a-976c203a-88a9-4784-ba39-407cd18a6427#ref=rss)
-### erst
-
-* [https://www.spiegel.de/gesundheit/diagnose/ein-raetselhafter-patient-er-kann-nicht-aufhoeren-zu-kratzen](https://www.spiegel.de/gesundheit/diagnose/ein-raetselhafter-patient-er-kann-nicht-aufhoeren-zu-kratzen-a-2c67b2f6-1497-43cc-96e9-27631e627769#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein-a-250fa5e7-2a9b-4e09-9acb-228fcdaf1843#ref=rss)
-### andreas
-
-* [https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt](https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt-a-0bccf26d-fecf-4570-ae6a-1e537ce74947#ref=rss)
-### briese
-
-* [https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt](https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt-a-0bccf26d-fecf-4570-ae6a-1e537ce74947#ref=rss)
-### videos
-
-* [https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt](https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt-a-0bccf26d-fecf-4570-ae6a-1e537ce74947#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten](https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten-a-8a966e83-df2e-4312-8bac-8eb0782963ee#ref=rss)
-### 12
-
-* [https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt](https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt-a-0bccf26d-fecf-4570-ae6a-1e537ce74947#ref=rss)
-* [https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse](https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse-a-2da86bbf-8edf-4d3f-80ed-c76f949860f8#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt](https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt-a-0bccf26d-fecf-4570-ae6a-1e537ce74947#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein-a-250fa5e7-2a9b-4e09-9acb-228fcdaf1843#ref=rss)
-### arbeiten
-
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-rund-1700-wohnblocks-in-kyjiw-ohne-heizung](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-rund-1700-wohnblocks-in-kyjiw-ohne-heizung-a-bfb754dd-1fdc-48f3-ab68-3bf408f37767#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen](https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen-a-51ed0263-448c-41d9-8f76-9a5d9cb36866#ref=rss)
-### kommandeur
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken](https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken-a-aa978a98-52f2-4a20-9edd-349d452a286f#ref=rss)
-### skandal
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken](https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken-a-aa978a98-52f2-4a20-9edd-349d452a286f#ref=rss)
-### zweibrücken
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken](https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken-a-aa978a98-52f2-4a20-9edd-349d452a286f#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken](https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken-a-aa978a98-52f2-4a20-9edd-349d452a286f#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-england-bekommt-neue-super-polizei-nach-vorbild-des-fbi](https://www.spiegel.de/ausland/grossbritannien-england-bekommt-neue-super-polizei-nach-vorbild-des-fbi-a-33f91301-c11a-4607-84c1-57004b13aad4#ref=rss)
-### heidi
-
-* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-manchmal-muss-man-einen-nazi-eben-auch-einen-nazi-nennen](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-manchmal-muss-man-einen-nazi-eben-auch-einen-nazi-nennen-a-976c203a-88a9-4784-ba39-407cd18a6427#ref=rss)
-### reichinnek
-
-* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-manchmal-muss-man-einen-nazi-eben-auch-einen-nazi-nennen](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-manchmal-muss-man-einen-nazi-eben-auch-einen-nazi-nennen-a-976c203a-88a9-4784-ba39-407cd18a6427#ref=rss)
-### nazi
-
-* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-manchmal-muss-man-einen-nazi-eben-auch-einen-nazi-nennen](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-manchmal-muss-man-einen-nazi-eben-auch-einen-nazi-nennen-a-976c203a-88a9-4784-ba39-407cd18a6427#ref=rss)
-### autismus
-
-* [https://www.spiegel.de/wissenschaft/barbie-puppe-mit-autismus-was-bringt-inklusives-spielzeug](https://www.spiegel.de/wissenschaft/barbie-puppe-mit-autismus-was-bringt-inklusives-spielzeug-a-1ff3d801-445a-402e-a736-46c2fe976e39#ref=rss)
-### venezuela
-
-* [https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden](https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden-a-86bc5176-28ef-44ac-9485-f68967c2076b#ref=rss)
-### übergangspräsidentin
-
-* [https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden](https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden-a-86bc5176-28ef-44ac-9485-f68967c2076b#ref=rss)
-### rodríguez
-
-* [https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden](https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden-a-86bc5176-28ef-44ac-9485-f68967c2076b#ref=rss)
-### opposition
-
-* [https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden](https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden-a-86bc5176-28ef-44ac-9485-f68967c2076b#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden](https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden-a-86bc5176-28ef-44ac-9485-f68967c2076b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/rueckzug-aus-gesundheitsorganisation-who-chef-nennt-us-gruende-unwahr](https://www.spiegel.de/wissenschaft/rueckzug-aus-gesundheitsorganisation-who-chef-nennt-us-gruende-unwahr-a-e6bf4f0b-d901-473b-8018-9dc23d271dd1#ref=rss)
-### vorbild
-
-* [https://www.spiegel.de/ausland/grossbritannien-england-bekommt-neue-super-polizei-nach-vorbild-des-fbi](https://www.spiegel.de/ausland/grossbritannien-england-bekommt-neue-super-polizei-nach-vorbild-des-fbi-a-33f91301-c11a-4607-84c1-57004b13aad4#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/grossbritannien-england-bekommt-neue-super-polizei-nach-vorbild-des-fbi](https://www.spiegel.de/ausland/grossbritannien-england-bekommt-neue-super-polizei-nach-vorbild-des-fbi-a-33f91301-c11a-4607-84c1-57004b13aad4#ref=rss)
-* [https://www.spiegel.de/ausland/albanien-zusammenstoesse-bei-protesten-gegen-premierminister-rama](https://www.spiegel.de/ausland/albanien-zusammenstoesse-bei-protesten-gegen-premierminister-rama-a-3a8605c7-0635-4149-a477-ea14c765cff9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-vertrauter-heino-wiese-der-letzte-freund](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-vertrauter-heino-wiese-der-letzte-freund-a-0566e035-ee95-41f9-86c0-3a7d9e2784e7#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-us-richter-stellt-beweismittel-unter-schutz](https://www.spiegel.de/ausland/minneapolis-us-richter-stellt-beweismittel-unter-schutz-a-533c9f5c-50f4-44d9-9e3b-d83150df1078#ref=rss)
+* [https://www.spiegel.de/start/millennial-optimism-warum-sehnt-ihr-euch-in-unsere-jugend-zurueck](https://www.spiegel.de/start/millennial-optimism-warum-sehnt-ihr-euch-in-unsere-jugend-zurueck-a-4f259913-2d2b-471e-8b42-5fee3216fc73#ref=rss)
 ### teilzeit
 
-* [https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen](https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen-a-51ed0263-448c-41d9-8f76-9a5d9cb36866#ref=rss)
-### macht
-
-* [https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen](https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen-a-51ed0263-448c-41d9-8f76-9a5d9cb36866#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump](https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump-a-98890cfc-9b7b-434f-a106-ca66e6d01567#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen](https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen-a-51ed0263-448c-41d9-8f76-9a5d9cb36866#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-verlaengert-waffenruhe-mit-kurden-milizen](https://www.spiegel.de/ausland/syrien-verlaengert-waffenruhe-mit-kurden-milizen-a-58fa801e-6b2c-4b2f-940a-dd494df5a9e8#ref=rss)
-### elternkindentfremdung
-
-* [https://www.spiegel.de/familie/trennung-und-scheidung-was-hinter-dem-streit-ueber-eltern-kind-entfremdung-steckt](https://www.spiegel.de/familie/trennung-und-scheidung-was-hinter-dem-streit-ueber-eltern-kind-entfremdung-steckt-a-93f96820-5de2-4f41-b243-2290928dc5b9#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/familie/trennung-und-scheidung-was-hinter-dem-streit-ueber-eltern-kind-entfremdung-steckt](https://www.spiegel.de/familie/trennung-und-scheidung-was-hinter-dem-streit-ueber-eltern-kind-entfremdung-steckt-a-93f96820-5de2-4f41-b243-2290928dc5b9#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik](https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik-a-080673db-fbb5-4d6f-a244-64bd9d99f46c#ref=rss)
-### wo
-
-* [https://www.spiegel.de/familie/trennung-und-scheidung-was-hinter-dem-streit-ueber-eltern-kind-entfremdung-steckt](https://www.spiegel.de/familie/trennung-und-scheidung-was-hinter-dem-streit-ueber-eltern-kind-entfremdung-steckt-a-93f96820-5de2-4f41-b243-2290928dc5b9#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump](https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump-a-98890cfc-9b7b-434f-a106-ca66e6d01567#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer](https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer-a-2910f0da-d726-4983-8fc9-f5facc1c769a#ref=rss)
-### finanzierung
-
-* [https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren](https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren-a-75410d7e-e2aa-4051-8763-4d9968a6db05#ref=rss)
-### ice
-
-* [https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren](https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren-a-75410d7e-e2aa-4051-8763-4d9968a6db05#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
-### demokraten
-
-* [https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren](https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren-a-75410d7e-e2aa-4051-8763-4d9968a6db05#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug](https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug-a-71d634e0-9f9f-46e9-af40-ecefde78fefc#ref=rss)
-### iceschüsse
-
-* [https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug](https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug-a-71d634e0-9f9f-46e9-af40-ecefde78fefc#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer](https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer-a-2910f0da-d726-4983-8fc9-f5facc1c769a#ref=rss)
-### großen
-
-* [https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen](https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen-a-2571ede0-70ff-4ff7-a1ad-167c173a6bc4#ref=rss)
-* [https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen](https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen-a-17fc9cb0-5eab-46cf-95a2-9dafe671e794#ref=rss)
-### wasser
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gelingt-der-waermetausch](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gelingt-der-waermetausch-a-1dceb1ea-82a9-48e7-b394-3e95e401357d#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse](https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse-a-2da86bbf-8edf-4d3f-80ed-c76f949860f8#ref=rss)
-### augsburg
-
-* [https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse](https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse-a-2da86bbf-8edf-4d3f-80ed-c76f949860f8#ref=rss)
-### icebeamten
-
-* [https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer](https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer-a-2910f0da-d726-4983-8fc9-f5facc1c769a#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer](https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer-a-2910f0da-d726-4983-8fc9-f5facc1c769a#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
-### weißen
-
-* [https://www.spiegel.de/panorama/melania-trump-dokumentarfilm-ueber-tage-vor-der-amtseinfuehrung](https://www.spiegel.de/panorama/melania-trump-dokumentarfilm-ueber-tage-vor-der-amtseinfuehrung-a-aa1b998e-17b9-4a2c-a0cf-754f8b2d4f46#ref=rss)
-### haus
-
-* [https://www.spiegel.de/panorama/melania-trump-dokumentarfilm-ueber-tage-vor-der-amtseinfuehrung](https://www.spiegel.de/panorama/melania-trump-dokumentarfilm-ueber-tage-vor-der-amtseinfuehrung-a-aa1b998e-17b9-4a2c-a0cf-754f8b2d4f46#ref=rss)
-### liebeskummer
-
-* [https://www.spiegel.de/partnerschaft/liebeskummer-tipps-zur-bewaeltigung-von-emotionalen-verletzungen](https://www.spiegel.de/partnerschaft/liebeskummer-tipps-zur-bewaeltigung-von-emotionalen-verletzungen-a-bb9a4d20-0ab3-4071-b8ee-c9f53490aab7#ref=rss)
-### antwort
-
-* [https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen](https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen-a-17fc9cb0-5eab-46cf-95a2-9dafe671e794#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen](https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen-a-17fc9cb0-5eab-46cf-95a2-9dafe671e794#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen](https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen-a-17fc9cb0-5eab-46cf-95a2-9dafe671e794#ref=rss)
-### honnold
-
-* [https://www.spiegel.de/sport/taipeh-101-alex-honnold-meistert-umstrittene-kletteraktion-in-anderthalb-stunden](https://www.spiegel.de/sport/taipeh-101-alex-honnold-meistert-umstrittene-kletteraktion-in-anderthalb-stunden-a-b3e1c8f4-bdd4-4d41-86d6-634333cd1cd0#ref=rss)
-### allem
-
-* [https://www.spiegel.de/sport/taipeh-101-alex-honnold-meistert-umstrittene-kletteraktion-in-anderthalb-stunden](https://www.spiegel.de/sport/taipeh-101-alex-honnold-meistert-umstrittene-kletteraktion-in-anderthalb-stunden-a-b3e1c8f4-bdd4-4d41-86d6-634333cd1cd0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik](https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik-a-080673db-fbb5-4d6f-a244-64bd9d99f46c#ref=rss)
-### werfen
-
-* [https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor](https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor-a-8614507b-3211-46c8-878f-3458b6b2e61c#ref=rss)
-### lügen
-
-* [https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor](https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor-a-8614507b-3211-46c8-878f-3458b6b2e61c#ref=rss)
-### erschossen
-
-* [https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor](https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor-a-8614507b-3211-46c8-878f-3458b6b2e61c#ref=rss)
-* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor](https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor-a-8614507b-3211-46c8-878f-3458b6b2e61c#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-verlaengert-waffenruhe-mit-kurden-milizen](https://www.spiegel.de/ausland/syrien-verlaengert-waffenruhe-mit-kurden-milizen-a-58fa801e-6b2c-4b2f-940a-dd494df5a9e8#ref=rss)
-### unwahr
-
-* [https://www.spiegel.de/wissenschaft/rueckzug-aus-gesundheitsorganisation-who-chef-nennt-us-gruende-unwahr](https://www.spiegel.de/wissenschaft/rueckzug-aus-gesundheitsorganisation-who-chef-nennt-us-gruende-unwahr-a-e6bf4f0b-d901-473b-8018-9dc23d271dd1#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wissenschaft/rueckzug-aus-gesundheitsorganisation-who-chef-nennt-us-gruende-unwahr](https://www.spiegel.de/wissenschaft/rueckzug-aus-gesundheitsorganisation-who-chef-nennt-us-gruende-unwahr-a-e6bf4f0b-d901-473b-8018-9dc23d271dd1#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik](https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik-a-080673db-fbb5-4d6f-a244-64bd9d99f46c#ref=rss)
-### australian
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein-a-250fa5e7-2a9b-4e09-9acb-228fcdaf1843#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein-a-250fa5e7-2a9b-4e09-9acb-228fcdaf1843#ref=rss)
-### aryna
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein-a-250fa5e7-2a9b-4e09-9acb-228fcdaf1843#ref=rss)
-### sabalenka
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein-a-250fa5e7-2a9b-4e09-9acb-228fcdaf1843#ref=rss)
-### ende
-
-* [https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein-a-250fa5e7-2a9b-4e09-9acb-228fcdaf1843#ref=rss)
-* [https://www.spiegel.de/ausland/albanien-zusammenstoesse-bei-protesten-gegen-premierminister-rama](https://www.spiegel.de/ausland/albanien-zusammenstoesse-bei-protesten-gegen-premierminister-rama-a-3a8605c7-0635-4149-a477-ea14c765cff9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/debatte-ueber-lifestyle-teilzeit-marcel-fratzscher-warnt-vor-einschraenkung-teilzeit-recht](https://www.spiegel.de/wirtschaft/debatte-ueber-lifestyle-teilzeit-marcel-fratzscher-warnt-vor-einschraenkung-teilzeit-recht-a-88e00585-6abb-4a71-affe-e5413c7ed668#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-und-cdu-streiten-ueber-teilzeit-der-kampf-um-die-work-life-balance](https://www.spiegel.de/politik/deutschland/spd-und-cdu-streiten-ueber-teilzeit-der-kampf-um-die-work-life-balance-a-075e1b0b-9eb9-40b7-ac0b-02aa581bc2f4#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik](https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik-a-080673db-fbb5-4d6f-a244-64bd9d99f46c#ref=rss)
-### edi
+* [https://www.spiegel.de/ausland/afd-alice-weidels-naehe-zu-donald-trump-und-die-folgen-kolumne](https://www.spiegel.de/ausland/afd-alice-weidels-naehe-zu-donald-trump-und-die-folgen-kolumne-a-51ee3b2f-18ee-4975-a95a-641df0612804#ref=rss)
+* [https://www.spiegel.de/ausland/minnesota-heimatschutzministerin-verteidigt-ice-schuesse-als-notwehr](https://www.spiegel.de/ausland/minnesota-heimatschutzministerin-verteidigt-ice-schuesse-als-notwehr-a-35d225fd-6155-4a2c-9d46-0b3e82bdff7b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen](https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen-a-fb012e91-d8fe-442c-aa5e-6ab2a1deb34e#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/albanien-zusammenstoesse-bei-protesten-gegen-premierminister-rama](https://www.spiegel.de/ausland/albanien-zusammenstoesse-bei-protesten-gegen-premierminister-rama-a-3a8605c7-0635-4149-a477-ea14c765cff9#ref=rss)
-### rama
+* [https://www.spiegel.de/ausland/afd-alice-weidels-naehe-zu-donald-trump-und-die-folgen-kolumne](https://www.spiegel.de/ausland/afd-alice-weidels-naehe-zu-donald-trump-und-die-folgen-kolumne-a-51ee3b2f-18ee-4975-a95a-641df0612804#ref=rss)
+* [https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen](https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen-a-fb012e91-d8fe-442c-aa5e-6ab2a1deb34e#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2228c87-c667-44f2-a3ce-4c2e2e235aff#ref=rss)
+### minnesota
 
-* [https://www.spiegel.de/ausland/albanien-zusammenstoesse-bei-protesten-gegen-premierminister-rama](https://www.spiegel.de/ausland/albanien-zusammenstoesse-bei-protesten-gegen-premierminister-rama-a-3a8605c7-0635-4149-a477-ea14c765cff9#ref=rss)
+* [https://www.spiegel.de/ausland/minnesota-heimatschutzministerin-verteidigt-ice-schuesse-als-notwehr](https://www.spiegel.de/ausland/minnesota-heimatschutzministerin-verteidigt-ice-schuesse-als-notwehr-a-35d225fd-6155-4a2c-9d46-0b3e82bdff7b#ref=rss)
+* [https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten](https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten-a-0c8d9278-dcfe-4d5a-95ed-9ebeaa138040#ref=rss)
+### usa
+
+* [https://www.spiegel.de/panorama/wintersturm-in-den-usa-hunderttausende-haushalte-bei-eisiger-kaelte-ohne-strom](https://www.spiegel.de/panorama/wintersturm-in-den-usa-hunderttausende-haushalte-bei-eisiger-kaelte-ohne-strom-a-ae543e08-a28c-454c-a68a-414ef2c6a893#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-us-richter-stellt-beweismittel-unter-schutz](https://www.spiegel.de/ausland/minneapolis-us-richter-stellt-beweismittel-unter-schutz-a-533c9f5c-50f4-44d9-9e3b-d83150df1078#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2228c87-c667-44f2-a3ce-4c2e2e235aff#ref=rss)
+### minneapolis
+
+* [https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen](https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen-a-fb012e91-d8fe-442c-aa5e-6ab2a1deb34e#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-us-richter-stellt-beweismittel-unter-schutz](https://www.spiegel.de/ausland/minneapolis-us-richter-stellt-beweismittel-unter-schutz-a-533c9f5c-50f4-44d9-9e3b-d83150df1078#ref=rss)
+* [https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten](https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten-a-0c8d9278-dcfe-4d5a-95ed-9ebeaa138040#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-bremen-wenn-man-nur-einen-retten-koennte-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-bremen-wenn-man-nur-einen-retten-koennte-im-schnellcheck-a-bdf04100-f4fc-4631-a487-a299e07ac7f2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-farbattacke-auf-haus-von-verfassungsschutz-chef-polizei-prueft-bekennerschreiben](https://www.spiegel.de/panorama/justiz/bremen-farbattacke-auf-haus-von-verfassungsschutz-chef-polizei-prueft-bekennerschreiben-a-2db2450b-5269-4eaa-b27a-dec09511be26#ref=rss)
+* [https://www.spiegel.de/panorama/mit-schusswaffe-bedroht-erneut-tankstellenmitarbeiter-entfuehrt](https://www.spiegel.de/panorama/mit-schusswaffe-bedroht-erneut-tankstellenmitarbeiter-entfuehrt-a-6011785b-36b8-4383-b9f2-94f53b27ed50#ref=rss)
+### ich
+
+* [https://www.spiegel.de/ausland/china-abschied-eines-korrespondenten-das-regime-steht-bombenfest](https://www.spiegel.de/ausland/china-abschied-eines-korrespondenten-das-regime-steht-bombenfest-a-0b653e07-092a-41fc-a9c4-8edee76044c5#ref=rss)
+* [https://www.spiegel.de/start/millennial-optimism-warum-sehnt-ihr-euch-in-unsere-jugend-zurueck](https://www.spiegel.de/start/millennial-optimism-warum-sehnt-ihr-euch-in-unsere-jugend-zurueck-a-4f259913-2d2b-471e-8b42-5fee3216fc73#ref=rss)
+* [https://www.spiegel.de/panorama/post-im-laendlichen-raum-ein-brief-wird-kommen-oder-auch-nicht-kolumne](https://www.spiegel.de/panorama/post-im-laendlichen-raum-ein-brief-wird-kommen-oder-auch-nicht-kolumne-a-ee7f6a01-0dea-4b78-83a3-b74f5bb48105#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-edin-dzeko-trifft-in-seinem-ersten-spiel-fuer-schalke-04-gegen-den-1-fc-kaiserlsautern](https://www.spiegel.de/sport/fussball/2-bundesliga-edin-dzeko-trifft-in-seinem-ersten-spiel-fuer-schalke-04-gegen-den-1-fc-kaiserlsautern-a-a1173b76-ac53-47f3-b63e-d16d4ba90678#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/1-fc-magdeburg-dutzende-polizisten-bei-zweitliga-fussballspiel-verletzt](https://www.spiegel.de/panorama/justiz/1-fc-magdeburg-dutzende-polizisten-bei-zweitliga-fussballspiel-verletzt-a-b491a40b-0f23-4e76-9483-f3aabe2ad9ca#ref=rss)
+### skiflugwm
+
+* [https://www.spiegel.de/sport/wintersport/skiflug-wm-in-oberstdorf-domen-prevc-rutschen-vor-dem-start-die-ski-die-schanze-herunter](https://www.spiegel.de/sport/wintersport/skiflug-wm-in-oberstdorf-domen-prevc-rutschen-vor-dem-start-die-ski-die-schanze-herunter-a-b74c9d2c-6b30-4799-8b39-b620c1e26bf4#ref=rss)
+### domen
+
+* [https://www.spiegel.de/sport/wintersport/skiflug-wm-in-oberstdorf-domen-prevc-rutschen-vor-dem-start-die-ski-die-schanze-herunter](https://www.spiegel.de/sport/wintersport/skiflug-wm-in-oberstdorf-domen-prevc-rutschen-vor-dem-start-die-ski-die-schanze-herunter-a-b74c9d2c-6b30-4799-8b39-b620c1e26bf4#ref=rss)
+### prevc
+
+* [https://www.spiegel.de/sport/wintersport/skiflug-wm-in-oberstdorf-domen-prevc-rutschen-vor-dem-start-die-ski-die-schanze-herunter](https://www.spiegel.de/sport/wintersport/skiflug-wm-in-oberstdorf-domen-prevc-rutschen-vor-dem-start-die-ski-die-schanze-herunter-a-b74c9d2c-6b30-4799-8b39-b620c1e26bf4#ref=rss)
+### heino
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-vertrauter-heino-wiese-der-letzte-freund](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-vertrauter-heino-wiese-der-letzte-freund-a-0566e035-ee95-41f9-86c0-3a7d9e2784e7#ref=rss)
+### wiese
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-vertrauter-heino-wiese-der-letzte-freund](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-vertrauter-heino-wiese-der-letzte-freund-a-0566e035-ee95-41f9-86c0-3a7d9e2784e7#ref=rss)
+### marcel
+
+* [https://www.spiegel.de/wirtschaft/debatte-ueber-lifestyle-teilzeit-marcel-fratzscher-warnt-vor-einschraenkung-teilzeit-recht](https://www.spiegel.de/wirtschaft/debatte-ueber-lifestyle-teilzeit-marcel-fratzscher-warnt-vor-einschraenkung-teilzeit-recht-a-88e00585-6abb-4a71-affe-e5413c7ed668#ref=rss)
+### fratzscher
+
+* [https://www.spiegel.de/wirtschaft/debatte-ueber-lifestyle-teilzeit-marcel-fratzscher-warnt-vor-einschraenkung-teilzeit-recht](https://www.spiegel.de/wirtschaft/debatte-ueber-lifestyle-teilzeit-marcel-fratzscher-warnt-vor-einschraenkung-teilzeit-recht-a-88e00585-6abb-4a71-affe-e5413c7ed668#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/debatte-ueber-lifestyle-teilzeit-marcel-fratzscher-warnt-vor-einschraenkung-teilzeit-recht](https://www.spiegel.de/wirtschaft/debatte-ueber-lifestyle-teilzeit-marcel-fratzscher-warnt-vor-einschraenkung-teilzeit-recht-a-88e00585-6abb-4a71-affe-e5413c7ed668#ref=rss)
+* [https://www.spiegel.de/panorama/mit-schusswaffe-bedroht-erneut-tankstellenmitarbeiter-entfuehrt](https://www.spiegel.de/panorama/mit-schusswaffe-bedroht-erneut-tankstellenmitarbeiter-entfuehrt-a-6011785b-36b8-4383-b9f2-94f53b27ed50#ref=rss)
+### alice
+
+* [https://www.spiegel.de/ausland/afd-alice-weidels-naehe-zu-donald-trump-und-die-folgen-kolumne](https://www.spiegel.de/ausland/afd-alice-weidels-naehe-zu-donald-trump-und-die-folgen-kolumne-a-51ee3b2f-18ee-4975-a95a-641df0612804#ref=rss)
+### kolumne
+
+* [https://www.spiegel.de/ausland/afd-alice-weidels-naehe-zu-donald-trump-und-die-folgen-kolumne](https://www.spiegel.de/ausland/afd-alice-weidels-naehe-zu-donald-trump-und-die-folgen-kolumne-a-51ee3b2f-18ee-4975-a95a-641df0612804#ref=rss)
+* [https://www.spiegel.de/panorama/post-im-laendlichen-raum-ein-brief-wird-kommen-oder-auch-nicht-kolumne](https://www.spiegel.de/panorama/post-im-laendlichen-raum-ein-brief-wird-kommen-oder-auch-nicht-kolumne-a-ee7f6a01-0dea-4b78-83a3-b74f5bb48105#ref=rss)
+### schwerer
+
+* [https://www.spiegel.de/ausland/afd-alice-weidels-naehe-zu-donald-trump-und-die-folgen-kolumne](https://www.spiegel.de/ausland/afd-alice-weidels-naehe-zu-donald-trump-und-die-folgen-kolumne-a-51ee3b2f-18ee-4975-a95a-641df0612804#ref=rss)
+* [https://www.spiegel.de/sport/jules-verne-trophaee-franzose-thomas-coville-knackt-rekord-fuer-schnellste-weltumsegelung](https://www.spiegel.de/sport/jules-verne-trophaee-franzose-thomas-coville-knackt-rekord-fuer-schnellste-weltumsegelung-a-cf8cd6f0-db36-4939-8114-7f96b4b4a2c5#ref=rss)
+### uns
+
+* [https://www.spiegel.de/ausland/afd-alice-weidels-naehe-zu-donald-trump-und-die-folgen-kolumne](https://www.spiegel.de/ausland/afd-alice-weidels-naehe-zu-donald-trump-und-die-folgen-kolumne-a-51ee3b2f-18ee-4975-a95a-641df0612804#ref=rss)
+* [https://www.spiegel.de/panorama/post-im-laendlichen-raum-ein-brief-wird-kommen-oder-auch-nicht-kolumne](https://www.spiegel.de/panorama/post-im-laendlichen-raum-ein-brief-wird-kommen-oder-auch-nicht-kolumne-a-ee7f6a01-0dea-4b78-83a3-b74f5bb48105#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/ausland/afd-alice-weidels-naehe-zu-donald-trump-und-die-folgen-kolumne](https://www.spiegel.de/ausland/afd-alice-weidels-naehe-zu-donald-trump-und-die-folgen-kolumne-a-51ee3b2f-18ee-4975-a95a-641df0612804#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/indien-neuer-handelspakt-mit-der-eu-soll-zoelle-auf-bestimmte-autos-dramatisch-senken](https://www.spiegel.de/wirtschaft/unternehmen/indien-neuer-handelspakt-mit-der-eu-soll-zoelle-auf-bestimmte-autos-dramatisch-senken-a-860924c1-d560-4bff-b7a1-f17d8052a8ba#ref=rss)
+### heimatschutzministerin
+
+* [https://www.spiegel.de/ausland/minnesota-heimatschutzministerin-verteidigt-ice-schuesse-als-notwehr](https://www.spiegel.de/ausland/minnesota-heimatschutzministerin-verteidigt-ice-schuesse-als-notwehr-a-35d225fd-6155-4a2c-9d46-0b3e82bdff7b#ref=rss)
+### vorgehen
+
+* [https://www.spiegel.de/ausland/minnesota-heimatschutzministerin-verteidigt-ice-schuesse-als-notwehr](https://www.spiegel.de/ausland/minnesota-heimatschutzministerin-verteidigt-ice-schuesse-als-notwehr-a-35d225fd-6155-4a2c-9d46-0b3e82bdff7b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/japans-regierungschefin-will-gegen-aussergewoehnliche-marktbewegungen-vorgehen](https://www.spiegel.de/wirtschaft/japans-regierungschefin-will-gegen-aussergewoehnliche-marktbewegungen-vorgehen-a-c1325522-bd7c-4b5d-9d33-1c5be1d714cd#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/spd-und-cdu-streiten-ueber-teilzeit-der-kampf-um-die-work-life-balance](https://www.spiegel.de/politik/deutschland/spd-und-cdu-streiten-ueber-teilzeit-der-kampf-um-die-work-life-balance-a-075e1b0b-9eb9-40b7-ac0b-02aa581bc2f4#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/spd-und-cdu-streiten-ueber-teilzeit-der-kampf-um-die-work-life-balance](https://www.spiegel.de/politik/deutschland/spd-und-cdu-streiten-ueber-teilzeit-der-kampf-um-die-work-life-balance-a-075e1b0b-9eb9-40b7-ac0b-02aa581bc2f4#ref=rss)
+### ziel
+
+* [https://www.spiegel.de/politik/deutschland/spd-und-cdu-streiten-ueber-teilzeit-der-kampf-um-die-work-life-balance](https://www.spiegel.de/politik/deutschland/spd-und-cdu-streiten-ueber-teilzeit-der-kampf-um-die-work-life-balance-a-075e1b0b-9eb9-40b7-ac0b-02aa581bc2f4#ref=rss)
+* [https://www.spiegel.de/sport/jules-verne-trophaee-franzose-thomas-coville-knackt-rekord-fuer-schnellste-weltumsegelung](https://www.spiegel.de/sport/jules-verne-trophaee-franzose-thomas-coville-knackt-rekord-fuer-schnellste-weltumsegelung-a-cf8cd6f0-db36-4939-8114-7f96b4b4a2c5#ref=rss)
+### vfb
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-siegt-souveraen-in-moenchengladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-siegt-souveraen-in-moenchengladbach-a-9de24f2e-f7ae-4b89-846f-c152d3d28fa6#ref=rss)
+### stuttgart
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-siegt-souveraen-in-moenchengladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-siegt-souveraen-in-moenchengladbach-a-9de24f2e-f7ae-4b89-846f-c152d3d28fa6#ref=rss)
+### mönchengladbach
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-siegt-souveraen-in-moenchengladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-siegt-souveraen-in-moenchengladbach-a-9de24f2e-f7ae-4b89-846f-c152d3d28fa6#ref=rss)
+### haushalte
+
+* [https://www.spiegel.de/panorama/wintersturm-in-den-usa-hunderttausende-haushalte-bei-eisiger-kaelte-ohne-strom](https://www.spiegel.de/panorama/wintersturm-in-den-usa-hunderttausende-haushalte-bei-eisiger-kaelte-ohne-strom-a-ae543e08-a28c-454c-a68a-414ef2c6a893#ref=rss)
+### strom
+
+* [https://www.spiegel.de/panorama/wintersturm-in-den-usa-hunderttausende-haushalte-bei-eisiger-kaelte-ohne-strom](https://www.spiegel.de/panorama/wintersturm-in-den-usa-hunderttausende-haushalte-bei-eisiger-kaelte-ohne-strom-a-ae543e08-a28c-454c-a68a-414ef2c6a893#ref=rss)
+### olivia
+
+* [https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen](https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen-a-fb012e91-d8fe-442c-aa5e-6ab2a1deb34e#ref=rss)
+### wilde
+
+* [https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen](https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen-a-fb012e91-d8fe-442c-aa5e-6ab2a1deb34e#ref=rss)
+### ice
+
+* [https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen](https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen-a-fb012e91-d8fe-442c-aa5e-6ab2a1deb34e#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2228c87-c667-44f2-a3ce-4c2e2e235aff#ref=rss)
+### tödlichen
+
+* [https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen](https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen-a-fb012e91-d8fe-442c-aa5e-6ab2a1deb34e#ref=rss)
+### schüssen
+
+* [https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen](https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen-a-fb012e91-d8fe-442c-aa5e-6ab2a1deb34e#ref=rss)
+### berühmte
+
+* [https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen](https://www.spiegel.de/kultur/kino/olivia-wilde-schauspielerin-kritisiert-ice-nach-toedlichen-schuessen-a-fb012e91-d8fe-442c-aa5e-6ab2a1deb34e#ref=rss)
+* [https://www.spiegel.de/kultur/kino/american-pie-jason-biggs-zeigt-seinem-sohn-die-beruehmte-apfelkuchenszene](https://www.spiegel.de/kultur/kino/american-pie-jason-biggs-zeigt-seinem-sohn-die-beruehmte-apfelkuchenszene-a-60f5f98e-7fef-47a5-baf1-04e00972d6de#ref=rss)
+### gen
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-bremen-wenn-man-nur-einen-retten-koennte-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-bremen-wenn-man-nur-einen-retten-koennte-im-schnellcheck-a-bdf04100-f4fc-4631-a487-a299e07ac7f2#ref=rss)
+* [https://www.spiegel.de/start/millennial-optimism-warum-sehnt-ihr-euch-in-unsere-jugend-zurueck](https://www.spiegel.de/start/millennial-optimism-warum-sehnt-ihr-euch-in-unsere-jugend-zurueck-a-4f259913-2d2b-471e-8b42-5fee3216fc73#ref=rss)
+### z
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-bremen-wenn-man-nur-einen-retten-koennte-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-bremen-wenn-man-nur-einen-retten-koennte-im-schnellcheck-a-bdf04100-f4fc-4631-a487-a299e07ac7f2#ref=rss)
+* [https://www.spiegel.de/start/millennial-optimism-warum-sehnt-ihr-euch-in-unsere-jugend-zurueck](https://www.spiegel.de/start/millennial-optimism-warum-sehnt-ihr-euch-in-unsere-jugend-zurueck-a-4f259913-2d2b-471e-8b42-5fee3216fc73#ref=rss)
+### bremer
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-bremen-wenn-man-nur-einen-retten-koennte-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-bremen-wenn-man-nur-einen-retten-koennte-im-schnellcheck-a-bdf04100-f4fc-4631-a487-a299e07ac7f2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bremen-farbattacke-auf-haus-von-verfassungsschutz-chef-polizei-prueft-bekennerschreiben](https://www.spiegel.de/panorama/justiz/bremen-farbattacke-auf-haus-von-verfassungsschutz-chef-polizei-prueft-bekennerschreiben-a-2db2450b-5269-4eaa-b27a-dec09511be26#ref=rss)
+### farbattacke
+
+* [https://www.spiegel.de/panorama/justiz/bremen-farbattacke-auf-haus-von-verfassungsschutz-chef-polizei-prueft-bekennerschreiben](https://www.spiegel.de/panorama/justiz/bremen-farbattacke-auf-haus-von-verfassungsschutz-chef-polizei-prueft-bekennerschreiben-a-2db2450b-5269-4eaa-b27a-dec09511be26#ref=rss)
+### unbekannte
+
+* [https://www.spiegel.de/panorama/justiz/bremen-farbattacke-auf-haus-von-verfassungsschutz-chef-polizei-prueft-bekennerschreiben](https://www.spiegel.de/panorama/justiz/bremen-farbattacke-auf-haus-von-verfassungsschutz-chef-polizei-prueft-bekennerschreiben-a-2db2450b-5269-4eaa-b27a-dec09511be26#ref=rss)
+* [https://www.spiegel.de/panorama/mit-schusswaffe-bedroht-erneut-tankstellenmitarbeiter-entfuehrt](https://www.spiegel.de/panorama/mit-schusswaffe-bedroht-erneut-tankstellenmitarbeiter-entfuehrt-a-6011785b-36b8-4383-b9f2-94f53b27ed50#ref=rss)
+### american
+
+* [https://www.spiegel.de/kultur/kino/american-pie-jason-biggs-zeigt-seinem-sohn-die-beruehmte-apfelkuchenszene](https://www.spiegel.de/kultur/kino/american-pie-jason-biggs-zeigt-seinem-sohn-die-beruehmte-apfelkuchenszene-a-60f5f98e-7fef-47a5-baf1-04e00972d6de#ref=rss)
+### pie
+
+* [https://www.spiegel.de/kultur/kino/american-pie-jason-biggs-zeigt-seinem-sohn-die-beruehmte-apfelkuchenszene](https://www.spiegel.de/kultur/kino/american-pie-jason-biggs-zeigt-seinem-sohn-die-beruehmte-apfelkuchenszene-a-60f5f98e-7fef-47a5-baf1-04e00972d6de#ref=rss)
+### jason
+
+* [https://www.spiegel.de/kultur/kino/american-pie-jason-biggs-zeigt-seinem-sohn-die-beruehmte-apfelkuchenszene](https://www.spiegel.de/kultur/kino/american-pie-jason-biggs-zeigt-seinem-sohn-die-beruehmte-apfelkuchenszene-a-60f5f98e-7fef-47a5-baf1-04e00972d6de#ref=rss)
+### biggs
+
+* [https://www.spiegel.de/kultur/kino/american-pie-jason-biggs-zeigt-seinem-sohn-die-beruehmte-apfelkuchenszene](https://www.spiegel.de/kultur/kino/american-pie-jason-biggs-zeigt-seinem-sohn-die-beruehmte-apfelkuchenszene-a-60f5f98e-7fef-47a5-baf1-04e00972d6de#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/kultur/kino/american-pie-jason-biggs-zeigt-seinem-sohn-die-beruehmte-apfelkuchenszene](https://www.spiegel.de/kultur/kino/american-pie-jason-biggs-zeigt-seinem-sohn-die-beruehmte-apfelkuchenszene-a-60f5f98e-7fef-47a5-baf1-04e00972d6de#ref=rss)
+### indien
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/indien-neuer-handelspakt-mit-der-eu-soll-zoelle-auf-bestimmte-autos-dramatisch-senken](https://www.spiegel.de/wirtschaft/unternehmen/indien-neuer-handelspakt-mit-der-eu-soll-zoelle-auf-bestimmte-autos-dramatisch-senken-a-860924c1-d560-4bff-b7a1-f17d8052a8ba#ref=rss)
+### handelspakt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/indien-neuer-handelspakt-mit-der-eu-soll-zoelle-auf-bestimmte-autos-dramatisch-senken](https://www.spiegel.de/wirtschaft/unternehmen/indien-neuer-handelspakt-mit-der-eu-soll-zoelle-auf-bestimmte-autos-dramatisch-senken-a-860924c1-d560-4bff-b7a1-f17d8052a8ba#ref=rss)
+### eu
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/indien-neuer-handelspakt-mit-der-eu-soll-zoelle-auf-bestimmte-autos-dramatisch-senken](https://www.spiegel.de/wirtschaft/unternehmen/indien-neuer-handelspakt-mit-der-eu-soll-zoelle-auf-bestimmte-autos-dramatisch-senken-a-860924c1-d560-4bff-b7a1-f17d8052a8ba#ref=rss)
+### zölle
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/indien-neuer-handelspakt-mit-der-eu-soll-zoelle-auf-bestimmte-autos-dramatisch-senken](https://www.spiegel.de/wirtschaft/unternehmen/indien-neuer-handelspakt-mit-der-eu-soll-zoelle-auf-bestimmte-autos-dramatisch-senken-a-860924c1-d560-4bff-b7a1-f17d8052a8ba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/vw-chef-blume-knuepft-investitionen-an-entlastung-bei-zoellen](https://www.spiegel.de/wirtschaft/vw-chef-blume-knuepft-investitionen-an-entlastung-bei-zoellen-a-85a1e3ef-6a66-4f3f-9c7a-a736ef1399b6#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/kultur/kino/alexander-skarsgard-scherzt-ueber-schmierkampagne-gegen-seinen-vater](https://www.spiegel.de/kultur/kino/alexander-skarsgard-scherzt-ueber-schmierkampagne-gegen-seinen-vater-a-defabdc8-5823-4da4-86c7-5dd2a0410aac#ref=rss)
+### skarsgård
+
+* [https://www.spiegel.de/kultur/kino/alexander-skarsgard-scherzt-ueber-schmierkampagne-gegen-seinen-vater](https://www.spiegel.de/kultur/kino/alexander-skarsgard-scherzt-ueber-schmierkampagne-gegen-seinen-vater-a-defabdc8-5823-4da4-86c7-5dd2a0410aac#ref=rss)
+### darüber
+
+* [https://www.spiegel.de/kultur/kino/alexander-skarsgard-scherzt-ueber-schmierkampagne-gegen-seinen-vater](https://www.spiegel.de/kultur/kino/alexander-skarsgard-scherzt-ueber-schmierkampagne-gegen-seinen-vater-a-defabdc8-5823-4da4-86c7-5dd2a0410aac#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2228c87-c667-44f2-a3ce-4c2e2e235aff#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland](https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland-a-f12e96a8-125f-4071-aece-820998a03e41#ref=rss)
+* [https://www.spiegel.de/ausland/china-abschied-eines-korrespondenten-das-regime-steht-bombenfest](https://www.spiegel.de/ausland/china-abschied-eines-korrespondenten-das-regime-steht-bombenfest-a-0b653e07-092a-41fc-a9c4-8edee76044c5#ref=rss)
+### peking
+
+* [https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland](https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland-a-f12e96a8-125f-4071-aece-820998a03e41#ref=rss)
+### himmel
+
+* [https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland](https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland-a-f12e96a8-125f-4071-aece-820998a03e41#ref=rss)
+### blau
+
+* [https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland](https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland-a-f12e96a8-125f-4071-aece-820998a03e41#ref=rss)
+### frieren
+
+* [https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland](https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland-a-f12e96a8-125f-4071-aece-820998a03e41#ref=rss)
+### leute
+
+* [https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland](https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland-a-f12e96a8-125f-4071-aece-820998a03e41#ref=rss)
+### umland
+
+* [https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland](https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland-a-f12e96a8-125f-4071-aece-820998a03e41#ref=rss)
+### dürfen
+
+* [https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland](https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland-a-f12e96a8-125f-4071-aece-820998a03e41#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-us-richter-stellt-beweismittel-unter-schutz](https://www.spiegel.de/ausland/minneapolis-us-richter-stellt-beweismittel-unter-schutz-a-533c9f5c-50f4-44d9-9e3b-d83150df1078#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland](https://www.spiegel.de/ausland/kohle-aus-in-china-in-peking-ist-der-himmel-blau-dafuer-frieren-die-leute-im-umland-a-f12e96a8-125f-4071-aece-820998a03e41#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-mehr-verbraucher-aergern-sich-ueber-verbotene-werbeanrufe](https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-mehr-verbraucher-aergern-sich-ueber-verbotene-werbeanrufe-a-3222b1c3-d418-4f7d-a9ff-5a756322c666#ref=rss)
+### linus
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-wird-dritter-in-kitzbuehel-manuel-feller-gewinnt](https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-wird-dritter-in-kitzbuehel-manuel-feller-gewinnt-a-f18b0653-fb3c-463f-bc05-ec4f88a20c65#ref=rss)
+### straßer
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-wird-dritter-in-kitzbuehel-manuel-feller-gewinnt](https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-wird-dritter-in-kitzbuehel-manuel-feller-gewinnt-a-f18b0653-fb3c-463f-bc05-ec4f88a20c65#ref=rss)
+### kitzbühel
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-wird-dritter-in-kitzbuehel-manuel-feller-gewinnt](https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-wird-dritter-in-kitzbuehel-manuel-feller-gewinnt-a-f18b0653-fb3c-463f-bc05-ec4f88a20c65#ref=rss)
+### manuel
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-wird-dritter-in-kitzbuehel-manuel-feller-gewinnt](https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-wird-dritter-in-kitzbuehel-manuel-feller-gewinnt-a-f18b0653-fb3c-463f-bc05-ec4f88a20c65#ref=rss)
+### feller
+
+* [https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-wird-dritter-in-kitzbuehel-manuel-feller-gewinnt](https://www.spiegel.de/sport/wintersport/ski-alpin-linus-strasser-wird-dritter-in-kitzbuehel-manuel-feller-gewinnt-a-f18b0653-fb3c-463f-bc05-ec4f88a20c65#ref=rss)
+### edin
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-edin-dzeko-trifft-in-seinem-ersten-spiel-fuer-schalke-04-gegen-den-1-fc-kaiserlsautern](https://www.spiegel.de/sport/fussball/2-bundesliga-edin-dzeko-trifft-in-seinem-ersten-spiel-fuer-schalke-04-gegen-den-1-fc-kaiserlsautern-a-a1173b76-ac53-47f3-b63e-d16d4ba90678#ref=rss)
+### džeko
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-edin-dzeko-trifft-in-seinem-ersten-spiel-fuer-schalke-04-gegen-den-1-fc-kaiserlsautern](https://www.spiegel.de/sport/fussball/2-bundesliga-edin-dzeko-trifft-in-seinem-ersten-spiel-fuer-schalke-04-gegen-den-1-fc-kaiserlsautern-a-a1173b76-ac53-47f3-b63e-d16d4ba90678#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-edin-dzeko-trifft-in-seinem-ersten-spiel-fuer-schalke-04-gegen-den-1-fc-kaiserlsautern](https://www.spiegel.de/sport/fussball/2-bundesliga-edin-dzeko-trifft-in-seinem-ersten-spiel-fuer-schalke-04-gegen-den-1-fc-kaiserlsautern-a-a1173b76-ac53-47f3-b63e-d16d4ba90678#ref=rss)
+### schalke
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-edin-dzeko-trifft-in-seinem-ersten-spiel-fuer-schalke-04-gegen-den-1-fc-kaiserlsautern](https://www.spiegel.de/sport/fussball/2-bundesliga-edin-dzeko-trifft-in-seinem-ersten-spiel-fuer-schalke-04-gegen-den-1-fc-kaiserlsautern-a-a1173b76-ac53-47f3-b63e-d16d4ba90678#ref=rss)
+### demokratien
+
+* [https://www.spiegel.de/geschichte/niedergang-des-parlamentarismus-warum-demokratien-sterben](https://www.spiegel.de/geschichte/niedergang-des-parlamentarismus-warum-demokratien-sterben-a-c69810c2-2f43-4639-9f71-c2d596a6ebd0#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/geschichte/niedergang-des-parlamentarismus-warum-demokratien-sterben](https://www.spiegel.de/geschichte/niedergang-des-parlamentarismus-warum-demokratien-sterben-a-c69810c2-2f43-4639-9f71-c2d596a6ebd0#ref=rss)
+* [https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten](https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten-a-0c8d9278-dcfe-4d5a-95ed-9ebeaa138040#ref=rss)
+### werbeanrufe
+
+* [https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-mehr-verbraucher-aergern-sich-ueber-verbotene-werbeanrufe](https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-mehr-verbraucher-aergern-sich-ueber-verbotene-werbeanrufe-a-3222b1c3-d418-4f7d-a9ff-5a756322c666#ref=rss)
+### fast
+
+* [https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-mehr-verbraucher-aergern-sich-ueber-verbotene-werbeanrufe](https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-mehr-verbraucher-aergern-sich-ueber-verbotene-werbeanrufe-a-3222b1c3-d418-4f7d-a9ff-5a756322c666#ref=rss)
+* [https://www.spiegel.de/panorama/post-im-laendlichen-raum-ein-brief-wird-kommen-oder-auch-nicht-kolumne](https://www.spiegel.de/panorama/post-im-laendlichen-raum-ein-brief-wird-kommen-oder-auch-nicht-kolumne-a-ee7f6a01-0dea-4b78-83a3-b74f5bb48105#ref=rss)
+### magdeburg
+
+* [https://www.spiegel.de/panorama/justiz/1-fc-magdeburg-dutzende-polizisten-bei-zweitliga-fussballspiel-verletzt](https://www.spiegel.de/panorama/justiz/1-fc-magdeburg-dutzende-polizisten-bei-zweitliga-fussballspiel-verletzt-a-b491a40b-0f23-4e76-9483-f3aabe2ad9ca#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/panorama/justiz/1-fc-magdeburg-dutzende-polizisten-bei-zweitliga-fussballspiel-verletzt](https://www.spiegel.de/panorama/justiz/1-fc-magdeburg-dutzende-polizisten-bei-zweitliga-fussballspiel-verletzt-a-b491a40b-0f23-4e76-9483-f3aabe2ad9ca#ref=rss)
+### plaßmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2228c87-c667-44f2-a3ce-4c2e2e235aff#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2228c87-c667-44f2-a3ce-4c2e2e235aff#ref=rss)
+### stuttmann
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2228c87-c667-44f2-a3ce-4c2e2e235aff#ref=rss)
+### miriam
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2228c87-c667-44f2-a3ce-4c2e2e235aff#ref=rss)
+### wurster
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-miriam-wurster-a-b2228c87-c667-44f2-a3ce-4c2e2e235aff#ref=rss)
+### coville
+
+* [https://www.spiegel.de/sport/jules-verne-trophaee-franzose-thomas-coville-knackt-rekord-fuer-schnellste-weltumsegelung](https://www.spiegel.de/sport/jules-verne-trophaee-franzose-thomas-coville-knackt-rekord-fuer-schnellste-weltumsegelung-a-cf8cd6f0-db36-4939-8114-7f96b4b4a2c5#ref=rss)
+### millennial
+
+* [https://www.spiegel.de/start/millennial-optimism-warum-sehnt-ihr-euch-in-unsere-jugend-zurueck](https://www.spiegel.de/start/millennial-optimism-warum-sehnt-ihr-euch-in-unsere-jugend-zurueck-a-4f259913-2d2b-471e-8b42-5fee3216fc73#ref=rss)
+### blume
+
+* [https://www.spiegel.de/wirtschaft/vw-chef-blume-knuepft-investitionen-an-entlastung-bei-zoellen](https://www.spiegel.de/wirtschaft/vw-chef-blume-knuepft-investitionen-an-entlastung-bei-zoellen-a-85a1e3ef-6a66-4f3f-9c7a-a736ef1399b6#ref=rss)
+### brief
+
+* [https://www.spiegel.de/panorama/post-im-laendlichen-raum-ein-brief-wird-kommen-oder-auch-nicht-kolumne](https://www.spiegel.de/panorama/post-im-laendlichen-raum-ein-brief-wird-kommen-oder-auch-nicht-kolumne-a-ee7f6a01-0dea-4b78-83a3-b74f5bb48105#ref=rss)
+* [https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten](https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten-a-0c8d9278-dcfe-4d5a-95ed-9ebeaa138040#ref=rss)
+### mich
+
+* [https://www.spiegel.de/panorama/post-im-laendlichen-raum-ein-brief-wird-kommen-oder-auch-nicht-kolumne](https://www.spiegel.de/panorama/post-im-laendlichen-raum-ein-brief-wird-kommen-oder-auch-nicht-kolumne-a-ee7f6a01-0dea-4b78-83a3-b74f5bb48105#ref=rss)
+### usjustizministerin
+
+* [https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten](https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten-a-0c8d9278-dcfe-4d5a-95ed-9ebeaa138040#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten](https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten-a-0c8d9278-dcfe-4d5a-95ed-9ebeaa138040#ref=rss)
+### herausgabe
+
+* [https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten](https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten-a-0c8d9278-dcfe-4d5a-95ed-9ebeaa138040#ref=rss)
+### sensibler
+
+* [https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten](https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten-a-0c8d9278-dcfe-4d5a-95ed-9ebeaa138040#ref=rss)
+### wählerdaten
+
+* [https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten](https://www.spiegel.de/ausland/minnesota-us-justizministerin-gibt-tim-walz-mitschuld-an-der-gewalt-und-fordert-herausgabe-sensibler-waehlerdaten-a-0c8d9278-dcfe-4d5a-95ed-9ebeaa138040#ref=rss)
 
