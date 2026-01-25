@@ -4,319 +4,318 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
-
-* [https://www.spiegel.de/ausland/usa-bundesbeamte-sollen-auf-mann-in-minneapolis-geschossen-haben](https://www.spiegel.de/ausland/usa-bundesbeamte-sollen-auf-mann-in-minneapolis-geschossen-haben-a-802a707e-4519-485b-a58f-11364c692331#ref=rss)
-* [https://www.spiegel.de/panorama/lufthansa-streicht-fluege-an-die-ostkueste-der-usa](https://www.spiegel.de/panorama/lufthansa-streicht-fluege-an-die-ostkueste-der-usa-a-fa51ec40-08e9-4a57-b596-5477cb73557d#ref=rss)
-* [https://www.spiegel.de/netzwelt/eurostack-initiatorin-francesca-bria-so-wird-der-deutsche-staat-digital-unabhaengig](https://www.spiegel.de/netzwelt/eurostack-initiatorin-francesca-bria-so-wird-der-deutsche-staat-digital-unabhaengig-a-02e4678c-a460-4acd-90e4-9ca6a820e64b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht](https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht-a-67a6866e-f10a-4595-9ff5-10068e2a842c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/pistorius-verteidigt-die-bundeswehr-gegen-kritik-von-trump](https://www.spiegel.de/politik/deutschland/pistorius-verteidigt-die-bundeswehr-gegen-kritik-von-trump-a-02d98229-00a9-4032-b95d-4bf423905d9f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/usa-kalifornien-will-weiter-mit-der-who-kooperieren](https://www.spiegel.de/wissenschaft/usa-kalifornien-will-weiter-mit-der-who-kooperieren-a-50833269-b91e-4321-bdf6-e18c99bc88ae#ref=rss)
-* [https://www.spiegel.de/ausland/usa-tausende-demonstrieren-beim-marsch-fuer-das-leben-in-washington-gegen-abtreibung](https://www.spiegel.de/ausland/usa-tausende-demonstrieren-beim-marsch-fuer-das-leben-in-washington-gegen-abtreibung-a-35d83cc8-e430-48f5-a322-00e1cc1ae9af#ref=rss)
-### trump
-
-* [https://www.spiegel.de/kultur/musik/donald-trump-bleibt-super-bowl-fern-und-kritisiert-bad-bunny](https://www.spiegel.de/kultur/musik/donald-trump-bleibt-super-bowl-fern-und-kritisiert-bad-bunny-a-cb4dd8c5-9e46-4e79-85b2-0087e15ce330#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/pistorius-verteidigt-die-bundeswehr-gegen-kritik-von-trump](https://www.spiegel.de/politik/deutschland/pistorius-verteidigt-die-bundeswehr-gegen-kritik-von-trump-a-02d98229-00a9-4032-b95d-4bf423905d9f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/usa-kalifornien-will-weiter-mit-der-who-kooperieren](https://www.spiegel.de/wissenschaft/usa-kalifornien-will-weiter-mit-der-who-kooperieren-a-50833269-b91e-4321-bdf6-e18c99bc88ae#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-droht-kanada-mit-100-prozent-zoellen](https://www.spiegel.de/wirtschaft/soziales/donald-trump-droht-kanada-mit-100-prozent-zoellen-a-73bbb51e-439a-45af-b344-401770fbd1af#ref=rss)
-* [https://www.spiegel.de/politik/us-praesident-warum-trump-bald-geschichte-sein-wird](https://www.spiegel.de/politik/us-praesident-warum-trump-bald-geschichte-sein-wird-a-29b76be8-79ac-4fc0-959c-a6a6c0f6d813#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/politik/deutschland/pistorius-verteidigt-die-bundeswehr-gegen-kritik-von-trump](https://www.spiegel.de/politik/deutschland/pistorius-verteidigt-die-bundeswehr-gegen-kritik-von-trump-a-02d98229-00a9-4032-b95d-4bf423905d9f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-droht-kanada-mit-100-prozent-zoellen](https://www.spiegel.de/wirtschaft/soziales/donald-trump-droht-kanada-mit-100-prozent-zoellen-a-73bbb51e-439a-45af-b344-401770fbd1af#ref=rss)
-* [https://www.spiegel.de/politik/us-praesident-warum-trump-bald-geschichte-sein-wird](https://www.spiegel.de/politik/us-praesident-warum-trump-bald-geschichte-sein-wird-a-29b76be8-79ac-4fc0-959c-a6a6c0f6d813#ref=rss)
-### donald
-
-* [https://www.spiegel.de/kultur/musik/donald-trump-bleibt-super-bowl-fern-und-kritisiert-bad-bunny](https://www.spiegel.de/kultur/musik/donald-trump-bleibt-super-bowl-fern-und-kritisiert-bad-bunny-a-cb4dd8c5-9e46-4e79-85b2-0087e15ce330#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/donald-trump-droht-kanada-mit-100-prozent-zoellen](https://www.spiegel.de/wirtschaft/soziales/donald-trump-droht-kanada-mit-100-prozent-zoellen-a-73bbb51e-439a-45af-b344-401770fbd1af#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/usa-bundesbeamte-sollen-auf-mann-in-minneapolis-geschossen-haben](https://www.spiegel.de/ausland/usa-bundesbeamte-sollen-auf-mann-in-minneapolis-geschossen-haben-a-802a707e-4519-485b-a58f-11364c692331#ref=rss)
-* [https://www.spiegel.de/gesundheit/influenza-ist-diese-grippewelle-ungewoehnlich-frau-gabriel](https://www.spiegel.de/gesundheit/influenza-ist-diese-grippewelle-ungewoehnlich-frau-gabriel-a-d6fb92d7-3989-4727-ae97-4c19b572e7bb#ref=rss)
-* [https://www.spiegel.de/panorama/mindestens-acht-tote-und-dutzende-vermisste-nach-erdrutsch-in-indonesien](https://www.spiegel.de/panorama/mindestens-acht-tote-und-dutzende-vermisste-nach-erdrutsch-in-indonesien-a-a9ef973a-f588-4798-ab97-4de0677a5f3a#ref=rss)
-### flüge
-
-* [https://www.spiegel.de/panorama/lufthansa-streicht-fluege-an-die-ostkueste-der-usa](https://www.spiegel.de/panorama/lufthansa-streicht-fluege-an-die-ostkueste-der-usa-a-fa51ec40-08e9-4a57-b596-5477cb73557d#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/lufthansa-streicht-fluege-an-die-ostkueste-der-usa](https://www.spiegel.de/panorama/lufthansa-streicht-fluege-an-die-ostkueste-der-usa-a-fa51ec40-08e9-4a57-b596-5477cb73557d#ref=rss)
-* [https://www.spiegel.de/netzwelt/eurostack-initiatorin-francesca-bria-so-wird-der-deutsche-staat-digital-unabhaengig](https://www.spiegel.de/netzwelt/eurostack-initiatorin-francesca-bria-so-wird-der-deutsche-staat-digital-unabhaengig-a-02e4678c-a460-4acd-90e4-9ca6a820e64b#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr-a-06e4b584-cfc7-40af-9ef1-81308525b73f#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/netzwelt/eurostack-initiatorin-francesca-bria-so-wird-der-deutsche-staat-digital-unabhaengig](https://www.spiegel.de/netzwelt/eurostack-initiatorin-francesca-bria-so-wird-der-deutsche-staat-digital-unabhaengig-a-02e4678c-a460-4acd-90e4-9ca6a820e64b#ref=rss)
-* [https://www.spiegel.de/gesundheit/influenza-ist-diese-grippewelle-ungewoehnlich-frau-gabriel](https://www.spiegel.de/gesundheit/influenza-ist-diese-grippewelle-ungewoehnlich-frau-gabriel-a-d6fb92d7-3989-4727-ae97-4c19b572e7bb#ref=rss)
-* [https://www.spiegel.de/panorama/leute/fans-frustriert-ueber-harry-styles-tour-nun-aeussert-sich-sein-label](https://www.spiegel.de/panorama/leute/fans-frustriert-ueber-harry-styles-tour-nun-aeussert-sich-sein-label-a-67bbb694-e0da-4453-a448-e80f8c55c3a3#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball-bundesliga-bayern-muenchen-bezieht-gegen-den-fc-augsburg-die-erste-saisonniederlage](https://www.spiegel.de/sport/fussball-bundesliga-bayern-muenchen-bezieht-gegen-den-fc-augsburg-die-erste-saisonniederlage-a-14692be3-d96d-4eb2-8af6-14ddd9cd2bd0#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht](https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht-a-67a6866e-f10a-4595-9ff5-10068e2a842c#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr-a-06e4b584-cfc7-40af-9ef1-81308525b73f#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/wissenschaft/usa-kalifornien-will-weiter-mit-der-who-kooperieren](https://www.spiegel.de/wissenschaft/usa-kalifornien-will-weiter-mit-der-who-kooperieren-a-50833269-b91e-4321-bdf6-e18c99bc88ae#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr-a-06e4b584-cfc7-40af-9ef1-81308525b73f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bundesbank-registriert-minuetlich-5000-cyberangriffe](https://www.spiegel.de/wirtschaft/soziales/bundesbank-registriert-minuetlich-5000-cyberangriffe-a-a852c9f4-8972-4b5e-b397-9b25a3134cdb#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/wie-tui-mich-den-chatbots-zum-frass-vorwarf](https://www.spiegel.de/panorama/wie-tui-mich-den-chatbots-zum-frass-vorwarf-a-61ddfc4a-3b2a-4d66-8159-750a692f39bd#ref=rss)
-### könig
-
-* [https://www.spiegel.de/geschichte/kontroverse-um-mittelalterlichen-englischen-koenig-war-koenig-edward-ii-schwul](https://www.spiegel.de/geschichte/kontroverse-um-mittelalterlichen-englischen-koenig-war-koenig-edward-ii-schwul-a-020b6fcc-1a22-414c-a2fe-4a5774c5ed52#ref=rss)
-### unter
-
-* [https://www.spiegel.de/netzwelt/web/datenleck-fast-150-millionen-passwoerter-stehen-frei-zugaenglich-im-internet](https://www.spiegel.de/netzwelt/web/datenleck-fast-150-millionen-passwoerter-stehen-frei-zugaenglich-im-internet-a-4090514f-d9ef-48ce-88bb-d430d2898433#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/abfahrt-in-kitzbuehel-giovanni-franzoni-gewinnt-auf-der-streif-vor-marco-odermatt](https://www.spiegel.de/sport/wintersport/abfahrt-in-kitzbuehel-giovanni-franzoni-gewinnt-auf-der-streif-vor-marco-odermatt-a-1c3f830e-c107-4941-a8c2-bf6e7df651ec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/heimliches-filmen-justizministerin-will-aufnahmen-in-saunen-strafbar-machen](https://www.spiegel.de/politik/deutschland/heimliches-filmen-justizministerin-will-aufnahmen-in-saunen-strafbar-machen-a-ffb9d367-e428-49c1-8555-373e8ad284f0#ref=rss)
-### fans
-
-* [https://www.spiegel.de/panorama/leute/fans-frustriert-ueber-harry-styles-tour-nun-aeussert-sich-sein-label](https://www.spiegel.de/panorama/leute/fans-frustriert-ueber-harry-styles-tour-nun-aeussert-sich-sein-label-a-67bbb694-e0da-4453-a448-e80f8c55c3a3#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-naomi-osakas-fashionshow-jaeh-beendet](https://www.spiegel.de/sport/tennis/australian-open-naomi-osakas-fashionshow-jaeh-beendet-a-e396992f-a7ad-4f61-8c7b-da0bcd66357b#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/kultur/musik/donald-trump-bleibt-super-bowl-fern-und-kritisiert-bad-bunny](https://www.spiegel.de/kultur/musik/donald-trump-bleibt-super-bowl-fern-und-kritisiert-bad-bunny-a-cb4dd8c5-9e46-4e79-85b2-0087e15ce330#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bundesbank-registriert-minuetlich-5000-cyberangriffe](https://www.spiegel.de/wirtschaft/soziales/bundesbank-registriert-minuetlich-5000-cyberangriffe-a-a852c9f4-8972-4b5e-b397-9b25a3134cdb#ref=rss)
-### bad
-
-* [https://www.spiegel.de/kultur/musik/donald-trump-bleibt-super-bowl-fern-und-kritisiert-bad-bunny](https://www.spiegel.de/kultur/musik/donald-trump-bleibt-super-bowl-fern-und-kritisiert-bad-bunny-a-cb4dd8c5-9e46-4e79-85b2-0087e15ce330#ref=rss)
-### bunny
-
-* [https://www.spiegel.de/kultur/musik/donald-trump-bleibt-super-bowl-fern-und-kritisiert-bad-bunny](https://www.spiegel.de/kultur/musik/donald-trump-bleibt-super-bowl-fern-und-kritisiert-bad-bunny-a-cb4dd8c5-9e46-4e79-85b2-0087e15ce330#ref=rss)
-### bundesbeamte
-
-* [https://www.spiegel.de/ausland/usa-bundesbeamte-sollen-auf-mann-in-minneapolis-geschossen-haben](https://www.spiegel.de/ausland/usa-bundesbeamte-sollen-auf-mann-in-minneapolis-geschossen-haben-a-802a707e-4519-485b-a58f-11364c692331#ref=rss)
 ### minneapolis
 
-* [https://www.spiegel.de/ausland/usa-bundesbeamte-sollen-auf-mann-in-minneapolis-geschossen-haben](https://www.spiegel.de/ausland/usa-bundesbeamte-sollen-auf-mann-in-minneapolis-geschossen-haben-a-802a707e-4519-485b-a58f-11364c692331#ref=rss)
-### wochen
+* [https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren](https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren-a-75410d7e-e2aa-4051-8763-4d9968a6db05#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug](https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug-a-71d634e0-9f9f-46e9-af40-ecefde78fefc#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer](https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer-a-2910f0da-d726-4983-8fc9-f5facc1c769a#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor](https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor-a-8614507b-3211-46c8-878f-3458b6b2e61c#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten](https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten-a-8a966e83-df2e-4312-8bac-8eb0782963ee#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/usa-bundesbeamte-sollen-auf-mann-in-minneapolis-geschossen-haben](https://www.spiegel.de/ausland/usa-bundesbeamte-sollen-auf-mann-in-minneapolis-geschossen-haben-a-802a707e-4519-485b-a58f-11364c692331#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr-a-06e4b584-cfc7-40af-9ef1-81308525b73f#ref=rss)
-### gouverneur
+* [https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump](https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump-a-98890cfc-9b7b-434f-a106-ca66e6d01567#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug](https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug-a-71d634e0-9f9f-46e9-af40-ecefde78fefc#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer](https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer-a-2910f0da-d726-4983-8fc9-f5facc1c769a#ref=rss)
+* [https://www.spiegel.de/panorama/melania-trump-dokumentarfilm-ueber-tage-vor-der-amtseinfuehrung](https://www.spiegel.de/panorama/melania-trump-dokumentarfilm-ueber-tage-vor-der-amtseinfuehrung-a-aa1b998e-17b9-4a2c-a0cf-754f8b2d4f46#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik](https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik-a-080673db-fbb5-4d6f-a244-64bd9d99f46c#ref=rss)
+### alex
 
-* [https://www.spiegel.de/ausland/usa-bundesbeamte-sollen-auf-mann-in-minneapolis-geschossen-haben](https://www.spiegel.de/ausland/usa-bundesbeamte-sollen-auf-mann-in-minneapolis-geschossen-haben-a-802a707e-4519-485b-a58f-11364c692331#ref=rss)
-* [https://www.spiegel.de/wissenschaft/usa-kalifornien-will-weiter-mit-der-who-kooperieren](https://www.spiegel.de/wissenschaft/usa-kalifornien-will-weiter-mit-der-who-kooperieren-a-50833269-b91e-4321-bdf6-e18c99bc88ae#ref=rss)
-### fordert
+* [https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug](https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug-a-71d634e0-9f9f-46e9-af40-ecefde78fefc#ref=rss)
+* [https://www.spiegel.de/sport/taipeh-101-alex-honnold-meistert-umstrittene-kletteraktion-in-anderthalb-stunden](https://www.spiegel.de/sport/taipeh-101-alex-honnold-meistert-umstrittene-kletteraktion-in-anderthalb-stunden-a-b3e1c8f4-bdd4-4d41-86d6-634333cd1cd0#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor](https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor-a-8614507b-3211-46c8-878f-3458b6b2e61c#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
+### pretti
 
-* [https://www.spiegel.de/ausland/usa-bundesbeamte-sollen-auf-mann-in-minneapolis-geschossen-haben](https://www.spiegel.de/ausland/usa-bundesbeamte-sollen-auf-mann-in-minneapolis-geschossen-haben-a-802a707e-4519-485b-a58f-11364c692331#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr-a-06e4b584-cfc7-40af-9ef1-81308525b73f#ref=rss)
-### ende
+* [https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug](https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug-a-71d634e0-9f9f-46e9-af40-ecefde78fefc#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor](https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor-a-8614507b-3211-46c8-878f-3458b6b2e61c#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/usa-bundesbeamte-sollen-auf-mann-in-minneapolis-geschossen-haben](https://www.spiegel.de/ausland/usa-bundesbeamte-sollen-auf-mann-in-minneapolis-geschossen-haben-a-802a707e-4519-485b-a58f-11364c692331#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr-a-06e4b584-cfc7-40af-9ef1-81308525b73f#ref=rss)
-### ostküste
+* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-rund-1700-wohnblocks-in-kyjiw-ohne-heizung](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-rund-1700-wohnblocks-in-kyjiw-ohne-heizung-a-bfb754dd-1fdc-48f3-ab68-3bf408f37767#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen](https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen-a-51ed0263-448c-41d9-8f76-9a5d9cb36866#ref=rss)
+* [https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse](https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse-a-2da86bbf-8edf-4d3f-80ed-c76f949860f8#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
+### welt
 
-* [https://www.spiegel.de/panorama/lufthansa-streicht-fluege-an-die-ostkueste-der-usa](https://www.spiegel.de/panorama/lufthansa-streicht-fluege-an-die-ostkueste-der-usa-a-fa51ec40-08e9-4a57-b596-5477cb73557d#ref=rss)
-* [https://www.spiegel.de/panorama/jaywick-das-aermste-dorf-grossbritanniens-ein-gluecklicher-trauriger-ort](https://www.spiegel.de/panorama/jaywick-das-aermste-dorf-grossbritanniens-ein-gluecklicher-trauriger-ort-a-c863b534-ee9c-438f-a0dc-754729e666b9#ref=rss)
-### staaten
+* [https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt](https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt-a-0bccf26d-fecf-4570-ae6a-1e537ce74947#ref=rss)
+* [https://www.spiegel.de/wissenschaft/barbie-puppe-mit-autismus-was-bringt-inklusives-spielzeug](https://www.spiegel.de/wissenschaft/barbie-puppe-mit-autismus-was-bringt-inklusives-spielzeug-a-1ff3d801-445a-402e-a736-46c2fe976e39#ref=rss)
+* [https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen](https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen-a-2571ede0-70ff-4ff7-a1ad-167c173a6bc4#ref=rss)
+### soldaten
 
-* [https://www.spiegel.de/panorama/lufthansa-streicht-fluege-an-die-ostkueste-der-usa](https://www.spiegel.de/panorama/lufthansa-streicht-fluege-an-die-ostkueste-der-usa-a-fa51ec40-08e9-4a57-b596-5477cb73557d#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr-a-06e4b584-cfc7-40af-9ef1-81308525b73f#ref=rss)
-### betroffen
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken](https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken-a-aa978a98-52f2-4a20-9edd-349d452a286f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik](https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik-a-080673db-fbb5-4d6f-a244-64bd9d99f46c#ref=rss)
+### eltern
 
-* [https://www.spiegel.de/panorama/lufthansa-streicht-fluege-an-die-ostkueste-der-usa](https://www.spiegel.de/panorama/lufthansa-streicht-fluege-an-die-ostkueste-der-usa-a-fa51ec40-08e9-4a57-b596-5477cb73557d#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/datenleck-fast-150-millionen-passwoerter-stehen-frei-zugaenglich-im-internet](https://www.spiegel.de/netzwelt/web/datenleck-fast-150-millionen-passwoerter-stehen-frei-zugaenglich-im-internet-a-4090514f-d9ef-48ce-88bb-d430d2898433#ref=rss)
-### francesca
+* [https://www.spiegel.de/wissenschaft/barbie-puppe-mit-autismus-was-bringt-inklusives-spielzeug](https://www.spiegel.de/wissenschaft/barbie-puppe-mit-autismus-was-bringt-inklusives-spielzeug-a-1ff3d801-445a-402e-a736-46c2fe976e39#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor](https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor-a-8614507b-3211-46c8-878f-3458b6b2e61c#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/netzwelt/eurostack-initiatorin-francesca-bria-so-wird-der-deutsche-staat-digital-unabhaengig](https://www.spiegel.de/netzwelt/eurostack-initiatorin-francesca-bria-so-wird-der-deutsche-staat-digital-unabhaengig-a-02e4678c-a460-4acd-90e4-9ca6a820e64b#ref=rss)
-### bria
+* [https://www.spiegel.de/ausland/grossbritannien-england-bekommt-neue-super-polizei-nach-vorbild-des-fbi](https://www.spiegel.de/ausland/grossbritannien-england-bekommt-neue-super-polizei-nach-vorbild-des-fbi-a-33f91301-c11a-4607-84c1-57004b13aad4#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik](https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik-a-080673db-fbb5-4d6f-a244-64bd9d99f46c#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/netzwelt/eurostack-initiatorin-francesca-bria-so-wird-der-deutsche-staat-digital-unabhaengig](https://www.spiegel.de/netzwelt/eurostack-initiatorin-francesca-bria-so-wird-der-deutsche-staat-digital-unabhaengig-a-02e4678c-a460-4acd-90e4-9ca6a820e64b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen](https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen-a-51ed0263-448c-41d9-8f76-9a5d9cb36866#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump](https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump-a-98890cfc-9b7b-434f-a106-ca66e6d01567#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump](https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump-a-98890cfc-9b7b-434f-a106-ca66e6d01567#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik](https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik-a-080673db-fbb5-4d6f-a244-64bd9d99f46c#ref=rss)
+### tödlichen
+
+* [https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren](https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren-a-75410d7e-e2aa-4051-8763-4d9968a6db05#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug](https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug-a-71d634e0-9f9f-46e9-af40-ecefde78fefc#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten](https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten-a-8a966e83-df2e-4312-8bac-8eb0782963ee#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen](https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen-a-2571ede0-70ff-4ff7-a1ad-167c173a6bc4#ref=rss)
+* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gelingt-der-waermetausch](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gelingt-der-waermetausch-a-1dceb1ea-82a9-48e7-b394-3e95e401357d#ref=rss)
+### vw
+
+* [https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen](https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen-a-2571ede0-70ff-4ff7-a1ad-167c173a6bc4#ref=rss)
+### golf
+
+* [https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen](https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen-a-2571ede0-70ff-4ff7-a1ad-167c173a6bc4#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse](https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse-a-2da86bbf-8edf-4d3f-80ed-c76f949860f8#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer](https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer-a-2910f0da-d726-4983-8fc9-f5facc1c769a#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein-a-250fa5e7-2a9b-4e09-9acb-228fcdaf1843#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten](https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten-a-8a966e83-df2e-4312-8bac-8eb0782963ee#ref=rss)
+### melania
+
+* [https://www.spiegel.de/panorama/melania-trump-dokumentarfilm-ueber-tage-vor-der-amtseinfuehrung](https://www.spiegel.de/panorama/melania-trump-dokumentarfilm-ueber-tage-vor-der-amtseinfuehrung-a-aa1b998e-17b9-4a2c-a0cf-754f8b2d4f46#ref=rss)
+### angst
+
+* [https://www.spiegel.de/partnerschaft/liebeskummer-tipps-zur-bewaeltigung-von-emotionalen-verletzungen](https://www.spiegel.de/partnerschaft/liebeskummer-tipps-zur-bewaeltigung-von-emotionalen-verletzungen-a-bb9a4d20-0ab3-4071-b8ee-c9f53490aab7#ref=rss)
+* [https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen](https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen-a-17fc9cb0-5eab-46cf-95a2-9dafe671e794#ref=rss)
+### mann
+
+* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten](https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten-a-8a966e83-df2e-4312-8bac-8eb0782963ee#ref=rss)
+### ecko
+
+* [https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch](https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch-a-a25ee8af-94b6-46e7-82b9-b6ef649cf2c8#ref=rss)
+### bazz
+
+* [https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch](https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch-a-a25ee8af-94b6-46e7-82b9-b6ef649cf2c8#ref=rss)
+### durchbruch
+
+* [https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch](https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch-a-a25ee8af-94b6-46e7-82b9-b6ef649cf2c8#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch](https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch-a-a25ee8af-94b6-46e7-82b9-b6ef649cf2c8#ref=rss)
+* [https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen](https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen-a-2571ede0-70ff-4ff7-a1ad-167c173a6bc4#ref=rss)
+### land
+
+* [https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch](https://www.spiegel.de/kultur/musik/ecko-bazz-bobi-wine-freund-und-nyege-nyege-artist-vor-dem-durchbruch-a-a25ee8af-94b6-46e7-82b9-b6ef649cf2c8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-manchmal-muss-man-einen-nazi-eben-auch-einen-nazi-nennen](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-manchmal-muss-man-einen-nazi-eben-auch-einen-nazi-nennen-a-976c203a-88a9-4784-ba39-407cd18a6427#ref=rss)
+### erst
+
+* [https://www.spiegel.de/gesundheit/diagnose/ein-raetselhafter-patient-er-kann-nicht-aufhoeren-zu-kratzen](https://www.spiegel.de/gesundheit/diagnose/ein-raetselhafter-patient-er-kann-nicht-aufhoeren-zu-kratzen-a-2c67b2f6-1497-43cc-96e9-27631e627769#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein-a-250fa5e7-2a9b-4e09-9acb-228fcdaf1843#ref=rss)
+### andreas
+
+* [https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt](https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt-a-0bccf26d-fecf-4570-ae6a-1e537ce74947#ref=rss)
+### briese
+
+* [https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt](https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt-a-0bccf26d-fecf-4570-ae6a-1e537ce74947#ref=rss)
+### videos
+
+* [https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt](https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt-a-0bccf26d-fecf-4570-ae6a-1e537ce74947#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten](https://www.spiegel.de/ausland/minneapolis-video-zeigt-toedlichen-einsatz-von-ice-beamten-a-8a966e83-df2e-4312-8bac-8eb0782963ee#ref=rss)
+### 12
+
+* [https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt](https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt-a-0bccf26d-fecf-4570-ae6a-1e537ce74947#ref=rss)
+* [https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse](https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse-a-2da86bbf-8edf-4d3f-80ed-c76f949860f8#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt](https://www.spiegel.de/deinspiegel/youtube-chef-andreas-briese-im-kinder-interview-wir-haben-ueber-elf-millionen-videos-entfernt-a-0bccf26d-fecf-4570-ae6a-1e537ce74947#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein-a-250fa5e7-2a9b-4e09-9acb-228fcdaf1843#ref=rss)
+### arbeiten
+
+* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-rund-1700-wohnblocks-in-kyjiw-ohne-heizung](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-rund-1700-wohnblocks-in-kyjiw-ohne-heizung-a-bfb754dd-1fdc-48f3-ab68-3bf408f37767#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen](https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen-a-51ed0263-448c-41d9-8f76-9a5d9cb36866#ref=rss)
+### kommandeur
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken](https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken-a-aa978a98-52f2-4a20-9edd-349d452a286f#ref=rss)
+### skandal
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken](https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken-a-aa978a98-52f2-4a20-9edd-349d452a286f#ref=rss)
+### zweibrücken
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken](https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken-a-aa978a98-52f2-4a20-9edd-349d452a286f#ref=rss)
+### neue
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken](https://www.spiegel.de/politik/deutschland/bundeswehr-kommandeur-fordert-neuanfang-nach-skandal-in-zweibruecken-a-aa978a98-52f2-4a20-9edd-349d452a286f#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-england-bekommt-neue-super-polizei-nach-vorbild-des-fbi](https://www.spiegel.de/ausland/grossbritannien-england-bekommt-neue-super-polizei-nach-vorbild-des-fbi-a-33f91301-c11a-4607-84c1-57004b13aad4#ref=rss)
+### heidi
+
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-manchmal-muss-man-einen-nazi-eben-auch-einen-nazi-nennen](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-manchmal-muss-man-einen-nazi-eben-auch-einen-nazi-nennen-a-976c203a-88a9-4784-ba39-407cd18a6427#ref=rss)
+### reichinnek
+
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-manchmal-muss-man-einen-nazi-eben-auch-einen-nazi-nennen](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-manchmal-muss-man-einen-nazi-eben-auch-einen-nazi-nennen-a-976c203a-88a9-4784-ba39-407cd18a6427#ref=rss)
+### nazi
+
+* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-manchmal-muss-man-einen-nazi-eben-auch-einen-nazi-nennen](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-manchmal-muss-man-einen-nazi-eben-auch-einen-nazi-nennen-a-976c203a-88a9-4784-ba39-407cd18a6427#ref=rss)
+### autismus
+
+* [https://www.spiegel.de/wissenschaft/barbie-puppe-mit-autismus-was-bringt-inklusives-spielzeug](https://www.spiegel.de/wissenschaft/barbie-puppe-mit-autismus-was-bringt-inklusives-spielzeug-a-1ff3d801-445a-402e-a736-46c2fe976e39#ref=rss)
+### venezuela
+
+* [https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden](https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden-a-86bc5176-28ef-44ac-9485-f68967c2076b#ref=rss)
+### übergangspräsidentin
+
+* [https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden](https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden-a-86bc5176-28ef-44ac-9485-f68967c2076b#ref=rss)
+### rodríguez
+
+* [https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden](https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden-a-86bc5176-28ef-44ac-9485-f68967c2076b#ref=rss)
+### opposition
+
+* [https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden](https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden-a-86bc5176-28ef-44ac-9485-f68967c2076b#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden](https://www.spiegel.de/ausland/venezuela-uebergangspraesidentin-rodriguez-will-mit-der-opposition-reden-a-86bc5176-28ef-44ac-9485-f68967c2076b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/rueckzug-aus-gesundheitsorganisation-who-chef-nennt-us-gruende-unwahr](https://www.spiegel.de/wissenschaft/rueckzug-aus-gesundheitsorganisation-who-chef-nennt-us-gruende-unwahr-a-e6bf4f0b-d901-473b-8018-9dc23d271dd1#ref=rss)
+### vorbild
+
+* [https://www.spiegel.de/ausland/grossbritannien-england-bekommt-neue-super-polizei-nach-vorbild-des-fbi](https://www.spiegel.de/ausland/grossbritannien-england-bekommt-neue-super-polizei-nach-vorbild-des-fbi-a-33f91301-c11a-4607-84c1-57004b13aad4#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/ausland/grossbritannien-england-bekommt-neue-super-polizei-nach-vorbild-des-fbi](https://www.spiegel.de/ausland/grossbritannien-england-bekommt-neue-super-polizei-nach-vorbild-des-fbi-a-33f91301-c11a-4607-84c1-57004b13aad4#ref=rss)
+* [https://www.spiegel.de/ausland/albanien-zusammenstoesse-bei-protesten-gegen-premierminister-rama](https://www.spiegel.de/ausland/albanien-zusammenstoesse-bei-protesten-gegen-premierminister-rama-a-3a8605c7-0635-4149-a477-ea14c765cff9#ref=rss)
+### teilzeit
+
+* [https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen](https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen-a-51ed0263-448c-41d9-8f76-9a5d9cb36866#ref=rss)
+### macht
+
+* [https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen](https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen-a-51ed0263-448c-41d9-8f76-9a5d9cb36866#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump](https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump-a-98890cfc-9b7b-434f-a106-ca66e6d01567#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/netzwelt/eurostack-initiatorin-francesca-bria-so-wird-der-deutsche-staat-digital-unabhaengig](https://www.spiegel.de/netzwelt/eurostack-initiatorin-francesca-bria-so-wird-der-deutsche-staat-digital-unabhaengig-a-02e4678c-a460-4acd-90e4-9ca6a820e64b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/deutsche-gruene-bieten-votum-fuer-schnelle-mercosur-ratifizierung-an](https://www.spiegel.de/wirtschaft/soziales/deutsche-gruene-bieten-votum-fuer-schnelle-mercosur-ratifizierung-an-a-7b393df9-6cd6-4414-91cb-dc765c89a0f1#ref=rss)
-### jahren
+* [https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen](https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen-a-51ed0263-448c-41d9-8f76-9a5d9cb36866#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-verlaengert-waffenruhe-mit-kurden-milizen](https://www.spiegel.de/ausland/syrien-verlaengert-waffenruhe-mit-kurden-milizen-a-58fa801e-6b2c-4b2f-940a-dd494df5a9e8#ref=rss)
+### elternkindentfremdung
 
-* [https://www.spiegel.de/netzwelt/eurostack-initiatorin-francesca-bria-so-wird-der-deutsche-staat-digital-unabhaengig](https://www.spiegel.de/netzwelt/eurostack-initiatorin-francesca-bria-so-wird-der-deutsche-staat-digital-unabhaengig-a-02e4678c-a460-4acd-90e4-9ca6a820e64b#ref=rss)
-* [https://www.spiegel.de/ausland/mumin-hype-weiche-wesen-fuer-harte-zeiten](https://www.spiegel.de/ausland/mumin-hype-weiche-wesen-fuer-harte-zeiten-a-8e41bdd3-32bc-481d-950e-3f85beaf0846#ref=rss)
+* [https://www.spiegel.de/familie/trennung-und-scheidung-was-hinter-dem-streit-ueber-eltern-kind-entfremdung-steckt](https://www.spiegel.de/familie/trennung-und-scheidung-was-hinter-dem-streit-ueber-eltern-kind-entfremdung-steckt-a-93f96820-5de2-4f41-b243-2290928dc5b9#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/familie/trennung-und-scheidung-was-hinter-dem-streit-ueber-eltern-kind-entfremdung-steckt](https://www.spiegel.de/familie/trennung-und-scheidung-was-hinter-dem-streit-ueber-eltern-kind-entfremdung-steckt-a-93f96820-5de2-4f41-b243-2290928dc5b9#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik](https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik-a-080673db-fbb5-4d6f-a244-64bd9d99f46c#ref=rss)
+### wo
+
+* [https://www.spiegel.de/familie/trennung-und-scheidung-was-hinter-dem-streit-ueber-eltern-kind-entfremdung-steckt](https://www.spiegel.de/familie/trennung-und-scheidung-was-hinter-dem-streit-ueber-eltern-kind-entfremdung-steckt-a-93f96820-5de2-4f41-b243-2290928dc5b9#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump](https://www.spiegel.de/politik/deutschland/news-die-vereinigten-staaten-von-trump-a-98890cfc-9b7b-434f-a106-ca66e6d01567#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer](https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer-a-2910f0da-d726-4983-8fc9-f5facc1c769a#ref=rss)
+### finanzierung
+
+* [https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren](https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren-a-75410d7e-e2aa-4051-8763-4d9968a6db05#ref=rss)
+### ice
+
+* [https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren](https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren-a-75410d7e-e2aa-4051-8763-4d9968a6db05#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
+### demokraten
+
+* [https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren](https://www.spiegel.de/ausland/toedliche-ice-einsaetze-in-minneapolis-demokraten-wollen-finanzierung-der-abschiebebehoerde-ice-blockieren-a-75410d7e-e2aa-4051-8763-4d9968a6db05#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug](https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug-a-71d634e0-9f9f-46e9-af40-ecefde78fefc#ref=rss)
+### iceschüsse
+
+* [https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug](https://www.spiegel.de/ausland/minneapolis-toedliche-schuesse-auf-alex-pretti-demokraten-verlangen-ice-abzug-a-71d634e0-9f9f-46e9-af40-ecefde78fefc#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer](https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer-a-2910f0da-d726-4983-8fc9-f5facc1c769a#ref=rss)
+### großen
+
+* [https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen](https://www.spiegel.de/auto/vom-kei-car-zum-pick-up-truck-die-lieblingsautos-der-anderen-a-2571ede0-70ff-4ff7-a1ad-167c173a6bc4#ref=rss)
+* [https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen](https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen-a-17fc9cb0-5eab-46cf-95a2-9dafe671e794#ref=rss)
+### wasser
+
+* [https://www.spiegel.de/karriere/raetsel-der-woche-wie-gelingt-der-waermetausch](https://www.spiegel.de/karriere/raetsel-der-woche-wie-gelingt-der-waermetausch-a-1dceb1ea-82a9-48e7-b394-3e95e401357d#ref=rss)
 ### bayern
 
-* [https://www.spiegel.de/sport/fussball-bundesliga-bayern-muenchen-bezieht-gegen-den-fc-augsburg-die-erste-saisonniederlage](https://www.spiegel.de/sport/fussball-bundesliga-bayern-muenchen-bezieht-gegen-den-fc-augsburg-die-erste-saisonniederlage-a-14692be3-d96d-4eb2-8af6-14ddd9cd2bd0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse](https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse-a-2da86bbf-8edf-4d3f-80ed-c76f949860f8#ref=rss)
 ### augsburg
 
-* [https://www.spiegel.de/sport/fussball-bundesliga-bayern-muenchen-bezieht-gegen-den-fc-augsburg-die-erste-saisonniederlage](https://www.spiegel.de/sport/fussball-bundesliga-bayern-muenchen-bezieht-gegen-den-fc-augsburg-die-erste-saisonniederlage-a-14692be3-d96d-4eb2-8af6-14ddd9cd2bd0#ref=rss)
-### erste
+* [https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse](https://www.spiegel.de/sport/fussball/heimpleite-gegen-den-fc-augsburg-der-fc-bayern-verliert-erstmals-in-der-bundesligasaison-die-analyse-a-2da86bbf-8edf-4d3f-80ed-c76f949860f8#ref=rss)
+### icebeamten
 
-* [https://www.spiegel.de/sport/fussball-bundesliga-bayern-muenchen-bezieht-gegen-den-fc-augsburg-die-erste-saisonniederlage](https://www.spiegel.de/sport/fussball-bundesliga-bayern-muenchen-bezieht-gegen-den-fc-augsburg-die-erste-saisonniederlage-a-14692be3-d96d-4eb2-8af6-14ddd9cd2bd0#ref=rss)
-### gespräche
+* [https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer](https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer-a-2910f0da-d726-4983-8fc9-f5facc1c769a#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht](https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht-a-67a6866e-f10a-4595-9ff5-10068e2a842c#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr-a-06e4b584-cfc7-40af-9ef1-81308525b73f#ref=rss)
-### abu
+* [https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer](https://www.spiegel.de/ausland/minneapolis-toedliche-ice-schuesse-bei-abschiebe-razzia-gegen-einwanderer-a-2910f0da-d726-4983-8fc9-f5facc1c769a#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
+### weißen
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht](https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht-a-67a6866e-f10a-4595-9ff5-10068e2a842c#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr-a-06e4b584-cfc7-40af-9ef1-81308525b73f#ref=rss)
-### dhabi
+* [https://www.spiegel.de/panorama/melania-trump-dokumentarfilm-ueber-tage-vor-der-amtseinfuehrung](https://www.spiegel.de/panorama/melania-trump-dokumentarfilm-ueber-tage-vor-der-amtseinfuehrung-a-aa1b998e-17b9-4a2c-a0cf-754f8b2d4f46#ref=rss)
+### haus
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht](https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht-a-67a6866e-f10a-4595-9ff5-10068e2a842c#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr-a-06e4b584-cfc7-40af-9ef1-81308525b73f#ref=rss)
-### beendet
+* [https://www.spiegel.de/panorama/melania-trump-dokumentarfilm-ueber-tage-vor-der-amtseinfuehrung](https://www.spiegel.de/panorama/melania-trump-dokumentarfilm-ueber-tage-vor-der-amtseinfuehrung-a-aa1b998e-17b9-4a2c-a0cf-754f8b2d4f46#ref=rss)
+### liebeskummer
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht](https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht-a-67a6866e-f10a-4595-9ff5-10068e2a842c#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-naomi-osakas-fashionshow-jaeh-beendet](https://www.spiegel.de/sport/tennis/australian-open-naomi-osakas-fashionshow-jaeh-beendet-a-e396992f-a7ad-4f61-8c7b-da0bcd66357b#ref=rss)
-### runde
+* [https://www.spiegel.de/partnerschaft/liebeskummer-tipps-zur-bewaeltigung-von-emotionalen-verletzungen](https://www.spiegel.de/partnerschaft/liebeskummer-tipps-zur-bewaeltigung-von-emotionalen-verletzungen-a-bb9a4d20-0ab3-4071-b8ee-c9f53490aab7#ref=rss)
+### antwort
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht](https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht-a-67a6866e-f10a-4595-9ff5-10068e2a842c#ref=rss)
-### russlands
+* [https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen](https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen-a-17fc9cb0-5eab-46cf-95a2-9dafe671e794#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht](https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht-a-67a6866e-f10a-4595-9ff5-10068e2a842c#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr-a-06e4b584-cfc7-40af-9ef1-81308525b73f#ref=rss)
-### gemeinsam
+* [https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen](https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen-a-17fc9cb0-5eab-46cf-95a2-9dafe671e794#ref=rss)
+### sollten
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht](https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht-a-67a6866e-f10a-4595-9ff5-10068e2a842c#ref=rss)
-* [https://www.spiegel.de/politik/us-praesident-warum-trump-bald-geschichte-sein-wird](https://www.spiegel.de/politik/us-praesident-warum-trump-bald-geschichte-sein-wird-a-29b76be8-79ac-4fc0-959c-a6a6c0f6d813#ref=rss)
-### derweil
+* [https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen](https://www.spiegel.de/partnerschaft/einsamkeit-als-single-keine-angst-vor-der-antwort-auf-die-grossen-fragen-a-17fc9cb0-5eab-46cf-95a2-9dafe671e794#ref=rss)
+### honnold
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht](https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht-a-67a6866e-f10a-4595-9ff5-10068e2a842c#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr-a-06e4b584-cfc7-40af-9ef1-81308525b73f#ref=rss)
-### gehen
+* [https://www.spiegel.de/sport/taipeh-101-alex-honnold-meistert-umstrittene-kletteraktion-in-anderthalb-stunden](https://www.spiegel.de/sport/taipeh-101-alex-honnold-meistert-umstrittene-kletteraktion-in-anderthalb-stunden-a-b3e1c8f4-bdd4-4d41-86d6-634333cd1cd0#ref=rss)
+### allem
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht](https://www.spiegel.de/ausland/ukraine-krieg-gespraeche-in-abu-dhabi-vorerst-beendet-naechste-runde-in-aussicht-a-67a6866e-f10a-4595-9ff5-10068e2a842c#ref=rss)
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr-a-06e4b584-cfc7-40af-9ef1-81308525b73f#ref=rss)
-### autobahn
+* [https://www.spiegel.de/sport/taipeh-101-alex-honnold-meistert-umstrittene-kletteraktion-in-anderthalb-stunden](https://www.spiegel.de/sport/taipeh-101-alex-honnold-meistert-umstrittene-kletteraktion-in-anderthalb-stunden-a-b3e1c8f4-bdd4-4d41-86d6-634333cd1cd0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik](https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik-a-080673db-fbb5-4d6f-a244-64bd9d99f46c#ref=rss)
+### werfen
 
-* [https://www.spiegel.de/panorama/justiz/autobahn-281-bei-bremen-unbekannte-stellen-sattelauflieger-quer-auf-autobahn](https://www.spiegel.de/panorama/justiz/autobahn-281-bei-bremen-unbekannte-stellen-sattelauflieger-quer-auf-autobahn-a-f5c91a11-f349-402c-8068-a82c0f07df3b#ref=rss)
-### bremen
+* [https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor](https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor-a-8614507b-3211-46c8-878f-3458b6b2e61c#ref=rss)
+### lügen
 
-* [https://www.spiegel.de/panorama/justiz/autobahn-281-bei-bremen-unbekannte-stellen-sattelauflieger-quer-auf-autobahn](https://www.spiegel.de/panorama/justiz/autobahn-281-bei-bremen-unbekannte-stellen-sattelauflieger-quer-auf-autobahn-a-f5c91a11-f349-402c-8068-a82c0f07df3b#ref=rss)
-### unbekannte
+* [https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor](https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor-a-8614507b-3211-46c8-878f-3458b6b2e61c#ref=rss)
+### erschossen
 
-* [https://www.spiegel.de/panorama/justiz/autobahn-281-bei-bremen-unbekannte-stellen-sattelauflieger-quer-auf-autobahn](https://www.spiegel.de/panorama/justiz/autobahn-281-bei-bremen-unbekannte-stellen-sattelauflieger-quer-auf-autobahn-a-f5c91a11-f349-402c-8068-a82c0f07df3b#ref=rss)
-### stellen
+* [https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor](https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor-a-8614507b-3211-46c8-878f-3458b6b2e61c#ref=rss)
+* [https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist](https://www.spiegel.de/ausland/minneapolis-was-ueber-den-erschossenen-krankenpfleger-alex-pretti-bekannt-ist-a-c3ae1cc3-11ed-49f7-8db4-9946344033f9#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/panorama/justiz/autobahn-281-bei-bremen-unbekannte-stellen-sattelauflieger-quer-auf-autobahn](https://www.spiegel.de/panorama/justiz/autobahn-281-bei-bremen-unbekannte-stellen-sattelauflieger-quer-auf-autobahn-a-f5c91a11-f349-402c-8068-a82c0f07df3b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/heimliches-filmen-justizministerin-will-aufnahmen-in-saunen-strafbar-machen](https://www.spiegel.de/politik/deutschland/heimliches-filmen-justizministerin-will-aufnahmen-in-saunen-strafbar-machen-a-ffb9d367-e428-49c1-8555-373e8ad284f0#ref=rss)
-### pistorius
+* [https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor](https://www.spiegel.de/ausland/minneapolis-eltern-von-alex-pretti-werfen-us-regierung-luegen-vor-a-8614507b-3211-46c8-878f-3458b6b2e61c#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-verlaengert-waffenruhe-mit-kurden-milizen](https://www.spiegel.de/ausland/syrien-verlaengert-waffenruhe-mit-kurden-milizen-a-58fa801e-6b2c-4b2f-940a-dd494df5a9e8#ref=rss)
+### unwahr
 
-* [https://www.spiegel.de/politik/deutschland/pistorius-verteidigt-die-bundeswehr-gegen-kritik-von-trump](https://www.spiegel.de/politik/deutschland/pistorius-verteidigt-die-bundeswehr-gegen-kritik-von-trump-a-02d98229-00a9-4032-b95d-4bf423905d9f#ref=rss)
-### tote
+* [https://www.spiegel.de/wissenschaft/rueckzug-aus-gesundheitsorganisation-who-chef-nennt-us-gruende-unwahr](https://www.spiegel.de/wissenschaft/rueckzug-aus-gesundheitsorganisation-who-chef-nennt-us-gruende-unwahr-a-e6bf4f0b-d901-473b-8018-9dc23d271dd1#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/politik/deutschland/pistorius-verteidigt-die-bundeswehr-gegen-kritik-von-trump](https://www.spiegel.de/politik/deutschland/pistorius-verteidigt-die-bundeswehr-gegen-kritik-von-trump-a-02d98229-00a9-4032-b95d-4bf423905d9f#ref=rss)
-* [https://www.spiegel.de/panorama/mindestens-acht-tote-und-dutzende-vermisste-nach-erdrutsch-in-indonesien](https://www.spiegel.de/panorama/mindestens-acht-tote-und-dutzende-vermisste-nach-erdrutsch-in-indonesien-a-a9ef973a-f588-4798-ab97-4de0677a5f3a#ref=rss)
-### florian
+* [https://www.spiegel.de/wissenschaft/rueckzug-aus-gesundheitsorganisation-who-chef-nennt-us-gruende-unwahr](https://www.spiegel.de/wissenschaft/rueckzug-aus-gesundheitsorganisation-who-chef-nennt-us-gruende-unwahr-a-e6bf4f0b-d901-473b-8018-9dc23d271dd1#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik](https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik-a-080673db-fbb5-4d6f-a244-64bd9d99f46c#ref=rss)
+### australian
 
-* [https://www.spiegel.de/panorama/leute/florian-david-fitz-dankt-allen-die-demokratie-machen](https://www.spiegel.de/panorama/leute/florian-david-fitz-dankt-allen-die-demokratie-machen-a-6d8e14d7-d925-4284-a16f-20a72cc2f1cf#ref=rss)
-### david
+* [https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein-a-250fa5e7-2a9b-4e09-9acb-228fcdaf1843#ref=rss)
+### open
 
-* [https://www.spiegel.de/panorama/leute/florian-david-fitz-dankt-allen-die-demokratie-machen](https://www.spiegel.de/panorama/leute/florian-david-fitz-dankt-allen-die-demokratie-machen-a-6d8e14d7-d925-4284-a16f-20a72cc2f1cf#ref=rss)
-### fitz
+* [https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein-a-250fa5e7-2a9b-4e09-9acb-228fcdaf1843#ref=rss)
+### aryna
 
-* [https://www.spiegel.de/panorama/leute/florian-david-fitz-dankt-allen-die-demokratie-machen](https://www.spiegel.de/panorama/leute/florian-david-fitz-dankt-allen-die-demokratie-machen-a-6d8e14d7-d925-4284-a16f-20a72cc2f1cf#ref=rss)
-### cransmontana
+* [https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein-a-250fa5e7-2a9b-4e09-9acb-228fcdaf1843#ref=rss)
+### sabalenka
 
-* [https://www.spiegel.de/panorama/justiz/brandkatastrophe-in-crans-montana-italien-empoert-ueber-freilassung-von-barbesitzer](https://www.spiegel.de/panorama/justiz/brandkatastrophe-in-crans-montana-italien-empoert-ueber-freilassung-von-barbesitzer-a-52c7e8e5-bf36-4b8d-8a9a-4d93ed5de45d#ref=rss)
-### who
+* [https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein-a-250fa5e7-2a9b-4e09-9acb-228fcdaf1843#ref=rss)
+### ende
 
-* [https://www.spiegel.de/wissenschaft/usa-kalifornien-will-weiter-mit-der-who-kooperieren](https://www.spiegel.de/wissenschaft/usa-kalifornien-will-weiter-mit-der-who-kooperieren-a-50833269-b91e-4321-bdf6-e18c99bc88ae#ref=rss)
-### obwohl
+* [https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-2026-aryna-sabalenka-zeigt-nervenstaerke-und-zieht-ins-viertelfinale-ein-a-250fa5e7-2a9b-4e09-9acb-228fcdaf1843#ref=rss)
+* [https://www.spiegel.de/ausland/albanien-zusammenstoesse-bei-protesten-gegen-premierminister-rama](https://www.spiegel.de/ausland/albanien-zusammenstoesse-bei-protesten-gegen-premierminister-rama-a-3a8605c7-0635-4149-a477-ea14c765cff9#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wissenschaft/usa-kalifornien-will-weiter-mit-der-who-kooperieren](https://www.spiegel.de/wissenschaft/usa-kalifornien-will-weiter-mit-der-who-kooperieren-a-50833269-b91e-4321-bdf6-e18c99bc88ae#ref=rss)
-* [https://www.spiegel.de/gesundheit/holzofen-feinstaub-wird-trotz-kaminverbot-nicht-weniger](https://www.spiegel.de/gesundheit/holzofen-feinstaub-wird-trotz-kaminverbot-nicht-weniger-a-2eb2710b-6f1d-46f9-8887-a7eabf89e509#ref=rss)
-### ezigaretten
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik](https://www.spiegel.de/ausland/donald-trump-us-praesident-lobt-britische-soldaten-nach-kritik-a-080673db-fbb5-4d6f-a244-64bd9d99f46c#ref=rss)
+### edi
 
-* [https://www.spiegel.de/wissenschaft/medizin/e-zigaretten-kuehlstoffe-koennen-gesundheitsschaedlich-sein](https://www.spiegel.de/wissenschaft/medizin/e-zigaretten-kuehlstoffe-koennen-gesundheitsschaedlich-sein-a-8a0b527d-e5a8-4271-b839-287f92662efe#ref=rss)
-### kühlstoffe
+* [https://www.spiegel.de/ausland/albanien-zusammenstoesse-bei-protesten-gegen-premierminister-rama](https://www.spiegel.de/ausland/albanien-zusammenstoesse-bei-protesten-gegen-premierminister-rama-a-3a8605c7-0635-4149-a477-ea14c765cff9#ref=rss)
+### rama
 
-* [https://www.spiegel.de/wissenschaft/medizin/e-zigaretten-kuehlstoffe-koennen-gesundheitsschaedlich-sein](https://www.spiegel.de/wissenschaft/medizin/e-zigaretten-kuehlstoffe-koennen-gesundheitsschaedlich-sein-a-8a0b527d-e5a8-4271-b839-287f92662efe#ref=rss)
-### tui
-
-* [https://www.spiegel.de/panorama/wie-tui-mich-den-chatbots-zum-frass-vorwarf](https://www.spiegel.de/panorama/wie-tui-mich-den-chatbots-zum-frass-vorwarf-a-61ddfc4a-3b2a-4d66-8159-750a692f39bd#ref=rss)
-### mich
-
-* [https://www.spiegel.de/panorama/wie-tui-mich-den-chatbots-zum-frass-vorwarf](https://www.spiegel.de/panorama/wie-tui-mich-den-chatbots-zum-frass-vorwarf-a-61ddfc4a-3b2a-4d66-8159-750a692f39bd#ref=rss)
-### chatbots
-
-* [https://www.spiegel.de/panorama/wie-tui-mich-den-chatbots-zum-frass-vorwarf](https://www.spiegel.de/panorama/wie-tui-mich-den-chatbots-zum-frass-vorwarf-a-61ddfc4a-3b2a-4d66-8159-750a692f39bd#ref=rss)
-### fraß
-
-* [https://www.spiegel.de/panorama/wie-tui-mich-den-chatbots-zum-frass-vorwarf](https://www.spiegel.de/panorama/wie-tui-mich-den-chatbots-zum-frass-vorwarf-a-61ddfc4a-3b2a-4d66-8159-750a692f39bd#ref=rss)
-### sage
-
-* [https://www.spiegel.de/panorama/wie-tui-mich-den-chatbots-zum-frass-vorwarf](https://www.spiegel.de/panorama/wie-tui-mich-den-chatbots-zum-frass-vorwarf-a-61ddfc4a-3b2a-4d66-8159-750a692f39bd#ref=rss)
-### edward
-
-* [https://www.spiegel.de/geschichte/kontroverse-um-mittelalterlichen-englischen-koenig-war-koenig-edward-ii-schwul](https://www.spiegel.de/geschichte/kontroverse-um-mittelalterlichen-englischen-koenig-war-koenig-edward-ii-schwul-a-020b6fcc-1a22-414c-a2fe-4a5774c5ed52#ref=rss)
-### ii
-
-* [https://www.spiegel.de/geschichte/kontroverse-um-mittelalterlichen-englischen-koenig-war-koenig-edward-ii-schwul](https://www.spiegel.de/geschichte/kontroverse-um-mittelalterlichen-englischen-koenig-war-koenig-edward-ii-schwul-a-020b6fcc-1a22-414c-a2fe-4a5774c5ed52#ref=rss)
-### gabriel
-
-* [https://www.spiegel.de/gesundheit/influenza-ist-diese-grippewelle-ungewoehnlich-frau-gabriel](https://www.spiegel.de/gesundheit/influenza-ist-diese-grippewelle-ungewoehnlich-frau-gabriel-a-d6fb92d7-3989-4727-ae97-4c19b572e7bb#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/gesundheit/influenza-ist-diese-grippewelle-ungewoehnlich-frau-gabriel](https://www.spiegel.de/gesundheit/influenza-ist-diese-grippewelle-ungewoehnlich-frau-gabriel-a-d6fb92d7-3989-4727-ae97-4c19b572e7bb#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/datenleck-fast-150-millionen-passwoerter-stehen-frei-zugaenglich-im-internet](https://www.spiegel.de/netzwelt/web/datenleck-fast-150-millionen-passwoerter-stehen-frei-zugaenglich-im-internet-a-4090514f-d9ef-48ce-88bb-d430d2898433#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/gesundheit/influenza-ist-diese-grippewelle-ungewoehnlich-frau-gabriel](https://www.spiegel.de/gesundheit/influenza-ist-diese-grippewelle-ungewoehnlich-frau-gabriel-a-d6fb92d7-3989-4727-ae97-4c19b572e7bb#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-naomi-osakas-fashionshow-jaeh-beendet](https://www.spiegel.de/sport/tennis/australian-open-naomi-osakas-fashionshow-jaeh-beendet-a-e396992f-a7ad-4f61-8c7b-da0bcd66357b#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/gesundheit/holzofen-feinstaub-wird-trotz-kaminverbot-nicht-weniger](https://www.spiegel.de/gesundheit/holzofen-feinstaub-wird-trotz-kaminverbot-nicht-weniger-a-2eb2710b-6f1d-46f9-8887-a7eabf89e509#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/deutsche-gruene-bieten-votum-fuer-schnelle-mercosur-ratifizierung-an](https://www.spiegel.de/wirtschaft/soziales/deutsche-gruene-bieten-votum-fuer-schnelle-mercosur-ratifizierung-an-a-7b393df9-6cd6-4414-91cb-dc765c89a0f1#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/panorama/mindestens-acht-tote-und-dutzende-vermisste-nach-erdrutsch-in-indonesien](https://www.spiegel.de/panorama/mindestens-acht-tote-und-dutzende-vermisste-nach-erdrutsch-in-indonesien-a-a9ef973a-f588-4798-ab97-4de0677a5f3a#ref=rss)
-### acht
-
-* [https://www.spiegel.de/panorama/mindestens-acht-tote-und-dutzende-vermisste-nach-erdrutsch-in-indonesien](https://www.spiegel.de/panorama/mindestens-acht-tote-und-dutzende-vermisste-nach-erdrutsch-in-indonesien-a-a9ef973a-f588-4798-ab97-4de0677a5f3a#ref=rss)
-### erdrutsch
-
-* [https://www.spiegel.de/panorama/mindestens-acht-tote-und-dutzende-vermisste-nach-erdrutsch-in-indonesien](https://www.spiegel.de/panorama/mindestens-acht-tote-und-dutzende-vermisste-nach-erdrutsch-in-indonesien-a-a9ef973a-f588-4798-ab97-4de0677a5f3a#ref=rss)
-### indonesien
-
-* [https://www.spiegel.de/panorama/mindestens-acht-tote-und-dutzende-vermisste-nach-erdrutsch-in-indonesien](https://www.spiegel.de/panorama/mindestens-acht-tote-und-dutzende-vermisste-nach-erdrutsch-in-indonesien-a-a9ef973a-f588-4798-ab97-4de0677a5f3a#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/mindestens-acht-tote-und-dutzende-vermisste-nach-erdrutsch-in-indonesien](https://www.spiegel.de/panorama/mindestens-acht-tote-und-dutzende-vermisste-nach-erdrutsch-in-indonesien-a-a9ef973a-f588-4798-ab97-4de0677a5f3a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-tausende-demonstrieren-beim-marsch-fuer-das-leben-in-washington-gegen-abtreibung](https://www.spiegel.de/ausland/usa-tausende-demonstrieren-beim-marsch-fuer-das-leben-in-washington-gegen-abtreibung-a-35d83cc8-e430-48f5-a322-00e1cc1ae9af#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr](https://www.spiegel.de/ausland/russlands-krieg-gegen-die-ukraine-selenskyj-bittet-um-hilfe-bei-der-flugabwehr-a-06e4b584-cfc7-40af-9ef1-81308525b73f#ref=rss)
-### giovanni
-
-* [https://www.spiegel.de/sport/wintersport/abfahrt-in-kitzbuehel-giovanni-franzoni-gewinnt-auf-der-streif-vor-marco-odermatt](https://www.spiegel.de/sport/wintersport/abfahrt-in-kitzbuehel-giovanni-franzoni-gewinnt-auf-der-streif-vor-marco-odermatt-a-1c3f830e-c107-4941-a8c2-bf6e7df651ec#ref=rss)
-### franzoni
-
-* [https://www.spiegel.de/sport/wintersport/abfahrt-in-kitzbuehel-giovanni-franzoni-gewinnt-auf-der-streif-vor-marco-odermatt](https://www.spiegel.de/sport/wintersport/abfahrt-in-kitzbuehel-giovanni-franzoni-gewinnt-auf-der-streif-vor-marco-odermatt-a-1c3f830e-c107-4941-a8c2-bf6e7df651ec#ref=rss)
-### bundesbank
-
-* [https://www.spiegel.de/wirtschaft/soziales/bundesbank-registriert-minuetlich-5000-cyberangriffe](https://www.spiegel.de/wirtschaft/soziales/bundesbank-registriert-minuetlich-5000-cyberangriffe-a-a852c9f4-8972-4b5e-b397-9b25a3134cdb#ref=rss)
-### rund
-
-* [https://www.spiegel.de/wirtschaft/soziales/bundesbank-registriert-minuetlich-5000-cyberangriffe](https://www.spiegel.de/wirtschaft/soziales/bundesbank-registriert-minuetlich-5000-cyberangriffe-a-a852c9f4-8972-4b5e-b397-9b25a3134cdb#ref=rss)
-* [https://www.spiegel.de/ausland/mumin-hype-weiche-wesen-fuer-harte-zeiten](https://www.spiegel.de/ausland/mumin-hype-weiche-wesen-fuer-harte-zeiten-a-8e41bdd3-32bc-481d-950e-3f85beaf0846#ref=rss)
-### stefanie
-
-* [https://www.spiegel.de/politik/deutschland/heimliches-filmen-justizministerin-will-aufnahmen-in-saunen-strafbar-machen](https://www.spiegel.de/politik/deutschland/heimliches-filmen-justizministerin-will-aufnahmen-in-saunen-strafbar-machen-a-ffb9d367-e428-49c1-8555-373e8ad284f0#ref=rss)
-### hubig
-
-* [https://www.spiegel.de/politik/deutschland/heimliches-filmen-justizministerin-will-aufnahmen-in-saunen-strafbar-machen](https://www.spiegel.de/politik/deutschland/heimliches-filmen-justizministerin-will-aufnahmen-in-saunen-strafbar-machen-a-ffb9d367-e428-49c1-8555-373e8ad284f0#ref=rss)
-### harry
-
-* [https://www.spiegel.de/panorama/leute/fans-frustriert-ueber-harry-styles-tour-nun-aeussert-sich-sein-label](https://www.spiegel.de/panorama/leute/fans-frustriert-ueber-harry-styles-tour-nun-aeussert-sich-sein-label-a-67bbb694-e0da-4453-a448-e80f8c55c3a3#ref=rss)
-### styles
-
-* [https://www.spiegel.de/panorama/leute/fans-frustriert-ueber-harry-styles-tour-nun-aeussert-sich-sein-label](https://www.spiegel.de/panorama/leute/fans-frustriert-ueber-harry-styles-tour-nun-aeussert-sich-sein-label-a-67bbb694-e0da-4453-a448-e80f8c55c3a3#ref=rss)
-### tour
-
-* [https://www.spiegel.de/panorama/leute/fans-frustriert-ueber-harry-styles-tour-nun-aeussert-sich-sein-label](https://www.spiegel.de/panorama/leute/fans-frustriert-ueber-harry-styles-tour-nun-aeussert-sich-sein-label-a-67bbb694-e0da-4453-a448-e80f8c55c3a3#ref=rss)
-### label
-
-* [https://www.spiegel.de/panorama/leute/fans-frustriert-ueber-harry-styles-tour-nun-aeussert-sich-sein-label](https://www.spiegel.de/panorama/leute/fans-frustriert-ueber-harry-styles-tour-nun-aeussert-sich-sein-label-a-67bbb694-e0da-4453-a448-e80f8c55c3a3#ref=rss)
-### jaywick
-
-* [https://www.spiegel.de/panorama/jaywick-das-aermste-dorf-grossbritanniens-ein-gluecklicher-trauriger-ort](https://www.spiegel.de/panorama/jaywick-das-aermste-dorf-grossbritanniens-ein-gluecklicher-trauriger-ort-a-c863b534-ee9c-438f-a0dc-754729e666b9#ref=rss)
-### dorf
-
-* [https://www.spiegel.de/panorama/jaywick-das-aermste-dorf-grossbritanniens-ein-gluecklicher-trauriger-ort](https://www.spiegel.de/panorama/jaywick-das-aermste-dorf-grossbritanniens-ein-gluecklicher-trauriger-ort-a-c863b534-ee9c-438f-a0dc-754729e666b9#ref=rss)
-### naomi
-
-* [https://www.spiegel.de/sport/tennis/australian-open-naomi-osakas-fashionshow-jaeh-beendet](https://www.spiegel.de/sport/tennis/australian-open-naomi-osakas-fashionshow-jaeh-beendet-a-e396992f-a7ad-4f61-8c7b-da0bcd66357b#ref=rss)
-### tag
-
-* [https://www.spiegel.de/politik/us-praesident-warum-trump-bald-geschichte-sein-wird](https://www.spiegel.de/politik/us-praesident-warum-trump-bald-geschichte-sein-wird-a-29b76be8-79ac-4fc0-959c-a6a6c0f6d813#ref=rss)
+* [https://www.spiegel.de/ausland/albanien-zusammenstoesse-bei-protesten-gegen-premierminister-rama](https://www.spiegel.de/ausland/albanien-zusammenstoesse-bei-protesten-gegen-premierminister-rama-a-3a8605c7-0635-4149-a477-ea14c765cff9#ref=rss)
 
