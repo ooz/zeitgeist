@@ -4,306 +4,366 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### schnee
-
-* [https://www.spiegel.de/panorama/wetter-eis-und-schnee-sorgen-fuer-hunderte-unfaelle-in-deutschland](https://www.spiegel.de/panorama/wetter-eis-und-schnee-sorgen-fuer-hunderte-unfaelle-in-deutschland-a-69e97083-d8d8-4cb4-8937-f596b717138c#ref=rss)
-* [https://www.spiegel.de/ausland/usa-schneesturm-bringt-chaos-tausende-fluege-gestrichen-stromausfaelle](https://www.spiegel.de/ausland/usa-schneesturm-bringt-chaos-tausende-fluege-gestrichen-stromausfaelle-a-e0c3b9ad-37c6-455f-a734-01b07da6b80d#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-eis-verwandeln-deutschland-wieder-in-ein-winterwunderland](https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-eis-verwandeln-deutschland-wieder-in-ein-winterwunderland-a-92b9903b-7e80-4751-a244-f5ce76e64059#ref=rss)
-* [https://www.spiegel.de/panorama/glatteis-und-schnee-fuehren-zu-unfaellen-und-schulausfaellen](https://www.spiegel.de/panorama/glatteis-und-schnee-fuehren-zu-unfaellen-und-schulausfaellen-a-4ca1bd0e-3616-4c32-9254-b45f169fbbcb#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/wetter-eis-und-schnee-sorgen-fuer-hunderte-unfaelle-in-deutschland](https://www.spiegel.de/panorama/wetter-eis-und-schnee-sorgen-fuer-hunderte-unfaelle-in-deutschland-a-69e97083-d8d8-4cb4-8937-f596b717138c#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-eis-verwandeln-deutschland-wieder-in-ein-winterwunderland](https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-eis-verwandeln-deutschland-wieder-in-ein-winterwunderland-a-92b9903b-7e80-4751-a244-f5ce76e64059#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verteidigung-viele-deutsche-firmen-sehen-nachholbedarf-fuer-krisen-und-kriegsfall](https://www.spiegel.de/wirtschaft/verteidigung-viele-deutsche-firmen-sehen-nachholbedarf-fuer-krisen-und-kriegsfall-a-e9381d76-fd0a-4d6b-a7f1-1b4f1564b274#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr](https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr-a-a3e9f1e3-340f-4c3b-bc2a-0e45c7ea1a9b#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/usa-schneesturm-bringt-chaos-tausende-fluege-gestrichen-stromausfaelle](https://www.spiegel.de/ausland/usa-schneesturm-bringt-chaos-tausende-fluege-gestrichen-stromausfaelle-a-e0c3b9ad-37c6-455f-a734-01b07da6b80d#ref=rss)
-* [https://www.spiegel.de/karriere/teilzeit-und-arbeitsrecht-die-groessten-irrtuemer-der-faktencheck](https://www.spiegel.de/karriere/teilzeit-und-arbeitsrecht-die-groessten-irrtuemer-der-faktencheck-a-796ad412-40e1-43da-9a78-041c770fc326#ref=rss)
-* [https://www.spiegel.de/wirtschaft/feinunze-gold-kostet-erstmals-mehr-als-5000-dollar](https://www.spiegel.de/wirtschaft/feinunze-gold-kostet-erstmals-mehr-als-5000-dollar-a-7011b267-ea44-48ad-b848-0a621d1334ac#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr](https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr-a-a3e9f1e3-340f-4c3b-bc2a-0e45c7ea1a9b#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/usa-schneesturm-bringt-chaos-tausende-fluege-gestrichen-stromausfaelle](https://www.spiegel.de/ausland/usa-schneesturm-bringt-chaos-tausende-fluege-gestrichen-stromausfaelle-a-e0c3b9ad-37c6-455f-a734-01b07da6b80d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/zohran-mamdani-versuesst-new-yorkern-den-schneesturm-mit-heated-rivalry](https://www.spiegel.de/panorama/leute/zohran-mamdani-versuesst-new-yorkern-den-schneesturm-mit-heated-rivalry-a-1aa0418c-df7b-4a40-822c-880c5efbdb55#ref=rss)
-* [https://www.spiegel.de/politik/gaza-israel-stimmt-oeffnung-des-rafah-grenzuebergangs-zu](https://www.spiegel.de/politik/gaza-israel-stimmt-oeffnung-des-rafah-grenzuebergangs-zu-a-60ca2c6f-7725-4383-a524-0ceb168c540b#ref=rss)
-### trump
-
-* [https://www.spiegel.de/politik/afghanistan-einsatz-pistorius-kritisiert-trumps-aeusserungen-zur-bundeswehr](https://www.spiegel.de/politik/afghanistan-einsatz-pistorius-kritisiert-trumps-aeusserungen-zur-bundeswehr-a-a5f9694f-d41c-4cc1-8c88-87a69fba36ab#ref=rss)
-* [https://www.spiegel.de/ausland/gregory-bovino-welche-rolle-der-border-patrol-chief-in-trumps-brutaler-einwanderungspolitik-spielt](https://www.spiegel.de/ausland/gregory-bovino-welche-rolle-der-border-patrol-chief-in-trumps-brutaler-einwanderungspolitik-spielt-a-2d599c9a-2a87-4ac3-bca0-196aa81e0d13#ref=rss)
-* [https://www.spiegel.de/kultur/tv/caren-miosga-mit-boris-pistoris-norbert-roettgen-ein-talk-wie-die-weltlage-getrieben-und-unruhig](https://www.spiegel.de/kultur/tv/caren-miosga-mit-boris-pistoris-norbert-roettgen-ein-talk-wie-die-weltlage-getrieben-und-unruhig-a-bf93e24b-fd59-4f7d-8880-20f5fa34ad77#ref=rss)
-### minneapolis
-
-* [https://www.spiegel.de/politik/minneapolis-clinton-kritisiert-trump-regierung-nach-toedlichen-schuessen](https://www.spiegel.de/politik/minneapolis-clinton-kritisiert-trump-regierung-nach-toedlichen-schuessen-a-531c80c5-cba4-4a53-b567-63a19b4c9861#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-minneapolis-nordsee-anrainer-holocaust-gedenktag-lifestyle-freizeit](https://www.spiegel.de/politik/deutschland/news-minneapolis-nordsee-anrainer-holocaust-gedenktag-lifestyle-freizeit-a-b583b65f-d861-4bbe-a7f7-3571f035f3f1#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/russland-meinungsforscher-die-russen-sind-ueberzeugt-dass-die-ukraine-kapitulieren-wird](https://www.spiegel.de/ausland/russland-meinungsforscher-die-russen-sind-ueberzeugt-dass-die-ukraine-kapitulieren-wird-a-ad0bc885-cd54-4221-9079-d16315a6ead6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verteidigung-viele-deutsche-firmen-sehen-nachholbedarf-fuer-krisen-und-kriegsfall](https://www.spiegel.de/wirtschaft/verteidigung-viele-deutsche-firmen-sehen-nachholbedarf-fuer-krisen-und-kriegsfall-a-e9381d76-fd0a-4d6b-a7f1-1b4f1564b274#ref=rss)
-### elon
-
-* [https://www.spiegel.de/netzwelt/grok-eu-kommission-geht-gegen-elon-musks-ki-bot-vor](https://www.spiegel.de/netzwelt/grok-eu-kommission-geht-gegen-elon-musks-ki-bot-vor-a-895ea701-1956-4b69-a0fd-bbfb90158983#ref=rss)
-* [https://www.spiegel.de/wirtschaft/aufruestung-im-weltall-rheinmetall-will-mit-ohb-deutsches-starlink-bauen](https://www.spiegel.de/wirtschaft/aufruestung-im-weltall-rheinmetall-will-mit-ohb-deutsches-starlink-bauen-a-b70ffd40-fe26-45f3-889e-54638480c0f7#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/politik/iran-internet-bleibt-gestoert](https://www.spiegel.de/politik/iran-internet-bleibt-gestoert-a-9f421586-19d9-4c4c-9fbc-67397a2eb7c9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/afd-plaene-fuer-autoindustrie-oekonomen-sprechen-von-eklatander-inkompetenz](https://www.spiegel.de/wirtschaft/afd-plaene-fuer-autoindustrie-oekonomen-sprechen-von-eklatander-inkompetenz-a-615112fd-8753-4d35-9d2a-19cd0140b420#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verteidigung-viele-deutsche-firmen-sehen-nachholbedarf-fuer-krisen-und-kriegsfall](https://www.spiegel.de/wirtschaft/verteidigung-viele-deutsche-firmen-sehen-nachholbedarf-fuer-krisen-und-kriegsfall-a-e9381d76-fd0a-4d6b-a7f1-1b4f1564b274#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/karriere/teilzeit-und-arbeitsrecht-die-groessten-irrtuemer-der-faktencheck](https://www.spiegel.de/karriere/teilzeit-und-arbeitsrecht-die-groessten-irrtuemer-der-faktencheck-a-796ad412-40e1-43da-9a78-041c770fc326#ref=rss)
-* [https://www.spiegel.de/politik/venezuela-delcy-rodriguez-fordert-ende-der-us-einmischung](https://www.spiegel.de/politik/venezuela-delcy-rodriguez-fordert-ende-der-us-einmischung-a-ac86c547-3af0-4c94-a7ac-eb22ed023ac6#ref=rss)
+* [https://www.spiegel.de/panorama/usa-privatjet-stuerzt-beim-start-in-maine-ab-sieben-tote](https://www.spiegel.de/panorama/usa-privatjet-stuerzt-beim-start-in-maine-ab-sieben-tote-a-3712fcf2-3a9b-468e-b49f-675c4c8b5466#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/nordseegipfel-in-hamburg-so-lief-das-energie-spitzentreffen-der-anrainer-staaten](https://www.spiegel.de/wirtschaft/soziales/nordseegipfel-in-hamburg-so-lief-das-energie-spitzentreffen-der-anrainer-staaten-a-47876143-5590-4ee9-9210-b346b4ee742e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele](https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele-a-05035500-c8e8-47de-9599-7f175d115c59#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-debatte-um-den-boykott-des-turniers-wird-gefuehrt](https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-debatte-um-den-boykott-des-turniers-wird-gefuehrt-a-82976d90-3861-48cc-a997-ba377a382c58#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/philippinen-mindestens-18-menschen-sterben-bei-faehrunglueck](https://www.spiegel.de/panorama/philippinen-mindestens-18-menschen-sterben-bei-faehrunglueck-a-6b770fce-8f65-459e-bee0-23bb0eac752a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mexiko-mindestens-elf-menschen-bei-angriff-auf-fussballfeld-getoetet](https://www.spiegel.de/panorama/justiz/mexiko-mindestens-elf-menschen-bei-angriff-auf-fussballfeld-getoetet-a-01dcea7c-a3a9-4c70-b9d1-2898183daa0d#ref=rss)
-### pistorius
+* [https://www.spiegel.de/panorama/usa-privatjet-stuerzt-beim-start-in-maine-ab-sieben-tote](https://www.spiegel.de/panorama/usa-privatjet-stuerzt-beim-start-in-maine-ab-sieben-tote-a-3712fcf2-3a9b-468e-b49f-675c4c8b5466#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/gen-z-und-millennials-warum-bei-jungen-menschen-die-sehnsucht-nach-gestern-gross-ist](https://www.spiegel.de/panorama/bildung/gen-z-und-millennials-warum-bei-jungen-menschen-die-sehnsucht-nach-gestern-gross-ist-a-a838077e-9491-4b54-8d37-1b7dcb02004f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-messerangreiferin-vom-hauptbahnhof-muss-in-die-forensische-psychiatrie](https://www.spiegel.de/panorama/justiz/hamburg-messerangreiferin-vom-hauptbahnhof-muss-in-die-forensische-psychiatrie-a-5b0de81d-1bad-4e4e-9841-26a1d922134f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/nahrungsergaenzung-hilft-magnesium-bei-augenlidzucken](https://www.spiegel.de/wissenschaft/mensch/nahrungsergaenzung-hilft-magnesium-bei-augenlidzucken-a-30dc1e15-06d8-4baa-9fa3-2531af65e664#ref=rss)
+* [https://www.spiegel.de/psychologie/einsamkeit-warum-kino-oper-und-ausstellungen-gegen-das-alleinsein-helfen-koennen](https://www.spiegel.de/psychologie/einsamkeit-warum-kino-oper-und-ausstellungen-gegen-das-alleinsein-helfen-koennen-a-dd507f98-3ef7-4e1d-80d9-2b45b2f1eb9d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-debatte-um-den-boykott-des-turniers-wird-gefuehrt](https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-debatte-um-den-boykott-des-turniers-wird-gefuehrt-a-82976d90-3861-48cc-a997-ba377a382c58#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/afghanistan-einsatz-pistorius-kritisiert-trumps-aeusserungen-zur-bundeswehr](https://www.spiegel.de/politik/afghanistan-einsatz-pistorius-kritisiert-trumps-aeusserungen-zur-bundeswehr-a-a5f9694f-d41c-4cc1-8c88-87a69fba36ab#ref=rss)
-* [https://www.spiegel.de/kultur/tv/caren-miosga-mit-boris-pistoris-norbert-roettgen-ein-talk-wie-die-weltlage-getrieben-und-unruhig](https://www.spiegel.de/kultur/tv/caren-miosga-mit-boris-pistoris-norbert-roettgen-ein-talk-wie-die-weltlage-getrieben-und-unruhig-a-bf93e24b-fd59-4f7d-8880-20f5fa34ad77#ref=rss)
-### gehen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland-a-ee8fbee1-7775-43f2-8279-545096ebc814#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-em-andreas-wolff-gegen-emil-nielsen-das-duell-der-torwartgiganten](https://www.spiegel.de/sport/handball/handball-em-andreas-wolff-gegen-emil-nielsen-das-duell-der-torwartgiganten-a-5cffb10b-f14e-406f-b25a-2ebd0755e94e#ref=rss)
+* [https://www.spiegel.de/politik/minnesota-bundesregierung-mahnt-rechtsstaatliche-untersuchung-im-fall-alex-pretti-an](https://www.spiegel.de/politik/minnesota-bundesregierung-mahnt-rechtsstaatliche-untersuchung-im-fall-alex-pretti-an-a-cd46bdbb-ec79-4d47-97ae-858dc3ba1c80#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeit-hoher-krankenstand-kostet-wirtschaft-bis-zu-160-milliarden-pro-jahr](https://www.spiegel.de/wirtschaft/arbeit-hoher-krankenstand-kostet-wirtschaft-bis-zu-160-milliarden-pro-jahr-a-0c825294-4c63-48ce-92b4-04d646b7ff0f#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/mehrsprachige-erziehung-jede-sprache-ist-es-wert-gefoerdert-zu-werden](https://www.spiegel.de/panorama/bildung/mehrsprachige-erziehung-jede-sprache-ist-es-wert-gefoerdert-zu-werden-a-b665caf6-65a1-4605-9c3f-2abe15a9c091#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/leute/zohran-mamdani-versuesst-new-yorkern-den-schneesturm-mit-heated-rivalry](https://www.spiegel.de/panorama/leute/zohran-mamdani-versuesst-new-yorkern-den-schneesturm-mit-heated-rivalry-a-1aa0418c-df7b-4a40-822c-880c5efbdb55#ref=rss)
-* [https://www.spiegel.de/auto/alkoholunfaelle-von-radfahrern-sollte-es-strengere-promillegrenzen-geben](https://www.spiegel.de/auto/alkoholunfaelle-von-radfahrern-sollte-es-strengere-promillegrenzen-geben-a-c99ec908-71cc-4db9-beeb-4f02c35ee898#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr](https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr-a-a3e9f1e3-340f-4c3b-bc2a-0e45c7ea1a9b#ref=rss)
-### macht
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele](https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele-a-05035500-c8e8-47de-9599-7f175d115c59#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-debatte-um-den-boykott-des-turniers-wird-gefuehrt](https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-debatte-um-den-boykott-des-turniers-wird-gefuehrt-a-82976d90-3861-48cc-a997-ba377a382c58#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-faktisch-sind-wir-schon-mitten-im-handelskrieg](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-faktisch-sind-wir-schon-mitten-im-handelskrieg-a-344456f0-25d3-498c-b970-89cf355f7a7a#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/gregory-bovino-welche-rolle-der-border-patrol-chief-in-trumps-brutaler-einwanderungspolitik-spielt](https://www.spiegel.de/ausland/gregory-bovino-welche-rolle-der-border-patrol-chief-in-trumps-brutaler-einwanderungspolitik-spielt-a-2d599c9a-2a87-4ac3-bca0-196aa81e0d13#ref=rss)
-* [https://www.spiegel.de/wirtschaft/feinunze-gold-kostet-erstmals-mehr-als-5000-dollar](https://www.spiegel.de/wirtschaft/feinunze-gold-kostet-erstmals-mehr-als-5000-dollar-a-7011b267-ea44-48ad-b848-0a621d1334ac#ref=rss)
-* [https://www.spiegel.de/kultur/tv/caren-miosga-mit-boris-pistoris-norbert-roettgen-ein-talk-wie-die-weltlage-getrieben-und-unruhig](https://www.spiegel.de/kultur/tv/caren-miosga-mit-boris-pistoris-norbert-roettgen-ein-talk-wie-die-weltlage-getrieben-und-unruhig-a-bf93e24b-fd59-4f7d-8880-20f5fa34ad77#ref=rss)
-### autoindustrie
+* [https://www.spiegel.de/wirtschaft/soziales/nordseegipfel-in-hamburg-so-lief-das-energie-spitzentreffen-der-anrainer-staaten](https://www.spiegel.de/wirtschaft/soziales/nordseegipfel-in-hamburg-so-lief-das-energie-spitzentreffen-der-anrainer-staaten-a-47876143-5590-4ee9-9210-b346b4ee742e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland-a-ee8fbee1-7775-43f2-8279-545096ebc814#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/blumen-branche-frauen-kaufen-sich-ihren-strauss-haeufiger-selbst](https://www.spiegel.de/wirtschaft/service/blumen-branche-frauen-kaufen-sich-ihren-strauss-haeufiger-selbst-a-91086617-0fab-4f70-ad76-1536108a509b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation](https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation-a-e2b9c0ab-846c-4dcd-8027-c2aae7fd9a4e#ref=rss)
+### together
 
-* [https://www.spiegel.de/wirtschaft/afd-plaene-fuer-autoindustrie-oekonomen-sprechen-von-eklatander-inkompetenz](https://www.spiegel.de/wirtschaft/afd-plaene-fuer-autoindustrie-oekonomen-sprechen-von-eklatander-inkompetenz-a-615112fd-8753-4d35-9d2a-19cd0140b420#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-wie-viel-die-autokonzerne-durch-bruessels-laxere-co-regeln-gespart-haben](https://www.spiegel.de/wirtschaft/unternehmen/eu-wie-viel-die-autokonzerne-durch-bruessels-laxere-co-regeln-gespart-haben-a-37071b3b-d1db-42f9-b737-a6318a1df874#ref=rss)
-### israel
+* [https://www.spiegel.de/kultur/musik/harry-styles-seine-together-together-tour-ist-offenbar-nur-noch-fuer-fans-mit-goldener-kreditkarte](https://www.spiegel.de/kultur/musik/harry-styles-seine-together-together-tour-ist-offenbar-nur-noch-fuer-fans-mit-goldener-kreditkarte-a-8939c9ff-fb0f-4d20-98df-99e33cdfce80#ref=rss)
+### ceos
 
-* [https://www.spiegel.de/politik/gaza-israel-stimmt-oeffnung-des-rafah-grenzuebergangs-zu](https://www.spiegel.de/politik/gaza-israel-stimmt-oeffnung-des-rafah-grenzuebergangs-zu-a-60ca2c6f-7725-4383-a524-0ceb168c540b#ref=rss)
-### russen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland-a-ee8fbee1-7775-43f2-8279-545096ebc814#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation](https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation-a-e2b9c0ab-846c-4dcd-8027-c2aae7fd9a4e#ref=rss)
+### minnesota
 
-* [https://www.spiegel.de/ausland/russland-meinungsforscher-die-russen-sind-ueberzeugt-dass-die-ukraine-kapitulieren-wird](https://www.spiegel.de/ausland/russland-meinungsforscher-die-russen-sind-ueberzeugt-dass-die-ukraine-kapitulieren-wird-a-ad0bc885-cd54-4221-9079-d16315a6ead6#ref=rss)
-### fast
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland-a-ee8fbee1-7775-43f2-8279-545096ebc814#ref=rss)
+* [https://www.spiegel.de/politik/minnesota-bundesregierung-mahnt-rechtsstaatliche-untersuchung-im-fall-alex-pretti-an](https://www.spiegel.de/politik/minnesota-bundesregierung-mahnt-rechtsstaatliche-untersuchung-im-fall-alex-pretti-an-a-cd46bdbb-ec79-4d47-97ae-858dc3ba1c80#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation](https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation-a-e2b9c0ab-846c-4dcd-8027-c2aae7fd9a4e#ref=rss)
+### fordern
 
-* [https://www.spiegel.de/ausland/russland-meinungsforscher-die-russen-sind-ueberzeugt-dass-die-ukraine-kapitulieren-wird](https://www.spiegel.de/ausland/russland-meinungsforscher-die-russen-sind-ueberzeugt-dass-die-ukraine-kapitulieren-wird-a-ad0bc885-cd54-4221-9079-d16315a6ead6#ref=rss)
-### jahren
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland-a-ee8fbee1-7775-43f2-8279-545096ebc814#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation](https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation-a-e2b9c0ab-846c-4dcd-8027-c2aae7fd9a4e#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/ausland/russland-meinungsforscher-die-russen-sind-ueberzeugt-dass-die-ukraine-kapitulieren-wird](https://www.spiegel.de/ausland/russland-meinungsforscher-die-russen-sind-ueberzeugt-dass-die-ukraine-kapitulieren-wird-a-ad0bc885-cd54-4221-9079-d16315a6ead6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/zohran-mamdani-versuesst-new-yorkern-den-schneesturm-mit-heated-rivalry](https://www.spiegel.de/panorama/leute/zohran-mamdani-versuesst-new-yorkern-den-schneesturm-mit-heated-rivalry-a-1aa0418c-df7b-4a40-822c-880c5efbdb55#ref=rss)
-### sagt
+* [https://www.spiegel.de/wirtschaft/soziales/nordseegipfel-in-hamburg-so-lief-das-energie-spitzentreffen-der-anrainer-staaten](https://www.spiegel.de/wirtschaft/soziales/nordseegipfel-in-hamburg-so-lief-das-energie-spitzentreffen-der-anrainer-staaten-a-47876143-5590-4ee9-9210-b346b4ee742e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/christina-block-nebenklage-sorgt-im-prozess-fuer-empoerung](https://www.spiegel.de/panorama/justiz/christina-block-nebenklage-sorgt-im-prozess-fuer-empoerung-a-940df00f-4339-417a-894a-3e314c785641#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-messerangreiferin-vom-hauptbahnhof-muss-in-die-forensische-psychiatrie](https://www.spiegel.de/panorama/justiz/hamburg-messerangreiferin-vom-hauptbahnhof-muss-in-die-forensische-psychiatrie-a-5b0de81d-1bad-4e4e-9841-26a1d922134f#ref=rss)
+### stellt
 
-* [https://www.spiegel.de/ausland/russland-meinungsforscher-die-russen-sind-ueberzeugt-dass-die-ukraine-kapitulieren-wird](https://www.spiegel.de/ausland/russland-meinungsforscher-die-russen-sind-ueberzeugt-dass-die-ukraine-kapitulieren-wird-a-ad0bc885-cd54-4221-9079-d16315a6ead6#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr](https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr-a-a3e9f1e3-340f-4c3b-bc2a-0e45c7ea1a9b#ref=rss)
-### eukommission
+* [https://www.spiegel.de/ausland/grossbritannien-suella-braverman-verlaesst-tories-und-schliesst-sich-partei-von-nigel-farage-an](https://www.spiegel.de/ausland/grossbritannien-suella-braverman-verlaesst-tories-und-schliesst-sich-partei-von-nigel-farage-an-a-2b988798-a341-42ce-8b96-ce00ac52f3cf#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-anschlag-auf-stromnetz-senatorin-stellt-millionenbelohnung-fuer-hinweise-in-aussicht](https://www.spiegel.de/panorama/justiz/berlin-anschlag-auf-stromnetz-senatorin-stellt-millionenbelohnung-fuer-hinweise-in-aussicht-a-dfdfcf60-27ce-4df7-97ba-72c0aa22bc06#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-debatte-um-den-boykott-des-turniers-wird-gefuehrt](https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-debatte-um-den-boykott-des-turniers-wird-gefuehrt-a-82976d90-3861-48cc-a997-ba377a382c58#ref=rss)
+### empörung
 
-* [https://www.spiegel.de/netzwelt/grok-eu-kommission-geht-gegen-elon-musks-ki-bot-vor](https://www.spiegel.de/netzwelt/grok-eu-kommission-geht-gegen-elon-musks-ki-bot-vor-a-895ea701-1956-4b69-a0fd-bbfb90158983#ref=rss)
-### musks
+* [https://www.spiegel.de/kultur/musik/kanye-west-schaltet-entschuldigungs-anzeige-im-wall-street-journal](https://www.spiegel.de/kultur/musik/kanye-west-schaltet-entschuldigungs-anzeige-im-wall-street-journal-a-8cdebbea-067e-491f-835e-9dc292f3aa85#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/christina-block-nebenklage-sorgt-im-prozess-fuer-empoerung](https://www.spiegel.de/panorama/justiz/christina-block-nebenklage-sorgt-im-prozess-fuer-empoerung-a-940df00f-4339-417a-894a-3e314c785641#ref=rss)
+* [https://www.spiegel.de/politik/minnesota-bundesregierung-mahnt-rechtsstaatliche-untersuchung-im-fall-alex-pretti-an](https://www.spiegel.de/politik/minnesota-bundesregierung-mahnt-rechtsstaatliche-untersuchung-im-fall-alex-pretti-an-a-cd46bdbb-ec79-4d47-97ae-858dc3ba1c80#ref=rss)
+### ich
 
-* [https://www.spiegel.de/netzwelt/grok-eu-kommission-geht-gegen-elon-musks-ki-bot-vor](https://www.spiegel.de/netzwelt/grok-eu-kommission-geht-gegen-elon-musks-ki-bot-vor-a-895ea701-1956-4b69-a0fd-bbfb90158983#ref=rss)
-* [https://www.spiegel.de/wirtschaft/aufruestung-im-weltall-rheinmetall-will-mit-ohb-deutsches-starlink-bauen](https://www.spiegel.de/wirtschaft/aufruestung-im-weltall-rheinmetall-will-mit-ohb-deutsches-starlink-bauen-a-b70ffd40-fe26-45f3-889e-54638480c0f7#ref=rss)
-### wetter
+* [https://www.spiegel.de/kultur/musik/kanye-west-schaltet-entschuldigungs-anzeige-im-wall-street-journal](https://www.spiegel.de/kultur/musik/kanye-west-schaltet-entschuldigungs-anzeige-im-wall-street-journal-a-8cdebbea-067e-491f-835e-9dc292f3aa85#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-debatte-ueber-das-recht-auf-teilzeit-ein-hoch-auf-die-viertagewoche](https://www.spiegel.de/politik/deutschland/cdu-debatte-ueber-das-recht-auf-teilzeit-ein-hoch-auf-die-viertagewoche-a-30189ec9-92f4-48a2-8a35-7e5c55f42d5b#ref=rss)
+* [https://www.spiegel.de/psychologie/einsamkeit-warum-kino-oper-und-ausstellungen-gegen-das-alleinsein-helfen-koennen](https://www.spiegel.de/psychologie/einsamkeit-warum-kino-oper-und-ausstellungen-gegen-das-alleinsein-helfen-koennen-a-dd507f98-3ef7-4e1d-80d9-2b45b2f1eb9d#ref=rss)
+### reagiert
 
-* [https://www.spiegel.de/panorama/wetter-eis-und-schnee-sorgen-fuer-hunderte-unfaelle-in-deutschland](https://www.spiegel.de/panorama/wetter-eis-und-schnee-sorgen-fuer-hunderte-unfaelle-in-deutschland-a-69e97083-d8d8-4cb4-8937-f596b717138c#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-eis-verwandeln-deutschland-wieder-in-ein-winterwunderland](https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-eis-verwandeln-deutschland-wieder-in-ein-winterwunderland-a-92b9903b-7e80-4751-a244-f5ce76e64059#ref=rss)
-### eis
+* [https://www.spiegel.de/sport/fussball/stefan-kuntz-und-der-hsv-nachweislich-unwahr-aufsichtsrat-reagiert-auf-kuntz-aussagen](https://www.spiegel.de/sport/fussball/stefan-kuntz-und-der-hsv-nachweislich-unwahr-aufsichtsrat-reagiert-auf-kuntz-aussagen-a-38475257-5a2b-4094-baca-663bdfe4f6fc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/christina-block-nebenklage-sorgt-im-prozess-fuer-empoerung](https://www.spiegel.de/panorama/justiz/christina-block-nebenklage-sorgt-im-prozess-fuer-empoerung-a-940df00f-4339-417a-894a-3e314c785641#ref=rss)
+### fußballwm
 
-* [https://www.spiegel.de/panorama/wetter-eis-und-schnee-sorgen-fuer-hunderte-unfaelle-in-deutschland](https://www.spiegel.de/panorama/wetter-eis-und-schnee-sorgen-fuer-hunderte-unfaelle-in-deutschland-a-69e97083-d8d8-4cb4-8937-f596b717138c#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-eis-verwandeln-deutschland-wieder-in-ein-winterwunderland](https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-eis-verwandeln-deutschland-wieder-in-ein-winterwunderland-a-92b9903b-7e80-4751-a244-f5ce76e64059#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/panorama/wetter-eis-und-schnee-sorgen-fuer-hunderte-unfaelle-in-deutschland](https://www.spiegel.de/panorama/wetter-eis-und-schnee-sorgen-fuer-hunderte-unfaelle-in-deutschland-a-69e97083-d8d8-4cb4-8937-f596b717138c#ref=rss)
-* [https://www.spiegel.de/panorama/glatteis-und-schnee-fuehren-zu-unfaellen-und-schulausfaellen](https://www.spiegel.de/panorama/glatteis-und-schnee-fuehren-zu-unfaellen-und-schulausfaellen-a-4ca1bd0e-3616-4c32-9254-b45f169fbbcb#ref=rss)
-### unfälle
-
-* [https://www.spiegel.de/panorama/wetter-eis-und-schnee-sorgen-fuer-hunderte-unfaelle-in-deutschland](https://www.spiegel.de/panorama/wetter-eis-und-schnee-sorgen-fuer-hunderte-unfaelle-in-deutschland-a-69e97083-d8d8-4cb4-8937-f596b717138c#ref=rss)
-### führen
-
-* [https://www.spiegel.de/panorama/wetter-eis-und-schnee-sorgen-fuer-hunderte-unfaelle-in-deutschland](https://www.spiegel.de/panorama/wetter-eis-und-schnee-sorgen-fuer-hunderte-unfaelle-in-deutschland-a-69e97083-d8d8-4cb4-8937-f596b717138c#ref=rss)
-* [https://www.spiegel.de/panorama/glatteis-und-schnee-fuehren-zu-unfaellen-und-schulausfaellen](https://www.spiegel.de/panorama/glatteis-und-schnee-fuehren-zu-unfaellen-und-schulausfaellen-a-4ca1bd0e-3616-4c32-9254-b45f169fbbcb#ref=rss)
-### schneesturm
-
-* [https://www.spiegel.de/ausland/usa-schneesturm-bringt-chaos-tausende-fluege-gestrichen-stromausfaelle](https://www.spiegel.de/ausland/usa-schneesturm-bringt-chaos-tausende-fluege-gestrichen-stromausfaelle-a-e0c3b9ad-37c6-455f-a734-01b07da6b80d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/zohran-mamdani-versuesst-new-yorkern-den-schneesturm-mit-heated-rivalry](https://www.spiegel.de/panorama/leute/zohran-mamdani-versuesst-new-yorkern-den-schneesturm-mit-heated-rivalry-a-1aa0418c-df7b-4a40-822c-880c5efbdb55#ref=rss)
-### flüge
-
-* [https://www.spiegel.de/ausland/usa-schneesturm-bringt-chaos-tausende-fluege-gestrichen-stromausfaelle](https://www.spiegel.de/ausland/usa-schneesturm-bringt-chaos-tausende-fluege-gestrichen-stromausfaelle-a-e0c3b9ad-37c6-455f-a734-01b07da6b80d#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/ausland/usa-schneesturm-bringt-chaos-tausende-fluege-gestrichen-stromausfaelle](https://www.spiegel.de/ausland/usa-schneesturm-bringt-chaos-tausende-fluege-gestrichen-stromausfaelle-a-e0c3b9ad-37c6-455f-a734-01b07da6b80d#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/fliegender-ski-von-domen-prevc-bei-skiflug-wm-slowenischer-verband-kuendigt-weiteren-protest-an](https://www.spiegel.de/sport/wintersport/fliegender-ski-von-domen-prevc-bei-skiflug-wm-slowenischer-verband-kuendigt-weiteren-protest-an-a-fc9acd48-c8b8-4bfe-878d-0b18b8444e5b#ref=rss)
-### teil
-
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-2026-teil-3-dem-outdoor-gericht-wird-ein-beweisstueck-praesentiert](https://www.spiegel.de/kultur/tv/dschungelcamp-2026-teil-3-dem-outdoor-gericht-wird-ein-beweisstueck-praesentiert-a-3f044dbb-271c-4e11-96dc-a223f67b1ed1#ref=rss)
-* [https://www.spiegel.de/karriere/teilzeit-und-arbeitsrecht-die-groessten-irrtuemer-der-faktencheck](https://www.spiegel.de/karriere/teilzeit-und-arbeitsrecht-die-groessten-irrtuemer-der-faktencheck-a-796ad412-40e1-43da-9a78-041c770fc326#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-eis-verwandeln-deutschland-wieder-in-ein-winterwunderland](https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-eis-verwandeln-deutschland-wieder-in-ein-winterwunderland-a-92b9903b-7e80-4751-a244-f5ce76e64059#ref=rss)
-* [https://www.spiegel.de/auto/alkoholunfaelle-von-radfahrern-sollte-es-strengere-promillegrenzen-geben](https://www.spiegel.de/auto/alkoholunfaelle-von-radfahrern-sollte-es-strengere-promillegrenzen-geben-a-c99ec908-71cc-4db9-beeb-4f02c35ee898#ref=rss)
-### 18
-
-* [https://www.spiegel.de/politik/iran-internet-bleibt-gestoert](https://www.spiegel.de/politik/iran-internet-bleibt-gestoert-a-9f421586-19d9-4c4c-9fbc-67397a2eb7c9#ref=rss)
-* [https://www.spiegel.de/panorama/philippinen-mindestens-18-menschen-sterben-bei-faehrunglueck](https://www.spiegel.de/panorama/philippinen-mindestens-18-menschen-sterben-bei-faehrunglueck-a-6b770fce-8f65-459e-bee0-23bb0eac752a#ref=rss)
-### einschränkungen
-
-* [https://www.spiegel.de/politik/iran-internet-bleibt-gestoert](https://www.spiegel.de/politik/iran-internet-bleibt-gestoert-a-9f421586-19d9-4c4c-9fbc-67397a2eb7c9#ref=rss)
-* [https://www.spiegel.de/politik/gaza-israel-stimmt-oeffnung-des-rafah-grenzuebergangs-zu](https://www.spiegel.de/politik/gaza-israel-stimmt-oeffnung-des-rafah-grenzuebergangs-zu-a-60ca2c6f-7725-4383-a524-0ceb168c540b#ref=rss)
-### ikke
-
-* [https://www.spiegel.de/panorama/leute/ikke-hueftgold-matthias-distel-trauert-um-vater](https://www.spiegel.de/panorama/leute/ikke-hueftgold-matthias-distel-trauert-um-vater-a-6aa55cf0-9502-4097-822e-0ee7750736bb#ref=rss)
-### hüftgold
-
-* [https://www.spiegel.de/panorama/leute/ikke-hueftgold-matthias-distel-trauert-um-vater](https://www.spiegel.de/panorama/leute/ikke-hueftgold-matthias-distel-trauert-um-vater-a-6aa55cf0-9502-4097-822e-0ee7750736bb#ref=rss)
-### vater
-
-* [https://www.spiegel.de/panorama/leute/ikke-hueftgold-matthias-distel-trauert-um-vater](https://www.spiegel.de/panorama/leute/ikke-hueftgold-matthias-distel-trauert-um-vater-a-6aa55cf0-9502-4097-822e-0ee7750736bb#ref=rss)
-### teilzeit
-
-* [https://www.spiegel.de/karriere/teilzeit-und-arbeitsrecht-die-groessten-irrtuemer-der-faktencheck](https://www.spiegel.de/karriere/teilzeit-und-arbeitsrecht-die-groessten-irrtuemer-der-faktencheck-a-796ad412-40e1-43da-9a78-041c770fc326#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-minneapolis-nordsee-anrainer-holocaust-gedenktag-lifestyle-freizeit](https://www.spiegel.de/politik/deutschland/news-minneapolis-nordsee-anrainer-holocaust-gedenktag-lifestyle-freizeit-a-b583b65f-d861-4bbe-a7f7-3571f035f3f1#ref=rss)
-### arbeitsrecht
-
-* [https://www.spiegel.de/karriere/teilzeit-und-arbeitsrecht-die-groessten-irrtuemer-der-faktencheck](https://www.spiegel.de/karriere/teilzeit-und-arbeitsrecht-die-groessten-irrtuemer-der-faktencheck-a-796ad412-40e1-43da-9a78-041c770fc326#ref=rss)
-* [https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr](https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr-a-a3e9f1e3-340f-4c3b-bc2a-0e45c7ea1a9b#ref=rss)
-### faktencheck
-
-* [https://www.spiegel.de/karriere/teilzeit-und-arbeitsrecht-die-groessten-irrtuemer-der-faktencheck](https://www.spiegel.de/karriere/teilzeit-und-arbeitsrecht-die-groessten-irrtuemer-der-faktencheck-a-796ad412-40e1-43da-9a78-041c770fc326#ref=rss)
-### starlink
-
-* [https://www.spiegel.de/wirtschaft/aufruestung-im-weltall-rheinmetall-will-mit-ohb-deutsches-starlink-bauen](https://www.spiegel.de/wirtschaft/aufruestung-im-weltall-rheinmetall-will-mit-ohb-deutsches-starlink-bauen-a-b70ffd40-fe26-45f3-889e-54638480c0f7#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/wirtschaft/aufruestung-im-weltall-rheinmetall-will-mit-ohb-deutsches-starlink-bauen](https://www.spiegel.de/wirtschaft/aufruestung-im-weltall-rheinmetall-will-mit-ohb-deutsches-starlink-bauen-a-b70ffd40-fe26-45f3-889e-54638480c0f7#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-einsatz-pistorius-kritisiert-trumps-aeusserungen-zur-bundeswehr](https://www.spiegel.de/politik/afghanistan-einsatz-pistorius-kritisiert-trumps-aeusserungen-zur-bundeswehr-a-a5f9694f-d41c-4cc1-8c88-87a69fba36ab#ref=rss)
-### ski
-
-* [https://www.spiegel.de/sport/wintersport/fliegender-ski-von-domen-prevc-bei-skiflug-wm-slowenischer-verband-kuendigt-weiteren-protest-an](https://www.spiegel.de/sport/wintersport/fliegender-ski-von-domen-prevc-bei-skiflug-wm-slowenischer-verband-kuendigt-weiteren-protest-an-a-fc9acd48-c8b8-4bfe-878d-0b18b8444e5b#ref=rss)
-### domen
-
-* [https://www.spiegel.de/sport/wintersport/fliegender-ski-von-domen-prevc-bei-skiflug-wm-slowenischer-verband-kuendigt-weiteren-protest-an](https://www.spiegel.de/sport/wintersport/fliegender-ski-von-domen-prevc-bei-skiflug-wm-slowenischer-verband-kuendigt-weiteren-protest-an-a-fc9acd48-c8b8-4bfe-878d-0b18b8444e5b#ref=rss)
-### prevc
-
-* [https://www.spiegel.de/sport/wintersport/fliegender-ski-von-domen-prevc-bei-skiflug-wm-slowenischer-verband-kuendigt-weiteren-protest-an](https://www.spiegel.de/sport/wintersport/fliegender-ski-von-domen-prevc-bei-skiflug-wm-slowenischer-verband-kuendigt-weiteren-protest-an-a-fc9acd48-c8b8-4bfe-878d-0b18b8444e5b#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/sport/wintersport/fliegender-ski-von-domen-prevc-bei-skiflug-wm-slowenischer-verband-kuendigt-weiteren-protest-an](https://www.spiegel.de/sport/wintersport/fliegender-ski-von-domen-prevc-bei-skiflug-wm-slowenischer-verband-kuendigt-weiteren-protest-an-a-fc9acd48-c8b8-4bfe-878d-0b18b8444e5b#ref=rss)
-* [https://www.spiegel.de/politik/gaza-israel-stimmt-oeffnung-des-rafah-grenzuebergangs-zu](https://www.spiegel.de/politik/gaza-israel-stimmt-oeffnung-des-rafah-grenzuebergangs-zu-a-60ca2c6f-7725-4383-a524-0ceb168c540b#ref=rss)
-### philippinen
-
-* [https://www.spiegel.de/panorama/philippinen-mindestens-18-menschen-sterben-bei-faehrunglueck](https://www.spiegel.de/panorama/philippinen-mindestens-18-menschen-sterben-bei-faehrunglueck-a-6b770fce-8f65-459e-bee0-23bb0eac752a#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/panorama/philippinen-mindestens-18-menschen-sterben-bei-faehrunglueck](https://www.spiegel.de/panorama/philippinen-mindestens-18-menschen-sterben-bei-faehrunglueck-a-6b770fce-8f65-459e-bee0-23bb0eac752a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mexiko-mindestens-elf-menschen-bei-angriff-auf-fussballfeld-getoetet](https://www.spiegel.de/panorama/justiz/mexiko-mindestens-elf-menschen-bei-angriff-auf-fussballfeld-getoetet-a-01dcea7c-a3a9-4c70-b9d1-2898183daa0d#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/politik/afghanistan-einsatz-pistorius-kritisiert-trumps-aeusserungen-zur-bundeswehr](https://www.spiegel.de/politik/afghanistan-einsatz-pistorius-kritisiert-trumps-aeusserungen-zur-bundeswehr-a-a5f9694f-d41c-4cc1-8c88-87a69fba36ab#ref=rss)
-* [https://www.spiegel.de/politik/minneapolis-clinton-kritisiert-trump-regierung-nach-toedlichen-schuessen](https://www.spiegel.de/politik/minneapolis-clinton-kritisiert-trump-regierung-nach-toedlichen-schuessen-a-531c80c5-cba4-4a53-b567-63a19b4c9861#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/politik/afghanistan-einsatz-pistorius-kritisiert-trumps-aeusserungen-zur-bundeswehr](https://www.spiegel.de/politik/afghanistan-einsatz-pistorius-kritisiert-trumps-aeusserungen-zur-bundeswehr-a-a5f9694f-d41c-4cc1-8c88-87a69fba36ab#ref=rss)
-* [https://www.spiegel.de/ausland/gregory-bovino-welche-rolle-der-border-patrol-chief-in-trumps-brutaler-einwanderungspolitik-spielt](https://www.spiegel.de/ausland/gregory-bovino-welche-rolle-der-border-patrol-chief-in-trumps-brutaler-einwanderungspolitik-spielt-a-2d599c9a-2a87-4ac3-bca0-196aa81e0d13#ref=rss)
-### verteidigungsminister
-
-* [https://www.spiegel.de/politik/afghanistan-einsatz-pistorius-kritisiert-trumps-aeusserungen-zur-bundeswehr](https://www.spiegel.de/politik/afghanistan-einsatz-pistorius-kritisiert-trumps-aeusserungen-zur-bundeswehr-a-a5f9694f-d41c-4cc1-8c88-87a69fba36ab#ref=rss)
-* [https://www.spiegel.de/kultur/tv/caren-miosga-mit-boris-pistoris-norbert-roettgen-ein-talk-wie-die-weltlage-getrieben-und-unruhig](https://www.spiegel.de/kultur/tv/caren-miosga-mit-boris-pistoris-norbert-roettgen-ein-talk-wie-die-weltlage-getrieben-und-unruhig-a-bf93e24b-fd59-4f7d-8880-20f5fa34ad77#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/politik/afghanistan-einsatz-pistorius-kritisiert-trumps-aeusserungen-zur-bundeswehr](https://www.spiegel.de/politik/afghanistan-einsatz-pistorius-kritisiert-trumps-aeusserungen-zur-bundeswehr-a-a5f9694f-d41c-4cc1-8c88-87a69fba36ab#ref=rss)
-* [https://www.spiegel.de/ausland/gregory-bovino-welche-rolle-der-border-patrol-chief-in-trumps-brutaler-einwanderungspolitik-spielt](https://www.spiegel.de/ausland/gregory-bovino-welche-rolle-der-border-patrol-chief-in-trumps-brutaler-einwanderungspolitik-spielt-a-2d599c9a-2a87-4ac3-bca0-196aa81e0d13#ref=rss)
-### gegenüber
-
-* [https://www.spiegel.de/politik/afghanistan-einsatz-pistorius-kritisiert-trumps-aeusserungen-zur-bundeswehr](https://www.spiegel.de/politik/afghanistan-einsatz-pistorius-kritisiert-trumps-aeusserungen-zur-bundeswehr-a-a5f9694f-d41c-4cc1-8c88-87a69fba36ab#ref=rss)
-* [https://www.spiegel.de/politik/venezuela-delcy-rodriguez-fordert-ende-der-us-einmischung](https://www.spiegel.de/politik/venezuela-delcy-rodriguez-fordert-ende-der-us-einmischung-a-ac86c547-3af0-4c94-a7ac-eb22ed023ac6#ref=rss)
-### new
-
-* [https://www.spiegel.de/panorama/leute/zohran-mamdani-versuesst-new-yorkern-den-schneesturm-mit-heated-rivalry](https://www.spiegel.de/panorama/leute/zohran-mamdani-versuesst-new-yorkern-den-schneesturm-mit-heated-rivalry-a-1aa0418c-df7b-4a40-822c-880c5efbdb55#ref=rss)
-### eishockey
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-dustin-strahlmeier-gelingt-erstes-direktes-torwarttor-der-del](https://www.spiegel.de/sport/eishockey/eishockey-dustin-strahlmeier-gelingt-erstes-direktes-torwarttor-der-del-a-adebdb72-dbe8-4b16-8f6f-7c63c81108fa#ref=rss)
-### dustin
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-dustin-strahlmeier-gelingt-erstes-direktes-torwarttor-der-del](https://www.spiegel.de/sport/eishockey/eishockey-dustin-strahlmeier-gelingt-erstes-direktes-torwarttor-der-del-a-adebdb72-dbe8-4b16-8f6f-7c63c81108fa#ref=rss)
-### strahlmeier
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-dustin-strahlmeier-gelingt-erstes-direktes-torwarttor-der-del](https://www.spiegel.de/sport/eishockey/eishockey-dustin-strahlmeier-gelingt-erstes-direktes-torwarttor-der-del-a-adebdb72-dbe8-4b16-8f6f-7c63c81108fa#ref=rss)
-### gregory
-
-* [https://www.spiegel.de/ausland/gregory-bovino-welche-rolle-der-border-patrol-chief-in-trumps-brutaler-einwanderungspolitik-spielt](https://www.spiegel.de/ausland/gregory-bovino-welche-rolle-der-border-patrol-chief-in-trumps-brutaler-einwanderungspolitik-spielt-a-2d599c9a-2a87-4ac3-bca0-196aa81e0d13#ref=rss)
-### bovino
-
-* [https://www.spiegel.de/ausland/gregory-bovino-welche-rolle-der-border-patrol-chief-in-trumps-brutaler-einwanderungspolitik-spielt](https://www.spiegel.de/ausland/gregory-bovino-welche-rolle-der-border-patrol-chief-in-trumps-brutaler-einwanderungspolitik-spielt-a-2d599c9a-2a87-4ac3-bca0-196aa81e0d13#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele](https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele-a-05035500-c8e8-47de-9599-7f175d115c59#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-debatte-um-den-boykott-des-turniers-wird-gefuehrt](https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-debatte-um-den-boykott-des-turniers-wird-gefuehrt-a-82976d90-3861-48cc-a997-ba377a382c58#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/ausland/gregory-bovino-welche-rolle-der-border-patrol-chief-in-trumps-brutaler-einwanderungspolitik-spielt](https://www.spiegel.de/ausland/gregory-bovino-welche-rolle-der-border-patrol-chief-in-trumps-brutaler-einwanderungspolitik-spielt-a-2d599c9a-2a87-4ac3-bca0-196aa81e0d13#ref=rss)
-* [https://www.spiegel.de/politik/gaza-israel-stimmt-oeffnung-des-rafah-grenzuebergangs-zu](https://www.spiegel.de/politik/gaza-israel-stimmt-oeffnung-des-rafah-grenzuebergangs-zu-a-60ca2c6f-7725-4383-a524-0ceb168c540b#ref=rss)
-### ökonomen
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele](https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele-a-05035500-c8e8-47de-9599-7f175d115c59#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/blumen-branche-frauen-kaufen-sich-ihren-strauss-haeufiger-selbst](https://www.spiegel.de/wirtschaft/service/blumen-branche-frauen-kaufen-sich-ihren-strauss-haeufiger-selbst-a-91086617-0fab-4f70-ad76-1536108a509b#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/mehrsprachige-erziehung-jede-sprache-ist-es-wert-gefoerdert-zu-werden](https://www.spiegel.de/panorama/bildung/mehrsprachige-erziehung-jede-sprache-ist-es-wert-gefoerdert-zu-werden-a-b665caf6-65a1-4605-9c3f-2abe15a9c091#ref=rss)
+### deeskalation
 
-* [https://www.spiegel.de/wirtschaft/afd-plaene-fuer-autoindustrie-oekonomen-sprechen-von-eklatander-inkompetenz](https://www.spiegel.de/wirtschaft/afd-plaene-fuer-autoindustrie-oekonomen-sprechen-von-eklatander-inkompetenz-a-615112fd-8753-4d35-9d2a-19cd0140b420#ref=rss)
-### sehen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland-a-ee8fbee1-7775-43f2-8279-545096ebc814#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation](https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation-a-e2b9c0ab-846c-4dcd-8027-c2aae7fd9a4e#ref=rss)
+### sorgt
 
-* [https://www.spiegel.de/wirtschaft/afd-plaene-fuer-autoindustrie-oekonomen-sprechen-von-eklatander-inkompetenz](https://www.spiegel.de/wirtschaft/afd-plaene-fuer-autoindustrie-oekonomen-sprechen-von-eklatander-inkompetenz-a-615112fd-8753-4d35-9d2a-19cd0140b420#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verteidigung-viele-deutsche-firmen-sehen-nachholbedarf-fuer-krisen-und-kriegsfall](https://www.spiegel.de/wirtschaft/verteidigung-viele-deutsche-firmen-sehen-nachholbedarf-fuer-krisen-und-kriegsfall-a-e9381d76-fd0a-4d6b-a7f1-1b4f1564b274#ref=rss)
-### öffnung
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland-a-ee8fbee1-7775-43f2-8279-545096ebc814#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/christina-block-nebenklage-sorgt-im-prozess-fuer-empoerung](https://www.spiegel.de/panorama/justiz/christina-block-nebenklage-sorgt-im-prozess-fuer-empoerung-a-940df00f-4339-417a-894a-3e314c785641#ref=rss)
+* [https://www.spiegel.de/politik/minnesota-bundesregierung-mahnt-rechtsstaatliche-untersuchung-im-fall-alex-pretti-an](https://www.spiegel.de/politik/minnesota-bundesregierung-mahnt-rechtsstaatliche-untersuchung-im-fall-alex-pretti-an-a-cd46bdbb-ec79-4d47-97ae-858dc3ba1c80#ref=rss)
+### prozess
 
-* [https://www.spiegel.de/politik/gaza-israel-stimmt-oeffnung-des-rafah-grenzuebergangs-zu](https://www.spiegel.de/politik/gaza-israel-stimmt-oeffnung-des-rafah-grenzuebergangs-zu-a-60ca2c6f-7725-4383-a524-0ceb168c540b#ref=rss)
-### fußballfeld
+* [https://www.spiegel.de/panorama/justiz/christina-block-nebenklage-sorgt-im-prozess-fuer-empoerung](https://www.spiegel.de/panorama/justiz/christina-block-nebenklage-sorgt-im-prozess-fuer-empoerung-a-940df00f-4339-417a-894a-3e314c785641#ref=rss)
+* [https://www.spiegel.de/ausland/philippinen-ex-praesident-rodrigo-duterte-fit-fuer-prozess-in-den-haag](https://www.spiegel.de/ausland/philippinen-ex-praesident-rodrigo-duterte-fit-fuer-prozess-in-den-haag-a-ab077535-d1eb-42a7-b2fe-3736a73d86ff#ref=rss)
+### alex
 
-* [https://www.spiegel.de/panorama/justiz/mexiko-mindestens-elf-menschen-bei-angriff-auf-fussballfeld-getoetet](https://www.spiegel.de/panorama/justiz/mexiko-mindestens-elf-menschen-bei-angriff-auf-fussballfeld-getoetet-a-01dcea7c-a3a9-4c70-b9d1-2898183daa0d#ref=rss)
-### gelockerten
+* [https://www.spiegel.de/politik/minnesota-bundesregierung-mahnt-rechtsstaatliche-untersuchung-im-fall-alex-pretti-an](https://www.spiegel.de/politik/minnesota-bundesregierung-mahnt-rechtsstaatliche-untersuchung-im-fall-alex-pretti-an-a-cd46bdbb-ec79-4d47-97ae-858dc3ba1c80#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation](https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation-a-e2b9c0ab-846c-4dcd-8027-c2aae7fd9a4e#ref=rss)
+### pretti
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-wie-viel-die-autokonzerne-durch-bruessels-laxere-co-regeln-gespart-haben](https://www.spiegel.de/wirtschaft/unternehmen/eu-wie-viel-die-autokonzerne-durch-bruessels-laxere-co-regeln-gespart-haben-a-37071b3b-d1db-42f9-b737-a6318a1df874#ref=rss)
-### regeln
+* [https://www.spiegel.de/politik/minnesota-bundesregierung-mahnt-rechtsstaatliche-untersuchung-im-fall-alex-pretti-an](https://www.spiegel.de/politik/minnesota-bundesregierung-mahnt-rechtsstaatliche-untersuchung-im-fall-alex-pretti-an-a-cd46bdbb-ec79-4d47-97ae-858dc3ba1c80#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation](https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation-a-e2b9c0ab-846c-4dcd-8027-c2aae7fd9a4e#ref=rss)
+### viele
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-wie-viel-die-autokonzerne-durch-bruessels-laxere-co-regeln-gespart-haben](https://www.spiegel.de/wirtschaft/unternehmen/eu-wie-viel-die-autokonzerne-durch-bruessels-laxere-co-regeln-gespart-haben-a-37071b3b-d1db-42f9-b737-a6318a1df874#ref=rss)
-* [https://www.spiegel.de/auto/alkoholunfaelle-von-radfahrern-sollte-es-strengere-promillegrenzen-geben](https://www.spiegel.de/auto/alkoholunfaelle-von-radfahrern-sollte-es-strengere-promillegrenzen-geben-a-c99ec908-71cc-4db9-beeb-4f02c35ee898#ref=rss)
-### delcy
+* [https://www.spiegel.de/wissenschaft/mensch/nahrungsergaenzung-hilft-magnesium-bei-augenlidzucken](https://www.spiegel.de/wissenschaft/mensch/nahrungsergaenzung-hilft-magnesium-bei-augenlidzucken-a-30dc1e15-06d8-4baa-9fa3-2531af65e664#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/mehrsprachige-erziehung-jede-sprache-ist-es-wert-gefoerdert-zu-werden](https://www.spiegel.de/panorama/bildung/mehrsprachige-erziehung-jede-sprache-ist-es-wert-gefoerdert-zu-werden-a-b665caf6-65a1-4605-9c3f-2abe15a9c091#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-debatte-um-den-boykott-des-turniers-wird-gefuehrt](https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-debatte-um-den-boykott-des-turniers-wird-gefuehrt-a-82976d90-3861-48cc-a997-ba377a382c58#ref=rss)
+### start
 
-* [https://www.spiegel.de/politik/venezuela-delcy-rodriguez-fordert-ende-der-us-einmischung](https://www.spiegel.de/politik/venezuela-delcy-rodriguez-fordert-ende-der-us-einmischung-a-ac86c547-3af0-4c94-a7ac-eb22ed023ac6#ref=rss)
-### rodríguez
+* [https://www.spiegel.de/panorama/usa-privatjet-stuerzt-beim-start-in-maine-ab-sieben-tote](https://www.spiegel.de/panorama/usa-privatjet-stuerzt-beim-start-in-maine-ab-sieben-tote-a-3712fcf2-3a9b-468e-b49f-675c4c8b5466#ref=rss)
+### sieben
 
-* [https://www.spiegel.de/politik/venezuela-delcy-rodriguez-fordert-ende-der-us-einmischung](https://www.spiegel.de/politik/venezuela-delcy-rodriguez-fordert-ende-der-us-einmischung-a-ac86c547-3af0-4c94-a7ac-eb22ed023ac6#ref=rss)
-### ende
+* [https://www.spiegel.de/panorama/usa-privatjet-stuerzt-beim-start-in-maine-ab-sieben-tote](https://www.spiegel.de/panorama/usa-privatjet-stuerzt-beim-start-in-maine-ab-sieben-tote-a-3712fcf2-3a9b-468e-b49f-675c4c8b5466#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### gekommen
 
-* [https://www.spiegel.de/politik/venezuela-delcy-rodriguez-fordert-ende-der-us-einmischung](https://www.spiegel.de/politik/venezuela-delcy-rodriguez-fordert-ende-der-us-einmischung-a-ac86c547-3af0-4c94-a7ac-eb22ed023ac6#ref=rss)
-### useinmischung
+* [https://www.spiegel.de/panorama/usa-privatjet-stuerzt-beim-start-in-maine-ab-sieben-tote](https://www.spiegel.de/panorama/usa-privatjet-stuerzt-beim-start-in-maine-ab-sieben-tote-a-3712fcf2-3a9b-468e-b49f-675c4c8b5466#ref=rss)
+* [https://www.spiegel.de/politik/afd-thueringer-politiker-diskutieren-mit-sellner-ueber-remigration](https://www.spiegel.de/politik/afd-thueringer-politiker-diskutieren-mit-sellner-ueber-remigration-a-23c77496-a468-4271-bf11-93ae646292fe#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/venezuela-delcy-rodriguez-fordert-ende-der-us-einmischung](https://www.spiegel.de/politik/venezuela-delcy-rodriguez-fordert-ende-der-us-einmischung-a-ac86c547-3af0-4c94-a7ac-eb22ed023ac6#ref=rss)
-### weltlage
+* [https://www.spiegel.de/wirtschaft/soziales/nordseegipfel-in-hamburg-so-lief-das-energie-spitzentreffen-der-anrainer-staaten](https://www.spiegel.de/wirtschaft/soziales/nordseegipfel-in-hamburg-so-lief-das-energie-spitzentreffen-der-anrainer-staaten-a-47876143-5590-4ee9-9210-b346b4ee742e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeit-hoher-krankenstand-kostet-wirtschaft-bis-zu-160-milliarden-pro-jahr](https://www.spiegel.de/wirtschaft/arbeit-hoher-krankenstand-kostet-wirtschaft-bis-zu-160-milliarden-pro-jahr-a-0c825294-4c63-48ce-92b4-04d646b7ff0f#ref=rss)
+### suella
 
-* [https://www.spiegel.de/wirtschaft/feinunze-gold-kostet-erstmals-mehr-als-5000-dollar](https://www.spiegel.de/wirtschaft/feinunze-gold-kostet-erstmals-mehr-als-5000-dollar-a-7011b267-ea44-48ad-b848-0a621d1334ac#ref=rss)
-* [https://www.spiegel.de/kultur/tv/caren-miosga-mit-boris-pistoris-norbert-roettgen-ein-talk-wie-die-weltlage-getrieben-und-unruhig](https://www.spiegel.de/kultur/tv/caren-miosga-mit-boris-pistoris-norbert-roettgen-ein-talk-wie-die-weltlage-getrieben-und-unruhig-a-bf93e24b-fd59-4f7d-8880-20f5fa34ad77#ref=rss)
-### deutsche
+* [https://www.spiegel.de/ausland/grossbritannien-suella-braverman-verlaesst-tories-und-schliesst-sich-partei-von-nigel-farage-an](https://www.spiegel.de/ausland/grossbritannien-suella-braverman-verlaesst-tories-und-schliesst-sich-partei-von-nigel-farage-an-a-2b988798-a341-42ce-8b96-ce00ac52f3cf#ref=rss)
+### braverman
 
-* [https://www.spiegel.de/wirtschaft/verteidigung-viele-deutsche-firmen-sehen-nachholbedarf-fuer-krisen-und-kriegsfall](https://www.spiegel.de/wirtschaft/verteidigung-viele-deutsche-firmen-sehen-nachholbedarf-fuer-krisen-und-kriegsfall-a-e9381d76-fd0a-4d6b-a7f1-1b4f1564b274#ref=rss)
-### glatteis
+* [https://www.spiegel.de/ausland/grossbritannien-suella-braverman-verlaesst-tories-und-schliesst-sich-partei-von-nigel-farage-an](https://www.spiegel.de/ausland/grossbritannien-suella-braverman-verlaesst-tories-und-schliesst-sich-partei-von-nigel-farage-an-a-2b988798-a341-42ce-8b96-ce00ac52f3cf#ref=rss)
+### nigel
 
-* [https://www.spiegel.de/panorama/glatteis-und-schnee-fuehren-zu-unfaellen-und-schulausfaellen](https://www.spiegel.de/panorama/glatteis-und-schnee-fuehren-zu-unfaellen-und-schulausfaellen-a-4ca1bd0e-3616-4c32-9254-b45f169fbbcb#ref=rss)
-### clinton
+* [https://www.spiegel.de/ausland/grossbritannien-suella-braverman-verlaesst-tories-und-schliesst-sich-partei-von-nigel-farage-an](https://www.spiegel.de/ausland/grossbritannien-suella-braverman-verlaesst-tories-und-schliesst-sich-partei-von-nigel-farage-an-a-2b988798-a341-42ce-8b96-ce00ac52f3cf#ref=rss)
+### farage
 
-* [https://www.spiegel.de/politik/minneapolis-clinton-kritisiert-trump-regierung-nach-toedlichen-schuessen](https://www.spiegel.de/politik/minneapolis-clinton-kritisiert-trump-regierung-nach-toedlichen-schuessen-a-531c80c5-cba4-4a53-b567-63a19b4c9861#ref=rss)
-### trumpregierung
+* [https://www.spiegel.de/ausland/grossbritannien-suella-braverman-verlaesst-tories-und-schliesst-sich-partei-von-nigel-farage-an](https://www.spiegel.de/ausland/grossbritannien-suella-braverman-verlaesst-tories-und-schliesst-sich-partei-von-nigel-farage-an-a-2b988798-a341-42ce-8b96-ce00ac52f3cf#ref=rss)
+### nächste
 
-* [https://www.spiegel.de/politik/minneapolis-clinton-kritisiert-trump-regierung-nach-toedlichen-schuessen](https://www.spiegel.de/politik/minneapolis-clinton-kritisiert-trump-regierung-nach-toedlichen-schuessen-a-531c80c5-cba4-4a53-b567-63a19b4c9861#ref=rss)
-### alkoholunfälle
+* [https://www.spiegel.de/ausland/grossbritannien-suella-braverman-verlaesst-tories-und-schliesst-sich-partei-von-nigel-farage-an](https://www.spiegel.de/ausland/grossbritannien-suella-braverman-verlaesst-tories-und-schliesst-sich-partei-von-nigel-farage-an-a-2b988798-a341-42ce-8b96-ce00ac52f3cf#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-letzte-geisel-der-hamas-identifiziert-leichnam-wird-nach-israel-gebracht](https://www.spiegel.de/ausland/israel-gaza-krieg-letzte-geisel-der-hamas-identifiziert-leichnam-wird-nach-israel-gebracht-a-a6f68910-8e5d-46c8-a4c2-1eab3f62536b#ref=rss)
+### frühere
 
-* [https://www.spiegel.de/auto/alkoholunfaelle-von-radfahrern-sollte-es-strengere-promillegrenzen-geben](https://www.spiegel.de/auto/alkoholunfaelle-von-radfahrern-sollte-es-strengere-promillegrenzen-geben-a-c99ec908-71cc-4db9-beeb-4f02c35ee898#ref=rss)
-### caren
+* [https://www.spiegel.de/ausland/grossbritannien-suella-braverman-verlaesst-tories-und-schliesst-sich-partei-von-nigel-farage-an](https://www.spiegel.de/ausland/grossbritannien-suella-braverman-verlaesst-tories-und-schliesst-sich-partei-von-nigel-farage-an-a-2b988798-a341-42ce-8b96-ce00ac52f3cf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/stefan-kuntz-und-der-hsv-nachweislich-unwahr-aufsichtsrat-reagiert-auf-kuntz-aussagen](https://www.spiegel.de/sport/fussball/stefan-kuntz-und-der-hsv-nachweislich-unwahr-aufsichtsrat-reagiert-auf-kuntz-aussagen-a-38475257-5a2b-4094-baca-663bdfe4f6fc#ref=rss)
+### kanye
 
-* [https://www.spiegel.de/kultur/tv/caren-miosga-mit-boris-pistoris-norbert-roettgen-ein-talk-wie-die-weltlage-getrieben-und-unruhig](https://www.spiegel.de/kultur/tv/caren-miosga-mit-boris-pistoris-norbert-roettgen-ein-talk-wie-die-weltlage-getrieben-und-unruhig-a-bf93e24b-fd59-4f7d-8880-20f5fa34ad77#ref=rss)
-### miosga
+* [https://www.spiegel.de/kultur/musik/kanye-west-schaltet-entschuldigungs-anzeige-im-wall-street-journal](https://www.spiegel.de/kultur/musik/kanye-west-schaltet-entschuldigungs-anzeige-im-wall-street-journal-a-8cdebbea-067e-491f-835e-9dc292f3aa85#ref=rss)
+### west
 
-* [https://www.spiegel.de/kultur/tv/caren-miosga-mit-boris-pistoris-norbert-roettgen-ein-talk-wie-die-weltlage-getrieben-und-unruhig](https://www.spiegel.de/kultur/tv/caren-miosga-mit-boris-pistoris-norbert-roettgen-ein-talk-wie-die-weltlage-getrieben-und-unruhig-a-bf93e24b-fd59-4f7d-8880-20f5fa34ad77#ref=rss)
-### holocaustgedenktag
+* [https://www.spiegel.de/kultur/musik/kanye-west-schaltet-entschuldigungs-anzeige-im-wall-street-journal](https://www.spiegel.de/kultur/musik/kanye-west-schaltet-entschuldigungs-anzeige-im-wall-street-journal-a-8cdebbea-067e-491f-835e-9dc292f3aa85#ref=rss)
+### brief
 
-* [https://www.spiegel.de/politik/deutschland/news-minneapolis-nordsee-anrainer-holocaust-gedenktag-lifestyle-freizeit](https://www.spiegel.de/politik/deutschland/news-minneapolis-nordsee-anrainer-holocaust-gedenktag-lifestyle-freizeit-a-b583b65f-d861-4bbe-a7f7-3571f035f3f1#ref=rss)
-### abfindungen
+* [https://www.spiegel.de/kultur/musik/kanye-west-schaltet-entschuldigungs-anzeige-im-wall-street-journal](https://www.spiegel.de/kultur/musik/kanye-west-schaltet-entschuldigungs-anzeige-im-wall-street-journal-a-8cdebbea-067e-491f-835e-9dc292f3aa85#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation](https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation-a-e2b9c0ab-846c-4dcd-8027-c2aae7fd9a4e#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr](https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr-a-a3e9f1e3-340f-4c3b-bc2a-0e45c7ea1a9b#ref=rss)
-### fünf
+* [https://www.spiegel.de/kultur/musik/kanye-west-schaltet-entschuldigungs-anzeige-im-wall-street-journal](https://www.spiegel.de/kultur/musik/kanye-west-schaltet-entschuldigungs-anzeige-im-wall-street-journal-a-8cdebbea-067e-491f-835e-9dc292f3aa85#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/mehrsprachige-erziehung-jede-sprache-ist-es-wert-gefoerdert-zu-werden](https://www.spiegel.de/panorama/bildung/mehrsprachige-erziehung-jede-sprache-ist-es-wert-gefoerdert-zu-werden-a-b665caf6-65a1-4605-9c3f-2abe15a9c091#ref=rss)
+### stefan
 
-* [https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr](https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr-a-a3e9f1e3-340f-4c3b-bc2a-0e45c7ea1a9b#ref=rss)
-### jahresgehälter
+* [https://www.spiegel.de/sport/fussball/stefan-kuntz-und-der-hsv-nachweislich-unwahr-aufsichtsrat-reagiert-auf-kuntz-aussagen](https://www.spiegel.de/sport/fussball/stefan-kuntz-und-der-hsv-nachweislich-unwahr-aufsichtsrat-reagiert-auf-kuntz-aussagen-a-38475257-5a2b-4094-baca-663bdfe4f6fc#ref=rss)
+### kuntz
 
-* [https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr](https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr-a-a3e9f1e3-340f-4c3b-bc2a-0e45c7ea1a9b#ref=rss)
-### seltenheit
+* [https://www.spiegel.de/sport/fussball/stefan-kuntz-und-der-hsv-nachweislich-unwahr-aufsichtsrat-reagiert-auf-kuntz-aussagen](https://www.spiegel.de/sport/fussball/stefan-kuntz-und-der-hsv-nachweislich-unwahr-aufsichtsrat-reagiert-auf-kuntz-aussagen-a-38475257-5a2b-4094-baca-663bdfe4f6fc#ref=rss)
+### hsv
 
-* [https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr](https://www.spiegel.de/karriere/arbeitsrecht-abfindungen-ueber-fuenf-jahresgehaelter-keine-seltenheit-mehr-a-a3e9f1e3-340f-4c3b-bc2a-0e45c7ea1a9b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/stefan-kuntz-und-der-hsv-nachweislich-unwahr-aufsichtsrat-reagiert-auf-kuntz-aussagen](https://www.spiegel.de/sport/fussball/stefan-kuntz-und-der-hsv-nachweislich-unwahr-aufsichtsrat-reagiert-auf-kuntz-aussagen-a-38475257-5a2b-4094-baca-663bdfe4f6fc#ref=rss)
+### harry
+
+* [https://www.spiegel.de/kultur/musik/harry-styles-seine-together-together-tour-ist-offenbar-nur-noch-fuer-fans-mit-goldener-kreditkarte](https://www.spiegel.de/kultur/musik/harry-styles-seine-together-together-tour-ist-offenbar-nur-noch-fuer-fans-mit-goldener-kreditkarte-a-8939c9ff-fb0f-4d20-98df-99e33cdfce80#ref=rss)
+### styles
+
+* [https://www.spiegel.de/kultur/musik/harry-styles-seine-together-together-tour-ist-offenbar-nur-noch-fuer-fans-mit-goldener-kreditkarte](https://www.spiegel.de/kultur/musik/harry-styles-seine-together-together-tour-ist-offenbar-nur-noch-fuer-fans-mit-goldener-kreditkarte-a-8939c9ff-fb0f-4d20-98df-99e33cdfce80#ref=rss)
+### tour
+
+* [https://www.spiegel.de/kultur/musik/harry-styles-seine-together-together-tour-ist-offenbar-nur-noch-fuer-fans-mit-goldener-kreditkarte](https://www.spiegel.de/kultur/musik/harry-styles-seine-together-together-tour-ist-offenbar-nur-noch-fuer-fans-mit-goldener-kreditkarte-a-8939c9ff-fb0f-4d20-98df-99e33cdfce80#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/kultur/musik/harry-styles-seine-together-together-tour-ist-offenbar-nur-noch-fuer-fans-mit-goldener-kreditkarte](https://www.spiegel.de/kultur/musik/harry-styles-seine-together-together-tour-ist-offenbar-nur-noch-fuer-fans-mit-goldener-kreditkarte-a-8939c9ff-fb0f-4d20-98df-99e33cdfce80#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/blumen-branche-frauen-kaufen-sich-ihren-strauss-haeufiger-selbst](https://www.spiegel.de/wirtschaft/service/blumen-branche-frauen-kaufen-sich-ihren-strauss-haeufiger-selbst-a-91086617-0fab-4f70-ad76-1536108a509b#ref=rss)
+### spdpolitikerin
+
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele](https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele-a-05035500-c8e8-47de-9599-7f175d115c59#ref=rss)
+### boykott
+
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele](https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele-a-05035500-c8e8-47de-9599-7f175d115c59#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-debatte-um-den-boykott-des-turniers-wird-gefuehrt](https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-debatte-um-den-boykott-des-turniers-wird-gefuehrt-a-82976d90-3861-48cc-a997-ba377a382c58#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele](https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele-a-05035500-c8e8-47de-9599-7f175d115c59#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-faktisch-sind-wir-schon-mitten-im-handelskrieg](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-faktisch-sind-wir-schon-mitten-im-handelskrieg-a-344456f0-25d3-498c-b970-89cf355f7a7a#ref=rss)
+### fernbleiben
+
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele](https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele-a-05035500-c8e8-47de-9599-7f175d115c59#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-debatte-um-den-boykott-des-turniers-wird-gefuehrt](https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-debatte-um-den-boykott-des-turniers-wird-gefuehrt-a-82976d90-3861-48cc-a997-ba377a382c58#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele](https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-spd-politikerin-erwaegt-boykott-der-turnierspiele-a-05035500-c8e8-47de-9599-7f175d115c59#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/teilzeit-streit-der-cdu-politischer-krawall-ohne-verstand](https://www.spiegel.de/politik/deutschland/teilzeit-streit-der-cdu-politischer-krawall-ohne-verstand-a-8a12312c-3477-4b40-a605-e246e4dc3a03#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland-a-ee8fbee1-7775-43f2-8279-545096ebc814#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### grok
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland-a-ee8fbee1-7775-43f2-8279-545096ebc814#ref=rss)
+### schnee
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland-a-ee8fbee1-7775-43f2-8279-545096ebc814#ref=rss)
+### 60
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-ceos-in-minnesota-fordern-deeskalation-eu-gegen-grok-schnee-und-eis-in-deutschland-a-ee8fbee1-7775-43f2-8279-545096ebc814#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation](https://www.spiegel.de/wirtschaft/ice-gewalt-in-minneapolis-mehr-als-60-ceos-aus-minnesota-fordern-deeskalation-a-e2b9c0ab-846c-4dcd-8027-c2aae7fd9a4e#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/sport/handball/handball-em-andreas-wolff-gegen-emil-nielsen-das-duell-der-torwartgiganten](https://www.spiegel.de/sport/handball/handball-em-andreas-wolff-gegen-emil-nielsen-das-duell-der-torwartgiganten-a-5cffb10b-f14e-406f-b25a-2ebd0755e94e#ref=rss)
+### stromnetz
+
+* [https://www.spiegel.de/panorama/justiz/berlin-anschlag-auf-stromnetz-senatorin-stellt-millionenbelohnung-fuer-hinweise-in-aussicht](https://www.spiegel.de/panorama/justiz/berlin-anschlag-auf-stromnetz-senatorin-stellt-millionenbelohnung-fuer-hinweise-in-aussicht-a-dfdfcf60-27ce-4df7-97ba-72c0aa22bc06#ref=rss)
+### große
+
+* [https://www.spiegel.de/panorama/justiz/berlin-anschlag-auf-stromnetz-senatorin-stellt-millionenbelohnung-fuer-hinweise-in-aussicht](https://www.spiegel.de/panorama/justiz/berlin-anschlag-auf-stromnetz-senatorin-stellt-millionenbelohnung-fuer-hinweise-in-aussicht-a-dfdfcf60-27ce-4df7-97ba-72c0aa22bc06#ref=rss)
+* [https://www.spiegel.de/kultur/gerd-knebel-ist-tot-nachruf-auf-ein-schlabbmaul](https://www.spiegel.de/kultur/gerd-knebel-ist-tot-nachruf-auf-ein-schlabbmaul-a-4354da23-94a7-4576-9244-0a610182cc75#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/wirtschaft/service/blumen-branche-frauen-kaufen-sich-ihren-strauss-haeufiger-selbst](https://www.spiegel.de/wirtschaft/service/blumen-branche-frauen-kaufen-sich-ihren-strauss-haeufiger-selbst-a-91086617-0fab-4f70-ad76-1536108a509b#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/wirtschaft/service/blumen-branche-frauen-kaufen-sich-ihren-strauss-haeufiger-selbst](https://www.spiegel.de/wirtschaft/service/blumen-branche-frauen-kaufen-sich-ihren-strauss-haeufiger-selbst-a-91086617-0fab-4f70-ad76-1536108a509b#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/panorama/bildung/gen-z-und-millennials-warum-bei-jungen-menschen-die-sehnsucht-nach-gestern-gross-ist](https://www.spiegel.de/panorama/bildung/gen-z-und-millennials-warum-bei-jungen-menschen-die-sehnsucht-nach-gestern-gross-ist-a-a838077e-9491-4b54-8d37-1b7dcb02004f#ref=rss)
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-letzte-geisel-der-hamas-identifiziert-leichnam-wird-nach-israel-gebracht](https://www.spiegel.de/ausland/israel-gaza-krieg-letzte-geisel-der-hamas-identifiziert-leichnam-wird-nach-israel-gebracht-a-a6f68910-8e5d-46c8-a4c2-1eab3f62536b#ref=rss)
+### studie
+
+* [https://www.spiegel.de/panorama/bildung/gen-z-und-millennials-warum-bei-jungen-menschen-die-sehnsucht-nach-gestern-gross-ist](https://www.spiegel.de/panorama/bildung/gen-z-und-millennials-warum-bei-jungen-menschen-die-sehnsucht-nach-gestern-gross-ist-a-a838077e-9491-4b54-8d37-1b7dcb02004f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/arbeit-hoher-krankenstand-kostet-wirtschaft-bis-zu-160-milliarden-pro-jahr](https://www.spiegel.de/wirtschaft/arbeit-hoher-krankenstand-kostet-wirtschaft-bis-zu-160-milliarden-pro-jahr-a-0c825294-4c63-48ce-92b4-04d646b7ff0f#ref=rss)
+### recht
+
+* [https://www.spiegel.de/politik/deutschland/cdu-debatte-ueber-das-recht-auf-teilzeit-ein-hoch-auf-die-viertagewoche](https://www.spiegel.de/politik/deutschland/cdu-debatte-ueber-das-recht-auf-teilzeit-ein-hoch-auf-die-viertagewoche-a-30189ec9-92f4-48a2-8a35-7e5c55f42d5b#ref=rss)
+### teilzeit
+
+* [https://www.spiegel.de/politik/deutschland/cdu-debatte-ueber-das-recht-auf-teilzeit-ein-hoch-auf-die-viertagewoche](https://www.spiegel.de/politik/deutschland/cdu-debatte-ueber-das-recht-auf-teilzeit-ein-hoch-auf-die-viertagewoche-a-30189ec9-92f4-48a2-8a35-7e5c55f42d5b#ref=rss)
+### viertagewoche
+
+* [https://www.spiegel.de/politik/deutschland/cdu-debatte-ueber-das-recht-auf-teilzeit-ein-hoch-auf-die-viertagewoche](https://www.spiegel.de/politik/deutschland/cdu-debatte-ueber-das-recht-auf-teilzeit-ein-hoch-auf-die-viertagewoche-a-30189ec9-92f4-48a2-8a35-7e5c55f42d5b#ref=rss)
+### frau
+
+* [https://www.spiegel.de/politik/deutschland/cdu-debatte-ueber-das-recht-auf-teilzeit-ein-hoch-auf-die-viertagewoche](https://www.spiegel.de/politik/deutschland/cdu-debatte-ueber-das-recht-auf-teilzeit-ein-hoch-auf-die-viertagewoche-a-30189ec9-92f4-48a2-8a35-7e5c55f42d5b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-messerangreiferin-vom-hauptbahnhof-muss-in-die-forensische-psychiatrie](https://www.spiegel.de/panorama/justiz/hamburg-messerangreiferin-vom-hauptbahnhof-muss-in-die-forensische-psychiatrie-a-5b0de81d-1bad-4e4e-9841-26a1d922134f#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/politik/deutschland/cdu-debatte-ueber-das-recht-auf-teilzeit-ein-hoch-auf-die-viertagewoche](https://www.spiegel.de/politik/deutschland/cdu-debatte-ueber-das-recht-auf-teilzeit-ein-hoch-auf-die-viertagewoche-a-30189ec9-92f4-48a2-8a35-7e5c55f42d5b#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/mehrsprachige-erziehung-jede-sprache-ist-es-wert-gefoerdert-zu-werden](https://www.spiegel.de/panorama/bildung/mehrsprachige-erziehung-jede-sprache-ist-es-wert-gefoerdert-zu-werden-a-b665caf6-65a1-4605-9c3f-2abe15a9c091#ref=rss)
+### christina
+
+* [https://www.spiegel.de/panorama/justiz/christina-block-nebenklage-sorgt-im-prozess-fuer-empoerung](https://www.spiegel.de/panorama/justiz/christina-block-nebenklage-sorgt-im-prozess-fuer-empoerung-a-940df00f-4339-417a-894a-3e314c785641#ref=rss)
+### block
+
+* [https://www.spiegel.de/panorama/justiz/christina-block-nebenklage-sorgt-im-prozess-fuer-empoerung](https://www.spiegel.de/panorama/justiz/christina-block-nebenklage-sorgt-im-prozess-fuer-empoerung-a-940df00f-4339-417a-894a-3e314c785641#ref=rss)
+### nebenklage
+
+* [https://www.spiegel.de/panorama/justiz/christina-block-nebenklage-sorgt-im-prozess-fuer-empoerung](https://www.spiegel.de/panorama/justiz/christina-block-nebenklage-sorgt-im-prozess-fuer-empoerung-a-940df00f-4339-417a-894a-3e314c785641#ref=rss)
+### expräsident
+
+* [https://www.spiegel.de/ausland/philippinen-ex-praesident-rodrigo-duterte-fit-fuer-prozess-in-den-haag](https://www.spiegel.de/ausland/philippinen-ex-praesident-rodrigo-duterte-fit-fuer-prozess-in-den-haag-a-ab077535-d1eb-42a7-b2fe-3736a73d86ff#ref=rss)
+### rodrigo
+
+* [https://www.spiegel.de/ausland/philippinen-ex-praesident-rodrigo-duterte-fit-fuer-prozess-in-den-haag](https://www.spiegel.de/ausland/philippinen-ex-praesident-rodrigo-duterte-fit-fuer-prozess-in-den-haag-a-ab077535-d1eb-42a7-b2fe-3736a73d86ff#ref=rss)
+### duterte
+
+* [https://www.spiegel.de/ausland/philippinen-ex-praesident-rodrigo-duterte-fit-fuer-prozess-in-den-haag](https://www.spiegel.de/ausland/philippinen-ex-praesident-rodrigo-duterte-fit-fuer-prozess-in-den-haag-a-ab077535-d1eb-42a7-b2fe-3736a73d86ff#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/philippinen-ex-praesident-rodrigo-duterte-fit-fuer-prozess-in-den-haag](https://www.spiegel.de/ausland/philippinen-ex-praesident-rodrigo-duterte-fit-fuer-prozess-in-den-haag-a-ab077535-d1eb-42a7-b2fe-3736a73d86ff#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-messerangreiferin-vom-hauptbahnhof-muss-in-die-forensische-psychiatrie](https://www.spiegel.de/panorama/justiz/hamburg-messerangreiferin-vom-hauptbahnhof-muss-in-die-forensische-psychiatrie-a-5b0de81d-1bad-4e4e-9841-26a1d922134f#ref=rss)
+### gerd
+
+* [https://www.spiegel.de/kultur/gerd-knebel-ist-tot-nachruf-auf-ein-schlabbmaul](https://www.spiegel.de/kultur/gerd-knebel-ist-tot-nachruf-auf-ein-schlabbmaul-a-4354da23-94a7-4576-9244-0a610182cc75#ref=rss)
+### knebel
+
+* [https://www.spiegel.de/kultur/gerd-knebel-ist-tot-nachruf-auf-ein-schlabbmaul](https://www.spiegel.de/kultur/gerd-knebel-ist-tot-nachruf-auf-ein-schlabbmaul-a-4354da23-94a7-4576-9244-0a610182cc75#ref=rss)
+### aufs
+
+* [https://www.spiegel.de/kultur/gerd-knebel-ist-tot-nachruf-auf-ein-schlabbmaul](https://www.spiegel.de/kultur/gerd-knebel-ist-tot-nachruf-auf-ein-schlabbmaul-a-4354da23-94a7-4576-9244-0a610182cc75#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/politik/minnesota-bundesregierung-mahnt-rechtsstaatliche-untersuchung-im-fall-alex-pretti-an](https://www.spiegel.de/politik/minnesota-bundesregierung-mahnt-rechtsstaatliche-untersuchung-im-fall-alex-pretti-an-a-cd46bdbb-ec79-4d47-97ae-858dc3ba1c80#ref=rss)
+### fall
+
+* [https://www.spiegel.de/politik/minnesota-bundesregierung-mahnt-rechtsstaatliche-untersuchung-im-fall-alex-pretti-an](https://www.spiegel.de/politik/minnesota-bundesregierung-mahnt-rechtsstaatliche-untersuchung-im-fall-alex-pretti-an-a-cd46bdbb-ec79-4d47-97ae-858dc3ba1c80#ref=rss)
+### letzte
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-letzte-geisel-der-hamas-identifiziert-leichnam-wird-nach-israel-gebracht](https://www.spiegel.de/ausland/israel-gaza-krieg-letzte-geisel-der-hamas-identifiziert-leichnam-wird-nach-israel-gebracht-a-a6f68910-8e5d-46c8-a4c2-1eab3f62536b#ref=rss)
+### geisel
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-letzte-geisel-der-hamas-identifiziert-leichnam-wird-nach-israel-gebracht](https://www.spiegel.de/ausland/israel-gaza-krieg-letzte-geisel-der-hamas-identifiziert-leichnam-wird-nach-israel-gebracht-a-a6f68910-8e5d-46c8-a4c2-1eab3f62536b#ref=rss)
+### hamas
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-letzte-geisel-der-hamas-identifiziert-leichnam-wird-nach-israel-gebracht](https://www.spiegel.de/ausland/israel-gaza-krieg-letzte-geisel-der-hamas-identifiziert-leichnam-wird-nach-israel-gebracht-a-a6f68910-8e5d-46c8-a4c2-1eab3f62536b#ref=rss)
+### identifiziert
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-letzte-geisel-der-hamas-identifiziert-leichnam-wird-nach-israel-gebracht](https://www.spiegel.de/ausland/israel-gaza-krieg-letzte-geisel-der-hamas-identifiziert-leichnam-wird-nach-israel-gebracht-a-a6f68910-8e5d-46c8-a4c2-1eab3f62536b#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-gaza-krieg-letzte-geisel-der-hamas-identifiziert-leichnam-wird-nach-israel-gebracht](https://www.spiegel.de/ausland/israel-gaza-krieg-letzte-geisel-der-hamas-identifiziert-leichnam-wird-nach-israel-gebracht-a-a6f68910-8e5d-46c8-a4c2-1eab3f62536b#ref=rss)
+### thüringer
+
+* [https://www.spiegel.de/politik/afd-thueringer-politiker-diskutieren-mit-sellner-ueber-remigration](https://www.spiegel.de/politik/afd-thueringer-politiker-diskutieren-mit-sellner-ueber-remigration-a-23c77496-a468-4271-bf11-93ae646292fe#ref=rss)
+### martin
+
+* [https://www.spiegel.de/politik/afd-thueringer-politiker-diskutieren-mit-sellner-ueber-remigration](https://www.spiegel.de/politik/afd-thueringer-politiker-diskutieren-mit-sellner-ueber-remigration-a-23c77496-a468-4271-bf11-93ae646292fe#ref=rss)
+### sellner
+
+* [https://www.spiegel.de/politik/afd-thueringer-politiker-diskutieren-mit-sellner-ueber-remigration](https://www.spiegel.de/politik/afd-thueringer-politiker-diskutieren-mit-sellner-ueber-remigration-a-23c77496-a468-4271-bf11-93ae646292fe#ref=rss)
+### landtag
+
+* [https://www.spiegel.de/politik/afd-thueringer-politiker-diskutieren-mit-sellner-ueber-remigration](https://www.spiegel.de/politik/afd-thueringer-politiker-diskutieren-mit-sellner-ueber-remigration-a-23c77496-a468-4271-bf11-93ae646292fe#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/politik/afd-thueringer-politiker-diskutieren-mit-sellner-ueber-remigration](https://www.spiegel.de/politik/afd-thueringer-politiker-diskutieren-mit-sellner-ueber-remigration-a-23c77496-a468-4271-bf11-93ae646292fe#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/politik/deutschland/teilzeit-streit-der-cdu-politischer-krawall-ohne-verstand](https://www.spiegel.de/politik/deutschland/teilzeit-streit-der-cdu-politischer-krawall-ohne-verstand-a-8a12312c-3477-4b40-a605-e246e4dc3a03#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/seltene-erden-im-iphone-und-samsung-galaxy-was-ihr-handy-zum-klingeln-braucht](https://www.spiegel.de/wissenschaft/technik/seltene-erden-im-iphone-und-samsung-galaxy-was-ihr-handy-zum-klingeln-braucht-a-faf52df1-b0ed-4c7d-bdf5-03e55f7bf1cd#ref=rss)
+### hauptbahnhof
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-messerangreiferin-vom-hauptbahnhof-muss-in-die-forensische-psychiatrie](https://www.spiegel.de/panorama/justiz/hamburg-messerangreiferin-vom-hauptbahnhof-muss-in-die-forensische-psychiatrie-a-5b0de81d-1bad-4e4e-9841-26a1d922134f#ref=rss)
+### psychiatrie
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-messerangreiferin-vom-hauptbahnhof-muss-in-die-forensische-psychiatrie](https://www.spiegel.de/panorama/justiz/hamburg-messerangreiferin-vom-hauptbahnhof-muss-in-die-forensische-psychiatrie-a-5b0de81d-1bad-4e4e-9841-26a1d922134f#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-messerangreiferin-vom-hauptbahnhof-muss-in-die-forensische-psychiatrie](https://www.spiegel.de/panorama/justiz/hamburg-messerangreiferin-vom-hauptbahnhof-muss-in-die-forensische-psychiatrie-a-5b0de81d-1bad-4e4e-9841-26a1d922134f#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/mehrsprachige-erziehung-jede-sprache-ist-es-wert-gefoerdert-zu-werden](https://www.spiegel.de/panorama/bildung/mehrsprachige-erziehung-jede-sprache-ist-es-wert-gefoerdert-zu-werden-a-b665caf6-65a1-4605-9c3f-2abe15a9c091#ref=rss)
+### pro
+
+* [https://www.spiegel.de/wirtschaft/arbeit-hoher-krankenstand-kostet-wirtschaft-bis-zu-160-milliarden-pro-jahr](https://www.spiegel.de/wirtschaft/arbeit-hoher-krankenstand-kostet-wirtschaft-bis-zu-160-milliarden-pro-jahr-a-0c825294-4c63-48ce-92b4-04d646b7ff0f#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### magnesium
+
+* [https://www.spiegel.de/wissenschaft/mensch/nahrungsergaenzung-hilft-magnesium-bei-augenlidzucken](https://www.spiegel.de/wissenschaft/mensch/nahrungsergaenzung-hilft-magnesium-bei-augenlidzucken-a-30dc1e15-06d8-4baa-9fa3-2531af65e664#ref=rss)
+### erziehung
+
+* [https://www.spiegel.de/panorama/bildung/mehrsprachige-erziehung-jede-sprache-ist-es-wert-gefoerdert-zu-werden](https://www.spiegel.de/panorama/bildung/mehrsprachige-erziehung-jede-sprache-ist-es-wert-gefoerdert-zu-werden-a-b665caf6-65a1-4605-9c3f-2abe15a9c091#ref=rss)
+### igmetallchefin
+
+* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-faktisch-sind-wir-schon-mitten-im-handelskrieg](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-faktisch-sind-wir-schon-mitten-im-handelskrieg-a-344456f0-25d3-498c-b970-89cf355f7a7a#ref=rss)
+### christiane
+
+* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-faktisch-sind-wir-schon-mitten-im-handelskrieg](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-faktisch-sind-wir-schon-mitten-im-handelskrieg-a-344456f0-25d3-498c-b970-89cf355f7a7a#ref=rss)
+### benner
+
+* [https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-faktisch-sind-wir-schon-mitten-im-handelskrieg](https://www.spiegel.de/wirtschaft/ig-metall-chefin-christiane-benner-faktisch-sind-wir-schon-mitten-im-handelskrieg-a-344456f0-25d3-498c-b970-89cf355f7a7a#ref=rss)
+### erden
+
+* [https://www.spiegel.de/wissenschaft/technik/seltene-erden-im-iphone-und-samsung-galaxy-was-ihr-handy-zum-klingeln-braucht](https://www.spiegel.de/wissenschaft/technik/seltene-erden-im-iphone-und-samsung-galaxy-was-ihr-handy-zum-klingeln-braucht-a-faf52df1-b0ed-4c7d-bdf5-03e55f7bf1cd#ref=rss)
 
