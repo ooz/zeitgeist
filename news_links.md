@@ -4,362 +4,288 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
+### tag
 
-* [https://www.spiegel.de/panorama/justiz/christina-block-anwalt-fordert-ende-des-verfahrens](https://www.spiegel.de/panorama/justiz/christina-block-anwalt-fordert-ende-des-verfahrens-a-f5c8ca72-8a82-40b9-95fb-4d4a3dbc57eb#ref=rss)
-* [https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern](https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern-a-470e12cd-7c78-4e99-8601-7d0689f0be99#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/anthropologie-vielleicht-aelteste-holzwerkzeuge-der-menschheit-in-griechenland-entdeckt](https://www.spiegel.de/wissenschaft/mensch/anthropologie-vielleicht-aelteste-holzwerkzeuge-der-menschheit-in-griechenland-entdeckt-a-3774a432-b260-4172-8c2c-2129a1094ba3#ref=rss)
-* [https://www.spiegel.de/geschichte/nationalsozialismus-wissen-sie-genug-ueber-den-holocaust](https://www.spiegel.de/geschichte/nationalsozialismus-wissen-sie-genug-ueber-den-holocaust-a-163c9d76-7052-4e75-a5d2-e282eef48e8b#ref=rss)
-* [https://www.spiegel.de/politik/holocaust-gedenktag-das-dunkle-in-uns-selbst-meinung](https://www.spiegel.de/politik/holocaust-gedenktag-das-dunkle-in-uns-selbst-meinung-a-41baeeb7-1bca-40b4-aa56-9241c3ad835e#ref=rss)
-* [https://www.spiegel.de/panorama/usa-dutzende-menschen-infolge-von-wintersturm-gestorben](https://www.spiegel.de/panorama/usa-dutzende-menschen-infolge-von-wintersturm-gestorben-a-97639e45-9ccb-4295-aba0-05527e1eea15#ref=rss)
-### donald
-
-* [https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern](https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern-a-470e12cd-7c78-4e99-8601-7d0689f0be99#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-us-wirtschaft-gita-gopinath-zweifelt-an-trumps-wirtschaftsstaerke](https://www.spiegel.de/wirtschaft/donald-trump-und-us-wirtschaft-gita-gopinath-zweifelt-an-trumps-wirtschaftsstaerke-a-4b727c79-225d-43e3-806a-a7f95c01c4ab#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-ted-cruz-spottete-in-privatgespraechen-ueber-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-ted-cruz-spottete-in-privatgespraechen-ueber-us-praesidenten-a-a45f9972-2b6e-4935-aa6c-4c9ee856ad88#ref=rss)
-### trump
-
-* [https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern](https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern-a-470e12cd-7c78-4e99-8601-7d0689f0be99#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-us-wirtschaft-gita-gopinath-zweifelt-an-trumps-wirtschaftsstaerke](https://www.spiegel.de/wirtschaft/donald-trump-und-us-wirtschaft-gita-gopinath-zweifelt-an-trumps-wirtschaftsstaerke-a-4b727c79-225d-43e3-806a-a7f95c01c4ab#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-ted-cruz-spottete-in-privatgespraechen-ueber-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-ted-cruz-spottete-in-privatgespraechen-ueber-us-praesidenten-a-a45f9972-2b6e-4935-aa6c-4c9ee856ad88#ref=rss)
-### australian
-
-* [https://www.spiegel.de/sport/tennis/tennis-australian-open-carlos-alcaraz-plant-schon-das-passende-tattoo-fuer-einen-sieg-bei-den-australian-open](https://www.spiegel.de/sport/tennis/tennis-australian-open-carlos-alcaraz-plant-schon-das-passende-tattoo-fuer-einen-sieg-bei-den-australian-open-a-8ba1886c-2dbc-42a1-ba2c-8d2c32b87fb0#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein-a-1d7758b3-107a-4d20-b24d-4af403bf9459#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/tennis/tennis-australian-open-carlos-alcaraz-plant-schon-das-passende-tattoo-fuer-einen-sieg-bei-den-australian-open](https://www.spiegel.de/sport/tennis/tennis-australian-open-carlos-alcaraz-plant-schon-das-passende-tattoo-fuer-einen-sieg-bei-den-australian-open-a-8ba1886c-2dbc-42a1-ba2c-8d2c32b87fb0#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein-a-1d7758b3-107a-4d20-b24d-4af403bf9459#ref=rss)
-### eu
-
-* [https://www.spiegel.de/politik/deutschland/indien-eu-freihandelsabkommen-zweckehe-ungleicher-partner](https://www.spiegel.de/politik/deutschland/indien-eu-freihandelsabkommen-zweckehe-ungleicher-partner-a-0424e654-957c-4dc9-805b-4ab8b10c361e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/automarkt-in-der-eu-zuwachs-bei-elektroautos-rueckgang-bei-verbrennern](https://www.spiegel.de/wirtschaft/unternehmen/automarkt-in-der-eu-zuwachs-bei-elektroautos-rueckgang-bei-verbrennern-a-e649b613-3550-4b9d-81f4-b93f2faad434#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-und-indien-unterzeichnen-umfassendes-handelsabkommen](https://www.spiegel.de/wirtschaft/eu-und-indien-unterzeichnen-umfassendes-handelsabkommen-a-796cc99f-3a36-4116-9c20-7f8f6a99ae96#ref=rss)
-### usa
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-usa-kalifornien-untersucht-zensurvorwuerfe](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-usa-kalifornien-untersucht-zensurvorwuerfe-a-1ba208a9-391b-4247-b260-ffeb9afd39d3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-dfb-praesident-bernd-neuendorf-lehnt-boykott-debatte-ab](https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-dfb-praesident-bernd-neuendorf-lehnt-boykott-debatte-ab-a-4e4c1e05-9232-45e4-9546-e6e5eb5365ff#ref=rss)
-* [https://www.spiegel.de/panorama/usa-dutzende-menschen-infolge-von-wintersturm-gestorben](https://www.spiegel.de/panorama/usa-dutzende-menschen-infolge-von-wintersturm-gestorben-a-97639e45-9ccb-4295-aba0-05527e1eea15#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/mensch/anthropologie-vielleicht-aelteste-holzwerkzeuge-der-menschheit-in-griechenland-entdeckt](https://www.spiegel.de/wissenschaft/mensch/anthropologie-vielleicht-aelteste-holzwerkzeuge-der-menschheit-in-griechenland-entdeckt-a-3774a432-b260-4172-8c2c-2129a1094ba3#ref=rss)
-* [https://www.spiegel.de/start/arbeitsmarkt-ueberqualifikation-bei-jungen-frauen-und-menschen-mit-migrationshintergrund-weit-verbreitet](https://www.spiegel.de/start/arbeitsmarkt-ueberqualifikation-bei-jungen-frauen-und-menschen-mit-migrationshintergrund-weit-verbreitet-a-b3f3d60c-3243-4190-b2a9-3002a4697acc#ref=rss)
-* [https://www.spiegel.de/panorama/usa-dutzende-menschen-infolge-von-wintersturm-gestorben](https://www.spiegel.de/panorama/usa-dutzende-menschen-infolge-von-wintersturm-gestorben-a-97639e45-9ccb-4295-aba0-05527e1eea15#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wirtschaft/wirtschaftkrise-in-deutschland-schattenwirtschaft-auf-hoechstem-niveau-seit-zwoelf-jahren](https://www.spiegel.de/wirtschaft/wirtschaftkrise-in-deutschland-schattenwirtschaft-auf-hoechstem-niveau-seit-zwoelf-jahren-a-b570df96-4126-4f5e-b0ca-62207c1862e4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/teilzeit-carsten-linnemann-und-alexander-dobrindt-kritisieren-vorstoss-des-cdu-wirtschaftsfluegels](https://www.spiegel.de/politik/deutschland/teilzeit-carsten-linnemann-und-alexander-dobrindt-kritisieren-vorstoss-des-cdu-wirtschaftsfluegels-a-b7a212d6-6da4-46e1-8d79-c9b20848ed8a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-fluechtlingsministerin-josefine-paul-tritt-zurueck](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-fluechtlingsministerin-josefine-paul-tritt-zurueck-a-8f139e2c-afa9-44bc-b04b-577efca9df52#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/automarkt-in-der-eu-zuwachs-bei-elektroautos-rueckgang-bei-verbrennern](https://www.spiegel.de/wirtschaft/unternehmen/automarkt-in-der-eu-zuwachs-bei-elektroautos-rueckgang-bei-verbrennern-a-e649b613-3550-4b9d-81f4-b93f2faad434#ref=rss)
-### gilt
-
-* [https://www.spiegel.de/kultur/2016-nostalgie-skinny-jeans-pokemon-go-und-drake](https://www.spiegel.de/kultur/2016-nostalgie-skinny-jeans-pokemon-go-und-drake-a-8dabc090-9d1f-4318-97a6-c3b1824d6394#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-ted-cruz-spottete-in-privatgespraechen-ueber-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-ted-cruz-spottete-in-privatgespraechen-ueber-us-praesidenten-a-a45f9972-2b6e-4935-aa6c-4c9ee856ad88#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-und-indien-unterzeichnen-umfassendes-handelsabkommen](https://www.spiegel.de/wirtschaft/eu-und-indien-unterzeichnen-umfassendes-handelsabkommen-a-796cc99f-3a36-4116-9c20-7f8f6a99ae96#ref=rss)
-* [https://www.spiegel.de/panorama/usa-dutzende-menschen-infolge-von-wintersturm-gestorben](https://www.spiegel.de/panorama/usa-dutzende-menschen-infolge-von-wintersturm-gestorben-a-97639e45-9ccb-4295-aba0-05527e1eea15#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-usa-kalifornien-untersucht-zensurvorwuerfe](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-usa-kalifornien-untersucht-zensurvorwuerfe-a-1ba208a9-391b-4247-b260-ffeb9afd39d3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-nationaltorhueter-sichert-remis-mit-parade](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-nationaltorhueter-sichert-remis-mit-parade-a-8a02183e-a57a-4744-a183-4503793aaef3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/puma-chinesischer-sportkonzern-anta-wird-groesster-aktionaer-bei-puma](https://www.spiegel.de/wirtschaft/unternehmen/puma-chinesischer-sportkonzern-anta-wird-groesster-aktionaer-bei-puma-a-7f2c9418-142b-4603-9261-a06108d6c83e#ref=rss)
-### lang
-
-* [https://www.spiegel.de/wirtschaft/soziales/dgb-holt-kevin-kuehnert-und-ricarda-lang-in-eigene-rentenkommission](https://www.spiegel.de/wirtschaft/soziales/dgb-holt-kevin-kuehnert-und-ricarda-lang-in-eigene-rentenkommission-a-9fc51504-ae07-4a21-a41e-2cc67401eee6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/stromausfall-in-berlin-bka-lobt-eine-million-fuer-hinweise-zu-vulkangruppe-aus](https://www.spiegel.de/panorama/justiz/stromausfall-in-berlin-bka-lobt-eine-million-fuer-hinweise-zu-vulkangruppe-aus-a-da7af398-eac5-40ad-9435-513f65c77f69#ref=rss)
-### amazon
-
-* [https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern](https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern-a-470e12cd-7c78-4e99-8601-7d0689f0be99#ref=rss)
-### welt
-
-* [https://www.spiegel.de/wissenschaft/mensch/anthropologie-vielleicht-aelteste-holzwerkzeuge-der-menschheit-in-griechenland-entdeckt](https://www.spiegel.de/wissenschaft/mensch/anthropologie-vielleicht-aelteste-holzwerkzeuge-der-menschheit-in-griechenland-entdeckt-a-3774a432-b260-4172-8c2c-2129a1094ba3#ref=rss)
-* [https://www.spiegel.de/geschichte/nationalsozialismus-wissen-sie-genug-ueber-den-holocaust](https://www.spiegel.de/geschichte/nationalsozialismus-wissen-sie-genug-ueber-den-holocaust-a-163c9d76-7052-4e75-a5d2-e282eef48e8b#ref=rss)
-* [https://www.spiegel.de/panorama/schiffsungluecke-im-mittelmeer-hunderte-gefluechtete-vermisst](https://www.spiegel.de/panorama/schiffsungluecke-im-mittelmeer-hunderte-gefluechtete-vermisst-a-f58b8df9-a931-4be5-b213-3f9e2b60e086#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/geschichte/nationalsozialismus-wissen-sie-genug-ueber-den-holocaust](https://www.spiegel.de/geschichte/nationalsozialismus-wissen-sie-genug-ueber-den-holocaust-a-163c9d76-7052-4e75-a5d2-e282eef48e8b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaftkrise-in-deutschland-schattenwirtschaft-auf-hoechstem-niveau-seit-zwoelf-jahren](https://www.spiegel.de/wirtschaft/wirtschaftkrise-in-deutschland-schattenwirtschaft-auf-hoechstem-niveau-seit-zwoelf-jahren-a-b570df96-4126-4f5e-b0ca-62207c1862e4#ref=rss)
-### umfassendes
-
-* [https://www.spiegel.de/politik/deutschland/indien-eu-freihandelsabkommen-zweckehe-ungleicher-partner](https://www.spiegel.de/politik/deutschland/indien-eu-freihandelsabkommen-zweckehe-ungleicher-partner-a-0424e654-957c-4dc9-805b-4ab8b10c361e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-und-indien-unterzeichnen-umfassendes-handelsabkommen](https://www.spiegel.de/wirtschaft/eu-und-indien-unterzeichnen-umfassendes-handelsabkommen-a-796cc99f-3a36-4116-9c20-7f8f6a99ae96#ref=rss)
-### indien
-
-* [https://www.spiegel.de/politik/deutschland/indien-eu-freihandelsabkommen-zweckehe-ungleicher-partner](https://www.spiegel.de/politik/deutschland/indien-eu-freihandelsabkommen-zweckehe-ungleicher-partner-a-0424e654-957c-4dc9-805b-4ab8b10c361e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-und-indien-unterzeichnen-umfassendes-handelsabkommen](https://www.spiegel.de/wirtschaft/eu-und-indien-unterzeichnen-umfassendes-handelsabkommen-a-796cc99f-3a36-4116-9c20-7f8f6a99ae96#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/politik/deutschland/teilzeit-carsten-linnemann-und-alexander-dobrindt-kritisieren-vorstoss-des-cdu-wirtschaftsfluegels](https://www.spiegel.de/politik/deutschland/teilzeit-carsten-linnemann-und-alexander-dobrindt-kritisieren-vorstoss-des-cdu-wirtschaftsfluegels-a-b7a212d6-6da4-46e1-8d79-c9b20848ed8a#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein-a-1d7758b3-107a-4d20-b24d-4af403bf9459#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/stromausfall-in-berlin-bka-lobt-eine-million-fuer-hinweise-zu-vulkangruppe-aus](https://www.spiegel.de/panorama/justiz/stromausfall-in-berlin-bka-lobt-eine-million-fuer-hinweise-zu-vulkangruppe-aus-a-da7af398-eac5-40ad-9435-513f65c77f69#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-strassenbahn-faehrt-wegen-vereisten-oberleitungen-nicht](https://www.spiegel.de/panorama/berlin-strassenbahn-faehrt-wegen-vereisten-oberleitungen-nicht-a-0cbc1395-3123-46fe-9d00-e6e2a586aa23#ref=rss)
-### puma
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/puma-chinesischer-sportkonzern-anta-wird-groesster-aktionaer-bei-puma](https://www.spiegel.de/wirtschaft/unternehmen/puma-chinesischer-sportkonzern-anta-wird-groesster-aktionaer-bei-puma-a-7f2c9418-142b-4603-9261-a06108d6c83e#ref=rss)
-### weintraub
-
-* [https://www.spiegel.de/geschichte/holocaust-ueberlebender-leon-weintraub-man-darf-nie-zulassen-dass-die-afd-die-macht-ergreift](https://www.spiegel.de/geschichte/holocaust-ueberlebender-leon-weintraub-man-darf-nie-zulassen-dass-die-afd-die-macht-ergreift-a-82dda7ab-e5bc-4fcd-86fc-8fcd73fc6fec#ref=rss)
-### tiktok
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-usa-kalifornien-untersucht-zensurvorwuerfe](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-usa-kalifornien-untersucht-zensurvorwuerfe-a-1ba208a9-391b-4247-b260-ffeb9afd39d3#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/tiktok-usa-kalifornien-untersucht-zensurvorwuerfe](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-usa-kalifornien-untersucht-zensurvorwuerfe-a-1ba208a9-391b-4247-b260-ffeb9afd39d3#ref=rss)
-* [https://www.spiegel.de/panorama/schiffsungluecke-im-mittelmeer-hunderte-gefluechtete-vermisst](https://www.spiegel.de/panorama/schiffsungluecke-im-mittelmeer-hunderte-gefluechtete-vermisst-a-f58b8df9-a931-4be5-b213-3f9e2b60e086#ref=rss)
-### christina
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-anwalt-fordert-ende-des-verfahrens](https://www.spiegel.de/panorama/justiz/christina-block-anwalt-fordert-ende-des-verfahrens-a-f5c8ca72-8a82-40b9-95fb-4d4a3dbc57eb#ref=rss)
-### anwalt
-
-* [https://www.spiegel.de/panorama/justiz/christina-block-anwalt-fordert-ende-des-verfahrens](https://www.spiegel.de/panorama/justiz/christina-block-anwalt-fordert-ende-des-verfahrens-a-f5c8ca72-8a82-40b9-95fb-4d4a3dbc57eb#ref=rss)
-### italien
-
-* [https://www.spiegel.de/sport/olympia/italien-olympia-ice-beamte-kommen-zu-den-olympischen-winterspielen](https://www.spiegel.de/sport/olympia/italien-olympia-ice-beamte-kommen-zu-den-olympischen-winterspielen-a-878795ef-40ea-483c-9dea-286a94476857#ref=rss)
-### olympia
-
-* [https://www.spiegel.de/sport/olympia/italien-olympia-ice-beamte-kommen-zu-den-olympischen-winterspielen](https://www.spiegel.de/sport/olympia/italien-olympia-ice-beamte-kommen-zu-den-olympischen-winterspielen-a-878795ef-40ea-483c-9dea-286a94476857#ref=rss)
-### kevin
-
-* [https://www.spiegel.de/wirtschaft/soziales/dgb-holt-kevin-kuehnert-und-ricarda-lang-in-eigene-rentenkommission](https://www.spiegel.de/wirtschaft/soziales/dgb-holt-kevin-kuehnert-und-ricarda-lang-in-eigene-rentenkommission-a-9fc51504-ae07-4a21-a41e-2cc67401eee6#ref=rss)
-### kühnert
-
-* [https://www.spiegel.de/wirtschaft/soziales/dgb-holt-kevin-kuehnert-und-ricarda-lang-in-eigene-rentenkommission](https://www.spiegel.de/wirtschaft/soziales/dgb-holt-kevin-kuehnert-und-ricarda-lang-in-eigene-rentenkommission-a-9fc51504-ae07-4a21-a41e-2cc67401eee6#ref=rss)
-### ricarda
-
-* [https://www.spiegel.de/wirtschaft/soziales/dgb-holt-kevin-kuehnert-und-ricarda-lang-in-eigene-rentenkommission](https://www.spiegel.de/wirtschaft/soziales/dgb-holt-kevin-kuehnert-und-ricarda-lang-in-eigene-rentenkommission-a-9fc51504-ae07-4a21-a41e-2cc67401eee6#ref=rss)
-### rentenkommission
-
-* [https://www.spiegel.de/wirtschaft/soziales/dgb-holt-kevin-kuehnert-und-ricarda-lang-in-eigene-rentenkommission](https://www.spiegel.de/wirtschaft/soziales/dgb-holt-kevin-kuehnert-und-ricarda-lang-in-eigene-rentenkommission-a-9fc51504-ae07-4a21-a41e-2cc67401eee6#ref=rss)
-### jeff
-
-* [https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern](https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern-a-470e12cd-7c78-4e99-8601-7d0689f0be99#ref=rss)
-### bezos
-
-* [https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern](https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern-a-470e12cd-7c78-4e99-8601-7d0689f0be99#ref=rss)
-### neil
-
-* [https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern](https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern-a-470e12cd-7c78-4e99-8601-7d0689f0be99#ref=rss)
-### young
-
-* [https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern](https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern-a-470e12cd-7c78-4e99-8601-7d0689f0be99#ref=rss)
-### nichts
-
-* [https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern](https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern-a-470e12cd-7c78-4e99-8601-7d0689f0be99#ref=rss)
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-nationaltorhueter-sichert-remis-mit-parade](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-nationaltorhueter-sichert-remis-mit-parade-a-8a02183e-a57a-4744-a183-4503793aaef3#ref=rss)
-### bekommt
-
-* [https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern](https://www.spiegel.de/kultur/musik/amazon-jeff-bezos-und-donald-trump-neil-young-will-nichts-mehr-mit-amazon-zu-tun-haben-und-schenkt-sein-werk-allen-groenlaendern-a-470e12cd-7c78-4e99-8601-7d0689f0be99#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/puma-chinesischer-sportkonzern-anta-wird-groesster-aktionaer-bei-puma](https://www.spiegel.de/wirtschaft/unternehmen/puma-chinesischer-sportkonzern-anta-wird-groesster-aktionaer-bei-puma-a-7f2c9418-142b-4603-9261-a06108d6c83e#ref=rss)
-### carlos
-
-* [https://www.spiegel.de/sport/tennis/tennis-australian-open-carlos-alcaraz-plant-schon-das-passende-tattoo-fuer-einen-sieg-bei-den-australian-open](https://www.spiegel.de/sport/tennis/tennis-australian-open-carlos-alcaraz-plant-schon-das-passende-tattoo-fuer-einen-sieg-bei-den-australian-open-a-8ba1886c-2dbc-42a1-ba2c-8d2c32b87fb0#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein-a-1d7758b3-107a-4d20-b24d-4af403bf9459#ref=rss)
-### alcaraz
-
-* [https://www.spiegel.de/sport/tennis/tennis-australian-open-carlos-alcaraz-plant-schon-das-passende-tattoo-fuer-einen-sieg-bei-den-australian-open](https://www.spiegel.de/sport/tennis/tennis-australian-open-carlos-alcaraz-plant-schon-das-passende-tattoo-fuer-einen-sieg-bei-den-australian-open-a-8ba1886c-2dbc-42a1-ba2c-8d2c32b87fb0#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein-a-1d7758b3-107a-4d20-b24d-4af403bf9459#ref=rss)
-### dänemark
-
-* [https://www.spiegel.de/sport/handball/handball-em-die-niederlage-gegen-daenemark-zeigt-die-zwei-gesichter-des-deutschen-teams](https://www.spiegel.de/sport/handball/handball-em-die-niederlage-gegen-daenemark-zeigt-die-zwei-gesichter-des-deutschen-teams-a-05a89708-3729-4289-b11b-c732a0b6fa2f#ref=rss)
+* [https://www.spiegel.de/panorama/schonungen-buergermeister-kommt-mit-dem-schneepflug-und-rettet-so-die-hochzeit](https://www.spiegel.de/panorama/schonungen-buergermeister-kommt-mit-dem-schneepflug-und-rettet-so-die-hochzeit-a-68274404-0d8a-4b28-a9a9-beb893da8214#ref=rss)
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2026-tag-4-willkommen-zur-einfuehrung-in-die-trashologie](https://www.spiegel.de/kultur/tv/dschungelcamp-2026-tag-4-willkommen-zur-einfuehrung-in-die-trashologie-a-588022ab-fed3-47bd-a548-b2af8597b7d4#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/sport/handball/handball-em-die-niederlage-gegen-daenemark-zeigt-die-zwei-gesichter-des-deutschen-teams](https://www.spiegel.de/sport/handball/handball-em-die-niederlage-gegen-daenemark-zeigt-die-zwei-gesichter-des-deutschen-teams-a-05a89708-3729-4289-b11b-c732a0b6fa2f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-und-indien-unterzeichnen-umfassendes-handelsabkommen](https://www.spiegel.de/wirtschaft/eu-und-indien-unterzeichnen-umfassendes-handelsabkommen-a-796cc99f-3a36-4116-9c20-7f8f6a99ae96#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dghs-staatsanwaltschaft-ermittelt-gegen-mitarbeiterin-von-sterbehilfeorganisation](https://www.spiegel.de/panorama/justiz/dghs-staatsanwaltschaft-ermittelt-gegen-mitarbeiterin-von-sterbehilfeorganisation-a-0f458b89-3a32-438a-8326-5ff4a2a63ab3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimakrise-cdu-fluegel-entschaerfen-radikalen-klima-antrag](https://www.spiegel.de/politik/deutschland/klimakrise-cdu-fluegel-entschaerfen-radikalen-klima-antrag-a-83bc53db-02d6-427e-b80d-662c2bad4e37#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/itzehoe-einbrecher-erbeuten-zwei-tonnen-kupferdraht](https://www.spiegel.de/panorama/justiz/itzehoe-einbrecher-erbeuten-zwei-tonnen-kupferdraht-a-846f1ee6-7924-410c-aa4b-7ee024f8460a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nrw-was-hinter-dem-ruecktritt-von-josefine-paul-steckt](https://www.spiegel.de/politik/deutschland/nrw-was-hinter-dem-ruecktritt-von-josefine-paul-steckt-a-d94cdb63-69f8-467d-864a-98a055d73be1#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/sport/formel1/formel-1-2026-antrieb-chassis-kraftstoff-diese-technikneuheiten-bringt-das-neue-reglement](https://www.spiegel.de/sport/formel1/formel-1-2026-antrieb-chassis-kraftstoff-diese-technikneuheiten-bringt-das-neue-reglement-a-838df399-2d6b-47cb-ae83-ac4bab8ace62#ref=rss)
+* [https://www.spiegel.de/kultur/kino/baftas-2026-one-battle-after-another-dominiert-nominierungen-fuer-britischen-filmpreis](https://www.spiegel.de/kultur/kino/baftas-2026-one-battle-after-another-dominiert-nominierungen-fuer-britischen-filmpreis-a-c76bde87-0282-4318-ae14-97019429e1dc#ref=rss)
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2026-tag-4-willkommen-zur-einfuehrung-in-die-trashologie](https://www.spiegel.de/kultur/tv/dschungelcamp-2026-tag-4-willkommen-zur-einfuehrung-in-die-trashologie-a-588022ab-fed3-47bd-a548-b2af8597b7d4#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-wer-entscheidet-wer-die-olympische-fackel-traegt](https://www.spiegel.de/sport/olympia/olympia-2026-wer-entscheidet-wer-die-olympische-fackel-traegt-a-1f41a81e-0bd9-468b-9a83-d7511d27479e#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/panorama/crans-montana-gemeindepraesident-feraud-bedauert-fehlende-entschuldigung](https://www.spiegel.de/panorama/crans-montana-gemeindepraesident-feraud-bedauert-fehlende-entschuldigung-a-95369cbd-de6d-4892-9fac-7129b78525f4#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-wer-entscheidet-wer-die-olympische-fackel-traegt](https://www.spiegel.de/sport/olympia/olympia-2026-wer-entscheidet-wer-die-olympische-fackel-traegt-a-1f41a81e-0bd9-468b-9a83-d7511d27479e#ref=rss)
+### weg
+
+* [https://www.spiegel.de/ausland/spanien-will-aufenthalt-einer-halben-million-einwanderer-legalisieren](https://www.spiegel.de/ausland/spanien-will-aufenthalt-einer-halben-million-einwanderer-legalisieren-a-6224ece4-1ddf-464d-941c-e5ca71e9cd5f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/alkohol-am-steuer-betrunken-autofahren-auto-weg-kommentar](https://www.spiegel.de/politik/deutschland/alkohol-am-steuer-betrunken-autofahren-auto-weg-kommentar-a-afa074cc-65c6-4173-8ddb-5f89c132d232#ref=rss)
+* [https://www.spiegel.de/panorama/sizilien-1500-menschen-wegen-erdrutsch-evakuiert](https://www.spiegel.de/panorama/sizilien-1500-menschen-wegen-erdrutsch-evakuiert-a-220d0bae-85c5-4c4a-a368-b186b9a8f475#ref=rss)
+### indien
+
+* [https://www.spiegel.de/ausland/eu-deal-mit-indien-das-richtige-signal-an-die-raubtierwelt](https://www.spiegel.de/ausland/eu-deal-mit-indien-das-richtige-signal-an-die-raubtierwelt-a-b71301bc-79ef-4bb0-8854-8257b48bf6b0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil-a-0639b1fe-6670-425b-aa68-4a7cf8d5c91d#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil-a-0639b1fe-6670-425b-aa68-4a7cf8d5c91d#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/eugen-strigel-ist-tot-frueherer-bundesliga-schiedsrichter-mit-76-jahren-gestorben](https://www.spiegel.de/sport/fussball/eugen-strigel-ist-tot-frueherer-bundesliga-schiedsrichter-mit-76-jahren-gestorben-a-9dba1a11-d5ea-4497-8ab8-bbeba2c1c561#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/polizei-berlin-lehrbuch-zeigt-wie-man-effizient-schmerzen-zufuegt](https://www.spiegel.de/panorama/justiz/polizei-berlin-lehrbuch-zeigt-wie-man-effizient-schmerzen-zufuegt-a-9a25f48d-1e6f-4d9c-956d-f969eb09cce6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/itzehoe-einbrecher-erbeuten-zwei-tonnen-kupferdraht](https://www.spiegel.de/panorama/justiz/itzehoe-einbrecher-erbeuten-zwei-tonnen-kupferdraht-a-846f1ee6-7924-410c-aa4b-7ee024f8460a#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/panorama/justiz/polizei-berlin-lehrbuch-zeigt-wie-man-effizient-schmerzen-zufuegt](https://www.spiegel.de/panorama/justiz/polizei-berlin-lehrbuch-zeigt-wie-man-effizient-schmerzen-zufuegt-a-9a25f48d-1e6f-4d9c-956d-f969eb09cce6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/alkohol-am-steuer-betrunken-autofahren-auto-weg-kommentar](https://www.spiegel.de/politik/deutschland/alkohol-am-steuer-betrunken-autofahren-auto-weg-kommentar-a-afa074cc-65c6-4173-8ddb-5f89c132d232#ref=rss)
+* [https://www.spiegel.de/wirtschaft/muell-in-deutschland-fortschritte-beim-recycling-von-plastik-defizite-bei-glas](https://www.spiegel.de/wirtschaft/muell-in-deutschland-fortschritte-beim-recycling-von-plastik-defizite-bei-glas-a-7bc9b3d1-a492-4bea-9db0-75e216c7312d#ref=rss)
+### auto
+
+* [https://www.spiegel.de/politik/deutschland/alkohol-am-steuer-betrunken-autofahren-auto-weg-kommentar](https://www.spiegel.de/politik/deutschland/alkohol-am-steuer-betrunken-autofahren-auto-weg-kommentar-a-afa074cc-65c6-4173-8ddb-5f89c132d232#ref=rss)
+* [https://www.spiegel.de/panorama/schonungen-buergermeister-kommt-mit-dem-schneepflug-und-rettet-so-die-hochzeit](https://www.spiegel.de/panorama/schonungen-buergermeister-kommt-mit-dem-schneepflug-und-rettet-so-die-hochzeit-a-68274404-0d8a-4b28-a9a9-beb893da8214#ref=rss)
+### steckt
+
+* [https://www.spiegel.de/panorama/schonungen-buergermeister-kommt-mit-dem-schneepflug-und-rettet-so-die-hochzeit](https://www.spiegel.de/panorama/schonungen-buergermeister-kommt-mit-dem-schneepflug-und-rettet-so-die-hochzeit-a-68274404-0d8a-4b28-a9a9-beb893da8214#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-wer-entscheidet-wer-die-olympische-fackel-traegt](https://www.spiegel.de/sport/olympia/olympia-2026-wer-entscheidet-wer-die-olympische-fackel-traegt-a-1f41a81e-0bd9-468b-9a83-d7511d27479e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nrw-was-hinter-dem-ruecktritt-von-josefine-paul-steckt](https://www.spiegel.de/politik/deutschland/nrw-was-hinter-dem-ruecktritt-von-josefine-paul-steckt-a-d94cdb63-69f8-467d-864a-98a055d73be1#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/auto/db-vs-sbb-bahnen-so-puenktlich-wie-nie-in-der-schweiz](https://www.spiegel.de/auto/db-vs-sbb-bahnen-so-puenktlich-wie-nie-in-der-schweiz-a-76ebd374-5dfa-4429-9a8a-82991533e37c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-deutsche-firmen-ziehen-geld-aus-den-usa-ab-und-investieren-massiv-in-china](https://www.spiegel.de/wirtschaft/unternehmen/china-deutsche-firmen-ziehen-geld-aus-den-usa-ab-und-investieren-massiv-in-china-a-84cb70e7-07df-4a5d-bb5f-c2bf46d0413d#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-deutsche-firmen-ziehen-geld-aus-den-usa-ab-und-investieren-massiv-in-china](https://www.spiegel.de/wirtschaft/unternehmen/china-deutsche-firmen-ziehen-geld-aus-den-usa-ab-und-investieren-massiv-in-china-a-84cb70e7-07df-4a5d-bb5f-c2bf46d0413d#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/ausland/spanien-will-aufenthalt-einer-halben-million-einwanderer-legalisieren](https://www.spiegel.de/ausland/spanien-will-aufenthalt-einer-halben-million-einwanderer-legalisieren-a-6224ece4-1ddf-464d-941c-e5ca71e9cd5f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/muell-in-deutschland-fortschritte-beim-recycling-von-plastik-defizite-bei-glas](https://www.spiegel.de/wirtschaft/muell-in-deutschland-fortschritte-beim-recycling-von-plastik-defizite-bei-glas-a-7bc9b3d1-a492-4bea-9db0-75e216c7312d#ref=rss)
+### bietet
+
+* [https://www.spiegel.de/ausland/spanien-will-aufenthalt-einer-halben-million-einwanderer-legalisieren](https://www.spiegel.de/ausland/spanien-will-aufenthalt-einer-halben-million-einwanderer-legalisieren-a-6224ece4-1ddf-464d-941c-e5ca71e9cd5f#ref=rss)
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2026-tag-4-willkommen-zur-einfuehrung-in-die-trashologie](https://www.spiegel.de/kultur/tv/dschungelcamp-2026-tag-4-willkommen-zur-einfuehrung-in-die-trashologie-a-588022ab-fed3-47bd-a548-b2af8597b7d4#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/ausland/spanien-will-aufenthalt-einer-halben-million-einwanderer-legalisieren](https://www.spiegel.de/ausland/spanien-will-aufenthalt-einer-halben-million-einwanderer-legalisieren-a-6224ece4-1ddf-464d-941c-e5ca71e9cd5f#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-wer-entscheidet-wer-die-olympische-fackel-traegt](https://www.spiegel.de/sport/olympia/olympia-2026-wer-entscheidet-wer-die-olympische-fackel-traegt-a-1f41a81e-0bd9-468b-9a83-d7511d27479e#ref=rss)
+### christoph
+
+* [https://www.spiegel.de/kultur/christoph-bartmann-und-sein-sachbuch-attacke-von-rechts-droht-jetzt-der-vibe-shift](https://www.spiegel.de/kultur/christoph-bartmann-und-sein-sachbuch-attacke-von-rechts-droht-jetzt-der-vibe-shift-a-da4ce07f-8b8d-4870-9b90-bfbd8500892b#ref=rss)
+### bartmann
+
+* [https://www.spiegel.de/kultur/christoph-bartmann-und-sein-sachbuch-attacke-von-rechts-droht-jetzt-der-vibe-shift](https://www.spiegel.de/kultur/christoph-bartmann-und-sein-sachbuch-attacke-von-rechts-droht-jetzt-der-vibe-shift-a-da4ce07f-8b8d-4870-9b90-bfbd8500892b#ref=rss)
+### sachbuch
+
+* [https://www.spiegel.de/kultur/christoph-bartmann-und-sein-sachbuch-attacke-von-rechts-droht-jetzt-der-vibe-shift](https://www.spiegel.de/kultur/christoph-bartmann-und-sein-sachbuch-attacke-von-rechts-droht-jetzt-der-vibe-shift-a-da4ce07f-8b8d-4870-9b90-bfbd8500892b#ref=rss)
+### 2025
+
+* [https://www.spiegel.de/panorama/justiz/dghs-staatsanwaltschaft-ermittelt-gegen-mitarbeiterin-von-sterbehilfeorganisation](https://www.spiegel.de/panorama/justiz/dghs-staatsanwaltschaft-ermittelt-gegen-mitarbeiterin-von-sterbehilfeorganisation-a-0f458b89-3a32-438a-8326-5ff4a2a63ab3#ref=rss)
+* [https://www.spiegel.de/auto/db-vs-sbb-bahnen-so-puenktlich-wie-nie-in-der-schweiz](https://www.spiegel.de/auto/db-vs-sbb-bahnen-so-puenktlich-wie-nie-in-der-schweiz-a-76ebd374-5dfa-4429-9a8a-82991533e37c#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/sport/handball/handball-em-die-niederlage-gegen-daenemark-zeigt-die-zwei-gesichter-des-deutschen-teams](https://www.spiegel.de/sport/handball/handball-em-die-niederlage-gegen-daenemark-zeigt-die-zwei-gesichter-des-deutschen-teams-a-05a89708-3729-4289-b11b-c732a0b6fa2f#ref=rss)
-### lange
+* [https://www.spiegel.de/panorama/justiz/dghs-staatsanwaltschaft-ermittelt-gegen-mitarbeiterin-von-sterbehilfeorganisation](https://www.spiegel.de/panorama/justiz/dghs-staatsanwaltschaft-ermittelt-gegen-mitarbeiterin-von-sterbehilfeorganisation-a-0f458b89-3a32-438a-8326-5ff4a2a63ab3#ref=rss)
+* [https://www.spiegel.de/ausland/eu-deal-mit-indien-das-richtige-signal-an-die-raubtierwelt](https://www.spiegel.de/ausland/eu-deal-mit-indien-das-richtige-signal-an-die-raubtierwelt-a-b71301bc-79ef-4bb0-8854-8257b48bf6b0#ref=rss)
+### formel
 
-* [https://www.spiegel.de/sport/handball/handball-em-die-niederlage-gegen-daenemark-zeigt-die-zwei-gesichter-des-deutschen-teams](https://www.spiegel.de/sport/handball/handball-em-die-niederlage-gegen-daenemark-zeigt-die-zwei-gesichter-des-deutschen-teams-a-05a89708-3729-4289-b11b-c732a0b6fa2f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-nationaltorhueter-sichert-remis-mit-parade](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-nationaltorhueter-sichert-remis-mit-parade-a-8a02183e-a57a-4744-a183-4503793aaef3#ref=rss)
-### macht
+* [https://www.spiegel.de/sport/formel1/formel-1-2026-antrieb-chassis-kraftstoff-diese-technikneuheiten-bringt-das-neue-reglement](https://www.spiegel.de/sport/formel1/formel-1-2026-antrieb-chassis-kraftstoff-diese-technikneuheiten-bringt-das-neue-reglement-a-838df399-2d6b-47cb-ae83-ac4bab8ace62#ref=rss)
+### 1
 
-* [https://www.spiegel.de/sport/handball/handball-em-die-niederlage-gegen-daenemark-zeigt-die-zwei-gesichter-des-deutschen-teams](https://www.spiegel.de/sport/handball/handball-em-die-niederlage-gegen-daenemark-zeigt-die-zwei-gesichter-des-deutschen-teams-a-05a89708-3729-4289-b11b-c732a0b6fa2f#ref=rss)
-* [https://www.spiegel.de/geschichte/holocaust-ueberlebender-leon-weintraub-man-darf-nie-zulassen-dass-die-afd-die-macht-ergreift](https://www.spiegel.de/geschichte/holocaust-ueberlebender-leon-weintraub-man-darf-nie-zulassen-dass-die-afd-die-macht-ergreift-a-82dda7ab-e5bc-4fcd-86fc-8fcd73fc6fec#ref=rss)
-### fragen
+* [https://www.spiegel.de/sport/formel1/formel-1-2026-antrieb-chassis-kraftstoff-diese-technikneuheiten-bringt-das-neue-reglement](https://www.spiegel.de/sport/formel1/formel-1-2026-antrieb-chassis-kraftstoff-diese-technikneuheiten-bringt-das-neue-reglement-a-838df399-2d6b-47cb-ae83-ac4bab8ace62#ref=rss)
+### chassis
 
-* [https://www.spiegel.de/sport/handball/handball-em-die-niederlage-gegen-daenemark-zeigt-die-zwei-gesichter-des-deutschen-teams](https://www.spiegel.de/sport/handball/handball-em-die-niederlage-gegen-daenemark-zeigt-die-zwei-gesichter-des-deutschen-teams-a-05a89708-3729-4289-b11b-c732a0b6fa2f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/indien-eu-freihandelsabkommen-zweckehe-ungleicher-partner](https://www.spiegel.de/politik/deutschland/indien-eu-freihandelsabkommen-zweckehe-ungleicher-partner-a-0424e654-957c-4dc9-805b-4ab8b10c361e#ref=rss)
-### vielleicht
+* [https://www.spiegel.de/sport/formel1/formel-1-2026-antrieb-chassis-kraftstoff-diese-technikneuheiten-bringt-das-neue-reglement](https://www.spiegel.de/sport/formel1/formel-1-2026-antrieb-chassis-kraftstoff-diese-technikneuheiten-bringt-das-neue-reglement-a-838df399-2d6b-47cb-ae83-ac4bab8ace62#ref=rss)
+### kraftstoff
 
-* [https://www.spiegel.de/wissenschaft/mensch/anthropologie-vielleicht-aelteste-holzwerkzeuge-der-menschheit-in-griechenland-entdeckt](https://www.spiegel.de/wissenschaft/mensch/anthropologie-vielleicht-aelteste-holzwerkzeuge-der-menschheit-in-griechenland-entdeckt-a-3774a432-b260-4172-8c2c-2129a1094ba3#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein-a-1d7758b3-107a-4d20-b24d-4af403bf9459#ref=rss)
-### jahre
+* [https://www.spiegel.de/sport/formel1/formel-1-2026-antrieb-chassis-kraftstoff-diese-technikneuheiten-bringt-das-neue-reglement](https://www.spiegel.de/sport/formel1/formel-1-2026-antrieb-chassis-kraftstoff-diese-technikneuheiten-bringt-das-neue-reglement-a-838df399-2d6b-47cb-ae83-ac4bab8ace62#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/wissenschaft/mensch/anthropologie-vielleicht-aelteste-holzwerkzeuge-der-menschheit-in-griechenland-entdeckt](https://www.spiegel.de/wissenschaft/mensch/anthropologie-vielleicht-aelteste-holzwerkzeuge-der-menschheit-in-griechenland-entdeckt-a-3774a432-b260-4172-8c2c-2129a1094ba3#ref=rss)
-* [https://www.spiegel.de/geschichte/holocaust-ueberlebender-leon-weintraub-man-darf-nie-zulassen-dass-die-afd-die-macht-ergreift](https://www.spiegel.de/geschichte/holocaust-ueberlebender-leon-weintraub-man-darf-nie-zulassen-dass-die-afd-die-macht-ergreift-a-82dda7ab-e5bc-4fcd-86fc-8fcd73fc6fec#ref=rss)
+* [https://www.spiegel.de/ausland/tiktok-remix-so-geht-emmanuel-macron-mit-sonnenbrille-viral](https://www.spiegel.de/ausland/tiktok-remix-so-geht-emmanuel-macron-mit-sonnenbrille-viral-a-b778e1ff-85c9-434d-8a27-6bb018c155dd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-deutsche-firmen-ziehen-geld-aus-den-usa-ab-und-investieren-massiv-in-china](https://www.spiegel.de/wirtschaft/unternehmen/china-deutsche-firmen-ziehen-geld-aus-den-usa-ab-und-investieren-massiv-in-china-a-84cb70e7-07df-4a5d-bb5f-c2bf46d0413d#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/kultur/hamburg-dokumentationszentrum-zur-ns-geschichte-wird-womoeglich-nie-realitaet](https://www.spiegel.de/kultur/hamburg-dokumentationszentrum-zur-ns-geschichte-wird-womoeglich-nie-realitaet-a-c25d22a9-5229-468c-8af2-8b836d7b0ee8#ref=rss)
+### womöglich
+
+* [https://www.spiegel.de/kultur/hamburg-dokumentationszentrum-zur-ns-geschichte-wird-womoeglich-nie-realitaet](https://www.spiegel.de/kultur/hamburg-dokumentationszentrum-zur-ns-geschichte-wird-womoeglich-nie-realitaet-a-c25d22a9-5229-468c-8af2-8b836d7b0ee8#ref=rss)
+### nie
+
+* [https://www.spiegel.de/kultur/hamburg-dokumentationszentrum-zur-ns-geschichte-wird-womoeglich-nie-realitaet](https://www.spiegel.de/kultur/hamburg-dokumentationszentrum-zur-ns-geschichte-wird-womoeglich-nie-realitaet-a-c25d22a9-5229-468c-8af2-8b836d7b0ee8#ref=rss)
+* [https://www.spiegel.de/auto/db-vs-sbb-bahnen-so-puenktlich-wie-nie-in-der-schweiz](https://www.spiegel.de/auto/db-vs-sbb-bahnen-so-puenktlich-wie-nie-in-der-schweiz-a-76ebd374-5dfa-4429-9a8a-82991533e37c#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/eu-deal-mit-indien-das-richtige-signal-an-die-raubtierwelt](https://www.spiegel.de/ausland/eu-deal-mit-indien-das-richtige-signal-an-die-raubtierwelt-a-b71301bc-79ef-4bb0-8854-8257b48bf6b0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimakrise-cdu-fluegel-entschaerfen-radikalen-klima-antrag](https://www.spiegel.de/politik/deutschland/klimakrise-cdu-fluegel-entschaerfen-radikalen-klima-antrag-a-83bc53db-02d6-427e-b80d-662c2bad4e37#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/ausland/eu-deal-mit-indien-das-richtige-signal-an-die-raubtierwelt](https://www.spiegel.de/ausland/eu-deal-mit-indien-das-richtige-signal-an-die-raubtierwelt-a-b71301bc-79ef-4bb0-8854-8257b48bf6b0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nrw-was-hinter-dem-ruecktritt-von-josefine-paul-steckt](https://www.spiegel.de/politik/deutschland/nrw-was-hinter-dem-ruecktritt-von-josefine-paul-steckt-a-d94cdb63-69f8-467d-864a-98a055d73be1#ref=rss)
+### cransmontana
+
+* [https://www.spiegel.de/panorama/crans-montana-gemeindepraesident-feraud-bedauert-fehlende-entschuldigung](https://www.spiegel.de/panorama/crans-montana-gemeindepraesident-feraud-bedauert-fehlende-entschuldigung-a-95369cbd-de6d-4892-9fac-7129b78525f4#ref=rss)
+### féraud
+
+* [https://www.spiegel.de/panorama/crans-montana-gemeindepraesident-feraud-bedauert-fehlende-entschuldigung](https://www.spiegel.de/panorama/crans-montana-gemeindepraesident-feraud-bedauert-fehlende-entschuldigung-a-95369cbd-de6d-4892-9fac-7129b78525f4#ref=rss)
+### preiserhöhung
+
+* [https://www.spiegel.de/wirtschaft/deutschlandticket-preiserhoehung-fuehrt-kaum-zu-kuendigungen](https://www.spiegel.de/wirtschaft/deutschlandticket-preiserhoehung-fuehrt-kaum-zu-kuendigungen-a-6de60673-22e0-4422-8d68-c3c9599cbc39#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/deutschlandticket-preiserhoehung-fuehrt-kaum-zu-kuendigungen](https://www.spiegel.de/wirtschaft/deutschlandticket-preiserhoehung-fuehrt-kaum-zu-kuendigungen-a-6de60673-22e0-4422-8d68-c3c9599cbc39#ref=rss)
+* [https://www.spiegel.de/auto/db-vs-sbb-bahnen-so-puenktlich-wie-nie-in-der-schweiz](https://www.spiegel.de/auto/db-vs-sbb-bahnen-so-puenktlich-wie-nie-in-der-schweiz-a-76ebd374-5dfa-4429-9a8a-82991533e37c#ref=rss)
+### usgrenzschützer
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil-a-0639b1fe-6670-425b-aa68-4a7cf8d5c91d#ref=rss)
+### gregory
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil-a-0639b1fe-6670-425b-aa68-4a7cf8d5c91d#ref=rss)
+### bovino
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil-a-0639b1fe-6670-425b-aa68-4a7cf8d5c91d#ref=rss)
+### lars
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil-a-0639b1fe-6670-425b-aa68-4a7cf8d5c91d#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil-a-0639b1fe-6670-425b-aa68-4a7cf8d5c91d#ref=rss)
+### einigen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil-a-0639b1fe-6670-425b-aa68-4a7cf8d5c91d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-der-kampf-um-saporischschja-frontbericht](https://www.spiegel.de/ausland/ukraine-krieg-der-kampf-um-saporischschja-frontbericht-a-5940f3f5-d10e-44fb-a48d-c7855396ec47#ref=rss)
+### tritt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil](https://www.spiegel.de/politik/deutschland/news-des-tages-us-grenzschuetzer-gregory-bovino-eu-freihandelsabkommen-mit-indien-lars-klingbeil-a-0639b1fe-6670-425b-aa68-4a7cf8d5c91d#ref=rss)
+* [https://www.spiegel.de/kultur/kino/baftas-2026-one-battle-after-another-dominiert-nominierungen-fuer-britischen-filmpreis](https://www.spiegel.de/kultur/kino/baftas-2026-one-battle-after-another-dominiert-nominierungen-fuer-britischen-filmpreis-a-c76bde87-0282-4318-ae14-97019429e1dc#ref=rss)
+### saporischschja
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-der-kampf-um-saporischschja-frontbericht](https://www.spiegel.de/ausland/ukraine-krieg-der-kampf-um-saporischschja-frontbericht-a-5940f3f5-d10e-44fb-a48d-c7855396ec47#ref=rss)
+### wäre
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-der-kampf-um-saporischschja-frontbericht](https://www.spiegel.de/ausland/ukraine-krieg-der-kampf-um-saporischschja-frontbericht-a-5940f3f5-d10e-44fb-a48d-c7855396ec47#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/alkohol-am-steuer-betrunken-autofahren-auto-weg-kommentar](https://www.spiegel.de/politik/deutschland/alkohol-am-steuer-betrunken-autofahren-auto-weg-kommentar-a-afa074cc-65c6-4173-8ddb-5f89c132d232#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/justiz/polizei-berlin-lehrbuch-zeigt-wie-man-effizient-schmerzen-zufuegt](https://www.spiegel.de/panorama/justiz/polizei-berlin-lehrbuch-zeigt-wie-man-effizient-schmerzen-zufuegt-a-9a25f48d-1e6f-4d9c-956d-f969eb09cce6#ref=rss)
+### lehrbuch
+
+* [https://www.spiegel.de/panorama/justiz/polizei-berlin-lehrbuch-zeigt-wie-man-effizient-schmerzen-zufuegt](https://www.spiegel.de/panorama/justiz/polizei-berlin-lehrbuch-zeigt-wie-man-effizient-schmerzen-zufuegt-a-9a25f48d-1e6f-4d9c-956d-f969eb09cce6#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/panorama/justiz/polizei-berlin-lehrbuch-zeigt-wie-man-effizient-schmerzen-zufuegt](https://www.spiegel.de/panorama/justiz/polizei-berlin-lehrbuch-zeigt-wie-man-effizient-schmerzen-zufuegt-a-9a25f48d-1e6f-4d9c-956d-f969eb09cce6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimakrise-cdu-fluegel-entschaerfen-radikalen-klima-antrag](https://www.spiegel.de/politik/deutschland/klimakrise-cdu-fluegel-entschaerfen-radikalen-klima-antrag-a-83bc53db-02d6-427e-b80d-662c2bad4e37#ref=rss)
+### betrunken
+
+* [https://www.spiegel.de/politik/deutschland/alkohol-am-steuer-betrunken-autofahren-auto-weg-kommentar](https://www.spiegel.de/politik/deutschland/alkohol-am-steuer-betrunken-autofahren-auto-weg-kommentar-a-afa074cc-65c6-4173-8ddb-5f89c132d232#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/alkohol-am-steuer-betrunken-autofahren-auto-weg-kommentar](https://www.spiegel.de/politik/deutschland/alkohol-am-steuer-betrunken-autofahren-auto-weg-kommentar-a-afa074cc-65c6-4173-8ddb-5f89c132d232#ref=rss)
+* [https://www.spiegel.de/wirtschaft/muell-in-deutschland-fortschritte-beim-recycling-von-plastik-defizite-bei-glas](https://www.spiegel.de/wirtschaft/muell-in-deutschland-fortschritte-beim-recycling-von-plastik-defizite-bei-glas-a-7bc9b3d1-a492-4bea-9db0-75e216c7312d#ref=rss)
+### schonungen
+
+* [https://www.spiegel.de/panorama/schonungen-buergermeister-kommt-mit-dem-schneepflug-und-rettet-so-die-hochzeit](https://www.spiegel.de/panorama/schonungen-buergermeister-kommt-mit-dem-schneepflug-und-rettet-so-die-hochzeit-a-68274404-0d8a-4b28-a9a9-beb893da8214#ref=rss)
+### bürgermeister
+
+* [https://www.spiegel.de/panorama/schonungen-buergermeister-kommt-mit-dem-schneepflug-und-rettet-so-die-hochzeit](https://www.spiegel.de/panorama/schonungen-buergermeister-kommt-mit-dem-schneepflug-und-rettet-so-die-hochzeit-a-68274404-0d8a-4b28-a9a9-beb893da8214#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/panorama/sizilien-1500-menschen-wegen-erdrutsch-evakuiert](https://www.spiegel.de/panorama/sizilien-1500-menschen-wegen-erdrutsch-evakuiert-a-220d0bae-85c5-4c4a-a368-b186b9a8f475#ref=rss)
+### minnesota
+
+* [https://www.spiegel.de/ausland/minnesota-us-bezirksrichter-laedt-ice-behoerdenchef-vor](https://www.spiegel.de/ausland/minnesota-us-bezirksrichter-laedt-ice-behoerdenchef-vor-a-511c96b2-7d9c-4242-a820-35f8f4db2f54#ref=rss)
 ### holocaust
 
-* [https://www.spiegel.de/geschichte/nationalsozialismus-wissen-sie-genug-ueber-den-holocaust](https://www.spiegel.de/geschichte/nationalsozialismus-wissen-sie-genug-ueber-den-holocaust-a-163c9d76-7052-4e75-a5d2-e282eef48e8b#ref=rss)
-### opfer
+* [https://www.spiegel.de/ausland/holocaust-wie-ein-inder-juden-aus-wien-rettete](https://www.spiegel.de/ausland/holocaust-wie-ein-inder-juden-aus-wien-rettete-a-e26cae1e-9dbe-4dc1-945e-d9e3be6084af#ref=rss)
+* [https://www.spiegel.de/ausland/holocaust-fuenf-millionen-rekonstruiert-doch-viele-namen-bleiben-verloren](https://www.spiegel.de/ausland/holocaust-fuenf-millionen-rekonstruiert-doch-viele-namen-bleiben-verloren-a-f56183ef-2095-4134-b54e-d8b92a514c8c#ref=rss)
+### juden
 
-* [https://www.spiegel.de/geschichte/nationalsozialismus-wissen-sie-genug-ueber-den-holocaust](https://www.spiegel.de/geschichte/nationalsozialismus-wissen-sie-genug-ueber-den-holocaust-a-163c9d76-7052-4e75-a5d2-e282eef48e8b#ref=rss)
-* [https://www.spiegel.de/panorama/schiffsungluecke-im-mittelmeer-hunderte-gefluechtete-vermisst](https://www.spiegel.de/panorama/schiffsungluecke-im-mittelmeer-hunderte-gefluechtete-vermisst-a-f58b8df9-a931-4be5-b213-3f9e2b60e086#ref=rss)
-### holocaustgedenktag
+* [https://www.spiegel.de/ausland/holocaust-wie-ein-inder-juden-aus-wien-rettete](https://www.spiegel.de/ausland/holocaust-wie-ein-inder-juden-aus-wien-rettete-a-e26cae1e-9dbe-4dc1-945e-d9e3be6084af#ref=rss)
+### one
 
-* [https://www.spiegel.de/politik/holocaust-gedenktag-das-dunkle-in-uns-selbst-meinung](https://www.spiegel.de/politik/holocaust-gedenktag-das-dunkle-in-uns-selbst-meinung-a-41baeeb7-1bca-40b4-aa56-9241c3ad835e#ref=rss)
-* [https://www.spiegel.de/geschichte/holocaust-ueberlebender-leon-weintraub-man-darf-nie-zulassen-dass-die-afd-die-macht-ergreift](https://www.spiegel.de/geschichte/holocaust-ueberlebender-leon-weintraub-man-darf-nie-zulassen-dass-die-afd-die-macht-ergreift-a-82dda7ab-e5bc-4fcd-86fc-8fcd73fc6fec#ref=rss)
-### uns
+* [https://www.spiegel.de/kultur/kino/baftas-2026-one-battle-after-another-dominiert-nominierungen-fuer-britischen-filmpreis](https://www.spiegel.de/kultur/kino/baftas-2026-one-battle-after-another-dominiert-nominierungen-fuer-britischen-filmpreis-a-c76bde87-0282-4318-ae14-97019429e1dc#ref=rss)
+### battle
 
-* [https://www.spiegel.de/politik/holocaust-gedenktag-das-dunkle-in-uns-selbst-meinung](https://www.spiegel.de/politik/holocaust-gedenktag-das-dunkle-in-uns-selbst-meinung-a-41baeeb7-1bca-40b4-aa56-9241c3ad835e#ref=rss)
-### frauen
+* [https://www.spiegel.de/kultur/kino/baftas-2026-one-battle-after-another-dominiert-nominierungen-fuer-britischen-filmpreis](https://www.spiegel.de/kultur/kino/baftas-2026-one-battle-after-another-dominiert-nominierungen-fuer-britischen-filmpreis-a-c76bde87-0282-4318-ae14-97019429e1dc#ref=rss)
+### after
 
-* [https://www.spiegel.de/start/arbeitsmarkt-ueberqualifikation-bei-jungen-frauen-und-menschen-mit-migrationshintergrund-weit-verbreitet](https://www.spiegel.de/start/arbeitsmarkt-ueberqualifikation-bei-jungen-frauen-und-menschen-mit-migrationshintergrund-weit-verbreitet-a-b3f3d60c-3243-4190-b2a9-3002a4697acc#ref=rss)
-### gut
+* [https://www.spiegel.de/kultur/kino/baftas-2026-one-battle-after-another-dominiert-nominierungen-fuer-britischen-filmpreis](https://www.spiegel.de/kultur/kino/baftas-2026-one-battle-after-another-dominiert-nominierungen-fuer-britischen-filmpreis-a-c76bde87-0282-4318-ae14-97019429e1dc#ref=rss)
+### another
 
-* [https://www.spiegel.de/start/arbeitsmarkt-ueberqualifikation-bei-jungen-frauen-und-menschen-mit-migrationshintergrund-weit-verbreitet](https://www.spiegel.de/start/arbeitsmarkt-ueberqualifikation-bei-jungen-frauen-und-menschen-mit-migrationshintergrund-weit-verbreitet-a-b3f3d60c-3243-4190-b2a9-3002a4697acc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-us-wirtschaft-gita-gopinath-zweifelt-an-trumps-wirtschaftsstaerke](https://www.spiegel.de/wirtschaft/donald-trump-und-us-wirtschaft-gita-gopinath-zweifelt-an-trumps-wirtschaftsstaerke-a-4b727c79-225d-43e3-806a-a7f95c01c4ab#ref=rss)
-### unter
+* [https://www.spiegel.de/kultur/kino/baftas-2026-one-battle-after-another-dominiert-nominierungen-fuer-britischen-filmpreis](https://www.spiegel.de/kultur/kino/baftas-2026-one-battle-after-another-dominiert-nominierungen-fuer-britischen-filmpreis-a-c76bde87-0282-4318-ae14-97019429e1dc#ref=rss)
+### kategorien
 
-* [https://www.spiegel.de/start/arbeitsmarkt-ueberqualifikation-bei-jungen-frauen-und-menschen-mit-migrationshintergrund-weit-verbreitet](https://www.spiegel.de/start/arbeitsmarkt-ueberqualifikation-bei-jungen-frauen-und-menschen-mit-migrationshintergrund-weit-verbreitet-a-b3f3d60c-3243-4190-b2a9-3002a4697acc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-fluechtlingsministerin-josefine-paul-tritt-zurueck](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-fluechtlingsministerin-josefine-paul-tritt-zurueck-a-8f139e2c-afa9-44bc-b04b-577efca9df52#ref=rss)
-### 35
+* [https://www.spiegel.de/kultur/kino/baftas-2026-one-battle-after-another-dominiert-nominierungen-fuer-britischen-filmpreis](https://www.spiegel.de/kultur/kino/baftas-2026-one-battle-after-another-dominiert-nominierungen-fuer-britischen-filmpreis-a-c76bde87-0282-4318-ae14-97019429e1dc#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/start/arbeitsmarkt-ueberqualifikation-bei-jungen-frauen-und-menschen-mit-migrationshintergrund-weit-verbreitet](https://www.spiegel.de/start/arbeitsmarkt-ueberqualifikation-bei-jungen-frauen-und-menschen-mit-migrationshintergrund-weit-verbreitet-a-b3f3d60c-3243-4190-b2a9-3002a4697acc#ref=rss)
-* [https://www.spiegel.de/geschichte/holocaust-ueberlebender-leon-weintraub-man-darf-nie-zulassen-dass-die-afd-die-macht-ergreift](https://www.spiegel.de/geschichte/holocaust-ueberlebender-leon-weintraub-man-darf-nie-zulassen-dass-die-afd-die-macht-ergreift-a-82dda7ab-e5bc-4fcd-86fc-8fcd73fc6fec#ref=rss)
-### schattenwirtschaft
+* [https://www.spiegel.de/kultur/kino/baftas-2026-one-battle-after-another-dominiert-nominierungen-fuer-britischen-filmpreis](https://www.spiegel.de/kultur/kino/baftas-2026-one-battle-after-another-dominiert-nominierungen-fuer-britischen-filmpreis-a-c76bde87-0282-4318-ae14-97019429e1dc#ref=rss)
+* [https://www.spiegel.de/panorama/pfadfinder-offenbar-hunderte-missbrauchsfaelle-aufgedeckt-studie-zu-sexualisierter-gewalt](https://www.spiegel.de/panorama/pfadfinder-offenbar-hunderte-missbrauchsfaelle-aufgedeckt-studie-zu-sexualisierter-gewalt-a-f14fe86f-f55d-4f34-aca6-04fcc868a2b9#ref=rss)
+### 4
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftkrise-in-deutschland-schattenwirtschaft-auf-hoechstem-niveau-seit-zwoelf-jahren](https://www.spiegel.de/wirtschaft/wirtschaftkrise-in-deutschland-schattenwirtschaft-auf-hoechstem-niveau-seit-zwoelf-jahren-a-b570df96-4126-4f5e-b0ca-62207c1862e4#ref=rss)
-### zwölf
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2026-tag-4-willkommen-zur-einfuehrung-in-die-trashologie](https://www.spiegel.de/kultur/tv/dschungelcamp-2026-tag-4-willkommen-zur-einfuehrung-in-die-trashologie-a-588022ab-fed3-47bd-a548-b2af8597b7d4#ref=rss)
+### itzehoe
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftkrise-in-deutschland-schattenwirtschaft-auf-hoechstem-niveau-seit-zwoelf-jahren](https://www.spiegel.de/wirtschaft/wirtschaftkrise-in-deutschland-schattenwirtschaft-auf-hoechstem-niveau-seit-zwoelf-jahren-a-b570df96-4126-4f5e-b0ca-62207c1862e4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/itzehoe-einbrecher-erbeuten-zwei-tonnen-kupferdraht](https://www.spiegel.de/panorama/justiz/itzehoe-einbrecher-erbeuten-zwei-tonnen-kupferdraht-a-846f1ee6-7924-410c-aa4b-7ee024f8460a#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/ausland/holocaust-fuenf-millionen-rekonstruiert-doch-viele-namen-bleiben-verloren](https://www.spiegel.de/ausland/holocaust-fuenf-millionen-rekonstruiert-doch-viele-namen-bleiben-verloren-a-f56183ef-2095-4134-b54e-d8b92a514c8c#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/ausland/holocaust-fuenf-millionen-rekonstruiert-doch-viele-namen-bleiben-verloren](https://www.spiegel.de/ausland/holocaust-fuenf-millionen-rekonstruiert-doch-viele-namen-bleiben-verloren-a-f56183ef-2095-4134-b54e-d8b92a514c8c#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/holocaust-fuenf-millionen-rekonstruiert-doch-viele-namen-bleiben-verloren](https://www.spiegel.de/ausland/holocaust-fuenf-millionen-rekonstruiert-doch-viele-namen-bleiben-verloren-a-f56183ef-2095-4134-b54e-d8b92a514c8c#ref=rss)
+### namen
+
+* [https://www.spiegel.de/ausland/holocaust-fuenf-millionen-rekonstruiert-doch-viele-namen-bleiben-verloren](https://www.spiegel.de/ausland/holocaust-fuenf-millionen-rekonstruiert-doch-viele-namen-bleiben-verloren-a-f56183ef-2095-4134-b54e-d8b92a514c8c#ref=rss)
+### verloren
+
+* [https://www.spiegel.de/ausland/holocaust-fuenf-millionen-rekonstruiert-doch-viele-namen-bleiben-verloren](https://www.spiegel.de/ausland/holocaust-fuenf-millionen-rekonstruiert-doch-viele-namen-bleiben-verloren-a-f56183ef-2095-4134-b54e-d8b92a514c8c#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### eugen
+
+* [https://www.spiegel.de/sport/fussball/eugen-strigel-ist-tot-frueherer-bundesliga-schiedsrichter-mit-76-jahren-gestorben](https://www.spiegel.de/sport/fussball/eugen-strigel-ist-tot-frueherer-bundesliga-schiedsrichter-mit-76-jahren-gestorben-a-9dba1a11-d5ea-4497-8ab8-bbeba2c1c561#ref=rss)
+### strigel
+
+* [https://www.spiegel.de/sport/fussball/eugen-strigel-ist-tot-frueherer-bundesliga-schiedsrichter-mit-76-jahren-gestorben](https://www.spiegel.de/sport/fussball/eugen-strigel-ist-tot-frueherer-bundesliga-schiedsrichter-mit-76-jahren-gestorben-a-9dba1a11-d5ea-4497-8ab8-bbeba2c1c561#ref=rss)
+### 76
+
+* [https://www.spiegel.de/sport/fussball/eugen-strigel-ist-tot-frueherer-bundesliga-schiedsrichter-mit-76-jahren-gestorben](https://www.spiegel.de/sport/fussball/eugen-strigel-ist-tot-frueherer-bundesliga-schiedsrichter-mit-76-jahren-gestorben-a-9dba1a11-d5ea-4497-8ab8-bbeba2c1c561#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftkrise-in-deutschland-schattenwirtschaft-auf-hoechstem-niveau-seit-zwoelf-jahren](https://www.spiegel.de/wirtschaft/wirtschaftkrise-in-deutschland-schattenwirtschaft-auf-hoechstem-niveau-seit-zwoelf-jahren-a-b570df96-4126-4f5e-b0ca-62207c1862e4#ref=rss)
-### erreicht
+* [https://www.spiegel.de/sport/fussball/eugen-strigel-ist-tot-frueherer-bundesliga-schiedsrichter-mit-76-jahren-gestorben](https://www.spiegel.de/sport/fussball/eugen-strigel-ist-tot-frueherer-bundesliga-schiedsrichter-mit-76-jahren-gestorben-a-9dba1a11-d5ea-4497-8ab8-bbeba2c1c561#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftkrise-in-deutschland-schattenwirtschaft-auf-hoechstem-niveau-seit-zwoelf-jahren](https://www.spiegel.de/wirtschaft/wirtschaftkrise-in-deutschland-schattenwirtschaft-auf-hoechstem-niveau-seit-zwoelf-jahren-a-b570df96-4126-4f5e-b0ca-62207c1862e4#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein-a-1d7758b3-107a-4d20-b24d-4af403bf9459#ref=rss)
-### zweckehe
+* [https://www.spiegel.de/sport/fussball/eugen-strigel-ist-tot-frueherer-bundesliga-schiedsrichter-mit-76-jahren-gestorben](https://www.spiegel.de/sport/fussball/eugen-strigel-ist-tot-frueherer-bundesliga-schiedsrichter-mit-76-jahren-gestorben-a-9dba1a11-d5ea-4497-8ab8-bbeba2c1c561#ref=rss)
+### olympia
 
-* [https://www.spiegel.de/politik/deutschland/indien-eu-freihandelsabkommen-zweckehe-ungleicher-partner](https://www.spiegel.de/politik/deutschland/indien-eu-freihandelsabkommen-zweckehe-ungleicher-partner-a-0424e654-957c-4dc9-805b-4ab8b10c361e#ref=rss)
-### ungleicher
+* [https://www.spiegel.de/sport/olympia/olympia-2026-wer-entscheidet-wer-die-olympische-fackel-traegt](https://www.spiegel.de/sport/olympia/olympia-2026-wer-entscheidet-wer-die-olympische-fackel-traegt-a-1f41a81e-0bd9-468b-9a83-d7511d27479e#ref=rss)
+### olympische
 
-* [https://www.spiegel.de/politik/deutschland/indien-eu-freihandelsabkommen-zweckehe-ungleicher-partner](https://www.spiegel.de/politik/deutschland/indien-eu-freihandelsabkommen-zweckehe-ungleicher-partner-a-0424e654-957c-4dc9-805b-4ab8b10c361e#ref=rss)
-### partner
+* [https://www.spiegel.de/sport/olympia/olympia-2026-wer-entscheidet-wer-die-olympische-fackel-traegt](https://www.spiegel.de/sport/olympia/olympia-2026-wer-entscheidet-wer-die-olympische-fackel-traegt-a-1f41a81e-0bd9-468b-9a83-d7511d27479e#ref=rss)
+### studie
 
-* [https://www.spiegel.de/politik/deutschland/indien-eu-freihandelsabkommen-zweckehe-ungleicher-partner](https://www.spiegel.de/politik/deutschland/indien-eu-freihandelsabkommen-zweckehe-ungleicher-partner-a-0424e654-957c-4dc9-805b-4ab8b10c361e#ref=rss)
-### skinny
+* [https://www.spiegel.de/panorama/pfadfinder-offenbar-hunderte-missbrauchsfaelle-aufgedeckt-studie-zu-sexualisierter-gewalt](https://www.spiegel.de/panorama/pfadfinder-offenbar-hunderte-missbrauchsfaelle-aufgedeckt-studie-zu-sexualisierter-gewalt-a-f14fe86f-f55d-4f34-aca6-04fcc868a2b9#ref=rss)
+### gewalt
 
-* [https://www.spiegel.de/kultur/2016-nostalgie-skinny-jeans-pokemon-go-und-drake](https://www.spiegel.de/kultur/2016-nostalgie-skinny-jeans-pokemon-go-und-drake-a-8dabc090-9d1f-4318-97a6-c3b1824d6394#ref=rss)
-### jeans
-
-* [https://www.spiegel.de/kultur/2016-nostalgie-skinny-jeans-pokemon-go-und-drake](https://www.spiegel.de/kultur/2016-nostalgie-skinny-jeans-pokemon-go-und-drake-a-8dabc090-9d1f-4318-97a6-c3b1824d6394#ref=rss)
-### pokémon
-
-* [https://www.spiegel.de/kultur/2016-nostalgie-skinny-jeans-pokemon-go-und-drake](https://www.spiegel.de/kultur/2016-nostalgie-skinny-jeans-pokemon-go-und-drake-a-8dabc090-9d1f-4318-97a6-c3b1824d6394#ref=rss)
-### go
-
-* [https://www.spiegel.de/kultur/2016-nostalgie-skinny-jeans-pokemon-go-und-drake](https://www.spiegel.de/kultur/2016-nostalgie-skinny-jeans-pokemon-go-und-drake-a-8dabc090-9d1f-4318-97a6-c3b1824d6394#ref=rss)
-### drake
-
-* [https://www.spiegel.de/kultur/2016-nostalgie-skinny-jeans-pokemon-go-und-drake](https://www.spiegel.de/kultur/2016-nostalgie-skinny-jeans-pokemon-go-und-drake-a-8dabc090-9d1f-4318-97a6-c3b1824d6394#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/kultur/2016-nostalgie-skinny-jeans-pokemon-go-und-drake](https://www.spiegel.de/kultur/2016-nostalgie-skinny-jeans-pokemon-go-und-drake-a-8dabc090-9d1f-4318-97a6-c3b1824d6394#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/automarkt-in-der-eu-zuwachs-bei-elektroautos-rueckgang-bei-verbrennern](https://www.spiegel.de/wirtschaft/unternehmen/automarkt-in-der-eu-zuwachs-bei-elektroautos-rueckgang-bei-verbrennern-a-e649b613-3550-4b9d-81f4-b93f2faad434#ref=rss)
-### teilzeit
-
-* [https://www.spiegel.de/politik/deutschland/teilzeit-carsten-linnemann-und-alexander-dobrindt-kritisieren-vorstoss-des-cdu-wirtschaftsfluegels](https://www.spiegel.de/politik/deutschland/teilzeit-carsten-linnemann-und-alexander-dobrindt-kritisieren-vorstoss-des-cdu-wirtschaftsfluegels-a-b7a212d6-6da4-46e1-8d79-c9b20848ed8a#ref=rss)
-### linnemann
-
-* [https://www.spiegel.de/politik/deutschland/teilzeit-carsten-linnemann-und-alexander-dobrindt-kritisieren-vorstoss-des-cdu-wirtschaftsfluegels](https://www.spiegel.de/politik/deutschland/teilzeit-carsten-linnemann-und-alexander-dobrindt-kritisieren-vorstoss-des-cdu-wirtschaftsfluegels-a-b7a212d6-6da4-46e1-8d79-c9b20848ed8a#ref=rss)
-### dobrindt
-
-* [https://www.spiegel.de/politik/deutschland/teilzeit-carsten-linnemann-und-alexander-dobrindt-kritisieren-vorstoss-des-cdu-wirtschaftsfluegels](https://www.spiegel.de/politik/deutschland/teilzeit-carsten-linnemann-und-alexander-dobrindt-kritisieren-vorstoss-des-cdu-wirtschaftsfluegels-a-b7a212d6-6da4-46e1-8d79-c9b20848ed8a#ref=rss)
-### vorstoß
-
-* [https://www.spiegel.de/politik/deutschland/teilzeit-carsten-linnemann-und-alexander-dobrindt-kritisieren-vorstoss-des-cdu-wirtschaftsfluegels](https://www.spiegel.de/politik/deutschland/teilzeit-carsten-linnemann-und-alexander-dobrindt-kritisieren-vorstoss-des-cdu-wirtschaftsfluegels-a-b7a212d6-6da4-46e1-8d79-c9b20848ed8a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-dfb-praesident-bernd-neuendorf-lehnt-boykott-debatte-ab](https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-dfb-praesident-bernd-neuendorf-lehnt-boykott-debatte-ab-a-4e4c1e05-9232-45e4-9546-e6e5eb5365ff#ref=rss)
-### debatte
-
-* [https://www.spiegel.de/politik/deutschland/teilzeit-carsten-linnemann-und-alexander-dobrindt-kritisieren-vorstoss-des-cdu-wirtschaftsfluegels](https://www.spiegel.de/politik/deutschland/teilzeit-carsten-linnemann-und-alexander-dobrindt-kritisieren-vorstoss-des-cdu-wirtschaftsfluegels-a-b7a212d6-6da4-46e1-8d79-c9b20848ed8a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-dfb-praesident-bernd-neuendorf-lehnt-boykott-debatte-ab](https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-dfb-praesident-bernd-neuendorf-lehnt-boykott-debatte-ab-a-4e4c1e05-9232-45e4-9546-e6e5eb5365ff#ref=rss)
-### neuendorf
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-dfb-praesident-bernd-neuendorf-lehnt-boykott-debatte-ab](https://www.spiegel.de/sport/fussball/fussball-wm-in-den-usa-dfb-praesident-bernd-neuendorf-lehnt-boykott-debatte-ab-a-4e4c1e05-9232-45e4-9546-e6e5eb5365ff#ref=rss)
-### bka
-
-* [https://www.spiegel.de/panorama/justiz/stromausfall-in-berlin-bka-lobt-eine-million-fuer-hinweise-zu-vulkangruppe-aus](https://www.spiegel.de/panorama/justiz/stromausfall-in-berlin-bka-lobt-eine-million-fuer-hinweise-zu-vulkangruppe-aus-a-da7af398-eac5-40ad-9435-513f65c77f69#ref=rss)
-### mittelmeer
-
-* [https://www.spiegel.de/panorama/schiffsungluecke-im-mittelmeer-hunderte-gefluechtete-vermisst](https://www.spiegel.de/panorama/schiffsungluecke-im-mittelmeer-hunderte-gefluechtete-vermisst-a-f58b8df9-a931-4be5-b213-3f9e2b60e086#ref=rss)
-### flüchtlingsministerin
-
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-fluechtlingsministerin-josefine-paul-tritt-zurueck](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-fluechtlingsministerin-josefine-paul-tritt-zurueck-a-8f139e2c-afa9-44bc-b04b-577efca9df52#ref=rss)
+* [https://www.spiegel.de/panorama/pfadfinder-offenbar-hunderte-missbrauchsfaelle-aufgedeckt-studie-zu-sexualisierter-gewalt](https://www.spiegel.de/panorama/pfadfinder-offenbar-hunderte-missbrauchsfaelle-aufgedeckt-studie-zu-sexualisierter-gewalt-a-f14fe86f-f55d-4f34-aca6-04fcc868a2b9#ref=rss)
 ### josefine
 
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-fluechtlingsministerin-josefine-paul-tritt-zurueck](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-fluechtlingsministerin-josefine-paul-tritt-zurueck-a-8f139e2c-afa9-44bc-b04b-577efca9df52#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nrw-was-hinter-dem-ruecktritt-von-josefine-paul-steckt](https://www.spiegel.de/politik/deutschland/nrw-was-hinter-dem-ruecktritt-von-josefine-paul-steckt-a-d94cdb63-69f8-467d-864a-98a055d73be1#ref=rss)
 ### paul
 
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-fluechtlingsministerin-josefine-paul-tritt-zurueck](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-fluechtlingsministerin-josefine-paul-tritt-zurueck-a-8f139e2c-afa9-44bc-b04b-577efca9df52#ref=rss)
-### elektroautos
+* [https://www.spiegel.de/politik/deutschland/nrw-was-hinter-dem-ruecktritt-von-josefine-paul-steckt](https://www.spiegel.de/politik/deutschland/nrw-was-hinter-dem-ruecktritt-von-josefine-paul-steckt-a-d94cdb63-69f8-467d-864a-98a055d73be1#ref=rss)
+### firmen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/automarkt-in-der-eu-zuwachs-bei-elektroautos-rueckgang-bei-verbrennern](https://www.spiegel.de/wirtschaft/unternehmen/automarkt-in-der-eu-zuwachs-bei-elektroautos-rueckgang-bei-verbrennern-a-e649b613-3550-4b9d-81f4-b93f2faad434#ref=rss)
-### autos
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-deutsche-firmen-ziehen-geld-aus-den-usa-ab-und-investieren-massiv-in-china](https://www.spiegel.de/wirtschaft/unternehmen/china-deutsche-firmen-ziehen-geld-aus-den-usa-ab-und-investieren-massiv-in-china-a-84cb70e7-07df-4a5d-bb5f-c2bf46d0413d#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/automarkt-in-der-eu-zuwachs-bei-elektroautos-rueckgang-bei-verbrennern](https://www.spiegel.de/wirtschaft/unternehmen/automarkt-in-der-eu-zuwachs-bei-elektroautos-rueckgang-bei-verbrennern-a-e649b613-3550-4b9d-81f4-b93f2faad434#ref=rss)
-* [https://www.spiegel.de/panorama/borkum-frachter-nach-brand-manoevrierunfaehig](https://www.spiegel.de/panorama/borkum-frachter-nach-brand-manoevrierunfaehig-a-6be07ac9-83be-47e2-96c6-543feab52816#ref=rss)
-### deutliche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/automarkt-in-der-eu-zuwachs-bei-elektroautos-rueckgang-bei-verbrennern](https://www.spiegel.de/wirtschaft/unternehmen/automarkt-in-der-eu-zuwachs-bei-elektroautos-rueckgang-bei-verbrennern-a-e649b613-3550-4b9d-81f4-b93f2faad434#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-ted-cruz-spottete-in-privatgespraechen-ueber-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-ted-cruz-spottete-in-privatgespraechen-ueber-us-praesidenten-a-a45f9972-2b6e-4935-aa6c-4c9ee856ad88#ref=rss)
-### uswirtschaft
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-us-wirtschaft-gita-gopinath-zweifelt-an-trumps-wirtschaftsstaerke](https://www.spiegel.de/wirtschaft/donald-trump-und-us-wirtschaft-gita-gopinath-zweifelt-an-trumps-wirtschaftsstaerke-a-4b727c79-225d-43e3-806a-a7f95c01c4ab#ref=rss)
-### gita
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-us-wirtschaft-gita-gopinath-zweifelt-an-trumps-wirtschaftsstaerke](https://www.spiegel.de/wirtschaft/donald-trump-und-us-wirtschaft-gita-gopinath-zweifelt-an-trumps-wirtschaftsstaerke-a-4b727c79-225d-43e3-806a-a7f95c01c4ab#ref=rss)
-### gopinath
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-us-wirtschaft-gita-gopinath-zweifelt-an-trumps-wirtschaftsstaerke](https://www.spiegel.de/wirtschaft/donald-trump-und-us-wirtschaft-gita-gopinath-zweifelt-an-trumps-wirtschaftsstaerke-a-4b727c79-225d-43e3-806a-a7f95c01c4ab#ref=rss)
-### fährt
-
-* [https://www.spiegel.de/panorama/berlin-strassenbahn-faehrt-wegen-vereisten-oberleitungen-nicht](https://www.spiegel.de/panorama/berlin-strassenbahn-faehrt-wegen-vereisten-oberleitungen-nicht-a-0cbc1395-3123-46fe-9d00-e6e2a586aa23#ref=rss)
-### oberleitungen
-
-* [https://www.spiegel.de/panorama/berlin-strassenbahn-faehrt-wegen-vereisten-oberleitungen-nicht](https://www.spiegel.de/panorama/berlin-strassenbahn-faehrt-wegen-vereisten-oberleitungen-nicht-a-0cbc1395-3123-46fe-9d00-e6e2a586aa23#ref=rss)
-### ted
-
-* [https://www.spiegel.de/ausland/donald-trump-ted-cruz-spottete-in-privatgespraechen-ueber-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-ted-cruz-spottete-in-privatgespraechen-ueber-us-praesidenten-a-a45f9972-2b6e-4935-aa6c-4c9ee856ad88#ref=rss)
-### cruz
-
-* [https://www.spiegel.de/ausland/donald-trump-ted-cruz-spottete-in-privatgespraechen-ueber-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-ted-cruz-spottete-in-privatgespraechen-ueber-us-praesidenten-a-a45f9972-2b6e-4935-aa6c-4c9ee856ad88#ref=rss)
-### uspräsidenten
-
-* [https://www.spiegel.de/ausland/donald-trump-ted-cruz-spottete-in-privatgespraechen-ueber-us-praesidenten](https://www.spiegel.de/ausland/donald-trump-ted-cruz-spottete-in-privatgespraechen-ueber-us-praesidenten-a-a45f9972-2b6e-4935-aa6c-4c9ee856ad88#ref=rss)
-### marcandré
-
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-nationaltorhueter-sichert-remis-mit-parade](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-nationaltorhueter-sichert-remis-mit-parade-a-8a02183e-a57a-4744-a183-4503793aaef3#ref=rss)
-### ter
-
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-nationaltorhueter-sichert-remis-mit-parade](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-nationaltorhueter-sichert-remis-mit-parade-a-8a02183e-a57a-4744-a183-4503793aaef3#ref=rss)
-### stegen
-
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-nationaltorhueter-sichert-remis-mit-parade](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-nationaltorhueter-sichert-remis-mit-parade-a-8a02183e-a57a-4744-a183-4503793aaef3#ref=rss)
-### girona
-
-* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-nationaltorhueter-sichert-remis-mit-parade](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-nationaltorhueter-sichert-remis-mit-parade-a-8a02183e-a57a-4744-a183-4503793aaef3#ref=rss)
-### handelsabkommen
-
-* [https://www.spiegel.de/wirtschaft/eu-und-indien-unterzeichnen-umfassendes-handelsabkommen](https://www.spiegel.de/wirtschaft/eu-und-indien-unterzeichnen-umfassendes-handelsabkommen-a-796cc99f-3a36-4116-9c20-7f8f6a99ae96#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein-a-1d7758b3-107a-4d20-b24d-4af403bf9459#ref=rss)
-### halbfinale
-
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-zieht-ins-halbfinale-ein-a-1d7758b3-107a-4d20-b24d-4af403bf9459#ref=rss)
-### anta
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/puma-chinesischer-sportkonzern-anta-wird-groesster-aktionaer-bei-puma](https://www.spiegel.de/wirtschaft/unternehmen/puma-chinesischer-sportkonzern-anta-wird-groesster-aktionaer-bei-puma-a-7f2c9418-142b-4603-9261-a06108d6c83e#ref=rss)
-### borkum
-
-* [https://www.spiegel.de/panorama/borkum-frachter-nach-brand-manoevrierunfaehig](https://www.spiegel.de/panorama/borkum-frachter-nach-brand-manoevrierunfaehig-a-6be07ac9-83be-47e2-96c6-543feab52816#ref=rss)
-### frachter
-
-* [https://www.spiegel.de/panorama/borkum-frachter-nach-brand-manoevrierunfaehig](https://www.spiegel.de/panorama/borkum-frachter-nach-brand-manoevrierunfaehig-a-6be07ac9-83be-47e2-96c6-543feab52816#ref=rss)
-### leon
-
-* [https://www.spiegel.de/geschichte/holocaust-ueberlebender-leon-weintraub-man-darf-nie-zulassen-dass-die-afd-die-macht-ergreift](https://www.spiegel.de/geschichte/holocaust-ueberlebender-leon-weintraub-man-darf-nie-zulassen-dass-die-afd-die-macht-ergreift-a-82dda7ab-e5bc-4fcd-86fc-8fcd73fc6fec#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-deutsche-firmen-ziehen-geld-aus-den-usa-ab-und-investieren-massiv-in-china](https://www.spiegel.de/wirtschaft/unternehmen/china-deutsche-firmen-ziehen-geld-aus-den-usa-ab-und-investieren-massiv-in-china-a-84cb70e7-07df-4a5d-bb5f-c2bf46d0413d#ref=rss)
 
