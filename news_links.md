@@ -4,335 +4,392 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/wirtschaft/service/donald-trump-und-zoelle-wie-der-taco-trade-die-maerkte-beeinflusst](https://www.spiegel.de/wirtschaft/service/donald-trump-und-zoelle-wie-der-taco-trade-die-maerkte-beeinflusst-a-46188f7f-f6fb-4e50-af2b-a4f63eaab6a9#ref=rss)
-* [https://www.spiegel.de/politik/afd-regierungsplaene-chaos-a-la-trump-droht-auch-deutschland](https://www.spiegel.de/politik/afd-regierungsplaene-chaos-a-la-trump-droht-auch-deutschland-a-03472e2a-803a-4c0c-ad33-c5fef259d9fe#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-daenischer-verteidigungspolitiker-bedauert-kauf-der-f-35-kampfjets](https://www.spiegel.de/ausland/donald-trump-daenischer-verteidigungspolitiker-bedauert-kauf-der-f-35-kampfjets-a-86312549-4616-41a4-956c-9ee879113b63#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-verklagt-us-steuerbehoerde-auf-zehn-milliarden-dollar-schadensersatz](https://www.spiegel.de/wirtschaft/donald-trump-verklagt-us-steuerbehoerde-auf-zehn-milliarden-dollar-schadensersatz-a-642b3550-bf16-4149-a02e-d59e9559b705#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ice-gewalt-in-minneapolis-der-verlogene-aufschrei-der-techbosse](https://www.spiegel.de/wirtschaft/unternehmen/ice-gewalt-in-minneapolis-der-verlogene-aufschrei-der-techbosse-a-18260f5d-c6bc-4d10-8b79-e00625de353b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/donald-trump-und-die-boersen-hedgefonds-manager-raet-zu-investitionen-in-asien](https://www.spiegel.de/wirtschaft/service/donald-trump-und-die-boersen-hedgefonds-manager-raet-zu-investitionen-in-asien-a-768309fb-35a4-497b-9f57-818f96d5d242#ref=rss)
-* [https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind](https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind-a-17ba73c5-4ca5-4c1a-bcea-b56fb0641ae5#ref=rss)
-### donald
-
-* [https://www.spiegel.de/wirtschaft/service/donald-trump-und-zoelle-wie-der-taco-trade-die-maerkte-beeinflusst](https://www.spiegel.de/wirtschaft/service/donald-trump-und-zoelle-wie-der-taco-trade-die-maerkte-beeinflusst-a-46188f7f-f6fb-4e50-af2b-a4f63eaab6a9#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-daenischer-verteidigungspolitiker-bedauert-kauf-der-f-35-kampfjets](https://www.spiegel.de/ausland/donald-trump-daenischer-verteidigungspolitiker-bedauert-kauf-der-f-35-kampfjets-a-86312549-4616-41a4-956c-9ee879113b63#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-verklagt-us-steuerbehoerde-auf-zehn-milliarden-dollar-schadensersatz](https://www.spiegel.de/wirtschaft/donald-trump-verklagt-us-steuerbehoerde-auf-zehn-milliarden-dollar-schadensersatz-a-642b3550-bf16-4149-a02e-d59e9559b705#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ice-gewalt-in-minneapolis-der-verlogene-aufschrei-der-techbosse](https://www.spiegel.de/wirtschaft/unternehmen/ice-gewalt-in-minneapolis-der-verlogene-aufschrei-der-techbosse-a-18260f5d-c6bc-4d10-8b79-e00625de353b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/donald-trump-und-die-boersen-hedgefonds-manager-raet-zu-investitionen-in-asien](https://www.spiegel.de/wirtschaft/service/donald-trump-und-die-boersen-hedgefonds-manager-raet-zu-investitionen-in-asien-a-768309fb-35a4-497b-9f57-818f96d5d242#ref=rss)
-* [https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind](https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind-a-17ba73c5-4ca5-4c1a-bcea-b56fb0641ae5#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/bildung/bildung-oesterreich-plant-mehr-ki-und-weniger-latein-im-unterricht](https://www.spiegel.de/panorama/bildung/bildung-oesterreich-plant-mehr-ki-und-weniger-latein-im-unterricht-a-1d9c489b-1204-4c35-b669-958a980b94b2#ref=rss)
-* [https://www.spiegel.de/auto/lastenraeder-verband-will-sie-von-schmalen-wegen-verbannen](https://www.spiegel.de/auto/lastenraeder-verband-will-sie-von-schmalen-wegen-verbannen-a-84b2cadc-25f7-4e3e-9ffd-8bd9b1681b5f#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sachsen-warum-kultusminister-conrad-clemens-lehrer-nicht-mehr-verbeamten-will](https://www.spiegel.de/panorama/bildung/sachsen-warum-kultusminister-conrad-clemens-lehrer-nicht-mehr-verbeamten-will-a-949cb8c2-3714-4891-b753-8dc832581365#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden-a-a1896c1d-2a90-4def-a431-45d306a366c2#ref=rss)
-* [https://www.spiegel.de/ausland/iran-friedrich-merz-begruesst-terror-einstufung-der-revolutionswaechter-durch-die-eu](https://www.spiegel.de/ausland/iran-friedrich-merz-begruesst-terror-einstufung-der-revolutionswaechter-durch-die-eu-a-bda7f955-7ab9-499d-a0f4-088323ca79df#ref=rss)
-### merz
-
-* [https://www.spiegel.de/ausland/iran-friedrich-merz-begruesst-terror-einstufung-der-revolutionswaechter-durch-die-eu](https://www.spiegel.de/ausland/iran-friedrich-merz-begruesst-terror-einstufung-der-revolutionswaechter-durch-die-eu-a-bda7f955-7ab9-499d-a0f4-088323ca79df#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-internet-ausfaelle-in-flugzeugen-behindern-den-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-internet-ausfaelle-in-flugzeugen-behindern-den-kanzler-a-c650c3d5-6884-4162-8729-3d538cd39b0a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbandsumfrage-mittelstaendler-enttaeuscht-von-bundesregierung](https://www.spiegel.de/wirtschaft/verbandsumfrage-mittelstaendler-enttaeuscht-von-bundesregierung-a-a9f1ce28-6d56-49d4-a2f2-b2315d63efa7#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren](https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren-a-a344e95b-f770-46ca-8055-cd04e29c3d9d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden-a-a1896c1d-2a90-4def-a431-45d306a366c2#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren](https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren-a-a344e95b-f770-46ca-8055-cd04e29c3d9d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden-a-a1896c1d-2a90-4def-a431-45d306a366c2#ref=rss)
-### carlos
-
-* [https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren](https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren-a-a344e95b-f770-46ca-8055-cd04e29c3d9d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden-a-a1896c1d-2a90-4def-a431-45d306a366c2#ref=rss)
-### alcaraz
-
-* [https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren](https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren-a-a344e95b-f770-46ca-8055-cd04e29c3d9d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden-a-a1896c1d-2a90-4def-a431-45d306a366c2#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/afd-regierungsplaene-chaos-a-la-trump-droht-auch-deutschland](https://www.spiegel.de/politik/afd-regierungsplaene-chaos-a-la-trump-droht-auch-deutschland-a-03472e2a-803a-4c0c-ad33-c5fef259d9fe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/danone-ruft-babynahrung-in-deutschland-zurueck](https://www.spiegel.de/wirtschaft/danone-ruft-babynahrung-in-deutschland-zurueck-a-fa2d938f-f560-47ec-bc7d-bf5ab71d2303#ref=rss)
-* [https://www.spiegel.de/ausland/iran-friedrich-merz-begruesst-terror-einstufung-der-revolutionswaechter-durch-die-eu](https://www.spiegel.de/ausland/iran-friedrich-merz-begruesst-terror-einstufung-der-revolutionswaechter-durch-die-eu-a-bda7f955-7ab9-499d-a0f4-088323ca79df#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-vorsicht-geboten-glatteis-sorgt-fuer-rutschige-strassen-und-wege](https://www.spiegel.de/panorama/wetter-in-deutschland-vorsicht-geboten-glatteis-sorgt-fuer-rutschige-strassen-und-wege-a-287b3b6b-b906-4399-98f0-ab186fe3bcaf#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/donald-trump-daenischer-verteidigungspolitiker-bedauert-kauf-der-f-35-kampfjets](https://www.spiegel.de/ausland/donald-trump-daenischer-verteidigungspolitiker-bedauert-kauf-der-f-35-kampfjets-a-86312549-4616-41a4-956c-9ee879113b63#ref=rss)
-* [https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind](https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind-a-17ba73c5-4ca5-4c1a-bcea-b56fb0641ae5#ref=rss)
-* [https://www.spiegel.de/ausland/usa-demokraten-und-republikaner-verhindern-shutdown](https://www.spiegel.de/ausland/usa-demokraten-und-republikaner-verhindern-shutdown-a-55ab78f4-cfdb-4f01-a483-1cfdf9190db9#ref=rss)
-### minneapolis
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ice-gewalt-in-minneapolis-der-verlogene-aufschrei-der-techbosse](https://www.spiegel.de/wirtschaft/unternehmen/ice-gewalt-in-minneapolis-der-verlogene-aufschrei-der-techbosse-a-18260f5d-c6bc-4d10-8b79-e00625de353b#ref=rss)
-* [https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind](https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind-a-17ba73c5-4ca5-4c1a-bcea-b56fb0641ae5#ref=rss)
-* [https://www.spiegel.de/ausland/usa-demokraten-und-republikaner-verhindern-shutdown](https://www.spiegel.de/ausland/usa-demokraten-und-republikaner-verhindern-shutdown-a-55ab78f4-cfdb-4f01-a483-1cfdf9190db9#ref=rss)
-### australian
-
-* [https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren](https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren-a-a344e95b-f770-46ca-8055-cd04e29c3d9d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden-a-a1896c1d-2a90-4def-a431-45d306a366c2#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren](https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren-a-a344e95b-f770-46ca-8055-cd04e29c3d9d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden-a-a1896c1d-2a90-4def-a431-45d306a366c2#ref=rss)
-### ki
-
-* [https://www.spiegel.de/panorama/bildung/bildung-oesterreich-plant-mehr-ki-und-weniger-latein-im-unterricht](https://www.spiegel.de/panorama/bildung/bildung-oesterreich-plant-mehr-ki-und-weniger-latein-im-unterricht-a-1d9c489b-1204-4c35-b669-958a980b94b2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-wir-koennen-uns-ki-aehnlich-nah-fuehlen-wie-anderen-menschen](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-wir-koennen-uns-ki-aehnlich-nah-fuehlen-wie-anderen-menschen-a-62b69314-c6c8-485b-937f-315c57e7445c#ref=rss)
-### künstliche
-
-* [https://www.spiegel.de/panorama/bildung/bildung-oesterreich-plant-mehr-ki-und-weniger-latein-im-unterricht](https://www.spiegel.de/panorama/bildung/bildung-oesterreich-plant-mehr-ki-und-weniger-latein-im-unterricht-a-1d9c489b-1204-4c35-b669-958a980b94b2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-wir-koennen-uns-ki-aehnlich-nah-fuehlen-wie-anderen-menschen](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-wir-koennen-uns-ki-aehnlich-nah-fuehlen-wie-anderen-menschen-a-62b69314-c6c8-485b-937f-315c57e7445c#ref=rss)
-### intelligenz
-
-* [https://www.spiegel.de/panorama/bildung/bildung-oesterreich-plant-mehr-ki-und-weniger-latein-im-unterricht](https://www.spiegel.de/panorama/bildung/bildung-oesterreich-plant-mehr-ki-und-weniger-latein-im-unterricht-a-1d9c489b-1204-4c35-b669-958a980b94b2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-wir-koennen-uns-ki-aehnlich-nah-fuehlen-wie-anderen-menschen](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-wir-koennen-uns-ki-aehnlich-nah-fuehlen-wie-anderen-menschen-a-62b69314-c6c8-485b-937f-315c57e7445c#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-verabschiedet-sich-von-seinen-verstorbenen-freunden](https://www.spiegel.de/sport/boxen/anthony-joshua-verabschiedet-sich-von-seinen-verstorbenen-freunden-a-9f2d25c3-79ef-44d2-b917-56b24df7f48f#ref=rss)
-* [https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-warum-es-gut-ist-sich-selbst-zu-bemitleiden](https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-warum-es-gut-ist-sich-selbst-zu-bemitleiden-a-0dcb836c-1b9b-4530-848e-7d625a5cc884#ref=rss)
-### ruft
-
-* [https://www.spiegel.de/ausland/donald-trump-daenischer-verteidigungspolitiker-bedauert-kauf-der-f-35-kampfjets](https://www.spiegel.de/ausland/donald-trump-daenischer-verteidigungspolitiker-bedauert-kauf-der-f-35-kampfjets-a-86312549-4616-41a4-956c-9ee879113b63#ref=rss)
-* [https://www.spiegel.de/wirtschaft/danone-ruft-babynahrung-in-deutschland-zurueck](https://www.spiegel.de/wirtschaft/danone-ruft-babynahrung-in-deutschland-zurueck-a-fa2d938f-f560-47ec-bc7d-bf5ab71d2303#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nahverkehr-ver-di-ruft-zum-bundesweiten-warnstreik-auf](https://www.spiegel.de/wirtschaft/nahverkehr-ver-di-ruft-zum-bundesweiten-warnstreik-auf-a-d8fbd649-cb8f-487d-8489-71ad41c797b3#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/politik/deutschland/verfahren-gegen-jacques-tilly-staatsministerin-serap-gueler-kritisiert-moskauer-prozess-gegen-kuenstler](https://www.spiegel.de/politik/deutschland/verfahren-gegen-jacques-tilly-staatsministerin-serap-gueler-kritisiert-moskauer-prozess-gegen-kuenstler-a-90150644-4738-410c-81e3-f93c26266216#ref=rss)
-* [https://www.spiegel.de/wirtschaft/panamakanal-gericht-kippt-hafenvertraege-des-chinesischen-konzerns-ck-hutchison](https://www.spiegel.de/wirtschaft/panamakanal-gericht-kippt-hafenvertraege-des-chinesischen-konzerns-ck-hutchison-a-d72a9d8f-b749-438b-8ef4-57c6198a4e48#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/ausland/iran-friedrich-merz-begruesst-terror-einstufung-der-revolutionswaechter-durch-die-eu](https://www.spiegel.de/ausland/iran-friedrich-merz-begruesst-terror-einstufung-der-revolutionswaechter-durch-die-eu-a-bda7f955-7ab9-499d-a0f4-088323ca79df#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-internet-ausfaelle-in-flugzeugen-behindern-den-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-internet-ausfaelle-in-flugzeugen-behindern-den-kanzler-a-c650c3d5-6884-4162-8729-3d538cd39b0a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbandsumfrage-mittelstaendler-enttaeuscht-von-bundesregierung](https://www.spiegel.de/wirtschaft/verbandsumfrage-mittelstaendler-enttaeuscht-von-bundesregierung-a-a9f1ce28-6d56-49d4-a2f2-b2315d63efa7#ref=rss)
-### verloren
-
-* [https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren](https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren-a-a344e95b-f770-46ca-8055-cd04e29c3d9d#ref=rss)
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-verabschiedet-sich-von-seinen-verstorbenen-freunden](https://www.spiegel.de/sport/boxen/anthony-joshua-verabschiedet-sich-von-seinen-verstorbenen-freunden-a-9f2d25c3-79ef-44d2-b917-56b24df7f48f#ref=rss)
-### verpasst
-
-* [https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren](https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren-a-a344e95b-f770-46ca-8055-cd04e29c3d9d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden-a-a1896c1d-2a90-4def-a431-45d306a366c2#ref=rss)
-### finale
-
-* [https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren](https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren-a-a344e95b-f770-46ca-8055-cd04e29c3d9d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden-a-a1896c1d-2a90-4def-a431-45d306a366c2#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren](https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren-a-a344e95b-f770-46ca-8055-cd04e29c3d9d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/brand-auf-mallorca-staatsanwaltschaft-erhebt-anklage-gegen-kegelbrueder-aus-nordrhein-westfalen](https://www.spiegel.de/panorama/justiz/brand-auf-mallorca-staatsanwaltschaft-erhebt-anklage-gegen-kegelbrueder-aus-nordrhein-westfalen-a-702d9953-09dc-43b0-8620-7a2f1972fc85#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren](https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren-a-a344e95b-f770-46ca-8055-cd04e29c3d9d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-wir-koennen-uns-ki-aehnlich-nah-fuehlen-wie-anderen-menschen](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-wir-koennen-uns-ki-aehnlich-nah-fuehlen-wie-anderen-menschen-a-62b69314-c6c8-485b-937f-315c57e7445c#ref=rss)
-### seite
-
-* [https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren](https://www.spiegel.de/sport/tennis/australian-open-so-hat-alexander-zverev-das-halbfinale-gegen-carlos-alcaraz-verloren-a-a344e95b-f770-46ca-8055-cd04e29c3d9d#ref=rss)
-* [https://www.spiegel.de/ausland/iran-friedrich-merz-begruesst-terror-einstufung-der-revolutionswaechter-durch-die-eu](https://www.spiegel.de/ausland/iran-friedrich-merz-begruesst-terror-einstufung-der-revolutionswaechter-durch-die-eu-a-bda7f955-7ab9-499d-a0f4-088323ca79df#ref=rss)
-### haushalt
-
-* [https://www.spiegel.de/ausland/frankreich-haushalt-sebastien-lecornu-vor-neuem-misstrauensvotum](https://www.spiegel.de/ausland/frankreich-haushalt-sebastien-lecornu-vor-neuem-misstrauensvotum-a-5c4534cf-fb35-4050-995b-38a9adf04af8#ref=rss)
-### sébastien
-
-* [https://www.spiegel.de/ausland/frankreich-haushalt-sebastien-lecornu-vor-neuem-misstrauensvotum](https://www.spiegel.de/ausland/frankreich-haushalt-sebastien-lecornu-vor-neuem-misstrauensvotum-a-5c4534cf-fb35-4050-995b-38a9adf04af8#ref=rss)
-### lecornu
-
-* [https://www.spiegel.de/ausland/frankreich-haushalt-sebastien-lecornu-vor-neuem-misstrauensvotum](https://www.spiegel.de/ausland/frankreich-haushalt-sebastien-lecornu-vor-neuem-misstrauensvotum-a-5c4534cf-fb35-4050-995b-38a9adf04af8#ref=rss)
-### misstrauensvotum
-
-* [https://www.spiegel.de/ausland/frankreich-haushalt-sebastien-lecornu-vor-neuem-misstrauensvotum](https://www.spiegel.de/ausland/frankreich-haushalt-sebastien-lecornu-vor-neuem-misstrauensvotum-a-5c4534cf-fb35-4050-995b-38a9adf04af8#ref=rss)
-### verabschiedet
-
-* [https://www.spiegel.de/ausland/frankreich-haushalt-sebastien-lecornu-vor-neuem-misstrauensvotum](https://www.spiegel.de/ausland/frankreich-haushalt-sebastien-lecornu-vor-neuem-misstrauensvotum-a-5c4534cf-fb35-4050-995b-38a9adf04af8#ref=rss)
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-verabschiedet-sich-von-seinen-verstorbenen-freunden](https://www.spiegel.de/sport/boxen/anthony-joshua-verabschiedet-sich-von-seinen-verstorbenen-freunden-a-9f2d25c3-79ef-44d2-b917-56b24df7f48f#ref=rss)
-### droht
-
-* [https://www.spiegel.de/wirtschaft/service/donald-trump-und-zoelle-wie-der-taco-trade-die-maerkte-beeinflusst](https://www.spiegel.de/wirtschaft/service/donald-trump-und-zoelle-wie-der-taco-trade-die-maerkte-beeinflusst-a-46188f7f-f6fb-4e50-af2b-a4f63eaab6a9#ref=rss)
-* [https://www.spiegel.de/politik/afd-regierungsplaene-chaos-a-la-trump-droht-auch-deutschland](https://www.spiegel.de/politik/afd-regierungsplaene-chaos-a-la-trump-droht-auch-deutschland-a-03472e2a-803a-4c0c-ad33-c5fef259d9fe#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wirtschaft/service/donald-trump-und-zoelle-wie-der-taco-trade-die-maerkte-beeinflusst](https://www.spiegel.de/wirtschaft/service/donald-trump-und-zoelle-wie-der-taco-trade-die-maerkte-beeinflusst-a-46188f7f-f6fb-4e50-af2b-a4f63eaab6a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/danone-ruft-babynahrung-in-deutschland-zurueck](https://www.spiegel.de/wirtschaft/danone-ruft-babynahrung-in-deutschland-zurueck-a-fa2d938f-f560-47ec-bc7d-bf5ab71d2303#ref=rss)
-### strategie
-
-* [https://www.spiegel.de/wirtschaft/service/donald-trump-und-zoelle-wie-der-taco-trade-die-maerkte-beeinflusst](https://www.spiegel.de/wirtschaft/service/donald-trump-und-zoelle-wie-der-taco-trade-die-maerkte-beeinflusst-a-46188f7f-f6fb-4e50-af2b-a4f63eaab6a9#ref=rss)
-* [https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-warum-es-gut-ist-sich-selbst-zu-bemitleiden](https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-warum-es-gut-ist-sich-selbst-zu-bemitleiden-a-0dcb836c-1b9b-4530-848e-7d625a5cc884#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/panorama/bildung/bildung-oesterreich-plant-mehr-ki-und-weniger-latein-im-unterricht](https://www.spiegel.de/panorama/bildung/bildung-oesterreich-plant-mehr-ki-und-weniger-latein-im-unterricht-a-1d9c489b-1204-4c35-b669-958a980b94b2#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/panorama/bildung/bildung-oesterreich-plant-mehr-ki-und-weniger-latein-im-unterricht](https://www.spiegel.de/panorama/bildung/bildung-oesterreich-plant-mehr-ki-und-weniger-latein-im-unterricht-a-1d9c489b-1204-4c35-b669-958a980b94b2#ref=rss)
-* [https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind](https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind-a-17ba73c5-4ca5-4c1a-bcea-b56fb0641ae5#ref=rss)
-### anthony
-
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-verabschiedet-sich-von-seinen-verstorbenen-freunden](https://www.spiegel.de/sport/boxen/anthony-joshua-verabschiedet-sich-von-seinen-verstorbenen-freunden-a-9f2d25c3-79ef-44d2-b917-56b24df7f48f#ref=rss)
-### joshua
-
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-verabschiedet-sich-von-seinen-verstorbenen-freunden](https://www.spiegel.de/sport/boxen/anthony-joshua-verabschiedet-sich-von-seinen-verstorbenen-freunden-a-9f2d25c3-79ef-44d2-b917-56b24df7f48f#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/boxen/anthony-joshua-verabschiedet-sich-von-seinen-verstorbenen-freunden](https://www.spiegel.de/sport/boxen/anthony-joshua-verabschiedet-sich-von-seinen-verstorbenen-freunden-a-9f2d25c3-79ef-44d2-b917-56b24df7f48f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/panamakanal-gericht-kippt-hafenvertraege-des-chinesischen-konzerns-ck-hutchison](https://www.spiegel.de/wirtschaft/panamakanal-gericht-kippt-hafenvertraege-des-chinesischen-konzerns-ck-hutchison-a-d72a9d8f-b749-438b-8ef4-57c6198a4e48#ref=rss)
-### fußgänger
-
-* [https://www.spiegel.de/auto/lastenraeder-verband-will-sie-von-schmalen-wegen-verbannen](https://www.spiegel.de/auto/lastenraeder-verband-will-sie-von-schmalen-wegen-verbannen-a-84b2cadc-25f7-4e3e-9ffd-8bd9b1681b5f#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-vorsicht-geboten-glatteis-sorgt-fuer-rutschige-strassen-und-wege](https://www.spiegel.de/panorama/wetter-in-deutschland-vorsicht-geboten-glatteis-sorgt-fuer-rutschige-strassen-und-wege-a-287b3b6b-b906-4399-98f0-ab186fe3bcaf#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/auto/lastenraeder-verband-will-sie-von-schmalen-wegen-verbannen](https://www.spiegel.de/auto/lastenraeder-verband-will-sie-von-schmalen-wegen-verbannen-a-84b2cadc-25f7-4e3e-9ffd-8bd9b1681b5f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/brand-auf-mallorca-staatsanwaltschaft-erhebt-anklage-gegen-kegelbrueder-aus-nordrhein-westfalen](https://www.spiegel.de/panorama/justiz/brand-auf-mallorca-staatsanwaltschaft-erhebt-anklage-gegen-kegelbrueder-aus-nordrhein-westfalen-a-702d9953-09dc-43b0-8620-7a2f1972fc85#ref=rss)
-### andere
-
-* [https://www.spiegel.de/auto/lastenraeder-verband-will-sie-von-schmalen-wegen-verbannen](https://www.spiegel.de/auto/lastenraeder-verband-will-sie-von-schmalen-wegen-verbannen-a-84b2cadc-25f7-4e3e-9ffd-8bd9b1681b5f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-wir-koennen-uns-ki-aehnlich-nah-fuehlen-wie-anderen-menschen](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-wir-koennen-uns-ki-aehnlich-nah-fuehlen-wie-anderen-menschen-a-62b69314-c6c8-485b-937f-315c57e7445c#ref=rss)
-### bridgerton
-
-* [https://www.spiegel.de/kultur/bridgerton-neue-staffel-bei-netflix-maerchen-inklusive](https://www.spiegel.de/kultur/bridgerton-neue-staffel-bei-netflix-maerchen-inklusive-a-97a17bb2-fa23-4214-a936-208081c1c30d#ref=rss)
-### staffel
-
-* [https://www.spiegel.de/kultur/bridgerton-neue-staffel-bei-netflix-maerchen-inklusive](https://www.spiegel.de/kultur/bridgerton-neue-staffel-bei-netflix-maerchen-inklusive-a-97a17bb2-fa23-4214-a936-208081c1c30d#ref=rss)
-### uns
-
-* [https://www.spiegel.de/politik/afd-regierungsplaene-chaos-a-la-trump-droht-auch-deutschland](https://www.spiegel.de/politik/afd-regierungsplaene-chaos-a-la-trump-droht-auch-deutschland-a-03472e2a-803a-4c0c-ad33-c5fef259d9fe#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-wir-koennen-uns-ki-aehnlich-nah-fuehlen-wie-anderen-menschen](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-wir-koennen-uns-ki-aehnlich-nah-fuehlen-wie-anderen-menschen-a-62b69314-c6c8-485b-937f-315c57e7445c#ref=rss)
-### conrad
-
-* [https://www.spiegel.de/panorama/bildung/sachsen-warum-kultusminister-conrad-clemens-lehrer-nicht-mehr-verbeamten-will](https://www.spiegel.de/panorama/bildung/sachsen-warum-kultusminister-conrad-clemens-lehrer-nicht-mehr-verbeamten-will-a-949cb8c2-3714-4891-b753-8dc832581365#ref=rss)
-### clemens
-
-* [https://www.spiegel.de/panorama/bildung/sachsen-warum-kultusminister-conrad-clemens-lehrer-nicht-mehr-verbeamten-will](https://www.spiegel.de/panorama/bildung/sachsen-warum-kultusminister-conrad-clemens-lehrer-nicht-mehr-verbeamten-will-a-949cb8c2-3714-4891-b753-8dc832581365#ref=rss)
-### lehrer
-
-* [https://www.spiegel.de/panorama/bildung/sachsen-warum-kultusminister-conrad-clemens-lehrer-nicht-mehr-verbeamten-will](https://www.spiegel.de/panorama/bildung/sachsen-warum-kultusminister-conrad-clemens-lehrer-nicht-mehr-verbeamten-will-a-949cb8c2-3714-4891-b753-8dc832581365#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/panorama/bildung/sachsen-warum-kultusminister-conrad-clemens-lehrer-nicht-mehr-verbeamten-will](https://www.spiegel.de/panorama/bildung/sachsen-warum-kultusminister-conrad-clemens-lehrer-nicht-mehr-verbeamten-will-a-949cb8c2-3714-4891-b753-8dc832581365#ref=rss)
-* [https://www.spiegel.de/wirtschaft/panamakanal-gericht-kippt-hafenvertraege-des-chinesischen-konzerns-ck-hutchison](https://www.spiegel.de/wirtschaft/panamakanal-gericht-kippt-hafenvertraege-des-chinesischen-konzerns-ck-hutchison-a-d72a9d8f-b749-438b-8ef4-57c6198a4e48#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/panorama/bildung/sachsen-warum-kultusminister-conrad-clemens-lehrer-nicht-mehr-verbeamten-will](https://www.spiegel.de/panorama/bildung/sachsen-warum-kultusminister-conrad-clemens-lehrer-nicht-mehr-verbeamten-will-a-949cb8c2-3714-4891-b753-8dc832581365#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-wir-koennen-uns-ki-aehnlich-nah-fuehlen-wie-anderen-menschen](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-wir-koennen-uns-ki-aehnlich-nah-fuehlen-wie-anderen-menschen-a-62b69314-c6c8-485b-937f-315c57e7445c#ref=rss)
-### flugzeugen
-
-* [https://www.spiegel.de/ausland/donald-trump-daenischer-verteidigungspolitiker-bedauert-kauf-der-f-35-kampfjets](https://www.spiegel.de/ausland/donald-trump-daenischer-verteidigungspolitiker-bedauert-kauf-der-f-35-kampfjets-a-86312549-4616-41a4-956c-9ee879113b63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-internet-ausfaelle-in-flugzeugen-behindern-den-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-internet-ausfaelle-in-flugzeugen-behindern-den-kanzler-a-c650c3d5-6884-4162-8729-3d538cd39b0a#ref=rss)
-### brand
-
-* [https://www.spiegel.de/panorama/justiz/brand-auf-mallorca-staatsanwaltschaft-erhebt-anklage-gegen-kegelbrueder-aus-nordrhein-westfalen](https://www.spiegel.de/panorama/justiz/brand-auf-mallorca-staatsanwaltschaft-erhebt-anklage-gegen-kegelbrueder-aus-nordrhein-westfalen-a-702d9953-09dc-43b0-8620-7a2f1972fc85#ref=rss)
-### mallorca
-
-* [https://www.spiegel.de/panorama/justiz/brand-auf-mallorca-staatsanwaltschaft-erhebt-anklage-gegen-kegelbrueder-aus-nordrhein-westfalen](https://www.spiegel.de/panorama/justiz/brand-auf-mallorca-staatsanwaltschaft-erhebt-anklage-gegen-kegelbrueder-aus-nordrhein-westfalen-a-702d9953-09dc-43b0-8620-7a2f1972fc85#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/panorama/justiz/brand-auf-mallorca-staatsanwaltschaft-erhebt-anklage-gegen-kegelbrueder-aus-nordrhein-westfalen](https://www.spiegel.de/panorama/justiz/brand-auf-mallorca-staatsanwaltschaft-erhebt-anklage-gegen-kegelbrueder-aus-nordrhein-westfalen-a-702d9953-09dc-43b0-8620-7a2f1972fc85#ref=rss)
-### anklage
-
-* [https://www.spiegel.de/panorama/justiz/brand-auf-mallorca-staatsanwaltschaft-erhebt-anklage-gegen-kegelbrueder-aus-nordrhein-westfalen](https://www.spiegel.de/panorama/justiz/brand-auf-mallorca-staatsanwaltschaft-erhebt-anklage-gegen-kegelbrueder-aus-nordrhein-westfalen-a-702d9953-09dc-43b0-8620-7a2f1972fc85#ref=rss)
-### lange
-
-* [https://www.spiegel.de/panorama/justiz/brand-auf-mallorca-staatsanwaltschaft-erhebt-anklage-gegen-kegelbrueder-aus-nordrhein-westfalen](https://www.spiegel.de/panorama/justiz/brand-auf-mallorca-staatsanwaltschaft-erhebt-anklage-gegen-kegelbrueder-aus-nordrhein-westfalen-a-702d9953-09dc-43b0-8620-7a2f1972fc85#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tabaksteuer-schwarz-rote-koalition-will-rauchen-teurer-machen](https://www.spiegel.de/wirtschaft/tabaksteuer-schwarz-rote-koalition-will-rauchen-teurer-machen-a-7dee6104-5d80-4991-a769-9d3560fd8560#ref=rss)
-### jacques
-
-* [https://www.spiegel.de/politik/deutschland/verfahren-gegen-jacques-tilly-staatsministerin-serap-gueler-kritisiert-moskauer-prozess-gegen-kuenstler](https://www.spiegel.de/politik/deutschland/verfahren-gegen-jacques-tilly-staatsministerin-serap-gueler-kritisiert-moskauer-prozess-gegen-kuenstler-a-90150644-4738-410c-81e3-f93c26266216#ref=rss)
-### tilly
-
-* [https://www.spiegel.de/politik/deutschland/verfahren-gegen-jacques-tilly-staatsministerin-serap-gueler-kritisiert-moskauer-prozess-gegen-kuenstler](https://www.spiegel.de/politik/deutschland/verfahren-gegen-jacques-tilly-staatsministerin-serap-gueler-kritisiert-moskauer-prozess-gegen-kuenstler-a-90150644-4738-410c-81e3-f93c26266216#ref=rss)
-### staatsministerin
-
-* [https://www.spiegel.de/politik/deutschland/verfahren-gegen-jacques-tilly-staatsministerin-serap-gueler-kritisiert-moskauer-prozess-gegen-kuenstler](https://www.spiegel.de/politik/deutschland/verfahren-gegen-jacques-tilly-staatsministerin-serap-gueler-kritisiert-moskauer-prozess-gegen-kuenstler-a-90150644-4738-410c-81e3-f93c26266216#ref=rss)
-### serap
-
-* [https://www.spiegel.de/politik/deutschland/verfahren-gegen-jacques-tilly-staatsministerin-serap-gueler-kritisiert-moskauer-prozess-gegen-kuenstler](https://www.spiegel.de/politik/deutschland/verfahren-gegen-jacques-tilly-staatsministerin-serap-gueler-kritisiert-moskauer-prozess-gegen-kuenstler-a-90150644-4738-410c-81e3-f93c26266216#ref=rss)
-### güler
-
-* [https://www.spiegel.de/politik/deutschland/verfahren-gegen-jacques-tilly-staatsministerin-serap-gueler-kritisiert-moskauer-prozess-gegen-kuenstler](https://www.spiegel.de/politik/deutschland/verfahren-gegen-jacques-tilly-staatsministerin-serap-gueler-kritisiert-moskauer-prozess-gegen-kuenstler-a-90150644-4738-410c-81e3-f93c26266216#ref=rss)
-### moskauer
-
-* [https://www.spiegel.de/politik/deutschland/verfahren-gegen-jacques-tilly-staatsministerin-serap-gueler-kritisiert-moskauer-prozess-gegen-kuenstler](https://www.spiegel.de/politik/deutschland/verfahren-gegen-jacques-tilly-staatsministerin-serap-gueler-kritisiert-moskauer-prozess-gegen-kuenstler-a-90150644-4738-410c-81e3-f93c26266216#ref=rss)
-### warten
-
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden-a-a1896c1d-2a90-4def-a431-45d306a366c2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbandsumfrage-mittelstaendler-enttaeuscht-von-bundesregierung](https://www.spiegel.de/wirtschaft/verbandsumfrage-mittelstaendler-enttaeuscht-von-bundesregierung-a-a9f1ce28-6d56-49d4-a2f2-b2315d63efa7#ref=rss)
-### schmerzen
-
-* [https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden](https://www.spiegel.de/sport/tennis/australian-open-alexander-zverev-verpasst-finale-gegen-carlos-alcaraz-nach-ueber-fuenf-stunden-a-a1896c1d-2a90-4def-a431-45d306a366c2#ref=rss)
-* [https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-warum-es-gut-ist-sich-selbst-zu-bemitleiden](https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-warum-es-gut-ist-sich-selbst-zu-bemitleiden-a-0dcb836c-1b9b-4530-848e-7d625a5cc884#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-verklagt-us-steuerbehoerde-auf-zehn-milliarden-dollar-schadensersatz](https://www.spiegel.de/wirtschaft/donald-trump-verklagt-us-steuerbehoerde-auf-zehn-milliarden-dollar-schadensersatz-a-642b3550-bf16-4149-a02e-d59e9559b705#ref=rss)
-* [https://www.spiegel.de/wirtschaft/openai-amazon-will-mit-bis-zu-50-milliarden-dollar-bei-chatgpt-einsteigen](https://www.spiegel.de/wirtschaft/openai-amazon-will-mit-bis-zu-50-milliarden-dollar-bei-chatgpt-einsteigen-a-15763fe9-8cbf-4140-ab24-c809a8cbfe74#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-verklagt-us-steuerbehoerde-auf-zehn-milliarden-dollar-schadensersatz](https://www.spiegel.de/wirtschaft/donald-trump-verklagt-us-steuerbehoerde-auf-zehn-milliarden-dollar-schadensersatz-a-642b3550-bf16-4149-a02e-d59e9559b705#ref=rss)
-* [https://www.spiegel.de/wirtschaft/openai-amazon-will-mit-bis-zu-50-milliarden-dollar-bei-chatgpt-einsteigen](https://www.spiegel.de/wirtschaft/openai-amazon-will-mit-bis-zu-50-milliarden-dollar-bei-chatgpt-einsteigen-a-15763fe9-8cbf-4140-ab24-c809a8cbfe74#ref=rss)
-### seines
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-verklagt-us-steuerbehoerde-auf-zehn-milliarden-dollar-schadensersatz](https://www.spiegel.de/wirtschaft/donald-trump-verklagt-us-steuerbehoerde-auf-zehn-milliarden-dollar-schadensersatz-a-642b3550-bf16-4149-a02e-d59e9559b705#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ice-gewalt-in-minneapolis-der-verlogene-aufschrei-der-techbosse](https://www.spiegel.de/wirtschaft/unternehmen/ice-gewalt-in-minneapolis-der-verlogene-aufschrei-der-techbosse-a-18260f5d-c6bc-4d10-8b79-e00625de353b#ref=rss)
-### danone
-
-* [https://www.spiegel.de/wirtschaft/danone-ruft-babynahrung-in-deutschland-zurueck](https://www.spiegel.de/wirtschaft/danone-ruft-babynahrung-in-deutschland-zurueck-a-fa2d938f-f560-47ec-bc7d-bf5ab71d2303#ref=rss)
-### babynahrung
-
-* [https://www.spiegel.de/wirtschaft/danone-ruft-babynahrung-in-deutschland-zurueck](https://www.spiegel.de/wirtschaft/danone-ruft-babynahrung-in-deutschland-zurueck-a-fa2d938f-f560-47ec-bc7d-bf5ab71d2303#ref=rss)
-### revolutionswächter
-
-* [https://www.spiegel.de/ausland/iran-friedrich-merz-begruesst-terror-einstufung-der-revolutionswaechter-durch-die-eu](https://www.spiegel.de/ausland/iran-friedrich-merz-begruesst-terror-einstufung-der-revolutionswaechter-durch-die-eu-a-bda7f955-7ab9-499d-a0f4-088323ca79df#ref=rss)
-### eu
-
-* [https://www.spiegel.de/ausland/iran-friedrich-merz-begruesst-terror-einstufung-der-revolutionswaechter-durch-die-eu](https://www.spiegel.de/ausland/iran-friedrich-merz-begruesst-terror-einstufung-der-revolutionswaechter-durch-die-eu-a-bda7f955-7ab9-499d-a0f4-088323ca79df#ref=rss)
-### nahverkehr
-
-* [https://www.spiegel.de/wirtschaft/nahverkehr-ver-di-ruft-zum-bundesweiten-warnstreik-auf](https://www.spiegel.de/wirtschaft/nahverkehr-ver-di-ruft-zum-bundesweiten-warnstreik-auf-a-d8fbd649-cb8f-487d-8489-71ad41c797b3#ref=rss)
-### tödlichen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ice-gewalt-in-minneapolis-der-verlogene-aufschrei-der-techbosse](https://www.spiegel.de/wirtschaft/unternehmen/ice-gewalt-in-minneapolis-der-verlogene-aufschrei-der-techbosse-a-18260f5d-c6bc-4d10-8b79-e00625de353b#ref=rss)
-* [https://www.spiegel.de/ausland/usa-demokraten-und-republikaner-verhindern-shutdown](https://www.spiegel.de/ausland/usa-demokraten-und-republikaner-verhindern-shutdown-a-55ab78f4-cfdb-4f01-a483-1cfdf9190db9#ref=rss)
-### hedgefondsmanager
-
-* [https://www.spiegel.de/wirtschaft/service/donald-trump-und-die-boersen-hedgefonds-manager-raet-zu-investitionen-in-asien](https://www.spiegel.de/wirtschaft/service/donald-trump-und-die-boersen-hedgefonds-manager-raet-zu-investitionen-in-asien-a-768309fb-35a4-497b-9f57-818f96d5d242#ref=rss)
-### großen
-
-* [https://www.spiegel.de/wirtschaft/service/donald-trump-und-die-boersen-hedgefonds-manager-raet-zu-investitionen-in-asien](https://www.spiegel.de/wirtschaft/service/donald-trump-und-die-boersen-hedgefonds-manager-raet-zu-investitionen-in-asien-a-768309fb-35a4-497b-9f57-818f96d5d242#ref=rss)
-* [https://www.spiegel.de/wirtschaft/panamakanal-gericht-kippt-hafenvertraege-des-chinesischen-konzerns-ck-hutchison](https://www.spiegel.de/wirtschaft/panamakanal-gericht-kippt-hafenvertraege-des-chinesischen-konzerns-ck-hutchison-a-d72a9d8f-b749-438b-8ef4-57c6198a4e48#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wirtschaft/service/donald-trump-und-die-boersen-hedgefonds-manager-raet-zu-investitionen-in-asien](https://www.spiegel.de/wirtschaft/service/donald-trump-und-die-boersen-hedgefonds-manager-raet-zu-investitionen-in-asien-a-768309fb-35a4-497b-9f57-818f96d5d242#ref=rss)
-* [https://www.spiegel.de/wirtschaft/openai-amazon-will-mit-bis-zu-50-milliarden-dollar-bei-chatgpt-einsteigen](https://www.spiegel.de/wirtschaft/openai-amazon-will-mit-bis-zu-50-milliarden-dollar-bei-chatgpt-einsteigen-a-15763fe9-8cbf-4140-ab24-c809a8cbfe74#ref=rss)
-### stephen
-
-* [https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind](https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind-a-17ba73c5-4ca5-4c1a-bcea-b56fb0641ae5#ref=rss)
-### miller
-
-* [https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind](https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind-a-17ba73c5-4ca5-4c1a-bcea-b56fb0641ae5#ref=rss)
+* [https://www.spiegel.de/panorama/kamtschatka-jahrhundert-winter-bringt-meterhohen-schnee](https://www.spiegel.de/panorama/kamtschatka-jahrhundert-winter-bringt-meterhohen-schnee-a-d89161d3-489d-41c3-9a61-25b513425aa3#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-em-deutschland-gegen-kroatien-im-liveticker](https://www.spiegel.de/sport/handball/handball-em-deutschland-gegen-kroatien-im-liveticker-a-7cf7e71a-e709-4425-95b1-043574faa825#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-am-wochenende-im-nordosten-frost-im-suedwesten-ueber-10-grad](https://www.spiegel.de/panorama/wetter-am-wochenende-im-nordosten-frost-im-suedwesten-ueber-10-grad-a-2727e8ca-73d1-4219-bdb2-b4726aa9cbc7#ref=rss)
+* [https://www.spiegel.de/geschichte/erbschaftsteuer-debatte-historiker-ueber-erben-und-reichtum-in-deutschland](https://www.spiegel.de/geschichte/erbschaftsteuer-debatte-historiker-ueber-erben-und-reichtum-in-deutschland-a-0c325df6-6637-4c1b-95ac-a306b9e17597#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-wandsbek-mann-reisst-frau-mit-sich-vor-u-bahn-braucht-es-mehr-sicherheit](https://www.spiegel.de/panorama/justiz/hamburg-wandsbek-mann-reisst-frau-mit-sich-vor-u-bahn-braucht-es-mehr-sicherheit-a-173963e0-1d1f-41f2-adda-2731c3d58f3d#ref=rss)
+* [https://www.spiegel.de/ausland/tod-von-united-healthcare-ceo-luigi-m-droht-bei-verurteilung-nicht-mehr-die-todesstrafe](https://www.spiegel.de/ausland/tod-von-united-healthcare-ceo-luigi-m-droht-bei-verurteilung-nicht-mehr-die-todesstrafe-a-11a11d9a-fe1f-487e-a5a5-10273cb3189f#ref=rss)
+* [https://www.spiegel.de/auto/fahrrad-fahren-betrunken-im-sattel-experten-fordern-strengere-promille-grenze-fuer-fahrradfahrer](https://www.spiegel.de/auto/fahrrad-fahren-betrunken-im-sattel-experten-fordern-strengere-promille-grenze-fuer-fahrradfahrer-a-8f6a32ff-c305-442c-b871-b67532c1a803#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-ringt-jannik-sinner-im-halbfinale-nieder](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-ringt-jannik-sinner-im-halbfinale-nieder-a-017fcf72-6387-4ad0-b160-74360b56ebc4#ref=rss)
+### drei
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten-a-38b079a0-dc96-47ec-a957-4a50f9296a67#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-christian-wueck-verlaengert-vertrag-bis-2029-als-bundestrainer-der-dfb-frauen](https://www.spiegel.de/sport/fussball/fussball-christian-wueck-verlaengert-vertrag-bis-2029-als-bundestrainer-der-dfb-frauen-a-4e136ae1-fb44-44c1-9ac1-47c5e1683434#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich](https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich-a-d72fa8cc-bd81-4bdb-bd5c-a48e32d7d8ec#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-stephen-miller-und-alexander-zverev-unterliegt-carlos-alcaraz](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-stephen-miller-und-alexander-zverev-unterliegt-carlos-alcaraz-a-bbdd68ec-bd62-4fe0-a0d2-3b7a0aa25950#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-aus-berlin-gefahrengebiet-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-aus-berlin-gefahrengebiet-mit-corinna-harfouch-a-798c1e67-3fe3-44e4-96b1-88157014858a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich](https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich-a-d72fa8cc-bd81-4bdb-bd5c-a48e32d7d8ec#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/minnesota-waffenladenbesitzer-ueber-ansturm-wegen-ice-gewalt-ich-hasse-diese-gesetzlosigkeit](https://www.spiegel.de/ausland/minnesota-waffenladenbesitzer-ueber-ansturm-wegen-ice-gewalt-ich-hasse-diese-gesetzlosigkeit-a-580b8615-ae06-43e2-b06e-8abf8d8a2b14#ref=rss)
+* [https://www.spiegel.de/ausland/tod-von-united-healthcare-ceo-luigi-m-droht-bei-verurteilung-nicht-mehr-die-todesstrafe](https://www.spiegel.de/ausland/tod-von-united-healthcare-ceo-luigi-m-droht-bei-verurteilung-nicht-mehr-die-todesstrafe-a-11a11d9a-fe1f-487e-a5a5-10273cb3189f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/entscheidung-im-bundestag-wo-co-in-der-nordsee-eingelagert-werden-koennte](https://www.spiegel.de/wissenschaft/natur/entscheidung-im-bundestag-wo-co-in-der-nordsee-eingelagert-werden-koennte-a-a3451e85-c513-4917-83d6-5690282ff2be#ref=rss)
 ### mann
 
-* [https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind](https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind-a-17ba73c5-4ca5-4c1a-bcea-b56fb0641ae5#ref=rss)
-### hinter
+* [https://www.spiegel.de/panorama/justiz/hamburg-wandsbek-mann-reisst-frau-mit-sich-vor-u-bahn-braucht-es-mehr-sicherheit](https://www.spiegel.de/panorama/justiz/hamburg-wandsbek-mann-reisst-frau-mit-sich-vor-u-bahn-braucht-es-mehr-sicherheit-a-173963e0-1d1f-41f2-adda-2731c3d58f3d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/gustavo-petro-kolumbiens-praesident-vermutet-das-jesus-sex-mit-maria-magdalena-hatte](https://www.spiegel.de/panorama/leute/gustavo-petro-kolumbiens-praesident-vermutet-das-jesus-sex-mit-maria-magdalena-hatte-a-a26d9ead-d429-4a77-88d3-bb8e628617bd#ref=rss)
+### halbfinale
 
-* [https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind](https://www.spiegel.de/ausland/stephen-miller-trumps-teuflisches-mastermind-a-17ba73c5-4ca5-4c1a-bcea-b56fb0641ae5#ref=rss)
-### menschen
+* [https://www.spiegel.de/sport/handball/handball-em-deutschland-gegen-kroatien-im-liveticker](https://www.spiegel.de/sport/handball/handball-em-deutschland-gegen-kroatien-im-liveticker-a-7cf7e71a-e709-4425-95b1-043574faa825#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-ringt-jannik-sinner-im-halbfinale-nieder](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-ringt-jannik-sinner-im-halbfinale-nieder-a-017fcf72-6387-4ad0-b160-74360b56ebc4#ref=rss)
+### wetter
 
-* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-wir-koennen-uns-ki-aehnlich-nah-fuehlen-wie-anderen-menschen](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-wir-koennen-uns-ki-aehnlich-nah-fuehlen-wie-anderen-menschen-a-62b69314-c6c8-485b-937f-315c57e7445c#ref=rss)
-### panamakanal
+* [https://www.spiegel.de/panorama/wetter-am-wochenende-im-nordosten-frost-im-suedwesten-ueber-10-grad](https://www.spiegel.de/panorama/wetter-am-wochenende-im-nordosten-frost-im-suedwesten-ueber-10-grad-a-2727e8ca-73d1-4219-bdb2-b4726aa9cbc7#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-darf-nun-doch-mit-salz-gegen-das-glatteis-auf-gehwegen-vorgehen](https://www.spiegel.de/panorama/berlin-darf-nun-doch-mit-salz-gegen-das-glatteis-auf-gehwegen-vorgehen-a-8ac3ddad-90d4-48fc-8bd9-da38c4d80d9d#ref=rss)
+### m
 
-* [https://www.spiegel.de/wirtschaft/panamakanal-gericht-kippt-hafenvertraege-des-chinesischen-konzerns-ck-hutchison](https://www.spiegel.de/wirtschaft/panamakanal-gericht-kippt-hafenvertraege-des-chinesischen-konzerns-ck-hutchison-a-d72a9d8f-b749-438b-8ef4-57c6198a4e48#ref=rss)
-### chinesischen
+* [https://www.spiegel.de/ausland/tod-von-united-healthcare-ceo-luigi-m-droht-bei-verurteilung-nicht-mehr-die-todesstrafe](https://www.spiegel.de/ausland/tod-von-united-healthcare-ceo-luigi-m-droht-bei-verurteilung-nicht-mehr-die-todesstrafe-a-11a11d9a-fe1f-487e-a5a5-10273cb3189f#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/wirtschaft/panamakanal-gericht-kippt-hafenvertraege-des-chinesischen-konzerns-ck-hutchison](https://www.spiegel.de/wirtschaft/panamakanal-gericht-kippt-hafenvertraege-des-chinesischen-konzerns-ck-hutchison-a-d72a9d8f-b749-438b-8ef4-57c6198a4e48#ref=rss)
-### kanzler
+* [https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin](https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin-a-c708fc0f-b04f-4a5e-a676-f2e2725e3994#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### paul
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-internet-ausfaelle-in-flugzeugen-behindern-den-kanzler](https://www.spiegel.de/politik/deutschland/friedrich-merz-internet-ausfaelle-in-flugzeugen-behindern-den-kanzler-a-c650c3d5-6884-4162-8729-3d538cd39b0a#ref=rss)
-### openai
+* [https://www.spiegel.de/kultur/kino/beatles-biopics-erste-bilder-von-paul-mescal-und-barry-keoghan-als-mitglieder-der-fab-four](https://www.spiegel.de/kultur/kino/beatles-biopics-erste-bilder-von-paul-mescal-und-barry-keoghan-als-mitglieder-der-fab-four-a-44123d96-e056-4997-abb2-03e48312e403#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/wirtschaft/openai-amazon-will-mit-bis-zu-50-milliarden-dollar-bei-chatgpt-einsteigen](https://www.spiegel.de/wirtschaft/openai-amazon-will-mit-bis-zu-50-milliarden-dollar-bei-chatgpt-einsteigen-a-15763fe9-8cbf-4140-ab24-c809a8cbfe74#ref=rss)
-### amazon
+* [https://www.spiegel.de/sport/fussball/fussball-christian-wueck-verlaengert-vertrag-bis-2029-als-bundestrainer-der-dfb-frauen](https://www.spiegel.de/sport/fussball/fussball-christian-wueck-verlaengert-vertrag-bis-2029-als-bundestrainer-der-dfb-frauen-a-4e136ae1-fb44-44c1-9ac1-47c5e1683434#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/salzgitter-vw-mitarbeiter-soll-jahrelang-seinen-arbeitgeber-bestohlen-haben](https://www.spiegel.de/panorama/justiz/salzgitter-vw-mitarbeiter-soll-jahrelang-seinen-arbeitgeber-bestohlen-haben-a-e1266faf-a07c-4119-ac4d-c952defa85de#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-ringt-jannik-sinner-im-halbfinale-nieder](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-ringt-jannik-sinner-im-halbfinale-nieder-a-017fcf72-6387-4ad0-b160-74360b56ebc4#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/wirtschaft/openai-amazon-will-mit-bis-zu-50-milliarden-dollar-bei-chatgpt-einsteigen](https://www.spiegel.de/wirtschaft/openai-amazon-will-mit-bis-zu-50-milliarden-dollar-bei-chatgpt-einsteigen-a-15763fe9-8cbf-4140-ab24-c809a8cbfe74#ref=rss)
-### shutdown
+* [https://www.spiegel.de/kultur/tv/tatort-aus-berlin-gefahrengebiet-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-aus-berlin-gefahrengebiet-mit-corinna-harfouch-a-798c1e67-3fe3-44e4-96b1-88157014858a#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-darf-nun-doch-mit-salz-gegen-das-glatteis-auf-gehwegen-vorgehen](https://www.spiegel.de/panorama/berlin-darf-nun-doch-mit-salz-gegen-das-glatteis-auf-gehwegen-vorgehen-a-8ac3ddad-90d4-48fc-8bd9-da38c4d80d9d#ref=rss)
+### dänemark
 
-* [https://www.spiegel.de/ausland/usa-demokraten-und-republikaner-verhindern-shutdown](https://www.spiegel.de/ausland/usa-demokraten-und-republikaner-verhindern-shutdown-a-55ab78f4-cfdb-4f01-a483-1cfdf9190db9#ref=rss)
-### mittelständler
+* [https://www.spiegel.de/ausland/daenemark-mette-frederiksen-will-verurteilte-auslaender-abschieben](https://www.spiegel.de/ausland/daenemark-mette-frederiksen-will-verurteilte-auslaender-abschieben-a-5a371d98-b59d-4304-902c-eb0b9de4662d#ref=rss)
+### mette
 
-* [https://www.spiegel.de/wirtschaft/verbandsumfrage-mittelstaendler-enttaeuscht-von-bundesregierung](https://www.spiegel.de/wirtschaft/verbandsumfrage-mittelstaendler-enttaeuscht-von-bundesregierung-a-a9f1ce28-6d56-49d4-a2f2-b2315d63efa7#ref=rss)
+* [https://www.spiegel.de/ausland/daenemark-mette-frederiksen-will-verurteilte-auslaender-abschieben](https://www.spiegel.de/ausland/daenemark-mette-frederiksen-will-verurteilte-auslaender-abschieben-a-5a371d98-b59d-4304-902c-eb0b9de4662d#ref=rss)
+### frederiksen
+
+* [https://www.spiegel.de/ausland/daenemark-mette-frederiksen-will-verurteilte-auslaender-abschieben](https://www.spiegel.de/ausland/daenemark-mette-frederiksen-will-verurteilte-auslaender-abschieben-a-5a371d98-b59d-4304-902c-eb0b9de4662d#ref=rss)
+### ausländer
+
+* [https://www.spiegel.de/ausland/daenemark-mette-frederiksen-will-verurteilte-auslaender-abschieben](https://www.spiegel.de/ausland/daenemark-mette-frederiksen-will-verurteilte-auslaender-abschieben-a-5a371d98-b59d-4304-902c-eb0b9de4662d#ref=rss)
+### verurteilung
+
+* [https://www.spiegel.de/ausland/daenemark-mette-frederiksen-will-verurteilte-auslaender-abschieben](https://www.spiegel.de/ausland/daenemark-mette-frederiksen-will-verurteilte-auslaender-abschieben-a-5a371d98-b59d-4304-902c-eb0b9de4662d#ref=rss)
+* [https://www.spiegel.de/ausland/tod-von-united-healthcare-ceo-luigi-m-droht-bei-verurteilung-nicht-mehr-die-todesstrafe](https://www.spiegel.de/ausland/tod-von-united-healthcare-ceo-luigi-m-droht-bei-verurteilung-nicht-mehr-die-todesstrafe-a-11a11d9a-fe1f-487e-a5a5-10273cb3189f#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/ausland/daenemark-mette-frederiksen-will-verurteilte-auslaender-abschieben](https://www.spiegel.de/ausland/daenemark-mette-frederiksen-will-verurteilte-auslaender-abschieben-a-5a371d98-b59d-4304-902c-eb0b9de4662d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall-astronomen-entdecken-erdaehnlichen-planeten-in-der-nachbarschaft](https://www.spiegel.de/wissenschaft/weltall-astronomen-entdecken-erdaehnlichen-planeten-in-der-nachbarschaft-a-39fb2419-9cfe-4e26-8352-4fc9a0fceea5#ref=rss)
+### tages
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-stephen-miller-und-alexander-zverev-unterliegt-carlos-alcaraz](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-stephen-miller-und-alexander-zverev-unterliegt-carlos-alcaraz-a-bbdd68ec-bd62-4fe0-a0d2-3b7a0aa25950#ref=rss)
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### donald
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-stephen-miller-und-alexander-zverev-unterliegt-carlos-alcaraz](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-stephen-miller-und-alexander-zverev-unterliegt-carlos-alcaraz-a-bbdd68ec-bd62-4fe0-a0d2-3b7a0aa25950#ref=rss)
+* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten-a-38b079a0-dc96-47ec-a957-4a50f9296a67#ref=rss)
+### trump
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-stephen-miller-und-alexander-zverev-unterliegt-carlos-alcaraz](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-stephen-miller-und-alexander-zverev-unterliegt-carlos-alcaraz-a-bbdd68ec-bd62-4fe0-a0d2-3b7a0aa25950#ref=rss)
+* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten-a-38b079a0-dc96-47ec-a957-4a50f9296a67#ref=rss)
+### stephen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-stephen-miller-und-alexander-zverev-unterliegt-carlos-alcaraz](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-stephen-miller-und-alexander-zverev-unterliegt-carlos-alcaraz-a-bbdd68ec-bd62-4fe0-a0d2-3b7a0aa25950#ref=rss)
+### miller
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-stephen-miller-und-alexander-zverev-unterliegt-carlos-alcaraz](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-stephen-miller-und-alexander-zverev-unterliegt-carlos-alcaraz-a-bbdd68ec-bd62-4fe0-a0d2-3b7a0aa25950#ref=rss)
+### gefährlich
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-stephen-miller-und-alexander-zverev-unterliegt-carlos-alcaraz](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-stephen-miller-und-alexander-zverev-unterliegt-carlos-alcaraz-a-bbdd68ec-bd62-4fe0-a0d2-3b7a0aa25950#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-darf-nun-doch-mit-salz-gegen-das-glatteis-auf-gehwegen-vorgehen](https://www.spiegel.de/panorama/berlin-darf-nun-doch-mit-salz-gegen-das-glatteis-auf-gehwegen-vorgehen-a-8ac3ddad-90d4-48fc-8bd9-da38c4d80d9d#ref=rss)
+### minnesota
+
+* [https://www.spiegel.de/ausland/minnesota-waffenladenbesitzer-ueber-ansturm-wegen-ice-gewalt-ich-hasse-diese-gesetzlosigkeit](https://www.spiegel.de/ausland/minnesota-waffenladenbesitzer-ueber-ansturm-wegen-ice-gewalt-ich-hasse-diese-gesetzlosigkeit-a-580b8615-ae06-43e2-b06e-8abf8d8a2b14#ref=rss)
+* [https://www.spiegel.de/ausland/minnesota-ex-cnn-journalist-don-lemon-festgenommen](https://www.spiegel.de/ausland/minnesota-ex-cnn-journalist-don-lemon-festgenommen-a-4b1ea0db-e97a-444b-b614-5f3b33dd8e6e#ref=rss)
+### waffenladenbesitzer
+
+* [https://www.spiegel.de/ausland/minnesota-waffenladenbesitzer-ueber-ansturm-wegen-ice-gewalt-ich-hasse-diese-gesetzlosigkeit](https://www.spiegel.de/ausland/minnesota-waffenladenbesitzer-ueber-ansturm-wegen-ice-gewalt-ich-hasse-diese-gesetzlosigkeit-a-580b8615-ae06-43e2-b06e-8abf8d8a2b14#ref=rss)
+### minneapolis
+
+* [https://www.spiegel.de/ausland/minnesota-waffenladenbesitzer-ueber-ansturm-wegen-ice-gewalt-ich-hasse-diese-gesetzlosigkeit](https://www.spiegel.de/ausland/minnesota-waffenladenbesitzer-ueber-ansturm-wegen-ice-gewalt-ich-hasse-diese-gesetzlosigkeit-a-580b8615-ae06-43e2-b06e-8abf8d8a2b14#ref=rss)
+* [https://www.spiegel.de/ausland/minnesota-ex-cnn-journalist-don-lemon-festgenommen](https://www.spiegel.de/ausland/minnesota-ex-cnn-journalist-don-lemon-festgenommen-a-4b1ea0db-e97a-444b-b614-5f3b33dd8e6e#ref=rss)
+### sorgt
+
+* [https://www.spiegel.de/ausland/minnesota-waffenladenbesitzer-ueber-ansturm-wegen-ice-gewalt-ich-hasse-diese-gesetzlosigkeit](https://www.spiegel.de/ausland/minnesota-waffenladenbesitzer-ueber-ansturm-wegen-ice-gewalt-ich-hasse-diese-gesetzlosigkeit-a-580b8615-ae06-43e2-b06e-8abf8d8a2b14#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-wandsbek-mann-reisst-frau-mit-sich-vor-u-bahn-braucht-es-mehr-sicherheit](https://www.spiegel.de/panorama/justiz/hamburg-wandsbek-mann-reisst-frau-mit-sich-vor-u-bahn-braucht-es-mehr-sicherheit-a-173963e0-1d1f-41f2-adda-2731c3d58f3d#ref=rss)
+### bringt
+
+* [https://www.spiegel.de/ausland/minnesota-waffenladenbesitzer-ueber-ansturm-wegen-ice-gewalt-ich-hasse-diese-gesetzlosigkeit](https://www.spiegel.de/ausland/minnesota-waffenladenbesitzer-ueber-ansturm-wegen-ice-gewalt-ich-hasse-diese-gesetzlosigkeit-a-580b8615-ae06-43e2-b06e-8abf8d8a2b14#ref=rss)
+* [https://www.spiegel.de/panorama/kamtschatka-jahrhundert-winter-bringt-meterhohen-schnee](https://www.spiegel.de/panorama/kamtschatka-jahrhundert-winter-bringt-meterhohen-schnee-a-d89161d3-489d-41c3-9a61-25b513425aa3#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-wandsbek-mann-reisst-frau-mit-sich-vor-u-bahn-braucht-es-mehr-sicherheit](https://www.spiegel.de/panorama/justiz/hamburg-wandsbek-mann-reisst-frau-mit-sich-vor-u-bahn-braucht-es-mehr-sicherheit-a-173963e0-1d1f-41f2-adda-2731c3d58f3d#ref=rss)
+### braucht
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-wandsbek-mann-reisst-frau-mit-sich-vor-u-bahn-braucht-es-mehr-sicherheit](https://www.spiegel.de/panorama/justiz/hamburg-wandsbek-mann-reisst-frau-mit-sich-vor-u-bahn-braucht-es-mehr-sicherheit-a-173963e0-1d1f-41f2-adda-2731c3d58f3d#ref=rss)
+### sicherheit
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-wandsbek-mann-reisst-frau-mit-sich-vor-u-bahn-braucht-es-mehr-sicherheit](https://www.spiegel.de/panorama/justiz/hamburg-wandsbek-mann-reisst-frau-mit-sich-vor-u-bahn-braucht-es-mehr-sicherheit-a-173963e0-1d1f-41f2-adda-2731c3d58f3d#ref=rss)
+### jeffrey
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten-a-38b079a0-dc96-47ec-a957-4a50f9296a67#ref=rss)
+### epstein
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten-a-38b079a0-dc96-47ec-a957-4a50f9296a67#ref=rss)
+### usjustizministerium
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten-a-38b079a0-dc96-47ec-a957-4a50f9296a67#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten-a-38b079a0-dc96-47ec-a957-4a50f9296a67#ref=rss)
+### seiten
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten-a-38b079a0-dc96-47ec-a957-4a50f9296a67#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten](https://www.spiegel.de/ausland/jeffrey-epstein-us-justizministerium-veroeffentlicht-drei-millionen-neue-seiten-aus-epstein-akten-a-38b079a0-dc96-47ec-a957-4a50f9296a67#ref=rss)
+* [https://www.spiegel.de/kultur/kino/beatles-biopics-erste-bilder-von-paul-mescal-und-barry-keoghan-als-mitglieder-der-fab-four](https://www.spiegel.de/kultur/kino/beatles-biopics-erste-bilder-von-paul-mescal-und-barry-keoghan-als-mitglieder-der-fab-four-a-44123d96-e056-4997-abb2-03e48312e403#ref=rss)
+### ariana
+
+* [https://www.spiegel.de/kultur/musik/ariana-grande-spottet-ueber-sechsten-finger-in-der-japanischen-vogue](https://www.spiegel.de/kultur/musik/ariana-grande-spottet-ueber-sechsten-finger-in-der-japanischen-vogue-a-0b11102b-ff2b-4c56-905e-7f7bd69a8722#ref=rss)
+### grande
+
+* [https://www.spiegel.de/kultur/musik/ariana-grande-spottet-ueber-sechsten-finger-in-der-japanischen-vogue](https://www.spiegel.de/kultur/musik/ariana-grande-spottet-ueber-sechsten-finger-in-der-japanischen-vogue-a-0b11102b-ff2b-4c56-905e-7f7bd69a8722#ref=rss)
+### vogue
+
+* [https://www.spiegel.de/kultur/musik/ariana-grande-spottet-ueber-sechsten-finger-in-der-japanischen-vogue](https://www.spiegel.de/kultur/musik/ariana-grande-spottet-ueber-sechsten-finger-in-der-japanischen-vogue-a-0b11102b-ff2b-4c56-905e-7f7bd69a8722#ref=rss)
+### besten
+
+* [https://www.spiegel.de/kultur/musik/ariana-grande-spottet-ueber-sechsten-finger-in-der-japanischen-vogue](https://www.spiegel.de/kultur/musik/ariana-grande-spottet-ueber-sechsten-finger-in-der-japanischen-vogue-a-0b11102b-ff2b-4c56-905e-7f7bd69a8722#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-em-deutschland-gegen-kroatien-im-liveticker](https://www.spiegel.de/sport/handball/handball-em-deutschland-gegen-kroatien-im-liveticker-a-7cf7e71a-e709-4425-95b1-043574faa825#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/kamtschatka-jahrhundert-winter-bringt-meterhohen-schnee](https://www.spiegel.de/panorama/kamtschatka-jahrhundert-winter-bringt-meterhohen-schnee-a-d89161d3-489d-41c3-9a61-25b513425aa3#ref=rss)
+* [https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin](https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin-a-c708fc0f-b04f-4a5e-a676-f2e2725e3994#ref=rss)
+### osten
+
+* [https://www.spiegel.de/panorama/kamtschatka-jahrhundert-winter-bringt-meterhohen-schnee](https://www.spiegel.de/panorama/kamtschatka-jahrhundert-winter-bringt-meterhohen-schnee-a-d89161d3-489d-41c3-9a61-25b513425aa3#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-am-wochenende-im-nordosten-frost-im-suedwesten-ueber-10-grad](https://www.spiegel.de/panorama/wetter-am-wochenende-im-nordosten-frost-im-suedwesten-ueber-10-grad-a-2727e8ca-73d1-4219-bdb2-b4726aa9cbc7#ref=rss)
+### milde
+
+* [https://www.spiegel.de/panorama/kamtschatka-jahrhundert-winter-bringt-meterhohen-schnee](https://www.spiegel.de/panorama/kamtschatka-jahrhundert-winter-bringt-meterhohen-schnee-a-d89161d3-489d-41c3-9a61-25b513425aa3#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-am-wochenende-im-nordosten-frost-im-suedwesten-ueber-10-grad](https://www.spiegel.de/panorama/wetter-am-wochenende-im-nordosten-frost-im-suedwesten-ueber-10-grad-a-2727e8ca-73d1-4219-bdb2-b4726aa9cbc7#ref=rss)
+### handballem
+
+* [https://www.spiegel.de/sport/handball/handball-em-deutschland-gegen-kroatien-im-liveticker](https://www.spiegel.de/sport/handball/handball-em-deutschland-gegen-kroatien-im-liveticker-a-7cf7e71a-e709-4425-95b1-043574faa825#ref=rss)
+### wochenende
+
+* [https://www.spiegel.de/panorama/wetter-am-wochenende-im-nordosten-frost-im-suedwesten-ueber-10-grad](https://www.spiegel.de/panorama/wetter-am-wochenende-im-nordosten-frost-im-suedwesten-ueber-10-grad-a-2727e8ca-73d1-4219-bdb2-b4726aa9cbc7#ref=rss)
+### dagegen
+
+* [https://www.spiegel.de/panorama/wetter-am-wochenende-im-nordosten-frost-im-suedwesten-ueber-10-grad](https://www.spiegel.de/panorama/wetter-am-wochenende-im-nordosten-frost-im-suedwesten-ueber-10-grad-a-2727e8ca-73d1-4219-bdb2-b4726aa9cbc7#ref=rss)
+* [https://www.spiegel.de/geschichte/erbschaftsteuer-debatte-historiker-ueber-erben-und-reichtum-in-deutschland](https://www.spiegel.de/geschichte/erbschaftsteuer-debatte-historiker-ueber-erben-und-reichtum-in-deutschland-a-0c325df6-6637-4c1b-95ac-a306b9e17597#ref=rss)
+### luigi
+
+* [https://www.spiegel.de/ausland/tod-von-united-healthcare-ceo-luigi-m-droht-bei-verurteilung-nicht-mehr-die-todesstrafe](https://www.spiegel.de/ausland/tod-von-united-healthcare-ceo-luigi-m-droht-bei-verurteilung-nicht-mehr-die-todesstrafe-a-11a11d9a-fe1f-487e-a5a5-10273cb3189f#ref=rss)
+### droht
+
+* [https://www.spiegel.de/ausland/tod-von-united-healthcare-ceo-luigi-m-droht-bei-verurteilung-nicht-mehr-die-todesstrafe](https://www.spiegel.de/ausland/tod-von-united-healthcare-ceo-luigi-m-droht-bei-verurteilung-nicht-mehr-die-todesstrafe-a-11a11d9a-fe1f-487e-a5a5-10273cb3189f#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/tod-von-united-healthcare-ceo-luigi-m-droht-bei-verurteilung-nicht-mehr-die-todesstrafe](https://www.spiegel.de/ausland/tod-von-united-healthcare-ceo-luigi-m-droht-bei-verurteilung-nicht-mehr-die-todesstrafe-a-11a11d9a-fe1f-487e-a5a5-10273cb3189f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bayern-a3-wegen-mutmasslich-explosivem-material-stundenlang-gesperrt-ermittlungen-laufen](https://www.spiegel.de/panorama/justiz/bayern-a3-wegen-mutmasslich-explosivem-material-stundenlang-gesperrt-ermittlungen-laufen-a-3fcac541-8008-4497-8c55-29b2b0b05ff5#ref=rss)
+### beate
+
+* [https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin](https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin-a-c708fc0f-b04f-4a5e-a676-f2e2725e3994#ref=rss)
+### zschäpe
+
+* [https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin](https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin-a-c708fc0f-b04f-4a5e-a676-f2e2725e3994#ref=rss)
+### nsuterroristin
+
+* [https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin](https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin-a-c708fc0f-b04f-4a5e-a676-f2e2725e3994#ref=rss)
+### liefert
+
+* [https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin](https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin-a-c708fc0f-b04f-4a5e-a676-f2e2725e3994#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-geschichte-vom-wunder-von-kopenhagen-bis-zum-wintermaerchen](https://www.spiegel.de/sport/handball/handball-geschichte-vom-wunder-von-kopenhagen-bis-zum-wintermaerchen-a-b971a2f2-9a98-4358-b117-70fcdbb18060#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin](https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin-a-c708fc0f-b04f-4a5e-a676-f2e2725e3994#ref=rss)
+### zeugin
+
+* [https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin](https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin-a-c708fc0f-b04f-4a5e-a676-f2e2725e3994#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin](https://www.spiegel.de/panorama/beate-zschaepe-nsu-terroristin-liefert-wenig-erkenntnisse-als-zeugin-a-c708fc0f-b04f-4a5e-a676-f2e2725e3994#ref=rss)
+* [https://www.spiegel.de/ausland/minnesota-ex-cnn-journalist-don-lemon-festgenommen](https://www.spiegel.de/ausland/minnesota-ex-cnn-journalist-don-lemon-festgenommen-a-4b1ea0db-e97a-444b-b614-5f3b33dd8e6e#ref=rss)
+### erste
+
+* [https://www.spiegel.de/kultur/kino/beatles-biopics-erste-bilder-von-paul-mescal-und-barry-keoghan-als-mitglieder-der-fab-four](https://www.spiegel.de/kultur/kino/beatles-biopics-erste-bilder-von-paul-mescal-und-barry-keoghan-als-mitglieder-der-fab-four-a-44123d96-e056-4997-abb2-03e48312e403#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall-astronomen-entdecken-erdaehnlichen-planeten-in-der-nachbarschaft](https://www.spiegel.de/wissenschaft/weltall-astronomen-entdecken-erdaehnlichen-planeten-in-der-nachbarschaft-a-39fb2419-9cfe-4e26-8352-4fc9a0fceea5#ref=rss)
+### mescal
+
+* [https://www.spiegel.de/kultur/kino/beatles-biopics-erste-bilder-von-paul-mescal-und-barry-keoghan-als-mitglieder-der-fab-four](https://www.spiegel.de/kultur/kino/beatles-biopics-erste-bilder-von-paul-mescal-und-barry-keoghan-als-mitglieder-der-fab-four-a-44123d96-e056-4997-abb2-03e48312e403#ref=rss)
+### barry
+
+* [https://www.spiegel.de/kultur/kino/beatles-biopics-erste-bilder-von-paul-mescal-und-barry-keoghan-als-mitglieder-der-fab-four](https://www.spiegel.de/kultur/kino/beatles-biopics-erste-bilder-von-paul-mescal-und-barry-keoghan-als-mitglieder-der-fab-four-a-44123d96-e056-4997-abb2-03e48312e403#ref=rss)
+### keoghan
+
+* [https://www.spiegel.de/kultur/kino/beatles-biopics-erste-bilder-von-paul-mescal-und-barry-keoghan-als-mitglieder-der-fab-four](https://www.spiegel.de/kultur/kino/beatles-biopics-erste-bilder-von-paul-mescal-und-barry-keoghan-als-mitglieder-der-fab-four-a-44123d96-e056-4997-abb2-03e48312e403#ref=rss)
+### gleich
+
+* [https://www.spiegel.de/kultur/kino/beatles-biopics-erste-bilder-von-paul-mescal-und-barry-keoghan-als-mitglieder-der-fab-four](https://www.spiegel.de/kultur/kino/beatles-biopics-erste-bilder-von-paul-mescal-und-barry-keoghan-als-mitglieder-der-fab-four-a-44123d96-e056-4997-abb2-03e48312e403#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-christian-wueck-verlaengert-vertrag-bis-2029-als-bundestrainer-der-dfb-frauen](https://www.spiegel.de/sport/fussball/fussball-christian-wueck-verlaengert-vertrag-bis-2029-als-bundestrainer-der-dfb-frauen-a-4e136ae1-fb44-44c1-9ac1-47c5e1683434#ref=rss)
+### vier
+
+* [https://www.spiegel.de/kultur/kino/beatles-biopics-erste-bilder-von-paul-mescal-und-barry-keoghan-als-mitglieder-der-fab-four](https://www.spiegel.de/kultur/kino/beatles-biopics-erste-bilder-von-paul-mescal-und-barry-keoghan-als-mitglieder-der-fab-four-a-44123d96-e056-4997-abb2-03e48312e403#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-ringt-jannik-sinner-im-halbfinale-nieder](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-ringt-jannik-sinner-im-halbfinale-nieder-a-017fcf72-6387-4ad0-b160-74360b56ebc4#ref=rss)
+### christian
+
+* [https://www.spiegel.de/sport/fussball/fussball-christian-wueck-verlaengert-vertrag-bis-2029-als-bundestrainer-der-dfb-frauen](https://www.spiegel.de/sport/fussball/fussball-christian-wueck-verlaengert-vertrag-bis-2029-als-bundestrainer-der-dfb-frauen-a-4e136ae1-fb44-44c1-9ac1-47c5e1683434#ref=rss)
+### wück
+
+* [https://www.spiegel.de/sport/fussball/fussball-christian-wueck-verlaengert-vertrag-bis-2029-als-bundestrainer-der-dfb-frauen](https://www.spiegel.de/sport/fussball/fussball-christian-wueck-verlaengert-vertrag-bis-2029-als-bundestrainer-der-dfb-frauen-a-4e136ae1-fb44-44c1-9ac1-47c5e1683434#ref=rss)
+### verlängert
+
+* [https://www.spiegel.de/sport/fussball/fussball-christian-wueck-verlaengert-vertrag-bis-2029-als-bundestrainer-der-dfb-frauen](https://www.spiegel.de/sport/fussball/fussball-christian-wueck-verlaengert-vertrag-bis-2029-als-bundestrainer-der-dfb-frauen-a-4e136ae1-fb44-44c1-9ac1-47c5e1683434#ref=rss)
+### vertrag
+
+* [https://www.spiegel.de/sport/fussball/fussball-christian-wueck-verlaengert-vertrag-bis-2029-als-bundestrainer-der-dfb-frauen](https://www.spiegel.de/sport/fussball/fussball-christian-wueck-verlaengert-vertrag-bis-2029-als-bundestrainer-der-dfb-frauen-a-4e136ae1-fb44-44c1-9ac1-47c5e1683434#ref=rss)
+### ende
+
+* [https://www.spiegel.de/sport/fussball/fussball-christian-wueck-verlaengert-vertrag-bis-2029-als-bundestrainer-der-dfb-frauen](https://www.spiegel.de/sport/fussball/fussball-christian-wueck-verlaengert-vertrag-bis-2029-als-bundestrainer-der-dfb-frauen-a-4e136ae1-fb44-44c1-9ac1-47c5e1683434#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich](https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich-a-d72fa8cc-bd81-4bdb-bd5c-a48e32d7d8ec#ref=rss)
+### gustavo
+
+* [https://www.spiegel.de/panorama/leute/gustavo-petro-kolumbiens-praesident-vermutet-das-jesus-sex-mit-maria-magdalena-hatte](https://www.spiegel.de/panorama/leute/gustavo-petro-kolumbiens-praesident-vermutet-das-jesus-sex-mit-maria-magdalena-hatte-a-a26d9ead-d429-4a77-88d3-bb8e628617bd#ref=rss)
+### petro
+
+* [https://www.spiegel.de/panorama/leute/gustavo-petro-kolumbiens-praesident-vermutet-das-jesus-sex-mit-maria-magdalena-hatte](https://www.spiegel.de/panorama/leute/gustavo-petro-kolumbiens-praesident-vermutet-das-jesus-sex-mit-maria-magdalena-hatte-a-a26d9ead-d429-4a77-88d3-bb8e628617bd#ref=rss)
+### jesus
+
+* [https://www.spiegel.de/panorama/leute/gustavo-petro-kolumbiens-praesident-vermutet-das-jesus-sex-mit-maria-magdalena-hatte](https://www.spiegel.de/panorama/leute/gustavo-petro-kolumbiens-praesident-vermutet-das-jesus-sex-mit-maria-magdalena-hatte-a-a26d9ead-d429-4a77-88d3-bb8e628617bd#ref=rss)
+### sex
+
+* [https://www.spiegel.de/panorama/leute/gustavo-petro-kolumbiens-praesident-vermutet-das-jesus-sex-mit-maria-magdalena-hatte](https://www.spiegel.de/panorama/leute/gustavo-petro-kolumbiens-praesident-vermutet-das-jesus-sex-mit-maria-magdalena-hatte-a-a26d9ead-d429-4a77-88d3-bb8e628617bd#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-aus-berlin-gefahrengebiet-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-aus-berlin-gefahrengebiet-mit-corinna-harfouch-a-798c1e67-3fe3-44e4-96b1-88157014858a#ref=rss)
+### maria
+
+* [https://www.spiegel.de/panorama/leute/gustavo-petro-kolumbiens-praesident-vermutet-das-jesus-sex-mit-maria-magdalena-hatte](https://www.spiegel.de/panorama/leute/gustavo-petro-kolumbiens-praesident-vermutet-das-jesus-sex-mit-maria-magdalena-hatte-a-a26d9ead-d429-4a77-88d3-bb8e628617bd#ref=rss)
+### magdalena
+
+* [https://www.spiegel.de/panorama/leute/gustavo-petro-kolumbiens-praesident-vermutet-das-jesus-sex-mit-maria-magdalena-hatte](https://www.spiegel.de/panorama/leute/gustavo-petro-kolumbiens-praesident-vermutet-das-jesus-sex-mit-maria-magdalena-hatte-a-a26d9ead-d429-4a77-88d3-bb8e628617bd#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/kultur/tv/tatort-aus-berlin-gefahrengebiet-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-aus-berlin-gefahrengebiet-mit-corinna-harfouch-a-798c1e67-3fe3-44e4-96b1-88157014858a#ref=rss)
+### corinna
+
+* [https://www.spiegel.de/kultur/tv/tatort-aus-berlin-gefahrengebiet-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-aus-berlin-gefahrengebiet-mit-corinna-harfouch-a-798c1e67-3fe3-44e4-96b1-88157014858a#ref=rss)
+### harfouch
+
+* [https://www.spiegel.de/kultur/tv/tatort-aus-berlin-gefahrengebiet-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-aus-berlin-gefahrengebiet-mit-corinna-harfouch-a-798c1e67-3fe3-44e4-96b1-88157014858a#ref=rss)
+### markus
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich](https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich-a-d72fa8cc-bd81-4bdb-bd5c-a48e32d7d8ec#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich](https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich-a-d72fa8cc-bd81-4bdb-bd5c-a48e32d7d8ec#ref=rss)
+### manuel
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich](https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich-a-d72fa8cc-bd81-4bdb-bd5c-a48e32d7d8ec#ref=rss)
+### hagel
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich](https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich-a-d72fa8cc-bd81-4bdb-bd5c-a48e32d7d8ec#ref=rss)
+### boris
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich](https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich-a-d72fa8cc-bd81-4bdb-bd5c-a48e32d7d8ec#ref=rss)
+### rhein
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich](https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich-a-d72fa8cc-bd81-4bdb-bd5c-a48e32d7d8ec#ref=rss)
+### große
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich](https://www.spiegel.de/politik/deutschland/markus-soeder-manuel-hagel-boris-rhein-drei-loewen-allianz-will-neuen-landerfinanzausgleich-a-d72fa8cc-bd81-4bdb-bd5c-a48e32d7d8ec#ref=rss)
+* [https://www.spiegel.de/geschichte/erbschaftsteuer-debatte-historiker-ueber-erben-und-reichtum-in-deutschland](https://www.spiegel.de/geschichte/erbschaftsteuer-debatte-historiker-ueber-erben-und-reichtum-in-deutschland-a-0c325df6-6637-4c1b-95ac-a306b9e17597#ref=rss)
+### wunder
+
+* [https://www.spiegel.de/sport/handball/handball-geschichte-vom-wunder-von-kopenhagen-bis-zum-wintermaerchen](https://www.spiegel.de/sport/handball/handball-geschichte-vom-wunder-von-kopenhagen-bis-zum-wintermaerchen-a-b971a2f2-9a98-4358-b117-70fcdbb18060#ref=rss)
+### kopenhagen
+
+* [https://www.spiegel.de/sport/handball/handball-geschichte-vom-wunder-von-kopenhagen-bis-zum-wintermaerchen](https://www.spiegel.de/sport/handball/handball-geschichte-vom-wunder-von-kopenhagen-bis-zum-wintermaerchen-a-b971a2f2-9a98-4358-b117-70fcdbb18060#ref=rss)
+### wintermärchen
+
+* [https://www.spiegel.de/sport/handball/handball-geschichte-vom-wunder-von-kopenhagen-bis-zum-wintermaerchen](https://www.spiegel.de/sport/handball/handball-geschichte-vom-wunder-von-kopenhagen-bis-zum-wintermaerchen-a-b971a2f2-9a98-4358-b117-70fcdbb18060#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/sport/handball/handball-geschichte-vom-wunder-von-kopenhagen-bis-zum-wintermaerchen](https://www.spiegel.de/sport/handball/handball-geschichte-vom-wunder-von-kopenhagen-bis-zum-wintermaerchen-a-b971a2f2-9a98-4358-b117-70fcdbb18060#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/entscheidung-im-bundestag-wo-co-in-der-nordsee-eingelagert-werden-koennte](https://www.spiegel.de/wissenschaft/natur/entscheidung-im-bundestag-wo-co-in-der-nordsee-eingelagert-werden-koennte-a-a3451e85-c513-4917-83d6-5690282ff2be#ref=rss)
+### excnnjournalist
+
+* [https://www.spiegel.de/ausland/minnesota-ex-cnn-journalist-don-lemon-festgenommen](https://www.spiegel.de/ausland/minnesota-ex-cnn-journalist-don-lemon-festgenommen-a-4b1ea0db-e97a-444b-b614-5f3b33dd8e6e#ref=rss)
+### don
+
+* [https://www.spiegel.de/ausland/minnesota-ex-cnn-journalist-don-lemon-festgenommen](https://www.spiegel.de/ausland/minnesota-ex-cnn-journalist-don-lemon-festgenommen-a-4b1ea0db-e97a-444b-b614-5f3b33dd8e6e#ref=rss)
+### lemon
+
+* [https://www.spiegel.de/ausland/minnesota-ex-cnn-journalist-don-lemon-festgenommen](https://www.spiegel.de/ausland/minnesota-ex-cnn-journalist-don-lemon-festgenommen-a-4b1ea0db-e97a-444b-b614-5f3b33dd8e6e#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/ausland/minnesota-ex-cnn-journalist-don-lemon-festgenommen](https://www.spiegel.de/ausland/minnesota-ex-cnn-journalist-don-lemon-festgenommen-a-4b1ea0db-e97a-444b-b614-5f3b33dd8e6e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bayern-a3-wegen-mutmasslich-explosivem-material-stundenlang-gesperrt-ermittlungen-laufen](https://www.spiegel.de/panorama/justiz/bayern-a3-wegen-mutmasslich-explosivem-material-stundenlang-gesperrt-ermittlungen-laufen-a-3fcac541-8008-4497-8c55-29b2b0b05ff5#ref=rss)
+### novak
+
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-ringt-jannik-sinner-im-halbfinale-nieder](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-ringt-jannik-sinner-im-halbfinale-nieder-a-017fcf72-6387-4ad0-b160-74360b56ebc4#ref=rss)
+### djokovic
+
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-ringt-jannik-sinner-im-halbfinale-nieder](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-ringt-jannik-sinner-im-halbfinale-nieder-a-017fcf72-6387-4ad0-b160-74360b56ebc4#ref=rss)
+### jannik
+
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-ringt-jannik-sinner-im-halbfinale-nieder](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-ringt-jannik-sinner-im-halbfinale-nieder-a-017fcf72-6387-4ad0-b160-74360b56ebc4#ref=rss)
+### sinner
+
+* [https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-ringt-jannik-sinner-im-halbfinale-nieder](https://www.spiegel.de/sport/tennis/australian-open-novak-djokovic-ringt-jannik-sinner-im-halbfinale-nieder-a-017fcf72-6387-4ad0-b160-74360b56ebc4#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/wissenschaft/natur/entscheidung-im-bundestag-wo-co-in-der-nordsee-eingelagert-werden-koennte](https://www.spiegel.de/wissenschaft/natur/entscheidung-im-bundestag-wo-co-in-der-nordsee-eingelagert-werden-koennte-a-a3451e85-c513-4917-83d6-5690282ff2be#ref=rss)
+### nordsee
+
+* [https://www.spiegel.de/wissenschaft/natur/entscheidung-im-bundestag-wo-co-in-der-nordsee-eingelagert-werden-koennte](https://www.spiegel.de/wissenschaft/natur/entscheidung-im-bundestag-wo-co-in-der-nordsee-eingelagert-werden-koennte-a-a3451e85-c513-4917-83d6-5690282ff2be#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/charlotte-knobloch-reagiert-auf-spiegel-recherche-ueber-antisemitschen-brandanschlag-1970](https://www.spiegel.de/panorama/justiz/charlotte-knobloch-reagiert-auf-spiegel-recherche-ueber-antisemitschen-brandanschlag-1970-a-dd892d0e-160c-4a95-8ee3-aea538a25515#ref=rss)
+### tag
+
+* [https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### waren
+
+* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-baby-dinos-waren-leichte-beute-fuer-fleischfresser](https://www.spiegel.de/wissenschaft/natur/dinosaurier-baby-dinos-waren-leichte-beute-fuer-fleischfresser-a-27b0fa68-2b57-47c4-96bd-8e7755d450b9#ref=rss)
+### konnten
+
+* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-baby-dinos-waren-leichte-beute-fuer-fleischfresser](https://www.spiegel.de/wissenschaft/natur/dinosaurier-baby-dinos-waren-leichte-beute-fuer-fleischfresser-a-27b0fa68-2b57-47c4-96bd-8e7755d450b9#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/panorama/berlin-darf-nun-doch-mit-salz-gegen-das-glatteis-auf-gehwegen-vorgehen](https://www.spiegel.de/panorama/berlin-darf-nun-doch-mit-salz-gegen-das-glatteis-auf-gehwegen-vorgehen-a-8ac3ddad-90d4-48fc-8bd9-da38c4d80d9d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/charlotte-knobloch-reagiert-auf-spiegel-recherche-ueber-antisemitschen-brandanschlag-1970](https://www.spiegel.de/panorama/justiz/charlotte-knobloch-reagiert-auf-spiegel-recherche-ueber-antisemitschen-brandanschlag-1970-a-dd892d0e-160c-4a95-8ee3-aea538a25515#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/panorama/justiz/bayern-a3-wegen-mutmasslich-explosivem-material-stundenlang-gesperrt-ermittlungen-laufen](https://www.spiegel.de/panorama/justiz/bayern-a3-wegen-mutmasslich-explosivem-material-stundenlang-gesperrt-ermittlungen-laufen-a-3fcac541-8008-4497-8c55-29b2b0b05ff5#ref=rss)
+### ermittlungen
+
+* [https://www.spiegel.de/panorama/justiz/bayern-a3-wegen-mutmasslich-explosivem-material-stundenlang-gesperrt-ermittlungen-laufen](https://www.spiegel.de/panorama/justiz/bayern-a3-wegen-mutmasslich-explosivem-material-stundenlang-gesperrt-ermittlungen-laufen-a-3fcac541-8008-4497-8c55-29b2b0b05ff5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/charlotte-knobloch-reagiert-auf-spiegel-recherche-ueber-antisemitschen-brandanschlag-1970](https://www.spiegel.de/panorama/justiz/charlotte-knobloch-reagiert-auf-spiegel-recherche-ueber-antisemitschen-brandanschlag-1970-a-dd892d0e-160c-4a95-8ee3-aea538a25515#ref=rss)
+### charlotte
+
+* [https://www.spiegel.de/panorama/justiz/charlotte-knobloch-reagiert-auf-spiegel-recherche-ueber-antisemitschen-brandanschlag-1970](https://www.spiegel.de/panorama/justiz/charlotte-knobloch-reagiert-auf-spiegel-recherche-ueber-antisemitschen-brandanschlag-1970-a-dd892d0e-160c-4a95-8ee3-aea538a25515#ref=rss)
+### knobloch
+
+* [https://www.spiegel.de/panorama/justiz/charlotte-knobloch-reagiert-auf-spiegel-recherche-ueber-antisemitschen-brandanschlag-1970](https://www.spiegel.de/panorama/justiz/charlotte-knobloch-reagiert-auf-spiegel-recherche-ueber-antisemitschen-brandanschlag-1970-a-dd892d0e-160c-4a95-8ee3-aea538a25515#ref=rss)
+### brandanschlag
+
+* [https://www.spiegel.de/panorama/justiz/charlotte-knobloch-reagiert-auf-spiegel-recherche-ueber-antisemitschen-brandanschlag-1970](https://www.spiegel.de/panorama/justiz/charlotte-knobloch-reagiert-auf-spiegel-recherche-ueber-antisemitschen-brandanschlag-1970-a-dd892d0e-160c-4a95-8ee3-aea538a25515#ref=rss)
+### 1970
+
+* [https://www.spiegel.de/panorama/justiz/charlotte-knobloch-reagiert-auf-spiegel-recherche-ueber-antisemitschen-brandanschlag-1970](https://www.spiegel.de/panorama/justiz/charlotte-knobloch-reagiert-auf-spiegel-recherche-ueber-antisemitschen-brandanschlag-1970-a-dd892d0e-160c-4a95-8ee3-aea538a25515#ref=rss)
+### historiker
+
+* [https://www.spiegel.de/geschichte/erbschaftsteuer-debatte-historiker-ueber-erben-und-reichtum-in-deutschland](https://www.spiegel.de/geschichte/erbschaftsteuer-debatte-historiker-ueber-erben-und-reichtum-in-deutschland-a-0c325df6-6637-4c1b-95ac-a306b9e17597#ref=rss)
+### erben
+
+* [https://www.spiegel.de/geschichte/erbschaftsteuer-debatte-historiker-ueber-erben-und-reichtum-in-deutschland](https://www.spiegel.de/geschichte/erbschaftsteuer-debatte-historiker-ueber-erben-und-reichtum-in-deutschland-a-0c325df6-6637-4c1b-95ac-a306b9e17597#ref=rss)
 
