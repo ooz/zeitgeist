@@ -4,336 +4,262 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### russland
+
+* [https://www.spiegel.de/ausland/eu-ungarn-klagt-gegen-verbot-von-gasimporten-aus-russland](https://www.spiegel.de/ausland/eu-ungarn-klagt-gegen-verbot-von-gasimporten-aus-russland-a-5361f42a-6935-4391-be9d-ec57782d9bc1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/ukraine-krieg-in-der-kaelte-die-leitungen-platzen-wie-eine-flasche-wasser-im-eisfach](https://www.spiegel.de/wissenschaft/ukraine-krieg-in-der-kaelte-die-leitungen-platzen-wie-eine-flasche-wasser-im-eisfach-a-dd16b7e9-9d6f-4385-a5c1-688dc3237f35#ref=rss)
+* [https://www.spiegel.de/ausland/russland-greift-geburtsklinik-in-ukraine-an-ich-sah-wie-etwas-auf-uns-zuflog](https://www.spiegel.de/ausland/russland-greift-geburtsklinik-in-ukraine-an-ich-sah-wie-etwas-auf-uns-zuflog-a-3969b39c-e210-4256-b71d-d802e79c99a2#ref=rss)
 ### ohne
 
+* [https://www.spiegel.de/wissenschaft/mensch/grosseltern-die-auf-ihre-enkel-aufpassen-sind-geistig-laenger-fit](https://www.spiegel.de/wissenschaft/mensch/grosseltern-die-auf-ihre-enkel-aufpassen-sind-geistig-laenger-fit-a-e9d561ff-efc6-43d9-b290-9898c18fba0e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/belgien-estland-bruessel-will-haeftlinge-ohne-aufenthaltserlaubnis-auslagern](https://www.spiegel.de/panorama/justiz/belgien-estland-bruessel-will-haeftlinge-ohne-aufenthaltserlaubnis-auslagern-a-03e3f345-0567-4c19-833b-fca9b5c8f92d#ref=rss)
 * [https://www.spiegel.de/start/hausarbeit-schreiben-so-gelingt-die-erste-hausarbeit-ohne-zu-betruegen](https://www.spiegel.de/start/hausarbeit-schreiben-so-gelingt-die-erste-hausarbeit-ohne-zu-betruegen-a-9bd639a3-5044-482c-a406-27f4b27fb72a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-jung-top-ausgebildet-und-nicht-mehr-begehrt](https://www.spiegel.de/wirtschaft/arbeitsmarkt-jung-top-ausgebildet-und-nicht-mehr-begehrt-a-f5d2837a-f6a3-4009-9ba4-fc45ae3ba412#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-gefahrengebiet-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-gefahrengebiet-mit-corinna-harfouch-a-33fdb8a6-777a-4351-ba54-c31907ec00de#ref=rss)
-### bad
+### neue
 
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements](https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements-a-49760875-4c75-40e7-be00-e8407cc77a11#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show](https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show-a-ba86d42f-e22f-4a70-aa9d-e9f086aa9cca#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar](https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar-a-e062c836-16c7-495d-86c9-ba597816344c#ref=rss)
-### bunny
+* [https://www.spiegel.de/stil/mode-berlin-fashion-week-die-neue-selbstsicherheit-der-berliner-mode](https://www.spiegel.de/stil/mode-berlin-fashion-week-die-neue-selbstsicherheit-der-berliner-mode-a-d66e2df4-681c-4852-8735-7820bcded833#ref=rss)
+* [https://www.spiegel.de/geschichte/medienrevolutionen-und-oeffentlichkeit-erfinde-das-schreiben-und-demokratie-ist-unvermeidlich](https://www.spiegel.de/geschichte/medienrevolutionen-und-oeffentlichkeit-erfinde-das-schreiben-und-demokratie-ist-unvermeidlich-a-645107fc-b156-4f80-bc3a-1ac3a2ed3459#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/generation-deutschland-neue-jugendorganisation-liefert-belege-fuer-verfassungsfeindlichkeit-der-afd](https://www.spiegel.de/politik/deutschland/generation-deutschland-neue-jugendorganisation-liefert-belege-fuer-verfassungsfeindlichkeit-der-afd-a-84745fc1-e27a-4b2b-a386-abb166792a61#ref=rss)
+* [https://www.spiegel.de/wirtschaft/seltene-erden-eu-foerderungen-fuer-rohstoff-unabhaengigkeit-zeigen-wenig-wirkung](https://www.spiegel.de/wirtschaft/seltene-erden-eu-foerderungen-fuer-rohstoff-unabhaengigkeit-zeigen-wenig-wirkung-a-f869ded1-3b4f-4bd4-9dd6-d5fac84114b3#ref=rss)
+### jeffrey
 
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements](https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements-a-49760875-4c75-40e7-be00-e8407cc77a11#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show](https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show-a-ba86d42f-e22f-4a70-aa9d-e9f086aa9cca#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar](https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar-a-e062c836-16c7-495d-86c9-ba597816344c#ref=rss)
-### 2026
+* [https://www.spiegel.de/ausland/jeffrey-epstein-soll-frauen-in-lettland-rekrutiert-haben-polizei-leitet-ermittlungen-ein](https://www.spiegel.de/ausland/jeffrey-epstein-soll-frauen-in-lettland-rekrutiert-haben-polizei-leitet-ermittlungen-ein-a-16d97e6c-b16c-4959-ba8f-fd4ed0595286#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/epstein-files-auch-angela-merkel-und-die-afd-stehen-drin](https://www.spiegel.de/politik/deutschland/epstein-files-auch-angela-merkel-und-die-afd-stehen-drin-a-463747f4-5de1-4188-ae10-21141e04b539#ref=rss)
+### epstein
 
-* [https://www.spiegel.de/sport/handball/handball-em-2026-das-daenische-ungeheuer-ist-fuer-deutschland-zu-stark-noch](https://www.spiegel.de/sport/handball/handball-em-2026-das-daenische-ungeheuer-ist-fuer-deutschland-zu-stark-noch-a-6a49af15-adfa-4e17-b2b6-7ab53bba77d3#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements](https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements-a-49760875-4c75-40e7-be00-e8407cc77a11#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show](https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show-a-ba86d42f-e22f-4a70-aa9d-e9f086aa9cca#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar](https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar-a-e062c836-16c7-495d-86c9-ba597816344c#ref=rss)
-### grammys
-
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements](https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements-a-49760875-4c75-40e7-be00-e8407cc77a11#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show](https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show-a-ba86d42f-e22f-4a70-aa9d-e9f086aa9cca#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar](https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar-a-e062c836-16c7-495d-86c9-ba597816344c#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus](https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus-a-03ab0961-f428-4d09-9adf-fdb011e61de1#ref=rss)
-* [https://www.spiegel.de/panorama/autobahn-a61-drei-menschen-sterben-bei-unfall](https://www.spiegel.de/panorama/autobahn-a61-drei-menschen-sterben-bei-unfall-a-653248c8-244b-4144-bbcb-0f188d6fa9e9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mehr-asylsuchende-kehren-freiwillig-in-ihr-heimatland-zurueck](https://www.spiegel.de/politik/deutschland/mehr-asylsuchende-kehren-freiwillig-in-ihr-heimatland-zurueck-a-0f3e3e71-d7f7-4c42-8231-2f27e12f1652#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/mehr-asylsuchende-kehren-freiwillig-in-ihr-heimatland-zurueck](https://www.spiegel.de/politik/deutschland/mehr-asylsuchende-kehren-freiwillig-in-ihr-heimatland-zurueck-a-0f3e3e71-d7f7-4c42-8231-2f27e12f1652#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-jung-top-ausgebildet-und-nicht-mehr-begehrt](https://www.spiegel.de/wirtschaft/arbeitsmarkt-jung-top-ausgebildet-und-nicht-mehr-begehrt-a-f5d2837a-f6a3-4009-9ba4-fc45ae3ba412#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/mehr-asylsuchende-kehren-freiwillig-in-ihr-heimatland-zurueck](https://www.spiegel.de/politik/deutschland/mehr-asylsuchende-kehren-freiwillig-in-ihr-heimatland-zurueck-a-0f3e3e71-d7f7-4c42-8231-2f27e12f1652#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-2026-das-daenische-ungeheuer-ist-fuer-deutschland-zu-stark-noch](https://www.spiegel.de/sport/handball/handball-em-2026-das-daenische-ungeheuer-ist-fuer-deutschland-zu-stark-noch-a-6a49af15-adfa-4e17-b2b6-7ab53bba77d3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/streik-bei-bus-und-bahn-warnstreiks-im-nahverkehr-legen-deutschland-lahm](https://www.spiegel.de/wirtschaft/streik-bei-bus-und-bahn-warnstreiks-im-nahverkehr-legen-deutschland-lahm-a-1d996f41-e630-4b92-b4ba-eff09ef840ef#ref=rss)
-### gewinner
-
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements](https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements-a-49760875-4c75-40e7-be00-e8407cc77a11#ref=rss)
-* [https://www.spiegel.de/karriere/german-design-award-gewinner-muessen-zahlen-anstatt-preisgeld-zu-bekommen](https://www.spiegel.de/karriere/german-design-award-gewinner-muessen-zahlen-anstatt-preisgeld-zu-bekommen-a-d954dc2c-a3de-4a51-9219-aacbba33bbb8#ref=rss)
-### craig
-
-* [https://www.spiegel.de/sport/tennis/tennis-australian-open-boss-craig-tiley-wuenscht-sich-auch-bei-den-frauen-tennis-matches-ueber-drei-gewinnsaetze](https://www.spiegel.de/sport/tennis/tennis-australian-open-boss-craig-tiley-wuenscht-sich-auch-bei-den-frauen-tennis-matches-ueber-drei-gewinnsaetze-a-3ac05493-55da-4df5-af11-8ef213dac790#ref=rss)
-### tiley
-
-* [https://www.spiegel.de/sport/tennis/tennis-australian-open-boss-craig-tiley-wuenscht-sich-auch-bei-den-frauen-tennis-matches-ueber-drei-gewinnsaetze](https://www.spiegel.de/sport/tennis/tennis-australian-open-boss-craig-tiley-wuenscht-sich-auch-bei-den-frauen-tennis-matches-ueber-drei-gewinnsaetze-a-3ac05493-55da-4df5-af11-8ef213dac790#ref=rss)
-### wünscht
-
-* [https://www.spiegel.de/sport/tennis/tennis-australian-open-boss-craig-tiley-wuenscht-sich-auch-bei-den-frauen-tennis-matches-ueber-drei-gewinnsaetze](https://www.spiegel.de/sport/tennis/tennis-australian-open-boss-craig-tiley-wuenscht-sich-auch-bei-den-frauen-tennis-matches-ueber-drei-gewinnsaetze-a-3ac05493-55da-4df5-af11-8ef213dac790#ref=rss)
+* [https://www.spiegel.de/ausland/jeffrey-epstein-soll-frauen-in-lettland-rekrutiert-haben-polizei-leitet-ermittlungen-ein](https://www.spiegel.de/ausland/jeffrey-epstein-soll-frauen-in-lettland-rekrutiert-haben-polizei-leitet-ermittlungen-ein-a-16d97e6c-b16c-4959-ba8f-fd4ed0595286#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/epstein-files-auch-angela-merkel-und-die-afd-stehen-drin](https://www.spiegel.de/politik/deutschland/epstein-files-auch-angela-merkel-und-die-afd-stehen-drin-a-463747f4-5de1-4188-ae10-21141e04b539#ref=rss)
 ### frauen
 
-* [https://www.spiegel.de/sport/tennis/tennis-australian-open-boss-craig-tiley-wuenscht-sich-auch-bei-den-frauen-tennis-matches-ueber-drei-gewinnsaetze](https://www.spiegel.de/sport/tennis/tennis-australian-open-boss-craig-tiley-wuenscht-sich-auch-bei-den-frauen-tennis-matches-ueber-drei-gewinnsaetze-a-3ac05493-55da-4df5-af11-8ef213dac790#ref=rss)
-### drei
+* [https://www.spiegel.de/ausland/jeffrey-epstein-soll-frauen-in-lettland-rekrutiert-haben-polizei-leitet-ermittlungen-ein](https://www.spiegel.de/ausland/jeffrey-epstein-soll-frauen-in-lettland-rekrutiert-haben-polizei-leitet-ermittlungen-ein-a-16d97e6c-b16c-4959-ba8f-fd4ed0595286#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kuenstliche-intelligenz-spd-frauen-fordern-schutz-vor-diskriminierenden-algorithmen](https://www.spiegel.de/politik/deutschland/kuenstliche-intelligenz-spd-frauen-fordern-schutz-vor-diskriminierenden-algorithmen-a-528da870-7ed5-4b6c-b113-6e2d0c7a5fbf#ref=rss)
+### mode
 
-* [https://www.spiegel.de/sport/tennis/tennis-australian-open-boss-craig-tiley-wuenscht-sich-auch-bei-den-frauen-tennis-matches-ueber-drei-gewinnsaetze](https://www.spiegel.de/sport/tennis/tennis-australian-open-boss-craig-tiley-wuenscht-sich-auch-bei-den-frauen-tennis-matches-ueber-drei-gewinnsaetze-a-3ac05493-55da-4df5-af11-8ef213dac790#ref=rss)
-* [https://www.spiegel.de/panorama/autobahn-a61-drei-menschen-sterben-bei-unfall](https://www.spiegel.de/panorama/autobahn-a61-drei-menschen-sterben-bei-unfall-a-653248c8-244b-4144-bbcb-0f188d6fa9e9#ref=rss)
-### adacverkehrspräsident
+* [https://www.spiegel.de/stil/mode-berlin-fashion-week-die-neue-selbstsicherheit-der-berliner-mode](https://www.spiegel.de/stil/mode-berlin-fashion-week-die-neue-selbstsicherheit-der-berliner-mode-a-d66e2df4-681c-4852-8735-7820bcded833#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/adac-verkehrspraesident-plaediert-fuer-hoeheren-spritpreis-jetzt-ist-er-seinen-job-los](https://www.spiegel.de/wirtschaft/adac-verkehrspraesident-plaediert-fuer-hoeheren-spritpreis-jetzt-ist-er-seinen-job-los-a-1ddfb3fd-4f16-483c-b515-e9439b9e5790#ref=rss)
-### teil
+* [https://www.spiegel.de/wissenschaft/mensch/grosseltern-die-auf-ihre-enkel-aufpassen-sind-geistig-laenger-fit](https://www.spiegel.de/wissenschaft/mensch/grosseltern-die-auf-ihre-enkel-aufpassen-sind-geistig-laenger-fit-a-e9d561ff-efc6-43d9-b290-9898c18fba0e#ref=rss)
+* [https://www.spiegel.de/geschichte/medienrevolutionen-und-oeffentlichkeit-erfinde-das-schreiben-und-demokratie-ist-unvermeidlich](https://www.spiegel.de/geschichte/medienrevolutionen-und-oeffentlichkeit-erfinde-das-schreiben-und-demokratie-ist-unvermeidlich-a-645107fc-b156-4f80-bc3a-1ac3a2ed3459#ref=rss)
+* [https://www.spiegel.de/ausland/russland-greift-geburtsklinik-in-ukraine-an-ich-sah-wie-etwas-auf-uns-zuflog](https://www.spiegel.de/ausland/russland-greift-geburtsklinik-in-ukraine-an-ich-sah-wie-etwas-auf-uns-zuflog-a-3969b39c-e210-4256-b71d-d802e79c99a2#ref=rss)
+### europa
 
-* [https://www.spiegel.de/wirtschaft/adac-verkehrspraesident-plaediert-fuer-hoeheren-spritpreis-jetzt-ist-er-seinen-job-los](https://www.spiegel.de/wirtschaft/adac-verkehrspraesident-plaediert-fuer-hoeheren-spritpreis-jetzt-ist-er-seinen-job-los-a-1ddfb3fd-4f16-483c-b515-e9439b9e5790#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-politiker-zu-geldstrafe-verurteilt](https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-politiker-zu-geldstrafe-verurteilt-a-d2582afd-7e0c-40c8-9471-60a39e21dda5#ref=rss)
-### autofahrer
+* [https://www.spiegel.de/geschichte/medienrevolutionen-und-oeffentlichkeit-erfinde-das-schreiben-und-demokratie-ist-unvermeidlich](https://www.spiegel.de/geschichte/medienrevolutionen-und-oeffentlichkeit-erfinde-das-schreiben-und-demokratie-ist-unvermeidlich-a-645107fc-b156-4f80-bc3a-1ac3a2ed3459#ref=rss)
+* [https://www.spiegel.de/wirtschaft/seltene-erden-eu-foerderungen-fuer-rohstoff-unabhaengigkeit-zeigen-wenig-wirkung](https://www.spiegel.de/wirtschaft/seltene-erden-eu-foerderungen-fuer-rohstoff-unabhaengigkeit-zeigen-wenig-wirkung-a-f869ded1-3b4f-4bd4-9dd6-d5fac84114b3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-kommissar-stephane-sejourne-will-made-in-europe-etablieren](https://www.spiegel.de/wirtschaft/eu-kommissar-stephane-sejourne-will-made-in-europe-etablieren-a-6bd54dd0-9103-4521-a899-204196b523ef#ref=rss)
+### afd
 
-* [https://www.spiegel.de/wirtschaft/adac-verkehrspraesident-plaediert-fuer-hoeheren-spritpreis-jetzt-ist-er-seinen-job-los](https://www.spiegel.de/wirtschaft/adac-verkehrspraesident-plaediert-fuer-hoeheren-spritpreis-jetzt-ist-er-seinen-job-los-a-1ddfb3fd-4f16-483c-b515-e9439b9e5790#ref=rss)
-* [https://www.spiegel.de/wirtschaft/streik-bei-bus-und-bahn-warnstreiks-im-nahverkehr-legen-deutschland-lahm](https://www.spiegel.de/wirtschaft/streik-bei-bus-und-bahn-warnstreiks-im-nahverkehr-legen-deutschland-lahm-a-1d996f41-e630-4b92-b4ba-eff09ef840ef#ref=rss)
-### teufel
+* [https://www.spiegel.de/politik/deutschland/generation-deutschland-neue-jugendorganisation-liefert-belege-fuer-verfassungsfeindlichkeit-der-afd](https://www.spiegel.de/politik/deutschland/generation-deutschland-neue-jugendorganisation-liefert-belege-fuer-verfassungsfeindlichkeit-der-afd-a-84745fc1-e27a-4b2b-a386-abb166792a61#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby-a-d4bcec9c-62a8-46df-a8dc-61942cb420ef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/epstein-files-auch-angela-merkel-und-die-afd-stehen-drin](https://www.spiegel.de/politik/deutschland/epstein-files-auch-angela-merkel-und-die-afd-stehen-drin-a-463747f4-5de1-4188-ae10-21141e04b539#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-2-trailer-miranda-streep-kennt-andy-hathaway-nicht](https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-2-trailer-miranda-streep-kennt-andy-hathaway-nicht-a-a9581a96-d28e-4012-aaa1-a1ef05095b75#ref=rss)
-### trägt
+* [https://www.spiegel.de/sport/handball-em-wie-die-deutschen-spieler-in-den-abgrund-blickten-und-silber-fanden](https://www.spiegel.de/sport/handball-em-wie-die-deutschen-spieler-in-den-abgrund-blickten-und-silber-fanden-a-34241531-84c6-4891-8784-bc283e2b2e60#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-verfehlte-produktionsziele-in-gruenheide-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/tesla-verfehlte-produktionsziele-in-gruenheide-deutlich-a-bb7c9b26-7ca5-4a34-af5b-91106a8269cd#ref=rss)
+### merkel
 
-* [https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-2-trailer-miranda-streep-kennt-andy-hathaway-nicht](https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-2-trailer-miranda-streep-kennt-andy-hathaway-nicht-a-a9581a96-d28e-4012-aaa1-a1ef05095b75#ref=rss)
-### prada
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby-a-d4bcec9c-62a8-46df-a8dc-61942cb420ef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/epstein-files-auch-angela-merkel-und-die-afd-stehen-drin](https://www.spiegel.de/politik/deutschland/epstein-files-auch-angela-merkel-und-die-afd-stehen-drin-a-463747f4-5de1-4188-ae10-21141e04b539#ref=rss)
+### fest
 
-* [https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-2-trailer-miranda-streep-kennt-andy-hathaway-nicht](https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-2-trailer-miranda-streep-kennt-andy-hathaway-nicht-a-a9581a96-d28e-4012-aaa1-a1ef05095b75#ref=rss)
-### miranda
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby-a-d4bcec9c-62a8-46df-a8dc-61942cb420ef#ref=rss)
+* [https://www.spiegel.de/kultur/musik/udo-lindenberg-fans-suchen-lieder-fuer-sein-geburtstagsalbum-aus](https://www.spiegel.de/kultur/musik/udo-lindenberg-fans-suchen-lieder-fuer-sein-geburtstagsalbum-aus-a-962bb279-4ad2-4c2f-bdd7-e37e50260b7b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-verfehlte-produktionsziele-in-gruenheide-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/tesla-verfehlte-produktionsziele-in-gruenheide-deutlich-a-bb7c9b26-7ca5-4a34-af5b-91106a8269cd#ref=rss)
+### zielen
 
-* [https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-2-trailer-miranda-streep-kennt-andy-hathaway-nicht](https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-2-trailer-miranda-streep-kennt-andy-hathaway-nicht-a-a9581a96-d28e-4012-aaa1-a1ef05095b75#ref=rss)
-### streep
+* [https://www.spiegel.de/panorama/justiz/belgien-estland-bruessel-will-haeftlinge-ohne-aufenthaltserlaubnis-auslagern](https://www.spiegel.de/panorama/justiz/belgien-estland-bruessel-will-haeftlinge-ohne-aufenthaltserlaubnis-auslagern-a-03e3f345-0567-4c19-833b-fca9b5c8f92d#ref=rss)
+* [https://www.spiegel.de/ausland/russland-greift-geburtsklinik-in-ukraine-an-ich-sah-wie-etwas-auf-uns-zuflog](https://www.spiegel.de/ausland/russland-greift-geburtsklinik-in-ukraine-an-ich-sah-wie-etwas-auf-uns-zuflog-a-3969b39c-e210-4256-b71d-d802e79c99a2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-verfehlte-produktionsziele-in-gruenheide-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/tesla-verfehlte-produktionsziele-in-gruenheide-deutlich-a-bb7c9b26-7ca5-4a34-af5b-91106a8269cd#ref=rss)
+### akten
 
-* [https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-2-trailer-miranda-streep-kennt-andy-hathaway-nicht](https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-2-trailer-miranda-streep-kennt-andy-hathaway-nicht-a-a9581a96-d28e-4012-aaa1-a1ef05095b75#ref=rss)
-### hathaway
+* [https://www.spiegel.de/ausland/jeffrey-epstein-soll-frauen-in-lettland-rekrutiert-haben-polizei-leitet-ermittlungen-ein](https://www.spiegel.de/ausland/jeffrey-epstein-soll-frauen-in-lettland-rekrutiert-haben-polizei-leitet-ermittlungen-ein-a-16d97e6c-b16c-4959-ba8f-fd4ed0595286#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/epstein-files-auch-angela-merkel-und-die-afd-stehen-drin](https://www.spiegel.de/politik/deutschland/epstein-files-auch-angela-merkel-und-die-afd-stehen-drin-a-463747f4-5de1-4188-ae10-21141e04b539#ref=rss)
+### selbstsicherheit
 
-* [https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-2-trailer-miranda-streep-kennt-andy-hathaway-nicht](https://www.spiegel.de/kultur/kino/der-teufel-traegt-prada-2-trailer-miranda-streep-kennt-andy-hathaway-nicht-a-a9581a96-d28e-4012-aaa1-a1ef05095b75#ref=rss)
+* [https://www.spiegel.de/stil/mode-berlin-fashion-week-die-neue-selbstsicherheit-der-berliner-mode](https://www.spiegel.de/stil/mode-berlin-fashion-week-die-neue-selbstsicherheit-der-berliner-mode-a-d66e2df4-681c-4852-8735-7820bcded833#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/stil/mode-berlin-fashion-week-die-neue-selbstsicherheit-der-berliner-mode](https://www.spiegel.de/stil/mode-berlin-fashion-week-die-neue-selbstsicherheit-der-berliner-mode-a-d66e2df4-681c-4852-8735-7820bcded833#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/wirtschaft/soziales/zahnarztbehandlung-selbst-bezahlen-was-bringt-der-vorschlag-des-cdu-wirtschaftsrats](https://www.spiegel.de/wirtschaft/soziales/zahnarztbehandlung-selbst-bezahlen-was-bringt-der-vorschlag-des-cdu-wirtschaftsrats-a-70887ee5-63cd-4812-8604-3f83eec439e4#ref=rss)
+### bringt
+
+* [https://www.spiegel.de/wirtschaft/soziales/zahnarztbehandlung-selbst-bezahlen-was-bringt-der-vorschlag-des-cdu-wirtschaftsrats](https://www.spiegel.de/wirtschaft/soziales/zahnarztbehandlung-selbst-bezahlen-was-bringt-der-vorschlag-des-cdu-wirtschaftsrats-a-70887ee5-63cd-4812-8604-3f83eec439e4#ref=rss)
+* [https://www.spiegel.de/kultur/musik/udo-lindenberg-fans-suchen-lieder-fuer-sein-geburtstagsalbum-aus](https://www.spiegel.de/kultur/musik/udo-lindenberg-fans-suchen-lieder-fuer-sein-geburtstagsalbum-aus-a-962bb279-4ad2-4c2f-bdd7-e37e50260b7b#ref=rss)
+### vorschlag
+
+* [https://www.spiegel.de/wirtschaft/soziales/zahnarztbehandlung-selbst-bezahlen-was-bringt-der-vorschlag-des-cdu-wirtschaftsrats](https://www.spiegel.de/wirtschaft/soziales/zahnarztbehandlung-selbst-bezahlen-was-bringt-der-vorschlag-des-cdu-wirtschaftsrats-a-70887ee5-63cd-4812-8604-3f83eec439e4#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/eu-ungarn-klagt-gegen-verbot-von-gasimporten-aus-russland](https://www.spiegel.de/ausland/eu-ungarn-klagt-gegen-verbot-von-gasimporten-aus-russland-a-5361f42a-6935-4391-be9d-ec57782d9bc1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/seltene-erden-eu-foerderungen-fuer-rohstoff-unabhaengigkeit-zeigen-wenig-wirkung](https://www.spiegel.de/wirtschaft/seltene-erden-eu-foerderungen-fuer-rohstoff-unabhaengigkeit-zeigen-wenig-wirkung-a-f869ded1-3b4f-4bd4-9dd6-d5fac84114b3#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/eu-ungarn-klagt-gegen-verbot-von-gasimporten-aus-russland](https://www.spiegel.de/ausland/eu-ungarn-klagt-gegen-verbot-von-gasimporten-aus-russland-a-5361f42a-6935-4391-be9d-ec57782d9bc1#ref=rss)
+### großeltern
+
+* [https://www.spiegel.de/wissenschaft/mensch/grosseltern-die-auf-ihre-enkel-aufpassen-sind-geistig-laenger-fit](https://www.spiegel.de/wissenschaft/mensch/grosseltern-die-auf-ihre-enkel-aufpassen-sind-geistig-laenger-fit-a-e9d561ff-efc6-43d9-b290-9898c18fba0e#ref=rss)
+### enkel
+
+* [https://www.spiegel.de/wissenschaft/mensch/grosseltern-die-auf-ihre-enkel-aufpassen-sind-geistig-laenger-fit](https://www.spiegel.de/wissenschaft/mensch/grosseltern-die-auf-ihre-enkel-aufpassen-sind-geistig-laenger-fit-a-e9d561ff-efc6-43d9-b290-9898c18fba0e#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/wissenschaft/mensch/grosseltern-die-auf-ihre-enkel-aufpassen-sind-geistig-laenger-fit](https://www.spiegel.de/wissenschaft/mensch/grosseltern-die-auf-ihre-enkel-aufpassen-sind-geistig-laenger-fit-a-e9d561ff-efc6-43d9-b290-9898c18fba0e#ref=rss)
+* [https://www.spiegel.de/ausland/russland-greift-geburtsklinik-in-ukraine-an-ich-sah-wie-etwas-auf-uns-zuflog](https://www.spiegel.de/ausland/russland-greift-geburtsklinik-in-ukraine-an-ich-sah-wie-etwas-auf-uns-zuflog-a-3969b39c-e210-4256-b71d-d802e79c99a2#ref=rss)
+### öffentlichkeit
+
+* [https://www.spiegel.de/geschichte/medienrevolutionen-und-oeffentlichkeit-erfinde-das-schreiben-und-demokratie-ist-unvermeidlich](https://www.spiegel.de/geschichte/medienrevolutionen-und-oeffentlichkeit-erfinde-das-schreiben-und-demokratie-ist-unvermeidlich-a-645107fc-b156-4f80-bc3a-1ac3a2ed3459#ref=rss)
+### schreiben
+
+* [https://www.spiegel.de/geschichte/medienrevolutionen-und-oeffentlichkeit-erfinde-das-schreiben-und-demokratie-ist-unvermeidlich](https://www.spiegel.de/geschichte/medienrevolutionen-und-oeffentlichkeit-erfinde-das-schreiben-und-demokratie-ist-unvermeidlich-a-645107fc-b156-4f80-bc3a-1ac3a2ed3459#ref=rss)
+* [https://www.spiegel.de/start/hausarbeit-schreiben-so-gelingt-die-erste-hausarbeit-ohne-zu-betruegen](https://www.spiegel.de/start/hausarbeit-schreiben-so-gelingt-die-erste-hausarbeit-ohne-zu-betruegen-a-9bd639a3-5044-482c-a406-27f4b27fb72a#ref=rss)
+### demokratie
+
+* [https://www.spiegel.de/geschichte/medienrevolutionen-und-oeffentlichkeit-erfinde-das-schreiben-und-demokratie-ist-unvermeidlich](https://www.spiegel.de/geschichte/medienrevolutionen-und-oeffentlichkeit-erfinde-das-schreiben-und-demokratie-ist-unvermeidlich-a-645107fc-b156-4f80-bc3a-1ac3a2ed3459#ref=rss)
+### künstliche
+
+* [https://www.spiegel.de/politik/deutschland/kuenstliche-intelligenz-spd-frauen-fordern-schutz-vor-diskriminierenden-algorithmen](https://www.spiegel.de/politik/deutschland/kuenstliche-intelligenz-spd-frauen-fordern-schutz-vor-diskriminierenden-algorithmen-a-528da870-7ed5-4b6c-b113-6e2d0c7a5fbf#ref=rss)
+### intelligenz
+
+* [https://www.spiegel.de/politik/deutschland/kuenstliche-intelligenz-spd-frauen-fordern-schutz-vor-diskriminierenden-algorithmen](https://www.spiegel.de/politik/deutschland/kuenstliche-intelligenz-spd-frauen-fordern-schutz-vor-diskriminierenden-algorithmen-a-528da870-7ed5-4b6c-b113-6e2d0c7a5fbf#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/generation-deutschland-neue-jugendorganisation-liefert-belege-fuer-verfassungsfeindlichkeit-der-afd](https://www.spiegel.de/politik/deutschland/generation-deutschland-neue-jugendorganisation-liefert-belege-fuer-verfassungsfeindlichkeit-der-afd-a-84745fc1-e27a-4b2b-a386-abb166792a61#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/warnstreiks-im-nahverkehr-so-anstrengend-ist-der-job-als-bus-und-bahnfahrer-und-so-viel-verdient-man](https://www.spiegel.de/wirtschaft/soziales/warnstreiks-im-nahverkehr-so-anstrengend-ist-der-job-als-bus-und-bahnfahrer-und-so-viel-verdient-man-a-09c65356-d795-4c1b-aa31-e2b9b62ab9f5#ref=rss)
+### masernausbruch
+
+* [https://www.spiegel.de/ausland/texas-behoerden-melden-masernausbruch-in-ice-haftanstalt](https://www.spiegel.de/ausland/texas-behoerden-melden-masernausbruch-in-ice-haftanstalt-a-b0b43fad-ba55-4d6a-aef1-2a3540c52991#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/ausland/texas-behoerden-melden-masernausbruch-in-ice-haftanstalt](https://www.spiegel.de/ausland/texas-behoerden-melden-masernausbruch-in-ice-haftanstalt-a-b0b43fad-ba55-4d6a-aef1-2a3540c52991#ref=rss)
+* [https://www.spiegel.de/kultur/kuenstlicher-kulturkampf-um-die-schoene-helena](https://www.spiegel.de/kultur/kuenstlicher-kulturkampf-um-die-schoene-helena-a-34a52ff3-15c1-4f24-8020-62fd23edc15b#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/texas-behoerden-melden-masernausbruch-in-ice-haftanstalt](https://www.spiegel.de/ausland/texas-behoerden-melden-masernausbruch-in-ice-haftanstalt-a-b0b43fad-ba55-4d6a-aef1-2a3540c52991#ref=rss)
+* [https://www.spiegel.de/wissenschaft/ukraine-krieg-in-der-kaelte-die-leitungen-platzen-wie-eine-flasche-wasser-im-eisfach](https://www.spiegel.de/wissenschaft/ukraine-krieg-in-der-kaelte-die-leitungen-platzen-wie-eine-flasche-wasser-im-eisfach-a-dd16b7e9-9d6f-4385-a5c1-688dc3237f35#ref=rss)
+### epsteinfiles
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby-a-d4bcec9c-62a8-46df-a8dc-61942cb420ef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/epstein-files-auch-angela-merkel-und-die-afd-stehen-drin](https://www.spiegel.de/politik/deutschland/epstein-files-auch-angela-merkel-und-die-afd-stehen-drin-a-463747f4-5de1-4188-ae10-21141e04b539#ref=rss)
+### trump
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby-a-d4bcec9c-62a8-46df-a8dc-61942cb420ef#ref=rss)
+### schließt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby-a-d4bcec9c-62a8-46df-a8dc-61942cb420ef#ref=rss)
+### kennedy
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby-a-d4bcec9c-62a8-46df-a8dc-61942cb420ef#ref=rss)
+### center
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby-a-d4bcec9c-62a8-46df-a8dc-61942cb420ef#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby-a-d4bcec9c-62a8-46df-a8dc-61942cb420ef#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dormagen-14-jaehriger-yosef-aus-eritrea-tot-aufgefunden-was-ueber-den-fall-bekannt-ist](https://www.spiegel.de/panorama/justiz/dormagen-14-jaehriger-yosef-aus-eritrea-tot-aufgefunden-was-ueber-den-fall-bekannt-ist-a-ce48fa4f-2fc6-4e52-b1dc-556efd631771#ref=rss)
+### norwegischen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby-a-d4bcec9c-62a8-46df-a8dc-61942cb420ef#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/skispringen-in-willingen-norwegens-skispringer-kurz-vor-olympia-bestohlen](https://www.spiegel.de/sport/wintersport/skispringen-in-willingen-norwegens-skispringer-kurz-vor-olympia-bestohlen-a-fd1791ce-17a5-423e-8464-58b2f4beff09#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby](https://www.spiegel.de/politik/deutschland/news-des-tages-epstein-files-donald-trump-schliesst-kennedy-center-marius-borg-hoiby-a-d4bcec9c-62a8-46df-a8dc-61942cb420ef#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/skispringen-in-willingen-norwegens-skispringer-kurz-vor-olympia-bestohlen](https://www.spiegel.de/sport/wintersport/skispringen-in-willingen-norwegens-skispringer-kurz-vor-olympia-bestohlen-a-fd1791ce-17a5-423e-8464-58b2f4beff09#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/wirtschaft/seltene-erden-eu-foerderungen-fuer-rohstoff-unabhaengigkeit-zeigen-wenig-wirkung](https://www.spiegel.de/wirtschaft/seltene-erden-eu-foerderungen-fuer-rohstoff-unabhaengigkeit-zeigen-wenig-wirkung-a-f869ded1-3b4f-4bd4-9dd6-d5fac84114b3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-verfehlte-produktionsziele-in-gruenheide-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/tesla-verfehlte-produktionsziele-in-gruenheide-deutlich-a-bb7c9b26-7ca5-4a34-af5b-91106a8269cd#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/seltene-erden-eu-foerderungen-fuer-rohstoff-unabhaengigkeit-zeigen-wenig-wirkung](https://www.spiegel.de/wirtschaft/seltene-erden-eu-foerderungen-fuer-rohstoff-unabhaengigkeit-zeigen-wenig-wirkung-a-f869ded1-3b4f-4bd4-9dd6-d5fac84114b3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-kommissar-stephane-sejourne-will-made-in-europe-etablieren](https://www.spiegel.de/wirtschaft/eu-kommissar-stephane-sejourne-will-made-in-europe-etablieren-a-6bd54dd0-9103-4521-a899-204196b523ef#ref=rss)
+### auto
+
+* [https://www.spiegel.de/panorama/oldenburg-29-jaehriger-rettet-70-jaehrigen-aus-versinkendem-auto](https://www.spiegel.de/panorama/oldenburg-29-jaehriger-rettet-70-jaehrigen-aus-versinkendem-auto-a-52c667a1-d2c5-4f46-965b-44d103c030b0#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/oldenburg-29-jaehriger-rettet-70-jaehrigen-aus-versinkendem-auto](https://www.spiegel.de/panorama/oldenburg-29-jaehriger-rettet-70-jaehrigen-aus-versinkendem-auto-a-52c667a1-d2c5-4f46-965b-44d103c030b0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-mann-wird-wegen-granate-aus-dem-ersten-weltkrieg-im-po-notoperiert](https://www.spiegel.de/panorama/justiz/frankreich-mann-wird-wegen-granate-aus-dem-ersten-weltkrieg-im-po-notoperiert-a-976d7ad2-0517-4c47-808a-e992b0cff9c5#ref=rss)
+### syrische
+
+* [https://www.spiegel.de/ausland/syrien-syrische-regierungstruppen-ruecken-in-kurden-hochburg-ein](https://www.spiegel.de/ausland/syrien-syrische-regierungstruppen-ruecken-in-kurden-hochburg-ein-a-58102535-e420-4134-9d41-7458fb91e323#ref=rss)
+### regierungstruppen
+
+* [https://www.spiegel.de/ausland/syrien-syrische-regierungstruppen-ruecken-in-kurden-hochburg-ein](https://www.spiegel.de/ausland/syrien-syrische-regierungstruppen-ruecken-in-kurden-hochburg-ein-a-58102535-e420-4134-9d41-7458fb91e323#ref=rss)
+### daniel
+
+* [https://www.spiegel.de/politik/deutschland/daniel-halemba-geldstrafe-fuer-afd-politiker-wegen-geldwaesche](https://www.spiegel.de/politik/deutschland/daniel-halemba-geldstrafe-fuer-afd-politiker-wegen-geldwaesche-a-cf8fa557-6164-4862-8776-a24e77c240b2#ref=rss)
+### halemba
+
+* [https://www.spiegel.de/politik/deutschland/daniel-halemba-geldstrafe-fuer-afd-politiker-wegen-geldwaesche](https://www.spiegel.de/politik/deutschland/daniel-halemba-geldstrafe-fuer-afd-politiker-wegen-geldwaesche-a-cf8fa557-6164-4862-8776-a24e77c240b2#ref=rss)
+### geldstrafe
+
+* [https://www.spiegel.de/politik/deutschland/daniel-halemba-geldstrafe-fuer-afd-politiker-wegen-geldwaesche](https://www.spiegel.de/politik/deutschland/daniel-halemba-geldstrafe-fuer-afd-politiker-wegen-geldwaesche-a-cf8fa557-6164-4862-8776-a24e77c240b2#ref=rss)
+### afdpolitiker
+
+* [https://www.spiegel.de/politik/deutschland/daniel-halemba-geldstrafe-fuer-afd-politiker-wegen-geldwaesche](https://www.spiegel.de/politik/deutschland/daniel-halemba-geldstrafe-fuer-afd-politiker-wegen-geldwaesche-a-cf8fa557-6164-4862-8776-a24e77c240b2#ref=rss)
+### geldwäsche
+
+* [https://www.spiegel.de/politik/deutschland/daniel-halemba-geldstrafe-fuer-afd-politiker-wegen-geldwaesche](https://www.spiegel.de/politik/deutschland/daniel-halemba-geldstrafe-fuer-afd-politiker-wegen-geldwaesche-a-cf8fa557-6164-4862-8776-a24e77c240b2#ref=rss)
+### kaspersky
+
+* [https://www.spiegel.de/netzwelt/kaspersky-russische-it-firma-droht-mit-millionenklage-gegen-deutsche-behoerde](https://www.spiegel.de/netzwelt/kaspersky-russische-it-firma-droht-mit-millionenklage-gegen-deutsche-behoerde-a-68a6c299-be73-4a58-acb9-5b6217141363#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/netzwelt/kaspersky-russische-it-firma-droht-mit-millionenklage-gegen-deutsche-behoerde](https://www.spiegel.de/netzwelt/kaspersky-russische-it-firma-droht-mit-millionenklage-gegen-deutsche-behoerde-a-68a6c299-be73-4a58-acb9-5b6217141363#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/epstein-files-auch-angela-merkel-und-die-afd-stehen-drin](https://www.spiegel.de/politik/deutschland/epstein-files-auch-angela-merkel-und-die-afd-stehen-drin-a-463747f4-5de1-4188-ae10-21141e04b539#ref=rss)
+### belgien
+
+* [https://www.spiegel.de/panorama/justiz/belgien-estland-bruessel-will-haeftlinge-ohne-aufenthaltserlaubnis-auslagern](https://www.spiegel.de/panorama/justiz/belgien-estland-bruessel-will-haeftlinge-ohne-aufenthaltserlaubnis-auslagern-a-03e3f345-0567-4c19-833b-fca9b5c8f92d#ref=rss)
+### dormagen
+
+* [https://www.spiegel.de/panorama/justiz/dormagen-14-jaehriger-yosef-aus-eritrea-tot-aufgefunden-was-ueber-den-fall-bekannt-ist](https://www.spiegel.de/panorama/justiz/dormagen-14-jaehriger-yosef-aus-eritrea-tot-aufgefunden-was-ueber-den-fall-bekannt-ist-a-ce48fa4f-2fc6-4e52-b1dc-556efd631771#ref=rss)
+### yosef
+
+* [https://www.spiegel.de/panorama/justiz/dormagen-14-jaehriger-yosef-aus-eritrea-tot-aufgefunden-was-ueber-den-fall-bekannt-ist](https://www.spiegel.de/panorama/justiz/dormagen-14-jaehriger-yosef-aus-eritrea-tot-aufgefunden-was-ueber-den-fall-bekannt-ist-a-ce48fa4f-2fc6-4e52-b1dc-556efd631771#ref=rss)
+### udo
+
+* [https://www.spiegel.de/kultur/musik/udo-lindenberg-fans-suchen-lieder-fuer-sein-geburtstagsalbum-aus](https://www.spiegel.de/kultur/musik/udo-lindenberg-fans-suchen-lieder-fuer-sein-geburtstagsalbum-aus-a-962bb279-4ad2-4c2f-bdd7-e37e50260b7b#ref=rss)
+### lindenberg
+
+* [https://www.spiegel.de/kultur/musik/udo-lindenberg-fans-suchen-lieder-fuer-sein-geburtstagsalbum-aus](https://www.spiegel.de/kultur/musik/udo-lindenberg-fans-suchen-lieder-fuer-sein-geburtstagsalbum-aus-a-962bb279-4ad2-4c2f-bdd7-e37e50260b7b#ref=rss)
+### angela
+
+* [https://www.spiegel.de/politik/deutschland/epstein-files-auch-angela-merkel-und-die-afd-stehen-drin](https://www.spiegel.de/politik/deutschland/epstein-files-auch-angela-merkel-und-die-afd-stehen-drin-a-463747f4-5de1-4188-ae10-21141e04b539#ref=rss)
+### stéphane
+
+* [https://www.spiegel.de/wirtschaft/eu-kommissar-stephane-sejourne-will-made-in-europe-etablieren](https://www.spiegel.de/wirtschaft/eu-kommissar-stephane-sejourne-will-made-in-europe-etablieren-a-6bd54dd0-9103-4521-a899-204196b523ef#ref=rss)
+### willingen
+
+* [https://www.spiegel.de/sport/wintersport/skispringen-in-willingen-norwegens-skispringer-kurz-vor-olympia-bestohlen](https://www.spiegel.de/sport/wintersport/skispringen-in-willingen-norwegens-skispringer-kurz-vor-olympia-bestohlen-a-fd1791ce-17a5-423e-8464-58b2f4beff09#ref=rss)
+### signale
+
+* [https://www.spiegel.de/kultur/dschungelcamp-2026-tag-10-sexuelle-signale-und-ihre-interpretation](https://www.spiegel.de/kultur/dschungelcamp-2026-tag-10-sexuelle-signale-und-ihre-interpretation-a-afdf5aaf-6bcf-4951-aca1-d3203366c6ba#ref=rss)
+### kälte
+
+* [https://www.spiegel.de/wissenschaft/ukraine-krieg-in-der-kaelte-die-leitungen-platzen-wie-eine-flasche-wasser-im-eisfach](https://www.spiegel.de/wissenschaft/ukraine-krieg-in-der-kaelte-die-leitungen-platzen-wie-eine-flasche-wasser-im-eisfach-a-dd16b7e9-9d6f-4385-a5c1-688dc3237f35#ref=rss)
+### wasser
+
+* [https://www.spiegel.de/wissenschaft/ukraine-krieg-in-der-kaelte-die-leitungen-platzen-wie-eine-flasche-wasser-im-eisfach](https://www.spiegel.de/wissenschaft/ukraine-krieg-in-der-kaelte-die-leitungen-platzen-wie-eine-flasche-wasser-im-eisfach-a-dd16b7e9-9d6f-4385-a5c1-688dc3237f35#ref=rss)
+### greift
+
+* [https://www.spiegel.de/wissenschaft/ukraine-krieg-in-der-kaelte-die-leitungen-platzen-wie-eine-flasche-wasser-im-eisfach](https://www.spiegel.de/wissenschaft/ukraine-krieg-in-der-kaelte-die-leitungen-platzen-wie-eine-flasche-wasser-im-eisfach-a-dd16b7e9-9d6f-4385-a5c1-688dc3237f35#ref=rss)
+* [https://www.spiegel.de/ausland/russland-greift-geburtsklinik-in-ukraine-an-ich-sah-wie-etwas-auf-uns-zuflog](https://www.spiegel.de/ausland/russland-greift-geburtsklinik-in-ukraine-an-ich-sah-wie-etwas-auf-uns-zuflog-a-3969b39c-e210-4256-b71d-d802e79c99a2#ref=rss)
+### geburtsklinik
+
+* [https://www.spiegel.de/ausland/russland-greift-geburtsklinik-in-ukraine-an-ich-sah-wie-etwas-auf-uns-zuflog](https://www.spiegel.de/ausland/russland-greift-geburtsklinik-in-ukraine-an-ich-sah-wie-etwas-auf-uns-zuflog-a-3969b39c-e210-4256-b71d-d802e79c99a2#ref=rss)
+### nahverkehr
+
+* [https://www.spiegel.de/wirtschaft/soziales/warnstreiks-im-nahverkehr-so-anstrengend-ist-der-job-als-bus-und-bahnfahrer-und-so-viel-verdient-man](https://www.spiegel.de/wirtschaft/soziales/warnstreiks-im-nahverkehr-so-anstrengend-ist-der-job-als-bus-und-bahnfahrer-und-so-viel-verdient-man-a-09c65356-d795-4c1b-aa31-e2b9b62ab9f5#ref=rss)
+### anstrengend
+
+* [https://www.spiegel.de/wirtschaft/soziales/warnstreiks-im-nahverkehr-so-anstrengend-ist-der-job-als-bus-und-bahnfahrer-und-so-viel-verdient-man](https://www.spiegel.de/wirtschaft/soziales/warnstreiks-im-nahverkehr-so-anstrengend-ist-der-job-als-bus-und-bahnfahrer-und-so-viel-verdient-man-a-09c65356-d795-4c1b-aa31-e2b9b62ab9f5#ref=rss)
+### job
+
+* [https://www.spiegel.de/wirtschaft/soziales/warnstreiks-im-nahverkehr-so-anstrengend-ist-der-job-als-bus-und-bahnfahrer-und-so-viel-verdient-man](https://www.spiegel.de/wirtschaft/soziales/warnstreiks-im-nahverkehr-so-anstrengend-ist-der-job-als-bus-und-bahnfahrer-und-so-viel-verdient-man-a-09c65356-d795-4c1b-aa31-e2b9b62ab9f5#ref=rss)
 ### hausarbeit
 
 * [https://www.spiegel.de/start/hausarbeit-schreiben-so-gelingt-die-erste-hausarbeit-ohne-zu-betruegen](https://www.spiegel.de/start/hausarbeit-schreiben-so-gelingt-die-erste-hausarbeit-ohne-zu-betruegen-a-9bd639a3-5044-482c-a406-27f4b27fb72a#ref=rss)
-### tipps
+### tesla
 
-* [https://www.spiegel.de/start/hausarbeit-schreiben-so-gelingt-die-erste-hausarbeit-ohne-zu-betruegen](https://www.spiegel.de/start/hausarbeit-schreiben-so-gelingt-die-erste-hausarbeit-ohne-zu-betruegen-a-9bd639a3-5044-482c-a406-27f4b27fb72a#ref=rss)
-* [https://www.spiegel.de/karriere/karriere-souveraen-auf-teilzeit-kommentare-reagieren-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/karriere-souveraen-auf-teilzeit-kommentare-reagieren-tipps-vom-karrierecoach-a-4cb016c4-f1ad-4c16-b47f-231caa47394e#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-politiker-zu-geldstrafe-verurteilt](https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-politiker-zu-geldstrafe-verurteilt-a-d2582afd-7e0c-40c8-9471-60a39e21dda5#ref=rss)
-### halemba
-
-* [https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-politiker-zu-geldstrafe-verurteilt](https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-politiker-zu-geldstrafe-verurteilt-a-d2582afd-7e0c-40c8-9471-60a39e21dda5#ref=rss)
-### afdpolitiker
-
-* [https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-politiker-zu-geldstrafe-verurteilt](https://www.spiegel.de/politik/deutschland/daniel-halemba-afd-politiker-zu-geldstrafe-verurteilt-a-d2582afd-7e0c-40c8-9471-60a39e21dda5#ref=rss)
-### sulz
-
-* [https://www.spiegel.de/panorama/sulz-am-neckar-umstuerzende-theke-erschlaegt-siebenjaehrige-in-narrenheim](https://www.spiegel.de/panorama/sulz-am-neckar-umstuerzende-theke-erschlaegt-siebenjaehrige-in-narrenheim-a-9765d0a9-d21f-4352-8943-8877519cdee5#ref=rss)
-### neckar
-
-* [https://www.spiegel.de/panorama/sulz-am-neckar-umstuerzende-theke-erschlaegt-siebenjaehrige-in-narrenheim](https://www.spiegel.de/panorama/sulz-am-neckar-umstuerzende-theke-erschlaegt-siebenjaehrige-in-narrenheim-a-9765d0a9-d21f-4352-8943-8877519cdee5#ref=rss)
-### theke
-
-* [https://www.spiegel.de/panorama/sulz-am-neckar-umstuerzende-theke-erschlaegt-siebenjaehrige-in-narrenheim](https://www.spiegel.de/panorama/sulz-am-neckar-umstuerzende-theke-erschlaegt-siebenjaehrige-in-narrenheim-a-9765d0a9-d21f-4352-8943-8877519cdee5#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/sulz-am-neckar-umstuerzende-theke-erschlaegt-siebenjaehrige-in-narrenheim](https://www.spiegel.de/panorama/sulz-am-neckar-umstuerzende-theke-erschlaegt-siebenjaehrige-in-narrenheim-a-9765d0a9-d21f-4352-8943-8877519cdee5#ref=rss)
-* [https://www.spiegel.de/panorama/autobahn-a61-drei-menschen-sterben-bei-unfall](https://www.spiegel.de/panorama/autobahn-a61-drei-menschen-sterben-bei-unfall-a-653248c8-244b-4144-bbcb-0f188d6fa9e9#ref=rss)
-### gaza
-
-* [https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus](https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus-a-03ab0961-f428-4d09-9adf-fdb011e61de1#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus](https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus-a-03ab0961-f428-4d09-9adf-fdb011e61de1#ref=rss)
-### öffnet
-
-* [https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus](https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus-a-03ab0961-f428-4d09-9adf-fdb011e61de1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gelsenkirchen-sparkasse-oeffnet-nach-einbruch-kunden-anlaufstelle](https://www.spiegel.de/wirtschaft/gelsenkirchen-sparkasse-oeffnet-nach-einbruch-kunden-anlaufstelle-a-92a5445d-881b-4e7b-96d1-11761963c660#ref=rss)
-### grenzübergang
-
-* [https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus](https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus-a-03ab0961-f428-4d09-9adf-fdb011e61de1#ref=rss)
-### rafah
-
-* [https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus](https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus-a-03ab0961-f428-4d09-9adf-fdb011e61de1#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus](https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus-a-03ab0961-f428-4d09-9adf-fdb011e61de1#ref=rss)
-### dutzende
-
-* [https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus](https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus-a-03ab0961-f428-4d09-9adf-fdb011e61de1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-jung-top-ausgebildet-und-nicht-mehr-begehrt](https://www.spiegel.de/wirtschaft/arbeitsmarkt-jung-top-ausgebildet-und-nicht-mehr-begehrt-a-f5d2837a-f6a3-4009-9ba4-fc45ae3ba412#ref=rss)
-### kehren
-
-* [https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus](https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus-a-03ab0961-f428-4d09-9adf-fdb011e61de1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mehr-asylsuchende-kehren-freiwillig-in-ihr-heimatland-zurueck](https://www.spiegel.de/politik/deutschland/mehr-asylsuchende-kehren-freiwillig-in-ihr-heimatland-zurueck-a-0f3e3e71-d7f7-4c42-8231-2f27e12f1652#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus](https://www.spiegel.de/ausland/gaza-israel-oeffnet-grenzuebergang-rafah-kranke-und-verletzte-reisen-aus-a-03ab0961-f428-4d09-9adf-fdb011e61de1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mehr-asylsuchende-kehren-freiwillig-in-ihr-heimatland-zurueck](https://www.spiegel.de/politik/deutschland/mehr-asylsuchende-kehren-freiwillig-in-ihr-heimatland-zurueck-a-0f3e3e71-d7f7-4c42-8231-2f27e12f1652#ref=rss)
-### donald
-
-* [https://www.spiegel.de/politik/donald-trump-in-der-pessimismus-falle-kolumne](https://www.spiegel.de/politik/donald-trump-in-der-pessimismus-falle-kolumne-a-df3309c5-f72e-456d-9627-2ab0db81998b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-kaelte-in-kyjiw-ukraine-jeffrey-epstein-akten-und-donald-trump-tod-von-rita-suessmuth](https://www.spiegel.de/politik/deutschland/news-kaelte-in-kyjiw-ukraine-jeffrey-epstein-akten-und-donald-trump-tod-von-rita-suessmuth-a-2bb47c5b-4c03-438b-87b7-fefb61dd822a#ref=rss)
-### trump
-
-* [https://www.spiegel.de/politik/donald-trump-in-der-pessimismus-falle-kolumne](https://www.spiegel.de/politik/donald-trump-in-der-pessimismus-falle-kolumne-a-df3309c5-f72e-456d-9627-2ab0db81998b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-kaelte-in-kyjiw-ukraine-jeffrey-epstein-akten-und-donald-trump-tod-von-rita-suessmuth](https://www.spiegel.de/politik/deutschland/news-kaelte-in-kyjiw-ukraine-jeffrey-epstein-akten-und-donald-trump-tod-von-rita-suessmuth-a-2bb47c5b-4c03-438b-87b7-fefb61dd822a#ref=rss)
-### alles
-
-* [https://www.spiegel.de/politik/donald-trump-in-der-pessimismus-falle-kolumne](https://www.spiegel.de/politik/donald-trump-in-der-pessimismus-falle-kolumne-a-df3309c5-f72e-456d-9627-2ab0db81998b#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show](https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show-a-ba86d42f-e22f-4a70-aa9d-e9f086aa9cca#ref=rss)
-### autos
-
-* [https://www.spiegel.de/politik/donald-trump-in-der-pessimismus-falle-kolumne](https://www.spiegel.de/politik/donald-trump-in-der-pessimismus-falle-kolumne-a-df3309c5-f72e-456d-9627-2ab0db81998b#ref=rss)
-* [https://www.spiegel.de/panorama/autobahn-a61-drei-menschen-sterben-bei-unfall](https://www.spiegel.de/panorama/autobahn-a61-drei-menschen-sterben-bei-unfall-a-653248c8-244b-4144-bbcb-0f188d6fa9e9#ref=rss)
-### herbert
-
-* [https://www.spiegel.de/politik/deutschland/herbert-reul-innenrevision-prueft-moegliche-einmischung-des-nrw-innenministers](https://www.spiegel.de/politik/deutschland/herbert-reul-innenrevision-prueft-moegliche-einmischung-des-nrw-innenministers-a-594e97c4-aa72-4c59-b5be-163ef5f09a2a#ref=rss)
-### reul
-
-* [https://www.spiegel.de/politik/deutschland/herbert-reul-innenrevision-prueft-moegliche-einmischung-des-nrw-innenministers](https://www.spiegel.de/politik/deutschland/herbert-reul-innenrevision-prueft-moegliche-einmischung-des-nrw-innenministers-a-594e97c4-aa72-4c59-b5be-163ef5f09a2a#ref=rss)
-### mögliche
-
-* [https://www.spiegel.de/politik/deutschland/herbert-reul-innenrevision-prueft-moegliche-einmischung-des-nrw-innenministers](https://www.spiegel.de/politik/deutschland/herbert-reul-innenrevision-prueft-moegliche-einmischung-des-nrw-innenministers-a-594e97c4-aa72-4c59-b5be-163ef5f09a2a#ref=rss)
-### euro
-
-* [https://www.spiegel.de/politik/deutschland/herbert-reul-innenrevision-prueft-moegliche-einmischung-des-nrw-innenministers](https://www.spiegel.de/politik/deutschland/herbert-reul-innenrevision-prueft-moegliche-einmischung-des-nrw-innenministers-a-594e97c4-aa72-4c59-b5be-163ef5f09a2a#ref=rss)
-* [https://www.spiegel.de/panorama/italien-touristen-muessen-ab-sofort-eintritt-fuer-trevi-brunnen-in-rom-zahlen](https://www.spiegel.de/panorama/italien-touristen-muessen-ab-sofort-eintritt-fuer-trevi-brunnen-in-rom-zahlen-a-55aeb8f8-49ec-4279-bc6c-8f4abb4cf0ce#ref=rss)
-### 2025
-
-* [https://www.spiegel.de/reise/fernweh/reisefotos-so-haben-sie-die-welt-noch-nie-gesehen-travel-photographer-of-the-year-2025](https://www.spiegel.de/reise/fernweh/reisefotos-so-haben-sie-die-welt-noch-nie-gesehen-travel-photographer-of-the-year-2025-a-518f7737-2b75-4e9b-806e-b85c334be66b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mehr-asylsuchende-kehren-freiwillig-in-ihr-heimatland-zurueck](https://www.spiegel.de/politik/deutschland/mehr-asylsuchende-kehren-freiwillig-in-ihr-heimatland-zurueck-a-0f3e3e71-d7f7-4c42-8231-2f27e12f1652#ref=rss)
-### jahres
-
-* [https://www.spiegel.de/reise/fernweh/reisefotos-so-haben-sie-die-welt-noch-nie-gesehen-travel-photographer-of-the-year-2025](https://www.spiegel.de/reise/fernweh/reisefotos-so-haben-sie-die-welt-noch-nie-gesehen-travel-photographer-of-the-year-2025-a-518f7737-2b75-4e9b-806e-b85c334be66b#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar](https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar-a-e062c836-16c7-495d-86c9-ba597816344c#ref=rss)
-### gold
-
-* [https://www.spiegel.de/wirtschaft/goldpreis-gold-und-silber-verlieren-weiter-drastisch-an-wert](https://www.spiegel.de/wirtschaft/goldpreis-gold-und-silber-verlieren-weiter-drastisch-an-wert-a-637481c3-ff86-4724-8132-6e1176a897b9#ref=rss)
-### verlieren
-
-* [https://www.spiegel.de/wirtschaft/goldpreis-gold-und-silber-verlieren-weiter-drastisch-an-wert](https://www.spiegel.de/wirtschaft/goldpreis-gold-und-silber-verlieren-weiter-drastisch-an-wert-a-637481c3-ff86-4724-8132-6e1176a897b9#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-2026-das-daenische-ungeheuer-ist-fuer-deutschland-zu-stark-noch](https://www.spiegel.de/sport/handball/handball-em-2026-das-daenische-ungeheuer-ist-fuer-deutschland-zu-stark-noch-a-6a49af15-adfa-4e17-b2b6-7ab53bba77d3#ref=rss)
-### autobahn
-
-* [https://www.spiegel.de/panorama/autobahn-a61-drei-menschen-sterben-bei-unfall](https://www.spiegel.de/panorama/autobahn-a61-drei-menschen-sterben-bei-unfall-a-653248c8-244b-4144-bbcb-0f188d6fa9e9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/a60-bei-mainz-mutmasslicher-hochzeitskorso-sorgt-fuer-verkehrsbehinderungen](https://www.spiegel.de/panorama/justiz/a60-bei-mainz-mutmasslicher-hochzeitskorso-sorgt-fuer-verkehrsbehinderungen-a-1cc0b5db-dfbe-4b24-9d4c-5749293de29b#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/autobahn-a61-drei-menschen-sterben-bei-unfall](https://www.spiegel.de/panorama/autobahn-a61-drei-menschen-sterben-bei-unfall-a-653248c8-244b-4144-bbcb-0f188d6fa9e9#ref=rss)
-* [https://www.spiegel.de/panorama/italien-touristen-muessen-ab-sofort-eintritt-fuer-trevi-brunnen-in-rom-zahlen](https://www.spiegel.de/panorama/italien-touristen-muessen-ab-sofort-eintritt-fuer-trevi-brunnen-in-rom-zahlen-a-55aeb8f8-49ec-4279-bc6c-8f4abb4cf0ce#ref=rss)
-### nähe
-
-* [https://www.spiegel.de/panorama/autobahn-a61-drei-menschen-sterben-bei-unfall](https://www.spiegel.de/panorama/autobahn-a61-drei-menschen-sterben-bei-unfall-a-653248c8-244b-4144-bbcb-0f188d6fa9e9#ref=rss)
-* [https://www.spiegel.de/panorama/italien-touristen-muessen-ab-sofort-eintritt-fuer-trevi-brunnen-in-rom-zahlen](https://www.spiegel.de/panorama/italien-touristen-muessen-ab-sofort-eintritt-fuer-trevi-brunnen-in-rom-zahlen-a-55aeb8f8-49ec-4279-bc6c-8f4abb4cf0ce#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/mehr-asylsuchende-kehren-freiwillig-in-ihr-heimatland-zurueck](https://www.spiegel.de/politik/deutschland/mehr-asylsuchende-kehren-freiwillig-in-ihr-heimatland-zurueck-a-0f3e3e71-d7f7-4c42-8231-2f27e12f1652#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-kaelte-in-kyjiw-ukraine-jeffrey-epstein-akten-und-donald-trump-tod-von-rita-suessmuth](https://www.spiegel.de/politik/deutschland/news-kaelte-in-kyjiw-ukraine-jeffrey-epstein-akten-und-donald-trump-tod-von-rita-suessmuth-a-2bb47c5b-4c03-438b-87b7-fefb61dd822a#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-jung-top-ausgebildet-und-nicht-mehr-begehrt](https://www.spiegel.de/wirtschaft/arbeitsmarkt-jung-top-ausgebildet-und-nicht-mehr-begehrt-a-f5d2837a-f6a3-4009-9ba4-fc45ae3ba412#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/zahnarztkosten-cdu-sozialpolitiker-und-gruene-lehnen-vorschlag-des-cdu-wirtschaftsrats-ab](https://www.spiegel.de/politik/deutschland/zahnarztkosten-cdu-sozialpolitiker-und-gruene-lehnen-vorschlag-des-cdu-wirtschaftsrats-ab-a-8fa99bab-7f76-49b3-ba7e-bcf79b843cc9#ref=rss)
-### singapur
-
-* [https://www.spiegel.de/wirtschaft/singapur-johann-wadephul-auf-freihandelsmission-in-asien](https://www.spiegel.de/wirtschaft/singapur-johann-wadephul-auf-freihandelsmission-in-asien-a-2803625a-b3f2-4ce8-bcb7-83576355812b#ref=rss)
-### wadephul
-
-* [https://www.spiegel.de/wirtschaft/singapur-johann-wadephul-auf-freihandelsmission-in-asien](https://www.spiegel.de/wirtschaft/singapur-johann-wadephul-auf-freihandelsmission-in-asien-a-2803625a-b3f2-4ce8-bcb7-83576355812b#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/sport/handball/handball-em-2026-das-daenische-ungeheuer-ist-fuer-deutschland-zu-stark-noch](https://www.spiegel.de/sport/handball/handball-em-2026-das-daenische-ungeheuer-ist-fuer-deutschland-zu-stark-noch-a-6a49af15-adfa-4e17-b2b6-7ab53bba77d3#ref=rss)
-* [https://www.spiegel.de/panorama/deutschland-wetter-dauerfrost-im-nordosten-fruehlingshafte-temperaturen-am-oberrhein](https://www.spiegel.de/panorama/deutschland-wetter-dauerfrost-im-nordosten-fruehlingshafte-temperaturen-am-oberrhein-a-9f5aaf61-4db0-4ab8-bc8c-2413e25e6442#ref=rss)
-### kiel
-
-* [https://www.spiegel.de/start/studieren-in-kiel-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-kiel-campus-wohnviertel-wg-zimmer-preise-kneipen-a-6875b781-b474-449d-af4f-c69aaa3baa39#ref=rss)
-### wo
-
-* [https://www.spiegel.de/start/studieren-in-kiel-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-kiel-campus-wohnviertel-wg-zimmer-preise-kneipen-a-6875b781-b474-449d-af4f-c69aaa3baa39#ref=rss)
-* [https://www.spiegel.de/wirtschaft/streik-bei-bus-und-bahn-warnstreiks-im-nahverkehr-legen-deutschland-lahm](https://www.spiegel.de/wirtschaft/streik-bei-bus-und-bahn-warnstreiks-im-nahverkehr-legen-deutschland-lahm-a-1d996f41-e630-4b92-b4ba-eff09ef840ef#ref=rss)
-### trevibrunnen
-
-* [https://www.spiegel.de/panorama/italien-touristen-muessen-ab-sofort-eintritt-fuer-trevi-brunnen-in-rom-zahlen](https://www.spiegel.de/panorama/italien-touristen-muessen-ab-sofort-eintritt-fuer-trevi-brunnen-in-rom-zahlen-a-55aeb8f8-49ec-4279-bc6c-8f4abb4cf0ce#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/panorama/italien-touristen-muessen-ab-sofort-eintritt-fuer-trevi-brunnen-in-rom-zahlen](https://www.spiegel.de/panorama/italien-touristen-muessen-ab-sofort-eintritt-fuer-trevi-brunnen-in-rom-zahlen-a-55aeb8f8-49ec-4279-bc6c-8f4abb4cf0ce#ref=rss)
-* [https://www.spiegel.de/karriere/german-design-award-gewinner-muessen-zahlen-anstatt-preisgeld-zu-bekommen](https://www.spiegel.de/karriere/german-design-award-gewinner-muessen-zahlen-anstatt-preisgeld-zu-bekommen-a-d954dc2c-a3de-4a51-9219-aacbba33bbb8#ref=rss)
-### zahnarztkosten
-
-* [https://www.spiegel.de/politik/deutschland/zahnarztkosten-cdu-sozialpolitiker-und-gruene-lehnen-vorschlag-des-cdu-wirtschaftsrats-ab](https://www.spiegel.de/politik/deutschland/zahnarztkosten-cdu-sozialpolitiker-und-gruene-lehnen-vorschlag-des-cdu-wirtschaftsrats-ab-a-8fa99bab-7f76-49b3-ba7e-bcf79b843cc9#ref=rss)
-### grammy
-
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements](https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements-a-49760875-4c75-40e7-be00-e8407cc77a11#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show](https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show-a-ba86d42f-e22f-4a70-aa9d-e9f086aa9cca#ref=rss)
-### awards
-
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements](https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements-a-49760875-4c75-40e7-be00-e8407cc77a11#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show](https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show-a-ba86d42f-e22f-4a70-aa9d-e9f086aa9cca#ref=rss)
-### politische
-
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements](https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements-a-49760875-4c75-40e7-be00-e8407cc77a11#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show](https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show-a-ba86d42f-e22f-4a70-aa9d-e9f086aa9cca#ref=rss)
-### statements
-
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements](https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements-a-49760875-4c75-40e7-be00-e8407cc77a11#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show](https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show-a-ba86d42f-e22f-4a70-aa9d-e9f086aa9cca#ref=rss)
-### kendrick
-
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements](https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements-a-49760875-4c75-40e7-be00-e8407cc77a11#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar](https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar-a-e062c836-16c7-495d-86c9-ba597816344c#ref=rss)
-### lamar
-
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements](https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements-a-49760875-4c75-40e7-be00-e8407cc77a11#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar](https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar-a-e062c836-16c7-495d-86c9-ba597816344c#ref=rss)
-### einige
-
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements](https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements-a-49760875-4c75-40e7-be00-e8407cc77a11#ref=rss)
-* [https://www.spiegel.de/panorama/deutschland-wetter-dauerfrost-im-nordosten-fruehlingshafte-temperaturen-am-oberrhein](https://www.spiegel.de/panorama/deutschland-wetter-dauerfrost-im-nordosten-fruehlingshafte-temperaturen-am-oberrhein-a-9f5aaf61-4db0-4ab8-bc8c-2413e25e6442#ref=rss)
-### stars
-
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements](https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements-a-49760875-4c75-40e7-be00-e8407cc77a11#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar](https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar-a-e062c836-16c7-495d-86c9-ba597816344c#ref=rss)
-### bildern
-
-* [https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements](https://www.spiegel.de/kultur/musik/grammy-awards-2026-traenen-unterhosen-und-klare-politische-statements-a-49760875-4c75-40e7-be00-e8407cc77a11#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-gefahrengebiet-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-gefahrengebiet-mit-corinna-harfouch-a-33fdb8a6-777a-4351-ba54-c31907ec00de#ref=rss)
-### gelsenkirchen
-
-* [https://www.spiegel.de/wirtschaft/gelsenkirchen-sparkasse-oeffnet-nach-einbruch-kunden-anlaufstelle](https://www.spiegel.de/wirtschaft/gelsenkirchen-sparkasse-oeffnet-nach-einbruch-kunden-anlaufstelle-a-92a5445d-881b-4e7b-96d1-11761963c660#ref=rss)
-### einbruch
-
-* [https://www.spiegel.de/wirtschaft/gelsenkirchen-sparkasse-oeffnet-nach-einbruch-kunden-anlaufstelle](https://www.spiegel.de/wirtschaft/gelsenkirchen-sparkasse-oeffnet-nach-einbruch-kunden-anlaufstelle-a-92a5445d-881b-4e7b-96d1-11761963c660#ref=rss)
-### billie
-
-* [https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show](https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show-a-ba86d42f-e22f-4a70-aa9d-e9f086aa9cca#ref=rss)
-### eilish
-
-* [https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show](https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show-a-ba86d42f-e22f-4a70-aa9d-e9f086aa9cca#ref=rss)
-### show
-
-* [https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show](https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show-a-ba86d42f-e22f-4a70-aa9d-e9f086aa9cca#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-gefahrengebiet-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-gefahrengebiet-mit-corinna-harfouch-a-33fdb8a6-777a-4351-ba54-c31907ec00de#ref=rss)
-### woche
-
-* [https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show](https://www.spiegel.de/kultur/musik/grammys-2026-politische-statements-von-bad-bunny-und-billie-eilish-praegen-die-show-a-ba86d42f-e22f-4a70-aa9d-e9f086aa9cca#ref=rss)
-* [https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar](https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar-a-e062c836-16c7-495d-86c9-ba597816344c#ref=rss)
-### bus
-
-* [https://www.spiegel.de/wirtschaft/streik-bei-bus-und-bahn-warnstreiks-im-nahverkehr-legen-deutschland-lahm](https://www.spiegel.de/wirtschaft/streik-bei-bus-und-bahn-warnstreiks-im-nahverkehr-legen-deutschland-lahm-a-1d996f41-e630-4b92-b4ba-eff09ef840ef#ref=rss)
-### corinna
-
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-gefahrengebiet-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-gefahrengebiet-mit-corinna-harfouch-a-33fdb8a6-777a-4351-ba54-c31907ec00de#ref=rss)
-### harfouch
-
-* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-gefahrengebiet-mit-corinna-harfouch](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-gefahrengebiet-mit-corinna-harfouch-a-33fdb8a6-777a-4351-ba54-c31907ec00de#ref=rss)
-### livekommentar
-
-* [https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar](https://www.spiegel.de/kultur/musik/grammys-2026-bad-bunny-gewinnt-album-des-jahres-verleihung-im-livekommentar-a-e062c836-16c7-495d-86c9-ba597816344c#ref=rss)
-### rita
-
-* [https://www.spiegel.de/politik/deutschland/news-kaelte-in-kyjiw-ukraine-jeffrey-epstein-akten-und-donald-trump-tod-von-rita-suessmuth](https://www.spiegel.de/politik/deutschland/news-kaelte-in-kyjiw-ukraine-jeffrey-epstein-akten-und-donald-trump-tod-von-rita-suessmuth-a-2bb47c5b-4c03-438b-87b7-fefb61dd822a#ref=rss)
-### süssmuth
-
-* [https://www.spiegel.de/politik/deutschland/news-kaelte-in-kyjiw-ukraine-jeffrey-epstein-akten-und-donald-trump-tod-von-rita-suessmuth](https://www.spiegel.de/politik/deutschland/news-kaelte-in-kyjiw-ukraine-jeffrey-epstein-akten-und-donald-trump-tod-von-rita-suessmuth-a-2bb47c5b-4c03-438b-87b7-fefb61dd822a#ref=rss)
-### souverän
-
-* [https://www.spiegel.de/karriere/karriere-souveraen-auf-teilzeit-kommentare-reagieren-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/karriere-souveraen-auf-teilzeit-kommentare-reagieren-tipps-vom-karrierecoach-a-4cb016c4-f1ad-4c16-b47f-231caa47394e#ref=rss)
-### reagieren
-
-* [https://www.spiegel.de/karriere/karriere-souveraen-auf-teilzeit-kommentare-reagieren-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/karriere-souveraen-auf-teilzeit-kommentare-reagieren-tipps-vom-karrierecoach-a-4cb016c4-f1ad-4c16-b47f-231caa47394e#ref=rss)
-### german
-
-* [https://www.spiegel.de/karriere/german-design-award-gewinner-muessen-zahlen-anstatt-preisgeld-zu-bekommen](https://www.spiegel.de/karriere/german-design-award-gewinner-muessen-zahlen-anstatt-preisgeld-zu-bekommen-a-d954dc2c-a3de-4a51-9219-aacbba33bbb8#ref=rss)
-### design
-
-* [https://www.spiegel.de/karriere/german-design-award-gewinner-muessen-zahlen-anstatt-preisgeld-zu-bekommen](https://www.spiegel.de/karriere/german-design-award-gewinner-muessen-zahlen-anstatt-preisgeld-zu-bekommen-a-d954dc2c-a3de-4a51-9219-aacbba33bbb8#ref=rss)
-### award
-
-* [https://www.spiegel.de/karriere/german-design-award-gewinner-muessen-zahlen-anstatt-preisgeld-zu-bekommen](https://www.spiegel.de/karriere/german-design-award-gewinner-muessen-zahlen-anstatt-preisgeld-zu-bekommen-a-d954dc2c-a3de-4a51-9219-aacbba33bbb8#ref=rss)
-### preisgeld
-
-* [https://www.spiegel.de/karriere/german-design-award-gewinner-muessen-zahlen-anstatt-preisgeld-zu-bekommen](https://www.spiegel.de/karriere/german-design-award-gewinner-muessen-zahlen-anstatt-preisgeld-zu-bekommen-a-d954dc2c-a3de-4a51-9219-aacbba33bbb8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-verfehlte-produktionsziele-in-gruenheide-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/tesla-verfehlte-produktionsziele-in-gruenheide-deutlich-a-bb7c9b26-7ca5-4a34-af5b-91106a8269cd#ref=rss)
 
