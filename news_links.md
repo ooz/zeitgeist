@@ -4,386 +4,342 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### trump
-
-* [https://www.spiegel.de/ausland/usa-jeff-bezos-macht-die-washington-post-wie-es-donald-trump-gefaellt](https://www.spiegel.de/ausland/usa-jeff-bezos-macht-die-washington-post-wie-es-donald-trump-gefaellt-a-bbfaa4eb-bace-4188-a9e8-be295cee1cc2#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-iran-wollen-am-freitag-ueber-deeskalation-sprechen](https://www.spiegel.de/ausland/usa-und-iran-wollen-am-freitag-ueber-deeskalation-sprechen-a-c2f15c10-4d44-4382-98d4-fdd9d6436eb8#ref=rss)
-* [https://www.spiegel.de/panorama/leute/vermisste-mutter-von-nbc-moderatorin-trump-findet-entfuehrung-von-84-jaehriger-schrecklich](https://www.spiegel.de/panorama/leute/vermisste-mutter-von-nbc-moderatorin-trump-findet-entfuehrung-von-84-jaehriger-schrecklich-a-f7c7edf3-1b65-4fdc-a5e4-ea2114ac8406#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-gespraeche-gehen-trotz-schwerer-angriffe-weiter](https://www.spiegel.de/ausland/russland-ukraine-krieg-gespraeche-gehen-trotz-schwerer-angriffe-weiter-a-d9b4bfed-682a-4ea3-b83f-c54729538a5e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-eu-abgeordnete-draengen-uefa-zu-boykott-wegen-fifa-preis-fuer-donald-trump](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-eu-abgeordnete-draengen-uefa-zu-boykott-wegen-fifa-preis-fuer-donald-trump-a-7c23e33f-79c6-47d0-b51d-34c1831ecf6f#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/usa-jeff-bezos-macht-die-washington-post-wie-es-donald-trump-gefaellt](https://www.spiegel.de/ausland/usa-jeff-bezos-macht-die-washington-post-wie-es-donald-trump-gefaellt-a-bbfaa4eb-bace-4188-a9e8-be295cee1cc2#ref=rss)
-* [https://www.spiegel.de/panorama/leute/vermisste-mutter-von-nbc-moderatorin-trump-findet-entfuehrung-von-84-jaehriger-schrecklich](https://www.spiegel.de/panorama/leute/vermisste-mutter-von-nbc-moderatorin-trump-findet-entfuehrung-von-84-jaehriger-schrecklich-a-f7c7edf3-1b65-4fdc-a5e4-ea2114ac8406#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-eu-abgeordnete-draengen-uefa-zu-boykott-wegen-fifa-preis-fuer-donald-trump](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-eu-abgeordnete-draengen-uefa-zu-boykott-wegen-fifa-preis-fuer-donald-trump-a-7c23e33f-79c6-47d0-b51d-34c1831ecf6f#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin](https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin-a-10be6fb5-5c25-4678-876b-440a5453f19a#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/umfrage-16-bis-18-jaehrige-wollen-kein-handyverbot-an-schulen](https://www.spiegel.de/panorama/bildung/umfrage-16-bis-18-jaehrige-wollen-kein-handyverbot-an-schulen-a-a5f0f50d-59a1-4af4-852a-dccd20b281a8#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/leute/kristen-stewart-schauspielerin-spricht-ueber-coming-out-vor-neun-jahren](https://www.spiegel.de/panorama/leute/kristen-stewart-schauspielerin-spricht-ueber-coming-out-vor-neun-jahren-a-2427bc7b-f864-45d9-a60d-bd324d2a82d6#ref=rss)
-* [https://www.spiegel.de/kultur/kino/meryl-streep-soll-joni-mitchell-spielen](https://www.spiegel.de/kultur/kino/meryl-streep-soll-joni-mitchell-spielen-a-f8cb5ec8-13f9-4832-ace5-702ad1323b43#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-offenbar-zu-den-cleveland-cavaliers](https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-offenbar-zu-den-cleveland-cavaliers-a-374fcda3-b19e-40ac-b7cb-9177a25a52a3#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters](https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters-a-1cfb9902-9452-48ee-b209-6b5dacc85493#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-offenbar-zu-den-cleveland-cavaliers](https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-offenbar-zu-den-cleveland-cavaliers-a-374fcda3-b19e-40ac-b7cb-9177a25a52a3#ref=rss)
-* [https://www.spiegel.de/ausland/usa-jeff-bezos-macht-die-washington-post-wie-es-donald-trump-gefaellt](https://www.spiegel.de/ausland/usa-jeff-bezos-macht-die-washington-post-wie-es-donald-trump-gefaellt-a-bbfaa4eb-bace-4188-a9e8-be295cee1cc2#ref=rss)
-* [https://www.spiegel.de/panorama/leute/vermisste-mutter-von-nbc-moderatorin-trump-findet-entfuehrung-von-84-jaehriger-schrecklich](https://www.spiegel.de/panorama/leute/vermisste-mutter-von-nbc-moderatorin-trump-findet-entfuehrung-von-84-jaehriger-schrecklich-a-f7c7edf3-1b65-4fdc-a5e4-ea2114ac8406#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-jeff-bezos-macht-die-washington-post-wie-es-donald-trump-gefaellt](https://www.spiegel.de/ausland/usa-jeff-bezos-macht-die-washington-post-wie-es-donald-trump-gefaellt-a-bbfaa4eb-bace-4188-a9e8-be295cee1cc2#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-iran-wollen-am-freitag-ueber-deeskalation-sprechen](https://www.spiegel.de/ausland/usa-und-iran-wollen-am-freitag-ueber-deeskalation-sprechen-a-c2f15c10-4d44-4382-98d4-fdd9d6436eb8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oel-aus-venezuela-sorgt-fuer-ueberangebot-und-preisdruck-in-den-usa](https://www.spiegel.de/wirtschaft/oel-aus-venezuela-sorgt-fuer-ueberangebot-und-preisdruck-in-den-usa-a-a2e9e174-13f7-4cf4-a1cc-44537aa4a371#ref=rss)
-### umfrage
-
-* [https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin](https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin-a-10be6fb5-5c25-4678-876b-440a5453f19a#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/umfrage-16-bis-18-jaehrige-wollen-kein-handyverbot-an-schulen](https://www.spiegel.de/panorama/bildung/umfrage-16-bis-18-jaehrige-wollen-kein-handyverbot-an-schulen-a-a5f0f50d-59a1-4af4-852a-dccd20b281a8#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin](https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin-a-10be6fb5-5c25-4678-876b-440a5453f19a#ref=rss)
-* [https://www.spiegel.de/panorama/draco-malfoy-bringt-in-china-jetzt-glueck](https://www.spiegel.de/panorama/draco-malfoy-bringt-in-china-jetzt-glueck-a-9d7518cc-1d34-420b-bebb-6bd1a1017a62#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin](https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin-a-10be6fb5-5c25-4678-876b-440a5453f19a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/kristen-stewart-schauspielerin-spricht-ueber-coming-out-vor-neun-jahren](https://www.spiegel.de/panorama/leute/kristen-stewart-schauspielerin-spricht-ueber-coming-out-vor-neun-jahren-a-2427bc7b-f864-45d9-a60d-bd324d2a82d6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters](https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters-a-1cfb9902-9452-48ee-b209-6b5dacc85493#ref=rss)
-### zugbegleiter
+* [https://www.spiegel.de/wirtschaft/hamburg-so-viel-kostet-die-teuerste-luxuswohnung-der-stadt](https://www.spiegel.de/wirtschaft/hamburg-so-viel-kostet-die-teuerste-luxuswohnung-der-stadt-a-b0410f26-3c6b-4e9c-b929-17f964497446#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bundesinstitut-fuer-bevoelkerungsforschung-herkunft-beeinflusst-stark-die-bildungschancen](https://www.spiegel.de/panorama/bildung/bundesinstitut-fuer-bevoelkerungsforschung-herkunft-beeinflusst-stark-die-bildungschancen-a-65972207-4241-4a79-bd8f-682d21dee31d#ref=rss)
+* [https://www.spiegel.de/ausland/trump-will-kolumbus-statue-vor-dem-weissen-haus-aufstellen](https://www.spiegel.de/ausland/trump-will-kolumbus-statue-vor-dem-weissen-haus-aufstellen-a-361323b0-88eb-4d73-9015-a2fe2a26d6c2#ref=rss)
+* [https://www.spiegel.de/politik/bjoern-hoecke-scheitert-mit-misstrauensantrag-im-thueringer-landtag](https://www.spiegel.de/politik/bjoern-hoecke-scheitert-mit-misstrauensantrag-im-thueringer-landtag-a-48bc7ac1-5322-4559-8f00-8645eb4394f0#ref=rss)
+### jeffrey
+
+* [https://www.spiegel.de/ausland/keir-starmer-wusste-von-jeffrey-epstein-verbindung-und-machte-peter-mandelson-trotzdem-zum-us-botschafter](https://www.spiegel.de/ausland/keir-starmer-wusste-von-jeffrey-epstein-verbindung-und-machte-peter-mandelson-trotzdem-zum-us-botschafter-a-91b88ef5-fa0a-41b9-b0d8-16de28e491ce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung](https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung-a-cc80f8b0-ceee-48da-8246-fda038b61898#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-reagiert-duennhaeutig-auf-fragen-zu-jeffrey-epstein](https://www.spiegel.de/ausland/donald-trump-us-praesident-reagiert-duennhaeutig-auf-fragen-zu-jeffrey-epstein-a-47d83c5d-47b6-4f0a-be0e-a85c7f147a32#ref=rss)
+### epstein
+
+* [https://www.spiegel.de/ausland/keir-starmer-wusste-von-jeffrey-epstein-verbindung-und-machte-peter-mandelson-trotzdem-zum-us-botschafter](https://www.spiegel.de/ausland/keir-starmer-wusste-von-jeffrey-epstein-verbindung-und-machte-peter-mandelson-trotzdem-zum-us-botschafter-a-91b88ef5-fa0a-41b9-b0d8-16de28e491ce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung](https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung-a-cc80f8b0-ceee-48da-8246-fda038b61898#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-reagiert-duennhaeutig-auf-fragen-zu-jeffrey-epstein](https://www.spiegel.de/ausland/donald-trump-us-praesident-reagiert-duennhaeutig-auf-fragen-zu-jeffrey-epstein-a-47d83c5d-47b6-4f0a-be0e-a85c7f147a32#ref=rss)
+### rom
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung](https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung-a-cc80f8b0-ceee-48da-8246-fda038b61898#ref=rss)
+* [https://www.spiegel.de/kultur/rom-der-meloni-engel-ist-jetzt-kopflos](https://www.spiegel.de/kultur/rom-der-meloni-engel-ist-jetzt-kopflos-a-3aeb7857-9e9f-4811-8e1b-a0b9c32c5138#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierung-flog-mit-sechs-jets-zu-mini-gipfel-in-rom](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierung-flog-mit-sechs-jets-zu-mini-gipfel-in-rom-a-a55bacf5-6c58-46a8-a435-b220aecf4e21#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/frankreich-vier-chinesen-aufgrund-mutmasslicher-spionage-mit-satellitenempfaenger-festgenommen](https://www.spiegel.de/ausland/frankreich-vier-chinesen-aufgrund-mutmasslicher-spionage-mit-satellitenempfaenger-festgenommen-a-85cd232b-c8e0-4e7c-b28e-3fc4c50dd13b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/duisburg-bestechungsvorwurf-gegen-vorstandsmitglieder-der-duisburger-kommunalbetriebe-dvv](https://www.spiegel.de/wirtschaft/duisburg-bestechungsvorwurf-gegen-vorstandsmitglieder-der-duisburger-kommunalbetriebe-dvv-a-3f1c792f-ccab-469d-ab1d-5be4accdfa59#ref=rss)
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-verletzung-zwingt-dfb-keeper-zur-operation](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-verletzung-zwingt-dfb-keeper-zur-operation-a-eb110970-fa06-4cc5-a34a-d6fd6d1372b9#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/ausland/frankreich-vier-chinesen-aufgrund-mutmasslicher-spionage-mit-satellitenempfaenger-festgenommen](https://www.spiegel.de/ausland/frankreich-vier-chinesen-aufgrund-mutmasslicher-spionage-mit-satellitenempfaenger-festgenommen-a-85cd232b-c8e0-4e7c-b28e-3fc4c50dd13b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/koeln-uber-vorfall-20-jaehriger-irrt-sich-im-fahrzeug-und-wird-zu-tode-gepruegelt](https://www.spiegel.de/panorama/justiz/koeln-uber-vorfall-20-jaehriger-irrt-sich-im-fahrzeug-und-wird-zu-tode-gepruegelt-a-1f4b73b8-2e89-4950-ae62-83dfae3c6e55#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bundesinstitut-fuer-bevoelkerungsforschung-herkunft-beeinflusst-stark-die-bildungschancen](https://www.spiegel.de/panorama/bildung/bundesinstitut-fuer-bevoelkerungsforschung-herkunft-beeinflusst-stark-die-bildungschancen-a-65972207-4241-4a79-bd8f-682d21dee31d#ref=rss)
+### sechs
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung](https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung-a-cc80f8b0-ceee-48da-8246-fda038b61898#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/menden-kind-laeuft-barfuss-im-schnee-was-die-mutter-dazu-sagt](https://www.spiegel.de/panorama/gesellschaft/menden-kind-laeuft-barfuss-im-schnee-was-die-mutter-dazu-sagt-a-cecfd298-1e85-4d58-a683-14c7998456b5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierung-flog-mit-sechs-jets-zu-mini-gipfel-in-rom](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierung-flog-mit-sechs-jets-zu-mini-gipfel-in-rom-a-a55bacf5-6c58-46a8-a435-b220aecf4e21#ref=rss)
+### maja
+
+* [https://www.spiegel.de/politik/deutschland/gerichtsprozess-in-budapest-der-richter-entschied-in-einer-halben-stunde-zu-maja-t](https://www.spiegel.de/politik/deutschland/gerichtsprozess-in-budapest-der-richter-entschied-in-einer-halben-stunde-zu-maja-t-a-10a19726-a3cf-46b9-823f-cf9f6b472603#ref=rss)
+* [https://www.spiegel.de/politik/news-in-echtzeit-usa-schiessen-iranische-drohne-ab-maskierte-toeten-gaddafis-sohn-hoecke-will-ministerpraesident-werden](https://www.spiegel.de/politik/news-in-echtzeit-usa-schiessen-iranische-drohne-ab-maskierte-toeten-gaddafis-sohn-hoecke-will-ministerpraesident-werden-a-2228e758-d7df-4725-99b5-e41211baaeab#ref=rss)
+### t
+
+* [https://www.spiegel.de/politik/deutschland/gerichtsprozess-in-budapest-der-richter-entschied-in-einer-halben-stunde-zu-maja-t](https://www.spiegel.de/politik/deutschland/gerichtsprozess-in-budapest-der-richter-entschied-in-einer-halben-stunde-zu-maja-t-a-10a19726-a3cf-46b9-823f-cf9f6b472603#ref=rss)
+* [https://www.spiegel.de/politik/news-in-echtzeit-usa-schiessen-iranische-drohne-ab-maskierte-toeten-gaddafis-sohn-hoecke-will-ministerpraesident-werden](https://www.spiegel.de/politik/news-in-echtzeit-usa-schiessen-iranische-drohne-ab-maskierte-toeten-gaddafis-sohn-hoecke-will-ministerpraesident-werden-a-2228e758-d7df-4725-99b5-e41211baaeab#ref=rss)
+### björn
 
 * [https://www.spiegel.de/politik/news-in-echtzeit-usa-schiessen-iranische-drohne-ab-maskierte-toeten-gaddafis-sohn-hoecke-will-ministerpraesident-werden](https://www.spiegel.de/politik/news-in-echtzeit-usa-schiessen-iranische-drohne-ab-maskierte-toeten-gaddafis-sohn-hoecke-will-ministerpraesident-werden-a-2228e758-d7df-4725-99b5-e41211baaeab#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-zugbegleiter-nach-angriff-durch-passagier-gestorben](https://www.spiegel.de/panorama/deutsche-bahn-zugbegleiter-nach-angriff-durch-passagier-gestorben-a-8cffeb08-5891-43b7-9e54-34702df296c2#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/olympia/lindsey-vonn-bei-den-olympischen-spielen-2026-abfahrt-trotz-kreuzbandriss](https://www.spiegel.de/sport/olympia/lindsey-vonn-bei-den-olympischen-spielen-2026-abfahrt-trotz-kreuzbandriss-a-70894994-0cea-4195-8c3b-21c473b67a5b#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-in-mailand-muehsamer-ticketverkauf-fuer-eroeffnungsfeier](https://www.spiegel.de/sport/olympia/olympia-2026-in-mailand-muehsamer-ticketverkauf-fuer-eroeffnungsfeier-a-5bd16359-0e61-426e-bcae-28305f57e0fe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-eu-abgeordnete-draengen-uefa-zu-boykott-wegen-fifa-preis-fuer-donald-trump](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-eu-abgeordnete-draengen-uefa-zu-boykott-wegen-fifa-preis-fuer-donald-trump-a-7c23e33f-79c6-47d0-b51d-34c1831ecf6f#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/menschenrechte-human-rights-watch-beklagt-verschlechterte-lage-fuer-zuwanderer-in-deutschland](https://www.spiegel.de/politik/menschenrechte-human-rights-watch-beklagt-verschlechterte-lage-fuer-zuwanderer-in-deutschland-a-0c2e912f-5e7e-477e-b39d-9f71c89ef3fd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/schokoladenpreise-gute-ernten-in-westafrika-eigenmarken-leicht-guenstiger](https://www.spiegel.de/wirtschaft/service/schokoladenpreise-gute-ernten-in-westafrika-eigenmarken-leicht-guenstiger-a-ee9b45f8-12c2-4329-8822-f71d2d069a73#ref=rss)
-### bill
-
-* [https://www.spiegel.de/panorama/leute/bill-gates-und-die-epstein-akten-melinda-gates-fordert-antworten-von-ex-mann-bill](https://www.spiegel.de/panorama/leute/bill-gates-und-die-epstein-akten-melinda-gates-fordert-antworten-von-ex-mann-bill-a-a99865c4-720e-4057-bbf2-59b0b4973038#ref=rss)
-### gates
-
-* [https://www.spiegel.de/panorama/leute/bill-gates-und-die-epstein-akten-melinda-gates-fordert-antworten-von-ex-mann-bill](https://www.spiegel.de/panorama/leute/bill-gates-und-die-epstein-akten-melinda-gates-fordert-antworten-von-ex-mann-bill-a-a99865c4-720e-4057-bbf2-59b0b4973038#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/usa-und-iran-wollen-am-freitag-ueber-deeskalation-sprechen](https://www.spiegel.de/ausland/usa-und-iran-wollen-am-freitag-ueber-deeskalation-sprechen-a-c2f15c10-4d44-4382-98d4-fdd9d6436eb8#ref=rss)
-* [https://www.spiegel.de/panorama/leute/vermisste-mutter-von-nbc-moderatorin-trump-findet-entfuehrung-von-84-jaehriger-schrecklich](https://www.spiegel.de/panorama/leute/vermisste-mutter-von-nbc-moderatorin-trump-findet-entfuehrung-von-84-jaehriger-schrecklich-a-f7c7edf3-1b65-4fdc-a5e4-ea2114ac8406#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-gespraeche-gehen-trotz-schwerer-angriffe-weiter](https://www.spiegel.de/ausland/russland-ukraine-krieg-gespraeche-gehen-trotz-schwerer-angriffe-weiter-a-d9b4bfed-682a-4ea3-b83f-c54729538a5e#ref=rss)
-### warten
-
-* [https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin](https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin-a-10be6fb5-5c25-4678-876b-440a5453f19a#ref=rss)
-### 42
-
-* [https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin](https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin-a-10be6fb5-5c25-4678-876b-440a5453f19a#ref=rss)
-### tage
-
-* [https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin](https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin-a-10be6fb5-5c25-4678-876b-440a5453f19a#ref=rss)
-### facharzttermin
-
-* [https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin](https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin-a-10be6fb5-5c25-4678-876b-440a5453f19a#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin](https://www.spiegel.de/wirtschaft/service/arzttermine-kassenpatienten-warten-laut-umfrage-42-tage-auf-facharzttermin-a-10be6fb5-5c25-4678-876b-440a5453f19a#ref=rss)
-* [https://www.spiegel.de/familie/pubertaet-wenn-meine-kinder-gnaedig-mit-mir-sind-verdrehen-sie-nur-die-augen](https://www.spiegel.de/familie/pubertaet-wenn-meine-kinder-gnaedig-mit-mir-sind-verdrehen-sie-nur-die-augen-a-6f117cca-af72-4044-9008-508653f16666#ref=rss)
-### jörn
-
-* [https://www.spiegel.de/politik/deutschland/razzia-bei-afd-landtagsabgeordneten-aus-sachsen](https://www.spiegel.de/politik/deutschland/razzia-bei-afd-landtagsabgeordneten-aus-sachsen-a-c6087282-a727-4c21-8df3-d24af5056e41#ref=rss)
-### dornau
-
-* [https://www.spiegel.de/politik/deutschland/razzia-bei-afd-landtagsabgeordneten-aus-sachsen](https://www.spiegel.de/politik/deutschland/razzia-bei-afd-landtagsabgeordneten-aus-sachsen-a-c6087282-a727-4c21-8df3-d24af5056e41#ref=rss)
-### landtag
-
-* [https://www.spiegel.de/politik/deutschland/razzia-bei-afd-landtagsabgeordneten-aus-sachsen](https://www.spiegel.de/politik/deutschland/razzia-bei-afd-landtagsabgeordneten-aus-sachsen-a-c6087282-a727-4c21-8df3-d24af5056e41#ref=rss)
-* [https://www.spiegel.de/politik/landtag-thueringen-bjoern-hoeckes-grosser-tag-oder-auch-nicht](https://www.spiegel.de/politik/landtag-thueringen-bjoern-hoeckes-grosser-tag-oder-auch-nicht-a-1e3a5c39-a744-4023-a337-aba48a2a83a5#ref=rss)
+* [https://www.spiegel.de/politik/bjoern-hoecke-scheitert-mit-misstrauensantrag-im-thueringer-landtag](https://www.spiegel.de/politik/bjoern-hoecke-scheitert-mit-misstrauensantrag-im-thueringer-landtag-a-48bc7ac1-5322-4559-8f00-8645eb4394f0#ref=rss)
 ### höcke
 
 * [https://www.spiegel.de/politik/news-in-echtzeit-usa-schiessen-iranische-drohne-ab-maskierte-toeten-gaddafis-sohn-hoecke-will-ministerpraesident-werden](https://www.spiegel.de/politik/news-in-echtzeit-usa-schiessen-iranische-drohne-ab-maskierte-toeten-gaddafis-sohn-hoecke-will-ministerpraesident-werden-a-2228e758-d7df-4725-99b5-e41211baaeab#ref=rss)
-* [https://www.spiegel.de/politik/landtag-thueringen-bjoern-hoeckes-grosser-tag-oder-auch-nicht](https://www.spiegel.de/politik/landtag-thueringen-bjoern-hoeckes-grosser-tag-oder-auch-nicht-a-1e3a5c39-a744-4023-a337-aba48a2a83a5#ref=rss)
-### lindsey
+* [https://www.spiegel.de/politik/bjoern-hoecke-scheitert-mit-misstrauensantrag-im-thueringer-landtag](https://www.spiegel.de/politik/bjoern-hoecke-scheitert-mit-misstrauensantrag-im-thueringer-landtag-a-48bc7ac1-5322-4559-8f00-8645eb4394f0#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/sport/olympia/lindsey-vonn-bei-den-olympischen-spielen-2026-abfahrt-trotz-kreuzbandriss](https://www.spiegel.de/sport/olympia/lindsey-vonn-bei-den-olympischen-spielen-2026-abfahrt-trotz-kreuzbandriss-a-70894994-0cea-4195-8c3b-21c473b67a5b#ref=rss)
-### vonn
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-vor-gericht-in-norwegen-ich-bin-bekannt-dafuer-der-sohn-meiner-mutter-zu-sein](https://www.spiegel.de/ausland/marius-borg-hoiby-vor-gericht-in-norwegen-ich-bin-bekannt-dafuer-der-sohn-meiner-mutter-zu-sein-a-c72bb0c0-f8fd-4b39-b88d-2623cadddac7#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/menden-kind-laeuft-barfuss-im-schnee-was-die-mutter-dazu-sagt](https://www.spiegel.de/panorama/gesellschaft/menden-kind-laeuft-barfuss-im-schnee-was-die-mutter-dazu-sagt-a-cecfd298-1e85-4d58-a683-14c7998456b5#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/sport/olympia/lindsey-vonn-bei-den-olympischen-spielen-2026-abfahrt-trotz-kreuzbandriss](https://www.spiegel.de/sport/olympia/lindsey-vonn-bei-den-olympischen-spielen-2026-abfahrt-trotz-kreuzbandriss-a-70894994-0cea-4195-8c3b-21c473b67a5b#ref=rss)
-### olympischen
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-vor-gericht-in-norwegen-ich-bin-bekannt-dafuer-der-sohn-meiner-mutter-zu-sein](https://www.spiegel.de/ausland/marius-borg-hoiby-vor-gericht-in-norwegen-ich-bin-bekannt-dafuer-der-sohn-meiner-mutter-zu-sein-a-c72bb0c0-f8fd-4b39-b88d-2623cadddac7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/hamburg-so-viel-kostet-die-teuerste-luxuswohnung-der-stadt](https://www.spiegel.de/wirtschaft/hamburg-so-viel-kostet-die-teuerste-luxuswohnung-der-stadt-a-b0410f26-3c6b-4e9c-b929-17f964497446#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bundesinstitut-fuer-bevoelkerungsforschung-herkunft-beeinflusst-stark-die-bildungschancen](https://www.spiegel.de/panorama/bildung/bundesinstitut-fuer-bevoelkerungsforschung-herkunft-beeinflusst-stark-die-bildungschancen-a-65972207-4241-4a79-bd8f-682d21dee31d#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/sport/olympia/lindsey-vonn-bei-den-olympischen-spielen-2026-abfahrt-trotz-kreuzbandriss](https://www.spiegel.de/sport/olympia/lindsey-vonn-bei-den-olympischen-spielen-2026-abfahrt-trotz-kreuzbandriss-a-70894994-0cea-4195-8c3b-21c473b67a5b#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-in-mailand-muehsamer-ticketverkauf-fuer-eroeffnungsfeier](https://www.spiegel.de/sport/olympia/olympia-2026-in-mailand-muehsamer-ticketverkauf-fuer-eroeffnungsfeier-a-5bd16359-0e61-426e-bcae-28305f57e0fe#ref=rss)
-### spielen
+* [https://www.spiegel.de/wirtschaft/hamburg-so-viel-kostet-die-teuerste-luxuswohnung-der-stadt](https://www.spiegel.de/wirtschaft/hamburg-so-viel-kostet-die-teuerste-luxuswohnung-der-stadt-a-b0410f26-3c6b-4e9c-b929-17f964497446#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-mann-attackiert-bahn-mitarbeiter-am-bahnhof-dammtor](https://www.spiegel.de/panorama/justiz/hamburg-mann-attackiert-bahn-mitarbeiter-am-bahnhof-dammtor-a-82eeb547-5659-4a52-ae24-ed8496789b6b#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/sport/olympia/lindsey-vonn-bei-den-olympischen-spielen-2026-abfahrt-trotz-kreuzbandriss](https://www.spiegel.de/sport/olympia/lindsey-vonn-bei-den-olympischen-spielen-2026-abfahrt-trotz-kreuzbandriss-a-70894994-0cea-4195-8c3b-21c473b67a5b#ref=rss)
-* [https://www.spiegel.de/kultur/kino/meryl-streep-soll-joni-mitchell-spielen](https://www.spiegel.de/kultur/kino/meryl-streep-soll-joni-mitchell-spielen-a-f8cb5ec8-13f9-4832-ace5-702ad1323b43#ref=rss)
-### abfahrt
+* [https://www.spiegel.de/ausland/trump-will-kolumbus-statue-vor-dem-weissen-haus-aufstellen](https://www.spiegel.de/ausland/trump-will-kolumbus-statue-vor-dem-weissen-haus-aufstellen-a-361323b0-88eb-4d73-9015-a2fe2a26d6c2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-reagiert-duennhaeutig-auf-fragen-zu-jeffrey-epstein](https://www.spiegel.de/ausland/donald-trump-us-praesident-reagiert-duennhaeutig-auf-fragen-zu-jeffrey-epstein-a-47d83c5d-47b6-4f0a-be0e-a85c7f147a32#ref=rss)
+### sap
 
-* [https://www.spiegel.de/sport/olympia/lindsey-vonn-bei-den-olympischen-spielen-2026-abfahrt-trotz-kreuzbandriss](https://www.spiegel.de/sport/olympia/lindsey-vonn-bei-den-olympischen-spielen-2026-abfahrt-trotz-kreuzbandriss-a-70894994-0cea-4195-8c3b-21c473b67a5b#ref=rss)
-### kristen
+* [https://www.spiegel.de/wirtschaft/darum-ist-sap-nur-noch-der-zweitwertvollste-konzern-deutschlands](https://www.spiegel.de/wirtschaft/darum-ist-sap-nur-noch-der-zweitwertvollste-konzern-deutschlands-a-a9236d8e-763b-4794-a41a-37999fced962#ref=rss)
+### konzern
 
-* [https://www.spiegel.de/panorama/leute/kristen-stewart-schauspielerin-spricht-ueber-coming-out-vor-neun-jahren](https://www.spiegel.de/panorama/leute/kristen-stewart-schauspielerin-spricht-ueber-coming-out-vor-neun-jahren-a-2427bc7b-f864-45d9-a60d-bd324d2a82d6#ref=rss)
-### stewart
+* [https://www.spiegel.de/wirtschaft/darum-ist-sap-nur-noch-der-zweitwertvollste-konzern-deutschlands](https://www.spiegel.de/wirtschaft/darum-ist-sap-nur-noch-der-zweitwertvollste-konzern-deutschlands-a-a9236d8e-763b-4794-a41a-37999fced962#ref=rss)
+### jahrelang
 
-* [https://www.spiegel.de/panorama/leute/kristen-stewart-schauspielerin-spricht-ueber-coming-out-vor-neun-jahren](https://www.spiegel.de/panorama/leute/kristen-stewart-schauspielerin-spricht-ueber-coming-out-vor-neun-jahren-a-2427bc7b-f864-45d9-a60d-bd324d2a82d6#ref=rss)
-### schauspielerin
+* [https://www.spiegel.de/wirtschaft/darum-ist-sap-nur-noch-der-zweitwertvollste-konzern-deutschlands](https://www.spiegel.de/wirtschaft/darum-ist-sap-nur-noch-der-zweitwertvollste-konzern-deutschlands-a-a9236d8e-763b-4794-a41a-37999fced962#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-hersteller-von-abnehmspritzen-sieht-mageren-zeiten-entgegen](https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-hersteller-von-abnehmspritzen-sieht-mageren-zeiten-entgegen-a-6caf5437-8bdb-4bfe-a90c-77782184bb0a#ref=rss)
+### oben
 
-* [https://www.spiegel.de/panorama/leute/kristen-stewart-schauspielerin-spricht-ueber-coming-out-vor-neun-jahren](https://www.spiegel.de/panorama/leute/kristen-stewart-schauspielerin-spricht-ueber-coming-out-vor-neun-jahren-a-2427bc7b-f864-45d9-a60d-bd324d2a82d6#ref=rss)
-### neun
+* [https://www.spiegel.de/wirtschaft/darum-ist-sap-nur-noch-der-zweitwertvollste-konzern-deutschlands](https://www.spiegel.de/wirtschaft/darum-ist-sap-nur-noch-der-zweitwertvollste-konzern-deutschlands-a-a9236d8e-763b-4794-a41a-37999fced962#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-hersteller-von-abnehmspritzen-sieht-mageren-zeiten-entgegen](https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-hersteller-von-abnehmspritzen-sieht-mageren-zeiten-entgegen-a-6caf5437-8bdb-4bfe-a90c-77782184bb0a#ref=rss)
+### telekom
 
-* [https://www.spiegel.de/panorama/leute/kristen-stewart-schauspielerin-spricht-ueber-coming-out-vor-neun-jahren](https://www.spiegel.de/panorama/leute/kristen-stewart-schauspielerin-spricht-ueber-coming-out-vor-neun-jahren-a-2427bc7b-f864-45d9-a60d-bd324d2a82d6#ref=rss)
-### sagt
+* [https://www.spiegel.de/netzwelt/telekom-nvidia-ki-grossanlage-in-muenchen-eroeffnet](https://www.spiegel.de/netzwelt/telekom-nvidia-ki-grossanlage-in-muenchen-eroeffnet-a-c14b75d5-41c9-4ee8-ab61-416826434ee8#ref=rss)
+### nvidia
 
-* [https://www.spiegel.de/panorama/leute/kristen-stewart-schauspielerin-spricht-ueber-coming-out-vor-neun-jahren](https://www.spiegel.de/panorama/leute/kristen-stewart-schauspielerin-spricht-ueber-coming-out-vor-neun-jahren-a-2427bc7b-f864-45d9-a60d-bd324d2a82d6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/bill-gates-und-die-epstein-akten-melinda-gates-fordert-antworten-von-ex-mann-bill](https://www.spiegel.de/panorama/leute/bill-gates-und-die-epstein-akten-melinda-gates-fordert-antworten-von-ex-mann-bill-a-a99865c4-720e-4057-bbf2-59b0b4973038#ref=rss)
-### westjordanland
+* [https://www.spiegel.de/netzwelt/telekom-nvidia-ki-grossanlage-in-muenchen-eroeffnet](https://www.spiegel.de/netzwelt/telekom-nvidia-ki-grossanlage-in-muenchen-eroeffnet-a-c14b75d5-41c9-4ee8-ab61-416826434ee8#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/ausland/westjordanland-das-eingezaeunte-dorf-sinjil-wie-in-einem-dreifachen-gefaengnis](https://www.spiegel.de/ausland/westjordanland-das-eingezaeunte-dorf-sinjil-wie-in-einem-dreifachen-gefaengnis-a-26aad081-e60c-429d-bbb7-afe64c5ddaba#ref=rss)
-### dorf
+* [https://www.spiegel.de/netzwelt/telekom-nvidia-ki-grossanlage-in-muenchen-eroeffnet](https://www.spiegel.de/netzwelt/telekom-nvidia-ki-grossanlage-in-muenchen-eroeffnet-a-c14b75d5-41c9-4ee8-ab61-416826434ee8#ref=rss)
+### eröffnet
 
-* [https://www.spiegel.de/ausland/westjordanland-das-eingezaeunte-dorf-sinjil-wie-in-einem-dreifachen-gefaengnis](https://www.spiegel.de/ausland/westjordanland-das-eingezaeunte-dorf-sinjil-wie-in-einem-dreifachen-gefaengnis-a-26aad081-e60c-429d-bbb7-afe64c5ddaba#ref=rss)
-### sinjil
-
-* [https://www.spiegel.de/ausland/westjordanland-das-eingezaeunte-dorf-sinjil-wie-in-einem-dreifachen-gefaengnis](https://www.spiegel.de/ausland/westjordanland-das-eingezaeunte-dorf-sinjil-wie-in-einem-dreifachen-gefaengnis-a-26aad081-e60c-429d-bbb7-afe64c5ddaba#ref=rss)
-### gefängnis
-
-* [https://www.spiegel.de/ausland/westjordanland-das-eingezaeunte-dorf-sinjil-wie-in-einem-dreifachen-gefaengnis](https://www.spiegel.de/ausland/westjordanland-das-eingezaeunte-dorf-sinjil-wie-in-einem-dreifachen-gefaengnis-a-26aad081-e60c-429d-bbb7-afe64c5ddaba#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001](https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001-a-b8f27aa1-ba97-4c10-855d-85dda38d26c8#ref=rss)
-### freitag
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-in-mailand-muehsamer-ticketverkauf-fuer-eroeffnungsfeier](https://www.spiegel.de/sport/olympia/olympia-2026-in-mailand-muehsamer-ticketverkauf-fuer-eroeffnungsfeier-a-5bd16359-0e61-426e-bcae-28305f57e0fe#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-iran-wollen-am-freitag-ueber-deeskalation-sprechen](https://www.spiegel.de/ausland/usa-und-iran-wollen-am-freitag-ueber-deeskalation-sprechen-a-c2f15c10-4d44-4382-98d4-fdd9d6436eb8#ref=rss)
-### draco
-
-* [https://www.spiegel.de/panorama/draco-malfoy-bringt-in-china-jetzt-glueck](https://www.spiegel.de/panorama/draco-malfoy-bringt-in-china-jetzt-glueck-a-9d7518cc-1d34-420b-bebb-6bd1a1017a62#ref=rss)
-### malfoy
-
-* [https://www.spiegel.de/panorama/draco-malfoy-bringt-in-china-jetzt-glueck](https://www.spiegel.de/panorama/draco-malfoy-bringt-in-china-jetzt-glueck-a-9d7518cc-1d34-420b-bebb-6bd1a1017a62#ref=rss)
-### bringt
-
-* [https://www.spiegel.de/panorama/draco-malfoy-bringt-in-china-jetzt-glueck](https://www.spiegel.de/panorama/draco-malfoy-bringt-in-china-jetzt-glueck-a-9d7518cc-1d34-420b-bebb-6bd1a1017a62#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oel-aus-venezuela-sorgt-fuer-ueberangebot-und-preisdruck-in-den-usa](https://www.spiegel.de/wirtschaft/oel-aus-venezuela-sorgt-fuer-ueberangebot-und-preisdruck-in-den-usa-a-a2e9e174-13f7-4cf4-a1cc-44537aa4a371#ref=rss)
-### jeffrey
-
-* [https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters](https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters-a-1cfb9902-9452-48ee-b209-6b5dacc85493#ref=rss)
-### epstein
-
-* [https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters](https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters-a-1cfb9902-9452-48ee-b209-6b5dacc85493#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters](https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters-a-1cfb9902-9452-48ee-b209-6b5dacc85493#ref=rss)
-### kiforscher
-
-* [https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters](https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters-a-1cfb9902-9452-48ee-b209-6b5dacc85493#ref=rss)
-### joscha
-
-* [https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters](https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters-a-1cfb9902-9452-48ee-b209-6b5dacc85493#ref=rss)
-### bach
-
-* [https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters](https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters-a-1cfb9902-9452-48ee-b209-6b5dacc85493#ref=rss)
-### karriere
-
-* [https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters](https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters-a-1cfb9902-9452-48ee-b209-6b5dacc85493#ref=rss)
-* [https://www.spiegel.de/karriere/karriere-welcher-typ-bin-ich-systematische-sortierung-von-mitarbeitenden-in-unternehmen](https://www.spiegel.de/karriere/karriere-welcher-typ-bin-ich-systematische-sortierung-von-mitarbeitenden-in-unternehmen-a-81a2ed6a-6079-4c60-ae7e-20f976ccb9cf#ref=rss)
-### spiegelrecherchen
-
-* [https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters](https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters-a-1cfb9902-9452-48ee-b209-6b5dacc85493#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001](https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001-a-b8f27aa1-ba97-4c10-855d-85dda38d26c8#ref=rss)
+* [https://www.spiegel.de/netzwelt/telekom-nvidia-ki-grossanlage-in-muenchen-eroeffnet](https://www.spiegel.de/netzwelt/telekom-nvidia-ki-grossanlage-in-muenchen-eroeffnet-a-c14b75d5-41c9-4ee8-ab61-416826434ee8#ref=rss)
+* [https://www.spiegel.de/ausland/nigeria-mindestens-162-menschen-bei-bewaffnetem-dschihadisten-angriff-getoetet](https://www.spiegel.de/ausland/nigeria-mindestens-162-menschen-bei-bewaffnetem-dschihadisten-angriff-getoetet-a-119ce235-854c-49e5-b600-e3d0860979df#ref=rss)
 ### zeigen
 
-* [https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters](https://www.spiegel.de/wissenschaft/jeffrey-epstein-deutscher-ki-forscher-joscha-bach-machte-karriere-mit-hilfe-des-sexualstraftaeters-a-1cfb9902-9452-48ee-b209-6b5dacc85493#ref=rss)
-* [https://www.spiegel.de/ausland/renee-good-brueder-zeigen-sich-fassungslos-vor-dem-us-kongress](https://www.spiegel.de/ausland/renee-good-brueder-zeigen-sich-fassungslos-vor-dem-us-kongress-a-a0a3f6d1-3421-48a8-bb7b-2e0926143b59#ref=rss)
-### hamburger
+* [https://www.spiegel.de/netzwelt/telekom-nvidia-ki-grossanlage-in-muenchen-eroeffnet](https://www.spiegel.de/netzwelt/telekom-nvidia-ki-grossanlage-in-muenchen-eroeffnet-a-c14b75d5-41c9-4ee8-ab61-416826434ee8#ref=rss)
+* [https://www.spiegel.de/ausland/renee-good-brueder-appellieren-nach-toedlichem-ice-einsatz-an-politiker](https://www.spiegel.de/ausland/renee-good-brueder-appellieren-nach-toedlichem-ice-einsatz-an-politiker-a-c85f886e-719f-43f3-a576-496723f7fce7#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001](https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001-a-b8f27aa1-ba97-4c10-855d-85dda38d26c8#ref=rss)
-### dschihadist
+* [https://www.spiegel.de/politik/deutschland/bundestag-bsw-will-bis-mitte-februar-auf-neuauszaehlung-der-wahl-klagen](https://www.spiegel.de/politik/deutschland/bundestag-bsw-will-bis-mitte-februar-auf-neuauszaehlung-der-wahl-klagen-a-25260bd9-15f9-40d0-9663-d7951b5c8756#ref=rss)
+### bsw
 
-* [https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001](https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001-a-b8f27aa1-ba97-4c10-855d-85dda38d26c8#ref=rss)
-### mohammed
+* [https://www.spiegel.de/politik/deutschland/bundestag-bsw-will-bis-mitte-februar-auf-neuauszaehlung-der-wahl-klagen](https://www.spiegel.de/politik/deutschland/bundestag-bsw-will-bis-mitte-februar-auf-neuauszaehlung-der-wahl-klagen-a-25260bd9-15f9-40d0-9663-d7951b5c8756#ref=rss)
+### neuauszählung
 
-* [https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001](https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001-a-b8f27aa1-ba97-4c10-855d-85dda38d26c8#ref=rss)
-### haydar
+* [https://www.spiegel.de/politik/deutschland/bundestag-bsw-will-bis-mitte-februar-auf-neuauszaehlung-der-wahl-klagen](https://www.spiegel.de/politik/deutschland/bundestag-bsw-will-bis-mitte-februar-auf-neuauszaehlung-der-wahl-klagen-a-25260bd9-15f9-40d0-9663-d7951b5c8756#ref=rss)
+### partei
 
-* [https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001](https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001-a-b8f27aa1-ba97-4c10-855d-85dda38d26c8#ref=rss)
-### zammar
+* [https://www.spiegel.de/politik/deutschland/bundestag-bsw-will-bis-mitte-februar-auf-neuauszaehlung-der-wahl-klagen](https://www.spiegel.de/politik/deutschland/bundestag-bsw-will-bis-mitte-februar-auf-neuauszaehlung-der-wahl-klagen-a-25260bd9-15f9-40d0-9663-d7951b5c8756#ref=rss)
+* [https://www.spiegel.de/politik/bjoern-hoecke-scheitert-mit-misstrauensantrag-im-thueringer-landtag](https://www.spiegel.de/politik/bjoern-hoecke-scheitert-mit-misstrauensantrag-im-thueringer-landtag-a-48bc7ac1-5322-4559-8f00-8645eb4394f0#ref=rss)
+### keir
 
-* [https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001](https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001-a-b8f27aa1-ba97-4c10-855d-85dda38d26c8#ref=rss)
-### gestorben
+* [https://www.spiegel.de/ausland/keir-starmer-wusste-von-jeffrey-epstein-verbindung-und-machte-peter-mandelson-trotzdem-zum-us-botschafter](https://www.spiegel.de/ausland/keir-starmer-wusste-von-jeffrey-epstein-verbindung-und-machte-peter-mandelson-trotzdem-zum-us-botschafter-a-91b88ef5-fa0a-41b9-b0d8-16de28e491ce#ref=rss)
+### starmer
 
-* [https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001](https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001-a-b8f27aa1-ba97-4c10-855d-85dda38d26c8#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-zugbegleiter-nach-angriff-durch-passagier-gestorben](https://www.spiegel.de/panorama/deutsche-bahn-zugbegleiter-nach-angriff-durch-passagier-gestorben-a-8cffeb08-5891-43b7-9e54-34702df296c2#ref=rss)
-### 11
+* [https://www.spiegel.de/ausland/keir-starmer-wusste-von-jeffrey-epstein-verbindung-und-machte-peter-mandelson-trotzdem-zum-us-botschafter](https://www.spiegel.de/ausland/keir-starmer-wusste-von-jeffrey-epstein-verbindung-und-machte-peter-mandelson-trotzdem-zum-us-botschafter-a-91b88ef5-fa0a-41b9-b0d8-16de28e491ce#ref=rss)
+### peter
 
-* [https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001](https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001-a-b8f27aa1-ba97-4c10-855d-85dda38d26c8#ref=rss)
-### september
+* [https://www.spiegel.de/ausland/keir-starmer-wusste-von-jeffrey-epstein-verbindung-und-machte-peter-mandelson-trotzdem-zum-us-botschafter](https://www.spiegel.de/ausland/keir-starmer-wusste-von-jeffrey-epstein-verbindung-und-machte-peter-mandelson-trotzdem-zum-us-botschafter-a-91b88ef5-fa0a-41b9-b0d8-16de28e491ce#ref=rss)
+### mandelson
 
-* [https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001](https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001-a-b8f27aa1-ba97-4c10-855d-85dda38d26c8#ref=rss)
-### 2001
+* [https://www.spiegel.de/ausland/keir-starmer-wusste-von-jeffrey-epstein-verbindung-und-machte-peter-mandelson-trotzdem-zum-us-botschafter](https://www.spiegel.de/ausland/keir-starmer-wusste-von-jeffrey-epstein-verbindung-und-machte-peter-mandelson-trotzdem-zum-us-botschafter-a-91b88ef5-fa0a-41b9-b0d8-16de28e491ce#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001](https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001-a-b8f27aa1-ba97-4c10-855d-85dda38d26c8#ref=rss)
-### tot
-
-* [https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001](https://www.spiegel.de/panorama/justiz/hamburger-dschihadist-mohammed-haydar-zammar-in-syrischem-gefaengnis-gestorben-enger-freund-der-attentaeter-vom-11-september-2001-a-b8f27aa1-ba97-4c10-855d-85dda38d26c8#ref=rss)
-* [https://www.spiegel.de/panorama/deutsche-bahn-zugbegleiter-nach-angriff-durch-passagier-gestorben](https://www.spiegel.de/panorama/deutsche-bahn-zugbegleiter-nach-angriff-durch-passagier-gestorben-a-8cffeb08-5891-43b7-9e54-34702df296c2#ref=rss)
-### menschenrechte
-
-* [https://www.spiegel.de/politik/menschenrechte-human-rights-watch-beklagt-verschlechterte-lage-fuer-zuwanderer-in-deutschland](https://www.spiegel.de/politik/menschenrechte-human-rights-watch-beklagt-verschlechterte-lage-fuer-zuwanderer-in-deutschland-a-0c2e912f-5e7e-477e-b39d-9f71c89ef3fd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/saudi-arabien-katar-vae-gruene-verlangen-von-friedrich-merz-klare-worte-gegenueber-scheichs](https://www.spiegel.de/politik/deutschland/saudi-arabien-katar-vae-gruene-verlangen-von-friedrich-merz-klare-worte-gegenueber-scheichs-a-0c4425ea-1edd-4f47-a51f-004011b45045#ref=rss)
-### human
-
-* [https://www.spiegel.de/politik/menschenrechte-human-rights-watch-beklagt-verschlechterte-lage-fuer-zuwanderer-in-deutschland](https://www.spiegel.de/politik/menschenrechte-human-rights-watch-beklagt-verschlechterte-lage-fuer-zuwanderer-in-deutschland-a-0c2e912f-5e7e-477e-b39d-9f71c89ef3fd#ref=rss)
-### rights
-
-* [https://www.spiegel.de/politik/menschenrechte-human-rights-watch-beklagt-verschlechterte-lage-fuer-zuwanderer-in-deutschland](https://www.spiegel.de/politik/menschenrechte-human-rights-watch-beklagt-verschlechterte-lage-fuer-zuwanderer-in-deutschland-a-0c2e912f-5e7e-477e-b39d-9f71c89ef3fd#ref=rss)
-### watch
-
-* [https://www.spiegel.de/politik/menschenrechte-human-rights-watch-beklagt-verschlechterte-lage-fuer-zuwanderer-in-deutschland](https://www.spiegel.de/politik/menschenrechte-human-rights-watch-beklagt-verschlechterte-lage-fuer-zuwanderer-in-deutschland-a-0c2e912f-5e7e-477e-b39d-9f71c89ef3fd#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/menschenrechte-human-rights-watch-beklagt-verschlechterte-lage-fuer-zuwanderer-in-deutschland](https://www.spiegel.de/politik/menschenrechte-human-rights-watch-beklagt-verschlechterte-lage-fuer-zuwanderer-in-deutschland-a-0c2e912f-5e7e-477e-b39d-9f71c89ef3fd#ref=rss)
-### zuwanderer
-
-* [https://www.spiegel.de/politik/menschenrechte-human-rights-watch-beklagt-verschlechterte-lage-fuer-zuwanderer-in-deutschland](https://www.spiegel.de/politik/menschenrechte-human-rights-watch-beklagt-verschlechterte-lage-fuer-zuwanderer-in-deutschland-a-0c2e912f-5e7e-477e-b39d-9f71c89ef3fd#ref=rss)
-### glaubwürdigkeit
-
-* [https://www.spiegel.de/politik/menschenrechte-human-rights-watch-beklagt-verschlechterte-lage-fuer-zuwanderer-in-deutschland](https://www.spiegel.de/politik/menschenrechte-human-rights-watch-beklagt-verschlechterte-lage-fuer-zuwanderer-in-deutschland-a-0c2e912f-5e7e-477e-b39d-9f71c89ef3fd#ref=rss)
-* [https://www.spiegel.de/ausland/usa-jeff-bezos-macht-die-washington-post-wie-es-donald-trump-gefaellt](https://www.spiegel.de/ausland/usa-jeff-bezos-macht-die-washington-post-wie-es-donald-trump-gefaellt-a-bbfaa4eb-bace-4188-a9e8-be295cee1cc2#ref=rss)
-### joni
-
-* [https://www.spiegel.de/kultur/kino/meryl-streep-soll-joni-mitchell-spielen](https://www.spiegel.de/kultur/kino/meryl-streep-soll-joni-mitchell-spielen-a-f8cb5ec8-13f9-4832-ace5-702ad1323b43#ref=rss)
-### mitchell
-
-* [https://www.spiegel.de/kultur/kino/meryl-streep-soll-joni-mitchell-spielen](https://www.spiegel.de/kultur/kino/meryl-streep-soll-joni-mitchell-spielen-a-f8cb5ec8-13f9-4832-ace5-702ad1323b43#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/deutsche-bahn-zugbegleiter-nach-angriff-durch-passagier-gestorben](https://www.spiegel.de/panorama/deutsche-bahn-zugbegleiter-nach-angriff-durch-passagier-gestorben-a-8cffeb08-5891-43b7-9e54-34702df296c2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/karl-lauterbach-und-oekonomen-warnen-vor-kosten-durch-klinikplaene-von-nina-warken](https://www.spiegel.de/wirtschaft/karl-lauterbach-und-oekonomen-warnen-vor-kosten-durch-klinikplaene-von-nina-warken-a-e5158d56-33e1-4bf3-aacc-1f4fcecb99b3#ref=rss)
-### james
-
-* [https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-offenbar-zu-den-cleveland-cavaliers](https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-offenbar-zu-den-cleveland-cavaliers-a-374fcda3-b19e-40ac-b7cb-9177a25a52a3#ref=rss)
-### harden
-
-* [https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-offenbar-zu-den-cleveland-cavaliers](https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-offenbar-zu-den-cleveland-cavaliers-a-374fcda3-b19e-40ac-b7cb-9177a25a52a3#ref=rss)
-### wechselt
-
-* [https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-offenbar-zu-den-cleveland-cavaliers](https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-offenbar-zu-den-cleveland-cavaliers-a-374fcda3-b19e-40ac-b7cb-9177a25a52a3#ref=rss)
-### cavaliers
-
-* [https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-offenbar-zu-den-cleveland-cavaliers](https://www.spiegel.de/sport/basketball/nba-james-harden-wechselt-offenbar-zu-den-cleveland-cavaliers-a-374fcda3-b19e-40ac-b7cb-9177a25a52a3#ref=rss)
-### renée
-
-* [https://www.spiegel.de/ausland/renee-good-brueder-zeigen-sich-fassungslos-vor-dem-us-kongress](https://www.spiegel.de/ausland/renee-good-brueder-zeigen-sich-fassungslos-vor-dem-us-kongress-a-a0a3f6d1-3421-48a8-bb7b-2e0926143b59#ref=rss)
-### good
-
-* [https://www.spiegel.de/ausland/renee-good-brueder-zeigen-sich-fassungslos-vor-dem-us-kongress](https://www.spiegel.de/ausland/renee-good-brueder-zeigen-sich-fassungslos-vor-dem-us-kongress-a-a0a3f6d1-3421-48a8-bb7b-2e0926143b59#ref=rss)
-### brüder
-
-* [https://www.spiegel.de/ausland/renee-good-brueder-zeigen-sich-fassungslos-vor-dem-us-kongress](https://www.spiegel.de/ausland/renee-good-brueder-zeigen-sich-fassungslos-vor-dem-us-kongress-a-a0a3f6d1-3421-48a8-bb7b-2e0926143b59#ref=rss)
-### uskongress
-
-* [https://www.spiegel.de/ausland/renee-good-brueder-zeigen-sich-fassungslos-vor-dem-us-kongress](https://www.spiegel.de/ausland/renee-good-brueder-zeigen-sich-fassungslos-vor-dem-us-kongress-a-a0a3f6d1-3421-48a8-bb7b-2e0926143b59#ref=rss)
-### jeff
-
-* [https://www.spiegel.de/ausland/usa-jeff-bezos-macht-die-washington-post-wie-es-donald-trump-gefaellt](https://www.spiegel.de/ausland/usa-jeff-bezos-macht-die-washington-post-wie-es-donald-trump-gefaellt-a-bbfaa4eb-bace-4188-a9e8-be295cee1cc2#ref=rss)
-### washington
-
-* [https://www.spiegel.de/ausland/usa-jeff-bezos-macht-die-washington-post-wie-es-donald-trump-gefaellt](https://www.spiegel.de/ausland/usa-jeff-bezos-macht-die-washington-post-wie-es-donald-trump-gefaellt-a-bbfaa4eb-bace-4188-a9e8-be295cee1cc2#ref=rss)
-* [https://www.spiegel.de/ausland/usa-und-iran-wollen-am-freitag-ueber-deeskalation-sprechen](https://www.spiegel.de/ausland/usa-und-iran-wollen-am-freitag-ueber-deeskalation-sprechen-a-c2f15c10-4d44-4382-98d4-fdd9d6436eb8#ref=rss)
-### amazonmanager
-
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-amazon-manager-schliesst-rechenzentren-im-all-vorerst-aus](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-amazon-manager-schliesst-rechenzentren-im-all-vorerst-aus-a-b93c59ad-23c7-432c-a945-b3b0697f223e#ref=rss)
-### rechenzentren
-
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-amazon-manager-schliesst-rechenzentren-im-all-vorerst-aus](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-amazon-manager-schliesst-rechenzentren-im-all-vorerst-aus-a-b93c59ad-23c7-432c-a945-b3b0697f223e#ref=rss)
-### all
-
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-amazon-manager-schliesst-rechenzentren-im-all-vorerst-aus](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-amazon-manager-schliesst-rechenzentren-im-all-vorerst-aus-a-b93c59ad-23c7-432c-a945-b3b0697f223e#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-amazon-manager-schliesst-rechenzentren-im-all-vorerst-aus](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-amazon-manager-schliesst-rechenzentren-im-all-vorerst-aus-a-b93c59ad-23c7-432c-a945-b3b0697f223e#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-gespraeche-gehen-trotz-schwerer-angriffe-weiter](https://www.spiegel.de/ausland/russland-ukraine-krieg-gespraeche-gehen-trotz-schwerer-angriffe-weiter-a-d9b4bfed-682a-4ea3-b83f-c54729538a5e#ref=rss)
-### handyverbot
-
-* [https://www.spiegel.de/panorama/bildung/umfrage-16-bis-18-jaehrige-wollen-kein-handyverbot-an-schulen](https://www.spiegel.de/panorama/bildung/umfrage-16-bis-18-jaehrige-wollen-kein-handyverbot-an-schulen-a-a5f0f50d-59a1-4af4-852a-dccd20b281a8#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/bildung/umfrage-16-bis-18-jaehrige-wollen-kein-handyverbot-an-schulen](https://www.spiegel.de/panorama/bildung/umfrage-16-bis-18-jaehrige-wollen-kein-handyverbot-an-schulen-a-a5f0f50d-59a1-4af4-852a-dccd20b281a8#ref=rss)
-### obwohl
-
-* [https://www.spiegel.de/panorama/bildung/umfrage-16-bis-18-jaehrige-wollen-kein-handyverbot-an-schulen](https://www.spiegel.de/panorama/bildung/umfrage-16-bis-18-jaehrige-wollen-kein-handyverbot-an-schulen-a-a5f0f50d-59a1-4af4-852a-dccd20b281a8#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-gespraeche-gehen-trotz-schwerer-angriffe-weiter](https://www.spiegel.de/ausland/russland-ukraine-krieg-gespraeche-gehen-trotz-schwerer-angriffe-weiter-a-d9b4bfed-682a-4ea3-b83f-c54729538a5e#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/bildung/umfrage-16-bis-18-jaehrige-wollen-kein-handyverbot-an-schulen](https://www.spiegel.de/panorama/bildung/umfrage-16-bis-18-jaehrige-wollen-kein-handyverbot-an-schulen-a-a5f0f50d-59a1-4af4-852a-dccd20b281a8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oel-aus-venezuela-sorgt-fuer-ueberangebot-und-preisdruck-in-den-usa](https://www.spiegel.de/wirtschaft/oel-aus-venezuela-sorgt-fuer-ueberangebot-und-preisdruck-in-den-usa-a-a2e9e174-13f7-4cf4-a1cc-44537aa4a371#ref=rss)
-### druck
-
-* [https://www.spiegel.de/panorama/bildung/umfrage-16-bis-18-jaehrige-wollen-kein-handyverbot-an-schulen](https://www.spiegel.de/panorama/bildung/umfrage-16-bis-18-jaehrige-wollen-kein-handyverbot-an-schulen-a-a5f0f50d-59a1-4af4-852a-dccd20b281a8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oel-aus-venezuela-sorgt-fuer-ueberangebot-und-preisdruck-in-den-usa](https://www.spiegel.de/wirtschaft/oel-aus-venezuela-sorgt-fuer-ueberangebot-und-preisdruck-in-den-usa-a-a2e9e174-13f7-4cf4-a1cc-44537aa4a371#ref=rss)
-### venezuela
-
-* [https://www.spiegel.de/wirtschaft/oel-aus-venezuela-sorgt-fuer-ueberangebot-und-preisdruck-in-den-usa](https://www.spiegel.de/wirtschaft/oel-aus-venezuela-sorgt-fuer-ueberangebot-und-preisdruck-in-den-usa-a-a2e9e174-13f7-4cf4-a1cc-44537aa4a371#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/panorama/leute/vermisste-mutter-von-nbc-moderatorin-trump-findet-entfuehrung-von-84-jaehriger-schrecklich](https://www.spiegel.de/panorama/leute/vermisste-mutter-von-nbc-moderatorin-trump-findet-entfuehrung-von-84-jaehriger-schrecklich-a-f7c7edf3-1b65-4fdc-a5e4-ea2114ac8406#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-gespraeche-gehen-trotz-schwerer-angriffe-weiter](https://www.spiegel.de/ausland/russland-ukraine-krieg-gespraeche-gehen-trotz-schwerer-angriffe-weiter-a-d9b4bfed-682a-4ea3-b83f-c54729538a5e#ref=rss)
-### björn
-
-* [https://www.spiegel.de/politik/landtag-thueringen-bjoern-hoeckes-grosser-tag-oder-auch-nicht](https://www.spiegel.de/politik/landtag-thueringen-bjoern-hoeckes-grosser-tag-oder-auch-nicht-a-1e3a5c39-a744-4023-a337-aba48a2a83a5#ref=rss)
-### gute
-
-* [https://www.spiegel.de/wirtschaft/service/schokoladenpreise-gute-ernten-in-westafrika-eigenmarken-leicht-guenstiger](https://www.spiegel.de/wirtschaft/service/schokoladenpreise-gute-ernten-in-westafrika-eigenmarken-leicht-guenstiger-a-ee9b45f8-12c2-4329-8822-f71d2d069a73#ref=rss)
-### ernten
-
-* [https://www.spiegel.de/wirtschaft/service/schokoladenpreise-gute-ernten-in-westafrika-eigenmarken-leicht-guenstiger](https://www.spiegel.de/wirtschaft/service/schokoladenpreise-gute-ernten-in-westafrika-eigenmarken-leicht-guenstiger-a-ee9b45f8-12c2-4329-8822-f71d2d069a73#ref=rss)
-### westafrika
-
-* [https://www.spiegel.de/wirtschaft/service/schokoladenpreise-gute-ernten-in-westafrika-eigenmarken-leicht-guenstiger](https://www.spiegel.de/wirtschaft/service/schokoladenpreise-gute-ernten-in-westafrika-eigenmarken-leicht-guenstiger-a-ee9b45f8-12c2-4329-8822-f71d2d069a73#ref=rss)
-### günstiger
-
-* [https://www.spiegel.de/wirtschaft/service/schokoladenpreise-gute-ernten-in-westafrika-eigenmarken-leicht-guenstiger](https://www.spiegel.de/wirtschaft/service/schokoladenpreise-gute-ernten-in-westafrika-eigenmarken-leicht-guenstiger-a-ee9b45f8-12c2-4329-8822-f71d2d069a73#ref=rss)
-### lauterbach
-
-* [https://www.spiegel.de/wirtschaft/karl-lauterbach-und-oekonomen-warnen-vor-kosten-durch-klinikplaene-von-nina-warken](https://www.spiegel.de/wirtschaft/karl-lauterbach-und-oekonomen-warnen-vor-kosten-durch-klinikplaene-von-nina-warken-a-e5158d56-33e1-4bf3-aacc-1f4fcecb99b3#ref=rss)
-### ökonomen
-
-* [https://www.spiegel.de/wirtschaft/karl-lauterbach-und-oekonomen-warnen-vor-kosten-durch-klinikplaene-von-nina-warken](https://www.spiegel.de/wirtschaft/karl-lauterbach-und-oekonomen-warnen-vor-kosten-durch-klinikplaene-von-nina-warken-a-e5158d56-33e1-4bf3-aacc-1f4fcecb99b3#ref=rss)
-### warken
-
-* [https://www.spiegel.de/wirtschaft/karl-lauterbach-und-oekonomen-warnen-vor-kosten-durch-klinikplaene-von-nina-warken](https://www.spiegel.de/wirtschaft/karl-lauterbach-und-oekonomen-warnen-vor-kosten-durch-klinikplaene-von-nina-warken-a-e5158d56-33e1-4bf3-aacc-1f4fcecb99b3#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-gespraeche-gehen-trotz-schwerer-angriffe-weiter](https://www.spiegel.de/ausland/russland-ukraine-krieg-gespraeche-gehen-trotz-schwerer-angriffe-weiter-a-d9b4bfed-682a-4ea3-b83f-c54729538a5e#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/familie/pubertaet-wenn-meine-kinder-gnaedig-mit-mir-sind-verdrehen-sie-nur-die-augen](https://www.spiegel.de/familie/pubertaet-wenn-meine-kinder-gnaedig-mit-mir-sind-verdrehen-sie-nur-die-augen-a-6f117cca-af72-4044-9008-508653f16666#ref=rss)
+* [https://www.spiegel.de/ausland/keir-starmer-wusste-von-jeffrey-epstein-verbindung-und-machte-peter-mandelson-trotzdem-zum-us-botschafter](https://www.spiegel.de/ausland/keir-starmer-wusste-von-jeffrey-epstein-verbindung-und-machte-peter-mandelson-trotzdem-zum-us-botschafter-a-91b88ef5-fa0a-41b9-b0d8-16de28e491ce#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/menden-kind-laeuft-barfuss-im-schnee-was-die-mutter-dazu-sagt](https://www.spiegel.de/panorama/gesellschaft/menden-kind-laeuft-barfuss-im-schnee-was-die-mutter-dazu-sagt-a-cecfd298-1e85-4d58-a683-14c7998456b5#ref=rss)
 ### ich
 
-* [https://www.spiegel.de/familie/pubertaet-wenn-meine-kinder-gnaedig-mit-mir-sind-verdrehen-sie-nur-die-augen](https://www.spiegel.de/familie/pubertaet-wenn-meine-kinder-gnaedig-mit-mir-sind-verdrehen-sie-nur-die-augen-a-6f117cca-af72-4044-9008-508653f16666#ref=rss)
-* [https://www.spiegel.de/karriere/karriere-welcher-typ-bin-ich-systematische-sortierung-von-mitarbeitenden-in-unternehmen](https://www.spiegel.de/karriere/karriere-welcher-typ-bin-ich-systematische-sortierung-von-mitarbeitenden-in-unternehmen-a-81a2ed6a-6079-4c60-ae7e-20f976ccb9cf#ref=rss)
-### bin
+* [https://www.spiegel.de/ausland/keir-starmer-wusste-von-jeffrey-epstein-verbindung-und-machte-peter-mandelson-trotzdem-zum-us-botschafter](https://www.spiegel.de/ausland/keir-starmer-wusste-von-jeffrey-epstein-verbindung-und-machte-peter-mandelson-trotzdem-zum-us-botschafter-a-91b88ef5-fa0a-41b9-b0d8-16de28e491ce#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-vor-gericht-in-norwegen-ich-bin-bekannt-dafuer-der-sohn-meiner-mutter-zu-sein](https://www.spiegel.de/ausland/marius-borg-hoiby-vor-gericht-in-norwegen-ich-bin-bekannt-dafuer-der-sohn-meiner-mutter-zu-sein-a-c72bb0c0-f8fd-4b39-b88d-2623cadddac7#ref=rss)
+### vier
 
-* [https://www.spiegel.de/familie/pubertaet-wenn-meine-kinder-gnaedig-mit-mir-sind-verdrehen-sie-nur-die-augen](https://www.spiegel.de/familie/pubertaet-wenn-meine-kinder-gnaedig-mit-mir-sind-verdrehen-sie-nur-die-augen-a-6f117cca-af72-4044-9008-508653f16666#ref=rss)
-* [https://www.spiegel.de/karriere/karriere-welcher-typ-bin-ich-systematische-sortierung-von-mitarbeitenden-in-unternehmen](https://www.spiegel.de/karriere/karriere-welcher-typ-bin-ich-systematische-sortierung-von-mitarbeitenden-in-unternehmen-a-81a2ed6a-6079-4c60-ae7e-20f976ccb9cf#ref=rss)
-### mitarbeitenden
+* [https://www.spiegel.de/ausland/frankreich-vier-chinesen-aufgrund-mutmasslicher-spionage-mit-satellitenempfaenger-festgenommen](https://www.spiegel.de/ausland/frankreich-vier-chinesen-aufgrund-mutmasslicher-spionage-mit-satellitenempfaenger-festgenommen-a-85cd232b-c8e0-4e7c-b28e-3fc4c50dd13b#ref=rss)
+### chinesen
 
-* [https://www.spiegel.de/karriere/karriere-welcher-typ-bin-ich-systematische-sortierung-von-mitarbeitenden-in-unternehmen](https://www.spiegel.de/karriere/karriere-welcher-typ-bin-ich-systematische-sortierung-von-mitarbeitenden-in-unternehmen-a-81a2ed6a-6079-4c60-ae7e-20f976ccb9cf#ref=rss)
-### unternehmen
+* [https://www.spiegel.de/ausland/frankreich-vier-chinesen-aufgrund-mutmasslicher-spionage-mit-satellitenempfaenger-festgenommen](https://www.spiegel.de/ausland/frankreich-vier-chinesen-aufgrund-mutmasslicher-spionage-mit-satellitenempfaenger-festgenommen-a-85cd232b-c8e0-4e7c-b28e-3fc4c50dd13b#ref=rss)
+### festgenommen
 
-* [https://www.spiegel.de/karriere/karriere-welcher-typ-bin-ich-systematische-sortierung-von-mitarbeitenden-in-unternehmen](https://www.spiegel.de/karriere/karriere-welcher-typ-bin-ich-systematische-sortierung-von-mitarbeitenden-in-unternehmen-a-81a2ed6a-6079-4c60-ae7e-20f976ccb9cf#ref=rss)
-### euabgeordnete
+* [https://www.spiegel.de/ausland/frankreich-vier-chinesen-aufgrund-mutmasslicher-spionage-mit-satellitenempfaenger-festgenommen](https://www.spiegel.de/ausland/frankreich-vier-chinesen-aufgrund-mutmasslicher-spionage-mit-satellitenempfaenger-festgenommen-a-85cd232b-c8e0-4e7c-b28e-3fc4c50dd13b#ref=rss)
+### news
 
-* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-eu-abgeordnete-draengen-uefa-zu-boykott-wegen-fifa-preis-fuer-donald-trump](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-eu-abgeordnete-draengen-uefa-zu-boykott-wegen-fifa-preis-fuer-donald-trump-a-7c23e33f-79c6-47d0-b51d-34c1831ecf6f#ref=rss)
-### uefa
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung](https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung-a-cc80f8b0-ceee-48da-8246-fda038b61898#ref=rss)
+* [https://www.spiegel.de/politik/news-in-echtzeit-usa-schiessen-iranische-drohne-ab-maskierte-toeten-gaddafis-sohn-hoecke-will-ministerpraesident-werden](https://www.spiegel.de/politik/news-in-echtzeit-usa-schiessen-iranische-drohne-ab-maskierte-toeten-gaddafis-sohn-hoecke-will-ministerpraesident-werden-a-2228e758-d7df-4725-99b5-e41211baaeab#ref=rss)
+### vorwürfe
 
-* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-eu-abgeordnete-draengen-uefa-zu-boykott-wegen-fifa-preis-fuer-donald-trump](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-eu-abgeordnete-draengen-uefa-zu-boykott-wegen-fifa-preis-fuer-donald-trump-a-7c23e33f-79c6-47d0-b51d-34c1831ecf6f#ref=rss)
-### saudiarabien
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung](https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung-a-cc80f8b0-ceee-48da-8246-fda038b61898#ref=rss)
+### bill
 
-* [https://www.spiegel.de/politik/deutschland/saudi-arabien-katar-vae-gruene-verlangen-von-friedrich-merz-klare-worte-gegenueber-scheichs](https://www.spiegel.de/politik/deutschland/saudi-arabien-katar-vae-gruene-verlangen-von-friedrich-merz-klare-worte-gegenueber-scheichs-a-0c4425ea-1edd-4f47-a51f-004011b45045#ref=rss)
-### katar
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung](https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung-a-cc80f8b0-ceee-48da-8246-fda038b61898#ref=rss)
+### gates
 
-* [https://www.spiegel.de/politik/deutschland/saudi-arabien-katar-vae-gruene-verlangen-von-friedrich-merz-klare-worte-gegenueber-scheichs](https://www.spiegel.de/politik/deutschland/saudi-arabien-katar-vae-gruene-verlangen-von-friedrich-merz-klare-worte-gegenueber-scheichs-a-0c4425ea-1edd-4f47-a51f-004011b45045#ref=rss)
-### grüne
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung](https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung-a-cc80f8b0-ceee-48da-8246-fda038b61898#ref=rss)
+### schaffner
 
-* [https://www.spiegel.de/politik/deutschland/saudi-arabien-katar-vae-gruene-verlangen-von-friedrich-merz-klare-worte-gegenueber-scheichs](https://www.spiegel.de/politik/deutschland/saudi-arabien-katar-vae-gruene-verlangen-von-friedrich-merz-klare-worte-gegenueber-scheichs-a-0c4425ea-1edd-4f47-a51f-004011b45045#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung](https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung-a-cc80f8b0-ceee-48da-8246-fda038b61898#ref=rss)
+### flog
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung](https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung-a-cc80f8b0-ceee-48da-8246-fda038b61898#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierung-flog-mit-sechs-jets-zu-mini-gipfel-in-rom](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierung-flog-mit-sechs-jets-zu-mini-gipfel-in-rom-a-a55bacf5-6c58-46a8-a435-b220aecf4e21#ref=rss)
+### jets
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung](https://www.spiegel.de/politik/deutschland/news-des-tages-der-komplex-jeffrey-epstein-und-die-vorwuerfe-gegen-bill-gates-attackierter-schaffner-jetset-bundesregierung-a-cc80f8b0-ceee-48da-8246-fda038b61898#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierung-flog-mit-sechs-jets-zu-mini-gipfel-in-rom](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierung-flog-mit-sechs-jets-zu-mini-gipfel-in-rom-a-a55bacf5-6c58-46a8-a435-b220aecf4e21#ref=rss)
+### renée
+
+* [https://www.spiegel.de/ausland/renee-good-brueder-appellieren-nach-toedlichem-ice-einsatz-an-politiker](https://www.spiegel.de/ausland/renee-good-brueder-appellieren-nach-toedlichem-ice-einsatz-an-politiker-a-c85f886e-719f-43f3-a576-496723f7fce7#ref=rss)
+### good
+
+* [https://www.spiegel.de/ausland/renee-good-brueder-appellieren-nach-toedlichem-ice-einsatz-an-politiker](https://www.spiegel.de/ausland/renee-good-brueder-appellieren-nach-toedlichem-ice-einsatz-an-politiker-a-c85f886e-719f-43f3-a576-496723f7fce7#ref=rss)
+### brüder
+
+* [https://www.spiegel.de/ausland/renee-good-brueder-appellieren-nach-toedlichem-ice-einsatz-an-politiker](https://www.spiegel.de/ausland/renee-good-brueder-appellieren-nach-toedlichem-ice-einsatz-an-politiker-a-c85f886e-719f-43f3-a576-496723f7fce7#ref=rss)
+### politiker
+
+* [https://www.spiegel.de/ausland/renee-good-brueder-appellieren-nach-toedlichem-ice-einsatz-an-politiker](https://www.spiegel.de/ausland/renee-good-brueder-appellieren-nach-toedlichem-ice-einsatz-an-politiker-a-c85f886e-719f-43f3-a576-496723f7fce7#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-ricarda-lang-kritisiert-nabu-im-streusalz-streit](https://www.spiegel.de/panorama/berlin-ricarda-lang-kritisiert-nabu-im-streusalz-streit-a-17679c8b-cd74-473f-960b-f74880685eaf#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/renee-good-brueder-appellieren-nach-toedlichem-ice-einsatz-an-politiker](https://www.spiegel.de/ausland/renee-good-brueder-appellieren-nach-toedlichem-ice-einsatz-an-politiker-a-c85f886e-719f-43f3-a576-496723f7fce7#ref=rss)
+* [https://www.spiegel.de/ausland/trump-will-kolumbus-statue-vor-dem-weissen-haus-aufstellen](https://www.spiegel.de/ausland/trump-will-kolumbus-statue-vor-dem-weissen-haus-aufstellen-a-361323b0-88eb-4d73-9015-a2fe2a26d6c2#ref=rss)
+### washington
+
+* [https://www.spiegel.de/ausland/washington-post-entlaesst-jeden-dritten-mitarbeiter](https://www.spiegel.de/ausland/washington-post-entlaesst-jeden-dritten-mitarbeiter-a-3db08ce4-b3a7-4ffe-9550-754b944a14d5#ref=rss)
+### post
+
+* [https://www.spiegel.de/ausland/washington-post-entlaesst-jeden-dritten-mitarbeiter](https://www.spiegel.de/ausland/washington-post-entlaesst-jeden-dritten-mitarbeiter-a-3db08ce4-b3a7-4ffe-9550-754b944a14d5#ref=rss)
+### mitarbeiter
+
+* [https://www.spiegel.de/ausland/washington-post-entlaesst-jeden-dritten-mitarbeiter](https://www.spiegel.de/ausland/washington-post-entlaesst-jeden-dritten-mitarbeiter-a-3db08ce4-b3a7-4ffe-9550-754b944a14d5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-mann-attackiert-bahn-mitarbeiter-am-bahnhof-dammtor](https://www.spiegel.de/panorama/justiz/hamburg-mann-attackiert-bahn-mitarbeiter-am-bahnhof-dammtor-a-82eeb547-5659-4a52-ae24-ed8496789b6b#ref=rss)
+### olympia
+
+* [https://www.spiegel.de/deinspiegel/olympia-2026-biathlon-selina-grotian-vor-dem-grossereignis](https://www.spiegel.de/deinspiegel/olympia-2026-biathlon-selina-grotian-vor-dem-grossereignis-a-95c5bf3f-8d3a-45b4-9cfb-ca0948773b93#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/olympia-2026-draisaitl-und-schmid-als-deutsche-fahnentraeger-in-mailand](https://www.spiegel.de/sport/wintersport/olympia-2026-draisaitl-und-schmid-als-deutsche-fahnentraeger-in-mailand-a-c1c898e1-dd59-471f-b480-edf8221688aa#ref=rss)
+### 2026
+
+* [https://www.spiegel.de/deinspiegel/olympia-2026-biathlon-selina-grotian-vor-dem-grossereignis](https://www.spiegel.de/deinspiegel/olympia-2026-biathlon-selina-grotian-vor-dem-grossereignis-a-95c5bf3f-8d3a-45b4-9cfb-ca0948773b93#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/olympia-2026-draisaitl-und-schmid-als-deutsche-fahnentraeger-in-mailand](https://www.spiegel.de/sport/wintersport/olympia-2026-draisaitl-und-schmid-als-deutsche-fahnentraeger-in-mailand-a-c1c898e1-dd59-471f-b480-edf8221688aa#ref=rss)
+### selina
+
+* [https://www.spiegel.de/deinspiegel/olympia-2026-biathlon-selina-grotian-vor-dem-grossereignis](https://www.spiegel.de/deinspiegel/olympia-2026-biathlon-selina-grotian-vor-dem-grossereignis-a-95c5bf3f-8d3a-45b4-9cfb-ca0948773b93#ref=rss)
+### grotian
+
+* [https://www.spiegel.de/deinspiegel/olympia-2026-biathlon-selina-grotian-vor-dem-grossereignis](https://www.spiegel.de/deinspiegel/olympia-2026-biathlon-selina-grotian-vor-dem-grossereignis-a-95c5bf3f-8d3a-45b4-9cfb-ca0948773b93#ref=rss)
+### draisaitl
+
+* [https://www.spiegel.de/sport/wintersport/olympia-2026-draisaitl-und-schmid-als-deutsche-fahnentraeger-in-mailand](https://www.spiegel.de/sport/wintersport/olympia-2026-draisaitl-und-schmid-als-deutsche-fahnentraeger-in-mailand-a-c1c898e1-dd59-471f-b480-edf8221688aa#ref=rss)
+### schmid
+
+* [https://www.spiegel.de/sport/wintersport/olympia-2026-draisaitl-und-schmid-als-deutsche-fahnentraeger-in-mailand](https://www.spiegel.de/sport/wintersport/olympia-2026-draisaitl-und-schmid-als-deutsche-fahnentraeger-in-mailand-a-c1c898e1-dd59-471f-b480-edf8221688aa#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/wintersport/olympia-2026-draisaitl-und-schmid-als-deutsche-fahnentraeger-in-mailand](https://www.spiegel.de/sport/wintersport/olympia-2026-draisaitl-und-schmid-als-deutsche-fahnentraeger-in-mailand-a-c1c898e1-dd59-471f-b480-edf8221688aa#ref=rss)
+### attackiert
+
+* [https://www.spiegel.de/politik/deutschland/gerichtsprozess-in-budapest-der-richter-entschied-in-einer-halben-stunde-zu-maja-t](https://www.spiegel.de/politik/deutschland/gerichtsprozess-in-budapest-der-richter-entschied-in-einer-halben-stunde-zu-maja-t-a-10a19726-a3cf-46b9-823f-cf9f6b472603#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-mann-attackiert-bahn-mitarbeiter-am-bahnhof-dammtor](https://www.spiegel.de/panorama/justiz/hamburg-mann-attackiert-bahn-mitarbeiter-am-bahnhof-dammtor-a-82eeb547-5659-4a52-ae24-ed8496789b6b#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-vor-gericht-in-norwegen-ich-bin-bekannt-dafuer-der-sohn-meiner-mutter-zu-sein](https://www.spiegel.de/ausland/marius-borg-hoiby-vor-gericht-in-norwegen-ich-bin-bekannt-dafuer-der-sohn-meiner-mutter-zu-sein-a-c72bb0c0-f8fd-4b39-b88d-2623cadddac7#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-vor-gericht-in-norwegen-ich-bin-bekannt-dafuer-der-sohn-meiner-mutter-zu-sein](https://www.spiegel.de/ausland/marius-borg-hoiby-vor-gericht-in-norwegen-ich-bin-bekannt-dafuer-der-sohn-meiner-mutter-zu-sein-a-c72bb0c0-f8fd-4b39-b88d-2623cadddac7#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-vor-gericht-in-norwegen-ich-bin-bekannt-dafuer-der-sohn-meiner-mutter-zu-sein](https://www.spiegel.de/ausland/marius-borg-hoiby-vor-gericht-in-norwegen-ich-bin-bekannt-dafuer-der-sohn-meiner-mutter-zu-sein-a-c72bb0c0-f8fd-4b39-b88d-2623cadddac7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-hersteller-von-abnehmspritzen-sieht-mageren-zeiten-entgegen](https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-hersteller-von-abnehmspritzen-sieht-mageren-zeiten-entgegen-a-6caf5437-8bdb-4bfe-a90c-77782184bb0a#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/wirtschaft/hamburg-so-viel-kostet-die-teuerste-luxuswohnung-der-stadt](https://www.spiegel.de/wirtschaft/hamburg-so-viel-kostet-die-teuerste-luxuswohnung-der-stadt-a-b0410f26-3c6b-4e9c-b929-17f964497446#ref=rss)
+* [https://www.spiegel.de/wirtschaft/duisburg-bestechungsvorwurf-gegen-vorstandsmitglieder-der-duisburger-kommunalbetriebe-dvv](https://www.spiegel.de/wirtschaft/duisburg-bestechungsvorwurf-gegen-vorstandsmitglieder-der-duisburger-kommunalbetriebe-dvv-a-3f1c792f-ccab-469d-ab1d-5be4accdfa59#ref=rss)
+### auto
+
+* [https://www.spiegel.de/panorama/justiz/koeln-uber-vorfall-20-jaehriger-irrt-sich-im-fahrzeug-und-wird-zu-tode-gepruegelt](https://www.spiegel.de/panorama/justiz/koeln-uber-vorfall-20-jaehriger-irrt-sich-im-fahrzeug-und-wird-zu-tode-gepruegelt-a-1f4b73b8-2e89-4950-ae62-83dfae3c6e55#ref=rss)
+* [https://www.spiegel.de/auto/adac-und-die-alternativen-so-politisch-sind-die-autoklubs-und-das-bieten-sie](https://www.spiegel.de/auto/adac-und-die-alternativen-so-politisch-sind-die-autoklubs-und-das-bieten-sie-a-7914b71c-e129-4523-868a-1bbde7683d81#ref=rss)
+### vorstandsmitglieder
+
+* [https://www.spiegel.de/wirtschaft/duisburg-bestechungsvorwurf-gegen-vorstandsmitglieder-der-duisburger-kommunalbetriebe-dvv](https://www.spiegel.de/wirtschaft/duisburg-bestechungsvorwurf-gegen-vorstandsmitglieder-der-duisburger-kommunalbetriebe-dvv-a-3f1c792f-ccab-469d-ab1d-5be4accdfa59#ref=rss)
+### duisburger
+
+* [https://www.spiegel.de/wirtschaft/duisburg-bestechungsvorwurf-gegen-vorstandsmitglieder-der-duisburger-kommunalbetriebe-dvv](https://www.spiegel.de/wirtschaft/duisburg-bestechungsvorwurf-gegen-vorstandsmitglieder-der-duisburger-kommunalbetriebe-dvv-a-3f1c792f-ccab-469d-ab1d-5be4accdfa59#ref=rss)
+### kommunalbetriebe
+
+* [https://www.spiegel.de/wirtschaft/duisburg-bestechungsvorwurf-gegen-vorstandsmitglieder-der-duisburger-kommunalbetriebe-dvv](https://www.spiegel.de/wirtschaft/duisburg-bestechungsvorwurf-gegen-vorstandsmitglieder-der-duisburger-kommunalbetriebe-dvv-a-3f1c792f-ccab-469d-ab1d-5be4accdfa59#ref=rss)
+### dvv
+
+* [https://www.spiegel.de/wirtschaft/duisburg-bestechungsvorwurf-gegen-vorstandsmitglieder-der-duisburger-kommunalbetriebe-dvv](https://www.spiegel.de/wirtschaft/duisburg-bestechungsvorwurf-gegen-vorstandsmitglieder-der-duisburger-kommunalbetriebe-dvv-a-3f1c792f-ccab-469d-ab1d-5be4accdfa59#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/kultur/rom-der-meloni-engel-ist-jetzt-kopflos](https://www.spiegel.de/kultur/rom-der-meloni-engel-ist-jetzt-kopflos-a-3aeb7857-9e9f-4811-8e1b-a0b9c32c5138#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-reagiert-duennhaeutig-auf-fragen-zu-jeffrey-epstein](https://www.spiegel.de/ausland/donald-trump-us-praesident-reagiert-duennhaeutig-auf-fragen-zu-jeffrey-epstein-a-47d83c5d-47b6-4f0a-be0e-a85c7f147a32#ref=rss)
+### marcandré
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-verletzung-zwingt-dfb-keeper-zur-operation](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-verletzung-zwingt-dfb-keeper-zur-operation-a-eb110970-fa06-4cc5-a34a-d6fd6d1372b9#ref=rss)
+### ter
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-verletzung-zwingt-dfb-keeper-zur-operation](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-verletzung-zwingt-dfb-keeper-zur-operation-a-eb110970-fa06-4cc5-a34a-d6fd6d1372b9#ref=rss)
+### stegen
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-verletzung-zwingt-dfb-keeper-zur-operation](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-verletzung-zwingt-dfb-keeper-zur-operation-a-eb110970-fa06-4cc5-a34a-d6fd6d1372b9#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-verletzung-zwingt-dfb-keeper-zur-operation](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-verletzung-zwingt-dfb-keeper-zur-operation-a-eb110970-fa06-4cc5-a34a-d6fd6d1372b9#ref=rss)
+### girona
+
+* [https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-verletzung-zwingt-dfb-keeper-zur-operation](https://www.spiegel.de/sport/fussball/marc-andre-ter-stegen-beim-fc-girona-verletzung-zwingt-dfb-keeper-zur-operation-a-eb110970-fa06-4cc5-a34a-d6fd6d1372b9#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/nigeria-mindestens-162-menschen-bei-bewaffnetem-dschihadisten-angriff-getoetet](https://www.spiegel.de/ausland/nigeria-mindestens-162-menschen-bei-bewaffnetem-dschihadisten-angriff-getoetet-a-119ce235-854c-49e5-b600-e3d0860979df#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/ausland/nigeria-mindestens-162-menschen-bei-bewaffnetem-dschihadisten-angriff-getoetet](https://www.spiegel.de/ausland/nigeria-mindestens-162-menschen-bei-bewaffnetem-dschihadisten-angriff-getoetet-a-119ce235-854c-49e5-b600-e3d0860979df#ref=rss)
+### bundesinstitut
+
+* [https://www.spiegel.de/panorama/bildung/bundesinstitut-fuer-bevoelkerungsforschung-herkunft-beeinflusst-stark-die-bildungschancen](https://www.spiegel.de/panorama/bildung/bundesinstitut-fuer-bevoelkerungsforschung-herkunft-beeinflusst-stark-die-bildungschancen-a-65972207-4241-4a79-bd8f-682d21dee31d#ref=rss)
+### bevölkerungsforschung
+
+* [https://www.spiegel.de/panorama/bildung/bundesinstitut-fuer-bevoelkerungsforschung-herkunft-beeinflusst-stark-die-bildungschancen](https://www.spiegel.de/panorama/bildung/bundesinstitut-fuer-bevoelkerungsforschung-herkunft-beeinflusst-stark-die-bildungschancen-a-65972207-4241-4a79-bd8f-682d21dee31d#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/bildung/bundesinstitut-fuer-bevoelkerungsforschung-herkunft-beeinflusst-stark-die-bildungschancen](https://www.spiegel.de/panorama/bildung/bundesinstitut-fuer-bevoelkerungsforschung-herkunft-beeinflusst-stark-die-bildungschancen-a-65972207-4241-4a79-bd8f-682d21dee31d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/menden-kind-laeuft-barfuss-im-schnee-was-die-mutter-dazu-sagt](https://www.spiegel.de/panorama/gesellschaft/menden-kind-laeuft-barfuss-im-schnee-was-die-mutter-dazu-sagt-a-cecfd298-1e85-4d58-a683-14c7998456b5#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/berlin-ricarda-lang-kritisiert-nabu-im-streusalz-streit](https://www.spiegel.de/panorama/berlin-ricarda-lang-kritisiert-nabu-im-streusalz-streit-a-17679c8b-cd74-473f-960b-f74880685eaf#ref=rss)
+### menden
+
+* [https://www.spiegel.de/panorama/gesellschaft/menden-kind-laeuft-barfuss-im-schnee-was-die-mutter-dazu-sagt](https://www.spiegel.de/panorama/gesellschaft/menden-kind-laeuft-barfuss-im-schnee-was-die-mutter-dazu-sagt-a-cecfd298-1e85-4d58-a683-14c7998456b5#ref=rss)
+### dazu
+
+* [https://www.spiegel.de/panorama/gesellschaft/menden-kind-laeuft-barfuss-im-schnee-was-die-mutter-dazu-sagt](https://www.spiegel.de/panorama/gesellschaft/menden-kind-laeuft-barfuss-im-schnee-was-die-mutter-dazu-sagt-a-cecfd298-1e85-4d58-a683-14c7998456b5#ref=rss)
+### novo
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-hersteller-von-abnehmspritzen-sieht-mageren-zeiten-entgegen](https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-hersteller-von-abnehmspritzen-sieht-mageren-zeiten-entgegen-a-6caf5437-8bdb-4bfe-a90c-77782184bb0a#ref=rss)
+### nordisk
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-hersteller-von-abnehmspritzen-sieht-mageren-zeiten-entgegen](https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-hersteller-von-abnehmspritzen-sieht-mageren-zeiten-entgegen-a-6caf5437-8bdb-4bfe-a90c-77782184bb0a#ref=rss)
+### hersteller
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-hersteller-von-abnehmspritzen-sieht-mageren-zeiten-entgegen](https://www.spiegel.de/wirtschaft/unternehmen/novo-nordisk-hersteller-von-abnehmspritzen-sieht-mageren-zeiten-entgegen-a-6caf5437-8bdb-4bfe-a90c-77782184bb0a#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/trump-will-kolumbus-statue-vor-dem-weissen-haus-aufstellen](https://www.spiegel.de/ausland/trump-will-kolumbus-statue-vor-dem-weissen-haus-aufstellen-a-361323b0-88eb-4d73-9015-a2fe2a26d6c2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-reagiert-duennhaeutig-auf-fragen-zu-jeffrey-epstein](https://www.spiegel.de/ausland/donald-trump-us-praesident-reagiert-duennhaeutig-auf-fragen-zu-jeffrey-epstein-a-47d83c5d-47b6-4f0a-be0e-a85c7f147a32#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/trump-will-kolumbus-statue-vor-dem-weissen-haus-aufstellen](https://www.spiegel.de/ausland/trump-will-kolumbus-statue-vor-dem-weissen-haus-aufstellen-a-361323b0-88eb-4d73-9015-a2fe2a26d6c2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-us-praesident-reagiert-duennhaeutig-auf-fragen-zu-jeffrey-epstein](https://www.spiegel.de/ausland/donald-trump-us-praesident-reagiert-duennhaeutig-auf-fragen-zu-jeffrey-epstein-a-47d83c5d-47b6-4f0a-be0e-a85c7f147a32#ref=rss)
+### weißen
+
+* [https://www.spiegel.de/ausland/trump-will-kolumbus-statue-vor-dem-weissen-haus-aufstellen](https://www.spiegel.de/ausland/trump-will-kolumbus-statue-vor-dem-weissen-haus-aufstellen-a-361323b0-88eb-4d73-9015-a2fe2a26d6c2#ref=rss)
+### aufstellen
+
+* [https://www.spiegel.de/ausland/trump-will-kolumbus-statue-vor-dem-weissen-haus-aufstellen](https://www.spiegel.de/ausland/trump-will-kolumbus-statue-vor-dem-weissen-haus-aufstellen-a-361323b0-88eb-4d73-9015-a2fe2a26d6c2#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-regierung-flog-mit-sechs-jets-zu-mini-gipfel-in-rom](https://www.spiegel.de/politik/deutschland/friedrich-merz-regierung-flog-mit-sechs-jets-zu-mini-gipfel-in-rom-a-a55bacf5-6c58-46a8-a435-b220aecf4e21#ref=rss)
+### chris
+
+* [https://www.spiegel.de/kultur/kino/chris-hemsworth-hadert-mit-seinem-superhelden-image](https://www.spiegel.de/kultur/kino/chris-hemsworth-hadert-mit-seinem-superhelden-image-a-955e3203-57be-4168-ba27-ab98e5414f5c#ref=rss)
+### hemsworth
+
+* [https://www.spiegel.de/kultur/kino/chris-hemsworth-hadert-mit-seinem-superhelden-image](https://www.spiegel.de/kultur/kino/chris-hemsworth-hadert-mit-seinem-superhelden-image-a-955e3203-57be-4168-ba27-ab98e5414f5c#ref=rss)
+### misstrauensantrag
+
+* [https://www.spiegel.de/politik/bjoern-hoecke-scheitert-mit-misstrauensantrag-im-thueringer-landtag](https://www.spiegel.de/politik/bjoern-hoecke-scheitert-mit-misstrauensantrag-im-thueringer-landtag-a-48bc7ac1-5322-4559-8f00-8645eb4394f0#ref=rss)
+### adac
+
+* [https://www.spiegel.de/auto/adac-und-die-alternativen-so-politisch-sind-die-autoklubs-und-das-bieten-sie](https://www.spiegel.de/auto/adac-und-die-alternativen-so-politisch-sind-die-autoklubs-und-das-bieten-sie-a-7914b71c-e129-4523-868a-1bbde7683d81#ref=rss)
+### autoklubs
+
+* [https://www.spiegel.de/auto/adac-und-die-alternativen-so-politisch-sind-die-autoklubs-und-das-bieten-sie](https://www.spiegel.de/auto/adac-und-die-alternativen-so-politisch-sind-die-autoklubs-und-das-bieten-sie-a-7914b71c-e129-4523-868a-1bbde7683d81#ref=rss)
+### bieten
+
+* [https://www.spiegel.de/auto/adac-und-die-alternativen-so-politisch-sind-die-autoklubs-und-das-bieten-sie](https://www.spiegel.de/auto/adac-und-die-alternativen-so-politisch-sind-die-autoklubs-und-das-bieten-sie-a-7914b71c-e129-4523-868a-1bbde7683d81#ref=rss)
 
