@@ -4,347 +4,359 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
+### epstein
 
-* [https://www.spiegel.de/sport/olympia-in-mailand-und-cortina-dampezzo-usa-bei-den-winterspielen-in-heikler-mission](https://www.spiegel.de/sport/olympia-in-mailand-und-cortina-dampezzo-usa-bei-den-winterspielen-in-heikler-mission-a-cf6d0a05-c196-4275-9212-d4820ed30245#ref=rss)
-* [https://www.spiegel.de/panorama/leute/bridgerton-autorin-julia-quinn-findet-politisches-engagement-wichtiger-als-buecher-schreiben](https://www.spiegel.de/panorama/leute/bridgerton-autorin-julia-quinn-findet-politisches-engagement-wichtiger-als-buecher-schreiben-a-0267678e-28b5-486b-a18d-d1a31ee0acaf#ref=rss)
-* [https://www.spiegel.de/ausland/usa-so-attackiert-donald-trump-das-us-wahlsystem](https://www.spiegel.de/ausland/usa-so-attackiert-donald-trump-das-us-wahlsystem-a-0d137f78-4ca4-4294-b8b4-2f32c721c758#ref=rss)
-* [https://www.spiegel.de/ausland/iran-fordert-von-den-usa-gespraeche-auf-augenhoehe](https://www.spiegel.de/ausland/iran-fordert-von-den-usa-gespraeche-auf-augenhoehe-a-afd7d7ce-efa1-4ff1-a94c-8a992d958ee1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich-a-265e8ff4-cd12-48e0-928c-19eb26a15aef#ref=rss)
-### viele
+* [https://www.spiegel.de/ausland/peter-mandelson-jeffrey-epstein-polizei-durchsucht-zwei-adressen-in-london](https://www.spiegel.de/ausland/peter-mandelson-jeffrey-epstein-polizei-durchsucht-zwei-adressen-in-london-a-897afed7-61b1-470d-bbcd-29c01ed45d15#ref=rss)
+* [https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-wir-unterstuetzen-marius](https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-wir-unterstuetzen-marius-a-5e96514b-fcc1-4df1-a4e2-12e709215f6e#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+* [https://www.spiegel.de/panorama/mette-marit-entschuldigt-sich-fuer-jahrelangen-kontakt-zu-epstein](https://www.spiegel.de/panorama/mette-marit-entschuldigt-sich-fuer-jahrelangen-kontakt-zu-epstein-a-3d44e94a-63bc-4ffa-a390-fa4761dad426#ref=rss)
+### norwegens
 
-* [https://www.spiegel.de/sport/olympia-in-mailand-und-cortina-dampezzo-usa-bei-den-winterspielen-in-heikler-mission](https://www.spiegel.de/sport/olympia-in-mailand-und-cortina-dampezzo-usa-bei-den-winterspielen-in-heikler-mission-a-cf6d0a05-c196-4275-9212-d4820ed30245#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland](https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland-a-5310e68c-3b1a-4c07-8076-a873ed31d948#ref=rss)
-* [https://www.spiegel.de/kultur/tv/werbung-beim-super-bowl-diese-stars-sind-die-gesichter-der-super-bowl-spots](https://www.spiegel.de/kultur/tv/werbung-beim-super-bowl-diese-stars-sind-die-gesichter-der-super-bowl-spots-a-11cbadd5-eeb3-4535-a4e4-f266ac574850#ref=rss)
-### trump
+* [https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-wir-unterstuetzen-marius](https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-wir-unterstuetzen-marius-a-5e96514b-fcc1-4df1-a4e2-12e709215f6e#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+### mettemarit
 
-* [https://www.spiegel.de/ausland/usa-so-attackiert-donald-trump-das-us-wahlsystem](https://www.spiegel.de/ausland/usa-so-attackiert-donald-trump-das-us-wahlsystem-a-0d137f78-4ca4-4294-b8b4-2f32c721c758#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-exporte-sind-2025-trotz-donald-trump-gestiegen](https://www.spiegel.de/wirtschaft/deutsche-exporte-sind-2025-trotz-donald-trump-gestiegen-a-82f661ff-1a13-4061-bdcc-9d2901757b45#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-warum-fc-st-pauli-und-fifa-boss-blatter-mit-ihrem-trump-boykott-falsch-liegen](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-warum-fc-st-pauli-und-fifa-boss-blatter-mit-ihrem-trump-boykott-falsch-liegen-a-15c1b855-9c44-4298-9621-2b14436ce164#ref=rss)
-### allem
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+* [https://www.spiegel.de/panorama/mette-marit-entschuldigt-sich-fuer-jahrelangen-kontakt-zu-epstein](https://www.spiegel.de/panorama/mette-marit-entschuldigt-sich-fuer-jahrelangen-kontakt-zu-epstein-a-3d44e94a-63bc-4ffa-a390-fa4761dad426#ref=rss)
+### jeffrey
 
-* [https://www.spiegel.de/wirtschaft/deutsche-exporte-sind-2025-trotz-donald-trump-gestiegen](https://www.spiegel.de/wirtschaft/deutsche-exporte-sind-2025-trotz-donald-trump-gestiegen-a-82f661ff-1a13-4061-bdcc-9d2901757b45#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-starmers-parteifreunde-distanzieren-sich-von-stabschef-mcsweeney](https://www.spiegel.de/ausland/grossbritannien-starmers-parteifreunde-distanzieren-sich-von-stabschef-mcsweeney-a-205dfac3-df8c-4b86-bd37-c59cd397bcdf#ref=rss)
-* [https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-schritt-4-sagen-sie-ihrem-groll-auf-nimmerwiedersehen](https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-schritt-4-sagen-sie-ihrem-groll-auf-nimmerwiedersehen-a-b0ae886d-41ff-42f7-93ee-a87e5ac59d00#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-und-eisregen-im-nordosten](https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-und-eisregen-im-nordosten-a-fb0afbdc-0d1b-4818-98c2-4bf8a1780b06#ref=rss)
-### iran
+* [https://www.spiegel.de/ausland/peter-mandelson-jeffrey-epstein-polizei-durchsucht-zwei-adressen-in-london](https://www.spiegel.de/ausland/peter-mandelson-jeffrey-epstein-polizei-durchsucht-zwei-adressen-in-london-a-897afed7-61b1-470d-bbcd-29c01ed45d15#ref=rss)
+* [https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-wir-unterstuetzen-marius](https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-wir-unterstuetzen-marius-a-5e96514b-fcc1-4df1-a4e2-12e709215f6e#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+* [https://www.spiegel.de/panorama/mette-marit-entschuldigt-sich-fuer-jahrelangen-kontakt-zu-epstein](https://www.spiegel.de/panorama/mette-marit-entschuldigt-sich-fuer-jahrelangen-kontakt-zu-epstein-a-3d44e94a-63bc-4ffa-a390-fa4761dad426#ref=rss)
+### marius
 
-* [https://www.spiegel.de/ausland/iran-fordert-von-den-usa-gespraeche-auf-augenhoehe](https://www.spiegel.de/ausland/iran-fordert-von-den-usa-gespraeche-auf-augenhoehe-a-afd7d7ce-efa1-4ff1-a94c-8a992d958ee1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich-a-265e8ff4-cd12-48e0-928c-19eb26a15aef#ref=rss)
-### fordert
+* [https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-wir-unterstuetzen-marius](https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-wir-unterstuetzen-marius-a-5e96514b-fcc1-4df1-a4e2-12e709215f6e#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/panorama/bildung/niedersachsen-verfassungsschutzpraesident-fordert-politik-schon-in-der-grundschule](https://www.spiegel.de/panorama/bildung/niedersachsen-verfassungsschutzpraesident-fordert-politik-schon-in-der-grundschule-a-77e40961-8710-484c-b3d3-378f67c056f4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mehrarbeit-bertram-brossardt-schlaegt-verzicht-auf-urlaubstage-vor](https://www.spiegel.de/wirtschaft/mehrarbeit-bertram-brossardt-schlaegt-verzicht-auf-urlaubstage-vor-a-11ab95e4-fc25-4740-98c0-cc400c921021#ref=rss)
-* [https://www.spiegel.de/ausland/iran-fordert-von-den-usa-gespraeche-auf-augenhoehe](https://www.spiegel.de/ausland/iran-fordert-von-den-usa-gespraeche-auf-augenhoehe-a-afd7d7ce-efa1-4ff1-a94c-8a992d958ee1#ref=rss)
-### olympia
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-14-jahre-haft-fuer-vergewaltiger-der-frauen-betaeubte](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-14-jahre-haft-fuer-vergewaltiger-der-frauen-betaeubte-a-09da72fd-03e1-48fe-be0f-aee7cacb0525#ref=rss)
+* [https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-wir-unterstuetzen-marius](https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-wir-unterstuetzen-marius-a-5e96514b-fcc1-4df1-a4e2-12e709215f6e#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/olympia-in-mailand-und-cortina-dampezzo-usa-bei-den-winterspielen-in-heikler-mission](https://www.spiegel.de/sport/olympia-in-mailand-und-cortina-dampezzo-usa-bei-den-winterspielen-in-heikler-mission-a-cf6d0a05-c196-4275-9212-d4820ed30245#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland](https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland-a-5310e68c-3b1a-4c07-8076-a873ed31d948#ref=rss)
-### donald
+* [https://www.spiegel.de/panorama/bildung/zeugnisse-wie-eltern-am-besten-auf-schlechte-noten-reagieren](https://www.spiegel.de/panorama/bildung/zeugnisse-wie-eltern-am-besten-auf-schlechte-noten-reagieren-a-548f449c-b61b-4899-ac97-4c718e2c43fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-kehrtwende-bei-elektroautos-22-milliarden-dollar-abgeschrieben](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-kehrtwende-bei-elektroautos-22-milliarden-dollar-abgeschrieben-a-e8daa283-c439-4714-bba2-4b138da76249#ref=rss)
+* [https://www.spiegel.de/kultur/musik/6euroneunzig-mandy-indiana-joji-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/6euroneunzig-mandy-indiana-joji-abgehoert-album-der-woche-a-dab9bc75-973d-4f3d-b2dd-e5ff673e88b6#ref=rss)
+### macht
 
-* [https://www.spiegel.de/ausland/usa-so-attackiert-donald-trump-das-us-wahlsystem](https://www.spiegel.de/ausland/usa-so-attackiert-donald-trump-das-us-wahlsystem-a-0d137f78-4ca4-4294-b8b4-2f32c721c758#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-exporte-sind-2025-trotz-donald-trump-gestiegen](https://www.spiegel.de/wirtschaft/deutsche-exporte-sind-2025-trotz-donald-trump-gestiegen-a-82f661ff-1a13-4061-bdcc-9d2901757b45#ref=rss)
-### deutsche
+* [https://www.spiegel.de/wissenschaft/mensch/arminia-bielefeld-studie-macht-fussballfieber-im-dfb-pokal-messbar](https://www.spiegel.de/wissenschaft/mensch/arminia-bielefeld-studie-macht-fussballfieber-im-dfb-pokal-messbar-a-57c960e2-0a73-4c0a-b4c5-2886fb7bb3a0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sucht-anschlag-auf-russischen-general-groenland-beitrag-von-extra-3](https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sucht-anschlag-auf-russischen-general-groenland-beitrag-von-extra-3-a-2164fa43-9556-4e4c-bf84-f415a21a5766#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/toyota-macht-bisherigen-finanzchef-kenta-kon-zum-konzernboss](https://www.spiegel.de/wirtschaft/unternehmen/toyota-macht-bisherigen-finanzchef-kenta-kon-zum-konzernboss-a-5145f85a-7a47-434a-ab8a-2041252ff68b#ref=rss)
+### borg
 
-* [https://www.spiegel.de/wirtschaft/deutsche-exporte-sind-2025-trotz-donald-trump-gestiegen](https://www.spiegel.de/wirtschaft/deutsche-exporte-sind-2025-trotz-donald-trump-gestiegen-a-82f661ff-1a13-4061-bdcc-9d2901757b45#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland](https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland-a-5310e68c-3b1a-4c07-8076-a873ed31d948#ref=rss)
-### zeigt
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+### høiby
 
-* [https://www.spiegel.de/politik/deutschland/acht-jahre-haft-fuer-maja-t-alexander-dobrindt-zeigt-verstaendnis-fuer-urteil](https://www.spiegel.de/politik/deutschland/acht-jahre-haft-fuer-maja-t-alexander-dobrindt-zeigt-verstaendnis-fuer-urteil-a-f870be8f-4ef7-41ea-8d76-bbaa6e750488#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland](https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland-a-5310e68c-3b1a-4c07-8076-a873ed31d948#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-haelt-klagen-ueber-arbeitgeberbelastung-fuer-eine-farce](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-haelt-klagen-ueber-arbeitgeberbelastung-fuer-eine-farce-a-b8e96f61-de41-4ade-a9f0-aef5c9e5b7f8#ref=rss)
-### super
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+### skandale
 
-* [https://www.spiegel.de/kultur/tv/werbung-beim-super-bowl-diese-stars-sind-die-gesichter-der-super-bowl-spots](https://www.spiegel.de/kultur/tv/werbung-beim-super-bowl-diese-stars-sind-die-gesichter-der-super-bowl-spots-a-11cbadd5-eeb3-4535-a4e4-f266ac574850#ref=rss)
-* [https://www.spiegel.de/sport/nfl-football-matthew-stafford-erhaelt-mvp-auszeichnung-vor-super-bowl](https://www.spiegel.de/sport/nfl-football-matthew-stafford-erhaelt-mvp-auszeichnung-vor-super-bowl-a-2ffe0b68-9a7e-4a43-bccc-ef466f69cc8a#ref=rss)
-### bowl
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/kultur/tv/werbung-beim-super-bowl-diese-stars-sind-die-gesichter-der-super-bowl-spots](https://www.spiegel.de/kultur/tv/werbung-beim-super-bowl-diese-stars-sind-die-gesichter-der-super-bowl-spots-a-11cbadd5-eeb3-4535-a4e4-f266ac574850#ref=rss)
-* [https://www.spiegel.de/sport/nfl-football-matthew-stafford-erhaelt-mvp-auszeichnung-vor-super-bowl](https://www.spiegel.de/sport/nfl-football-matthew-stafford-erhaelt-mvp-auszeichnung-vor-super-bowl-a-2ffe0b68-9a7e-4a43-bccc-ef466f69cc8a#ref=rss)
-### hannover
-
-* [https://www.spiegel.de/panorama/justiz/hannover-zoll-entdeckt-am-flughafen-leopardenschaedel-in-koffer](https://www.spiegel.de/panorama/justiz/hannover-zoll-entdeckt-am-flughafen-leopardenschaedel-in-koffer-a-3199c56d-93cb-4d3a-bc32-e3b8a1aec596#ref=rss)
-### entdeckt
-
-* [https://www.spiegel.de/panorama/justiz/hannover-zoll-entdeckt-am-flughafen-leopardenschaedel-in-koffer](https://www.spiegel.de/panorama/justiz/hannover-zoll-entdeckt-am-flughafen-leopardenschaedel-in-koffer-a-3199c56d-93cb-4d3a-bc32-e3b8a1aec596#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/ki-chatbot-findet-hunderte-sicherheitsluecken-und-loest-kurssturz-aus](https://www.spiegel.de/netzwelt/apps/ki-chatbot-findet-hunderte-sicherheitsluecken-und-loest-kurssturz-aus-a-6e0cf781-9620-4e15-9003-a197758994f4#ref=rss)
-### flughafen
-
-* [https://www.spiegel.de/panorama/justiz/hannover-zoll-entdeckt-am-flughafen-leopardenschaedel-in-koffer](https://www.spiegel.de/panorama/justiz/hannover-zoll-entdeckt-am-flughafen-leopardenschaedel-in-koffer-a-3199c56d-93cb-4d3a-bc32-e3b8a1aec596#ref=rss)
-### leopardenschädel
-
-* [https://www.spiegel.de/panorama/justiz/hannover-zoll-entdeckt-am-flughafen-leopardenschaedel-in-koffer](https://www.spiegel.de/panorama/justiz/hannover-zoll-entdeckt-am-flughafen-leopardenschaedel-in-koffer-a-3199c56d-93cb-4d3a-bc32-e3b8a1aec596#ref=rss)
-### koffer
-
-* [https://www.spiegel.de/panorama/justiz/hannover-zoll-entdeckt-am-flughafen-leopardenschaedel-in-koffer](https://www.spiegel.de/panorama/justiz/hannover-zoll-entdeckt-am-flughafen-leopardenschaedel-in-koffer-a-3199c56d-93cb-4d3a-bc32-e3b8a1aec596#ref=rss)
-### gefunden
-
-* [https://www.spiegel.de/panorama/justiz/hannover-zoll-entdeckt-am-flughafen-leopardenschaedel-in-koffer](https://www.spiegel.de/panorama/justiz/hannover-zoll-entdeckt-am-flughafen-leopardenschaedel-in-koffer-a-3199c56d-93cb-4d3a-bc32-e3b8a1aec596#ref=rss)
-* [https://www.spiegel.de/kultur/michelangelo-neu-entdeckte-zeichnung-fuer-27-2-millionen-dollar-verkauft](https://www.spiegel.de/kultur/michelangelo-neu-entdeckte-zeichnung-fuer-27-2-millionen-dollar-verkauft-a-73ae64d0-7691-4919-8b25-948220b8a267#ref=rss)
-### russische
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-russische-truppen-haben-angeblich-starlink-zugang-verloren](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-russische-truppen-haben-angeblich-starlink-zugang-verloren-a-aaf378a5-2b8c-4f4d-8612-f37d4482e3a6#ref=rss)
-### truppen
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-russische-truppen-haben-angeblich-starlink-zugang-verloren](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-russische-truppen-haben-angeblich-starlink-zugang-verloren-a-aaf378a5-2b8c-4f4d-8612-f37d4482e3a6#ref=rss)
-### verloren
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-russische-truppen-haben-angeblich-starlink-zugang-verloren](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-russische-truppen-haben-angeblich-starlink-zugang-verloren-a-aaf378a5-2b8c-4f4d-8612-f37d4482e3a6#ref=rss)
-### verfassungsschutzpräsident
-
-* [https://www.spiegel.de/panorama/bildung/niedersachsen-verfassungsschutzpraesident-fordert-politik-schon-in-der-grundschule](https://www.spiegel.de/panorama/bildung/niedersachsen-verfassungsschutzpraesident-fordert-politik-schon-in-der-grundschule-a-77e40961-8710-484c-b3d3-378f67c056f4#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/bildung/niedersachsen-verfassungsschutzpraesident-fordert-politik-schon-in-der-grundschule](https://www.spiegel.de/panorama/bildung/niedersachsen-verfassungsschutzpraesident-fordert-politik-schon-in-der-grundschule-a-77e40961-8710-484c-b3d3-378f67c056f4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/bridgerton-autorin-julia-quinn-findet-politisches-engagement-wichtiger-als-buecher-schreiben](https://www.spiegel.de/panorama/leute/bridgerton-autorin-julia-quinn-findet-politisches-engagement-wichtiger-als-buecher-schreiben-a-0267678e-28b5-486b-a18d-d1a31ee0acaf#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/news-in-echtzeit-russland-bombt-kyjiw-in-die-kaelte-iran-usa-gespraeche-in-oman-glatteis-und-eisregen-in-berlin](https://www.spiegel.de/politik/news-in-echtzeit-russland-bombt-kyjiw-in-die-kaelte-iran-usa-gespraeche-in-oman-glatteis-und-eisregen-in-berlin-a-b26d20d5-fb48-45d8-ae42-ab096ede237b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich-a-265e8ff4-cd12-48e0-928c-19eb26a15aef#ref=rss)
-### niedergeschossen
-
-* [https://www.spiegel.de/politik/news-in-echtzeit-russland-bombt-kyjiw-in-die-kaelte-iran-usa-gespraeche-in-oman-glatteis-und-eisregen-in-berlin](https://www.spiegel.de/politik/news-in-echtzeit-russland-bombt-kyjiw-in-die-kaelte-iran-usa-gespraeche-in-oman-glatteis-und-eisregen-in-berlin-a-b26d20d5-fb48-45d8-ae42-ab096ede237b#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-aleksejew-general-in-moskau-niedergeschossen](https://www.spiegel.de/ausland/russland-wladimir-aleksejew-general-in-moskau-niedergeschossen-a-c5b35d88-7432-4be3-b21a-5bfec18f441b#ref=rss)
-### eisregen
-
-* [https://www.spiegel.de/politik/news-in-echtzeit-russland-bombt-kyjiw-in-die-kaelte-iran-usa-gespraeche-in-oman-glatteis-und-eisregen-in-berlin](https://www.spiegel.de/politik/news-in-echtzeit-russland-bombt-kyjiw-in-die-kaelte-iran-usa-gespraeche-in-oman-glatteis-und-eisregen-in-berlin-a-b26d20d5-fb48-45d8-ae42-ab096ede237b#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-und-eisregen-im-nordosten](https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-und-eisregen-im-nordosten-a-fb0afbdc-0d1b-4818-98c2-4bf8a1780b06#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/news-in-echtzeit-russland-bombt-kyjiw-in-die-kaelte-iran-usa-gespraeche-in-oman-glatteis-und-eisregen-in-berlin](https://www.spiegel.de/politik/news-in-echtzeit-russland-bombt-kyjiw-in-die-kaelte-iran-usa-gespraeche-in-oman-glatteis-und-eisregen-in-berlin-a-b26d20d5-fb48-45d8-ae42-ab096ede237b#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-und-eisregen-im-nordosten](https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-und-eisregen-im-nordosten-a-fb0afbdc-0d1b-4818-98c2-4bf8a1780b06#ref=rss)
-### mailand
-
-* [https://www.spiegel.de/sport/olympia-in-mailand-und-cortina-dampezzo-usa-bei-den-winterspielen-in-heikler-mission](https://www.spiegel.de/sport/olympia-in-mailand-und-cortina-dampezzo-usa-bei-den-winterspielen-in-heikler-mission-a-cf6d0a05-c196-4275-9212-d4820ed30245#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland](https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland-a-5310e68c-3b1a-4c07-8076-a873ed31d948#ref=rss)
-### cortina
-
-* [https://www.spiegel.de/sport/olympia-in-mailand-und-cortina-dampezzo-usa-bei-den-winterspielen-in-heikler-mission](https://www.spiegel.de/sport/olympia-in-mailand-und-cortina-dampezzo-usa-bei-den-winterspielen-in-heikler-mission-a-cf6d0a05-c196-4275-9212-d4820ed30245#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland](https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland-a-5310e68c-3b1a-4c07-8076-a873ed31d948#ref=rss)
-### d'ampezzo
-
-* [https://www.spiegel.de/sport/olympia-in-mailand-und-cortina-dampezzo-usa-bei-den-winterspielen-in-heikler-mission](https://www.spiegel.de/sport/olympia-in-mailand-und-cortina-dampezzo-usa-bei-den-winterspielen-in-heikler-mission-a-cf6d0a05-c196-4275-9212-d4820ed30245#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland](https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland-a-5310e68c-3b1a-4c07-8076-a873ed31d948#ref=rss)
-### winterspielen
-
-* [https://www.spiegel.de/sport/olympia-in-mailand-und-cortina-dampezzo-usa-bei-den-winterspielen-in-heikler-mission](https://www.spiegel.de/sport/olympia-in-mailand-und-cortina-dampezzo-usa-bei-den-winterspielen-in-heikler-mission-a-cf6d0a05-c196-4275-9212-d4820ed30245#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland](https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland-a-5310e68c-3b1a-4c07-8076-a873ed31d948#ref=rss)
-### julia
-
-* [https://www.spiegel.de/panorama/leute/bridgerton-autorin-julia-quinn-findet-politisches-engagement-wichtiger-als-buecher-schreiben](https://www.spiegel.de/panorama/leute/bridgerton-autorin-julia-quinn-findet-politisches-engagement-wichtiger-als-buecher-schreiben-a-0267678e-28b5-486b-a18d-d1a31ee0acaf#ref=rss)
-### quinn
-
-* [https://www.spiegel.de/panorama/leute/bridgerton-autorin-julia-quinn-findet-politisches-engagement-wichtiger-als-buecher-schreiben](https://www.spiegel.de/panorama/leute/bridgerton-autorin-julia-quinn-findet-politisches-engagement-wichtiger-als-buecher-schreiben-a-0267678e-28b5-486b-a18d-d1a31ee0acaf#ref=rss)
-### findet
-
-* [https://www.spiegel.de/panorama/leute/bridgerton-autorin-julia-quinn-findet-politisches-engagement-wichtiger-als-buecher-schreiben](https://www.spiegel.de/panorama/leute/bridgerton-autorin-julia-quinn-findet-politisches-engagement-wichtiger-als-buecher-schreiben-a-0267678e-28b5-486b-a18d-d1a31ee0acaf#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/ki-chatbot-findet-hunderte-sicherheitsluecken-und-loest-kurssturz-aus](https://www.spiegel.de/netzwelt/apps/ki-chatbot-findet-hunderte-sicherheitsluecken-und-loest-kurssturz-aus-a-6e0cf781-9620-4e15-9003-a197758994f4#ref=rss)
-### lage
-
-* [https://www.spiegel.de/panorama/leute/bridgerton-autorin-julia-quinn-findet-politisches-engagement-wichtiger-als-buecher-schreiben](https://www.spiegel.de/panorama/leute/bridgerton-autorin-julia-quinn-findet-politisches-engagement-wichtiger-als-buecher-schreiben-a-0267678e-28b5-486b-a18d-d1a31ee0acaf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich-a-265e8ff4-cd12-48e0-928c-19eb26a15aef#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/panorama/leute/bridgerton-autorin-julia-quinn-findet-politisches-engagement-wichtiger-als-buecher-schreiben](https://www.spiegel.de/panorama/leute/bridgerton-autorin-julia-quinn-findet-politisches-engagement-wichtiger-als-buecher-schreiben-a-0267678e-28b5-486b-a18d-d1a31ee0acaf#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-starmers-parteifreunde-distanzieren-sich-von-stabschef-mcsweeney](https://www.spiegel.de/ausland/grossbritannien-starmers-parteifreunde-distanzieren-sich-von-stabschef-mcsweeney-a-205dfac3-df8c-4b86-bd37-c59cd397bcdf#ref=rss)
-### dormagen
-
-* [https://www.spiegel.de/panorama/justiz/dormagen-kind-soll-14-jaehrigen-getoetet-haben](https://www.spiegel.de/panorama/justiz/dormagen-kind-soll-14-jaehrigen-getoetet-haben-a-de638a83-e6f1-4c29-be62-6635c59013b7#ref=rss)
-### kind
-
-* [https://www.spiegel.de/panorama/justiz/dormagen-kind-soll-14-jaehrigen-getoetet-haben](https://www.spiegel.de/panorama/justiz/dormagen-kind-soll-14-jaehrigen-getoetet-haben-a-de638a83-e6f1-4c29-be62-6635c59013b7#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/panorama/justiz/dormagen-kind-soll-14-jaehrigen-getoetet-haben](https://www.spiegel.de/panorama/justiz/dormagen-kind-soll-14-jaehrigen-getoetet-haben-a-de638a83-e6f1-4c29-be62-6635c59013b7#ref=rss)
-### 14
-
-* [https://www.spiegel.de/panorama/justiz/dormagen-kind-soll-14-jaehrigen-getoetet-haben](https://www.spiegel.de/panorama/justiz/dormagen-kind-soll-14-jaehrigen-getoetet-haben-a-de638a83-e6f1-4c29-be62-6635c59013b7#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-news-live-ticker-skeleton-athletin-uhlaender-bittet-jd-vance-um-hilfe](https://www.spiegel.de/sport/olympia/olympia-news-live-ticker-skeleton-athletin-uhlaender-bittet-jd-vance-um-hilfe-a-744bd866-17e0-46e8-9d24-11a0d2f8a817#ref=rss)
+* [https://www.spiegel.de/ausland/gaza-israels-armee-erkennt-die-palaestinensischen-zahlen-jetzt-doch-an](https://www.spiegel.de/ausland/gaza-israels-armee-erkennt-die-palaestinensischen-zahlen-jetzt-doch-an-a-57448807-7f75-4929-bd70-5c5b0aebee91#ref=rss)
 ### jahre
 
-* [https://www.spiegel.de/panorama/justiz/dormagen-kind-soll-14-jaehrigen-getoetet-haben](https://www.spiegel.de/panorama/justiz/dormagen-kind-soll-14-jaehrigen-getoetet-haben-a-de638a83-e6f1-4c29-be62-6635c59013b7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/acht-jahre-haft-fuer-maja-t-alexander-dobrindt-zeigt-verstaendnis-fuer-urteil](https://www.spiegel.de/politik/deutschland/acht-jahre-haft-fuer-maja-t-alexander-dobrindt-zeigt-verstaendnis-fuer-urteil-a-f870be8f-4ef7-41ea-8d76-bbaa6e750488#ref=rss)
-### attackiert
-
-* [https://www.spiegel.de/ausland/usa-so-attackiert-donald-trump-das-us-wahlsystem](https://www.spiegel.de/ausland/usa-so-attackiert-donald-trump-das-us-wahlsystem-a-0d137f78-4ca4-4294-b8b4-2f32c721c758#ref=rss)
-### uswahlsystem
-
-* [https://www.spiegel.de/ausland/usa-so-attackiert-donald-trump-das-us-wahlsystem](https://www.spiegel.de/ausland/usa-so-attackiert-donald-trump-das-us-wahlsystem-a-0d137f78-4ca4-4294-b8b4-2f32c721c758#ref=rss)
-### wahlen
-
-* [https://www.spiegel.de/ausland/usa-so-attackiert-donald-trump-das-us-wahlsystem](https://www.spiegel.de/ausland/usa-so-attackiert-donald-trump-das-us-wahlsystem-a-0d137f78-4ca4-4294-b8b4-2f32c721c758#ref=rss)
-### abschaffen
-
-* [https://www.spiegel.de/ausland/usa-so-attackiert-donald-trump-das-us-wahlsystem](https://www.spiegel.de/ausland/usa-so-attackiert-donald-trump-das-us-wahlsystem-a-0d137f78-4ca4-4294-b8b4-2f32c721c758#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/heizungsgesetz-wie-die-schwarz-rote-blockade-handwerker-und-kunden-verunsichert](https://www.spiegel.de/wirtschaft/unternehmen/heizungsgesetz-wie-die-schwarz-rote-blockade-handwerker-und-kunden-verunsichert-a-0cfd10d3-a1b7-4241-b10c-5e31c254d603#ref=rss)
-### michelangelo
-
-* [https://www.spiegel.de/kultur/michelangelo-neu-entdeckte-zeichnung-fuer-27-2-millionen-dollar-verkauft](https://www.spiegel.de/kultur/michelangelo-neu-entdeckte-zeichnung-fuer-27-2-millionen-dollar-verkauft-a-73ae64d0-7691-4919-8b25-948220b8a267#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/kultur/michelangelo-neu-entdeckte-zeichnung-fuer-27-2-millionen-dollar-verkauft](https://www.spiegel.de/kultur/michelangelo-neu-entdeckte-zeichnung-fuer-27-2-millionen-dollar-verkauft-a-73ae64d0-7691-4919-8b25-948220b8a267#ref=rss)
-* [https://www.spiegel.de/stil/alina-meissner-bebrout-kindheitserinnerungen-mit-bananen-french-toast](https://www.spiegel.de/stil/alina-meissner-bebrout-kindheitserinnerungen-mit-bananen-french-toast-a-c1cec0f0-4b44-4741-8503-232a30014691#ref=rss)
-### gestiegen
-
-* [https://www.spiegel.de/wirtschaft/deutsche-exporte-sind-2025-trotz-donald-trump-gestiegen](https://www.spiegel.de/wirtschaft/deutsche-exporte-sind-2025-trotz-donald-trump-gestiegen-a-82f661ff-1a13-4061-bdcc-9d2901757b45#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-haelt-klagen-ueber-arbeitgeberbelastung-fuer-eine-farce](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-haelt-klagen-ueber-arbeitgeberbelastung-fuer-eine-farce-a-b8e96f61-de41-4ade-a9f0-aef5c9e5b7f8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-14-jahre-haft-fuer-vergewaltiger-der-frauen-betaeubte](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-14-jahre-haft-fuer-vergewaltiger-der-frauen-betaeubte-a-09da72fd-03e1-48fe-be0f-aee7cacb0525#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/spanien-haben-forscher-einen-knochen-von-hannibals-kriegs-elefanten-entdeckt](https://www.spiegel.de/wissenschaft/natur/spanien-haben-forscher-einen-knochen-von-hannibals-kriegs-elefanten-entdeckt-a-8234964d-a8d9-479a-96c7-2249d7cab1a1#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/wirtschaft/deutsche-exporte-sind-2025-trotz-donald-trump-gestiegen](https://www.spiegel.de/wirtschaft/deutsche-exporte-sind-2025-trotz-donald-trump-gestiegen-a-82f661ff-1a13-4061-bdcc-9d2901757b45#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-warum-fc-st-pauli-und-fifa-boss-blatter-mit-ihrem-trump-boykott-falsch-liegen](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-warum-fc-st-pauli-und-fifa-boss-blatter-mit-ihrem-trump-boykott-falsch-liegen-a-15c1b855-9c44-4298-9621-2b14436ce164#ref=rss)
-### jahren
+* [https://www.spiegel.de/ausland/peter-mandelson-jeffrey-epstein-polizei-durchsucht-zwei-adressen-in-london](https://www.spiegel.de/ausland/peter-mandelson-jeffrey-epstein-polizei-durchsucht-zwei-adressen-in-london-a-897afed7-61b1-470d-bbcd-29c01ed45d15#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+### besten
 
-* [https://www.spiegel.de/wirtschaft/deutsche-exporte-sind-2025-trotz-donald-trump-gestiegen](https://www.spiegel.de/wirtschaft/deutsche-exporte-sind-2025-trotz-donald-trump-gestiegen-a-82f661ff-1a13-4061-bdcc-9d2901757b45#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-haelt-klagen-ueber-arbeitgeberbelastung-fuer-eine-farce](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-haelt-klagen-ueber-arbeitgeberbelastung-fuer-eine-farce-a-b8e96f61-de41-4ade-a9f0-aef5c9e5b7f8#ref=rss)
-### wladimir
+* [https://www.spiegel.de/panorama/bildung/zeugnisse-wie-eltern-am-besten-auf-schlechte-noten-reagieren](https://www.spiegel.de/panorama/bildung/zeugnisse-wie-eltern-am-besten-auf-schlechte-noten-reagieren-a-548f449c-b61b-4899-ac97-4c718e2c43fb#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-das-sind-die-besten-winterolympioniken-der-geschichte](https://www.spiegel.de/sport/olympia/olympia-2026-das-sind-die-besten-winterolympioniken-der-geschichte-a-2e477737-4a14-41cf-adb1-1ca496661997#ref=rss)
+### ich
 
-* [https://www.spiegel.de/ausland/russland-wladimir-aleksejew-general-in-moskau-niedergeschossen](https://www.spiegel.de/ausland/russland-wladimir-aleksejew-general-in-moskau-niedergeschossen-a-c5b35d88-7432-4be3-b21a-5bfec18f441b#ref=rss)
-### aleksejew
+* [https://www.spiegel.de/panorama/bildung/zeugnisse-wie-eltern-am-besten-auf-schlechte-noten-reagieren](https://www.spiegel.de/panorama/bildung/zeugnisse-wie-eltern-am-besten-auf-schlechte-noten-reagieren-a-548f449c-b61b-4899-ac97-4c718e2c43fb#ref=rss)
+* [https://www.spiegel.de/stil/breitling-und-aston-martin-warum-diese-fliegeruhr-jetzt-in-die-formel-1-geht](https://www.spiegel.de/stil/breitling-und-aston-martin-warum-diese-fliegeruhr-jetzt-in-die-formel-1-geht-a-93111628-fa83-4f4d-abe1-787331dc18a0#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/russland-wladimir-aleksejew-general-in-moskau-niedergeschossen](https://www.spiegel.de/ausland/russland-wladimir-aleksejew-general-in-moskau-niedergeschossen-a-c5b35d88-7432-4be3-b21a-5bfec18f441b#ref=rss)
-### general
+* [https://www.spiegel.de/panorama/bildung/zeugnisse-wie-eltern-am-besten-auf-schlechte-noten-reagieren](https://www.spiegel.de/panorama/bildung/zeugnisse-wie-eltern-am-besten-auf-schlechte-noten-reagieren-a-548f449c-b61b-4899-ac97-4c718e2c43fb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/jupiter-ist-kleiner-als-gedacht-neue-messungen](https://www.spiegel.de/wissenschaft/weltall/jupiter-ist-kleiner-als-gedacht-neue-messungen-a-83876de3-c811-424b-8f59-a689dbb5b6f3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/salzgitter-ag-fuehrt-hkm-ohne-thyssenkrupp-fort](https://www.spiegel.de/wirtschaft/unternehmen/salzgitter-ag-fuehrt-hkm-ohne-thyssenkrupp-fort-a-8259f07d-0b5a-44fb-a639-b8fc5a0265b0#ref=rss)
+### riesige
 
-* [https://www.spiegel.de/ausland/russland-wladimir-aleksejew-general-in-moskau-niedergeschossen](https://www.spiegel.de/ausland/russland-wladimir-aleksejew-general-in-moskau-niedergeschossen-a-c5b35d88-7432-4be3-b21a-5bfec18f441b#ref=rss)
-### moskau
+* [https://www.spiegel.de/panorama/ostsee-historisch-niedriger-pegelstand-durch-wochenlangen-wind](https://www.spiegel.de/panorama/ostsee-historisch-niedriger-pegelstand-durch-wochenlangen-wind-a-f01386e3-43e3-46ab-8d60-0d1f4e0eb80f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/argentinien-forscher-filmen-riesige-phantomqualle-in-der-tiefsee](https://www.spiegel.de/wissenschaft/argentinien-forscher-filmen-riesige-phantomqualle-in-der-tiefsee-a-65368e20-fcd3-4340-92c4-c5c484a34745#ref=rss)
+### forscher
 
-* [https://www.spiegel.de/ausland/russland-wladimir-aleksejew-general-in-moskau-niedergeschossen](https://www.spiegel.de/ausland/russland-wladimir-aleksejew-general-in-moskau-niedergeschossen-a-c5b35d88-7432-4be3-b21a-5bfec18f441b#ref=rss)
-### chef
+* [https://www.spiegel.de/panorama/ostsee-historisch-niedriger-pegelstand-durch-wochenlangen-wind](https://www.spiegel.de/panorama/ostsee-historisch-niedriger-pegelstand-durch-wochenlangen-wind-a-f01386e3-43e3-46ab-8d60-0d1f4e0eb80f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/argentinien-forscher-filmen-riesige-phantomqualle-in-der-tiefsee](https://www.spiegel.de/wissenschaft/argentinien-forscher-filmen-riesige-phantomqualle-in-der-tiefsee-a-65368e20-fcd3-4340-92c4-c5c484a34745#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/spanien-haben-forscher-einen-knochen-von-hannibals-kriegs-elefanten-entdeckt](https://www.spiegel.de/wissenschaft/natur/spanien-haben-forscher-einen-knochen-von-hannibals-kriegs-elefanten-entdeckt-a-8234964d-a8d9-479a-96c7-2249d7cab1a1#ref=rss)
+### kronprinzessin
 
-* [https://www.spiegel.de/ausland/russland-wladimir-aleksejew-general-in-moskau-niedergeschossen](https://www.spiegel.de/ausland/russland-wladimir-aleksejew-general-in-moskau-niedergeschossen-a-c5b35d88-7432-4be3-b21a-5bfec18f441b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/mehrarbeit-bertram-brossardt-schlaegt-verzicht-auf-urlaubstage-vor](https://www.spiegel.de/wirtschaft/mehrarbeit-bertram-brossardt-schlaegt-verzicht-auf-urlaubstage-vor-a-11ab95e4-fc25-4740-98c0-cc400c921021#ref=rss)
-### groll
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+* [https://www.spiegel.de/panorama/mette-marit-entschuldigt-sich-fuer-jahrelangen-kontakt-zu-epstein](https://www.spiegel.de/panorama/mette-marit-entschuldigt-sich-fuer-jahrelangen-kontakt-zu-epstein-a-3d44e94a-63bc-4ffa-a390-fa4761dad426#ref=rss)
+### dürften
 
-* [https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-schritt-4-sagen-sie-ihrem-groll-auf-nimmerwiedersehen](https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-schritt-4-sagen-sie-ihrem-groll-auf-nimmerwiedersehen-a-b0ae886d-41ff-42f7-93ee-a87e5ac59d00#ref=rss)
-### lange
+* [https://www.spiegel.de/ausland/gaza-israels-armee-erkennt-die-palaestinensischen-zahlen-jetzt-doch-an](https://www.spiegel.de/ausland/gaza-israels-armee-erkennt-die-palaestinensischen-zahlen-jetzt-doch-an-a-57448807-7f75-4929-bd70-5c5b0aebee91#ref=rss)
+* [https://www.spiegel.de/panorama/leute/markus-soeder-bayerns-ministerpraesident-geht-als-braveheart-zur-fastnacht-in-franken](https://www.spiegel.de/panorama/leute/markus-soeder-bayerns-ministerpraesident-geht-als-braveheart-zur-fastnacht-in-franken-a-47664c72-3b93-450f-b525-0feefe9dfabc#ref=rss)
+### 14
 
-* [https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-schritt-4-sagen-sie-ihrem-groll-auf-nimmerwiedersehen](https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-schritt-4-sagen-sie-ihrem-groll-auf-nimmerwiedersehen-a-b0ae886d-41ff-42f7-93ee-a87e5ac59d00#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/afd-und-rechtsextremismus-weilheim-wehrt-sich-gegen-rechtsextremen-treffpunkt](https://www.spiegel.de/panorama/gesellschaft/afd-und-rechtsextremismus-weilheim-wehrt-sich-gegen-rechtsextremen-treffpunkt-a-8e6504f8-dcc3-49af-811d-6f169f4b3e64#ref=rss)
-### afd
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-14-jahre-haft-fuer-vergewaltiger-der-frauen-betaeubte](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-14-jahre-haft-fuer-vergewaltiger-der-frauen-betaeubte-a-09da72fd-03e1-48fe-be0f-aee7cacb0525#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-kehrtwende-bei-elektroautos-22-milliarden-dollar-abgeschrieben](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-kehrtwende-bei-elektroautos-22-milliarden-dollar-abgeschrieben-a-e8daa283-c439-4714-bba2-4b138da76249#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/panorama/gesellschaft/afd-und-rechtsextremismus-weilheim-wehrt-sich-gegen-rechtsextremen-treffpunkt](https://www.spiegel.de/panorama/gesellschaft/afd-und-rechtsextremismus-weilheim-wehrt-sich-gegen-rechtsextremen-treffpunkt-a-8e6504f8-dcc3-49af-811d-6f169f4b3e64#ref=rss)
-### weilheim
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-14-jahre-haft-fuer-vergewaltiger-der-frauen-betaeubte](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-14-jahre-haft-fuer-vergewaltiger-der-frauen-betaeubte-a-09da72fd-03e1-48fe-be0f-aee7cacb0525#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/gesellschaft/afd-und-rechtsextremismus-weilheim-wehrt-sich-gegen-rechtsextremen-treffpunkt](https://www.spiegel.de/panorama/gesellschaft/afd-und-rechtsextremismus-weilheim-wehrt-sich-gegen-rechtsextremen-treffpunkt-a-8e6504f8-dcc3-49af-811d-6f169f4b3e64#ref=rss)
-### elton
+* [https://www.spiegel.de/ausland/donald-trump-weisses-haus-loescht-rassistisches-obama-video](https://www.spiegel.de/ausland/donald-trump-weisses-haus-loescht-rassistisches-obama-video-a-2e62db0e-afbd-49b8-b41c-d861f8ca5c3d#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/leute/elton-john-ehemann-david-furnish-wirft-daily-mail-im-prozess-homophobie-vor](https://www.spiegel.de/panorama/leute/elton-john-ehemann-david-furnish-wirft-daily-mail-im-prozess-homophobie-vor-a-b04356bc-e6ed-4fc3-942c-aac584ef9314#ref=rss)
-### john
+* [https://www.spiegel.de/ausland/donald-trump-weisses-haus-loescht-rassistisches-obama-video](https://www.spiegel.de/ausland/donald-trump-weisses-haus-loescht-rassistisches-obama-video-a-2e62db0e-afbd-49b8-b41c-d861f8ca5c3d#ref=rss)
+### haus
 
-* [https://www.spiegel.de/panorama/leute/elton-john-ehemann-david-furnish-wirft-daily-mail-im-prozess-homophobie-vor](https://www.spiegel.de/panorama/leute/elton-john-ehemann-david-furnish-wirft-daily-mail-im-prozess-homophobie-vor-a-b04356bc-e6ed-4fc3-942c-aac584ef9314#ref=rss)
-### david
+* [https://www.spiegel.de/ausland/donald-trump-weisses-haus-loescht-rassistisches-obama-video](https://www.spiegel.de/ausland/donald-trump-weisses-haus-loescht-rassistisches-obama-video-a-2e62db0e-afbd-49b8-b41c-d861f8ca5c3d#ref=rss)
+### zeuge
 
-* [https://www.spiegel.de/panorama/leute/elton-john-ehemann-david-furnish-wirft-daily-mail-im-prozess-homophobie-vor](https://www.spiegel.de/panorama/leute/elton-john-ehemann-david-furnish-wirft-daily-mail-im-prozess-homophobie-vor-a-b04356bc-e6ed-4fc3-942c-aac584ef9314#ref=rss)
-### furnish
+* [https://www.spiegel.de/panorama/justiz/block-prozess-in-hamburg-wie-ein-zeuge-sich-um-antworten-windet](https://www.spiegel.de/panorama/justiz/block-prozess-in-hamburg-wie-ein-zeuge-sich-um-antworten-windet-a-7259e1d8-e2c1-40c6-8739-f8c3c2ed7e66#ref=rss)
+### antworten
 
-* [https://www.spiegel.de/panorama/leute/elton-john-ehemann-david-furnish-wirft-daily-mail-im-prozess-homophobie-vor](https://www.spiegel.de/panorama/leute/elton-john-ehemann-david-furnish-wirft-daily-mail-im-prozess-homophobie-vor-a-b04356bc-e6ed-4fc3-942c-aac584ef9314#ref=rss)
-### daily
+* [https://www.spiegel.de/panorama/justiz/block-prozess-in-hamburg-wie-ein-zeuge-sich-um-antworten-windet](https://www.spiegel.de/panorama/justiz/block-prozess-in-hamburg-wie-ein-zeuge-sich-um-antworten-windet-a-7259e1d8-e2c1-40c6-8739-f8c3c2ed7e66#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-das-sind-die-besten-winterolympioniken-der-geschichte](https://www.spiegel.de/sport/olympia/olympia-2026-das-sind-die-besten-winterolympioniken-der-geschichte-a-2e477737-4a14-41cf-adb1-1ca496661997#ref=rss)
+### bleibt
 
-* [https://www.spiegel.de/panorama/leute/elton-john-ehemann-david-furnish-wirft-daily-mail-im-prozess-homophobie-vor](https://www.spiegel.de/panorama/leute/elton-john-ehemann-david-furnish-wirft-daily-mail-im-prozess-homophobie-vor-a-b04356bc-e6ed-4fc3-942c-aac584ef9314#ref=rss)
-### mail
+* [https://www.spiegel.de/panorama/justiz/block-prozess-in-hamburg-wie-ein-zeuge-sich-um-antworten-windet](https://www.spiegel.de/panorama/justiz/block-prozess-in-hamburg-wie-ein-zeuge-sich-um-antworten-windet-a-7259e1d8-e2c1-40c6-8739-f8c3c2ed7e66#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lisa-kudrow-wuenscht-sich-erhalt-der-filmstudios-von-friends](https://www.spiegel.de/panorama/leute/lisa-kudrow-wuenscht-sich-erhalt-der-filmstudios-von-friends-a-bbe1f0c1-15ed-41ef-a0c1-7e5abc80eea8#ref=rss)
+### prozess
 
-* [https://www.spiegel.de/panorama/leute/elton-john-ehemann-david-furnish-wirft-daily-mail-im-prozess-homophobie-vor](https://www.spiegel.de/panorama/leute/elton-john-ehemann-david-furnish-wirft-daily-mail-im-prozess-homophobie-vor-a-b04356bc-e6ed-4fc3-942c-aac584ef9314#ref=rss)
-### fc
+* [https://www.spiegel.de/panorama/justiz/block-prozess-in-hamburg-wie-ein-zeuge-sich-um-antworten-windet](https://www.spiegel.de/panorama/justiz/block-prozess-in-hamburg-wie-ein-zeuge-sich-um-antworten-windet-a-7259e1d8-e2c1-40c6-8739-f8c3c2ed7e66#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fall-maja-t-dobrindt-verraet-europaeische-grundwerte-kommentar](https://www.spiegel.de/politik/deutschland/fall-maja-t-dobrindt-verraet-europaeische-grundwerte-kommentar-a-9467af60-c1d3-4fa7-9c63-3447b8fe284a#ref=rss)
+### peter
 
-* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-warum-fc-st-pauli-und-fifa-boss-blatter-mit-ihrem-trump-boykott-falsch-liegen](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-warum-fc-st-pauli-und-fifa-boss-blatter-mit-ihrem-trump-boykott-falsch-liegen-a-15c1b855-9c44-4298-9621-2b14436ce164#ref=rss)
-### st
+* [https://www.spiegel.de/ausland/peter-mandelson-jeffrey-epstein-polizei-durchsucht-zwei-adressen-in-london](https://www.spiegel.de/ausland/peter-mandelson-jeffrey-epstein-polizei-durchsucht-zwei-adressen-in-london-a-897afed7-61b1-470d-bbcd-29c01ed45d15#ref=rss)
+### mandelson
 
-* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-warum-fc-st-pauli-und-fifa-boss-blatter-mit-ihrem-trump-boykott-falsch-liegen](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-warum-fc-st-pauli-und-fifa-boss-blatter-mit-ihrem-trump-boykott-falsch-liegen-a-15c1b855-9c44-4298-9621-2b14436ce164#ref=rss)
-### pauli
+* [https://www.spiegel.de/ausland/peter-mandelson-jeffrey-epstein-polizei-durchsucht-zwei-adressen-in-london](https://www.spiegel.de/ausland/peter-mandelson-jeffrey-epstein-polizei-durchsucht-zwei-adressen-in-london-a-897afed7-61b1-470d-bbcd-29c01ed45d15#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-warum-fc-st-pauli-und-fifa-boss-blatter-mit-ihrem-trump-boykott-falsch-liegen](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-warum-fc-st-pauli-und-fifa-boss-blatter-mit-ihrem-trump-boykott-falsch-liegen-a-15c1b855-9c44-4298-9621-2b14436ce164#ref=rss)
-### fifaboss
+* [https://www.spiegel.de/ausland/peter-mandelson-jeffrey-epstein-polizei-durchsucht-zwei-adressen-in-london](https://www.spiegel.de/ausland/peter-mandelson-jeffrey-epstein-polizei-durchsucht-zwei-adressen-in-london-a-897afed7-61b1-470d-bbcd-29c01ed45d15#ref=rss)
+* [https://www.spiegel.de/politik/bjoern-hoecke-thueringens-afd-chef-verwendet-erneut-verbotene-sa-parole](https://www.spiegel.de/politik/bjoern-hoecke-thueringens-afd-chef-verwendet-erneut-verbotene-sa-parole-a-d75c16ec-fb9a-478a-ab1b-ab50a8c6c6cb#ref=rss)
+### sexualstraftäter
 
-* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-warum-fc-st-pauli-und-fifa-boss-blatter-mit-ihrem-trump-boykott-falsch-liegen](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-warum-fc-st-pauli-und-fifa-boss-blatter-mit-ihrem-trump-boykott-falsch-liegen-a-15c1b855-9c44-4298-9621-2b14436ce164#ref=rss)
-### blatter
+* [https://www.spiegel.de/ausland/peter-mandelson-jeffrey-epstein-polizei-durchsucht-zwei-adressen-in-london](https://www.spiegel.de/ausland/peter-mandelson-jeffrey-epstein-polizei-durchsucht-zwei-adressen-in-london-a-897afed7-61b1-470d-bbcd-29c01ed45d15#ref=rss)
+* [https://www.spiegel.de/panorama/mette-marit-entschuldigt-sich-fuer-jahrelangen-kontakt-zu-epstein](https://www.spiegel.de/panorama/mette-marit-entschuldigt-sich-fuer-jahrelangen-kontakt-zu-epstein-a-3d44e94a-63bc-4ffa-a390-fa4761dad426#ref=rss)
+### kronprinz
 
-* [https://www.spiegel.de/politik/deutschland/fussball-wm-2026-warum-fc-st-pauli-und-fifa-boss-blatter-mit-ihrem-trump-boykott-falsch-liegen](https://www.spiegel.de/politik/deutschland/fussball-wm-2026-warum-fc-st-pauli-und-fifa-boss-blatter-mit-ihrem-trump-boykott-falsch-liegen-a-15c1b855-9c44-4298-9621-2b14436ce164#ref=rss)
-### mehrarbeit
+* [https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-wir-unterstuetzen-marius](https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-wir-unterstuetzen-marius-a-5e96514b-fcc1-4df1-a4e2-12e709215f6e#ref=rss)
+### familie
 
-* [https://www.spiegel.de/wirtschaft/mehrarbeit-bertram-brossardt-schlaegt-verzicht-auf-urlaubstage-vor](https://www.spiegel.de/wirtschaft/mehrarbeit-bertram-brossardt-schlaegt-verzicht-auf-urlaubstage-vor-a-11ab95e4-fc25-4740-98c0-cc400c921021#ref=rss)
-### verzicht
+* [https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-wir-unterstuetzen-marius](https://www.spiegel.de/panorama/leute/norwegens-kronprinz-haakon-wir-unterstuetzen-marius-a-5e96514b-fcc1-4df1-a4e2-12e709215f6e#ref=rss)
+* [https://www.spiegel.de/panorama/mette-marit-entschuldigt-sich-fuer-jahrelangen-kontakt-zu-epstein](https://www.spiegel.de/panorama/mette-marit-entschuldigt-sich-fuer-jahrelangen-kontakt-zu-epstein-a-3d44e94a-63bc-4ffa-a390-fa4761dad426#ref=rss)
+### eltern
 
-* [https://www.spiegel.de/wirtschaft/mehrarbeit-bertram-brossardt-schlaegt-verzicht-auf-urlaubstage-vor](https://www.spiegel.de/wirtschaft/mehrarbeit-bertram-brossardt-schlaegt-verzicht-auf-urlaubstage-vor-a-11ab95e4-fc25-4740-98c0-cc400c921021#ref=rss)
-### wirtschaft
+* [https://www.spiegel.de/panorama/bildung/zeugnisse-wie-eltern-am-besten-auf-schlechte-noten-reagieren](https://www.spiegel.de/panorama/bildung/zeugnisse-wie-eltern-am-besten-auf-schlechte-noten-reagieren-a-548f449c-b61b-4899-ac97-4c718e2c43fb#ref=rss)
+### reagieren
 
-* [https://www.spiegel.de/wirtschaft/mehrarbeit-bertram-brossardt-schlaegt-verzicht-auf-urlaubstage-vor](https://www.spiegel.de/wirtschaft/mehrarbeit-bertram-brossardt-schlaegt-verzicht-auf-urlaubstage-vor-a-11ab95e4-fc25-4740-98c0-cc400c921021#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-haelt-klagen-ueber-arbeitgeberbelastung-fuer-eine-farce](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-haelt-klagen-ueber-arbeitgeberbelastung-fuer-eine-farce-a-b8e96f61-de41-4ade-a9f0-aef5c9e5b7f8#ref=rss)
-### usvizepräsident
+* [https://www.spiegel.de/panorama/bildung/zeugnisse-wie-eltern-am-besten-auf-schlechte-noten-reagieren](https://www.spiegel.de/panorama/bildung/zeugnisse-wie-eltern-am-besten-auf-schlechte-noten-reagieren-a-548f449c-b61b-4899-ac97-4c718e2c43fb#ref=rss)
+### sehr
 
-* [https://www.spiegel.de/sport/olympia/olympia-news-live-ticker-skeleton-athletin-uhlaender-bittet-jd-vance-um-hilfe](https://www.spiegel.de/sport/olympia/olympia-news-live-ticker-skeleton-athletin-uhlaender-bittet-jd-vance-um-hilfe-a-744bd866-17e0-46e8-9d24-11a0d2f8a817#ref=rss)
-### vance
+* [https://www.spiegel.de/panorama/bildung/zeugnisse-wie-eltern-am-besten-auf-schlechte-noten-reagieren](https://www.spiegel.de/panorama/bildung/zeugnisse-wie-eltern-am-besten-auf-schlechte-noten-reagieren-a-548f449c-b61b-4899-ac97-4c718e2c43fb#ref=rss)
+* [https://www.spiegel.de/panorama/leute/lisa-kudrow-wuenscht-sich-erhalt-der-filmstudios-von-friends](https://www.spiegel.de/panorama/leute/lisa-kudrow-wuenscht-sich-erhalt-der-filmstudios-von-friends-a-bbe1f0c1-15ed-41ef-a0c1-7e5abc80eea8#ref=rss)
+### ostsee
 
-* [https://www.spiegel.de/sport/olympia/olympia-news-live-ticker-skeleton-athletin-uhlaender-bittet-jd-vance-um-hilfe](https://www.spiegel.de/sport/olympia/olympia-news-live-ticker-skeleton-athletin-uhlaender-bittet-jd-vance-um-hilfe-a-744bd866-17e0-46e8-9d24-11a0d2f8a817#ref=rss)
-### heizungsgesetz
+* [https://www.spiegel.de/panorama/ostsee-historisch-niedriger-pegelstand-durch-wochenlangen-wind](https://www.spiegel.de/panorama/ostsee-historisch-niedriger-pegelstand-durch-wochenlangen-wind-a-f01386e3-43e3-46ab-8d60-0d1f4e0eb80f#ref=rss)
+### pegelstand
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/heizungsgesetz-wie-die-schwarz-rote-blockade-handwerker-und-kunden-verunsichert](https://www.spiegel.de/wirtschaft/unternehmen/heizungsgesetz-wie-die-schwarz-rote-blockade-handwerker-und-kunden-verunsichert-a-0cfd10d3-a1b7-4241-b10c-5e31c254d603#ref=rss)
+* [https://www.spiegel.de/panorama/ostsee-historisch-niedriger-pegelstand-durch-wochenlangen-wind](https://www.spiegel.de/panorama/ostsee-historisch-niedriger-pegelstand-durch-wochenlangen-wind-a-f01386e3-43e3-46ab-8d60-0d1f4e0eb80f#ref=rss)
+### wind
+
+* [https://www.spiegel.de/panorama/ostsee-historisch-niedriger-pegelstand-durch-wochenlangen-wind](https://www.spiegel.de/panorama/ostsee-historisch-niedriger-pegelstand-durch-wochenlangen-wind-a-f01386e3-43e3-46ab-8d60-0d1f4e0eb80f#ref=rss)
+### jupiter
+
+* [https://www.spiegel.de/wissenschaft/weltall/jupiter-ist-kleiner-als-gedacht-neue-messungen](https://www.spiegel.de/wissenschaft/weltall/jupiter-ist-kleiner-als-gedacht-neue-messungen-a-83876de3-c811-424b-8f59-a689dbb5b6f3#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wissenschaft/weltall/jupiter-ist-kleiner-als-gedacht-neue-messungen](https://www.spiegel.de/wissenschaft/weltall/jupiter-ist-kleiner-als-gedacht-neue-messungen-a-83876de3-c811-424b-8f59-a689dbb5b6f3#ref=rss)
+* [https://www.spiegel.de/kultur/musik/6euroneunzig-mandy-indiana-joji-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/6euroneunzig-mandy-indiana-joji-abgehoert-album-der-woche-a-dab9bc75-973d-4f3d-b2dd-e5ff673e88b6#ref=rss)
+### heraus
+
+* [https://www.spiegel.de/wissenschaft/weltall/jupiter-ist-kleiner-als-gedacht-neue-messungen](https://www.spiegel.de/wissenschaft/weltall/jupiter-ist-kleiner-als-gedacht-neue-messungen-a-83876de3-c811-424b-8f59-a689dbb5b6f3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/spanien-haben-forscher-einen-knochen-von-hannibals-kriegs-elefanten-entdeckt](https://www.spiegel.de/wissenschaft/natur/spanien-haben-forscher-einen-knochen-von-hannibals-kriegs-elefanten-entdeckt-a-8234964d-a8d9-479a-96c7-2249d7cab1a1#ref=rss)
+### koalition
+
+* [https://www.spiegel.de/politik/deutschland/social-media-verbot-koalition-debattiert-einschraenkungen-fuer-jugendliche](https://www.spiegel.de/politik/deutschland/social-media-verbot-koalition-debattiert-einschraenkungen-fuer-jugendliche-a-46f3a18d-cf4e-4fba-bcd6-91b1d6ec6b51#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/politik/deutschland/social-media-verbot-koalition-debattiert-einschraenkungen-fuer-jugendliche](https://www.spiegel.de/politik/deutschland/social-media-verbot-koalition-debattiert-einschraenkungen-fuer-jugendliche-a-46f3a18d-cf4e-4fba-bcd6-91b1d6ec6b51#ref=rss)
+### europäische
+
+* [https://www.spiegel.de/politik/deutschland/social-media-verbot-koalition-debattiert-einschraenkungen-fuer-jugendliche](https://www.spiegel.de/politik/deutschland/social-media-verbot-koalition-debattiert-einschraenkungen-fuer-jugendliche-a-46f3a18d-cf4e-4fba-bcd6-91b1d6ec6b51#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fall-maja-t-dobrindt-verraet-europaeische-grundwerte-kommentar](https://www.spiegel.de/politik/deutschland/fall-maja-t-dobrindt-verraet-europaeische-grundwerte-kommentar-a-9467af60-c1d3-4fa7-9c63-3447b8fe284a#ref=rss)
+### arminia
+
+* [https://www.spiegel.de/wissenschaft/mensch/arminia-bielefeld-studie-macht-fussballfieber-im-dfb-pokal-messbar](https://www.spiegel.de/wissenschaft/mensch/arminia-bielefeld-studie-macht-fussballfieber-im-dfb-pokal-messbar-a-57c960e2-0a73-4c0a-b4c5-2886fb7bb3a0#ref=rss)
+### bielefeld
+
+* [https://www.spiegel.de/wissenschaft/mensch/arminia-bielefeld-studie-macht-fussballfieber-im-dfb-pokal-messbar](https://www.spiegel.de/wissenschaft/mensch/arminia-bielefeld-studie-macht-fussballfieber-im-dfb-pokal-messbar-a-57c960e2-0a73-4c0a-b4c5-2886fb7bb3a0#ref=rss)
+### forschende
+
+* [https://www.spiegel.de/wissenschaft/mensch/arminia-bielefeld-studie-macht-fussballfieber-im-dfb-pokal-messbar](https://www.spiegel.de/wissenschaft/mensch/arminia-bielefeld-studie-macht-fussballfieber-im-dfb-pokal-messbar-a-57c960e2-0a73-4c0a-b4c5-2886fb7bb3a0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/spanien-haben-forscher-einen-knochen-von-hannibals-kriegs-elefanten-entdeckt](https://www.spiegel.de/wissenschaft/natur/spanien-haben-forscher-einen-knochen-von-hannibals-kriegs-elefanten-entdeckt-a-8234964d-a8d9-479a-96c7-2249d7cab1a1#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/auto/tempolimit-bundesregierung-nach-klima-urteil-in-der-pflicht](https://www.spiegel.de/auto/tempolimit-bundesregierung-nach-klima-urteil-in-der-pflicht-a-ce56d6a1-24b9-41e3-804f-196ee700e658#ref=rss)
+### führt
+
+* [https://www.spiegel.de/auto/tempolimit-bundesregierung-nach-klima-urteil-in-der-pflicht](https://www.spiegel.de/auto/tempolimit-bundesregierung-nach-klima-urteil-in-der-pflicht-a-ce56d6a1-24b9-41e3-804f-196ee700e658#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/salzgitter-ag-fuehrt-hkm-ohne-thyssenkrupp-fort](https://www.spiegel.de/wirtschaft/unternehmen/salzgitter-ag-fuehrt-hkm-ohne-thyssenkrupp-fort-a-8259f07d-0b5a-44fb-a639-b8fc5a0265b0#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/auto/tempolimit-bundesregierung-nach-klima-urteil-in-der-pflicht](https://www.spiegel.de/auto/tempolimit-bundesregierung-nach-klima-urteil-in-der-pflicht-a-ce56d6a1-24b9-41e3-804f-196ee700e658#ref=rss)
+* [https://www.spiegel.de/politik/news-in-echtzeit-russland-bombt-kyjiw-in-die-kaelte-iran-usa-gespraeche-in-oman-glatteis-und-eisregen-in-berlin](https://www.spiegel.de/politik/news-in-echtzeit-russland-bombt-kyjiw-in-die-kaelte-iran-usa-gespraeche-in-oman-glatteis-und-eisregen-in-berlin-a-b26d20d5-fb48-45d8-ae42-ab096ede237b#ref=rss)
 ### maja
 
-* [https://www.spiegel.de/politik/deutschland/acht-jahre-haft-fuer-maja-t-alexander-dobrindt-zeigt-verstaendnis-fuer-urteil](https://www.spiegel.de/politik/deutschland/acht-jahre-haft-fuer-maja-t-alexander-dobrindt-zeigt-verstaendnis-fuer-urteil-a-f870be8f-4ef7-41ea-8d76-bbaa6e750488#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fall-maja-t-dobrindt-verraet-europaeische-grundwerte-kommentar](https://www.spiegel.de/politik/deutschland/fall-maja-t-dobrindt-verraet-europaeische-grundwerte-kommentar-a-9467af60-c1d3-4fa7-9c63-3447b8fe284a#ref=rss)
 ### t
 
-* [https://www.spiegel.de/politik/deutschland/acht-jahre-haft-fuer-maja-t-alexander-dobrindt-zeigt-verstaendnis-fuer-urteil](https://www.spiegel.de/politik/deutschland/acht-jahre-haft-fuer-maja-t-alexander-dobrindt-zeigt-verstaendnis-fuer-urteil-a-f870be8f-4ef7-41ea-8d76-bbaa6e750488#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/politik/deutschland/acht-jahre-haft-fuer-maja-t-alexander-dobrindt-zeigt-verstaendnis-fuer-urteil](https://www.spiegel.de/politik/deutschland/acht-jahre-haft-fuer-maja-t-alexander-dobrindt-zeigt-verstaendnis-fuer-urteil-a-f870be8f-4ef7-41ea-8d76-bbaa6e750488#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fall-maja-t-dobrindt-verraet-europaeische-grundwerte-kommentar](https://www.spiegel.de/politik/deutschland/fall-maja-t-dobrindt-verraet-europaeische-grundwerte-kommentar-a-9467af60-c1d3-4fa7-9c63-3447b8fe284a#ref=rss)
 ### dobrindt
 
-* [https://www.spiegel.de/politik/deutschland/acht-jahre-haft-fuer-maja-t-alexander-dobrindt-zeigt-verstaendnis-fuer-urteil](https://www.spiegel.de/politik/deutschland/acht-jahre-haft-fuer-maja-t-alexander-dobrindt-zeigt-verstaendnis-fuer-urteil-a-f870be8f-4ef7-41ea-8d76-bbaa6e750488#ref=rss)
-### medaillen
+* [https://www.spiegel.de/politik/deutschland/fall-maja-t-dobrindt-verraet-europaeische-grundwerte-kommentar](https://www.spiegel.de/politik/deutschland/fall-maja-t-dobrindt-verraet-europaeische-grundwerte-kommentar-a-9467af60-c1d3-4fa7-9c63-3447b8fe284a#ref=rss)
+### verrät
 
-* [https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland](https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland-a-5310e68c-3b1a-4c07-8076-a873ed31d948#ref=rss)
-### deutschland
+* [https://www.spiegel.de/politik/deutschland/fall-maja-t-dobrindt-verraet-europaeische-grundwerte-kommentar](https://www.spiegel.de/politik/deutschland/fall-maja-t-dobrindt-verraet-europaeische-grundwerte-kommentar-a-9467af60-c1d3-4fa7-9c63-3447b8fe284a#ref=rss)
+* [https://www.spiegel.de/stil/breitling-und-aston-martin-warum-diese-fliegeruhr-jetzt-in-die-formel-1-geht](https://www.spiegel.de/stil/breitling-und-aston-martin-warum-diese-fliegeruhr-jetzt-in-die-formel-1-geht-a-93111628-fa83-4f4d-abe1-787331dc18a0#ref=rss)
+### königshaus
 
-* [https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland](https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland-a-5310e68c-3b1a-4c07-8076-a873ed31d948#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-und-eisregen-im-nordosten](https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-und-eisregen-im-nordosten-a-fb0afbdc-0d1b-4818-98c2-4bf8a1780b06#ref=rss)
-### letzten
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+### erschüttern
 
-* [https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland](https://www.spiegel.de/sport/olympia/olympia-in-mailand-und-cortina-dampezzo-so-viele-medaillen-gewinnt-deutschland-a-5310e68c-3b1a-4c07-8076-a873ed31d948#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-haelt-klagen-ueber-arbeitgeberbelastung-fuer-eine-farce](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-haelt-klagen-ueber-arbeitgeberbelastung-fuer-eine-farce-a-b8e96f61-de41-4ade-a9f0-aef5c9e5b7f8#ref=rss)
-### sanierung
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+### monarchie
 
-* [https://www.spiegel.de/wirtschaft/fuenf-monate-bauzeit-sanierung-der-bahnstrecke-koeln-hagen-beginnt](https://www.spiegel.de/wirtschaft/fuenf-monate-bauzeit-sanierung-der-bahnstrecke-koeln-hagen-beginnt-a-bc783738-0174-46f0-9c53-e5cb3a813e1f#ref=rss)
-### bahnstrecke
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+### vergewaltigungsvorwürfen
 
-* [https://www.spiegel.de/wirtschaft/fuenf-monate-bauzeit-sanierung-der-bahnstrecke-koeln-hagen-beginnt](https://www.spiegel.de/wirtschaft/fuenf-monate-bauzeit-sanierung-der-bahnstrecke-koeln-hagen-beginnt-a-bc783738-0174-46f0-9c53-e5cb3a813e1f#ref=rss)
-### hohe
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-und-eisregen-im-nordosten](https://www.spiegel.de/panorama/wetter-in-deutschland-warnung-vor-glatteis-und-eisregen-im-nordosten-a-fb0afbdc-0d1b-4818-98c2-4bf8a1780b06#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-haelt-klagen-ueber-arbeitgeberbelastung-fuer-eine-farce](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-haelt-klagen-ueber-arbeitgeberbelastung-fuer-eine-farce-a-b8e96f61-de41-4ade-a9f0-aef5c9e5b7f8#ref=rss)
-### football
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+### räumt
 
-* [https://www.spiegel.de/kultur/tv/werbung-beim-super-bowl-diese-stars-sind-die-gesichter-der-super-bowl-spots](https://www.spiegel.de/kultur/tv/werbung-beim-super-bowl-diese-stars-sind-die-gesichter-der-super-bowl-spots-a-11cbadd5-eeb3-4535-a4e4-f266ac574850#ref=rss)
-* [https://www.spiegel.de/sport/nfl-football-matthew-stafford-erhaelt-mvp-auszeichnung-vor-super-bowl](https://www.spiegel.de/sport/nfl-football-matthew-stafford-erhaelt-mvp-auszeichnung-vor-super-bowl-a-2ffe0b68-9a7e-4a43-bccc-ef466f69cc8a#ref=rss)
-### reichinnek
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+### freundschaft
 
-* [https://www.spiegel.de/politik/deutschland/heidi-reichinnek-haelt-klagen-ueber-arbeitgeberbelastung-fuer-eine-farce](https://www.spiegel.de/politik/deutschland/heidi-reichinnek-haelt-klagen-ueber-arbeitgeberbelastung-fuer-eine-farce-a-b8e96f61-de41-4ade-a9f0-aef5c9e5b7f8#ref=rss)
-### friedrich
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
+### überblick
 
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich-a-265e8ff4-cd12-48e0-928c-19eb26a15aef#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich-a-265e8ff4-cd12-48e0-928c-19eb26a15aef#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-a-3b72961e-ca27-4433-9d74-b525d06c5440#ref=rss)
+* [https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast](https://www.spiegel.de/ausland/marius-borg-hoiby-und-mette-marit-die-skandale-um-norwegens-koenigshaus-podcast-a-cd8f8473-419d-45b1-bb52-6e1152bac583#ref=rss)
 ### markus
 
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich-a-265e8ff4-cd12-48e0-928c-19eb26a15aef#ref=rss)
+* [https://www.spiegel.de/panorama/leute/markus-soeder-bayerns-ministerpraesident-geht-als-braveheart-zur-fastnacht-in-franken](https://www.spiegel.de/panorama/leute/markus-soeder-bayerns-ministerpraesident-geht-als-braveheart-zur-fastnacht-in-franken-a-47664c72-3b93-450f-b525-0feefe9dfabc#ref=rss)
 ### söder
 
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich-a-265e8ff4-cd12-48e0-928c-19eb26a15aef#ref=rss)
-### verkleidet
+* [https://www.spiegel.de/panorama/leute/markus-soeder-bayerns-ministerpraesident-geht-als-braveheart-zur-fastnacht-in-franken](https://www.spiegel.de/panorama/leute/markus-soeder-bayerns-ministerpraesident-geht-als-braveheart-zur-fastnacht-in-franken-a-47664c72-3b93-450f-b525-0feefe9dfabc#ref=rss)
+### besonders
 
-* [https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich](https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-der-golfregion-iran-und-usa-sprechen-markus-soeder-verkleidet-sich-a-265e8ff4-cd12-48e0-928c-19eb26a15aef#ref=rss)
-### nfl
+* [https://www.spiegel.de/panorama/leute/markus-soeder-bayerns-ministerpraesident-geht-als-braveheart-zur-fastnacht-in-franken](https://www.spiegel.de/panorama/leute/markus-soeder-bayerns-ministerpraesident-geht-als-braveheart-zur-fastnacht-in-franken-a-47664c72-3b93-450f-b525-0feefe9dfabc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/toyota-macht-bisherigen-finanzchef-kenta-kon-zum-konzernboss](https://www.spiegel.de/wirtschaft/unternehmen/toyota-macht-bisherigen-finanzchef-kenta-kon-zum-konzernboss-a-5145f85a-7a47-434a-ab8a-2041252ff68b#ref=rss)
+### stellantis
 
-* [https://www.spiegel.de/sport/nfl-football-matthew-stafford-erhaelt-mvp-auszeichnung-vor-super-bowl](https://www.spiegel.de/sport/nfl-football-matthew-stafford-erhaelt-mvp-auszeichnung-vor-super-bowl-a-2ffe0b68-9a7e-4a43-bccc-ef466f69cc8a#ref=rss)
-### matthew
+* [https://www.spiegel.de/wirtschaft/unternehmen/stellantis-kehrtwende-bei-elektroautos-22-milliarden-dollar-abgeschrieben](https://www.spiegel.de/wirtschaft/unternehmen/stellantis-kehrtwende-bei-elektroautos-22-milliarden-dollar-abgeschrieben-a-e8daa283-c439-4714-bba2-4b138da76249#ref=rss)
+### news
 
-* [https://www.spiegel.de/sport/nfl-football-matthew-stafford-erhaelt-mvp-auszeichnung-vor-super-bowl](https://www.spiegel.de/sport/nfl-football-matthew-stafford-erhaelt-mvp-auszeichnung-vor-super-bowl-a-2ffe0b68-9a7e-4a43-bccc-ef466f69cc8a#ref=rss)
-### stafford
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sucht-anschlag-auf-russischen-general-groenland-beitrag-von-extra-3](https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sucht-anschlag-auf-russischen-general-groenland-beitrag-von-extra-3-a-2164fa43-9556-4e4c-bf84-f415a21a5766#ref=rss)
+* [https://www.spiegel.de/politik/news-in-echtzeit-russland-bombt-kyjiw-in-die-kaelte-iran-usa-gespraeche-in-oman-glatteis-und-eisregen-in-berlin](https://www.spiegel.de/politik/news-in-echtzeit-russland-bombt-kyjiw-in-die-kaelte-iran-usa-gespraeche-in-oman-glatteis-und-eisregen-in-berlin-a-b26d20d5-fb48-45d8-ae42-ab096ede237b#ref=rss)
+### russischen
 
-* [https://www.spiegel.de/sport/nfl-football-matthew-stafford-erhaelt-mvp-auszeichnung-vor-super-bowl](https://www.spiegel.de/sport/nfl-football-matthew-stafford-erhaelt-mvp-auszeichnung-vor-super-bowl-a-2ffe0b68-9a7e-4a43-bccc-ef466f69cc8a#ref=rss)
-### alina
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sucht-anschlag-auf-russischen-general-groenland-beitrag-von-extra-3](https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sucht-anschlag-auf-russischen-general-groenland-beitrag-von-extra-3-a-2164fa43-9556-4e4c-bf84-f415a21a5766#ref=rss)
+### general
 
-* [https://www.spiegel.de/stil/alina-meissner-bebrout-kindheitserinnerungen-mit-bananen-french-toast](https://www.spiegel.de/stil/alina-meissner-bebrout-kindheitserinnerungen-mit-bananen-french-toast-a-c1cec0f0-4b44-4741-8503-232a30014691#ref=rss)
-### meissnerbebrout
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sucht-anschlag-auf-russischen-general-groenland-beitrag-von-extra-3](https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sucht-anschlag-auf-russischen-general-groenland-beitrag-von-extra-3-a-2164fa43-9556-4e4c-bf84-f415a21a5766#ref=rss)
+### grönlandbeitrag
 
-* [https://www.spiegel.de/stil/alina-meissner-bebrout-kindheitserinnerungen-mit-bananen-french-toast](https://www.spiegel.de/stil/alina-meissner-bebrout-kindheitserinnerungen-mit-bananen-french-toast-a-c1cec0f0-4b44-4741-8503-232a30014691#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sucht-anschlag-auf-russischen-general-groenland-beitrag-von-extra-3](https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sucht-anschlag-auf-russischen-general-groenland-beitrag-von-extra-3-a-2164fa43-9556-4e4c-bf84-f415a21a5766#ref=rss)
+### extra
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sucht-anschlag-auf-russischen-general-groenland-beitrag-von-extra-3](https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sucht-anschlag-auf-russischen-general-groenland-beitrag-von-extra-3-a-2164fa43-9556-4e4c-bf84-f415a21a5766#ref=rss)
+### 3
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sucht-anschlag-auf-russischen-general-groenland-beitrag-von-extra-3](https://www.spiegel.de/politik/deutschland/news-des-tages-tiktok-sucht-anschlag-auf-russischen-general-groenland-beitrag-von-extra-3-a-2164fa43-9556-4e4c-bf84-f415a21a5766#ref=rss)
+### 6euroneunzig
+
+* [https://www.spiegel.de/kultur/musik/6euroneunzig-mandy-indiana-joji-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/6euroneunzig-mandy-indiana-joji-abgehoert-album-der-woche-a-dab9bc75-973d-4f3d-b2dd-e5ff673e88b6#ref=rss)
+### joji
+
+* [https://www.spiegel.de/kultur/musik/6euroneunzig-mandy-indiana-joji-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/6euroneunzig-mandy-indiana-joji-abgehoert-album-der-woche-a-dab9bc75-973d-4f3d-b2dd-e5ff673e88b6#ref=rss)
+### aston
+
+* [https://www.spiegel.de/stil/breitling-und-aston-martin-warum-diese-fliegeruhr-jetzt-in-die-formel-1-geht](https://www.spiegel.de/stil/breitling-und-aston-martin-warum-diese-fliegeruhr-jetzt-in-die-formel-1-geht-a-93111628-fa83-4f4d-abe1-787331dc18a0#ref=rss)
+### martin
+
+* [https://www.spiegel.de/stil/breitling-und-aston-martin-warum-diese-fliegeruhr-jetzt-in-die-formel-1-geht](https://www.spiegel.de/stil/breitling-und-aston-martin-warum-diese-fliegeruhr-jetzt-in-die-formel-1-geht-a-93111628-fa83-4f4d-abe1-787331dc18a0#ref=rss)
+### phantomqualle
+
+* [https://www.spiegel.de/wissenschaft/argentinien-forscher-filmen-riesige-phantomqualle-in-der-tiefsee](https://www.spiegel.de/wissenschaft/argentinien-forscher-filmen-riesige-phantomqualle-in-der-tiefsee-a-65368e20-fcd3-4340-92c4-c5c484a34745#ref=rss)
+### meter
+
+* [https://www.spiegel.de/wissenschaft/argentinien-forscher-filmen-riesige-phantomqualle-in-der-tiefsee](https://www.spiegel.de/wissenschaft/argentinien-forscher-filmen-riesige-phantomqualle-in-der-tiefsee-a-65368e20-fcd3-4340-92c4-c5c484a34745#ref=rss)
+### nachrichten
+
+* [https://www.spiegel.de/politik/news-in-echtzeit-russland-bombt-kyjiw-in-die-kaelte-iran-usa-gespraeche-in-oman-glatteis-und-eisregen-in-berlin](https://www.spiegel.de/politik/news-in-echtzeit-russland-bombt-kyjiw-in-die-kaelte-iran-usa-gespraeche-in-oman-glatteis-und-eisregen-in-berlin-a-b26d20d5-fb48-45d8-ae42-ab096ede237b#ref=rss)
+* [https://www.spiegel.de/panorama/mette-marit-entschuldigt-sich-fuer-jahrelangen-kontakt-zu-epstein](https://www.spiegel.de/panorama/mette-marit-entschuldigt-sich-fuer-jahrelangen-kontakt-zu-epstein-a-3d44e94a-63bc-4ffa-a390-fa4761dad426#ref=rss)
+### epsteinfiles
+
+* [https://www.spiegel.de/kultur/musik/musikmanager-in-den-epstein-files-es-ist-nicht-normal-so-zu-tun-als-waere-das-normal](https://www.spiegel.de/kultur/musik/musikmanager-in-den-epstein-files-es-ist-nicht-normal-so-zu-tun-als-waere-das-normal-a-4fa6d84c-48da-4939-bec8-43162b593143#ref=rss)
+### normal
+
+* [https://www.spiegel.de/kultur/musik/musikmanager-in-den-epstein-files-es-ist-nicht-normal-so-zu-tun-als-waere-das-normal](https://www.spiegel.de/kultur/musik/musikmanager-in-den-epstein-files-es-ist-nicht-normal-so-zu-tun-als-waere-das-normal-a-4fa6d84c-48da-4939-bec8-43162b593143#ref=rss)
+### chef
+
+* [https://www.spiegel.de/kultur/musik/musikmanager-in-den-epstein-files-es-ist-nicht-normal-so-zu-tun-als-waere-das-normal](https://www.spiegel.de/kultur/musik/musikmanager-in-den-epstein-files-es-ist-nicht-normal-so-zu-tun-als-waere-das-normal-a-4fa6d84c-48da-4939-bec8-43162b593143#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/toyota-macht-bisherigen-finanzchef-kenta-kon-zum-konzernboss](https://www.spiegel.de/wirtschaft/unternehmen/toyota-macht-bisherigen-finanzchef-kenta-kon-zum-konzernboss-a-5145f85a-7a47-434a-ab8a-2041252ff68b#ref=rss)
+### knochen
+
+* [https://www.spiegel.de/wissenschaft/natur/spanien-haben-forscher-einen-knochen-von-hannibals-kriegs-elefanten-entdeckt](https://www.spiegel.de/wissenschaft/natur/spanien-haben-forscher-einen-knochen-von-hannibals-kriegs-elefanten-entdeckt-a-8234964d-a8d9-479a-96c7-2249d7cab1a1#ref=rss)
+### toyota
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/toyota-macht-bisherigen-finanzchef-kenta-kon-zum-konzernboss](https://www.spiegel.de/wirtschaft/unternehmen/toyota-macht-bisherigen-finanzchef-kenta-kon-zum-konzernboss-a-5145f85a-7a47-434a-ab8a-2041252ff68b#ref=rss)
+### kenta
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/toyota-macht-bisherigen-finanzchef-kenta-kon-zum-konzernboss](https://www.spiegel.de/wirtschaft/unternehmen/toyota-macht-bisherigen-finanzchef-kenta-kon-zum-konzernboss-a-5145f85a-7a47-434a-ab8a-2041252ff68b#ref=rss)
+### kon
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/toyota-macht-bisherigen-finanzchef-kenta-kon-zum-konzernboss](https://www.spiegel.de/wirtschaft/unternehmen/toyota-macht-bisherigen-finanzchef-kenta-kon-zum-konzernboss-a-5145f85a-7a47-434a-ab8a-2041252ff68b#ref=rss)
+### björn
+
+* [https://www.spiegel.de/politik/bjoern-hoecke-thueringens-afd-chef-verwendet-erneut-verbotene-sa-parole](https://www.spiegel.de/politik/bjoern-hoecke-thueringens-afd-chef-verwendet-erneut-verbotene-sa-parole-a-d75c16ec-fb9a-478a-ab1b-ab50a8c6c6cb#ref=rss)
+### höcke
+
+* [https://www.spiegel.de/politik/bjoern-hoecke-thueringens-afd-chef-verwendet-erneut-verbotene-sa-parole](https://www.spiegel.de/politik/bjoern-hoecke-thueringens-afd-chef-verwendet-erneut-verbotene-sa-parole-a-d75c16ec-fb9a-478a-ab1b-ab50a8c6c6cb#ref=rss)
+### verbotene
+
+* [https://www.spiegel.de/politik/bjoern-hoecke-thueringens-afd-chef-verwendet-erneut-verbotene-sa-parole](https://www.spiegel.de/politik/bjoern-hoecke-thueringens-afd-chef-verwendet-erneut-verbotene-sa-parole-a-d75c16ec-fb9a-478a-ab1b-ab50a8c6c6cb#ref=rss)
+### saparole
+
+* [https://www.spiegel.de/politik/bjoern-hoecke-thueringens-afd-chef-verwendet-erneut-verbotene-sa-parole](https://www.spiegel.de/politik/bjoern-hoecke-thueringens-afd-chef-verwendet-erneut-verbotene-sa-parole-a-d75c16ec-fb9a-478a-ab1b-ab50a8c6c6cb#ref=rss)
+### lisa
+
+* [https://www.spiegel.de/panorama/leute/lisa-kudrow-wuenscht-sich-erhalt-der-filmstudios-von-friends](https://www.spiegel.de/panorama/leute/lisa-kudrow-wuenscht-sich-erhalt-der-filmstudios-von-friends-a-bbe1f0c1-15ed-41ef-a0c1-7e5abc80eea8#ref=rss)
+### kudrow
+
+* [https://www.spiegel.de/panorama/leute/lisa-kudrow-wuenscht-sich-erhalt-der-filmstudios-von-friends](https://www.spiegel.de/panorama/leute/lisa-kudrow-wuenscht-sich-erhalt-der-filmstudios-von-friends-a-bbe1f0c1-15ed-41ef-a0c1-7e5abc80eea8#ref=rss)
+### friends
+
+* [https://www.spiegel.de/panorama/leute/lisa-kudrow-wuenscht-sich-erhalt-der-filmstudios-von-friends](https://www.spiegel.de/panorama/leute/lisa-kudrow-wuenscht-sich-erhalt-der-filmstudios-von-friends-a-bbe1f0c1-15ed-41ef-a0c1-7e5abc80eea8#ref=rss)
 
