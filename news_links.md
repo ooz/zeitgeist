@@ -4,341 +4,312 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### afd
 
-* [https://www.spiegel.de/politik/deutschland/dunkelfeldstudie-ueber-gewalterfahrung-fast-jede-zweite-person-in-deutschland-ist-schon-einmal-sexuell-belaestigt-worden](https://www.spiegel.de/politik/deutschland/dunkelfeldstudie-ueber-gewalterfahrung-fast-jede-zweite-person-in-deutschland-ist-schon-einmal-sexuell-belaestigt-worden-a-eb8561ea-87ef-4a73-a27b-fc8dafc0c04e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/elektrische-senkrechtstarter-in-bayern-nach-lilium-kommt-charlie](https://www.spiegel.de/wissenschaft/technik/elektrische-senkrechtstarter-in-bayern-nach-lilium-kommt-charlie-a-7e76ad30-8d70-41b1-be67-6cfbb5f0eb94#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf](https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf-a-ee93ebcd-930b-4989-b111-7dc200f3ad7c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-zahlen-was-fuer-den-aufschwung-in-deutschland-spricht-und-was-dagegen](https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-zahlen-was-fuer-den-aufschwung-in-deutschland-spricht-und-was-dagegen-a-d0c3b26f-1a04-4f17-ba45-0be9f6453920#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/transparency-international-deutschland-fehlt-eine-umfassende-strategie-gegen-korruption](https://www.spiegel.de/politik/deutschland/transparency-international-deutschland-fehlt-eine-umfassende-strategie-gegen-korruption-a-a0ca9545-932d-4e34-83ff-eb9403da465d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zwei-drittel-halten-sozialstaat-fuer-nicht-mehr-bezahlbar](https://www.spiegel.de/wirtschaft/zwei-drittel-halten-sozialstaat-fuer-nicht-mehr-bezahlbar-a-891f11e1-7e56-4908-b5b1-4860355a6f5a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zeichen-gegen-afd-berlin-will-verfassungsrechtliche-brandmauer-gegen-extremisten](https://www.spiegel.de/politik/deutschland/zeichen-gegen-afd-berlin-will-verfassungsrechtliche-brandmauer-gegen-extremisten-a-9ccc7d55-052c-4b82-93d4-fa238597ded8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-in-der-krise-zahlreiche-vorwuerfe-erschuettern-die-partei](https://www.spiegel.de/politik/deutschland/afd-in-der-krise-zahlreiche-vorwuerfe-erschuettern-die-partei-a-aa3193f5-00a2-458b-92b6-3625a4ed4005#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/social-media-verbot-fuer-unter-16-jaehrige-prien-zeigt-sich-offen-soeder-spricht-von-quatsch](https://www.spiegel.de/panorama/bildung/social-media-verbot-fuer-unter-16-jaehrige-prien-zeigt-sich-offen-soeder-spricht-von-quatsch-a-8681c49c-defc-4468-ab31-27d92880891a#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/kultur/louvre-diebstahl-so-sieht-diese-krone-nicht-mehr-aus-aber-wohl-bald-wieder](https://www.spiegel.de/kultur/louvre-diebstahl-so-sieht-diese-krone-nicht-mehr-aus-aber-wohl-bald-wieder-a-2c89c56d-e48e-4588-8199-aaeefc193b4e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-der-us-dollar-in-europa-waechst-die-angst-vor-der-dollarkeule](https://www.spiegel.de/wirtschaft/donald-trump-und-der-us-dollar-in-europa-waechst-die-angst-vor-der-dollarkeule-a-5ac5155f-84bf-41a7-8314-28bf7ccd271d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/45-prozent-der-deutschen-sprechen-sich-fuer-eintrittspreis-beim-oktoberfest-aus](https://www.spiegel.de/panorama/gesellschaft/45-prozent-der-deutschen-sprechen-sich-fuer-eintrittspreis-beim-oktoberfest-aus-a-b79df882-90c5-4efd-94c2-a72fa976e939#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-zahlen-was-fuer-den-aufschwung-in-deutschland-spricht-und-was-dagegen](https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-zahlen-was-fuer-den-aufschwung-in-deutschland-spricht-und-was-dagegen-a-d0c3b26f-1a04-4f17-ba45-0be9f6453920#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gewerkschaften-rufen-am-dienstag-zu-erneuten-warnstreiks-in-mehreren-bundeslaendern-auf](https://www.spiegel.de/wirtschaft/gewerkschaften-rufen-am-dienstag-zu-erneuten-warnstreiks-in-mehreren-bundeslaendern-auf-a-23dc51ca-7796-41ad-84a8-67d4106a88c3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zwei-drittel-halten-sozialstaat-fuer-nicht-mehr-bezahlbar](https://www.spiegel.de/wirtschaft/zwei-drittel-halten-sozialstaat-fuer-nicht-mehr-bezahlbar-a-891f11e1-7e56-4908-b5b1-4860355a6f5a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/kampfdrohnen-bundeswehr-soll-unbemannte-flugkoerper-von-helsing-und-stark-bekommen](https://www.spiegel.de/wissenschaft/technik/kampfdrohnen-bundeswehr-soll-unbemannte-flugkoerper-von-helsing-und-stark-bekommen-a-3c1b5e78-b83f-42c8-a955-debff1ca2fdf#ref=rss)
-### raimund
+* [https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos](https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos-a-c746931c-5544-446c-88d0-a61553a4061e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/die-deutschen-kaufen-bio-aber-bauen-zu-wenig-bio-an](https://www.spiegel.de/wirtschaft/service/die-deutschen-kaufen-bio-aber-bauen-zu-wenig-bio-an-a-c89b3370-33e1-4ae5-a13f-a2c79ffc4633#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/ki-in-der-medizin-wenn-chatbots-zu-quacksalbern-werden](https://www.spiegel.de/wissenschaft/medizin/ki-in-der-medizin-wenn-chatbots-zu-quacksalbern-werden-a-8b05f03f-8254-4124-a465-6607b3bb633a#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-deutscher-eishockeystar-kritisiert-eisqualitaet-in-mailand](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-deutscher-eishockeystar-kritisiert-eisqualitaet-in-mailand-a-b2c37f2a-155a-4ef9-abdd-8daecb196232#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-so-hat-philipp-raimund-die-goldmedaille-von-der-normalschanze-gewonnen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-so-hat-philipp-raimund-die-goldmedaille-von-der-normalschanze-gewonnen-a-92802de2-3893-4186-9882-64af1b5f8b18#ref=rss)
-### sieht
+* [https://www.spiegel.de/panorama/justiz/nazi-shop-offenbar-von-der-polizei-zerschlagen](https://www.spiegel.de/panorama/justiz/nazi-shop-offenbar-von-der-polizei-zerschlagen-a-44f74336-5bf6-41e9-bec0-b3478fbce107#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dormagen-14-jaehriger-wurde-offenbar-von-mitschueler-getoetet](https://www.spiegel.de/panorama/justiz/dormagen-14-jaehriger-wurde-offenbar-von-mitschueler-getoetet-a-aea9a509-5885-4e80-8935-62aeb5687693#ref=rss)
+* [https://www.spiegel.de/ausland/russland-kreml-beschraenkt-zugriff-auf-telegram](https://www.spiegel.de/ausland/russland-kreml-beschraenkt-zugriff-auf-telegram-a-668b2687-72bc-4311-969d-7bad2f89656e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kanada-tyrannoroter-heberti-war-einer-der-ersten-pflanzenfresser](https://www.spiegel.de/wissenschaft/kanada-tyrannoroter-heberti-war-einer-der-ersten-pflanzenfresser-a-628eea56-870e-440d-9baa-15d0b2b03c70#ref=rss)
+### nadine
 
-* [https://www.spiegel.de/kultur/louvre-diebstahl-so-sieht-diese-krone-nicht-mehr-aus-aber-wohl-bald-wieder](https://www.spiegel.de/kultur/louvre-diebstahl-so-sieht-diese-krone-nicht-mehr-aus-aber-wohl-bald-wieder-a-2c89c56d-e48e-4588-8199-aaeefc193b4e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf](https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf-a-ee93ebcd-930b-4989-b111-7dc200f3ad7c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden](https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden-a-95b97e74-e296-4a74-b468-e51281393ee0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wetter-weltweit-fuenftwaermster-januar-der-geschichte](https://www.spiegel.de/wissenschaft/natur/wetter-weltweit-fuenftwaermster-januar-der-geschichte-a-33ce147a-96bb-4e33-87e3-4e493e55c015#ref=rss)
-### olympia
+* [https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos](https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos-a-c746931c-5544-446c-88d0-a61553a4061e#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis](https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis-a-032ba56e-cadb-45ba-9e71-e532df2699be#ref=rss)
+### breaty
 
-* [https://www.spiegel.de/sport/olympia/eisschnelllauf-bei-olympia-2026-jutta-leerdam-ist-die-schillerndste-figur-der-spiele](https://www.spiegel.de/sport/olympia/eisschnelllauf-bei-olympia-2026-jutta-leerdam-ist-die-schillerndste-figur-der-spiele-a-510b8d3e-9436-4ce9-a6d0-8d2af7dafc26#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-so-hat-philipp-raimund-die-goldmedaille-von-der-normalschanze-gewonnen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-so-hat-philipp-raimund-die-goldmedaille-von-der-normalschanze-gewonnen-a-92802de2-3893-4186-9882-64af1b5f8b18#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-dienstag-10-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-dienstag-10-februar-an-a-bd79e629-1035-4799-be2f-30df3cd5e408#ref=rss)
-### donald
+* [https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos](https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos-a-c746931c-5544-446c-88d0-a61553a4061e#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis](https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis-a-032ba56e-cadb-45ba-9e71-e532df2699be#ref=rss)
+### größten
 
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen-a-36645fb7-2a23-47c7-b456-1918a5fb2b23#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-der-us-dollar-in-europa-waechst-die-angst-vor-der-dollarkeule](https://www.spiegel.de/wirtschaft/donald-trump-und-der-us-dollar-in-europa-waechst-die-angst-vor-der-dollarkeule-a-5ac5155f-84bf-41a7-8314-28bf7ccd271d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden](https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden-a-95b97e74-e296-4a74-b468-e51281393ee0#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen-a-36645fb7-2a23-47c7-b456-1918a5fb2b23#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-der-us-dollar-in-europa-waechst-die-angst-vor-der-dollarkeule](https://www.spiegel.de/wirtschaft/donald-trump-und-der-us-dollar-in-europa-waechst-die-angst-vor-der-dollarkeule-a-5ac5155f-84bf-41a7-8314-28bf7ccd271d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden](https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden-a-95b97e74-e296-4a74-b468-e51281393ee0#ref=rss)
-### laut
-
-* [https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf](https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf-a-ee93ebcd-930b-4989-b111-7dc200f3ad7c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden](https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden-a-95b97e74-e296-4a74-b468-e51281393ee0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wetter-weltweit-fuenftwaermster-januar-der-geschichte](https://www.spiegel.de/wissenschaft/natur/wetter-weltweit-fuenftwaermster-januar-der-geschichte-a-33ce147a-96bb-4e33-87e3-4e493e55c015#ref=rss)
-* [https://www.spiegel.de/ausland/pazifik-zwei-tote-nach-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/pazifik-zwei-tote-nach-bei-us-angriff-auf-mutmassliches-drogenboot-a-adb95c0a-3f52-40fe-bcfa-520c26490c71#ref=rss)
-### vier
-
-* [https://www.spiegel.de/karriere/feiertage-und-teilzeit-viertagewoche-so-machen-sie-es-richtig](https://www.spiegel.de/karriere/feiertage-und-teilzeit-viertagewoche-so-machen-sie-es-richtig-a-c970d687-060c-41ae-a419-943a19f85296#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sondervermoegen-vier-milliarden-euro-fliessen-an-kitas-und-hochschulen](https://www.spiegel.de/panorama/bildung/sondervermoegen-vier-milliarden-euro-fliessen-an-kitas-und-hochschulen-a-65042c09-6aa7-42ed-94b0-62a1e56319bf#ref=rss)
-* [https://www.spiegel.de/sport/basketball/charlotte-hornets-vs-detroit-pistons-heftige-schlaegerei-in-der-nba](https://www.spiegel.de/sport/basketball/charlotte-hornets-vs-detroit-pistons-heftige-schlaegerei-in-der-nba-a-17e6a46d-681d-4489-95d8-6c0433385453#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/bildung/sondervermoegen-vier-milliarden-euro-fliessen-an-kitas-und-hochschulen](https://www.spiegel.de/panorama/bildung/sondervermoegen-vier-milliarden-euro-fliessen-an-kitas-und-hochschulen-a-65042c09-6aa7-42ed-94b0-62a1e56319bf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gewerkschaften-rufen-am-dienstag-zu-erneuten-warnstreiks-in-mehreren-bundeslaendern-auf](https://www.spiegel.de/wirtschaft/gewerkschaften-rufen-am-dienstag-zu-erneuten-warnstreiks-in-mehreren-bundeslaendern-auf-a-23dc51ca-7796-41ad-84a8-67d4106a88c3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/kampfdrohnen-bundeswehr-soll-unbemannte-flugkoerper-von-helsing-und-stark-bekommen](https://www.spiegel.de/wissenschaft/technik/kampfdrohnen-bundeswehr-soll-unbemannte-flugkoerper-von-helsing-und-stark-bekommen-a-3c1b5e78-b83f-42c8-a955-debff1ca2fdf#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/wirtschaft/wohnraummangel-duerfte-immobilien-2026-abermals-verteuern](https://www.spiegel.de/wirtschaft/wohnraummangel-duerfte-immobilien-2026-abermals-verteuern-a-e4da08fc-e713-4e9d-a5d4-ee0b0d3e3c73#ref=rss)
-* [https://www.spiegel.de/sport/olympia/eisschnelllauf-bei-olympia-2026-jutta-leerdam-ist-die-schillerndste-figur-der-spiele](https://www.spiegel.de/sport/olympia/eisschnelllauf-bei-olympia-2026-jutta-leerdam-ist-die-schillerndste-figur-der-spiele-a-510b8d3e-9436-4ce9-a6d0-8d2af7dafc26#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-so-hat-philipp-raimund-die-goldmedaille-von-der-normalschanze-gewonnen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-so-hat-philipp-raimund-die-goldmedaille-von-der-normalschanze-gewonnen-a-92802de2-3893-4186-9882-64af1b5f8b18#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/wohnraummangel-duerfte-immobilien-2026-abermals-verteuern](https://www.spiegel.de/wirtschaft/wohnraummangel-duerfte-immobilien-2026-abermals-verteuern-a-e4da08fc-e713-4e9d-a5d4-ee0b0d3e3c73#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/45-prozent-der-deutschen-sprechen-sich-fuer-eintrittspreis-beim-oktoberfest-aus](https://www.spiegel.de/panorama/gesellschaft/45-prozent-der-deutschen-sprechen-sich-fuer-eintrittspreis-beim-oktoberfest-aus-a-b79df882-90c5-4efd-94c2-a72fa976e939#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden](https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden-a-95b97e74-e296-4a74-b468-e51281393ee0#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/politik/deutschland/dunkelfeldstudie-ueber-gewalterfahrung-fast-jede-zweite-person-in-deutschland-ist-schon-einmal-sexuell-belaestigt-worden](https://www.spiegel.de/politik/deutschland/dunkelfeldstudie-ueber-gewalterfahrung-fast-jede-zweite-person-in-deutschland-ist-schon-einmal-sexuell-belaestigt-worden-a-eb8561ea-87ef-4a73-a27b-fc8dafc0c04e#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen-a-36645fb7-2a23-47c7-b456-1918a5fb2b23#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wetter-weltweit-fuenftwaermster-januar-der-geschichte](https://www.spiegel.de/wissenschaft/natur/wetter-weltweit-fuenftwaermster-januar-der-geschichte-a-33ce147a-96bb-4e33-87e3-4e493e55c015#ref=rss)
-### halten
-
-* [https://www.spiegel.de/politik/deutschland/dunkelfeldstudie-ueber-gewalterfahrung-fast-jede-zweite-person-in-deutschland-ist-schon-einmal-sexuell-belaestigt-worden](https://www.spiegel.de/politik/deutschland/dunkelfeldstudie-ueber-gewalterfahrung-fast-jede-zweite-person-in-deutschland-ist-schon-einmal-sexuell-belaestigt-worden-a-eb8561ea-87ef-4a73-a27b-fc8dafc0c04e#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sondervermoegen-vier-milliarden-euro-fliessen-an-kitas-und-hochschulen](https://www.spiegel.de/panorama/bildung/sondervermoegen-vier-milliarden-euro-fliessen-an-kitas-und-hochschulen-a-65042c09-6aa7-42ed-94b0-62a1e56319bf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zwei-drittel-halten-sozialstaat-fuer-nicht-mehr-bezahlbar](https://www.spiegel.de/wirtschaft/zwei-drittel-halten-sozialstaat-fuer-nicht-mehr-bezahlbar-a-891f11e1-7e56-4908-b5b1-4860355a6f5a#ref=rss)
-### philipp
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-deutscher-eishockeystar-kritisiert-eisqualitaet-in-mailand](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-deutscher-eishockeystar-kritisiert-eisqualitaet-in-mailand-a-b2c37f2a-155a-4ef9-abdd-8daecb196232#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-so-hat-philipp-raimund-die-goldmedaille-von-der-normalschanze-gewonnen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-so-hat-philipp-raimund-die-goldmedaille-von-der-normalschanze-gewonnen-a-92802de2-3893-4186-9882-64af1b5f8b18#ref=rss)
-### marius
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-deutscher-eishockeystar-kritisiert-eisqualitaet-in-mailand](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-deutscher-eishockeystar-kritisiert-eisqualitaet-in-mailand-a-b2c37f2a-155a-4ef9-abdd-8daecb196232#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-sohn-von-norwegens-kronprinzessin-mette-marit-bestreitet-neue-vorwuerfe](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-sohn-von-norwegens-kronprinzessin-mette-marit-bestreitet-neue-vorwuerfe-a-e71d9c2c-d9c9-4c4c-a24d-3ba325506b62#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/epstein-files-ghislaine-maxwell-schweigt-zu-mittaetern-bei-videoanhoerung](https://www.spiegel.de/ausland/epstein-files-ghislaine-maxwell-schweigt-zu-mittaetern-bei-videoanhoerung-a-b8e460ca-16e6-4b04-a6be-8d54dac6e302#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-der-us-dollar-in-europa-waechst-die-angst-vor-der-dollarkeule](https://www.spiegel.de/wirtschaft/donald-trump-und-der-us-dollar-in-europa-waechst-die-angst-vor-der-dollarkeule-a-5ac5155f-84bf-41a7-8314-28bf7ccd271d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden](https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden-a-95b97e74-e296-4a74-b468-e51281393ee0#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-sohn-von-norwegens-kronprinzessin-mette-marit-bestreitet-neue-vorwuerfe](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-sohn-von-norwegens-kronprinzessin-mette-marit-bestreitet-neue-vorwuerfe-a-e71d9c2c-d9c9-4c4c-a24d-3ba325506b62#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen-a-36645fb7-2a23-47c7-b456-1918a5fb2b23#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen-a-36645fb7-2a23-47c7-b456-1918a5fb2b23#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-der-us-dollar-in-europa-waechst-die-angst-vor-der-dollarkeule](https://www.spiegel.de/wirtschaft/donald-trump-und-der-us-dollar-in-europa-waechst-die-angst-vor-der-dollarkeule-a-5ac5155f-84bf-41a7-8314-28bf7ccd271d#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen-a-36645fb7-2a23-47c7-b456-1918a5fb2b23#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden](https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden-a-95b97e74-e296-4a74-b468-e51281393ee0#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf](https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf-a-ee93ebcd-930b-4989-b111-7dc200f3ad7c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/45-prozent-der-deutschen-sprechen-sich-fuer-eintrittspreis-beim-oktoberfest-aus](https://www.spiegel.de/panorama/gesellschaft/45-prozent-der-deutschen-sprechen-sich-fuer-eintrittspreis-beim-oktoberfest-aus-a-b79df882-90c5-4efd-94c2-a72fa976e939#ref=rss)
-* [https://www.spiegel.de/ausland/pazifik-zwei-tote-nach-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/pazifik-zwei-tote-nach-bei-us-angriff-auf-mutmassliches-drogenboot-a-adb95c0a-3f52-40fe-bcfa-520c26490c71#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/panorama/bildung/sondervermoegen-vier-milliarden-euro-fliessen-an-kitas-und-hochschulen](https://www.spiegel.de/panorama/bildung/sondervermoegen-vier-milliarden-euro-fliessen-an-kitas-und-hochschulen-a-65042c09-6aa7-42ed-94b0-62a1e56319bf#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/spd-ratlosigkeit-bei-waehlern-die-suche-nach-dem-politischen-profil](https://www.spiegel.de/politik/deutschland/spd-ratlosigkeit-bei-waehlern-die-suche-nach-dem-politischen-profil-a-3fb6ae7b-f534-4e5b-8a42-822e789d8c25#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/spd-vorschlag-zu-krankenkassen-eine-gesundheitsabgabe-auf-mieten-und-kapitalertraege-viel-spricht-dafuer](https://www.spiegel.de/wirtschaft/soziales/spd-vorschlag-zu-krankenkassen-eine-gesundheitsabgabe-auf-mieten-und-kapitalertraege-viel-spricht-dafuer-a-28cea2bd-6a4c-4ce8-bc8e-da94648fe532#ref=rss)
-### fehlt
-
-* [https://www.spiegel.de/politik/deutschland/spd-ratlosigkeit-bei-waehlern-die-suche-nach-dem-politischen-profil](https://www.spiegel.de/politik/deutschland/spd-ratlosigkeit-bei-waehlern-die-suche-nach-dem-politischen-profil-a-3fb6ae7b-f534-4e5b-8a42-822e789d8c25#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-so-hat-philipp-raimund-die-goldmedaille-von-der-normalschanze-gewonnen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-so-hat-philipp-raimund-die-goldmedaille-von-der-normalschanze-gewonnen-a-92802de2-3893-4186-9882-64af1b5f8b18#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/transparency-international-deutschland-fehlt-eine-umfassende-strategie-gegen-korruption](https://www.spiegel.de/politik/deutschland/transparency-international-deutschland-fehlt-eine-umfassende-strategie-gegen-korruption-a-a0ca9545-932d-4e34-83ff-eb9403da465d#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wirtschaft/zwei-drittel-halten-sozialstaat-fuer-nicht-mehr-bezahlbar](https://www.spiegel.de/wirtschaft/zwei-drittel-halten-sozialstaat-fuer-nicht-mehr-bezahlbar-a-891f11e1-7e56-4908-b5b1-4860355a6f5a#ref=rss)
-* [https://www.spiegel.de/ausland/pazifik-zwei-tote-nach-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/pazifik-zwei-tote-nach-bei-us-angriff-auf-mutmassliches-drogenboot-a-adb95c0a-3f52-40fe-bcfa-520c26490c71#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos](https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos-a-c746931c-5544-446c-88d0-a61553a4061e#ref=rss)
+* [https://www.spiegel.de/kultur/chappell-roan-verlaesst-kuenstleragentur-wegen-epstein-verbindungen-des-gruenders](https://www.spiegel.de/kultur/chappell-roan-verlaesst-kuenstleragentur-wegen-epstein-verbindungen-des-gruenders-a-29be00fe-32be-45d2-b41d-917cc07672a3#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis](https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis-a-032ba56e-cadb-45ba-9e71-e532df2699be#ref=rss)
 ### jahr
 
-* [https://www.spiegel.de/wirtschaft/wohnraummangel-duerfte-immobilien-2026-abermals-verteuern](https://www.spiegel.de/wirtschaft/wohnraummangel-duerfte-immobilien-2026-abermals-verteuern-a-e4da08fc-e713-4e9d-a5d4-ee0b0d3e3c73#ref=rss)
-### bleibt
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-bundeskabinett-entscheidet-auf-vorschlag-des-aussenministers-ueber-sieben-botschafterposten](https://www.spiegel.de/politik/deutschland/johann-wadephul-bundeskabinett-entscheidet-auf-vorschlag-des-aussenministers-ueber-sieben-botschafterposten-a-c8ec83cc-b321-4cfe-9eaa-0bc8b2d0007b#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-maxim-naumow-verarbeitet-trauer-nach-elternverlust-auf-dem-eis](https://www.spiegel.de/sport/olympia/olympia-maxim-naumow-verarbeitet-trauer-nach-elternverlust-auf-dem-eis-a-e8e9058b-5f1f-43ad-a388-0d9d414412e0#ref=rss)
+### kigenerierte
 
-* [https://www.spiegel.de/wirtschaft/wohnraummangel-duerfte-immobilien-2026-abermals-verteuern](https://www.spiegel.de/wirtschaft/wohnraummangel-duerfte-immobilien-2026-abermals-verteuern-a-e4da08fc-e713-4e9d-a5d4-ee0b0d3e3c73#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/warum-wir-in-der-ersten-nacht-an-einem-neuen-ort-schlechter-schlafen](https://www.spiegel.de/wissenschaft/mensch/warum-wir-in-der-ersten-nacht-an-einem-neuen-ort-schlechter-schlafen-a-d8b22119-3e7a-400d-9ac5-53f985ed893f#ref=rss)
-### gewalterfahrung
+* [https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos](https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos-a-c746931c-5544-446c-88d0-a61553a4061e#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis](https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis-a-032ba56e-cadb-45ba-9e71-e532df2699be#ref=rss)
+### pornos
 
-* [https://www.spiegel.de/politik/deutschland/dunkelfeldstudie-ueber-gewalterfahrung-fast-jede-zweite-person-in-deutschland-ist-schon-einmal-sexuell-belaestigt-worden](https://www.spiegel.de/politik/deutschland/dunkelfeldstudie-ueber-gewalterfahrung-fast-jede-zweite-person-in-deutschland-ist-schon-einmal-sexuell-belaestigt-worden-a-eb8561ea-87ef-4a73-a27b-fc8dafc0c04e#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos](https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos-a-c746931c-5544-446c-88d0-a61553a4061e#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis](https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis-a-032ba56e-cadb-45ba-9e71-e532df2699be#ref=rss)
+### opfer
+
+* [https://www.spiegel.de/panorama/justiz/dormagen-14-jaehriger-wurde-offenbar-von-mitschueler-getoetet](https://www.spiegel.de/panorama/justiz/dormagen-14-jaehriger-wurde-offenbar-von-mitschueler-getoetet-a-aea9a509-5885-4e80-8935-62aeb5687693#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-mutmassliches-opfer-spricht-von-albtraum](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-mutmassliches-opfer-spricht-von-albtraum-a-df429fbb-a92a-440f-916b-a96a1657e8c4#ref=rss)
+### minneapolis
+
+* [https://www.spiegel.de/ausland/donald-trump-ice-chef-todd-lyons-muss-vor-kongress-aussagen](https://www.spiegel.de/ausland/donald-trump-ice-chef-todd-lyons-muss-vor-kongress-aussagen-a-01d46fe7-6055-425f-9a2d-7cc64028ea4c#ref=rss)
+* [https://www.spiegel.de/kultur/minneapolis-die-rolle-von-gewaltvideos-bei-trumps-kursaenderung](https://www.spiegel.de/kultur/minneapolis-die-rolle-von-gewaltvideos-bei-trumps-kursaenderung-a-5c5d2e98-4d81-49e2-919d-b94916b46dd5#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/dortmund-brueder-von-mouhamed-drame-sollen-deutschland-verlassen](https://www.spiegel.de/panorama/dortmund-brueder-von-mouhamed-drame-sollen-deutschland-verlassen-a-225a2258-9e82-4ef0-bfe6-fc2d561adc63#ref=rss)
+* [https://www.spiegel.de/sport/us-eiskunstlaeuferin-alysia-liu-verpasste-fast-ihr-eigenes-comeback](https://www.spiegel.de/sport/us-eiskunstlaeuferin-alysia-liu-verpasste-fast-ihr-eigenes-comeback-a-76bd5132-c1ee-4447-89f4-e9c1d08e83ca#ref=rss)
+* [https://www.spiegel.de/sport/olympia/dual-moguls-bei-olympia-so-spektakulaer-ist-die-neue-disziplin](https://www.spiegel.de/sport/olympia/dual-moguls-bei-olympia-so-spektakulaer-ist-die-neue-disziplin-a-5e6ac50f-8bbe-484a-9101-ffa4066277b9#ref=rss)
+### olympia
+
+* [https://www.spiegel.de/sport/olympia/olympia-maxim-naumow-verarbeitet-trauer-nach-elternverlust-auf-dem-eis](https://www.spiegel.de/sport/olympia/olympia-maxim-naumow-verarbeitet-trauer-nach-elternverlust-auf-dem-eis-a-e8e9058b-5f1f-43ad-a388-0d9d414412e0#ref=rss)
+* [https://www.spiegel.de/sport/us-eiskunstlaeuferin-alysia-liu-verpasste-fast-ihr-eigenes-comeback](https://www.spiegel.de/sport/us-eiskunstlaeuferin-alysia-liu-verpasste-fast-ihr-eigenes-comeback-a-76bd5132-c1ee-4447-89f4-e9c1d08e83ca#ref=rss)
+* [https://www.spiegel.de/sport/olympia/dual-moguls-bei-olympia-so-spektakulaer-ist-die-neue-disziplin](https://www.spiegel.de/sport/olympia/dual-moguls-bei-olympia-so-spektakulaer-ist-die-neue-disziplin-a-5e6ac50f-8bbe-484a-9101-ffa4066277b9#ref=rss)
+### behörden
+
+* [https://www.spiegel.de/kultur/deathcore-band-tuerkische-behoerden-verbieten-metal-konzerte-in-istanbul](https://www.spiegel.de/kultur/deathcore-band-tuerkische-behoerden-verbieten-metal-konzerte-in-istanbul-a-0a48dfbe-36fb-414a-9706-00efbdf964d0#ref=rss)
+* [https://www.spiegel.de/ausland/russland-kreml-beschraenkt-zugriff-auf-telegram](https://www.spiegel.de/ausland/russland-kreml-beschraenkt-zugriff-auf-telegram-a-668b2687-72bc-4311-969d-7bad2f89656e#ref=rss)
+### istanbul
+
+* [https://www.spiegel.de/kultur/deathcore-band-tuerkische-behoerden-verbieten-metal-konzerte-in-istanbul](https://www.spiegel.de/kultur/deathcore-band-tuerkische-behoerden-verbieten-metal-konzerte-in-istanbul-a-0a48dfbe-36fb-414a-9706-00efbdf964d0#ref=rss)
+### verlassen
+
+* [https://www.spiegel.de/kultur/deathcore-band-tuerkische-behoerden-verbieten-metal-konzerte-in-istanbul](https://www.spiegel.de/kultur/deathcore-band-tuerkische-behoerden-verbieten-metal-konzerte-in-istanbul-a-0a48dfbe-36fb-414a-9706-00efbdf964d0#ref=rss)
+* [https://www.spiegel.de/panorama/dortmund-brueder-von-mouhamed-drame-sollen-deutschland-verlassen](https://www.spiegel.de/panorama/dortmund-brueder-von-mouhamed-drame-sollen-deutschland-verlassen-a-225a2258-9e82-4ef0-bfe6-fc2d561adc63#ref=rss)
+### zeichen
+
+* [https://www.spiegel.de/politik/deutschland/zeichen-gegen-afd-berlin-will-verfassungsrechtliche-brandmauer-gegen-extremisten](https://www.spiegel.de/politik/deutschland/zeichen-gegen-afd-berlin-will-verfassungsrechtliche-brandmauer-gegen-extremisten-a-9ccc7d55-052c-4b82-93d4-fa238597ded8#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/politik/deutschland/zeichen-gegen-afd-berlin-will-verfassungsrechtliche-brandmauer-gegen-extremisten](https://www.spiegel.de/politik/deutschland/zeichen-gegen-afd-berlin-will-verfassungsrechtliche-brandmauer-gegen-extremisten-a-9ccc7d55-052c-4b82-93d4-fa238597ded8#ref=rss)
+### juan
+
+* [https://www.spiegel.de/ausland/venezuela-juan-pablo-guanipa-unter-hausarrest-gestellt](https://www.spiegel.de/ausland/venezuela-juan-pablo-guanipa-unter-hausarrest-gestellt-a-faef895e-8e72-4fd9-a8d4-87d3a44bf44a#ref=rss)
+### pablo
+
+* [https://www.spiegel.de/ausland/venezuela-juan-pablo-guanipa-unter-hausarrest-gestellt](https://www.spiegel.de/ausland/venezuela-juan-pablo-guanipa-unter-hausarrest-gestellt-a-faef895e-8e72-4fd9-a8d4-87d3a44bf44a#ref=rss)
+### guanipa
+
+* [https://www.spiegel.de/ausland/venezuela-juan-pablo-guanipa-unter-hausarrest-gestellt](https://www.spiegel.de/ausland/venezuela-juan-pablo-guanipa-unter-hausarrest-gestellt-a-faef895e-8e72-4fd9-a8d4-87d3a44bf44a#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/venezuela-juan-pablo-guanipa-unter-hausarrest-gestellt](https://www.spiegel.de/ausland/venezuela-juan-pablo-guanipa-unter-hausarrest-gestellt-a-faef895e-8e72-4fd9-a8d4-87d3a44bf44a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dormagen-14-jaehriger-wurde-offenbar-von-mitschueler-getoetet](https://www.spiegel.de/panorama/justiz/dormagen-14-jaehriger-wurde-offenbar-von-mitschueler-getoetet-a-aea9a509-5885-4e80-8935-62aeb5687693#ref=rss)
+### gefängnis
+
+* [https://www.spiegel.de/ausland/venezuela-juan-pablo-guanipa-unter-hausarrest-gestellt](https://www.spiegel.de/ausland/venezuela-juan-pablo-guanipa-unter-hausarrest-gestellt-a-faef895e-8e72-4fd9-a8d4-87d3a44bf44a#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis](https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis-a-032ba56e-cadb-45ba-9e71-e532df2699be#ref=rss)
+### danach
+
+* [https://www.spiegel.de/ausland/venezuela-juan-pablo-guanipa-unter-hausarrest-gestellt](https://www.spiegel.de/ausland/venezuela-juan-pablo-guanipa-unter-hausarrest-gestellt-a-faef895e-8e72-4fd9-a8d4-87d3a44bf44a#ref=rss)
+* [https://www.spiegel.de/sport/olympia/biathlet-sturla-holm-laegreid-gewinnt-bronze-und-gesteht-live-im-tv-einen-seitensprung](https://www.spiegel.de/sport/olympia/biathlet-sturla-holm-laegreid-gewinnt-bronze-und-gesteht-live-im-tv-einen-seitensprung-a-f3718d06-a078-40fd-9748-2344fbb11b06#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/ausland/venezuela-juan-pablo-guanipa-unter-hausarrest-gestellt](https://www.spiegel.de/ausland/venezuela-juan-pablo-guanipa-unter-hausarrest-gestellt-a-faef895e-8e72-4fd9-a8d4-87d3a44bf44a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gesundheitskosten-schwaerzungen-in-akten-ueber-jeffrey-epstein-studie-zu-sexueller-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-gesundheitskosten-schwaerzungen-in-akten-ueber-jeffrey-epstein-studie-zu-sexueller-gewalt-a-3c7b1968-45ac-46e2-806f-6db7e5971e3d#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/ausland/venezuela-juan-pablo-guanipa-unter-hausarrest-gestellt](https://www.spiegel.de/ausland/venezuela-juan-pablo-guanipa-unter-hausarrest-gestellt-a-faef895e-8e72-4fd9-a8d4-87d3a44bf44a#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis](https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis-a-032ba56e-cadb-45ba-9e71-e532df2699be#ref=rss)
+### wichtiger
+
+* [https://www.spiegel.de/politik/deutschland/johann-wadephul-bundeskabinett-entscheidet-auf-vorschlag-des-aussenministers-ueber-sieben-botschafterposten](https://www.spiegel.de/politik/deutschland/johann-wadephul-bundeskabinett-entscheidet-auf-vorschlag-des-aussenministers-ueber-sieben-botschafterposten-a-c8ec83cc-b321-4cfe-9eaa-0bc8b2d0007b#ref=rss)
+* [https://www.spiegel.de/ausland/russland-kreml-beschraenkt-zugriff-auf-telegram](https://www.spiegel.de/ausland/russland-kreml-beschraenkt-zugriff-auf-telegram-a-668b2687-72bc-4311-969d-7bad2f89656e#ref=rss)
+### archäologen
+
+* [https://www.spiegel.de/wissenschaft/archaeologen-entdecken-in-koeln-einen-hausaltar-aus-roemerzeit-einzigartiger-fund-fuer-nordeuropa](https://www.spiegel.de/wissenschaft/archaeologen-entdecken-in-koeln-einen-hausaltar-aus-roemerzeit-einzigartiger-fund-fuer-nordeuropa-a-43680a5b-e213-4185-9946-6a638d2c457b#ref=rss)
+### köln
+
+* [https://www.spiegel.de/wissenschaft/archaeologen-entdecken-in-koeln-einen-hausaltar-aus-roemerzeit-einzigartiger-fund-fuer-nordeuropa](https://www.spiegel.de/wissenschaft/archaeologen-entdecken-in-koeln-einen-hausaltar-aus-roemerzeit-einzigartiger-fund-fuer-nordeuropa-a-43680a5b-e213-4185-9946-6a638d2c457b#ref=rss)
+### hausaltar
+
+* [https://www.spiegel.de/wissenschaft/archaeologen-entdecken-in-koeln-einen-hausaltar-aus-roemerzeit-einzigartiger-fund-fuer-nordeuropa](https://www.spiegel.de/wissenschaft/archaeologen-entdecken-in-koeln-einen-hausaltar-aus-roemerzeit-einzigartiger-fund-fuer-nordeuropa-a-43680a5b-e213-4185-9946-6a638d2c457b#ref=rss)
+### fund
+
+* [https://www.spiegel.de/wissenschaft/archaeologen-entdecken-in-koeln-einen-hausaltar-aus-roemerzeit-einzigartiger-fund-fuer-nordeuropa](https://www.spiegel.de/wissenschaft/archaeologen-entdecken-in-koeln-einen-hausaltar-aus-roemerzeit-einzigartiger-fund-fuer-nordeuropa-a-43680a5b-e213-4185-9946-6a638d2c457b#ref=rss)
+### nie
+
+* [https://www.spiegel.de/wissenschaft/archaeologen-entdecken-in-koeln-einen-hausaltar-aus-roemerzeit-einzigartiger-fund-fuer-nordeuropa](https://www.spiegel.de/wissenschaft/archaeologen-entdecken-in-koeln-einen-hausaltar-aus-roemerzeit-einzigartiger-fund-fuer-nordeuropa-a-43680a5b-e213-4185-9946-6a638d2c457b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/ki-in-der-medizin-wenn-chatbots-zu-quacksalbern-werden](https://www.spiegel.de/wissenschaft/medizin/ki-in-der-medizin-wenn-chatbots-zu-quacksalbern-werden-a-8b05f03f-8254-4124-a465-6607b3bb633a#ref=rss)
+### tiktokstar
+
+* [https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos](https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos-a-c746931c-5544-446c-88d0-a61553a4061e#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis](https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis-a-032ba56e-cadb-45ba-9e71-e532df2699be#ref=rss)
+### zählt
+
+* [https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos](https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos-a-c746931c-5544-446c-88d0-a61553a4061e#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis](https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis-a-032ba56e-cadb-45ba-9e71-e532df2699be#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos](https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos-a-c746931c-5544-446c-88d0-a61553a4061e#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis](https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis-a-032ba56e-cadb-45ba-9e71-e532df2699be#ref=rss)
+### tiktokstars
+
+* [https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos](https://www.spiegel.de/netzwelt/web/nadine-breaty-tiktok-star-kaempft-gegen-ki-generierte-pornos-a-c746931c-5544-446c-88d0-a61553a4061e#ref=rss)
+* [https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis](https://www.spiegel.de/netzwelt/tiktok-star-nadine-breaty-ich-hoffe-ihr-landet-wegen-eurer-deepfakes-alle-im-gefaengnis-a-032ba56e-cadb-45ba-9e71-e532df2699be#ref=rss)
+### biathlet
+
+* [https://www.spiegel.de/sport/olympia/biathlet-sturla-holm-laegreid-gewinnt-bronze-und-gesteht-live-im-tv-einen-seitensprung](https://www.spiegel.de/sport/olympia/biathlet-sturla-holm-laegreid-gewinnt-bronze-und-gesteht-live-im-tv-einen-seitensprung-a-f3718d06-a078-40fd-9748-2344fbb11b06#ref=rss)
+### sturla
+
+* [https://www.spiegel.de/sport/olympia/biathlet-sturla-holm-laegreid-gewinnt-bronze-und-gesteht-live-im-tv-einen-seitensprung](https://www.spiegel.de/sport/olympia/biathlet-sturla-holm-laegreid-gewinnt-bronze-und-gesteht-live-im-tv-einen-seitensprung-a-f3718d06-a078-40fd-9748-2344fbb11b06#ref=rss)
+### holm
+
+* [https://www.spiegel.de/sport/olympia/biathlet-sturla-holm-laegreid-gewinnt-bronze-und-gesteht-live-im-tv-einen-seitensprung](https://www.spiegel.de/sport/olympia/biathlet-sturla-holm-laegreid-gewinnt-bronze-und-gesteht-live-im-tv-einen-seitensprung-a-f3718d06-a078-40fd-9748-2344fbb11b06#ref=rss)
+### lægreid
+
+* [https://www.spiegel.de/sport/olympia/biathlet-sturla-holm-laegreid-gewinnt-bronze-und-gesteht-live-im-tv-einen-seitensprung](https://www.spiegel.de/sport/olympia/biathlet-sturla-holm-laegreid-gewinnt-bronze-und-gesteht-live-im-tv-einen-seitensprung-a-f3718d06-a078-40fd-9748-2344fbb11b06#ref=rss)
+### bronze
+
+* [https://www.spiegel.de/sport/olympia/biathlet-sturla-holm-laegreid-gewinnt-bronze-und-gesteht-live-im-tv-einen-seitensprung](https://www.spiegel.de/sport/olympia/biathlet-sturla-holm-laegreid-gewinnt-bronze-und-gesteht-live-im-tv-einen-seitensprung-a-f3718d06-a078-40fd-9748-2344fbb11b06#ref=rss)
+### holte
+
+* [https://www.spiegel.de/sport/olympia/biathlet-sturla-holm-laegreid-gewinnt-bronze-und-gesteht-live-im-tv-einen-seitensprung](https://www.spiegel.de/sport/olympia/biathlet-sturla-holm-laegreid-gewinnt-bronze-und-gesteht-live-im-tv-einen-seitensprung-a-f3718d06-a078-40fd-9748-2344fbb11b06#ref=rss)
+* [https://www.spiegel.de/sport/us-eiskunstlaeuferin-alysia-liu-verpasste-fast-ihr-eigenes-comeback](https://www.spiegel.de/sport/us-eiskunstlaeuferin-alysia-liu-verpasste-fast-ihr-eigenes-comeback-a-76bd5132-c1ee-4447-89f4-e9c1d08e83ca#ref=rss)
+### petr
+
+* [https://www.spiegel.de/politik/petr-bystron-eu-parlament-hebt-erneut-immunitaet-des-afd-politikers-auf](https://www.spiegel.de/politik/petr-bystron-eu-parlament-hebt-erneut-immunitaet-des-afd-politikers-auf-a-f6c2277d-5faf-4d80-abad-fdcaac453ed0#ref=rss)
+### bystron
+
+* [https://www.spiegel.de/politik/petr-bystron-eu-parlament-hebt-erneut-immunitaet-des-afd-politikers-auf](https://www.spiegel.de/politik/petr-bystron-eu-parlament-hebt-erneut-immunitaet-des-afd-politikers-auf-a-f6c2277d-5faf-4d80-abad-fdcaac453ed0#ref=rss)
+### immunität
+
+* [https://www.spiegel.de/politik/petr-bystron-eu-parlament-hebt-erneut-immunitaet-des-afd-politikers-auf](https://www.spiegel.de/politik/petr-bystron-eu-parlament-hebt-erneut-immunitaet-des-afd-politikers-auf-a-f6c2277d-5faf-4d80-abad-fdcaac453ed0#ref=rss)
+### gesundheitskosten
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gesundheitskosten-schwaerzungen-in-akten-ueber-jeffrey-epstein-studie-zu-sexueller-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-gesundheitskosten-schwaerzungen-in-akten-ueber-jeffrey-epstein-studie-zu-sexueller-gewalt-a-3c7b1968-45ac-46e2-806f-6db7e5971e3d#ref=rss)
 ### studie
 
-* [https://www.spiegel.de/politik/deutschland/dunkelfeldstudie-ueber-gewalterfahrung-fast-jede-zweite-person-in-deutschland-ist-schon-einmal-sexuell-belaestigt-worden](https://www.spiegel.de/politik/deutschland/dunkelfeldstudie-ueber-gewalterfahrung-fast-jede-zweite-person-in-deutschland-ist-schon-einmal-sexuell-belaestigt-worden-a-eb8561ea-87ef-4a73-a27b-fc8dafc0c04e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf](https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf-a-ee93ebcd-930b-4989-b111-7dc200f3ad7c#ref=rss)
-### zeigen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gesundheitskosten-schwaerzungen-in-akten-ueber-jeffrey-epstein-studie-zu-sexueller-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-gesundheitskosten-schwaerzungen-in-akten-ueber-jeffrey-epstein-studie-zu-sexueller-gewalt-a-3c7b1968-45ac-46e2-806f-6db7e5971e3d#ref=rss)
+### sexueller
 
-* [https://www.spiegel.de/politik/deutschland/dunkelfeldstudie-ueber-gewalterfahrung-fast-jede-zweite-person-in-deutschland-ist-schon-einmal-sexuell-belaestigt-worden](https://www.spiegel.de/politik/deutschland/dunkelfeldstudie-ueber-gewalterfahrung-fast-jede-zweite-person-in-deutschland-ist-schon-einmal-sexuell-belaestigt-worden-a-eb8561ea-87ef-4a73-a27b-fc8dafc0c04e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-zahlen-was-fuer-den-aufschwung-in-deutschland-spricht-und-was-dagegen](https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-zahlen-was-fuer-den-aufschwung-in-deutschland-spricht-und-was-dagegen-a-d0c3b26f-1a04-4f17-ba45-0be9f6453920#ref=rss)
-### lindvik
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gesundheitskosten-schwaerzungen-in-akten-ueber-jeffrey-epstein-studie-zu-sexueller-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-gesundheitskosten-schwaerzungen-in-akten-ueber-jeffrey-epstein-studie-zu-sexueller-gewalt-a-3c7b1968-45ac-46e2-806f-6db7e5971e3d#ref=rss)
+### epsteinskandal
 
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-deutscher-eishockeystar-kritisiert-eisqualitaet-in-mailand](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-deutscher-eishockeystar-kritisiert-eisqualitaet-in-mailand-a-b2c37f2a-155a-4ef9-abdd-8daecb196232#ref=rss)
-### verfolgen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gesundheitskosten-schwaerzungen-in-akten-ueber-jeffrey-epstein-studie-zu-sexueller-gewalt](https://www.spiegel.de/politik/deutschland/news-des-tages-gesundheitskosten-schwaerzungen-in-akten-ueber-jeffrey-epstein-studie-zu-sexueller-gewalt-a-3c7b1968-45ac-46e2-806f-6db7e5971e3d#ref=rss)
+* [https://www.spiegel.de/kultur/chappell-roan-verlaesst-kuenstleragentur-wegen-epstein-verbindungen-des-gruenders](https://www.spiegel.de/kultur/chappell-roan-verlaesst-kuenstleragentur-wegen-epstein-verbindungen-des-gruenders-a-29be00fe-32be-45d2-b41d-917cc07672a3#ref=rss)
+### dormagen
 
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-deutscher-eishockeystar-kritisiert-eisqualitaet-in-mailand](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-deutscher-eishockeystar-kritisiert-eisqualitaet-in-mailand-a-b2c37f2a-155a-4ef9-abdd-8daecb196232#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/kampfdrohnen-bundeswehr-soll-unbemannte-flugkoerper-von-helsing-und-stark-bekommen](https://www.spiegel.de/wissenschaft/technik/kampfdrohnen-bundeswehr-soll-unbemannte-flugkoerper-von-helsing-und-stark-bekommen-a-3c1b5e78-b83f-42c8-a955-debff1ca2fdf#ref=rss)
-### krone
+* [https://www.spiegel.de/panorama/justiz/dormagen-14-jaehriger-wurde-offenbar-von-mitschueler-getoetet](https://www.spiegel.de/panorama/justiz/dormagen-14-jaehriger-wurde-offenbar-von-mitschueler-getoetet-a-aea9a509-5885-4e80-8935-62aeb5687693#ref=rss)
+### mutmaßliches
 
-* [https://www.spiegel.de/kultur/louvre-diebstahl-so-sieht-diese-krone-nicht-mehr-aus-aber-wohl-bald-wieder](https://www.spiegel.de/kultur/louvre-diebstahl-so-sieht-diese-krone-nicht-mehr-aus-aber-wohl-bald-wieder-a-2c89c56d-e48e-4588-8199-aaeefc193b4e#ref=rss)
-### wohl
+* [https://www.spiegel.de/panorama/justiz/dormagen-14-jaehriger-wurde-offenbar-von-mitschueler-getoetet](https://www.spiegel.de/panorama/justiz/dormagen-14-jaehriger-wurde-offenbar-von-mitschueler-getoetet-a-aea9a509-5885-4e80-8935-62aeb5687693#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-mutmassliches-opfer-spricht-von-albtraum](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-mutmassliches-opfer-spricht-von-albtraum-a-df429fbb-a92a-440f-916b-a96a1657e8c4#ref=rss)
+### russland
 
-* [https://www.spiegel.de/kultur/louvre-diebstahl-so-sieht-diese-krone-nicht-mehr-aus-aber-wohl-bald-wieder](https://www.spiegel.de/kultur/louvre-diebstahl-so-sieht-diese-krone-nicht-mehr-aus-aber-wohl-bald-wieder-a-2c89c56d-e48e-4588-8199-aaeefc193b4e#ref=rss)
-### stark
+* [https://www.spiegel.de/ausland/russland-kreml-beschraenkt-zugriff-auf-telegram](https://www.spiegel.de/ausland/russland-kreml-beschraenkt-zugriff-auf-telegram-a-668b2687-72bc-4311-969d-7bad2f89656e#ref=rss)
+### zugriff
 
-* [https://www.spiegel.de/kultur/louvre-diebstahl-so-sieht-diese-krone-nicht-mehr-aus-aber-wohl-bald-wieder](https://www.spiegel.de/kultur/louvre-diebstahl-so-sieht-diese-krone-nicht-mehr-aus-aber-wohl-bald-wieder-a-2c89c56d-e48e-4588-8199-aaeefc193b4e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/kampfdrohnen-bundeswehr-soll-unbemannte-flugkoerper-von-helsing-und-stark-bekommen](https://www.spiegel.de/wissenschaft/technik/kampfdrohnen-bundeswehr-soll-unbemannte-flugkoerper-von-helsing-und-stark-bekommen-a-3c1b5e78-b83f-42c8-a955-debff1ca2fdf#ref=rss)
-### sprechen
+* [https://www.spiegel.de/ausland/russland-kreml-beschraenkt-zugriff-auf-telegram](https://www.spiegel.de/ausland/russland-kreml-beschraenkt-zugriff-auf-telegram-a-668b2687-72bc-4311-969d-7bad2f89656e#ref=rss)
+### telegram
 
-* [https://www.spiegel.de/ausland/epstein-files-ghislaine-maxwell-schweigt-zu-mittaetern-bei-videoanhoerung](https://www.spiegel.de/ausland/epstein-files-ghislaine-maxwell-schweigt-zu-mittaetern-bei-videoanhoerung-a-b8e460ca-16e6-4b04-a6be-8d54dac6e302#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/45-prozent-der-deutschen-sprechen-sich-fuer-eintrittspreis-beim-oktoberfest-aus](https://www.spiegel.de/panorama/gesellschaft/45-prozent-der-deutschen-sprechen-sich-fuer-eintrittspreis-beim-oktoberfest-aus-a-b79df882-90c5-4efd-94c2-a72fa976e939#ref=rss)
-### jutta
+* [https://www.spiegel.de/ausland/russland-kreml-beschraenkt-zugriff-auf-telegram](https://www.spiegel.de/ausland/russland-kreml-beschraenkt-zugriff-auf-telegram-a-668b2687-72bc-4311-969d-7bad2f89656e#ref=rss)
+### allerdings
 
-* [https://www.spiegel.de/sport/olympia/eisschnelllauf-bei-olympia-2026-jutta-leerdam-ist-die-schillerndste-figur-der-spiele](https://www.spiegel.de/sport/olympia/eisschnelllauf-bei-olympia-2026-jutta-leerdam-ist-die-schillerndste-figur-der-spiele-a-510b8d3e-9436-4ce9-a6d0-8d2af7dafc26#ref=rss)
-### leerdam
+* [https://www.spiegel.de/ausland/russland-kreml-beschraenkt-zugriff-auf-telegram](https://www.spiegel.de/ausland/russland-kreml-beschraenkt-zugriff-auf-telegram-a-668b2687-72bc-4311-969d-7bad2f89656e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/ostsee-wasser-auf-historischem-tiefstand-seltenes-naturphaenomen-erwartet](https://www.spiegel.de/wissenschaft/natur/ostsee-wasser-auf-historischem-tiefstand-seltenes-naturphaenomen-erwartet-a-af5d061c-7c1b-43fd-b9b3-0a791b8db668#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/sport/olympia/eisschnelllauf-bei-olympia-2026-jutta-leerdam-ist-die-schillerndste-figur-der-spiele](https://www.spiegel.de/sport/olympia/eisschnelllauf-bei-olympia-2026-jutta-leerdam-ist-die-schillerndste-figur-der-spiele-a-510b8d3e-9436-4ce9-a6d0-8d2af7dafc26#ref=rss)
-### bayern
+* [https://www.spiegel.de/wirtschaft/service/die-deutschen-kaufen-bio-aber-bauen-zu-wenig-bio-an](https://www.spiegel.de/wirtschaft/service/die-deutschen-kaufen-bio-aber-bauen-zu-wenig-bio-an-a-c89b3370-33e1-4ae5-a13f-a2c79ffc4633#ref=rss)
+### bio
 
-* [https://www.spiegel.de/wissenschaft/technik/elektrische-senkrechtstarter-in-bayern-nach-lilium-kommt-charlie](https://www.spiegel.de/wissenschaft/technik/elektrische-senkrechtstarter-in-bayern-nach-lilium-kommt-charlie-a-7e76ad30-8d70-41b1-be67-6cfbb5f0eb94#ref=rss)
-* [https://www.spiegel.de/panorama/bayern-schneeschmelze-erhoeht-hochwassergefahr](https://www.spiegel.de/panorama/bayern-schneeschmelze-erhoeht-hochwassergefahr-a-1bf2bb39-2d96-42e1-90fd-d10cf673c9a9#ref=rss)
-### wetter
+* [https://www.spiegel.de/wirtschaft/service/die-deutschen-kaufen-bio-aber-bauen-zu-wenig-bio-an](https://www.spiegel.de/wirtschaft/service/die-deutschen-kaufen-bio-aber-bauen-zu-wenig-bio-an-a-c89b3370-33e1-4ae5-a13f-a2c79ffc4633#ref=rss)
+### ostsee
 
-* [https://www.spiegel.de/panorama/bayern-schneeschmelze-erhoeht-hochwassergefahr](https://www.spiegel.de/panorama/bayern-schneeschmelze-erhoeht-hochwassergefahr-a-1bf2bb39-2d96-42e1-90fd-d10cf673c9a9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wetter-weltweit-fuenftwaermster-januar-der-geschichte](https://www.spiegel.de/wissenschaft/natur/wetter-weltweit-fuenftwaermster-januar-der-geschichte-a-33ce147a-96bb-4e33-87e3-4e493e55c015#ref=rss)
-### borg
+* [https://www.spiegel.de/wissenschaft/natur/ostsee-wasser-auf-historischem-tiefstand-seltenes-naturphaenomen-erwartet](https://www.spiegel.de/wissenschaft/natur/ostsee-wasser-auf-historischem-tiefstand-seltenes-naturphaenomen-erwartet-a-af5d061c-7c1b-43fd-b9b3-0a791b8db668#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-sohn-von-norwegens-kronprinzessin-mette-marit-bestreitet-neue-vorwuerfe](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-sohn-von-norwegens-kronprinzessin-mette-marit-bestreitet-neue-vorwuerfe-a-e71d9c2c-d9c9-4c4c-a24d-3ba325506b62#ref=rss)
-### høiby
+* [https://www.spiegel.de/ausland/donald-trump-ice-chef-todd-lyons-muss-vor-kongress-aussagen](https://www.spiegel.de/ausland/donald-trump-ice-chef-todd-lyons-muss-vor-kongress-aussagen-a-01d46fe7-6055-425f-9a2d-7cc64028ea4c#ref=rss)
+### todd
 
-* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-sohn-von-norwegens-kronprinzessin-mette-marit-bestreitet-neue-vorwuerfe](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-sohn-von-norwegens-kronprinzessin-mette-marit-bestreitet-neue-vorwuerfe-a-e71d9c2c-d9c9-4c4c-a24d-3ba325506b62#ref=rss)
-### sohn
+* [https://www.spiegel.de/ausland/donald-trump-ice-chef-todd-lyons-muss-vor-kongress-aussagen](https://www.spiegel.de/ausland/donald-trump-ice-chef-todd-lyons-muss-vor-kongress-aussagen-a-01d46fe7-6055-425f-9a2d-7cc64028ea4c#ref=rss)
+### lyons
 
-* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-sohn-von-norwegens-kronprinzessin-mette-marit-bestreitet-neue-vorwuerfe](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-sohn-von-norwegens-kronprinzessin-mette-marit-bestreitet-neue-vorwuerfe-a-e71d9c2c-d9c9-4c4c-a24d-3ba325506b62#ref=rss)
-### norwegens
-
-* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-sohn-von-norwegens-kronprinzessin-mette-marit-bestreitet-neue-vorwuerfe](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-sohn-von-norwegens-kronprinzessin-mette-marit-bestreitet-neue-vorwuerfe-a-e71d9c2c-d9c9-4c4c-a24d-3ba325506b62#ref=rss)
-### kronprinzessin
-
-* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-sohn-von-norwegens-kronprinzessin-mette-marit-bestreitet-neue-vorwuerfe](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-sohn-von-norwegens-kronprinzessin-mette-marit-bestreitet-neue-vorwuerfe-a-e71d9c2c-d9c9-4c4c-a24d-3ba325506b62#ref=rss)
-### mettemarit
-
-* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-sohn-von-norwegens-kronprinzessin-mette-marit-bestreitet-neue-vorwuerfe](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-sohn-von-norwegens-kronprinzessin-mette-marit-bestreitet-neue-vorwuerfe-a-e71d9c2c-d9c9-4c4c-a24d-3ba325506b62#ref=rss)
-### emmanuel
-
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen-a-36645fb7-2a23-47c7-b456-1918a5fb2b23#ref=rss)
-### macron
-
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen-a-36645fb7-2a23-47c7-b456-1918a5fb2b23#ref=rss)
-### wir
-
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen-a-36645fb7-2a23-47c7-b456-1918a5fb2b23#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/warum-wir-in-der-ersten-nacht-an-einem-neuen-ort-schlechter-schlafen](https://www.spiegel.de/wissenschaft/mensch/warum-wir-in-der-ersten-nacht-an-einem-neuen-ort-schlechter-schlafen-a-d8b22119-3e7a-400d-9ac5-53f985ed893f#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-erwartet-neue-spannungen-mit-donald-trump-europa-muss-groenland-moment-nutzen-a-36645fb7-2a23-47c7-b456-1918a5fb2b23#ref=rss)
-* [https://www.spiegel.de/netzwelt/wero-sie-wollen-weg-von-paypal-so-bezahlen-sie-digital-ohne-us-dienste](https://www.spiegel.de/netzwelt/wero-sie-wollen-weg-von-paypal-so-bezahlen-sie-digital-ohne-us-dienste-a-270dbe52-8392-48ca-ab79-5053bd68b3c5#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf](https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf-a-ee93ebcd-930b-4989-b111-7dc200f3ad7c#ref=rss)
-### stefanie
-
-* [https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf](https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf-a-ee93ebcd-930b-4989-b111-7dc200f3ad7c#ref=rss)
-### hubig
-
-* [https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf](https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf-a-ee93ebcd-930b-4989-b111-7dc200f3ad7c#ref=rss)
-### alltag
-
-* [https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf](https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf-a-ee93ebcd-930b-4989-b111-7dc200f3ad7c#ref=rss)
-* [https://www.spiegel.de/netzwelt/wero-sie-wollen-weg-von-paypal-so-bezahlen-sie-digital-ohne-us-dienste](https://www.spiegel.de/netzwelt/wero-sie-wollen-weg-von-paypal-so-bezahlen-sie-digital-ohne-us-dienste-a-270dbe52-8392-48ca-ab79-5053bd68b3c5#ref=rss)
-### erlebt
-
-* [https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf](https://www.spiegel.de/politik/deutschland/gewalt-in-deutschland-justizministerin-sieht-dringenden-handlungsbedarf-a-ee93ebcd-930b-4989-b111-7dc200f3ad7c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wetter-weltweit-fuenftwaermster-januar-der-geschichte](https://www.spiegel.de/wissenschaft/natur/wetter-weltweit-fuenftwaermster-januar-der-geschichte-a-33ce147a-96bb-4e33-87e3-4e493e55c015#ref=rss)
-### tage
-
-* [https://www.spiegel.de/karriere/feiertage-und-teilzeit-viertagewoche-so-machen-sie-es-richtig](https://www.spiegel.de/karriere/feiertage-und-teilzeit-viertagewoche-so-machen-sie-es-richtig-a-c970d687-060c-41ae-a419-943a19f85296#ref=rss)
-### zusätzlich
-
-* [https://www.spiegel.de/karriere/feiertage-und-teilzeit-viertagewoche-so-machen-sie-es-richtig](https://www.spiegel.de/karriere/feiertage-und-teilzeit-viertagewoche-so-machen-sie-es-richtig-a-c970d687-060c-41ae-a419-943a19f85296#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sondervermoegen-vier-milliarden-euro-fliessen-an-kitas-und-hochschulen](https://www.spiegel.de/panorama/bildung/sondervermoegen-vier-milliarden-euro-fliessen-an-kitas-und-hochschulen-a-65042c09-6aa7-42ed-94b0-62a1e56319bf#ref=rss)
-### vielen
-
-* [https://www.spiegel.de/karriere/feiertage-und-teilzeit-viertagewoche-so-machen-sie-es-richtig](https://www.spiegel.de/karriere/feiertage-und-teilzeit-viertagewoche-so-machen-sie-es-richtig-a-c970d687-060c-41ae-a419-943a19f85296#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gewerkschaften-rufen-am-dienstag-zu-erneuten-warnstreiks-in-mehreren-bundeslaendern-auf](https://www.spiegel.de/wirtschaft/gewerkschaften-rufen-am-dienstag-zu-erneuten-warnstreiks-in-mehreren-bundeslaendern-auf-a-23dc51ca-7796-41ad-84a8-67d4106a88c3#ref=rss)
-### sondervermögen
-
-* [https://www.spiegel.de/panorama/bildung/sondervermoegen-vier-milliarden-euro-fliessen-an-kitas-und-hochschulen](https://www.spiegel.de/panorama/bildung/sondervermoegen-vier-milliarden-euro-fliessen-an-kitas-und-hochschulen-a-65042c09-6aa7-42ed-94b0-62a1e56319bf#ref=rss)
-### hochschulen
-
-* [https://www.spiegel.de/panorama/bildung/sondervermoegen-vier-milliarden-euro-fliessen-an-kitas-und-hochschulen](https://www.spiegel.de/panorama/bildung/sondervermoegen-vier-milliarden-euro-fliessen-an-kitas-und-hochschulen-a-65042c09-6aa7-42ed-94b0-62a1e56319bf#ref=rss)
-### bekommen
-
-* [https://www.spiegel.de/panorama/bildung/sondervermoegen-vier-milliarden-euro-fliessen-an-kitas-und-hochschulen](https://www.spiegel.de/panorama/bildung/sondervermoegen-vier-milliarden-euro-fliessen-an-kitas-und-hochschulen-a-65042c09-6aa7-42ed-94b0-62a1e56319bf#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/kampfdrohnen-bundeswehr-soll-unbemannte-flugkoerper-von-helsing-und-stark-bekommen](https://www.spiegel.de/wissenschaft/technik/kampfdrohnen-bundeswehr-soll-unbemannte-flugkoerper-von-helsing-und-stark-bekommen-a-3c1b5e78-b83f-42c8-a955-debff1ca2fdf#ref=rss)
-### wächst
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-und-der-us-dollar-in-europa-waechst-die-angst-vor-der-dollarkeule](https://www.spiegel.de/wirtschaft/donald-trump-und-der-us-dollar-in-europa-waechst-die-angst-vor-der-dollarkeule-a-5ac5155f-84bf-41a7-8314-28bf7ccd271d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-zahlen-was-fuer-den-aufschwung-in-deutschland-spricht-und-was-dagegen](https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-zahlen-was-fuer-den-aufschwung-in-deutschland-spricht-und-was-dagegen-a-d0c3b26f-1a04-4f17-ba45-0be9f6453920#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/spd-ratlosigkeit-bei-waehlern-die-suche-nach-dem-politischen-profil](https://www.spiegel.de/politik/deutschland/spd-ratlosigkeit-bei-waehlern-die-suche-nach-dem-politischen-profil-a-3fb6ae7b-f534-4e5b-8a42-822e789d8c25#ref=rss)
-### charlotte
-
-* [https://www.spiegel.de/sport/basketball/charlotte-hornets-vs-detroit-pistons-heftige-schlaegerei-in-der-nba](https://www.spiegel.de/sport/basketball/charlotte-hornets-vs-detroit-pistons-heftige-schlaegerei-in-der-nba-a-17e6a46d-681d-4489-95d8-6c0433385453#ref=rss)
-### detroit
-
-* [https://www.spiegel.de/sport/basketball/charlotte-hornets-vs-detroit-pistons-heftige-schlaegerei-in-der-nba](https://www.spiegel.de/sport/basketball/charlotte-hornets-vs-detroit-pistons-heftige-schlaegerei-in-der-nba-a-17e6a46d-681d-4489-95d8-6c0433385453#ref=rss)
-### oktoberfest
-
-* [https://www.spiegel.de/panorama/gesellschaft/45-prozent-der-deutschen-sprechen-sich-fuer-eintrittspreis-beim-oktoberfest-aus](https://www.spiegel.de/panorama/gesellschaft/45-prozent-der-deutschen-sprechen-sich-fuer-eintrittspreis-beim-oktoberfest-aus-a-b79df882-90c5-4efd-94c2-a72fa976e939#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/panorama/gesellschaft/45-prozent-der-deutschen-sprechen-sich-fuer-eintrittspreis-beim-oktoberfest-aus](https://www.spiegel.de/panorama/gesellschaft/45-prozent-der-deutschen-sprechen-sich-fuer-eintrittspreis-beim-oktoberfest-aus-a-b79df882-90c5-4efd-94c2-a72fa976e939#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gewerkschaften-rufen-am-dienstag-zu-erneuten-warnstreiks-in-mehreren-bundeslaendern-auf](https://www.spiegel.de/wirtschaft/gewerkschaften-rufen-am-dienstag-zu-erneuten-warnstreiks-in-mehreren-bundeslaendern-auf-a-23dc51ca-7796-41ad-84a8-67d4106a88c3#ref=rss)
-### sicht
-
-* [https://www.spiegel.de/panorama/gesellschaft/45-prozent-der-deutschen-sprechen-sich-fuer-eintrittspreis-beim-oktoberfest-aus](https://www.spiegel.de/panorama/gesellschaft/45-prozent-der-deutschen-sprechen-sich-fuer-eintrittspreis-beim-oktoberfest-aus-a-b79df882-90c5-4efd-94c2-a72fa976e939#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden](https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden-a-95b97e74-e296-4a74-b468-e51281393ee0#ref=rss)
-### gefahr
-
-* [https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden](https://www.spiegel.de/politik/deutschland/allensbach-befragung-mehrheit-der-deutschen-sieht-usa-als-gefahr-fuer-den-weltfrieden-a-95b97e74-e296-4a74-b468-e51281393ee0#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-zahlen-was-fuer-den-aufschwung-in-deutschland-spricht-und-was-dagegen](https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-zahlen-was-fuer-den-aufschwung-in-deutschland-spricht-und-was-dagegen-a-d0c3b26f-1a04-4f17-ba45-0be9f6453920#ref=rss)
-### aufschwung
-
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-zahlen-was-fuer-den-aufschwung-in-deutschland-spricht-und-was-dagegen](https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-zahlen-was-fuer-den-aufschwung-in-deutschland-spricht-und-was-dagegen-a-d0c3b26f-1a04-4f17-ba45-0be9f6453920#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-zahlen-was-fuer-den-aufschwung-in-deutschland-spricht-und-was-dagegen](https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-zahlen-was-fuer-den-aufschwung-in-deutschland-spricht-und-was-dagegen-a-d0c3b26f-1a04-4f17-ba45-0be9f6453920#ref=rss)
-* [https://www.spiegel.de/wirtschaft/zwei-drittel-halten-sozialstaat-fuer-nicht-mehr-bezahlbar](https://www.spiegel.de/wirtschaft/zwei-drittel-halten-sozialstaat-fuer-nicht-mehr-bezahlbar-a-891f11e1-7e56-4908-b5b1-4860355a6f5a#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-zahlen-was-fuer-den-aufschwung-in-deutschland-spricht-und-was-dagegen](https://www.spiegel.de/wirtschaft/soziales/wirtschaft-in-zahlen-was-fuer-den-aufschwung-in-deutschland-spricht-und-was-dagegen-a-d0c3b26f-1a04-4f17-ba45-0be9f6453920#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-dienstag-10-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-dienstag-10-februar-an-a-bd79e629-1035-4799-be2f-30df3cd5e408#ref=rss)
-### dienst
-
-* [https://www.spiegel.de/wirtschaft/gewerkschaften-rufen-am-dienstag-zu-erneuten-warnstreiks-in-mehreren-bundeslaendern-auf](https://www.spiegel.de/wirtschaft/gewerkschaften-rufen-am-dienstag-zu-erneuten-warnstreiks-in-mehreren-bundeslaendern-auf-a-23dc51ca-7796-41ad-84a8-67d4106a88c3#ref=rss)
-### dienstag
-
-* [https://www.spiegel.de/wirtschaft/gewerkschaften-rufen-am-dienstag-zu-erneuten-warnstreiks-in-mehreren-bundeslaendern-auf](https://www.spiegel.de/wirtschaft/gewerkschaften-rufen-am-dienstag-zu-erneuten-warnstreiks-in-mehreren-bundeslaendern-auf-a-23dc51ca-7796-41ad-84a8-67d4106a88c3#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-dienstag-10-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-dienstag-10-februar-an-a-bd79e629-1035-4799-be2f-30df3cd5e408#ref=rss)
-### erneuten
-
-* [https://www.spiegel.de/wirtschaft/gewerkschaften-rufen-am-dienstag-zu-erneuten-warnstreiks-in-mehreren-bundeslaendern-auf](https://www.spiegel.de/wirtschaft/gewerkschaften-rufen-am-dienstag-zu-erneuten-warnstreiks-in-mehreren-bundeslaendern-auf-a-23dc51ca-7796-41ad-84a8-67d4106a88c3#ref=rss)
-* [https://www.spiegel.de/ausland/pazifik-zwei-tote-nach-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/pazifik-zwei-tote-nach-bei-us-angriff-auf-mutmassliches-drogenboot-a-adb95c0a-3f52-40fe-bcfa-520c26490c71#ref=rss)
-### warnstreiks
-
-* [https://www.spiegel.de/wirtschaft/gewerkschaften-rufen-am-dienstag-zu-erneuten-warnstreiks-in-mehreren-bundeslaendern-auf](https://www.spiegel.de/wirtschaft/gewerkschaften-rufen-am-dienstag-zu-erneuten-warnstreiks-in-mehreren-bundeslaendern-auf-a-23dc51ca-7796-41ad-84a8-67d4106a88c3#ref=rss)
-### transparency
-
-* [https://www.spiegel.de/politik/deutschland/transparency-international-deutschland-fehlt-eine-umfassende-strategie-gegen-korruption](https://www.spiegel.de/politik/deutschland/transparency-international-deutschland-fehlt-eine-umfassende-strategie-gegen-korruption-a-a0ca9545-932d-4e34-83ff-eb9403da465d#ref=rss)
-### international
-
-* [https://www.spiegel.de/politik/deutschland/transparency-international-deutschland-fehlt-eine-umfassende-strategie-gegen-korruption](https://www.spiegel.de/politik/deutschland/transparency-international-deutschland-fehlt-eine-umfassende-strategie-gegen-korruption-a-a0ca9545-932d-4e34-83ff-eb9403da465d#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/deutschland/transparency-international-deutschland-fehlt-eine-umfassende-strategie-gegen-korruption](https://www.spiegel.de/politik/deutschland/transparency-international-deutschland-fehlt-eine-umfassende-strategie-gegen-korruption-a-a0ca9545-932d-4e34-83ff-eb9403da465d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/kampfdrohnen-bundeswehr-soll-unbemannte-flugkoerper-von-helsing-und-stark-bekommen](https://www.spiegel.de/wissenschaft/technik/kampfdrohnen-bundeswehr-soll-unbemannte-flugkoerper-von-helsing-und-stark-bekommen-a-3c1b5e78-b83f-42c8-a955-debff1ca2fdf#ref=rss)
-### januar
-
-* [https://www.spiegel.de/wissenschaft/natur/wetter-weltweit-fuenftwaermster-januar-der-geschichte](https://www.spiegel.de/wissenschaft/natur/wetter-weltweit-fuenftwaermster-januar-der-geschichte-a-33ce147a-96bb-4e33-87e3-4e493e55c015#ref=rss)
-### pazifik
-
-* [https://www.spiegel.de/ausland/pazifik-zwei-tote-nach-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/pazifik-zwei-tote-nach-bei-us-angriff-auf-mutmassliches-drogenboot-a-adb95c0a-3f52-40fe-bcfa-520c26490c71#ref=rss)
-### fort
-
-* [https://www.spiegel.de/ausland/pazifik-zwei-tote-nach-bei-us-angriff-auf-mutmassliches-drogenboot](https://www.spiegel.de/ausland/pazifik-zwei-tote-nach-bei-us-angriff-auf-mutmassliches-drogenboot-a-adb95c0a-3f52-40fe-bcfa-520c26490c71#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-dienstag-10-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-dienstag-10-februar-an-a-bd79e629-1035-4799-be2f-30df3cd5e408#ref=rss)
-### krankenkassen
-
-* [https://www.spiegel.de/wirtschaft/soziales/spd-vorschlag-zu-krankenkassen-eine-gesundheitsabgabe-auf-mieten-und-kapitalertraege-viel-spricht-dafuer](https://www.spiegel.de/wirtschaft/soziales/spd-vorschlag-zu-krankenkassen-eine-gesundheitsabgabe-auf-mieten-und-kapitalertraege-viel-spricht-dafuer-a-28cea2bd-6a4c-4ce8-bc8e-da94648fe532#ref=rss)
-### mieten
-
-* [https://www.spiegel.de/wirtschaft/soziales/spd-vorschlag-zu-krankenkassen-eine-gesundheitsabgabe-auf-mieten-und-kapitalertraege-viel-spricht-dafuer](https://www.spiegel.de/wirtschaft/soziales/spd-vorschlag-zu-krankenkassen-eine-gesundheitsabgabe-auf-mieten-und-kapitalertraege-viel-spricht-dafuer-a-28cea2bd-6a4c-4ce8-bc8e-da94648fe532#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ice-chef-todd-lyons-muss-vor-kongress-aussagen](https://www.spiegel.de/ausland/donald-trump-ice-chef-todd-lyons-muss-vor-kongress-aussagen-a-01d46fe7-6055-425f-9a2d-7cc64028ea4c#ref=rss)
 ### stehen
 
-* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-dienstag-10-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-dienstag-10-februar-an-a-bd79e629-1035-4799-be2f-30df3cd5e408#ref=rss)
-### erstenachteffekt
+* [https://www.spiegel.de/ausland/donald-trump-ice-chef-todd-lyons-muss-vor-kongress-aussagen](https://www.spiegel.de/ausland/donald-trump-ice-chef-todd-lyons-muss-vor-kongress-aussagen-a-01d46fe7-6055-425f-9a2d-7cc64028ea4c#ref=rss)
+* [https://www.spiegel.de/sport/olympia/dual-moguls-bei-olympia-so-spektakulaer-ist-die-neue-disziplin](https://www.spiegel.de/sport/olympia/dual-moguls-bei-olympia-so-spektakulaer-ist-die-neue-disziplin-a-5e6ac50f-8bbe-484a-9101-ffa4066277b9#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/wissenschaft/mensch/warum-wir-in-der-ersten-nacht-an-einem-neuen-ort-schlechter-schlafen](https://www.spiegel.de/wissenschaft/mensch/warum-wir-in-der-ersten-nacht-an-einem-neuen-ort-schlechter-schlafen-a-d8b22119-3e7a-400d-9ac5-53f985ed893f#ref=rss)
-### paypal
+* [https://www.spiegel.de/wissenschaft/kanada-tyrannoroter-heberti-war-einer-der-ersten-pflanzenfresser](https://www.spiegel.de/wissenschaft/kanada-tyrannoroter-heberti-war-einer-der-ersten-pflanzenfresser-a-628eea56-870e-440d-9baa-15d0b2b03c70#ref=rss)
+* [https://www.spiegel.de/sport/us-eiskunstlaeuferin-alysia-liu-verpasste-fast-ihr-eigenes-comeback](https://www.spiegel.de/sport/us-eiskunstlaeuferin-alysia-liu-verpasste-fast-ihr-eigenes-comeback-a-76bd5132-c1ee-4447-89f4-e9c1d08e83ca#ref=rss)
+### forschende
 
-* [https://www.spiegel.de/netzwelt/wero-sie-wollen-weg-von-paypal-so-bezahlen-sie-digital-ohne-us-dienste](https://www.spiegel.de/netzwelt/wero-sie-wollen-weg-von-paypal-so-bezahlen-sie-digital-ohne-us-dienste-a-270dbe52-8392-48ca-ab79-5053bd68b3c5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kanada-tyrannoroter-heberti-war-einer-der-ersten-pflanzenfresser](https://www.spiegel.de/wissenschaft/kanada-tyrannoroter-heberti-war-einer-der-ersten-pflanzenfresser-a-628eea56-870e-440d-9baa-15d0b2b03c70#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/ki-in-der-medizin-wenn-chatbots-zu-quacksalbern-werden](https://www.spiegel.de/wissenschaft/medizin/ki-in-der-medizin-wenn-chatbots-zu-quacksalbern-werden-a-8b05f03f-8254-4124-a465-6607b3bb633a#ref=rss)
+### konnte
+
+* [https://www.spiegel.de/wissenschaft/kanada-tyrannoroter-heberti-war-einer-der-ersten-pflanzenfresser](https://www.spiegel.de/wissenschaft/kanada-tyrannoroter-heberti-war-einer-der-ersten-pflanzenfresser-a-628eea56-870e-440d-9baa-15d0b2b03c70#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-in-der-krise-zahlreiche-vorwuerfe-erschuettern-die-partei](https://www.spiegel.de/politik/deutschland/afd-in-der-krise-zahlreiche-vorwuerfe-erschuettern-die-partei-a-aa3193f5-00a2-458b-92b6-3625a4ed4005#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/panorama/dortmund-brueder-von-mouhamed-drame-sollen-deutschland-verlassen](https://www.spiegel.de/panorama/dortmund-brueder-von-mouhamed-drame-sollen-deutschland-verlassen-a-225a2258-9e82-4ef0-bfe6-fc2d561adc63#ref=rss)
+### brüder
+
+* [https://www.spiegel.de/panorama/dortmund-brueder-von-mouhamed-drame-sollen-deutschland-verlassen](https://www.spiegel.de/panorama/dortmund-brueder-von-mouhamed-drame-sollen-deutschland-verlassen-a-225a2258-9e82-4ef0-bfe6-fc2d561adc63#ref=rss)
+### mouhamed
+
+* [https://www.spiegel.de/panorama/dortmund-brueder-von-mouhamed-drame-sollen-deutschland-verlassen](https://www.spiegel.de/panorama/dortmund-brueder-von-mouhamed-drame-sollen-deutschland-verlassen-a-225a2258-9e82-4ef0-bfe6-fc2d561adc63#ref=rss)
+### dramé
+
+* [https://www.spiegel.de/panorama/dortmund-brueder-von-mouhamed-drame-sollen-deutschland-verlassen](https://www.spiegel.de/panorama/dortmund-brueder-von-mouhamed-drame-sollen-deutschland-verlassen-a-225a2258-9e82-4ef0-bfe6-fc2d561adc63#ref=rss)
+### streit
+
+* [https://www.spiegel.de/panorama/dortmund-brueder-von-mouhamed-drame-sollen-deutschland-verlassen](https://www.spiegel.de/panorama/dortmund-brueder-von-mouhamed-drame-sollen-deutschland-verlassen-a-225a2258-9e82-4ef0-bfe6-fc2d561adc63#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/social-media-verbot-fuer-unter-16-jaehrige-prien-zeigt-sich-offen-soeder-spricht-von-quatsch](https://www.spiegel.de/panorama/bildung/social-media-verbot-fuer-unter-16-jaehrige-prien-zeigt-sich-offen-soeder-spricht-von-quatsch-a-8681c49c-defc-4468-ab31-27d92880891a#ref=rss)
+### tui
+
+* [https://www.spiegel.de/wirtschaft/tui-hunderte-kapverde-urlauber-klagen-gegen-reiseveranstalter-wegen-krankeheitsfaellen](https://www.spiegel.de/wirtschaft/tui-hunderte-kapverde-urlauber-klagen-gegen-reiseveranstalter-wegen-krankeheitsfaellen-a-0e8f9739-1f9c-4412-99e5-8db9a2fa592f#ref=rss)
+### hunderte
+
+* [https://www.spiegel.de/wirtschaft/tui-hunderte-kapverde-urlauber-klagen-gegen-reiseveranstalter-wegen-krankeheitsfaellen](https://www.spiegel.de/wirtschaft/tui-hunderte-kapverde-urlauber-klagen-gegen-reiseveranstalter-wegen-krankeheitsfaellen-a-0e8f9739-1f9c-4412-99e5-8db9a2fa592f#ref=rss)
+### zahlreiche
+
+* [https://www.spiegel.de/politik/deutschland/afd-in-der-krise-zahlreiche-vorwuerfe-erschuettern-die-partei](https://www.spiegel.de/politik/deutschland/afd-in-der-krise-zahlreiche-vorwuerfe-erschuettern-die-partei-a-aa3193f5-00a2-458b-92b6-3625a4ed4005#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/politik/deutschland/afd-in-der-krise-zahlreiche-vorwuerfe-erschuettern-die-partei](https://www.spiegel.de/politik/deutschland/afd-in-der-krise-zahlreiche-vorwuerfe-erschuettern-die-partei-a-aa3193f5-00a2-458b-92b6-3625a4ed4005#ref=rss)
+### erschüttern
+
+* [https://www.spiegel.de/politik/deutschland/afd-in-der-krise-zahlreiche-vorwuerfe-erschuettern-die-partei](https://www.spiegel.de/politik/deutschland/afd-in-der-krise-zahlreiche-vorwuerfe-erschuettern-die-partei-a-aa3193f5-00a2-458b-92b6-3625a4ed4005#ref=rss)
+### maxim
+
+* [https://www.spiegel.de/sport/olympia/olympia-maxim-naumow-verarbeitet-trauer-nach-elternverlust-auf-dem-eis](https://www.spiegel.de/sport/olympia/olympia-maxim-naumow-verarbeitet-trauer-nach-elternverlust-auf-dem-eis-a-e8e9058b-5f1f-43ad-a388-0d9d414412e0#ref=rss)
+### naumow
+
+* [https://www.spiegel.de/sport/olympia/olympia-maxim-naumow-verarbeitet-trauer-nach-elternverlust-auf-dem-eis](https://www.spiegel.de/sport/olympia/olympia-maxim-naumow-verarbeitet-trauer-nach-elternverlust-auf-dem-eis-a-e8e9058b-5f1f-43ad-a388-0d9d414412e0#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/sport/olympia/olympia-maxim-naumow-verarbeitet-trauer-nach-elternverlust-auf-dem-eis](https://www.spiegel.de/sport/olympia/olympia-maxim-naumow-verarbeitet-trauer-nach-elternverlust-auf-dem-eis-a-e8e9058b-5f1f-43ad-a388-0d9d414412e0#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/social-media-verbot-fuer-unter-16-jaehrige-prien-zeigt-sich-offen-soeder-spricht-von-quatsch](https://www.spiegel.de/panorama/bildung/social-media-verbot-fuer-unter-16-jaehrige-prien-zeigt-sich-offen-soeder-spricht-von-quatsch-a-8681c49c-defc-4468-ab31-27d92880891a#ref=rss)
+### auftritt
+
+* [https://www.spiegel.de/sport/olympia/olympia-maxim-naumow-verarbeitet-trauer-nach-elternverlust-auf-dem-eis](https://www.spiegel.de/sport/olympia/olympia-maxim-naumow-verarbeitet-trauer-nach-elternverlust-auf-dem-eis-a-e8e9058b-5f1f-43ad-a388-0d9d414412e0#ref=rss)
+* [https://www.spiegel.de/sport/us-eiskunstlaeuferin-alysia-liu-verpasste-fast-ihr-eigenes-comeback](https://www.spiegel.de/sport/us-eiskunstlaeuferin-alysia-liu-verpasste-fast-ihr-eigenes-comeback-a-76bd5132-c1ee-4447-89f4-e9c1d08e83ca#ref=rss)
+### marius
+
+* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-mutmassliches-opfer-spricht-von-albtraum](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-mutmassliches-opfer-spricht-von-albtraum-a-df429fbb-a92a-440f-916b-a96a1657e8c4#ref=rss)
+### borg
+
+* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-mutmassliches-opfer-spricht-von-albtraum](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-mutmassliches-opfer-spricht-von-albtraum-a-df429fbb-a92a-440f-916b-a96a1657e8c4#ref=rss)
+### høiby
+
+* [https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-mutmassliches-opfer-spricht-von-albtraum](https://www.spiegel.de/panorama/justiz/marius-borg-hoiby-mutmassliches-opfer-spricht-von-albtraum-a-df429fbb-a92a-440f-916b-a96a1657e8c4#ref=rss)
+### useiskunstläuferin
+
+* [https://www.spiegel.de/sport/us-eiskunstlaeuferin-alysia-liu-verpasste-fast-ihr-eigenes-comeback](https://www.spiegel.de/sport/us-eiskunstlaeuferin-alysia-liu-verpasste-fast-ihr-eigenes-comeback-a-76bd5132-c1ee-4447-89f4-e9c1d08e83ca#ref=rss)
+### dual
+
+* [https://www.spiegel.de/sport/olympia/dual-moguls-bei-olympia-so-spektakulaer-ist-die-neue-disziplin](https://www.spiegel.de/sport/olympia/dual-moguls-bei-olympia-so-spektakulaer-ist-die-neue-disziplin-a-5e6ac50f-8bbe-484a-9101-ffa4066277b9#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/panorama/bildung/social-media-verbot-fuer-unter-16-jaehrige-prien-zeigt-sich-offen-soeder-spricht-von-quatsch](https://www.spiegel.de/panorama/bildung/social-media-verbot-fuer-unter-16-jaehrige-prien-zeigt-sich-offen-soeder-spricht-von-quatsch-a-8681c49c-defc-4468-ab31-27d92880891a#ref=rss)
+### markus
+
+* [https://www.spiegel.de/panorama/bildung/social-media-verbot-fuer-unter-16-jaehrige-prien-zeigt-sich-offen-soeder-spricht-von-quatsch](https://www.spiegel.de/panorama/bildung/social-media-verbot-fuer-unter-16-jaehrige-prien-zeigt-sich-offen-soeder-spricht-von-quatsch-a-8681c49c-defc-4468-ab31-27d92880891a#ref=rss)
+### söder
+
+* [https://www.spiegel.de/panorama/bildung/social-media-verbot-fuer-unter-16-jaehrige-prien-zeigt-sich-offen-soeder-spricht-von-quatsch](https://www.spiegel.de/panorama/bildung/social-media-verbot-fuer-unter-16-jaehrige-prien-zeigt-sich-offen-soeder-spricht-von-quatsch-a-8681c49c-defc-4468-ab31-27d92880891a#ref=rss)
+### chatbots
+
+* [https://www.spiegel.de/wissenschaft/medizin/ki-in-der-medizin-wenn-chatbots-zu-quacksalbern-werden](https://www.spiegel.de/wissenschaft/medizin/ki-in-der-medizin-wenn-chatbots-zu-quacksalbern-werden-a-8b05f03f-8254-4124-a465-6607b3bb633a#ref=rss)
 
