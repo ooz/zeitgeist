@@ -4,343 +4,319 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### afd
-
-* [https://www.spiegel.de/kultur/ole-von-beust-zum-umgang-mit-der-afd-der-kampf-gegen-den-rechtsextremismus-interessiert-die-waehler-nur-noch-am-rande](https://www.spiegel.de/kultur/ole-von-beust-zum-umgang-mit-der-afd-der-kampf-gegen-den-rechtsextremismus-interessiert-die-waehler-nur-noch-am-rande-a-85e3b549-e390-4856-8dd5-dd0fa9f39acf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast-a-99fde1bb-0ee6-431f-97e5-5db51389cd63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-a-aedb38d8-d2dc-435a-b45e-db7602cc4bbd#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/mann-und-frau-mit-kinderwagen-voller-geldmuenzen-unterwegs](https://www.spiegel.de/panorama/mann-und-frau-mit-kinderwagen-voller-geldmuenzen-unterwegs-a-e81ad33d-b2e6-4749-84da-f7c02004f87e#ref=rss)
-* [https://www.spiegel.de/ausland/hat-yai-in-thailand-geiselnahme-an-schule-polizei-nimmt-mann-fest](https://www.spiegel.de/ausland/hat-yai-in-thailand-geiselnahme-an-schule-polizei-nimmt-mann-fest-a-75e15e6f-e678-4944-9754-d331ca59b317#ref=rss)
-### thüringen
-
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast-a-99fde1bb-0ee6-431f-97e5-5db51389cd63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-a-aedb38d8-d2dc-435a-b45e-db7602cc4bbd#ref=rss)
-### doppelmoral
-
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast-a-99fde1bb-0ee6-431f-97e5-5db51389cd63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-a-aedb38d8-d2dc-435a-b45e-db7602cc4bbd#ref=rss)
-### olympia
-
-* [https://www.spiegel.de/sport/olympia-2026-lindsey-vonn-und-die-schmerzen-der-groessten](https://www.spiegel.de/sport/olympia-2026-lindsey-vonn-und-die-schmerzen-der-groessten-a-3a289cf0-0a60-44a9-a420-71c4261d7807#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-streit-ueber-helm-von-skeleton-fahrer-aus-der-ukraine](https://www.spiegel.de/sport/olympia/olympia-2026-streit-ueber-helm-von-skeleton-fahrer-aus-der-ukraine-a-68e74c8f-74c4-484c-be3a-e32d9e9ddffb#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-leon-draisaitl-ueber-seinen-olympiatraum-und-deutsche-chancen](https://www.spiegel.de/sport/olympia/olympia-2026-leon-draisaitl-ueber-seinen-olympiatraum-und-deutsche-chancen-a-6c2eca50-5880-492b-a454-220d4ef7b08a#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/olympia-2026-lindsey-vonn-und-die-schmerzen-der-groessten](https://www.spiegel.de/sport/olympia-2026-lindsey-vonn-und-die-schmerzen-der-groessten-a-3a289cf0-0a60-44a9-a420-71c4261d7807#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-streit-ueber-helm-von-skeleton-fahrer-aus-der-ukraine](https://www.spiegel.de/sport/olympia/olympia-2026-streit-ueber-helm-von-skeleton-fahrer-aus-der-ukraine-a-68e74c8f-74c4-484c-be3a-e32d9e9ddffb#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-leon-draisaitl-ueber-seinen-olympiatraum-und-deutsche-chancen](https://www.spiegel.de/sport/olympia/olympia-2026-leon-draisaitl-ueber-seinen-olympiatraum-und-deutsche-chancen-a-6c2eca50-5880-492b-a454-220d4ef7b08a#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-lindvik-schiesst-nach-kritik-gegen-goldspringer-raimund-zurueck](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-lindvik-schiesst-nach-kritik-gegen-goldspringer-raimund-zurueck-a-52d18620-f5fe-4134-9459-69f96d4f9159#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-wie-die-deutsche-bank-jahrelang-an-ihm-festhielt](https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-wie-die-deutsche-bank-jahrelang-an-ihm-festhielt-a-979c8e9a-dc4e-4fab-859c-4cb9a03a1dc8#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-leon-draisaitl-ueber-seinen-olympiatraum-und-deutsche-chancen](https://www.spiegel.de/sport/olympia/olympia-2026-leon-draisaitl-ueber-seinen-olympiatraum-und-deutsche-chancen-a-6c2eca50-5880-492b-a454-220d4ef7b08a#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/start/berlin-mehr-als-20-000-studienplaetze-in-der-hauptstadt-in-gefahr](https://www.spiegel.de/start/berlin-mehr-als-20-000-studienplaetze-in-der-hauptstadt-in-gefahr-a-90748bf1-737a-40c2-9272-d86eab6a0fd2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/grippe-schaedigt-herz-forschende-entdecken-moeglichen-mechanismus](https://www.spiegel.de/wissenschaft/grippe-schaedigt-herz-forschende-entdecken-moeglichen-mechanismus-a-83c8f5e9-a4cd-42c7-bbe4-191aa0ceacd3#ref=rss)
-* [https://www.spiegel.de/start/arbeitszeit-debatte-mehr-ambitionen-bitte](https://www.spiegel.de/start/arbeitszeit-debatte-mehr-ambitionen-bitte-a-9729e3a0-188c-4f1b-a237-54a6a841dc66#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/deinspiegel/mitbestimmung-junger-menschen-wir-reden-mit](https://www.spiegel.de/deinspiegel/mitbestimmung-junger-menschen-wir-reden-mit-a-c21554f3-9213-40fb-b9f3-19ea2efdf20e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trauer-in-kanada-verraeterische-chats-in-benkos-reich-tesla-betriebsrat](https://www.spiegel.de/politik/deutschland/news-des-tages-trauer-in-kanada-verraeterische-chats-in-benkos-reich-tesla-betriebsrat-a-0b460a0f-e615-4469-9004-783587d09beb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/grippe-schaedigt-herz-forschende-entdecken-moeglichen-mechanismus](https://www.spiegel.de/wissenschaft/grippe-schaedigt-herz-forschende-entdecken-moeglichen-mechanismus-a-83c8f5e9-a4cd-42c7-bbe4-191aa0ceacd3#ref=rss)
-### kanada
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trauer-in-kanada-verraeterische-chats-in-benkos-reich-tesla-betriebsrat](https://www.spiegel.de/politik/deutschland/news-des-tages-trauer-in-kanada-verraeterische-chats-in-benkos-reich-tesla-betriebsrat-a-0b460a0f-e615-4469-9004-783587d09beb#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/masern-fallzahlen-in-europa-und-zentralasien-stark-gesunken-aber-who-bleibt-besorgt](https://www.spiegel.de/gesundheit/diagnose/masern-fallzahlen-in-europa-und-zentralasien-stark-gesunken-aber-who-bleibt-besorgt-a-64262205-f60c-46bc-8e07-b6ea51629a68#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wissenschaft/grippe-schaedigt-herz-forschende-entdecken-moeglichen-mechanismus](https://www.spiegel.de/wissenschaft/grippe-schaedigt-herz-forschende-entdecken-moeglichen-mechanismus-a-83c8f5e9-a4cd-42c7-bbe4-191aa0ceacd3#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/masern-fallzahlen-in-europa-und-zentralasien-stark-gesunken-aber-who-bleibt-besorgt](https://www.spiegel.de/gesundheit/diagnose/masern-fallzahlen-in-europa-und-zentralasien-stark-gesunken-aber-who-bleibt-besorgt-a-64262205-f60c-46bc-8e07-b6ea51629a68#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-europaeer-fangen-us-ausfall-bei-ukrainehilfen-mit-vielen-milliarden-auf](https://www.spiegel.de/ausland/ukraine-krieg-europaeer-fangen-us-ausfall-bei-ukrainehilfen-mit-vielen-milliarden-auf-a-07398ff5-e9b3-45dc-a662-2134fd3da5ca#ref=rss)
-### kampf
-
-* [https://www.spiegel.de/kultur/ole-von-beust-zum-umgang-mit-der-afd-der-kampf-gegen-den-rechtsextremismus-interessiert-die-waehler-nur-noch-am-rande](https://www.spiegel.de/kultur/ole-von-beust-zum-umgang-mit-der-afd-der-kampf-gegen-den-rechtsextremismus-interessiert-die-waehler-nur-noch-am-rande-a-85e3b549-e390-4856-8dd5-dd0fa9f39acf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast-a-99fde1bb-0ee6-431f-97e5-5db51389cd63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-a-aedb38d8-d2dc-435a-b45e-db7602cc4bbd#ref=rss)
-### rechtsextremismus
-
-* [https://www.spiegel.de/kultur/ole-von-beust-zum-umgang-mit-der-afd-der-kampf-gegen-den-rechtsextremismus-interessiert-die-waehler-nur-noch-am-rande](https://www.spiegel.de/kultur/ole-von-beust-zum-umgang-mit-der-afd-der-kampf-gegen-den-rechtsextremismus-interessiert-die-waehler-nur-noch-am-rande-a-85e3b549-e390-4856-8dd5-dd0fa9f39acf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast-a-99fde1bb-0ee6-431f-97e5-5db51389cd63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-a-aedb38d8-d2dc-435a-b45e-db7602cc4bbd#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-streit-ueber-helm-von-skeleton-fahrer-aus-der-ukraine](https://www.spiegel.de/sport/olympia/olympia-2026-streit-ueber-helm-von-skeleton-fahrer-aus-der-ukraine-a-68e74c8f-74c4-484c-be3a-e32d9e9ddffb#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-europaeer-fangen-us-ausfall-bei-ukrainehilfen-mit-vielen-milliarden-auf](https://www.spiegel.de/ausland/ukraine-krieg-europaeer-fangen-us-ausfall-bei-ukrainehilfen-mit-vielen-milliarden-auf-a-07398ff5-e9b3-45dc-a662-2134fd3da5ca#ref=rss)
-### lindsey
-
-* [https://www.spiegel.de/sport/olympia-2026-lindsey-vonn-und-die-schmerzen-der-groessten](https://www.spiegel.de/sport/olympia-2026-lindsey-vonn-und-die-schmerzen-der-groessten-a-3a289cf0-0a60-44a9-a420-71c4261d7807#ref=rss)
-### vonn
-
-* [https://www.spiegel.de/sport/olympia-2026-lindsey-vonn-und-die-schmerzen-der-groessten](https://www.spiegel.de/sport/olympia-2026-lindsey-vonn-und-die-schmerzen-der-groessten-a-3a289cf0-0a60-44a9-a420-71c4261d7807#ref=rss)
-### bangladesch
-
-* [https://www.spiegel.de/ausland/bangladesch-frauen-fuehlen-sich-nach-der-revolution-ins-abseits-gedraengt](https://www.spiegel.de/ausland/bangladesch-frauen-fuehlen-sich-nach-der-revolution-ins-abseits-gedraengt-a-8688f89d-207d-4b5b-bb9e-dfc82748bc02#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/bangladesch-frauen-fuehlen-sich-nach-der-revolution-ins-abseits-gedraengt](https://www.spiegel.de/ausland/bangladesch-frauen-fuehlen-sich-nach-der-revolution-ins-abseits-gedraengt-a-8688f89d-207d-4b5b-bb9e-dfc82748bc02#ref=rss)
-### fühlen
-
-* [https://www.spiegel.de/ausland/bangladesch-frauen-fuehlen-sich-nach-der-revolution-ins-abseits-gedraengt](https://www.spiegel.de/ausland/bangladesch-frauen-fuehlen-sich-nach-der-revolution-ins-abseits-gedraengt-a-8688f89d-207d-4b5b-bb9e-dfc82748bc02#ref=rss)
-### revolution
-
-* [https://www.spiegel.de/ausland/bangladesch-frauen-fuehlen-sich-nach-der-revolution-ins-abseits-gedraengt](https://www.spiegel.de/ausland/bangladesch-frauen-fuehlen-sich-nach-der-revolution-ins-abseits-gedraengt-a-8688f89d-207d-4b5b-bb9e-dfc82748bc02#ref=rss)
-### abseits
-
-* [https://www.spiegel.de/ausland/bangladesch-frauen-fuehlen-sich-nach-der-revolution-ins-abseits-gedraengt](https://www.spiegel.de/ausland/bangladesch-frauen-fuehlen-sich-nach-der-revolution-ins-abseits-gedraengt-a-8688f89d-207d-4b5b-bb9e-dfc82748bc02#ref=rss)
-### gedrängt
-
-* [https://www.spiegel.de/ausland/bangladesch-frauen-fuehlen-sich-nach-der-revolution-ins-abseits-gedraengt](https://www.spiegel.de/ausland/bangladesch-frauen-fuehlen-sich-nach-der-revolution-ins-abseits-gedraengt-a-8688f89d-207d-4b5b-bb9e-dfc82748bc02#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/ausland/bangladesch-frauen-fuehlen-sich-nach-der-revolution-ins-abseits-gedraengt](https://www.spiegel.de/ausland/bangladesch-frauen-fuehlen-sich-nach-der-revolution-ins-abseits-gedraengt-a-8688f89d-207d-4b5b-bb9e-dfc82748bc02#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/masern-fallzahlen-in-europa-und-zentralasien-stark-gesunken-aber-who-bleibt-besorgt](https://www.spiegel.de/gesundheit/diagnose/masern-fallzahlen-in-europa-und-zentralasien-stark-gesunken-aber-who-bleibt-besorgt-a-64262205-f60c-46bc-8e07-b6ea51629a68#ref=rss)
-### männern
-
-* [https://www.spiegel.de/ausland/bangladesch-frauen-fuehlen-sich-nach-der-revolution-ins-abseits-gedraengt](https://www.spiegel.de/ausland/bangladesch-frauen-fuehlen-sich-nach-der-revolution-ins-abseits-gedraengt-a-8688f89d-207d-4b5b-bb9e-dfc82748bc02#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-lindvik-schiesst-nach-kritik-gegen-goldspringer-raimund-zurueck](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-lindvik-schiesst-nach-kritik-gegen-goldspringer-raimund-zurueck-a-52d18620-f5fe-4134-9459-69f96d4f9159#ref=rss)
-### biathlet
-
-* [https://www.spiegel.de/partnerschaft/biathlet-sturla-holm-laegreid-vergebung-ist-kein-live-format-meinung](https://www.spiegel.de/partnerschaft/biathlet-sturla-holm-laegreid-vergebung-ist-kein-live-format-meinung-a-b37747b4-b5e5-4414-9ed0-76a3cf394949#ref=rss)
-### sturla
-
-* [https://www.spiegel.de/partnerschaft/biathlet-sturla-holm-laegreid-vergebung-ist-kein-live-format-meinung](https://www.spiegel.de/partnerschaft/biathlet-sturla-holm-laegreid-vergebung-ist-kein-live-format-meinung-a-b37747b4-b5e5-4414-9ed0-76a3cf394949#ref=rss)
-### holm
-
-* [https://www.spiegel.de/partnerschaft/biathlet-sturla-holm-laegreid-vergebung-ist-kein-live-format-meinung](https://www.spiegel.de/partnerschaft/biathlet-sturla-holm-laegreid-vergebung-ist-kein-live-format-meinung-a-b37747b4-b5e5-4414-9ed0-76a3cf394949#ref=rss)
-### vergebung
-
-* [https://www.spiegel.de/partnerschaft/biathlet-sturla-holm-laegreid-vergebung-ist-kein-live-format-meinung](https://www.spiegel.de/partnerschaft/biathlet-sturla-holm-laegreid-vergebung-ist-kein-live-format-meinung-a-b37747b4-b5e5-4414-9ed0-76a3cf394949#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-lindvik-schiesst-nach-kritik-gegen-goldspringer-raimund-zurueck](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-lindvik-schiesst-nach-kritik-gegen-goldspringer-raimund-zurueck-a-52d18620-f5fe-4134-9459-69f96d4f9159#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/raumfahrt-moegliche-landeplaetze-der-ersten-mondsonde-gefunden](https://www.spiegel.de/wissenschaft/weltall/raumfahrt-moegliche-landeplaetze-der-ersten-mondsonde-gefunden-a-50cc7cba-47c5-4949-ac5a-3cdeece658af#ref=rss)
-### rund
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-lindvik-schiesst-nach-kritik-gegen-goldspringer-raimund-zurueck](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-lindvik-schiesst-nach-kritik-gegen-goldspringer-raimund-zurueck-a-52d18620-f5fe-4134-9459-69f96d4f9159#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nato-mission-bundeswehr-schickt-vier-eurofighter-in-die-arktis](https://www.spiegel.de/politik/deutschland/nato-mission-bundeswehr-schickt-vier-eurofighter-in-die-arktis-a-147ea628-5409-45ff-b30a-7cb18b2bc731#ref=rss)
-### mögliche
-
-* [https://www.spiegel.de/wissenschaft/weltall/raumfahrt-moegliche-landeplaetze-der-ersten-mondsonde-gefunden](https://www.spiegel.de/wissenschaft/weltall/raumfahrt-moegliche-landeplaetze-der-ersten-mondsonde-gefunden-a-50cc7cba-47c5-4949-ac5a-3cdeece658af#ref=rss)
-* [https://www.spiegel.de/wissenschaft/grippe-schaedigt-herz-forschende-entdecken-moeglichen-mechanismus](https://www.spiegel.de/wissenschaft/grippe-schaedigt-herz-forschende-entdecken-moeglichen-mechanismus-a-83c8f5e9-a4cd-42c7-bbe4-191aa0ceacd3#ref=rss)
-### glauben
-
-* [https://www.spiegel.de/wissenschaft/weltall/raumfahrt-moegliche-landeplaetze-der-ersten-mondsonde-gefunden](https://www.spiegel.de/wissenschaft/weltall/raumfahrt-moegliche-landeplaetze-der-ersten-mondsonde-gefunden-a-50cc7cba-47c5-4949-ac5a-3cdeece658af#ref=rss)
-* [https://www.spiegel.de/wissenschaft/grippe-schaedigt-herz-forschende-entdecken-moeglichen-mechanismus](https://www.spiegel.de/wissenschaft/grippe-schaedigt-herz-forschende-entdecken-moeglichen-mechanismus-a-83c8f5e9-a4cd-42c7-bbe4-191aa0ceacd3#ref=rss)
-### märz
-
-* [https://www.spiegel.de/wissenschaft/weltall/raumfahrt-moegliche-landeplaetze-der-ersten-mondsonde-gefunden](https://www.spiegel.de/wissenschaft/weltall/raumfahrt-moegliche-landeplaetze-der-ersten-mondsonde-gefunden-a-50cc7cba-47c5-4949-ac5a-3cdeece658af#ref=rss)
-* [https://www.spiegel.de/panorama/leute/tuebingen-cem-oezdemir-will-mitten-im-wahlkampf-heiraten](https://www.spiegel.de/panorama/leute/tuebingen-cem-oezdemir-will-mitten-im-wahlkampf-heiraten-a-dd924b17-f534-4422-8935-e4e033c1f512#ref=rss)
-### natomission
-
-* [https://www.spiegel.de/politik/deutschland/nato-mission-bundeswehr-schickt-vier-eurofighter-in-die-arktis](https://www.spiegel.de/politik/deutschland/nato-mission-bundeswehr-schickt-vier-eurofighter-in-die-arktis-a-147ea628-5409-45ff-b30a-7cb18b2bc731#ref=rss)
-### vier
-
-* [https://www.spiegel.de/politik/deutschland/nato-mission-bundeswehr-schickt-vier-eurofighter-in-die-arktis](https://www.spiegel.de/politik/deutschland/nato-mission-bundeswehr-schickt-vier-eurofighter-in-die-arktis-a-147ea628-5409-45ff-b30a-7cb18b2bc731#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/nato-mission-bundeswehr-schickt-vier-eurofighter-in-die-arktis](https://www.spiegel.de/politik/deutschland/nato-mission-bundeswehr-schickt-vier-eurofighter-in-die-arktis-a-147ea628-5409-45ff-b30a-7cb18b2bc731#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-leon-draisaitl-ueber-seinen-olympiatraum-und-deutsche-chancen](https://www.spiegel.de/sport/olympia/olympia-2026-leon-draisaitl-ueber-seinen-olympiatraum-und-deutsche-chancen-a-6c2eca50-5880-492b-a454-220d4ef7b08a#ref=rss)
-### zwei
+* [https://www.spiegel.de/wirtschaft/service/zucker-deutschland-produziert-93-liter-an-cola-limo-und-co-pro-kopf](https://www.spiegel.de/wirtschaft/service/zucker-deutschland-produziert-93-liter-an-cola-limo-und-co-pro-kopf-a-313de422-32be-4eb9-8f60-a6574d1a5de4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/ernaehrung-frankreich-ruft-zu-weniger-fleisch-und-wurstkonsum-auf](https://www.spiegel.de/wirtschaft/service/ernaehrung-frankreich-ruft-zu-weniger-fleisch-und-wurstkonsum-auf-a-c46b6d11-2f3c-48d6-9079-945dee32288b#ref=rss)
+* [https://www.spiegel.de/kultur/filme-aus-iran-in-deutschland-das-bordell-als-mikrokosmos-der-gesellschaft](https://www.spiegel.de/kultur/filme-aus-iran-in-deutschland-das-bordell-als-mikrokosmos-der-gesellschaft-a-c9c8c9c6-9ae3-4653-a50f-71677351d15c#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/politik/deutschland/nato-mission-bundeswehr-schickt-vier-eurofighter-in-die-arktis](https://www.spiegel.de/politik/deutschland/nato-mission-bundeswehr-schickt-vier-eurofighter-in-die-arktis-a-147ea628-5409-45ff-b30a-7cb18b2bc731#ref=rss)
-* [https://www.spiegel.de/ausland/hat-yai-in-thailand-geiselnahme-an-schule-polizei-nimmt-mann-fest](https://www.spiegel.de/ausland/hat-yai-in-thailand-geiselnahme-an-schule-polizei-nimmt-mann-fest-a-75e15e6f-e678-4944-9754-d331ca59b317#ref=rss)
-### berlin
+* [https://www.spiegel.de/panorama/frankreich-spanien-portugal-alarmstufe-rot-wegen-sturmtief-nils](https://www.spiegel.de/panorama/frankreich-spanien-portugal-alarmstufe-rot-wegen-sturmtief-nils-a-06dee10f-82d6-438e-83eb-d85c291d84be#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/ernaehrung-frankreich-ruft-zu-weniger-fleisch-und-wurstkonsum-auf](https://www.spiegel.de/wirtschaft/service/ernaehrung-frankreich-ruft-zu-weniger-fleisch-und-wurstkonsum-auf-a-c46b6d11-2f3c-48d6-9079-945dee32288b#ref=rss)
+### harold
 
-* [https://www.spiegel.de/start/berlin-mehr-als-20-000-studienplaetze-in-der-hauptstadt-in-gefahr](https://www.spiegel.de/start/berlin-mehr-als-20-000-studienplaetze-in-der-hauptstadt-in-gefahr-a-90748bf1-737a-40c2-9272-d86eab6a0fd2#ref=rss)
-### hochschulen
+* [https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude](https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude-a-acbeea52-cb95-4444-9105-c41487f049d9#ref=rss)
+### olympia
 
-* [https://www.spiegel.de/start/berlin-mehr-als-20-000-studienplaetze-in-der-hauptstadt-in-gefahr](https://www.spiegel.de/start/berlin-mehr-als-20-000-studienplaetze-in-der-hauptstadt-in-gefahr-a-90748bf1-737a-40c2-9272-d86eab6a0fd2#ref=rss)
-### bad
+* [https://www.spiegel.de/sport/olympia/olympia-2026-ukrainischer-skeletonpilot-wladyslaw-heraskewytsch-gegen-helmverbot-des-ioc](https://www.spiegel.de/sport/olympia/olympia-2026-ukrainischer-skeletonpilot-wladyslaw-heraskewytsch-gegen-helmverbot-des-ioc-a-20ba4c1b-464e-45cc-8648-03a692a314ce#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-guillaume-cizeron-holt-im-eistanz-zum-vierten-mal-gold-mit-der-vierten-partnerin](https://www.spiegel.de/sport/olympia/olympia-2026-guillaume-cizeron-holt-im-eistanz-zum-vierten-mal-gold-mit-der-vierten-partnerin-a-03b78787-e743-45fb-a11e-a92de8813ab3#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-12-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-12-februar-an-a-81bbfe71-cb73-4afd-ab7f-34aeebf248eb#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/kultur/musik/bad-bunny-streamingzahlen-um-175-prozent-gestiegen-quotenrekord-knapp-verpasst](https://www.spiegel.de/kultur/musik/bad-bunny-streamingzahlen-um-175-prozent-gestiegen-quotenrekord-knapp-verpasst-a-1ca85f03-111a-4f9e-999e-9f29bbe17b57#ref=rss)
-### bunny
+* [https://www.spiegel.de/politik/afd-verbotsverfahren-holocaust-ueberlebende-draengen-auf-schnelles-handeln](https://www.spiegel.de/politik/afd-verbotsverfahren-holocaust-ueberlebende-draengen-auf-schnelles-handeln-a-8059d12d-520e-412c-a5d3-e22b79056737#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-wolodymyr-selenskyj-fordert-eu-beitrittsdatum-im-friedensabkommen](https://www.spiegel.de/politik/ukraine-wolodymyr-selenskyj-fordert-eu-beitrittsdatum-im-friedensabkommen-a-14a6b2f6-2826-4f52-9712-3d240eb70bbb#ref=rss)
+### tuchel
 
-* [https://www.spiegel.de/kultur/musik/bad-bunny-streamingzahlen-um-175-prozent-gestiegen-quotenrekord-knapp-verpasst](https://www.spiegel.de/kultur/musik/bad-bunny-streamingzahlen-um-175-prozent-gestiegen-quotenrekord-knapp-verpasst-a-1ca85f03-111a-4f9e-999e-9f29bbe17b57#ref=rss)
-### new
+* [https://www.spiegel.de/sport/fussball/fussball-thomas-tuchel-fuehrt-england-zur-heim-em-2028](https://www.spiegel.de/sport/fussball/fussball-thomas-tuchel-fuehrt-england-zur-heim-em-2028-a-b0298d21-68fc-4166-a943-899f858a121c#ref=rss)
+### sechs
 
-* [https://www.spiegel.de/panorama/new-york-historisches-safehouse-fuer-geflohene-sklaven-in-manhattan-entdeckt](https://www.spiegel.de/panorama/new-york-historisches-safehouse-fuer-geflohene-sklaven-in-manhattan-entdeckt-a-c1715378-fc05-4c60-a907-792e78813e60#ref=rss)
-### york
+* [https://www.spiegel.de/sport/fussball/fussball-thomas-tuchel-fuehrt-england-zur-heim-em-2028](https://www.spiegel.de/sport/fussball/fussball-thomas-tuchel-fuehrt-england-zur-heim-em-2028-a-b0298d21-68fc-4166-a943-899f858a121c#ref=rss)
+* [https://www.spiegel.de/start/kirchensterben-zahl-der-theologiestudierenden-hat-sich-in-sechs-jahren-halbiert](https://www.spiegel.de/start/kirchensterben-zahl-der-theologiestudierenden-hat-sich-in-sechs-jahren-halbiert-a-66ff2163-ddae-4ecd-b688-9f98804370c7#ref=rss)
+### donnerstag
 
-* [https://www.spiegel.de/panorama/new-york-historisches-safehouse-fuer-geflohene-sklaven-in-manhattan-entdeckt](https://www.spiegel.de/panorama/new-york-historisches-safehouse-fuer-geflohene-sklaven-in-manhattan-entdeckt-a-c1715378-fc05-4c60-a907-792e78813e60#ref=rss)
-### leben
+* [https://www.spiegel.de/panorama/gesellschaft/karneval-quiz-wie-gut-kennen-sie-sich-mit-der-weiberfastnacht-aus](https://www.spiegel.de/panorama/gesellschaft/karneval-quiz-wie-gut-kennen-sie-sich-mit-der-weiberfastnacht-aus-a-565ee3cf-48d3-4e2f-ad18-8a3973fa7a91#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-12-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-12-februar-an-a-81bbfe71-cb73-4afd-ab7f-34aeebf248eb#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/panorama/new-york-historisches-safehouse-fuer-geflohene-sklaven-in-manhattan-entdeckt](https://www.spiegel.de/panorama/new-york-historisches-safehouse-fuer-geflohene-sklaven-in-manhattan-entdeckt-a-c1715378-fc05-4c60-a907-792e78813e60#ref=rss)
-* [https://www.spiegel.de/start/arbeitszeit-debatte-mehr-ambitionen-bitte](https://www.spiegel.de/start/arbeitszeit-debatte-mehr-ambitionen-bitte-a-9729e3a0-188c-4f1b-a237-54a6a841dc66#ref=rss)
-### mitarbeiter
+* [https://www.spiegel.de/panorama/frankreich-spanien-portugal-alarmstufe-rot-wegen-sturmtief-nils](https://www.spiegel.de/panorama/frankreich-spanien-portugal-alarmstufe-rot-wegen-sturmtief-nils-a-06dee10f-82d6-438e-83eb-d85c291d84be#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-ukrainischer-skeletoni-wegen-gedenk-helms-offenbar-disqualifiziert](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-ukrainischer-skeletoni-wegen-gedenk-helms-offenbar-disqualifiziert-a-10c733b0-f56f-4e57-b2eb-554d3d40b6be#ref=rss)
+* [https://www.spiegel.de/kultur/jeffrey-epstein-und-die-folgen-das-gesamte-demokratische-system-steht-infrage](https://www.spiegel.de/kultur/jeffrey-epstein-und-die-folgen-das-gesamte-demokratische-system-steht-infrage-a-93c49988-e92a-42d3-a6d8-f7f789043cb8#ref=rss)
+### emma
 
-* [https://www.spiegel.de/panorama/new-york-historisches-safehouse-fuer-geflohene-sklaven-in-manhattan-entdeckt](https://www.spiegel.de/panorama/new-york-historisches-safehouse-fuer-geflohene-sklaven-in-manhattan-entdeckt-a-c1715378-fc05-4c60-a907-792e78813e60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trauer-in-kanada-verraeterische-chats-in-benkos-reich-tesla-betriebsrat](https://www.spiegel.de/politik/deutschland/news-des-tages-trauer-in-kanada-verraeterische-chats-in-benkos-reich-tesla-betriebsrat-a-0b460a0f-e615-4469-9004-783587d09beb#ref=rss)
-### wir
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-ukrainischer-skeletoni-wegen-gedenk-helms-offenbar-disqualifiziert](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-ukrainischer-skeletoni-wegen-gedenk-helms-offenbar-disqualifiziert-a-10c733b0-f56f-4e57-b2eb-554d3d40b6be#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-12-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-12-februar-an-a-81bbfe71-cb73-4afd-ab7f-34aeebf248eb#ref=rss)
+### aicher
 
-* [https://www.spiegel.de/deinspiegel/mitbestimmung-junger-menschen-wir-reden-mit](https://www.spiegel.de/deinspiegel/mitbestimmung-junger-menschen-wir-reden-mit-a-c21554f3-9213-40fb-b9f3-19ea2efdf20e#ref=rss)
-* [https://www.spiegel.de/start/arbeitszeit-debatte-mehr-ambitionen-bitte](https://www.spiegel.de/start/arbeitszeit-debatte-mehr-ambitionen-bitte-a-9729e3a0-188c-4f1b-a237-54a6a841dc66#ref=rss)
-### jeffrey
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-ukrainischer-skeletoni-wegen-gedenk-helms-offenbar-disqualifiziert](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-ukrainischer-skeletoni-wegen-gedenk-helms-offenbar-disqualifiziert-a-10c733b0-f56f-4e57-b2eb-554d3d40b6be#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-12-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-12-februar-an-a-81bbfe71-cb73-4afd-ab7f-34aeebf248eb#ref=rss)
+### wladyslaw
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-wie-die-deutsche-bank-jahrelang-an-ihm-festhielt](https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-wie-die-deutsche-bank-jahrelang-an-ihm-festhielt-a-979c8e9a-dc4e-4fab-859c-4cb9a03a1dc8#ref=rss)
-### epstein
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-ukrainischer-skeletoni-wegen-gedenk-helms-offenbar-disqualifiziert](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-ukrainischer-skeletoni-wegen-gedenk-helms-offenbar-disqualifiziert-a-10c733b0-f56f-4e57-b2eb-554d3d40b6be#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-ukrainischer-skeletonpilot-wladyslaw-heraskewytsch-gegen-helmverbot-des-ioc](https://www.spiegel.de/sport/olympia/olympia-2026-ukrainischer-skeletonpilot-wladyslaw-heraskewytsch-gegen-helmverbot-des-ioc-a-20ba4c1b-464e-45cc-8648-03a692a314ce#ref=rss)
+### heraskewytsch
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-wie-die-deutsche-bank-jahrelang-an-ihm-festhielt](https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-wie-die-deutsche-bank-jahrelang-an-ihm-festhielt-a-979c8e9a-dc4e-4fab-859c-4cb9a03a1dc8#ref=rss)
-### bank
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-ukrainischer-skeletoni-wegen-gedenk-helms-offenbar-disqualifiziert](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-ukrainischer-skeletoni-wegen-gedenk-helms-offenbar-disqualifiziert-a-10c733b0-f56f-4e57-b2eb-554d3d40b6be#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-ukrainischer-skeletonpilot-wladyslaw-heraskewytsch-gegen-helmverbot-des-ioc](https://www.spiegel.de/sport/olympia/olympia-2026-ukrainischer-skeletonpilot-wladyslaw-heraskewytsch-gegen-helmverbot-des-ioc-a-20ba4c1b-464e-45cc-8648-03a692a314ce#ref=rss)
+### israel
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-wie-die-deutsche-bank-jahrelang-an-ihm-festhielt](https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-wie-die-deutsche-bank-jahrelang-an-ihm-festhielt-a-979c8e9a-dc4e-4fab-859c-4cb9a03a1dc8#ref=rss)
-### jahrelang
+* [https://www.spiegel.de/politik/bundesverfassungsgericht-nimmt-klage-gegen-ruestungsexporte-nach-israel-nicht-an](https://www.spiegel.de/politik/bundesverfassungsgericht-nimmt-klage-gegen-ruestungsexporte-nach-israel-nicht-an-a-e655b26c-dee0-4bac-9e62-70085a243369#ref=rss)
+* [https://www.spiegel.de/politik/israel-julia-kloeckner-gazastreifen-unter-schutz-der-israelischen-armee](https://www.spiegel.de/politik/israel-julia-kloeckner-gazastreifen-unter-schutz-der-israelischen-armee-a-9824f317-0907-4d1f-bc3c-ab581d0bd2c3#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-wie-die-deutsche-bank-jahrelang-an-ihm-festhielt](https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-wie-die-deutsche-bank-jahrelang-an-ihm-festhielt-a-979c8e9a-dc4e-4fab-859c-4cb9a03a1dc8#ref=rss)
-### deutschen
+* [https://www.spiegel.de/panorama/leute/wim-wenders-erinnert-sich-an-baseballschlaeger-drohung-von-spike-lee](https://www.spiegel.de/panorama/leute/wim-wenders-erinnert-sich-an-baseballschlaeger-drohung-von-spike-lee-a-b3ef1979-aeab-4770-b619-b161bdbb1c3b#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-ukrainischer-skeletonpilot-wladyslaw-heraskewytsch-gegen-helmverbot-des-ioc](https://www.spiegel.de/sport/olympia/olympia-2026-ukrainischer-skeletonpilot-wladyslaw-heraskewytsch-gegen-helmverbot-des-ioc-a-20ba4c1b-464e-45cc-8648-03a692a314ce#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-guillaume-cizeron-holt-im-eistanz-zum-vierten-mal-gold-mit-der-vierten-partnerin](https://www.spiegel.de/sport/olympia/olympia-2026-guillaume-cizeron-holt-im-eistanz-zum-vierten-mal-gold-mit-der-vierten-partnerin-a-03b78787-e743-45fb-a11e-a92de8813ab3#ref=rss)
+### dortmund
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-wie-die-deutsche-bank-jahrelang-an-ihm-festhielt](https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-wie-die-deutsche-bank-jahrelang-an-ihm-festhielt-a-979c8e9a-dc4e-4fab-859c-4cb9a03a1dc8#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-leon-draisaitl-ueber-seinen-olympiatraum-und-deutsche-chancen](https://www.spiegel.de/sport/olympia/olympia-2026-leon-draisaitl-ueber-seinen-olympiatraum-und-deutsche-chancen-a-6c2eca50-5880-492b-a454-220d4ef7b08a#ref=rss)
-### hielt
+* [https://www.spiegel.de/panorama/justiz/dortmund-streit-ueber-lautes-telefonat-handynutzer-sticht-in-bahn-auf-mann-ein](https://www.spiegel.de/panorama/justiz/dortmund-streit-ueber-lautes-telefonat-handynutzer-sticht-in-bahn-auf-mann-ein-a-27d03203-e19b-4c3f-99c9-14f244b78236#ref=rss)
+### mann
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-wie-die-deutsche-bank-jahrelang-an-ihm-festhielt](https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-wie-die-deutsche-bank-jahrelang-an-ihm-festhielt-a-979c8e9a-dc4e-4fab-859c-4cb9a03a1dc8#ref=rss)
-### offenbar
+* [https://www.spiegel.de/panorama/justiz/dortmund-streit-ueber-lautes-telefonat-handynutzer-sticht-in-bahn-auf-mann-ein](https://www.spiegel.de/panorama/justiz/dortmund-streit-ueber-lautes-telefonat-handynutzer-sticht-in-bahn-auf-mann-ein-a-27d03203-e19b-4c3f-99c9-14f244b78236#ref=rss)
+### manuel
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-wie-die-deutsche-bank-jahrelang-an-ihm-festhielt](https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-wie-die-deutsche-bank-jahrelang-an-ihm-festhielt-a-979c8e9a-dc4e-4fab-859c-4cb9a03a1dc8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/britta-zur-ehemalige-db-fuehrungskraft-nutzte-offenbar-dienstwagen-bei-privatreise](https://www.spiegel.de/wirtschaft/britta-zur-ehemalige-db-fuehrungskraft-nutzte-offenbar-dienstwagen-bei-privatreise-a-1490f8b5-78d3-4e4b-97c1-b13b63022548#ref=rss)
-### mindestens
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-bekraeftigt-endgueltigen-abschied-aus-der-nationalmannschaft](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-bekraeftigt-endgueltigen-abschied-aus-der-nationalmannschaft-a-3adecffc-7f6b-440c-8879-6d79357d6b11#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-trauer-in-kanada-verraeterische-chats-in-benkos-reich-tesla-betriebsrat](https://www.spiegel.de/politik/deutschland/news-des-tages-trauer-in-kanada-verraeterische-chats-in-benkos-reich-tesla-betriebsrat-a-0b460a0f-e615-4469-9004-783587d09beb#ref=rss)
-* [https://www.spiegel.de/ausland/hat-yai-in-thailand-geiselnahme-an-schule-polizei-nimmt-mann-fest](https://www.spiegel.de/ausland/hat-yai-in-thailand-geiselnahme-an-schule-polizei-nimmt-mann-fest-a-75e15e6f-e678-4944-9754-d331ca59b317#ref=rss)
-### frau
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-bekraeftigt-endgueltigen-abschied-aus-der-nationalmannschaft](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-bekraeftigt-endgueltigen-abschied-aus-der-nationalmannschaft-a-3adecffc-7f6b-440c-8879-6d79357d6b11#ref=rss)
+### bekräftigt
 
-* [https://www.spiegel.de/panorama/mann-und-frau-mit-kinderwagen-voller-geldmuenzen-unterwegs](https://www.spiegel.de/panorama/mann-und-frau-mit-kinderwagen-voller-geldmuenzen-unterwegs-a-e81ad33d-b2e6-4749-84da-f7c02004f87e#ref=rss)
-### kinderwagen
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-bekraeftigt-endgueltigen-abschied-aus-der-nationalmannschaft](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-bekraeftigt-endgueltigen-abschied-aus-der-nationalmannschaft-a-3adecffc-7f6b-440c-8879-6d79357d6b11#ref=rss)
+### endgültigen
 
-* [https://www.spiegel.de/panorama/mann-und-frau-mit-kinderwagen-voller-geldmuenzen-unterwegs](https://www.spiegel.de/panorama/mann-und-frau-mit-kinderwagen-voller-geldmuenzen-unterwegs-a-e81ad33d-b2e6-4749-84da-f7c02004f87e#ref=rss)
-### politik
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-bekraeftigt-endgueltigen-abschied-aus-der-nationalmannschaft](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-bekraeftigt-endgueltigen-abschied-aus-der-nationalmannschaft-a-3adecffc-7f6b-440c-8879-6d79357d6b11#ref=rss)
+### abschied
 
-* [https://www.spiegel.de/start/muenchen-studentenstadt-verschimmelte-kuechen-broeckelnder-putz-wasserschaeden](https://www.spiegel.de/start/muenchen-studentenstadt-verschimmelte-kuechen-broeckelnder-putz-wasserschaeden-a-4ff9455e-7a31-407c-ab7d-65e654bc07d5#ref=rss)
-* [https://www.spiegel.de/start/arbeitszeit-debatte-mehr-ambitionen-bitte](https://www.spiegel.de/start/arbeitszeit-debatte-mehr-ambitionen-bitte-a-9729e3a0-188c-4f1b-a237-54a6a841dc66#ref=rss)
-### ole
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-bekraeftigt-endgueltigen-abschied-aus-der-nationalmannschaft](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-bekraeftigt-endgueltigen-abschied-aus-der-nationalmannschaft-a-3adecffc-7f6b-440c-8879-6d79357d6b11#ref=rss)
+### nationalmannschaft
 
-* [https://www.spiegel.de/kultur/ole-von-beust-zum-umgang-mit-der-afd-der-kampf-gegen-den-rechtsextremismus-interessiert-die-waehler-nur-noch-am-rande](https://www.spiegel.de/kultur/ole-von-beust-zum-umgang-mit-der-afd-der-kampf-gegen-den-rechtsextremismus-interessiert-die-waehler-nur-noch-am-rande-a-85e3b549-e390-4856-8dd5-dd0fa9f39acf#ref=rss)
-### beust
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-bekraeftigt-endgueltigen-abschied-aus-der-nationalmannschaft](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-bekraeftigt-endgueltigen-abschied-aus-der-nationalmannschaft-a-3adecffc-7f6b-440c-8879-6d79357d6b11#ref=rss)
+### afdverbotsverfahren
 
-* [https://www.spiegel.de/kultur/ole-von-beust-zum-umgang-mit-der-afd-der-kampf-gegen-den-rechtsextremismus-interessiert-die-waehler-nur-noch-am-rande](https://www.spiegel.de/kultur/ole-von-beust-zum-umgang-mit-der-afd-der-kampf-gegen-den-rechtsextremismus-interessiert-die-waehler-nur-noch-am-rande-a-85e3b549-e390-4856-8dd5-dd0fa9f39acf#ref=rss)
-### umgang
+* [https://www.spiegel.de/politik/afd-verbotsverfahren-holocaust-ueberlebende-draengen-auf-schnelles-handeln](https://www.spiegel.de/politik/afd-verbotsverfahren-holocaust-ueberlebende-draengen-auf-schnelles-handeln-a-8059d12d-520e-412c-a5d3-e22b79056737#ref=rss)
+### handeln
 
-* [https://www.spiegel.de/kultur/ole-von-beust-zum-umgang-mit-der-afd-der-kampf-gegen-den-rechtsextremismus-interessiert-die-waehler-nur-noch-am-rande](https://www.spiegel.de/kultur/ole-von-beust-zum-umgang-mit-der-afd-der-kampf-gegen-den-rechtsextremismus-interessiert-die-waehler-nur-noch-am-rande-a-85e3b549-e390-4856-8dd5-dd0fa9f39acf#ref=rss)
-### linke
+* [https://www.spiegel.de/politik/afd-verbotsverfahren-holocaust-ueberlebende-draengen-auf-schnelles-handeln](https://www.spiegel.de/politik/afd-verbotsverfahren-holocaust-ueberlebende-draengen-auf-schnelles-handeln-a-8059d12d-520e-412c-a5d3-e22b79056737#ref=rss)
+### natoostflanke
 
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast-a-99fde1bb-0ee6-431f-97e5-5db51389cd63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-a-aedb38d8-d2dc-435a-b45e-db7602cc4bbd#ref=rss)
-### zufallsmehrheit
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-freiwilligenmangel-fuer-litauen-brigade-an-der-nato-ostflanke](https://www.spiegel.de/politik/deutschland/bundeswehr-freiwilligenmangel-fuer-litauen-brigade-an-der-nato-ostflanke-a-a5a3ec01-2b54-46f0-b990-47a0fe24c497#ref=rss)
+### thomas
 
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast-a-99fde1bb-0ee6-431f-97e5-5db51389cd63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-a-aedb38d8-d2dc-435a-b45e-db7602cc4bbd#ref=rss)
-### gehört
+* [https://www.spiegel.de/sport/fussball/fussball-thomas-tuchel-fuehrt-england-zur-heim-em-2028](https://www.spiegel.de/sport/fussball/fussball-thomas-tuchel-fuehrt-england-zur-heim-em-2028-a-b0298d21-68fc-4166-a943-899f858a121c#ref=rss)
+### england
 
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast-a-99fde1bb-0ee6-431f-97e5-5db51389cd63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-a-aedb38d8-d2dc-435a-b45e-db7602cc4bbd#ref=rss)
-### dna
+* [https://www.spiegel.de/sport/fussball/fussball-thomas-tuchel-fuehrt-england-zur-heim-em-2028](https://www.spiegel.de/sport/fussball/fussball-thomas-tuchel-fuehrt-england-zur-heim-em-2028-a-b0298d21-68fc-4166-a943-899f858a121c#ref=rss)
+### heimem
 
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast-a-99fde1bb-0ee6-431f-97e5-5db51389cd63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-a-aedb38d8-d2dc-435a-b45e-db7602cc4bbd#ref=rss)
-### linken
+* [https://www.spiegel.de/sport/fussball/fussball-thomas-tuchel-fuehrt-england-zur-heim-em-2028](https://www.spiegel.de/sport/fussball/fussball-thomas-tuchel-fuehrt-england-zur-heim-em-2028-a-b0298d21-68fc-4166-a943-899f858a121c#ref=rss)
+### 2028
 
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast-a-99fde1bb-0ee6-431f-97e5-5db51389cd63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-a-aedb38d8-d2dc-435a-b45e-db7602cc4bbd#ref=rss)
-### mehrheit
+* [https://www.spiegel.de/sport/fussball/fussball-thomas-tuchel-fuehrt-england-zur-heim-em-2028](https://www.spiegel.de/sport/fussball/fussball-thomas-tuchel-fuehrt-england-zur-heim-em-2028-a-b0298d21-68fc-4166-a943-899f858a121c#ref=rss)
+### klar
 
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast-a-99fde1bb-0ee6-431f-97e5-5db51389cd63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-a-aedb38d8-d2dc-435a-b45e-db7602cc4bbd#ref=rss)
-### gebildet
+* [https://www.spiegel.de/sport/fussball/fussball-thomas-tuchel-fuehrt-england-zur-heim-em-2028](https://www.spiegel.de/sport/fussball/fussball-thomas-tuchel-fuehrt-england-zur-heim-em-2028-a-b0298d21-68fc-4166-a943-899f858a121c#ref=rss)
+### kyjiw
 
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast-a-99fde1bb-0ee6-431f-97e5-5db51389cd63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-a-aedb38d8-d2dc-435a-b45e-db7602cc4bbd#ref=rss)
-### partei
+* [https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-greift-ziele-in-russland-an](https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-greift-ziele-in-russland-an-a-e5025064-56df-4556-afe3-75677904f235#ref=rss)
+### ziele
 
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast-a-99fde1bb-0ee6-431f-97e5-5db51389cd63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-a-aedb38d8-d2dc-435a-b45e-db7602cc4bbd#ref=rss)
-### vorwurf
+* [https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-greift-ziele-in-russland-an](https://www.spiegel.de/ausland/ukraine-krieg-kyjiw-greift-ziele-in-russland-an-a-e5025064-56df-4556-afe3-75677904f235#ref=rss)
+### cola
 
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast-a-99fde1bb-0ee6-431f-97e5-5db51389cd63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-a-aedb38d8-d2dc-435a-b45e-db7602cc4bbd#ref=rss)
-### reagiert
+* [https://www.spiegel.de/wirtschaft/service/zucker-deutschland-produziert-93-liter-an-cola-limo-und-co-pro-kopf](https://www.spiegel.de/wirtschaft/service/zucker-deutschland-produziert-93-liter-an-cola-limo-und-co-pro-kopf-a-313de422-32be-4eb9-8f60-a6574d1a5de4#ref=rss)
+### weiberfastnacht
 
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast-a-99fde1bb-0ee6-431f-97e5-5db51389cd63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-a-aedb38d8-d2dc-435a-b45e-db7602cc4bbd#ref=rss)
-### zukommt
+* [https://www.spiegel.de/panorama/gesellschaft/karneval-quiz-wie-gut-kennen-sie-sich-mit-der-weiberfastnacht-aus](https://www.spiegel.de/panorama/gesellschaft/karneval-quiz-wie-gut-kennen-sie-sich-mit-der-weiberfastnacht-aus-a-565ee3cf-48d3-4e2f-ad18-8a3973fa7a91#ref=rss)
+### begonnen
 
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-podcast-a-99fde1bb-0ee6-431f-97e5-5db51389cd63#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral](https://www.spiegel.de/politik/deutschland/linke-und-afd-in-thueringen-zufallsmehrheit-oder-doppelmoral-a-aedb38d8-d2dc-435a-b45e-db7602cc4bbd#ref=rss)
-### helm
+* [https://www.spiegel.de/panorama/gesellschaft/karneval-quiz-wie-gut-kennen-sie-sich-mit-der-weiberfastnacht-aus](https://www.spiegel.de/panorama/gesellschaft/karneval-quiz-wie-gut-kennen-sie-sich-mit-der-weiberfastnacht-aus-a-565ee3cf-48d3-4e2f-ad18-8a3973fa7a91#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/lufthansa-crews-haben-streik-begonnen](https://www.spiegel.de/wirtschaft/service/lufthansa-crews-haben-streik-begonnen-a-cfbc54c2-db10-41da-aad8-9e0cd11e7bab#ref=rss)
+### wahlrecht
 
-* [https://www.spiegel.de/sport/olympia/olympia-2026-streit-ueber-helm-von-skeleton-fahrer-aus-der-ukraine](https://www.spiegel.de/sport/olympia/olympia-2026-streit-ueber-helm-von-skeleton-fahrer-aus-der-ukraine-a-68e74c8f-74c4-484c-be3a-e32d9e9ddffb#ref=rss)
-### wuthering
+* [https://www.spiegel.de/politik/deutschland/wahlrecht-die-kampfansage-der-spd-frauen](https://www.spiegel.de/politik/deutschland/wahlrecht-die-kampfansage-der-spd-frauen-a-241ed4d6-6ede-4b1c-bac7-2d467d91e066#ref=rss)
+### bringen
 
-* [https://www.spiegel.de/kultur/wuthering-heights-sturmhoehe-diese-film-oper-fuehrt-ins-bett-nicht-in-die-katastrophe](https://www.spiegel.de/kultur/wuthering-heights-sturmhoehe-diese-film-oper-fuehrt-ins-bett-nicht-in-die-katastrophe-a-2661c831-25dc-4af1-a6db-b1cd689a83e0#ref=rss)
-### heights
+* [https://www.spiegel.de/politik/deutschland/wahlrecht-die-kampfansage-der-spd-frauen](https://www.spiegel.de/politik/deutschland/wahlrecht-die-kampfansage-der-spd-frauen-a-241ed4d6-6ede-4b1c-bac7-2d467d91e066#ref=rss)
+* [https://www.spiegel.de/politik/bundesverfassungsgericht-nimmt-klage-gegen-ruestungsexporte-nach-israel-nicht-an](https://www.spiegel.de/politik/bundesverfassungsgericht-nimmt-klage-gegen-ruestungsexporte-nach-israel-nicht-an-a-e655b26c-dee0-4bac-9e62-70085a243369#ref=rss)
+### spanien
 
-* [https://www.spiegel.de/kultur/wuthering-heights-sturmhoehe-diese-film-oper-fuehrt-ins-bett-nicht-in-die-katastrophe](https://www.spiegel.de/kultur/wuthering-heights-sturmhoehe-diese-film-oper-fuehrt-ins-bett-nicht-in-die-katastrophe-a-2661c831-25dc-4af1-a6db-b1cd689a83e0#ref=rss)
-### sturmhöhe
+* [https://www.spiegel.de/panorama/frankreich-spanien-portugal-alarmstufe-rot-wegen-sturmtief-nils](https://www.spiegel.de/panorama/frankreich-spanien-portugal-alarmstufe-rot-wegen-sturmtief-nils-a-06dee10f-82d6-438e-83eb-d85c291d84be#ref=rss)
+### portugal
 
-* [https://www.spiegel.de/kultur/wuthering-heights-sturmhoehe-diese-film-oper-fuehrt-ins-bett-nicht-in-die-katastrophe](https://www.spiegel.de/kultur/wuthering-heights-sturmhoehe-diese-film-oper-fuehrt-ins-bett-nicht-in-die-katastrophe-a-2661c831-25dc-4af1-a6db-b1cd689a83e0#ref=rss)
-### trumps
+* [https://www.spiegel.de/panorama/frankreich-spanien-portugal-alarmstufe-rot-wegen-sturmtief-nils](https://www.spiegel.de/panorama/frankreich-spanien-portugal-alarmstufe-rot-wegen-sturmtief-nils-a-06dee10f-82d6-438e-83eb-d85c291d84be#ref=rss)
+### höchste
 
-* [https://www.spiegel.de/ausland/epstein-akten-trumps-ministerin-bondi-im-kreuzverhoer-der-abgeordneten](https://www.spiegel.de/ausland/epstein-akten-trumps-ministerin-bondi-im-kreuzverhoer-der-abgeordneten-a-9224d521-941d-4602-9935-c5d34385ba32#ref=rss)
-### bondi
+* [https://www.spiegel.de/panorama/frankreich-spanien-portugal-alarmstufe-rot-wegen-sturmtief-nils](https://www.spiegel.de/panorama/frankreich-spanien-portugal-alarmstufe-rot-wegen-sturmtief-nils-a-06dee10f-82d6-438e-83eb-d85c291d84be#ref=rss)
+* [https://www.spiegel.de/politik/bundesverfassungsgericht-nimmt-klage-gegen-ruestungsexporte-nach-israel-nicht-an](https://www.spiegel.de/politik/bundesverfassungsgericht-nimmt-klage-gegen-ruestungsexporte-nach-israel-nicht-an-a-e655b26c-dee0-4bac-9e62-70085a243369#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/ausland/epstein-akten-trumps-ministerin-bondi-im-kreuzverhoer-der-abgeordneten](https://www.spiegel.de/ausland/epstein-akten-trumps-ministerin-bondi-im-kreuzverhoer-der-abgeordneten-a-9224d521-941d-4602-9935-c5d34385ba32#ref=rss)
-### gutes
+* [https://www.spiegel.de/panorama/frankreich-spanien-portugal-alarmstufe-rot-wegen-sturmtief-nils](https://www.spiegel.de/panorama/frankreich-spanien-portugal-alarmstufe-rot-wegen-sturmtief-nils-a-06dee10f-82d6-438e-83eb-d85c291d84be#ref=rss)
+* [https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude](https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude-a-acbeea52-cb95-4444-9105-c41487f049d9#ref=rss)
+### exregierungschefin
 
-* [https://www.spiegel.de/start/arbeitszeit-debatte-mehr-ambitionen-bitte](https://www.spiegel.de/start/arbeitszeit-debatte-mehr-ambitionen-bitte-a-9729e3a0-188c-4f1b-a237-54a6a841dc66#ref=rss)
-### thailand
+* [https://www.spiegel.de/politik/angela-merkel-ex-regierungschefin-dementiert-kandidatur-als-bundespraesidentin-energisch](https://www.spiegel.de/politik/angela-merkel-ex-regierungschefin-dementiert-kandidatur-als-bundespraesidentin-energisch-a-55539f8f-90ab-4c1d-a05c-de5da7d0d7f5#ref=rss)
+### allerdings
 
-* [https://www.spiegel.de/ausland/hat-yai-in-thailand-geiselnahme-an-schule-polizei-nimmt-mann-fest](https://www.spiegel.de/ausland/hat-yai-in-thailand-geiselnahme-an-schule-polizei-nimmt-mann-fest-a-75e15e6f-e678-4944-9754-d331ca59b317#ref=rss)
-### schule
+* [https://www.spiegel.de/politik/angela-merkel-ex-regierungschefin-dementiert-kandidatur-als-bundespraesidentin-energisch](https://www.spiegel.de/politik/angela-merkel-ex-regierungschefin-dementiert-kandidatur-als-bundespraesidentin-energisch-a-55539f8f-90ab-4c1d-a05c-de5da7d0d7f5#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-guillaume-cizeron-holt-im-eistanz-zum-vierten-mal-gold-mit-der-vierten-partnerin](https://www.spiegel.de/sport/olympia/olympia-2026-guillaume-cizeron-holt-im-eistanz-zum-vierten-mal-gold-mit-der-vierten-partnerin-a-03b78787-e743-45fb-a11e-a92de8813ab3#ref=rss)
+### bud
 
-* [https://www.spiegel.de/ausland/hat-yai-in-thailand-geiselnahme-an-schule-polizei-nimmt-mann-fest](https://www.spiegel.de/ausland/hat-yai-in-thailand-geiselnahme-an-schule-polizei-nimmt-mann-fest-a-75e15e6f-e678-4944-9754-d331ca59b317#ref=rss)
-### polizei
+* [https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude](https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude-a-acbeea52-cb95-4444-9105-c41487f049d9#ref=rss)
+### cort
 
-* [https://www.spiegel.de/ausland/hat-yai-in-thailand-geiselnahme-an-schule-polizei-nimmt-mann-fest](https://www.spiegel.de/ausland/hat-yai-in-thailand-geiselnahme-an-schule-polizei-nimmt-mann-fest-a-75e15e6f-e678-4944-9754-d331ca59b317#ref=rss)
-### fallzahlen
+* [https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude](https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude-a-acbeea52-cb95-4444-9105-c41487f049d9#ref=rss)
+### spielte
 
-* [https://www.spiegel.de/gesundheit/diagnose/masern-fallzahlen-in-europa-und-zentralasien-stark-gesunken-aber-who-bleibt-besorgt](https://www.spiegel.de/gesundheit/diagnose/masern-fallzahlen-in-europa-und-zentralasien-stark-gesunken-aber-who-bleibt-besorgt-a-64262205-f60c-46bc-8e07-b6ea51629a68#ref=rss)
-### gefallen
+* [https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude](https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude-a-acbeea52-cb95-4444-9105-c41487f049d9#ref=rss)
+### maude
 
-* [https://www.spiegel.de/gesundheit/diagnose/masern-fallzahlen-in-europa-und-zentralasien-stark-gesunken-aber-who-bleibt-besorgt](https://www.spiegel.de/gesundheit/diagnose/masern-fallzahlen-in-europa-und-zentralasien-stark-gesunken-aber-who-bleibt-besorgt-a-64262205-f60c-46bc-8e07-b6ea51629a68#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-tuerkische-filmagentin-ayse-barim-zu-langer-jahren-haft-verurteilt](https://www.spiegel.de/ausland/tuerkei-tuerkische-filmagentin-ayse-barim-zu-langer-jahren-haft-verurteilt-a-d1e066f9-e9d1-4e8e-ac36-115f150ea89f#ref=rss)
-### leon
+* [https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude](https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude-a-acbeea52-cb95-4444-9105-c41487f049d9#ref=rss)
+### rolle
 
-* [https://www.spiegel.de/sport/olympia/olympia-2026-leon-draisaitl-ueber-seinen-olympiatraum-und-deutsche-chancen](https://www.spiegel.de/sport/olympia/olympia-2026-leon-draisaitl-ueber-seinen-olympiatraum-und-deutsche-chancen-a-6c2eca50-5880-492b-a454-220d4ef7b08a#ref=rss)
-### draisaitl
+* [https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude](https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude-a-acbeea52-cb95-4444-9105-c41487f049d9#ref=rss)
+* [https://www.spiegel.de/kultur/zum-tode-von-james-van-der-beek-das-serienfinale-einer-generation](https://www.spiegel.de/kultur/zum-tode-von-james-van-der-beek-das-serienfinale-einer-generation-a-70e8da9c-b90b-43f2-a5b3-3f5980e93462#ref=rss)
+### seines
 
-* [https://www.spiegel.de/sport/olympia/olympia-2026-leon-draisaitl-ueber-seinen-olympiatraum-und-deutsche-chancen](https://www.spiegel.de/sport/olympia/olympia-2026-leon-draisaitl-ueber-seinen-olympiatraum-und-deutsche-chancen-a-6c2eca50-5880-492b-a454-220d4ef7b08a#ref=rss)
-### chancen
+* [https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude](https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude-a-acbeea52-cb95-4444-9105-c41487f049d9#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-ukrainischer-skeletonpilot-wladyslaw-heraskewytsch-gegen-helmverbot-des-ioc](https://www.spiegel.de/sport/olympia/olympia-2026-ukrainischer-skeletonpilot-wladyslaw-heraskewytsch-gegen-helmverbot-des-ioc-a-20ba4c1b-464e-45cc-8648-03a692a314ce#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/sport/olympia/olympia-2026-leon-draisaitl-ueber-seinen-olympiatraum-und-deutsche-chancen](https://www.spiegel.de/sport/olympia/olympia-2026-leon-draisaitl-ueber-seinen-olympiatraum-und-deutsche-chancen-a-6c2eca50-5880-492b-a454-220d4ef7b08a#ref=rss)
-### bmw
+* [https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude](https://www.spiegel.de/kultur/kino/bud-cort-ist-tot-er-spielte-den-harold-in-harold-und-maude-a-acbeea52-cb95-4444-9105-c41487f049d9#ref=rss)
+* [https://www.spiegel.de/kultur/filme-aus-iran-in-deutschland-das-bordell-als-mikrokosmos-der-gesellschaft](https://www.spiegel.de/kultur/filme-aus-iran-in-deutschland-das-bordell-als-mikrokosmos-der-gesellschaft-a-c9c8c9c6-9ae3-4653-a50f-71677351d15c#ref=rss)
+### superg
 
-* [https://www.spiegel.de/auto/bmw-ruft-hunderttausende-autos-wegen-brandgefahr-zurueck](https://www.spiegel.de/auto/bmw-ruft-hunderttausende-autos-wegen-brandgefahr-zurueck-a-540a34d7-4ee9-43bd-a4c7-447e137e6ec0#ref=rss)
-### autos
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-ukrainischer-skeletoni-wegen-gedenk-helms-offenbar-disqualifiziert](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-ukrainischer-skeletoni-wegen-gedenk-helms-offenbar-disqualifiziert-a-10c733b0-f56f-4e57-b2eb-554d3d40b6be#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/auto/bmw-ruft-hunderttausende-autos-wegen-brandgefahr-zurueck](https://www.spiegel.de/auto/bmw-ruft-hunderttausende-autos-wegen-brandgefahr-zurueck-a-540a34d7-4ee9-43bd-a4c7-447e137e6ec0#ref=rss)
-### europäer
+* [https://www.spiegel.de/politik/bundesverfassungsgericht-nimmt-klage-gegen-ruestungsexporte-nach-israel-nicht-an](https://www.spiegel.de/politik/bundesverfassungsgericht-nimmt-klage-gegen-ruestungsexporte-nach-israel-nicht-an-a-e655b26c-dee0-4bac-9e62-70085a243369#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-12-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-12-februar-an-a-81bbfe71-cb73-4afd-ab7f-34aeebf248eb#ref=rss)
+### julia
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-europaeer-fangen-us-ausfall-bei-ukrainehilfen-mit-vielen-milliarden-auf](https://www.spiegel.de/ausland/ukraine-krieg-europaeer-fangen-us-ausfall-bei-ukrainehilfen-mit-vielen-milliarden-auf-a-07398ff5-e9b3-45dc-a662-2134fd3da5ca#ref=rss)
-### türkei
+* [https://www.spiegel.de/politik/israel-julia-kloeckner-gazastreifen-unter-schutz-der-israelischen-armee](https://www.spiegel.de/politik/israel-julia-kloeckner-gazastreifen-unter-schutz-der-israelischen-armee-a-9824f317-0907-4d1f-bc3c-ab581d0bd2c3#ref=rss)
+### klöckner
 
-* [https://www.spiegel.de/ausland/tuerkei-tuerkische-filmagentin-ayse-barim-zu-langer-jahren-haft-verurteilt](https://www.spiegel.de/ausland/tuerkei-tuerkische-filmagentin-ayse-barim-zu-langer-jahren-haft-verurteilt-a-d1e066f9-e9d1-4e8e-ac36-115f150ea89f#ref=rss)
-### filmagentin
+* [https://www.spiegel.de/politik/israel-julia-kloeckner-gazastreifen-unter-schutz-der-israelischen-armee](https://www.spiegel.de/politik/israel-julia-kloeckner-gazastreifen-unter-schutz-der-israelischen-armee-a-9824f317-0907-4d1f-bc3c-ab581d0bd2c3#ref=rss)
+### gazastreifen
 
-* [https://www.spiegel.de/ausland/tuerkei-tuerkische-filmagentin-ayse-barim-zu-langer-jahren-haft-verurteilt](https://www.spiegel.de/ausland/tuerkei-tuerkische-filmagentin-ayse-barim-zu-langer-jahren-haft-verurteilt-a-d1e066f9-e9d1-4e8e-ac36-115f150ea89f#ref=rss)
-### ayşe
+* [https://www.spiegel.de/politik/israel-julia-kloeckner-gazastreifen-unter-schutz-der-israelischen-armee](https://www.spiegel.de/politik/israel-julia-kloeckner-gazastreifen-unter-schutz-der-israelischen-armee-a-9824f317-0907-4d1f-bc3c-ab581d0bd2c3#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/tuerkei-tuerkische-filmagentin-ayse-barim-zu-langer-jahren-haft-verurteilt](https://www.spiegel.de/ausland/tuerkei-tuerkische-filmagentin-ayse-barim-zu-langer-jahren-haft-verurteilt-a-d1e066f9-e9d1-4e8e-ac36-115f150ea89f#ref=rss)
-### barım
+* [https://www.spiegel.de/politik/israel-julia-kloeckner-gazastreifen-unter-schutz-der-israelischen-armee](https://www.spiegel.de/politik/israel-julia-kloeckner-gazastreifen-unter-schutz-der-israelischen-armee-a-9824f317-0907-4d1f-bc3c-ab581d0bd2c3#ref=rss)
+### system
 
-* [https://www.spiegel.de/ausland/tuerkei-tuerkische-filmagentin-ayse-barim-zu-langer-jahren-haft-verurteilt](https://www.spiegel.de/ausland/tuerkei-tuerkische-filmagentin-ayse-barim-zu-langer-jahren-haft-verurteilt-a-d1e066f9-e9d1-4e8e-ac36-115f150ea89f#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/kultur/jeffrey-epstein-und-die-folgen-das-gesamte-demokratische-system-steht-infrage](https://www.spiegel.de/kultur/jeffrey-epstein-und-die-folgen-das-gesamte-demokratische-system-steht-infrage-a-93c49988-e92a-42d3-a6d8-f7f789043cb8#ref=rss)
+### infrage
 
-* [https://www.spiegel.de/ausland/tuerkei-tuerkische-filmagentin-ayse-barim-zu-langer-jahren-haft-verurteilt](https://www.spiegel.de/ausland/tuerkei-tuerkische-filmagentin-ayse-barim-zu-langer-jahren-haft-verurteilt-a-d1e066f9-e9d1-4e8e-ac36-115f150ea89f#ref=rss)
-### özdemir
+* [https://www.spiegel.de/kultur/jeffrey-epstein-und-die-folgen-das-gesamte-demokratische-system-steht-infrage](https://www.spiegel.de/kultur/jeffrey-epstein-und-die-folgen-das-gesamte-demokratische-system-steht-infrage-a-93c49988-e92a-42d3-a6d8-f7f789043cb8#ref=rss)
+### elite
 
-* [https://www.spiegel.de/panorama/leute/tuebingen-cem-oezdemir-will-mitten-im-wahlkampf-heiraten](https://www.spiegel.de/panorama/leute/tuebingen-cem-oezdemir-will-mitten-im-wahlkampf-heiraten-a-dd924b17-f534-4422-8935-e4e033c1f512#ref=rss)
-### heiraten
+* [https://www.spiegel.de/kultur/jeffrey-epstein-und-die-folgen-das-gesamte-demokratische-system-steht-infrage](https://www.spiegel.de/kultur/jeffrey-epstein-und-die-folgen-das-gesamte-demokratische-system-steht-infrage-a-93c49988-e92a-42d3-a6d8-f7f789043cb8#ref=rss)
+### alles
 
-* [https://www.spiegel.de/panorama/leute/tuebingen-cem-oezdemir-will-mitten-im-wahlkampf-heiraten](https://www.spiegel.de/panorama/leute/tuebingen-cem-oezdemir-will-mitten-im-wahlkampf-heiraten-a-dd924b17-f534-4422-8935-e4e033c1f512#ref=rss)
+* [https://www.spiegel.de/kultur/jeffrey-epstein-und-die-folgen-das-gesamte-demokratische-system-steht-infrage](https://www.spiegel.de/kultur/jeffrey-epstein-und-die-folgen-das-gesamte-demokratische-system-steht-infrage-a-93c49988-e92a-42d3-a6d8-f7f789043cb8#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-12-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-12-februar-an-a-81bbfe71-cb73-4afd-ab7f-34aeebf248eb#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/start/kirchensterben-zahl-der-theologiestudierenden-hat-sich-in-sechs-jahren-halbiert](https://www.spiegel.de/start/kirchensterben-zahl-der-theologiestudierenden-hat-sich-in-sechs-jahren-halbiert-a-66ff2163-ddae-4ecd-b688-9f98804370c7#ref=rss)
+### theologiestudierenden
+
+* [https://www.spiegel.de/start/kirchensterben-zahl-der-theologiestudierenden-hat-sich-in-sechs-jahren-halbiert](https://www.spiegel.de/start/kirchensterben-zahl-der-theologiestudierenden-hat-sich-in-sechs-jahren-halbiert-a-66ff2163-ddae-4ecd-b688-9f98804370c7#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/start/kirchensterben-zahl-der-theologiestudierenden-hat-sich-in-sechs-jahren-halbiert](https://www.spiegel.de/start/kirchensterben-zahl-der-theologiestudierenden-hat-sich-in-sechs-jahren-halbiert-a-66ff2163-ddae-4ecd-b688-9f98804370c7#ref=rss)
+### eingebrochen
+
+* [https://www.spiegel.de/start/kirchensterben-zahl-der-theologiestudierenden-hat-sich-in-sechs-jahren-halbiert](https://www.spiegel.de/start/kirchensterben-zahl-der-theologiestudierenden-hat-sich-in-sechs-jahren-halbiert-a-66ff2163-ddae-4ecd-b688-9f98804370c7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-gewinn-2025-um-knapp-die-haelfte-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-gewinn-2025-um-knapp-die-haelfte-eingebrochen-a-739bc2c8-f71d-4b37-ab54-4f3e2011c14d#ref=rss)
+### angelina
+
+* [https://www.spiegel.de/kultur/kino/angelina-jolie-us-schauspielerin-spricht-ueber-op-narben-und-spielt-an-brustkrebs-erkrankte-in-neuem-film](https://www.spiegel.de/kultur/kino/angelina-jolie-us-schauspielerin-spricht-ueber-op-narben-und-spielt-an-brustkrebs-erkrankte-in-neuem-film-a-b6d857f8-ded4-45e0-9153-6ae635facace#ref=rss)
+### jolie
+
+* [https://www.spiegel.de/kultur/kino/angelina-jolie-us-schauspielerin-spricht-ueber-op-narben-und-spielt-an-brustkrebs-erkrankte-in-neuem-film](https://www.spiegel.de/kultur/kino/angelina-jolie-us-schauspielerin-spricht-ueber-op-narben-und-spielt-an-brustkrebs-erkrankte-in-neuem-film-a-b6d857f8-ded4-45e0-9153-6ae635facace#ref=rss)
+### spielt
+
+* [https://www.spiegel.de/kultur/kino/angelina-jolie-us-schauspielerin-spricht-ueber-op-narben-und-spielt-an-brustkrebs-erkrankte-in-neuem-film](https://www.spiegel.de/kultur/kino/angelina-jolie-us-schauspielerin-spricht-ueber-op-narben-und-spielt-an-brustkrebs-erkrankte-in-neuem-film-a-b6d857f8-ded4-45e0-9153-6ae635facace#ref=rss)
+### brustkrebs
+
+* [https://www.spiegel.de/kultur/kino/angelina-jolie-us-schauspielerin-spricht-ueber-op-narben-und-spielt-an-brustkrebs-erkrankte-in-neuem-film](https://www.spiegel.de/kultur/kino/angelina-jolie-us-schauspielerin-spricht-ueber-op-narben-und-spielt-an-brustkrebs-erkrankte-in-neuem-film-a-b6d857f8-ded4-45e0-9153-6ae635facace#ref=rss)
+### film
+
+* [https://www.spiegel.de/kultur/kino/angelina-jolie-us-schauspielerin-spricht-ueber-op-narben-und-spielt-an-brustkrebs-erkrankte-in-neuem-film](https://www.spiegel.de/kultur/kino/angelina-jolie-us-schauspielerin-spricht-ueber-op-narben-und-spielt-an-brustkrebs-erkrankte-in-neuem-film-a-b6d857f8-ded4-45e0-9153-6ae635facace#ref=rss)
+### wim
+
+* [https://www.spiegel.de/panorama/leute/wim-wenders-erinnert-sich-an-baseballschlaeger-drohung-von-spike-lee](https://www.spiegel.de/panorama/leute/wim-wenders-erinnert-sich-an-baseballschlaeger-drohung-von-spike-lee-a-b3ef1979-aeab-4770-b619-b161bdbb1c3b#ref=rss)
+### wenders
+
+* [https://www.spiegel.de/panorama/leute/wim-wenders-erinnert-sich-an-baseballschlaeger-drohung-von-spike-lee](https://www.spiegel.de/panorama/leute/wim-wenders-erinnert-sich-an-baseballschlaeger-drohung-von-spike-lee-a-b3ef1979-aeab-4770-b619-b161bdbb1c3b#ref=rss)
+### entscheidungen
+
+* [https://www.spiegel.de/panorama/leute/wim-wenders-erinnert-sich-an-baseballschlaeger-drohung-von-spike-lee](https://www.spiegel.de/panorama/leute/wim-wenders-erinnert-sich-an-baseballschlaeger-drohung-von-spike-lee-a-b3ef1979-aeab-4770-b619-b161bdbb1c3b#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-12-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-12-februar-an-a-81bbfe71-cb73-4afd-ab7f-34aeebf248eb#ref=rss)
+### oft
+
+* [https://www.spiegel.de/panorama/leute/wim-wenders-erinnert-sich-an-baseballschlaeger-drohung-von-spike-lee](https://www.spiegel.de/panorama/leute/wim-wenders-erinnert-sich-an-baseballschlaeger-drohung-von-spike-lee-a-b3ef1979-aeab-4770-b619-b161bdbb1c3b#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-ukrainischer-skeletonpilot-wladyslaw-heraskewytsch-gegen-helmverbot-des-ioc](https://www.spiegel.de/sport/olympia/olympia-2026-ukrainischer-skeletonpilot-wladyslaw-heraskewytsch-gegen-helmverbot-des-ioc-a-20ba4c1b-464e-45cc-8648-03a692a314ce#ref=rss)
+### skeletonpilot
+
+* [https://www.spiegel.de/sport/olympia/olympia-2026-ukrainischer-skeletonpilot-wladyslaw-heraskewytsch-gegen-helmverbot-des-ioc](https://www.spiegel.de/sport/olympia/olympia-2026-ukrainischer-skeletonpilot-wladyslaw-heraskewytsch-gegen-helmverbot-des-ioc-a-20ba4c1b-464e-45cc-8648-03a692a314ce#ref=rss)
+### ioc
+
+* [https://www.spiegel.de/sport/olympia/olympia-2026-ukrainischer-skeletonpilot-wladyslaw-heraskewytsch-gegen-helmverbot-des-ioc](https://www.spiegel.de/sport/olympia/olympia-2026-ukrainischer-skeletonpilot-wladyslaw-heraskewytsch-gegen-helmverbot-des-ioc-a-20ba4c1b-464e-45cc-8648-03a692a314ce#ref=rss)
+### fleisch
+
+* [https://www.spiegel.de/wirtschaft/service/ernaehrung-frankreich-ruft-zu-weniger-fleisch-und-wurstkonsum-auf](https://www.spiegel.de/wirtschaft/service/ernaehrung-frankreich-ruft-zu-weniger-fleisch-und-wurstkonsum-auf-a-c46b6d11-2f3c-48d6-9079-945dee32288b#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/wirtschaft/service/ernaehrung-frankreich-ruft-zu-weniger-fleisch-und-wurstkonsum-auf](https://www.spiegel.de/wirtschaft/service/ernaehrung-frankreich-ruft-zu-weniger-fleisch-und-wurstkonsum-auf-a-c46b6d11-2f3c-48d6-9079-945dee32288b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/lufthansa-crews-haben-streik-begonnen](https://www.spiegel.de/wirtschaft/service/lufthansa-crews-haben-streik-begonnen-a-cfbc54c2-db10-41da-aad8-9e0cd11e7bab#ref=rss)
+### guillaume
+
+* [https://www.spiegel.de/sport/olympia/olympia-2026-guillaume-cizeron-holt-im-eistanz-zum-vierten-mal-gold-mit-der-vierten-partnerin](https://www.spiegel.de/sport/olympia/olympia-2026-guillaume-cizeron-holt-im-eistanz-zum-vierten-mal-gold-mit-der-vierten-partnerin-a-03b78787-e743-45fb-a11e-a92de8813ab3#ref=rss)
+### cizeron
+
+* [https://www.spiegel.de/sport/olympia/olympia-2026-guillaume-cizeron-holt-im-eistanz-zum-vierten-mal-gold-mit-der-vierten-partnerin](https://www.spiegel.de/sport/olympia/olympia-2026-guillaume-cizeron-holt-im-eistanz-zum-vierten-mal-gold-mit-der-vierten-partnerin-a-03b78787-e743-45fb-a11e-a92de8813ab3#ref=rss)
+### tod
+
+* [https://www.spiegel.de/kultur/filme-aus-iran-in-deutschland-das-bordell-als-mikrokosmos-der-gesellschaft](https://www.spiegel.de/kultur/filme-aus-iran-in-deutschland-das-bordell-als-mikrokosmos-der-gesellschaft-a-c9c8c9c6-9ae3-4653-a50f-71677351d15c#ref=rss)
+* [https://www.spiegel.de/kultur/zum-tode-von-james-van-der-beek-das-serienfinale-einer-generation](https://www.spiegel.de/kultur/zum-tode-von-james-van-der-beek-das-serienfinale-einer-generation-a-70e8da9c-b90b-43f2-a5b3-3f5980e93462#ref=rss)
+### generation
+
+* [https://www.spiegel.de/kultur/filme-aus-iran-in-deutschland-das-bordell-als-mikrokosmos-der-gesellschaft](https://www.spiegel.de/kultur/filme-aus-iran-in-deutschland-das-bordell-als-mikrokosmos-der-gesellschaft-a-c9c8c9c6-9ae3-4653-a50f-71677351d15c#ref=rss)
+* [https://www.spiegel.de/kultur/zum-tode-von-james-van-der-beek-das-serienfinale-einer-generation](https://www.spiegel.de/kultur/zum-tode-von-james-van-der-beek-das-serienfinale-einer-generation-a-70e8da9c-b90b-43f2-a5b3-3f5980e93462#ref=rss)
+### knoblauch
+
+* [https://www.spiegel.de/wissenschaft/medizin-senkt-knoblauch-den-blutdruck](https://www.spiegel.de/wissenschaft/medizin-senkt-knoblauch-den-blutdruck-a-b9107aa3-373d-445e-8c6d-c90edb3bd23a#ref=rss)
+### gewinn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mercedes-gewinn-2025-um-knapp-die-haelfte-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/mercedes-gewinn-2025-um-knapp-die-haelfte-eingebrochen-a-739bc2c8-f71d-4b37-ab54-4f3e2011c14d#ref=rss)
+### gil
+
+* [https://www.spiegel.de/panorama/leute/gil-ofarim-aergert-sich-nach-dschungelcamp-ueber-seine-aeusserungen-zum-prozess](https://www.spiegel.de/panorama/leute/gil-ofarim-aergert-sich-nach-dschungelcamp-ueber-seine-aeusserungen-zum-prozess-a-bc973523-d167-4b55-a70b-c03eacce89ab#ref=rss)
+### ofarim
+
+* [https://www.spiegel.de/panorama/leute/gil-ofarim-aergert-sich-nach-dschungelcamp-ueber-seine-aeusserungen-zum-prozess](https://www.spiegel.de/panorama/leute/gil-ofarim-aergert-sich-nach-dschungelcamp-ueber-seine-aeusserungen-zum-prozess-a-bc973523-d167-4b55-a70b-c03eacce89ab#ref=rss)
+### prozess
+
+* [https://www.spiegel.de/panorama/leute/gil-ofarim-aergert-sich-nach-dschungelcamp-ueber-seine-aeusserungen-zum-prozess](https://www.spiegel.de/panorama/leute/gil-ofarim-aergert-sich-nach-dschungelcamp-ueber-seine-aeusserungen-zum-prozess-a-bc973523-d167-4b55-a70b-c03eacce89ab#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/politik/ukraine-wolodymyr-selenskyj-fordert-eu-beitrittsdatum-im-friedensabkommen](https://www.spiegel.de/politik/ukraine-wolodymyr-selenskyj-fordert-eu-beitrittsdatum-im-friedensabkommen-a-14a6b2f6-2826-4f52-9712-3d240eb70bbb#ref=rss)
+### eubeitrittsdatum
+
+* [https://www.spiegel.de/politik/ukraine-wolodymyr-selenskyj-fordert-eu-beitrittsdatum-im-friedensabkommen](https://www.spiegel.de/politik/ukraine-wolodymyr-selenskyj-fordert-eu-beitrittsdatum-im-friedensabkommen-a-14a6b2f6-2826-4f52-9712-3d240eb70bbb#ref=rss)
+### friedensabkommen
+
+* [https://www.spiegel.de/politik/ukraine-wolodymyr-selenskyj-fordert-eu-beitrittsdatum-im-friedensabkommen](https://www.spiegel.de/politik/ukraine-wolodymyr-selenskyj-fordert-eu-beitrittsdatum-im-friedensabkommen-a-14a6b2f6-2826-4f52-9712-3d240eb70bbb#ref=rss)
+### james
+
+* [https://www.spiegel.de/kultur/zum-tode-von-james-van-der-beek-das-serienfinale-einer-generation](https://www.spiegel.de/kultur/zum-tode-von-james-van-der-beek-das-serienfinale-einer-generation-a-70e8da9c-b90b-43f2-a5b3-3f5980e93462#ref=rss)
+### van
+
+* [https://www.spiegel.de/kultur/zum-tode-von-james-van-der-beek-das-serienfinale-einer-generation](https://www.spiegel.de/kultur/zum-tode-von-james-van-der-beek-das-serienfinale-einer-generation-a-70e8da9c-b90b-43f2-a5b3-3f5980e93462#ref=rss)
+### beek
+
+* [https://www.spiegel.de/kultur/zum-tode-von-james-van-der-beek-das-serienfinale-einer-generation](https://www.spiegel.de/kultur/zum-tode-von-james-van-der-beek-das-serienfinale-einer-generation-a-70e8da9c-b90b-43f2-a5b3-3f5980e93462#ref=rss)
+### serienfinale
+
+* [https://www.spiegel.de/kultur/zum-tode-von-james-van-der-beek-das-serienfinale-einer-generation](https://www.spiegel.de/kultur/zum-tode-von-james-van-der-beek-das-serienfinale-einer-generation-a-70e8da9c-b90b-43f2-a5b3-3f5980e93462#ref=rss)
 
