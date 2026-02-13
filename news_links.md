@@ -4,360 +4,439 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-schottland-verkauft-weniger-whisky-in-den-usa](https://www.spiegel.de/wirtschaft/us-zoelle-schottland-verkauft-weniger-whisky-in-den-usa-a-7161b4ef-51e8-4493-a305-8a6542860c8c#ref=rss)
-* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa-a-7a9f0962-a13f-47f6-bbb9-afeeeb4fb06e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trumps-rueckbau-der-klimapolitik-der-groesste-erfolg-der-klimawandelleugner](https://www.spiegel.de/wissenschaft/mensch/donald-trumps-rueckbau-der-klimapolitik-der-groesste-erfolg-der-klimawandelleugner-a-05f0ca04-80c1-46ab-acdc-f3ac124fa117#ref=rss)
-* [https://www.spiegel.de/wirtschaft/maschinen-und-oel-fuer-hightech-usa-und-taiwan-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/maschinen-und-oel-fuer-hightech-usa-und-taiwan-einigen-sich-im-zollstreit-a-4efa133b-923b-4f77-899c-a9c3207b0449#ref=rss)
-* [https://www.spiegel.de/politik/iran-usa-verstaerken-militaerpraesenz-mit-zweitem-flugzeugtraeger](https://www.spiegel.de/politik/iran-usa-verstaerken-militaerpraesenz-mit-zweitem-flugzeugtraeger-a-904cae15-5af8-4b9c-9027-c4a0ebc70b7d#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/panorama/justiz/polen-grenzschutz-nimmt-mutmassliche-zigarettenschmuggler-fest](https://www.spiegel.de/panorama/justiz/polen-grenzschutz-nimmt-mutmassliche-zigarettenschmuggler-fest-a-b76fd8d9-cd25-4504-a619-4ec918d59659#ref=rss)
-* [https://www.spiegel.de/politik/deutsche-bahn-einfuehrung-von-bodycams-fuer-mehr-sicherheit-angekuendigt](https://www.spiegel.de/politik/deutsche-bahn-einfuehrung-von-bodycams-fuer-mehr-sicherheit-angekuendigt-a-5a514d47-00c3-48ca-a7f3-f64bd87964b3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsministerium-freut-sich-ueber-miniwachstum](https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsministerium-freut-sich-ueber-miniwachstum-a-cca6b0cd-7d63-48ff-a74c-39022302a171#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-frankfurter-geben-autos-auf-fuer-ein-jahr-kostenlosen-nahverkehr](https://www.spiegel.de/auto/deutschlandticket-frankfurter-geben-autos-auf-fuer-ein-jahr-kostenlosen-nahverkehr-a-058f6ec1-bc96-45f4-9fe3-e2cc52832d57#ref=rss)
-### donald
-
-* [https://www.spiegel.de/politik/deutschland/zukunft-der-nato-der-schleichende-rueckzug-der-usa](https://www.spiegel.de/politik/deutschland/zukunft-der-nato-der-schleichende-rueckzug-der-usa-a-dd6471a7-d67c-43fd-b787-e0485bf0f47d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-zoelle-schottland-verkauft-weniger-whisky-in-den-usa](https://www.spiegel.de/wirtschaft/us-zoelle-schottland-verkauft-weniger-whisky-in-den-usa-a-7161b4ef-51e8-4493-a305-8a6542860c8c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trumps-rueckbau-der-klimapolitik-der-groesste-erfolg-der-klimawandelleugner](https://www.spiegel.de/wissenschaft/mensch/donald-trumps-rueckbau-der-klimapolitik-der-groesste-erfolg-der-klimawandelleugner-a-05f0ca04-80c1-46ab-acdc-f3ac124fa117#ref=rss)
-* [https://www.spiegel.de/wirtschaft/maschinen-und-oel-fuer-hightech-usa-und-taiwan-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/maschinen-und-oel-fuer-hightech-usa-und-taiwan-einigen-sich-im-zollstreit-a-4efa133b-923b-4f77-899c-a9c3207b0449#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa-a-7a9f0962-a13f-47f6-bbb9-afeeeb4fb06e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umfrage-zum-konsum-wo-verbraucher-in-deutschland-sparen](https://www.spiegel.de/wirtschaft/umfrage-zum-konsum-wo-verbraucher-in-deutschland-sparen-a-dfa23e28-cdb1-4ea6-a284-4ff4e178ff3a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-eigentuemer-sind-unzureichend-vor-extremwetter-geschuetzt](https://www.spiegel.de/wirtschaft/deutschland-eigentuemer-sind-unzureichend-vor-extremwetter-geschuetzt-a-efa6f4d0-b4fe-4ab0-b553-68fd306fea79#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutsche-bahn-einfuehrung-von-bodycams-fuer-mehr-sicherheit-angekuendigt](https://www.spiegel.de/politik/deutsche-bahn-einfuehrung-von-bodycams-fuer-mehr-sicherheit-angekuendigt-a-5a514d47-00c3-48ca-a7f3-f64bd87964b3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsministerium-freut-sich-ueber-miniwachstum](https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsministerium-freut-sich-ueber-miniwachstum-a-cca6b0cd-7d63-48ff-a74c-39022302a171#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-freitag-13-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-freitag-13-februar-an-a-82c3ceb0-f798-4567-9fc9-5dcdeac72c8a#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutsche-bahn-einfuehrung-von-bodycams-fuer-mehr-sicherheit-angekuendigt](https://www.spiegel.de/politik/deutsche-bahn-einfuehrung-von-bodycams-fuer-mehr-sicherheit-angekuendigt-a-5a514d47-00c3-48ca-a7f3-f64bd87964b3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/neue-finanzierungsrunde-ki-start-up-sammelt-30-milliarden-dollar-ein](https://www.spiegel.de/wirtschaft/neue-finanzierungsrunde-ki-start-up-sammelt-30-milliarden-dollar-ein-a-465f444c-b9b2-42f7-81d1-65bce0fa7cf4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/donald-trumps-rueckbau-der-klimapolitik-der-groesste-erfolg-der-klimawandelleugner](https://www.spiegel.de/wissenschaft/mensch/donald-trumps-rueckbau-der-klimapolitik-der-groesste-erfolg-der-klimawandelleugner-a-05f0ca04-80c1-46ab-acdc-f3ac124fa117#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsministerium-freut-sich-ueber-miniwachstum](https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsministerium-freut-sich-ueber-miniwachstum-a-cca6b0cd-7d63-48ff-a74c-39022302a171#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-snowboarderin-choi-ga-on-holt-gold-die-spiele-der-mutigen-frauen](https://www.spiegel.de/sport/olympia/olympia-2026-snowboarderin-choi-ga-on-holt-gold-die-spiele-der-mutigen-frauen-a-9f347c63-59a9-4da1-bc67-603cc30504a5#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/olympische-spiele-2026-internationale-pressestimmen-zur-disqualifikation-von-wladyslaw-heraskewytsch](https://www.spiegel.de/sport/wintersport/olympische-spiele-2026-internationale-pressestimmen-zur-disqualifikation-von-wladyslaw-heraskewytsch-a-79fc058d-4f5e-4739-9a33-db2b341fa419#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/auto/deutschlandticket-frankfurter-geben-autos-auf-fuer-ein-jahr-kostenlosen-nahverkehr](https://www.spiegel.de/auto/deutschlandticket-frankfurter-geben-autos-auf-fuer-ein-jahr-kostenlosen-nahverkehr-a-058f6ec1-bc96-45f4-9fe3-e2cc52832d57#ref=rss)
-* [https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-wie-sie-verletzungen-aus-der-vergangenheit-neu-bewerten](https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-wie-sie-verletzungen-aus-der-vergangenheit-neu-bewerten-a-d5d24952-1f4e-4d2e-9197-1c66b31dc9d8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/mikrobiom-ist-haeufiges-duschen-schlecht-fuer-die-haut](https://www.spiegel.de/wissenschaft/medizin/mikrobiom-ist-haeufiges-duschen-schlecht-fuer-die-haut-a-c6443f24-52e0-4b91-aa38-07b2d3126fb7#ref=rss)
-### stuber
-
-* [https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen](https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen-a-04c214aa-0f2d-4ac1-8e0e-8980a6a84798#ref=rss)
-### ich
-
-* [https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen](https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen-a-04c214aa-0f2d-4ac1-8e0e-8980a6a84798#ref=rss)
-* [https://www.spiegel.de/panorama/leute/halle-berry-feiert-ihr-alter-und-kritisiert-sexismus](https://www.spiegel.de/panorama/leute/halle-berry-feiert-ihr-alter-und-kritisiert-sexismus-a-c44a10af-bf13-4068-8976-0b1e731e7810#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen](https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen-a-04c214aa-0f2d-4ac1-8e0e-8980a6a84798#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/zukunft-der-nato-der-schleichende-rueckzug-der-usa](https://www.spiegel.de/politik/deutschland/zukunft-der-nato-der-schleichende-rueckzug-der-usa-a-dd6471a7-d67c-43fd-b787-e0485bf0f47d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umfrage-zum-konsum-wo-verbraucher-in-deutschland-sparen](https://www.spiegel.de/wirtschaft/umfrage-zum-konsum-wo-verbraucher-in-deutschland-sparen-a-dfa23e28-cdb1-4ea6-a284-4ff4e178ff3a#ref=rss)
-### panton
-
-* [https://www.spiegel.de/kultur/designer-verner-panton-alles-an-seiner-buerowohnwelt-war-radikal](https://www.spiegel.de/kultur/designer-verner-panton-alles-an-seiner-buerowohnwelt-war-radikal-a-d559ec62-652e-4bef-806c-5fd9c26e1754#ref=rss)
-### guthrie
-
-* [https://www.spiegel.de/panorama/justiz/savannah-guthrie-fbi-verdoppelt-belohnung-fuer-hinweise-im-fall-nancy-guthrie](https://www.spiegel.de/panorama/justiz/savannah-guthrie-fbi-verdoppelt-belohnung-fuer-hinweise-im-fall-nancy-guthrie-a-557baf0a-0d9c-4985-944c-485b9a003d30#ref=rss)
 ### sicherheitskonferenz
 
-* [https://www.spiegel.de/politik/deutschland/zukunft-der-nato-der-schleichende-rueckzug-der-usa](https://www.spiegel.de/politik/deutschland/zukunft-der-nato-der-schleichende-rueckzug-der-usa-a-dd6471a7-d67c-43fd-b787-e0485bf0f47d#ref=rss)
-* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa-a-7a9f0962-a13f-47f6-bbb9-afeeeb4fb06e#ref=rss)
-### trump
-
-* [https://www.spiegel.de/politik/deutschland/zukunft-der-nato-der-schleichende-rueckzug-der-usa](https://www.spiegel.de/politik/deutschland/zukunft-der-nato-der-schleichende-rueckzug-der-usa-a-dd6471a7-d67c-43fd-b787-e0485bf0f47d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-zoelle-schottland-verkauft-weniger-whisky-in-den-usa](https://www.spiegel.de/wirtschaft/us-zoelle-schottland-verkauft-weniger-whisky-in-den-usa-a-7161b4ef-51e8-4493-a305-8a6542860c8c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/maschinen-und-oel-fuer-hightech-usa-und-taiwan-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/maschinen-und-oel-fuer-hightech-usa-und-taiwan-einigen-sich-im-zollstreit-a-4efa133b-923b-4f77-899c-a9c3207b0449#ref=rss)
-### europa
-
-* [https://www.spiegel.de/politik/deutschland/zukunft-der-nato-der-schleichende-rueckzug-der-usa](https://www.spiegel.de/politik/deutschland/zukunft-der-nato-der-schleichende-rueckzug-der-usa-a-dd6471a7-d67c-43fd-b787-e0485bf0f47d#ref=rss)
-* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa-a-7a9f0962-a13f-47f6-bbb9-afeeeb4fb06e#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa-a-7a9f0962-a13f-47f6-bbb9-afeeeb4fb06e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/halle-berry-feiert-ihr-alter-und-kritisiert-sexismus](https://www.spiegel.de/panorama/leute/halle-berry-feiert-ihr-alter-und-kritisiert-sexismus-a-c44a10af-bf13-4068-8976-0b1e731e7810#ref=rss)
-* [https://www.spiegel.de/wirtschaft/goldman-sachs-chefjuristin-kathryn-ruemmler-geht-wegen-epstein-verbindung](https://www.spiegel.de/wirtschaft/goldman-sachs-chefjuristin-kathryn-ruemmler-geht-wegen-epstein-verbindung-a-c8a8e5af-1f6b-41fa-9410-ba0c288a6393#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/deutschland-eigentuemer-sind-unzureichend-vor-extremwetter-geschuetzt](https://www.spiegel.de/wirtschaft/deutschland-eigentuemer-sind-unzureichend-vor-extremwetter-geschuetzt-a-efa6f4d0-b4fe-4ab0-b553-68fd306fea79#ref=rss)
-* [https://www.spiegel.de/politik/iran-usa-verstaerken-militaerpraesenz-mit-zweitem-flugzeugtraeger](https://www.spiegel.de/politik/iran-usa-verstaerken-militaerpraesenz-mit-zweitem-flugzeugtraeger-a-904cae15-5af8-4b9c-9027-c4a0ebc70b7d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-ein-toter-nach-streit-in-restaurant](https://www.spiegel.de/panorama/justiz/hamburg-ein-toter-nach-streit-in-restaurant-a-1d6b29d2-2c6f-44eb-b95e-81dcbc90c3db#ref=rss)
-### polen
-
-* [https://www.spiegel.de/panorama/justiz/polen-grenzschutz-nimmt-mutmassliche-zigarettenschmuggler-fest](https://www.spiegel.de/panorama/justiz/polen-grenzschutz-nimmt-mutmassliche-zigarettenschmuggler-fest-a-b76fd8d9-cd25-4504-a619-4ec918d59659#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/panorama/justiz/polen-grenzschutz-nimmt-mutmassliche-zigarettenschmuggler-fest](https://www.spiegel.de/panorama/justiz/polen-grenzschutz-nimmt-mutmassliche-zigarettenschmuggler-fest-a-b76fd8d9-cd25-4504-a619-4ec918d59659#ref=rss)
-* [https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsministerium-freut-sich-ueber-miniwachstum](https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsministerium-freut-sich-ueber-miniwachstum-a-cca6b0cd-7d63-48ff-a74c-39022302a171#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/panorama/justiz/polen-grenzschutz-nimmt-mutmassliche-zigarettenschmuggler-fest](https://www.spiegel.de/panorama/justiz/polen-grenzschutz-nimmt-mutmassliche-zigarettenschmuggler-fest-a-b76fd8d9-cd25-4504-a619-4ec918d59659#ref=rss)
-* [https://www.spiegel.de/politik/deutsche-bahn-einfuehrung-von-bodycams-fuer-mehr-sicherheit-angekuendigt](https://www.spiegel.de/politik/deutsche-bahn-einfuehrung-von-bodycams-fuer-mehr-sicherheit-angekuendigt-a-5a514d47-00c3-48ca-a7f3-f64bd87964b3#ref=rss)
-### johannes
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg-a-b5d90f51-2c4b-47ea-bc3b-79ca61c5babe#ref=rss)
-### høsflot
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg-a-b5d90f51-2c4b-47ea-bc3b-79ca61c5babe#ref=rss)
-### klæbo
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg-a-b5d90f51-2c4b-47ea-bc3b-79ca61c5babe#ref=rss)
-### achte
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg-a-b5d90f51-2c4b-47ea-bc3b-79ca61c5babe#ref=rss)
-### visier
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg-a-b5d90f51-2c4b-47ea-bc3b-79ca61c5babe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/maschinen-und-oel-fuer-hightech-usa-und-taiwan-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/maschinen-und-oel-fuer-hightech-usa-und-taiwan-einigen-sich-im-zollstreit-a-4efa133b-923b-4f77-899c-a9c3207b0449#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/neuburg-an-der-donau-fasching-mann-im-affenkostuem-schlaegt-45-jaehrigen-nieder](https://www.spiegel.de/panorama/justiz/neuburg-an-der-donau-fasching-mann-im-affenkostuem-schlaegt-45-jaehrigen-nieder-a-42fe6623-796e-46c5-aaf1-347827e4760b#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/justiz/neuburg-an-der-donau-fasching-mann-im-affenkostuem-schlaegt-45-jaehrigen-nieder](https://www.spiegel.de/panorama/justiz/neuburg-an-der-donau-fasching-mann-im-affenkostuem-schlaegt-45-jaehrigen-nieder-a-42fe6623-796e-46c5-aaf1-347827e4760b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-ein-toter-nach-streit-in-restaurant](https://www.spiegel.de/panorama/justiz/hamburg-ein-toter-nach-streit-in-restaurant-a-1d6b29d2-2c6f-44eb-b95e-81dcbc90c3db#ref=rss)
-### täter
-
-* [https://www.spiegel.de/panorama/justiz/neuburg-an-der-donau-fasching-mann-im-affenkostuem-schlaegt-45-jaehrigen-nieder](https://www.spiegel.de/panorama/justiz/neuburg-an-der-donau-fasching-mann-im-affenkostuem-schlaegt-45-jaehrigen-nieder-a-42fe6623-796e-46c5-aaf1-347827e4760b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-ein-toter-nach-streit-in-restaurant](https://www.spiegel.de/panorama/justiz/hamburg-ein-toter-nach-streit-in-restaurant-a-1d6b29d2-2c6f-44eb-b95e-81dcbc90c3db#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/politik/deutsche-bahn-einfuehrung-von-bodycams-fuer-mehr-sicherheit-angekuendigt](https://www.spiegel.de/politik/deutsche-bahn-einfuehrung-von-bodycams-fuer-mehr-sicherheit-angekuendigt-a-5a514d47-00c3-48ca-a7f3-f64bd87964b3#ref=rss)
-### bodycams
-
-* [https://www.spiegel.de/politik/deutsche-bahn-einfuehrung-von-bodycams-fuer-mehr-sicherheit-angekuendigt](https://www.spiegel.de/politik/deutsche-bahn-einfuehrung-von-bodycams-fuer-mehr-sicherheit-angekuendigt-a-5a514d47-00c3-48ca-a7f3-f64bd87964b3#ref=rss)
-### wirtschaftsministerium
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsministerium-freut-sich-ueber-miniwachstum](https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsministerium-freut-sich-ueber-miniwachstum-a-cca6b0cd-7d63-48ff-a74c-39022302a171#ref=rss)
-### miniwachstum
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsministerium-freut-sich-ueber-miniwachstum](https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsministerium-freut-sich-ueber-miniwachstum-a-cca6b0cd-7d63-48ff-a74c-39022302a171#ref=rss)
-### verstärken
-
-* [https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsministerium-freut-sich-ueber-miniwachstum](https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsministerium-freut-sich-ueber-miniwachstum-a-cca6b0cd-7d63-48ff-a74c-39022302a171#ref=rss)
-* [https://www.spiegel.de/politik/iran-usa-verstaerken-militaerpraesenz-mit-zweitem-flugzeugtraeger](https://www.spiegel.de/politik/iran-usa-verstaerken-militaerpraesenz-mit-zweitem-flugzeugtraeger-a-904cae15-5af8-4b9c-9027-c4a0ebc70b7d#ref=rss)
-### deutschlandticket
-
-* [https://www.spiegel.de/auto/deutschlandticket-frankfurter-geben-autos-auf-fuer-ein-jahr-kostenlosen-nahverkehr](https://www.spiegel.de/auto/deutschlandticket-frankfurter-geben-autos-auf-fuer-ein-jahr-kostenlosen-nahverkehr-a-058f6ec1-bc96-45f4-9fe3-e2cc52832d57#ref=rss)
-### nahverkehr
-
-* [https://www.spiegel.de/auto/deutschlandticket-frankfurter-geben-autos-auf-fuer-ein-jahr-kostenlosen-nahverkehr](https://www.spiegel.de/auto/deutschlandticket-frankfurter-geben-autos-auf-fuer-ein-jahr-kostenlosen-nahverkehr-a-058f6ec1-bc96-45f4-9fe3-e2cc52832d57#ref=rss)
-### hedwig
-
-* [https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen](https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen-a-04c214aa-0f2d-4ac1-8e0e-8980a6a84798#ref=rss)
-### maria
-
-* [https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen](https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen-a-04c214aa-0f2d-4ac1-8e0e-8980a6a84798#ref=rss)
-### helfe
-
-* [https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen](https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen-a-04c214aa-0f2d-4ac1-8e0e-8980a6a84798#ref=rss)
-### dir
-
-* [https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen](https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen-a-04c214aa-0f2d-4ac1-8e0e-8980a6a84798#ref=rss)
-### kochen
-
-* [https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen](https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen-a-04c214aa-0f2d-4ac1-8e0e-8980a6a84798#ref=rss)
-### verkauft
-
-* [https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen](https://www.spiegel.de/kultur/literatur/hedwig-maria-stuber-tot-kochbuch-klassiker-ich-helfe-dir-kochen-a-04c214aa-0f2d-4ac1-8e0e-8980a6a84798#ref=rss)
-* [https://www.spiegel.de/wirtschaft/us-zoelle-schottland-verkauft-weniger-whisky-in-den-usa](https://www.spiegel.de/wirtschaft/us-zoelle-schottland-verkauft-weniger-whisky-in-den-usa-a-7161b4ef-51e8-4493-a305-8a6542860c8c#ref=rss)
-### designer
-
-* [https://www.spiegel.de/kultur/designer-verner-panton-alles-an-seiner-buerowohnwelt-war-radikal](https://www.spiegel.de/kultur/designer-verner-panton-alles-an-seiner-buerowohnwelt-war-radikal-a-d559ec62-652e-4bef-806c-5fd9c26e1754#ref=rss)
-### verner
-
-* [https://www.spiegel.de/kultur/designer-verner-panton-alles-an-seiner-buerowohnwelt-war-radikal](https://www.spiegel.de/kultur/designer-verner-panton-alles-an-seiner-buerowohnwelt-war-radikal-a-d559ec62-652e-4bef-806c-5fd9c26e1754#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/designer-verner-panton-alles-an-seiner-buerowohnwelt-war-radikal](https://www.spiegel.de/kultur/designer-verner-panton-alles-an-seiner-buerowohnwelt-war-radikal-a-d559ec62-652e-4bef-806c-5fd9c26e1754#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/erdgas-deutschlands-gasspeicher-leeren-sich-und-die-kaelte-bleibt](https://www.spiegel.de/wirtschaft/soziales/erdgas-deutschlands-gasspeicher-leeren-sich-und-die-kaelte-bleibt-a-3747b8de-0f87-4ab7-b31f-8083919853f5#ref=rss)
-### steuererklärung
-
-* [https://www.spiegel.de/netzwelt/apps/steuererklaerung-im-juli-startet-die-ein-klick-erklaerung-per-meinelster-app](https://www.spiegel.de/netzwelt/apps/steuererklaerung-im-juli-startet-die-ein-klick-erklaerung-per-meinelster-app-a-a6db3290-4744-4bd2-b636-989b5bd6bb70#ref=rss)
-### juli
-
-* [https://www.spiegel.de/netzwelt/apps/steuererklaerung-im-juli-startet-die-ein-klick-erklaerung-per-meinelster-app](https://www.spiegel.de/netzwelt/apps/steuererklaerung-im-juli-startet-die-ein-klick-erklaerung-per-meinelster-app-a-a6db3290-4744-4bd2-b636-989b5bd6bb70#ref=rss)
-### enttäuschungen
-
-* [https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-wie-sie-verletzungen-aus-der-vergangenheit-neu-bewerten](https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-wie-sie-verletzungen-aus-der-vergangenheit-neu-bewerten-a-d5d24952-1f4e-4d2e-9197-1c66b31dc9d8#ref=rss)
-### verletzungen
-
-* [https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-wie-sie-verletzungen-aus-der-vergangenheit-neu-bewerten](https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-wie-sie-verletzungen-aus-der-vergangenheit-neu-bewerten-a-d5d24952-1f4e-4d2e-9197-1c66b31dc9d8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-ein-toter-nach-streit-in-restaurant](https://www.spiegel.de/panorama/justiz/hamburg-ein-toter-nach-streit-in-restaurant-a-1d6b29d2-2c6f-44eb-b95e-81dcbc90c3db#ref=rss)
-### besser
-
-* [https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-wie-sie-verletzungen-aus-der-vergangenheit-neu-bewerten](https://www.spiegel.de/psychologie/coaching-enttaeuschungen-ueberwinden-wie-sie-verletzungen-aus-der-vergangenheit-neu-bewerten-a-d5d24952-1f4e-4d2e-9197-1c66b31dc9d8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umfrage-zum-konsum-wo-verbraucher-in-deutschland-sparen](https://www.spiegel.de/wirtschaft/umfrage-zum-konsum-wo-verbraucher-in-deutschland-sparen-a-dfa23e28-cdb1-4ea6-a284-4ff4e178ff3a#ref=rss)
-### flughafen
-
-* [https://www.spiegel.de/panorama/flughafen-koeln-bonn-nach-sperrung-wieder-offen](https://www.spiegel.de/panorama/flughafen-koeln-bonn-nach-sperrung-wieder-offen-a-09edcec4-bd19-407c-9232-c44d5475f0ee#ref=rss)
-### köln/bonn
-
-* [https://www.spiegel.de/panorama/flughafen-koeln-bonn-nach-sperrung-wieder-offen](https://www.spiegel.de/panorama/flughafen-koeln-bonn-nach-sperrung-wieder-offen-a-09edcec4-bd19-407c-9232-c44d5475f0ee#ref=rss)
-### maschinen
-
-* [https://www.spiegel.de/panorama/flughafen-koeln-bonn-nach-sperrung-wieder-offen](https://www.spiegel.de/panorama/flughafen-koeln-bonn-nach-sperrung-wieder-offen-a-09edcec4-bd19-407c-9232-c44d5475f0ee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/maschinen-und-oel-fuer-hightech-usa-und-taiwan-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/maschinen-und-oel-fuer-hightech-usa-und-taiwan-einigen-sich-im-zollstreit-a-4efa133b-923b-4f77-899c-a9c3207b0449#ref=rss)
-### olympia
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-snowboarderin-choi-ga-on-holt-gold-die-spiele-der-mutigen-frauen](https://www.spiegel.de/sport/olympia/olympia-2026-snowboarderin-choi-ga-on-holt-gold-die-spiele-der-mutigen-frauen-a-9f347c63-59a9-4da1-bc67-603cc30504a5#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-freitag-13-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-freitag-13-februar-an-a-82c3ceb0-f798-4567-9fc9-5dcdeac72c8a#ref=rss)
-### snowboarderin
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-snowboarderin-choi-ga-on-holt-gold-die-spiele-der-mutigen-frauen](https://www.spiegel.de/sport/olympia/olympia-2026-snowboarderin-choi-ga-on-holt-gold-die-spiele-der-mutigen-frauen-a-9f347c63-59a9-4da1-bc67-603cc30504a5#ref=rss)
-### choi
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-snowboarderin-choi-ga-on-holt-gold-die-spiele-der-mutigen-frauen](https://www.spiegel.de/sport/olympia/olympia-2026-snowboarderin-choi-ga-on-holt-gold-die-spiele-der-mutigen-frauen-a-9f347c63-59a9-4da1-bc67-603cc30504a5#ref=rss)
-### gaon
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-snowboarderin-choi-ga-on-holt-gold-die-spiele-der-mutigen-frauen](https://www.spiegel.de/sport/olympia/olympia-2026-snowboarderin-choi-ga-on-holt-gold-die-spiele-der-mutigen-frauen-a-9f347c63-59a9-4da1-bc67-603cc30504a5#ref=rss)
-### gold
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-snowboarderin-choi-ga-on-holt-gold-die-spiele-der-mutigen-frauen](https://www.spiegel.de/sport/olympia/olympia-2026-snowboarderin-choi-ga-on-holt-gold-die-spiele-der-mutigen-frauen-a-9f347c63-59a9-4da1-bc67-603cc30504a5#ref=rss)
-### spiele
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-snowboarderin-choi-ga-on-holt-gold-die-spiele-der-mutigen-frauen](https://www.spiegel.de/sport/olympia/olympia-2026-snowboarderin-choi-ga-on-holt-gold-die-spiele-der-mutigen-frauen-a-9f347c63-59a9-4da1-bc67-603cc30504a5#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/olympische-spiele-2026-internationale-pressestimmen-zur-disqualifikation-von-wladyslaw-heraskewytsch](https://www.spiegel.de/sport/wintersport/olympische-spiele-2026-internationale-pressestimmen-zur-disqualifikation-von-wladyslaw-heraskewytsch-a-79fc058d-4f5e-4739-9a33-db2b341fa419#ref=rss)
-### später
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-snowboarderin-choi-ga-on-holt-gold-die-spiele-der-mutigen-frauen](https://www.spiegel.de/sport/olympia/olympia-2026-snowboarderin-choi-ga-on-holt-gold-die-spiele-der-mutigen-frauen-a-9f347c63-59a9-4da1-bc67-603cc30504a5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-ein-toter-nach-streit-in-restaurant](https://www.spiegel.de/panorama/justiz/hamburg-ein-toter-nach-streit-in-restaurant-a-1d6b29d2-2c6f-44eb-b95e-81dcbc90c3db#ref=rss)
-### olympische
-
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-bei-ard-zdf-und-eurosport-manchmal-ist-es-zum-weinen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-bei-ard-zdf-und-eurosport-manchmal-ist-es-zum-weinen-a-bebfdf25-5663-476d-868c-f0ed929f8d31#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/olympische-spiele-2026-internationale-pressestimmen-zur-disqualifikation-von-wladyslaw-heraskewytsch](https://www.spiegel.de/sport/wintersport/olympische-spiele-2026-internationale-pressestimmen-zur-disqualifikation-von-wladyslaw-heraskewytsch-a-79fc058d-4f5e-4739-9a33-db2b341fa419#ref=rss)
-### winterspiele
-
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-bei-ard-zdf-und-eurosport-manchmal-ist-es-zum-weinen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-bei-ard-zdf-und-eurosport-manchmal-ist-es-zum-weinen-a-bebfdf25-5663-476d-868c-f0ed929f8d31#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/olympische-spiele-2026-internationale-pressestimmen-zur-disqualifikation-von-wladyslaw-heraskewytsch](https://www.spiegel.de/sport/wintersport/olympische-spiele-2026-internationale-pressestimmen-zur-disqualifikation-von-wladyslaw-heraskewytsch-a-79fc058d-4f5e-4739-9a33-db2b341fa419#ref=rss)
-### ard
-
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-bei-ard-zdf-und-eurosport-manchmal-ist-es-zum-weinen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-bei-ard-zdf-und-eurosport-manchmal-ist-es-zum-weinen-a-bebfdf25-5663-476d-868c-f0ed929f8d31#ref=rss)
-### zdf
-
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-bei-ard-zdf-und-eurosport-manchmal-ist-es-zum-weinen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-bei-ard-zdf-und-eurosport-manchmal-ist-es-zum-weinen-a-bebfdf25-5663-476d-868c-f0ed929f8d31#ref=rss)
-### eurosport
-
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-bei-ard-zdf-und-eurosport-manchmal-ist-es-zum-weinen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-bei-ard-zdf-und-eurosport-manchmal-ist-es-zum-weinen-a-bebfdf25-5663-476d-868c-f0ed929f8d31#ref=rss)
-### 30
-
-* [https://www.spiegel.de/wirtschaft/neue-finanzierungsrunde-ki-start-up-sammelt-30-milliarden-dollar-ein](https://www.spiegel.de/wirtschaft/neue-finanzierungsrunde-ki-start-up-sammelt-30-milliarden-dollar-ein-a-465f444c-b9b2-42f7-81d1-65bce0fa7cf4#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/wirtschaft/neue-finanzierungsrunde-ki-start-up-sammelt-30-milliarden-dollar-ein](https://www.spiegel.de/wirtschaft/neue-finanzierungsrunde-ki-start-up-sammelt-30-milliarden-dollar-ein-a-465f444c-b9b2-42f7-81d1-65bce0fa7cf4#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/wirtschaft/neue-finanzierungsrunde-ki-start-up-sammelt-30-milliarden-dollar-ein](https://www.spiegel.de/wirtschaft/neue-finanzierungsrunde-ki-start-up-sammelt-30-milliarden-dollar-ein-a-465f444c-b9b2-42f7-81d1-65bce0fa7cf4#ref=rss)
-### verdoppelt
-
-* [https://www.spiegel.de/wirtschaft/neue-finanzierungsrunde-ki-start-up-sammelt-30-milliarden-dollar-ein](https://www.spiegel.de/wirtschaft/neue-finanzierungsrunde-ki-start-up-sammelt-30-milliarden-dollar-ein-a-465f444c-b9b2-42f7-81d1-65bce0fa7cf4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/savannah-guthrie-fbi-verdoppelt-belohnung-fuer-hinweise-im-fall-nancy-guthrie](https://www.spiegel.de/panorama/justiz/savannah-guthrie-fbi-verdoppelt-belohnung-fuer-hinweise-im-fall-nancy-guthrie-a-557baf0a-0d9c-4985-944c-485b9a003d30#ref=rss)
-### savannah
-
-* [https://www.spiegel.de/panorama/justiz/savannah-guthrie-fbi-verdoppelt-belohnung-fuer-hinweise-im-fall-nancy-guthrie](https://www.spiegel.de/panorama/justiz/savannah-guthrie-fbi-verdoppelt-belohnung-fuer-hinweise-im-fall-nancy-guthrie-a-557baf0a-0d9c-4985-944c-485b9a003d30#ref=rss)
-### fbi
-
-* [https://www.spiegel.de/panorama/justiz/savannah-guthrie-fbi-verdoppelt-belohnung-fuer-hinweise-im-fall-nancy-guthrie](https://www.spiegel.de/panorama/justiz/savannah-guthrie-fbi-verdoppelt-belohnung-fuer-hinweise-im-fall-nancy-guthrie-a-557baf0a-0d9c-4985-944c-485b9a003d30#ref=rss)
-### nato
-
-* [https://www.spiegel.de/politik/deutschland/zukunft-der-nato-der-schleichende-rueckzug-der-usa](https://www.spiegel.de/politik/deutschland/zukunft-der-nato-der-schleichende-rueckzug-der-usa-a-dd6471a7-d67c-43fd-b787-e0485bf0f47d#ref=rss)
-### füllen
-
-* [https://www.spiegel.de/politik/deutschland/zukunft-der-nato-der-schleichende-rueckzug-der-usa](https://www.spiegel.de/politik/deutschland/zukunft-der-nato-der-schleichende-rueckzug-der-usa-a-dd6471a7-d67c-43fd-b787-e0485bf0f47d#ref=rss)
-* [https://www.spiegel.de/politik/iran-usa-verstaerken-militaerpraesenz-mit-zweitem-flugzeugtraeger](https://www.spiegel.de/politik/iran-usa-verstaerken-militaerpraesenz-mit-zweitem-flugzeugtraeger-a-904cae15-5af8-4b9c-9027-c4a0ebc70b7d#ref=rss)
-### disqualifikation
-
-* [https://www.spiegel.de/sport/wintersport/olympische-spiele-2026-internationale-pressestimmen-zur-disqualifikation-von-wladyslaw-heraskewytsch](https://www.spiegel.de/sport/wintersport/olympische-spiele-2026-internationale-pressestimmen-zur-disqualifikation-von-wladyslaw-heraskewytsch-a-79fc058d-4f5e-4739-9a33-db2b341fa419#ref=rss)
-### wladyslaw
-
-* [https://www.spiegel.de/sport/wintersport/olympische-spiele-2026-internationale-pressestimmen-zur-disqualifikation-von-wladyslaw-heraskewytsch](https://www.spiegel.de/sport/wintersport/olympische-spiele-2026-internationale-pressestimmen-zur-disqualifikation-von-wladyslaw-heraskewytsch-a-79fc058d-4f5e-4739-9a33-db2b341fa419#ref=rss)
-### heraskewytsch
-
-* [https://www.spiegel.de/sport/wintersport/olympische-spiele-2026-internationale-pressestimmen-zur-disqualifikation-von-wladyslaw-heraskewytsch](https://www.spiegel.de/sport/wintersport/olympische-spiele-2026-internationale-pressestimmen-zur-disqualifikation-von-wladyslaw-heraskewytsch-a-79fc058d-4f5e-4739-9a33-db2b341fa419#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/sport/wintersport/olympische-spiele-2026-internationale-pressestimmen-zur-disqualifikation-von-wladyslaw-heraskewytsch](https://www.spiegel.de/sport/wintersport/olympische-spiele-2026-internationale-pressestimmen-zur-disqualifikation-von-wladyslaw-heraskewytsch-a-79fc058d-4f5e-4739-9a33-db2b341fa419#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-freitag-13-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-freitag-13-februar-an-a-82c3ceb0-f798-4567-9fc9-5dcdeac72c8a#ref=rss)
-### whisky
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-schottland-verkauft-weniger-whisky-in-den-usa](https://www.spiegel.de/wirtschaft/us-zoelle-schottland-verkauft-weniger-whisky-in-den-usa-a-7161b4ef-51e8-4493-a305-8a6542860c8c#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/wirtschaft/us-zoelle-schottland-verkauft-weniger-whisky-in-den-usa](https://www.spiegel.de/wirtschaft/us-zoelle-schottland-verkauft-weniger-whisky-in-den-usa-a-7161b4ef-51e8-4493-a305-8a6542860c8c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/maschinen-und-oel-fuer-hightech-usa-und-taiwan-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/maschinen-und-oel-fuer-hightech-usa-und-taiwan-einigen-sich-im-zollstreit-a-4efa133b-923b-4f77-899c-a9c3207b0449#ref=rss)
+* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-friedrich-merz-malt-duesteres-weltbild](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-friedrich-merz-malt-duesteres-weltbild-a-7aaea040-d5c2-4ab4-aeef-275dbab0ef2a#ref=rss)
+* [https://www.spiegel.de/geschichte/muenchner-sicherheitskonferenz-wer-hat-was-gesagt-das-zitate-quiz](https://www.spiegel.de/geschichte/muenchner-sicherheitskonferenz-wer-hat-was-gesagt-das-zitate-quiz-a-d54b2b90-d78b-4f3a-9478-7986d0f39af3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-klimapolitik-muenchner-sicherheitskonferenz-gasspeicher](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-klimapolitik-muenchner-sicherheitskonferenz-gasspeicher-a-5fa375ad-7bba-4534-897e-5c5a5a5a2ac5#ref=rss)
+* [https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-wolfgang-ischinger-gibt-den-tom-cruise-aeh-den-emmanuel-macron](https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-wolfgang-ischinger-gibt-den-tom-cruise-aeh-den-emmanuel-macron-a-a95e0c4a-5062-4e77-8e8d-473c33326491#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab](https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab-a-e10691fc-ae00-41c9-adeb-442e0b9d8c09#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-friedrich-merz-malt-duesteres-weltbild](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-friedrich-merz-malt-duesteres-weltbild-a-7aaea040-d5c2-4ab4-aeef-275dbab0ef2a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-klimapolitik-muenchner-sicherheitskonferenz-gasspeicher](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-klimapolitik-muenchner-sicherheitskonferenz-gasspeicher-a-5fa375ad-7bba-4534-897e-5c5a5a5a2ac5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab](https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab-a-e10691fc-ae00-41c9-adeb-442e0b9d8c09#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-emmanuel-macron-reden-ueber-europaeischen-atomschirm](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-emmanuel-macron-reden-ueber-europaeischen-atomschirm-a-69824949-a09d-49f3-a3e3-e0c4a9e897b5#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-friedrich-merz-malt-duesteres-weltbild](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-friedrich-merz-malt-duesteres-weltbild-a-7aaea040-d5c2-4ab4-aeef-275dbab0ef2a#ref=rss)
+* [https://www.spiegel.de/auto/donald-trump-billigere-autos-wohl-eher-ein-billiger-trick](https://www.spiegel.de/auto/donald-trump-billigere-autos-wohl-eher-ein-billiger-trick-a-b8855afc-ef28-4016-b370-562073540460#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-klimapolitik-muenchner-sicherheitskonferenz-gasspeicher](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-klimapolitik-muenchner-sicherheitskonferenz-gasspeicher-a-5fa375ad-7bba-4534-897e-5c5a5a5a2ac5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab](https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab-a-e10691fc-ae00-41c9-adeb-442e0b9d8c09#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-emmanuel-macron-reden-ueber-europaeischen-atomschirm](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-emmanuel-macron-reden-ueber-europaeischen-atomschirm-a-69824949-a09d-49f3-a3e3-e0c4a9e897b5#ref=rss)
 ### münchner
 
-* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa-a-7a9f0962-a13f-47f6-bbb9-afeeeb4fb06e#ref=rss)
-### marco
+* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-friedrich-merz-malt-duesteres-weltbild](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-friedrich-merz-malt-duesteres-weltbild-a-7aaea040-d5c2-4ab4-aeef-275dbab0ef2a#ref=rss)
+* [https://www.spiegel.de/geschichte/muenchner-sicherheitskonferenz-wer-hat-was-gesagt-das-zitate-quiz](https://www.spiegel.de/geschichte/muenchner-sicherheitskonferenz-wer-hat-was-gesagt-das-zitate-quiz-a-d54b2b90-d78b-4f3a-9478-7986d0f39af3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-klimapolitik-muenchner-sicherheitskonferenz-gasspeicher](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-klimapolitik-muenchner-sicherheitskonferenz-gasspeicher-a-5fa375ad-7bba-4534-897e-5c5a5a5a2ac5#ref=rss)
+* [https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-wolfgang-ischinger-gibt-den-tom-cruise-aeh-den-emmanuel-macron](https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-wolfgang-ischinger-gibt-den-tom-cruise-aeh-den-emmanuel-macron-a-a95e0c4a-5062-4e77-8e8d-473c33326491#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab](https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab-a-e10691fc-ae00-41c9-adeb-442e0b9d8c09#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa-a-7a9f0962-a13f-47f6-bbb9-afeeeb4fb06e#ref=rss)
-### rubio
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an](https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an-a-1b4f4017-40ad-4853-b19e-58d7251519e2#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg-a-b5d90f51-2c4b-47ea-bc3b-79ca61c5babe#ref=rss)
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/energiewende-chinas-emissionen-stagnieren-trotz-wirtschaftswachstum](https://www.spiegel.de/wissenschaft/natur/energiewende-chinas-emissionen-stagnieren-trotz-wirtschaftswachstum-a-92051a4b-66b8-4c9d-aa11-9181dd92ce68#ref=rss)
+### fast
 
-* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa-a-7a9f0962-a13f-47f6-bbb9-afeeeb4fb06e#ref=rss)
-### betont
+* [https://www.spiegel.de/sport/olympia-2026-eishockey-torwart-philipp-grubauer-sogar-der-gegner-taetschelt-ihm-anerkennend-den-helm](https://www.spiegel.de/sport/olympia-2026-eishockey-torwart-philipp-grubauer-sogar-der-gegner-taetschelt-ihm-anerkennend-den-helm-a-dda31d06-627f-41ac-a40d-25bea27dd4da#ref=rss)
+* [https://www.spiegel.de/wissenschaft/reptilienfossil-forscher-finden-300-millionen-jahre-alte-hautabdruecke](https://www.spiegel.de/wissenschaft/reptilienfossil-forscher-finden-300-millionen-jahre-alte-hautabdruecke-a-b532d56b-898e-4447-8561-c420060bf9fb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/olympia-2026-vierfach-axel-von-eiskunstlaeufer-ilia-malinin-ein-fast-unmoeglicher-sprung](https://www.spiegel.de/wissenschaft/olympia-2026-vierfach-axel-von-eiskunstlaeufer-ilia-malinin-ein-fast-unmoeglicher-sprung-a-c8e7d3cd-fcf0-4748-852f-b2c30e64e74c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/energiewende-chinas-emissionen-stagnieren-trotz-wirtschaftswachstum](https://www.spiegel.de/wissenschaft/natur/energiewende-chinas-emissionen-stagnieren-trotz-wirtschaftswachstum-a-92051a4b-66b8-4c9d-aa11-9181dd92ce68#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa-a-7a9f0962-a13f-47f6-bbb9-afeeeb4fb06e#ref=rss)
-### enge
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an](https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an-a-1b4f4017-40ad-4853-b19e-58d7251519e2#ref=rss)
+* [https://www.spiegel.de/sport/olympia-2026-eishockey-torwart-philipp-grubauer-sogar-der-gegner-taetschelt-ihm-anerkennend-den-helm](https://www.spiegel.de/sport/olympia-2026-eishockey-torwart-philipp-grubauer-sogar-der-gegner-taetschelt-ihm-anerkennend-den-helm-a-dda31d06-627f-41ac-a40d-25bea27dd4da#ref=rss)
+* [https://www.spiegel.de/wissenschaft/olympia-2026-vierfach-axel-von-eiskunstlaeufer-ilia-malinin-ein-fast-unmoeglicher-sprung](https://www.spiegel.de/wissenschaft/olympia-2026-vierfach-axel-von-eiskunstlaeufer-ilia-malinin-ein-fast-unmoeglicher-sprung-a-c8e7d3cd-fcf0-4748-852f-b2c30e64e74c#ref=rss)
+* [https://www.spiegel.de/kultur/kino/berlinale-2026-aufbruchstimmung-trotz-schwaechelndem-festival](https://www.spiegel.de/kultur/kino/berlinale-2026-aufbruchstimmung-trotz-schwaechelndem-festival-a-a46ddbbd-2482-4300-99de-c6aebfc267cd#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-marco-rubio-betont-enge-verbindung-zu-europa-a-7a9f0962-a13f-47f6-bbb9-afeeeb4fb06e#ref=rss)
-### halle
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an](https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an-a-1b4f4017-40ad-4853-b19e-58d7251519e2#ref=rss)
+* [https://www.spiegel.de/auto/donald-trump-billigere-autos-wohl-eher-ein-billiger-trick](https://www.spiegel.de/auto/donald-trump-billigere-autos-wohl-eher-ein-billiger-trick-a-b8855afc-ef28-4016-b370-562073540460#ref=rss)
+* [https://www.spiegel.de/start/toepferstudio-eine-ehemalige-sozialarbeiterin-erzaehlt-vom-weg-in-die-selbststaendigkeit](https://www.spiegel.de/start/toepferstudio-eine-ehemalige-sozialarbeiterin-erzaehlt-vom-weg-in-die-selbststaendigkeit-a-1ca7c0cf-a6f9-4e66-87d7-b23ee0968e7a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/energiewende-chinas-emissionen-stagnieren-trotz-wirtschaftswachstum](https://www.spiegel.de/wissenschaft/natur/energiewende-chinas-emissionen-stagnieren-trotz-wirtschaftswachstum-a-92051a4b-66b8-4c9d-aa11-9181dd92ce68#ref=rss)
+### heated
 
-* [https://www.spiegel.de/panorama/leute/halle-berry-feiert-ihr-alter-und-kritisiert-sexismus](https://www.spiegel.de/panorama/leute/halle-berry-feiert-ihr-alter-und-kritisiert-sexismus-a-c44a10af-bf13-4068-8976-0b1e731e7810#ref=rss)
-### berry
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### rivalry
 
-* [https://www.spiegel.de/panorama/leute/halle-berry-feiert-ihr-alter-und-kritisiert-sexismus](https://www.spiegel.de/panorama/leute/halle-berry-feiert-ihr-alter-und-kritisiert-sexismus-a-c44a10af-bf13-4068-8976-0b1e731e7810#ref=rss)
-### alter
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### serie
 
-* [https://www.spiegel.de/panorama/leute/halle-berry-feiert-ihr-alter-und-kritisiert-sexismus](https://www.spiegel.de/panorama/leute/halle-berry-feiert-ihr-alter-und-kritisiert-sexismus-a-c44a10af-bf13-4068-8976-0b1e731e7810#ref=rss)
-### sexismus
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/panorama/leute/halle-berry-feiert-ihr-alter-und-kritisiert-sexismus](https://www.spiegel.de/panorama/leute/halle-berry-feiert-ihr-alter-und-kritisiert-sexismus-a-c44a10af-bf13-4068-8976-0b1e731e7810#ref=rss)
-### eigentümer
+* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-friedrich-merz-malt-duesteres-weltbild](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-friedrich-merz-malt-duesteres-weltbild-a-7aaea040-d5c2-4ab4-aeef-275dbab0ef2a#ref=rss)
+* [https://www.spiegel.de/geschichte/muenchner-sicherheitskonferenz-wer-hat-was-gesagt-das-zitate-quiz](https://www.spiegel.de/geschichte/muenchner-sicherheitskonferenz-wer-hat-was-gesagt-das-zitate-quiz-a-d54b2b90-d78b-4f3a-9478-7986d0f39af3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab](https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab-a-e10691fc-ae00-41c9-adeb-442e0b9d8c09#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-emmanuel-macron-reden-ueber-europaeischen-atomschirm](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-emmanuel-macron-reden-ueber-europaeischen-atomschirm-a-69824949-a09d-49f3-a3e3-e0c4a9e897b5#ref=rss)
+### donald
 
-* [https://www.spiegel.de/wirtschaft/deutschland-eigentuemer-sind-unzureichend-vor-extremwetter-geschuetzt](https://www.spiegel.de/wirtschaft/deutschland-eigentuemer-sind-unzureichend-vor-extremwetter-geschuetzt-a-efa6f4d0-b4fe-4ab0-b553-68fd306fea79#ref=rss)
-### viele
+* [https://www.spiegel.de/ausland/klimaschutz-usa-erklaeren-treibhausgase-offiziell-fuer-unbedenklich](https://www.spiegel.de/ausland/klimaschutz-usa-erklaeren-treibhausgase-offiziell-fuer-unbedenklich-a-33b8ea05-ed9a-4325-a9d0-6f7a6dde5350#ref=rss)
+* [https://www.spiegel.de/auto/donald-trump-billigere-autos-wohl-eher-ein-billiger-trick](https://www.spiegel.de/auto/donald-trump-billigere-autos-wohl-eher-ein-billiger-trick-a-b8855afc-ef28-4016-b370-562073540460#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-klimapolitik-muenchner-sicherheitskonferenz-gasspeicher](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-klimapolitik-muenchner-sicherheitskonferenz-gasspeicher-a-5fa375ad-7bba-4534-897e-5c5a5a5a2ac5#ref=rss)
+### trump
 
-* [https://www.spiegel.de/wirtschaft/deutschland-eigentuemer-sind-unzureichend-vor-extremwetter-geschuetzt](https://www.spiegel.de/wirtschaft/deutschland-eigentuemer-sind-unzureichend-vor-extremwetter-geschuetzt-a-efa6f4d0-b4fe-4ab0-b553-68fd306fea79#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/mikrobiom-ist-haeufiges-duschen-schlecht-fuer-die-haut](https://www.spiegel.de/wissenschaft/medizin/mikrobiom-ist-haeufiges-duschen-schlecht-fuer-die-haut-a-c6443f24-52e0-4b91-aa38-07b2d3126fb7#ref=rss)
-### schlecht
+* [https://www.spiegel.de/ausland/klimaschutz-usa-erklaeren-treibhausgase-offiziell-fuer-unbedenklich](https://www.spiegel.de/ausland/klimaschutz-usa-erklaeren-treibhausgase-offiziell-fuer-unbedenklich-a-33b8ea05-ed9a-4325-a9d0-6f7a6dde5350#ref=rss)
+* [https://www.spiegel.de/auto/donald-trump-billigere-autos-wohl-eher-ein-billiger-trick](https://www.spiegel.de/auto/donald-trump-billigere-autos-wohl-eher-ein-billiger-trick-a-b8855afc-ef28-4016-b370-562073540460#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-klimapolitik-muenchner-sicherheitskonferenz-gasspeicher](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-klimapolitik-muenchner-sicherheitskonferenz-gasspeicher-a-5fa375ad-7bba-4534-897e-5c5a5a5a2ac5#ref=rss)
+### berlinale
 
-* [https://www.spiegel.de/wirtschaft/deutschland-eigentuemer-sind-unzureichend-vor-extremwetter-geschuetzt](https://www.spiegel.de/wirtschaft/deutschland-eigentuemer-sind-unzureichend-vor-extremwetter-geschuetzt-a-efa6f4d0-b4fe-4ab0-b553-68fd306fea79#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/mikrobiom-ist-haeufiges-duschen-schlecht-fuer-die-haut](https://www.spiegel.de/wissenschaft/medizin/mikrobiom-ist-haeufiges-duschen-schlecht-fuer-die-haut-a-c6443f24-52e0-4b91-aa38-07b2d3126fb7#ref=rss)
-### taiwan
+* [https://www.spiegel.de/kultur/kino/arundhati-roy-kommt-nicht-zur-berlinale-wegen-aussagen-von-wim-wenders](https://www.spiegel.de/kultur/kino/arundhati-roy-kommt-nicht-zur-berlinale-wegen-aussagen-von-wim-wenders-a-53297f6d-d51a-4fdc-a635-00211c1528dd#ref=rss)
+* [https://www.spiegel.de/kultur/kino/berlinale-2026-aufbruchstimmung-trotz-schwaechelndem-festival](https://www.spiegel.de/kultur/kino/berlinale-2026-aufbruchstimmung-trotz-schwaechelndem-festival-a-a46ddbbd-2482-4300-99de-c6aebfc267cd#ref=rss)
+### ich
 
-* [https://www.spiegel.de/wirtschaft/maschinen-und-oel-fuer-hightech-usa-und-taiwan-einigen-sich-im-zollstreit](https://www.spiegel.de/wirtschaft/maschinen-und-oel-fuer-hightech-usa-und-taiwan-einigen-sich-im-zollstreit-a-4efa133b-923b-4f77-899c-a9c3207b0449#ref=rss)
-### hamburg
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an](https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an-a-1b4f4017-40ad-4853-b19e-58d7251519e2#ref=rss)
+* [https://www.spiegel.de/deinspiegel/woodwalkers-autorin-katja-brandis-im-kinder-interview-wenn-alle-anderen-schlafen-schreibe-ich](https://www.spiegel.de/deinspiegel/woodwalkers-autorin-katja-brandis-im-kinder-interview-wenn-alle-anderen-schlafen-schreibe-ich-a-07a4531d-cb68-417f-8220-0305bb2ce189#ref=rss)
+### weg
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-ein-toter-nach-streit-in-restaurant](https://www.spiegel.de/panorama/justiz/hamburg-ein-toter-nach-streit-in-restaurant-a-1d6b29d2-2c6f-44eb-b95e-81dcbc90c3db#ref=rss)
-### goldman
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an](https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an-a-1b4f4017-40ad-4853-b19e-58d7251519e2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-klimapolitik-muenchner-sicherheitskonferenz-gasspeicher](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-klimapolitik-muenchner-sicherheitskonferenz-gasspeicher-a-5fa375ad-7bba-4534-897e-5c5a5a5a2ac5#ref=rss)
+* [https://www.spiegel.de/start/toepferstudio-eine-ehemalige-sozialarbeiterin-erzaehlt-vom-weg-in-die-selbststaendigkeit](https://www.spiegel.de/start/toepferstudio-eine-ehemalige-sozialarbeiterin-erzaehlt-vom-weg-in-die-selbststaendigkeit-a-1ca7c0cf-a6f9-4e66-87d7-b23ee0968e7a#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/wirtschaft/goldman-sachs-chefjuristin-kathryn-ruemmler-geht-wegen-epstein-verbindung](https://www.spiegel.de/wirtschaft/goldman-sachs-chefjuristin-kathryn-ruemmler-geht-wegen-epstein-verbindung-a-c8a8e5af-1f6b-41fa-9410-ba0c288a6393#ref=rss)
-### sachs
+* [https://www.spiegel.de/sport/olympia-2026-eishockey-torwart-philipp-grubauer-sogar-der-gegner-taetschelt-ihm-anerkennend-den-helm](https://www.spiegel.de/sport/olympia-2026-eishockey-torwart-philipp-grubauer-sogar-der-gegner-taetschelt-ihm-anerkennend-den-helm-a-dda31d06-627f-41ac-a40d-25bea27dd4da#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg-a-b5d90f51-2c4b-47ea-bc3b-79ca61c5babe#ref=rss)
+* [https://www.spiegel.de/deinspiegel/woodwalkers-autorin-katja-brandis-im-kinder-interview-wenn-alle-anderen-schlafen-schreibe-ich](https://www.spiegel.de/deinspiegel/woodwalkers-autorin-katja-brandis-im-kinder-interview-wenn-alle-anderen-schlafen-schreibe-ich-a-07a4531d-cb68-417f-8220-0305bb2ce189#ref=rss)
+### vier
 
-* [https://www.spiegel.de/wirtschaft/goldman-sachs-chefjuristin-kathryn-ruemmler-geht-wegen-epstein-verbindung](https://www.spiegel.de/wirtschaft/goldman-sachs-chefjuristin-kathryn-ruemmler-geht-wegen-epstein-verbindung-a-c8a8e5af-1f6b-41fa-9410-ba0c288a6393#ref=rss)
-### chefjuristin
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg-a-b5d90f51-2c4b-47ea-bc3b-79ca61c5babe#ref=rss)
+* [https://www.spiegel.de/wissenschaft/olympia-2026-vierfach-axel-von-eiskunstlaeufer-ilia-malinin-ein-fast-unmoeglicher-sprung](https://www.spiegel.de/wissenschaft/olympia-2026-vierfach-axel-von-eiskunstlaeufer-ilia-malinin-ein-fast-unmoeglicher-sprung-a-c8e7d3cd-fcf0-4748-852f-b2c30e64e74c#ref=rss)
+### norwegen
 
-* [https://www.spiegel.de/wirtschaft/goldman-sachs-chefjuristin-kathryn-ruemmler-geht-wegen-epstein-verbindung](https://www.spiegel.de/wirtschaft/goldman-sachs-chefjuristin-kathryn-ruemmler-geht-wegen-epstein-verbindung-a-c8a8e5af-1f6b-41fa-9410-ba0c288a6393#ref=rss)
-### kathryn
+* [https://www.spiegel.de/ausland/jeffrey-epstein-warum-hatte-er-in-norwegen-so-viele-kontakte](https://www.spiegel.de/ausland/jeffrey-epstein-warum-hatte-er-in-norwegen-so-viele-kontakte-a-623b08d4-a807-4c93-a663-3057d50f14bf#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin](https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin-a-97a1028f-c7d1-4047-afc7-e2049d835bc9#ref=rss)
+### queere
 
-* [https://www.spiegel.de/wirtschaft/goldman-sachs-chefjuristin-kathryn-ruemmler-geht-wegen-epstein-verbindung](https://www.spiegel.de/wirtschaft/goldman-sachs-chefjuristin-kathryn-ruemmler-geht-wegen-epstein-verbindung-a-c8a8e5af-1f6b-41fa-9410-ba0c288a6393#ref=rss)
-### ruemmler
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### sportler
 
-* [https://www.spiegel.de/wirtschaft/goldman-sachs-chefjuristin-kathryn-ruemmler-geht-wegen-epstein-verbindung](https://www.spiegel.de/wirtschaft/goldman-sachs-chefjuristin-kathryn-ruemmler-geht-wegen-epstein-verbindung-a-c8a8e5af-1f6b-41fa-9410-ba0c288a6393#ref=rss)
-### duschen
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### hype
 
-* [https://www.spiegel.de/wissenschaft/medizin/mikrobiom-ist-haeufiges-duschen-schlecht-fuer-die-haut](https://www.spiegel.de/wissenschaft/medizin/mikrobiom-ist-haeufiges-duschen-schlecht-fuer-die-haut-a-c6443f24-52e0-4b91-aa38-07b2d3126fb7#ref=rss)
-### haut
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wissenschaft/medizin/mikrobiom-ist-haeufiges-duschen-schlecht-fuer-die-haut](https://www.spiegel.de/wissenschaft/medizin/mikrobiom-ist-haeufiges-duschen-schlecht-fuer-die-haut-a-c6443f24-52e0-4b91-aa38-07b2d3126fb7#ref=rss)
-### entscheidungen
+* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-friedrich-merz-malt-duesteres-weltbild](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-friedrich-merz-malt-duesteres-weltbild-a-7aaea040-d5c2-4ab4-aeef-275dbab0ef2a#ref=rss)
+* [https://www.spiegel.de/ausland/klimaschutz-usa-erklaeren-treibhausgase-offiziell-fuer-unbedenklich](https://www.spiegel.de/ausland/klimaschutz-usa-erklaeren-treibhausgase-offiziell-fuer-unbedenklich-a-33b8ea05-ed9a-4325-a9d0-6f7a6dde5350#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-bestaetigt-neue-ukrainegespraeche-in-kommender-woche](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-bestaetigt-neue-ukrainegespraeche-in-kommender-woche-a-5ecdf2f2-a305-4638-a7ed-b6ec4491065f#ref=rss)
+### treffen
 
-* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-freitag-13-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-freitag-13-februar-an-a-82c3ceb0-f798-4567-9fc9-5dcdeac72c8a#ref=rss)
+* [https://www.spiegel.de/geschichte/muenchner-sicherheitskonferenz-wer-hat-was-gesagt-das-zitate-quiz](https://www.spiegel.de/geschichte/muenchner-sicherheitskonferenz-wer-hat-was-gesagt-das-zitate-quiz-a-d54b2b90-d78b-4f3a-9478-7986d0f39af3#ref=rss)
+* [https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-wolfgang-ischinger-gibt-den-tom-cruise-aeh-den-emmanuel-macron](https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-wolfgang-ischinger-gibt-den-tom-cruise-aeh-den-emmanuel-macron-a-a95e0c4a-5062-4e77-8e8d-473c33326491#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-bestaetigt-neue-ukrainegespraeche-in-kommender-woche](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-bestaetigt-neue-ukrainegespraeche-in-kommender-woche-a-5ecdf2f2-a305-4638-a7ed-b6ec4491065f#ref=rss)
+### bundeskanzler
+
+* [https://www.spiegel.de/auto/donald-trump-billigere-autos-wohl-eher-ein-billiger-trick](https://www.spiegel.de/auto/donald-trump-billigere-autos-wohl-eher-ein-billiger-trick-a-b8855afc-ef28-4016-b370-562073540460#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab](https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab-a-e10691fc-ae00-41c9-adeb-442e0b9d8c09#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-emmanuel-macron-reden-ueber-europaeischen-atomschirm](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-emmanuel-macron-reden-ueber-europaeischen-atomschirm-a-69824949-a09d-49f3-a3e3-e0c4a9e897b5#ref=rss)
+### høiby
+
+* [https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin](https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin-a-97a1028f-c7d1-4047-afc7-e2049d835bc9#ref=rss)
+### siegmund
+
+* [https://www.spiegel.de/politik/sachsen-anhalt-afd-spitzenkandidat-ulrich-siegmund-bezeichnet-jan-wenzel-schmidt-als-mutmasslichen-v-mann](https://www.spiegel.de/politik/sachsen-anhalt-afd-spitzenkandidat-ulrich-siegmund-bezeichnet-jan-wenzel-schmidt-als-mutmasslichen-v-mann-a-4548025c-6ffb-4b73-bb25-dc726e081c52#ref=rss)
+### spiele
+
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an](https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an-a-1b4f4017-40ad-4853-b19e-58d7251519e2#ref=rss)
+* [https://www.spiegel.de/sport/olympia-2026-eishockey-torwart-philipp-grubauer-sogar-der-gegner-taetschelt-ihm-anerkennend-den-helm](https://www.spiegel.de/sport/olympia-2026-eishockey-torwart-philipp-grubauer-sogar-der-gegner-taetschelt-ihm-anerkennend-den-helm-a-dda31d06-627f-41ac-a40d-25bea27dd4da#ref=rss)
+### lindsey
+
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an](https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an-a-1b4f4017-40ad-4853-b19e-58d7251519e2#ref=rss)
+### vonn
+
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an](https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an-a-1b4f4017-40ad-4853-b19e-58d7251519e2#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an](https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an-a-1b4f4017-40ad-4853-b19e-58d7251519e2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/london-heathrow-links-rechts-verwirrung-sorgt-fuer-gedraenge-am-flughafen](https://www.spiegel.de/wirtschaft/london-heathrow-links-rechts-verwirrung-sorgt-fuer-gedraenge-am-flughafen-a-d8bf1efb-8d98-49fe-9ded-caaabb3d42bb#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an](https://www.spiegel.de/sport/olympia/olympische-spiele-2026-gestuerzter-skistar-lindsey-vonn-kuendigt-noch-zwei-weitere-operationen-an-a-1b4f4017-40ad-4853-b19e-58d7251519e2#ref=rss)
+* [https://www.spiegel.de/panorama/leute/michelle-obama-liess-sich-10-piercings-stechen-und-ihr-mann-barack-merkte-nichts](https://www.spiegel.de/panorama/leute/michelle-obama-liess-sich-10-piercings-stechen-und-ihr-mann-barack-merkte-nichts-a-5af4ae49-60e0-4cc9-9a5a-73aaed45e62d#ref=rss)
+### olympia
+
+* [https://www.spiegel.de/sport/olympia-2026-eishockey-torwart-philipp-grubauer-sogar-der-gegner-taetschelt-ihm-anerkennend-den-helm](https://www.spiegel.de/sport/olympia-2026-eishockey-torwart-philipp-grubauer-sogar-der-gegner-taetschelt-ihm-anerkennend-den-helm-a-dda31d06-627f-41ac-a40d-25bea27dd4da#ref=rss)
+* [https://www.spiegel.de/wissenschaft/olympia-2026-vierfach-axel-von-eiskunstlaeufer-ilia-malinin-ein-fast-unmoeglicher-sprung](https://www.spiegel.de/wissenschaft/olympia-2026-vierfach-axel-von-eiskunstlaeufer-ilia-malinin-ein-fast-unmoeglicher-sprung-a-c8e7d3cd-fcf0-4748-852f-b2c30e64e74c#ref=rss)
+### philipp
+
+* [https://www.spiegel.de/sport/olympia-2026-eishockey-torwart-philipp-grubauer-sogar-der-gegner-taetschelt-ihm-anerkennend-den-helm](https://www.spiegel.de/sport/olympia-2026-eishockey-torwart-philipp-grubauer-sogar-der-gegner-taetschelt-ihm-anerkennend-den-helm-a-dda31d06-627f-41ac-a40d-25bea27dd4da#ref=rss)
+### grubauer
+
+* [https://www.spiegel.de/sport/olympia-2026-eishockey-torwart-philipp-grubauer-sogar-der-gegner-taetschelt-ihm-anerkennend-den-helm](https://www.spiegel.de/sport/olympia-2026-eishockey-torwart-philipp-grubauer-sogar-der-gegner-taetschelt-ihm-anerkennend-den-helm-a-dda31d06-627f-41ac-a40d-25bea27dd4da#ref=rss)
+### guten
+
+* [https://www.spiegel.de/sport/olympia-2026-eishockey-torwart-philipp-grubauer-sogar-der-gegner-taetschelt-ihm-anerkennend-den-helm](https://www.spiegel.de/sport/olympia-2026-eishockey-torwart-philipp-grubauer-sogar-der-gegner-taetschelt-ihm-anerkennend-den-helm-a-dda31d06-627f-41ac-a40d-25bea27dd4da#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg-a-b5d90f51-2c4b-47ea-bc3b-79ca61c5babe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/maschinenbauer-tausende-jobs-in-deutschland-gestrichen](https://www.spiegel.de/wirtschaft/unternehmen/maschinenbauer-tausende-jobs-in-deutschland-gestrichen-a-6b61a1ad-7f8a-4bea-a405-9e3943881939#ref=rss)
+### alle
+
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg-a-b5d90f51-2c4b-47ea-bc3b-79ca61c5babe#ref=rss)
+* [https://www.spiegel.de/deinspiegel/woodwalkers-autorin-katja-brandis-im-kinder-interview-wenn-alle-anderen-schlafen-schreibe-ich](https://www.spiegel.de/deinspiegel/woodwalkers-autorin-katja-brandis-im-kinder-interview-wenn-alle-anderen-schlafen-schreibe-ich-a-07a4531d-cb68-417f-8220-0305bb2ce189#ref=rss)
+### unter
+
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-rodler-drueckt-anruf-von-bundeskanzler-merz-weg-a-b5d90f51-2c4b-47ea-bc3b-79ca61c5babe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin](https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin-a-97a1028f-c7d1-4047-afc7-e2049d835bc9#ref=rss)
+### jeffrey
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-warum-hatte-er-in-norwegen-so-viele-kontakte](https://www.spiegel.de/ausland/jeffrey-epstein-warum-hatte-er-in-norwegen-so-viele-kontakte-a-623b08d4-a807-4c93-a663-3057d50f14bf#ref=rss)
+### epstein
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-warum-hatte-er-in-norwegen-so-viele-kontakte](https://www.spiegel.de/ausland/jeffrey-epstein-warum-hatte-er-in-norwegen-so-viele-kontakte-a-623b08d4-a807-4c93-a663-3057d50f14bf#ref=rss)
+### kontakte
+
+* [https://www.spiegel.de/ausland/jeffrey-epstein-warum-hatte-er-in-norwegen-so-viele-kontakte](https://www.spiegel.de/ausland/jeffrey-epstein-warum-hatte-er-in-norwegen-so-viele-kontakte-a-623b08d4-a807-4c93-a663-3057d50f14bf#ref=rss)
+### rückt
+
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab](https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab-a-e10691fc-ae00-41c9-adeb-442e0b9d8c09#ref=rss)
+### eis
+
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### rivalen
+
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### hinter
+
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### verschlossenen
+
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### türen
+
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### liebespaar
+
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### lowbudget
+
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### schnell
+
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### nerv
+
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### trifft
+
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### verändern
+
+* [https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt](https://www.spiegel.de/kultur/heated-rivalry-eishockey-wie-die-serie-queere-sportler-ins-rampenlicht-rueckt-a-67ec4241-18b6-4cbb-81c1-6f889f623f5e#ref=rss)
+* [https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie](https://www.spiegel.de/kultur/hype-um-serie-heated-rivalry-spiegel-shortcut-ueber-erfolgsserie-a-5a2c2714-a47d-4b06-be0b-43d78b1c7f28#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-friedrich-merz-malt-duesteres-weltbild](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-friedrich-merz-malt-duesteres-weltbild-a-7aaea040-d5c2-4ab4-aeef-275dbab0ef2a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab](https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab-a-e10691fc-ae00-41c9-adeb-442e0b9d8c09#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-friedrich-merz-malt-duesteres-weltbild](https://www.spiegel.de/politik/muenchner-sicherheitskonferenz-friedrich-merz-malt-duesteres-weltbild-a-7aaea040-d5c2-4ab4-aeef-275dbab0ef2a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab](https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab-a-e10691fc-ae00-41c9-adeb-442e0b9d8c09#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/panorama/frankreich-drei-skifahrer-sterben-bei-lawinenabgang-in-den-alpen-bei-val-disere](https://www.spiegel.de/panorama/frankreich-drei-skifahrer-sterben-bei-lawinenabgang-in-den-alpen-bei-val-disere-a-b4a3af42-dd8b-4f41-be4e-1cb9002b4f69#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-emmanuel-macron-reden-ueber-europaeischen-atomschirm](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-emmanuel-macron-reden-ueber-europaeischen-atomschirm-a-69824949-a09d-49f3-a3e3-e0c4a9e897b5#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/frankreich-drei-skifahrer-sterben-bei-lawinenabgang-in-den-alpen-bei-val-disere](https://www.spiegel.de/panorama/frankreich-drei-skifahrer-sterben-bei-lawinenabgang-in-den-alpen-bei-val-disere-a-b4a3af42-dd8b-4f41-be4e-1cb9002b4f69#ref=rss)
+### skifahrer
+
+* [https://www.spiegel.de/panorama/frankreich-drei-skifahrer-sterben-bei-lawinenabgang-in-den-alpen-bei-val-disere](https://www.spiegel.de/panorama/frankreich-drei-skifahrer-sterben-bei-lawinenabgang-in-den-alpen-bei-val-disere-a-b4a3af42-dd8b-4f41-be4e-1cb9002b4f69#ref=rss)
+### val
+
+* [https://www.spiegel.de/panorama/frankreich-drei-skifahrer-sterben-bei-lawinenabgang-in-den-alpen-bei-val-disere](https://www.spiegel.de/panorama/frankreich-drei-skifahrer-sterben-bei-lawinenabgang-in-den-alpen-bei-val-disere-a-b4a3af42-dd8b-4f41-be4e-1cb9002b4f69#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/panorama/frankreich-drei-skifahrer-sterben-bei-lawinenabgang-in-den-alpen-bei-val-disere](https://www.spiegel.de/panorama/frankreich-drei-skifahrer-sterben-bei-lawinenabgang-in-den-alpen-bei-val-disere-a-b4a3af42-dd8b-4f41-be4e-1cb9002b4f69#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab](https://www.spiegel.de/politik/deutschland/muenchner-sicherheitskonferenz-bundeskanzler-friedrich-merz-rueckt-offen-von-trumps-amerika-ab-a-e10691fc-ae00-41c9-adeb-442e0b9d8c09#ref=rss)
+### arundhati
+
+* [https://www.spiegel.de/kultur/kino/arundhati-roy-kommt-nicht-zur-berlinale-wegen-aussagen-von-wim-wenders](https://www.spiegel.de/kultur/kino/arundhati-roy-kommt-nicht-zur-berlinale-wegen-aussagen-von-wim-wenders-a-53297f6d-d51a-4fdc-a635-00211c1528dd#ref=rss)
+### roy
+
+* [https://www.spiegel.de/kultur/kino/arundhati-roy-kommt-nicht-zur-berlinale-wegen-aussagen-von-wim-wenders](https://www.spiegel.de/kultur/kino/arundhati-roy-kommt-nicht-zur-berlinale-wegen-aussagen-von-wim-wenders-a-53297f6d-d51a-4fdc-a635-00211c1528dd#ref=rss)
+### wim
+
+* [https://www.spiegel.de/kultur/kino/arundhati-roy-kommt-nicht-zur-berlinale-wegen-aussagen-von-wim-wenders](https://www.spiegel.de/kultur/kino/arundhati-roy-kommt-nicht-zur-berlinale-wegen-aussagen-von-wim-wenders-a-53297f6d-d51a-4fdc-a635-00211c1528dd#ref=rss)
+### wenders
+
+* [https://www.spiegel.de/kultur/kino/arundhati-roy-kommt-nicht-zur-berlinale-wegen-aussagen-von-wim-wenders](https://www.spiegel.de/kultur/kino/arundhati-roy-kommt-nicht-zur-berlinale-wegen-aussagen-von-wim-wenders-a-53297f6d-d51a-4fdc-a635-00211c1528dd#ref=rss)
+### kino
+
+* [https://www.spiegel.de/kultur/kino/arundhati-roy-kommt-nicht-zur-berlinale-wegen-aussagen-von-wim-wenders](https://www.spiegel.de/kultur/kino/arundhati-roy-kommt-nicht-zur-berlinale-wegen-aussagen-von-wim-wenders-a-53297f6d-d51a-4fdc-a635-00211c1528dd#ref=rss)
+* [https://www.spiegel.de/kultur/kino/berlinale-2026-aufbruchstimmung-trotz-schwaechelndem-festival](https://www.spiegel.de/kultur/kino/berlinale-2026-aufbruchstimmung-trotz-schwaechelndem-festival-a-a46ddbbd-2482-4300-99de-c6aebfc267cd#ref=rss)
+### festival
+
+* [https://www.spiegel.de/kultur/kino/arundhati-roy-kommt-nicht-zur-berlinale-wegen-aussagen-von-wim-wenders](https://www.spiegel.de/kultur/kino/arundhati-roy-kommt-nicht-zur-berlinale-wegen-aussagen-von-wim-wenders-a-53297f6d-d51a-4fdc-a635-00211c1528dd#ref=rss)
+* [https://www.spiegel.de/kultur/kino/berlinale-2026-aufbruchstimmung-trotz-schwaechelndem-festival](https://www.spiegel.de/kultur/kino/berlinale-2026-aufbruchstimmung-trotz-schwaechelndem-festival-a-a46ddbbd-2482-4300-99de-c6aebfc267cd#ref=rss)
+### wasserschaden
+
+* [https://www.spiegel.de/panorama/paris-wasserschaden-im-louvre](https://www.spiegel.de/panorama/paris-wasserschaden-im-louvre-a-f62ca99d-5249-4a93-aca6-651102be42eb#ref=rss)
+### louvre
+
+* [https://www.spiegel.de/panorama/paris-wasserschaden-im-louvre](https://www.spiegel.de/panorama/paris-wasserschaden-im-louvre-a-f62ca99d-5249-4a93-aca6-651102be42eb#ref=rss)
+### sorgt
+
+* [https://www.spiegel.de/panorama/paris-wasserschaden-im-louvre](https://www.spiegel.de/panorama/paris-wasserschaden-im-louvre-a-f62ca99d-5249-4a93-aca6-651102be42eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/london-heathrow-links-rechts-verwirrung-sorgt-fuer-gedraenge-am-flughafen](https://www.spiegel.de/wirtschaft/london-heathrow-links-rechts-verwirrung-sorgt-fuer-gedraenge-am-flughafen-a-d8bf1efb-8d98-49fe-9ded-caaabb3d42bb#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/leute/michelle-obama-liess-sich-10-piercings-stechen-und-ihr-mann-barack-merkte-nichts](https://www.spiegel.de/panorama/leute/michelle-obama-liess-sich-10-piercings-stechen-und-ihr-mann-barack-merkte-nichts-a-5af4ae49-60e0-4cc9-9a5a-73aaed45e62d#ref=rss)
+### gern
+
+* [https://www.spiegel.de/panorama/leute/michelle-obama-liess-sich-10-piercings-stechen-und-ihr-mann-barack-merkte-nichts](https://www.spiegel.de/panorama/leute/michelle-obama-liess-sich-10-piercings-stechen-und-ihr-mann-barack-merkte-nichts-a-5af4ae49-60e0-4cc9-9a5a-73aaed45e62d#ref=rss)
+* [https://www.spiegel.de/geschichte/muenchner-sicherheitskonferenz-wer-hat-was-gesagt-das-zitate-quiz](https://www.spiegel.de/geschichte/muenchner-sicherheitskonferenz-wer-hat-was-gesagt-das-zitate-quiz-a-d54b2b90-d78b-4f3a-9478-7986d0f39af3#ref=rss)
+### schilderte
+
+* [https://www.spiegel.de/panorama/leute/michelle-obama-liess-sich-10-piercings-stechen-und-ihr-mann-barack-merkte-nichts](https://www.spiegel.de/panorama/leute/michelle-obama-liess-sich-10-piercings-stechen-und-ihr-mann-barack-merkte-nichts-a-5af4ae49-60e0-4cc9-9a5a-73aaed45e62d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin](https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin-a-97a1028f-c7d1-4047-afc7-e2049d835bc9#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/panorama/leute/michelle-obama-liess-sich-10-piercings-stechen-und-ihr-mann-barack-merkte-nichts](https://www.spiegel.de/panorama/leute/michelle-obama-liess-sich-10-piercings-stechen-und-ihr-mann-barack-merkte-nichts-a-5af4ae49-60e0-4cc9-9a5a-73aaed45e62d#ref=rss)
+* [https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-wolfgang-ischinger-gibt-den-tom-cruise-aeh-den-emmanuel-macron](https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-wolfgang-ischinger-gibt-den-tom-cruise-aeh-den-emmanuel-macron-a-a95e0c4a-5062-4e77-8e8d-473c33326491#ref=rss)
+### 300
+
+* [https://www.spiegel.de/wissenschaft/reptilienfossil-forscher-finden-300-millionen-jahre-alte-hautabdruecke](https://www.spiegel.de/wissenschaft/reptilienfossil-forscher-finden-300-millionen-jahre-alte-hautabdruecke-a-b532d56b-898e-4447-8561-c420060bf9fb#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/wissenschaft/reptilienfossil-forscher-finden-300-millionen-jahre-alte-hautabdruecke](https://www.spiegel.de/wissenschaft/reptilienfossil-forscher-finden-300-millionen-jahre-alte-hautabdruecke-a-b532d56b-898e-4447-8561-c420060bf9fb#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/wissenschaft/reptilienfossil-forscher-finden-300-millionen-jahre-alte-hautabdruecke](https://www.spiegel.de/wissenschaft/reptilienfossil-forscher-finden-300-millionen-jahre-alte-hautabdruecke-a-b532d56b-898e-4447-8561-c420060bf9fb#ref=rss)
+### alte
+
+* [https://www.spiegel.de/wissenschaft/reptilienfossil-forscher-finden-300-millionen-jahre-alte-hautabdruecke](https://www.spiegel.de/wissenschaft/reptilienfossil-forscher-finden-300-millionen-jahre-alte-hautabdruecke-a-b532d56b-898e-4447-8561-c420060bf9fb#ref=rss)
+### hautabdrücke
+
+* [https://www.spiegel.de/wissenschaft/reptilienfossil-forscher-finden-300-millionen-jahre-alte-hautabdruecke](https://www.spiegel.de/wissenschaft/reptilienfossil-forscher-finden-300-millionen-jahre-alte-hautabdruecke-a-b532d56b-898e-4447-8561-c420060bf9fb#ref=rss)
+### gut
+
+* [https://www.spiegel.de/wissenschaft/reptilienfossil-forscher-finden-300-millionen-jahre-alte-hautabdruecke](https://www.spiegel.de/wissenschaft/reptilienfossil-forscher-finden-300-millionen-jahre-alte-hautabdruecke-a-b532d56b-898e-4447-8561-c420060bf9fb#ref=rss)
+* [https://www.spiegel.de/kultur/kino/berlinale-2026-aufbruchstimmung-trotz-schwaechelndem-festival](https://www.spiegel.de/kultur/kino/berlinale-2026-aufbruchstimmung-trotz-schwaechelndem-festival-a-a46ddbbd-2482-4300-99de-c6aebfc267cd#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/geschichte/muenchner-sicherheitskonferenz-wer-hat-was-gesagt-das-zitate-quiz](https://www.spiegel.de/geschichte/muenchner-sicherheitskonferenz-wer-hat-was-gesagt-das-zitate-quiz-a-d54b2b90-d78b-4f3a-9478-7986d0f39af3#ref=rss)
+* [https://www.spiegel.de/panorama/karneval-in-koeln-frau-floesst-ihrem-hund-mutmasslich-wodka-ein](https://www.spiegel.de/panorama/karneval-in-koeln-frau-floesst-ihrem-hund-mutmasslich-wodka-ein-a-a293dab1-766c-4151-b514-6a6397703538#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/geschichte/muenchner-sicherheitskonferenz-wer-hat-was-gesagt-das-zitate-quiz](https://www.spiegel.de/geschichte/muenchner-sicherheitskonferenz-wer-hat-was-gesagt-das-zitate-quiz-a-d54b2b90-d78b-4f3a-9478-7986d0f39af3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/maschinenbauer-tausende-jobs-in-deutschland-gestrichen](https://www.spiegel.de/wirtschaft/unternehmen/maschinenbauer-tausende-jobs-in-deutschland-gestrichen-a-6b61a1ad-7f8a-4bea-a405-9e3943881939#ref=rss)
+### lage
+
+* [https://www.spiegel.de/geschichte/muenchner-sicherheitskonferenz-wer-hat-was-gesagt-das-zitate-quiz](https://www.spiegel.de/geschichte/muenchner-sicherheitskonferenz-wer-hat-was-gesagt-das-zitate-quiz-a-d54b2b90-d78b-4f3a-9478-7986d0f39af3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-klimapolitik-muenchner-sicherheitskonferenz-gasspeicher](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-klimapolitik-muenchner-sicherheitskonferenz-gasspeicher-a-5fa375ad-7bba-4534-897e-5c5a5a5a2ac5#ref=rss)
+### wolfgang
+
+* [https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-wolfgang-ischinger-gibt-den-tom-cruise-aeh-den-emmanuel-macron](https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-wolfgang-ischinger-gibt-den-tom-cruise-aeh-den-emmanuel-macron-a-a95e0c4a-5062-4e77-8e8d-473c33326491#ref=rss)
+### ischinger
+
+* [https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-wolfgang-ischinger-gibt-den-tom-cruise-aeh-den-emmanuel-macron](https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-wolfgang-ischinger-gibt-den-tom-cruise-aeh-den-emmanuel-macron-a-a95e0c4a-5062-4e77-8e8d-473c33326491#ref=rss)
+### emmanuel
+
+* [https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-wolfgang-ischinger-gibt-den-tom-cruise-aeh-den-emmanuel-macron](https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-wolfgang-ischinger-gibt-den-tom-cruise-aeh-den-emmanuel-macron-a-a95e0c4a-5062-4e77-8e8d-473c33326491#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-emmanuel-macron-reden-ueber-europaeischen-atomschirm](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-emmanuel-macron-reden-ueber-europaeischen-atomschirm-a-69824949-a09d-49f3-a3e3-e0c4a9e897b5#ref=rss)
+### macron
+
+* [https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-wolfgang-ischinger-gibt-den-tom-cruise-aeh-den-emmanuel-macron](https://www.spiegel.de/ausland/muenchner-sicherheitskonferenz-wolfgang-ischinger-gibt-den-tom-cruise-aeh-den-emmanuel-macron-a-a95e0c4a-5062-4e77-8e8d-473c33326491#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-emmanuel-macron-reden-ueber-europaeischen-atomschirm](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-emmanuel-macron-reden-ueber-europaeischen-atomschirm-a-69824949-a09d-49f3-a3e3-e0c4a9e897b5#ref=rss)
+### maschinenbauer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/maschinenbauer-tausende-jobs-in-deutschland-gestrichen](https://www.spiegel.de/wirtschaft/unternehmen/maschinenbauer-tausende-jobs-in-deutschland-gestrichen-a-6b61a1ad-7f8a-4bea-a405-9e3943881939#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/maschinenbauer-tausende-jobs-in-deutschland-gestrichen](https://www.spiegel.de/wirtschaft/unternehmen/maschinenbauer-tausende-jobs-in-deutschland-gestrichen-a-6b61a1ad-7f8a-4bea-a405-9e3943881939#ref=rss)
+### ende
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/maschinenbauer-tausende-jobs-in-deutschland-gestrichen](https://www.spiegel.de/wirtschaft/unternehmen/maschinenbauer-tausende-jobs-in-deutschland-gestrichen-a-6b61a1ad-7f8a-4bea-a405-9e3943881939#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-bestaetigt-neue-ukrainegespraeche-in-kommender-woche](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-bestaetigt-neue-ukrainegespraeche-in-kommender-woche-a-5ecdf2f2-a305-4638-a7ed-b6ec4491065f#ref=rss)
+### abwärtstrend
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/maschinenbauer-tausende-jobs-in-deutschland-gestrichen](https://www.spiegel.de/wirtschaft/unternehmen/maschinenbauer-tausende-jobs-in-deutschland-gestrichen-a-6b61a1ad-7f8a-4bea-a405-9e3943881939#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/energiewende-chinas-emissionen-stagnieren-trotz-wirtschaftswachstum](https://www.spiegel.de/wissenschaft/natur/energiewende-chinas-emissionen-stagnieren-trotz-wirtschaftswachstum-a-92051a4b-66b8-4c9d-aa11-9181dd92ce68#ref=rss)
+### eiskunstläufer
+
+* [https://www.spiegel.de/wissenschaft/olympia-2026-vierfach-axel-von-eiskunstlaeufer-ilia-malinin-ein-fast-unmoeglicher-sprung](https://www.spiegel.de/wissenschaft/olympia-2026-vierfach-axel-von-eiskunstlaeufer-ilia-malinin-ein-fast-unmoeglicher-sprung-a-c8e7d3cd-fcf0-4748-852f-b2c30e64e74c#ref=rss)
+### ilia
+
+* [https://www.spiegel.de/wissenschaft/olympia-2026-vierfach-axel-von-eiskunstlaeufer-ilia-malinin-ein-fast-unmoeglicher-sprung](https://www.spiegel.de/wissenschaft/olympia-2026-vierfach-axel-von-eiskunstlaeufer-ilia-malinin-ein-fast-unmoeglicher-sprung-a-c8e7d3cd-fcf0-4748-852f-b2c30e64e74c#ref=rss)
+### malinin
+
+* [https://www.spiegel.de/wissenschaft/olympia-2026-vierfach-axel-von-eiskunstlaeufer-ilia-malinin-ein-fast-unmoeglicher-sprung](https://www.spiegel.de/wissenschaft/olympia-2026-vierfach-axel-von-eiskunstlaeufer-ilia-malinin-ein-fast-unmoeglicher-sprung-a-c8e7d3cd-fcf0-4748-852f-b2c30e64e74c#ref=rss)
+### sprung
+
+* [https://www.spiegel.de/wissenschaft/olympia-2026-vierfach-axel-von-eiskunstlaeufer-ilia-malinin-ein-fast-unmoeglicher-sprung](https://www.spiegel.de/wissenschaft/olympia-2026-vierfach-axel-von-eiskunstlaeufer-ilia-malinin-ein-fast-unmoeglicher-sprung-a-c8e7d3cd-fcf0-4748-852f-b2c30e64e74c#ref=rss)
+### köln
+
+* [https://www.spiegel.de/panorama/karneval-in-koeln-frau-floesst-ihrem-hund-mutmasslich-wodka-ein](https://www.spiegel.de/panorama/karneval-in-koeln-frau-floesst-ihrem-hund-mutmasslich-wodka-ein-a-a293dab1-766c-4151-b514-6a6397703538#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/karneval-in-koeln-frau-floesst-ihrem-hund-mutmasslich-wodka-ein](https://www.spiegel.de/panorama/karneval-in-koeln-frau-floesst-ihrem-hund-mutmasslich-wodka-ein-a-a293dab1-766c-4151-b514-6a6397703538#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin](https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin-a-97a1028f-c7d1-4047-afc7-e2049d835bc9#ref=rss)
+### hund
+
+* [https://www.spiegel.de/panorama/karneval-in-koeln-frau-floesst-ihrem-hund-mutmasslich-wodka-ein](https://www.spiegel.de/panorama/karneval-in-koeln-frau-floesst-ihrem-hund-mutmasslich-wodka-ein-a-a293dab1-766c-4151-b514-6a6397703538#ref=rss)
+### alkohol
+
+* [https://www.spiegel.de/panorama/karneval-in-koeln-frau-floesst-ihrem-hund-mutmasslich-wodka-ein](https://www.spiegel.de/panorama/karneval-in-koeln-frau-floesst-ihrem-hund-mutmasslich-wodka-ein-a-a293dab1-766c-4151-b514-6a6397703538#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin](https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin-a-97a1028f-c7d1-4047-afc7-e2049d835bc9#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-bestaetigt-neue-ukrainegespraeche-in-kommender-woche](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-bestaetigt-neue-ukrainegespraeche-in-kommender-woche-a-5ecdf2f2-a305-4638-a7ed-b6ec4491065f#ref=rss)
+### katja
+
+* [https://www.spiegel.de/deinspiegel/woodwalkers-autorin-katja-brandis-im-kinder-interview-wenn-alle-anderen-schlafen-schreibe-ich](https://www.spiegel.de/deinspiegel/woodwalkers-autorin-katja-brandis-im-kinder-interview-wenn-alle-anderen-schlafen-schreibe-ich-a-07a4531d-cb68-417f-8220-0305bb2ce189#ref=rss)
+### brandis
+
+* [https://www.spiegel.de/deinspiegel/woodwalkers-autorin-katja-brandis-im-kinder-interview-wenn-alle-anderen-schlafen-schreibe-ich](https://www.spiegel.de/deinspiegel/woodwalkers-autorin-katja-brandis-im-kinder-interview-wenn-alle-anderen-schlafen-schreibe-ich-a-07a4531d-cb68-417f-8220-0305bb2ce189#ref=rss)
+### heathrow
+
+* [https://www.spiegel.de/wirtschaft/london-heathrow-links-rechts-verwirrung-sorgt-fuer-gedraenge-am-flughafen](https://www.spiegel.de/wirtschaft/london-heathrow-links-rechts-verwirrung-sorgt-fuer-gedraenge-am-flughafen-a-d8bf1efb-8d98-49fe-9ded-caaabb3d42bb#ref=rss)
+### ausbau
+
+* [https://www.spiegel.de/wirtschaft/london-heathrow-links-rechts-verwirrung-sorgt-fuer-gedraenge-am-flughafen](https://www.spiegel.de/wirtschaft/london-heathrow-links-rechts-verwirrung-sorgt-fuer-gedraenge-am-flughafen-a-d8bf1efb-8d98-49fe-9ded-caaabb3d42bb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/energiewende-chinas-emissionen-stagnieren-trotz-wirtschaftswachstum](https://www.spiegel.de/wissenschaft/natur/energiewende-chinas-emissionen-stagnieren-trotz-wirtschaftswachstum-a-92051a4b-66b8-4c9d-aa11-9181dd92ce68#ref=rss)
+### liegt
+
+* [https://www.spiegel.de/wirtschaft/london-heathrow-links-rechts-verwirrung-sorgt-fuer-gedraenge-am-flughafen](https://www.spiegel.de/wirtschaft/london-heathrow-links-rechts-verwirrung-sorgt-fuer-gedraenge-am-flughafen-a-d8bf1efb-8d98-49fe-9ded-caaabb3d42bb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/energiewende-chinas-emissionen-stagnieren-trotz-wirtschaftswachstum](https://www.spiegel.de/wissenschaft/natur/energiewende-chinas-emissionen-stagnieren-trotz-wirtschaftswachstum-a-92051a4b-66b8-4c9d-aa11-9181dd92ce68#ref=rss)
+### töpferstudio
+
+* [https://www.spiegel.de/start/toepferstudio-eine-ehemalige-sozialarbeiterin-erzaehlt-vom-weg-in-die-selbststaendigkeit](https://www.spiegel.de/start/toepferstudio-eine-ehemalige-sozialarbeiterin-erzaehlt-vom-weg-in-die-selbststaendigkeit-a-1ca7c0cf-a6f9-4e66-87d7-b23ee0968e7a#ref=rss)
+### sozialarbeiterin
+
+* [https://www.spiegel.de/start/toepferstudio-eine-ehemalige-sozialarbeiterin-erzaehlt-vom-weg-in-die-selbststaendigkeit](https://www.spiegel.de/start/toepferstudio-eine-ehemalige-sozialarbeiterin-erzaehlt-vom-weg-in-die-selbststaendigkeit-a-1ca7c0cf-a6f9-4e66-87d7-b23ee0968e7a#ref=rss)
+### emissionen
+
+* [https://www.spiegel.de/wissenschaft/natur/energiewende-chinas-emissionen-stagnieren-trotz-wirtschaftswachstum](https://www.spiegel.de/wissenschaft/natur/energiewende-chinas-emissionen-stagnieren-trotz-wirtschaftswachstum-a-92051a4b-66b8-4c9d-aa11-9181dd92ce68#ref=rss)
+### atomschirm
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-emmanuel-macron-reden-ueber-europaeischen-atomschirm](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-emmanuel-macron-reden-ueber-europaeischen-atomschirm-a-69824949-a09d-49f3-a3e3-e0c4a9e897b5#ref=rss)
+### prozess
+
+* [https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin](https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin-a-97a1028f-c7d1-4047-afc7-e2049d835bc9#ref=rss)
+### marius
+
+* [https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin](https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin-a-97a1028f-c7d1-4047-afc7-e2049d835bc9#ref=rss)
+### borg
+
+* [https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin](https://www.spiegel.de/panorama/justiz/prozess-in-norwegen-marius-borg-hoiby-verteidigt-sich-mit-blackout-durch-alkohol-kokain-und-ketamin-a-97a1028f-c7d1-4047-afc7-e2049d835bc9#ref=rss)
 
