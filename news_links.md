@@ -4,404 +4,289 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### genf
-
-* [https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy](https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy-a-0861f585-d796-42ea-9ba1-0dac72129987#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainegespraeche-in-genf-enden-ohne-einigung-aber-mit-fortschritten](https://www.spiegel.de/ausland/ukrainegespraeche-in-genf-enden-ohne-einigung-aber-mit-fortschritten-a-1683f66d-8f95-4395-8066-9b140437428f#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/afd-700-000-euro-aus-erbschaft-partei-erhaelt-seschsstelliges-vermaechtnis](https://www.spiegel.de/panorama/afd-700-000-euro-aus-erbschaft-partei-erhaelt-seschsstelliges-vermaechtnis-a-c70e8a39-c88b-4477-b806-1f673ab915b4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/elmshorn-geruch-fuehrt-polizei-zu-drogen-versteck-von-mann-20-im-keller-der-oma](https://www.spiegel.de/panorama/justiz/elmshorn-geruch-fuehrt-polizei-zu-drogen-versteck-von-mann-20-im-keller-der-oma-a-d7ef0466-7506-4a70-8e40-68207b1d2615#ref=rss)
-* [https://www.spiegel.de/ausland/lyon-mord-an-quentin-deranque-erschuettert-frankreich](https://www.spiegel.de/ausland/lyon-mord-an-quentin-deranque-erschuettert-frankreich-a-49acfe10-b963-45b6-ad6a-7d210b546bcb#ref=rss)
-### kälte
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-* [https://www.spiegel.de/auto/e-mobilitaet-wie-sich-ein-e-auto-bei-minus-45-grad-schlaegt](https://www.spiegel.de/auto/e-mobilitaet-wie-sich-ein-e-auto-bei-minus-45-grad-schlaegt-a-fc012b17-e39a-47e7-bb83-9f9f41ee7b3e#ref=rss)
-### usa
-
-* [https://www.spiegel.de/kultur/heute-journal-zdf-schickt-mitarbeiter-nach-ki-panne-zu-pflichtschulungen](https://www.spiegel.de/kultur/heute-journal-zdf-schickt-mitarbeiter-nach-ki-panne-zu-pflichtschulungen-a-da2fc59c-32f6-4dda-8682-639cfb2b21ab#ref=rss)
-* [https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy](https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy-a-0861f585-d796-42ea-9ba1-0dac72129987#ref=rss)
-* [https://www.spiegel.de/ausland/usa-verbaende-klagen-gegen-donald-trumps-neuestes-anti-klimaschutz-vorhaben](https://www.spiegel.de/ausland/usa-verbaende-klagen-gegen-donald-trumps-neuestes-anti-klimaschutz-vorhaben-a-cc633284-3deb-4901-aa00-45616392cb9a#ref=rss)
-### außenminister
-
-* [https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy](https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy-a-0861f585-d796-42ea-9ba1-0dac72129987#ref=rss)
-* [https://www.spiegel.de/ausland/polen-aussenminister-radoslaw-sikorski-deutschland-und-frankreich-sind-heute-zu-klein-um-europa-zu-regieren](https://www.spiegel.de/ausland/polen-aussenminister-radoslaw-sikorski-deutschland-und-frankreich-sind-heute-zu-klein-um-europa-zu-regieren-a-07e648d7-9eff-4f62-93da-9a1974d57e11#ref=rss)
-### macht
-
-* [https://www.spiegel.de/kultur/kino/seedance-2-0-fans-schreiben-filmenden-mit-neuer-ki-software-um](https://www.spiegel.de/kultur/kino/seedance-2-0-fans-schreiben-filmenden-mit-neuer-ki-software-um-a-bace24b2-bce4-4e62-8568-fa8ab0b18084#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russland-ukraine-friedensgespraeche-it-probleme-bei-der-deutschen-bahn-rechtsstreit-mit-der-plattform-x](https://www.spiegel.de/politik/deutschland/news-des-tages-russland-ukraine-friedensgespraeche-it-probleme-bei-der-deutschen-bahn-rechtsstreit-mit-der-plattform-x-a-54ed3ebd-43e3-485c-b5d3-ca4b5dcad111#ref=rss)
-* [https://www.spiegel.de/partnerschaft/beziehungen-studie-zu-zufriedenheit-im-alter-zusammenziehen-macht-gluecklich](https://www.spiegel.de/partnerschaft/beziehungen-studie-zu-zufriedenheit-im-alter-zusammenziehen-macht-gluecklich-a-7eed014a-505f-4aba-84cb-de977baf5996#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/kultur/kino/seedance-2-0-fans-schreiben-filmenden-mit-neuer-ki-software-um](https://www.spiegel.de/kultur/kino/seedance-2-0-fans-schreiben-filmenden-mit-neuer-ki-software-um-a-bace24b2-bce4-4e62-8568-fa8ab0b18084#ref=rss)
-* [https://www.spiegel.de/ausland/polen-aussenminister-radoslaw-sikorski-deutschland-und-frankreich-sind-heute-zu-klein-um-europa-zu-regieren](https://www.spiegel.de/ausland/polen-aussenminister-radoslaw-sikorski-deutschland-und-frankreich-sind-heute-zu-klein-um-europa-zu-regieren-a-07e648d7-9eff-4f62-93da-9a1974d57e11#ref=rss)
-* [https://www.spiegel.de/kultur/daniel-radcliffe-harry-potter-schauspieler-will-fuer-seinen-nachfolger-kein-seltsamer-geist-sein](https://www.spiegel.de/kultur/daniel-radcliffe-harry-potter-schauspieler-will-fuer-seinen-nachfolger-kein-seltsamer-geist-sein-a-71c9fcbe-fd5a-43cf-8e0e-4a4ae19555f5#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/kultur/kino/seedance-2-0-fans-schreiben-filmenden-mit-neuer-ki-software-um](https://www.spiegel.de/kultur/kino/seedance-2-0-fans-schreiben-filmenden-mit-neuer-ki-software-um-a-bace24b2-bce4-4e62-8568-fa8ab0b18084#ref=rss)
-* [https://www.spiegel.de/panorama/roboterhund-sorgt-fuer-eklat-bei-ki-ausstellung-in-indien](https://www.spiegel.de/panorama/roboterhund-sorgt-fuer-eklat-bei-ki-ausstellung-in-indien-a-a9fed198-eb9f-40f8-9869-5a3a5f25ba5d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wirtschaftsministerium-katherina-reiche-entlaesst-chefin-der-leitungsabteilung](https://www.spiegel.de/politik/deutschland/wirtschaftsministerium-katherina-reiche-entlaesst-chefin-der-leitungsabteilung-a-bc866226-b2ea-43c5-bc2e-7523c2171ca1#ref=rss)
-### team
-
-* [https://www.spiegel.de/panorama/elefant-kippt-um-ein-feuerwehr-mann-erzaehlt-wie-er-dem-tier-wieder-aufhalf](https://www.spiegel.de/panorama/elefant-kippt-um-ein-feuerwehr-mann-erzaehlt-wie-er-dem-tier-wieder-aufhalf-a-1f5b434d-8386-4d6a-b0ec-055969275e78#ref=rss)
-* [https://www.spiegel.de/sport/eishockey-wm-leon-draisaitl-und-team-ohne-zusammenhalt-im-viertelfinale-ausgeschieden](https://www.spiegel.de/sport/eishockey-wm-leon-draisaitl-und-team-ohne-zusammenhalt-im-viertelfinale-ausgeschieden-a-6cf95acf-750f-478b-9007-f617bdcc6727#ref=rss)
-### partei
-
-* [https://www.spiegel.de/panorama/afd-700-000-euro-aus-erbschaft-partei-erhaelt-seschsstelliges-vermaechtnis](https://www.spiegel.de/panorama/afd-700-000-euro-aus-erbschaft-partei-erhaelt-seschsstelliges-vermaechtnis-a-c70e8a39-c88b-4477-b806-1f673ab915b4#ref=rss)
-* [https://www.spiegel.de/ausland/lyon-mord-an-quentin-deranque-erschuettert-frankreich](https://www.spiegel.de/ausland/lyon-mord-an-quentin-deranque-erschuettert-frankreich-a-49acfe10-b963-45b6-ad6a-7d210b546bcb#ref=rss)
-### großglocknerprozess
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### innsbruck
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### folgt
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### tödlichen
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### bergsteigerdrama
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### dunkelheit
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### ließ
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### österreicher
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### freundin
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### großglockner
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### erfror
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### werfen
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### erfahrenen
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### bergsteiger
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### schwere
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### fehler
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### hintergründe
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### donnerstag
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### startet
-
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-a-40aad62a-0b08-4476-96e7-55565b503b89#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast](https://www.spiegel.de/sport/grossglockner-prozess-in-innsbruck-was-folgt-aus-dem-toedlichen-bergsteiger-drama-podcast-a-cb5ec09e-3b9d-463f-b895-1ca9ed3c2d90#ref=rss)
-### journal
-
-* [https://www.spiegel.de/kultur/heute-journal-zdf-schickt-mitarbeiter-nach-ki-panne-zu-pflichtschulungen](https://www.spiegel.de/kultur/heute-journal-zdf-schickt-mitarbeiter-nach-ki-panne-zu-pflichtschulungen-a-da2fc59c-32f6-4dda-8682-639cfb2b21ab#ref=rss)
-### zdf
-
-* [https://www.spiegel.de/kultur/heute-journal-zdf-schickt-mitarbeiter-nach-ki-panne-zu-pflichtschulungen](https://www.spiegel.de/kultur/heute-journal-zdf-schickt-mitarbeiter-nach-ki-panne-zu-pflichtschulungen-a-da2fc59c-32f6-4dda-8682-639cfb2b21ab#ref=rss)
-### steve
-
-* [https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy](https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy-a-0861f585-d796-42ea-9ba1-0dac72129987#ref=rss)
-### witkoff
-
-* [https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy](https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy-a-0861f585-d796-42ea-9ba1-0dac72129987#ref=rss)
-### jared
-
-* [https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy](https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy-a-0861f585-d796-42ea-9ba1-0dac72129987#ref=rss)
-### kushner
-
-* [https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy](https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy-a-0861f585-d796-42ea-9ba1-0dac72129987#ref=rss)
-### schwiegersohn
-
-* [https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy](https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy-a-0861f585-d796-42ea-9ba1-0dac72129987#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy](https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy-a-0861f585-d796-42ea-9ba1-0dac72129987#ref=rss)
-* [https://www.spiegel.de/ausland/usa-verbaende-klagen-gegen-donald-trumps-neuestes-anti-klimaschutz-vorhaben](https://www.spiegel.de/ausland/usa-verbaende-klagen-gegen-donald-trumps-neuestes-anti-klimaschutz-vorhaben-a-cc633284-3deb-4901-aa00-45616392cb9a#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy](https://www.spiegel.de/ausland/steve-witkoff-und-jared-kushner-in-genf-der-schwiegersohn-und-der-golfbuddy-a-0861f585-d796-42ea-9ba1-0dac72129987#ref=rss)
-* [https://www.spiegel.de/ausland/usa-verbaende-klagen-gegen-donald-trumps-neuestes-anti-klimaschutz-vorhaben](https://www.spiegel.de/ausland/usa-verbaende-klagen-gegen-donald-trumps-neuestes-anti-klimaschutz-vorhaben-a-cc633284-3deb-4901-aa00-45616392cb9a#ref=rss)
-### 20
-
-* [https://www.spiegel.de/kultur/kino/seedance-2-0-fans-schreiben-filmenden-mit-neuer-ki-software-um](https://www.spiegel.de/kultur/kino/seedance-2-0-fans-schreiben-filmenden-mit-neuer-ki-software-um-a-bace24b2-bce4-4e62-8568-fa8ab0b18084#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/elmshorn-geruch-fuehrt-polizei-zu-drogen-versteck-von-mann-20-im-keller-der-oma](https://www.spiegel.de/panorama/justiz/elmshorn-geruch-fuehrt-polizei-zu-drogen-versteck-von-mann-20-im-keller-der-oma-a-d7ef0466-7506-4a70-8e40-68207b1d2615#ref=rss)
-### fans
-
-* [https://www.spiegel.de/kultur/kino/seedance-2-0-fans-schreiben-filmenden-mit-neuer-ki-software-um](https://www.spiegel.de/kultur/kino/seedance-2-0-fans-schreiben-filmenden-mit-neuer-ki-software-um-a-bace24b2-bce4-4e62-8568-fa8ab0b18084#ref=rss)
-### schreiben
-
-* [https://www.spiegel.de/kultur/kino/seedance-2-0-fans-schreiben-filmenden-mit-neuer-ki-software-um](https://www.spiegel.de/kultur/kino/seedance-2-0-fans-schreiben-filmenden-mit-neuer-ki-software-um-a-bace24b2-bce4-4e62-8568-fa8ab0b18084#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/kultur/kino/seedance-2-0-fans-schreiben-filmenden-mit-neuer-ki-software-um](https://www.spiegel.de/kultur/kino/seedance-2-0-fans-schreiben-filmenden-mit-neuer-ki-software-um-a-bace24b2-bce4-4e62-8568-fa8ab0b18084#ref=rss)
-* [https://www.spiegel.de/panorama/elefant-kippt-um-ein-feuerwehr-mann-erzaehlt-wie-er-dem-tier-wieder-aufhalf](https://www.spiegel.de/panorama/elefant-kippt-um-ein-feuerwehr-mann-erzaehlt-wie-er-dem-tier-wieder-aufhalf-a-1f5b434d-8386-4d6a-b0ec-055969275e78#ref=rss)
-### pritzkerpreis
-
-* [https://www.spiegel.de/kultur/pritzker-preis-wer-braucht-noch-den-architekturpreis](https://www.spiegel.de/kultur/pritzker-preis-wer-braucht-noch-den-architekturpreis-a-0424b51b-7842-4440-bfb7-887553e5186d#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/usa-verbaende-klagen-gegen-donald-trumps-neuestes-anti-klimaschutz-vorhaben](https://www.spiegel.de/ausland/usa-verbaende-klagen-gegen-donald-trumps-neuestes-anti-klimaschutz-vorhaben-a-cc633284-3deb-4901-aa00-45616392cb9a#ref=rss)
-* [https://www.spiegel.de/panorama/afd-700-000-euro-aus-erbschaft-partei-erhaelt-seschsstelliges-vermaechtnis](https://www.spiegel.de/panorama/afd-700-000-euro-aus-erbschaft-partei-erhaelt-seschsstelliges-vermaechtnis-a-c70e8a39-c88b-4477-b806-1f673ab915b4#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/usa-verbaende-klagen-gegen-donald-trumps-neuestes-anti-klimaschutz-vorhaben](https://www.spiegel.de/ausland/usa-verbaende-klagen-gegen-donald-trumps-neuestes-anti-klimaschutz-vorhaben-a-cc633284-3deb-4901-aa00-45616392cb9a#ref=rss)
-* [https://www.spiegel.de/ausland/polen-aussenminister-radoslaw-sikorski-deutschland-und-frankreich-sind-heute-zu-klein-um-europa-zu-regieren](https://www.spiegel.de/ausland/polen-aussenminister-radoslaw-sikorski-deutschland-und-frankreich-sind-heute-zu-klein-um-europa-zu-regieren-a-07e648d7-9eff-4f62-93da-9a1974d57e11#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/ausland/usa-verbaende-klagen-gegen-donald-trumps-neuestes-anti-klimaschutz-vorhaben](https://www.spiegel.de/ausland/usa-verbaende-klagen-gegen-donald-trumps-neuestes-anti-klimaschutz-vorhaben-a-cc633284-3deb-4901-aa00-45616392cb9a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/argentinien-streik-legt-einen-der-wichtigsten-haefen-lahm](https://www.spiegel.de/wirtschaft/argentinien-streik-legt-einen-der-wichtigsten-haefen-lahm-a-d47e2c07-0c33-443e-ba73-105985df11e4#ref=rss)
-### christine
-
-* [https://www.spiegel.de/wirtschaft/ezb-darum-wird-christine-lagarde-die-europaeische-zentralbank-wohl-vorzeitig-verlassen](https://www.spiegel.de/wirtschaft/ezb-darum-wird-christine-lagarde-die-europaeische-zentralbank-wohl-vorzeitig-verlassen-a-3f616b8b-c097-4198-b43f-3fa2345b0ec8#ref=rss)
-### lagarde
-
-* [https://www.spiegel.de/wirtschaft/ezb-darum-wird-christine-lagarde-die-europaeische-zentralbank-wohl-vorzeitig-verlassen](https://www.spiegel.de/wirtschaft/ezb-darum-wird-christine-lagarde-die-europaeische-zentralbank-wohl-vorzeitig-verlassen-a-3f616b8b-c097-4198-b43f-3fa2345b0ec8#ref=rss)
-### zentralbank
-
-* [https://www.spiegel.de/wirtschaft/ezb-darum-wird-christine-lagarde-die-europaeische-zentralbank-wohl-vorzeitig-verlassen](https://www.spiegel.de/wirtschaft/ezb-darum-wird-christine-lagarde-die-europaeische-zentralbank-wohl-vorzeitig-verlassen-a-3f616b8b-c097-4198-b43f-3fa2345b0ec8#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wirtschaft/ezb-darum-wird-christine-lagarde-die-europaeische-zentralbank-wohl-vorzeitig-verlassen](https://www.spiegel.de/wirtschaft/ezb-darum-wird-christine-lagarde-die-europaeische-zentralbank-wohl-vorzeitig-verlassen-a-3f616b8b-c097-4198-b43f-3fa2345b0ec8#ref=rss)
-* [https://www.spiegel.de/ausland/lyon-mord-an-quentin-deranque-erschuettert-frankreich](https://www.spiegel.de/ausland/lyon-mord-an-quentin-deranque-erschuettert-frankreich-a-49acfe10-b963-45b6-ad6a-7d210b546bcb#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/wirtschaft/ezb-darum-wird-christine-lagarde-die-europaeische-zentralbank-wohl-vorzeitig-verlassen](https://www.spiegel.de/wirtschaft/ezb-darum-wird-christine-lagarde-die-europaeische-zentralbank-wohl-vorzeitig-verlassen-a-3f616b8b-c097-4198-b43f-3fa2345b0ec8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/elmshorn-geruch-fuehrt-polizei-zu-drogen-versteck-von-mann-20-im-keller-der-oma](https://www.spiegel.de/panorama/justiz/elmshorn-geruch-fuehrt-polizei-zu-drogen-versteck-von-mann-20-im-keller-der-oma-a-d7ef0466-7506-4a70-8e40-68207b1d2615#ref=rss)
-### friedrich
+* [https://www.spiegel.de/netzwelt/freedom-gov-us-regierung-entwickelt-offenbar-portal-gegen-eu-netzsperren](https://www.spiegel.de/netzwelt/freedom-gov-us-regierung-entwickelt-offenbar-portal-gegen-eu-netzsperren-a-defd7e57-69a2-41a8-8a46-b9d669f3090c#ref=rss)
+* [https://www.spiegel.de/kultur/kino/amanda-seyfried-wusste-offenbar-nicht-dass-sie-bei-the-housemaid-produzentin-war](https://www.spiegel.de/kultur/kino/amanda-seyfried-wusste-offenbar-nicht-dass-sie-bei-the-housemaid-produzentin-war-a-c0235536-53c3-4b45-8728-b734d594fd2d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nord-stream-cia-war-offenbar-frueh-in-plaene-der-angreifer-eingeweiht](https://www.spiegel.de/politik/deutschland/nord-stream-cia-war-offenbar-frueh-in-plaene-der-angreifer-eingeweiht-a-d95f5682-dc5b-47a7-82e2-5bb09661b210#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wirtschaft/ezb-darum-wird-christine-lagarde-die-europaeische-zentralbank-wohl-vorzeitig-verlassen](https://www.spiegel.de/wirtschaft/ezb-darum-wird-christine-lagarde-die-europaeische-zentralbank-wohl-vorzeitig-verlassen-a-3f616b8b-c097-4198-b43f-3fa2345b0ec8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/familienunternehmen-isabel-grupp-kofler-kritisiert-den-abgesang-auf-die-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/familienunternehmen-isabel-grupp-kofler-kritisiert-den-abgesang-auf-die-wirtschaft-a-71ee0d0c-d7ad-4ce1-bdce-5339e5894453#ref=rss)
-### merz
+* [https://www.spiegel.de/politik/deutschland-monitor-mehr-als-70-prozent-der-bundesbuerger-glauben-mit-der-demokratie-geht-es-bergab](https://www.spiegel.de/politik/deutschland-monitor-mehr-als-70-prozent-der-bundesbuerger-glauben-mit-der-demokratie-geht-es-bergab-a-bc9fe47b-da69-4731-b3a9-31ba88eb9ca6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-maschinen-der-flugbereitschaft-haeufig-ohne-passagiere-unterwegs](https://www.spiegel.de/politik/deutschland/bundesregierung-maschinen-der-flugbereitschaft-haeufig-ohne-passagiere-unterwegs-a-f5fac43e-c5b0-4ecf-9c13-1352b0c21ae2#ref=rss)
+* [https://www.spiegel.de/auto/e-auto-praemie-so-bekommen-sie-ein-neues-elektroauto-fuer-unter-10-000-euro](https://www.spiegel.de/auto/e-auto-praemie-so-bekommen-sie-ein-neues-elektroauto-fuer-unter-10-000-euro-a-ef5f1365-bc68-4e0a-9e70-9cf73724c056#ref=rss)
+* [https://www.spiegel.de/wirtschaft/db-cargo-neuer-chef-will-fast-die-haelfte-der-stellen-streichen](https://www.spiegel.de/wirtschaft/db-cargo-neuer-chef-will-fast-die-haelfte-der-stellen-streichen-a-1a6d0752-52fb-4929-b19f-b14202fc20fb#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wirtschaft/ezb-darum-wird-christine-lagarde-die-europaeische-zentralbank-wohl-vorzeitig-verlassen](https://www.spiegel.de/wirtschaft/ezb-darum-wird-christine-lagarde-die-europaeische-zentralbank-wohl-vorzeitig-verlassen-a-3f616b8b-c097-4198-b43f-3fa2345b0ec8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/familienunternehmen-isabel-grupp-kofler-kritisiert-den-abgesang-auf-die-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/familienunternehmen-isabel-grupp-kofler-kritisiert-den-abgesang-auf-die-wirtschaft-a-71ee0d0c-d7ad-4ce1-bdce-5339e5894453#ref=rss)
-### xavier
+* [https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit](https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit-a-d7c8669e-4be7-491c-b071-78115203acc2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-friedensrat-kommt-erstmals-zusammen-deutscher-beamter-mit-dabei](https://www.spiegel.de/politik/deutschland/donald-trump-friedensrat-kommt-erstmals-zusammen-deutscher-beamter-mit-dabei-a-03dacb0e-45a3-4341-a3b9-023e182a24dd#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-regen-warnung-vor-glatten-strassen](https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-regen-warnung-vor-glatten-strassen-a-8d5b5ec2-c714-41a6-9583-4b11b5331101#ref=rss)
+### andrew
 
-* [https://www.spiegel.de/kultur/xavier-naidoo-vor-dem-kanzleramt-in-berlin-kannibal-lecture](https://www.spiegel.de/kultur/xavier-naidoo-vor-dem-kanzleramt-in-berlin-kannibal-lecture-a-1f13d852-adce-41a3-a321-4499e1eddaee#ref=rss)
-### naidoo
+* [https://www.spiegel.de/ausland/jeffrey-epstein-die-globale-machtelite-die-ihn-hofierte-profitierte-und-schwieg](https://www.spiegel.de/ausland/jeffrey-epstein-die-globale-machtelite-die-ihn-hofierte-profitierte-und-schwieg-a-4ea43869-0099-44eb-946e-70fa6b482c2c#ref=rss)
+* [https://www.spiegel.de/panorama/fall-jeffrey-epstein-ex-prinz-andrew-festgenommen](https://www.spiegel.de/panorama/fall-jeffrey-epstein-ex-prinz-andrew-festgenommen-a-b5f34722-c103-450e-913b-1904007734ab#ref=rss)
+### donald
 
-* [https://www.spiegel.de/kultur/xavier-naidoo-vor-dem-kanzleramt-in-berlin-kannibal-lecture](https://www.spiegel.de/kultur/xavier-naidoo-vor-dem-kanzleramt-in-berlin-kannibal-lecture-a-1f13d852-adce-41a3-a321-4499e1eddaee#ref=rss)
-### berlin
+* [https://www.spiegel.de/wirtschaft/donald-trump-bezeichnet-glyphosat-als-als-entscheidend-fuer-die-nationale-sicherheit](https://www.spiegel.de/wirtschaft/donald-trump-bezeichnet-glyphosat-als-als-entscheidend-fuer-die-nationale-sicherheit-a-a5c513bb-3df8-4a8f-8c60-6512bba8054b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-friedensrat-kommt-erstmals-zusammen-deutscher-beamter-mit-dabei](https://www.spiegel.de/politik/deutschland/donald-trump-friedensrat-kommt-erstmals-zusammen-deutscher-beamter-mit-dabei-a-03dacb0e-45a3-4341-a3b9-023e182a24dd#ref=rss)
+### trump
 
-* [https://www.spiegel.de/kultur/xavier-naidoo-vor-dem-kanzleramt-in-berlin-kannibal-lecture](https://www.spiegel.de/kultur/xavier-naidoo-vor-dem-kanzleramt-in-berlin-kannibal-lecture-a-1f13d852-adce-41a3-a321-4499e1eddaee#ref=rss)
-### comeback
+* [https://www.spiegel.de/wirtschaft/donald-trump-bezeichnet-glyphosat-als-als-entscheidend-fuer-die-nationale-sicherheit](https://www.spiegel.de/wirtschaft/donald-trump-bezeichnet-glyphosat-als-als-entscheidend-fuer-die-nationale-sicherheit-a-a5c513bb-3df8-4a8f-8c60-6512bba8054b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-friedensrat-kommt-erstmals-zusammen-deutscher-beamter-mit-dabei](https://www.spiegel.de/politik/deutschland/donald-trump-friedensrat-kommt-erstmals-zusammen-deutscher-beamter-mit-dabei-a-03dacb0e-45a3-4341-a3b9-023e182a24dd#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/kultur/xavier-naidoo-vor-dem-kanzleramt-in-berlin-kannibal-lecture](https://www.spiegel.de/kultur/xavier-naidoo-vor-dem-kanzleramt-in-berlin-kannibal-lecture-a-1f13d852-adce-41a3-a321-4499e1eddaee#ref=rss)
-### indien
+* [https://www.spiegel.de/politik/deutschland-monitor-mehr-als-70-prozent-der-bundesbuerger-glauben-mit-der-demokratie-geht-es-bergab](https://www.spiegel.de/politik/deutschland-monitor-mehr-als-70-prozent-der-bundesbuerger-glauben-mit-der-demokratie-geht-es-bergab-a-bc9fe47b-da69-4731-b3a9-31ba88eb9ca6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/db-cargo-neuer-chef-will-fast-die-haelfte-der-stellen-streichen](https://www.spiegel.de/wirtschaft/db-cargo-neuer-chef-will-fast-die-haelfte-der-stellen-streichen-a-1a6d0752-52fb-4929-b19f-b14202fc20fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/airbus-beschwert-sich-ueber-lieferverzoegerung-bei-a320-triebwerken](https://www.spiegel.de/wirtschaft/airbus-beschwert-sich-ueber-lieferverzoegerung-bei-a320-triebwerken-a-c5819fb8-1f40-4282-ac4c-7942b4aead40#ref=rss)
+### italien
 
-* [https://www.spiegel.de/panorama/roboterhund-sorgt-fuer-eklat-bei-ki-ausstellung-in-indien](https://www.spiegel.de/panorama/roboterhund-sorgt-fuer-eklat-bei-ki-ausstellung-in-indien-a-a9fed198-eb9f-40f8-9869-5a3a5f25ba5d#ref=rss)
-### biathlon
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-norwegen-ehrt-ex-skip-mit-besonderen-hosen](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-norwegen-ehrt-ex-skip-mit-besonderen-hosen-a-c5d7c284-3e2b-49f4-8ea4-3f611972d689#ref=rss)
-### vonn
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-norwegen-ehrt-ex-skip-mit-besonderen-hosen](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-norwegen-ehrt-ex-skip-mit-besonderen-hosen-a-c5d7c284-3e2b-49f4-8ea4-3f611972d689#ref=rss)
-### hund
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-norwegen-ehrt-ex-skip-mit-besonderen-hosen](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-norwegen-ehrt-ex-skip-mit-besonderen-hosen-a-c5d7c284-3e2b-49f4-8ea4-3f611972d689#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-norwegen-ehrt-ex-skip-mit-besonderen-hosen](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-norwegen-ehrt-ex-skip-mit-besonderen-hosen-a-c5d7c284-3e2b-49f4-8ea4-3f611972d689#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russland-ukraine-friedensgespraeche-it-probleme-bei-der-deutschen-bahn-rechtsstreit-mit-der-plattform-x](https://www.spiegel.de/politik/deutschland/news-des-tages-russland-ukraine-friedensgespraeche-it-probleme-bei-der-deutschen-bahn-rechtsstreit-mit-der-plattform-x-a-54ed3ebd-43e3-485c-b5d3-ca4b5dcad111#ref=rss)
-### itprobleme
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russland-ukraine-friedensgespraeche-it-probleme-bei-der-deutschen-bahn-rechtsstreit-mit-der-plattform-x](https://www.spiegel.de/politik/deutschland/news-des-tages-russland-ukraine-friedensgespraeche-it-probleme-bei-der-deutschen-bahn-rechtsstreit-mit-der-plattform-x-a-54ed3ebd-43e3-485c-b5d3-ca4b5dcad111#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russland-ukraine-friedensgespraeche-it-probleme-bei-der-deutschen-bahn-rechtsstreit-mit-der-plattform-x](https://www.spiegel.de/politik/deutschland/news-des-tages-russland-ukraine-friedensgespraeche-it-probleme-bei-der-deutschen-bahn-rechtsstreit-mit-der-plattform-x-a-54ed3ebd-43e3-485c-b5d3-ca4b5dcad111#ref=rss)
-### rechtsstreit
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russland-ukraine-friedensgespraeche-it-probleme-bei-der-deutschen-bahn-rechtsstreit-mit-der-plattform-x](https://www.spiegel.de/politik/deutschland/news-des-tages-russland-ukraine-friedensgespraeche-it-probleme-bei-der-deutschen-bahn-rechtsstreit-mit-der-plattform-x-a-54ed3ebd-43e3-485c-b5d3-ca4b5dcad111#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-russland-ukraine-friedensgespraeche-it-probleme-bei-der-deutschen-bahn-rechtsstreit-mit-der-plattform-x](https://www.spiegel.de/politik/deutschland/news-des-tages-russland-ukraine-friedensgespraeche-it-probleme-bei-der-deutschen-bahn-rechtsstreit-mit-der-plattform-x-a-54ed3ebd-43e3-485c-b5d3-ca4b5dcad111#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainegespraeche-in-genf-enden-ohne-einigung-aber-mit-fortschritten](https://www.spiegel.de/ausland/ukrainegespraeche-in-genf-enden-ohne-einigung-aber-mit-fortschritten-a-1683f66d-8f95-4395-8066-9b140437428f#ref=rss)
-### argentinien
-
-* [https://www.spiegel.de/wirtschaft/argentinien-streik-legt-einen-der-wichtigsten-haefen-lahm](https://www.spiegel.de/wirtschaft/argentinien-streik-legt-einen-der-wichtigsten-haefen-lahm-a-d47e2c07-0c33-443e-ba73-105985df11e4#ref=rss)
-### feuerwehrmann
-
-* [https://www.spiegel.de/panorama/elefant-kippt-um-ein-feuerwehr-mann-erzaehlt-wie-er-dem-tier-wieder-aufhalf](https://www.spiegel.de/panorama/elefant-kippt-um-ein-feuerwehr-mann-erzaehlt-wie-er-dem-tier-wieder-aufhalf-a-1f5b434d-8386-4d6a-b0ec-055969275e78#ref=rss)
-### tier
-
-* [https://www.spiegel.de/panorama/elefant-kippt-um-ein-feuerwehr-mann-erzaehlt-wie-er-dem-tier-wieder-aufhalf](https://www.spiegel.de/panorama/elefant-kippt-um-ein-feuerwehr-mann-erzaehlt-wie-er-dem-tier-wieder-aufhalf-a-1f5b434d-8386-4d6a-b0ec-055969275e78#ref=rss)
-### plötzlich
-
-* [https://www.spiegel.de/panorama/elefant-kippt-um-ein-feuerwehr-mann-erzaehlt-wie-er-dem-tier-wieder-aufhalf](https://www.spiegel.de/panorama/elefant-kippt-um-ein-feuerwehr-mann-erzaehlt-wie-er-dem-tier-wieder-aufhalf-a-1f5b434d-8386-4d6a-b0ec-055969275e78#ref=rss)
-* [https://www.spiegel.de/panorama/kaiserslautern-kaengurus-auf-der-flucht](https://www.spiegel.de/panorama/kaiserslautern-kaengurus-auf-der-flucht-a-8270994b-81c3-4b34-bc0a-d37da5a0cd82#ref=rss)
-### helfen
-
-* [https://www.spiegel.de/panorama/elefant-kippt-um-ein-feuerwehr-mann-erzaehlt-wie-er-dem-tier-wieder-aufhalf](https://www.spiegel.de/panorama/elefant-kippt-um-ein-feuerwehr-mann-erzaehlt-wie-er-dem-tier-wieder-aufhalf-a-1f5b434d-8386-4d6a-b0ec-055969275e78#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-will-geplante-schutzregeln-fuer-stahlbranche-aufweichen](https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-will-geplante-schutzregeln-fuer-stahlbranche-aufweichen-a-7596b187-f4e3-41a7-8b83-7de3257a51cf#ref=rss)
-### eauto
-
-* [https://www.spiegel.de/auto/e-mobilitaet-wie-sich-ein-e-auto-bei-minus-45-grad-schlaegt](https://www.spiegel.de/auto/e-mobilitaet-wie-sich-ein-e-auto-bei-minus-45-grad-schlaegt-a-fc012b17-e39a-47e7-bb83-9f9f41ee7b3e#ref=rss)
-### leon
-
-* [https://www.spiegel.de/sport/eishockey-wm-leon-draisaitl-und-team-ohne-zusammenhalt-im-viertelfinale-ausgeschieden](https://www.spiegel.de/sport/eishockey-wm-leon-draisaitl-und-team-ohne-zusammenhalt-im-viertelfinale-ausgeschieden-a-6cf95acf-750f-478b-9007-f617bdcc6727#ref=rss)
-### draisaitl
-
-* [https://www.spiegel.de/sport/eishockey-wm-leon-draisaitl-und-team-ohne-zusammenhalt-im-viertelfinale-ausgeschieden](https://www.spiegel.de/sport/eishockey-wm-leon-draisaitl-und-team-ohne-zusammenhalt-im-viertelfinale-ausgeschieden-a-6cf95acf-750f-478b-9007-f617bdcc6727#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/sport/eishockey-wm-leon-draisaitl-und-team-ohne-zusammenhalt-im-viertelfinale-ausgeschieden](https://www.spiegel.de/sport/eishockey-wm-leon-draisaitl-und-team-ohne-zusammenhalt-im-viertelfinale-ausgeschieden-a-6cf95acf-750f-478b-9007-f617bdcc6727#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainegespraeche-in-genf-enden-ohne-einigung-aber-mit-fortschritten](https://www.spiegel.de/ausland/ukrainegespraeche-in-genf-enden-ohne-einigung-aber-mit-fortschritten-a-1683f66d-8f95-4395-8066-9b140437428f#ref=rss)
-### zusammenhalt
-
-* [https://www.spiegel.de/sport/eishockey-wm-leon-draisaitl-und-team-ohne-zusammenhalt-im-viertelfinale-ausgeschieden](https://www.spiegel.de/sport/eishockey-wm-leon-draisaitl-und-team-ohne-zusammenhalt-im-viertelfinale-ausgeschieden-a-6cf95acf-750f-478b-9007-f617bdcc6727#ref=rss)
-### viertelfinale
-
-* [https://www.spiegel.de/sport/eishockey-wm-leon-draisaitl-und-team-ohne-zusammenhalt-im-viertelfinale-ausgeschieden](https://www.spiegel.de/sport/eishockey-wm-leon-draisaitl-und-team-ohne-zusammenhalt-im-viertelfinale-ausgeschieden-a-6cf95acf-750f-478b-9007-f617bdcc6727#ref=rss)
-### afd
-
-* [https://www.spiegel.de/panorama/afd-700-000-euro-aus-erbschaft-partei-erhaelt-seschsstelliges-vermaechtnis](https://www.spiegel.de/panorama/afd-700-000-euro-aus-erbschaft-partei-erhaelt-seschsstelliges-vermaechtnis-a-c70e8a39-c88b-4477-b806-1f673ab915b4#ref=rss)
+* [https://www.spiegel.de/ausland/italien-sea-watch-staat-muss-76-000-euro-an-hilfsorganisation-zahlen](https://www.spiegel.de/ausland/italien-sea-watch-staat-muss-76-000-euro-an-hilfsorganisation-zahlen-a-3d20807a-775b-4d5b-ae0c-3aeab1a41484#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-rueckendeckung-fuer-franziska-preuss-nach-staffel-enttaeuschung](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-rueckendeckung-fuer-franziska-preuss-nach-staffel-enttaeuschung-a-bc5d47d0-023f-4d7d-b114-08f3e70fcf58#ref=rss)
 ### euro
 
-* [https://www.spiegel.de/panorama/afd-700-000-euro-aus-erbschaft-partei-erhaelt-seschsstelliges-vermaechtnis](https://www.spiegel.de/panorama/afd-700-000-euro-aus-erbschaft-partei-erhaelt-seschsstelliges-vermaechtnis-a-c70e8a39-c88b-4477-b806-1f673ab915b4#ref=rss)
-### vermächtnis
+* [https://www.spiegel.de/ausland/italien-sea-watch-staat-muss-76-000-euro-an-hilfsorganisation-zahlen](https://www.spiegel.de/ausland/italien-sea-watch-staat-muss-76-000-euro-an-hilfsorganisation-zahlen-a-3d20807a-775b-4d5b-ae0c-3aeab1a41484#ref=rss)
+* [https://www.spiegel.de/auto/e-auto-praemie-so-bekommen-sie-ein-neues-elektroauto-fuer-unter-10-000-euro](https://www.spiegel.de/auto/e-auto-praemie-so-bekommen-sie-ein-neues-elektroauto-fuer-unter-10-000-euro-a-ef5f1365-bc68-4e0a-9e70-9cf73724c056#ref=rss)
+* [https://www.spiegel.de/panorama/immobilienstreit-in-kreuzberg-prominente-journalisten-muessen-3-1-millionen-euro-an-das-land-berlin-zurueckzahlen](https://www.spiegel.de/panorama/immobilienstreit-in-kreuzberg-prominente-journalisten-muessen-3-1-millionen-euro-an-das-land-berlin-zurueckzahlen-a-8e33bb9e-75de-40e4-83df-6df543aa0d93#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/panorama/afd-700-000-euro-aus-erbschaft-partei-erhaelt-seschsstelliges-vermaechtnis](https://www.spiegel.de/panorama/afd-700-000-euro-aus-erbschaft-partei-erhaelt-seschsstelliges-vermaechtnis-a-c70e8a39-c88b-4477-b806-1f673ab915b4#ref=rss)
-### derzeit
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-maschinen-der-flugbereitschaft-haeufig-ohne-passagiere-unterwegs](https://www.spiegel.de/politik/deutschland/bundesregierung-maschinen-der-flugbereitschaft-haeufig-ohne-passagiere-unterwegs-a-f5fac43e-c5b0-4ecf-9c13-1352b0c21ae2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/airbus-beschwert-sich-ueber-lieferverzoegerung-bei-a320-triebwerken](https://www.spiegel.de/wirtschaft/airbus-beschwert-sich-ueber-lieferverzoegerung-bei-a320-triebwerken-a-c5819fb8-1f40-4282-ac4c-7942b4aead40#ref=rss)
+### prozess
 
-* [https://www.spiegel.de/panorama/kaiserslautern-kaengurus-auf-der-flucht](https://www.spiegel.de/panorama/kaiserslautern-kaengurus-auf-der-flucht-a-8270994b-81c3-4b34-bc0a-d37da5a0cd82#ref=rss)
-### studie
+* [https://www.spiegel.de/wirtschaft/lidl-gericht-prueft-irrefuehrende-werbeversprechen](https://www.spiegel.de/wirtschaft/lidl-gericht-prueft-irrefuehrende-werbeversprechen-a-7584ec6d-34ac-476c-bc58-35f33c17497f#ref=rss)
+* [https://www.spiegel.de/sport/bergsteiger-drama-am-grossglockner-jetzt-beginnt-der-prozess](https://www.spiegel.de/sport/bergsteiger-drama-am-grossglockner-jetzt-beginnt-der-prozess-a-c3f90023-4158-423e-8c04-f72a61af97e4#ref=rss)
+### land
 
-* [https://www.spiegel.de/partnerschaft/beziehungen-studie-zu-zufriedenheit-im-alter-zusammenziehen-macht-gluecklich](https://www.spiegel.de/partnerschaft/beziehungen-studie-zu-zufriedenheit-im-alter-zusammenziehen-macht-gluecklich-a-7eed014a-505f-4aba-84cb-de977baf5996#ref=rss)
-### elmshorn
+* [https://www.spiegel.de/panorama/immobilienstreit-in-kreuzberg-prominente-journalisten-muessen-3-1-millionen-euro-an-das-land-berlin-zurueckzahlen](https://www.spiegel.de/panorama/immobilienstreit-in-kreuzberg-prominente-journalisten-muessen-3-1-millionen-euro-an-das-land-berlin-zurueckzahlen-a-8e33bb9e-75de-40e4-83df-6df543aa0d93#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-fliegt-weitere-soldaten-aus-dem-irak-aus](https://www.spiegel.de/politik/deutschland/bundeswehr-fliegt-weitere-soldaten-aus-dem-irak-aus-a-96b69ab8-c7ec-4049-b29a-48d600443cd9#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-ex-praesident-yoon-muss-lebenslang-ins-gefaengnis](https://www.spiegel.de/ausland/suedkorea-ex-praesident-yoon-muss-lebenslang-ins-gefaengnis-a-8d6b49d9-5915-4bf4-990d-2379a6128f9f#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/panorama/justiz/elmshorn-geruch-fuehrt-polizei-zu-drogen-versteck-von-mann-20-im-keller-der-oma](https://www.spiegel.de/panorama/justiz/elmshorn-geruch-fuehrt-polizei-zu-drogen-versteck-von-mann-20-im-keller-der-oma-a-d7ef0466-7506-4a70-8e40-68207b1d2615#ref=rss)
-### polizei
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-fliegt-weitere-soldaten-aus-dem-irak-aus](https://www.spiegel.de/politik/deutschland/bundeswehr-fliegt-weitere-soldaten-aus-dem-irak-aus-a-96b69ab8-c7ec-4049-b29a-48d600443cd9#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-19-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-19-februar-an-a-99f4be2c-ab21-4e9d-acc0-7fce13d1f747#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-regen-warnung-vor-glatten-strassen](https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-regen-warnung-vor-glatten-strassen-a-8d5b5ec2-c714-41a6-9583-4b11b5331101#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/justiz/elmshorn-geruch-fuehrt-polizei-zu-drogen-versteck-von-mann-20-im-keller-der-oma](https://www.spiegel.de/panorama/justiz/elmshorn-geruch-fuehrt-polizei-zu-drogen-versteck-von-mann-20-im-keller-der-oma-a-d7ef0466-7506-4a70-8e40-68207b1d2615#ref=rss)
-### keller
+* [https://www.spiegel.de/netzwelt/freedom-gov-us-regierung-entwickelt-offenbar-portal-gegen-eu-netzsperren](https://www.spiegel.de/netzwelt/freedom-gov-us-regierung-entwickelt-offenbar-portal-gegen-eu-netzsperren-a-defd7e57-69a2-41a8-8a46-b9d669f3090c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-fliegt-weitere-soldaten-aus-dem-irak-aus](https://www.spiegel.de/politik/deutschland/bundeswehr-fliegt-weitere-soldaten-aus-dem-irak-aus-a-96b69ab8-c7ec-4049-b29a-48d600443cd9#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/panorama/justiz/elmshorn-geruch-fuehrt-polizei-zu-drogen-versteck-von-mann-20-im-keller-der-oma](https://www.spiegel.de/panorama/justiz/elmshorn-geruch-fuehrt-polizei-zu-drogen-versteck-von-mann-20-im-keller-der-oma-a-d7ef0466-7506-4a70-8e40-68207b1d2615#ref=rss)
-### junger
+* [https://www.spiegel.de/netzwelt/freedom-gov-us-regierung-entwickelt-offenbar-portal-gegen-eu-netzsperren](https://www.spiegel.de/netzwelt/freedom-gov-us-regierung-entwickelt-offenbar-portal-gegen-eu-netzsperren-a-defd7e57-69a2-41a8-8a46-b9d669f3090c#ref=rss)
+* [https://www.spiegel.de/ausland/jeffrey-epstein-die-globale-machtelite-die-ihn-hofierte-profitierte-und-schwieg](https://www.spiegel.de/ausland/jeffrey-epstein-die-globale-machtelite-die-ihn-hofierte-profitierte-und-schwieg-a-4ea43869-0099-44eb-946e-70fa6b482c2c#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/justiz/elmshorn-geruch-fuehrt-polizei-zu-drogen-versteck-von-mann-20-im-keller-der-oma](https://www.spiegel.de/panorama/justiz/elmshorn-geruch-fuehrt-polizei-zu-drogen-versteck-von-mann-20-im-keller-der-oma-a-d7ef0466-7506-4a70-8e40-68207b1d2615#ref=rss)
-* [https://www.spiegel.de/ausland/lyon-mord-an-quentin-deranque-erschuettert-frankreich](https://www.spiegel.de/ausland/lyon-mord-an-quentin-deranque-erschuettert-frankreich-a-49acfe10-b963-45b6-ad6a-7d210b546bcb#ref=rss)
-### eukommission
+* [https://www.spiegel.de/netzwelt/freedom-gov-us-regierung-entwickelt-offenbar-portal-gegen-eu-netzsperren](https://www.spiegel.de/netzwelt/freedom-gov-us-regierung-entwickelt-offenbar-portal-gegen-eu-netzsperren-a-defd7e57-69a2-41a8-8a46-b9d669f3090c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit](https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit-a-d7c8669e-4be7-491c-b071-78115203acc2#ref=rss)
+### jeffrey
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-will-geplante-schutzregeln-fuer-stahlbranche-aufweichen](https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-will-geplante-schutzregeln-fuer-stahlbranche-aufweichen-a-7596b187-f4e3-41a7-8b83-7de3257a51cf#ref=rss)
-### statt
+* [https://www.spiegel.de/ausland/jeffrey-epstein-die-globale-machtelite-die-ihn-hofierte-profitierte-und-schwieg](https://www.spiegel.de/ausland/jeffrey-epstein-die-globale-machtelite-die-ihn-hofierte-profitierte-und-schwieg-a-4ea43869-0099-44eb-946e-70fa6b482c2c#ref=rss)
+* [https://www.spiegel.de/panorama/fall-jeffrey-epstein-ex-prinz-andrew-festgenommen](https://www.spiegel.de/panorama/fall-jeffrey-epstein-ex-prinz-andrew-festgenommen-a-b5f34722-c103-450e-913b-1904007734ab#ref=rss)
+### epstein
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-will-geplante-schutzregeln-fuer-stahlbranche-aufweichen](https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-will-geplante-schutzregeln-fuer-stahlbranche-aufweichen-a-7596b187-f4e3-41a7-8b83-7de3257a51cf#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/hannover-berufsschule-soll-in-ehemaliges-kaufhof-gebaeude-ziehen](https://www.spiegel.de/panorama/bildung/hannover-berufsschule-soll-in-ehemaliges-kaufhof-gebaeude-ziehen-a-f36b30b9-8184-453c-8818-b3f15bc446b7#ref=rss)
-### linken
+* [https://www.spiegel.de/ausland/jeffrey-epstein-die-globale-machtelite-die-ihn-hofierte-profitierte-und-schwieg](https://www.spiegel.de/ausland/jeffrey-epstein-die-globale-machtelite-die-ihn-hofierte-profitierte-und-schwieg-a-4ea43869-0099-44eb-946e-70fa6b482c2c#ref=rss)
+* [https://www.spiegel.de/panorama/fall-jeffrey-epstein-ex-prinz-andrew-festgenommen](https://www.spiegel.de/panorama/fall-jeffrey-epstein-ex-prinz-andrew-festgenommen-a-b5f34722-c103-450e-913b-1904007734ab#ref=rss)
+### macht
 
-* [https://www.spiegel.de/ausland/lyon-mord-an-quentin-deranque-erschuettert-frankreich](https://www.spiegel.de/ausland/lyon-mord-an-quentin-deranque-erschuettert-frankreich-a-49acfe10-b963-45b6-ad6a-7d210b546bcb#ref=rss)
-### frankreich
+* [https://www.spiegel.de/ausland/jeffrey-epstein-die-globale-machtelite-die-ihn-hofierte-profitierte-und-schwieg](https://www.spiegel.de/ausland/jeffrey-epstein-die-globale-machtelite-die-ihn-hofierte-profitierte-und-schwieg-a-4ea43869-0099-44eb-946e-70fa6b482c2c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/airbus-beschwert-sich-ueber-lieferverzoegerung-bei-a320-triebwerken](https://www.spiegel.de/wirtschaft/airbus-beschwert-sich-ueber-lieferverzoegerung-bei-a320-triebwerken-a-c5819fb8-1f40-4282-ac4c-7942b4aead40#ref=rss)
+### geld
 
-* [https://www.spiegel.de/ausland/lyon-mord-an-quentin-deranque-erschuettert-frankreich](https://www.spiegel.de/ausland/lyon-mord-an-quentin-deranque-erschuettert-frankreich-a-49acfe10-b963-45b6-ad6a-7d210b546bcb#ref=rss)
-* [https://www.spiegel.de/ausland/polen-aussenminister-radoslaw-sikorski-deutschland-und-frankreich-sind-heute-zu-klein-um-europa-zu-regieren](https://www.spiegel.de/ausland/polen-aussenminister-radoslaw-sikorski-deutschland-und-frankreich-sind-heute-zu-klein-um-europa-zu-regieren-a-07e648d7-9eff-4f62-93da-9a1974d57e11#ref=rss)
-### stehen
+* [https://www.spiegel.de/ausland/jeffrey-epstein-die-globale-machtelite-die-ihn-hofierte-profitierte-und-schwieg](https://www.spiegel.de/ausland/jeffrey-epstein-die-globale-machtelite-die-ihn-hofierte-profitierte-und-schwieg-a-4ea43869-0099-44eb-946e-70fa6b482c2c#ref=rss)
+* [https://www.spiegel.de/auto/e-auto-praemie-so-bekommen-sie-ein-neues-elektroauto-fuer-unter-10-000-euro](https://www.spiegel.de/auto/e-auto-praemie-so-bekommen-sie-ein-neues-elektroauto-fuer-unter-10-000-euro-a-ef5f1365-bc68-4e0a-9e70-9cf73724c056#ref=rss)
+### glyphosat
 
-* [https://www.spiegel.de/ausland/lyon-mord-an-quentin-deranque-erschuettert-frankreich](https://www.spiegel.de/ausland/lyon-mord-an-quentin-deranque-erschuettert-frankreich-a-49acfe10-b963-45b6-ad6a-7d210b546bcb#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/hannover-berufsschule-soll-in-ehemaliges-kaufhof-gebaeude-ziehen](https://www.spiegel.de/panorama/bildung/hannover-berufsschule-soll-in-ehemaliges-kaufhof-gebaeude-ziehen-a-f36b30b9-8184-453c-8818-b3f15bc446b7#ref=rss)
-### hannover
+* [https://www.spiegel.de/wirtschaft/donald-trump-bezeichnet-glyphosat-als-als-entscheidend-fuer-die-nationale-sicherheit](https://www.spiegel.de/wirtschaft/donald-trump-bezeichnet-glyphosat-als-als-entscheidend-fuer-die-nationale-sicherheit-a-a5c513bb-3df8-4a8f-8c60-6512bba8054b#ref=rss)
+### nationale
 
-* [https://www.spiegel.de/panorama/bildung/hannover-berufsschule-soll-in-ehemaliges-kaufhof-gebaeude-ziehen](https://www.spiegel.de/panorama/bildung/hannover-berufsschule-soll-in-ehemaliges-kaufhof-gebaeude-ziehen-a-f36b30b9-8184-453c-8818-b3f15bc446b7#ref=rss)
-### berufsschule
+* [https://www.spiegel.de/wirtschaft/donald-trump-bezeichnet-glyphosat-als-als-entscheidend-fuer-die-nationale-sicherheit](https://www.spiegel.de/wirtschaft/donald-trump-bezeichnet-glyphosat-als-als-entscheidend-fuer-die-nationale-sicherheit-a-a5c513bb-3df8-4a8f-8c60-6512bba8054b#ref=rss)
+### sicherheit
 
-* [https://www.spiegel.de/panorama/bildung/hannover-berufsschule-soll-in-ehemaliges-kaufhof-gebaeude-ziehen](https://www.spiegel.de/panorama/bildung/hannover-berufsschule-soll-in-ehemaliges-kaufhof-gebaeude-ziehen-a-f36b30b9-8184-453c-8818-b3f15bc446b7#ref=rss)
-### radosław
+* [https://www.spiegel.de/wirtschaft/donald-trump-bezeichnet-glyphosat-als-als-entscheidend-fuer-die-nationale-sicherheit](https://www.spiegel.de/wirtschaft/donald-trump-bezeichnet-glyphosat-als-als-entscheidend-fuer-die-nationale-sicherheit-a-a5c513bb-3df8-4a8f-8c60-6512bba8054b#ref=rss)
+### hersteller
 
-* [https://www.spiegel.de/ausland/polen-aussenminister-radoslaw-sikorski-deutschland-und-frankreich-sind-heute-zu-klein-um-europa-zu-regieren](https://www.spiegel.de/ausland/polen-aussenminister-radoslaw-sikorski-deutschland-und-frankreich-sind-heute-zu-klein-um-europa-zu-regieren-a-07e648d7-9eff-4f62-93da-9a1974d57e11#ref=rss)
-### sikorski
+* [https://www.spiegel.de/wirtschaft/donald-trump-bezeichnet-glyphosat-als-als-entscheidend-fuer-die-nationale-sicherheit](https://www.spiegel.de/wirtschaft/donald-trump-bezeichnet-glyphosat-als-als-entscheidend-fuer-die-nationale-sicherheit-a-a5c513bb-3df8-4a8f-8c60-6512bba8054b#ref=rss)
+* [https://www.spiegel.de/auto/e-auto-praemie-so-bekommen-sie-ein-neues-elektroauto-fuer-unter-10-000-euro](https://www.spiegel.de/auto/e-auto-praemie-so-bekommen-sie-ein-neues-elektroauto-fuer-unter-10-000-euro-a-ef5f1365-bc68-4e0a-9e70-9cf73724c056#ref=rss)
+### deutschlandmonitor
 
-* [https://www.spiegel.de/ausland/polen-aussenminister-radoslaw-sikorski-deutschland-und-frankreich-sind-heute-zu-klein-um-europa-zu-regieren](https://www.spiegel.de/ausland/polen-aussenminister-radoslaw-sikorski-deutschland-und-frankreich-sind-heute-zu-klein-um-europa-zu-regieren-a-07e648d7-9eff-4f62-93da-9a1974d57e11#ref=rss)
-### europa
+* [https://www.spiegel.de/politik/deutschland-monitor-mehr-als-70-prozent-der-bundesbuerger-glauben-mit-der-demokratie-geht-es-bergab](https://www.spiegel.de/politik/deutschland-monitor-mehr-als-70-prozent-der-bundesbuerger-glauben-mit-der-demokratie-geht-es-bergab-a-bc9fe47b-da69-4731-b3a9-31ba88eb9ca6#ref=rss)
+### demokratie
 
-* [https://www.spiegel.de/ausland/polen-aussenminister-radoslaw-sikorski-deutschland-und-frankreich-sind-heute-zu-klein-um-europa-zu-regieren](https://www.spiegel.de/ausland/polen-aussenminister-radoslaw-sikorski-deutschland-und-frankreich-sind-heute-zu-klein-um-europa-zu-regieren-a-07e648d7-9eff-4f62-93da-9a1974d57e11#ref=rss)
-### reiche
+* [https://www.spiegel.de/politik/deutschland-monitor-mehr-als-70-prozent-der-bundesbuerger-glauben-mit-der-demokratie-geht-es-bergab](https://www.spiegel.de/politik/deutschland-monitor-mehr-als-70-prozent-der-bundesbuerger-glauben-mit-der-demokratie-geht-es-bergab-a-bc9fe47b-da69-4731-b3a9-31ba88eb9ca6#ref=rss)
+### finden
 
-* [https://www.spiegel.de/politik/deutschland/wirtschaftsministerium-katherina-reiche-entlaesst-chefin-der-leitungsabteilung](https://www.spiegel.de/politik/deutschland/wirtschaftsministerium-katherina-reiche-entlaesst-chefin-der-leitungsabteilung-a-bc866226-b2ea-43c5-bc2e-7523c2171ca1#ref=rss)
-### chefin
+* [https://www.spiegel.de/politik/deutschland-monitor-mehr-als-70-prozent-der-bundesbuerger-glauben-mit-der-demokratie-geht-es-bergab](https://www.spiegel.de/politik/deutschland-monitor-mehr-als-70-prozent-der-bundesbuerger-glauben-mit-der-demokratie-geht-es-bergab-a-bc9fe47b-da69-4731-b3a9-31ba88eb9ca6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-rheinland-pfalz-wen-sie-in-den-landtag-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-rheinland-pfalz-wen-sie-in-den-landtag-waehlen-wollen-a-65d13407-82d9-494d-aa9e-e08962b0dd84#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/politik/deutschland/wirtschaftsministerium-katherina-reiche-entlaesst-chefin-der-leitungsabteilung](https://www.spiegel.de/politik/deutschland/wirtschaftsministerium-katherina-reiche-entlaesst-chefin-der-leitungsabteilung-a-bc866226-b2ea-43c5-bc2e-7523c2171ca1#ref=rss)
-### leitungsabteilung
+* [https://www.spiegel.de/politik/deutschland-monitor-mehr-als-70-prozent-der-bundesbuerger-glauben-mit-der-demokratie-geht-es-bergab](https://www.spiegel.de/politik/deutschland-monitor-mehr-als-70-prozent-der-bundesbuerger-glauben-mit-der-demokratie-geht-es-bergab-a-bc9fe47b-da69-4731-b3a9-31ba88eb9ca6#ref=rss)
+* [https://www.spiegel.de/ausland/italien-sea-watch-staat-muss-76-000-euro-an-hilfsorganisation-zahlen](https://www.spiegel.de/ausland/italien-sea-watch-staat-muss-76-000-euro-an-hilfsorganisation-zahlen-a-3d20807a-775b-4d5b-ae0c-3aeab1a41484#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/politik/deutschland/wirtschaftsministerium-katherina-reiche-entlaesst-chefin-der-leitungsabteilung](https://www.spiegel.de/politik/deutschland/wirtschaftsministerium-katherina-reiche-entlaesst-chefin-der-leitungsabteilung-a-bc866226-b2ea-43c5-bc2e-7523c2171ca1#ref=rss)
-### daniel
+* [https://www.spiegel.de/ausland/italien-sea-watch-staat-muss-76-000-euro-an-hilfsorganisation-zahlen](https://www.spiegel.de/ausland/italien-sea-watch-staat-muss-76-000-euro-an-hilfsorganisation-zahlen-a-3d20807a-775b-4d5b-ae0c-3aeab1a41484#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-maschinen-der-flugbereitschaft-haeufig-ohne-passagiere-unterwegs](https://www.spiegel.de/politik/deutschland/bundesregierung-maschinen-der-flugbereitschaft-haeufig-ohne-passagiere-unterwegs-a-f5fac43e-c5b0-4ecf-9c13-1352b0c21ae2#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/kultur/daniel-radcliffe-harry-potter-schauspieler-will-fuer-seinen-nachfolger-kein-seltsamer-geist-sein](https://www.spiegel.de/kultur/daniel-radcliffe-harry-potter-schauspieler-will-fuer-seinen-nachfolger-kein-seltsamer-geist-sein-a-71c9fcbe-fd5a-43cf-8e0e-4a4ae19555f5#ref=rss)
-### radcliffe
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-maschinen-der-flugbereitschaft-haeufig-ohne-passagiere-unterwegs](https://www.spiegel.de/politik/deutschland/bundesregierung-maschinen-der-flugbereitschaft-haeufig-ohne-passagiere-unterwegs-a-f5fac43e-c5b0-4ecf-9c13-1352b0c21ae2#ref=rss)
+* [https://www.spiegel.de/auto/e-auto-praemie-so-bekommen-sie-ein-neues-elektroauto-fuer-unter-10-000-euro](https://www.spiegel.de/auto/e-auto-praemie-so-bekommen-sie-ein-neues-elektroauto-fuer-unter-10-000-euro-a-ef5f1365-bc68-4e0a-9e70-9cf73724c056#ref=rss)
+### maschinen
 
-* [https://www.spiegel.de/kultur/daniel-radcliffe-harry-potter-schauspieler-will-fuer-seinen-nachfolger-kein-seltsamer-geist-sein](https://www.spiegel.de/kultur/daniel-radcliffe-harry-potter-schauspieler-will-fuer-seinen-nachfolger-kein-seltsamer-geist-sein-a-71c9fcbe-fd5a-43cf-8e0e-4a4ae19555f5#ref=rss)
-### harry
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-maschinen-der-flugbereitschaft-haeufig-ohne-passagiere-unterwegs](https://www.spiegel.de/politik/deutschland/bundesregierung-maschinen-der-flugbereitschaft-haeufig-ohne-passagiere-unterwegs-a-f5fac43e-c5b0-4ecf-9c13-1352b0c21ae2#ref=rss)
+### flugbereitschaft
 
-* [https://www.spiegel.de/kultur/daniel-radcliffe-harry-potter-schauspieler-will-fuer-seinen-nachfolger-kein-seltsamer-geist-sein](https://www.spiegel.de/kultur/daniel-radcliffe-harry-potter-schauspieler-will-fuer-seinen-nachfolger-kein-seltsamer-geist-sein-a-71c9fcbe-fd5a-43cf-8e0e-4a4ae19555f5#ref=rss)
-### potter
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-maschinen-der-flugbereitschaft-haeufig-ohne-passagiere-unterwegs](https://www.spiegel.de/politik/deutschland/bundesregierung-maschinen-der-flugbereitschaft-haeufig-ohne-passagiere-unterwegs-a-f5fac43e-c5b0-4ecf-9c13-1352b0c21ae2#ref=rss)
+### passagiere
 
-* [https://www.spiegel.de/kultur/daniel-radcliffe-harry-potter-schauspieler-will-fuer-seinen-nachfolger-kein-seltsamer-geist-sein](https://www.spiegel.de/kultur/daniel-radcliffe-harry-potter-schauspieler-will-fuer-seinen-nachfolger-kein-seltsamer-geist-sein-a-71c9fcbe-fd5a-43cf-8e0e-4a4ae19555f5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-maschinen-der-flugbereitschaft-haeufig-ohne-passagiere-unterwegs](https://www.spiegel.de/politik/deutschland/bundesregierung-maschinen-der-flugbereitschaft-haeufig-ohne-passagiere-unterwegs-a-f5fac43e-c5b0-4ecf-9c13-1352b0c21ae2#ref=rss)
+### spiegelrecherchen
+
+* [https://www.spiegel.de/panorama/gesellschaft/bremen-wie-radikal-sind-die-linken-von-der-weser](https://www.spiegel.de/panorama/gesellschaft/bremen-wie-radikal-sind-die-linken-von-der-weser-a-819dd8d6-e96a-45b5-a3b4-31999b1b46f1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nord-stream-cia-war-offenbar-frueh-in-plaene-der-angreifer-eingeweiht](https://www.spiegel.de/politik/deutschland/nord-stream-cia-war-offenbar-frueh-in-plaene-der-angreifer-eingeweiht-a-d95f5682-dc5b-47a7-82e2-5bb09661b210#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/panorama/fall-jeffrey-epstein-ex-prinz-andrew-festgenommen](https://www.spiegel.de/panorama/fall-jeffrey-epstein-ex-prinz-andrew-festgenommen-a-b5f34722-c103-450e-913b-1904007734ab#ref=rss)
+### britische
+
+* [https://www.spiegel.de/panorama/fall-jeffrey-epstein-ex-prinz-andrew-festgenommen](https://www.spiegel.de/panorama/fall-jeffrey-epstein-ex-prinz-andrew-festgenommen-a-b5f34722-c103-450e-913b-1904007734ab#ref=rss)
+### kombinierer
+
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-rueckendeckung-fuer-franziska-preuss-nach-staffel-enttaeuschung](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-rueckendeckung-fuer-franziska-preuss-nach-staffel-enttaeuschung-a-bc5d47d0-023f-4d7d-b114-08f3e70fcf58#ref=rss)
+### nordischen
+
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-rueckendeckung-fuer-franziska-preuss-nach-staffel-enttaeuschung](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-rueckendeckung-fuer-franziska-preuss-nach-staffel-enttaeuschung-a-bc5d47d0-023f-4d7d-b114-08f3e70fcf58#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-19-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-19-februar-an-a-99f4be2c-ab21-4e9d-acc0-7fce13d1f747#ref=rss)
+### läuft
+
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-rueckendeckung-fuer-franziska-preuss-nach-staffel-enttaeuschung](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-rueckendeckung-fuer-franziska-preuss-nach-staffel-enttaeuschung-a-bc5d47d0-023f-4d7d-b114-08f3e70fcf58#ref=rss)
+* [https://www.spiegel.de/panorama/leute/bad-bunny-spielt-hauptrolle-in-film-ueber-seine-heimat-puerto-rico](https://www.spiegel.de/panorama/leute/bad-bunny-spielt-hauptrolle-in-film-ueber-seine-heimat-puerto-rico-a-aef661d8-9f15-44fe-9225-e17a4f44dc52#ref=rss)
+### amanda
+
+* [https://www.spiegel.de/kultur/kino/amanda-seyfried-wusste-offenbar-nicht-dass-sie-bei-the-housemaid-produzentin-war](https://www.spiegel.de/kultur/kino/amanda-seyfried-wusste-offenbar-nicht-dass-sie-bei-the-housemaid-produzentin-war-a-c0235536-53c3-4b45-8728-b734d594fd2d#ref=rss)
+### seyfried
+
+* [https://www.spiegel.de/kultur/kino/amanda-seyfried-wusste-offenbar-nicht-dass-sie-bei-the-housemaid-produzentin-war](https://www.spiegel.de/kultur/kino/amanda-seyfried-wusste-offenbar-nicht-dass-sie-bei-the-housemaid-produzentin-war-a-c0235536-53c3-4b45-8728-b734d594fd2d#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/kino/amanda-seyfried-wusste-offenbar-nicht-dass-sie-bei-the-housemaid-produzentin-war](https://www.spiegel.de/kultur/kino/amanda-seyfried-wusste-offenbar-nicht-dass-sie-bei-the-housemaid-produzentin-war-a-c0235536-53c3-4b45-8728-b734d594fd2d#ref=rss)
+### housemaid
+
+* [https://www.spiegel.de/kultur/kino/amanda-seyfried-wusste-offenbar-nicht-dass-sie-bei-the-housemaid-produzentin-war](https://www.spiegel.de/kultur/kino/amanda-seyfried-wusste-offenbar-nicht-dass-sie-bei-the-housemaid-produzentin-war-a-c0235536-53c3-4b45-8728-b734d594fd2d#ref=rss)
+### produzentin
+
+* [https://www.spiegel.de/kultur/kino/amanda-seyfried-wusste-offenbar-nicht-dass-sie-bei-the-housemaid-produzentin-war](https://www.spiegel.de/kultur/kino/amanda-seyfried-wusste-offenbar-nicht-dass-sie-bei-the-housemaid-produzentin-war-a-c0235536-53c3-4b45-8728-b734d594fd2d#ref=rss)
+### film
+
+* [https://www.spiegel.de/kultur/kino/amanda-seyfried-wusste-offenbar-nicht-dass-sie-bei-the-housemaid-produzentin-war](https://www.spiegel.de/kultur/kino/amanda-seyfried-wusste-offenbar-nicht-dass-sie-bei-the-housemaid-produzentin-war-a-c0235536-53c3-4b45-8728-b734d594fd2d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/bad-bunny-spielt-hauptrolle-in-film-ueber-seine-heimat-puerto-rico](https://www.spiegel.de/panorama/leute/bad-bunny-spielt-hauptrolle-in-film-ueber-seine-heimat-puerto-rico-a-aef661d8-9f15-44fe-9225-e17a4f44dc52#ref=rss)
+### lidl
+
+* [https://www.spiegel.de/wirtschaft/lidl-gericht-prueft-irrefuehrende-werbeversprechen](https://www.spiegel.de/wirtschaft/lidl-gericht-prueft-irrefuehrende-werbeversprechen-a-7584ec6d-34ac-476c-bc58-35f33c17497f#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/wirtschaft/lidl-gericht-prueft-irrefuehrende-werbeversprechen](https://www.spiegel.de/wirtschaft/lidl-gericht-prueft-irrefuehrende-werbeversprechen-a-7584ec6d-34ac-476c-bc58-35f33c17497f#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-ex-praesident-yoon-muss-lebenslang-ins-gefaengnis](https://www.spiegel.de/ausland/suedkorea-ex-praesident-yoon-muss-lebenslang-ins-gefaengnis-a-8d6b49d9-5915-4bf4-990d-2379a6128f9f#ref=rss)
+### größte
+
+* [https://www.spiegel.de/wirtschaft/lidl-gericht-prueft-irrefuehrende-werbeversprechen](https://www.spiegel.de/wirtschaft/lidl-gericht-prueft-irrefuehrende-werbeversprechen-a-7584ec6d-34ac-476c-bc58-35f33c17497f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit](https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit-a-d7c8669e-4be7-491c-b071-78115203acc2#ref=rss)
 ### schauspieler
 
-* [https://www.spiegel.de/kultur/daniel-radcliffe-harry-potter-schauspieler-will-fuer-seinen-nachfolger-kein-seltsamer-geist-sein](https://www.spiegel.de/kultur/daniel-radcliffe-harry-potter-schauspieler-will-fuer-seinen-nachfolger-kein-seltsamer-geist-sein-a-71c9fcbe-fd5a-43cf-8e0e-4a4ae19555f5#ref=rss)
-### jungen
+* [https://www.spiegel.de/panorama/leute/schauspieler-oliver-mommsen-lebt-eine-jahrelange-midlife-krise](https://www.spiegel.de/panorama/leute/schauspieler-oliver-mommsen-lebt-eine-jahrelange-midlife-krise-a-c1be707f-ab24-472e-a8a1-a4c4cd7497be#ref=rss)
+### oliver
 
-* [https://www.spiegel.de/kultur/daniel-radcliffe-harry-potter-schauspieler-will-fuer-seinen-nachfolger-kein-seltsamer-geist-sein](https://www.spiegel.de/kultur/daniel-radcliffe-harry-potter-schauspieler-will-fuer-seinen-nachfolger-kein-seltsamer-geist-sein-a-71c9fcbe-fd5a-43cf-8e0e-4a4ae19555f5#ref=rss)
-### london
+* [https://www.spiegel.de/panorama/leute/schauspieler-oliver-mommsen-lebt-eine-jahrelange-midlife-krise](https://www.spiegel.de/panorama/leute/schauspieler-oliver-mommsen-lebt-eine-jahrelange-midlife-krise-a-c1be707f-ab24-472e-a8a1-a4c4cd7497be#ref=rss)
+### mommsen
 
-* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-emilys-vater-lehnt-vergleich-ab](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-emilys-vater-lehnt-vergleich-ab-a-1b944eb5-b493-4915-8d42-838db4b2d974#ref=rss)
-### tod
+* [https://www.spiegel.de/panorama/leute/schauspieler-oliver-mommsen-lebt-eine-jahrelange-midlife-krise](https://www.spiegel.de/panorama/leute/schauspieler-oliver-mommsen-lebt-eine-jahrelange-midlife-krise-a-c1be707f-ab24-472e-a8a1-a4c4cd7497be#ref=rss)
+### wahlomat
 
-* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-emilys-vater-lehnt-vergleich-ab](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-emilys-vater-lehnt-vergleich-ab-a-1b944eb5-b493-4915-8d42-838db4b2d974#ref=rss)
-### klassenfahrt
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-rheinland-pfalz-wen-sie-in-den-landtag-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-rheinland-pfalz-wen-sie-in-den-landtag-waehlen-wollen-a-65d13407-82d9-494d-aa9e-e08962b0dd84#ref=rss)
+### rheinlandpfalz
 
-* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-emilys-vater-lehnt-vergleich-ab](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-emilys-vater-lehnt-vergleich-ab-a-1b944eb5-b493-4915-8d42-838db4b2d974#ref=rss)
-### vater
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-rheinland-pfalz-wen-sie-in-den-landtag-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-rheinland-pfalz-wen-sie-in-den-landtag-waehlen-wollen-a-65d13407-82d9-494d-aa9e-e08962b0dd84#ref=rss)
+### frau
 
-* [https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-emilys-vater-lehnt-vergleich-ab](https://www.spiegel.de/panorama/justiz/tod-auf-klassenfahrt-in-london-emilys-vater-lehnt-vergleich-ab-a-1b944eb5-b493-4915-8d42-838db4b2d974#ref=rss)
-### isabel
+* [https://www.spiegel.de/politik/deutschland/bundespraesidentin-eine-frau-fuer-dieses-amt-vorschlagen-und-sich-dafuer-feiern-das-ist-billig-kommentar](https://www.spiegel.de/politik/deutschland/bundespraesidentin-eine-frau-fuer-dieses-amt-vorschlagen-und-sich-dafuer-feiern-das-ist-billig-kommentar-a-355ed875-1a31-4fd6-84d7-38348ff050ce#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/familienunternehmen-isabel-grupp-kofler-kritisiert-den-abgesang-auf-die-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/familienunternehmen-isabel-grupp-kofler-kritisiert-den-abgesang-auf-die-wirtschaft-a-71ee0d0c-d7ad-4ce1-bdce-5339e5894453#ref=rss)
-### gruppkofler
+* [https://www.spiegel.de/politik/deutschland/bundespraesidentin-eine-frau-fuer-dieses-amt-vorschlagen-und-sich-dafuer-feiern-das-ist-billig-kommentar](https://www.spiegel.de/politik/deutschland/bundespraesidentin-eine-frau-fuer-dieses-amt-vorschlagen-und-sich-dafuer-feiern-das-ist-billig-kommentar-a-355ed875-1a31-4fd6-84d7-38348ff050ce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/donald-trump-friedensrat-kommt-erstmals-zusammen-deutscher-beamter-mit-dabei](https://www.spiegel.de/politik/deutschland/donald-trump-friedensrat-kommt-erstmals-zusammen-deutscher-beamter-mit-dabei-a-03dacb0e-45a3-4341-a3b9-023e182a24dd#ref=rss)
+### elektroauto
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/familienunternehmen-isabel-grupp-kofler-kritisiert-den-abgesang-auf-die-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/familienunternehmen-isabel-grupp-kofler-kritisiert-den-abgesang-auf-die-wirtschaft-a-71ee0d0c-d7ad-4ce1-bdce-5339e5894453#ref=rss)
+* [https://www.spiegel.de/auto/e-auto-praemie-so-bekommen-sie-ein-neues-elektroauto-fuer-unter-10-000-euro](https://www.spiegel.de/auto/e-auto-praemie-so-bekommen-sie-ein-neues-elektroauto-fuer-unter-10-000-euro-a-ef5f1365-bc68-4e0a-9e70-9cf73724c056#ref=rss)
+### beachten
+
+* [https://www.spiegel.de/auto/e-auto-praemie-so-bekommen-sie-ein-neues-elektroauto-fuer-unter-10-000-euro](https://www.spiegel.de/auto/e-auto-praemie-so-bekommen-sie-ein-neues-elektroauto-fuer-unter-10-000-euro-a-ef5f1365-bc68-4e0a-9e70-9cf73724c056#ref=rss)
+* [https://www.spiegel.de/wirtschaft/mietrecht-reform-schutz-bei-eigenbedarfskuendigung-fuer-haertefaelle](https://www.spiegel.de/wirtschaft/mietrecht-reform-schutz-bei-eigenbedarfskuendigung-fuer-haertefaelle-a-6efedfcd-fbe6-4f9c-8b60-3f0c00c2b3e2#ref=rss)
+### chef
+
+* [https://www.spiegel.de/wirtschaft/db-cargo-neuer-chef-will-fast-die-haelfte-der-stellen-streichen](https://www.spiegel.de/wirtschaft/db-cargo-neuer-chef-will-fast-die-haelfte-der-stellen-streichen-a-1a6d0752-52fb-4929-b19f-b14202fc20fb#ref=rss)
+### großglockner
+
+* [https://www.spiegel.de/sport/bergsteiger-drama-am-grossglockner-jetzt-beginnt-der-prozess](https://www.spiegel.de/sport/bergsteiger-drama-am-grossglockner-jetzt-beginnt-der-prozess-a-c3f90023-4158-423e-8c04-f72a61af97e4#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/immobilienstreit-in-kreuzberg-prominente-journalisten-muessen-3-1-millionen-euro-an-das-land-berlin-zurueckzahlen](https://www.spiegel.de/panorama/immobilienstreit-in-kreuzberg-prominente-journalisten-muessen-3-1-millionen-euro-an-das-land-berlin-zurueckzahlen-a-8e33bb9e-75de-40e4-83df-6df543aa0d93#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit](https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit-a-d7c8669e-4be7-491c-b071-78115203acc2#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/immobilienstreit-in-kreuzberg-prominente-journalisten-muessen-3-1-millionen-euro-an-das-land-berlin-zurueckzahlen](https://www.spiegel.de/panorama/immobilienstreit-in-kreuzberg-prominente-journalisten-muessen-3-1-millionen-euro-an-das-land-berlin-zurueckzahlen-a-8e33bb9e-75de-40e4-83df-6df543aa0d93#ref=rss)
+* [https://www.spiegel.de/panorama/reichstagsgebaeude-in-berlin-gasmelder-loest-feuerwehreinsatz-aus](https://www.spiegel.de/panorama/reichstagsgebaeude-in-berlin-gasmelder-loest-feuerwehreinsatz-aus-a-cbbd22da-f31d-42a9-9f8f-15e91ab0f300#ref=rss)
+### zurückzahlen
+
+* [https://www.spiegel.de/panorama/immobilienstreit-in-kreuzberg-prominente-journalisten-muessen-3-1-millionen-euro-an-das-land-berlin-zurueckzahlen](https://www.spiegel.de/panorama/immobilienstreit-in-kreuzberg-prominente-journalisten-muessen-3-1-millionen-euro-an-das-land-berlin-zurueckzahlen-a-8e33bb9e-75de-40e4-83df-6df543aa0d93#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/panorama/immobilienstreit-in-kreuzberg-prominente-journalisten-muessen-3-1-millionen-euro-an-das-land-berlin-zurueckzahlen](https://www.spiegel.de/panorama/immobilienstreit-in-kreuzberg-prominente-journalisten-muessen-3-1-millionen-euro-an-das-land-berlin-zurueckzahlen-a-8e33bb9e-75de-40e4-83df-6df543aa0d93#ref=rss)
+* [https://www.spiegel.de/panorama/reichstagsgebaeude-in-berlin-gasmelder-loest-feuerwehreinsatz-aus](https://www.spiegel.de/panorama/reichstagsgebaeude-in-berlin-gasmelder-loest-feuerwehreinsatz-aus-a-cbbd22da-f31d-42a9-9f8f-15e91ab0f300#ref=rss)
+### airbus
+
+* [https://www.spiegel.de/wirtschaft/airbus-beschwert-sich-ueber-lieferverzoegerung-bei-a320-triebwerken](https://www.spiegel.de/wirtschaft/airbus-beschwert-sich-ueber-lieferverzoegerung-bei-a320-triebwerken-a-c5819fb8-1f40-4282-ac4c-7942b4aead40#ref=rss)
+### alarm
+
+* [https://www.spiegel.de/panorama/reichstagsgebaeude-in-berlin-gasmelder-loest-feuerwehreinsatz-aus](https://www.spiegel.de/panorama/reichstagsgebaeude-in-berlin-gasmelder-loest-feuerwehreinsatz-aus-a-cbbd22da-f31d-42a9-9f8f-15e91ab0f300#ref=rss)
+### kündigung
+
+* [https://www.spiegel.de/wirtschaft/mietrecht-reform-schutz-bei-eigenbedarfskuendigung-fuer-haertefaelle](https://www.spiegel.de/wirtschaft/mietrecht-reform-schutz-bei-eigenbedarfskuendigung-fuer-haertefaelle-a-6efedfcd-fbe6-4f9c-8b60-3f0c00c2b3e2#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-fliegt-weitere-soldaten-aus-dem-irak-aus](https://www.spiegel.de/politik/deutschland/bundeswehr-fliegt-weitere-soldaten-aus-dem-irak-aus-a-96b69ab8-c7ec-4049-b29a-48d600443cd9#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-fliegt-weitere-soldaten-aus-dem-irak-aus](https://www.spiegel.de/politik/deutschland/bundeswehr-fliegt-weitere-soldaten-aus-dem-irak-aus-a-96b69ab8-c7ec-4049-b29a-48d600443cd9#ref=rss)
+### irak
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-fliegt-weitere-soldaten-aus-dem-irak-aus](https://www.spiegel.de/politik/deutschland/bundeswehr-fliegt-weitere-soldaten-aus-dem-irak-aus-a-96b69ab8-c7ec-4049-b29a-48d600443cd9#ref=rss)
+### depop
+
+* [https://www.spiegel.de/wirtschaft/ebay-kauft-gebrauchtmodeplattform-depop](https://www.spiegel.de/wirtschaft/ebay-kauft-gebrauchtmodeplattform-depop-a-24604cad-49dc-4d58-984c-aaf972df0ca5#ref=rss)
+### ebay
+
+* [https://www.spiegel.de/wirtschaft/ebay-kauft-gebrauchtmodeplattform-depop](https://www.spiegel.de/wirtschaft/ebay-kauft-gebrauchtmodeplattform-depop-a-24604cad-49dc-4d58-984c-aaf972df0ca5#ref=rss)
+### yoon
+
+* [https://www.spiegel.de/ausland/suedkorea-ex-praesident-yoon-muss-lebenslang-ins-gefaengnis](https://www.spiegel.de/ausland/suedkorea-ex-praesident-yoon-muss-lebenslang-ins-gefaengnis-a-8d6b49d9-5915-4bf4-990d-2379a6128f9f#ref=rss)
+### bad
+
+* [https://www.spiegel.de/panorama/leute/bad-bunny-spielt-hauptrolle-in-film-ueber-seine-heimat-puerto-rico](https://www.spiegel.de/panorama/leute/bad-bunny-spielt-hauptrolle-in-film-ueber-seine-heimat-puerto-rico-a-aef661d8-9f15-44fe-9225-e17a4f44dc52#ref=rss)
+### bunny
+
+* [https://www.spiegel.de/panorama/leute/bad-bunny-spielt-hauptrolle-in-film-ueber-seine-heimat-puerto-rico](https://www.spiegel.de/panorama/leute/bad-bunny-spielt-hauptrolle-in-film-ueber-seine-heimat-puerto-rico-a-aef661d8-9f15-44fe-9225-e17a4f44dc52#ref=rss)
+### andrea
+
+* [https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit](https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit-a-d7c8669e-4be7-491c-b071-78115203acc2#ref=rss)
+### nahles
+
+* [https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit](https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit-a-d7c8669e-4be7-491c-b071-78115203acc2#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit](https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit-a-d7c8669e-4be7-491c-b071-78115203acc2#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-regen-warnung-vor-glatten-strassen](https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-regen-warnung-vor-glatten-strassen-a-8d5b5ec2-c714-41a6-9583-4b11b5331101#ref=rss)
+### donnerstag
+
+* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-19-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-donnerstag-19-februar-an-a-99f4be2c-ab21-4e9d-acc0-7fce13d1f747#ref=rss)
+### friedensrat
+
+* [https://www.spiegel.de/politik/deutschland/donald-trump-friedensrat-kommt-erstmals-zusammen-deutscher-beamter-mit-dabei](https://www.spiegel.de/politik/deutschland/donald-trump-friedensrat-kommt-erstmals-zusammen-deutscher-beamter-mit-dabei-a-03dacb0e-45a3-4341-a3b9-023e182a24dd#ref=rss)
+### schnee
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-regen-warnung-vor-glatten-strassen](https://www.spiegel.de/panorama/wetter-in-deutschland-schnee-und-regen-warnung-vor-glatten-strassen-a-8d5b5ec2-c714-41a6-9583-4b11b5331101#ref=rss)
 
