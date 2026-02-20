@@ -4,348 +4,383 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-wie-mehr-jobwechsel-dem-wachstum-helfen-koennen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-wie-mehr-jobwechsel-dem-wachstum-helfen-koennen-a-1bfc0769-14f5-4999-bbe9-ed58fe79caed#ref=rss)
-* [https://www.spiegel.de/kultur/hbo-max-serie-banksters-ein-krasser-fall-von-mutlosigkeit](https://www.spiegel.de/kultur/hbo-max-serie-banksters-ein-krasser-fall-von-mutlosigkeit-a-564c39d3-1c29-43b2-a5a8-968d95b1f55f#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-leitartikel-zur-deutschen-bilanz-bei-den-winterspielen-dieses-land-bekommt-was-es-verdient](https://www.spiegel.de/sport/olympia/olympia-2026-leitartikel-zur-deutschen-bilanz-bei-den-winterspielen-dieses-land-bekommt-was-es-verdient-a-61fbdb6b-c47a-4168-adb1-d554a354a8e2#ref=rss)
-* [https://www.spiegel.de/kultur/musik/rob-halford-judas-priest-saenger-findet-dass-es-musiker-heute-schwerer-haben](https://www.spiegel.de/kultur/musik/rob-halford-judas-priest-saenger-findet-dass-es-musiker-heute-schwerer-haben-a-ba037c4e-bb9c-4e22-bd38-e25e4b5409ab#ref=rss)
-### andrew
-
-* [https://www.spiegel.de/ausland/andrew-mountbatten-windsor-polizei-durchsucht-frueheres-anwesen-von-ex-prinz](https://www.spiegel.de/ausland/andrew-mountbatten-windsor-polizei-durchsucht-frueheres-anwesen-von-ex-prinz-a-c312b7c8-f85d-488c-8825-04346694be10#ref=rss)
-* [https://www.spiegel.de/ausland/andrew-mountbatten-windsor-pressestimmen-zur-voruebergehenden-festnahme-von-ex-prinz-andrew](https://www.spiegel.de/ausland/andrew-mountbatten-windsor-pressestimmen-zur-voruebergehenden-festnahme-von-ex-prinz-andrew-a-24581a6a-533f-4c42-80a4-06ed504345c9#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/andrew-mountbatten-windsor-polizei-durchsucht-frueheres-anwesen-von-ex-prinz](https://www.spiegel.de/ausland/andrew-mountbatten-windsor-polizei-durchsucht-frueheres-anwesen-von-ex-prinz-a-c312b7c8-f85d-488c-8825-04346694be10#ref=rss)
-* [https://www.spiegel.de/panorama/hiddensee-abgelegte-kleidung-am-strand-loest-suchaktion-aus](https://www.spiegel.de/panorama/hiddensee-abgelegte-kleidung-am-strand-loest-suchaktion-aus-a-18f58002-e495-4e6e-86ee-41f66d18c3b0#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-polizei-zieht-nach-panne-um-fehlerhafte-lineale-konsequenzen](https://www.spiegel.de/panorama/berlin-polizei-zieht-nach-panne-um-fehlerhafte-lineale-konsequenzen-a-4578a677-ee42-4597-83df-be077cc23764#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage](https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage-a-36875fdd-76cc-44a5-9767-e61f98a650f7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/rueckruf-asbest-in-spielsand-und-bastelsand-gefunden-was-sollten-verbraucher-nun-tun](https://www.spiegel.de/wirtschaft/service/rueckruf-asbest-in-spielsand-und-bastelsand-gefunden-was-sollten-verbraucher-nun-tun-a-4f0d3f7c-c7f8-491a-b3f8-f86bb17d88b8#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/gesunde-ernaehrung-und-fasten-was-wie-und-wie-viel-wir-essen-sollten](https://www.spiegel.de/gesundheit/ernaehrung/gesunde-ernaehrung-und-fasten-was-wie-und-wie-viel-wir-essen-sollten-a-ba54f808-d108-4cb5-9009-2081455ba20e#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-freitag-20-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-freitag-20-februar-an-a-4b3d4299-dcf8-4d2f-bce0-d0bfba5977aa#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-wie-mehr-jobwechsel-dem-wachstum-helfen-koennen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-wie-mehr-jobwechsel-dem-wachstum-helfen-koennen-a-1bfc0769-14f5-4999-bbe9-ed58fe79caed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-und-cdu-die-brandmauer-steht-vor-dem-fall-was-jetzt-passieren-muss](https://www.spiegel.de/politik/deutschland/afd-und-cdu-die-brandmauer-steht-vor-dem-fall-was-jetzt-passieren-muss-a-cebf6cec-fafb-45f5-862b-65cebd56d8cb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-europapolitiker-niclas-herbst-mir-gefaellt-der-negative-ton-nicht](https://www.spiegel.de/politik/deutschland/cdu-europapolitiker-niclas-herbst-mir-gefaellt-der-negative-ton-nicht-a-f0f5304f-5f54-405b-9fc9-87cba9511527#ref=rss)
-### olympia
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-eiskunst-olympiasiegerin-alysa-liu-gold-ist-ihr-das-unwichtigste](https://www.spiegel.de/sport/olympia/olympia-2026-eiskunst-olympiasiegerin-alysa-liu-gold-ist-ihr-das-unwichtigste-a-b5726576-d785-42b8-ae6b-dabbdab85a2c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-leitartikel-zur-deutschen-bilanz-bei-den-winterspielen-dieses-land-bekommt-was-es-verdient](https://www.spiegel.de/sport/olympia/olympia-2026-leitartikel-zur-deutschen-bilanz-bei-den-winterspielen-dieses-land-bekommt-was-es-verdient-a-61fbdb6b-c47a-4168-adb1-d554a354a8e2#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-freitag-20-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-freitag-20-februar-an-a-4b3d4299-dcf8-4d2f-bce0-d0bfba5977aa#ref=rss)
-### gefunden
-
-* [https://www.spiegel.de/panorama/hiddensee-abgelegte-kleidung-am-strand-loest-suchaktion-aus](https://www.spiegel.de/panorama/hiddensee-abgelegte-kleidung-am-strand-loest-suchaktion-aus-a-18f58002-e495-4e6e-86ee-41f66d18c3b0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/rueckruf-asbest-in-spielsand-und-bastelsand-gefunden-was-sollten-verbraucher-nun-tun](https://www.spiegel.de/wirtschaft/service/rueckruf-asbest-in-spielsand-und-bastelsand-gefunden-was-sollten-verbraucher-nun-tun-a-4f0d3f7c-c7f8-491a-b3f8-f86bb17d88b8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/palaeontologen-finden-knochen-eines-riesigen-fischjaegers-liegt-ein-dinosaurier-in-der-sahara](https://www.spiegel.de/wissenschaft/natur/palaeontologen-finden-knochen-eines-riesigen-fischjaegers-liegt-ein-dinosaurier-in-der-sahara-a-ddf1e100-d284-43fc-bce2-7c3197f70ad3#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-leitartikel-zur-deutschen-bilanz-bei-den-winterspielen-dieses-land-bekommt-was-es-verdient](https://www.spiegel.de/sport/olympia/olympia-2026-leitartikel-zur-deutschen-bilanz-bei-den-winterspielen-dieses-land-bekommt-was-es-verdient-a-61fbdb6b-c47a-4168-adb1-d554a354a8e2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab-a-835870dd-aed2-420a-ae91-fe41244f87f8#ref=rss)
-### arbeitsmarkt
-
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-wie-mehr-jobwechsel-dem-wachstum-helfen-koennen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-wie-mehr-jobwechsel-dem-wachstum-helfen-koennen-a-1bfc0769-14f5-4999-bbe9-ed58fe79caed#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage](https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage-a-36875fdd-76cc-44a5-9767-e61f98a650f7#ref=rss)
-### 16
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-eiskunst-olympiasiegerin-alysa-liu-gold-ist-ihr-das-unwichtigste](https://www.spiegel.de/sport/olympia/olympia-2026-eiskunst-olympiasiegerin-alysa-liu-gold-ist-ihr-das-unwichtigste-a-b5726576-d785-42b8-ae6b-dabbdab85a2c#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/social-media-verbot-bundesschuelerkonferenz-gegen-verbot-bis-16-jahre](https://www.spiegel.de/panorama/bildung/social-media-verbot-bundesschuelerkonferenz-gegen-verbot-bis-16-jahre-a-47bebdc9-06af-4bfd-aaef-b38b5e59d8db#ref=rss)
-### exprinz
-
-* [https://www.spiegel.de/ausland/andrew-mountbatten-windsor-polizei-durchsucht-frueheres-anwesen-von-ex-prinz](https://www.spiegel.de/ausland/andrew-mountbatten-windsor-polizei-durchsucht-frueheres-anwesen-von-ex-prinz-a-c312b7c8-f85d-488c-8825-04346694be10#ref=rss)
-* [https://www.spiegel.de/ausland/andrew-mountbatten-windsor-pressestimmen-zur-voruebergehenden-festnahme-von-ex-prinz-andrew](https://www.spiegel.de/ausland/andrew-mountbatten-windsor-pressestimmen-zur-voruebergehenden-festnahme-von-ex-prinz-andrew-a-24581a6a-533f-4c42-80a4-06ed504345c9#ref=rss)
-### fall
-
-* [https://www.spiegel.de/kultur/hbo-max-serie-banksters-ein-krasser-fall-von-mutlosigkeit](https://www.spiegel.de/kultur/hbo-max-serie-banksters-ein-krasser-fall-von-mutlosigkeit-a-564c39d3-1c29-43b2-a5a8-968d95b1f55f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-und-cdu-die-brandmauer-steht-vor-dem-fall-was-jetzt-passieren-muss](https://www.spiegel.de/politik/deutschland/afd-und-cdu-die-brandmauer-steht-vor-dem-fall-was-jetzt-passieren-muss-a-cebf6cec-fafb-45f5-862b-65cebd56d8cb#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-freitag-20-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-freitag-20-februar-an-a-4b3d4299-dcf8-4d2f-bce0-d0bfba5977aa#ref=rss)
-### cameron
-
-* [https://www.spiegel.de/kultur/regisseur-james-cameron-will-uebernahme-von-warner-bros-durch-netflix-verhindern](https://www.spiegel.de/kultur/regisseur-james-cameron-will-uebernahme-von-warner-bros-durch-netflix-verhindern-a-88de8ba9-f6e2-482a-88b4-078dc56a5476#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-cdu-parteitag-das-sagt-der-kanzler-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-cdu-parteitag-das-sagt-der-kanzler-livestream-a-73bb1fb8-0e14-4804-8b3f-e6ec261e33dd#ref=rss)
-* [https://www.spiegel.de/kultur/musik/rob-halford-judas-priest-saenger-findet-dass-es-musiker-heute-schwerer-haben](https://www.spiegel.de/kultur/musik/rob-halford-judas-priest-saenger-findet-dass-es-musiker-heute-schwerer-haben-a-ba037c4e-bb9c-4e22-bd38-e25e4b5409ab#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/gesunde-ernaehrung-und-fasten-was-wie-und-wie-viel-wir-essen-sollten](https://www.spiegel.de/gesundheit/ernaehrung/gesunde-ernaehrung-und-fasten-was-wie-und-wie-viel-wir-essen-sollten-a-ba54f808-d108-4cb5-9009-2081455ba20e#ref=rss)
-### brandmauer
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-cdu-parteitag-das-sagt-der-kanzler-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-cdu-parteitag-das-sagt-der-kanzler-livestream-a-73bb1fb8-0e14-4804-8b3f-e6ec261e33dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-und-cdu-die-brandmauer-steht-vor-dem-fall-was-jetzt-passieren-muss](https://www.spiegel.de/politik/deutschland/afd-und-cdu-die-brandmauer-steht-vor-dem-fall-was-jetzt-passieren-muss-a-cebf6cec-fafb-45f5-862b-65cebd56d8cb#ref=rss)
-### afd
-
-* [https://www.spiegel.de/wirtschaft/afd-hochburg-rottweil-tuttlingen-gewerkschafter-ueber-die-standortkrise-und-die-aengste-der-menschen](https://www.spiegel.de/wirtschaft/afd-hochburg-rottweil-tuttlingen-gewerkschafter-ueber-die-standortkrise-und-die-aengste-der-menschen-a-87ae9011-0b80-4934-8d43-7b3319b71b4d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-und-cdu-die-brandmauer-steht-vor-dem-fall-was-jetzt-passieren-muss](https://www.spiegel.de/politik/deutschland/afd-und-cdu-die-brandmauer-steht-vor-dem-fall-was-jetzt-passieren-muss-a-cebf6cec-fafb-45f5-862b-65cebd56d8cb#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab-a-835870dd-aed2-420a-ae91-fe41244f87f8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/palm-beach-in-florida-flughafen-soll-nach-donald-trump-benannt-werden](https://www.spiegel.de/wirtschaft/unternehmen/palm-beach-in-florida-flughafen-soll-nach-donald-trump-benannt-werden-a-9c2d6181-64c2-4449-ab48-3dd2d7301d60#ref=rss)
+* [https://www.spiegel.de/ausland/zoll-urteil-des-supreme-court-jetzt-droht-donald-trump-der-gesichtsverlust](https://www.spiegel.de/ausland/zoll-urteil-des-supreme-court-jetzt-droht-donald-trump-der-gesichtsverlust-a-e7f480b0-5310-411c-a671-c71647f6a7e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki](https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki-a-b571c525-a953-425b-87d1-7521947c748f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-seinen-friedensrat-sieht-der-us-praesident-schon-als-kontrolleur-der-uno](https://www.spiegel.de/ausland/donald-trump-seinen-friedensrat-sieht-der-us-praesident-schon-als-kontrolleur-der-uno-a-442703e6-b929-46b7-a9f3-ae3efa833538#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-will-akten-zu-ausserirdischen-und-ufos-freigeben](https://www.spiegel.de/ausland/us-praesident-donald-trump-will-akten-zu-ausserirdischen-und-ufos-freigeben-a-525f5c1f-d6b1-4ee8-9dc8-f7351c21beaa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-demokraten-fuer-schwaches-wirtschaftswachstum-verantwortlich](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-demokraten-fuer-schwaches-wirtschaftswachstum-verantwortlich-a-f32bd704-e4d8-4073-b1c7-981887aae5a3#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/zoll-urteil-des-supreme-court-jetzt-droht-donald-trump-der-gesichtsverlust](https://www.spiegel.de/ausland/zoll-urteil-des-supreme-court-jetzt-droht-donald-trump-der-gesichtsverlust-a-e7f480b0-5310-411c-a671-c71647f6a7e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki](https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki-a-b571c525-a953-425b-87d1-7521947c748f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/olympia-freestyle-skier-hess-zieht-ins-finale-ein-und-zeigt-was-er-von-trumps-loser-kritik-haelt](https://www.spiegel.de/panorama/leute/olympia-freestyle-skier-hess-zieht-ins-finale-ein-und-zeigt-was-er-von-trumps-loser-kritik-haelt-a-353347bc-2e08-4862-98d2-775bea18806f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle](https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle-a-c643dfb7-1344-4adb-afb0-4f9c65fccf94#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab-a-835870dd-aed2-420a-ae91-fe41244f87f8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/palm-beach-in-florida-flughafen-soll-nach-donald-trump-benannt-werden](https://www.spiegel.de/wirtschaft/unternehmen/palm-beach-in-florida-flughafen-soll-nach-donald-trump-benannt-werden-a-9c2d6181-64c2-4449-ab48-3dd2d7301d60#ref=rss)
-### wir
-
-* [https://www.spiegel.de/gesundheit/ernaehrung/gesunde-ernaehrung-und-fasten-was-wie-und-wie-viel-wir-essen-sollten](https://www.spiegel.de/gesundheit/ernaehrung/gesunde-ernaehrung-und-fasten-was-wie-und-wie-viel-wir-essen-sollten-a-ba54f808-d108-4cb5-9009-2081455ba20e#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-wie-mehr-jobwechsel-dem-wachstum-helfen-koennen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-wie-mehr-jobwechsel-dem-wachstum-helfen-koennen-a-1bfc0769-14f5-4999-bbe9-ed58fe79caed#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab-a-835870dd-aed2-420a-ae91-fe41244f87f8#ref=rss)
-### braucht
-
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-wie-mehr-jobwechsel-dem-wachstum-helfen-koennen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-wie-mehr-jobwechsel-dem-wachstum-helfen-koennen-a-1bfc0769-14f5-4999-bbe9-ed58fe79caed#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-leitartikel-zur-deutschen-bilanz-bei-den-winterspielen-dieses-land-bekommt-was-es-verdient](https://www.spiegel.de/sport/olympia/olympia-2026-leitartikel-zur-deutschen-bilanz-bei-den-winterspielen-dieses-land-bekommt-was-es-verdient-a-61fbdb6b-c47a-4168-adb1-d554a354a8e2#ref=rss)
-### gefühle
-
-* [https://www.spiegel.de/psychologie/enttaeuschungen-ueberwinden-so-finden-sie-die-richtigen-worte-fuer-ihre-gefuehle-coaching](https://www.spiegel.de/psychologie/enttaeuschungen-ueberwinden-so-finden-sie-die-richtigen-worte-fuer-ihre-gefuehle-coaching-a-5fcbbde2-c700-479c-867f-d5245300d04f#ref=rss)
-### enttäuscht
-
-* [https://www.spiegel.de/psychologie/enttaeuschungen-ueberwinden-so-finden-sie-die-richtigen-worte-fuer-ihre-gefuehle-coaching](https://www.spiegel.de/psychologie/enttaeuschungen-ueberwinden-so-finden-sie-die-richtigen-worte-fuer-ihre-gefuehle-coaching-a-5fcbbde2-c700-479c-867f-d5245300d04f#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team-a-9c1deb9c-0a7f-466f-ab00-b24555a7202c#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/psychologie/enttaeuschungen-ueberwinden-so-finden-sie-die-richtigen-worte-fuer-ihre-gefuehle-coaching](https://www.spiegel.de/psychologie/enttaeuschungen-ueberwinden-so-finden-sie-die-richtigen-worte-fuer-ihre-gefuehle-coaching-a-5fcbbde2-c700-479c-867f-d5245300d04f#ref=rss)
-* [https://www.spiegel.de/panorama/nord-italien-deutscher-stirbt-bei-lawinenabgang-im-aostatal](https://www.spiegel.de/panorama/nord-italien-deutscher-stirbt-bei-lawinenabgang-im-aostatal-a-00821209-cc35-45b7-afac-902c357b3d8d#ref=rss)
-### 2026
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-eiskunst-olympiasiegerin-alysa-liu-gold-ist-ihr-das-unwichtigste](https://www.spiegel.de/sport/olympia/olympia-2026-eiskunst-olympiasiegerin-alysa-liu-gold-ist-ihr-das-unwichtigste-a-b5726576-d785-42b8-ae6b-dabbdab85a2c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-leitartikel-zur-deutschen-bilanz-bei-den-winterspielen-dieses-land-bekommt-was-es-verdient](https://www.spiegel.de/sport/olympia/olympia-2026-leitartikel-zur-deutschen-bilanz-bei-den-winterspielen-dieses-land-bekommt-was-es-verdient-a-61fbdb6b-c47a-4168-adb1-d554a354a8e2#ref=rss)
-### alysa
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-eiskunst-olympiasiegerin-alysa-liu-gold-ist-ihr-das-unwichtigste](https://www.spiegel.de/sport/olympia/olympia-2026-eiskunst-olympiasiegerin-alysa-liu-gold-ist-ihr-das-unwichtigste-a-b5726576-d785-42b8-ae6b-dabbdab85a2c#ref=rss)
-### liu
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-eiskunst-olympiasiegerin-alysa-liu-gold-ist-ihr-das-unwichtigste](https://www.spiegel.de/sport/olympia/olympia-2026-eiskunst-olympiasiegerin-alysa-liu-gold-ist-ihr-das-unwichtigste-a-b5726576-d785-42b8-ae6b-dabbdab85a2c#ref=rss)
-### mountbattenwindsor
-
-* [https://www.spiegel.de/ausland/andrew-mountbatten-windsor-polizei-durchsucht-frueheres-anwesen-von-ex-prinz](https://www.spiegel.de/ausland/andrew-mountbatten-windsor-polizei-durchsucht-frueheres-anwesen-von-ex-prinz-a-c312b7c8-f85d-488c-8825-04346694be10#ref=rss)
-* [https://www.spiegel.de/ausland/andrew-mountbatten-windsor-pressestimmen-zur-voruebergehenden-festnahme-von-ex-prinz-andrew](https://www.spiegel.de/ausland/andrew-mountbatten-windsor-pressestimmen-zur-voruebergehenden-festnahme-von-ex-prinz-andrew-a-24581a6a-533f-4c42-80a4-06ed504345c9#ref=rss)
-### banksters
-
-* [https://www.spiegel.de/kultur/hbo-max-serie-banksters-ein-krasser-fall-von-mutlosigkeit](https://www.spiegel.de/kultur/hbo-max-serie-banksters-ein-krasser-fall-von-mutlosigkeit-a-564c39d3-1c29-43b2-a5a8-968d95b1f55f#ref=rss)
-### bisschen
-
-* [https://www.spiegel.de/kultur/hbo-max-serie-banksters-ein-krasser-fall-von-mutlosigkeit](https://www.spiegel.de/kultur/hbo-max-serie-banksters-ein-krasser-fall-von-mutlosigkeit-a-564c39d3-1c29-43b2-a5a8-968d95b1f55f#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/kultur/hbo-max-serie-banksters-ein-krasser-fall-von-mutlosigkeit](https://www.spiegel.de/kultur/hbo-max-serie-banksters-ein-krasser-fall-von-mutlosigkeit-a-564c39d3-1c29-43b2-a5a8-968d95b1f55f#ref=rss)
-* [https://www.spiegel.de/panorama/nord-italien-deutscher-stirbt-bei-lawinenabgang-im-aostatal](https://www.spiegel.de/panorama/nord-italien-deutscher-stirbt-bei-lawinenabgang-im-aostatal-a-00821209-cc35-45b7-afac-902c357b3d8d#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/kultur/hbo-max-serie-banksters-ein-krasser-fall-von-mutlosigkeit](https://www.spiegel.de/kultur/hbo-max-serie-banksters-ein-krasser-fall-von-mutlosigkeit-a-564c39d3-1c29-43b2-a5a8-968d95b1f55f#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team-a-9c1deb9c-0a7f-466f-ab00-b24555a7202c#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/kultur/hbo-max-serie-banksters-ein-krasser-fall-von-mutlosigkeit](https://www.spiegel.de/kultur/hbo-max-serie-banksters-ein-krasser-fall-von-mutlosigkeit-a-564c39d3-1c29-43b2-a5a8-968d95b1f55f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab-a-835870dd-aed2-420a-ae91-fe41244f87f8#ref=rss)
-### bundesschülerkonferenz
-
-* [https://www.spiegel.de/panorama/bildung/social-media-verbot-bundesschuelerkonferenz-gegen-verbot-bis-16-jahre](https://www.spiegel.de/panorama/bildung/social-media-verbot-bundesschuelerkonferenz-gegen-verbot-bis-16-jahre-a-47bebdc9-06af-4bfd-aaef-b38b5e59d8db#ref=rss)
-### verbot
-
-* [https://www.spiegel.de/panorama/bildung/social-media-verbot-bundesschuelerkonferenz-gegen-verbot-bis-16-jahre](https://www.spiegel.de/panorama/bildung/social-media-verbot-bundesschuelerkonferenz-gegen-verbot-bis-16-jahre-a-47bebdc9-06af-4bfd-aaef-b38b5e59d8db#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/bildung/social-media-verbot-bundesschuelerkonferenz-gegen-verbot-bis-16-jahre](https://www.spiegel.de/panorama/bildung/social-media-verbot-bundesschuelerkonferenz-gegen-verbot-bis-16-jahre-a-47bebdc9-06af-4bfd-aaef-b38b5e59d8db#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/panorama/bildung/social-media-verbot-bundesschuelerkonferenz-gegen-verbot-bis-16-jahre](https://www.spiegel.de/panorama/bildung/social-media-verbot-bundesschuelerkonferenz-gegen-verbot-bis-16-jahre-a-47bebdc9-06af-4bfd-aaef-b38b5e59d8db#ref=rss)
-* [https://www.spiegel.de/kultur/regisseur-james-cameron-will-uebernahme-von-warner-bros-durch-netflix-verhindern](https://www.spiegel.de/kultur/regisseur-james-cameron-will-uebernahme-von-warner-bros-durch-netflix-verhindern-a-88de8ba9-f6e2-482a-88b4-078dc56a5476#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/bildung/social-media-verbot-bundesschuelerkonferenz-gegen-verbot-bis-16-jahre](https://www.spiegel.de/panorama/bildung/social-media-verbot-bundesschuelerkonferenz-gegen-verbot-bis-16-jahre-a-47bebdc9-06af-4bfd-aaef-b38b5e59d8db#ref=rss)
-* [https://www.spiegel.de/wirtschaft/afd-hochburg-rottweil-tuttlingen-gewerkschafter-ueber-die-standortkrise-und-die-aengste-der-menschen](https://www.spiegel.de/wirtschaft/afd-hochburg-rottweil-tuttlingen-gewerkschafter-ueber-die-standortkrise-und-die-aengste-der-menschen-a-87ae9011-0b80-4934-8d43-7b3319b71b4d#ref=rss)
-### regisseur
-
-* [https://www.spiegel.de/kultur/regisseur-james-cameron-will-uebernahme-von-warner-bros-durch-netflix-verhindern](https://www.spiegel.de/kultur/regisseur-james-cameron-will-uebernahme-von-warner-bros-durch-netflix-verhindern-a-88de8ba9-f6e2-482a-88b4-078dc56a5476#ref=rss)
-### james
-
-* [https://www.spiegel.de/kultur/regisseur-james-cameron-will-uebernahme-von-warner-bros-durch-netflix-verhindern](https://www.spiegel.de/kultur/regisseur-james-cameron-will-uebernahme-von-warner-bros-durch-netflix-verhindern-a-88de8ba9-f6e2-482a-88b4-078dc56a5476#ref=rss)
-### netflix
-
-* [https://www.spiegel.de/kultur/regisseur-james-cameron-will-uebernahme-von-warner-bros-durch-netflix-verhindern](https://www.spiegel.de/kultur/regisseur-james-cameron-will-uebernahme-von-warner-bros-durch-netflix-verhindern-a-88de8ba9-f6e2-482a-88b4-078dc56a5476#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/kultur/regisseur-james-cameron-will-uebernahme-von-warner-bros-durch-netflix-verhindern](https://www.spiegel.de/kultur/regisseur-james-cameron-will-uebernahme-von-warner-bros-durch-netflix-verhindern-a-88de8ba9-f6e2-482a-88b4-078dc56a5476#ref=rss)
-* [https://www.spiegel.de/ausland/andrew-mountbatten-windsor-pressestimmen-zur-voruebergehenden-festnahme-von-ex-prinz-andrew](https://www.spiegel.de/ausland/andrew-mountbatten-windsor-pressestimmen-zur-voruebergehenden-festnahme-von-ex-prinz-andrew-a-24581a6a-533f-4c42-80a4-06ed504345c9#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/kultur/regisseur-james-cameron-will-uebernahme-von-warner-bros-durch-netflix-verhindern](https://www.spiegel.de/kultur/regisseur-james-cameron-will-uebernahme-von-warner-bros-durch-netflix-verhindern-a-88de8ba9-f6e2-482a-88b4-078dc56a5476#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-europapolitiker-niclas-herbst-mir-gefaellt-der-negative-ton-nicht](https://www.spiegel.de/politik/deutschland/cdu-europapolitiker-niclas-herbst-mir-gefaellt-der-negative-ton-nicht-a-f0f5304f-5f54-405b-9fc9-87cba9511527#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/kultur/regisseur-james-cameron-will-uebernahme-von-warner-bros-durch-netflix-verhindern](https://www.spiegel.de/kultur/regisseur-james-cameron-will-uebernahme-von-warner-bros-durch-netflix-verhindern-a-88de8ba9-f6e2-482a-88b4-078dc56a5476#ref=rss)
-* [https://www.spiegel.de/ausland/andrew-mountbatten-windsor-pressestimmen-zur-voruebergehenden-festnahme-von-ex-prinz-andrew](https://www.spiegel.de/ausland/andrew-mountbatten-windsor-pressestimmen-zur-voruebergehenden-festnahme-von-ex-prinz-andrew-a-24581a6a-533f-4c42-80a4-06ed504345c9#ref=rss)
-### norden
-
-* [https://www.spiegel.de/panorama/nord-italien-deutscher-stirbt-bei-lawinenabgang-im-aostatal](https://www.spiegel.de/panorama/nord-italien-deutscher-stirbt-bei-lawinenabgang-im-aostatal-a-00821209-cc35-45b7-afac-902c357b3d8d#ref=rss)
-* [https://www.spiegel.de/panorama/muenchen-und-wien-flugausfaelle-nach-starkem-schneefall](https://www.spiegel.de/panorama/muenchen-und-wien-flugausfaelle-nach-starkem-schneefall-a-08038b0c-4f96-4210-b7e1-9817f047cf03#ref=rss)
-### moritz
-
-* [https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage](https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage-a-36875fdd-76cc-44a5-9767-e61f98a650f7#ref=rss)
-### schularick
-
-* [https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage](https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage-a-36875fdd-76cc-44a5-9767-e61f98a650f7#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage](https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage-a-36875fdd-76cc-44a5-9767-e61f98a650f7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/palaeontologen-finden-knochen-eines-riesigen-fischjaegers-liegt-ein-dinosaurier-in-der-sahara](https://www.spiegel.de/wissenschaft/natur/palaeontologen-finden-knochen-eines-riesigen-fischjaegers-liegt-ein-dinosaurier-in-der-sahara-a-ddf1e100-d284-43fc-bce2-7c3197f70ad3#ref=rss)
-### öffentlichen
-
-* [https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage](https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage-a-36875fdd-76cc-44a5-9767-e61f98a650f7#ref=rss)
-### dienst
-
-* [https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage](https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage-a-36875fdd-76cc-44a5-9767-e61f98a650f7#ref=rss)
-### findet
-
-* [https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage](https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage-a-36875fdd-76cc-44a5-9767-e61f98a650f7#ref=rss)
-* [https://www.spiegel.de/kultur/musik/rob-halford-judas-priest-saenger-findet-dass-es-musiker-heute-schwerer-haben](https://www.spiegel.de/kultur/musik/rob-halford-judas-priest-saenger-findet-dass-es-musiker-heute-schwerer-haben-a-ba037c4e-bb9c-4e22-bd38-e25e4b5409ab#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage](https://www.spiegel.de/wirtschaft/ifw-moritz-schularick-stellt-kuendigungsschutz-im-oeffentlichen-dienst-infrage-a-36875fdd-76cc-44a5-9767-e61f98a650f7#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team-a-9c1deb9c-0a7f-466f-ab00-b24555a7202c#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-cdu-parteitag-das-sagt-der-kanzler-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-cdu-parteitag-das-sagt-der-kanzler-livestream-a-73bb1fb8-0e14-4804-8b3f-e6ec261e33dd#ref=rss)
+* [https://www.spiegel.de/ausland/zoll-urteil-des-supreme-court-jetzt-droht-donald-trump-der-gesichtsverlust](https://www.spiegel.de/ausland/zoll-urteil-des-supreme-court-jetzt-droht-donald-trump-der-gesichtsverlust-a-e7f480b0-5310-411c-a671-c71647f6a7e0#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-seinen-friedensrat-sieht-der-us-praesident-schon-als-kontrolleur-der-uno](https://www.spiegel.de/ausland/donald-trump-seinen-friedensrat-sieht-der-us-praesident-schon-als-kontrolleur-der-uno-a-442703e6-b929-46b7-a9f3-ae3efa833538#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-will-akten-zu-ausserirdischen-und-ufos-freigeben](https://www.spiegel.de/ausland/us-praesident-donald-trump-will-akten-zu-ausserirdischen-und-ufos-freigeben-a-525f5c1f-d6b1-4ee8-9dc8-f7351c21beaa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-demokraten-fuer-schwaches-wirtschaftswachstum-verantwortlich](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-demokraten-fuer-schwaches-wirtschaftswachstum-verantwortlich-a-f32bd704-e4d8-4073-b1c7-981887aae5a3#ref=rss)
 ### cduparteitag
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-cdu-parteitag-das-sagt-der-kanzler-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-cdu-parteitag-das-sagt-der-kanzler-livestream-a-73bb1fb8-0e14-4804-8b3f-e6ec261e33dd#ref=rss)
-### kanzler
+* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-in-stuttgart-friedrich-merz-als-cdu-chef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/cdu-parteitag-in-stuttgart-friedrich-merz-als-cdu-chef-wiedergewaehlt-a-73374b32-9ba0-41fe-a0ba-62835f13f4a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-cdu-muss-wegen-technischer-probleme-analog-ueber-parteivorsitz-abstimmen](https://www.spiegel.de/politik/deutschland/cdu-parteitag-cdu-muss-wegen-technischer-probleme-analog-ueber-parteivorsitz-abstimmen-a-7dfa9a50-3d59-4bef-8ec5-abeae2acc79f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki](https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki-a-b571c525-a953-425b-87d1-7521947c748f#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-auf-dem-cdu-parteitag-europa-muss-lernen-die-sprache-der-macht-zu-sprechen](https://www.spiegel.de/politik/friedrich-merz-auf-dem-cdu-parteitag-europa-muss-lernen-die-sprache-der-macht-zu-sprechen-a-3c1da18b-9c3b-43d9-8f56-99a64a5e02b7#ref=rss)
+### merz
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-cdu-parteitag-das-sagt-der-kanzler-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-cdu-parteitag-das-sagt-der-kanzler-livestream-a-73bb1fb8-0e14-4804-8b3f-e6ec261e33dd#ref=rss)
-### livestream
+* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-in-stuttgart-friedrich-merz-als-cdu-chef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/cdu-parteitag-in-stuttgart-friedrich-merz-als-cdu-chef-wiedergewaehlt-a-73374b32-9ba0-41fe-a0ba-62835f13f4a9#ref=rss)
+* [https://www.spiegel.de/politik/livestream-verfolgen-sie-hier-die-wahl-des-cdu-bundesvorsitzenden](https://www.spiegel.de/politik/livestream-verfolgen-sie-hier-die-wahl-des-cdu-bundesvorsitzenden-a-e3034c07-997a-45a0-8914-a17a29d0b134#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki](https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki-a-b571c525-a953-425b-87d1-7521947c748f#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-auf-dem-cdu-parteitag-europa-muss-lernen-die-sprache-der-macht-zu-sprechen](https://www.spiegel.de/politik/friedrich-merz-auf-dem-cdu-parteitag-europa-muss-lernen-die-sprache-der-macht-zu-sprechen-a-3c1da18b-9c3b-43d9-8f56-99a64a5e02b7#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-cdu-parteitag-das-sagt-der-kanzler-livestream](https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-cdu-parteitag-das-sagt-der-kanzler-livestream-a-73bb1fb8-0e14-4804-8b3f-e6ec261e33dd#ref=rss)
-### hiddensee
+* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-in-stuttgart-friedrich-merz-als-cdu-chef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/cdu-parteitag-in-stuttgart-friedrich-merz-als-cdu-chef-wiedergewaehlt-a-73374b32-9ba0-41fe-a0ba-62835f13f4a9#ref=rss)
+* [https://www.spiegel.de/politik/livestream-verfolgen-sie-hier-die-wahl-des-cdu-bundesvorsitzenden](https://www.spiegel.de/politik/livestream-verfolgen-sie-hier-die-wahl-des-cdu-bundesvorsitzenden-a-e3034c07-997a-45a0-8914-a17a29d0b134#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki](https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki-a-b571c525-a953-425b-87d1-7521947c748f#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-auf-dem-cdu-parteitag-europa-muss-lernen-die-sprache-der-macht-zu-sprechen](https://www.spiegel.de/politik/friedrich-merz-auf-dem-cdu-parteitag-europa-muss-lernen-die-sprache-der-macht-zu-sprechen-a-3c1da18b-9c3b-43d9-8f56-99a64a5e02b7#ref=rss)
+### macht
 
-* [https://www.spiegel.de/panorama/hiddensee-abgelegte-kleidung-am-strand-loest-suchaktion-aus](https://www.spiegel.de/panorama/hiddensee-abgelegte-kleidung-am-strand-loest-suchaktion-aus-a-18f58002-e495-4e6e-86ee-41f66d18c3b0#ref=rss)
-### kleidung
-
-* [https://www.spiegel.de/panorama/hiddensee-abgelegte-kleidung-am-strand-loest-suchaktion-aus](https://www.spiegel.de/panorama/hiddensee-abgelegte-kleidung-am-strand-loest-suchaktion-aus-a-18f58002-e495-4e6e-86ee-41f66d18c3b0#ref=rss)
-### löst
-
-* [https://www.spiegel.de/panorama/hiddensee-abgelegte-kleidung-am-strand-loest-suchaktion-aus](https://www.spiegel.de/panorama/hiddensee-abgelegte-kleidung-am-strand-loest-suchaktion-aus-a-18f58002-e495-4e6e-86ee-41f66d18c3b0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab-a-835870dd-aed2-420a-ae91-fe41244f87f8#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/hiddensee-abgelegte-kleidung-am-strand-loest-suchaktion-aus](https://www.spiegel.de/panorama/hiddensee-abgelegte-kleidung-am-strand-loest-suchaktion-aus-a-18f58002-e495-4e6e-86ee-41f66d18c3b0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundespraesident-kandidatin-ohne-parteierfahrung-fuer-steinmeier-nachfolge-gesucht](https://www.spiegel.de/politik/deutschland/bundespraesident-kandidatin-ohne-parteierfahrung-fuer-steinmeier-nachfolge-gesucht-a-a4c6e150-1b76-4cec-9d60-255d2e737689#ref=rss)
-### rottweiltuttlingen
-
-* [https://www.spiegel.de/wirtschaft/afd-hochburg-rottweil-tuttlingen-gewerkschafter-ueber-die-standortkrise-und-die-aengste-der-menschen](https://www.spiegel.de/wirtschaft/afd-hochburg-rottweil-tuttlingen-gewerkschafter-ueber-die-standortkrise-und-die-aengste-der-menschen-a-87ae9011-0b80-4934-8d43-7b3319b71b4d#ref=rss)
-### gewerkschafter
-
-* [https://www.spiegel.de/wirtschaft/afd-hochburg-rottweil-tuttlingen-gewerkschafter-ueber-die-standortkrise-und-die-aengste-der-menschen](https://www.spiegel.de/wirtschaft/afd-hochburg-rottweil-tuttlingen-gewerkschafter-ueber-die-standortkrise-und-die-aengste-der-menschen-a-87ae9011-0b80-4934-8d43-7b3319b71b4d#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/wirtschaft/afd-hochburg-rottweil-tuttlingen-gewerkschafter-ueber-die-standortkrise-und-die-aengste-der-menschen](https://www.spiegel.de/wirtschaft/afd-hochburg-rottweil-tuttlingen-gewerkschafter-ueber-die-standortkrise-und-die-aengste-der-menschen-a-87ae9011-0b80-4934-8d43-7b3319b71b4d#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-weitergehen-um-jeden-preis-bis-man-tot-umfaellt](https://www.spiegel.de/sport/grossglockner-prozess-weitergehen-um-jeden-preis-bis-man-tot-umfaellt-a-bb0bb3fc-33e7-4aab-956d-8e75e1b64c2e#ref=rss)
-### johannes
-
+* [https://www.spiegel.de/politik/friedrich-merz-auf-dem-cdu-parteitag-europa-muss-lernen-die-sprache-der-macht-zu-sprechen](https://www.spiegel.de/politik/friedrich-merz-auf-dem-cdu-parteitag-europa-muss-lernen-die-sprache-der-macht-zu-sprechen-a-3c1da18b-9c3b-43d9-8f56-99a64a5e02b7#ref=rss)
 * [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team-a-9c1deb9c-0a7f-466f-ab00-b24555a7202c#ref=rss)
-### thingnes
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-db-sperrt-bundesweit-rolltreppen-an-bahnhoefen](https://www.spiegel.de/wirtschaft/deutsche-bahn-db-sperrt-bundesweit-rolltreppen-an-bahnhoefen-a-5f444bd9-73d8-4dd5-b068-a6c1519f9ed3#ref=rss)
+* [https://www.spiegel.de/kultur/andrew-mountbatten-windsor-nach-der-festnahme-sein-gesicht-erinnert-an-alte-hoellen-bilder](https://www.spiegel.de/kultur/andrew-mountbatten-windsor-nach-der-festnahme-sein-gesicht-erinnert-an-alte-hoellen-bilder-a-60230d6b-c598-44d3-9f32-ef1342cfef8e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-demokraten-fuer-schwaches-wirtschaftswachstum-verantwortlich](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-demokraten-fuer-schwaches-wirtschaftswachstum-verantwortlich-a-f32bd704-e4d8-4073-b1c7-981887aae5a3#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team-a-9c1deb9c-0a7f-466f-ab00-b24555a7202c#ref=rss)
-### bø
+* [https://www.spiegel.de/auto/mobilitaet-der-zukunft-die-meisten-neuen-stadtbusse-in-europa-fahren-elektrisch](https://www.spiegel.de/auto/mobilitaet-der-zukunft-die-meisten-neuen-stadtbusse-in-europa-fahren-elektrisch-a-25019e74-f758-4228-81e3-2e61c1b2718d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/kuenstliche-befruchtung-und-embryonenschutzgesetz-recht-von-gestern](https://www.spiegel.de/wissenschaft/medizin/kuenstliche-befruchtung-und-embryonenschutzgesetz-recht-von-gestern-a-e11db3bb-3a34-4672-b5f9-7b7e19413422#ref=rss)
+* [https://www.spiegel.de/wissenschaft/wetter-in-deutschland-meteorologe-erklaert-ploetzlichen-temperaturanstieg](https://www.spiegel.de/wissenschaft/wetter-in-deutschland-meteorologe-erklaert-ploetzlichen-temperaturanstieg-a-468cede6-39c2-40ac-8690-1d685e8f521f#ref=rss)
+* [https://www.spiegel.de/kultur/basilika-sagrada-familia-kreuz-aus-deutschland-vollendet](https://www.spiegel.de/kultur/basilika-sagrada-familia-kreuz-aus-deutschland-vollendet-a-9670f552-43e3-4504-aaad-548a34f9432d#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team-a-9c1deb9c-0a7f-466f-ab00-b24555a7202c#ref=rss)
-### biathlonteam
+* [https://www.spiegel.de/reise/allein-reisen-stefan-henning-und-seine-solo-wanderung-durch-die-pyrenaeen](https://www.spiegel.de/reise/allein-reisen-stefan-henning-und-seine-solo-wanderung-durch-die-pyrenaeen-a-f4156bfc-b592-4b1d-93d6-ca370430e796#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki](https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki-a-b571c525-a953-425b-87d1-7521947c748f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/olympia-freestyle-skier-hess-zieht-ins-finale-ein-und-zeigt-was-er-von-trumps-loser-kritik-haelt](https://www.spiegel.de/panorama/leute/olympia-freestyle-skier-hess-zieht-ins-finale-ein-und-zeigt-was-er-von-trumps-loser-kritik-haelt-a-353347bc-2e08-4862-98d2-775bea18806f#ref=rss)
+* [https://www.spiegel.de/kultur/andrew-mountbatten-windsor-nach-der-festnahme-sein-gesicht-erinnert-an-alte-hoellen-bilder](https://www.spiegel.de/kultur/andrew-mountbatten-windsor-nach-der-festnahme-sein-gesicht-erinnert-an-alte-hoellen-bilder-a-60230d6b-c598-44d3-9f32-ef1342cfef8e#ref=rss)
+### zölle
 
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team-a-9c1deb9c-0a7f-466f-ab00-b24555a7202c#ref=rss)
-### unter
+* [https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki](https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki-a-b571c525-a953-425b-87d1-7521947c748f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle](https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle-a-c643dfb7-1344-4adb-afb0-4f9c65fccf94#ref=rss)
+### afd
 
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team-a-9c1deb9c-0a7f-466f-ab00-b24555a7202c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab-a-835870dd-aed2-420a-ae91-fe41244f87f8#ref=rss)
-### zieht
+* [https://www.spiegel.de/politik/friedrich-merz-auf-dem-cdu-parteitag-europa-muss-lernen-die-sprache-der-macht-zu-sprechen](https://www.spiegel.de/politik/friedrich-merz-auf-dem-cdu-parteitag-europa-muss-lernen-die-sprache-der-macht-zu-sprechen-a-3c1da18b-9c3b-43d9-8f56-99a64a5e02b7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-hier-beschaeftigt-die-partei-familienangehoerige](https://www.spiegel.de/politik/deutschland/afd-hier-beschaeftigt-die-partei-familienangehoerige-a-8b2a6241-2d4a-4df8-918a-6c5561547c1c#ref=rss)
+* [https://www.spiegel.de/politik/nrw-landtag-stellt-gehaltszahlung-an-afd-mitarbeiterin-ein](https://www.spiegel.de/politik/nrw-landtag-stellt-gehaltszahlung-an-afd-mitarbeiterin-ein-a-5a862fbc-793b-410d-882b-af176bb45b94#ref=rss)
+### schule
 
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team-a-9c1deb9c-0a7f-466f-ab00-b24555a7202c#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-polizei-zieht-nach-panne-um-fehlerhafte-lineale-konsequenzen](https://www.spiegel.de/panorama/berlin-polizei-zieht-nach-panne-um-fehlerhafte-lineale-konsequenzen-a-4578a677-ee42-4597-83df-be077cc23764#ref=rss)
-### konsequenzen
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### erst
 
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team-a-9c1deb9c-0a7f-466f-ab00-b24555a7202c#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-polizei-zieht-nach-panne-um-fehlerhafte-lineale-konsequenzen](https://www.spiegel.de/panorama/berlin-polizei-zieht-nach-panne-um-fehlerhafte-lineale-konsequenzen-a-4578a677-ee42-4597-83df-be077cc23764#ref=rss)
-### deutschlands
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+* [https://www.spiegel.de/kultur/basilika-sagrada-familia-kreuz-aus-deutschland-vollendet](https://www.spiegel.de/kultur/basilika-sagrada-familia-kreuz-aus-deutschland-vollendet-a-9670f552-43e3-4504-aaad-548a34f9432d#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team-a-9c1deb9c-0a7f-466f-ab00-b24555a7202c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-freitag-20-februar-an](https://www.spiegel.de/sport/olympia/olympia-heute-diese-entscheidungen-stehen-am-freitag-20-februar-an-a-4b3d4299-dcf8-4d2f-bce0-d0bfba5977aa#ref=rss)
-### sand
-
-* [https://www.spiegel.de/wirtschaft/service/rueckruf-asbest-in-spielsand-und-bastelsand-gefunden-was-sollten-verbraucher-nun-tun](https://www.spiegel.de/wirtschaft/service/rueckruf-asbest-in-spielsand-und-bastelsand-gefunden-was-sollten-verbraucher-nun-tun-a-4f0d3f7c-c7f8-491a-b3f8-f86bb17d88b8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/palaeontologen-finden-knochen-eines-riesigen-fischjaegers-liegt-ein-dinosaurier-in-der-sahara](https://www.spiegel.de/wissenschaft/natur/palaeontologen-finden-knochen-eines-riesigen-fischjaegers-liegt-ein-dinosaurier-in-der-sahara-a-ddf1e100-d284-43fc-bce2-7c3197f70ad3#ref=rss)
-### kerstin
-
-* [https://www.spiegel.de/wirtschaft/service/rueckruf-asbest-in-spielsand-und-bastelsand-gefunden-was-sollten-verbraucher-nun-tun](https://www.spiegel.de/wirtschaft/service/rueckruf-asbest-in-spielsand-und-bastelsand-gefunden-was-sollten-verbraucher-nun-tun-a-4f0d3f7c-c7f8-491a-b3f8-f86bb17d88b8#ref=rss)
-* [https://www.spiegel.de/sport/grossglockner-prozess-weitergehen-um-jeden-preis-bis-man-tot-umfaellt](https://www.spiegel.de/sport/grossglockner-prozess-weitergehen-um-jeden-preis-bis-man-tot-umfaellt-a-bb0bb3fc-33e7-4aab-956d-8e75e1b64c2e#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/wirtschaft/service/rueckruf-asbest-in-spielsand-und-bastelsand-gefunden-was-sollten-verbraucher-nun-tun](https://www.spiegel.de/wirtschaft/service/rueckruf-asbest-in-spielsand-und-bastelsand-gefunden-was-sollten-verbraucher-nun-tun-a-4f0d3f7c-c7f8-491a-b3f8-f86bb17d88b8#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/gesunde-ernaehrung-und-fasten-was-wie-und-wie-viel-wir-essen-sollten](https://www.spiegel.de/gesundheit/ernaehrung/gesunde-ernaehrung-und-fasten-was-wie-und-wie-viel-wir-essen-sollten-a-ba54f808-d108-4cb5-9009-2081455ba20e#ref=rss)
-### flugausfälle
-
-* [https://www.spiegel.de/panorama/muenchen-und-wien-flugausfaelle-nach-starkem-schneefall](https://www.spiegel.de/panorama/muenchen-und-wien-flugausfaelle-nach-starkem-schneefall-a-08038b0c-4f96-4210-b7e1-9817f047cf03#ref=rss)
-### schneefall
-
-* [https://www.spiegel.de/panorama/muenchen-und-wien-flugausfaelle-nach-starkem-schneefall](https://www.spiegel.de/panorama/muenchen-und-wien-flugausfaelle-nach-starkem-schneefall-a-08038b0c-4f96-4210-b7e1-9817f047cf03#ref=rss)
-### allem
-
-* [https://www.spiegel.de/panorama/muenchen-und-wien-flugausfaelle-nach-starkem-schneefall](https://www.spiegel.de/panorama/muenchen-und-wien-flugausfaelle-nach-starkem-schneefall-a-08038b0c-4f96-4210-b7e1-9817f047cf03#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab-a-835870dd-aed2-420a-ae91-fe41244f87f8#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab-a-835870dd-aed2-420a-ae91-fe41244f87f8#ref=rss)
+* [https://www.spiegel.de/panorama/leute/olympia-freestyle-skier-hess-zieht-ins-finale-ein-und-zeigt-was-er-von-trumps-loser-kritik-haelt](https://www.spiegel.de/panorama/leute/olympia-freestyle-skier-hess-zieht-ins-finale-ein-und-zeigt-was-er-von-trumps-loser-kritik-haelt-a-353347bc-2e08-4862-98d2-775bea18806f#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-seinen-friedensrat-sieht-der-us-praesident-schon-als-kontrolleur-der-uno](https://www.spiegel.de/ausland/donald-trump-seinen-friedensrat-sieht-der-us-praesident-schon-als-kontrolleur-der-uno-a-442703e6-b929-46b7-a9f3-ae3efa833538#ref=rss)
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-will-akten-zu-ausserirdischen-und-ufos-freigeben](https://www.spiegel.de/ausland/us-praesident-donald-trump-will-akten-zu-ausserirdischen-und-ufos-freigeben-a-525f5c1f-d6b1-4ee8-9dc8-f7351c21beaa#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab](https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-china-loest-usa-als-wichtigsten-handelspartner-ab-a-835870dd-aed2-420a-ae91-fe41244f87f8#ref=rss)
-### rob
+* [https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle](https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle-a-c643dfb7-1344-4adb-afb0-4f9c65fccf94#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-demokraten-fuer-schwaches-wirtschaftswachstum-verantwortlich](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-demokraten-fuer-schwaches-wirtschaftswachstum-verantwortlich-a-f32bd704-e4d8-4073-b1c7-981887aae5a3#ref=rss)
+### finnland
 
-* [https://www.spiegel.de/kultur/musik/rob-halford-judas-priest-saenger-findet-dass-es-musiker-heute-schwerer-haben](https://www.spiegel.de/kultur/musik/rob-halford-judas-priest-saenger-findet-dass-es-musiker-heute-schwerer-haben-a-ba037c4e-bb9c-4e22-bd38-e25e4b5409ab#ref=rss)
-### halford
+* [https://www.spiegel.de/auto/motorrad-mit-feststoffakku-aus-finnland-zu-gut-um-wahr-zu-sein-oder](https://www.spiegel.de/auto/motorrad-mit-feststoffakku-aus-finnland-zu-gut-um-wahr-zu-sein-oder-a-f7732a85-d4f5-43a4-b7cd-bcb5c272594b#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team-a-9c1deb9c-0a7f-466f-ab00-b24555a7202c#ref=rss)
+### supreme
 
-* [https://www.spiegel.de/kultur/musik/rob-halford-judas-priest-saenger-findet-dass-es-musiker-heute-schwerer-haben](https://www.spiegel.de/kultur/musik/rob-halford-judas-priest-saenger-findet-dass-es-musiker-heute-schwerer-haben-a-ba037c4e-bb9c-4e22-bd38-e25e4b5409ab#ref=rss)
-### zeit
+* [https://www.spiegel.de/ausland/zoll-urteil-des-supreme-court-jetzt-droht-donald-trump-der-gesichtsverlust](https://www.spiegel.de/ausland/zoll-urteil-des-supreme-court-jetzt-droht-donald-trump-der-gesichtsverlust-a-e7f480b0-5310-411c-a671-c71647f6a7e0#ref=rss)
+* [https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle](https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle-a-c643dfb7-1344-4adb-afb0-4f9c65fccf94#ref=rss)
+### court
 
-* [https://www.spiegel.de/kultur/musik/rob-halford-judas-priest-saenger-findet-dass-es-musiker-heute-schwerer-haben](https://www.spiegel.de/kultur/musik/rob-halford-judas-priest-saenger-findet-dass-es-musiker-heute-schwerer-haben-a-ba037c4e-bb9c-4e22-bd38-e25e4b5409ab#ref=rss)
-### christine
+* [https://www.spiegel.de/ausland/zoll-urteil-des-supreme-court-jetzt-droht-donald-trump-der-gesichtsverlust](https://www.spiegel.de/ausland/zoll-urteil-des-supreme-court-jetzt-droht-donald-trump-der-gesichtsverlust-a-e7f480b0-5310-411c-a671-c71647f6a7e0#ref=rss)
+* [https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle](https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle-a-c643dfb7-1344-4adb-afb0-4f9c65fccf94#ref=rss)
+### wahl
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ezb-christine-lagarde-koennte-doch-volle-amtszeit-absolvieren](https://www.spiegel.de/wirtschaft/unternehmen/ezb-christine-lagarde-koennte-doch-volle-amtszeit-absolvieren-a-10f5fc2b-5966-4199-b7f0-9918b73c5f9b#ref=rss)
-### lagarde
+* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-in-stuttgart-friedrich-merz-als-cdu-chef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/cdu-parteitag-in-stuttgart-friedrich-merz-als-cdu-chef-wiedergewaehlt-a-73374b32-9ba0-41fe-a0ba-62835f13f4a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-cdu-muss-wegen-technischer-probleme-analog-ueber-parteivorsitz-abstimmen](https://www.spiegel.de/politik/deutschland/cdu-parteitag-cdu-muss-wegen-technischer-probleme-analog-ueber-parteivorsitz-abstimmen-a-7dfa9a50-3d59-4bef-8ec5-abeae2acc79f#ref=rss)
+* [https://www.spiegel.de/politik/livestream-verfolgen-sie-hier-die-wahl-des-cdu-bundesvorsitzenden](https://www.spiegel.de/politik/livestream-verfolgen-sie-hier-die-wahl-des-cdu-bundesvorsitzenden-a-e3034c07-997a-45a0-8914-a17a29d0b134#ref=rss)
+### stoppt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ezb-christine-lagarde-koennte-doch-volle-amtszeit-absolvieren](https://www.spiegel.de/wirtschaft/unternehmen/ezb-christine-lagarde-koennte-doch-volle-amtszeit-absolvieren-a-10f5fc2b-5966-4199-b7f0-9918b73c5f9b#ref=rss)
-### amtszeit
+* [https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki](https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki-a-b571c525-a953-425b-87d1-7521947c748f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle](https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle-a-c643dfb7-1344-4adb-afb0-4f9c65fccf94#ref=rss)
+### rolltreppen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ezb-christine-lagarde-koennte-doch-volle-amtszeit-absolvieren](https://www.spiegel.de/wirtschaft/unternehmen/ezb-christine-lagarde-koennte-doch-volle-amtszeit-absolvieren-a-10f5fc2b-5966-4199-b7f0-9918b73c5f9b#ref=rss)
-### fest
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-db-sperrt-bundesweit-rolltreppen-an-bahnhoefen](https://www.spiegel.de/wirtschaft/deutsche-bahn-db-sperrt-bundesweit-rolltreppen-an-bahnhoefen-a-5f444bd9-73d8-4dd5-b068-a6c1519f9ed3#ref=rss)
+### hess
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ezb-christine-lagarde-koennte-doch-volle-amtszeit-absolvieren](https://www.spiegel.de/wirtschaft/unternehmen/ezb-christine-lagarde-koennte-doch-volle-amtszeit-absolvieren-a-10f5fc2b-5966-4199-b7f0-9918b73c5f9b#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-polizei-zieht-nach-panne-um-fehlerhafte-lineale-konsequenzen](https://www.spiegel.de/panorama/berlin-polizei-zieht-nach-panne-um-fehlerhafte-lineale-konsequenzen-a-4578a677-ee42-4597-83df-be077cc23764#ref=rss)
-### bald
+* [https://www.spiegel.de/panorama/leute/olympia-freestyle-skier-hess-zieht-ins-finale-ein-und-zeigt-was-er-von-trumps-loser-kritik-haelt](https://www.spiegel.de/panorama/leute/olympia-freestyle-skier-hess-zieht-ins-finale-ein-und-zeigt-was-er-von-trumps-loser-kritik-haelt-a-353347bc-2e08-4862-98d2-775bea18806f#ref=rss)
+### schulen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/ezb-christine-lagarde-koennte-doch-volle-amtszeit-absolvieren](https://www.spiegel.de/wirtschaft/unternehmen/ezb-christine-lagarde-koennte-doch-volle-amtszeit-absolvieren-a-10f5fc2b-5966-4199-b7f0-9918b73c5f9b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/palm-beach-in-florida-flughafen-soll-nach-donald-trump-benannt-werden](https://www.spiegel.de/wirtschaft/unternehmen/palm-beach-in-florida-flughafen-soll-nach-donald-trump-benannt-werden-a-9c2d6181-64c2-4449-ab48-3dd2d7301d60#ref=rss)
-### zehn
+* [https://www.spiegel.de/wirtschaft/drohbrief-in-nuernberg-ver-di-will-mitarbeiter-fuer-notfaelle-schulen](https://www.spiegel.de/wirtschaft/drohbrief-in-nuernberg-ver-di-will-mitarbeiter-fuer-notfaelle-schulen-a-7986b324-6651-49d0-ba13-01fc369ce227#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-erlass-verbietet-parteienwerbung-in-schulen](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-erlass-verbietet-parteienwerbung-in-schulen-a-8109fc91-f621-4480-9622-5ef242785daa#ref=rss)
+### droht
 
-* [https://www.spiegel.de/wissenschaft/natur/palaeontologen-finden-knochen-eines-riesigen-fischjaegers-liegt-ein-dinosaurier-in-der-sahara](https://www.spiegel.de/wissenschaft/natur/palaeontologen-finden-knochen-eines-riesigen-fischjaegers-liegt-ein-dinosaurier-in-der-sahara-a-ddf1e100-d284-43fc-bce2-7c3197f70ad3#ref=rss)
-### meter
+* [https://www.spiegel.de/ausland/zoll-urteil-des-supreme-court-jetzt-droht-donald-trump-der-gesichtsverlust](https://www.spiegel.de/ausland/zoll-urteil-des-supreme-court-jetzt-droht-donald-trump-der-gesichtsverlust-a-e7f480b0-5310-411c-a671-c71647f6a7e0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/kuenstliche-befruchtung-und-embryonenschutzgesetz-recht-von-gestern](https://www.spiegel.de/wissenschaft/medizin/kuenstliche-befruchtung-und-embryonenschutzgesetz-recht-von-gestern-a-e11db3bb-3a34-4672-b5f9-7b7e19413422#ref=rss)
+### stuttgart
 
-* [https://www.spiegel.de/wissenschaft/natur/palaeontologen-finden-knochen-eines-riesigen-fischjaegers-liegt-ein-dinosaurier-in-der-sahara](https://www.spiegel.de/wissenschaft/natur/palaeontologen-finden-knochen-eines-riesigen-fischjaegers-liegt-ein-dinosaurier-in-der-sahara-a-ddf1e100-d284-43fc-bce2-7c3197f70ad3#ref=rss)
-### warnstreiks
+* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-in-stuttgart-friedrich-merz-als-cdu-chef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/cdu-parteitag-in-stuttgart-friedrich-merz-als-cdu-chef-wiedergewaehlt-a-73374b32-9ba0-41fe-a0ba-62835f13f4a9#ref=rss)
+### bleibt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/autobahn-gmbh-warnstreiks-an-tunneln-lange-staus-in-hamburg-erwartet](https://www.spiegel.de/wirtschaft/unternehmen/autobahn-gmbh-warnstreiks-an-tunneln-lange-staus-in-hamburg-erwartet-a-dd88f931-b2ef-41f3-86bf-d1a7e1d612f9#ref=rss)
-### lange
+* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-in-stuttgart-friedrich-merz-als-cdu-chef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/cdu-parteitag-in-stuttgart-friedrich-merz-als-cdu-chef-wiedergewaehlt-a-73374b32-9ba0-41fe-a0ba-62835f13f4a9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gorgonzola-lebensmittelkonzern-lactalis-ruft-kaese-bei-aldi-netto-und-kaufland-wegen-listerien-verdacht-zurueck](https://www.spiegel.de/wirtschaft/service/gorgonzola-lebensmittelkonzern-lactalis-ruft-kaese-bei-aldi-netto-und-kaufland-wegen-listerien-verdacht-zurueck-a-67b0f9a4-a392-4253-af07-0aca9803a84f#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/autobahn-gmbh-warnstreiks-an-tunneln-lange-staus-in-hamburg-erwartet](https://www.spiegel.de/wirtschaft/unternehmen/autobahn-gmbh-warnstreiks-an-tunneln-lange-staus-in-hamburg-erwartet-a-dd88f931-b2ef-41f3-86bf-d1a7e1d612f9#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/gesunde-ernaehrung-und-fasten-was-wie-und-wie-viel-wir-essen-sollten](https://www.spiegel.de/gesundheit/ernaehrung/gesunde-ernaehrung-und-fasten-was-wie-und-wie-viel-wir-essen-sollten-a-ba54f808-d108-4cb5-9009-2081455ba20e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-in-stuttgart-friedrich-merz-als-cdu-chef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/cdu-parteitag-in-stuttgart-friedrich-merz-als-cdu-chef-wiedergewaehlt-a-73374b32-9ba0-41fe-a0ba-62835f13f4a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-cdu-muss-wegen-technischer-probleme-analog-ueber-parteivorsitz-abstimmen](https://www.spiegel.de/politik/deutschland/cdu-parteitag-cdu-muss-wegen-technischer-probleme-analog-ueber-parteivorsitz-abstimmen-a-7dfa9a50-3d59-4bef-8ec5-abeae2acc79f#ref=rss)
+### parteitag
+
+* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-in-stuttgart-friedrich-merz-als-cdu-chef-wiedergewaehlt](https://www.spiegel.de/politik/deutschland/cdu-parteitag-in-stuttgart-friedrich-merz-als-cdu-chef-wiedergewaehlt-a-73374b32-9ba0-41fe-a0ba-62835f13f4a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-cdu-muss-wegen-technischer-probleme-analog-ueber-parteivorsitz-abstimmen](https://www.spiegel.de/politik/deutschland/cdu-parteitag-cdu-muss-wegen-technischer-probleme-analog-ueber-parteivorsitz-abstimmen-a-7dfa9a50-3d59-4bef-8ec5-abeae2acc79f#ref=rss)
+### olympia
+
+* [https://www.spiegel.de/sport/wintersport/olympia-2026-gastronom-sammelt-olympia-exponate-herr-der-fackeln](https://www.spiegel.de/sport/wintersport/olympia-2026-gastronom-sammelt-olympia-exponate-herr-der-fackeln-a-2ef4bae7-6626-4154-b3ec-53d9b535de84#ref=rss)
+* [https://www.spiegel.de/panorama/leute/olympia-freestyle-skier-hess-zieht-ins-finale-ein-und-zeigt-was-er-von-trumps-loser-kritik-haelt](https://www.spiegel.de/panorama/leute/olympia-freestyle-skier-hess-zieht-ins-finale-ein-und-zeigt-was-er-von-trumps-loser-kritik-haelt-a-353347bc-2e08-4862-98d2-775bea18806f#ref=rss)
+### fackeln
+
+* [https://www.spiegel.de/sport/wintersport/olympia-2026-gastronom-sammelt-olympia-exponate-herr-der-fackeln](https://www.spiegel.de/sport/wintersport/olympia-2026-gastronom-sammelt-olympia-exponate-herr-der-fackeln-a-2ef4bae7-6626-4154-b3ec-53d9b535de84#ref=rss)
+### führt
+
+* [https://www.spiegel.de/sport/wintersport/olympia-2026-gastronom-sammelt-olympia-exponate-herr-der-fackeln](https://www.spiegel.de/sport/wintersport/olympia-2026-gastronom-sammelt-olympia-exponate-herr-der-fackeln-a-2ef4bae7-6626-4154-b3ec-53d9b535de84#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team-a-9c1deb9c-0a7f-466f-ab00-b24555a7202c#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/auto/mobilitaet-der-zukunft-die-meisten-neuen-stadtbusse-in-europa-fahren-elektrisch](https://www.spiegel.de/auto/mobilitaet-der-zukunft-die-meisten-neuen-stadtbusse-in-europa-fahren-elektrisch-a-25019e74-f758-4228-81e3-2e61c1b2718d#ref=rss)
+### europa
+
+* [https://www.spiegel.de/auto/mobilitaet-der-zukunft-die-meisten-neuen-stadtbusse-in-europa-fahren-elektrisch](https://www.spiegel.de/auto/mobilitaet-der-zukunft-die-meisten-neuen-stadtbusse-in-europa-fahren-elektrisch-a-25019e74-f758-4228-81e3-2e61c1b2718d#ref=rss)
+* [https://www.spiegel.de/politik/friedrich-merz-auf-dem-cdu-parteitag-europa-muss-lernen-die-sprache-der-macht-zu-sprechen](https://www.spiegel.de/politik/friedrich-merz-auf-dem-cdu-parteitag-europa-muss-lernen-die-sprache-der-macht-zu-sprechen-a-3c1da18b-9c3b-43d9-8f56-99a64a5e02b7#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/auto/mobilitaet-der-zukunft-die-meisten-neuen-stadtbusse-in-europa-fahren-elektrisch](https://www.spiegel.de/auto/mobilitaet-der-zukunft-die-meisten-neuen-stadtbusse-in-europa-fahren-elektrisch-a-25019e74-f758-4228-81e3-2e61c1b2718d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/drohbrief-in-nuernberg-ver-di-will-mitarbeiter-fuer-notfaelle-schulen](https://www.spiegel.de/wirtschaft/drohbrief-in-nuernberg-ver-di-will-mitarbeiter-fuer-notfaelle-schulen-a-7986b324-6651-49d0-ba13-01fc369ce227#ref=rss)
+### beendet
+
+* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-cdu-muss-wegen-technischer-probleme-analog-ueber-parteivorsitz-abstimmen](https://www.spiegel.de/politik/deutschland/cdu-parteitag-cdu-muss-wegen-technischer-probleme-analog-ueber-parteivorsitz-abstimmen-a-7dfa9a50-3d59-4bef-8ec5-abeae2acc79f#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team-a-9c1deb9c-0a7f-466f-ab00-b24555a7202c#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/reise/allein-reisen-stefan-henning-und-seine-solo-wanderung-durch-die-pyrenaeen](https://www.spiegel.de/reise/allein-reisen-stefan-henning-und-seine-solo-wanderung-durch-die-pyrenaeen-a-f4156bfc-b592-4b1d-93d6-ca370430e796#ref=rss)
+### henning
+
+* [https://www.spiegel.de/reise/allein-reisen-stefan-henning-und-seine-solo-wanderung-durch-die-pyrenaeen](https://www.spiegel.de/reise/allein-reisen-stefan-henning-und-seine-solo-wanderung-durch-die-pyrenaeen-a-f4156bfc-b592-4b1d-93d6-ca370430e796#ref=rss)
+### neun
+
+* [https://www.spiegel.de/reise/allein-reisen-stefan-henning-und-seine-solo-wanderung-durch-die-pyrenaeen](https://www.spiegel.de/reise/allein-reisen-stefan-henning-und-seine-solo-wanderung-durch-die-pyrenaeen-a-f4156bfc-b592-4b1d-93d6-ca370430e796#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-neun-monate-gestrandet-im-all-us-raumfahrtbehoerde-rechnet-mit-alter-fuehrung-ab](https://www.spiegel.de/wissenschaft/weltall/nasa-neun-monate-gestrandet-im-all-us-raumfahrtbehoerde-rechnet-mit-alter-fuehrung-ab-a-436b9662-8c94-48b7-9287-36b4bf4cc28f#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/reise/allein-reisen-stefan-henning-und-seine-solo-wanderung-durch-die-pyrenaeen](https://www.spiegel.de/reise/allein-reisen-stefan-henning-und-seine-solo-wanderung-durch-die-pyrenaeen-a-f4156bfc-b592-4b1d-93d6-ca370430e796#ref=rss)
+* [https://www.spiegel.de/politik/nrw-landtag-stellt-gehaltszahlung-an-afd-mitarbeiterin-ein](https://www.spiegel.de/politik/nrw-landtag-stellt-gehaltszahlung-an-afd-mitarbeiterin-ein-a-5a862fbc-793b-410d-882b-af176bb45b94#ref=rss)
+### erwartet
+
+* [https://www.spiegel.de/politik/livestream-verfolgen-sie-hier-die-wahl-des-cdu-bundesvorsitzenden](https://www.spiegel.de/politik/livestream-verfolgen-sie-hier-die-wahl-des-cdu-bundesvorsitzenden-a-e3034c07-997a-45a0-8914-a17a29d0b134#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-demokraten-fuer-schwaches-wirtschaftswachstum-verantwortlich](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-demokraten-fuer-schwaches-wirtschaftswachstum-verantwortlich-a-f32bd704-e4d8-4073-b1c7-981887aae5a3#ref=rss)
+### oberstes
+
+* [https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki](https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki-a-b571c525-a953-425b-87d1-7521947c748f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle](https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle-a-c643dfb7-1344-4adb-afb0-4f9c65fccf94#ref=rss)
+### usgericht
+
+* [https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki](https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki-a-b571c525-a953-425b-87d1-7521947c748f#ref=rss)
+### papst
+
+* [https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki](https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki-a-b571c525-a953-425b-87d1-7521947c748f#ref=rss)
+### ki
+
+* [https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki](https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki-a-b571c525-a953-425b-87d1-7521947c748f#ref=rss)
+### globale
+
+* [https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki](https://www.spiegel.de/politik/deutschland/der-cdu-parteitag-oberstes-us-gericht-stoppt-trumps-zoelle-der-papst-und-die-ki-a-b571c525-a953-425b-87d1-7521947c748f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle](https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle-a-c643dfb7-1344-4adb-afb0-4f9c65fccf94#ref=rss)
+### thema
+
+* [https://www.spiegel.de/politik/friedrich-merz-auf-dem-cdu-parteitag-europa-muss-lernen-die-sprache-der-macht-zu-sprechen](https://www.spiegel.de/politik/friedrich-merz-auf-dem-cdu-parteitag-europa-muss-lernen-die-sprache-der-macht-zu-sprechen-a-3c1da18b-9c3b-43d9-8f56-99a64a5e02b7#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-erlass-verbietet-parteienwerbung-in-schulen](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-erlass-verbietet-parteienwerbung-in-schulen-a-8109fc91-f621-4480-9622-5ef242785daa#ref=rss)
+### embryonenschutzgesetz
+
+* [https://www.spiegel.de/wissenschaft/medizin/kuenstliche-befruchtung-und-embryonenschutzgesetz-recht-von-gestern](https://www.spiegel.de/wissenschaft/medizin/kuenstliche-befruchtung-und-embryonenschutzgesetz-recht-von-gestern-a-e11db3bb-3a34-4672-b5f9-7b7e19413422#ref=rss)
+### politik
+
+* [https://www.spiegel.de/wissenschaft/medizin/kuenstliche-befruchtung-und-embryonenschutzgesetz-recht-von-gestern](https://www.spiegel.de/wissenschaft/medizin/kuenstliche-befruchtung-und-embryonenschutzgesetz-recht-von-gestern-a-e11db3bb-3a34-4672-b5f9-7b7e19413422#ref=rss)
+* [https://www.spiegel.de/panorama/leute/olympia-freestyle-skier-hess-zieht-ins-finale-ein-und-zeigt-was-er-von-trumps-loser-kritik-haelt](https://www.spiegel.de/panorama/leute/olympia-freestyle-skier-hess-zieht-ins-finale-ein-und-zeigt-was-er-von-trumps-loser-kritik-haelt-a-353347bc-2e08-4862-98d2-775bea18806f#ref=rss)
+### franziska
+
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team-a-9c1deb9c-0a7f-466f-ab00-b24555a7202c#ref=rss)
+### preuß
+
+* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-johannes-thingnes-bo-zeigt-sich-enttaeuscht-vom-deutschen-biathlon-team-a-9c1deb9c-0a7f-466f-ab00-b24555a7202c#ref=rss)
+### meteorologe
+
+* [https://www.spiegel.de/wissenschaft/wetter-in-deutschland-meteorologe-erklaert-ploetzlichen-temperaturanstieg](https://www.spiegel.de/wissenschaft/wetter-in-deutschland-meteorologe-erklaert-ploetzlichen-temperaturanstieg-a-468cede6-39c2-40ac-8690-1d685e8f521f#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/wissenschaft/wetter-in-deutschland-meteorologe-erklaert-ploetzlichen-temperaturanstieg](https://www.spiegel.de/wissenschaft/wetter-in-deutschland-meteorologe-erklaert-ploetzlichen-temperaturanstieg-a-468cede6-39c2-40ac-8690-1d685e8f521f#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-db-sperrt-bundesweit-rolltreppen-an-bahnhoefen](https://www.spiegel.de/wirtschaft/deutsche-bahn-db-sperrt-bundesweit-rolltreppen-an-bahnhoefen-a-5f444bd9-73d8-4dd5-b068-a6c1519f9ed3#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/wirtschaft/deutsche-bahn-db-sperrt-bundesweit-rolltreppen-an-bahnhoefen](https://www.spiegel.de/wirtschaft/deutsche-bahn-db-sperrt-bundesweit-rolltreppen-an-bahnhoefen-a-5f444bd9-73d8-4dd5-b068-a6c1519f9ed3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-erlass-verbietet-parteienwerbung-in-schulen](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-erlass-verbietet-parteienwerbung-in-schulen-a-8109fc91-f621-4480-9622-5ef242785daa#ref=rss)
+### missbrauch
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### erfurt
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### kam
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### urteilen
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### lehrer
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### suchte
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### trost
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### hilfe
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### lehrern
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### karla
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### g
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### geriet
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### zweimal
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### täter
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### unsere
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### reporterin
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### missbrauchsfälle
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### erfurter
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### rekonstruiert
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### weggeschaut
+
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-a-3a4cdecd-1f46-48f9-917b-7cda99a8296f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast](https://www.spiegel.de/panorama/justiz/missbrauch-an-schule-in-erfurt-so-kam-es-zu-urteilen-gegen-lehrer-podcast-a-f9950e30-7943-401e-852a-928e271eac6d#ref=rss)
+### partei
+
+* [https://www.spiegel.de/politik/deutschland/afd-hier-beschaeftigt-die-partei-familienangehoerige](https://www.spiegel.de/politik/deutschland/afd-hier-beschaeftigt-die-partei-familienangehoerige-a-8b2a6241-2d4a-4df8-918a-6c5561547c1c#ref=rss)
+### freigeben
+
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-will-akten-zu-ausserirdischen-und-ufos-freigeben](https://www.spiegel.de/ausland/us-praesident-donald-trump-will-akten-zu-ausserirdischen-und-ufos-freigeben-a-525f5c1f-d6b1-4ee8-9dc8-f7351c21beaa#ref=rss)
+### zumindest
+
+* [https://www.spiegel.de/ausland/us-praesident-donald-trump-will-akten-zu-ausserirdischen-und-ufos-freigeben](https://www.spiegel.de/ausland/us-praesident-donald-trump-will-akten-zu-ausserirdischen-und-ufos-freigeben-a-525f5c1f-d6b1-4ee8-9dc8-f7351c21beaa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-demokraten-fuer-schwaches-wirtschaftswachstum-verantwortlich](https://www.spiegel.de/wirtschaft/usa-donald-trump-macht-demokraten-fuer-schwaches-wirtschaftswachstum-verantwortlich-a-f32bd704-e4d8-4073-b1c7-981887aae5a3#ref=rss)
+### nachwuchsturnier
+
+* [https://www.spiegel.de/sport/reitsport-mutmassliche-tierquaelerei-bei-nachwuchsturnier-in-muenchen-so-einen-fall-hatte-ich-noch-nie](https://www.spiegel.de/sport/reitsport-mutmassliche-tierquaelerei-bei-nachwuchsturnier-in-muenchen-so-einen-fall-hatte-ich-noch-nie-a-7f48a2e4-aa74-4dcb-8e6c-0f3bdbe8ad57#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/sport/reitsport-mutmassliche-tierquaelerei-bei-nachwuchsturnier-in-muenchen-so-einen-fall-hatte-ich-noch-nie](https://www.spiegel.de/sport/reitsport-mutmassliche-tierquaelerei-bei-nachwuchsturnier-in-muenchen-so-einen-fall-hatte-ich-noch-nie-a-7f48a2e4-aa74-4dcb-8e6c-0f3bdbe8ad57#ref=rss)
+### basilika
+
+* [https://www.spiegel.de/kultur/basilika-sagrada-familia-kreuz-aus-deutschland-vollendet](https://www.spiegel.de/kultur/basilika-sagrada-familia-kreuz-aus-deutschland-vollendet-a-9670f552-43e3-4504-aaad-548a34f9432d#ref=rss)
+### sagrada
+
+* [https://www.spiegel.de/kultur/basilika-sagrada-familia-kreuz-aus-deutschland-vollendet](https://www.spiegel.de/kultur/basilika-sagrada-familia-kreuz-aus-deutschland-vollendet-a-9670f552-43e3-4504-aaad-548a34f9432d#ref=rss)
+### kreuz
+
+* [https://www.spiegel.de/kultur/basilika-sagrada-familia-kreuz-aus-deutschland-vollendet](https://www.spiegel.de/kultur/basilika-sagrada-familia-kreuz-aus-deutschland-vollendet-a-9670f552-43e3-4504-aaad-548a34f9432d#ref=rss)
+### vollendet
+
+* [https://www.spiegel.de/kultur/basilika-sagrada-familia-kreuz-aus-deutschland-vollendet](https://www.spiegel.de/kultur/basilika-sagrada-familia-kreuz-aus-deutschland-vollendet-a-9670f552-43e3-4504-aaad-548a34f9432d#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle](https://www.spiegel.de/ausland/usa-oberstes-gericht-der-usa-stoppt-trumps-globale-zoelle-a-c643dfb7-1344-4adb-afb0-4f9c65fccf94#ref=rss)
+### andrew
+
+* [https://www.spiegel.de/kultur/andrew-mountbatten-windsor-nach-der-festnahme-sein-gesicht-erinnert-an-alte-hoellen-bilder](https://www.spiegel.de/kultur/andrew-mountbatten-windsor-nach-der-festnahme-sein-gesicht-erinnert-an-alte-hoellen-bilder-a-60230d6b-c598-44d3-9f32-ef1342cfef8e#ref=rss)
 ### festnahme
 
-* [https://www.spiegel.de/ausland/andrew-mountbatten-windsor-pressestimmen-zur-voruebergehenden-festnahme-von-ex-prinz-andrew](https://www.spiegel.de/ausland/andrew-mountbatten-windsor-pressestimmen-zur-voruebergehenden-festnahme-von-ex-prinz-andrew-a-24581a6a-533f-4c42-80a4-06ed504345c9#ref=rss)
-### florida
+* [https://www.spiegel.de/kultur/andrew-mountbatten-windsor-nach-der-festnahme-sein-gesicht-erinnert-an-alte-hoellen-bilder](https://www.spiegel.de/kultur/andrew-mountbatten-windsor-nach-der-festnahme-sein-gesicht-erinnert-an-alte-hoellen-bilder-a-60230d6b-c598-44d3-9f32-ef1342cfef8e#ref=rss)
+### erinnert
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/palm-beach-in-florida-flughafen-soll-nach-donald-trump-benannt-werden](https://www.spiegel.de/wirtschaft/unternehmen/palm-beach-in-florida-flughafen-soll-nach-donald-trump-benannt-werden-a-9c2d6181-64c2-4449-ab48-3dd2d7301d60#ref=rss)
-### flughafen
+* [https://www.spiegel.de/kultur/andrew-mountbatten-windsor-nach-der-festnahme-sein-gesicht-erinnert-an-alte-hoellen-bilder](https://www.spiegel.de/kultur/andrew-mountbatten-windsor-nach-der-festnahme-sein-gesicht-erinnert-an-alte-hoellen-bilder-a-60230d6b-c598-44d3-9f32-ef1342cfef8e#ref=rss)
+### nürnberg
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/palm-beach-in-florida-flughafen-soll-nach-donald-trump-benannt-werden](https://www.spiegel.de/wirtschaft/unternehmen/palm-beach-in-florida-flughafen-soll-nach-donald-trump-benannt-werden-a-9c2d6181-64c2-4449-ab48-3dd2d7301d60#ref=rss)
-### ernährung
+* [https://www.spiegel.de/wirtschaft/drohbrief-in-nuernberg-ver-di-will-mitarbeiter-fuer-notfaelle-schulen](https://www.spiegel.de/wirtschaft/drohbrief-in-nuernberg-ver-di-will-mitarbeiter-fuer-notfaelle-schulen-a-7986b324-6651-49d0-ba13-01fc369ce227#ref=rss)
+### verdi
 
-* [https://www.spiegel.de/gesundheit/ernaehrung/gesunde-ernaehrung-und-fasten-was-wie-und-wie-viel-wir-essen-sollten](https://www.spiegel.de/gesundheit/ernaehrung/gesunde-ernaehrung-und-fasten-was-wie-und-wie-viel-wir-essen-sollten-a-ba54f808-d108-4cb5-9009-2081455ba20e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/drohbrief-in-nuernberg-ver-di-will-mitarbeiter-fuer-notfaelle-schulen](https://www.spiegel.de/wirtschaft/drohbrief-in-nuernberg-ver-di-will-mitarbeiter-fuer-notfaelle-schulen-a-7986b324-6651-49d0-ba13-01fc369ce227#ref=rss)
+### mitarbeiter
+
+* [https://www.spiegel.de/wirtschaft/drohbrief-in-nuernberg-ver-di-will-mitarbeiter-fuer-notfaelle-schulen](https://www.spiegel.de/wirtschaft/drohbrief-in-nuernberg-ver-di-will-mitarbeiter-fuer-notfaelle-schulen-a-7986b324-6651-49d0-ba13-01fc369ce227#ref=rss)
+### gorgonzola
+
+* [https://www.spiegel.de/wirtschaft/service/gorgonzola-lebensmittelkonzern-lactalis-ruft-kaese-bei-aldi-netto-und-kaufland-wegen-listerien-verdacht-zurueck](https://www.spiegel.de/wirtschaft/service/gorgonzola-lebensmittelkonzern-lactalis-ruft-kaese-bei-aldi-netto-und-kaufland-wegen-listerien-verdacht-zurueck-a-67b0f9a4-a392-4253-af07-0aca9803a84f#ref=rss)
+### käse
+
+* [https://www.spiegel.de/wirtschaft/service/gorgonzola-lebensmittelkonzern-lactalis-ruft-kaese-bei-aldi-netto-und-kaufland-wegen-listerien-verdacht-zurueck](https://www.spiegel.de/wirtschaft/service/gorgonzola-lebensmittelkonzern-lactalis-ruft-kaese-bei-aldi-netto-und-kaufland-wegen-listerien-verdacht-zurueck-a-67b0f9a4-a392-4253-af07-0aca9803a84f#ref=rss)
+### all
+
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-neun-monate-gestrandet-im-all-us-raumfahrtbehoerde-rechnet-mit-alter-fuehrung-ab](https://www.spiegel.de/wissenschaft/weltall/nasa-neun-monate-gestrandet-im-all-us-raumfahrtbehoerde-rechnet-mit-alter-fuehrung-ab-a-436b9662-8c94-48b7-9287-36b4bf4cc28f#ref=rss)
+### sachsenanhalt
+
+* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-erlass-verbietet-parteienwerbung-in-schulen](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-erlass-verbietet-parteienwerbung-in-schulen-a-8109fc91-f621-4480-9622-5ef242785daa#ref=rss)
+### besuche
+
+* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-erlass-verbietet-parteienwerbung-in-schulen](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-erlass-verbietet-parteienwerbung-in-schulen-a-8109fc91-f621-4480-9622-5ef242785daa#ref=rss)
+### politikern
+
+* [https://www.spiegel.de/panorama/bildung/sachsen-anhalt-erlass-verbietet-parteienwerbung-in-schulen](https://www.spiegel.de/panorama/bildung/sachsen-anhalt-erlass-verbietet-parteienwerbung-in-schulen-a-8109fc91-f621-4480-9622-5ef242785daa#ref=rss)
 
