@@ -4,351 +4,321 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### putin
 
-* [https://www.spiegel.de/sport/olympia/olympia-2026-deutschland-im-medaillenspiegel-und-in-der-einzelkritik](https://www.spiegel.de/sport/olympia/olympia-2026-deutschland-im-medaillenspiegel-und-in-der-einzelkritik-a-34517da4-2f61-4713-b4e8-4d9f5e269d7a#ref=rss)
-* [https://www.spiegel.de/ausland/litauen-armeechef-prueft-kauf-ukrainischer-langstreckenwaffen](https://www.spiegel.de/ausland/litauen-armeechef-prueft-kauf-ukrainischer-langstreckenwaffen-a-b6f81cff-3059-4e94-8884-5989194e57c7#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse-a-1847c13c-da61-4c6b-83f8-5bc711d71e83#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob](https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob-a-15fa52bb-430e-4853-94be-c1277e674d3c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/protektionismus-mehrheit-unterstuetzt-made-in-europe-vorgaben-der-eu](https://www.spiegel.de/wirtschaft/protektionismus-mehrheit-unterstuetzt-made-in-europe-vorgaben-der-eu-a-de4a3cc3-4e22-463d-b15d-e1929667029d#ref=rss)
-* [https://www.spiegel.de/kultur/berlinale-csu-landesgruppenchef-kritisiert-abstossende-szenen-auf-preisverleihung](https://www.spiegel.de/kultur/berlinale-csu-landesgruppenchef-kritisiert-abstossende-szenen-auf-preisverleihung-a-3a84800d-1af6-4408-a0a1-714e231f67f2#ref=rss)
-### 2026
+* [https://www.spiegel.de/ausland/ukraine-vier-jahre-krieg-und-die-gescheiterte-russische-offensive](https://www.spiegel.de/ausland/ukraine-vier-jahre-krieg-und-die-gescheiterte-russische-offensive-a-27afc7fb-b0a6-418d-854a-b7306bae07ad#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-wolodymyr-selenskyj-warnt-wladimir-putin-habe-dritten-weltkrieg-bereits-begonnen](https://www.spiegel.de/ausland/ukrainekrieg-wolodymyr-selenskyj-warnt-wladimir-putin-habe-dritten-weltkrieg-bereits-begonnen-a-5df5cccb-3d84-452d-9c48-233f2a051db1#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-nennt-entwicklung-von-atomstreitkraeften-absolute-prioritaet](https://www.spiegel.de/ausland/russland-wladimir-putin-nennt-entwicklung-von-atomstreitkraeften-absolute-prioritaet-a-f76aab76-85a7-4c83-9401-34a5c398e635#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma](https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma-a-fa0b7a61-b329-4098-838f-1efe144a62af#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-superstars-und-ueberraschungen-hoehepunkte-der-winterspiele](https://www.spiegel.de/sport/olympia/olympia-2026-superstars-und-ueberraschungen-hoehepunkte-der-winterspiele-a-38165b66-e0de-42c9-bb40-fb9714c862d6#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-deutschland-im-medaillenspiegel-und-in-der-einzelkritik](https://www.spiegel.de/sport/olympia/olympia-2026-deutschland-im-medaillenspiegel-und-in-der-einzelkritik-a-34517da4-2f61-4713-b4e8-4d9f5e269d7a#ref=rss)
-* [https://www.spiegel.de/panorama/olympia-2026-wie-ein-wolfshund-die-olympische-strecke-erreichte](https://www.spiegel.de/panorama/olympia-2026-wie-ein-wolfshund-die-olympische-strecke-erreichte-a-afef7513-0771-4b33-9902-d7400a300091#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob](https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob-a-15fa52bb-430e-4853-94be-c1277e674d3c#ref=rss)
-* [https://www.spiegel.de/kultur/kino/berlinale-pamela-anderson-channing-tatum-lars-eidinger-isabelle-huppert](https://www.spiegel.de/kultur/kino/berlinale-pamela-anderson-channing-tatum-lars-eidinger-isabelle-huppert-a-fad7c476-02ec-43b9-80fc-c908f44839f7#ref=rss)
-### olympia
-
-* [https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma](https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma-a-fa0b7a61-b329-4098-838f-1efe144a62af#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-superstars-und-ueberraschungen-hoehepunkte-der-winterspiele](https://www.spiegel.de/sport/olympia/olympia-2026-superstars-und-ueberraschungen-hoehepunkte-der-winterspiele-a-38165b66-e0de-42c9-bb40-fb9714c862d6#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2026-deutschland-im-medaillenspiegel-und-in-der-einzelkritik](https://www.spiegel.de/sport/olympia/olympia-2026-deutschland-im-medaillenspiegel-und-in-der-einzelkritik-a-34517da4-2f61-4713-b4e8-4d9f5e269d7a#ref=rss)
-* [https://www.spiegel.de/panorama/olympia-2026-wie-ein-wolfshund-die-olympische-strecke-erreichte](https://www.spiegel.de/panorama/olympia-2026-wie-ein-wolfshund-die-olympische-strecke-erreichte-a-afef7513-0771-4b33-9902-d7400a300091#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob](https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob-a-15fa52bb-430e-4853-94be-c1277e674d3c#ref=rss)
-### usa
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-der-zoll-deal-zwischen-den-usa-und-der-eu-zu-platzen](https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-der-zoll-deal-zwischen-den-usa-und-der-eu-zu-platzen-a-ef795e52-af6a-4567-9004-b414d3db40ed#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse-a-1847c13c-da61-4c6b-83f8-5bc711d71e83#ref=rss)
-### freiburg
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-kann-auf-seine-heimstaerke-setzen-und-besiegt-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-kann-auf-seine-heimstaerke-setzen-und-besiegt-borussia-moenchengladbach-a-63c9c772-051a-4517-8baf-bd5b05edde21#ref=rss)
-* [https://www.spiegel.de/panorama/freiburg-feuerwehr-befreit-jugendliche-aus-verschlossenem-bunkerstollen](https://www.spiegel.de/panorama/freiburg-feuerwehr-befreit-jugendliche-aus-verschlossenem-bunkerstollen-a-148bcd72-1677-480d-aeef-366ac60c257c#ref=rss)
-### berlinale
-
-* [https://www.spiegel.de/kultur/kino/berlinale-pamela-anderson-channing-tatum-lars-eidinger-isabelle-huppert](https://www.spiegel.de/kultur/kino/berlinale-pamela-anderson-channing-tatum-lars-eidinger-isabelle-huppert-a-fad7c476-02ec-43b9-80fc-c908f44839f7#ref=rss)
-* [https://www.spiegel.de/kultur/berlinale-csu-landesgruppenchef-kritisiert-abstossende-szenen-auf-preisverleihung](https://www.spiegel.de/kultur/berlinale-csu-landesgruppenchef-kritisiert-abstossende-szenen-auf-preisverleihung-a-3a84800d-1af6-4408-a0a1-714e231f67f2#ref=rss)
-### nacht
-
-* [https://www.spiegel.de/reise/flughafen-muenchen-500-passagiere-verbringen-nacht-in-flugzeugen-wegen-schneefall](https://www.spiegel.de/reise/flughafen-muenchen-500-passagiere-verbringen-nacht-in-flugzeugen-wegen-schneefall-a-73ab066c-38cd-4d37-9daa-406b12cd398f#ref=rss)
-* [https://www.spiegel.de/partnerschaft/liebe-wie-sie-ihre-eigenstaendigkeit-in-der-partnerschaft-erhalten](https://www.spiegel.de/partnerschaft/liebe-wie-sie-ihre-eigenstaendigkeit-in-der-partnerschaft-erhalten-a-68935a65-ac37-44e6-bc38-944dea57c2d7#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bewaffneter-eindringling-an-residenz-mar-a-lago-in-florida-erschossen](https://www.spiegel.de/ausland/donald-trump-bewaffneter-eindringling-an-residenz-mar-a-lago-in-florida-erschossen-a-e3a46a7b-f6ff-4a37-9eaf-cecddf2643d8#ref=rss)
-### trump
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-der-zoll-deal-zwischen-den-usa-und-der-eu-zu-platzen](https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-der-zoll-deal-zwischen-den-usa-und-der-eu-zu-platzen-a-ef795e52-af6a-4567-9004-b414d3db40ed#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bewaffneter-eindringling-an-residenz-mar-a-lago-in-florida-erschossen](https://www.spiegel.de/ausland/donald-trump-bewaffneter-eindringling-an-residenz-mar-a-lago-in-florida-erschossen-a-e3a46a7b-f6ff-4a37-9eaf-cecddf2643d8#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-daenemark-lehnt-trumps-lazarettschiff-fuer-groenland-ab](https://www.spiegel.de/ausland/groenland-daenemark-lehnt-trumps-lazarettschiff-fuer-groenland-ab-a-86694e61-b05d-4b8b-b6a2-4c4c53cedd26#ref=rss)
-### erst
-
-* [https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma](https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma-a-fa0b7a61-b329-4098-838f-1efe144a62af#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-schwerer-unfall-in-spandau-bus-prallt-erst-gegen-auto-und-dann-gegen-baum](https://www.spiegel.de/panorama/berlin-schwerer-unfall-in-spandau-bus-prallt-erst-gegen-auto-und-dann-gegen-baum-a-d432dabb-959d-47d1-b559-da23b34cb72e#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse-a-1847c13c-da61-4c6b-83f8-5bc711d71e83#ref=rss)
-### gold
-
-* [https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma](https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma-a-fa0b7a61-b329-4098-838f-1efe144a62af#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse-a-1847c13c-da61-4c6b-83f8-5bc711d71e83#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob](https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob-a-15fa52bb-430e-4853-94be-c1277e674d3c#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma](https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma-a-fa0b7a61-b329-4098-838f-1efe144a62af#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-schwerer-unfall-in-spandau-bus-prallt-erst-gegen-auto-und-dann-gegen-baum](https://www.spiegel.de/panorama/berlin-schwerer-unfall-in-spandau-bus-prallt-erst-gegen-auto-und-dann-gegen-baum-a-d432dabb-959d-47d1-b559-da23b34cb72e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-in-koeln-90-jaehriger-fan-nach-sturz-bei-bundesliga-spiel-verstorben](https://www.spiegel.de/sport/fussball/bundesliga-in-koeln-90-jaehriger-fan-nach-sturz-bei-bundesliga-spiel-verstorben-a-e36212b3-d100-4703-93a8-8a2bc9ccf65d#ref=rss)
-### winterspiele
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-superstars-und-ueberraschungen-hoehepunkte-der-winterspiele](https://www.spiegel.de/sport/olympia/olympia-2026-superstars-und-ueberraschungen-hoehepunkte-der-winterspiele-a-38165b66-e0de-42c9-bb40-fb9714c862d6#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse-a-1847c13c-da61-4c6b-83f8-5bc711d71e83#ref=rss)
-### nazgul
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-superstars-und-ueberraschungen-hoehepunkte-der-winterspiele](https://www.spiegel.de/sport/olympia/olympia-2026-superstars-und-ueberraschungen-hoehepunkte-der-winterspiele-a-38165b66-e0de-42c9-bb40-fb9714c862d6#ref=rss)
-* [https://www.spiegel.de/panorama/olympia-2026-wie-ein-wolfshund-die-olympische-strecke-erreichte](https://www.spiegel.de/panorama/olympia-2026-wie-ein-wolfshund-die-olympische-strecke-erreichte-a-afef7513-0771-4b33-9902-d7400a300091#ref=rss)
-### grönland
-
-* [https://www.spiegel.de/ausland/groenland-daenemark-lehnt-trumps-lazarettschiff-fuer-groenland-ab](https://www.spiegel.de/ausland/groenland-daenemark-lehnt-trumps-lazarettschiff-fuer-groenland-ab-a-86694e61-b05d-4b8b-b6a2-4c4c53cedd26#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/protektionismus-mehrheit-unterstuetzt-made-in-europe-vorgaben-der-eu](https://www.spiegel.de/wirtschaft/protektionismus-mehrheit-unterstuetzt-made-in-europe-vorgaben-der-eu-a-de4a3cc3-4e22-463d-b15d-e1929667029d#ref=rss)
-* [https://www.spiegel.de/sport/joseph-blatter-nennt-fifa-unter-gianni-infantino-totale-diktatur](https://www.spiegel.de/sport/joseph-blatter-nennt-fifa-unter-gianni-infantino-totale-diktatur-a-a2f1d431-8493-45fa-932c-bf5f5f58fdac#ref=rss)
-### schwarz
-
-* [https://www.spiegel.de/kultur/kino/berlinale-pamela-anderson-channing-tatum-lars-eidinger-isabelle-huppert](https://www.spiegel.de/kultur/kino/berlinale-pamela-anderson-channing-tatum-lars-eidinger-isabelle-huppert-a-fad7c476-02ec-43b9-80fc-c908f44839f7#ref=rss)
-### weiß
-
-* [https://www.spiegel.de/kultur/kino/berlinale-pamela-anderson-channing-tatum-lars-eidinger-isabelle-huppert](https://www.spiegel.de/kultur/kino/berlinale-pamela-anderson-channing-tatum-lars-eidinger-isabelle-huppert-a-fad7c476-02ec-43b9-80fc-c908f44839f7#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/politik/deutschland/cdu-daniel-guenther-strebt-zuckersteuer-ueber-bundesrat-an](https://www.spiegel.de/politik/deutschland/cdu-daniel-guenther-strebt-zuckersteuer-ueber-bundesrat-an-a-360ab40c-6e88-41f9-9ce3-eb3f29aa4c91#ref=rss)
-### günther
-
-* [https://www.spiegel.de/politik/deutschland/cdu-daniel-guenther-strebt-zuckersteuer-ueber-bundesrat-an](https://www.spiegel.de/politik/deutschland/cdu-daniel-guenther-strebt-zuckersteuer-ueber-bundesrat-an-a-360ab40c-6e88-41f9-9ce3-eb3f29aa4c91#ref=rss)
-### andrew
-
-* [https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family](https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family-a-28e57d08-e18a-4196-bf73-96f910e67945#ref=rss)
-### marius
-
-* [https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family](https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family-a-28e57d08-e18a-4196-bf73-96f910e67945#ref=rss)
-### borg
-
-* [https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family](https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family-a-28e57d08-e18a-4196-bf73-96f910e67945#ref=rss)
-### høiby
-
-* [https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family](https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family-a-28e57d08-e18a-4196-bf73-96f910e67945#ref=rss)
-### verfahren
-
-* [https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family](https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family-a-28e57d08-e18a-4196-bf73-96f910e67945#ref=rss)
-### bild
-
-* [https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family](https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family-a-28e57d08-e18a-4196-bf73-96f910e67945#ref=rss)
-### royal
-
-* [https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family](https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family-a-28e57d08-e18a-4196-bf73-96f910e67945#ref=rss)
-### family
-
-* [https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family](https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family-a-28e57d08-e18a-4196-bf73-96f910e67945#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-vier-jahre-krieg-und-die-gescheiterte-russische-offensive](https://www.spiegel.de/ausland/ukraine-vier-jahre-krieg-und-die-gescheiterte-russische-offensive-a-27afc7fb-b0a6-418d-854a-b7306bae07ad#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-wolodymyr-selenskyj-warnt-wladimir-putin-habe-dritten-weltkrieg-bereits-begonnen](https://www.spiegel.de/ausland/ukrainekrieg-wolodymyr-selenskyj-warnt-wladimir-putin-habe-dritten-weltkrieg-bereits-begonnen-a-5df5cccb-3d84-452d-9c48-233f2a051db1#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-nennt-entwicklung-von-atomstreitkraeften-absolute-prioritaet](https://www.spiegel.de/ausland/russland-wladimir-putin-nennt-entwicklung-von-atomstreitkraeften-absolute-prioritaet-a-f76aab76-85a7-4c83-9401-34a5c398e635#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family](https://www.spiegel.de/kultur/andrew-und-marius-borg-hoiby-verfahren-erschuettern-das-bild-der-royal-family-a-28e57d08-e18a-4196-bf73-96f910e67945#ref=rss)
-* [https://www.spiegel.de/panorama/olympia-2026-wie-ein-wolfshund-die-olympische-strecke-erreichte](https://www.spiegel.de/panorama/olympia-2026-wie-ein-wolfshund-die-olympische-strecke-erreichte-a-afef7513-0771-4b33-9902-d7400a300091#ref=rss)
-### münchen
+* [https://www.spiegel.de/panorama/justiz/bayern-mann-erschiesst-offenbar-zwei-kinder-seine-frau-und-sich-selbst](https://www.spiegel.de/panorama/justiz/bayern-mann-erschiesst-offenbar-zwei-kinder-seine-frau-und-sich-selbst-a-34dbb4ce-f20a-4f38-a4b6-170c2bb6971b#ref=rss)
+* [https://www.spiegel.de/panorama/schweiz-zwei-tote-durch-lawinenabgaenge-in-graubuenden](https://www.spiegel.de/panorama/schweiz-zwei-tote-durch-lawinenabgaenge-in-graubuenden-a-7f9c3d3a-ffca-4c39-96c0-657d790166ee#ref=rss)
+* [https://www.spiegel.de/ausland/bondi-beach-held-ahmed-al-ahmed-spricht-ueber-den-moment-als-er-einen-der-attentaeter-ueberwaeltigte](https://www.spiegel.de/ausland/bondi-beach-held-ahmed-al-ahmed-spricht-ueber-den-moment-als-er-einen-der-attentaeter-ueberwaeltigte-a-92f7d21e-721b-47f5-a71c-e7ab788608da#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/reise/flughafen-muenchen-500-passagiere-verbringen-nacht-in-flugzeugen-wegen-schneefall](https://www.spiegel.de/reise/flughafen-muenchen-500-passagiere-verbringen-nacht-in-flugzeugen-wegen-schneefall-a-73ab066c-38cd-4d37-9daa-406b12cd398f#ref=rss)
-### passagiere
+* [https://www.spiegel.de/panorama/justiz/bayern-mann-erschiesst-offenbar-zwei-kinder-seine-frau-und-sich-selbst](https://www.spiegel.de/panorama/justiz/bayern-mann-erschiesst-offenbar-zwei-kinder-seine-frau-und-sich-selbst-a-34dbb4ce-f20a-4f38-a4b6-170c2bb6971b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/mit-fuenf-noch-windeln-tragen-warum-kinder-heute-spaeter-trocken-werden](https://www.spiegel.de/wissenschaft/mensch/mit-fuenf-noch-windeln-tragen-warum-kinder-heute-spaeter-trocken-werden-a-5ed4ed61-3507-4d1b-9592-2c9c749d8c94#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/reise/flughafen-muenchen-500-passagiere-verbringen-nacht-in-flugzeugen-wegen-schneefall](https://www.spiegel.de/reise/flughafen-muenchen-500-passagiere-verbringen-nacht-in-flugzeugen-wegen-schneefall-a-73ab066c-38cd-4d37-9daa-406b12cd398f#ref=rss)
-### verbringen
+* [https://www.spiegel.de/ausland/friedrich-merz-vs-donald-trump-das-ende-des-transatlantikers](https://www.spiegel.de/ausland/friedrich-merz-vs-donald-trump-das-ende-des-transatlantikers-a-026e488d-2bc8-47fc-858f-989ad1555752#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutschland-behauptet-platz-drei-der-weltgroessten-volkswirtschaften](https://www.spiegel.de/wirtschaft/deutschland-behauptet-platz-drei-der-weltgroessten-volkswirtschaften-a-f2a9b224-81db-49e1-a749-70ec94afb8d3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-zollpolitik-donald-trump-bischofskonferenz-georg-baetzing-annegret-kramp-karrenbauer-bundeskanzler](https://www.spiegel.de/politik/deutschland/news-us-zollpolitik-donald-trump-bischofskonferenz-georg-baetzing-annegret-kramp-karrenbauer-bundeskanzler-a-d0b207e6-4d74-438a-a72c-26c06468952b#ref=rss)
+* [https://www.spiegel.de/ausland/drogen-boss-el-mencho-in-mexiko-getoetet-sein-kartell-cjng-reagiert-mit-gewalt](https://www.spiegel.de/ausland/drogen-boss-el-mencho-in-mexiko-getoetet-sein-kartell-cjng-reagiert-mit-gewalt-a-532649fd-6ff5-482a-9ae5-f1dc3a340f11#ref=rss)
+### manche
 
-* [https://www.spiegel.de/reise/flughafen-muenchen-500-passagiere-verbringen-nacht-in-flugzeugen-wegen-schneefall](https://www.spiegel.de/reise/flughafen-muenchen-500-passagiere-verbringen-nacht-in-flugzeugen-wegen-schneefall-a-73ab066c-38cd-4d37-9daa-406b12cd398f#ref=rss)
-* [https://www.spiegel.de/partnerschaft/liebe-wie-sie-ihre-eigenstaendigkeit-in-der-partnerschaft-erhalten](https://www.spiegel.de/partnerschaft/liebe-wie-sie-ihre-eigenstaendigkeit-in-der-partnerschaft-erhalten-a-68935a65-ac37-44e6-bc38-944dea57c2d7#ref=rss)
-### zurück
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-woran-super-recognizer-ki-generierte-gesichter-erkennen](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-woran-super-recognizer-ki-generierte-gesichter-erkennen-a-3a05d86c-a623-480d-b6ca-170c0ed04349#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krankenkassen-andreas-gassen-spricht-sich-fuer-abschaffung-freiwilliger-leistungen-aus](https://www.spiegel.de/wirtschaft/krankenkassen-andreas-gassen-spricht-sich-fuer-abschaffung-freiwilliger-leistungen-aus-a-724212f0-2d99-49d3-89b8-be0da5c15fef#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/mit-fuenf-noch-windeln-tragen-warum-kinder-heute-spaeter-trocken-werden](https://www.spiegel.de/wissenschaft/mensch/mit-fuenf-noch-windeln-tragen-warum-kinder-heute-spaeter-trocken-werden-a-5ed4ed61-3507-4d1b-9592-2c9c749d8c94#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/reise/flughafen-muenchen-500-passagiere-verbringen-nacht-in-flugzeugen-wegen-schneefall](https://www.spiegel.de/reise/flughafen-muenchen-500-passagiere-verbringen-nacht-in-flugzeugen-wegen-schneefall-a-73ab066c-38cd-4d37-9daa-406b12cd398f#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-daenemark-lehnt-trumps-lazarettschiff-fuer-groenland-ab](https://www.spiegel.de/ausland/groenland-daenemark-lehnt-trumps-lazarettschiff-fuer-groenland-ab-a-86694e61-b05d-4b8b-b6a2-4c4c53cedd26#ref=rss)
-### zolldeal
+* [https://www.spiegel.de/ausland/ukraine-vier-jahre-krieg-und-die-gescheiterte-russische-offensive](https://www.spiegel.de/ausland/ukraine-vier-jahre-krieg-und-die-gescheiterte-russische-offensive-a-27afc7fb-b0a6-418d-854a-b7306bae07ad#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-darlehen-ungarn-droht-mit-blockade-johann-wadephul-fordert-umdenken](https://www.spiegel.de/ausland/ukraine-darlehen-ungarn-droht-mit-blockade-johann-wadephul-fordert-umdenken-a-65ed45a1-aa33-48dc-8824-a78b334cde85#ref=rss)
+### vier
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-der-zoll-deal-zwischen-den-usa-und-der-eu-zu-platzen](https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-der-zoll-deal-zwischen-den-usa-und-der-eu-zu-platzen-a-ef795e52-af6a-4567-9004-b414d3db40ed#ref=rss)
-### eu
+* [https://www.spiegel.de/ausland/ukraine-vier-jahre-krieg-und-die-gescheiterte-russische-offensive](https://www.spiegel.de/ausland/ukraine-vier-jahre-krieg-und-die-gescheiterte-russische-offensive-a-27afc7fb-b0a6-418d-854a-b7306bae07ad#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bayern-mann-erschiesst-offenbar-zwei-kinder-seine-frau-und-sich-selbst](https://www.spiegel.de/panorama/justiz/bayern-mann-erschiesst-offenbar-zwei-kinder-seine-frau-und-sich-selbst-a-34dbb4ce-f20a-4f38-a4b6-170c2bb6971b#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-der-zoll-deal-zwischen-den-usa-und-der-eu-zu-platzen](https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-der-zoll-deal-zwischen-den-usa-und-der-eu-zu-platzen-a-ef795e52-af6a-4567-9004-b414d3db40ed#ref=rss)
-* [https://www.spiegel.de/wirtschaft/protektionismus-mehrheit-unterstuetzt-made-in-europe-vorgaben-der-eu](https://www.spiegel.de/wirtschaft/protektionismus-mehrheit-unterstuetzt-made-in-europe-vorgaben-der-eu-a-de4a3cc3-4e22-463d-b15d-e1929667029d#ref=rss)
-### prüft
+* [https://www.spiegel.de/ausland/ukraine-vier-jahre-krieg-und-die-gescheiterte-russische-offensive](https://www.spiegel.de/ausland/ukraine-vier-jahre-krieg-und-die-gescheiterte-russische-offensive-a-27afc7fb-b0a6-418d-854a-b7306bae07ad#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-wolodymyr-selenskyj-warnt-wladimir-putin-habe-dritten-weltkrieg-bereits-begonnen](https://www.spiegel.de/ausland/ukrainekrieg-wolodymyr-selenskyj-warnt-wladimir-putin-habe-dritten-weltkrieg-bereits-begonnen-a-5df5cccb-3d84-452d-9c48-233f2a051db1#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-nennt-entwicklung-von-atomstreitkraeften-absolute-prioritaet](https://www.spiegel.de/ausland/russland-wladimir-putin-nennt-entwicklung-von-atomstreitkraeften-absolute-prioritaet-a-f76aab76-85a7-4c83-9401-34a5c398e635#ref=rss)
+### unter
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-der-zoll-deal-zwischen-den-usa-und-der-eu-zu-platzen](https://www.spiegel.de/politik/deutschland/friedrich-merz-droht-der-zoll-deal-zwischen-den-usa-und-der-eu-zu-platzen-a-ef795e52-af6a-4567-9004-b414d3db40ed#ref=rss)
-* [https://www.spiegel.de/ausland/litauen-armeechef-prueft-kauf-ukrainischer-langstreckenwaffen](https://www.spiegel.de/ausland/litauen-armeechef-prueft-kauf-ukrainischer-langstreckenwaffen-a-b6f81cff-3059-4e94-8884-5989194e57c7#ref=rss)
-### ailing
+* [https://www.spiegel.de/panorama/justiz/filderstadt-frauenleiche-in-koffer-anklage-erhoben](https://www.spiegel.de/panorama/justiz/filderstadt-frauenleiche-in-koffer-anklage-erhoben-a-14345393-fba9-412b-b571-37dfd354ceef#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-william-und-kate-mit-pokerface-auf-dem-roten-teppich](https://www.spiegel.de/panorama/leute/prinz-william-und-kate-mit-pokerface-auf-dem-roten-teppich-a-13c4b777-7184-4171-bbe9-c4bf872c8272#ref=rss)
+* [https://www.spiegel.de/panorama/schweiz-zwei-tote-durch-lawinenabgaenge-in-graubuenden](https://www.spiegel.de/panorama/schweiz-zwei-tote-durch-lawinenabgaenge-in-graubuenden-a-7f9c3d3a-ffca-4c39-96c0-657d790166ee#ref=rss)
+### merz
 
-* [https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma](https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma-a-fa0b7a61-b329-4098-838f-1efe144a62af#ref=rss)
-### eileen
+* [https://www.spiegel.de/ausland/friedrich-merz-vs-donald-trump-das-ende-des-transatlantikers](https://www.spiegel.de/ausland/friedrich-merz-vs-donald-trump-das-ende-des-transatlantikers-a-026e488d-2bc8-47fc-858f-989ad1555752#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-zollpolitik-donald-trump-bischofskonferenz-georg-baetzing-annegret-kramp-karrenbauer-bundeskanzler](https://www.spiegel.de/politik/deutschland/news-us-zollpolitik-donald-trump-bischofskonferenz-georg-baetzing-annegret-kramp-karrenbauer-bundeskanzler-a-d0b207e6-4d74-438a-a72c-26c06468952b#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma](https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma-a-fa0b7a61-b329-4098-838f-1efe144a62af#ref=rss)
-### gu
+* [https://www.spiegel.de/ausland/friedrich-merz-vs-donald-trump-das-ende-des-transatlantikers](https://www.spiegel.de/ausland/friedrich-merz-vs-donald-trump-das-ende-des-transatlantikers-a-026e488d-2bc8-47fc-858f-989ad1555752#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutschland-behauptet-platz-drei-der-weltgroessten-volkswirtschaften](https://www.spiegel.de/wirtschaft/deutschland-behauptet-platz-drei-der-weltgroessten-volkswirtschaften-a-f2a9b224-81db-49e1-a749-70ec94afb8d3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/starbucks-konkurrent-cotti-coffee-expandiert-mit-kampfpreisen-nach-deutschland](https://www.spiegel.de/wirtschaft/service/starbucks-konkurrent-cotti-coffee-expandiert-mit-kampfpreisen-nach-deutschland-a-23b9d49d-91dd-4516-92f0-fff13942a021#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma](https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma-a-fa0b7a61-b329-4098-838f-1efe144a62af#ref=rss)
-### gerade
+* [https://www.spiegel.de/ausland/ukrainekrieg-wolodymyr-selenskyj-warnt-wladimir-putin-habe-dritten-weltkrieg-bereits-begonnen](https://www.spiegel.de/ausland/ukrainekrieg-wolodymyr-selenskyj-warnt-wladimir-putin-habe-dritten-weltkrieg-bereits-begonnen-a-5df5cccb-3d84-452d-9c48-233f2a051db1#ref=rss)
+* [https://www.spiegel.de/ausland/drogen-boss-el-mencho-in-mexiko-getoetet-sein-kartell-cjng-reagiert-mit-gewalt](https://www.spiegel.de/ausland/drogen-boss-el-mencho-in-mexiko-getoetet-sein-kartell-cjng-reagiert-mit-gewalt-a-532649fd-6ff5-482a-9ae5-f1dc3a340f11#ref=rss)
+### russland
 
-* [https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma](https://www.spiegel.de/sport/olympia/ailing-eileen-gu-bei-olympia-2026-erst-gewinnt-sie-gold-dann-erfaehrt-sie-vom-tod-ihrer-oma-a-fa0b7a61-b329-4098-838f-1efe144a62af#ref=rss)
-* [https://www.spiegel.de/karriere/raetsel-der-woche-drei-zaeune-fuer-sieben-schafe](https://www.spiegel.de/karriere/raetsel-der-woche-drei-zaeune-fuer-sieben-schafe-a-6699dcb9-80f7-45da-b76a-2ae805d7bb1b#ref=rss)
-### leverkusen
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-bayer-leverkusen-empfaengt-im-halbfinale-die-bayern](https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-bayer-leverkusen-empfaengt-im-halbfinale-die-bayern-a-a9efd383-7d84-4442-88a4-7139de95e191#ref=rss)
-### halbfinale
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-bayer-leverkusen-empfaengt-im-halbfinale-die-bayern](https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-bayer-leverkusen-empfaengt-im-halbfinale-die-bayern-a-a9efd383-7d84-4442-88a4-7139de95e191#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-bayer-leverkusen-empfaengt-im-halbfinale-die-bayern](https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-bayer-leverkusen-empfaengt-im-halbfinale-die-bayern-a-a9efd383-7d84-4442-88a4-7139de95e191#ref=rss)
-### zweiten
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-bayer-leverkusen-empfaengt-im-halbfinale-die-bayern](https://www.spiegel.de/sport/fussball/dfb-pokal-auslosung-bayer-leverkusen-empfaengt-im-halbfinale-die-bayern-a-a9efd383-7d84-4442-88a4-7139de95e191#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob](https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob-a-15fa52bb-430e-4853-94be-c1277e674d3c#ref=rss)
-### superstars
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-superstars-und-ueberraschungen-hoehepunkte-der-winterspiele](https://www.spiegel.de/sport/olympia/olympia-2026-superstars-und-ueberraschungen-hoehepunkte-der-winterspiele-a-38165b66-e0de-42c9-bb40-fb9714c862d6#ref=rss)
-### höhepunkte
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-superstars-und-ueberraschungen-hoehepunkte-der-winterspiele](https://www.spiegel.de/sport/olympia/olympia-2026-superstars-und-ueberraschungen-hoehepunkte-der-winterspiele-a-38165b66-e0de-42c9-bb40-fb9714c862d6#ref=rss)
-### wolfshund
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-superstars-und-ueberraschungen-hoehepunkte-der-winterspiele](https://www.spiegel.de/sport/olympia/olympia-2026-superstars-und-ueberraschungen-hoehepunkte-der-winterspiele-a-38165b66-e0de-42c9-bb40-fb9714c862d6#ref=rss)
-* [https://www.spiegel.de/panorama/olympia-2026-wie-ein-wolfshund-die-olympische-strecke-erreichte](https://www.spiegel.de/panorama/olympia-2026-wie-ein-wolfshund-die-olympische-strecke-erreichte-a-afef7513-0771-4b33-9902-d7400a300091#ref=rss)
-### alle
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-superstars-und-ueberraschungen-hoehepunkte-der-winterspiele](https://www.spiegel.de/sport/olympia/olympia-2026-superstars-und-ueberraschungen-hoehepunkte-der-winterspiele-a-38165b66-e0de-42c9-bb40-fb9714c862d6#ref=rss)
-* [https://www.spiegel.de/partnerschaft/liebe-wie-sie-ihre-eigenstaendigkeit-in-der-partnerschaft-erhalten](https://www.spiegel.de/partnerschaft/liebe-wie-sie-ihre-eigenstaendigkeit-in-der-partnerschaft-erhalten-a-68935a65-ac37-44e6-bc38-944dea57c2d7#ref=rss)
-### medaillenspiegel
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-deutschland-im-medaillenspiegel-und-in-der-einzelkritik](https://www.spiegel.de/sport/olympia/olympia-2026-deutschland-im-medaillenspiegel-und-in-der-einzelkritik-a-34517da4-2f61-4713-b4e8-4d9f5e269d7a#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/sport/olympia/olympia-2026-deutschland-im-medaillenspiegel-und-in-der-einzelkritik](https://www.spiegel.de/sport/olympia/olympia-2026-deutschland-im-medaillenspiegel-und-in-der-einzelkritik-a-34517da4-2f61-4713-b4e8-4d9f5e269d7a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-kann-auf-seine-heimstaerke-setzen-und-besiegt-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-kann-auf-seine-heimstaerke-setzen-und-besiegt-borussia-moenchengladbach-a-63c9c772-051a-4517-8baf-bd5b05edde21#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/panorama/berlin-schwerer-unfall-in-spandau-bus-prallt-erst-gegen-auto-und-dann-gegen-baum](https://www.spiegel.de/panorama/berlin-schwerer-unfall-in-spandau-bus-prallt-erst-gegen-auto-und-dann-gegen-baum-a-d432dabb-959d-47d1-b559-da23b34cb72e#ref=rss)
-### bus
-
-* [https://www.spiegel.de/panorama/berlin-schwerer-unfall-in-spandau-bus-prallt-erst-gegen-auto-und-dann-gegen-baum](https://www.spiegel.de/panorama/berlin-schwerer-unfall-in-spandau-bus-prallt-erst-gegen-auto-und-dann-gegen-baum-a-d432dabb-959d-47d1-b559-da23b34cb72e#ref=rss)
-### baum
-
-* [https://www.spiegel.de/panorama/berlin-schwerer-unfall-in-spandau-bus-prallt-erst-gegen-auto-und-dann-gegen-baum](https://www.spiegel.de/panorama/berlin-schwerer-unfall-in-spandau-bus-prallt-erst-gegen-auto-und-dann-gegen-baum-a-d432dabb-959d-47d1-b559-da23b34cb72e#ref=rss)
-### daraufhin
-
-* [https://www.spiegel.de/panorama/berlin-schwerer-unfall-in-spandau-bus-prallt-erst-gegen-auto-und-dann-gegen-baum](https://www.spiegel.de/panorama/berlin-schwerer-unfall-in-spandau-bus-prallt-erst-gegen-auto-und-dann-gegen-baum-a-d432dabb-959d-47d1-b559-da23b34cb72e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-in-koeln-90-jaehriger-fan-nach-sturz-bei-bundesliga-spiel-verstorben](https://www.spiegel.de/sport/fussball/bundesliga-in-koeln-90-jaehriger-fan-nach-sturz-bei-bundesliga-spiel-verstorben-a-e36212b3-d100-4703-93a8-8a2bc9ccf65d#ref=rss)
-### fußballbundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-kann-auf-seine-heimstaerke-setzen-und-besiegt-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-kann-auf-seine-heimstaerke-setzen-und-besiegt-borussia-moenchengladbach-a-63c9c772-051a-4517-8baf-bd5b05edde21#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-kassiert-fuenf-tore-in-paderborn-und-muss-den-aufstieg-wohl-abhaken](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-kassiert-fuenf-tore-in-paderborn-und-muss-den-aufstieg-wohl-abhaken-a-40516973-08d6-4ab7-9b25-b7ec31ad560d#ref=rss)
-### borussia
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-kann-auf-seine-heimstaerke-setzen-und-besiegt-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-kann-auf-seine-heimstaerke-setzen-und-besiegt-borussia-moenchengladbach-a-63c9c772-051a-4517-8baf-bd5b05edde21#ref=rss)
-### mönchengladbach
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-kann-auf-seine-heimstaerke-setzen-und-besiegt-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-kann-auf-seine-heimstaerke-setzen-und-besiegt-borussia-moenchengladbach-a-63c9c772-051a-4517-8baf-bd5b05edde21#ref=rss)
-### sieg
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-kann-auf-seine-heimstaerke-setzen-und-besiegt-borussia-moenchengladbach](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-kann-auf-seine-heimstaerke-setzen-und-besiegt-borussia-moenchengladbach-a-63c9c772-051a-4517-8baf-bd5b05edde21#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-kassiert-fuenf-tore-in-paderborn-und-muss-den-aufstieg-wohl-abhaken](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-kassiert-fuenf-tore-in-paderborn-und-muss-den-aufstieg-wohl-abhaken-a-40516973-08d6-4ab7-9b25-b7ec31ad560d#ref=rss)
-### feuerwehr
-
-* [https://www.spiegel.de/panorama/freiburg-feuerwehr-befreit-jugendliche-aus-verschlossenem-bunkerstollen](https://www.spiegel.de/panorama/freiburg-feuerwehr-befreit-jugendliche-aus-verschlossenem-bunkerstollen-a-148bcd72-1677-480d-aeef-366ac60c257c#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/freiburg-feuerwehr-befreit-jugendliche-aus-verschlossenem-bunkerstollen](https://www.spiegel.de/panorama/freiburg-feuerwehr-befreit-jugendliche-aus-verschlossenem-bunkerstollen-a-148bcd72-1677-480d-aeef-366ac60c257c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/protektionismus-mehrheit-unterstuetzt-made-in-europe-vorgaben-der-eu](https://www.spiegel.de/wirtschaft/protektionismus-mehrheit-unterstuetzt-made-in-europe-vorgaben-der-eu-a-de4a3cc3-4e22-463d-b15d-e1929667029d#ref=rss)
-### armeechef
-
-* [https://www.spiegel.de/ausland/litauen-armeechef-prueft-kauf-ukrainischer-langstreckenwaffen](https://www.spiegel.de/ausland/litauen-armeechef-prueft-kauf-ukrainischer-langstreckenwaffen-a-b6f81cff-3059-4e94-8884-5989194e57c7#ref=rss)
-### langstreckenwaffen
-
-* [https://www.spiegel.de/ausland/litauen-armeechef-prueft-kauf-ukrainischer-langstreckenwaffen](https://www.spiegel.de/ausland/litauen-armeechef-prueft-kauf-ukrainischer-langstreckenwaffen-a-b6f81cff-3059-4e94-8884-5989194e57c7#ref=rss)
-### verlängerung
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse-a-1847c13c-da61-4c6b-83f8-5bc711d71e83#ref=rss)
-### kanada
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse-a-1847c13c-da61-4c6b-83f8-5bc711d71e83#ref=rss)
-### viererbob
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse-a-1847c13c-da61-4c6b-83f8-5bc711d71e83#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob](https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob-a-15fa52bb-430e-4853-94be-c1277e674d3c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse](https://www.spiegel.de/sport/olympia/olympia-news-heute-im-live-ticker-gold-curler-marc-kennedy-berichtet-von-hass-im-netz-nach-kontroverse-a-1847c13c-da61-4c6b-83f8-5bc711d71e83#ref=rss)
-* [https://www.spiegel.de/partnerschaft/liebe-wie-sie-ihre-eigenstaendigkeit-in-der-partnerschaft-erhalten](https://www.spiegel.de/partnerschaft/liebe-wie-sie-ihre-eigenstaendigkeit-in-der-partnerschaft-erhalten-a-68935a65-ac37-44e6-bc38-944dea57c2d7#ref=rss)
-### hertha
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-kassiert-fuenf-tore-in-paderborn-und-muss-den-aufstieg-wohl-abhaken](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-kassiert-fuenf-tore-in-paderborn-und-muss-den-aufstieg-wohl-abhaken-a-40516973-08d6-4ab7-9b25-b7ec31ad560d#ref=rss)
-### paderborn
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-kassiert-fuenf-tore-in-paderborn-und-muss-den-aufstieg-wohl-abhaken](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hertha-bsc-kassiert-fuenf-tore-in-paderborn-und-muss-den-aufstieg-wohl-abhaken-a-40516973-08d6-4ab7-9b25-b7ec31ad560d#ref=rss)
-### thienemannesslingerverlag
-
-* [https://www.spiegel.de/kultur/literatur/thienemann-esslinger-verlag-plagiatsvorwuerfe-gegen-buchverlag](https://www.spiegel.de/kultur/literatur/thienemann-esslinger-verlag-plagiatsvorwuerfe-gegen-buchverlag-a-14f94bd1-d673-4b8f-b27a-777b9e616167#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dortmund-schmerz-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dortmund-schmerz-im-schnellcheck-a-66bd8ac9-e0cd-4427-8f56-a18c73970904#ref=rss)
-### team
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dortmund-schmerz-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dortmund-schmerz-im-schnellcheck-a-66bd8ac9-e0cd-4427-8f56-a18c73970904#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob](https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob-a-15fa52bb-430e-4853-94be-c1277e674d3c#ref=rss)
-### fall
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dortmund-schmerz-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dortmund-schmerz-im-schnellcheck-a-66bd8ac9-e0cd-4427-8f56-a18c73970904#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-bestellt-us-botschafter-charles-kushner-ein](https://www.spiegel.de/ausland/frankreich-bestellt-us-botschafter-charles-kushner-ein-a-9e913ce8-6492-43d0-a21c-d9f7c183a1ba#ref=rss)
-### drei
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-drei-zaeune-fuer-sieben-schafe](https://www.spiegel.de/karriere/raetsel-der-woche-drei-zaeune-fuer-sieben-schafe-a-6699dcb9-80f7-45da-b76a-2ae805d7bb1b#ref=rss)
-### zäune
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-drei-zaeune-fuer-sieben-schafe](https://www.spiegel.de/karriere/raetsel-der-woche-drei-zaeune-fuer-sieben-schafe-a-6699dcb9-80f7-45da-b76a-2ae805d7bb1b#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-drei-zaeune-fuer-sieben-schafe](https://www.spiegel.de/karriere/raetsel-der-woche-drei-zaeune-fuer-sieben-schafe-a-6699dcb9-80f7-45da-b76a-2ae805d7bb1b#ref=rss)
-### schafe
-
-* [https://www.spiegel.de/karriere/raetsel-der-woche-drei-zaeune-fuer-sieben-schafe](https://www.spiegel.de/karriere/raetsel-der-woche-drei-zaeune-fuer-sieben-schafe-a-6699dcb9-80f7-45da-b76a-2ae805d7bb1b#ref=rss)
-### köln
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-in-koeln-90-jaehriger-fan-nach-sturz-bei-bundesliga-spiel-verstorben](https://www.spiegel.de/sport/fussball/bundesliga-in-koeln-90-jaehriger-fan-nach-sturz-bei-bundesliga-spiel-verstorben-a-e36212b3-d100-4703-93a8-8a2bc9ccf65d#ref=rss)
-### mann
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-in-koeln-90-jaehriger-fan-nach-sturz-bei-bundesliga-spiel-verstorben](https://www.spiegel.de/sport/fussball/bundesliga-in-koeln-90-jaehriger-fan-nach-sturz-bei-bundesliga-spiel-verstorben-a-e36212b3-d100-4703-93a8-8a2bc9ccf65d#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bewaffneter-eindringling-an-residenz-mar-a-lago-in-florida-erschossen](https://www.spiegel.de/ausland/donald-trump-bewaffneter-eindringling-an-residenz-mar-a-lago-in-florida-erschossen-a-e3a46a7b-f6ff-4a37-9eaf-cecddf2643d8#ref=rss)
-### partner
-
-* [https://www.spiegel.de/partnerschaft/liebe-wie-sie-ihre-eigenstaendigkeit-in-der-partnerschaft-erhalten](https://www.spiegel.de/partnerschaft/liebe-wie-sie-ihre-eigenstaendigkeit-in-der-partnerschaft-erhalten-a-68935a65-ac37-44e6-bc38-944dea57c2d7#ref=rss)
-* [https://www.spiegel.de/kultur/berlinale-csu-landesgruppenchef-kritisiert-abstossende-szenen-auf-preisverleihung](https://www.spiegel.de/kultur/berlinale-csu-landesgruppenchef-kritisiert-abstossende-szenen-auf-preisverleihung-a-3a84800d-1af6-4408-a0a1-714e231f67f2#ref=rss)
-### carola
-
-* [https://www.spiegel.de/geschichte/ns-euthanasie-morde-carola-rudnick-sucht-in-lueneburg-nach-den-toten](https://www.spiegel.de/geschichte/ns-euthanasie-morde-carola-rudnick-sucht-in-lueneburg-nach-den-toten-a-e2c0dbf8-98b7-4436-bcb6-18d7736b89b3#ref=rss)
-### rudnick
-
-* [https://www.spiegel.de/geschichte/ns-euthanasie-morde-carola-rudnick-sucht-in-lueneburg-nach-den-toten](https://www.spiegel.de/geschichte/ns-euthanasie-morde-carola-rudnick-sucht-in-lueneburg-nach-den-toten-a-e2c0dbf8-98b7-4436-bcb6-18d7736b89b3#ref=rss)
-### lüneburg
-
-* [https://www.spiegel.de/geschichte/ns-euthanasie-morde-carola-rudnick-sucht-in-lueneburg-nach-den-toten](https://www.spiegel.de/geschichte/ns-euthanasie-morde-carola-rudnick-sucht-in-lueneburg-nach-den-toten-a-e2c0dbf8-98b7-4436-bcb6-18d7736b89b3#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-bewaffneter-eindringling-an-residenz-mar-a-lago-in-florida-erschossen](https://www.spiegel.de/ausland/donald-trump-bewaffneter-eindringling-an-residenz-mar-a-lago-in-florida-erschossen-a-e3a46a7b-f6ff-4a37-9eaf-cecddf2643d8#ref=rss)
-### florida
-
-* [https://www.spiegel.de/ausland/donald-trump-bewaffneter-eindringling-an-residenz-mar-a-lago-in-florida-erschossen](https://www.spiegel.de/ausland/donald-trump-bewaffneter-eindringling-an-residenz-mar-a-lago-in-florida-erschossen-a-e3a46a7b-f6ff-4a37-9eaf-cecddf2643d8#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/donald-trump-bewaffneter-eindringling-an-residenz-mar-a-lago-in-florida-erschossen](https://www.spiegel.de/ausland/donald-trump-bewaffneter-eindringling-an-residenz-mar-a-lago-in-florida-erschossen-a-e3a46a7b-f6ff-4a37-9eaf-cecddf2643d8#ref=rss)
-* [https://www.spiegel.de/ausland/groenland-daenemark-lehnt-trumps-lazarettschiff-fuer-groenland-ab](https://www.spiegel.de/ausland/groenland-daenemark-lehnt-trumps-lazarettschiff-fuer-groenland-ab-a-86694e61-b05d-4b8b-b6a2-4c4c53cedd26#ref=rss)
-### usbotschafter
-
-* [https://www.spiegel.de/ausland/frankreich-bestellt-us-botschafter-charles-kushner-ein](https://www.spiegel.de/ausland/frankreich-bestellt-us-botschafter-charles-kushner-ein-a-9e913ce8-6492-43d0-a21c-d9f7c183a1ba#ref=rss)
-### kommentar
-
-* [https://www.spiegel.de/ausland/frankreich-bestellt-us-botschafter-charles-kushner-ein](https://www.spiegel.de/ausland/frankreich-bestellt-us-botschafter-charles-kushner-ein-a-9e913ce8-6492-43d0-a21c-d9f7c183a1ba#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-wolodymyr-selenskyj-warnt-wladimir-putin-habe-dritten-weltkrieg-bereits-begonnen](https://www.spiegel.de/ausland/ukrainekrieg-wolodymyr-selenskyj-warnt-wladimir-putin-habe-dritten-weltkrieg-bereits-begonnen-a-5df5cccb-3d84-452d-9c48-233f2a051db1#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-nennt-entwicklung-von-atomstreitkraeften-absolute-prioritaet](https://www.spiegel.de/ausland/russland-wladimir-putin-nennt-entwicklung-von-atomstreitkraeften-absolute-prioritaet-a-f76aab76-85a7-4c83-9401-34a5c398e635#ref=rss)
 ### aktivisten
 
-* [https://www.spiegel.de/ausland/frankreich-bestellt-us-botschafter-charles-kushner-ein](https://www.spiegel.de/ausland/frankreich-bestellt-us-botschafter-charles-kushner-ein-a-9e913ce8-6492-43d0-a21c-d9f7c183a1ba#ref=rss)
-### johannes
+* [https://www.spiegel.de/kultur/fall-jeffrey-epstein-aktivisten-haengen-bild-von-ex-prinz-andrew-im-louvre-auf](https://www.spiegel.de/kultur/fall-jeffrey-epstein-aktivisten-haengen-bild-von-ex-prinz-andrew-im-louvre-auf-a-f61743c0-b468-421b-87dc-d4a8e681ae57#ref=rss)
+### bild
 
-* [https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob](https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob-a-15fa52bb-430e-4853-94be-c1277e674d3c#ref=rss)
-### lochner
+* [https://www.spiegel.de/kultur/fall-jeffrey-epstein-aktivisten-haengen-bild-von-ex-prinz-andrew-im-louvre-auf](https://www.spiegel.de/kultur/fall-jeffrey-epstein-aktivisten-haengen-bild-von-ex-prinz-andrew-im-louvre-auf-a-f61743c0-b468-421b-87dc-d4a8e681ae57#ref=rss)
+### exprinz
 
-* [https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob](https://www.spiegel.de/sport/wintersport/olympia-2026-johannes-lochner-beendet-karriere-mit-gold-im-viererbob-a-15fa52bb-430e-4853-94be-c1277e674d3c#ref=rss)
-### sagt
+* [https://www.spiegel.de/kultur/fall-jeffrey-epstein-aktivisten-haengen-bild-von-ex-prinz-andrew-im-louvre-auf](https://www.spiegel.de/kultur/fall-jeffrey-epstein-aktivisten-haengen-bild-von-ex-prinz-andrew-im-louvre-auf-a-f61743c0-b468-421b-87dc-d4a8e681ae57#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-william-und-kate-mit-pokerface-auf-dem-roten-teppich](https://www.spiegel.de/panorama/leute/prinz-william-und-kate-mit-pokerface-auf-dem-roten-teppich-a-13c4b777-7184-4171-bbe9-c4bf872c8272#ref=rss)
+### andrew
 
-* [https://www.spiegel.de/ausland/groenland-daenemark-lehnt-trumps-lazarettschiff-fuer-groenland-ab](https://www.spiegel.de/ausland/groenland-daenemark-lehnt-trumps-lazarettschiff-fuer-groenland-ab-a-86694e61-b05d-4b8b-b6a2-4c4c53cedd26#ref=rss)
-* [https://www.spiegel.de/sport/joseph-blatter-nennt-fifa-unter-gianni-infantino-totale-diktatur](https://www.spiegel.de/sport/joseph-blatter-nennt-fifa-unter-gianni-infantino-totale-diktatur-a-a2f1d431-8493-45fa-932c-bf5f5f58fdac#ref=rss)
-### sorgt
+* [https://www.spiegel.de/kultur/fall-jeffrey-epstein-aktivisten-haengen-bild-von-ex-prinz-andrew-im-louvre-auf](https://www.spiegel.de/kultur/fall-jeffrey-epstein-aktivisten-haengen-bild-von-ex-prinz-andrew-im-louvre-auf-a-f61743c0-b468-421b-87dc-d4a8e681ae57#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-william-und-kate-mit-pokerface-auf-dem-roten-teppich](https://www.spiegel.de/panorama/leute/prinz-william-und-kate-mit-pokerface-auf-dem-roten-teppich-a-13c4b777-7184-4171-bbe9-c4bf872c8272#ref=rss)
+### louvre
 
-* [https://www.spiegel.de/wirtschaft/protektionismus-mehrheit-unterstuetzt-made-in-europe-vorgaben-der-eu](https://www.spiegel.de/wirtschaft/protektionismus-mehrheit-unterstuetzt-made-in-europe-vorgaben-der-eu-a-de4a3cc3-4e22-463d-b15d-e1929667029d#ref=rss)
-* [https://www.spiegel.de/kultur/berlinale-csu-landesgruppenchef-kritisiert-abstossende-szenen-auf-preisverleihung](https://www.spiegel.de/kultur/berlinale-csu-landesgruppenchef-kritisiert-abstossende-szenen-auf-preisverleihung-a-3a84800d-1af6-4408-a0a1-714e231f67f2#ref=rss)
-### pamela
+* [https://www.spiegel.de/kultur/fall-jeffrey-epstein-aktivisten-haengen-bild-von-ex-prinz-andrew-im-louvre-auf](https://www.spiegel.de/kultur/fall-jeffrey-epstein-aktivisten-haengen-bild-von-ex-prinz-andrew-im-louvre-auf-a-f61743c0-b468-421b-87dc-d4a8e681ae57#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/kultur/kino/berlinale-pamela-anderson-channing-tatum-lars-eidinger-isabelle-huppert](https://www.spiegel.de/kultur/kino/berlinale-pamela-anderson-channing-tatum-lars-eidinger-isabelle-huppert-a-fad7c476-02ec-43b9-80fc-c908f44839f7#ref=rss)
-### anderson
+* [https://www.spiegel.de/kultur/fall-jeffrey-epstein-aktivisten-haengen-bild-von-ex-prinz-andrew-im-louvre-auf](https://www.spiegel.de/kultur/fall-jeffrey-epstein-aktivisten-haengen-bild-von-ex-prinz-andrew-im-louvre-auf-a-f61743c0-b468-421b-87dc-d4a8e681ae57#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bayern-mann-erschiesst-offenbar-zwei-kinder-seine-frau-und-sich-selbst](https://www.spiegel.de/panorama/justiz/bayern-mann-erschiesst-offenbar-zwei-kinder-seine-frau-und-sich-selbst-a-34dbb4ce-f20a-4f38-a4b6-170c2bb6971b#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/kultur/kino/berlinale-pamela-anderson-channing-tatum-lars-eidinger-isabelle-huppert](https://www.spiegel.de/kultur/kino/berlinale-pamela-anderson-channing-tatum-lars-eidinger-isabelle-huppert-a-fad7c476-02ec-43b9-80fc-c908f44839f7#ref=rss)
-### channing
+* [https://www.spiegel.de/kultur/fall-jeffrey-epstein-aktivisten-haengen-bild-von-ex-prinz-andrew-im-louvre-auf](https://www.spiegel.de/kultur/fall-jeffrey-epstein-aktivisten-haengen-bild-von-ex-prinz-andrew-im-louvre-auf-a-f61743c0-b468-421b-87dc-d4a8e681ae57#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/olympia-fbi-chef-kash-patel-feiert-ausgelassene-kabinenparty-mit-us-eishockeyteam](https://www.spiegel.de/sport/wintersport/olympia-fbi-chef-kash-patel-feiert-ausgelassene-kabinenparty-mit-us-eishockeyteam-a-526385d1-b9aa-4ad6-a40e-10095b74b24d#ref=rss)
+### welt
 
-* [https://www.spiegel.de/kultur/kino/berlinale-pamela-anderson-channing-tatum-lars-eidinger-isabelle-huppert](https://www.spiegel.de/kultur/kino/berlinale-pamela-anderson-channing-tatum-lars-eidinger-isabelle-huppert-a-fad7c476-02ec-43b9-80fc-c908f44839f7#ref=rss)
-### tatum
+* [https://www.spiegel.de/kultur/fall-jeffrey-epstein-aktivisten-haengen-bild-von-ex-prinz-andrew-im-louvre-auf](https://www.spiegel.de/kultur/fall-jeffrey-epstein-aktivisten-haengen-bild-von-ex-prinz-andrew-im-louvre-auf-a-f61743c0-b468-421b-87dc-d4a8e681ae57#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutschland-behauptet-platz-drei-der-weltgroessten-volkswirtschaften](https://www.spiegel.de/wirtschaft/deutschland-behauptet-platz-drei-der-weltgroessten-volkswirtschaften-a-f2a9b224-81db-49e1-a749-70ec94afb8d3#ref=rss)
+### winterspiele
 
-* [https://www.spiegel.de/kultur/kino/berlinale-pamela-anderson-channing-tatum-lars-eidinger-isabelle-huppert](https://www.spiegel.de/kultur/kino/berlinale-pamela-anderson-channing-tatum-lars-eidinger-isabelle-huppert-a-fad7c476-02ec-43b9-80fc-c908f44839f7#ref=rss)
-### umweltminister
+* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-austragung-in-mehreren-laendern-basketball-im-programm-ist-das-die-zukunft](https://www.spiegel.de/sport/olympia/olympische-winterspiele-austragung-in-mehreren-laendern-basketball-im-programm-ist-das-die-zukunft-a-6586e04c-ffa7-4929-95f8-b955b6508e08#ref=rss)
+### zukunft
 
-* [https://www.spiegel.de/kultur/berlinale-csu-landesgruppenchef-kritisiert-abstossende-szenen-auf-preisverleihung](https://www.spiegel.de/kultur/berlinale-csu-landesgruppenchef-kritisiert-abstossende-szenen-auf-preisverleihung-a-3a84800d-1af6-4408-a0a1-714e231f67f2#ref=rss)
-### schneider
+* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-austragung-in-mehreren-laendern-basketball-im-programm-ist-das-die-zukunft](https://www.spiegel.de/sport/olympia/olympische-winterspiele-austragung-in-mehreren-laendern-basketball-im-programm-ist-das-die-zukunft-a-6586e04c-ffa7-4929-95f8-b955b6508e08#ref=rss)
+### gelten
 
-* [https://www.spiegel.de/kultur/berlinale-csu-landesgruppenchef-kritisiert-abstossende-szenen-auf-preisverleihung](https://www.spiegel.de/kultur/berlinale-csu-landesgruppenchef-kritisiert-abstossende-szenen-auf-preisverleihung-a-3a84800d-1af6-4408-a0a1-714e231f67f2#ref=rss)
-### blatter
+* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-austragung-in-mehreren-laendern-basketball-im-programm-ist-das-die-zukunft](https://www.spiegel.de/sport/olympia/olympische-winterspiele-austragung-in-mehreren-laendern-basketball-im-programm-ist-das-die-zukunft-a-6586e04c-ffa7-4929-95f8-b955b6508e08#ref=rss)
+* [https://www.spiegel.de/panorama/schweiz-zwei-tote-durch-lawinenabgaenge-in-graubuenden](https://www.spiegel.de/panorama/schweiz-zwei-tote-durch-lawinenabgaenge-in-graubuenden-a-7f9c3d3a-ffca-4c39-96c0-657d790166ee#ref=rss)
+### intelligenz
 
-* [https://www.spiegel.de/sport/joseph-blatter-nennt-fifa-unter-gianni-infantino-totale-diktatur](https://www.spiegel.de/sport/joseph-blatter-nennt-fifa-unter-gianni-infantino-totale-diktatur-a-a2f1d431-8493-45fa-932c-bf5f5f58fdac#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-woran-super-recognizer-ki-generierte-gesichter-erkennen](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-woran-super-recognizer-ki-generierte-gesichter-erkennen-a-3a05d86c-a623-480d-b6ca-170c0ed04349#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-woran-super-recognizer-ki-generierte-gesichter-erkennen](https://www.spiegel.de/wissenschaft/mensch/kuenstliche-intelligenz-woran-super-recognizer-ki-generierte-gesichter-erkennen-a-3a05d86c-a623-480d-b6ca-170c0ed04349#ref=rss)
+* [https://www.spiegel.de/panorama/schweiz-zwei-tote-durch-lawinenabgaenge-in-graubuenden](https://www.spiegel.de/panorama/schweiz-zwei-tote-durch-lawinenabgaenge-in-graubuenden-a-7f9c3d3a-ffca-4c39-96c0-657d790166ee#ref=rss)
+### martin
+
+* [https://www.spiegel.de/kultur/literatur/martin-suter-will-nicht-von-jedem-geduzt-werden](https://www.spiegel.de/kultur/literatur/martin-suter-will-nicht-von-jedem-geduzt-werden-a-6fef9383-a5ce-4497-8080-a3fb972eae78#ref=rss)
+### suter
+
+* [https://www.spiegel.de/kultur/literatur/martin-suter-will-nicht-von-jedem-geduzt-werden](https://www.spiegel.de/kultur/literatur/martin-suter-will-nicht-von-jedem-geduzt-werden-a-6fef9383-a5ce-4497-8080-a3fb972eae78#ref=rss)
+### schweizer
+
+* [https://www.spiegel.de/kultur/literatur/martin-suter-will-nicht-von-jedem-geduzt-werden](https://www.spiegel.de/kultur/literatur/martin-suter-will-nicht-von-jedem-geduzt-werden-a-6fef9383-a5ce-4497-8080-a3fb972eae78#ref=rss)
+* [https://www.spiegel.de/panorama/schweiz-zwei-tote-durch-lawinenabgaenge-in-graubuenden](https://www.spiegel.de/panorama/schweiz-zwei-tote-durch-lawinenabgaenge-in-graubuenden-a-7f9c3d3a-ffca-4c39-96c0-657d790166ee#ref=rss)
+### auftreten
+
+* [https://www.spiegel.de/kultur/literatur/martin-suter-will-nicht-von-jedem-geduzt-werden](https://www.spiegel.de/kultur/literatur/martin-suter-will-nicht-von-jedem-geduzt-werden-a-6fef9383-a5ce-4497-8080-a3fb972eae78#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/olympia-fbi-chef-kash-patel-feiert-ausgelassene-kabinenparty-mit-us-eishockeyteam](https://www.spiegel.de/sport/wintersport/olympia-fbi-chef-kash-patel-feiert-ausgelassene-kabinenparty-mit-us-eishockeyteam-a-526385d1-b9aa-4ad6-a40e-10095b74b24d#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/ukraine-vier-jahre-krieg-und-die-gescheiterte-russische-offensive](https://www.spiegel.de/ausland/ukraine-vier-jahre-krieg-und-die-gescheiterte-russische-offensive-a-27afc7fb-b0a6-418d-854a-b7306bae07ad#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/ukraine-vier-jahre-krieg-und-die-gescheiterte-russische-offensive](https://www.spiegel.de/ausland/ukraine-vier-jahre-krieg-und-die-gescheiterte-russische-offensive-a-27afc7fb-b0a6-418d-854a-b7306bae07ad#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/mit-fuenf-noch-windeln-tragen-warum-kinder-heute-spaeter-trocken-werden](https://www.spiegel.de/wissenschaft/mensch/mit-fuenf-noch-windeln-tragen-warum-kinder-heute-spaeter-trocken-werden-a-5ed4ed61-3507-4d1b-9592-2c9c749d8c94#ref=rss)
+### rassismus
+
+* [https://www.spiegel.de/politik/deutschland/rassismus-in-behoerden-die-studie-ueber-die-alexander-dobrindt-nicht-reden-will](https://www.spiegel.de/politik/deutschland/rassismus-in-behoerden-die-studie-ueber-die-alexander-dobrindt-nicht-reden-will-a-8cce1715-93a6-4c61-b786-ac9504cb33d3#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/politik/deutschland/rassismus-in-behoerden-die-studie-ueber-die-alexander-dobrindt-nicht-reden-will](https://www.spiegel.de/politik/deutschland/rassismus-in-behoerden-die-studie-ueber-die-alexander-dobrindt-nicht-reden-will-a-8cce1715-93a6-4c61-b786-ac9504cb33d3#ref=rss)
+### dobrindt
+
+* [https://www.spiegel.de/politik/deutschland/rassismus-in-behoerden-die-studie-ueber-die-alexander-dobrindt-nicht-reden-will](https://www.spiegel.de/politik/deutschland/rassismus-in-behoerden-die-studie-ueber-die-alexander-dobrindt-nicht-reden-will-a-8cce1715-93a6-4c61-b786-ac9504cb33d3#ref=rss)
+### filderstadt
+
+* [https://www.spiegel.de/panorama/justiz/filderstadt-frauenleiche-in-koffer-anklage-erhoben](https://www.spiegel.de/panorama/justiz/filderstadt-frauenleiche-in-koffer-anklage-erhoben-a-14345393-fba9-412b-b571-37dfd354ceef#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/bayern-mann-erschiesst-offenbar-zwei-kinder-seine-frau-und-sich-selbst](https://www.spiegel.de/panorama/justiz/bayern-mann-erschiesst-offenbar-zwei-kinder-seine-frau-und-sich-selbst-a-34dbb4ce-f20a-4f38-a4b6-170c2bb6971b#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/panorama/baseler-fastnacht-lichter-aus-die-fratzen-kommen](https://www.spiegel.de/panorama/baseler-fastnacht-lichter-aus-die-fratzen-kommen-a-1dc5c58e-d385-4cc4-b17f-9b2a5eafcf62#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/olympia-fbi-chef-kash-patel-feiert-ausgelassene-kabinenparty-mit-us-eishockeyteam](https://www.spiegel.de/sport/wintersport/olympia-fbi-chef-kash-patel-feiert-ausgelassene-kabinenparty-mit-us-eishockeyteam-a-526385d1-b9aa-4ad6-a40e-10095b74b24d#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/ausland/friedrich-merz-vs-donald-trump-das-ende-des-transatlantikers](https://www.spiegel.de/ausland/friedrich-merz-vs-donald-trump-das-ende-des-transatlantikers-a-026e488d-2bc8-47fc-858f-989ad1555752#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/friedrich-merz-vs-donald-trump-das-ende-des-transatlantikers](https://www.spiegel.de/ausland/friedrich-merz-vs-donald-trump-das-ende-des-transatlantikers-a-026e488d-2bc8-47fc-858f-989ad1555752#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-zollpolitik-donald-trump-bischofskonferenz-georg-baetzing-annegret-kramp-karrenbauer-bundeskanzler](https://www.spiegel.de/politik/deutschland/news-us-zollpolitik-donald-trump-bischofskonferenz-georg-baetzing-annegret-kramp-karrenbauer-bundeskanzler-a-d0b207e6-4d74-438a-a72c-26c06468952b#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/friedrich-merz-vs-donald-trump-das-ende-des-transatlantikers](https://www.spiegel.de/ausland/friedrich-merz-vs-donald-trump-das-ende-des-transatlantikers-a-026e488d-2bc8-47fc-858f-989ad1555752#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-zollpolitik-donald-trump-bischofskonferenz-georg-baetzing-annegret-kramp-karrenbauer-bundeskanzler](https://www.spiegel.de/politik/deutschland/news-us-zollpolitik-donald-trump-bischofskonferenz-georg-baetzing-annegret-kramp-karrenbauer-bundeskanzler-a-d0b207e6-4d74-438a-a72c-26c06468952b#ref=rss)
+### transatlantikers
+
+* [https://www.spiegel.de/ausland/friedrich-merz-vs-donald-trump-das-ende-des-transatlantikers](https://www.spiegel.de/ausland/friedrich-merz-vs-donald-trump-das-ende-des-transatlantikers-a-026e488d-2bc8-47fc-858f-989ad1555752#ref=rss)
+### william
+
+* [https://www.spiegel.de/panorama/leute/prinz-william-und-kate-mit-pokerface-auf-dem-roten-teppich](https://www.spiegel.de/panorama/leute/prinz-william-und-kate-mit-pokerface-auf-dem-roten-teppich-a-13c4b777-7184-4171-bbe9-c4bf872c8272#ref=rss)
+### kate
+
+* [https://www.spiegel.de/panorama/leute/prinz-william-und-kate-mit-pokerface-auf-dem-roten-teppich](https://www.spiegel.de/panorama/leute/prinz-william-und-kate-mit-pokerface-auf-dem-roten-teppich-a-13c4b777-7184-4171-bbe9-c4bf872c8272#ref=rss)
+### rosenheim
+
+* [https://www.spiegel.de/start/studieren-in-rosenheim-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-rosenheim-campus-wohnviertel-wg-zimmer-preise-kneipen-a-61487999-323e-4f83-9a95-5caec46ff548#ref=rss)
+### lieber
+
+* [https://www.spiegel.de/start/studieren-in-rosenheim-campus-wohnviertel-wg-zimmer-preise-kneipen](https://www.spiegel.de/start/studieren-in-rosenheim-campus-wohnviertel-wg-zimmer-preise-kneipen-a-61487999-323e-4f83-9a95-5caec46ff548#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krankenkassen-andreas-gassen-spricht-sich-fuer-abschaffung-freiwilliger-leistungen-aus](https://www.spiegel.de/wirtschaft/krankenkassen-andreas-gassen-spricht-sich-fuer-abschaffung-freiwilliger-leistungen-aus-a-724212f0-2d99-49d3-89b8-be0da5c15fef#ref=rss)
+### wadephul
+
+* [https://www.spiegel.de/ausland/ukraine-darlehen-ungarn-droht-mit-blockade-johann-wadephul-fordert-umdenken](https://www.spiegel.de/ausland/ukraine-darlehen-ungarn-droht-mit-blockade-johann-wadephul-fordert-umdenken-a-65ed45a1-aa33-48dc-8824-a78b334cde85#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/ukraine-darlehen-ungarn-droht-mit-blockade-johann-wadephul-fordert-umdenken](https://www.spiegel.de/ausland/ukraine-darlehen-ungarn-droht-mit-blockade-johann-wadephul-fordert-umdenken-a-65ed45a1-aa33-48dc-8824-a78b334cde85#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-zollpolitik-donald-trump-bischofskonferenz-georg-baetzing-annegret-kramp-karrenbauer-bundeskanzler](https://www.spiegel.de/politik/deutschland/news-us-zollpolitik-donald-trump-bischofskonferenz-georg-baetzing-annegret-kramp-karrenbauer-bundeskanzler-a-d0b207e6-4d74-438a-a72c-26c06468952b#ref=rss)
+### reagiert
+
+* [https://www.spiegel.de/ausland/ukraine-darlehen-ungarn-droht-mit-blockade-johann-wadephul-fordert-umdenken](https://www.spiegel.de/ausland/ukraine-darlehen-ungarn-droht-mit-blockade-johann-wadephul-fordert-umdenken-a-65ed45a1-aa33-48dc-8824-a78b334cde85#ref=rss)
+* [https://www.spiegel.de/ausland/drogen-boss-el-mencho-in-mexiko-getoetet-sein-kartell-cjng-reagiert-mit-gewalt](https://www.spiegel.de/ausland/drogen-boss-el-mencho-in-mexiko-getoetet-sein-kartell-cjng-reagiert-mit-gewalt-a-532649fd-6ff5-482a-9ae5-f1dc3a340f11#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/ausland/ukraine-darlehen-ungarn-droht-mit-blockade-johann-wadephul-fordert-umdenken](https://www.spiegel.de/ausland/ukraine-darlehen-ungarn-droht-mit-blockade-johann-wadephul-fordert-umdenken-a-65ed45a1-aa33-48dc-8824-a78b334cde85#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-spd-kritisiert-beschluesse-zu-sozialem-und-wehrdienst](https://www.spiegel.de/politik/deutschland/cdu-parteitag-spd-kritisiert-beschluesse-zu-sozialem-und-wehrdienst-a-bf6b4e24-5938-478c-8d34-c2faacadf5c1#ref=rss)
+### olympia
+
+* [https://www.spiegel.de/sport/wintersport/olympia-fbi-chef-kash-patel-feiert-ausgelassene-kabinenparty-mit-us-eishockeyteam](https://www.spiegel.de/sport/wintersport/olympia-fbi-chef-kash-patel-feiert-ausgelassene-kabinenparty-mit-us-eishockeyteam-a-526385d1-b9aa-4ad6-a40e-10095b74b24d#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2026-der-medaillenspiegel-als-fanschal](https://www.spiegel.de/sport/olympia/olympia-2026-der-medaillenspiegel-als-fanschal-a-12fc91a8-09da-4c31-905d-d0930ec2c0a8#ref=rss)
+### kash
+
+* [https://www.spiegel.de/sport/wintersport/olympia-fbi-chef-kash-patel-feiert-ausgelassene-kabinenparty-mit-us-eishockeyteam](https://www.spiegel.de/sport/wintersport/olympia-fbi-chef-kash-patel-feiert-ausgelassene-kabinenparty-mit-us-eishockeyteam-a-526385d1-b9aa-4ad6-a40e-10095b74b24d#ref=rss)
+### patel
+
+* [https://www.spiegel.de/sport/wintersport/olympia-fbi-chef-kash-patel-feiert-ausgelassene-kabinenparty-mit-us-eishockeyteam](https://www.spiegel.de/sport/wintersport/olympia-fbi-chef-kash-patel-feiert-ausgelassene-kabinenparty-mit-us-eishockeyteam-a-526385d1-b9aa-4ad6-a40e-10095b74b24d#ref=rss)
+### feiert
+
+* [https://www.spiegel.de/sport/wintersport/olympia-fbi-chef-kash-patel-feiert-ausgelassene-kabinenparty-mit-us-eishockeyteam](https://www.spiegel.de/sport/wintersport/olympia-fbi-chef-kash-patel-feiert-ausgelassene-kabinenparty-mit-us-eishockeyteam-a-526385d1-b9aa-4ad6-a40e-10095b74b24d#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-nennt-entwicklung-von-atomstreitkraeften-absolute-prioritaet](https://www.spiegel.de/ausland/russland-wladimir-putin-nennt-entwicklung-von-atomstreitkraeften-absolute-prioritaet-a-f76aab76-85a7-4c83-9401-34a5c398e635#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/sport/wintersport/olympia-fbi-chef-kash-patel-feiert-ausgelassene-kabinenparty-mit-us-eishockeyteam](https://www.spiegel.de/sport/wintersport/olympia-fbi-chef-kash-patel-feiert-ausgelassene-kabinenparty-mit-us-eishockeyteam-a-526385d1-b9aa-4ad6-a40e-10095b74b24d#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putin-nennt-entwicklung-von-atomstreitkraeften-absolute-prioritaet](https://www.spiegel.de/ausland/russland-wladimir-putin-nennt-entwicklung-von-atomstreitkraeften-absolute-prioritaet-a-f76aab76-85a7-4c83-9401-34a5c398e635#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-spd-kritisiert-beschluesse-zu-sozialem-und-wehrdienst](https://www.spiegel.de/politik/deutschland/cdu-parteitag-spd-kritisiert-beschluesse-zu-sozialem-und-wehrdienst-a-bf6b4e24-5938-478c-8d34-c2faacadf5c1#ref=rss)
+### wehrdienst
+
+* [https://www.spiegel.de/politik/deutschland/cdu-parteitag-spd-kritisiert-beschluesse-zu-sozialem-und-wehrdienst](https://www.spiegel.de/politik/deutschland/cdu-parteitag-spd-kritisiert-beschluesse-zu-sozialem-und-wehrdienst-a-bf6b4e24-5938-478c-8d34-c2faacadf5c1#ref=rss)
+### medaillenspiegel
+
+* [https://www.spiegel.de/sport/olympia/olympia-2026-der-medaillenspiegel-als-fanschal](https://www.spiegel.de/sport/olympia/olympia-2026-der-medaillenspiegel-als-fanschal-a-12fc91a8-09da-4c31-905d-d0930ec2c0a8#ref=rss)
+### nie
+
+* [https://www.spiegel.de/sport/olympia/olympia-2026-der-medaillenspiegel-als-fanschal](https://www.spiegel.de/sport/olympia/olympia-2026-der-medaillenspiegel-als-fanschal-a-12fc91a8-09da-4c31-905d-d0930ec2c0a8#ref=rss)
+* [https://www.spiegel.de/karriere/equal-pay-day-frauen-koennen-rueckwirkend-gehaltsunterschiede-einklagen](https://www.spiegel.de/karriere/equal-pay-day-frauen-koennen-rueckwirkend-gehaltsunterschiede-einklagen-a-21138727-e398-46ba-b6e1-e4900acd24ed#ref=rss)
+### länder
+
+* [https://www.spiegel.de/sport/olympia/olympia-2026-der-medaillenspiegel-als-fanschal](https://www.spiegel.de/sport/olympia/olympia-2026-der-medaillenspiegel-als-fanschal-a-12fc91a8-09da-4c31-905d-d0930ec2c0a8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutschland-behauptet-platz-drei-der-weltgroessten-volkswirtschaften](https://www.spiegel.de/wirtschaft/deutschland-behauptet-platz-drei-der-weltgroessten-volkswirtschaften-a-f2a9b224-81db-49e1-a749-70ec94afb8d3#ref=rss)
+### graubünden
+
+* [https://www.spiegel.de/panorama/schweiz-zwei-tote-durch-lawinenabgaenge-in-graubuenden](https://www.spiegel.de/panorama/schweiz-zwei-tote-durch-lawinenabgaenge-in-graubuenden-a-7f9c3d3a-ffca-4c39-96c0-657d790166ee#ref=rss)
+### drei
+
+* [https://www.spiegel.de/wirtschaft/deutschland-behauptet-platz-drei-der-weltgroessten-volkswirtschaften](https://www.spiegel.de/wirtschaft/deutschland-behauptet-platz-drei-der-weltgroessten-volkswirtschaften-a-f2a9b224-81db-49e1-a749-70ec94afb8d3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/mit-fuenf-noch-windeln-tragen-warum-kinder-heute-spaeter-trocken-werden](https://www.spiegel.de/wissenschaft/mensch/mit-fuenf-noch-windeln-tragen-warum-kinder-heute-spaeter-trocken-werden-a-5ed4ed61-3507-4d1b-9592-2c9c749d8c94#ref=rss)
+### andere
+
+* [https://www.spiegel.de/wirtschaft/deutschland-behauptet-platz-drei-der-weltgroessten-volkswirtschaften](https://www.spiegel.de/wirtschaft/deutschland-behauptet-platz-drei-der-weltgroessten-volkswirtschaften-a-f2a9b224-81db-49e1-a749-70ec94afb8d3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krankenkassen-andreas-gassen-spricht-sich-fuer-abschaffung-freiwilliger-leistungen-aus](https://www.spiegel.de/wirtschaft/krankenkassen-andreas-gassen-spricht-sich-fuer-abschaffung-freiwilliger-leistungen-aus-a-724212f0-2d99-49d3-89b8-be0da5c15fef#ref=rss)
+### finden
+
+* [https://www.spiegel.de/wirtschaft/deutschland-behauptet-platz-drei-der-weltgroessten-volkswirtschaften](https://www.spiegel.de/wirtschaft/deutschland-behauptet-platz-drei-der-weltgroessten-volkswirtschaften-a-f2a9b224-81db-49e1-a749-70ec94afb8d3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-us-zollpolitik-donald-trump-bischofskonferenz-georg-baetzing-annegret-kramp-karrenbauer-bundeskanzler](https://www.spiegel.de/politik/deutschland/news-us-zollpolitik-donald-trump-bischofskonferenz-georg-baetzing-annegret-kramp-karrenbauer-bundeskanzler-a-d0b207e6-4d74-438a-a72c-26c06468952b#ref=rss)
+### cotti
+
+* [https://www.spiegel.de/wirtschaft/service/starbucks-konkurrent-cotti-coffee-expandiert-mit-kampfpreisen-nach-deutschland](https://www.spiegel.de/wirtschaft/service/starbucks-konkurrent-cotti-coffee-expandiert-mit-kampfpreisen-nach-deutschland-a-23b9d49d-91dd-4516-92f0-fff13942a021#ref=rss)
+### coffee
+
+* [https://www.spiegel.de/wirtschaft/service/starbucks-konkurrent-cotti-coffee-expandiert-mit-kampfpreisen-nach-deutschland](https://www.spiegel.de/wirtschaft/service/starbucks-konkurrent-cotti-coffee-expandiert-mit-kampfpreisen-nach-deutschland-a-23b9d49d-91dd-4516-92f0-fff13942a021#ref=rss)
+### sparkasse
+
+* [https://www.spiegel.de/wirtschaft/gelsenkirchen-sparkasse-verlangt-von-bestohlener-kundin-zinsen-fuer-ueberbrueckungskredit](https://www.spiegel.de/wirtschaft/gelsenkirchen-sparkasse-verlangt-von-bestohlener-kundin-zinsen-fuer-ueberbrueckungskredit-a-811d2fe6-fec7-4ccd-b4ff-b1e6762d3e26#ref=rss)
+### kundin
+
+* [https://www.spiegel.de/wirtschaft/gelsenkirchen-sparkasse-verlangt-von-bestohlener-kundin-zinsen-fuer-ueberbrueckungskredit](https://www.spiegel.de/wirtschaft/gelsenkirchen-sparkasse-verlangt-von-bestohlener-kundin-zinsen-fuer-ueberbrueckungskredit-a-811d2fe6-fec7-4ccd-b4ff-b1e6762d3e26#ref=rss)
+### zinsen
+
+* [https://www.spiegel.de/wirtschaft/gelsenkirchen-sparkasse-verlangt-von-bestohlener-kundin-zinsen-fuer-ueberbrueckungskredit](https://www.spiegel.de/wirtschaft/gelsenkirchen-sparkasse-verlangt-von-bestohlener-kundin-zinsen-fuer-ueberbrueckungskredit-a-811d2fe6-fec7-4ccd-b4ff-b1e6762d3e26#ref=rss)
+### überbrückungskredit
+
+* [https://www.spiegel.de/wirtschaft/gelsenkirchen-sparkasse-verlangt-von-bestohlener-kundin-zinsen-fuer-ueberbrueckungskredit](https://www.spiegel.de/wirtschaft/gelsenkirchen-sparkasse-verlangt-von-bestohlener-kundin-zinsen-fuer-ueberbrueckungskredit-a-811d2fe6-fec7-4ccd-b4ff-b1e6762d3e26#ref=rss)
+### wolodymyr
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-wolodymyr-selenskyj-warnt-wladimir-putin-habe-dritten-weltkrieg-bereits-begonnen](https://www.spiegel.de/ausland/ukrainekrieg-wolodymyr-selenskyj-warnt-wladimir-putin-habe-dritten-weltkrieg-bereits-begonnen-a-5df5cccb-3d84-452d-9c48-233f2a051db1#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-wolodymyr-selenskyj-warnt-wladimir-putin-habe-dritten-weltkrieg-bereits-begonnen](https://www.spiegel.de/ausland/ukrainekrieg-wolodymyr-selenskyj-warnt-wladimir-putin-habe-dritten-weltkrieg-bereits-begonnen-a-5df5cccb-3d84-452d-9c48-233f2a051db1#ref=rss)
+### krankenkassen
+
+* [https://www.spiegel.de/wirtschaft/krankenkassen-andreas-gassen-spricht-sich-fuer-abschaffung-freiwilliger-leistungen-aus](https://www.spiegel.de/wirtschaft/krankenkassen-andreas-gassen-spricht-sich-fuer-abschaffung-freiwilliger-leistungen-aus-a-724212f0-2d99-49d3-89b8-be0da5c15fef#ref=rss)
+### andreas
+
+* [https://www.spiegel.de/wirtschaft/krankenkassen-andreas-gassen-spricht-sich-fuer-abschaffung-freiwilliger-leistungen-aus](https://www.spiegel.de/wirtschaft/krankenkassen-andreas-gassen-spricht-sich-fuer-abschaffung-freiwilliger-leistungen-aus-a-724212f0-2d99-49d3-89b8-be0da5c15fef#ref=rss)
+### gassen
+
+* [https://www.spiegel.de/wirtschaft/krankenkassen-andreas-gassen-spricht-sich-fuer-abschaffung-freiwilliger-leistungen-aus](https://www.spiegel.de/wirtschaft/krankenkassen-andreas-gassen-spricht-sich-fuer-abschaffung-freiwilliger-leistungen-aus-a-724212f0-2d99-49d3-89b8-be0da5c15fef#ref=rss)
+### leistungen
+
+* [https://www.spiegel.de/wirtschaft/krankenkassen-andreas-gassen-spricht-sich-fuer-abschaffung-freiwilliger-leistungen-aus](https://www.spiegel.de/wirtschaft/krankenkassen-andreas-gassen-spricht-sich-fuer-abschaffung-freiwilliger-leistungen-aus-a-724212f0-2d99-49d3-89b8-be0da5c15fef#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/wirtschaft/krankenkassen-andreas-gassen-spricht-sich-fuer-abschaffung-freiwilliger-leistungen-aus](https://www.spiegel.de/wirtschaft/krankenkassen-andreas-gassen-spricht-sich-fuer-abschaffung-freiwilliger-leistungen-aus-a-724212f0-2d99-49d3-89b8-be0da5c15fef#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-schmerz-mit-stefanie-reinsperger](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-schmerz-mit-stefanie-reinsperger-a-f6bcb397-d715-428d-8940-6991f69185c0#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/wissenschaft/mensch/mit-fuenf-noch-windeln-tragen-warum-kinder-heute-spaeter-trocken-werden](https://www.spiegel.de/wissenschaft/mensch/mit-fuenf-noch-windeln-tragen-warum-kinder-heute-spaeter-trocken-werden-a-5ed4ed61-3507-4d1b-9592-2c9c749d8c94#ref=rss)
+### windeln
+
+* [https://www.spiegel.de/wissenschaft/mensch/mit-fuenf-noch-windeln-tragen-warum-kinder-heute-spaeter-trocken-werden](https://www.spiegel.de/wissenschaft/mensch/mit-fuenf-noch-windeln-tragen-warum-kinder-heute-spaeter-trocken-werden-a-5ed4ed61-3507-4d1b-9592-2c9c749d8c94#ref=rss)
+### tragen
+
+* [https://www.spiegel.de/wissenschaft/mensch/mit-fuenf-noch-windeln-tragen-warum-kinder-heute-spaeter-trocken-werden](https://www.spiegel.de/wissenschaft/mensch/mit-fuenf-noch-windeln-tragen-warum-kinder-heute-spaeter-trocken-werden-a-5ed4ed61-3507-4d1b-9592-2c9c749d8c94#ref=rss)
+### ahmed
+
+* [https://www.spiegel.de/ausland/bondi-beach-held-ahmed-al-ahmed-spricht-ueber-den-moment-als-er-einen-der-attentaeter-ueberwaeltigte](https://www.spiegel.de/ausland/bondi-beach-held-ahmed-al-ahmed-spricht-ueber-den-moment-als-er-einen-der-attentaeter-ueberwaeltigte-a-92f7d21e-721b-47f5-a71c-e7ab788608da#ref=rss)
+### alahmed
+
+* [https://www.spiegel.de/ausland/bondi-beach-held-ahmed-al-ahmed-spricht-ueber-den-moment-als-er-einen-der-attentaeter-ueberwaeltigte](https://www.spiegel.de/ausland/bondi-beach-held-ahmed-al-ahmed-spricht-ueber-den-moment-als-er-einen-der-attentaeter-ueberwaeltigte-a-92f7d21e-721b-47f5-a71c-e7ab788608da#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/ausland/bondi-beach-held-ahmed-al-ahmed-spricht-ueber-den-moment-als-er-einen-der-attentaeter-ueberwaeltigte](https://www.spiegel.de/ausland/bondi-beach-held-ahmed-al-ahmed-spricht-ueber-den-moment-als-er-einen-der-attentaeter-ueberwaeltigte-a-92f7d21e-721b-47f5-a71c-e7ab788608da#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-schmerz-mit-stefanie-reinsperger](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-schmerz-mit-stefanie-reinsperger-a-f6bcb397-d715-428d-8940-6991f69185c0#ref=rss)
+### bischofskonferenz
+
+* [https://www.spiegel.de/politik/deutschland/news-us-zollpolitik-donald-trump-bischofskonferenz-georg-baetzing-annegret-kramp-karrenbauer-bundeskanzler](https://www.spiegel.de/politik/deutschland/news-us-zollpolitik-donald-trump-bischofskonferenz-georg-baetzing-annegret-kramp-karrenbauer-bundeskanzler-a-d0b207e6-4d74-438a-a72c-26c06468952b#ref=rss)
+### krampkarrenbauer
+
+* [https://www.spiegel.de/politik/deutschland/news-us-zollpolitik-donald-trump-bischofskonferenz-georg-baetzing-annegret-kramp-karrenbauer-bundeskanzler](https://www.spiegel.de/politik/deutschland/news-us-zollpolitik-donald-trump-bischofskonferenz-georg-baetzing-annegret-kramp-karrenbauer-bundeskanzler-a-d0b207e6-4d74-438a-a72c-26c06468952b#ref=rss)
+### ich
+
+* [https://www.spiegel.de/karriere/abfindungen-riskiere-ich-eine-kuendigung-wenn-ich-mich-danach-erkundige](https://www.spiegel.de/karriere/abfindungen-riskiere-ich-eine-kuendigung-wenn-ich-mich-danach-erkundige-a-af5763dc-3408-43be-b609-76d5b6c8cd51#ref=rss)
+### el
+
+* [https://www.spiegel.de/ausland/drogen-boss-el-mencho-in-mexiko-getoetet-sein-kartell-cjng-reagiert-mit-gewalt](https://www.spiegel.de/ausland/drogen-boss-el-mencho-in-mexiko-getoetet-sein-kartell-cjng-reagiert-mit-gewalt-a-532649fd-6ff5-482a-9ae5-f1dc3a340f11#ref=rss)
+### mencho
+
+* [https://www.spiegel.de/ausland/drogen-boss-el-mencho-in-mexiko-getoetet-sein-kartell-cjng-reagiert-mit-gewalt](https://www.spiegel.de/ausland/drogen-boss-el-mencho-in-mexiko-getoetet-sein-kartell-cjng-reagiert-mit-gewalt-a-532649fd-6ff5-482a-9ae5-f1dc3a340f11#ref=rss)
 
